@@ -5,6 +5,7 @@
   "license": "MIT",
   "main": "gulpfile.js",
   "dependencies": {
+    "jquery": "^3.3.1",
     "motion-ui": "^2.0.3"
   },
   "devDependencies": {
@@ -46,9 +47,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/core77/jekyll-foundation.git"
+    "url": "git@gitlab.com:ebernoux/DINSIC-SITE.git"
   },
   "bugs": {
-    "url": "https://github.com/core77/jekyll-foundation/issues"
+    "url": "https://gitlab.com/ebernoux/DINSIC-SITE/issues"
   }
 }
