@@ -14,5 +14,3 @@ It provides a [Gulp.js](http://gulpjs.com/) workflow with
 - Concatenation and minification of CSS and JavaScript files
 - Asset management is done by Bower (and Composer if you need serverside libraries)  
 - Deployment with rsync
-
-[Getting started](https://github.com/Foundation-for-Jekyll-sites/jekyll-foundation/wiki/Getting-started)
