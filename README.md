@@ -30,6 +30,6 @@ This package is meant to build your Site on your local machine.
 
 It provides a [Gulp.js](http://gulpjs.com/) workflow with
 
-- Browsersync (live reload and synchronised browser testing)
-- Concatenation and minification of CSS and JavaScript files
-- Asset management is done by Bower (and Composer if you need serverside libraries)  
+Troubleshouting
+[rvm] Problème rvm sous GitBash et Windows. Cette solution fonctionne :
+https://github.com/rvm/rvm/issues/4354
