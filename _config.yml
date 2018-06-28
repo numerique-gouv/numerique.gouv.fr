@@ -1,52 +1,45 @@
-# Site settings
-language:               ""
-title:                  "DINSIC"
-description:            "Le site officiel de la DINSIC"
-google-verification:    ""
-
-# Handling Reading
+---
+title: DINSIC
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+language: ''
+description: Le site officiel de la DINSIC
+google-verification: ''
 include:
-  - ".htaccess"
-  - "_pages"
-
+- ".htaccess"
+- _pages
 exclude:
-  - ".DS_Store"
-  - "/assets/"
-  - "bower.json"
-  - "composer.json"
-  - "composer.lock"
-  - "DOC.md"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "/gulp/"
-  - "gulpfile.js"
-  - "LICENSE.md"
-  - "Makefile"
-  - "node_modules"
-  - "npm-debug.log"
-  - "package.json"
-  - "README.md"
-  - "rev-manifest.json"
-  - "yarn.lock"
-  - "yarn-error.log"
-
-# Plugins
-# Add plugins in the Gemfile
-
-# Conversion
-incremental:      true
-
-# Serving
-# url:            ""
-# baseurl:        "" # does not include hostname
-
-# Outputting
-permalink:        "/blog/:year/:title/"
-paginate_path:    "/blog/page:num"
-paginate:         5
-
+- ".DS_Store"
+- "/assets/"
+- bower.json
+- composer.json
+- composer.lock
+- DOC.md
+- Gemfile
+- Gemfile.lock
+- "/gulp/"
+- gulpfile.js
+- LICENSE.md
+- Makefile
+- node_modules
+- npm-debug.log
+- package.json
+- README.md
+- rev-manifest.json
+- yarn.lock
+- yarn-error.log
+incremental: true
+permalink: "/blog/:year/:title/"
+paginate_path: "/blog/page:num"
+paginate: 5
 compress_html:
   ignore:
-    envs: [development]
-
-highlighter:      rouge
+    envs:
+    - development
+highlighter: rouge

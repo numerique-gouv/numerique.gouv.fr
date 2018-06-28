@@ -1,8 +1,9 @@
 ---
-permalink: /kitchen-sink/
-layout: page
 title: Kitchen Sink
+permalink: "/kitchen-sink/"
+layout: page
 ---
+
 <p class="lead">Everything but.</p>
 
 <div class="off-campus-wrapper">
