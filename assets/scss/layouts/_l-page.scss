@@ -4,6 +4,7 @@
 
 main {
   @include grid-row;
+  background-color: $light-gray;
 
   //other elements
   //@include grid-column;

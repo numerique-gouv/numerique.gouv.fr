@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: index
-title: Homepage
+title: Accueil | DINSIC
 ---
 
-Welcome to your new Jekyll site.
+Bienvenu sur le nouneau site de la DINSIC

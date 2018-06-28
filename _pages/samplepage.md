@@ -1,7 +1,7 @@
 ---
-permalink: /samplepage/
+permalink: /missions/
 layout: page
-title:  Sample page
+title:  Nos missions
 date:   2015-01-03 21:21
 ---
 

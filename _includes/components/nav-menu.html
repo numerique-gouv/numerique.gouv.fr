@@ -1,7 +1,14 @@
 <nav >
-  <ul class="menu clearfix float-right">
+  <ul class="menu clearfix float-left padding-1"">
+    <li>
+      <a href="/">
+        <img src="assets/img/logos/Logo_de_la_Republique_française.png" alt="Logo de la République française">
+        <i><b>dinsic.gouv</b>.fr</i>
+      </a>
+
+    </li>
     {% for item in site.data.nav-main %}
-      <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+      <li><a class="padding-top-align" href="{{ item.url }}">{{ item.link }}</a></li>
     {% endfor %}
   </ul>
 </nav>
