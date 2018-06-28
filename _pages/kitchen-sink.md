@@ -1,6 +1,7 @@
 ---
 title: Kitchen Sink
 permalink: "/kitchen-sink/"
+published: false
 layout: page
 ---
 
