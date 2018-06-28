@@ -4,4 +4,4 @@ layout: index
 title: Accueil | DINSIC
 ---
 
-Bienvenu sur le nouneau site de la DINSIC
+Bienvenue sur le nouveau site de la DINSIC

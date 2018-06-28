@@ -27,8 +27,12 @@ footer {
   max-width: none;
   background-color: $black;
   color: $white;
-
   nav {
     @include grid-column;
+    li {
+      a {
+        color: $white;
+      }
+    }
   }
 }
