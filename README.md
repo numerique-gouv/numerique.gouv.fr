@@ -2,8 +2,6 @@
 
 ## System Preparation
 
-To use this starter project, you'll need the following things installed on your machine.
-
 ### Required
 [Git](https://git-scm.com)  
 [Ruby and Ruby Gems](https://rvm.io/rvm/install)  
@@ -30,6 +28,5 @@ This package is meant to build your Site on your local machine.
 
 It provides a [Gulp.js](http://gulpjs.com/) workflow with
 
-Troubleshouting
-[rvm] Problème rvm sous GitBash et Windows. Cette solution fonctionne :
-https://github.com/rvm/rvm/issues/4354
+# Troubleshooting
+[rvm] Fix pour problème rvm sous GitBash et Windows. (https://github.com/rvm/rvm/issues/4354)
