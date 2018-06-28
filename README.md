@@ -29,4 +29,4 @@ This package is meant to build your Site on your local machine.
 It provides a [Gulp.js](http://gulpjs.com/) workflow with
 
 # Troubleshooting
-[rvm] Fix pour problème rvm sous GitBash et Windows. (https://github.com/rvm/rvm/issues/4354)
+[rvm](https://github.com/rvm/rvm/issues/4354) Fix pour problème rvm sous GitBash et Windows.
