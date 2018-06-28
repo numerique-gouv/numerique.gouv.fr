@@ -8,9 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-language: ''
+language: Fr
 description: Le site officiel de la DINSIC
-google-verification: ''
+google-verification: 
 include:
 - ".htaccess"
 - _pages
