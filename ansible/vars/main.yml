@@ -1,0 +1,21 @@
+htpasswd_credentials:
+  - path: /etc/apache-passwdfile
+    name: dinsic
+    password: 'supersecure'
+    owner: root
+    group: www-data
+    mode: 'u+rw,g+r'
+
+apache_listen_port: 80
+apache_remove_default_vhost: True
+apache_vhosts:
+  - listen: "8080"
+    servername: "dinsic"
+    documentroot: "/var/www/html"
+    extra_parameters: |
+          <Directory "/var/www/html">
+              AuthType Basic
+              AuthName "Apache with basic auth."
+              AuthUserFile /etc/apache-passwdfile
+              Require valid-user
+          </Directory>

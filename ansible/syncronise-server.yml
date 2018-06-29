@@ -1,0 +1,12 @@
+---
+- hosts: dev
+  remote_user: root
+  tasks:
+  - name: Copy _site to www folder
+    copy:
+      src: ../_site/
+      dest: /var/www/html/
+      owner: root
+      group: www-data
+      mode: u=rw,g=r,o=r
+

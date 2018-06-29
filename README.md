@@ -30,3 +30,18 @@ It provides a [Gulp.js](http://gulpjs.com/) workflow with
 
 # Troubleshooting
 [rvm](https://github.com/rvm/rvm/issues/4354) Fix pour problème rvm sous GitBash et Windows.
+
+
+
+### Ansible
+
+Pour la configuration du serveur,  nous avons utilisé les rôles ansible suivants:
+
+https://github.com/geerlingguy/ansible-role-apache
+https://github.com/geerlingguy/ansible-role-php`
+
+
+####Installer un serveur
+`ansible-playbook ./ansible/install-server.yml -i ./ansible/host`
+####Le syncroniser
+`ansible-playbook ./ansible/syncronise-server.yml -i ./ansible/host`
