@@ -2,6 +2,9 @@
     Header set Connection keep-alive
 </ifModule>
 
+RewriteEngine On
+RewriteBase /opt/piwik
+
 # -- Password Protection --
 # AuthName "Restricted Area"
 # AuthType Basic

@@ -8,6 +8,7 @@
       apt: update_cache=yes cache_valid_time=600
       when: ansible_os_family == 'Debian'
   roles:
-    - install-apache
-    - install-php
-    - install-htpasswd
+    - ansible-role-nginx
+    - ansible-role-php
+    - ansible-role-htpasswd
+

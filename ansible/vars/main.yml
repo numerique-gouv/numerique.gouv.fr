@@ -1,21 +1,20 @@
 htpasswd_credentials:
-  - path: /etc/apache-passwdfile
-    name: dinsic
-    password: 'supersecure'
-    owner: root
-    group: www-data
-    mode: 'u+rw,g+r'
+      - path: /etc/nginx/passwdfile
+        name: dinsic
+        password: 'supersecure'
+        owner: root
+        group: www-data
+        mode: 'u+rw,g+r'
 
-apache_listen_port: 80
-apache_remove_default_vhost: True
-apache_vhosts:
-  - listen: "8080"
-    servername: "dinsic"
-    documentroot: "/var/www/html"
+nginx_remove_default_vhost: True
+nginx_vhosts:
+  - listen: "80"
+    server_name: "htpassword.test"
+    root: "/var/www/html"
+    index: "index.html index.html index.nginx-debian.html"
+    filename: "htpassword.test.conf"
     extra_parameters: |
-          <Directory "/var/www/html">
-              AuthType Basic
-              AuthName "Apache with basic auth."
-              AuthUserFile /etc/apache-passwdfile
-              Require valid-user
-          </Directory>
+          location / {
+              auth_basic           "Nginx with basic auth.";
+              auth_basic_user_file /etc/nginx/passwdfile;
+              }

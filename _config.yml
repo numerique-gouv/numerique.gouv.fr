@@ -29,6 +29,7 @@ exclude:
   - "rev-manifest.json"
   - "yarn.lock"
   - "yarn-error.log"
+  - "/ansible/"
 
 # Plugins
 # Add plugins in the Gemfile

@@ -1,0 +1,9 @@
+[submodule "ansible/roles/ansible-role-nginx"]
+	path = ansible/roles/ansible-role-nginx
+	url = https://github.com/geerlingguy/ansible-role-nginx.git
+[submodule "ansible/roles/ansible-role-php"]
+	path = ansible/roles/ansible-role-php
+	url = https://github.com/geerlingguy/ansible-role-php.git
+[submodule "ansible/roles/ansible-role-htpasswd"]
+	path = ansible/roles/ansible-role-htpasswd
+	url = https://github.com/geerlingguy/ansible-role-htpasswd.git
