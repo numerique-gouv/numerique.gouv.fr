@@ -1,7 +1,10 @@
 ---
+title: Welcome to Jekyll!
+date: 2016-03-23 00:00:00 Z
+categories:
+- jekyll
+- update
 layout: post
-title:  "Welcome to Jekyll!"
-categories: jekyll update
 ---
 
 You'll find this post in your `_posts` directory.
