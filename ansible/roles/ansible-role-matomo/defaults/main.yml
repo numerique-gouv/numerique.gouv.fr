@@ -1,0 +1,60 @@
+---
+# Default dependency list, based on Debian:
+matomo:
+  mysql:
+    host: localhost
+    admin_user: root
+    admin_pass: root
+    matomo_user: matomo
+    matomo_pass: matomo
+    matomo_db: matomo
+    service: 'mysql'
+  settings:
+    # Latest Piwik build
+    url: 'http://builds.piwik.org'
+    file: 'latest.zip'
+    locations:
+      tmp: '/tmp'
+      install: '/opt/'
+      dest: '/opt/piwik'
+    web_writable_dirs:
+      - 'tmp'
+      - 'config'
+  nginx:
+    user: 'www-data'
+    group: 'www-data'
+    service: 'nginx'
+  geoip:
+    url: 'http://geolite.maxmind.com/download/geoip/database'
+    file: 'GeoLiteCity.dat.gz'
+    dest: 'GeoIPCity.dat'
+  dependencies:
+    deb:
+      php:
+        - 'nginx'
+        - 'php'
+        - 'libapache2-mod-php'
+        - 'php-mysql'
+        - 'php-gd'
+        - 'php-geoip'
+        - 'php-ldap'
+      general:
+        - 'unzip'
+      mysql:
+        - 'mysql-server'
+        - 'python-mysqldb' # Install MySQLdb Python package, mandatory to manage MySQL with ansible
+    rpm:
+      php:
+        - 'httpd'
+        - 'php'
+        - 'php-common'
+        - 'php-mysqlnd'
+        - 'php-gd'
+        - 'php-pecl-geoip'
+        - 'php-ldap'
+        - 'php-mbstring'
+      general:
+        - 'unzip'
+      mysql:
+        - 'community-mysql-server'
+        - 'MySQL-python' # Install MySQLdb Python package, mandatory to manage MySQL with ansible

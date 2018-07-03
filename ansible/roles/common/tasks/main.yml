@@ -1,0 +1,7 @@
+---
+- name: add authorized keys for root
+  authorized_key:
+    user: root
+    key: "{{ item.public_key }}"
+  with_items:
+    - "{{ authorized_keys }}"

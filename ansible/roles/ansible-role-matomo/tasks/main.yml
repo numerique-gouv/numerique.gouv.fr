@@ -1,0 +1,3 @@
+---
+# Install Piwik
+- include: piwik.yml tags=piwik

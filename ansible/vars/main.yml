@@ -1,20 +1,33 @@
-htpasswd_credentials:
-      - path: /etc/nginx/passwdfile
-        name: dinsic
-        password: 'supersecure'
-        owner: root
-        group: www-data
-        mode: 'u+rw,g+r'
+authorized_keys:
+  - user: ETBE-key
+    public_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCeuQuI9G3+Dkg1S7V+zIDxbKk9NUz8oPFs6/lhHxCcWdiVJB82vvSEgXeRbEwaZdZzQeKh6YoO/kb8YQjvUjvpDALNXyuRiWf5gasZG8fIfpSKbmnjXXaxB4xoURrkWUzL9BXtrBmiZTaIYZb3fMeJc/3EO7cVtROFLvwedD/PAgkOQjOn+UAOIlsi/kCBQ0Jah6BYX6cQH+OH9PuZIeCKRLt0nghh7spNQTFZ6D/ftaBVMsYc64ZGhqrk908Uuoh2tVxI7ow1lBZyFhwOlyNqtC/tn/zdVBUHFFmEt+1C21crewt3rxembRAZfCwn2cm/HuplEQXU08i4kxMuVXFJ ebernoux@octo-etbe.paris.octo
 
+php_webserver_daemon: nginx
+
+htpasswd_credentials:
+  - path: /etc/nginx/passwdfile
+    name: dinsic
+    password: 'supersecure'
+    owner: root
+    group: www-data
+    mode: 'u+rw,g+r'
+
+
+#Nginx conf
+nginx_user: "www-data"
 nginx_remove_default_vhost: True
 nginx_vhosts:
   - listen: "80"
-    server_name: "htpassword.test"
+    server_name: "dinsic"
     root: "/var/www/html"
     index: "index.html index.html index.nginx-debian.html"
-    filename: "htpassword.test.conf"
+    error_page: "404 /404/index.html"
+    filename: "dinsic.conf"
     extra_parameters: |
-          location / {
-              auth_basic           "Nginx with basic auth.";
-              auth_basic_user_file /etc/nginx/passwdfile;
-              }
+      location / {
+          auth_basic           "Nginx with basic auth.";
+          auth_basic_user_file /etc/nginx/passwdfile;
+          }
+
+
+

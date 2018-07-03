@@ -1,0 +1,12 @@
+---
+# Check if necessary configuration settings are present
+- include: checks.yml
+
+# Manage Piwik MySQL db
+- include: db.yml
+
+# Install Piwik
+- include: piwik.yml
+
+# Install GeoIP database file
+- include: geoip.yml

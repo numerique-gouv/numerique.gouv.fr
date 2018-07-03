@@ -1,0 +1,6 @@
+---
+common_authorized_keys: []
+  #   - user: any_user
+  #     public_key: ssh-rsa my key
+
+ssh_public_key_filename: ~/.ssh/id_rsa.pub
