@@ -10,46 +10,35 @@ collections:
     output: true
 language: Fr
 description: Le site officiel de la DINSIC
-google-verification:
+google-verification: 
 include:
 - ".htaccess"
 - _pages
 exclude:
-  - ".DS_Store"
-  - "/assets/"
-  - "bower.json"
-  - "composer.json"
-  - "composer.lock"
-  - "DOC.md"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "/gulp/"
-  - "gulpfile.js"
-  - "LICENSE.md"
-  - "Makefile"
-  - "node_modules"
-  - "npm-debug.log"
-  - "package.json"
-  - "README.md"
-  - "rev-manifest.json"
-  - "yarn.lock"
-  - "yarn-error.log"
-  - "/ansible/"
-
-# Plugins
-# Add plugins in the Gemfile
-
-# Conversion
-incremental:      true
-
-# Serving
-# url:            ""
-# baseurl:        "" # does not include hostname
-
-# Outputting
-permalink:        "/blog/:year/:title/"
-paginate_path:    "/blog/page:num"
-paginate:         5
+- ".DS_Store"
+- "/assets/"
+- bower.json
+- composer.json
+- composer.lock
+- DOC.md
+- Gemfile
+- Gemfile.lock
+- "/gulp/"
+- gulpfile.js
+- LICENSE.md
+- Makefile
+- node_modules
+- npm-debug.log
+- package.json
+- README.md
+- rev-manifest.json
+- yarn.lock
+- yarn-error.log
+- "/ansible/"
+incremental: true
+permalink: "/blog/:year/:title/"
+paginate_path: "/blog/page:num"
+paginate: 5
 compress_html:
   ignore:
     envs:
