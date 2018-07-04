@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+<!-- This loops through the paginated posts -->
+{% assign sorted = (site.actualites | sort: 'date') | reverse %}
+{% for actualite in sorted %}
+
+<h1><a href="{{ post.url }}">{{ actualite.title }}</a></h1>
+<p class="post-meta">{{ actualite.date | date: '%d.%m.%Y' }}</p>
+{{ actualite.excerpt }}
+<a href="{{ actualite.url }}">Read more...</a>
+
+{% unless forloop.last %}
+<hr>
+{% endunless %}
+
+{% endfor %}
+
