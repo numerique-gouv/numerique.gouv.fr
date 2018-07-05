@@ -1,14 +1,35 @@
 <nav >
-  <ul class="menu clearfix float-left padding-1"">
-    <li>
+  <div class="title-bar" data-responsive-toggle="dinsic-main-menu" data-hide-for="medium">
+    <div class="title-bar-left">
       <a href="/">
         <img src="{{base}}/assets/img/logos/Logo_de_la_Republique_francaise.png" alt="Logo de la République française">
         <i><b>dinsic.gouv</b>.fr</i>
       </a>
-
-    </li>
-    {% for item in site.data.nav-main %}
-      <li><a class="padding-top-align" href="{{ item.url }}">{{ item.link }}</a></li>
-    {% endfor %}
-  </ul>
+    </div>
+    <div class="title-bar-right">
+      <button class="hamburger-icon" type="button" data-toggle="dinsic-main-menu"></button>
+      <div class="title-bar-title">Menu</div>
+    </div>
+  </div>
+  <div class="top-bar" id="dinsic-main-menu">
+    <div class="top-bar-left">
+      <ul class="vertical medium-horizontal menu">
+        <li class="hide-for-small-only">
+          <a href="/">
+            <img src="{{base}}/assets/img/logos/Logo_de_la_Republique_francaise.png" alt="Logo de la République française">
+            <i><b>dinsic.gouv</b>.fr</i>
+          </a>
+        </li>
+        {% for item in site.data.nav-main %}
+        <li><a class="padding-top-align" href="{{ item.url }}">{{ item.link }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="top-bar-right">
+      <ul class="menu">
+        <li><input type="search" placeholder="Search"></li>
+        <li><button type="button" class="button">Search</button></li>
+      </ul>
+    </div>
+  </div>
 </nav>
