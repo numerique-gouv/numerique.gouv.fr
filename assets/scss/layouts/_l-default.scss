@@ -8,7 +8,6 @@ header {
   max-width: none;
 
   nav {
-
     @include grid-column;
     a {
       color: $black;
