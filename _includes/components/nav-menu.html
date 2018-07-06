@@ -1,4 +1,4 @@
-<nav >
+<nav>
   <div class="title-bar" data-responsive-toggle="dinsic-main-menu" data-hide-for="medium">
     <div class="title-bar-left">
       <a href="/">
@@ -21,7 +21,9 @@
           </a>
         </li>
         {% for item in site.data.nav-main %}
-        <li><a class="padding-top-align" href="{{ item.url }}">{{ item.link }}</a></li>
+        <li>
+          <a class="padding-top-align" href="{{ item.url }}">{{ item.link }}</a>
+        </li>
         {% endfor %}
       </ul>
     </div>
