@@ -8,7 +8,15 @@ header {
   max-width: none;
 
   nav {
-
+    margin-top: 1rem;
+    #dinsic-main-menu {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      @include breakpoint(medium down) {
+        padding-left: 0rem;
+        padding-right: 0rem;
+      }
+    }
     @include grid-column;
     a {
       color: $black;
