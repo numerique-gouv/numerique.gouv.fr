@@ -11,6 +11,9 @@ collections:
   actualites:
     title: Actualités
     output: true
+    default:
+      values:
+        layout: actualitees
 language: Fr
 description: Le site officiel de la DINSIC
 google-verification:
