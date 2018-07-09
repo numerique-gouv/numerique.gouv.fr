@@ -15,25 +15,28 @@
     background: url("/assets/img/lorem_ipsum/Home.jpg") no-repeat center fixed;
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
     background-size: cover; /* version standardisée */;
+    display: flex;
 
     @include breakpoint(medium down) {
       margin: 0px;
     }
     .encart-transparent {
       background-color: rgba(0, 0, 0, 0.6);
-      margin-left: 10%;
-      margin-top: 15%;
+      margin: auto;
+      margin-left: 3rem;
+      margin-right: 3rem;
       max-width: 60%;
       @include breakpoint(medium down) {
-        margin: 10%;
         max-width: none;
+        margin-left: 2rem;
+        margin-right: 2rem;
       }
 
       .titre-encart-transparent {
         color: $white;
         text-transform: uppercase;
         h1 {
-          font-weight: lighter;
+          font-weight: 300;
         }
       }
       .bouton-encart-transparent {
@@ -41,6 +44,7 @@
         border: solid $white 0.2rem ;
         color: $white;
         text-transform: uppercase;
+        font-weight: 700;
       }
     }
 
@@ -51,13 +55,36 @@
 
     ul {
       list-style-type: none;
+
       li {
         background-color: $white;
+        @include breakpoint(medium down) {
+          margin-bottom: 1rem;
+        }
+        h5 {
+          font-weight: 700;
+        }
+        hr {
+          background-color: $bleue;
+          height: 0.5rem;
+          margin: unset;
+        }
       }
     }
+    #voir-tout {
+      a{
+        color:$bleue;
+        font: $header-font-family;
+        font-weight: 700;
+        font-size: medium;
+        text-transform: uppercase;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        border-left:1px solid $bleue;
+        border-right:1px solid $bleue;
 
-
-
+      }
+    }
   }
 
 
