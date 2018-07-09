@@ -1,43 +1,66 @@
 // --------------------------------------------------
 // Layout index page
 // --------------------------------------------------
-
-#visuel-accueil {
-  margin-top: 1rem;
-  margin-bottom: 6rem;
-  margin-left: 3rem;
-  margin-right: 3rem;
-  height: 85vh;
-  background: url("/assets/img/lorem_ipsum/Home.jpg") no-repeat center fixed;
-  -webkit-background-size: cover; /* pour anciens Chrome et Safari */
-  background-size: cover; /* version standardisée */;
-
-  @include breakpoint(medium down) {
-    margin: 0px;
-  }
-  .encart-transparent {
-    background-color: rgba(0, 0, 0, 0.6);
-    margin-left: 10%;
-    margin-top: 15%;
-    max-width: 60%;
-    .titre-encart-transparent {
-      color: $white;
-      text-transform: uppercase;
-    }
-    .bouton-encart-transparent {
-      margin-top: 1rem;
-      border: solid $white 0.2rem ;
-      color: $white;
-      text-transform: uppercase;
-    }
-
-
-  }
-
-}
-
-main {
+#index-main {
   @include grid-row;
+  background-color: $white;
+  max-width: none;
+
+  #visuel-accueil {
+    margin-top: 1rem;
+    margin-bottom: 6rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    height: 85vh;
+    background: url("/assets/img/lorem_ipsum/Home.jpg") no-repeat center fixed;
+    -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+    background-size: cover; /* version standardisée */;
+
+    @include breakpoint(medium down) {
+      margin: 0px;
+    }
+    .encart-transparent {
+      background-color: rgba(0, 0, 0, 0.6);
+      margin-left: 10%;
+      margin-top: 15%;
+      max-width: 60%;
+      @include breakpoint(medium down) {
+        margin: 10%;
+        max-width: none;
+      }
+
+      .titre-encart-transparent {
+        color: $white;
+        text-transform: uppercase;
+      }
+      .bouton-encart-transparent {
+        margin-top: 1rem;
+        border: solid $white 0.2rem ;
+        color: $white;
+        text-transform: uppercase;
+      }
+    }
+
+  }
+
+  #meilleures-actus {
+    background-color: $light-gray;
+    h1 {
+      font-weight: lighter;
+    }
+    ul {
+      list-style-type: none;
+      li {
+        background-color: $white;
+      }
+    }
+
+
+
+  }
+
+
+
 
 
 
