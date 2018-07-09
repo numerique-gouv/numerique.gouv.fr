@@ -9,6 +9,9 @@ header {
 
   nav {
     margin-top: 1rem;
+    @include breakpoint(medium down) {
+      margin-top: 0rem;
+    }
     #dinsic-main-menu {
       padding-left: 2rem;
       padding-right: 2rem;
