@@ -5,6 +5,7 @@
   "license": "MIT",
   "main": "gulpfile.js",
   "dependencies": {
+    "hamburgers": "^0.9.3",
     "jquery": "^3.3.1",
     "motion-ui": "^2.0.3"
   },

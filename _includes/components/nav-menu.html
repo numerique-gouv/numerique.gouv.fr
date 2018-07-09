@@ -7,11 +7,15 @@
       </a>
     </div>
     <div class="title-bar-right">
-      <button class="hamburger-icon" type="button" data-toggle="dinsic-main-menu" ></button>
+      <button id="hamburger-button" class="hamburger hamburger--collapse" type="button" data-toggle="dinsic-main-menu" >
+        <span class="hamburger-box">
+          <span class="hamburger-inner"></span>
+        </span>
+      </button>
       <div class="title-bar-title">Menu</div>
     </div>
   </div>
-  <div class="top-bar" id="dinsic-main-menu">
+  <div class="top-bar" id="dinsic-main-menu" data-animate="hinge-in-from-top hinge-out-from-top">
     <div class="top-bar-left">
       <ul class="vertical medium-horizontal menu">
         <li class="hide-for-small-only">
