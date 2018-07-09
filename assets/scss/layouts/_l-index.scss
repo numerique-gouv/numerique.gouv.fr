@@ -32,6 +32,9 @@
       .titre-encart-transparent {
         color: $white;
         text-transform: uppercase;
+        h1 {
+          font-weight: lighter;
+        }
       }
       .bouton-encart-transparent {
         margin-top: 1rem;
@@ -45,9 +48,7 @@
 
   #meilleures-actus {
     background-color: $light-gray;
-    h1 {
-      font-weight: lighter;
-    }
+
     ul {
       list-style-type: none;
       li {
