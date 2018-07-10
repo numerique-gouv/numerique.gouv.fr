@@ -85,7 +85,17 @@ javascript:
     # Paths to your own project code are here
     # All the files in this list and in the js dir are concatenated into all.js
     - "!assets/js/all.js"
+    - "!assets/js/rechercher.js"
     - "assets/js/*.js"
+
+rechercher:
+  dest:
+    buildDir: "_site/assets/js/"
+  filename: "rechercher.js"
+  notification: "Running Rechercher"
+  src:
+   - node_modules/lunr/lunr.js
+   - "assets/js/rechercher.js"
 
 jekyll:
   notification: "Running jekyll"
@@ -109,6 +119,6 @@ watch:
   sass: "assets/scss/**/*.scss"
   pages:
     - "*.{md,html,yml,xml}"
-    - "{_data,_includes,_layouts,_actualites,_pages,_posts,blog,actualites}/**/*.{md,html,yml,xml}"
+    - "{_data,_includes,_layouts,_actualites,_pages,_posts,_rechercher,blog,actualites}/**/*.{md,html,yml,xml}"
     - "!_site/**/*.*"
     - "!assets/**/*.*"
