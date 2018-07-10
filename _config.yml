@@ -2,7 +2,7 @@
 title: DINSIC
 timezone: UTC
 collections:
-  actualites:
+  actualites-all:
     title: Actualites
     output: true
     permalink: "/actualites/:path/"
