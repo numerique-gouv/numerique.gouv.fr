@@ -21,7 +21,12 @@ language: Fr
 
 # Build settings
 collections:
-- actualites
+  actualites:
+   output: true
+   permalink: /actualites/:path/
+  presse:
+   output: true
+   permalink: /espace-presse/:path/
 
 plugins:
 - jekyll-paginate-v2
