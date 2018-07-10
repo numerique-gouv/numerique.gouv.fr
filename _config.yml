@@ -5,6 +5,7 @@ collections:
   posts:
     title: Actualités
     output: true
+  dinsic-contenu:
   uploads:
     title: Uploads
     output: true
