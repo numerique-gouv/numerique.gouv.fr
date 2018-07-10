@@ -50,6 +50,7 @@ pagination:
   limit: 0
   sort_field: date
   sort_reverse: true
+incremental: true
 compress_html:
   ignore:
     envs:
