@@ -23,7 +23,6 @@ include:
 - _pages
 exclude:
 - ".DS_Store"
-- "/assets/"
 - bower.json
 - composer.json
 - composer.lock
