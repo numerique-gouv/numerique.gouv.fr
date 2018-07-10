@@ -1,28 +1,18 @@
 ---
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: DINSIC
-description: Le site officiel de la DINSIC
 timezone: UTC
-language: Fr
-
-# Build settings
 collections:
-- actualites
-
+  actualites:
+    title: Actualites
+    output: false
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: Le site officiel de la DINSIC
+language: Fr
 plugins:
 - jekyll-paginate-v2
 include:
@@ -49,23 +39,16 @@ exclude:
 - yarn.lock
 - yarn-error.log
 - "/ansible/"
-
-permalink: /:year/:month/:title.html
-
-
-# Pagination Settings
+permalink: "/:year/:month/:title.html"
 pagination:
   enabled: true
   per_page: 3
-  permalink: '/page/:num/'
-  title: ':title - page :num of :max'
+  permalink: "/page/:num/"
+  title: ":title - page :num of :max"
   limit: 0
-  sort_field: 'date'
+  sort_field: date
   sort_reverse: true
-  category: 'actualites'
-
-
-
+  category: actualites
 compress_html:
   ignore:
     envs:
