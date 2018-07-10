@@ -32,10 +32,14 @@
       </ul>
     </div>
     <div class="top-bar-right">
-      <ul class="menu">
-        <li><input type="search" placeholder="Search"></li>
-        <li><button type="button" class="button">Search</button></li>
-      </ul>
+      <form action="/rechercher" class="search-form" method="get">
+        <ul class="menu">
+            <li><input type="text" name="query" placeholder="Rechercher"></li>
+            <li><button type="submit button" class="button">
+              <img src="{{base}}/assets/img/pictogrammes/Zoom.png"></button>
+            </li>
+        </ul>
+      </form>
     </div>
   </div>
 </nav>

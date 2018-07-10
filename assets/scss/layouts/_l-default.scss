@@ -8,6 +8,7 @@ header {
   max-width: none;
 
   nav {
+    @include grid-column;
     margin-top: 1rem;
     @include breakpoint(medium down) {
       margin-top: 0rem;
@@ -19,18 +20,29 @@ header {
         padding-left: 0rem;
         padding-right: 0rem;
       }
-    }
-    @include grid-column;
-    a {
-      color: $black;
-      img {
-        height: 2em;
-        max-width: 100%;
+      a {
+        color: $black;
+        img {
+          height: 2em;
+          max-width: 100%;
+        }
+      }
+      .padding-top-align {
+        padding-top: 1.1rem;
+      }
+      .search-form {
+        button {
+          background-color: $white;
+          border: $light-gray solid 1px;
+          img{
+            height: 1rem;
+          }
+        }
       }
     }
-    .padding-top-align {
-      padding-top: 1.1rem;
-    }
+
+
+
   }
 }
 
