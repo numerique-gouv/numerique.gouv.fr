@@ -1,4 +1,5 @@
 ---
+title: La recherche
 permalink: "/rechercher/"
 layout: rechercher
 ---
