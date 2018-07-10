@@ -2,21 +2,21 @@
 title: DINSIC
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
   actualites:
     title: Actualités
     output: true
     default:
       values:
         layout: actualitees
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 language: Fr
 description: Le site officiel de la DINSIC
-google-verification:
+google-verification: 
 include:
 - ".htaccess"
 - _pages
