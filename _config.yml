@@ -45,13 +45,12 @@ exclude:
 permalink: "/:year/:month/:title.html"
 pagination:
   enabled: true
-  per_page: 3
+  per_page: 2
   permalink: "/page/:num/"
   title: ":title - page :num of :max"
   limit: 0
   sort_field: date
   sort_reverse: true
-  category: actualites
 compress_html:
   ignore:
     envs:

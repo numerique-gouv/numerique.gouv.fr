@@ -7,7 +7,7 @@ layout: default
 </main>
 <script>
   window.store = {
-  {% for actualite in site.actualites %}
+  {% for actualite in site.posts %}
   "{{ actualite.url | slugify }}": {
     "title": "{{ actualite.title | xml_escape }}",
       "author": "{{ actualite.author | xml_escape }}",
