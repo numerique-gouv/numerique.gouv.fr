@@ -8,14 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
-
 defaults:
 - scope:
     path: ''
     type: posts
   values:
-    permalink: "/actualités/:title/" # replace "articles" with name of your choice
-
+    permalink: "/actualités/:title/"
 description: Le site officiel de la DINSIC
 language: Fr
 plugins:
