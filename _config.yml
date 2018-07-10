@@ -2,20 +2,20 @@
 title: DINSIC
 timezone: UTC
 collections:
-  actualites:
-    title: Actualites
-    output: true
-    permalink: "/actualites/:path/"
   posts:
-    title: Posts
+    title: Actualités
     output: true
-  presse:
-    title: Presse
-    output: true
-    permalink: "/espace-presse/:path/"
   uploads:
     title: Uploads
     output: true
+
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/actualités/:title/" # replace "articles" with name of your choice
+
 description: Le site officiel de la DINSIC
 language: Fr
 plugins:
