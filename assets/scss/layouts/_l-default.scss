@@ -20,13 +20,6 @@ header {
         padding-left: 0rem;
         padding-right: 0rem;
       }
-      a {
-        color: $black;
-        img {
-          height: 2em;
-          max-width: 100%;
-        }
-      }
       .padding-top-align {
         padding-top: 1.1rem;
       }
@@ -40,9 +33,13 @@ header {
         }
       }
     }
-
-
-
+    a {
+      color: $black;
+      img {
+        height: 2rem;
+        max-width: 100%;
+      }
+    }
   }
 }
 
