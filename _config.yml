@@ -8,9 +8,6 @@ collections:
   posts:
     title: Actualités
     output: true
-  actualites:
-    title: Actualités
-    output: true
   uploads:
     title: Uploads
     output: true
