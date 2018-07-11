@@ -1,6 +1,8 @@
 ---
 title: DINSIC
 timezone: UTC
+language: Fr
+markdown: kramdown
 collections:
   posts:
     title: Actualités
@@ -18,7 +20,7 @@ defaults:
   values:
     permalink: "/actualités/:title/"
 description: Le site officiel de la DINSIC
-language: Fr
+
 plugins:
 - jekyll-paginate-v2
 include:
