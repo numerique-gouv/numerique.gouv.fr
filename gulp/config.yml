@@ -36,7 +36,7 @@ javascript:
   src:
     # Libraries requried by Foundation
     - "node_modules/jquery/dist/jquery.js"
-    #- "node_modules/what-input/dist/what-input.js"
+    # - "node_modules/what-input/what-input.js"
 
     # Core Foundation files, all Foundation components need this!
     - "node_modules/foundation-sites/dist/js/plugins/foundation.core.js"
