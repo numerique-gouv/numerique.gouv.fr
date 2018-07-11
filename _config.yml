@@ -2,10 +2,10 @@
 title: DINSIC
 timezone: UTC
 collections:
-  actualites:
+  posts:
     title: Actualités
     output: true
-  posts:
+  actualites:
     title: Actualités
     output: true
   uploads:
