@@ -9,6 +9,6 @@ gulp.task('build',
   gulp.series('clean', 'jekyll-build',
     gulp.parallel('sass', 'javascript', 'rechercher', 'copy')))
 
-gulp.task('default', gulp.series('build', 'browser-sync', 'watch'))
+gulp.task('default', gulp.series('build','browser-sync', 'watch'))
 
 

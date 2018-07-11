@@ -2,7 +2,7 @@ var browserSync = require('browser-sync');
 var config      = require('../util/loadConfig').browsersync;
 var gulp        = require('gulp');
 
-gulp.task('browser-sync', function() {
+gulp.task('browser-sync', function(done) {
   browserSync.init({
     notify: config.notify,
     open: config.open,
@@ -12,4 +12,5 @@ gulp.task('browser-sync', function() {
     },
     xip: config.xip
   });
+  done();
 });
