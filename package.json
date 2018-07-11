@@ -5,20 +5,20 @@
   "license": "MIT",
   "main": "gulpfile.js",
   "dependencies": {
-    "babel-preset-es2015-script": "^1.1.0",
     "hamburgers": "^0.9.3",
     "jquery": "^3.3.1",
     "lunr": "^2.3.0",
     "motion-ui": "^2.0.3"
   },
   "devDependencies": {
-    "babel-core": "^6.26.3",
+    "babel-core": "^6.10.4",
     "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015-script": "^1.1.0",
     "browser-sync": "^2.10.0",
     "cross-spawn": "^5.0.0",
     "del": "^2.2.2",
     "foundation-sites": "^6.4.3",
-    "gulp": "^3.9.1",
+    "gulp": "gulpjs/gulp.git#4.0",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-babel": "^7.0.1",
     "gulp-concat": "^2.6.1",
@@ -30,7 +30,7 @@
     "gulp-sourcemaps": "^2.2.0",
     "gulp-uglify": "^2.0.0",
     "js-yaml": "^3.5.4",
-    "require-dir": "^0.3.1",
+    "require-dir": "^1.0.0",
     "run-sequence": "^1.2.2",
     "yargs": "^6.4.0"
   },

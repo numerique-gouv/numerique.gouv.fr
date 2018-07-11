@@ -1,11 +1,11 @@
-var fs          = require('fs');
-var yaml        = require('js-yaml');
+const fs          = require('fs');
+const yaml        = require('js-yaml');
 
 function loadConfig() {
-  var ymlFile = fs.readFileSync('gulp/config.yml', 'utf8');
+  const ymlFile = fs.readFileSync('gulp/config.yml', 'utf8');
   return yaml.load(ymlFile);
 }
 
-var config = loadConfig();
+const config = loadConfig();
 
 module.exports = config;
