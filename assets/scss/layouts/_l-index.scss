@@ -1,9 +1,96 @@
 // --------------------------------------------------
 // Layout index page
 // --------------------------------------------------
-
-main {
+#index-main {
   @include grid-row;
+  background-color: $white;
+  max-width: none;
+
+  #visuel-accueil {
+    margin-top: 1rem;
+    margin-bottom: 6rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    height: 85vh;
+    background: url("/assets/img/lorem_ipsum/Home.jpg") no-repeat center fixed;
+    -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+    background-size: cover; /* version standardisée */;
+    display: flex;
+
+    @include breakpoint(medium down) {
+      margin: 0px;
+    }
+    .encart-transparent {
+      background-color: rgba(0, 0, 0, 0.6);
+      margin: auto;
+      margin-left: 3rem;
+      margin-right: 3rem;
+      max-width: 60%;
+      @include breakpoint(medium down) {
+        max-width: none;
+        margin-left: 2rem;
+        margin-right: 2rem;
+      }
+
+      .titre-encart-transparent {
+        color: $white;
+        text-transform: uppercase;
+        h1 {
+          font-weight: lighter;
+        }
+      }
+      .bouton-encart-transparent {
+        margin-top: 1rem;
+        border: solid $white 0.2rem ;
+        color: $white;
+        text-transform: uppercase;
+        font-weight: 700;
+      }
+    }
+
+  }
+
+  #meilleures-actus {
+    background-color: $light-gray;
+
+    ul {
+      list-style-type: none;
+
+      li {
+        background-color: $white;
+        @include breakpoint(medium down) {
+          margin-bottom: 1rem;
+        }
+        h5 {
+          font-weight: 700;
+        }
+        hr {
+          background-color: $bleue;
+          height: 0.5rem;
+          margin: unset;
+        }
+      }
+    }
+    #voir-tout {
+      a{
+        color:$bleue;
+        font: $header-font-family;
+        font-weight: 700;
+        font-size: medium;
+        text-transform: uppercase;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        border-left:1px solid $bleue;
+        border-right:1px solid $bleue;
+
+      }
+    }
+  }
+
+
+
+
+
 
   //other elements
   //@include grid-column;

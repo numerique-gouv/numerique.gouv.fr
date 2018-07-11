@@ -1,9 +1,10 @@
 ---
-title: Actualité test 2
-date: 2018-07-02 00:00:00 Z
+title: Chantiers transverses AP22
+date: 2018-05-24 00:00:00 Z
 categories:
 - jekyll
 - update
+image-mise-en-avant: assets/img/actualitees/H.VERDIER -2.jpg
 layout: actualite
 ---
 

@@ -1,0 +1,25 @@
+<section id="meilleures-actus" >
+  <div class="text-center padding-3">
+    <h1>Nos dernières actualités</h1>
+  </div>
+  <div class="grid-container">
+    <ul class="grid-x grid-margin-x">
+      {% assign sorted_actualitees = (site.posts | sort: 'date') | reverse %}
+      {% for actualite in sorted_actualitees limit:3 %}
+      <li class="cell large-4 medium-4 small-12">
+        <img src="{{/actualite.image-mise-en-avant}}">
+        <div class="padding-1">
+          <h5>{{ actualite.title }}</h5>
+          <h6>{% include date.html date=actualite.date %}</h6>
+          <p>{{ actualite.excerpt }}</p>
+          <a href="{{ actualite.url }}">Lire plus...</a>
+        </div>
+        <hr>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div id="voir-tout" class="text-center padding-2">
+    <a href="/actualites">Voir toutes nos actus</a>
+  </div>
+</section>
