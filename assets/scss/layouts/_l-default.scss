@@ -9,15 +9,36 @@ header {
 
   nav {
     @include grid-column;
+    margin-top: 1rem;
+    @include breakpoint(medium down) {
+      margin-top: 0rem;
+    }
+    #dinsic-main-menu {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      @include breakpoint(medium down) {
+        padding-left: 0rem;
+        padding-right: 0rem;
+      }
+      .padding-top-align {
+        padding-top: 1.1rem;
+      }
+      .search-form {
+        button {
+          background-color: $white;
+          border: $light-gray solid 1px;
+          img{
+            height: 1rem;
+          }
+        }
+      }
+    }
     a {
       color: $black;
       img {
-        height: 2em;
+        height: 2rem;
         max-width: 100%;
       }
-    }
-    .padding-top-align {
-      padding-top: 1.1rem;
     }
   }
 }

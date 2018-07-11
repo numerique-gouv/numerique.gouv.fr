@@ -1,14 +1,45 @@
-<nav >
-  <ul class="menu clearfix float-left padding-1"">
-    <li>
+<nav>
+  <div class="title-bar" data-responsive-toggle="dinsic-main-menu" data-hide-for="medium">
+    <div class="title-bar-left">
       <a href="/">
         <img src="{{base}}/assets/img/logos/Logo_de_la_Republique_francaise.png" alt="Logo de la République française">
         <i><b>dinsic.gouv</b>.fr</i>
       </a>
-
-    </li>
-    {% for item in site.data.nav-main %}
-      <li><a class="padding-top-align" href="{{ item.url }}">{{ item.link }}</a></li>
-    {% endfor %}
-  </ul>
+    </div>
+    <div class="title-bar-right">
+      <button id="hamburger-button" class="hamburger hamburger--collapse" type="button" data-toggle="dinsic-main-menu" >
+        <span class="hamburger-box">
+          <span class="hamburger-inner"></span>
+        </span>
+        <div class="title-bar-title padding-left-1">Menu</div>
+      </button>
+    </div>
+  </div>
+  <div class="top-bar" id="dinsic-main-menu" data-animate="hinge-in-from-top hinge-out-from-top">
+    <div class="top-bar-left">
+      <ul class="vertical medium-horizontal menu">
+        <li class="hide-for-small-only">
+          <a href="/">
+            <img src="{{base}}/assets/img/logos/Logo_de_la_Republique_francaise.png" alt="Logo de la République française">
+            <i><b>dinsic.gouv</b>.fr</i>
+          </a>
+        </li>
+        {% for item in site.data.nav-main %}
+        <li>
+          <a class="padding-top-align" href="{{ item.url }}">{{ item.link }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="top-bar-right">
+      <form action="/rechercher" class="search-form" method="get">
+        <ul class="menu">
+            <li><input type="text" name="query" placeholder="Rechercher"></li>
+            <li><button type="submit button" class="button">
+              <img src="{{base}}/assets/img/pictogrammes/Zoom.png"></button>
+            </li>
+        </ul>
+      </form>
+    </div>
+  </div>
 </nav>

@@ -1,12 +1,16 @@
 source "https://rubygems.org"
+ruby RUBY_VERSION
 
 # Ruby Requirement
 # ruby '2.2.3'
 
+gem "jekyll", "~> 3.0"
+
 # Gem Requirements
 group :jekyll_plugins do
-	gem 'jekyll', '>=3.0'
+  gem "jekyll-paginate-v2", "~> 1.7"
 	gem 'sass'
 	gem 'jekyll-sitemap'
-	gem 'jekyll-paginate'
 end
+
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<main>
+  {{content}}
+</main>
+<script>
+  window.store = {
+  {% for actualite in site.posts %}
+  "{{ actualite.url | slugify }}": {
+    "title": "{{ actualite.title | xml_escape }}",
+      "author": "{{ actualite.author | xml_escape }}",
+      "category": "{{ actualite.category | xml_escape }}",
+      "content": {{ actualite.content | strip_html | strip_newlines | jsonify }},
+    "url": "{{ actualite.url | xml_escape }}"
+  }
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  };
+</script>
+<script src="{{base}}/assets/js/rechercher.js"></script>

@@ -1,3 +1,12 @@
 // --------------------------------------------------
 // Mixins
 // --------------------------------------------------
+/// Hamburger
+$hamburger-width : 20px;
+$hamburger-height : 16px;
+$hamburger-weight : 2px;
+$hamburger-bar : 3;
+
+.hamburger-icon {
+  @include hamburger($black, $light-black, $hamburger-width, $hamburger-height, $hamburger-weight, $hamburger-bar);
+}

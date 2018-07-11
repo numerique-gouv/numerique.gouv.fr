@@ -2,25 +2,32 @@
 title: DINSIC
 timezone: UTC
 collections:
-  actualites:
+  posts:
     title: Actualités
     output: true
-  posts:
-    title: Posts
+  actualites:
+    title: Actualités
     output: true
   uploads:
     title: Uploads
     output: true
-language: Fr
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    permalink: "/actualités/:title/"
 description: Le site officiel de la DINSIC
-google-verification: 
+language: Fr
+plugins:
+- jekyll-paginate-v2
 include:
 - ".htaccess"
 - _pages
 exclude:
 - ".DS_Store"
-- "/assets/"
 - bower.json
+- "/assets/"
 - composer.json
 - composer.lock
 - DOC.md
@@ -38,10 +45,17 @@ exclude:
 - yarn.lock
 - yarn-error.log
 - "/ansible/"
+- "/node_modules/"
+permalink: "/:year/:month/:title.html"
+pagination:
+  enabled: true
+  per_page: 2
+  permalink: "/page/:num/"
+  title: ":title - page :num of :max"
+  limit: 0
+  sort_field: date
+  sort_reverse: true
 incremental: true
-permalink: "/blog/:year/:title/"
-paginate_path: "/blog/page:num"
-paginate: 5
 compress_html:
   ignore:
     envs:
