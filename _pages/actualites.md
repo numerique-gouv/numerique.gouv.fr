@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Actualités
+permalink: /actualites
 pagination:
   enabled: true
 ---
