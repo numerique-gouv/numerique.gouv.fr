@@ -27,7 +27,8 @@ sections:
       impots.gouv.fr. Vous gagnez aussi du temps : avec le partage de données entre administrations selon le principe
       Dites-le-nous une fois, certaines infos personnelles sont préremplies."
       chiffres: 
-        - titre: <b>5 millions</b> d’utilisateurs
+        - titre: d’utilisateurs
+          valeur: 5 millions
           icon:
             titre: icon utilisateur
             path: /assets/img/pictogrammes/utilisateur.png
