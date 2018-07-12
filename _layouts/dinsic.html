@@ -2,19 +2,31 @@
 layout: default
 ---
 
-<main>
-  <h1>{{ page.subtitle | textualise }}</h1>
-  <p>{{ page.en-tete | textualise }}</p>
-  <section>
+<main id="dinsic-page" class="padding-3">
+  <section id="titre-dinsic-page">
+    <h1>{{ page.subtitle }}</h1>
+    <p class="padding-top-3">{{ page.en-tete }}</p>
+  </section >
+  <section class="sections-dinsic ">
     {% for section in page.sections %}
-    <h2>{{ section.intertitre }}</h2>
+    <h2 class="padding-vertical-1">{{ section.intertitre }}</h2>
     <p>{{ section.texte-section }}</p>
-    <h3>{{ section.encadre.titre }}</h3>
-    <p>{{ section.encadre.contenu }}</p>
-    {% for chiffre in section.encadre.chiffres %}
-    <h4>{{ chiffre.titre }}</h4>
-    <img alt="{{ chiffre.icon.titre }}" src={{ chiffre.icon.path }}>
-    {% endfor %}
+    <div class="encadre-dinsic padding-1">
+      <div class="grid-x grid-margin-x">
+        <div class="cell shrink">
+          <img src="/assets/img/pictogrammes/Zoom.png">
+        </div>
+        <div class="cell auto">
+          <h3>{{ section.encadre.titre }}</h3>
+        </div>
+      </div>
+      <p>{{ section.encadre.contenu }}</p>
+      {% for chiffre in section.encadre.chiffres %}
+      <h4>{{ chiffre.valeur }}</h4>
+      <h4>{{ chiffre.titre }}</h4>
+      <img alt="{{ chiffre.icon.titre }}" src={{ chiffre.icon.path }}>
+      {% endfor %}
+    </div>
     {% endfor %}
   </section>
 </main>

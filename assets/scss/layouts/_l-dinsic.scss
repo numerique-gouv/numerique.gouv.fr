@@ -1,0 +1,50 @@
+// --------------------------------------------------
+// Layout dinsic page
+// --------------------------------------------------
+#dinsic-page {
+  background-color: $white;
+  p {
+    color: $light-black;
+    text-align: justify;
+  }
+  #titre-dinsic-page {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    h1 {
+      text-transform: uppercase;
+      text-align: center;
+      font-size: x-large;
+      font-weight: bold;
+      @include breakpoint(small down) {
+        font-size: initial;
+      }
+    }
+    p {
+      font-size: larger;
+      @include breakpoint(small down) {
+        font-size: initial;
+      }
+    }
+    @include breakpoint(medium down) {
+      padding: 0rem;
+    }
+  }
+  .sections-dinsic {
+    h2 {
+      text-transform: uppercase;
+      font-size: large;
+      font-weight: bold;
+    }
+    .encadre-dinsic {
+      background-color: $encadre-bleue-avant;
+      box-shadow: -8px -8px 0px $encadre-bleue-arriere;
+      h3 {
+        color: $bleue;
+      }
+      img {
+        width: 2rem;
+      }
+    }
+
+  }
+}
