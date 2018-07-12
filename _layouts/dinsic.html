@@ -5,4 +5,16 @@ layout: default
 <main>
   <h1>{{ page.subtitle | textualise }}</h1>
   <p>{{ page.en-tete | textualise }}</p>
+  <section>
+    {% for section in page.sections %}
+    <h2>{{ section.intertitre }}</h2>
+    <p>{{ section.texte-section }}</p>
+    <h3>{{ section.encadre.titre }}</h3>
+    <p>{{ section.encadre.contenu }}</p>
+    {% for chiffre in section.encadre.chiffres %}
+    <h4>{{ chiffre.titre }}</h4>
+    <img alt="{{ chiffre.icon.titre }}" src={{ chiffre.icon.path }}>
+    {% endfor %}
+    {% endfor %}
+  </section>
 </main>
