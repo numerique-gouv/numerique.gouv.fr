@@ -4,8 +4,10 @@
 #dinsic-page {
   background-color: $white;
   p {
-    color: $light-black;
+    color: $dark-gray;
     text-align: justify;
+    font-family: $header-font-family;
+
   }
   #titre-dinsic-page {
     padding-top: 4rem;
@@ -13,14 +15,14 @@
     h1 {
       text-transform: uppercase;
       text-align: center;
-      font-size: x-large;
+      font-size: xx-large;
       font-weight: bold;
       @include breakpoint(small down) {
         font-size: initial;
       }
     }
     p {
-      font-size: larger;
+      font-size: x-large;
       @include breakpoint(small down) {
         font-size: initial;
       }
@@ -30,10 +32,14 @@
     }
   }
   .sections-dinsic {
+    padding-top: 1rem;
     h2 {
       text-transform: uppercase;
-      font-size: large;
+      font-size: x-large;
       font-weight: bold;
+    }
+    p {
+      font-size: large;
     }
     .encadre-dinsic {
       background-color: $encadre-bleue-avant;
