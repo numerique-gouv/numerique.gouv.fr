@@ -3,7 +3,6 @@ title: La DINSIC
 permalink: "/dinsic/"
 layout: dinsic
 subtitle: "Notre mission : créer le service public de demain, grâce au numérique"
-
 en-tete: "La DINSIC – direction interministérielle du numérique et du système d’information
   et de communication de l’État – est en charge de la transformation numérique de
   l’État, sous tous ses aspects : modernisation du socle technique, création de services
@@ -28,7 +27,8 @@ sections:
       impots.gouv.fr. Vous gagnez aussi du temps : avec le partage de données entre administrations selon le principe
       Dites-le-nous une fois, certaines infos personnelles sont préremplies."
       chiffres: 
-        - titre: <b>5 millions</b> d’utilisateurs
+        - titre: d’utilisateurs
+          valeur: 5 millions
           icon:
             titre: icon utilisateur
             path: /assets/img/pictogrammes/utilisateur.png
@@ -36,5 +36,6 @@ sections:
       
   - intertitre: "Ouvrir, partager et exploiter les données pour transformer l’action publique"
   - intertitre: "Créer des services publics numériques innovants"
+
 ---
 
