@@ -1,5 +1,5 @@
 ---
-title: La dinsic
+title: La DINSIC
 permalink: "/dinsic/"
 layout: dinsic
 subtitle: "Notre mission : créer le service public de demain, grâce au numérique"
