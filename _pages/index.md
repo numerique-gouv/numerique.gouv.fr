@@ -1,5 +1,5 @@
 ---
-title: Accueil | DINSIC
+title: Accueil
 permalink: "/"
 layout: index
 ---
