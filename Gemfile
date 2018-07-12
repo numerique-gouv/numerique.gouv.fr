@@ -4,6 +4,10 @@ ruby RUBY_VERSION
 # Ruby Requirement
 # ruby '2.2.3'
 
+# Dependencies for Windows only. Activate on install
+# gem "tzinfo"
+# gem "tzinfo-data"
+
 gem "jekyll", "~> 3.0"
 
 # Gem Requirements
