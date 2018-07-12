@@ -7,11 +7,13 @@ layout: default
     <h1>{{ page.subtitle }}</h1>
     <p class="padding-top-3">{{ page.en-tete }}</p>
   </section >
-  <section class="sections-dinsic">
-    {% for section in page.sections %}
-    <h2 class="padding-vertical-1">{{ section.intertitre }}</h2>
+
+  {% for section in page.sections %}
+  <section class="sections-dinsic padding-vertical-2">
+    <h2 class="padding-bottom-1">{{ section.intertitre }}</h2>
     <p>{{ section.texte-section }}</p>
-    <div class="encadre-dinsic padding-1">
+    {% if section.encadre %}
+    <div class="encadre-dinsic padding-1 margin-vertical-3">
       <div class="grid-x grid-margin-x">
         <div class="cell shrink">
           <img src="/assets/img/pictogrammes/Zoom.png">
@@ -21,12 +23,23 @@ layout: default
         </div>
       </div>
       <p>{{ section.encadre.contenu }}</p>
-      {% for chiffre in section.encadre.chiffres %}
-      <h4>{{ chiffre.valeur }}</h4>
-      <h4>{{ chiffre.titre }}</h4>
-      <img alt="{{ chiffre.icon.titre }}" src={{ chiffre.icon.path }}>
-      {% endfor %}
+      <div id="chiffres-encadre" class="grid-x grid-margin-x margin-vertical-2">
+        {% for chiffre in section.encadre.chiffres %}
+        <div class="chiffre-encadre cell auto grid-y align-middle">
+          <div class="logo-chiffre-encadre grid-x align-middle align-center">
+            <img class="" alt="{{ chiffre.icon.titre }}" src={{ chiffre.icon.path }}>
+          </div>
+          <div class="valeur-chiffre-encadre padding-top-1">
+            <p class="margin-0"> {{ chiffre.valeur }}</p>
+          </div>
+          <div class="titre-chiffre-encadre">
+            <p>{{ chiffre.titre }}</p>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
     </div>
-    {% endfor %}
+    {% endif %}
   </section>
+  {% endfor %}
 </main>
