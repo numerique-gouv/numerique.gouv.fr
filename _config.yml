@@ -17,8 +17,6 @@ defaults:
 language: Fr
 markdown: kramdown
 description: Le site officiel de la DINSIC
-plugins:
-- jekyll-paginate-v2
 include:
 - ".htaccess"
 - _pages
@@ -43,6 +41,7 @@ exclude:
 - yarn-error.log
 - "/ansible/"
 - "/node_modules/"
+- Gemfile.lock
 permalink: "/:year/:month/:title.html"
 pagination:
   enabled: true
