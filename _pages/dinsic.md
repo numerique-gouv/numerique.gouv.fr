@@ -81,13 +81,15 @@ sections:
         titre: icon aides
         path: "/assets/img/pictogrammes/Aides.png"
 - intertitre: Créer des services publics numériques innovants
-  texte-section: "Oui, l’État aussi sait créer des services innovants en quelques
+  texte-section: 'Oui, l’État aussi sait créer des services innovants en quelques
     mois, en mode agile et à moindre coût ! Notre incubateur beta.gouv.fr le prouve
     chaque jour depuis trois ans et essaime dans les ministères. De petites équipes
     autonomes résolvent grâce au numérique un problème rencontré par les citoyens
     ou les agents publics, en les associant tout au long du processus. Notre incubateur
     a déjà donné naissance à 59 Startups d’État, comme autant de services numériques
-    innovants.    \n"
+    innovants.
+    
+'
   encadre:
     titre: Mes-aides.gouv.fr
     contenu: 'Tout est parti d’un constat : beaucoup de Français ne recourent pas
@@ -109,12 +111,14 @@ sections:
         titre: icon simulation
         path: "/assets/img/pictogrammes/Simulations.png"
 - intertitre: Insuffler une culture de l’innovation numérique
-  texte-section: "La révolution numérique exige une transformation complète des organisations
+  texte-section: 'La révolution numérique exige une transformation complète des organisations
     et du management. Approches agiles, design de service, datasciences, intelligence
     artificielle, logiciels libres… Nous diffusons au sein des administrations la
     culture de l’innovation numérique et une nouvelle façon de concevoir les politiques
     publiques. Nous formons les agents publics à nos méthodes. Avec toujours un mot
-    d’ordre : placer l’utilisateur au centre.   \n"
+    d’ordre : placer l’utilisateur au centre.
+    
+'
   encadre:
     titre: Le programme Entrepreneur d’Intérêt Général
     contenu: '10 mois, un défi à relever : le programme d’innovation ouverte Entrepreneur
