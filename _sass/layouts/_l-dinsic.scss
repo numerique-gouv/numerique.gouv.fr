@@ -38,7 +38,11 @@
     }
   }
   .sections-dinsic {
-    padding-top: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    @include breakpoint(medium down) {
+      padding-bottom: 0rem;
+    }
     h2 {
       text-transform: uppercase;
       font-size: x-large;
