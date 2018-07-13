@@ -88,7 +88,7 @@ sections:
     ou les agents publics, en les associant tout au long du processus. Notre incubateur
     a déjà donné naissance à 59 Startups d’État, comme autant de services numériques
     innovants.
-    
+
 '
   encadre:
     titre: Mes-aides.gouv.fr
@@ -117,7 +117,7 @@ sections:
     culture de l’innovation numérique et une nouvelle façon de concevoir les politiques
     publiques. Nous formons les agents publics à nos méthodes. Avec toujours un mot
     d’ordre : placer l’utilisateur au centre.
-    
+
 '
   encadre:
     titre: Le programme Entrepreneur d’Intérêt Général
