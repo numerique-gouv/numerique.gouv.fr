@@ -39,7 +39,7 @@ sections:
           valeur: 345
           icon:
             titre: icon aides
-            path: /assets/img/pictogrammes/aides.png
+            path: /assets/img/pictogrammes/Aides.png
 
   - intertitre: Ouvrir, partager et exploiter les données pour transformer l’action publique
     texte-section: >
@@ -70,7 +70,7 @@ sections:
           valeur: 24 000
           icon:
             titre: icon aides
-            path: /assets/img/pictogrammes/aides.png
+            path: /assets/img/pictogrammes/Aides.png
             
   - intertitre: Créer des services publics numériques innovants
     texte-section: >
@@ -90,7 +90,7 @@ sections:
           valeur: 27
           icon:
             titre: icon aides
-            path: /assets/img/pictogrammes/aides.png
+            path: /assets/img/pictogrammes/Aides.png
         - titre: simulations par jour
           valeur: 6 000
           icon:
