@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Actualités
-permalink: /actualites
+permalink: "/actualites"
+layout: page
 pagination:
   enabled: true
 ---
