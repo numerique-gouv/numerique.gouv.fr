@@ -31,7 +31,7 @@
 // them in Foundations's variables file
 
 // Global Config Variables
-@import 'base/config';
+@import '../_sass/base/config';
 
 //
 // 3. Fonts
@@ -53,51 +53,51 @@
 //   in foundation/_foundation.scss.
 
 // Import all of Foundation
-@import 'foundation/foundation';
+@import '../_sass/foundation/foundation';
 
 //
 // 5. Helpers
 // --------------------------------------------------
 
 // Functions
-@import 'helpers/functions';
+@import '../_sass/helpers/functions';
 
 // Mixins
-@import 'helpers/mixins';
+@import '../_sass/helpers/mixins';
 
 //
 // 6. Base
 // --------------------------------------------------
-@import 'base/headings';
-@import 'base/links';
+@import '../_sass/base/headings';
+@import '../_sass/base/links';
 
 //
 // 7. Layout
 // --------------------------------------------------
-@import 'layouts/l-default';
-@import 'layouts/l-dinsic';
-@import 'layouts/l-index';
-@import 'layouts/l-page';
-@import 'layouts/l-post';
+@import '../_sass/layouts/l-default';
+@import '../_sass/layouts/l-dinsic';
+@import '../_sass/layouts/l-index';
+@import '../_sass/layouts/l-page';
+@import '../_sass/layouts/l-post';
 
 
 
 //
 // 8. Modules
 // --------------------------------------------------
-@import 'modules/m-code-highlighting';
+@import '../_sass/modules/m-code-highlighting';
 
 //
 // 9. State
 // --------------------------------------------------
-@import 'states/s-your-module';
+@import '../_sass/states/s-your-module';
 
 //
 // 10. Theme
 // --------------------------------------------------
-@import 'themes/theme';
+@import '../_sass/themes/theme';
 
 //
 // 11. Other
 //
-@import "hamburgers/hamburgers";
+@import "../_sass/hamburgers/hamburgers";
