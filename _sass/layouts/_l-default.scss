@@ -22,6 +22,11 @@ header {
   max-width: none;
 
   nav {
+    .title-bar {
+      .hamburger-inner {
+        margin-top: 2rem;
+      }
+    }
     @include grid-column;
     margin-top: 1rem;
     @include breakpoint(medium down) {

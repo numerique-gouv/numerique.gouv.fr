@@ -24,7 +24,7 @@
       font-size: xx-large;
       font-weight: bold;
       @include breakpoint(small down) {
-        font-size: initial;
+        font-size: x-large;
       }
     }
     p {
@@ -47,6 +47,9 @@
       text-transform: uppercase;
       font-size: x-large;
       font-weight: bold;
+      @include breakpoint(medium down) {
+        font-size: large;
+      }
     }
     p {
       font-size: large;

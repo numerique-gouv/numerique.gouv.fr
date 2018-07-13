@@ -1,8 +1,9 @@
 authorized_keys:
   - user: ETBE-key
     public_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCeuQuI9G3+Dkg1S7V+zIDxbKk9NUz8oPFs6/lhHxCcWdiVJB82vvSEgXeRbEwaZdZzQeKh6YoO/kb8YQjvUjvpDALNXyuRiWf5gasZG8fIfpSKbmnjXXaxB4xoURrkWUzL9BXtrBmiZTaIYZb3fMeJc/3EO7cVtROFLvwedD/PAgkOQjOn+UAOIlsi/kCBQ0Jah6BYX6cQH+OH9PuZIeCKRLt0nghh7spNQTFZ6D/ftaBVMsYc64ZGhqrk908Uuoh2tVxI7ow1lBZyFhwOlyNqtC/tn/zdVBUHFFmEt+1C21crewt3rxembRAZfCwn2cm/HuplEQXU08i4kxMuVXFJ ebernoux@octo-etbe.paris.octo
+  - user: MFE-key
+    public_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDX3lyfpQV3ZMDcyb5t14QOcIhyOLw/nSSqrYQzkdzTdPaDNT9aATEuWPsViAtsOISFZa5uNBJSAb/rdCkJDY5CqPlNR1nVumDT0OR8PCZIAlpfLVGJkXCyEZ+DHyyzKcT2lFwNmDLYVgqu64UYqjonhSDjvafTIaE/wetyDwbSRTkcHtqtxLJ553nrskm6M5TauUh4b/D3ItpcWtj1N/pJSpl6+p3vx+WbU1uK3Oz9JGjA6/g4eO215GQRLybCpbk64HYzdvaVaujlM7uPPyxpJkR7+sUIbTja4HBIBwTW90HLmFvo3vXAFwmlzBfC1rQM5WkbWwjjB/CuuEYaqsrR Matthias Feraga <mferaga@octo.com>
 
-php_webserver_daemon: nginx
 
 htpasswd_credentials:
   - path: /etc/nginx/passwdfile
@@ -20,7 +21,7 @@ nginx_vhosts:
   - listen: "80"
     server_name: "dinsic"
     root: "/var/www/html"
-    index: "index.html index.html index.nginx-debian.html"
+    index: "index.html index.nginx-debian.html"
     error_page: "404 /404/index.html"
     filename: "dinsic.conf"
     extra_parameters: |

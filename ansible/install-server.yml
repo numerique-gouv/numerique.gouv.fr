@@ -10,6 +10,5 @@
   roles:
     - common
     - ansible-role-nginx
-    - ansible-role-php
     - ansible-role-htpasswd
 

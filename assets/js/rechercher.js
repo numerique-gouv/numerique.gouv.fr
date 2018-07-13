@@ -7,7 +7,7 @@
 
       for (let i = 0; i < results.length; i++) {  // Iterate over the results
         let item = store[results[i].ref];
-        appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3></a>';
+appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3><h4>' + item.date + '</h4></a>';
         appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
       }
 
@@ -44,6 +44,7 @@
         this.field('title', { boost: 10 });
         this.field('author');
         this.field('category');
+        this.field('date');
         this.field('content');
         for (let key in window.store) { // Add the data to lunr
           this.add({
@@ -51,6 +52,7 @@
             'title': window.store[key].title,
             'author': window.store[key].author,
             'category': window.store[key].category,
+            'date': window.store[key].date,
             'content': window.store[key].content
           });
         }
