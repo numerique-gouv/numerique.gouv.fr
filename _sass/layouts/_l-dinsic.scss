@@ -1,0 +1,82 @@
+// --------------------------------------------------
+// Layout dinsic page
+// --------------------------------------------------
+#dinsic-page {
+  background-color: $white;
+  p {
+    color: $dark-gray;
+    text-align: justify;
+    font-family: $header-font-family;
+
+  }
+  #titre-dinsic-page {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    h1 {
+      text-transform: uppercase;
+      text-align: center;
+      font-size: xx-large;
+      font-weight: bold;
+      @include breakpoint(small down) {
+        font-size: initial;
+      }
+    }
+    p {
+      font-size: x-large;
+      @include breakpoint(small down) {
+        font-size: initial;
+      }
+    }
+    @include breakpoint(medium down) {
+      padding: 0rem;
+    }
+  }
+  .sections-dinsic {
+    padding-top: 1rem;
+    h2 {
+      text-transform: uppercase;
+      font-size: x-large;
+      font-weight: bold;
+    }
+    p {
+      font-size: large;
+    }
+    .encadre-dinsic {
+      background-color: $encadre-bleue-avant;
+      box-shadow: -0.5rem -0.5rem 0rem $encadre-bleue-arriere;
+      h3 {
+        color: $bleue;
+      }
+      img {
+        width: 2rem;
+      }
+      #chiffres-encadre {
+        .chiffre-encadre {
+          .logo-chiffre-encadre {
+            background-color: $white;
+            border: 0.2rem solid $bleue;
+            border-radius: 50%;
+            width: 5rem;
+            height: 5rem;
+            img {
+              width: 3rem;
+            }
+          }
+          .valeur-chiffre-encadre {
+            p {
+              color: $bleue;
+              text-transform: uppercase;
+              font-size: x-large;
+              font-weight: bold;
+            }
+          }
+          .titre-chiffre-encadre {
+            p {
+              text-align: center;
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -16,9 +16,8 @@
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
     background-size: cover; /* version standardisée */;
     display: flex;
-
     @include breakpoint(medium down) {
-      margin: 0px;
+      margin: 0rem;
     }
     .encart-transparent {
       background-color: rgba(0, 0, 0, 0.6);
