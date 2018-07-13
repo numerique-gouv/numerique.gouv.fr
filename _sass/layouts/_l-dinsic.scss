@@ -3,6 +3,12 @@
 // --------------------------------------------------
 #dinsic-page {
   background-color: $white;
+  padding: 3rem;
+
+  @include breakpoint(medium down) {
+    padding: 1rem;
+  }
+
   p {
     color: $dark-gray;
     text-align: justify;
@@ -32,7 +38,11 @@
     }
   }
   .sections-dinsic {
-    padding-top: 1rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    @include breakpoint(medium down) {
+      padding-bottom: 0rem;
+    }
     h2 {
       text-transform: uppercase;
       font-size: x-large;

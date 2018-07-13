@@ -107,7 +107,7 @@ sass:
     - "ie >= 9"
   dest:
     jekyllRoot: "assets/css/"
-    buildDir: "_site/assets/css/"
+    buildDir: "_site/assets/"
   notification: "Running Sass"
   src: "assets/*.scss"
 
@@ -116,7 +116,7 @@ watch:
     - "assets/img/**/*"
     - "assets/video/**/*"
   javascript: "assets/js/app.js"
-  sass: "assets/scss/**/*.scss"
+  sass: "_sass/**/*.scss"
   pages:
     - "*.{md,html,yml,xml}"
     - "{_data,_includes,_layouts,_actualites,_pages,_posts,_rechercher,blog,actualites}/**/*.{md,html,yml,xml}"
