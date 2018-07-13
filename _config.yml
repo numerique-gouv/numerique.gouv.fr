@@ -30,8 +30,6 @@ exclude:
 - composer.json
 - composer.lock
 - DOC.md
-- Gemfile
-- Gemfile.lock
 - "/gulp/"
 - gulpfile.js
 - LICENSE.md
