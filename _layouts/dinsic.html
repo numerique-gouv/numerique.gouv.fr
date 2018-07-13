@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<main id="dinsic-page" class="padding-3">
+<main id="dinsic-page">
   <section id="titre-dinsic-page">
     <h1>{{ page.subtitle }}</h1>
     <p class="padding-top-3">{{ page.en-tete }}</p>
@@ -24,7 +24,7 @@ layout: default
       <p>{{ section.encadre.contenu }}</p>
       <div id="chiffres-encadre" class="grid-x grid-margin-x margin-vertical-2">
         {% for chiffre in section.encadre.chiffres %}
-        <div class="chiffre-encadre cell auto grid-y align-middle">
+        <div class="chiffre-encadre medium-auto cell small-12 grid-y align-middle">
           <div class="logo-chiffre-encadre grid-x align-middle align-center">
             <img class="" alt="{{ chiffre.icon.titre }}" src={{ chiffre.icon.path }}>
           </div>
