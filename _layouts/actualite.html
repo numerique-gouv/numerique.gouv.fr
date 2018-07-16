@@ -2,13 +2,15 @@
 layout: default
 ---
 
-<main>
-  <small><i>main</i></small>
+<main id="main-article" class="margin-vertical-2">
   <article>
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date_to_string }}</p>
-    <p class="post-content">
-      {{ content }}
-    </p>
+    <img src="{{base}}/{{ page.image-mise-en-avant }}">
+    <div id="content-article">
+      <h1>{{ page.title }}</h1>
+      <p class="meta">{% include date.html date=page.date %}</p>
+      <p class="post-content">
+        {{ content }}
+      </p>
+    </div>
   </article>
 </main>

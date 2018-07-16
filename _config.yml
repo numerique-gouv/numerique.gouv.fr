@@ -13,6 +13,7 @@ defaults:
     path: ''
     type: posts
   values:
+    layout: actualite
     permalink: "/actualites/:title/"
 language: Fr
 markdown: kramdown
@@ -45,7 +46,6 @@ exclude:
 - yarn-error.log
 - "/ansible/"
 - "/node_modules/"
-permalink: "/:year/:month/:title.html"
 pagination:
   enabled: true
   per_page: 2

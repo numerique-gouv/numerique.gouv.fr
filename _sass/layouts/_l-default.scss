@@ -63,10 +63,17 @@ header {
     max-width: 75rem;
     margin-right: auto;
     margin-left: auto;
+    padding-left: 3rem;
     @include breakpoint(medium down) {
       padding-left: 1rem;
     }
   }
+}
+
+main {
+  max-width: 75rem;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 footer {
