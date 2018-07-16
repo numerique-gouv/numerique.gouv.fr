@@ -1,0 +1,16 @@
+---
+layout: page
+---
+{{ page.content }}
+<form id="contact-form" action="https://formspree.io/ebernoux@octo.com"
+      method="POST">
+  <label for="form-name"> Votre nom </label>
+  <input id="form-name" type="text" name="name">
+  <label for="form-email"> Votre email </label>
+  <input id="form-email" type="email" name="_replyto">
+  <label for="form-objet"> Objet </label>
+  <input id="form-objet" type="text" name="objet">
+  <label for="form-message"> Votre message </label>
+  <textarea id="form-message"  name="message"></textarea>
+  <input class="button" type="submit" value="Envoyer">
+</form>
