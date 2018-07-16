@@ -1,7 +1,27 @@
 <nav>
-  <ul class="menu clearfix float-right">
-    {% for item in site.data.nav-footer %}
-      <li><a href="{{ item.url }}">{{ item.link }}</a></li>
-    {% endfor %}
-  </ul>
+  <div class="grid-x padding-1">
+    <div class="large-4 medium-12 small-12 ">
+      <h1><a href="{{ base }}/">Dinsic.fr</a></h1>
+      <p>"Grâce au numérique, nous créons les services publics de demain"</p>
+      <ul>
+        {% for item in site.data.nav-footer %}
+        <li class="lien-info-site"><a href="{{ item.url }}">{{ item.link }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="large-8 show-for-large">
+      <h2>Plan du site</h2>
+      <ul>
+        {% for item in site.data.plan-du-site %}
+        <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+        {% endfor %}
+      </ul>
+      <h5>Les sites publics</h5>
+      <ul class="menu clearfix float-left">
+        {% for item in site.data.nav-sites-publics %}
+        <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
 </nav>

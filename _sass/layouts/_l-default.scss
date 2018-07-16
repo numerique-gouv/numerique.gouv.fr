@@ -77,16 +77,20 @@ main {
 }
 
 footer {
-  @include grid-row;
   max-width: none;
   background-color: $black;
-  color: $white;
-  nav {
-    @include grid-column;
-    li {
-      a {
-        color: $white;
-      }
+  color: $medium-gray;
+  ul {
+    list-style-type: none;
+    .lien-info-site {
+      text-transform: uppercase;
     }
   }
+  a {
+    color: $light-gray;
+    &:hover {
+      color: $dark-gray;
+    }
+  }
+
 }

@@ -15,6 +15,9 @@ defaults:
   values:
     layout: actualite
     permalink: "/actualites/:title/"
+
+categories: [main]
+
 language: Fr
 markdown: kramdown
 description: Le site officiel de la DINSIC
