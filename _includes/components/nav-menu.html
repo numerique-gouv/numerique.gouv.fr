@@ -31,6 +31,7 @@
         {% endfor %}
       </ul>
     </div>
+    {% if page.title != "Rechercher" %}
     <div class="top-bar-right">
       <form action="/rechercher" class="search-form" method="get">
         <ul class="menu">
@@ -41,5 +42,6 @@
         </ul>
       </form>
     </div>
+    {% endif %}
   </div>
 </nav>
