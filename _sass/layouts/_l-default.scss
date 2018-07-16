@@ -17,11 +17,10 @@
 }
 
 header {
-  @include grid-row;
   background-color: $white;
   max-width: none;
 
-  nav {
+  #dinsic-nav-bar {
     .title-bar {
       .hamburger-inner {
         margin-top: 2rem;
@@ -58,6 +57,14 @@ header {
         height: 2rem;
         max-width: 100%;
       }
+    }
+  }
+  #file-arianne {
+    max-width: 75rem;
+    margin-right: auto;
+    margin-left: auto;
+    @include breakpoint(medium down) {
+      padding-left: 1rem;
     }
   }
 }
