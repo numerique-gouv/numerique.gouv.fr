@@ -2,7 +2,7 @@
 title: Actualités
 permalink: "/actualites"
 layout: actualites
-categories: [main]
+fil-ariane: home/actualités/
 pagination:
   enabled: true
 ---

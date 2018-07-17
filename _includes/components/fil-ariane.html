@@ -1,7 +1,11 @@
+{% if page.fil-ariane %}
+{% assign crumbs = page.fil-ariane | remove:'/index.html' | split: '/' %}
+{% else %}
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% endif %}
 {% if crumbs.size > 1 %}
 <nav id="file-arianne">
-  <a href="/">Home</a>
+  <a href="/">DINSIC.fr</a>
   {% for crumb in crumbs offset: 1 %}
   {% if forloop.last %}
   / {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}
