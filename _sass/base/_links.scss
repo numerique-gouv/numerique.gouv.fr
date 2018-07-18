@@ -1,3 +1,42 @@
 // --------------------------------------------------
 // Links
 // --------------------------------------------------
+a {
+  margin-bottom: inherit;
+}
+
+.presence {
+  display: inline-block;
+  margin: 0 3px;
+  .icone {
+    width: 50px;
+    min-height: 50px; }
+}
+
+.icone {
+  display: block;
+  display: inline-block;
+  overflow: hidden;
+  width: 30px;
+  height: 30px;
+  background-image: url(/assets/img/pictogrammes/icone-sprite.png);
+  overflow: hidden;
+  text-indent: -9999em;
+
+}
+
+.icone-presence-twitter {
+  background-position: -50px -340px;
+  &:hover {
+    background-position: -50px -390px;
+  }
+}
+
+.icone.icone-presence-facebook {
+  background-position: 0 -340px;
+  &:hover {
+    background-position: 0 -390px;
+  }
+}
+
+

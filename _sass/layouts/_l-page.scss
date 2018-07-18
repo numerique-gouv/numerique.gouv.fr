@@ -3,8 +3,10 @@
 // --------------------------------------------------
 
 main {
-  @include grid-row;
-  background-color: $light-gray;
+  background-color: $white;
+  h1 {
+    text-transform: uppercase;
+  }
 
   //other elements
   //@include grid-column;

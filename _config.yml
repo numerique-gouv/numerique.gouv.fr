@@ -13,8 +13,12 @@ defaults:
     path: ''
     type: posts
   values:
+    layout: actualite
     permalink: "/actualites/:title/"
-language: Fr
+
+categories: [main]
+
+language: fr
 markdown: kramdown
 description: Le site officiel de la DINSIC
 include:
@@ -41,8 +45,6 @@ exclude:
 - yarn-error.log
 - "/ansible/"
 - "/node_modules/"
-- Gemfile.lock
-permalink: "/:year/:month/:title.html"
 pagination:
   enabled: true
   per_page: 2

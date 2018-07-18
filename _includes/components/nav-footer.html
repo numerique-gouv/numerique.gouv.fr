@@ -1,7 +1,43 @@
 <nav>
-  <ul class="menu clearfix float-right">
-    {% for item in site.data.nav-footer %}
-      <li><a href="{{ item.url }}">{{ item.link }}</a></li>
-    {% endfor %}
-  </ul>
+  <div class="grid-x grid-margin-x padding-2">
+    <div class="large-4 medium-12 small-12 ">
+      <h1><a href="{{ base }}/">dinsic.gouv.fr</a></h1>
+      <p>Grâce au numérique, nous créons les services publics de demain</p>
+      <ul class="grid-x">
+        <li class="">
+          <a href="https://twitter.com/_DINSIC" target="_blank" title="Retrouvez-nous sur Twitter - nouvelle fenêtre" class="presence presence-twitter">
+            <span class="icone icone-presence-twitter">Twitter</span>
+          </a>
+        </li>
+        <li class="">
+          <a href="https://www.facebook.com/gouvernement.fr" target="_blank" title="Retrouvez-nous sur Facebook - nouvelle fenêtre" class="presence presence-facebook">
+            <span class="icone icone-presence-facebook">Facebook</span>
+          </a>
+        </li>
+      </ul>
+      <ul>
+        {% for item in site.data.nav-footer %}
+        <li class="lien-info-site"><a href="{{ item.url }}">{{ item.link }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="cell large-8 show-for-large grid-y">
+      <div>
+        <h2>Plan du site</h2>
+        <ul>
+          {% for item in site.data.plan-du-site %}
+          <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="margin-top-auto">
+        <h5>Les sites publics :</h5>
+        <ul class="menu clearfix float-left">
+          {% for item in site.data.nav-sites-publics %}
+          <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
 </nav>

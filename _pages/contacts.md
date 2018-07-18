@@ -1,6 +1,7 @@
 ---
-title: Contacts
+title: Nous contacter
 permalink: "/contacts/"
-layout: page
+layout: contact
 ---
 
+Le formulaire suivant permet de nous contacter:

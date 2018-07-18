@@ -1,10 +1,8 @@
 // --------------------------------------------------
-// Layout post
+// Layout contact page
 // --------------------------------------------------
-
-main {
-  @include grid-row;
-
-  //other elements
-  //@include grid-column;
+#contact-form {
+  margin: 2rem;
+  padding: 1rem;
+  border: solid $dark-gray 0.1rem;
 }

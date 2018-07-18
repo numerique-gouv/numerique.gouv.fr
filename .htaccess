@@ -3,15 +3,6 @@
 </ifModule>
 
 RewriteEngine On
-RewriteBase /opt/piwik
-
-# -- Password Protection --
-# AuthName "Restricted Area"
-# AuthType Basic
-# AuthUserFile /Applications/MAMP/htdocs/.htpasswd
-# AuthGroupFile /dev/null
-# require valid-user
-
 
 # -- Error Docs --
 ErrorDocument 404 /404/
