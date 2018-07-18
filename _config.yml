@@ -23,7 +23,6 @@ description: Le site officiel de la DINSIC
 include:
 - ".htaccess"
 - _pages
-- assets/stylesheet.scss
 exclude:
 - ".DS_Store"
 - ".circleci/"
