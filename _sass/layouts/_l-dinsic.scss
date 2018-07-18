@@ -23,7 +23,7 @@
     padding-bottom: 4rem;
     h1 {
       font-size: xx-large;
-      font-weight: bold;
+      font-weight: lighter;
       @include breakpoint(small down) {
         font-size: x-large;
       }

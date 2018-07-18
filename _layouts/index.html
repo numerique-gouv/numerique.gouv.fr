@@ -28,10 +28,12 @@ layout: default
         <li class="cell large-4 medium-12 small-12">
           <div class="grid-y height-100">
             <img alt="image principale de {{ actualite.title }}" src="{{actualite.image-mise-en-avant}}">
-            <div class="cell padding-1 margin-top-auto">
+            <div class="cell padding-1">
               <h5 class="font-bold">{{ actualite.title }}</h5>
               <h6>{% include date.html date=actualite.date %}</h6>
-              <p>{{ actualite.excerpt }}</p>
+              <p>{{ actualite.excerpt | truncatewords: 40 }}</p>
+            </div>
+            <div class="margin-top-auto">
               <a href="{{ actualite.url }}">Lire plus...</a>
             </div>
               <hr class="blue-hr">

@@ -11,7 +11,7 @@
     margin-bottom: 6rem;
     margin-left: 3rem;
     margin-right: 3rem;
-    height: 85vh;
+    height: 35vh;
     background: url("/assets/img/lorem_ipsum/Home.jpg") no-repeat center fixed;
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
     background-size: cover; /* version standardisée */;
@@ -64,8 +64,8 @@
       a{
         color:$bleue;
         font: $header-font-family;
-        font-weight: 700;
-        font-size: medium;
+        font-weight: bold;
+        font-size: larger;
         text-transform: uppercase;
         padding-left: 0.5rem;
         padding-right: 0.5rem;
