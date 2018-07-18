@@ -2,16 +2,10 @@
 // Layout index page
 // --------------------------------------------------
 #index-main {
-  @include grid-row;
   background-color: $white;
   max-width: none;
 
   #visuel-accueil {
-    margin-top: 1rem;
-    margin-bottom: 6rem;
-    margin-left: 3rem;
-    margin-right: 3rem;
-    height: 35vh;
     background: url("/assets/img/lorem_ipsum/Home.jpg") no-repeat center fixed;
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
     background-size: cover; /* version standardisée */;
@@ -20,16 +14,10 @@
       margin: 0rem;
     }
     .encart-transparent {
+      max-width: 75rem;
       background-color: rgba(0, 0, 0, 0.6);
-      margin: auto;
-      margin-left: 3rem;
-      margin-right: 3rem;
-      max-width: 60%;
-      @include breakpoint(medium down) {
-        max-width: none;
-        margin-left: 2rem;
-        margin-right: 2rem;
-      }
+      margin-left: auto;
+      margin-right: auto;
 
       .titre-encart-transparent {
         color: $white;
@@ -38,11 +26,13 @@
         }
       }
       .bouton-encart-transparent {
-        margin-top: 1rem;
-        border: solid $white 0.2rem ;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: transparent;
+        border: solid $white 0.2rem;
         color: $white;
         text-transform: uppercase;
-        font-weight: 700;
+        font-weight: bold;
       }
     }
 

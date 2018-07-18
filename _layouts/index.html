@@ -3,18 +3,16 @@ layout: default
 ---
 
 <main id="index-main" >
-  <header id="visuel-accueil">
-    <div class="encart-transparent padding-2">
-      <div class="titre-encart-transparent padding-top-2">
+  <header id="visuel-accueil" class="padding-vertical-3">
+    <div class="encart-transparent padding-1 grid-y">
+      <div class="titre-encart-transparent padding-top-2 text-center">
         <h1>
           {{page.texte-mis-en-avant}}
         </h1>
       </div>
-      <a href="/dinsic">
-        <button class="clear button large bouton-encart-transparent">
+        <a href="/dinsic" class="button large bouton-encart-transparent " >
           En savoir plus
-        </button>
-      </a>
+        </a>
     </div>
   </header>
   <section id="meilleures-actus" >
@@ -33,7 +31,7 @@ layout: default
               <h6>{% include date.html date=actualite.date %}</h6>
               <p>{{ actualite.excerpt | truncatewords: 40 }}</p>
             </div>
-            <div class="margin-top-auto">
+            <div class="margin-top-auto margin-bottom-1 margin-horizontal-1">
               <a href="{{ actualite.url }}">Lire plus...</a>
             </div>
               <hr class="blue-hr">
