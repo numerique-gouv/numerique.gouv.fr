@@ -13,14 +13,15 @@
     color: $dark-gray;
     text-align: justify;
     font-family: $header-font-family;
+    @include breakpoint(medium down) {
+      text-align: left;
+    }
 
   }
   #titre-dinsic-page {
     padding-top: 2rem;
     padding-bottom: 4rem;
     h1 {
-      text-transform: uppercase;
-      text-align: center;
       font-size: xx-large;
       font-weight: bold;
       @include breakpoint(small down) {
@@ -44,7 +45,6 @@
       padding-bottom: 0rem;
     }
     h2 {
-      text-transform: uppercase;
       font-size: x-large;
       font-weight: bold;
       @include breakpoint(medium down) {
@@ -57,6 +57,10 @@
     .encadre-dinsic {
       background-color: $encadre-bleue-avant;
       box-shadow: -0.5rem -0.5rem 0rem $encadre-bleue-arriere;
+      padding: 2rem;
+      @include breakpoint(medium down) {
+        padding: 1rem;
+      }
       h3 {
         color: $bleue;
       }
