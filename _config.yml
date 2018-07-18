@@ -5,6 +5,9 @@ collections:
   posts:
     title: Actualités
     output: true
+  communiques:
+    title: Communiqués
+    output: true
   uploads:
     title: Uploads
     output: true
