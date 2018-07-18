@@ -2,7 +2,8 @@
 title: La DINSIC
 permalink: "/dinsic/"
 layout: dinsic
-categories: [main]
+categories:
+- main
 subtitle: 'Notre mission : créer le service public de demain, grâce au numérique'
 en-tete: 'La DINSIC – direction interministérielle du numérique et du système d’information
   et de communication de l’État – est en charge de la transformation numérique de
