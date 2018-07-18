@@ -21,8 +21,6 @@ categories: [main]
 language: fr
 markdown: kramdown
 description: Le site officiel de la DINSIC
-plugins:
-- jekyll-paginate-v2
 include:
 - ".htaccess"
 - _pages
@@ -34,8 +32,6 @@ exclude:
 - composer.json
 - composer.lock
 - DOC.md
-- Gemfile
-- Gemfile.lock
 - "/gulp/"
 - gulpfile.js
 - LICENSE.md
