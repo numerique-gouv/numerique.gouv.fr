@@ -109,7 +109,7 @@ sass:
     jekyllRoot: "assets/css/"
     buildDir: "_site/assets/css/"
   notification: "Running Sass"
-  src: "assets/*.sass"
+  src: "assets/*.scss"
 
 watch:
   media:
