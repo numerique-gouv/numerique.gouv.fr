@@ -1,0 +1,108 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+// Import icon font, I've used Entypo (http://entypo.com/)
+@import url(http://weloveiconfonts.com/api/?family=entypo);
+
+// List of icon unicode symbols from the icon font
+// and background colours for the icons
+$icon-list: (
+  vimeo "\F306" #4dbfe3,
+  twitter "\F309" #32b9e7,
+  facebook "\F30C" #4b70ab,
+  googleplus "\F30F" #fa5432,
+  pintrest "\F312" #d63533,
+  linkedin "\F318" #0087be,
+  dribble "\F31B" #fc89b1,
+  stumbleupon "\F31E" #f15d29,
+  lastfm "\F321" #e42124,
+  instagram "\F32D" #6291b2,
+  dropbox "\F330" #167ab6,
+  picasa "\F345" #c49aca,
+  soundcloud "\F348" #fb740b,
+  behance "\F34E" #33abdb,
+  skype "\F339" #00AFF0,
+  github "\F300" #333333,
+  flickr "\F303" #333333,
+  rdio "\F324" #0086CD,
+  evernote "\F333" #aaca62
+);
+
+// Each loop for creating the icon CSS
+@each $icon, $unicode, $icon-background in $icon-list {
+
+  .icon--#{$icon} {
+    &::before {
+      content: $unicode;
+    }
+  }
+
+  .social__icon--#{$icon} {
+    background-color: $icon-background;
+
+    &:hover {
+      // Swap black for white to make the icons lighter on hover
+      background-color: mix(black, $icon-background, 15%);
+    }
+
+  }
+
+}
+
+// Display icons next to each other
+.social__item {
+  display: inline-block;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+// Basic icon style
+.icon {
+  font-family: 'entypo';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  // Better Font Rendering
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Extend icon to all other icons
+[class^="icon--"] {
+  @extend .icon;
+}
+
+// Icon background
+.social__icon {
+  font-size: 1.4em;
+  color: white;
+  float: left;
+  text-decoration: none;
+  // Remove border radius to make icons square
+  border-radius:100%;
+  width: 2.2em;
+  height: 2.2em;
+  text-align: center;
+
+  // Vertical Centering
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// Extend social__icon to all other icons
+[class^="social__icon"] {
+  @extend .social__icon;
+}
+
+// Add padding to icons container
+.social__container {
+  padding: 1em;
+}

@@ -25,7 +25,9 @@ layout: default
         {% for actualite in sorted_actualites limit:3 %}
         <li class="cell large-4 medium-12 small-12">
           <div class="grid-y height-100">
-            <img alt="image principale de {{ actualite.title }}" src="{{actualite.image-mise-en-avant}}">
+            <div class="cell index-image-container">
+              <img alt="image principale de {{ actualite.title }}" src="{{actualite.image-mise-en-avant}}">
+            </div>
             <div class="cell padding-1">
               <h5 class="font-bold">{{ actualite.title }}</h5>
               <h6>{% include date.html date=actualite.date %}</h6>
