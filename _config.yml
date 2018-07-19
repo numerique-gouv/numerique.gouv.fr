@@ -30,7 +30,6 @@ exclude:
 - ".DS_Store"
 - ".circleci/"
 - bower.json
-- "/assets/"
 - composer.json
 - composer.lock
 - DOC.md
