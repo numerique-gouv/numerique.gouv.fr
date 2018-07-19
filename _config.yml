@@ -5,6 +5,9 @@ collections:
   posts:
     title: Actualités
     output: true
+  communiques:
+    title: Communiqués
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -15,9 +18,8 @@ defaults:
   values:
     layout: actualite
     permalink: "/actualites/:title/"
-
-categories: [main]
-
+categories:
+- main
 language: fr
 markdown: kramdown
 description: Le site officiel de la DINSIC
@@ -28,7 +30,6 @@ exclude:
 - ".DS_Store"
 - ".circleci/"
 - bower.json
-- "/assets/"
 - composer.json
 - composer.lock
 - DOC.md

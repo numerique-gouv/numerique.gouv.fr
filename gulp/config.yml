@@ -107,9 +107,9 @@ sass:
     - "ie >= 9"
   dest:
     jekyllRoot: "assets/css/"
-    buildDir: "_site/assets/"
+    buildDir: "_site/assets/css/"
   notification: "Running Sass"
-  src: "assets/*.scss"
+  src: "assets/*.sass"
 
 watch:
   media:
