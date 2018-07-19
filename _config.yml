@@ -7,7 +7,7 @@ collections:
     output: true
   communiques:
     title: Communiqués
-    output: false
+    output: true
   uploads:
     title: Uploads
     output: true
