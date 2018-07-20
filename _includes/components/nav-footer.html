@@ -1,8 +1,8 @@
 <nav>
   <div class="grid-x grid-margin-x padding-2">
     <div class="large-4 medium-12 small-12 ">
-      <h2><a href="{{ base }}/">dinsic.gouv.fr</a></h2>
-      <p>Grâce au numérique, nous créons les services publics de demain</p>
+      <h3><a href="{{ base }}/">dinsic.gouv.fr</a></h3>
+      <p>Grâce au numérique, nous créons le service public de demain</p>
       <ul class="grid-x margin-left-0">
         <li class="social__item">
           <a target="_blank" href="https://twitter.com/_dinsic" class="social__icon--twitter"><i class="fab fa-twitter"></i></a>
@@ -21,8 +21,8 @@
       </ul>
     </div>
     <div class="cell large-8 show-for-large grid-y">
-      <div>
-        <h3>Plan du site</h3>
+      <div class="padding-left-3">
+        <h5>Plan du site</h5>
         <ul class="list-none">
           {% for item in site.data.plan-du-site %}
           <li><a href="{{ item.url }}">{{ item.link }}</a></li>

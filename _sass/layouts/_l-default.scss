@@ -70,6 +70,9 @@ header {
     margin-right: auto;
     margin-left: auto;
     margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: smaller;
+
     @include breakpoint(medium down) {
       padding-left: 1rem;
     }
@@ -80,6 +83,7 @@ main {
   max-width: 75rem;
   margin-right: auto;
   margin-left: auto;
+
 }
 
 footer {

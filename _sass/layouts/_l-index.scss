@@ -10,11 +10,12 @@
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
     background-size: cover; /* version standardisée */;
     display: flex;
+    height: 40vh;
     @include breakpoint(medium down) {
       margin: 0rem;
     }
     .encart-transparent {
-      max-width: 75rem;
+      max-width: 55rem;
       background-color: rgba(0, 0, 0, 0.6);
       margin-left: auto;
       margin-right: auto;
@@ -23,6 +24,8 @@
         color: $white;
         h1 {
           font-weight: lighter;
+          font-size: xx-large;
+          margin-bottom: 2rem;
         }
       }
       .bouton-encart-transparent {
@@ -33,6 +36,7 @@
         color: $white;
         text-transform: uppercase;
         font-weight: bold;
+        font-size: medium;
       }
     }
 
@@ -40,6 +44,10 @@
 
   #meilleures-actus {
     background-color: $light-gray;
+    h2 {
+      font-size: x-large;
+      font-weight: bold;
+    }
     ul {
       list-style-type: none;
 
