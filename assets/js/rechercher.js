@@ -1,13 +1,15 @@
 (function() {
   function displaySearchResults(results, store) {
     let searchResults = document.getElementById('search-results');
+    const options = { year: 'numeric', month: 'long', day: 'numeric' };
 
     if (results.length) { // Are there any results?
       let appendString = '';
 
       for (let i = 0; i < results.length; i++) {  // Iterate over the results
         let item = store[results[i].ref];
-appendString += '<li><a href="' + item.url + '"><h3>' + item.title + '</h3><h4>' + item.date + '</h4></a>';
+        var event = new Date( item.date )
+appendString += '<li class="cell large-4 medium-6 small-12"><a href="' + item.url + '"><h4>' + item.title + '</h4><div class="date">' + event.toLocaleDateString('fr-FR', options) + '</div></a>';
         appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
       }
 
