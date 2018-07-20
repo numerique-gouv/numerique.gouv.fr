@@ -69,7 +69,7 @@ header {
     max-width: 75rem;
     margin-right: auto;
     margin-left: auto;
-    padding-left: 3rem;
+    margin-top: 1rem;
     @include breakpoint(medium down) {
       padding-left: 1rem;
     }
