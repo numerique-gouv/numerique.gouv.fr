@@ -5,41 +5,34 @@
 }
 
 // Import icon font, I've used Entypo (http://entypo.com/)
-@import url(http://weloveiconfonts.com/api/?family=entypo);
+@import url(https://use.fontawesome.com/releases/v5.1.1/css/all.css);
 
 // List of icon unicode symbols from the icon font
 // and background colours for the icons
 $icon-list: (
-  vimeo "\F306" #4dbfe3,
-  twitter "\F309" #32b9e7,
-  facebook "\F30C" #4b70ab,
-  googleplus "\F30F" #fa5432,
-  pintrest "\F312" #d63533,
-  linkedin "\F318" #0087be,
-  dribble "\F31B" #fc89b1,
-  stumbleupon "\F31E" #f15d29,
-  lastfm "\F321" #e42124,
-  instagram "\F32D" #6291b2,
-  dropbox "\F330" #167ab6,
-  picasa "\F345" #c49aca,
-  soundcloud "\F348" #fb740b,
-  behance "\F34E" #33abdb,
-  skype "\F339" #00AFF0,
-  github "\F300" #333333,
-  flickr "\F303" #333333,
-  rdio "\F324" #0086CD,
-  evernote "\F333" #aaca62
+  vimeo #4dbfe3,
+  twitter #32b9e7,
+  facebook #4b70ab,
+  googleplus #fa5432,
+  pintrest #d63533,
+  linkedin #0087be,
+  dribble #fc89b1,
+  stumbleupon #f15d29,
+  lastfm #e42124,
+  instagram #6291b2,
+  dropbox #167ab6,
+  picasa #c49aca,
+  soundcloud #fb740b,
+  behance #33abdb,
+  skype #00AFF0,
+  github #333333,
+  flickr #333333,
+  rdio #0086CD,
+  evernote #aaca62
 );
 
 // Each loop for creating the icon CSS
-@each $icon, $unicode, $icon-background in $icon-list {
-
-  .icon--#{$icon} {
-    &::before {
-      content: $unicode;
-    }
-  }
-
+@each $icon, $icon-background in $icon-list {
   .social__icon--#{$icon} {
     background-color: $medium-gray;
     &:hover {
@@ -61,7 +54,7 @@ $icon-list: (
 
 // Basic icon style
 .icon {
-  font-family: 'entypo';
+  font-family: 'fontawesome';
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -106,3 +99,4 @@ $icon-list: (
 .social__container {
   padding: 1rem;
 }
+
