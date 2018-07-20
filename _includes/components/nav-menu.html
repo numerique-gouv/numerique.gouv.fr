@@ -3,7 +3,7 @@
     <div class="title-bar-left">
       <a href="/">
         <img src="{{base}}/assets/img/logos/Logo_de_la_Republique_francaise.png" alt="Logo de la République française">
-        <i><b>dinsic.gouv</b>.fr</i>
+        <b>dinsic.gouv.</b><i>fr</i>
       </a>
     </div>
     <div class="title-bar-right">
@@ -18,15 +18,15 @@
   <div class="top-bar" id="dinsic-main-menu" data-animate="hinge-in-from-top hinge-out-from-top">
     <div class="top-bar-left">
       <ul class="vertical medium-horizontal menu">
-        <li class="hide-for-small-only">
+        <li class="hide-for-small-only padding-right-1">
           <a href="/">
             <img src="{{base}}/assets/img/logos/Logo_de_la_Republique_francaise.png" alt="Logo de la République française" class="padding-right-1">
-            <i><b>dinsic.gouv</b>.fr</i>
+            <b>dinsic.gouv.</b><i>fr</i>
           </a>
         </li>
         {% for item in site.data.nav-main %}
         <li>
-          <a class="line-height-unset" href="{{ item.url }}">{{ item.link }}</a>
+          <a class="padding-top-1-1" href="{{ item.url }}">{{ item.link }}</a>
         </li>
         {% endfor %}
       </ul>

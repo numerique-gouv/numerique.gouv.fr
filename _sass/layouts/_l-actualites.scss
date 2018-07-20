@@ -5,12 +5,15 @@
    li {
      &:nth-child(odd) {
        flex-direction: row;
+       .illustration {
+         box-shadow: -0.5rem -0.5rem 0rem $light-gray;
+       }
      }
      &:nth-child(even) {
        flex-direction: row-reverse;
-     }
-     .illustration {
-       border: solid $light-gray 0.5rem;
+       .illustration {
+         box-shadow: 0.5rem -0.5rem 0rem $light-gray;
+       }
      }
    }
  }
