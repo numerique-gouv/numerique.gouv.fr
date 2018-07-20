@@ -16,7 +16,7 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: actualite
+    layout: post
     permalink: "/actualites/:title/"
 categories:
 - main

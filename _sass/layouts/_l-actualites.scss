@@ -1,7 +1,16 @@
 // --------------------------------------------------
 // Layout actalites
 // --------------------------------------------------
-
-.post-list {
-  list-style-type: none;
-}
+ #list-post {
+   li {
+     &:nth-child(odd) {
+       flex-direction: row;
+     }
+     &:nth-child(even) {
+       flex-direction: row-reverse;
+     }
+     .illustration {
+       border: solid $light-gray 0.5rem;
+     }
+   }
+ }
