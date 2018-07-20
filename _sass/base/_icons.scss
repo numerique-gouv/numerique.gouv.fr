@@ -37,12 +37,11 @@ $icon-list: (
     background-color: $medium-gray;
     &:hover {
       // Swap black for white to make the icons lighter on hover
+      text-decoration: none;
       background-color: $icon-background;
       color: inherit;
     }
-
   }
-
 }
 
 // Display icons next to each other
