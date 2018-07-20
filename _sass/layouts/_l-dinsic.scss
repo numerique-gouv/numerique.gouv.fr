@@ -3,7 +3,6 @@
 // --------------------------------------------------
 #dinsic-page {
   background-color: $white;
-  padding: 3rem;
 
   @include breakpoint(medium down) {
     padding: 1rem;
