@@ -38,9 +38,6 @@ header {
         padding-left: 0rem;
         padding-right: 0rem;
       }
-      .padding-top-align {
-        padding-top: 1.1rem;
-      }
       .search-form {
         button {
           background-color: $white;
@@ -86,21 +83,29 @@ main {
 }
 
 footer {
-  max-width: none;
   background-color: $black;
-  color: $medium-gray;
-  ul {
-    list-style-type: none;
-    margin-left: 0rem;
-    .lien-info-site {
-      text-transform: uppercase;
+  nav {
+    max-width: 75rem;
+    margin-right: auto;
+    margin-left: auto;
+    color: $medium-gray;
+    a {
+      color: $light-gray;
+      display: block;
+      &:hover {
+        color: $light-gray;
+        text-decoration: underline;
+      }
     }
-  }
-  a {
-    color: $light-gray;
-    &:hover {
-      color: $dark-gray;
-    }
-  }
+    #site-public {
+      font-size: smaller;
+      li {
+        padding: 0.5rem;
+      }
+      a {
+        display: block;
+      }
 
+    }
+  }
 }

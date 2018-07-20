@@ -41,11 +41,11 @@ $icon-list: (
   }
 
   .social__icon--#{$icon} {
-    background-color: $icon-background;
-
+    background-color: $medium-gray;
     &:hover {
       // Swap black for white to make the icons lighter on hover
-      background-color: mix(black, $icon-background, 15%);
+      background-color: $icon-background;
+      color: inherit;
     }
 
   }
@@ -82,7 +82,7 @@ $icon-list: (
 // Icon background
 .social__icon {
   font-size: 1.4em;
-  color: white;
+  color: $black;
   float: left;
   text-decoration: none;
   // Remove border radius to make icons square
@@ -104,5 +104,5 @@ $icon-list: (
 
 // Add padding to icons container
 .social__container {
-  padding: 1em;
+  padding: 1rem;
 }

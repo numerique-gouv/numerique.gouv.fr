@@ -1,39 +1,42 @@
 <nav>
   <div class="grid-x grid-margin-x padding-2">
     <div class="large-4 medium-12 small-12 ">
-      <h1><a href="{{ base }}/">dinsic.gouv.fr</a></h1>
+      <h2><a href="{{ base }}/">dinsic.gouv.fr</a></h2>
       <p>Grâce au numérique, nous créons les services publics de demain</p>
-      <ul class="grid-x">
+      <ul class="grid-x margin-left-0">
         <li class="social__item">
           <a target="_blank" href="https://twitter.com/_dinsic" class="social__icon--twitter"><i class="icon--twitter"></i></a>
         </li>
         <li class="social__item">
           <a target="_blank" href="https://www.linkedin.com/company/direction-interministerielle-du-numerique-et-du-si-de-l-etat-dinsic/" class="social__icon--linkedin"><i class="icon--linkedin"></i></a>
         </li>
+        <li class="social__item">
+          <a target="_blank" href="https://github.com/etalab" class="social__icon--github"><i class="icon--github"></i></a>
+        </li>
       </ul>
-      <ul>
+      <ul class="list-none">
         {% for item in site.data.nav-footer %}
-        <li class="lien-info-site"><a href="{{ item.url }}">{{ item.link }}</a></li>
+        <li><a class="text-uppercase" href="{{ item.url }}">{{ item.link }}</a></li>
         {% endfor %}
       </ul>
     </div>
     <div class="cell large-8 show-for-large grid-y">
       <div>
-        <h2>Plan du site</h2>
-        <ul>
+        <h3>Plan du site</h3>
+        <ul class="list-none">
           {% for item in site.data.plan-du-site %}
           <li><a href="{{ item.url }}">{{ item.link }}</a></li>
           {% endfor %}
         </ul>
       </div>
-      <div class="margin-top-auto">
-        <h5>Les sites publics :</h5>
-        <ul class="menu clearfix float-left">
-          {% for item in site.data.nav-sites-publics %}
-          <li><a href="{{ item.url }}">{{ item.link }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
+    </div>
+    <div class="cell large-8 large-offset-4 show-for-large">
+      <ul id="site-public" class="list-none">
+        <li class="float-left">Les sites publics :</li>
+        {% for item in site.data.nav-sites-publics %}
+        <li class="float-left"><a href="{{ item.url }}">{{ item.link }}</a></li>
+        {% endfor %}
+      </ul>
     </div>
   </div>
 </nav>
