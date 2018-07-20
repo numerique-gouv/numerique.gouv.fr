@@ -1,7 +1,8 @@
 ---
 title: Communiqué 1
-date: 2018-07-18 15:16:00 Z
+date: 2018-07-18 17:16:00 +02:00
 communique_file: "/uploads/21830.pdf"
+communique_size: 128
 layout: actualite
 ---
 
