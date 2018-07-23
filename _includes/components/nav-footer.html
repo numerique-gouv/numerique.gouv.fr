@@ -14,7 +14,7 @@
           <a target="_blank" href="https://github.com/etalab" class="social__icon--github"><i class="fab fa-github-alt"></i></a>
         </li>
       </ul>
-      <ul class="list-none">
+      <ul class="no-bullet">
         {% for item in site.data.nav-footer %}
         <li><a class="text-uppercase" href="{{ item.url }}">{{ item.link }}</a></li>
         {% endfor %}
@@ -23,7 +23,7 @@
     <div class="cell large-8 show-for-large grid-y">
       <div class="padding-left-3">
         <h5>Plan du site</h5>
-        <ul class="list-none">
+        <ul class="no-bullet">
           {% for item in site.data.plan-du-site %}
           <li><a href="{{ item.url }}">{{ item.link }}</a></li>
           {% endfor %}
@@ -31,7 +31,7 @@
       </div>
     </div>
     <div class="cell large-8 large-offset-4 show-for-large">
-      <ul id="site-public" class="list-none">
+      <ul id="site-public" class="no-bullet">
         <li class="float-left">Les sites publics :</li>
         {% for item in site.data.nav-sites-publics %}
         <li class="float-left"><a href="{{ item.url }}">{{ item.link }}</a></li>

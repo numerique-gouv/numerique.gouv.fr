@@ -4,7 +4,7 @@
 .blue-hr {
   background-color: $bleue;
   height: 0.5rem;
-  margin: unset;
+  margin: 0rem;
 }
 
 .margin-top-auto {
@@ -19,23 +19,30 @@
   padding-top: 1.1rem !important;
 }
 
-.list-none {
-  list-style-type: none;
-  margin: 0rem;
-  padding: 0rem;
-}
-
 .date {
   font-style: italic;
   font-weight: bold;
   color: $dark-gray;
 }
 
-.image-center {
-  object-fit: cover; /* Do not scale the image */
-  object-position: center; /* Center the image within the element */
-  height: 100%;
-  width:100%;
+.post {
+  &__image-container {
+      height: 100%;
+      width: auto;
+    &.compat-object-fit {
+      background-size: cover;
+      background-position: center center;
+      .post__featured-image { // hide image if object fit is not supported - opacity to 0 for the link area
+        opacity: 0;
+      }
+    }
+  }
+  &__featured-image {
+    object-fit: cover; /* Do not scale the image */
+    object-position: center; /* Center the image within the element */
+    height: 100%;
+    width:100%;
+  }
 }
 
 .gray-background {
@@ -44,3 +51,15 @@
   margin-left: auto;
   background-color: $light-gray;
 }
+
+.lighter {
+  font-weight: lighter;
+}
+
+.post-style {
+  max-width: 60rem;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: $white;
+}
+

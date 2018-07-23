@@ -4,7 +4,7 @@
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
 {% endif %}
 {% if crumbs.size > 1 %}
-<nav id="file-arianne">
+<nav class="default-text-padding margin-vertical-1 h6" id="file-arianne">
   <a href="/">Accueil</a>
   {% for crumb in crumbs offset: 1 %}
   {% if forloop.last %}

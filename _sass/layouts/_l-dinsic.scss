@@ -2,10 +2,7 @@
 // Layout dinsic page
 // --------------------------------------------------
 #dinsic-page {
-  max-width: 60rem;
-  margin-right: auto;
-  margin-left: auto;
-  background-color: $white;
+
 
   @include breakpoint(medium down) {
     padding: 1rem;
@@ -13,33 +10,13 @@
 
   p {
     color: $dark-gray;
-    text-align: justify;
-    font-family: $header-font-family;
-    @include breakpoint(medium down) {
-      text-align: left;
-    }
-
   }
   #titre-dinsic-page {
     img {
       height: 50vh;
-    }
-    h1 {
-      font-size: x-large;
-      font-weight: bold;
-      text-align: center;
-      @include breakpoint(small down) {
-        font-size: large;
+      @include breakpoint(medium down) {
+        padding: 0rem;
       }
-    }
-    p {
-      font-size: large;
-      @include breakpoint(small down) {
-        font-size: initial;
-      }
-    }
-    @include breakpoint(medium down) {
-      padding: 0rem;
     }
   }
   .sections-dinsic {
@@ -47,23 +24,12 @@
     @include breakpoint(medium down) {
       padding-bottom: 0rem;
     }
-    h2 {
-      font-weight: bold;
-      font-size: large ;
-    }
-    p {
-    }
     .encadre-dinsic {
       background-color: $encadre-bleue-avant;
       box-shadow: -0.5rem -0.5rem 0rem $encadre-bleue-arriere;
       padding: 2rem;
       @include breakpoint(medium down) {
         padding: 1rem;
-      }
-      h3 {
-        font-weight: bold;
-        font-size: large ;
-        color: $bleue;
       }
       img {
         width: 1.5rem;
@@ -84,14 +50,6 @@
           .valeur-chiffre-encadre {
             p {
               color: $bleue;
-              text-transform: uppercase;
-              font-size: x-large;
-              font-weight: bold;
-            }
-          }
-          .titre-chiffre-encadre {
-            p {
-              text-align: center;
             }
           }
         }
