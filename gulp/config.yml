@@ -123,6 +123,7 @@ watch:
     - "assets/img/**/*"
     - "assets/video/**/*"
   javascript: "assets/js/app.js"
+  rechercher: "assets/js/rechercher.js"
   sass: "_sass/**/*.scss"
   pages:
     - "*.{md,html,yml,xml}"

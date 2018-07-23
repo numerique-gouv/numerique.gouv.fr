@@ -7,6 +7,10 @@
   margin: 0rem;
 }
 
+.black {
+  color: $black;
+}
+
 .margin-top-auto {
   margin-top: auto;
 }
@@ -19,11 +23,6 @@
   padding-top: 1.1rem !important;
 }
 
-.date {
-  font-style: italic;
-  font-weight: bold;
-  color: $dark-gray;
-}
 
 .post {
   &__image-container {
