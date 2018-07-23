@@ -9,8 +9,9 @@
       for (let i = 0; i < results.length; i++) {  // Iterate over the results
         let item = store[results[i].ref];
         var event = new Date( item.date )
-appendString += '<li class="cell large-4 medium-6 small-12"><a href="' + item.url + '"><h4>' + item.title + '</h4><div class="date">' + event.toLocaleDateString('fr-FR', options) + '</div></a>';
-        appendString += '<p>' + item.content.substring(0, 150) + '...</p></li>';
+appendString += '<li class="cell card large-4 medium-6 small-12"><a class="display-block padding-1 height-100" href="' +
+  item.url + '"><img src="/' + item.image  +'"><h5 class="font-bold black">' + item.title + '</h5><h5 class="subheader h6 font-bold">' + event.toLocaleDateString('fr-FR', options) + '</h5>';
+        appendString += '<p class="black">' + item.content.substring(0, 150) + '...</p></li></a>';
       }
 
       searchResults.innerHTML = appendString;
