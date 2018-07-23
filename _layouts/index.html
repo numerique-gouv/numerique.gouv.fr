@@ -6,31 +6,33 @@ layout: default
   <header id="visuel-accueil" class="padding-vertical-3">
     <div class="encart-transparent padding-1 grid-y">
       <div class="titre-encart-transparent padding-top-2 text-center">
-        <h1>
+        <h1 class="h2 lighter margin-bottom-2">
           {{page.texte-mis-en-avant}}
         </h1>
       </div>
-        <a href="/dinsic" class="button large bouton-encart-transparent " >
+      <div class="text-center">
+        <a href="/dinsic" class="button large bouton-transparent " >
           En savoir plus
         </a>
+      </div>
     </div>
   </header>
   <section id="meilleures-actus" >
-    <div class="text-center padding-3">
-      <h2>Nos dernières actualités</h2>
+    <div class="text-center padding-top-3 padding-bottom-2">
+      <h2 class="font-bold h4">Nos dernières actualités</h2>
     </div>
     <div class="grid-container">
-      <ul class="grid-x grid-margin-x">
+      <ul class="grid-x grid-margin-x no-bullet">
         {% assign sorted_actualites = site.posts | sort : 'date' | reverse %}
         {% for actualite in sorted_actualites limit:3 %}
         <li class="cell large-4 medium-12 small-12">
-          <div class="grid-y height-100">
-            <div class="cell index-image-container">
-              <img alt="image principale de {{ actualite.title }}" src="{{actualite.image-mise-en-avant}}">
+          <div class="card height-100">
+            <div class="card-image post__image-container index-image-container">
+              <img class="post__featured-image" alt="image principale de {{ actualite.title }}" src="{{actualite.image-mise-en-avant}}">
             </div>
-            <div class="cell padding-1">
-              <h5 class="font-bold">{{ actualite.title }}</h5>
-              <h6>{% include date.html date=actualite.date %}</h6>
+            <div class="card-section padding-1">
+              <h3 class="font-bold h5">{{ actualite.title }}</h3>
+              <h4 class="subheader h6 font-bold">{% include date.html date=actualite.date %}</h4>
               <p>{{ actualite.excerpt | truncatewords: 40 }}</p>
             </div>
             <div class="margin-top-auto margin-bottom-1 margin-horizontal-1">

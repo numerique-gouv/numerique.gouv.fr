@@ -12,8 +12,8 @@ $(document).foundation();
 // Custom JS
 // --------------------------------------------------
 
-var button = document.querySelector('#hamburger-button');
-var activatedClass = 'is-active';
+const button = document.querySelector('#hamburger-button');
+const activatedClass = 'is-active';
 
 button.addEventListener('click', function(e) {
   e.preventDefault();
@@ -24,3 +24,17 @@ button.addEventListener('click', function(e) {
     button.classList.add(activatedClass);
   }
 });
+
+if ( ! Modernizr.objectfit ) {
+  $('.post__image-container').each(function () {
+    const $container = $(this),
+      imgUrl = $container.find('img').prop('src');
+    if (imgUrl) {
+      $container
+        .css('backgroundImage', 'url(' + imgUrl + ')')
+        .addClass('compat-object-fit');
+    }
+  });
+}
+
+

@@ -5,4 +5,11 @@ a {
   margin-bottom: inherit;
 }
 
-
+.bouton-transparent {
+  background-color: transparent;
+  border: solid $white 0.2rem;
+  color: $white;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: medium;
+}

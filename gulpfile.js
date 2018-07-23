@@ -6,7 +6,7 @@ requireDir('./gulp/tasks', { recurse: true });
 
 
 gulp.task('build',
-  gulp.series('clean', 'jekyll-build',
+  gulp.series('clean', 'jekyll-build', 'modernizr',
     gulp.parallel('sass', 'javascript', 'rechercher', 'copy')))
 
 gulp.task('default', gulp.series('build','browser-sync', 'watch'))

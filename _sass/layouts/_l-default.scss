@@ -32,12 +32,6 @@ header {
       }
     }
     #dinsic-main-menu {
-      padding-left: 2rem;
-      padding-right: 2rem;
-      @include breakpoint(medium down) {
-        padding-left: 0rem;
-        padding-right: 0rem;
-      }
       .search-form {
         button {
           background-color: $white;
@@ -66,11 +60,6 @@ header {
   }
 
   #file-arianne {
-    max-width: 75rem;
-    margin-right: auto;
-    margin-left: auto;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
     font-size: smaller;
 
     @include breakpoint(medium down) {
@@ -111,5 +100,14 @@ footer {
       }
 
     }
+  }
+}
+
+.default-text-padding {
+  padding-left: 3rem;
+  padding-right: 3rem;
+  @include breakpoint(medium down) {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }
