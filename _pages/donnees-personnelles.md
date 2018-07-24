@@ -1,6 +1,7 @@
 ---
 title: Données personnelles
 permalink: "/donnees-personnelles/"
+position: 7
 layout: page
 ---
 
