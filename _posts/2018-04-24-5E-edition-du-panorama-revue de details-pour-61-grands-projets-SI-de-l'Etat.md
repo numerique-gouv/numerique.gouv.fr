@@ -1,6 +1,7 @@
 ---
-title: "5E édition du panorama&nbsp;: revue de détails pour 61 grands projets SI de l'État"
-date: 2018-04-24 00:00:00 Z
+title: '5E édition du panorama&nbsp;: revue de détails pour 61 grands projets SI de
+  l''État'
+date: 2018-04-24 02:00:00 +02:00
 categories:
 - jekyll
 - update

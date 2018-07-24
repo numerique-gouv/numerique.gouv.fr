@@ -1,5 +1,4 @@
 ---
-url: dinsic.gouv.fr
 title: DINSIC
 timezone: Europe/Paris
 collections:
@@ -19,6 +18,7 @@ defaults:
   values:
     layout: post
     permalink: "/actualites/:title/"
+url: dinsic.gouv.fr
 categories:
 - main
 language: fr
