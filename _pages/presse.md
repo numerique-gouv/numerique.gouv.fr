@@ -1,8 +1,7 @@
 ---
-title: Espace Presse
+title: Espace presse
 permalink: "/presse"
 layout: presse
-fil-ariane: home/presse/
 pagination:
   enabled: true
 ---
