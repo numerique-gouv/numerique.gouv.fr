@@ -10,43 +10,30 @@
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
     background-size: cover; /* version standardisée */;
     display: flex;
+    height: auto;
     @include breakpoint(medium down) {
       margin: 0rem;
     }
     .encart-transparent {
-      max-width: 75rem;
+      max-width: 55rem;
       background-color: rgba(0, 0, 0, 0.6);
       margin-left: auto;
       margin-right: auto;
-
       .titre-encart-transparent {
         color: $white;
-        h1 {
-          font-weight: lighter;
-        }
-      }
-      .bouton-encart-transparent {
-        margin-left: auto;
-        margin-right: auto;
-        background-color: transparent;
-        border: solid $white 0.2rem;
-        color: $white;
-        text-transform: uppercase;
-        font-weight: bold;
       }
     }
-
   }
-
   #meilleures-actus {
     background-color: $light-gray;
     ul {
-      list-style-type: none;
-
       li {
         background-color: $white;
         @include breakpoint(medium down) {
           margin-bottom: 1rem;
+        }
+        .index-image-container {
+          height: 13rem !important;
         }
       }
     }

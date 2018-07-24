@@ -2,19 +2,27 @@
 layout: page
 ---
 
-<ul class="post-list">
+<ul id="list-post" class="list-none grid-y">
   <!--
       Here is the main paginator logic called.
       All calls to site.posts should be replaced by paginator.posts
   -->
   {% for post in paginator.posts %}
-  <li>
-    <span class="post-meta">{% include date.html date=post.date %}</span>
-    <h2>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-    </h2>
-    <p>{{ post.excerpt }}</p>
-    <a href="{{ post.url }}">Lire plus...</a>
+  <li  class="grid-x grid-margin-x">
+    <div class="content cell large-6 small-12">
+      <span class="post-meta">{% include date.html date=post.date %}</span>
+      <h2>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h2>
+      <p>{{ post.excerpt }}</p>
+      <a href="{{ post.url }}">Lire plus...</a>
+    </div>
+    <div class="illustration cell large-6 small-12">
+      <img class="image-center" src="{{base}}/{{ post.image-mise-en-avant }}">
+    </div>
+    {% if forloop.last == false %}
+    <hr class="cell">
+    {% endif %}
   </li>
   {% endfor %}
 </ul>
@@ -23,7 +31,7 @@ layout: page
   Showing buttons to move to the next and to the previous list of posts (pager buttons).
 -->
 {% if paginator.total_pages > 1 %}
-<ul class="pager">
+<ul class="pager list-none padding-vertical-1">
   {% if paginator.previous_page %}
   <li class="previous">
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Actualités plus récentes</a>

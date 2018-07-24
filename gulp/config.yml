@@ -84,9 +84,8 @@ javascript:
 
     # Paths to your own project code are here
     # All the files in this list and in the js dir are concatenated into all.js
-    - "assets/js/*.js"
-    - "!assets/js/all.js"
-    - "!assets/js/rechercher.js"
+    - "assets/js/modernizr.js"
+    - "assets/js/app.js"
 
 rechercher:
   dest:
@@ -96,6 +95,14 @@ rechercher:
   src:
    - node_modules/lunr/lunr.js
    - "assets/js/rechercher.js"
+
+modernizr:
+  dest:
+    jekyllRoot: "assets/js/"
+  filename: "modernizr.js"
+  src:
+   - assets/js/app.js
+
 
 jekyll:
   notification: "Running jekyll"
@@ -109,13 +116,14 @@ sass:
     jekyllRoot: "assets/css/"
     buildDir: "_site/assets/css/"
   notification: "Running Sass"
-  src: "assets/*.sass"
+  src: "assets/*.scss"
 
 watch:
   media:
     - "assets/img/**/*"
     - "assets/video/**/*"
   javascript: "assets/js/app.js"
+  rechercher: "assets/js/rechercher.js"
   sass: "_sass/**/*.scss"
   pages:
     - "*.{md,html,yml,xml}"

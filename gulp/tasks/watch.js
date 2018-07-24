@@ -12,6 +12,7 @@ function reload(done) {
 gulp.task('watch', function() {
   gulp.watch(config.pages, gulp.series('build', reload));
   gulp.watch(config.javascript, gulp.series('javascript', reload));
+  gulp.watch(config.rechercher, gulp.series('rechercher', reload));
   // No browser reload needed here, browserSync injects the stylesheet into browsers
   gulp.watch(config.sass, gulp.series('sass',reload));
   gulp.watch(config.media, gulp.series('copy', reload));

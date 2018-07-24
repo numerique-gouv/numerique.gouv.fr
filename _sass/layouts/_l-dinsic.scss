@@ -2,8 +2,7 @@
 // Layout dinsic page
 // --------------------------------------------------
 #dinsic-page {
-  background-color: $white;
-  padding: 3rem;
+
 
   @include breakpoint(medium down) {
     padding: 1rem;
@@ -11,48 +10,19 @@
 
   p {
     color: $dark-gray;
-    text-align: justify;
-    font-family: $header-font-family;
-    @include breakpoint(medium down) {
-      text-align: left;
-    }
-
   }
   #titre-dinsic-page {
-    padding-top: 2rem;
-    padding-bottom: 4rem;
-    h1 {
-      font-size: xx-large;
-      font-weight: lighter;
-      @include breakpoint(small down) {
-        font-size: x-large;
+    img {
+      height: 50vh;
+      @include breakpoint(medium down) {
+        padding: 0rem;
       }
-    }
-    p {
-      font-size: x-large;
-      @include breakpoint(small down) {
-        font-size: initial;
-      }
-    }
-    @include breakpoint(medium down) {
-      padding: 0rem;
     }
   }
   .sections-dinsic {
-    padding-top: 3rem;
     padding-bottom: 2rem;
     @include breakpoint(medium down) {
       padding-bottom: 0rem;
-    }
-    h2 {
-      font-size: x-large;
-      font-weight: bold;
-      @include breakpoint(medium down) {
-        font-size: large;
-      }
-    }
-    p {
-      font-size: large;
     }
     .encadre-dinsic {
       background-color: $encadre-bleue-avant;
@@ -61,14 +31,12 @@
       @include breakpoint(medium down) {
         padding: 1rem;
       }
-      h3 {
-        color: $bleue;
-      }
       img {
-        width: 2rem;
+        width: 1.5rem;
       }
       #chiffres-encadre {
         .chiffre-encadre {
+          margin: 0rem;
           .logo-chiffre-encadre {
             background-color: $white;
             border: 0.2rem solid $bleue;
@@ -82,14 +50,6 @@
           .valeur-chiffre-encadre {
             p {
               color: $bleue;
-              text-transform: uppercase;
-              font-size: x-large;
-              font-weight: bold;
-            }
-          }
-          .titre-chiffre-encadre {
-            p {
-              text-align: center;
             }
           }
         }

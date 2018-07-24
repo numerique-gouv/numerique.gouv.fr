@@ -1,0 +1,27 @@
+// --------------------------------------------------
+// Layout post
+// --------------------------------------------------
+
+#main-post {
+  max-width: none;
+  background-color: $light-gray;
+  padding-bottom: 1rem;
+  article  {
+    max-width: 60rem;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: $white;
+    img{
+      width: 100%;
+      height: 60vh;
+      object-fit: cover;
+    }
+    #content-article {
+
+    }
+  }
+
+
+  //other elements
+  //@include grid-column;
+}

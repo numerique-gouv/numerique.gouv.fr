@@ -6,10 +6,10 @@ layout: page
   <li>
     <span class="post-meta">{% include date.html date=communique.date %}</span>
     <h2>
-      <a class="post-link" href="{{ communique.communique_file.url }}">{{ communique.title | escape }}</a>
+      <a class="post-link" href="{{ communique.communique_file }}">{{ communique.title | escape }}</a>
     </h2>
     <p>{{ communique.excerpt }}</p>
-    <a href="{{ communique.communique_file.url }}">Télécharger le communiqué - {{ communique.communique_file.size }} Octets</a>
+    <a href="{{ communique.communique_file }}">Télécharger le communiqué - {{ communique.communique_size }} Ko</a>
   </li>
   {% endfor %}
 </ul>

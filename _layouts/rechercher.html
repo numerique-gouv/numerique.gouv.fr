@@ -3,16 +3,36 @@ layout: default
 ---
 
 <main>
-  {{content}}
+  <section class="default-text-padding ">
+    {{content}}
+    <h1>Résultat de la recherche</h1>
+
+    <form action="/rechercher" method="get">
+      <div class="grid-container">
+        <p>Votre recherche :</p>
+        <div class="grid-x">
+          <div class="medium-9 cell ">
+            <input type="text" id="search-box" name="query" placeholder=".medium-6.cell">
+          </div>
+          <div class="medium-3 cell text-center">
+            <input class="button" type="submit" value="Rechercher" placeholder=".medium-6.cell">
+          </div>
+        </div>
+      </div>
+    </form>
+
+    <ul id="search-results" class="no-bullet grid-x grid-margin-x" ></ul>
+  </section>
 </main>
 <script>
   window.store = {
   {% for actualite in site.posts %}
   "{{ actualite.url | slugify }}": {
-    "title": "{{ actualite.title | xml_escape }}",
+    "title": "{{ actualite.title  }}",
       "author": "{{ actualite.author | xml_escape }}",
       "category": "{{ actualite.category | xml_escape }}",
-      "date": "{{ actualite.date | xml_escape }}",
+      "date": "{{ actualite.date }}",
+      "image": "{{ actualite.image-mise-en-avant }}",
       "content": {{ actualite.content | strip_html | strip_newlines | jsonify }},
     "url": "{{ actualite.url | xml_escape }}"
   }
