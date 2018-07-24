@@ -4,6 +4,6 @@
 [submodule "ansible/roles/ansible-role-htpasswd"]
 	path = ansible/roles/ansible-role-htpasswd
 	url = https://github.com/geerlingguy/ansible-role-htpasswd.git
-[submodule "ansible/roles/ansible-role-php"]
-	path = ansible/roles/ansible-role-php
-	url = https://github.com/geerlingguy/ansible-role-php.git
+[submodule "ansible/roles/ansible-role-certbot"]
+	path = ansible/roles/ansible-role-certbot
+	url = https://github.com/geerlingguy/ansible-role-certbot.git

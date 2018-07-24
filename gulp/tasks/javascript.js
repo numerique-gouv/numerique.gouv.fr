@@ -1,9 +1,9 @@
-var $             = require('gulp-load-plugins')();
-var browserSync   = require('browser-sync');
-var config        = require('../util/loadConfig').javascript;
-var gulp          = require('gulp');
-var isProduction  = require('../util/isProduction');
-var uglify        = require('gulp-uglify');
+const $             = require('gulp-load-plugins')();
+const browserSync   = require('browser-sync');
+const config        = require('../util/loadConfig').javascript;
+const gulp          = require('gulp');
+const isProduction  = require('../util/isProduction');
+const uglify        = require('gulp-uglify');
 
 gulp.task('javascript', function() {
   browserSync.notify(config.notification);

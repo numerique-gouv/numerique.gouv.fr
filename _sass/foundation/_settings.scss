@@ -4,5 +4,9 @@ $topbar-background:$white;
 $titlebar-background:$white;
 $titlebar-color:$black;
 
-$header-font-family:('Open Sans', sans-serif );
-$body-font-family:('Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif )
+$header-font-family:('Open Sans', Arial, sans-serif );
+$body-font-family:('Open Sans', Arial, sans-serif );
+
+.text-center {
+  width: 100%
+}

@@ -2,43 +2,49 @@
 layout: default
 ---
 
-<main id="dinsic-page">
-  <section id="titre-dinsic-page">
-    <h1>{{ page.subtitle }}</h1>
-    <p class="padding-top-3">{{ page.en-tete }}</p>
-  </section >
-  {% for section in page.sections %}
-  <section class="sections-dinsic">
-    <h2 class="padding-bottom-1">{{ section.intertitre }}</h2>
-    <p>{{ section.texte-section }}</p>
-    {% if section.encadre %}
-    <div class="encadre-dinsic margin-vertical-3">
-      <div class="grid-x grid-margin-x">
-        <div class="cell shrink">
-          <img src="/assets/img/pictogrammes/Zoom.png">
+<main class="gray-background image-center">
+  <div id="dinsic-page" class="post-style">
+    <section id="titre-dinsic-page" class="padding-bottom-3">
+      <div class="post__image-container">
+        <img class="post__featured-image" src="/assets/img/main/bureau-cnil.jpg">
+      </div>
+      <div class="padding-top-2 default-text-padding">
+        <h1 class="font-bold text-center h4">{{ page.subtitle }}</h1>
+        <p class="padding-top-3 lead large-text-justify">{{ page.en-tete }}</p>
+      </div>
+    </section >
+    {% for section in page.sections %}
+    <section class="sections-dinsic default-text-padding">
+      <h2 class="padding-bottom-1 font-bold h5">{{ section.intertitre }}</h2>
+      <p class="large-text-justify">{{ section.texte-section }}</p>
+      {% if section.encadre %}
+      <div class="encadre-dinsic margin-vertical-2">
+        <div class="media-object">
+          <div class="media-object-section">
+              <img src="/assets/img/pictogrammes/Zoom.png">
+          </div>
+          <div class="media-object-section align-self-bottom">
+            <h3 class="h5 font-bold">{{ section.encadre.titre }}</h3>
+          </div>
         </div>
-        <div class="cell auto">
-          <h3>{{ section.encadre.titre }}</h3>
+        <p>{{ section.encadre.contenu }}</p>
+        <div id="chiffres-encadre" class="grid-x grid-margin-x margin-top-2">
+          {% for chiffre in section.encadre.chiffres %}
+          <div class="chiffre-encadre medium-auto cell small-12 grid-y align-middle">
+            <div class="logo-chiffre-encadre grid-x align-middle align-center">
+              <img class="" alt="{{ chiffre.icon.titre }}" src={{ chiffre.icon.path }}>
+            </div>
+            <div class="valeur-chiffre-encadre padding-top-1">
+              <p class="margin-0 h4 font-bold text-uppercase large-text-justify"> {{ chiffre.valeur }}</p>
+            </div>
+            <p class="text-center">{{ chiffre.titre }}</p>
+          </div>
+          {% endfor %}
         </div>
       </div>
-      <p>{{ section.encadre.contenu }}</p>
-      <div id="chiffres-encadre" class="grid-x grid-margin-x margin-vertical-2">
-        {% for chiffre in section.encadre.chiffres %}
-        <div class="chiffre-encadre medium-auto cell small-12 grid-y align-middle">
-          <div class="logo-chiffre-encadre grid-x align-middle align-center">
-            <img class="" alt="{{ chiffre.icon.titre }}" src={{ chiffre.icon.path }}>
-          </div>
-          <div class="valeur-chiffre-encadre padding-top-1">
-            <p class="margin-0"> {{ chiffre.valeur }}</p>
-          </div>
-          <div class="titre-chiffre-encadre">
-            <p>{{ chiffre.titre }}</p>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-  </section>
-  {% endfor %}
+      {% endif %}
+    </section>
+    {% endfor %}
+  </div>
+
 </main>
