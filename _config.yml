@@ -1,13 +1,13 @@
 ---
 title: DINSIC
-timezone: UTC
+timezone: Europe/Paris
 collections:
   posts:
     title: Actualités
     output: true
   communiques:
     title: Communiqués
-    output: true
+    output: false
   uploads:
     title: Uploads
     output: true
