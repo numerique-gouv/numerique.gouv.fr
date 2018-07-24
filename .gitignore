@@ -1,8 +1,10 @@
 # Stylesheet
 assets/css/app.css
+assets/css/stylesheet.css
 
 # JavaScript
 assets/js/all.js
+assets/js/modernizr.js
 rev-manifest.json
 
 # Cache
