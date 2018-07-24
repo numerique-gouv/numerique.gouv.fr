@@ -1,0 +1,15 @@
+---
+layout: page
+---
+<ul class="post-list">
+  {% for communique in site.communiques %}
+  <li>
+    <span class="post-meta">{% include date.html date=communique.date %}</span>
+    <h2>
+      <a class="post-link" href="{{ communique.communique_file.url }}">{{ communique.title | escape }}</a>
+    </h2>
+    <p>{{ communique.excerpt }}</p>
+    <a href="{{ communique.communique_file.url }}">Télécharger le communiqué - {{ communique.communique_file.size }} Octets</a>
+  </li>
+  {% endfor %}
+</ul>
