@@ -2,7 +2,7 @@
 title: DINSIC
 timezone: Europe/Paris
 collections:
-  posts:
+  actualites:
     title: Actualités
     output: true
   communiques:
@@ -10,6 +10,9 @@ collections:
     output: false
   evenements:
     title: Evènements
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads
