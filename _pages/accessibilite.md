@@ -1,6 +1,7 @@
 ---
 title: Accessibilité
 permalink: "/accessibilite/"
+position: 8
 layout: page
 ---
 

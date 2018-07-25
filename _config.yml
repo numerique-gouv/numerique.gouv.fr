@@ -3,7 +3,7 @@ url: dinsic.gouv.fr
 title: DINSIC
 timezone: Europe/Paris
 collections:
-  actualites:
+  posts:
     title: Actualités
     output: true
   communiques:
@@ -18,7 +18,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: actualites
+    type: posts
   values:
     layout: post
     permalink: "/actualites/:title/"
@@ -34,6 +34,7 @@ defaults:
   values:
     layout: post
     permalink: "/evenements/:title/"
+url: dinsic.gouv.fr
 categories:
 - main
 language: fr
@@ -65,10 +66,10 @@ exclude:
 pagination:
   enabled: true
   per_page: 2
-  permalink: '/:num/'
-  title: ':title | :num of :max'
+  permalink: "/page/:num/"
+  title: ":title - page :num of :max"
   limit: 0
-  sort_field: 'date'
+  sort_field: date
   sort_reverse: true
 incremental: true
 compress_html:

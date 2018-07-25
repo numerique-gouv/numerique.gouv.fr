@@ -1,6 +1,7 @@
 ---
 title: Mentions Légales
 permalink: "/mentions-legales/"
+position: 3
 layout: page
 ---
 
