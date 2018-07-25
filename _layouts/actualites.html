@@ -17,8 +17,8 @@ layout: page
       <p>{{ post.excerpt }}</p>
       <a href="{{ post.url }}">Lire plus...</a>
     </div>
-    <div class="illustration cell large-6 small-12">
-      <img class="image-center" src="{{base}}/{{ post.image-mise-en-avant }}">
+    <div class="illustration cell post__image-container large-6 small-12">
+      <img class="post__featured-image" src="{{base}}/{{ post.image-mise-en-avant }}">
     </div>
     {% if forloop.last == false %}
     <hr class="cell">
