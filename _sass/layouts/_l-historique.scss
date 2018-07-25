@@ -1,0 +1,161 @@
+$historique-color: $white;
+$historique-transition: all 0.25s ease-in;
+$historique-item-card-bg: $white;
+$historique-item-font-color: $white;
+$historique-item-card: false;
+$historique-item-card-radius: $global-radius;
+
+%clearfix {
+  &::after,
+  &::before {
+    clear: both;
+    content: '';
+    display: block;
+    width: 100%;
+  }
+}
+
+// Timeline
+.historique {
+  background-color: $light-gray;
+  margin: 30px auto;
+  padding: 0 10px;
+  position: relative;
+  transition: $historique-transition;
+  width: 100%;
+
+  &::before {
+    background: $historique-color;
+    content: '';
+    height: 100%;
+    left: 50%;
+    position: absolute;
+    top: 0;
+    width: 3px;
+  }
+
+  &::after {
+    clear: both;
+    content: '';
+    display: table;
+    width: 100%;
+  }
+
+  a {
+    color: $historique-item-font-color;
+    font-weight: bold;
+    transition: $historique-transition;
+
+    &:hover {
+      box-shadow: 0 1px 0px 0px $historique-item-font-color;
+      transition: $historique-transition;
+    }
+  }
+
+  .historique-item {
+    margin-bottom: 50px;
+    position: relative;
+    @extend %clearfix;
+
+    .historique-icon {
+      background: $historique-color;
+      border-radius: 50%;
+      height: 50px;
+      left: 50%;
+      margin-left: -23px;
+      overflow: hidden;
+      position: absolute;
+      top: 0;
+      width: 50px;
+
+      img,
+      svg {
+        left: 14px;
+        position: relative;
+        top: 11px;
+      }
+
+      svg {
+        top: 14px;
+      }
+    }
+
+    .historique-content {
+      padding: 20px;
+      text-align: right;
+      transition: $historique-transition;
+      width: 45%;
+
+      @if $historique-item-card == true {
+        background: $historique-item-card-bg;
+        border-radius: $historique-item-card-radius;
+
+        p {
+          color: $black;
+        }
+      } @else {
+        background: transparent;
+
+        p {
+          color: $historique-item-font-color;
+        }
+      }
+
+      p {
+        font-size: 16px;
+        line-height: 1.4;
+        margin-bottom: 0;
+      }
+
+      .historique-content-date {
+        font-size: 16px;
+        font-weight: bold;
+        margin-bottom: 0;
+      }
+
+      .historique-content-month {
+        font-size: rem-calc(14);
+        text-transform: uppercase;
+        font-weight: 400;
+      }
+
+      &.right {
+        float: right;
+        text-align: left;
+      }
+    }
+  }
+}
+
+@include breakpoint(small only) {
+  .historique {
+    margin: 30px;
+    padding: 0;
+    width: 90%;
+
+    &::before {
+      left: 0;
+    }
+
+    .historique-item {
+      .historique-content {
+        float: right;
+        text-align: left;
+        width: 90%;
+
+        &::before,
+        &.right::before {
+          border-left: 0;
+          border-right: 7px solid $historique-color;
+          left: 10%;
+          margin-left: -6px;
+        }
+      }
+
+      .historique-icon {
+        left: 0;
+      }
+    }
+  }
+}
+

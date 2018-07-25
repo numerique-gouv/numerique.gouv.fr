@@ -12,7 +12,7 @@ layout: default
         <p>Votre recherche :</p>
         <div class="grid-x">
           <div class="medium-9 cell ">
-            <input type="text" id="search-box" name="query" placeholder=".medium-6.cell">
+            <input type="text" id="search-box" name="query" placeholder="Votre recherche">
           </div>
           <div class="medium-3 cell text-center">
             <input class="button" type="submit" value="Rechercher" placeholder=".medium-6.cell">
@@ -25,16 +25,17 @@ layout: default
   </section>
 </main>
 <script>
+  {% assign elements = site.actualites | concat: site.communiques | concat: site.evenements | concat: site.pages %}
   window.store = {
-  {% for actualite in site.posts %}
-  "{{ actualite.url | slugify }}": {
-    "title": "{{ actualite.title  }}",
-      "author": "{{ actualite.author | xml_escape }}",
-      "category": "{{ actualite.category | xml_escape }}",
-      "date": "{{ actualite.date }}",
-      "image": "{{ actualite.image-mise-en-avant }}",
-      "content": {{ actualite.content | strip_html | strip_newlines | jsonify }},
-    "url": "{{ actualite.url | xml_escape }}"
+  {% for element in elements %}
+  "{{ element.url | slugify }}": {
+    "title": "{{ element.title  }}",
+      "author": "{{ element.author | xml_escape }}",
+      "category": "{{ element.category | xml_escape }}",
+      "date": "{{ element.date }}",
+      "image": "{{ element.image-mise-en-avant }}",
+      "content": {{ element.content | strip_html | strip_newlines | jsonify }},
+    "url": "{{ element.url | xml_escape }}"
   }
   {% unless forloop.last %},{% endunless %}
   {% endfor %}
