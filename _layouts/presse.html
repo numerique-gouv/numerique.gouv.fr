@@ -1,15 +1,38 @@
 ---
 layout: page
 ---
-<ul class="post-list">
-  {% for communique in site.communiques %}
-  <li>
-    <span class="post-meta">{% include date.html date=communique.date %}</span>
+
+<ul id="list-post" class="no-bullet grid-y">
+  <!--
+      Here is the main paginator logic called.
+      All calls to site.posts should be replaced by paginator.posts
+  -->
+  {% for post in paginator.posts %}
+  <li  class="">
+    <span class="post-meta">{% include date.html date=post.date %}</span>
     <h2>
-      <a class="post-link" href="{{ communique.communique_file }}">{{ communique.title | escape }}</a>
+      <a class="post-link" href="{{ post.communique_file }}">{{ post.title | escape }}</a>
     </h2>
-    <p>{{ communique.excerpt }}</p>
-    <a href="{{ communique.communique_file }}">Télécharger le communiqué - {{ communique.communique_size }} Ko</a>
+    <p>{{ post.excerpt }}</p>
+  <a href="{{ post.communique_file }}">Télécharger le communiqué - {{ post.communique_size }} Ko</a>
   </li>
   {% endfor %}
 </ul>
+
+<!--
+  Showing buttons to move to the next and to the previous list of posts (pager buttons).
+-->
+{% if paginator.total_pages > 1 %}
+<ul class="pager list-none padding-vertical-1">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Communiqués plus récents</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Communiqués plus anciens &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}

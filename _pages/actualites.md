@@ -2,7 +2,9 @@
 title: Actualités
 permalink: "/actualites"
 layout: actualites
-pagination:
+pagination: 
   enabled: true
+  collection: actualites
+  permalink: /:num/
 ---
 
