@@ -27,7 +27,7 @@ defaults:
     type: communiques
   values:
     layout: post
-    permalink: "/presse/:title/"
+    permalink: "/espace-presse/:title/"
 - scope:
     path: ''
     type: evenements
