@@ -23,7 +23,7 @@ layout: default
     </div>
     <div class="grid-container">
       <ul class="grid-x grid-margin-x no-bullet">
-        {% assign sorted_actualites = site.posts | sort : 'date' | reverse %}
+        {% assign sorted_actualites = site.actualites | sort : 'date' | reverse %}
         {% for actualite in sorted_actualites limit:3 %}
         <li class="cell large-4 medium-12 small-12">
           <div class="card height-100">

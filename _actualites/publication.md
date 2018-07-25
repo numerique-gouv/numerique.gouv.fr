@@ -1,9 +1,6 @@
 ---
 title: Publication
-date: 2018-06-24 00:00:00 Z
-categories:
-- jekyll
-- update
+date: 2018-06-24
 image-mise-en-avant: assets/img/actualites/empty_office.jpg
 ---
 

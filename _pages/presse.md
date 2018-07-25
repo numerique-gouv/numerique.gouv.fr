@@ -4,5 +4,7 @@ permalink: "/presse"
 layout: presse
 pagination:
   enabled: true
+  collection: communiques
+  permalink: /:num/
 ---
 

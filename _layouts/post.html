@@ -4,7 +4,9 @@ layout: default
 
 <main id="main-post" class="">
   <article>
+    {% if page.image-mise-en-avant %}
     <img src="{{base}}/{{ page.image-mise-en-avant }}">
+    {% endif %}
     <div id="content-article" class="margin-2">
       <p class="meta text-center date ">{% include date.html date=page.date %}</p>
       <h1 class="text-center">{{ page.title }}</h1>
