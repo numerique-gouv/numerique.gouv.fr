@@ -1,18 +1,19 @@
 {% if page.fil-ariane %}
 {% assign crumbs = page.fil-ariane | remove:'/index.html' | split: '/' %}
 {% else %}
-{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% assign rectifyUrl = page.url | replace: 'actualites','actualités' | replace: 'evenements','evénements' %}
+{% assign crumbs = rectifyUrl | remove:'/index.html' | split: '/' %}
 {% endif %}
 {% if crumbs.size > 1 %}
 <nav class="default-text-padding margin-vertical-1 h6" id="file-arianne">
   <a href="/">Accueil</a>
   {% for crumb in crumbs offset: 1 %}
   {% if forloop.last %}
-  > {{ crumb | replace:'-',' ' | replace: 'actualites','actualités' | remove:'.html' | capitalize }}
+  > {{ crumb | replace:'-',' ' || remove:'.html' | capitalize }}
   {% else %}
   >
   <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">
-  {{ crumb | replace:'-',' ' | replace: 'actualites','actualités' | remove:'.html' | capitalize }}
+  {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}
   </a>
   {% endif %}
   {% endfor %}
