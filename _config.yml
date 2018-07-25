@@ -9,6 +9,9 @@ collections:
   communiques:
     title: Communiqués
     output: false
+  evenements:
+    title: Evènements
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -25,6 +28,12 @@ defaults:
   values:
     layout: post
     permalink: "/presse/:title/"
+- scope:
+    path: ''
+    type: evenements
+  values:
+    layout: post
+    permalink: "/evenements/:title/"
 categories:
 - main
 language: fr

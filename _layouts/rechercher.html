@@ -25,7 +25,7 @@ layout: default
   </section>
 </main>
 <script>
-  {% assign elements = site.actualites | concat: site.communiques | concat: site.pages %}
+  {% assign elements = site.actualites | concat: site.communiques | concat: site.evenements | concat: site.pages %}
   window.store = {
   {% for element in elements %}
   "{{ element.url | slugify }}": {
