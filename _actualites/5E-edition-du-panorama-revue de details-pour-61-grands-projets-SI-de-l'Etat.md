@@ -1,6 +1,6 @@
 ---
 title: "5E édition du panorama&nbsp;: revue de détails pour 61 grands projets SI de l'État"
-date: 2018-04-24 00:00:00 Z
+date: 2018-04-24
 image-mise-en-avant: assets/img/actualites/H.VERDIER.jpg
 ---
 
