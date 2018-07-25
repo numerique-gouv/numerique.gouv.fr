@@ -37,4 +37,24 @@ if ( ! Modernizr.objectfit ) {
   });
 }
 
+function getFileSize(url)
+{
+  let fileSize = 0;
+  const http = new XMLHttpRequest();
+  http.open('HEAD', url, false); // false = Synchronous
 
+  http.send(null); // it will stop here until this http request is complete
+
+  // when we are here, we already have a response, b/c we used Synchronous XHR
+
+  if (http.status === 200) {
+    fileSize = http.getResponseHeader('content-length');
+  }
+
+  return fileSize;
+}
+
+const elements = document.querySelectorAll('[id^="communiqueSize-"]');
+elements.forEach(function (element) {
+  element.innerHTML += ' ' + Math.round(getFileSize(element.getAttribute('href'))/1024) + ' Ko'
+});
