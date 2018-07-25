@@ -1,6 +1,6 @@
 ---
 title: Publication
-date: 2018-06-24
+date: 2018-06-24 00:00:00 +02:00
 image-mise-en-avant: assets/img/actualites/empty_office.jpg
 ---
 

@@ -2,8 +2,9 @@
 title: Evénements
 permalink: "/evenements"
 layout: evenements
-pagination: 
+pagination:
   enabled: true
   collection: evenements
-  permalink: /:num/
+  permalink: "/:num/"
 ---
+

@@ -1,6 +1,6 @@
 ---
 title: Communiqué 3
-date: 2018-07-18
+date: 2018-07-18 00:00:00 +02:00
 communique_file: "/uploads/courrier%20TC%20DITP%20vox%20usagers.pdf"
 communique_size: 57
 ---
