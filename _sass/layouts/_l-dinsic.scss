@@ -5,6 +5,9 @@
   @include breakpoint(medium down) {
     padding: 1rem;
   }
+  p {
+    color: $dark-gray;
+  }
   #titre-dinsic-page {
     img {
       height: 50vh;
@@ -16,6 +19,7 @@
       font-size: larger;
     }
   }
+
   section {
     h1{
       font-weight: bold;
