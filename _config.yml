@@ -9,15 +9,12 @@ collections:
     title: Communiqués
     output: true
     Data:
-      address_ref:
+      address_ref: 
   evenements:
     title: Evènements
     output: true
   posts:
     title: Posts
-    output: true
-  actualites:
-    title: Actualités
     output: true
   uploads:
     title: Uploads
