@@ -9,7 +9,7 @@ contact-presse:
     - 06.34.21.55.48
   email: rachel.wadoux@modernisation.gouv.fr
 collections:
-  actualites:
+  posts:
     title: Actualités
     output: true
   communiques:
@@ -30,7 +30,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: actualites
+    type: posts
   values:
     layout: post
     permalink: "/actualites/:title/"
