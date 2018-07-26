@@ -8,9 +8,9 @@ layout: default
       <div class="post__image-container">
         <img class="post__featured-image" src="{{ page.image }}">
       </div>
-      <div class="default-text-padding">
+      <div class="default-text-padding margin-top-2">
         <h1>{{ page.sub-title }}</h1>
-        <p class="padding-top-3 large-text-justify">{{ content }}</p>
+        <p class="padding-top-3">{{ content }}</p>
       </div>
     </section>
     {% assign missions-ordered = site.missions-dinsic | sort: 'ordre'%}
