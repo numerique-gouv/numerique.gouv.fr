@@ -4,7 +4,7 @@ ruby RUBY_VERSION
 # Ruby Requirement
 # ruby '2.2.3'
 
-# Dependencies for Windows only. Activate on install
+# Dependencies for Windows only
 gem "tzinfo"
 gem "tzinfo-data"
 
