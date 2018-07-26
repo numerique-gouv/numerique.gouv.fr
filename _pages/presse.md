@@ -1,7 +1,7 @@
 ---
 title: Espace presse
-permalink: "/presse"
-layout: presse
+permalink: "/espace-presse"
+layout: espace-presse
 pagination:
   enabled: true
   collection: communiques

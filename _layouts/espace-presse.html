@@ -9,15 +9,17 @@ layout: page
   -->
   {% for post in paginator.posts %}
   <li  class="">
-    <span class="post-meta">{% include date.html date=post.date %}</span>
     <h2>
-      <a class="post-link" href="{{ post.communique_file }}">{{ post.title | escape }}</a>
+      <a class="post-link" href="{{ post.url }}">{{ post.title | escape }}</a>
     </h2>
+    <span class="post-meta">{% include date.html date=post.date %}</span>
     <p>{{ post.excerpt }}</p>
-  <a href="{{ post.communique_file }}">Télécharger le communiqué - {{ post.communique_size }} Ko</a>
+    <a id="communiqueSize-{{ post.url | replace: ' ', '' }}" href="{{ post.communique_file }}">Télécharger le communiqué de presse ( PDF </a>
   </li>
   {% endfor %}
 </ul>
+
+
 
 <!--
   Showing buttons to move to the next and to the previous list of posts (pager buttons).
@@ -36,3 +38,4 @@ layout: page
   {% endif %}
 </ul>
 {% endif %}
+

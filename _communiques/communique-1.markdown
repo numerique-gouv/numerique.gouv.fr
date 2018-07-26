@@ -1,6 +1,6 @@
 ---
 title: Communiqué 1
-date: 2018-07-18 00:00:00 +02:00
+date: 2018-07-18
 communique_file: "/uploads/21830.pdf"
 ---
 

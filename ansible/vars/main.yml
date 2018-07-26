@@ -36,7 +36,7 @@ nginx_vhosts:
           }
       ssl_certificate     /etc/letsencrypt/live/test-dinsic.fr/fullchain.pem;
       ssl_certificate_key /etc/letsencrypt/live/test-dinsic.fr/privkey.pem;
-      ssl_protocols       TLSv1.1 TLSv1.2;
+      ssl_protocols       TLSv1.2;
       ssl_ciphers         HIGH:!aNULL:!MD5;
 
 
