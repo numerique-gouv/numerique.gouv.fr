@@ -1,12 +1,6 @@
 ---
 title: DINSIC
 timezone: Europe/Paris
-contact-presse:
-  name: Rachel Wadoux
-  tel:
-    - 01.71.21.11.98
-    - 06.34.21.55.48
-  email: rachel.wadoux@modernisation.gouv.fr
 collections:
   actualites:
     title: Actualités
@@ -49,13 +43,13 @@ defaults:
   values:
     layout: post
     permalink: "/evenements/:title/"
-url: dinsic.gouv.fr
 contact-presse:
   name: Rachel Wadoux
   tel:
   - 01.71.21.11.98
   - 06.34.21.55.48
   email: rachel.wadoux@modernisation.gouv.fr
+url: dinsic.gouv.fr
 categories:
 - main
 language: fr
