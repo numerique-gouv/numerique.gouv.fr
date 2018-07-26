@@ -2,34 +2,35 @@
 layout: default
 ---
 
-<main class="gray-background image-center">
-  <div id="dinsic-page" class="post-style">
+<main id="dinsic-page" class="gray-background">
+  <div class="white-area">
     <section id="titre-dinsic-page" class="padding-bottom-3">
       <div class="post__image-container">
-        <img class="post__featured-image" src="/assets/img/main/bureau-cnil.jpg">
+        <img class="post__featured-image" src="{{ page.image }}">
       </div>
-      <div class="padding-top-2 default-text-padding">
-        <h1 class="font-bold text-center h4">{{ page.subtitle }}</h1>
-        <p class="padding-top-3 lead large-text-justify">{{ page.en-tete }}</p>
+      <div class="default-text-padding">
+        <h1>{{ page.sub-title }}</h1>
+        <p class="padding-top-3 large-text-justify">{{ content }}</p>
       </div>
-    </section >
-    {% for section in page.sections %}
-    <section class="sections-dinsic default-text-padding">
-      <h2 class="padding-bottom-1 font-bold h5">{{ section.intertitre }}</h2>
-      <p class="large-text-justify">{{ section.texte-section }}</p>
-      {% if section.encadre %}
+    </section>
+    {% assign missions-ordered = site.missions-dinsic | sort: 'ordre'%}
+    {% for mission in missions-ordered %}
+    <section class="default-text-padding">
+      <h2 class="font-bold">{{ mission.title }}</h2>
+      {{ mission.content}}
+      {% if mission.encadre %}
       <div class="encadre-dinsic margin-vertical-2">
         <div class="media-object">
           <div class="media-object-section">
-              <img src="/assets/img/pictogrammes/Zoom.png">
+            <img src="/assets/img/pictogrammes/Zoom.png">
           </div>
           <div class="media-object-section align-self-bottom">
-            <h3 class="h5 font-bold">{{ section.encadre.titre }}</h3>
+            <h3 class="h5 font-bold">{{ mission.encadre.titre }}</h3>
           </div>
         </div>
-        <p>{{ section.encadre.contenu }}</p>
+        <p>{{ mission.encadre.contenu }}</p>
         <div id="chiffres-encadre" class="grid-x grid-margin-x margin-top-2">
-          {% for chiffre in section.encadre.chiffres %}
+          {% for chiffre in mission.encadre.chiffres %}
           <div class="chiffre-encadre medium-auto cell small-12 grid-y align-middle">
             <div class="logo-chiffre-encadre grid-x align-middle align-center">
               <img class="" alt="{{ chiffre.icon.titre }}" src={{ chiffre.icon.path }}>
@@ -45,6 +46,8 @@ layout: default
       {% endif %}
     </section>
     {% endfor %}
-    {% include /components/historique.html %}
   </div>
+ <div class="white-area">
+   {% include /components/historique.html %}
+ </div>
 </main>

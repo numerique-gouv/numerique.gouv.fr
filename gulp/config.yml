@@ -128,6 +128,6 @@ watch:
   sass: "_sass/**/*.scss"
   pages:
     - "*.{md,html,yml,xml}"
-    - "{_data,_includes,_layouts,_actualites,_communiques,_evenements,_pages,_posts,_rechercher,blog,actualites}/**/*.{md,html,yml,xml,markdown}"
+    - "{_data,_includes,_layouts,_actualites,_communiques,_evenements,_missions-dinsic,_pages,_posts,_rechercher,blog,actualites}/**/*.{md,html,yml,xml,markdown}"
     - "!_site/**/*.*"
     - "!assets/**/*.*"
