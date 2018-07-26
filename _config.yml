@@ -8,7 +8,8 @@ collections:
   communiques:
     title: Communiqués
     output: false
-    Field name: communique_test
+    Data:
+      addresse_ref: 
   evenements:
     title: Evènements
     output: true
