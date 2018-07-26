@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<main class="post communique">
+  <article >
+    {% if page.image %}
+    <div class="post__image-container">
+      <img class="post__featured-image" src="{{base}}/{{ page.image }}">
+    </div>
+    {% endif %}
+    <div class="margin-2">
+      <h1 class="h3 text-center padding-bottom-3">Communiqué de presse</h1>
+      <p class="meta text-center subheader ">{% include date.html date=page.date %}</p>
+      <h2 class="h4 text-center">{{ page.title }}</h2>
+      <p class="post-content padding-vertical-2">
+        {{ content }}
+      </p>
+    </div>
+    <section class="text-center contact">
+      <h3 class="h5">Contact Presse DINSIC</h3>
+      <p>
+        {{ site.contact-presse.name }}
+        {% for tel in site.contact-presse.tel%}
+        {% if forloop.last == true %}
+        {{ tel }}
+        {% else %}
+        {{ tel }} -
+        {% endif %}
+        {% endfor %}
+      </p>
+      <a href="mailto:{{ site.contact-presse.email }}">{{ site.contact-presse.email }}</a>
+    </section>
+    <div class="text-center padding-vertical-1">
+      <a id="communiqueSize-{{ post.url | replace: ' ', '' }}" href="{{ page.communique_file }}"><i class="fas fa-file-download margin-horizontal-1"></i>Télécharger le communiqué de presse (PDF </a>
+    </div>
+  </article>
+</main>
