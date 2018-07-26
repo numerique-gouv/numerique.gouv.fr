@@ -10,7 +10,7 @@ layout: page
   {% for post in paginator.posts %}
   <li  class="">
     <h2>
-      <a class="post-link" href="{{ post.communique_file }}">{{ post.title | escape }}</a>
+      <a class="post-link" href="{{ post.url }}">{{ post.title | escape }}</a>
     </h2>
     <span class="post-meta">{% include date.html date=post.date %}</span>
     <p>{{ post.excerpt }}</p>
