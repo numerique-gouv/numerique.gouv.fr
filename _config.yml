@@ -40,6 +40,7 @@ defaults:
     path: ''
     type: communiques
   values:
+    communique_file: "/uploads/exemple.pdf"
     layout: communique
     permalink: "/espace-presse/:title/"
 - scope:
@@ -81,7 +82,7 @@ pagination:
   enabled: true
   per_page: 2
   permalink: "/page/:num/"
-  title: ":title - page :num of :max"
+  title: ":title - page :num de :max"
   limit: 0
   sort_field: date
   sort_reverse: true
