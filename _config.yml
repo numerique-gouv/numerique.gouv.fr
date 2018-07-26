@@ -11,11 +11,11 @@ collections:
   evenements:
     title: Evènements
     output: true
-  posts:
-    title: Posts
-    output: true
   missions-dinsic:
     title: Les missions de la Dinsic
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads

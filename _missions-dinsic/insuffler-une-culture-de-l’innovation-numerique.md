@@ -6,12 +6,12 @@ encadre:
   contenu: '10 mois, un défi à relever : le programme d’innovation ouverte Entrepreneur
     d’Intérêt Général fait entrer dans l’administration des citoyens aux compétences
     pointues pour résoudre, grâce aux données et au numérique, des défis d’intérêt
-    général. Collaborant étroitement avec les agents publics, ils s’enrichissent
-    mutuellement et partagent leurs cultures et savoir-faire.
+    général. Collaborant étroitement avec les agents publics, ils s’enrichissent mutuellement
+    et partagent leurs cultures et savoir-faire.
 
 '
-
 ---
+
 La révolution numérique exige une transformation complète des organisations
 et du management. Approches agiles, design de service, datasciences, intelligence
 artificielle, logiciels libres… Nous diffusons au sein des administrations la
