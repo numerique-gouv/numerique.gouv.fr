@@ -1,6 +1,8 @@
 ---
 title: Chantiers transverses AP22
-date: 2018-05-24
+date: 2018-05-24 00:00:00 +02:00
+tags:
+- une
 image-mise-en-avant: assets/img/actualites/H.VERDIER.jpg
 tags:
 - une

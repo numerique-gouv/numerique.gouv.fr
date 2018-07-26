@@ -1,6 +1,7 @@
 ---
 title: Nous contacter
 permalink: "/contacts/"
+position: 2
 layout: contact
 ---
 

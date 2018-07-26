@@ -1,6 +1,7 @@
 ---
 title: La DINSIC
 permalink: "/dinsic/"
+position: 5
 layout: dinsic
 categories:
 - main

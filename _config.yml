@@ -14,9 +14,15 @@ collections:
     output: true
   communiques:
     title: Communiqués
+    output: false
+    Data:
+      address_ref:
     output: true
   evenements:
     title: Evènements
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads
@@ -40,6 +46,7 @@ defaults:
   values:
     layout: post
     permalink: "/evenements/:title/"
+url: dinsic.gouv.fr
 categories:
 - main
 language: fr
@@ -71,10 +78,10 @@ exclude:
 pagination:
   enabled: true
   per_page: 2
-  permalink: '/:num/'
-  title: ':title | :num of :max'
+  permalink: "/page/:num/"
+  title: ":title - page :num of :max"
   limit: 0
-  sort_field: 'date'
+  sort_field: date
   sort_reverse: true
 incremental: true
 compress_html:
