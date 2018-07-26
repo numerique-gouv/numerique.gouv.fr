@@ -9,7 +9,7 @@ collections:
     title: Communiqués
     output: false
     Data:
-      addresse_ref: 
+      address_ref: 
   evenements:
     title: Evènements
     output: true
