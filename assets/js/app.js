@@ -56,5 +56,5 @@ function getFileSize(url)
 
 const elements = document.querySelectorAll('[id^="communiqueSize-"]');
 elements.forEach(function (element) {
-  element.innerHTML += ' ' + Math.round(getFileSize(element.getAttribute('href'))/1024) + ' Ko'
+  element.innerHTML += ' ' + Math.round(getFileSize(element.getAttribute('href'))/1024) + ' Ko )'
 });

@@ -1,8 +1,8 @@
 // --------------------------------------------------
-// Layout post
+// Layout post and other
 // --------------------------------------------------
 
-#main-post {
+.post {
   max-width: none;
   background-color: $light-gray;
   padding-bottom: 1rem;
@@ -12,16 +12,70 @@
     margin-left: auto;
     background-color: $white;
     img{
-      width: 100%;
-      height: 60vh;
-      object-fit: cover;
+      height: 50vh;
     }
-    #content-article {
+    .en-tete {
+      font-size: larger;
+    }
+    ul {
+      list-style: none;
+      margin-left: 0;
+      padding-left: 1.2em;
+      text-indent: -1.2em;
+    }
 
+    li:before {
+      content: "►";
+      display: block;
+      float: left;
+      width: 1.2em;
+    }
+    blockquote {
+      width: 100%;
+      padding: 3rem 4rem;
+      position: relative;
+      margin-bottom: 2rem;
+      &::before, &::after {
+        top: 0;
+        bottom: 0;
+        width: 25px;
+        content: '';
+        position: absolute;
+      }
+      &::before {
+        right: 100%;
+      }
+      &::after {
+        left: 100%;
+      }
+      p {
+        margin: 0;
+        &::before {
+          top: 0;
+          left: 2rem;
+          color: $dark-gray;
+          content: '“';
+          font-size: 4rem;
+          position: absolute;
+        }
+        &::after {
+          right: 2rem;
+          color: $dark-gray;
+          content: '”';
+          bottom: -2rem;
+          font-size: 4rem;
+          position: absolute;
+        }
+      }
     }
   }
 
-
   //other elements
   //@include grid-column;
+}
+
+.contact {
+  p{
+    margin: 0rem;
+  }
 }
