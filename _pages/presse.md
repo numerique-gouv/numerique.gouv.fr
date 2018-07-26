@@ -5,6 +5,6 @@ layout: presse
 pagination:
   enabled: true
   collection: communiques
-  permalink: /:num/
+  permalink: "/:num/"
 ---
 
