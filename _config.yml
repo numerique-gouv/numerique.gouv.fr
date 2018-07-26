@@ -14,9 +14,15 @@ collections:
     output: true
   communiques:
     title: Communiqués
+    output: false
+    Data:
+      address_ref:
     output: true
   evenements:
     title: Evènements
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads
