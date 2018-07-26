@@ -2,6 +2,9 @@
 title: DINSIC
 timezone: Europe/Paris
 collections:
+  actualites:
+    title: Actualités
+    output: true
   communiques:
     title: Communiqués
     output: true
