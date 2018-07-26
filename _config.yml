@@ -14,6 +14,9 @@ collections:
   posts:
     title: Posts
     output: true
+  missions-dinsic:
+    title: Les missions de la Dinsic
+    output: true
   uploads:
     title: Uploads
     output: true
