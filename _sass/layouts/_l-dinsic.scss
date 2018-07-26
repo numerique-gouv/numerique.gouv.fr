@@ -5,15 +5,10 @@
   @include breakpoint(medium down) {
     padding: 1rem;
   }
-  #titre-dinsic-page {
-    img {
-      height: 50vh;
-      @include breakpoint(medium down) {
-        padding: 0rem;
-      }
-    }
-    p {
-      font-size: larger;
+  .top-image {
+    height: 50vh;
+    @include breakpoint(medium down) {
+      padding: 0rem;
     }
   }
   section {
