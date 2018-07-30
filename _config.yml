@@ -6,7 +6,7 @@ collections:
     title: Actualités
     output: true
     Data:
-      address_ref: 
+      address_ref:
   communiques:
     title: Communiqués
     output: true
