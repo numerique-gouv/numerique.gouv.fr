@@ -17,6 +17,10 @@
     }
     .en-tete {
       font-size: larger;
+      border-left: none;
+      p {
+        color: $black;
+      }
     }
     ul {
       list-style: none;
@@ -32,6 +36,7 @@
       width: 1.2rem;
     }
     .citation {
+      border-left: none;
       width: 100%;
       padding: 3rem 4rem;
       position: relative;

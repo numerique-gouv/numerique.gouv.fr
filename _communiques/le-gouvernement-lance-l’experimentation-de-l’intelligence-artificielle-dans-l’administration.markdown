@@ -5,15 +5,15 @@ date: 2018-06-14 00:00:00 +02:00
 communique_file: uploads/cp_ami_ia_ditp_dinsic_0.pdf
 image: uploads/Le-gouvernement-lance-l’experimentation-de-l’intelligence-artificielle-dans-l’administration.jpeg
 ---
-
-<div class="en-tete">L’intelligence artificielle (IA) est un enjeu d’avenir. Avec AI for humanity, lancé en mars 2017,
-le gouvernement souhaite que l’État se saisisse pleinement du potentiel de l’IA et l’intègre dans la conduite de ses
-missions, pour un meilleur service rendu aux usagers. Pour initier ce mouvement, la direction interministérielle du
-numérique et du système d'information et de communication de l'Etat (DINSIC) et la direction interministérielle de la
-transformation publique (DITP) lancent, dans le cadre du programme d’investissements d’avenir (PIA), un appel à
-manifestation d'intérêt (AMI) pour expérimenter l’intelligence artificielle dans les services publics. La Caisse des
-dépôts et consignations (CDC) en est l’opérateur administratif et financier. Le Secrétariat général pour
-l'investissement (SGPI) coordonne l’ensemble du PIA. </div>
+> L’intelligence artificielle (IA) est un enjeu d’avenir. Avec AI for humanity, lancé en mars 2017,
+  le gouvernement souhaite que l’État se saisisse pleinement du potentiel de l’IA et l’intègre dans la conduite de ses
+  missions, pour un meilleur service rendu aux usagers. Pour initier ce mouvement, la direction interministérielle du
+  numérique et du système d'information et de communication de l'Etat (DINSIC) et la direction interministérielle de la
+  transformation publique (DITP) lancent, dans le cadre du programme d’investissements d’avenir (PIA), un appel à
+  manifestation d'intérêt (AMI) pour expérimenter l’intelligence artificielle dans les services publics. La Caisse des
+  dépôts et consignations (CDC) en est l’opérateur administratif et financier. Le Secrétariat général pour
+  l'investissement (SGPI) coordonne l’ensemble du PIA.
+{: .en-tete}
 
 --------
 

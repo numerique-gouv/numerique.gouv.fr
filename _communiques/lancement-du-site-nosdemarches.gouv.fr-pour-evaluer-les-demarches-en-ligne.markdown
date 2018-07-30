@@ -4,10 +4,12 @@ date: 2018-07-02 00:00:00 +02:00
 communique_file: uploads/cp_nosdemarches_02_07_2018.pdf
 image: uploads/nosdemarches.gouv.jpg
 ---
-
-<div class="en-tete">100% des démarches administratives accessibles en ligne au 1er janvier 2022 : c’est l’une des mesures phares annoncées
-par le gouvernement pour accélérer la transformation numérique de l’administration française menée dans le cadre du
-programme Action Publique 2022. </div>
+> 100% des démarches administratives accessibles en ligne au 1er janvier 2022 : c’est l’une des mesures phares annoncées
+  par le gouvernement pour accélérer la transformation numérique de l’administration française menée dans le cadre du
+  programme Action Publique 2022. 
+>
+>**Mounir Mahjoubi**, secrétaire d’État auprès du Premier ministre, chargé du Numérique 
+{: .en-tete}
 
 --------
 

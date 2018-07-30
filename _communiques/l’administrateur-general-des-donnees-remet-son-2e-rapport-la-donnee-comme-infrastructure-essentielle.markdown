@@ -6,9 +6,10 @@ communique_file: uploads/cp_rapport_agd_2018-04-10.pdf
 image: uploads/remiserapportagd.png
 ---
 
-<div class="en-tete">L’administrateur général des données (AGD), Henri Verdier, a remis ce mardi 10 avril son rapport
-2016-2017, intitulé « La donnée comme infrastructure essentielle », au secrétaire d’État auprès du Premier ministre
-chargé du Numérique, Mounir Mahjoubi. </div>
+> L’administrateur général des données (AGD), Henri Verdier, a remis ce mardi 10 avril son rapport
+  2016-2017, intitulé « La donnée comme infrastructure essentielle », au secrétaire d’État auprès du Premier ministre
+  chargé du Numérique, Mounir Mahjoubi. 
+{: .en-tete}
 
 --------
 

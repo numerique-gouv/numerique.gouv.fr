@@ -3,13 +3,7 @@ title: Le gouvernement annonce sa stratégie en matière de cloud
 date: 2018-07-03 00:00:00 +02:00
 communique_file: uploads/CP_Cloud_de_l'Etat_04072018.pdf
 ---
-
-<div class="en-tete">L’administrateur général des données (AGD), Henri Verdier, a remis ce mardi 10 avril son rapport
-2016-2017, intitulé « La donnée comme infrastructure essentielle », au secrétaire d’État auprès du Premier ministre
-chargé du Numérique, Mounir Mahjoubi. </div>
-
---------
-
+------
 Pour accompagner la transformation numérique de l’État, le gouvernement se dote d’une stratégie d’utilisation de
 l’informatique en nuage (cloud) par l’administration. Son objectif ? Développer l’usage du cloud par les
 administrations, les établissements publics et les collectivités territoriales, d’ici à 3 ans.
