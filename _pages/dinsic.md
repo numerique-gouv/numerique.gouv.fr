@@ -1,11 +1,10 @@
 ---
 title: La DINSIC
-sub-title: 'Notre mission : créer le service public de demain, grâce au numérique'
 permalink: "/dinsic/"
 position: 5
+sub-title: 'Notre mission : créer le service public de demain, grâce au numérique'
 layout: dinsic
-image: /assets/img/main/bureau-cnil.jpg
-
+image: "/assets/img/main/bureau-cnil.jpg"
 ---
 
 La DINSIC – direction interministérielle du numérique et du système d’information
