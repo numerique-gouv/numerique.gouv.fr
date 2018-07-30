@@ -34,7 +34,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
+    type: actualites
   values:
     layout: post
     permalink: "/actualites/:title/"
