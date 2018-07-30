@@ -1,6 +1,7 @@
 ---
-title: 'Une 2ème promotion d’entrepreneurs d’intérêt général entre aujourd’hui dans l’administration !'
-date: 2018-01-16 00:00:00 +02:00
+title: Une 2ème promotion d’entrepreneurs d’intérêt général entre aujourd’hui dans
+  l’administration !
+date: 2018-01-15 23:00:00 +01:00
 communique_file: uploads/CP_Entrepreneurs_interet_general_16012018.pdf
 ---
 

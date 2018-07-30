@@ -5,6 +5,7 @@ date: 2018-06-14 00:00:00 +02:00
 communique_file: uploads/cp_ami_ia_ditp_dinsic_0.pdf
 image: uploads/Le-gouvernement-lance-l’experimentation-de-l’intelligence-artificielle-dans-l’administration.jpeg
 ---
+
 > L’intelligence artificielle (IA) est un enjeu d’avenir. Avec AI for humanity, lancé en mars 2017,
   le gouvernement souhaite que l’État se saisisse pleinement du potentiel de l’IA et l’intègre dans la conduite de ses
   missions, pour un meilleur service rendu aux usagers. Pour initier ce mouvement, la direction interministérielle du
