@@ -1,7 +1,8 @@
 ---
-title: "L’administrateur général des données remet son 2e rapport : « la donnée comme infrastructure essentielle »"
+title: 'L’administrateur général des données remet son 2e rapport : « la donnée comme
+  infrastructure essentielle »'
 date: 2018-04-10 00:00:00 +02:00
-communique_file: "uploads/cp_rapport_agd_2018-04-10.pdf"
+communique_file: uploads/cp_rapport_agd_2018-04-10.pdf
 image: uploads/remiserapportagd.png
 ---
 
