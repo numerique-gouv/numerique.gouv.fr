@@ -10,9 +10,9 @@ layout: default
     </div>
     {% endif %}
     <div class="margin-2">
-      <h1 class="h3 text-center padding-bottom-3">Communiqué de presse</h1>
+      <h1 class="h2 text-center padding-bottom-3">Communiqué de presse</h1>
       <p class="meta text-center subheader ">{% include date.html date=page.date %}</p>
-      <h2 class="h4 text-center">{{ page.title }}</h2>
+      <h2 class="h3 text-center">{{ page.title }}</h2>
       <p class="post-content padding-vertical-2">
         {{ content }}
       </p>
@@ -32,7 +32,7 @@ layout: default
       <a href="mailto:{{ site.contact-presse.email }}">{{ site.contact-presse.email }}</a>
     </section>
     <div class="text-center padding-vertical-1">
-      <a id="communiqueSize-{{ post.url | replace: ' ', '' }}" href="{{ page.communique_file }}"><i class="fas fa-file-download margin-horizontal-1"></i>Télécharger le communiqué de presse (PDF </a>
+      <a id="communiqueSize-{{ post.url | replace: ' ', '' }}" href="{{base}}/{{ page.communique_file }}"><i class="fas fa-file-download margin-horizontal-1"></i>Télécharger le communiqué de presse (PDF </a>
     </div>
   </article>
 </main>
