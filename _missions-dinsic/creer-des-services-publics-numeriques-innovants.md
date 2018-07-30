@@ -3,11 +3,10 @@ title: Créer des services publics numériques innovants
 ordre: 3
 encadre:
   titre: Mes-aides.gouv.fr
-  contenu: 'Tout est parti d’un constat : beaucoup de Français ne recourent pas
-    à certaines aides sociales car ils ignorent y avoir droit. Pour lutter contre
-    ce non-recours, notre incubateur a conçu Mes Aides, un simulateur en ligne qui
-    permet d’estimer en moins de 7 minutes vos droits à une vingtaine de prestations
-    sociales.
+  contenu: 'Tout est parti d’un constat : beaucoup de Français ne recourent pas à
+    certaines aides sociales car ils ignorent y avoir droit. Pour lutter contre ce
+    non-recours, notre incubateur a conçu Mes Aides, un simulateur en ligne qui permet
+    d’estimer en moins de 7 minutes vos droits à une vingtaine de prestations sociales.
 
 '
   chiffres:
