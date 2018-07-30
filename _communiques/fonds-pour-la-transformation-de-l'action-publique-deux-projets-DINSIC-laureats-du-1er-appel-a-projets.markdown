@@ -5,11 +5,9 @@ date: 2018-06-20 00:00:00 +02:00
 communique_file: uploads/CP_FTAP_laureats_DINSIC_20062018.pdf
 ---
 
-
 ---
 
-Investir pour réformer l’État. C’est l’objectif du « Fonds pour la transformation de l’action publique » mis en place
-au titre du Grand plan d’investissement annoncé par le Premier ministre le 25 septembre 2017. Doté de 700 millions
+Investir pour réformer l’État. C’est l’objectif du « Fonds pour la transformation de l’action publique » mis en place au titre du Grand plan d’investissement annoncé par le Premier ministre le 25 septembre 2017. Doté de 700 millions
 d’euros sur cinq ans, il est un des leviers du programme gouvernemental de transformation « Action publique 2022 ».
 
 Après un premier appel à projet plébiscité - 122 dossiers déposés par 15 ministères et 42 organismes publics - ce ne
