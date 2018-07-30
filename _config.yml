@@ -1,4 +1,5 @@
 ---
+url: dinsic.gouv.fr
 title: DINSIC
 timezone: Europe/Paris
 collections:
@@ -8,6 +9,8 @@ collections:
   communiques:
     title: Communiqués
     output: true
+    Data:
+      address_ref:
   evenements:
     title: Evènements
     output: true
@@ -23,7 +26,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
+    type: actualites
   values:
     layout: post
     permalink: "/actualites/:title/"

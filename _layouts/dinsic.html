@@ -4,9 +4,9 @@ layout: default
 
 <main id="dinsic-page" class="gray-background">
   <div class="white-area">
-    <section id="titre-dinsic-page" class="padding-bottom-3">
+    <section class="padding-bottom-3">
       <div class="post__image-container">
-        <img class="post__featured-image" src="{{ page.image }}">
+        <img class="top-image post__featured-image" src="{{ page.image }}">
       </div>
       <div class="default-text-padding margin-top-2">
         <h1>{{ page.sub-title }}</h1>
@@ -14,9 +14,24 @@ layout: default
       </div>
     </section>
     {% assign missions-ordered = site.missions-dinsic | sort: 'ordre'%}
+    <section class="hide-for-small-only grid-container">
+      <h2 class="default-text-padding">Nos missions</h2>
+      <div class="grid-x grid-margin-x align-center">
+        {% for mission in missions-ordered %}
+        <a href="#{{ mission.title }}" class="cell card medium-6 large-4">
+          <div class="card-section">
+            <h3>{{ mission.title }}</h3>
+          </div>
+          <div class="card-section">
+            {{ mission.excerpt | truncatewords: 40 }}
+          </div>
+        </a>
+        {% endfor %}
+      </div>
+    </section>
     {% for mission in missions-ordered %}
-    <section class="default-text-padding">
-      <h2 class="font-bold">{{ mission.title }}</h2>
+    <section id="{{ mission.title }}" class="default-text-padding">
+      <h3 class="font-bold">{{ mission.title }}</h3>
       {{ mission.content}}
       {% if mission.encadre %}
       <div class="encadre-dinsic margin-vertical-2">
@@ -25,7 +40,7 @@ layout: default
             <img src="/assets/img/pictogrammes/Zoom.png">
           </div>
           <div class="media-object-section align-self-bottom">
-            <h3 class="h5 font-bold">{{ mission.encadre.titre }}</h3>
+            <h4 class="font-bold">{{ mission.encadre.titre }}</h4>
           </div>
         </div>
         <p>{{ mission.encadre.contenu }}</p>
