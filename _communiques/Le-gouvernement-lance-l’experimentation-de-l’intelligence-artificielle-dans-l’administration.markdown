@@ -1,7 +1,7 @@
 ---
 title: Le gouvernement lance l’expérimentation de l’intelligence artificielle dans l’administration
 date: 2018-06-14
-communique_file: "/uploads/cp_ami_ia_ditp_dinsic_0.pdf"
+communique_file: "uploads/cp_ami_ia_ditp_dinsic_0.pdf"
 image: "uploads/Le-gouvernement-lance-l’experimentation-de-l’intelligence-artificielle-dans-l’administration.jpeg"
 ---
 
