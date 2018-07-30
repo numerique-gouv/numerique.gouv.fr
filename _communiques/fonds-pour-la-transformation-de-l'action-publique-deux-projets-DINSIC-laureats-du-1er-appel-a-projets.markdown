@@ -5,12 +5,8 @@ date: 2018-06-20 00:00:00 +02:00
 communique_file: uploads/CP_FTAP_laureats_DINSIC_20062018.pdf
 ---
 
-<div class="en-tete">L’administrateur général des données (AGD), Henri Verdier, a remis ce mardi 10 avril son rapport
-2016-2017, intitulé « La donnée comme infrastructure essentielle », au secrétaire d’État auprès du Premier ministre
-chargé du Numérique, Mounir Mahjoubi. </div>
 
---------
-
+---
 
 Investir pour réformer l’État. C’est l’objectif du « Fonds pour la transformation de l’action publique » mis en place
 au titre du Grand plan d’investissement annoncé par le Premier ministre le 25 septembre 2017. Doté de 700 millions
@@ -24,15 +20,14 @@ des personnalités qualifiées.
 
 Parmi les lauréats, 2 projets interministériels portés par la direction interministérielle du numérique et du système
 d’information et de communication de l’Etat (DINSIC) bénéficieront d’un financement total de 43,6 millions d’€ en 2018 :
- 
 
-#### Mettre en place une offre de cloud d'État : FRANCE CLOUD 24,3 millions d’€ 
- 
-*Objectif* : développer des capacités cloud pour l’État afin accélérer la mise à disposition des services numériques 
+#### Mettre en place une offre de cloud d'État : FRANCE CLOUD 24,3 millions d’€
+
+*Objectif* : développer des capacités cloud pour l’État afin accélérer la mise à disposition des services numériques
 innovants et de réduire les coûts d’hébergements et de développement du SI de l’État.
 
 *Bénéfices* : Le cloud est un mode de consommation à l’usage de ressources informatiques à distance
-(infrastructures, services...). L’État pourra bénéficier d’une variété de solutions répondant à ses différents besoins,
+\(infrastructures, services...). L’État pourra bénéficier d’une variété de solutions répondant à ses différents besoins,
 notamment de sécurité, d’économies, ou de recours aux dernières innovations. Le cloud favorise également la mise en
 œuvre de méthodes agiles qui permettront d’accélérer le développement de services numériques innovants pour les usagers
 et les agents.
@@ -48,11 +43,11 @@ administrations et un service commun d’identification, dans le respect de la p
 facilitera le travail d’instruction des agents en limitant les tâches de saisie, au profit de l’expertise métier.
 
 > Les usages numériques ne cessent de croître aujourd’hui, soutenus par des révolutions technologiques qui permettent
-l’émergence de nouveaux services, comme l’intelligence artificielle. Dans ce contexte, l’État se mobilise pour mettre
-le numérique au cœur de la transformation de ses politiques publiques et de l’amélioration des démarches
-administratives pour les citoyens. C’est pourquoi la majorité des projets retenus par le Fonds pour la Transformation
-de l’Action Publique mobilisent la donnée, le cloud ou encore des algorithmes d’IA. Ces projets lauréats constitueront
-un vrai socle interministériel d'innovation et de mutualisation numérique essentiel au service public de demain.
+> l’émergence de nouveaux services, comme l’intelligence artificielle. Dans ce contexte, l’État se mobilise pour mettre
+> le numérique au cœur de la transformation de ses politiques publiques et de l’amélioration des démarches
+> administratives pour les citoyens. C’est pourquoi la majorité des projets retenus par le Fonds pour la Transformation
+> de l’Action Publique mobilisent la donnée, le cloud ou encore des algorithmes d’IA. Ces projets lauréats constitueront
+> un vrai socle interministériel d'innovation et de mutualisation numérique essentiel au service public de demain.
 >
->**Mounir Mahjoubi**, secrétaire d’État auprès du Premier ministre, chargé du Numérique 
-{: .citation}
+> **Mounir Mahjoubi**, secrétaire d’État auprès du Premier ministre, chargé du Numérique
+> {: .citation}
