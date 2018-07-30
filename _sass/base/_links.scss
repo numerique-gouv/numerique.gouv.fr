@@ -1,9 +1,6 @@
 // --------------------------------------------------
 // Links
 // --------------------------------------------------
-a {
-  margin-bottom: inherit;
-}
 
 .bouton-transparent {
   background-color: transparent;
@@ -12,4 +9,24 @@ a {
   text-transform: uppercase;
   font-weight: bold;
   font-size: medium;
+}
+
+a {
+  color: $link-color;
+  &:hover {
+    opacity: 0.9;
+  }
+}
+
+.blue-link {
+  color: $bleue;
+  &:hover {
+    color: $bleue;
+  }
+}
+
+.zoom {
+  &:hover {
+    transform: scale(1.1);
+  }
 }
