@@ -1,5 +1,4 @@
 ---
-url: dinsic.gouv.fr
 title: DINSIC
 timezone: Europe/Paris
 collections:
@@ -10,7 +9,7 @@ collections:
     title: Communiqués
     output: true
     Data:
-      address_ref:
+      address_ref: 
   evenements:
     title: Evènements
     output: true

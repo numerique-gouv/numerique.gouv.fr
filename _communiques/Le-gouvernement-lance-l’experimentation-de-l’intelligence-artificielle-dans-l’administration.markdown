@@ -1,8 +1,9 @@
 ---
-title: Le gouvernement lance l’expérimentation de l’intelligence artificielle dans l’administration
-date: 2018-06-14
+title: Le gouvernement lance l’expérimentation de l’intelligence artificielle dans
+  l’administration
+date: 2018-06-14 00:00:00 +02:00
 communique_file: "/uploads/cp_ami_ia_ditp_dinsic_0.pdf"
-image: "uploads/Le-gouvernement-lance-l’experimentation-de-l’intelligence-artificielle-dans-l’administration.jpeg"
+image: uploads/Le-gouvernement-lance-l’experimentation-de-l’intelligence-artificielle-dans-l’administration.jpeg
 ---
 
 <div class="en-tete">L’intelligence artificielle (IA) est un enjeu d’avenir. Avec AI for humanity, lancé en mars 2017,
