@@ -5,17 +5,11 @@ collections:
   actualites:
     title: Actualités
     output: true
+    Data:
+      address_ref: 
   communiques:
     title: Communiqués
     output: true
-  posts:
-    title: Posts
-    output: true
-  actualites:
-    title: Actualités
-    output: true
-    Data:
-      address_ref: 
   evenements:
     title: Evènements
     output: true
