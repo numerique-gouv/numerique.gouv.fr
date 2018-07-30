@@ -15,6 +15,7 @@ layout: page
     <span class="post-meta">{% include date.html date=post.date %}</span>
     <p>{{ post.excerpt }}</p>
     <a id="communiqueSize-{{ post.url | replace: ' ', '' }}" href="{{base}}/{{ post.communique_file }}">Télécharger le communiqué de presse ( PDF </a>
+    <hr>
   </li>
   {% endfor %}
 </ul>

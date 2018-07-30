@@ -36,3 +36,4 @@ Le gouvernement franchit ainsi une nouvelle étape vers la totalité des démarc
 >publics : c’est cela que permet la nouvelle plateforme nosdemarches.gouv.fr 
 >
 >**Mounir Mahjoubi**, secrétaire d’État auprès du Premier ministre, chargé du Numérique 
+{: .citation}

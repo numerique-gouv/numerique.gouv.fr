@@ -41,7 +41,7 @@ Les lauréats seront sélectionnés sur les critères suivants :
 > artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir
 > aux citoyens un service public plus performant et proche de leurs besoins
 >
-> Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du Numérique
-  
+> **Mounir Mahjoubi**, secrétaire d’État auprès du Premier ministre, chargé du Numérique
+{: .citation}
 
 

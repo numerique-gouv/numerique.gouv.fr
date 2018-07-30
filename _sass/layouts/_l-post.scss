@@ -12,7 +12,7 @@
     margin-left: auto;
     background-color: $white;
     padding: 2rem;
-    img{
+    .image-en-tete{
       height: 50vh;
     }
     .en-tete {
@@ -31,7 +31,7 @@
       float: left;
       width: 1.2rem;
     }
-    blockquote {
+    .citation {
       width: 100%;
       padding: 3rem 4rem;
       position: relative;
@@ -68,6 +68,10 @@
           position: absolute;
         }
       }
+    }
+    .encadre {
+      color: $black;
+      border: 1px solid $black;
     }
   }
 
