@@ -54,6 +54,10 @@ categories:
 language: fr
 markdown: kramdown
 description: Le site officiel de la DINSIC
+gems:
+ - jekyll-paginate-v2
+ - sass
+ - jekyll-sitemap
 include:
 - ".htaccess"
 - _pages
