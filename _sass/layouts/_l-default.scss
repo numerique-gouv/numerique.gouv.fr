@@ -131,3 +131,11 @@ footer {
     padding-right: 1rem;
   }
 }
+
+#retour-haut {
+  position: fixed;
+  top: 50vh;
+  right: 1rem;
+  background-color: red;
+  visibility: hidden;
+}

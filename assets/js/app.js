@@ -6,7 +6,104 @@
 // Initialize Foundation
 // --------------------------------------------------
 
+import jQuery from 'jquery'
+
+window.jQuery = jQuery;
+window.$ = jQuery;
+import whatInput from 'what-input';
+
+
+import Foundation from 'foundation-sites';
+// If you want to pick and choose which modules to include, comment out the above and uncomment
+// the line below
+//import './lib/foundation-explicit-pieces';
+
+import 'tablesaw/dist/tablesaw.jquery';
+import libs from './lib/dependancies';
+window.libs = libs;
+
 $(document).foundation();
+
+libs.AOS.init();
+
+// SVG Injector
+// Elements to inject
+const mySVGsToInject = document.querySelectorAll('img.inject-me');
+
+// Options
+const injectorOptions = {
+  evalScripts: 'once',
+  pngFallback: 'assets/png'
+};
+
+const afterAllInjectionsFinishedCallback = function (totalSVGsInjected) {
+  // Callback after all SVGs are injected
+  console.log('We injected ' + totalSVGsInjected + ' SVG(s)!');
+};
+
+const perInjectionCallback = function (svg) {
+  // Callback after each SVG is injected
+  console.log('SVG injected: ' + svg);
+};
+
+// create injector configured by options
+const injector = new libs.svgInjector(injectorOptions);
+
+// Trigger the injection
+injector.inject(
+  mySVGsToInject,
+  afterAllInjectionsFinishedCallback,
+  perInjectionCallback
+);
+
+// slick carousel
+$(".content-carousel").slick({
+  // normal options...
+  speed: 5000,
+  autoplay: true,
+  autoplaySpeed: 0,
+  cssEase: 'linear',
+  slidesToShow: 5,
+  slidesToScroll: 1,
+  infinite: true,
+  swipeToSlide: true,
+  centerMode: true,
+  focusOnSelect: true,
+  // the magic
+  responsive: [{
+    breakpoint: 1024,
+    settings: {
+      slidesToShow: 3,
+      infinite: true
+    }
+  }, {
+    breakpoint: 600,
+    settings: {
+      slidesToShow: 2,
+      dots: true
+    }
+  }, {
+    breakpoint: 300,
+    settings: "unslick" // destroys slick
+  }]
+});
+
+// tablesaw table plugin
+$(function () {
+  $(document)
+    .foundation()
+    .trigger('enhance.tablesaw');
+});
+
+const TablesawConfig = {
+  swipeHorizontalThreshold: 15
+};
+
+// app dashboard toggle
+$('[data-app-dashboard-toggle-shrink]').on('click', function(e) {
+  e.preventDefault();
+  $(this).parents('.app-dashboard').toggleClass('shrink-medium').toggleClass('shrink-large');
+});
 
 //
 // Custom JS
@@ -58,41 +155,3 @@ const elements = document.querySelectorAll('[id^="communiqueSize-"]');
 elements.forEach(function (element) {
   element.innerHTML += ' ' + Math.round(getFileSize(element.getAttribute('href'))/1024) + ' Ko )'
 });
-
-
-// Select all links with hashes
-$('a[href*="#"]')
-// Remove links that don't actually link to anything
-  .not('[href="#"]')
-  .not('[href="#0"]')
-  .click(function(event) {
-    // On-page links
-    if (
-      location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
-      &&
-      location.hostname == this.hostname
-    ) {
-      // Figure out element to scroll to
-      let target = $(this.hash);
-      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
-      // Does a scroll target exist?
-      if (target.length) {
-        // Only prevent default if animation is actually gonna happen
-        event.preventDefault();
-        $('html, body').animate({
-          scrollTop: target.offset().top
-        }, 1000, function() {
-          // Callback after animation
-          // Must change focus!
-          var $target = $(target);
-          $target.focus();
-          if ($target.is(":focus")) { // Checking if the target was focused
-            return false;
-          } else {
-            $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
-            $target.focus(); // Set focus again
-          };
-        });
-      }
-    }
-  });

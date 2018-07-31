@@ -1,9 +1,9 @@
 const gulp          = require('gulp');
 const modernizr = require('gulp-modernizr');
-const config = require('../util/loadConfig').modernizr;
+const MODERNIZR = require('../util/loadConfig').MODERNIZR;
 
 gulp.task('modernizr', function() {
-  return gulp.src(config.src)
+  return gulp.src(MODERNIZR.src)
     .pipe(modernizr())
-    .pipe(gulp.dest(config.dest.jekyllRoot))
+    .pipe(gulp.dest(MODERNIZR.dest.jekyllRoot))
 });

@@ -1,20 +1,43 @@
-const $             = require('gulp-load-plugins')();
-const browserSync   = require('browser-sync');
-const config        = require('../util/loadConfig').javascript;
-const gulp          = require('gulp');
-const isProduction  = require('../util/isProduction');
-const uglify        = require('gulp-uglify');
+const named = require("vinyl-named");
+const yargs = require("yargs");
+const $ = require('gulp-load-plugins')();
+const browserSync = require('browser-sync');
+const gulp = require('gulp');
+const uglify = require('gulp-uglify');
+const webpackStream = require('webpack-stream');
+const webpack2 = require('webpack');
+const JAVASCRIPT = require('../util/loadConfig').JAVASCRIPT;
+const PRODUCTION = !!(yargs.argv.production);
 
-gulp.task('javascript', function() {
-  browserSync.notify(config.notification);
+let webpackConfig = {
+  module: {
+    rules: [
+      {
+        test: /.js$/,
+        use: [
+          {
+            loader: 'babel-loader'
+          }
+        ]
+      }
+    ]
+  },
+  output: {
+    filename: '[name].js',
+  },
+};
 
-  return gulp.src(config.src)
+gulp.task('javascript', function () {
+  return gulp.src(JAVASCRIPT.src)
+    .pipe(named())
     .pipe($.sourcemaps.init())
-    .pipe($.babel({presets: ['env']}))
-    .pipe($.concat(config.filename))
-    .pipe($.if(isProduction, uglify({ mangle: false })))
-    .pipe($.if(!isProduction, $.sourcemaps.write()))
-    // Write the file to source dir and build dir
-    .pipe(gulp.dest(config.dest.jekyllRoot))
-    .pipe(gulp.dest(config.dest.buildDir));
+    .pipe(webpackStream(webpackConfig, webpack2))
+    .pipe($.if(PRODUCTION, $.uglify()
+      .on('error', e => {
+        console.log(e);
+      })
+    ))
+    .pipe($.if(!PRODUCTION, $.sourcemaps.write()))
+    .pipe(gulp.dest(JAVASCRIPT.dest.buildDir));
 });
+
