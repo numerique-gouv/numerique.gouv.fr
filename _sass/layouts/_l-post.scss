@@ -2,45 +2,72 @@
 // Layout post and other
 // --------------------------------------------------
 
+.list-post {
+  li {
+    &:nth-child(odd) {
+      flex-direction: row-reverse;
+      .illustration {
+        box-shadow: -0.5rem -0.5rem 0rem $light-gray;
+      }
+    }
+    &:nth-child(even) {
+      flex-direction: row-;
+      .illustration {
+        box-shadow: 0.5rem -0.5rem 0rem $light-gray;
+      }
+    }
+  }
+}
+
 .post {
   max-width: none;
-  background-color: $light-gray;
   padding-bottom: 1rem;
   article  {
-    max-width: 60rem;
+    max-width: 50rem;
     margin-right: auto;
     margin-left: auto;
     background-color: $white;
-    padding: 2rem;
     .image-en-tete{
       height: 50vh;
     }
-    .en-tete {
+    .chapeau {
       font-size: larger;
       border-left: none;
+      font-style: italic;
+      text-align: center;
+      font-family: "Times New Roman";
       p {
         color: $black;
       }
     }
+
     ul {
       list-style: none;
       margin-left: 0;
       padding-left: 1.5rem;
       text-indent: -1.5rem;
-    }
+      li {
+        &:before {
+          content: "►";
+          display: block;
+          float: left;
+          width: 1.5rem;
+          color: $bleue;
 
-    li:before {
-      content: "►";
-      display: block;
-      float: left;
-      width: 1.2rem;
+        }
+        li {
+          &:before {
+            color: $bleue-clair;
+          }
+        }
+      }
     }
     .citation {
       border-left: none;
       width: 100%;
-      padding: 3rem 4rem;
+      padding: 3rem 4rem 0rem 4rem;
       position: relative;
-      margin-bottom: 2rem;
+      margin-bottom: 1rem;
       &::before, &::after {
         top: 0;
         bottom: 0;
@@ -58,21 +85,30 @@
         margin: 0;
         &::before {
           top: 0;
-          left: 2rem;
+          left: 1rem;
           color: $dark-gray;
           content: '“';
-          font-size: 4rem;
+          font-size: 6rem;
           position: absolute;
+          font-family: 'IM Fell French Canon SC', serif;
         }
         &::after {
-          right: 2rem;
+          bottom: -6rem;
+          right: 1rem;
           color: $dark-gray;
           content: '”';
-          bottom: -2rem;
-          font-size: 4rem;
+          font-size: 6rem;
           position: absolute;
+          font-family: 'IM Fell French Canon SC', serif;
         }
       }
+    }
+    .auteur-citation {
+      border-left: none;
+      width: 100%;
+      padding: 0rem 4rem 3rem 4rem;
+      position: relative;
+      margin-bottom: 2rem;
     }
     .encadre {
       color: $black;
