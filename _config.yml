@@ -6,7 +6,7 @@ collections:
     title: Actualités
     output: true
     Data:
-      address_ref: 
+      address_ref:
   communiques:
     title: Communiqués
     output: true
@@ -54,7 +54,7 @@ categories:
 language: fr
 markdown: kramdown
 description: Le site officiel de la DINSIC
-gems:
+plugins:
 - jekyll-paginate-v2
 - sass
 - jekyll-sitemap
