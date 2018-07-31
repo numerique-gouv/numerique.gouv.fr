@@ -3,6 +3,7 @@ title: Le gouvernement annonce sa stratégie en matière de cloud
 date: 2018-07-03 00:00:00 +02:00
 communique_file: uploads/CP_Cloud_de_l'Etat_04072018.pdf
 ---
+
 Pour accompagner la transformation numérique de l’État, le gouvernement se dote d’une stratégie d’utilisation de
 l’informatique en nuage (cloud) par l’administration. Son objectif ? Développer l’usage du cloud par les
 administrations, les établissements publics et les collectivités territoriales, d’ici à 3 ans.
