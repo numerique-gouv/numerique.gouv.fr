@@ -4,19 +4,16 @@ title: Le gouvernement lance l’expérimentation de l’intelligence artificiel
 date: 2018-06-14 00:00:00 +02:00
 communique_file: uploads/cp_ami_ia_ditp_dinsic_0.pdf
 image: uploads/Le-gouvernement-lance-l’experimentation-de-l’intelligence-artificielle-dans-l’administration.jpeg
+chapeau: "L’intelligence artificielle (IA) est un enjeu d’avenir. Avec AI for humanity, lancé en mars 2017,
+            le gouvernement souhaite que l’État se saisisse pleinement du potentiel de l’IA et l’intègre dans la conduite de ses
+            missions, pour un meilleur service rendu aux usagers. Pour initier ce mouvement, la direction interministérielle du
+            numérique et du système d'information et de communication de l'Etat (DINSIC) et la direction interministérielle de la
+            transformation publique (DITP) lancent, dans le cadre du programme d’investissements d’avenir (PIA), un appel à
+            manifestation d'intérêt (AMI) pour expérimenter l’intelligence artificielle dans les services publics. La Caisse des
+            dépôts et consignations (CDC) en est l’opérateur administratif et financier. Le Secrétariat général pour
+            l'investissement (SGPI) coordonne l’ensemble du PIA."
 ---
 
-> L’intelligence artificielle (IA) est un enjeu d’avenir. Avec AI for humanity, lancé en mars 2017,
-  le gouvernement souhaite que l’État se saisisse pleinement du potentiel de l’IA et l’intègre dans la conduite de ses
-  missions, pour un meilleur service rendu aux usagers. Pour initier ce mouvement, la direction interministérielle du
-  numérique et du système d'information et de communication de l'Etat (DINSIC) et la direction interministérielle de la
-  transformation publique (DITP) lancent, dans le cadre du programme d’investissements d’avenir (PIA), un appel à
-  manifestation d'intérêt (AMI) pour expérimenter l’intelligence artificielle dans les services publics. La Caisse des
-  dépôts et consignations (CDC) en est l’opérateur administratif et financier. Le Secrétariat général pour
-  l'investissement (SGPI) coordonne l’ensemble du PIA.
-{: .en-tete}
-
---------
 
 Destiné aux opérateurs directs de services publics au niveau de l’État (ministère, opérateur national, etc.), cet AMI
 s’adresse essentiellement à des acteurs publics désireux d’expérimenter à la fois des approches (techniques
@@ -39,10 +36,10 @@ Les lauréats seront sélectionnés sur les critères suivants :
 * Prise en compte des risques éthiques.
 
 > Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’Intelligence
-> artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir
-> aux citoyens un service public plus performant et proche de leurs besoins
->
-> **Mounir Mahjoubi**, secrétaire d’État auprès du Premier ministre, chargé du Numérique
+artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir
+aux citoyens un service public plus performant et proche de leurs besoins
 {: .citation}
+> Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du Numérique
+{: .auteur-citation}
 
 

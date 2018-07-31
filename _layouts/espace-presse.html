@@ -10,14 +10,16 @@ layout: page
   {% for post in paginator.posts %}
   <li  class="">
     <div class="grid-x grid-margin-x">
-      <div class="cell large-4 medium-4 post__image-container margin-vertical-auto">
-        {% if post.image %}
+      <div class="cell large-4 medium-4 small-12 post__image-container margin-vertical-auto">
         <a href="{{ post.url }}">
+          {% if post.image %}
           <img class="post__featured-image gray-shadow" src="{{ base.url }}/{{ post.image }}">
+          {% else %}
+          <img class="post__featured-image gray-shadow" src="{{ base.url }}/assets/img/default.png">
+          {% endif %}
         </a>
-        {% endif %}
       </div>
-      <div class="cell large-8 medium-8">
+      <div class="cell large-8 medium-8 small-12">
         <a class="post-link" href="{{ post.url }}">
           <h2>
             {{ post.title }}

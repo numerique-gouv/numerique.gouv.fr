@@ -6,7 +6,7 @@ collections:
     title: Actualités
     output: true
     Data:
-      address_ref: 
+      address_ref:
   communiques:
     title: Communiqués
     output: true
@@ -27,16 +27,21 @@ defaults:
     path: ''
     type: actualites
   values:
-    layout: actualites
+    layout: post
     permalink: "/actualites/:title/"
 - scope:
     path: ''
     type: communiques
   values:
     communique_file: uploads/exemple.pdf
-    image: assets/img/default.png
     layout: communique
     permalink: "/espace-presse/:title/"
+    contact-presse:
+      name: Rachel Wadoux
+      tel:
+      - 01.71.21.11.98
+      - 06.34.21.55.48
+      email: rachel.wadoux@modernisation.gouv.fr
 - scope:
     path: ''
     type: evenements
@@ -44,12 +49,6 @@ defaults:
     layout: post
     permalink: "/evenements/:title/"
 url: dinsic.gouv.fr
-contact-presse:
-  name: Rachel Wadoux
-  tel:
-  - 01.71.21.11.98
-  - 06.34.21.55.48
-  email: rachel.wadoux@modernisation.gouv.fr
 categories:
 - main
 language: fr

@@ -9,19 +9,29 @@ layout: default
       <img class="post__featured-image" src="{{base}}/{{ page.image }}">
     </div>
     {% endif %}
-    <div class="margin-2">
-      <h1 class="h2 text-center padding-bottom-3">Communiqué de presse</h1>
-      <p class="meta text-center subheader ">{% include date.html date=page.date %}</p>
-      <h2 class="h3 text-center">{{ page.title }}</h2>
-      <p class="post-content padding-vertical-2">
+    <div class="margin-1">
+      <h2 class="bold text-center">{{ page.title }}</h2>
+      <div class="grid-x align-center">
+        <p class="h5 subheader text-right">Communiqué de presse</p>
+        <p class="h5 subheader padding-horizontal-1">|</p>
+        <p class="h5 meta subheader">{% include date.html date=page.date %}</p>
+      </div>
+      {% if page.chapeau %}
+      <div class="chapeau padding-top-2">
+        <p>
+          {{ page.chapeau }}
+        </p>
+      </div>
+      {% endif %}
+      <p class="post-content padding-2">
         {{ content }}
       </p>
     </div>
     <section class="text-center contact">
-      <h3 class="h5">Contact Presse DINSIC</h3>
+      <h3 class="h4">Contact Presse DINSIC</h3>
       <p>
-        {{ site.contact-presse.name }}
-        {% for tel in site.contact-presse.tel%}
+        {{ page.contact-presse.name }}
+        {% for tel in page.contact-presse.tel%}
         {% if forloop.last == true %}
         {{ tel }}
         {% else %}
@@ -29,10 +39,10 @@ layout: default
         {% endif %}
         {% endfor %}
       </p>
-      <a href="mailto:{{ site.contact-presse.email }}">{{ site.contact-presse.email }}</a>
+      <a href="mailto:{{ page.contact-presse.email }}">{{ page.contact-presse.email }}</a>
     </section>
     <div class="text-center padding-vertical-1">
-      <a id="communiqueSize-{{ post.url | replace: ' ', '' }}" href="{{base}}/{{ page.communique_file }}"><i class="fas fa-file-download margin-horizontal-1"></i>Télécharger le communiqué de presse (PDF </a>
+      <a class="blue-link" id="communiqueSize-{{ post.url | replace: ' ', '' }}" href="{{base}}/{{ page.communique_file }}"><i class="fas fa-download margin-horizontal-1"></i>Télécharger le communiqué de presse (PDF </a>
     </div>
   </article>
 </main>

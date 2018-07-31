@@ -2,23 +2,23 @@
 layout: page
 ---
 
-<ul id="list-post" class="no-bullet grid-y">
+<ul class="no-bullet grid-y list-post">
   <!--
       Here is the main paginator logic called.
       All calls to site.posts should be replaced by paginator.posts
   -->
   {% for post in paginator.posts %}
   <li  class="grid-x grid-margin-x">
+    <div class="illustration cell post__image-container large-6 small-12">
+      <img class="post__featured-image" src="{{base}}/{{ post.image-mise-en-avant }}">
+    </div>
     <div class="content cell large-6 small-12">
       <span class="post-meta">{% include date.html date=post.date %}</span>
       <h2>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h2>
       <p>{{ post.excerpt }}</p>
-      <a href="{{ post.url }}">Lire plus...</a>
-    </div>
-    <div class="illustration cell post__image-container large-6 small-12">
-      <img class="post__featured-image" src="{{base}}/{{ post.image-mise-en-avant }}">
+      <a class="blue-link" href="{{ post.url }}">Lire plus...</a>
     </div>
     {% if forloop.last == false %}
     <hr class="cell">

@@ -5,8 +5,6 @@ date: 2018-06-20 00:00:00 +02:00
 communique_file: uploads/CP_FTAP_laureats_DINSIC_20062018.pdf
 ---
 
----
-
 Investir pour réformer l’État. C’est l’objectif du « Fonds pour la transformation de l’action publique » mis en place au titre du Grand plan d’investissement annoncé par le Premier ministre le 25 septembre 2017. Doté de 700 millions
 d’euros sur cinq ans, il est un des leviers du programme gouvernemental de transformation « Action publique 2022 ».
 
@@ -46,6 +44,6 @@ facilitera le travail d’instruction des agents en limitant les tâches de sai
 > administratives pour les citoyens. C’est pourquoi la majorité des projets retenus par le Fonds pour la Transformation
 > de l’Action Publique mobilisent la donnée, le cloud ou encore des algorithmes d’IA. Ces projets lauréats constitueront
 > un vrai socle interministériel d'innovation et de mutualisation numérique essentiel au service public de demain.
->
+{: .citation}
 > **Mounir Mahjoubi**, secrétaire d’État auprès du Premier ministre, chargé du Numérique
-> {: .citation}
+{: .auteur-citation}
