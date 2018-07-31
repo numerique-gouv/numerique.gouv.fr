@@ -22,7 +22,7 @@ layout: default
       <h2 class="font-bold">Nos dernières actualités</h2>
     </div>
     <div class="grid-container">
-      <ul class="grid-x grid-margin-x no-bullet">
+      <ul class="grid-x grid-margin-x remove-bullet">
         {% assign sorted_actualites = site.actualites | where:"tags","une" | sort:'date' | reverse %}
         {% for actualite in sorted_actualites limit:3 %}
         <li class="cell large-4 medium-12 small-12">
