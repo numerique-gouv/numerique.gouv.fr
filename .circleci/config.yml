@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/circleci-demo-ruby-rails
     docker:
-      - image: docker pull starefossen/ruby-node:latest
+      - image: starefossen/ruby-node:latest
         environment:
     steps:
       - checkout
