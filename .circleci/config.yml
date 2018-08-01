@@ -1,7 +1,7 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/circleci-demo-ruby-rails
+    working_directory: ~/circleci-dinsic
     docker:
       - image: starefossen/ruby-node:latest
         environment:
