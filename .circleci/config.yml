@@ -44,7 +44,7 @@ jobs:
             - ~/.cache/yarn
 
       - run:
-          name: Yarn start
-          command: yarn start
+          name: Yarn build
+          command: yarn build
 
 
