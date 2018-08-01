@@ -51,6 +51,7 @@
   },
   "scripts": {
     "start": "gulp",
+    "build-dev": "gulp build --dev",
     "build": "gulp build --production",
     "test": "gulp build --production"
   },

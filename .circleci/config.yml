@@ -45,6 +45,6 @@ jobs:
 
       - run:
           name: Yarn build
-          command: yarn build
+          command: yarn build-dev
 
 
