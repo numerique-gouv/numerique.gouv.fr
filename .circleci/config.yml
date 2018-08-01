@@ -43,8 +43,8 @@ jobs:
           paths:
             - ~/.cache/yarn
 
-      -run:
+      - run:
         name: Yarn start
-        name: yarn start
+        command: yarn start
 
 
