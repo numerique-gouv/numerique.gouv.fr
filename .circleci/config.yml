@@ -44,6 +44,12 @@ jobs:
       - run:
           name: Yarn build
           command: yarn build-dev
+          command: |
+            if [ "${CIRCLE_BRANCH}" = "master" || "${CIRCLE_BRANCH}" = "siteleaf"]; then
+              yarn build
+            else
+              yarn build-dev
+            fi
 
       - persist_to_workspace:
           root: /root/project
@@ -71,7 +77,14 @@ jobs:
 
       - deploy:
           name: Deploy on OVH
-          command: rsync -avc /tmp/workspace/_site/ root@test-dinsic.fr:/var/www/html/
+          command: |
+            if [ "${CIRCLE_BRANCH}" = "master"]; then
+              echo "Not yet develop"
+            elif [ "${CIRCLE_BRANCH}" = "development" || "${CIRCLE_BRANCH}" = "siteleaf"]; then
+              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST:/var/www/html/
+            else
+              echo "Not development branch, dry run only"
+            fi
 
 
 workflows:

@@ -9,6 +9,8 @@ const webpack2 = require('webpack');
 const JAVASCRIPT = require('../util/loadConfig').JAVASCRIPT;
 const PRODUCTION = !!(yargs.argv.production);
 
+const pump = require('pump');
+
 let webpackConfig = {
   module: {
     rules: [
@@ -27,17 +29,17 @@ let webpackConfig = {
   },
 };
 
-gulp.task('javascript', function () {
-  return gulp.src(JAVASCRIPT.src)
-    .pipe(named())
-    .pipe($.sourcemaps.init())
-    .pipe(webpackStream(webpackConfig, webpack2))
-    .pipe($.if(PRODUCTION, $.uglify()
-      .on('error', e => {
-        console.log(e);
-      })
-    ))
-    .pipe($.if(!PRODUCTION, $.sourcemaps.write()))
-    .pipe(gulp.dest(JAVASCRIPT.dest.buildDir));
+gulp.task('javascript', function (cb) {
+  pump([
+    gulp.src(JAVASCRIPT.src),
+    named(),
+    $.sourcemaps.init(),
+    webpackStream(webpackConfig, webpack2),
+    $.babel({presets: ['es2015']}),
+    $.if(PRODUCTION, $.uglify()),
+    $.if(!PRODUCTION, $.sourcemaps.write()),
+    gulp.dest(JAVASCRIPT.dest.buildDir)
+  ],
+    cb);
 });
 
