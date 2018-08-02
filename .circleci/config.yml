@@ -69,7 +69,7 @@ jobs:
 
       - deploy:
           name: Deploy on OVH
-          command: rsync --compress --archive -e "/usr/share/centrifydc/bin/ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no" ./_site $LOGIN@$HOST:/var/www/html/
+          command: rsync --delay-updates -F --compress --archive -e "/usr/share/centrifydc/bin/ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no" ~/dinsic/_site $LOGIN@$HOST:/var/www/html/
 
 workflows:
   version: 2
