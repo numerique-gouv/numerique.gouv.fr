@@ -59,7 +59,7 @@ jobs:
     environment:
       - HOST: test-dinsic.fr
       - LOGIN: root
-      - BUILD_DIR: _site
+      - BUILD_DIR: ~/dinsic/_site
     steps:
       - add_ssh_keys:
           fingerprints:
@@ -75,9 +75,7 @@ workflows:
   build_and_deploy:
     jobs:
       - build
-      - deploy:
-          requires:
-            - build
+      - deploy
 
 
 
