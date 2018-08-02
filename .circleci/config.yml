@@ -59,11 +59,10 @@ jobs:
     environment:
       - HOST: test-dinsic.fr
       - LOGIN: root
-      - BUILD_DIR: /tmp/_site
     steps:
       - attach_workspace:
-         at: $BUILD_DIR
-         
+         at: /tmp/_site
+
       - add_ssh_keys:
           fingerprints:
             - "31:8a:07:d1:56:88:18:c4:4e:91:5f:13:0c:58:b6:cc"
@@ -73,7 +72,7 @@ jobs:
 
       - deploy:
           name: Deploy on OVH
-          command: rsync -avc $BUILD_DIR root@test-dinsic.fr:/var/www/html/
+          command: rsync -avc /tmp/_site root@test-dinsic.fr:/var/www/html/
 
 workflows:
   version: 2
