@@ -48,9 +48,10 @@ jobs:
           name: Yarn build
           command: yarn build-dev
 
-      - store_artifacts:
-          path: ./_site
-          destination: site-dinsic
+      - persist_to_workspace:
+          root: _site
+          paths:
+            - *
 
   deploy:
     machine:
@@ -58,8 +59,10 @@ jobs:
     environment:
       - HOST: test-dinsic.fr
       - LOGIN: root
-      - BUILD_DIR: _site
+      - BUILD_DIR: /tmp/_site
     steps:
+      - attach_workspace:
+         at: $BUILD_DIR
       - add_ssh_keys:
           fingerprints:
             - "31:8a:07:d1:56:88:18:c4:4e:91:5f:13:0c:58:b6:cc"
