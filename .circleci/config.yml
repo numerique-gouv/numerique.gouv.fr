@@ -53,8 +53,6 @@ jobs:
           destination: site-dinsic
 
   deploy:
-    requires:
-      - build
     working_directory: ~/dinsic
     docker:
       - image: instrumentisto/rsync-ssh:latest
@@ -69,7 +67,7 @@ jobs:
 
       - deploy:
           name: Deploy on OVH
-          command: rsync -e "ssh -o StrictHostKeyChecking=no" ~/dinsic/_site $LOGIN@$HOST:/var/www/html/
+          command: rsync -e "ssh -o StrictHostKeyChecking=no" ~/dinsic/_site $HOST:/var/www/html/
 
 workflows:
   version: 2
