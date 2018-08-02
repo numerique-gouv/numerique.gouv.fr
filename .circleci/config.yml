@@ -68,7 +68,7 @@ jobs:
 
       - deploy:
           name: Deploy on OVH
-          command: sync -avc $BUILD_DIR root@test-dinsic.fr:/var/www/html/
+          command: rsync -avc $BUILD_DIR root@test-dinsic.fr:/var/www/html/
 
 workflows:
   version: 2
