@@ -71,7 +71,7 @@ jobs:
 
       - deploy:
           name: Deploy on OVH
-          command: rsync -avc /tmp/workspace root@test-dinsic.fr:/var/www/html/
+          command: rsync -avc /tmp/workspace/_site/ root@test-dinsic.fr:/var/www/html/
 
 
 workflows:
