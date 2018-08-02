@@ -48,10 +48,7 @@ jobs:
           name: Yarn build
           command: yarn build-dev
 
-      - persist_to_workspace:
-          root: _site
-          paths:
-            - *
+ 
 
   deploy:
     machine:
@@ -73,6 +70,7 @@ jobs:
       - deploy:
           name: Deploy on OVH
           command: rsync -avc ./_site root@test-dinsic.fr:/var/www/html/
+
 
 workflows:
   version: 2
