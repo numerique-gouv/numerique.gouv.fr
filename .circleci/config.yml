@@ -69,4 +69,11 @@ jobs:
           name: Deploy on OVH
           command: rsync ./_site $LOGIN@$HOST:/var/www/html/
 
+workflows:
+  version: 2
+  build_and_deploy:
+    jobs:
+      - build
+      - deploy
+
 
