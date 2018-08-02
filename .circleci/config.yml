@@ -1,7 +1,7 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/circleci-dinsic
+    working_directory: ~/dinsic
     docker:
       - image: starefossen/ruby-node:latest
         environment:
@@ -32,8 +32,7 @@ jobs:
       # Only necessary if app uses webpacker or yarn in some other way
       - restore_cache:
           keys:
-            - dinsic-v1-{{ checksum "yarn.lock" }}
-            - dinsic-v1-
+            - yarn-packages-{{ checksum "yarn.lock" }}
 
       - run:
           name: Yarn Install
@@ -41,7 +40,7 @@ jobs:
 
       # Store yarn / webpacker cache
       - save_cache:
-          key: dinsic-v1-{{ checksum "yarn.lock" }}
+          key: yarn-packages-{{ checksum "yarn.lock" }}
           paths:
             - ~/.cache/yarn
 
@@ -49,6 +48,19 @@ jobs:
           name: Yarn build
           command: yarn build-dev
 
+      - store_artifacts:
+          path: ~/dinsic/_site
+          destination: site-dinsic
+
+  deploy:
+    working_directory: ~/dinsic
+    docker:
+      - image: instrumentisto/rsync-ssh:latest
+        environment:
+          - HOST: test-dinsic.fr
+          - LOGIN: root
+    steps:
+      - checkout
       - add_ssh_keys:
           fingerprints:
             - "df:52:a0:dc:24:38:fc:80:38:71:f1:ef:6b:32:4d:d4"
