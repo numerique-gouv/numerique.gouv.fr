@@ -1,12 +1,8 @@
 version: 2
 jobs:
   build:
-    working_directory: ~/dinsic
     docker:
       - image: starefossen/ruby-node:latest
-        environment:
-          - HOST: test-dinsic.fr
-          - LOGIN: root
     steps:
       - checkout
 
@@ -49,22 +45,23 @@ jobs:
           command: yarn build-dev
 
       - store_artifacts:
-          path: ~/dinsic/_site
+          path: ./_site
           destination: site-dinsic
 
   deploy:
     machine:
         enabled: true
-    working_directory: ~/dinsic
     environment:
       - HOST: test-dinsic.fr
       - LOGIN: root
-      - BUILD_DIR: ~/dinsic/_site
+      - BUILD_DIR: _site
     steps:
       - add_ssh_keys:
           fingerprints:
             - "31:8a:07:d1:56:88:18:c4:4e:91:5f:13:0c:58:b6:cc"
-      - run: echo $REMOTE_DEV_HOSTKEY >> ~/.ssh/known_hosts
+      - run:
+          name: add key
+          command: echo $REMOTE_DEV_HOSTKEY >> ~/.ssh/known_hosts
 
       - deploy:
           name: Deploy on OVH
@@ -75,7 +72,9 @@ workflows:
   build_and_deploy:
     jobs:
       - build
-      - deploy
+      - deploy:
+          requires:
+            - build
 
 
 
