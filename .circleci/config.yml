@@ -67,7 +67,7 @@ jobs:
 
       - deploy:
           name: Deploy on OVH
-          command: rsync -e "ssh -o StrictHostKeyChecking=no" ~/dinsic/_site root@test-dinsic.fr:/var/www/html/
+          command: rsync --verbose -e "ssh -o StrictHostKeyChecking=no" ~/dinsic/_site $LOGIN@$HOST:/var/www/html/
 
 workflows:
   version: 2
