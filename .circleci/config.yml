@@ -59,7 +59,7 @@ jobs:
     environment:
       - HOST: test-dinsic.fr
       - LOGIN: root
-      - BUILD_DIR: ~/dinsic/_site
+      - BUILD_DIR: _site
     steps:
       - add_ssh_keys:
           fingerprints:
