@@ -53,6 +53,8 @@ jobs:
           destination: site-dinsic
 
   deploy:
+    requires:
+      - build
     working_directory: ~/dinsic
     docker:
       - image: instrumentisto/rsync-ssh:latest
