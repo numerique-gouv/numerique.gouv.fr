@@ -5,6 +5,8 @@ jobs:
     docker:
       - image: starefossen/ruby-node:latest
         environment:
+          - HOST: test-dinsic.fr
+          - LOGIN: root
     steps:
       - checkout
 
@@ -46,5 +48,13 @@ jobs:
       - run:
           name: Yarn build
           command: yarn build-dev
+
+      - add_ssh_keys:
+          fingerprints:
+            - "df:52:a0:dc:24:38:fc:80:38:71:f1:ef:6b:32:4d:d4"
+
+      - deploy:
+          name: Deploy on OVH
+          command: rsync ./_site $LOGIN@$HOST:/var/www/html/
 
 
