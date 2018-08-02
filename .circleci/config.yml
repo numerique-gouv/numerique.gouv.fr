@@ -9,6 +9,10 @@ jobs:
       - run:
           name: Which bundler?
           command: bundle -v
+
+      - run:
+          name: Folder?
+          command: pwd
       # Restore bundle cache
       - restore_cache:
           keys:
