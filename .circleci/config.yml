@@ -61,7 +61,7 @@ jobs:
       - LOGIN: root
     steps:
       - attach_workspace:
-         at: /tmp/_site
+         at: /_site
 
       - add_ssh_keys:
           fingerprints:
@@ -72,7 +72,7 @@ jobs:
 
       - deploy:
           name: Deploy on OVH
-          command: rsync -avc /tmp/_site root@test-dinsic.fr:/var/www/html/
+          command: rsync -avc ./_site root@test-dinsic.fr:/var/www/html/
 
 workflows:
   version: 2
