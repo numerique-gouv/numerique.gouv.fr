@@ -14,11 +14,11 @@ layout: default
       </div>
     </section>
     {% assign missions-ordered = site.missions-dinsic | sort: 'ordre'%}
-    <section class="hide-for-small-only grid-container">
+    <section class="hide-for-small-only grid-container" data-smooth-scroll>
       <h2 class="default-text-padding">Nos missions</h2>
       <div class="grid-x grid-margin-x align-center">
         {% for mission in missions-ordered %}
-        <a href="#{{ mission.title }}" class="cell card medium-6 large-4">
+        <a href="#{{ mission.title }}"  class="cell card medium-6 large-4 ">
           <div class="card-section">
             <h3>{{ mission.title }}</h3>
           </div>
@@ -63,3 +63,4 @@ layout: default
    {% include /components/historique.html %}
  </div>
 </main>
+{% include /components/retour-haut.html %}

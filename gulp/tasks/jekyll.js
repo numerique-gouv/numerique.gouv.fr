@@ -1,16 +1,18 @@
-var browserSync   = require('browser-sync');
-var config        = require('../util/loadConfig').jekyll;
-var gulp          = require('gulp');
-var isProduction  = require('../util/isProduction');
-var spawn         = require('cross-spawn');
+const browser = require("browser-sync") ;
+const yargs= require("yargs");
+const JEKYLL        = require('../util/loadConfig').JEKYLL;
+const gulp          = require('gulp');
+const spawn         = require('cross-spawn');
+
+const PRODUCTION = !!(yargs.argv.production);
 
 gulp.task('jekyll-build', function(done) {
-  var processEnv = process.env;
-  if (isProduction) {
+  const processEnv = process.env;
+  if (PRODUCTION) {
     processEnv.JEKYLL_ENV = 'production';
   }
 
-  browserSync.notify(config.notification);
+  browser.notify(JEKYLL);
 
   // Spawn jekyll commands
   return spawn('bundle', ['exec', 'jekyll', 'build'], {stdio: 'inherit', env:processEnv})
