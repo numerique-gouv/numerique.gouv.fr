@@ -10,9 +10,6 @@ jobs:
           name: Which bundler?
           command: bundle -v
 
-      - run:
-          name: Folder?
-          command: pwd
       # Restore bundle cache
       - restore_cache:
           keys:
@@ -63,7 +60,7 @@ jobs:
       - LOGIN: root
     steps:
       - attach_workspace:
-         at: /_site
+          at: /tmp/workspace
 
       - add_ssh_keys:
           fingerprints:
@@ -74,7 +71,7 @@ jobs:
 
       - deploy:
           name: Deploy on OVH
-          command: rsync -avc ./_site root@test-dinsic.fr:/var/www/html/
+          command: rsync -avc /tmp/workspace root@test-dinsic.fr:/var/www/html/
 
 
 workflows:
