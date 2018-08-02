@@ -67,13 +67,9 @@ jobs:
           fingerprints:
             - "df:52:a0:dc:24:38:fc:80:38:71:f1:ef:6b:32:4d:d4"
 
-      - run:
-          name: Add to known host
-          command: ssh-keyscan -H $HOST >> ~/.ssh/known_hosts
-
       - deploy:
           name: Deploy on OVH
-          command: rsync ./_site $LOGIN@$HOST:/var/www/html/
+          command: rsync --compress --archive -e "/usr/share/centrifydc/bin/ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no" ./_site $LOGIN@$HOST:/var/www/html/
 
 workflows:
   version: 2
