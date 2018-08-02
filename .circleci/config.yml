@@ -48,7 +48,12 @@ jobs:
           name: Yarn build
           command: yarn build-dev
 
- 
+      - persist_to_workspace:
+          root: $CIRCLE_WORKING_DIRECTORY
+          paths:
+            - _site/*
+
+
 
   deploy:
     machine:
