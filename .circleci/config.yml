@@ -53,12 +53,12 @@ jobs:
           destination: site-dinsic
 
   deploy:
+    machine:
+        enabled: true
     working_directory: ~/dinsic
-    docker:
-      - image: instrumentisto/rsync-ssh:latest
-        environment:
-          - HOST: test-dinsic.fr
-          - LOGIN: root
+    environment:
+      - HOST: test-dinsic.fr
+      - LOGIN: root
     steps:
       - checkout
       - add_ssh_keys:
