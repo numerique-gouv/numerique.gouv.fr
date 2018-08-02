@@ -2,26 +2,99 @@ version: 2
 jobs:
   build:
     docker:
-      # specify the version you desire here
-      - image: starefossen/ruby-node:2-8
-
-      # Specify service dependencies here if necessary
-      # CircleCI maintains a library of pre-built images
-      # documented at https://circleci.com/docs/2.0/circleci-images/
-      # - image: circleci/mongo:3.4.4
-
-    working_directory: ~/repo
-
+      - image: starefossen/ruby-node:latest
     steps:
       - checkout
 
-      # Download and cache dependencies
+      - run:
+          name: Which bundler?
+          command: bundle -v
+
+      # Restore bundle cache
       - restore_cache:
           keys:
-          - v2-dependencies-{{ checksum "Gemfile.lock" }}
-          # fallback to using the latest cache if no exact match is found
-          - v2-dependencies-
+            - dinsic-v1-{{ checksum "Gemfile.lock" }}
+            - dinsic-v1-
+
       - run:
-          name: Ruby dependencies
-          command: bundle install
-          #To be continued
+          name: Bundle Install
+          command: bundle check || bundle install
+
+      # Store bundle cache
+      - save_cache:
+          key: dinsic-v1-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+
+      # Only necessary if app uses webpacker or yarn in some other way
+      - restore_cache:
+          keys:
+            - yarn-packages-{{ checksum "yarn.lock" }}
+
+      - run:
+          name: Yarn Install
+          command: yarn install --cache-folder ~/.cache/yarn
+
+      # Store yarn / webpacker cache
+      - save_cache:
+          key: yarn-packages-{{ checksum "yarn.lock" }}
+          paths:
+            - ~/.cache/yarn
+
+      - run:
+          name: Yarn build
+          command: yarn build-dev
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ] || [ "${CIRCLE_BRANCH}" == "siteleaf" ]; then
+              yarn build
+            else
+              yarn build-dev
+            fi
+
+      - persist_to_workspace:
+          root: /root/project
+          paths:
+            - _site/*
+
+
+
+  deploy:
+    machine:
+        enabled: true
+    environment:
+      - HOST: test-dinsic.fr
+      - LOGIN: root
+    steps:
+      - attach_workspace:
+          at: /tmp/workspace
+
+      - add_ssh_keys:
+          fingerprints:
+            - "31:8a:07:d1:56:88:18:c4:4e:91:5f:13:0c:58:b6:cc"
+      - run:
+          name: add key
+          command: echo $REMOTE_DEV_HOSTKEY >> ~/.ssh/known_hosts
+
+      - deploy:
+          name: Deploy on OVH
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              echo "Not yet develop"
+            elif [ "${CIRCLE_BRANCH}" == "development" ] || [ "${CIRCLE_BRANCH}" == "siteleaf" ]; then
+              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST:/var/www/html/
+            else
+              echo "Not development branch, dry run only"
+            fi
+
+
+workflows:
+  version: 2
+  build_and_deploy:
+    jobs:
+      - build
+      - deploy:
+          requires:
+            - build
+
+
+

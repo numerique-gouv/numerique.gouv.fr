@@ -51,6 +51,13 @@
   background-color: $light-gray;
 }
 
+.white-area {
+  max-width: 50rem;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: $white;
+}
+
 .lighter {
   font-weight: lighter;
 }
@@ -60,5 +67,18 @@
   margin-right: auto;
   margin-left: auto;
   background-color: $white;
+}
+
+.margin-vertical-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.gray-shadow {
+  box-shadow: -0.5rem -0.5rem 0rem $light-gray;
+}
+
+.remove-bullet {
+  list-style: none;
 }
 

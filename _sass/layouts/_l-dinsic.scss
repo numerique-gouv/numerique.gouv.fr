@@ -2,12 +2,9 @@
 // Layout dinsic page
 // --------------------------------------------------
 #dinsic-page {
-
-
   @include breakpoint(medium down) {
     padding: 1rem;
   }
-
   p {
     color: $dark-gray;
   }
@@ -18,11 +15,17 @@
         padding: 0rem;
       }
     }
+    p {
+      font-size: larger;
+    }
   }
-  .sections-dinsic {
-    padding-bottom: 2rem;
-    @include breakpoint(medium down) {
-      padding-bottom: 0rem;
+  section {
+    h1{
+      font-weight: bold;
+      text-align: center;
+    }
+    p {
+      color: $dark-gray;
     }
     .encadre-dinsic {
       background-color: $encadre-bleue-avant;

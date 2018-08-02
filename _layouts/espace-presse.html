@@ -9,12 +9,28 @@ layout: page
   -->
   {% for post in paginator.posts %}
   <li  class="">
-    <h2>
-      <a class="post-link" href="{{ post.url }}">{{ post.title | escape }}</a>
-    </h2>
-    <span class="post-meta">{% include date.html date=post.date %}</span>
-    <p>{{ post.excerpt }}</p>
-    <a id="communiqueSize-{{ post.url | replace: ' ', '' }}" href="{{ post.communique_file }}">Télécharger le communiqué de presse ( PDF </a>
+    <div class="grid-x grid-margin-x">
+      <div class="cell large-4 medium-4 small-12 post__image-container margin-vertical-auto">
+        <a href="{{ post.url }}">
+          {% if post.image %}
+          <img class="post__featured-image gray-shadow" src="{{ base.url }}/{{ post.image }}">
+          {% else %}
+          <img class="post__featured-image gray-shadow" src="{{ base.url }}/assets/img/default.png">
+          {% endif %}
+        </a>
+      </div>
+      <div class="cell large-8 medium-8 small-12">
+        <a class="post-link" href="{{ post.url }}">
+          <h2>
+            {{ post.title }}
+          </h2>
+          <span class="post-meta">{% include date.html date=post.date %}</span>
+          <p>{{ post.excerpt }}</p>
+        </a>
+        <a id="communiqueSize-{{ post.url | replace: ' ', '' }}" class="blue-link" href="{{ base }}/{{ post.communique_file }}">Télécharger le communiqué de presse ( PDF </a>
+      </div>
+    </div>
+    <hr>
   </li>
   {% endfor %}
 </ul>
@@ -25,7 +41,7 @@ layout: page
   Showing buttons to move to the next and to the previous list of posts (pager buttons).
 -->
 {% if paginator.total_pages > 1 %}
-<ul class="pager list-none padding-vertical-1">
+<ul class="pager list-none padding-vertical-1 no-bullet">
   {% if paginator.previous_page %}
   <li class="previous">
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Communiqués plus récents</a>

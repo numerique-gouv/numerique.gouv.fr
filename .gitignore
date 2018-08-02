@@ -1,6 +1,6 @@
 # Stylesheet
 assets/css/app.css
-assets/css/stylesheet.css
+# assets/css/stylesheet.css
 
 # JavaScript
 assets/js/all.js
@@ -45,9 +45,6 @@ _site
 
 # Vendor directory
 assets/vendor/
-
-# Ruby
-Gemfile.lock
 
 # Composer
 composer.lock

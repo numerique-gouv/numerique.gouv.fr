@@ -19,12 +19,17 @@
 header {
   background-color: $white;
   max-width: none;
-
   #dinsic-nav-bar {
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
+    @include breakpoint(small only) {
+      position: fixed;
+      width: 100%;
+    }
     @include breakpoint(medium down) {
       margin-top: 0rem;
+    }
+    .marianne {
+      height: 2rem;
+      max-width: 100%;
     }
     .title-bar {
       .hamburger-inner {
@@ -35,18 +40,22 @@ header {
       .search-form {
         button {
           background-color: $white;
-          border: $light-gray solid 1px;
           img{
             height: 1rem;
           }
         }
       }
-    }
-    a {
-      color: $black;
-      img {
-        height: 2rem;
-        max-width: 100%;
+      @include breakpoint(small only) {
+        position: fixed;
+        background-color: $light-gray;
+        padding: 0rem;
+        height: 100%;
+        ul {
+          background-color: $light-gray;
+        }
+        div {
+          width: 8rem;
+        }
       }
     }
   }
@@ -69,10 +78,21 @@ header {
 }
 
 main {
+  @include breakpoint(small only) {
+    margin-top:3rem;
+  }
   max-width: 75rem;
   margin-right: auto;
   margin-left: auto;
+}
 
+.padding-vertical-content {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  @include breakpoint(medium down) {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 }
 
 footer {
@@ -110,4 +130,12 @@ footer {
     padding-left: 1rem;
     padding-right: 1rem;
   }
+}
+
+#retour-haut {
+  position: fixed;
+  top: 50vh;
+  right: 1rem;
+  background-color: red;
+  visibility: hidden;
 }

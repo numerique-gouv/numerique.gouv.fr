@@ -1,16 +1,16 @@
 var browserSync = require('browser-sync');
-var config      = require('../util/loadConfig').browsersync;
+var BROWSERSYNC      = require('../util/loadConfig').BROWSERSYNC;
 var gulp        = require('gulp');
 
 gulp.task('browser-sync', function(done) {
   browserSync.init({
-    notify: config.notify,
-    open: config.open,
-    port: config.port,
+    notify: BROWSERSYNC.notify,
+    open: BROWSERSYNC.open,
+    port: BROWSERSYNC.port,
     server: {
-      baseDir: config.server.basedir
+      baseDir: BROWSERSYNC.server.basedir
     },
-    xip: config.xip
+    xip: BROWSERSYNC.xip
   });
   done();
 });

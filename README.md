@@ -45,3 +45,10 @@ https://github.com/geerlingguy/ansible-role-php`
 `ansible-playbook ./ansible/install-server.yml -i ./ansible/host`
 ####Le syncroniser
 `ansible-playbook ./ansible/syncronise-server.yml -i ./ansible/host`
+
+
+## La chaine de developpement
+
+1. Branche dev pour les developpement courant
+2. Branche siteleaf pour la compatibilité avec le CRM
+3. Branche master (CI)

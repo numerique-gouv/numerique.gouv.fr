@@ -1,9 +1,9 @@
-var browserSync   = require('browser-sync');
-var config        = require('../util/loadConfig').copy;
-var gulp          = require('gulp');
+const browserSync   = require('browser-sync');
+const COPY        = require('../util/loadConfig').COPY;
+const gulp          = require('gulp');
 
 gulp.task('copy', function() {
-  browserSync.notify(config.notification);
-  return gulp.src(config.assets)
-    .pipe(gulp.dest(config.dist));
+  browserSync.notify(COPY.notification);
+  return gulp.src(COPY.assets)
+    .pipe(gulp.dest(COPY.dist));
 });

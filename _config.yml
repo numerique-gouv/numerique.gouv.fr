@@ -5,13 +5,16 @@ collections:
   actualites:
     title: Actualités
     output: true
+    Data:
+      address_ref: 
   communiques:
     title: Communiqués
     output: true
-    Data:
-      address_ref: 
   evenements:
     title: Evènements
+    output: true
+  missions-dinsic:
+    title: Les missions de la Dinsic
     output: true
   posts:
     title: Posts
@@ -22,7 +25,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
+    type: actualites
   values:
     layout: post
     permalink: "/actualites/:title/"
@@ -30,8 +33,15 @@ defaults:
     path: ''
     type: communiques
   values:
+    communique_file: uploads/exemple.pdf
     layout: communique
     permalink: "/espace-presse/:title/"
+    contact-presse:
+      name: Rachel Wadoux
+      tel:
+      - 01.71.21.11.98
+      - 06.34.21.55.48
+      email: rachel.wadoux@modernisation.gouv.fr
 - scope:
     path: ''
     type: evenements
@@ -39,17 +49,15 @@ defaults:
     layout: post
     permalink: "/evenements/:title/"
 url: dinsic.gouv.fr
-contact-presse:
-  name: Rachel Wadoux
-  tel:
-  - 01.71.21.11.98
-  - 06.34.21.55.48
-  email: rachel.wadoux@modernisation.gouv.fr
 categories:
 - main
 language: fr
 markdown: kramdown
 description: Le site officiel de la DINSIC
+plugins:
+- jekyll-paginate-v2
+- sass
+- jekyll-sitemap
 include:
 - ".htaccess"
 - _pages
@@ -77,7 +85,7 @@ pagination:
   enabled: true
   per_page: 2
   permalink: "/page/:num/"
-  title: ":title - page :num of :max"
+  title: ":title - page :num de :max"
   limit: 0
   sort_field: date
   sort_reverse: true

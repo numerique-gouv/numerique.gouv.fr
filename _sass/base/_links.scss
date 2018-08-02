@@ -1,9 +1,6 @@
 // --------------------------------------------------
 // Links
 // --------------------------------------------------
-a {
-  margin-bottom: inherit;
-}
 
 .bouton-transparent {
   background-color: transparent;
@@ -12,4 +9,38 @@ a {
   text-transform: uppercase;
   font-weight: bold;
   font-size: medium;
+}
+
+a {
+  color: $link-color;
+  &:hover {
+    color: $link-color;
+    opacity: 0.9;
+  }
+}
+.black-link {
+  color: $black;
+  &:hover {
+    color: $black;
+  }
+}
+.blue-link {
+  color: $bleue;
+  &:hover {
+    color: $bleue;
+    text-decoration: underline;
+  }
+}
+
+.zoom {
+  &:hover {
+    transform: scale(1.1);
+  }
+}
+.blue-border-button {
+  background-color: $white;
+  border: $bleue solid 2px;
+  &:hover {
+    background-color: $white;
+  }
 }
