@@ -19,47 +19,6 @@
 header {
   background-color: $white;
   max-width: none;
-  #dinsic-nav-bar {
-    @include breakpoint(small only) {
-      position: fixed;
-      width: 100%;
-    }
-    @include breakpoint(medium down) {
-      margin-top: 0rem;
-    }
-    .marianne {
-      height: 2rem;
-      max-width: 100%;
-    }
-    .title-bar {
-      .hamburger-inner {
-        margin-top: 2rem;
-      }
-    }
-    #dinsic-main-menu {
-      .search-form {
-        button {
-          background-color: $white;
-          img{
-            height: 1rem;
-          }
-        }
-      }
-      @include breakpoint(small only) {
-        position: fixed;
-        background-color: $light-gray;
-        padding: 0rem;
-        height: 100%;
-        ul {
-          background-color: $light-gray;
-        }
-        div {
-          width: 8rem;
-        }
-      }
-    }
-  }
-
   hr{
     border: 0.01rem solid lightgray;
     width: 100%;
@@ -67,14 +26,59 @@ header {
     box-shadow: 0px 0.8px 1px lightgray;
     margin: 0rem;
   }
-
-  #file-arianne {
-    font-size: smaller;
-
-    @include breakpoint(medium down) {
-      padding-left: 1rem;
+}
+#dinsic-nav-bar {
+  @include breakpoint(small only) {
+    position: fixed;
+    width: 100%;
+  }
+  @include breakpoint(medium down) {
+    margin-top: 0rem;
+  }
+  .marianne {
+    height: 2rem;
+    max-width: 100%;
+  }
+  .title-bar {
+    .hamburger-inner {
+      margin-top: 2rem;
     }
   }
+
+}
+#dinsic-main-menu {
+  .search-form {
+    button {
+      background-color: $white;
+      img{
+        height: 1rem;
+      }
+    }
+  }
+  @include breakpoint(small only) {
+    position: fixed;
+    background-color: $light-gray;
+    padding: 0rem;
+    height: 100%;
+    ul {
+      background-color: $light-gray;
+    }
+    div {
+      width: 8rem;
+    }
+  }
+}
+#file-arianne {
+  font-size: smaller;
+
+  @include breakpoint(medium down) {
+    padding-left: 1rem;
+  }
+}
+
+.icon-recherche {
+  color: $bleue;
+  font-size: 1.5rem;
 }
 
 main {

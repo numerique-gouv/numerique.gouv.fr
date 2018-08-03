@@ -21,9 +21,6 @@ import 'tablesaw/dist/tablesaw.jquery';
 import libs from './lib/dependancies';
 window.libs = libs;
 
-$(document).foundation();
-
-
 libs.AOS.init();
 
 // SVG Injector
@@ -90,9 +87,9 @@ $(".content-carousel").slick({
 
 // tablesaw table plugin
 $(function () {
-  $(document)
-    .foundation()
-    .trigger('enhance.tablesaw');
+//  $(document)
+//    .foundation()
+//    .trigger('enhance.tablesaw');
 });
 
 const TablesawConfig = {
@@ -155,3 +152,4 @@ const elements = document.querySelectorAll('[id^="communiqueSize-"]');
 elements.forEach(function (element) {
   element.innerHTML += ' ' + Math.round(getFileSize(element.getAttribute('href'))/1024) + ' Ko )'
 });
+
