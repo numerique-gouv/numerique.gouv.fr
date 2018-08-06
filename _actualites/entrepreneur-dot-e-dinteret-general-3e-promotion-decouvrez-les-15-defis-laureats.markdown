@@ -9,7 +9,7 @@ chapeau-md: |-
 
 *Créé en octobre 2016, le programme « Entrepreneur d’Intérêt Général » (EIG) vise à accélérer la transition numérique de l’État en recrutant des innovateurs aux expertises numériques variées (développement, design, science des données, agilité) pour travailler sur des défis d’amélioration du service public proposés par les administrations. Ce dispositif fait partie du Programme d’investissements d’avenir (PIA) piloté par le Secrétariat général pour l’investissement (SGPI).*
 
-Un jury pour sélectionner les meilleurs défis de transformation numérique au service de l’intérêt général
+## Un jury pour sélectionner les meilleurs défis de transformation numérique au service de l’intérêt général
 
 Le 4 juillet 2018, les administrations candidates au programme Entrepreneur.e d’intérêt général (EIG) et présélectionnées par les équipes de la DINSIC ont été invitées à présenter leurs défis d’intérêt général devant un jury composé de personnalités du numérique et d’agents publics (voir sa composition ici). L’objectif : en 20 minutes et sous forme de « pitch », convaincre des personnalités aux profils variés (administration, recherche, entrepreneuriat, société civile) que son projet est techniquement intéressant et qu’il a le potentiel d’améliorer le quotidien de ses futurs utilisateurs.
 
@@ -48,36 +48,40 @@ Rendre le droit du travail lisible et accessible en mobilisant l’intelligence 
 
 * Transformer les méthodes d’une autorité de régulation en mettant la circulation de la donnée au cœur de ses missions : l’Autorité de régulation des communications électroniques et des postes (ARCEP) souhaite faire passer à l’échelle des outils et des méthodes de régulation par la donnée (outil cartographique de suivi, tableaux de bords, API) afin de développer une régulation moderne, en lien avec ses utilisateurs (collectivités locales, services de l’Etat, consommateurs, entreprises régulées, etc.).
 
-* Transformer les métiers des juridictions financières en développant des outils de rédaction collaborative et d’exploration de données (Plume)&nbsp;: la Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
+* Transformer les métiers des juridictions financières en développant des outils de rédaction collaborative et d’exploration de données (Plume) : la Cour des comptes souhaite développer un outil de rédaction collaborative de ses écrits et réaliser des analyses de données sur les textes utilisés et collectés par les juridictions financières. L’objectif sous-jacent : concevoir et présenter des rapports autrement, apporter un nouvel éclairage sur les contrôles à lancer en priorité, et consolider une doctrine de la Cour sur l’ensemble des politiques publiques qu’elle contrôle et évalue depuis sa création.
 
-* Accompagner le développement d’un collectif numérique d’intérêt général au sein de l’Etat (EIG Link)&nbsp;: au sein de la mission Etalab, 2 EIG rejoindront l’équipe en charge du programme EIG pour accompagner la troisième promotion des entrepreneurs et des mentors durant 10 mois. Plusieurs objectifs&nbsp;: consolider le collectif EIG3, apporter un soutien technique et méthodologique aux défis, valoriser et ouvrir les réalisations des équipes, et infuser également une dynamique entrepreneuriale au sein de la DINSIC.
+* Accompagner le développement d’un collectif numérique d’intérêt général au sein de l’Etat (EIG Link) : au sein de la mission Etalab, 2 EIG rejoindront l’équipe en charge du programme EIG pour accompagner la troisième promotion des entrepreneurs et des mentors durant 10 mois. Plusieurs objectifs : consolider le collectif EIG3, apporter un soutien technique et méthodologique aux défis, valoriser et ouvrir les réalisations des équipes, et infuser également une dynamique entrepreneuriale au sein de la DINSIC.
 
 A la rentrée, vous aurez accès à des descriptifs plus complets de chacun des défis ainsi que des compétences recherchées. En attendant, vous pouvez consulter [le site EIG](https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"} et le compte Github.
 
-**Plusieurs tendances et nouveautés se dégagent de cette sélection&nbsp;:**
+**Plusieurs tendances et nouveautés se dégagent de cette sélection :**
 
-* les défis couvrent une variété de sujets de transformation numérique de l’État&nbsp;: confiance sur Internet, régulation par la donnée, ouverture des données respectueuse de la vie privée, transformation des métiers, amélioration des services pour les utilisateurs.
-    
-* la diversité des administrations lauréates (10 ministères, 2 agences, 3 autorités et/ou juridictions indépendantes) préfigure une promotion qui va aborder de nombreuses politiques publiques&nbsp;: accès au droit, évaluation des politiques publiques, inclusion sociale, lutte contre les comportements illicites, sécurité, agriculture, santé, justice.
-    
+* les défis couvrent une variété de sujets de transformation numérique de l’État : confiance sur Internet, régulation par la donnée, ouverture des données respectueuse de la vie privée, transformation des métiers, amélioration des services pour les utilisateurs.
+
+* la diversité des administrations lauréates (10 ministères, 2 agences, 3 autorités et/ou juridictions indépendantes) préfigure une promotion qui va aborder de nombreuses politiques publiques : accès au droit, évaluation des politiques publiques, inclusion sociale, lutte contre les comportements illicites, sécurité, agriculture, santé, justice.
+
 * la complémentarité entre certains défis est l’opportunité de développer des synergies très fortes au sein de la promotion, via des briques d’outils communes et une connaissance enrichie sur des métiers, des types d’utilisateurs, etc.
-    
+
 * la technicité de certains défis, notamment ceux mobilisant des techniques de datascience et d’intelligence artificielle a interpellé positivement les membres du jury. Le jury a d’ailleurs recommandé d’accompagner les défis sur les plans juridique et éthique, en constituant par exemple un réseau de chercheurs et de membres de la société civile.
-    
-Pour Laure Lucchesi, directrice d’Etalab et membre du jury&nbsp;: «&nbsp;Toutes les administrations, qu’elles fassent partie du programme EIG ou pas, vont bénéficier des défis sélectionnés. Les solutions techniques qui seront développées pourront être réutilisées et intégrées dans des briques technologiques à vocation interministérielle.&nbsp;»
+
+Pour Laure Lucchesi, directrice d’Etalab et membre du jury : « Toutes les administrations, qu’elles fassent partie du programme EIG ou pas, vont bénéficier des défis sélectionnés. Les solutions techniques qui seront développées pourront être réutilisées et intégrées dans des briques technologiques à vocation interministérielle. »
 
 Délibérations du jury – SGPI – 4 juillet 2018
 
     Emmanuelle Larroque, CEO de Social Builder et membre du jury résume les défis&nbsp;: «&nbsp;Faire partie du jury EIG est une chance et un défi&nbsp;: la chance d’accélérer des projets puissants au service de toutes et tous, le défi de choisir entre des thématiques plus nécessaires les unes que les autres. Pour cette édition, nous avons souhaité accompagner des sujets aussi sensibles que le contrôle des navires professionnels, la cartographie de l’agriculture biologique, l’indemnisation des préjudices corporels, l’aide aux réfugiés ou encore la lutte contre les comportements financiers illicites. Prochaine étape&nbsp;: identifier des personnes ressources pour accompagner la concrétisation des défis&nbsp;!&nbsp;»
 
-Et après&nbsp;? Ouverture d’un appel à candidatures à la rentrée
+Et après ? Ouverture d’un appel à candidatures à la rentrée
 
-Afin de relever ces défis, l’équipe EIG prépare d’ores et déjà la suite&nbsp;:
+Afin de relever ces défis, l’équipe EIG prépare d’ores et déjà la suite :
 
-* Préparation, conjointement avec les administrations lauréates (désormais mentors&nbsp;!), des fiches de postes des futurs entrepreneurs d’intérêt général et cadrage méthodologique des défis&nbsp;;
+* Préparation, conjointement avec les administrations lauréates (désormais mentors !), des fiches de postes des futurs entrepreneurs d’intérêt général et cadrage méthodologique des défis ;
+
 * Lancement d’un appel à candidatures mi-septembre : en vue de sélectionner les équipes qui relèveront les défis. Au total, 32 entrepreneurs d’intérêt général se répartissant selon les compétences suivantes : développement (11 EIG), datascience (14 EIG) et design (7 EIG) ;
+
 * Réunion du jury EIG3 et des mentors opérationnels pour auditionner les candidats au cours du mois de novembre ;
+
 * Conventionnement des ministères avec la Caisse des dépôts et consignations  en vue du versement PIA finançant le recrutement des EIG (70% maximum apporté par le PIA) ;
+
 * Intégration des 32 EIG dans leurs administrations d’accueil en janvier 2019.
 
 Informations et contact :
