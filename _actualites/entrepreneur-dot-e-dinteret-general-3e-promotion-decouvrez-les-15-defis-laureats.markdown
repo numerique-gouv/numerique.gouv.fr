@@ -18,17 +18,18 @@ En tant qu’acteurs reconnus de la communauté numérique d’intérêt génér
 Mathieu Nebra, membre du jury et co-fondateur d’Openclassrooms a particulièrement remarqué la qualité des défis proposés et la maturité des administrations qui témoignent « d’une vraie envie de faire des choses qui ont de l’impact, plus de transparence et d’efficacité ; on sent que les administrations sont engagées en ce sens et cela envoie un signal fort. »
 
 Salle d’accueil du SGPI – Les membres de l’administration attendent d’être auditionnés par le jury – 4 juillet 2018
-Sélection finale – 15 défis d’intérêt général représentant un large spectre de politiques publiques : confiance sur Internet, accès au droit, accueil des réfugiés, inclusion sociale, lutte contre la fraude, santé, justice, agriculture biologique
+
+## Sélection finale – 15 défis d’intérêt général représentant un large spectre de politiques publiques : confiance sur Internet, accès au droit, accueil des réfugiés, inclusion sociale, lutte contre la fraude, santé, justice, agriculture biologique
 
 Sur les 22 défis auditionnés, 15 défis ont été retenus, en incluant le défi « EIG Link », initié dans la promotion 2, afin d’inclure un coaching technique et méthodologique à la promotion et de valoriser les réalisations des EIG.
 
-Améliorer la confiance des consommateurs en détectant des faux avis sur Internet : la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) souhaite développer des nouvelles méthodes de text mining, d’analyse de données et de comportements pour aider les enquêteurs de sa direction à mieux détecter et qualifier des faux avis sur les plateformes de consommation en ligne.
+* Améliorer la confiance des consommateurs en détectant des faux avis sur Internet : la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) souhaite développer des nouvelles méthodes de text mining, d’analyse de données et de comportements pour aider les enquêteurs de sa direction à mieux détecter et qualifier des faux avis sur les plateformes de consommation en ligne.
 
-Lutter contre les comportements financiers illicites en construisant des réseaux de connaissance : le ministère de l’Action et des Comptes publics souhaite consolider dans son SI des briques logicielles autour de la fouille de textes, le traitement en langage naturel et la visualisation de réseaux afin de mieux lutter contre la fraude et le blanchiment d’argent.
+* Lutter contre les comportements financiers illicites en construisant des réseaux de connaissance : le ministère de l’Action et des Comptes publics souhaite consolider dans son SI des briques logicielles autour de la fouille de textes, le traitement en langage naturel et la visualisation de réseaux afin de mieux lutter contre la fraude et le blanchiment d’argent.
 
-Rendre le droit du travail lisible et accessible en mobilisant l’intelligence artificielle : la Direction générale du Travail (DGT) souhaite rendre le droit du travail accessible grâce à de l’analyse sémantique, l’exploration de solutions d’IA, et le développement de services et API pour une diversité d’utilisateurs concernés par le droit du travail (agents publics, syndicats, associations, entreprises, RH, etc.).
+* Rendre le droit du travail lisible et accessible en mobilisant l’intelligence artificielle : la Direction générale du Travail (DGT) souhaite rendre le droit du travail accessible grâce à de l’analyse sémantique, l’exploration de solutions d’IA, et le développement de services et API pour une diversité d’utilisateurs concernés par le droit du travail (agents publics, syndicats, associations, entreprises, RH, etc.).
 
-Évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous : la Direction interministérielle et du système d’information et de communication de l’Etat (DINSIC) souhaite développer, notamment pour le Parlement et la société civile, une application permettant d’évaluer, de façon simple et rapide, l’impact de réformes socio-fiscales, à partir de données financières et budgétaires et de règles socio-fiscales traduites en code informatique.
+* Évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous : la Direction interministérielle et du système d’information et de communication de l’Etat (DINSIC) souhaite développer, notamment pour le Parlement et la société civile, une application permettant d’évaluer, de façon simple et rapide, l’impact de réformes socio-fiscales, à partir de données financières et budgétaires et de règles socio-fiscales traduites en code informatique.
 
 * Aider les réfugiés dans leurs démarches en créant une plateforme d’information adaptée à la diversité culturelle (Agi’R) : la Délégation interministérielle pour l’accueil et l’intégration des réfugiés (DIAIR) souhaite développer une plateforme multilingue afin de diffuser des informations pertinentes pour aider les réfugiés dans leurs démarches. L’enjeu sera de proposer une expérience utilisateur adaptée, du contenu multilingue et des services en lien avec un réseau d’acteurs (associations, administrations, collectivités) déjà engagés sur ces sujets.
 
@@ -64,13 +65,16 @@ A la rentrée, vous aurez accès à des descriptifs plus complets de chacun des 
 
 * la technicité de certains défis, notamment ceux mobilisant des techniques de datascience et d’intelligence artificielle a interpellé positivement les membres du jury. Le jury a d’ailleurs recommandé d’accompagner les défis sur les plans juridique et éthique, en constituant par exemple un réseau de chercheurs et de membres de la société civile.
 
-Pour Laure Lucchesi, directrice d’Etalab et membre du jury : « Toutes les administrations, qu’elles fassent partie du programme EIG ou pas, vont bénéficier des défis sélectionnés. Les solutions techniques qui seront développées pourront être réutilisées et intégrées dans des briques technologiques à vocation interministérielle. »
+« Toutes les administrations, qu’elles fassent partie du programme EIG ou pas, vont bénéficier des défis sélectionnés. Les solutions techniques qui seront développées pourront être réutilisées et intégrées dans des briques technologiques à vocation interministérielle. »
+Pour Laure Lucchesi, directrice d’Etalab et membre du jury
 
 Délibérations du jury – SGPI – 4 juillet 2018
 
-    Emmanuelle Larroque, CEO de Social Builder et membre du jury résume les défis&nbsp;: «&nbsp;Faire partie du jury EIG est une chance et un défi&nbsp;: la chance d’accélérer des projets puissants au service de toutes et tous, le défi de choisir entre des thématiques plus nécessaires les unes que les autres. Pour cette édition, nous avons souhaité accompagner des sujets aussi sensibles que le contrôle des navires professionnels, la cartographie de l’agriculture biologique, l’indemnisation des préjudices corporels, l’aide aux réfugiés ou encore la lutte contre les comportements financiers illicites. Prochaine étape&nbsp;: identifier des personnes ressources pour accompagner la concrétisation des défis&nbsp;!&nbsp;»
+«&nbsp;Faire partie du jury EIG est une chance et un défi&nbsp;: la chance d’accélérer des projets puissants au service de toutes et tous, le défi de choisir entre des thématiques plus nécessaires les unes que les autres. Pour cette édition, nous avons souhaité accompagner des sujets aussi sensibles que le contrôle des navires professionnels, la cartographie de l’agriculture biologique, l’indemnisation des préjudices corporels, l’aide aux réfugiés ou encore la lutte contre les comportements financiers illicites. Prochaine étape&nbsp;: identifier des personnes ressources pour accompagner la concrétisation des défis&nbsp;!&nbsp;»
+Emmanuelle Larroque, CEO de Social Builder et membre du jury
 
-Et après ? Ouverture d’un appel à candidatures à la rentrée
+
+## Et après ? Ouverture d’un appel à candidatures à la rentrée
 
 Afin de relever ces défis, l’équipe EIG prépare d’ores et déjà la suite :
 
@@ -84,6 +88,8 @@ Afin de relever ces défis, l’équipe EIG prépare d’ores et déjà la suite
 
 * Intégration des 32 EIG dans leurs administrations d’accueil en janvier 2019.
 
-Informations et contact :
+** Informations et contact : **
+
 * [le site officiel des Entrepreneur.e d'Intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr){:target="_blank"}
+
 * [entrepreneur-interet-general@data.gouv.fr](entrepreneur-interet-general@data.gouv.fr){:mailto="entrepreneur-interet-general@data.gouv.fr"}
