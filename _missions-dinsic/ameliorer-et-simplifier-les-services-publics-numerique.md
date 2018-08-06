@@ -1,6 +1,7 @@
 ---
 title: Améliorer et simplifier les services publics numériques
 ordre: 1
+icon: Ameliorer_et_simplifier_les_services_publics_numeriques.svg
 encadre:
   titre: FranceConnect Identité
   contenu: 'Avec FranceConnect Identité, plus besoin de retenir autant de mots de

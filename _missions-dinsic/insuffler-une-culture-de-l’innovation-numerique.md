@@ -1,6 +1,7 @@
 ---
 title: Insuffler une culture de l’innovation numérique
 ordre: 4
+icon: Insuffler_une_culture_de_linnovation_numerique.svg
 encadre:
   titre: Le programme Entrepreneur d’Intérêt Général
   contenu: '10 mois, un défi à relever : le programme d’innovation ouverte Entrepreneur

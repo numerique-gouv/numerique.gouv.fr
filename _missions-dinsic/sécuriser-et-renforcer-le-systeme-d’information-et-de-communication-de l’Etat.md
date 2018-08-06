@@ -1,6 +1,7 @@
 ---
 title: Sécuriser et renforcer le système d’information et de communication de l’État
 ordre: 5
+icon: Securiser_et_renforcer_le_systeme_dinformation_et_de_communication_de_letat.svg
 encadre:
   titre: Le réseau interministériel de l’État (RIE)
   contenu: 'Auparavant, les ministères disposaient de réseaux distincts, une quinzaine
