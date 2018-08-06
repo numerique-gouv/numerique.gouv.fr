@@ -15,13 +15,13 @@ encadre:
   - titre: d'utilisateurs
     valeur: 5 millions
     icon:
-      titre: icon utilisateur
-      path: "/assets/img/pictogrammes/utilisateur.png"
+      titre: icon agents
+      path: "agents.svg"
   - titre: services accessibles via FranceConnect Identité
     valeur: 345
     icon:
-      titre: icon aides
-      path: "/assets/img/pictogrammes/Aides.png"
+      titre: icon services accessibles
+      path: "services_accessibles.svg"
 ---
 
 Simplicité, efficacité, accompagnement, accessibilité pour tous…

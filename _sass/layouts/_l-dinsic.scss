@@ -7,7 +7,14 @@
     height: 30vh;
   }
   #titre-dinsic-page {
-    padding: 2rem 5rem;
+    padding: 5rem 5rem;
+    .chapeau {
+      text-align: center;
+      padding: 1rem 2rem;
+      line-height: 1.6rem;
+      font-family: "Times New Roman";
+      padding-bottom: 5rem;
+    }
   }
 }
 
@@ -25,12 +32,16 @@
 
 .arrow-container {
   position: absolute;
-  right: 10rem;
-}
-
-.arrow {
-  font-size: 15%;
-  color: $bleue;
+  right: 12%;
+  a {
+    width: 6rem;
+    height: 6rem;
+    background-color: $white;
+    border-radius: 50%;
+  }
+  img {
+    padding: 1rem;
+  }
 }
 
 .titre-section {
@@ -48,11 +59,13 @@
     line-height: 1rem;
   }
   button {
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
     border: $dark-gray solid 1px;
     padding: 0.3rem 3rem;
     font-size: smaller;
     border-radius:1rem 1rem;
-    margin: auto;
     text-align: center;
     &:hover {
       cursor: pointer;
@@ -62,7 +75,7 @@
   }
 }
 .mission {
-  padding: 2rem 5rem;
+  padding: 2rem 5rem 4rem 5rem;
   @include breakpoint(medium down) {
     padding: 1rem;
   }

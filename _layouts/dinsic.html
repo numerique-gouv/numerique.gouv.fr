@@ -7,11 +7,11 @@ layout: default
     <img id="image-de-tete" class="post__featured-image" src="{{ page.image }}">
   </div>
   <section id="titre-dinsic-page" class="cell white-container" >
-    <h2 class="text-center">{{ page.sous-titre }}</h2>
-    <p class="lead text-center padding-bottom-2 times-new-roman">
+    <h2 class="text-center font-bold">{{ page.sous-titre }}</h2>
+    <p class="lead chapeau">
       {{ page.chapeau }}
     </p>
-    <h3>
+    <h3 class="font-bold">
       La DINSIC en bref ...
     </h3>
     <div>
@@ -20,7 +20,7 @@ layout: default
   </section>
 
   <section id="nos-missions" class="cell white-container padding-horizontal-1 padding-bottom-3">
-    <h3 class="text-center">Nos 5 missions</h3>
+    <h3 class="text-center font-bold">Nos 5 missions</h3>
     <div data-smooth-scroll class="grid-x grid-margin-x align-center">
       {% for mission in missions-ordered %}
       <a href="#mission{{ mission.ordre }}"  class="cell titre-section grid-y medium-6 large-4 ">
@@ -49,13 +49,13 @@ layout: default
             {% for chiffre in mission.encadre.chiffres %}
             <div class="chiffre-encadre medium-auto cell small-12 grid-y align-middle padding-horizontal-1">
               <div class="logo-chiffre-encadre cell grid-x align-middle align-center">
-                <img class="" alt="{{ chiffre.icon.titre }}" src={{ chiffre.icon.path }}>
+                <img class="" alt="{{ chiffre.icon.titre }}" src=/assets/img/pictogrammes/{{ chiffre.icon.path }}>
               </div>
               <div class="cell">
                 <div class="valeur-chiffre-encadre">
                   <p class="margin-0 h4 font-bold text-center"> {{ chiffre.valeur }}</p>
                 </div>
-                <p class="text-center">{{ chiffre.titre }}</p>
+                <p class="text-center over">{{ chiffre.titre }}</p>
               </div>
             </div>
             {% endfor %}
@@ -66,15 +66,15 @@ layout: default
       {% endfor %}
     </div>
     <div class="arrow-container">
-      <div class="right hide-for-small-only" data-sticky-container>
-        <div class="sticky" data-sticky data-top-anchor="missions:top" data-btm-anchor="missions:bottom" data-margin-top="20">
+      <div class="right hide-for-medium-only hide-for-small-only" data-sticky-container>
+        <div class="sticky" data-sticky data-top-anchor="missions:top" data-btm-anchor="missions:bottom" data-margin-top="25">
           <div class="cell grid-y" data-smooth-scroll>
-            <a href="#nos-missions">
-              <i class="fas fa-caret-up arrow"></i>
+            <a class="flex-container" href="#nos-missions">
+              <img class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
             </a>
-            <a href="#next">
-              <i class="fas fa-caret-down arrow"></i>
-            </a>
+            <!-- <a href="#next">
+               <img src="{{base}}/assets/img/pictogrammes/fleche_bas.svg">
+            </a> -->
           </div>
     </div>
         <!-- This sticky element would stick to the window, with a marginTop of 0 -->
