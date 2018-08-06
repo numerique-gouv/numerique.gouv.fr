@@ -12,7 +12,7 @@ encadre:
 
 '
   chiffres:
-  - titre: nombre d'utilisateurs
+  - titre: d'utilisateurs
     valeur: 5 millions
     icon:
       titre: icon utilisateur

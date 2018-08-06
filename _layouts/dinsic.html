@@ -19,7 +19,7 @@ layout: default
     </div>
   </section>
 
-  <section id="nos-missions" class="cell white-container padding-horizontal-1">
+  <section id="nos-missions" class="cell white-container padding-horizontal-1 padding-bottom-3">
     <h3 class="text-center">Nos 5 missions</h3>
     <div data-smooth-scroll class="grid-x grid-margin-x align-center">
       {% for mission in missions-ordered %}
@@ -34,30 +34,29 @@ layout: default
   <div class="cell grid-x">
     <div id="missions" class="cell white-container">
       {% for mission in missions-ordered %}
-      <section id="mission{{ mission.ordre }}" class="default-text-padding">
+      <section id="mission{{ mission.ordre }}" class="mission">
         <h3 class="font-bold">{{ mission.title }}</h3>
         {{ mission.content}}
         {% if mission.encadre %}
         <div class="encadre-dinsic margin-vertical-2">
-          <div class="media-object">
-            <div class="media-object-section">
-              <img src="/assets/img/pictogrammes/Zoom.png">
-            </div>
-            <div class="media-object-section align-self-bottom">
-              <h4 class="font-bold">{{ mission.encadre.titre }}</h4>
-            </div>
+          <hr>
+          <div class="display-inline">
+            <i class="fas fa-search icon-loupe"></i>
+            <h4 class="font-bold display-inline-block">{{ mission.encadre.titre }}</h4>
           </div>
           <p>{{ mission.encadre.contenu }}</p>
-          <div id="chiffres-encadre" class="grid-x grid-margin-x margin-top-2">
+          <div class="chiffres-encadre grid-x grid-margin-x margin-top-2">
             {% for chiffre in mission.encadre.chiffres %}
-            <div class="chiffre-encadre medium-auto cell small-12 grid-y align-middle">
-              <div class="logo-chiffre-encadre grid-x align-middle align-center">
+            <div class="chiffre-encadre medium-auto cell small-12 grid-y align-middle padding-horizontal-1">
+              <div class="logo-chiffre-encadre cell grid-x align-middle align-center">
                 <img class="" alt="{{ chiffre.icon.titre }}" src={{ chiffre.icon.path }}>
               </div>
-              <div class="valeur-chiffre-encadre padding-top-1">
-                <p class="margin-0 h4 font-bold text-uppercase large-text-justify"> {{ chiffre.valeur }}</p>
+              <div class="cell">
+                <div class="valeur-chiffre-encadre">
+                  <p class="margin-0 h4 font-bold text-center"> {{ chiffre.valeur }}</p>
+                </div>
+                <p class="text-center">{{ chiffre.titre }}</p>
               </div>
-              <p class="text-center">{{ chiffre.titre }}</p>
             </div>
             {% endfor %}
           </div>
