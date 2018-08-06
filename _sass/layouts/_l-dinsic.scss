@@ -75,7 +75,7 @@
   }
 }
 .mission {
-  padding: 2rem 5rem 4rem 5rem;
+  padding: 2rem 5rem 2rem 5rem;
   @include breakpoint(medium down) {
     padding: 1rem;
   }
@@ -85,6 +85,11 @@
   }
   p {
     color: $dark-gray;
+  }
+  .icon-arrow-down {
+    margin: auto;
+    font-size: 3rem;
+    color: $bleue;
   }
 }
 .encadre-dinsic {
