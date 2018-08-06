@@ -85,6 +85,5 @@ Afin de relever ces défis, l’équipe EIG prépare d’ores et déjà la suite
 * Intégration des 32 EIG dans leurs administrations d’accueil en janvier 2019.
 
 Informations et contact :
-
-    https://entrepreneur-interet-general.etalab.gouv.fr
-    entrepreneur-interet-general@data.gouv.fr
+* [le site officiel des Entrepreneur.e d'Intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr){:target="_blank"}
+* [entrepreneur-interet-general@data.gouv.fr](entrepreneur-interet-general@data.gouv.fr){:mailto="entrepreneur-interet-general@data.gouv.fr"}
