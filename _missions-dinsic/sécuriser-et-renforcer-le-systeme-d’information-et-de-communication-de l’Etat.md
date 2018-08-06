@@ -16,12 +16,12 @@ encadre:
     valeur: 13 000
     icon:
       titre: icon site racordés
-      path: "site_raccorde.svg"
+      path: site_raccorde.svg
   - titre: dd’agents utilisateurs issus de <b>18 ministères</b> et administrations
     valeur: "+ d’1 million"
     icon:
       titre: icon agents
-      path: "agents.svg"
+      path: agents.svg
 ---
 
 Avant lancement et tout au long de sa vie, nous suivons chaque grand

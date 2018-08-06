@@ -16,12 +16,12 @@ encadre:
     valeur: 5 millions
     icon:
       titre: icon agents
-      path: "agents.svg"
+      path: agents.svg
   - titre: services accessibles via FranceConnect Identité
     valeur: 345
     icon:
       titre: icon services accessibles
-      path: "services_accessibles.svg"
+      path: services_accessibles.svg
 ---
 
 Simplicité, efficacité, accompagnement, accessibilité pour tous…
