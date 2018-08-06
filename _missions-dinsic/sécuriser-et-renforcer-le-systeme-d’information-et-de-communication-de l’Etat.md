@@ -1,6 +1,7 @@
 ---
 title: Sécuriser et renforcer le système d’information et de communication de l’État
 ordre: 5
+icon: Securiser_et_renforcer_le_systeme_dinformation_et_de_communication_de_letat.svg
 encadre:
   titre: Le réseau interministériel de l’État (RIE)
   contenu: 'Auparavant, les ministères disposaient de réseaux distincts, une quinzaine
@@ -14,13 +15,13 @@ encadre:
   - titre: sites raccordés par le RIE
     valeur: 13 000
     icon:
-      titre: icon simulation
-      path: "/assets/img/pictogrammes/Simulations.png"
+      titre: icon site racordés
+      path: "site_raccorde.svg"
   - titre: dd’agents utilisateurs issus de <b>18 ministères</b> et administrations
     valeur: "+ d’1 million"
     icon:
-      titre: icon utilisateur
-      path: "/assets/img/pictogrammes/utilisateur.png"
+      titre: icon agents
+      path: "agents.svg"
 ---
 
 Avant lancement et tout au long de sa vie, nous suivons chaque grand

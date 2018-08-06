@@ -34,12 +34,11 @@
     {% if page.title != "Rechercher" %}
     <div class="top-bar-right">
       <form action="/rechercher" class="search-form" method="get">
-        <ul class="menu">
-            <li><input type="text" name="query" placeholder="Rechercher"></li>
-            <li><button type="submit button" class="button">
-              <img src="{{base}}/assets/img/pictogrammes/Zoom.png"></button>
-            </li>
-        </ul>
+        <div class="grid-x">
+            <input class="cell small-8 margin-0" aria-label="Ma recherche" type="text" name="query" placeholder="Rechercher">
+            <button class="cell small-4 margin-0" aria-label="Rechercher" type="submit button" >
+              <i class="fas fa-search icon-recherche"></i></button>
+        </div>
       </form>
     </div>
     {% endif %}

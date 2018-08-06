@@ -1,6 +1,7 @@
 ---
 title: Améliorer et simplifier les services publics numériques
-order: 1
+ordre: 1
+icon: Ameliorer_et_simplifier_les_services_publics_numeriques.svg
 encadre:
   titre: FranceConnect Identité
   contenu: 'Avec FranceConnect Identité, plus besoin de retenir autant de mots de
@@ -11,16 +12,16 @@ encadre:
 
 '
   chiffres:
-  - titre: nombre d'utilisateurs
+  - titre: d'utilisateurs
     valeur: 5 millions
     icon:
-      titre: icon utilisateur
-      path: "/assets/img/pictogrammes/utilisateur.png"
+      titre: icon agents
+      path: "agents.svg"
   - titre: services accessibles via FranceConnect Identité
     valeur: 345
     icon:
-      titre: icon aides
-      path: "/assets/img/pictogrammes/Aides.png"
+      titre: icon services accessibles
+      path: "services_accessibles.svg"
 ---
 
 Simplicité, efficacité, accompagnement, accessibilité pour tous…

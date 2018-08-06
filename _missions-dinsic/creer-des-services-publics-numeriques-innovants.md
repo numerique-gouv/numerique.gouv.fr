@@ -1,6 +1,7 @@
 ---
 title: Créer des services publics numériques innovants
 ordre: 3
+icon: Creer_des_services_publics_numeriques_innovants.svg
 encadre:
   titre: Mes-aides.gouv.fr
   contenu: 'Tout est parti d’un constat : beaucoup de Français ne recourent pas à
@@ -13,13 +14,18 @@ encadre:
   - titre: aides sociales simulées
     valeur: 27
     icon:
-      titre: icon aides
-      path: "/assets/img/pictogrammes/Aides.png"
+      titre: icon aides sociales
+      path: "aides_sociales.svg"
   - titre: simulations par jour
     valeur: 6 000
     icon:
       titre: icon simulation
-      path: "/assets/img/pictogrammes/Simulations.png"
+      path: "simulation.svg"
+  - titre: utilisateurs par mois
+    valeur: 500 000
+    icon:
+      titre: icon agents
+      path: "agents.svg"
 ---
 
 Oui, l’État aussi sait créer des services innovants en quelques
