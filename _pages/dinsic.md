@@ -4,7 +4,7 @@ permalink: "/dinsic/"
 position: 5
 sous-titre: Grâce au numérique, nous créons le service public de demain
 chapeau: La DINSIC est un service du Premier ministre en charge de la transformation
-  numérique de l'État.
+  numérique de l'État, au bénéfice des citoyens et des agents.
 image: "/assets/img/main/bureau-cnil.jpg"
 layout: dinsic
 ---
