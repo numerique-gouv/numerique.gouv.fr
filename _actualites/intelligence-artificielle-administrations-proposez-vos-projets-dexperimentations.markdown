@@ -7,6 +7,11 @@ chapeau-text: La DINSIC et la DITP lancent un appel à manifestation d’intér�
   seront accompagnées par la DITP et la DINSIC sur une durée de 10 mois à partir de
   novembre 2018 pour développer un prototype fonctionnel et accompagner la transformation
   métier associée.
+une-ou-diaporama:
+- image: "/uploads/AMI-IA-une.jpg"
+  alternative-textuelle: 'Intelligence artificielle : Administrations, proposez vos
+    projets d''expérimentation dans les services publics !'
+auteur: Depuis Etalab.gouv.fr
 ---
 
 L’intelligence artificielle, ses potentialités et ses risques interrogent la société dans son ensemble. Comme l’a souligné le Président de la République à l’occasion de la remise du rapport de la mission Villani, Donner un sens à l’intelligence artificielle, l’Etat doit pleinement se saisir de cette question. Il doit être en mesure d’intégrer l’intelligence artificielle pour la conduite des politiques publiques et de ses missions. « L’Etat doit se positionner, pour ses propres besoins, comme premier utilisateur et acheteur de technologies d’IA » affirme le député et mathématicien Cédric Villani.
