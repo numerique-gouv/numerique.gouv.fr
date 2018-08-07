@@ -28,7 +28,7 @@ defaults:
     type: actualites
   values:
     layout: post
-    chapeau-md:
+    chapeau-text:
     une-ou-diaporama:
       - image:
         legende:
