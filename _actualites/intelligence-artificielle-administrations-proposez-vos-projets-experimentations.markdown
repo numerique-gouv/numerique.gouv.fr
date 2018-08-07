@@ -12,7 +12,7 @@ une-ou-diaporama:
 auteur: Depuis Etalab.gouv.fr
 ---
 
-L’intelligence artificielle, ses potentialités et ses risques interrogent la société dans son ensemble. Comme l’a souligné le Président de la République à l’occasion de la remise du rapport de la mission Villani, Donner un sens à l’intelligence artificielle, l’État doit pleinement se saisir de cette question. Il doit être en mesure d’intégrer l’intelligence artificielle pour la conduite des politiques publiques et de ses missions. « L’État doit se positionner, pour ses propres besoins, comme premier utilisateur et acheteur de technologies d’IA », affirme le député et mathématicien Cédric Villani.
+L’intelligence artificielle, ses potentialités et ses risques interrogent la société dans son ensemble. Comme l’a souligné le Président de la République à l’occasion de la remise du rapport de la mission Villani, [Donner un sens à l’intelligence artificielle](https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf), l’État doit pleinement se saisir de cette question. Il doit être en mesure d’intégrer l’intelligence artificielle pour la conduite des politiques publiques et de ses missions. « L’État doit se positionner, pour ses propres besoins, comme premier utilisateur et acheteur de technologies d’IA », affirme le député et mathématicien Cédric Villani.
 
 Classification automatique d’images, reconnaissance d’entités nommées dans des textes, extraction automatique d’informations à partir de données non structurées, les technologies d’IA peuvent avoir un impact important sur l’action publique.
 
@@ -25,7 +25,7 @@ Pour initier ce mouvement, la DINSIC et la direction interministérielle de la t
 
 > Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’intelligence artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir aux citoyens un service public plus performant et proche de leurs besoins.
 > {:citation}
-> &#8213;Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du numérique
+> Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du numérique
 > {:citation-auteur}
 
 L’enjeu est à la fois d’expérimenter concrètement une technologie d’IA pour répondre à un besoin métier précis, et plus largement d'engager une réflexion sur l’impact potentiel de ces technologies sur la transformation du métier.
