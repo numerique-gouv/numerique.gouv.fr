@@ -82,6 +82,66 @@
   list-style: none;
 }
 
-.times-new-roman {
-  font-family: "Times New Roman";
+
+.chapeau {
+  font-size: larger;
+  border-left: none;
+  text-align: center;
+  font-family: "Times New Roman", sans-serif;
+  color: black;
+}
+.date {
+  color: $dark-gray;
+}
+.citation {
+  border-left: none;
+  width: 100%;
+  padding: 3rem 4rem 0rem 4rem;
+  position: relative;
+  margin-bottom: 1rem;
+  &::before, &::after {
+    top: 0;
+    bottom: 0;
+    width: 25px;
+    content: '';
+    position: absolute;
+  }
+  &::before {
+    right: 100%;
+  }
+  &::after {
+    left: 100%;
+  }
+  p {
+    margin: 0;
+    &::before {
+      top: 0;
+      left: 1rem;
+      color: $dark-gray;
+      content: '“';
+      font-size: 6rem;
+      position: absolute;
+      font-family: 'IM Fell French Canon SC', serif;
+    }
+    &::after {
+      bottom: -6rem;
+      right: 1rem;
+      color: $dark-gray;
+      content: '”';
+      font-size: 6rem;
+      position: absolute;
+      font-family: 'IM Fell French Canon SC', serif;
+    }
+  }
+}
+.auteur-citation {
+  border-left: none;
+  width: 100%;
+  padding: 0rem 4rem 3rem 4rem;
+  position: relative;
+  margin-bottom: 2rem;
+}
+.encadre {
+  color: $black;
+  border: 1px solid $black;
 }

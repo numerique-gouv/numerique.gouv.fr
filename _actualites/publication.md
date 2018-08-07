@@ -3,7 +3,7 @@ title: Publication
 date: 2018-06-24 00:00:00 +02:00
 tags:
 - une
-chapeau-md: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
+chapeau-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
   vel nunc a lacus semper suscipit a id massa. Etiam vel nulla augue. Vestibulum ante
   ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam mattis
   odio orci, non aliquam ipsum pretium eu. Nulla scelerisque vel neque vitae consequat.

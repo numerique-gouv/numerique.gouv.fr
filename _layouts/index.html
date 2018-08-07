@@ -28,7 +28,7 @@ layout: default
         <li class="cell large-4 medium-12 small-12">
           <a href="{{ actualite.url}}" class="card height-100">
             <div class="card-image post__image-container index-image-container">
-              <img class="post__featured-image" alt="image principale de {{ actualite.title }}" src="{{actualite.image-mise-en-avant}}">
+              <img class="post__featured-image" alt="{{ actualite.une-ou-diaporama[0].alternative-textuelle }}" src="{{ actualite.une-ou-diaporama[0].image }}">
             </div>
             <div class="card-section padding-1">
               <h3 class="font-bold">{{ actualite.title }}</h3>

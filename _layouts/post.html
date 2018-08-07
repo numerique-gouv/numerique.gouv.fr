@@ -4,15 +4,19 @@ layout: default
 
 <main class="post">
   <article>
-    {% if page.image-mise-en-avant %}
+    {% if page.une-ou-diaporama.size == 1 %}
     <div class="post__image-container">
-      <img class="post__featured-image image-en-tete" src="{{base}}/{{ page.image-mise-en-avant }}">
+      <img class="post__featured-image image-en-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ page.une-ou-diaporama[0].image }}">
     </div>
     {% endif %}
     <div id="content-article" class="margin-2">
-      <p class="meta text-center date ">{% include date.html date=page.date %}</p>
       <h1 class="text-center">{{ page.title }}</h1>
-      <hr>
+      {% if page.chapeau-text %}
+      <p class="chapeau">
+        {{page.chapeau-text}}
+      </p>
+      {% endif %}
+      <p class="meta text-center date ">{% include date.html date=page.date %}</p>
       <p class="post-content">
         {{ content }}
       </p>
