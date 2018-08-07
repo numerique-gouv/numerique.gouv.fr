@@ -140,6 +140,12 @@
   padding: 0rem 4rem 3rem 4rem;
   position: relative;
   margin-bottom: 2rem;
+  &::before {
+    content: '\002015';
+    width: 1.5rem;
+    display: block;
+    float: left;
+  }
 }
 .encadre {
   color: $black;
