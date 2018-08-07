@@ -1,12 +1,12 @@
 ---
 title: 'Entrepreneur.e d’intérêt général, 3e promotion : découvrez les 15 défis lauréats'
 date: 2018-08-06 11:12:00 +02:00
-une-ou-diaporama:
-- image: "/uploads/EIG3_jury_projets.jpg"
-  alternative-textuelle: bureau vide
 chapeau-text: |-
   Le 4 juillet 2018, un jury composé de membres de l’administration et de la société civile s’est réuni afin de sélectionner les défis auxquels s’attaquera en 2019 la 3e promotion des entrepreneurs d’intérêt général. A l’issue d’une journée d’auditions et de délibérations, 15 défis ont été retenus. Le jury a fait le choix de sélectionner des défis qui allient impact pour la société et les usagers, amélioration de la gouvernance des données, et construction d’outils ouverts et diffusables.
   A la rentrée, un appel à candidatures sera lancé afin de sélectionner les 32 entrepreneurs d’intérêt général qui relèveront ces 15 défis par équipe de 2 ou 3, à partir de janvier 2019 !
+une-ou-diaporama:
+- image: "/uploads/EIG3_jury_projets.jpg"
+  alternative-textuelle: bureau vide
 ---
 
 *Créé en octobre 2016, le programme « Entrepreneur d’Intérêt Général » (EIG) vise à accélérer la transition numérique de l’État en recrutant des innovateurs aux expertises numériques variées (développement, design, science des données, agilité) pour travailler sur des défis d’amélioration du service public proposés par les administrations. Ce dispositif fait partie du Programme d’investissements d’avenir (PIA) piloté par le Secrétariat général pour l’investissement (SGPI).*
@@ -16,6 +16,19 @@ chapeau-text: |-
 Le 4 juillet 2018, les administrations candidates au programme Entrepreneur.e d’intérêt général (EIG) et présélectionnées par les équipes de la DINSIC ont été invitées à présenter leurs défis d’intérêt général devant un jury composé de personnalités du numérique et d’agents publics (voir sa composition ici). L’objectif : en 20 minutes et sous forme de « pitch », convaincre des personnalités aux profils variés (administration, recherche, entrepreneuriat, société civile) que son projet est techniquement intéressant et qu’il a le potentiel d’améliorer le quotidien de ses futurs utilisateurs.
 
 En tant qu’acteurs reconnus de la communauté numérique d’intérêt général, les membres du jury ont pu mettre à profit leurs diverses expertises pour évaluer la capacité des porteurs de défi à accueillir des EIG dans les meilleurs conditions, adapter leur feuille de route, et surtout à faire partie d’un collectif d’innovateurs publics qui partage des méthodes, des outils et devient pionnier de l’ouverture des données et des codes sources.
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" height="90" style="border: 0px none !important;"><tbody style="border-top: 0;"><tr height="107"><td height="90" width="20"> </td>
+<td height="90" style="border-top:1px solid #5196d7;border-bottom:1px solid #5196d7;text-align:center;font-size:13px;font-family:Arial;color:#6C5050;" width="106"><span style="font-size:44px;color:#5196D6;">56</span><br />projets SI suivis</td>
+<td height="90" width="50"> </td>
+<td height="90" style="border-top:1px solid #fc7a26;border-bottom:1px solid #fc7a26;text-align:center;font-size:13px;font-family:Arial;color:#6C5050;" width="106">dont <span style="font-size:44px;color:#FD7A26;">20</span><br />projets interministériels</td>
+<td height="90" width="50"> </td>
+<td height="90" style="border-top:1px solid #1E4792;border-bottom:1px solid #1E4792;text-align:center;font-size:13px;font-family:Arial;color:#6C5050;" width="106"><span style="font-size:44px;color:#1E4792;">6,6</span><br />ans de durée moyenne</td>
+<td height="90" width="50"> </td>
+<td height="90" style="border-top:1px solid #83187A;border-bottom:1px solid #83187A;text-align:center;font-size:13px;font-family:Arial;color:#6C5050;" width="106"><span style="font-size:44px;color:#83187A;">2,55</span><br />milliards d'euros engagés</td>
+<td height="90" width=""> </td>
+</tr>
+</tbody>
+</table>
 
 Mathieu Nebra, membre du jury et co-fondateur d’Openclassrooms a particulièrement remarqué la qualité des défis proposés et la maturité des administrations qui témoignent « d’une vraie envie de faire des choses qui ont de l’impact, plus de transparence et d’efficacité ; on sent que les administrations sont engagées en ce sens et cela envoie un signal fort. »
 
