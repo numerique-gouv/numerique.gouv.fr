@@ -21,7 +21,7 @@ encadre:
     valeur: "+ d’1 million"
     icon:
       titre: icon agents
-      path: "agents.svg"
+      path: agents.svg
 ---
 
 Avant lancement et tout au long de sa vie, nous suivons chaque grand
