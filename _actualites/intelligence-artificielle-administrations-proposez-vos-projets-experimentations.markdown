@@ -23,16 +23,15 @@ Classification automatique d’images, reconnaissance d’entités nommées dans
 
 Pour initier ce mouvement, la DINSIC et la direction interministérielle de la transformation publique (DITP) lancent un appel à manifestation d’intérêt pour expérimenter l’usage des technologies d’intelligence artificielle dans les administrations. Les lauréats bénéficieront d’un accompagnement d’une durée de 10 mois sur les aspects techniques et organisationnels.
 
-> Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’intelligence artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir aux citoyens un service public plus performant et proche de leurs besoins. »
+> Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’intelligence artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir aux citoyens un service public plus performant et proche de leurs besoins.
 > {:citation}
-> &#8213;Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du numérique.
+> &#8213;Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du numérique
 > {:citation-auteur}
 
 L’enjeu est à la fois d’expérimenter concrètement une technologie d’IA pour répondre à un besoin métier précis, et plus largement d'engager une réflexion sur l’impact potentiel de ces technologies sur la transformation du métier.
 
 Afin de s’assurer de la maîtrise des risques spécifiques à l’intelligence artificielle (biais des données d’apprentissage, exigence d’explicabilité des décisions individuelles…) une attention particulière sera apportée à la prise en compte de la dimension éthique dans les projets candidats.
 
-Une réunion d’information à destination des administrations aura lieu le 27 juin 2018 à 10h au 20, avenue de Ségur.
 
 **Inscrivez vous à la réunion d’information**
 
