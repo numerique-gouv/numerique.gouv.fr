@@ -27,8 +27,11 @@ defaults:
     type: actualites
   values:
     layout: post
-    une-images:
     chapeau-md:
+    une-ou-diaporama-type-image:
+      image:
+      legende:
+      alt:
     permalink: "/actualites/:title/"
 - scope:
     path: ''
