@@ -26,7 +26,7 @@ Pour initier ce mouvement, la DINSIC et la direction interministérielle de la t
 >Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’intelligence artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir aux citoyens un service public plus performant et proche de leurs besoins. » 
 {: .citation}
 >Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du numérique.
-{: .citation-auteur}
+{: .auteur-citation}
 
 L’enjeu est à la fois d’expérimenter concrètement une technologie d’IA pour répondre à un besoin métier précis, et plus largement d'engager une réflexion sur l’impact potentiel de ces technologies sur la transformation du métier.
 
