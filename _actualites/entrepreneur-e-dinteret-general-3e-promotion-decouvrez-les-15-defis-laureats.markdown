@@ -1,21 +1,13 @@
 ---
 title: 'Entrepreneur.e d’intérêt général, 3e promotion : découvrez les 15 défis lauréats'
 date: 2018-08-06 11:12:00 +02:00
-une-ou-diaporama:
-- image: "/uploads/EIG3_jury_projets.jpg"
-  alternative-textuelle: bureau vide
 chapeau-text: |-
   Le 4 juillet 2018, un jury composé de membres de l’administration et de la société civile s’est réuni afin de sélectionner les défis auxquels s’attaquera en 2019 la 3e promotion des entrepreneurs d’intérêt général. A l’issue d’une journée d’auditions et de délibérations, 15 défis ont été retenus. Le jury a fait le choix de sélectionner des défis qui allient impact pour la société et les usagers, amélioration de la gouvernance des données, et construction d’outils ouverts et diffusables.
   A la rentrée, un appel à candidatures sera lancé afin de sélectionner les 32 entrepreneurs d’intérêt général qui relèveront ces 15 défis par équipe de 2 ou 3, à partir de janvier 2019 !
-  
-chiffres:
-  - valeur: 100
-    pict: /picto
-    nom: mon-nom
-
+une-ou-diaporama:
+- image: "/uploads/EIG3_jury_projets.jpg"
+  alternative-textuelle: bureau vide
 ---
-
-{{ include chiffres.html page.test }}
 
 *Créé en octobre 2016, le programme « Entrepreneur d’Intérêt Général » (EIG) vise à accélérer la transition numérique de l’État en recrutant des innovateurs aux expertises numériques variées (développement, design, science des données, agilité) pour travailler sur des défis d’amélioration du service public proposés par les administrations. Ce dispositif fait partie du Programme d’investissements d’avenir (PIA) piloté par le Secrétariat général pour l’investissement (SGPI).*
 
@@ -80,9 +72,8 @@ Pour Laure Lucchesi, directrice d’Etalab et membre du jury
 
 Délibérations du jury – SGPI – 4 juillet 2018
 
-«&nbsp;Faire partie du jury EIG est une chance et un défi&nbsp;: la chance d’accélérer des projets puissants au service de toutes et tous, le défi de choisir entre des thématiques plus nécessaires les unes que les autres. Pour cette édition, nous avons souhaité accompagner des sujets aussi sensibles que le contrôle des navires professionnels, la cartographie de l’agriculture biologique, l’indemnisation des préjudices corporels, l’aide aux réfugiés ou encore la lutte contre les comportements financiers illicites. Prochaine étape&nbsp;: identifier des personnes ressources pour accompagner la concrétisation des défis&nbsp;!&nbsp;»
+« Faire partie du jury EIG est une chance et un défi&nbsp;: la chance d’accélérer des projets puissants au service de toutes et tous, le défi de choisir entre des thématiques plus nécessaires les unes que les autres. Pour cette édition, nous avons souhaité accompagner des sujets aussi sensibles que le contrôle des navires professionnels, la cartographie de l’agriculture biologique, l’indemnisation des préjudices corporels, l’aide aux réfugiés ou encore la lutte contre les comportements financiers illicites. Prochaine étape&nbsp;: identifier des personnes ressources pour accompagner la concrétisation des défis&nbsp;!&nbsp;»
 Emmanuelle Larroque, CEO de Social Builder et membre du jury
-
 
 ## Et après ? Ouverture d’un appel à candidatures à la rentrée
 
