@@ -12,11 +12,11 @@ une-ou-diaporama:
 auteur: Depuis Etalab.gouv.fr
 ---
 
-L’intelligence artificielle, ses potentialités et ses risques interrogent la société dans son ensemble. Comme l’a souligné le Président de la République à l’occasion de la remise du rapport de la mission Villani, Donner un sens à l’intelligence artificielle, l’Etat doit pleinement se saisir de cette question. Il doit être en mesure d’intégrer l’intelligence artificielle pour la conduite des politiques publiques et de ses missions. « L’Etat doit se positionner, pour ses propres besoins, comme premier utilisateur et acheteur de technologies d’IA » affirme le député et mathématicien Cédric Villani.
+L’intelligence artificielle, ses potentialités et ses risques interrogent la société dans son ensemble. Comme l’a souligné le Président de la République à l’occasion de la remise du rapport de la mission Villani, Donner un sens à l’intelligence artificielle, l’Etat doit pleinement se saisir de cette question. Il doit être en mesure d’intégrer l’intelligence artificielle pour la conduite des politiques publiques et de ses missions. « L’Etat doit se positionner, pour ses propres besoins, comme premier utilisateur et acheteur de technologies d’IA », affirme le député et mathématicien Cédric Villani.
 
 Classification automatique d’images, reconnaissance d’entités nommées dans des textes, extraction automatique d’informations à partir de données non structurées, les technologies d’IA peuvent avoir un impact important sur l’action publique.
 
-L’intelligence artificielle déjà utilisée dans l’administration
+## L’intelligence artificielle déjà utilisée dans l’administration
 
 A titre d’exemple, la Caisse nationale d’assurance maladie (CNAM), en collaboration avec le centre de mathématiques appliquées de l’école polytechnique, utilise des algorithmes pour détecter automatiquement les effets secondaires des traitements pharmacologiques en analysant les données du SNIIRAM (dépenses d’assurance maladie). Pôle Emploi, en partenariat avec Etalab et l’incubateur de startups d’État, a développé La Bonne Boîte, un service en ligne qui permet de réaliser des candidatures spontanées ciblées sur les entreprises qui ont une forte probabilité d’embauche.
 
