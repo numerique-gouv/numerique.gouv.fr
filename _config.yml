@@ -24,10 +24,11 @@ collections:
     output: true
 defaults:
 - scope:
-    path: ''
     type: actualites
   values:
     layout: post
+    une-images:
+    chapeau-md:
     permalink: "/actualites/:title/"
 - scope:
     path: ''
