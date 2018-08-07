@@ -17,20 +17,6 @@ Le 4 juillet 2018, les administrations candidates au programme Entrepreneur.e d�
 
 En tant qu’acteurs reconnus de la communauté numérique d’intérêt général, les membres du jury ont pu mettre à profit leurs diverses expertises pour évaluer la capacité des porteurs de défi à accueillir des EIG dans les meilleurs conditions, adapter leur feuille de route, et surtout à faire partie d’un collectif d’innovateurs publics qui partage des méthodes, des outils et devient pionnier de l’ouverture des données et des codes sources.
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" height="90" style="border: 0px none !important">
-<tbody style="border-top: 0;"><tr height="107"><td height="90" width="20"> </td>
-<td height="90" style="border-top:1px solid #5196d7;border-bottom:1px solid #5196d7;text-align:center;font-size:13px;font-family:Arial;color:#6C5050;" width="106"><span style="font-size:44px;color:#5196D6;">56</span><br />projets SI suivis</td>
-<td height="90" width="50"> </td>
-<td height="90" style="border-top:1px solid #fc7a26;border-bottom:1px solid #fc7a26;text-align:center;font-size:13px;font-family:Arial;color:#6C5050;" width="106">dont <span style="font-size:44px;color:#FD7A26;">20</span><br />projets interministériels</td>
-<td height="90" width="50"> </td>
-<td height="90" style="border-top:1px solid #1E4792;border-bottom:1px solid #1E4792;text-align:center;font-size:13px;font-family:Arial;color:#6C5050;" width="106"><span style="font-size:44px;color:#1E4792;">6,6</span><br />ans de durée moyenne</td>
-<td height="90" width="50"> </td>
-<td height="90" style="border-top:1px solid #83187A;border-bottom:1px solid #83187A;text-align:center;font-size:13px;font-family:Arial;color:#6C5050;" width="106"><span style="font-size:44px;color:#83187A;">2,55</span><br />milliards d'euros engagés</td>
-<td height="90" width=""> </td>
-</tr>
-</tbody>
-</table>
-
 Mathieu Nebra, membre du jury et co-fondateur d’Openclassrooms a particulièrement remarqué la qualité des défis proposés et la maturité des administrations qui témoignent « d’une vraie envie de faire des choses qui ont de l’impact, plus de transparence et d’efficacité ; on sent que les administrations sont engagées en ce sens et cela envoie un signal fort. »
 
 Salle d’accueil du SGPI – Les membres de l’administration attendent d’être auditionnés par le jury – 4 juillet 2018
