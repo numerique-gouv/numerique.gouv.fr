@@ -63,9 +63,11 @@ layout: default
           </div>
         </div>
         {% endif %}
+        {% if forloop.last == false %}
         <div class="flex-container">
           <i class="fas fa-angle-down icon-arrow-down"></i>
         </div>
+        {% endif %}
       </section>
       {% endfor %}
     </div>

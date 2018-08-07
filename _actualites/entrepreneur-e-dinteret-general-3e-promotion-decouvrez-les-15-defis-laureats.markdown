@@ -72,7 +72,7 @@ Pour Laure Lucchesi, directrice d’Etalab et membre du jury
 
 Délibérations du jury – SGPI – 4 juillet 2018
 
-« Faire partie du jury EIG est une chance et un défi : la chance d’accélérer des projets puissants au service de toutes et tous, le défi de choisir entre des thématiques plus nécessaires les unes que les autres. Pour cette édition, nous avons souhaité accompagner des sujets aussi sensibles que le contrôle des navires professionnels, la cartographie de l’agriculture biologique, l’indemnisation des préjudices corporels, l’aide aux réfugiés ou encore la lutte contre les comportements financiers illicites. Prochaine étape : identifier des personnes ressources pour accompagner la concrétisation des défis ! »
+« Faire partie du jury EIG est une chance et un défi&nbsp;: la chance d’accélérer des projets puissants au service de toutes et tous, le défi de choisir entre des thématiques plus nécessaires les unes que les autres. Pour cette édition, nous avons souhaité accompagner des sujets aussi sensibles que le contrôle des navires professionnels, la cartographie de l’agriculture biologique, l’indemnisation des préjudices corporels, l’aide aux réfugiés ou encore la lutte contre les comportements financiers illicites. Prochaine étape&nbsp;: identifier des personnes ressources pour accompagner la concrétisation des défis&nbsp;!&nbsp;»
 Emmanuelle Larroque, CEO de Social Builder et membre du jury
 
 ## Et après ? Ouverture d’un appel à candidatures à la rentrée
@@ -93,4 +93,4 @@ Afin de relever ces défis, l’équipe EIG prépare d’ores et déjà la suite
 
 * [le site officiel des Entrepreneur.e d'Intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr){:target="_blank"}
 
-* [entrepreneur-interet-general@data.gouv.fr](entrepreneur-interet-general@data.gouv.fr){:mailto="entrepreneur-interet-general@data.gouv.fr"}
+* [entrepreneur-interet-general@data.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr)

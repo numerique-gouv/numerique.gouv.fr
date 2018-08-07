@@ -23,9 +23,9 @@ A titre d’exemple, la Caisse nationale d’assurance maladie (CNAM), en collab
 Pour initier ce mouvement, la DINSIC et la direction interministérielle de la transformation publique (DITP) lancent un appel à manifestation d’intérêt pour expérimenter l’usage des technologies d’intelligence artificielle dans les administrations. Les lauréats bénéficieront d’un accompagnement d’une durée de 10 mois sur les aspects techniques et organisationnels.
 
 >Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’intelligence artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir aux citoyens un service public plus performant et proche de leurs besoins. » 
-{:citation}
+{: .citation}
 >Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du numérique.
-{:citation-auteur}
+{: .citation-auteur}
 
 L’enjeu est à la fois d’expérimenter concrètement une technologie d’IA pour répondre à un besoin métier précis, et plus largement d‘engager une réflexion sur l’impact potentiel de ces technologies sur la transformation du métier.
 
