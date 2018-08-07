@@ -7,7 +7,7 @@
 // --------------------------------------------------
 
 import jQuery from 'jquery'
-
+const $ = jQuery;
 window.jQuery = jQuery;
 window.$ = jQuery;
 import whatInput from 'what-input';
@@ -152,4 +152,12 @@ const elements = document.querySelectorAll('[id^="communiqueSize-"]');
 elements.forEach(function (element) {
   element.innerHTML += ' ' + Math.round(getFileSize(element.getAttribute('href'))/1024) + ' Ko )'
 });
+
+$('.icon-arrow-down').each(function ( index ) {
+  const selector = '#mission' + (index + 2);
+  $( this ).click(function () {
+    Foundation.SmoothScroll.scrollToLoc(selector, {threshold: 50, offset: 0 }, null);
+  })
+});
+
 

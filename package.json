@@ -50,7 +50,7 @@
     "yargs": "^3.8.0"
   },
   "scripts": {
-    "start": "gulp",
+    "start": "gulp --dev",
     "build-dev": "gulp build --dev",
     "build": "gulp build --production",
     "test": "gulp build --production"

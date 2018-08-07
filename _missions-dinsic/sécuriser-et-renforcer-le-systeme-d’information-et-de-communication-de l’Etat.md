@@ -16,8 +16,8 @@ encadre:
     valeur: 13 000
     icon:
       titre: icon site racordés
-      path: site_raccorde.svg
-  - titre: dd’agents utilisateurs issus de <b>18 ministères</b> et administrations
+      path: "site_raccorde.svg"
+  - titre: d’agents utilisateurs issus de <b>18&#160;ministères</b> et administrations
     valeur: "+ d’1 million"
     icon:
       titre: icon agents
