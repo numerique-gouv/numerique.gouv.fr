@@ -32,7 +32,7 @@ defaults:
     une-ou-diaporama:
       - image:
         legende:
-        alt:
+        alternative-textuelle:
     auteur:
     permalink: "/actualites/:title/"
 - scope:
