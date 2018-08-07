@@ -15,17 +15,17 @@ encadre:
     valeur: 27
     icon:
       titre: icon aides sociales
-      path: "aides_sociales.svg"
+      path: aides_sociales.svg
   - titre: simulations par jour
     valeur: 6 000
     icon:
       titre: icon simulation
-      path: "simulation.svg"
+      path: simulation.svg
   - titre: utilisateurs par mois
     valeur: 500 000
     icon:
       titre: icon agents
-      path: "agents.svg"
+      path: agents.svg
 ---
 
 Oui, l’État aussi sait créer des services innovants en quelques
