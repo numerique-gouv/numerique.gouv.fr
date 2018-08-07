@@ -148,6 +148,38 @@
   }
 }
 .encadre {
-  color: $black;
-  border: 1px solid $black;
+  padding: 2rem 0 2rem 0rem;
+  border-left: none;
+  position: relative;
+
+  &::before{
+    content: "";
+    display: inline-block;
+    float: left;
+    width: 2rem;
+    height: 2rem;
+    border-image: linear-gradient(120deg, #0d5896, #2ab2b8) 1 ;
+    border-top: 0.4rem solid;
+    border-left: 0.4rem solid;
+  }
+  &::after{
+    content: "";
+    display: inline-block;
+    float: right;
+    width: 2rem;
+    height: 2rem;
+    border-image: linear-gradient(290deg, #0d5896, #2ab2b8) 1 ;
+    border-bottom: 0.4rem solid;
+    border-right: 0.4rem solid;
+  }
+  h4 {
+    padding: 2rem 2rem 0 2rem;
+    color:$bleue;
+    margin-bottom: 1rem;
+  }
+  p {
+    padding: 0 2rem 0 2rem;
+    color:$bleue;
+    margin: 0;
+  }
 }

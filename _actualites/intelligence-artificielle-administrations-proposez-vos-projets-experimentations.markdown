@@ -16,10 +16,11 @@ L’intelligence artificielle, ses potentialités et ses risques interrogent la 
 
 Classification automatique d’images, reconnaissance d’entités nommées dans des textes, extraction automatique d’informations à partir de données non structurées, les technologies d’IA peuvent avoir un impact important sur l’action publique.
 
-> ### L’intelligence artificielle déjà utilisée dans l’administration
+
+> #### L’intelligence artificielle déjà utilisée dans l’administration
 >
 > A titre d’exemple, la Caisse nationale d’assurance maladie (CNAM), en collaboration avec le centre de mathématiques appliquées de l’école polytechnique, utilise des algorithmes pour détecter automatiquement les effets secondaires des traitements pharmacologiques en analysant les données du SNIIRAM (dépenses d’assurance maladie). Pôle Emploi, en partenariat avec Etalab et l’incubateur de startups d’État, a développé La Bonne Boîte, un service en ligne qui permet de réaliser des candidatures spontanées ciblées sur les entreprises qui ont une forte probabilité d’embauche.
-> {: .encadre}
+{: .encadre}
 
 Pour initier ce mouvement, la DINSIC et la direction interministérielle de la transformation publique (DITP) lancent un appel à manifestation d’intérêt pour expérimenter l’usage des technologies d’intelligence artificielle dans les administrations. Les lauréats bénéficieront d’un accompagnement d’une durée de 10 mois sur les aspects techniques et organisationnels.
 
