@@ -24,6 +24,7 @@ collections:
     output: true
 defaults:
 - scope:
+    path: ''
     type: actualites
   values:
     layout: post
