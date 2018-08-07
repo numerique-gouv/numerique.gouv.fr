@@ -10,14 +10,14 @@ layout: page
   {% for post in paginator.posts %}
   <li  class="grid-x grid-margin-x">
     <div class="illustration cell post__image-container large-6 small-12">
-      <img class="post__featured-image" src="{{base}}/{{ post.image-mise-en-avant }}">
+      <img class="post__featured-image" alt="{{ post.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ post.une-ou-diaporama[0].image }}">
     </div>
     <div class="content cell large-6 small-12">
       <span class="post-meta">{% include date.html date=post.date %}</span>
       <h2>
         <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h2>
-      <p>{{ post.excerpt }}</p>
+      <p>{{ post.chapeau-text }}</p>
       <a class="blue-link" href="{{ post.url }}">Lire plus...</a>
     </div>
     {% if forloop.last == false %}
