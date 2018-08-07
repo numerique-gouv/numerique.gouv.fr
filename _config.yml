@@ -30,9 +30,9 @@ defaults:
     layout: post
     chapeau-text:
     une-ou-diaporama:
-      - image:
-        legende:
-        alternative-textuelle:
+    - image:
+      legende:
+      alternative-textuelle:
     auteur:
     permalink: "/actualites/:title/"
 - scope:
