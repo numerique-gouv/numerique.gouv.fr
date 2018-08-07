@@ -9,8 +9,6 @@ chapeau-text: La DINSIC et la DITP lancent un appel à manifestation d’intér�
   métier associée.
 une-ou-diaporama:
 - image: "/uploads/AMI-IA-une.jpg"
-  alternative-textuelle: 'Intelligence artificielle : Administrations, proposez vos
-    projets d''expérimentation dans les services publics !'
 auteur: Depuis Etalab.gouv.fr
 ---
 
