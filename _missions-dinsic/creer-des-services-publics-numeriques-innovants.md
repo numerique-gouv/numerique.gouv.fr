@@ -30,7 +30,7 @@ encadre:
 ---
 
 Oui, l’État aussi sait créer des services innovants en quelques
-mois, en mode agile et à moindre coût ! Notre incubateur beta.gouv.fr le prouve
+mois, en mode agile et à moindre coût ! Notre incubateur [beta.gouv.fr](https://beta.gouv.fr){:target="_blank"} le prouve
 chaque jour depuis trois ans et essaime dans les ministères. De petites équipes
 autonomes résolvent grâce au numérique un problème rencontré par les citoyens
 ou les agents publics, en les associant tout au long du processus. Notre incubateur
