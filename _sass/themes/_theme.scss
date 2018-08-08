@@ -152,29 +152,26 @@
   border-left: none;
   position: relative;
 
-  &::before{
+  &::before, &::after {
     content: "";
     display: inline-block;
-    float: left;
     width: 2rem;
     height: 2rem;
     border-image: linear-gradient(120deg, $bleue-degrade-1, $bleue-degrade-2) 1 ;
+  }
+  &::before{
+    float: left;
     border-top: 0.4rem solid;
     border-left: 0.4rem solid;
-    border-right: none;
-    border-bottom: none;
+    border-right: 0;
+    border-bottom: 0;
   }
   &::after{
-    content: "";
-    display: inline-block;
     float: right;
-    width: 2rem;
-    height: 2rem;
-    border-image: linear-gradient(290deg, $bleue-degrade-1, $bleue-degrade-2) 1 ;
     border-bottom: 0.4rem solid;
     border-right: 0.4rem solid;
-    border-top: none;
-    border-left: none;
+    border-top: 0;
+    border-left: 0;
     margin-top: -1rem;
   }
   h4 {
