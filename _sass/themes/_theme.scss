@@ -158,9 +158,11 @@
     float: left;
     width: 2rem;
     height: 2rem;
-    border-image: linear-gradient(120deg, #0d5896, #2ab2b8) 1 ;
+    border-image: linear-gradient(120deg, $bleue-degrade-1, $bleue-degrade-2) 1 ;
     border-top: 0.4rem solid;
     border-left: 0.4rem solid;
+    border-right: none;
+    border-bottom: none;
   }
   &::after{
     content: "";
@@ -168,9 +170,11 @@
     float: right;
     width: 2rem;
     height: 2rem;
-    border-image: linear-gradient(290deg, #0d5896, #2ab2b8) 1 ;
+    border-image: linear-gradient(290deg, $bleue-degrade-1, $bleue-degrade-2) 1 ;
     border-bottom: 0.4rem solid;
     border-right: 0.4rem solid;
+    border-top: none;
+    border-left: none;
     margin-top: -1rem;
   }
   h4 {
