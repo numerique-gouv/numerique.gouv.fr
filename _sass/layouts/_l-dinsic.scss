@@ -98,7 +98,7 @@
   hr {
     padding-left: 1px;
     font-size: 2rem;
-    background: linear-gradient(-30deg, #0d5896, #2ab2b8);
+    background: linear-gradient(-30deg, $bleue-degrade-1, $bleue-degrade-2);
     color: $bleue;
     width: 2rem;
     height: 0.3rem;
@@ -118,7 +118,7 @@
     padding-left: 0.1rem;
     padding-right: 0.5rem;
     font-size: 2rem;
-    background: -webkit-linear-gradient(-30deg, #0d5896, #2ab2b8);
+    background: -webkit-linear-gradient(-30deg, $bleue-degrade-1, $bleue-degrade-2);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: $bleue;
