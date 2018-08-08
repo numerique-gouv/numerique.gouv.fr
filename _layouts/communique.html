@@ -4,9 +4,9 @@ layout: default
 
 <main class="post communique">
   <article >
-    {% if page.image %}
+    {% if page.une-ou-diaporama.size == 1 %}
     <div class="post__image-container">
-      <img class="post__featured-image" src="{{base}}/{{ page.image }}">
+      <img class="post__featured-image image-en-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ page.une-ou-diaporama[0].image }}">
     </div>
     {% endif %}
     <div class="margin-1">
@@ -16,10 +16,10 @@ layout: default
         <p class="h5 subheader padding-horizontal-1">|</p>
         <p class="h5 meta subheader">{% include date.html date=page.date %}</p>
       </div>
-      {% if page.chapeau %}
+      {% if page.chapeau-text %}
       <div class="chapeau padding-top-2">
         <p>
-          {{ page.chapeau }}
+          {{ page.chapeau-text }}
         </p>
       </div>
       {% endif %}

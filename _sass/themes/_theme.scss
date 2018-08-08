@@ -174,10 +174,13 @@
     border-left: 0;
     margin-top: -1rem;
   }
-  h4 {
+  h2, h3, h4, h5, h6 {
     padding: 2rem 2rem 0 2rem;
     color:$bleue;
     margin-bottom: 1rem;
+  }
+  ul{
+    padding: 2rem 2rem 0 2rem;
   }
   p {
     padding: 0 2rem 0 2rem;
