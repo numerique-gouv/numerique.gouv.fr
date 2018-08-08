@@ -3,7 +3,9 @@ title: '5E édition du panorama : revue de détails pour 61 grands projets SI de
 date: 2018-04-24 00:00:00 +02:00
 tags:
 - une
-image-mise-en-avant: assets/img/actualites/H.VERDIER.jpg
+une-ou-diaporama:
+- image: "/assets/img/actualites/H.VERDIER.jpg"
+  alternative-textuelle: H.VERDIER
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nunc a lacus semper suscipit a id massa. Etiam vel nulla augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam mattis odio orci, non aliquam ipsum pretium eu. Nulla scelerisque vel neque vitae consequat. Donec molestie lectus eget rutrum tristique. Pellentesque iaculis augue aliquet, eleifend dolor eget, tempus metus. Ut faucibus quis erat sit amet pulvinar. Proin tristique mollis posuere. Praesent eget urna sit amet leo varius maximus non id nibh. Donec facilisis ante sit amet mauris feugiat iaculis. Integer ac urna neque.

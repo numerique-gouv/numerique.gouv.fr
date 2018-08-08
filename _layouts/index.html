@@ -26,7 +26,7 @@ layout: default
         {% assign sorted_actualites = site.actualites | where:"tags","une" | sort:'date' | reverse %}
         {% for actualite in sorted_actualites limit:3 %}
         <li class="cell large-4 medium-12 small-12">
-          <a href="{{ actualite.url}}" class="card height-100">
+          <a href="{{ actualite.url}}" class="card height-100 black-link">
             <div class="card-image post__image-container index-image-container">
               <img class="post__featured-image" alt="{{ actualite.une-ou-diaporama[0].alternative-textuelle }}" src="{{ actualite.une-ou-diaporama[0].image }}">
             </div>
@@ -36,7 +36,7 @@ layout: default
               <p>{{ actualite.excerpt | truncatewords: 40 }}</p>
             </div>
             <div class="margin-top-auto margin-bottom-1 margin-horizontal-1">
-              <button class="button blue-link blue-border-button zoom">Lire plus</button>
+              <button class="button blue-border-button zoom">Lire plus</button>
             </div>
               <hr class="blue-hr">
           </a>
