@@ -6,9 +6,9 @@ encadre:
   titre: Le réseau interministériel de l’État (RIE)
   contenu: 'Auparavant, les ministères disposaient de réseaux distincts, une quinzaine
     au total. Nous avons mis en place un réseau unifié, raccordant l’ensemble des
-    administrations de l’État sur le territoire.<br/> Avec à la clé des économies
-    d’échelle, un partage de données facilité entre ministères et une lutte efficace
-    contre les cybermenaces.
+    administrations de l’État sur le territoire. Avec à la clé des économies d’échelle,
+    un partage de données facilité entre ministères et une lutte efficace contre les
+    cybermenaces.
 
 '
   chiffres:
@@ -24,9 +24,7 @@ encadre:
       path: agents.svg
 ---
 
-Avant lancement et tout au long de sa vie, nous suivons chaque grand
-projet informatique de l’État, à travers un panorama rendu public, pour s’assurer
-de sa bonne conduite, identifier et rectifier toute dérive éventuelle.
+Avant lancement et tout au long de sa vie, nous suivons chaque grand projet informatique de l’État, à travers un panorama rendu public, pour s’assurer de sa bonne conduite, identifier et rectifier toute dérive éventuelle.
 
 Nous mettons à la disposition des ministères des outils et méthodes destinés à sécuriser
 leurs projets SI. En parallèle, nous menons d’importants chantiers de modernisation
