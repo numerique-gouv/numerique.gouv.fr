@@ -4,7 +4,7 @@ ordre: 3
 icon: Creer_des_services_publics_numeriques_innovants.svg
 encadre:
   titre: Zoom sur... Mes-aides.gouv.fr
-  contenu: 'Tout est parti d’un constat : beaucoup de Français ne recourent pas à
+  contenu-text: 'Tout est parti d’un constat : beaucoup de Français ne recourent pas à
     certaines aides sociales car ils ignorent y avoir droit. Pour lutter contre ce
     non-recours, notre incubateur a conçu [Mes Aides](https://mes-aides.gouv.fr){:target="_blank"},
     un simulateur en ligne qui permet d’estimer en moins de 7 minutes vos droits à
