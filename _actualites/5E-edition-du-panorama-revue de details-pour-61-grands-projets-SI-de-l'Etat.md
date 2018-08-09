@@ -27,5 +27,5 @@ Ainsi par exemple l’harmonisation de la délivrance des visas sur le plan euro
 
 Le panorama met aussi en exergue les efforts de l’Etat en matière de dépenses informatiques : les projets mutualisés se multiplient – 20 des 56 chantiers actuels, soit 1 sur 3, ont une portée interministérielle – avec à la clé des économies substantielles. Plusieurs projets de cette édition enregistrent des prévisions à la baisse grâce à des renégociations d’offres fournisseurs et des mises en commun de développements entre projets. La logique de partage, impulsée par la DINSIC, continue de s’intensifier.
 
-![panorama_juillet2018.png](/uploads/panorama_juillet2018.png =200x88){: .center-image}
+![panorama_juillet2018.png](/uploads/panorama_juillet2018.png){:height="200px" width="88px"}{: .center-image}
 > Consulter la 6e édition du panorama
