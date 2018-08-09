@@ -2,28 +2,26 @@
 layout: default-without-transformation
 ---
 
-<main>
-  <section class="default-text-padding ">
-    {{content}}
-    <h1>Résultat de la recherche</h1>
+<section class="default-text-padding ">
+  {{content}}
+  <h1>Résultat de la recherche</h1>
 
-    <form action="/rechercher" method="get">
-      <div class="grid-container">
-        <p>Votre recherche :</p>
-        <div class="grid-x">
-          <div class="medium-9 cell ">
-            <input type="text" id="search-box" name="query" placeholder="Votre recherche">
-          </div>
-          <div class="medium-3 cell text-center">
-            <input class="button" type="submit" value="Rechercher" placeholder=".medium-6.cell">
-          </div>
+  <form action="/rechercher" method="get">
+    <div class="grid-container">
+      <p>Votre recherche :</p>
+      <div class="grid-x">
+        <div class="medium-9 cell ">
+          <input type="text" id="search-box" name="query" placeholder="Votre recherche">
+        </div>
+        <div class="medium-3 cell text-center">
+          <input class="button" type="submit" value="Rechercher" placeholder=".medium-6.cell">
         </div>
       </div>
-    </form>
+    </div>
+  </form>
 
-    <ul id="search-results" class="no-bullet grid-x grid-margin-x" ></ul>
-  </section>
-</main>
+  <ul id="search-results" class="no-bullet grid-x grid-margin-x" ></ul>
+</section>
 <script>
   {% assign elements = site.actualites | concat: site.communiques | concat: site.evenements | concat: site.pages %}
   window.store = {
