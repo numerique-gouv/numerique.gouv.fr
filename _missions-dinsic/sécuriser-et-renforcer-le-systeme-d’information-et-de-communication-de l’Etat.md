@@ -4,9 +4,9 @@ ordre: 5
 icon: Securiser_et_renforcer_le_systeme_dinformation_et_de_communication_de_letat.svg
 encadre:
   titre: Le réseau interministériel de l’État (RIE)
-  contenu-text: 'Auparavant, les ministères disposaient de réseaux distincts, une quinzaine
-    au total. Nous avons mis en place un réseau unifié, raccordant l’ensemble des
-    administrations de l’État sur le territoire. Avec à la clé des économies d’échelle,
+  contenu-text: 'Auparavant, les ministères disposaient de réseaux distincts, une
+    quinzaine au total. Nous avons mis en place un réseau unifié, raccordant l’ensemble
+    des administrations de l’État sur le territoire. Avec à la clé des économies d’échelle,
     un partage de données facilité entre ministères et une lutte efficace contre les
     cybermenaces.
 
