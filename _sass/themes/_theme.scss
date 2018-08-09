@@ -188,3 +188,12 @@
     margin: 0;
   }
 }
+.exergue {
+  padding: 2rem 0 2rem 0;
+  border-left: none;
+  background-color: $bulbizarre;
+  p {
+    font-style: italic;
+    color: $bleue;
+  }
+}
