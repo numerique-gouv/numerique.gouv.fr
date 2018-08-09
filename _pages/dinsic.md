@@ -6,7 +6,9 @@ sous-titre: Grâce au numérique, nous créons le service public de demain
 chapeau: 'La DINSIC est en charge de la transformation numérique de l’État au bénéfice
   du citoyen comme de l''agent, sous tous ses aspects : modernisation du socle technique,
   création de services publics innovants pour les citoyens, gouvernement ouvert… '
-image: "/assets/img/main/bureau-cnil.jpg"
+une: 
+  image: "/assets/img/main/image-DINSIC.jpg"
+  alternative-textuelle: "ordinateur portable"
 layout: dinsic
 ---
 
