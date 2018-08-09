@@ -12,8 +12,8 @@ layout: page
     <div class="grid-x grid-margin-x">
       <div class="cell large-4 medium-4 small-12 post__image-container margin-vertical-auto">
         <a href="{{ post.url }}">
-          {% if post.image %}
-          <img class="post__featured-image gray-shadow" src="{{ base.url }}/{{ post.image }}">
+          {% if post.une-ou-diaporama.size == 1 %}
+          <img class="post__featured-image gray-shadow" src="{{ base.url }}{{ post.une-ou-diaporama[0].image  }}">
           {% else %}
           <img class="post__featured-image gray-shadow" src="{{ base.url }}/assets/img/default.png">
           {% endif %}

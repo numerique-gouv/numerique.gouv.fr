@@ -3,15 +3,11 @@ title: Une 2ème promotion d’entrepreneurs d’intérêt général entre aujou
   l’administration !
 date: 2018-01-15 23:00:00 +01:00
 communique_file: uploads/CP_Entrepreneurs_interet_general_16012018.pdf
+chapeau-text: L’administrateur général des données (AGD), Henri Verdier, a remis ce mardi 10 avril son rapport
+  2016-2017, intitulé « La donnée comme infrastructure essentielle », au secrétaire d’État auprès du Premier ministre
+  chargé du Numérique, Mounir Mahjoubi.
+  
 ---
-
-<div class="en-tete">L’administrateur général des données (AGD), Henri Verdier, a remis ce mardi 10 avril son rapport
-2016-2017, intitulé « La donnée comme infrastructure essentielle », au secrétaire d’État auprès du Premier ministre
-chargé du Numérique, Mounir Mahjoubi. </div>
-
---------
-
-
 Lancé en janvier 2017, le programme « Entrepreneur.e d’intérêt général » (EIG) ouvre l’administration à des talents du
 numérique pour résoudre des défis d’intérêt général au sein des ministères. Chaque année, une promotion d’entrepreneurs
 intègre l’administration pendant 10 mois et participe à la transformation numérique de l’État.
