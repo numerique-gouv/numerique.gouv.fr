@@ -30,4 +30,4 @@ Le panorama met aussi en exergue les efforts de l’Etat en matière de dépense
 ![panorama_juillet2018.png](/uploads/panorama_juillet2018.png){:height="88px" width="200px"}{: .align-center}
 
 \> Consulter la 6e édition du panorama
-{: .align-center}
+{: .text-align-center}
