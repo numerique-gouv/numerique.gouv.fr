@@ -4,7 +4,7 @@ ordre: 1
 icon: Ameliorer_et_simplifier_les_services_publics_numeriques.svg
 encadre:
   titre: Zoom sur... FranceConnect
-  contenu: 'Avec FranceConnect, plus besoin de retenir autant de mots de passe que
+  contenu-text: 'Avec FranceConnect, plus besoin de retenir autant de mots de passe que
     de sites de démarches : vous y accédez simplement, grâce à l’identifiant de votre
     choix – comme celui de votre compte Ameli ou impots.gouv.fr. Vous gagnez aussi
     du temps : avec le partage de données entre administrations selon le principe

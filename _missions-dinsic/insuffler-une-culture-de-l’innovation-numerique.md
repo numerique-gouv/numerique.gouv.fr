@@ -4,7 +4,7 @@ ordre: 4
 icon: Insuffler_une_culture_de_linnovation_numerique.svg
 encadre:
   titre: Zoom sur... Le programme Entrepreneur d’Intérêt Général
-  contenu: '10 mois, un défi à relever : le programme d’innovation ouverte [Entrepreneur
+  contenu-text: '10 mois, un défi à relever : le programme d’innovation ouverte [Entrepreneur
     d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}
     fait entrer dans l’administration des citoyens aux compétences pointues pour résoudre,
     grâce aux données et au numérique, des défis d’intérêt général. Collaborant étroitement
