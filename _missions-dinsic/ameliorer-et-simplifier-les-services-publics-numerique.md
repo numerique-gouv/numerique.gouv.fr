@@ -30,5 +30,5 @@ pour ! Nous fournissons à  l’ensemble des administrations des référentiels 
 de sécurité… – et une liste de critères  de qualité à respecter. Nous les accompagnons
 dans la dématérialisation de leurs démarches (notamment via  demarches-simplifiees.fr),
 le développement et l’amélioration de leurs services en ligne. Nous produisons
-nous-mêmes des services numériques utiles à tous, comme FranceConnect Identité.
+nous-mêmes des services numériques utiles à tous, comme FranceConnect.
 
