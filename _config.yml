@@ -6,7 +6,7 @@ collections:
     title: Actualités
     output: true
     Data:
-      address_ref:
+      address_ref: 
   communiques:
     title: Communiqués
     output: true
@@ -29,12 +29,12 @@ defaults:
   values:
     layout: post
     is_une: true
-    chapeau-text:
+    chapeau-text: 
     une-ou-diaporama:
-    - image:
-      legende:
-      alternative-textuelle:
-    auteur:
+    - image: 
+      legende: 
+      alternative-textuelle: 
+    auteur: 
     permalink: "/actualites/:title/"
 - scope:
     path: ''
