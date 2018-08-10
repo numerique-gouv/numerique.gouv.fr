@@ -1,57 +1,89 @@
 ---
-layout: page
+layout: default
 ---
-
-<ul id="list-post" class="no-bullet grid-y">
-  <!--
-      Here is the main paginator logic called.
-      All calls to site.posts should be replaced by paginator.posts
-  -->
-  {% for post in paginator.posts %}
-  <li  class="">
-    <div class="grid-x grid-margin-x">
-      <div class="cell large-4 medium-4 small-12 post__image-container margin-vertical-auto">
-        <a href="{{ post.url }}">
-          {% if post.une-ou-diaporama.size == 1 %}
-          <img class="post__featured-image gray-shadow" src="{{ base.url }}{{ post.une-ou-diaporama[0].image  }}">
-          {% else %}
-          <img class="post__featured-image gray-shadow" src="{{ base.url }}/assets/img/default.png">
+<main id="espace-presse" role="main">
+  <div class="post__image-container">
+    <img id="image-de-tete" class="post__featured-image" alt="{{ page.une.alternative-textuelle }}" src="{{ page.une.image }}">
+  </div>
+  <h1 class="text-center margin-top-2 blue-gradient-underline">{{ page.title }}</h1>
+  {% assign sorted_communiques = site.communiques | sort:'date' | reverse %}
+  <div class="grid-container">
+    <ul class=" grid-x grid-margin-x remove-bullet">
+      {% for communique in sorted_communiques limit:2 %}
+      <li class="cell grid-y large-4 medium-12 small-12">
+        <a href="{{ communique.url}}" class="black-link">
+          {% if communique.une-ou-diaporama.size == 1 %}
+          <div class="post__image-container index-image-container">
+            <img class="post__featured-image" alt="{{ communique.une-ou-diaporama[0].alternative-textuelle }}" src="{{ communique.une-ou-diaporama[0].image }}">
+          </div>
           {% endif %}
+          <div class="cpadding-1">
+            <span class="h4 font-bold">{{ communique.title }}</span>
+            <span class="subheader font-bold">{% include date.html date=actualite.date %}</span>
+            {{ communique.excerpt | truncatewords: 40 }}
+          </div>
         </a>
-      </div>
-      <div class="cell large-8 medium-8 small-12">
-        <a class="post-link" href="{{ post.url }}">
-          <h2>
-            {{ post.title }}
-          </h2>
-          <span class="post-meta">{% include date.html date=post.date %}</span>
-          <p>{{ post.excerpt }}</p>
-        </a>
-        <a id="communiqueSize-{{ post.url | replace: ' ', '' }}" class="blue-link" href="{{ base }}/{{ post.communique_file }}">Télécharger le communiqué de presse ( PDF </a>
-      </div>
-    </div>
-    <hr>
-  </li>
-  {% endfor %}
-</ul>
+        <hr class="blue-hr margin-top-auto">
+      </li>
+      {% endfor %}
+      <li class="cell large-4 medium-12 small-12">
+        <div id="contact-presse" class="padding-vertical-1 align-middle">
+          <img src="{{ page.contact-presse.pictogramme }}">
+          <h2 class="white-underline">{{ page.contact-presse.titre}}</h2>
+          <p>{{ page.contact-presse.name }}</p>
+          <p>
+            {% for tel in site.contact-presse.tel%}
+            {% if forloop.last == true %}
+            {{ tel }}
+            {% else %}
+            {{ tel }} -
+            {% endif %}
+            {% endfor %}
+          </p>
+          <a class="white-link display-block text-center" href="mailto:{{ site.contact-presse.email }}">{{ page.contact-presse.email }}</a>
+        </div>
+        <div id="ressource-presse">
+          <img src="{{ page.ressource-presse.pictogramme }}">
+          <h2 class="white-underline">{{ page.ressource-presse.titre}}</h2>
+          <p> {{ page.ressource-presse.contenu}} </p>
+          <div class="white-margin-link text-center padding-2">
+            <a href="#">Voir nos ressources presses</a>
+          </div>
+        </div>
+
+      </li>
+
+    </ul>
+    <ul id="list-communique" class="no-bullet grid-y">
+      {% for communique in sorted_communiques %}
+      <li>
+        <div class="grid-x grid-margin-x">
+          <div class="cell large-3 medium-4 small-6">
+            <a href="{{ communique.url }}">
+              {% if communique.une-ou-diaporama.size == 1 %}
+              <img class="post__featured-image gray-shadow" src="{{ base.url }}{{ communique.une-ou-diaporama[0].image  }}">
+              {% else %}
+              <img class="post__featured-image gray-shadow" src="{{ base.url }}/assets/img/default.png">
+              {% endif %}
+            </a>
+          </div>
+          <div class="cell large-9 medium-6 small-6">
+            <a class="communique-link" href="{{ communique.url }}">
+              <h2>
+                {{ communique.title }}
+              </h2>
+              <span class="communique-meta">{% include date.html date=communique.date %}</span>
+            </a>
+            <a id="communiqueSize-{{ communique.url | replace: ' ', '' }}" class="blue-link" href="{{ base }}/{{ communique.communique_file }}">Télécharger le communiqué de presse ( PDF </a>
+          </div>
+        </div>
+        <hr>
+      </li>
+      {% endfor %}
+    </ul>
+
+  </div>
+</main>
 
 
-
-<!--
-  Showing buttons to move to the next and to the previous list of posts (pager buttons).
--->
-{% if paginator.total_pages > 1 %}
-<ul class="pager list-none padding-vertical-1 no-bullet">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Communiqués plus récents</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Communiqués plus anciens &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
 
