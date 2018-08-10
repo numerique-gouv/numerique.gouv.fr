@@ -16,6 +16,8 @@ Depuis 2011, l’État et les collectivités se sont en effet engagés à dével
 
 Fruit de plusieurs mois de travail collaboratif et coordonné par la **direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC)**, le programme DCANT 2018-2020 a pour ambition de fixer la feuille de route à suivre pour transformer les services publics par le numérique. Il s’inscrit dans une stratégie plus globale de plateforme, qui repose sur le principe que les ressources numériques utilisés et  éprouvées avec succès par les administrations doivent être ouvertes et réutilisables par d’autres administrations, dans une logique de partage, et ce afin de faciliter la création de nouveaux services publics. Le mode plateforme serait ainsi source de convergence numérique pour l’État et les collectivités.
 
+<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x6c1gye" allowfullscreen allow="autoplay"></iframe>
+
 A la clé ? Des services numériques plus fluides et accessibles à tous et une simplification de la délivrance du service public territorial.**Animer le développement de l’administration numérique territoriale, une conviction partagée entre État et collectivités**
 
 Le programme DCANT répond également à la volonté de renforcer la concertation État-territoires à travers la conférence nationale des territoires (CNT), mise en place par le Gouvernement pour associer les collectivités territoriales en amont de toute décision qui les concerne. Réunie une première fois le 17 juillet 2017, la CNT fixait la transition numérique des territoires comme l’une de ses priorités.
