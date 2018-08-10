@@ -42,4 +42,8 @@ a {
   }
 }
 
+.off-screen {
+  position: absolute;
+  left: -99999999rem;
+}
 
