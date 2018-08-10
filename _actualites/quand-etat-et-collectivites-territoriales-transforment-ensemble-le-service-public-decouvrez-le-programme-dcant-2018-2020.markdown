@@ -1,7 +1,7 @@
 ---
 title: 'Quand État et collectivités territoriales transforment ensemble le service
   public : découvrez le programme DCANT 2018-2020 !'
-date: 2018-12-12 16:19:00 +01:00
+date: 2017-12-12 16:19:00 +01:00
 chapeau-text: 'L’État et les associations d’élus publient aujourd’hui leur programme
   de développement concerté de l’administration numérique territoriale (DCANT) 2018-2020.
   Un programme entièrement coécrit autour d’une ambition partagée : construire ensemble
