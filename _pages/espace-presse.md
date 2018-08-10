@@ -2,9 +2,9 @@
 title: Espace presse
 permalink: "/espace-presse/"
 layout: espace-presse
-une: 
+une:
   image: "/assets/img/main/image-DINSIC.jpg"
-  alternative-textuelle: "ordinateur portable"
+  alternative-textuelle: ordinateur portable
 contact-presse:
   titre: Contact presse
   pictogramme: "/assets/img/pictogrammes/Contact_presse.svg"
