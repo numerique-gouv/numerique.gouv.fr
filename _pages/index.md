@@ -3,7 +3,7 @@ title: dinsic.gouv.fr
 permalink: "/"
 position: 4
 layout: index
-texte-mis-en-avant: Grâce au numérique, nous créons le service public de demain
+slogan: Grâce au numérique, nous créons le service public de demain
+titre-une: À la une de la DINSIC
 ---
 
-{{page.title}}

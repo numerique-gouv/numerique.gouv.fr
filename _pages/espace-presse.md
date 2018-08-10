@@ -3,7 +3,7 @@ title: Espace presse
 permalink: "/espace-presse/"
 layout: espace-presse
 une:
-  image: "/assets/img/main/image_DINSIC.jpg"
+  image: "/assets/img/main/image_espace_presse.jpg"
   alternative-textuelle: ordinateur portable
 contact-presse:
   titre: Contact presse
