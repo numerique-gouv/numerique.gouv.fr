@@ -26,6 +26,39 @@ a {
   }
 }
 
+.white-link {
+  color: $white;
+  &:hover {
+    color: $white;
+    text-decoration: none;
+  }
+}
+.blue-margin-link, .white-margin-link {
+  a {
+    display: inline;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 0 0.5rem;
+    border-left:0.2rem solid ;
+    border-right:0.2rem solid ;
+  }
+
+}
+.blue-margin-link {
+  a {
+    color:$bleue;
+    border-color: $bleue;
+  }
+
+}
+
+.white-margin-link {
+  a {
+    color:$white;
+    border-color: $white;
+  }
+}
+
 
 .zoom {
   &:hover {
@@ -42,4 +75,8 @@ a {
   }
 }
 
+.off-screen {
+  position: absolute;
+  left: -99999999rem;
+}
 

@@ -2,18 +2,18 @@
 layout: default
 ---
 
-<main id="index-main">
+<div id="index-main">
   <header id="visuel-accueil" class="padding-vertical-3">
     <div class="encart-transparent padding-1 grid-y">
       <div class="titre-encart-transparent padding-top-2 text-center">
         <h1 class="h1 lighter margin-bottom-2">
-          {{page.texte-mis-en-avant}}
+          {{ page.texte-mis-en-avant }}
         </h1>
       </div>
       <div class="text-center">
-        <button href="/dinsic" class="button large bouton-transparent " >
+        <a href="/dinsic" class="button large bouton-transparent " >
           En savoir plus
-        </button>
+        </a>
       </div>
     </div>
   </header>
@@ -33,10 +33,10 @@ layout: default
             <div class="card-section padding-1">
               <h3 class="font-bold">{{ actualite.title }}</h3>
               <h4 class="subheader font-bold">{% include date.html date=actualite.date %}</h4>
-              <p>{{ actualite.excerpt | truncatewords: 40 }}</p>
+              {{ actualite.excerpt | truncatewords: 40 }}
             </div>
             <div class="margin-top-auto margin-bottom-1 margin-horizontal-1">
-              <button class="button blue-border-button zoom">Lire plus</button>
+              <span class="button blue-border-button zoom">Lire plus</span>
             </div>
               <hr class="blue-hr">
           </a>
@@ -44,8 +44,8 @@ layout: default
         {% endfor %}
       </ul>
     </div>
-    <div id="voir-tout" class="text-center padding-2">
-      <a href="/actualites">Voir toutes nos actus</a>
+    <div class="blue-margin-link text-center padding-2 ">
+      <a class="h4">Voir toutes nos actus</a>
     </div>
   </section>
-</main>
+</div>

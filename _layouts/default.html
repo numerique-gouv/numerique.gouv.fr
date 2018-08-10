@@ -9,6 +9,7 @@ layout: compress
 
     {% include header.html %}
 
+    <main role="main">
     {% capture hide %}
     {% assign content = content | split: '<pre' %}
 
@@ -38,6 +39,6 @@ layout: compress
     {% endcapture %}{{ output }}
 
     {% include footer.html %}
-
+    </main>
   </body>
 </html>

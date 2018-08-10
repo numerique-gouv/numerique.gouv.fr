@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 30.2" style="enable-background:new 0 0 24 30.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+</style>
+<title>pictos site Dinsic</title>
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="16.8521" y1="3.8484" x2="23.2461" y2="3.8484">
+			<stop  offset="0" style="stop-color:#0C5997"/>
+			<stop  offset="1" style="stop-color:#2AB2B8"/>
+		</linearGradient>
+		<polygon class="st0" points="16.9,0.7 16.9,7 23.2,7 		"/>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="0.8671" y1="15.0378" x2="23.2461" y2="15.0378">
+			<stop  offset="0" style="stop-color:#0C5997"/>
+			<stop  offset="1" style="stop-color:#2AB2B8"/>
+		</linearGradient>
+		<path class="st1" d="M0.9,0.7h14.4v8h8v20.8H0.9V0.7z"/>
+	</g>
+</g>
+</svg>

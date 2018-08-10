@@ -1,0 +1,38 @@
+// --------------------------------------------------
+// Layout Espace presse
+// --------------------------------------------------
+
+#contact-presse , #ressource-presse {
+  padding: 1rem;
+  img {
+    display: block;
+    height: 4rem;
+    margin: 1rem auto;
+  }
+  h2, p {
+    text-align: center;
+  }
+  p {
+    margin: 0;
+  }
+}
+#contact-presse {
+  color: $white!important;
+  background: linear-gradient(90deg, $bleue-degrade-1 50%, $bleue-degrade-2);
+  margin-bottom: 2rem;
+}
+
+#ressource-presse {
+  color: $white!important;
+  background: $bleue;
+}
+
+#list-communique {
+
+}
+
+.communique-link{
+  img {
+    width: 1rem;
+  }
+}

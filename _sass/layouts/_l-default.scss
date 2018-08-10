@@ -80,14 +80,23 @@ header {
   color: $bleue;
   font-size: 1.5rem;
 }
+.titre-site{
+  margin: 0;
+  padding: 1rem;
+  font-size: large;
+  font-weight: bold;
+  img {
+    padding-right: 0.5rem;
+  }
+  i {
+    font-weight: normal;
+  }
+}
 
 main {
   @include breakpoint(small only) {
     margin-top:3rem;
   }
-  max-width: 75rem;
-  margin-right: auto;
-  margin-left: auto;
 }
 
 .padding-vertical-content {
