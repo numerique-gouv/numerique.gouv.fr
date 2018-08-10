@@ -19,8 +19,8 @@ layout: default
           </div>
           {% endif %}
           <div class="padding-1">
-            <span class="h4 font-bold">{{ communique.title }}</span>
-            <span class="subheader font-bold">{% include date.html date=actualite.date %}</span>
+            <span class="h4 font-bold display-inline-block">{{ communique.title }}</span>
+            <span class="subheader font-bold date display-inline-block">{% include date.html date=communique.date %}</span>
             {{ communique.excerpt | truncatewords: 40 }}
           </div>
         </a>
