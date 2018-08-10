@@ -20,8 +20,8 @@ Le projet **OSHIMAE** fait son entrée dans le tableau de bord. Ce chantier reco
 
 Arrivés à leur terme, les projets **Alpha** (logiciel de gestion des achats du ministère des Armées) et **Chorus pro** (portail unique pour le dépôt, la réception et la transmission des factures électroniques destinées à l’État) sortiront dès la prochaine édition.
  
-**Une sécurisation des budgets et calendriers à renforcer
-**
+**Une sécurisation des budgets et calendriers à renforcer**
+
 Le suivi global de l’ensemble de ces 61 chantiers informatiques montre que la durée moyenne d’un projet reste constante, autour de **6,2 ans**, depuis les phases de cadrage jusqu’au déploiement. Le **taux d’écart budgétaire** (moyenne des écarts entre budgets prévisionnels initiaux et actualisés), qui s’établit aujourd’hui à **26%**, est relativement stable par rapport à la précédente édition (+1 point). Le **taux d’écart calendaire **(moyenne pondérée des écarts entre durées prévisionnelles initiales et actualisées), 29% pour cette 5e édition, s’est quant à lui accentué (+7 points).
 
 Plusieurs phénomènes expliquent ces écarts, notamment : certains projets ont vu leurs périmètres évoluer, soit par l’ajout de fonctionnalités, soit du fait de nouvelles mesures de transformation publique les impactant ; une phase de sécurisation supplémentaire en amont a été engagée pour de grands projets sensibles dans les domaines de la fiscalité et de la gestion RH ; enfin, des évolutions réglementaires ont demandé des réajustements.
@@ -34,4 +34,4 @@ Plus globalement, ces constats sont aussi l’occasion pour la DINSIC de rappele
 
 L’ensemble des données de cette édition et des précédentes également disponible en open data sur la plateforme [data.gouv.fr.](http://data.gouv.fr){: target="_blank"}
 
-**[Consulter la 5e édition du Panorama](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-son-systeme-dinformation/panorama-des-grands-projets-si-de-letat){: target="_blank"}*** 
+**[Consulter la 5e édition du Panorama](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-son-systeme-dinformation/panorama-des-grands-projets-si-de-letat){: target="_blank"}** 
