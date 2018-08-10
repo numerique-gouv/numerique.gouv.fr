@@ -8,7 +8,7 @@ layout: default
   <h1 class="text-center margin-top-2 blue-gradient-underline">{{ page.title }}</h1>
   {% assign sorted_communiques = site.communiques | sort:'date' | reverse %}
   <div class="grid-container">
-    <ul class=" grid-x grid-margin-x remove-bullet">
+    <ul class=" grid-x grid-margin-x remove-bullet margin-vertical-2">
       {% for communique in sorted_communiques limit:2 %}
       <li class="cell grid-y large-4 medium-12 small-12">
         <a href="{{ communique.url}}" class="black-link">
@@ -17,7 +17,7 @@ layout: default
             <img class="post__featured-image" alt="{{ communique.une-ou-diaporama[0].alternative-textuelle }}" src="{{ communique.une-ou-diaporama[0].image }}">
           </div>
           {% endif %}
-          <div class="cpadding-1">
+          <div class="padding-1">
             <span class="h4 font-bold">{{ communique.title }}</span>
             <span class="subheader font-bold">{% include date.html date=actualite.date %}</span>
             {{ communique.excerpt | truncatewords: 40 }}
@@ -46,7 +46,7 @@ layout: default
           <img src="{{ page.ressource-presse.pictogramme }}">
           <h2 class="white-underline">{{ page.ressource-presse.titre}}</h2>
           <p> {{ page.ressource-presse.contenu}} </p>
-          <div class="white-margin-link text-center padding-2">
+          <div class="white-margin-link text-center">
             <a href="#">Voir nos ressources presses</a>
           </div>
         </div>
@@ -54,27 +54,26 @@ layout: default
       </li>
 
     </ul>
-    <ul id="list-communique" class="no-bullet grid-y">
+    <ul id="list-communique" class="no-bullet grid-y margin-2">
       {% for communique in sorted_communiques %}
       <li>
         <div class="grid-x grid-margin-x">
           <div class="cell large-3 medium-4 small-6">
-            <a href="{{ communique.url }}">
-              {% if communique.une-ou-diaporama.size == 1 %}
-              <img class="post__featured-image gray-shadow" src="{{ base.url }}{{ communique.une-ou-diaporama[0].image  }}">
-              {% else %}
-              <img class="post__featured-image gray-shadow" src="{{ base.url }}/assets/img/default.png">
-              {% endif %}
-            </a>
+            {% if communique.une-ou-diaporama.size == 1 %}
+            <img class="post__featured-image" src="{{ base.url }}{{ communique.une-ou-diaporama[0].image  }}">
+            {% else %}
+            <img class="post__featured-image" src="{{ base.url }}/assets/img/default.png">
+            {% endif %}
           </div>
           <div class="cell large-9 medium-6 small-6">
-            <a class="communique-link" href="{{ communique.url }}">
-              <h2>
+            <a class="communique-link black-link" href="{{ communique.url }}">
+              <img class="display-inline" src="/assets/img/pictogrammes/communiqué_de_presse.svg">
+              <span>Communiqué de presse</span>
+              <h2 class="h3">
                 {{ communique.title }}
               </h2>
-              <span class="communique-meta">{% include date.html date=communique.date %}</span>
+              <span class="communique-meta date">{% include date.html date=communique.date %}</span>
             </a>
-            <a id="communiqueSize-{{ communique.url | replace: ' ', '' }}" class="blue-link" href="{{ base }}/{{ communique.communique_file }}">Télécharger le communiqué de presse ( PDF </a>
           </div>
         </div>
         <hr>

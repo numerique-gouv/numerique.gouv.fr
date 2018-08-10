@@ -3,6 +3,7 @@
 // --------------------------------------------------
 
 #contact-presse , #ressource-presse {
+  padding: 1rem;
   img {
     display: block;
     height: 4rem;
@@ -28,4 +29,10 @@
 
 #list-communique {
 
+}
+
+.communique-link{
+  img {
+    width: 1rem;
+  }
 }
