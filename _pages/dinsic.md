@@ -8,7 +8,7 @@ chapeau: 'La DINSIC est en charge de la transformation numérique de l’État a
   de l''État, création de services publics innovants pour les citoyens, qualité des
   démarches en ligne, gouvernement ouvert… '
 une:
-  image: "/assets/img/main/image-DINSIC.jpg"
+  image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: ordinateur portable
 layout: dinsic
 ---
