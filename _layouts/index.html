@@ -30,36 +30,13 @@ layout: default
         <div class="cell large-8 medium-6 small-12 post__image-container carte">
           <img class="post__featured-image" alt="{{ actualite_principal.une-ou-diaporama[0].alternative-textuelle }}" src="{{ actualite_principal.une-ou-diaporama[0].image }}">
         </div>
-        <div class="cell grid-y large-4 medium-6 small-12 carte">
-          <a href="{{ actualite_principal.url}}" class="height-100 black-link">
-            <div class="padding-1">
-              <h3 class="font-bold">{{ actualite_principal.title }}</h3>
-              <h4 class="subheader font-bold">{% include date.html date=actualite_principal.date %}</h4>
-              {{ actualite_principal.chapeau-text | truncatewords: 20}}
-            </div>
-            <div class="margin-top-auto margin-bottom-1 margin-horizontal-1">
-              <span class="button blue-border-button zoom">Lire plus</span>
-            </div>
-          </a>
-          <hr class="blue-hr margin-top-auto">
+        <div class="cell large-4 medium-6 small-12">
+          {% include components/carte.html data=actualite_principal is_image=false %}
         </div>
         <ul class="cell remove-bullet large-12 grid-x grid-margin-x margin-0 width-100">
           {% for actualite in sorted_actualites limit:3 offset:1 %}
-          <li class="cell grid-y carte large-4 medium-6 small-12">
-            <a href="{{ actualite.url}}" class="height-100 black-link">
-              <div class="post__image-container index-image-container">
-                <img class="post__featured-image" alt="{{ actualite.une-ou-diaporama[0].alternative-textuelle }}" src="{{ actualite.une-ou-diaporama[0].image }}">
-              </div>
-              <div class="padding-1">
-                <h3 class="font-bold">{{ actualite.title }}</h3>
-                <h4 class="subheader font-bold">{% include date.html date=actualite.date %}</h4>
-                {{ actualite.chapeau-text | truncatewords: 20}}
-              </div>
-              <div class="margin-top-auto margin-bottom-1 margin-horizontal-1">
-                <span class="button blue-border-button zoom">Lire plus</span>
-              </div>
-            </a>
-            <hr class="blue-hr margin-top-auto">
+          <li class="cell large-4 medium-6 small-12">
+            {% include components/carte.html data=actualite is_image=true  %}
           </li>
           {% endfor %}
         </ul>

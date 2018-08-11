@@ -11,21 +11,8 @@ layout: default
   <div class="grid-container">
     <ul class=" grid-x grid-margin-x remove-bullet margin-vertical-2">
       {% for communique in sorted_communiques limit:2 %}
-      <li class="carte cell grid-y large-4 medium-12 small-12">
-        <a href="{{ communique.url}}" class="cell black-link">
-          {% if communique.une-ou-diaporama.size == 1 %}
-          <div class="post__image-container index-image-container">
-            <img class="post__featured-image" alt="{{ communique.une-ou-diaporama[0].alternative-textuelle }}" src="{{ communique.une-ou-diaporama[0].image }}">
-          </div>
-          {% endif %}
-          <div class="padding-1">
-            <span class="h4 font-bold display-inline-block">{{ communique.title }}</span>
-            <span>Communiqué de presse |</span>
-            <span class="subheader font-bold date padding-bottom-2 display-inline-block">{% include date.html date=communique.date %}</span>
-            {{ communique.excerpt | truncatewords: 40 }}
-          </div>
-        </a>
-        <hr class="blue-hr margin-top-auto">
+      <li class="cell grid-y large-4 medium-12 small-12">
+        {% include components/carte.html data=communique is_image=true %}
       </li>
       {% endfor %}
       <li class="cell large-4 medium-12 small-12">

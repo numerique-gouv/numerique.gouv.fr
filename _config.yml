@@ -43,6 +43,7 @@ defaults:
     communique_file: uploads/exemple.pdf
     layout: communique
     permalink: "/espace-presse/:title/"
+    type: Comuniqué de presse
     contact-presse:
       name: Rachel Wadoux
       tel:
