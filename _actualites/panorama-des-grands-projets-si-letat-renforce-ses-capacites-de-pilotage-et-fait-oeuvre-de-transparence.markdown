@@ -2,6 +2,13 @@
 title: 'Panorama des grands projets SI : l''État renforce ses capacités de pilotage
   et fait œuvre de transparence'
 date: 2016-11-18 10:21:00 +01:00
+categories:
+- Article
+tags:
+- panorama des grands projets SI
+- sécurisation
+- système d'information
+- transparence
 is_une: false
 chapeau-text: La DINSIC rend aujourd’hui publique la liste des grands projets du système
   d’information (SI) de l'Etat, élaborée avec les ministères. Cet outil d’information
@@ -21,10 +28,10 @@ Cet outil inédit a été conçu à la demande du Premier ministre ([circulaire 
  
 ## Les données clés de 57 projets publiées en ligne ##
 
-Tout citoyen dispose d'une vue sur les principaux efforts consentis par l'Etat pour moderniser son système d’information et engager une transformation numérique. Il a accès aux informations détaillées sur chacun des grands projets qui ont été retenus dans cette première édition du panorama. « Sa publication sert les principes de transparence et de redevabilité et renforce les relations avec les fournisseurs, éditeurs et sociétés de services Elle contribue aussi à améliorer l'efficacité de l'action de l’Etat. », souligne Henri Verdier, DSI de l’Etat.
+Tout citoyen dispose d'une vue sur les principaux efforts consentis par l'Etat pour moderniser son système d’information et engager une transformation numérique. Il a accès aux informations détaillées sur chacun des grands projets qui ont été retenus dans cette première édition du panorama. <i>« Sa publication sert les principes de transparence et de redevabilité et renforce les relations avec les fournisseurs, éditeurs et sociétés de services Elle contribue aussi à améliorer l'efficacité de l'action de l’Etat »</i>, souligne Henri Verdier, DSI de l’Etat.
 
-Le panorama est également une aide pour la DINSIC dans sa mission de sécurisation des projets informatiques. L'enjeu de sécurisation des projets est de taille pour l’Etat, comme pour toutes les grandes organisations qui mènent des chantiers d’ampleur. Selon le rapport CHAOS 2015 du Standish Group, qui a passé au crible 50 000 projets à travers le monde, seuls 29% réussissent dans les coûts et les délais prévus et 19% sont même arrêtés avant d’arriver à leur terme.
- 
+Le panorama est également une aide pour la DINSIC dans sa mission de sécurisation des projets informatiques. L'enjeu de sécurisation des projets est de taille pour l’Etat, comme pour toutes les grandes organisations qui mènent des chantiers d’ampleur. Selon le rapport CHAOS 2015 du Standish Group, qui a passé au crible 50&#160;000 projets à travers le monde, seuls 29% réussissent dans les coûts et les délais prévus et 19% sont même arrêtés avant d’arriver à leur terme.
+
 ## Une vigilance accrue portée aux projets stratégiques ou sensibles ##
 
 Le panorama inclut en priorité les projets qui requièrent un suivi particulier en raison de leurs impacts, de leur degré de complexité et/ou de leurs enjeux financiers.
