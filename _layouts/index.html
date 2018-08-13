@@ -17,11 +17,9 @@ layout: default
       </div>
     </div>
   </header>
-  <section id="meilleures-actus" >
+  <section id="meilleures-actus" class="gray-background">
     {% assign sorted_actualites = site.actualites | where: "is_une","true" | sort:'date' | reverse %}
     {% assign actualite_principal = sorted_actualites.first %}
-
-
     <div class="text-center padding-top-3 padding-bottom-2">
       <h2 class="font-bold">{{ page.titre-une }}</h2>
     </div>
@@ -43,7 +41,7 @@ layout: default
       </div>
     </div>
     <div class="blue-margin-link text-center padding-2 ">
-      <a class="h4">Voir toutes nos actus</a>
+      <a href="actualites.html" class="h4">Voir toutes nos actus</a>
     </div>
   </section>
 </div>

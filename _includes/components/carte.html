@@ -8,13 +8,13 @@
       <img class="post__featured-image" alt="{{ carte.une-ou-diaporama[0].alternative-textuelle }}" src="{{ carte.une-ou-diaporama[0].image }}">
     </div>
     {% endif %}
-    <div class="padding-1">
-      <p class="h3 font-bold">{{ carte.title }}</p>
-      {% if carte.type %}
-      <span class="h5 date display-inline-block">{{ carte.type }} | </span>
+    <div class="padding-2">
+      <p class="h4 font-bold margin-0">{{ carte.title }}</p>
+      {% if carte.categories %}
+      <span class="h6 date display-inline-block">{{ carte.categories }} | </span>
       {% endif %}
       {% if carte.date %}
-      <span class="h5 date display-inline-block">{% include date.html date=carte.date %}</span>
+      <span class="h6 date display-inline-block">{% include date.html date=carte.date %}</span>
       {% endif %}
       <p>
         {% if carte.chapeau-text %}

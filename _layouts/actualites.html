@@ -3,50 +3,70 @@ layout: default
 ---
 <div id="actualites">
   <div class="post__image-container">
-    <img id="image-de-tete" class="post__featured-image" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
+    <img id="image-de-tete" class="post__featured-image" alt="{{ page.une.alternative-textuelle }}" src="{{ page.une.image | relative_url }}">
   </div>
-  <h1 class="text-center margin-top-2 blue-gradient-underline">{{ page.title }}</h1>
-  <div id="meilleures-actus">
-    {% assign sorted_actualites = site.actualites | where: "is_une","true" | sort:'date' | reverse %}
-    {% assign actualite_principal = sorted_actualites.first %}
-    <div class="grid-container">
-      <div class="grid-x grid-margin-x grid-margin-y margin-bottom-2">
-        <div class="cell large-8 medium-6 small-12 post__image-container carte">
-          <img class="post__featured-image" alt="{{ actualite_principal.une-ou-diaporama[0].alternative-textuelle }}" src="{{ actualite_principal.une-ou-diaporama[0].image }}">
+  <section class="margin-0" >
+    <div class="gray-background padding-vertical-2">
+      <div class="max-width-75" >
+        <h1 class="text-center padding-vertical-3 margin-0 blue-gradient-underline font-bold">{{ page.title }}</h1>
+        <div id="meilleures-actus" class="margin-bottom-5">
+          {% assign sorted_actualites = site.actualites | where: "is_une","true" | sort:'date' | reverse %}
+          {% assign actualite_principal = sorted_actualites.first %}
+          <div class="grid-x grid-margin-x grid-margin-y margin-bottom-2">
+            <div class="cell large-8 medium-6 small-12 post__image-container carte">
+              <img class="post__featured-image" alt="{{ actualite_principal.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ actualite_principal.une-ou-diaporama[0].image }}">
+            </div>
+            <div class="cell large-4 medium-6 small-12">
+              {% include components/carte.html data=actualite_principal is_image=false %}
+            </div>
+            <ul class="cell remove-bullet large-12 grid-x grid-margin-x margin-0 width-100">
+              {% for actualite in sorted_actualites limit:3 offset:1 %}
+              <li class="cell large-4 medium-6 small-12">
+                {% include components/carte.html data=actualite is_image=true  %}
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
         </div>
-        <div class="cell large-4 medium-6 small-12">
-          {% include components/carte.html data=actualite_principal is_image=false %}
-        </div>
-        <ul class="cell remove-bullet large-12 grid-x grid-margin-x margin-0 width-100">
-          {% for actualite in sorted_actualites limit:3 offset:1 %}
-          <li class="cell large-4 medium-6 small-12">
-            {% include components/carte.html data=actualite is_image=true  %}
-          </li>
-          {% endfor %}
-        </ul>
       </div>
     </div>
+    <div class="max-width-75 padding-vertical-2" >
+      <ul class="no-bullet grid-y" id="liste_actualites">
+        {% for actualite in sorted_actualites %}
+        <li  class="grid-x grid-margin-x">
+          <div class="cell post__image-container large-3 medium-4 small-12">
+            {% if actualite.une-ou-diaporama[0].image %}
+            <img class="post__featured-image" alt="{{ actualite.une-ou-diaporama[0].alternative-textuelle }}" src="{{ actualite.une-ou-diaporama[0].image | relative_url }}">
+            {% else %}
+            <img class="post__featured-image" alt="image par default" src="{{ '/assets/img/default.png'  | relative_url }}" >
+            {% endif %}
+          </div>
+          <div class="content cell large-9 medium-8 small-12">
+            <a class="black-link" href="{{ actualite.url | relative_url }}">
+              <img class="icon" src="
+            {% case actualite.categories.first %}
+              {% when 'Actualité' %}
+                /assets/img/pictogrammes/article.svg
+              {% when 'Infographie' %}
+                /assets/img/pictogrammes/infographie.svg
+              {% else %}
+                /assets/img/pictogrammes/article.svg
+            {% endcase %}
+            ">
+              <span> {{ actualite.categories.first}} </span>
+              <p class="h5 font-bold margin-0">{{ actualite.title }}</p>
+              <p class="post-meta date">{% include date.html date=actualite.date %}</p>
+              <p>{{ actualite.chapeau-text | truncatewords: 20}}</p>
+            </a>
+          </div>
+          {% if forloop.last == false %}
+          <hr class="cell">
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
   </section>
-    <ul class="no-bullet grid-y">
-      {% for post in sorted_actualites %}
-      <li  class="grid-x grid-margin-x">
-        <div class="illustration cell post__image-container large-6 small-12">
-          <img class="post__featured-image" alt="{{ post.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ post.une-ou-diaporama[0].image }}">
-        </div>
-        <div class="content cell large-6 small-12">
-          <span class="post-meta">{% include date.html date=post.date %}</span>
-          <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </h2>
-          <p>{{ post.chapeau-text }}</p>
-          <a class="blue-link" href="{{ post.url }}">Lire plus...</a>
-        </div>
-        {% if forloop.last == false %}
-        <hr class="cell">
-        {% endif %}
-      </li>
-      {% endfor %}
-    </ul>
 </div>
 
 

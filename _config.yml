@@ -29,6 +29,8 @@ defaults:
   values:
     layout: post
     is_une: true
+    categories:
+    - Actualité
     chapeau-text:
     une-ou-diaporama:
     - image:
@@ -43,7 +45,13 @@ defaults:
     communique_file: uploads/exemple.pdf
     layout: communique
     permalink: "/espace-presse/:title/"
-    type: Comuniqué de presse
+    categories:
+      - Communiqué de presse
+    chapeau-text:
+    une-ou-diaporama:
+    - image:
+      legende:
+      alternative-textuelle:
     contact-presse:
       name: Rachel Wadoux
       tel:

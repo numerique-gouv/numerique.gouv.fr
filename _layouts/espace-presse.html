@@ -6,52 +6,54 @@ layout: default
   <div class="post__image-container">
     <img id="image-de-tete" class="post__featured-image" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
   </div>
-  <h1 class="text-center margin-top-2 blue-gradient-underline">{{ page.title }}</h1>
-  {% assign sorted_communiques = site.communiques | sort:'date' | reverse %}
-  <div class="grid-container">
-    <ul class=" grid-x grid-margin-x remove-bullet margin-vertical-2">
-      {% for communique in sorted_communiques limit:2 %}
-      <li class="cell grid-y large-4 medium-12 small-12">
-        {% include components/carte.html data=communique is_image=true %}
-      </li>
-      {% endfor %}
-      <li class="cell large-4 medium-12 small-12">
-        <div id="contact-presse" class="padding-vertical-1 align-middle">
-          <img src="{{ page.contact-presse.pictogramme }}">
-          <h2 class="h3 white-underline">{{ page.contact-presse.titre}}</h2>
-          <p>{{ page.contact-presse.name }}</p>
-          <p>
-            {% for tel in page.contact-presse.tel%}
-            {% if forloop.last == true %}
-            {{ tel }}
-            {% else %}
-            {{ tel }} -
-            {% endif %}
-            {% endfor %}
-          </p>
-          <a class="white-link display-block text-center" href="mailto:{{ site.contact-presse.email }}">{{ page.contact-presse.email }}</a>
-        </div>
-        <div id="ressource-presse">
-          <img src="{{ page.ressource-presse.pictogramme }}">
-          <h2 class="h3 white-underline">{{ page.ressource-presse.titre}}</h2>
-          <p> {{ page.ressource-presse.contenu}} </p>
-          <div class="white-margin-link text-center">
-            <a href="#">Voir nos ressources presses</a>
+  <div class="gray-background padding-vertical-2">
+    <h1 class="text-center margin-vertical-3 blue-gradient-underline font-bold">{{ page.title }}</h1>
+    {% assign sorted_communiques = site.communiques | sort:'date' | reverse %}
+    <div class="grid-container">
+      <ul class=" grid-x grid-margin-x remove-bullet margin-vertical-2">
+        {% for communique in sorted_communiques limit:2 %}
+        <li class="cell grid-y large-4 medium-12 small-12">
+          {% include components/carte.html data=communique is_image=true %}
+        </li>
+        {% endfor %}
+        <li class="cell large-4 medium-12 small-12">
+          <div id="contact-presse" class="padding-vertical-1 align-middle">
+            <img src="{{ page.contact-presse.pictogramme }}">
+            <h2 class="h3 white-underline">{{ page.contact-presse.titre}}</h2>
+            <p>{{ page.contact-presse.name }}</p>
+            <p>
+              {% for tel in page.contact-presse.tel%}
+              {% if forloop.last == true %}
+              {{ tel }}
+              {% else %}
+              {{ tel }} -
+              {% endif %}
+              {% endfor %}
+            </p>
+            <a class="white-link display-block text-center" href="mailto:{{ site.contact-presse.email }}">{{ page.contact-presse.email }}</a>
           </div>
-        </div>
-
-      </li>
-
-    </ul>
+          <div id="ressource-presse">
+            <img src="{{ page.ressource-presse.pictogramme }}">
+            <h2 class="h3 white-underline">{{ page.ressource-presse.titre}}</h2>
+            <p> {{ page.ressource-presse.contenu}} </p>
+            <div class="white-margin-link text-center">
+              <a href="#">Voir nos ressources presses</a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="grid-container">
     <ul id="list-communique" class="no-bullet grid-y margin-2">
       {% for communique in sorted_communiques %}
       <li>
         <div class="grid-x grid-margin-x">
           <div class="cell large-3 medium-4 small-6">
-            {% if communique.une-ou-diaporama.size == 1 %}
-            <img class="post__featured-image" src="{{ base.url }}{{ communique.une-ou-diaporama[0].image  }}">
+            {% if communique.une-ou-diaporama[0].image %}
+            <img class="post__featured-image" src="{{ communique.une-ou-diaporama[0].image | relative_url}}">
             {% else %}
-            <img class="post__featured-image" src="{{ base.url }}/assets/img/default.png">
+            <img class="post__featured-image" src="'/assets/img/default.png' | relative_url">
             {% endif %}
           </div>
           <div class="cell large-9 medium-6 small-6">
@@ -69,7 +71,6 @@ layout: default
       </li>
       {% endfor %}
     </ul>
-
   </div>
 </div>
 
