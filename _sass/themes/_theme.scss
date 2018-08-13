@@ -63,7 +63,6 @@
 }
 
 .gray-background {
-  padding: 3rem 0 2rem 0;
   background-color: $light-gray;
 }
 
@@ -124,16 +123,25 @@
   list-style: none;
 }
 
-
 .chapeau {
+  text-align: center;
+  padding: 1rem 2rem;
+  line-height: 1.6rem;
+  font-family: "Times New Roman", sans-serif;
   font-size: larger;
   border-left: none;
-  text-align: center;
-  font-family: "Times New Roman", sans-serif;
   color: black;
+  @include breakpoint(medium down) {
+    padding-left: 1rem O;
+  }
 }
+
 .date {
   color: $dark-gray;
+}
+.auteur {
+  color: $dark-gray;
+  font-style: italic;
 }
 .carte {
   background-color: $white;
@@ -234,7 +242,7 @@
   }
 }
 .exergue {
-  padding: 2rem 0 2rem 0;
+  padding: 2rem;
   border-left: none;
   background-color: $bulbizarre;
   p {
@@ -247,3 +255,5 @@
   width: 100%;
   height: 30vh;
 }
+
+

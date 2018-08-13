@@ -2,23 +2,6 @@
 // Layout post and other
 // --------------------------------------------------
 
-.list-post {
-  li {
-    &:nth-child(odd) {
-      flex-direction: row-reverse;
-      .illustration {
-        box-shadow: -0.5rem -0.5rem 0rem $light-gray;
-      }
-    }
-    &:nth-child(even) {
-      flex-direction: row-;
-      .illustration {
-        box-shadow: 0.5rem -0.5rem 0rem $light-gray;
-      }
-    }
-  }
-}
-
 .post-content {
   margin-top: 6rem;
 }
