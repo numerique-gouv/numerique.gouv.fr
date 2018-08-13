@@ -18,14 +18,14 @@ Pendant plusieurs mois, associations d’élus et représentants des services de
 
 Depuis 2011, l’État et les collectivités se sont en effet engagés à développer ensemble l’administration numérique. Un **premier programme DCANT** avait ainsi vu le jour pour **la période 2015-2017**. Forts du retour d’expérience positif de ce premier volet, le gouvernement et les associations d’élus locaux ont souhaité renforcer et accélérer cette dynamique en définissant de nouveaux axes de travail, à travers l’élaboration du **programme DCANT 2018-2020**, entièrement coconstruit et coécrit.
 
-*Dans les coulisses de l'élaboration du programme DCANT*{: .align-center}
+*Dans les coulisses de l'élaboration du programme DCANT*{: .text-align-center}
 <iframe frameborder="0" width="620" height="348" src="//www.dailymotion.com/embed/video/x6c1gha" allowfullscreen allow="autoplay"></iframe>
 
 Fruit de plusieurs mois de travail collaboratif et coordonné par la **direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC)**, le programme DCANT 2018-2020 a pour ambition de fixer la feuille de route à suivre pour transformer les services publics par le numérique. Il s’inscrit dans une stratégie plus globale de plateforme, qui repose sur le principe que les ressources numériques utilisés et  éprouvées avec succès par les administrations doivent être ouvertes et réutilisables par d’autres administrations, dans une logique de partage, et ce afin de faciliter la création de nouveaux services publics. Le mode plateforme serait ainsi source de convergence numérique pour l’État et les collectivités.
 A la clé ? Des services numériques plus fluides et accessibles à tous et une simplification de la délivrance du service public territorial.
 
 <iframe frameborder="0" width="620" height="348" src="//www.dailymotion.com/embed/video/x6c1gye" allowfullscreen allow="autoplay" align="center"></iframe>
-*Découvrez des services publics 2.0 : Marchés Publics Simplifiés (MPS) et FranceConnect*{: .align-center}
+*Marchés Publics Simplifiés (MPS) et FranceConnect : des services publics 2.0*{: .text-align-center}
 
 **Animer le développement de l’administration numérique territoriale, une conviction partagée entre État et collectivités**
 
