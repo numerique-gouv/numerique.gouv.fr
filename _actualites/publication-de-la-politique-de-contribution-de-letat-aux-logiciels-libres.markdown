@@ -32,6 +32,6 @@ La DINSIC publiera dans un second temps une méthodologie pour accompagner les a
 
 La DINSIC souhaite ainsi faciliter l’ouverture des codes sources publics et renforcer la contribution de l’État aux biens communs numériques.
 
-Ce document est publié sur Github sous la [licence Ouverte 2.0](https://github.com/DISIC/politique-de-contribution-open-source/raw/master/LICENSE.pdf){: target="_blank"}(pdf).
+Ce document est publié sur Github sous la [licence Ouverte 2.0](https://github.com/DISIC/politique-de-contribution-open-source/raw/master/LICENSE.pdf){: target="_blank"} (pdf).
 
 [\>> Consulter la politique de contribution de l’Etat aux logiciels libres de la DINSIC <<](https://disic.github.io/politique-de-contribution-open-source/){: target="_blank"} {: .text-align-center}
