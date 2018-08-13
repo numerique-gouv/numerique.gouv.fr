@@ -5,7 +5,7 @@ date: 2016-11-18 10:21:00 +01:00
 categories:
 - Article
 tags:
-- panorama
+- panorama des grands projets SI
 - sécurisation
 - système d'information
 - transparence
