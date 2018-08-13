@@ -2,7 +2,7 @@
 title: Publication de la politique de contribution de l’Etat aux logiciels libres
 date: 2018-08-10 15:42:00 +02:00
 categories:
-- Actualité
+- Article
 chapeau-text: Comment ouvrir ses codes sources ? Quelle licence choisir ? Comment
   un agent public peut-il contribuer à un logiciel libre existant ?
 une-ou-diaporama:

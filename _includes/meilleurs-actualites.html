@@ -1,0 +1,19 @@
+<div id="meilleures-actualites" class="grid-container">
+  {% assign sorted_actualites = site.actualites | where: "is_une","true" | sort:'date' | reverse %}
+  {% assign actualite_principal = sorted_actualites.first %}
+  <div class="grid-x grid-margin-x grid-margin-y margin-bottom-2">
+    <div class="cell large-8 medium-6 small-12 post__image-container height-20rem">
+      <img class="post__featured-image" alt="{{ actualite_principal.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ actualite_principal.une-ou-diaporama[0].image }}">
+    </div>
+    <div class="cell large-4 medium-6 small-12">
+      {% include components/carte.html data=actualite_principal is_image=false %}
+    </div>
+    <ul class="cell remove-bullet large-12 grid-x grid-margin-x margin-0 width-100">
+      {% for actualite in sorted_actualites limit:3 offset:1 %}
+      <li class="cell large-4 medium-6 small-12">
+        {% include components/carte.html data=actualite is_image=true  %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

@@ -5,8 +5,8 @@ layout: default
 {% assign missions-ordered = site.missions-dinsic | sort: 'ordre'%}
 <div id="dinsic-page" class="gray-background ">
   <div class="post__image-container">
-  <img id="image-de-tete" class="post__featured-image" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
-</div>
+    <img class="post__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
+  </div>
   <section id="titre-dinsic-page" class="cell white-container" >
     <h1 class="font-bold text-center margin-0">{{ page.title }}</h1>
 
@@ -27,7 +27,7 @@ layout: default
     <h3 class="text-center font-bold">Nos 5 missions</h3>
     <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
       {% for mission in missions-ordered %}
-      <a href="#mission{{ mission.ordre }}"  class="cell nav-section grid-y medium-6 large-4 ">
+      <a href="#mission{{ mission.ordre }}"  class="cell nav-section grid-y medium-6 large-4 black-link">
         <img alt="icon {{ mission.title }}" src="{{base}}/assets/img/pictogrammes/{{ mission.icon }}">
         <span class="h5 text-center">{{ mission.title }}</span>
         <span class="button">Voir plus</span>
@@ -48,7 +48,7 @@ layout: default
             <i class="fas fa-search icon-loupe"></i>
             <h4 class="font-bold display-inline-block">{{ mission.encadre.titre }}</h4>
           </div>
-          <p>{{ mission.encadre.contenu-text }}</p>
+          <p>{{ mission.encadre.contenu-text | markdownify }}</p>
           <div class="chiffres-encadre grid-x grid-margin-x margin-top-2">
             {% for chiffre in mission.encadre.chiffres %}
             <div class="chiffre-encadre medium-auto cell small-12 grid-y align-middle padding-horizontal-1">
