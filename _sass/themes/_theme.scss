@@ -28,6 +28,7 @@
     width: 6rem;
     border-color: $white;
     border-bottom: 0.1rem solid;
+    height: 0.1rem;
     border-top: 0;
     border-left: 0;
     margin: 1rem auto;
@@ -62,9 +63,6 @@
 }
 
 .gray-background {
-  max-width: none;
-  margin-right: auto;
-  margin-left: auto;
   background-color: $light-gray;
 }
 
@@ -77,6 +75,19 @@
 
 .max-width-75 {
   max-width: 75rem;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 3rem;
+  @include breakpoint(medium only) {
+    padding: 0 2rem;
+  }
+  @include breakpoint(small only) {
+    paddi: 0 1rem;
+  }
+}
+
+.max-width-60 {
+  max-width: 60rem;
   margin-right: auto;
   margin-left: auto;
   padding: 0 3rem;
@@ -112,16 +123,25 @@
   list-style: none;
 }
 
-
 .chapeau {
+  text-align: center;
+  padding: 1rem 2rem;
+  line-height: 1.6rem;
+  font-family: "Times New Roman", sans-serif;
   font-size: larger;
   border-left: none;
-  text-align: center;
-  font-family: "Times New Roman", sans-serif;
   color: black;
+  @include breakpoint(medium down) {
+    padding-left: 1rem O;
+  }
 }
+
 .date {
   color: $dark-gray;
+}
+.auteur {
+  color: $dark-gray;
+  font-style: italic;
 }
 .carte {
   background-color: $white;
@@ -222,7 +242,7 @@
   }
 }
 .exergue {
-  padding: 2rem 0 2rem 0;
+  padding: 2rem;
   border-left: none;
   background-color: $bulbizarre;
   p {
@@ -230,3 +250,10 @@
     color: $bleue;
   }
 }
+
+.image-de-tete {
+  width: 100%;
+  height: 30vh;
+}
+
+

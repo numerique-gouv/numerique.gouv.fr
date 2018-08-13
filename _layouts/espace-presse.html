@@ -4,12 +4,13 @@ layout: default
 
 <div id="espace-presse" role="main">
   <div class="post__image-container">
-    <img id="image-de-tete" class="post__featured-image" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
+    <img class="post__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
   </div>
   <div class="gray-background padding-vertical-2">
     <h1 class="text-center margin-vertical-3 blue-gradient-underline font-bold">{{ page.title }}</h1>
     {% assign sorted_communiques = site.communiques | sort:'date' | reverse %}
-    <div class="max-width-75">
+    <section class="max-width-75">
+      <h2 class="off-screen">À la une</h2>
       <ul class=" grid-x grid-margin-x remove-bullet margin-vertical-2">
         {% for communique in sorted_communiques limit:2 %}
         <li class="cell grid-y large-4 medium-12 small-12">
@@ -17,7 +18,7 @@ layout: default
         </li>
         {% endfor %}
         <li class="cell large-4 medium-12 small-12">
-          <div id="contact-presse" class="padding-vertical-1 align-middle">
+          <div id="contact-presse" class="padding-vertical-2">
             <img src="{{ page.contact-presse.pictogramme }}">
             <h2 class="h3 white-underline">{{ page.contact-presse.titre}}</h2>
             <p>{{ page.contact-presse.name }}</p>
@@ -32,19 +33,20 @@ layout: default
             </p>
             <a class="white-link display-block text-center" href="mailto:{{ site.contact-presse.email }}">{{ page.contact-presse.email }}</a>
           </div>
-          <div id="ressource-presse">
+          <div id="ressources-presse" class="padding-vertical-2">
             <img src="{{ page.ressource-presse.pictogramme }}">
             <h2 class="h3 white-underline">{{ page.ressource-presse.titre}}</h2>
             <p> {{ page.ressource-presse.contenu}} </p>
-            <div class="white-margin-link text-center">
-              <a href="#">Voir nos ressources presses</a>
+            <div class="white-margin-link text-center margin-top-1">
+              <a href="#">Voir nos ressources presse</a>
             </div>
           </div>
         </li>
       </ul>
-    </div>
+    </section>
   </div>
-  <div class="max-width-75 padding-vertical-2">
+  <section class="max-width-60 padding-vertical-2">
+    <h2>Tous nos communiqués et dossiers de presse</h2>
     <ul id="list-communique" class="no-bullet grid-y">
       {% for communique in sorted_communiques %}
       <li>
@@ -71,7 +73,7 @@ layout: default
       </li>
       {% endfor %}
     </ul>
-  </div>
+  </section>
 </div>
 
 

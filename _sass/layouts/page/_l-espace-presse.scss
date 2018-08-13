@@ -2,15 +2,16 @@
 // Layout Espace presse
 // --------------------------------------------------
 
-#contact-presse , #ressource-presse {
+#contact-presse , #ressources-presse {
   padding: 1rem;
   img {
     display: block;
     height: 4rem;
-    margin: 1rem auto;
+    margin: 0 auto 1rem auto;
   }
   h2, p {
     text-align: center;
+    margin-bottom: 1rem;
   }
   p {
     margin: 0;
@@ -22,7 +23,7 @@
   margin-bottom: 2rem;
 }
 
-#ressource-presse {
+#ressources-presse {
   color: $white!important;
   background: $bleue;
 }

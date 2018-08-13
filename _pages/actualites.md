@@ -1,5 +1,5 @@
 ---
-title: Toutes nos actualités
+title: Actualités
 permalink: "/actualites/"
 position: 0
 layout: actualites

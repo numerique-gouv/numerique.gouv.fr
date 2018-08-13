@@ -17,31 +17,11 @@ layout: default
       </div>
     </div>
   </header>
-  <section id="meilleures-actus" class="gray-background">
-    {% assign sorted_actualites = site.actualites | where: "is_une","true" | sort:'date' | reverse %}
-    {% assign actualite_principal = sorted_actualites.first %}
-    <div class="text-center padding-top-3 padding-bottom-2">
-      <h2 class="font-bold">{{ page.titre-une }}</h2>
-    </div>
-    <div class="grid-container">
-      <div class="grid-x grid-margin-x grid-margin-y margin-bottom-2">
-        <div class="cell large-8 medium-6 small-12 post__image-container carte">
-          <img class="post__featured-image" alt="{{ actualite_principal.une-ou-diaporama[0].alternative-textuelle }}" src="{{ actualite_principal.une-ou-diaporama[0].image }}">
-        </div>
-        <div class="cell large-4 medium-6 small-12">
-          {% include components/carte.html data=actualite_principal is_image=false %}
-        </div>
-        <ul class="cell remove-bullet large-12 grid-x grid-margin-x margin-0 width-100">
-          {% for actualite in sorted_actualites limit:3 offset:1 %}
-          <li class="cell large-4 medium-6 small-12">
-            {% include components/carte.html data=actualite is_image=true  %}
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
+  <section class="gray-background padding-top-3">
+    <h2 class="font-bold text-center margin-bottom-3">{{ page.titre-une }}</h2>
+    {% include meilleurs-actualites.html %}
     <div class="blue-margin-link text-center padding-2 ">
-      <a href="actualites.html" class="h4">Voir toutes nos actus</a>
+      <a href="{{ '/actualites' | relative_url }}" class="h4">Voir toutes nos actus</a>
     </div>
   </section>
 </div>

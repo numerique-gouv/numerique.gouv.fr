@@ -80,3 +80,28 @@ a {
   left: -99999999rem;
 }
 
+.partager {
+  margin: 1rem;
+  ul {
+    list-style: none;
+    margin: 0 auto;
+    text-align: center;
+    li {
+      display: inline;
+      &:before {
+        content: none!important;
+      }
+      a {
+        &:hover {
+          text-decoration: none;
+        }
+        img {
+          width: 2rem;
+          margin: 0.2rem;
+        }
+      }
+    }
+  }
+
+}
+

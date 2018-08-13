@@ -1,0 +1,22 @@
+
+<h1 class="font-bold text-center margin-0">{{ page.title }}</h1>
+
+<div class="h2 text-center">{{ page.sous-titre }}</div>
+<hr>
+{% if page.chapeau-text %}
+<div class="lead chapeau">
+  {{ page.chapeau-text | markdownify }}
+</div>
+{% endif %}
+<div class="meta text-center">
+  {% if page.date %}
+  <span class="date ">{% include date.html date=page.date %}</span>
+  {% endif %}
+  {% if page.auteur and page.date %}
+  <span class="meta"> | </span>
+  {% endif %}
+  {% if page.auteur %}
+  <span class="auteur ">{{ page.auteur }}</span>
+  {% endif %}
+</div>
+{% include components/partager.html %}

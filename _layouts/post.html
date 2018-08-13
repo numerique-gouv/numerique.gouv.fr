@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="post">
+<div class="post gray-background">
   <article>
     {% if page.une-ou-diaporama.size == 1 %}
     <div class="post__image-container">
@@ -10,13 +10,7 @@ layout: default
     </div>
     {% endif %}
     <div id="content-article" class="margin-2">
-      <h1 class="text-center">{{ page.title }}</h1>
-      {% if page.chapeau-text %}
-      <p class="chapeau">
-        {{page.chapeau-text}}
-      </p>
-      {% endif %}
-      <p class="meta text-center date ">{% include date.html date=page.date %}</p>
+      {% include components/titre-page-fille.html %}
       <p class="post-content">
         {{ content }}
       </p>

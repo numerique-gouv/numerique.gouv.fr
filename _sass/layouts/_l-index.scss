@@ -39,19 +39,7 @@
     }
   }
 }
-#meilleures-actus {
-  ul {
-    li {
-      background-color: $white;
-      @include breakpoint(medium down) {
-        margin-bottom: 1rem;
-      }
-      .index-image-container {
-        height: 13rem !important;
-      }
-    }
-  }
-}
+
 
 
 
