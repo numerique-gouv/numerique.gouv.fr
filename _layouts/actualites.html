@@ -55,7 +55,7 @@ layout: default
             ">
               <span> {{ actualite.categories.first}} </span>
               <p class="h5 font-bold margin-0">{{ actualite.title }}</p>
-              <p class="post-meta date">{% include date.html date=actualite.date %}</p>
+              <p class="post-meta h6 date">{% include date.html date=actualite.date %}</p>
               <p>{{ actualite.chapeau-text | truncatewords: 20}}</p>
             </a>
           </div>

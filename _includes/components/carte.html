@@ -11,7 +11,7 @@
     <div class="padding-2">
       <p class="h4 font-bold margin-0">{{ carte.title }}</p>
       {% if carte.categories %}
-      <span class="h6 date display-inline-block">{{ carte.categories }} | </span>
+      <span class="h6 date display-inline">{{ carte.categories }} | </span>
       {% endif %}
       {% if carte.date %}
       <span class="h6 date display-inline-block">{% include date.html date=carte.date %}</span>
