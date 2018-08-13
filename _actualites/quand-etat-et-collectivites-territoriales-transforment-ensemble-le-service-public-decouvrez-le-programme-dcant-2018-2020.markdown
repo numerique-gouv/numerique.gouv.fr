@@ -29,6 +29,7 @@ A la clé ? Des services numériques plus fluides et accessibles à tous et une 
 *Marchés Publics Simplifiés (MPS) et FranceConnect : des services publics 2.0*{: .text-align-center}
 
 
+
 **Animer le développement de l’administration numérique territoriale, une conviction partagée entre État et collectivités**
 
 Le programme DCANT répond également à la volonté de renforcer la concertation État-territoires à travers la conférence nationale des territoires (CNT), mise en place par le Gouvernement pour associer les collectivités territoriales en amont de toute décision qui les concerne. Réunie une première fois le 17 juillet 2017, la CNT fixait la transition numérique des territoires comme l’une de ses priorités.
@@ -46,5 +47,5 @@ Parmi les **35 actions à engager au 1er semestre 2018** : valoriser la cyber s�
 Pour approfondir ces nouvelles alliances, l’objectif à terme est d’ouvrir la gouvernance du programme aux associations professionnelles et aux acteurs privés dans une logique d’ouverture et de coopération.
 Fédérer les énergies de l’État et des collectivités autour du citoyen, c’est bien vers une République plateforme que ce programme DCANT ambitionne de nous emmener, pour un service public amélioré adapté au monde d’aujourd’hui et aux attentes des usagers.
 
-* [Consultez le programme DCANT 2018-2020](/uploads/1._programme_dcant_2018-2020.pdf)
-* [Dossier de presse du programme DCANT 2018-2020][dcant_dossier_de_presse.pdf](/uploads/dcant_dossier_de_presse.pdf)
+* **[Consultez le programme DCANT 2018-2020](/uploads/1._programme_dcant_2018-2020.pdf)**(pdf - 853 ko)
+* [Dossier de presse du programme DCANT 2018-2020](/uploads/dcant_dossier_de_presse.pdf)(pdf - 664 ko)
