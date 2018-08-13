@@ -17,7 +17,7 @@ Outre la liste des grands projets en cours ou en cadrage, le panorama propose de
 
 Cet outil inédit a été conçu à la demande du Premier ministre ([circulaire du 20 janvier 2015](http://circulaires.legifrance.gouv.fr/pdf/2015/01/cir_39141.pdf){: target="_blank"}) en collaboration étroite avec l’ensemble des ministères. Il est le fruit de plusieurs mois de travail avec ces derniers, depuis le prototypage d’un cadre commun, la collecte des données, jusqu’à l’élaboration de ce panorama public.
 
-[\> Consulter le panorama](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-son-systeme-dinformation/panorama-des-grands-projets-si-de-letat){: target="_blank"}
+[\> Consulter le panorama]{: .align-center}(http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-son-systeme-dinformation/panorama-des-grands-projets-si-de-letat){: target="_blank"}
  
 ## Les données clés de 57 projets publiées en ligne ##
 
