@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign missions-ordered = site.missions-dinsic | sort: 'ordre'%}
-<main id="dinsic-page" class="gray-background ">
+<div id="dinsic-page" class="gray-background ">
   <div class="post__image-container">
   <img id="image-de-tete" class="post__featured-image" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
 </div>
@@ -25,15 +25,15 @@ layout: default
 
   <section id="nos-missions" class="cell white-container padding-horizontal-1 padding-bottom-3">
     <h3 class="text-center font-bold">Nos 5 missions</h3>
-    <div data-smooth-scroll class="grid-x grid-margin-x align-center">
+    <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
       {% for mission in missions-ordered %}
-      <a href="#mission{{ mission.ordre }}"  class="cell titre-section grid-y medium-6 large-4 ">
-        <img src="{{base}}/assets/img/pictogrammes/{{ mission.icon }}">
-        <h5>{{ mission.title }}</h5>
-        <button>Voir plus</button>
+      <a href="#mission{{ mission.ordre }}"  class="cell nav-section grid-y medium-6 large-4 ">
+        <img alt="icon {{ mission.title }}" src="{{base}}/assets/img/pictogrammes/{{ mission.icon }}">
+        <span class="h5 text-center">{{ mission.title }}</span>
+        <span class="button">Voir plus</span>
       </a>
       {% endfor %}
-    </div>
+    </nav>
   </section>
   <div class="cell grid-x">
     <div id="missions" class="cell white-container">
@@ -89,7 +89,7 @@ layout: default
     </div>
   </div>
   <!--  {% include /components/historique.html %} -->
-</main>
+</div>
 
 
 

@@ -8,7 +8,8 @@
   #visuel-accueil {
     background: url("/assets/img/lorem_ipsum/Home.jpg") no-repeat center fixed;
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
-    background-size: cover; /* version standardisée */;
+    background-size: cover; /* version standardisée */
+  ;
     display: flex;
     height: auto;
     @include breakpoint(medium down) {
@@ -23,36 +24,34 @@
         color: $white;
       }
     }
-  }
-  #meilleures-actus {
-    background-color: $light-gray;
-    ul {
-      li {
-        background-color: $white;
-        @include breakpoint(medium down) {
-          margin-bottom: 1rem;
-        }
-        .index-image-container {
-          height: 13rem !important;
-        }
-      }
-    }
     #voir-tout {
-      a{
-        color:$bleue;
+      a {
+        color: $bleue;
         font: $header-font-family;
         font-weight: bold;
         font-size: larger;
         text-transform: uppercase;
         padding-left: 0.5rem;
         padding-right: 0.5rem;
-        border-left:1px solid $bleue;
-        border-right:1px solid $bleue;
-
+        border-left: 1px solid $bleue;
+        border-right: 1px solid $bleue;
       }
     }
   }
-
+}
+#meilleures-actus {
+  ul {
+    li {
+      background-color: $white;
+      @include breakpoint(medium down) {
+        margin-bottom: 1rem;
+      }
+      .index-image-container {
+        height: 13rem !important;
+      }
+    }
+  }
+}
 
 
 
@@ -60,4 +59,4 @@
 
   //other elements
   //@include grid-column;
-}
+

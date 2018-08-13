@@ -6,6 +6,8 @@ chapeau-text: Comment ouvrir ses codes sources ? Quelle licence choisir ? Commen
 une-ou-diaporama:
 - image: "/assets/img/actualites/empty_office.jpg"
   alternative-textuelle: bureau vide
+categories: 
+- Actualité
 ---
 
 Pour accompagner les administrations dans la production et l’ouverture de leurs codes sources, la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) publie sa politique de contribution aux logiciels libres.

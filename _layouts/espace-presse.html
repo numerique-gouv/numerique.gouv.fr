@@ -2,79 +2,68 @@
 layout: default
 ---
 
-<main id="espace-presse" role="main">
+<div id="espace-presse" role="main">
   <div class="post__image-container">
     <img id="image-de-tete" class="post__featured-image" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
   </div>
-  <h1 class="text-center margin-top-2 blue-gradient-underline">{{ page.title }}</h1>
-  {% assign sorted_communiques = site.communiques | sort:'date' | reverse %}
-  <div class="grid-container">
-    <ul class=" grid-x grid-margin-x remove-bullet margin-vertical-2">
-      {% for communique in sorted_communiques limit:2 %}
-      <li class="carte cell grid-y large-4 medium-12 small-12">
-        <a href="{{ communique.url}}" class="cell black-link">
-          {% if communique.une-ou-diaporama.size == 1 %}
-          <div class="post__image-container index-image-container">
-            <img class="post__featured-image" alt="{{ communique.une-ou-diaporama[0].alternative-textuelle }}" src="{{ communique.une-ou-diaporama[0].image }}">
+  <div class="gray-background padding-vertical-2">
+    <h1 class="text-center margin-vertical-3 blue-gradient-underline font-bold">{{ page.title }}</h1>
+    {% assign sorted_communiques = site.communiques | sort:'date' | reverse %}
+    <div class="max-width-75">
+      <ul class=" grid-x grid-margin-x remove-bullet margin-vertical-2">
+        {% for communique in sorted_communiques limit:2 %}
+        <li class="cell grid-y large-4 medium-12 small-12">
+          {% include components/carte.html data=communique is_image=true %}
+        </li>
+        {% endfor %}
+        <li class="cell large-4 medium-12 small-12">
+          <div id="contact-presse" class="padding-vertical-1 align-middle">
+            <img src="{{ page.contact-presse.pictogramme }}">
+            <h2 class="h3 white-underline">{{ page.contact-presse.titre}}</h2>
+            <p>{{ page.contact-presse.name }}</p>
+            <p>
+              {% for tel in page.contact-presse.tel%}
+              {% if forloop.last == true %}
+              {{ tel }}
+              {% else %}
+              {{ tel }} -
+              {% endif %}
+              {% endfor %}
+            </p>
+            <a class="white-link display-block text-center" href="mailto:{{ site.contact-presse.email }}">{{ page.contact-presse.email }}</a>
           </div>
-          {% endif %}
-          <div class="padding-1">
-            <span class="h4 font-bold display-inline-block">{{ communique.title }}</span>
-            <span>Communiqué de presse |</span>
-            <span class="subheader font-bold date padding-bottom-2 display-inline-block">{% include date.html date=communique.date %}</span>
-            {{ communique.excerpt | truncatewords: 40 }}
+          <div id="ressource-presse">
+            <img src="{{ page.ressource-presse.pictogramme }}">
+            <h2 class="h3 white-underline">{{ page.ressource-presse.titre}}</h2>
+            <p> {{ page.ressource-presse.contenu}} </p>
+            <div class="white-margin-link text-center">
+              <a href="#">Voir nos ressources presses</a>
+            </div>
           </div>
-        </a>
-        <hr class="blue-hr margin-top-auto">
-      </li>
-      {% endfor %}
-      <li class="cell large-4 medium-12 small-12">
-        <div id="contact-presse" class="padding-vertical-1 align-middle">
-          <img src="{{ page.contact-presse.pictogramme }}">
-          <h2 class="h3 white-underline">{{ page.contact-presse.titre}}</h2>
-          <p>{{ page.contact-presse.name }}</p>
-          <p>
-            {% for tel in page.contact-presse.tel%}
-            {% if forloop.last == true %}
-            {{ tel }}
-            {% else %}
-            {{ tel }} -
-            {% endif %}
-            {% endfor %}
-          </p>
-          <a class="white-link display-block text-center" href="mailto:{{ site.contact-presse.email }}">{{ page.contact-presse.email }}</a>
-        </div>
-        <div id="ressource-presse">
-          <img src="{{ page.ressource-presse.pictogramme }}">
-          <h2 class="h3 white-underline">{{ page.ressource-presse.titre}}</h2>
-          <p> {{ page.ressource-presse.contenu}} </p>
-          <div class="white-margin-link text-center">
-            <a href="#">Voir nos ressources presses</a>
-          </div>
-        </div>
-
-      </li>
-
-    </ul>
-    <ul id="list-communique" class="no-bullet grid-y margin-2">
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="max-width-75 padding-vertical-2">
+    <ul id="list-communique" class="no-bullet grid-y">
       {% for communique in sorted_communiques %}
       <li>
         <div class="grid-x grid-margin-x">
           <div class="cell large-3 medium-4 small-6">
-            {% if communique.une-ou-diaporama.size == 1 %}
-            <img class="post__featured-image" src="{{ base.url }}{{ communique.une-ou-diaporama[0].image  }}">
+            {% if communique.une-ou-diaporama[0].image %}
+            <img class="post__featured-image" src="{{ communique.une-ou-diaporama[0].image | relative_url}}">
             {% else %}
-            <img class="post__featured-image" src="{{ base.url }}/assets/img/default.png">
+            <img class="post__featured-image" src="{{ '/assets/img/default.png' | relative_url }}">
             {% endif %}
           </div>
           <div class="cell large-9 medium-6 small-6">
             <a class="communique-link black-link" href="{{ communique.url }}">
               <img class="display-inline" src="/assets/img/pictogrammes/communiqué_de_presse.svg">
               <span>Communiqué de presse</span>
-              <h2 class="h3">
+              <p class="h4 font-bold margin-0">
                 {{ communique.title }}
-              </h2>
-              <span class="communique-meta date">{% include date.html date=communique.date %}</span>
+              </p>
+              <span class="communique-meta h6 date">{% include date.html date=communique.date %}</span>
             </a>
           </div>
         </div>
@@ -82,9 +71,8 @@ layout: default
       </li>
       {% endfor %}
     </ul>
-
   </div>
-</main>
+</div>
 
 
 

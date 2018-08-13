@@ -1,11 +1,10 @@
 ---
-title: Actualités
-permalink: "/actualites"
+title: Toutes nos actualités
+permalink: "/actualites/"
 position: 0
 layout: actualites
-pagination:
-  enabled: true
-  collection: actualites
-  permalink: "/:num/"
+une:
+  image: "/assets/img/main/image_liste_actualites.jpg"
+  alternative-textuelle: ordinateur portable
 ---
 
