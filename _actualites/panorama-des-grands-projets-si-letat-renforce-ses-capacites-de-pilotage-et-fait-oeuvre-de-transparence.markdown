@@ -2,6 +2,7 @@
 title: 'Panorama des grands projets SI : l''État renforce ses capacités de pilotage
   et fait œuvre de transparence'
 date: 2016-11-18 10:21:00 +01:00
+is_une: false
 chapeau-text: La DINSIC rend aujourd’hui publique la liste des grands projets du système
   d’information (SI) de l'Etat, élaborée avec les ministères. Cet outil d’information
   et de pilotage, conçu à l'origine pour le Premier ministre, repose sur un cadre
