@@ -25,7 +25,7 @@ Fruit de plusieurs mois de travail collaboratif et coordonné par la **direction
 A la clé ? Des services numériques plus fluides et accessibles à tous et une simplification de la délivrance du service public territorial.
 
 <iframe frameborder="0" width="620" height="348" src="//www.dailymotion.com/embed/video/x6c1gye" allowfullscreen allow="autoplay" align="center"></iframe>
-[Découvrez des services publics 2.0 : Marchés Publics Simplifiés (MPS) et FranceConnect*]{: .align-center}
+Découvrez des services publics 2.0 : Marchés Publics Simplifiés (MPS) et FranceConnect*{: .align-center}
 
 **Animer le développement de l’administration numérique territoriale, une conviction partagée entre État et collectivités**
 
