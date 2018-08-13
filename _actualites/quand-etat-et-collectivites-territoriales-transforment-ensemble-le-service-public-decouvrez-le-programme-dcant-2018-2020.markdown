@@ -6,6 +6,10 @@ chapeau-text: 'L’État et les associations d’élus publient aujourd’hui le
   de développement concerté de l’administration numérique territoriale (DCANT) 2018-2020.
   Un programme entièrement coécrit autour d’une ambition partagée : construire ensemble
   des services publics numériques territoriaux fluides et performants.'
+une-ou-diaporama:
+- image: "/uploads/DCANT.jpg"
+  alternative-textuelle: 'DCANT 2018-2020 : passage à l''échelle, socle commun partagé,
+    gouvernance partagée, approche globale de la donnée'
 ---
 
 **Une nouvelle manière de travailler entre État et collectivités**
@@ -14,15 +18,16 @@ Pendant plusieurs mois, associations d’élus et représentants des services de
 
 Depuis 2011, l’État et les collectivités se sont en effet engagés à développer ensemble l’administration numérique. Un **premier programme DCANT** avait ainsi vu le jour pour **la période 2015-2017**. Forts du retour d’expérience positif de ce premier volet, le gouvernement et les associations d’élus locaux ont souhaité renforcer et accélérer cette dynamique en définissant de nouveaux axes de travail, à travers l’élaboration du **programme DCANT 2018-2020**, entièrement coconstruit et coécrit.
 
+[*Dans les coulisses de l'élaboration du programme DCANT*]{: .align-center}
 <iframe frameborder="0" width="620" height="348" src="//www.dailymotion.com/embed/video/x6c1gha" allowfullscreen allow="autoplay"></iframe>
-Dans les coulisses de l'élaboration du programme DCANT
 
 Fruit de plusieurs mois de travail collaboratif et coordonné par la **direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC)**, le programme DCANT 2018-2020 a pour ambition de fixer la feuille de route à suivre pour transformer les services publics par le numérique. Il s’inscrit dans une stratégie plus globale de plateforme, qui repose sur le principe que les ressources numériques utilisés et  éprouvées avec succès par les administrations doivent être ouvertes et réutilisables par d’autres administrations, dans une logique de partage, et ce afin de faciliter la création de nouveaux services publics. Le mode plateforme serait ainsi source de convergence numérique pour l’État et les collectivités.
+A la clé ? Des services numériques plus fluides et accessibles à tous et une simplification de la délivrance du service public territorial.
 
 <iframe frameborder="0" width="620" height="348" src="//www.dailymotion.com/embed/video/x6c1gye" allowfullscreen allow="autoplay" align="center"></iframe>
-Découvrez la présentation de services publics 2.0: Marchés Publics Simplifiés (MPS) et FranceConnect.
+[Découvrez des services publics 2.0 : Marchés Publics Simplifiés (MPS) et FranceConnect*]{: .align-center}
 
-A la clé ? Des services numériques plus fluides et accessibles à tous et une simplification de la délivrance du service public territorial.**Animer le développement de l’administration numérique territoriale, une conviction partagée entre État et collectivités**
+**Animer le développement de l’administration numérique territoriale, une conviction partagée entre État et collectivités**
 
 Le programme DCANT répond également à la volonté de renforcer la concertation État-territoires à travers la conférence nationale des territoires (CNT), mise en place par le Gouvernement pour associer les collectivités territoriales en amont de toute décision qui les concerne. Réunie une première fois le 17 juillet 2017, la CNT fixait la transition numérique des territoires comme l’une de ses priorités.
 
