@@ -5,6 +5,7 @@ date: 2018-07-19 00:00:00 +02:00
 tags:
 - panorama
 - système d'information
+- sécurisation
 position: 1
 chapeau-text: 'La DINSIC passe à nouveau en revue les grands projets du système d’information
   de l’Etat et rend public ce panorama, comme tous les quatre mois. Au menu : 56 chantiers
