@@ -23,24 +23,24 @@ une-ou-diaporama:
 auteur: Depuis agd.data.gouv.fr
 ---
 
-[![couv-rapport-agd-20162017.png](/uploads/couv-rapport-agd-20162017.png){: width="80px" style="border: solid 1px;" .image-center}](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
+[![couv-rapport-agd-20162017.png](/uploads/couv-rapport-agd-20162017.png){: width="80px"}{: style="border: solid 1px;"}](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
 
 > [Consulter le rapport « La donnée comme infrastructure essentielle »](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
-{: .lien-important}
+> {: .lien-important}
 
 ## Un état des lieux de la politique de la donnée
 
 Dans son rapport 2016-2017, l’administrateur général des données dresse un état des lieux des pratiques des administrations en matière de production, de circulation et d’exploitation des données. Il fait mention des progrès enregistrés depuis la publication de son rapport précédent (décembre 2015), sur chacun des axes de cette politique :
 
 * **produire les données essentielles :**
-  Le statut de données de référence a été reconnu juridiquement dans le cadre de la loi pour une République numérique ;
-  Les administrations ont produit des données essentielles, comme la Base adresse nationale ;
-  Des standards de données ont été définis, notamment dans le domaine de la commande publique, des conventions de subventions et de l’énergie ;
+ * Le statut de données de référence a été reconnu juridiquement dans le cadre de la loi pour une République numérique ;
+ * Les administrations ont produit des données essentielles, comme la Base adresse nationale ;
+ * Des standards de données ont été définis, notamment dans le domaine de la commande publique, des conventions de subventions et de l’énergie ;
 
 * **améliorer la circulation de la donnée :**
-  Les 9 premières bases de données de référence ont été mises en ligne, avec des résultats probants (multiplication par 20 du nombre d’utilisateurs réguliers du répertoire des entreprises selon l’INSEE) ;
-  La mise à disposition d’interfaces de programmation, en particulier l’API Entreprise et l’API Particulier ;
-  Le cadre juridique a évolué pour favoriser la circulation de la donnée (principe d’ouverture par défaut, principe de gratuité) ;
+  - Les 9 premières bases de données de référence ont été mises en ligne, avec des résultats probants (multiplication par 20 du nombre d’utilisateurs réguliers du répertoire des entreprises selon l’INSEE) ;
+  - La mise à disposition d’interfaces de programmation, en particulier l’API Entreprise et l’API Particulier ;
+  - Le cadre juridique a évolué pour favoriser la circulation de la donnée (principe d’ouverture par défaut, principe de gratuité) ;
 
 * **exploiter les données :**
   Les datasciences ont été appliquées dans plusieurs domaines de l’action publique, dont la lutte contre le chômage, l’aide aux entreprises en difficulté, l’aide à la décision pour les forces de sécurité intérieure.
