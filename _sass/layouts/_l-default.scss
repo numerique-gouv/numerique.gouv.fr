@@ -93,21 +93,6 @@ header {
   }
 }
 
-main {
-  @include breakpoint(small only) {
-    margin-top:3rem;
-  }
-}
-
-.padding-vertical-content {
-  padding-left: 2rem;
-  padding-right: 2rem;
-  @include breakpoint(medium down) {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-}
-
 footer {
   background-color: $black;
   nav {

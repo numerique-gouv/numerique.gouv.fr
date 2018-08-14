@@ -72,3 +72,12 @@ $hamburger-bar : 3;
     padding-bottom: 2rem!important;
   }
 }
+
+.padding-vertical-content {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  @include breakpoint(medium down) {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
