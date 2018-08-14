@@ -4,16 +4,6 @@ layout: default
 
 <div class="post gray-background">
   <article>
-    {% if page.une-ou-diaporama.size == 1 %}
-    <div class="post__image-container">
-      <img class="post__featured-image image-en-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ page.une-ou-diaporama[0].image }}">
-    </div>
-    {% endif %}
-    <div id="content-article" class="margin-2">
-      {% include components/titre-page-fille.html %}
-      <p class="post-content">
-        {{ content }}
-      </p>
-    </div>
+   {% include article.html %}
   </article>
 </div>
