@@ -4,6 +4,7 @@ title: 'Panorama des grands projets SI de l’État, 6e édition : 56 projets pa
 date: 2018-07-19 00:00:00 +02:00
 tags:
 - une
+position: 1
 chapeau-text: 'La DINSIC passe à nouveau en revue les grands projets du système d’information
   de l’Etat et rend public ce panorama, comme tous les quatre mois. Au menu : 56 chantiers
   informatiques détaillés, pour un montant prévisionnel global de 2,55 milliards d’euros.'

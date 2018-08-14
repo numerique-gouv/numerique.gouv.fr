@@ -2,6 +2,7 @@
 title: 'Rapport 2016-2017 de l''administrateur général des données: La donnée comme
   infrastructure essentielle'
 date: 2018-04-10 15:51:00 +02:00
+position: 4
 chapeau-text: 'L’administrateur général des données (AGD) a remis ce jour au secrétaire
   d’état auprès du Premier ministre chargé du Numérique, Mounir Mahjoubi, son [rapport
   2016-2017](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){:

@@ -2,6 +2,7 @@
 title: 'Intelligence artificielle : administrations, proposez vos projets d’expérimentations
   !'
 date: 2018-06-14 15:25:00 +02:00
+position: 2
 chapeau-text: La DINSIC et la DITP lancent un appel à manifestation d’intérêt ouvert
   jusqu’au 14 septembre sur l’intelligence artificielle. Les administrations lauréates
   seront accompagnées par la DITP et la DINSIC sur une durée de 10 mois à partir de

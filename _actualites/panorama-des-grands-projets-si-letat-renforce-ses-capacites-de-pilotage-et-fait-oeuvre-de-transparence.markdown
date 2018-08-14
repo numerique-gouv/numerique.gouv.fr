@@ -9,6 +9,7 @@ tags:
 - sécurisation
 - système d'information
 - transparence
+position: 5
 is_une: false
 chapeau-text: La DINSIC rend aujourd’hui publique la liste des grands projets du système
   d’information (SI) de l'Etat, élaborée avec les ministères. Cet outil d’information
