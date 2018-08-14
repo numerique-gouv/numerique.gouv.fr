@@ -11,7 +11,7 @@ chapeau-text: |-
   Le 4 juillet 2018, un jury composé de membres de l’administration et de la société civile s’est réuni afin de sélectionner les défis auxquels s’attaquera en 2019 la 3e promotion des entrepreneurs d’intérêt général. A l’issue d’une journée d’auditions et de délibérations, 15 défis ont été retenus. Le jury a fait le choix de sélectionner des défis qui allient impact pour la société et les usagers, amélioration de la gouvernance des données, et construction d’outils ouverts et diffusables.
   A la rentrée, un appel à candidatures sera lancé afin de sélectionner les 32 entrepreneurs d’intérêt général qui relèveront ces 15 défis par équipe de 2 ou 3, à partir de janvier 2019 !
 une-ou-diaporama:
-- image: "/uploads/EIG3_jury_projets.jpg"
+- image: "/uploads/EIG-laureats.png"
   alternative-textuelle: bureau vide
 auteur: Depuis Etalab.gouv.fr
 ---
@@ -24,11 +24,12 @@ Le 4 juillet 2018, les administrations candidates au programme Entrepreneur.e d�
 
 En tant qu’acteurs reconnus de la communauté numérique d’intérêt général, les membres du jury ont pu mettre à profit leurs diverses expertises pour évaluer la capacité des porteurs de défi à accueillir des EIG dans les meilleurs conditions, adapter leur feuille de route, et surtout à faire partie d’un collectif d’innovateurs publics qui partage des méthodes, des outils et devient pionnier de l’ouverture des données et des codes sources.
 
+<figure>
+  <img src="/uploads/ATTENTE-JURY-EIG.jpg" alt="my alt text"/>
+  <figcaption>Salle d’accueil du SGPI – Les membres de l’administration attendent d’être auditionnés par le jury – 4 juillet 2018</figcaption>
+</figure>
+
 Mathieu Nebra, membre du jury et co-fondateur d’Openclassrooms a particulièrement remarqué la qualité des défis proposés et la maturité des administrations qui témoignent « d’une vraie envie de faire des choses qui ont de l’impact, plus de transparence et d’efficacité ; on sent que les administrations sont engagées en ce sens et cela envoie un signal fort. »
-
-![ATTENTE-JURY-EIG.jpg](/uploads/ATTENTE-JURY-EIG.jpg){:width="300px"}
-
-*Salle d’accueil du SGPI – Les membres de l’administration attendent d’être auditionnés par le jury – 4 juillet 2018*
 
 <br>
 ## Les 15 défis d’intérêt général sélectionnés
@@ -79,9 +80,9 @@ A la rentrée, vous aurez accès à des descriptifs plus complets de chacun des 
 * la technicité de certains défis, notamment ceux mobilisant des techniques de datascience et d’intelligence artificielle a interpellé positivement les membres du jury. Le jury a d’ailleurs recommandé d’accompagner les défis sur les plans juridique et éthique, en constituant par exemple un réseau de chercheurs et de membres de la société civile.
 
 > Toutes les administrations, qu’elles fassent partie du programme EIG ou pas, vont bénéficier des défis sélectionnés. Les solutions techniques qui seront développées pourront être réutilisées et intégrées dans des briques technologiques à vocation interministérielle.
-> {: .citation}
+{: .citation}
 > Laure Lucchesi, directrice d’Etalab et membre du jury
-> {: .auteur-citation}
+{: .auteur-citation}
 
 ![EIG3_jury_projets.jpg](/uploads/EIG3_jury_projets.jpg)
 *Délibérations du jury – SGPI – 4 juillet 2018*

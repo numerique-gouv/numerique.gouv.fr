@@ -6,10 +6,9 @@
   max-width: none;
 
   #visuel-accueil {
-    background: url("/assets/img/lorem_ipsum/Home.jpg") no-repeat center fixed;
+    background: url("/assets/img/main/image-home.jpg") center bottom fixed;
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
     background-size: cover; /* version standardisée */
-  ;
     display: flex;
     height: auto;
     @include breakpoint(medium down) {
