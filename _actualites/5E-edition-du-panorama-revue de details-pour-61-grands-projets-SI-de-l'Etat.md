@@ -8,7 +8,7 @@ chapeau-text: 'La DINSIC passe à nouveau en revue les grands projets du systèm
   de l’Etat et rend public ce panorama, comme tous les quatre mois. Au menu : 56 chantiers
   informatiques détaillés, pour un montant prévisionnel global de 2,55 milliards d’euros.'
 une-ou-diaporama:
-- image: "/assets/img/actualites/H.VERDIER.jpg"
+- image: "/uploads/revue_de_details.jpg"
   alternative-textuelle: H.VERDIER
 ---
 
