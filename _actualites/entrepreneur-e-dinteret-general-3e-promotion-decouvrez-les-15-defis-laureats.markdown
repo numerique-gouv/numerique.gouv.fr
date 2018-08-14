@@ -1,12 +1,16 @@
 ---
 title: 'Entrepreneur.e d’intérêt général, 3e promotion : découvrez les 15 défis lauréats'
 date: 2018-07-20 11:12:00 +02:00
+tags:
+- Entrepreneur.e d'Intérêt Général
+- innovation
 chapeau-text: |-
   Le 4 juillet 2018, un jury composé de membres de l’administration et de la société civile s’est réuni afin de sélectionner les défis auxquels s’attaquera en 2019 la 3e promotion des entrepreneurs d’intérêt général. A l’issue d’une journée d’auditions et de délibérations, 15 défis ont été retenus. Le jury a fait le choix de sélectionner des défis qui allient impact pour la société et les usagers, amélioration de la gouvernance des données, et construction d’outils ouverts et diffusables.
   A la rentrée, un appel à candidatures sera lancé afin de sélectionner les 32 entrepreneurs d’intérêt général qui relèveront ces 15 défis par équipe de 2 ou 3, à partir de janvier 2019 !
 une-ou-diaporama:
 - image: "/uploads/EIG3_jury_projets.jpg"
   alternative-textuelle: bureau vide
+auteur: Depuis Etalab.gouv.fr
 ---
 
 *Créé en octobre 2016, le programme « Entrepreneur d’Intérêt Général » (EIG) vise à accélérer la transition numérique de l’État en recrutant des innovateurs aux expertises numériques variées (développement, design, science des données, agilité) pour travailler sur des défis d’amélioration du service public proposés par les administrations. Ce dispositif fait partie du Programme d’investissements d’avenir (PIA) piloté par le Secrétariat général pour l’investissement (SGPI).*
@@ -19,11 +23,13 @@ En tant qu’acteurs reconnus de la communauté numérique d’intérêt génér
 
 Mathieu Nebra, membre du jury et co-fondateur d’Openclassrooms a particulièrement remarqué la qualité des défis proposés et la maturité des administrations qui témoignent « d’une vraie envie de faire des choses qui ont de l’impact, plus de transparence et d’efficacité ; on sent que les administrations sont engagées en ce sens et cela envoie un signal fort. »
 
-Salle d’accueil du SGPI – Les membres de l’administration attendent d’être auditionnés par le jury – 4 juillet 2018
+![ATTENTE-JURY-EIG.jpg](/uploads/ATTENTE-JURY-EIG.jpg)
+*Salle d’accueil du SGPI – Les membres de l’administration attendent d’être auditionnés par le jury – 4 juillet 2018*
 
-## Sélection finale – 15 défis d’intérêt général représentant un large spectre de politiques publiques : confiance sur Internet, accès au droit, accueil des réfugiés, inclusion sociale, lutte contre la fraude, santé, justice, agriculture biologique
+## Les 15 défis d’intérêt général sélectionnés
 
-Sur les 22 défis auditionnés, 15 défis ont été retenus, en incluant le défi « EIG Link », initié dans la promotion 2, afin d’inclure un coaching technique et méthodologique à la promotion et de valoriser les réalisations des EIG.
+Sur les 22 défis auditionnés, 15 ont été retenus, représentant un large spectre de politiques publiques : confiance sur Internet, accès au droit, accueil des réfugiés, inclusion sociale, lutte contre la fraude, santé, justice, agriculture biologique...
+Le défi « EIG Link », initié dans la promotion 2, est renouvelé afin d’inclure un coaching technique et méthodologique à la promotion et de valoriser les réalisations des EIG.
 
 * Améliorer la confiance des consommateurs en détectant des faux avis sur Internet : la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) souhaite développer des nouvelles méthodes de text mining, d’analyse de données et de comportements pour aider les enquêteurs de sa direction à mieux détecter et qualifier des faux avis sur les plateformes de consommation en ligne.
 
