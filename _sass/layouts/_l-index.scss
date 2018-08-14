@@ -6,7 +6,7 @@
   max-width: none;
 
   #visuel-accueil {
-    background: url("/assets/img/main/image-home.jpg") center bottom fixed;
+    background: url("/assets/img/main/image-home.jpg") center;
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
     background-size: cover; /* version standardisée */
     display: flex;
@@ -16,7 +16,7 @@
     }
     .encart-transparent {
       max-width: 55rem;
-      background-color: rgba(0, 0, 0, 0.6);
+      background-color: rgba(0, 0, 0, 0.7);
       margin-left: auto;
       margin-right: auto;
       .titre-encart-transparent {
