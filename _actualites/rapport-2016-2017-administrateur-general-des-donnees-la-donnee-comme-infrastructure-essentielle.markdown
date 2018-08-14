@@ -13,7 +13,7 @@ chapeau-text: 'L’administrateur général des données (AGD) a remis ce jour a
   exploitation possible.'
 ---
 
-![couv-rapport-agd-20162017.png](/uploads/couv-rapport-agd-20162017.png){: width="80px"}
+[![couv-rapport-agd-20162017.png](/uploads/couv-rapport-agd-20162017.png){: width="80px"}](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
 
 > [Consulter le rapport « La donnée comme infrastructure essentielle »](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
 > {: .lien.important}
