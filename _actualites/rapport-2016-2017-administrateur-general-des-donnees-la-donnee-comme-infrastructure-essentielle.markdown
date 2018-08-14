@@ -45,7 +45,7 @@ Dans son rapport 2016-2017, l’administrateur général des données dresse un 
 * **exploiter les données :**
   * Les datasciences ont été appliquées dans plusieurs domaines de l’action publique, dont la lutte contre le chômage, l’aide aux entreprises en difficulté, l’aide à la décision pour les forces de sécurité intérieure.
 
-> ## L’administrateur général des données: son rôle, ses missions
+> ## L’administrateur général des données : son rôle, ses missions
 > 
 > Fonction créée en septembre 2014 par décret, l’administrateur général des données (AGD) coordonne l’action des administrations en matière d’inventaire, de gouvernance, de production, de circulation et d’exploitation des données. Il organise, dans le respect de la protection des données personnelles et des secrets protégés par la loi, la meilleure exploitation de ces données et leur plus large circulation, notamment aux fins d’évaluation des politiques publiques, d’amélioration et de transparence de l’action publique et de stimulation de la recherche et de l’innovation. Il encourage et soutient de ce fait le développement et l’usage des pratiques des datasciences au sein de l’administration.
 >
