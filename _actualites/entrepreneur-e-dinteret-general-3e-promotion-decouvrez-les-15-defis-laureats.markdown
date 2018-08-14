@@ -76,8 +76,10 @@ A la rentrée, vous aurez accès à des descriptifs plus complets de chacun des 
 
 * la technicité de certains défis, notamment ceux mobilisant des techniques de datascience et d’intelligence artificielle a interpellé positivement les membres du jury. Le jury a d’ailleurs recommandé d’accompagner les défis sur les plans juridique et éthique, en constituant par exemple un réseau de chercheurs et de membres de la société civile.
 
-[Toutes les administrations, qu’elles fassent partie du programme EIG ou pas, vont bénéficier des défis sélectionnés. Les solutions techniques qui seront développées pourront être réutilisées et intégrées dans des briques technologiques à vocation interministérielle.]{: .citation}
-[Laure Lucchesi, directrice d’Etalab et membre du jury]{: .auteur.citation}
+>Toutes les administrations, qu’elles fassent partie du programme EIG ou pas, vont bénéficier des défis sélectionnés. Les solutions techniques qui seront développées pourront être réutilisées et intégrées dans des briques technologiques à vocation interministérielle.
+{: .citation}
+>Laure Lucchesi, directrice d’Etalab et membre du jury
+{: .auteur-citation}
 
 
 ![EIG3_jury_projets.jpg](/uploads/EIG3_jury_projets.jpg)
