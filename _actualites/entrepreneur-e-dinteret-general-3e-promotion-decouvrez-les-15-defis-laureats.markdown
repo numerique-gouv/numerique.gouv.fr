@@ -26,7 +26,8 @@ En tant qu’acteurs reconnus de la communauté numérique d’intérêt génér
 
 Mathieu Nebra, membre du jury et co-fondateur d’Openclassrooms a particulièrement remarqué la qualité des défis proposés et la maturité des administrations qui témoignent « d’une vraie envie de faire des choses qui ont de l’impact, plus de transparence et d’efficacité ; on sent que les administrations sont engagées en ce sens et cela envoie un signal fort. »
 
-![ATTENTE-JURY-EIG.jpg](/uploads/ATTENTE-JURY-EIG.jpg)
+![ATTENTE-JURY-EIG.jpg](/uploads/ATTENTE-JURY-EIG.jpg){:width="300px"}
+
 *Salle d’accueil du SGPI – Les membres de l’administration attendent d’être auditionnés par le jury – 4 juillet 2018*
 
 <br>

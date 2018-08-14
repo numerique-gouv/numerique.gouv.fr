@@ -53,6 +53,17 @@ $hamburger-bar : 3;
     padding: 5rem!important;
   }
 }
+.padding-large-top-vertacal-5 {
+  @include breakpoint(large up){
+    padding-top: 5rem!important;
+  }
+}
+.margin-large-bottom-5 {
+  @include breakpoint(large up){
+    margin-bottom: 5rem!important;
+  }
+}
+
 .padding-medium-1 {
   @include breakpoint(medium down) {
     padding: 1rem!important;
@@ -66,7 +77,7 @@ $hamburger-bar : 3;
   }
 }
 
-.padding-large-vertical-2 {
+.padding-large-bottom-2 {
   @include breakpoint(large up){
     padding-top: 2rem!important;
     padding-bottom: 2rem!important;
@@ -79,5 +90,12 @@ $hamburger-bar : 3;
   @include breakpoint(medium down) {
     padding-left: 1rem;
     padding-right: 1rem;
+  }
+}
+
+
+.margin-large-top-2 {
+  @include breakpoint(large up){
+    margin-top: 2rem!important;
   }
 }
