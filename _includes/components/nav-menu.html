@@ -1,17 +1,25 @@
 <nav id="dinsic-nav-bar">
   <div class="title-bar" data-responsive-toggle="dinsic-main-menu" data-hide-for="medium">
     <div class="title-bar-left">
-      <a href="/">
-        <img class="marianne" src="{{base}}/assets/img/logos/Logo_de_la_Republique_francaise.png" alt="Logo de la République française">
-        <b>dinsic.gouv.</b><i>fr</i>
+      {% if page.title == 'dinsic.gouv.fr' %}
+      <h1 class="titre-site">
+      {% else %}
+      <a class="black-link titre-site" href="/">
+      {% endif %}
+        <img class="marianne" src="{{base}}/assets/img/logos/Logo_de_la_Republique_francaise.png" alt="">
+        <span class="titre-site">dinsic.gouv.<i>fr</i></span>
+      {% if page.title != 'dinsic.gouv.fr' %}
       </a>
+      {% else %}
+      </h1>
+      {% endif %}
     </div>
     <div class="title-bar-right">
       <button id="hamburger-button" class="hamburger hamburger--collapse" type="button" data-toggle="dinsic-main-menu" >
           <span class="hamburger-box">
             <span class="hamburger-inner"></span>
           </span>
-        <div class="title-bar-title padding-left-1">Menu</div>
+        <span class="title-bar-title padding-left-1">Menu</span>
       </button>
     </div>
   </div>
@@ -19,14 +27,22 @@
     <div class="top-bar-left">
       <ul class="vertical medium-horizontal menu">
         <li class="hide-for-small-only padding-right-1">
-          <a href="/">
-            <img class="marianne" src="{{base}}/assets/img/logos/Logo_de_la_Republique_francaise.png" alt="Logo de la République française" class="padding-right-1">
-            <b>dinsic.gouv.</b><i>fr</i>
-          </a>
+          {% if page.title == 'dinsic.gouv.fr' %}
+          <h1 class="titre-site">
+            {% else %}
+            <a class="black-link titre-site" href="/">
+              {% endif %}
+              <img class="marianne" src="{{base}}/assets/img/logos/Logo_de_la_Republique_francaise.png" alt="">
+              <span class="titre-site">dinsic.gouv.<i>fr</i></span>
+              {% if page.title != 'dinsic.gouv.fr' %}
+            </a>
+            {% else %}
+          </h1>
+          {% endif %}
         </li>
         {% for item in site.data.nav-main %}
         <li>
-          <a class="padding-top-1-1" href="{{ item.url }}">{{ item.link }}</a>
+          <a class="padding-top-1-1 black-link" href="{{ item.url }}">{{ item.link }}</a>
         </li>
         {% endfor %}
       </ul>
@@ -34,12 +50,11 @@
     {% if page.title != "Rechercher" %}
     <div class="top-bar-right">
       <form action="/rechercher" class="search-form" method="get">
-        <ul class="menu">
-            <li><input type="text" name="query" placeholder="Rechercher"></li>
-            <li><button type="submit button" class="button">
-              <img src="{{base}}/assets/img/pictogrammes/Zoom.png"></button>
-            </li>
-        </ul>
+        <div class="grid-x">
+            <input class="cell small-8 margin-0" aria-label="Ma recherche" type="text" name="query" placeholder="Rechercher">
+            <button class="cell small-4 margin-0" aria-label="Rechercher" type="submit" >
+              <i class="fas fa-search icon-recherche"></i></button>
+        </div>
       </form>
     </div>
     {% endif %}

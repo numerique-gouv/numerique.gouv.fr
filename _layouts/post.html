@@ -2,20 +2,8 @@
 layout: default
 ---
 
-<main class="post">
+<div class="post gray-background">
   <article>
-    {% if page.image-mise-en-avant %}
-    <div class="post__image-container">
-      <img class="post__featured-image image-en-tete" src="{{base}}/{{ page.image-mise-en-avant }}">
-    </div>
-    {% endif %}
-    <div id="content-article" class="margin-2">
-      <p class="meta text-center date ">{% include date.html date=page.date %}</p>
-      <h1 class="text-center">{{ page.title }}</h1>
-      <hr>
-      <p class="post-content">
-        {{ content }}
-      </p>
-    </div>
+   {% include article.html %}
   </article>
-</main>
+</div>

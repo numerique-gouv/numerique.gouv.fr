@@ -1,46 +1,57 @@
 ---
-layout: page
+layout: default
 ---
 
-<ul class="no-bullet grid-y list-post">
-  <!--
-      Here is the main paginator logic called.
-      All calls to site.posts should be replaced by paginator.posts
-  -->
-  {% for post in paginator.posts %}
-  <li  class="grid-x grid-margin-x">
-    <div class="illustration cell post__image-container large-6 small-12">
-      <img class="post__featured-image" src="{{base}}/{{ post.image-mise-en-avant }}">
+<div id="actualites">
+  <div class="post__image-container">
+    <img class="post__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ page.une.image | relative_url }}">
+  </div>
+  <section class="margin-0" >
+    <div class="gray-background padding-vertical-2 ">
+      <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">{{ page.title }}</h1>
+      <section class="max-width-75 margin-bottom-5" >
+        <h2 class="off-screen">À la une</h2>
+        {% include meilleurs-actualites.html %}
+      </section>
     </div>
-    <div class="content cell large-6 small-12">
-      <span class="post-meta">{% include date.html date=post.date %}</span>
-      <h2>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      </h2>
-      <p>{{ post.excerpt }}</p>
-      <a class="blue-link" href="{{ post.url }}">Lire plus...</a>
-    </div>
-    {% if forloop.last == false %}
-    <hr class="cell">
-    {% endif %}
-  </li>
-  {% endfor %}
-</ul>
+    <section class="max-width-60 padding-vertical-2" >
+      <h2>Toutes nos actualités</h2>
+      <ul class="no-bullet grid-y" id="liste_actualites">
+        {% for actualite in sorted_actualites %}
+        <li  class="grid-x grid-margin-x">
+          <div class="cell post__image-container large-4 medium-5 small-12 height-10rem">
+            {% if actualite.une-ou-diaporama[0].image %}
+            <img class="post__featured-image" alt="{{ actualite.une-ou-diaporama[0].alternative-textuelle }}" src="{{ actualite.une-ou-diaporama[0].image | relative_url }}">
+            {% else %}
+            <img class="post__featured-image" alt="image par default" src="{{ '/assets/img/default.png'  | relative_url }}" >
+            {% endif %}
+          </div>
+          <div class="content cell large-8 medium-7 small-12">
+            <a class="black-link" href="{{ actualite.url | relative_url }}">
+              <img class="icon" src="
+            {% case actualite.categories.first %}
+              {% when 'Article' %}
+                /assets/img/pictogrammes/article.svg
+              {% when 'Infographie' %}
+                /assets/img/pictogrammes/infographie.svg
+              {% else %}
+                /assets/img/pictogrammes/article.svg
+            {% endcase %}
+            ">
+              <span class="h6"> {{ actualite.categories.first}} </span>
+              <p class="h5 font-bold margin-bottom-0-5">{{ actualite.title }}</p>
+              <p class="post-meta h6 date">{% include date.html date=actualite.date %}</p>
+              <p>{{ actualite.chapeau-text | markdownify | truncatewords: 20}}</p>
+            </a>
+          </div>
+          {% if forloop.last == false %}
+          <hr class="cell">
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+  </section>
+</div>
 
-<!--
-  Showing buttons to move to the next and to the previous list of posts (pager buttons).
--->
-{% if paginator.total_pages > 1 %}
-<ul class="pager list-none padding-vertical-1">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Actualités plus récentes</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Actualités plus anciennes &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+

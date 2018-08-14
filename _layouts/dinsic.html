@@ -2,65 +2,87 @@
 layout: default
 ---
 
-<main id="dinsic-page" class="gray-background">
-  <div class="white-area">
-    <section id="titre-dinsic-page" class="padding-bottom-3">
-      <div class="post__image-container">
-        <img class="top-image post__featured-image" src="{{ page.image }}">
-      </div>
-      <div class="default-text-padding margin-top-2">
-        <h1>{{ page.sub-title }}</h1>
-        <p class="padding-top-3">{{ content }}</p>
-      </div>
-    </section>
-    {% assign missions-ordered = site.missions-dinsic | sort: 'ordre'%}
-    <section class="hide-for-small-only grid-container" data-smooth-scroll>
-      <h2 class="default-text-padding">Nos missions</h2>
-      <div class="grid-x grid-margin-x align-center">
-        {% for mission in missions-ordered %}
-        <a href="#{{ mission.title }}"  class="cell card medium-6 large-4 ">
-          <div class="card-section">
-            <h3>{{ mission.title }}</h3>
-          </div>
-        </a>
-        {% endfor %}
-      </div>
-    </section>
-    {% for mission in missions-ordered %}
-    <section id="{{ mission.title }}" class="default-text-padding">
-      <h3 class="font-bold">{{ mission.title }}</h3>
-      {{ mission.content}}
-      {% if mission.encadre %}
-      <div class="encadre-dinsic margin-vertical-2">
-        <div class="media-object">
-          <div class="media-object-section">
-            <img src="/assets/img/pictogrammes/Zoom.png">
-          </div>
-          <div class="media-object-section align-self-bottom">
-            <h4 class="font-bold">{{ mission.encadre.titre }}</h4>
-          </div>
-        </div>
-        <p>{{ mission.encadre.contenu }}</p>
-        <div id="chiffres-encadre" class="grid-x grid-margin-x margin-top-2">
-          {% for chiffre in mission.encadre.chiffres %}
-          <div class="chiffre-encadre medium-auto cell small-12 grid-y align-middle">
-            <div class="logo-chiffre-encadre grid-x align-middle align-center">
-              <img class="" alt="{{ chiffre.icon.titre }}" src={{ chiffre.icon.path }}>
-            </div>
-            <div class="valeur-chiffre-encadre padding-top-1">
-              <p class="margin-0 h4 font-bold text-uppercase large-text-justify"> {{ chiffre.valeur }}</p>
-            </div>
-            <p class="text-center">{{ chiffre.titre }}</p>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-      {% endif %}
-    </section>
-    {% endfor %}
+{% assign missions-ordered = site.missions-dinsic | sort: 'ordre'%}
+<div id="dinsic-page" class="gray-background ">
+  <div class="post__image-container">
+    <img class="post__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
   </div>
- <div class="white-area">
-   {% include /components/historique.html %}
- </div>
-</main>
-{% include /components/retour-haut.html %}
+  <section class="cell white-container padding-large-5 padding-medium-1" >
+    {% include components/titre-page-fille.html %}
+    <h2 class="font-bold margin-top-3">
+      La DINSIC en bref ...
+    </h2>
+    <div>
+      {{ content }}
+    </div>
+  </section>
+  <section id="nos-missions" class="cell white-container padding-horizontal-1 padding-bottom-3">
+    <h2 class="text-center font-bold">Nos 5 missions</h2>
+    <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
+      {% for mission in missions-ordered %}
+      <a href="#mission{{ mission.ordre }}"  class="cell nav-section grid-y medium-6 large-4 black-link">
+        <img alt="icon {{ mission.title }}" src="{{base}}/assets/img/pictogrammes/{{ mission.icon }}">
+        <span class="h5 text-center">{{ mission.title }}</span>
+        <span class="button">Voir plus</span>
+      </a>
+      {% endfor %}
+    </nav>
+  </section>
+  <div class="cell grid-x">
+    <div id="missions" class="cell white-container">
+      {% for mission in missions-ordered %}
+      <section id="mission{{ mission.ordre }}" class="mission padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        <h3 class="font-bold">{{ mission.title }}</h3>
+        {{ mission.content}}
+        {% if mission.encadre %}
+        <div class="encadre-dinsic margin-vertical-2">
+          <hr>
+          <div class="display-inline">
+            <i class="fas fa-search icon-loupe"></i>
+            <h4 class="font-bold display-inline-block">{{ mission.encadre.titre }}</h4>
+          </div>
+          <p>{{ mission.encadre.contenu-text | markdownify }}</p>
+          <div class="chiffres-encadre grid-x grid-margin-x margin-top-2">
+            {% for chiffre in mission.encadre.chiffres %}
+            <div class="chiffre-encadre medium-auto cell small-12 grid-y align-middle padding-horizontal-1">
+              <div class="logo-chiffre-encadre cell grid-x align-middle align-center">
+                <img class="" alt="{{ chiffre.icon.titre }}" src=/assets/img/pictogrammes/{{ chiffre.icon.path }}>
+              </div>
+              <div class="cell">
+                <div class="valeur-chiffre-encadre">
+                  <p class="margin-0 h4 font-bold text-center"> {{ chiffre.valeur }}</p>
+                </div>
+                <p class="text-center over">{{ chiffre.titre }}</p>
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+        {% if forloop.last == false %}
+        <div class="flex-container">
+          <i class="fas fa-angle-down icon-arrow-down"></i>
+        </div>
+        {% endif %}
+      </section>
+      {% endfor %}
+    </div>
+      <div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
+        <div class="sticky" data-sticky data-top-anchor="missions:top" data-btm-anchor="missions:bottom" data-margin-top="25" data-margin-right="2">
+          <div class="cell grid-y" data-smooth-scroll>
+            <a class="flex-container" href="#nos-missions">
+              <img class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
+            </a>
+            <!-- <a href="#next">
+               <img src="{{base}}/assets/img/pictogrammes/fleche_bas.svg">
+            </a> -->
+          </div>
+        <!-- This sticky element would stick to the window, with a marginTop of 0 -->
+      </div>
+    </div>
+  </div>
+  <!--  {% include /components/historique.html %} -->
+</div>
+
+
+

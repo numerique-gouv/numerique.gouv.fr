@@ -12,25 +12,53 @@
 }
 
 a {
-  color: $link-color;
+  color: $turquoise;
   &:hover {
-    color: $link-color;
-    opacity: 0.9;
+    color: $turquoise;
+    text-decoration: underline;
   }
 }
 .black-link {
   color: $black;
   &:hover {
     color: $black;
+    text-decoration: none;
   }
 }
-.blue-link {
-  color: $bleue;
+
+.white-link {
+  color: $white;
   &:hover {
-    color: $bleue;
-    text-decoration: underline;
+    color: $white;
+    text-decoration: none;
   }
 }
+.blue-margin-link, .white-margin-link {
+  a {
+    display: inline;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 0 0.5rem;
+    border-left:0.2rem solid ;
+    border-right:0.2rem solid ;
+  }
+
+}
+.blue-margin-link {
+  a {
+    color:$bleue;
+    border-color: $bleue;
+  }
+
+}
+
+.white-margin-link {
+  a {
+    color:$white;
+    border-color: $white;
+  }
+}
+
 
 .zoom {
   &:hover {
@@ -39,8 +67,41 @@ a {
 }
 .blue-border-button {
   background-color: $white;
+  color: $bleue;
   border: $bleue solid 2px;
   &:hover {
     background-color: $white;
+    color: $bleue;
   }
 }
+
+.off-screen {
+  position: absolute;
+  left: -99999999rem;
+}
+
+.partager {
+  margin: 1rem;
+  ul {
+    list-style: none;
+    margin: 0 auto;
+    text-align: center;
+    li {
+      display: inline;
+      &:before {
+        content: none!important;
+      }
+      a {
+        &:hover {
+          text-decoration: none;
+        }
+        img {
+          width: 2rem;
+          margin: 0.2rem;
+        }
+      }
+    }
+  }
+
+}
+

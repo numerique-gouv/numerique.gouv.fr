@@ -10,3 +10,92 @@ $hamburger-bar : 3;
 .hamburger-icon {
   @include hamburger($black, $light-black, $hamburger-width, $hamburger-height, $hamburger-weight, $hamburger-bar);
 }
+
+.margin-top-auto {
+  margin-top: auto !important;
+}
+
+.line-height-unset {
+  line-height: unset !important;
+}
+
+.padding-top-1-1 {
+  padding-top: 1.1rem !important;
+}
+
+.margin-vertical-auto {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.margin-horizontal-auto {
+  margin-right: auto;
+  margin-left: auto;
+}
+.margin-bottom-5 {
+  margin-bottom: 5rem;
+}
+
+.margin-bottom-0-5 {
+  margin-bottom: 0.5rem;
+}
+
+.height-25rem {
+  height: 25rem!important;
+}
+
+.height-10rem {
+  height: 10rem!important;
+}
+
+.padding-large-5 {
+  @include breakpoint(large up){
+    padding: 5rem!important;
+  }
+}
+.padding-large-top-5 {
+  @include breakpoint(large up){
+    padding-top: 5rem!important;
+  }
+}
+.margin-large-bottom-5 {
+  @include breakpoint(large up){
+    margin-bottom: 5rem!important;
+  }
+}
+
+.padding-medium-1 {
+  @include breakpoint(medium down) {
+    padding: 1rem!important;
+  }
+}
+
+.padding-large-horizontal-5 {
+  @include breakpoint(large up){
+    padding-left: 5rem!important;
+    padding-right: 5rem!important;
+  }
+}
+
+.padding-large-bottom-2 {
+  @include breakpoint(large up){
+    padding-top: 2rem!important;
+    padding-bottom: 2rem!important;
+  }
+}
+
+.padding-vertical-content {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  @include breakpoint(medium down) {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+
+.margin-large-top-2 {
+  @include breakpoint(large up){
+    margin-top: 2rem!important;
+  }
+}

@@ -1,0 +1,26 @@
+<div class="partager">
+  <p class="text-center font-bold margin-0">Partager</p>
+  <ul>
+    <li>
+      <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}">
+        <img src="/assets/img/pictogrammes/partager_twitter.svg">
+      </a>
+    </li>
+    <li>
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}">
+        <img src="/assets/img/pictogrammes/partager_linkedin.svg">
+      </a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer.php?u={{ page.url | absolute_url }}">
+        <img src="/assets/img/pictogrammes/partager_facebook.svg">
+      </a>
+    </li>
+    <li>
+      <a href="mailto:?subject={{ site.title }} : {{ page.title }} &body={{ page.url | absolute_url }}">
+        <img src="/assets/img/pictogrammes/partager_mail.svg">
+      </a>
+    </li>
+  </ul>
+</div>
+

@@ -7,6 +7,9 @@ chapeau: " 100% des démarches administratives accessibles en ligne au 1er janvi
   2022 : c’est l’une des mesures phares annoncées par le gouvernement pour accélérer
   la transformation numérique de l’administration française menée dans le cadre du
   programme Action Publique 2022. "
+une-ou-diaporama:
+- image: "/uploads/demarches_gouv.jpg"
+  alternative-textuelle: Les démarches gouvernementales
 ---
 
 Premier pas vers cet objectif annoncé lors du Comité interministériel de la transformation publique (CITP) du 1er février 2018 : le lancement en mars dernier, de demarches-simplifiees.fr, permettant aux administrations de dématérialiser facilement les démarches encore gérées sur papier. Le site comptabilise aujourd’hui plus de 30 000 démarches dématérialisées.

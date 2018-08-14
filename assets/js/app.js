@@ -7,7 +7,7 @@
 // --------------------------------------------------
 
 import jQuery from 'jquery'
-
+const $ = jQuery;
 window.jQuery = jQuery;
 window.$ = jQuery;
 import whatInput from 'what-input';
@@ -20,9 +20,6 @@ import Foundation from 'foundation-sites';
 import 'tablesaw/dist/tablesaw.jquery';
 import libs from './lib/dependancies';
 window.libs = libs;
-
-$(document).foundation();
-
 
 libs.AOS.init();
 
@@ -90,9 +87,9 @@ $(".content-carousel").slick({
 
 // tablesaw table plugin
 $(function () {
-  $(document)
-    .foundation()
-    .trigger('enhance.tablesaw');
+//  $(document)
+//    .foundation()
+//    .trigger('enhance.tablesaw');
 });
 
 const TablesawConfig = {
@@ -155,3 +152,12 @@ const elements = document.querySelectorAll('[id^="communiqueSize-"]');
 elements.forEach(function (element) {
   element.innerHTML += ' ' + Math.round(getFileSize(element.getAttribute('href'))/1024) + ' Ko )'
 });
+
+$('.icon-arrow-down').each(function ( index ) {
+  const selector = '#mission' + (index + 2);
+  $( this ).click(function () {
+    Foundation.SmoothScroll.scrollToLoc(selector, {threshold: 50, offset: 0 }, null);
+  })
+});
+
+

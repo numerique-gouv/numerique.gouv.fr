@@ -1,26 +1,27 @@
 ---
 title: Améliorer et simplifier les services publics numériques
-order: 1
+ordre: 1
+icon: Ameliorer_et_simplifier_les_services_publics_numeriques.svg
 encadre:
-  titre: FranceConnect Identité
-  contenu: 'Avec FranceConnect Identité, plus besoin de retenir autant de mots de
-    passe que de sites de démarches : vous y accédez simplement, grâce à l’identifiant
-    de votre choix – comme celui de votre compte Ameli ou impots.gouv.fr. Vous gagnez
+  titre: Zoom sur... FranceConnect
+  contenu-text: 'Avec FranceConnect, plus besoin de retenir autant de mots de passe
+    que de sites de démarches : vous y accédez simplement, grâce à l’identifiant de
+    votre choix – comme celui de votre compte Ameli ou impots.gouv.fr. Vous gagnez
     aussi du temps : avec le partage de données entre administrations selon le principe
     Dites-le-nous une fois, certaines infos personnelles sont préremplies.
 
 '
   chiffres:
-  - titre: nombre d'utilisateurs
+  - titre: d'utilisateurs
     valeur: 5 millions
     icon:
-      titre: icon utilisateur
-      path: "/assets/img/pictogrammes/utilisateur.png"
+      titre: icon agents
+      path: agents.svg
   - titre: services accessibles via FranceConnect Identité
     valeur: 345
     icon:
-      titre: icon aides
-      path: "/assets/img/pictogrammes/Aides.png"
+      titre: icon services accessibles
+      path: services_accessibles.svg
 ---
 
 Simplicité, efficacité, accompagnement, accessibilité pour tous…
@@ -29,5 +30,5 @@ pour ! Nous fournissons à  l’ensemble des administrations des référentiels 
 de sécurité… – et une liste de critères  de qualité à respecter. Nous les accompagnons
 dans la dématérialisation de leurs démarches (notamment via  demarches-simplifiees.fr),
 le développement et l’amélioration de leurs services en ligne. Nous produisons
-nous-mêmes des services numériques utiles à tous, comme FranceConnect Identité.
+nous-mêmes des services numériques utiles à tous, comme FranceConnect.
 

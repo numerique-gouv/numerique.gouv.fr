@@ -2,33 +2,11 @@
 layout: default
 ---
 
-<main class="post communique">
-  <article >
-    {% if page.image %}
-    <div class="post__image-container">
-      <img class="post__featured-image" src="{{base}}/{{ page.image }}">
-    </div>
-    {% endif %}
-    <div class="margin-1">
-      <h2 class="bold text-center">{{ page.title }}</h2>
-      <div class="grid-x align-center">
-        <p class="h5 subheader text-right">Communiqué de presse</p>
-        <p class="h5 subheader padding-horizontal-1">|</p>
-        <p class="h5 meta subheader">{% include date.html date=page.date %}</p>
-      </div>
-      {% if page.chapeau %}
-      <div class="chapeau padding-top-2">
-        <p>
-          {{ page.chapeau }}
-        </p>
-      </div>
-      {% endif %}
-      <p class="post-content padding-2">
-        {{ content }}
-      </p>
-    </div>
-    <section class="text-center contact">
-      <h3 class="h4">Contact Presse DINSIC</h3>
+<main class="post gray-background">
+  <article>
+    {% include article.html %}
+    <section id="contact-presse" class="text-center">
+      <h3 class="h4">Contact presse</h3>
       <p>
         {{ page.contact-presse.name }}
         {% for tel in page.contact-presse.tel%}
@@ -39,9 +17,9 @@ layout: default
         {% endif %}
         {% endfor %}
       </p>
-      <a href="mailto:{{ page.contact-presse.email }}">{{ page.contact-presse.email }}</a>
+      <a class="white-link" href="mailto:{{ page.contact-presse.email }}">{{ page.contact-presse.email }}</a>
     </section>
-    <div class="text-center padding-vertical-1">
+    <div class="text-center margin-top-2 padding-bottom-2 font-bold">
       <a class="blue-link" id="communiqueSize-{{ post.url | replace: ' ', '' }}" href="{{base}}/{{ page.communique_file }}"><i class="fas fa-download margin-horizontal-1"></i>Télécharger le communiqué de presse (PDF </a>
     </div>
   </article>

@@ -1,0 +1,120 @@
+// --------------------------------------------------
+// Layout dinsic page
+// --------------------------------------------------
+
+.white-container {
+  background-color: $white;
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.arrow-container {
+  position: absolute;
+  width: 50%;
+  margin-left: 50%;
+  a {
+    margin-left: 26rem;
+    width: 6rem;
+    height: 6rem;
+    background-color: $white;
+    border-radius: 50%;
+  }
+  img {
+    padding: 1rem;
+  }
+}
+
+.nav-section {
+  margin: 1rem;
+  text-decoration: none !important;
+  img {
+    margin: auto;
+    width: 5rem;
+    padding: 0.4rem;
+  }
+  .h5 {
+    font-size: smaller;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    line-height: 1rem;
+  }
+  .button {
+    background-color: $white;
+    color: $turquoise;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: $dark-gray solid 1px;
+    padding: 0.3rem 3rem;
+    font-size: smaller;
+    border-radius:1rem 1rem;
+    text-align: center;
+    &:hover {
+      cursor: pointer;
+      border: $bleue solid 1px;
+      color: $bleue;
+    }
+  }
+}
+.mission {
+  h1{
+    font-weight: bold;
+    text-align: center;
+  }
+  p {
+    color: $dark-gray;
+  }
+  .icon-arrow-down {
+    margin: auto;
+    font-size: 3rem;
+    color: $bleue;
+  }
+}
+.encadre-dinsic {
+  hr {
+    padding-left: 1px;
+    font-size: 2rem;
+    background: linear-gradient(-30deg, $bleue-degrade-1, $bleue-degrade-2);
+    color: $bleue;
+    width: 2rem;
+    height: 0.3rem;
+    margin: 0;
+    margin-bottom: 1rem;
+  }
+  h4 {
+    color:$bleue;
+  }
+  p {
+    color:$bleue;
+  }
+  img {
+    width: 1.5rem;
+  }
+  .icon-loupe {
+    padding-left: 0.1rem;
+    padding-right: 0.5rem;
+    font-size: 2rem;
+    background: -webkit-linear-gradient(-30deg, $bleue-degrade-1, $bleue-degrade-2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: $bleue;
+  }
+  .chiffres-encadre {
+    .chiffre-encadre {
+      margin: 0rem;
+      .logo-chiffre-encadre {
+        background-color: $white;
+        border: 0.2rem solid $bleue;
+        border-radius: 50%;
+        width: 4rem;
+        height: 4rem;
+        img {
+          width: 2rem;
+        }
+      }
+    }
+  }
+}
+
