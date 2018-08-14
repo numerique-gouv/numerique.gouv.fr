@@ -1,5 +1,6 @@
 ---
-title: '5E édition du panorama : revue de détails pour 61 grands projets SI de l''État'
+title: 'Panorama des grands projets SI de l’État, 6e édition : 56 projets passés au
+  crible'
 date: 2018-07-19 00:00:00 +02:00
 tags:
 - panorama
