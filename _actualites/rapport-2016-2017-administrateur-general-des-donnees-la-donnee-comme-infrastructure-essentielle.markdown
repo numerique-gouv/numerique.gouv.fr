@@ -38,12 +38,12 @@ Dans son rapport 2016-2017, l’administrateur général des données dresse un 
   * Des standards de données ont été définis, notamment dans le domaine de la commande publique, des conventions de subventions et de l’énergie ;
 
 * **améliorer la circulation de la donnée :**
-  - Les 9 premières bases de données de référence ont été mises en ligne, avec des résultats probants (multiplication par 20 du nombre d’utilisateurs réguliers du répertoire des entreprises selon l’INSEE) ;
-  - La mise à disposition d’interfaces de programmation, en particulier l’API Entreprise et l’API Particulier ;
-  - Le cadre juridique a évolué pour favoriser la circulation de la donnée (principe d’ouverture par défaut, principe de gratuité) ;
+  * Les 9 premières bases de données de référence ont été mises en ligne, avec des résultats probants (multiplication par 20 du nombre d’utilisateurs réguliers du répertoire des entreprises selon l’INSEE) ;
+  * La mise à disposition d’interfaces de programmation, en particulier l’API Entreprise et l’API Particulier ;
+  * Le cadre juridique a évolué pour favoriser la circulation de la donnée (principe d’ouverture par défaut, principe de gratuité) ;
 
 * **exploiter les données :**
-  Les datasciences ont été appliquées dans plusieurs domaines de l’action publique, dont la lutte contre le chômage, l’aide aux entreprises en difficulté, l’aide à la décision pour les forces de sécurité intérieure.
+  * Les datasciences ont été appliquées dans plusieurs domaines de l’action publique, dont la lutte contre le chômage, l’aide aux entreprises en difficulté, l’aide à la décision pour les forces de sécurité intérieure.
 
 > ## L’administrateur général des données: son rôle, ses missions
 > 
