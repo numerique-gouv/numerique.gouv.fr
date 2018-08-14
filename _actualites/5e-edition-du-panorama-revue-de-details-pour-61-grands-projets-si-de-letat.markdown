@@ -5,6 +5,8 @@ position: 3
 chapeau-text: La transformation numérique de l’Etat se dépeint à nouveau à travers
   61 grands projets informatiques menés au sein des ministères, pour un coût total
   de 2,83 milliards d’euros.
+une-ou-diaporama:
+- image: "/uploads/revue_de_details.jpg"
 ---
 
 Comme elle en a désormais coutume tous les 4 mois depuis fin 2016, la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) publie une nouvelle version actualisée de son panorama des grands projets SI de l’Etat. Cet outil permet au gouvernement d’en suivre le bon déroulement, d’identifier et de rectifier les éventuelles dérives budgétaires et calendaires.
