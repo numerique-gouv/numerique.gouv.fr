@@ -2,6 +2,11 @@
 title: 'Rapport 2016-2017 de l''administrateur général des données : La donnée comme
   infrastructure essentielle'
 date: 2018-04-10 15:51:00 +02:00
+tags:
+- administrateur général des données
+- rapport
+- données publiques
+- données ouvertes
 position: 4
 chapeau-text: 'L’administrateur général des données (AGD) a remis ce jour au secrétaire
   d’état auprès du Premier ministre chargé du Numérique, Mounir Mahjoubi, son [rapport
@@ -11,6 +16,11 @@ chapeau-text: 'L’administrateur général des données (AGD) a remis ce jour a
   ces deux dernières années. L’AGD y prône la construction d’une infrastructure de
   la donnée, nécessaire pour en garantir la qualité, la circulation et la meilleure
   exploitation possible.'
+une-ou-diaporama:
+- image: "/uploads/remise-rapportAGD.JPG"
+  legende: Mounir Mahjoubi (à gauche) reçoit le rapport de l'administrateur général
+    des données, Henri Verdier (à droite)
+auteur: Depuis agd.data.gouv.fr
 ---
 
 [![couv-rapport-agd-20162017.png](/uploads/couv-rapport-agd-20162017.png){: width="80px"}{: style="border: solid 1px;"}](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
