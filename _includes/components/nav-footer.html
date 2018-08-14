@@ -1,27 +1,9 @@
 <nav>
   <div class="grid-x grid-margin-x padding-2">
     <div class="large-4 medium-12 small-12 ">
-      <h2 class="h3"><a href="{{ base }}/">{{ site.url }}</a></h2>
+      <h2 class="h3">{{ site.title }}</h2>
       <p>Grâce au numérique, nous créons le service public de demain</p>
-      <ul class="grid-x margin-left-0">
-        <li class="social__item">
-          <a target="_blank" href="https://twitter.com/_dinsic" class="social__icon--twitter" >
-            <span class="fab fa-twitter" aria-hidden="true" title="Twitter"></span>
-            <span class="off-screen">Twitter</span></a>
-        </li>
-        <li class="social__item">
-          <a target="_blank" href="https://www.linkedin.com/company/direction-interministerielle-du-numerique-et-du-si-de-l-etat-dinsic/" class="social__icon--linkedin">
-            <span class="fab fa-linkedin-in" aria-hidden="true" title="Linkedin"></span>
-            <span class="off-screen">Linkedin</span></a>
-          </a>
-        </li>
-        <li class="social__item">
-          <a target="_blank" href="https://github.com/etalab" class="social__icon--github">
-            <span class="fab fa-github-alt" aria-hidden="true" title="Github"></span>
-            <span class="off-screen">Github</span></a>
-          </a>
-        </li>
-      </ul>
+      {% include components/boutons-social.html %}
       <ul class="no-bullet">
         {% for item in site.data.nav-footer %}
         <li><a class="text-uppercase" href="{{ item.url }}">{{ item.link }}</a></li>

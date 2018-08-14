@@ -1,12 +1,12 @@
 ---
-title: DINSIC
+title: DINSIC.gouv.fr
 timezone: Europe/Paris
 collections:
   actualites:
     title: Actualités
     output: true
     Data:
-      address_ref: 
+      address_ref:
   communiques:
     title: Communiqués
     output: true
@@ -31,12 +31,12 @@ defaults:
     is_une: true
     categories:
     - Article
-    chapeau-text: 
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
-    auteur: 
+    - image:
+      legende:
+      alternative-textuelle:
+    auteur:
     permalink: "/actualites/:title/"
 - scope:
     path: ''
@@ -47,11 +47,11 @@ defaults:
     permalink: "/espace-presse/:title/"
     categories:
     - Communiqué de presse
-    chapeau-text: 
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
+    - image:
+      legende:
+      alternative-textuelle:
     contact-presse:
       name: Rachel Wadoux
       tel:
@@ -64,7 +64,7 @@ defaults:
   values:
     layout: post
     permalink: "/evenements/:title/"
-url: dinsic.gouv.fr
+url: https://dinsic.gouv.fr
 categories:
 - main
 language: fr
