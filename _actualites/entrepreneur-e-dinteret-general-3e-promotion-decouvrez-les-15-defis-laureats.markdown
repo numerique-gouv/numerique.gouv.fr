@@ -22,7 +22,7 @@ auteur: Depuis Etalab.gouv.fr
 
 ## Un jury pour sélectionner les meilleurs défis de transformation numérique au service de l’intérêt général
 
-Le 4 juillet 2018, les administrations candidates au programme Entrepreneur.e d’intérêt général (EIG) et présélectionnées par les équipes de la DINSIC ont été invitées à présenter leurs défis d’intérêt général devant un jury composé de personnalités du numérique et d’agents publics (voir sa composition ici). L’objectif : en 20 minutes et sous forme de « pitch », convaincre des personnalités aux profils variés (administration, recherche, entrepreneuriat, société civile) que son projet est techniquement intéressant et qu’il a le potentiel d’améliorer le quotidien de ses futurs utilisateurs.
+Le 4 juillet 2018, les administrations candidates au programme Entrepreneur.e d’intérêt général (EIG) et présélectionnées par les équipes de la DINSIC ont été invitées à présenter leurs défis d’intérêt général devant un jury composé de personnalités du numérique et d’agents publics (voir [la composition du jury](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-3eme-promotion-42-defis-deposes-par-les-administrations-un-jury-mixte-pour-les-selectionner){: target="_blank"}). L’objectif : en 20 minutes et sous forme de « pitch », convaincre des personnalités aux profils variés (administration, recherche, entrepreneuriat, société civile) que son projet est techniquement intéressant et qu’il a le potentiel d’améliorer le quotidien de ses futurs utilisateurs.
 
 En tant qu’acteurs reconnus de la communauté numérique d’intérêt général, les membres du jury ont pu mettre à profit leurs diverses expertises pour évaluer la capacité des porteurs de défi à accueillir des EIG dans les meilleurs conditions, adapter leur feuille de route, et surtout à faire partie d’un collectif d’innovateurs publics qui partage des méthodes, des outils et devient pionnier de l’ouverture des données et des codes sources.
 
@@ -30,6 +30,7 @@ Mathieu Nebra, membre du jury et co-fondateur d’Openclassrooms a particulière
 
 ![ATTENTE-JURY-EIG.jpg](/uploads/ATTENTE-JURY-EIG.jpg)
 *Salle d’accueil du SGPI – Les membres de l’administration attendent d’être auditionnés par le jury – 4 juillet 2018*
+
 
 ## Les 15 défis d’intérêt général sélectionnés
 
