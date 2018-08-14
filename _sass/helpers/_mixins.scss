@@ -47,3 +47,28 @@ $hamburger-bar : 3;
 .height-10rem {
   height: 10rem!important;
 }
+
+.padding-large-5 {
+  @include breakpoint(large up){
+    padding: 5rem!important;
+  }
+}
+.padding-medium-1 {
+  @include breakpoint(medium down) {
+    padding: 1rem!important;
+  }
+}
+
+.padding-large-horizontal-5 {
+  @include breakpoint(large up){
+    padding-left: 5rem!important;
+    padding-right: 5rem!important;
+  }
+}
+
+.padding-large-vertical-2 {
+  @include breakpoint(large up){
+    padding-top: 2rem!important;
+    padding-bottom: 2rem!important;
+  }
+}
