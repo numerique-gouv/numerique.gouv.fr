@@ -17,9 +17,7 @@ auteur: Depuis Etalab.gouv.fr
 ---
 
 *Créé en octobre 2016, le programme « Entrepreneur d’Intérêt Général » (EIG) vise à accélérer la transition numérique de l’État en recrutant des innovateurs aux expertises numériques variées (développement, design, science des données, agilité) pour travailler sur des défis d’amélioration du service public proposés par les administrations. Ce dispositif fait partie du Programme d’investissements d’avenir (PIA) piloté par le Secrétariat général pour l’investissement (SGPI).*
-
-
-
+<br>
 ## Un jury pour sélectionner les meilleurs défis de transformation numérique au service de l’intérêt général
 
 Le 4 juillet 2018, les administrations candidates au programme Entrepreneur.e d’intérêt général (EIG) et présélectionnées par les équipes de la DINSIC ont été invitées à présenter leurs défis d’intérêt général devant un jury composé de personnalités du numérique et d’agents publics (voir [la composition du jury](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-3eme-promotion-42-defis-deposes-par-les-administrations-un-jury-mixte-pour-les-selectionner){: target="_blank"}). L’objectif : en 20 minutes et sous forme de « pitch », convaincre des personnalités aux profils variés (administration, recherche, entrepreneuriat, société civile) que son projet est techniquement intéressant et qu’il a le potentiel d’améliorer le quotidien de ses futurs utilisateurs.
@@ -31,7 +29,7 @@ Mathieu Nebra, membre du jury et co-fondateur d’Openclassrooms a particulière
 ![ATTENTE-JURY-EIG.jpg](/uploads/ATTENTE-JURY-EIG.jpg)
 *Salle d’accueil du SGPI – Les membres de l’administration attendent d’être auditionnés par le jury – 4 juillet 2018*
 
-
+<br>
 ## Les 15 défis d’intérêt général sélectionnés
 
 Sur les 22 défis auditionnés, 15 ont été retenus, représentant un large spectre de politiques publiques : confiance sur Internet, accès au droit, accueil des réfugiés, inclusion sociale, lutte contre la fraude, santé, justice, agriculture biologique...
@@ -68,7 +66,7 @@ Le défi « EIG Link », initié dans la promotion 2, est renouvelé afin d’
 * **Accompagner le développement d’un collectif numérique d’intérêt général au sein de l’Etat (EIG Link) :** au sein de la mission Etalab, 2 EIG rejoindront l’équipe en charge du programme EIG pour accompagner la troisième promotion des entrepreneurs et des mentors durant 10 mois. Plusieurs objectifs : consolider le collectif EIG3, apporter un soutien technique et méthodologique aux défis, valoriser et ouvrir les réalisations des équipes, et infuser également une dynamique entrepreneuriale au sein de la DINSIC.
 
 A la rentrée, vous aurez accès à des descriptifs plus complets de chacun des défis ainsi que des compétences recherchées. En attendant, vous pouvez consulter [le site EIG](https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"} et le [compte Github](https://github.com/entrepreneur-interet-general){:target="_blank"}.
-
+<br>
 **Plusieurs tendances et nouveautés se dégagent de cette sélection :**
 
 * les défis couvrent une variété de sujets de transformation numérique de l’État : confiance sur Internet, régulation par la donnée, ouverture des données respectueuse de la vie privée, transformation des métiers, amélioration des services pour les utilisateurs.
