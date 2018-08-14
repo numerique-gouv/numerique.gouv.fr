@@ -1,7 +1,7 @@
 <nav>
   <div class="grid-x grid-margin-x padding-2">
     <div class="large-4 medium-12 small-12 ">
-      <h3><a href="{{ base }}/">{{ site.url }}</a></h3>
+      <h2 class="h3"><a href="{{ base }}/">{{ site.url }}</a></h2>
       <p>Grâce au numérique, nous créons le service public de demain</p>
       <ul class="grid-x margin-left-0">
         <li class="social__item">
@@ -30,7 +30,7 @@
     </div>
     <div class="cell large-8 show-for-large grid-y">
       <div class="padding-left-3">
-        <h5>Plan du site</h5>
+        <h3 class="h5">Plan du site</h3>
         <ul class="no-bullet">
           {% for item in site.data.plan-du-site %}
           <li><a href="{{ item.url }}">{{ item.link }}</a></li>
