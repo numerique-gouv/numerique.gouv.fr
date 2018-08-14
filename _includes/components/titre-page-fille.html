@@ -9,8 +9,9 @@
 </div>
 {% endif %}
 <div class="meta text-center">
-  {% if page.collection == communiques  %}
-  <span> {{ page.categories.first }} | </span>
+  {% if page.collection == 'communiques'  %}
+    <span class="date"> {{ page.categories.first }}</span>
+    <span class="meta"> | </span>
   {% endif %}
   {% if page.date %}
   <span class="date ">{% include date.html date=page.date %}</span>

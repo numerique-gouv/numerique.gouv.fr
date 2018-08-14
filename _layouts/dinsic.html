@@ -7,17 +7,15 @@ layout: default
   <div class="post__image-container">
     <img class="post__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
   </div>
-  <section id="titre-dinsic-page" class="cell white-container" >
+  <section class="cell white-container padding-large-5 padding-medium-1" >
     {% include components/titre-page-fille.html %}
     <h2 class="font-bold margin-top-3">
       La DINSIC en bref ...
     </h2>
-
     <div>
       {{ content }}
     </div>
   </section>
-
   <section id="nos-missions" class="cell white-container padding-horizontal-1 padding-bottom-3">
     <h2 class="text-center font-bold">Nos 5 missions</h2>
     <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
@@ -33,7 +31,7 @@ layout: default
   <div class="cell grid-x">
     <div id="missions" class="cell white-container">
       {% for mission in missions-ordered %}
-      <section id="mission{{ mission.ordre }}" class="mission">
+      <section id="mission{{ mission.ordre }}" class="mission padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
         <h3 class="font-bold">{{ mission.title }}</h3>
         {{ mission.content}}
         {% if mission.encadre %}

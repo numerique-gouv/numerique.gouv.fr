@@ -2,9 +2,6 @@
 // Layout post and other
 // --------------------------------------------------
 
-.post-content {
-  margin-top: 6rem;
-}
 
 .post {
   max-width: none;
@@ -40,15 +37,7 @@
     }
 
   }
-
-  //other elements
-  //@include grid-column;
 }
 
-.contact {
-  p{
-    margin: 0rem;
-  }
-}
 
 

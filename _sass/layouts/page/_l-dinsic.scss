@@ -1,17 +1,6 @@
 // --------------------------------------------------
 // Layout dinsic page
 // --------------------------------------------------
-#dinsic-page {
-
-  #titre-dinsic-page {
-    padding: 5rem 5rem;
-  }
-}
-
-.padding-horizontal-5 {
-  padding-left: 5rem;
-  padding-right: 5rem;
-}
 
 .white-container {
   background-color: $white;
@@ -70,10 +59,6 @@
   }
 }
 .mission {
-  padding: 2rem 5rem 2rem 5rem;
-  @include breakpoint(medium down) {
-    padding: 1rem;
-  }
   h1{
     font-weight: bold;
     text-align: center;
