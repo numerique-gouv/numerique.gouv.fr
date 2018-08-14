@@ -1,5 +1,5 @@
 ---
-title: Publication de la politique de contribution de l’Etat aux logiciels libres
+title: Publication de la politique de contribution de l’État aux logiciels libres
 date: 2018-08-10 15:42:00 +02:00
 categories:
 - Article
