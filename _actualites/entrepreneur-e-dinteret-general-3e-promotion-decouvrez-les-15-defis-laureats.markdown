@@ -18,6 +18,7 @@ auteur: Depuis Etalab.gouv.fr
 
 *Créé en octobre 2016, le programme « Entrepreneur d’Intérêt Général » (EIG) vise à accélérer la transition numérique de l’État en recrutant des innovateurs aux expertises numériques variées (développement, design, science des données, agilité) pour travailler sur des défis d’amélioration du service public proposés par les administrations. Ce dispositif fait partie du Programme d’investissements d’avenir (PIA) piloté par le Secrétariat général pour l’investissement (SGPI).*
 
+
 ## Un jury pour sélectionner les meilleurs défis de transformation numérique au service de l’intérêt général
 
 Le 4 juillet 2018, les administrations candidates au programme Entrepreneur.e d’intérêt général (EIG) et présélectionnées par les équipes de la DINSIC ont été invitées à présenter leurs défis d’intérêt général devant un jury composé de personnalités du numérique et d’agents publics (voir sa composition ici). L’objectif : en 20 minutes et sous forme de « pitch », convaincre des personnalités aux profils variés (administration, recherche, entrepreneuriat, société civile) que son projet est techniquement intéressant et qu’il a le potentiel d’améliorer le quotidien de ses futurs utilisateurs.
@@ -76,17 +77,15 @@ A la rentrée, vous aurez accès à des descriptifs plus complets de chacun des 
 
 * la technicité de certains défis, notamment ceux mobilisant des techniques de datascience et d’intelligence artificielle a interpellé positivement les membres du jury. Le jury a d’ailleurs recommandé d’accompagner les défis sur les plans juridique et éthique, en constituant par exemple un réseau de chercheurs et de membres de la société civile.
 
->Toutes les administrations, qu’elles fassent partie du programme EIG ou pas, vont bénéficier des défis sélectionnés. Les solutions techniques qui seront développées pourront être réutilisées et intégrées dans des briques technologiques à vocation interministérielle.
-{: .citation}
->Laure Lucchesi, directrice d’Etalab et membre du jury
-{: .auteur-citation}
-
+> Toutes les administrations, qu’elles fassent partie du programme EIG ou pas, vont bénéficier des défis sélectionnés. Les solutions techniques qui seront développées pourront être réutilisées et intégrées dans des briques technologiques à vocation interministérielle.
+> {: .citation}
+> Laure Lucchesi, directrice d’Etalab et membre du jury
+> {: .auteur-citation}
 
 ![EIG3_jury_projets.jpg](/uploads/EIG3_jury_projets.jpg)
 *Délibérations du jury – SGPI – 4 juillet 2018*
 
-« Faire partie du jury EIG est une chance et un défi : la chance d’accélérer des projets puissants au service de toutes et tous, le défi de choisir entre des thématiques plus nécessaires les unes que les autres. Pour cette édition, nous avons souhaité accompagner des sujets aussi sensibles que le contrôle des navires professionnels, la cartographie de l’agriculture biologique, l’indemnisation des préjudices corporels, l’aide aux réfugiés ou encore la lutte contre les comportements financiers illicites. Prochaine étape : identifier des personnes ressources pour accompagner la concrétisation des défis. »
-Emmanuelle Larroque, CEO de Social Builder et membre du jury
+Emmanuelle Larroque, CEO de Social Builder et membre du jury résume les défis : « Faire partie du jury EIG est une chance et un défi : la chance d’accélérer des projets puissants au service de toutes et tous, le défi de choisir entre des thématiques plus nécessaires les unes que les autres. Pour cette édition, nous avons souhaité accompagner des sujets aussi sensibles que le contrôle des navires professionnels, la cartographie de l’agriculture biologique, l’indemnisation des préjudices corporels, l’aide aux réfugiés ou encore la lutte contre les comportements financiers illicites. Prochaine étape : identifier des personnes ressources pour accompagner la concrétisation des défis. »
 
 ## Et après ? Ouverture d’un appel à candidatures à la rentrée
 
