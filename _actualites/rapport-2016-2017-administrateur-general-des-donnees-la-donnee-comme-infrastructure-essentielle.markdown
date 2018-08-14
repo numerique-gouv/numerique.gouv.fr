@@ -77,3 +77,9 @@ Le rapport présente en conclusion la feuille de route de l’administrateur gé
 * **développer un pôle de compétences en intelligence artificielle,** pour faire de l’Etat l’un des premiers utilisateurs de ces outils, définir les conditions d’une utilisation éthique et responsable des algorithmes publics,
 
 * **soutenir l’écosystème des utilisateurs de données publiques,** documenter les impacts économiques et sociaux d’une meilleure circulation de la donnée.
+
+<br>
+[![couv-rapport-agd-20162017.png](/uploads/couv-rapport-agd-20162017.png){: width="80px" style="border: solid 1px;" .image-center}](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
+
+> [Consulter le rapport « La donnée comme infrastructure essentielle »](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
+{: .lien-important}
