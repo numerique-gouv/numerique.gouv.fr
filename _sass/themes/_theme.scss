@@ -251,6 +251,37 @@
   }
 }
 
+.lien-important {
+  display: flex;
+  border: none;
+  p {
+    display: block;
+    margin: 0 auto 1rem auto;
+    text-align: center;
+    &:before , &:after {
+      color:transparent;
+      -webkit-background-clip: text;
+      background-clip: text;
+      display: inline;
+      color:transparent;
+      background-image: linear-gradient(30deg, $bleue-degrade-1, $bleue-degrade-2);
+    }
+    &:before {
+      content: "►";
+    }
+    &:after {
+      content: "◄";
+    }
+    a {
+      display: inline;
+      padding: 0 1rem;
+      font-weight: bold;
+
+    }
+  }
+
+}
+
 .image-de-tete {
   width: 100%;
   height: 30vh;
