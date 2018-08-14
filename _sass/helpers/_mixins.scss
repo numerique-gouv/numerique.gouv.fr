@@ -40,8 +40,8 @@ $hamburger-bar : 3;
   margin-bottom: 0.5rem;
 }
 
-.height-20rem {
-  height: 20rem!important;
+.height-25rem {
+  height: 25rem!important;
 }
 
 .height-10rem {
@@ -53,7 +53,7 @@ $hamburger-bar : 3;
     padding: 5rem!important;
   }
 }
-.padding-large-top-vertacal-5 {
+.padding-large-top-5 {
   @include breakpoint(large up){
     padding-top: 5rem!important;
   }

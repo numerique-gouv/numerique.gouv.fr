@@ -228,6 +228,7 @@
     margin-top: -1rem;
   }
   h2, h3, h4, h5, h6 {
+    margin-top: 0!important;
     padding: 2rem 2rem 0 2rem;
     color:$bleue;
     margin-bottom: 1rem;
@@ -286,9 +287,44 @@
   margin:1rem auto;
 }
 
+.image-right {
+  display: inline-block;
+  float: right;
+}
+
+.image-left {
+  display: inline-block;
+  float: left;
+}
+
 .image-de-tete {
   width: 100%;
   height: 30vh;
 }
 
+.legende, img + em {
+  margin: 0.5rem;
+  color: $dark-gray;
+  font-style: italic;
+  font-size: smaller;
+}
 
+figure {
+  display: inline-table;
+  margin-right: 1rem;
+  width: 50%; /* This can be any width, so long as it's narrower than any image */
+  float:left;
+  img, figcaption {
+    display: table-row;
+  }
+  img {
+    border-bottom: 0.5rem solid transparent;
+  }
+}
+
+figcaption {
+  text-align: right;
+  color: $dark-gray;
+  font-style: italic;
+  font-size: smaller;
+}
