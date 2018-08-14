@@ -7,6 +7,7 @@ tags:
 - logiciels libres
 - open source
 - gouvernement ouvert
+position: 6
 chapeau-text: Comment ouvrir ses codes sources ? Quelle licence choisir ? Comment
   un agent public peut-il contribuer à un logiciel libre existant ?
 une-ou-diaporama:
