@@ -64,7 +64,7 @@ La construction d’une telle infrastructure nécessite la mobilisation de plusi
 
 Le choix d’un modèle de gouvernance apparaît bien comme un élément structurant d’une infrastructure de données. Un certain degré de centralisation est nécessaire, ne serait-ce que pour fixer a minima des règles et des standards communs à l’ensemble des bases de données de référence.
 
-## Transformer l’essai: la feuille de route 2018-2019
+## Transformer l’essai : la feuille de route 2018-2019
 
 Le rapport présente en conclusion la feuille de route de l’administrateur général des données pour les deux prochaines années. Cinq axes sont proposés :
 
