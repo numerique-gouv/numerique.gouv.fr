@@ -19,6 +19,7 @@ auteur: Depuis Etalab.gouv.fr
 *Créé en octobre 2016, le programme « Entrepreneur d’Intérêt Général » (EIG) vise à accélérer la transition numérique de l’État en recrutant des innovateurs aux expertises numériques variées (développement, design, science des données, agilité) pour travailler sur des défis d’amélioration du service public proposés par les administrations. Ce dispositif fait partie du Programme d’investissements d’avenir (PIA) piloté par le Secrétariat général pour l’investissement (SGPI).*
 
 
+
 ## Un jury pour sélectionner les meilleurs défis de transformation numérique au service de l’intérêt général
 
 Le 4 juillet 2018, les administrations candidates au programme Entrepreneur.e d’intérêt général (EIG) et présélectionnées par les équipes de la DINSIC ont été invitées à présenter leurs défis d’intérêt général devant un jury composé de personnalités du numérique et d’agents publics (voir sa composition ici). L’objectif : en 20 minutes et sous forme de « pitch », convaincre des personnalités aux profils variés (administration, recherche, entrepreneuriat, société civile) que son projet est techniquement intéressant et qu’il a le potentiel d’améliorer le quotidien de ses futurs utilisateurs.
