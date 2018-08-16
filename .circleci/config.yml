@@ -43,12 +43,12 @@ jobs:
             - yarn-packages-v1-{{ checksum "yarn.lock" }}
       - run:
           name: Install Dependencies
-          command: yarn install --cache-folder '~/.cache/yarn'
+          command: yarn install --cache-folder '/root/.cache/yarn'
       - save_cache:
           name: Save Yarn Package Cache
           key: yarn-packages-v1-{{ checksum "yarn.lock" }}
           paths:
-            - ~/.cache/yarn
+            - /root/.cache/yarn
 
       - run:
           name: Yarn build
