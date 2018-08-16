@@ -27,47 +27,61 @@ header {
     margin: 0rem;
   }
 }
-#dinsic-nav-bar {
+.marianne {
+  height: 2rem;
+  max-width: 100%;
+}
+#nav-dinsic {
+  display: flex;
+  width: 100%;
+  flex-flow: row wrap;
   @include breakpoint(small only) {
     position: fixed;
-    width: 100%;
+    background-color: $white;
+    top:0;
   }
-  @include breakpoint(medium down) {
-    margin-top: 0rem;
-  }
-  .marianne {
-    height: 2rem;
-    max-width: 100%;
-  }
-  .title-bar {
-    .hamburger-inner {
-      margin-top: 2rem;
-    }
-  }
-
-}
-#dinsic-main-menu {
-  .search-form {
-    button {
-      background-color: $white;
-      img{
-        height: 1rem;
+  #nav-titre {
+    flex-basis:min-content;
+    padding: 1rem;
+    h1, a {
+      margin: 0;
+      padding: 0.3rem 0 0 0;
+      font-size: large;
+      font-weight: bold;
+      img {
+        padding-right: 0.5rem;
+      }
+      i {
+        font-weight: normal;
       }
     }
   }
-  @include breakpoint(small only) {
-    position: fixed;
-    background-color: $light-gray;
-    padding: 0rem;
-    height: 100%;
-    ul {
-      background-color: $light-gray;
+  #nav-content {
+    flex: 1;
+    padding: 1rem;
+    #responsive-menu {
+      padding: 0;
+      @include breakpoint(small only) {
+        position: fixed;
+        left:0;
+        padding: 1rem;
+        width: 100%;
+      }
     }
-    div {
-      width: 8rem;
+    .title-bar-right {
+      margin: 0;
+    }
+    .hamburger {
+      padding: 0;
+    }
+    .icon-recherche {
+      padding: 0.5rem;
+      color: $bleue;
+      font-size: 1.5rem;
     }
   }
 }
+
 #file-arianne {
   font-size: smaller;
 
@@ -76,22 +90,8 @@ header {
   }
 }
 
-.icon-recherche {
-  color: $bleue;
-  font-size: 1.5rem;
-}
-.titre-site{
-  margin: 0;
-  padding: 1rem;
-  font-size: large;
-  font-weight: bold;
-  img {
-    padding-right: 0.5rem;
-  }
-  i {
-    font-weight: normal;
-  }
-}
+
+
 
 footer {
   background-color: $black;

@@ -1,3 +1,45 @@
+<nav id="nav-dinsic">
+  <div id="nav-titre">
+    {% include components/titre-site.html %}
+  </div>
+  <div id="nav-content" >
+    <div class="title-bar" data-responsive-toggle="responsive-menu" >
+      <div class="title-bar-right" data-hide-for="medium">
+        <button id="hamburger-button" class="hamburger hamburger--collapse" type="button" data-toggle="responsive-menu" >
+        <span class="hamburger-box">
+          <span class="hamburger-inner"></span>
+        </span>
+        </button>
+      </div>
+    </div>
+    <div class="top-bar" id="responsive-menu" data-animate="slide-in-left slide-out-left">
+      <div class="top-bar-left">
+        <ul class="vertical medium-horizontal dropdown menu" data-dropdown-menu>
+          {% for item in site.data.nav-main %}
+          <li>
+            <a class="black-link" href="{{ item.url }}">{{ item.link }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% if page.title != "Rechercher" %}
+      <form id="rechercher" action="/rechercher" class="search-form top-bar-right" method="get">
+        <ul class="menu">
+          <li>
+            <input class="cell small-8" aria-label="Ma recherche" type="text" name="query" placeholder="Rechercher">
+          </li>
+          <li>
+            <button class="cell small-4" aria-label="Rechercher" type="submit" >
+              <i class="fas fa-search icon-recherche"></i></button>
+          </li>
+        </ul>
+      </form>
+      {% endif %}
+    </div>
+  </div>
+</nav>
+<!--
+</nav>
 <nav id="dinsic-nav-bar">
   <div class="title-bar" data-responsive-toggle="dinsic-main-menu" data-hide-for="medium">
     <div class="title-bar-left">
@@ -60,3 +102,4 @@
     {% endif %}
   </div>
 </nav>
+-->
