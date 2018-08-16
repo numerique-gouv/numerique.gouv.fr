@@ -14,7 +14,8 @@
       {% endif %}
     {% endfor %}
   {% endcapture %}
-  {% assign crumbs = crumbs_string | split: '::' %}
+  {% assign crumbs = crumbs_string | remove:' ' | split: '::' %}
+http://127.0.0.1:3000/              espace-presse/
 {% endif %}
 {% if crumbs.size > 1 %}
   <nav class="default-text-padding margin-vertical-1 h6" id="file-arianne">
@@ -24,7 +25,14 @@
     > {{ crumb | replace:'-',' ' || remove:'.html' | capitalize }}
     {% else %}
     >
-    <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace: 'é','e' | replace: ' ','' }}{% endfor %}">
+    {% capture lien %}
+      {% assign crumb_limit = forloop.index | plus: 1 %}
+      {% for crumb in crumbs limit: crumb_limit %}
+        {{ crumb | append: '/' | replace: 'é','e' | strip   }}
+      {% endfor %}
+    {% endcapture %}
+    {% assign lien_formate = lien | strip | strip_newlines %}
+    <a href="{{ lien_formate }}">
     {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}
     </a>
     {% endif %}
