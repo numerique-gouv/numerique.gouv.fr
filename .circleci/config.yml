@@ -35,7 +35,7 @@ jobs:
           name: Save Gem Cache
           key: dinsic-v2-{{ checksum "Gemfile" }}
           paths:
-            - vendor/bundle
+            - vendor/cache
 
       - restore_cache:
           name: Restore Yarn Package Cache
