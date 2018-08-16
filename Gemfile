@@ -8,6 +8,9 @@ ruby RUBY_VERSION
 gem "tzinfo"
 gem "tzinfo-data"
 
+#dependencies for algolia
+gem "pkg-config", "~> 1.1"
+
 gem "jekyll", "~> 3.0"
 
 # Gem Requirements
@@ -15,6 +18,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate-v2", "~> 1.7"
 	gem 'sass'
 	gem 'jekyll-sitemap'
+	gem 'jekyll-algolia'
 end
 
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?

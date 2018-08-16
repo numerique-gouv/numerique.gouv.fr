@@ -6,7 +6,7 @@ collections:
     title: Actualités
     output: true
     Data:
-      address_ref: 
+      address_ref:
   communiques:
     title: Communiqués
     output: true
@@ -31,12 +31,12 @@ defaults:
     is_une: true
     categories:
     - Article
-    chapeau-text: 
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
-    auteur: 
+    - image:
+      legende:
+      alternative-textuelle:
+    auteur:
     permalink: "/actualites/:title/"
 - scope:
     path: ''
@@ -47,11 +47,11 @@ defaults:
     permalink: "/espace-presse/:title/"
     categories:
     - Communiqué de presse
-    chapeau-text: 
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
+    - image:
+      legende:
+      alternative-textuelle:
     contact-presse:
       name: Rachel Wadoux
       tel:
@@ -74,6 +74,7 @@ plugins:
 - jekyll-paginate-v2
 - sass
 - jekyll-sitemap
+- jekyll-algolia
 include:
 - ".htaccess"
 - _pages
@@ -111,3 +112,10 @@ compress_html:
     envs:
     - development
 highlighter: rouge
+algolia:
+  application_id: OCGRURLBFM
+  index_name: jekyll-dinsic
+  nodes_to_index: 'p'
+  extensions_to_index:
+    - md
+    - markdown
