@@ -7,15 +7,15 @@ jobs:
       - restore_cache:
           name: Restore Git Cache
           keys:
-            - source-v1-{{ .Branch }}-{{ .Revision }}
-            - source-v1-{{ .Branch }}-
-            - source-v1-
+            - source-v5-{{ .Branch }}-{{ .Revision }}
+            - source-v5-{{ .Branch }}-
+            - source-v5-
 
       - checkout
 
       - save_cache:
           name: Save Git Cache
-          key: source-v1-{{ .Branch }}-{{ .Revision }}
+          key: source-v5-{{ .Branch }}-{{ .Revision }}
           paths:
             - ".git"
 
@@ -23,8 +23,8 @@ jobs:
       - restore_cache:
           name: Restore Gem Cache
           keys:
-            - dinsic-v4-{{ checksum "Gemfile" }}
-            - dinsic-v4-
+            - dinsic-v5-{{ checksum "Gemfile" }}
+            - dinsic-v5-
 
       - run:
           name: Bundle Install
@@ -33,14 +33,14 @@ jobs:
       # Store bundle cache
       - save_cache:
           name: Save Gem Cache
-          key: dinsic-v4-{{ checksum "Gemfile" }}
+          key: dinsic-v5-{{ checksum "Gemfile" }}
           paths:
             - /vendor/bundle
 
       - restore_cache:
           name: Restore Yarn Package Cache
           keys:
-            - yarn-packages-v3-{{ checksum "yarn.lock" }}
+            - yarn-packages-v5-{{ checksum "yarn.lock" }}
       - run: ls /root/.cache/yarn > ls_before
       - run:
           name: Install Dependencies
@@ -49,7 +49,7 @@ jobs:
       - run: diff ls_before ls_after
       - save_cache:
           name: Save Yarn Package Cache
-          key: yarn-packages-v3-{{ checksum "yarn.lock" }}
+          key: yarn-packages-v5-{{ checksum "yarn.lock" }}
           paths:
             - /root/.cache/yarn
 
