@@ -24,7 +24,7 @@ jobs:
       # Restore bundle cache
       - restore_cache:
           keys:
-            - dinsic-v1-{{ checksum "Gemfile.lock" }}
+            - dinsic-v1-{{ checksum "Gemfile" }}
             - dinsic-v1-
 
       - run:
@@ -33,9 +33,7 @@ jobs:
 
       # Store bundle cache
       - save_cache:
-          key:
-            - dinsic-v1-{{ checksum "Gemfile.lock" }}
-            - dinsic-v1-
+          key: dinsic-v1-{{ checksum "Gemfile" }}
           paths:
             - vendor/bundle
 
