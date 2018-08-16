@@ -23,8 +23,8 @@ jobs:
       - restore_cache:
           name: Restore Gem Cache
           keys:
-            - dinsic-v2-{{ checksum "Gemfile" }}
-            - dinsic-v2-
+            - dinsic-v3-{{ checksum "Gemfile" }}
+            - dinsic-v3-
 
       - run:
           name: Bundle Install
@@ -33,20 +33,20 @@ jobs:
       # Store bundle cache
       - save_cache:
           name: Save Gem Cache
-          key: dinsic-v2-{{ checksum "Gemfile" }}
+          key: dinsic-v3-{{ checksum "Gemfile" }}
           paths:
             - vendor/cache
 
       - restore_cache:
           name: Restore Yarn Package Cache
           keys:
-            - yarn-packages-v1-{{ checksum "yarn.lock" }}
+            - yarn-packages-v3-{{ checksum "yarn.lock" }}
       - run:
           name: Install Dependencies
           command: yarn install --cache-folder '/root/.cache/yarn'
       - save_cache:
           name: Save Yarn Package Cache
-          key: yarn-packages-v1-{{ checksum "yarn.lock" }}
+          key: yarn-packages-v3-{{ checksum "yarn.lock" }}
           paths:
             - /root/.cache/yarn
 
