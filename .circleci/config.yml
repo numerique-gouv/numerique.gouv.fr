@@ -5,6 +5,7 @@ jobs:
       - image: starefossen/ruby-node:latest
     steps:
       - restore_cache:
+          name: Restore Git Cache
           keys:
             - source-v1-{{ .Branch }}-{{ .Revision }}
             - source-v1-{{ .Branch }}-
@@ -13,19 +14,17 @@ jobs:
       - checkout
 
       - save_cache:
+          name: Save Git Cache
           key: source-v1-{{ .Branch }}-{{ .Revision }}
           paths:
             - ".git"
 
-      - run:
-          name: Which bundler?
-          command: bundle -v
-
       # Restore bundle cache
       - restore_cache:
+          name: Restore Gem Cache
           keys:
-            - dinsic-v1-{{ checksum "Gemfile" }}
-            - dinsic-v1-
+            - dinsic-v2-{{ checksum "Gemfile" }}
+            - dinsic-v2-
 
       - run:
           name: Bundle Install
@@ -33,20 +32,21 @@ jobs:
 
       # Store bundle cache
       - save_cache:
-          key: dinsic-v1-{{ checksum "Gemfile" }}
+          name: Save Gem Cache
+          key: dinsic-v2-{{ checksum "Gemfile" }}
           paths:
             - vendor/bundle
 
       - restore_cache:
           name: Restore Yarn Package Cache
           keys:
-            - yarn-packages-{{ checksum "yarn.lock" }}
+            - yarn-packages-v1-{{ checksum "yarn.lock" }}
       - run:
           name: Install Dependencies
           command: yarn install --cache-folder '~/.cache/yarn'
       - save_cache:
           name: Save Yarn Package Cache
-          key: yarn-packages-{{ checksum "yarn.lock" }}
+          key: yarn-packages-v1-{{ checksum "yarn.lock" }}
           paths:
             - ~/.cache/yarn
 
