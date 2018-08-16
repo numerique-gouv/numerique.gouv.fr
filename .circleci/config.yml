@@ -41,12 +41,11 @@ jobs:
           name: Restore Yarn Package Cache
           keys:
             - yarn-packages-v5-{{ checksum "yarn.lock" }}
-      - run: ls /root/.cache/yarn > ls_before || true
+      - run: ls /root/.cache/yarn || true
       - run:
           name: Install Dependencies
           command: yarn install --cache-folder '/root/.cache/yarn'
-      - run: ls /root/.cache/yarn > ls_after
-      - run: diff ls_before ls_after
+      - run: ls /root/.cache/yarn  || true
       - save_cache:
           name: Save Yarn Package Cache
           key: yarn-packages-v5-{{ checksum "yarn.lock" }}
