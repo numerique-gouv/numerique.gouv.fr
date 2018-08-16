@@ -28,14 +28,14 @@ jobs:
 
       - run:
           name: Bundle Install
-          command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+          command: bundle check --path=/vendor/bundle || bundle install --path=/vendor/bundle --jobs=4 --retry=3
 
       # Store bundle cache
       - save_cache:
           name: Save Gem Cache
           key: dinsic-v4-{{ checksum "Gemfile" }}
           paths:
-            - vendor/bundle
+            - /vendor/bundle
 
       - restore_cache:
           name: Restore Yarn Package Cache
