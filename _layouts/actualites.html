@@ -28,7 +28,7 @@ layout: default
           </div>
           <div class="content cell large-8 medium-7 small-12">
             <a class="black-link" href="{{ actualite.url | relative_url }}">
-              <img class="icon" src="
+              <img alt="icon {{ actualite.categories.first }}" class="icon" src="
             {% case actualite.categories.first %}
               {% when 'Article' %}
                 /assets/img/pictogrammes/article.svg
