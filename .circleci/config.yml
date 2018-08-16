@@ -23,19 +23,19 @@ jobs:
       - restore_cache:
           name: Restore Gem Cache
           keys:
-            - dinsic-v3-{{ checksum "Gemfile" }}
-            - dinsic-v3-
+            - dinsic-v4-{{ checksum "Gemfile" }}
+            - dinsic-v4-
 
       - run:
           name: Bundle Install
-          command: bundle check || bundle install
+          command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
 
       # Store bundle cache
       - save_cache:
           name: Save Gem Cache
-          key: dinsic-v3-{{ checksum "Gemfile" }}
+          key: dinsic-v4-{{ checksum "Gemfile" }}
           paths:
-            - vendor/cache
+            - vendor/bundle
 
       - restore_cache:
           name: Restore Yarn Package Cache
