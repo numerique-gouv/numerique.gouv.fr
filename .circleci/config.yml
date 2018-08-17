@@ -48,6 +48,7 @@ jobs:
           command: yarn install --cache-folder '/root/.cache/yarn'
       - run: yarn cache list
       - run: yarn cache dir
+      - run: yarn cache dir
       - run: ls /root/.cache/yarn/v2  || true
       - save_cache:
           name: Save Yarn Package Cache
