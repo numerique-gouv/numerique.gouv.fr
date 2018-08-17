@@ -47,15 +47,14 @@
   display: flex;
   ul {
     display: flex;
-    margin: auto;
+    flex-wrap: wrap;
     li {
       margin: 0.5rem;
       padding:0.5rem;
       font-size: smaller;
       border: 1px solid $bleue;
-      border-radius: 1rem;
-      background-color: cornflowerblue;
-      color: $white;
+      border-radius: 0.3rem;
+      color: $bleue;
     }
   }
 }
