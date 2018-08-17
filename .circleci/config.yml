@@ -48,7 +48,13 @@ jobs:
             - yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
             - yarn-packages-v1-{{ .Branch }}-
             - yarn-packages-v1-
-      - run: yarn cache list
+        - restore_cache:
+            name: Restore Node module cache
+            keys:
+              # when lock file changes, use increasingly general patterns to restore cache
+              - node-v1-{{ .Branch }}-{{ checksum "package-lock.json" }}
+              - node-v1-{{ .Branch }}-
+              - node-v1-
       - run:
           name: Install Dependencies
           command: yarn install
@@ -57,6 +63,12 @@ jobs:
           key: yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
           paths:
             - ~/.cache/yarn
+      - save_cache:
+          name: Save Node module cache
+          paths:
+            - ~/usr/local/lib/node_modules  # location depends on npm version
+          key: node-v1-{{ .Branch }}-{{ checksum "package-lock.json" }}
+
       - run:
           name: Yarn build
           command: yarn build-dev
