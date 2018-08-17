@@ -88,7 +88,7 @@ jobs:
     docker:
         - image: python:3.6-stretch
     steps:
-       - run:
+      - run:
           name: install Java
           command: apt-get update && apt-get install -y openjdk-8-jre
       - run:
