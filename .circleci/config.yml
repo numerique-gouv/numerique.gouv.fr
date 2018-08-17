@@ -139,7 +139,7 @@ workflows:
             - build
       - deploy:
           requires:
-            - test-html
+            - build
 
 
 
