@@ -40,20 +40,20 @@ jobs:
       - restore_cache:
           name: Restore Yarn Package Cache
           keys:
-            - yarn-packages-v6-{{ checksum "yarn.lock" }}
+            - yarn-packages-v7-{{ checksum "yarn.lock" }}
             - yarn-packages-
       - run: ls /usr/local/share/.cache/yarn/v2 || true
       - run: yarn cache list
       - run:
           name: Install Dependencies
-          command: yarn install --cache-folder '/usr/local/share/.cache/yarn/v2'
+          command: yarn install --cache-folder '/usr/local/share/.cache/yarn/'
       - run: yarn cache list
       - run: ls /usr/local/share/.cache/yarn/v2  || true
       - save_cache:
           name: Save Yarn Package Cache
-          key: yarn-packages-v6-{{ checksum "yarn.lock" }}
+          key: yarn-packages-v7-{{ checksum "yarn.lock" }}
           paths:
-            - /usr/local/share/.cache/yarn/v2
+            - /usr/local/share/.cache/yarn
 
       - run:
           name: Yarn build
