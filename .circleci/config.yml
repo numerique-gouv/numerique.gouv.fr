@@ -42,19 +42,14 @@ jobs:
           keys:
             - yarn-packages-v7-{{ checksum "yarn.lock" }}
             - yarn-packages-
-      - run: ls /usr/local/share/.cache/yarn/v2 || true
-      - run: yarn cache list
       - run:
           name: Install Dependencies
-          command: yarn install --cache-folder '/usr/local/share/.cache/yarn/'
-      - run: yarn cache list
-      - run: ls /usr/local/share/.cache/yarn/v2  || true
+          command: yarn install
       - save_cache:
           name: Save Yarn Package Cache
           key: yarn-packages-v7-{{ checksum "yarn.lock" }}
           paths:
             - /usr/local/share/.cache/yarn
-
       - run:
           name: Yarn build
           command: yarn build-dev
