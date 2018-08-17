@@ -84,6 +84,21 @@ jobs:
           paths:
             - _site/*
 
+  test-html:
+    docker:
+      - image: python:3.6-stretch
+    steps:
+      - run:
+          name: install Java
+          command: apt-get update && apt-get install -y openjdk-8-jre
+      - run:
+          name: install
+          command: pip install html5validator
+      - attach_workspace:
+          at: /tmp/workspace
+      - run:
+          name: validate html
+          command: html5validator --root /tmp/workspace/_site/
 
   deploy:
     machine:
@@ -119,8 +134,12 @@ workflows:
   build_and_deploy:
     jobs:
       - build
+      - test-html
+          requires:
+            - build
       - deploy:
           requires:
+            - test-html
             - build
 
 
