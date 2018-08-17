@@ -49,7 +49,7 @@ layout: default
     <h2>Tous nos communiqués et dossiers de presse</h2>
     <ul id="list-communique" class="no-bullet grid-y">
       {% for communique in sorted_communiques %}
-      <li>
+      <li class="cell">
         <div class="grid-x grid-margin-x">
           <div class="cell large-3 medium-4 small-6">
             {% if communique.une-ou-diaporama[0].image %}
