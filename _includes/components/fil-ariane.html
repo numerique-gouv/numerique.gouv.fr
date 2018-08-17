@@ -5,17 +5,10 @@
   {% assign temp_crumbs = rectifyUrl | remove:'/index.html' | split: '/' %}
   {% capture crumbs_string %}
     {% for crumb in temp_crumbs %}
-      {% if forloop.first == true %}
-{{ crumb }}
-      {% elsif forloop.last == false %}
-::{{ crumb }}
-      {% else %}
-::{{ page.title }}
-      {% endif %}
+      {% if forloop.first == true %}{{ crumb }}{% elsif forloop.last == false %}::{{ crumb }}{% else %}::{{ page.title }}{% endif %}
     {% endfor %}
   {% endcapture %}
-  {% assign crumbs = crumbs_string | remove:' ' | split: '::' %}
-http://127.0.0.1:3000/              espace-presse/
+  {% assign crumbs = crumbs_string | split: '::' %}
 {% endif %}
 {% if crumbs.size > 1 %}
   <nav class="default-text-padding margin-vertical-1 h6" id="file-arianne">
