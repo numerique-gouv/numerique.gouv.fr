@@ -52,7 +52,7 @@ jobs:
             name: Restore Node module cache
             keys:
               # when lock file changes, use increasingly general patterns to restore cache
-              - node-v1-{{ .Branch }}-{{ checksum "package-lock.json" }}
+              - node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
               - node-v1-{{ .Branch }}-
               - node-v1-
       - run:
@@ -66,8 +66,8 @@ jobs:
       - save_cache:
           name: Save Node module cache
           paths:
-            - ~/usr/local/lib/node_modules  # location depends on npm version
-          key: node-v1-{{ .Branch }}-{{ checksum "package-lock.json" }}
+            - ./node_modules  # location depends on npm version
+          key: node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
 
       - run:
           name: Yarn build
