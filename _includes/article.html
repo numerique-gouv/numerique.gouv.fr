@@ -1,4 +1,4 @@
-{% if page.une-ou-diaporama.size == 1 %}
+{% if page.une-ou-diaporama[0].image %}
   <div class="post__image-container">
     <img class="post__featured-image image-en-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ page.une-ou-diaporama[0].image }}">
   </div>

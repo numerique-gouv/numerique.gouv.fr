@@ -17,7 +17,7 @@ des personnalités qualifiées.
 Parmi les lauréats, 2 projets interministériels portés par la direction interministérielle du numérique et du système
 d’information et de communication de l’Etat (DINSIC) bénéficieront d’un financement total de 43,6 millions d’€ en 2018 :
 
-#### Mettre en place une offre de cloud d'État : FRANCE CLOUD 24,3 millions d’€
+## Mettre en place une offre de cloud d'État : FRANCE CLOUD 24,3 millions d’€
 
 *Objectif* : développer des capacités cloud pour l’État afin accélérer la mise à disposition des services numériques
 innovants et de réduire les coûts d’hébergements et de développement du SI de l’État.
@@ -28,7 +28,7 @@ notamment de sécurité, d’économies, ou de recours aux dernières innova
 œuvre de méthodes agiles qui permettront d’accélérer le développement de services numériques innovants pour les usagers
 et les agents.
 
-#### Bâtir le socle numérique de l'État Plateforme : FranceConnect Plateforme - Phase 2 19,3 millions d’€
+## Bâtir le socle numérique de l'État Plateforme : FranceConnect Plateforme - Phase 2 19,3 millions d’€
 
 *Objectif* : Permettre d'offrir aux usagers des services simplifiés et personnalisés (tout en respectant leurs données
 personnelles), en décloisonnant les administrations par la mise en œuvre d'une plateforme d’échange de données et de
