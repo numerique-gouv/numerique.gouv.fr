@@ -21,6 +21,9 @@
   color: $white!important;
   background: linear-gradient(90deg, $bleue-degrade-1 50%, $bleue-degrade-2);
   margin-bottom: 2rem;
+  h2 {
+    margin-top: 0;
+  }
 }
 
 #ressources-presse {
