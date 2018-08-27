@@ -14,6 +14,7 @@
     </div>
     <div class="top-bar" id="responsive-menu" data-animate="slide-in-left slide-out-left">
       <div class="top-bar-left">
+        <a id="nav" tabindex="-1"></a>
         <ul class="vertical medium-horizontal dropdown menu" data-dropdown-menu>
           {% for item in site.data.nav-main %}
           <li>
@@ -24,6 +25,7 @@
       </div>
       {% if page.title != "Rechercher" %}
       <form id="rechercher" action="/rechercher" class="search-form top-bar-right" method="get">
+        <a id="recherche" tabindex="-1"></a>
         <ul class="menu">
           <li>
             <input class="cell small-8" aria-label="Ma recherche" type="text" name="query" placeholder="Rechercher">

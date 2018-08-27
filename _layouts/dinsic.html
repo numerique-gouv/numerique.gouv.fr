@@ -7,6 +7,7 @@ layout: default
   <div class="post__image-container">
     <img class="post__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
   </div>
+  <a id="content" tabindex="-1"></a>
   <section class="cell white-container padding-large-5 padding-medium-1" >
     {% include components/titre-page-fille.html %}
     <h2 class="font-bold margin-top-3">
@@ -71,8 +72,7 @@ layout: default
         <div class="sticky" data-sticky data-top-anchor="missions:top" data-btm-anchor="missions:bottom" data-margin-top="25" data-margin-right="2">
           <div class="cell grid-y" data-smooth-scroll>
             <a class="flex-container" href="#nos-missions">
-              <img aria-hidden="true" alt="retour en haut" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
-              <span class="off-screen2">Retour aux missions</span>
+              <img alt="Retour aux missions" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
             </a>
           </div>
       </div>
