@@ -12,7 +12,7 @@ chapeau-text: |-
   A la rentrée, un appel à candidatures sera lancé afin de sélectionner les 32 entrepreneurs d’intérêt général qui relèveront ces 15 défis par équipe de 2 ou 3, à partir de janvier 2019 !
 une-ou-diaporama:
 - image: "/uploads/EIG-laureats.png"
-  alternative-textuelle: bureau vide
+  alternative-textuelle: Photo du président du jury
 auteur: Depuis Etalab.gouv.fr
 ---
 

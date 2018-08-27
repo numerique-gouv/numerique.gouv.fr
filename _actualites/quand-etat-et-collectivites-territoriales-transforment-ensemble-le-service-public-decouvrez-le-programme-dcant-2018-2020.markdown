@@ -25,7 +25,7 @@ Pendant plusieurs mois, associations d’élus et représentants des services de
 
 Depuis 2011, l’État et les collectivités se sont en effet engagés à développer ensemble l’administration numérique. Un **premier programme DCANT** avait ainsi vu le jour pour **la période 2015-2017**. Forts du retour d’expérience positif de ce premier volet, le gouvernement et les associations d’élus locaux ont souhaité renforcer et accélérer cette dynamique en définissant de nouveaux axes de travail, à travers l’élaboration du **programme DCANT 2018-2020**, entièrement coconstruit et coécrit.
 
-<iframe width="620" height="348" src="//www.dailymotion.com/embed/video/x6c1gha" allowfullscreen"></iframe>
+<iframe width="620" height="348" src="//www.dailymotion.com/embed/video/x6c1gha" allowfullscreen></iframe>
 {: .video}
 *Dans les coulisses de l'élaboration du programme DCANT*{: .text-align-center}
 
@@ -56,5 +56,5 @@ Parmi les **35 actions à engager au 1er semestre 2018** : valoriser la cyber s�
 Pour approfondir ces nouvelles alliances, l’objectif à terme est d’ouvrir la gouvernance du programme aux associations professionnelles et aux acteurs privés dans une logique d’ouverture et de coopération.
 Fédérer les énergies de l’État et des collectivités autour du citoyen, c’est bien vers une République plateforme que ce programme DCANT ambitionne de nous emmener, pour un service public amélioré adapté au monde d’aujourd’hui et aux attentes des usagers.
 
-* **[Consultez le programme DCANT 2018-2020](/uploads/1._programme_dcant_2018-2020.pdf)**(pdf - 853 ko)
-* [Dossier de presse du programme DCANT 2018-2020](/uploads/dcant_dossier_de_presse.pdf)(pdf - 664 ko)
+* **[Consultez le programme DCANT 2018-2020](/uploads/1._programme_dcant_2018-2020.pdf)** (pdf - 853 ko)
+* [Dossier de presse du programme DCANT 2018-2020](/uploads/dcant_dossier_de_presse.pdf) (pdf - 664 ko)
