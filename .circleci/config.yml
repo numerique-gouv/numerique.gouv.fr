@@ -86,7 +86,7 @@ jobs:
 
   test-html:
     docker:
-        - image: jermainedavis/java-python
+        - image: python:3.6-stretch
     steps:
       - run:
           name: install Java
