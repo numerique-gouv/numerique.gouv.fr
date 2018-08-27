@@ -1,4 +1,7 @@
-#DINSIC SITE
+# DINSIC SITE
+
+Bienvenu à toi développeur ou utilisateur du site de la DINSIC
+Un wiki est disponible au lien [suivant](https://github.com/MatthiasFeraga/site-dinsic/wiki)
 
 ## System Preparation
 
