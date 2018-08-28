@@ -1,14 +1,15 @@
-<nav id="nav-dinsic">
+<nav id="nav-dinsic" role="navigation">
   <div id="nav-titre">
     {% include components/titre-site.html %}
   </div>
-  <div id="nav-content" >
+  <div id="nav-content">
     <div class="title-bar" data-responsive-toggle="responsive-menu" >
       <div class="title-bar-right" data-hide-for="medium">
         <button id="hamburger-button" class="hamburger hamburger--collapse" type="button" data-toggle="responsive-menu" >
-        <span class="hamburger-box">
-          <span class="hamburger-inner"></span>
-        </span>
+          <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+          </span>
+          <span class="off-screen">Ouvrir le menu</span>
         </button>
       </div>
     </div>
@@ -24,12 +25,12 @@
         </ul>
       </div>
       {% if page.title != "Rechercher" %}
-      <form id="rechercher" action="/rechercher" class="search-form top-bar-right" method="get">
+      <form id="rechercher" action="/rechercher" class="search-form top-bar-right" method="get" role="search">
         <a id="recherche" tabindex="-1"></a>
-        <label for="input-rechercher" class="off-screen2">Rechercher dans le site dinsic.gouv.fr</label>
+        <label for="input-rechercher" class="off-screen">Rechercher dans le site dinsic.gouv.fr</label>
         <input id="input-rechercher" aria-label="Ma recherche" type="text" name="query"><!--
         --><button type="submit">
-          <span class="off-screen2">Lancer la recherche</span>
+          <span class="off-screen">Lancer la recherche</span>
           <span aria-hidden="true" class="fas fa-search icon-recherche"></span>
 
         </button>

@@ -99,3 +99,7 @@ $hamburger-bar : 3;
     margin-top: 2rem!important;
   }
 }
+
+.gray {
+  filter: blur(0.1rem) grayscale(1);
+}

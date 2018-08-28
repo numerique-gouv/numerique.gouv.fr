@@ -105,18 +105,42 @@ $('[data-app-dashboard-toggle-shrink]').on('click', function(e) {
 // Custom JS
 // --------------------------------------------------
 
-const button = document.querySelector('#hamburger-button');
+//Menu
+const button = $('#hamburger-button');
 const activatedClass = 'is-active';
+const grayClass = 'gray';
+const menu = $('#responsive-menu');
+const main = $('#main');
 
-button.addEventListener('click', function(e) {
-  e.preventDefault();
-  if(button.classList.contains(activatedClass)){
-    button.classList.remove(activatedClass);
-
-  } else {
-    button.classList.add(activatedClass);
+button.on('click', function() {
+  if(!closeMenu()){
+    button.addClass(activatedClass);
+    main.addClass(grayClass);
+    Foundation.Motion.animateIn(menu,"slide-in-left");
   }
 });
+
+main.on('click', function (e) {
+    closeMenu();
+});
+
+$( document ).on( 'keydown', function ( e ) {
+  if ( e.keyCode === 27 ) { // ESC
+    closeMenu();
+  }
+});
+
+function closeMenu() {
+  if(button.hasClass(activatedClass)) {
+    Foundation.Motion.animateOut(menu,"slide-out-left",function () {
+      button.removeClass(activatedClass);
+      main.removeClass(grayClass);
+    });
+    return true;
+  } else {
+    return false;
+  }
+}
 
 if ( ! Modernizr.objectfit ) {
   $('.post__image-container').each(function () {
@@ -158,5 +182,7 @@ $('.icon-arrow-down').each(function ( index ) {
     Foundation.SmoothScroll.scrollToLoc(selector, {threshold: 50, offset: 0 }, null);
   })
 });
+
+
 
 

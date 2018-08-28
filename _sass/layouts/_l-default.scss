@@ -36,7 +36,6 @@ header {
   width: 100%;
   flex-flow: row wrap;
   @include breakpoint(small only) {
-    position: fixed;
     background-color: $white;
     top:0;
   }
@@ -59,10 +58,14 @@ header {
   #nav-content {
     flex: 1;
     padding: 1rem;
+    * {
+      margin: 0;
+    }
     #responsive-menu {
       padding: 0;
       @include breakpoint(small only) {
-        position: fixed;
+        z-index: 1;
+        position: absolute;
         left:0;
         padding: 1rem;
         width: 100%;
@@ -81,11 +84,7 @@ header {
     }
   }
   #rechercher{
-    * {
-      display: block;
-      vertical-align: middle;
-      white-space: nowrap;
-    }
+    display: flex;
   }
 }
 
