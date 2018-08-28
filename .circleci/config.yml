@@ -86,7 +86,7 @@ jobs:
 
   test-html:
     docker:
-        - image: etbe/html5validator
+        - image: etbe/html5validator:1.0
     steps:
       - attach_workspace:
           at: /tmp/workspace
