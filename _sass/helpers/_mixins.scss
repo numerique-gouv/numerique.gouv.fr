@@ -101,5 +101,7 @@ $hamburger-bar : 3;
 }
 
 .gray {
-  filter: blur(0.1rem) grayscale(1);
+  filter: blur(0.1rem) grayscale(1)!important;
+  pointer-events: none!important;
+  cursor: default!important;
 }

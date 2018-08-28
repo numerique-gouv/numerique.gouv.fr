@@ -9,6 +9,7 @@ import jQuery from 'jquery'
 const $ = jQuery;
 window.jQuery = jQuery;
 window.$ = jQuery;
+$(document).foundation();
 import whatInput from 'what-input';
 import Foundation from 'foundation-sites';
 
@@ -137,8 +138,6 @@ function closeMenu() {
       main.removeClass(grayClass);
     });
     return true;
-  } else {
-    return false;
   }
 }
 
