@@ -80,6 +80,13 @@ header {
       font-size: 1.5rem;
     }
   }
+  #rechercher{
+    * {
+      display: block;
+      vertical-align: middle;
+      white-space: nowrap;
+    }
+  }
 }
 
 #file-arianne {
@@ -175,3 +182,4 @@ footer {
   }
 
 }
+

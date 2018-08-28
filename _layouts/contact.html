@@ -5,13 +5,15 @@ layout: page
 {{ page.content }}
 <form id="contact-form" action="https://formspree.io/communication.dinsic@modernisation.gouv.fr"
       method="POST">
-  <label for="form-name"> Votre nom </label>
-  <input id="form-name" type="text" name="name">
-  <label for="form-email"> Votre email </label>
-  <input id="form-email" type="email" name="_replyto">
+  <label for="form-categorie"> Catégorie </label>
+  <input id="form-categorie" type="select" name="objet">
   <label for="form-objet"> Objet </label>
   <input id="form-objet" type="text" name="objet">
-  <label for="form-message"> Votre message </label>
-  <textarea id="form-message"  name="message"></textarea>
+  <label for="form-message"> Votre message (obligatoire) </label>
+  <textarea required id="form-message"  name="message"></textarea>
+  <label for="form-email"> Votre email (obligatoire) </label>
+  <input required id="form-email" type="email" name="_replyto">
+  <label for="form-name"> Votre nom </label>
+  <input id="form-name" type="text" name="name">
   <input class="button" type="submit" value="Envoyer">
 </form>

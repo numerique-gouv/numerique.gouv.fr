@@ -26,15 +26,13 @@
       {% if page.title != "Rechercher" %}
       <form id="rechercher" action="/rechercher" class="search-form top-bar-right" method="get">
         <a id="recherche" tabindex="-1"></a>
-        <ul class="menu">
-          <li>
-            <input class="cell small-8" aria-label="Ma recherche" type="text" name="query" placeholder="Rechercher">
-          </li>
-          <li>
-            <button class="cell small-4" aria-label="Rechercher" type="submit" >
-              <i class="fas fa-search icon-recherche"></i></button>
-          </li>
-        </ul>
+        <label for="input-rechercher" class="off-screen2">Rechercher dans le site dinsic.gouv.fr</label>
+        <input id="input-rechercher" aria-label="Ma recherche" type="text" name="query"><!--
+        --><button type="submit">
+          <span class="off-screen2">Lancer la recherche</span>
+          <span aria-hidden="true" class="fas fa-search icon-recherche"></span>
+
+        </button>
       </form>
       {% endif %}
     </div>

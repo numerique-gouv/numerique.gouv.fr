@@ -86,14 +86,8 @@ jobs:
 
   test-html:
     docker:
-        - image: rappdw/docker-java-python
+        - image: etbe/html5validator
     steps:
-      - run:
-          name: install Java
-          command: apt-get update && apt-get install -y openjdk-8-jre
-      - run:
-          name: install
-          command: pip install html5validator
       - attach_workspace:
           at: /tmp/workspace
       - run:
