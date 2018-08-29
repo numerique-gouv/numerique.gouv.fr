@@ -19,6 +19,27 @@
   }
 }
 
+.post {
+  &__image-container {
+    height: 100%;
+    width: auto;
+    &.compat-object-fit {
+      background-size: cover;
+      background-position: center center;
+      height: auto;
+      .post__featured-image { // hide image if object fit is not supported - opacity to 0 for the link area
+        opacity: 0;
+      }
+    }
+  }
+  &__featured-image {
+    object-fit: cover; /* Do not scale the image */
+    object-position: center; /* Center the image within the element */
+    height: 100%;
+    width:100%;
+  }
+}
+
 .post-content-text {
   ul {
     list-style: none;

@@ -1,0 +1,34 @@
+figure {
+  display: inline-table;
+  margin-right: 1rem;
+  width: 50%; /* This can be any width, so long as it's narrower than any image */
+  float:left
+  img, figcaption {
+    display: table-row;
+  }
+  img {
+    border-bottom: 0.5rem solid transparent;
+  }
+}
+
+figcaption {
+  text-align: right;
+  color: $dark-gray;
+  font-style: italic;
+  font-size: smaller;
+}
+
+.image-left {
+  float:left;
+}
+
+.image-right {
+  float:right;
+}
+
+.image-center {
+  margin: initial auto;
+}
+
+
+

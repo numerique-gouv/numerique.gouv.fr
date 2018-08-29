@@ -24,7 +24,7 @@ Le 4 juillet 2018, les administrations candidates au programme Entrepreneur.e d�
 
 En tant qu’acteurs reconnus de la communauté numérique d’intérêt général, les membres du jury ont pu mettre à profit leurs diverses expertises pour évaluer la capacité des porteurs de défi à accueillir des EIG dans les meilleurs conditions, adapter leur feuille de route, et surtout à faire partie d’un collectif d’innovateurs publics qui partage des méthodes, des outils et devient pionnier de l’ouverture des données et des codes sources.
 
-<figure>
+<figure class='image-left' style='width: 50%;'>
   <img src="/uploads/ATTENTE-JURY-EIG.jpg" alt="my alt text"/>
   <figcaption>Salle d’accueil du SGPI – Les membres de l’administration attendent d’être auditionnés par le jury – 4 juillet 2018</figcaption>
 </figure>
