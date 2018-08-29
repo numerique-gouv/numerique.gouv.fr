@@ -1,6 +1,6 @@
 # DINSIC SITE
 
-[![CircleCI](https://circleci.com/gh/MatthiasFeraga/site-dinsic/tree/master.svg?style=svg&circle-token=ad2054b5900fbfd4b3971014fa75e8f9ec3bed5f)]
+![CircleCI](https://circleci.com/gh/MatthiasFeraga/site-dinsic/tree/master.svg?style=svg&circle-token=ad2054b5900fbfd4b3971014fa75e8f9ec3bed5f)
 [![devDependencies](https://david-dm.org/MatthiasFeraga/site-dinsic/dev-status.svg)](https://david-dm.org/MatthiasFeraga/site-dinsic#info=devDependencies)
 
 Bienvenu à toi développeur ou utilisateur du site de la DINSIC.
