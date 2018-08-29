@@ -51,7 +51,7 @@ layout: default
     <ul id="list-communique" class="no-bullet grid-y">
       {% for communique in sorted_communiques %}
       <li class="cell">
-        <div class="grid-x grid-margin-x">
+        <a class="black-link grid-x grid-margin-x" href="{{ communique.url | relative_url }}">
           <div class="cell large-3 medium-4 small-6">
             {% if communique.une-ou-diaporama[0].image %}
             <img alt="image {{ communique.title }}" class="post__featured-image" src="{{ communique.une-ou-diaporama[0].image | relative_url}}">
@@ -60,26 +60,24 @@ layout: default
             {% endif %}
           </div>
           <div class="cell large-9 medium-6 small-6">
-            <a class="communique-link black-link" href="{{ communique.url }}">
-              <img alt="icon {{ communique.categories.first }}" class="icon" src="
-            {% case communique.categories.first %}
-              {% when 'Communiqué de presse' %}
-                /assets/img/pictogrammes/communique_de_presse.svg
-              {% when 'Dossier de presse' %}
-                /assets/img/pictogrammes/dossier_de_presse.svg
-              {% else %}
-                /assets/img/pictogrammes/communique_de_presse.svg
-            {% endcase %}
-            ">
-              <span>{{ communique.categories.first }}</span>
-              <p class="h4 font-bold margin-0">
-                {{ communique.title }}
-              </p>
-              <span class="communique-meta h6 date">{% include date.html date=communique.date %}</span>
-            </a>
+            <img alt="icon {{ communique.categories.first }}" class="icon post-icon" src="
+          {% case communique.categories.first %}
+            {% when 'Communiqué de presse' %}
+              /assets/img/pictogrammes/communique_de_presse.svg
+            {% when 'Dossier de presse' %}
+              /assets/img/pictogrammes/dossier_de_presse.svg
+            {% else %}
+              /assets/img/pictogrammes/communique_de_presse.svg
+          {% endcase %}
+          ">
+            <span>{{ communique.categories.first }}</span>
+            <p class="h4 font-bold margin-0">
+              {{ communique.title }}
+            </p>
+            <span class="communique-meta h6 date">{% include date.html date=communique.date %}</span>
           </div>
-        </div>
-        <hr>
+          <hr>
+        </a>
       </li>
       {% endfor %}
     </ul>
