@@ -48,42 +48,7 @@ layout: default
   </div>
   <section class="max-width-60 padding-vertical-2">
     <h2>Tous nos communiqués et dossiers de presse</h2>
-    <ul id="list-communique" class="no-bullet grid-y grid-margin-y">
-      {% for communique in sorted_communiques %}
-      <li class="cell">
-        <a class="black-link grid-x grid-margin-x" href="{{ communique.url | relative_url }}">
-          <div class="cell large-3 medium-4 small-6">
-            {% if communique.une-ou-diaporama[0].image %}
-            <img alt="image {{ communique.title }}" class="post__featured-image" src="{{ communique.une-ou-diaporama[0].image | relative_url}}">
-            {% else %}
-            <img alt="image par default" class="post__featured-image" src="{{ '/assets/img/default.png' | relative_url }}">
-            {% endif %}
-          </div>
-          <div class="cell large-9 medium-6 small-6">
-            <img alt="icon {{ communique.categories.first }}" class="icon post-icon" src="
-          {% case communique.categories.first %}
-            {% when 'Communiqué de presse' %}
-              /assets/img/pictogrammes/communique_de_presse.svg
-            {% when 'Dossier de presse' %}
-              /assets/img/pictogrammes/dossier_de_presse.svg
-            {% else %}
-              /assets/img/pictogrammes/communique_de_presse.svg
-          {% endcase %}
-          ">
-            <span>{{ communique.categories.first }}</span>
-            <p class="h4 font-bold margin-0">
-              {{ communique.title }}
-            </p>
-            <span class="communique-meta h6 date">{% include date.html date=communique.date %}</span>
-          </div>
-          <hr>
-        </a>
-        {% if forloop.last == false %}
-        <hr class="cell">
-        {% endif %}
-      </li>
-      {% endfor %}
-    </ul>
+    {% include components/list-post.html sorted_post=sorted_communiques %}
   </section>
 </div>
 

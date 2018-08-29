@@ -1,5 +1,4 @@
 <div id="meilleures-actualites" class="grid-container">
-  {% assign sorted_actualites = site.actualites | where: "is_une","true" | sort:'date' | reverse %}
   {% assign actualite_principal = sorted_actualites.first %}
   <div class="grid-x grid-margin-x grid-margin-y margin-bottom-2">
       {% include components/carte-double.html carte-double=actualite_principal %}
