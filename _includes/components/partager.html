@@ -3,22 +3,26 @@
   <ul>
     <li>
       <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}">
-        <img src="/assets/img/pictogrammes/partager_twitter.svg">
+        <img aria-hidden="true" alt="partager twitter" src="/assets/img/pictogrammes/partager_twitter.svg">
+        <span class="off-screen">Partager sur Twitter</span>
       </a>
     </li>
     <li>
       <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url }}">
-        <img src="/assets/img/pictogrammes/partager_linkedin.svg">
+        <img aria-hidden="true" alt="partager linkedin" src="/assets/img/pictogrammes/partager_linkedin.svg">
+        <span class="off-screen">Partager sur Linkedin</span>
       </a>
     </li>
     <li>
       <a href="https://www.facebook.com/sharer.php?u={{ page.url | absolute_url }}">
-        <img src="/assets/img/pictogrammes/partager_facebook.svg">
+        <img aria-hidden="true" alt="partager facebook" src="/assets/img/pictogrammes/partager_facebook.svg">
+        <span class="off-screen">Partager sur Facebook</span>
       </a>
     </li>
     <li>
-      <a href="mailto:?subject={{ site.title }} : {{ page.title }} &body={{ page.url | absolute_url }}">
-        <img src="/assets/img/pictogrammes/partager_mail.svg">
+      <a href="mailto:?subject={{ site.title | replace: ' ','&nbsp;' }}&nbsp;:&nbsp;{{ page.title | replace: ' ','&nbsp;' }}&body={{ page.url | absolute_url }}">
+        <img aria-hidden="true" alt="partager mail" src="/assets/img/pictogrammes/partager_mail.svg">
+        <span class="off-screen">Partager par mail</span>
       </a>
     </li>
   </ul>

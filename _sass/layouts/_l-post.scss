@@ -16,31 +16,55 @@
     .image-en-tete{
       height: 50vh;
     }
+  }
+}
 
-    ul {
-      list-style: none;
-      margin-left: 0;
-      padding-left: 1.5rem;
-      text-indent: -1.5rem;
+.post-content-text {
+  ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1.5rem;
+    text-indent: -1.5rem;
+    li {
+      &:before {
+        content: "►";
+        display: block;
+        float: left;
+        width: 1.5rem;
+        color: $bleue;
+
+      }
       li {
         &:before {
-          content: "►";
-          display: block;
-          float: left;
-          width: 1.5rem;
-          color: $bleue;
-
-        }
-        li {
-          &:before {
-            color: $bleue-clair;
-          }
+          color: $bleue-clair;
         }
       }
     }
+  }
+}
 
+#tag-article {
+  display: flex;
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    li {
+      margin: 0.5rem;
+      padding:0.5rem;
+      font-size: smaller;
+      border: 1px solid $bleue;
+      border-radius: 0.3rem;
+      color: $bleue;
+    }
   }
 }
 
 
+#list_post {
+  .icon {
+    width: 1rem;
+    margin-right: 0.5rem;
+    padding-bottom: 0.4rem;
+  }
+}
 

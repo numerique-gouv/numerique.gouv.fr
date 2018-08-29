@@ -49,6 +49,7 @@
     &.compat-object-fit {
       background-size: cover;
       background-position: center center;
+      height: auto;
       .post__featured-image { // hide image if object fit is not supported - opacity to 0 for the link area
         opacity: 0;
       }
@@ -280,6 +281,10 @@
     }
   }
 
+}
+
+.video {
+  border: none;
 }
 
 .image-center {

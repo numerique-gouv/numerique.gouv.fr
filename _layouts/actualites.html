@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-
+{% assign sorted_actualites = site.actualites | where: "is_une","true" | sort:'date' | reverse %}
 <div id="actualites">
   <div class="post__image-container">
     <img class="post__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ page.une.image | relative_url }}">
   </div>
+  <a id="content" tabindex="-1"></a>
   <section class="margin-0" >
     <div class="gray-background padding-vertical-2 ">
       <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">{{ page.title }}</h1>
@@ -16,40 +17,7 @@ layout: default
     </div>
     <section class="max-width-60 padding-vertical-2" >
       <h2>Toutes nos actualités</h2>
-      <ul class="no-bullet grid-y" id="liste_actualites">
-        {% for actualite in sorted_actualites %}
-        <li  class="grid-x grid-margin-x">
-          <div class="cell post__image-container large-4 medium-5 small-12 height-10rem">
-            {% if actualite.une-ou-diaporama[0].image %}
-            <img class="post__featured-image" alt="{{ actualite.une-ou-diaporama[0].alternative-textuelle }}" src="{{ actualite.une-ou-diaporama[0].image | relative_url }}">
-            {% else %}
-            <img class="post__featured-image" alt="image par default" src="{{ '/assets/img/default.png'  | relative_url }}" >
-            {% endif %}
-          </div>
-          <div class="content cell large-8 medium-7 small-12">
-            <a class="black-link" href="{{ actualite.url | relative_url }}">
-              <img class="icon" src="
-            {% case actualite.categories.first %}
-              {% when 'Article' %}
-                /assets/img/pictogrammes/article.svg
-              {% when 'Infographie' %}
-                /assets/img/pictogrammes/infographie.svg
-              {% else %}
-                /assets/img/pictogrammes/article.svg
-            {% endcase %}
-            ">
-              <span class="h6"> {{ actualite.categories.first}} </span>
-              <p class="h5 font-bold margin-bottom-0-5">{{ actualite.title }}</p>
-              <p class="post-meta h6 date">{% include date.html date=actualite.date %}</p>
-              <p>{{ actualite.chapeau-text | markdownify | truncatewords: 20}}</p>
-            </a>
-          </div>
-          {% if forloop.last == false %}
-          <hr class="cell">
-          {% endif %}
-        </li>
-        {% endfor %}
-      </ul>
+      {% include components/list-post.html sorted_post=sorted_actualites %}
     </section>
   </section>
 </div>

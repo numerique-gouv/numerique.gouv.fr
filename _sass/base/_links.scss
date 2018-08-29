@@ -76,8 +76,9 @@ a {
 }
 
 .off-screen {
-  position: absolute;
-  left: -99999999rem;
+  position: absolute!important;
+  left: -99999999rem!important;
+  overflow:hidden!important;
 }
 
 .partager {

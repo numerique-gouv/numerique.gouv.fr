@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<main class="post gray-background">
+<div class="post gray-background">
   <article>
     {% include article.html %}
     <section id="contact-presse" class="text-center">
-      <h3 class="h4">Contact presse</h3>
+      <h2 class="h4">Contact presse</h2>
       <p>
         {{ page.contact-presse.name }}
         {% for tel in page.contact-presse.tel%}
@@ -23,4 +23,4 @@ layout: default
       <a class="blue-link" id="communiqueSize-{{ post.url | replace: ' ', '' }}" href="{{base}}/{{ page.communique_file }}"><i class="fas fa-download margin-horizontal-1"></i>Télécharger le communiqué de presse (PDF </a>
     </div>
   </article>
-</main>
+</div>
