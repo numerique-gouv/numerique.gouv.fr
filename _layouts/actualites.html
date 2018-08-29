@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign sorted_actualites = site.actualites | where: "is_une","true" | sort:'date' | reverse %}
 <div id="actualites">
   <div class="post__image-container">

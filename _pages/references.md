@@ -1,8 +1,8 @@
 ---
 title: Références
 permalink: "/references/"
-layout: default
 published: false
+layout: default
 ---
 
 <div class="responsive-embed">
