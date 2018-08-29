@@ -1,14 +1,17 @@
 ---
-title: '5E édition du panorama : revue de détails pour 61 grands projets SI de l''État'
+title: 'Panorama des grands projets SI de l’État, 6e édition : 56 projets passés au
+  crible'
 date: 2018-07-19 00:00:00 +02:00
 tags:
-- une
+- panorama
+- système d'information
+- sécurisation
 position: 1
 chapeau-text: 'La DINSIC passe à nouveau en revue les grands projets du système d’information
   de l’Etat et rend public ce panorama, comme tous les quatre mois. Au menu : 56 chantiers
   informatiques détaillés, pour un montant prévisionnel global de 2,55 milliards d’euros.'
 une-ou-diaporama:
-- image: "/assets/img/actualites/H.VERDIER.jpg"
+- image: "/uploads/revue_de_details.jpg"
   alternative-textuelle: H.VERDIER
 ---
 
@@ -28,7 +31,7 @@ Ainsi par exemple l’harmonisation de la délivrance des visas sur le plan euro
 
 Le panorama met aussi en exergue les efforts de l’Etat en matière de dépenses informatiques : les projets mutualisés se multiplient – 20 des 56 chantiers actuels, soit 1 sur 3, ont une portée interministérielle – avec à la clé des économies substantielles. Plusieurs projets de cette édition enregistrent des prévisions à la baisse grâce à des renégociations d’offres fournisseurs et des mises en commun de développements entre projets. La logique de partage, impulsée par la DINSIC, continue de s’intensifier.
 
-![panorama_juillet2018.png](/uploads/panorama_juillet2018.png){:height="88px" width="200px"}{: .align-center}
+![panorama_juillet2018.png](/uploads/panorama_juillet2018.png){:height="88" width="200"}{: .align-center}
 
 \> Consulter la 6e édition du panorama
 {: .text-align-center}

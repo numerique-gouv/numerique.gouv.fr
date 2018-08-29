@@ -1,9 +1,8 @@
 {% assign carte = include.data %}
-{% assign is_image = include.is_image %}
 
 <div class="cell grid-y carte height-100">
   <a href="{{ carte.url}}" class="black-link">
-    {% if carte.une-ou-diaporama[0] and is_image %}
+    {% if carte.une-ou-diaporama[0] %}
     <div class="post__image-container index-image-container">
       <img class="post__featured-image" alt="{{ carte.une-ou-diaporama[0].alternative-textuelle }}" src="{{ carte.une-ou-diaporama[0].image }}">
     </div>

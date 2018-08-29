@@ -27,47 +27,67 @@ header {
     margin: 0rem;
   }
 }
-#dinsic-nav-bar {
-  @include breakpoint(small only) {
-    position: fixed;
-    width: 100%;
-  }
-  @include breakpoint(medium down) {
-    margin-top: 0rem;
-  }
-  .marianne {
-    height: 2rem;
-    max-width: 100%;
-  }
-  .title-bar {
-    .hamburger-inner {
-      margin-top: 2rem;
-    }
-  }
-
+.marianne {
+  height: 2rem;
+  max-width: 100%;
 }
-#dinsic-main-menu {
-  .search-form {
-    button {
-      background-color: $white;
-      img{
-        height: 1rem;
+#nav-dinsic {
+  display: flex;
+  width: 100%;
+  flex-flow: row wrap;
+  @include breakpoint(small only) {
+    background-color: $white;
+    top:0;
+  }
+  #nav-titre {
+    flex-basis:min-content;
+    padding: 1.3rem;
+    h1, a {
+      margin: 0;
+      padding: 0;
+      font-size: large;
+      font-weight: bold;
+      img {
+        padding-right: 0.5rem;
+      }
+      i {
+        font-weight: normal;
       }
     }
   }
-  @include breakpoint(small only) {
-    position: fixed;
-    background-color: $light-gray;
-    padding: 0rem;
-    height: 100%;
-    ul {
-      background-color: $light-gray;
+  #nav-content {
+    flex: 1;
+    padding: 1rem;
+    * {
+      margin: 0;
     }
-    div {
-      width: 8rem;
+    #responsive-menu {
+      padding: 0;
+      @include breakpoint(small only) {
+        z-index: 1;
+        position: absolute;
+        left:0;
+        padding: 1rem;
+        width: 100%;
+      }
+    }
+    .title-bar-right {
+      margin: 0;
+    }
+    .hamburger {
+      padding: 0;
+    }
+    .icon-recherche {
+      padding: 0.5rem;
+      color: $bleue;
+      font-size: 1.5rem;
     }
   }
+  #rechercher{
+    display: flex;
+  }
 }
+
 #file-arianne {
   font-size: smaller;
 
@@ -76,22 +96,8 @@ header {
   }
 }
 
-.icon-recherche {
-  color: $bleue;
-  font-size: 1.5rem;
-}
-.titre-site{
-  margin: 0;
-  padding: 1rem;
-  font-size: large;
-  font-weight: bold;
-  img {
-    padding-right: 0.5rem;
-  }
-  i {
-    font-weight: normal;
-  }
-}
+
+
 
 footer {
   background-color: $black;
@@ -150,3 +156,29 @@ footer {
     }
   }
 }
+
+
+.skip-link {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  li {
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    position: absolute;
+    top: -9em;
+    padding: .5em 1em;
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.2);
+    background-color: $black;
+    color:$white;
+    font-weight: bold;
+    &:focus {
+      top: 0;
+    }
+  }
+
+}
+

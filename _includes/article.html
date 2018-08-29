@@ -1,4 +1,4 @@
-{% if page.une-ou-diaporama.size == 1 %}
+{% if page.une-ou-diaporama[0].image %}
   <div class="post__image-container">
     <img class="post__featured-image image-en-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ page.une-ou-diaporama[0].image }}">
   </div>
@@ -6,9 +6,20 @@
     <div class="legende">{{ page.une-ou-diaporama[0].legende }}</div>
   {% endif %}
 {% endif %}
+<a id="content" tabindex="-1"></a>
 <div id="titre-article" class="padding-large-top-5 padding-large-horizontal-5  margin-large-bottom-5 padding-medium-1">
   {% include components/titre-page-fille.html %}
 </div>
-<div id="content-article" class="padding-large-horizontal-5 padding-large-bottom-2 margin-large-top-2 padding-medium-1">
+<div id="content-article" class="post-content-text padding-large-horizontal-5 padding-large-bottom-2 margin-large-top-2 padding-medium-1">
   {{ content }}
 </div>
+<div id="tag-article" class="padding-large-horizontal-5 padding-medium-1" >
+  <ul class="no-bullet">
+    {% for tag in page.tags %}
+    <li>
+      #{{ tag | capitalize }}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+

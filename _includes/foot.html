@@ -1,5 +1,10 @@
-<script src="/assets/js/modernizr.js"></script>
-<script src="/assets/js/app.js"></script>
 <script type="text/javascript">
-  $(document).foundation();
+  const modernizr = document.createElement('script');
+  modernizr.src = '/assets/js/modernizr.js';
+  const app = document.createElement('script');
+  app.src = '/assets/js/app.js';
+
+  document.body.appendChild(modernizr);
+  document.body.appendChild(app);
 </script>
+

@@ -7,6 +7,7 @@ layout: default
   <div class="post__image-container">
     <img class="post__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
   </div>
+  <a id="content" tabindex="-1"></a>
   <section class="cell white-container padding-large-5 padding-medium-1" >
     {% include components/titre-page-fille.html %}
     <h2 class="font-bold margin-top-3">
@@ -41,7 +42,7 @@ layout: default
             <i class="fas fa-search icon-loupe"></i>
             <h4 class="font-bold display-inline-block">{{ mission.encadre.titre }}</h4>
           </div>
-          <p>{{ mission.encadre.contenu-text | markdownify }}</p>
+          {{ mission.encadre.contenu-text | markdownify }}
           <div class="chiffres-encadre grid-x grid-margin-x margin-top-2">
             {% for chiffre in mission.encadre.chiffres %}
             <div class="chiffre-encadre medium-auto cell small-12 grid-y align-middle padding-horizontal-1">
@@ -71,17 +72,12 @@ layout: default
         <div class="sticky" data-sticky data-top-anchor="missions:top" data-btm-anchor="missions:bottom" data-margin-top="25" data-margin-right="2">
           <div class="cell grid-y" data-smooth-scroll>
             <a class="flex-container" href="#nos-missions">
-              <img class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
+              <img alt="Retour aux missions" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
             </a>
-            <!-- <a href="#next">
-               <img src="{{base}}/assets/img/pictogrammes/fleche_bas.svg">
-            </a> -->
           </div>
-        <!-- This sticky element would stick to the window, with a marginTop of 0 -->
       </div>
     </div>
   </div>
-  <!--  {% include /components/historique.html %} -->
 </div>
 
 

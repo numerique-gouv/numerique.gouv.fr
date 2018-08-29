@@ -24,13 +24,13 @@ $hamburger-bar : 3;
 }
 
 .margin-vertical-auto {
-  margin-top: auto;
-  margin-bottom: auto;
+  margin-top: auto !important;
+  margin-bottom: auto !important;
 }
 
 .margin-horizontal-auto {
-  margin-right: auto;
-  margin-left: auto;
+  margin-right: auto!important;
+  margin-left: auto!important;
 }
 .margin-bottom-5 {
   margin-bottom: 5rem;
@@ -38,6 +38,11 @@ $hamburger-bar : 3;
 
 .margin-bottom-0-5 {
   margin-bottom: 0.5rem;
+}
+
+.margin-vertical-1-5 {
+  margin-top: 1.5rem !important;
+  margin-bottom: 1.5rem !important;
 }
 
 .height-25rem {
@@ -98,4 +103,10 @@ $hamburger-bar : 3;
   @include breakpoint(large up){
     margin-top: 2rem!important;
   }
+}
+
+.gray {
+  filter: blur(0.1rem) grayscale(1)!important;
+  pointer-events: none!important;
+  cursor: default!important;
 }
