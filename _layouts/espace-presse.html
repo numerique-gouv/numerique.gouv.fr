@@ -48,7 +48,7 @@ layout: default
   </div>
   <section class="max-width-60 padding-vertical-2">
     <h2>Tous nos communiqués et dossiers de presse</h2>
-    <ul id="list-communique" class="no-bullet grid-y">
+    <ul id="list-communique" class="no-bullet grid-y grid-margin-y">
       {% for communique in sorted_communiques %}
       <li class="cell">
         <a class="black-link grid-x grid-margin-x" href="{{ communique.url | relative_url }}">
@@ -78,6 +78,9 @@ layout: default
           </div>
           <hr>
         </a>
+        {% if forloop.last == false %}
+        <hr class="cell">
+        {% endif %}
       </li>
       {% endfor %}
     </ul>

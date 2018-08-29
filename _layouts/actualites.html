@@ -17,7 +17,7 @@ layout: default
     </div>
     <section class="max-width-60 padding-vertical-2" >
       <h2>Toutes nos actualités</h2>
-      <ul class="no-bullet grid-y" id="liste_actualites">
+      <ul class="no-bullet grid-y grid-margin-y" id="liste_actualites">
         {% for actualite in sorted_actualites %}
         <li>
           <a class="black-link grid-x grid-margin-x" href="{{ actualite.url | relative_url }}">
@@ -50,10 +50,10 @@ layout: default
               <p class="post-meta h6 date">{% include date.html date=actualite.date %}</p>
               <p>{{ actualite.chapeau-text | markdownify | truncatewords: 20}}</p>
             </div>
-            {% if forloop.last == false %}
-            <hr class="cell">
-            {% endif %}
           </a>
+          {% if forloop.last == false %}
+          <hr class="cell">
+          {% endif %}
         </li>
         {% endfor %}
       </ul>
