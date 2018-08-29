@@ -1,14 +1,17 @@
 ---
-title: '5E édition du panorama : revue de détails pour 61 grands projets SI de l''État'
+title: 'Panorama des grands projets SI de l’État, 6e édition : 56 projets passés au
+  crible'
 date: 2018-07-19 00:00:00 +02:00
 tags:
-- une
+- panorama
+- système d'information
+- sécurisation
 position: 1
 chapeau-text: 'La DINSIC passe à nouveau en revue les grands projets du système d’information
   de l’Etat et rend public ce panorama, comme tous les quatre mois. Au menu : 56 chantiers
   informatiques détaillés, pour un montant prévisionnel global de 2,55 milliards d’euros.'
 une-ou-diaporama:
-- image: "/assets/img/actualites/H.VERDIER.jpg"
+- image: "/uploads/revue_de_details.jpg"
   alternative-textuelle: H.VERDIER
 ---
 
