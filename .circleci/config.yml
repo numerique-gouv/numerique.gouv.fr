@@ -5,50 +5,69 @@ jobs:
       - image: starefossen/ruby-node:latest
     steps:
       - restore_cache:
+          name: Restore Git Cache
           keys:
-            - source-v1-{{ .Branch }}-{{ .Revision }}
-            - source-v1-{{ .Branch }}-
-            - source-v1-
+            - source-v5-{{ .Branch }}-{{ .Revision }}
+            - source-v5-{{ .Branch }}-
+            - source-v5-
 
       - checkout
 
       - save_cache:
-          key: source-v1-{{ .Branch }}-{{ .Revision }}
+          name: Save Git Cache
+          key: source-v5-{{ .Branch }}-{{ .Revision }}
           paths:
             - ".git"
 
-      - run:
-          name: Which bundler?
-          command: bundle -v
-
       # Restore bundle cache
       - restore_cache:
+          name: Restore Gem Cache
           keys:
-            - dinsic-v1-{{ checksum "Gemfile.lock" }}
-            - dinsic-v1-
+            - gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - gem-cache-v1-{{ arch }}-{{ .Branch }}
+            - gem-cache-v1
 
       - run:
           name: Bundle Install
-          command: bundle check || bundle install
+          command: bundle check --path=/vendor/bundle || bundle install --path=/vendor/bundle --jobs=4 --retry=3
 
       # Store bundle cache
       - save_cache:
-          key: dinsic-v1-{{ checksum "Gemfile.lock" }}
+          name: Save Gem Cache
+          key: gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
           paths:
-            - vendor/bundle
+            - /vendor/bundle
+
+      - run:
+          name: change yarn cache config
+          command: yarn config set cache-folder ~/.cache/yarn
 
       - restore_cache:
           name: Restore Yarn Package Cache
           keys:
-            - yarn-packages-{{ checksum "yarn.lock" }}
+            - yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - yarn-packages-v1-{{ .Branch }}-
+            - yarn-packages-v1-
+      - restore_cache:
+          name: Restore Node module cache
+          keys:
+            # when lock file changes, use increasingly general patterns to restore cache
+            - node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - node-v1-{{ .Branch }}-
+            - node-v1-
       - run:
           name: Install Dependencies
           command: yarn install
       - save_cache:
           name: Save Yarn Package Cache
-          key: yarn-packages-{{ checksum "yarn.lock" }}
+          key: yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
           paths:
             - ~/.cache/yarn
+      - save_cache:
+          name: Save Node module cache
+          paths:
+            - /root/project/node_modules  # location depends on npm version
+          key: node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
 
       - run:
           name: Yarn build
@@ -65,6 +84,15 @@ jobs:
           paths:
             - _site/*
 
+  test-html:
+    docker:
+        - image: etbe/html5validator:1.0
+    steps:
+      - attach_workspace:
+          at: /tmp/workspace
+      - run:
+          name: validate html
+          command: html5validator --root /tmp/workspace/_site/
 
   deploy:
     machine:
@@ -100,9 +128,12 @@ workflows:
   build_and_deploy:
     jobs:
       - build
-      - deploy:
+      - test-html:
           requires:
             - build
+      - deploy:
+          requires:
+            - test-html
 
 
 

@@ -13,7 +13,7 @@ contact-presse:
   - 01.71.21.11.98
   - 06.34.21.55.48
   email: rachel.wadoux@modernisation.gouv.fr
-ressource-presse:
+ressources-presse:
   titre: Ressources presse
   pictogramme: "/assets/img/pictogrammes/ressources_presse.svg"
   contenu: Logos, biographies, photos...

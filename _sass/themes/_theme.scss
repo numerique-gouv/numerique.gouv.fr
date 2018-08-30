@@ -42,25 +42,7 @@
 
 
 
-.post {
-  &__image-container {
-      height: 100%;
-      width: auto;
-    &.compat-object-fit {
-      background-size: cover;
-      background-position: center center;
-      .post__featured-image { // hide image if object fit is not supported - opacity to 0 for the link area
-        opacity: 0;
-      }
-    }
-  }
-  &__featured-image {
-    object-fit: cover; /* Do not scale the image */
-    object-position: center; /* Center the image within the element */
-    height: 100%;
-    width:100%;
-  }
-}
+
 
 .gray-background {
   background-color: $light-gray;
@@ -123,163 +105,12 @@
   list-style: none;
 }
 
-.chapeau {
-  text-align: center;
-  padding: 1rem 2rem;
-  line-height: 1.6rem;
-  font-family: "Times New Roman", sans-serif;
-  font-size: larger;
-  border-left: none;
-  color: black;
-  @include breakpoint(medium down) {
-    padding-left: 1rem O;
-  }
-}
-
 .date {
   color: $dark-gray;
 }
 .auteur {
   color: $dark-gray;
   font-style: italic;
-}
-.carte {
-  background-color: $white;
-}
-.citation {
-  border-left: none;
-  width: 100%;
-  padding: 3rem 4rem 0rem 4rem;
-  position: relative;
-  margin-bottom: 1rem;
-  &::before, &::after {
-    top: 0;
-    bottom: 0;
-    width: 25px;
-    content: '';
-    position: absolute;
-  }
-  &::before {
-    right: 100%;
-  }
-  &::after {
-    left: 100%;
-  }
-  p {
-    margin: 0;
-    &::before {
-      top: 0;
-      left: 1rem;
-      color: $dark-gray;
-      content: '“';
-      font-size: 6rem;
-      position: absolute;
-      font-family: 'IM Fell French Canon SC', serif;
-    }
-    &::after {
-      bottom: -6rem;
-      right: 1rem;
-      color: $dark-gray;
-      content: '”';
-      font-size: 6rem;
-      position: absolute;
-      font-family: 'IM Fell French Canon SC', serif;
-    }
-  }
-}
-.auteur-citation {
-  border-left: none;
-  width: 100%;
-  padding: 0rem 4rem 3rem 4rem;
-  position: relative;
-  margin-bottom: 2rem;
-  &::before {
-    content: '\002015';
-    width: 1.5rem;
-    display: block;
-    float: left;
-  }
-}
-.encadre {
-  padding: 2rem 0 2rem 0rem;
-  border-left: none;
-  position: relative;
-
-  &::before, &::after {
-    content: "";
-    display: inline-block;
-    width: 2rem;
-    height: 2rem;
-    border-image: linear-gradient(120deg, $bleue-degrade-1, $bleue-degrade-2) 1 ;
-  }
-  &::before{
-    float: left;
-    border-top: 0.4rem solid;
-    border-left: 0.4rem solid;
-    border-right: 0;
-    border-bottom: 0;
-  }
-  &::after{
-    float: right;
-    border-bottom: 0.4rem solid;
-    border-right: 0.4rem solid;
-    border-top: 0;
-    border-left: 0;
-    margin-top: -1rem;
-  }
-  h2, h3, h4, h5, h6 {
-    margin-top: 0!important;
-    padding: 2rem 2rem 0 2rem;
-    color:$bleue;
-    margin-bottom: 1rem;
-  }
-  ul{
-    padding: 2rem 2rem 0 2rem;
-  }
-  p {
-    padding: 0 2rem 0 2rem;
-    color:$bleue;
-    margin: 0;
-  }
-}
-.exergue {
-  padding: 2rem;
-  border-left: none;
-  background-color: $bulbizarre;
-  p {
-    font-style: italic;
-    color: $bleue;
-  }
-}
-.lien-important {
-  display: flex;
-  border: none;
-  p {
-    display: block;
-    margin: 0 auto 1rem auto;
-    text-align: center;
-    &:before , &:after {
-      color:transparent;
-      -webkit-background-clip: text;
-      background-clip: text;
-      display: inline;
-      color:transparent;
-      background-image: linear-gradient(30deg, $bleue-degrade-1, $bleue-degrade-2);
-    }
-    &:before {
-      content: "►";
-    }
-    &:after {
-      content: "◄";
-    }
-    a {
-      display: inline;
-      padding: 0 1rem;
-      font-weight: bold;
-
-    }
-  }
-
 }
 
 .image-center {
@@ -309,22 +140,4 @@
   font-size: smaller;
 }
 
-figure {
-  display: inline-table;
-  margin-right: 1rem;
-  width: 50%; /* This can be any width, so long as it's narrower than any image */
-  float:left;
-  img, figcaption {
-    display: table-row;
-  }
-  img {
-    border-bottom: 0.5rem solid transparent;
-  }
-}
 
-figcaption {
-  text-align: right;
-  color: $dark-gray;
-  font-style: italic;
-  font-size: smaller;
-}

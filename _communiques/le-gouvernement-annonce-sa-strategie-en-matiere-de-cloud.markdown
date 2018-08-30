@@ -3,7 +3,7 @@ title: Le gouvernement annonce sa stratégie en matière de cloud
 date: 2018-07-03 00:00:00 +02:00
 communique_file: uploads/CP_Cloud_de_l'Etat_04072018.pdf
 une-ou-diaporama:
-- image: "/uploads/cloud.jpg"
+- image: "/uploads/cloud1.jpg"
 ---
 
 Pour accompagner la transformation numérique de l’État, le gouvernement se dote d’une stratégie d’utilisation de

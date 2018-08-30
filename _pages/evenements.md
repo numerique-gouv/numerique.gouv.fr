@@ -1,10 +1,7 @@
 ---
 title: Evénements
 permalink: "/evenements"
+published: false
 layout: evenements
-pagination:
-  enabled: true
-  collection: evenements
-  permalink: "/:num/"
 ---
 

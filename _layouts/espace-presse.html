@@ -6,6 +6,7 @@ layout: default
   <div class="post__image-container">
     <img class="post__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
   </div>
+  <a id="content" tabindex="-1"></a>
   <div class="gray-background padding-vertical-2">
     <h1 class="text-center margin-vertical-3 blue-gradient-underline font-bold">{{ page.title }}</h1>
     {% assign sorted_communiques = site.communiques | sort:'date' | reverse %}
@@ -19,7 +20,7 @@ layout: default
         {% endfor %}
         <li class="cell large-4 medium-12 small-12">
           <div id="contact-presse" class="padding-vertical-2">
-            <img src="{{ page.contact-presse.pictogramme }}">
+            <img alt="picto contact presse" src="{{ page.contact-presse.pictogramme }}">
             <h2 class="h3 white-underline">{{ page.contact-presse.titre}}</h2>
             <p>{{ page.contact-presse.name }}</p>
             <p>
@@ -34,9 +35,9 @@ layout: default
             <a class="white-link display-block text-center" href="mailto:{{ site.contact-presse.email }}">{{ page.contact-presse.email }}</a>
           </div>
           <div id="ressources-presse" class="padding-vertical-2">
-            <img src="{{ page.ressource-presse.pictogramme }}">
-            <h2 class="h3 white-underline">{{ page.ressource-presse.titre}}</h2>
-            <p> {{ page.ressource-presse.contenu}} </p>
+            <img alt="pictogramme ressources-presse" src="{{ page.ressources-presse.pictogramme }}">
+            <h2 class="h3 white-underline">{{ page.ressources-presse.titre}}</h2>
+            <p> {{ page.ressources-presse.contenu}} </p>
             <div class="white-margin-link text-center margin-top-1">
               <a href="#">Voir nos ressources presse</a>
             </div>
@@ -47,32 +48,7 @@ layout: default
   </div>
   <section class="max-width-60 padding-vertical-2">
     <h2>Tous nos communiqués et dossiers de presse</h2>
-    <ul id="list-communique" class="no-bullet grid-y">
-      {% for communique in sorted_communiques %}
-      <li>
-        <div class="grid-x grid-margin-x">
-          <div class="cell large-3 medium-4 small-6">
-            {% if communique.une-ou-diaporama[0].image %}
-            <img class="post__featured-image" src="{{ communique.une-ou-diaporama[0].image | relative_url}}">
-            {% else %}
-            <img class="post__featured-image" src="{{ '/assets/img/default.png' | relative_url }}">
-            {% endif %}
-          </div>
-          <div class="cell large-9 medium-6 small-6">
-            <a class="communique-link black-link" href="{{ communique.url }}">
-              <img class="display-inline" src="/assets/img/pictogrammes/communiqué_de_presse.svg">
-              <span>Communiqué de presse</span>
-              <p class="h4 font-bold margin-0">
-                {{ communique.title }}
-              </p>
-              <span class="communique-meta h6 date">{% include date.html date=communique.date %}</span>
-            </a>
-          </div>
-        </div>
-        <hr>
-      </li>
-      {% endfor %}
-    </ul>
+    {% include components/list-post.html sorted_post=sorted_communiques %}
   </section>
 </div>
 

@@ -1,0 +1,12 @@
+{% if page.title == 'dinsic.gouv.fr' %}
+<h1>
+  {% else %}
+  <a class="black-link titre-site" href="/">
+    {% endif %}
+    <img class="marianne" src="{{base}}/assets/img/logos/Logo_de_la_Republique_francaise.png" alt="">
+    <span class="titre-site">dinsic.gouv.<i>fr</i></span>
+    {% if page.title != 'dinsic.gouv.fr' %}
+  </a>
+  {% else %}
+</h1>
+{% endif %}

@@ -1,37 +1,21 @@
 ---
-layout: page
+layout: default
 ---
 
+<div id="evenement" role="main">
 <ul id="list-post" class="no-bullet grid-y">
   <!--
       Here is the main paginator logic called.
       All calls to site.posts should be replaced by paginator.posts
   -->
-  {% for post in paginator.posts %}
+  {% for evenement in site.evenements %}
   <li  class="">
     <h2>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ evenement.title }}</a>
     </h2>
-    <span class="post-meta h5 subheader font-bold">{% include date.html date=post.date %}</span>
+    <span class="post-meta h5 subheader font-bold">{% include date.html date=evenement.date %}</span>
     <p>{{ post.excerpt }}</p>
   </li>
   {% endfor %}
 </ul>
-
-<!--
-  Showing buttons to move to the next and to the previous list of posts (pager buttons).
--->
-{% if paginator.total_pages > 1 %}
-<ul class="pager list-none padding-vertical-1">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Communiqués plus récents</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Communiqués plus anciens &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
+<div>
