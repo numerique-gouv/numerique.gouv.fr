@@ -8,6 +8,7 @@
     "aos": "^2.2.0",
     "foundation-sites": "~6.4.1",
     "hamburgers": "^0.9.3",
+    "instantsearch.js": "^2.10.1",
     "jquery": "^3.2.1",
     "lunr": "^2.3.0",
     "motion-ui": "~1.2.2",

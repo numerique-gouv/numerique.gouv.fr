@@ -53,6 +53,7 @@ JAVASCRIPT:
     # Paths to your own project code are here
     # All the files in this list and in the js dir are concatenated into all.js
     - "assets/js/modernizr.js"
+    - "assets/js/algolia.js"
     - "assets/js/app.js"
 
 RECHERCHER:
@@ -94,7 +95,10 @@ WATCH:
     - "assets/img/**/*"
     - "assets/video/**/*"
     - "_uploads/*"
-  javascript: "assets/js/app.js"
+  javascript:
+    - "assets/js/modernizr.js"
+    - "assets/js/algolia.js"
+    -  "assets/js/app.js"
   rechercher: "assets/js/rechercher.js"
   sass: "_sass/**/*.scss"
   pages:
