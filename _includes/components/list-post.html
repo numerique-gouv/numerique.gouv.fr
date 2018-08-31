@@ -4,11 +4,11 @@
   {% for post in sorted_post %}
   <li>
     <a class="black-link grid-x grid-margin-x" href="{{ post.url | relative_url }}">
-      <div class="cell post__image-container large-4 medium-5 small-12 height-10rem">
+      <div class="cell object-fit__image-container large-4 medium-5 small-12 height-10rem">
         {% if post.une-ou-diaporama[0].image %}
-        <img class="post__featured-image" alt="{{ post.une-ou-diaporama[0].alternative-textuelle }}" src="{{ post.une-ou-diaporama[0].image | relative_url }}">
+        <img class="object-fit__featured-image" alt="{{ post.une-ou-diaporama[0].alternative-textuelle }}" src="{{ post.une-ou-diaporama[0].image | relative_url }}">
         {% else %}
-        <img class="post__featured-image" alt="image par default" src="{{ '/assets/img/default.png'  | relative_url }}" >
+        <img class="object-fit__featured-image" alt="image par default" src="{{ '/assets/img/default.png'  | relative_url }}" >
         {% endif %}
       </div>
       <div class="content cell large-8 medium-7 small-12">
