@@ -17,7 +17,7 @@
     - common
     - ansible-role-certbot
     - ansible-role-nginx
-    
+
   tasks:
     - name: Flush handlers in case any configs have changed.
       meta: flush_handlers
