@@ -4,8 +4,8 @@ layout: default
 
 {% assign sorted_actualites = site.actualites | where: "is_une","true" | sort:'date' | reverse %}
 <div id="actualites">
-  <div class="post__image-container">
-    <img class="post__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ page.une.image | relative_url }}">
+  <div class="object-fit__image-container">
+    <img class="object-fit__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ page.une.image | relative_url }}">
   </div>
   <a id="content" tabindex="-1"></a>
   <section class="margin-0" >

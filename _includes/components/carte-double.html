@@ -1,8 +1,8 @@
 {% assign carte-double = include.carte-double %}
 <a href="{{ carte-double.url}}" class="grid-x black-link grid-margin-x margin-horizontal-0 margin-vertical-1-5">
-  <div class="cell large-8 medium-6 small-12 post__image-container height-25rem">
+  <div class="cell large-8 medium-6 small-12 object-fit__image-container height-25rem">
     {% if carte-double.une-ou-diaporama[0] %}
-    <img class="post__featured-image" alt="{{ carte-double.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ carte-double.une-ou-diaporama[0].image }}">
+    <img class="object-fit__featured-image" alt="{{ carte-double.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ carte-double.une-ou-diaporama[0].image }}">
     {% endif %}
   </div>
   <div class="cell large-4 medium-6 small-12">
@@ -13,7 +13,7 @@
         <span class="h6 date display-inline">{{ carte-double.categories }} | </span>
         {% endif %}
         {% if carte-double.date %}
-        <span class="h6 date display-inline-block">{% include date.html date=carte-double.date %}</span>
+        <span class="h6 date display-inline-block">{% include herlpers/date.html date=carte-double.date %}</span>
         {% endif %}
         <p>
           {% if carte-double.chapeau-text %}
