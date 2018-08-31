@@ -1,0 +1,31 @@
+---
+- hosts: dev
+  remote_user: root
+  vars_files:
+      - vars/main.yml
+  pre_tasks:
+    - name: Update apt cache.
+      apt: update_cache=yes cache_valid_time=600
+      when: ansible_os_family == 'Debian'
+      changed_when: false
+
+    - name: Install cron (Debian).
+      apt: name=cron state=present
+      when: ansible_os_family == 'Debian'
+
+  roles:
+    - common
+    - ansible-role-certbot
+    - ansible-role-nginx
+    
+  tasks:
+    - name: Flush handlers in case any configs have changed.
+      meta: flush_handlers
+
+    - name: Test secure connection to SSL domain.
+      uri:
+        url: https://dinsic:supersecure@test-dinsic.fr
+        status_code: 200
+      delegate_to: localhost
+      become: no
+
