@@ -22,11 +22,12 @@ search.addWidget(
     container: '#hits',
     templates: {
       item: function(hit) {
+        const date = hit.date;
         return `
           <div class="post-item">
             <a href="{{ site.baseurl }}${hit.url}" class="black-link">
               <h2>${hit.title}</h2>
-              <span class="post-meta">${hit.date}</span>
+              <span class="post-meta">{date}</span>
               <div class="post-snippet">${hit.html}</div>
             </a>
           </div>
