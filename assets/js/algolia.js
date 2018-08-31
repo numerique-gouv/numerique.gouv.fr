@@ -24,9 +24,11 @@ search.addWidget(
       item: function(hit) {
         return `
           <div class="post-item">
-            <span class="post-meta">${hit.date}</span>
-            <h2><a class="post-link" href="{{ site.baseurl }}${hit.url}">${hit.title}</a></h2>
-            <div class="post-snippet">${hit.html}</div>
+            <a href="{{ site.baseurl }}${hit.url}" class="black-link">
+              <h2>${hit.title}</h2>
+              <span class="post-meta">${hit.date}</span>
+              <div class="post-snippet">${hit.html}</div>
+            </a>
           </div>
         `;
       },
