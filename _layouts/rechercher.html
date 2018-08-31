@@ -1,5 +1,5 @@
 ---
-layout: default-without-transformation
+layout: default
 ---
 
 <section class="default-text-padding ">
@@ -22,22 +22,23 @@ layout: default-without-transformation
 
   <ul id="search-results" class="no-bullet grid-x grid-margin-x" ></ul>
 </section>
-<script>
-  {% assign elements = site.actualites | concat: site.communiques | concat: site.evenements | concat: site.pages %}
-  window.store = {
-  {% for element in elements %}
-  "{{ element.url | slugify }}": {
-    "title": "{{ element.title  }}",
-      "author": "{{ element.author | xml_escape }}",
-      "category": "{{ element.category | xml_escape }}",
-      "date": "{{ element.date }}",
-      "image": "{{ element.image-mise-en-avant }}",
-      "content": {{ element.content | strip_html | strip_newlines | jsonify }},
-    "url": "{{ element.url | xml_escape }}"
-  }
-  {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  };
-
-</script>
+<pre>
+  <script>
+    {% assign elements = site.actualites | concat: site.communiques | concat: site.evenements | concat: site.pages %}
+    window.store = {
+    {% for element in elements %}
+    "{{ element.url | slugify }}": {
+      "title": "{{ element.title  }}",
+        "author": "{{ element.author | xml_escape }}",
+        "category": "{{ element.category | xml_escape }}",
+        "date": "{{ element.date }}",
+        "image": "{{ element.image-mise-en-avant }}",
+        "content": {{ element.content | strip_html | strip_newlines | jsonify }},
+      "url": "{{ element.url | xml_escape }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+    };
+  </script>
+</pre>
 <script src="{{base}}/assets/js/rechercher.js"></script>
