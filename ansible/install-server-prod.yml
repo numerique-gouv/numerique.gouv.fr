@@ -1,5 +1,5 @@
 ---
-- hosts: dev
+- hosts: prod
   remote_user: root
   vars_files:
       - vars/main.yml
@@ -15,7 +15,6 @@
 
   roles:
     - common
-    - ansible-role-certbot
     - ansible-role-nginx
 
   tasks:
