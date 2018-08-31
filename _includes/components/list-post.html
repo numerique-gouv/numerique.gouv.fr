@@ -34,7 +34,7 @@
               ">
         <span class="h6"> {{ post.categories.first}} </span>
         <p class="h5 font-bold margin-bottom-0-5">{{ post.title }}</p>
-        <p class="post-meta h6 date">{% include date.html date=post.date %}</p>
+        <p class="post-meta h6 date">{% include herlpers/date.html date=post.date %}</p>
         <p>{{ post.chapeau-text | markdownify | truncatewords: 20}}</p>
       </div>
     </a>
