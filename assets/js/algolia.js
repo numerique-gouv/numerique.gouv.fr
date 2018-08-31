@@ -1,5 +1,5 @@
 import instantsearch from "instantsearch.js";
-import {searchBox,hits , pagination} from "instantsearch.js/es/widgets";
+import {searchBox ,hits , pagination} from "instantsearch.js/es/widgets";
 
 const search = instantsearch({
   appId: 'OCGRURLBFM',
