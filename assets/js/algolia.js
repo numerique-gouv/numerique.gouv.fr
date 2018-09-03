@@ -9,7 +9,11 @@ const search = instantsearch({
   apiKey: '4acb079286ac50d2c359cdc0bf0af4d7', // search only API key, no ADMIN key
   indexName: 'jekyll-dinsic',
   rooting: false,
-  urlSync: true,
+  urlSync: {
+    mapping: {
+      q: 'query'
+    }
+  },
   searchParameters: {
     hitsPerPage: 10
   }
