@@ -14,7 +14,6 @@ une-ou-diaporama:
 - image: "/uploads/revue_de_details.jpg"
   alternative-textuelle: H.VERDIER
 ---
-
 C’est un exercice crucial dans la maîtrise des projets informatiques de l’Etat, auquel s’adonne la DINSIC pour la 2e fois de l’année.
 
 Un exercice désormais bien rôdé, qui s’affine au fil des éditions. *« Le suivi régulier que nous effectuons à travers ce panorama facilite non seulement l’identification mais aussi l’anticipation des glissements potentiels en termes de calendrier ou de budget de ces projets d’ampleur »*, indique Christian Turpin, chargé de mission Sécurisation à la DINSIC.
