@@ -1,6 +1,6 @@
 ---
 title: Rechercher
-permalink: "/rechercher/"
+permalink: "/rechercher_old/"
 position: 6
 layout: rechercher
 ---

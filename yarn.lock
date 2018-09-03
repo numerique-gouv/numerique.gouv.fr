@@ -4633,6 +4633,10 @@ modernizr@~3.6.0:
     requirejs "2.1.22"
     yargs "7.0.2"
 
+moment@^2.22.2:
+  version "2.22.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.22.2.tgz#3c257f9839fc0e93ff53149632239eb90783ff66"
+
 motion-ui@~1.2.2:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/motion-ui/-/motion-ui-1.2.3.tgz#9f7e17f0d66a15e9ee549023e6f3de1139a2e166"

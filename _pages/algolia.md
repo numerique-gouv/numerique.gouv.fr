@@ -1,6 +1,6 @@
 ---
-title: Algolia
-permalink: "/algolia/"
+title: Rechercher
+permalink: "/rechercher/"
 layout: algolia
 
 ---

@@ -27,19 +27,6 @@
     }
   }
 
-  function getQueryVariable(letiable) {
-    let query = window.location.search.substring(1);
-    let lets = query.split('&');
-
-    for (let i = 0; i < lets.length; i++) {
-      let pair = lets[i].split('=');
-
-      if (pair[0] === letiable) {
-        return decodeURIComponent(pair[1].replace(/\+/g, '%20'));
-      }
-    }
-  }
-
   let searchTerm = getQueryVariable('query');
 
   if (searchTerm) {
