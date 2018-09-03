@@ -119,3 +119,12 @@ algolia:
   extensions_to_index:
     - md
     - markdown
+  files_to_exclude:
+    - _pages/index.md
+    - _pages/algolia.md
+  settings:
+    highlightPreTag: '<mark>'
+    highlightPostTag: '</mark>'
+    attributesToSnippet:
+      - content:20
+

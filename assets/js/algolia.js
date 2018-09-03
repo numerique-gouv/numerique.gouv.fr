@@ -40,7 +40,6 @@ search.addWidget(
   })
 );
 
-
 search.start();
 
 function template(hit) {
@@ -49,7 +48,7 @@ function template(hit) {
   const category_icon_link = select_icon_link(hit.categories);
   const image = select_image(hit["une-ou-diaporama"]);
   let content;
-  hit._highlightResult.content ? content = hit._highlightResult.content.value : content = false;
+  hit._snippetResult.content ? content = hit._snippetResult.content.value : content = false;
   let category;
   hit.categories[0] ? category = hit.categories[0] : category = false;
   const template =  hogan.compile(`
