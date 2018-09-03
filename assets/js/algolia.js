@@ -40,14 +40,18 @@ search.addWidget(
   })
 );
 
+
 search.start();
 
 function template(hit) {
-  const date = moment.unix(hit.date).format('LL');
+  let date;
+  hit.date ? date = moment.unix(hit.date).format('LL') : date = false;
   const category_icon_link = select_icon_link(hit.categories);
   const image = select_image(hit["une-ou-diaporama"]);
-  let content = false;
+  let content;
   hit._highlightResult.content ? content = hit._highlightResult.content.value : content = false;
+  let category;
+  hit.categories[0] ? category = hit.categories[0] : category = false;
   const template =  hogan.compile(`
           <div class="">
             <a class="black-link grid-x grid-margin-x" href="${hit.url}">
@@ -55,10 +59,14 @@ function template(hit) {
               <img class="object-fit__featured-image" alt="${ image.alternative_textuelle }" src="${ image.image }">
             </div>
             <div class="content cell large-8 medium-7 small-12">
+              {{#category}}
               <img alt="icon ${ hit.category }" class="icon" src="${ category_icon_link }">
-              <span class="h6">${ hit.categories[0] }</span>
+              <span class="h6">${ category }</span>
+              {{/category}}
               <p class="h5 font-bold margin-bottom-0-5">${ hit._highlightResult.title.value }</p>
+              {{#date}}
               <p class="post-meta h6 date">${ date }</p>
+              {{/date}}
               {{#content}}
                 <p>${ content }</p>
               {{/content}}
@@ -67,7 +75,7 @@ function template(hit) {
           </div>
           <hr>
         `)
-  return template.render({content: content});
+  return template.render({content: content, date:date, category:category});
 }
 
 function select_icon_link(categories) {
