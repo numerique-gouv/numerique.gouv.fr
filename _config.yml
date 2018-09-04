@@ -71,7 +71,6 @@ language: fr
 markdown: kramdown
 description: Le site officiel de la DINSIC
 plugins:
-- jekyll-paginate-v2
 - sass
 - jekyll-sitemap
 - jekyll-algolia
@@ -98,14 +97,6 @@ exclude:
 - yarn-error.log
 - "/ansible/"
 - "/node_modules/"
-pagination:
-  enabled: true
-  per_page: 20
-  permalink: "/page/:num/"
-  title: ":title - page :num de :max"
-  limit: 0
-  sort_field: date
-  sort_reverse: true
 incremental: true
 compress_html:
   ignore:

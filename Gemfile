@@ -15,7 +15,6 @@ gem "jekyll", "~> 3.0"
 
 # Gem Requirements
 group :jekyll_plugins do
-  gem "jekyll-paginate-v2", "~> 1.7"
 	gem 'sass'
 	gem 'jekyll-sitemap'
 	gem 'jekyll-algolia'

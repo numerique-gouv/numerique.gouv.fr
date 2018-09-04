@@ -44,8 +44,6 @@ GEM
       nokogiri (~> 1.6)
       progressbar (~> 1.9)
       verbal_expressions (~> 0.1.5)
-    jekyll-paginate-v2 (1.9.4)
-      jekyll (~> 3.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
@@ -92,7 +90,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.0)
   jekyll-algolia
-  jekyll-paginate-v2 (~> 1.7)
   jekyll-sitemap
   pkg-config (~> 1.1)
   sass
@@ -103,4 +100,4 @@ RUBY VERSION
    ruby 2.3.7p456
 
 BUNDLED WITH
-   1.16.1
+   1.16.3
