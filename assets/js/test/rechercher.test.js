@@ -75,4 +75,33 @@ describe('Hit_helper', function() {
       assert.equal(result, hit._snippetResult['chapeau-text'].value);
     });
   });
+  describe('#select_image()', function() {
+    it('should return the image with image and alternative textuel', function () {
+      // GIVEN
+      hit = {
+        image:
+          [{
+          image: '/assets/img/test.png',
+          alternative_textuelle: 'test'
+        }]};
+      const hit_helper = new Hit_helper(hit);
+      // WHEN
+      const result = hit_helper.select_image('image');
+      // THEN
+      assert.equal(result.image, '/assets/img/test.png');
+      assert.equal(result.alternative_textuelle, 'test');
+
+    });
+    it('should return a default image if there is no image', function () {
+      // GIVEN
+      hit = {
+        image: undefined
+      };
+      const hit_helper = new Hit_helper(hit);
+      // WHEN
+      const result = hit_helper.select_image('image');
+      // THEN
+      assert.equal(result.image, '/assets/img/default.png');
+    });
+  });
 });

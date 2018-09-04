@@ -106,7 +106,7 @@ highlighter: rouge
 algolia:
   application_id: OCGRURLBFM
   index_name: jekyll-dinsic
-  nodes_to_index: 'p'
+  nodes_to_index: 'p,li,blockquote'
   extensions_to_index:
     - md
     - markdown
