@@ -1,20 +1,9 @@
 <script type="text/javascript">
-  const modernizr = document.createElement('script');
-  modernizr.src = '/assets/js/modernizr.js';
-  const foundation = document.createElement('script');
-  foundation.src = '/assets/js/foundation.js';
-  const algolia = document.createElement('script');
-  algolia.src = '/assets/js/algolia.js';
-  const app = document.createElement('script');
-  app.src = '/assets/js/app.js';
-  const rechercher = document.createElement('script');
-  rechercher.src = '/assets/js/rechercher.js';
-
-  document.body.appendChild(modernizr);
-  document.body.appendChild(foundation);
-  document.body.appendChild(app);
-  document.body.appendChild(algolia);
-  {% if page.title == 'Rechercher'%}
-      document.body.appendChild(rechercher);
-  {% endif %}
+  {% for item in site.data.imports %}
+    {% if item.for == 'all' or item.for == page.title %}
+      const {{ item.name }} = document.createElement('script');
+      {{ item.name }}.src = '/assets/js/{{ item.link }}';
+      document.body.appendChild({{ item.name }});
+    {% endif %}
+  {% endfor %}
 </script>

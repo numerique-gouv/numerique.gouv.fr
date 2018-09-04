@@ -12,21 +12,14 @@ const PRODUCTION = !!(yargs.argv.production);
 const pump = require('pump');
 
 const webpackConfig = {
-  module: {
-    rules: [
-      {
-        test: /.js$/,
-        exclude: /node_modules/,
-        use: [
-          {
-            loader: 'babel-loader'
-          }
-        ]
-      }
-    ]
-  },
+  mode: 'development',
   output: {
     filename: '[name].js',
+  },
+  optimization: {
+    splitChunks: {
+      chunks: 'all'
+    }
   }
 };
 

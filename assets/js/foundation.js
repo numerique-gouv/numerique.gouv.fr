@@ -1,10 +1,8 @@
 //
 // Initialize Foundation
 // --------------------------------------------------
-import jQuery from 'jquery'
-const $ = jQuery;
-window.jQuery = jQuery;
-window.$ = jQuery;
+import $ from 'jquery'
+window.$ = $;
 $(document).foundation();
 import whatInput from 'what-input';
 import Foundation from 'foundation-sites';

@@ -6,7 +6,7 @@
 //
 // Custom JS
 // --------------------------------------------------
-
+import $ from 'jquery'
 //Menu
 const button = $('#hamburger-button');
 const activatedClass = 'is-active';

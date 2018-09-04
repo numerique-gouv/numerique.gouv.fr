@@ -1,0 +1,27 @@
+- name: app
+  link: app.js
+  for: all
+
+- name: foundation
+  link: foundation.js
+  for: all
+
+- name: modernizr
+  link: modernizr.js
+  for: all
+
+- name: rechercher
+  link: rechercher.js
+  for: Rechercher
+
+- name: vendors_app_foundation
+  link: vendors~app~foundation.js
+  for: all
+
+- name: vendors_foundation
+  link: vendors~foundation.js
+  for: all
+
+- name: vendors_rechercher
+  link: vendors~rechercher.js
+  for: Rechercher
