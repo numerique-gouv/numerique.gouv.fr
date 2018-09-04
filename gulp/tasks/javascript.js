@@ -5,13 +5,13 @@ const browserSync = require('browser-sync');
 const gulp = require('gulp');
 const uglify = require('gulp-uglify');
 const webpackStream = require('webpack-stream');
-const webpack2 = require('webpack');
+const webpack = require('webpack');
 const JAVASCRIPT = require('../util/loadConfig').JAVASCRIPT;
 const PRODUCTION = !!(yargs.argv.production);
 
 const pump = require('pump');
 
-let webpackConfig = {
+const webpackConfig = {
   module: {
     rules: [
       {
@@ -27,7 +27,7 @@ let webpackConfig = {
   },
   output: {
     filename: '[name].js',
-  },
+  }
 };
 
 gulp.task('javascript', function (cb) {
@@ -35,7 +35,7 @@ gulp.task('javascript', function (cb) {
     gulp.src(JAVASCRIPT.src),
     named(),
     $.sourcemaps.init(),
-    webpackStream(webpackConfig, webpack2),
+    webpackStream(webpackConfig, webpack),
     $.babel({presets: ['es2015']}),
     $.if(PRODUCTION, $.uglify()),
     $.if(!PRODUCTION, $.sourcemaps.write()),

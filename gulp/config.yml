@@ -54,16 +54,9 @@ JAVASCRIPT:
     # All the files in this list and in the js dir are concatenated into all.js
     - "assets/js/modernizr.js"
     - "assets/js/algolia.js"
+    - "assets/js/foundation.js"
     - "assets/js/app.js"
-
-RECHERCHER:
-  dest:
-    buildDir: "_site/assets/js/"
-  filename: "rechercher.js"
-  notification: "Running Rechercher"
-  src:
-   - node_modules/lunr/lunr.js
-   - "assets/js/rechercher.js"
+    - "assets/js/rechercher.js"
 
 MODERNIZR:
   dest:
@@ -71,7 +64,6 @@ MODERNIZR:
   filename: "modernizr.js"
   src:
    - assets/js/app.js
-
 
 JEKYLL:
   notification: "Running jekyll"
@@ -98,8 +90,9 @@ WATCH:
   javascript:
     - "assets/js/modernizr.js"
     - "assets/js/algolia.js"
-    -  "assets/js/app.js"
-  rechercher: "assets/js/rechercher.js"
+    - "assets/js/foundation.js"
+    - "assets/js/app.js"
+    - "assets/js/rechercher.js"
   sass: "_sass/**/*.scss"
   pages:
     - "*.{md,markdown,html,yml,xml}"

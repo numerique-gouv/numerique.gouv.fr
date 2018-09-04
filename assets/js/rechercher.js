@@ -1,60 +1,127 @@
-(function() {
-  function displaySearchResults(results, store) {
-    let searchResults = document.getElementById('search-results');
-    const options = { year: 'numeric', month: 'long', day: 'numeric' };
+import instantsearch from "instantsearch.js";
+import {searchBox ,hits , pagination} from "instantsearch.js/es/widgets";
+import moment from "moment";
+import hogan from "hogan.js";
+moment.locale('fr');
 
-    if (results.length) { // Are there any results?
-      let appendString = '';
+export const search = instantsearch({
+  appId: 'OCGRURLBFM',
+  apiKey: '4acb079286ac50d2c359cdc0bf0af4d7', // search only API key, no ADMIN key
+  indexName: 'jekyll-dinsic',
+  rooting: false,
+  urlSync: {
+    mapping: {
+      q: 'query'
+    }
+  },
+  searchParameters: {
+    hitsPerPage: 10
+  }
+});
 
-      for (let i = 0; i < results.length; i++) {  // Iterate over the results
-        let item = store[results[i].ref];
-        appendString += '<li class="cell card large-4 medium-6 small-12">';
-        appendString +='<a class="display-block padding-1 height-100" href="' + item.url + '">';
-        if (item.image) {
-          appendString +='<img src="/' + item.image  +'">';
-        }
-        appendString +='<h5 class="font-bold black">' + item.title + '</h5>';
-        if (item.date) {
-          const event = new Date( item.date );
-          appendString +='<h5 class="subheader h6 font-bold">' + event.toLocaleDateString('fr-FR', options) + '</h5>';
-        }
-        appendString += '<p class="black">' + item.content.substring(0, 150) + '...</p></li></a>';
-      }
+search.addWidget(
+  searchBox({
+    container: '#search-input',
+    poweredBy: true
+  })
+);
 
-      searchResults.innerHTML = appendString;
-    } else {
-      searchResults.innerHTML = '<li>No results found</li>';
+search.addWidget(
+  hits({
+    container: '#hits',
+    templates: {
+      item: function(hit) {
+        return template(hit);
+      },
+      empty: "We didn't find any results for the search <em>\"{{query}}\"</em>"
+    }
+  })
+);
+
+search.addWidget(
+  pagination({
+    container: '#pagination'
+  })
+);
+
+search.start();
+
+function template(hit) {
+  let date;
+  hit.date ? date = moment.unix(hit.date).format('LL') : date = false;
+  const category_icon_link = select_icon_link(hit.categories);
+  const image = select_image(hit["une-ou-diaporama"]);
+  let content;
+  hit._snippetResult.content ? content = hit._snippetResult.content.value : content = false;
+  let category;
+  hit.categories[0] ? category = hit.categories[0] : category = false;
+  const template =  hogan.compile(`
+          <div class="">
+            <a class="black-link grid-x grid-margin-x" href="${hit.url}">
+            <div class="cell object-fit__image-container large-4 medium-5 small-12 height-10rem">
+              <img class="object-fit__featured-image" alt="${ image.alternative_textuelle }" src="${ image.image }">
+            </div>
+            <div class="content cell large-8 medium-7 small-12">
+              {{#category}}
+              <img alt="icon ${ hit.category }" class="icon" src="${ category_icon_link }">
+              <span class="h6">${ category }</span>
+              {{/category}}
+              <p class="h5 font-bold margin-bottom-0-5">${ hit._highlightResult.title.value }</p>
+              {{#date}}
+              <p class="post-meta h6 date">${ date }</p>
+              {{/date}}
+              {{#content}}
+                <p>${ content }</p>
+              {{/content}}
+            </div>
+           </a>
+          </div>
+          <hr>
+        `)
+  return template.render({content: content, date:date, category:category});
+}
+
+function select_icon_link(categories) {
+  let icon_link = undefined;
+  if (categories) {
+    switch (categories[0]) {
+      case 'Article':
+        icon_link = "/assets/img/pictogrammes/article.svg"
+        break;
+      case 'Infographie':
+        icon_link = "/assets/img/pictogrammes/infographie.svg"
+        break;
+      case 'Diaporama':
+        icon_link = "/assets/img/pictogrammes/diaporama.svg"
+        break;
+      case 'Interview':
+        icon_link = "/assets/img/pictogrammes/interview.svg"
+        break;
+      case 'Video':
+        icon_link = "/assets/img/pictogrammes/video.svg"
+        break;
+      case 'Communiqué de presse':
+        icon_link = "/assets/img/pictogrammes/communique_de_presse.svg"
+        break;
+      case 'Dossier de presse':
+        icon_link = "/assets/img/pictogrammes/dossier_de_presse.svg"
+        break;
+      default:
+        icon_link = "/assets/img/pictogrammes/article.svg"
     }
   }
+  return icon_link;
+}
 
-  let searchTerm = getQueryVariable('query');
-
-  if (searchTerm) {
-    document.getElementById('search-box').setAttribute("value", searchTerm);
-
-    // Initalize lunr with the fields it will be searching on. I've given title
-    // a boost of 10 to indicate matches on this field are more important.
-
-
-      let idx = lunr(function () {
-        this.field('id');
-        this.field('title', { boost: 10 });
-        this.field('author');
-        this.field('category');
-        this.field('date');
-        this.field('content');
-        for (let key in window.store) { // Add the data to lunr
-          this.add({
-            'id': key,
-            'title': window.store[key].title,
-            'author': window.store[key].author,
-            'category': window.store[key].category,
-            'date': window.store[key].date,
-            'content': window.store[key].content
-          });
-        }
-        });
-      let results = idx.search(searchTerm); // Get lunr to perform a search
-      displaySearchResults(results, window.store); // We'll write this in the next section
+function select_image(images) {
+  let image = undefined;
+  if (images === undefined || images[0].image === null) {
+    image = {};
+    image.alternative_textuelle = 'image par défaut';
+    image.image = '/assets/img/default.png';
+  } else {
+    image = images[0];
   }
-})();
+  return image
+}
+

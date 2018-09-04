@@ -1,16 +1,20 @@
 <script type="text/javascript">
   const modernizr = document.createElement('script');
   modernizr.src = '/assets/js/modernizr.js';
+  const foundation = document.createElement('script');
+  foundation.src = '/assets/js/foundation.js';
   const algolia = document.createElement('script');
   algolia.src = '/assets/js/algolia.js';
   const app = document.createElement('script');
   app.src = '/assets/js/app.js';
+  const rechercher = document.createElement('script');
+  rechercher.src = '/assets/js/rechercher.js';
 
   document.body.appendChild(modernizr);
+  document.body.appendChild(foundation);
   document.body.appendChild(app);
-</script>
-{% if page.title == 'Rechercher'v%}
-<script type="text/javascript">
   document.body.appendChild(algolia);
+  {% if page.title == 'Rechercher'%}
+      document.body.appendChild(rechercher);
+  {% endif %}
 </script>
-{% endif %}
