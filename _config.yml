@@ -113,9 +113,24 @@ algolia:
   files_to_exclude:
     - _pages/index.md
     - _pages/algolia.md
+    - _pages/espace-presse.md
+    - _pages/actualites.md
   settings:
+    searchableAttributes:
+      - unordered(title)
+      - ordered(headings)
+      - unordered(chapeau-text)
+      - unordered(content)
+      - unordered(collection,categories,tags)
     highlightPreTag: '<mark>'
     highlightPostTag: '</mark>'
+    attributesToHighlight:
+      - title
+      - heading
+      - content
+      - chapeau-text
     attributesToSnippet:
       - content:20
+      - chapeau-text:20
+
 

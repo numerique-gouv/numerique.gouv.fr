@@ -2,6 +2,8 @@ import instantsearch from "instantsearch.js";
 import {searchBox ,hits , pagination} from "instantsearch.js/es/widgets";
 import moment from "moment";
 import hogan from "hogan.js";
+
+import Hit_helper from "./lib/hit-helper"
 moment.locale('fr');
 
 export const search = instantsearch({
@@ -47,12 +49,12 @@ search.addWidget(
 search.start();
 
 function template(hit) {
+  console.log(hit)
+  const hit_helper = new Hit_helper(hit)
   let date;
   hit.date ? date = moment.unix(hit.date).format('LL') : date = false;
-  const category_icon_link = select_icon_link(hit.categories);
-  const image = select_image(hit["une-ou-diaporama"]);
-  let content;
-  hit._snippetResult.content ? content = hit._snippetResult.content.value : content = false;
+  const category_icon_link = hit_helper.select_icon_link();
+  const image = hit_helper.select_image("une-ou-diaporama");
   let category;
   hit.categories[0] ? category = hit.categories[0] : category = false;
   const template =  hogan.compile(`
@@ -70,58 +72,15 @@ function template(hit) {
               {{#date}}
               <p class="post-meta h6 date">${ date }</p>
               {{/date}}
-              {{#content}}
-                <p>${ content }</p>
-              {{/content}}
+              <p>${ hit_helper.get_most_valuable_content() }</p>
             </div>
            </a>
           </div>
           <hr>
         `)
-  return template.render({content: content, date:date, category:category});
+  return template.render({date:date, category:category});
 }
 
-function select_icon_link(categories) {
-  let icon_link = undefined;
-  if (categories) {
-    switch (categories[0]) {
-      case 'Article':
-        icon_link = "/assets/img/pictogrammes/article.svg"
-        break;
-      case 'Infographie':
-        icon_link = "/assets/img/pictogrammes/infographie.svg"
-        break;
-      case 'Diaporama':
-        icon_link = "/assets/img/pictogrammes/diaporama.svg"
-        break;
-      case 'Interview':
-        icon_link = "/assets/img/pictogrammes/interview.svg"
-        break;
-      case 'Video':
-        icon_link = "/assets/img/pictogrammes/video.svg"
-        break;
-      case 'Communiqué de presse':
-        icon_link = "/assets/img/pictogrammes/communique_de_presse.svg"
-        break;
-      case 'Dossier de presse':
-        icon_link = "/assets/img/pictogrammes/dossier_de_presse.svg"
-        break;
-      default:
-        icon_link = "/assets/img/pictogrammes/article.svg"
-    }
-  }
-  return icon_link;
-}
 
-function select_image(images) {
-  let image = undefined;
-  if (images === undefined || images[0].image === null) {
-    image = {};
-    image.alternative_textuelle = 'image par défaut';
-    image.image = '/assets/img/default.png';
-  } else {
-    image = images[0];
-  }
-  return image
-}
+
 
