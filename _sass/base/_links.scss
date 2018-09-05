@@ -75,6 +75,16 @@ a {
   }
 }
 
+.voir-plus-button {
+  background-color: $bleue;
+  color: white;
+  font-weight: bold;
+  border: $bleue solid 2px;
+  &:hover {
+    border: $dark-gray solid 2px;
+  }
+}
+
 .off-screen {
   position: absolute!important;
   left: -99999999rem!important;

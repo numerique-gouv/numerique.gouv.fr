@@ -14,6 +14,10 @@
   link: rechercher.js
   for: Rechercher
 
+- name: actualite
+  link: actualites.js
+  for: Actualités
+
 - name: vendors_app_foundation
   link: vendors~app~foundation.js
   for: all
@@ -22,6 +26,8 @@
   link: vendors~foundation.js
   for: all
 
-- name: vendors_rechercher
-  link: vendors~rechercher.js
-  for: Rechercher
+- name: vendors_actualites_rechercher
+  link: vendors~actualites~rechercher.js
+  for:
+    - Rechercher
+    - Actualités

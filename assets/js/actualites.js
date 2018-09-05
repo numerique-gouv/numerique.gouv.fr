@@ -1,5 +1,5 @@
 import instantsearch from "instantsearch.js";
-import { searchBox ,infiniteHits } from "instantsearch.js/es/widgets";
+import { configure, menuSelect ,infiniteHits } from "instantsearch.js/es/widgets";
 
 import Template_builder from "./lib/template-builder"
 
@@ -19,9 +19,19 @@ export const search = instantsearch({
 });
 
 search.addWidget(
-  searchBox({
-    container: '#search-input',
-    poweredBy: true
+  configure({
+    filters: 'collection:actualites'
+  })
+);
+
+search.addWidget(
+  menuSelect({
+    container: '#categories',
+    attributeName: 'categories',
+    limit: 10,
+    templates: {
+      header: 'Categories'
+    }
   })
 );
 

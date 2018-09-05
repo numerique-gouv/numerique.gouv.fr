@@ -56,6 +56,7 @@ JAVASCRIPT:
     - "assets/js/foundation.js"
     - "assets/js/app.js"
     - "assets/js/rechercher.js"
+    - "assets/js/actualites.js"
 
 MODERNIZR:
   dest:
@@ -91,6 +92,7 @@ WATCH:
     - "assets/js/foundation.js"
     - "assets/js/app.js"
     - "assets/js/rechercher.js"
+    - "assets/js/actualites.js"
   sass: "_sass/**/*.scss"
   pages:
     - "*.{md,markdown,html,yml,xml}"

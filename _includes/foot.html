@@ -1,6 +1,6 @@
 <script type="text/javascript">
   {% for item in site.data.imports %}
-    {% if item.for == 'all' or item.for == page.title %}
+    {% if item.for == 'all' or item.for contains page.title %}
       const {{ item.name }} = document.createElement('script');
       {{ item.name }}.src = '/assets/js/{{ item.link }}';
       document.body.appendChild({{ item.name }});

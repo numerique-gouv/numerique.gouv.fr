@@ -1,10 +1,16 @@
-module.exports = class Hit_helper {
+const moment = require("moment");
+moment.locale('fr');
+
+export default class Hit_helper {
   constructor(hit) {
     this.hit = hit;
   }
 
   get_most_valuable_content() {
     let result;
+    if (this.hit._snippetResult === undefined){
+      return this.hit.content;
+    }
     const chapeau_text = this.hit._snippetResult['chapeau-text'];
     const content = this.hit._snippetResult['content'];
     if ( chapeau_text === undefined || (chapeau_text.matchLevel === 'none' && content.matchLevel === 'full')) {
@@ -46,6 +52,13 @@ module.exports = class Hit_helper {
     return icon_link;
   }
 
+  get_first_category() {
+    let first_category;
+    this.hit.categories[0] ? first_category = this.hit.categories[0] : first_category = false;
+    return first_category;
+
+  }
+
   select_image(images_field) {
     const images = this.hit[images_field];
     let image = undefined;
@@ -57,5 +70,11 @@ module.exports = class Hit_helper {
       image = images[0];
     }
     return image
+  }
+
+  get_date_formated() {
+    let formated_date;
+    this.hit.date ? formated_date = moment.unix(this.hit.date).format('LL') : formated_date = false;
+    return formated_date;
   }
 };

@@ -115,6 +115,7 @@ algolia:
     - _pages/algolia.md
     - _pages/espace-presse.md
     - _pages/actualites.md
+    - _pages/rechercher.md
   settings:
     searchableAttributes:
       - unordered(title)
