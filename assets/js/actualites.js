@@ -10,7 +10,6 @@ const search = instantsearch({
   routing: {
     stateMapping: {
       stateToRoute(uiState) {
-        console.log(uiState)
         return {
           query: uiState.query,
           categories: uiState.menu,
