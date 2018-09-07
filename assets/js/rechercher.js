@@ -1,18 +1,13 @@
+import algoliasearch from "algoliasearch"
 import instantsearch from "instantsearch.js";
 import { searchBox ,infiniteHits } from "instantsearch.js/es/widgets";
 
 import Template_builder from "./lib/template-builder"
 
 export const search = instantsearch({
-  appId: 'OCGRURLBFM',
-  apiKey: '4acb079286ac50d2c359cdc0bf0af4d7', // search only API key, no ADMIN key
+  searchClient: algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7'),
   indexName: 'jekyll-dinsic',
-  rooting: false,
-  urlSync: {
-    mapping: {
-      q: 'query'
-    }
-  },
+  routing: true,
   searchParameters: {
     hitsPerPage: 10
   }

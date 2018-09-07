@@ -1,16 +1,33 @@
+import algoliasearch from "algoliasearch"
 import instantsearch from "instantsearch.js";
-import { configure, menuSelect ,infiniteHits } from "instantsearch.js/es/widgets";
+import { configure, menuSelect, refinementList, infiniteHits } from "instantsearch.js/es/widgets";
 
 import Template_builder from "./lib/template-builder"
 
-export const search = instantsearch({
-  appId: 'OCGRURLBFM',
-  apiKey: '4acb079286ac50d2c359cdc0bf0af4d7', // search only API key, no ADMIN key
+const search = instantsearch({
   indexName: 'jekyll-dinsic',
-  rooting: false,
-  urlSync: {
-    mapping: {
-      q: 'query'
+  searchClient: algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7'),
+  routing: {
+    stateMapping: {
+      stateToRoute(uiState) {
+        console.log(uiState)
+        return {
+          query: uiState.query,
+          categories: uiState.menu,
+          tags: uiState.refinementList && uiState.refinementList.tags.join('~'),
+        };
+      },
+      routeToState(routeState) {
+        return {
+          query: routeState.query,
+          menu: {
+            categories: routeState.categories,
+          },
+          refinementList: {
+            tags: routeState.tags && routeState.tags.split('~')
+          },
+        };
+      }
     }
   },
   searchParameters: {
@@ -30,8 +47,29 @@ search.addWidget(
     attributeName: 'categories',
     limit: 10,
     templates: {
-      header: 'Categories'
+      seeAllOption: 'Toutes les catégories',
+      item:function (data) {
+        return `${data.label}`
+      }
     }
+  })
+);
+
+search.addWidget(
+  refinementList({
+    container: '#tags',
+    attributeName: 'tags',
+    operator: 'or',
+    templates: {
+      item: function(data) {
+        const template_builder = new Template_builder(data);
+          return template_builder.get_template_tags()
+        },
+    },
+    cssClasses: {
+      list: "flex-container wrap-container",
+      item: "padding-bottom-1"
+    },
   })
 );
 
