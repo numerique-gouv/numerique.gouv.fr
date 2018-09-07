@@ -4,60 +4,23 @@ import { configure, menuSelect, refinementList, infiniteHits } from "instantsear
 
 
 import { collection_routing_conf } from "./conf/routing-conf"
-import { Template_builder } from "./lib/template-builder";
-import { Instantsearch_factory } from "./lib/instantsearch-factory";
+import { Instantsearch_factory } from "./instant-search/instantsearch-factory";
+import { Instantsearch_builder } from "./instant-search/instantsearch-builder";
+import {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf} from "./conf/wiggetConf"
 
 
 const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');
 
-const instantsearch_factory = new Instantsearch_factory(instantsearch,searchClient,collection_routing_conf);
-instantsearch_factory.init();
-instantsearch_factory.addWidget(configure,{
-  filters: `collection:actualites`
-});
+const search = new Instantsearch_factory(instantsearch,searchClient,collection_routing_conf).init();
+const instantsearch_builder = new Instantsearch_builder(search);
 
-instantsearch_factory.addWidget(menuSelect,{
-  container: '#categories',
-  attributeName: 'categories',
-  limit: 10,
-  templates: {
-    seeAllOption: 'Toutes les catégories',
-    item: function (data) {
-      return `${data.label}`
-    }
-  }
-});
+instantsearch_builder.addWidget(configure,configureConf("actualites"));
 
-instantsearch_factory.addWidget(refinementList,{
-  container: '#tags',
-  attributeName: 'tags',
-  operator: 'or',
-  templates: {
-    item: function (data) {
-      const template_builder = new Template_builder(data);
-      return template_builder.get_template_tags()
-    },
-  },
-  cssClasses: {
-    list: "flex-container wrap-container",
-    item: "padding-bottom-1"
-  },
-});
+instantsearch_builder.addWidget(menuSelect,menuSelectConf);
 
-instantsearch_factory.addWidget(infiniteHits, {
-  container: '#infinite-hits',
-  templates: {
-    item: function (hit) {
-      const template_builder = new Template_builder(hit);
-      return template_builder.get_template_rechercher();
-    },
-    empty: "Nous n'avons rien trouvé pour la recherche : <em>\"{{query}}\"</em>",
-  },
-  showMoreLabel: "Voir plus de résultats",
-  cssClasses: {
-    showmoreButton: "button voir-plus-button"
-  }
-});
+instantsearch_builder.addWidget(refinementList,refinementListConf);
 
-instantsearch_factory.start();
+instantsearch_builder.addWidget(infiniteHits, infiniteHitsConf);
+
+instantsearch_builder.start();
 

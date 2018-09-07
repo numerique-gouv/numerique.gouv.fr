@@ -14,15 +14,6 @@ export class Instantsearch_factory {
         hitsPerPage: 10
       }
     };
-
-    this.search = this.instantsearch(parameters);
-  }
-  addWidget(widget,configuration){
-    this.search.addWidget(
-    widget(configuration)
-    );
-  }
-  start(){
-    this.search.start();
+    return this.instantsearch(parameters);
   }
 }

@@ -1,5 +1,5 @@
 import algoliasearch from "algoliasearch"
-import { Instantsearch_factory } from '../../lib/instantsearch-factory'
+import { Instantsearch_factory } from '../../instant-search/instantsearch-factory'
 import sinon from 'sinon'
 import assert from 'assert'
 
