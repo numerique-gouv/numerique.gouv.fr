@@ -1,4 +1,5 @@
 const moment = require("moment");
+const tz = require("moment-timezone");
 moment.locale('fr');
 
 module.exports = class Hit_helper {
@@ -74,7 +75,7 @@ module.exports = class Hit_helper {
 
   get_date_formated() {
     let formated_date;
-    this.hit.date ? formated_date = moment.unix(this.hit.date).format('LL') : formated_date = false;
+    this.hit.date ? formated_date = moment.unix(this.hit.date).tz("Europe/Paris").format('LL') : formated_date = false;
     return formated_date;
   }
 };

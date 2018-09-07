@@ -13,6 +13,7 @@
     "lunr": "^2.3.0",
     "mocha": "^5.2.0",
     "moment": "^2.22.2",
+    "moment-timezone": "^0.5.21",
     "motion-ui": "~1.2.2",
     "slick-carousel": "^1.8.1",
     "svg-injector-2": "^2.1.3",
