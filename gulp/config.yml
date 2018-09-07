@@ -52,11 +52,7 @@ JAVASCRIPT:
   src:
     # Paths to your own project code are here
     # All the files in this list and in the js dir are concatenated into all.js
-    - "assets/js/modernizr.js"
-    - "assets/js/foundation.js"
-    - "assets/js/app.js"
-    - "assets/js/rechercher.js"
-    - "assets/js/actualites.js"
+    - "assets/js/*.js"
 
 MODERNIZR:
   dest:
@@ -88,11 +84,8 @@ WATCH:
     - "assets/video/**/*"
     - "_uploads/*"
   javascript:
-    - "assets/js/modernizr.js"
-    - "assets/js/foundation.js"
-    - "assets/js/app.js"
-    - "assets/js/rechercher.js"
-    - "assets/js/actualites.js"
+    - "assets/js/*.js"
+    - "assets/js/**/*.js"
   sass: "_sass/**/*.scss"
   pages:
     - "*.{md,markdown,html,yml,xml}"
