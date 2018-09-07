@@ -1,7 +1,7 @@
 const moment = require("moment");
 moment.locale('fr');
 
-export default class Hit_helper {
+module.exports = class Hit_helper {
   constructor(hit) {
     this.hit = hit;
   }
