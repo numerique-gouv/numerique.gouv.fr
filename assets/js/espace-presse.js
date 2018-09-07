@@ -2,7 +2,7 @@ import algoliasearch from "algoliasearch"
 import instantsearch from "instantsearch.js";
 import { configure, menuSelect, refinementList, infiniteHits } from "instantsearch.js/es/widgets";
 
-import Template_builder from "./lib/template-builder"
+const Template_builder = require('./lib/template-builder');
 
 const search = instantsearch({
   indexName: 'jekyll-dinsic',

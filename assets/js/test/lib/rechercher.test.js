@@ -1,12 +1,12 @@
-const Hit_helper = require('../lib/hit-helper');
-const assert = require('assert');
+import Hit_helper from '../../lib/hit-helper';
+import assert from 'assert';
 
 
 describe('Hit_helper', function() {
   describe('#get_most_valuable_content()', function() {
     it('should return something', function() {
       // GIVEN
-      hit = {
+      const hit = {
         _snippetResult: {
           'chapeau-text': {
             value: 'lorem ipsum'
@@ -21,7 +21,7 @@ describe('Hit_helper', function() {
     });
     it('should not return content if no chapeau text', function() {
       // GIVEN
-      hit = {
+      const hit = {
         _snippetResult: {
           content: {
             value: 'lorem ipsum'
@@ -36,7 +36,7 @@ describe('Hit_helper', function() {
     });
     it('should return highlight content if no chapeau highlight', function() {
       // GIVEN
-      hit = {
+      const hit = {
         _snippetResult: {
           'chapeau-text': {
             matchLevel: "none",
@@ -56,7 +56,7 @@ describe('Hit_helper', function() {
     });
     it('should return highlight chapeau if no chapeau and content highlight', function() {
       // GIVEN
-      hit = {
+      const hit = {
         _snippetResult: {
           'chapeau-text': {
             matchLevel: "none",
@@ -76,7 +76,7 @@ describe('Hit_helper', function() {
     });
     it('should return highlight chapeau if no chapeau and content highlight', function() {
       // GIVEN
-      hit = {
+      const hit = {
         content: 'dolor sit',
         _snippetResult: undefined
 
@@ -91,7 +91,7 @@ describe('Hit_helper', function() {
   describe('#select_image()', function() {
     it('should return the image with image and alternative textuel', function () {
       // GIVEN
-      hit = {
+      const hit = {
         image:
           [{
           image: '/assets/img/test.png',
@@ -107,7 +107,7 @@ describe('Hit_helper', function() {
     });
     it('should return a default image if there is no image', function () {
       // GIVEN
-      hit = {
+      const hit = {
         image: undefined
       };
       const hit_helper = new Hit_helper(hit);
@@ -120,7 +120,7 @@ describe('Hit_helper', function() {
   describe('#get_date()', function() {
     it('should return the coresponding date in french', function () {
       // GIVEN
-      hit = {
+      const hit = {
         date:1530568800
       }
       const hit_helper = new Hit_helper(hit);
@@ -131,7 +131,7 @@ describe('Hit_helper', function() {
     });
     it('should return false if there is no date', function () {
       // GIVEN
-      hit = {
+      const hit = {
         date:undefined
       }
       const hit_helper = new Hit_helper(hit);
@@ -144,7 +144,7 @@ describe('Hit_helper', function() {
   describe('#get_first_category()', function() {
     it('should return the first category', function () {
       // GIVEN
-      hit = {
+      const hit = {
         categories:[
           'tulipe',
           'rose'
@@ -158,7 +158,7 @@ describe('Hit_helper', function() {
     });
     it('should return false if there is no category', function () {
       // GIVEN
-      hit = {
+      const hit = {
         categories:[]
       };
       const hit_helper = new Hit_helper(hit);

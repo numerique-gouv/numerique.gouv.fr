@@ -29,7 +29,7 @@ gulp.task('javascript', function (cb) {
     named(),
     $.sourcemaps.init(),
     webpackStream(webpackConfig, webpack),
-    $.babel({presets: ['es2015']}),
+    $.babel({presets: ['env']}),
     $.if(PRODUCTION, $.uglify()),
     $.if(!PRODUCTION, $.sourcemaps.write()),
     gulp.dest(JAVASCRIPT.dest.buildDir)

@@ -1,7 +1,7 @@
 import Hit_helper from "./hit-helper";
 const hogan = require("hogan.js");
 
-export default class Template_builder{
+export class Template_builder {
   constructor(data) {
     this.data = data;
   }

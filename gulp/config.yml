@@ -49,10 +49,9 @@ JAVASCRIPT:
   filename: "all.js"
   notification: "Running JavaScript"
   # Paths to JavaScript libraries, which are combined into one file
-  src:
+  src: "assets/js/*.js"
     # Paths to your own project code are here
     # All the files in this list and in the js dir are concatenated into all.js
-    - "assets/js/*.js"
 
 MODERNIZR:
   dest:
