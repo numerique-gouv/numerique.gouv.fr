@@ -85,4 +85,3 @@ $('.icon-arrow-down').each(function ( index ) {
 
 
 
-

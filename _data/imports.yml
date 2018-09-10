@@ -41,3 +41,12 @@
     - Actualités
     - Espace presse
     - Evénements
+
+- name: actualites_espacePresse_evenement_rechercher
+  link: actualites~espace-presse~evenements~rechercher.js
+  for:
+    - Rechercher
+    - Actualités
+    - Espace presse
+    - Evénements
+

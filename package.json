@@ -28,6 +28,7 @@
     "babel-preset-es2015-script": "^1.1.0",
     "babel-register": "^6.26.0",
     "browser-sync": "^2.10.0",
+    "chai": "^4.1.2",
     "gulp": "gulpjs/gulp#4.0",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-babel": "^6.1.2",

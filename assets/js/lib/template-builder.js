@@ -1,5 +1,6 @@
 import Hit_helper from "./hit-helper";
-const hogan = require("hogan.js");
+import hogan from "hogan.js"
+import { capitalizeFirstLetter } from './capitalize'
 
 export class Template_builder {
   constructor(data) {
@@ -34,7 +35,7 @@ export class Template_builder {
   get_template_tags() {
     const template =  hogan.compile(`
       <a href="${ this.data.url }" class=" tag-select {{#isRefined}}selected{{/isRefined}}">
-        #${ this.data.label }
+        #${ capitalizeFirstLetter(this.data.label) }
       </a>
     `);
     return template.render({isRefined:this.data.isRefined});
