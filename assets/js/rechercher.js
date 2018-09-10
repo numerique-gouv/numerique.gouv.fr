@@ -2,7 +2,7 @@ import algoliasearch from "algoliasearch"
 import instantsearch from "instantsearch.js";
 import { searchBox ,infiniteHits } from "instantsearch.js/es/widgets";
 
-const Template_builder = require('./lib/template-builder');
+import { Template_builder } from './lib/template-builder';
 
 export const search = instantsearch({
   searchClient: algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7'),
