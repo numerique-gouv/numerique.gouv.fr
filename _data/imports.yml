@@ -22,6 +22,10 @@
   link: espace-presse.js
   for: Espace presse
 
+- name: evenement
+  link: evenements.js
+  for: Evénements
+
 - name: vendors_app_foundation
   link: vendors~app~foundation.js
   for: all
@@ -30,9 +34,10 @@
   link: vendors~foundation.js
   for: all
 
-- name: vendors_actualites_espacePresse_rechercher
-  link: vendors~actualites~espace-presse~rechercher.js
+- name: vendors_actualites_espacePresse_evenement_rechercher
+  link: vendors~actualites~espace-presse~evenements~rechercher.js
   for:
     - Rechercher
     - Actualités
     - Espace presse
+    - Evénements

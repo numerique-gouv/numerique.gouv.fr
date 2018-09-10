@@ -1,7 +1,6 @@
 ---
 title: Evénements
-permalink: "/evenements"
-published: false
+permalink: "/evenements/"
 layout: evenements
 ---
 

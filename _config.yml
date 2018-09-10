@@ -12,7 +12,7 @@ collections:
     output: true
   evenements:
     title: Evènements
-    output: false
+    output: true
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false

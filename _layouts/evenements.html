@@ -2,20 +2,17 @@
 layout: default
 ---
 
-<div id="evenement" role="main">
-<ul id="list-post" class="no-bullet grid-y">
-  <!--
-      Here is the main paginator logic called.
-      All calls to site.posts should be replaced by paginator.posts
-  -->
-  {% for evenement in site.evenements %}
-  <li  class="">
-    <h2>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ evenement.title }}</a>
-    </h2>
-    <span class="post-meta h5 subheader font-bold">{% include date.html date=evenement.date %}</span>
-    <p>{{ post.excerpt }}</p>
-  </li>
-  {% endfor %}
-</ul>
-<div>
+<div id="evenement">
+  <div class="object-fit__image-container">
+    <img class="object-fit__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ page.une.image | relative_url }}">
+  </div>
+  <a id="content" tabindex="-1"></a>
+  <section class="margin-0" >
+    <div class="gray-background padding-vertical-2 ">
+      <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">{{ page.title }}</h1>
+    </div>
+    <section id="list-post" class="max-width-60 padding-vertical-2" >
+      {% include components/list-post.html titre='Tout nos événements' %}
+    </section>
+  </section>
+</div>
