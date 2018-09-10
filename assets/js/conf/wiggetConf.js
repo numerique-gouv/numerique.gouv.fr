@@ -49,4 +49,9 @@ const infiniteHitsConf = {
   }
 };
 
-export {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf}
+const searchBoxConf =  {
+  container: '#search-input',
+  poweredBy: true
+};
+
+export {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf, searchBoxConf};

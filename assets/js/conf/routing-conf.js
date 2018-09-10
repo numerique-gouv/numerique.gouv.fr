@@ -19,7 +19,9 @@ const collection_routing_conf = {
       };
     }
   }
-}
+};
+
+const rechercher_routing_conf = true;
 
 
-module.exports = {collection_routing_conf}
+module.exports = {collection_routing_conf, rechercher_routing_conf};

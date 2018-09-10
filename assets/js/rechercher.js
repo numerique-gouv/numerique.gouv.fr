@@ -1,45 +1,23 @@
 import algoliasearch from "algoliasearch"
 import instantsearch from "instantsearch.js";
-import { searchBox ,infiniteHits } from "instantsearch.js/es/widgets";
-
-import { Template_builder } from './lib/template-builder';
-
-export const search = instantsearch({
-  searchClient: algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7'),
-  indexName: 'jekyll-dinsic',
-  routing: true,
-  searchParameters: {
-    hitsPerPage: 10
-  }
-});
-
-search.addWidget(
-  searchBox({
-    container: '#search-input',
-    poweredBy: true
-  })
-);
-
-search.addWidget(
-  infiniteHits({
-    container: '#infinite-hits',
-    templates: {
-      item: function(hit) {
-        const template_builder = new Template_builder(hit);
-        return template_builder.get_template_rechercher();
-      },
-      empty: "We didn't find any results for the search <em>\"{{query}}\"</em>",
-    },
-    showMoreLabel: "Voir plus de résultats",
-    cssClasses: {
-      showmoreButton: "button voir-plus-button"
-    }
-  })
-);
-
-search.start();
+import {  searchBox ,infiniteHits } from "instantsearch.js/es/widgets";
 
 
+import { rechercher_routing_conf } from "./conf/routing-conf"
+import { Instantsearch_factory } from "./instant-search/instantsearch-factory";
+import { Instantsearch_builder } from "./instant-search/instantsearch-builder";
+import { searchBoxConf, infiniteHitsConf} from "./conf/wiggetConf"
 
+
+const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');
+
+const search = new Instantsearch_factory(instantsearch,searchClient,rechercher_routing_conf).init();
+const instantsearch_builder = new Instantsearch_builder(search);
+
+instantsearch_builder.addWidget(searchBox, searchBoxConf);
+
+instantsearch_builder.addWidget(infiniteHits, infiniteHitsConf);
+
+instantsearch_builder.start();
 
 
