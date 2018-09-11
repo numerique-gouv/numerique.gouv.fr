@@ -44,8 +44,6 @@ GEM
       nokogiri (~> 1.6)
       progressbar (~> 1.9)
       verbal_expressions (~> 0.1.5)
-    jekyll-feed (0.11.0)
-      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
@@ -92,7 +90,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8)
   jekyll-algolia
-  jekyll-feed
   jekyll-sitemap
   pkg-config (~> 1.1)
   sass
