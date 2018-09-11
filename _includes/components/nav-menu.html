@@ -27,7 +27,7 @@
       {% if page.title != "Rechercher" %}
       <form id="rechercher" action="/rechercher" class="search-form top-bar-right" method="get" role="search">
         <a id="recherche" tabindex="-1"></a>
-        <label for="input-rechercher" class="off-screen">Rechercher dans le site dinsic.gouv.fr</label>
+        <label for="input-rechercher" class="off-screen">Rechercher dans le site {{ site.title }}</label>
         <input id="input-rechercher" aria-label="Ma recherche" type="text" name="query"><!--
         --><button type="submit">
           <span class="off-screen">Lancer la recherche</span>

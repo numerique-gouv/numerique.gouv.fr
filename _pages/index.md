@@ -1,5 +1,5 @@
 ---
-title: dinsic.gouv.fr
+title: numerique.gouv.fr
 permalink: "/"
 position: 4
 layout: index

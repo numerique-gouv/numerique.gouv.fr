@@ -1,5 +1,5 @@
 ---
-title: DINSIC.gouv.fr
+title: Numerique.gouv.fr
 timezone: Europe/Paris
 collections:
   actualites:
@@ -64,7 +64,7 @@ defaults:
   values:
     layout: post
     permalink: "/evenements/:title/"
-url: https://dinsic.gouv.fr
+url: https://numerique.gouv.fr
 categories:
 - main
 language: fr
