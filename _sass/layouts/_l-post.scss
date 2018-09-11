@@ -45,6 +45,9 @@
 
 #tag-article {
   display: flex;
+}
+
+.tag {
   ul {
     display: flex;
     flex-wrap: wrap;
@@ -59,12 +62,20 @@
   }
 }
 
-
-#list_post {
-  .icon {
-    width: 1rem;
-    margin-right: 0.5rem;
-    padding-bottom: 0.4rem;
-  }
+.tag-select {
+    margin: 0.2rem;
+    padding: 0.2rem;
+    font-size: smaller;
+    border: 1px solid $bleue;
+    border-radius: 0.3rem;
+    color: $bleue;
 }
+.selected {
+  background-color: $medium-gray;
+}
+
+.wrap-container {
+  flex-wrap: wrap;
+}
+
 

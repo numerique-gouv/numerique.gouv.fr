@@ -5,7 +5,7 @@
     <img class="object-fit__featured-image" alt="{{ carte-double.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ carte-double.une-ou-diaporama[0].image }}">
     {% endif %}
   </div>
-  <div class="cell large-4 medium-6 small-12">
+  <div id="actu-a-la-une" class="cell large-4 medium-6 small-12">
     <div class="cell grid-y carte-double height-100">
       <div class="padding-2">
         <p class="h4 font-bold margin-0">{{ carte-double.title }}</p>
@@ -13,7 +13,7 @@
         <span class="h6 date display-inline">{{ carte-double.categories }} | </span>
         {% endif %}
         {% if carte-double.date %}
-        <span class="h6 date display-inline-block">{% include herlpers/date.html date=carte-double.date %}</span>
+        <span class="h6 date display-inline-block">{% include helpers/date.html date=carte-double.date %}</span>
         {% endif %}
         <p>
           {% if carte-double.chapeau-text %}

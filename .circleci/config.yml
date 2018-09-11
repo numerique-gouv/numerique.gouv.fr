@@ -121,6 +121,47 @@ jobs:
             else
               echo "Not development branch, dry run only"
             fi
+  test-js:
+    docker:
+      - image: starefossen/ruby-node:latest
+    steps:
+      - restore_cache:
+          name: Restore Git Cache
+          keys:
+            - source-v5-{{ .Branch }}-{{ .Revision }}
+            - source-v5-{{ .Branch }}-
+            - source-v5-
+
+      - checkout
+
+      - restore_cache:
+          name: Restore Yarn Package Cache
+          keys:
+            - yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - yarn-packages-v1-{{ .Branch }}-
+            - yarn-packages-v1-
+
+      - restore_cache:
+          name: Restore Node module cache
+          keys:
+            # when lock file changes, use increasingly general patterns to restore cache
+            - node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - node-v1-{{ .Branch }}-
+            - node-v1-
+
+      - run: yarn install
+
+      - run: mkdir ~/junit
+
+      - run:
+          command: yarn test --reporter mocha-junit-reporter --reporter-options mochaFile=~/junit/test-results.xml
+          when: always
+
+      - store_test_results:
+          path: ~/junit
+
+      - store_artifacts:
+          path: ~/junit
 
 
 workflows:
@@ -131,9 +172,13 @@ workflows:
       - test-html:
           requires:
             - build
+      - test-js:
+          requires:
+            - build
       - deploy:
           requires:
             - test-html
+            - test-js
 
 
 

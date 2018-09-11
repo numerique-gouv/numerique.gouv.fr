@@ -110,3 +110,7 @@ $hamburger-bar : 3;
   pointer-events: none!important;
   cursor: default!important;
 }
+
+.wrap-container {
+  flex-wrap: wrap;
+}

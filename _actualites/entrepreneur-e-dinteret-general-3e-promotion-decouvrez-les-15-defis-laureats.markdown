@@ -4,7 +4,7 @@ date: 2018-07-20 11:12:00 +02:00
 categories:
 - Article
 tags:
-- Entrepreneur.e d'Intérêt Général
+- Entrepreneur d'Intérêt Général
 - innovation
 position: 0
 chapeau-text: |-
@@ -15,7 +15,6 @@ une-ou-diaporama:
   alternative-textuelle: Photo du président du jury
 auteur: Depuis Etalab.gouv.fr
 ---
-
 *Créé en octobre 2016, le programme « Entrepreneur d’Intérêt Général » (EIG) vise à accélérer la transition numérique de l’État en recrutant des innovateurs aux expertises numériques variées (développement, design, science des données, agilité) pour travailler sur des défis d’amélioration du service public proposés par les administrations. Ce dispositif fait partie du Programme d’investissements d’avenir (PIA) piloté par le Secrétariat général pour l’investissement (SGPI).*
 <br>
 ## Un jury pour sélectionner les meilleurs défis de transformation numérique au service de l’intérêt général

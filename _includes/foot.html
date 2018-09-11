@@ -1,10 +1,9 @@
 <script type="text/javascript">
-  const modernizr = document.createElement('script');
-  modernizr.src = '/assets/js/modernizr.js';
-  const app = document.createElement('script');
-  app.src = '/assets/js/app.js';
-
-  document.body.appendChild(modernizr);
-  document.body.appendChild(app);
+  {% for item in site.data.imports %}
+    {% if item.for == 'all' or item.for contains page.title %}
+      const {{ item.name }} = document.createElement('script');
+      {{ item.name }}.src = '/assets/js/{{ item.link }}';
+      document.body.appendChild({{ item.name }});
+    {% endif %}
+  {% endfor %}
 </script>
-

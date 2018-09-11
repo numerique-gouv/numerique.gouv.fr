@@ -49,20 +49,9 @@ JAVASCRIPT:
   filename: "all.js"
   notification: "Running JavaScript"
   # Paths to JavaScript libraries, which are combined into one file
-  src:
+  src: "assets/js/*.js"
     # Paths to your own project code are here
     # All the files in this list and in the js dir are concatenated into all.js
-    - "assets/js/modernizr.js"
-    - "assets/js/app.js"
-
-RECHERCHER:
-  dest:
-    buildDir: "_site/assets/js/"
-  filename: "rechercher.js"
-  notification: "Running Rechercher"
-  src:
-   - node_modules/lunr/lunr.js
-   - "assets/js/rechercher.js"
 
 MODERNIZR:
   dest:
@@ -70,7 +59,6 @@ MODERNIZR:
   filename: "modernizr.js"
   src:
    - assets/js/app.js
-
 
 JEKYLL:
   notification: "Running jekyll"
@@ -94,11 +82,12 @@ WATCH:
     - "assets/img/**/*"
     - "assets/video/**/*"
     - "_uploads/*"
-  javascript: "assets/js/app.js"
-  rechercher: "assets/js/rechercher.js"
+  javascript:
+    - "assets/js/*.js"
+    - "assets/js/**/*.js"
   sass: "_sass/**/*.scss"
   pages:
-    - "*.{md,html,yml,xml}"
-    - "{_data,_includes,_layouts,_actualites,_communiques,_evenements,_missions-dinsic,_pages,_posts,_rechercher,blog,actualites}/**/*.{md,html,yml,xml,markdown}"
+    - "*.{md,markdown,html,yml,xml}"
+    - "{_data,_includes,_layouts,_actualites,_communiques,_evenements,_missions-dinsic,_pages,_posts,_rechercher,blog,actualites}/**/*.{md,markdown,html,yml,xml}"
     - "!_site/**/*.*"
     - "!assets/**/*.*"
