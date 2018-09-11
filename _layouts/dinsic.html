@@ -32,11 +32,11 @@ layout: default
   <div class="cell grid-x">
     <div id="missions" class="cell white-container">
       {% for mission in missions-ordered %}
-      <section id="mission{{ mission.ordre }}" class="mission padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+      <section id="mission{{ mission.ordre }}" class="mission padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
         <h3 class="font-bold">{{ mission.title }}</h3>
         {{ mission.content}}
         {% if mission.encadre %}
-        <div class="encadre-dinsic margin-vertical-2">
+        <div class="encadre-dinsic margin-vertical-1">
           <hr>
           <div class="display-inline">
             <i class="fas fa-search icon-loupe"></i>
