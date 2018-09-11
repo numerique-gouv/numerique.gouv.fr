@@ -20,8 +20,23 @@ const webpackConfig = {
     splitChunks: {
       chunks: 'all'
     }
+  },
+  module: {
+    rules: [
+      {
+        test: /\.js$/,
+        use: {
+          loader: 'babel-loader',
+          options: {
+            presets: ['@babel/preset-env']
+
+          }
+        }
+      }
+    ]
   }
 };
+
 
 gulp.task('javascript', function (cb) {
   pump([
@@ -29,7 +44,6 @@ gulp.task('javascript', function (cb) {
     named(),
     $.sourcemaps.init(),
     webpackStream(webpackConfig, webpack),
-    $.babel({presets: ['env']}),
     $.if(PRODUCTION, $.uglify()),
     $.if(!PRODUCTION, $.sourcemaps.write()),
     gulp.dest(JAVASCRIPT.dest.buildDir)
