@@ -71,8 +71,8 @@ function getFileSize(url)
   return fileSize;
 }
 
-const elements = document.querySelectorAll('[id^="communiqueSize-"]');
-elements.forEach(function (element) {
+const elements = $('[id^="communiqueSize-"]');
+elements.each(function (element) {
   element.innerHTML += ' ' + Math.round(getFileSize(element.getAttribute('href'))/1024) + ' Ko )'
 });
 
