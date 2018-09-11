@@ -7,12 +7,17 @@
 // Custom JS
 // --------------------------------------------------
 import $ from 'jquery'
+import '@babel/polyfill'
+import "isomorphic-fetch"
+import "es6-promise"
+
 //Menu
 const button = $('#hamburger-button');
 const activatedClass = 'is-active';
 const grayClass = 'gray';
 const menu = $('#responsive-menu');
 const main = $('#main');
+
 
 button.on('click', function() {
   if(!closeMenu()){
@@ -43,9 +48,9 @@ function closeMenu() {
 }
 
 if ( ! Modernizr.objectfit ) {
-  $('.post__image-container').each(function () {
-    const $container = $(this),
-      imgUrl = $container.find('img').prop('src');
+  $('.object-fit__image-container').each(function () {
+    const $container = $(this);
+    const imgUrl = $container.find('img').prop('src');
     if (imgUrl) {
       $container
         .css('backgroundImage', 'url(' + imgUrl + ')')
@@ -54,26 +59,14 @@ if ( ! Modernizr.objectfit ) {
   });
 }
 
-function getFileSize(url)
-{
-  let fileSize = 0;
-  const http = new XMLHttpRequest();
-  http.open('HEAD', url, false); // false = Synchronous
-
-  http.send(null); // it will stop here until this http request is complete
-
-  // when we are here, we already have a response, b/c we used Synchronous XHR
-
-  if (http.status === 200) {
-    fileSize = http.getResponseHeader('content-length');
-  }
-
-  return fileSize;
-}
-
-const elements = $('[id^="communiqueSize-"]');
-elements.each(function (element) {
-  element.innerHTML += ' ' + Math.round(getFileSize(element.getAttribute('href'))/1024) + ' Ko )'
+const $elements = $("[id^='communiqueSize-']");
+$elements.each(function () {
+  const that = this;
+  fetch($(this).attr("href")).then(function (response) {
+    const fileSize = response.headers.get('Content-Length')/1024;
+    const $element = $(that);
+    $element.text($element.text() + ' ' + Math.round( fileSize ) + ' Ko )');
+  });
 });
 
 $('.icon-arrow-down').each(function ( index ) {
