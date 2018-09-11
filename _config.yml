@@ -74,6 +74,7 @@ plugins:
 - sass
 - jekyll-sitemap
 - jekyll-algolia
+- jekyll-feed
 include:
 - ".htaccess"
 - _pages
@@ -98,6 +99,11 @@ exclude:
 - "/ansible/"
 - "/node_modules/"
 incremental: true
+feed:
+  collections:
+    - actualites
+    - communiques
+    - evenements
 compress_html:
   ignore:
     envs:
@@ -133,5 +139,6 @@ algolia:
     attributesToSnippet:
       - content:20
       - chapeau-text:20
+
 
 
