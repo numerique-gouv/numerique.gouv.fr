@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-@import url(https://use.fontawesome.com/releases/v5.1.1/css/all.css);
+@import url(https://use.fontawesome.com/releases/v5.3.1/css/all.css);
 
 // List of icon unicode symbols from the icon font
 // and background colours for the icons
@@ -27,7 +27,8 @@ $icon-list: (
   github #333333,
   flickr #333333,
   rdio #0086CD,
-  evernote #aaca62
+  evernote #aaca62,
+  rss #fa9332
 );
 
 // Each loop for creating the icon CSS
