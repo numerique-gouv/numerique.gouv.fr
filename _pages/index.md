@@ -1,5 +1,5 @@
 ---
-title: numerique.gouv.fr
+title: Numerique.gouv.fr
 permalink: "/"
 position: 4
 layout: index
