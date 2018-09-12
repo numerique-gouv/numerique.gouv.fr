@@ -179,6 +179,10 @@ workflows:
           requires:
             - test-html
             - test-js
+      - hold:
+          type: approval
+          requires:
+           - deploy
 
 
 
