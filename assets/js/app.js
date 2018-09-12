@@ -20,15 +20,13 @@ const main = $('#main');
 
 
 button.on('click', function() {
-  if(!closeMenu()){
-    button.addClass(activatedClass);
-    main.addClass(grayClass);
-    Foundation.Motion.animateIn(menu,"slide-in-left");
-  }
+  toogleMenu();
 });
 
-main.on('click', function (e) {
+$('body').on('click', function (e) {
+  if(button.hasClass(activatedClass)) {
     closeMenu();
+  }
 });
 
 $( document ).on( 'keydown', function ( e ) {
@@ -37,13 +35,24 @@ $( document ).on( 'keydown', function ( e ) {
   }
 });
 
+function toogleMenu() {
+  if(!button.hasClass(activatedClass)) {
+    Foundation.Motion.animateIn(menu, "slide-in-left", function () {
+      main.addClass(grayClass);
+      button.addClass(activatedClass);
+      console.log(menu)
+    });
+  } else {
+    closeMenu();
+  }
+}
+
 function closeMenu() {
   if(button.hasClass(activatedClass)) {
     Foundation.Motion.animateOut(menu,"slide-out-left",function () {
       button.removeClass(activatedClass);
       main.removeClass(grayClass);
     });
-    return true;
   }
 }
 
