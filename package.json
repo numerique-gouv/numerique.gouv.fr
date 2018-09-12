@@ -8,6 +8,7 @@
     "@babel/core": "^7.0.0",
     "@babel/polyfill": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
+    "@babel/register": "^7.0.0",
     "aos": "^2.2.0",
     "babel-loader": "^8.0.2",
     "es6-promise": "^4.2.5",
@@ -58,7 +59,7 @@
     "start": "gulp --dev",
     "build-dev": "gulp build --dev",
     "build": "gulp build --production",
-    "test": "mocha --require babel-core/register assets/js/test/**/*test.js"
+    "test": "mocha --require @babel/register assets/js/test/**/*test.js"
   },
   "repository": {
     "type": "git",
