@@ -4,6 +4,7 @@ permalink: "/accessibilite/"
 position: 8
 layout: page-annexe
 ---
+
 27 juin 2011
 L'article 47 de la loi n° 2005-102 du 11 février 2005 pour l’égalité des droits et des chances, la participation et la 
 citoyenneté des personnes handicapées, fait de l’accessibilité une exigence pour tous les services de communication 
