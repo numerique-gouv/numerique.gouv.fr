@@ -4,7 +4,6 @@ permalink: "/panorama-grands-projets-si/"
 published: false
 layout: default
 ---
-
 <div class="responsive-embed">
   <iframe src="http://panorama-grands-projets-si.modernisation.gouv.fr/" frameborder="0" allowfullscreen></iframe>
 </div>
