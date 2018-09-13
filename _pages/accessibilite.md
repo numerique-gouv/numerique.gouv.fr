@@ -2,7 +2,7 @@
 title: Accessibilité
 permalink: "/accessibilite/"
 position: 8
-layout: page
+layout: page-annexe
 ---
 
 27 juin 2011

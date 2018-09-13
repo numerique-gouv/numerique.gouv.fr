@@ -2,7 +2,7 @@
 title: Mentions Légales
 permalink: "/mentions-legales/"
 position: 3
-layout: page
+layout: page-annexe
 ---
 
 Le site dinsic.gouv.fr est édité par la DINSIC.
