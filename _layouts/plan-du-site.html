@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div id="actualites">
+  <section class="margin-0" >
+    <div class="gray-background padding-vertical-2 ">
+      <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">{{ page.title }}</h1>
+    </div>
+    <section class="max-width-60 padding-vertical-2" >
+      <div class="grid-x grid-margin-x padding-2">
+        <div class="cell large-12 medium-12 small-12 grid-y">
+          <ul>
+            <li><strong><a href="/">Accueil</a></strong></li>
+            <li><strong><a href="/dinsic">La DINSIC</a></strong></li>
+            <li><strong><a href="/actualites">Actualités</a></strong></li>
+            <ul class="no-bullet">
+              {% for actualite in site.actualites %}
+              {% unless actualite.link %}
+              <li>- <a href="{{actualite.url}}">{{actualite.title}}</a></li>
+              {% endunless %}
+              {% endfor %}
+            </ul>
+            <li><strong><a href="/espace-presse">Espace presse</a></strong></li>
+            <ul class="no-bullet">
+              {% for communique in site.communiques %}
+              {% unless communique.link %}
+              <li>- <a href="{{communique.url}}">{{communique.title}}</a></li>
+              {% endunless %}
+              {% endfor %}
+            </ul>
+            <li><strong><a href="/donnees-personnelles">Données personnelles</a></strong></li>
+            <li><strong><a href="/mentions-legales">Mentions Légales</a></strong></li>
+            <li><strong><a href="/accessibilite">Accessibilité</a></strong></li>
+            <li><strong><a href="/contacts">Contact</a></strong></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </section>
+</div>
+
+

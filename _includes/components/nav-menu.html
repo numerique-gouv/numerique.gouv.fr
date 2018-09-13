@@ -22,6 +22,11 @@
             <a class="black-link" href="{{ item.url }}">{{ item.link }}</a>
           </li>
           {% endfor %}
+          {% if jekyll.environment == "pre-prod" %}
+            <li>
+              <a class="black-link" href="/mise-en-prod.html">Mise en production</a>
+            </li>
+          {% endif %}
         </ul>
       </div>
       {% if page.title != "Rechercher" %}
