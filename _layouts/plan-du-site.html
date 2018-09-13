@@ -13,8 +13,7 @@ layout: default
           <ul>
             <li><strong><a href="/">Accueil</a></strong></li>
             <li><strong><a href="/dinsic">La DINSIC</a></strong></li>
-            <li><strong><a href="/actualites">Actualités</a></strong></li>
-            <li>
+            <li><strong><a href="/actualites">Actualités</a></strong>
               <ul class="no-bullet">
                 {% for actualite in site.actualites %}
                 {% unless actualite.link %}
@@ -23,8 +22,8 @@ layout: default
                 {% endfor %}
               </ul>
             </li>
-            <li><strong><a href="/espace-presse">Espace presse</a></strong></li>
-            <li>
+            </li>
+              <strong><a href="/espace-presse">Espace presse</a></strong>
               <ul class="no-bullet">
                 {% for communique in site.communiques %}
                 {% unless communique.link %}
