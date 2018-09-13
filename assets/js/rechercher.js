@@ -1,73 +1,23 @@
-(function() {
-  function displaySearchResults(results, store) {
-    let searchResults = document.getElementById('search-results');
-    const options = { year: 'numeric', month: 'long', day: 'numeric' };
-
-    if (results.length) { // Are there any results?
-      let appendString = '';
-
-      for (let i = 0; i < results.length; i++) {  // Iterate over the results
-        let item = store[results[i].ref];
-        appendString += '<li class="cell card large-4 medium-6 small-12">';
-        appendString +='<a class="display-block padding-1 height-100" href="' + item.url + '">';
-        if (item.image) {
-          appendString +='<img src="/' + item.image  +'">';
-        }
-        appendString +='<h5 class="font-bold black">' + item.title + '</h5>';
-        if (item.date) {
-          const event = new Date( item.date );
-          appendString +='<h5 class="subheader h6 font-bold">' + event.toLocaleDateString('fr-FR', options) + '</h5>';
-        }
-        appendString += '<p class="black">' + item.content.substring(0, 150) + '...</p></li></a>';
-      }
-
-      searchResults.innerHTML = appendString;
-    } else {
-      searchResults.innerHTML = '<li>No results found</li>';
-    }
-  }
-
-  function getQueryVariable(letiable) {
-    let query = window.location.search.substring(1);
-    let lets = query.split('&');
-
-    for (let i = 0; i < lets.length; i++) {
-      let pair = lets[i].split('=');
-
-      if (pair[0] === letiable) {
-        return decodeURIComponent(pair[1].replace(/\+/g, '%20'));
-      }
-    }
-  }
-
-  let searchTerm = getQueryVariable('query');
-
-  if (searchTerm) {
-    document.getElementById('search-box').setAttribute("value", searchTerm);
-
-    // Initalize lunr with the fields it will be searching on. I've given title
-    // a boost of 10 to indicate matches on this field are more important.
+import algoliasearch from "algoliasearch"
+import instantsearch from "instantsearch.js";
+import {  searchBox ,infiniteHits } from "instantsearch.js/es/widgets";
 
 
-      let idx = lunr(function () {
-        this.field('id');
-        this.field('title', { boost: 10 });
-        this.field('author');
-        this.field('category');
-        this.field('date');
-        this.field('content');
-        for (let key in window.store) { // Add the data to lunr
-          this.add({
-            'id': key,
-            'title': window.store[key].title,
-            'author': window.store[key].author,
-            'category': window.store[key].category,
-            'date': window.store[key].date,
-            'content': window.store[key].content
-          });
-        }
-        });
-      let results = idx.search(searchTerm); // Get lunr to perform a search
-      displaySearchResults(results, window.store); // We'll write this in the next section
-  }
-})();
+import { rechercher_routing_conf } from "./conf/routing-conf"
+import { Instantsearch_factory } from "./instant-search/instantsearch-factory";
+import { Instantsearch_builder } from "./instant-search/instantsearch-builder";
+import { searchBoxConf, infiniteHitsConf} from "./conf/wiggetConf"
+
+
+const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');
+
+const search = new Instantsearch_factory(instantsearch,searchClient,rechercher_routing_conf).init();
+const instantsearch_builder = new Instantsearch_builder(search);
+
+instantsearch_builder.addWidget(searchBox, searchBoxConf);
+
+instantsearch_builder.addWidget(infiniteHits, infiniteHitsConf);
+
+instantsearch_builder.start();
+
+

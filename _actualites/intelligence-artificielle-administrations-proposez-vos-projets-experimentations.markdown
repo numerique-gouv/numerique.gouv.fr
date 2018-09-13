@@ -12,7 +12,6 @@ une-ou-diaporama:
 - image: "/uploads/AMI-IA-une.jpg"
 auteur: Depuis Etalab.gouv.fr
 ---
-
 L’intelligence artificielle, ses potentialités et ses risques interrogent la société dans son ensemble. Comme l’a souligné le Président de la République à l’occasion de la remise du rapport de la mission Villani, [Donner un sens à l’intelligence artificielle](https://www.aiforhumanity.fr/pdfs/9782111457089_Rapport_Villani_accessible.pdf), l’État doit pleinement se saisir de cette question. Il doit être en mesure d’intégrer l’intelligence artificielle pour la conduite des politiques publiques et de ses missions. « L’État doit se positionner, pour ses propres besoins, comme premier utilisateur et acheteur de technologies d’IA », affirme le député et mathématicien Cédric Villani.
 
 Classification automatique d’images, reconnaissance d’entités nommées dans des textes, extraction automatique d’informations à partir de données non structurées, les technologies d’IA peuvent avoir un impact important sur l’action publique.

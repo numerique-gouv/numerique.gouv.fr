@@ -2,7 +2,7 @@
   <div class="grid-x grid-margin-x padding-2">
     <div class="large-4 medium-12 small-12 ">
       <h2 class="h3">{{ site.title }}</h2>
-      <p>Grâce au numérique, nous créons le service public de demain</p>
+      <p>Avec le numérique, nous créons le service public de demain</p>
       {% include components/boutons-social.html %}
       <ul class="no-bullet">
         {% for item in site.data.nav-footer %}
@@ -10,15 +10,29 @@
         {% endfor %}
       </ul>
     </div>
-    <div class="cell large-8 show-for-large grid-y">
-      <div class="padding-left-3">
-        <h3 class="h5">Plan du site</h3>
-        <ul class="no-bullet">
-          {% for item in site.data.plan-du-site %}
-          <li><a href="{{ item.url }}">{{ item.link }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
+    <div class="cell large-2 medium-6 small-12 grid-y">
+      <a href="/plan-du-site"><h3 class="h5">Plan du site</h3></a>
+      <ul class="no-bullet">
+        {% for item in site.data.plan-du-site %}
+        <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="cell large-3 medium-6 small-12 grid-y">
+      <h3 class="h5">Nos univers</h3>
+      <ul class="no-bullet">
+        {% for item in site.data.sites-references %}
+        <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="cell large-3 medium-6 small-12 grid-y">
+      <h3 class="h5">Nos services aux usagers</h3>
+      <ul class="no-bullet">
+        {% for item in site.data.services-usagers %}
+        <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+        {% endfor %}
+      </ul>
     </div>
     <a href="#header">
       <span aria-hidden="true" class="fas fa-arrow-up"></span>

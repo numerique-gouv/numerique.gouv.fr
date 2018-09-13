@@ -1,43 +1,11 @@
 ---
-layout: default-without-transformation
+layout: default
 ---
-
-<section class="default-text-padding ">
-  {{content}}
-  <h1>Résultat de la recherche</h1>
-
-  <form action="/rechercher" method="get">
-    <div class="grid-container">
-      <p>Votre recherche :</p>
-      <div class="grid-x">
-        <div class="medium-9 cell ">
-          <input type="text" id="search-box" name="query" placeholder="Votre recherche">
-        </div>
-        <div class="medium-3 cell text-center">
-          <input class="button" type="submit" value="Rechercher">
-        </div>
-      </div>
-    </div>
-  </form>
-
-  <ul id="search-results" class="no-bullet grid-x grid-margin-x" ></ul>
+<section class="max-width-60 padding-vertical-2">
+  <h1>Résultats de la recherche :</h1>
+  <div class="margin-bottom-2 width-100">
+    <label for="search-input">Votre recherche</label>
+    <input id="search-input" >
+  </div>
+  <div id="infinite-hits"></div>
 </section>
-<script>
-  {% assign elements = site.actualites | concat: site.communiques | concat: site.evenements | concat: site.pages %}
-  window.store = {
-  {% for element in elements %}
-  "{{ element.url | slugify }}": {
-    "title": "{{ element.title  }}",
-      "author": "{{ element.author | xml_escape }}",
-      "category": "{{ element.category | xml_escape }}",
-      "date": "{{ element.date }}",
-      "image": "{{ element.image-mise-en-avant }}",
-      "content": {{ element.content | strip_html | strip_newlines | jsonify }},
-    "url": "{{ element.url | xml_escape }}"
-  }
-  {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  };
-
-</script>
-<script src="{{base}}/assets/js/rechercher.js"></script>

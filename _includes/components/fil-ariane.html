@@ -24,7 +24,7 @@
           {{ crumb | append: '/' | replace: 'é','e'}}
         {% endfor %}
       {% endcapture %}
-      {% assign lien_formate = lien | remove: ' ' | remove: '' | strip_newlines %}
+      {% assign lien_formate = lien | remove: ' ' | strip_newlines %}
       <a href="{{ lien_formate }}">
       {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}
       </a>
