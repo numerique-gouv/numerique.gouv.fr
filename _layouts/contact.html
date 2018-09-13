@@ -1,22 +1,30 @@
 ---
-layout: page
+layout: default
 ---
 
-{{ content }}
-<form id="contact-form" action="https://formspree.io/communication.dinsic@modernisation.gouv.fr"
-      method="POST">
-  <label for="form-categorie"> Catégorie </label>
-  <select id="form-categorie" name="Catégorie">
-    <option value="Fonctionnement du site">Fonctionnement du site</option>
-    <option value="Presse">Presse</option>
-  </select>
-  <label for="form-objet"> Objet </label>
-  <input id="form-objet" type="text" name="objet">
-  <label for="form-message"> Votre message (obligatoire) </label>
-  <textarea required id="form-message"  name="message"></textarea>
-  <label for="form-email"> Votre email (obligatoire) </label>
-  <input required id="form-email" type="email" name="_replyto">
-  <label for="form-name"> Votre nom </label>
-  <input id="form-name" type="text" name="name">
-  <input class="button" type="submit" value="Envoyer">
-</form>
+<section class="margin-0" >
+  <div class="gray-background padding-vertical-2 ">
+    <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">{{ page.title }}</h1>
+  </div>
+  <section class="max-width-60 padding-vertical-2" >
+    {{ content }}
+    <form id="contact-form" action="https://formspree.io/communication.dinsic@modernisation.gouv.fr"
+          method="POST">
+      <label for="form-categorie"> Catégorie </label>
+      <select id="form-categorie" name="Catégorie">
+        <option value="Fonctionnement du site">Fonctionnement du site</option>
+        <option value="Presse">Presse</option>
+      </select>
+      <label for="form-objet"> Objet </label>
+      <input id="form-objet" type="text" name="objet">
+      <label for="form-message"> Votre message (obligatoire) </label>
+      <textarea required id="form-message"  name="message"></textarea>
+      <label for="form-email"> Votre email (obligatoire) </label>
+      <input required id="form-email" type="email" name="_replyto">
+      <label for="form-name"> Votre nom </label>
+      <input id="form-name" type="text" name="name">
+      <input class="button" type="submit" value="Envoyer">
+    </form>
+  </section>
+</section>
+

@@ -1,6 +1,6 @@
 ---
 title: Nous contacter
-permalink: "/contacts/"
+permalink: "/contact/"
 position: 2
 layout: contact
 ---
