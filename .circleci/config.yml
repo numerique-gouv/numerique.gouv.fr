@@ -169,10 +169,6 @@ workflows:
       - test-js:
           requires:
             - build
-      - deploy:
-          requires:
-            - test-html
-            - test-js
 
 
 
