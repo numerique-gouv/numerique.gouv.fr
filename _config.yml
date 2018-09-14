@@ -6,7 +6,7 @@ collections:
     title: Actualités
     output: true
     Data:
-      address_ref:
+      address_ref: 
   communiques:
     title: Communiqués
     output: true
@@ -31,12 +31,12 @@ defaults:
     is_une: true
     categories:
     - Article
-    chapeau-text:
+    chapeau-text: 
     une-ou-diaporama:
-    - image:
-      legende:
-      alternative-textuelle:
-    auteur:
+    - image: 
+      legende: 
+      alternative-textuelle: 
+    auteur: 
     permalink: "/actualites/:title/"
 - scope:
     path: ''
@@ -47,11 +47,11 @@ defaults:
     permalink: "/espace-presse/:title/"
     categories:
     - Communiqué de presse
-    chapeau-text:
+    chapeau-text: 
     une-ou-diaporama:
-    - image:
-      legende:
-      alternative-textuelle:
+    - image: 
+      legende: 
+      alternative-textuelle: 
     contact-presse:
       name: Rachel Wadoux
       tel:
@@ -106,33 +106,30 @@ highlighter: rouge
 algolia:
   application_id: OCGRURLBFM
   index_name: jekyll-dinsic
-  nodes_to_index: 'p,li,blockquote'
+  nodes_to_index: p,li,blockquote
   extensions_to_index:
-    - md
-    - markdown
+  - md
+  - markdown
   files_to_exclude:
-    - _pages/index.md
-    - _pages/algolia.md
-    - _pages/espace-presse.md
-    - _pages/actualites.md
-    - _pages/rechercher.md
+  - _pages/index.md
+  - _pages/algolia.md
+  - _pages/espace-presse.md
+  - _pages/actualites.md
+  - _pages/rechercher.md
   settings:
     searchableAttributes:
-      - unordered(title)
-      - ordered(headings)
-      - unordered(chapeau-text)
-      - unordered(content)
-      - unordered(collection,categories,tags)
-    highlightPreTag: '<mark>'
-    highlightPostTag: '</mark>'
+    - unordered(title)
+    - ordered(headings)
+    - unordered(chapeau-text)
+    - unordered(content)
+    - unordered(collection,categories,tags)
+    highlightPreTag: "<mark>"
+    highlightPostTag: "</mark>"
     attributesToHighlight:
-      - title
-      - heading
-      - content
-      - chapeau-text
+    - title
+    - heading
+    - content
+    - chapeau-text
     attributesToSnippet:
-      - content:20
-      - chapeau-text:20
-
-
-
+    - content:20
+    - chapeau-text:20

@@ -15,7 +15,7 @@ chapeau: L’intelligence artificielle (IA) est un enjeu d’avenir. Avec AI for
   et financier. Le Secrétariat général pour l'investissement (SGPI) coordonne l’ensemble
   du PIA.
 une-ou-diaporama:
-  - image: "/uploads/Le-gouvernement-lance-l’experimentation-de-l’intelligence-artificielle-dans-l’administration.jpeg"
+- image: "/uploads/Le-gouvernement-lance-l’experimentation-de-l’intelligence-artificielle-dans-l’administration.jpeg"
 ---
 
 Destiné aux opérateurs directs de services publics au niveau de l’État (ministère, opérateur national, etc.), cet AMI
