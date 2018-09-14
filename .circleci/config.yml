@@ -76,7 +76,6 @@ jobs:
 
       - run:
           name: Yarn build
-          command: yarn build-dev
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ] || [ "${CIRCLE_BRANCH}" == "siteleaf" ]; then
               yarn build
