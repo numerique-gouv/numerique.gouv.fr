@@ -7,7 +7,7 @@ jobs:
       - run:
         name: test
         command: |
-          echo {{ CIRCLE_PR_REPONAME }}
+          echo ${ CIRCLE_PR_REPONAME }
       - restore_cache:
           name: Restore Git Cache
           keys:
