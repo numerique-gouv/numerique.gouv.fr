@@ -4,6 +4,11 @@ jobs:
     docker:
       - image: starefossen/ruby-node:latest
     steps:
+      - run:
+          name: test
+          command: |
+            echo $CIRCLE_REPOSITORY_URL
+
       - restore_cache:
           name: Restore Git Cache
           keys:
@@ -71,7 +76,6 @@ jobs:
 
       - run:
           name: Yarn build
-          command: yarn build-dev
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ] || [ "${CIRCLE_BRANCH}" == "siteleaf" ]; then
               yarn build
@@ -166,7 +170,7 @@ jobs:
 
 workflows:
   version: 2
-  build_and_deploy:
+  build_test_deploy:
     jobs:
       - build
       - test-html:
@@ -179,10 +183,6 @@ workflows:
           requires:
             - test-html
             - test-js
-      - hold:
-          type: approval
-          requires:
-            - deploy
 
 
 
