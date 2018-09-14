@@ -5,7 +5,6 @@ date: 2018-06-20 00:00:00 +02:00
 communique_file: uploads/CP_FTAP_laureats_DINSIC_20062018.pdf
 une-ou-diaporama:
 - image: "/uploads/Fonds_pour_la_transformation_de_laction_publique.png"
-
 ---
 
 Investir pour réformer l’État. C’est l’objectif du « Fonds pour la transformation de l’action publique » mis en place au titre du Grand plan d’investissement annoncé par le Premier ministre le 25 septembre 2017. Doté de 700 millions
