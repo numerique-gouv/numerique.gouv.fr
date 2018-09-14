@@ -5,9 +5,9 @@ jobs:
       - image: starefossen/ruby-node:latest
     steps:
       - run:
-        - name: test
-          command: |
-            echo {{ CIRCLE_PR_REPONAME }}
+        name: test
+        command: |
+          echo {{ CIRCLE_PR_REPONAME }}
       - restore_cache:
           name: Restore Git Cache
           keys:
