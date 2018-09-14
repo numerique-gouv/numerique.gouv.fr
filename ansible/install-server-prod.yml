@@ -15,6 +15,7 @@
 
   roles:
     - common
+    - ansible-role-certbot
     - ansible-role-nginx
 
   tasks:
