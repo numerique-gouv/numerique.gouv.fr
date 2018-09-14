@@ -18,6 +18,9 @@ Vous pouvez nous aider à améliorer l'accessibilité du site en nous signalant 
 Si vous constatiez un défaut d'accessibilité vous empêchant d'accéder à un contenu ou une fonctionnalité du site, que vous nous le signaliez et que vous ne parveniez pas à obtenir une réponse rapide de notre part, vous êtes en droit de faire parvenir vos doléances ou demande de saisine à :
 
 **Le défenseur des droits**
-7 rue Saint-Florentin 75409 Paris cedex 08
+Par courrier gratuit, sans affranchissement
+Défenseur des droits
+Libre réponse 71120
+75342 Paris CEDEX 07
 Téléphone : 09 69 39 00 00
-Contacter le défenseur des droits via le formulaire en ligne.
+ou via [le formulaire en ligne](target="_blank" https://www.defenseurdesdroits.fr/fr/contactez-nous).
