@@ -42,5 +42,3 @@ https://github.com/geerlingguy/ansible-role-php`
 1. Branche dev pour les developpement courant
 2. Branche siteleaf pour la compatibilité avec le CRM
 3. Branche master (CI)
-
-merge
