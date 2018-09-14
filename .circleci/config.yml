@@ -7,7 +7,7 @@ jobs:
       - run:
           name: test
           command: |
-            echo "$CIRCLE_PR_REPONAME"
+            echo $CIRCLE_BRANCH
 
       - restore_cache:
           name: Restore Git Cache
