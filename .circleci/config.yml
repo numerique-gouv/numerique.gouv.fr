@@ -113,14 +113,7 @@ jobs:
 
       - deploy:
           name: Deploy on OVH
-          command: |
-            if [ "${CIRCLE_BRANCH}" == "master" ]; then
-              echo "Not yet develop"
-            elif [ "${CIRCLE_BRANCH}" == "development" ] || [ "${CIRCLE_BRANCH}" == "siteleaf" ]; then
-              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST:/var/www/html/
-            else
-              echo "Not development branch, dry run only"
-            fi
+          command: deploy.sh
   test-js:
     docker:
       - image: starefossen/ruby-node:latest
@@ -166,8 +159,9 @@ jobs:
 
 workflows:
   version: 2
-  build_and_deploy:
+  build_test_deploy:
     jobs:
+      - deploy
       - build
       - test-html:
           requires:
@@ -179,10 +173,6 @@ workflows:
           requires:
             - test-html
             - test-js
-      - hold:
-          type: approval
-          requires:
-            - deploy
 
 
 
