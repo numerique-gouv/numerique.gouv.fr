@@ -13,25 +13,30 @@ layout: default
       <div class="grid-container">
         <div class="grid-x grid-margin-x">
           {% for ministere in page.ministeres %}
-          <div class="cell large-4 medium-6 small-12">
+          <div class="cell large-4 medium-6 small-12 flex-container flex-dir-column margin-bottom-3">
             <div class="object-fit__image-container index-image-container">
-              <img src="/assets/image-test1.jpg" alt="photo du " class="object-fit__featured-image">
+              <img src="{{ base }}{{ ministere.image }}" alt="photo du " class="object-fit__featured-image">
             </div>
-            <h2 class="titles">{{ ministere.titre }}</h2>
+            <h2 class="titles h3">{{ ministere.titre }}</h2>
             {% for annee in ministere.annees %}
             <div class="date-avis">{{ annee.date }}</div>
             <ul class="list-avis no-bullet">
               {% for avis-conforme in annee.avis %}
               <li>
-                <div class="titles">{{ avis-conforme.titre }}</div>
-                <div class="avis-item">
-                  {{ avis-conforme.description }}
-                </div>
-                <a class="avis-item" id="fileSize-{{ avis-conforme.pdf | replace: ' ', '' }}" href="{{base}}/{{ avis-conforme.pdf }}">( pdf - </a>
+                <a class="black-link" id="fileSize-{{ avis-conforme.pdf | replace: ' ', '' }}" href="{{base}}{{ avis-conforme.pdf }}">
+                  <div class="titles h4 margin-bottom-0">
+                    {{ avis-conforme.titre }}
+                  </div>
+                  <div class="avis-item">
+                    {{ avis-conforme.description }}
+                  </div>
+                  <span class="avis-item pdf">(pdf - </span>
+                </a>
               </li>
               {% endfor %}
             </ul>
             {% endfor %}
+            <hr class="blue-hr margin-top-auto">
           </div>
           {% endfor %}
         </div>
