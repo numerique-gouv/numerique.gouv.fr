@@ -12,6 +12,7 @@ chapeau-text: La transformation numérique de l’Etat se dépeint à nouveau à
 une-ou-diaporama:
 - image: "/uploads/revue_de_details.jpg"
 ---
+
 Comme elle en a désormais coutume tous les 4 mois depuis fin 2016, la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) publie une nouvelle version actualisée de son panorama des grands projets SI de l’Etat. Cet outil permet au gouvernement d’en suivre le bon déroulement, d’identifier et de rectifier les éventuelles dérives budgétaires et calendaires.
 
 Cette 5e édition passe en revue **61 grands projets informatiques** en cours de développement ou de déploiement au sein des ministères, représentant un coût complet total de **2,83 milliards d’euros**. En conformité avec [Mareva 2](http://references.modernisation.gouv.fr/mareva2-cest-quoi){: target="_blank"}, la méthode interministérielle d'analyse de la valeur des projets SI, ce coût complet intègre, pour chaque projet, les coûts des prestations externalisées et des ressources internes mobilisées, ainsi qu’une projection des coûts de deux années de plein fonctionnement.

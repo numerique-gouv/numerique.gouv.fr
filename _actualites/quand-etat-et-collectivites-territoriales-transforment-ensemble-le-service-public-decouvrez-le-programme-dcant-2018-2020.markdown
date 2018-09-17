@@ -18,6 +18,7 @@ une-ou-diaporama:
   alternative-textuelle: 'DCANT 2018-2020 : passage à l''échelle, socle commun partagé,
     gouvernance partagée, approche globale de la donnée'
 ---
+
 **Une nouvelle manière de travailler entre État et collectivités**
 
 Pendant plusieurs mois, associations d’élus et représentants des services de l’État se sont réunis autour d’une même table avec un objectif : élaborer et écrire ensemble leur stratégie commune de transformation numérique pour les 3 prochaines années : **le programme DCANT**. « Coconstruction, participation et collaboration » sont pour Atte Oksannen, de l’association des Petites Villes de France, les 3 mots qui résument le mieux l’élaboration de ce programme. Sa particularité ? Un mode de gouvernance basé sur **la coconstruction, la confiance et la responsabilité** entre État et collectivités territoriales.

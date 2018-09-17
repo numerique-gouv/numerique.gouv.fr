@@ -1,5 +1,5 @@
 [dev]
-test-dinsic.fr
+test-dinsic.fr domain=test-dinsic.fr
 
 [prod]
-vps582487.ovh.net
+vps582487.ovh.net domain=numerique.gouv.fr

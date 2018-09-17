@@ -7,6 +7,9 @@ chapeau-text: L’administrateur général des données (AGD), Henri Verdier, a 
   mardi 10 avril son rapport 2016-2017, intitulé « La donnée comme infrastructure
   essentielle », au secrétaire d’État auprès du Premier ministre chargé du Numérique,
   Mounir Mahjoubi.
+une-ou-diaporama:
+- image: "/uploads/Une_2e_promotion_dEIGentre_dans_ladministration.png"
+  alternative-textuelle: Une seconde génération d'entrepreneur
 ---
 
 Lancé en janvier 2017, le programme « Entrepreneur.e d’intérêt général » (EIG) ouvre l’administration à des talents du

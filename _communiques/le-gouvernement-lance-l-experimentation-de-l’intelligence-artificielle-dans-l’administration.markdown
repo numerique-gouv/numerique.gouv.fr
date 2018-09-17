@@ -3,7 +3,6 @@ title: Le gouvernement lance l’expérimentation de l’intelligence artificiel
   l’administration
 date: 2018-06-14 00:00:00 +02:00
 communique_file: uploads/cp_ami_ia_ditp_dinsic_0.pdf
-image: uploads/Le-gouvernement-lance-l’experimentation-de-l’intelligence-artificielle-dans-l’administration.jpeg
 chapeau: L’intelligence artificielle (IA) est un enjeu d’avenir. Avec AI for humanity,
   lancé en mars 2017, le gouvernement souhaite que l’État se saisisse pleinement du
   potentiel de l’IA et l’intègre dans la conduite de ses missions, pour un meilleur
@@ -15,6 +14,8 @@ chapeau: L’intelligence artificielle (IA) est un enjeu d’avenir. Avec AI for
   publics. La Caisse des dépôts et consignations (CDC) en est l’opérateur administratif
   et financier. Le Secrétariat général pour l'investissement (SGPI) coordonne l’ensemble
   du PIA.
+une-ou-diaporama:
+- image: "/uploads/Le-gouvernement-lance-l’experimentation-de-l’intelligence-artificielle-dans-l’administration.jpeg"
 ---
 
 Destiné aux opérateurs directs de services publics au niveau de l’État (ministère, opérateur national, etc.), cet AMI
