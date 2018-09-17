@@ -17,18 +17,17 @@ layout: default
             <div class="object-fit__image-container index-image-container">
               <img src="/assets/image-test1.jpg" alt="photo du " class="object-fit__featured-image">
             </div>
-            <h2 class="titles">{{ ministere.nom }}</h2>
+            <h2 class="titles">{{ ministere.titre }}</h2>
             {% for annee in ministere.annees %}
             <div class="date-avis">{{ annee.date }}</div>
             <ul class="list-avis no-bullet">
-              {% for avis-conforme in annee.avis-conformes %}
+              {% for avis-conforme in annee.avis %}
               <li>
-                {{ avis-conforme.date }}
                 <div class="titles">{{ avis-conforme.titre }}</div>
                 <div class="avis-item">
                   {{ avis-conforme.description }}
                 </div>
-                <a class="avis-item" id="fileSize-{{ avis-conforme.url | replace: ' ', '' }}" href="{{base}}/{{ page.communique_file }}">( pdf - </a>
+                <a class="avis-item" id="fileSize-{{ avis-conforme.pdf | replace: ' ', '' }}" href="{{base}}/{{ avis-conforme.pdf }}">( pdf - </a>
               </li>
               {% endfor %}
             </ul>
