@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div id="espace-presse" role="main">
+  <div class="object-fit__image-container">
+    <img class="object-fit__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
+  </div>
+  <a id="content" tabindex="-1"></a>
+  <div class="gray-background padding-vertical-2">
+    <section class="max-width-75 avis-container">
+      <h1 class="text-center margin-vertical-3 blue-gradient-underline font-bold" >{{ page.title }}</h1>
+      <div class="grid-container">
+        <div class="grid-x grid-margin-x">
+          {% for ministere in page.ministeres %}
+          <div class="cell large-4 medium-6 small-12">
+            <div class="object-fit__image-container index-image-container">
+              <img src="/assets/image-test1.jpg" alt="photo du " class="object-fit__featured-image">
+            </div>
+            <h2 class="titles">{{ ministere.nom }}</h2>
+            {% for annee in ministere.annees %}
+            <div class="date-avis">{{ annee.date }}</div>
+            <ul class="list-avis no-bullet">
+              {% for avis-conforme in annee.avis-conformes %}
+              <li>
+                {{ avis-conforme.date }}
+                <div class="titles">{{ avis-conforme.titre }}</div>
+                <div class="avis-item">
+                  {{ avis-conforme.description }}
+                </div>
+                <a class="avis-item" id="fileSize-{{ avis-conforme.url | replace: ' ', '' }}" href="{{base}}/{{ page.communique_file }}">( pdf - </a>
+              </li>
+              {% endfor %}
+            </ul>
+            {% endfor %}
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  </div>
+</div>

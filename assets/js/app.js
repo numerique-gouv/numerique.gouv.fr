@@ -68,7 +68,7 @@ if ( ! Modernizr.objectfit ) {
   });
 }
 
-const $elements = $("[id^='communiqueSize-']");
+const $elements = $("[id^='fileSize-']");
 $elements.each(function () {
   const that = this;
   fetch($(this).attr("href")).then(function (response) {
