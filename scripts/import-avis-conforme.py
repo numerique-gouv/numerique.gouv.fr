@@ -50,7 +50,7 @@ for ministere in ministeres:
             res_avis.append(res_avi)
 
         res_avis_annee = {
-          "annee" : res_annee,
+          "date" : res_annee,
           "avis" : res_avis
         }
         res_annees.append(res_avis_annee)
