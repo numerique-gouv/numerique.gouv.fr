@@ -1,0 +1,246 @@
+- annees:
+  - annee: '2017'
+    avis:
+    - nom: SEGUR Phase 2
+      pdf: ../_uploads/segur_phase_2_art_3.pdf
+      text: "mise \xE0 disposition des moyens informatiques, r\xE9seaux et de t\xE9\
+        l\xE9communication du futur site de S\xE9gur-Fontenoy"
+  - annee: '2016'
+    avis:
+    - nom: SEGUR
+      pdf: ../_uploads/segur_art_3.pdf
+      text: "mise \xE0 disposition des moyens informatiques, r\xE9seaux et de t\xE9\
+        l\xE9communication du site de S\xE9gur-Fontenoy"
+  - annee: '2015'
+    avis:
+    - nom: "MSP - Usine \xE0 d\xE9marche"
+      pdf: ../_uploads/msp_avis.pdf
+      text: "Nouvel espace num\xE9rique personnalis\xE9 avec l'administration"
+  - annee: '2013'
+    avis:
+    - nom: VITAM
+      pdf: ../_uploads/vitam_art_7.pdf
+      text: "syst\xE8me archivistique"
+    - nom: SCOP
+      pdf: ../_uploads/scop_art_7.pdf
+      text: SI de gestion comptable et commercial de la DILA
+  image: ../assets/img/avis-conformes/premierministre-matignon_ok_0.jpg
+  titre: Services du Premier ministre
+- annees:
+  - annee: '2017'
+    avis:
+    - nom: Rocade
+      pdf: ../_uploads/rocade_art_3.pdf
+      text: "Gestion du recouvrement forc\xE9 des amendesforfaitaires major\xE9es"
+  - annee: '2016'
+    avis:
+    - nom: CCSP - DESTA
+      pdf: ../_uploads/ccsp_2016_art_3.pdf
+      text: Commission du contentieux du stationnement payant
+    - nom: CCSP
+      pdf: ../_uploads/ccsp_art_3.pdf
+      text: Commission du contentieux du stationnement payant
+  - annee: '2015'
+    avis:
+    - nom: France Visas
+      pdf: ../_uploads/francevisas_art_3_vf.pdf
+      text: "Traitement d\xE9mat\xE9rialis\xE9 des demandes de visas"
+    - nom: Solde Gendarmerie
+      pdf: ../_uploads/solde_gendarmerie_art_3.pdf
+      text: "Outil de gestion de la pr\xE9-liquidation de la solde"
+  image: ../assets/img/avis-conformes/ministeredeinterieur1_ok_0.jpg
+  titre: "Minist\xE8re de l'Int\xE9rieur"
+- annees:
+  - annee: '2016'
+    avis:
+    - nom: Geoportail - IGN
+      pdf: ../_uploads/geoportail_de_lign_art_3.pdf
+      text: "Adaptation technique de la plate-forme d'h\xE9bergement en charge de\
+        \ la diffusion des donn\xE9es g\xE9ographiques"
+  - annee: '2014'
+    avis:
+    - nom: GUL
+      pdf: ../_uploads/garantie_universelle_des_loyers_art_7.pdf
+      text: Garantie Universelle des Loyers
+  image: ../assets/img/avis-conformes/ministere-cohesion-territoires_ok.jpg
+  titre: "Minist\xE8re de la Coh\xE9sion des territoiresMinist\xE8re de la Transition\
+    \ \xE9cologique et solidaire"
+- annees:
+  - annee: '2015'
+    avis:
+    - nom: PORTALIS
+      pdf: ../_uploads/portalis_art_3.pdf
+      text: "D\xE9mat\xE9rialisation des processus et des \xE9changesavec le justiciable"
+  - annee: '2013'
+    avis:
+    - nom: Casier judiciaire
+      pdf: ../_uploads/casier_judiciaire_art_7.pdf
+      text: Refonte du casier judiciaire national
+  image: ../assets/img/avis-conformes/ministeredelajustice_ok.jpg
+  titre: "Minist\xE8re de la Justice"
+- annees:
+  - annee: '2017'
+    avis:
+    - nom: CROCUS V2
+      pdf: ../_uploads/crocus_v2_art_3.pdf
+      text: "Comptabilisation des d\xE9penses et recettes de l\u2019ensembledes services\
+        \ de l\u2019Etat \xE0 l\u2019\xE9tranger"
+  - annee: '2016'
+    avis:
+    - nom: CROCUS
+      pdf: ../_uploads/crocus_art_3.pdf
+      text: "Comptabilisation des d\xE9penses et recettes de l\u2019ensembledes services\
+        \ de l\u2019Etat \xE0 l\u2019\xE9tranger"
+  - annee: '2012'
+    avis:
+    - nom: Diplomatie
+      pdf: ../_uploads/diplomatie_art_7.pdf
+      text: "Projet de portail interminist\xE9rielde la correspondance diplomatique"
+  image: ../assets/img/avis-conformes/ministereaffairesetrangeres2._ok.jpg
+  titre: "Minist\xE8re de l'Europe et des Affaires \xE9trang\xE8res"
+- annees:
+  - annee: '2016'
+    avis:
+    - nom: Source Web
+      pdf: ../_uploads/sourceweb_art_3.pdf
+      text: "Gestion RH de proximit\xE9 en soutien de groupementde base de d\xE9fense"
+  - annee: '2015'
+    avis:
+    - nom: Source Solde
+      pdf: ../_uploads/source_solde_art_3.pdf
+      text: "gestion de la solde des agents militairesrelevant du minist\xE8re"
+  - annee: '2013'
+    avis:
+    - nom: SOURCE
+      pdf: ../_uploads/source_art_7.pdf
+      text: Gestion des Ressources humaines
+  - annee: '2012'
+    avis:
+    - nom: ARES
+      pdf: ../_uploads/ares_art_7.pdf
+      text: "SI logistique du service du commissariat aux arm\xE9es"
+    - nom: SILICIUM
+      pdf: ../_uploads/silicium_art_7.pdf
+      text: SI logistique de la DIRISI
+  image: ../assets/img/avis-conformes/ministeredesarmees_ok.jpg
+  titre: "Minist\xE8re des Arm\xE9es"
+- annees:
+  - annee: '2016'
+    avis:
+    - nom: "Compte personnel d'activit\xE9"
+      pdf: ../_uploads/cpa_art_3.pdf
+      text: CPA
+    - nom: SI SAMU
+      pdf: ../_uploads/si_samu_art_3.pdf
+      text: "Fiabilisation et s\xE9curisation du SI et des moyensde t\xE9l\xE9communications\
+        \ utilis\xE9s par les servicesd'aide m\xE9dicale urgente"
+  - annee: '2015'
+    avis:
+    - nom: RSU
+      pdf: ../_uploads/rsu_art_3.pdf
+      text: "R\xE9f\xE9rentiel unifi\xE9 de description de l'offre sanitaire, m\xE9\
+        dico-sociale et sociale"
+  - annee: '2014'
+    avis:
+    - nom: Compte personnel de formation
+      pdf: ../_uploads/cpf_art_7.pdf
+      text: CPF
+  - annee: '2013'
+    avis:
+    - nom: Accord-cadre pour les environnements bureautiques
+      pdf: ../_uploads/mass_micr_art7_2.pdf
+      text: "Maintien en condition op\xE9rationnelledes produits Microsoft"
+  image: ../assets/img/avis-conformes/ministeredesaffairessocialesetsante_ok.jpg
+  titre: "Minist\xE8re des Solidarit\xE9s et de la Sant\xE9Minist\xE8re des SportsMinist\xE8\
+    re DU TRAVAIL"
+- annees:
+  - annee: '2017'
+    avis:
+    - nom: "Pr\xE9l\xE8vement \xE0 la source"
+      pdf: ../_uploads/pas_art_3.pdf
+      text: PAS
+  - annee: '2016'
+    avis:
+    - nom: Mistral
+      pdf: ../_uploads/mistral_art_3.pdf
+      text: "Modernisation des applicatifs de service bancairedu Tr\xE9sor Public"
+  - annee: '2015'
+    avis:
+    - nom: Outil de gestion des contrats immobiliers
+      pdf: ../_uploads/ogci_art_3.pdf
+      text: OGCI
+    - nom: CHORUS Portail
+      pdf: ../_uploads/chorus_portail_pro_art_3.pdf
+      text: "d\xE9veloppement de la facturation"
+  - annee: '2014'
+    avis:
+    - nom: "R\xE9novation Douanes"
+      pdf: ../_uploads/cid_art_7.pdf
+      text: refonte de site
+  - annee: '2013'
+    avis:
+    - nom: SRE
+      pdf: ../_uploads/sre_art_7.pdf
+      text: "Portail des usagers du r\xE9gime de retraite de l'Etat"
+  - annee: '2011'
+    avis:
+    - nom: CHORUS INFRA
+      pdf: ../_uploads/chorus_infra_art_7.pdf
+      text: Transfert et renouvellement de l'architecture
+  image: ../assets/img/avis-conformes/ministereeconomie_ok.jpg
+  titre: "Minist\xE8re de l'\xC9conomie et des FinancesMinist\xE8re de l'Action et\
+    \ des Comptes publics"
+- annees:
+  - annee: '2016'
+    avis:
+    - nom: ADAMANT
+      pdf: ../_uploads/adamant_art_3.pdf
+      text: "Administration des Archives et de leurs M\xE9tadonn\xE9es aux Archives\
+        \ Nationales dans le Temps"
+  image: ../assets/img/avis-conformes/ministere_de_la_culture_0.jpg
+  titre: "Minist\xE8re de la Culture"
+- annees:
+  - annee: '2016'
+    avis:
+    - nom: SIRHEN
+      pdf: ../_uploads/sirhen_art_3.pdf
+      text: "Refonte de l'\xE9cosyst\xE8me du SI en charge de la gestiondes ressources\
+        \ humaines du minist\xE8re en chargede l'Education nationale"
+    - nom: SI PAIE EPLE 2016
+      pdf: ../_uploads/si_paie_en_eple_2016.pdf
+      text: "refonte d'une application de paie existante d'\xE9tablissements publics\
+        \ local d'enseignement"
+  - annee: '2015'
+    avis:
+    - nom: SI PAIE EPLE 2015
+      pdf: ../_uploads/si_paie_eple_art_3_2015.pdf
+      text: "gestion d'op\xE9rations de paie dans des structures implant\xE9es en\
+        \ \xE9tablissement public local d'enseignement pour des cat\xE9gories de personnels\
+        \ sp\xE9cifiques"
+  - annee: '2012'
+    avis:
+    - nom: CYCLADES
+      pdf: ../_uploads/cyclades_art_7.pdf
+      text: Refonte de l'application de gestiondes concours et examens
+  image: ../assets/img/avis-conformes/ministeredeleducationnationale_ok_0.jpg
+  titre: "Minist\xE8re de l'\xC9ducation nationaleMinist\xE8re de l'Enseignement sup\xE9\
+    rieur, de la Recherche et de l'Innovation"
+- annees:
+  - annee: '2014'
+    avis:
+    - nom: SIRENA
+      pdf: ../_uploads/sirena_art_3.pdf
+      text: "Programme de r\xE9novation du SI de l'enseignement agricole"
+    - nom: RESYTAL
+      pdf: ../_uploads/resytal_art_7.pdf
+      text: "Refonte du Syst\xE8me d'information de la direction g\xE9n\xE9rale de\
+        \ l'alimentation"
+  - annee: '2013'
+    avis:
+    - nom: Expadon 2
+      pdf: ../_uploads/expadon2_art_7.pdf
+      text: "Gestion d\xE9mat\xE9rialis\xE9e de l\u2019ensemble des obligations sanitaires\
+        \ et phytosanitaires (SPS) n\xE9cessaires \xE0 l\u2019exportation des produits\
+        \ agricoles et agroalimentaires"
+  image: ../assets/img/avis-conformes/ministeredelagriculture_ok.jpg
+  titre: "Minist\xE8re de l'Agriculture et de l'Alimentation"

@@ -2,10 +2,16 @@ import os
 import csv
 import requests
 from bs4 import BeautifulSoup
+import pprint
+import yaml
 
-requete = requests.get("http://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/projets-informatiques-de-letat-avis-conformes-emis-par-la-dinsic")
+base_url="http://www.modernisation.gouv.fr"
+page_relative_url="/outils-et-methodes-pour-transformer/projets-informatiques-de-letat-avis-conformes-emis-par-la-dinsic"
+
+requete = requests.get(base_url+page_relative_url)
+print requete.encoding
 page = requete.content
-soup = BeautifulSoup(page, 'lxml')
+soup = BeautifulSoup(page, "lxml")
 avis = soup.select("#node-198118 > div.contenu-node > div.contenu-node-inner.wrapper.clearfix > div > div > div > div > div")
 
 res_ministeres = []
@@ -14,7 +20,12 @@ ministeres = avis[1].findChildren("div" , recursive=False)
 for ministere in ministeres:
 
     res_titre = ministere.h4.text
-    res_image =  ministere.p.img['src']
+    url_image=ministere.p.img['src']
+    res_image =  "../assets/img/avis-conformes/"+url_image.split("/").pop()
+    requete = requests.get(base_url+url_image, stream=True)
+    file_image = open(res_image, 'w')
+    file_image.write(requete.content)
+    file_image.close()
     annees = ministere.findChildren("div" , recursive=False)
     res_annees = []
 
@@ -23,9 +34,16 @@ for ministere in ministeres:
         avis = annee.findChildren("div" , recursive=False)
         res_avis = []
         for avi in avis:
-            res_pdf = avi.a['href']
-            res_text = avi.a.text
+            url_pdf = avi.a['href']
+            res_pdf =  "../_uploads/"+url_pdf.split("/").pop()
+            requete = requests.get(base_url+url_pdf, stream=True)
+            file_pdf = open(res_pdf, 'w')
+            file_pdf.write(requete.content)
+            file_pdf.close()
+            res_nom,res_text = avi.a.text.split("(", 1)
+            res_text = res_text[:-1]
             res_avi = {
+              "nom":res_nom,
               "pdf":res_pdf,
               "text":res_text
             }
@@ -44,8 +62,12 @@ for ministere in ministeres:
     }
     res_ministeres.append(res_ministere)
 
-print(res_ministeres)
+#pprint.pprint(res_ministeres)
 
+
+fichier = open('nom_fichier.yml', "w")
+fichier.write(yaml.safe_dump(res_ministeres, default_flow_style=False, encoding=('utf-8')))
+fichier.close()
 
 
 
