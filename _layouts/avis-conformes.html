@@ -23,7 +23,7 @@ layout: default
             <ul class="list-avis no-bullet">
               {% for avis-conforme in annee.avis %}
               <li>
-                <a class="black-link" id="fileSize-{{ avis-conforme.pdf | replace: ' ', '' }}" href="{{base}}{{ avis-conforme.pdf }}">
+                <a class="black-link" id="fileSize-{{ avis-conforme.pdf | replace: ' ', '' }}" target="_blank" href="{{base}}{{ avis-conforme.pdf }}">
                   <div class="titles h4 margin-bottom-0">
                     {{ avis-conforme.titre }}
                   </div>

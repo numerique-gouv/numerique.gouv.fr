@@ -23,4 +23,4 @@ Défenseur des droits
 Libre réponse 71120
 75342 Paris CEDEX 07
 Téléphone : 09 69 39 00 00
-ou via [le formulaire en ligne](target="_blank" https://www.defenseurdesdroits.fr/fr/contactez-nous).
+ou via [le formulaire en ligne](target="_blank"https://www.defenseurdesdroits.fr/fr/contactez-nous).
