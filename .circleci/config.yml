@@ -4,10 +4,6 @@ jobs:
     docker:
       - image: starefossen/ruby-node:latest
     steps:
-      - run:
-          name: test
-          command: |
-
       - restore_cache:
           name: Restore Git Cache
           keys:
