@@ -1,7 +1,7 @@
 ---
 title: 'Projets informatiques de l''Etat : retrouvez l''ensemble des avis conformes
   émis par la DINSIC'
-permalink: "/avis-conformes/"
+permalink: "/publications/avis-conformes/"
 layout: avis-conformes
 une:
   image: "/assets/img/main/image_avis_conformes.jpg"
