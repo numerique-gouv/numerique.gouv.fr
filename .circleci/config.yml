@@ -177,9 +177,15 @@ workflows:
       - test-html:
           requires:
             - build
+          branches:
+              ignore:
+                - preproduction
       - test-js:
           requires:
             - build
+          branches:
+              ignore:
+                - preproduction
       - deploy:
           requires:
             - test-html
