@@ -13,6 +13,7 @@ chapeau-text: Vous êtes développeur•euse, designer•euse ou data scientist,
 une-ou-diaporama:
 - image: "/uploads/EIG3%20candidature-01.jpg"
   alternative-textuelle: Entrepreneur d'Intérêt général
+auteur: Depuis Etalab.gouv.fr
 ---
 
 Initié en janvier 2017 par la Présidence de la République, le [Programme Entrepreneur•e d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) consiste à recruter pour 10 mois des professionnels aux expertises numériques variées (développement, design, science des données), extérieurs à l’administration, afin de relever des défis liés à l’utilisation des données dans le secteur public et à la transformation numérique de l’État.
