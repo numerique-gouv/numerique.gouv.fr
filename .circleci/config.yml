@@ -118,7 +118,7 @@ jobs:
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
               echo "La bracnche master n'aboutie pas à un déploiment"
             elif [ "${CIRCLE_BRANCH}" == "development" ]; then
-              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_DEVELOPEMENT:/var/www/html/
+              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_DEVELOPMENT:/var/www/html/
             elif [ "${CIRCLE_BRANCH}" == "preproduction" ]; then
               rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_PREPRODUCTION:/var/www/html/
             elif [ "${CIRCLE_BRANCH}" == "production" ]; then
