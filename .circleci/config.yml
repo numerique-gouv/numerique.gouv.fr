@@ -171,7 +171,7 @@ jobs:
 
 workflows:
   version: 2
-  build_test_deploy:
+  build-test-and-deploy:
     jobs:
       - build
       - test-html:
@@ -179,19 +179,26 @@ workflows:
             - build
           filters:
             branches:
-                ignore:
-                  - preproduction
+              ignore:
+                - preproduction
       - test-js:
           requires:
             - build
           filters:
             branches:
-                ignore:
-                  - preproduction
+              ignore:
+                - preproduction
       - deploy:
           requires:
             - test-html
             - test-js
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only:
+                - preproduction
 
 
 
