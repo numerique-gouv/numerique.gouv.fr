@@ -175,23 +175,30 @@ workflows:
     jobs:
       - build
       - test-html:
-          requires:
-            - build
-          filters:
-            branches:
-                ignore:
-                  - preproduction
+        requires:
+          - build
+        filters:
+          branches:
+            ignore:
+              - preproduction
       - test-js:
-          requires:
-            - build
-          filters:
-            branches:
-                ignore:
-                  - preproduction
+        requires:
+          - build
+        filters:
+          branches:
+            ignore:
+              - preproduction
       - deploy:
-          requires:
-            - test-html
-            - test-js
+        requires:
+          - test-html
+          - test-js
+      - deploy:
+        requires:
+          - build
+        filters:
+          branches:
+            only:
+              - preproduction
 
 
 
