@@ -62,7 +62,8 @@ Pour les relever, EIG et mentors seront accompagnés par [une équipe dédiée a
 
 * **[PolyGraphe](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/polygraphe.html)** : détecter les faux avis pour garantir la confiance sur Internet, Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF), Ministère de l’Economie
 
-> **Pour déposer votre candidature, rendez-vous jusqu’au 15 octobre sur [l’espace de candidature du programme](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html).**
+> Pour déposer votre candidature, rendez-vous jusqu’au 15 octobre sur [l’espace de candidature du programme](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html).
+> {: .lien-important}
 
 ## Prochaines étapes : session d’information le 3 octobre et jury de sélection en novembre
 
