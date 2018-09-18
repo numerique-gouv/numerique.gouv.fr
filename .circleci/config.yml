@@ -116,7 +116,7 @@ jobs:
           name: Deploy on OVH
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
-              echo "La bracnche master n'aboutie pas à un déploiment"
+              echo "La branche master n'aboutie pas à un déploiment"
             elif [ "${CIRCLE_BRANCH}" == "development" ]; then
               rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_DEVELOPMENT:/var/www/html/
             elif [ "${CIRCLE_BRANCH}" == "preproduction" ]; then
