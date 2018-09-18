@@ -7,7 +7,7 @@ layout: page-annexe
 
 ## Cookies déposés et opt-out ##
 Ce site dépose un petit fichier texte (un « cookie ») sur votre ordinateur lorsque vous le consultez. Cela nous permet de mesurer le nombre de visites et de comprendre quelles sont les pages les plus consultées.
-<iframe style="border: 0; height: 200px; width: 600px;" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr"></iframe>
+<iframe style="border: 0; height: 200px; width: 600px;" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr&backgroundColor=&fontColor=&fontSize=1rem&fontFamily=%22Open%20Sans%22""></iframe>
 
 ## Ce site n’affiche pas de bannière de consentement aux cookies, pourquoi ? ##
 C’est vrai, vous n’avez pas eu à cliquer sur un bloc qui recouvre la moitié de la page pour dire que vous êtes d’accord avec le dépôt de cookies !
