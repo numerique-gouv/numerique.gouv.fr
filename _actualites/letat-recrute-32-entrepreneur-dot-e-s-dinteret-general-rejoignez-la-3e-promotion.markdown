@@ -11,7 +11,7 @@ chapeau-text: Vous êtes développeur•euse, designer•euse ou data scientist,
   avez envie de vous engager pour transformer le service public ? Rejoignez la 3e
   promotion du programme Entrepreneur•e d’Intérêt Général !
 une-ou-diaporama:
-- image: "/uploads/EIG3%20candidature-01.jpg"
+- image: "/uploads/EIG3-candidature-ok.png"
   alternative-textuelle: Entrepreneur d'Intérêt général
 auteur: Depuis Etalab.gouv.fr
 ---
