@@ -192,13 +192,6 @@ workflows:
           requires:
             - test-html
             - test-js
-      - deploy:
-          requires:
             - build
-          filters:
-            branches:
-              only:
-                - preproduction
-
 
 
