@@ -1,4 +1,8 @@
 ---
+title: "L’État recrute 32 entrepreneur.e.s d’intérêt général : rejoignez la 3e promotion!"
+date: 2018-09-18
+chapeau-text: |- 
+  Vous êtes développeur•euse, designer•euse ou data scientist, et vous
 title: 'L’État recrute 32 entrepreneur.e.s d’intérêt général : rejoignez la 3e promotion
   !'
 date: 2018-09-18 15:21:00 +02:00
