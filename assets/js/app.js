@@ -85,6 +85,12 @@ $('.icon-arrow-down').each(function ( index ) {
     Foundation.SmoothScroll.scrollToLoc(selector, {threshold: 50, offset: 0 }, null);
   })
 });
+$('.icon-arrow-down').each(function ( index ) {
+  const selector = '#principe' + (index + 2);
+  $( this ).click(function () {
+    Foundation.SmoothScroll.scrollToLoc(selector, {threshold: 50, offset: 0 }, null);
+  })
+});
 
 
 
