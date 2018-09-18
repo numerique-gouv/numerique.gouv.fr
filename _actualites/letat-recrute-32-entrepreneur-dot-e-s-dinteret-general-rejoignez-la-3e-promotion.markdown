@@ -11,7 +11,7 @@ Initié en janvier 2017 par la Présidence de la République, le [Programme Entr
 
 Le programme EIG lance aujourd’hui un appel à candidature pour recruter les 32 entrepreneur.e.s qui formeront la 3e promotion à partir de janvier 2019.
 
-> [Accéder à l’appel à candidature, ouvert jusqu’au 15 octobre 2018](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html)**
+> [Accéder à l’appel à candidature, ouvert jusqu’au 15 octobre 2018](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html)
 {: .lien-important}
 
 ## Être entrepreneur.e d’intérêt général : relever des défis techniques à fort impact pour le service public et les citoyens
