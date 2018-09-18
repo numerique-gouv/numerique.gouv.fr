@@ -72,7 +72,7 @@ jobs:
       - run:
           name: Yarn build
           command: |
-            if [ "${CIRCLE_BRANCH}" == "master" ] || [ "${CIRCLE_BRANCH}" == "siteleaf" ]; then
+            if [ "${CIRCLE_BRANCH}" == "prod" ] || [ "${CIRCLE_BRANCH}" == "preproduction" ]; then
               yarn build
             else
               yarn build-dev
@@ -97,7 +97,9 @@ jobs:
     machine:
         enabled: true
     environment:
-      - HOST: test-dinsic.fr
+      - HOST_PRODUCTION: test-dinsic.fr
+      - HOST_PREPRODUCTION: preprod.test-dinsic.fr
+      - HOST_DEVELOPMENT: dev.test-dinsic.fr
       - LOGIN: root
     steps:
       - attach_workspace:
@@ -114,11 +116,15 @@ jobs:
           name: Deploy on OVH
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
-              echo "Not yet develop"
-            elif [ "${CIRCLE_BRANCH}" == "development" ] || [ "${CIRCLE_BRANCH}" == "siteleaf" ]; then
-              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST:/var/www/html/
+              echo "La bracnche master n'aboutie pas à un déploiment"
+            elif [ "${CIRCLE_BRANCH}" == "development" ]; then
+              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_DEVELOPMENT:/var/www/html/
+            elif [ "${CIRCLE_BRANCH}" == "preproduction" ]; then
+              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_PREPRODUCTION:/var/www/html/
+            elif [ "${CIRCLE_BRANCH}" == "production" ]; then
+              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_PRODUCTION:/var/www/html/
             else
-              echo "Not development branch, dry run only"
+              echo "Not deploy branch, dry run only"
             fi
   test-js:
     docker:
@@ -165,19 +171,27 @@ jobs:
 
 workflows:
   version: 2
-  build_test_deploy:
+  build-test-and-deploy:
     jobs:
       - build
       - test-html:
           requires:
             - build
+          filters:
+            branches:
+              ignore:
+                - preproduction
       - test-js:
           requires:
             - build
+          filters:
+            branches:
+              ignore:
+                - preproduction
       - deploy:
           requires:
             - test-html
             - test-js
-
+            - build
 
 
