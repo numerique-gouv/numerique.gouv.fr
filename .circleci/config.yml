@@ -189,10 +189,16 @@ workflows:
               ignore:
                 - preproduction
       - deploy:
-        requires:
-          - test-html
-          - test-js
-
+          requires:
+            - test-html
+            - test-js
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only:
+                - preproduction
 
 
 
