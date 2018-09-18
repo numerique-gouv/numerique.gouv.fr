@@ -2,7 +2,7 @@
 title: Publications
 permalink: "/publications/"
 publications:
-- title: 'Projets informatiques de l''Etat : les avis conformes émis par la DINSIC'
+- title: 'Projets informatiques de l''État : les avis conformes émis par la DINSIC'
   url: "/publications/avis-conformes"
   une-ou-diaporama:
   - image: "/uploads/office-1209640_1920.jpg"
