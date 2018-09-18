@@ -2,6 +2,11 @@
 title: 'L’État recrute 32 entrepreneur.e.s d’intérêt général : rejoignez la 3e promotion
   !'
 date: 2018-09-18 15:21:00 +02:00
+tags:
+- Entrepreneur d'Intérêt Général
+- données publiques
+- data science
+- innovation
 chapeau-text: Vous êtes développeur•euse, designer•euse ou data scientist, et vous
   avez envie de vous engager pour transformer le service public ? Rejoignez la 3e
   promotion du programme Entrepreneur•e d’Intérêt Général !
