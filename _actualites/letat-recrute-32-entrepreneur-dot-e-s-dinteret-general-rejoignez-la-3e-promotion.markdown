@@ -25,6 +25,7 @@ Le programme EIG lance aujourd’hui un appel à candidature pour recruter les 3
 
 ## Être entrepreneur d’intérêt général : relever des défis techniques à fort impact pour le service public et les citoyens
 
+
 #### Devenir EIG, c’est se lancer dans une aventure unique au sein de l’administration
 
 Pour cette 3e promotion, [un jury d’experts a sélectionné ](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-3eme-promotion-decouvrez-les-15-defis-laureats)**[15 défis d’amélioration du service public](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-3eme-promotion-decouvrez-les-15-defis-laureats)** en lien avec les numérique et les données, lors d’un appel à projets lancé auprès des administrations de mai à juillet 2018. Il s’agit désormais de sélectionner les EIG qui intègreront ces administrations par équipes de 2 ou 3 afin de relever ces défis.
