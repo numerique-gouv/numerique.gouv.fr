@@ -4,11 +4,6 @@ jobs:
     docker:
       - image: starefossen/ruby-node:latest
     steps:
-      - run:
-          name: test
-          command: |
-            echo $CIRCLE_REPOSITORY_URL
-
       - restore_cache:
           name: Restore Git Cache
           keys:

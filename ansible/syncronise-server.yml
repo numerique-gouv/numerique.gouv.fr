@@ -1,5 +1,5 @@
 ---
-- hosts: dev
+- hosts: all
   remote_user: root
   tasks:
   - name: Synchronize _site to www folder

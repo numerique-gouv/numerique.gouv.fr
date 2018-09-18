@@ -1,12 +1,3 @@
-[dev]
 dev.test-dinsic.fr
-
-[preprod]
 preprod.test-dinsic.fr
-
-[prod]
 test-dinsic.fr
-
-
-
-
