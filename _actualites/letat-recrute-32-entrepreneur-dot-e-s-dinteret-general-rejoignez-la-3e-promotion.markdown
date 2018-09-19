@@ -14,6 +14,7 @@ une-ou-diaporama:
 - image: "/uploads/EIG3-candidature-ok.png"
   alternative-textuelle: Entrepreneur d'Intérêt général
 auteur: Depuis Etalab.gouv.fr
+
 ---
 
 Initié en janvier 2017 par la présidence de la République, le [Programme Entrepreneur.e d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) 
@@ -43,35 +44,35 @@ Pour les relever, EIG et mentors seront accompagnés par [une équipe dédiée a
 
 **Découvrez les défis et les profils recherchés sur [la page de l’appel à candidature :](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html)**
 
-* **[ACOSS Plateforme](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/acossplateforme.html)**[ ](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/acossplateforme.html): valoriser les données de l’Urssaf dans le sens d’une meilleure expérience utilisateur, Agence centrale des organismes de sécurité sociale
+* [ACOSS Plateforme](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/acossplateforme.html): valoriser les données de l’Urssaf dans le sens d’une meilleure expérience utilisateur, Agence centrale des organismes de sécurité sociale
 
-* **[ADLER](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/adler.html)**: détecter des comportements financiers illicites par l’analyse de réseaux, Ministère de l’action et des comptes publics
+* [ADLER](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/adler.html): détecter des comportements financiers illicites par l’analyse de réseaux, Ministère de l’action et des comptes publics
 
-* **[CartoBio](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cartobio.html)** : faciliter les démarches des acteurs de l’agriculture biologique en mettant à disposition les données pertinentes, Agence BIO, Ministère de la Transition écologique et solidaire
+* [CartoBio](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cartobio.html) : faciliter les démarches des acteurs de l’agriculture biologique en mettant à disposition les données pertinentes, Agence BIO, Ministère de la Transition écologique et solidaire
 
-* **[CibNav](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cibnav.html)** : aider les agents en charge de la sécurité maritime à contrôler des navires professionnels en développant un outil de ciblage, Direction des Affaires maritimes, Ministère de la transition écologique et solidaire
+* [CibNav](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/cibnav.html) : aider les agents en charge de la sécurité maritime à contrôler des navires professionnels en développant un outil de ciblage, Direction des Affaires maritimes, Ministère de la transition écologique et solidaire
 
-* **[DataJust](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datajust.html)**[ ](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datajust.html): assurer un traitement égalitaire des demandes d’indemnisation de préjudices corporels, Direction des affaires civiles du Sceau, Ministère de la Justice
+* [DataJust](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datajust.html): assurer un traitement égalitaire des demandes d’indemnisation de préjudices corporels, Direction des affaires civiles du Sceau, Ministère de la Justice
 
-* **[DataReg](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datareg.html)** : maximiser l’exploitation des données pour permettre aux régulateurs des communications électroniques de gagner en efficacité, Autorité de régulation des communications électroniques et des postes
+* [DataReg](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datareg.html) : maximiser l’exploitation des données pour permettre aux régulateurs des communications électroniques de gagner en efficacité, Autorité de régulation des communications électroniques et des postes
 
-* **[EIG Link](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/eiglink.html)** : accompagner le développement d’un outil collectif du numérique d’intérêt général au sein de l’État, Etalab
+* [EIG Link](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/eiglink.html) : accompagner le développement d’un outil collectif du numérique d’intérêt général au sein de l’État, Etalab
 
-* **[ExploCode](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/explocode.html)** : mettre l’intelligence artificielle au service de la lisibilité du droit du travail, Direction générale du travail
+* [ExploCode](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/explocode.html) : mettre l’intelligence artificielle au service de la lisibilité du droit du travail, Direction générale du travail
 
-* **[IA Flash](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/iaflash.html)** : fiabiliser le traitement automatisé des infractions routières, Ministère de l’Intérieur
+* [IA Flash](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/iaflash.html) : fiabiliser le traitement automatisé des infractions routières, Ministère de l’Intérieur
 
-* **[Karfu’R](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/karfur.html)**: valoriser les initiatives d’accueil et d’intégration des réfugiés et faciliter leurs démarches, Direction interministérielle pour l’accueil et l’intégration des réfugiés (DIAIR)
+* [Karfu’R](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/karfur.html): valoriser les initiatives d’accueil et d’intégration des réfugiés et faciliter leurs démarches, Direction interministérielle pour l’accueil et l’intégration des réfugiés (DIAIR)
 
-* **[LexImpact](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/leximpact.html)** : évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous, Direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC)
+* [LexImpact](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/leximpact.html) : évaluer l’impact de réformes socio-fiscales en développant des interfaces de simulation utilisables par tous, Direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC)
 
-* **[Open Chronic](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openchronic.html)** : améliorer la prise en charge des maladies chroniques grâce à une nouvelle base de données de santé, Direction de la recherche, des études, de l’évaluation et des statistiques, Ministère des Solidarités et de la Santé
+* [Open Chronic](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openchronic.html) : améliorer la prise en charge des maladies chroniques grâce à une nouvelle base de données de santé, Direction de la recherche, des études, de l’évaluation et des statistiques, Ministère des Solidarités et de la Santé
 
-* **[Open Justice](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openjustice.html)** : ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation et d’enrichissement des décisions de justice, Cour de cassation
+* [Open Justice](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/openjustice.html) : ouvrir la jurisprudence en développant des solutions fiables de pseudonymisation et d’enrichissement des décisions de justice, Cour de cassation
 
-* **[Plume](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/plume.html)** : faire entrer les juridictions financières dans le XXIe siècle, Cour des comptes
+* [Plume](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/plume.html) : faire entrer les juridictions financières dans le XXIe siècle, Cour des comptes
 
-* **[PolyGraphe](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/polygraphe.html)** : détecter les faux avis pour garantir la confiance sur Internet, Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF), Ministère de l’Economie
+* [PolyGraphe](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/polygraphe.html) : détecter les faux avis pour garantir la confiance sur Internet, Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF), Ministère de l’Economie
 
 > Pour déposer votre candidature, rendez-vous jusqu’au 15 octobre sur [l’espace de candidature du programme](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html).
 {: .lien-important}
