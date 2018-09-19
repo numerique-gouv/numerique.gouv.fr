@@ -10,6 +10,7 @@ layout: default
   <div class="gray-background padding-vertical-2">
     <section class="max-width-75 avis-container">
       <h1 class="text-center margin-vertical-3 blue-gradient-underline font-bold" >{{ page.title }}</h1>
+      {{ content }}
       <div class="grid-container">
         <div class="grid-x grid-margin-x">
           {% for ministere in page.ministeres %}
@@ -19,7 +20,7 @@ layout: default
             </div>
             <h2 class="titles h3">{{ ministere.titre }}</h2>
             {% for annee in ministere.annees %}
-            <div class="date-avis">{{ annee.date }}</div>
+            <div class="date-avis">{{ annee.date-annee }}</div>
             <ul class="list-avis no-bullet">
               {% for avis-conforme in annee.avis %}
               <li>
