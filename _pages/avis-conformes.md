@@ -253,6 +253,7 @@ ministeres:
   image: "/assets/img/avis-conformes/ministeredelagriculture_ok.jpg"
   titre: Ministère de l'Agriculture et de l'Alimentation
 ---
+
 La direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) publie, pour la première fois, ses avis conformes sur les grands projets du système d'information et de communication de l’État.
 {:.chapeau}
 C'est l'une des missions assignées à la DINSIC : sécuriser les grands projets informatiques de l'Etat. Ainsi, avant tout lancement d'un projet de plus de 9 millions d'euros, chaque ministère doit solliciter un avis de conformité auprès du directeur de la DINSIC (au titre des décrets [n°2011-193](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023619023&categorieLien=cid) - article 7, puis [n°2014-879](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029337021) - article 3). Celui-ci est alors évalué selon cinq critères : stratégie, finances, gouvernance, réalisation et planning.
