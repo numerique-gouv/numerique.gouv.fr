@@ -35,6 +35,6 @@ Le gouvernement franchit ainsi une nouvelle étape vers la totalité des démarc
 >la transformation numérique de la France, car celle-ci ne peut se faire sans ceux qui la vivent au quotidien. Mieux
 >connaître vos besoins, vos attentes et vos irritants pour orienter en conséquence la dématérialisation des services
 >publics : c’est cela que permet la nouvelle plateforme nosdemarches.gouv.fr 
-{: .auteur-citation}
+{: .citation}
 >**Mounir Mahjoubi**, secrétaire d’État auprès du Premier ministre, chargé du Numérique 
 {: .auteur-citation}
