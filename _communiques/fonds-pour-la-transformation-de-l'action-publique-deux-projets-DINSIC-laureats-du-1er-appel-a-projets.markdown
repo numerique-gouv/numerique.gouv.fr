@@ -2,6 +2,9 @@
 title: 'Fonds pour la transformation de l''action publique&nbsp;: deux projets DINSIC
   lauréats du 1er appel à projets'
 date: 2018-06-20 00:00:00 +02:00
+tags:
+- État plateforme
+- Cloud
 communique_file: uploads/CP_FTAP_laureats_DINSIC_20062018.pdf
 une-ou-diaporama:
 - image: "/uploads/Fonds_pour_la_transformation_de_laction_publique.png"
@@ -13,7 +16,7 @@ Après un premier appel à projet plébiscité - 122 dossiers déposés par 15 m
 Parmi les lauréats, 2 projets interministériels portés par la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) bénéficieront d’un financement total de 43,6 millions d’€ en 2018 :
 
 
-## Mettre en place une offre de cloud d'État: FRANCE CLOUD 24,3 millions d’€
+## Mettre en place une offre de cloud d'État : FRANCE CLOUD 24,3 millions d’€
 
 *Objectif* : développer des capacités cloud pour l’État afin accélérer la mise à disposition des services numériques
 innovants et de réduire les coûts d’hébergements et de développement du SI de l’État.
@@ -26,9 +29,10 @@ et les agents.
 
 ## Bâtir le socle numérique de l'État Plateforme : FranceConnect Plateforme - Phase 2 19,3 millions d’€
 
-*Objectif* : Permettre d'offrir aux usagers des services simplifiés et personnalisées (tout en respectant leurs données
+*Objectif* : Permettre d'offrir aux usagers des services simplifiés et personnalisés (tout en respectant leurs données
 personnelles), en décloisonnant les administrations par la mise en œuvre d'une plateforme d’échange de données et de
 gestion de l’identification numérique, ainsi qu’un service mutualisé de dématérialisation des démarches en ligne.
+
 *Bénéfices* : De nombreuses démarches seront simplifiées pour les usagers, des informations déjà connues par
 l’administration ne seront pas demandées de nouveau grâce à la facilitation de l’échange de données entre
 administrations et un service commun d’identification, dans le respect de la protection des données. Cette plateforme
