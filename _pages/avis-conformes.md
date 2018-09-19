@@ -253,6 +253,7 @@ ministeres:
   image: "/assets/img/avis-conformes/ministeredelagriculture_ok.jpg"
   titre: Ministère de l'Agriculture et de l'Alimentation
 ---
+
 La direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) publie, pour la première fois, ses avis conformes sur les grands projets du système d'information et de communication de l’État.
 {:.chapeau}
 
