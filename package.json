@@ -59,6 +59,7 @@
     "start": "gulp --dev",
     "index": "ALGOLIA_API_KEY='5443875a25ef728cbf2793a1b1637e63' bundle exec jekyll algolia",
     "index-dev": "ALGOLIA_API_KEY='5443875a25ef728cbf2793a1b1637e63' bundle exec jekyll algolia --config '_config.yml,_config_dev.yml'",
+    "index-preprod": "ALGOLIA_API_KEY='5443875a25ef728cbf2793a1b1637e63' bundle exec jekyll algolia --config '_config.yml,_config_preprod.yml'",
     "build-dev": "gulp build --dev --config '_config.yml,_config_dev.yml'",
     "build": "gulp build --production",
     "test": "mocha --require @babel/register assets/js/test/**/*test.js"
