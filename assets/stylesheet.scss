@@ -65,6 +65,9 @@
 // Mixins
 @import '../_sass/helpers/mixins';
 
+// Images
+@import '../_sass/helpers/images';
+
 //
 // 6. Base
 // --------------------------------------------------
@@ -80,6 +83,8 @@
 @import '../_sass/layouts/l-index';
 @import '../_sass/layouts/l-page';
 @import '../_sass/layouts/l-post';
+@import '../_sass/layouts/l-avis-conformes';
+@import '../_sass/layouts/l-dix-principes';
 
 @import '../_sass/layouts/page/l-dinsic';
 @import '../_sass/layouts/page/l-historique';

@@ -124,6 +124,9 @@ footer {
       }
     }
   }
+  .gray-link-footer {
+    color: $medium-gray;
+  }
 }
 
 .default-text-padding {
@@ -155,6 +158,11 @@ footer {
       }
     }
   }
+}
+
+
+#actu-a-la-une {
+  background-color: $white;
 }
 
 

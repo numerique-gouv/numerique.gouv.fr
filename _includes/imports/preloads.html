@@ -1,0 +1,5 @@
+{% for item in site.data.imports %}
+  {% if item.for == 'all' or item.for contains page.title %}
+    <link rel="preload" href="/assets/js/{{ item.link }}" as="script">
+  {% endif %}
+{% endfor %}

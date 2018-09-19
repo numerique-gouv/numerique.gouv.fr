@@ -3,8 +3,8 @@
 <div class="cell grid-y carte height-100">
   <a href="{{ carte.url}}" class="black-link">
     {% if carte.une-ou-diaporama[0] %}
-    <div class="post__image-container index-image-container">
-      <img class="post__featured-image" alt="{{ carte.une-ou-diaporama[0].alternative-textuelle }}" src="{{ carte.une-ou-diaporama[0].image }}">
+    <div class="object-fit__image-container index-image-container">
+      <img class="object-fit__featured-image" alt="{{ carte.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ carte.une-ou-diaporama[0].image }}">
     </div>
     {% endif %}
     <div class="padding-2">
@@ -13,7 +13,7 @@
       <span class="h6 date display-inline">{{ carte.categories }} | </span>
       {% endif %}
       {% if carte.date %}
-      <span class="h6 date display-inline-block">{% include date.html date=carte.date %}</span>
+      <span class="h6 date display-inline-block">{% include helpers/date.html date=carte.date %}</span>
       {% endif %}
       <p>
         {% if carte.chapeau-text %}

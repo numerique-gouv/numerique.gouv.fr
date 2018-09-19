@@ -71,9 +71,8 @@ jobs:
 
       - run:
           name: Yarn build
-          command: yarn build-dev
           command: |
-            if [ "${CIRCLE_BRANCH}" == "master" ] || [ "${CIRCLE_BRANCH}" == "siteleaf" ]; then
+            if [ "${CIRCLE_BRANCH}" == "prod" ] || [ "${CIRCLE_BRANCH}" == "preproduction" ]; then
               yarn build
             else
               yarn build-dev
@@ -98,7 +97,9 @@ jobs:
     machine:
         enabled: true
     environment:
-      - HOST: test-dinsic.fr
+      - HOST_PRODUCTION: test-dinsic.fr
+      - HOST_PREPRODUCTION: preprod.test-dinsic.fr
+      - HOST_DEVELOPMENT: dev.test-dinsic.fr
       - LOGIN: root
     steps:
       - attach_workspace:
@@ -115,25 +116,82 @@ jobs:
           name: Deploy on OVH
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
-              echo "Not yet develop"
-            elif [ "${CIRCLE_BRANCH}" == "development" ] || [ "${CIRCLE_BRANCH}" == "siteleaf" ]; then
-              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST:/var/www/html/
+              echo "La branche master n'aboutie pas à un déploiment"
+            elif [ "${CIRCLE_BRANCH}" == "development" ]; then
+              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_DEVELOPMENT:/var/www/html/
+            elif [ "${CIRCLE_BRANCH}" == "preproduction" ]; then
+              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_PREPRODUCTION:/var/www/html/
+            elif [ "${CIRCLE_BRANCH}" == "production" ]; then
+              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_PRODUCTION:/var/www/html/
             else
-              echo "Not development branch, dry run only"
+              echo "Not deploy branch, dry run only"
             fi
+  test-js:
+    docker:
+      - image: starefossen/ruby-node:latest
+    steps:
+      - restore_cache:
+          name: Restore Git Cache
+          keys:
+            - source-v5-{{ .Branch }}-{{ .Revision }}
+            - source-v5-{{ .Branch }}-
+            - source-v5-
+
+      - checkout
+
+      - restore_cache:
+          name: Restore Yarn Package Cache
+          keys:
+            - yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - yarn-packages-v1-{{ .Branch }}-
+            - yarn-packages-v1-
+
+      - restore_cache:
+          name: Restore Node module cache
+          keys:
+            # when lock file changes, use increasingly general patterns to restore cache
+            - node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - node-v1-{{ .Branch }}-
+            - node-v1-
+
+      - run: yarn install
+
+      - run: mkdir ~/junit
+
+      - run:
+          command: yarn test --reporter mocha-junit-reporter --reporter-options mochaFile=~/junit/test-results.xml
+          when: always
+
+      - store_test_results:
+          path: ~/junit
+
+      - store_artifacts:
+          path: ~/junit
 
 
 workflows:
   version: 2
-  build_and_deploy:
+  build-test-and-deploy:
     jobs:
       - build
       - test-html:
           requires:
             - build
+          filters:
+            branches:
+              ignore:
+                - preproduction
+      - test-js:
+          requires:
+            - build
+          filters:
+            branches:
+              ignore:
+                - preproduction
       - deploy:
           requires:
             - test-html
-
+            - test-js
+            - build
 
 

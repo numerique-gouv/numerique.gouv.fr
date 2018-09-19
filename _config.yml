@@ -1,5 +1,5 @@
 ---
-title: DINSIC.gouv.fr
+title: numerique.gouv.fr
 timezone: Europe/Paris
 collections:
   actualites:
@@ -12,7 +12,7 @@ collections:
     output: true
   evenements:
     title: Evènements
-    output: false
+    output: true
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
@@ -56,7 +56,7 @@ defaults:
       name: Rachel Wadoux
       tel:
       - 01.71.21.11.98
-      - 06.34.21.55.48
+      - 06.84.72.02.00
       email: rachel.wadoux@modernisation.gouv.fr
 - scope:
     path: ''
@@ -64,16 +64,16 @@ defaults:
   values:
     layout: post
     permalink: "/evenements/:title/"
-url: https://dinsic.gouv.fr
+url: https://numerique.gouv.fr
 categories:
 - main
 language: fr
 markdown: kramdown
 description: Le site officiel de la DINSIC
 plugins:
-- jekyll-paginate-v2
 - sass
 - jekyll-sitemap
+- jekyll-algolia
 include:
 - ".htaccess"
 - _pages
@@ -97,17 +97,40 @@ exclude:
 - yarn-error.log
 - "/ansible/"
 - "/node_modules/"
-pagination:
-  enabled: true
-  per_page: 20
-  permalink: "/page/:num/"
-  title: ":title - page :num de :max"
-  limit: 0
-  sort_field: date
-  sort_reverse: true
 incremental: true
 compress_html:
   ignore:
     envs:
     - development
 highlighter: rouge
+algolia:
+  application_id: OCGRURLBFM
+  index_name: jekyll-dinsic
+  nodes_to_index: p,li,blockquote
+  extensions_to_index:
+  - md
+  - markdown
+  files_to_exclude:
+  - _pages/index.md
+  - _pages/algolia.md
+  - _pages/espace-presse.md
+  - _pages/actualites.md
+  - _pages/rechercher.md
+  - _pages/avis-conformes.md
+  settings:
+    searchableAttributes:
+    - unordered(title)
+    - ordered(headings)
+    - unordered(chapeau-text)
+    - unordered(content)
+    - unordered(collection,categories,tags)
+    highlightPreTag: "<mark>"
+    highlightPostTag: "</mark>"
+    attributesToHighlight:
+    - title
+    - heading
+    - content
+    - chapeau-text
+    attributesToSnippet:
+    - content:20
+    - chapeau-text:20

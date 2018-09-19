@@ -1,46 +1,6 @@
-{% assign sorted_post=include.sorted_post %}
-
-<ul class="no-bullet grid-y grid-margin-y" id="list_post">
-  {% for post in sorted_post %}
-  <li>
-    <a class="black-link grid-x grid-margin-x" href="{{ post.url | relative_url }}">
-      <div class="cell post__image-container large-4 medium-5 small-12 height-10rem">
-        {% if post.une-ou-diaporama[0].image %}
-        <img class="post__featured-image" alt="{{ post.une-ou-diaporama[0].alternative-textuelle }}" src="{{ post.une-ou-diaporama[0].image | relative_url }}">
-        {% else %}
-        <img class="post__featured-image" alt="image par default" src="{{ '/assets/img/default.png'  | relative_url }}" >
-        {% endif %}
-      </div>
-      <div class="content cell large-8 medium-7 small-12">
-        <img alt="icon {{ post.categories.first }}" class="icon" src="
-              {% case post.categories.first %}
-                {% when 'Article' %}
-                  /assets/img/pictogrammes/article.svg
-                {% when 'Infographie' %}
-                  /assets/img/pictogrammes/infographie.svg
-                {% when 'Diaporama' %}
-                  /assets/img/pictogrammes/diaporama.svg
-                {% when 'Interview' %}
-                  /assets/img/pictogrammes/interview.svg
-                {% when 'Video' %}
-                  /assets/img/pictogrammes/video.svg
-                {% when 'Communiqué de presse' %}
-                  /assets/img/pictogrammes/communique_de_presse.svg
-                 {% when 'Dossier de presse' %}
-                  /assets/img/pictogrammes/dossier_de_presse.svg
-                {% else %}
-                  /assets/img/pictogrammes/article.svg
-              {% endcase %}
-              ">
-        <span class="h6"> {{ post.categories.first}} </span>
-        <p class="h5 font-bold margin-bottom-0-5">{{ post.title }}</p>
-        <p class="post-meta h6 date">{% include date.html date=post.date %}</p>
-        <p>{{ post.chapeau-text | markdownify | truncatewords: 20}}</p>
-      </div>
-    </a>
-    {% if forloop.last == false %}
-    <hr class="cell">
-    {% endif %}
-  </li>
-  {% endfor %}
-</ul>
+<div id="list-post">
+  <h2>{{ include.titre }}</h2>
+  <div id="categories"></div>
+  <div id="tags"></div>
+  <div id="infinite-hits"> </div>
+</div>

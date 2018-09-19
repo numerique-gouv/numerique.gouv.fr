@@ -4,7 +4,7 @@ date: 2018-07-20 11:12:00 +02:00
 categories:
 - Article
 tags:
-- Entrepreneur.e d'Intérêt Général
+- Entrepreneur d'Intérêt Général
 - innovation
 position: 0
 chapeau-text: |-

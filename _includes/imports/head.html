@@ -1,0 +1,12 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% if page.title != 'dinsic.gouv.fr' %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}" />
+  <meta name="google-site-verification" content="{{ site.google-verification }}">
+  {% include imports/favicon.html %}
+  {% include imports/stylesheets.html %}
+  {% include imports/preloads.html %}
+  {% include imports/matomo.html %}
+</head>

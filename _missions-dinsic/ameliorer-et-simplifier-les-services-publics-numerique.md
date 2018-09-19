@@ -13,7 +13,7 @@ encadre:
 '
   chiffres:
   - titre: d'utilisateurs
-    valeur: 5 millions
+    valeur: 6,2 millions
     icon:
       titre: icon agents
       path: agents.svg

@@ -37,13 +37,54 @@
       }
     }
   }
+  #bandeau-droite {
+    background-color: #1E9793;
+    text-align: center;
+    color: white;
+    box-shadow: inset 0px 0px 3px 0px #313131;
+    #bloc-text {
+      padding: 0 12.5% 12.5% 12.5%;
+      hr {
+        border: 0.05rem solid white;
+      }
+      p {
+        font-weight: bold;
+        margin: 5px 0;
+      }
+      .bloc-links {
+        text-align: left;
+        padding-top: 0.8rem;
+        .link {
+          margin: 5px 0;
+        }
+        a {
+          color: white;
+          margin: 5px 0;
+        }
+        .picto {
+          margin: 0;
+          width: 1rem;
+          margin-right: 0.5rem;
+        }
+      }
+    }
+  }
+}
+
+#photo-secretaire-etat {
+  width: 75%;
+  margin: 12.5% 12.5% 0 12.5%;
 }
 
 
-
-
-
-
-  //other elements
-  //@include grid-column;
+.button {
+  .small {
+    text-transform: none;
+    font-size: 0.8rem;
+    text-wrap: normal;
+  }
+  p {
+    margin: 0;
+  }
+}
 

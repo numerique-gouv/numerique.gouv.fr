@@ -1,25 +1,40 @@
 ---
+layout: none
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>{{ site.title | xml_escape }}</title>
-        <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>      
-        <link>{{ site.url }}</link>
-        <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-        {% for post in site.posts limit:10 %}
-            <item>
-                <title>{{ post.title | xml_escape }}</title>
-                {% if post.excerpt %}
-                    <description>{{ post.excerpt | xml_escape }}</description>
-                {% else %}
-                    <description>{{ post.content | xml_escape }}</description>
-                {% endif %}
-                <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-                <link>{{ site.url }}{{ post.url }}</link>
-                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-            </item>
-        {% endfor %}
-    </channel>
+  <channel>
+    <title>{{ site.name | xml_escape }}</title>
+    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <link>{{ site.url }}</link>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+    {% for actualites in site.actualites limit:10 %}
+    <item>
+      <title>{{ actualites.title | xml_escape }}</title>
+      <description>{{ actualites.content | xml_escape }}</description>
+      <pubDate>{% include /helpers/date.html date=actualites.date %}</pubDate>
+      <link>{{ site.url }}{{ actualites.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ actualites.url }}</guid>
+    </item>
+    {% endfor %}
+    {% for communiques in site.communiques limit:10 %}
+    <item>
+      <title>{{ communiques.title | xml_escape }}</title>
+      <description>{{ communiques.content | xml_escape }}</description>
+      <pubDate>{{ communiques.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <link>{{ site.url }}{{ communiques.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ communiques.url }}</guid>
+    </item>
+    {% endfor %}
+    {% for evenements in site.actualites limit:10 %}
+    <item>
+      <title>{{ evenements.title | xml_escape }}</title>
+      <description>{{ evenements.content | xml_escape }}</description>
+      <pubDate>{{ evenements.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <link>{{ site.url }}{{ evenements.url }}</link>
+      <guid isPermaLink="true">{{ site.url }}{{ evenements.url }}</guid>
+    </item>
+    {% endfor %}
+  </channel>
 </rss>
