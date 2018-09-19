@@ -2,14 +2,14 @@
 title: Lancement du site nosdemarches.gouv.fr pour évaluer les démarches en ligne
 date: 2018-07-02 00:00:00 +02:00
 communique_file: uploads/cp_nosdemarches_02_07_2018.pdf
+une-ou-diaporama:
+- image: "/uploads/demarches_gouv.jpg"
+  alternative-textuelle: Les démarches gouvernementales
 image: uploads/nosdemarches.gouv.jpg
 chapeau: " 100% des démarches administratives accessibles en ligne au 1er janvier
   2022 : c’est l’une des mesures phares annoncées par le gouvernement pour accélérer
   la transformation numérique de l’administration française menée dans le cadre du
   programme Action Publique 2022. "
-une-ou-diaporama:
-- image: "/uploads/demarches_gouv.jpg"
-  alternative-textuelle: Les démarches gouvernementales
 ---
 
 Premier pas vers cet objectif annoncé lors du Comité interministériel de la transformation publique (CITP) du 1er février 2018 : le lancement en mars dernier, de demarches-simplifiees.fr, permettant aux administrations de dématérialiser facilement les démarches encore gérées sur papier. Le site comptabilise aujourd’hui plus de 30 000 démarches dématérialisées.
@@ -35,6 +35,6 @@ Le gouvernement franchit ainsi une nouvelle étape vers la totalité des démarc
 >la transformation numérique de la France, car celle-ci ne peut se faire sans ceux qui la vivent au quotidien. Mieux
 >connaître vos besoins, vos attentes et vos irritants pour orienter en conséquence la dématérialisation des services
 >publics : c’est cela que permet la nouvelle plateforme nosdemarches.gouv.fr 
->
->**Mounir Mahjoubi**, secrétaire d’État auprès du Premier ministre, chargé du Numérique 
 {: .citation}
+>**Mounir Mahjoubi**, secrétaire d’État auprès du Premier ministre, chargé du Numérique 
+{: .citation-auteur}
