@@ -26,9 +26,10 @@ et les agents.
 
 ## Bâtir le socle numérique de l'État Plateforme : FranceConnect Plateforme - Phase 2 19,3 millions d’€
 
-*Objectif* : Permettre d'offrir aux usagers des services simplifiés et personnalisées (tout en respectant leurs données
+*Objectif* : Permettre d'offrir aux usagers des services simplifiés et personnalisés (tout en respectant leurs données
 personnelles), en décloisonnant les administrations par la mise en œuvre d'une plateforme d’échange de données et de
 gestion de l’identification numérique, ainsi qu’un service mutualisé de dématérialisation des démarches en ligne.
+
 *Bénéfices* : De nombreuses démarches seront simplifiées pour les usagers, des informations déjà connues par
 l’administration ne seront pas demandées de nouveau grâce à la facilitation de l’échange de données entre
 administrations et un service commun d’identification, dans le respect de la protection des données. Cette plateforme
