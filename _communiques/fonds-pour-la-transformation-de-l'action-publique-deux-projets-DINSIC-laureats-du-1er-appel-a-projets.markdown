@@ -2,6 +2,9 @@
 title: 'Fonds pour la transformation de l''action publique&nbsp;: deux projets DINSIC
   lauréats du 1er appel à projets'
 date: 2018-06-20 00:00:00 +02:00
+tags:
+- État plateforme
+- Cloud
 communique_file: uploads/CP_FTAP_laureats_DINSIC_20062018.pdf
 une-ou-diaporama:
 - image: "/uploads/Fonds_pour_la_transformation_de_laction_publique.png"
