@@ -57,11 +57,3 @@
 - name: evenement
   link: evenements.js
   for: Evénements
-
-- name: vendor_evenements
-  link: vendors~evenements.js
-  for: Evénements
-
-
-
-
