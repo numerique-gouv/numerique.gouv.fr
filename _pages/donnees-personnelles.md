@@ -6,11 +6,14 @@ layout: page-annexe
 ---
 
 ## Cookies déposés et opt-out ##
-Ce site dépose un petit fichier texte (un « cookie ») sur votre ordinateur lorsque vous le consultez. Cela nous permet de mesurer le nombre de visites et de comprendre quelles sont les pages les plus consultées.
+Ce site ne prélève aucune donnée à caractère personnel. 
+
+Nous avons paramétré l'outil de mesure d'audience que nous utilisons, Matomo (ex-Piwik), de façon à ce que les informations recueillies soient anonymisées. Le petit fichier texte (un « cookie ») déposé sur votre ordinateur lorsque vous le consultez nous permet simplement de connaître le nombre de visites et les pages les plus consultées, et ainsi d'améliorer nos contenus et votre expérience, sans pour autant pouvoir remonter jusqu'à vous. 
+
+Nous sommes ainsi en conformité avec la réglementation « Cookies » de la CNIL et exemptés d'autorisation préalable. C'est pour cela que vous n'avez pas eu besoin de cliquer sur un bloc pour accepter le dépôt de cookies ! 
+
+## Refuser le suivi de votre navigation ##
+Malgré tout, si vous le souhaitez, vous avez la possibilité de refuser que votre navigation sur notre site soit enregistrée, en cochant la case ci-dessous.
+
 <iframe style="border: 0; height: 200px; width: 600px;" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr&fontSize=1rem&fontFamily=%22Open%20Sans%22"></iframe>
 
-## Ce site n’affiche pas de bannière de consentement aux cookies, pourquoi ? ##
-C’est vrai, vous n’avez pas eu à cliquer sur un bloc qui recouvre la moitié de la page pour dire que vous êtes d’accord avec le dépôt de cookies !
-
-Nous respectons simplement la loi, qui dit que certains outils de suivi d’audience, correctement configurés pour respecter la vie privée, sont exemptés d’autorisation préalable.
-Nous utilisons pour cela Matomo (ex-Piwik), un outil libre, paramétré pour être en conformité avec la recommandation « Cookies » de la CNIL. Cela signifie que votre adresse IP, par exemple, est anonymisée avant d’être enregistrée. Il est donc impossible d’associer vos visites sur ce site à votre personne.
