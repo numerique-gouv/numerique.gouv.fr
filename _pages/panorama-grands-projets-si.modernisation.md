@@ -5,5 +5,5 @@ layout: default
 ---
 
 <div class="responsive-embed">
-  <iframe src="https://disic.github.io/panorama/" allowfullscreen></iframe>
+  <iframe class="no-border" src="https://disic.github.io/panorama/" allowfullscreen></iframe>
 </div>
