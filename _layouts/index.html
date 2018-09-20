@@ -56,7 +56,7 @@ layout: default
     <h2 class="font-bold text-center margin-bottom-3">{{ page.titre-une }}</h2>
     {% assign sorted_actualites = site.actualites | where: "is_une","true" | sort:'date' | reverse %}
     {% include meilleurs-actualites.html %}
-    <div class="blue-margin-link text-center padding-2 ">
+    <div id="toutes-les-actus" class="blue-margin-link text-center">
       <a href="{{ '/actualites' | relative_url }}" class="h4">Voir toutes nos actus</a>
     </div>
   </section>
