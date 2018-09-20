@@ -10,6 +10,10 @@ publications:
   url: "/publications/dix-principes"
   une-ou-diaporama:
   - image: "/uploads/Fotolia_48485657_M.JPG"
+- title: Panorama des grands projets de SI
+  url: "/publications/panorama-grands-projets-si"
+  une-ou-diaporama:
+  - image: "/uploads/Fotolia_48485657_M.JPG"
 layout: publications
 ---
 
