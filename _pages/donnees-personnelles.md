@@ -8,9 +8,9 @@ layout: page-annexe
 ## Cookies et respect de votre vie privée ##
 **Ce site ne prélève aucune donnée à caractère personnel.**
 
-Nous avons paramétré l'outil de mesure d'audience que nous utilisons, Matomo (ex-Piwik), de façon à ce que **les informations recueillies soient anonymisées**. Le petit fichier texte (un « cookie ») déposé sur votre ordinateur lorsque vous le consultez nous permet simplement de connaître le nombre de visites et les pages les plus consultées, et ainsi d'améliorer nos contenus et votre expérience, **sans pour autant pouvoir remonter jusqu'à vous**. 
+L'outil de mesure d'audience que nous utilisons, Matomo (ex-Piwik), est paramétré de façon à ce que **les informations recueillies soient anonymisées**. Le petit fichier texte (« cookie ») déposé sur votre ordinateur lorsque vous le consultez nous permet simplement de connaître le nombre de visites et les pages les plus consultées, et ainsi d'améliorer nos contenus et votre expérience, **sans pour autant permettre de vous identifier personnellement**. 
 
-Nous sommes ainsi **en conformité avec la réglementation « Cookies » de la CNIL** et exemptés d'autorisation préalable. C'est pour cela que vous n'avez pas eu besoin de cliquer sur un bloc pour accepter le dépôt de cookies ! 
+Nous sommes ainsi **en conformité avec la [réglementation « Cookies » de la CNIL](https://www.cnil.fr/fr/solutions-pour-les-cookies-de-mesure-daudience)** et exemptés d'autorisation préalable. C'est pour cela que vous n'avez pas eu besoin de cliquer sur un bloc pour accepter le dépôt de cookies ! 
 
 
 ## Refuser le suivi de votre navigation ##
