@@ -12,6 +12,7 @@ Nous avons paramétré l'outil de mesure d'audience que nous utilisons, Matomo (
 
 Nous sommes ainsi **en conformité avec la réglementation « Cookies » de la CNIL** et exemptés d'autorisation préalable. C'est pour cela que vous n'avez pas eu besoin de cliquer sur un bloc pour accepter le dépôt de cookies ! 
 
+
 ## Refuser le suivi de votre navigation ##
 Malgré tout, si vous le souhaitez, vous avez la possibilité de refuser que votre navigation sur notre site soit enregistrée, en cochant la case ci-dessous.
 
