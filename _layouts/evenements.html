@@ -8,8 +8,13 @@ layout: default
     <div class="gray-background padding-vertical-2 ">
       <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">{{ page.title }}</h1>
     </div>
-    <section class="max-width-60 padding-vertical-2" >
-      {% include components/list-post.html titre='Tout nos événements' %}
+    <section class="grid-x max-width-60 padding-vertical-2" >
+      <div class="cell large-9 medium-6 small-12">
+        {% include components/list-post.html titre='Tout nos événements' %}
+      </div>
+      <div class="cell large-3 medium-6 small-12">
+        <div id="calendar" class="daterange"></div>
+      </div>
     </section>
   </section>
 </div>
