@@ -1,9 +1,7 @@
 ---
 title: Ressources presse
 permalink: "/ressources-presse/"
-une:
-  image: "/assets/img/main/image_espace_presse.jpg"
-  alternative-textuelle: ordinateur portable
+une-ou-diaporama:
+- image: "/assets/img/main/image_espace_presse.jpg"
 layout: ressources-presse
 ---
-
