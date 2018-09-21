@@ -13,7 +13,7 @@ publications:
 - title: Panorama des grands projets de SI
   url: "/publications/panorama-grands-projets-si"
   une-ou-diaporama:
-  - image: "/uploads/Fotolia_48485657_M.JPG"
+  - image: "/uploads/panorama_des_grands_projets_si.png"
 layout: publications
 ---
 
