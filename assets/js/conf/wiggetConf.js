@@ -4,7 +4,7 @@ function configureConf(collection) {
   return{
     filters: `collection:${collection}`
   }
-};
+}
 
 const menuSelectConf = {
   container: '#categories',
@@ -61,8 +61,8 @@ const infiniteHitsConfEvent = {
   showMoreLabel: "Voir plus de résultats",
   cssClasses: {
     showmoreButton: "button voir-plus-button",
-    root: 'grid-x',
-    item: 'cell large-4 padding-1 margin-1 event-item'
+    root: 'grid-x grid-margin-x padding-bottom-2',
+    item: 'cell large-6 medium-6 small-12 padding-1 event-item'
   }
 };
 

@@ -2,17 +2,11 @@
   link: modernizr.js
   for: all
 
-- name: vendors_actualites_app_espacePresse_evenements_rechercher
-  link: vendors~actualites~app~espace-presse~evenements~rechercher.js
-  for: all
 
 - name: vendors_app_foundation
   link: vendors~app~foundation.js
   for: all
 
-- name: vendors_app
-  link: vendors~app.js
-  for: all
 
 - name: app
   link: app.js
@@ -32,7 +26,7 @@
     - Rechercher
     - Actualités
     - Espace presse
-    - Evénements
+    - Agenda
 
 - name: actualites_espacePresse_evenement_rechercher
   link: actualites~espace-presse~evenements~rechercher.js
@@ -40,7 +34,7 @@
     - Rechercher
     - Actualités
     - Espace presse
-    - Evénements
+    - Agenda
 
 - name: rechercher
   link: rechercher.js
@@ -56,4 +50,4 @@
 
 - name: evenement
   link: evenements.js
-  for: Evénements
+  for: Agenda
