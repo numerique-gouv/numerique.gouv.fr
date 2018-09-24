@@ -1,12 +1,12 @@
-import algoliasearch from "algoliasearch"
+import algoliasearch from "algoliasearch";
 import instantsearch from "instantsearch.js";
 import { configure, menuSelect, refinementList, infiniteHits } from "instantsearch.js/es/widgets";
-import { connectRange } from "instantsearch.js/es/connectors"
+import { connectRange } from "instantsearch.js/es/connectors";
 
-import { agenda_routing_conf } from "./conf/routing-conf"
+import { agenda_routing_conf } from "./conf/routing-conf";
 import { Instantsearch_factory } from "./instant-search/instantsearch-factory";
 import { Instantsearch_builder } from "./instant-search/instantsearch-builder";
-import { configureConf, menuSelectConf, refinementListConf, infiniteHitsConfEvent } from "./conf/wiggetConf"
+import { configureConf, menuSelectConf, refinementListConf, infiniteHitsConfEvent } from "./conf/wiggetConf";
 
 
 const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');
@@ -48,10 +48,50 @@ const datePicker = connectRange(
   }
 );
 
-instantsearch_builder.addWidget(datePicker, {
-    attributeName: 'date',
+const monthPicker = connectRange(
+  (options, isFirstRendering) => {
+    if (!isFirstRendering) return;
+    const $element = $('input[name="daterange"]');
+    const start_date = moment();
+    const end_date = moment().add(1, 'months');
+    const { refine } = options;
+    refine ([start_date.unix(), end_date.unix()]);
+    $(function(){
+      $element.daterangepicker({
+        "startDate": start_date,
+        "endDate": end_date,
+        "autoApply": true,
+        "opens": "left",
+        ranges: {
+          "Aujourd'hui": [moment(), moment()],
+          'Demain': [moment().add(1, 'days'), moment().add(1, 'days')],
+          'Les 7 prochain jours': [moment().add(6, 'days'), moment()],
+          'Les 30 prochains jours': [moment().add(29, 'days'), moment()],
+          'Ce mois': [moment().startOf('month'), moment().endOf('month')],
+          'Le mois prochain': [moment().add(1, 'month').startOf('month'), moment().add(1, 'month').endOf('month')]
+        },
+        "locale": {
+          "format": "DD/MM/YYYY",
+          "separator": " - ",
+          "fromLabel": "Du",
+          "toLabel": "Au",
+          "customRangeLabel": "Personnalisé",
+        },
+      });
+
+    });
+    $element.on('apply.daterangepicker', function(ev, picker) {
+      let dates = $element.val().split(' - ');
+      let start = moment(dates[0], "DD-MM-YYYY");
+      let end = moment(dates[1], "DD-MM-YYYY");
+      refine ([start.unix(), end.unix()]);
+    });
   }
 );
+
+instantsearch_builder.addWidget(monthPicker, {
+  attributeName: 'date'
+});
 
 instantsearch_builder.addWidget(configure,configureConf("événements"));
 

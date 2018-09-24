@@ -9,11 +9,13 @@ layout: default
       <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">{{ page.title }}</h1>
     </div>
     <section class="grid-x grid-margin-x max-width-75 margin-1 padding-vertical-2" >
-      <div class="cell large-8 medium-8 small-12">
+      <div class="cell large-9 medium-8 small-12">
         {% include components/list-post.html titre='Tous nos événements' %}
       </div>
-      <div class="cell large-4 medium-4 small-12">
-        <div id="calendar" class="daterange"></div>
+      <div class="cell large-3 medium-4 small-12">
+        <div id="month-picker" class="daterange"></div>
+        <input type="text" name="daterange" value="01/01/2018 - 01/15/2018" />
+
       </div>
     </section>
   </section>
