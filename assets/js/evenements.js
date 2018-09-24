@@ -56,30 +56,36 @@ const monthPicker = connectRange(
     const end_date = moment().add(1, 'months');
     const { refine } = options;
     refine ([start_date.unix(), end_date.unix()]);
-    $(function(){
-      $element.daterangepicker({
-        "startDate": start_date,
-        "endDate": end_date,
-        "autoApply": true,
-        "opens": "left",
-        ranges: {
-          "Aujourd'hui": [moment(), moment()],
-          'Demain': [moment().add(1, 'days'), moment().add(1, 'days')],
-          'Les 7 prochain jours': [moment().add(6, 'days'), moment()],
-          'Les 30 prochains jours': [moment().add(29, 'days'), moment()],
-          'Ce mois': [moment().startOf('month'), moment().endOf('month')],
-          'Le mois prochain': [moment().add(1, 'month').startOf('month'), moment().add(1, 'month').endOf('month')]
-        },
-        "locale": {
-          "format": "DD/MM/YYYY",
-          "separator": " - ",
-          "fromLabel": "Du",
-          "toLabel": "Au",
-          "customRangeLabel": "Personnalisé",
-        },
-      });
 
+    $element.daterangepicker({
+      "startDate": start_date,
+      "endDate": end_date,
+      "autoApply": true,
+      "opens": "left",
+      "showDropdowns": true,
+      "showCustomRangeLabel": false,
+      ranges: {
+        "Aujourd'hui": [moment(), moment()],
+        'Demain': [moment().add(1, 'days'), moment().add(1, 'days')],
+        'Les 7 prochains jours': [moment().add(6, 'days'), moment()],
+        'Les 30 prochains jours': [moment().add(29, 'days'), moment()],
+        'Ce mois': [moment().startOf('month'), moment().endOf('month')],
+        'Le mois prochain': [moment().add(1, 'month').startOf('month'), moment().add(1, 'month').endOf('month')]
+      },
+      "locale": {
+        "format": "DD MMMM YYYY",
+        "fromLabel": "Du",
+        "toLabel": "au",
+        "customRangeLabel": "Personnalisé",
+      },
     });
+
+    // cb(start_date, end_date);
+    //
+    // function cb(start, end) {
+    //   $element.html('coucou');
+    // }
+
     $element.on('apply.daterangepicker', function(ev, picker) {
       let dates = $element.val().split(' - ');
       let start = moment(dates[0], "DD-MM-YYYY");
@@ -103,3 +109,28 @@ instantsearch_builder.addWidget(infiniteHits, infiniteHitsConfEvent);
 
 instantsearch_builder.start();
 
+$(function() {
+
+  var start = moment().subtract(29, 'days');
+  var end = moment();
+
+  function cb(start, end) {
+    $('#reportrange span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'));
+  }
+
+  $('#reportrange').daterangepicker({
+    startDate: start,
+    endDate: end,
+    ranges: {
+      'Today': [moment(), moment()],
+      'Yesterday': [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
+      'Last 7 Days': [moment().subtract(6, 'days'), moment()],
+      'Last 30 Days': [moment().subtract(29, 'days'), moment()],
+      'This Month': [moment().startOf('month'), moment().endOf('month')],
+      'Last Month': [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
+    }
+  }, cb);
+
+  cb(start, end);
+
+});
