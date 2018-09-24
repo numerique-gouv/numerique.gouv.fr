@@ -64,15 +64,11 @@ layout: default
     <h2 class="font-bold text-center margin-bottom-3 ">Nos tweets</h2>
     <div class="grid-container">
       <div class="grid-x grid-margin-x">
+        {% for twitter in page.twitters %}
         <div class="cell large-4 medium-6 small-12">
-          {% include components/twitter.html nbTweet=2 address="_DINSIC"%}
+          {% include components/twitter.html nbTweet=twitter.nbTweets address=twitter.address %}
         </div>
-        <div class="cell large-4 medium-6 small-12">
-          {% include components/twitter.html nbTweet=2 address="betagouv"%}
-        </div>
-        <div class="cell large-4 medium-6 small-12">
-          {% include components/twitter.html nbTweet=2 address="etalab"%}
-        </div>
+        {% endfor %}
       </div>
     </div>
   </section>
