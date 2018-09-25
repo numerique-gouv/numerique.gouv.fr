@@ -5,14 +5,15 @@ collections:
   actualites:
     title: Actualités
     output: true
-    Data:
-      address_ref: 
+    permalink: "/actualites/:title/"
   communiques:
     title: Communiqués
     output: true
+    permalink: "/espace-presse/:title/"
   evenements:
-    title: Evènements
+    title: Evénements
     output: true
+    permalink: "/agenda/:title/"
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
@@ -37,14 +38,12 @@ defaults:
       legende: 
       alternative-textuelle: 
     auteur: 
-    permalink: "/actualites/:title/"
 - scope:
     path: ''
     type: communiques
   values:
     communique_file: uploads/exemple.pdf
     layout: communique
-    permalink: "/espace-presse/:title/"
     categories:
     - Communiqué de presse
     chapeau-text: 
@@ -62,8 +61,7 @@ defaults:
     path: ''
     type: evenements
   values:
-    layout: post
-    permalink: "/evenements/:title/"
+    layout: page
 url: https://numerique.gouv.fr
 categories:
 - main
@@ -78,6 +76,7 @@ include:
 - ".htaccess"
 - _pages
 exclude:
+- "/scripts/"
 - ".DS_Store"
 - ".circleci/"
 - bower.json
@@ -106,7 +105,7 @@ highlighter: rouge
 algolia:
   application_id: OCGRURLBFM
   index_name: jekyll-dinsic
-  nodes_to_index: p,li,blockquote
+  nodes_to_index: 'p,li,blockquote'
   extensions_to_index:
   - md
   - markdown

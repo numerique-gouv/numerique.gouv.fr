@@ -98,8 +98,6 @@ const monthPicker = connectRange(
         refine ([start.unix(), end.unix()]);
       });
     });
-
-
   }
 );
 

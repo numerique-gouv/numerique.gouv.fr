@@ -1,3 +1,18 @@
 .event-item {
   border: 1px solid $medium-gray;
 }
+
+#reportrange {
+  background: #fff;
+  cursor: pointer;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  width: 100%;
+  margin-top: 4.3rem;
+}
+
+.daterangepicker {
+  li {
+    tab-index: 0;
+  }
+}

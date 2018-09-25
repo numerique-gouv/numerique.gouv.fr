@@ -35,7 +35,7 @@ export class Template_builder {
   get_template_event() {
     const hit_helper = new Hit_helper(this.data)
     const image = hit_helper.select_image("une-ou-diaporama");
-    const template =  hogan.compile(`
+    const template = hogan.compile(`
           <div>
             <a class="black-link grid-y grid-margin-y" href="${this.data.url}">
             <div class="cell object-fit__image-container large-4 medium-5 small-12 height-10rem">
@@ -48,7 +48,7 @@ export class Template_builder {
               {{/category}}
               <p class="h5 font-bold margin-bottom-0-5">${ this.data._highlightResult.title.value }</p>
               {{#date}}
-              <p class="post-meta h6 date">${ hit_helper.get_date_formated() }</p>
+              <p class="post-meta h6 date">${ hit_helper.get_event_date_formated() }</p>
               {{/date}}
               <p>${ hit_helper.get_most_valuable_content() }</p>
             </div>
