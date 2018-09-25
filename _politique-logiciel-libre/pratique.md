@@ -4,7 +4,7 @@ menu:
   weight: 40
 title: Bonnes pratiques
 layout: politique-logiciel-libre
-permalink: /publication/politique-logiciel-libre/pratique/
+permalink: /publications/politique-logiciel-libre/pratique/
 ---
 
 ### Système de suivi de version de code source

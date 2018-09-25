@@ -4,7 +4,7 @@ menu:
   weight: 70
 title: Foire aux questions
 layout: politique-logiciel-libre
-permalink: /publication/politique-logiciel-libre/faq/
+permalink: /publications/politique-logiciel-libre/faq/
 ---
 
 ### Périmètre 

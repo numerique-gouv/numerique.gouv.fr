@@ -4,7 +4,7 @@ menu:
   weight: 40
 title: "Instanciation des politiques de contribution minist\xE9rielles"
 layout: politique-logiciel-libre
-permalink: /publication/politique-logiciel-libre/instanciation/
+permalink: /publications/politique-logiciel-libre/instanciation/
 ---
 
 ### En résumé
