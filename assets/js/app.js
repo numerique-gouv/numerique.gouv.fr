@@ -6,10 +6,9 @@
 //
 // Custom JS
 // --------------------------------------------------
-import $ from 'jquery'
-import '@babel/polyfill'
-import "isomorphic-fetch"
-import "es6-promise"
+// import '@babel/polyfill'
+// import "isomorphic-fetch"
+// import "es6-promise"
 
 //Menu
 const button = $('#hamburger-button');
