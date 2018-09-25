@@ -7,10 +7,10 @@ slogan: Avec le numérique, nous créons le service public de demain
 titre-une: À la une
 twitters:
 - address: _DINSIC
-  nbTweets: 2
+  nbTweets: 1
 - address: betagouv
-  nbTweets: 2
+  nbTweets: 1
 - address: etalab
-  nbTweets: 2
+  nbTweets: 1
 ---
 
