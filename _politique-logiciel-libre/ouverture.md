@@ -4,7 +4,7 @@ menu:
   weight: 20
 title: "Principes d\u2019ouverture des codes sources"
 layout: politique-logiciel-libre
-permalink: /publication/politique-logiciel-libre/ouverture/
+permalink: /publications/politique-logiciel-libre/ouverture/
 ---
 
 ### Préambule

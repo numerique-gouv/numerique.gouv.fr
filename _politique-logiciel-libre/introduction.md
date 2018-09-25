@@ -4,7 +4,7 @@ menu:
   weight: 10
 title: "Politique de contribution aux logiciels libres de l\u2019\xC9tat"
 layout: politique-logiciel-libre
-permalink: /publication/politique-logiciel-libre/
+permalink: /publications/politique-logiciel-libre/
 ---
 
 __Historique et versions__

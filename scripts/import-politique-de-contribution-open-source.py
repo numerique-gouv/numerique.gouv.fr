@@ -44,7 +44,7 @@ def write_yaml_md(dir, page):
         weight = page.title_weight))
     yaml.dump(data, the_file, default_flow_style=False)
     the_file.write('layout: politique-logiciel-libre\n')
-    permalink = "/publication/politique-logiciel-libre/"
+    permalink = "/publications/politique-logiciel-libre/"
     if page.title_weight != 10:
       permalink = permalink + re.sub(r'(.*)\.md',r'\1',page.filename)+'/'
       re.purge()

@@ -14,6 +14,10 @@ publications:
   url: "/publications/panorama-grands-projets-si"
   une-ou-diaporama:
   - image: "/uploads/panorama_des_grands_projets_si.png"
+- title: Politique de contribution aux logiciels libres de l’État
+  url: "/publications/politique-logiciel-libre"
+  une-ou-diaporama:
+  - image: "/uploads/panorama_des_grands_projets_si.png"
 layout: publications
 ---
 
