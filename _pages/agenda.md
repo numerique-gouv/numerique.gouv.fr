@@ -1,6 +1,5 @@
 ---
 title: Agenda
-permalink: "/agenda/"
-layout: evenements
+permalink: /agenda/
+layout: agenda
 ---
-

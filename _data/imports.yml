@@ -14,7 +14,7 @@
   link: foundation.js
   for: all
 
-- name: vendors_actualites_espacePresse_evenement_rechercher
+- name: vendors_actualites_espacePresse_evenements_rechercher
   link: vendors~actualites~espace-presse~evenements~rechercher.js
   for:
     - Rechercher
@@ -22,7 +22,7 @@
     - Espace presse
     - Agenda
 
-- name: actualites_espacePresse_evenement_rechercher
+- name: actualites_espacePresse_evenements_rechercher
   link: actualites~espace-presse~evenements~rechercher.js
   for:
     - Rechercher

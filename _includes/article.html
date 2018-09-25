@@ -11,7 +11,7 @@
   {% include components/titre-page-fille.html %}
 </div>
 <div id="content-article" class="post-content-text padding-large-horizontal-5 padding-large-bottom-2 margin-large-top-2 padding-medium-1">
-  {{ content }}
+  {{ content | markdownify }}
 </div>
 <div id="tag-article" class="padding-large-horizontal-5 padding-medium-1 tag" >
   <ul class="no-bullet">
