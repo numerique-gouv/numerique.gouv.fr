@@ -54,6 +54,7 @@ JAVASCRIPT:
     # All the files in this list and in the js dir are concatenated into all.js
 
 MODERNIZR:
+  notification: "Running Modernizr"
   dest:
     jekyllRoot: "assets/js/"
   filename: "modernizr.js"

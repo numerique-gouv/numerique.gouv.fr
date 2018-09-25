@@ -27,7 +27,7 @@ layout: none
       <guid isPermaLink="true">{{ site.url }}{{ communiques.url }}</guid>
     </item>
     {% endfor %}
-    {% for evenements in site.actualites limit:10 %}
+    {% for evenements in site.evenements limit:10 %}
     <item>
       <title>{{ evenements.title | xml_escape }}</title>
       <description>{{ evenements.content | xml_escape }}</description>

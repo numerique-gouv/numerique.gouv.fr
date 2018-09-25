@@ -24,6 +24,7 @@ Le programme EIG lance aujourd’hui un appel à candidature pour recruter les 3
 > [Accéder à l’appel à candidature, ouvert jusqu’au 15 octobre 2018](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html)
 {: .lien-important}
 
+
 ## Être entrepreneur d’intérêt général : relever des défis techniques à fort impact pour le service public et les citoyens
 
 #### Devenir EIG, c’est se lancer dans une aventure unique au sein de l’administration
