@@ -47,6 +47,7 @@ def write_yaml_md(dir, page):
     permalink = "/publication/politique-logiciel-libre/"
     if page.title_weight != 10:
       permalink = permalink + re.sub(r'(.*)\.md',r'\1',page.filename)+'/'
+      re.purge()
     the_file.write('permalink: '+permalink)
     the_file.write('\n---\n')
     the_file.write(page.content)
@@ -61,9 +62,10 @@ class Page:
       self.title_weight = title_weight
 
   def markdownify_content(self):
-      self.content = re.sub(r'{{< relref "(.*).md" >}}',r'\1', self.content)
-      self.content = re.sub(r'{{% (.*) "(.*)" %}}\n*(.*)\n*{{% \/\1 %}}',r'*\2*\n\n\3', self.content)
-
+      self.content = re.sub(r'{{< relref "(.*).md#*.*" >}} *',r'\1', self.content)
+      re.purge()
+      self.content = re.sub(r'{{% (\w*) "(.*)" *%}}([\s\S]*?){{% \/\1 %}}',r'*\2*\3', self.content)
+      re.purge()
 
 
 rw_dir = './repo'
@@ -82,6 +84,7 @@ for filename in glob.glob(rw_dir+"/*"):
        config = yaml.load(get_yaml(f))
        content = f.read()
        page = Page(re.sub(r'\.\/.*\/(.*\.md)',r'\1',filename), content, config['title'], config['menu']['main']['name'], config['menu']['main']['weight'])
+       re.purge()
        pages.append(page)
 
 for page in pages:
