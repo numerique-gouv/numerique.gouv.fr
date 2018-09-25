@@ -42,6 +42,6 @@
   link: espace-presse.js
   for: Espace presse
 
-- name: evenement
+- name: evenements
   link: evenements.js
   for: Agenda
