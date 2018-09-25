@@ -17,7 +17,7 @@ __Historique et versions__
 | 1.0RC01 | Projet soumi à validation                       | 10/02/2018 |
 | 1.0     | Validation en CSIC Tech                         | 16/02/2018 |
 
-## Objectifs
+### Objectifs
 
 Conformément à la Loi pour une République numérique du [7 octobre 2016][LoiRepNum link], les codes sources sont des documents 
 administratifs communicables et réutilisables. Dans le cas où il est possible de choisir une licence libre, le décret
@@ -33,7 +33,7 @@ Les objectifs de cette politique interministérielle de contribution aux logicie
 Ce document est à destination des développeurs ou de leurs responsables, qu'ils soient agents publics (titulaires 
 ou contractuels) ou prestataires.
 
-## Périmètre
+### Périmètre
 
 Cette politique de contribution s'applique au système d'information et de communication de l'État 
 conformément à l'article 1er du [décret n° 2014-879 du 1er août 2014][DecretDINSIC link]. Chaque administration de l'État 
@@ -48,7 +48,7 @@ Cette politique de contribution vise les *nouveaux* développements afin qu'ils 
 
 Les fonctions publiques hospitalières et territoriales sont hors périmètre de cette politique de contribution mais elles peuvent s'en inspirer librement.
 
-## Structure du document
+### Structure du document
 
 La politique de contribution est composée de :
 
@@ -57,13 +57,13 @@ La politique de contribution est composée de :
  * [Instanciation de politique de contribution ministérielle](instanciation)
  * [Gouvernance associée](gouvernance)
 
-## Responsabilité du document
+### Responsabilité du document
 
 La DINSIC produit et maintient ce document ; elle veille à sa mise en œuvre et assure le support associé. Pour toute question, ou demande d'évolutions, veuillez vous référer à la partie *Gouvernance*.
 
 Ce document est publié sous la [**Licence Ouverte 2.0**][LO link]
 
-## Références externes
+### Références externes
 
 Ce document a été élaboré grâce aux nombreux travaux ci-dessous :
 

@@ -1,17 +1,29 @@
 ---
 layout: default
 ---
-
-<div class="post gray-background max-width-75">
-  <nav>
-    <ul>
-      {% for item in site.politique-logiciel-libre %}
-      <li>
-        <a href="{{ item.permalink }}">{{ item.menu.title }}</a>
-      </li>
-      {% endfor %}
-    </ul>
-  </nav>
-  <h1>{{ page.title }}</h1>
-  {{ content }}
+<div class="max-width-75">
+  <div>
+    <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">Politique de contribution aux logiciels libres de l’État</h1>
+  </div>
+  <button type="button" class="button show-for-small-only" data-toggle="offCanvas">Ouvrir le sommaire</button>
+  <div class="off-canvas-wrapper">
+    <div class="off-canvas-absolute position-left reveal-for-medium" id="offCanvas" data-off-canvas>
+      <h2>Sommaire</h2>
+      <nav>
+        <ul class="vertical menu">
+          {% assign items = site.politique-logiciel-libre | sort: 'menu.weight' %}
+          {% for item in items %}
+          <li>
+            <a href="{{ item.permalink }}">{{ item.menu.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+    <div class="off-canvas-content margin-2" data-off-canvas-content>
+      <h2>{{ page.title }}</h2>
+      {{ content | markdownify }}
+    </div>
+  </div>
 </div>
+
