@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-<div class="max-width-75">
+<div class="max-width-75" id="politique-logiciel-libre">
   <div>
     <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">Politique de contribution aux logiciels libres de l’État</h1>
   </div>
   <button type="button" class="button show-for-small-only" data-toggle="offCanvas">Ouvrir le sommaire</button>
   <div class="off-canvas-wrapper">
-    <div class="off-canvas-absolute position-left reveal-for-medium" id="offCanvas" data-off-canvas>
+    <div class="padding-left-1 off-canvas-absolute reveal-for-medium" id="offCanvas" data-off-canvas>
       <h2>Sommaire</h2>
       <nav>
         <ul class="vertical menu">
@@ -20,7 +20,7 @@ layout: default
         </ul>
       </nav>
     </div>
-    <div class="off-canvas-content margin-2" data-off-canvas-content>
+    <div class="off-canvas-content" data-off-canvas-content>
       <h2>{{ page.title }}</h2>
       {{ content | markdownify }}
     </div>

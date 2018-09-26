@@ -17,7 +17,6 @@ const instantsearch_builder = new Instantsearch_builder(search);
 const datePicker = connectRange(
   (options, isFirstRendering) => {
     if (!isFirstRendering) return;
-    console.log(options)
     const start_date = moment();
     const end_date = moment().add(1, 'months');
     const earliest_date = moment("2018-01-01");
