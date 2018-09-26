@@ -28,7 +28,7 @@ Le suivi éditorial et graphique est assuré au quotidien par la mission Communi
 
 
 ## Code source du site ##
-Le code source du site est disponible sur 
+Le code source du site est disponible sur Github (lien à venir).
 
 
 ## Liens vers numerique.gouv.fr ##
@@ -36,7 +36,7 @@ Tout site public ou privé est autorisé à établir, sans autorisation préalab
 
 La mise en place de « liens profonds » pointant directement sur un document disponible sur ce site devra être privilégiée par rapport à la reproduction de contenus sur un site tiers. La mention explicite du site source dans l’intitulé du lien est recommandée.
 
-En revanche, la reproduction d'un contenu doit faire l'objet d'une autorisation préalable (contact : [communication.dinsic@modernisation.gouv.fr](mailto:communication.dinsic@modernisation.gouv.fr)) et mentionner très clairement l’origine du document sous forme d’une adresse internet : www.numerique.gouv.fr
+En revanche, la reproduction d'un contenu doit faire l'objet d'une autorisation préalable (contact : [communication.dinsic@modernisation.gouv.fr](mailto:communication.dinsic@modernisation.gouv.fr) et mentionner très clairement l’origine du document sous forme d’une adresse internet : www.numerique.gouv.fr
 
 ## Hébergement ##
 OVH
