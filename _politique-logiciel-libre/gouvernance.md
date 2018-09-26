@@ -4,7 +4,7 @@ menu:
   weight: 50
 title: "Gouvernance de la politique de contribution interminist\xE9rielle"
 layout: politique-logiciel-libre
-permalink: /publication/politique-logiciel-libre/gouvernance/
+permalink: /publications/politique-logiciel-libre/gouvernance/
 ---
 
 La DINSIC maintient ce document et en est responsable (elle est propriétaire du dépôt et de la gestion des droits d'écriture). L'élaboration de cette politique a vocation à être collaborative et les entités auxquelles elle s'applique sont toutes invitées à participer à son évolution.
@@ -16,7 +16,7 @@ Deux types d'organisations sont distinguées :
 
 avec un seul rôle par organisation (droit d'écriture sur cette politique). L'ensemble des contributeurs avec les droits d'écriture sont listés dans le fichier [MAINTAINERS](MAINTAINERS).
 
-## Gestion des contributions
+### Gestion des contributions
 
 Toutes les contributions sont les bienvenues.  Elles sont faites via une *pull request* sur la branche `next` qui est la branche d'élaboration d'une nouvelle version de la politique.
 
@@ -26,7 +26,7 @@ Toutes les contributions sont les bienvenues.  Elles sont faites via une *pull r
  
 Tous les mainteneurs ont la possibilité de fusionnner les *pull requests* sur la branche `next`. Si plusieurs mainteneurs appartiennent à un même ministère, leur validation ne compte que pour une organisation.
 
-## Gestion des versions
+### Gestion des versions
 
 Seules la DINSIC et l'ANSSI peuvent fusionner sur la branche `master`qui correspond à la version validée :
 

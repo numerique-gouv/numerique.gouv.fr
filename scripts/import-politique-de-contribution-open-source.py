@@ -44,7 +44,7 @@ def write_yaml_md(dir, page):
         weight = page.title_weight))
     yaml.dump(data, the_file, default_flow_style=False)
     the_file.write('layout: politique-logiciel-libre\n')
-    permalink = "/publication/politique-logiciel-libre/"
+    permalink = "/publications/politique-logiciel-libre/"
     if page.title_weight != 10:
       permalink = permalink + re.sub(r'(.*)\.md',r'\1',page.filename)+'/'
       re.purge()
@@ -62,9 +62,11 @@ class Page:
       self.title_weight = title_weight
 
   def markdownify_content(self):
-      self.content = re.sub(r'{{< relref "(.*).md#*.*" >}} *',r'\1', self.content)
+      self.content = re.sub(r'{{< relref "(\w*)\.md[#\w\-éèà]*"\s*>}}\s*',r'\1', self.content)
       re.purge()
       self.content = re.sub(r'{{% (\w*) "(.*)" *%}}([\s\S]*?){{% \/\1 %}}',r'*\2*\3', self.content)
+      re.purge()
+      self.content = re.sub(r'(#+)\s',r'\1# ', self.content)
       re.purge()
 
 

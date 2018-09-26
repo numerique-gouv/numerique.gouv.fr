@@ -4,10 +4,10 @@ menu:
   weight: 70
 title: Foire aux questions
 layout: politique-logiciel-libre
-permalink: /publication/politique-logiciel-libre/faq/
+permalink: /publications/politique-logiciel-libre/faq/
 ---
 
-## Périmètre 
+### Périmètre 
 
 
 *Suis-je concerné(e) par cette politique de contribution open source ?*
@@ -19,17 +19,17 @@ Si vous faites partie d'une collectivité territoriale, cette politique ne vous 
 Si vous faites partie d'un opérateur ou d'un établissement public sous la tutelle d'un ministère, vous êtes concerné.
 
 
-#### et si j'appartiens à un établissement de recherche ?
+##### et si j'appartiens à un établissement de recherche ?
 
 La loi République Numérique s'applique de la même manière.
 
 
-#### et si je suis salarié d'une ESN / SSII ?
+##### et si je suis salarié d'une ESN / SSII ?
 
 Si vous intervenez dans le cadre d'un marché public, vous êtes concernés. Toutefois, le détail des obligations contractuelles dépendra du CCTP et du CCAP.
 
 
-#### et si je suis indépendant / auto-entrepreneur ?
+##### et si je suis indépendant / auto-entrepreneur ?
 
 Si vous travaillez pour une administration relevant du périmètre de la DINSIC, vous êtes également concerné.
 
@@ -58,11 +58,11 @@ Vous pouvez contacter l'adresse électronique de contact proposée dans la polit
 
 
 
-## Licences
+### Licences
 
 *Comment choisir parmi les différentes licences proposées ?*
 
-Voir [Ouverture / Autorisation par défaut de contribuer à des projets sous licence FSF ou OSI](ouverture.md#autorisation-par-défaut-de-contribuer-à-des-projets-sous-licence-fsf-ou-osi" >}} ) et [Ouverture / Autorisation par défaut de contribuer un nouveau projet avec les licences du décret]({{< relref "ouverture).
+Voir [Ouverture / Autorisation par défaut de contribuer à des projets sous licence FSF ou OSI](ouverture) et [Ouverture / Autorisation par défaut de contribuer un nouveau projet avec les licences du décret](ouverture).
 
 N'hésitez pas à revenir vers nous en utilisant l'adresse de contact pour toute question ou conseil.
 
@@ -75,18 +75,18 @@ Vous pouvez contacter l'adresse électronique de contact proposée dans la polit
 
 
 
-## Identité électronique
+### Identité électronique
 
 *Quelle adresse électronique utiliser pour contribuer à un projet ?*
 
 Tout est détaillé dans la page [Ouverture / Attribuer les contributions aux individus](ouverture).
 
-#### et si je suis salarié d'une ESN / SSII ?
+##### et si je suis salarié d'une ESN / SSII ?
 
 Tout est détaillé dans la page [Ouverture / Attribuer les contributions aux individus](ouverture).
 
 
-#### et si je suis indépendant / auto-entrepreneur ?
+##### et si je suis indépendant / auto-entrepreneur ?
 
 Dans ce cas précis, l'identité prime et il revient au même d'utiliser une adresse électronique professionnelle ou personnelle. Choisissez ce que vous voulez.
 
@@ -101,7 +101,7 @@ Si les contributions se font dans le cadre professionnel, il vous est effectivem
 
 
 
-## Divers
+### Divers
 
 *Dois-je obtenir une validation avant de publier du code ?*
 

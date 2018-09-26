@@ -17,6 +17,9 @@ collections:
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
+  politique-logiciel-libre:
+    title: Politique de contribution aux logiciels libres de l’État
+    output: true
   posts:
     title: Posts
     output: true
@@ -32,12 +35,12 @@ defaults:
     is_une: true
     categories:
     - Article
-    chapeau-text: 
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
-    auteur: 
+    - image:
+      legende:
+      alternative-textuelle:
+    auteur:
 - scope:
     path: ''
     type: communiques
@@ -46,11 +49,11 @@ defaults:
     layout: communique
     categories:
     - Communiqué de presse
-    chapeau-text: 
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
+    - image:
+      legende:
+      alternative-textuelle:
     contact-presse:
       name: Rachel Wadoux
       tel:
