@@ -7,7 +7,7 @@ export class Instantsearch_factory {
 
   init() {
     const parameters = {
-      indexName: 'jekyll-dinsic',
+      indexName: 'jekyll-dinsic-dev',
       searchClient: this.searchClient,
       routing: this.routing,
       searchParameters: {
