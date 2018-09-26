@@ -39,6 +39,6 @@ La mise en place de « liens profonds » pointant directement sur un document di
 En revanche, la reproduction d'un contenu doit faire l'objet d'une autorisation préalable (contact : [communication.dinsic@modernisation.gouv.fr](mailto:communication.dinsic@modernisation.gouv.fr)) et mentionner très clairement l’origine du document sous forme d’une adresse internet : www.numerique.gouv.fr
 
 ## Hébergement ##
-OVH
-2 rue Kellermann - 59100 Roubaix - France 
+OVH<br>
+2 rue Kellermann - 59100 Roubaix - France<br>
 Tel. 09 72 10 10 07 (prix d'un appel vers un poste fixe en France)

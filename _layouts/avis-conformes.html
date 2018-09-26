@@ -9,15 +9,18 @@ layout: default
   <a id="content" tabindex="-1"></a>
   <div class="gray-background padding-vertical-2">
     <section class="max-width-75 avis-container">
-      <h1 class="text-center margin-vertical-3 blue-gradient-underline font-bold" >{{ page.title }}</h1>
-      <div class="cell large-8 large-offset-2 padding-bottom-3">
-        <div class="chapeau">
-          {{ page.chapeau-text | markdownify }}
+      <div id="head" class="margin-horizontal-1 padding-horizontal-2 margin-bottom-2 padding-top-1">
+        <h1 class="text-center margin-vertical-3 font-bold" >{{ page.title }}</h1>
+        <hr>
+        <div class="cell large-8 large-offset-2 padding-bottom-1">
+          <div class="chapeau">
+            {{ page.chapeau-text | markdownify }}
+          </div>
+          <div class="padding-bottom-3">
+            {% include components/partager.html %}
+          </div>
+          {{ content }}
         </div>
-        <div class="padding-bottom-3">
-          {% include components/partager.html %}
-        </div>
-        {{ content }}
       </div>
       <div class="grid-container">
         <div class="grid-x grid-margin-x">
