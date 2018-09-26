@@ -35,7 +35,7 @@ header {
   display: flex;
   width: 100%;
   flex-flow: row wrap;
-  border-bottom: 0.2rem solid $light-gray;
+  border-bottom: 2px solid $light-gray;
   @include breakpoint(small only) {
     background-color: $white;
     top:0;
