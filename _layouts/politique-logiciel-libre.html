@@ -1,29 +1,34 @@
 ---
 layout: default
 ---
-<div class="max-width-75" id="politique-logiciel-libre">
-  <div>
-    <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">Politique de contribution aux logiciels libres de l’État</h1>
-  </div>
-  <button type="button" class="button show-for-small-only" data-toggle="offCanvas">Ouvrir le sommaire</button>
-  <div class="off-canvas-wrapper">
-    <div class="padding-left-1 off-canvas-absolute reveal-for-medium" id="offCanvas" data-off-canvas>
-      <h2>Sommaire</h2>
-      <nav>
-        <ul class="vertical menu">
-          {% assign items = site.politique-logiciel-libre | sort: 'menu.weight' %}
-          {% for item in items %}
-          <li>
-            <a href="{{ item.permalink }}">{{ item.menu.title }}</a>
-          </li>
-          {% endfor %}
-        </ul>
-      </nav>
-    </div>
-    <div class="off-canvas-content" data-off-canvas-content>
-      <h2>{{ page.title }}</h2>
-      {{ content | markdownify }}
-    </div>
-  </div>
-</div>
 
+<div id="publications">
+  <a id="content" tabindex="-1"></a>
+  <section class="margin-0 gray-background" >
+    <div class="max-width-75 white-area" id="politique-logiciel-libre">
+      <div>
+        <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">Politique de contribution aux logiciels libres de l’État</h1>
+      </div>
+      <button type="button" class="button show-for-small-only">Ouvrir le sommaire</button>
+      <div class="padding-bottom-3 grid-x">
+        <div class="padding-left-2 cell large-2 small-12 reveal-for-medium" id="nav">
+          <h2>Sommaire</h2>
+          <nav>
+            <ul class="vertical menu">
+              {% assign items = site.politique-logiciel-libre | sort: 'menu.weight' %}
+              {% for item in items %}
+              <li>
+                <a href="{{ item.permalink }}">{{ item.menu.title }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+          </nav>
+        </div>
+        <div class="large-offset-1 cell large-8 small-12" id="content">
+          <h2>{{ page.title }}</h2>
+          {{ content | markdownify }}
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

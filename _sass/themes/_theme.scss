@@ -66,12 +66,12 @@
   max-width: 75rem;
   margin-right: auto;
   margin-left: auto;
-  padding: 0 3rem;
+  padding: 0 -3rem;
   @include breakpoint(medium only) {
     padding: 0 2rem;
   }
   @include breakpoint(small only) {
-    paddi: 0 1rem;
+    padding: 0 1rem;
   }
 }
 

@@ -81,7 +81,6 @@ module.exports = class Hit_helper {
 
   get_event_date_formated() {
     let formated_date;
-    console.log(moment(this.hit.dateEvent).format('DD MMMM YYYY'))
     this.hit.dateEvent ? formated_date = moment(this.hit.dateEvent).format('DD MMMM YYYY') : formated_date = false;
     return formated_date;
   }
