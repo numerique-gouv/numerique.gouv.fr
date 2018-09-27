@@ -6,9 +6,9 @@ layout: avis-conformes
 une:
   image: "/assets/img/main/image_avis_conformes.jpg"
   alternative-textuelle: les avis conformes
-chapeau-text: "La direction interministérielle du numérique et du système d’information et de 
-communication de l’Etat (DINSIC) publie, pour la première fois, ses avis conformes sur les 
-grands projets du système d'information et de communication de l’État."
+chapeau-text: La direction interministérielle du numérique et du système d’information
+  et de communication de l’Etat (DINSIC) publie, pour la première fois, ses avis conformes
+  sur les grands projets du système d'information et de communication de l’État.
 ministeres:
 - annees:
   - avis:

@@ -3,6 +3,7 @@ title: Panorama des grands projets SI de l’État
 permalink: "/publications/panorama-grands-projets-si/"
 layout: default
 ---
+
 # {{ page.title }}
 {% include components/partager.html %}
 <div class="responsive-embed">
