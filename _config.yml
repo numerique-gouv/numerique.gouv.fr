@@ -31,7 +31,7 @@ defaults:
     path: ''
     type: actualites
   values:
-    layout: post
+    layout: page-fille
     is_une: true
     categories:
     - Article

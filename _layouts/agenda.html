@@ -1,23 +1,19 @@
 ---
-layout: default
+layout: page-mere
 ---
 
-<div id="evenement">
-  <a id="content" tabindex="-1"></a>
-  <section class="margin-0" >
-    <div class="gray-background">
-      <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">{{ page.title }}</h1>
-    </div>
-    <section class="grid-x grid-margin-x max-width-75 margin-1 padding-vertical-2" >
-      <div class="cell large-8 medium-8 small-12">
-        {% include components/list-post.html titre='Tous nos événements' %}
-      </div>
-      <div class="cell large-4 medium-4 small-12">
-        <div id="month-picker" class="daterange"></div>
-        <div id="reportrange">
-          <span tabindex="0"></span>
-        </div>
-      </div>
-    </section>
-  </section>
+<div class="gray-background">
+  {% include components/titre-page-mere.html titre=page.title %}
 </div>
+<section class="grid-x grid-margin-x max-width-75 margin-1 padding-vertical-2" >
+  <div class="cell large-8 medium-8 small-12">
+    {% include components/list-post.html titre='Tous nos événements' %}
+  </div>
+  <div class="cell large-4 medium-4 small-12">
+    <div id="month-picker" class="daterange"></div>
+    <div id="reportrange">
+      <span tabindex="0"></span>
+    </div>
+  </div>
+</section>
+

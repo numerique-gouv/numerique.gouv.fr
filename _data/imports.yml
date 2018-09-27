@@ -6,6 +6,10 @@
   link: app.js
   for: all
 
+- name: vendors_app
+  link: vendors~app.js
+  for: all
+
 - name: vendors_foundation
   link: vendors~foundation.js
   for: all
@@ -14,12 +18,12 @@
   link: foundation.js
   for: all
 
-- name: vendors_actualites_espacePresse_evenements_rechercher
-  link: vendors~actualites~espace-presse~evenements~rechercher.js
-  for: all
-
 - name: vendors_actualites_app_espacePresse_evenements_rechercher
   link: vendors~actualites~app~espace-presse~evenements~rechercher.js
+  for: all
+
+- name: vendors_actualites_espacePresse_evenements_rechercher
+  link: vendors~actualites~espace-presse~evenements~rechercher.js
   for:
     - Rechercher
     - Actualités
