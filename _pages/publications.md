@@ -1,6 +1,9 @@
 ---
 title: Publications
 permalink: "/publications/"
+une:
+  image: "/assets/img/main/image_liste_actualites_2.jpg"
+  alternative-textuelle: les actualites
 publications:
 - title: 'Projets informatiques de l''État : les avis conformes émis par la DINSIC'
   url: "/publications/avis-conformes"
@@ -13,7 +16,11 @@ publications:
 - title: Panorama des grands projets de SI
   url: "/publications/panorama-grands-projets-si"
   une-ou-diaporama:
-  - image: "/uploads/Fotolia_48485657_M.JPG"
+  - image: "/uploads/panorama_des_grands_projets_si.png"
+- title: Politique de contribution aux logiciels libres de l’État
+  url: "/publications/politique-logiciel-libre"
+  une-ou-diaporama:
+  - image: "/uploads/panorama_des_grands_projets_si.png"
 layout: publications
 ---
 

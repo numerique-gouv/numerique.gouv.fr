@@ -117,6 +117,13 @@
     color: $bleue;
   }
 }
+.credit {
+  border-left: none;
+ p {
+   font-size: small;
+   color: $medium-gray;
+ }
+}
 .lien-important {
   display: flex;
   border: none;

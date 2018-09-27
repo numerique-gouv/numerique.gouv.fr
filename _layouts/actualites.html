@@ -1,25 +1,20 @@
 ---
-layout: default
+layout: page-mere
 ---
-
 {% assign sorted_actualites = site.actualites | where: "is_une","true" | sort:'date' | reverse %}
-<div id="actualites">
-  <div class="object-fit__image-container">
-    <img class="object-fit__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ page.une.image | relative_url }}">
-  </div>
-  <a id="content" tabindex="-1"></a>
-  <section class="margin-0" >
-    <div class="gray-background padding-vertical-2 ">
-      <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">{{ page.title }}</h1>
-      <section class="max-width-75 margin-bottom-5" >
-        <h2 class="off-screen">À la une</h2>
-        {% include meilleurs-actualites.html %}
-      </section>
-    </div>
-    <section class="max-width-60 padding-vertical-2" >
-      {% include components/list-post.html titre='Toutes nos actualités' %}
-    </section>
+<div class="gray-background padding-bottom-2 ">
+  {% include components/titre-page-mere.html titre=page.title %}
+  <section class="max-width-75 margin-bottom-5" >
+    <h2 class="off-screen">À la une</h2>
+    {% include meilleurs-actualites.html %}
   </section>
 </div>
+<section class="max-width-60 padding-vertical-2" >
+  <h2>Toutes nos actualités</h2>
+  <div id="categories"></div>
+  <div id="tags"></div>
+  {% include components/list-post.html %}
+</section>
+
 
 
