@@ -15,7 +15,8 @@ layout: ressources-presse
 
 ## Photo Henri
 
-![HenriVerdier-c_AlexiaPerchant.jpg](/uploads/HenriVerdier-c_AlexiaPerchant.jpg)
-[Télécharger le portrait d'Henri Verdier](/uploads/HenriVerdier-c_AlexiaPerchant.jpg)
+![Portrait_Henri_Verdier.JPG](/uploads/Portrait_Henri_Verdier.JPG)
+
+[photo](/uploads/Portrait_Henri_Verdier.JPG)
 
 ## 
