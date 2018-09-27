@@ -13,10 +13,10 @@ Personnes:
 layout: ressources-presse
 ---
 
-## Photo Henri
+## Photographies d'Henri Verdier
 
 ![Portrait_Henri_Verdier.JPG](/uploads/Portrait_Henri_Verdier.JPG)
 
-[photo](/uploads/Portrait_Henri_Verdier.JPG)
+[Portrait d'Henri Verdier](/uploads/Portrait_Henri_Verdier.JPG)
 
 ## 
