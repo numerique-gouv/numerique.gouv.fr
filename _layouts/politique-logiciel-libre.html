@@ -8,6 +8,12 @@ layout: default
     <div class="max-width-75 white-area" id="politique-logiciel-libre">
       <div>
         <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">Politique de contribution aux logiciels libres de l’État</h1>
+        {% if page.chapeau-text %}
+        <div class="lead chapeau">
+          {{ page.chapeau-text | markdownify }}
+        </div>
+        {% endif %}
+        {% include components/partager.html %}
       </div>
       <!--<button type="button" class="button show-for-small-only">Ouvrir le sommaire</button>-->
       <div class="grid-x">
@@ -24,8 +30,12 @@ layout: default
             </ul>
           </nav>
         </div>
-        <div class="margin-bottom-3 large-offset-1 cell large-8 small-12" id="content">
-          <h2>{{ page.title }}</h2>
+        <div class="margin-bottom-3 large-offset-1 cell large-8 small-12">
+          {% if page.menu.title  == 'Introduction' %}
+            <h2>{{ page.menu.title }}</h2>
+          {% else %}
+            <h2>{{ page.title }}</h2>
+          {% endif %}
           {{ content | markdownify }}
         </div>
       </div>
