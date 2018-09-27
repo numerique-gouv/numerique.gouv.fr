@@ -37,7 +37,7 @@ layout: default
             <h2>{{ page.title }}</h2>
           {% endif %}
           <div class="page-fille-content-text">
-            {{ content | markdownify }}
+            {{ content | markdownify | smartify }}
           </div>
         </div>
       </div>

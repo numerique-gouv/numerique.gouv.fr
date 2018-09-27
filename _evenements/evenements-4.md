@@ -1,7 +1,7 @@
 ---
 title: 'Evénements 4'
 date: 2018-08-18 00:00:00 +02:00
-dateEvent: 2018-10-18 00:00:00 +02:00
+event_date: 2018-10-18 00:00:00 +02:00
 tags:
 - innovation
 ---

@@ -99,7 +99,7 @@ exclude:
 - yarn-error.log
 - "/ansible/"
 - "/node_modules/"
-incremental: true
+incremental: false
 compress_html:
   ignore:
     envs:
@@ -120,7 +120,13 @@ algolia:
   - _pages/rechercher.md
   - _pages/avis-conformes.md
   settings:
+    customRanking:
+    - asc(event_date)
+    - desc(date)
+    - desc(custom_ranking.heading)
+    - asc(custom_ranking.position)
     searchableAttributes:
+    - ordered(event_date)
     - unordered(title)
     - ordered(headings)
     - unordered(chapeau-text)

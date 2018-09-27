@@ -9,7 +9,6 @@ permalink: /publications/politique-logiciel-libre/faq/
 
 ### Périmètre 
 
-
 *Suis-je concerné(e) par cette politique de contribution open source ?*
 
 Comme indiqué dans l'introduction, si la loi République Numérique s'applique à toute l'administration, le périmètre de la DINSIC se concentre sur la fonction publique d'État (avec quelques exceptions selon le décret n° 2014-879 du 1er août 2014). 

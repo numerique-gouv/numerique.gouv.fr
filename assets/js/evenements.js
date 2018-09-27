@@ -101,7 +101,7 @@ const monthPicker = connectRange(
 );
 
 instantsearch_builder.addWidget(monthPicker, {
-  attributeName: 'date'
+  attributeName: 'event_date'
 });
 
 instantsearch_builder.addWidget(configure,configureConf("événements"));

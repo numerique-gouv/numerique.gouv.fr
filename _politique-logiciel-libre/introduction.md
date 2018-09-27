@@ -9,6 +9,7 @@ permalink: /publications/politique-logiciel-libre/
 
 __Historique et versions__
 
+
 | Version | Commentaire                                     | Date       |
 | --------|-------------------------------------------------|------------|
 | 0.1     | Initialisation                                  | 01/11/2017 |
