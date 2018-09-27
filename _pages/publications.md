@@ -1,6 +1,9 @@
 ---
 title: Publications
 permalink: "/publications/"
+une:
+  image: "/assets/img/main/image_liste_actualites_2.jpg"
+  alternative-textuelle: les actualites
 publications:
 - title: 'Projets informatiques de l''État : les avis conformes émis par la DINSIC'
   url: "/publications/avis-conformes"
