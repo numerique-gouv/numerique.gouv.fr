@@ -2,22 +2,22 @@
 layout: default
 ---
 
-<div id="publications">
+<div id="politique-logiciel-libre">
   <a id="content" tabindex="-1"></a>
-  <section class="margin-0 gray-background" >
-    <div class="max-width-75 white-area" id="politique-logiciel-libre">
-      <div>
-        <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">Politique de contribution aux logiciels libres de l’État</h1>
-        {% if page.chapeau-text %}
-        <div class="lead chapeau">
-          {{ page.chapeau-text | markdownify }}
+  <section class="margin-0 gray-background page-fille" >
+    <div class="max-width-75 white-area">
+      <div class=grid-x>
+        <h1 class="cell text-center padding-vertical-3  blue-gradient-underline font-bold">Politique de contribution aux logiciels libres de l’État</h1>
+        <div class="lead chapeau cell large-8 large-offset-2 medium-10 medium-offset-1 small-12 small-offset-0">
+          {{ site.data.politique-logiciel-libre.chapeau | markdownify }}
         </div>
-        {% endif %}
-        {% include components/partager.html %}
+        <div class="cell margin-bottom-2">
+          {% include components/partager.html %}
+        </div>
       </div>
       <!--<button type="button" class="button show-for-small-only">Ouvrir le sommaire</button>-->
       <div class="grid-x">
-        <div class="margin-bottom-3 padding-left-2 cell large-2 small-12 reveal-for-medium" id="nav">
+        <div class="margin-bottom-3 padding-left-2 cell large-2 small-12 reveal-for-medium sommaire">
           <h2>Sommaire</h2>
           <nav>
             <ul class="vertical menu">
@@ -36,7 +36,9 @@ layout: default
           {% else %}
             <h2>{{ page.title }}</h2>
           {% endif %}
-          {{ content | markdownify }}
+          <div class="page-fille-content-text">
+            {{ content | markdownify }}
+          </div>
         </div>
       </div>
     </div>

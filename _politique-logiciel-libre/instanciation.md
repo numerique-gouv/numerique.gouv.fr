@@ -16,7 +16,7 @@ permalink: /publications/politique-logiciel-libre/instanciation/
 ### Inventaires des politiques ministérielles instanciées
 
  * Aucune politique ministérielle instanciée à ce jour
- * Exemple : <Ministère XXX> : [http://reference.url/politique-ministerielle](http://reference.url/politique-ministerielle)
+ 
  
 ### Procédure d'instanciation
  

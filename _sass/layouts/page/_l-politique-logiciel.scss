@@ -1,39 +1,16 @@
 #politique-logiciel-libre {
-  #nav {
+  .sommaire {
     border-right: 1px solid $medium-gray;
     a {
       padding: 0.75rem 0;
     }
-  };
-  #content {
-    h3 {
-      margin-bottom: 1rem;
-      margin-top: 3rem;
-    }
-    h4 {
-      margin-bottom: 1rem;
-      margin-top: 2rem;
-    }
-    ul {
-      list-style: none;
-      margin-left: 0;
-      padding-left: 1.5rem;
-      text-indent: -1.5rem;
-      li {
-        &:before {
-          content: "►";
-          display: block;
-          float: left;
-          width: 1.5rem;
-          color: $bleue;
-
-        }
-        li {
-          &:before {
-            color: $bleue-clair;
-          }
-        }
-      }
-    }
+  }
+  h3 {
+    margin-bottom: 1rem;
+    margin-top: 3rem;
+  }
+  h4 {
+    margin-bottom: 1rem;
+    margin-top: 2rem;
   }
 }

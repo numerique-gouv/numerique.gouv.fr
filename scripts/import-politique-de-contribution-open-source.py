@@ -66,6 +66,8 @@ class Page:
       re.purge()
       self.content = re.sub(r'{{% (\w*) "(.*)" *%}}([\s\S]*?){{% \/\1 %}}',r'*\2*\3', self.content)
       re.purge()
+      self.content = re.sub(r'\* Exemple : <.*\)',r'', self.content)
+      re.purge()
       self.content = re.sub(r'(#+)\s',r'\1# ', self.content)
       re.purge()
 
