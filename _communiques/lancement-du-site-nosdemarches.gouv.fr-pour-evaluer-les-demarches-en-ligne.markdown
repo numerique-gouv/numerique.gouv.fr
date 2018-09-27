@@ -5,7 +5,7 @@ tags:
 - Démarches administratives
 communique_file: uploads/cp_nosdemarches_02_07_2018.pdf
 une-ou-diaporama:
-- image: "/uploads/demarches_gouv.jpg"
+- image: "/uploads/nos%20demarches.png"
   alternative-textuelle: Les démarches gouvernementales
 image: uploads/nosdemarches.gouv.jpg
 chapeau: " 100% des démarches administratives accessibles en ligne au 1er janvier
