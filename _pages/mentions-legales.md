@@ -9,12 +9,12 @@ layout: page-annexe
 Ce site est édité par la direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC), un service du Premier ministre.
 
 DINSIC
-20 avenue de Ségur
-75007 Paris
-Tel. accueil : 01.71.21.01.70
+<br>20 avenue de Ségur
+<br>75007 Paris
+<br>Tel. accueil : 01.71.21.01.70
 
 SIRET : 12000101100010 (secrétariat général du gouvernement)
-SIREN : 120 001 011
+<br>SIREN : 120 001 011
 
 
 ## Directeur de publication ##
@@ -40,5 +40,5 @@ En revanche, la reproduction d'un contenu doit faire l'objet d'une autorisation 
 
 ## Hébergement ##
 OVH
-2 rue Kellermann - 59100 Roubaix - France 
-Tel. 09 72 10 10 07 (prix d'un appel vers un poste fixe en France)
+<br>2 rue Kellermann - 59100 Roubaix - France 
+<br>Tel. 09 72 10 10 07 (prix d'un appel vers un poste fixe en France)
