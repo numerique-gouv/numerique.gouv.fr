@@ -30,6 +30,9 @@ header {
 .marianne {
   height: 3rem;
   max-width: 100%;
+  @include breakpoint(small only) {
+    height: 1rem;
+  }
 }
 #nav-dinsic {
   display: flex;

@@ -4,26 +4,8 @@ layout: default
 
 <div id="index-main">
   <a id="content" tabindex="-1"></a>
-  <header class="grid-x">
-    <div id="visuel-accueil" class="padding-vertical-3 grid-x cell medium-10">
-      <div class="encart-transparent padding-1 grid-y">
-        <div class="titre-encart-transparent padding-top-2 text-center">
-          <div class="h2 margin-vertical-1 hide" >
-            La <span aria-label="Direction interministérielle du numérique et du système d’information et de communication de l’État" class="infobulle">DINSIC</span>
-          </div>
-          <div class="h1 lighter margin-bottom-1">
-            {{ page.slogan }}
-          </div>
-        </div>
-        <div class="text-center">
-          <a href="/dinsic" class="button large bouton-transparent " >
-            <p>En savoir plus </p>
-            <p class="small">sur la direction interministérielle du numérique (DINSIC)</p>
-          </a>
-        </div>
-      </div>
-    </div>
-    <div id="bandeau-droite" class="cell medium-2">
+  <header id="header-index" class="grid-x">
+    <div id="bandeau-secretariat" class="cell medium-2">
       <a target="_blank" href="https://www.numerique.gouv.fr/">
         <img id="photo-secretaire-etat" alt="Photo de Mounir Mahjoubi" src="/assets/img/main/mounir.jpg">
       </a>
@@ -51,6 +33,24 @@ layout: default
         </div>
       </div>
     </div>
+    <div id="visuel-accueil" class="padding-vertical-3 grid-x cell medium-10">
+      <div class="encart-transparent padding-1 grid-y">
+        <div class="titre-encart-transparent padding-top-2 text-center">
+          <div class="h2 margin-vertical-1 hide" >
+            La <span aria-label="Direction interministérielle du numérique et du système d’information et de communication de l’État" class="infobulle">DINSIC</span>
+          </div>
+          <div class="h1 lighter margin-bottom-1">
+            {{ page.slogan }}
+          </div>
+        </div>
+        <div class="text-center">
+          <a href="/dinsic" class="button large bouton-transparent " >
+            <p>En savoir plus </p>
+            <p class="small">sur la direction interministérielle du numérique (DINSIC)</p>
+          </a>
+        </div>
+      </div>
+    </div>
   </header>
   <section class="gray-background padding-top-3">
     <h2 class="font-bold text-center margin-bottom-3">{{ page.titre-une }}</h2>
@@ -61,7 +61,7 @@ layout: default
     </div>
   </section>
   <section id="tweets" class="padding-top-3">
-    <h2 class="font-bold text-center margin-bottom-3 ">En direct de Twitter</h2>
+    <h2 class="font-bold text-center margin-bottom-3 ">{{ page.titre-twitter }}</h2>
     <div class="grid-container">
       <div class="grid-x grid-margin-x">
         {% for twitter in page.twitters %}
