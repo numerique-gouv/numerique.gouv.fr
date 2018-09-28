@@ -59,12 +59,12 @@
   },
   "scripts": {
     "start": "gulp --dev",
-    "index": "bundle exec jekyll algolia",
+    "index-prod": "bundle exec jekyll algolia",
     "index-dev": "bundle exec jekyll algolia --config '_config.yml,_config_dev.yml' --force-settings",
     "index-preprod": "bundle exec jekyll algolia --config '_config.yml,_config_preprod.yml'",
     "build-dev": "gulp build --developpement --config '_config.yml,_config_dev.yml'",
     "build-preprod": "gulp build --preproduction --config '_config.yml,_config_preprod.yml'",
-    "build": "gulp build --production",
+    "build-prod": "gulp build --production",
     "test": "mocha --require @babel/register assets/js/test/**/*test.js"
   },
   "repository": {
