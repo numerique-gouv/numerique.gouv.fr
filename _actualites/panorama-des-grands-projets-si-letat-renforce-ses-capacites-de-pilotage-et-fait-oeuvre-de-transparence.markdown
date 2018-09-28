@@ -9,6 +9,7 @@ tags:
 - sécurisation
 - système d'information
 - transparence
+- informatique
 position: 5
 is_une: false
 chapeau-text: La DINSIC rend aujourd’hui publique la liste des grands projets du système
@@ -50,3 +51,6 @@ La visibilité du panorama valorise les initiatives numériques de l’État et 
 Le processus mis en place facilite le partage et la communication entre les différents acteurs, à tous les échelons : projet, direction, ministère, direction du budget, Etat.
 
 Le cadre de formalisation élaboré par la DINSIC facilite le suivi global des projets. Les documents de travail que les ministères sont invités à renseigner tous les quatre mois apportent les informations nécessaires au pilotage tout en étant suffisamment concis. Ils ont l'avantage de structurer la démarche et d'harmoniser les pratiques.
+
+Crédit photo : everythingpossible - Fotolia
+{: .credit}

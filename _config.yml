@@ -35,12 +35,12 @@ defaults:
     is_une: true
     categories:
     - Article
-    chapeau-text:
+    chapeau-text: 
     une-ou-diaporama:
-    - image:
-      legende:
-      alternative-textuelle:
-    auteur:
+    - image: 
+      legende: 
+      alternative-textuelle: 
+    auteur: 
 - scope:
     path: ''
     type: communiques
@@ -49,11 +49,11 @@ defaults:
     layout: communique
     categories:
     - Communiqué de presse
-    chapeau-text:
+    chapeau-text: 
     une-ou-diaporama:
-    - image:
-      legende:
-      alternative-textuelle:
+    - image: 
+      legende: 
+      alternative-textuelle: 
     contact-presse:
       name: Rachel Wadoux
       tel:
@@ -108,7 +108,7 @@ highlighter: rouge
 algolia:
   application_id: OCGRURLBFM
   index_name: jekyll-dinsic
-  nodes_to_index: 'p,li,blockquote'
+  nodes_to_index: p,li,blockquote
   extensions_to_index:
   - md
   - markdown

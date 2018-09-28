@@ -1,10 +1,10 @@
 ---
+title: Foire aux questions
+permalink: "/publications/politique-logiciel-libre/faq/"
 menu:
   title: <abbr title="Foire aux questions">FAQ</abbr>
   weight: 70
-title: Foire aux questions
 layout: politique-logiciel-libre
-permalink: /publications/politique-logiciel-libre/faq/
 ---
 
 ### Périmètre 
