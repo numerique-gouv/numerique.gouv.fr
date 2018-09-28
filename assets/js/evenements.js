@@ -10,9 +10,16 @@ import { configureConf, menuSelectConf, refinementListConf, infiniteHitsConfEven
 
 
 const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');
-
-const search = new Instantsearch_factory(instantsearch,searchClient,agenda_routing_conf).init();
+const indexName = process.env.ALGOLIA_INDEX;
+const search = new Instantsearch_factory(indexName,instantsearch,searchClient,agenda_routing_conf).init();
 const instantsearch_builder = new Instantsearch_builder(search);
+
+if (process.env.NODE_ENV === 'production') {
+  console.log('Welcome to production');
+}
+if (process.env.DEBUG) {
+  console.log('Debugging output');
+}
 
 const datePicker = connectRange(
   (options, isFirstRendering) => {

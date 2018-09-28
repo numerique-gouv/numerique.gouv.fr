@@ -28,8 +28,11 @@ header {
   }
 }
 .marianne {
-  height: 2rem;
+  height: 3rem;
   max-width: 100%;
+  @include breakpoint(small only) {
+    height: 1rem;
+  }
 }
 #nav-dinsic {
   display: flex;
@@ -42,7 +45,7 @@ header {
   }
   #nav-titre {
     flex-basis:min-content;
-    padding: 1.3rem;
+    padding: 0.9rem;
     h1, a {
       margin: 0;
       padding: 0;
