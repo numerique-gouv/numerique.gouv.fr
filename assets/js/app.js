@@ -80,7 +80,7 @@ $elements.each(function () {
   fetch($(this).attr("href")).then(function (response) {
     const fileSize = response.headers.get('Content-Length')/1024;
     const $element = $(that);
-    const $pdf = $element.find(".pdf")
+    const $pdf = $element.find(".pdf");
     $pdf.text($pdf.text() + ' ' + Math.round( fileSize ) + ' Ko)');
   });
 });
