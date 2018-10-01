@@ -55,7 +55,7 @@ const webpackConfigPreProd = {
   mode: 'production',
   plugins: [
     new webpack.EnvironmentPlugin({
-      NODE_ENV: 'production', // use 'development' unless process.env.NODE_ENV is defined
+      NODE_ENV: 'preproduction', // use 'development' unless process.env.NODE_ENV is defined
       DEBUG: false,
       ALGOLIA_INDEX: 'jekyll-dinsic-preprod'
     })
@@ -76,7 +76,9 @@ let webpackConfig;
 
 if (PRODUCTION){
   webpackConfig = merge(webpackConfigCommon, webpackConfigProd)
-} else {
+} else if(PREPRODUCTION) {
+  webpackConfig = merge(webpackConfigCommon, webpackConfigPreProd)
+} else if(DEVELOPPEMENT) {
   webpackConfig = merge(webpackConfigCommon, webpackConfigDev)
 }
 

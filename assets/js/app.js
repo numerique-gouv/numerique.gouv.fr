@@ -17,6 +17,13 @@ const grayClass = 'gray';
 const menu = $('#responsive-menu');
 const main = $('#main');
 
+if (process.env.NODE_ENV === 'development') {
+  console.log('Welcome to development');
+} else if (process.env.NODE_ENV === 'preproduction') {
+  console.log('Welcome to preproduction');
+}
+
+
 
 button.on('click', function() {
   toogleMenu();

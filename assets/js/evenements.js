@@ -14,13 +14,6 @@ const indexName = process.env.ALGOLIA_INDEX;
 const search = new Instantsearch_factory(indexName,instantsearch,searchClient,agenda_routing_conf).init();
 const instantsearch_builder = new Instantsearch_builder(search);
 
-if (process.env.NODE_ENV === 'production') {
-  console.log('Welcome to production');
-}
-if (process.env.DEBUG) {
-  console.log('Debugging output');
-}
-
 const datePicker = connectRange(
   (options, isFirstRendering) => {
     if (!isFirstRendering) return;
