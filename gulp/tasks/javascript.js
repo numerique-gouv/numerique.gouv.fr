@@ -7,8 +7,12 @@ const uglify = require('gulp-uglify');
 const webpackStream = require('webpack-stream');
 const webpack = require('webpack');
 const JAVASCRIPT = require('../util/loadConfig').JAVASCRIPT;
-const PRODUCTION = !!(yargs.argv.production);
 const merge = require('webpack-merge');
+
+const PRODUCTION = !!(yargs.argv.production);
+const DEVELOPPEMENT = !!(yargs.argv.developpement);
+const PREPRODUCTION = !!(yargs.argv.preproduction);
+
 
 const pump = require('pump');
 
