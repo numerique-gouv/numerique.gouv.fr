@@ -6,12 +6,14 @@ import FetchService from "../../services/fetch-services"
 
 describe('coordinatesService', function() {
   const sandbox = sinon.createSandbox();
-  describe('#get_coordinates()', function() {
-    const fetchService = new FetchService();
-    const coordinatesService = new CoordinatesService(fetchService);
-    let fetchStub;
+  const fetchService = new FetchService();
+  let coordinatesService;
+  describe('#getCoordinates()', function() {
+    let getJsonResponseStub;
     beforeEach(function () {
-      fetchStub = sandbox.stub(fetchService,"fetch");
+      getJsonResponseStub = sandbox.stub(fetchService,"getJsonResponse");
+      coordinatesService = new CoordinatesService(fetchService);
+
     });
     afterEach(function () {
       sandbox.restore();
@@ -31,11 +33,11 @@ describe('coordinatesService', function() {
         "query": "20 avenue de segur",
         "licence": "ODbL 1.0"
       };
-      fetchStub.withArgs(url).resolves(response);
+      getJsonResponseStub.withArgs(url).resolves(response);
       // WHEN
       coordinatesService.getCoordinates(url);
       // THEN
-      assert(fetchStub.withArgs(url).calledOnce)
+      assert(getJsonResponseStub.withArgs(url).calledOnce)
     });
     it('Should return coordinate', function () {
       // GIVEN
@@ -77,11 +79,42 @@ describe('coordinatesService', function() {
         "licence": "ODbL 1.0"
       };
       const expectedCoordinates = [2.308309, 48.850318];
-      fetchStub.withArgs(url).resolves(response);
+      getJsonResponseStub.withArgs(url).resolves(response);
       // WHEN
-      const coordinates = coordinatesService.getCoordinates(url);
-      // THEN
-      assert.deepEqual(coordinates, expectedCoordinates);
+      coordinatesService.getCoordinates(url).then((coordinates) => {
+        // THEN
+        assert.deepEqual(coordinates, expectedCoordinates);
+      })
     });
   });
+  describe('#getURLfromAdress()', function () {
+    it('should return an object', function () {
+      // GIVEN
+      coordinatesService = new CoordinatesService(fetchService);
+      // WHEN
+      const url = coordinatesService.getURLfromAdress('');
+      // THEN
+      assert.isOk(url, 'is valid object');
+    });
+    it('should return a valid url when one word request', function () {
+      // GIVEN
+      coordinatesService = new CoordinatesService(fetchService);
+      const expectedURL = "https://api-adresse.data.gouv.fr/search/?q=dinsic";
+      const address = "dinsic";
+      // WHEN
+      const url = coordinatesService.getURLfromAdress(address);
+      // THEN
+      assert.deepEqual(url, expectedURL);
+    })
+    it('should return a valid url when multi word request', function () {
+      // GIVEN
+      coordinatesService = new CoordinatesService(fetchService);
+      const expectedURL = "https://api-adresse.data.gouv.fr/search/?q=20+avenue+de+Ségur";
+      const address = "20 avenue de Ségur";
+      // WHEN
+      const url = coordinatesService.getURLfromAdress(address);
+      // THEN
+      assert.deepEqual(url, expectedURL);
+    })
+  })
 });
