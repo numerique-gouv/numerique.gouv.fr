@@ -31,7 +31,7 @@ Le suivi éditorial et graphique est assuré au quotidien par la mission Communi
 Le code source du site est disponible sur Github (lien à venir).
 
 
-## Liens vers numerique.gouv.fr ##
+## Propriété intellectuelle et liens vers numerique.gouv.fr ##
 Tout site public ou privé est autorisé à établir, sans autorisation préalable, un lien (y compris profond) vers les informations diffusées sur numerique.gouv.fr
 
 Sauf mention spécifique (notamment un crédit sur certaines images), les contenus de ce site sont proposés sous licence ouverte.
