@@ -7,7 +7,7 @@ tags:
 - MOOC
 - Formation
 chapeau-text: |-
-  Découvrir en 1h30 la méthode Startup d’État. C’est la promesse du MOOC **« Créer des services publics numériques innovants »** lancé par [beta.gouv.fr](https://beta.gouv.fr/), incubateur de services numériques au sein de la **direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC)** et le **centre national de la fonction publique territoriale (CNFPT).**
+  Découvrir en 1h30 la méthode Startup d’État. C’est la promesse du MOOC « Créer des services publics numériques innovants » lancé par [beta.gouv.fr](https://beta.gouv.fr/) , incubateur de services numériques au sein de la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) et le centre national de la fonction publique territoriale (CNFPT).
   L’objectif ? Permettre aux agents publics désireux d’innover de se lancer.
 une-ou-diaporama:
 - image: "/uploads/2018-10-02%2010_39_24-Teaser%20Mooc%20Beta.gouv.fr.mp4%20-%20Lecteur%20multim%C3%A9dia%20VLC.png"
@@ -21,7 +21,7 @@ Depuis 2013, [beta.gouv.fr ](https://beta.gouv.fr/)développe une nouvelle mani�
 
 ## Former les agents publics à la méthode Startup d’État
 
-Lancé dans le cadre du \*\*programme de développement concerté de l’administration numérique territoriale (DCANT), \*\*le MOOC « Créer des services publics numériques innovants » s’adresse aux agents publics confrontés à des irritants sur leur territoire qui souhaitent innover mais ne savent pas comment se lancer. Aucune compétence en informatique préalable n’est requise.
+Lancé dans le cadre du **programme de développement concerté de l’administration numérique territoriale (DCANT),** le MOOC **« Créer des services publics numériques innovants »** s’adresse aux agents publics confrontés à des irritants sur leur territoire qui souhaitent innover mais ne savent pas comment se lancer. Aucune compétence en informatique préalable n’est requise.
 
 ## Modalités de formation
 
@@ -29,11 +29,21 @@ Lancé dans le cadre du \*\*programme de développement concerté de l’adminis
 
 Chaque module est composé de vidéos formatives pour comprendre les concepts, de témoignages des membres de la communauté [beta.gouv.fr](https://beta.gouv.fr/) (coachs, développeurs, agents, sponsors) et d’une fiche produit à remplir pour passer de la formation à l’action. Tout au long de la formation, les apprenants auront accès à un forum de discussion pour pouvoir dialoguer à tout moment avec la responsable de la formation. À l’issue de la formation, les participants seront en mesure de proposer la création d’un service innovant répondant à un vrai problème et d’élaborer une feuille de route pour obtenir de premiers résultants en moins de six mois.
 
-**Programme du MOOC « Créer des services publics numériques innovants »**\
-**Module 1 : Les notions clés de la méthode « startup d’État »**\
-Séquence 1 - Résoudre les problèmes des usagers\
-Séquence 2 - Trouver ses premiers utilisateurs\
-Séquence 3 - Mesurer son impact dans le réel\
-Séquence 4 - Survivre en milieu hostile\
-**Module 2 : Construire et tester son produit sans développeur**\
-Séquence 5 - Faire de l’industriel en mode artisanal
+**Programme du MOOC « Créer des services publics numériques innovants »**
+
+**Module 1 : Les notions clés de la méthode « startup d’État »**
+
+* Séquence 1 - Résoudre les problèmes des usagers
+
+* Séquence 2 - Trouver ses premiers utilisateurs
+
+* Séquence 3 - Mesurer son impact dans le réel
+
+* Séquence 4 - Survivre en milieu hostile
+
+**Module 2 : Construire et tester son produit sans développeur**
+
+* Séquence 5 - Faire de l’industriel en mode artisanal
+
+[Programme et inscription au MOOC « Créer des services publics numériques innovants »](https://www.fun-mooc.fr/courses/course-v1:CNFPT\+87027\+session01/about)
+{: .lien-important}
