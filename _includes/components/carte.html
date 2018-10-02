@@ -15,13 +15,11 @@
       {% if carte.date %}
       <span class="h6 date display-inline-block">{% include helpers/date.html date=carte.date %}</span>
       {% endif %}
-      <p>
-        {% if carte.chapeau-text %}
-        {{ carte.chapeau-text | truncatewords: 25 | markdownify }}
-        {% else %}
-        {{ carte.content | truncatewords: 25 | markdownify}}
-        {% endif %}
-      </p>
+      {% if carte.chapeau-text %}
+      {{ carte.chapeau-text | truncatewords: 25 | markdownify }}
+      {% else %}
+      {{ carte.content | truncatewords: 25 | markdownify}}
+      {% endif %}
     </div>
   </a>
   <hr class="blue-hr margin-top-auto">
