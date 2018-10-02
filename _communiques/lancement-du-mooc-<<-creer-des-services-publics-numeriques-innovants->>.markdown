@@ -29,11 +29,18 @@ Lancé dans le cadre du **programme de développement concerté de l’administr
 
 Chaque module est composé de vidéos formatives pour comprendre les concepts, de témoignages des membres de la communauté [beta.gouv.fr](https://beta.gouv.fr/) (coachs, développeurs, agents, sponsors) et d’une fiche produit à remplir pour passer de la formation à l’action. Tout au long de la formation, les apprenants auront accès à un forum de discussion pour pouvoir dialoguer à tout moment avec la responsable de la formation. À l’issue de la formation, les participants seront en mesure de proposer la création d’un service innovant répondant à un vrai problème et d’élaborer une feuille de route pour obtenir de premiers résultants en moins de six mois.
 
-**Programme du MOOC « Créer des services publics numériques innovants »**\
-**Module 1 : Les notions clés de la méthode « startup d’État »**\
-* Séquence 1 - Résoudre les problèmes des usagers\
-* Séquence 2 - Trouver ses premiers utilisateurs\
-* Séquence 3 - Mesurer son impact dans le réel\
-* Séquence 4 - Survivre en milieu hostile\
-**Module 2 : Construire et tester son produit sans développeur**\
+**Programme du MOOC « Créer des services publics numériques innovants »**
+
+**Module 1 : Les notions clés de la méthode « startup d’État »**
+
+* Séquence 1 - Résoudre les problèmes des usagers
+
+* Séquence 2 - Trouver ses premiers utilisateurs
+
+* Séquence 3 - Mesurer son impact dans le réel
+
+* Séquence 4 - Survivre en milieu hostile
+
+**Module 2 : Construire et tester son produit sans développeur**
+
 * Séquence 5 - Faire de l’industriel en mode artisanal
