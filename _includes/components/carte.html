@@ -17,9 +17,9 @@
       {% endif %}
       <p>
         {% if carte.chapeau-text %}
-        {{ carte.chapeau-text | truncatewords: 25}}
+        {{ carte.chapeau-text | truncatewords: 25 | markdownify }}
         {% else %}
-        {{ carte.content | truncatewords: 25}}
+        {{ carte.content | truncatewords: 25 | markdownify}}
         {% endif %}
       </p>
     </div>
