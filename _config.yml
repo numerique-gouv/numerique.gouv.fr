@@ -35,12 +35,12 @@ defaults:
     is_une: true
     categories:
     - Article
-    chapeau-text:
+    chapeau-text: 
     une-ou-diaporama:
-    - image:
-      legende:
-      alternative-textuelle:
-    auteur:
+    - image: 
+      legende: 
+      alternative-textuelle: 
+    auteur: 
 - scope:
     path: ''
     type: communiques
@@ -49,11 +49,11 @@ defaults:
     layout: communique
     categories:
     - Communiqué de presse
-    chapeau-text:
+    chapeau-text: 
     une-ou-diaporama:
-    - image:
-      legende:
-      alternative-textuelle:
+    - image: 
+      legende: 
+      alternative-textuelle: 
     contact-presse:
       name: Rachel Wadoux
       tel:
@@ -65,6 +65,20 @@ defaults:
     type: evenements
   values:
     layout: evenement
+    chapeau-text:
+    une-ou-diaporama:
+    - image:
+      legende:
+      alternative-textuelle:
+    event_date:
+    lieu: DINSIC
+    adresse: 20 avenue de Ségur 75007 Paris
+    accès:
+      - type: Métro
+        ligne:
+          - nom: Ligne 9 Iéna
+          - nom:
+
 url: https://numerique.gouv.fr
 categories:
 - main
