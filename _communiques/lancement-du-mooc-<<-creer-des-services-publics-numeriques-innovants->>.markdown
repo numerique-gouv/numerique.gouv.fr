@@ -45,5 +45,5 @@ Chaque module est composé de vidéos formatives pour comprendre les concepts, d
 
 * Séquence 5 - Faire de l’industriel en mode artisanal
 
-[Programme et inscription au MOOC « Créer des services publics numériques innovants »](https://www.fun-mooc.fr/courses/course-v1:CNFPT\+87027\+session01/about)
+[Programme et inscription au MOOC « Créer des services publics numériques innovants » ](https://www.fun-mooc.fr/courses/course-v1:CNFPT+87027+session01/about)
 {: .lien-important}
