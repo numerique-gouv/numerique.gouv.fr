@@ -9,7 +9,7 @@ import {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf} fro
 
 
 const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');
-const indexName = 'jekyll-dinsic';
+const indexName = process.env.ALGOLIA_INDEX;
 const search = new Instantsearch_factory(indexName,instantsearch,searchClient,collection_routing_conf).init();
 const instantsearch_builder = new Instantsearch_builder(search);
 
