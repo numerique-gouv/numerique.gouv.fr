@@ -255,8 +255,6 @@ jobs:
               echo "Not deploy branch, dry run only"
             fi
 
-
-
 workflows:
   version: 2
   build-test-and-deploy:

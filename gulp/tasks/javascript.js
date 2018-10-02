@@ -7,8 +7,12 @@ const uglify = require('gulp-uglify');
 const webpackStream = require('webpack-stream');
 const webpack = require('webpack');
 const JAVASCRIPT = require('../util/loadConfig').JAVASCRIPT;
-const PRODUCTION = !!(yargs.argv.production);
 const merge = require('webpack-merge');
+const log = require('fancy-log');
+
+const PRODUCTION = !!(yargs.argv.production);
+const PREPRODUCTION = !!(yargs.argv.preproduction);
+const DEVELOPMENT = !!(yargs.argv.development);
 
 const pump = require('pump');
 
@@ -51,7 +55,7 @@ const webpackConfigPreProd = {
   mode: 'production',
   plugins: [
     new webpack.EnvironmentPlugin({
-      NODE_ENV: 'production', // use 'development' unless process.env.NODE_ENV is defined
+      NODE_ENV: 'preproduction', // use 'development' unless process.env.NODE_ENV is defined
       DEBUG: false,
       ALGOLIA_INDEX: 'jekyll-dinsic-preprod'
     })
@@ -68,16 +72,21 @@ const webpackConfigProd = {
     })
   ]
 };
-let webpackConfig;
-
-if (PRODUCTION){
-  webpackConfig = merge(webpackConfigCommon, webpackConfigProd)
-} else {
-  webpackConfig = merge(webpackConfigCommon, webpackConfigDev)
-}
-
 
 gulp.task('javascript', function (cb) {
+  let webpackConfig;
+  if (PRODUCTION){
+    log('webpack in production mode');
+    webpackConfig = merge(webpackConfigCommon, webpackConfigProd)
+  } else if(PREPRODUCTION) {
+    log('webpack in preproduction mode');
+    webpackConfig = merge(webpackConfigCommon, webpackConfigPreProd)
+  } else if(DEVELOPMENT) {
+    log('webpack in development mode');
+    webpackConfig = merge(webpackConfigCommon, webpackConfigDev)
+  } else {
+    log('webpack in undefined mode')
+  }
   pump([
     gulp.src(JAVASCRIPT.src),
     named(),

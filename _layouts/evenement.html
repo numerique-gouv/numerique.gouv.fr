@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="page-fille gray-background">
+  <article class="article">
+    {% include article.html %}
+    <div id="informations-pratiques">
+      <p class="font-bold">{{ page.lieu }}</p>
+      {% if page.adresse %}
+        <p>{{ page.adresse }}</p>
+      {% endif %}
+      <br>
+      <p class="font-bold">Comment y aller ?</p>
+    </div>
+    {% if page.adresse %}
+      <div id="map" data-address="{{ page.adresse }}" >
+      </div>
+    {% endif %}
+  </article>
+</div>
+
