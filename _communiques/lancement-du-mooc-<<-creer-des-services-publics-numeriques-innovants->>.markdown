@@ -41,6 +41,8 @@ Chaque module est composé de vidéos formatives pour comprendre les concepts, d
 
 * Séquence 4 - Survivre en milieu hostile
 
+
 **Module 2 : Construire et tester son produit sans développeur**
+
 
 * Séquence 5 - Faire de l’industriel en mode artisanal
