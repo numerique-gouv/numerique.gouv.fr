@@ -18,5 +18,15 @@
 }
 
 #informations-pratiques {
-  background-color: $bulbizarre;
+  background-color: $bleue-vert;
+  color: $white;
+  margin: none;
+  padding: 1rem;
+  p {
+    text-align: center;
+  }
+}
+
+#map {
+  height: 30rem;
 }

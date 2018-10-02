@@ -1,11 +1,13 @@
 class Geo {
-  constructor(address) {
+  constructor(coordinatesService, address) {
+    this.coordinatesService = coordinatesService;
     this.address = address;
   }
 
-  get_coordinates() {
-
+  getCoordinates() {
+    const url = this.coordinatesService.getURLFromAddress(this.address);
+    return this.coordinatesService.getCoordinates(url);
   }
 }
 
-
+export { Geo }

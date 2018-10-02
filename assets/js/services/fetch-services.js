@@ -1,5 +1,5 @@
 import fetch from 'node-fetch'
-module.exports = class FetchServices {
+class FetchServices {
   fetch (url) {
     return fetch(url)
   }
@@ -8,4 +8,6 @@ module.exports = class FetchServices {
       .then((response) => response.json())
       .catch((error) => console.log(error))
   }
-};
+}
+
+export { FetchServices }
