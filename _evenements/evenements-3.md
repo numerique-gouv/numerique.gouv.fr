@@ -7,18 +7,18 @@ tags:
 event_date: 2018-10-18 00:00:00 +02:00
 lieu: DINSIC
 adresse: 20 avenue de Ségur
-accès:
+acces:
 - type: Métro
-  ligne:
+  lignes:
   - nom: Ligne 9 Iéna
-  - nom: 
-champs-informations:
-- intitulé: contact
+  - nom: Ligne 6 Ségur
+champs_informations:
+- intitule: contact
   contenu: loremipsum@modernisation.gouv.fr
-- intitulé: inscription
+- intitule: inscription
   contenu: www.loremipsum.fr
   lien: https://www.loremipsum.fr
-- intitulé: plus d'info
+- intitule: plus d'info
   contenu: www.dolores.fr
   lien: https://dolores.fr
 ---
