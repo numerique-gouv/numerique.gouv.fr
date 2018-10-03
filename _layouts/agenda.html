@@ -1,0 +1,22 @@
+---
+layout: page-mere
+---
+
+<div class="gray-background">
+  {% include components/titre-page-mere.html titre=page.title %}
+</div>
+<section class="grid-x grid-margin-x max-width-75 margin-1 padding-vertical-2" >
+  <div class="cell large-8 medium-8 small-12">
+    <h2>Tous nos événements</h2>
+    {% include components/list-post.html %}
+  </div>
+  <div class="cell large-4 medium-4 small-12">
+    <div id="month-picker" class="daterange"></div>
+    <div id="reportrange">
+      <span tabindex="0"></span>
+    </div>
+    <div id="categories"></div>
+    <div id="tags" class="margin-top-1"></div>
+  </div>
+</section>
+

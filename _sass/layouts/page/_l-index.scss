@@ -5,6 +5,12 @@
   background-color: $white;
   max-width: none;
 
+  #header-index {
+    @include breakpoint(small down) {
+      flex-direction: column-reverse;
+    }
+  }
+
   #visuel-accueil {
     background: url("/assets/img/main/image-home.jpg") center;
     -webkit-background-size: cover; /* pour anciens Chrome et Safari */
@@ -37,7 +43,7 @@
       }
     }
   }
-  #bandeau-droite {
+  #bandeau-secretariat {
     background-color: #1E9793;
     text-align: center;
     color: white;
@@ -54,12 +60,14 @@
       .bloc-links {
         text-align: left;
         padding-top: 0.8rem;
+        font-size: 0.9rem;
         .link {
           margin: 5px 0;
         }
         a {
           color: white;
           margin: 5px 0;
+
         }
         .picto {
           margin: 0;

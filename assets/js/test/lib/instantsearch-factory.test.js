@@ -8,13 +8,14 @@ describe('Instantsearch_factory', function() {
     it('should call instantsearch with pass parameters', function () {
 
       // GIVEN
+      const indexName = 'toto';
       const routing = 'routing';
       const collection = 'collection';
       const instantsearch_spy = sinon.spy();
       const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');
-      const instantsearch_factory = new Instantsearch_factory(instantsearch_spy,searchClient,routing, collection);
+      const instantsearch_factory = new Instantsearch_factory(indexName, instantsearch_spy,searchClient,routing, collection);
       const args = {
-        indexName: 'jekyll-dinsic',
+        indexName: indexName,
         searchClient: searchClient,
         routing: routing,
         searchParameters: {

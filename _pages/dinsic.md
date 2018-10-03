@@ -18,3 +18,7 @@ layout: dinsic
 La direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) **accompagne les ministères dans leur transformation numérique, conseille le gouvernement** et **développe des services et ressources partagées** comme le réseau interministériel de l’État, [FranceConnect Identité](https://franceconnect.gouv.fr), [data.gouv.fr](https://www.data.gouv.fr) ou [api.gouv.fr](https://www.api.gouv.fr).
 
 La DINSIC est un **service du Premier ministre**, sous l’autorité du secrétaire d’État chargé du Numérique.
+
+Les textes fondateurs :
+* [décret du 21 septembre 2015](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031194412&categorieLien=cid){:target="_blank"}
+* [décret du 20 novembre 2017](https://www.legifrance.gouv.fr/eli/decret/2017/11/20/PRMX1732385D/jo/texte){:target="_blank"}

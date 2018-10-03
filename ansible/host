@@ -1,12 +1,8 @@
 [dev]
-dev.test-dinsic.fr
+dev.numerique.gouv.fr
 
 [preprod]
-preprod.test-dinsic.fr
+preprod.numerique.gouv.fr
 
 [prod]
 test-dinsic.fr
-
-
-
-

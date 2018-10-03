@@ -9,8 +9,9 @@ import { Instantsearch_builder } from "./instant-search/instantsearch-builder";
 import {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf} from "./conf/wiggetConf"
 
 const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');
+const indexName = process.env.ALGOLIA_INDEX;
 
-const search = new Instantsearch_factory(instantsearch,searchClient,collection_routing_conf).init();
+const search = new Instantsearch_factory(indexName,instantsearch,searchClient,collection_routing_conf).init();
 const instantsearch_builder = new Instantsearch_builder(search);
 
 instantsearch_builder.addWidget(configure,configureConf("actualites"));

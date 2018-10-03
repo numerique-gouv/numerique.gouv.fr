@@ -4,7 +4,7 @@ function configureConf(collection) {
   return{
     filters: `collection:${collection}`
   }
-};
+}
 
 const menuSelectConf = {
   container: '#categories',
@@ -49,9 +49,26 @@ const infiniteHitsConf = {
   }
 };
 
+const infiniteHitsConfEvent = {
+  container: '#infinite-hits',
+  templates: {
+    item: function (hit) {
+      const template_builder = new Template_builder(hit);
+      return template_builder.get_template_event();
+    },
+    empty: "Nous n'avons rien trouvé pour la recherche : <em>\"{{query}}\"</em>",
+  },
+  showMoreLabel: "Voir plus de résultats",
+  cssClasses: {
+    showmoreButton: "button voir-plus-button",
+    root: 'grid-x grid-margin-x padding-bottom-2',
+    item: 'cell large-4 medium-6 small-12 padding-1 event-item margin-bottom-1'
+  }
+};
+
 const searchBoxConf =  {
   container: '#search-input',
   poweredBy: true
 };
 
-export {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf, searchBoxConf};
+export {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf, searchBoxConf, infiniteHitsConfEvent};

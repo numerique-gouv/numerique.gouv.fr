@@ -47,3 +47,14 @@ https://github.com/geerlingguy/ansible-role-php`
 
 git remote add test-dinsic git@github.com:MatthiasFeraga/site-dinsic.git
 git fetch test-dinsic
+
+
+## Exporter la variable d'env algolia
+creer un fichier .env à la racine
+écrire dans le fichier: 
+
+    ALGOLIA_API_KEY="******************************"
+    
+entrer la commande
+
+    export $(grep -v '^#' .env | xargs)

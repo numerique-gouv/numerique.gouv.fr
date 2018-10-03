@@ -6,7 +6,6 @@
 //
 // Custom JS
 // --------------------------------------------------
-import $ from 'jquery'
 import '@babel/polyfill'
 import "isomorphic-fetch"
 import "es6-promise"
@@ -17,6 +16,13 @@ const activatedClass = 'is-active';
 const grayClass = 'gray';
 const menu = $('#responsive-menu');
 const main = $('#main');
+
+if (process.env.NODE_ENV === 'development') {
+  console.log('Welcome to development');
+} else if (process.env.NODE_ENV === 'preproduction') {
+  console.log('Welcome to preproduction');
+}
+
 
 
 button.on('click', function() {
@@ -74,7 +80,7 @@ $elements.each(function () {
   fetch($(this).attr("href")).then(function (response) {
     const fileSize = response.headers.get('Content-Length')/1024;
     const $element = $(that);
-    const $pdf = $element.find(".pdf")
+    const $pdf = $element.find(".pdf");
     $pdf.text($pdf.text() + ' ' + Math.round( fileSize ) + ' Ko)');
   });
 });
