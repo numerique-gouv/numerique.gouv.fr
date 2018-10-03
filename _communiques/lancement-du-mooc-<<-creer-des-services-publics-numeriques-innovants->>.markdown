@@ -25,7 +25,7 @@ Lancé dans le cadre du **programme de développement concerté de l’administr
 
 ## Modalités de formation
 
-[Après inscriptions (ouvertes du 1 er octobre au 15 novembre), ](https://www.fun-mooc.fr/courses/course-v1:CNFPT\+87027\+session01/about)les cours seront accessibles à la carte en se connectant à la plateforme FUN, du 15 octobre au 30 novembre 2018. Les apprenants seront formés par les membres de la communauté [beta.gouv.fr](https://beta.gouv.fr/) en 5 séquences thématiques.
+[Après inscriptions (ouvertes du 1 er octobre au 15 novembre), ](https://www.fun-mooc.fr/courses/course-v1:CNFPT+87027+session01/about)les cours seront accessibles à la carte en se connectant à la plateforme FUN, du 15 octobre au 30 novembre 2018. Les apprenants seront formés par les membres de la communauté [beta.gouv.fr](https://beta.gouv.fr/) en 5 séquences thématiques.
 
 Chaque module est composé de vidéos formatives pour comprendre les concepts, de témoignages des membres de la communauté [beta.gouv.fr](https://beta.gouv.fr/) (coachs, développeurs, agents, sponsors) et d’une fiche produit à remplir pour passer de la formation à l’action. Tout au long de la formation, les apprenants auront accès à un forum de discussion pour pouvoir dialoguer à tout moment avec la responsable de la formation. À l’issue de la formation, les participants seront en mesure de proposer la création d’un service innovant répondant à un vrai problème et d’élaborer une feuille de route pour obtenir de premiers résultants en moins de six mois.
 
@@ -45,5 +45,5 @@ Chaque module est composé de vidéos formatives pour comprendre les concepts, d
 
 * Séquence 5 - Faire de l’industriel en mode artisanal
 
-[Programme et inscription au MOOC « Créer des services publics numériques innovants »](https://www.fun-mooc.fr/courses/course-v1:CNFPT\+87027\+session01/about)
+[Programme et inscription au MOOC « Créer des services publics numériques innovants »](https://www.fun-mooc.fr/courses/course-v1:CNFPT+87027+session01/about)
 {: .lien-important}
