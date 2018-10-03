@@ -16,9 +16,9 @@
       <span class="h6 date display-inline-block">{% include helpers/date.html date=carte.date %}</span>
       {% endif %}
       {% if carte.chapeau-text %}
-      {{ carte.chapeau-text | truncatewords: 25 | markdownify }}
+      {{ carte.chapeau-text | regex_replace: '\[(.*)\]\(.*?\)', '\1' | truncatewords: 25  }}
       {% else %}
-      {{ carte.content | truncatewords: 25 | markdownify}}
+      {{ carte.content | truncatewords: 25 }}
       {% endif %}
     </div>
   </a>
