@@ -68,7 +68,7 @@ const infiniteHitsConfEvent = {
 
 const searchBoxConf =  {
   container: '#search-input',
-  poweredBy: true
+  poweredBy: false
 };
 
 export {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf, searchBoxConf, infiniteHitsConfEvent};

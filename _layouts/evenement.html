@@ -6,6 +6,7 @@ layout: default
   <article class="article">
     {% include article.html %}
     <div id="informations-pratiques">
+      <h2 class="h5">Informations pratiques</h2>
       <p class="font-bold">{{ page.lieu }}</p>
       {% if page.adresse %}
         <p>{{ page.adresse }}</p>
@@ -39,6 +40,7 @@ layout: default
       {% endfor %}
     </div>
     {% if page.adresse %}
+    <h3 class="off-screen">Carte</h3>
       <div id="map" data-address="{{ page.adresse }}" >
       </div>
     {% endif %}
