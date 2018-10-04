@@ -4,6 +4,7 @@ permalink: "/accessibilite/"
 position: 8
 layout: page-annexe
 ---
+
 ## Déclaration de conformité - RGAA 3.0 ##
 L’audit de conformité du site numerique.gouv.fr est actuellement en cours. La déclaration de conformité sera prochainement publiée.
 

@@ -4,6 +4,7 @@ permalink: "/donnees-personnelles/"
 position: 7
 layout: page-annexe
 ---
+
 ## Cookies et respect de votre vie privée ##
 **Ce site ne prélève aucune donnée à caractère personnel.**
 
