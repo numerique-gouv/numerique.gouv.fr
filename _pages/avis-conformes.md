@@ -6,6 +6,9 @@ layout: avis-conformes
 une:
   image: "/assets/img/main/image_avis_conformes.jpg"
   alternative-textuelle: les avis conformes
+chapeau-text: La direction interministérielle du numérique et du système d’information
+  et de communication de l’Etat (DINSIC) publie, pour la première fois, ses avis conformes
+  sur les grands projets du système d'information et de communication de l’État.
 ministeres:
 - annees:
   - avis:
@@ -197,7 +200,7 @@ ministeres:
       titre: CHORUS INFRA
     date-annee: '2011'
   image: "/assets/img/avis-conformes/ministereeconomie_ok.jpg"
-  titre: Ministère de l'Économie et des FinancesMinistère de l'Action et des Comptes
+  titre: Ministère de l'Économie et des Finances Ministère de l'Action et des Comptes
     publics
 - annees:
   - avis:
@@ -232,7 +235,7 @@ ministeres:
       titre: CYCLADES
     date-annee: '2012'
   image: "/assets/img/avis-conformes/ministeredeleducationnationale_ok_0.jpg"
-  titre: Ministère de l'Éducation nationaleMinistère de l'Enseignement supérieur,
+  titre: Ministère de l'Éducation nationale, Ministère de l'Enseignement supérieur,
     de la Recherche et de l'Innovation
 - annees:
   - avis:
@@ -253,9 +256,6 @@ ministeres:
   image: "/assets/img/avis-conformes/ministeredelagriculture_ok.jpg"
   titre: Ministère de l'Agriculture et de l'Alimentation
 ---
-
-La direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) publie, pour la première fois, ses avis conformes sur les grands projets du système d'information et de communication de l’État.
-{:.chapeau}
 
 C'est l'une des missions assignées à la DINSIC : sécuriser les grands projets informatiques de l'Etat. Ainsi, avant tout lancement d'un projet de plus de 9 millions d'euros, chaque ministère doit solliciter un avis de conformité auprès du directeur de la DINSIC (au titre des décrets [n°2011-193](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023619023&categorieLien=cid) - article 7, puis [n°2014-879](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029337021) - article 3). Celui-ci est alors évalué selon cinq critères : stratégie, finances, gouvernance, réalisation et planning.
 

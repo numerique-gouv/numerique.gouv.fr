@@ -28,20 +28,24 @@ header {
   }
 }
 .marianne {
-  height: 2rem;
+  height: 3rem;
   max-width: 100%;
+  @include breakpoint(small only) {
+    height: 1rem;
+  }
 }
 #nav-dinsic {
   display: flex;
   width: 100%;
   flex-flow: row wrap;
+  border-bottom: 2px solid $light-gray;
   @include breakpoint(small only) {
     background-color: $white;
     top:0;
   }
   #nav-titre {
     flex-basis:min-content;
-    padding: 1.3rem;
+    padding: 0.9rem;
     h1, a {
       margin: 0;
       padding: 0;
@@ -88,7 +92,7 @@ header {
   }
 }
 
-#file-arianne {
+#fil-ariane {
   font-size: smaller;
 
   @include breakpoint(medium down) {
@@ -96,7 +100,9 @@ header {
   }
 }
 
-
+h1 {
+  margin: 0;
+}
 
 
 footer {
@@ -188,5 +194,11 @@ footer {
     }
   }
 
+}
+
+#button-production {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
 }
 

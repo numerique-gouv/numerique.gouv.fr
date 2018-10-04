@@ -5,17 +5,21 @@ collections:
   actualites:
     title: Actualités
     output: true
-    Data:
-      address_ref: 
+    permalink: "/actualites/:title/"
   communiques:
     title: Communiqués
     output: true
+    permalink: "/espace-presse/:title/"
   evenements:
-    title: Evènements
-    output: true
+    title: Evénements
+    output: false
+    permalink: "/agenda/:title/"
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
+  politique-logiciel-libre:
+    title: Politique de contribution aux logiciels libres de l’État
+    output: true
   posts:
     title: Posts
     output: true
@@ -27,7 +31,7 @@ defaults:
     path: ''
     type: actualites
   values:
-    layout: post
+    layout: page-fille
     is_une: true
     categories:
     - Article
@@ -37,14 +41,12 @@ defaults:
       legende: 
       alternative-textuelle: 
     auteur: 
-    permalink: "/actualites/:title/"
 - scope:
     path: ''
     type: communiques
   values:
     communique_file: uploads/exemple.pdf
     layout: communique
-    permalink: "/espace-presse/:title/"
     categories:
     - Communiqué de presse
     chapeau-text: 
@@ -62,8 +64,22 @@ defaults:
     path: ''
     type: evenements
   values:
-    layout: post
-    permalink: "/evenements/:title/"
+    layout: evenement
+    chapeau-text: 
+    une-ou-diaporama:
+    - image: 
+      legende: 
+      alternative-textuelle: 
+    event_date: 
+    lieu: DINSIC
+    adresse: 20 avenue de Ségur 75007 Paris
+    acces:
+    - type: Métro
+      lignes:
+      - nom: 'exemple: Ligne 9 Iéna'
+    champs_informations:
+    - intitule: contact
+      contenu: loremipsum@modernisation.gouv.fr
 url: https://numerique.gouv.fr
 categories:
 - main
@@ -78,6 +94,7 @@ include:
 - ".htaccess"
 - _pages
 exclude:
+- "/scripts/"
 - ".DS_Store"
 - ".circleci/"
 - bower.json
@@ -97,7 +114,7 @@ exclude:
 - yarn-error.log
 - "/ansible/"
 - "/node_modules/"
-incremental: true
+incremental: false
 compress_html:
   ignore:
     envs:
@@ -118,7 +135,13 @@ algolia:
   - _pages/rechercher.md
   - _pages/avis-conformes.md
   settings:
+    customRanking:
+    - asc(event_date)
+    - desc(date)
+    - desc(custom_ranking.heading)
+    - asc(custom_ranking.position)
     searchableAttributes:
+    - ordered(event_date)
     - unordered(title)
     - ordered(headings)
     - unordered(chapeau-text)

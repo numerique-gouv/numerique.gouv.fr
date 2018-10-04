@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div id="{{ page.layout }}">
+  <div class="object-fit__image-container">
+    <img class="object-fit__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ page.une.image | relative_url }}">
+  </div>
+  <a id="content" tabindex="-1"></a>
+    {{ content }}
+</div>

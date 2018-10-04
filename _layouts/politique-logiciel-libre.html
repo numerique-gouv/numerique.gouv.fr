@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div id="politique-logiciel-libre">
+  <a id="content" tabindex="-1"></a>
+  <section class="margin-0 gray-background page-fille" >
+    <div class="max-width-75 white-area">
+      <div class=grid-x>
+        <h1 class="cell text-center padding-vertical-3  blue-gradient-underline font-bold">Politique de contribution aux logiciels libres de l’État</h1>
+        <div class="lead chapeau cell large-8 large-offset-2 medium-10 medium-offset-1 small-12 small-offset-0">
+          {{ site.data.politique-logiciel-libre.chapeau | markdownify }}
+        </div>
+        <div class="cell margin-bottom-2">
+          {% include components/partager.html %}
+        </div>
+      </div>
+      <!--<button type="button" class="button show-for-small-only">Ouvrir le sommaire</button>-->
+      <div class="grid-x">
+        <div class="margin-bottom-3 padding-left-2 cell large-2 small-12 reveal-for-medium sommaire">
+          <h2>Sommaire</h2>
+          <nav>
+            <ul class="vertical menu">
+              {% assign items = site.politique-logiciel-libre | sort: 'menu.weight' %}
+              {% for item in items %}
+              <li>
+                <a href="{{ item.permalink }}">{{ item.menu.title }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+          </nav>
+        </div>
+        <div class="margin-bottom-3 large-offset-1 cell large-8 small-12">
+          {% if page.menu.title  == 'Introduction' %}
+            <h2>{{ page.menu.title }}</h2>
+          {% else %}
+            <h2>{{ page.title }}</h2>
+          {% endif %}
+          <div class="page-fille-content-text">
+            {{ content | markdownify | smartify }}
+          </div>
+          <a target="_blank" href="https://disic.github.io/politique-de-contribution-open-source/en/">Accéder à la version anglaise</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

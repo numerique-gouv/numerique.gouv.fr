@@ -1,21 +1,16 @@
 ---
-layout: default
+layout: page-mere
 ---
 
-<div id="publications">
-  <a id="content" tabindex="-1"></a>
-  <section class="margin-0" >
-    <div class="gray-background padding-vertical-2 ">
-      <h1 class="text-center padding-vertical-3  blue-gradient-underline font-bold">{{ page.title }}</h1>
-      <div class="grid-container">
-        <div class="grid-x grid-margin-x">
-          {% for publication in page.publications %}
-          <div class="cell large-4 medium-4 small-12">
-            {% include components/carte.html data=publication %}
-          </div>
-          {% endfor %}
-        </div>
+<div class="gray-background padding-bottom-2">
+  {% include components/titre-page-mere.html titre=page.title %}
+  <div class="grid-container">
+    <div class="grid-x grid-margin-x">
+      {% for publication in page.publications %}
+      <div class="margin-top-1 cell large-4 medium-4 small-12">
+        {% include components/carte.html data=publication %}
       </div>
+      {% endfor %}
     </div>
-  </section>
+  </div>
 </div>
