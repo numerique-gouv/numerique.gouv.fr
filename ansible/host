@@ -1,8 +1,0 @@
-[dev]
-dev.numerique.gouv.fr
-
-[preprod]
-preprod.numerique.gouv.fr
-
-[prod]
-test-dinsic.fr

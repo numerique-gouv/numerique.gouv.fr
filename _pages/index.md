@@ -14,4 +14,3 @@ twitters:
 - address: etalab
   nbTweets: 1
 ---
-

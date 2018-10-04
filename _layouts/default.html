@@ -39,6 +39,10 @@ layout: compress
     {% endcapture %}{{ output }}
 
     {% include footer.html %}
+
+    {% if jekyll.environment == "production" %}
+      {% include inludes/components/mise-en-prod.html %}
+    {% endif %}
     </main>
   </body>
 </html>

@@ -3,7 +3,6 @@ title: Flux RSS
 permalink: "/rss/"
 layout: page
 ---
-
 Pour connaître les dernières actualités, communiqués et évènements de La DINSIC : découvrez nos fils d'information RSS.
 
 
