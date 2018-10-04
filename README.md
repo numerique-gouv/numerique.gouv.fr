@@ -27,14 +27,7 @@ Bienvenu à toi développeur ou utilisateur du site de la DINSIC.
 
 Pour la configuration du serveur,  nous avons utilisé les rôles ansible suivants:
 
-https://github.com/geerlingguy/ansible-role-apache
-https://github.com/geerlingguy/ansible-role-php`
 
-
-####Installer un serveur
-`ansible-playbook ./ansible/install-server.yml -i ./ansible/host`
-####Le syncroniser
-`ansible-playbook ./ansible/syncronise-server.yml -i ./ansible/host`
 
 
 ## La chaine de developpement
