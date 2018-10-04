@@ -48,3 +48,18 @@ ExpiresActive On
 
 # -- Compression --
 SetOutputFilter DEFLATE
+
+#Redirections
+Redirect "/economie-numerique" "https://secretaire-etat.numerique.gouv.fr/economie-numerique"
+Redirect "/transformation-numerique-de-letat" "https://secretaire-etat.numerique.gouv.fr/transformation-numerique-de-letat"
+Redirect "/confiance-numerique" "https://secretaire-etat.numerique.gouv.fr/confiance-numerique"
+Redirect "/numerique-inclusif" "https://secretaire-etat.numerique.gouv.fr/numerique-inclusif"
+Redirect "/europe-et-international" "https://secretaire-etat.numerique.gouv.fr/europe-et-international"
+Redirect "/le-secretaire-d-etat" "https://secretaire-etat.numerique.gouv.fr/le-secretaire-d-etat"
+Redirect "/presse" "https://secretaire-etat.numerique.gouv.fr/presse"
+Redirect "/agenda" "https://secretaire-etat.numerique.gouv.fr/agenda"
+Redirect "/actions-startups" "https://secretaire-etat.numerique.gouv.fr/actions-startups"
+Redirect "/rapport-renforcer-lutte-racisme-antisemitisme-internet" "https://secretaire-etat.numerique.gouv.fr/rapport-renforcer-lutte-racisme-antisemitisme-internet"
+Redirect "/etats-generaux-numerique-ouverture-forum-contributif" "https://secretaire-etat.numerique.gouv.fr/etats-generaux-numerique-ouverture-forum-contributif"
+Redirect "/mounir-mahjoubi-rencontre-acteurs-indonesiens-secteur-numerique" "https://secretaire-etat.numerique.gouv.fr/mounir-mahjoubi-rencontre-acteurs-indonesiens-secteur-numerique"
+Redirect "/presentation-plan-national-numerique-inclusif-lancement-numerique-communs" "https://secretaire-etat.numerique.gouv.fr/presentation-plan-national-numerique-inclusif-lancement-numerique-communs"
