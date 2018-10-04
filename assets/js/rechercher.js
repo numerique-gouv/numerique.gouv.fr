@@ -1,6 +1,6 @@
 import algoliasearch from "algoliasearch"
 import instantsearch from "instantsearch.js";
-import {  searchBox ,infiniteHits } from "instantsearch.js/es/widgets";
+import {  searchBox ,infiniteHits,stats } from "instantsearch.js/es/widgets";
 
 
 import { rechercher_routing_conf } from "./conf/routing-conf"
@@ -17,6 +17,13 @@ const instantsearch_builder = new Instantsearch_builder(search);
 instantsearch_builder.addWidget(searchBox, searchBoxConf);
 
 instantsearch_builder.addWidget(infiniteHits, infiniteHitsConf);
+
+instantsearch_builder.addWidget(
+  stats,
+  {
+    container: '#stats'
+  }
+);
 
 instantsearch_builder.start();
 

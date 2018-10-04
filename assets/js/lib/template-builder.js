@@ -33,7 +33,7 @@ export class Template_builder {
     return template.render({date:hit_helper.get_date_formated(), category:hit_helper.get_first_category()});
   };
   get_template_event() {
-    const hit_helper = new Hit_helper(this.data)
+    const hit_helper = new Hit_helper(this.data);
     const image = hit_helper.select_image("une-ou-diaporama");
     const template = hogan.compile(`
           <div>
@@ -57,6 +57,13 @@ export class Template_builder {
         `);
     return template.render({date:hit_helper.get_date_formated(), category:hit_helper.get_first_category()});
   };
+  get_template_nbHits() {
+    const nbHits = new Hit_helper(this.data);
+    const template =  hogan.compile(`
+      <h2>Il y a{ this.data.nbHits } résultats</h2>
+    `);
+    return template.render({isRefined:this.data.isRefined});
+  }
   get_template_tags() {
     const template =  hogan.compile(`
       <a href="${ this.data.url }" class=" tag-select {{#isRefined}}selected{{/isRefined}}">
