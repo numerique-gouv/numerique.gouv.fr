@@ -52,4 +52,6 @@ composer.lock
 # Webstorm
 
 .idea/
+
+#envFile
 .env

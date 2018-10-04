@@ -1,8 +1,0 @@
----
-- hosts: all
-  remote_user: root
-  tasks:
-  - name: Synchronize _site to www folder
-    synchronize:
-      src: ../_site/
-      dest: /var/www/html/

@@ -1,10 +1,11 @@
 ---
 title: Panorama des grands projets SI de l’État
-permalink: "/panorama-grands-projets-si/"
-published: false
+permalink: "/publications/panorama-grands-projets-si/"
 layout: default
 ---
 
+# {{ page.title }}
+{% include components/partager.html %}
 <div class="responsive-embed">
-  <iframe src="http://panorama-grands-projets-si.modernisation.gouv.fr/" frameborder="0" allowfullscreen></iframe>
+  <iframe class="no-border" src="https://disic.github.io/panorama/" allowfullscreen></iframe>
 </div>

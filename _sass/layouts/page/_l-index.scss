@@ -1,0 +1,101 @@
+// --------------------------------------------------
+// Layout index page
+// --------------------------------------------------
+#index-main {
+  background-color: $white;
+  max-width: none;
+
+  #header-index {
+    @include breakpoint(small down) {
+      flex-direction: column-reverse;
+    }
+  }
+
+  #visuel-accueil {
+    background: url("/assets/img/main/image-home.jpg") center;
+    -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+    background-size: cover; /* version standardisée */
+    display: flex;
+    height: auto;
+    @include breakpoint(medium down) {
+      margin: 0rem;
+    }
+    .encart-transparent {
+      max-width: 55rem;
+      background-color: rgba(0, 0, 0, 0.7);
+      margin-left: auto;
+      margin-right: auto;
+      .titre-encart-transparent {
+        color: $white;
+      }
+    }
+    #voir-tout {
+      a {
+        color: $bleue;
+        font: $header-font-family;
+        font-weight: bold;
+        font-size: larger;
+        text-transform: uppercase;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        border-left: 1px solid $bleue;
+        border-right: 1px solid $bleue;
+      }
+    }
+  }
+  #bandeau-secretariat {
+    background-color: #1E9793;
+    text-align: center;
+    color: white;
+    box-shadow: inset 0px 0px 3px 0px #313131;
+    #bloc-text {
+      padding: 0 12.5% 12.5% 12.5%;
+      hr {
+        border: 0.05rem solid white;
+      }
+      p {
+        font-weight: bold;
+        margin: 5px 0;
+      }
+      .bloc-links {
+        text-align: left;
+        padding-top: 0.8rem;
+        font-size: 0.9rem;
+        .link {
+          margin: 5px 0;
+        }
+        a {
+          color: white;
+          margin: 5px 0;
+
+        }
+        .picto {
+          margin: 0;
+          width: 1rem;
+          margin-right: 0.5rem;
+        }
+      }
+    }
+  }
+}
+
+#photo-secretaire-etat {
+  width: 75%;
+  margin: 12.5% 12.5% 0 12.5%;
+}
+
+
+.button {
+  .small {
+    text-transform: none;
+    font-size: 0.8rem;
+    text-wrap: normal;
+  }
+  p {
+    margin: 0;
+  }
+}
+
+#toutes-les-actus {
+  padding-bottom: 4rem;
+}

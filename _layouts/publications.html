@@ -1,0 +1,16 @@
+---
+layout: page-mere
+---
+
+<div class="gray-background padding-bottom-2">
+  {% include components/titre-page-mere.html titre=page.title %}
+  <div class="grid-container">
+    <div class="grid-x grid-margin-x">
+      {% for publication in page.publications %}
+      <div class="margin-top-1 cell large-4 medium-4 small-12">
+        {% include components/carte.html data=publication %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

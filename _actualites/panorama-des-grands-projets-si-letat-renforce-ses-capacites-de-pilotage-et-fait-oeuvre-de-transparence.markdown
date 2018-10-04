@@ -9,6 +9,7 @@ tags:
 - sécurisation
 - système d'information
 - transparence
+- informatique
 position: 5
 is_une: false
 chapeau-text: La DINSIC rend aujourd’hui publique la liste des grands projets du système
@@ -17,6 +18,8 @@ chapeau-text: La DINSIC rend aujourd’hui publique la liste des grands projets 
   harmonisé de suivi des grands projets. Il est utilisé pour prioriser les missions
   d'appui auprès des ministères, qui se le sont également approprié pour leurs propres
   besoins de pilotage.
+une-ou-diaporama:
+- image: "/uploads/revue_de_details.jpg"
 ---
 
 Il est désormais plus facile de suivre les initiatives numériques majeures de l'Etat et leur avancement. La direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC) publie pour la première fois [un panorama des grands projets de système d'information](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-son-systeme-dinformation/panorama-des-grands-projets-si-de-letat){: target="_blank"} (SI). Chacun d'eux est décrit en dix points : nom, description, ministère porteur, date de début, durée prévisionnelle, phase en cours, coût estimé, caractère interministériel, zone fonctionnelle principale en relation avec le plan d’occupation des sols du SI des services publics français, programme LOLF financeur et lien avec les derniers projets annuels de la performance (PAP). Toutes ces informations sont également [disponibles en open data sur la plate-forme data.gouv.fr](http://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){: target="_blank"}.
@@ -48,3 +51,6 @@ La visibilité du panorama valorise les initiatives numériques de l’État et 
 Le processus mis en place facilite le partage et la communication entre les différents acteurs, à tous les échelons : projet, direction, ministère, direction du budget, Etat.
 
 Le cadre de formalisation élaboré par la DINSIC facilite le suivi global des projets. Les documents de travail que les ministères sont invités à renseigner tous les quatre mois apportent les informations nécessaires au pilotage tout en étant suffisamment concis. Ils ont l'avantage de structurer la démarche et d'harmoniser les pratiques.
+
+Crédit photo : everythingpossible - Fotolia
+{: .credit}

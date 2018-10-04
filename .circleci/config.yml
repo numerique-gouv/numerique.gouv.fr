@@ -72,8 +72,10 @@ jobs:
       - run:
           name: Yarn build
           command: |
-            if [ "${CIRCLE_BRANCH}" == "master" ] || [ "${CIRCLE_BRANCH}" == "siteleaf" ]; then
-              yarn build
+            if [ "${CIRCLE_BRANCH}" == "production" ]; then
+              yarn build-prod
+            elif [ "${CIRCLE_BRANCH}" == "preproduction" ]; then
+              yarn build-preprod
             else
               yarn build-dev
             fi
@@ -97,7 +99,9 @@ jobs:
     machine:
         enabled: true
     environment:
-      - HOST: test-dinsic.fr
+      - HOST_PRODUCTION: test-dinsic.fr
+      - HOST_PREPRODUCTION: preprod.test-dinsic.fr
+      - HOST_DEVELOPMENT: dev.test-dinsic.fr
       - LOGIN: root
     steps:
       - attach_workspace:
@@ -114,12 +118,17 @@ jobs:
           name: Deploy on OVH
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
-              echo "Not yet develop"
-            elif [ "${CIRCLE_BRANCH}" == "development" ] || [ "${CIRCLE_BRANCH}" == "siteleaf" ]; then
-              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST:/var/www/html/
+              echo "La branche master n'aboutie pas à un déploiement"
+            elif [ "${CIRCLE_BRANCH}" == "development" ]; then
+              rsync -avc --delete /tmp/workspace/_site/ $LOGIN@$HOST_DEVELOPMENT:/var/www/html/
+            elif [ "${CIRCLE_BRANCH}" == "preproduction" ]; then
+              rsync -avc --delete /tmp/workspace/_site/ $LOGIN@$HOST_PREPRODUCTION:/var/www/html/
+            elif [ "${CIRCLE_BRANCH}" == "production" ]; then
+              rsync -avc --delete /tmp/workspace/_site/ $LOGIN@$HOST_PRODUCTION:/var/www/html/
             else
-              echo "Not development branch, dry run only"
+              echo "Not deploy branch, dry run only"
             fi
+
   test-js:
     docker:
       - image: starefossen/ruby-node:latest
@@ -162,22 +171,119 @@ jobs:
       - store_artifacts:
           path: ~/junit
 
+  index:
+    docker:
+      - image: starefossen/ruby-node:latest
+    steps:
+      - restore_cache:
+          name: Restore Git Cache
+          keys:
+            - source-v5-{{ .Branch }}-{{ .Revision }}
+            - source-v5-{{ .Branch }}-
+            - source-v5-
+
+      - checkout
+
+      - save_cache:
+          name: Save Git Cache
+          key: source-v5-{{ .Branch }}-{{ .Revision }}
+          paths:
+            - ".git"
+
+      # Restore bundle cache
+      - restore_cache:
+          name: Restore Gem Cache
+          keys:
+            - gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - gem-cache-v1-{{ arch }}-{{ .Branch }}
+            - gem-cache-v1
+
+      - run:
+          name: Bundle Install
+          command: bundle check --path=/vendor/bundle || bundle install --path=/vendor/bundle --jobs=4 --retry=3
+
+      # Store bundle cache
+      - save_cache:
+          name: Save Gem Cache
+          key: gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+          paths:
+            - /vendor/bundle
+
+      - run:
+          name: change yarn cache config
+          command: yarn config set cache-folder ~/.cache/yarn
+
+      - restore_cache:
+          name: Restore Yarn Package Cache
+          keys:
+            - yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - yarn-packages-v1-{{ .Branch }}-
+            - yarn-packages-v1-
+      - restore_cache:
+          name: Restore Node module cache
+          keys:
+            # when lock file changes, use increasingly general patterns to restore cache
+            - node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - node-v1-{{ .Branch }}-
+            - node-v1-
+      - run:
+          name: Install Dependencies
+          command: yarn install
+      - save_cache:
+          name: Save Yarn Package Cache
+          key: yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+          paths:
+            - ~/.cache/yarn
+      - save_cache:
+          name: Save Node module cache
+          paths:
+            - /root/project/node_modules  # location depends on npm version
+          key: node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+
+      - run:
+          name: Yarn index
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              echo "La branche master n'aboutie pas à une indéxation"
+            elif [ "${CIRCLE_BRANCH}" == "development" ]; then
+              yarn index-dev
+            elif [ "${CIRCLE_BRANCH}" == "preproduction" ]; then
+              yarn index-preprod
+            elif [ "${CIRCLE_BRANCH}" == "production" ]; then
+              yarn index-prod
+            else
+              echo "Not deploy branch, dry run only"
+            fi
 
 workflows:
   version: 2
-  build_test_deploy:
+  build-test-and-deploy:
     jobs:
       - build
       - test-html:
           requires:
             - build
+          filters:
+            branches:
+              ignore:
+                - preproduction
       - test-js:
           requires:
             - build
+          filters:
+            branches:
+              ignore:
+                - preproduction
       - deploy:
           requires:
             - test-html
             - test-js
+            - build
 
+      - index:
+          requires:
+            - test-html
+            - test-js
+            - build
 
 

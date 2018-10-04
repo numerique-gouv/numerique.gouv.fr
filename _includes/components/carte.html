@@ -4,7 +4,7 @@
   <a href="{{ carte.url}}" class="black-link">
     {% if carte.une-ou-diaporama[0] %}
     <div class="object-fit__image-container index-image-container">
-      <img class="object-fit__featured-image" alt="{{ carte.une-ou-diaporama[0].alternative-textuelle }}" src="{{ carte.une-ou-diaporama[0].image }}">
+      <img class="object-fit__featured-image" alt="{{ carte.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ carte.une-ou-diaporama[0].image }}">
     </div>
     {% endif %}
     <div class="padding-2">
@@ -17,9 +17,9 @@
       {% endif %}
       <p>
         {% if carte.chapeau-text %}
-        {{ carte.chapeau-text | truncatewords: 25}}
+        {{ carte.chapeau-text | regex_replace: '\[(.*)\]\(.*?\)', '\1' | truncatewords: 25  }}
         {% else %}
-        {{ carte.content | truncatewords: 25}}
+        {{ carte.content | truncatewords: 25 }}
         {% endif %}
       </p>
     </div>

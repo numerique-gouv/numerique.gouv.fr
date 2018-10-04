@@ -4,7 +4,35 @@ layout: default
 
 <div id="index-main">
   <a id="content" tabindex="-1"></a>
-  <header class="grid-x">
+  <header id="header-index" class="grid-x">
+    <div id="bandeau-secretariat" class="cell medium-2">
+      <a target="_blank" href="https://www.numerique.gouv.fr/">
+        <img id="photo-secretaire-etat" alt="Photo de Mounir Mahjoubi" src="/assets/img/main/mounir.jpg">
+      </a>
+      <div id="bloc-text">
+        <p>Mounir Mahjoubi</p>
+        <hr>
+        <p>Le secrétaire d'État chargé du Numérique</p>
+        <div class="bloc-links">
+          <div class="link">
+            <a target="_blank" href="https://secretariat-etat.numerique.gouv.fr/le-secretaire-d-etat">
+              <img class="picto" src="/assets/img/pictogrammes/mounir-biographie.svg" alt="pictogramme biographie">Sa biographie</a>
+          </div>
+          <div class="link">
+            <a target="_blank" href="https://secretariat-etat.numerique.gouv.fr/agenda">
+              <img class="picto" src="/assets/img/pictogrammes/mounir-agenda.svg" alt="pictogramme evenement">Son agenda</a>
+          </div>
+          <div class="link">
+            <a target="_blank" href="https://secretariat-etat.numerique.gouv.fr/actualites">
+              <img class="picto" src="/assets/img/pictogrammes/mounir-actualite.svg" alt="pictogramme actualités">Ses actualités</a>
+          </div>
+          <div class="link">
+            <a target="_blank" href="https://secretariat-etat.numerique.gouv.fr/presse">
+              <img class="picto" src="/assets/img/pictogrammes/mounir-communique.svg" alt="pictogramme communiqués">Ses communiqués</a>
+          </div>
+        </div>
+      </div>
+    </div>
     <div id="visuel-accueil" class="padding-vertical-3 grid-x cell medium-10">
       <div class="encart-transparent padding-1 grid-y">
         <div class="titre-encart-transparent padding-top-2 text-center">
@@ -23,41 +51,25 @@ layout: default
         </div>
       </div>
     </div>
-    <div id="bandeau-droite" class="cell medium-2">
-      <a target="_blank" href="https://www.numerique.gouv.fr/">
-        <img id="photo-secretaire-etat" alt="Photo de Mounir Mahjoubi" src="/assets/img/main/mounir.jpg">
-      </a>
-      <div id="bloc-text">
-        <p>Mounir Mahjoubi</p>
-        <hr>
-        <p>Le secrétaire d'État chargé du Numérique</p>
-        <div class="bloc-links">
-          <div class="link">
-            <a target="_blank" href="https://www.numerique.gouv.fr/le-secretaire-d-etat">
-              <img class="picto" src="/assets/img/pictogrammes/mounir-biographie.svg" alt="pictogramme biographie">Sa biographie</a>
-          </div>
-          <div class="link">
-            <a target="_blank" href="https://minefi.hosting.augure.com/Augure_Minefi/r/ContenuEnLigne/Download?id=39172DED-FC3C-4263-8944-0412FAC0E4E1&filename=165%20-%20Agenda%20de%20Mounir%20MAHJOUBI%20semaine%20du%2010%20septembre%202018.pdf">
-              <img class="picto" src="/assets/img/pictogrammes/mounir-agenda.svg" alt="pictogramme agenda">Son agenda</a>
-          </div>
-          <div class="link">
-            <a target="_blank" href="https://www.numerique.gouv.fr/actualites">
-              <img class="picto" src="/assets/img/pictogrammes/mounir-actualite.svg" alt="pictogramme actualités">Ses actualités</a>
-          </div>
-          <div class="link">
-            <a target="_blank" href="https://www.numerique.gouv.fr/presse/communiques-presse">
-              <img class="picto" src="/assets/img/pictogrammes/mounir-communique.svg" alt="pictogramme communiqués">Ses communiqués</a>
-          </div>
-        </div>
-      </div>
-    </div>
   </header>
   <section class="gray-background padding-top-3">
     <h2 class="font-bold text-center margin-bottom-3">{{ page.titre-une }}</h2>
     {% assign sorted_actualites = site.actualites | where: "is_une","true" | sort:'date' | reverse %}
     {% include meilleurs-actualites.html %}
-    <div class="blue-margin-link text-center padding-2 ">
+    <div id="toutes-les-actus" class="blue-margin-link text-center">
       <a href="{{ '/actualites' | relative_url }}" class="h4">Voir toutes nos actus</a>
+    </div>
+  </section>
+  <section id="tweets" class="padding-top-3">
+    <h2 class="font-bold text-center margin-bottom-3 ">{{ page.titre-twitter }}</h2>
+    <div class="grid-container">
+      <div class="grid-x grid-margin-x">
+        {% for twitter in page.twitters %}
+        <div class="cell large-4 medium-6 small-12">
+          {% include components/twitter.html nbTweet=twitter.nbTweets address=twitter.address %}
+        </div>
+        {% endfor %}
+      </div>
     </div>
   </section>
 </div>
