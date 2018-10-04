@@ -48,18 +48,3 @@ ExpiresActive On
 
 # -- Compression --
 SetOutputFilter DEFLATE
-
-#Redirections
-RedirectMatch "^/economie-numerique/(.*)" "https://secretaire-etat.numerique.gouv.fr/economie-numerique/$1"
-RedirectMatch "^/transformation-numerique-de-letat/(.*)" "https://secretaire-etat.numerique.gouv.fr/transformation-numerique-de-letat/$1"
-RedirectMatch "^/confiance-numerique/(.*)" "https://secretaire-etat.numerique.gouv.fr/confiance-numerique/$1"
-RedirectMatch "^/numerique-inclusif/(.*)" "https://secretaire-etat.numerique.gouv.fr/numerique-inclusif/$1"
-RedirectMatch "^/europe-et-international/(.*)" "https://secretaire-etat.numerique.gouv.fr/europe-et-international/$1"
-RedirectMatch "^/le-secretaire-d-etat/(.*)" "https://secretaire-etat.numerique.gouv.fr/le-secretaire-d-etat/$1"
-RedirectMatch "^/presse/(.*)" "https://secretaire-etat.numerique.gouv.fr/presse/$1"
-RedirectMatch "^/agenda/(.*)" "https://secretaire-etat.numerique.gouv.fr/agenda/$1"
-RedirectMatch "^/actions-startups/(.*)" "https://secretaire-etat.numerique.gouv.fr/actions-startups/$1"
-Redirect "/rapport-renforcer-lutte-racisme-antisemitisme-internet" "https://secretaire-etat.numerique.gouv.fr/rapport-renforcer-lutte-racisme-antisemitisme-internet"
-Redirect "/etats-generaux-numerique-ouverture-forum-contributif" "https://secretaire-etat.numerique.gouv.fr/etats-generaux-numerique-ouverture-forum-contributif"
-Redirect "/mounir-mahjoubi-rencontre-acteurs-indonesiens-secteur-numerique" "https://secretaire-etat.numerique.gouv.fr/mounir-mahjoubi-rencontre-acteurs-indonesiens-secteur-numerique"
-Redirect "/presentation-plan-national-numerique-inclusif-lancement-numerique-communs" "https://secretaire-etat.numerique.gouv.fr/presentation-plan-national-numerique-inclusif-lancement-numerique-communs"
