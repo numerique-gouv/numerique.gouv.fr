@@ -71,4 +71,14 @@ const searchBoxConf =  {
   poweredBy: false
 };
 
-export {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf, searchBoxConf, infiniteHitsConfEvent};
+const statsConf =  {
+  container: '#stats',
+  templates: {
+    body: function (data) {
+      const template_builder = new Template_builder(data);
+      return template_builder.get_template_stats();
+    }
+  }
+};
+
+export {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf, searchBoxConf, infiniteHitsConfEvent, statsConf};

@@ -57,13 +57,7 @@ export class Template_builder {
         `);
     return template.render({date:hit_helper.get_date_formated(), category:hit_helper.get_first_category()});
   };
-  get_template_nbHits() {
-    const nbHits = new Hit_helper(this.data);
-    const template =  hogan.compile(`
-      <h2>Il y a{ this.data.nbHits } résultats</h2>
-    `);
-    return template.render({isRefined:this.data.isRefined});
-  }
+
   get_template_tags() {
     const template =  hogan.compile(`
       <a href="${ this.data.url }" class=" tag-select {{#isRefined}}selected{{/isRefined}}">
@@ -71,5 +65,12 @@ export class Template_builder {
       </a>
     `);
     return template.render({isRefined:this.data.isRefined});
+  };
+  get_template_stats() {
+    const nbHits = new Hit_helper(this.data);
+    const template =  hogan.compile(`
+      <h2 class="h4">Il y a ${ this.data.nbHits } résultats</h2>
+    `);
+    return template.render();
   };
 };

@@ -6,7 +6,7 @@ import {  searchBox ,infiniteHits,stats } from "instantsearch.js/es/widgets";
 import { rechercher_routing_conf } from "./conf/routing-conf"
 import { Instantsearch_factory } from "./instant-search/instantsearch-factory";
 import { Instantsearch_builder } from "./instant-search/instantsearch-builder";
-import { searchBoxConf, infiniteHitsConf} from "./conf/wiggetConf"
+import { searchBoxConf, infiniteHitsConf, statsConf} from "./conf/wiggetConf"
 
 
 const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');
@@ -18,12 +18,7 @@ instantsearch_builder.addWidget(searchBox, searchBoxConf);
 
 instantsearch_builder.addWidget(infiniteHits, infiniteHitsConf);
 
-instantsearch_builder.addWidget(
-  stats,
-  {
-    container: '#stats'
-  }
-);
+instantsearch_builder.addWidget(stats, statsConf);
 
 instantsearch_builder.start();
 

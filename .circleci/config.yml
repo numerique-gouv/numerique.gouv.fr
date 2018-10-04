@@ -120,11 +120,11 @@ jobs:
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
               echo "La branche master n'aboutie pas à un déploiement"
             elif [ "${CIRCLE_BRANCH}" == "development" ]; then
-              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_DEVELOPMENT:/var/www/html/
+              rsync -avc --delete /tmp/workspace/_site/ $LOGIN@$HOST_DEVELOPMENT:/var/www/html/
             elif [ "${CIRCLE_BRANCH}" == "preproduction" ]; then
-              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_PREPRODUCTION:/var/www/html/
+              rsync -avc --delete /tmp/workspace/_site/ $LOGIN@$HOST_PREPRODUCTION:/var/www/html/
             elif [ "${CIRCLE_BRANCH}" == "production" ]; then
-              rsync -avc /tmp/workspace/_site/ $LOGIN@$HOST_PRODUCTION:/var/www/html/
+              rsync -avc --delete /tmp/workspace/_site/ $LOGIN@$HOST_PRODUCTION:/var/www/html/
             else
               echo "Not deploy branch, dry run only"
             fi
