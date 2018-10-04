@@ -12,7 +12,7 @@ collections:
     permalink: "/espace-presse/:title/"
   evenements:
     title: Evénements
-    output: true
+    output: false
     permalink: "/agenda/:title/"
   missions-dinsic:
     title: Les missions de la Dinsic
