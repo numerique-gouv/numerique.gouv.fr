@@ -52,3 +52,4 @@ composer.lock
 # Webstorm
 
 .idea/
+.env
