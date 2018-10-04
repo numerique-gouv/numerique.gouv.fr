@@ -6,6 +6,7 @@ tags:
 - beta.gouv.fr
 - MOOC
 - Formation
+communique_file: "/uploads/CP_Lancement_MOOC_services_publics_innovants-301d57.pdf"
 chapeau-text: |-
   Découvrir en 1h30 la méthode Startup d’État. C’est la promesse du MOOC « Créer des services publics numériques innovants » lancé par [beta.gouv.fr](https://beta.gouv.fr/) , incubateur de services numériques au sein de la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) et le centre national de la fonction publique territoriale (CNFPT).
   L’objectif ? Permettre aux agents publics désireux d’innover de se lancer.
