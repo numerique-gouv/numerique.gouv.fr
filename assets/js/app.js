@@ -92,6 +92,10 @@ $('.icon-arrow-down').each(function ( index ) {
   })
 });
 
+$('#button-production').click(function () {
+  $('#modal-production').foundation('close');
+  $('#modal-production-done').foundation('open');
+});
 
 
 
