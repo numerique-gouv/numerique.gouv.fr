@@ -7,8 +7,7 @@ tags:
 - données publiques
 - data science
 - innovation
-chapeau-text: |-
-  Vous êtes développeur•euse, designer•euse ou data scientist, et vous
+chapeau-text: Vous êtes développeur•euse, designer•euse ou data scientist, et vous
   avez envie de vous engager pour transformer le service public ? Rejoignez la 3e
   promotion du programme Entrepreneur•e d’Intérêt Général !
 une-ou-diaporama:
@@ -17,10 +16,10 @@ une-ou-diaporama:
 auteur: Depuis Etalab.gouv.fr
 ---
 
-Initié en janvier 2017 par la présidence de la République, le [Programme Entrepreneur.e d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/)
+Initié en janvier 2017 par la présidence de la République, le [Programme Entrepreneur·e d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/)
 consiste à recruter pour 10 mois des professionnels aux expertises numériques variées (développement, design, science des données), extérieurs à l’administration, afin de relever des défis liés à l’utilisation des données dans le secteur public et à la transformation numérique de l’État.
 
-Le programme EIG lance aujourd’hui un appel à candidature pour recruter les 32 entrepreneur.e.s qui formeront la 3e promotion à partir de janvier 2019.
+Le programme EIG lance aujourd’hui un appel à candidature pour recruter les 32 entrepreneurs qui formeront la 3e promotion à partir de janvier 2019.
 
 > [Accéder à l’appel à candidature, ouvert jusqu’au 15 octobre 2018](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html)
 > {: .lien-important}
