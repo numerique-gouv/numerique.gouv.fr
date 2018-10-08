@@ -1,5 +1,5 @@
 ---
-title: Sécuriser et renforcer le système d’information et de communication de l’État
+title: Renforcer la performance du système d’information et de communication de l’État
 ordre: 5
 icon: Securiser_et_renforcer_le_systeme_dinformation_et_de_communication_de_letat.svg
 encadre:
@@ -26,6 +26,4 @@ encadre:
 
 Avant lancement et tout au long de sa vie, nous suivons chaque grand projet informatique de l’État, à travers un panorama rendu public, pour s’assurer de sa bonne conduite, identifier et rectifier toute dérive éventuelle.
 
-Nous mettons à la disposition des ministères des outils et méthodes destinés à sécuriser
-leurs projets SI. En parallèle, nous menons d’importants chantiers de modernisation
-et d’unification du système d’information et de communication de l’État.
+Nous mettons à la disposition des ministères des outils et méthodes destinés à sécuriser leurs projets SI. En parallèle, nous menons d’importants chantiers de modernisation et d’unification du système d’information et de communication de l’État.
