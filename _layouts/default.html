@@ -44,7 +44,7 @@ layout: compress
         <p class="lead">Attention, vous êtes sur le point de mettre en ligne le site numerique.gouv.fr</p>
         <p>Toutes les fonctionalités visibles en préproduction vont être basculés en production. Néanmoins, si l'html du site n'est pas valide, il ne sera pas publié.</p>
         <div class="button-group large">
-          <button id="button-production" class="button alert">Mettre en production</button>
+          <button id="button-production" data-token="{{ site.env.GITHUB_ACCESS_TOKEN }}" class="button alert">Mettre en production</button>
           <button data-close class="button">Annuler</button>
         </div>
       </div>

@@ -1,17 +1,33 @@
 import GitHub from 'github-api';
+import {assert} from "chai";
 
-module.exports = class Git {
+class Git {
   constructor(token) {
     this.token = token;
   };
   get_auth() {
     return new GitHub({
-      token: 'MY_OAUTH_TOKEN'
+      token: this.token,
     });
   }
-  createPullRequest() {
+  createAndMerge() {
+    const github = this.get_auth();
+    const repo = github.getRepo('MatthiasFeraga', 'site-dinsic');
+    let options = {
+      "title": "Mise en production "+ Date.now() +"",
+      "body": "Pull request créée depuis numerique.gouv.fr",
+      "head": "production",
+      "base": "master"
+    };
+    repo.createPullRequest(options)
+      .then((response) => {
+        let pullRequestNumber = response.data.number;
+        repo.mergePullRequest(pullRequestNumber)
+      })
+      .catch(() => {
+        alert("Il y a eu une erreur lors du déploiement");
+      });
   }
-  mergePullRequest() {
-    
-  }
-};
+}
+
+export { Git }
