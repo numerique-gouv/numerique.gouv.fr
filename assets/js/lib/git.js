@@ -16,8 +16,8 @@ class Git {
     let options = {
       "title": "Mise en production "+ Date.now() +"",
       "body": "Pull request créée depuis numerique.gouv.fr",
-      "head": "production",
-      "base": "master"
+      "head": "preproduction",
+      "base": "production"
     };
     repo.createPullRequest(options)
       .then((response) => {
