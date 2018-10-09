@@ -1,6 +1,6 @@
 ---
-title: 'Fonds pour la transformation de l''action publique&nbsp;: deux projets portés
-  par la DINSIC lauréats du 1er appel à projets'
+title: 'Fonds pour la transformation de l''action publique&nbsp;: deux projets interministériels
+  lauréats du 1er appel à projets'
 date: 2018-06-20 00:00:00 +02:00
 tags:
 - État plateforme
