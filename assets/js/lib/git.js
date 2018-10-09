@@ -4,6 +4,7 @@ import {assert} from "chai";
 class Git {
   constructor(token) {
     this.token = token;
+    console.log('token =>' + this.token)
   };
   get_auth() {
     return new GitHub({
@@ -12,7 +13,9 @@ class Git {
   }
   createAndMerge() {
     const github = this.get_auth();
+    console.log('github =>' + github);
     const repo = github.getRepo('MatthiasFeraga', 'site-dinsic');
+    console.log('repo => ' + repo);
     let options = {
       "title": "Mise en production "+ Date.now() +"",
       "body": "Pull request créée depuis numerique.gouv.fr",
