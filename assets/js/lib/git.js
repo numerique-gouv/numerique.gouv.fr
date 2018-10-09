@@ -22,7 +22,8 @@ class Git {
     repo.createPullRequest(options)
       .then((response) => {
         let pullRequestNumber = response.data.number;
-        repo.mergePullRequest(pullRequestNumber)
+        console.log("pull request numero " + pullRequestNumber)
+        // repo.mergePullRequest(pullRequestNumber)
       })
       .catch(() => {
         alert("Il y a eu une erreur lors du déploiement");
