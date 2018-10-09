@@ -13,7 +13,7 @@ collections:
   evenements:
     title: Evénements
     output: true
-    permalink: "/agenda/:title/"
+#    permalink: "/agenda/:title/"
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
@@ -35,12 +35,12 @@ defaults:
     is_une: true
     categories:
     - Article
-    chapeau-text: 
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
-    auteur: 
+    - image:
+      legende:
+      alternative-textuelle:
+    auteur:
 - scope:
     path: ''
     type: communiques
@@ -49,11 +49,11 @@ defaults:
     layout: communique
     categories:
     - Communiqué de presse
-    chapeau-text: 
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
+    - image:
+      legende:
+      alternative-textuelle:
     contact-presse:
       name: Rachel Wadoux
       tel:
@@ -65,13 +65,13 @@ defaults:
     type: evenements
   values:
     layout: evenement
-    chapeau-text: 
-    categorie: 
+    chapeau-text:
+    categorie:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
-    event_date: 
+    - image:
+      legende:
+      alternative-textuelle:
+    event_date:
     lieu: DINSIC
     adresse: 20 avenue de Ségur 75007 Paris
     acces:
@@ -115,6 +115,7 @@ exclude:
 - yarn-error.log
 - "/ansible/"
 - "/node_modules/"
+- "_evenements"
 incremental: false
 compress_html:
   ignore:
