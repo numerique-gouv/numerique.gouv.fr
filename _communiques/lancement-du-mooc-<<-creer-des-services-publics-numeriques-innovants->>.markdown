@@ -8,7 +8,7 @@ tags:
 - Formation
 communique_file: "/uploads/CP_Lancement_MOOC_services_publics_innovants-301d57.pdf"
 chapeau-text: |-
-  Découvrir en 1h30 la méthode Startup d’État. C’est la promesse du MOOC « Créer des services publics numériques innovants » lancé par [beta.gouv.fr](https://beta.gouv.fr/){:target="_blank"}, incubateur de services numériques au sein de la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) et le centre national de la fonction publique territoriale (CNFPT).
+  Découvrir en 1h30 la méthode Startup d’État. C’est la promesse du MOOC « Créer des services publics numériques innovants » lancé par [beta.gouv.fr](https://beta.gouv.fr/), incubateur de services numériques au sein de la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) et le centre national de la fonction publique territoriale (CNFPT).
   L’objectif ? Permettre aux agents publics désireux d’innover de se lancer.
 une-ou-diaporama:
 - image: "/uploads/2018-10-02%2010_39_24-Teaser%20Mooc%20Beta.gouv.fr.mp4%20-%20Lecteur%20multim%C3%A9dia%20VLC.png"
@@ -18,7 +18,7 @@ une-ou-diaporama:
 
 ## Fabriquer des services publics numériques autrement
 
-Depuis 2013, [beta.gouv.fr](https://beta.gouv.fr/){:target="_blank"} développe une nouvelle manière de construire des services publics numériques. Une Startup d’État et de Territoire est une équipe dédiée qui développe une solution à un problème de politique publique en travaillant en lien direct avec les usagers. En moins de 6 mois, elle met en service une première version de cette solution et reçoit les moyens de grandir en fonction de son impact. [Mes-aides.gouv.fr](https://mes-aides.gouv.fr/){:target="_blank"}, [La Bonne Boîte,](https://labonneboite.pole-emploi.fr/){:target="_blank"} ou encore le [pass Culture](https://pass.culture.fr/){:target="_blank"} : la communauté beta.gouv.fr a développé une soixantaine de produits qui contribuent à améliorer le service public.
+Depuis 2013, [beta.gouv.fr](https://beta.gouv.fr/) développe une nouvelle manière de construire des services publics numériques. Une Startup d’État et de Territoire est une équipe dédiée qui développe une solution à un problème de politique publique en travaillant en lien direct avec les usagers. En moins de 6 mois, elle met en service une première version de cette solution et reçoit les moyens de grandir en fonction de son impact. [Mes-aides.gouv.fr](https://mes-aides.gouv.fr/){:target="_blank"}, [La Bonne Boîte,](https://labonneboite.pole-emploi.fr/){:target="_blank"} ou encore le [pass Culture](https://pass.culture.fr/){:target="_blank"} : la communauté beta.gouv.fr a développé une soixantaine de produits qui contribuent à améliorer le service public.
 
 ## Former les agents publics à la méthode Startup d’État
 

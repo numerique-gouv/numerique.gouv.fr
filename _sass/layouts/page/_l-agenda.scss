@@ -1,3 +1,21 @@
+#evenement {
+  .event-category {
+    font-size: 1.3rem;
+  }
+  h1 {
+    margin: 1rem;
+  }
+  .title-and-date{
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .event-date {
+    img {
+      width: 1.5rem;
+    }
+  }
+}
+
 .event-item {
   border: 1px solid $medium-gray;
 }

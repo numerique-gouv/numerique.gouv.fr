@@ -1,26 +1,39 @@
+{% if page.layout == 'evenement' %}
+  <div class="event-category text-center">|  {{ page.categorie }}  |</div>
+{% endif %}
 
 <h1 class="font-bold text-center margin-0">{{ page.title }}</h1>
 
-<div class="h2 text-center">{{ page.sous-titre }}</div>
+{% if page.sous-titre %}
+  <div class="h2 text-center">{{ page.sous-titre }}</div>
+{% endif %}
+
+{% unless page.layout == 'evenement' %}
 <hr>
+{% endunless %}
+
 {% if page.chapeau-text %}
 <div class="lead chapeau">
   {{ page.chapeau-text | markdownify }}
 </div>
 {% endif %}
+
 <div class="meta text-center">
   {% if page.collection == 'communiques'  %}
     <span class="date"> {{ page.categories.first }}</span>
     <span class="meta"> | </span>
   {% endif %}
-  {% if page.date %}
-  <span class="date ">{% include helpers/date.html date=page.date %}</span>
-  {% endif %}
+
+  {% unless page.event_date %}
+    <span class="date ">{% include helpers/date.html date=page.date %}</span>
+  {% endunless %}
+
   {% if page.auteur and page.date %}
-  <span class="meta"> | </span>
+    <span class="meta"> | </span>
   {% endif %}
+
   {% if page.auteur %}
-  <span class="auteur ">{{ page.auteur }}</span>
+    <span class="auteur ">{{ page.auteur }}</span>
   {% endif %}
 </div>
 {% include components/partager.html %}

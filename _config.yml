@@ -12,8 +12,7 @@ collections:
     permalink: "/espace-presse/:title/"
   evenements:
     title: Evénements
-    output: false
-    permalink: "/agenda/:title/"
+    output: true
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
@@ -66,6 +65,7 @@ defaults:
   values:
     layout: evenement
     chapeau-text: 
+    categorie: 
     une-ou-diaporama:
     - image: 
       legende: 
@@ -114,6 +114,7 @@ exclude:
 - yarn-error.log
 - "/ansible/"
 - "/node_modules/"
+- _evenements
 incremental: false
 compress_html:
   ignore:

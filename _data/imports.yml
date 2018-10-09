@@ -62,4 +62,16 @@
   link: vendors~mapper.js
   for: all
 
+- name: miseEnProd
+  link: mise-en-prod.js
+  for: all
+
+- name: VendorMiseEnProd
+  link: vendors~mise-en-prod.js
+  for: all
+
+- name: vendors_actualites_espace_presse_evenements_mise_en_prod_rechercher
+  link: vendors~actualites~espace-presse~evenements~mise-en-prod~rechercher.js
+  for: all
+
 
