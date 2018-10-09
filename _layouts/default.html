@@ -38,7 +38,24 @@ layout: compress
       {% endfor %}
       {% endcapture %}{{ output }}
       {% if jekyll.environment != 'production' %}
-      <button id="button-production" class="button warning large">Mettre en production</button>
+      <button id="button-modal-production" data-open="modal-production" class="button warning large">Mettre en production</button>
+      <div class="reveal" id="modal-production" data-reveal>
+        <h1>Mise en ligne du site</h1>
+        <p class="lead">Attention, vous êtes sur le point de mettre en ligne le site numerique.gouv.fr</p>
+        <p>Toutes les fonctionalités visibles en préproduction vont être basculés en production. Néanmoins, si l'html du site n'est pas valide, il ne sera pas publié.</p>
+        <div class="button-group large">
+          <button id="button-production" data-token="{{ site.env.GITHUB_ACCESS_TOKEN }}" class="button alert">Mettre en production</button>
+          <button data-close class="button">Annuler</button>
+        </div>
+      </div>
+      <div class="reveal callout success" id="modal-production-done" data-reveal>
+        <h1>Bravo c'est fait</h1>
+        <p class="lead">Le site va être mis à jour dans 2 minutes.</p>
+        <p>Contacter un administrateur si la mise à jour ne fonctionne pas.</p>
+        <button class="close-button" data-close aria-label="Close modal" type="button">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
       {% endif %}
     </main>
     {% include footer.html %}
