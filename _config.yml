@@ -13,6 +13,7 @@ collections:
   evenements:
     title: Evénements
     output: true
+    permalink: "/agenda/:title/"
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
@@ -114,7 +115,6 @@ exclude:
 - yarn-error.log
 - "/ansible/"
 - "/node_modules/"
-- _evenements
 incremental: false
 compress_html:
   ignore:
