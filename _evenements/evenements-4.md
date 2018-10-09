@@ -1,9 +1,9 @@
 ---
 title: Evénements 4
 date: 2018-08-18 00:00:00 +02:00
-categorie: Conférence
 tags:
 - innovation
+categorie: Conférence
 event_date: 2018-10-18 00:00:00 +02:00
 ---
 
