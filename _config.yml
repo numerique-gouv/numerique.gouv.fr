@@ -66,6 +66,7 @@ defaults:
   values:
     layout: evenement
     chapeau-text:
+    categorie:
     une-ou-diaporama:
     - image:
       legende:
