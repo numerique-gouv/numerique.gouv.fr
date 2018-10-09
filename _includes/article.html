@@ -7,7 +7,10 @@
   {% endif %}
 {% endif %}
 {% if page.event_date%}
-  <div class="event-date text-center margin-top-2">{% include helpers/date.html date=page.event_date %}</div>
+  <div class="event-date row align-middle align-center margin-top-2">
+    <img class="" alt="icon calendrier" src="/assets/img/pictogrammes/evenement.svg">&nbsp;
+    {% include helpers/date.html date=page.event_date %}
+  </div>
 {% endif %}
 <a id="content" tabindex="-1"></a>
 <div id="titre-article" class="padding-large-top-5 padding-large-horizontal-5  margin-bottom-3 padding-medium-1">
