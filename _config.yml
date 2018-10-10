@@ -71,7 +71,8 @@ defaults:
     - image:
       legende:
       alternative-textuelle:
-    event_date:
+    event_start_date:
+    event_end_date:
     lieu: DINSIC
     adresse: 20 avenue de Ségur 75007 Paris
     acces:
