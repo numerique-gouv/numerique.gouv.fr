@@ -75,7 +75,7 @@ $elements.each(function () {
 });
 
 $('.icon-arrow-down').each(function ( index ) {
-  const selector = '#mission' + (index + 2);
+  const selector = '#list' + (index + 2);
   $( this ).click(function () {
     Foundation.SmoothScroll.scrollToLoc(selector, {threshold: 50, offset: 0 }, null);
   })

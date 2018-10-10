@@ -30,9 +30,9 @@ layout: default
     </nav>
   </section>
   <div class="cell grid-x">
-    <div id="missions" class="cell white-container">
+    <div id="list" class="cell white-container">
       {% for mission in missions-ordered %}
-      <section id="mission{{ mission.ordre }}" class="mission padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+      <section id="list{{ mission.ordre }}" class="mission padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
         <h3 class="font-bold">{{ mission.title }}</h3>
         {{ mission.content}}
         {% if mission.encadre %}
@@ -68,13 +68,13 @@ layout: default
       </section>
       {% endfor %}
     </div>
-      <div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
-        <div class="sticky" data-sticky data-top-anchor="missions:top" data-btm-anchor="missions:bottom" data-margin-top="25" data-margin-right="2">
-          <div class="cell grid-y" data-smooth-scroll>
-            <a class="flex-container" href="#nos-missions">
-              <img alt="Retour aux missions" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
-            </a>
-          </div>
+    <div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
+      <div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
+        <div class="cell grid-y" data-smooth-scroll>
+          <a class="flex-container" href="#nos-missions">
+            <img alt="Retour aux missions" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
+          </a>
+        </div>
       </div>
     </div>
   </div>
