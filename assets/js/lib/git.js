@@ -5,6 +5,7 @@ class Git {
   constructor(token) {
     this.token = token;
     console.log('token =>' + this.token)
+    console.log('process.env =>' + process.env)
   };
   get_auth() {
     return new GitHub({
