@@ -1,7 +1,8 @@
 ---
 title: Evénements 2
 date: 2018-08-18 00:00:00 +02:00
-categorie: 'Conférence'
+categories:
+- Conférence
 tags:
 - Entrepreneur d'Intérêt Général
 - innovation
