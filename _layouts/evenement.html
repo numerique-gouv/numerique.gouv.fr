@@ -4,7 +4,26 @@ layout: default
 
 <div id="evenement" class="page-fille gray-background">
   <article class="article">
-    {% include article.html %}
+    {% if page.une-ou-diaporama[0].image %}
+      <div class="object-fit__image-container">
+        <img class="object-fit__featured-image image-en-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ page.une-ou-diaporama[0].image }}">
+      </div>
+      {% if page.une-ou-diaporama[0].legende %}
+        <div class="legende">{{ page.une-ou-diaporama[0].legende }}</div>
+      {% endif %}
+    {% endif %}
+    <div class="event-date row align-middle align-center margin-top-2">
+      <img class="" alt="icon calendrier" src="/assets/img/pictogrammes/evenement.svg">&nbsp;
+      {% include helpers/date.html date=page.event_date %}
+    </div>
+    <a id="content" tabindex="-1"></a>
+    <div id="titre-article" class="padding-large-top-5 padding-large-horizontal-5  margin-bottom-3 padding-medium-1">
+      {% include components/titre-page-fille.html %}
+    </div>
+    <div id="content-article" class="page-fille-content-text padding-large-horizontal-5 padding-large-bottom-2 margin-large-top-2 padding-medium-1">
+      {{ content | markdownify | smartify }}
+    </div>
+
     <div class="text-center margin-bottom-2 title-and-date">
       <span>{{ page.title }},</span><br />
       <span>{% include helpers/date.html date=page.event_date %} - {{ page.event_date | date: "%Hh%M"}}</span>
@@ -47,6 +66,17 @@ layout: default
       <div id="map" data-address="{{ page.adresse }}" >
       </div>
     {% endif %}
+    <div id="tag-article" class="margin-top-1 padding-large-horizontal-5 padding-medium-1 tag" >
+      <ul class="no-bullet">
+        {% for tag in page.tags %}
+        <li>
+          <a href="{% include helpers/tag-link.html collection=page.collection tag=tag %}">
+            #{{ tag | capitalize }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
   </article>
 </div>
 
