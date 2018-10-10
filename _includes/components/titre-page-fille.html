@@ -1,5 +1,5 @@
 {% if page.layout == 'evenement' %}
-  <div class="event-category text-center">|  {{ page.categorie }}  |</div>
+  <div class="event-category text-center">|  {{ page.categories[0] }}  |</div>
 {% endif %}
 
 <h1 class="font-bold text-center margin-0">{{ page.title }}</h1>
@@ -24,7 +24,7 @@
     <span class="meta"> | </span>
   {% endif %}
 
-  {% unless page.event_date %}
+  {% unless page.event_start_date %}
     <span class="date ">{% include helpers/date.html date=page.date %}</span>
   {% endunless %}
 

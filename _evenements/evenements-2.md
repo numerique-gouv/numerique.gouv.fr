@@ -6,7 +6,8 @@ categories:
 tags:
 - Entrepreneur d'Intérêt Général
 - innovation
-event_date: 2018-10-17 00:00:00 +02:00
+event_start_date: 2018-10-17 00:00:00 +02:00
+event_end_date: 2018-10-25 00:00:00 +02:00
 une-ou-diaporama:
 - image: "/uploads/revue_de_details.jpg"
 chapeau-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nunc a 

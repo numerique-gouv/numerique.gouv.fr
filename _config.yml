@@ -137,12 +137,12 @@ algolia:
   - _pages/avis-conformes.md
   settings:
     customRanking:
-    - asc(event_date)
+    - asc(event_start_date)
     - desc(date)
     - desc(custom_ranking.heading)
     - asc(custom_ranking.position)
     searchableAttributes:
-    - ordered(event_date)
+    - ordered(event_start_date)
     - unordered(title)
     - ordered(headings)
     - unordered(chapeau-text)

@@ -14,7 +14,11 @@ layout: default
     {% endif %}
     <div class="event-date row align-middle align-center margin-top-2">
       <img class="" alt="icon calendrier" src="/assets/img/pictogrammes/evenement.svg">&nbsp;
-      {% include helpers/date.html date=page.event_date %}
+      {% if page.event_end_date %}
+        {% include helpers/date_range.html start_date=page.event_start_date end_date=page.event_end_date %}
+      {% else %}
+        {% include helpers/date.html date=page.event_start_date %}
+      {% endif %}
     </div>
     <a id="content" tabindex="-1"></a>
     <div id="titre-article" class="padding-large-top-5 padding-large-horizontal-5  margin-bottom-3 padding-medium-1">
@@ -26,7 +30,7 @@ layout: default
 
     <div class="text-center margin-bottom-2 title-and-date">
       <span>{{ page.title }},</span><br />
-      <span>{% include helpers/date.html date=page.event_date %} - {{ page.event_date | date: "%Hh%M"}}</span>
+      <span>{% include helpers/date.html date=page.event_start_date %} - {{ page.event_start_date | date: "%Hh%M"}}</span>
     </div>
     <div id="informations-pratiques">
       <p class="font-bold">{{ page.lieu }}</p>

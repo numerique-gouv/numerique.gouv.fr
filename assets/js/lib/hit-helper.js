@@ -81,7 +81,7 @@ module.exports = class Hit_helper {
 
   get_event_date_formated() {
     let formated_date;
-    this.hit.event_date ? formated_date = moment.unix(this.hit.event_date ).tz("Europe/Paris").format('LL') : formated_date = false;
+    this.hit.event__start_date ? formated_date = moment.unix(this.hit.event_start_date ).tz("Europe/Paris").format('LL') : formated_date = false;
     return formated_date;
   }
 };
