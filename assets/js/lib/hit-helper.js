@@ -83,14 +83,23 @@ module.exports = class Hit_helper {
     let formated_date = "";
     let start_date = moment.unix(this.hit.event_start_date ).tz("Europe/Paris");
     let end_date = moment.unix(this.hit.event_end_date ).tz("Europe/Paris");
+
     if (this.hit.event_end_date) {
       let start_month = start_date.format('MMMM');
-      let end_month = start_date.format('MMMM');
-      if (start_month === end_month) {
-        formated_date = "Du " + start_date.format('Do') + " au " + end_date.format('Do MMMM YYYY') + "";
+      let start_year = start_date.format('YYYY');
+      let end_year = end_date.format('YYYY');
+      let end_month = end_date.format('MMMM');
+
+      if (start_year === end_year) {
+        if (start_month === end_month) {
+          formated_date = "Du " + start_date.format('Do') + " au " + end_date.format('Do MMMM YYYY');
+        } else {
+          formated_date = "Du " + start_date.format('Do MMMM') + " au " + end_date.format('Do MMMM YYYY');
+        }
       } else {
-        formated_date = start_date.format('LL');
+        formated_date = "Du " + start_date.format('Do MMMM YYYY') + " au " + end_date.format('Do MMMM YYYY');
       }
+
     } else if (this.hit.event_start_date) {
       formated_date = start_date.format('LL');
     }
