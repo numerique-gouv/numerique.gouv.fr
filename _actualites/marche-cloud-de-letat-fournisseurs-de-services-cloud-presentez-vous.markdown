@@ -18,7 +18,7 @@ Dans ce cadre, les trois administrations pilotes de ce futur marché – la dire
 
 Votre entreprise souhaite participer à ce sourcing ?
 
-[Répondez à notre questionnaire au plus tard le vendredi 25 octobre 2018](https://www.demarches-simplifiees.fr/commencer/sourcingdinsiccloud){: target="_blank"}
+> [**Répondez à notre questionnaire au plus tard le vendredi 25 octobre 2018**](https://www.demarches-simplifiees.fr/commencer/sourcingdinsiccloud){: target="_blank"}
 {: .lien-important}
 
 
