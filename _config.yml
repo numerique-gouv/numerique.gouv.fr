@@ -35,12 +35,12 @@ defaults:
     is_une: true
     categories:
     - Article
-    chapeau-text: 
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
-    auteur: 
+    - image:
+      legende:
+      alternative-textuelle:
+    auteur:
 - scope:
     path: ''
     type: communiques
@@ -49,11 +49,11 @@ defaults:
     layout: communique
     categories:
     - Communiqué de presse
-    chapeau-text: 
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
+    - image:
+      legende:
+      alternative-textuelle:
     contact-presse:
       name: Rachel Wadoux
       tel:
@@ -65,13 +65,14 @@ defaults:
     type: evenements
   values:
     layout: evenement
-    chapeau-text: 
-    categorie: 
+    chapeau-text:
+    categorie:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
-    event_date: 
+    - image:
+      legende:
+      alternative-textuelle:
+    event_start_date:
+    event_end_date:
     lieu: DINSIC
     adresse: 20 avenue de Ségur 75007 Paris
     acces:
@@ -123,7 +124,7 @@ compress_html:
 highlighter: rouge
 algolia:
   application_id: OCGRURLBFM
-  index_name: jekyll-dinsic
+  index_n ame: jekyll-dinsic
   nodes_to_index: p,li,blockquote
   extensions_to_index:
   - md
@@ -137,12 +138,13 @@ algolia:
   - _pages/avis-conformes.md
   settings:
     customRanking:
-    - asc(event_date)
+    - asc(event_start_date)
     - desc(date)
     - desc(custom_ranking.heading)
     - asc(custom_ranking.position)
     searchableAttributes:
-    - ordered(event_date)
+#    - ordered(event_start_date)
+    - ordered(dates)
     - unordered(title)
     - ordered(headings)
     - unordered(chapeau-text)

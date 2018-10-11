@@ -1,6 +1,7 @@
 .object-fit {
   &__image-container {
     width: auto;
+    text-align: center;
     &.compat-object-fit {
       background-size: cover;
       background-position: center center;
@@ -15,6 +16,6 @@
     object-fit: cover; /* Do not scale the image */
     object-position: center; /* Center the image within the element */
     height: 100%;
-    width:100%;
+    //width:100%;
   }
 }
