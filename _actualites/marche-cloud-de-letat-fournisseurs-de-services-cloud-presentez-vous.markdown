@@ -17,7 +17,9 @@ Ce marché porte sur l’offre de « cloud externe », dédié aux données et a
 Dans ce cadre, les trois administrations pilotes de ce futur marché – la direction interministérielle des systèmes d’information et de communication (DINSIC), la direction des achats de l’Etat (DAE) et l'UGAP – lancent une phase préalable de « sourcing », permettant aux sociétés fournisseurs de services cloud de se présenter : positionnement, profil des clients, types de services proposés, modèle opérationnel… Et ainsi aux acheteurs d’établir un état des lieux du marché.
 
 Votre entreprise souhaite participer à ce sourcing ?
-**[Répondez à notre questionnaire au plus tard le vendredi 25 octobre 2018 <](https://www.demarches-simplifiees.fr/commencer/sourcingdinsiccloud){:target="_blank"}{: .lien-important}**
+
+> [**Répondez à notre questionnaire au plus tard le 25 octobre 2018**](https://www.demarches-simplifiees.fr/commencer/sourcingdinsiccloud){: target="_blank"}
+{: .lien-important}
 
 
 *Les réponses seront analysées par la DINSIC, la DAE et l’UGAP, qui pourront solliciter une présentation de certains éléments début novembre en présentiel.*

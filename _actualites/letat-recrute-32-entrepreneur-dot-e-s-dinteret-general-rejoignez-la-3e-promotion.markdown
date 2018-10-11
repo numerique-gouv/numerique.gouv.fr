@@ -21,7 +21,7 @@ consiste à recruter pour 10 mois des professionnels aux expertises numériques 
 
 Le programme EIG lance aujourd’hui un appel à candidature pour recruter les 32 entrepreneurs qui formeront la 3e promotion à partir de janvier 2019.
 
-[Accéder à l’appel à candidature, ouvert jusqu’au 15 octobre 2018](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html)
+> [Accéder à l’appel à candidature, ouvert jusqu’au 15 octobre 2018](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html){: target="_blank"}
 {: .lien-important}
 
 ## Être entrepreneur d’intérêt général : relever des défis techniques à fort impact pour le service public et les citoyens
@@ -40,7 +40,7 @@ Les défis de cette année couvrent un spectre très large de politiques publiqu
 
 Pour les relever, EIG et mentors seront accompagnés par [une équipe dédiée au sein d’Etalab](https://entrepreneur-interet-general.etalab.gouv.fr/accompagnement.html){:target="_blank"} et pourront compter sur les expertises technique, métier et juridique de la communauté du numérique d’intérêt général (beta.gouv.fr, anciens EIG, associations partenaires…).
 
-**Découvrez les défis et les profils recherchés sur [la page de l’appel à candidature :](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html)**
+**Découvrez les défis et les profils recherchés sur [la page de l’appel à candidature :](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html){: target="_blank"}**
 
 * [ACOSS Plateforme](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/acossplateforme.html){:target="_blank"}: valoriser les données de l’Urssaf dans le sens d’une meilleure expérience utilisateur, Agence centrale des organismes de sécurité sociale
 
@@ -72,8 +72,8 @@ Pour les relever, EIG et mentors seront accompagnés par [une équipe dédiée a
 
 * [PolyGraphe](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/polygraphe.html){:target="_blank"} : détecter les faux avis pour garantir la confiance sur Internet, Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF), Ministère de l’Economie
 
-> Pour déposer votre candidature, rendez-vous jusqu’au 15 octobre sur [l’espace de candidature du programme](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html){:target="_blank"}.
-> {: .lien-important}
+>  Pour déposer votre candidature, rendez-vous jusqu’au 15 octobre sur [l’espace de candidature du programme.](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html){:target="_blank"}
+{: .lien-important}
 
 ## Prochaines étapes : session d’information le 3 octobre et jury de sélection en novembre
 
