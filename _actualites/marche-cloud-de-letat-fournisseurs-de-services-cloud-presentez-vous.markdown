@@ -1,5 +1,5 @@
 ---
-title: 'Marché cloud de l’Etat : fournisseurs de services cloud, présentez-vous !'
+title: 'Marché cloud de l’État : fournisseurs de services cloud, présentez-vous !'
 date: 2018-10-11 18:18:00 +02:00
 published: false
 chapeau-text: Votre entreprise propose des services de cloud (informatique en nuage)
@@ -13,8 +13,7 @@ Ce marché porte sur l’offre de « cloud externe », dédié aux données et a
 Dans ce cadre, les trois administrations pilotes de ce futur marché – la direction interministérielle des systèmes d’information et de communication (DINSIC), la direction des achats de l’Etat (DAE) et l'UGAP – lancent une phase préalable de « sourcing », permettant aux sociétés fournisseurs de services cloud de se présenter : positionnement, profil des clients, types de services proposés, modèle opérationnel… Et ainsi aux acheteurs d’établir un état des lieux du marché.
 
 Votre entreprise souhaite participer à ce sourcing ?
-
 **[Répondez à notre questionnaire au plus tard le vendredi 25 octobre 2018 <](https://www.demarches-simplifiees.fr/commencer/sourcingdinsiccloud){:target="_blank"}**
 {: .lien-important}
 
-Les réponses seront analysées par la DINSIC, la DAE et l’UGAP, qui pourront solliciter une présentation de certains éléments début novembre en présentiel.
+*Les réponses seront analysées par la DINSIC, la DAE et l’UGAP, qui pourront solliciter une présentation de certains éléments début novembre en présentiel.*
