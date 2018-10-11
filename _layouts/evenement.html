@@ -49,13 +49,11 @@ layout: default
       <p>
         <span>{{ acces.type }}</span>
         {% for ligne in acces.lignes %}
-        <span>
           {% if forloop.last == true %}
             {{ ligne.nom }}
           {% else %}
             {{ ligne.nom }} -
           {% endif %}
-        </span>
         {% endfor %}
       </p>
       {% endfor %}
@@ -64,7 +62,7 @@ layout: default
       <p>
         <span class="font-bold">{{ champ.intitule }}</span>
         {% if champ.lien %}
-        <a class="white-link" href="{{ champ.lien}}">{{ champ.contenu | markdownify | smartify }}</a>
+        <a class="white-link" href="{{ champ.lien}}">{{ champ.contenu }}</a>
         {% else %}
         <span>{{ champ.contenu | markdownify | smartify }}</span>
         {% endif %}
