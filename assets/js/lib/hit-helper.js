@@ -80,8 +80,20 @@ module.exports = class Hit_helper {
   }
 
   get_event_date_formated() {
-    let formated_date;
-    this.hit.event_start_date ? formated_date = moment.unix(this.hit.event_start_date ).tz("Europe/Paris").format('LL') : formated_date = "";
+    let formated_date = "";
+    let start_date = moment.unix(this.hit.event_start_date ).tz("Europe/Paris");
+    let end_date = moment.unix(this.hit.event_end_date ).tz("Europe/Paris");
+    if (this.hit.event_end_date) {
+      let start_month = start_date.format('MMMM');
+      let end_month = start_date.format('MMMM');
+      if (start_month === end_month) {
+        formated_date = "Du " + start_date.format('Do') + " au " + end_date.format('Do MMMM YYYY') + "";
+      } else {
+        formated_date = start_date.format('LL');
+      }
+    } else if (this.hit.event_start_date) {
+      formated_date = start_date.format('LL');
+    }
     return formated_date;
   }
 };
