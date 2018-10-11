@@ -16,13 +16,13 @@ une-ou-diaporama:
 auteur: Depuis Etalab.gouv.fr
 ---
 
-Initié en janvier 2017 par la présidence de la République, le [Programme Entrepreneur·e d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/)
+Initié en janvier 2017 par la présidence de la République, le [programme Entrepreneur·e d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/)
 consiste à recruter pour 10 mois des professionnels aux expertises numériques variées (développement, design, science des données), extérieurs à l’administration, afin de relever des défis liés à l’utilisation des données dans le secteur public et à la transformation numérique de l’État.
 
 Le programme EIG lance aujourd’hui un appel à candidature pour recruter les 32 entrepreneurs qui formeront la 3e promotion à partir de janvier 2019.
 
-> [Accéder à l’appel à candidature, ouvert jusqu’au 15 octobre 2018](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html)
-> {: .lien-important}
+[Accéder à l’appel à candidature, ouvert jusqu’au 15 octobre 2018](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html)
+{: .lien-important}
 
 ## Être entrepreneur d’intérêt général : relever des défis techniques à fort impact pour le service public et les citoyens
 
