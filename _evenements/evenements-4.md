@@ -3,6 +3,9 @@ title: Evénements 4
 date: 2018-08-18 00:00:00 +02:00
 categories:
 - Conférence
+champs_informations:
+- intitule: contact
+  contenu: loremipsum@modernisation.gouv.fr
 tags:
 - innovation
 event_start_date: 2018-10-18 00:00:00 +02:00
