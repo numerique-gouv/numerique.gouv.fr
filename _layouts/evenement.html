@@ -62,11 +62,11 @@ layout: default
       <br>
       {% for champ in page.champs_informations %}
       <p>
-        <span class="font-bold">{{ champ.intitule }}</span>
+        <span class="font-bold">{{ champ.intitule }} : </span>
         {% if champ.lien %}
-        <a class="white-link" href="{{ champ.lien}}">{{ champ.contenu }}</a>
+        <a class="white-link" target="_blank" href="{{ champ.lien }}">{{ champ.contenu }}</a>
         {% else %}
-        <p>{{ champ.contenu }}</p>
+        {{ champ.contenu }}
         {% endif %}
       </p>
       {% endfor %}

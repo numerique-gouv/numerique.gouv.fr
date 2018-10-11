@@ -10,7 +10,8 @@ champs_informations:
 - intitule: contact
   contenu: loremipsum@modernisation.gouv.fr
 - intitule: site web
-  contenu: <a>https://entrepreneur-interet-general.etalab.gouv.fr</a>
+  contenu: entrepreneur-interet-general.etalab.gouv.fr
+  lien: https://entrepreneur-interet-general.etalab.gouv.fr
 event_start_date: 2018-10-17 00:00:00 +02:00
 event_end_date: 2018-10-25 00:00:00 +02:00
 une-ou-diaporama:
