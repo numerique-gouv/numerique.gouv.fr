@@ -124,7 +124,7 @@ compress_html:
 highlighter: rouge
 algolia:
   application_id: OCGRURLBFM
-  index_n ame: jekyll-dinsic
+  index_name: jekyll-dinsic
   nodes_to_index: p,li,blockquote
   extensions_to_index:
   - md
