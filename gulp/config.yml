@@ -54,6 +54,7 @@ JAVASCRIPT:
     # All the files in this list and in the js dir are concatenated into all.js
 
 MODERNIZR:
+  notification: "Running Modernizr"
   dest:
     jekyllRoot: "assets/js/"
   filename: "modernizr.js"
@@ -88,6 +89,6 @@ WATCH:
   sass: "_sass/**/*.scss"
   pages:
     - "*.{md,markdown,html,yml,xml}"
-    - "{_data,_includes,_layouts,_actualites,_communiques,_evenements,_missions-dinsic,_pages,_posts,_rechercher,blog,actualites}/**/*.{md,markdown,html,yml,xml}"
+    - "{_data,_includes,_layouts,_actualites,_communiques,_evenements,_missions-dinsic,_pages,_politique-logiciel-libre,_posts,_rechercher,blog,actualites}/**/*.{md,markdown,html,yml,xml}"
     - "!_site/**/*.*"
     - "!assets/**/*.*"

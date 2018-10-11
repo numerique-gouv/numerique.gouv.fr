@@ -1,0 +1,56 @@
+#evenement {
+  .event-category {
+    font-size: 1.3rem;
+  }
+  h1 {
+    margin: 1rem;
+  }
+  .title-and-date{
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .event-date {
+    img {
+      width: 1.5rem;
+    }
+  }
+}
+
+.event-item {
+  border: 1px solid $medium-gray;
+}
+
+#reportrange {
+  background: #fff;
+  cursor: pointer;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  width: 100%;
+  margin-top: 4.3rem;
+}
+
+.daterangepicker {
+  li {
+    tab-index: 0;
+  }
+}
+
+#informations-pratiques {
+  background-color: $bleue-vert;
+  color: $white;
+  margin: none;
+  padding: 1rem;
+  h2 {
+    text-align: center;
+    margin: 0 0 1rem 0;
+
+  }
+  p {
+    text-align: center;
+    margin: 0;
+  }
+}
+
+#map {
+  height: 30rem;
+}

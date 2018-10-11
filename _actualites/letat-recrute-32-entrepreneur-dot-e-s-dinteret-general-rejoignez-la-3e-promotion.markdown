@@ -1,13 +1,13 @@
 ---
-title: 'L’État recrute 32 entrepreneurs d’intérêt général : rejoignez la 3e promotion!'
+title: 'L’État recrute 32 entrepreneurs d’intérêt général : rejoignez la 3e promotion
+  !'
 date: 2018-09-18 15:21:00 +02:00
 tags:
 - Entrepreneur d'Intérêt Général
 - données publiques
 - data science
 - innovation
-chapeau-text: |-
-  Vous êtes développeur•euse, designer•euse ou data scientist, et vous
+chapeau-text: Vous êtes développeur•euse, designer•euse ou data scientist, et vous
   avez envie de vous engager pour transformer le service public ? Rejoignez la 3e
   promotion du programme Entrepreneur•e d’Intérêt Général !
 une-ou-diaporama:
@@ -16,19 +16,19 @@ une-ou-diaporama:
 auteur: Depuis Etalab.gouv.fr
 ---
 
-Initié en janvier 2017 par la présidence de la République, le [Programme Entrepreneur.e d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) 
+Initié en janvier 2017 par la présidence de la République, le [Programme Entrepreneur·e d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/)
 consiste à recruter pour 10 mois des professionnels aux expertises numériques variées (développement, design, science des données), extérieurs à l’administration, afin de relever des défis liés à l’utilisation des données dans le secteur public et à la transformation numérique de l’État.
 
-Le programme EIG lance aujourd’hui un appel à candidature pour recruter les 32 entrepreneur.e.s qui formeront la 3e promotion à partir de janvier 2019.
+Le programme EIG lance aujourd’hui un appel à candidature pour recruter les 32 entrepreneurs qui formeront la 3e promotion à partir de janvier 2019.
 
 > [Accéder à l’appel à candidature, ouvert jusqu’au 15 octobre 2018](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html)
-{: .lien-important}
+> {: .lien-important}
 
 ## Être entrepreneur d’intérêt général : relever des défis techniques à fort impact pour le service public et les citoyens
 
 #### Devenir EIG, c’est se lancer dans une aventure unique au sein de l’administration
 
-Pour cette 3e promotion, [un jury d’experts a sélectionné 15 défis d’amélioration du service public](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-3eme-promotion-decouvrez-les-15-defis-laureats){:target="_blank"}** en lien avec les numérique et les données, lors d’un appel à projets lancé auprès des administrations de mai à juillet 2018. Il s’agit désormais de sélectionner les EIG qui intègreront ces administrations par équipes de 2 ou 3 afin de relever ces défis.
+Pour cette 3e promotion, [un jury d’experts a sélectionné 15 défis d’amélioration du service public](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-3eme-promotion-decouvrez-les-15-defis-laureats){:target="_blank"} en lien avec les numérique et les données, lors d’un appel à projets lancé auprès des administrations de mai à juillet 2018. Il s’agit désormais de sélectionner les EIG qui intègreront ces administrations par équipes de 2 ou 3 afin de relever ces défis.
 
 **Pendant 10 mois, les EIG travailleront en étroite collaboration avec leurs mentors (les agents publics des administrations d’accueil) et une équipe projet plus large.** L’objectif est double : livrer une solution viable et diffuser des outils et approches innovants au sein de leurs administrations d’accueil.
 
@@ -73,7 +73,7 @@ Pour les relever, EIG et mentors seront accompagnés par [une équipe dédiée a
 * [PolyGraphe](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/polygraphe.html){:target="_blank"} : détecter les faux avis pour garantir la confiance sur Internet, Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF), Ministère de l’Economie
 
 > Pour déposer votre candidature, rendez-vous jusqu’au 15 octobre sur [l’espace de candidature du programme](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html){:target="_blank"}.
-{: .lien-important}
+> {: .lien-important}
 
 ## Prochaines étapes : session d’information le 3 octobre et jury de sélection en novembre
 

@@ -1,0 +1,84 @@
+// --------------------------------------------------
+// Layout post and other
+// --------------------------------------------------
+
+
+.page-fille {
+  max-width: none;
+  .article  {
+    max-width: 50rem;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: $white;
+    h2 {
+      margin-top: 3rem;
+    }
+    .image-en-tete{
+      height: 50vh;
+    }
+  }
+}
+
+.page-fille-content-text {
+  ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1.5rem;
+    text-indent: -1.5rem;
+    li {
+      &:before {
+        content: "►";
+        display: block;
+        float: left;
+        width: 1.5rem;
+        color: $bleue;
+
+      }
+      li {
+        &:before {
+          color: $bleue-clair;
+        }
+      }
+    }
+  }
+}
+
+#tag-article {
+  display: flex;
+}
+
+.tag {
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    li {
+      margin: 0.5rem;
+      padding:0.5rem;
+      font-size: smaller;
+      border: 1px solid $bleue;
+      border-radius: 0.3rem;
+      color: $bleue;
+    }
+  }
+}
+
+.tag-select {
+    margin: 0.2rem;
+    padding: 0.2rem;
+    font-size: smaller;
+    border: 1px solid $bleue;
+    border-radius: 0.3rem;
+    color: $bleue;
+}
+.selected {
+  background-color: $medium-gray;
+}
+
+.wrap-container {
+  flex-wrap: wrap;
+}
+
+.event-date {
+  font-size: 1.5rem;
+  color: $dark-gray;
+}

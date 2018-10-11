@@ -1,5 +1,6 @@
 export class Instantsearch_factory {
-  constructor(instantsearch, searchClient, routing) {
+  constructor(indexName, instantsearch, searchClient, routing) {
+    this.indexName = indexName;
     this.instantsearch = instantsearch;
     this.searchClient = searchClient;
     this.routing = routing;
@@ -7,7 +8,7 @@ export class Instantsearch_factory {
 
   init() {
     const parameters = {
-      indexName: 'jekyll-dinsic',
+      indexName: this.indexName ,
       searchClient: this.searchClient,
       routing: this.routing,
       searchParameters: {

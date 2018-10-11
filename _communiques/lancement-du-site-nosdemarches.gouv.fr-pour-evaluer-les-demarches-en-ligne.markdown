@@ -5,7 +5,7 @@ tags:
 - Démarches administratives
 communique_file: uploads/cp_nosdemarches_02_07_2018.pdf
 une-ou-diaporama:
-- image: "/uploads/demarches_gouv.jpg"
+- image: "/uploads/nos%20demarches.png"
   alternative-textuelle: Les démarches gouvernementales
 image: uploads/nosdemarches.gouv.jpg
 chapeau: " 100% des démarches administratives accessibles en ligne au 1er janvier
@@ -15,7 +15,7 @@ chapeau: " 100% des démarches administratives accessibles en ligne au 1er janvi
 ---
 
 Premier pas vers cet objectif annoncé lors du Comité interministériel de la transformation publique (CITP) du 1er février 2018 : le lancement en mars dernier, de demarches-simplifiees.fr, permettant aux administrations de dématérialiser facilement les démarches encore gérées sur papier. Le site comptabilise aujourd’hui plus de 30 000 démarches dématérialisées.
-La direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) lance aujourd’hui le site NosDemarches.gouv.fr, tableau de bord ouvert et contributif des démarches administratives accessibles en ligne. Destiné aux usagers, NosDemarches.gouv.fr répond à une double ambition :
+La direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) lance aujourd’hui le site [NosDemarches.gouv.fr](https://nosdemarches.gouv.fr/), tableau de bord ouvert et contributif des démarches administratives accessibles en ligne. Destiné aux usagers, NosDemarches.gouv.fr répond à une double ambition :
 
 * mesurer la satisfaction des usagers concernant les démarches en ligne existantes afin d’identifier les démarches exemplaires et celles ayant besoin d'être améliorées,
 * identifier les démarches papier à dématérialiser en priorité.

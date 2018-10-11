@@ -2,10 +2,30 @@
 layout: default
 ---
 
-<div class="post gray-background">
-  <article>
+<div class="page-fille gray-background">
+  <article class="article">
     {% include article.html %}
     <section id="contact-presse" class="text-center grid-y flex-container">
+      <div class="cell margin-vertical-2">
+        <h2 class="h4 h2-contact-presse">Contact presse</h2>
+        <p>
+          {{ page.contact-presse.name }}
+          {% for tel in page.contact-presse.tel%}
+          {% if forloop.last == true %}
+          {{ tel }}
+          {% else %}
+          {{ tel }} -
+          {% endif %}
+          {% endfor %}
+        </p>
+        <a class="white-link" href="mailto:{{ page.contact-presse.email }}">{{ page.contact-presse.email }}</a>
+      </div>
     </section>
+    <div class="text-center margin-top-2 padding-bottom-2 font-bold">
+      <a target="_blank" class="blue-link" id="fileSize-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ page.communique_file }}">
+        <span class="fas fa-download margin-horizontal-1"></span>
+        <span class="pdf">Télécharger le communiqué de presse (PDF</span>
+      </a>
+    </div>
   </article>
 </div>

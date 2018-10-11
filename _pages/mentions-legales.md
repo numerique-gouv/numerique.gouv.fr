@@ -9,12 +9,12 @@ layout: page-annexe
 Ce site est édité par la direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC), un service du Premier ministre.
 
 DINSIC
-20 avenue de Ségur
-75007 Paris
-Tel. accueil : 01.71.21.01.70
+<br>20 avenue de Ségur
+<br>75007 Paris
+<br>Tel. accueil : 01.71.21.01.70
 
 SIRET : 12000101100010 (secrétariat général du gouvernement)
-SIREN : 120 001 011
+<br>SIREN : 120 001 011
 
 
 ## Directeur de publication ##
@@ -28,17 +28,18 @@ Le suivi éditorial et graphique est assuré au quotidien par la mission Communi
 
 
 ## Code source du site ##
-Le code source du site est disponible sur 
+Le code source du site est disponible sur Github (lien à venir).
 
 
-## Liens vers numerique.gouv.fr ##
+## Propriété intellectuelle et liens vers numerique.gouv.fr ##
 Tout site public ou privé est autorisé à établir, sans autorisation préalable, un lien (y compris profond) vers les informations diffusées sur numerique.gouv.fr
 
-La mise en place de « liens profonds » pointant directement sur un document disponible sur ce site devra être privilégiée par rapport à la reproduction de contenus sur un site tiers. La mention explicite du site source dans l’intitulé du lien est recommandée.
+Sauf mention de propriété intellectuelle détenue par des tiers (notamment un crédit sur certaines images), les contenus de ce site sont proposés sous licence ouverte.
 
-En revanche, la reproduction d'un contenu doit faire l'objet d'une autorisation préalable (contact : [communication.dinsic@modernisation.gouv.fr](mailto:communication.dinsic@modernisation.gouv.fr)) et mentionner très clairement l’origine du document sous forme d’une adresse internet : www.numerique.gouv.fr
+La mise en place de liens vers nos contenus et documents est cependant est à privilégier par rapport à la reproduction sur un site tiers. La mention explicite du site source numerique.gouv.fr est recommandée.
+
 
 ## Hébergement ##
 OVH
-2 rue Kellermann - 59100 Roubaix - France 
-Tel. 09 72 10 10 07 (prix d'un appel vers un poste fixe en France)
+<br>2 rue Kellermann - 59100 Roubaix - France 
+<br>Tel. 09 72 10 10 07 (prix d'un appel vers un poste fixe en France)

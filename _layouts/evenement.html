@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div id="evenement" class="page-fille gray-background">
+  <article class="article">
+    {% include article.html %}
+    <div class="text-center margin-bottom-2 title-and-date">
+      <span>{{ page.title }},</span><br />
+      <span>{% include helpers/date.html date=page.event_date %} - {{ page.event_date | date: "%Hh%M"}}</span>
+    </div>
+    <div id="informations-pratiques">
+      <p class="font-bold">{{ page.lieu }}</p>
+      {% if page.adresse %}
+        <p>{{ page.adresse }}</p>
+      {% endif %}
+      <br>
+      <p class="font-bold">Comment y aller ?</p>
+      {% for acces in page.acces %}
+      <p>
+        <span>{{ acces.type }}</span>
+        {% for ligne in acces.lignes %}
+        <span>
+          {% if forloop.last == true %}
+            {{ ligne.nom }}
+          {% else %}
+            {{ ligne.nom }} -
+          {% endif %}
+        </span>
+        {% endfor %}
+      </p>
+      {% endfor %}
+      <br>
+      {% for champ in page.champs_informations %}
+      <p>
+        <span class="font-bold">{{ champ.intitule }}</span>
+        {% if champ.lien %}
+        <a class="white-link" href="{{ champ.lien}}">{{ champ.contenu }}</a>
+        {% else %}
+        <span>{{ champ.contenu }}</span>
+        {% endif %}
+      </p>
+      {% endfor %}
+    </div>
+    {% if page.adresse %}
+    <h3 class="off-screen">Carte</h3>
+      <div id="map" data-address="{{ page.adresse }}" >
+      </div>
+    {% endif %}
+  </article>
+</div>
+

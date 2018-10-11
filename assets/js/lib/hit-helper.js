@@ -78,4 +78,10 @@ module.exports = class Hit_helper {
     this.hit.date ? formated_date = moment.unix(this.hit.date).tz("Europe/Paris").format('LL') : formated_date = false;
     return formated_date;
   }
+
+  get_event_date_formated() {
+    let formated_date;
+    this.hit.event_date ? formated_date = moment.unix(this.hit.event_date ).tz("Europe/Paris").format('LL') : formated_date = false;
+    return formated_date;
+  }
 };
