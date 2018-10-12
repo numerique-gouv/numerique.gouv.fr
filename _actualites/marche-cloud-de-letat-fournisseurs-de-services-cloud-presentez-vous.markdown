@@ -10,7 +10,7 @@ une-ou-diaporama:
 - image: "/uploads/cloud1.jpg"
 ---
 
-L’Etat lance prochainement un marché afin de sélectionner le futur fournisseur de solutions cloud, de type IaaS et PaaS, et de services associés, répondant aux besoins de l’ensemble de la sphère publique (ministères, établissements publics, collectivités territoriales).
+L’Etat lance prochainement un marché afin de sélectionner les futurs fournisseurs de solutions cloud, de type IaaS et PaaS, et de services associés, répondant aux besoins de l’ensemble de la sphère publique (ministères, établissements publics, collectivités territoriales).
 
 Ce marché porte sur l’offre de « cloud externe », dédié aux données et applications peu sensibles, [annoncée dans la stratégie cloud de l’Etat](https://www.numerique.gouv.fr/espace-presse/le-gouvernement-annonce-sa-strategie-en-matiere-de-cloud/) en juillet dernier par Mounir Mahjoubi, secrétaire d’État chargé du Numérique.
 
