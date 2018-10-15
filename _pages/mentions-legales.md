@@ -4,6 +4,7 @@ permalink: "/mentions-legales/"
 position: 3
 layout: page-annexe
 ---
+
 ## Editeur ##
 Ce site est édité par la direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC), un service du Premier ministre.
 
