@@ -2,7 +2,7 @@
 title: Agenda
 permalink: "/agenda/"
 une:
-  image: "/assets/img/main/image_espace_presse.jpg"
+  image: "/assets/img/main/image-liste-agenda.jpg"
   alternative-textuelle: ordinateur portable
 layout: agenda
 ---

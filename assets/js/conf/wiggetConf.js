@@ -61,8 +61,8 @@ const infiniteHitsConfEvent = {
   showMoreLabel: "Voir plus de résultats",
   cssClasses: {
     showmoreButton: "button voir-plus-button",
-    root: 'grid-x grid-margin-x padding-bottom-2',
-    item: 'cell large-4 medium-6 small-12 padding-1 event-item margin-bottom-1'
+    root: 'grid-y grid-margin-y padding-bottom-2',
+    item: 'cell large-12 padding-1 event-item margin-bottom-1'
   }
 };
 
