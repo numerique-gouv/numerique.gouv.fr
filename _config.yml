@@ -56,7 +56,7 @@ defaults:
       - 01.71.21.11.98
       - 06.84.72.02.00
       email: rachel.wadoux@modernisation.gouv.fr
-url: https://numerique.gouv.fr
+url: https://www.numerique.gouv.fr
 categories:
 - main
 language: fr
