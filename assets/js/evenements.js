@@ -73,7 +73,6 @@ const monthPicker = connectRange(
         "cancelClass": "blue-border-button",
         ranges: {
           "Aujourd'hui": [moment(), moment()],
-          'Les 7 prochains jours': [moment(), moment().add(6, 'days')],
           'Les 30 prochains jours': [moment(), moment().add(29, 'days')],
           'Tous': [moment(), moment().add(1, 'years')],
         },
