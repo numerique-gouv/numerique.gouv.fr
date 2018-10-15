@@ -82,7 +82,7 @@ defaults:
     champs_informations:
     - intitule: contact
       contenu: loremipsum@modernisation.gouv.fr
-url: https://numerique.gouv.fr
+url: https://www.numerique.gouv.fr
 categories:
 - main
 language: fr
