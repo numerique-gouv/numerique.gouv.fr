@@ -16,6 +16,9 @@ collections:
   politique-logiciel-libre:
     title: Politique de contribution aux logiciels libres de l’État
     output: true
+  evenements:
+    title: Evénements
+    output: true
   posts:
     title: Posts
     output: true
@@ -56,6 +59,27 @@ defaults:
       - 01.71.21.11.98
       - 06.84.72.02.00
       email: rachel.wadoux@modernisation.gouv.fr
+- scope:
+    path: ''
+    type: evenements
+  values:
+    layout: evenement
+    chapeau-text:
+    categorie:
+    une-ou-diaporama:
+    - image:
+      legende:
+      alternative-textuelle:
+    event_date:
+    lieu: DINSIC
+    adresse: 20 avenue de Ségur 75007 Paris
+    acces:
+    - type: Métro
+      lignes:
+      - nom: 'exemple: Ligne 9 Iéna'
+    champs_informations:
+    - intitule: contact
+      contenu: loremipsum@modernisation.gouv.fr
 url: https://www.numerique.gouv.fr
 categories:
 - main
