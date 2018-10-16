@@ -1,5 +1,5 @@
 ---
-title: Evénements 2
+title: Evénements 3
 date: 2018-08-18 00:00:00 +02:00
 categories:
 - Conférence
@@ -12,8 +12,8 @@ champs_informations:
 - intitule: site web
   contenu: entrepreneur-interet-general.etalab.gouv.fr
   lien: https://entrepreneur-interet-general.etalab.gouv.fr
-event_start_date: 2018-10-17 00:00:00 +02:00
-event_end_date: 2018-10-25 00:00:00 +02:00
+event_start_date: 2018-11-16 23:00:00 +01:00
+event_end_date: 2018-12-24 23:00:00 +01:00
 une-ou-diaporama:
 - image: "/uploads/revue_de_details.jpg"
 chapeau-text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
