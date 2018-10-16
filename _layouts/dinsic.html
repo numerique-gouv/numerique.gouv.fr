@@ -21,7 +21,7 @@ layout: default
     <h2 class="text-center font-bold">Nos 5 missions</h2>
     <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
       {% for mission in missions-ordered %}
-      <a href="#mission{{ mission.ordre }}"  class="cell nav-section grid-y medium-6 large-4 black-link">
+      <a href="#list{{ mission.ordre }}"  class="cell nav-section grid-y medium-6 large-4 black-link">
         <img alt="icon {{ mission.title }}" src="{{base}}/assets/img/pictogrammes/{{ mission.icon }}">
         <span class="h5 text-center">{{ mission.title }}</span>
         <span class="button">Voir plus</span>
