@@ -63,12 +63,22 @@ export class Template_builder {
 
   get_template_tags() {
     const template =  hogan.compile(`
-      <a href="${ this.data.url }" class=" tag-select {{#isRefined}}selected{{/isRefined}}">
+      <button class=" tag-select {{#isRefined}}selected{{/isRefined}}">
         #${ capitalizeFirstLetter(this.data.label) }
-      </a>
+      </button>
     `);
     return template.render({isRefined:this.data.isRefined});
   };
+  // get_template_categories() {
+  //   console.log(this.data)
+  //   const template =  hogan.compile(`
+  //     <input type="checkbox" id="${ this.data.label }" name="feature" value="claws" />
+  //     <label for="${ this.data.label }" class="{{#isRefined}}selected{{/isRefined}}">
+  //       ${ capitalizeFirstLetter(this.data.label) } ($(this.data.count)
+  //     </label>
+  //   `);
+  //   return template.render({isRefined:this.data.isRefined});
+  // };
   get_template_stats() {
     const nbHits = new Hit_helper(this.data);
     const template =  hogan.compile(`

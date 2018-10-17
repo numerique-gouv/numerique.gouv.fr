@@ -1,5 +1,6 @@
 import { Template_builder } from "../lib/template-builder";
 import {capitalizeFirstLetter} from "../lib/capitalize"
+import hogan from "hogan.js"
 
 
 function configureConf(collection) {
@@ -39,14 +40,7 @@ const refinementListConf = {
 const multiSelect = {
   container: '#categories',
   attributeName: 'categories',
-  autoHideContainer: false,
-  template: {
-    item: hogan.compile(`
-      <label for="{{this.label}}" class=" tag-select {{#isRefined}}selected{{/isRefined}}">
-        #${ capitalizeFirstLetter(this.data.label) }
-      </label>
-    `)
-  }
+  autoHideContainer: false
 }
 
 const infiniteHitsConf = {
