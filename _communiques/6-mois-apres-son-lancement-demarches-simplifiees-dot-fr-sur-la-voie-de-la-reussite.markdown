@@ -9,7 +9,7 @@ chapeau-text: 'Créer une démarche en ligne en un temps record et sans frais. C
   objectif clair : offrir aux administrations un service clé en main pour numériser
   des démarches administratives et ainsi s’affranchir des formulaires papiers.'
 une-ou-diaporama:
-- image: "/uploads/demarches-simplifiees.fr_bilan_6_mois.png"
+- image: "/uploads/D%C3%A9marches-simplif%C3%A9es_bilan_6mois.jpg"
 ---
 
 ## Accélérer la transformation numérique de la France
