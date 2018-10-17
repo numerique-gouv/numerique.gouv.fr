@@ -63,9 +63,9 @@ export class Template_builder {
 
   get_template_tags() {
     const template =  hogan.compile(`
-      <button class=" tag-select {{#isRefined}}selected{{/isRefined}}">
+      <a href="${ this.data.url }" class=" tag-select {{#isRefined}}selected{{/isRefined}}">
         #${ capitalizeFirstLetter(this.data.label) }
-      </button>
+      </a>
     `);
     return template.render({isRefined:this.data.isRefined});
   };
