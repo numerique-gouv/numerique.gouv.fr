@@ -24,13 +24,16 @@ Le principe ? Après avoir créé un compte, un agent peut créer un formulaire 
 
 Les ministères en sont les principaux utilisateurs, en particulier leurs services déconcentrés (284 démarches dématérialisées depuis le 1er mars 2018), suivis des collectivités locales (une soixantaine de démarches). Plus de 550 organismes adhèrent aujourd’hui à [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/). D’après une évaluation de satisfaction auprès d’un échantillon de 300 personnes, 75% des utilisateurs de la plateforme se déclarent satisfaits du service. Le délai moyen de réponse aux utilisateurs par l’équipe support est de moins de 12 heures.
 
->  Grâce à demarches-simplifiees.fr, nous avons considérablement réduit le temps de traitement des dossiers, les usagers sont très contents, tout comme les services préfectoraux. Grâce à l’outil, nous sommes en mesure de traiter une centaine de dossiers par jour. >  
-> **Christelle Gigault**, adjointe aux délégués de l'éducation routière, Conseil départemental des Yvelines.
-{: .auteur-citation}
-
-La prise en main s’est faite de manière très fluide, même si je ne suis pas une geek. L’équipe a été très réactive et pédagogue pour m’orienter et répondre à toutes mes questions tout au long de la création de ma procédure. Avec l’aval de ma direction, j’ai pu dématérialiser ma procédure sans dépendre de ma DSI. Cela m’a permis un gain de temps important dans l’instruction des dossiers.  
+Grâce à demarches-simplifiees.fr, nous avons considérablement réduit le temps de traitement des dossiers, les usagers sont très contents, tout comme les services préfectoraux. Grâce à l’outil, nous sommes en mesure de traiter une centaine de dossiers par jour.
 {: .citation}
+
+> **Christelle Gigault**, adjointe aux délégués de l'éducation routière, Conseil départemental des Yvelines.
+> {: .auteur-citation}
+
+La prise en main s’est faite de manière très fluide, même si je ne suis pas une geek. L’équipe a été très réactive et pédagogue pour m’orienter et répondre à toutes mes questions tout au long de la création de ma procédure. Avec l’aval de ma direction, j’ai pu dématérialiser ma procédure sans dépendre de ma DSI. Cela m’a permis un gain de temps important dans l’instruction des dossiers.\
+{: .citation}
+
 > **Muriel Bégo**, Direccte Val de Loire.
-{: .auteur-citation}
+> {: .auteur-citation}
 
 Prochaine étape du déploiement de demarches-simplifiees.fr : l’équipe entamera fin septembre un tour de France des régions pour aller à la rencontre des agents sur le terrain, recueillir leurs besoins, partager les bonnes pratiques mais aussi les former à l’utilisation de la plateforme.
