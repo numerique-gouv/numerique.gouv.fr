@@ -3,11 +3,11 @@ title: 6 MOIS APRÈS SON LANCEMENT, DEMARCHES-SIMPLIFIEES.FR SUR LA VOIE DE LA R
 date: 2018-10-17 12:05:00 +02:00
 communique_file: "/uploads/CP_demarches-simplifiees_6_mois_apres_03_09_2018.pdf"
 chapeau-text: 'Créer une démarche en ligne en un temps record et sans frais. C’est
-  possible depuis le 1er mars dernier, grâce à demarches-simplifiees.fr, la plateforme
-  de dématérialisation destinée aux administrations lancée par le secrétaire d’État
-  auprès du Premier ministre, chargé du Numérique, Mounir Mahjoubi avec un objectif
-  clair : offrir aux administrations un service clé en main pour numériser des démarches
-  administratives et ainsi s’affranchir des formulaires papiers.'
+  possible depuis le 1er mars dernier, grâce à [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/),
+  la plateforme de dématérialisation destinée aux administrations lancée par le secrétaire
+  d’État auprès du Premier ministre, chargé du Numérique, Mounir Mahjoubi avec un
+  objectif clair : offrir aux administrations un service clé en main pour numériser
+  des démarches administratives et ainsi s’affranchir des formulaires papiers.'
 ---
 
 ## Accélérer la transformation numérique de la France
