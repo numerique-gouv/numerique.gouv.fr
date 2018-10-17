@@ -29,7 +29,7 @@ Les ministères en sont les principaux utilisateurs, en particulier leurs servic
 > **Christelle Gigault**, adjointe aux délégués de l'éducation routière, Conseil départemental des Yvelines.
 {: .auteur-citation}
 
-La prise en main s’est faite de manière très fluide, même si je ne suis pas une geek. L’équipe a été très réactive et pédagogue pour 
+> La prise en main s’est faite de manière très fluide, même si je ne suis pas une geek. L’équipe a été très réactive et pédagogue pour 
 m’orienter et répondre à toutes mes questions tout au long de la création de ma procédure. Avec l’aval de ma direction, j’ai pu 
 dématérialiser ma procédure sans dépendre de ma DSI. Cela m’a permis un gain de temps important dans l’instruction des dossiers.
 {: .citation}
