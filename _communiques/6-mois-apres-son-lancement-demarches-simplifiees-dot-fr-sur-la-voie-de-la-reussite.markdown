@@ -8,6 +8,8 @@ chapeau-text: 'Créer une démarche en ligne en un temps record et sans frais. C
   d’État auprès du Premier ministre, chargé du Numérique, Mounir Mahjoubi avec un
   objectif clair : offrir aux administrations un service clé en main pour numériser
   des démarches administratives et ainsi s’affranchir des formulaires papiers.'
+une-ou-diaporama:
+- image: "/uploads/demarches-simplifiees.fr_bilan_6_mois.png"
 ---
 
 ## Accélérer la transformation numérique de la France
@@ -37,3 +39,5 @@ dématérialiser ma procédure sans dépendre de ma DSI. Cela m’a permis un ga
 {: .auteur-citation}
 
 Prochaine étape du déploiement de demarches-simplifiees.fr : l’équipe entamera fin septembre un tour de France des régions pour aller à la rencontre des agents sur le terrain, recueillir leurs besoins, partager les bonnes pratiques mais aussi les former à l’utilisation de la plateforme.
+
+[Consulter les statistiques d’utilisation de demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/stats)
