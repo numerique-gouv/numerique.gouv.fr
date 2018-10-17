@@ -6,7 +6,7 @@ import { connectRange } from "instantsearch.js/es/connectors";
 import { agenda_routing_conf } from "./conf/routing-conf";
 import { Instantsearch_factory } from "./instant-search/instantsearch-factory";
 import { Instantsearch_builder } from "./instant-search/instantsearch-builder";
-import { configureConf, menuSelectConf, refinementListConf, infiniteHitsConfEvent } from "./conf/wiggetConf";
+import { configureConf, menuSelectConf, refinementListConf, infiniteHitsConfEvent, multiSelect } from "./conf/wiggetConf";
 
 
 const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');
@@ -105,9 +105,11 @@ instantsearch_builder.addWidget(monthPicker, {
 
 instantsearch_builder.addWidget(configure,configureConf("événements"));
 
-instantsearch_builder.addWidget(menuSelect,menuSelectConf);
+// instantsearch_builder.addWidget(menuSelect,menuSelectConf);
 
 instantsearch_builder.addWidget(refinementList,refinementListConf);
+
+instantsearch_builder.addWidget(refinementList,multiSelect);
 
 instantsearch_builder.addWidget(infiniteHits, infiniteHitsConfEvent);
 

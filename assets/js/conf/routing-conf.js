@@ -27,7 +27,7 @@ const agenda_routing_conf = {
       return {
         query: uiState.query,
         categories: uiState.menu,
-        tags: uiState.refinementList && uiState.refinementList.tags.join('~'),
+        tags: uiState.refinementList,
         date: uiState.range && uiState.range.date,
       };
     },
@@ -38,7 +38,7 @@ const agenda_routing_conf = {
           categories: routeState.categories,
         },
         refinementList: {
-          tags: routeState.tags && routeState.tags.split('~')
+          tags: routeState.tags
         },
         range: {
           date: routeState.date
