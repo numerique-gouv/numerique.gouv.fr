@@ -112,5 +112,3 @@ instantsearch_builder.addWidget(refinementList,multiSelect);
 instantsearch_builder.addWidget(infiniteHits, infiniteHitsConfEvent);
 
 instantsearch_builder.start();
-
-
