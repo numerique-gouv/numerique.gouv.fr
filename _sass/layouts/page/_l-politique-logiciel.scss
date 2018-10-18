@@ -5,19 +5,25 @@
       padding: 0.75rem 0;
     }
   }
+  ul li li:before {
+    content: url('/assets/img/pictogrammes/triangle-blanc.svg');
+    padding-right: 0.3rem;
+    width: 1rem;
+    display: inline-block;
+  }
   h3 {
     font-weight: bold;
-    margin-bottom: 1rem;
     margin-top: 3rem;
-  }
-  h5 {
-    color: $bleue-vert
+    margin-bottom: 1.5rem;
   }
   h5::before {
-    content: url('/assets/img/pictogrammes/triangle-blanc.svg');
+    content: '...';
     margin-right: 0.3rem;
     width: 1rem;
     display: inline-block;
+  }
+  h4 {
+    color: $bleue;
   }
   h5 {
     line-height: 0.6rem;
@@ -27,9 +33,10 @@
     margin-left: auto;
     display: flex;
     flex-flow: row wrap;
+    margin-top: 2rem;
   }
   h4, h5 {
-    margin-bottom: 1rem;
-    margin-top: 2rem;
+    margin-bottom: 0.7rem;
+    margin-top: 2.5rem;
   }
 }
