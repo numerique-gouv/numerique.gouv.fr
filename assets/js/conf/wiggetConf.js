@@ -77,7 +77,8 @@ const infiniteHitsConfEvent = {
 
 const searchBoxConf =  {
   container: '#search-input',
-  poweredBy: false
+  poweredBy: false,
+  magnifier: false
 };
 
 const statsConf =  {
@@ -90,4 +91,13 @@ const statsConf =  {
   }
 };
 
-export {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf, searchBoxConf, infiniteHitsConfEvent, statsConf, multiSelect};
+const eventSearch = {
+  container: '#search-event',
+  placeholder: 'Rechercher par mot clé',
+  autofocus: false,
+  reset: true,
+  magnifier: false,
+  loadingIndicator: false
+}
+
+export {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf, searchBoxConf, infiniteHitsConfEvent, statsConf, multiSelect, eventSearch};

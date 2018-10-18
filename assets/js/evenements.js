@@ -1,6 +1,6 @@
 import algoliasearch from "algoliasearch";
 import instantsearch from "instantsearch.js";
-import { configure, menuSelect, refinementList, infiniteHits } from "instantsearch.js/es/widgets";
+import { configure, menuSelect, refinementList, infiniteHits, searchBox } from "instantsearch.js/es/widgets";
 import { connectRange } from "instantsearch.js/es/connectors";
 import { fdatepicker } from "./lib/foundation-datepicker"
 const moment = require("moment");
@@ -10,7 +10,7 @@ moment.locale('fr');
 import { agenda_routing_conf } from "./conf/routing-conf";
 import { Instantsearch_factory } from "./instant-search/instantsearch-factory";
 import { Instantsearch_builder } from "./instant-search/instantsearch-builder";
-import { configureConf, menuSelectConf, refinementListConf, infiniteHitsConfEvent, multiSelect } from "./conf/wiggetConf";
+import { configureConf, menuSelectConf, refinementListConf, infiniteHitsConfEvent, multiSelect, eventSearch } from "./conf/wiggetConf";
 
 const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');
 const indexName = process.env.ALGOLIA_INDEX;
@@ -110,5 +110,7 @@ instantsearch_builder.addWidget(refinementList,refinementListConf);
 instantsearch_builder.addWidget(refinementList,multiSelect);
 
 instantsearch_builder.addWidget(infiniteHits, infiniteHitsConfEvent);
+
+instantsearch_builder.addWidget(searchBox, eventSearch);
 
 instantsearch_builder.start();
