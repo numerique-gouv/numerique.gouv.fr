@@ -1,10 +1,10 @@
 ---
-title: Bonnes pratiques
-permalink: "/publications/politique-logiciel-libre/pratique/"
 menu:
   title: Bonnes pratiques
   weight: 40
+title: Bonnes pratiques
 layout: politique-logiciel-libre
+permalink: /publications/politique-logiciel-libre/pratique/
 ---
 
 ### Système de suivi de version de code source

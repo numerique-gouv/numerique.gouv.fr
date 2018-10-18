@@ -62,6 +62,8 @@ class Page:
       self.title_weight = title_weight
 
   def markdownify_content(self):
+      self.content = re.sub(r'({{% question) "(.*)"(\s*%}})',r'### \2', self.content)
+      re.purge()
       self.content = re.sub(r'{{< relref "(\w*)\.md[#\w\-éèà]*"\s*>}}\s*',r'\1', self.content)
       re.purge()
       self.content = re.sub(r'{{% (\w*) "(.*)" *%}}([\s\S]*?){{% \/\1 %}}',r'*\2*\3', self.content)

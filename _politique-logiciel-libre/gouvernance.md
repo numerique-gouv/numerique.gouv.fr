@@ -1,10 +1,10 @@
 ---
-title: Gouvernance de la politique de contribution interministérielle
-permalink: "/publications/politique-logiciel-libre/gouvernance/"
 menu:
   title: Gouvernance
   weight: 50
+title: "Gouvernance de la politique de contribution interminist\xE9rielle"
 layout: politique-logiciel-libre
+permalink: /publications/politique-logiciel-libre/gouvernance/
 ---
 
 La DINSIC maintient ce document et en est responsable (elle est propriétaire du dépôt et de la gestion des droits d'écriture). L'élaboration de cette politique a vocation à être collaborative et les entités auxquelles elle s'applique sont toutes invitées à participer à son évolution.

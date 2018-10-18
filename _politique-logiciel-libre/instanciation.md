@@ -1,10 +1,10 @@
 ---
-title: Instanciation des politiques de contribution ministérielles
-permalink: "/publications/politique-logiciel-libre/instanciation/"
 menu:
   title: Instanciation
   weight: 40
+title: "Instanciation des politiques de contribution minist\xE9rielles"
 layout: politique-logiciel-libre
+permalink: /publications/politique-logiciel-libre/instanciation/
 ---
 
 ### En résumé
