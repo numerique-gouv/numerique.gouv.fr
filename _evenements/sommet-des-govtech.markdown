@@ -7,9 +7,13 @@ chapeau-text: Comment les nouvelles technologies peuvent améliorer les services
   GovTech réunira, le 12 novembre 2018 à Paris, les leaders et innovateurs européens.
   La DINSIC participera à l'événement à travers son programme Entrepreneur d'Intérêt
   Général et son incubateur de services numériques.
+lieu: Salons de l'Hôtel de Ville de Paris
+acces:
+- type: Bus
+  lignes: 38, 47, 67, 69, 70, 72, 74, 75, 76, 85, 96
 champs_informations:
-- intitule: Inscription gratuite
-  contenu: 'https://govtechsummit.eu  '
+- intitule: Horaires
+  contenu: 8h15-18h00
 ---
 
 Intelligence artificielle, identité numérique, 
