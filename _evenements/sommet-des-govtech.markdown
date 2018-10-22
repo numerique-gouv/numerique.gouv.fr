@@ -1,6 +1,8 @@
 ---
 title: Sommet européen des GovTech
 date: 2018-10-19 14:18:00 +02:00
+categories:
+- Sommet
 chapeau-text: Comment les nouvelles technologies peuvent améliorer les services publics
   et les pratiques démocratiques ? C'est autour de cette question que le tout premier
   sommet européen des GovTech réunira, le 12 novembre 2018 à Paris, les leaders et
@@ -11,10 +13,10 @@ une-ou-diaporama:
 event_date: 2018-11-22 00:00:00 +01:00
 lieu: Salons de l'Hôtel de Ville de Paris
 acces:
-- lignes: métro
 - type: RER
   lignes:
   - nom: A et B – Châtelet-Les Halles
+- lignes: métro
 - type: Bus
   lignes:
   - nom: 38, 47, 67, 69, 70, 72, 74, 75, 76, 85, 96, Balabus
