@@ -10,12 +10,17 @@ une-ou-diaporama:
 - image: "/uploads/people.png"
 lieu: Salons de l'Hôtel de Ville de Paris
 acces:
+- lignes: métro
 - type: RER
-  lignes: A et B
+  lignes:
+  - nom: A et B – Châtelet-Les Halles
+- type: Bus
+  lignes:
+  - nom: 38, 47, 67, 69, 70, 72, 74, 75, 76, 85, 96, Balabus
 champs_informations:
 - intitule: Modalités
   contenu: Inscription en ligne
-  lien: https://github.com/ETIBER/site-dinsic/wiki
+  lien: https://www.weezevent.com/the-govtech-summit
 ---
 
 Intelligence artificielle, identité numérique, 
