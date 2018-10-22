@@ -8,6 +8,7 @@ chapeau-text: Comment les nouvelles technologies peuvent améliorer les services
   Entrepreneur d'Intérêt Général et son incubateur de services numériques.
 une-ou-diaporama:
 - image: "/uploads/people.png"
+event_date: 2018-11-22 00:00:00 +01:00
 lieu: Salons de l'Hôtel de Ville de Paris
 acces:
 - lignes: métro
