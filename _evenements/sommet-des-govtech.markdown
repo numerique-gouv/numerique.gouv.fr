@@ -10,11 +10,12 @@ une-ou-diaporama:
 - image: "/uploads/people.png"
 lieu: Salons de l'Hôtel de Ville de Paris
 acces:
-- type: Bus
-  lignes: 38, 47, 67, 69, 70, 72, 74, 75, 76, 85, 96
+- type: RER
+  lignes: A et B
 champs_informations:
-- intitule: Horaires
-  contenu: 8h15-18h00
+- intitule: Modalités
+  contenu: Inscription en ligne
+  link: https://github.com/ETIBER/site-dinsic/wiki
 ---
 
 Intelligence artificielle, identité numérique, 
