@@ -15,7 +15,7 @@ acces:
 champs_informations:
 - intitule: Modalités
   contenu: Inscription en ligne
-  link: https://github.com/ETIBER/site-dinsic/wiki
+  lien: https://github.com/ETIBER/site-dinsic/wiki
 ---
 
 Intelligence artificielle, identité numérique, 
