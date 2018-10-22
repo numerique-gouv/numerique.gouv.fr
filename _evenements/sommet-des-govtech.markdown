@@ -1,7 +1,6 @@
 ---
 title: Sommet européen des GovTech
 date: 2018-10-19 14:18:00 +02:00
-published: false
 chapeau-text: Comment les nouvelles technologies peuvent améliorer les services publics
   et les pratiques démocratiques ? C'est autour de cette question que le tout premier
   sommet européen des GovTech réunira, le 12 novembre 2018 à Paris, les leaders et
