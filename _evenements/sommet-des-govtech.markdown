@@ -13,10 +13,12 @@ une-ou-diaporama:
 event_date: 2018-11-22 00:00:00 +01:00
 lieu: Salons de l'Hôtel de Ville de Paris
 acces:
+- type: Métro
+  lignes:
+  - nom: 'Ligne 1 – Hôtel de Ville '
 - type: RER
   lignes:
   - nom: A et B – Châtelet-Les Halles
-- lignes: métro
 - type: Bus
   lignes:
   - nom: 38, 47, 67, 69, 70, 72, 74, 75, 76, 85, 96, Balabus
