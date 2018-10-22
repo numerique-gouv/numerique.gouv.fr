@@ -7,6 +7,8 @@ tags:
 - Données ouvertes
 - datascience
 communique_file: "/uploads/CP_EIG3_Appel_a_candidatures.pdf"
+une-ou-diaporama:
+- image: "/uploads/EIG3-candidature-ok.png"
 ---
 
 10 mois, 15 défis et 1 mission : muscler la **transition numérique de l’État**. Un nouvel appel à candidature est aujourd’hui lancé pour recruter 32 nouveaux **entrepreneurs d’intérêt général** qui depuis 2017, transforment l’administration de l’intérieur grâce à leurs **compétences numériques pointues**.
