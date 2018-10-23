@@ -1,6 +1,9 @@
 ---
 title: Tour de France - "demarches-simplifiees.fr " - Étape Corse
 date: 2018-10-23 14:40:00 +02:00
+tags:
+- dématérialisation
+- démarches en ligne
 chapeau-text: "Le Tour de France de *demarches-simplifiees.fr* fait étape à Ajaccio
   le 8 novembre 2018. Ouverte à tous les agents publics – d’État et de l’administration
   territoriale, cette journée leur permettra de **découvrir la plateforme de dématérialisation
