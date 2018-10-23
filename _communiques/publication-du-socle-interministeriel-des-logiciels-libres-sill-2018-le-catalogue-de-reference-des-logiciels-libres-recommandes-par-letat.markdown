@@ -6,8 +6,6 @@ communique_file: "/uploads/CP_Socle_interministeriel_logiciels_libres-2018.pdf"
 chapeau-text: L’État partage aujourd’hui l’édition 2018 de son **socle interministériel
   des logiciels libres (SILL)**, publié chaque année depuis 2013 pour **encourager
   l’usage concerté et coordonné des solutions libres dans l’administration**.
-une-ou-diaporama:
-- image: "/uploads/220px-SILL_2018.jpg"
 ---
 
 Fruit d’un travail de recensement effectué par des communautés d’agents informaticiens de l’État, d’opérateurs publics et de collectivités territoriales, **le SILL recense l’ensemble des alternatives libres testées et approuvées par au moins une entité publique**, pour une utilisation **répondant aux besoins des administrations françaises**.
@@ -23,5 +21,5 @@ Parmi les **23 nouveautés** de cette édition 2018, RocketChat (messagerie inst
 
 **Pour en savoir plus sur le socle interministériel de logiciels libres 2018**
 
-> http://references.modernisation.gouv.fr/socle-logiciels-libres
+> http://references.modernisation.gouv.fr/socle-logiciels-libres {:target="blank"}
 {: .lien-important}
