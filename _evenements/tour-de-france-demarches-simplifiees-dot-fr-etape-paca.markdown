@@ -27,6 +27,7 @@ Plus largement, cette journée est aussi l’occasion de les **sensibiliser aux 
  
 * **13h30 - 16h30 :** L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l'organisation de leur service. 
 
+
 #### Retrouver chacune des étapes du tour de France : 
 
 * Étape Normandie, le 26 septembre à Rouen
@@ -40,5 +41,5 @@ Plus largement, cette journée est aussi l’occasion de les **sensibiliser aux 
 * Étape Bretagne, le 22 novembre à Rennes
 * Étape Hauts-de-France, le 27 novembre à Lille
 * Étape Grand-Est, le 29 novembre à Metz
-* Étape Centre Val-de-Loire, le 5 décembre à Orleans
+* Étape Centre Val-de-Loire, le 5 décembre à Orléans
 * Étape Auvergne-Rhone-Alpes, le 7 décembre à Lyon
