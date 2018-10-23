@@ -26,3 +26,19 @@ Plus largement, cette journée est aussi l’occasion de les **sensibiliser aux 
 * **9h30 - 12h :** La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de *demarches-simplifiees.fr* et à des retours d’expériences d’agents utilisant déjà cette plateforme. 
  
 * **13h30 - 16h30 :** L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l'organisation de leur service. 
+
+#### Retrouver chacune des étapes du tour de France : 
+
+* Étape Normandie, le 26 septembre à Rouen
+* Étape Occitanie, le 15 octobre à Toulouse
+* Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux
+* Étape PACA, le 6 novembre à Marseille
+* Étape Corse, le 8 novembre à Ajaccio
+* Étape Ile-de-France, le 13 novembre à Paris
+* Étape Bourgogne Franche-Comté, le 14 novembre à Dijon
+* Étape Pays de la Loire, le 20 novembre à Nantes
+* Étape Bretagne, le 22 novembre à Rennes
+* Étape Hauts-de-France, le 27 novembre à Lille
+* Étape Grand-Est, le 29 novembre à Metz
+* Étape Centre Val-de-Loire, le 5 décembre à Orleans
+* Étape Auvergne-Rhone-Alpes, le 7 décembre à Lyon
