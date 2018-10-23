@@ -45,4 +45,4 @@ Plus largement, cette journée est aussi l’occasion de les **sensibiliser aux 
 * Étape Hauts-de-France, le 27 novembre à Lille
 * Étape Grand-Est, le 29 novembre à Metz
 * Étape Centre Val-de-Loire, le 5 décembre à Orléans
-* Étape Auvergne-Rhone-Alpes, le 7 décembre à Lyon
+* Étape Auvergne-Rhône-Alpes, le 7 décembre à Lyon
