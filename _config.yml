@@ -65,19 +65,21 @@ defaults:
     type: evenements
   values:
     layout: evenement
-    chapeau-text: 
-    categorie: 
+    chapeau-text:
+    categorie:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
-    event_date: 
+    - image:
+      legende:
+      alternative-textuelle:
+    event_start_date:
+    event_end_date:
     lieu: DINSIC
     adresse: 20 avenue de Ségur 75007 Paris
+    afficher_la_carte: true
     acces:
-    - type: Métro
+    - type:
       lignes:
-      - nom: 'exemple: Ligne 9 Iéna'
+      - nom:
     champs_informations:
     - intitule: contact
       contenu: loremipsum@modernisation.gouv.fr
