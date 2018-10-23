@@ -12,7 +12,7 @@ chapeau-text: Le Tour de France de *demarches-simplifiees.fr* fait étape à Ren
   des démarches administratives et de se former à son utilisation**.
 une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
-event_date: 2018-11-22 08:00:00 +01:00
+event_start_date: 2018-11-22 08:00:00 +01:00
 lieu: Rennes
 adresse: Adresse communiquée prochainement
 champs_informations:
