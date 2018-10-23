@@ -10,7 +10,7 @@ chapeau-text: Le Tour de France de *demarches-simplifiees.fr* fait étape à Lyo
   des démarches administratives et de se former à son utilisation**.
 une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
-event_date: 2018-12-07 00:00:00 +01:00
+event_date: 2018-12-07 08:00:00 +01:00
 lieu: Lyon
 adresse: Adresse communiquée prochainement
 champs_informations:
