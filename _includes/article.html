@@ -17,7 +17,8 @@
   <ul class="no-bullet">
     {% for tag in page.tags %}
     <li>
-      <a href="{{ collection | append: '/?tags=' | append:tag | append:'#list-post' | relative_url }}">
+      {{  page.collection.url-collection }}
+      <a href="{{ 'espace-presse' | append: '/?tags=' | append:tag | append:'#list-post' | relative_url }}">
         #{{ tag | capitalize }}
       </a>
     </li>
