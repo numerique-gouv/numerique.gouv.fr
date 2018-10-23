@@ -16,7 +16,7 @@ Fruit d’un travail de recensement effectué par des communautés d’agents in
 Sous l’impulsion de la DINSIC et validée en comité interministériel, cette édition 2018 du SILL (PDF) répertorie **152 solutions open source** sur lesquelles les pouvoirs publics - comme les adeptes du libre - peuvent trouver un cadre de convergence de logiciels à privilégier.
 
 
-Par catégorie (bureautique, développement, multimédia, messagerie, navigation…), le SILL 2018 présente le logiciel conseillé selon l’usage souhaité (Firefox pour la navigation web, Keepass pour la gestion des mots de passe, LibreOffice pour la bureautique, BlueGriffon pour l’édition HTML, etc.) ainsi qu’un cas d’usage, le statut - recommandé, en observation, en fin de vie - la licence ou encore la compatibilité avec les principaux systèmes d’exploitation.
+Par catégorie (bureautique, développement, multimédia, messagerie, navigation…), **le SILL 2018 présente le logiciel conseillé selon l’usage souhaité** (Firefox pour la navigation web, Keepass pour la gestion des mots de passe, LibreOffice pour la bureautique, BlueGriffon pour l’édition HTML, etc.) **ainsi qu’un cas d’usage, le statut - recommandé, en observation, en fin de vie - la licence ou encore la compatibilité avec les principaux systèmes d’exploitation.**
 
 
 Parmi les **23 nouveautés** de cette édition 2018, RocketChat (messagerie instantanée), Qwant (extension pour Firefox du moteur de recherche respectant la vie privée sur internet), Ublock Origin (bloqueur des publicités et des pisteurs), JaCoCo (mesure de la qualité et sécurité de code source en Java) ou encore  Swarm (orchestrateur de containers) font leur entrée.
