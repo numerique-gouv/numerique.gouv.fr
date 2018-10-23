@@ -19,5 +19,7 @@ Par catégorie (bureautique, développement, multimédia, messagerie, navigation
 
 Parmi les **23 nouveautés** de cette édition 2018, RocketChat (messagerie instantanée), Qwant (extension pour Firefox du moteur de recherche respectant la vie privée sur internet), Ublock Origin (bloqueur des publicités et des pisteurs), JaCoCo (mesure de la qualité et sécurité de code source en Java) ou encore  Swarm (orchestrateur de containers) font leur entrée.
 
-> [**En savoir plus sur le socle interministériel de logiciels libres 2018**](http://references.modernisation.gouv.fr/socle-logiciels-libres){: target="_blank"} 
+[En savoir plus sur le SILL](http://references.modernisation.gouv.fr/socle-logiciels-libres){: target="_blank"} 
+
+> [Consulter le socle interministériel de logiciels libres 2018 (pdf)**](http://references.modernisation.gouv.fr/sites/default/files/SILL%202018%20-%20socle%20interministeriel%20de%20logiciels%20libres.pdf){: target="_blank"} 
 {: .lien-important}
