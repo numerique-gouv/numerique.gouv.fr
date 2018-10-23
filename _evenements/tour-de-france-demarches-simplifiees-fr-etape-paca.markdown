@@ -12,9 +12,9 @@ chapeau-text: Le Tour de France de *demarches-simplifiees.fr* fait étape à Mar
   des démarches administratives et de se former à son utilisation**.
 une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
-event_start_date: 2018-11-06 08:00:00 +01:00
+event_date: 2018-11-06 08:00:00 +01:00
 lieu: Marseille
-adresse: Lieu exact communiqué prochainement
+adresse: Adresse communiquée prochainement
 champs_informations:
 - intitule: Modalités
   contenu: Inscription gratuite obligatoire
@@ -36,13 +36,13 @@ Plus largement, cette journée est aussi l’occasion de les **sensibiliser aux 
 * Étape Normandie, le 26 septembre à Rouen
 * Étape Occitanie, le 15 octobre à Toulouse
 * Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux
-* Étape PACA, le 6 novembre à Marseille
-* Étape Corse, le 8 novembre à Ajaccio
-* Étape Ile-de-France, le 13 novembre à Paris
-* Étape Bourgogne Franche-Comté, le 14 novembre à Dijon
-* Étape Pays de la Loire, le 20 novembre à Nantes
-* Étape Bretagne, le 22 novembre à Rennes
+* [Étape PACA](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/), le 6 novembre à Marseille
+* [Étape Corse](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/), le 8 novembre à Ajaccio
+* [Étape Ile-de-France](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/), le 13 novembre à Paris
+* [Étape Bourgogne Franche-Comté](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/), le 14 novembre à Dijon
+* [Étape Pays de la Loire](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/), le 20 novembre à Nantes
+* [Étape Bretagne](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/), le 22 novembre à Rennes
 * Étape Hauts-de-France, le 27 novembre à Lille
 * Étape Grand-Est, le 29 novembre à Metz
 * Étape Centre Val-de-Loire, le 5 décembre à Orléans
-* Étape Auvergne-Rhône-Alpes, le 7 décembre à Lyon
+* [Étape Auvergne-Rhône-Alpes](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-dot-fr-etape-auvergne-rhone-alpes/), le 7 décembre à Lyon
