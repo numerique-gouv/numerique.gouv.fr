@@ -1,5 +1,5 @@
 ---
-title: Tour de France - "demarches-simplifiees.fr " - Étape Bretagne
+title: Tour de France - demarches-simplifiees.fr  - Étape Bretagne
 date: 2018-10-23 16:21:00 +02:00
 categories:
 - Atelier
