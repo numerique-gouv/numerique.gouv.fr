@@ -15,7 +15,7 @@ lieu: Salons de l'Hôtel de Ville de Paris
 acces:
 - type: Métro
   lignes:
-  - nom: 'Ligne 1 – Hôtel de Ville '
+  - nom: 'Lignes 1 et 11 – Hôtel de Ville '
 - type: RER
   lignes:
   - nom: A et B – Châtelet-Les Halles
