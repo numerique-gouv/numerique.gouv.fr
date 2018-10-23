@@ -13,8 +13,8 @@ chapeau-text: Le Tour de France de *demarches-simplifiees.fr* fait étape à Mar
 une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
 event_start_date: 2018-11-06 08:00:00 +01:00
-lieu: Lieu exact communiqué prochainement
-adresse: Marseille
+lieu: Marseille
+adresse: Lieu exact communiqué prochainement
 champs_informations:
 - intitule: Modalités
   contenu: Inscription gratuite obligatoire
