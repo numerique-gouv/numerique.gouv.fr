@@ -16,7 +16,7 @@ event_date: 2018-11-08 08:00:00 +01:00
 lieu: Ajaccio
 adresse: Adresse communiquée prochainement
 champs_informations:
-- intitule: Modalité
+- intitule: Modalités
   contenu: Inscription gratuite obligatoire
   lien: https://www.demarches-simplifiees.fr/commencer/tour-de-france-demarches-simplifiees-fr-corse
 ---
