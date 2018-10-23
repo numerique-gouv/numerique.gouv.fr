@@ -8,6 +8,7 @@ tags:
 - Entrepreneur d'Intérêt Général
 - Beta.gouv.fr
 - Etalab
+- Startups d'Etat
 chapeau-text: La DINSIC participe au tout premier Sommet européen des GovTech, réunissant
   décideurs publics, innovateurs, startups et intellectuels à Paris, pour explorer
   le futur de l’action publique et de la démocratie.
