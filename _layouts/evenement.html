@@ -80,7 +80,7 @@ layout: default
       <ul class="no-bullet">
         {% for tag in page.tags %}
         <li>
-          <a href="{% include helpers/tag-link.html collection=page.collection tag=tag %}">
+          <a href="{{ 'agenda' | append: '/?tags[tags][0]=' | append:tag | relative_url }}">
             #{{ tag | capitalize }}
           </a>
         </li>
@@ -89,4 +89,3 @@ layout: default
     </div>
   </article>
 </div>
-

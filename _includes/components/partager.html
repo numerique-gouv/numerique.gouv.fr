@@ -20,7 +20,7 @@
       </a>
     </li>
     <li>
-      <a href="mailto:?subject={{ site.title | replace: ' ','&nbsp;' }}&nbsp;:&nbsp;{{ page.title | replace: ' ','&nbsp;' }}&body={{ page.url | absolute_url }}">
+      <a href="mailto:?subject={{ site.title | remove: '\n' | replace: ' ','&nbsp;' }}&nbsp;:&nbsp;{{ page.title | remove: '\n' | replace: ' ','&nbsp;' }}&body={{ page.url | remove: '\n' |  absolute_url }}">
         <img aria-hidden="true" alt="partager mail" src="/assets/img/pictogrammes/partager_mail.svg">
         <span class="off-screen">Partager par mail</span>
       </a>
