@@ -44,22 +44,24 @@ layout: default
         <p>{{ page.adresse }}</p>
       {% endif %}
       <br>
-      <p class="font-bold">Comment y aller ?</p>
-      {% for acces in page.acces %}
-      <p>
-        <span>{{ acces.type }}</span>
-        {% for ligne in acces.lignes %}
-        <span>
-          {% if forloop.last == true %}
-            {{ ligne.nom }}
-          {% else %}
-            {{ ligne.nom }} -
-          {% endif %}
-        </span>
+      {% if page.acces[0].type %}
+        <p class="font-bold">Comment y aller ?</p>
+        {% for acces in page.acces %}
+        <p>
+          <span>{{ acces.type }}</span>
+          {% for ligne in acces.lignes %}
+          <span>
+            {% if forloop.last == true %}
+              {{ ligne.nom }}
+            {% else %}
+              {{ ligne.nom }} -
+            {% endif %}
+          </span>
+          {% endfor %}
+        </p>
         {% endfor %}
-      </p>
-      {% endfor %}
       <br>
+      {% endif %}
       {% for champ in page.champs_informations %}
       <p>
         <span class="font-bold">{{ champ.intitule }} : </span>
