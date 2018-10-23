@@ -1,7 +1,6 @@
 ---
 title: Tour de France "demarches-simplifiees.fr " - Étape PACA
 date: 2018-10-22 12:01:00 +02:00
-published: false
 tags:
 - dématérialisation
 - démarches en ligne
@@ -14,6 +13,10 @@ champs_informations:
   contenu: https://www.demarches-simplifiees.fr/commencer/tour-de-france-demarches-simplifiees-fr-paca
 ---
 
-* La première partie sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de demarches-simplifiees.fr et à des retours d’expériences d’agents utilisant déjà cette plateforme. 8h15 - 10h30
+Cet automne, en lien avec les SGAR, l’équipe de *demarches-simplifiees.fr* vient à la rencontre des agents publics, sur tout le territoire, pour leur **présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.** Ils apprendront à **créer rapidement une démarche en ligne**, leur permettant de remplacer un formulaire encore géré sur papier.
+Plus largement, cette journée est aussi l’occasion de les **sensibiliser aux enjeux de la dématérialisation et aux bénéfices du numérique**, tant pour leur environnement de travail que pour le service rendu à l’usager. 
 
-* La seconde partie sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l'organisation de leur service. 10h45 - 13h45
+###Programme de la journée :
+* **9h30 - 12h :** La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de demarches-simplifiees.fr et à des retours d’expériences d’agents utilisant déjà cette plateforme. 
+ 
+* **13h30 - 16h30 :** L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l'organisation de leur service. 
