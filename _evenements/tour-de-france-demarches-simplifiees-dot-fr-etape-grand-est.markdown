@@ -1,6 +1,8 @@
 ---
-title: Tour de France - "demarches-simplifiees.fr " - Étape Grand-Est
+title: Tour de France - demarches-simplifiees.fr - Étape Grand-Est
 date: 2018-10-23 16:32:00 +02:00
+categories:
+- Atelier
 tags:
 - démarches en ligne
 - dématérialisation
