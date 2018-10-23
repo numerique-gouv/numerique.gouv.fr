@@ -23,6 +23,6 @@ Plus largement, cette journée est aussi l’occasion de les **sensibiliser aux 
 
 
 #### Programme de la journée :
-* **9h30 - 12h :** La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de demarches-simplifiees.fr et à des retours d’expériences d’agents utilisant déjà cette plateforme. 
+* **9h30 - 12h :** La matinée sera consacrée aux enjeux généraux de la dématérialisation, à la présentation de *demarches-simplifiees.fr* et à des retours d’expériences d’agents utilisant déjà cette plateforme. 
  
 * **13h30 - 16h30 :** L’après-midi sera consacrée à des ateliers de formation au cours desquels les agents pourront identifier des cas d’usage, dématérialiser leurs procédures puis les tester et enfin en étudier les impacts sur l'organisation de leur service. 
