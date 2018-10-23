@@ -1,6 +1,8 @@
 ---
-title: Tour de France - "demarches-simplifiees.fr " - Étape Auvergne-Rhone-Alpes
+title: Tour de France - demarches-simplifiees.fr - Étape Auvergne-Rhone-Alpes
 date: 2018-10-23 16:38:00 +02:00
+categories:
+- Atelier
 tags:
 - démarches en ligne
 - dématérialisation
