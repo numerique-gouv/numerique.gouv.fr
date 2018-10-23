@@ -18,7 +18,7 @@ adresse: Adresse communiquée prochainement
 champs_informations:
 - intitule: Modalités
   contenu: Inscription gratuite obligatoire
-  Lien: https://www.demarches-simplifiees.fr/commencer/tour-de-france-demarches-simplifiees-fr-paca
+  lien: https://www.demarches-simplifiees.fr/commencer/tour-de-france-demarches-simplifiees-fr-paca
 ---
 
 Cet automne, en lien avec les SGAR, l’équipe de *demarches-simplifiees.fr* vient à la rencontre des agents publics, sur tout le territoire, pour leur **présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.** Ils apprendront à **créer rapidement une démarche en ligne**, leur permettant de remplacer un formulaire encore géré sur papier.
