@@ -13,6 +13,9 @@ une-ou-diaporama:
 event_date: 2018-11-08 08:00:00 +01:00
 lieu: Ajaccio
 adresse: Adresse communiquée prochainement
+champs_informations:
+- intitule: Inscription
+  contenu: https://www.demarches-simplifiees.fr/commencer/tour-de-france-demarches-simplifiees-fr-corse
 ---
 
 Cet automne, en lien avec les SGAR, l’équipe de *demarches-simplifiees.fr* vient à la rencontre des agents publics, sur tout le territoire, pour leur **présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.** Ils apprendront à **créer rapidement une démarche en ligne**, leur permettant de remplacer un formulaire encore géré sur papier.
