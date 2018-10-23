@@ -2,7 +2,7 @@
 title: Atelier data.gouv.fr — Élargir le service public de la donnée
 date: 2018-08-18 00:00:00 +02:00
 categories:
-- Atelier
+- Conférence
 tags:
 - Entrepreneur d'Intérêt Général
 - innovation
