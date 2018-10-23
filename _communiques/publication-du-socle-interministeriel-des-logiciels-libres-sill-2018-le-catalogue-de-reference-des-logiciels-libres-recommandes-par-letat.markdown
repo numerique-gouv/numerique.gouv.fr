@@ -21,5 +21,5 @@ Parmi les **23 nouveautés** de cette édition 2018, RocketChat (messagerie inst
 
 **Pour en savoir plus sur le socle interministériel de logiciels libres 2018**
 
-> http://references.modernisation.gouv.fr/socle-logiciels-libres {:target="blank"}
-{: .lien-important}
+> [http://references.modernisation.gouv.fr/socle-logiciels-libres]
+{:target="blank"} {: .lien-important}
