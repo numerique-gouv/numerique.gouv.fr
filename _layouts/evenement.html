@@ -5,8 +5,8 @@ layout: default
 <div id="evenement" class="page-fille gray-background">
   <article class="article">
     {% if page.une-ou-diaporama[0].image %}
-      <div class="object-fit__image-container">
-        <img class="object-fit__featured-image image-en-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ page.une-ou-diaporama[0].image }}">
+      <div class="row align-middle align-center cell object-fit-complet__image-container">
+        <img class="object-fit-complet__featured-image image-en-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ page.une-ou-diaporama[0].image }}">
       </div>
       {% if page.une-ou-diaporama[0].legende %}
         <div class="legende">{{ page.une-ou-diaporama[0].legende }}</div>

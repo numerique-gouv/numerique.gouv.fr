@@ -10,15 +10,16 @@ collections:
     title: Communiqués
     output: true
     permalink: "/espace-presse/:title/"
-  evenements:
-    title: Evénements
-    output: true
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
   politique-logiciel-libre:
     title: Politique de contribution aux logiciels libres de l’État
     output: true
+  evenements:
+    title: Evénements
+    output: true
+    permalink: "/agenda/:title/"
   posts:
     title: Posts
     output: true
@@ -64,13 +65,13 @@ defaults:
     type: evenements
   values:
     layout: evenement
-    chapeau-text: 
-    categorie: 
+    chapeau-text:
+    categorie:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
-    event_date: 
+    - image:
+      legende:
+      alternative-textuelle:
+    event_date:
     lieu: DINSIC
     adresse: 20 avenue de Ségur 75007 Paris
     acces:

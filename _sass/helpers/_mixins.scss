@@ -11,6 +11,10 @@ $hamburger-bar : 3;
   @include hamburger($black, $light-black, $hamburger-width, $hamburger-height, $hamburger-weight, $hamburger-bar);
 }
 
+.margin-0 {
+  margin: 0 !important;
+}
+
 .margin-top-auto {
   margin-top: auto !important;
 }
