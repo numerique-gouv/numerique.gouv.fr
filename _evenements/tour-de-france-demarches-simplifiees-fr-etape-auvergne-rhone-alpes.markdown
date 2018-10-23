@@ -1,6 +1,8 @@
 ---
 title: Tour de France - demarches-simplifiees.fr - Étape Auvergne-Rhone-Alpes
 date: 2018-10-23 16:38:00 +02:00
+categories:
+- Atelier
 tags:
 - démarches en ligne
 - dématérialisation
@@ -10,12 +12,13 @@ chapeau-text: Le Tour de France de *demarches-simplifiees.fr* fait étape à Lyo
   des démarches administratives et de se former à son utilisation**.
 une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
-event_start_date: 2018-12-07 08:00:00 +01:00
+event_date: 2018-12-07 08:00:00 +01:00
 lieu: Lyon
 adresse: Adresse communiquée prochainement
 champs_informations:
-- intitule: Inscription
-  contenu: https://www.demarches-simplifiees.fr/commencer/tour-de-france-demarches-simplifiees-auvergne-rhon
+- intitule: Modalités
+  contenu: Inscription gratuite obligatoire
+  lien: https://www.demarches-simplifiees.fr/commencer/tour-de-france-demarches-simplifiees-auvergne-rhon
 ---
 
 Cet automne, en lien avec les SGAR, l’équipe de *demarches-simplifiees.fr* vient à la rencontre des agents publics, sur tout le territoire, pour leur **présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.** Ils apprendront à **créer rapidement une démarche en ligne**, leur permettant de remplacer un formulaire encore géré sur papier.
@@ -33,13 +36,14 @@ Plus largement, cette journée est aussi l’occasion de les **sensibiliser aux 
 * Étape Normandie, le 26 septembre à Rouen
 * Étape Occitanie, le 15 octobre à Toulouse
 * Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux
-* Étape PACA, le 6 novembre à Marseille
-* Étape Corse, le 8 novembre à Ajaccio
-* Étape Ile-de-France, le 13 novembre à Paris
-* Étape Bourgogne Franche-Comté, le 14 novembre à Dijon
-* Étape Pays de la Loire, le 20 novembre à Nantes
-* Étape Bretagne, le 22 novembre à Rennes
-* Étape Hauts-de-France, le 27 novembre à Lille
-* Étape Grand-Est, le 29 novembre à Metz
-* Étape Centre Val-de-Loire, le 5 décembre à Orléans
-* Étape Auvergne-Rhone-Alpes, le 7 décembre à Lyon
+* Étape Martinique, le 24 octobre à Fort-de-France
+* [Étape PACA](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/), le 6 novembre à Marseille
+* [Étape Corse](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/), le 8 novembre à Ajaccio
+* [Étape Ile-de-France](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/), le 13 novembre à Paris
+* [Étape Bourgogne Franche-Comté](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/), le 14 novembre à Dijon
+* [Étape Pays de la Loire](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/), le 20 novembre à Nantes
+* [Étape Bretagne](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/), le 22 novembre à Rennes
+* [Étape Hauts-de-France](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-hauts-de-france/), le 27 novembre à Lille
+* [Étape Grand-Est](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-grand-est/), le 29 novembre à Metz
+* [Étape Centre Val-de-Loire](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-centre-val-de-loire/), le 5 décembre à Orléans
+* **Étape Auvergne-Rhône-Alpes, le 7 décembre à Lyon**
