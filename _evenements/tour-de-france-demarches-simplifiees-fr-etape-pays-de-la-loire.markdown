@@ -15,6 +15,7 @@ une-ou-diaporama:
 event_start_date: 2018-11-20 08:00:00 +01:00
 lieu: Nantes
 adresse: Adresse communiquée prochainement
+afficher_la_carte: false
 champs_informations:
 - intitule: Modalités
   contenu: Inscription gratuite obligatoire

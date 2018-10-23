@@ -15,6 +15,7 @@ une-ou-diaporama:
 event_start_date: 2018-12-05 00:00:00 +01:00
 lieu: 'Orléans '
 adresse: Adresse communiquée prochainement
+afficher_la_carte: false
 champs_informations:
 - intitule: Modalités
   contenu: Inscription gratuite obligatoire
