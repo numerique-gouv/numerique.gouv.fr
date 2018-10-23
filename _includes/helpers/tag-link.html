@@ -1,1 +1,2 @@
-{% assign collection = include.collection %}{% assign tag = include.tag %}{{ "/" | append: collection | append: "/?tags=" | append:tag | append:"#list-post" | relative_url | rstrip | lstrip | remove:"\r" | remove:"/n" }}
+{% assign collection = include.collection %}{% assign tag = include.tag %}
+{{ "/" | append: collection | append: "/?tags=" | append:tag | append:"#list-post" | relative_url | rstrip | lstrip }}
