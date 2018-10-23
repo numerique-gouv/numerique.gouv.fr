@@ -42,7 +42,7 @@ Plus largement, cette journée est aussi l’occasion de les **sensibiliser aux 
 * [Étape Bourgogne Franche-Comté](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-bourgogne-franche-comte/), le 14 novembre à Dijon
 * [Étape Pays de la Loire](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-pays-de-la-loire/), le 20 novembre à Nantes
 * [Étape Bretagne](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-bretagne/), le 22 novembre à Rennes
-* Étape Hauts-de-France, le 27 novembre à Lille
-* Étape Grand-Est, le 29 novembre à Metz
-* Étape Centre Val-de-Loire, le 5 décembre à Orléans
+* [Étape Hauts-de-France](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-hauts-de-france/), le 27 novembre à Lille
+* [Étape Grand-Est](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-grand-est/), le 29 novembre à Metz
+* [Étape Centre Val-de-Loire](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-centre-val-de-loire/), le 5 décembre à Orléans
 * [Étape Auvergne-Rhône-Alpes](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-dot-fr-etape-auvergne-rhone-alpes/), le 7 décembre à Lyon
