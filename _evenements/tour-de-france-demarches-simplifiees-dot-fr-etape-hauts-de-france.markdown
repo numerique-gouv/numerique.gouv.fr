@@ -1,5 +1,5 @@
 ---
-title: Tour de France - "demarches-simplifiees.fr " - Étape Hauts-de-France
+title: Tour de France - demarches-simplifiees.fr - Étape Hauts-de-France
 date: 2018-10-23 16:30:00 +02:00
 categories:
 - Atelier
