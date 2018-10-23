@@ -16,7 +16,7 @@ event_date: 2018-11-13 08:00:00 +01:00
 lieu: Paris
 adresse: Adresse communiquée prochainement
 champs_informations:
-- intitule: Modalité
+- intitule: Modalités
   contenu: Inscription gratuite obligatoire
   lien: https://www.demarches-simplifiees.fr/commencer/tour-de-france-demarches-simplifiees-iledefrance
 ---
