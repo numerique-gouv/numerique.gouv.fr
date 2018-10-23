@@ -71,7 +71,7 @@ const infiniteHitsConfEvent = {
   cssClasses: {
     showmoreButton: "button voir-plus-button",
     root: 'grid-y grid-margin-y padding-bottom-2',
-    item: 'cell large-12 padding-1 event-item margin-bottom-1'
+    item: 'cell large-12 padding-1 event-item margin-0'
   }
 };
 
