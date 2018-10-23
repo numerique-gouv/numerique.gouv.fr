@@ -16,8 +16,9 @@ event_date: 2018-11-29 00:00:00 +01:00
 lieu: Metz
 adresse: Adresse communiquée prochainement
 champs_informations:
-- intitule: Inscription
-  contenu: https://www.demarches-simplifiees.fr/commencer/tour-de-france-demarches-simplifiees-fr-grand-est
+- intitule: Modalités
+  contenu: Inscription gratuite obligatoire
+  lien: https://www.demarches-simplifiees.fr/commencer/tour-de-france-demarches-simplifiees-fr-grand-est
 ---
 
 Cet automne, en lien avec les SGAR, l’équipe de *demarches-simplifiees.fr* vient à la rencontre des agents publics, sur tout le territoire, pour leur **présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.** Ils apprendront à **créer rapidement une démarche en ligne**, leur permettant de remplacer un formulaire encore géré sur papier.
