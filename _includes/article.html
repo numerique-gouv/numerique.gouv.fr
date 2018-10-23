@@ -17,7 +17,7 @@
   <ul class="no-bullet">
     {% for tag in page.tags %}
     <li>
-      <a href="{% include helpers/tag-link.html collection=page.collection tag=tag %}">
+      <a href="{{ '/' | append: collection | append: '/?tags=' | append:tag | append:'#list-post' | relative_url }}">
         #{{ tag | capitalize }}
       </a>
     </li>
