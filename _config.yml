@@ -66,16 +66,16 @@ defaults:
   values:
     layout: evenement
     chapeau-text:
-    afficher_la_carte: true
-    categorie: 
+    categorie:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
+    - image:
+      legende:
+      alternative-textuelle:
     event_start_date:
     event_end_date:
     lieu: DINSIC
     adresse: 20 avenue de Ségur 75007 Paris
+    afficher_la_carte: true
     acces:
     - type:
       lignes:

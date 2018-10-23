@@ -71,7 +71,7 @@ layout: default
       </p>
       {% endfor %}
     </div>
-    {% if page.adresse %}
+    {% if page.adresse and page.afficher_la_carte %}
     <h3 class="off-screen">Carte</h3>
       <div id="map" data-address="{{ page.adresse }}" >
       </div>

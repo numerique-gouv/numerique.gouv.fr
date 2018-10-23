@@ -7,7 +7,7 @@ tags:
 - dématérialisation
 - démarches en ligne
 chapeau-text: Le Tour de France de *demarches-simplifiees.fr* fait étape à Marseille
-  le 6 novembre 2018. Ouverte à tous les agents publics – d’État et de l’administration
+  le 6 novembre 2018. Ouverte à tous les agents publics – d’État et id="map"de l’administration
   territoriale, cette journée leur permettra de **découvrir la plateforme de dématérialisation
   des démarches administratives et de se former à son utilisation**.
 une-ou-diaporama:
