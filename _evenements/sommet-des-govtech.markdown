@@ -3,6 +3,11 @@ title: Sommet européen des GovTech
 date: 2018-10-19 14:18:00 +02:00
 categories:
 - Sommet
+tags:
+- Gouvernement ouvert
+- Entrepreneur d'Intérêt Général
+- Beta.gouv.fr
+- Etalab
 chapeau-text: La DINSIC participe au tout premier Sommet européen des GovTech, réunissant
   décideurs publics, innovateurs, startups et intellectuels à Paris, pour explorer
   le futur de l’action publique et de la démocratie.
