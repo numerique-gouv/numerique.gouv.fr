@@ -21,5 +21,5 @@ Parmi les **23 nouveautés** de cette édition 2018, RocketChat (messagerie inst
 
 [En savoir plus sur le SILL](http://references.modernisation.gouv.fr/socle-logiciels-libres){: target="_blank"} 
 
-> [Consulter le socle interministériel de logiciels libres 2018 (pdf)**](http://references.modernisation.gouv.fr/sites/default/files/SILL%202018%20-%20socle%20interministeriel%20de%20logiciels%20libres.pdf){: target="_blank"} 
+> [**Consulter le socle interministériel de logiciels libres 2018 (pdf)**](http://references.modernisation.gouv.fr/sites/default/files/SILL%202018%20-%20socle%20interministeriel%20de%20logiciels%20libres.pdf){: target="_blank"} 
 {: .lien-important}
