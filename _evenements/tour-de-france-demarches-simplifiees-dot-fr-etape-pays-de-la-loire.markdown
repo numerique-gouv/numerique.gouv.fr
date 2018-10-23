@@ -1,6 +1,8 @@
 ---
 title: Tour de France - "demarches-simplifiees.fr " - Étape Pays de la Loire
 date: 2018-10-23 15:05:00 +02:00
+categories:
+- Atelier
 tags:
 - démarches en ligne
 - dématérialisation
