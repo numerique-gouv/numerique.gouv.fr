@@ -11,7 +11,8 @@ chapeau-text: "Le Tour de France de *demarches-simplifiees.fr* fait étape à Ma
 une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
 event_date: 2018-11-06 08:00:00 +01:00
-adresse: Marseille
+lieu: Marseille
+adresse: Adresse communiquée prochainement
 champs_informations:
 - intitule: Inscription
   contenu: https://www.demarches-simplifiees.fr/commencer/tour-de-france-demarches-simplifiees-fr-paca
