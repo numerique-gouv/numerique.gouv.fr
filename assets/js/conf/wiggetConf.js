@@ -40,7 +40,10 @@ const refinementListConf = {
 const multiSelect = {
   container: '#categories',
   attributeName: 'categories',
-  autoHideContainer: false
+  autoHideContainer: false,
+  cssClasses: {
+    count: 'hide',
+  },
 }
 
 const infiniteHitsConf = {
