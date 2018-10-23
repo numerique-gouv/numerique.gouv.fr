@@ -36,6 +36,7 @@ Plus largement, cette journée est aussi l’occasion de les **sensibiliser aux 
 * Étape Normandie, le 26 septembre à Rouen
 * Étape Occitanie, le 15 octobre à Toulouse
 * Étape Nouvelle-Aquitaine, le 18 octobre à Bordeaux
+* Étape Martinique, le 24 octobre à Fort-de-France
 * [Étape PACA](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-paca/), le 6 novembre à Marseille
 * [Étape Corse](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-corse/), le 8 novembre à Ajaccio
 * [Étape Ile-de-France](https://numerique.gouv.fr/agenda/tour-de-france-demarches-simplifiees-fr-etape-ile-de-france/), le 13 novembre à Paris
