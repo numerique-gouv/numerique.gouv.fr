@@ -14,7 +14,7 @@ chapeau-text: La DINSIC participe au tout premier Sommet européen des GovTech, 
   le futur de l’action publique et de la démocratie.
 une-ou-diaporama:
 - image: "/uploads/people.png"
-event_date: 2018-11-22 00:00:00 +01:00
+event_start_date: 2018-11-12 00:00:00 +01:00
 lieu: Salons de l'Hôtel de Ville de Paris
 adresse: Place de l'Hôtel de Ville, 75004 Paris
 acces:
@@ -31,6 +31,7 @@ champs_informations:
 - intitule: Modalités
   contenu: Inscription en ligne
   lien: https://www.weezevent.com/the-govtech-summit
+event_date: 2018-11-22 00:00:00 +01:00
 ---
 
 Comment les nouvelles technologies peuvent améliorer les services publics et les pratiques démocratiques ? C'est autour de cette question que le Sommet européen des GovTech rassemble, le 12 novembre 2018 à Paris, dirigeants politiques européens, ministres et maires de grandes villes, innovateurs, agents publics, entreprises et universitaires. Plus de 90 conférenciers échangeront sur des thématiques allant de la mobilité à la santé, de la sécurité au développement international, de l'e-gouvernement à l’engagement civique et citoyen.
