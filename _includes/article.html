@@ -17,11 +17,11 @@
   <ul class="no-bullet">
     {% for tag in page.tags %}
     <li>
-      <a href="{% include helpers/tag-link.html collection=page.collection tag=tag %}">
+      {{  page.collection.url-collection }}
+      <a href="{{ 'espace-presse' | append: '/?tags=' | append:tag | append:'#list-post' | remove:'\n' | relative_url }}">
         #{{ tag | capitalize }}
       </a>
     </li>
     {% endfor %}
   </ul>
 </div>
-

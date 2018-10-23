@@ -16,8 +16,29 @@
   }
 }
 
+.event-card {
+  .date-icon {
+    width: 1.3rem;
+    margin-right: 0.5rem;
+  }
+
+  .date-text {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: $bleue !important;
+  }
+  .category, .event-content{
+    color: $medium-dark-gray;
+  }
+  h3 {
+    font-size: 2rem;
+  }
+  hr {
+    margin-bottom: 0;
+  }
+}
+
 .event-item {
-  border: 1px solid $medium-gray;
 }
 
 #reportrange {

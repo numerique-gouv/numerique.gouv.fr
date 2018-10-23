@@ -5,8 +5,8 @@ layout: default
 <div id="evenement" class="page-fille gray-background">
   <article class="article">
     {% if page.une-ou-diaporama[0].image %}
-      <div class="object-fit__image-container">
-        <img class="object-fit__featured-image image-en-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ page.une-ou-diaporama[0].image }}">
+      <div class="row align-middle align-center cell object-fit-complet__image-container">
+        <img class="object-fit-complet__featured-image image-en-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ page.une-ou-diaporama[0].image }}">
       </div>
       {% if page.une-ou-diaporama[0].legende %}
         <div class="legende">{{ page.une-ou-diaporama[0].legende }}</div>
@@ -44,22 +44,24 @@ layout: default
         <p>{{ page.adresse }}</p>
       {% endif %}
       <br>
-      <p class="font-bold">Comment y aller ?</p>
-      {% for acces in page.acces %}
-      <p>
-        <span>{{ acces.type }}</span>
-        {% for ligne in acces.lignes %}
-        <span>
-          {% if forloop.last == true %}
-            {{ ligne.nom }}
-          {% else %}
-            {{ ligne.nom }} -
-          {% endif %}
-        </span>
+      {% if page.acces[0].type %}
+        <p class="font-bold">Comment y aller ?</p>
+        {% for acces in page.acces %}
+        <p>
+          <span>{{ acces.type }}</span>
+          {% for ligne in acces.lignes %}
+          <span>
+            {% if forloop.last == true %}
+              {{ ligne.nom }}
+            {% else %}
+              {{ ligne.nom }} -
+            {% endif %}
+          </span>
+          {% endfor %}
+        </p>
         {% endfor %}
-      </p>
-      {% endfor %}
       <br>
+      {% endif %}
       {% for champ in page.champs_informations %}
       <p>
         <span class="font-bold">{{ champ.intitule }} : </span>
@@ -71,7 +73,7 @@ layout: default
       </p>
       {% endfor %}
     </div>
-    {% if page.adresse %}
+    {% if page.adresse and page.afficher_la_carte %}
     <h3 class="off-screen">Carte</h3>
       <div id="map" data-address="{{ page.adresse }}" >
       </div>
@@ -80,7 +82,7 @@ layout: default
       <ul class="no-bullet">
         {% for tag in page.tags %}
         <li>
-          <a href="{% include helpers/tag-link.html collection=page.collection tag=tag %}">
+          <a href="{{ 'agenda' | append: '/?tags[tags][0]=' | append:tag | relative_url }}">
             #{{ tag | capitalize }}
           </a>
         </li>
@@ -89,4 +91,3 @@ layout: default
     </div>
   </article>
 </div>
-

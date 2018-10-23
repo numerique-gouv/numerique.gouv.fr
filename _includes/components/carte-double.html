@@ -1,6 +1,6 @@
 {% assign carte-double = include.carte-double %}
 <a href="{{ carte-double.url}}" class="grid-x black-link grid-margin-x margin-left-1 margin-vertical-1-5">
-  <div class="cell large-8 medium-6 small-12 object-fit__image-container height-25rem">
+  <div class="margin-left-0 cell large-8 medium-6 small-12 object-fit__image-container height-25rem">
     {% if carte-double.une-ou-diaporama[0] %}
     <img class="object-fit__featured-image" alt="{{ carte-double.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ carte-double.une-ou-diaporama[0].image }}">
     {% endif %}

@@ -1,4 +1,7 @@
 import { Template_builder } from "../lib/template-builder";
+import {capitalizeFirstLetter} from "../lib/capitalize"
+import hogan from "hogan.js"
+
 
 function configureConf(collection) {
   return{
@@ -34,6 +37,12 @@ const refinementListConf = {
   },
 };
 
+const multiSelect = {
+  container: '#categories',
+  attributeName: 'categories',
+  autoHideContainer: false
+}
+
 const infiniteHitsConf = {
   container: '#infinite-hits',
   templates: {
@@ -61,14 +70,15 @@ const infiniteHitsConfEvent = {
   showMoreLabel: "Voir plus de résultats",
   cssClasses: {
     showmoreButton: "button voir-plus-button",
-    root: 'grid-x grid-margin-x padding-bottom-2',
-    item: 'cell large-4 medium-6 small-12 padding-1 event-item margin-bottom-1'
+    root: 'grid-y grid-margin-y padding-bottom-2',
+    item: 'cell large-12 padding-1 event-item margin-0'
   }
 };
 
 const searchBoxConf =  {
   container: '#search-input',
-  poweredBy: false
+  poweredBy: false,
+  magnifier: false
 };
 
 const statsConf =  {
@@ -81,4 +91,13 @@ const statsConf =  {
   }
 };
 
-export {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf, searchBoxConf, infiniteHitsConfEvent, statsConf};
+const eventSearch = {
+  container: '#search-event',
+  placeholder: 'Rechercher par mot clé',
+  autofocus: false,
+  reset: true,
+  magnifier: false,
+  loadingIndicator: false
+}
+
+export {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf, searchBoxConf, infiniteHitsConfEvent, statsConf, multiSelect, eventSearch};

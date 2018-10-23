@@ -5,7 +5,7 @@ import { configure, menuSelect, refinementList, infiniteHits } from "instantsear
 import { collection_routing_conf } from "./conf/routing-conf"
 import { Instantsearch_factory } from "./instant-search/instantsearch-factory";
 import { Instantsearch_builder } from "./instant-search/instantsearch-builder";
-import {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf} from "./conf/wiggetConf"
+import { configureConf, menuSelectConf, refinementListConf, infiniteHitsConf } from "./conf/wiggetConf"
 
 
 const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');

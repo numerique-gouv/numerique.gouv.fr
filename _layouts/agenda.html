@@ -7,20 +7,22 @@ layout: page-mere
 </div>
 <section class="grid-x grid-margin-x max-width-75 margin-1 padding-vertical-2" >
   <div class="cell large-8 medium-8 small-12">
-    <h2>Tous nos événements</h2>
     {% include components/list-post.html %}
   </div>
   <div class="cell large-4 medium-4 small-12">
-    <h4 class="margin-large-top-4">Trier par :</h4>
-    <p>Date</p>
-    <div id="month-picker" class="daterange"></div>
-    <div id="reportrange">
-      <span tabindex="0"></span>
+    <h4 class="margin-large-top-1">FILTRER PAR :</h4>
+    <p>DATE</p>
+    <div>
+      <input type="text" id="datepickerStart" class="daterange" placeholder="01 janvier 2018"/>
+      au
+      <input type="text" id="datepickerEnd" class="daterange" placeholder="01 janvier 2020"/>
     </div>
-    <p>Catégorie</p>
+    <p>TYPE</p>
     <div id="categories"></div>
-    <p>Tags</p>
+    <p>THÉMATIQUE</p>
     <div id="tags" class="margin-top-1"></div>
+    <p>MOT CLÉ</p>
+    <div id="search-event" class="margin-top-1"></div>
   </div>
 </section>
 

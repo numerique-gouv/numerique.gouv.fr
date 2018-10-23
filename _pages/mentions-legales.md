@@ -7,7 +7,7 @@ layout: page-annexe
 
 ## Editeur ##
 Ce site est édité par la direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC), un service du Premier ministre.
-
+ 
 DINSIC
 <br>20 avenue de Ségur
 <br>75007 Paris

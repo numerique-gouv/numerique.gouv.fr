@@ -74,4 +74,12 @@
   link: vendors~actualites~espace-presse~evenements~mise-en-prod~rechercher.js
   for: all
 
+- name: contact
+  link: contact.js
+  for: Nous contacter
+
+- name: vendorsContact
+  link: vendors~contact.js
+  for: Nous contacter
+
 
