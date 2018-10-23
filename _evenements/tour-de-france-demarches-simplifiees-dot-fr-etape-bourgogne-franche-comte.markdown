@@ -4,10 +4,10 @@ date: 2018-10-23 15:01:00 +02:00
 tags:
 - démarches en ligne
 - dématérialisation
-chapeau-text: "Le Tour de France de *demarches-simplifiees.fr* fait étape à Dijon
-  le 14 novembre 2018. Ouverte à tous les agents publics – d’État et de l’administration
+chapeau-text: Le Tour de France de *demarches-simplifiees.fr* fait étape à Dijon le
+  14 novembre 2018. Ouverte à tous les agents publics – d’État et de l’administration
   territoriale, cette journée leur permettra de **découvrir la plateforme de dématérialisation
-  des démarches administratives et de se former à son utilisation**."
+  des démarches administratives et de se former à son utilisation**.
 une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
 event_date: 2018-11-14 00:00:00 +01:00
