@@ -1,6 +1,8 @@
 ---
-title: Tour de France - "demarches-simplifiees.fr " - Étape Centre-Val-de-Loire
+title: Tour de France - demarches-simplifiees.fr - Étape Centre-Val-de-Loire
 date: 2018-10-23 16:35:00 +02:00
+categories:
+- Atelier
 tags:
 - démarches en ligne
 - dématérialisation
