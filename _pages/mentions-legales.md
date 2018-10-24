@@ -28,7 +28,7 @@ Le suivi éditorial et graphique est assuré au quotidien par la mission Communi
 
 
 ## Code source du site ##
-Le code source du site est disponible sur Github (lien à venir).
+Le code source du site est [disponible sur Github](https://github.com/numerique-gouv/numerique.gouv.fr){: .target="_blank}.
 
 
 ## Propriété intellectuelle et liens vers numerique.gouv.fr ##
