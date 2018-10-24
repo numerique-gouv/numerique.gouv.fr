@@ -11,6 +11,8 @@ chapeau-text: "**La direction interministérielle du numérique et du système d
   à jour tous les 4 mois, cet outil permet au gouvernement de suivre le bon déroulement
   des grands chantiers informatiques en cours, d’identifier et de rectifier les dérives
   budgétaires et calendaires éventuelles."
+une-ou-diaporama:
+- image: "/uploads/fotolia_125190131_s.jpg"
 ---
 
 Cette 5e édition passe en revue **61 grands projets informatiques** en cours de développement ou de déploiement au sein des ministères et de leurs partenaires, pour un coût total de **2,83 milliards d’euros.**
