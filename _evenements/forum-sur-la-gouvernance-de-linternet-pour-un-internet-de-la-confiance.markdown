@@ -28,4 +28,4 @@ Tous les ans, le FGI facilite les échanges entre les divers acteurs des politiq
 
 **La France promouvra à cette occasion une vision française et européenne du numérique**, qu'elle a présentée en décembre dernier dans sa Stratégie internationale pour le numérique. L’attachement de la France au système des Nations Unies en matière de gouvernance du numérique y sera notamment réaffirmé.
 
-Le Président de la République devrait être présent lors du Forum, qui s’inscrit dans une séquence de grands événements internationaux organisés à Paris sur le digital, avec le [Paris Peace Forum](https://parispeaceforum.org/fr/) (11 novembre) et le sommet des [GovTech](https://govtechsummit.eu/) (12 novembre).
+Le Président de la République devrait être présent lors du Forum, qui s’inscrit dans une séquence de grands événements internationaux organisés à Paris sur le digital, avec le [Paris Peace Forum](https://parispeaceforum.org/fr/){:target="_blank"} (11 novembre) et le sommet des [GovTech](https://govtechsummit.eu/){:target="_blank"} (12 novembre).
