@@ -8,6 +8,12 @@ chapeau-text: 'Paris abrite, du 12 au 14 novembre 2018, la treizième édition d
   présenter la politique d''Open Data de la France.**'
 une-ou-diaporama:
 - image: "/uploads/header-bonlogo.jpg"
+event_start_date: 2018-11-12 00:00:00 +01:00
+event_end_date: 2018-11-14 00:00:00 +01:00
+champs_informations:
+- intitule: Modalités
+  contenu: 'Inscription '
+  lien: 'https://reg.unog.ch/event/26375/ '
 ---
 
 Tous les ans, le FGI facilite les échanges entre les divers acteurs des politiques publiques liées à la gouvernance de l’Internet : les gouvernements et les organisations intergouvernementales bien sûr, mais aussi les entreprises privées, la communauté technique, les universitaires et les organisations de la société civile.
