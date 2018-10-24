@@ -9,9 +9,9 @@ tags:
 - Beta.gouv.fr
 - Etalab
 - Startups d'Etat
-chapeau-text: La DINSIC participe au tout premier Sommet européen des GovTech, réunissant
-  décideurs publics, innovateurs, startups et intellectuels à Paris, pour explorer
-  le futur de l’action publique et de la démocratie.
+chapeau-text: La DINSIC participe au Sommet européen des GovTech, réunissant décideurs
+  publics, innovateurs, startups et intellectuels à Paris, pour explorer le futur
+  de l’action publique et de la démocratie.
 une-ou-diaporama:
 - image: "/uploads/people.png"
 event_start_date: 2018-11-12 00:00:00 +01:00
