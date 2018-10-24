@@ -1,9 +1,13 @@
 ---
-title: "5eme édition du panorama des grands projets SI de l’État : \n61 chantiers
-  informatiques à la loupe"
+title: "5e édition du panorama des grands projets SI de l’État : \n61 chantiers informatiques
+  à la loupe"
 date: 2018-03-26 11:03:00 +02:00
 tags:
 - État plateforme
+- Système d'information
+- Sécurisation
+- Informatique
+- Transparence
 communique_file: "/uploads/CP_grandsprojetsSI.pdf"
 chapeau-text: "**La direction interministérielle du numérique et du système d’information
   et de communication de l’Etat (DINSIC)** publie aujourd’hui le panorama des grands
@@ -16,7 +20,9 @@ une-ou-diaporama:
 ---
 
 Cette 5e édition passe en revue **61 grands projets informatiques** en cours de développement ou de déploiement au sein des ministères et de leurs partenaires, pour un coût total de **2,83 milliards d’euros.**
-#### Deux nouveaux projets font leur entrée dans cette 5e édition du panorama :
+
+**Deux nouveaux projets font leur entrée dans cette 5e édition du panorama :**
+
 * **Le projet OSHIMAE :** mise en place d’une plateforme cloud partagée entre le ministère de l’Agriculture et de l’Alimentation, le ministère de la Transition écologique et solidaire et l’IGN, et création d’une offre de géoservices qui sera hébergée sur celle-ci.
 * **L’évolution de l’infocentre RH IRHIS** contribuant à la stratégie de modernisation du système d’information RH (SIRH).
 
@@ -28,7 +34,7 @@ La durée moyenne d’un projet reste constante, autour de 6,2 ans. **Le taux d�
 
 Pour y parvenir, **la DINSIC**, en concertation avec **le secrétaire d’État chargé du Numérique Mounir Mahjoubi**, lance des actions d’évaluation et d’appui auprès de certains ministères. Elles permettront d’identifier les axes de sécurisation et d’optimisation de ces chantiers mais aussi d’anticiper et éviter certaines dérives potentielles. 
 
-> [Consulter la 5e édition du panorama](http://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/panorama-des-grands-projets-si-de-letat)
+> [Consulter la 5e édition du panorama](/actualites/panorama-des-grands-projets-SI-Etat-6e-edition/)
 {: .lien-important}
 
 **Consultez l’ensemble des données de cette édition et des précédentes en open data sur la plateforme [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/)**
