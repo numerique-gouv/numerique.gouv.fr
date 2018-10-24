@@ -13,8 +13,8 @@ chapeau-text: Le Tour de France de demarches-simplifiees.fr fait étape à Orlé
 une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
 event_start_date: 2018-12-05 00:00:00 +01:00
-lieu: 'Orléans '
-adresse: Adresse communiquée prochainement
+lieu: Préfecture de la région Centre-Val de Loire et du Loiret
+adresse: '181 rue de Bourgogne - 45000 ORLEANS '
 afficher_la_carte: false
 champs_informations:
 - intitule: Modalités

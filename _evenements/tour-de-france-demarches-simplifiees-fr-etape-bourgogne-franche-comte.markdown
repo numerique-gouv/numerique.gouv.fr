@@ -13,8 +13,8 @@ chapeau-text: Le Tour de France de demarches-simplifiees.fr fait étape à Dijon
 une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
 event_start_date: 2018-11-14 08:00:00 +01:00
-lieu: Dijon
-adresse: Adresse communiquée prochainement
+lieu: 'CREPS Dijon Bourgogne-Franche-Comté '
+adresse: 15 rue Pierre de Coubertin – 21000 DIJON
 afficher_la_carte: false
 champs_informations:
 - intitule: Modalités
