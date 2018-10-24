@@ -12,6 +12,7 @@ Les résultats permettront de mesurer la qualité du service rendu par vos SIDSI
  
 Le questionnaire comporte sept questions (durée estimée 5 minutes).
  
-> [Accéder au questionnaire](https://sgmap.sphinxdeclic.com/d/s/8wgfky){: .lien-important}
+> [Accéder au questionnaire](https://sgmap.sphinxdeclic.com/d/s/8wgfky)
+{: .lien-important}
 
 Merci de votre contribution ! 
