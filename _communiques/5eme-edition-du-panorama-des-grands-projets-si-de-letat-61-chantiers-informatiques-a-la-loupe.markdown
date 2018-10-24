@@ -34,7 +34,7 @@ La durée moyenne d’un projet reste constante, autour de 6,2 ans. **Le taux d�
 
 Pour y parvenir, **la DINSIC**, en concertation avec **le secrétaire d’État chargé du Numérique Mounir Mahjoubi**, lance des actions d’évaluation et d’appui auprès de certains ministères. Elles permettront d’identifier les axes de sécurisation et d’optimisation de ces chantiers mais aussi d’anticiper et éviter certaines dérives potentielles. 
 
-> [Consulter la 5e édition du panorama](/actualites/panorama-des-grands-projets-SI-Etat-6e-edition/)
+> [Consulter la 5e édition du panorama](/actualites/panorama-des-grands-projets-SI-Etat-6e-edition/){:target="_blank"}
 {: .lien-important}
 
 **Consultez l’ensemble des données de cette édition et des précédentes en open data sur la plateforme [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/)**
