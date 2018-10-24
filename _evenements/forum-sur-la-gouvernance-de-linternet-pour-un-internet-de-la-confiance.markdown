@@ -4,7 +4,7 @@ date: 2018-10-24 16:47:00 +02:00
 chapeau-text: 'Paris abrite, du 12 au 14 novembre 2018, la treizième édition du Forum
   sur la Gouvernance de l’Internet (FGI), événement majeur de la gouvernance mondiale
   de l’Internet organisé sous l’égide des Nations Unies. Le thème retenu pour cette
-  année : l''Internet de la confiance.**La DINSIC participera à cet évènement pour
+  année : l''Internet de la confiance. **La DINSIC participera à cet évènement pour
   présenter la politique d''Open Data de la France.**'
 une-ou-diaporama:
 - image: "/uploads/header-bonlogo.jpg"
