@@ -13,8 +13,8 @@ chapeau-text: Le Tour de France de demarches-simplifiees.fr fait étape à Marse
 une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
 event_start_date: 2018-11-06 08:00:00 +01:00
-lieu: Marseille
-adresse: Adresse communiquée prochainement
+lieu: Préfecture de Région PACA – 2e étage
+adresse: '2 rue Edmond Rostand, 13006 Marseille '
 afficher_la_carte: false
 champs_informations:
 - intitule: Modalités

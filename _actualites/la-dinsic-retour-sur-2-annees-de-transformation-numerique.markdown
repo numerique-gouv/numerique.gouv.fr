@@ -36,4 +36,4 @@ Pour ce faire, la DINSIC conjugue trois formes d’intervention :
 administrations et être ouverts à la société civile chaque fois que cela se révèle utile.
 
 > [Lire le bilan d'activité de la DINSIC 2017-2018](/uploads/Bilan_DINSIC_2017-2018.pdf)
-> {: .lien-important}
+{: .lien-important}
