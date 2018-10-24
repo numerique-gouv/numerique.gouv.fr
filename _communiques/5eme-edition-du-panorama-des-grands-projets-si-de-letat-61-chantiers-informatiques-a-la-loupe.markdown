@@ -33,8 +33,10 @@ Pour y parvenir, **la DINSIC**, en concertation avec **le secrétaire d’État 
 
 **Consultez l’ensemble des données de cette édition et des précédentes en open data sur la plateforme [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/)**
 
->« En tant que secrétaire d’État chargé du Numérique, je suis pleinement engagé pour plus de transparence sur les investissements SI de l’État. Cela passe notamment par la publication en open data de ses données de manière très régulière et permet à la fois de présenter aux citoyens comment est utilisé l’argent public, mais aussi d’améliorer la conduite de ces grands projets qui ont pour objectif de répondre aux besoins des Français, des associations, des entreprises et des administrations. »,{: .citation}
->Mounir Mahjoubi, secrétaire d’Etat auprès du Premier ministre, chargé du Numérique.{: .auteur-citation}
+> «En tant que secrétaire d’État chargé du Numérique, je suis pleinement engagé pour plus de transparence sur les investissements SI de l’État. Cela passe notamment par la publication en open data de ses données de manière très régulière et permet à la fois de présenter aux citoyens comment est utilisé l’argent public, mais aussi d’améliorer la conduite de ces grands projets qui ont pour objectif de répondre aux besoins des Français, des associations, des entreprises et des administrations.»
+{: .citation}
+> Mounir Mahjoubi, secrétaire d’Etat auprès du Premier ministre, chargé du Numérique.
+{: .auteur-citation}
 
 
 
