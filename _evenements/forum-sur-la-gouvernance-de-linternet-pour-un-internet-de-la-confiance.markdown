@@ -11,7 +11,7 @@ une-ou-diaporama:
 event_start_date: 2018-11-12 00:00:00 +01:00
 event_end_date: 2018-11-14 00:00:00 +01:00
 lieu: Centre Universitaire des Saints-Pères (Université René Descartes)
-adresse: '45 rue des Saints-Pères, Paris 75006 '
+adresse: '45 rue des Saints-Pères - Paris 75006 '
 champs_informations:
 - intitule: Modalités
   contenu: 'Inscription '
