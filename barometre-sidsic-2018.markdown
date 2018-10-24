@@ -1,6 +1,7 @@
 ---
 title: Baromètre SIDSIC 2018
 date: 2018-10-24 12:24:00 +02:00
+layout: page-annexe
 ---
 
 La campagne de recueil des avis des agents des services départementaux de l’État sur le service rendu en matière de support informatique est ouverte **du 6 novembre au 6 décembre 2018**.
