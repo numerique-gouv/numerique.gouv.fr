@@ -260,13 +260,13 @@ workflows:
   build-test-and-deploy:
     jobs:
       - build
-      - test-html:
-          requires:
-            - build
-          filters:
-            branches:
-              ignore:
-                - preproduction
+#      - test-html:
+#          requires:
+#            - build
+#          filters:
+#            branches:
+#              ignore:
+#                - preproduction
       - test-js:
           requires:
             - build
@@ -276,13 +276,13 @@ workflows:
                 - preproduction
       - deploy:
           requires:
-            - test-html
+#            - test-html
             - test-js
             - build
 
       - index:
           requires:
-            - test-html
+#            - test-html
             - test-js
             - build
 

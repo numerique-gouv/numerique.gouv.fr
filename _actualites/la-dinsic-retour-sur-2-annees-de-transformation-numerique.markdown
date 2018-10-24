@@ -5,7 +5,6 @@ une-ou-diaporama:
 - image: "/uploads/Capture-bilan.png"
   alternative-textuelle: Bilan d'activité DINSIC 2017-2018
 ---
-
 La direction interministérielle du numérique et du système d’information
 et de communication de l’État (DINSIC) conduit un important chantier
 interministériel visant à **assurer la qualité, la modernité et l’efficacité
