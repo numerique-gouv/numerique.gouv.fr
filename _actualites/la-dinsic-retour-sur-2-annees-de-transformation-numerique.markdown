@@ -1,7 +1,6 @@
 ---
 title: 'La DINSIC : retour sur 2 années de transformation numérique'
 date: 2018-10-24 09:08:00 +02:00
-published: false
 une-ou-diaporama:
 - image: "/uploads/Capture-bilan.png"
 ---
