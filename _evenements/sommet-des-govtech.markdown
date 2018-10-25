@@ -45,3 +45,5 @@ Plus de précisions à venir !
 {: .citation}
 > Emmanuel Macron, Président de la République française
 {: .auteur-citation}
+
+Ce Forum s’inscrit dans une séquence de grands événements internationaux organisés à Paris sur le digital, la **Paris Digital week**, avec le [Forum pour une Gouvernance de l’Internet](/agenda/forum-sur-la-gouvernance-de-linternet-pour-un-internet-de-la-confiance/) 
