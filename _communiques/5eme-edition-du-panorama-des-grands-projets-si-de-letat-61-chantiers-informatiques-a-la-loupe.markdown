@@ -37,7 +37,7 @@ Pour y parvenir, **la DINSIC**, en concertation avec **le secrétaire d’État 
 > [Consulter la 5e édition du panorama](/actualites/panorama-des-grands-projets-SI-Etat-6e-edition/){:target="_blank"}
 {: .lien-important}
 
-**Consultez l’ensemble des données de cette édition et des précédentes en open data sur la plateforme [data.gouv.fr]**(https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/)
+**Consultez l’ensemble des données de cette édition et des précédentes en open data sur la plateforme** [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/)
 {:target="_blank"}
 
 
