@@ -28,4 +28,4 @@ Le hackathon du Paris Peace Forum est l'occasion de mobiliser l'intelligence col
 
 Plus de précisions à venir !
 
-Ce Forum s’inscrit dans une séquence de grands événements internationaux organisés à Paris sur le digital, la **Paris Digital week**, avec le [Sommet des GovTech](/agenda/sommet-des-govtech/) (12 novembre) et avec le [Forum pour une Gouvernance de l’Internet](/agenda/forum-sur-la-gouvernance-de-linternet-pour-un-internet-de-la-confiance/) 
+Ce Forum s’inscrit dans une séquence de grands événements internationaux organisés à Paris sur le digital, la **Paris Digital week**, avec le [Sommet des GovTech](/agenda/sommet-des-govtech/) (12 novembre) et avec le [Forum pour une Gouvernance de l’Internet](/agenda/forum-sur-la-gouvernance-de-linternet-pour-un-internet-de-la-confiance/)(12 au 14 novembre) 
