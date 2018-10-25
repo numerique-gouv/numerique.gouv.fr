@@ -12,6 +12,7 @@ chapeau-text: 'Dans le cadre du Partenariat pour un gouvernement ouvert (PGO), l
 une-ou-diaporama:
 - image: "/uploads/pan2018-2020_une.png"
 ---
+
 ### La transformation numérique de l’Etat et la participation citoyenne au cœur de la politique française pour un gouvernement ouvert
 
 Co-construit avec la société civile pendant plusieurs mois, **le deuxième plan d’action du gouvernement** est porté par 12 ministères et plusieurs institutions indépendantes comme la Haute Autorité pour la transparence de la vie publique (HATVP) et la Cour des comptes. **Pour les deux prochaines années, l’Etat s’engage à renforcer la transparence de la vie publique, l’innovation ouverte et la participation citoyenne.** 
