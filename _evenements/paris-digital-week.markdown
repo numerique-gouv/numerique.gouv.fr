@@ -1,6 +1,9 @@
 ---
 title: Le Forum de Paris sur la paix
 date: 2018-10-25 16:32:00 +02:00
+tags:
+- Etalab
+- Transparence
 chapeau-text: Le Forum de Paris sur la Paix a vocation à devenir le rendez-vous annuel
   de la gouvernance mondiale, y compris celle des espaces numériques. Plusieurs milliers
   de participants du monde entier sont attendus. 120 projets innovants seront présentés
