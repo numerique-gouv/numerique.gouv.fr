@@ -14,6 +14,10 @@ event_start_date: 2018-11-11 00:00:00 +01:00
 event_end_date: 2018-11-13 00:00:00 +01:00
 lieu: La Grande Halle de La Villette
 adresse: 211 Avenue Jean Jaurès, 75019 Paris
+champs_informations:
+- intitule: Modalités
+  contenu: 'Inscription en ligne '
+  lien: https://registration.parispeaceforum.org/?lang=en
 ---
 
 Dans ce cadre, Etalab organise un hackathon autour de la transparence de la commande publique. 
