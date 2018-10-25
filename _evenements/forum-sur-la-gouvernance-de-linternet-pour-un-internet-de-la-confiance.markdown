@@ -20,8 +20,13 @@ event_end_date: 2018-11-14 00:00:00 +01:00
 lieu: Unesco
 adresse: 7 Place de Fontenoy - 75007 PARIS
 acces:
-- type: 'Bus :'
-  lignes: 28 , 80
+- type: 'Métro : '
+  lignes:
+  - nom: |-
+      Ligne 10 : Ségur, Ligne 6 : Cambronne, Ligne 8 : Ecole Militaire, Ligne 13 : Saint-François-Xavier
+
+      Bus : 28, 80
+    Key: 
 champs_informations:
 - intitule: Modalités
   contenu: 'Inscription '
