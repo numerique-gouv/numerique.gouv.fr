@@ -72,7 +72,6 @@ Pour la mise en œuvre de l’ensemble de ces actions, l’Assemblée nationale 
 {: .citation}
 >François de Rugy, Président de l’Assemblée nationale
 {: .auteur-citation}
-
 > Consultez le Plan d’action Parlement ouvert{:target="_blank"}
 {: .lien-important} 
 
