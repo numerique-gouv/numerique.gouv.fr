@@ -1,6 +1,11 @@
 ---
 title: 'Forum sur la Gouvernance de l’Internet : pour un Internet de la confiance'
 date: 2018-10-24 16:47:00 +02:00
+categories:
+- Forum
+tags:
+- open data
+- données ouvertes
 chapeau-text: 'Paris abrite, du 12 au 14 novembre 2018, la treizième édition du Forum
   sur la Gouvernance de l’Internet (FGI), événement majeur de la gouvernance mondiale
   de l’Internet organisé sous l’égide des Nations Unies. Le thème retenu pour cette
