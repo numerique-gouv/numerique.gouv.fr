@@ -32,6 +32,7 @@ Co-construit avec la société civile pendant plusieurs mois, **le deuxième pla
 
 * **La mise en œuvre des principes du gouvernement ouvert au service d’enjeux mondiaux :** la démocratie, la transition écologique et la science ouverte. 
 
+
 Afin d’adapter nos démocraties à l’ère du numérique, **il est nécessaire que la culture de l’ouverture se diffuse à travers toutes nos institutions** qui sont le fondement de notre démocratie. Ainsi, **l’Assemblée nationale** (voir en page 3), **la Haute Autorité pour la transparence de la vie publique et la Cour des Comptes** ont pris des engagements pour renforcer la transparence de leur action et la participation citoyenne au sein de leurs institutions. 
 
 > *Ce Plan d’action national 2018-2020 renouvelle nos engagements en faveur d’une action publique plus transparente et collaborative. C’est une priorité de notre gouvernement, une demande impérieuse des citoyens, et la seule réponse possible pour bâtir une société plus juste, garantir les libertés fondamentales, rendre le service public plus proche des usagers et ainsi renouveler notre démocratie grâce au numérique.*
