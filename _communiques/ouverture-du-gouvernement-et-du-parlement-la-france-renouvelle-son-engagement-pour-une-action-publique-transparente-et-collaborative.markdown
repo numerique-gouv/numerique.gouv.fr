@@ -33,8 +33,9 @@ Afin d’adapter nos démocraties à l’ère du numérique, **il est nécessair
 {: .citation}
 > Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du Numérique.
 {: .auteur-citation}
-Le suivi de la mise en œuvre du plan d’action sera public. Ce plan d’action n’est qu’une étape dans la démarche d’ouverture et la diffusion de la culture de l’ouverture au sein des institutions publiques, d’autres actions et engagements suivront. Le Gouvernement envisage notamment d’inclure dans le projet de réforme constitutionnelle, une évolution des missions du Conseil économique, social et environnemental (CESE), pour qu’il devienne la chambre du gouvernement ouvert et de la participation citoyenne. Sous réserve de l’adoption du projet de loi constitutionnel par les deux chambres réunies en Congrès, le CESE pourrait être consulté systématiquement sur les projets de loi à caractère économique, social ou environnemental.
-> Consultez le Plan d’action national du gouvernement pour une action publique transparente et collaborative (2018-2020)
+Le suivi de la mise en œuvre du plan d’action sera public. Ce plan d’action n’est qu’une étape dans la démarche d’ouverture et la diffusion de la culture de l’ouverture au sein des institutions publiques, d’autres actions et engagements suivront. Le Gouvernement envisage notamment d’inclure dans le projet de réforme constitutionnelle, **une évolution des missions du Conseil économique, social et environnemental (CESE), pour qu’il devienne la chambre du gouvernement ouvert et de la participation citoyenne.** Sous réserve de l’adoption du projet de loi constitutionnel par les deux chambres réunies en Congrès, **le CESE pourrait être consulté systématiquement sur les projets de loi à caractère économique, social ou environnemental.**
+
+> Consultez [le Plan d’action national du gouvernement pour une action publique transparente et collaborative (2018-2020)](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/PlanOGP-FR-2018-2020-VF-FR.pdf)
  
 Assemblée nationale : Ouverture, transparence et participation citoyenne
 À l’occasion de l’adhésion de la France au Partenariat pour un Gouvernement ouvert (PGO), l’Assemblée nationale a souhaité s’engager volontairement aux côtés du Gouvernement dans cette démarche.
