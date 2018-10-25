@@ -1,6 +1,8 @@
 ---
 title: Le Forum de Paris sur la paix
 date: 2018-10-25 16:32:00 +02:00
+categories:
+- Sommet
 tags:
 - Etalab
 - Transparence
