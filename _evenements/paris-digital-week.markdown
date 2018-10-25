@@ -10,6 +10,8 @@ chapeau-text: Le Forum de Paris sur la Paix a vocation à devenir le rendez-vous
   de la gouvernance mondiale, y compris celle des espaces numériques. Plusieurs milliers
   de participants du monde entier sont attendus. 120 projets innovants seront présentés
   dans l’espace des solutions.
+une-ou-diaporama:
+- image: "/uploads/logo-forum-paris-paix-EN.png"
 event_start_date: 2018-11-11 00:00:00 +01:00
 event_end_date: 2018-11-13 00:00:00 +01:00
 lieu: La Grande Halle de La Villette
