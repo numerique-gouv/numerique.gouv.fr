@@ -13,14 +13,14 @@ une-ou-diaporama:
 - image: "/uploads/pan2018-2020_une.png"
 ---
 
-La transformation numérique de l’Etat et la participation citoyenne au cœur de la politique française pour un gouvernement ouvert
-Co-construit avec la société civile pendant plusieurs mois, le deuxième plan d’action du gouvernement est porté par 12 ministères et plusieurs institutions indépendantes comme la Haute Autorité pour la transparence de la vie publique (HATVP) et la Cour des comptes. Pour les deux prochaines années, l’Etat s’engage à renforcer la transparence de la vie publique, l’innovation ouverte et la participation citoyenne. 
-Des chantiers essentiels sont annoncés dans les 21 engagements du plan d’action national 2018-2020, qui mettent l’accent sur les opportunités offertes par la transformation numérique :
--	La transparence de l’action publique : avec notamment la publication d’indicateurs de qualité des services publics, le renforcement de la transparence de la commande publique et de l’aide publique au développement.
+### La transformation numérique de l’Etat et la participation citoyenne au cœur de la politique française pour un gouvernement ouvert
 
--	L’ouverture des ressources numériques et l’innovation ouverte : 
-o	une ouverture toujours plus active des données avec l’enrichissement du service public de la donnée et l’identification d’une nouvelle liste de données de référence ;
-o	la mobilisation de nouveaux moyens  pour rendre effective l’ouverture des ressources numériques : avec notamment des administrateurs ministériels des données dans chaque ministère qui piloteront, au sein de leur ministères, la politique d’ouverture et de circulation des données publiques ; et l’accompagnement des administrations dans l’ouverture des algorithmes et des codes sources publics ; 
+Co-construit avec la société civile pendant plusieurs mois, **le deuxième plan d’action du gouvernement** est porté par 12 ministères et plusieurs institutions indépendantes comme la Haute Autorité pour la transparence de la vie publique (HATVP) et la Cour des comptes. **Pour les deux prochaines années, l’Etat s’engage à renforcer la transparence de la vie publique, l’innovation ouverte et la participation citoyenne.** 
+**Des chantiers essentiels** sont annoncés dans les 21 engagements du plan d’action national 2018-2020, **qui mettent l’accent sur les opportunités offertes par la transformation numérique :**
+* **La transparence de l’action publique :** avec notamment la publication d’indicateurs de qualité des services publics, le renforcement de la transparence de la commande publique et de l’aide publique au développement.
+* **L’ouverture des ressources numériques et l’innovation ouverte :**
+ * **une ouverture toujours plus active des données** avec l’enrichissement du service public de la donnée et l’identification d’une nouvelle liste de données de référence ;
+ * **la mobilisation de nouveaux moyens  pour rendre effective l’ouverture des ressources numériques :** avec notamment des administrateurs ministériels des données dans chaque ministère qui piloteront, au sein de leur ministères, la politique d’ouverture et de circulation des données publiques ; et l’accompagnement des administrations dans l’ouverture des algorithmes et des codes sources publics ; 
 o	la mobilisation de moyens pour exploiter les données avec la création d’un laboratoire d’intelligence artificielle (IA), pour initier et accompagner des projets IA à fort impact ; la pérennisation du programme «Entrepreneur.e d’intérêt général », et la création d’incubateurs de services publics numériques dans chaque ministère pour ouvrir l’administration à de nouvelles compétences et accompagner les initiatives d’innovation ouverte au sein de l’Etat. 
  
 -	Des démarches de participation renforcées : avec la mise à disposition des ministères d’outils pour organiser des consultations citoyennes de manière simplifiée. Ces démarches de participation se traduisent aussi par l’expérimentation d’un format de dialogue inédit, le Forum Open d’Etat, qui réunira régulièrement administrations et société civile. De plus, au cours de l’année 2018, la France accueillera un sommet international sur la gov tech.  
