@@ -18,7 +18,7 @@ une-ou-diaporama:
 - image: "/uploads/pan2018-2020_une.png"
 ---
 
-### La transformation numérique de l’Etat et la participation citoyenne au cœur de la politique française pour un gouvernement ouvert
+#### La transformation numérique de l’Etat et la participation citoyenne au cœur de la politique française pour un gouvernement ouvert
 
 Co-construit avec la société civile pendant plusieurs mois, **le deuxième plan d’action du gouvernement** est porté par 12 ministères et plusieurs institutions indépendantes comme la Haute Autorité pour la transparence de la vie publique (HATVP) et la Cour des comptes. **Pour les deux prochaines années, l’Etat s’engage à renforcer la transparence de la vie publique, l’innovation ouverte et la participation citoyenne.** 
 **Des chantiers essentiels** sont annoncés dans les 21 engagements du plan d’action national 2018-2020, **qui mettent l’accent sur les opportunités offertes par la transformation numérique :**
@@ -44,7 +44,7 @@ Le suivi de la mise en œuvre du plan d’action sera public. Ce plan d’action
 > [Consultez le Plan d’action national du gouvernement pour une action publique transparente et collaborative (2018-2020)](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/PlanOGP-FR-2018-2020-VF-FR.pdf){:target="_blank"}
 {: .lien-important}
  
-### Assemblée nationale : Ouverture, transparence et participation citoyenne
+#### Assemblée nationale : Ouverture, transparence et participation citoyenne
 
 À l’occasion de l’adhésion de la France au Partenariat pour un Gouvernement ouvert (PGO), l’Assemblée nationale a souhaité s’engager volontairement aux côtés du Gouvernement dans cette démarche.
 En juillet 2017, la Présidence de l’Assemblée nationale a lancé les « Rendez-vous des réformes 2017 2022 », processus dont l’objectif assigné par le Président François de Rugy, pendant toute la durée de la législature, est de « moderniser l’Assemblée en la rendant plus transparente, plus efficace et plus ouverte dans son fonctionnement ».
