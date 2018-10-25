@@ -72,7 +72,7 @@ Pour la mise en œuvre de l’ensemble de ces actions, l’Assemblée nationale 
 {: .citation}
 >François de Rugy, Président de l’Assemblée nationale
 {: .auteur-citation}
-> Consultez le Plan d’action Parlement ouvert{:target="_blank"}
+> Consultez le Plan d’action Parlement ouvert
 {: .lien-important} 
 
 > Créé en septembre 2011, le Partenariat pour un gouvernement ouvert (PGO) rassemble 75 pays et des centaines d’organisations de la société civile qui s’engagent à faire avancer la transparence de la vie publique, la participation citoyenne et l’innovation démocratique.
