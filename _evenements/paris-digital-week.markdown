@@ -22,7 +22,10 @@ champs_informations:
   lien: https://registration.parispeaceforum.org/?lang=en
 ---
 
-Dans ce cadre, Etalab organise un hackathon autour de la transparence de la commande publique. 
+Le Paris Peace Forum est centré sur ceux qui cherchent à développer des solutions aux défis transfrontaliers d’aujourd’hui.
+Il se concentre sur leurs 120 projets et initiatives de gouvernance du monde entier, sélectionnés parmi 850 applications, présentés dans cinq villages: paix et sécurité, environnement, développement, nouvelles technologies et économie inclusive.
+
+Dans ce cadre, Etalab organise un hackathon autour de la transparence de la commande publique. L'enjeu sera ainsi de comprendre comment les données essentielles des marchés publics peuvent permettre aux opérateurs économiques d'accéder plus facilement au marché public.
 
 Le hackathon du Paris Peace Forum est l'occasion de mobiliser l'intelligence collective dans les domaines de l'informatique, de l'économie ou des sciences sociales autour des questions de gouvernance mondiale et de transparence des données financières.
 
