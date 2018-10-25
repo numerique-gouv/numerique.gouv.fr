@@ -75,7 +75,8 @@ Pour la mise en œuvre de l’ensemble de ces actions, l’Assemblée nationale 
 > Consultez le Plan d’action Parlement ouvert
 {: .lien-important} 
 
-> Créé en septembre 2011, le Partenariat pour un gouvernement ouvert (PGO) rassemble 75 pays et des centaines d’organisations de la société civile qui s’engagent à faire avancer la transparence de la vie publique, la participation citoyenne et l’innovation démocratique.
+> 
+Créé en septembre 2011, le Partenariat pour un gouvernement ouvert (PGO) rassemble 75 pays et des centaines d’organisations de la société civile qui s’engagent à faire avancer la transparence de la vie publique, la participation citoyenne et l’innovation démocratique.
 La France a rejoint le PGO en 2014 et publié un premier [Plan d’action national pour une action publique transparente et collaborative pour la période 2015 - 2017 (pdf)](http://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/pgo_plan_action_france_2015-2017_fr.pdf){:target="_blank"}, dont la mise en œuvre a été évaluée par un organisme indépendant. Co-présidente du PGO pendant une année, la France a accueilli en décembre 2016 à Paris [le Sommet mondial du Partenariat pour un gouvernement ouvert](http://www.modernisation.gouv.fr/home/la-societe-civile-au-coeur-du-sommet-du-partenariat-pour-un-gouvernement-ouvert){:target="_blank"}, à l’issue duquel fut adoptée la Déclaration de Paris, qui recense les 20 actions collectives actuellement mises en œuvre par l’ensemble de la communauté du gouvernement ouvert. 
 Le prochain Sommet du PGO aura lieu à Tbilissi du 17 au 19 juillet 2018.
 {: .encadre} 
