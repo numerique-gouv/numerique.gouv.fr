@@ -16,6 +16,10 @@ event_start_date: 2018-11-11 00:00:00 +01:00
 event_end_date: 2018-11-13 00:00:00 +01:00
 lieu: La Grande Halle de La Villette
 adresse: 211 Avenue Jean Jaurès, 75019 Paris
+acces:
+- type: Métro
+  lignes:
+  - nom: 'ligne 7 : Corentin Cariou , ligne 5 : Ourcq'
 champs_informations:
 - intitule: Modalités
   contenu: 'Inscription en ligne '
