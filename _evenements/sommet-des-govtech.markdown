@@ -46,5 +46,5 @@ Plus de précisions à venir !
 > Emmanuel Macron, Président de la République française
 {: .auteur-citation}
 
-Ce Forum s’inscrit dans une séquence de grands événements internationaux organisés à Paris sur le digital, la **Paris Digital week**, avec [Le Forum de Paris sur la paix](/agenda/paris-digital-week/) (du 11 au 13 novembre) et le Forum pour une Gouvernance de l’Internet (lien vers notre page sans target blank).
+Ce Forum s’inscrit dans une séquence de grands événements internationaux organisés à Paris sur le digital, la **Paris Digital week**, avec [Le Forum de Paris sur la paix](/agenda/paris-digital-week/) (du 11 au 13 novembre) et le Forum pour une Gouvernance de l’Internet 
 
