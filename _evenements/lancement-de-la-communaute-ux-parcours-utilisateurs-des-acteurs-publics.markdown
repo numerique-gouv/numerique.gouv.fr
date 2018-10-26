@@ -3,6 +3,8 @@ title: Lancement de la communauté UX-Parcours utilisateurs des acteurs publics
 date: 2018-10-26 13:03:00 +02:00
 categories:
 - Atelier
+tags:
+- services publics
 chapeau-text: "Dans le cadre de la semaine de l’innovation publique, la direction
   interministérielle du numérique lance la communauté UX-parcours utilisateurs de
   l’État.\n\n"
