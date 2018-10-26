@@ -24,7 +24,7 @@ champs_informations:
 
 Vous êtes UX designer, ergonome, agence, indépendant, en charge d’intégrer des approches UX-parcours utilisateurs au sein de services publics.
 
-Vous souhaitez aider les acteurs publics à être centrés vers leurs utilisateurs : Rejoignez-nous !
+Vous souhaitez aider les acteurs publics à être centrés vers leurs utilisateurs :                                          Rejoignez-nous !
 
 
 **Au programme :**
