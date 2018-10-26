@@ -12,7 +12,7 @@ une-ou-diaporama:
 - image: "/uploads/ux.jpg"
 event_start_date: 2018-11-21 09:30:00 +01:00
 lieu: DINSIC
-adresse: 20 avenue de Ségur
+adresse: 20 avenue de Ségur - 75007 Paris
 acces:
 - type: 'Métro : '
   lignes:
