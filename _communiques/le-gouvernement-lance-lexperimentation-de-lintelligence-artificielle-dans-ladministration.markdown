@@ -22,7 +22,7 @@ Destiné aux opérateurs directs de services publics au niveau de l’État (min
 
 À la clé ? Un prototype fonctionnel expérimenté auprès d’utilisateurs (agents ou administrés). 
 
-Les lauréats seront sélectionnés sur les critères suivants :
+**Les lauréats seront sélectionnés sur les critères suivants :**
 * Bénéfices potentiels internes et externes pour l’action publique, liés à l’utilisation de l’IA sur le périmètre métier proposé ; 
 * Pertinence technique du projet ; 
 * Composition de l’équipe d’agents publics impliqués dans le projet ; * Existence et accessibilité des données nécessaires ; 
