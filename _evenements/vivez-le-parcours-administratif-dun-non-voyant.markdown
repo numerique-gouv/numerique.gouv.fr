@@ -16,7 +16,7 @@ acces:
   lignes:
   - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur'
 champs_informations:
-- intitule: 'Rachel Wadoux :'
+- intitule: 'Rachel Wadoux '
   contenu: rachel.wadoux@modernisation.gouv.fr
 ---
 
