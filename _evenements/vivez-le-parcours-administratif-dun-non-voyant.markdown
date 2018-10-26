@@ -3,6 +3,8 @@ title: Vivez le parcours administratif d’un non-voyant
 date: 2018-10-26 13:44:00 +02:00
 categories:
 - Atelier
+tags:
+- accessibilité
 chapeau-text: Dans le cadre de la semaine de l’innovation publique, la direction interministérielle
   du numérique organise une matinée sur le thème de l'accessibilité des démarches
   en ligne.
