@@ -35,7 +35,7 @@ Ils animent depuis 2 ans une communauté UX des acteurs publics italiens. Ils vi
 **11:30-12:30 :** ateliers au choix
 * **Atelier Travailler ensemble :**  Comment constituer une équipe de conception de rêve (quelles compétences sont nécessaires, simplifier l’accès aux marchés publics)
 
-* **Atelier Communiquer :** Comment travailler en mode collaboratif au sein de la communauté ?(comment favoriser la collaboration entre les intervenants, utilisation de sketch, slack, trello, forum)
+* **Atelier Communiquer :** Comment travailler en mode collaboratif au sein de la communauté ? (comment favoriser la collaboration entre les intervenants, utilisation de sketch, slack, trello, forum)
 
 * **Atelier Outils :** Quels sont les outils prioritaires à partager ?
 (de nombreux outils déjà existants Pidila, commentfaire, qualité web)
