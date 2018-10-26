@@ -2,6 +2,9 @@
 title: Assises de l'identité numérique 25 et 26 avril 2018 - Paris Coconstruire l’identité
   numérique de demain
 date: 2018-10-26 16:34:00 +02:00
+communique_file: "/uploads/CP-Assises-identite-numerique.pdf"
+une-ou-diaporama:
+- image: "/uploads/20180425_Assises%20identit%C3%A9%20num%C3%A9rique.jpg"
 ---
 
 Le 5 janvier dernier, le ministre de l’Intérieur, la ministre de la Justice et le secrétaire d’État auprès du premier Ministre chargé du numérique, ont mis en place **le programme interministériel identité numérique**, chargé de concevoir et mettre en œuvre, pour la rentrée 2019, des  solutions d’identification numérique sécurisées. 
