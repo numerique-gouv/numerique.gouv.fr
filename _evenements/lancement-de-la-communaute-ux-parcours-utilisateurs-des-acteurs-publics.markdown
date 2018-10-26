@@ -19,7 +19,7 @@ acces:
   - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur'
 champs_informations:
 - intitule: Modalités
-  contenu: 'Inscription '
+  contenu: Inscription par mail
   mail: 'christine.balian@modernisation.gouv.fr                     '
 ---
 
