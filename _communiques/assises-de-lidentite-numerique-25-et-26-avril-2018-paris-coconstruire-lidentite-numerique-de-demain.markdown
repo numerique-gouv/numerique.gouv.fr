@@ -28,8 +28,13 @@ Autant de questions cruciales ouvertes à l’occasion des Assises et qui alimen
 * **13h00 - 14h30 :** Déjeuner - buffet 
 * **14h30 - 17h00 :** Présentation des démonstrateurs de solutions d’identité numérique 
  
-26 avril 
+**26 avril** 
  
-8h30 : Accueil des invités 9h - 13h : Séance plénière 9h15 - 9h45 : Restitution des travaux de la veille 9h45 - 10h45 : Table ronde « Identité numérique et protection des données personnelles » 10h45 - 11h45 : Seconde table ronde « Impact sociétal de l’identité numérique » 12h15 - 12H45 : Clôture des assises de l’identité numérique 
+* **8h30 :** Accueil des invités 
+* **9h - 13h :** Séance plénière 
+* **9h15 - 9h45 :** Restitution des travaux de la veille 
+* **9h45 - 10h45 :** Table ronde « Identité numérique et protection des données personnelles » 
+* **10h45 - 11h45 :** Seconde table ronde « Impact sociétal de l’identité numérique » 
+* **12h15 - 12H45 :** Clôture des assises de l’identité numérique 
  
  
