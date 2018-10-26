@@ -1,7 +1,7 @@
 ---
 title: 'LA DINSIC SE MOBILISE POUR LA RÉUSSITE DE L’OUVERTURE DES LOGICIELS PUBLICS
   : PUBLICATION DE LA POLITIQUE DE CONTRIBUTION DE L’ÉTAT AUX LOGICIELS LIBRES'
-date: 2018-10-26 17:03:00 +02:00
+date: 2018-05-15 17:03:00 +02:00
 chapeau-text: Conformément à la **Loi pour une République Numérique**, les codes sources
   des logiciels produits par les administrations seront officiellement libres par
   défaut à partir du 7 octobre 2018, une transition qui affirme l’engagement de l’État
