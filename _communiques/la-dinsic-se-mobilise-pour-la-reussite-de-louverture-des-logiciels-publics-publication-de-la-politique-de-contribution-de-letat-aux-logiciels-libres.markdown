@@ -2,6 +2,9 @@
 title: 'LA DINSIC SE MOBILISE POUR LA RÉUSSITE DE L’OUVERTURE DES LOGICIELS PUBLICS
   : PUBLICATION DE LA POLITIQUE DE CONTRIBUTION DE L’ÉTAT AUX LOGICIELS LIBRES'
 date: 2018-05-15 17:03:00 +02:00
+tags:
+- Données ouvertes
+- logiciels libres
 communique_file: "/uploads/CP_Politique_contribution_logiciel_libre_Etat.pdf"
 chapeau-text: Conformément à la **Loi pour une République Numérique**, les codes sources
   des logiciels produits par les administrations seront officiellement libres par
