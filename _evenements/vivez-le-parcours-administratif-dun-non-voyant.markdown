@@ -20,6 +20,8 @@ champs_informations:
   contenu: rachel.wadoux@modernisation.gouv.fr
 ---
 
+**Au programme :**
+
 De **10h30 à midi** Fernando PINTO da SILVA (animateur des travaux sur le numérique au sein du Conseil National Consultatif des Personnes Handicapées) vous proposera une  démonstration de plusieurs parcours administratifs en ligne, pour un aveugle, pour des démarches telles que :
  
 * Recherche d’un emploi sur [pole-emploi.fr](https://www.pole-emploi.fr/accueil/){:target="_blank"}
