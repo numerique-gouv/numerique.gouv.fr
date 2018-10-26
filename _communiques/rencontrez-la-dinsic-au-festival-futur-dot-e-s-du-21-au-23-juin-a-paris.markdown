@@ -17,7 +17,7 @@ une-ou-diaporama:
 
 La DINSIC promeut **la culture de l’innovation numérique** au sein de l’Etat, améliore et simplifie les services publiques numériques, ouvre les données publiques. Startups d’État, plateforme data.gouv, communs contributifs, Entrepreneurs d’intérêt général, accessibilité des services publics en ligne, *Dites-le-nous une fois…*  venez découvrir comment nous créons le service public de demain ! 
 
-**DÉMONSTRATIONS DES PROJETS DE LA DINSIC – VILLAGE DES INNOVATIONS Parcours « IA, algorithmes, données » Du jeudi 21 au samedi 23 juin, de 9h30 à 18h, La Villette ** 
+**DÉMONSTRATIONS DES PROJETS DE LA DINSIC – VILLAGE DES INNOVATIONS Parcours « IA, algorithmes, données » Du jeudi 21 au samedi 23 juin, de 9h30 à 18h, La Villette** 
  
 * Ouverture du gouvernement, ouverture des données publiques : découvrez la plateforme data.gouv.fr et les forums Open d’Etat 
 * Fabriquer des services publics numériques avec agilité : l'approche startup d’État 
