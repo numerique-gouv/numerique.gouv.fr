@@ -12,11 +12,11 @@ une-ou-diaporama:
 
 De **10h30 à midi** Fernando PINTO da SILVA (animateur des travaux sur le numérique au sein du Conseil National Consultatif des Personnes Handicapées) vous proposera une  démonstration de plusieurs parcours administratifs en ligne, pour un aveugle, pour des démarches telles que :
  
-* Recherche d’un emploi sur [pole-emploi.fr](https://www.pole-emploi.fr/accueil/)
-* Actualisation situation sur [pole-emploi.fr](https://www.pole-emploi.fr/accueil/)
-* Déclaration sur [net-entreprises.fr](https://www.net-entreprises.fr/)
-* Déclaration [cesu.urssaf.fr](https://www.cesu.urssaf.fr/info/accueil.html)
-* Démarche sur [caf.fr](http://www.caf.fr/)
-* [Impots.gouv.fr](https://www.impots.gouv.fr/portail/)
+* Recherche d’un emploi sur [pole-emploi.fr](https://www.pole-emploi.fr/accueil/){:target="_blank"}
+* Actualisation situation sur [pole-emploi.fr](https://www.pole-emploi.fr/accueil/){:target="_blank"}
+* Déclaration sur [net-entreprises.fr](https://www.net-entreprises.fr/){:target="_blank"}
+* Déclaration [cesu.urssaf.fr](https://www.cesu.urssaf.fr/info/accueil.html){:target="_blank"}
+* Démarche sur [caf.fr](http://www.caf.fr/){:target="_blank"}
+* [Impots.gouv.fr](https://www.impots.gouv.fr/portail/){:target="_blank"}
  
 
