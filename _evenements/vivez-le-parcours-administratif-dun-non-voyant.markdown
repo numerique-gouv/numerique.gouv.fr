@@ -31,4 +31,4 @@ De **10h30 à midi** Fernando PINTO da SILVA (animateur des travaux sur le numé
 * Démarche sur [caf.fr](http://www.caf.fr/){:target="_blank"}
 * [Impots.gouv.fr](https://www.impots.gouv.fr/portail/){:target="_blank"}
  
-
+**Événement ouvert à tous !** 
