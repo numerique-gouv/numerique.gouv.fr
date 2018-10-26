@@ -6,6 +6,10 @@ tags:
 - Sécurisation
 - inclusion numérique
 communique_file: "/uploads/CP-Assises-identite-numerique.pdf"
+chapeau-text: Organisées sous le haut patronage du ministre de l’Intérieur, du ministre
+  de la Justice et du secrétaire d’État chargé du Numérique, les Assises de l'identité
+  numérique vont lancer - les 25 et 26 avril - les travaux de co-construction et de
+  déploiement d’un parcours d’identification numérique.
 une-ou-diaporama:
 - image: "/uploads/20180425_Assises%20identit%C3%A9%20num%C3%A9rique.jpg"
 ---
