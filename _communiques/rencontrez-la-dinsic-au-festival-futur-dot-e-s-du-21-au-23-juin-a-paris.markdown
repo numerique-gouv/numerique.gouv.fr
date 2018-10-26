@@ -12,7 +12,7 @@ chapeau-text: "Futur.e.s in Paris, le plus grand festival européen de l'innovat
   de cette 9ème édition, **la direction interministérielle du numérique et du système
   d’information et de communication de l’Etat (DINSIC)** vous y attend. "
 une-ou-diaporama:
-- image: "/uploads/Futur-e.s_format_medium_fil_info.png"
+- image: "/uploads/index.png"
 ---
 
 La DINSIC promeut **la culture de l’innovation numérique** au sein de l’Etat, améliore et simplifie les services publiques numériques, ouvre les données publiques. Startups d’État, plateforme data.gouv, communs contributifs, Entrepreneurs d’intérêt général, accessibilité des services publics en ligne, *Dites-le-nous une fois…*  venez découvrir comment nous créons le service public de demain ! 
