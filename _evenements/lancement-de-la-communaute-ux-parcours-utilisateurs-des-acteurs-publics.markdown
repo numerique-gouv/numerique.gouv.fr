@@ -18,8 +18,9 @@ acces:
   lignes:
   - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur'
 champs_informations:
-- intitule: Contact inscription
-  contenu: 'christine.balian@modernisation.gouv.fr                     '
+- intitule: Modalités
+  contenu: 'Inscription '
+  email: 'christine.balian@modernisation.gouv.fr                     '
 ---
 
 Vous êtes UX designer, ergonome, agence, indépendant, en charge d’intégrer des approches UX-parcours utilisateurs au sein de services publics.
