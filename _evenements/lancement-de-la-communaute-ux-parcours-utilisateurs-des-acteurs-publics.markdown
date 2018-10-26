@@ -42,5 +42,5 @@ Ils animent depuis 2 ans une communauté UX des acteurs publics italiens. Ils vi
 
 * **Atelier Nom :** Quel nom pour le programme ?
 
-Événement **ouvert à tous**, merci vous inscrire par email 
+Événement **ouvert à tous**, merci vous **inscrire par email** 
 en indiquant votre atelier préféré !
