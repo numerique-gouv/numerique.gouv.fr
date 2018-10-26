@@ -20,7 +20,7 @@ acces:
 champs_informations:
 - intitule: Modalités
   contenu: 'Inscription '
-  email: 'christine.balian@modernisation.gouv.fr                     '
+  lien: 'christine.balian@modernisation.gouv.fr                     '
 ---
 
 Vous êtes UX designer, ergonome, agence, indépendant, en charge d’intégrer des approches UX-parcours utilisateurs au sein de services publics.
