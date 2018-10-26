@@ -1,6 +1,6 @@
 ---
-title: 'LA DINSIC SE MOBILISE POUR LA RÉUSSITE DE L’OUVERTURE DES LOGICIELS PUBLICS
-  : PUBLICATION DE LA POLITIQUE DE CONTRIBUTION DE L’ÉTAT AUX LOGICIELS LIBRES'
+title: 'La DINSIC se mobilise pour la réussite de l''ouverture des logiciels publics
+  : publication de la politique de contribution de l’État aux logiciels libres'
 date: 2018-05-15 17:03:00 +02:00
 tags:
 - Données ouvertes
@@ -11,6 +11,8 @@ chapeau-text: Conformément à la **Loi pour une République Numérique**, les c
   défaut à partir du 7 octobre 2018, une transition qui affirme l’engagement de l’État
   en faveur du logiciel libre.
 ---
+
+LA DINSIC SE MOBILISE POUR LA RÉUSSITE DE L’OUVERTURE DES LOGICIELS PUBLICS : PUBLICATION DE LA POLITIQUE DE CONTRIBUTION DE L’ÉTAT AUX LOGICIELS LIBRES
 
 Pour accompagner les administrations dans la production de codes sources ouverts, **la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC)** publie sa **politique de contribution aux logiciels libres.**
  
