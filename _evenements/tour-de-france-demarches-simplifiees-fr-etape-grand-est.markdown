@@ -13,8 +13,8 @@ chapeau-text: Le Tour de France de demarches-simplifiees.fr fait étape à Metz 
 une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
 event_start_date: 2018-11-29 00:00:00 +01:00
-lieu: Metz
-adresse: Adresse communiquée prochainement
+lieu: IRA de Metz
+adresse: '15 Avenue de Lyon,  57078 METZ '
 afficher_la_carte: false
 champs_informations:
 - intitule: Modalités
