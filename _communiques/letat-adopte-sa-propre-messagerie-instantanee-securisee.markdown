@@ -1,6 +1,7 @@
 ---
 title: L’État adopte sa propre messagerie instantanée sécurisée
 date: 2018-04-20 16:12:00 +02:00
+published: false
 communique_file: "/uploads/CP_messagerie_instantanee_Etat.pdf"
 chapeau-text: 'D’ici l’été 2018, l’État disposera de sa propre messagerie instantanée,
   alternative aux applications WhatsApp et Telegram. '
