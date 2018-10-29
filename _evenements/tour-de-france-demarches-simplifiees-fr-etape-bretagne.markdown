@@ -14,7 +14,7 @@ une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
 event_start_date: 2018-11-22 08:00:00 +01:00
 lieu: 'Matin : Pôle Numérique Rennes Beaulieu - Après midi : Ti Lab'
-adresse: 'Matin : 263 avenue du Général Leclerc,35000 Rennes  -  Après midi : 5 rue
+adresse: 'Matin : 263 avenue du Général Leclerc, 35000 Rennes  -  Après midi : 5 rue
   Martenot, 35000 Rennes  '
 afficher_la_carte: false
 champs_informations:
