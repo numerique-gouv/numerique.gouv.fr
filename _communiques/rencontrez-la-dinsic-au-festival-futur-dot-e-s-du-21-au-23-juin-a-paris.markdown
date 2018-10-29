@@ -1,6 +1,7 @@
 ---
 title: Rencontrez la DINSIC au festival FUTUR.E.S  du 21 au 23 juin à Paris
 date: 2018-06-18 16:49:00 +02:00
+published: false
 tags:
 - entrepreneur.e d’intérêt général
 - Accessibilité
