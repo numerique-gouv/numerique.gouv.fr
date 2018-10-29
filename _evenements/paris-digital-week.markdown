@@ -6,10 +6,13 @@ categories:
 tags:
 - Etalab
 - Transparence
-chapeau-text: Le Forum de Paris sur la Paix a vocation à devenir le rendez-vous annuel
-  de la gouvernance mondiale, y compris celle des espaces numériques. Plusieurs milliers
-  de participants du monde entier sont attendus. 120 projets innovants seront présentés
-  dans l’espace des solutions.
+chapeau-text: 'Expert, ingénieur, programmeur ou designer intéressé par les enjeux
+  de gouvernance mondiale et de transparence des données financières se donnent rendez-vous
+  à la première édition du Forum de Paris sur la Paix. Pendant 3 jours ils mettront
+  leurs expertises en commun pour trouver des solutions concrètes autour du thème
+  de la transparence des données financières.
+
+'
 une-ou-diaporama:
 - image: "/uploads/logo-forum-paris-paix-EN.png"
 event_start_date: 2018-11-11 00:00:00 +01:00
@@ -32,7 +35,5 @@ Il se concentre sur leurs 120 projets et initiatives de gouvernance du monde ent
 Dans ce cadre, Etalab organise un hackathon autour de la transparence de la commande publique. L'enjeu sera ainsi de comprendre comment les données essentielles des marchés publics peuvent permettre aux opérateurs économiques d'accéder plus facilement au marché public.
 
 Le hackathon du Paris Peace Forum est l'occasion de mobiliser l'intelligence collective dans les domaines de l'informatique, de l'économie ou des sciences sociales autour des questions de gouvernance mondiale et de transparence des données financières.
-
-Plus de précisions à venir !
 
 Ce Forum s’inscrit dans une séquence de grands événements internationaux organisés à Paris sur le digital, la **Paris Digital week**, avec le [Sommet des GovTech](/agenda/sommet-des-govtech/) (12 novembre) et avec le [Forum pour une Gouvernance de l’Internet](/agenda/forum-sur-la-gouvernance-de-linternet-pour-un-internet-de-la-confiance/) (12 au 14 novembre) 
