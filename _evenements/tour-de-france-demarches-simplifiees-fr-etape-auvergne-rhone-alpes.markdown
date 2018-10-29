@@ -14,7 +14,7 @@ une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
 event_start_date: 2018-12-07 08:00:00 +01:00
 lieu: Lyon
-adresse: Adresse communiquée prochainement
+adresse: '67 rue Servient, 69433 LYON '
 afficher_la_carte: false
 champs_informations:
 - intitule: Modalités
