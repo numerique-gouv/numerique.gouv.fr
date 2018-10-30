@@ -22,7 +22,9 @@ champs_informations:
   lien: https://www.demarches-simplifiees.fr/commencer/tour-de-france-demarches-simplifiees-auvergne-rhon
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kpwxh69SWLg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Cet automne, en lien avec les SGAR, l’équipe de *demarches-simplifiees.fr* vient à la rencontre des agents publics, sur tout le territoire, pour leur **présenter la plateforme de dématérialisation mise à leur disposition gratuitement par la DINSIC.** Ils apprendront à **créer rapidement une démarche en ligne**, leur permettant de remplacer un formulaire encore géré sur papier.
+
 Plus largement, cette journée est aussi l’occasion de les **sensibiliser aux enjeux de la dématérialisation et aux bénéfices du numérique**, tant pour leur environnement de travail que pour le service rendu à l’usager. 
 
 
