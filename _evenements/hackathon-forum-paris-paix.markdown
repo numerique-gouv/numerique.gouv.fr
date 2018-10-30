@@ -2,7 +2,7 @@
 title: Le hackathon du Forum de Paris sur la Paix
 date: 2018-10-25 16:32:00 +02:00
 categories:
-- Sommet
+- Hackathon
 tags:
 - Etalab
 - Transparence
