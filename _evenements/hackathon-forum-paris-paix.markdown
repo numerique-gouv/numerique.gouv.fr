@@ -14,7 +14,7 @@ chapeau-text: 'Expert, ingénieur, programmeur ou designer intéressé par les e
 
 '
 une-ou-diaporama:
-- image: "/uploads/logo-forum-paris-paix-EN.png"
+- image: "/uploads/logo-forum-paris-paix-FR.png"
 event_start_date: 2018-11-11 00:00:00 +01:00
 event_end_date: 2018-11-13 00:00:00 +01:00
 lieu: La Grande Halle de La Villette
