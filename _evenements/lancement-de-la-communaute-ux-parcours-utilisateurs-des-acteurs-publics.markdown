@@ -5,11 +5,13 @@ categories:
 - Atelier
 tags:
 - services publics
+- services en ligne
 chapeau-text: "Dans le cadre de la semaine de l’innovation publique, la direction
-  interministérielle du numérique lance la communauté UX-parcours utilisateurs de
-  l’État.\n\n"
+  interministérielle du numérique lance la communauté UX-parcours utilisateur de l’État.\n\n"
 une-ou-diaporama:
 - image: "/uploads/agenda-lancement-communaute-UX.jpg"
+  alternative-textuelle: UX design et services publics en ligne - Venez rejoindre
+    la communauté !
 event_start_date: 2018-11-21 09:30:00 +01:00
 lieu: DINSIC
 adresse: 20 avenue de Ségur - 75007 Paris
@@ -22,7 +24,7 @@ champs_informations:
   contenu: 'christine.balian@modernisation.gouv.fr                     '
 ---
 
-Vous êtes UX designer, ergonome, agence, indépendant, en charge d’intégrer des approches UX-parcours utilisateurs au sein de services publics.
+Vous êtes UX designer, ergonome, agence, indépendant, en charge d’intégrer des approches UX-parcours utilisateur au sein de services publics en ligne.
 
 Vous souhaitez aider les acteurs publics à être centrés vers leurs utilisateurs :                                          Rejoignez-nous !
 
@@ -38,7 +40,7 @@ Ils animent depuis 2 ans une communauté UX des acteurs publics italiens. Ils vi
 * **Atelier Communiquer :** Comment travailler en mode collaboratif au sein de la communauté ? (comment favoriser la collaboration entre les intervenants, utilisation de sketch, slack, trello, forum)
 
 * **Atelier Outils :** Quels sont les outils prioritaires à partager ?
-(de nombreux outils déjà existants Pidila, commentfaire, qualité web)
+(de nombreux outils déjà existants [Pidila](https://pidila.gitlab.io/){:target="_blank"}, [comment-faire.modernisation.gouv.fr](http://comment-faire.modernisation.gouv.fr/){:target="_blank"}, qualité web)
 
 * **Atelier Nom :** Quel nom pour le programme ?
 
