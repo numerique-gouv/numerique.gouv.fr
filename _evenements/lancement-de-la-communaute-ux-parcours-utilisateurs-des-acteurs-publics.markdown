@@ -11,7 +11,7 @@ chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://ww
   la direction interministérielle du numérique lance la communauté UX-parcours utilisateurs
   de l’État.
 une-ou-diaporama:
-- image: "/uploads/agenda-lancement-communaute-UX-ok.jpg"
+- image: "/uploads/agenda-lancement-communaute-UX.jpg"
   alternative-textuelle: UX design et services publics en ligne - Venez rejoindre
     la communauté
 event_start_date: 2018-11-21 09:30:00 +01:00
