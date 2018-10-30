@@ -9,7 +9,8 @@ tags:
 - qualité web
 chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
   la direction interministérielle du numérique lance la communauté UX-Expérience utilisateur
-  de l’État.
+  de l’État. Rejoignez le mouvement et venez poser les premières briques avec nous
+  lors d'une demi-journée de rencontre et d'ateliers !
 une-ou-diaporama:
 - image: "/uploads/agenda-lancement-communaute-UX.jpg"
   alternative-textuelle: UX design et services publics en ligne - Venez rejoindre
