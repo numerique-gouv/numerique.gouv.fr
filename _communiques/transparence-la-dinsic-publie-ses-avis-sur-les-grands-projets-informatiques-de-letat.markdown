@@ -1,7 +1,7 @@
 ---
 title: 'Transparence : La DINSIC publie ses avis sur les  grands projets informatiques
   de l’État'
-date: 2018-10-30 16:55:00 +01:00
+date: 2018-04-24 16:55:00 +02:00
 communique_file: "/uploads/CP_avis_conformes_DINSIC_24_04_2018.pdf"
 chapeau-text: "**La direction interministérielle du numérique et du système d’information
   et de communication de l’Etat (DINSIC)** publie aujourd’hui l’ensemble des avis
