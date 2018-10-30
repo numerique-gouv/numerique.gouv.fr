@@ -32,7 +32,7 @@ champs_informations:
   lien: 
 ---
 
-Le Paris Peace Forum est centré sur ceux qui cherchent à **développer des solutions aux défis transfrontaliers d’aujourd’hui.**
+Le Forum de Paris sur la Paix (Paris Peace Forum) est centré sur ceux qui cherchent à **développer des solutions aux défis transfrontaliers d’aujourd’hui.**
 Il se concentre sur leurs 120 projets et initiatives de gouvernance du monde entier, sélectionnés parmi 850 applications, présentés dans cinq villages: paix et sécurité, environnement, développement, nouvelles technologies et économie inclusive. 
 
 Le hackathon du Forum de Paris sur la Paix est l'occasion de mobiliser l'intelligence collective dans les domaines de l'informatique, de l'économie ou des sciences sociales autour des questions de gouvernance mondiale et de transparence des données financières. 
