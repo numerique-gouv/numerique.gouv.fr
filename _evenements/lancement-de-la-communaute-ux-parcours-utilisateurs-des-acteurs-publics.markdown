@@ -13,7 +13,7 @@ chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://ww
 une-ou-diaporama:
 - image: "/uploads/agenda-lancement-communaute-UX-ok.jpg"
   alternative-textuelle: UX design et services publics en ligne - Venez rejoindre
-    la communauté !
+    la communauté
 event_start_date: 2018-11-21 09:30:00 +01:00
 lieu: DINSIC
 adresse: 20 avenue de Ségur - 75007 Paris
