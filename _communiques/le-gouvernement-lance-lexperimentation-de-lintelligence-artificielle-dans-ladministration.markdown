@@ -25,7 +25,8 @@ Destiné aux opérateurs directs de services publics au niveau de l’État (min
 **Les lauréats seront sélectionnés sur les critères suivants :**
 * Bénéfices potentiels internes et externes pour l’action publique, liés à l’utilisation de l’IA sur le périmètre métier proposé ; 
 * Pertinence technique du projet ; 
-* Composition de l’équipe d’agents publics impliqués dans le projet ; * Existence et accessibilité des données nécessaires ; 
+* Composition de l’équipe d’agents publics impliqués dans le projet ;
+* Existence et accessibilité des données nécessaires ; 
 * Prise en compte des risques éthiques. 
  
 > *Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’Intelligence artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir aux citoyens un service public plus performant et proche de leurs besoins*
