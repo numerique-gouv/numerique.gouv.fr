@@ -48,6 +48,8 @@ répondre à des défis soulevés par des organisations partenaires en développ
 * La transparence des commandes publiques
 * La communication des données financières au public
 
-Etalab animera le **défi autour de la transparence des commandes publiques.** L'enjeu sera ainsi de comprendre **comment les données essentielles des marchés publics peuvent permettre aux opérateurs économiques d'accéder plus facilement au marché public.**
+La mission Etalab de la DINSIC animera le **défi autour de la transparence des commandes publiques :** Comment les données essentielles de la commande publique peuvent-elles permettre aux opérateurs économiques d’accéder plus facilement aux marchés publics ?
+
+Romain Talès, responsable des données publiques, et Marion Paclot, data scientist chez Etalab vous accompagneront sur ce thème.
 
 Ce Forum s’inscrit dans une séquence de grands événements internationaux organisés à Paris sur le digital, la **Paris Digital week**, avec le [Sommet des GovTech](/agenda/sommet-des-govtech/) (12 novembre) et avec le [Forum pour une Gouvernance de l’Internet](/agenda/forum-sur-la-gouvernance-de-linternet-pour-un-internet-de-la-confiance/) (12 au 14 novembre) 
