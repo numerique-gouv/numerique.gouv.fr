@@ -4,7 +4,8 @@ date: 2018-10-26 13:03:00 +02:00
 categories:
 - Atelier
 tags:
-- services publics
+- services en ligne
+- UX
 chapeau-text: "Dans le cadre de la semaine de l’innovation publique, la direction
   interministérielle du numérique lance la communauté UX-parcours utilisateurs de
   l’État.\n\n"
@@ -16,7 +17,7 @@ adresse: 20 avenue de Ségur - 75007 Paris
 acces:
 - type: 'Métro : '
   lignes:
-  - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur'
+  - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur, Ligne 13 : Saint-François-Xavier'
 champs_informations:
 - intitule: 'Inscription par mail '
   contenu: 'christine.balian@modernisation.gouv.fr                     '
@@ -29,7 +30,7 @@ Vous souhaitez aider les acteurs publics à être centrés vers leurs utilisateu
 
 **Au programme :**
 
-**9:30- 11:30 :** rencontre avec l’équipe Designers Italia
+**9:30-11:30 :** rencontre avec l’équipe Designers Italia
 Ils animent depuis 2 ans une communauté UX des acteurs publics italiens. Ils viendront nous faire leurs retours d’expérience et présenter leur boîte à outils. 
 
 **11:30-12:30 :** ateliers au choix
