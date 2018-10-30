@@ -48,6 +48,6 @@ répondre à des défis soulevés par des organisations partenaires en développ
 * La transparence des commandes publiques
 * La communication des données financières au public
 
-Dans ce cadre, Etalab anime un **hackathon autour de la transparence de la commande publique.** L'enjeu sera ainsi de comprendre **comment les données essentielles des marchés publics peuvent permettre aux opérateurs économiques d'accéder plus facilement au marché public.**
+Etalab animera le **défi autour de la transparence des commandes publiques.** L'enjeu sera ainsi de comprendre **comment les données essentielles des marchés publics peuvent permettre aux opérateurs économiques d'accéder plus facilement au marché public.**
 
 Ce Forum s’inscrit dans une séquence de grands événements internationaux organisés à Paris sur le digital, la **Paris Digital week**, avec le [Sommet des GovTech](/agenda/sommet-des-govtech/) (12 novembre) et avec le [Forum pour une Gouvernance de l’Internet](/agenda/forum-sur-la-gouvernance-de-linternet-pour-un-internet-de-la-confiance/) (12 au 14 novembre) 
