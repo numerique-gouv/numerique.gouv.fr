@@ -17,5 +17,8 @@ Chaque avis rendu est accompagné de **recommandations spécifiant les axes d’
 > [Consulter la liste des avis conformes émis par la DINSIC sur les grands projets SI de l’État ](www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/projets-informatiques-de-letat-avis-conformes-emis-par-la-dinsic){:target="blank"}
 {: .lien-important}
  
-« La publication de ces avis renouvelle nos engagements en faveur d’une action publique plus transparente et collaborative. C’est une priorité de notre gouvernement, une demande impérieuse des citoyens, et la seule réponse possible pour rendre le service public plus proche des usagers et ainsi renouveler notre démocratie grâce au numérique. »,  Mounir Mahjoubi, secrétaire d’Etat auprès du Premier ministre, chargé du Numérique. 
+> *La publication de ces avis renouvelle nos engagements en faveur d’une action publique plus transparente et collaborative. C’est une priorité de notre gouvernement, une demande impérieuse des citoyens, et la seule réponse possible pour rendre le service public plus proche des usagers et ainsi renouveler notre démocratie grâce au numérique.*
+{: .citation}
+> Mounir Mahjoubi, secrétaire d’Etat auprès du Premier ministre, chargé du Numérique. 
+{: .auteur-citation}
  
