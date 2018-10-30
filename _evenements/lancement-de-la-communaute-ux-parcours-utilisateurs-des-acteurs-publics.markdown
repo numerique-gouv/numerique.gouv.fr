@@ -4,8 +4,9 @@ date: 2018-10-26 13:03:00 +02:00
 categories:
 - Atelier
 tags:
-- services en ligne
 - UX
+- services publics en ligne
+- qualité web
 chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
   la direction interministérielle du numérique lance la communauté UX-parcours utilisateurs
   de l’État.
@@ -27,7 +28,7 @@ champs_informations:
 
 Vous êtes UX designer, ergonome, agence, indépendant, en charge d’intégrer des approches UX-parcours utilisateurs au sein de services publics.
 
-Vous souhaitez aider les acteurs publics à être centrés vers leurs utilisateurs :                                          Rejoignez-nous !
+Vous souhaitez aider les acteurs publics à être centrés sur leurs utilisateurs :                                          Rejoignez-nous !
 
 
 **Au programme :**
