@@ -5,6 +5,7 @@ categories:
 - Atelier
 tags:
 - services publics
+- services en ligne
 chapeau-text: "Dans le cadre de la semaine de l’innovation publique, la direction
   interministérielle du numérique lance la communauté UX-parcours utilisateurs de
   l’État.\n\n"
