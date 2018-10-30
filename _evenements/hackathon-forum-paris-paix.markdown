@@ -29,9 +29,6 @@ champs_informations:
 - intitule: Modalités
   contenu: 'Inscription en ligne '
   lien: https://registration.parispeaceforum.org/?lang=fr
-- intitule: 'null'
-  contenu: 'null'
-  lien: 
 ---
 
 Le Forum de Paris sur la Paix (Paris Peace Forum) est centré sur ceux qui cherchent à **développer des solutions aux défis transfrontaliers d’aujourd’hui.**
