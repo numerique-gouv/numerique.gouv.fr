@@ -5,6 +5,7 @@ categories:
 - Atelier
 tags:
 - accessibilité
+- services publics en ligne
 chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
   la direction interministérielle du numérique organise une matinée sur le thème de
   l'accessibilité des démarches en ligne.
