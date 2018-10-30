@@ -26,7 +26,7 @@ acces:
 champs_informations:
 - intitule: Modalités
   contenu: 'Inscription en ligne '
-  lien: https://registration.parispeaceforum.org/?lang=en
+  lien: https://registration.parispeaceforum.org/?lang=fr
 - intitule: 'null'
   contenu: 'null'
   lien: 
