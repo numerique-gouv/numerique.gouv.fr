@@ -31,7 +31,7 @@ Vous souhaitez aider les acteurs publics à être centrés vers leurs utilisateu
 
 **Au programme :**
 
-**9:30- 11:30 :** rencontre avec l’équipe Designers Italia
+**9:30-11:30 :** rencontre avec l’équipe Designers Italia
 Ils animent depuis 2 ans une communauté UX des acteurs publics italiens. Ils viendront nous faire leurs retours d’expérience et présenter leur boîte à outils. 
 
 **11:30-12:30 :** ateliers au choix
