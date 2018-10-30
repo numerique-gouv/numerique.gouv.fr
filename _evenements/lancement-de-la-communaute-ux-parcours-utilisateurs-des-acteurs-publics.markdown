@@ -6,9 +6,8 @@ categories:
 tags:
 - services en ligne
 - UX
-chapeau-text: "Dans le cadre de la semaine de l’innovation publique, la direction
-  interministérielle du numérique lance la communauté UX-parcours utilisateurs de
-  l’État.\n\n"
+chapeau-text: Dans le cadre de la semaine de l’innovation publique, la direction interministérielle
+  du numérique lance la communauté UX-parcours utilisateurs de l’État.
 une-ou-diaporama:
 - image: "/uploads/agenda-lancement-communaute-UX.jpg"
   alternative-textuelle: UX design et services publics en ligne - Venez rejoindre
