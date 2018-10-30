@@ -5,7 +5,7 @@ categories:
 - Hackathon
 tags:
 - Etalab
-- Transparence
+- données ouvertes
 chapeau-text: 'Expert, ingénieur, programmeur ou designer intéressé par les enjeux
   de gouvernance mondiale et de transparence des données financières se donnent rendez-vous
   à la première édition du [Forum de Paris sur la Paix](https://parispeaceforum.org/fr/hackathon/){:target="blank"}.
