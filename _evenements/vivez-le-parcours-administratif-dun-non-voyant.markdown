@@ -5,9 +5,9 @@ categories:
 - Atelier
 tags:
 - accessibilité
-chapeau-text: Dans le cadre de la semaine de l’innovation publique, la direction interministérielle
-  du numérique organise une matinée sur le thème de l'accessibilité des démarches
-  en ligne.
+chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
+  la direction interministérielle du numérique organise une matinée sur le thème de
+  l'accessibilité des démarches en ligne.
 une-ou-diaporama:
 - image: "/uploads/une_presentation_sip_2018.png"
 event_start_date: 2018-11-22 10:30:00 +01:00
@@ -18,6 +18,8 @@ acces:
   lignes:
   - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur, Ligne 13 : Saint-François-Xavier'
 champs_informations:
+- intitule: 'Horaires '
+  contenu: 10h30 - 12h00
 - intitule: 'Contact '
   contenu: rachel.wadoux@modernisation.gouv.fr
 ---
