@@ -39,15 +39,14 @@ Il se concentre sur leurs 120 projets et initiatives de gouvernance du monde ent
 
 Le hackathon du [Forum de Paris sur la Paix](https://parispeaceforum.org/fr/hackathon/){:target="blank"} est l'occasion de mobiliser l'intelligence collective dans les domaines de l'informatique, de l'économie ou des sciences sociales autour des questions de gouvernance mondiale et de transparence des données financières. 
 
+**L'objectif :** 
+répondre à des défis soulevés par des organisations partenaires en développant des prototypes et des solutions numériques inédites. Ils interagiront avec des participants spécialisés dans les champs de la création, de la technique et de la pratique en travaillant au sein d'une équipe composée de **2 à 6 participants** et vous serez accompagné par des experts internationaux qui seront vos mentors.
+
 **Les équipes travailleront sur 4 thèmes :** 
 * La transparence des budgets des organisations internationales
 * La transparence des budgets des événements internationaux
 * La transparence des commandes publiques
 * La communication des données financières au public
-
-
-**L'objectif :** 
-répondre à des défis soulevés par des organisations partenaires en développant des prototypes et des solutions numériques inédites. Ils interagiront avec des participants spécialisés dans les champs de la création, de la technique et de la pratique en travaillant au sein d'une équipe composée de **2 à 6 participants** et vous serez accompagné par des experts internationaux qui seront vos mentors.
 
 Dans ce cadre, Etalab anime un **hackathon autour de la transparence de la commande publique.** L'enjeu sera ainsi de comprendre **comment les données essentielles des marchés publics peuvent permettre aux opérateurs économiques d'accéder plus facilement au marché public.**
 
