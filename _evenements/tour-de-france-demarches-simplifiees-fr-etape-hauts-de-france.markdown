@@ -13,8 +13,9 @@ chapeau-text: Le Tour de France de demarches-simplifiees.fr fait étape à Lille
 une-ou-diaporama:
 - image: "/uploads/tourdefranceds.jpeg"
 event_start_date: 2018-11-27 08:00:00 +01:00
-lieu: Lille
-adresse: Adresse communiquée prochainement
+lieu: 'Le matin : Cerema    /     L''après-midi : SiiLab de la DRJSCS '
+adresse: '1 Rue Eugène Imbert de la Phalecque, 59160 Lille    /       Rue Boucher
+  de Perthes, 59000 Lille '
 afficher_la_carte: false
 champs_informations:
 - intitule: Modalités
