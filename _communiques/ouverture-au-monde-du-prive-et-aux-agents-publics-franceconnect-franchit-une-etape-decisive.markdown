@@ -1,7 +1,7 @@
 ---
 title: 'Ouverture au monde du privé et aux agents publics : FranceConnect franchit
   une étape décisive'
-date: 2018-10-30 17:33:00 +01:00
+date: 2018-07-12 17:33:00 +02:00
 tags:
 - FranceConnect
 communique_file: "/uploads/CP_FranceConnect.pdf"
@@ -9,6 +9,8 @@ chapeau-text: 'Le périmètre FranceConnect s’enrichit : jusqu’ici destiné 
   l’accès des particuliers aux services publics en ligne, un arrêté publié ce jour
   autorise désormais certains acteurs privés à utiliser FranceConnect, et à faciliter
   ainsi l’accès à leurs services en ligne pour leurs utilisateurs.   '
+une-ou-diaporama:
+- image: "/uploads/fc_logo_alt2_v2_0-600x354.png"
 ---
 
 **Cinq millions de FranceConnectés en deux ans.**
