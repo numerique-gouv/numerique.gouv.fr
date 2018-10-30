@@ -8,9 +8,9 @@ tags:
 - Transparence
 chapeau-text: 'Expert, ingénieur, programmeur ou designer intéressé par les enjeux
   de gouvernance mondiale et de transparence des données financières se donnent rendez-vous
-  à la première édition du Forum de Paris sur la Paix. Pendant 3 jours ils mettront
-  leurs expertises en commun pour trouver des solutions concrètes autour du thème
-  de la transparence des données financières.
+  à la première édition du [Forum de Paris sur la Paix](https://parispeaceforum.org/fr/hackathon/){:target="blank"}.
+  Pendant 3 jours ils mettront leurs expertises en commun pour trouver des solutions
+  concrètes autour du thème de la transparence des données financières.
 
 '
 une-ou-diaporama:
