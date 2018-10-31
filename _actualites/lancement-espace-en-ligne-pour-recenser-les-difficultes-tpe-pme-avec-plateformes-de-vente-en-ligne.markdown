@@ -1,6 +1,6 @@
 ---
-title: Lancement d'un espace en ligne pour recenser les difficultés des TPE/PME avec
-  les plateformes de vente en ligne
+title: Lancement d'un espace en ligne pour recenser les difficultés des TPE et PME
+  avec les plateformes de vente en ligne
 date: 2018-10-31 11:55:00 +01:00
 chapeau-text: Alerté par des centaines d’autres chefs d’entreprise depuis sa prise
   de fonction, le secrétaire d'État chargé du Numérique Mounir Mahjoubi lance aujourd’hui
