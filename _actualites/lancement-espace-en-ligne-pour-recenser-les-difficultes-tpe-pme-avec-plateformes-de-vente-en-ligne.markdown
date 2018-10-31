@@ -6,8 +6,6 @@ chapeau-text: Alerté par des centaines d’autres chefs d’entreprise depuis s
   de fonction, le secrétaire d'État chargé du Numérique Mounir Mahjoubi lance aujourd’hui
   un espace en ligne afin de recenser les difficultés rencontrées par les PME françaises
   avec les plateformes de vente en ligne.
-une-ou-diaporama:
-- image: "/uploads/20181030_%20Portrait_Mounir_Mahjoubi_PhotoGezelinGree_15_recadree.jpg"
 auteur: Secrétariat d'État chargé du Numérique
 ---
 
