@@ -20,7 +20,7 @@ champs_informations:
   contenu: entrepreneur-interet-general@data.gouv.fr
 ---
 
-Alors que la promotion touche à sa fin, il est temps de se pencher sur les réalisations de ces 28 data scientists, développeur.se.s et designers et des agents publics qui les ont accueillis dans leurs services pendant 10 mois.
+Alors que la promotion touche à sa fin, il est temps de se pencher sur les réalisations de ces **28 data scientists, développeur.se.s et designers et des agents publics qui les ont accueillis dans leurs services pendant 10 mois.**
 
 *Quelles solutions ont été apportées aux problèmes initialement définis par les administrations ? Quelles ont été les réussites des EIG et de leurs mentors en termes de transformation numérique, d'ouverture des données et des codes sources ? Quels ont été les apprentissages de cette deuxième promotion ? Quels impacts de ce dispositif d'innovation ouverte pour la transformation numérique de l'action publique ?*
 
