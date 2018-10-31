@@ -17,7 +17,7 @@ adresse: '42 avenue des Gobelins, 75013 Paris
 '
 champs_informations:
 - intitule: 'Modalités : '
-  contenu: 'Inscription '
+  contenu: 'Inscription gratuite '
   lien: https://www.eventbrite.fr/e/billets-entrepreneure-dinteret-general-decouvrez-les-realisations-de-la-promo-2-51705495529
 ---
 
