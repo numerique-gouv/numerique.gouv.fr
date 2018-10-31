@@ -25,7 +25,7 @@ acces:
   - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur, Ligne 13 : Saint-François-Xavier'
 champs_informations:
 - intitule: 'Inscription par mail '
-  contenu: 'christine.balian@modernisation.gouv.fr                     '
+  contenu: 'christine.balian@modernisation.gouv.fr   '
 ---
 
 **Acteur public,** vous êtes en charge d'une démarche en ligne et souhaitez améliorer l'expérience de vos utilisateurs ?
@@ -40,8 +40,10 @@ La direction interministérielle du numérique et du système d'information et d
 
 ## Au programme :
 
-**9h30-11h30 :** rencontre avec l’équipe [Designers Italia](https://designers.italia.it/){:target="_blank"}
-Ils animent depuis 2 ans une communauté UX des acteurs publics italiens. Ils viendront nous faire leurs retours d’expérience et présenter leur boîte à outils. 
+**9h30-11h30 :** 
+* présentation par la DINSIC de la communauté UX-Expérience utilisateur de l'État
+* rencontre avec l’équipe [Designers Italia](https://designers.italia.it/){:target="_blank"}
+Depuis 2 ans, ils animent une communauté UX des acteurs publics italiens. Ils viendront nous faire leurs retours d’expérience et présenter leur boîte à outils. 
 
 **11h30-12h30 :** ateliers au choix
 * **Atelier Travailler ensemble :**  Comment constituer une équipe de conception de rêve (quelles compétences sont nécessaires, simplifier l’accès aux marchés publics)
@@ -53,5 +55,5 @@ Ils animent depuis 2 ans une communauté UX des acteurs publics italiens. Ils vi
 
 * **Atelier Nom :** Quel nom pour le programme ?
 
-Événement **ouvert à tous, merci de vous inscrire par courriel** 
+Événement **ouvert à tous, merci de [vous inscrire par courriel](mailto:christine.balian@modernisation.gouv.fr)** 
 en indiquant votre atelier préféré !
