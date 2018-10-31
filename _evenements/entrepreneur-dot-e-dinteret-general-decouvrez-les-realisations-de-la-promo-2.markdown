@@ -1,7 +1,7 @@
 ---
 title: 'Entrepreneur.e d''intérêt général : Découvrez les réalisations de la promo
   2'
-date: 2018-11-15 10:40:00 +01:00
+date: 2018-10-31 10:40:00 +01:00
 tags:
 - Entrepreneur d'Intérêt Général
 - Etalab
@@ -10,6 +10,7 @@ chapeau-text: 'En janvier 2018, une **2e promotion d’entrepreneur.e.s d’int�
   en lien avec le numérique et les données. '
 une-ou-diaporama:
 - image: "/uploads/eig.jpg"
+event_start_date: 2018-11-15 00:00:00 +01:00
 lieu: Manufacture des Gobelins
 adresse: '42 avenue des Gobelins, 75013 Paris
 
