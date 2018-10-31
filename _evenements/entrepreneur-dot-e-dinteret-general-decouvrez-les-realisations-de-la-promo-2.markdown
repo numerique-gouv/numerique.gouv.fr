@@ -2,6 +2,9 @@
 title: 'Entrepreneur.e d''intérêt général : Découvrez les réalisations de la promo
   2'
 date: 2018-11-15 10:40:00 +01:00
+tags:
+- Entrepreneur d'Intérêt Général
+- Etalab
 chapeau-text: 'En janvier 2018, une **2e promotion d’entrepreneur.e.s d’intérêt général**
   intégrait l’administration* pour relever **13 défis d’amélioration du service public**
   en lien avec le numérique et les données. '
