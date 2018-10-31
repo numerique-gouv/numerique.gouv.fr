@@ -6,7 +6,7 @@ une-ou-diaporama:
   alternative-textuelle: Bilan d'activité DINSIC 2017-2018
 ---
 
-La direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) conduit un important chantier interministériel visant à **assurer la qualité, la modernité et l’efficacité du système d’information (SI) de l’État** tout en le mettant **au service du développement des nouveaux usages et de la transformation des métiers des administrations.**
+La direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) conduit un important chantier interministériel visant à assurer la qualité, la modernité et l’efficacité du système d’information (SI) de l’État tout en le mettant **au service du développement des nouveaux usages et de la transformation des métiers des administrations.**
 
 Cette mission la conduit à conjuguer une grande variété de métiers et de formats d’intervention : elle opère le réseau d’échanges de données et de communications
 électroniques (réseau interministériel de l’État - RIE), veille à la qualité et à
