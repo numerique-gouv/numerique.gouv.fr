@@ -9,7 +9,7 @@ chapeau-text: 'En janvier 2018, une **2e promotion d’entrepreneur.e.s d’int�
   intégrait l’administration* pour relever **13 défis d’amélioration du service public**
   en lien avec le numérique et les données. '
 une-ou-diaporama:
-- image: "/uploads/eig.jpg"
+- image: "/uploads/EIG-promotion2.jpg"
 event_start_date: 2018-11-15 00:00:00 +01:00
 lieu: Manufacture des Gobelins
 adresse: '42 avenue des Gobelins, 75013 Paris
