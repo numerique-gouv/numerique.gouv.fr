@@ -32,6 +32,5 @@ Le cœur de la démarche proposée repose sur l’organisation d’ateliers d’
 Si la méthode a été prioritairement élaborée pour des administrations, elle est à la disposition de tout acteur, public comme privé.
 
 > ## Participez à l’évolution du guide
->
-> Déjà enrichie après une phase d’appel à commentaires, la présente version du guide ne constitue encore qu’un point de départ. Appliquez à votre tour la méthodologie proposée, telle quelle ou en l’adaptant, et faites-nous part de vos retours d’expérience et suggestions à [securite-agile@beta.gouv.fr](mailto:securite-agile@beta.gouv.fr). Comme toute équipe agile, nous nous engageons à tenir compte des enseignements du terrain.
-> {: .encadre}
+Déjà enrichie après une phase d’appel à commentaires, la présente version du guide ne constitue encore qu’un point de départ. Appliquez à votre tour la méthodologie proposée, telle quelle ou en l’adaptant, et faites-nous part de vos retours d’expérience et suggestions à [securite-agile@beta.gouv.fr](mailto:securite-agile@beta.gouv.fr). Comme toute équipe agile, nous nous engageons à tenir compte des enseignements du terrain.
+{: .encadre}
