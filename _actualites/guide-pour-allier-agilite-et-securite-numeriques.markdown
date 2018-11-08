@@ -30,7 +30,7 @@ Si la méthode a été prioritairement élaborée pour des administrations, elle
 [![couv-guide_agilite-et-securite-numeriques_100.jpg](/uploads/couv-guide_agilite-et-securite-numeriques_100.jpg)](/uploads/guide_agilite-et-securite-numeriques.pdf)
 {: .text-center}
 
-> [Télécharger le guide Agilité et sécurité numériques - Méthode et outils à l'usage des équipes projet](/uploads/guide_agilite-et-securite-numeriques.pdf) (pdf - 3,10 Mo)
+> [Télécharger le guide Agilité & sécurité numériques - Méthode et outils à l'usage des équipes projet](/uploads/guide_agilite-et-securite-numeriques.pdf) (pdf - 3,10 Mo)
 {: .lien-important}
 
 > ## Participez à l’évolution du guide
