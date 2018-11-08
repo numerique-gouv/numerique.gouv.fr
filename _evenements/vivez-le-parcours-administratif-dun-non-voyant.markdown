@@ -22,7 +22,7 @@ champs_informations:
 - intitule: 'Horaires '
   contenu: 10h30 - 12h00
 - intitule: 'Modalités '
-  Key: 'Inscription obligatoire '
+  contenu: 'Inscription obligatoire '
   lien: https://www.eventbrite.fr/e/billets-demonstration-le-parcours-administratif-en-ligne-dun-non-voyant-52226952220
 ---
 
