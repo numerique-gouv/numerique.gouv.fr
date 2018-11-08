@@ -33,8 +33,10 @@ De **10h30 à midi** Fernando PINTO da SILVA - animateur des travaux sur le num�
 Il naviguera au clavier sur les sites publics et utilisera des assistants techniques comme un lecteur d'écran ou une plage braille.
 
 Venez voir de vos yeux :
-• les conséquences positives de la qualité web pour un non-voyant et pour bien d'autres utilisateur, 
-•les blocages qui peuvent intervenir en cas de lacune ou de méconnaissance des critères de qualité web et d'accessibilité numérique.
+
+* les conséquences positives de la qualité web pour un non-voyant et pour bien d'autres utilisateur, 
+
+* les blocages qui peuvent intervenir en cas de lacune ou de méconnaissance des critères de qualité web et d'accessibilité numérique.
 
  
 **Événement ouvert à tous !** 
