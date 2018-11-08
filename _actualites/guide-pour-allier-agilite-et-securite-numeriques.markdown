@@ -25,7 +25,7 @@ Pour aider les équipes dans cette démarche, la direction interministérielle d
 
 ![couv-guide_agilite-et-securite-numeriques_200px-b0a4bb.png](/uploads/couv-guide_agilite-et-securite-numeriques_200px-b0a4bb.png){:height="142px" width="100px"}(/uploads/guide_agilite-et-securite-numeriques.pdf)
 > Télécharger [le guide Agilité et sécurité numérique - Méthode et outils à l'usage des équipes projet](/uploads/guide_agilite-et-securite-numeriques.pdf) (pdf - 3,10 Mo)
-> {: .lien-important}
+{: .lien-important}
 
 Le cœur de la démarche proposée repose sur l’organisation d’ateliers d’appréciation des risques et prépare à l’homologation des services numériques et applications.
 
