@@ -40,4 +40,5 @@ Venez voir de vos yeux :
 
  
 **Événement ouvert à tous !** 
+
 [**Inscription obligatoire**](https://www.eventbrite.fr/e/billets-demonstration-le-parcours-administratif-en-ligne-dun-non-voyant-52226952220)
