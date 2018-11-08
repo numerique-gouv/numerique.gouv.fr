@@ -13,12 +13,17 @@ chapeau-text: Vous développez des services numériques en mode agile ? Leur sé
   vos utilisateurs ? Pour vous, l’ANSSI et la DINSIC ont élaboré une méthode simple
   et concrète permettant d’allier agilité et sécurité numériques, qu’ils publient
   aujourd’hui dans un guide ouvert à tous.
+une-ou-diaporama:
+- image: "/uploads/guide_agilite-et-securite-numeriques_une.png"
+  alternative-textuelle: Agilité et sécurité numérique - Méthode et outils à l'usage
+    des équipes projet
 ---
 
 Fournir un service de qualité à l’utilisateur, à moindre coût, qui réponde à ses besoins tout en le protégeant des fraudes, cyberattaques et autres vols de données personnelles. C’est en intégrant au plus tôt dans le développement les principes de l’agilité et de sécurité numériques que cet objectif peut être tenu.
 
 Pour aider les équipes dans cette démarche, la direction interministérielle du numérique et du SI d’Etat (DINSIC) et l’agence nationale de la sécurité des systèmes d’information (ANSSI) ont conjugué leurs expertises respectives et conçu une méthodologie inédite résolument pratique, détaillée pas à pas dans un guide.
 
+![couv-guide_agilite-et-securite-numeriques_200px-b0a4bb.png](/uploads/couv-guide_agilite-et-securite-numeriques_200px-b0a4bb.png){:height="142px" width="100px"}(/uploads/guide_agilite-et-securite-numeriques.pdf)
 > Télécharger [le guide Agilité et sécurité numérique - Méthode et outils à l'usage des équipes projet](/uploads/guide_agilite-et-securite-numeriques.pdf) (pdf - 3,10 Mo)
 > {: .lien-important}
 
