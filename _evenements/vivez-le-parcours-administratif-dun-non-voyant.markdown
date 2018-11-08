@@ -21,19 +21,22 @@ acces:
 champs_informations:
 - intitule: 'Horaires '
   contenu: 10h30 - 12h00
-- intitule: 'Contact '
-  contenu: rachel.wadoux@modernisation.gouv.fr
+- Key: Modalités
+  intitule: 'Inscription obligatoire  '
+  lien: https://www.eventbrite.fr/e/billets-demonstration-le-parcours-administratif-en-ligne-dun-non-voyant-52226952220
 ---
 
 **Au programme :**
 
-De **10h30 à midi** Fernando PINTO da SILVA (animateur des travaux sur le numérique au sein du Conseil National Consultatif des Personnes Handicapées) vous proposera une  démonstration de plusieurs parcours administratifs en ligne, pour un aveugle, pour des démarches telles que :
+De **10h30 à midi** Fernando PINTO da SILVA - animateur des travaux sur le numérique au sein du Conseil National Consultatif des Personnes Handicapées - vous proposera une  démonstration de plusieurs parcours administratifs en ligne.
  
-* Recherche d’un emploi sur [pole-emploi.fr](https://www.pole-emploi.fr/accueil/){:target="_blank"}
-* Actualisation situation sur [pole-emploi.fr](https://www.pole-emploi.fr/accueil/){:target="_blank"}
-* Déclaration sur [net-entreprises.fr](https://www.net-entreprises.fr/){:target="_blank"}
-* Déclaration [cesu.urssaf.fr](https://www.cesu.urssaf.fr/info/accueil.html){:target="_blank"}
-* Démarche sur [caf.fr](http://www.caf.fr/){:target="_blank"}
-* [Impots.gouv.fr](https://www.impots.gouv.fr/portail/){:target="_blank"}
+Il naviguera au clavier sur les sites publics et utilisera des assistants techniques comme un lecteur d'écran ou une plage braille.
+
+Venez voir de vos yeux :
+
+* les conséquences positives de la qualité web pour un non-voyant et pour bien d'autres utilisateur, 
+
+* les blocages qui peuvent intervenir en cas de lacune ou de méconnaissance des critères de qualité web et d'accessibilité numérique.
+
  
 **Événement ouvert à tous !** 
