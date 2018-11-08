@@ -23,7 +23,8 @@ Fournir un service de qualité à l’utilisateur, à moindre coût, qui répond
 
 Pour aider les équipes dans cette démarche, la direction interministérielle du numérique et du SI d’Etat (DINSIC) et l’Agence nationale de la sécurité des systèmes d’information (ANSSI) ont conjugué leurs expertises respectives et conçu une méthodologie inédite résolument pratique, détaillée pas à pas dans un guide.
 
-[![couv-guide_agilite-et-securite-numeriques_200px-b0a4bb.png](/uploads/couv-guide_agilite-et-securite-numeriques_200px-b0a4bb.png)](/uploads/guide_agilite-et-securite-numeriques.pdf){:height="142px" width="100px" .text-center}
+[![couv-guide_agilite-et-securite-numeriques_200px-b0a4bb.png](/uploads/couv-guide_agilite-et-securite-numeriques_200px-b0a4bb.png)](/uploads/guide_agilite-et-securite-numeriques.pdf)
+{:height="142px" width="100px" .text-center}
 
 > Télécharger [le guide Agilité et sécurité numérique - Méthode et outils à l'usage des équipes projet](/uploads/guide_agilite-et-securite-numeriques.pdf) (pdf - 3,10 Mo)
 {: .lien-important}
