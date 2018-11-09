@@ -39,9 +39,9 @@ Comment les nouvelles technologies peuvent améliorer les services publics et le
 La DINSIC participe à l’événement !
 
 
-**Table ronde de 10h25 à 11h15, salon Bertrand, Hôtel de ville de Paris**
+**Table ronde "Govtech stories - how public entrepreneurs build impactful digital products and change public services" de 10h25 à 11h15, salon Bertrand, Hôtel de ville de Paris**
 
-"Govtech stories - how public entrepreneurs build impactful digital products and change public services", avec 
+En présence de : 
 
 * Laure Lucchesi, Director, Etalab, France 
 * Mohammed Adnène Trojette, Secrétaire général adjoint, Cour des comptes
