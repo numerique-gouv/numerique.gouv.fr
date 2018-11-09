@@ -50,7 +50,7 @@ La DINSIC participe à l’événement !
 * Tiphaine Phe-Neau, Entrepreneur d’intérêt général, Etalab
 
 
-**Programme des démos, de 8h à 18h, salon des Arcades de l'Hôtel de ville de Paris**
+**Démos, de 8h à 18h, salon des Arcades de l'Hôtel de ville de Paris**
 
 Toute la journée, venez découvrir les services numériques développés par l'incubateur de services numériques beta.gouv.fr, les entrepreneurs d'intérêt général et Etalab sur le stand de la DINSIC situé dans le salon des Arcades de l'Hôtel de ville de Paris.
 
