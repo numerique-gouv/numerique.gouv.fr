@@ -76,14 +76,11 @@ Gobelins, consulter les objets et savoir-faire du Mobilier national en quelques 
 * Salon Bertrand, 10h25 - 11h15 : "Govtech stories - how public entrepreneurs build impactful digital products and change public services", avec 
 
 Laure Lucchesi, Director, Etalab, France 
-
 Mohammed Adnène Trojette, Secrétaire général adjoint, Cour des comptes
-
 Frédéric Bardolle, Chef de l’incubateur de services numériques, ministère des Armées
-
 John Paul Farmer, Director, Microsoft Cities
-
 Tiphaine Phe-Neau, Entrepreneur d’intérêt général, Etalab
+
 
 
 > Il n’y a jamais eu de meilleur moment pour rendre les services publics plus accessibles et plus abordables en utilisant de nouvelles solutions technologiques. Le Sommet des GovTech est une occasion unique pour les agents publics, les intellectuels, les innovateurs et les investisseurs de se rencontrer, d’échanger et de discuter de l'avenir de l’action publique et de la démocratie. Nous avons hâte de les accueillir tous à Paris.
