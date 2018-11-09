@@ -38,9 +38,21 @@ Comment les nouvelles technologies peuvent améliorer les services publics et le
 
 La DINSIC participe à l’événement !
 
-Toute la journée, venez découvrir les services numériques développés par l'incubateur de services numériques beta.gouv.fr, les entrepreneurs d'intérêt général et Etalab sur le stand de la DINSIC situé dans le salon des Arcades de l'Hôtel de ville de Paris.
+
+**Table ronde de 10h25 à 11h15, salon Bertrand, Hôtel de ville de Paris**
+
+"Govtech stories - how public entrepreneurs build impactful digital products and change public services", avec 
+
+* Laure Lucchesi, Director, Etalab, France 
+* Mohammed Adnène Trojette, Secrétaire général adjoint, Cour des comptes
+* Frédéric Bardolle, Chef de l’incubateur de services numériques, ministère des Armées
+* John Paul Farmer, Director, Microsoft Cities
+* Tiphaine Phe-Neau, Entrepreneur d’intérêt général, Etalab
+
 
 **Programme des démos, de 8h à 18h, salon des Arcades de l'Hôtel de ville de Paris**
+
+Toute la journée, venez découvrir les services numériques développés par l'incubateur de services numériques beta.gouv.fr, les entrepreneurs d'intérêt général et Etalab sur le stand de la DINSIC situé dans le salon des Arcades de l'Hôtel de ville de Paris.
 
 **8h - 11h**
 * Prédisauvetage, sauver des vies en prévenant les accidents maritimes grâce aux données
@@ -62,17 +74,6 @@ Toute la journée, venez découvrir les services numériques développés par l'
 **15h30 - 18h** 
 * Plateforme Ouverte du Patrimoine, la richesse du patrimoine français à portée de clic
 * Gobelins, consulter les objets et savoir-faire du Mobilier national en quelques clics
-
-**Table ronde de 10h25 à 11h15, salon Bertrand, Hôtel de ville de Paris**
-
-"Govtech stories - how public entrepreneurs build impactful digital products and change public services", avec 
-
-* Laure Lucchesi, Director, Etalab, France 
-* Mohammed Adnène Trojette, Secrétaire général adjoint, Cour des comptes
-* Frédéric Bardolle, Chef de l’incubateur de services numériques, ministère des Armées
-* John Paul Farmer, Director, Microsoft Cities
-* Tiphaine Phe-Neau, Entrepreneur d’intérêt général, Etalab
-
 
 
 > Il n’y a jamais eu de meilleur moment pour rendre les services publics plus accessibles et plus abordables en utilisant de nouvelles solutions technologiques. Le Sommet des GovTech est une occasion unique pour les agents publics, les intellectuels, les innovateurs et les investisseurs de se rencontrer, d’échanger et de discuter de l'avenir de l’action publique et de la démocratie. Nous avons hâte de les accueillir tous à Paris.
