@@ -44,31 +44,45 @@ Toute la journée, venez découvrir les services numériques développés par l'
 
 * 8h - 11h :
 Prédisauvetage, sauver des vies en prévenant les accidents maritimes grâce aux données
+
 FranceConnect, simplifier l'accès aux services publics en ligne pour les citoyens
+
 Cobot, un chatbot au service de la contribution citoyenne
 
 * 11h - 13h :
 Brigade numérique, moderniser la fonction d'accueil en gendarmerie
+
 Plateforme des outils de consultation de l'État, déployer ses outils de consultation citoyenne en quelques clics
+
 OpenFisca, simuler l'impact de la loi, c'est possible !
+
 Data.gouv.fr, plateforme ouverte des données publiques françaises
 
 * 13h - 15h30
 My Company in France, le guide pratique pour créer son entreprise en France
+
 Demarches-simplifiees.fr, dématérialiser une démarche administrative en quelques clics
+
 Transport.data.gouv.fr, garantir aux usagers une information fiable sur leurs déplacements quotidiens
+
 Signaux Faibles, faire l'objet d'une détection et d'un accompagnement ciblé quand son entreprise est en difficulté
 
 * 15h30 - 18h : 
 Plateforme Ouverte du Patrimoine, la richesse du patrimoine français à portée de clic
+
 Gobelins, consulter les objets et savoir-faire du Mobilier national en quelques clics
 
 **Table ronde**
-* Salon Bertrand, 10h25 - 11h15 : Govtech stories - how public entrepreneurs build impactful digital products and change public services, avec 
-Laure Lucchesi, Director, Etalab, France (moderator)
+* Salon Bertrand, 10h25 - 11h15 : "Govtech stories - how public entrepreneurs build impactful digital products and change public services", avec 
+
+Laure Lucchesi, Director, Etalab, France 
+
 Mohammed Adnène Trojette, Secrétaire général adjoint, Cour des comptes
-Frédéric Bardolle, Chef de l’incubateur de services numériques, Ministère des Armées
+
+Frédéric Bardolle, Chef de l’incubateur de services numériques, ministère des Armées
+
 John Paul Farmer, Director, Microsoft Cities
+
 Tiphaine Phe-Neau, Entrepreneur d’intérêt général, Etalab
 
 
