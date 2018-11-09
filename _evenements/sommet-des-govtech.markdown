@@ -43,27 +43,25 @@ Toute la journée, venez découvrir les services numériques développés par l'
 **Programme des démos**
 
 * 8h - 11h :
-1. Prédisauvetage, sauver des vies en prévenant les accidents maritimes grâce aux données
-
-2. FranceConnect, simplifier l'accès aux services publics en ligne pour les citoyens
-
-3. Cobot, un chatbot au service de la contribution citoyenne
+Prédisauvetage, sauver des vies en prévenant les accidents maritimes grâce aux données
+FranceConnect, simplifier l'accès aux services publics en ligne pour les citoyens
+Cobot, un chatbot au service de la contribution citoyenne
 
 * 11h - 13h :
-  1. Brigade numérique, moderniser la fonction d'accueil en gendarmerie
-  1. Plateforme des outils de consultation de l'État, déployer ses outils de consultation citoyenne en quelques clics
-  1. OpenFisca, simuler l'impact de la loi, c'est possible !
-  1. Data.gouv.fr, plateforme ouverte des données publiques françaises
+Brigade numérique, moderniser la fonction d'accueil en gendarmerie
+Plateforme des outils de consultation de l'État, déployer ses outils de consultation citoyenne en quelques clics
+OpenFisca, simuler l'impact de la loi, c'est possible !
+Data.gouv.fr, plateforme ouverte des données publiques françaises
 
 * 13h - 15h30
-  1. My Company in France, le guide pratique pour créer son entreprise en France
-  1. Demarches-simplifiees.fr, dématérialiser une démarche administrative en quelques clics
-  1. Transport.data.gouv.fr, garantir aux usagers une information fiable sur leurs déplacements quotidiens
-  1. Signaux Faibles, faire l'objet d'une détection et d'un accompagnement ciblé quand son entreprise est en difficulté
+My Company in France, le guide pratique pour créer son entreprise en France
+Demarches-simplifiees.fr, dématérialiser une démarche administrative en quelques clics
+Transport.data.gouv.fr, garantir aux usagers une information fiable sur leurs déplacements quotidiens
+Signaux Faibles, faire l'objet d'une détection et d'un accompagnement ciblé quand son entreprise est en difficulté
 
 * 15h30 - 18h : 
-1. Plateforme Ouverte du Patrimoine, la richesse du patrimoine français à portée de clic
-1. Gobelins, consulter les objets et savoir-faire du Mobilier national en quelques clics
+Plateforme Ouverte du Patrimoine, la richesse du patrimoine français à portée de clic
+Gobelins, consulter les objets et savoir-faire du Mobilier national en quelques clics
 
 **Table ronde**
 * Salon Bertrand, 10h25 - 11h15 : Govtech stories - how public entrepreneurs build impactful digital products and change public services, avec 
