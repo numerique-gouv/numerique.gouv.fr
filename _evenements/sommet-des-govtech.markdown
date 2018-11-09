@@ -40,22 +40,17 @@ La DINSIC participe à l’événement !
 
 Toute la journée, venez découvrir les services numériques développés par l'incubateur de services numériques beta.gouv.fr, les entrepreneurs d'intérêt général et Etalab sur le stand de la DINSIC situé dans le salon des Arcades de l'Hôtel de ville de Paris.
 
-**Programme des démos**
+**Programme des démos, de 8h à 18h, salon des Arcades de l'Hôtel de ville de Paris**
 
 **8h - 11h**
 * Prédisauvetage, sauver des vies en prévenant les accidents maritimes grâce aux données
-
 * FranceConnect, simplifier l'accès aux services publics en ligne pour les citoyens
-
 * Cobot, un chatbot au service de la contribution citoyenne
 
 **11h - 13h**
-Brigade numérique, moderniser la fonction d'accueil en gendarmerie
-
+* Brigade numérique, moderniser la fonction d'accueil en gendarmerie
 * Plateforme des outils de consultation de l'État, déployer ses outils de consultation citoyenne en quelques clics
-
 * OpenFisca, simuler l'impact de la loi, c'est possible !
-
 * Data.gouv.fr, plateforme ouverte des données publiques françaises
 
 **13h - 15h30**
@@ -68,8 +63,9 @@ Brigade numérique, moderniser la fonction d'accueil en gendarmerie
 * Plateforme Ouverte du Patrimoine, la richesse du patrimoine français à portée de clic
 * Gobelins, consulter les objets et savoir-faire du Mobilier national en quelques clics
 
-**Table ronde**
-* Salon Bertrand, 10h25 - 11h15 : "Govtech stories - how public entrepreneurs build impactful digital products and change public services", avec 
+**Table ronde de 10h25 à 11h15, salon Bertrand, Hôtel de ville de Paris**
+
+"Govtech stories - how public entrepreneurs build impactful digital products and change public services", avec 
 
 * Laure Lucchesi, Director, Etalab, France 
 * Mohammed Adnène Trojette, Secrétaire général adjoint, Cour des comptes
