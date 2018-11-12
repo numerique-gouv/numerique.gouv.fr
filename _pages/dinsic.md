@@ -19,5 +19,7 @@ La direction interministérielle du numérique et du système d’information et
 
 La DINSIC est un **service du Premier ministre**, placé sous l’autorité du ministre de l'Action et des Comptes publics, et mis à la disposition du ministre de l'Economie et des Finances et du secrétaire d'Etat chargé du Numérique.
 
+> [Télécharger l'organigramme de la DINSIC](/uploads/Organigramme_dinsic.pdf)(pdf - 550 ko)
+{: .lien-important}
 
 Les textes fondateurs : [décret du 21 septembre 2015](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031194412&categorieLien=cid){:target="_blank"} et [décret du 20 novembre 2017](https://www.legifrance.gouv.fr/eli/decret/2017/11/20/PRMX1732385D/jo/texte){:target="_blank"}.
