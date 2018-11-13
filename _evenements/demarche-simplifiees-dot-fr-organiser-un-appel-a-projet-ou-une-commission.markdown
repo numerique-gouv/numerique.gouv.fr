@@ -1,7 +1,6 @@
 ---
 title: '"DEMARCHE-SIMPLIFIEES.FR" : Organiser un appel à projet ou une commission'
 date: 2018-11-13 10:12:00 +01:00
-published: false
 categories:
 - Atelier
 tags:
