@@ -1,5 +1,5 @@
 ---
-title: Atelier demarches-simplifiees.fr - Comment utiliser les API pour une meilleure  intégration
+title: demarches-simplifiees.fr - Comment utiliser les API pour une meilleure  intégration
   avec les SI métiers ?
 date: 2018-11-13 10:36:00 +01:00
 categories:
@@ -31,9 +31,9 @@ champs_informations:
   lien: contact@demarches-simplifiees.fr
 ---
 
-[demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/){:target="_blank"} est un service en ligne de dématérialisation des démarches administratives fourni par la direction interministérielle du numérique qui **autorise des interactions via API avec des SI métiers.**
+[demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/){:target="_blank"}, service en ligne de dématérialisation des démarches administratives fourni par la direction interministérielle du numérique qui **autorise des interactions via API avec des SI métiers.**
 
-Agents publics, cet atelier vous permettra de **mieux comprendre le potentiel d'interopérabilité** de [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/){:target="_blank"} avec leurs applications internes à partir d'exemples concrets, de **découvrir des exemples d’intégration** (CGDD, qui a intégré les informations cartographiques ) mais aussi **d'étudier les évolutions qu’il serait nécessaire d’effectuer pour que [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/) soit encore plus interopérable avec les SI**
+Cet atelier vous permettra de **mieux comprendre le potentiel d'interopérabilité** de [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/){:target="_blank"} avec leurs applications internes à partir d'exemples concrets, de **découvrir des exemples d’intégration** (CGDD, qui a intégré les informations cartographiques ) mais aussi **d'étudier les évolutions qu’il serait nécessaire d’effectuer pour que DS soit encore plus interopérable avec les SI**
 
 **Au programme de l'après-midi :**
 
