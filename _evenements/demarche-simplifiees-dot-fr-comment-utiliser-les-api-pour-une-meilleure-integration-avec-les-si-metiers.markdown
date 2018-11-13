@@ -36,3 +36,10 @@ Démarches-simplifies.fr](https://www.demarches-simplifiees.fr/){:target="_blank
 Cette séance de travail vous permettra de **mieux comprendre le potentiel d'interopérabilité** de [Démarches-simplifies.fr](https://www.demarches-simplifiees.fr/){:target="_blank"} avec vos applications internes, à partir d'exemples concrets.
 
 Ce sera l’occasion de **découvrir des exemples d’intégration** (CGDD, qui a intégré les informations cartographiques ) mais aussi **d'étudier les évolutions qu’il serait nécessaire d’effectuer pour que DS soit encore plus interopérable avec les SI**
+
+**Au programme de l'après-midi :**
+
+* Présentation de l'utilisation des API au sein de démarches simplfiees.
+* Présentation de l'API de récupération des données (exemples concrets)
+* Travaux à prévoir autour des API
+
