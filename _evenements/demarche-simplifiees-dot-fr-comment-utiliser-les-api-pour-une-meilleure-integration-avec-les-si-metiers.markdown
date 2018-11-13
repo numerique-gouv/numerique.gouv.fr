@@ -15,6 +15,6 @@ chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://ww
 
 Démarches-simplifies.fr de la DINSIC est un service en ligne de dématérialisation des démarches administratives qui **autorise des interactions via API avec des SI métiers.**
 
-Cette séance de travail vous permettra de **mieux comprendre le potentiel d'interopérabilité de Démarches-simplifies.fr avec vos applications internes, à partir d'exemples concrets.
+Cette séance de travail vous permettra de **mieux comprendre le potentiel d'interopérabilité de [Démarches-simplifies.fr](https://www.demarches-simplifiees.fr/){:target="_blank"} avec vos applications internes, à partir d'exemples concrets.
 
 Ce sera l’occasion de découvrir des exemples d’intégration (CGDD, qui a intégré les informations cartographiques ) mais aussi d'étudier les évolutions qu’il serait nécessaire d’effectuer pour que DS soit encore plus interopérable avec les SI (API en écriture…)
