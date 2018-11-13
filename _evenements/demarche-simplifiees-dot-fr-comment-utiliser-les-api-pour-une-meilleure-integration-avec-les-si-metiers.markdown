@@ -31,7 +31,7 @@ champs_informations:
   lien: contact@demarches-simplifiees.fr
 ---
 
-Démarches-simplifies.fr](https://www.demarches-simplifiees.fr/){:target="_blank"}  de la DINSIC est un service en ligne de dématérialisation des démarches administratives qui **autorise des interactions via API avec des SI métiers.**
+Démarches-simplifies.fr](https://www.demarches-simplifiees.fr/){:target="_blank"} de la DINSIC est un service en ligne de dématérialisation des démarches administratives qui **autorise des interactions via API avec des SI métiers.**
 
 Cette séance de travail vous permettra de **mieux comprendre le potentiel d'interopérabilité** de [Démarches-simplifies.fr](https://www.demarches-simplifiees.fr/){:target="_blank"} avec vos applications internes, à partir d'exemples concrets.
 
