@@ -16,7 +16,7 @@ principes:
     objectif, piloté par un directeur de projet mandaté et reconnu.
 - principe: 
   order: 2
-  title: 2. Résolvons un problème plutôt que construire une solution
+  title: 2 - Résolvons un problème plutôt que construire une solution
   content-text: |-
     Soyons ambitieux dans nos cibles tout en avançant par étapes.
 
