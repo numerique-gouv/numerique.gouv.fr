@@ -27,3 +27,4 @@ publications:
   - image: "/uploads/9%20Principes%20cl%C3%A9%20de%20r%C3%A9ussite%20des%20grands%20projets%20SI.JPG"
 layout: publications
 ---
+
