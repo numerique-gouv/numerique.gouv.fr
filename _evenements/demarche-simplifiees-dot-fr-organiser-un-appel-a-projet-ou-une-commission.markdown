@@ -7,7 +7,7 @@ tags:
 - démarches en ligne
 chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
   la direction interministérielle du numérique organise une matinée autour de l'outil
-  [DEMARCHES-SIMPLIFIEES.FR](https://www.demarches-simplifiees.fr/){:target="_blank"}
+  [Démarches-simplifies.fr](https://www.demarches-simplifiees.fr/){:target="_blank"}
   afin de découvrir comment organiser un appel à projet ou une commission.
 une-ou-diaporama:
 - image: "/uploads/demarches-simplifiees_fr.png"
