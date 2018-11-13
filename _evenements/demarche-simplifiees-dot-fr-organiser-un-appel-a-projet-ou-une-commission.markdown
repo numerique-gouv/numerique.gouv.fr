@@ -10,9 +10,18 @@ chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://ww
   [DEMARCHES-SIMPLIFIEES.FR](https://www.demarches-simplifiees.fr/){:target="_blank"}
 une-ou-diaporama:
 - image: "/uploads/demarches-simplifiees_fr.png"
+  alternative-textuelle: dématérialiser et simplifier les démarches administratives
 event_start_date: 2018-11-23 09:30:00 +01:00
 lieu: DINSIC
 adresse: 20 avenue de ségur, 75007 PARIS
+acces:
+- type: 'Métro : '
+  lignes:
+  - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur, Ligne 13 : Saint-François-Xavier'
+champs_informations:
+- intitule: Modalité
+  contenu: 'Inscription obligatoire '
+  lien: 'https://demarches-simplifiees.fr/commencer/inscription-organisation-appelaprojet '
 ---
 
 Afin de vous présenter les nombreux avantages de l'outil ["demarches-simplifiees.fr"](https://www.demarches-simplifiees.fr/){:target="_blank"} pour ce type de démarches, l'équipe démarches simplifiées organise un atelier pratique à destination de tous les acteurs publics concernés tels les ministères, les agences, ou les associations d’intérêt public.
