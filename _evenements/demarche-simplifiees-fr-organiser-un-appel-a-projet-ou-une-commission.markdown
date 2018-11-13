@@ -1,12 +1,12 @@
 ---
-title: '"DEMARCHE-SIMPLIFIEES.FR" : Organiser un appel à projet ou une commission'
+title: demarches-simplifiees.fr - Organiser un appel à projet ou une commission
 date: 2018-11-13 10:12:00 +01:00
 categories:
 - Atelier
 tags:
 - démarches en ligne
 chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
-  la direction interministérielle du numérique organise une matinée autour de l'outil
+  la direction interministérielle du numérique organise un atelier autour de l'outil
   [Démarches-simplifies.fr](https://www.demarches-simplifiees.fr/){:target="_blank"}
   afin de découvrir comment organiser un appel à projet ou une commission.
 une-ou-diaporama:
