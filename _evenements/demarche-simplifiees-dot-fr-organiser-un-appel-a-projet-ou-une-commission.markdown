@@ -28,7 +28,7 @@ champs_informations:
   lien: 'https://demarches-simplifiees.fr/commencer/inscription-organisation-appelaprojet '
 ---
 
-Afin de vous présenter les nombreux avantages de l'outil ["demarches-simplifiees.fr"](https://www.demarches-simplifiees.fr/){:target="_blank"} pour ce type de démarches, l'équipe démarches simplifiées organise un **atelier pratique** à destination de **tous les acteurs publics** concernés tels les ministères, les agences, ou les associations d’intérêt public.
+Afin de vous présenter les nombreux avantages de l'outil ["demarches-simplifiees.fr"] (https://www.demarches-simplifiees.fr/){:target="_blank"} pour ce type de démarches, l'équipe démarches simplifiées organise un **atelier pratique** à destination de **tous les acteurs publics** concernés tels les ministères, les agences, ou les associations d’intérêt public.
 
 Cette formation se tiendra sur la matinée. L'atelier permettra de **découvrir les potentialités d'usage de ce service** créé par la DINSIC, et en particulier toutes les capacités d'organisation des phases d'instruction collaborative et de décisions collégiales qu'il autorise.
 
