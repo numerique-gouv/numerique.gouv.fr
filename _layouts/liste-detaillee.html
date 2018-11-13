@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<div id="dinsic-page" class="post gray-background ">
+  <div class="object-fit__image-container">
+    <img class="object-fit__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
+  </div>
+  <a id="content" tabindex="-1"></a>
+  <article>
+    <section class="cell white-container padding-large-5 padding-medium-1" >
+      {% include components/titre-page-fille.html %}
+      <h2 class="font-bold margin-top-3">
+      </h2>
+      <div class="h2 text-center">
+        {{ page.subtitle }}
+      </div>
+    </section>
+
+    <div class="cell grid-x">
+      <div id="list" class="cell white-container">
+        {% for principe in page.principes %}
+        <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h4 class="">{{ principe.title | markdownify}}</h4>
+          {{ principe.content-text | markdownify }}
+
+          {% if forloop.last == false %}
+          <div class="flex-container margin-top-2">
+            <i class="fas fa-angle-down icon-arrow-down"></i>
+          </div>
+          {% endif %}
+        </section>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="text-center margin-top-2 padding-bottom-2 font-bold">
+      <a target="_blank" class="blue-link" id="fileSize-{{ post.url | replace: ' ', '' }}" href="{{base}}{{ page.pdf }}">
+        <span class="fas fa-download margin-horizontal-1"></span>
+        <span class="pdf">Télécharger la version imprimable des 10 principes (PDF</span>
+      </a>
+    </div>
+  </article>
+</div>
+
+
+
