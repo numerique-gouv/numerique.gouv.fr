@@ -27,7 +27,7 @@ champs_informations:
   contenu: Inscription obligatoire
   lien: 'https://demarches-simplifiees.fr/commencer/presentation-de-l-api '
 - intitule: 'Contact '
-  contenu: '0176420287'
+  contenu: contact@demarches-simplifiees.fr
   lien: contact@demarches-simplifiees.fr
 ---
 
