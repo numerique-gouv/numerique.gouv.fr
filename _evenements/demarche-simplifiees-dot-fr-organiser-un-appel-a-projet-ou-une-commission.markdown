@@ -26,6 +26,9 @@ champs_informations:
 - intitule: Modalité
   contenu: 'Inscription obligatoire '
   lien: 'https://demarches-simplifiees.fr/commencer/inscription-organisation-appelaprojet '
+- intitule: Contact
+  contenu: contact@demarches-simplifiees.fr
+  lien: contact@demarches-simplifiees.fr
 ---
 
 Afin de vous présenter les nombreux avantages de l'outil ["demarches-simplifiees.fr"] (https://www.demarches-simplifiees.fr/){:target="_blank"} pour ce type de démarches, l'équipe démarches simplifiées organise un **atelier pratique** à destination de **tous les acteurs publics** concernés tels les ministères, les agences, ou les associations d’intérêt public.
