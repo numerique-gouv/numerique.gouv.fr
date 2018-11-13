@@ -1,7 +1,7 @@
 ---
 title: Les 9 principes clés de réussite des grands projets SI de l’État
 date: 2018-11-13 11:44:00 +01:00
-permalink: "/publications/principes-reussite-grands-projets-si-etat"
+permalink: "/publications/principes-reussite-grands-projets-si-etat/"
 chapeau-text: Proximité avec les usagers, droit à l'erreur, méthodes agiles... La
   DINSIC détaille les 9 principes qui doivent guider les projets informatiques dans
   l'administration.
