@@ -19,12 +19,12 @@ acces:
   lignes:
   - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur, Ligne 13 : Saint-François-Xavier'
 champs_informations:
-- intitule: Modalité
-  contenu: 'Inscription obligatoire '
-  lien: 'https://demarches-simplifiees.fr/commencer/inscription-organisation-appelaprojet '
 - intitule: Début de l'atelier
   contenu: 9h30
   lien: 
+- intitule: Modalité
+  contenu: 'Inscription obligatoire '
+  lien: 'https://demarches-simplifiees.fr/commencer/inscription-organisation-appelaprojet '
 ---
 
 Afin de vous présenter les nombreux avantages de l'outil ["demarches-simplifiees.fr"](https://www.demarches-simplifiees.fr/){:target="_blank"} pour ce type de démarches, l'équipe démarches simplifiées organise un **atelier pratique** à destination de **tous les acteurs publics** concernés tels les ministères, les agences, ou les associations d’intérêt public.
