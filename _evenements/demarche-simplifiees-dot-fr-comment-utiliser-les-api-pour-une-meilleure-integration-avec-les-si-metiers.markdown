@@ -11,6 +11,24 @@ chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://ww
   [DEMARCHES-SIMPLIFIEES.FR](https://www.demarches-simplifiees.fr/){:target="_blank"}
   afin de comprendre comment utiliser les API pour une meilleure intégration avec
   les SI métiers.
+une-ou-diaporama:
+- image: "/uploads/demarches-simplifiees_fr.png"
+event_start_date: 2018-11-23 14:00:00 +01:00
+lieu: 'DINSIC '
+adresse: '20 avenue de Ségur, 75007 PARIS '
+acces:
+- type: 'Métro :'
+  lignes:
+  - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur, Ligne 13 : Saint-François-Xavier'
+champs_informations:
+- intitule: 'Horaires '
+  contenu: 14h30 - 17h00
+- intitule: 'Modalités '
+  contenu: Inscription obligatoire
+  lien: 'https://demarches-simplifiees.fr/commencer/presentation-de-l-api '
+- intitule: 'Contact '
+  contenu: '0176420287'
+  lien: contact@demarches-simplifiees.fr
 ---
 
 Démarches-simplifies.fr de la DINSIC est un service en ligne de dématérialisation des démarches administratives qui **autorise des interactions via API avec des SI métiers.**
