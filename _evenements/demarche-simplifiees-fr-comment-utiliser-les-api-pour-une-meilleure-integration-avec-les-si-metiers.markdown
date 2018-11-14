@@ -39,9 +39,7 @@ Responsables informatiques, techniciens et/ou chefs de projet dématérialisatio
 **Au programme de l'après-midi :**
 
 * Présentation du service demarches-simplifiees.fr
-
 * Présentation de l'utilisation des API au sein de demarches-simplifiees.fr
-
 * Démonstration de cas concrets de récupération des données de demarches-simplifiees.fr 
 
 
