@@ -1,6 +1,5 @@
 ---
-title: Quelles interactions entre l'API de demarches-simplifiees.fr et vos SI métiers
-  ?
+title: Comment articuler demarches-simplifiees.fr avec vos SI métiers ?
 date: 2018-11-13 10:36:00 +01:00
 categories:
 - Atelier
