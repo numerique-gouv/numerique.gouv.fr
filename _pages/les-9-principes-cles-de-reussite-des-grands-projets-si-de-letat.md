@@ -11,19 +11,19 @@ une:
 principes:
 - principe: 
   order: 1
-  title: 1 - Jouons en équipe avec un capitaine mandaté
+  title: 1 · **Jouons en équipe avec un capitaine mandaté**
   content-text: Construisons un collectif solidaire et engagé, tourné vers un même
     objectif, piloté par un directeur de projet mandaté et reconnu.
 - principe: 
   order: 2
-  title: 2 - Résolvons un problème plutôt que construire une solution
+  title: "**2 - Résolvons un problème plutôt que construire une solution**"
   content-text: |-
     Soyons ambitieux dans nos cibles tout en avançant par étapes.
 
     Ces deux éléments a priori incompatibles peuvent être réconciliés via, notamment, l’utilisation des méthodes agiles. Celles-ci découpent, séquencent les réalisations en briques plus rapides à déployer et plus proches des attentes réelles des utilisateurs.
 - principe: 
   order: 3
-  title: 3 - Pensons grand et avançons petit
+  title: 3/ **Pensons grand et avançons petit**
   content-text: Soyons ambitieux dans nos cibles tout en avançant par étapes. Ces
     deux éléments a priori incompatibles peuvent être réconciliés via, notamment,
     l’utilisation des méthodes agiles. Celles-ci découpent, séquencent les réalisations
