@@ -1,16 +1,17 @@
 ---
-title: demarches-simplifiees.fr - Comment utiliser les API pour une meilleure  intégration
-  avec les SI métiers ?
+title: Quelles interactions entre l'API de demarches-simplifiees.fr et vos SI métiers
+  ?
 date: 2018-11-13 10:36:00 +01:00
 categories:
 - Atelier
 tags:
 - démarches en ligne
-chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
-  la direction interministérielle du numérique organise un atelier ouvert à tous les
-  agents publics autour de l'outil [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/){:target="_blank"}
-  afin de comprendre comment utiliser les API pour une meilleure intégration avec
-  les SI métiers.
+chapeau-text: '[Demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/) est
+  un service en ligne de dématérialisation des démarches administratives. Dans le
+  cadre de la [semaine de l’innovation publique](http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
+  la direction interministérielle du numérique organise 2 ateliers de découverte-formation
+  pour permettre aux agents de mieux appréhender cet outil et d''en exploiter tout
+  le potentiel. '
 une-ou-diaporama:
 - image: "/uploads/demarches-simplifiees_fr.png"
 event_start_date: 2018-11-23 14:00:00 +01:00
@@ -31,13 +32,16 @@ champs_informations:
   lien: contact@demarches-simplifiees.fr
 ---
 
-[demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/){:target="_blank"} est un service en ligne de dématérialisation des démarches administratives fourni par la direction interministérielle du numérique qui **autorise des interactions via API avec des SI métiers.**
+Responsables informatiques, techniciens et/ou chefs de projet dématérialisation, venez découvrir **le potentiel d'interopérabilité** de [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/){:target="_blank"} avec votre système d'information.
 
-Cet atelier vous permettra de **mieux comprendre le potentiel d'interopérabilité** de [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/){:target="_blank"} avec leurs applications internes à partir d'exemples concrets, de **découvrir des exemples d’intégration** (CGDD, qui a intégré les informations cartographiques ) mais aussi **d'étudier les évolutions qu’il serait nécessaire d’effectuer pour que DS soit encore plus interopérable avec les SI**
+À partir d'exemples concrets, vous découvrirez comment intégrer les données traitées sur [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/) dans vos applications internes. 
 
 **Au programme de l'après-midi :**
 
+* Présentation du service demarches-simplifiees.fr
+
 * Présentation de l'utilisation des API au sein de demarches-simplifiees.fr
-* Présentation de l'API de récupération des données (exemples concrets)
-* Travaux à prévoir autour des API
+
+* Démonstration de cas concrets de récupération des données de demarches-simplifiees.fr 
+
 
