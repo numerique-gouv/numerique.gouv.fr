@@ -38,9 +38,7 @@ Agents publics, vous souhaitez lancer un appel à projets et vous vous demandez 
 **Au programme:**
 
 * Présentation du service demarches-simplifiees.fr
-
 * Démonstration de cas concrets d'appels à projets organisés avec demarches-simplifiees.fr
-
 * Prise en main et cas pratique
 
 Il est conseillé de venir avec un portable ou une tablette.
