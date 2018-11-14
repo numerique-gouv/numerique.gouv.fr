@@ -6,7 +6,7 @@ chapeau-text: Proximité avec les usagers, droit à l'erreur, méthodes agiles..
   DINSIC détaille les 9 principes qui doivent guider les projets informatiques dans
   l'administration.
 une:
-  image: "/uploads/9%20Principes%20cl%C3%A9%20de%20r%C3%A9ussite%20des%20grands%20projets%20SI.JPG"
+  image: "/uploads/9%20Principes%20cl%C3%A9%20de%20r%C3%A9ussite%20des%20grands%20projets%20SI%20redim.JPG"
   alternative-textuel: 
 principes:
 - principe: 
@@ -30,36 +30,36 @@ principes:
     en briques plus rapides à déployer et plus proches des attentes réelles des utilisateurs.
 - principe: 
   order: 4
-  title: "**4 · Soyons transparents et réalistes sur les objectifs et gardons le cap**"
+  title: 4 ·** Soyons transparents et réalistes sur les objectifs et gardons le cap**
   content-text: 'Gardons toujours à l’esprit et partageons la raison d’être du projet
     : ses objectifs, ses enjeux et sa dimension.'
 - principe: 
   order: 5
-  title: "**5 · Confrontons-nous tôt à la réalité**"
+  title: 5 · **Confrontons-nous tôt à la réalité**
   content-text: Attachons-nous à mettre en service dès que possible une solution qui
     fonctionne, même partielle. Confronter rapidement la solution apportée à la réalité
     du terrain, c’est bénéficier au plus tôt des réactions et attentes des utilisateurs,
     équipes métiers et techniques.
 - principe: 
   order: 6
-  title: "**6 · Simplifions, toujours**"
+  title: 6 · **Simplifions, toujours**
   content-text: 'Recherchons avec ténacité la simplification pour les utilisateurs
     : un processus complexe génèrera toujours une solution complexe. Attachons-nous
     à les simplifier !'
 - principe: 
   order: 7
-  title: "**7 · Expérimentons, innovons**"
+  title: 7 · **Expérimentons, innovons**
   content-text: Osons tester de nouvelles approches, de nouveaux outils, des innovations
     numériques. L’échec est autorisé !
 - principe: 
   order: 8
-  title: 8 - Construisons avec notre écosystème
+  title: 8 · **Construisons avec notre écosystème**
   content-text: Réutilisons autant que possible les solutions éprouvées et favorisons
     l’émergence d’un écosystème du service public numérique, ouvert à tous, acteurs
     publics, associatifs ou privés, pour co-construire de nouveaux produits.
 - principe: 
   order: 9
-  title: 9 - Exploitons tout le potentiel des données
+  title: 9 · **Exploitons tout le potentiel des données
   content-text: Faisons le pari de construire et d’enrichir nos services autour de
     la donnée.
 pdf: "/uploads/9Principes_projets.pdf"
