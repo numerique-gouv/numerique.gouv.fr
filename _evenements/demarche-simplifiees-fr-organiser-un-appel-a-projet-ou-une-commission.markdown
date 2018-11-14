@@ -5,9 +5,8 @@ categories:
 - Atelier
 tags:
 - démarches en ligne
-chapeau-text: '[Demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/) est
-  un service en ligne de dématérialisation des démarches administratives. Dans le
-  cadre de la [semaine de l’innovation publique](http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
+chapeau-text: 'Demarches-simplifiees.fr est un service en ligne de dématérialisation
+  des démarches administratives. Dans le cadre de la [semaine de l’innovation publique](http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
   la direction interministérielle du numérique organise 2 ateliers de découverte-formation
   pour permettre aux agents de mieux appréhender cet outil et d''en exploiter tout
   le potentiel. '
