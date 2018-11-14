@@ -1,6 +1,5 @@
 ---
-title: Quelles interactions entre l'API de demarches-simplifiees.fr et vos SI métiers
-  ?
+title: Comment articuler demarches-simplifiees.fr avec vos SI métiers ?
 date: 2018-11-13 10:36:00 +01:00
 categories:
 - Atelier
@@ -39,9 +38,7 @@ Responsables informatiques, techniciens et/ou chefs de projet dématérialisatio
 **Au programme de l'après-midi :**
 
 * Présentation du service demarches-simplifiees.fr
-
 * Présentation de l'utilisation des API au sein de demarches-simplifiees.fr
-
 * Démonstration de cas concrets de récupération des données de demarches-simplifiees.fr 
 
 
