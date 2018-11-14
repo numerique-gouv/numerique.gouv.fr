@@ -15,6 +15,9 @@ layout: default
       <div class="h2 text-center">
         {{ page.subtitle }}
       </div>
+      {% if page.content %}
+        <p>{{ page.content | markdownify }}</p>
+      {% endif %}
     </section>
 
     <div class="cell grid-x">
