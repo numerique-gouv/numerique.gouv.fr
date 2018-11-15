@@ -1,5 +1,5 @@
 ---
-title: Vivez le parcours administratif d’un non-voyant
+title: Vivez le parcours administratif en ligne d’un non-voyant
 date: 2018-10-26 13:44:00 +02:00
 categories:
 - Atelier
@@ -28,13 +28,13 @@ champs_informations:
 
 **Au programme :**
 
-De **10h30 à midi** Fernando PINTO da SILVA - animateur des travaux sur le numérique au sein du Conseil National Consultatif des Personnes Handicapées - vous proposera une  démonstration de plusieurs parcours administratifs en ligne.
+De **10h30 à midi** Fernando Pinto da Silva - animateur des travaux sur le numérique au sein du conseil national consultatif des personnes handicapées - vous proposera une  démonstration de plusieurs parcours administratifs en ligne.
  
 Il naviguera au clavier sur les sites publics et utilisera des assistants techniques comme un lecteur d'écran ou une plage braille.
 
-Venez voir de vos yeux :
+Venez découvrir :
 
-* les conséquences positives de la qualité web pour un non-voyant et pour bien d'autres utilisateur, 
+* les conséquences positives de la qualité web pour un non-voyant et pour bien d'autres utilisateurs, 
 
 * les blocages qui peuvent intervenir en cas de lacune ou de méconnaissance des critères de qualité web et d'accessibilité numérique.
 
