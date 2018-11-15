@@ -65,8 +65,6 @@ principes:
 pdf: "/uploads/9-principes-reussite-grands-projets-SI-Etat.pdf"
 layout: liste-detaillee
 ---
-
-Réussir la transformation du système d’information (SI) de l’Etat est l'une des conditions majeures pour créer de nouveaux services, accompagner la simplification des relations entre les citoyens et l’Etat, favoriser de nouvelles formes d’engagement et confirmer la stratégie d'Etat plateforme au service de la souveraineté économique et de l’autonomie des citoyens. Or le SI de l’Etat se structure autour de projets souvent complexes et aux dimensions hors normes. **Leur réussite exige donc, à tous les niveaux de responsabilité, de mobiliser des principes communs, fondés sur l’expérience, pour en maîtriser les risques.**
-
-Ces principes placent la résolution des problèmes des utilisateurs et la responsabilisation des acteurs du projet au cœur de la démarche. Ils guideront désormais la conception et l’analyse des projets à venir. 
-Ces principes sont également disponibles sur le site des documents de référence du SI de l’Etat [references.modernisation.gouv.fr](references.modernisation.gouv.fr){:target="_blank"}.
+Réussir la transformation du système d’information (SI) de l’Etat est l'une des conditions majeures pour créer de nouveaux services, simplifier les relations entre les citoyens et l’Etat, et renouveler la démocratie. Or le SI de l’Etat se structure autour de projets souvent complexes et aux dimensions hors normes. **Leur réussite exige donc, à tous les niveaux de responsabilité, de mobiliser des principes communs, fondés sur l’expérience, pour en maîtriser les risques.**
+ 
+Elaborés par la DINSIC avec les secrétaires généraux des ministères, les DSI et les directeurs de projets SI, les 9 principes clés de réussite des grands projets SI de l’Etat placent la résolution des problèmes des utilisateurs et la responsabilisation des acteurs du projet au cœur de la démarche. Ils guident désormais la conception et l’analyse des projets SI à venir et aident ainsi à leur sécurisation.

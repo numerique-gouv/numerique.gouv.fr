@@ -7,7 +7,7 @@ communication de l’Etat a le potentiel d’améliorer le service rendu aux cit
 coûts. La mise en œuvre de cette mutualisation nécessite l’engagement de l’ensemble des ministères, qui ont convenu 
 des principes suivants pour guider et optimiser leur action collective."
 une:
-  image: "/uploads/9%20Principes%20cl%C3%A9%20de%20r%C3%A9ussite%20des%20grands%20projets%20SI%20redim.JPG"
+  image: "/uploads/Image-Principes-mutualisation.JPG"
   alternative-textuel: 
 pdf: "/uploads/Principes-mutualisation-SI-Etat.pdf"
 layout: liste-detaillee
