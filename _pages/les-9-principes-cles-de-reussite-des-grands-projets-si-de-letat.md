@@ -6,7 +6,7 @@ chapeau-text: Proximité avec les usagers, droit à l'erreur, méthodes agiles..
   DINSIC détaille les 9 principes qui doivent guider les projets informatiques dans
   l'administration.
 une:
-  image: "/uploads/9%20Principes%20cl%C3%A9%20de%20r%C3%A9ussite%20des%20grands%20projets%20SI%20redim.JPG"
+  image: "/uploads/Les-9-principes-clés-de-réussite-des-grands-projets-SI-de-lEtat.JPG"
   alternative-textuel: 
 principes:
 - principe: 
