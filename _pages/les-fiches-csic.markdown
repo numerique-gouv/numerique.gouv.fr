@@ -1,5 +1,5 @@
 ---
-title: Les fiches des CSIC
+title: Les fiches des conseils des systèmes d’information et de communication (CSIC)
 permalink: "/publications/fiches-csic/"
 chapeau-text: Le conseil des systèmes d’information et de communication (CSIC) constitue l’instance de gouvernance stratégique du SI de l’Etat. Il est présidé par le directeur interministériel du numérique et du système d’information et de communication de l’Etat (DINSIC). Le CSIC est consulté sur la définition et la mise en œuvre du cadre stratégique commun du système d’information de l’Etat. Le DINSIC soumet au conseil, au travers des fiches CSIC, les évolutions des documents de référence ou les nouveaux cadres ou normes techniques et dresse le bilan des contrats de progrès.
 une:
