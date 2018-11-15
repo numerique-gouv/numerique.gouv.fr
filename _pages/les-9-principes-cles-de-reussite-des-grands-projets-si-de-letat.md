@@ -30,7 +30,7 @@ principes:
     en briques plus rapides à déployer et plus proches des attentes réelles des utilisateurs.
 - principe: 
   order: 4
-  title: 4 ·** Soyons transparents et réalistes sur les objectifs et gardons le cap**
+  title: 4 ·**Soyons transparents et réalistes sur les objectifs et gardons le cap**
   content-text: 'Gardons toujours à l’esprit et partageons la raison d’être du projet
     : ses objectifs, ses enjeux et sa dimension.'
 - principe: 
@@ -59,10 +59,10 @@ principes:
     publics, associatifs ou privés, pour co-construire de nouveaux produits.
 - principe: 
   order: 9
-  title: 9 · **Exploitons tout le potentiel des données
+  title: 9 · **Exploitons tout le potentiel des données**
   content-text: Faisons le pari de construire et d’enrichir nos services autour de
     la donnée.
-pdf: "/uploads/9Principes_projets.pdf"
+pdf: "/uploads/9-principes-reussite-grands-projets-SI-Etat.pdf"
 layout: liste-detaillee
 ---
 
