@@ -16,6 +16,17 @@ module Jekyll
           record[:event_start_date] = start_date
           record[:dates] = [start_date]
         end
+
+          content = record[:content]
+          content.sub!('*', '') unless content.nil?
+          content.sub!('##', '') unless content.nil?
+          content.sub!('> ', '') unless content.nil?
+          content.sub!(/\]{(.*?)}\((.*?)\)/, '') unless content.nil?
+          content.sub!(/\]\((.*?)\)/, '') unless content.nil?
+          content.sub!(/{(.*?)}/, '') unless content.nil?
+          content.sub!(/\[/, '') unless content.nil?
+          record[:content] = content
+
         record
       end
     end
