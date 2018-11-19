@@ -21,7 +21,6 @@ module Jekyll
       input.gsub!(/{(.*?)}/, '') unless input.nil?
       input.gsub!(/\[/, '') unless input.nil?
 
-      input
     end
   end
 end
