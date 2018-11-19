@@ -17,15 +17,15 @@ module Jekyll
           record[:dates] = [start_date]
         end
 
-          content = record[:content]
-          content.sub!('*', '') unless content.nil?
-          content.sub!('##', '') unless content.nil?
-          content.sub!('> ', '') unless content.nil?
-          content.sub!(/\]{(.*?)}\((.*?)\)/, '') unless content.nil?
-          content.sub!(/\]\((.*?)\)/, '') unless content.nil?
-          content.sub!(/{(.*?)}/, '') unless content.nil?
-          content.sub!(/\[/, '') unless content.nil?
-          record[:content] = content
+        [:content, :"chapeau-text", :title].each do |field|
+            record[field].gsub!('*', '') unless record[field].nil?
+            record[field].gsub!('##', '') unless record[field].nil?
+            record[field].gsub!('> ', '') unless record[field].nil?
+            record[field].gsub!(/\]{(.*?)}\((.*?)\)/, '') unless record[field].nil?
+            record[field].gsub!(/\]\((.*?)\)/, '') unless record[field].nil?
+            record[field].gsub!(/{(.*?)}/, '') unless record[field].nil?
+            record[field].gsub!(/\[/, '') unless record[field].nil?
+          end
 
         record
       end

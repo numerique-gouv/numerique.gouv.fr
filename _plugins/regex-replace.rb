@@ -11,6 +11,18 @@ module Jekyll
         input.gsub!('<p>', '').gsub!('</p>', '')
       end
     end
+
+    def remove_markdown(input)
+      input.gsub!('*', '') unless input.nil?
+      input.gsub!('##', '') unless input.nil?
+      input.gsub!('> ', '') unless input.nil?
+      input.gsub!(/\]{(.*?)}\((.*?)\)/, '') unless input.nil?
+      input.gsub!(/\]\((.*?)\)/, '') unless input.nil?
+      input.gsub!(/{(.*?)}/, '') unless input.nil?
+      input.gsub!(/\[/, '') unless input.nil?
+
+      input
+    end
   end
 end
 
