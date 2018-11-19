@@ -24,8 +24,8 @@ class Git {
         let pullRequestNumber = response.data.number;
         repo.mergePullRequest(pullRequestNumber)
       })
-      .catch(() => {
-        alert("Il y a eu une erreur lors du déploiement");
+      .catch((error) => {
+        alert("Il y a eu une erreur lors du déploiement : " + error.message);
       });
   }
 }

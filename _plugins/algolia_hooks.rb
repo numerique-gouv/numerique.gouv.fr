@@ -16,6 +16,17 @@ module Jekyll
           record[:event_start_date] = start_date
           record[:dates] = [start_date]
         end
+
+        [:content, :"chapeau-text", :title].each do |field|
+            record[field].gsub!('*', '') unless record[field].nil?
+            record[field].gsub!('##', '') unless record[field].nil?
+            record[field].gsub!('> ', '') unless record[field].nil?
+            record[field].gsub!(/\]{(.*?)}\((.*?)\)/, '') unless record[field].nil?
+            record[field].gsub!(/\]\((.*?)\)/, '') unless record[field].nil?
+            record[field].gsub!(/{(.*?)}/, '') unless record[field].nil?
+            record[field].gsub!(/\[/, '') unless record[field].nil?
+          end
+
         record
       end
     end
