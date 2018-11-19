@@ -1,14 +1,15 @@
 ---
-title: '"DEMARCHE-SIMPLIFIEES.FR" : Organiser un appel à projet ou une commission'
+title: Organiser et instruire un appel à projet grâce à demarches-simplifiees.fr
 date: 2018-11-13 10:12:00 +01:00
 categories:
 - Atelier
 tags:
 - démarches en ligne
-chapeau-text: Dans le cadre de la [semaine de l’innovation publique](http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
-  la direction interministérielle du numérique organise une matinée autour de l'outil
-  [Démarches-simplifies.fr](https://www.demarches-simplifiees.fr/){:target="_blank"}
-  afin de découvrir comment organiser un appel à projet ou une commission.
+chapeau-text: 'Demarches-simplifiees.fr est un service en ligne de dématérialisation
+  des démarches administratives. Dans le cadre de la [semaine de l’innovation publique](http://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
+  la direction interministérielle du numérique organise 2 ateliers de découverte-formation
+  pour permettre aux agents de mieux appréhender cet outil et d''en exploiter tout
+  le potentiel. '
 une-ou-diaporama:
 - image: "/uploads/demarches-simplifiees_fr.png"
   alternative-textuelle: dématérialiser et simplifier les démarches administratives
@@ -31,17 +32,13 @@ champs_informations:
   lien: contact@demarches-simplifiees.fr
 ---
 
-Afin de vous présenter les nombreux avantages de l'outil ["demarches-simplifiees.fr"] (https://www.demarches-simplifiees.fr/){:target="_blank"} pour ce type de démarches, l'équipe démarches simplifiées organise un **atelier pratique** à destination de **tous les acteurs publics** concernés tels les ministères, les agences, ou les associations d’intérêt public.
+Agents publics, vous souhaitez lancer un appel à projets et vous vous demandez comment vous y prendre ? En une matinée, venez apprendre à organiser votre appel à projets de a à z, depuis la création d'un formulaire de dépôt de candidature à la sélection des projets, en passant par l'instruction des dossiers de candidatures.    
 
-Cette formation se tiendra sur la matinée. L'atelier permettra de **découvrir les potentialités d'usage de ce service** créé par la DINSIC, et en particulier toutes les capacités d'organisation des phases d'instruction collaborative et de décisions collégiales qu'il autorise.
+**Au programme:**
 
-**La matinée sera organisée en trois temps:**
-
-* Présentation rapide du service "demarches-simplifiees.fr"
-
-* Présentation d'exemples concrets d'appels à projets organisés avec DS
-
-* Démonstration et tests
+* Présentation du service demarches-simplifiees.fr
+* Démonstration de cas concrets d'appels à projets organisés avec demarches-simplifiees.fr
+* Prise en main et cas pratique
 
 Il est conseillé de venir avec un portable ou une tablette.
 
