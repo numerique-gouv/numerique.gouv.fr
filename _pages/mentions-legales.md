@@ -7,7 +7,7 @@ layout: page-annexe
 
 ## Editeur ##
 Ce site est édité par la direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC), un service du Premier ministre.
-
+ 
 DINSIC
 <br>20 avenue de Ségur
 <br>75007 Paris
@@ -28,7 +28,7 @@ Le suivi éditorial et graphique est assuré au quotidien par la mission Communi
 
 
 ## Code source du site ##
-Le code source du site est disponible sur Github (lien à venir).
+Le code source du site est [disponible sur Github](https://github.com/numerique-gouv/numerique.gouv.fr){: .target="_blank}.
 
 
 ## Propriété intellectuelle et liens vers numerique.gouv.fr ##

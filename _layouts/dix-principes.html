@@ -10,17 +10,15 @@ layout: default
   <article>
     <section class="cell white-container padding-large-5 padding-medium-1" >
       {% include components/titre-page-fille.html %}
-      <h2 class="font-bold margin-top-3">
-      </h2>
       <div class="h2 text-center">
         {{ page.subtitle }}
       </div>
     </section>
 
     <div class="cell grid-x">
-      <div id="principes" class="cell white-container">
+      <div id="list" class="cell white-container">
         {% for principe in page.principes %}
-        <section id="principe{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
           <h3 class="font-bold">{{ principe.title }}</h3>
           {{ principe.content-text | markdownify }}
 

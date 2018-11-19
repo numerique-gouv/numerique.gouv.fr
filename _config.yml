@@ -13,6 +13,7 @@ collections:
   evenements:
     title: Evénements
     output: true
+    permalink: "/agenda/:title/"
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
@@ -70,17 +71,19 @@ defaults:
     - image: 
       legende: 
       alternative-textuelle: 
-    event_date: 
+    event_start_date: 
+    event_end_date: 
     lieu: DINSIC
     adresse: 20 avenue de Ségur 75007 Paris
+    afficher_la_carte: true
     acces:
-    - type: Métro
+    - type: 
       lignes:
-      - nom: 'exemple: Ligne 9 Iéna'
+      - nom: 
     champs_informations:
     - intitule: contact
       contenu: loremipsum@modernisation.gouv.fr
-url: https://numerique.gouv.fr
+url: https://www.numerique.gouv.fr
 categories:
 - main
 language: fr
@@ -114,7 +117,6 @@ exclude:
 - yarn-error.log
 - "/ansible/"
 - "/node_modules/"
-- _evenements
 incremental: false
 compress_html:
   ignore:
@@ -137,12 +139,12 @@ algolia:
   - _pages/avis-conformes.md
   settings:
     customRanking:
-    - asc(event_date)
+    - asc(event_start_date)
     - desc(date)
     - desc(custom_ranking.heading)
     - asc(custom_ranking.position)
     searchableAttributes:
-    - ordered(event_date)
+    - ordered(dates)
     - unordered(title)
     - ordered(headings)
     - unordered(chapeau-text)

@@ -22,9 +22,11 @@ layout: default
 
           {% for ministere in page.ministeres %}
             <div class="cell large-4 medium-6 small-12 grid-y margin-bottom-1 white-container">
+              {% if ministere.image %}
               <div class="object-fit__image-container index-image-container">
                 <img src="{{ base }}{{ ministere.image }}" alt="photo du " class="object-fit__featured-image">
               </div>
+              {% endif %}
               <div class="padding-horizontal-1">
                 <h2 class="titles h3">{{ ministere.titre }}</h2>
 

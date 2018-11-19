@@ -1,0 +1,80 @@
+{% assign start_day = include.start_date | date: "%-d" %}
+{% assign end_day = include.end_date | date: "%-d" %}
+{% assign start_month = include.start_date | date: "%-m" %}
+{% assign end_month = include.end_date | date: "%-m" %}
+{% assign start_year = include.start_date | date: "%Y"  %}
+{% assign end_year = include.end_date | date: "%Y" %}
+
+{% if start_month == end_month %}
+
+  Du
+  {% if start_day == '1' %}
+    1er
+  {% else %}
+    {{start_day}}
+  {% endif %}
+  au
+  {{ end_day }}
+  {% case start_month %}
+  {% when '1' %}janvier
+  {% when '2' %}février
+  {% when '3' %}mars
+  {% when '4' %}avril
+  {% when '5' %}mai
+  {% when '6' %}juin
+  {% when '7' %}juillet
+  {% when '8' %}août
+  {% when '9' %}septembre
+  {% when '10' %}octobre
+  {% when '11' %}novembre
+  {% when '12' %}décembre
+  {% endcase %}
+
+{% else %}
+
+  Du
+  {% if start_day == '1' %}
+  1er
+  {% else %}
+  {{start_day}}
+  {% endif %}
+  {% case start_month %}
+  {% when '1' %}janvier
+  {% when '2' %}février
+  {% when '3' %}mars
+  {% when '4' %}avril
+  {% when '5' %}mai
+  {% when '6' %}juin
+  {% when '7' %}juillet
+  {% when '8' %}août
+  {% when '9' %}septembre
+  {% when '10' %}octobre
+  {% when '11' %}novembre
+  {% when '12' %}décembre
+  {% endcase %}
+  {% unless start_year == end_year %}
+    {{ start_year }}
+  {% endunless %}
+  au
+  {% if end_day == '1' %}
+  1er
+  {% else %}
+    {{end_day}}
+  {% endif %}
+  {% case end_month %}
+  {% when '1' %}janvier
+  {% when '2' %}février
+  {% when '3' %}mars
+  {% when '4' %}avril
+  {% when '5' %}mai
+  {% when '6' %}juin
+  {% when '7' %}juillet
+  {% when '8' %}août
+  {% when '9' %}septembre
+  {% when '10' %}octobre
+  {% when '11' %}novembre
+  {% when '12' %}décembre
+  {% endcase %}
+{% endif %}
+{{ end_year }}
+

@@ -11,6 +11,14 @@ $hamburger-bar : 3;
   @include hamburger($black, $light-black, $hamburger-width, $hamburger-height, $hamburger-weight, $hamburger-bar);
 }
 
+.margin-0 {
+  margin: 0 !important;
+}
+
+.margin-left-0 {
+  margin-left: 0 !important;
+}
+
 .margin-top-auto {
   margin-top: auto !important;
 }
@@ -66,6 +74,12 @@ $hamburger-bar : 3;
 .margin-large-bottom-5 {
   @include breakpoint(large up){
     margin-bottom: 5rem!important;
+  }
+}
+
+.margin-large-top-4 {
+  @include breakpoint(large up){
+    margin-top: 4rem!important;
   }
 }
 

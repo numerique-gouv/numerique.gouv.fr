@@ -6,12 +6,6 @@
     <div class="legende">{{ page.une-ou-diaporama[0].legende }}</div>
   {% endif %}
 {% endif %}
-{% if page.event_date%}
-  <div class="event-date row align-middle align-center margin-top-2">
-    <img class="" alt="icon calendrier" src="/assets/img/pictogrammes/evenement.svg">&nbsp;
-    {% include helpers/date.html date=page.event_date %}
-  </div>
-{% endif %}
 <a id="content" tabindex="-1"></a>
 <div id="titre-article" class="padding-large-top-5 padding-large-horizontal-5  margin-bottom-3 padding-medium-1">
   {% include components/titre-page-fille.html %}
@@ -23,11 +17,11 @@
   <ul class="no-bullet">
     {% for tag in page.tags %}
     <li>
-      <a href="{% include helpers/tag-link.html collection=page.collection tag=tag %}">
+      {{  page.collection.url-collection }}
+      <a href="{{ 'espace-presse' | append: '/?tags=' | append:tag | append:'#list-post' | remove:'\n' | relative_url }}">
         #{{ tag | capitalize }}
       </a>
     </li>
     {% endfor %}
   </ul>
 </div>
-

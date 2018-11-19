@@ -1,11 +1,3 @@
-// --------------------------------------------------
-// APP.JS
-// --------------------------------------------------
-
-
-//
-// Custom JS
-// --------------------------------------------------
 import '@babel/polyfill'
 import "isomorphic-fetch"
 import "es6-promise"
@@ -23,14 +15,12 @@ if (process.env.NODE_ENV === 'development') {
   console.log('Welcome to preproduction');
 }
 
-
-
 button.on('click', function() {
   toogleMenu();
 });
 
 $('body').on('click', function (e) {
-  if(button.hasClass(activatedClass)) {
+  if(button.hasClass(activatedClass) && e.target.id !== 'input-rechercher') {
     closeMenu();
   }
 });
@@ -46,7 +36,6 @@ function toogleMenu() {
     Foundation.Motion.animateIn(menu, "slide-in-left", function () {
       main.addClass(grayClass);
       button.addClass(activatedClass);
-      console.log(menu)
     });
   } else {
     closeMenu();
@@ -86,7 +75,7 @@ $elements.each(function () {
 });
 
 $('.icon-arrow-down').each(function ( index ) {
-  const selector = '#mission' + (index + 2);
+  const selector = '#list' + (index + 2);
   $( this ).click(function () {
     Foundation.SmoothScroll.scrollToLoc(selector, {threshold: 50, offset: 0 }, null);
   })

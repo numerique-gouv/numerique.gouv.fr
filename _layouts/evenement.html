@@ -4,10 +4,39 @@ layout: default
 
 <div id="evenement" class="page-fille gray-background">
   <article class="article">
-    {% include article.html %}
+    {% if page.une-ou-diaporama[0].image %}
+      <div class="row align-middle align-center cell object-fit-complet__image-container">
+        <img class="object-fit-complet__featured-image image-en-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{base}}{{ page.une-ou-diaporama[0].image }}">
+      </div>
+      {% if page.une-ou-diaporama[0].legende %}
+        <div class="legende">{{ page.une-ou-diaporama[0].legende }}</div>
+      {% endif %}
+    {% endif %}
+    <div class="event-date row align-middle align-center margin-top-2">
+      <img class="" alt="icon calendrier" src="/assets/img/pictogrammes/evenement.svg">&nbsp;
+      {% if page.event_end_date %}
+        {% include helpers/date_range.html start_date=page.event_start_date end_date=page.event_end_date %}
+      {% else %}
+        {% include helpers/date.html date=page.event_start_date %}
+      {% endif %}
+    </div>
+    <a id="content" tabindex="-1"></a>
+    <div id="titre-article" class="padding-large-top-5 padding-large-horizontal-5  margin-bottom-3 padding-medium-1">
+      {% include components/titre-page-fille.html %}
+    </div>
+    <div id="content-article" class="page-fille-content-text padding-large-horizontal-5 padding-large-bottom-2 margin-large-top-2 padding-medium-1">
+      {{ content | markdownify | smartify }}
+    </div>
+
     <div class="text-center margin-bottom-2 title-and-date">
       <span>{{ page.title }},</span><br />
-      <span>{% include helpers/date.html date=page.event_date %} - {{ page.event_date | date: "%Hh%M"}}</span>
+      <span>
+        {% if page.event_end_date %}
+          {% include helpers/date_range.html start_date=page.event_start_date end_date=page.event_end_date %}
+        {% else %}
+          {% include helpers/date.html date=page.event_start_date %}
+        {% endif %}
+      </span>
     </div>
     <div id="informations-pratiques">
       <p class="font-bold">{{ page.lieu }}</p>
@@ -15,38 +44,50 @@ layout: default
         <p>{{ page.adresse }}</p>
       {% endif %}
       <br>
-      <p class="font-bold">Comment y aller ?</p>
-      {% for acces in page.acces %}
-      <p>
-        <span>{{ acces.type }}</span>
-        {% for ligne in acces.lignes %}
-        <span>
-          {% if forloop.last == true %}
-            {{ ligne.nom }}
-          {% else %}
-            {{ ligne.nom }} -
-          {% endif %}
-        </span>
+      {% if page.acces[0].type %}
+        <p class="font-bold">Comment y aller ?</p>
+        {% for acces in page.acces %}
+        <p>
+          <span>{{ acces.type }}</span>
+          {% for ligne in acces.lignes %}
+          <span>
+            {% if forloop.last == true %}
+              {{ ligne.nom }}
+            {% else %}
+              {{ ligne.nom }} -
+            {% endif %}
+          </span>
+          {% endfor %}
+        </p>
         {% endfor %}
-      </p>
-      {% endfor %}
       <br>
+      {% endif %}
       {% for champ in page.champs_informations %}
       <p>
-        <span class="font-bold">{{ champ.intitule }}</span>
+        <span class="font-bold">{{ champ.intitule }} : </span>
         {% if champ.lien %}
-        <a class="white-link" href="{{ champ.lien}}">{{ champ.contenu }}</a>
+        <a class="white-link" target="_blank" href="{{ champ.lien }}">{{ champ.contenu }}</a>
         {% else %}
-        <span>{{ champ.contenu }}</span>
+        {{ champ.contenu }}
         {% endif %}
       </p>
       {% endfor %}
     </div>
-    {% if page.adresse %}
+    {% if page.adresse and page.afficher_la_carte %}
     <h3 class="off-screen">Carte</h3>
       <div id="map" data-address="{{ page.adresse }}" >
       </div>
     {% endif %}
+    <div id="tag-article" class="margin-top-1 padding-large-horizontal-5 padding-medium-1 tag" >
+      <ul class="no-bullet">
+        {% for tag in page.tags %}
+        <li>
+          <a href="{{ 'agenda' | append: '/?tags[tags][0]=' | append:tag | relative_url }}">
+            #{{ tag | capitalize }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
   </article>
 </div>
-
