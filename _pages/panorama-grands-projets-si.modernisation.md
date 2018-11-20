@@ -5,7 +5,11 @@ layout: default
 ---
 
 # {{ page.title }}
+{: .text-center }
+
 {% include components/partager.html %}
+
+
 <div class="responsive-embed">
   <iframe class="no-border" src="https://disic.github.io/panorama/" allowfullscreen></iframe>
 </div>
