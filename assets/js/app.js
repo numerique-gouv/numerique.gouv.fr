@@ -4,7 +4,7 @@ import "es6-promise"
 
 //Menu
 const button = $('#hamburger-button');
-const activatedClass = 'is-active';
+const activatedClass = 'open';
 const grayClass = 'gray';
 const menu = $('#responsive-menu');
 const main = $('#main');
