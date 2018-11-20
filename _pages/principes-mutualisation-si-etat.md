@@ -8,7 +8,7 @@ des principes suivants pour guider et optimiser leur action collective."
 une:
   image: "/uploads/principes-mutualisation-si_fille.jpg"
   alternative-textuel: 
-pdf: "/uploads/Principes-mutualisation-si.pdf"
+file: "/uploads/Principes-mutualisation-si.pdf"
 layout: liste-detaillee
 principes:
 - principe: 
