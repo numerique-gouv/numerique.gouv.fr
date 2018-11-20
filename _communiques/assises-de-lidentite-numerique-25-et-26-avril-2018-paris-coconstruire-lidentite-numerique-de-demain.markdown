@@ -6,7 +6,7 @@ published: false
 tags:
 - Sécurisation
 - inclusion numérique
-communique_file: "/uploads/CP-Assises-identite-numerique.pdf"
+file: "/uploads/CP-Assises-identite-numerique.pdf"
 chapeau-text: Organisées sous le haut patronage du ministre de l’Intérieur, du ministre
   de la Justice et du secrétaire d’État chargé du Numérique, les Assises de l'identité
   numérique vont lancer - les 25 et 26 avril - les travaux de co-construction et de
@@ -47,5 +47,4 @@ Autant de questions cruciales ouvertes à l’occasion des Assises et qui alimen
 * **9h45 - 10h45 :** Table ronde « Identité numérique et protection des données personnelles » 
 * **10h45 - 11h45 :** Seconde table ronde « Impact sociétal de l’identité numérique » 
 * **12h15 - 12H45 :** Clôture des assises de l’identité numérique 
- 
  

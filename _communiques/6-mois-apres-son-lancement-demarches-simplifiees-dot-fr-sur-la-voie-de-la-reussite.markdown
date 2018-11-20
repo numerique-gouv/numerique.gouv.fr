@@ -1,7 +1,7 @@
 ---
 title: 6 mois après son lancement, demarches-simplifiees.fr sur la voie de la réussite
 date: 2018-09-03 12:05:00 +02:00
-communique_file: "/uploads/CP_demarches-simplifiees_6_mois_apres_03_09_2018.pdf"
+file: "/uploads/CP_demarches-simplifiees_6_mois_apres_03_09_2018.pdf"
 chapeau-text: 'Créer une démarche en ligne en un temps record et sans frais. C’est
   possible depuis le 1er mars dernier, grâce à [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/),
   la plateforme de dématérialisation destinée aux administrations lancée par le secrétaire

@@ -6,7 +6,7 @@ tags:
 - entrepreneur.e d’intérêt général
 - Données ouvertes
 - datascience
-communique_file: "/uploads/CP_EIG3_Appel_a_candidatures.pdf"
+file: "/uploads/CP_EIG3_Appel_a_candidatures.pdf"
 une-ou-diaporama:
 - image: "/uploads/EIG3-candidature-ok.png"
 ---
