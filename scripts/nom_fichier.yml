@@ -2,26 +2,26 @@
   - avis:
     - description: "mise \xE0 disposition des moyens informatiques, r\xE9seaux et\
         \ de t\xE9l\xE9communication du futur site de S\xE9gur-Fontenoy"
-      pdf: /uploads/segur_phase_2_art_3.pdf
+     file: /uploads/segur_phase_2_art_3.pdf
       titre: SEGUR Phase 2
     date: '2017'
   - avis:
     - description: "mise \xE0 disposition des moyens informatiques, r\xE9seaux et\
         \ de t\xE9l\xE9communication du site de S\xE9gur-Fontenoy"
-      pdf: /uploads/segur_art_3.pdf
+     file: /uploads/segur_art_3.pdf
       titre: SEGUR
     date: '2016'
   - avis:
     - description: "Nouvel espace num\xE9rique personnalis\xE9 avec l'administration"
-      pdf: /uploads/msp_avis.pdf
+     file: /uploads/msp_avis.pdf
       titre: "MSP - Usine \xE0 d\xE9marche"
     date: '2015'
   - avis:
     - description: "syst\xE8me archivistique"
-      pdf: /uploads/vitam_art_7.pdf
+     file: /uploads/vitam_art_7.pdf
       titre: VITAM
     - description: SI de gestion comptable et commercial de la DILA
-      pdf: /uploads/scop_art_7.pdf
+     file: /uploads/scop_art_7.pdf
       titre: SCOP
     date: '2013'
   image: /assets/img/avis-conformes/premierministre-matignon_ok_0.jpg
@@ -30,23 +30,23 @@
   - avis:
     - description: "Gestion du recouvrement forc\xE9 des amendesforfaitaires major\xE9\
         es"
-      pdf: /uploads/rocade_art_3.pdf
+     file: /uploads/rocade_art_3.pdf
       titre: Rocade
     date: '2017'
   - avis:
     - description: Commission du contentieux du stationnement payant
-      pdf: /uploads/ccsp_2016_art_3.pdf
+     file: /uploads/ccsp_2016_art_3.pdf
       titre: CCSP - DESTA
     - description: Commission du contentieux du stationnement payant
-      pdf: /uploads/ccsp_art_3.pdf
+     file: /uploads/ccsp_art_3.pdf
       titre: CCSP
     date: '2016'
   - avis:
     - description: "Traitement d\xE9mat\xE9rialis\xE9 des demandes de visas"
-      pdf: /uploads/francevisas_art_3_vf.pdf
+     file: /uploads/francevisas_art_3_vf.pdf
       titre: France Visas
     - description: "Outil de gestion de la pr\xE9-liquidation de la solde"
-      pdf: /uploads/solde_gendarmerie_art_3.pdf
+     file: /uploads/solde_gendarmerie_art_3.pdf
       titre: Solde Gendarmerie
     date: '2015'
   image: /assets/img/avis-conformes/ministeredeinterieur1_ok_0.jpg
@@ -55,12 +55,12 @@
   - avis:
     - description: "Adaptation technique de la plate-forme d'h\xE9bergement en charge\
         \ de la diffusion des donn\xE9es g\xE9ographiques"
-      pdf: /uploads/geoportail_de_lign_art_3.pdf
+     file: /uploads/geoportail_de_lign_art_3.pdf
       titre: Geoportail - IGN
     date: '2016'
   - avis:
     - description: Garantie Universelle des Loyers
-      pdf: /uploads/garantie_universelle_des_loyers_art_7.pdf
+     file: /uploads/garantie_universelle_des_loyers_art_7.pdf
       titre: GUL
     date: '2014'
   image: /assets/img/avis-conformes/ministere-cohesion-territoires_ok.jpg
@@ -70,12 +70,12 @@
   - avis:
     - description: "D\xE9mat\xE9rialisation des processus et des \xE9changesavec le\
         \ justiciable"
-      pdf: /uploads/portalis_art_3.pdf
+     file: /uploads/portalis_art_3.pdf
       titre: PORTALIS
     date: '2015'
   - avis:
     - description: Refonte du casier judiciaire national
-      pdf: /uploads/casier_judiciaire_art_7.pdf
+     file: /uploads/casier_judiciaire_art_7.pdf
       titre: Casier judiciaire
     date: '2013'
   image: /assets/img/avis-conformes/ministeredelajustice_ok.jpg
@@ -84,18 +84,18 @@
   - avis:
     - description: "Comptabilisation des d\xE9penses et recettes de l\u2019ensembledes\
         \ services de l\u2019Etat \xE0 l\u2019\xE9tranger"
-      pdf: /uploads/crocus_v2_art_3.pdf
+      file: /uploads/crocus_v2_art_3file
       titre: CROCUS V2
     date: '2017'
   - avis:
     - description: "Comptabilisation des d\xE9penses et recettes de l\u2019ensembledes\
         \ services de l\u2019Etat \xE0 l\u2019\xE9tranger"
-      pdf: /uploads/crocus_art_3.pdf
+     file: /uploads/crocus_art_3.pdf
       titre: CROCUS
     date: '2016'
   - avis:
     - description: "Projet de portail interminist\xE9rielde la correspondance diplomatique"
-      pdf: /uploads/diplomatie_art_7.pdf
+     file: /uploads/diplomatie_art_7.pdf
       titre: Diplomatie
     date: '2012'
   image: /assets/img/avis-conformes/ministereaffairesetrangeres2._ok.jpg
@@ -104,26 +104,26 @@
   - avis:
     - description: "Gestion RH de proximit\xE9 en soutien de groupementde base de\
         \ d\xE9fense"
-      pdf: /uploads/sourceweb_art_3.pdf
+     file: /uploads/sourceweb_art_3.pdf
       titre: Source Web
     date: '2016'
   - avis:
     - description: "gestion de la solde des agents militairesrelevant du minist\xE8\
         re"
-      pdf: /uploads/source_solde_art_3.pdf
+     file: /uploads/source_solde_art_3.pdf
       titre: Source Solde
     date: '2015'
   - avis:
     - description: Gestion des Ressources humaines
-      pdf: /uploads/source_art_7.pdf
+     file: /uploads/source_art_7.pdf
       titre: SOURCE
     date: '2013'
   - avis:
     - description: "SI logistique du service du commissariat aux arm\xE9es"
-      pdf: /uploads/ares_art_7.pdf
+     file: /uploads/ares_art_7.pdf
       titre: ARES
     - description: SI logistique de la DIRISI
-      pdf: /uploads/silicium_art_7.pdf
+     file: /uploads/silicium_art_7.pdf
       titre: SILICIUM
     date: '2012'
   image: /assets/img/avis-conformes/ministeredesarmees_ok.jpg

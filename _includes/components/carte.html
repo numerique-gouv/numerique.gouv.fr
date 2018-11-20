@@ -17,9 +17,9 @@
       {% endif %}
       <p>
         {% if carte.chapeau-text %}
-        {{ carte.chapeau-text | regex_replace: '\[(.*)\]\(.*?\)', '\1' | truncatewords: 25  }}
+        {{ carte.chapeau-text | markdownify | strip_html  | truncatewords: 25 }}
         {% else %}
-        {{ carte.content | truncatewords: 25 }}
+        {{ carte.content | markdownify | strip_html | truncatewords: 25 }}
         {% endif %}
       </p>
     </div>

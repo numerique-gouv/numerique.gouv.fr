@@ -10,8 +10,6 @@ layout: default
   <article>
     <section class="cell white-container padding-large-5 padding-medium-1" >
       {% include components/titre-page-fille.html %}
-      <h2 class="font-bold margin-top-3">
-      </h2>
       <div class="h2 text-center">
         {{ page.subtitle }}
       </div>
@@ -34,7 +32,7 @@ layout: default
       </div>
     </div>
     <div class="text-center margin-top-2 padding-bottom-2 font-bold">
-      <a target="_blank" class="blue-link" id="fileSize-{{ post.url | replace: ' ', '' }}" href="{{base}}{{ page.pdf }}">
+      <a target="_blank" class="blue-link" id="fileSize-{{ post.url | replace: ' ', '' }}" href="{{base}}{{ page.file }}">
         <span class="fas fa-download margin-horizontal-1"></span>
         <span class="pdf">Télécharger la version imprimable des 10 principes (PDF</span>
       </a>

@@ -8,7 +8,7 @@ des principes suivants pour guider et optimiser leur action collective."
 une:
   image: "/uploads/principes-mutualisation-si_fille.jpg"
   alternative-textuel: 
-pdf: "/uploads/Principes-mutualisation-si.pdf"
+file: "/uploads/Principes-mutualisation-si.pdf"
 layout: liste-detaillee
 principes:
 - principe: 
@@ -34,7 +34,7 @@ principes:
   order: 5
   title: 5 · **Une entité interministérielle doit garantir un traitement équitable** de tous les ministères utilisateurs d’un SI mutualisé
   content-text: |-
-    Qui que soient le porteur opérationnel du SI mutualisé et l’animateur des instances de pilotage, une entité interministérielle s’assure que tous les ministères utilisateurs sont représentés dans les instances de pilotage de la construction et de l’évolution du service mutualisé.
+    Quels que soient le porteur opérationnel du SI mutualisé et l’animateur des instances de pilotage, une entité interministérielle s’assure que tous les ministères utilisateurs sont représentés dans les instances de pilotage de la construction et de l’évolution du service mutualisé.
                
     Si le porteur opérationnel n’est pas une entité interministérielle, la DINSIC doit pouvoir intervenir dans la gouvernance pour veiller à la prise en compte équitable des besoins de tous les ministères utilisateurs quelle que soit leur taille. 
 - principe: 
@@ -47,7 +47,7 @@ principes:
 - principe: 
   order: 7
   title: 7 · Les parties prenantes doivent **s’engager sur la pérennité du service mutualisé**
-  content-text: L’entité porteuse doit garantir un maintien dans la durée du service mutualisé tant qu’il est utilisé. En contrepartie, l’entité porteuse doit être garantie – au besoin par les ministères utilisateurs du service mutualisé - sur la disponibilité du budget minimal permettant le maintien de ce service.
+  content-text: L’entité porteuse doit garantir un maintien dans la durée du service mutualisé tant qu’il est utilisé. En contrepartie, l’entité porteuse doit être garantie – au besoin par les ministères utilisateurs du service mutualisé – sur la disponibilité du budget minimal permettant le maintien de ce service.
 - principe: 
   order: 8
   title: 8 · La non-participation à un service SI mutualisé doit correspondre à des **spécificités justifiées**, et peut être assortie de **mesures préservant l’intérêt des utilisateurs** et/ou de **mesures de contribution technique** au SI mutualisé
@@ -55,6 +55,7 @@ principes:
     Quand un ministère lance un projet ou une évolution, dans un domaine où un projet ou service mutualisé préexiste, il étudie la faisabilité d’adoption  de la solution mutualisée (en intégrant l'analyse technique et financière des adaptations nécessaires). 
                 
     Dans le cas où la solution mutualisée ne conviendrait pas (notamment au regard des principes précédents), il doit le justifier auprès de la DINSIC. Peuvent alors être convenues, au cas par cas, des mesures pour : 
-    * limiter pour les utilisateurs la complexité induite par la multiplicité des solutions (par exemple en interfaçant la solution spécifique avec la * faire contribuer la solution spécifique au service mutualisé (mise à disposition de retours d’expérience, des études, du code, de services ; intégration de code dans celui de la solution mutualisée, etc.).
+    * limiter pour les utilisateurs la complexité induite par la multiplicité des solutions (par exemple en interfaçant la solution spécifique avec la solution mutualisée) ; 
+    * faire contribuer la solution spécifique au service mutualisé (mise à disposition de retours d’expérience, des études, du code, de services ; intégration de code dans celui de la solution mutualisée, etc.).
 
 ---

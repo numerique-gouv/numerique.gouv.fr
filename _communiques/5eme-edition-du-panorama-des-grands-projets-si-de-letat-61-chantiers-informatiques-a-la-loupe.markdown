@@ -1,6 +1,5 @@
 ---
-title: "5e édition du panorama des grands projets SI de l’État : \n61 chantiers informatiques
-  à la loupe"
+title: "5e édition du panorama des grands projets SI de l’État : 61 chantiers informatiques à la loupe"
 date: 2018-03-26 11:03:00 +02:00
 tags:
 - État plateforme

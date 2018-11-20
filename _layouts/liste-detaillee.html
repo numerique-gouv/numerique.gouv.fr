@@ -10,13 +10,11 @@ layout: default
   <article>
     <section class="cell white-container padding-large-5 padding-medium-1" >
       {% include components/titre-page-fille.html %}
-      <h2 class="font-bold margin-top-3">
-      </h2>
       <div class="h2 text-center">
         {{ page.subtitle }}
       </div>
       {% if page.content %}
-        <p>{{ page.content | markdownify }}</p>
+        {{ page.content | markdownify }}
       {% endif %}
     </section>
 
@@ -24,7 +22,7 @@ layout: default
       <div id="list" class="cell white-container">
         {% for principe in page.principes %}
         <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
-          <h4 class="">{{ principe.title | markdownify}}</h4>
+          <h4 class="">{{ principe.title | markdownify | remove_p }}</h4>
           {{ principe.content-text | markdownify }}
 
           {% if forloop.last == false %}
@@ -37,7 +35,7 @@ layout: default
       </div>
     </div>
     <div class="text-center margin-top-2 padding-bottom-2 font-bold">
-      <a target="_blank" class="blue-link" id="fileSize-{{ post.url | replace: ' ', '' }}" href="{{base}}{{ page.pdf }}">
+      <a target="_blank" class="blue-link" id="fileSize-{{ post.url | replace: ' ', '' }}" href="{{base}}{{ page.file }}">
         <span class="fas fa-download margin-horizontal-1"></span>
         <span class="pdf">Télécharger la version imprimable {{ page.nom-pdf }} (PDF</span>
       </a>
