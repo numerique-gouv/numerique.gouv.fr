@@ -9,27 +9,27 @@ ministeres:
 - annees:
   - avis:
     - description: 
-      pdf: "/uploads/201811-CSIC-Fiche_01-Cloud_final.pdf"
+      file: "/uploads/201811-CSIC-Fiche_01-Cloud_final.pdf"
       titre: Cloud (« informatique en nuage »)
   - avis:
     - description: 
-      pdf: "/uploads/201811-CSIC-Fiche_02-FranceConnect_Plateforme_final.pdf"
+      file: "/uploads/201811-CSIC-Fiche_02-FranceConnect_Plateforme_final.pdf"
       titre: FranceConnect Plateforme
   - avis:
     - description: 
-      pdf: "/uploads/201811-CSIC-Fiche_03-EnvironnementNumeriqueAgent_final.pdf"
+      file: "/uploads/201811-CSIC-Fiche_03-EnvironnementNumeriqueAgent_final.pdf"
       titre: Environnement numérique de travail de l’agent
   - avis:
     - description: 
-      pdf: "/uploads/201811-CSIC-Fiche_04-UX_final.pdf"
+      file: "/uploads/201811-CSIC-Fiche_04-UX_final.pdf"
       titre: UX - Parcours utilisateur
   - avis:
     - description: 
-      pdf: "/uploads/201811-CSIC-Fiche_05-principes-mutualisation.pdf"
+      file: "/uploads/201811-CSIC-Fiche_05-principes-mutualisation.pdf"
       titre: Principes de mutualisation du SI de l’Etat
   - avis:
     - description: 
-      pdf: "/uploads/201811-CSIC-Fiche_06-MAC_VITAM_final.pdf"
+      file: "/uploads/201811-CSIC-Fiche_06-MAC_VITAM_final.pdf"
       titre: Maintenance et amélioration continue du logiciel Vitam
   - avis:
     - description: 
