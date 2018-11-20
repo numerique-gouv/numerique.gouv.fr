@@ -15,7 +15,7 @@
     <a href="/">Accueil</a>
     {% for crumb in crumbs offset: 1 %}
       {% if forloop.last %}
-      > {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}
+      > {{ page.title }}
       {% else %}
       >
       {% capture lien %}
