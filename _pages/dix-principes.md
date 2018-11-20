@@ -5,7 +5,7 @@ subtitle: Une démarche en ligne exemplaire...
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: ordinateur portable
-pdf: "/uploads/10_principes_demarches-en-ligne.pdf"
+file: "/uploads/10_principes_demarches-en-ligne.pdf"
 layout: dix-principes
 principes:
 - principe: 
