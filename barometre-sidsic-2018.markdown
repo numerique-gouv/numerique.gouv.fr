@@ -8,11 +8,11 @@ Vous faites appel au **service interministériel départemental des systèmes d�
 
 **Pour améliorer notre service, votre avis compte !**
 
-Participez à notre enquête de satisfaction, ouverte **jusqu’au 6 décembre 2018.**
+Participez à notre enquête de satisfaction, ouverte **jusqu’au 20 décembre 2018.**
 
 Cette enquête s’adresse aux agents des services départementaux de l’Etat – préfectures, sous-préfectures, directions départementales interministérielles et directions régionales et départementales de la jeunesse, des sports et de la cohésion sociale – utilisateurs du SIDSIC.
 
-Le questionnaire comporte 5 questions (durée estimée 5 minutes).
+La durée pour remplir ce questionnaire est estimée à 5 minutes.
 
 > [Accéder au questionnaire](https://sgmap.sphinxdeclic.com/d/s/8wgfky)
 {: .lien-important}
