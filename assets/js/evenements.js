@@ -20,7 +20,7 @@ const instantsearch_builder = new Instantsearch_builder(search);
 const datePicker = connectRange(
   (options, isFirstRendering) => {
     if (!isFirstRendering) return;
-    let start_date = moment();
+    let start_date = moment().startOf('day');
     let end_date = moment().add(1, 'year');
     const { refine } = options;
     refine ([start_date.unix(), end_date.unix()]);
