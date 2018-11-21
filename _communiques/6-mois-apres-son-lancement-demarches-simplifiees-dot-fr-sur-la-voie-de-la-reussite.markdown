@@ -1,7 +1,9 @@
 ---
 title: 6 mois après son lancement, demarches-simplifiees.fr sur la voie de la réussite
 date: 2018-09-03 12:05:00 +02:00
-file: "/uploads/CP_demarches-simplifiees_6_mois_apres_03_09_2018.pdf"
+files:
+- lien: "/uploads/CP_demarches-simplifiees_6_mois_apres_03_09_2018.pdf"
+  nom: Télécharger le communiqué de presse 
 chapeau-text: 'Créer une démarche en ligne en un temps record et sans frais. C’est
   possible depuis le 1er mars dernier, grâce à [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/),
   la plateforme de dématérialisation destinée aux administrations lancée par le secrétaire
@@ -20,7 +22,7 @@ Le principe ? Après avoir créé un compte, un agent peut créer un formulaire 
 
 ## Une progression constante
 
-6 mois après son lancement, le kit de de dématérialisation porte ses fruits : sur un objectif annoncé par Mounir Mahjoubi de 500 avant la fin de l’année, plus de 350 démarches sont aujourd’hui actives sur [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/). Au 31 août 2018, on dénombre près de 50 000 dossiers déposés et instruits grâce à [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/), des chiffres qui traduisent l’impact de la plateforme sur l’organisation des services et la simplification de la relation usager/administration.
+6 mois après son lancement, le kit de dématérialisation porte ses fruits : sur un objectif annoncé par Mounir Mahjoubi de 500 avant la fin de l’année, plus de 350 démarches sont aujourd’hui actives sur [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/). Au 31 août 2018, on dénombre près de 50 000 dossiers déposés et instruits grâce à [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/), des chiffres qui traduisent l’impact de la plateforme sur l’organisation des services et la simplification de la relation usager/administration.
 
 ## Un outil plébiscité par les administrations
 
