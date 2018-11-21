@@ -5,6 +5,14 @@ layout: default
 <div class="page-fille gray-background">
   <article class="article">
     {% include article.html %}
+    {% for file in page.files %}
+    <div class="text-center margin-top-2 padding-bottom-2 font-bold">
+      <a target="_blank" class="blue-link" id="fileSize-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ file.lien }}">
+        <span class="fas fa-download margin-horizontal-1"></span>
+        <span class="pdf">{{ file.nom }} (PDF</span>
+      </a>
+    </div>
+    {% endfor %}
     <section id="contact-presse" class="text-center grid-y flex-container">
       <div class="cell margin-vertical-2">
         <h2 class="h4 h2-contact-presse">Contact presse</h2>
@@ -21,11 +29,17 @@ layout: default
         <a class="white-link" href="mailto:{{ page.contact-presse.email }}">{{ page.contact-presse.email }}</a>
       </div>
     </section>
-    <div class="text-center margin-top-2 padding-bottom-2 font-bold">
-      <a target="_blank" class="blue-link" id="fileSize-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ page.file }}">
-        <span class="fas fa-download margin-horizontal-1"></span>
-        <span class="pdf">Télécharger le communiqué de presse (PDF</span>
-      </a>
+    <div id="tag-article" class="padding-large-horizontal-5 padding-medium-1 tag" >
+      <ul class="no-bullet">
+        {% for tag in page.tags %}
+        <li>
+          {{  page.collection.url-collection }}
+          <a href="{{ 'espace-presse' | append: '/?tags=' | append:tag | append:'#list-post' | remove:'\n' | relative_url }}">
+            #{{ tag | capitalize }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
     </div>
   </article>
 </div>

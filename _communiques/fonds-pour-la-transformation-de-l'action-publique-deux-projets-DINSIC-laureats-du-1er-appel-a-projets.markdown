@@ -5,7 +5,9 @@ date: 2018-06-20 00:00:00 +02:00
 tags:
 - État plateforme
 - Cloud
-file: uploads/CP_FTAP_laureats_DINSIC_20062018.pdf
+files:
+- lien: "/uploads/CP_FTAP_laureats_DINSIC_20062018.pdf"
+  nom: Télécharger le communiqué de presse 
 une-ou-diaporama:
 - image: "/uploads/Fonds_pour_la_transformation_de_laction_publique.png"
 ---

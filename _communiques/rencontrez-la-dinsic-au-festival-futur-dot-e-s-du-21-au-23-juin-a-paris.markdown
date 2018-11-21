@@ -7,7 +7,9 @@ tags:
 - Accessibilité
 - IA
 - Gouvernement ouvert
-file: "/uploads/CP_Futures_DINSIC.pdf"
+files:
+- lien: "/uploads/CP_Futures_DINSIC.pdf"
+  nom: Télécharger le communiqué de presse 
 chapeau-text: "Futur.e.s in Paris, le plus grand festival européen de l'innovation,
   gratuit et ouvert à tous, revient du 21 au 23 juin 2018 à La Villette. \nPartenaire
   de cette 9ème édition, **la direction interministérielle du numérique et du système

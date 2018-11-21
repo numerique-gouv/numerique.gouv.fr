@@ -8,7 +8,9 @@ tags:
 - Etalab
 - Gouvernement ouvert
 - Transparence
-file: "/uploads/CP_PAN_OGP_03_04_2018_VFF_numerique.docx"
+files:
+- lien: "/uploads/CP_PAN_OGP_03_04_2018_VFF_numerique.docx"
+  nom: Télécharger le communiqué de presse 
 chapeau-text: "**Dans le cadre du Partenariat pour un gouvernement ouvert (PGO), le
   Gouvernement et l’Assemblée nationale publient aujourd’hui, pour la première fois
   en commun, leurs plans d’action** respectifs sur la période 2018-2020. **L’objectif
