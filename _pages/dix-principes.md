@@ -37,7 +37,7 @@ principes:
 
     Sans surprise, elle **annonce dès le début le nombre d’écrans à remplir, le temps estimé, les documents** ou données nécessaires et les délais d’instruction.
 - principe: 
-  order: 3**
+  order: 3
   title: "... est officielle et ça se voit"
   content-text: |-
     L’usager n’a **aucun doute** : il est sur un **site officiel** de l’administration et peut réaliser sa démarche en **toute confiance**.

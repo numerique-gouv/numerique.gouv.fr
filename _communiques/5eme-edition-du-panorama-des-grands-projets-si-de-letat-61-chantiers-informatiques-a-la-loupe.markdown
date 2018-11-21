@@ -7,7 +7,9 @@ tags:
 - Sécurisation
 - Informatique
 - Transparence
-communique_file: "/uploads/CP_grandsprojetsSI.pdf"
+files:
+- lien: "/uploads/CP_grandsprojetsSI.pdf"
+  nom: Télécharger le communiqué de presse 
 chapeau-text: "**La direction interministérielle du numérique et du système d’information
   et de communication de l’Etat (DINSIC)** publie aujourd’hui le panorama des grands
   projets informatiques menés au sein des ministères. Créé en novembre 2016 et mis

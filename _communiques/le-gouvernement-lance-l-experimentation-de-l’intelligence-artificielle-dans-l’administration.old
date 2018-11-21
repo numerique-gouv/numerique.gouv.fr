@@ -4,7 +4,9 @@ title: Le gouvernement lance l’expérimentation de l’intelligence artificiel
 date: 2018-06-14 00:00:00 +02:00
 tags:
 - Intelligence artificielle
-communique_file: uploads/cp_ami_ia_ditp_dinsic_0.pdf
+files:
+- lien: "/uploads/cp_ami_ia_ditp_dinsic_0.pdf"
+  nom: Télécharger le communiqué de presse 
 une-ou-diaporama:
 - image: "/uploads/Le-gouvernement-lance-l’experimentation-de-l’intelligence-artificielle-dans-l’administration.jpeg"
 chapeau: L’intelligence artificielle (IA) est un enjeu d’avenir. Avec AI for humanity,

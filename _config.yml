@@ -45,7 +45,7 @@ defaults:
     path: ''
     type: communiques
   values:
-    communique_file: uploads/exemple.pdf
+    file: uploads/exemple.pdf
     layout: communique
     categories:
     - Communiqué de presse
