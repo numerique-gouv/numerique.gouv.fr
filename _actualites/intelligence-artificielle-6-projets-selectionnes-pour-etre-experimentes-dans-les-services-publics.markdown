@@ -9,7 +9,7 @@ tags:
 chapeau-text: Détecter des constructions illégales grâce à la
   reconnaissance visuelle d’images satellitaires. Améliorer les
   traitements post-opératoires grâce à l’analyse sémantique de
-  comptes rendus… Découvrez les 6 projets utilisant l’intelligence
+  comptes rendus médicaux… Découvrez les 6 projets utilisant l’intelligence
   artificielle qui vont être développés et expérimentés pendant 10
   mois dans les services publics !
 une-ou-diaporama:
@@ -189,21 +189,23 @@ Une compréhension naturelle du langage et une synthèse vocale améliorée à f
 * Des réponses de qualité dans un temps moindre
 * Prolongement naturel du canal téléphonique
 * Travail des agents focalisé sur les questions complexes pour une expertise plus pointue et un travail plus qualitatif
+{: .margin-bottom-3 }
 
 
-## La méthode et l'accompagnement
-{: .text-center .margin-top-3 }
-Ces six projets bénéficieront de la part des équipes de la DINSIC et la DITP, pendant dix mois :
-{: .margin-0 }
-* **d’un accompagnement technique** pour développer un proof of concept (POC) sur la problématique identifiée et monter en compétence sur les technologies d’intelligence artificielle.
-* **et d’un accompagnement stratégique** pour appréhender la transformation du métier associée au développement de ce POC : impacts induits sur le métier des agents, les processus, conduite du changement…
+> ## La méthode et l'accompagnement
+>
+> Ces six projets bénéficieront de la part des équipes de la DINSIC et la DITP, pendant dix mois :
+>
+> * **d’un accompagnement technique** pour développer un proof of concept (POC) sur la problématique identifiée et monter en compétence sur les technologies d’intelligence artificielle.
+> * **et d’un accompagnement stratégique** pour appréhender la transformation du métier associée au développement de ce POC : impacts induits sur le métier des agents, les processus, conduite du changement…
+>
+> À la fin de cette période, une évaluation sera menée — à l’appui des retours **des tests utilisateurs, de la maturité de l’IA**, de l’appréhension des impacts métier induits, etc. —
+> pour déterminer si le proof of concept a fait ses preuves et a vocation à être déployé.
+>
+> **Des experts** (instituts de recherche, associations, prestataires privés) **en données, IA et impact du numérique sur les métiers seront mobilisés pour conduire l’accompagnement**. En plus de l’accompagnement, la DITP et la DINSIC favoriseront les échanges entre les acteurs participant à l’AMI, les rencontres avec des acteurs publics déjà avancés sur des projets d’intelligence artificielle, et avec des acteurs spécialisés sur le sujet dans le domaine de la recherche et de l’industrie.
+{: .encadre .noir }
 
-À la fin de cette période, une évaluation sera menée — à l’appui des retours **des tests utilisateurs, de la maturité de l’IA**, de l’appréhension des impacts métier induits, etc. —
-pour déterminer si le proof of concept a fait ses preuves et a vocation à être déployé.
+**Lire aussi :**
+* sur le blog d'Etalab : [Intelligence Artificielle : 6 projets lauréats de l’appel à manifestation d’intérêt IA !](https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia){: target="_blank" }
+* [nos dossiers de presse](/espace-presse/appel-manifestation-interet-intelligence-artificielle-annonce-laureats/)
 
-**Des experts** (instituts de recherche, associations, prestataires privés) **en données, IA et impact du numérique sur les métiers seront mobilisés pour conduire l’accompagnement**. En plus de l’accompagnement, la DITP et la DINSIC favoriseront les échanges entre les acteurs participant à l’AMI, les rencontres avec des acteurs publics déjà avancés sur des projets d’intelligence artificielle, et avec des acteurs spécialisés sur le sujet dans le domaine de la recherche et de l’industrie.
-
-> ##### Lire aussi :
-> * sur le blog d'Etalab : [Intelligence Artificielle : 6 projets lauréats de l’appel à manifestation d’intérêt IA !](https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia){: target="_blank" }
-> * [nos dossiers de presse](/espace-presse/appel-manifestation-interet-intelligence-artificielle-annonce-laureats/)
-{: .encadre }
