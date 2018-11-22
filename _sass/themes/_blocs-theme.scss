@@ -100,7 +100,10 @@
     margin-bottom: 1rem;
   }
   ul{
-    padding: 2rem 2rem 0 2rem;
+    //padding: 2rem 2rem 0 2rem;
+  }
+  li {
+    padding-left: 3rem;
   }
   p {
     padding: 0 2rem 0 2rem;
@@ -114,7 +117,6 @@
   background-color: $bulbizarre;
   p {
     font-style: italic;
-    color: $bleue;
   }
 }
 .credit {
@@ -153,4 +155,7 @@
 }
 .video {
   border: none;
+}
+.bleue {
+  color: $bleue
 }
