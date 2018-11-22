@@ -8,6 +8,7 @@ tags:
 - intelligence artificielle
 - innovation
 - agilité
+- Etalab
 files:
 - lien: "/uploads/ami-ia-laureats-dossier-court.pdf"
   nom: Télécharger le dossier synthétique

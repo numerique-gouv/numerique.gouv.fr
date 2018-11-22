@@ -23,17 +23,11 @@ Bienvenu à toi développeur ou utilisateur du site de la DINSIC.
 [Make](https://www.gnu.org/software/make) (used with rsync for deploying)  
 
 
-### Ansible
-
-Pour la configuration du serveur,  nous avons utilisé les rôles ansible suivants:
-
-
-
 
 ## La chaine de developpement
 
 1. Branche dev pour les developpement courant
-2. Branche siteleaf pour la compatibilité avec le CRM
+2. Branche preprode pour la compatibilité avec le CRM
 3. Branche master (CI)
 
 ## Gestion des deux repos
