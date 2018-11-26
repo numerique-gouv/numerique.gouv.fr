@@ -1,5 +1,6 @@
 ---
-title: 'Lancement : Rejoignez la communauté "Blue hats, hackers d’intérêt général" ! '
+title: 'Lancement : Rejoignez la communauté "Blue hats, hackers d’intérêt général"
+  ! '
 date: 2018-10-24 16:47:00 +02:00
 categories:
 - Journée d'échanges
