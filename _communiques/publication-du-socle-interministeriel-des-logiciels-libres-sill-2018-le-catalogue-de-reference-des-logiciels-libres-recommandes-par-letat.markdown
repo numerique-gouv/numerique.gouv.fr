@@ -4,7 +4,7 @@ title: 'Publication du socle interministériel des logiciels libres (SILL) 2018 
 date: 2018-02-12 11:38:00 +01:00
 files:
 - lien: "/uploads/CP_Socle_interministeriel_logiciels_libres-2018.pdf"
-  nom: Télécharger le communiqué de presse 
+  nom: Télécharger le communiqué de presse
 chapeau-text: L’État partage aujourd’hui l’édition 2018 de son **socle interministériel
   des logiciels libres (SILL)**, publié chaque année depuis 2013 pour **encourager
   l’usage concerté et coordonné des solutions libres dans l’administration**.

@@ -1,5 +1,6 @@
 ---
-title: "5e édition du panorama des grands projets SI de l’État : 61 chantiers informatiques à la loupe"
+title: '5e édition du panorama des grands projets SI de l’État : 61 chantiers informatiques
+  à la loupe'
 date: 2018-03-26 11:03:00 +02:00
 tags:
 - État plateforme
@@ -9,7 +10,7 @@ tags:
 - Transparence
 files:
 - lien: "/uploads/CP_grandsprojetsSI.pdf"
-  nom: Télécharger le communiqué de presse 
+  nom: Télécharger le communiqué de presse
 chapeau-text: "**La direction interministérielle du numérique et du système d’information
   et de communication de l’Etat (DINSIC)** publie aujourd’hui le panorama des grands
   projets informatiques menés au sein des ministères. Créé en novembre 2016 et mis

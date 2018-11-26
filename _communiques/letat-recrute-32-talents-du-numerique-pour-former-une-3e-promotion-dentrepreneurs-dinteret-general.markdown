@@ -8,7 +8,7 @@ tags:
 - datascience
 files:
 - lien: "/uploads/CP_EIG3_Appel_a_candidatures.pdf"
-  nom: Télécharger le communiqué de presse 
+  nom: Télécharger le communiqué de presse
 une-ou-diaporama:
 - image: "/uploads/EIG3-candidature-ok.png"
 ---
