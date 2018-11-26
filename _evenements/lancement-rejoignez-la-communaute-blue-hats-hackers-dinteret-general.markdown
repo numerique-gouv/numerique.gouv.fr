@@ -20,9 +20,11 @@ acces:
   lignes:
   - nom: 'Ligne 12 : Porte d’Aubervilliers'
 champs_informations:
+- intitule: 'horaires :'
+  contenu: 'De 9h à 18h'
 - intitule: Inscription gratuite obligatoire
-  contenu: https://www.opensourcesummit.paris/preinscription_154_204_p.html
-  horaire: De 9h à 18h
+  contenu: www.opensourcesummit.paris/preinscription_154_204_p.html
+  lien: https://www.opensourcesummit.paris/preinscription_154_204_p.html
 ---
 
 Vous êtes développeur.euse, designer, datascientist, au sein de l'État, en tant qu'indépendant ou chez un prestataire, et utilisez ou produisez des logiciels libres ? 
