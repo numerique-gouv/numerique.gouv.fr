@@ -19,7 +19,7 @@ adresse: 87 avenue des magasins généraux, 93 300 Aubervilliers
 acces:
 - type: 'Métro :'
   lignes:
-  - nom: 'Ligne 12 : Porte d’Aubervilliers'
+  - nom: Ligne 12 "Porte d’Aubervilliers"
 champs_informations:
 - intitule: 'horaires '
   contenu: De 9h à 18h
