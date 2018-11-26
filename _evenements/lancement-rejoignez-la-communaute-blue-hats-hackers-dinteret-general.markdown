@@ -1,6 +1,6 @@
 ---
 title: 'Lancement : Rejoignez la communauté "Blue hats, hackers d’intérêt général"
-  ! '
+  !'
 date: 2018-10-24 16:47:00 +02:00
 categories:
 - Journée d'échanges
@@ -21,7 +21,7 @@ acces:
   lignes:
   - nom: 'Ligne 12 : Porte d’Aubervilliers'
 champs_informations:
-- intitule: 'horaires :'
+- intitule: 'horaires '
   contenu: De 9h à 18h
 - intitule: Inscription gratuite obligatoire
   contenu: www.opensourcesummit.paris/preinscription_154_204_p.html
