@@ -25,10 +25,11 @@ publications:
   url: "/publications/principes-reussite-grands-projets-si-etat/"
   une-ou-diaporama:
   - image: "/uploads/9%20Principes%20cl%C3%A9%20de%20r%C3%A9ussite%20des%20grands%20projets%20SI.JPG"
-- title: Les principes de mutualisation du SI de l’État
-  url: "/publications/principes-mutualisation-si-etat/"
+- title: 'Les principes de mutualisation du SI de l’Etat Les principes de mutualisation
+    du SI de l’Etat '
+  url: site-dinsic.siteleaf.net/publications/principes-mutualisation-si-etat/
   une-ou-diaporama:
-  - image: "/uploads/principes-mutualisation-si.JPG"
+  - image: 
 layout: publications
 ---
 

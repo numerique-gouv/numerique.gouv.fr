@@ -1,17 +1,17 @@
 ---
-title: 'Intelligence artificielle : 6 projets sélectionnés pour être expérimentés dans les services publics'
-date: 2018-11-22 12:07:00 +02:00
+title: 'Intelligence artificielle : 6 projets sélectionnés pour être expérimentés
+  dans les services publics'
+date: 2018-11-22 11:07:00 +01:00
 tags:
 - intelligence artificielle
 - innovation
 - agilité
 - Etalab
-chapeau-text: Détecter des constructions illégales grâce à la
-  reconnaissance visuelle d’images satellitaires. Améliorer les
-  traitements post-opératoires grâce à l’analyse sémantique de
-  comptes rendus médicaux… Découvrez les 6 projets utilisant l’intelligence
-  artificielle qui vont être développés et expérimentés pendant 10
-  mois dans les services publics !
+chapeau-text: Détecter des constructions illégales grâce à la reconnaissance visuelle
+  d’images satellitaires. Améliorer les traitements post-opératoires grâce à l’analyse
+  sémantique de comptes rendus médicaux… Découvrez les 6 projets utilisant l’intelligence
+  artificielle qui vont être développés et expérimentés pendant 10 mois dans les services
+  publics !
 une-ou-diaporama:
 - image: "/uploads/laureats-ami-ia.jpeg"
 ---

@@ -1,7 +1,13 @@
 ---
 title: Les fiches des conseils des systèmes d’information et de communication (CSIC)
 permalink: "/publications/fiches-csic/"
-chapeau-text: Le conseil des systèmes d’information et de communication (CSIC) constitue l’instance de gouvernance stratégique du SI de l’Etat. Il est présidé par le directeur interministériel du numérique et du système d’information et de communication de l’Etat (DINSIC). Le CSIC est consulté sur la définition et la mise en œuvre du cadre stratégique commun du système d’information de l’Etat. Le DINSIC soumet au conseil, au travers des fiches CSIC, les évolutions des documents de référence ou les nouveaux cadres ou normes techniques et dresse le bilan des contrats de progrès.
+chapeau-text: Le conseil des systèmes d’information et de communication (CSIC) constitue
+  l’instance de gouvernance stratégique du SI de l’Etat. Il est présidé par le directeur
+  interministériel du numérique et du système d’information et de communication de
+  l’Etat (DINSIC). Le CSIC est consulté sur la définition et la mise en œuvre du cadre
+  stratégique commun du système d’information de l’Etat. Le DINSIC soumet au conseil,
+  au travers des fiches CSIC, les évolutions des documents de référence ou les nouveaux
+  cadres ou normes techniques et dresse le bilan des contrats de progrès.
 une:
   image: "/uploads/fiches-csic_fille.png"
   alternative-textuel: 
@@ -38,13 +44,15 @@ ministeres:
   - avis:
     - description: 
       pdf: "/uploads/201811-CSIC-Fiche_08-RHNSIC_final.pdf"
-      titre: Compétences numériques de l’Etat – plan d’action et référentiel des rémunérations
+      titre: Compétences numériques de l’Etat – plan d’action et référentiel des
+        rémunérations
   titre: Novembre 2018
 - annees:
   - avis:
     - description: 
       pdf: "/uploads/20180517-CSIC-Point_02-IGF_Propositions_rapport_ SI.pdf"
-      titre: Echanges sur les constats et les propositions majeures du rapport IGF « Les systèmes d’information de l’Etat et leur transformation »
+      titre: Echanges sur les constats et les propositions majeures du rapport IGF
+        « Les systèmes d’information de l’Etat et leur transformation »
   - avis:
     - description: 
       pdf: "/uploads/20180517-CSIC-Point_03-Lignes_Strategiques_du_SI_de_l_Etat.pdf"
@@ -56,7 +64,8 @@ ministeres:
   - avis:
     - description: 
       pdf: "/uploads/20180517-CSIC-Point_05-TMSI-MIE.PDF"
-      titre: Téléphonie mobile sécurisée interministérielle et messagerie instantanée de l’Etat
+      titre: Téléphonie mobile sécurisée interministérielle et messagerie instantanée
+        de l’Etat
   titre: Mai 2018
 layout: avis-conformes
 ---

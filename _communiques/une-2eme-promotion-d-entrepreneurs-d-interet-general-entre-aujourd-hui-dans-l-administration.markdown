@@ -6,7 +6,7 @@ tags:
 - entrepreneur.e d’intérêt général
 files:
 - lien: "/uploads/CP_Entrepreneurs_interet_general_16012018.pdf"
-  nom: Télécharger le communiqué de presse 
+  nom: Télécharger le communiqué de presse
 chapeau-text: 'Lancé en janvier 2017, le programme « Entrepreneur.e d’intérêt général
   » (EIG) ouvre l’administration à des talents du numérique pour résoudre des défis
   d’intérêt général au sein des ministères. Chaque année, une promotion d’entrepreneurs

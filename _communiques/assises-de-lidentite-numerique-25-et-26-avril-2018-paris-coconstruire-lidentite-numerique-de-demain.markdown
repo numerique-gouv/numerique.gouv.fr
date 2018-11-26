@@ -8,7 +8,7 @@ tags:
 - inclusion numérique
 files:
 - lien: "/uploads/CP-Assises-identite-numerique.pdf"
-  nom: Télécharger le communiqué de presse 
+  nom: Télécharger le communiqué de presse
 chapeau-text: Organisées sous le haut patronage du ministre de l’Intérieur, du ministre
   de la Justice et du secrétaire d’État chargé du Numérique, les Assises de l'identité
   numérique vont lancer - les 25 et 26 avril - les travaux de co-construction et de

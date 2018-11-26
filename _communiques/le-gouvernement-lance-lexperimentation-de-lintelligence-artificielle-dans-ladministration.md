@@ -6,7 +6,7 @@ tags:
 - Intelligence artificielle
 files:
 - lien: "/uploads/CP_AMI_IA_DITP_DINSIC.docx"
-  nom: Télécharger le communiqué de presse 
+  nom: Télécharger le communiqué de presse
 chapeau-text: L’intelligence artificielle (IA) est un enjeu d’avenir. Avec **AI for
   humanity**, lancé en mars 2017, le gouvernement souhaite que l’État se saisisse
   pleinement du potentiel de l’IA et l’intègre dans la conduite de ses missions, pour
