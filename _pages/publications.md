@@ -31,3 +31,4 @@ publications:
   - image: "/uploads/principes-mutualisation-si.JPG"
 layout: publications
 ---
+

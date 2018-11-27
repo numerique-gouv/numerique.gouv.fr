@@ -18,3 +18,4 @@ ressources-presse:
   contenu: Logos, biographies, photos...
 layout: espace-presse
 ---
+
