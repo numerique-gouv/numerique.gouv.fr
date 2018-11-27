@@ -34,7 +34,6 @@ defaults:
     layout: page-fille
     is_une: true
     categories:
-    - Article
     chapeau-text: 
     une-ou-diaporama:
     - image: 
@@ -48,7 +47,6 @@ defaults:
     file: uploads/exemple.pdf
     layout: communique
     categories:
-    - Communiqué de presse
     chapeau-text: 
     une-ou-diaporama:
     - image: 
