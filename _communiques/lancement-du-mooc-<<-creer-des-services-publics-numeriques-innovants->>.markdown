@@ -1,6 +1,8 @@
 ---
 title: Lancement du MOOC « Créer des services publics numériques innovants »
 date: 2018-10-01 15:26:00 +02:00
+categories:
+- Communiqué de presse
 tags:
 - startup d'État
 - beta.gouv.fr

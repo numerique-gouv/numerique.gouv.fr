@@ -2,6 +2,8 @@
 title: Assises de l'identité numérique 25 et 26 avril 2018 - Paris Coconstruire l’identité
   numérique de demain
 date: 2018-04-23 16:34:00 +02:00
+categories:
+- Communiqué de presse
 published: false
 tags:
 - Sécurisation

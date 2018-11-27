@@ -1,6 +1,8 @@
 ---
 title: Le gouvernement annonce sa stratégie en matière de cloud
 date: 2018-07-03 00:00:00 +02:00
+categories:
+- Communiqué de presse
 tags:
 - Cloud
 files:

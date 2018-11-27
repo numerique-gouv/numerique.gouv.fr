@@ -1,6 +1,8 @@
 ---
 title: 6 mois après son lancement, demarches-simplifiees.fr sur la voie de la réussite
 date: 2018-09-03 12:05:00 +02:00
+categories:
+- Communiqué de presse
 files:
 - lien: "/uploads/CP_demarches-simplifiees_6_mois_apres_03_09_2018.pdf"
   nom: Télécharger le communiqué de presse

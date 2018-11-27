@@ -1,6 +1,8 @@
 ---
 title: L’État adopte sa propre messagerie instantanée sécurisée
 date: 2018-04-20 16:12:00 +02:00
+categories:
+- Communiqué de presse
 published: false
 files:
 - lien: "/uploads/CP_messagerie_instantanee_Etat.pdf"

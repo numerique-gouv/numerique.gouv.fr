@@ -2,6 +2,8 @@
 title: 'Transparence : La DINSIC publie ses avis sur les  grands projets informatiques
   de l’État'
 date: 2018-04-24 16:55:00 +02:00
+categories:
+- Communiqué de presse
 tags:
 - SI
 - Transparence

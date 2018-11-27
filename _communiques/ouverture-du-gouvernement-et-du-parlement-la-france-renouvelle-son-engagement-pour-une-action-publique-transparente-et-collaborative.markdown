@@ -2,6 +2,8 @@
 title: "Ouverture du Gouvernement et du Parlement : \nla France renouvelle son engagement
   pour une action publique transparente et collaborative"
 date: 2018-04-03 11:03:00 +02:00
+categories:
+- Communiqué de presse
 published: false
 tags:
 - Données ouvertes

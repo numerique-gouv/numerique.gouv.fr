@@ -2,6 +2,8 @@
 title: 'L’administrateur général des données remet son 2e rapport : « la donnée comme
   infrastructure essentielle »'
 date: 2018-04-10 00:00:00 +02:00
+categories:
+- Communiqué de presse
 tags:
 - Données ouvertes
 - Administrateur général des données
