@@ -25,8 +25,7 @@ publications:
   url: "/publications/principes-reussite-grands-projets-si-etat/"
   une-ou-diaporama:
   - image: "/uploads/9%20Principes%20cl%C3%A9%20de%20r%C3%A9ussite%20des%20grands%20projets%20SI.JPG"
-- title: 'Les principes de mutualisation du SI de l’Etat
-    du SI de l’Etat '
+- title: 'Les principes de mutualisation du SI de l’Etat du SI de l’Etat '
   url: "/publications/principes-mutualisation-si-etat/"
   une-ou-diaporama:
   - image: "/uploads/principes-mutualisation-si.JPG"
