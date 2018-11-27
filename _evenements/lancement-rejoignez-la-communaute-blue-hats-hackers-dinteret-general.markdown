@@ -23,8 +23,8 @@ acces:
 champs_informations:
 - intitule: 'horaires '
   contenu: De 9h à 18h
-- intitule: Inscription gratuite obligatoire
-  contenu: www.opensourcesummit.paris/preinscription_154_204_p.html
+- intitule: Modalités
+  contenu: Inscription gratuite obligatoire
   lien: https://www.opensourcesummit.paris/preinscription_154_204_p.html
 ---
 

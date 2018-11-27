@@ -1,6 +1,8 @@
 ---
 title: 'Marché cloud de l’État : fournisseurs de services cloud, présentez-vous !'
 date: 2018-10-11 18:18:00 +02:00
+categories:
+- Article
 tags:
 - cloud
 - marché

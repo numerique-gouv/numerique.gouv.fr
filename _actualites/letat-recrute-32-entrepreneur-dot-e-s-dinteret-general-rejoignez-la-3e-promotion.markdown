@@ -2,6 +2,8 @@
 title: 'L’État recrute 32 entrepreneurs d’intérêt général : rejoignez la 3e promotion
   !'
 date: 2018-09-18 15:21:00 +02:00
+categories:
+- Article
 tags:
 - Entrepreneur d'Intérêt Général
 - données publiques

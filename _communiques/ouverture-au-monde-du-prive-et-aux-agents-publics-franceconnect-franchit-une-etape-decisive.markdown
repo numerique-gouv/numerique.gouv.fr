@@ -3,6 +3,8 @@ title: 'Ouverture au monde du privé et aux agents publics : FranceConnect franc
   une étape décisive'
 date: 2018-07-12 17:33:00 +02:00
 published: false
+categories:
+- Communiqué de presse
 tags:
 - FranceConnect
 files:

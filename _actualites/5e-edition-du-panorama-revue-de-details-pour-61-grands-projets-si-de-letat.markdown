@@ -1,6 +1,8 @@
 ---
 title: '5e édition du panorama: revue de détails pour 61 grands projets SI de l’État'
 date: 2018-03-26 16:07:00 +02:00
+categories:
+- Article
 tags:
 - panorama
 - système d'information

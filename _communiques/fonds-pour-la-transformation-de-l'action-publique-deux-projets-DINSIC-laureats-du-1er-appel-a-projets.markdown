@@ -2,6 +2,8 @@
 title: 'Fonds pour la transformation de l''action publique&nbsp;: deux projets interministériels
   lauréats du 1er appel à projets'
 date: 2018-06-20 00:00:00 +02:00
+categories:
+- Communiqué de presse
 tags:
 - État plateforme
 - Cloud
