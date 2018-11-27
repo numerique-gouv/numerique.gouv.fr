@@ -7,8 +7,8 @@ categories:
 tags:
 - Logiciel libre
 - Open source
-chapeau-text: 'La direction interministérielle du numérique lance la communauté Blue
-  hats, hackers d’intérêt général. Rejoignez le mouvement et venez poser les premières
+chapeau-text: 'La direction interministérielle du numérique lance la communauté **Blue
+  hats, hackers d’intérêt général.** Rejoignez le mouvement et venez poser les premières
   briques avec nous lors d''une journée de rencontres et d''échanges, organisée dans
   le cadre du Paris open source summit. '
 une-ou-diaporama:
@@ -28,13 +28,13 @@ champs_informations:
   lien: https://www.opensourcesummit.paris/preinscription_154_204_p.html
 ---
 
-Vous êtes développeur.euse, designer, datascientist, au sein de l'État, en tant qu'indépendant ou chez un prestataire, et utilisez ou produisez des logiciels libres ? 
+Vous êtes **développeur.euse, designer, datascientist,** au sein de l'État, en tant qu'indépendant ou chez un prestataire, et **utilisez ou produisez des logiciels libres ? **
 
-Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ?
+Vous contribuez à des **projets ouverts utilisés par l’administration** et souhaitez partager votre expertise et vos bonnes pratiques ?
 
-Rejoignez la communauté Blue hats, hackers d’intérêt général, et ensemble, faisons progresser le libre et ses usages dans l'administration ! 
+Rejoignez la communauté **Blue hats, hackers d’intérêt général,** et ensemble, faisons progresser le libre et ses usages dans l'administration ! 
 
-La direction interministérielle du numérique lance cette communauté à l'occasion du Paris open source summit. Ces rencontres sont ouvertes à toute personne intéressée par les projets libres et open source de l’administration et souhaitant contribuer aux travaux collectifs en cours. 
+La **direction interministérielle du numérique** lance cette communauté à l'occasion du Paris open source summit. Ces rencontres sont ouvertes à toute personne intéressée par les projets libres et open source de l’administration et souhaitant contribuer aux travaux collectifs en cours. 
 
 Au programme : présentation du mouvement Blue hats, démonstrations, présentations éclairs, tables rondes et débats. 
 
