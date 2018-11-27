@@ -1,4 +1,4 @@
-{% assign j = include.date | date: "%-d" %}
+<time>{% assign j = include.date | date: "%-d" %}
 {% assign m = include.date | date: "%-m" %}
 
 {% if j == '1' %}
@@ -20,4 +20,4 @@
 {% when '11' %}novembre
 {% when '12' %}décembre
 {% endcase %}
-{{ include.date | date: "%Y" }}
+  {{ include.date | date: "%Y" }}</time>

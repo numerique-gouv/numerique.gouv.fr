@@ -1,4 +1,4 @@
-{% assign start_day = include.start_date | date: "%-d" %}
+<time>{% assign start_day = include.start_date | date: "%-d" %}
 {% assign end_day = include.end_date | date: "%-d" %}
 {% assign start_month = include.start_date | date: "%-m" %}
 {% assign end_month = include.end_date | date: "%-m" %}
@@ -76,5 +76,5 @@
   {% when '12' %}décembre
   {% endcase %}
 {% endif %}
-{{ end_year }}
+  {{ end_year }}</time>
 
