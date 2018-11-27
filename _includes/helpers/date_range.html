@@ -4,7 +4,7 @@
 {% assign end_month = include.end_date | date: "%-m" %}
 {% assign start_year = include.start_date | date: "%Y"  %}
 {% assign end_year = include.end_date | date: "%Y" %}
-<time>
+
 {% if start_month == end_month %}
 
   Du
@@ -77,4 +77,4 @@
   {% endcase %}
 {% endif %}
   {{ end_year }}
-</time>
+
