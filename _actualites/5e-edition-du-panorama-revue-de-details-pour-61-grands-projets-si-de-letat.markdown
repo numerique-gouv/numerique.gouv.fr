@@ -1,13 +1,13 @@
 ---
 title: '5e édition du panorama: revue de détails pour 61 grands projets SI de l’État'
 date: 2018-03-26 16:07:00 +02:00
+categories:
+- Article
 tags:
 - panorama
 - système d'information
 - sécurisation
 position: 3
-categories:
-- Article
 chapeau-text: La transformation numérique de l’Etat se dépeint à nouveau à travers
   61 grands projets informatiques menés au sein des ministères, pour un coût total
   de 2,83 milliards d’euros.

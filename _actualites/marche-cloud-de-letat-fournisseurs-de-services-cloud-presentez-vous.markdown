@@ -1,11 +1,11 @@
 ---
 title: 'Marché cloud de l’État : fournisseurs de services cloud, présentez-vous !'
 date: 2018-10-11 18:18:00 +02:00
+categories:
+- Article
 tags:
 - cloud
 - marché
-categories:
-- Article
 chapeau-text: Votre entreprise propose des services de cloud (informatique en nuage)
   ? L’Etat lance une enquête pour préparer son futur marché de cloud.
 une-ou-diaporama:
