@@ -85,4 +85,3 @@ list-items:
     code, de services ; intégration de code dans celui de la solution mutualisée,
     etc.)."
 ---
-
