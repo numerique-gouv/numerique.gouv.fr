@@ -2,6 +2,8 @@
 title: 'MOOC : apprenez à créer des services publics numériques innovants selon la
   méthode Beta.gouv.fr !'
 date: 2018-10-02 15:57:00 +02:00
+categories:
+- Article
 published: false
 ---
 

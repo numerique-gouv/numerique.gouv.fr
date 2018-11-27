@@ -2,6 +2,8 @@
 title: Une 2ème promotion d’entrepreneurs d’intérêt général entre aujourd’hui dans
   l’administration !
 date: 2018-01-15 23:00:00 +01:00
+categories:
+- Communiqué de presse
 tags:
 - entrepreneur.e d’intérêt général
 files:

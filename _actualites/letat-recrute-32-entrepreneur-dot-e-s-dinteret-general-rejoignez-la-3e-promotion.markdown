@@ -7,6 +7,8 @@ tags:
 - données publiques
 - data science
 - innovation
+categories:
+- Article
 chapeau-text: Vous êtes développeur•euse, designer•euse ou data scientist, et vous
   avez envie de vous engager pour transformer le service public ? Rejoignez la 3e
   promotion du programme Entrepreneur•e d’Intérêt Général !

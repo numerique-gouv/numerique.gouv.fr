@@ -4,6 +4,8 @@ date: 2018-10-11 18:18:00 +02:00
 tags:
 - cloud
 - marché
+categories:
+- Article
 chapeau-text: Votre entreprise propose des services de cloud (informatique en nuage)
   ? L’Etat lance une enquête pour préparer son futur marché de cloud.
 une-ou-diaporama:

@@ -2,6 +2,8 @@
 title: 'Intelligence artificielle : 6 projets sélectionnés pour être expérimentés
   dans les services publics'
 date: 2018-11-22 11:07:00 +01:00
+categories:
+- Article
 tags:
 - intelligence artificielle
 - innovation

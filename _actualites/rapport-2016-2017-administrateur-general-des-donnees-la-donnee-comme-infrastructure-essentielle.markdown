@@ -2,6 +2,8 @@
 title: 'Rapport 2016-2017 de l''administrateur général des données : La donnée comme
   infrastructure essentielle'
 date: 2018-04-10 15:51:00 +02:00
+categories:
+- Article
 tags:
 - administrateur général des données
 - rapport

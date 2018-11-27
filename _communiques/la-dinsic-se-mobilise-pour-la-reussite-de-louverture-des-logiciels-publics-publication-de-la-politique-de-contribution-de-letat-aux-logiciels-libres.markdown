@@ -2,6 +2,8 @@
 title: 'La DINSIC se mobilise pour la réussite de l''ouverture des logiciels publics
   : publication de la politique de contribution de l’État aux logiciels libres'
 date: 2018-05-15 17:03:00 +02:00
+categories:
+- Communiqué de presse
 published: false
 tags:
 - Données ouvertes
