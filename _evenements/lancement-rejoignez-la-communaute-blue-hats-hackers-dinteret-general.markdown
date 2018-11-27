@@ -28,7 +28,7 @@ champs_informations:
   lien: https://www.opensourcesummit.paris/preinscription_154_204_p.html
 ---
 
-Vous êtes **développeur.euse, designer, datascientist,** au sein de l'État, en tant qu'indépendant ou chez un prestataire, et **utilisez ou produisez des logiciels libres ? **
+Vous êtes **développeur.euse, designer, datascientist,** au sein de l'État, en tant qu'indépendant ou chez un prestataire, et **utilisez ou produisez des logiciels libres** ? 
 
 Vous contribuez à des **projets ouverts utilisés par l’administration** et souhaitez partager votre expertise et vos bonnes pratiques ?
 
