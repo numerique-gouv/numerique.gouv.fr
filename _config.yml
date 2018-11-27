@@ -33,7 +33,7 @@ defaults:
   values:
     layout: page-fille
     is_une: true
-    categories:
+    categories: 
     chapeau-text: 
     une-ou-diaporama:
     - image: 
@@ -46,7 +46,7 @@ defaults:
   values:
     file: uploads/exemple.pdf
     layout: communique
-    categories:
+    categories: 
     chapeau-text: 
     une-ou-diaporama:
     - image: 
