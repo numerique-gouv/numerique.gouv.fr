@@ -17,3 +17,5 @@ une-ou-diaporama:
 auteur: Secrétariat d'État chargé du Numérique
 ---
 
+>[Lire la suite](https://secretariat-etat.numerique.gouv.fr/noel-pme)
+{: .lien-important}
