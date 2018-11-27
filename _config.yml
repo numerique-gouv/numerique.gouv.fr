@@ -71,16 +71,16 @@ defaults:
       alternative-textuelle: 
     event_start_date: 
     event_end_date: 
-    lieu:
-    adresse:
+    lieu: 
+    adresse: 
     afficher_la_carte: true
     acces:
     - type: 
       lignes:
       - nom: 
     champs_informations:
-    - intitule:
-      contenu:
+    - intitule: 
+      contenu: 
 url: https://www.numerique.gouv.fr
 categories:
 - main
