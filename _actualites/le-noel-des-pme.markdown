@@ -8,7 +8,7 @@ tags:
 - entreprises
 - dge
 chapeau-text: |-
-  Vous êtes une PME, vous faites de l’e-commerce responsable, valorisant l’impact local, les circuits courts ou l’éco-conception
+  Vous êtes une PME, vous faites de l’e-commerce responsable, valorisant l’impact local, les circuits courts ou l’éco-conception.
   Et vous avez des idées cadeaux pour ces fêtes de fin d’année ?
   Adressez-nous un message jusqu’au 24 décembre pour être référencée à [lenoeldespme.dge@finances.gouv.fr](mailto:lenoeldespme.dge@finances.gouv.fr)
 une-ou-diaporama:
