@@ -1,7 +1,7 @@
 {% assign j = include.date | date: "%-d" %}
 {% assign m = include.date | date: "%-m" %}
 {% assign y = include.date | date: "%Y" %}
-<time datetime="{{j}}-{{m}}-{{y}}">
+<time datetime="{{include.date}}">
 {% if j == '1' %}
 1er
 {% else %}
@@ -21,4 +21,4 @@
 {% when '11' %}novembre
 {% when '12' %}décembre
 {% endcase %}
-  {{ y }}</time>
+  {{ include.date | date: "%Y" }}</time>
