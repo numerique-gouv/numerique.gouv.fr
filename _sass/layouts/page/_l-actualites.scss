@@ -2,4 +2,13 @@
 // Layout Actualités
 // --------------------------------------------------
 
+.picto-external-link {
+  display: none;
+  height: 20px;
+}
 
+.card-actu:hover {
+  .picto-external-link {
+    display: inline;
+  }
+}

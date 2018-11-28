@@ -7,10 +7,11 @@ tags:
 - entreprises
 - dge
 - Secrétariat d'État chargé du Numérique
+redirection: https://secretariat-etat.numerique.gouv.fr/noel-pme
 chapeau-text: |-
-  Vous êtes une PME, vous faites de l’e-commerce responsable, valorisant l’impact local, les circuits courts ou l’éco-conception.
+  Vous êtes une PME, vous faites de l’e-commerce responsable, valorisant les circuits courts ou l’éco-conception.
   Et vous avez des idées cadeaux pour ces fêtes de fin d’année ?
-  Adressez-nous un message jusqu’au 24 décembre pour être référencée à [lenoeldespme.dge@finances.gouv.fr](mailto:lenoeldespme.dge@finances.gouv.fr)
+  Adressez-nous un message jusqu’au 15 décembre pour être référencé à lenoeldespme.dge@finances.gouv.fr
 une-ou-diaporama:
 - image: "/uploads/noel-pme.png"
   alternative-textuelle: Le Noël des PME

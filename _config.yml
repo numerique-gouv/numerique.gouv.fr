@@ -71,16 +71,16 @@ defaults:
       alternative-textuelle: 
     event_start_date: 
     event_end_date: 
-    lieu: DINSIC
-    adresse: 20 avenue de Ségur 75007 Paris
+    lieu: 
+    adresse: 
     afficher_la_carte: true
     acces:
     - type: 
       lignes:
       - nom: 
     champs_informations:
-    - intitule: contact
-      contenu: loremipsum@modernisation.gouv.fr
+    - intitule: 
+      contenu: 
 url: https://www.numerique.gouv.fr
 categories:
 - main
