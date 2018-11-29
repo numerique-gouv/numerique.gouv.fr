@@ -12,6 +12,7 @@ Personnes:
   Key: 
 layout: ressources-presse
 ---
+
 ## Photographies d'Henri Verdier
 
 ![Portrait_Henri_Verdier.JPG](/uploads/Portrait_Henri_Verdier.JPG)
