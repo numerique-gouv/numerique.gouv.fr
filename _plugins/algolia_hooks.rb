@@ -2,6 +2,7 @@ module Jekyll
   module Algolia
     module Hooks
       def self.before_indexing_each(record, node, context)
+        return unless record[:redirection].nil?
         if !record[:event_start_date].nil? && !record[:event_end_date].nil?
           start_date = Date.parse(record[:event_start_date])
           end_date = Date.parse(record[:event_end_date])
