@@ -6,4 +6,3 @@ une:
   alternative-textuelle: ordinateur portable
 layout: agenda
 ---
-
