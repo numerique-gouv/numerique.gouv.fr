@@ -7,7 +7,6 @@ une-ou-diaporama:
 layout: avis-conformes
 ---
 
-gr ddede
 **Mode, chaussures, accessoires**
 
  
