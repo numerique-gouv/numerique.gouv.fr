@@ -9,9 +9,7 @@ layout: page-fille
 
 **Mode, chaussures, accessoires**
 
-|![hurlu2.png](/uploads/hurlu2.png)
-|![mignature2.jpg](/uploads/mignature2.jpg)
-|![mignature2.jpg](/uploads/mignature2.jpg) |![mignature2.jpg](/uploads/mignature2.jpg) | 
+|![hurlu2.png](/uploads/hurlu2.png)|![mignature2.jpg](/uploads/mignature2.jpg)|![mignature2.jpg](/uploads/mignature2.jpg) |![mignature2.jpg](/uploads/mignature2.jpg) | 
 
 |![mignature2.jpg](/uploads/mignature2.jpg)|![mignature2.jpg](/uploads/mignature2.jpg) |![mignature2.jpg](/uploads/mignature2.jpg) | ![mignature2.jpg](/uploads/mignature2.jpg) |
 
