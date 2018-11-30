@@ -5,8 +5,4 @@ layout: page
 ---
 
 | 1 | 2| 3 | 4 |
-|
-![mignature.jpg](/uploads/mignature.jpg)| 
-![mignature.jpg](/uploads/mignature.jpg) | 
-![mignature.jpg](/uploads/mignature.jpg) | 
-![mignature.jpg](/uploads/mignature.jpg) |
+|![mignature2.jpg](/uploads/mignature2.jpg)|![mignature2.jpg](/uploads/mignature2.jpg) |![mignature2.jpg](/uploads/mignature2.jpg) | ![mignature2.jpg](/uploads/mignature2.jpg) |
