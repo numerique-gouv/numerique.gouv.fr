@@ -9,7 +9,7 @@ layout: page-fille
 
 **Mode, chaussures, accessoires**
 
-|[![hurlu5.jpg](/uploads/hurlu5.jpg){: width="350" style="border: solid 1px;" .image-center}](https://hurlu.fr){:target="_blank"}|[![hurlu5.jpg](/uploads/hurlu5.jpg){: width="350" style="border: solid 1px;" .image-center}](https://hurlu.fr){:target="_blank"}|[![hurlu5.jpg](/uploads/hurlu5.jpg){: width="350" style="border: solid 1px;" .image-center}](https://hurlu.fr){:target="_blank"} |[![hurlu5.jpg](/uploads/hurlu5.jpg){: width="350" style="border: solid 1px;" .image-center}](https://hurlu.fr){:target="_blank"} | 
+|[![hurlu6.jpg](/uploads/hurlu6.jpg)](https://hurlu.fr){:target="_blank"}|[![hurlu6.jpg](/uploads/hurlu6.jpg)](https://hurlu.fr){:target="_blank"}|[![hurlu6.jpg](/uploads/hurlu6.jpg)](https://hurlu.fr){:target="_blank"} |[![hurlu6.jpg](/uploads/hurlu6.jpg)](https://hurlu.fr){:target="_blank"} | 
 
 |![mignature2.jpg](/uploads/mignature2.jpg)|![mignature2.jpg](/uploads/mignature2.jpg) |![mignature2.jpg](/uploads/mignature2.jpg) | ![mignature2.jpg](/uploads/mignature2.jpg) |
 
