@@ -36,7 +36,8 @@ Rejoignez la communauté **Blue hats, hackers d’intérêt général,** et ense
 
 La **direction interministérielle du numérique** lance cette communauté à l'occasion du Paris open source summit. Ces rencontres sont ouvertes à toute personne intéressée par les projets libres et open source de l’administration et souhaitant contribuer aux travaux collectifs en cours. 
 
-Au programme de la journée **Blue hats, hackers d’intérêt général** : 
+**Au programme de la journée Blue hats, hackers d’intérêt général** : 
+
 * 9h15 - 10h : accueil café
 
 * 10h - 10h45 : lightning talks et démonstrations 
