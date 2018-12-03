@@ -40,7 +40,6 @@ Au programme de la journée **Blue hats, hackers d’intérêt général** :
 * 9h15 - 10h : accueil café
 
 * 10h - 10h45 : lightning talks et démonstrations 
-
 Avec Marc Chanteux, réseau national de télécommunications pour la technologie, l'enseignement et la recherche (RENATER)
 Anael Beaugnon, agence nationale de la sécurité des systèmes d'information (ANSSI)
 Erwan Le Gall, ministère de l’Éducation nationale
@@ -48,7 +47,6 @@ Erwan Le Gall, ministère de l’Éducation nationale
 * 10h45 - 11h30 : 
 
 * 11h30 - 12h15 : lightning talks et démonstrations
-
 Avec Olivier Mari, Gendarmerie nationale 
 Anna-Livia Gomart, OpenFisca
 Samuel Paccoud de France université numérique (FUN)
@@ -56,7 +54,6 @@ Samuel Paccoud de France université numérique (FUN)
 *  12h30 – 14h : Déjeuner discussion 
 
 * 14h30 - 15h15 : lightning talks et démonstrations
-
 Avec Myriam Terny, association rencontre citoyenneté numérique
 Luc Bourdot, pôle logiciels libres, ministère de l’Education nationale
 Jean-Marc Leroux, 
@@ -64,7 +61,6 @@ Jean-Marc Leroux,
 * 15h15 - 16h : 
 
 * 16h - 16h45 : lightning talks et démonstrations
-
 Avec Lery Jicquel, Cour des comptes
 Pascal Kuczynski, association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT)
 Fabien Antoine, 
