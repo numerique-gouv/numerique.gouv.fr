@@ -9,7 +9,7 @@ layout: page-fille
 
 **Jeux et jouets**
 
-|[![Bioviva.png](/uploads/Bioviva.png){: width="150"}](https://www.bioviva.com/fr/){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
+|[![Bioviva.png](/uploads/Bioviva.png){: width="150"}](https://www.bioviva.com/fr/){:target="_blank"}|[![Combat de Coqu.png](/uploads/Combat%20de%20Coqu.png)](https://www.combatdecoqs.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
 
 
 **Gastronomie**
