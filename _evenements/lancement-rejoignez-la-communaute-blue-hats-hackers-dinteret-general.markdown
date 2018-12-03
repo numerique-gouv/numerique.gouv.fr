@@ -45,21 +45,21 @@ Avec Marc Chanteux, réseau national de télécommunications pour la technologie
 Anael Beaugnon, agence nationale de la sécurité des systèmes d'information (ANSSI)
 Erwan Le Gall, ministère de l’Éducation nationale
 
-* **10h45 - 11h30 :** 
+* **10h45 - 11h30 :** : discussions thématiques au choix
 
 * **11h30 - 12h15:** lightning talks et démonstrations
 Avec Olivier Mari, Gendarmerie nationale 
 Anna-Livia Gomart, OpenFisca
 Samuel Paccoud de France université numérique (FUN)
 
-*  **12h30 – 14h :** Déjeuner discussion 
+* **12h30 – 14h :** Déjeuner discussion 
 
 * **14h30 - 15h15 :** lightning talks et démonstrations
 Avec Myriam Terny, association rencontre citoyenneté numérique
-Luc Bourdot, pôle logiciels libres, ministère de l’Education nationale
-Jean-Marc Leroux, 
+Luc Bourdot, pôle logiciels libres, ministère de l’Éducation nationale
+Jean-Marc Leroux
 
-* **15h15 - 16h :** 
+* **15h15 - 16h :**  : discussions thématiques au choix
 
 * **16h - 16h45 :** lightning talks et démonstrations
 Avec Lery Jicquel, Cour des comptes
