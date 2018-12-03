@@ -25,8 +25,7 @@ layout: page-fille
 
 |[![Atelier_Tuffery.png](/uploads/Atelier_Tuffery.png){:width="210"}](https://www.ateliertuffery.com){:target="_blank"}|[![Bilum.png](/uploads/Bilum.png){:width="210"}](https://www.bilum.fr){:target="_blank"}|[![CoqEnPate.png](/uploads/CoqEnPate.png){:width="210"}](http://www.coqenpate.com){:target="_blank"}|
 
-|[![LarévolutionTextile.png](/uploads/Lar%C3%A9volutionTextile.png)
-{:width="210"}](https://www.larevolutiontextile.com/){:target="_blank"}|[![Bilum.png](/uploads/Bilum.png){:width="210"}](https://www.bilum.fr){:target="_blank"}|[![CoqEnPate.png](/uploads/CoqEnPate.png){: width="210"}](http://www.coqenpate.com){:target="_blank"}|
+|[![LarevolutionTextile.png](/uploads/LarevolutionTextile.png){:width="210"}](https://www.larevolutiontextile.com/){:target="_blank"}|[![Bilum.png](/uploads/Bilum.png){:width="210"}](https://www.bilum.fr){:target="_blank"}|[![CoqEnPate.png](/uploads/CoqEnPate.png){: width="210"}](http://www.coqenpate.com){:target="_blank"}|
 
 **Bijoux et montres**
 
