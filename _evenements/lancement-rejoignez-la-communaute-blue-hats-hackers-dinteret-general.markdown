@@ -52,5 +52,19 @@ Samuel Paccoud de France université numérique (FUN)
 
 *  12h30 – 14h : Déjeuner discussion 
 
+* 14h30 - 15h15 : lightning talks et démonstrations
+Avec Myriam Terny, association rencontre citoyenneté numérique
+Luc Bourdot, pôle logiciels libres, ministère de l’Education nationale
+Jean-Marc Leroux, 
+
+* 15h15 - 16h : 
+
+* 16h - 16h45 : lightning talks et démonstrations
+Avec Lery Jicquel, Cour des comptes
+Pascal Kuczynski, association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT)
+Fabien Antoine, 
+
+
+
 
 
