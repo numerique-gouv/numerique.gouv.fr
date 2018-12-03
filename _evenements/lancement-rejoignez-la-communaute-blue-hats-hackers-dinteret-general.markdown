@@ -41,30 +41,22 @@ La **direction interministérielle du numérique** lance cette communauté à l'
 * **9h15 - 10h :** Accueil café
 
 * **10h - 10h45 :** Lightning talks et démonstrations 
-<br>Avec Marc Chanteux, réseau national de télécommunications pour la technologie, l'enseignement et la recherche (RENATER)
-Anael Beaugnon, agence nationale de la sécurité des systèmes d'information (ANSSI)
-Erwan Le Gall, ministère de l’Éducation nationale
+<br>Avec Marc Chanteux - réseau national de télécommunications pour la technologie, l'enseignement et la recherche (RENATER), Anael Beaugnon - agence nationale de la sécurité des systèmes d'information (ANSSI), Erwan Le Gall - ministère de l’Éducation nationale
 
 * **10h45 - 11h30 :** : Discussions thématiques au choix
 
 * **11h30 - 12h15:** lightning talks et démonstrations
-<br>Avec Olivier Mari, Gendarmerie nationale 
-Anna-Livia Gomart, OpenFisca
-Samuel Paccoud de France université numérique (FUN)
+<br>Avec Olivier Mari - Gendarmerie nationale, Anna-Livia Gomart - OpenFisca, Samuel Paccoud - France université numérique (FUN)
 
 * **12h30 - 14h :** Déjeuner discussion 
 
 * **14h30 - 15h15 :** Lightning talks et démonstrations
-<br>Avec Myriam Terny, association rencontre citoyenneté numérique
-Luc Bourdot, pôle logiciels libres, ministère de l’Éducation nationale
-Jean-Marc Leroux
+<br>Avec Myriam Terny - association rencontre citoyenneté numérique, Luc Bourdot - pôle logiciels libres - ministère de l’Éducation nationale, Jean-Marc Leroux
 
 * **15h15 - 16h :**  : Discussions thématiques au choix
 
 * **16h - 16h45 :** Lightning talks et démonstrations
-<br>Avec Lery Jicquel, Cour des comptes
-Pascal Kuczynski, association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT)
-Fabien Antoine, ministère de l’Intérieur 
+<br>Avec Lery Jicquel - Cour des comptes, Pascal Kuczynski - association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT), Fabien Antoine - ministère de l’Intérieur 
 
 
 
