@@ -15,6 +15,7 @@ une-ou-diaporama:
 - image: "/uploads/noel-pme.png"
   alternative-textuelle: Le Noël des PME
 auteur: Secrétariat d'État chargé du Numérique
+redirection: https://secretariat-etat.numerique.gouv.fr/noel-pme
 ---
 
 >[Lire la suite](https://secretariat-etat.numerique.gouv.fr/noel-pme){:target="_blank"}
