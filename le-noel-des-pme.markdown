@@ -45,7 +45,7 @@ layout: page-fille
 
 **Beauté**
 
-|[![Douces_Angevines.png](/uploads/Douces_Angevines.png){: width="150"}](https://www.doucesangevines.com){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
+|[![Douces_Angevines.png](/uploads/Douces_Angevines.png){: width="150"}](https://www.doucesangevines.com){:target="_blank"}|[![LeBaigneur.png](/uploads/LeBaigneur.png){: width="150"}](https://www.lebaigneur.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
 
 
 **Tech**
