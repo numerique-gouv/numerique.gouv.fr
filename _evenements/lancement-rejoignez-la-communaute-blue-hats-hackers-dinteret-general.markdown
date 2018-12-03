@@ -47,7 +47,7 @@ La **direction interministérielle du numérique** lance cette communauté à l'
 
 * **10h45 - 11h30 :** Discussions thématiques au choix
 
-* **11h30 - 12h15 :** lightning talks et démonstrations
+* **11h30 - 12h15 :** Lightning talks et démonstrations
 <br>Avec Olivier Mari - Gendarmerie nationale
 <br>Anna-Livia Gomart - OpenFisca
 <br>Samuel Paccoud - France université numérique (FUN)
