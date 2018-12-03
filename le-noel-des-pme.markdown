@@ -37,15 +37,10 @@ layout: page-fille
 |[![Hurlu-dd2149.png](/uploads/Hurlu-dd2149.png){: width="150"}](https://hurlu.fr){:target="_blank"}|[ ![LaPetitePapeterie.png](/uploads/LaPetitePapeterie.png){: width="150"}](http://www.lapetitepapeteriefrancaise.fr/fr/){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}| 
 
 
-**Culture**
-
-|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}| 
-
-
 **Sport**
 
 
-|[![Flaneurz.png](/uploads/Flaneurz.png){: width="150"}](http://www.flaneurz.com/fr/){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
+|[![Flaneurz.png](/uploads/Flaneurz.png){: width="150"} ](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles_Victoire.png](/uploads/Cycles_Victoire.png){: width="150"}](http://www.victoire-cycles.com){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
 
 **Beauté**
 
