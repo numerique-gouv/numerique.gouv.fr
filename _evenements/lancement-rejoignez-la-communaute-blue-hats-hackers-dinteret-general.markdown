@@ -65,8 +65,7 @@ Jean-Marc Leroux
 * **15h15 - 16h :**  : discussions thématiques au choix
 
 * **16h - 16h45 :** lightning talks et démonstrations
-
-Avec Lery Jicquel, Cour des comptes
+<br>Avec Lery Jicquel, Cour des comptes
 Pascal Kuczynski, association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT)
 Fabien Antoine, ministère de l’Intérieur 
 
