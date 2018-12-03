@@ -59,7 +59,7 @@ La **direction interministérielle du numérique** lance cette communauté à l'
 <br>Luc Bourdot - pôle logiciels libres - ministère de l’Éducation nationale
 <br>Jean-Marc Leroux
 
-* **15h15 - 16h :**  : Discussions thématiques au choix
+* **15h15 - 16h :**  Discussions thématiques au choix
 
 * **16h - 16h45 :** Lightning talks et démonstrations
 <br>Avec Lery Jicquel - Cour des comptes
