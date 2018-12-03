@@ -21,8 +21,8 @@ acces:
   lignes:
   - nom: Ligne 12 "Porte d’Aubervilliers"
 champs_informations:
-- intitule: 'horaires '
-  contenu: De 9h à 18h
+- intitule: 'Horaires '
+  contenu: De 9h à 17h
 - intitule: Modalités
   contenu: Inscription gratuite obligatoire
   lien: https://www.opensourcesummit.paris/preinscription_154_204_p.html
@@ -36,8 +36,36 @@ Rejoignez la communauté **Blue hats, hackers d’intérêt général,** et ense
 
 La **direction interministérielle du numérique** lance cette communauté à l'occasion du Paris open source summit. Ces rencontres sont ouvertes à toute personne intéressée par les projets libres et open source de l’administration et souhaitant contribuer aux travaux collectifs en cours. 
 
-Au programme : présentation du mouvement Blue hats, démonstrations, présentations éclairs, tables rondes et débats. 
+**Au programme de la journée Blue hats, hackers d’intérêt général** : 
 
-Participez à l'élaboration du programme de la journée [en proposant une intervention et/ou un sujet de débat](https://framaforms.org/appel-a-participation-a-la-journee-du-6-decembre-hackers-dinteret-general-1542116861). 
+* **9h15 - 10h :** Accueil café
 
-Toute contribution est la bienvenue !
+* **10h - 10h45 :** Lightning talks et démonstrations 
+<br>Avec Marc Chanteux - réseau national de télécommunications pour la technologie l'enseignement et la recherche (RENATER)
+<br>Anael Beaugnon - agence nationale de la sécurité des systèmes d'information (ANSSI)
+<br>Erwan Le Gall - ministère de l’Éducation nationale
+
+* **10h45 - 11h30 :** Discussions thématiques au choix
+
+* **11h30 - 12h15 :** Lightning talks et démonstrations
+<br>Avec Olivier Mari - Gendarmerie nationale
+<br>Anna-Livia Gomart - OpenFisca
+<br>Samuel Paccoud - France université numérique (FUN)
+
+* **12h30 - 14h :** Déjeuner discussion 
+
+* **14h30 - 15h15 :** Lightning talks et démonstrations
+<br>Avec Myriam Terny - association rencontre citoyenneté numérique
+<br>Luc Bourdot - pôle logiciels libres - ministère de l’Éducation nationale
+<br>Jean-Marc Leroux
+
+* **15h15 - 16h :**  Discussions thématiques au choix
+
+* **16h - 16h45 :** Lightning talks et démonstrations
+<br>Avec Lery Jicquel - Cour des comptes
+<br>Pascal Kuczynski - association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT)<br>Fabien Antoine - ministère de l’Intérieur 
+
+
+
+
+

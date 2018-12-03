@@ -18,7 +18,7 @@ SIRET : 12000101100010 (secrétariat général du gouvernement)
 
 
 ## Directeur de publication ##
-Henri Verdier, directeur interministériel du numérique et du système d'information et de communication de l'Etat
+Le directeur interministériel du numérique et du système d'information et de communication de l'Etat
 
 
 ## Conception et gestion du site ##
