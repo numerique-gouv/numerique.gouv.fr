@@ -38,8 +38,8 @@ const datePicker = connectRange(
     $('#datepickerEnd').fdatepicker(datepickerOptions);
 
     $('#datepickerStart, #datepickerEnd').change( function() {
-      start_date = moment($('#datepickerStart').val())
-      end_date = moment($('#datepickerEnd').val())
+      start_date = moment(new Date($('#datepickerStart').val()))
+      end_date = moment(new Date($('#datepickerEnd').val()))
       refine ([start_date.unix(), end_date.unix()]);
     })
   }
