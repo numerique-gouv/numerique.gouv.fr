@@ -21,3 +21,22 @@ layout: page-fille
 **Bijoux et montres**
 
 |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |
+
+**Jeux et jouets**
+
+Gastronomie & Écologie
+
+Maison
+
+**Sport**
+
+**Beauté**
+
+**Tech**
+
+**Expérience**
+
+**Insolite**
+
+**Culture**
+
