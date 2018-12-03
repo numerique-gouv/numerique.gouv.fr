@@ -38,9 +38,11 @@ layout: page-fille
 
 |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}| 
 
+
 **Sport**
 
-|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
+
+|[![Flaneurz.png](/uploads/Flaneurz.png){: width="150"}](http://www.flaneurz.com/fr/){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
 
 **Beauté**
 
