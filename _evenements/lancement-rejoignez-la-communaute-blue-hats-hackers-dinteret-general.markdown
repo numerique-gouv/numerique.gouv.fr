@@ -22,7 +22,7 @@ acces:
   - nom: Ligne 12 "Porte d’Aubervilliers"
 champs_informations:
 - intitule: 'Horaires '
-  contenu: De 9h à 18h
+  contenu: De 9h à 17h
 - intitule: Modalités
   contenu: Inscription gratuite obligatoire
   lien: https://www.opensourcesummit.paris/preinscription_154_204_p.html
