@@ -55,7 +55,7 @@ layout: page-fille
 **Tech**
 
 
-|[![AirLabIndustrie.png](/uploads/AirLabIndustrie.png){: width="150"}](https://airlab-industrie.com/fr/){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
+|[![AirLabIndustrie.png](/uploads/AirLabIndustrie.png){: width="150"}](https://airlab-industrie.com/fr/){:target="_blank"}|[![Gaspajoe.png](/uploads/Gaspajoe.png){: width="150"}](https://www.gaspajoe.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
 
 
 **Expérience**
