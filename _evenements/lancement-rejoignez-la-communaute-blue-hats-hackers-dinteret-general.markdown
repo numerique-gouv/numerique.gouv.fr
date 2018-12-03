@@ -36,8 +36,21 @@ Rejoignez la communauté **Blue hats, hackers d’intérêt général,** et ense
 
 La **direction interministérielle du numérique** lance cette communauté à l'occasion du Paris open source summit. Ces rencontres sont ouvertes à toute personne intéressée par les projets libres et open source de l’administration et souhaitant contribuer aux travaux collectifs en cours. 
 
-Au programme : présentation du mouvement Blue hats, démonstrations, présentations éclairs, tables rondes et débats. 
+Au programme de la journée **Blue hats, hackers d’intérêt général** : 
+* 9h15 - 10h : accueil café
+* 10h - 10h45 : lightning talks et démonstrations 
+Avec Marc Chanteux, réseau national de télécommunications pour la technologie, l'enseignement et la recherche (RENATER)
+Anael Beaugnon, agence nationale de la sécurité des systèmes d'information (ANSSI)
+Erwan Le Gall, ministère de l’Éducation nationale
 
-Participez à l'élaboration du programme de la journée [en proposant une intervention et/ou un sujet de débat](https://framaforms.org/appel-a-participation-a-la-journee-du-6-decembre-hackers-dinteret-general-1542116861). 
+* 10h45 - 11h30 : 
 
-Toute contribution est la bienvenue !
+* 11h30 - 12h15 : lightning talks et démonstrations
+Avec Olivier Mari, Gendarmerie nationale 
+Anna-Livia Gomart, OpenFisca
+Samuel Paccoud de France université numérique (FUN)
+
+*  12h30 – 14h : Déjeuner discussion 
+
+
+
