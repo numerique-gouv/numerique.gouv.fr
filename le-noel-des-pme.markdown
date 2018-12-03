@@ -20,7 +20,7 @@ layout: page-fille
 **Vêtement, chaussures et accessoires**
 
 
-|[![Hopaal.png](/uploads/Hopaal.png){: width="150"}](https://hopaal.com/){:target="_blank"}|[![1083.png](/uploads/1083.png){: width="150"}](https://www.1083.fr/){:target="_blank"}|[![Kaipih.png](/uploads/Kaipih.png){: width="150"}](https://www.kaipih.com){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg){: width="150"}](https://hurlu.fr){:target="_blank"}|
+|[![Hopaal.png](/uploads/Hopaal.png){: width="150"}](https://hopaal.com/){:target="_blank"}|[![1083.png](/uploads/1083.png){: width="150"}](https://www.1083.fr/){:target="_blank"}|[![Kaipih.png](/uploads/Kaipih.png){: width="150"}](https://www.kaipih.com){:target="_blank"} |[![Jules&Jenn.png](/uploads/Jules&Jenn.png){: width="150"}](https://www.julesjenn.com/){:target="_blank"}|
 
 
 **Bijoux et montres**
