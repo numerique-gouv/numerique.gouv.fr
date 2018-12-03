@@ -21,7 +21,7 @@ acces:
   lignes:
   - nom: Ligne 12 "Porte d’Aubervilliers"
 champs_informations:
-- intitule: 'horaires '
+- intitule: 'Horaires '
   contenu: De 9h à 18h
 - intitule: Modalités
   contenu: Inscription gratuite obligatoire
