@@ -7,6 +7,9 @@ une-ou-diaporama:
 layout: page-fille
 ---
 
+Pour vos cadeaux de fin d'année, ayez le réflexe PME. Sur cette page et tout au long du mois de décembre, découvrez un best of des e-commerçants Français, pour faire des cadeaux qui ont du sens et de l'impact sur l'emploi de nos territoires.
+
+
 **Jeux et jouets**
 
 |[![Bioviva.png](/uploads/Bioviva.png){: width="210"}](https://www.bioviva.com/fr/){:target="_blank"}|[![Combat de Coqu.png](/uploads/Combat%20de%20Coqu.png){: width="210"}](https://www.combatdecoqs.fr){:target="_blank"}|[![LesJouetsLibres.png](/uploads/LesJouetsLibres.png){: width="210"}](http://www.lesjouetslibres.fr){:target="_blank"}|
