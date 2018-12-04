@@ -29,7 +29,7 @@ layout: page-fille
 
 |[![Jules&Jenn.png](/uploads/Jules&Jenn.png){:width="210"}](https://www.julesjenn.com/){:target="_blank"}|[![Atelier_Tuffery.png](/uploads/Atelier_Tuffery.png){:width="210"}](https://www.ateliertuffery.com){:target="_blank"}|[![Bilum.png](/uploads/Bilum.png){:width="210"}](https://www.bilum.fr){:target="_blank"}|
 
-|[![CoqEnPate.png](/uploads/CoqEnPate.png){:width="210"}](http://www.coqenpate.com){:target="_blank"}|[![LarevolutionTextile.png](/uploads/LarevolutionTextile.png){:width="210"}](https://www.larevolutiontextile.com/){:target="_blank"}|[![LecolonelMoutarde.png](/uploads/LecolonelMoutarde.png){: width="210"}](http://){:target="_blank"}|
+|[![CoqEnPate.png](/uploads/CoqEnPate.png){:width="210"}](http://www.coqenpate.com){:target="_blank"}|[![LarevolutionTextile.png](/uploads/LarevolutionTextile.png){:width="210"}](https://www.larevolutiontextile.com/){:target="_blank"}|[![LecolonelMoutarde.png](/uploads/LecolonelMoutarde.png){: width="210"}](https://www.lecolonelmoutarde.com/fr/){:target="_blank"}|
 
 |[![Odyz.png](/uploads/Odyz.png){:width="210"}](https://odyz.net/){:target="_blank"}|[![Otobre71t.png](/uploads/Otobre71t.png){:width="210"}](https://www.octobre71.com/){:target="_blank"}|[![Reversible.png](/uploads/Reversible.png){:width="210"}](https://www.reversible.fr){:target="_blank"}|
 
