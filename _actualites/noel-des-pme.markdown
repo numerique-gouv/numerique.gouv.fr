@@ -1,7 +1,6 @@
 ---
 title: Le Noël des PME
 date: 2018-12-04 19:26:00 +01:00
-published: false
 chapeau-text: Pour vos cadeaux de fin d'année, ayez le réflexe PME. Sur cette page
   et tout au long du mois de décembre, découvrez un best of des e-commerçants Français,
   pour faire des cadeaux qui ont du sens et de l'impact sur l'emploi de nos territoires.
