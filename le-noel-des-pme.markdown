@@ -52,7 +52,7 @@ layout: page-fille
 
 **Beauté**
 
-|[![Douces_Angevines.png](/uploads/Douces_Angevines.png){: width="210"}](https://www.doucesangevines.com){:target="_blank"}|[![LeBaigneur.png](/uploads/LeBaigneur.png){: width="210"}](https://www.lebaigneur.fr){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|
+|[![Douces_Angevines.png](/uploads/Douces_Angevines.png){: width="210"}](https://www.doucesangevines.com){:target="_blank"}|[![LeBaigneur.png](/uploads/LeBaigneur.png){: width="210"}](https://www.lebaigneur.fr){:target="_blank"}|[![Pulpe de vie.png](/uploads/Pulpe%20de%20vie.png){:width="210"}](https://www.pulpedevie.com){:target="_blank"}|
 
 
 
