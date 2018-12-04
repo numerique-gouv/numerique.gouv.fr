@@ -35,9 +35,6 @@ layout: page-fille
 
 |[![Ector.png](/uploads/Ector.png){:width="210"}](https://www.ector-sneakers.com/){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}| 
 
-**Bijoux et montres**
-
-|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|
 
 
 **Maison**
@@ -71,14 +68,3 @@ layout: page-fille
 
 |[![EcoTree.png](/uploads/EcoTree.png){: width="210"}](https://ecotree.fr/){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|
  
-
-
-**Insolite**
-
-|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}| 
-
-
-
-**Culture**
-
-|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|  
