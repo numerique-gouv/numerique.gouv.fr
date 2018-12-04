@@ -68,7 +68,8 @@ layout: page-fille
 
 **Insolite**
 
-|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
+|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}| 
+
 
 
 **Culture**
