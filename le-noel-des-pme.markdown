@@ -49,18 +49,21 @@ layout: page-fille
 
 **Beauté**
 
-|[![Douces_Angevines.png](/uploads/Douces_Angevines.png){: width="150"}](https://www.doucesangevines.com){:target="_blank"}|[![LeBaigneur.png](/uploads/LeBaigneur.png){: width="150"}](https://www.lebaigneur.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
+|[![Douces_Angevines.png](/uploads/Douces_Angevines.png){: width="210"}](https://www.doucesangevines.com){:target="_blank"}|[![LeBaigneur.png](/uploads/LeBaigneur.png){: width="210"}](https://www.lebaigneur.fr){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|
+
 
 
 **Tech**
 
 
-|[![AirLabIndustrie.png](/uploads/AirLabIndustrie.png){: width="150"}](https://airlab-industrie.com/fr/){:target="_blank"}|[![Gaspajoe.png](/uploads/Gaspajoe.png){: width="150"}](https://www.gaspajoe.fr){:target="_blank"}|[![Captiv-582ef7.png](/uploads/Captiv-582ef7.png){: width="150"}](https://captiv.eu/creations.html){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
+|[![AirLabIndustrie.png](/uploads/AirLabIndustrie.png){: width="210"}](https://airlab-industrie.com/fr/){:target="_blank"}|[![Gaspajoe.png](/uploads/Gaspajoe.png){: width="210"}](https://www.gaspajoe.fr){:target="_blank"}|[![Captiv-582ef7.png](/uploads/Captiv-582ef7.png){: width="210"}](https://captiv.eu/creations.html){:target="_blank"}|
+
 
 
 **Expérience**
 
-|[![EcoTree.png](/uploads/EcoTree.png){: width="150"}](https://ecotree.fr/){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"}|[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} |[![test 150.jpg](/uploads/test%20150.jpg)](https://hurlu.fr){:target="_blank"} | 
+|[![EcoTree.png](/uploads/EcoTree.png){: width="210"}](https://ecotree.fr/){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|
+ 
 
 
 **Insolite**
