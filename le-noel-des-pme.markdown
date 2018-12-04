@@ -4,11 +4,11 @@ date: 2018-12-04 08:00:00 +01:00
 published: false
 une-ou-diaporama:
 - image: "/uploads/noel-pme.png"
+chapeau-text: Pour vos cadeaux de fin d'année, ayez le réflexe PME. Sur cette page
+  et tout au long du mois de décembre, découvrez un best of des e-commerçants Français,
+  pour faire des cadeaux qui ont du sens et de l'impact sur l'emploi de nos territoires.
 layout: page-fille
 ---
-
-Pour vos cadeaux de fin d'année, ayez le réflexe PME. Sur cette page et tout au long du mois de décembre, découvrez un best of des e-commerçants Français, pour faire des cadeaux qui ont du sens et de l'impact sur l'emploi de nos territoires.
-
 
 **Jeux et jouets**
 
