@@ -59,6 +59,7 @@ layout: page-fille
 
 |[![AirLabIndustrie.png](/uploads/AirLabIndustrie.png){: width="210"}](https://airlab-industrie.com/fr/){:target="_blank"}|[![Gaspajoe.png](/uploads/Gaspajoe.png){: width="210"}](https://www.gaspajoe.fr){:target="_blank"}|[![Captiv-582ef7.png](/uploads/Captiv-582ef7.png){: width="210"}](https://captiv.eu/creations.html){:target="_blank"}|
 
+|[![Mangobeat3.png](/uploads/Mangobeat3.png){:width="210"}](https://www.mangobeat.fr){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}| 
 
 
 **Expérience**
