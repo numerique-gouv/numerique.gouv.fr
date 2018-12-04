@@ -38,7 +38,7 @@ une-ou-diaporama:
 
 |[![Odyz.png](/uploads/Odyz.png){:width="210"}](https://odyz.net/){:target="_blank"}|[![Otobre71t.png](/uploads/Otobre71t.png){:width="210"}](https://www.octobre71.com/){:target="_blank"}|[![Reversible.png](/uploads/Reversible.png){:width="210"}](https://www.reversible.fr){:target="_blank"}|
 
-|[![Ector.png](/uploads/Ector.png){:width="210"}](https://www.ector-sneakers.com/){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}]|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}| 
+|[![Ector.png](/uploads/Ector.png){:width="210"}](https://www.ector-sneakers.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}| 
 
 
 
@@ -66,10 +66,10 @@ une-ou-diaporama:
 
 |[![AirLabIndustrie.png](/uploads/AirLabIndustrie.png){: width="210"}](https://airlab-industrie.com/fr/){:target="_blank"}|[![Gaspajoe.png](/uploads/Gaspajoe.png){: width="210"}](https://www.gaspajoe.fr){:target="_blank"}|[![Captiv2.png](/uploads/Captiv2.png){: width="210"}](https://captiv.eu/creations.html){:target="_blank"}|
 
-|[![Mangobeat3.png](/uploads/Mangobeat3.png){:width="210"}](https://www.mangobeat.fr){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}]|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}| 
+|[![Mangobeat3.png](/uploads/Mangobeat3.png){:width="210"}](https://www.mangobeat.fr){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}| 
 
 
 **Expérience**
 
-|[![EcoTree.png](/uploads/EcoTree.png){: width="210"}](https://ecotree.fr/){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}]|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![EcoTree.png](/uploads/EcoTree.png){: width="210"}](https://ecotree.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
  
