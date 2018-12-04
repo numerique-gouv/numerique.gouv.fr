@@ -31,7 +31,7 @@ layout: page-fille
 
 |[![CoqEnPate.png](/uploads/CoqEnPate.png){:width="210"}](http://www.coqenpate.com){:target="_blank"}|[![LarevolutionTextile.png](/uploads/LarevolutionTextile.png){:width="210"}](https://www.larevolutiontextile.com/){:target="_blank"}|[![LecolonelMoutarde.png](/uploads/LecolonelMoutarde.png){: width="210"}](http://){:target="_blank"}|
 
-|[![Odyz.png](/uploads/Odyz.png){:width="210"}](http://www.coqenpate.com){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![Reversible.png](/uploads/Reversible.png){:width="210"}](https://www.reversible.fr){:target="_blank"}|
+|[![Odyz.png](/uploads/Odyz.png){:width="210"}](http://www.coqenpate.com){:target="_blank"}|[![Otobre71t.png](/uploads/Otobre71t.png){:width="210"}](https://www.octobre71.com/){:target="_blank"}|[![Reversible.png](/uploads/Reversible.png){:width="210"}](https://www.reversible.fr){:target="_blank"}|
 
 
 **Bijoux et montres**
