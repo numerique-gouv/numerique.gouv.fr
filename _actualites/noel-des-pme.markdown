@@ -57,16 +57,16 @@ une-ou-diaporama:
 
 **Beauté**
 
-|[![Douces_Angevines.png](/uploads/Douces_Angevines.png){: width="210"}](https://www.doucesangevines.com){:target="_blank"}|[![LeBaigneur.png](/uploads/LeBaigneur.png){: width="210"}](https://www.lebaigneur.fr){:target="_blank"}|[![Pulpe de vie.png](/uploads/Pulpe%20de%20vie.png){:width="210"}](https://www.pulpedevie.com){:target="_blank"}|
+|[![Douces_Angevines.png](/uploads/Douces_Angevines.png){: width="210"}{: alt="Douces angevines, les cosmétiques bio made in France"}](https://www.doucesangevines.com){:target="_blank"}|[![LeBaigneur.png](/uploads/LeBaigneur.png){: width="210"}{: alt="Le baigneur, artisan savonnier"}](https://www.lebaigneur.fr){:target="_blank"}|[![Pulpe de vie.png](/uploads/Pulpe%20de%20vie.png){:width="210"}{: alt="Pule de vie, cosmétiques et soins naturels"}](https://www.pulpedevie.com){:target="_blank"}|
 
 
 
 **Tech**
 
 
-|[![AirLabIndustrie.png](/uploads/AirLabIndustrie.png){: width="210"}](https://airlab-industrie.com/fr/){:target="_blank"}|[![Gaspajoe.png](/uploads/Gaspajoe.png){: width="210"}](https://www.gaspajoe.fr){:target="_blank"}|[![Captiv2.png](/uploads/Captiv2.png){: width="210"}](https://captiv.eu/creations.html){:target="_blank"}|
+|[![AirLabIndustrie.png](/uploads/AirLabIndustrie.png){: width="210"}{: alt="Air lab industrie, les trottinettes électriques"}](https://airlab-industrie.com/fr/){:target="_blank"}|[![Gaspajoe.png](/uploads/Gaspajoe.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|[![Captiv2.png](/uploads/Captiv2.png){: width="210"}{: alt="Captiv, créateur d'objets connectés"}](https://captiv.eu/creations.html){:target="_blank"}|
 
-|[![Mangobeat3.png](/uploads/Mangobeat3.png){:width="210"}](https://www.mangobeat.fr){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}| 
+|[![Mangobeat3.png](/uploads/Mangobeat3.png){:width="210"}{: alt="Mangobeat, l'enceinte écologique"}](https://www.mangobeat.fr){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}| 
 
 
 **Expérience**
