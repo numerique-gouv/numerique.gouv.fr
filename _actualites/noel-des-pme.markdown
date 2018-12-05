@@ -17,6 +17,7 @@ une-ou-diaporama:
 
 **Jeux et jouets**
 
+
 |[![BiovivaV2.png](/uploads/BiovivaV2.png){: width="210"}](https://www.bioviva.com/fr/){:target="_blank"}|[![CombatdeCoqs.png](/uploads/CombatdeCoqs.png){: width="210"}](https://www.combatdecoqs.fr){:target="_blank"}|[![LesJouetsLibres.png](/uploads/LesJouetsLibres.png){: width="210"}](http://www.lesjouetslibres.fr){:target="_blank"}|
 
 **Gastronomie**
@@ -29,9 +30,9 @@ une-ou-diaporama:
 **Vêtement, chaussures et accessoires**
 
 
-|[![Hopaal.png](/uploads/Hopaal.png){:width="210"}](https://hopaal.com/){:target="_blank"}|[![1083.png](/uploads/1083.png){: width="210"}](https://www.1083.fr/){:target="_blank"}|[![Kaipih.png](/uploads/Kaipih.png){:width="210"}](https://www.kaipih.com){:target="_blank"}|
+|[![HopaalV2-b29b6d.png](/uploads/HopaalV2-b29b6d.png){:width="210"}](https://hopaal.com/){:target="_blank"}|[![1083.png](/uploads/1083.png){: width="210"}](https://www.1083.fr/){:target="_blank"}|[![Kaipih.png](/uploads/Kaipih.png){:width="210"}](https://www.kaipih.com){:target="_blank"}|
 
-|[![Jules&Jenn.png](/uploads/Jules&Jenn.png){:width="210"}](https://www.julesjenn.com/){:target="_blank"}|[![Atelier_Tuffery.png](/uploads/Atelier_Tuffery.png){:width="210"}](https://www.ateliertuffery.com){:target="_blank"}|[![Bilum.png](/uploads/Bilum.png){:width="210"}](https://www.bilum.fr){:target="_blank"}|
+|[![Jules et JennV2.png](/uploads/Jules%20et%20JennV2.png){:width="210"}](https://www.julesjenn.com/){:target="_blank"}|[![Atelier_Tuffery.png](/uploads/Atelier_Tuffery.png){:width="210"}](https://www.ateliertuffery.com){:target="_blank"}|[![Bilum.png](/uploads/Bilum.png){:width="210"}](https://www.bilum.fr){:target="_blank"}|
 
 |[![CoqEnPate.png](/uploads/CoqEnPate.png){:width="210"}](http://www.coqenpate.com){:target="_blank"}|[![LarevolutionTextile.png](/uploads/LarevolutionTextile.png){:width="210"}](https://www.larevolutiontextile.com/){:target="_blank"}|[![LecolonelMoutarde.png](/uploads/LecolonelMoutarde.png){: width="210"}](https://www.lecolonelmoutarde.com/fr/){:target="_blank"}|
 
