@@ -36,8 +36,6 @@ une-ou-diaporama:
 
 |[![CoqEnPate.png](/uploads/CoqEnPate.png){:width="210"}{: alt="Coq en pâte, création de cartables, sacs à dos et accéssoires pour enfants"}](http://www.coqenpate.com){:target="_blank"}|[![LarevolutionTextileV2.png](/uploads/LarevolutionTextileV2.png){:width="210"}{: alt="La révolution textile, les vêtements locaux et écologiques"}](https://www.larevolutiontextile.com/){:target="_blank"}|[![LecolonelMoutarde.png](/uploads/LecolonelMoutarde.png){: width="210"}{: alt="Le colonel moutarde, vêtements et accessoires pour homme"}](https://www.lecolonelmoutarde.com/fr/){:target="_blank"}|
 
-![LarevolutionTextileV2.png](/uploads/LarevolutionTextileV2.png)
-
 |[![Odyz.png](/uploads/Odyz.png){:width="210"}{: alt="ODYZ, fabricant de vêtements et accessoires pour bébés et enfants"}](https://odyz.net/){:target="_blank"}|[![Otobre71t.png](/uploads/Otobre71t.png){:width="210"}{: alt="Octobre 71, lunettes françaises fabriquées en 3D"}](https://www.octobre71.com/){:target="_blank"}|[![Reversible.png](/uploads/Reversible.png){:width="210"}{: alt="Reversible, sacs en matériaux reçyclés"}](https://www.reversible.fr){:target="_blank"}|
 
 |[![Ector.png](/uploads/Ector.png){:width="210"}{: alt="Ector, les sneakers recyclées et recyclables"}](https://www.ector-sneakers.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}| 
