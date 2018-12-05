@@ -11,7 +11,7 @@ layout: page-fille
 ---
 
 **Jeux et jouets**
-
+ 
 |[![Bioviva.png](/uploads/Bioviva.png){: width="210"}](https://www.bioviva.com/fr/){:target="_blank"}|[![CombatdeCoqs.png](/uploads/CombatdeCoqs.png){: width="210"}](https://www.combatdecoqs.fr){:target="_blank"}|[![LesJouetsLibres.png](/uploads/LesJouetsLibres.png){: width="210"}](http://www.lesjouetslibres.fr){:target="_blank"}|
 
 
@@ -66,5 +66,5 @@ layout: page-fille
 
 **Expérience**
 
-|[![EcoTree.png](/uploads/EcoTree.png){: width="210"}](https://ecotree.fr/){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|
+|[![EcoTree.png](/uploads/EcoTree.png){: width="210"}](https://ecotree.fr/){:target="_blank"}|[![IMGTESTl.png]<img src="/uploads/Bioviva.png" alt="my alt text"/>{:width="210"}](https://){:target="_blank"}|[![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}](https://){:target="_blank"}|
  
