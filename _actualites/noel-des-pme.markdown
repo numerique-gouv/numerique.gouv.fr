@@ -45,14 +45,14 @@ une-ou-diaporama:
 **Maison**
 
 
-|[![Hurlu-dd2149.png](/uploads/Hurlu-dd2149.png){:width="210"} ](https://hurlu.fr){:target="_blank"}|[![LaPetitePapeterie.png](/uploads/LaPetitePapeterie.png){: width="210"}](http://www.lapetitepapeteriefrancaise.fr/fr/){:target="_blank"}|[![Marronrouge-1cdc99.png](/uploads/Marronrouge-1cdc99.png){:width="210"}](http://www.marronrouge.com){:target="_blank"}|
+|[![Hurlu-dd2149.png](/uploads/Hurlu-dd2149.png){:width="210"} {: alt="Hurlu, le sign écoresponsable"}](https://hurlu.fr){:target="_blank"}|[![LaPetitePapeterie.png](/uploads/LaPetitePapeterie.png){: width="210"}{: alt="La petite papeterie française, la papeterie éthique et écologique"}](http://www.lapetitepapeteriefrancaise.fr/fr/){:target="_blank"}|[![Marronrouge-1cdc99.png](/uploads/Marronrouge-1cdc99.png){:width="210"}{: alt="Marron rouge, sacs, accessoires et petit mobilier reçyclés"}](http://www.marronrouge.com){:target="_blank"}|
 
-|[![Pottias.png](/uploads/Pottias.png){:width="210"}](https://pottias.com/){:target="_blank"}|[![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}](https://www.tendances-emma.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![Pottias.png](/uploads/Pottias.png){:width="210"}](https://pottias.com/){:target="_blank"}|[![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}{: alt="Pottias, création artisanale de luminaires au Pays Basque"}](https://www.tendances-emma.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Sport**
 
-|[![Flaneurz2.png](/uploads/Flaneurz2.png){: width="210"} ](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles_Victoire.png](/uploads/Cycles_Victoire.png){: width="210"}](http://www.victoire-cycles.com){:target="_blank"}|[![Villacampat2.png](/uploads/Villacampat2.png){:width="210"}](https://www.villacampa-pyrenees.com){:target="_blank"}|
+|[![Flaneurz2.png](/uploads/Flaneurz2.png){: width="210"}{: alt="Flaneurz, greffer des roues sous les chaussures"} ](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles_Victoire.png](/uploads/Cycles_Victoire.png){: width="210"}{: alt="Cycles victoire, les vélos sur mesure"}](http://www.victoire-cycles.com){:target="_blank"}|[![Villacampat2.png](/uploads/Villacampat2.png){:width="210"}{: alt="Villa campa, fabrication artisanale de skis dans les pyrénées"}](https://www.villacampa-pyrenees.com){:target="_blank"}|
 
 
 **Beauté**
