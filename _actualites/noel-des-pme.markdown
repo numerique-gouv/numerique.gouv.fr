@@ -18,7 +18,7 @@ une-ou-diaporama:
 **Jeux et jouets**
 
 
-|[![BiovivaV2.png](/uploads/BiovivaV2.png){: width="210"}](https://www.bioviva.com/fr/){:target="_blank"}|[![CombatdeCoqs.png](/uploads/CombatdeCoqs.png){: width="210"}](https://www.combatdecoqs.fr){:target="_blank"}|[![LesJouetsLibres.png](/uploads/LesJouetsLibres.png){: width="210"}](http://www.lesjouetslibres.fr){:target="_blank"}|
+|[![BiovivaV2.png](/uploads/BiovivaV2.png){: width="210"}{: alt="Bioviva créateur de jeux pour enfants"}](https://www.bioviva.com/fr/){:target="_blank"}|[![CombatdeCoqs.png](/uploads/CombatdeCoqs.png){: width="210"}](https://www.combatdecoqs.fr){:target="_blank"}|[![LesJouetsLibres.png](/uploads/LesJouetsLibres.png){: width="210"}](http://www.lesjouetslibres.fr){:target="_blank"}|
 
 **Gastronomie**
 
