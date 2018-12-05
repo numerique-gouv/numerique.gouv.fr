@@ -30,11 +30,11 @@ une-ou-diaporama:
 **Vêtement, chaussures et accessoires**
 
 
-|[![HopaalV2-b29b6d.png](/uploads/HopaalV2-b29b6d.png){:width="210"}{: alt="Hopaal, les vêtements recyclés"}](https://hopaal.com/){:target="_blank"}|[![1083.png](/uploads/1083.png){: width="210"}](https://www.1083.fr/){:target="_blank"}|[![Kaipih.png](/uploads/Kaipih.png){:width="210"}{: alt="Kaipih, la broderie lyonnaise"}](https://www.kaipih.com){:target="_blank"}|
+|[![HopaalV2-b29b6d.png](/uploads/HopaalV2-b29b6d.png){:width="210"}{: alt="Hopaal, les vêtements recyclés"}](https://hopaal.com/){:target="_blank"}|[![1083V2.png](/uploads/1083V2.png){: width="210"}](https://www.1083.fr/){:target="_blank"}|[![Kaipih.png](/uploads/Kaipih.png){:width="210"}{: alt="Kaipih, la broderie lyonnaise"}](https://www.kaipih.com){:target="_blank"}|
 
 |[![Jules et JennV2.png](/uploads/Jules%20et%20JennV2.png){:width="210"}{: alt="Jules et Jenn, la mode responsable à prix abordable"}](https://www.julesjenn.com/){:target="_blank"}|[![Atelier_Tuffery.png](/uploads/Atelier_Tuffery.png){:width="210"}{: alt="Aterlier Tuffery, tailleur de jeans français depuis 1892"}](https://www.ateliertuffery.com){:target="_blank"}|[![Bilum.png](/uploads/Bilum.png){:width="210"}{: alt="Bilum, redonner une seconde vie aux matières pour des créations uniques et originales"}](https://www.bilum.fr){:target="_blank"}|
 
-|[![CoqEnPate.png](/uploads/CoqEnPate.png){:width="210"}{: alt="Coq en pâte, création de cartables, sacs à dos et accéssoires pour enfants"}](http://www.coqenpate.com){:target="_blank"}|[![LarevolutionTextile.png](/uploads/LarevolutionTextile.png){:width="210"}{: alt="La révolution textile, les vêtements locaux et écologiques"}](https://www.larevolutiontextile.com/){:target="_blank"}|[![LecolonelMoutarde.png](/uploads/LecolonelMoutarde.png){: width="210"}{: alt="Le colonel moutarde, vêtements et accessoires pour homme"}](https://www.lecolonelmoutarde.com/fr/){:target="_blank"}|
+|[![CoqEnPate.png](/uploads/CoqEnPate.png){:width="210"}{: alt="Coq en pâte, création de cartables, sacs à dos et accéssoires pour enfants"}](http://www.coqenpate.com){:target="_blank"}|[![LarévolutionTextileV2.png](/uploads/Lar%C3%A9volutionTextileV2.png)width="210"}{: alt="La révolution textile, les vêtements locaux et écologiques"}](https://www.larevolutiontextile.com/){:target="_blank"}|[![LecolonelMoutarde.png](/uploads/LecolonelMoutarde.png){: width="210"}{: alt="Le colonel moutarde, vêtements et accessoires pour homme"}](https://www.lecolonelmoutarde.com/fr/){:target="_blank"}|
 
 |[![Odyz.png](/uploads/Odyz.png){:width="210"}{: alt="ODYZ, fabricant de vêtements et accessoires pour bébés et enfants"}](https://odyz.net/){:target="_blank"}|[![Otobre71t.png](/uploads/Otobre71t.png){:width="210"}{: alt="Octobre 71, lunettes françaises fabriquées en 3D"}](https://www.octobre71.com/){:target="_blank"}|[![Reversible.png](/uploads/Reversible.png){:width="210"}{: alt="Reversible, sacs en matériaux reçyclés"}](https://www.reversible.fr){:target="_blank"}|
 
@@ -52,7 +52,7 @@ une-ou-diaporama:
 
 **Sport**
 
-|[![Flaneurz2.png](/uploads/Flaneurz2.png){: width="210"}{: alt="Flaneurz, greffer des roues sous les chaussures"} ](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles_Victoire.png](/uploads/Cycles_Victoire.png){: width="210"}{: alt="Cycles victoire, les vélos sur mesure"}](http://www.victoire-cycles.com){:target="_blank"}|[![Villacampat2.png](/uploads/Villacampat2.png){:width="210"}{: alt="Villa campa, fabrication artisanale de skis dans les pyrénées"}](https://www.villacampa-pyrenees.com){:target="_blank"}|
+|[![Flaneurz2.png](/uploads/Flaneurz2.png){: width="210"}{: alt="Flaneurz, greffer des roues sous les chaussures"} ](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles VictoireV2.png](/uploads/Cycles%20VictoireV2.png{: width="210"}{: alt="Cycles victoire, les vélos sur mesure"}](http://www.victoire-cycles.com){:target="_blank"}|[![Villacampat2.png](/uploads/Villacampat2.png){:width="210"}{: alt="Villa campa, fabrication artisanale de skis dans les pyrénées"}](https://www.villacampa-pyrenees.com){:target="_blank"}|
 
 
 **Beauté**
@@ -64,7 +64,8 @@ une-ou-diaporama:
 **Tech**
 
 
-|[![AirLabIndustrie.png](/uploads/AirLabIndustrie.png){: width="210"}{: alt="Air lab industrie, les trottinettes électriques"}](https://airlab-industrie.com/fr/){:target="_blank"}|[![Gaspajoe.png](/uploads/Gaspajoe.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|[![Captiv2.png](/uploads/Captiv2.png){: width="210"}{: alt="Captiv, créateur d'objets connectés"}](https://captiv.eu/creations.html){:target="_blank"}|
+|[![AirLabIndustrie.png](/uploads/AirLabIndustrie.png){: width="210"}{: alt="Air lab industrie, les trottinettes électriques"}](https://airlab-industrie.com/fr/){:target="_blank"}|[![GaspajoeV2.png](/uploads/GaspajoeV2.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|[![Captiv2.png](/uploads/Captiv2.png){: width="210"}{: alt="Captiv, créateur d'objets connectés"}](https://captiv.eu/creations.html){:target="_blank"}|
+
 
 |[![Mangobeat3.png](/uploads/Mangobeat3.png){:width="210"}{: alt="Mangobeat, l'enceinte écologique"}](https://www.mangobeat.fr){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}| 
 
