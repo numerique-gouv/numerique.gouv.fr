@@ -30,9 +30,9 @@ une-ou-diaporama:
 **Vêtement, chaussures et accessoires**
 
 
-|[![HopaalV2-b29b6d.png](/uploads/HopaalV2-b29b6d.png){:width="210"}](https://hopaal.com/){:target="_blank"}|[![1083.png](/uploads/1083.png){: width="210"}](https://www.1083.fr/){:target="_blank"}|[![Kaipih.png](/uploads/Kaipih.png){:width="210"}](https://www.kaipih.com){:target="_blank"}|
+|[![HopaalV2-b29b6d.png](/uploads/HopaalV2-b29b6d.png){:width="210"}{: alt="Hopaal, les vêtements recyclés"}](https://hopaal.com/){:target="_blank"}|[![1083.png](/uploads/1083.png){: width="210"}](https://www.1083.fr/){:target="_blank"}|[![Kaipih.png](/uploads/Kaipih.png){:width="210"}{: alt="Kaipih, la broderie lyonnaise"}](https://www.kaipih.com){:target="_blank"}|
 
-|[![Jules et JennV2.png](/uploads/Jules%20et%20JennV2.png){:width="210"}](https://www.julesjenn.com/){:target="_blank"}|[![Atelier_Tuffery.png](/uploads/Atelier_Tuffery.png){:width="210"}](https://www.ateliertuffery.com){:target="_blank"}|[![Bilum.png](/uploads/Bilum.png){:width="210"}](https://www.bilum.fr){:target="_blank"}|
+|[![Jules et JennV2.png](/uploads/Jules%20et%20JennV2.png){:width="210"}{: alt="Jules et Jenn, la mode responsable à prix abordable"}](https://www.julesjenn.com/){:target="_blank"}|[![Atelier_Tuffery.png](/uploads/Atelier_Tuffery.png){:width="210"}{: alt="Aterlier Tuffery, tailleur de jeans français depuis 1892"}](https://www.ateliertuffery.com){:target="_blank"}|[![Bilum.png](/uploads/Bilum.png){:width="210"}{: alt="Bilum, redonner une seconde vie aux matières pour des créations uniques et originales"}](https://www.bilum.fr){:target="_blank"}|
 
 |[![CoqEnPate.png](/uploads/CoqEnPate.png){:width="210"}](http://www.coqenpate.com){:target="_blank"}|[![LarevolutionTextile.png](/uploads/LarevolutionTextile.png){:width="210"}](https://www.larevolutiontextile.com/){:target="_blank"}|[![LecolonelMoutarde.png](/uploads/LecolonelMoutarde.png){: width="210"}](https://www.lecolonelmoutarde.com/fr/){:target="_blank"}|
 
