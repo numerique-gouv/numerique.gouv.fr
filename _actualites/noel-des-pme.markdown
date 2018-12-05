@@ -71,5 +71,5 @@ une-ou-diaporama:
 
 **Expérience**
 
-|[![EcoTree.png](/uploads/EcoTree.png){: width="210"}](https://ecotree.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![EcoTree.png](/uploads/EcoTree.png){: width="210"}{: alt="Ectotree, investissez en devenant propriétaire d'arbres"}](https://ecotree.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
  
