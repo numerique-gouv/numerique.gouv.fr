@@ -40,7 +40,7 @@ une-ou-diaporama:
 
 |[![Ector.png](/uploads/Ector.png){:width="210"}{: alt="Ector, les sneakers recyclées et recyclables"}](https://www.ector-sneakers.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}| 
 
-![Hurlu-f43267.png](/uploads/Hurlu-f43267.png)
+
 
 **Maison**
 
