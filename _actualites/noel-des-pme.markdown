@@ -66,8 +66,6 @@ une-ou-diaporama:
 
 
 |[![AirLabIndustrie.png](/uploads/AirLabIndustrie.png){: width="210"}{: alt="Air lab industrie, les trottinettes électriques"}](https://airlab-industrie.com/fr/){:target="_blank"}|[![Captiv2.png](/uploads/Captiv2.png){: width="210"}{: alt="Captiv, créateur d'objets connectés"}](https://captiv.eu/creations.html){:target="_blank"}|
-
-
 |[![Mangobeat3.png](/uploads/Mangobeat3.png){:width="210"}{: alt="Mangobeat, l'enceinte écologique"}](https://www.mangobeat.fr){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}| 
 
 
