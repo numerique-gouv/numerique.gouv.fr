@@ -23,7 +23,7 @@ une-ou-diaporama:
 **Gastronomie**
 
 
-|[![Approbio-86c4ec.png](/uploads/Approbio-86c4ec.png){: width="210"}](http://approbio.com/){:target="_blank"}|[![OCNI.png](/uploads/OCNI.png){:width="210"}](https://fr.ocni-factory.com){:target="_blank"}|[![PennArBox.png](/uploads/PennArBox.png){:width="210"}](https://www.pennarbox.bzh/fr){:target="_blank"}| 
+|[![Approbio-86c4ec.png](/uploads/Approbio-86c4ec.png){: width="210"}{: alt="Approbio, grossiste de produits bio"}](http://approbio.com/){:target="_blank"}|[![OCNI.png](/uploads/OCNI.png){:width="210"}{: alt="OCNI, les assaisonnements à tailler"}](https://fr.ocni-factory.com){:target="_blank"}|[![PennArBox.png](/uploads/PennArBox.png){:width="210"}{: alt="Penn ar box, les produits bretons"}](https://www.pennarbox.bzh/fr){:target="_blank"}| 
 
 
 
