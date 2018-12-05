@@ -18,8 +18,9 @@ SIRET : 12000101100010 (secrétariat général du gouvernement)
 
 
 ## Directeur de publication ##
-Le directeur interministériel du numérique et du système d'information et de communication de l'Etat
+Pour les sujets relevant de la DINSIC (transformation numérique de l'Etat) : le directeur interministériel du numérique et du système d'information et de communication de l'Etat
 
+Pour les sujets émis par le secrétariat d'Etat chargé du Numérique (notamment sur les sujets d'économie numérique) : Jean-François Poyau, chef du service de la communication au secrétariat général des ministères économiques et financiers.
 
 ## Conception et gestion du site ##
 Ce site est développé en mode agile, selon un principe d'amélioration continue. De nouvelles fonctionnalités seront ajoutées prochainement.
