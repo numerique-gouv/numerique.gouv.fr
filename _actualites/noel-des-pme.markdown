@@ -52,6 +52,8 @@ une-ou-diaporama:
 
 |[![Pottias.png](/uploads/Pottias.png){:width="210"}{: alt="Pottias, création artisanale de luminaires au Pays Basque"}](https://pottias.com/){:target="_blank"}|[![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}{: alt="Les tendances d'Emma, les produits cosmétiques bio"}](https://www.tendances-emma.fr/){:target="_blank"}|[![GaspajoeV2.png](/uploads/GaspajoeV2.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|
 
+|[![Loho.png](/uploads/Loho.png){: width="210"}{: alt="Loho, un large choix d'idées cadeaux"}](https://www.loho.fr){:target="_blank"}|
+
 
 **Sport**
 
