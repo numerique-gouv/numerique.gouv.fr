@@ -44,7 +44,7 @@ une-ou-diaporama:
 
 |[![Ector.png](/uploads/Ector.png){:width="210"}{: alt="Ector, les sneakers recyclées et recyclables"}](https://www.ector-sneakers.com/){:target="_blank"}|[![Frenchsunday.png](/uploads/Frenchsunday.png){:width="210"}{: alt="Frenchsunday, les vêtements entièrement fabriqués en France"}](https://www.frenchsunday.fr/){:target="_blank"}|[![Lechoppefrancaise.png](/uploads/Lechoppefrancaise.png){:width="210"}{: alt="Produits fabriqués en France"}](https://www.echoppe-francaise.fr/){:target="_blank"}|
 
-|[![coutellerienontronnaise.png](/uploads/coutellerienontronnaise.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.coutellerie-nontronnaise.com/fr/){:target="_blank"}|[![tournabois.png](/uploads/tournabois.png){:width="210"}{: alt="Implanté dans le Calvados, réalise et rénove vos balustrades, boules et plot en bois ! Intervient dans toute la Normandie !"}](https://www.tournabois.fr/){:target="_blank"}|
+|[![coutellerienontronnaise.png](/uploads/coutellerienontronnaise.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.coutellerie-nontronnaise.com/fr/){:target="_blank"}|[![tournabois.png](/uploads/tournabois.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.tournabois.fr/){:target="_blank"}|
 
 
 
