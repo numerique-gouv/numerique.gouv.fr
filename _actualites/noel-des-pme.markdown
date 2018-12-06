@@ -73,8 +73,6 @@ une-ou-diaporama:
  
 > ## Comment vous faire référencer au « Noël des PME » ?
 
-Pour vous faire référencer au Noël des PME, adressez avant le 15 décembre, un mail à l'adresse suivante : lenoeldespme.dge@finances.gouv.fr
-
 **Toutes les informations pour vous faire référencer :**
 [Le Noël des PME](https://secretariat-etat.numerique.gouv.fr/noel-pme){: target="_blank" }
 
