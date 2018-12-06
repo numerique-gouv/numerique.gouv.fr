@@ -7,7 +7,8 @@ tags:
 - Nuage
 - cloud
 - marché
-chapeau-text: Compléter
+chapeau-text: 'Le gouvernement souhaite développer massivement l''utilisation de l''informatique
+  en nuage au sein de l''administration.  '
 ---
 
 Le 3 juillet dernier, Mounir Mahjoubi, secrétaire d’État auprès du ministre de l’économie et des finances et du ministre de l'action et des comptes publics, chargé du numérique, présentait - à l’occasion de la Cloud week - la stratégie du gouvernement en matière d’informatique en nuage (cloud). 
@@ -29,5 +30,5 @@ Chaque administration pourra ainsi choisir la solution qui lui convient le mieux
 • Une souplesse et une rapidité de déploiement des solutions hébergées sur cloud ;
 • Une optimisation des coûts.
 
-[Doctrine d'utilisation informatique en nuage.pdf](/uploads/Doctrine%20d'utilisation%20informatique%20en%20nuage.pdf)
+[Doctrine d'utilisation informatique en nuage.pdf](/uploads/Doctrine%20d'utilisation%20informatique%20en%20nuage.pdf){: target="_blank"}
 {: .lien-important}
