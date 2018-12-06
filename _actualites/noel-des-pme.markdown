@@ -8,9 +8,9 @@ tags:
 - e-commerce
 - dge
 - entreprises
-chapeau-text: Pour vos cadeaux de fin d'année, ayez le réflexe PME. Sur cette page
-  et tout au long du mois de décembre, découvrez un best of des e-commerçants Français,
-  pour faire des cadeaux qui ont du sens et de l'impact sur l'emploi de nos territoires.
+chapeau-text: Vous êtes une PME, vous faites de l’e-commerce responsable, vous maîtrisez
+  votre impact social et environnemental ou produisez en circuit court. Et vous avez
+  des idées cadeaux pour ces fêtes de fin d’année ?
 une-ou-diaporama:
 - image: "/uploads/noel-pme.png"
 ---
@@ -20,11 +20,14 @@ une-ou-diaporama:
 
 |[![BiovivaV2.png](/uploads/BiovivaV2.png){: width="210"}{: alt="Bioviva créateur de jeux pour enfants"}](https://www.bioviva.com/fr/){:target="_blank"}|[![CombatdeCoqs.png](/uploads/CombatdeCoqs.png){: width="210"}{: alt="Combat de coqs les jeux sur la culture française"}](https://www.combatdecoqs.fr){:target="_blank"}|[![LesJouetsLibres.png](/uploads/LesJouetsLibres.png){: width="210"}{: alt="Les jouets libres, les jouets pour enfants"}](http://www.lesjouetslibres.fr){:target="_blank"}|
 
+|[![fabulabox.png](/uploads/fabulabox.png){: width="210"}{: alt="Fabulabox, jouets de construction pour les enfants de 4 à 10 ans"}](http://www.fabulabox.com){:target="_blank"}|[![arthur_marie.png](/uploads/arthur_marie.png){: width="210"}{: alt="Artisan et créateurs de jeux en bois depuis 1895"}](http://www.arthur-et-marie.com){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+
 **Gastronomie**
 
 
 |[![Approbio-86c4ec.png](/uploads/Approbio-86c4ec.png){: width="210"}{: alt="Approbio, grossiste de produits bio"}](http://approbio.com/){:target="_blank"}|[![OCNI.png](/uploads/OCNI.png){:width="210"}{: alt="OCNI, les assaisonnements à tailler"}](https://fr.ocni-factory.com){:target="_blank"}|[![PennArBox.png](/uploads/PennArBox.png){:width="210"}{: alt="Penn ar box, les produits bretons"}](https://www.pennarbox.bzh/fr){:target="_blank"}| 
 
+|[![BoucheriedelaMeouge-02786a.png](/uploads/BoucheriedelaMeouge-02786a.png){:width="210"}{: alt="Boucherie de la Méouge, la boucherie artisanale depuis 1920"}](https://tetedecochon.fr/){:target="_blank"}|[![maison_du_fromage.png](/uploads/maison_du_fromage.png){:width="210"}{: alt="La maison du frômage, frômages et produitslocaux"}](https://maisondufromage.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Vêtement, chaussures et accessoires**
@@ -38,7 +41,9 @@ une-ou-diaporama:
 
 |[![Odyz.png](/uploads/Odyz.png){:width="210"}{: alt="ODYZ, fabricant de vêtements et accessoires pour bébés et enfants"}](https://odyz.net/){:target="_blank"}|[![Otobre71t.png](/uploads/Otobre71t.png){:width="210"}{: alt="Octobre 71, lunettes françaises fabriquées en 3D"}](https://www.octobre71.com/){:target="_blank"}|[![Reversible.png](/uploads/Reversible.png){:width="210"}{: alt="Reversible, sacs en matériaux reçyclés"}](https://www.reversible.fr){:target="_blank"}|
 
-|[![Ector.png](/uploads/Ector.png){:width="210"}{: alt="Ector, les sneakers recyclées et recyclables"}](https://www.ector-sneakers.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}| 
+|[![Ector.png](/uploads/Ector.png){:width="210"}{: alt="Ector, les sneakers recyclées et recyclables"}](https://www.ector-sneakers.com/){:target="_blank"}|[![Frenchsunday.png](/uploads/Frenchsunday.png){:width="210"}{: alt="Frenchsunday, les vêtements entièrement fabriqués en France"}](https://www.frenchsunday.fr/){:target="_blank"}|[![Lechoppefrancaise.png](/uploads/Lechoppefrancaise.png){:width="210"}{: alt="Produits fabriqués en France"}](https://www.echoppe-francaise.fr/){:target="_blank"}|
+
+|[![coutellerienontronnaise.png](/uploads/coutellerienontronnaise.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.coutellerie-nontronnaise.com/fr/){:target="_blank"}|[![tournabois.png](/uploads/tournabois.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.tournabois.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 
@@ -47,8 +52,9 @@ une-ou-diaporama:
 
 |[![Hurlu-f43267.png](/uploads/Hurlu-f43267.png){:width="210"}{: alt="Hurlu, le sign écoresponsable"}](https://hurlu.fr){:target="_blank"}|[![LaPetitePapeterie.png](/uploads/LaPetitePapeterie.png){: width="210"}{: alt="La petite papeterie française, la papeterie éthique et écologique"}](http://www.lapetitepapeteriefrancaise.fr/fr/){:target="_blank"}|[![Marronrouge-1cdc99.png](/uploads/Marronrouge-1cdc99.png){:width="210"}{: alt="Marron rouge, sacs, accessoires et petit mobilier reçyclés"}](http://www.marronrouge.com){:target="_blank"}|
 
-|[![Pottias.png](/uploads/Pottias.png){:width="210"}](https://pottias.com/){:target="_blank"}|[![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}{: alt="Pottias, création artisanale de luminaires au Pays Basque"}](https://www.tendances-emma.fr/){:target="_blank"}|[![GaspajoeV2.png](/uploads/GaspajoeV2.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|
+|[![Pottias.png](/uploads/Pottias.png){:width="210"}{: alt="Pottias, création artisanale de luminaires au Pays Basque"}](https://pottias.com/){:target="_blank"}|[![GaspajoeV2.png](/uploads/GaspajoeV2.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|[![Loho.png](/uploads/Loho.png){: width="210"}{: alt="Loho, un large choix d'idées cadeaux"}](https://www.loho.fr){:target="_blank"}|
 
+|[![e-glue copie.png](/uploads/e-glue%20copie.png){: width="210"}{: alt=" Stickers muraux pour chambre enfant, décorations murales pour bébé"}](https://www.e-glue.fr/fr/){:target="_blank"}|
 
 **Sport**
 
@@ -59,6 +65,8 @@ une-ou-diaporama:
 
 |[![Douces_Angevines.png](/uploads/Douces_Angevines.png){: width="210"}{: alt="Douces angevines, les cosmétiques bio made in France"}](https://www.doucesangevines.com){:target="_blank"}|[![LeBaigneur.png](/uploads/LeBaigneur.png){: width="210"}{: alt="Le baigneur, artisan savonnier"}](https://www.lebaigneur.fr){:target="_blank"}|[![Pulpe de vie.png](/uploads/Pulpe%20de%20vie.png){:width="210"}{: alt="Pulpe de vie, cosmétiques et soins naturels"}](https://www.pulpedevie.com){:target="_blank"}|
 
+[![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}{: alt="Les tendances d'Emma, les produits cosmétiques bio"}](https://www.tendances-emma.fr/){:target="_blank"}|
+
 
 
 **Tech**
@@ -66,8 +74,15 @@ une-ou-diaporama:
 
 |[![AirLabIndustrie.png](/uploads/AirLabIndustrie.png){: width="210"}{: alt="Air lab industrie, les trottinettes électriques"}](https://airlab-industrie.com/fr/){:target="_blank"}|[![Captiv2.png](/uploads/Captiv2.png){: width="210"}{: alt="Captiv, créateur d'objets connectés"}](https://captiv.eu/creations.html){:target="_blank"}|[![Mangobeat3.png](/uploads/Mangobeat3.png){:width="210"}{: alt="Mangobeat, l'enceinte écologique"}](https://www.mangobeat.fr){:target="_blank"}|
 
+|[![paveparisien.png](/uploads/paveparisien.png){: width="210"}{: alt="Pavé parisien, la première enceinte nomade en béton de l'histoire"}](https://lepaveparisien.com/){:target="_blank"}|
+
+
 
 **Expérience**
 
 |[![EcoTree.png](/uploads/EcoTree.png){: width="210"}{: alt="Ectotree, investissez en devenant propriétaire d'arbres"}](https://ecotree.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
  
+> ## Comment vous faire référencer au « Noël des PME » ?
+**Toutes les informations pour vous faire référencer :**
+[Le Noël des PME](https://secretariat-etat.numerique.gouv.fr/noel-pme){: target="_blank" }
+{: .encadre}
