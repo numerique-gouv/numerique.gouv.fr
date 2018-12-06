@@ -27,9 +27,13 @@ Son objectif ? Favoriser l’usage du cloud au sein des administrations en leur 
 Chaque administration pourra ainsi choisir la solution qui lui convient le mieux.  
  
 À la clé de cette stratégie en matière de cloud, des avantages incontestables pour l’État, les services publics et les citoyens : 
+
 * L’amélioration de l’efficacité générale du système d’information des administrations publiques ;
+
 * Une plus grande agilité dans le développement de services innovants, tant pour les besoins internes de l’administration que pour les services rendus aux administrés ;
+
 * Une souplesse et une rapidité de déploiement des solutions hébergées sur cloud ;
+
 * Une optimisation des coûts.
 
 [Doctrine d'utilisation informatique en nuage.pdf](/uploads/Doctrine%20d'utilisation%20informatique%20en%20nuage.pdf){: target="_blank"}
