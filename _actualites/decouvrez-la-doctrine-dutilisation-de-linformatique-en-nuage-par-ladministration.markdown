@@ -1,6 +1,13 @@
 ---
 title: Découvrez la doctrine d’utilisation de l’informatique en nuage par l’administration
 date: 2018-12-06 16:21:00 +01:00
+categories:
+- Article
+tags:
+- Nuage
+- cloud
+- marché
+chapeau-text: Compléter
 ---
 
 Le 3 juillet dernier, Mounir Mahjoubi, secrétaire d’État auprès du ministre de l’économie et des finances et du ministre de l'action et des comptes publics, chargé du numérique, présentait - à l’occasion de la Cloud week - la stratégie du gouvernement en matière d’informatique en nuage (cloud). 
