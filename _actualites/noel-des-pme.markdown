@@ -25,6 +25,7 @@ une-ou-diaporama:
 
 |[![Approbio-86c4ec.png](/uploads/Approbio-86c4ec.png){: width="210"}{: alt="Approbio, grossiste de produits bio"}](http://approbio.com/){:target="_blank"}|[![OCNI.png](/uploads/OCNI.png){:width="210"}{: alt="OCNI, les assaisonnements à tailler"}](https://fr.ocni-factory.com){:target="_blank"}|[![PennArBox.png](/uploads/PennArBox.png){:width="210"}{: alt="Penn ar box, les produits bretons"}](https://www.pennarbox.bzh/fr){:target="_blank"}| 
 
+|[![BoucheriedelaMeouge-02786a.png](/uploads/BoucheriedelaMeouge-02786a.png){:width="210"}{: alt="Boucherie de la Méouge, la boucherie artisanale depuis 1920"}](https://pottias.com/){:target="_blank"}||![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Vêtement, chaussures et accessoires**
