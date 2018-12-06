@@ -54,7 +54,7 @@ une-ou-diaporama:
 
 |[![Pottias.png](/uploads/Pottias.png){:width="210"}{: alt="Pottias, création artisanale de luminaires au Pays Basque"}](https://pottias.com/){:target="_blank"}|[![GaspajoeV2.png](/uploads/GaspajoeV2.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|[![Loho.png](/uploads/Loho.png){: width="210"}{: alt="Loho, un large choix d'idées cadeaux"}](https://www.loho.fr){:target="_blank"}|
 
-|[![e-glue copie.png](/uploads/e-glue%20copie.png){: width="210"}{: alt=" Stickers muraux pour chambre enfant, décorations murales pour bébé"}](https://www.e-glue.fr/fr/){:target="_blank"}|
+|[![e-glue copie.png](/uploads/e-glue%20copie.png){: width="210"}{: alt=" Stickers muraux pour chambre enfant, décorations murales pour bébé"}](https://www.e-glue.fr/fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|  
 
 **Sport**
 
