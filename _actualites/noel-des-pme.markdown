@@ -47,7 +47,7 @@ une-ou-diaporama:
 
 |[![Hurlu-f43267.png](/uploads/Hurlu-f43267.png){:width="210"}{: alt="Hurlu, le sign écoresponsable"}](https://hurlu.fr){:target="_blank"}|[![LaPetitePapeterie.png](/uploads/LaPetitePapeterie.png){: width="210"}{: alt="La petite papeterie française, la papeterie éthique et écologique"}](http://www.lapetitepapeteriefrancaise.fr/fr/){:target="_blank"}|[![Marronrouge-1cdc99.png](/uploads/Marronrouge-1cdc99.png){:width="210"}{: alt="Marron rouge, sacs, accessoires et petit mobilier reçyclés"}](http://www.marronrouge.com){:target="_blank"}|
 
-|[![Pottias.png](/uploads/Pottias.png){:width="210"}](https://pottias.com/){:target="_blank"}|[![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}{: alt="Pottias, création artisanale de luminaires au Pays Basque"}](https://www.tendances-emma.fr/){:target="_blank"}|[![GaspajoeV2.png](/uploads/GaspajoeV2.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|
+|[![Pottias.png](/uploads/Pottias.png){:width="210"}{: alt="Pottias, création artisanale de luminaires au Pays Basque"}](https://pottias.com/){:target="_blank"}|[![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}{: alt="Les tendances d'Emma, les produits cosmétiques bio"}](https://www.tendances-emma.fr/){:target="_blank"}|[![GaspajoeV2.png](/uploads/GaspajoeV2.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|
 
 
 **Sport**
