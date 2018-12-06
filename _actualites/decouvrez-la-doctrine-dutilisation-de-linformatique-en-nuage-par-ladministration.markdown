@@ -19,11 +19,11 @@ Une circulaire en date du 8 novembre 2018 précise les contours de cette doctrin
 
 Son objectif ? Favoriser l’usage du cloud au sein des administrations en leur proposant une offre hybride composée de 3 cercles de solutions adaptés aux usages et à la sensibilité des données :
 
-• Un « cloud interne », dédié aux données tactiques et sensibles, accessible dans un premier temps aux ministères via un portail interministériel. Hébergé par l’administration, ce cloud sera conforme aux exigences régaliennes de sécurité. Les collectivités pourront en bénéficier à plus long terme.
+• Un **« cloud interne »**, dédié aux données tactiques et sensibles, accessible dans un premier temps aux ministères via un portail interministériel. Hébergé par l’administration, ce cloud sera conforme aux exigences régaliennes de sécurité. Les collectivités pourront en bénéficier à plus long terme.
 
-• Un « cloud dédié », pour les données et applications de sensibilité moindre, reposant sur une offre externe personnalisée pour les besoins de l’État et hébergé sur des infrastructures dédiées. L’agence nationale de la sécurité des systèmes d'information (ANSSI) en supervisera la sécurité. 
+• Un **« cloud dédié »**, pour les données et applications de sensibilité moindre, reposant sur une offre externe personnalisée pour les besoins de l’État et hébergé sur des infrastructures dédiées. L’agence nationale de la sécurité des systèmes d'information (ANSSI) en supervisera la sécurité. 
 
-• Un « cloud externe », pour les données peu sensibles, constitué d’un catalogue d’offres cloud accessibles sur un portail numérique unique, pour en faciliter la commande. Dès sa mise en œuvre, courant 2019, les collectivités, ou toute entité publique ayant accès à l’ union des groupements d'achat public (UGAP), pourront en bénéficier.
+• Un **« cloud externe »**, pour les données peu sensibles, constitué d’un catalogue d’offres cloud accessibles sur un portail numérique unique, pour en faciliter la commande. Dès sa mise en œuvre, courant 2019, les collectivités, ou toute entité publique ayant accès à l’ union des groupements d'achat public (UGAP), pourront en bénéficier.
 Chaque administration pourra ainsi choisir la solution qui lui convient le mieux.  
  
 À la clé de cette stratégie en matière de cloud, des avantages incontestables pour l’État, les services publics et les citoyens : 
