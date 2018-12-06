@@ -12,6 +12,8 @@ chapeau-text: 'Le gouvernement souhaite développer massivement l''utilisation d
   en nuage (cloud) au sein de l''administration. Quatre mois après la présentation
   de sa stratégie en al matière, le gouvernement précise sa doctrine dans une circulaire
   afin de promouvoir le recours au cloud au sein des administrations publiques. '
+une-ou-diaporama:
+- image: "/uploads/cloud1.jpg"
 ---
 
 Le 3 juillet dernier, Mounir Mahjoubi, secrétaire d’État auprès du ministre de l’économie et des finances et du ministre de l'action et des comptes publics, chargé du numérique, présentait - à l’occasion de la Cloud week - la stratégie du gouvernement en matière d’informatique en nuage (cloud). 
