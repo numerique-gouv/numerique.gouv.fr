@@ -1,6 +1,7 @@
 ---
 title: Découvrez la doctrine d’utilisation de l’informatique en nuage par l’administration
 date: 2018-12-06 16:21:00 +01:00
+published: false
 categories:
 - Article
 tags:
