@@ -71,3 +71,11 @@ une-ou-diaporama:
 
 |[![EcoTree.png](/uploads/EcoTree.png){: width="210"}{: alt="Ectotree, investissez en devenant propriétaire d'arbres"}](https://ecotree.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
  
+> ## Comment vous faire référencer au « Noël des PME » ?
+
+Pour vous faire référencer au Noël des PME, adressez avant le 15 décembre, un mail à l'adresse suivante : lenoeldespme.dge@finances.gouv.fr
+
+**Toutes les informations pour vous faire référencer :**
+[Le Noël des PME](https://secretariat-etat.numerique.gouv.fr/noel-pme){: target="_blank" }
+
+{: .encadre}
