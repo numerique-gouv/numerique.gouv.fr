@@ -44,15 +44,16 @@ une-ou-diaporama:
 
 |[![Ector.png](/uploads/Ector.png){:width="210"}{: alt="Ector, les sneakers recyclées et recyclables"}](https://www.ector-sneakers.com/){:target="_blank"}|[![Frenchsunday.png](/uploads/Frenchsunday.png){:width="210"}{: alt="Frenchsunday, les vêtements entièrement fabriqués en France"}](https://www.frenchsunday.fr/){:target="_blank"}|[![Lechoppefrancaise.png](/uploads/Lechoppefrancaise.png){:width="210"}{: alt="Produits fabriqués en France"}](https://www.echoppe-francaise.fr/){:target="_blank"}|
 
+|[![coutellerienontronnaise.png](/uploads/coutellerienontronnaise.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.coutellerie-nontronnaise.com/fr/){:target="_blank"}|
+
+
 
 **Maison**
 
 
 |[![Hurlu-f43267.png](/uploads/Hurlu-f43267.png){:width="210"}{: alt="Hurlu, le sign écoresponsable"}](https://hurlu.fr){:target="_blank"}|[![LaPetitePapeterie.png](/uploads/LaPetitePapeterie.png){: width="210"}{: alt="La petite papeterie française, la papeterie éthique et écologique"}](http://www.lapetitepapeteriefrancaise.fr/fr/){:target="_blank"}|[![Marronrouge-1cdc99.png](/uploads/Marronrouge-1cdc99.png){:width="210"}{: alt="Marron rouge, sacs, accessoires et petit mobilier reçyclés"}](http://www.marronrouge.com){:target="_blank"}|
 
-|[![Pottias.png](/uploads/Pottias.png){:width="210"}{: alt="Pottias, création artisanale de luminaires au Pays Basque"}](https://pottias.com/){:target="_blank"}|[![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}{: alt="Les tendances d'Emma, les produits cosmétiques bio"}](https://www.tendances-emma.fr/){:target="_blank"}|[![GaspajoeV2.png](/uploads/GaspajoeV2.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|
-
-|[![Loho.png](/uploads/Loho.png){: width="210"}{: alt="Loho, un large choix d'idées cadeaux"}](https://www.loho.fr){:target="_blank"}|
+|[![Pottias.png](/uploads/Pottias.png){:width="210"}{: alt="Pottias, création artisanale de luminaires au Pays Basque"}](https://pottias.com/){:target="_blank"}|[![GaspajoeV2.png](/uploads/GaspajoeV2.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|[![Loho.png](/uploads/Loho.png){: width="210"}{: alt="Loho, un large choix d'idées cadeaux"}](https://www.loho.fr){:target="_blank"}|
 
 
 **Sport**
@@ -63,6 +64,8 @@ une-ou-diaporama:
 **Beauté**
 
 |[![Douces_Angevines.png](/uploads/Douces_Angevines.png){: width="210"}{: alt="Douces angevines, les cosmétiques bio made in France"}](https://www.doucesangevines.com){:target="_blank"}|[![LeBaigneur.png](/uploads/LeBaigneur.png){: width="210"}{: alt="Le baigneur, artisan savonnier"}](https://www.lebaigneur.fr){:target="_blank"}|[![Pulpe de vie.png](/uploads/Pulpe%20de%20vie.png){:width="210"}{: alt="Pulpe de vie, cosmétiques et soins naturels"}](https://www.pulpedevie.com){:target="_blank"}|
+
+[![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}{: alt="Les tendances d'Emma, les produits cosmétiques bio"}](https://www.tendances-emma.fr/){:target="_blank"}|
 
 
 
