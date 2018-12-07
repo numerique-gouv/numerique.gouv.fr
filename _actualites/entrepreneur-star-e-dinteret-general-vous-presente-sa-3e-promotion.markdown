@@ -1,5 +1,5 @@
 ---
-title: Entrepreneur·e d’Intérêt Général vous présente sa 3e promotion
+title: 'Entrepreneur·e d’Intérêt Général : découvrez la 3e promotion !'
 date: 2018-12-07 14:48:00 +01:00
 categories:
 - Article
