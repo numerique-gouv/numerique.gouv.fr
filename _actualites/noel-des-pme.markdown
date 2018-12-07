@@ -22,7 +22,7 @@ une-ou-diaporama:
 
 |[![fabulabox.png](/uploads/fabulabox.png){: width="210"}{: alt="Fabulabox, jouets de construction pour les enfants de 4 à 10 ans"}](http://www.fabulabox.com){:target="_blank"}|[![arthur_marie.png](/uploads/arthur_marie.png){: width="210"}{: alt="Artisan et créateurs de jeux en bois depuis 1895"}](http://www.arthur-et-marie.com){:target="_blank"}|[![jouets-francais.png](/uploads/jouets-francais.png){: width="210"}{: alt="Les jouets français, le savoir-faire français en matière de jouets"}](http://lesjouetsfrancais.fr){:target="_blank"}|
 
-|[![inside3.png](/uploads/inside3.png){: width="210"}{: alt="Inside3, c’est un labyrinthe en 3 dimensions qui se joue à l’aveugle"}](http://www.insidezecube.com){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![inside3_v2.png](/uploads/inside3_v2.png){: width="210"}{: alt="Inside3, c’est un labyrinthe en 3 dimensions qui se joue à l’aveugle"}](http://www.insidezecube.com){:target="_blank"}|[![livrenpoche.png](/uploads/livrenpoche.png){: width="210"}{: alt="Livrenpoche, le spécialiste du livre format poche d'occasion"}](http://www.insidezecube.com){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 **Gastronomie**
 
@@ -31,7 +31,7 @@ une-ou-diaporama:
 
 |[![BoucheriedelaMeouge-02786a.png](/uploads/BoucheriedelaMeouge-02786a.png){:width="210"}{: alt="Boucherie de la Méouge, la boucherie artisanale depuis 1920"}](https://tetedecochon.fr/){:target="_blank"}|[![maison_du_fromage.png](/uploads/maison_du_fromage.png){:width="210"}{: alt="La maison du fromage, fromages et produitslocaux"}](https://maisondufromage.fr/){:target="_blank"}|[![1336.png](/uploads/1336.png){:width="210"}{: alt="1336, les thés de l'association Fraliberthé"}](https://boutique.fraliberthe.fr/){:target="_blank"}|
 
-|[![floranjou.png](/uploads/floranjou.png){:width="210"}{: alt="Floranjou, l'herboriserie en ligne"}](https://www.floranjou.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![floranjou.png](/uploads/floranjou.png){:width="210"}{: alt="Floranjou, l'herboristerie en ligne"}](https://www.floranjou.fr/){:target="_blank"}|[![paleo.png](/uploads/paleo.png){:width="210"}{: alt="Paléo toi-même, des en-cas sains et bio"}](https://www.paleotoimeme.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Vêtements, chaussures et accessoires**
@@ -58,6 +58,8 @@ une-ou-diaporama:
 |[![Pottias.png](/uploads/Pottias.png){:width="210"}{: alt="Pottias, création artisanale de luminaires au Pays Basque"}](https://pottias.com/){:target="_blank"}|[![GaspajoeV2.png](/uploads/GaspajoeV2.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|[![Loho.png](/uploads/Loho.png){: width="210"}{: alt="Loho, un large choix d'idées cadeaux"}](https://www.loho.fr){:target="_blank"}|
 
 |[![e-glue copie.png](/uploads/e-glue%20copie.png){: width="210"}{: alt=" Stickers muraux pour chambre enfant, décorations murales pour bébé"}](https://www.e-glue.fr/fr/){:target="_blank"}||[![coutellerienontronnaise.png](/uploads/coutellerienontronnaise.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.coutellerie-nontronnaise.com/fr/){:target="_blank"}|[![tournabois.png](/uploads/tournabois.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.tournabois.fr/){:target="_blank"}|
+
+|[![manamani.png](/uploads/manamani.png){: width="210"}{: alt=" Manamani, une gamme d’objets simples pour un quotidien zéro déchet"}](https://www.manamani.com/){:target="_blank"}||![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 **Sports**
 
