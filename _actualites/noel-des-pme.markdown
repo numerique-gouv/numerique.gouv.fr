@@ -45,9 +45,6 @@ une-ou-diaporama:
 
 |[![Ector.png](/uploads/Ector.png){:width="210"}{: alt="Ector, les sneakers recyclées et recyclables"}](https://www.ector-sneakers.com/){:target="_blank"}|[![Frenchsunday.png](/uploads/Frenchsunday.png){:width="210"}{: alt="Frenchsunday, les vêtements entièrement fabriqués en France"}](https://www.frenchsunday.fr/){:target="_blank"}|[![Lechoppefrancaise.png](/uploads/Lechoppefrancaise.png){:width="210"}{: alt="Produits fabriqués en France"}](https://www.echoppe-francaise.fr/){:target="_blank"}|
 
-|[![coutellerienontronnaise.png](/uploads/coutellerienontronnaise.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.coutellerie-nontronnaise.com/fr/){:target="_blank"}|[![tournabois.png](/uploads/tournabois.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.tournabois.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
-
-
 
 **Maison**
 
@@ -56,7 +53,7 @@ une-ou-diaporama:
 
 |[![Pottias.png](/uploads/Pottias.png){:width="210"}{: alt="Pottias, création artisanale de luminaires au Pays Basque"}](https://pottias.com/){:target="_blank"}|[![GaspajoeV2.png](/uploads/GaspajoeV2.png){: width="210"}{: alt="Gaspa et Joe, les bouteilles et gourdes en inox"}](https://www.gaspajoe.fr){:target="_blank"}|[![Loho.png](/uploads/Loho.png){: width="210"}{: alt="Loho, un large choix d'idées cadeaux"}](https://www.loho.fr){:target="_blank"}|
 
-|[![e-glue copie.png](/uploads/e-glue%20copie.png){: width="210"}{: alt=" Stickers muraux pour chambre enfant, décorations murales pour bébé"}](https://www.e-glue.fr/fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|  
+|[![e-glue copie.png](/uploads/e-glue%20copie.png){: width="210"}{: alt=" Stickers muraux pour chambre enfant, décorations murales pour bébé"}](https://www.e-glue.fr/fr/){:target="_blank"}||[![coutellerienontronnaise.png](/uploads/coutellerienontronnaise.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.coutellerie-nontronnaise.com/fr/){:target="_blank"}|[![tournabois.png](/uploads/tournabois.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.tournabois.fr/){:target="_blank"}|
 
 **Sports**
 
