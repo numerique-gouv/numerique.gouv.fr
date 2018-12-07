@@ -12,7 +12,7 @@ chapeau-text: 'Le gouvernement souhaite développer massivement l''utilisation d
   de sa stratégie en la matière, il en précise la doctrine dans une circulaire adressée
   à l''ensemble des ministères. '
 une-ou-diaporama:
-- image: "/uploads/cloud_circulaire.jpg"
+- image: "/uploads/cloud_circulaire_une.jpg"
 ---
 
 Le 3 juillet dernier, Mounir Mahjoubi, secrétaire d’État chargé du Numérique, présentait [la stratégie du gouvernement en matière d’informatique en nuage (cloud)](https://www.numerique.gouv.fr/espace-presse/le-gouvernement-annonce-sa-strategie-en-matiere-de-cloud/). L’objectif ? Développer largement son utilisation par les administrations et à terme en faire la norme.
