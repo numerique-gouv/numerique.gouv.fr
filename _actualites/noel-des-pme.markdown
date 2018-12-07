@@ -65,7 +65,7 @@ une-ou-diaporama:
 
 |[![Douces_Angevines.png](/uploads/Douces_Angevines.png){: width="210"}{: alt="Douces angevines, les cosmétiques bio made in France"}](https://www.doucesangevines.com){:target="_blank"}|[![LeBaigneur.png](/uploads/LeBaigneur.png){: width="210"}{: alt="Le baigneur, artisan savonnier"}](https://www.lebaigneur.fr){:target="_blank"}|[![Pulpe de vie.png](/uploads/Pulpe%20de%20vie.png){:width="210"}{: alt="Pulpe de vie, cosmétiques et soins naturels"}](https://www.pulpedevie.com){:target="_blank"}|
 
-[![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}{: alt="Les tendances d'Emma, les produits cosmétiques bio"}](https://www.tendances-emma.fr/){:target="_blank"}|
+[![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}{: alt="Les tendances d'Emma, les produits cosmétiques bio"}](https://www.tendances-emma.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 
