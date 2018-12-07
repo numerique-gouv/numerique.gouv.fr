@@ -8,8 +8,8 @@ tags:
 - informatique
 chapeau-text: Le gouvernement souhaite développer massivement l'utilisation de l'informatique
   en nuage (cloud) au sein de l'administration. Quatre mois après la présentation
-  de sa stratégie en la matière, le gouvernement précise sa doctrine dans une circulaire
-  adressée à l'ensemble des ministères.
+  de sa stratégie en la matière, il en précise la doctrine dans une circulaire adressée
+  à l'ensemble des ministères.
 une-ou-diaporama:
 - image: "/uploads/cloud_circulaire.jpg"
 ---
