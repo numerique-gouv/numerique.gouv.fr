@@ -14,7 +14,7 @@ une-ou-diaporama:
 - image: "/uploads/cloud_circulaire.jpg"
 ---
 
-Le 3 juillet dernier, Mounir Mahjoubi, secrétaire d’État auprès du ministre de l’économie et des finances et du ministre de l'action et des comptes publics, chargé du Numérique, présentait [la stratégie du gouvernement en matière d’informatique en nuage (cloud)](https://www.numerique.gouv.fr/espace-presse/le-gouvernement-annonce-sa-strategie-en-matiere-de-cloud/). L’objectif ? Encourager les administrations à recourir au cloud.
+Le 3 juillet dernier, Mounir Mahjoubi, secrétaire d’État chargé du Numérique, présentait [la stratégie du gouvernement en matière d’informatique en nuage (cloud)](https://www.numerique.gouv.fr/espace-presse/le-gouvernement-annonce-sa-strategie-en-matiere-de-cloud/). L’objectif ? Encourager les administrations à y recourir.
 
 Une circulaire adressée par le Premier ministre aux ministères le 8 novembre 2018 précise la doctrine d'utilisation du cloud par l’État et donne l'impulsion pour sa mise en œuvre.
 
