@@ -15,6 +15,6 @@ chapeau-text: 32 nouveaux entrepreneurs d'intérêt génnéral (EIG) – data sc
 une-ou-diaporama:
 - image: "/uploads/jury-EIG3-806x393.png"
 auteur: Etalab.gouv.fr
-Redirection: https://www.etalab.gouv.fr/entrepreneur%c2%b7e-dinteret-general-vous-presente-sa-3eme-promotion
+redirection: https://www.etalab.gouv.fr/entrepreneur%c2%b7e-dinteret-general-vous-presente-sa-3eme-promotion
 ---
 
