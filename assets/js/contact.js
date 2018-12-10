@@ -11,27 +11,13 @@ $('#contact-form').submit(function(event) {
     text: $("textarea[name='text']").val()
   }
 
-  axios.post('http://localhost:3005/mail', {
+  axios.post('http://dev.numerique.gouv.fr/api/mail', {
     params: data
   })
     .then(function (response) {
       console.log(response);
     })
     .catch(function (error) {
-      alert('error');
+      console.log(error);
     });
-
-  //
-  //   $.ajax({
-  //     url: 'http://localhost:3005/mail',
-  //     type: 'POST',
-  //     crossDomain: true,
-  //     data: data,
-  //     success:function(data) {
-  //       console.log('success');
-  //     },
-  //     error:function(data) {
-  //       console.log('error');
-  //     }
-  // });
 });
