@@ -11,7 +11,7 @@ $('#contact-form').submit(function(event) {
     text: $("textarea[name='text']").val()
   }
 
-  axios.post('http://dev.numerique.gouv.fr/api/mail', {
+  axios.post('https://dev.numerique.gouv.fr/api/mail', {
     params: data
   })
     .then(function (response) {
