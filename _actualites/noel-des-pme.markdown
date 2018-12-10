@@ -33,7 +33,9 @@ une-ou-diaporama:
 
 |[![BoucheriedelaMeouge-02786a.png](/uploads/BoucheriedelaMeouge-02786a.png){:width="210"}{: alt="Boucherie de la Méouge, la boucherie artisanale depuis 1920"}](https://tetedecochon.fr/){:target="_blank"}|[![maison_du_fromage.png](/uploads/maison_du_fromage.png){:width="210"}{: alt="La maison du fromage, fromages et produitslocaux"}](https://maisondufromage.fr/){:target="_blank"}|[![1336.png](/uploads/1336.png){:width="210"}{: alt="1336, les thés de l'association Fraliberthé"}](https://boutique.fraliberthe.fr/){:target="_blank"}|
 
-|[![floranjou.png](/uploads/floranjou.png){:width="210"}{: alt="Floranjou, l'herboristerie en ligne"}](https://www.floranjou.fr/){:target="_blank"}|[![paleo.png](/uploads/paleo.png){:width="210"}{: alt="Paléo toi-même, des en-cas sains et bio"}](https://www.paleotoimeme.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![floranjou.png](/uploads/floranjou.png){:width="210"}{: alt="Floranjou, l'herboristerie en ligne"}](https://www.floranjou.fr/){:target="_blank"}|[![paleo.png](/uploads/paleo.png){:width="210"}{: alt="Paléo toi-même, des en-cas sains et bio"}](https://www.paleotoimeme.fr/){:target="_blank"}|![![pourdebon.png](/uploads/pourdebon.png){:width="210"}{: alt="Pour de bon, en direct des meilleurs producteurs français"}](https://www.pourdebon.com/){:target="_blank"}|
+
+|[![shantybiscuits.png](/uploads/shantybiscuits.png){:width="210"}{: alt="Shanty biscuits, fabrication sur-mesure de biscuits expressifs"}](https://shantybiscuits.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Vêtements, chaussures et accessoires**
@@ -50,6 +52,8 @@ une-ou-diaporama:
 |[![Ector.png](/uploads/Ector.png){:width="210"}{: alt="Ector, les sneakers recyclées et recyclables"}](https://www.ector-sneakers.com/){:target="_blank"}|[![Frenchsunday.png](/uploads/Frenchsunday.png){:width="210"}{: alt="Frenchsunday, les vêtements entièrement fabriqués en France"}](https://www.frenchsunday.fr/){:target="_blank"}|[![Lechoppefrancaise.png](/uploads/Lechoppefrancaise.png){:width="210"}{: alt="Produits fabriqués en France"}](https://www.echoppe-francaise.fr/){:target="_blank"}|
 
 |[![faguo.png](/uploads/faguo.png){:width="210"}{: alt="Faguo, une jeune marque de mode qui plante un arbre pour chaque article produit"}](https://www.faguo-store.com/fr/){:target="_blank"}|[![Beaming-lab.png](/uploads/Beaming-lab.png){:width="210"}{: alt="Beaming Lab, collection permanente de sweats, t-shirts, vêtements et accessoires aux messages personnalisés"}](https://www.beaming-lab.com/){:target="_blank"}|[![CollantsgerbeV2.png](/uploads/CollantsgerbeV2.png){:width="210"}{:  alt="Collants,bas,bas jarretières,leggings,jambières,bodies, chaussettes"}](https://www.gerbe.com/){:target="_blank"}|
+
+|[![natifs.png](/uploads/natifs.png){:width="210"}{: alt="Natifs, une sélection d'accessoires dénichés à travers le monde entier"}](https://www.natifs.fr/fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Maison**
