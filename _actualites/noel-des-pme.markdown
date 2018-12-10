@@ -49,7 +49,7 @@ une-ou-diaporama:
 
 |[![Ector.png](/uploads/Ector.png){:width="210"}{: alt="Ector, les sneakers recyclées et recyclables"}](https://www.ector-sneakers.com/){:target="_blank"}|[![Frenchsunday.png](/uploads/Frenchsunday.png){:width="210"}{: alt="Frenchsunday, les vêtements entièrement fabriqués en France"}](https://www.frenchsunday.fr/){:target="_blank"}|[![Lechoppefrancaise.png](/uploads/Lechoppefrancaise.png){:width="210"}{: alt="Produits fabriqués en France"}](https://www.echoppe-francaise.fr/){:target="_blank"}|
 
-|[![faguo.png](/uploads/faguo.png){:width="210"}{: alt="Faguo, une jeune marque de mode qui plante un arbre pour chaque article produit"}](https://www.faguo-store.com/fr/){:target="_blank"}|[![Beaming-lab.png](/uploads/Beaming-lab.png){:width="210"}{: alt="Beaming Lab, collection permanente de sweats, t-shirts, vêtements et accessoires aux messages personnalisés"}](https://www.beaming-lab.com/){:target="_blank"}|
+|[![faguo.png](/uploads/faguo.png){:width="210"}{: alt="Faguo, une jeune marque de mode qui plante un arbre pour chaque article produit"}](https://www.faguo-store.com/fr/){:target="_blank"}|[![Beaming-lab.png](/uploads/Beaming-lab.png){:width="210"}{: alt="Beaming Lab, collection permanente de sweats, t-shirts, vêtements et accessoires aux messages personnalisés"}](https://www.beaming-lab.com/){:target="_blank"}
 |[![Collantsgerbe.png](/uploads/Collantsgerbe.png){:width="210"}{: alt="Gerbe, collants, bas, bas jarretières, leggings, jambières, bodies, chaussettes, socquettes"}](https://www.gerbe.com/){:target="_blank"}|
 
 
