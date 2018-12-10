@@ -35,7 +35,7 @@ une-ou-diaporama:
 
 |[![floranjou.png](/uploads/floranjou.png){:width="210"}{: alt="Floranjou, l'herboristerie en ligne"}](https://www.floranjou.fr/){:target="_blank"}|[![paleo.png](/uploads/paleo.png){:width="210"}{: alt="Paléo toi-même, des en-cas sains et bio"}](https://www.paleotoimeme.fr/){:target="_blank"}|[![pourdebon.png](/uploads/pourdebon.png){:width="210"}{: alt="Pour de bon, en direct des meilleurs producteurs français"}](https://www.pourdebon.com/){:target="_blank"}|
 
-|[![shantybiscuits.png](/uploads/shantybiscuits.png){:width="210"}{: alt="Shanty biscuits, fabrication sur-mesure de biscuits expressifs"}](https://shantybiscuits.com/){:target="_blank"}|[![cosycoffee.png](/uploads/cosycoffee.png){:width="210"}{: alt="Cosy coffee, les premières capsules 100% compostables"}](https://cosycoffee.co/){:target="_blank"}|[![monvinfrancais.png](/upload/monvinfrancais.png){:width="210"}{: alt="Mon vin français, commandez en ligne vos vins et champagnes en direct du producteur"}](https://www.monvinfrancais.com/){:target="_blank"}|
+|[![shantybiscuits.png](/uploads/shantybiscuits.png){:width="210"}{: alt="Shanty biscuits, fabrication sur-mesure de biscuits expressifs"}](https://shantybiscuits.com/){:target="_blank"}|[![cosycoffee.png](/uploads/cosycoffee.png){:width="210"}{: alt="Cosy coffee, les premières capsules 100% compostables"}](https://cosycoffee.co/){:target="_blank"}|[![monvinfrancais.png](/uploads/monvinfrancais.png){:width="210"}{: alt="Commandez en ligne vos vins en direct de chez le producteur"}](https://www.monvinfrancais.com/){:target="_blank"}|
 
 
 **Vêtements, chaussures et accessoires**
