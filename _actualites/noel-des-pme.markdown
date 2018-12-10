@@ -22,7 +22,7 @@ une-ou-diaporama:
 
 |[![fabulabox.png](/uploads/fabulabox.png){: width="210"}{: alt="Fabulabox, jouets de construction pour les enfants de 4 à 10 ans"}](http://www.fabulabox.com/){:target="_blank"}|[![arthur_marie.png](/uploads/arthur_marie.png){: width="210"}{: alt="Artisan et créateurs de jeux en bois depuis 1895"}](http://www.arthur-et-marie.com){:target="_blank"}|[![jouets-francais.png](/uploads/jouets-francais.png){: width="210"}{: alt="Les jouets français, le savoir-faire français en matière de jouets"}](http://lesjouetsfrancais.fr/){:target="_blank"}|
 
-|[![inside3_v2.png](/uploads/inside3_v2.png){: width="210"}{: alt="Inside3, c’est un labyrinthe en 3 dimensions qui se joue à l’aveugle"}](http://www.insidezecube.com/){:target="_blank"}|[![livrenpoche.png](/uploads/livrenpoche.png){: width="210"}{: alt="Livrenpoche, le spécialiste du livre format poche d'occasion"}](http://www.livrenpoche.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![inside3_v2.png](/uploads/inside3_v2.png){: width="210"}{: alt="Inside3, c’est un labyrinthe en 3 dimensions qui se joue à l’aveugle"}](http://www.insidezecube.com/){:target="_blank"}|[![livrenpoche.png](/uploads/livrenpoche.png){: width="210"}{: alt="Livrenpoche, le spécialiste du livre format poche d'occasion"}](http://www.livrenpoche.com/){:target="_blank"}|[![Jouecabois.png](/uploads/Jouecabois.png){: width="210"}{: alt="Jouecabois, jeux d'éveil et de construction en bois Made in France"}](http://www.jouecabois.com/){:target="_blank"}|
 
 **Gastronomie**
 
