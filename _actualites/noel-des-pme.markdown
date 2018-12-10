@@ -53,7 +53,7 @@ une-ou-diaporama:
 
 |[![faguo.png](/uploads/faguo.png){:width="210"}{: alt="Faguo, une jeune marque de mode qui plante un arbre pour chaque article produit"}](https://www.faguo-store.com/fr/){:target="_blank"}|[![Beaming-lab.png](/uploads/Beaming-lab.png){:width="210"}{: alt="Beaming Lab, collection permanente de sweats, t-shirts, vêtements et accessoires aux messages personnalisés"}](https://www.beaming-lab.com/){:target="_blank"}|[![CollantsgerbeV2.png](/uploads/CollantsgerbeV2.png){:width="210"}{:  alt="Collants,bas,bas jarretières,leggings,jambières,bodies, chaussettes"}](https://www.gerbe.com/){:target="_blank"}|
 
-|[![natifs.png](/uploads/natifs.png){:width="210"}{: alt="Natifs, une sélection d'accessoires dénichés à travers le monde entier"}](https://www.natifs.fr/fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![natifs.png](/uploads/natifs.png){:width="210"}{: alt="Natifs, une sélection d'accessoires dénichés à travers le monde entier"}](https://www.natifs.fr/fr/){:target="_blank"}|[![EdithetMarcel.png](/uploads/EdithetMarcel.png){:width="210"}{: alt="Edith et Marcel, souliers d'intérieur français"}](https://www.edithetmarcel.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Maison**
