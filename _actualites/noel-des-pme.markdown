@@ -24,6 +24,8 @@ une-ou-diaporama:
 
 |[![inside3_v2.png](/uploads/inside3_v2.png){: width="210"}{: alt="Inside3, c’est un labyrinthe en 3 dimensions qui se joue à l’aveugle"}](http://www.insidezecube.com/){:target="_blank"}|[![livrenpoche.png](/uploads/livrenpoche.png){: width="210"}{: alt="Livrenpoche, le spécialiste du livre format poche d'occasion"}](http://www.livrenpoche.com/){:target="_blank"}|[![Jouecabois.png](/uploads/Jouecabois.png){: width="210"}{: alt="Jouecabois, jeux d'éveil et de construction en bois Made in France"}](http://www.jouecabois.com/){:target="_blank"}|
 
+|[![Parentepuise.png](/uploads/Parentepuise.png){: width="210"}{: alt="Box Parent épuisé, des cadeaux qui font du bien aux parents"}](http://www.box.parentepuise.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+
 **Gastronomie**
 
 
