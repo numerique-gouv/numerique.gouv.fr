@@ -59,7 +59,8 @@ une-ou-diaporama:
 
 |[![e-glue copie.png](/uploads/e-glue%20copie.png){: width="210"}{: alt=" Stickers muraux pour chambre enfant, décorations murales pour bébé"}](https://www.e-glue.fr/fr/){:target="_blank"}||[![coutellerienontronnaise.png](/uploads/coutellerienontronnaise.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.coutellerie-nontronnaise.com/fr/){:target="_blank"}|[![tournabois.png](/uploads/tournabois.png){:width="210"}{: alt="Les couteaux made in France"}](https://www.tournabois.fr/){:target="_blank"}|
 
-|[![manamani.png](/uploads/manamani.png){: width="210"}{: alt=" Manamani, une gamme d’objets simples pour un quotidien zéro déchet"}](https://www.manamani.com/){:target="_blank"}||![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![manamani.png](/uploads/manamani.png){: width="210"}{: alt=" Manamani, une gamme d’objets simples pour un quotidien zéro déchet"}](https://www.manamani.com/){:target="_blank"}|[![matelaspourtous.png](/uploads/matelaspourtous.png){: width="210"}{: alt="Matelas pour tous, une découpe sur mesure"}](https://www.matelas-pour-tous.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+
 
 **Sports**
 
@@ -82,7 +83,7 @@ une-ou-diaporama:
 
 
 
-**Expérience**
+**Expériences**
 
 |[![EcoTree.png](/uploads/EcoTree.png){: width="210"}{: alt="Ectotree, investissez en devenant propriétaire d'arbres"}](https://ecotree.fr/){:target="_blank"}|[![graines-bocquet.png](/uploads/graines-bocquet.png){: width="210"}{: alt="Les graines Bocquet, une box graines d'artiste"}](https://www.cultiversonjardin.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
  
