@@ -275,14 +275,14 @@ workflows:
               ignore:
                 - preproduction
       - deploy:
+          - test-html
           requires:
-            - test-html
             - test-js
             - build
 
       - index:
+          - test-html
           requires:
-            - test-html
             - test-js
             - build
 
