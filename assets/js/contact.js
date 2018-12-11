@@ -10,16 +10,15 @@ $('#contact-form').submit(function(event) {
     category: $("select[name='category']").val(),
     text: $("textarea[name='text']").val()
   }
+  const url = window.location.host
 
-  console.log(process.env)
-
-  axios.post('https://dev.numerique.gouv.fr/api/mail', params)
+  axios.post('https://' + url + '/api/mail', params)
     .then(function (response) {
       $('#message').removeClass('hide').addClass('green-message').html('Votre message à bien été envoyé')
       $('input').val('')
       $('textarea').val('')
     })
     .catch(function (error) {
-      $('#message').removeClass('hide').addClass('red-message').html("Une erreur est survenue, votre message n'a pas été envoyé")
+      $('#message').removeClass('hide').addClass('red-message').html("Une erreur est survenue, votre message n'a pu être envoyé")
     });
 });
