@@ -20,6 +20,6 @@ $('#contact-form').submit(function(event) {
       $('textarea').val('')
     })
     .catch(function (error) {
-      $('#message').removeClass('hide').addClass('red-message')
+      $('#message').removeClass('hide').addClass('red-message').html("Une erreur est survenue, votre message n'a pas été envoyé")
     });
 });
