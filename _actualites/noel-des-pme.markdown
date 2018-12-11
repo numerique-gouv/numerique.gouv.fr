@@ -70,7 +70,7 @@ une-ou-diaporama:
 
 **Sports**
 
-|[![Flaneurz2.png](/uploads/Flaneurz2.png){: width="210"}{: alt="Flaneurz, greffer des roues sous les chaussures"}](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles VictoireV2.png](/uploads/Cycles%20VictoireV2.png){: width="210"}{: alt="Cycles victoire, les vélos sur mesure"}](http://www.victoire-cycles.com/){:target="_blank"}|[![Villacampat2.png](/uploads/Villacampat2.png){:width="210"}{: alt="Villa campa, fabrication artisanale de skis dans les pyrénées"}](https://www.villacampa-pyrenees.com/){:target="_blank"}|
+|[![FlaneurzV3.png](/uploads/FlaneurzV3.png){: width="210"}{: alt="Flaneurz, greffer des roues sous les chaussures"}](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles VictoireV2.png](/uploads/Cycles%20VictoireV2.png){: width="210"}{: alt="Cycles victoire, les vélos sur mesure"}](http://www.victoire-cycles.com/){:target="_blank"}|[![Villacampat2.png](/uploads/Villacampat2.png){:width="210"}{: alt="Villa campa, fabrication artisanale de skis dans les pyrénées"}](https://www.villacampa-pyrenees.com/){:target="_blank"}|
 
 
 **Beauté**
