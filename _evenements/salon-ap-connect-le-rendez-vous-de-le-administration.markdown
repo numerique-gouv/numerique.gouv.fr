@@ -13,6 +13,8 @@ chapeau-text: 'AP Connect, le salon professionnel de la transition numérique de
   de cet évènement.
 
 '
+une-ou-diaporama:
+- Key: 
 event_start_date: 2019-01-29 00:00:00 +01:00
 event_end_date: 2019-01-30 00:00:00 +01:00
 lieu: Espace Grande Arche
@@ -23,7 +25,7 @@ acces:
   - nom: Ligne 1, Station La Défense Grande Arche
 champs_informations:
 - intitule: Modalités
-  contenu: Inscription en ligne gratuite
+  contenu: Inscription gratuite obligatoire sur justificatif
   lien: 'https://www.mybadgeonline.com/apconnect/Contact.aspx?IdContact=169983088&IdCommande=76979259 '
 ---
 
@@ -100,8 +102,4 @@ Avec :
 
 
 
-**Informations pratiques :**
 
-Salon réservé aux professionnels - Entrée gratuite
-
-**Attention :** Un justificatif de votre activité́ (carte professionnelle, Kbis, carte de visite…) pourra vous être demandée lors de votre commande de badge en ligne ou à l’entrée de la manifestation.
