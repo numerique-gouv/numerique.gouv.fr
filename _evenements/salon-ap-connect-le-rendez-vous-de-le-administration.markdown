@@ -7,6 +7,8 @@ chapeau-text: |
   AP Connect, le salon professionnel de la transition numérique des administrations publiques, se tiendra les 29 et 30 janvier prochain à Paris. À cette occasion, agents publics, éditeurs de solutions numériques et startups se réuniront à Paris pour échanger, débattre et trouver des solutions aux enjeux numériques des administrations centrales et des collectivités territoriales.
 
   La direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC) est partenaire de cet évènement.
+event_start_date: 2019-01-29 00:00:00 +01:00
+event_end_date: 2019-01-30 00:00:00 +01:00
 ---
 
 *Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?*
