@@ -18,11 +18,10 @@ acces:
 - type: 'Metro : '
   lignes:
   - nom: Ligne 1, Station La Défense Grande Arche
-  Key: 
-- type: 
-  lignes:
-  - nom: 
-  Key: 
+champs_informations:
+- intitule: Modalités
+  contenu: Inscription en ligne gratuite
+  lien: 'https://www.mybadgeonline.com/apconnect/Contact.aspx?IdContact=169983088&IdCommande=76979259 '
 ---
 
 La direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC) est partenaire de cet évènement.
