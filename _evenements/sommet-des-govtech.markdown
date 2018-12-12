@@ -1,7 +1,6 @@
 ---
 title: Sommet européen des GovTech
 date: 2018-10-19 14:18:00 +02:00
-published: false
 categories:
 - Sommet
 tags:
