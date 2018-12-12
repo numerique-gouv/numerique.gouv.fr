@@ -9,6 +9,17 @@ chapeau-text: |
   La direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC) est partenaire de cet évènement.
 event_start_date: 2019-01-29 00:00:00 +01:00
 event_end_date: 2019-01-30 00:00:00 +01:00
+lieu: Espace Grande Arche
+adresse: Tunnel de Nanterre-La Défense, 92044 Paris La Défense
+acces:
+- type: 'Metro : '
+  lignes:
+  - nom: Ligne 1, Station La Défense Grande Arche
+  Key: 
+- type: 
+  lignes:
+  - nom: 
+  Key: 
 ---
 
 *Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?*
