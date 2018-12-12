@@ -16,7 +16,7 @@ chapeau-text: 'AP Connect, le salon professionnel de la transition numérique de
 event_start_date: 2019-01-29 00:00:00 +01:00
 event_end_date: 2019-01-30 00:00:00 +01:00
 lieu: Espace Grande Arche
-adresse: Tunnel de Nanterre-La Défense, 92044 Paris La Défense
+adresse: Tunnel de Nanterre - La Défense, 92044 Paris La Défense
 acces:
 - type: 'Metro : '
   lignes:
@@ -31,7 +31,6 @@ champs_informations:
 **Au programme :**
 
 **Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?**
-
 *Mardi 29 janvier, 11h - 12h30*
 
 L'intelligence artificielle (IA) vise à aider les agents et automatiser les tâches répétitives, en apprenant à partir de l'expérience et des orientations de l'agent. Elle peut aider à détecter des biais et des inégalités. Le gouvernement souhaite que l’État se saisisse pleinement du potentiel de l’IA et l’intègre dans la conduite de ses missions : il met en place des outils pour l'IA au service des agents (appel à manifestation d’intérêt IA, « Lab IA », etc.) afin qu'elle se déploie en interaction avec les métiers. 
@@ -59,7 +58,6 @@ Avec :
 
 
 **Quelle organisation numérique des territoires pour tirer parti du big data territorial ?**
-
 *Mercredi 30 janvier, 10h30 - 11h45*
 
 Comment harmoniser au niveau local, les démarches des collectivités pour la gestion des données et ainsi tirer parti des différentes initiatives des acteurs publics et privés (mutualisation, interopérabilité, coopération, échange d’expertises…).
@@ -77,7 +75,6 @@ Avec :
 
 
 **Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique**
-
 *Mercredi 30 janvier, 14h00 - 15h30*
 
 Présentation de beta.gouv.fr, le réseau des incubateurs de startups d'État et de territoires, et de sa mission : améliorer le service public de l'intérieur avec de nouvelles méthodes de travail. Présentation du Mooc en ligne « Créer des services publics numériques innovants », en collaboration avec le Centre National de la Fonction Publique Territoriale (CNFPT), qui forme les agents publics sans compétences numériques spécifiques à la création de leur propre startup d'État ou de territoire.
@@ -91,7 +88,6 @@ Avec :
 
 
 **Les enjeux règlementaires lies aux données des territoires : une finalité ou un moyen ?**
-
 *Mercredi 30 janvier, 16h00-17h15*
 
 Avec :
