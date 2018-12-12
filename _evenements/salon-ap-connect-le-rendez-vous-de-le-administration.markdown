@@ -26,7 +26,7 @@ champs_informations:
 
 La direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC) est partenaire de cet évènement.
 
-Au programme : 
+#Au programme : 
 
 **Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?**
 Mardi 29 janvier, 11h - 12h30
