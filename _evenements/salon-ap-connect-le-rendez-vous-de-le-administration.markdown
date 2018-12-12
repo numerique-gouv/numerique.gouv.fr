@@ -3,10 +3,13 @@ title: Salon AP Connect, le rendez-vous de l'e-administration
 date: 2018-12-12 16:24:00 +01:00
 categories:
 - salon
-chapeau-text: |
-  AP Connect, le salon professionnel de la transition numérique des administrations publiques, se tiendra les 29 et 30 janvier prochain à Paris. À cette occasion, agents publics, éditeurs de solutions numériques et startups se réuniront à Paris pour échanger, débattre et trouver des solutions aux enjeux numériques des administrations centrales et des collectivités territoriales.
+chapeau-text: 'AP Connect, le salon professionnel de la transition numérique des administrations
+  publiques, se tiendra les 29 et 30 janvier prochain à Paris. À cette occasion, agents
+  publics, éditeurs de solutions numériques et startups se réuniront à Paris pour
+  échanger, débattre et trouver des solutions aux enjeux numériques des administrations
+  centrales et des collectivités territoriales.
 
-  La direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC) est partenaire de cet évènement.
+'
 event_start_date: 2019-01-29 00:00:00 +01:00
 event_end_date: 2019-01-30 00:00:00 +01:00
 lieu: Espace Grande Arche
@@ -22,19 +25,23 @@ acces:
   Key: 
 ---
 
-*Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?*
+La direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC) est partenaire de cet évènement.
 
+Au programme : 
+
+*Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?*
 Mardi 29 janvier, 11h - 12h30
 
 L'intelligence artificielle (IA) vise à aider les agents et automatiser les tâches répétitives, en apprenant à partir de l'expérience et des orientations de l'agent. Elle peut aider à détecter des biais et des inégalités. Le gouvernement souhaite que l’État se saisisse pleinement du potentiel de l’IA et l’intègre dans la conduite de ses missions : il met en place des outils pour l'IA au service des agents (appel à manifestation d’intérêt IA, « Lab IA », etc.) afin qu'elle se déploie en interaction avec les métiers. 
 
 Avec 
-
 * Bertrand PAILHÈS, coordonnateur national coordonnateur national pour la stratégie d'intelligence artificielle, DINSIC
 * Jean-Martin JASPERS, directeur, centre des hautes études du ministère de l'Intérieur 
 * Carine LOHÉ, directrice de la production, My serious game 
 * Loïc HERVÉ, sénateur de la Haute-Savoie 
 * François ZOCCHETTO, maire de Laval, président de Laval agglomération 
+
+
 
 *Le tout demat’ : comment, pourquoi, quels enjeux ?*
 Mardi 29 janvier, 16h - 17h15
@@ -44,6 +51,8 @@ Mardi 29 janvier, 16h - 17h15
 Avec 
 * Philippe VRIGNAUD, chargé du programme de dématérialisation des démarches administratives et du projet « demarches-simplifiees.fr », DINSIC
 * Lionel FERRARIS, directeur adjoint des politiques publiques et de l’innovation, union des groupements d'achat public (UGAP)
+
+
 
 *Quelle organisation numérique des territoires pour tirer parti du big data territorial ?*
 Mercredi 30 janvier, 10h30 - 11h45
@@ -60,13 +69,13 @@ Avec
 * Sylvain RAIFAUD, conseiller de la mission Ecoter, élu local et consultant
 
 
+
 *Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique*
 Mercredi 30 janvier, 14h00 - 15h30
 
 Présentation de beta.gouv.fr, le réseau des incubateurs de startups d'État et de territoires, et de sa mission : améliorer le service public de l'intérieur avec de nouvelles méthodes de travail. Présentation du Mooc en ligne « Créer des services publics numériques innovants », en collaboration avec le Centre National de la Fonction Publique Territoriale (CNFPT), qui forme les agents publics sans compétences numériques spécifiques à la création de leur propre startup d'État ou de territoire.
 
 Avec
-
 * Jihane HERIZI, responsable du programme alpha, incubateur beta.gouv.fr à la DINSIC
 * Aurélie COURTAUDON, analyste spécialiste du secteur public, MARKESS
 * Mireille BONNIN, chargée de mission numérique à la Fédération Nationale des Collectivités Concédantes et Régies (FNCCR) territoire numérique, sur la gestion de la donnée et la modernisation des systèmes d’information.
@@ -83,6 +92,7 @@ Avec
 * Jean BENJAMIN, pilote du groupe de travail données/villes, Syntec Numérique
 * Jean-Marie BOURGOGNE, délégué général, OpendataFrance 
 * Fabrice IDIER, Responsable de la sécurité des systèmes d’information, délégué à la protection des données, au Conseil départemental de Seine-Saint-Denis, adhérent au Club de la sécurité de l’information français (CLUSIF)
+
 
 
 **Informations pratiques :**
