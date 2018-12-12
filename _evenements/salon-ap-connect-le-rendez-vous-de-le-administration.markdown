@@ -47,7 +47,6 @@ Avec :
 
 
 **Le tout demat’ : comment, pourquoi, quels enjeux ?**
-
 *Mardi 29 janvier, 16h - 17h15*
 
 100% des démarches administratives accessibles en ligne d’ici à 2022, c'est l'objectif fixé par le gouvernement. Découverte de demarches-simplifiees.fr, service en ligne "tout en un" de dématérialisation des démarches administratives en toute simplicité à la disposition des organismes publics. Démonstrations et cas d'usage.
