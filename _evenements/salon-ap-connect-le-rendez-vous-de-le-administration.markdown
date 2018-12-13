@@ -33,7 +33,7 @@ champs_informations:
 ---
 
 
-### **Au programme :** ###
+**Au programme :**
 
 #### Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ? ####
 <br>*Mardi 29 janvier, 11h - 12h30*
