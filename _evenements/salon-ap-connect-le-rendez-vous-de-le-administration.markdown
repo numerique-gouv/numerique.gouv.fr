@@ -28,7 +28,7 @@ acces:
   - nom: Ligne 1, Station La Défense Grande Arche
 champs_informations:
 - intitule: Modalités
-  contenu: Inscription gratuite obligatoire sur justificatif
+  contenu: Inscription gratuite obligatoire (sur justificatif)
   lien: 'https://www.mybadgeonline.com/apconnect/Contact.aspx?IdContact=169983088&IdCommande=76979259 '
 ---
 
