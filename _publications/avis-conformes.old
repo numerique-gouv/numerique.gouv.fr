@@ -229,6 +229,11 @@ ministeres:
       file: "/uploads/si_paie_eple_art_3_2015.pdf"
       titre: SI PAIE EPLE 2015
     date-annee: '2015'
+  - avis:
+    - description: Refonte de l'application de gestiondes concours et examens
+      file: "/uploads/cyclades_art_7.pdf"
+      titre: CYCLADES
+    date-annee: '2012'
   image: "/assets/img/avis-conformes/ministeredeleducationnationale_ok_0.jpg"
   titre: Ministère de l'Éducation nationale, Ministère de l'Enseignement supérieur,
     de la Recherche et de l'Innovation
@@ -241,6 +246,13 @@ ministeres:
       file: "/uploads/resytal_art_7.pdf"
       titre: RESYTAL
     date-annee: '2014'
+  - avis:
+    - description: Gestion dématérialisée de l’ensemble des obligations sanitaires
+        et phytosanitaires (SPS) nécessaires à l’exportation des produits agricoles
+        et agroalimentaires
+      file: "/uploads/expadon2_art_7.pdf"
+      titre: Expadon 2
+    date-annee: '2013'
   image: "/assets/img/avis-conformes/ministeredelagriculture_ok.jpg"
   titre: Ministère de l'Agriculture et de l'Alimentation
 ---

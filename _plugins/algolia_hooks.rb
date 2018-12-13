@@ -27,7 +27,7 @@ module Jekyll
             record[field].gsub!(/{(.*?)}/, '') unless record[field].nil?
             record[field].gsub!(/\[/, '') unless record[field].nil?
           end
-
+        p record.size
         record
       end
     end
