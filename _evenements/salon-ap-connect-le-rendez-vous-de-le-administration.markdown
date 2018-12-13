@@ -2,7 +2,7 @@
 title: AP Connect, le rendez-vous de l'e-administration
 date: 2018-12-12 16:24:00 +01:00
 categories:
-- salon professionnel
+- Salon professionnel
 tags:
 - transformation numérique
 - Paris
