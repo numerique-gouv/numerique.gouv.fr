@@ -14,6 +14,10 @@ collections:
     title: Evénements
     output: true
     permalink: "/agenda/:title/"
+  publications:
+    title: Publication
+    output: true
+    permalink: "/publication/:title/"
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
@@ -22,6 +26,9 @@ collections:
     output: true
   posts:
     title: Posts
+    output: true
+  pages:
+    title: Pages
     output: true
   uploads:
     title: Uploads
