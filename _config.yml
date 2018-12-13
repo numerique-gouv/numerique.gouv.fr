@@ -129,6 +129,8 @@ compress_html:
     - development
 highlighter: rouge
 algolia:
+  indexing_batch_size: 500
+  max_record_size: 20000
   application_id: OCGRURLBFM
   index_name: jekyll-dinsic
   nodes_to_index: p,li,blockquote
