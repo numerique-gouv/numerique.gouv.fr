@@ -50,6 +50,7 @@ Avec :
 
 
 
+
 #### Le tout demat’ : comment, pourquoi, quels enjeux ? ####
 *Mardi 29 janvier, 16h - 17h15*
 
@@ -58,6 +59,7 @@ Avec :
 Avec :
 * **Philippe VRIGNAUD, chargé du programme de dématérialisation des démarches administratives et du projet « [demarches-simplifiees.fr](http://https://www.demarches-simplifiees.fr/) », DINSIC**
 * Lionel FERRARIS, directeur adjoint des politiques publiques et de l’innovation, union des groupements d'achat public (UGAP)
+
 
 
 
@@ -79,6 +81,7 @@ Avec :
 
 
 
+
 #### Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique ####
 *Mercredi 30 janvier, 14h00 - 15h30*
 
@@ -88,6 +91,7 @@ Avec :
 * **Jihane HERIZI, responsable du programme alpha, incubateur beta.gouv.fr à la DINSIC**
 * Aurélie COURTAUDON, analyste spécialiste du secteur public, MARKESS
 * Mireille BONNIN, chargée de mission numérique à la Fédération Nationale des Collectivités Concédantes et Régies (FNCCR) territoire numérique, sur la gestion de la donnée et la modernisation des systèmes d’information.
+
 
 
 
