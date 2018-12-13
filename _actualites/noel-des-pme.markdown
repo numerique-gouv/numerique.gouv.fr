@@ -24,7 +24,8 @@ une-ou-diaporama:
 
 |[![inside3_v2.png](/uploads/inside3_v2.png){: width="210"}{: alt="Inside3, c’est un labyrinthe en 3 dimensions qui se joue à l’aveugle"}](http://www.insidezecube.com/){:target="_blank"}|[![livrenpoche.png](/uploads/livrenpoche.png){: width="210"}{: alt="Livrenpoche, le spécialiste du livre format poche d'occasion"}](http://www.livrenpoche.com/){:target="_blank"}|[![Jouecabois.png](/uploads/Jouecabois.png){: width="210"}{: alt="Jouecabois, jeux d'éveil et de construction en bois Made in France"}](http://www.jouecabois.com/){:target="_blank"}|
 
-|[![Parentepuise.png](/uploads/Parentepuise.png){: width="210"}{: alt="Box Parent épuisé, des cadeaux qui font du bien aux parents"}](http://www.box.parentepuise.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![Parentepuise.png](/uploads/Parentepuise.png){: width="210"}{: alt="Box Parent épuisé, des cadeaux qui font du bien aux parents"}](http://www.box.parentepuise.com/){:target="_blank"}|[![berceaumagique-486749.png](/uploads/berceaumagique-486749.png){: width="210"}{: alt="Berceau magique, un grand choix de cadeaux de naissance, baptême, grossesse mais aussi le mobilier et la déco de la chambre de bébé"}](http://www.berceaumagique.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+
 
 **Gastronomie**
 
@@ -37,7 +38,7 @@ une-ou-diaporama:
 
 |[![shantybiscuits.png](/uploads/shantybiscuits.png){:width="210"}{: alt="Shanty biscuits, fabrication sur-mesure de biscuits expressifs"}](https://shantybiscuits.com/){:target="_blank"}|[![cosycoffee.png](/uploads/cosycoffee.png){:width="210"}{: alt="Cosy coffee, les premières capsules 100% compostables"}](https://cosycoffee.co/){:target="_blank"}|[![monvinfrancais.png](/uploads/monvinfrancais.png){:width="210"}{: alt="Commandez en ligne vos vins en direct de chez le producteur"}](https://www.monvinfrancais.com/){:target="_blank"}|
 
-|[![Tea project.png](/uploads/Tea%20project.png){:width="210"}{: alt="Tea project, redécouvrir le thé"}](https://teaproject.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![Tea project.png](/uploads/Tea%20project.png){:width="210"}{: alt="Tea project, redécouvrir le thé"}](https://teaproject.fr/){:target="_blank"}|[![maisoncolibri.png](/uploads/maisoncolibri.png){:width="210"}{: alt="Maison colibri, patisserie depuis 1896"}](https://www.maison-colibri.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Vêtements, chaussures et accessoires**
@@ -57,6 +58,12 @@ une-ou-diaporama:
 
 |[![natifs.png](/uploads/natifs.png){:width="210"}{: alt="Natifs, une sélection d'accessoires dénichés à travers le monde entier"}](https://www.natifs.fr/fr/){:target="_blank"}|[![EdithetMarcel.png](/uploads/EdithetMarcel.png){:width="210"}{: alt="Edith et Marcel, souliers d'intérieur français"}](https://www.edithetmarcel.fr/){:target="_blank"}|[![meufparis.png](/uploads/meufparis.png){:width="210"}{: alt="Vêtements pour femmes en coton biologique"}](https://www.meufparis.com/){:target="_blank"}|
 
+|[![amahle.png](/uploads/amahle.png){:width="210"}{: alt="Amahle, bijoux fabriqués en Afrique du sud"}](https://www.amahle.fr/){:target="_blank"}|[![frodslunetterie.png](/uploads/frodslunetterie.png){:width="210"}{: alt="Les lunetterie made in France"}](https://www.frodslunetterie.com/fr/){:target="_blank"}|[![jamaissanslui.png](/uploads/jamaissanslui.png){:width="210"}{: alt="Jamais sans lui, marque française, éthique et responsable, de maroquinerie textile"}](https://jamaissanslui.com/){:target="_blank"}|
+
+|[![lestoilesdularge.png](/uploads/lestoilesdularge.png){:width="210"}{: alt="Les sacs en voile de bateau recyclée"}](https://www.lestoilesdularge.com/fr/){:target="_blank"}|[![lucasdestael.png](/uploads/lucasdestael.png){:width="210"}{: alt="Lucas de stael, les lunettes"}](https://www.lucasdestael.com/){:target="_blank"}|[![thefrenchgame.png](/uploads/thefrenchgame.png){:width="210"}{: alt="Bretelles, étoles, ceintures, chaussettes, fabriqués en collaboration avec des ateliers familiaux"}](https://www.thefrenchgame.com/fr/){:target="_blank"}|
+
+|[![soetli.png](/uploads/soetli.png){:width="210"}{: alt="Chaussettes pour bébé et enfants fabriqués en France"}](https://www.soetli.fr/){:target="_blank"}|[![philippinejanssens.png](/uploads/philippinejanssens.png){:width="210"}{: alt="Le pantalon féminin sur-mesure"}](https://www.philippinejanssens.com/){:target="_blank"}||[![woodiny.png](/uploads/woodiny.png){:width="210"}{: alt="Nœuds papillons, boutons de manchette et pinces à cravates, 100% Made in France"}](https://www.woodiny.fr/){:target="_blank"}|
+
 
 **Maison**
 
@@ -69,7 +76,9 @@ une-ou-diaporama:
 
 |[![manamani.png](/uploads/manamani.png){: width="210"}{: alt=" Manamani, une gamme d’objets simples pour un quotidien zéro déchet"}](https://www.manamani.com/){:target="_blank"}|[![matelaspourtous.png](/uploads/matelaspourtous.png){: width="210"}{: alt="Matelas pour tous, une découpe sur mesure"}](https://www.matelas-pour-tous.com/){:target="_blank"}|[![cosse.png](/uploads/cosse.png){:width="210"}{: alt="cosse, l'emballage 100% végétal et réutilisable"}](https://www.cosse-nature.com/){:target="_blank"}|
 
-|[![Petit meunier.png](/uploads/Petit%20meunier.png){:width="210"}{: alt="Petit meunier, la couette ou l'oreiller donc vous revez"}](https://petit-meunier.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![Petit meunier.png](/uploads/Petit%20meunier.png){:width="210"}{: alt="Petit meunier, la couette ou l'oreiller donc vous revez"}](https://petit-meunier.fr/){:target="_blank"}|[![studiotandem.png](/uploads/studiotandem.png){:width="210"}{: alt="Studio tandem, objets du quotidien pensés par des designers, façonnés avec soin par des artisans français"}](https://studio-tandem.com/){:target="_blank"}|[![mypaperbook-1eb7ab.png](/uploads/mypaperbook-1eb7ab.png){:width="210"}{: alt="My paper book, le carnet personnalisable qui s'adapte à vos envies"}](http://www.mypaperbook.com/){:target="_blank"}|
+
+|[![ydolem.png](/uploads/ydolem.png){:width="210"}{: alt="Ydolem, les articles de décoration unique et 100% fait main pour la chambre des tout petits"}](https://ydolem-boutique.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Sports**
@@ -99,6 +108,8 @@ une-ou-diaporama:
 
 |[![EcoTree.png](/uploads/EcoTree.png){: width="210"}{: alt="Ectotree, investissez en devenant propriétaire d'arbres"}](https://ecotree.fr/){:target="_blank"}|[![graines-bocquet.png](/uploads/graines-bocquet.png){: width="210"}{: alt="Les graines Bocquet, une box graines d'artiste"}](https://www.cultiversonjardin.fr/){:target="_blank"}|[![Coucoo.png](/uploads/Coucoo.png){: width="210"}{: alt="Coucoo, grands chênes, le luxe à l'état sauvage"}](https://coucoo.com/){:target="_blank"}|
  
+|[![reforestaction.png](/uploads/reforestaction.png){: width="210"}{: alt="ReforestAction permet à chacun de planter des arbres sur des projets de reforestation"}](https://reforestaction.com/){:target="_blank"}|[![monpetitcoinvert.png](/uploads/monpetitcoinvert.png){: width="210"}{: alt="Mon petit coin vert, chaque mois une box de jardinage personnalisée"}](https://monpetitcoinvert.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+
 
 > ## Comment vous faire référencer au « Noël des PME » ?
 **Toutes les informations pour vous faire référencer :**
