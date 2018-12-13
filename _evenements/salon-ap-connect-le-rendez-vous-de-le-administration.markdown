@@ -6,15 +6,12 @@ categories:
 tags:
 - transformation numérique
 - Paris
-chapeau-text: 'AP Connect, le salon professionnel de la transition numérique des administrations
-  publiques, se tiendra les 29 et 30 janvier prochain à Paris. L''occasion pour les
-  agents publics, éditeurs de solutions numériques et startups de se réunir pour échanger,
-  débattre et trouver des solutions aux enjeux numériques des administrations centrales
-  et des collectivités territoriales. La direction interministérielle du numérique
-  et du système d''information et de communication de l''État (DINSIC) est partenaire
-  de cet évènement.
-
-'
+chapeau-text: "La direction interministérielle du numérique (DINSIC) est partenaire
+  de la 2ème édition d'AP Connect, le salon professionnel de la transition numérique
+  des administrations publiques. L'occasion pour les agents publics, éditeurs de solutions
+  numériques et startups de se réunir pour échanger, débattre et trouver des solutions
+  aux enjeux numériques des administrations centrales et des collectivités territoriales.
+  \n"
 une-ou-diaporama:
 - Key: 
 event_start_date: 2019-01-29 00:00:00 +01:00
