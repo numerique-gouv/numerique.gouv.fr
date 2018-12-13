@@ -32,7 +32,7 @@ champs_informations:
 **Au programme :**
 
 #### Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ? ####
-{: .margin-top-3}
+{: .margin-top-3 .margin-bottom-1}
 
 *Mardi 29 janvier, 11h - 12h30*
 
@@ -47,7 +47,7 @@ Avec :
 
 
 #### Le tout démat’ : comment, pourquoi, quels enjeux ? ####
-{: .margin-top-3 .margin-bottom-0}
+{: .margin-top-3 .margin-bottom-1}
 
 *Mardi 29 janvier, 16h - 17h15*
 
@@ -79,7 +79,7 @@ Avec :
 
 
 #### Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique ####
-{: .margin-top-3}
+{: .margin-top-3 .margin-bottom-1}
 *Mercredi 30 janvier, 14h00 - 15h30*
 
 Présentation de beta.gouv.fr, le réseau des incubateurs de startups d'État et de territoires, et de sa mission : améliorer le service public de l'intérieur avec de nouvelles méthodes de travail. Présentation du Mooc en ligne « Créer des services publics numériques innovants », en collaboration avec le Centre National de la Fonction Publique Territoriale (CNFPT), qui forme les agents publics sans compétences numériques spécifiques à la création de leur propre startup d'État ou de territoire.
@@ -94,7 +94,7 @@ Avec :
 
 
 #### Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ? ####
-{: .margin-top-3}
+{: .margin-top-3 .margin-bottom-1}
 *Mercredi 30 janvier, 16h00-17h15*
 
 Avec :
