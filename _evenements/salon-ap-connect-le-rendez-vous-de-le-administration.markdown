@@ -36,7 +36,7 @@ champs_informations:
 **Au programme :**
 
 #### Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ? ####
-<br>*Mardi 29 janvier, 11h - 12h30*
+*Mardi 29 janvier, 11h - 12h30*
 
 L'intelligence artificielle (IA) vise à aider les agents et automatiser les tâches répétitives, en apprenant à partir de l'expérience et des orientations de l'agent. Elle peut aider à détecter des biais et des inégalités. Le gouvernement souhaite que l’État se saisisse pleinement du potentiel de l’IA et l’intègre dans la conduite de ses missions : il met en place des outils pour l'IA au service des agents (appel à manifestation d’intérêt IA, « Lab IA », etc.) afin qu'elle se déploie en interaction avec les métiers. 
 
@@ -51,7 +51,7 @@ Avec :
 
 
 #### Le tout demat’ : comment, pourquoi, quels enjeux ? ####
-<br>*Mardi 29 janvier, 16h - 17h15*
+*Mardi 29 janvier, 16h - 17h15*
 
 100% des démarches administratives accessibles en ligne d’ici à 2022, c'est l'objectif fixé par le gouvernement. Découverte de demarches-simplifiees.fr, service en ligne "tout en un" de dématérialisation des démarches administratives en toute simplicité à la disposition des organismes publics. Démonstrations et cas d'usage.
 
@@ -63,7 +63,7 @@ Avec :
 
 
 #### Quelle organisation numérique des territoires pour tirer parti du big data territorial ? ####
-<br>*Mercredi 30 janvier, 10h30 - 11h45*
+*Mercredi 30 janvier, 10h30 - 11h45*
 
 Comment harmoniser au niveau local, les démarches des collectivités pour la gestion des données et ainsi tirer parti des différentes initiatives des acteurs publics et privés (mutualisation, interopérabilité, coopération, échange d’expertises…).
 Présentation du programme de développement concerté de l'administration numérique territoriale (DCANT) qui encourage la coopération entre l’État et les collectivités territoriales pour contribuer au passage à l’échelle de l’administration numérique. 
@@ -80,7 +80,7 @@ Avec :
 
 
 #### Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique ####
-<br>*Mercredi 30 janvier, 14h00 - 15h30*
+*Mercredi 30 janvier, 14h00 - 15h30*
 
 Présentation de beta.gouv.fr, le réseau des incubateurs de startups d'État et de territoires, et de sa mission : améliorer le service public de l'intérieur avec de nouvelles méthodes de travail. Présentation du Mooc en ligne « Créer des services publics numériques innovants », en collaboration avec le Centre National de la Fonction Publique Territoriale (CNFPT), qui forme les agents publics sans compétences numériques spécifiques à la création de leur propre startup d'État ou de territoire.
 
@@ -93,7 +93,7 @@ Avec :
 
 
 #### Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ? ####
-<br>*Mercredi 30 janvier, 16h00-17h15*
+*Mercredi 30 janvier, 16h00-17h15*
 
 Avec :
 * **Perica SUCEVIC, responsable juridique de la DINSIC et adjoint à la directrice Etalab**
