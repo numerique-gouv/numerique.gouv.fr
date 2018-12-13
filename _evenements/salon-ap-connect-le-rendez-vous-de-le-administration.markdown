@@ -46,7 +46,7 @@ Avec :
 * François ZOCCHETTO, maire de Laval, président de Laval agglomération 
 
 
-> #### Le tout demat’ : comment, pourquoi, quels enjeux ? ####
+#### Le tout démat’ : comment, pourquoi, quels enjeux ? ####
 {: .margin-top-3}
 
 *Mardi 29 janvier, 16h - 17h15*
@@ -59,7 +59,7 @@ Avec :
 
 
 
-> #### Quelle organisation numérique des territoires pour tirer parti du big data territorial ? ####
+#### Quelle organisation numérique des territoires pour tirer parti du big data territorial ? ####
 {: .margin-top-3}
 *Mercredi 30 janvier, 10h30 - 11h45*
 
@@ -78,7 +78,7 @@ Avec :
 
 
 
-> #### Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique ####
+#### Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique ####
 {: .margin-top-3}
 *Mercredi 30 janvier, 14h00 - 15h30*
 
@@ -93,7 +93,7 @@ Avec :
 
 
 
-> #### Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ? ####
+#### Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ? ####
 {: .margin-top-3}
 *Mercredi 30 janvier, 16h00-17h15*
 
