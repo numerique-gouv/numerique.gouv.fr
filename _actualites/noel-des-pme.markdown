@@ -38,7 +38,9 @@ une-ou-diaporama:
 
 |[![shantybiscuits.png](/uploads/shantybiscuits.png){:width="210"}{: alt="Shanty biscuits, fabrication sur-mesure de biscuits expressifs"}](https://shantybiscuits.com/){:target="_blank"}|[![cosycoffee.png](/uploads/cosycoffee.png){:width="210"}{: alt="Cosy coffee, les premières capsules 100% compostables"}](https://cosycoffee.co/){:target="_blank"}|[![monvinfrancais.png](/uploads/monvinfrancais.png){:width="210"}{: alt="Commandez en ligne vos vins en direct de chez le producteur"}](https://www.monvinfrancais.com/){:target="_blank"}|
 
-|[![Tea project.png](/uploads/Tea%20project.png){:width="210"}{: alt="Tea project, redécouvrir le thé"}](https://teaproject.fr/){:target="_blank"}|[![maisoncolibri.png](/uploads/maisoncolibri.png){:width="210"}{: alt="Maison colibri, patisserie depuis 1896"}](https://www.maison-colibri.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![Tea project.png](/uploads/Tea%20project.png){:width="210"}{: alt="Tea project, redécouvrir le thé"}](https://teaproject.fr/){:target="_blank"}|[![maisoncolibri.png](/uploads/maisoncolibri.png){:width="210"}{: alt="Maison colibri, patisserie depuis 1896"}](https://www.maison-colibri.com/){:target="_blank"}|[![maisonherbin.png](/uploads/maisonherbin.png){:width="210"}{: alt="Confitures & Traditions Menton depuis 1974"}](https://www.confitures-herbin.com/fr/){:target="_blank"}|
+
+|[![maisonphilippesegond.png](/uploads/maisonphilippesegond.png){:width="210"}{: alt=" Desserts, chocolats et calissons artisanaux par un meilleur ouvrir de France"}](https://www.philippesegond.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Vêtements, chaussures et accessoires**
