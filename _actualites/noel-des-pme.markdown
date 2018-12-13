@@ -60,7 +60,9 @@ une-ou-diaporama:
 
 |[![amahle.png](/uploads/amahle.png){:width="210"}{: alt="Amahle, bijoux fabriqués en Afrique du sud"}](https://www.amahle.fr/){:target="_blank"}|[![frodslunetterie.png](/uploads/frodslunetterie.png){:width="210"}{: alt="Les lunetterie made in France"}](https://www.frodslunetterie.com/fr/){:target="_blank"}|[![jamaissanslui.png](/uploads/jamaissanslui.png){:width="210"}{: alt="Jamais sans lui, marque française, éthique et responsable, de maroquinerie textile"}](https://www.jamaissanslui.com/){:target="_blank"}|
 
-|[![lestoilesdularge.png](/uploads/lestoilesdularge.png){:width="210"}{: alt="Les sacs en voile de bateau recyclée"}](https://www.lestoilesdularge.com/fr/){:target="_blank"}|[![lucasdestael.png](/uploads/lucasdestael.png){:width="210"}{: alt="Lucas de stael, les lunettes"}](https://www.lucasdestael.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![lestoilesdularge.png](/uploads/lestoilesdularge.png){:width="210"}{: alt="Les sacs en voile de bateau recyclée"}](https://www.lestoilesdularge.com/fr/){:target="_blank"}|[![lucasdestael.png](/uploads/lucasdestael.png){:width="210"}{: alt="Lucas de stael, les lunettes"}](https://www.lucasdestael.com/){:target="_blank"}|[![thefrenchgame.png](/uploads/thefrenchgame.png){:width="210"}{: alt="Bretelles, étoles, ceintures, chaussettes, fabriqués en collaboration avec des ateliers familiaux"}](https://www.thefrenchgame.com/fr/){:target="_blank"}|
+
+|[![soetli.png](/uploads/soetli.png){:width="210"}{: alt="Chaussettes pour bébé et enfants fabriqués en France"}](https://www.soetli.fr/){:target="_blank"}|[![philippinejanssens.png](/uploads/philippinejanssens.png){:width="210"}{: alt="Le pantalon féminin sur-mesure"}](https://www.philippinejanssens.com/){:target="_blank"}||[![woodiny.png](/uploads/woodiny.png){:width="210"}{: alt="Nœuds papillons, boutons de manchette et pinces à cravates, 100% Made in France"}](https://www.woodiny.fr/){:target="_blank"}|
 
 
 **Maison**
