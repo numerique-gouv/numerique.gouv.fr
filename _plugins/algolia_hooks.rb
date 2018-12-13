@@ -26,8 +26,10 @@ module Jekyll
             record[field].gsub!(/\]\((.*?)\)/, '') unless record[field].nil?
             record[field].gsub!(/{(.*?)}/, '') unless record[field].nil?
             record[field].gsub!(/\[/, '') unless record[field].nil?
-          end
-        p record.size
+        end
+        if record[:title] == "Projets informatiques de l'Etat : retrouvez l'ensemble des avis conformes émis par la DINSIC"
+          return
+        end
         record
       end
     end
