@@ -47,7 +47,7 @@ Avec :
 
 
 #### Le tout démat’ : comment, pourquoi, quels enjeux ? ####
-{: .margin-top-3}
+{: .margin-top-3 .margin-bottom-0}
 
 *Mardi 29 janvier, 16h - 17h15*
 
@@ -60,7 +60,7 @@ Avec :
 
 
 #### Quelle organisation numérique des territoires pour tirer parti du big data territorial ? ####
-{: .margin-top-3}
+{: .margin-top-3 .margin-bottom-1}
 *Mercredi 30 janvier, 10h30 - 11h45*
 
 Comment harmoniser au niveau local, les démarches des collectivités pour la gestion des données et ainsi tirer parti des différentes initiatives des acteurs publics et privés (mutualisation, interopérabilité, coopération, échange d’expertises…).
@@ -87,7 +87,7 @@ Présentation de beta.gouv.fr, le réseau des incubateurs de startups d'État et
 Avec :
 * **Jihane HERIZI, responsable du programme alpha, incubateur beta.gouv.fr à la DINSIC**
 * Aurélie COURTAUDON, analyste spécialiste du secteur public, MARKESS
-> * Mireille BONNIN, chargée de mission numérique à la Fédération nationale des collectivités concédantes et régies (FNCCR) territoire numérique, sur la gestion de la donnée et la modernisation des systèmes d’information.
+* Mireille BONNIN, chargée de mission numérique à la Fédération nationale des collectivités concédantes et régies (FNCCR) territoire numérique, sur la gestion de la donnée et la modernisation des systèmes d’information.
 
 
 
