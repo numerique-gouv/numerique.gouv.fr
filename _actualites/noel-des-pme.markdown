@@ -82,7 +82,7 @@ une-ou-diaporama:
 
 |[![Petit meunier.png](/uploads/Petit%20meunier.png){:width="210"}{: alt="Petit meunier, la couette ou l'oreiller donc vous revez"}](https://petit-meunier.fr/){:target="_blank"}|[![studiotandem.png](/uploads/studiotandem.png){:width="210"}{: alt="Studio tandem, objets du quotidien pensés par des designers, façonnés avec soin par des artisans français"}](https://studio-tandem.com/){:target="_blank"}|[![mypaperbook-1eb7ab.png](/uploads/mypaperbook-1eb7ab.png){:width="210"}{: alt="My paper book, le carnet personnalisable qui s'adapte à vos envies"}](http://www.mypaperbook.com/){:target="_blank"}|
 
-|[![ydolem.png](/uploads/ydolem.png){:width="210"}{: alt="Ydolem, les articles de décoration unique et 100% fait main pour la chambre des tout petits"}](https://ydolem-boutique.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![ydolem.png](/uploads/ydolem.png){:width="210"}{: alt="Ydolem, les articles de décoration unique et 100% fait main pour la chambre des tout petits"}](https://ydolem-boutique.fr/){:target="_blank"}||[![magnetyourlife.png](/uploads/magnetyourlife.png){:width="210"}{: alt="Magnet your life, aimantez votre vie"}](https://www.magnetyourlife.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Sports**
