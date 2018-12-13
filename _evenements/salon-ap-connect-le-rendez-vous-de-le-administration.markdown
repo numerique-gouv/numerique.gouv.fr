@@ -50,7 +50,7 @@ Avec :
 
 
 
-**Le tout demat’ : comment, pourquoi, quels enjeux ?**
+#### Le tout demat’ : comment, pourquoi, quels enjeux ? ####
 <br>*Mardi 29 janvier, 16h - 17h15*
 
 100% des démarches administratives accessibles en ligne d’ici à 2022, c'est l'objectif fixé par le gouvernement. Découverte de demarches-simplifiees.fr, service en ligne "tout en un" de dématérialisation des démarches administratives en toute simplicité à la disposition des organismes publics. Démonstrations et cas d'usage.
@@ -62,7 +62,7 @@ Avec :
 
 
 
-**Quelle organisation numérique des territoires pour tirer parti du big data territorial ?**
+#### Quelle organisation numérique des territoires pour tirer parti du big data territorial ? ####
 <br>*Mercredi 30 janvier, 10h30 - 11h45*
 
 Comment harmoniser au niveau local, les démarches des collectivités pour la gestion des données et ainsi tirer parti des différentes initiatives des acteurs publics et privés (mutualisation, interopérabilité, coopération, échange d’expertises…).
@@ -79,7 +79,7 @@ Avec :
 
 
 
-**Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique**
+#### Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique ####
 <br>*Mercredi 30 janvier, 14h00 - 15h30*
 
 Présentation de beta.gouv.fr, le réseau des incubateurs de startups d'État et de territoires, et de sa mission : améliorer le service public de l'intérieur avec de nouvelles méthodes de travail. Présentation du Mooc en ligne « Créer des services publics numériques innovants », en collaboration avec le Centre National de la Fonction Publique Territoriale (CNFPT), qui forme les agents publics sans compétences numériques spécifiques à la création de leur propre startup d'État ou de territoire.
@@ -92,7 +92,7 @@ Avec :
 
 
 
-**Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ?**
+#### Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ? ####
 <br>*Mercredi 30 janvier, 16h00-17h15*
 
 Avec :
