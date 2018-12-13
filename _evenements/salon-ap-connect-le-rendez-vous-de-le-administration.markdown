@@ -3,7 +3,10 @@ title: AP Connect, le rendez-vous de l'e-administration
 date: 2018-12-12 16:24:00 +01:00
 published: false
 categories:
-- salon
+- salon professionnel
+tags:
+- transformation numérique
+- Paris
 chapeau-text: 'AP Connect, le salon professionnel de la transition numérique des administrations
   publiques, se tiendra les 29 et 30 janvier prochain à Paris. L''occasion pour les
   agents publics, éditeurs de solutions numériques et startups de se réunir pour échanger,
@@ -30,9 +33,9 @@ champs_informations:
 ---
 
 
-**Au programme :**
+## Au programme : ##
 
-**Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?**
+### Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ? ###
 <br>*Mardi 29 janvier, 11h - 12h30*
 
 L'intelligence artificielle (IA) vise à aider les agents et automatiser les tâches répétitives, en apprenant à partir de l'expérience et des orientations de l'agent. Elle peut aider à détecter des biais et des inégalités. Le gouvernement souhaite que l’État se saisisse pleinement du potentiel de l’IA et l’intègre dans la conduite de ses missions : il met en place des outils pour l'IA au service des agents (appel à manifestation d’intérêt IA, « Lab IA », etc.) afin qu'elle se déploie en interaction avec les métiers. 
