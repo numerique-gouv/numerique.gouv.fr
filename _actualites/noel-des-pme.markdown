@@ -57,7 +57,9 @@ une-ou-diaporama:
 
 |[![natifs.png](/uploads/natifs.png){:width="210"}{: alt="Natifs, une sélection d'accessoires dénichés à travers le monde entier"}](https://www.natifs.fr/fr/){:target="_blank"}|[![EdithetMarcel.png](/uploads/EdithetMarcel.png){:width="210"}{: alt="Edith et Marcel, souliers d'intérieur français"}](https://www.edithetmarcel.fr/){:target="_blank"}|[![meufparis.png](/uploads/meufparis.png){:width="210"}{: alt="Vêtements pour femmes en coton biologique"}](https://www.meufparis.com/){:target="_blank"}|
 
-|[![amahle.png](/uploads/amahle.png){:width="210"}{: alt="Amahle, bijoux fabriqués en Afrique du sud"}](https://www.amahle.fr/){:target="_blank"}|[![frodslunetterie.png](/uploads/frodslunetterie.png){:width="210"}{: alt="Les lunetterie made in France"}](https://www.frodslunetterie.com/fr/){:target="_blank"}|[![jamaissanslui.png](/uploads/jamaissanslui.png){:width="210"}{: alt="Jamais sans lui, marque française, éthique et responsable, de maroquinerie textile"}](https://www.amahle.fr/){:target="_blank"}|
+|[![amahle.png](/uploads/amahle.png){:width="210"}{: alt="Amahle, bijoux fabriqués en Afrique du sud"}](https://www.amahle.fr/){:target="_blank"}|[![frodslunetterie.png](/uploads/frodslunetterie.png){:width="210"}{: alt="Les lunetterie made in France"}](https://www.frodslunetterie.com/fr/){:target="_blank"}|[![jamaissanslui.png](/uploads/jamaissanslui.png){:width="210"}{: alt="Jamais sans lui, marque française, éthique et responsable, de maroquinerie textile"}](https://www.jamaissanslui.com/){:target="_blank"}|
+
+|[![lestoilesdularge.png](/uploads/lestoilesdularge.png){:width="210"}{: alt="Les sacs en voile de bateau recyclée"}](https://www.lestoilesdularge.com/fr/){:target="_blank"}|[![lucasdestael.png](/uploads/lucasdestael.png){:width="210"}{: alt="Lucas de stael, les lunettes"}](https://www.lucasdestael.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Maison**
