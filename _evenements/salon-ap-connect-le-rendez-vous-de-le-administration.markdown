@@ -47,7 +47,7 @@ Avec :
 * Loïc HERVÉ, sénateur de la Haute-Savoie 
 * François ZOCCHETTO, maire de Laval, président de Laval agglomération 
 
-
+<br>
 
 
 
@@ -59,7 +59,7 @@ Avec :
 Avec :
 * **Philippe VRIGNAUD, chargé du programme de dématérialisation des démarches administratives et du projet « [demarches-simplifiees.fr](http://https://www.demarches-simplifiees.fr/) », DINSIC**
 * Lionel FERRARIS, directeur adjoint des politiques publiques et de l’innovation, union des groupements d'achat public (UGAP)
-
+<br>
 
 
 
@@ -77,7 +77,7 @@ Avec :
 * Emmanuel VIVÉ, président DECLIC et directeur général de l’Association pour le Développement et l’Innovation numérique des Collectivités (ADICO) 
 * Pascal KUCZYNSKI, délégué général de l’Association de Développeurs et Utilisateurs de Logiciels Libres pour les Administrations et les Collectivités Territoriales (ADULLACT)
 * Sylvain RAIFAUD, conseiller de la mission Ecoter, élu local et consultant
-
+<br>
 
 
 
@@ -91,7 +91,7 @@ Avec :
 * **Jihane HERIZI, responsable du programme alpha, incubateur beta.gouv.fr à la DINSIC**
 * Aurélie COURTAUDON, analyste spécialiste du secteur public, MARKESS
 * Mireille BONNIN, chargée de mission numérique à la Fédération Nationale des Collectivités Concédantes et Régies (FNCCR) territoire numérique, sur la gestion de la donnée et la modernisation des systèmes d’information.
-
+<br>
 
 
 
@@ -107,6 +107,6 @@ Avec :
 * Jean-Marie BOURGOGNE, délégué général, OpendataFrance 
 * Fabrice IDIER, Responsable de la sécurité des systèmes d’information, délégué à la protection des données, au Conseil départemental de Seine-Saint-Denis, adhérent au Club de la sécurité de l’information français (CLUSIF)
 
-
+<br>
 
 
