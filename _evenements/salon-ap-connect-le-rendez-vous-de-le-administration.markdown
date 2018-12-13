@@ -32,7 +32,7 @@ champs_informations:
 **Au programme :**
 
 > #### Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ? ####
-
+{: .margin-top-3}
 
 *Mardi 29 janvier, 11h - 12h30*
 
@@ -56,13 +56,11 @@ Avec :
 Avec :
 * **Philippe VRIGNAUD, chargé du programme de dématérialisation des démarches administratives et du projet « [demarches-simplifiees.fr](http://https://www.demarches-simplifiees.fr/) », DINSIC**
 * Lionel FERRARIS, directeur adjoint des politiques publiques et de l’innovation, union des groupements d'achat public (UGAP)
-{: .margin-bottom-3}
-
 
 
 
 > #### Quelle organisation numérique des territoires pour tirer parti du big data territorial ? ####
-
+{: .margin-top-3}
 *Mercredi 30 janvier, 10h30 - 11h45*
 
 Comment harmoniser au niveau local, les démarches des collectivités pour la gestion des données et ainsi tirer parti des différentes initiatives des acteurs publics et privés (mutualisation, interopérabilité, coopération, échange d’expertises…).
@@ -75,13 +73,13 @@ Avec :
 * Emmanuel VIVÉ, président DECLIC et directeur général de l’Association pour le Développement et l’Innovation numérique des Collectivités (ADICO) 
 * Pascal KUCZYNSKI, délégué général de l’Association de Développeurs et Utilisateurs de Logiciels Libres pour les Administrations et les Collectivités Territoriales (ADULLACT)
 * Sylvain RAIFAUD, conseiller de la mission Ecoter, élu local et consultant
-{: .margin-bottom-3}
+
 
 
 
 
 > #### Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique ####
-
+{: .margin-top-3}
 *Mercredi 30 janvier, 14h00 - 15h30*
 
 Présentation de beta.gouv.fr, le réseau des incubateurs de startups d'État et de territoires, et de sa mission : améliorer le service public de l'intérieur avec de nouvelles méthodes de travail. Présentation du Mooc en ligne « Créer des services publics numériques innovants », en collaboration avec le Centre National de la Fonction Publique Territoriale (CNFPT), qui forme les agents publics sans compétences numériques spécifiques à la création de leur propre startup d'État ou de territoire.
@@ -89,14 +87,14 @@ Présentation de beta.gouv.fr, le réseau des incubateurs de startups d'État et
 Avec :
 * **Jihane HERIZI, responsable du programme alpha, incubateur beta.gouv.fr à la DINSIC**
 * Aurélie COURTAUDON, analyste spécialiste du secteur public, MARKESS
-* Mireille BONNIN, chargée de mission numérique à la Fédération nationale des collectivités concédantes et régies (FNCCR) territoire numérique, sur la gestion de la donnée et la modernisation des systèmes d’information.
-{: .margin-bottom-3}
+> * Mireille BONNIN, chargée de mission numérique à la Fédération nationale des collectivités concédantes et régies (FNCCR) territoire numérique, sur la gestion de la donnée et la modernisation des systèmes d’information.
+
 
 
 
 
 > #### Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ? ####
-
+{: .margin-top-3}
 *Mercredi 30 janvier, 16h00-17h15*
 
 Avec :
@@ -106,6 +104,6 @@ Avec :
 * Jean BENJAMIN, pilote du groupe de travail données/villes, Syntec Numérique
 * Jean-Marie BOURGOGNE, délégué général, OpendataFrance 
 * Fabrice IDIER, Responsable de la sécurité des systèmes d’information, délégué à la protection des données, au Conseil départemental de Seine-Saint-Denis, adhérent au Club de la sécurité de l’information français (CLUSIF)
-{: .margin-bottom-3}
+
 
 
