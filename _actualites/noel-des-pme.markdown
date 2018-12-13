@@ -66,6 +66,8 @@ une-ou-diaporama:
 
 |[![soetli.png](/uploads/soetli.png){:width="210"}{: alt="Chaussettes pour bébé et enfants fabriqués en France"}](https://www.soetli.fr/){:target="_blank"}|[![philippinejanssens.png](/uploads/philippinejanssens.png){:width="210"}{: alt="Le pantalon féminin sur-mesure"}](https://www.philippinejanssens.com/){:target="_blank"}||[![woodiny.png](/uploads/woodiny.png){:width="210"}{: alt="Nœuds papillons, boutons de manchette et pinces à cravates, 100% Made in France"}](https://www.woodiny.fr/){:target="_blank"}|
 
+|[![rismik.png](/uploads/rismik.png){:width="210"}{: alt="Marque française de bijoux et accessoires en cuir colorés"}](https://www.ristmik-creations.com/){:target="_blank"}|[![marie-paris.fr.png](/uploads/marie-paris.fr.png){:width="210"}{: alt="Paires de chaussures sur-mesure pour femme"}](https://www.marie-paris.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+
 
 **Maison**
 
