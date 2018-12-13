@@ -34,8 +34,8 @@ champs_informations:
 
 **Au programme :**
 
-#### Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ? ####
-{: .margin-bottom-1}
+> #### Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ? ####
+
 
 *Mardi 29 janvier, 11h - 12h30*
 
@@ -47,10 +47,11 @@ Avec :
 * Carine LOHÉ, directrice de la production, My serious game 
 * Loïc HERVÉ, sénateur de la Haute-Savoie 
 * François ZOCCHETTO, maire de Laval, président de Laval agglomération 
-{: .margin-bottom-3}
 
-#### Le tout demat’ : comment, pourquoi, quels enjeux ? ####
-{: .margin-bottom-1}
+
+> #### Le tout demat’ : comment, pourquoi, quels enjeux ? ####
+{: .margin-top-3}
+
 *Mardi 29 janvier, 16h - 17h15*
 
 100% des démarches administratives accessibles en ligne d’ici à 2022, c'est l'objectif fixé par le gouvernement. Découverte de demarches-simplifiees.fr, service en ligne "tout en un" de dématérialisation des démarches administratives en toute simplicité à la disposition des organismes publics. Démonstrations et cas d'usage.
@@ -63,8 +64,8 @@ Avec :
 
 
 
-#### Quelle organisation numérique des territoires pour tirer parti du big data territorial ? ####
-{: .margin-bottom-1}
+> #### Quelle organisation numérique des territoires pour tirer parti du big data territorial ? ####
+
 *Mercredi 30 janvier, 10h30 - 11h45*
 
 Comment harmoniser au niveau local, les démarches des collectivités pour la gestion des données et ainsi tirer parti des différentes initiatives des acteurs publics et privés (mutualisation, interopérabilité, coopération, échange d’expertises…).
@@ -82,8 +83,8 @@ Avec :
 
 
 
-#### Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique ####
-{: .margin-bottom-1}
+> #### Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique ####
+
 *Mercredi 30 janvier, 14h00 - 15h30*
 
 Présentation de beta.gouv.fr, le réseau des incubateurs de startups d'État et de territoires, et de sa mission : améliorer le service public de l'intérieur avec de nouvelles méthodes de travail. Présentation du Mooc en ligne « Créer des services publics numériques innovants », en collaboration avec le Centre National de la Fonction Publique Territoriale (CNFPT), qui forme les agents publics sans compétences numériques spécifiques à la création de leur propre startup d'État ou de territoire.
@@ -91,14 +92,14 @@ Présentation de beta.gouv.fr, le réseau des incubateurs de startups d'État et
 Avec :
 * **Jihane HERIZI, responsable du programme alpha, incubateur beta.gouv.fr à la DINSIC**
 * Aurélie COURTAUDON, analyste spécialiste du secteur public, MARKESS
-* Mireille BONNIN, chargée de mission numérique à la Fédération Nationale des Collectivités Concédantes et Régies (FNCCR) territoire numérique, sur la gestion de la donnée et la modernisation des systèmes d’information.
+* Mireille BONNIN, chargée de mission numérique à la Fédération nationale des collectivités concédantes et régies (FNCCR) territoire numérique, sur la gestion de la donnée et la modernisation des systèmes d’information.
 {: .margin-bottom-3}
 
 
 
 
-#### Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ? ####
-{: .margin-bottom-1}
+> #### Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ? ####
+
 *Mercredi 30 janvier, 16h00-17h15*
 
 Avec :
