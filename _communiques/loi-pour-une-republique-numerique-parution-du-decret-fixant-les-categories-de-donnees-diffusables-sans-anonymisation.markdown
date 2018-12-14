@@ -42,8 +42,8 @@ Sont concernés :
 
 Dès à présent, les administrations sont donc libres de communiquer ces données sans avoir à les anonymiser au préalable ; un pas de plus pour la **transparence de l’administration.** Le périmètre des données considérées comme essentielles à l’information légitime des citoyens français s’élargit, et par là même, **le potentiel de création de services numériques innovants grâce aux données.**
   
-> [Consultez le décret n° 2018-1117 du 10 décembre 2018 relatif aux catégories de documents administratifs pouvant être rendus publics sans faire l'objet d'un processus d'anonymisation 
+[Consultez le décret n° 2018-1117 du 10 décembre 2018 relatif aux catégories de documents administratifs pouvant être rendus publics sans faire l'objet d'un processus d'anonymisation 
 ](http://https://www.legifrance.gouv.fr/eli/decret/2018/12/10/ECOJ1817657D/jo/texte){:target="_blank"} 
 
-> [Consultez l’article « Le décret fixant les catégories de données diffusables et réutilisables sans anonymisation est paru sur le blog » d’Etalab 
+[Consultez l’article « Le décret fixant les catégories de données diffusables et réutilisables sans anonymisation est paru sur le blog » d’Etalab 
 ](https://www.etalab.gouv.fr/le-decret-fixant-les-categories-de-donnees-diffusables-et-reutilisables-sans-anonymisation-est-paru){:target="_blank"} 
