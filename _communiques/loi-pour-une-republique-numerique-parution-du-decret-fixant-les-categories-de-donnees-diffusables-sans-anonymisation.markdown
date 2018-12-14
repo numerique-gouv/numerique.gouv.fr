@@ -2,6 +2,7 @@
 title: 'Loi pour une République numérique : parution du décret fixant les catégories
   de données diffusables sans anonymisation'
 date: 2018-12-12 12:05:00 +01:00
+published: false
 categories:
 - Communiqué de presse
 tags:
