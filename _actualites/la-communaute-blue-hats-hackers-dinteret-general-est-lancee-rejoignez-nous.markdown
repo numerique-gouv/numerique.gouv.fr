@@ -40,13 +40,13 @@ Son message **« Compagnons Blue hats, n’oubliez pas ce que nous a appris le l
 
 > ### Les Blue hats au service de l’intérêt général : rejoignez la communauté ! ###
 {: .text-center .margin-top-3 .margin-bottom-2} 
-
-Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
-Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ?
-La communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
-Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’entraide et la collaboration entre contributeurs au logiciel libre.
-Vous souhaitez recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions ? 
-Inscrivez-vous à la liste de diffusion Blue hats
+>
+> Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
+> Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ?
+> La communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
+> Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’entraide et la collaboration entre contributeurs au logiciel libre.
+> Vous souhaitez recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions ? 
+> Inscrivez-vous à la liste de diffusion Blue hats
 {: .lien-important}
 {: .encadre .margin}
 
