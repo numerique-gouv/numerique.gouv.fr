@@ -1,7 +1,7 @@
 ---
 title: 'Loi pour une République numérique : parution du décret fixant les catégories
   de données diffusables sans anonymisation'
-date: 2018-12-14 12:05:00 +01:00
+date: 2018-12-12 12:05:00 +01:00
 chapeau-text: "Le dernier décret d’application de la **loi pour une République numérique**
   portant sur le **cadre général de l’ouverture des données publiques** - publié le
   10 décembre 2018 au journal officiel - vient enrichir le périmètre des documents
