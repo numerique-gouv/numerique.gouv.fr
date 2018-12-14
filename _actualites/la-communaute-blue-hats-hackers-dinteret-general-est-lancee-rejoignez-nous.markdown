@@ -19,10 +19,10 @@ une-ou-diaporama:
 - image: "/uploads/Visuel_article_Rejoignez%20la%20communaut%C3%A9%20Bluehats.jpg"
 ---
 
-Le 6 décembre dernier, dans les couloirs des Docks de Paris où se tenait le Paris open source summit, l’évènement européen du logiciel libre, plus d’une centaine de personnes coiffées d’un chapeau bleu se rencontraient pour échanger et débattre autour des usages du logiciel libre dans l’administration. 
-Leurs points communs ? La **contribution à des projets ouverts utilisés par l’administration** et l’envie de **faire progresser le libre et ses usages au sein du service public.**
+Le 6 décembre dernier, dans les couloirs des Docks de Paris où se tenait le **Paris open source summit,** évènement européen du logiciel libre, plus d’une centaine de personnes coiffées d’un chapeau bleu se rencontraient pour échanger et débattre autour des usages du logiciel libre dans l’administration. 
+Leurs points communs ? La contribution à des **projets ouverts** utilisés par l’administration et l’envie de **faire progresser le libre** et ses usages au sein du service public.
 
-Au programme de leurs échanges ce jour-là, une dizaine de présentations par des représentants institutionnels comme **Erwan Le Gall** et **Luc Bourdot** du **ministère de l’Éducation nationale, Lery Jicquel** de la **Cour des comptes, Anaël Beaugnon** de l’**agence nationale de la sécurité des systèmes d’information (ANSSI), Olivier Mari** de la Gendarmerie nationale et associatifs : **Pascal Kuczynski** de l’**association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT)** et **Marc Chanteux** du **réseau national de télécommunications pour la technologie l’enseignement et la recherche (RENATER).**
+Au programme de leurs échanges ce jour-là, une dizaine de présentations par des représentants institutionnels comme **Erwan Le Gall** et **Luc Bourdot** du ministère de l’Éducation nationale, **Lery Jicquel** de la Cour des comptes, **Anaël Beaugnon** de l’agence nationale de la sécurité des systèmes d’information (ANSSI), **Olivier Mari** de la Gendarmerie nationale et associatifs : **Pascal Kuczynski** de l’association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT) et **Marc Chanteux** du réseau national de télécommunications pour la technologie l’enseignement et la recherche (RENATER).
 
 ### Des pistes de collaboration entre le secteur associatif et l’État ###
 {: .margin-top-3 .margin-bottom-2}  
@@ -39,6 +39,7 @@ Son message **« Compagnons Blue hats, n’oubliez pas ce que nous a appris le l
 
 
 ### Les Blue hats au service de l’intérêt général : rejoignez la communauté ! ###
+{: .margin-top-3 .margin-bottom-2} 
 
 Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
 
@@ -50,6 +51,6 @@ Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’en
 
 Vous souhaitez recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions ? 
 Inscrivez-vous à la liste de diffusion Blue hats
-
+{: .lien-important}
 {: .encadre .margin}
 
