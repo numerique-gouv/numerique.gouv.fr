@@ -14,6 +14,9 @@ chapeau-text: "Le dernier décret d’application de la **loi pour une Républiq
   publiques.\n"
 une-ou-diaporama:
 - image: "/uploads/Gouvernement.jpg"
+contact-presse:
+  files: "/uploads/CP_decret_fixant_les_categories_de_donnees_diffusables_sans_anonymisation.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Parmi les avancées majeures de cette loi, le principe de **l’open data « par principe »** - entré en vigueur le 7 octobre 2018 - instaure l'obligation pour les collectivités de plus de 3 500 habitants et les administrations de plus de 50 agents, de publier en ligne leurs **bases de données** et **les données dont la publication présentent un intérêt économique, social, sanitaire ou environnemental.**
