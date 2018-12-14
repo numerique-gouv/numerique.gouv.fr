@@ -13,7 +13,7 @@ tags:
 chapeau-text: Pour que l’État se saisisse pleinement du potentiel de l’intelligence
   artificielle, un appel à manifestation d’intérêt a été lancé en juin 2018, dans
   le cadre du programme d’investissement d’avenir. 6 projets ont étés sélectionnés
-  pour être expérimentés dans les services publics.
+  pour être expérimentés dans les services publics.
 une-ou-diaporama:
 - image: "/uploads/laureats-ami-ia-une.PNG"
   legende: 
