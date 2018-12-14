@@ -10,18 +10,20 @@ tags:
 - innovation
 - agilité
 - Etalab
+chapeau-text: Pour que l’État se saisisse pleinement du potentiel de l’intelligence
+  artificielle, un appel à manifestation d’intérêt a été lancé en juin 2018,
+  dans le cadre du programme d’investissement d’avenir. 6 projets ont été sélectionnés
+  pour être expérimentés dans les services publics.
+une-ou-diaporama:
+- image: "/uploads/laureats-ami-ia-une.PNG"
+  legende: 
+  alternative-textuelle: 
+- alternative-textuelle: 'Intelligence artificielle : six projets séléctionnés pour
+    être expérimentés dans les services publics'
 files:
 - lien: "/uploads/ami-ia-laureats-dossier-court.pdf"
   nom: Télécharger le dossier synthétique
 - lien: "/uploads/ami-ia-laureats-dossier-presse.pdf"
   nom: Télécharger le dossier de presse complet
-chapeau-text: Pour que l’État se saisisse pleinement du potentiel de l’intelligence
-  artificielle, un appel à manifestation d’intérêt a été lancé en juin 2018,
-  dans le cadre du programme d’investissement d’avenir. 6 projets ont été sélectionnés
-  pour être expérimentés dans les services publics.
-une-ou-diaporama:
-- image: "/uploads/laureats-ami-ia-une.PNG"
-- alternative-textuelle: 'Intelligence artificielle : six projets séléctionnés pour
-    être expérimentés dans les services publics'
 ---
 
