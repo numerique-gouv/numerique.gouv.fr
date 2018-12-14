@@ -39,7 +39,7 @@ Son message **« Compagnons Blue hats, n’oubliez pas ce que nous a appris le l
 
 
 > ### Les Blue hats au service de l’intérêt général : rejoignez la communauté ! ###
-{: .margin-top-3 .margin-bottom-2} 
+{: .text-center .margin-top-3 .margin-bottom-2} 
 
 Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
 Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ?
