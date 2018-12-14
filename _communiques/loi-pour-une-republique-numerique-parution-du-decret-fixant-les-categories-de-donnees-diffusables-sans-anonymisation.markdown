@@ -5,13 +5,15 @@ date: 2018-12-12 12:05:00 +01:00
 tags:
 - Etalab
 - opendata
-file: "/uploads/Gouvernement.jpg"
+file: "/uploads/CP_decret_fixant_les_categories_de_donnees_diffusables_sans_anonymisation.pdf"
 chapeau-text: "Le dernier décret d’application de la **loi pour une République numérique**
   portant sur le **cadre général de l’ouverture des données publiques** - publié le
   10 décembre 2018 au journal officiel - vient enrichir le périmètre des documents
   administratifs communicables en open data. \n**La loi du 8 octobre 2016 pour une
   République numérique** vise à renforcer l'ouverture et la circulation des données
   publiques.\n"
+une-ou-diaporama:
+- image: "/uploads/Gouvernement.jpg"
 ---
 
 Parmi les avancées majeures de cette loi, le principe de **l’open data « par principe »** - entré en vigueur le 7 octobre 2018 - instaure l'obligation pour les collectivités de plus de 3 500 habitants et les administrations de plus de 50 agents, de publier en ligne leurs **bases de données** et **les données dont la publication présentent un intérêt économique, social, sanitaire ou environnemental.**
