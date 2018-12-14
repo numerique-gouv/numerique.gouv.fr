@@ -1,6 +1,6 @@
 ---
-title: 'Appel à manifestation d’intérêt « intelligence artificielle » : annonce des
-  lauréats'
+title: 'Appel à manifestation d’intérêt « intelligence artificielle » : annonce des
+  lauréats'
 date: 2018-11-21 11:05:00 +01:00
 permalink: "/espace-presse/appel-manifestation-interet-intelligence-artificielle-annonce-laureats/"
 categories:
