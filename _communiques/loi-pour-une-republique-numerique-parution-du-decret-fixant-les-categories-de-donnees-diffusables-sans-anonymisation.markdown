@@ -23,7 +23,7 @@ contact-presse:
   - 06.84.72.02.00
   email: rachel.wadoux@modernisation.gouv.fr
 files:
-- lien: "/uploads/CP_decret_fixant_les_categories_de_donnees_diffusables_sans_anonymisation.pdf"
+- file: "/uploads/CP_decret_fixant_les_categories_de_donnees_diffusables_sans_anonymisation.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
