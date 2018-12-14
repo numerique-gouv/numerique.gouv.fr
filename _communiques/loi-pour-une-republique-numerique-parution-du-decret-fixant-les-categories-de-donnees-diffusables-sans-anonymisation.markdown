@@ -8,7 +8,6 @@ tags:
 - Etalab
 - opendata
 - Données
-file: "/uploads/CP_decret_fixant_les_categories_de_donnees_diffusables_sans_anonymisation.pdf"
 chapeau-text: "Le dernier décret d’application de la **loi pour une République numérique**
   portant sur le **cadre général de l’ouverture des données publiques** - publié le
   10 décembre 2018 au journal officiel - vient enrichir le périmètre des documents
