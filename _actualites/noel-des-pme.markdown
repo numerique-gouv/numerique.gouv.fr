@@ -87,10 +87,6 @@ une-ou-diaporama:
 |[![ydolem.png](/uploads/ydolem.png){:width="210"}{: alt="Ydolem, les articles de décoration unique et 100% fait main pour la chambre des tout petits"}](https://ydolem-boutique.fr/){:target="_blank"}|[![magnetyourlife.png](/uploads/magnetyourlife.png){:width="210"}{: alt="Magnet your life, aimantez votre vie"}](https://www.magnetyourlife.fr/){:target="_blank"}|[![ludilabel.png](/uploads/ludilabel.png){:width="210"}{: alt="Ludilable, étiquette thermocollante et autocollante pour vêtement et objet)"}](https://www.ludilabel.fr/){:target="_blank"}|
 
 
-
-![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
-
-
 **Sports**
 
 |[![FlaneurzV3.png](/uploads/FlaneurzV3.png){: width="210"}{: alt="Flaneurz, greffer des roues sous les chaussures"}](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles VictoireV2.png](/uploads/Cycles%20VictoireV2.png){: width="210"}{: alt="Cycles victoire, les vélos sur mesure"}](http://www.victoire-cycles.com/){:target="_blank"}|[![Villacampat2.png](/uploads/Villacampat2.png){:width="210"}{: alt="Villa campa, fabrication artisanale de skis dans les pyrénées"}](https://www.villacampa-pyrenees.com/){:target="_blank"}|
