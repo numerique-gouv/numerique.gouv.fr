@@ -27,7 +27,7 @@ Au programme de leurs échanges ce jour-là, une dizaine de présentations par d
 ### Des pistes de collaboration entre le secteur associatif et l’État ###
 {: .margin-top-3 .margin-bottom-2}  
 
-Parmi les représentants d’associations œuvrant pour l’ouverture logicielle hors de l’administration : Sophie Gautier, de The document foundation, Roberto Di Cosmo, du projet Software Heritage, Pierre-Yves Gosset de Framasoft, Frédéric Couchet de l’APRIL et Olivier Heintz de la Fondation Apache se sont succédés au micro, évoquant les liens entre leurs associations et l’administration publique et faisant remonter le besoin de dialogue et de soutien mutuel. Grâce à ces échanges, des pistes de coopération ont été identifiées pour qu’associations, État et organismes publics contribuent, ensemble, aux communs numériques. 
+Parmi les représentants d’associations œuvrant pour l’ouverture logicielle hors de l’administration : **Sophie Gautier, **de The document foundation, **Roberto Di Cosmo,** du projet Software Heritage, **Pierre-Yves Gosset** de Framasoft, **Frédéric Couchet **de l’APRIL et **Olivier Heintz** de la Fondation Apache se sont succédés au micro, évoquant les liens entre leurs associations et l’administration publique et faisant remonter le besoin de dialogue et de soutien mutuel. Grâce à ces échanges, des pistes de coopération ont été identifiées pour qu’associations, État et organismes publics contribuent, ensemble, aux communs numériques. 
 
 ### Quelle place pour le libre dans l’administration ? ###
 {: .margin-top-3 .margin-bottom-2} 
@@ -39,19 +39,19 @@ Son message **« Compagnons Blue hats, n’oubliez pas ce que nous a appris le l
 
 
 > ### Les Blue hats au service de l’intérêt général : rejoignez la communauté ! ###
-{: .text-center .margin-top-3 .margin-bottom-2} 
->
-> Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
->
-> Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ?
->
-> La communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
->
-> Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’entraide et la collaboration entre contributeurs au logiciel libre.
->
-> Vous souhaitez recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions ? 
->
-> Inscrivez-vous à la liste de diffusion Blue hats
+
+Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
+
+Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ?
+
+La communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
+
+Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’entraide et la collaboration entre contributeurs au logiciel libre.
+
+Vous souhaitez recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions ? 
+
+Inscrivez-vous à la liste de diffusion Blue hats
 {: .lien-important}
-{: .encadre .margin}
+{: .text-center .encadre .margin}
+ 
 
