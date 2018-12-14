@@ -47,7 +47,8 @@ La communauté Blue hats, hackers d’intérêt général, a besoin de vous pour
 
 Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’entraide et la collaboration entre contributeurs au logiciel libre.
 
-Inscrivez-vous pour recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions
+Vous souhaitez recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions ? 
+Inscrivez-vous à la liste de diffusion Blue hats
 
 {: .encadre .margin}
 
