@@ -2,6 +2,8 @@
 title: 'Loi pour une République numérique : parution du décret fixant les catégories
   de données diffusables sans anonymisation'
 date: 2018-12-12 12:05:00 +01:00
+categories:
+- Communiqué de presse
 tags:
 - Etalab
 - opendata
@@ -15,6 +17,11 @@ chapeau-text: "Le dernier décret d’application de la **loi pour une Républiq
 une-ou-diaporama:
 - image: "/uploads/Gouvernement.jpg"
 contact-presse:
+  name: Rachel Wadoux
+  tel:
+  - 01.71.21.11.98
+  - 06.84.72.02.00
+  email: rachel.wadoux@modernisation.gouv.fr
   files: "/uploads/CP_decret_fixant_les_categories_de_donnees_diffusables_sans_anonymisation.pdf"
   nom: Télécharger le communiqué de presse
 ---
