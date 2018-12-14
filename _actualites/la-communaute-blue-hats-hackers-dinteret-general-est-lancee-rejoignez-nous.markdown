@@ -50,8 +50,8 @@ Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’en
 
 Vous souhaitez recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions ? 
 
-Inscrivez-vous à la liste de diffusion Blue hats
-{: .lien-important}
 {: .text-center .encadre .margin}
+
+Inscrivez-vous à la liste de diffusion Blue hats
  
 
