@@ -104,7 +104,8 @@ une-ou-diaporama:
 
 [![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}{: alt="Les tendances d'Emma, les produits cosmétiques bio"}](https://www.tendances-emma.fr/){:target="_blank"}|[![formule-beaute.png](/uploads/formule-beaute.png){:width="210"}{: alt="Formule beauté, pour fabriquer soi-même ses produits de beauté naturels & bio"}](https://www.formulebeaute.com/){:target="_blank"}|[![indemne.png](/uploads/indemne.png){:width="210"}{: alt="Indemne, dermo-cosmetics & Aromatherapy"}](https://www.indemne.fr/){:target="_blank"}|
 
-[![jus.png](/uploads/jus.png){:width="210"}{: alt="Jus, la nouvelle parfumerie francaise"}](https://www.jusparfums.com/fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+[![jus.png](/uploads/jus.png){:width="210"}{: alt="Jus, la nouvelle parfumerie francaise"}](https://www.jusparfums.com/fr/){:target="_blank"}|[![oden-0dcdc8.png](/uploads/oden-0dcdc8.png){:width="210"}{: alt="Oden, marque française qui conçoit des huiles végétales pour le visage"}](https://www.oden.fr/){:target="_blank"}|
+![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Tech**
