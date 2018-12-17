@@ -40,7 +40,9 @@ une-ou-diaporama:
 
 |[![Tea project.png](/uploads/Tea%20project.png){:width="210"}{: alt="Tea project, redécouvrir le thé"}](https://teaproject.fr/){:target="_blank"}|[![maisoncolibri.png](/uploads/maisoncolibri.png){:width="210"}{: alt="Maison colibri, patisserie depuis 1896"}](https://www.maison-colibri.com/){:target="_blank"}|[![maisonherbin.png](/uploads/maisonherbin.png){:width="210"}{: alt="Confitures & Traditions Menton depuis 1974"}](https://www.confitures-herbin.com/fr/){:target="_blank"}|
 
-|[![maisonphilippesegond.png](/uploads/maisonphilippesegond.png){:width="210"}{: alt=" Desserts, chocolats et calissons artisanaux par un meilleur ouvrir de France"}](https://www.philippesegond.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![maisonphilippesegond.png](/uploads/maisonphilippesegond.png){:width="210"}{: alt=" Desserts, chocolats et calissons artisanaux par un meilleur ouvrir de France"}](https://www.philippesegond.fr/){:target="_blank"}|[![abieslagrimus.png](/uploads/abieslagrimus.png){:width="210"}{: alt="Des produits naturels des Pyrénées récoltés en haut montaggne"}](https://www.abieslagrimus.com/){:target="_blank"}|[![babelicot.png](/uploads/babelicot.png){:width="210"}{: alt="Conserverie artisanale et bio qui milite pour le zéro déchet "}](http://babelicot.fr/){:target="_blank"}|
+
+|[![happyplantes.png](/uploads/happyplantes.png){:width="210"}{: alt="Les infusions Made in Auvergne d'Amaya avec des plantes cueillies et conditionnées à la main dans le Massif Central"}](https://www.happy-plantes.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Vêtements, chaussures et accessoires**
