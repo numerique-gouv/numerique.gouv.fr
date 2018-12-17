@@ -70,7 +70,17 @@ une-ou-diaporama:
 
 |[![rismik.png](/uploads/rismik.png){:width="210"}{: alt="Marque française de bijoux et accessoires en cuir colorés"}](https://www.ristmik-creations.com/){:target="_blank"}|[![marie-paris.fr.png](/uploads/marie-paris.fr.png){:width="210"}{: alt="Paires de chaussures sur-mesure pour femme"}](https://www.marie-paris.fr/){:target="_blank"}|[![laboiteacoco.png](/uploads/laboiteacoco.png){:width="210"}{: alt="La boite à coco, bijoux d'artisanat en pierre et accéssoires"}](http://www.laboiteacoco.fr/){:target="_blank"}|
 
-|[![dwyt.png](/uploads/dwyt.png){:width="210"}{: alt="DWYT, Montres en bois 100% personnalisables"}](https://www.dwyt-watch.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![dwyt.png](/uploads/dwyt.png){:width="210"}{: alt="DWYT, Montres en bois 100% personnalisables"}](https://www.dwyt-watch.com/){:target="_blank"}|[![labottegardiane.png](/uploads/labottegardiane.png){:width="210"}{: alt="La botte depuis 1958"}](http://labottegardiane.com/fr/){:target="_blank"}|[![lachemisefrancaise.png](/uploads/lachemisefrancaise.png){:width="210"}{: alt="La tradition des grands maîtres chemisiers au service de l'élégance masculine"}](https://www.lachemisefrancaise.fr/){:target="_blank"}|
+
+
+
+![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}
+
+
+
+
+
+![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Maison**
