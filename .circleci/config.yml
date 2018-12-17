@@ -276,13 +276,11 @@ workflows:
                 - preproduction
       - deploy:
           requires:
-            - test-html
             - test-js
             - build
 
       - index:
           requires:
-            - test-html
             - test-js
             - build
 

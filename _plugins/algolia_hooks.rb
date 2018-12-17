@@ -1,6 +1,7 @@
 module Jekyll
   module Algolia
     module Hooks
+      include ObjectSpace
       def self.before_indexing_each(record, node, context)
         return unless record[:redirection].nil?
         if !record[:event_start_date].nil? && !record[:event_end_date].nil?
@@ -26,8 +27,7 @@ module Jekyll
             record[field].gsub!(/\]\((.*?)\)/, '') unless record[field].nil?
             record[field].gsub!(/{(.*?)}/, '') unless record[field].nil?
             record[field].gsub!(/\[/, '') unless record[field].nil?
-          end
-
+        end
         record
       end
     end
