@@ -3,10 +3,14 @@ title: 'La DINSIC se mobilise pour la réussite de l''ouverture des logiciels pu
   : publication de la politique de contribution de l’État aux logiciels libres'
 date: 2018-05-15 17:03:00 +02:00
 published: false
+categories:
+- Communiqué de presse
 tags:
 - Données ouvertes
 - logiciels libres
-communique_file: "/uploads/CP_Politique_contribution_logiciel_libre_Etat.pdf"
+files:
+- lien: "/uploads/CP_Politique_contribution_logiciel_libre_Etat.pdf"
+  nom: Télécharger le communiqué de presse
 chapeau-text: Conformément à la **Loi pour une République Numérique**, les codes sources
   des logiciels produits par les administrations seront officiellement libres par
   défaut à partir du 7 octobre 2018, une transition qui affirme l’engagement de l’État

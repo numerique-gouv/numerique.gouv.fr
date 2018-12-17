@@ -12,7 +12,7 @@ class Git {
   }
   createAndMerge() {
     const github = this.get_auth();
-    const repo = github.getRepo('MatthiasFeraga', 'site-dinsic');
+    const repo = github.getRepo('dinsic-gouv', 'site-dinsic');
     let options = {
       "title": "Mise en production "+ Date.now() +"",
       "body": "Pull request créée depuis numerique.gouv.fr",

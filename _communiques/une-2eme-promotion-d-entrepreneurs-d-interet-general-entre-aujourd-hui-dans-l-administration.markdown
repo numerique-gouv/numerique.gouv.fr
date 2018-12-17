@@ -2,9 +2,10 @@
 title: Une 2ème promotion d’entrepreneurs d’intérêt général entre aujourd’hui dans
   l’administration !
 date: 2018-01-15 23:00:00 +01:00
+categories:
+- Communiqué de presse
 tags:
 - entrepreneur.e d’intérêt général
-communique_file: uploads/CP_Entrepreneurs_interet_general_16012018.pdf
 chapeau-text: 'Lancé en janvier 2017, le programme « Entrepreneur.e d’intérêt général
   » (EIG) ouvre l’administration à des talents du numérique pour résoudre des défis
   d’intérêt général au sein des ministères. Chaque année, une promotion d’entrepreneurs
@@ -13,6 +14,9 @@ chapeau-text: 'Lancé en janvier 2017, le programme « Entrepreneur.e d’intér
 une-ou-diaporama:
 - image: "/uploads/Une_2e_promotion_dEIGentre_dans_ladministration.png"
   alternative-textuelle: Une seconde génération d'entrepreneur
+files:
+- lien: "/uploads/CP_Entrepreneurs_interet_general_16012018.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Après le succès de la première promotion, réunissant 11 entrepreneurs, une nouvelle promotion de 28 entrepreneurs fait son entrée dans l’administration pour l’année 2018. 

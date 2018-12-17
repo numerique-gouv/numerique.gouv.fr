@@ -17,12 +17,19 @@ collections:
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
+  pages:
+    title: Pages
+    output: true
   politique-logiciel-libre:
     title: Politique de contribution aux logiciels libres de l’État
     output: true
   posts:
     title: Posts
     output: true
+  publications:
+    title: Publication
+    output: true
+    permalink: "/publication/:title/"
   uploads:
     title: Uploads
     output: true
@@ -33,8 +40,7 @@ defaults:
   values:
     layout: page-fille
     is_une: true
-    categories:
-    - Article
+    categories: 
     chapeau-text: 
     une-ou-diaporama:
     - image: 
@@ -45,10 +51,9 @@ defaults:
     path: ''
     type: communiques
   values:
-    communique_file: uploads/exemple.pdf
+    file: uploads/exemple.pdf
     layout: communique
-    categories:
-    - Communiqué de presse
+    categories: 
     chapeau-text: 
     une-ou-diaporama:
     - image: 
@@ -73,16 +78,16 @@ defaults:
       alternative-textuelle: 
     event_start_date: 
     event_end_date: 
-    lieu: DINSIC
-    adresse: 20 avenue de Ségur 75007 Paris
+    lieu: 
+    adresse: 
     afficher_la_carte: true
     acces:
     - type: 
       lignes:
       - nom: 
     champs_informations:
-    - intitule: contact
-      contenu: loremipsum@modernisation.gouv.fr
+    - intitule: 
+      contenu: 
 url: https://www.numerique.gouv.fr
 categories:
 - main
@@ -124,6 +129,8 @@ compress_html:
     - development
 highlighter: rouge
 algolia:
+  indexing_batch_size: 500
+  max_record_size: 20000
   application_id: OCGRURLBFM
   index_name: jekyll-dinsic
   nodes_to_index: p,li,blockquote

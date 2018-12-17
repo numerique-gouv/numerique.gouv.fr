@@ -2,6 +2,8 @@
 title: 'Quand État et collectivités territoriales transforment ensemble le service
   public : découvrez le programme DCANT 2018-2020 !'
 date: 2017-12-12 16:19:00 +01:00
+categories:
+- Article
 tags:
 - territoires
 - collectivités

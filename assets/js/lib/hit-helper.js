@@ -14,11 +14,11 @@ module.exports = class Hit_helper {
     }
     const chapeau_text = this.hit._snippetResult['chapeau-text'];
     const content = this.hit._snippetResult['content'];
-    if ( chapeau_text === undefined || (chapeau_text.matchLevel === 'none' && content.matchLevel === 'full')) {
-      result = content.value;
-    } else {
-      result = chapeau_text.value;
-    }
+      if ( (content !== undefined ) && (chapeau_text === undefined || (chapeau_text.matchLevel === 'none' && content.matchLevel === 'full'))) {
+        result = content.value;
+      } else {
+        result = chapeau_text.value;
+      }
     return result;
   }
   select_icon_link() {

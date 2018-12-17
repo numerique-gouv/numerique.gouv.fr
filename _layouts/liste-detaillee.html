@@ -20,10 +20,10 @@ layout: default
 
     <div class="cell grid-x">
       <div id="list" class="cell white-container">
-        {% for principe in page.principes %}
-        <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
-          <h4 class="">{{ principe.title | markdownify | remove_p }}</h4>
-          {{ principe.content-text | markdownify }}
+        {% for item in page.list-items %}
+        <section id="list{{ item.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h4 class="">{{ item.title | markdownify | remove_p }}</h4>
+          {{ item.content-text | markdownify }}
 
           {% if forloop.last == false %}
           <div class="flex-container margin-top-2">
@@ -37,7 +37,7 @@ layout: default
     <div class="text-center margin-top-2 padding-bottom-2 font-bold">
       <a target="_blank" class="blue-link" id="fileSize-{{ post.url | replace: ' ', '' }}" href="{{base}}{{ page.file }}">
         <span class="fas fa-download margin-horizontal-1"></span>
-        <span class="pdf">Télécharger la version imprimable {{ page.nom-pdf }} (PDF</span>
+        <span class="pdf">Télécharger la version imprimable {{ page.filename }} (PDF</span>
       </a>
     </div>
   </article>

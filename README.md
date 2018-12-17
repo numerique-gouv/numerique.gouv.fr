@@ -12,28 +12,22 @@ Bienvenu à toi développeur ou utilisateur du site de la DINSIC.
 [Git](https://git-scm.com)  
 [Ruby and Ruby Gems](https://rvm.io/rvm/install)  
 [Jekyll](http://jekyllrb.com/) - `gem install jekyll`  
-[Bundler](http://bundler.io/) - `gem install bundler` (mac users may need sudo)  
+[Bundler](http://bundler.io/) - `gem install bundler` (never use sudo)  
 
 [NodeJS](http://nodejs.org) - use the installer.  
 [Yarn](https://yarnpkg.com/en/docs/install) - follow installation instructions  
-[GulpJS](https://github.com/gulpjs/gulp) - `npm install -g gulp` (mac users may need sudo)  
+[GulpJS](https://github.com/gulpjs/gulp) - `npm install -g gulp` 
 
 ### Optional
 [Composer](https://getcomposer.org) (installs PHPMailer)  
 [Make](https://www.gnu.org/software/make) (used with rsync for deploying)  
 
 
-### Ansible
-
-Pour la configuration du serveur,  nous avons utilisé les rôles ansible suivants:
-
-
-
 
 ## La chaine de developpement
 
 1. Branche dev pour les developpement courant
-2. Branche siteleaf pour la compatibilité avec le CRM
+2. Branche preprode pour la compatibilité avec le CRM
 3. Branche master (CI)
 
 ## Gestion des deux repos

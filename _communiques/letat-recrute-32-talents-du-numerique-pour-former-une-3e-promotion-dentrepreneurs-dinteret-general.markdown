@@ -2,11 +2,15 @@
 title: L’État recrute 32 talents du numérique pour former une 3e promotion d’entrepreneurs
   d’intérêt général
 date: 2018-09-09 11:18:00 +02:00
+categories:
+- Communiqué de presse
 tags:
 - entrepreneur.e d’intérêt général
 - Données ouvertes
 - datascience
-communique_file: "/uploads/CP_EIG3_Appel_a_candidatures.pdf"
+files:
+- lien: "/uploads/CP_EIG3_Appel_a_candidatures.pdf"
+  nom: Télécharger le communiqué de presse
 une-ou-diaporama:
 - image: "/uploads/EIG3-candidature-ok.png"
 ---

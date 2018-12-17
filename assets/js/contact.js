@@ -3,35 +3,22 @@ import axios from "axios"
 $('#contact-form').submit(function(event) {
   event.preventDefault();
 
-  const data = {
+  const params = {
     from: $("input[name='from']").val(),
     name: $("input[name='name']").val(),
     subject: $("input[name='subject']").val(),
     category: $("select[name='category']").val(),
     text: $("textarea[name='text']").val()
   }
+  const url = window.location.host
 
-  axios.post('http://localhost:3005/mail', {
-    params: data
-  })
+  axios.post('https://' + url + '/api/mail', params)
     .then(function (response) {
-      console.log(response);
+      $('#message').removeClass('hide').addClass('green-message').html('Votre message à bien été envoyé')
+      $('input').val('')
+      $('textarea').val('')
     })
     .catch(function (error) {
-      alert('error');
+      $('#message').removeClass('hide').addClass('red-message').html("Une erreur est survenue, votre message n'a pu être envoyé")
     });
-
-  //
-  //   $.ajax({
-  //     url: 'http://localhost:3005/mail',
-  //     type: 'POST',
-  //     crossDomain: true,
-  //     data: data,
-  //     success:function(data) {
-  //       console.log('success');
-  //     },
-  //     error:function(data) {
-  //       console.log('error');
-  //     }
-  // });
 });

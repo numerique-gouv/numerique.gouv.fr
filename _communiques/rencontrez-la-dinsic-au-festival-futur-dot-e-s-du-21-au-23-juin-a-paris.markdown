@@ -2,12 +2,16 @@
 title: Rencontrez la DINSIC au festival FUTUR.E.S  du 21 au 23 juin à Paris
 date: 2018-06-18 16:49:00 +02:00
 published: false
+categories:
+- Communiqué de presse
 tags:
 - entrepreneur.e d’intérêt général
 - Accessibilité
 - IA
 - Gouvernement ouvert
-communique_file: "/uploads/CP_Futures_DINSIC.pdf"
+files:
+- lien: "/uploads/CP_Futures_DINSIC.pdf"
+  nom: Télécharger le communiqué de presse
 chapeau-text: "Futur.e.s in Paris, le plus grand festival européen de l'innovation,
   gratuit et ouvert à tous, revient du 21 au 23 juin 2018 à La Villette. \nPartenaire
   de cette 9ème édition, **la direction interministérielle du numérique et du système

@@ -1,9 +1,13 @@
 ---
 title: Lancement du site nosdemarches.gouv.fr pour évaluer les démarches en ligne
 date: 2018-07-02 00:00:00 +02:00
+categories:
+- Communiqué de presse
 tags:
 - Démarches administratives
-communique_file: uploads/cp_nosdemarches_02_07_2018.pdf
+files:
+- lien: "/uploads/cp_nosdemarches_02_07_2018.pdf"
+  nom: Télécharger le communiqué de presse
 une-ou-diaporama:
 - image: "/uploads/nos%20demarches.png"
   alternative-textuelle: Les démarches gouvernementales

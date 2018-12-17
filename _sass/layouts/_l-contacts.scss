@@ -4,5 +4,15 @@
 #contact-form {
   margin: 2rem;
   padding: 1rem;
-  border: solid $dark-gray 0.1rem;
+}
+
+#message {
+  height: 2rem;
+}
+.green-message {
+  background-color: #a9da9b;
+}
+.red-message {
+  background-color: #db756b;
+  color: white;
 }

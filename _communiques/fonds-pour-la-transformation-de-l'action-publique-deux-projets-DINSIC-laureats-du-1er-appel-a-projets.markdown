@@ -2,10 +2,14 @@
 title: 'Fonds pour la transformation de l''action publique&nbsp;: deux projets interministériels
   lauréats du 1er appel à projets'
 date: 2018-06-20 00:00:00 +02:00
+categories:
+- Communiqué de presse
 tags:
 - État plateforme
 - Cloud
-communique_file: uploads/CP_FTAP_laureats_DINSIC_20062018.pdf
+files:
+- lien: "/uploads/CP_FTAP_laureats_DINSIC_20062018.pdf"
+  nom: Télécharger le communiqué de presse
 une-ou-diaporama:
 - image: "/uploads/Fonds_pour_la_transformation_de_laction_publique.png"
 ---

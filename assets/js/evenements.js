@@ -20,7 +20,7 @@ const instantsearch_builder = new Instantsearch_builder(search);
 const datePicker = connectRange(
   (options, isFirstRendering) => {
     if (!isFirstRendering) return;
-    let start_date = moment();
+    let start_date = moment().startOf('day');
     let end_date = moment().add(1, 'year');
     const { refine } = options;
     refine ([start_date.unix(), end_date.unix()]);
@@ -38,8 +38,8 @@ const datePicker = connectRange(
     $('#datepickerEnd').fdatepicker(datepickerOptions);
 
     $('#datepickerStart, #datepickerEnd').change( function() {
-      start_date = moment($('#datepickerStart').val())
-      end_date = moment($('#datepickerEnd').val())
+      start_date = moment($('#datepickerStart').val(), "DD MMM YYYY", 'fr')
+      end_date = moment($('#datepickerEnd').val(), "DD MMM YYYY", 'fr')
       refine ([start_date.unix(), end_date.unix()]);
     })
   }

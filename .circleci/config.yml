@@ -99,9 +99,9 @@ jobs:
     machine:
         enabled: true
     environment:
-      - HOST_PRODUCTION: test-dinsic.fr
-      - HOST_PREPRODUCTION: preprod.test-dinsic.fr
-      - HOST_DEVELOPMENT: dev.test-dinsic.fr
+      - HOST_PRODUCTION: numerique.gouv.fr
+      - HOST_PREPRODUCTION: preprod.numerique.gouv.fr
+      - HOST_DEVELOPMENT: dev.numerique.gouv.fr
       - LOGIN: root
     steps:
       - attach_workspace:
@@ -276,13 +276,11 @@ workflows:
                 - preproduction
       - deploy:
           requires:
-            - test-html
             - test-js
             - build
 
       - index:
           requires:
-            - test-html
             - test-js
             - build
 
