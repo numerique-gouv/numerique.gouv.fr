@@ -72,7 +72,7 @@ une-ou-diaporama:
 
 |[![dwyt.png](/uploads/dwyt.png){:width="210"}{: alt="DWYT, Montres en bois 100% personnalisables"}](https://www.dwyt-watch.com/){:target="_blank"}|[![labottegardiane.png](/uploads/labottegardiane.png){:width="210"}{: alt="La botte depuis 1958"}](http://labottegardiane.com/fr/){:target="_blank"}|[![lachemisefrancaise.png](/uploads/lachemisefrancaise.png){:width="210"}{: alt="La tradition des grands maîtres chemisiers au service de l'élégance masculine"}](https://www.lachemisefrancaise.fr/){:target="_blank"}|
 
-|[![lamodetaurine.png](/uploads/lamodetaurine.png){:width="210"}{: alt="La boutique du passionné de la mode Taurine, Equestre, Bouvine et Camargue"}](https://www.modetaurine.com/){:target="_blank"}||[![tisac.png](/uploads/tisac.png){:width="210"}{: alt="Tisac, les sacs pratiques et utiles au quotidien"}](https://www.mtisac.shop/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}
+|[![lamodetaurine.png](/uploads/lamodetaurine.png){:width="210"}{: alt="La boutique du passionné de la mode Taurine, Equestre, Bouvine et Camargue"}](https://www.modetaurine.com/){:target="_blank"}||[![tisac.png](/uploads/tisac.png){:width="210"}{: alt="Tisac, les sacs pratiques et utiles au quotidien"}](https://www.tisac.shop/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}
 
 
 **Maison**
