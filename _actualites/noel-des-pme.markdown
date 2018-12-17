@@ -24,7 +24,7 @@ une-ou-diaporama:
 
 |[![inside3_v2.png](/uploads/inside3_v2.png){: width="210"}{: alt="Inside3, c’est un labyrinthe en 3 dimensions qui se joue à l’aveugle"}](http://www.insidezecube.com/){:target="_blank"}|[![livrenpoche.png](/uploads/livrenpoche.png){: width="210"}{: alt="Livrenpoche, le spécialiste du livre format poche d'occasion"}](http://www.livrenpoche.com/){:target="_blank"}|[![Jouecabois.png](/uploads/Jouecabois.png){: width="210"}{: alt="Jouecabois, jeux d'éveil et de construction en bois Made in France"}](http://www.jouecabois.com/){:target="_blank"}|
 
-|[![Parentepuise.png](/uploads/Parentepuise.png){: width="210"}{: alt="Box Parent épuisé, des cadeaux qui font du bien aux parents"}](http://www.box.parentepuise.com/){:target="_blank"}|[![berceaumagique-486749.png](/uploads/berceaumagique-486749.png){: width="210"}{: alt="Berceau magique, un grand choix de cadeaux de naissance, baptême, grossesse mais aussi le mobilier et la déco de la chambre de bébé"}](http://www.berceaumagique.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![Parentepuise.png](/uploads/Parentepuise.png){: width="210"}{: alt="Box Parent épuisé, des cadeaux qui font du bien aux parents"}](http://www.box.parentepuise.com/){:target="_blank"}|[![berceaumagique-486749.png](/uploads/berceaumagique-486749.png){: width="210"}{: alt="Berceau magique, un grand choix de cadeaux de naissance, baptême, grossesse mais aussi le mobilier et la déco de la chambre de bébé"}](http://www.berceaumagique.com/){:target="_blank"}|[![chouduvolant.png](/uploads/chouduvolant.png){: width="210"}{: alt="Marque française de jouets en bois, bascules bébé, porteurs bébé, pousseurs"}](http://www.chouduvolant.com/){:target="_blank"}|
 
 
 **Gastronomie**
