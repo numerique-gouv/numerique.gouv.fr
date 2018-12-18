@@ -97,6 +97,7 @@ une-ou-diaporama:
 
 |[![FlaneurzV3.png](/uploads/FlaneurzV3.png){: width="210"}{: alt="Flaneurz, greffer des roues sous les chaussures"}](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles VictoireV2.png](/uploads/Cycles%20VictoireV2.png){: width="210"}{: alt="Cycles victoire, les vélos sur mesure"}](http://www.victoire-cycles.com/){:target="_blank"}|[![Villacampat2.png](/uploads/Villacampat2.png){:width="210"}{: alt="Villa campa, fabrication artisanale de skis dans les pyrénées"}](https://www.villacampa-pyrenees.com/){:target="_blank"}|
 
+|[![yogamatata.png](/uploads/yogamatata.png){: width="210"}{: alt="yogamatata, la boutique du tapis de yoga écologique"}](https://www.yogamatata.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}||![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 **Beauté**
 
@@ -106,7 +107,7 @@ une-ou-diaporama:
 
 |[![jus.png](/uploads/jus.png){:width="210"}{: alt="Jus, la nouvelle parfumerie francaise"}](https://www.jusparfums.com/fr/){:target="_blank"}|[![oden-0dcdc8.png](/uploads/oden-0dcdc8.png){:width="210"}{: alt="Oden, marque française qui conçoit des huiles végétales pour le visage"}](https://www.oden.fr/){:target="_blank"}|[![Ohepo.png](/uploads/Ohepo.png){:width="210"}{: alt="Ohepo, savonnerie artisanale & Produits bio"}](http://www.ohepo.fr/){:target="_blank"}|
 
-|[![lacanopee.png](/uploads/lacanopee.png){:width="210"}{: alt="La canopée, cosmétiques 100% d'origine naturelle et made in France"}](https://www.la-canopee.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![lacanopee.png](/uploads/lacanopee.png){:width="210"}{: alt="La canopée, cosmétiques 100% d'origine naturelle et made in France"}](https://www.la-canopee.com/){:target="_blank"}|[![vivrebioetnaturel.png](/uploads/vivrebioetnaturel.png){:width="210"}{: alt="Marque Française de cosmétiques bio"}](https://www.vivre-bio-naturel.fr/fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Tech**
