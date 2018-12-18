@@ -1,7 +1,6 @@
 ---
 title: AP Connect, le rendez-vous de l'e-administration
 date: 2018-12-12 16:24:00 +01:00
-published: false
 categories:
 - Salon professionnel
 tags:
@@ -14,7 +13,8 @@ chapeau-text: "La direction interministérielle du numérique (DINSIC) est parte
   aux enjeux numériques des administrations centrales et des collectivités territoriales.
   \n"
 une-ou-diaporama:
-- Key: 
+- image: "/uploads/181218_APC19_visuel-DINSIC.jpg"
+  Key: 
 event_start_date: 2019-01-29 00:00:00 +01:00
 event_end_date: 2019-01-30 00:00:00 +01:00
 lieu: Espace Grande Arche
@@ -26,7 +26,7 @@ acces:
 champs_informations:
 - intitule: Modalités
   contenu: Inscription gratuite obligatoire (sur justificatif)
-  lien: 'https://www.mybadgeonline.com/apconnect/Contact.aspx?IdContact=169983088&IdCommande=76979259 '
+  lien: https://www.apconnect.fr/visiter/reserver-badge-visiteur/?utm_source=SW&utm_medium=PR&utm_campaign=DINSIC
 ---
 
 
