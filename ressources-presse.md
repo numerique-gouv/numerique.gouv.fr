@@ -14,10 +14,9 @@ layout: ressources-presse
 ---
 
 ## Photographie de Nadi Bou Hanna, directeur interministériel du numérique
+![NBH_BD.jpg](/uploads/NBH_BD.jpg)
 
-![Portrait_Henri_Verdier.JPG](/uploads/Portrait_Henri_Verdier.JPG)
-
-[Télécharger le portrait de Nadi Bou Hanna en HD (jpg)](/uploads/Portrait_Henri_Verdier.JPG)
+[Télécharger le portrait de Nadi Bou Hanna en HD (tiff - 7 Mo)](/uploads/Portrait_Henri_Verdier.JPG)
 
 ## Biographie de Nadi Bou Hanna, directeur interministériel du numérique
 
