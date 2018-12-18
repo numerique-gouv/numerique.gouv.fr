@@ -13,14 +13,20 @@ Personnes:
 layout: ressources-presse
 ---
 
-## Photographies d'Henri Verdier
+## Nadi Bou Hanna, directeur interministériel du numérique
+### Photographie
+![NBH_BD.jpg](/uploads/NBH_BD.jpg)
+<br>
+Télécharger le portrait de Nadi Bou Hanna en HD :
+* [format tiff, en CMJN (pour un usage print - 7 Mo)](/uploads/NBH_HD.tiff)
+* [format jpg, en RVB (pour un usage web - 191 Ko)](/uploads/NBH_BD_600.jpg)
 
-![Portrait_Henri_Verdier.JPG](/uploads/Portrait_Henri_Verdier.JPG)
+### Biographie
 
-[Portrait d'Henri Verdier](/uploads/Portrait_Henri_Verdier.JPG)
+Nadi Bou Hanna, 46 ans, est ingénieur en chef des Mines, diplômé de l’Ecole Polytechnique et de Télécom ParisTech.
 
-## Biographie d'Henri Verdier
+Il démarre sa carrière au sein de l’Etat et prend en charge la transformation numérique des Douanes avant de diriger les systèmes d’information du ministère des Affaires étrangères.
 
-Henri Verdier est directeur interministériel du numérique et du système d'information et de communication (DINSIC) de l'État français et administrateur général des données (AGD).
+Entrepreneur à partir de 2007, il fonde Adminext, cabinet de conseil en stratégie numérique, et 6Tzen, éditeur logiciel de dématérialisation du service public. Il crée Workibox en 2017 pour simplifier la vie administrative et la gestion des TPE et PME. 
 
-Ancien élève de l’École normale supérieure, il a cofondé et dirigé la société Odile Jacob Multimédia, avant de rejoindre Lagardère Active comme directeur chargé de l’innovation en 2007. En 2009, il rejoint l’Institut Télécom comme directeur de la prospective, chargé de la création du think tank « Futur numérique ». Il est membre fondateur et ancien président du pôle de compétitivité Cap Digital. De janvier 2013 à septembre 2015, il dirige Etalab, service du premier ministre chargé de l'ouverture des données publiques. Sous son impulsion, Etalab développe data.gouv.fr, la plateforme ouverte des données publiques françaises qui permet aux citoyens de contribuer et partager leurs propres données. Il est l’auteur, avec Nicolas Colin de L'Âge de la multitude : entreprendre et gouverner après la révolution numérique.
+En décembre 2018, il prend la tête de la direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC).
