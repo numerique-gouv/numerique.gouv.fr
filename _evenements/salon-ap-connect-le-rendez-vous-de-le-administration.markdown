@@ -25,7 +25,7 @@ acces:
   - nom: Ligne 1, Station La Défense Grande Arche
 champs_informations:
 - intitule: Modalités
-  contenu: Inscription gratuite obligatoire (sur justificatif)
+  contenu: 'Inscription gratuite obligatoire '
   lien: https://www.apconnect.fr/visiter/reserver-badge-visiteur/?utm_source=SW&utm_medium=PR&utm_campaign=DINSIC
 ---
 
