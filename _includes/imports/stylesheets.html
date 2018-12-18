@@ -1,7 +1,10 @@
 <link rel="stylesheet" type="text/css" href="{{base}}/assets/css/instantsearch.min.css">
 <link rel="stylesheet" type="text/css" href="{{base}}/assets/css/instantsearch-theme-algolia.min.css">
+<link rel="stylesheet" href="{{base}}/assets/css/print.css" type="text/css" media="print">
+<link rel="stylesheet" href="{{base}}/assets/css/stylesheet.css">
+
+{% if page.title == Agenda %}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
       integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
       crossorigin=""/>
-<link rel="stylesheet" href="{{base}}/assets/css/stylesheet.css">
-<link rel="stylesheet" href="{{base}}/assets/css/print.css" type="text/css" media="print">
+{% endif %}
