@@ -25,14 +25,14 @@ acces:
   - nom: Ligne 1, Station La Défense Grande Arche
 champs_informations:
 - intitule: Modalités
-  contenu: Inscription gratuite obligatoire (sur justificatif)
+  contenu: 'Inscription gratuite obligatoire '
   lien: https://www.apconnect.fr/visiter/reserver-badge-visiteur/?utm_source=SW&utm_medium=PR&utm_campaign=DINSIC
 ---
 
 
 **Au programme :**
 
-#### *Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?* ####
+#### **Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?** ####
 {: .margin-top-2 .margin-bottom-1}
 
 *Mardi 29 janvier, 11h - 12h30*
@@ -47,7 +47,7 @@ Avec :
 * François ZOCCHETTO, maire de Laval, président de Laval agglomération 
 
 
-#### Le tout démat’ : comment, pourquoi, quels enjeux ? ####
+#### **Le tout démat’ : comment, pourquoi, quels enjeux ?** ####
 {: .margin-top-3 .margin-bottom-1}
 
 *Mardi 29 janvier, 16h - 17h15*
@@ -60,7 +60,7 @@ Avec :
 
 
 
-#### Quelle organisation numérique des territoires pour tirer parti du big data territorial ? ####
+#### **Quelle organisation numérique des territoires pour tirer parti du big data territorial ?** ####
 {: .margin-top-3 .margin-bottom-1}
 *Mercredi 30 janvier, 10h30 - 11h45*
 
@@ -79,7 +79,7 @@ Avec :
 
 
 
-#### Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique ####
+#### **Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique** ####
 {: .margin-top-3 .margin-bottom-1}
 *Mercredi 30 janvier, 14h00 - 15h30*
 
@@ -94,7 +94,7 @@ Avec :
 
 
 
-#### Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ? ####
+#### **Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ?** ####
 {: .margin-top-3 .margin-bottom-1}
 *Mercredi 30 janvier, 16h00-17h15*
 
