@@ -125,9 +125,3 @@ une-ou-diaporama:
 |[![reforestaction.png](/uploads/reforestaction.png){: width="210"}{: alt="ReforestAction permet à chacun de planter des arbres sur des projets de reforestation"}](https://reforestaction.com/){:target="_blank"}|[![monpetitcoinvert.png](/uploads/monpetitcoinvert.png){: width="210"}{: alt="Mon petit coin vert, chaque mois une box de jardinage personnalisée"}](https://monpetitcoinvert.com/){:target="_blank"}|[![pépinieresjeanhuchet.png](/uploads/p%C3%A9pinieresjeanhuchet.png){: width="210"}{: alt="Plantes vivaces, arbres fruitiers, bambous et haies pour le jardin."}](https://www.pepinieres-huchet.com/pepiniere/la-pepiniere/animations/){:target="_blank"}|
 
 |[![ungrandmarche.png](/uploads/ungrandmarche.png){: width="210"}{: alt="Dénichez la perle rare parmi des milliers de produits fait-main imaginés et conçus par des créateurs français"}](https://www.ungrandmarche.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
-
-
-> ## Comment vous faire référencer au « Noël des PME » ?
-**Toutes les informations pour vous faire référencer :**
-[Le Noël des PME](https://secretariat-etat.numerique.gouv.fr/noel-pme){: target="_blank" }
-{: .encadre}
