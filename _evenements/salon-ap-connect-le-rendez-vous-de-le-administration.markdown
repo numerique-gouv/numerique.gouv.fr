@@ -99,7 +99,7 @@ Avec :
 *Mercredi 30 janvier, 16h00-17h15*
 
 Avec :
-* **Perica SUCEVIC, responsable juridique de la DINSIC et adjoint à la directrice Etalab**
+* **Perica SUCEVIC, responsable juridique de la DINSIC et adjoint à la directrice d'Etalab**
 * Sophie HOUZET, directrice générale du Sictiam 
 * Gwladis LORENZELLI, directrice, Ville de Noisy-le-Grand 
 * Jean BENJAMIN, pilote du groupe de travail données/villes, Syntec Numérique
