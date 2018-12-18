@@ -13,12 +13,13 @@ Personnes:
 layout: ressources-presse
 ---
 
-## Photographie de Nadi Bou Hanna, directeur interministériel du numérique
+## Nadi Bou Hanna, directeur interministériel du numérique
+### Photographie de Nadi Bou Hanna
 ![NBH_BD.jpg](/uploads/NBH_BD.jpg)
 
 [Télécharger le portrait de Nadi Bou Hanna en HD (tiff - 7 Mo)](/uploads/Portrait_Henri_Verdier.JPG)
 
-## Biographie de Nadi Bou Hanna, directeur interministériel du numérique
+## Biographie de Nadi Bou Hanna
 
 Nadi Bou Hanna, 46 ans, est ingénieur en chef des Mines, diplômé de l’Ecole Polytechnique et de Télécom ParisTech.
 
