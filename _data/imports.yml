@@ -54,6 +54,14 @@
   link: evenements.js
   for: Agenda
 
+- name: mapper
+  link: mapper.js
+  for: all
+
+- name: vendors_mapper
+  link: vendors~mapper.js
+  for: all
+
 - name: miseEnProd
   link: mise-en-prod.js
   for: all
