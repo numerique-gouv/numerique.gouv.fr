@@ -1,7 +1,7 @@
 ---
 title: La communauté "Blue hats, hackers d'intérêt général" est lancée. Rejoignez-nous
   !
-date: 2018-12-14 15:41:00 +01:00
+date: 2018-12-05 15:41:00 +01:00
 categories:
 - Article
 tags:
