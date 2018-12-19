@@ -24,7 +24,7 @@ Leurs points communs ? La contribution à des **projets ouverts** utilisés par 
 
 Au programme de leurs échanges ce jour-là, une dizaine de présentations par des représentants institutionnels comme **Erwan Le Gall** et **Luc Bourdot** du ministère de l’Éducation nationale, **Lery Jicquel** de la Cour des comptes, **Anaël Beaugnon** de l’agence nationale de la sécurité des systèmes d’information (ANSSI), **Olivier Mari** de la Gendarmerie nationale et associatifs : **Pascal Kuczynski** de l’association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT) et **Marc Chanteux** du réseau national de télécommunications pour la technologie l’enseignement et la recherche (RENATER).
 
-![Table ronde blue hats.jpg](/uploads/Table%20ronde%20blue%20hats.jpg)
+![Table-ronde-blue-hats.jpg](/uploads/Table-ronde-blue-hats.jpg)
 
 ### Des pistes de collaboration entre le secteur associatif et l’État ###
 {: .margin-top-3 .margin-bottom-2}  
