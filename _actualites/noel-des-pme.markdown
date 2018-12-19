@@ -26,6 +26,8 @@ une-ou-diaporama:
 
 |[![Parentepuise.png](/uploads/Parentepuise.png){: width="210"}{: alt="Box Parent épuisé, des cadeaux qui font du bien aux parents"}](http://www.box.parentepuise.com/){:target="_blank"}|[![berceaumagique-486749.png](/uploads/berceaumagique-486749.png){: width="210"}{: alt="Berceau magique, un grand choix de cadeaux de naissance, baptême, grossesse mais aussi le mobilier et la déco de la chambre de bébé"}](http://www.berceaumagique.com/){:target="_blank"}|[![chouduvolant.png](/uploads/chouduvolant.png){: width="210"}{: alt="Marque française de jouets en bois, bascules bébé, porteurs bébé, pousseurs"}](http://www.chouduvolant.com/){:target="_blank"}|
 
+|[![leseditionsphilibertetastrid.png](/uploads/leseditionsphilibertetastrid.png){: width="210"}{: alt="Philibert et Astrid, lesjeux éducatifs avec un caractère local pour nourrir et faciliter la relation parents-enfant"}](https://www.philibertastrid.com/){:target="_blank"}||[![editionsencavale.png](/uploads/editionsencavale.png){: width="210"}{: alt="Histoire en cavale, utiliser le jeu sous ses différentes formes pour libérer le pouvoir de l’imagination"}](https://www.histoiresencavale.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+
 
 **Gastronomie**
 
