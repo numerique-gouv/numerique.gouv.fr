@@ -24,12 +24,13 @@ Leurs points communs ? La contribution à des **projets ouverts** utilisés par 
 
 Au programme de leurs échanges ce jour-là, une dizaine de présentations par des représentants institutionnels comme **Erwan Le Gall** et **Luc Bourdot** du ministère de l’Éducation nationale, **Lery Jicquel** de la Cour des comptes, **Anaël Beaugnon** de l’agence nationale de la sécurité des systèmes d’information (ANSSI), **Olivier Mari** de la Gendarmerie nationale et associatifs : **Pascal Kuczynski** de l’association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT) et **Marc Chanteux** du réseau national de télécommunications pour la technologie l’enseignement et la recherche (RENATER).
 
+
 ![Table-ronde-blue-hats.jpg](/uploads/Table-ronde-blue-hats.jpg)
 
 ### Des pistes de collaboration entre le secteur associatif et l’État ###
 {: .margin-top-3 .margin-bottom-2}  
 
-Parmi les représentants d’associations œuvrant pour l’ouverture logicielle hors de l’administration : **Sophie Gautier, **de The document foundation, **Roberto Di Cosmo,** du projet Software Heritage, **Pierre-Yves Gosset** de Framasoft, **Frédéric Couchet **de l’APRIL et **Olivier Heintz** de la Fondation Apache se sont succédés au micro, évoquant les liens entre leurs associations et l’administration publique et faisant remonter le besoin de dialogue et de soutien mutuel. Grâce à ces échanges, des pistes de coopération ont été identifiées pour qu’associations, État et organismes publics contribuent, ensemble, aux communs numériques. 
+Parmi les représentants d’associations œuvrant pour l’ouverture logicielle hors de l’administration : **Sophie Gautier** de The document foundation, **Roberto Di Cosmo,** du projet Software Heritage, **Pierre-Yves Gosset** de Framasoft, **Frédéric Couchet** de l’APRIL et **Olivier Heintz** de la Fondation Apache se sont succédés au micro, évoquant les liens entre leurs associations et l’administration publique et faisant remonter le besoin de dialogue et de soutien mutuel. Grâce à ces échanges, des pistes de coopération ont été identifiées pour qu’associations, État et organismes publics contribuent, ensemble, aux communs numériques. 
 
 ### Quelle place pour le libre dans l’administration ? ###
 {: .margin-top-3 .margin-bottom-2} 
