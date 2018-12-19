@@ -48,7 +48,7 @@ Son message **« Compagnons Blue hats, n’oubliez pas ce que nous a appris le l
 Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
 Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ?
 La communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
-Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’entraide et la collaboration entre contributeurs au logiciel libre. Pour recevoir l’actualité de la communauté et être informés des prochaines actions :
+Le mouvement Blue hats est ouvert à tous. Pour recevoir l’actualité de la communauté et être informés des prochaines actions :
 [inscrivez-vous à la liste de diffusion Blue hats.](https://framaforms.org/formulaire-dinscription-a-la-mailing-list-blue-hats-1542871598)
 {: .encadre}
 
