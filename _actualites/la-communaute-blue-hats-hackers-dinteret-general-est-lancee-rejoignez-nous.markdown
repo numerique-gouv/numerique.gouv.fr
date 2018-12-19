@@ -7,12 +7,12 @@ categories:
 - Article
 tags:
 - Logiciel libre
-chapeau-text: 'À l’occasion du Paris open source summit, une centaine de développeur.euses,
+chapeau-text: 'À l’occasion du **Paris open source summit,** une centaine de développeur.euses,
   designers, datascientists, agents publics, indépendant ou prestataire utilisant
-  ou produisant des logiciels libres se réunissaient à l''initiative de la direction
-  interministérielle du  numérique (DINSIC)  pour lancer la communauté Blue hats,
-  hackers d’intérêt général. Leur but ? Encourager l’usage et la contribution au logiciel
-  libre au sein de l’administration. Rejoignez le mouvement !
+  ou produisant des logiciels libres se réunissaient à l''initiative de la **direction
+  interministérielle du  numérique (DINSIC)**  pour lancer la communauté **Blue hats,
+  hackers d’intérêt général.** Leur but ? Encourager l’usage et la contribution au
+  logiciel libre au sein de l’administration. Rejoignez le mouvement !
 
 '
 une-ou-diaporama:
@@ -24,6 +24,8 @@ Leurs points communs ? La contribution à des **projets ouverts** utilisés par 
 
 Au programme de leurs échanges ce jour-là, une dizaine de présentations par des représentants institutionnels comme **Erwan Le Gall** et **Luc Bourdot** du ministère de l’Éducation nationale, **Lery Jicquel** de la Cour des comptes, **Anaël Beaugnon** de l’agence nationale de la sécurité des systèmes d’information (ANSSI), **Olivier Mari** de la Gendarmerie nationale et associatifs : **Pascal Kuczynski** de l’association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT) et **Marc Chanteux** du réseau national de télécommunications pour la technologie l’enseignement et la recherche (RENATER).
 
+![Table ronde blue hats.jpg](/uploads/Table%20ronde%20blue%20hats.jpg)
+
 ### Des pistes de collaboration entre le secteur associatif et l’État ###
 {: .margin-top-3 .margin-bottom-2}  
 
@@ -34,24 +36,24 @@ Parmi les représentants d’associations œuvrant pour l’ouverture logicielle
 
 Qu’est-ce que la [**politique de contribution de l’État aux logiciels libres**](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/) ? Comment l’[**incubateur de services numériques**](https://beta.gouv.fr/) ou le programme [**Entrepreneur·e d’intérêt général**](https://entrepreneur-interet-general.etalab.gouv.fr/) (EIG) publient-ils du logiciel libre ? Comment avancer sur le design et l’accessibilité des applications libres ? Entre deux sessions de présentations courtes, les participants ont pu aborder ces questions et découvrir les engagements d’Etalab et de la DINSIC en faveur du logiciel libre, ainsi que les travaux menés par les groupes de travail interministériel pour un environnement de travail ouvert (MIMO), pour les serveurs de production (MIMPROD) et pour les outils de développement (MIMDEV).
 
-**Bastien Guerry,** référent logiciels libres à Etalab, a conclu la journée en rappelant que les contributions des associations comme de l’administration sont essentielles aux communs numériques. La communauté Blue hats promeut une forme de compagnonnage, où chacun pourra apporter sa pierre à l’édifice collectif pour faire prospérer ces communs.
+**Bastien Guerry,** référent logiciels libres à **Etalab,** a conclu la journée en rappelant que les contributions des associations comme de l’administration sont essentielles aux communs numériques. La communauté Blue hats promeut une forme de compagnonnage, où chacun pourra apporter sa pierre à l’édifice collectif pour faire prospérer ces communs.
 Son message **« Compagnons Blue hats, n’oubliez pas ce que nous a appris le libre : seul nous avançons plus vite, ensemble nous allons plus loin et avançons plus durablement ».**
 
 
-> ### Les Blue hats au service de l’intérêt général : rejoignez la communauté ! ###
+### Les Blue hats au service de l’intérêt général : rejoignez la communauté ! ###
+{: .margin-top-3 .margin-bottom-2}
 
-> Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
+Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
 
-> Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ?
+Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ?
 
-> La communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
+La communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
 
-> Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’entraide et la collaboration entre contributeurs au logiciel libre.
+Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’entraide et la collaboration entre contributeurs au logiciel libre.
 
-> Vous souhaitez recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions ? 
+Vous souhaitez recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions ? 
+{: .exergue}
 
-{: .encadre}
-
-Inscrivez-vous à la liste de diffusion Blue hats
- 
+Inscrivez-vous à la liste de diffusion Blue hats 
+{: .lien-important} 
 
