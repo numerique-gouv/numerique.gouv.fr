@@ -40,16 +40,12 @@ Qu’est-ce que la [**politique de contribution de l’État aux logiciels libre
 Son message **« Compagnons Blue hats, n’oubliez pas ce que nous a appris le libre : seul nous avançons plus vite, ensemble nous allons plus loin et avançons plus durablement ».**
 
 
-### Les Blue hats au service de l’intérêt général : rejoignez la communauté ! ###
-{: .margin-top-3 .margin-bottom-2}
-
+> ## Les Blue hats au service de l’intérêt général : rejoignez la communauté !
 Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
-
 Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ?
-
 La communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
-
 Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’entraide et la collaboration entre contributeurs au logiciel libre.
+{: .encadre}
 
 Vous souhaitez recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions ? 
 {: .exergue}
