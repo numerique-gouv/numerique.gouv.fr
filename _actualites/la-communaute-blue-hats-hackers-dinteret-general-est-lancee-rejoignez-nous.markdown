@@ -29,7 +29,7 @@ Au programme de leurs échanges ce jour-là, une dizaine de présentations par d
 ### Des pistes de collaboration entre le secteur associatif et l’État ###
 {: .margin-top-3 .margin-bottom-2}  
 
-Parmi les représentants d’associations œuvrant pour l’ouverture logicielle hors de l’administration : **Sophie Gautier, **de The document foundation, **Roberto Di Cosmo,** du projet Software Heritage, **Pierre-Yves Gosset** de Framasoft, **Frédéric Couchet **de l’APRIL et **Olivier Heintz** de la Fondation Apache se sont succédés au micro, évoquant les liens entre leurs associations et l’administration publique et faisant remonter le besoin de dialogue et de soutien mutuel. Grâce à ces échanges, des pistes de coopération ont été identifiées pour qu’associations, État et organismes publics contribuent, ensemble, aux communs numériques. 
+Parmi les représentants d’associations œuvrant pour l’ouverture logicielle hors de l’administration : **Sophie Gautier** de The document foundation, **Roberto Di Cosmo,** du projet Software Heritage, **Pierre-Yves Gosset** de Framasoft, **Frédéric Couchet** de l’APRIL et **Olivier Heintz** de la Fondation Apache se sont succédés au micro, évoquant les liens entre leurs associations et l’administration publique et faisant remonter le besoin de dialogue et de soutien mutuel. Grâce à ces échanges, des pistes de coopération ont été identifiées pour qu’associations, État et organismes publics contribuent, ensemble, aux communs numériques. 
 
 ### Quelle place pour le libre dans l’administration ? ###
 {: .margin-top-3 .margin-bottom-2} 
