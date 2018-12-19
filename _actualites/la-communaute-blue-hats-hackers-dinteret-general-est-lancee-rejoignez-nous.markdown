@@ -28,7 +28,7 @@ Au programme de leurs échanges ce jour-là, une dizaine de présentations par d
 
 
 ![Table-ronde-blue-hats.jpg](/uploads/Table-ronde-blue-hats.jpg)
- 
+ {: .margin-top-2 .margin-bottom-2} 
 
 Parmi les représentants d’associations œuvrant pour l’ouverture logicielle hors de l’administration : **Sophie Gautier** de The document foundation, **Roberto Di Cosmo,** du projet Software Heritage, **Pierre-Yves Gosset** de Framasoft, **Frédéric Couchet** de l’APRIL et **Olivier Heintz** de la Fondation Apache se sont succédés au micro, évoquant les liens entre leurs associations et l’administration publique et faisant remonter le besoin de dialogue et de soutien mutuel. Grâce à ces échanges, des pistes de coopération ont été identifiées pour qu’associations, État et organismes publics contribuent, ensemble, aux communs numériques. 
 
@@ -38,7 +38,7 @@ Parmi les représentants d’associations œuvrant pour l’ouverture logicielle
 Qu’est-ce que la [**politique de contribution de l’État aux logiciels libres**](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/) ? Comment l’[**incubateur de services numériques**](https://beta.gouv.fr/) ou le programme [**Entrepreneur·e d’intérêt général**](https://entrepreneur-interet-general.etalab.gouv.fr/) (EIG) publient-ils du logiciel libre ? Comment avancer sur le design et l’accessibilité des applications libres ? Entre deux sessions de présentations courtes, les participants ont pu aborder ces questions et découvrir les engagements d’Etalab et de la DINSIC en faveur du logiciel libre, ainsi que les travaux menés par les groupes de travail interministériel pour un environnement de travail ouvert (MIMO), pour les serveurs de production (MIMPROD) et pour les outils de développement (MIMDEV).
 
 ![Photo groupe_bluehats.jpg](/uploads/Photo%20groupe_bluehats.jpg)
-
+ {: .margin-top-2 .margin-bottom-2} 
 
 **Bastien Guerry,** référent logiciels libres à **Etalab,** a conclu la journée en rappelant que les contributions des associations comme de l’administration sont essentielles aux communs numériques. La communauté Blue hats promeut une forme de compagnonnage, où chacun pourra apporter sa pierre à l’édifice collectif pour faire prospérer ces communs.
 Son message **« Compagnons Blue hats, n’oubliez pas ce que nous a appris le libre : seul nous avançons plus vite, ensemble nous allons plus loin et avançons plus durablement ».**
