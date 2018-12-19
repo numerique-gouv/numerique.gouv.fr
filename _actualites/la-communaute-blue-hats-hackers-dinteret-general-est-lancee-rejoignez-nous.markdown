@@ -7,7 +7,7 @@ categories:
 - Article
 tags:
 - Logiciel libre
-chapeau-text: 'À l’occasion du **Paris open source summit,** une centaine de développeur.euses,
+chapeau-text: 'À l’occasion du **Paris open source summit,** une centaine de développeurs.euses,
   designers, datascientists, agents publics, indépendant ou prestataire utilisant
   ou produisant des logiciels libres se réunissaient à l''initiative de la **direction
   interministérielle du  numérique (DINSIC)**  pour lancer la communauté **Blue hats,
