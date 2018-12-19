@@ -39,6 +39,7 @@ Qu’est-ce que la [**politique de contribution de l’État aux logiciels libre
 **Bastien Guerry,** référent logiciels libres à **Etalab,** a conclu la journée en rappelant que les contributions des associations comme de l’administration sont essentielles aux communs numériques. La communauté Blue hats promeut une forme de compagnonnage, où chacun pourra apporter sa pierre à l’édifice collectif pour faire prospérer ces communs.
 Son message **« Compagnons Blue hats, n’oubliez pas ce que nous a appris le libre : seul nous avançons plus vite, ensemble nous allons plus loin et avançons plus durablement ».**
 
+![Photo groupe_bluehats.jpg](/uploads/Photo%20groupe_bluehats.jpg)
 
 > ## Les Blue hats au service de l’intérêt général : rejoignez la communauté !
 Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
