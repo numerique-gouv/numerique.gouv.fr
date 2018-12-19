@@ -22,7 +22,7 @@ Le 6 décembre dernier, dans les couloirs des Docks de Paris où se tenait le **
 Leurs points communs ? La contribution à des projets ouverts utilisés par l’administration et l’envie de faire progresser le libre et ses usages au sein du service public.
 
 ### Des pistes de collaboration entre le secteur associatif et l’État ###
-{: .margin-top-3 .margin-bottom-2} 
+{: .margin-top-2 .margin-bottom-2} 
 
 Au programme de leurs échanges ce jour-là, une dizaine de présentations par des représentants institutionnels comme **Erwan Le Gall** et **Luc Bourdot** du ministère de l’Éducation nationale, **Lery Jicquel** de la Cour des comptes, **Anaël Beaugnon** de l’agence nationale de la sécurité des systèmes d’information (ANSSI), **Olivier Mari** de la Gendarmerie nationale ; et associatifs : **Pascal Kuczynski** de l’association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT) et **Marc Chanteux** du réseau national de télécommunications pour la technologie l’enseignement et la recherche (RENATER).
 
@@ -33,7 +33,7 @@ Au programme de leurs échanges ce jour-là, une dizaine de présentations par d
 Parmi les représentants d’associations œuvrant pour l’ouverture logicielle hors de l’administration : **Sophie Gautier** de The document foundation, **Roberto Di Cosmo,** du projet Software Heritage, **Pierre-Yves Gosset** de Framasoft, **Frédéric Couchet** de l’APRIL et **Olivier Heintz** de la Fondation Apache se sont succédés au micro, évoquant les liens entre leurs associations et l’administration publique et faisant remonter le besoin de dialogue et de soutien mutuel. Grâce à ces échanges, des pistes de coopération ont été identifiées pour qu’associations, État et organismes publics contribuent, ensemble, aux communs numériques. 
 
 ### Quelle place pour le libre dans l’administration ? ###
-{: .margin-top-3 .margin-bottom-2} 
+{: .margin-top-2 .margin-bottom-2} 
 
 Qu’est-ce que la [**politique de contribution de l’État aux logiciels libres**](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/) ? Comment l’[**incubateur de services numériques**](https://beta.gouv.fr/) ou le programme [**Entrepreneur·e d’intérêt général**](https://entrepreneur-interet-general.etalab.gouv.fr/) (EIG) publient-ils du logiciel libre ? Comment avancer sur le design et l’accessibilité des applications libres ? Entre deux sessions de présentations courtes, les participants ont pu aborder ces questions et découvrir les engagements d’Etalab et de la DINSIC en faveur du logiciel libre, ainsi que les travaux menés par les groupes de travail interministériel pour un environnement de travail ouvert (MIMO), pour les serveurs de production (MIMPROD) et pour les outils de développement (MIMDEV).
 
