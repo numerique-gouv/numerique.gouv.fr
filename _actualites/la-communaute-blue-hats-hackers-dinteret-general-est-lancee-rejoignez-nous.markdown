@@ -24,7 +24,7 @@ Leurs points communs ? La contribution à des **projets ouverts** utilisés par 
 
 Au programme de leurs échanges ce jour-là, une dizaine de présentations par des représentants institutionnels comme **Erwan Le Gall** et **Luc Bourdot** du ministère de l’Éducation nationale, **Lery Jicquel** de la Cour des comptes, **Anaël Beaugnon** de l’agence nationale de la sécurité des systèmes d’information (ANSSI), **Olivier Mari** de la Gendarmerie nationale et associatifs : **Pascal Kuczynski** de l’association des développeurs et utilisateurs de logiciels libres pour les administrations et les collectivités territoriales (ADULLACT) et **Marc Chanteux** du réseau national de télécommunications pour la technologie l’enseignement et la recherche (RENATER).
 
-![Table ronde blue hats.jpg](/uploads/Table%20ronde%20blue%20hats.jpg)
+![Table-ronde-blue-hats.jpg](/uploads/Table-ronde-blue-hats.jpg)
 
 ### Des pistes de collaboration entre le secteur associatif et l’État ###
 {: .margin-top-3 .margin-bottom-2}  
@@ -45,12 +45,9 @@ Son message **« Compagnons Blue hats, n’oubliez pas ce que nous a appris le l
 Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
 Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ?
 La communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
-Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’entraide et la collaboration entre contributeurs au logiciel libre.
+Le mouvement Blue hats est ouvert à tous. Son but ? Renforcer les liens, l’entraide et la collaboration entre contributeurs au logiciel libre. Vous souhaitez recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions ? 
+Inscrivez-vous à la liste de diffusion Blue hats
 {: .encadre}
 
-Vous souhaitez recevoir l’actualité de la communauté Blue hats et être informés de nos prochaines actions ? 
-{: .exergue}
-
-Inscrivez-vous à la liste de diffusion Blue hats 
-{: .lien-important} 
+ 
 
