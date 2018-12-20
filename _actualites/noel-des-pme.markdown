@@ -94,10 +94,11 @@ une-ou-diaporama:
 
 |[![Delavelle.png](/uploads/Delavelle.png){:width="210"}{: alt="Delavelle, Meubles, accessoires et décoration 100% made in France"}](https://www.delavelle-design.fr/){:target="_blank"}|[![calepino.png](/uploads/calepino.png){:width="210"}{: alt="Calepino, carnets simples et design fabriqués à Nantes"}](https://calepino.fr/fr/){:target="_blank"}|[![cameleondine.png](/uploads/cameleondine.png){:width="210"}{: alt="Le caméléon dine, la petite assiette française 100 % made in France"}](https://www.lecameleondine.com/){:target="_blank"}|
 
-|[![microcosme.png](/uploads/microcosme.png){:width="210"}{: alt="Microcosme, terrariums en kit livrés partout en France"}](https://www.ateliermicrocosme.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![microcosme.png](/uploads/microcosme.png){:width="210"}{: alt="Microcosme, terrariums en kit livrés partout en France"}](https://www.ateliermicrocosme.com/){:target="_blank"}|[![glassvariations.png](/uploads/glassvariations.png){:width="210"}{: alt="Glass variations, déco et meubles en verre, de fabrication française"}](http://www.glassvariations.com/fr/){:target="_blank"}|[![lesrêvesdeviolaine.png](/uploads/lesr%C3%AAvesdeviolaine.png){:width="210"}{: alt="Posters et affiches pour décoration d'intérieur"}](https://www.reves-de-violaine.fr/){:target="_blank"}|
 
 
 **Sports**
+
 
 |[![FlaneurzV3.png](/uploads/FlaneurzV3.png){: width="210"}{: alt="Flaneurz, greffer des roues sous les chaussures"}](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles VictoireV2.png](/uploads/Cycles%20VictoireV2.png){: width="210"}{: alt="Cycles victoire, les vélos sur mesure"}](http://www.victoire-cycles.com/){:target="_blank"}|[![Villacampat2.png](/uploads/Villacampat2.png){:width="210"}{: alt="Villa campa, fabrication artisanale de skis dans les pyrénées"}](https://www.villacampa-pyrenees.com/){:target="_blank"}|
 
