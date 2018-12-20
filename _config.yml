@@ -98,7 +98,6 @@ plugins:
 - sass
 - jekyll-sitemap
 - jekyll-algolia
-- jekyll-gzip
 include:
 - ".htaccess"
 - _pages
