@@ -96,13 +96,15 @@ une-ou-diaporama:
 
 |[![microcosme.png](/uploads/microcosme.png){:width="210"}{: alt="Microcosme, terrariums en kit livrés partout en France"}](https://www.ateliermicrocosme.com/){:target="_blank"}|[![glassvariations.png](/uploads/glassvariations.png){:width="210"}{: alt="Glass variations, déco et meubles en verre, de fabrication française"}](http://www.glassvariations.com/fr/){:target="_blank"}|[![lesrêvesdeviolaine.png](/uploads/lesr%C3%AAvesdeviolaine.png){:width="210"}{: alt="Posters et affiches pour décoration d'intérieur"}](https://www.reves-de-violaine.fr/){:target="_blank"}|
 
+|[![noepaper.png](/uploads/noepaper.png){:width="210"}{: alt="Noe paper, objets uniques de design textile, de décoration et de papeterie éco-responsable"}](https://www.noe-paper.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+
 
 **Sports**
 
 
 |[![FlaneurzV3.png](/uploads/FlaneurzV3.png){: width="210"}{: alt="Flaneurz, greffer des roues sous les chaussures"}](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles VictoireV2.png](/uploads/Cycles%20VictoireV2.png){: width="210"}{: alt="Cycles victoire, les vélos sur mesure"}](http://www.victoire-cycles.com/){:target="_blank"}|[![Villacampat2.png](/uploads/Villacampat2.png){:width="210"}{: alt="Villa campa, fabrication artisanale de skis dans les pyrénées"}](https://www.villacampa-pyrenees.com/){:target="_blank"}|
 
-|[![yogamatata.png](/uploads/yogamatata.png){: width="210"}{: alt="yogamatata, la boutique du tapis de yoga écologique"}](https://www.yogamatata.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}||![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![yogamatata.png](/uploads/yogamatata.png){: width="210"}{: alt="yogamatata, la boutique du tapis de yoga écologique"}](https://www.yogamatata.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 **Beauté**
 
