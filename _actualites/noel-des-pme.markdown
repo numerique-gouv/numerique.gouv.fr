@@ -104,7 +104,7 @@ une-ou-diaporama:
 
 |[![FlaneurzV3.png](/uploads/FlaneurzV3.png){: width="210"}{: alt="Flaneurz, greffer des roues sous les chaussures"}](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles VictoireV2.png](/uploads/Cycles%20VictoireV2.png){: width="210"}{: alt="Cycles victoire, les vélos sur mesure"}](http://www.victoire-cycles.com/){:target="_blank"}|[![Villacampat2.png](/uploads/Villacampat2.png){:width="210"}{: alt="Villa campa, fabrication artisanale de skis dans les pyrénées"}](https://www.villacampa-pyrenees.com/){:target="_blank"}|
 
-|[![yogamatata.png](/uploads/yogamatata.png){: width="210"}{: alt="yogamatata, la boutique du tapis de yoga écologique"}](https://www.yogamatata.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![yogamatata.png](/uploads/yogamatata.png){: width="210"}{: alt="yogamatata, la boutique du tapis de yoga écologique"}](https://www.yogamatata.fr/){:target="_blank"}|[![Infinyfit.png](/uploads/Infinyfit.png){: width="210"}{: alt="Appareil de musculation au poids du corps polyvalent, compact et transportable qui vous suit partout"}](https://www.infinyfit.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 **Beauté**
 
