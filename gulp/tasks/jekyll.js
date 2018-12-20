@@ -14,7 +14,7 @@ gulp.task('jekyll-build', function(done) {
   } else if (PREPRODUCTION){
     processEnv.JEKYLL_ENV = 'preproduction';
   } else {
-    processEnv.JEKYLL_ENV = 'development';
+    processEnv.JEKYLL_ENV = 'production';
   }
 
   browser.notify(JEKYLL.notification);
