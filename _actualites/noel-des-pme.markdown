@@ -99,7 +99,8 @@ une-ou-diaporama:
 
 |[![microcosme.png](/uploads/microcosme.png){:width="210"}{: alt="Microcosme, terrariums en kit livrés partout en France"}](https://www.ateliermicrocosme.com/){:target="_blank"}|[![glassvariations.png](/uploads/glassvariations.png){:width="210"}{: alt="Glass variations, déco et meubles en verre, de fabrication française"}](http://www.glassvariations.com/fr/){:target="_blank"}|[![lesrêvesdeviolaine.png](/uploads/lesr%C3%AAvesdeviolaine.png){:width="210"}{: alt="Posters et affiches pour décoration d'intérieur"}](https://www.reves-de-violaine.fr/){:target="_blank"}|
 
-|[![noepaper.png](/uploads/noepaper.png){:width="210"}{: alt="Noe paper, objets uniques de design textile, de décoration et de papeterie éco-responsable"}](https://www.noe-paper.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![noepaper.png](/uploads/noepaper.png){:width="210"}{: alt="Noe paper, objets uniques de design textile, de décoration et de papeterie éco-responsable"}](https://www.noe-paper.com/){:target="_blank"}|
+[![sweedou.png](/uploads/sweedou.png){:width="210"}{: alt="Sweedou, coussins chauffants made in Toulouse"}](http://sweedoo.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Sports**
