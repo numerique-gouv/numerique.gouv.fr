@@ -44,7 +44,12 @@ une-ou-diaporama:
 
 |[![maisonphilippesegond.png](/uploads/maisonphilippesegond.png){:width="210"}{: alt=" Desserts, chocolats et calissons artisanaux par un meilleur ouvrir de France"}](https://www.philippesegond.fr/){:target="_blank"}|[![abieslagrimus.png](/uploads/abieslagrimus.png){:width="210"}{: alt="Des produits naturels des Pyrénées récoltés en haut montaggne"}](https://www.abieslagrimus.com/){:target="_blank"}|[![babelicot.png](/uploads/babelicot.png){:width="210"}{: alt="Conserverie artisanale et bio qui milite pour le zéro déchet "}](http://babelicot.fr/){:target="_blank"}|
 
-|[![happyplantes.png](/uploads/happyplantes.png){:width="210"}{: alt="Les infusions Made in Auvergne d'Amaya avec des plantes cueillies et conditionnées à la main dans le Massif Central"}](https://www.happy-plantes.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![happyplantes.png](/uploads/happyplantes.png){:width="210"}{: alt="Les infusions Made in Auvergne d'Amaya avec des plantes cueillies et conditionnées à la main dans le Massif Central"}](https://www.happy-plantes.com/){:target="_blank"}|[![epicery.png](/uploads/epicery.png){:width="210"}{: alt="Epicery, vos courses livrées chez vous, vos artisans de quartier disponibles 24h/24"}](https://www.epicery.com/){:target="_blank"}|[![concoillote piguet.png](/uploads/concoillote%20piguet.png){:width="210"}{: alt="Cancoillotte élaboré artisanalement"}](http://www.piguetgastronomie.com/){:target="_blank"}|
+
+
+
+
+![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Vêtements, chaussures et accessoires**
