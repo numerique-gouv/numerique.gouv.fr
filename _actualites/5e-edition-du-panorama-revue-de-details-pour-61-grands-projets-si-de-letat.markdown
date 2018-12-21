@@ -43,4 +43,5 @@ Plus globalement, ces constats sont aussi l’occasion pour la DINSIC de rappele
 
 L’ensemble des données de cette édition et des précédentes également disponible en open data sur la plateforme [data.gouv.fr.](http://data.gouv.fr){: target="_blank"}
 
-**[Consulter la 5e édition du Panorama](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-son-systeme-dinformation/panorama-des-grands-projets-si-de-letat){: target="_blank"}** 
+**[Consulter la 5e édition du Panorama](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-son-systeme-dinformation/panorama-des-grands-projets-si-de-letat){: target="_blank"}**
+

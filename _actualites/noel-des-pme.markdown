@@ -77,7 +77,7 @@ une-ou-diaporama:
 |[![lamodetaurine.png](/uploads/lamodetaurine.png){:width="210"}{: alt="La boutique du passionné de la mode Taurine, Equestre, Bouvine et Camargue"}](https://www.modetaurine.com/){:target="_blank"}|[![tisac.png](/uploads/tisac.png){:width="210"}{: alt="Tisac, les sacs pratiques et utiles au quotidien"}](https://www.tisac.shop/){:target="_blank"}|[![lespetitssew.png](/uploads/lespetitssew.png){:width="210"}{: alt="Les petits sew, nœuds papillon pour toute la famille à personnaliser au gré de ses envies"}](http://www.lespetitssew.com/index.php/){:target="_blank"}|
 
 
-|[![Matcha.png](/uploads/Matcha.png){:width="210"}{: alt=" Marque de bijoux, créations originales, bijoux écoresponsables, modernes, mode éthique, made in France"}](https://www.matchaparis.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![Matcha.png](/uploads/Matcha.png){:width="210"}{: alt=" Marque de bijoux, créations originales, bijoux écoresponsables, modernes, mode éthique, made in France"}](https://www.matchaparis.com/){:target="_blank"}|[![VincentGarson.png](/uploads/VincentGarson.png){:width="210"}{: alt="Vincent Garson, haute maroquinerie pour homme, made in France"}](http://www.vincentgarson.com/){:target="_blank"}|[![Justine B.png](/uploads/Justine%20B.png){:width="210"}{: alt="Justine B, mode et prêt-à-porter femme, 100% Français et éthique"}](http://www.justineb.fr/){:target="_blank"}|
 
 
 **Maison**
@@ -99,7 +99,7 @@ une-ou-diaporama:
 
 |[![microcosme.png](/uploads/microcosme.png){:width="210"}{: alt="Microcosme, terrariums en kit livrés partout en France"}](https://www.ateliermicrocosme.com/){:target="_blank"}|[![glassvariations.png](/uploads/glassvariations.png){:width="210"}{: alt="Glass variations, déco et meubles en verre, de fabrication française"}](http://www.glassvariations.com/fr/){:target="_blank"}|[![lesrêvesdeviolaine.png](/uploads/lesr%C3%AAvesdeviolaine.png){:width="210"}{: alt="Posters et affiches pour décoration d'intérieur"}](https://www.reves-de-violaine.fr/){:target="_blank"}|
 
-|[![noepaper.png](/uploads/noepaper.png){:width="210"}{: alt="Noe paper, objets uniques de design textile, de décoration et de papeterie éco-responsable"}](https://www.noe-paper.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![noepaper.png](/uploads/noepaper.png){:width="210"}{: alt="Noe paper, objets uniques de design textile, de décoration et de papeterie éco-responsable"}](https://www.noe-paper.com/){:target="_blank"}|[![sweedou-46d7d4.png](/uploads/sweedou-46d7d4.png){:width="210"}{: alt="Sweedou, coussins chauffants made in Toulouse"}](http://www.sweedoo.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Sports**
