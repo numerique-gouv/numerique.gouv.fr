@@ -46,7 +46,7 @@ une-ou-diaporama:
 
 |[![happyplantes.png](/uploads/happyplantes.png){:width="210"}{: alt="Les infusions Made in Auvergne d'Amaya avec des plantes cueillies et conditionnées à la main dans le Massif Central"}](https://www.happy-plantes.com/){:target="_blank"}|[![epicery.png](/uploads/epicery.png){:width="210"}{: alt="Epicery, vos courses livrées chez vous, vos artisans de quartier disponibles 24h/24"}](https://www.epicery.com/){:target="_blank"}|[![concoillote piguet.png](/uploads/concoillote%20piguet.png){:width="210"}{: alt="Cancoillotte élaboré artisanalement"}](http://www.piguetgastronomie.com/){:target="_blank"}|
 
-
+|[![bernardloiseau.png](/uploads/bernardloiseau.png){:width="210"}{: alt="Les infusions Made in Auvergne d'Amaya avec des plantes cueillies et conditionnées à la main dans le Massif Central"}](https://www.happy-plantes.com/){:target="_blank"}|
 
 
 ![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
