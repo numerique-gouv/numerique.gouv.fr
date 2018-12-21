@@ -105,8 +105,7 @@ une-ou-diaporama:
 
 |[![noepaper.png](/uploads/noepaper.png){:width="210"}{: alt="Noe paper, objets uniques de design textile, de décoration et de papeterie éco-responsable"}](https://www.noe-paper.com/){:target="_blank"}|[![sweedou-46d7d4.png](/uploads/sweedou-46d7d4.png){:width="210"}{: alt="Sweedou, coussins chauffants made in Toulouse"}](http://www.sweedoo.com/){:target="_blank"}|[![cristel.png](/uploads/cristel.png){:width="210"}{: alt="Cristel, depuis plus de 30 ans, fabrication d'articles de cuisson"}](https://www.cristel.com/){:target="_blank"}|
 
-|[![verrecreations.png](/uploads/verrecreations.png){:width="210"}{: alt="Verre créations, gravure sur verre personnalisé"}](https://www.verrecreations.fr/){:target="_blank"}|
-|[![kataba.png](/uploads/kataba.png){:width="210"}{: alt="Kataba le mobilier à impact positif"}](https://www.kataba.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![verrecreations.png](/uploads/verrecreations.png){:width="210"}{: alt="Verre créations, gravure sur verre personnalisé"}](https://www.verrecreations.fr/){:target="_blank"}|[![kataba.png](/uploads/kataba.png){:width="210"}{: alt="Kataba le mobilier à impact positif"}](https://www.kataba.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Sports**
