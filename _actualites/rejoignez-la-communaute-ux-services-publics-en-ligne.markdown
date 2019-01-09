@@ -1,6 +1,6 @@
 ---
 title: Rejoignez la communauté UX–services publics en ligne !
-date: 2018-12-19 12:56:00 +01:00
+date: 2019-01-09 12:56:00 +01:00
 categories:
 - Article
 tags:
