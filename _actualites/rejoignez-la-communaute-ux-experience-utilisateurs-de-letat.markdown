@@ -1,6 +1,11 @@
 ---
 title: Rejoignez la communauté UX–expérience utilisateurs de l’Etat !
 date: 2019-01-09 12:56:00 +01:00
+categories:
+- Article
+tags:
+- UX
+- communauté
 chapeau-text: Vous souhaitez améliorer l’expérience des utilisateurs de vos services
   publics en ligne ? Ou partager votre expertise en matière d’UX design ? Rejoignez
   la communauté UX-expérience utilisateurs de l’Etat créée par la DINSIC ! Et ensemble
