@@ -17,10 +17,7 @@ une-ou-diaporama:
 
 Placer l’utilisateur au centre. Si l’expression paraît aujourd’hui galvaudée, elle n’en demeure pas moins une nécessité, et pour la DINSIC, un principe d’action fort. Comment créer des services efficaces si ce n’est en prenant en compte les besoins et retours des principaux intéressés ? A l’ère du numérique et de services privés toujours plus innovants, l’expérience vécue par les Français sur les sites de démarches administratives doit se montrer aussi intuitive, fluide et efficace, à la hauteur de leurs attentes.
 
-<figure class='image-right' style='width: 50%;'><img src="/uploads/lancement-communaute-UX.jpeg"/><figcaption>Lancement de la communauté, le 21 novembre 2018</figcaption>
-</figure>La DINSIC lance ainsi au sein de l’Etat une communauté dédiée à l’UX (en anglais *user experience*), l’expérience utilisateurs des services publics en ligne. Acte de création de cette communauté, 90 experts des ministères, d’agences privées et d’indépendants se sont rassemblés en novembre dernier à l’occasion de la Semaine de l’innovation publique, à Paris. Designers Italia, la communauté équivalente du gouvernement italien, est venue présenter ses travaux et son organisation. La direction interministérielle de la transformation publique (DITP) a quant à elle fait découvrir la nouvelle version de [Comment faire](http://comment-faire.modernisation.gouv.fr/){: target="_blank" }, la boîte à outils en ligne du design de services publics.
-
-Prochaine rencontre de la communauté prévue en janvier 2019.
+La DINSIC lance ainsi au sein de l’Etat une communauté dédiée à l’UX (en anglais *user experience*, l’expérience utilisateurs) des services publics en ligne. 
 
 ### Pourquoi constituer une communauté UX-services publics en ligne ?
 {: .margin-top-2 .margin-bottom-2} 
