@@ -39,7 +39,7 @@ Sont concernés :
 *  Les conditions d’organisation et d’exercice des activités sportives ;
 *  Le répertoire national des élus ;
 *  Les registres des chambres d’hôtes et gîtes ; 
-*  La base des permis de construire ; 
+*  La base des permis de construire.
 
 Dès à présent, les administrations sont donc libres de communiquer ces données sans avoir à les anonymiser au préalable ; un pas de plus pour la **transparence de l’administration.** Le périmètre des données considérées comme essentielles à l’information légitime des citoyens français s’élargit, et par là même, **le potentiel de création de services numériques innovants grâce aux données.**
   
