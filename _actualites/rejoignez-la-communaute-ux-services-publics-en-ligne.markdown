@@ -11,6 +11,8 @@ chapeau-text: Vous souhaitez améliorer l’expérience des utilisateurs de vos 
   publics en ligne ? Ou partager votre expertise en matière d’UX design ? Rejoignez
   la communauté UX-expérience utilisateurs de l’Etat créée par la DINSIC ! Et ensemble
   fabriquons des services publics numériques centrés sur l’utilisateur.
+une-ou-diaporama:
+- image: "/uploads/Entete-article-communaute-UX.jpg"
 ---
 
 Placer l’utilisateur au centre. Si l’expression paraît aujourd’hui galvaudée, elle n’en demeure pas moins une nécessité, et pour la DINSIC, un principe d’action fort. Comment créer des services efficaces si ce n’est en prenant en compte les besoins et retours des principaux intéressés ? A l’ère du numérique et de services privés toujours plus innovants, l’expérience vécue par les Français sur les sites de démarches administratives doit se montrer aussi intuitive, fluide et efficace, à la hauteur de leurs attentes.
