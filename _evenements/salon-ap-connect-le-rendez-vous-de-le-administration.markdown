@@ -48,7 +48,7 @@ Avec :
 * François ZOCCHETTO, maire de Laval, président de Laval agglomération 
 
 
-#### **Le tout démat’ : comment, pourquoi, quels enjeux ?** ####
+#### **Le tout démat’ : un levier de performance des services publics** ####
 {: .margin-top-3 .margin-bottom-1}
 
 *Mardi 29 janvier, 16h - 17h15*
