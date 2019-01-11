@@ -9,8 +9,8 @@ tags:
 - services publics en ligne
 chapeau-text: Vous souhaitez améliorer l’expérience des utilisateurs de vos services
   publics en ligne ? Ou partager votre expertise en matière d’UX design ? Rejoignez
-  la communauté UX-expérience utilisateurs de l’Etat créée par la DINSIC ! Et ensemble
-  fabriquons des services publics numériques centrés sur l’utilisateur.
+  la communauté UX–services publics en ligne créée par la DINSIC ! Et ensemble fabriquons
+  des services publics numériques centrés sur l’utilisateur.
 une-ou-diaporama:
 - image: "/uploads/Entete-article-communaute-UX.jpg"
 ---
