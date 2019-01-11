@@ -41,7 +41,7 @@ champs_informations:
 L'intelligence artificielle (IA) vise à aider les agents et automatiser les tâches répétitives, en apprenant à partir de l'expérience et des orientations de l'agent. Elle peut aider à détecter des biais et des inégalités. Le gouvernement souhaite que l’État se saisisse pleinement du potentiel de l’IA et l’intègre dans la conduite de ses missions : il met en place des outils pour l'IA au service des agents (appel à manifestation d’intérêt IA, « Lab IA », etc.) afin qu'elle se déploie en interaction avec les métiers. 
 
 Avec :
-* **Bertrand PAILHÈS, coordonnateur national coordonnateur national pour la stratégie d'intelligence artificielle, DINSIC**
+* **Bertrand PAILHÈS, coordonnateur national pour la stratégie d'intelligence artificielle, DINSIC**
 * Jean-Martin JASPERS, directeur, centre des hautes études du ministère de l'Intérieur 
 * Carine LOHÉ, directrice de la production, My serious game 
 * Loïc HERVÉ, sénateur de la Haute-Savoie 
