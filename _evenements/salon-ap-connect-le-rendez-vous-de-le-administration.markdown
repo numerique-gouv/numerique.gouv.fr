@@ -31,9 +31,9 @@ champs_informations:
 ---
 
 
-**Au programme :**
+#### **Programme des conférences :**
 
-#### **Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?**
+### **Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?**
 {: .margin-top-2 .margin-bottom-1}
 
 *Mardi 29 janvier, 11h - 12h30*
@@ -48,7 +48,7 @@ Avec :
 * François ZOCCHETTO, maire de Laval, président de Laval agglomération 
 
 
-#### **Le tout démat’ : un levier de performance des services publics**
+### **Le tout démat’ : un levier de performance des services publics**
 {: .margin-top-3 .margin-bottom-1}
 
 *Mardi 29 janvier, 16h - 17h15*
@@ -61,7 +61,7 @@ Avec :
 
 
 
-#### **Quelle organisation numérique des territoires pour tirer parti du big data territorial ?**
+### **Quelle organisation numérique des territoires pour tirer parti du big data territorial ?**
 {: .margin-top-3 .margin-bottom-1}
 *Mercredi 30 janvier, 10h30 - 11h45*
 
@@ -80,7 +80,7 @@ Avec :
 
 
 
-#### **Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique**
+### **Les nouvelles méthodes de travail dans les administrations publiques à l’ère du numérique**
 {: .margin-top-3 .margin-bottom-1}
 *Mercredi 30 janvier, 14h00 - 15h30*
 
@@ -95,7 +95,7 @@ Avec :
 
 
 
-#### **Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ?**
+### **Les enjeux règlementaires liés aux données des territoires : une finalité ou un moyen ?**
 {: .margin-top-3 .margin-bottom-1}
 *Mercredi 30 janvier, 16h00-17h15*
 
@@ -108,4 +108,7 @@ Avec :
 * Fabrice IDIER, Responsable de la sécurité des systèmes d’information, délégué à la protection des données, au Conseil départemental de Seine-Saint-Denis, adhérent au Club de la sécurité de l’information français (CLUSIF)
 
 
+#### **Démonstrations d'outils et produits DINSIC au village mutualisation :**
+{: .margin-top-2}
 
+La DINSIC exposera ses outils et méthodes sur le stand F5 du village mutualisation, sur toute la durée du salon. Parmi les projets à découvrir : FranceConnect, le programme Entrepreneur d'Intérêt Général, 
