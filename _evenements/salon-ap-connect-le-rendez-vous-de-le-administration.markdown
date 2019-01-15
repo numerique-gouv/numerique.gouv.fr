@@ -6,24 +6,26 @@ categories:
 tags:
 - transformation numérique
 - Paris
-chapeau-text: "La direction interministérielle du numérique (DINSIC) est partenaire
-  de la 2ème édition d'AP Connect, le salon professionnel de la transition numérique
-  des administrations publiques. L'occasion pour les agents publics, éditeurs de solutions
-  numériques et startups de se réunir pour échanger, débattre et trouver des solutions
-  aux enjeux numériques des administrations centrales et des collectivités territoriales.
-  \n"
+chapeau-text: 'La direction interministérielle du numérique (DINSIC) est partenaire
+  de la 2ème édition d''AP Connect, le salon professionnel de la transition numérique
+  des administrations publiques. L''occasion pour les agents publics, éditeurs de
+  solutions numériques et startups de se réunir pour échanger, débattre et trouver
+  des solutions aux enjeux numériques des administrations centrales et des collectivités
+  territoriales. Découvrez les temps forts de sa participation !
+
+'
 une-ou-diaporama:
 - image: "/uploads/181218_APC19_visuel-DINSIC.jpg"
   Key: 
 event_start_date: 2019-01-29 00:00:00 +01:00
 event_end_date: 2019-01-30 00:00:00 +01:00
 lieu: Espace Grande Arche
-adresse: Tunnel de Nanterre-La Défense, 92044 La Défense
+adresse: Tunnel de Nanterre - La Défense, Paris La Défense
 afficher_la_carte: true
 acces:
-- type: 'Métro et RER : '
+- type: 'Metro : '
   lignes:
-  - nom: Ligne 1 et RER A, Station La Défense Grande Arche
+  - nom: Ligne 1, Station La Défense Grande Arche
 champs_informations:
 - intitule: Modalités
   contenu: 'Inscription gratuite obligatoire '
@@ -31,7 +33,7 @@ champs_informations:
 ---
 
 
-**Au programme :**
+### **Programme des conférences :**
 
 #### **Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?**
 {: .margin-top-2 .margin-bottom-1}
@@ -108,4 +110,7 @@ Avec :
 * Fabrice IDIER, Responsable de la sécurité des systèmes d’information, délégué à la protection des données, au Conseil départemental de Seine-Saint-Denis, adhérent au Club de la sécurité de l’information français (CLUSIF)
 
 
+### **Des démos DINSIC dans l'espace exposants  :**
 
+la DINSIC exposera ses outils et méthodes dans l'espace exposants du salon, sur le stand F5 de 9h à 18h.
+Parmi les projets à découvrir : FranceConnect, le programme Entrepreneur d'Intérêt Général, demarches-simplifiees.fr ou encore la qualité des services en ligne...  
