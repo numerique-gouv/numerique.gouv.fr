@@ -18,7 +18,7 @@ une-ou-diaporama:
 event_start_date: 2019-01-29 00:00:00 +01:00
 event_end_date: 2019-01-30 00:00:00 +01:00
 lieu: Espace Grande Arche
-adresse: Tunnel de Nanterre-La Défense, Paris La Défense
+adresse: Tunnel de Nanterre - La Défense, Paris La Défense
 afficher_la_carte: false
 acces:
 - type: 'Metro : '
