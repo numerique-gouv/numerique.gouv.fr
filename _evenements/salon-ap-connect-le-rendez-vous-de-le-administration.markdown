@@ -111,4 +111,4 @@ Avec :
 #### **Démonstrations d'outils et produits DINSIC au village mutualisation :**
 {: .margin-top-2}
 
-La DINSIC exposera ses outils et méthodes sur le stand F5 du village mutualisation, sur toute la durée du salon. Parmi les projets à découvrir : FranceConnect, le programme Entrepreneur d'Intérêt Général, 
+La DINSIC exposera ses outils et méthodes sur le stand F5 du village mutualisation, sur toute la durée du salon. À découvrir : FranceConnect, le programme Entrepreneur d'Intérêt Général, accessibilité des services en ligne, incubateur de services numériques...
