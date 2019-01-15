@@ -31,7 +31,7 @@ champs_informations:
 ---
 
 
-### **Programme des conférences :**
+### **Programme des conférences **
 
 #### **Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?**
 {: .margin-top-2 .margin-bottom-1}
@@ -108,7 +108,7 @@ Avec :
 * Fabrice IDIER, Responsable de la sécurité des systèmes d’information, délégué à la protection des données, au Conseil départemental de Seine-Saint-Denis, adhérent au Club de la sécurité de l’information français (CLUSIF)
 
 
-### **Démonstrations d'outils et produits DINSIC au village mutualisation :**
+### **Démonstrations d'outils et produits DINSIC au village mutualisation **
 {: .margin-top-2}
 
 La DINSIC exposera ses outils et méthodes sur le stand F5 du village mutualisation, sur toute la durée du salon. À découvrir : FranceConnect, le programme Entrepreneur d'Intérêt Général, accessibilité des services en ligne, incubateur de services numériques...
