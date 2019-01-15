@@ -31,7 +31,7 @@ champs_informations:
 ---
 
 
-### **Programme des conférences **
+### **Programme des conférences**
 
 #### **Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?**
 {: .margin-top-2 .margin-bottom-1}
