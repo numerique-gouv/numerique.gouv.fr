@@ -21,9 +21,9 @@ lieu: Lieu
 adresse: Espace Grande Arche, 92044 Paris La Défense
 afficher_la_carte: true
 acces:
-- type: 'Metro : '
+- type: 'Métro et RER : '
   lignes:
-  - nom: Ligne 1, Station La Défense Grande Arche
+  - nom: Ligne 1 et RER A, Station La Défense Grande Arche
 champs_informations:
 - intitule: Modalités
   contenu: 'Inscription gratuite obligatoire '
