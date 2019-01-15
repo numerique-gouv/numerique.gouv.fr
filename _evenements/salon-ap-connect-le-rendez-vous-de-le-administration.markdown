@@ -18,12 +18,12 @@ une-ou-diaporama:
 event_start_date: 2019-01-29 00:00:00 +01:00
 event_end_date: 2019-01-30 00:00:00 +01:00
 lieu: Espace Grande Arche
-adresse: Tunnel de Nanterre-La Défense, Paris La Défense
-afficher_la_carte: false
+adresse: Tunnel de Nanterre-La Défense, 92044 La Défense
+afficher_la_carte: true
 acces:
-- type: 'Metro : '
+- type: 'Métro et RER : '
   lignes:
-  - nom: Ligne 1, Station La Défense Grande Arche
+  - nom: Ligne 1 et RER A, Station La Défense Grande Arche
 champs_informations:
 - intitule: Modalités
   contenu: 'Inscription gratuite obligatoire '
