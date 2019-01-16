@@ -32,10 +32,13 @@ Le programme EIG est porté par la mission **Etalab** au sein de la **direction 
 > Consulter  [l’appel à candidature](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html){: target="_blank"}
 > {: .lien-important}
 
-*Des photos et contacts pour témoignages peuvent être transmis sur demande.*
+
 
 > Les « geeks » (développeurs, datascientists, designers) ne se destinent désormais plus seulement au secteur privé. Aujourd'hui, l'État et les administrations ont de nombreux projets agiles à mettre en œuvre en utilisant les données pour transformer les politiques publiques et la vie des français. C’est pour cela que nous avons besoin de talents du numérique et c'est tout le sens de ce programme.
 > {: .citation}
 
 > Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du Numérique.
 > {: .auteur-citation}
+
+
+*Des photos et contacts pour témoignages peuvent être transmis sur demande.*
