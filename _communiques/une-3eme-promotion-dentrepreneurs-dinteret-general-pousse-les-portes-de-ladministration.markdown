@@ -9,6 +9,8 @@ tags:
 chapeau-text: 'Ils ont 10 mois pour relever le défi. L’État accueille à partir d’aujourd’hui
   32 nouveaux entrepreneurs d’intérêt général, qui ont pour mission de transformer
   l’administration de l’intérieur grâce à leurs compétences numériques de pointe. '
+une-ou-diaporama:
+- image: "/uploads/Entete-article-EIG-Promotion-3-v1.jpg"
 ---
 
 **Une aventure unique au cœur de l’État**
@@ -22,9 +24,9 @@ Au programme de cette 3ème promotion : faciliter l’accueil des réfugiés, so
 
 Le programme EIG est porté par la **direction interministérielle du numérique et du système d’information de l’État (DINSIC).** Il est financé par le **Programme d'investissements d'avenir,** piloté par **le Secrétariat général pour l'investissement** et **la Caisse des dépôts et consignations.**
 
-Découvrir [les défis et les profils de la 3ème promotion EIG
+> Découvrir [les défis et les profils de la 3ème promotion EIG
 ](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html)
-
+{: .lien-important}
 
 > ### Le programme Entrepreneur.e d’intérêt général en bref
 > * 15 défis d’intérêt général
@@ -33,5 +35,7 @@ Découvrir [les défis et les profils de la 3ème promotion EIG
 > * Un accompagnement régulier de la promotion
 {: .encadre}
 
-« Nous ouvrons les portes des administrations aux talents extérieurs pour mettre leurs compétences et expériences au service de l’intérêt général. Bienvenue à la 3 ème promotion, experts en données, en intelligence artificielle ou développeurs, réunis pour apporter leur vision, leur méthode, leur savoir pour un impact positif sur notre santé, notre agriculture ou encore notre justice. »
+> *Nous ouvrons les portes des administrations aux talents extérieurs pour mettre leurs compétences et expériences au service de l’intérêt général. Bienvenue à la 3 ème promotion, experts en données, en intelligence artificielle ou développeurs, réunis pour apporter leur vision, leur méthode, leur savoir pour un impact positif sur notre santé, notre agriculture ou encore notre justice.*
+{: .citation}
 Mounir Mahjoubi, secrétaire d’Etat chargé du Numérique
+{: .auteur-citation}
