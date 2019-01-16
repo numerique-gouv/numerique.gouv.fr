@@ -24,7 +24,7 @@ Au programme de cette 3ème promotion : faciliter l’accueil des réfugiés, so
 
 Le programme EIG est porté par la **direction interministérielle du numérique et du système d’information de l’État (DINSIC).** Il est financé par le **Programme d'investissements d'avenir,** piloté par **le Secrétariat général pour l'investissement** et **la Caisse des dépôts et consignations.**
 
-> Découvrir [les défis et les profils de la 3ème promotion EIG
+> [Découvrir les défis et les profils de la 3ème promotion EIG
 ](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html)
 {: .lien-important}
 
