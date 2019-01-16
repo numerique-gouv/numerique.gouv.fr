@@ -12,6 +12,7 @@ chapeau-text: 'Ils ont 10 mois pour relever le défi. L’État accueille à par
   l’administration de l’intérieur grâce à leurs compétences numériques de pointe. '
 une-ou-diaporama:
 - image: "/uploads/Entete-article-EIG-Promotion-3-v1.jpg"
+File: "/uploads/CP_Mounir_Mahjoubi_accueille_la_3e_promotion_dentrepreneurs_dinteret_general-76bd02.pdf"
 ---
 
 #### **Une aventure unique au cœur de l’État**
