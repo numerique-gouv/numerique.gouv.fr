@@ -13,12 +13,12 @@ une-ou-diaporama:
 - image: "/uploads/Entete-article-EIG-Promotion-3-v1.jpg"
 ---
 
-**Une aventure unique au cœur de l’État**
+#### **Une aventure unique au cœur de l’État**
 
 Depuis 2017, le programme Entrepreneur d’Intérêt Général (EIG) ouvre les portes de l’État à des experts du numérique (datascientists, designers, développeuses et développeurs) afin de relever en 10 mois un défi ciblé au sein d’une administration publique.
 Sélectionnés parmi 170 candidats, les 32 EIG de cette nouvelle promotion intègrent leurs administrations en équipe de 2 ou 3. Pendant 10 mois, ils travailleront en étroite collaboration avec leurs mentors (agents de leur ministère d’accueil) et bénéficieront d’un accompagnement stratégique, technique et méthodologique. L'objectif est double : livrer une solution viable pour relever leur défi tout en diffusant des outils et approches innovantes au sein de leurs administrations d'accueil.  
 
-**Des défis à fort impact citoyen**
+#### **Des défis à fort impact citoyen**
 
 Au programme de cette 3ème promotion : faciliter l’accueil des réfugiés, soutenir l'agriculture biologique, assurer une juste indemnisation des préjudices corporels, améliorer la prise en charge des maladies chroniques, ou encore améliorer l’accès au droit... des défis qui mettent les données et l’innovation technologique au service de l’amélioration de la vie des citoyens. 
 
@@ -37,5 +37,5 @@ Le programme EIG est porté par la **direction interministérielle du numérique
 
 > *Nous ouvrons les portes des administrations aux talents extérieurs pour mettre leurs compétences et expériences au service de l’intérêt général. Bienvenue à la 3 ème promotion, experts en données, en intelligence artificielle ou développeurs, réunis pour apporter leur vision, leur méthode, leur savoir pour un impact positif sur notre santé, notre agriculture ou encore notre justice.*
 {: .citation}
-Mounir Mahjoubi, secrétaire d’Etat chargé du Numérique
+> Mounir Mahjoubi, secrétaire d’Etat chargé du Numérique
 {: .auteur-citation}
