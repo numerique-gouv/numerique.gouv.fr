@@ -8,11 +8,11 @@ tags:
 - entrepreneur.e d’intérêt général
 - Données ouvertes
 - datascience
+une-ou-diaporama:
+- image: "/uploads/EIG3-candidature-ok.png"
 files:
 - lien: "/uploads/CP_EIG3_Appel_a_candidatures.pdf"
   nom: Télécharger le communiqué de presse
-une-ou-diaporama:
-- image: "/uploads/EIG3-candidature-ok.png"
 ---
 
 10 mois, 15 défis et 1 mission : muscler la **transition numérique de l’État**. Un nouvel appel à candidature est aujourd’hui lancé pour recruter 32 nouveaux **entrepreneurs d’intérêt général** qui depuis 2017, transforment l’administration de l’intérieur grâce à leurs **compétences numériques pointues**.
@@ -29,7 +29,7 @@ Au programme de cette **3ème promotion** : faciliter les **démarches des réfu
 
 Le programme EIG est porté par la mission **Etalab** au sein de la **direction interministérielle du numérique et du système d’information de l’État (DINSIC)**. Il est financé par le **Programme d'investissements d'avenir**, piloté par le **Secrétariat général pour l'investissement** et la **Caisse des dépôts et consignations**.
 
-> Consulter [l’appel à candidature](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html){: target="_blank"}
+> Consulter  [l’appel à candidature](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html){: target="_blank"}
 > {: .lien-important}
 
 *Des photos et contacts pour témoignages peuvent être transmis sur demande.*
