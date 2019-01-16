@@ -6,6 +6,7 @@ categories:
 - Communiqué de presse
 tags:
 - entrepreneur.e d’intérêt général
+file: "/uploads/CP_Mounir_Mahjoubi_accueille_la_3e_promotion_dentrepreneurs_dinteret_general.pdf"
 chapeau-text: 'Ils ont 10 mois pour relever le défi. L’État accueille à partir d’aujourd’hui
   32 nouveaux entrepreneurs d’intérêt général, qui ont pour mission de transformer
   l’administration de l’intérieur grâce à leurs compétences numériques de pointe. '
