@@ -33,7 +33,7 @@ champs_informations:
 
 ### **Programme des conférences**
 
-#### **Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?**
+#### **Conférence inaugurale - Quel sera le rôle de l’agent public avec la révolution de l’IA ?**
 {: .margin-top-2 .margin-bottom-1}
 
 *Mardi 29 janvier, 11h - 12h30*
