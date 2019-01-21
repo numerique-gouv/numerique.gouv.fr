@@ -31,9 +31,9 @@ champs_informations:
 ---
 
 
-### **Programme des conférences**
+### **Agoras et conférences**
 
-#### **Conférence inaugurale - L’IA va-t-elle révolutionner le rôle de l'agent ?**
+#### **Conférence inaugurale - Quel sera le rôle de l’agent public avec la révolution de l’IA ?**
 {: .margin-top-2 .margin-bottom-1}
 
 *Mardi 29 janvier, 11h - 12h30*
@@ -108,7 +108,7 @@ Avec :
 * Fabrice IDIER, Responsable de la sécurité des systèmes d’information, délégué à la protection des données, au Conseil départemental de Seine-Saint-Denis, adhérent au Club de la sécurité de l’information français (CLUSIF)
 
 
-### **Démonstrations d'outils et produits DINSIC au village mutualisation**
+### **Démonstrations d'outils et produits DINSIC - Stand F5**
 {: .margin-top-2}
 
-La DINSIC exposera ses outils et méthodes sur le stand F5 du village mutualisation, sur toute la durée du salon. À découvrir : FranceConnect, le programme Entrepreneur d'Intérêt Général, accessibilité des services en ligne, incubateur de services numériques...
+La DINSIC exposera ses outils et méthodes sur le stand F5 pendant toute la durée du salon. À découvrir : FranceConnect, le programme Entrepreneur d'Intérêt Général, accessibilité des services en ligne, incubateur de services numériques [beta.gouv.fr](https://beta.gouv.fr/), [programme DCANT](http://references.modernisation.gouv.fr/programme-dcant)...
