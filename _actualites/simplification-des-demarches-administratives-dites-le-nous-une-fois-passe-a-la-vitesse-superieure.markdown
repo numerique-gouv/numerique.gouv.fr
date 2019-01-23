@@ -18,7 +18,19 @@ Publié le 21 janvier 2018 au Journal officiel, le **décret « relatif aux éch
 
 #### Développer les échanges de données entre administrations
 
-Le décret organise les conditions d’échange d’informations entre administrations et précise les domaines et les procédures concernées. **Pour les particuliers :** les procédures relevant de l’emploi, du chômage, de l’identité (état civil), de la santé et de la solidarité (aides sociales, handicap, perte d'autonomie, retraite, sécurité sociale, etc.). **Pour les entreprises,** sont concernées les procédures relevant de réglementations particulières (en matière d'agriculture et de forêt, de bâtiments et de travaux publics…) ; des aides publiques ; de la création, cessation, modification, reprise et transmission de l’entreprise ; de la fiscalité ; de la gestion des ressources humaines et la formation professionnelle ; de la législation sur les baux commerciaux et professionnels ; de la comptabilité, le financement et l’assurance de l’entreprise ; des marchés publics (pour ce qui concerne la constitution du dossier de candidature) et de la règlementation en matière commerciale.
+Le décret organise les conditions d’échange d’informations entre administrations et précise les domaines et les procédures concernées. **Pour les particuliers, sont concernées les procédures relevant :** 
+* de l’emploi, du chômage, de l’identité (état civil)
+* de la santé et de la solidarité (aides sociales, handicap, perte d'autonomie, retraite, sécurité sociale, etc.)
+
+**Pour les entreprises, sont concernées les procédures relevant :** 
+* de réglementations particulières (en matière d'agriculture et de forêt, de bâtiments et de travaux publics…) 
+* des aides publiques 
+* de la création, cessation, modification, reprise et transmission de l’entreprise 
+* de la fiscalité 
+* de la gestion des ressources humaines et la formation professionnelle * de la législation sur les baux commerciaux et professionnels 
+* de la comptabilité, le financement et l’assurance de l’entreprise 
+* des marchés publics (pour ce qui concerne la constitution du dossier de candidature) 
+* de la règlementation en matière commerciale
 
 L’administration sera tenue d'informer l’usager sur ces échanges en lui indiquant les informations qui lui sont nécessaires pour traiter sa démarche, les informations qu’elle se procure auprès d’autres administrations et d’assurer la traçabilité des échanges jusqu’à 36 mois suivant la démarche. 
 
