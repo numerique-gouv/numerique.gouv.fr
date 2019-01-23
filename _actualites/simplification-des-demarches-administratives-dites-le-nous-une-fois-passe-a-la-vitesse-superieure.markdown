@@ -44,7 +44,14 @@ Pour organiser l’ensemble de ces échanges d’informations, les administratio
 
 #### Réduire le nombre d’informations et de pièces justificatives demandées aux usagers 
 
-Un deuxième décret fixe quant à lui la « liste des pièces justificatives que le public n'est plus tenu de produire à l'appui des procédures administratives » dès lors que les échanges organisés par le premier décret sont effectifs. Ainsi, dans le cadre des procédures de marchés publics et de demandes d’aides publique, les entreprises et organismes à but non lucratif, ne seront plus tenus de transmettre un certain nombre de pièces telles que l’attestation de régularité fiscale délivrée par la direction générale des finances publiques, l'extrait d'immatriculation au registre du commerce et des sociétés et les statuts de la personne morale, les attestations de régularité sociale et de vigilance délivrées par les organismes chargés du recouvrement des cotisations sociales, la carte professionnelle d'entrepreneur de travaux publics délivrée par la Fédération nationale des travaux publics, ou encore le certificat attestant la régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés. Les particuliers, quant à eux n’auront plus à fournir à l’appui de leurs démarches : l’avis d’imposition à l'impôt sur le revenu, l'attestation de droit délivrée par les organismes de sécurité sociale ou un justificatif d’identité, lorsqu’il est fait usage du dispositif « FranceConnect » mis en œuvre par la DINSIC.
+Un deuxième décret fixe quant à lui la **« liste des pièces justificatives que le public n'est plus tenu de produire à l'appui des procédures administratives »** dès lors que les échanges organisés par le premier décret sont effectifs. Ainsi, dans le cadre des procédures de marchés publics et de demandes d’aides publique, les entreprises et organismes à but non lucratif, ne seront plus tenus de transmettre un certain nombre de pièces telles que :
+* l’attestation de régularité fiscale délivrée par la direction générale des finances publiques
+* l'extrait d'immatriculation au registre du commerce et des sociétés et les statuts de la personne morale
+* les attestations de régularité sociale et de vigilance délivrées par les organismes chargés du recouvrement des cotisations sociales
+* la carte professionnelle d'entrepreneur de travaux publics délivrée par la Fédération nationale des travaux publics
+* le certificat attestant la régularité de la situation de l'employeur au regard de l'obligation d'emploi des travailleurs handicapés
+
+Les particuliers, quant à eux n’auront plus à fournir à l’appui de leurs démarches : l’avis d’imposition à l'impôt sur le revenu, l'attestation de droit délivrée par les organismes de sécurité sociale ou un justificatif d’identité, lorsqu’il est fait usage du dispositif « FranceConnect » mis en œuvre par la DINSIC.
 
 #### Une expérimentation dès mars 2019
 
