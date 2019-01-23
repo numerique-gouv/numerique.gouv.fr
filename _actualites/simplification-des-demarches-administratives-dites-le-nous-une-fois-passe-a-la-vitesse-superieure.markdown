@@ -3,6 +3,10 @@ title: 'Simplification des démarches administratives : “Dites-le-nous une foi
   à la vitesse supérieure'
 date: 2019-01-23 14:20:00 +01:00
 published: false
+tags:
+- Simplification
+- API
+- Dites-le-nous une fois
 chapeau-text: Le gouvernement souhaite mettre la confiance et la simplicité au cœur
   des relations entre les citoyens et  leurs administrations. Cinq mois après la promulgation
   de la [« loi pour un État au service d'une société de confiance »,](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=853C8147BBC226E07049DF2F6256B6B1.tplgfr26s_1?cidTexte=JORFTEXT000037307624&categorieLien=id)
@@ -18,7 +22,8 @@ Publié le 21 janvier 2018 au Journal officiel, le **décret « relatif aux éch
 
 #### Développer les échanges de données entre administrations
 
-Le décret organise les conditions d’échange d’informations entre administrations et précise les domaines et les procédures concernées. **Pour les particuliers, sont concernées les procédures relevant :** 
+Le décret organise les conditions d’échange d’informations entre administrations et précise les domaines et les procédures concernées.
+**Pour les particuliers, sont concernées les procédures relevant :** 
 * de l’emploi, du chômage, de l’identité (état civil)
 * de la santé et de la solidarité (aides sociales, handicap, perte d'autonomie, retraite, sécurité sociale, etc.)
 
@@ -46,8 +51,8 @@ Ce décret fixe également les modalités d’application d’une expérimentati
 Y participeront, les collectivités territoriales de plus de 3 500 habitants, les services de l'État et les autres administrations de 50 agents et plus.
 
 
-> [Consultez le décret du 18 janvier 2019 relatif aux échanges d'informations et de données entre administrations dans le cadre des démarches administratives et à l'expérimentation prévue par l'article 40 de la loi n° 2018-727 du 10 août 2018 pour un État au service d'une société de confiance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038029589&dateTexte=&categorieLien=id)
+> [Consultez le décret du 18 janvier 2019 relatif aux échanges d'informations et de données entre administrations dans le cadre des démarches administratives](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038029589&dateTexte=&categorieLien=id)
 {: .lien-important}
 
-> [Consultez le Décret du 18 janvier 2019 fixant la liste des pièces justificatives que le public n'est plus tenu de produire à l'appui des procédures administratives en application de l'application de l'article L. 113-13 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038029642&dateTexte=&categorieLien=id)
+> [Consultez le Décret du 18 janvier 2019 fixant la liste des pièces justificatives que le public n'est plus tenu de produire](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038029642&dateTexte=&categorieLien=id)
 {: .lien-important}
