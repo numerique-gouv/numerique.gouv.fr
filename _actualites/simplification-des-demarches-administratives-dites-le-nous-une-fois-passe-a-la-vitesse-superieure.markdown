@@ -13,7 +13,7 @@ chapeau-text: Le gouvernement souhaite mettre la confiance et la simplicité au 
   dite loi « Confiance », deux décrets viennent finaliser la mise en œuvre du principe
   du « Dites-le-nous une fois ».
 une-ou-diaporama:
-- image: "/uploads/Image-Principes-mutualisation.jpg"
+- image: "/uploads/Visuel_DLNUF.jpg"
 ---
 
 Simplifier les formalités administratives des Français. C’est la promesse de la [« loi pour un État au service d'une société de confiance »](Simplifier les formalités administratives des Français. C’est la promesse de la « loi pour un État au service d'une société de confiance » qui comporte 2 piliers : faire confiance et faire simple et s’adresse à tous les usagers - particuliers ou entreprises - dans leurs relations quotidiennes avec les administrations.) qui comporte 2 piliers : **faire confiance** et **faire simple** et s’adresse à tous les usagers - particuliers ou entreprises - dans leurs relations quotidiennes avec les administrations.
