@@ -2,7 +2,6 @@
 title: 'Simplification des démarches administratives : “Dites-le-nous une fois” passe
   à la vitesse supérieure'
 date: 2019-01-23 14:20:00 +01:00
-published: false
 tags:
 - Simplification
 - API
