@@ -2,7 +2,6 @@
 title: 'Simplification des démarches administratives : « Dites-le-nous une fois »
   passe à la vitesse supérieure'
 date: 2019-01-24 14:20:00 +01:00
-published: false
 categories:
 - Article
 tags:
@@ -18,9 +17,9 @@ une-ou-diaporama:
 - image: "/uploads/Visuel_DLNUF.jpg"
 ---
 
-Simplifier les formalités administratives des Français. C’est la promesse de la [« loi pour un État au service d'une société de confiance »](Simplifier les formalités administratives des Français. C’est la promesse de la « loi pour un État au service d'une société de confiance » qui comporte 2 piliers : faire confiance et faire simple et s’adresse à tous les usagers - particuliers ou entreprises - dans leurs relations quotidiennes avec les administrations.) qui comporte 2 piliers : **faire confiance** et **faire simple** et s’adresse à tous les usagers - particuliers ou entreprises - dans leurs relations quotidiennes avec les administrations.
+Simplifier les formalités administratives des Français. C’est la promesse de la « loi pour un État au service d'une société de confiance » qui comporte 2 piliers : **faire confiance** et **faire simple** et s’adresse à tous les usagers - particuliers ou entreprises - dans leurs relations quotidiennes avec les administrations.
 
-Publié le 21 janvier 2018 au Journal officiel, le **décret « relatif aux échanges d’informations et de données entre administrations »** complète le principe du **« Dites-le-nous une fois »** un des piliers de cette loi, qui consacre un changement de taille dans les relations entre usagers et administrations : désormais, un usager - particulier ou entreprise - entreprenant une démarche administrative ne sera plus tenu de fournir certaines informations ou pièces justificatives (revenu fiscal de référence, justificatif d’identité, attestation de droit délivrées par les organismes de sécurité sociale) déjà détenus par l’administration.
+Publié le 21 janvier 2018 au Journal officiel, le **décret « relatif aux échanges d’informations et de données entre administrations »** complète le principe du **« Dites-le-nous une fois »** un des piliers de cette loi, qui consacre un changement de taille dans les relations entre usagers et administrations : désormais, un usager - particulier ou entreprise - entreprenant une démarche administrative ne sera plus tenu de fournir certaines informations ou pièces justificatives (revenu fiscal de référence, justificatif d’identité, attestation de droit délivrées par les organismes de sécurité sociale) déjà détenues par l’administration.
 
 #### Développer les échanges de données entre administrations
 
@@ -42,7 +41,7 @@ Le décret organise les conditions d’échange d’informations entre administr
 
 L’administration sera tenue d'informer l’usager sur ces échanges en lui indiquant les informations qui lui sont nécessaires pour traiter sa démarche, les informations qu’elle se procure auprès d’autres administrations et d’assurer la traçabilité des échanges jusqu’à 36 mois suivant la démarche. 
 
-Pour organiser l’ensemble de ces échanges d’informations, les administrations pourront s’appuyer sur le **[catalogue d’API opérées par la DINSIC](https://api.gouv.fr/),** qui permettent l’échange d’informations entre administrations en toute sécurité. 
+Pour organiser l’ensemble de ces échanges d’informations, les administrations pourront s’appuyer sur le **[catalogue d’API opérées par la DINSIC](https://api.gouv.fr/){:target="_blank"},** qui permettent l’échange d’informations entre administrations en toute sécurité. 
 
 #### Réduire le nombre d’informations et de pièces justificatives demandées aux usagers 
 
@@ -61,8 +60,8 @@ Ce décret fixe également les modalités d’application d’une expérimentati
 Y participeront, les collectivités territoriales de plus de 3 500 habitants, les services de l'État et les autres administrations de 50 agents et plus.
 
 
-> [Consultez le décret du 18 janvier 2019 relatif aux échanges d'informations et de données entre administrations dans le cadre des démarches administratives](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038029589&dateTexte=&categorieLien=id)
+[Consultez le décret du 18 janvier 2019 relatif aux échanges d'informations et de données entre administrations dans le cadre des démarches administratives](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038029589&dateTexte=&categorieLien=id){:target="_blank"}
 {: .lien-important}
 
-> [Consultez le Décret du 18 janvier 2019 fixant la liste des pièces justificatives que le public n'est plus tenu de produire](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038029642&dateTexte=&categorieLien=id)
+[Consultez le décret du 18 janvier 2019 fixant la liste des pièces justificatives que le public n'est plus tenu de produire](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038029642&dateTexte=&categorieLien=id){:target="_blank"}
 {: .lien-important}
