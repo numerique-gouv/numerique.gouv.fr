@@ -17,7 +17,7 @@ une-ou-diaporama:
 - image: "/uploads/Visuel_DLNUF.jpg"
 ---
 
-Simplifier les formalités administratives des Français. C’est la promesse de la « loi pour un État au service d'une société de confiance » qui comporte 2 piliers : **faire confiance** et **faire simple** et s’adresse à tous les usagers - particuliers ou entreprises - dans leurs relations quotidiennes avec les administrations.
+Simplifier les formalités administratives des Français. C’est la promesse de la [« loi pour un État au service d'une société de confiance »](https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=853C8147BBC226E07049DF2F6256B6B1.tplgfr26s_1?cidTexte=JORFTEXT000037307624&categorieLien=id){:target="_blank"} qui comporte 2 piliers : **faire confiance** et **faire simple** et s’adresse à tous les usagers - particuliers ou entreprises - dans leurs relations quotidiennes avec les administrations.
 
 Publié le 21 janvier 2018 au Journal officiel, le **décret « relatif aux échanges d’informations et de données entre administrations »** complète le principe du **« Dites-le-nous une fois »** un des piliers de cette loi, qui consacre un changement de taille dans les relations entre usagers et administrations : désormais, un usager - particulier ou entreprise - entreprenant une démarche administrative ne sera plus tenu de fournir certaines informations ou pièces justificatives (revenu fiscal de référence, justificatif d’identité, attestation de droit délivrées par les organismes de sécurité sociale) déjà détenues par l’administration.
 
