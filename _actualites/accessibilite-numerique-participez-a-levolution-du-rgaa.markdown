@@ -33,7 +33,7 @@ Le RGAA est **fondé sur des principes et standards internationaux reconnus, qui
 Précisément, le RGAA doit aujourd’hui évoluer car :
 
 * la norme internationale a elle-même évolué : les [WCAG 2.1](https://www.w3.org/TR/WCAG21/){:target="_blank"}, publiées en 2018, prennent la suite des [WCAG 2.0](https://www.w3.org/TR/WCAG20/){:target="_blank"} (datées de 2008).
-  *Les WCAG sont les règles pour l’accessibilité des contenus web - en anglais : "Web content accessibility guidelines (WCAG)" - élaborées par l'organisme de standardisation du web (W3C). Elles font référence dans le domaine sur le plan international. Le RGAA permet de tester le respect de ces règles.*
+<br>*Les WCAG sont les règles pour l’accessibilité des contenus web - en anglais : "Web content accessibility guidelines (WCAG)" - élaborées par l'organisme de standardisation du web (W3C). Elles font référence dans le domaine sur le plan international. Le RGAA permet de tester le respect de ces règles.*
 
 * [la norme européenne, EN 301 549 V2.1.2 (2018-08) (.pdf)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf){:target="_blank"} a été mise à jour en 2018 par l'Institut européen des normes de télécommunications ;
 
