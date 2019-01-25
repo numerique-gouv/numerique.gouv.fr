@@ -13,3 +13,4 @@ Une nouvelle version du référentiel général d’accessibilité pour les admi
 Présentation de l’information, couleurs, tableaux, formulaires… Les critères impactés par ces changements vont être soumis un par un aux votes et commentaires, jusqu’en mai 2019. Après consolidation, le projet de nouveau référentiel sera soumis à relecture sur la même plateforme.
 
 [Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
+{: .lien-important}
