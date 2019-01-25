@@ -31,7 +31,7 @@ Présentation de l’information, couleurs, tableaux, formulaires… Les critèr
 > 
 > <br>Au fil du temps, il s’est enrichi d’une **quarantaine de [ressources et outils](http://references.modernisation.gouv.fr/ressources){:target="_blank"}** destinés à simplifier l’intégration de l’accessibilité dans le travail de différents intervenants : graphistes, développeurs, chefs de projet…
 > 
-> <br>Régulièrement, ce référentiel fait l’objet de nouvelles versions et mises à jour, pour s’adapter aux évolutions du web mais aussi aux changements de normes et réglementations.
+> <br>Régulièrement, ce référentiel fait l’objet de **nouvelles versions et mises à jour**, pour s’adapter aux évolutions du web mais aussi aux changements de normes et réglementations.
 {: .noir .encadre}
 
 
