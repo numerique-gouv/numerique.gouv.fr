@@ -41,7 +41,7 @@ Le décret organise les conditions d’échange d’informations entre administr
 
 L’administration sera tenue d'informer l’usager sur ces échanges en lui indiquant les informations qui lui sont nécessaires pour traiter sa démarche, les informations qu’elle se procure auprès d’autres administrations et d’assurer la traçabilité des échanges jusqu’à 36 mois suivant la démarche. 
 
-Pour organiser l’ensemble de ces échanges d’informations, les administrations pourront s’appuyer sur le **[catalogue d’API opérées par la DINSIC](https://api.gouv.fr/){:target="_blank"},** qui permettent l’échange d’informations entre administrations en toute sécurité. 
+Pour organiser l’ensemble de ces échanges d’informations, les administrations pourront s’appuyer sur le **[catalogue d’API opéré par la DINSIC](https://api.gouv.fr/){:target="_blank"},** qui permettent l’échange d’informations entre administrations en toute sécurité. 
 
 #### Réduire le nombre d’informations et de pièces justificatives demandées aux usagers 
 
