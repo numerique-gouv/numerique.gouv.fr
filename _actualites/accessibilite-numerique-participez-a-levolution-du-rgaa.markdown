@@ -32,7 +32,7 @@ Présentation de l’information, couleurs, tableaux, formulaires… Les critèr
 > <br>Au fil du temps, il s’est enrichi d’une **quarantaine de [ressources et outils](http://references.modernisation.gouv.fr/ressources){:target="_blank"}** destinés à simplifier l’intégration de l’accessibilité dans le travail de différents intervenants : graphistes, développeurs, chefs de projet…
 > 
 > <br>Régulièrement, ce référentiel fait l’objet de nouvelles versions et mises à jour, pour s’adapter aux évolutions du web mais aussi aux changements de normes et réglementations.
-{: .encadre}
+{: .noir .encadre}
 
 
 #### **Pourquoi le RGAA évolue-t-il ?**
@@ -61,9 +61,9 @@ Cette consultation s’adresse principalement aux **concepteurs et développeurs
 
 #### **Comment participer ?**
 {: .margin-top-2 .margin-bottom-1} 
-Un groupe de travail collaboratif est animé par la DINSIC sur une plateforme web:
+Un groupe de travail collaboratif est animé par la DINSIC sur une plateforme web :
 
-[Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
+> [Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
 {: .lien-important}
 
 La DINSIC y publie régulièrement **jusqu'à fin mai** des **propositions d'ajouts, de modifications ou de suppression de critères et de tests**. Les thèmes traités respectent l'organisation du RGAA : images, cadres, couleurs, tableaux, liens, formulaires, navigation, etc.
