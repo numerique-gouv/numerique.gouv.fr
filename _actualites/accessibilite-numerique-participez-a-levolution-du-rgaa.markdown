@@ -77,7 +77,7 @@ A l'issue des discussions par thèmes et par critères, la DINSIC publiera la no
 > #### Le saviez-vous ?
 > 
 > * [Plus de 40 ressources et outils](http://references.modernisation.gouv.fr/ressources){:target="_blank"} associés au RGAA, réalisés par la DINSIC, facilitent la mise en œuvre de l’accessibilité numérique
->
+> 
 > * Les critères d’accessibilité obligatoires sont intégrés dans la [checklist Pidila](https://pidila.gitlab.io/checklist-pidila/){:target="_blank"} qui permet de vérifier la qualité des interfaces et des projets web au fur et à mesure du développement
 > 
 > * Les objectifs de qualité que doivent viser les démarches en ligne sont présentés dans [les 10 principes d'une démarche exemplaire](https://www.numerique.gouv.fr/publications/dix-principes/).
