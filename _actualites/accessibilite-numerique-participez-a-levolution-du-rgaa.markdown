@@ -12,5 +12,15 @@ Une nouvelle version du référentiel général d’accessibilité pour les admi
 
 Présentation de l’information, couleurs, tableaux, formulaires… Les critères impactés par ces changements vont être soumis un par un aux votes et commentaires, jusqu’en mai 2019. Après consolidation, le projet de nouveau référentiel sera soumis à relecture sur la même plateforme.
 
-> [Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
+[Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
 {: .lien-important}
+
+>#### L’accessibilité et le RGAA en bref
+> Tout site ou service en ligne d’une administration doit être accessible de la même façon à tout citoyen, qu’il soit ou non en situation de handicap (visuel, auditif, mental, dyslexie…). Leurs contenus et services doivent être, pour tous, *perceptibles*, *utilisables*, *compréhensibles* et *robustes*.
+> 
+> Pour faciliter cette accessibilité numérique, la DINSIC édite depuis 2009 un référentiel – le RGAA, pour référentiel général d’accessibilité pour les administrations – qui** regroupe les critères et les tests permettant de vérifier la conformité d’un site internet public**.
+
+> Au fil du temps, il s’est enrichi d’une **quarantaine de [ressources et outils](http://references.modernisation.gouv.fr/ressources){:target="_blank"}** destinés à simplifier l’intégration de l’accessibilité dans le travail de différents intervenants : graphistes, développeurs, chefs de projet…
+
+> Régulièrement, ce référentiel fait l’objet de nouvelles versions et mises à jour, pour s’adapter aux évolutions du web mais aussi aux changements de normes et réglementations.
+{: .encadre}
