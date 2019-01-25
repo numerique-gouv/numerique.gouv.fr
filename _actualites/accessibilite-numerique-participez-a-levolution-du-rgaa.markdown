@@ -1,11 +1,19 @@
 ---
 title: 'Accessibilité numérique : Participez à l’évolution du RGAA !'
 date: 2019-01-25 14:59:00 +01:00
+categories:
+- Appel à contributions
+tags:
+- accessibilité numérique
+- RGAA
+- qualité web
 chapeau-text: Vous concevez, développez ou gérez un site web ou service en ligne d’une
   administration et vous vous préoccupez de son accessibilité ? Vous êtes un professionnel
   de l’accessibilité numérique ? Alors votre avis est important ! Participez à l’élaboration
   de la prochaine version du RGAA, à travers la consultation en ligne lancée par la
   DINSIC.
+une-ou-diaporama:
+- image: "/uploads/accessibilite-numerique.jpg"
 ---
 
 Une nouvelle version du référentiel général d’accessibilité pour les administrations (RGAA) doit paraître à l’été 2019. Pour son évolution, rendue nécessaire par l’apparition de nouvelles normes et réglementations, la DINSIC fait appel à ses utilisateurs et aux professionnels du domaine afin de prendre en compte les retours des premiers concernés. Une plateforme de consultation en ligne dédiée permet ainsi de réagir aux propositions d’évolutions.
@@ -17,17 +25,18 @@ Présentation de l’information, couleurs, tableaux, formulaires… Les critèr
 
 > #### L’accessibilité et le RGAA en bref
 > 
-> Tout site ou service en ligne d’une administration doit être accessible de la même façon à tout citoyen, qu’il soit ou non en situation de handicap (visuel, auditif, mental, dyslexie…). Leurs contenus et services doivent être, pour tous, *perceptibles*, *utilisables*, *compréhensibles* et *robustes*.
+> Tout site ou service en ligne d’une administration doit être accessible de la même façon à tout citoyen, qu’il soit ou non en situation de handicap (visuel, auditif, mental, dyslexie…). Leurs contenus et services doivent être, pour tous, **perceptibles**, **utilisables**, **compréhensibles** et **robustes**.
 > 
-> Pour faciliter cette accessibilité numérique, la DINSIC édite depuis 2009 un référentiel – le RGAA, pour référentiel général d’accessibilité pour les administrations – qui **regroupe les critères et les tests permettant de vérifier la conformité d’un site internet public**.
+> <br>Pour faciliter cette accessibilité numérique, la DINSIC édite depuis 2009 un référentiel – le RGAA, pour référentiel général d’accessibilité pour les administrations – qui **regroupe les critères et les tests permettant de vérifier la conformité d’un site internet public**.
 > 
-> Au fil du temps, il s’est enrichi d’une **quarantaine de [ressources et outils](http://references.modernisation.gouv.fr/ressources){:target="_blank"}** destinés à simplifier l’intégration de l’accessibilité dans le travail de différents intervenants : graphistes, développeurs, chefs de projet…
+> <br>Au fil du temps, il s’est enrichi d’une **quarantaine de [ressources et outils](http://references.modernisation.gouv.fr/ressources){:target="_blank"}** destinés à simplifier l’intégration de l’accessibilité dans le travail de différents intervenants : graphistes, développeurs, chefs de projet…
 > 
-> Régulièrement, ce référentiel fait l’objet de nouvelles versions et mises à jour, pour s’adapter aux évolutions du web mais aussi aux changements de normes et réglementations.
+> <br>Régulièrement, ce référentiel fait l’objet de nouvelles versions et mises à jour, pour s’adapter aux évolutions du web mais aussi aux changements de normes et réglementations.
 {: .encadre}
 
-### Pourquoi le RGAA évolue-t-il ?
 
+#### **Pourquoi le RGAA évolue-t-il ?**
+{: .margin-top-2 .margin-bottom-1} 
 Le RGAA est **fondé sur des principes et standards internationaux reconnus, qui eux-mêmes évoluent.**
 
 Précisément, le RGAA doit aujourd’hui évoluer car :
@@ -39,18 +48,19 @@ Précisément, le RGAA doit aujourd’hui évoluer car :
 
 * la commission européenne a rendu cette norme obligatoire avec la publication de la [directive pour l’accessibilité des sites web et des applications mobiles du secteur public](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016L2102){:target="_blank"} applicable par les pays européens depuis le 23 septembre 2018.
 
-## Tous les critères du RGAA vont-ils évoluer ?
-
+#### **Tous les critères du RGAA vont-ils évoluer ?**
+{: .margin-top-2 .margin-bottom-1} 
 Non.
 
 Seulement ceux qui sont impactés par les nouvelles normes ou par les documents techniques d'accompagnement publiés par le W3C, touchés par des changements technologiques, ou tout simplement ceux qui nécessitent une amélioration signalée par le retour d'expérience des utilisateurs du RGAA.
 
-## A qui s’adresse cette consultation ?
-
+#### **A qui s’adresse cette consultation ?**
+{: .margin-top-2 .margin-bottom-1} 
 Cette consultation s’adresse principalement aux **concepteurs et développeurs de services en ligne, d'interfaces web** au sein des administrations ou de leurs partenaires et prestataires et aux **professionnels de l’accessibilité numérique**. Les **chefs de projet, les maîtrises d'ouvrage** sont aussi concernés car l’accessibilité numérique est à prendre en compte dès la conception d’un service en ligne et à chaque étape de son développement et de son évolution.
 
-### Comment participer ?
 
+#### **Comment participer ?**
+{: .margin-top-2 .margin-bottom-1} 
 Un groupe de travail collaboratif est animé par la DINSIC sur une plateforme web:
 
 [Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
