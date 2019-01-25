@@ -37,7 +37,6 @@ Présentation de l’information, couleurs, tableaux, formulaires… Les critèr
 {: .noir .encadre}
 
 #### **Pourquoi le RGAA évolue-t-il ?**
-
 {: .margin-top-2 .margin-bottom-1}
 Le RGAA est **fondé sur des principes et standards internationaux reconnus, qui eux-mêmes évoluent.**
 
@@ -51,24 +50,21 @@ Précisément, le RGAA doit aujourd’hui évoluer car :
 * la commission européenne a rendu cette norme obligatoire avec la publication de la [directive pour l’accessibilité des sites web et des applications mobiles du secteur public](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016L2102){:target="_blank"} applicable par les pays européens depuis le 23 septembre 2018.
 
 #### **Tous les critères du RGAA vont-ils évoluer ?**
-
 {: .margin-top-2 .margin-bottom-1}
 Non.
 
 Seulement ceux qui sont impactés par les nouvelles normes ou par les documents techniques d'accompagnement publiés par le W3C, touchés par des changements technologiques, ou tout simplement ceux qui nécessitent une amélioration signalée par le retour d'expérience des utilisateurs du RGAA.
 
 #### **A qui s’adresse cette consultation ?**
-
 {: .margin-top-2 .margin-bottom-1}
 Cette consultation s’adresse principalement aux **concepteurs et développeurs de services en ligne, d'interfaces web** au sein des administrations ou de leurs partenaires et prestataires et aux **professionnels de l’accessibilité numérique**. Les **chefs de projet, les maîtrises d'ouvrage** sont aussi concernés car l’accessibilité numérique est à prendre en compte dès la conception d’un service en ligne et à chaque étape de son développement et de son évolution.
 
 #### **Comment participer ?**
-
 {: .margin-top-2 .margin-bottom-1}
 Un groupe de travail collaboratif est animé par la DINSIC sur une plateforme web :
 
 > [Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
-> {: .lien-important}
+{: .lien-important}
 
 La DINSIC y publie régulièrement **jusqu'à fin mai** des **propositions d'ajouts, de modifications ou de suppression de critères et de tests**. Les thèmes traités respectent l'organisation du RGAA : images, cadres, couleurs, tableaux, liens, formulaires, navigation, etc.
 
