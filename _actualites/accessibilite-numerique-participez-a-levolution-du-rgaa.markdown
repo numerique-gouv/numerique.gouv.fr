@@ -22,7 +22,6 @@ Présentation de l’information, couleurs, tableaux, formulaires… Les critèr
 
 [![Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](/uploads/capture-plateforme-consultation-rgaa_200.jpg){: width="200px" height="119px"}](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
 {: .text-center}
-
 > [Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
 {: .lien-important}
 
