@@ -1,6 +1,6 @@
 ---
 title: 'Accessibilité numérique : Participez à l’évolution du RGAA !'
-date: 2019-01-28 22:59:00 +01:00
+date: 2019-01-28 10:59:00 +01:00
 categories:
 - Appel à contributions
 tags:
