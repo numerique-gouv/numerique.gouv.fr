@@ -20,10 +20,10 @@ Une nouvelle version du référentiel général d’accessibilité pour les admi
 
 Présentation de l’information, couleurs, tableaux, formulaires… Les critères impactés par ces changements vont être soumis un par un aux votes et commentaires, jusqu’en mai 2019. Après consolidation, le projet de nouveau référentiel sera soumis à relecture sur la même plateforme.
 
-[![Accéder à la plateforme de consultation dédiée à l’évolution du RGAA - ouvre un nouvel onglet](/uploads/capture-plateforme-consultation-rgaa_200.jpg){: width="200px" height="119px"}](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
+[![Accéder à la plateforme de consultation dédiée à l’évolution du RGAA - Nouvelle fenêtre](/uploads/capture-plateforme-consultation-rgaa_200.jpg){: width="200px" height="119px"}](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
 {: .text-center}
 
-> [Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
+> [Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/ "Accéder à la plateforme de consultation dédiée à l’évolution du RGAA - Nouvelle fenêtre"){:target="_blank"}
 {: .lien-important}
 
 > #### L’accessibilité et le RGAA en bref
@@ -32,7 +32,7 @@ Présentation de l’information, couleurs, tableaux, formulaires… Les critèr
 >
 > Pour faciliter cette accessibilité numérique, la DINSIC édite depuis 2009 un référentiel – le RGAA, pour référentiel général d’accessibilité pour les administrations – qui **regroupe les critères et les tests permettant de vérifier la conformité d’un site internet public**.
 >
-> <br>Au fil du temps, il s’est enrichi d’une **quarantaine de [ressources et outils](http://references.modernisation.gouv.fr/ressources){:target="_blank"}** destinés à simplifier l’intégration de l’accessibilité dans le travail de différents intervenants : graphistes, développeurs, chefs de projet…
+> <br>Au fil du temps, il s’est enrichi d’une **quarantaine de [ressources et outils](http://references.modernisation.gouv.fr/ressources "Ressources et outils - Nouvelle fenêtre"){:target="_blank"}** destinés à simplifier l’intégration de l’accessibilité dans le travail de différents intervenants : graphistes, développeurs, chefs de projet…
 >
 > Régulièrement, ce référentiel fait l’objet de **nouvelles versions et mises à jour**, pour s’adapter aux évolutions du web mais aussi aux changements de normes et réglementations.
 {: .noir .encadre}
@@ -44,12 +44,12 @@ Le RGAA est **fondé sur des principes et standards internationaux reconnus, qui
 
 Précisément, le RGAA doit aujourd’hui évoluer car :
 
-* la norme internationale a elle-même évolué : les [WCAG 2.1](https://www.w3.org/TR/WCAG21/){:target="_blank"}, publiées en 2018, prennent la suite des [WCAG 2.0](https://www.w3.org/TR/WCAG20/){:target="_blank"} (datées de 2008).
+* la norme internationale a elle-même évolué : les [WCAG 2.1](https://www.w3.org/TR/WCAG21/ "WCAG 2.1 - Nouvelle fenêtre"){:target="_blank"}, publiées en 2018, prennent la suite des [WCAG 2.0](https://www.w3.org/TR/WCAG20/ "WCAG 2.1 - Nouvelle fenêtre"){:target="_blank"} (datées de 2008).
   <br>*Les WCAG sont les règles pour l’accessibilité des contenus web - en anglais : "Web content accessibility guidelines (WCAG)" - élaborées par l'organisme de standardisation du web (W3C). Elles font référence dans le domaine sur le plan international. Le RGAA permet de tester le respect de ces règles.*
 
 * [la norme européenne, EN 301 549 V2.1.2 (2018-08) (.pdf)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf){:target="_blank"} a été mise à jour en 2018 par l'Institut européen des normes de télécommunications ;
 
-* la commission européenne a rendu cette norme obligatoire avec la publication de la [directive pour l’accessibilité des sites web et des applications mobiles du secteur public](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016L2102){:target="_blank"} applicable par les pays européens depuis le 23 septembre 2018.
+* la commission européenne a rendu cette norme obligatoire avec la publication de la [directive pour l’accessibilité des sites web et des applications mobiles du secteur public](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016L2102 "directive pour l’accessibilité des sites web et des applications mobiles du secteur public - Nouvelle fenêtre"){:target="_blank"} applicable par les pays européens depuis le 23 septembre 2018.
 
 #### **Tous les critères du RGAA vont-ils évoluer ?**
 
@@ -68,20 +68,20 @@ Cette consultation s’adresse principalement aux **concepteurs et développeurs
 {: .margin-top-2 .margin-bottom-1}
 Un groupe de travail collaboratif est animé par la DINSIC sur une plateforme web :
 
-> [Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/){:target="_blank"}
+> [Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/ "Accéder à la plateforme de consultation dédiée à l’évolution du RGAA - Nouvelle fenêtre"){:target="_blank"}
 {: .lien-important}
 
 La DINSIC y publie régulièrement **jusqu'à fin mai** des **propositions d'ajouts, de modifications ou de suppression de critères et de tests**. Les thèmes traités respectent l'organisation du RGAA : images, cadres, couleurs, tableaux, liens, formulaires, navigation, etc.
 
 Chacun peut **voter, commenter, et ajouter ses propres propositions**.
 
-Pour participer au groupe de travail en ligne, il est nécessaire de s'identifier et de respecter [la charte de contribution et de modération](https://evolution-rgaa.numerique.gouv.fr/charte-de-participation-et-de-moderation){:target="_blank"}.
+Pour participer au groupe de travail en ligne, il est nécessaire de s'identifier et de respecter [la charte de contribution et de modération](https://evolution-rgaa.numerique.gouv.fr/charte-de-participation-et-de-moderation "la charte de contribution et de modération - Nouvelle fenêtre"){:target="_blank"}.
 
 A l'issue des discussions par thèmes et par critères, la DINSIC publiera la nouvelle version du RGAA pour relecture globale. Cette 2e consultation aura lieu durant le mois de juin sur la même plateforme.
 
 > #### Le saviez-vous ?
 > 
-> * [Plus de 40 ressources et outils](http://references.modernisation.gouv.fr/ressources){:target="_blank"} associés au RGAA, réalisés par la DINSIC, facilitent la mise en œuvre de l’accessibilité numérique
-> * Les critères d’accessibilité obligatoires sont intégrés dans la [checklist Pidila](https://pidila.gitlab.io/checklist-pidila/){:target="_blank"} qui permet de vérifier la qualité des interfaces et des projets web au fur et à mesure du développement
-> * Les objectifs de qualité que doivent viser les démarches en ligne sont présentés dans [les 10 principes d'une démarche exemplaire](https://www.numerique.gouv.fr/publications/dix-principes/).
+> * [Plus de 40 ressources et outils](http://references.modernisation.gouv.fr/ressources "Plus de 40 ressources et outils - Nouvelle fenêtre"){:target="_blank"} associés au RGAA, réalisés par la DINSIC, facilitent la mise en œuvre de l’accessibilité numérique
+> * Les critères d’accessibilité obligatoires sont intégrés dans la [checklist Pidila](https://pidila.gitlab.io/checklist-pidila/ "checklist Pidila - Nouvelle fenêtre"){:target="_blank"} qui permet de vérifier la qualité des interfaces et des projets web au fur et à mesure du développement
+> * Les objectifs de qualité que doivent viser les démarches en ligne sont présentés dans [les 10 principes d'une démarche exemplaire](https://www.numerique.gouv.fr/publications/dix-principes/ "les 10 principes d'une démarche exemplaire").
 {: .encadre}
