@@ -5,8 +5,7 @@ subtitle: Une démarche en ligne exemplaire...
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: ordinateur portable
-file: "/uploads/10_principes_demarches-en-ligne.pdf"
-layout: dix-principes
+file: "/uploads/Affiche-10-principes_HD.PDF"
 principes:
 - principe: 
   order: 1
@@ -124,5 +123,6 @@ principes:
     La démarche en ligne **évolue régulièrement en prenant en compte l’avis des usagers** (enquête annuelle, tests utilisateurs, réclamations…), **des agents et des partenaires**, ainsi que les statistiques d’utilisation.
 
     **Les réclamations sont analysées et traitées** comme des signaux prioritaires.
+layout: dix-principes
 ---
 
