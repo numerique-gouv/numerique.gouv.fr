@@ -49,5 +49,6 @@ Développeur.euse, designer, datascientist, au sein de l’État, indépendant o
 <br/>
 Pour recevoir l’actualité de la communauté et être informés des prochaines actions :
 <br/>
-> [Inscrivez-vous à la liste de diffusion Blue hats !](https://frama.link/bluehats-list)
+<br/>
+> [Inscrivez-vous à la liste de diffusion Blue hats !](https://frama.link/bluehats-list){.lien-important}
 {: .encadre}
