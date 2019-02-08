@@ -51,7 +51,9 @@ Vous contribuez à des projets ouverts utilisés par l’administration et souha
 Ouverte à tous, la communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
 <br>
 Pour recevoir l’actualité de la communauté et être informés des prochaines actions :
-<br>[Inscrivez-vous à la liste de diffusion Blue hats.](https://frama.link/bluehats-list){: .lien-important}
+<br>
+>[Inscrivez-vous à la liste de diffusion Blue hats.](https://frama.link/bluehats-list)
+{: .lien-important}
 {: .encadre}
 
  
