@@ -48,9 +48,5 @@ Son message *« Compagnons Blue hats, n’oubliez pas ce que nous a appris le li
 Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ? Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ? Ouverte à tous, la communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
 <br/>
 Pour recevoir l’actualité de la communauté et être informés des prochaines actions :
-<br/>
-<br/>
 > [Inscrivez-vous à la liste de diffusion Blue hats !](https://frama.link/bluehats-list)
-{: .lien-important}
-<br/>
 {: .encadre}
