@@ -52,7 +52,7 @@ Ouverte à tous, la communauté Blue hats, hackers d’intérêt général, a be
 <br>
 Pour recevoir l’actualité de la communauté et être informés des prochaines actions :
 <br>
->[Inscrivez-vous à la liste de diffusion Blue hats !](https://frama.link/bluehats-list)
+> [Inscrivez-vous à la liste de diffusion Blue hats !](https://frama.link/bluehats-list)
 {: .lien-important}
 {: .encadre}
 
