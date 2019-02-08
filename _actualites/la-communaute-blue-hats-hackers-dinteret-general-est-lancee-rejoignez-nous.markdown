@@ -6,6 +6,7 @@ categories:
 - Article
 tags:
 - Logiciel libre
+- communauté
 chapeau-text: 'À l’occasion du **Paris open source summit,** une centaine de développeurs.euses,
   designers, datascientists, agents publics, indépendant ou prestataire utilisant
   ou produisant des logiciels libres se réunissaient à l''initiative de la **direction
