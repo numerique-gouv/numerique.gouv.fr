@@ -6,6 +6,7 @@ categories:
 - Article
 tags:
 - Logiciel libre
+- communauté
 chapeau-text: 'À l’occasion du **Paris open source summit,** une centaine de développeurs.euses,
   designers, datascientists, agents publics, indépendant ou prestataire utilisant
   ou produisant des logiciels libres se réunissaient à l''initiative de la **direction
@@ -32,6 +33,9 @@ Au programme de leurs échanges ce jour-là, une dizaine de présentations par d
 
 Parmi les représentants d’associations œuvrant pour l’ouverture logicielle hors de l’administration : **Sophie Gautier** de The document foundation, **Roberto Di Cosmo,** du projet Software Heritage, **Pierre-Yves Gosset** de Framasoft, **Frédéric Couchet** de l’APRIL et **Olivier Heintz** de la Fondation Apache se sont succédés au micro, évoquant les liens entre leurs associations et l’administration publique et faisant remonter le besoin de dialogue et de soutien mutuel. Grâce à ces échanges, des pistes de coopération ont été identifiées pour qu’associations, État et organismes publics contribuent, ensemble, aux communs numériques. 
 
+> [Rejoignez la communauté Blue hats en vous inscrivant à la liste de diffusion](https://frama.link/bluehats-list)
+{: .lien-important}
+
 ### Quelle place pour le libre dans l’administration ? ###
 {: .margin-top-2 .margin-bottom-2} 
 
@@ -43,14 +47,9 @@ Qu’est-ce que la [**politique de contribution de l’État aux logiciels libre
 **Bastien Guerry,** référent logiciels libres à **Etalab,** a conclu la journée en rappelant que les contributions des associations comme de l’administration sont essentielles aux communs numériques. La communauté Blue hats promeut une forme de compagnonnage, où chacun pourra apporter sa pierre à l’édifice collectif pour faire prospérer ces communs.
 Son message *« Compagnons Blue hats, n’oubliez pas ce que nous a appris le libre : seul nous avançons plus vite, ensemble nous allons plus loin et avançons plus durablement ».*
 
-
 > ## Rejoignez la communauté Blue hats ##
-Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ?
-Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ?
-La communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
-Le mouvement Blue hats est ouvert à tous. Pour recevoir l’actualité de la communauté et être informés des prochaines actions :
-[inscrivez-vous à la liste de diffusion Blue hats.](https://framaforms.org/formulaire-dinscription-a-la-mailing-list-blue-hats-1542871598)
-{: .encadre}
-
- 
-
+Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ? Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ? Ouverte à tous, la communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
+<br/>
+Pour recevoir l’actualité de la communauté et être informé des prochaines actions :
+* [Inscrivez-vous à la liste de diffusion Blue hats !](https://frama.link/bluehats-list)
+{: : .noir .encadre}
