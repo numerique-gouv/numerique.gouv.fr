@@ -14,7 +14,7 @@ chapeau-text: Vous êtes une administration et souhaitez améliorer l’expérie
   avant le 8 mars 2019 !
 ---
 
-## **Améliorer l’expérience utilisateurs des services publics en ligne**
+## Améliorer l’expérience utilisateurs des services publics en ligne
 Offrir aux citoyens des services publics numériques **faciles à prendre en main, efficaces et accessibles à tous,** même en situation de handicap. Oui mais comment ? Centré sur la prise en compte des attentes et besoins des utilisateurs, l’UX design – le design de l’expérience utilisateurs – est l’une des clés.
 
 Pour diffuser ces nouvelles pratiques dans l’administration et la faire monter en compétence dans le domaine, la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) lance un programme inédit : **Designers d’Intérêt Général**. Le principe ? **Accueillir pendant 6 à 12 mois au sein d’une administration un ou deux designer(s) UX** pour mener à bien un projet précis d’**amélioration de l’expérience utilisateur d’un service public en ligne,** accompagnés de mentors en interne.
@@ -25,7 +25,7 @@ Le concept vous rappelle quelque chose ? Rien d’étonnant : il reprend la rece
 > Encore un peu de patience ! L’appel à candidatures sera lancé **fin mars 2019,** après sélection des projets proposés par les administrations. Les candidats retenus par le jury seront recrutés **en CDD, de 6 à 12 mois à compter de juin 2019, pour un salaire mensuel de 3500 euros net**.
 {: .encadre}
 
-## **Des projets à fort impact en termes d’UX**
+## Des projets à fort impact en termes d’UX
 
 Les administrations disposent d’un mois, **du xx février au 8 mars 2019,** pour proposer les défis que relèveront les tout premiers designers d’intérêt général. (Re)design complet de l’expérience utilisateur d’un service existant ou en construction, amélioration en profondeur du parcours utilisateur, conception de nouvelles interfaces centrée sur l’utilisateur final, construction de modules UX utilisables par d’autres administrations… Vous l’aurez compris, les projets recherchés ont un dénominateur commun : l’amélioration d’un service public en ligne par une approche centrée sur l’utilisateur.
 
@@ -34,7 +34,7 @@ Une fois les** défis lauréats sélectionnés fin mars**, un **appel à candida
 **> Déposez votre projet Designers d’Intérêt Général**
 
 ## **Designers d’Intérêt Général en 3 questions-réponses**
-{:.encadre}
+{: .text-center}
 ### Qui peut proposer un projet ?
 {: .margin-top-2 .margin-bottom-1}
 Les projets peuvent être présentés par une **administration d’État** (ministère, administration centrale, opérateur sous tutelle, service déconcentré), ou **une autorité administrative indépendante, une collectivité territoriale, un établissement de santé**.
