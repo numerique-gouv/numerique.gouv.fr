@@ -12,6 +12,8 @@ chapeau-text: Vous êtes une administration et souhaitez améliorer l’expérie
   qui vous permettra d’accueillir pendant plusieurs mois un ou deux designers UX,
   financés dans le cadre du programme d’investissement d’avenir. Proposez vos projets
   avant le 8 mars 2019 !
+une-ou-diaporama:
+- image: "/uploads/IMG_8703.JPG"
 ---
 
 ## Améliorer l’expérience utilisateurs des services publics en ligne
