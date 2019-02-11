@@ -27,7 +27,7 @@ Le concept vous rappelle quelque chose ? Rien d’étonnant : il reprend la rece
 Encore un peu de patience ! L’appel à candidatures sera lancé **fin mars 2019,** après sélection des projets proposés par les administrations. Les candidats retenus par le jury seront recrutés **en CDD, de 6 à 12 mois à compter de juin 2019, pour un salaire mensuel de 3500 euros net**.
 {: .encadre}
 
-**Des projets à fort impact en termes d’UX**
+## **Des projets à fort impact en termes d’UX**
 
 Les administrations disposent d’un mois, **du xx février au 8 mars 2019,** pour proposer les défis que relèveront les tout premiers designers d’intérêt général. (Re)design complet de l’expérience utilisateur d’un service existant ou en construction, amélioration en profondeur du parcours utilisateur, conception de nouvelles interfaces centrée sur l’utilisateur final, construction de modules UX utilisables par d’autres administrations… Vous l’aurez compris, les projets recherchés ont un dénominateur commun : l’amélioration d’un service public en ligne par une approche centrée sur l’utilisateur.
 
