@@ -14,17 +14,15 @@ chapeau-text: Vous êtes une administration et souhaitez améliorer l’expérie
   avant le 8 mars 2019 !
 ---
 
-## Améliorer l’expérience utilisateurs des services publics en ligne
-
+## **Améliorer l’expérience utilisateurs des services publics en ligne**
 Offrir aux citoyens des services publics numériques **faciles à prendre en main, efficaces et accessibles à tous,** même en situation de handicap. Oui mais comment ? Centré sur la prise en compte des attentes et besoins des utilisateurs, l’UX design – le design de l’expérience utilisateurs – est l’une des clés.
 
-Pour diffuser ces nouvelles pratiques dans l’administration et la faire monter en compétence dans le domaine, la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) lance un programme inédit : **Designers d’Intérêt Général**. Le principe ? **Accueillir pendant 6 à 12 mois au sein d’une administration un ou deux designer(s) UX** pour mener à bien un projet précis d’\*\*amélioration de l’expérience utilisateur d’un service public en ligne, \*\*accompagnés de mentors en interne.
+Pour diffuser ces nouvelles pratiques dans l’administration et la faire monter en compétence dans le domaine, la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) lance un programme inédit : **Designers d’Intérêt Général**. Le principe ? **Accueillir pendant 6 à 12 mois au sein d’une administration un ou deux designer(s) UX** pour mener à bien un projet précis d’**amélioration de l’expérience utilisateur d’un service public en ligne,** accompagnés de mentors en interne.
 
-Le concept vous rappelle quelque chose ? Rien d’étonnant : il reprend la recette des [Entrepreneurs d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/), un autre programme d’innovation ouverte piloté par la DINSIC, testé et approuvé depuis 3 ans par une dizaine d’administrations.
+Le concept vous rappelle quelque chose ? Rien d’étonnant : il reprend la recette des [Entrepreneurs d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}, un autre programme d’innovation ouverte piloté par la DINSIC, testé et approuvé depuis 3 ans par une dizaine d’administrations.
 
 > ### Vous êtes expert UX et souhaitez devenir designer d’intérêt général ?
-
-Encore un peu de patience ! L’appel à candidatures sera lancé **fin mars 2019,** après sélection des projets proposés par les administrations. Les candidats retenus par le jury seront recrutés **en CDD, de 6 à 12 mois à compter de juin 2019, pour un salaire mensuel de 3500 euros net**.
+> Encore un peu de patience ! L’appel à candidatures sera lancé **fin mars 2019,** après sélection des projets proposés par les administrations. Les candidats retenus par le jury seront recrutés **en CDD, de 6 à 12 mois à compter de juin 2019, pour un salaire mensuel de 3500 euros net**.
 {: .encadre}
 
 ## **Des projets à fort impact en termes d’UX**
@@ -36,7 +34,7 @@ Une fois les** défis lauréats sélectionnés fin mars**, un **appel à candida
 **> Déposez votre projet Designers d’Intérêt Général**
 
 ## **Designers d’Intérêt Général en 3 questions-réponses**
-
+{:.encadre}
 ### **Qui peut proposer un projet ?**
 
 Les projets peuvent être présentés par une **administration d’État** (ministère, administration centrale, opérateur sous tutelle, service déconcentré), ou **une autorité administrative indépendante, une collectivité territoriale, un établissement de santé**.
@@ -51,10 +49,9 @@ Les projets peuvent être présentés par une **administration d’État** (mini
 
 * **intégration de l’accessibilité** des services publics en ligne à des personnes en situation de handicap.
 
-**Quel financement ?**
-
+### **Quel financement ?**
 **Seules les administrations d’Etat peuvent bénéficier d’un financement **(100% du coût total employeur de chaque designer d’intérêt général) par le fonds « Transition numérique de l’État et modernisation de l’action publique » du **programme d’investissements d’avenir (PIA)**.
 
-Pour en bénéficier également,** **les autres administrations **peuvent faire porter leur projet administrativement par un ministère, **via une convention. Sans cela, elles doivent prévoir** leur propre mode de financement **(autofinancement par exemple).
+Pour en bénéficier également, les autres administrations peuvent faire porter leur projet administrativement par un ministère, via une convention. Sans cela, elles doivent prévoir leur propre mode de financement (autofinancement par exemple).
 
 **> Consultez le cahier des charges complet**
