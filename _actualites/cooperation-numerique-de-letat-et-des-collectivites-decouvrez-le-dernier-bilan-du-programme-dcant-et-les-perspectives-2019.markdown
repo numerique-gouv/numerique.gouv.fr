@@ -34,20 +34,19 @@ L’équipe du programme DCANT a aussi réalisé des **webinaires interactifs et
 >         
 > Huit séances ont été réalisées depuis septembre 2018, à raison d’un webinaire en moyenne par semaine, abordant à chaque fois un thème différent, notamment : l’Open Data, le RGPD, les startups d’État (mes aides, API particulier), ou l’outil de dématérialisation démarches-simplifiées.fr. Avec plus de 4 000 vues et près de 300 heures de visionnage, le franc succès de cette initiative encourage les partenaires à poursuivre cette initiative en 2019 !
 >
->                  [Visionner les webinaires DCANT](https://www.dailymotion.com/playlist/x5s9yi "Visionner les webinaires DCANT-Nouvelle fenêtre"){:target="_blank"} 
+> [Visionner les webinaires DCANT](https://www.dailymotion.com/playlist/x5s9yi "Visionner les webinaires DCANT-Nouvelle fenêtre"){:target="_blank"} 
 {: .encadre}
 
-##Objectifs : pérenniser et innover !
+## Objectifs : pérenniser et innover !
 
 Constituée de 14 actions, dont 10 auront vocation à pérenniser et accélérer celles déjà amorcées en 2018, la nouvelle feuille de route donne la priorité à l’offre de services numériques proposée par la DINSIC et des partenaires permettant d’accompagner les collectivités dans leur transformation. Comment ? Notamment au programme des 6 prochains mois : 
 * **Accélérer le déploiement** au sein des collectivités du principe «[ Dites-le-nous une fois](https://www.numerique.gouv.fr/actualites/simplification-des-demarches-administratives-dites-le-nous-une-fois-passe-a-la-vitesse-superieure/ "Dites-le-nous une fois-Nouvelle fenêtre"){:target="_blank"} 
  », qui supprime certaines pièces justificatives dans le souci de simplifier la vie des usagers et le quotidien des agents. 
-* **Accompagner la création de nouveaux services numériques** à travers un **programme de pré-incubation de Startups de territoires**, avec l’incubateur de services publics numériques de la DINSIC. En 2018, en partenariat avec le CNFPT et Beta.gouv.fr, le programme DCANT avait déjà proposé une formation en ligne (MOOC) : [« Créer des services publics numériques innovants »](https://www.dailymotion.com/playlist/x652si "Créer des services publics numériques innovants- Nouvelle fenêtre"){:target="_blank"} . 
+* **Accompagner la création de nouveaux services numériques** à travers un **programme de pré-incubation de Startups de territoires**, avec l’incubateur de services publics numériques de la DINSIC. En 2018, en partenariat avec le CNFPT et Beta.gouv.fr, le programme DCANT avait déjà proposé une formation en ligne (MOOC) : [« Créer des services publics numériques innovants »](https://www.dailymotion.com/playlist/x652si "Créer des services publics numériques innovants- Nouvelle fenêtre"){:target="_blank"}. 
 
 * **Développer un dispositif de remontée d’information** et des besoins des collectivités dans le domaine de la transformation numérique. En parallèle vont se poursuivre les rencontres 360° qui, tous les premiers lundis du mois dans les locaux de la DINSIC, permettent de découvrir les solutions numériques de l’État.
 
-
-> [Consulter le bilan du 1er semestre 2018 et la feuille de route du 1er semestre 2019 (pdf)](/uploads/COSDCANT-article-numeriquegouv-Vdef.docx "Consulter le bilan du 1er semestre 2018 et la feuille de route du 1er semester 2019 - pdf")
+[![DCANT-bilan-perspectives-couv-doc.png](/uploads/DCANT-bilan-perspectives-couv-doc.png)](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf)
+{: .text-center}
+> [Consulter le bilan du 1er semestre 2018 et la feuille de route du 1er semestre 2019 (pdf)](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf "Consulter le bilan du 1er semestre 2018 et la feuille de route du 1er semestre 2019 - pdf")
 {: .lien-important }
-
-
