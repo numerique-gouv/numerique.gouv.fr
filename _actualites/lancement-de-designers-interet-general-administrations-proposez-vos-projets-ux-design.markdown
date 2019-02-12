@@ -12,8 +12,6 @@ chapeau-text: Vous êtes une administration et souhaitez améliorer l’expérie
   qui vous permettra d’accueillir pendant plusieurs mois un ou deux designers UX,
   financés dans le cadre du programme d’investissement d’avenir. Proposez vos projets
   avant le 8 mars 2019 !
-une-ou-diaporama:
-- image: "/uploads/IMG_8703.JPG"
 ---
 
 ## Améliorer l’expérience utilisateurs des services publics en ligne
@@ -37,18 +35,17 @@ Une fois les **défis lauréats sélectionnés fin mars**, un **appel à candida
 
 **> Déposez votre projet Designers d’Intérêt Général**
 
-## **Designers d’Intérêt Général en 3 questions-réponses**
-
+> ## **Designers d’Intérêt Général en 3 questions-réponses**
 {: .text-center}
 
 ### Qui peut proposer un projet ?
-
 {: .margin-top-2 .margin-bottom-1}
+
 Les projets peuvent être présentés par une **administration d’État** (ministère, administration centrale, opérateur sous tutelle, service déconcentré), ou **une autorité administrative indépendante, une collectivité territoriale, un établissement de santé**.
 
 ### Comment seront sélectionnés les projets ?
-
 {: .margin-top-2 .margin-bottom-1}
+
 **Un jury mixte**, composé d’experts et personnalités de l’UX, d’agents de la DINSIC, du secrétariat général pour l’investissement (SGPI) et d’autres administrations choisira les projets lauréats notamment **selon les critères suivants :**
 
 * **importance de l’enjeu pour l’action du ministère,** notamment dans le cadre de la transformation du service public portée par Action Publique 2022 et d’un portage interne de haut niveau ;
@@ -58,8 +55,8 @@ Les projets peuvent être présentés par une **administration d’État** (mini
 * **intégration de l’accessibilité** des services publics en ligne à des personnes en situation de handicap.
 
 ### Quel financement ?
-
 {: .margin-top-2 .margin-bottom-1}
+
 **Seules les administrations d’Etat peuvent bénéficier d’un financement** (100% du coût total employeur de chaque designer d’intérêt général) par le fonds « Transition numérique de l’État et modernisation de l’action publique » du **programme d’investissements d’avenir (PIA)**.
 
 Pour en bénéficier également, les autres administrations peuvent faire porter leur projet administrativement par un ministère, via une convention. Sans cela, elles doivent prévoir leur propre mode de financement (autofinancement par exemple).
