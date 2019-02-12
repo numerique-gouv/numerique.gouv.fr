@@ -19,6 +19,7 @@ Chargé d’accompagner les territoires dans leur transformation numérique, le 
 Fidèle à l’approche de coconstruction qui fait la particularité du programme, l’État et les collectivités ont travaillé de concert pour intégrer les territoires dans **la stratégie Cloud nationale.** Un questionnaire en ligne et des groupes de travail ont permis de recueillir leurs besoins en matière d’infrastructure, d’hébergement et de services numériques associés. Le but : participer à la fluidité et la performance des services publics numériques territoriaux et par effet de rebond, à la satisfaction des usagers. C’est donc en toute logique qu’une action du premier semestre 2019 est dédiée à la préparation de l’arrivée de l’offre Cloud dans les territoires.
 
 **Un accompagnement opérationnel**  
+
 Pour accompagner les collectivités dans **la mise en application du règlement général pour la protection des données** (RGPD), plusieurs rencontres entre têtes de réseaux territoriaux et membres de la CNIL ont été organisées. Au menu : échanges de bonnes pratiques, retours d’expérience et conseils. 
 L’équipe du programme DCANT a aussi réalisé des **webinaires interactifs et opérationnels** pour **faciliter l’appropriation des outils** mis à disposition de toutes les collectivités par l’État. 
 
