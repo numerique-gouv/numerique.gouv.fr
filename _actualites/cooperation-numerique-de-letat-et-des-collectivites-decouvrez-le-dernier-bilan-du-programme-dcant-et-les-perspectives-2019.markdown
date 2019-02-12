@@ -7,6 +7,8 @@ chapeau-text: "**Dans le cadre du programme DCANT 2018-2020, les collectivités 
   des services publics numériques territoriaux. Un nouveau rapport d’étape dresse
   le bilan du deuxième semestre 2018, et présente les actions attendues pour le premier
   semestre 2019.**"
+une-ou-diaporama:
+- image: "/uploads/DCANT-bilan-perspectives.JPG"
 ---
 
 ## Un point d’étape lors de la commission d’orientation stratégique
