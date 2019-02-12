@@ -9,24 +9,24 @@ chapeau-text: "**Dans le cadre du programme DCANT 2018-2020, les collectivités 
   semestre 2019.**"
 ---
 
-##Un point d’étape lors de la commission d’orientation stratégique
+## Un point d’étape lors de la commission d’orientation stratégique
 
 Un an après la création de [son volet 2018-2020 ](https://www.numerique.gouv.fr/actualites/quand-etat-et-collectivites-territoriales-transforment-ensemble-le-service-public-decouvrez-le-programme-dcant-2018-2020/){:target="_blank"} et dans le respect de son ADN qui place la coopération et l’échange au centre de son action, le programme DCANT a rassemblé l’ensemble des acteurs pour évaluer l’état d’avancement et décider ensemble de la suite des étapes nécessaires à la conduite de sa mission. Réunis dans le cadre d’une commission d’orientation stratégique (COS) le vendredi 25 janvier 2019, l’Etat et les partenaires du programme – collectivités territoriales et associations d’élus – ont collectivement dressé le bilan du dernier semestre 2018 et établi la feuille de route du premier semestre 2019. 
 
 
-##Collectivités territoriales et construction de l’offre Cloud
+## Collectivités territoriales et construction de l’offre Cloud
 
 Chargé d’accompagner les territoires dans leur transformation numérique, le programme DCANT affiche plusieurs succès au compteur 2018.
 Fidèle à l’approche de coconstruction qui fait la particularité du programme, l’État et les collectivités ont travaillé de concert pour intégrer les territoires dans **la stratégie Cloud nationale.** Un questionnaire en ligne et des groupes de travail ont permis de recueillir leurs besoins en matière d’infrastructure, d’hébergement et de services numériques associés. Le but : participer à la fluidité et la performance des services publics numériques territoriaux et par effet de rebond, à la satisfaction des usagers. C’est donc en toute logique qu’une action du premier semestre 2019 est dédiée à la préparation de l’arrivée de l’offre Cloud dans les territoires.
 
 
-##Un accompagnement opérationnel  
+## Un accompagnement opérationnel  
 
 Pour accompagner les collectivités dans **la mise en application du règlement général pour la protection des données** (RGPD), plusieurs rencontres entre têtes de réseaux territoriaux et membres de la CNIL ont été organisées. Au menu : échanges de bonnes pratiques, retours d’expérience et conseils. 
 L’équipe du programme DCANT a aussi réalisé des **webinaires interactifs et opérationnels** pour **faciliter l’appropriation des outils** mis à disposition de toutes les collectivités par l’État. 
 
 
-> ###Les webinaires du programme DCANT
+> ### Les webinaires du programme DCANT
 >
 > Pour mieux accompagner les collectivités territoriales dans leur transformation numérique, l’équipe du programme DCANT propose des webinaires pédagogiques dont l’objectif est de faire connaître et expliquer le fonctionnement des différents outils mis à leur disposition par l’État.
          
