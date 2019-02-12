@@ -37,7 +37,7 @@ Constituée de 14 actions, dont 10 auront vocation à pérenniser et accélérer
 * **Développer un dispositif de remontée d’information** et des besoins des collectivités dans le domaine de la transformation numérique. En parallèle vont se poursuivre les rencontres 360° qui, tous les premiers lundis du mois dans les locaux de la DINSIC, permettent de découvrir les solutions numériques de l’État.
 
 
-> [COSDCANT-article-numeriquegouv-Vdef.docx](/uploads/COSDCANT-article-numeriquegouv-Vdef.docx)
+> [Consulter le bilan du 1er semestre 2018 et la feuille de route du 1er semester 2019 (pdf)](/uploads/COSDCANT-article-numeriquegouv-Vdef.docx)
 {: .lien-important }
 
 
