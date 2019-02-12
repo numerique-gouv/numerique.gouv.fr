@@ -10,7 +10,7 @@ chapeau-text: "**Dans le cadre du programme DCANT 2018-2020, les collectivités 
 ---
 
 **Un point d’étape lors de la commission d’orientation stratégique**
-Un an après la création de [son volet 2018-2020 ](https://www.numerique.gouv.fr/actualites/quand-etat-et-collectivites-territoriales-transforment-ensemble-le-service-public-decouvrez-le-programme-dcant-2018-2020/) {:target="_blank"} et dans le respect de son ADN qui place la coopération et l’échange au centre de son action, le programme DCANT a rassemblé l’ensemble des acteurs pour évaluer l’état d’avancement et décider ensemble de la suite des étapes nécessaires à la conduite de sa mission. Réunis dans le cadre d’une commission d’orientation stratégique (COS) le vendredi 25 janvier 2019, l’Etat et les partenaires du programme – collectivités territoriales et associations d’élus – ont collectivement dressé le bilan du dernier semestre 2018 et établi la feuille de route du premier semestre 2019. 
+Un an après la création de [son volet 2018-2020 ](https://www.numerique.gouv.fr/actualites/quand-etat-et-collectivites-territoriales-transforment-ensemble-le-service-public-decouvrez-le-programme-dcant-2018-2020/){:target="_blank"} et dans le respect de son ADN qui place la coopération et l’échange au centre de son action, le programme DCANT a rassemblé l’ensemble des acteurs pour évaluer l’état d’avancement et décider ensemble de la suite des étapes nécessaires à la conduite de sa mission. Réunis dans le cadre d’une commission d’orientation stratégique (COS) le vendredi 25 janvier 2019, l’Etat et les partenaires du programme – collectivités territoriales et associations d’élus – ont collectivement dressé le bilan du dernier semestre 2018 et établi la feuille de route du premier semestre 2019. 
 
 **Collectivités territoriales et construction de l’offre Cloud**
 Chargé d’accompagner les territoires dans leur transformation numérique, le programme DCANT affiche plusieurs succès au compteur 2018.
@@ -25,12 +25,12 @@ L’équipe du programme DCANT a aussi réalisé des **webinaires interactifs et
 
 Pour mieux accompagner les collectivités territoriales dans leur transformation numérique, l’équipe du programme DCANT propose des webinaires pédagogiques dont l’objectif est de faire connaître et expliquer le fonctionnement des différents outils mis à leur disposition par l’État.         
 Huit séances ont été réalisées depuis septembre 2018, à raison d’un webinaire en moyenne par semaine, abordant à chaque fois un thème différent, notamment : l’Open Data, le RGPD, les startups d’État (mes aides, API particulier), ou l’outil de dématérialisation démarches-simplifiées.fr. Avec plus de 4 000 vues et près de 300 heures de visionnage, le franc succès de cette initiative encourage les partenaires à poursuivre cette initiative en 2019 !
-	[Visionner les webinaires DCANT](https://www.dailymotion.com/playlist/x5s9yi) {:target="_blank"} 
+	[Visionner les webinaires DCANT](https://www.dailymotion.com/playlist/x5s9yi){:target="_blank"} 
 {: .encadre}
 
 **Objectifs : pérenniser et innover !**
 Constituée de 14 actions, dont 10 auront vocation à pérenniser et accélérer celles déjà amorcées en 2018, la nouvelle feuille de route donne la priorité à l’offre de services numériques proposée par la DINSIC et des partenaires permettant d’accompagner les collectivités dans leur transformation. Comment ? Notamment au programme des 6 prochains mois : 
-* **Accélérer le déploiement** au sein des collectivités du principe «[ Dites-le-nous une fois](https://www.numerique.gouv.fr/actualites/simplification-des-demarches-administratives-dites-le-nous-une-fois-passe-a-la-vitesse-superieure/) {:target="_blank"} 
+* **Accélérer le déploiement** au sein des collectivités du principe «[ Dites-le-nous une fois](https://www.numerique.gouv.fr/actualites/simplification-des-demarches-administratives-dites-le-nous-une-fois-passe-a-la-vitesse-superieure/){:target="_blank"} 
  », qui supprime certaines pièces justificatives dans le souci de simplifier la vie des usagers et le quotidien des agents. 
 * **Accompagner la création de nouveaux services numériques** à travers un **programme de pré-incubation de Startups de territoires**, avec l’incubateur de services publics numériques de la DINSIC. En 2018, en partenariat avec le CNFPT et Beta.gouv.fr, le programme DCANT avait déjà proposé une formation en ligne (MOOC) : [« Créer des services publics numériques innovants »](https://www.dailymotion.com/playlist/x652si){:target="_blank"} . 
 
