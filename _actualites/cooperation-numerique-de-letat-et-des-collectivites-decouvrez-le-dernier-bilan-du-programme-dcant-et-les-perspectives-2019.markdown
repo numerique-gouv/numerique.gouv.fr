@@ -2,11 +2,11 @@
 title: 'Coopération numérique de l’État et des collectivités : découvrez le dernier
   bilan du programme DCANT et les perspectives 2019 !'
 date: 2019-02-12 14:41:00 +01:00
-chapeau-text: Dans le cadre du programme DCANT 2018-2020, les collectivités territoriales
+chapeau-text: "**Dans le cadre du programme DCANT 2018-2020, les collectivités territoriales
   et l’État ont défini en concertation 4 axes prioritaires pour construire ensemble
   des services publics numériques territoriaux. Un nouveau rapport d’étape dresse
   le bilan du deuxième semestre 2018, et présente les actions attendues pour le premier
-  semestre 2019.
+  semestre 2019.**"
 ---
 
 **Un point d’étape lors de la commission d’orientation stratégique**
