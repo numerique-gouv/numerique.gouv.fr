@@ -30,7 +30,8 @@ Huit séances ont été réalisées depuis septembre 2018, à raison d’un webi
 	            [Visionner les webinaires DCANT](https://www.dailymotion.com/playlist/x5s9yi){:target="_blank"} 
 {: .encadre}
 
-**Objectifs : pérenniser et innover !**
+##Objectifs : pérenniser et innover !
+
 Constituée de 14 actions, dont 10 auront vocation à pérenniser et accélérer celles déjà amorcées en 2018, la nouvelle feuille de route donne la priorité à l’offre de services numériques proposée par la DINSIC et des partenaires permettant d’accompagner les collectivités dans leur transformation. Comment ? Notamment au programme des 6 prochains mois : 
 * **Accélérer le déploiement** au sein des collectivités du principe «[ Dites-le-nous une fois](https://www.numerique.gouv.fr/actualites/simplification-des-demarches-administratives-dites-le-nous-une-fois-passe-a-la-vitesse-superieure/){:target="_blank"} 
  », qui supprime certaines pièces justificatives dans le souci de simplifier la vie des usagers et le quotidien des agents. 
