@@ -25,6 +25,7 @@ L’équipe du programme DCANT a aussi réalisé des **webinaires interactifs et
 
 
 > ###Les webinaires du programme DCANT
+
 Pour mieux accompagner les collectivités territoriales dans leur transformation numérique, l’équipe du programme DCANT propose des webinaires pédagogiques dont l’objectif est de faire connaître et expliquer le fonctionnement des différents outils mis à leur disposition par l’État.         
 Huit séances ont été réalisées depuis septembre 2018, à raison d’un webinaire en moyenne par semaine, abordant à chaque fois un thème différent, notamment : l’Open Data, le RGPD, les startups d’État (mes aides, API particulier), ou l’outil de dématérialisation démarches-simplifiées.fr. Avec plus de 4 000 vues et près de 300 heures de visionnage, le franc succès de cette initiative encourage les partenaires à poursuivre cette initiative en 2019 !
 	            [Visionner les webinaires DCANT](https://www.dailymotion.com/playlist/x5s9yi){:target="_blank"} 
