@@ -1,7 +1,7 @@
 ---
 title: 'Coopération numérique de l’État et des collectivités : découvrez le dernier
   bilan du programme DCANT et les perspectives 2019 !'
-date: 2019-02-12 14:41:00 +01:00
+date: 2019-02-13 10:20:00 +01:00
 categories:
 - Article
 tags:
@@ -20,7 +20,7 @@ une-ou-diaporama:
 
 ### Un point d’étape lors de la commission d’orientation stratégique
 {: .margin-top-2 .margin-bottom-1}
-<figure class='image-right' style='width: 30%; margin: 10;'>
+<figure class='image-right' style='width: 30%; margin-left: 10px;'>
   <img src="/uploads/DCANT_COS_2019fevrier.JPG"/>
   <figcaption>La commission d'orientation stratégique, réunie le 25 janvier 2019</figcaption>
 </figure>
@@ -61,5 +61,5 @@ Constituée de 14 actions, dont 10 auront vocation à pérenniser et accélérer
 [![Consulter le bilan du 2nd semestre 2018 et la feuille de route du 1er semestre 2019 - pdf](/uploads/DCANT-bilan-perspectives-couv-doc150.jpg)](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf "Consulter le bilan du 2nd semestre 2018 et la feuille de route du 1er semestre 2019 - pdf")
 {: .text-center}
 
-> [Consulter le bilan du 2nd semestre 2018 et la feuille de route du 1er semestre 2019](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf "Consulter le bilan du 1er semestre 2018 et la feuille de route du 1er semestre 2019 - pdf")(pdf - 2,2Mo)
+> [Consulter le bilan DCANT du 2nd semestre 2018 et la feuille de route du 1er semestre 2019](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf "Consulter le bilan du 1er semestre 2018 et la feuille de route du 1er semestre 2019 - pdf")(pdf - 2,2Mo)
 {: .lien-important }
