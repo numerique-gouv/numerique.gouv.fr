@@ -1,7 +1,7 @@
 ---
 title: 'Coopération numérique de l’État et des collectivités : découvrez le dernier
   bilan du programme DCANT et les perspectives 2019 !'
-date: 2019-02-12 14:41:00 +01:00
+date: 2019-02-13 10:20:00 +01:00
 categories:
 - Article
 tags:
