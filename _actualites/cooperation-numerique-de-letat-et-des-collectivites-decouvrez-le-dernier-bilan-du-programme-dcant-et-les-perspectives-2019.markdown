@@ -44,7 +44,7 @@ L’équipe du programme DCANT a aussi réalisé des **webinaires interactifs et
 > Huit séances ont été réalisées depuis septembre 2018, à raison d’un webinaire en moyenne par semaine, abordant à chaque fois un thème différent, notamment : l’Open Data, le RGPD, les startups d’État (mes aides, API particulier), ou l’outil de dématérialisation demarches-simplifiees.fr. Avec plus de 4 000 vues et près de 300 heures de visionnage, le franc succès de cette initiative encourage les partenaires à la poursuivre en 2019 !
 > <br><br>
 > **[> Visionner les webinaires DCANT](https://www.dailymotion.com/playlist/x5s9yi "Visionner les webinaires DCANT-Nouvelle fenêtre")**{:target="_blank"}
-> {: .encadre}
+{: .encadre}
 
 ### Objectifs : pérenniser et innover !
 
@@ -63,5 +63,5 @@ Constituée de 14 actions, dont 10 auront vocation à pérenniser et accélérer
 ![DCANT-bilan-perspectives-couv-doc150.jpg](/uploads/DCANT-bilan-perspectives-couv-doc150.jpg)
 {: .text-center}
 
-> [Consulter le bilan du 2nd semestre 2018 et la feuille de route du 1er semestre 2019](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf "Consulter le bilan du 1er semestre 2018 et la feuille de route du 1er semestre 2019 - pdf")(pdf - 2,2Mo)
-> {: .lien-important }
+[Consulter le bilan du 2nd semestre 2018 et la feuille de route du 1er semestre 2019](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf "Consulter le bilan du 1er semestre 2018 et la feuille de route du 1er semestre 2019 - pdf")(pdf - 2,2Mo)
+{: .lien-important }
