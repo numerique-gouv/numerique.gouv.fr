@@ -19,7 +19,7 @@ une-ou-diaporama:
 ### Un point d’étape lors de la commission d’orientation stratégique
 
 {: .margin-top-2 .margin-bottom-1}
-<figure class='image-top-right' style='width: 30%; margin: 10'>
+<figure class='image-right' style='width: 30%; margin: 10'>
   <img src="/uploads/DCANT_COS_2019fevrier.JPG"/>
   <figcaption>La commission d'orientation stratégique, réunie le 25 janvier 2019</figcaption>
 </figure>
