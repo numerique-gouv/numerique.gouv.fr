@@ -42,7 +42,7 @@ L’équipe du programme DCANT a aussi réalisé des **webinaires interactifs et
 > <br><br>
 > Huit séances ont été réalisées depuis septembre 2018, à raison d’un webinaire en moyenne par semaine, abordant à chaque fois un thème différent, notamment : l’open data, le RGPD, les Startups d’État (Mes aides, API particulier) ou l’outil de dématérialisation demarches-simplifiees.fr. Chaque séance est ensuite diffusée en ligne sur la chaîne Dailymotion de la DINSIC. Avec plus de 4 000 vues et près de 300 heures de visionnage, le franc succès de cette initiative encourage les partenaires à la poursuivre en 2019 !
 > <br><br>
-> **[> Visionner les webinaires DCANT](https://www.dailymotion.com/playlist/x5s9yi "Visionner les webinaires DCANT-Nouvelle fenêtre")**{:target="_blank"}
+> [**> Visionner les webinaires DCANT**](https://www.dailymotion.com/playlist/x5s9yi "Visionner les webinaires DCANT-Nouvelle fenêtre"){:target="_blank"}
 {: .encadre}
 
 ### Objectifs : pérenniser et innover !
