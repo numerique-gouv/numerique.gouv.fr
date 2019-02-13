@@ -35,7 +35,7 @@ Pour accompagner les collectivités dans **la mise en application du règlement 
 L’équipe du programme DCANT a aussi réalisé des **webinaires interactifs et opérationnels** pour **faciliter l’appropriation des outils** mis à disposition de toutes les collectivités par l’État.
 
 > #### Les webinaires du programme DCANT
-> [![Accéder aux webinaires DCANT-Nouvelle fenêtre](/uploads/webinaires-DCANT2.png)](https://www.dailymotion.com/playlist/x5s9yi){:target="_blank"}
+> [![Accéder aux webinaires DCANT-Nouvelle fenêtre](/uploads/webinaires-DCANT2.png)](https://www.dailymotion.com/playlist/x5s9yi "Accéder aux webinaires DCANT-Nouvelle fenêtre"){:target="_blank"}
 > Pour mieux accompagner les collectivités territoriales dans leur transformation numérique, l’équipe du programme DCANT propose des webinaires pédagogiques dont l’objectif est de faire connaître et expliquer le fonctionnement des différents outils mis à leur disposition par l’État.
 > <br><br>
 > Huit séances ont été réalisées depuis septembre 2018, à raison d’un webinaire en moyenne par semaine, abordant à chaque fois un thème différent, notamment : l’Open Data, le RGPD, les startups d’État (mes aides, API particulier), ou l’outil de dématérialisation demarches-simplifiees.fr. Avec plus de 4 000 vues et près de 300 heures de visionnage, le franc succès de cette initiative encourage les partenaires à la poursuivre en 2019 !
@@ -56,8 +56,8 @@ Constituée de 14 actions, dont 10 auront vocation à pérenniser et accélérer
 
 <br>
 <br>
-[![Consulter le bilan du 2nd semestre 2018 et la feuille de route du 1er semestre 2019 - pdf](/uploads/DCANT-bilan-perspectives-couv-doc150.jpg)](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf)
+[![Consulter le bilan du 2nd semestre 2018 et la feuille de route du 1er semestre 2019 - pdf](/uploads/DCANT-bilan-perspectives-couv-doc150.jpg)](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf "Consulter le bilan du 2nd semestre 2018 et la feuille de route du 1er semestre 2019 - pdf")
 {: .text-center}
 
-[Consulter le bilan du 2nd semestre 2018 et la feuille de route du 1er semestre 2019](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf "Consulter le bilan du 1er semestre 2018 et la feuille de route du 1er semestre 2019 - pdf")(pdf - 2,2Mo)
+> [Consulter le bilan du 2nd semestre 2018 et la feuille de route du 1er semestre 2019](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf "Consulter le bilan du 1er semestre 2018 et la feuille de route du 1er semestre 2019 - pdf")(pdf - 2,2Mo)
 {: .lien-important }
