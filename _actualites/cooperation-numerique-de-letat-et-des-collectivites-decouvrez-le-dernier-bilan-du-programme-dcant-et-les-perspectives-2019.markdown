@@ -50,7 +50,7 @@ Constituée de 14 actions, dont 10 auront vocation à pérenniser et accélérer
 * **Accompagner la création de nouveaux services numériques** à travers un **programme de pré-incubation de Startups de territoires**, avec l’incubateur de services publics numériques de la DINSIC. En 2018, en partenariat avec le CNFPT et Beta.gouv.fr, le programme DCANT avait déjà proposé une formation en ligne (MOOC) : [« Créer des services publics numériques innovants »](https://www.dailymotion.com/playlist/x652si "Créer des services publics numériques innovants- Nouvelle fenêtre"){:target="_blank"}. 
 
 * **Développer un dispositif de remontée d’information** et des besoins des collectivités dans le domaine de la transformation numérique. En parallèle vont se poursuivre les rencontres 360° qui, tous les premiers lundis du mois dans les locaux de la DINSIC, permettent de découvrir les solutions numériques de l’État.
-<br>
+
 <br>
 <br>
 [![DCANT-bilan-perspectives-couv-doc150.jpg](/uploads/DCANT-bilan-perspectives-couv-doc150.jpg)](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf)
