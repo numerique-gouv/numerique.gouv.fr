@@ -19,7 +19,7 @@ une-ou-diaporama:
 ### Un point d’étape lors de la commission d’orientation stratégique
 
 {: .margin-top-2 .margin-bottom-1}
-<figure class='image-right' style='width: 30%;'>
+<figure class='image-top-right' style='width: 30%; margin: 10'>
   <img src="/uploads/DCANT_COS_2019fevrier.JPG"/>
   <figcaption>La commission d'orientation stratégique, réunie le 25 janvier 2019</figcaption>
 </figure>
@@ -38,7 +38,7 @@ Pour accompagner les collectivités dans **la mise en application du règlement 
 L’équipe du programme DCANT a aussi réalisé des **webinaires interactifs et opérationnels** pour **faciliter l’appropriation des outils** mis à disposition de toutes les collectivités par l’État.
 
 > #### Les webinaires du programme DCANT
->
+> ![webinaires-DCANT.png](/uploads/webinaires-DCANT.png)
 > Pour mieux accompagner les collectivités territoriales dans leur transformation numérique, l’équipe du programme DCANT propose des webinaires pédagogiques dont l’objectif est de faire connaître et expliquer le fonctionnement des différents outils mis à leur disposition par l’État.
 > <br><br>
 > Huit séances ont été réalisées depuis septembre 2018, à raison d’un webinaire en moyenne par semaine, abordant à chaque fois un thème différent, notamment : l’Open Data, le RGPD, les startups d’État (mes aides, API particulier), ou l’outil de dématérialisation demarches-simplifiees.fr. Avec plus de 4 000 vues et près de 300 heures de visionnage, le franc succès de cette initiative encourage les partenaires à la poursuivre en 2019 !
