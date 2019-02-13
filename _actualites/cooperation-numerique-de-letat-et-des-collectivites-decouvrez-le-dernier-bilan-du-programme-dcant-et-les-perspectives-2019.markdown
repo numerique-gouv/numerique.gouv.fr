@@ -17,18 +17,18 @@ une-ou-diaporama:
 ---
 
 ### Un point d’étape lors de la commission d’orientation stratégique
-
+{: .margin-top-2 .margin-bottom-1}
 Un an après la création de [son volet 2018-2020 ](https://www.numerique.gouv.fr/actualites/quand-etat-et-collectivites-territoriales-transforment-ensemble-le-service-public-decouvrez-le-programme-dcant-2018-2020/ "son volet 2018-2020-Nouvelle fenêtre"){:target="_blank"} et dans le respect de son ADN qui place la coopération et l’échange au centre de son action, le programme DCANT a rassemblé l’ensemble des acteurs pour évaluer l’état d’avancement et décider ensemble de la suite des étapes nécessaires à la conduite de sa mission. Réunis dans le cadre d’une commission d’orientation stratégique (COS) le vendredi 25 janvier 2019, l’Etat et les partenaires du programme – collectivités territoriales et associations d’élus – ont collectivement dressé le bilan du dernier semestre 2018 et établi la feuille de route du premier semestre 2019. 
 
 
 ### Collectivités territoriales et construction de l’offre Cloud
-
+{: .margin-top-2 .margin-bottom-1}
 Chargé d’accompagner les territoires dans leur transformation numérique, le programme DCANT affiche plusieurs succès au compteur 2018.
 Fidèle à l’approche de coconstruction qui fait la particularité du programme, l’État et les collectivités ont travaillé de concert pour intégrer les territoires dans **la stratégie Cloud nationale.** Un questionnaire en ligne et des groupes de travail ont permis de recueillir leurs besoins en matière d’infrastructure, d’hébergement et de services numériques associés. Le but : participer à la fluidité et la performance des services publics numériques territoriaux et par effet de rebond, à la satisfaction des usagers. C’est donc en toute logique qu’une action du premier semestre 2019 est dédiée à la préparation de l’arrivée de l’offre Cloud dans les territoires.
 
 
 ### Un accompagnement opérationnel  
-
+{: .margin-top-2 .margin-bottom-1}
 Pour accompagner les collectivités dans **la mise en application du règlement général pour la protection des données** (RGPD), plusieurs rencontres entre têtes de réseaux territoriaux et membres de la CNIL ont été organisées. Au menu : échanges de bonnes pratiques, retours d’expérience et conseils. 
 L’équipe du programme DCANT a aussi réalisé des **webinaires interactifs et opérationnels** pour **faciliter l’appropriation des outils** mis à disposition de toutes les collectivités par l’État. 
 
@@ -43,7 +43,7 @@ L’équipe du programme DCANT a aussi réalisé des **webinaires interactifs et
 {: .encadre}
 
 ### Objectifs : pérenniser et innover !
-
+{: .margin-top-2 .margin-bottom-1}
 Constituée de 14 actions, dont 10 auront vocation à pérenniser et accélérer celles déjà amorcées en 2018, la nouvelle feuille de route donne la priorité à l’offre de services numériques proposée par la DINSIC et des partenaires permettant d’accompagner les collectivités dans leur transformation. Comment ? Notamment au programme des 6 prochains mois : 
 * **Accélérer le déploiement** au sein des collectivités du principe «[ Dites-le-nous une fois](https://www.numerique.gouv.fr/actualites/simplification-des-demarches-administratives-dites-le-nous-une-fois-passe-a-la-vitesse-superieure/ "Dites-le-nous une fois-Nouvelle fenêtre"){:target="_blank"} 
  », qui supprime certaines pièces justificatives dans le souci de simplifier la vie des usagers et le quotidien des agents. 
