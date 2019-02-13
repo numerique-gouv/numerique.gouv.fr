@@ -7,6 +7,7 @@ categories:
 tags:
 - DCANT
 - collectivités
+- territoires
 chapeau-text: "**Dans le cadre du programme DCANT 2018-2020, les collectivités territoriales
   et l’État ont défini en concertation 4 axes prioritaires pour construire ensemble
   des services publics numériques territoriaux. Un nouveau rapport d’étape dresse
