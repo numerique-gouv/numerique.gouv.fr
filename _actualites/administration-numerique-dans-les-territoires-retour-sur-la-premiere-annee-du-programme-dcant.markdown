@@ -11,6 +11,8 @@ tags:
 chapeau-text: 'Un an après son lancement officiel, le programme de développement concerté
   de l’administration numérique territoriale (DCANT), piloté par le SGMAP, fait un
   premier bilan d’étape. '
+une-ou-diaporama:
+- image: "/uploads/une_dcant.jpg"
 ---
 
 Voilà un peu plus d’un an, [Etat et collectivités lançaient le programme ](https://www.modernisation.gouv.fr/home/etat-et-collectivites-developpement-administration-numerique-dcant){:target="_blank"}
