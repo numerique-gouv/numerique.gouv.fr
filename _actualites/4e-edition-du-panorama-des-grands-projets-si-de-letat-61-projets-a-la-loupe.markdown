@@ -5,6 +5,8 @@ chapeau-text: Un an après sa première parution, la direction interministériel
   numérique et du système d’information et de communication de l’Etat (DINSIC) publie
   la 4e édition du panorama des grands projets SI de l’Etat. Son suivi sur un an montre
   une tendance à la stabilité.
+une-ou-diaporama:
+- image: "/uploads/fotolia_125190131_s-79198d.jpg"
 ---
 
 La 4e édition du panorama piloté par la « DSI de l’Etat » passe en revue **61 grands projets informatiques** en cours au sein des ministères, « grands » par leur impact, leur complexité et/ou leur budget. Avec un investissement total de **2,63 milliards d’euros**, ils témoignent de l’ampleur de la transformation numérique de l’Etat actuellement à l’œuvre, tant à destination du citoyen que dans son fonctionnement interne.
