@@ -24,22 +24,22 @@ La durée moyenne d’un projet reste constante, autour de 6,2 ans. Le taux d’
 
 Dans les mois à venir, plusieurs projets doivent se terminer et sortir du panorama, parmi lesquels :
 1.**Le réseau interministériel de l’Etat (RIE)**, qui remplace progressivement les différents réseaux exploités par les 17 ministères.
-Les gains de cette infrastructure partagée ? Une seule maintenance, une seule gestion de la sécurité et surtout un seul canal pour échanger des données entre ministères. Opéré par un service à compétence nationale rattaché à la DINSIC, au sein du SGMAP, ce projet emblématique de la modernisation du SI de l’Etat achèvera son déploiement fin 2017 (consulter le [rapport d’activité 2016 du RIE](https://www.modernisation.gouv.fr/documentation/publications/rapport-activite-2016-reseau-interministeriel-etat)){: target="_blank"}
+Les gains de cette infrastructure partagée ? Une seule maintenance, une seule gestion de la sécurité et surtout un seul canal pour échanger des données entre ministères. Opéré par un service à compétence nationale rattaché à la DINSIC, au sein du SGMAP, ce projet emblématique de la modernisation du SI de l’Etat achèvera son déploiement fin 2017 (consulter le [rapport d’activité 2016 du RIE](https://www.modernisation.gouv.fr/documentation/publications/rapport-activite-2016-reseau-interministeriel-etat){: target="_blank"}
 ).
  
 2.Le projet **Alpha** de système d’information unique pour la gestion des achats du ministère des Armées.*
 Lancé opérationnellement en avril 2015, il vise à harmoniser et simplifier les processus achats de l’ensemble des entités du ministère, et contribuera à sa performance en termes de coûts et de qualité.
  
 3.**Chorus Portail Pro 2017** (CPP2017), chantier majeur permettant de mettre en œuvre la facturation électronique, qui devient obligatoire par étapes entre 2017 et 2020 pour les fournisseurs de l’État, des collectivités territoriales et des établissements publics.
-Depuis janvier 2017, le portail unique sécurisé [Chorus Pro](https://chorus-pro.gouv.fr/cpp/utilisateur?execution=e1s1https://chorus-pro.gouv.fr/cpp/utilisateur?execution=e1s1)){: target="_blank"}
+Depuis janvier 2017, le portail unique sécurisé [Chorus Pro](https://chorus-pro.gouv.fr/cpp/utilisateur?execution=e1s1https://chorus-pro.gouv.fr/cpp/utilisateur?execution=e1s1){: target="_blank"}
  permet déjà le dépôt, la réception et la transmission des factures électroniques. A terme, plus d’un million de fournisseurs de la sphère publique pourront accéder à ce service.
  
-4.La seconde version du portail interministériel de la correspondance diplomatique (Diplomatie v2), piloté par le ministère de l’Europe et des Affaires étrangères.
+4.La seconde version du portail interministériel de la correspondance diplomatique (**Diplomatie v2**), piloté par le ministère de l’Europe et des Affaires étrangères.
 Via une architecture modernisée, ce réseau social professionnel au cœur de métier du Quai d’Orsay offre d’ores et déjà, une meilleure ergonomie à ses milliers d’utilisateurs dans le monde entier.
 
  
 
-Autre point notable, le portail france-visas.gouv.fr a ouvert en version béta début octobre permettant ainsi la modernisation de la gestion des demandes de visas dans le monde entier avec six premières langues et de mieux lutter contre la fraude.
+Autre point notable, le portail [france-visas.gouv.fr](https://france-visas.gouv.fr/){: target="_blank"} a ouvert en version béta début octobre permettant ainsi la modernisation de la gestion des demandes de visas dans le monde entier avec six premières langues et de mieux lutter contre la fraude.
 
 L’ensemble des données de cette édition et des précédentes est également disponible en open data sur la plateforme data.gouv.fr.
 Un panorama pour suivre les grands projets du SI de l’État
