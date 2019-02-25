@@ -51,17 +51,18 @@ Les projets de décrets d’application de la loi République numérique y sont 
 
  
 
-Favoriser l'émergence de l'administration numérique de demain
+#### Favoriser l'émergence de l'administration numérique de demain
 
 La dernière commission d’orientation stratégique a permis de définir les priorités à venir. Les associations d’élus ont réaffirmé leur volonté que les projets numériques impactant les collectivités territoriales puissent leur être présentés en INP, le plus en amont possible. Elles ont également souhaité travailler sur les recommandations relatives à l’archivage électronique indispensable à la dématérialisation de bout en bout.
 
-La recommandation transverse relative à l’accompagnement et à la sensibilisation des collectivités locales à l’administration numérique territoriale se traduit notamment au 1er trimestre 2017 par l’organisation avec le CNFPT de cinq matinées d’actualité territorialisées sur les différentes thématiques numériques du programme DcANT illustrées par des retours pratiques des territoires.
+La recommandation transverse relative à **l’accompagnement et à la sensibilisation des collectivités locales à l’administration numérique territoriale** se traduit notamment au 1er trimestre 2017 par l’organisation avec le CNFPT de cinq matinées d’actualité territorialisées sur les différentes thématiques numériques du programme DcANT illustrées par des retours pratiques des territoires.
 
-Au 1er trimestre 2017, le bilan du « proof of concept » (POC) FranceConnect Agent porté par le ministère de l’Intérieur, aujourd’hui en cours, marquera une étape importante dans la mise en œuvre de la recommandation portant sur la simplification des modes d’échanges inter-administrations.
+Au 1er trimestre 2017, le bilan du « proof of concept » (POC) **FranceConnect Agent** porté par le ministère de l’Intérieur, aujourd’hui en cours, marquera une étape importante dans la mise en œuvre de la recommandation portant sur la simplification des modes d’échanges inter-administrations.
 
-Les préfigurations lancées concernant le « tout dématérialisation » de la commande publique, afin d’anticiper la généralisation de la réponse électronique aux marchés publics au 1er octobre 2018 se poursuivent. Une attention forte sera portée à la capacité d’essaimage des acheteurs publics préfigurateurs auprès de leur territoire, concernant le volet simplification (Marché public simplifié - MPS, API Entreprise) et dématérialisation. S’agissant du volet transparence, le programme DcANT pourra capitaliser sur le partenariat pour un gouvernement ouvert et poursuivre le suivi de la préfiguration de ce volet à travers notamment les expérimentations menées en Bretagne et Bourgogne Franche-Comté concernant l’ouverture des données de marché public. 
+Les préfigurations lancées concernant **le « tout dématérialisation » de la commande publique**, afin d’anticiper la généralisation de la réponse électronique aux marchés publics au 1er octobre 2018 se poursuivent. Une attention forte sera portée à la capacité d’essaimage des acheteurs publics préfigurateurs auprès de leur territoire, concernant le volet simplification (Marché public simplifié - MPS, API Entreprise) et dématérialisation. S’agissant du volet transparence, le programme DcANT pourra capitaliser sur le partenariat pour un gouvernement ouvert et poursuivre le suivi de la préfiguration de ce volet à travers notamment les expérimentations menées en Bretagne et Bourgogne Franche-Comté concernant l’ouverture des données de marché public. 
 
->> Lire aussi Pour une commande publique simplifiée et dématérialisée : les territoires lancent la préfiguration
+>> [Lire aussi Pour une commande publique simplifiée et dématérialisée : les territoires lancent la préfiguration
+](https://www.modernisation.gouv.fr/home/commande-publique-simplifiee-dematerialisee-territoires-lancent-prefiguration){:target="_blank"}
 
 Le développement de l'archivage électronique dans les territoires a fait l'objet d'une étude collective, menée par un groupe projet composé de représentants de différentes collectivités territoriales, d'administrations centrales et d'associations professionnelles partenaires. Finalisée en octobre 2017, cette étude présente un benchmarck et diagnostic des stratégies et dispositifs actuels, une analyse du cadre juridique en vigueur, et enfin différents scénarios de mise en œuvre dans les territoires de systèmes d'archivage électronique adaptés aux besoins des collectivités afin d'en favoriser l'émergence.
 
