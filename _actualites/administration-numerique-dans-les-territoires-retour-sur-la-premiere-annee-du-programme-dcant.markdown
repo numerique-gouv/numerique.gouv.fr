@@ -78,4 +78,4 @@ Enfin, les travaux concernant le développement de l’écosystème numérique d
 
 
 Vous souhaitez rejoindre la communauté constituée en faveur du développement de l’administration numérique territoriale et contribuer activement à la mise en œuvre opérationnelle des recommandations ?
-Faites-le nous savoir en écrivant à l’adresse suivante : DcANT.sgmap@modernisation.gouv.fr
+Faites-le nous savoir en écrivant à l’adresse suivante : [DCANT.sgmap@modernisation.gouv.fr](mailto:DcANT.sgmap@modernisation.gouv.fr?subject=Rejoindre%20la%20communaut%C3%A9%20DcANT){:target="_blank"}
