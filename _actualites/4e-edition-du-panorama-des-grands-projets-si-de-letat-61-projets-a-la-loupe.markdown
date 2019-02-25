@@ -24,18 +24,18 @@ La durée moyenne d’un projet reste constante, autour de 6,2 ans. Le taux d’
 
 Dans les mois à venir, plusieurs projets doivent se terminer et sortir du panorama, parmi lesquels :
 
-1.**Le réseau interministériel de l’Etat (RIE)**, qui remplace progressivement les différents réseaux exploités par les 17 ministères.
+1. **Le réseau interministériel de l’Etat (RIE)**, qui remplace progressivement les différents réseaux exploités par les 17 ministères.
 Les gains de cette infrastructure partagée ? Une seule maintenance, une seule gestion de la sécurité et surtout un seul canal pour échanger des données entre ministères. Opéré par un service à compétence nationale rattaché à la DINSIC, au sein du SGMAP, ce projet emblématique de la modernisation du SI de l’Etat achèvera son déploiement fin 2017 (consulter le [rapport d’activité 2016 du RIE](https://www.modernisation.gouv.fr/documentation/publications/rapport-activite-2016-reseau-interministeriel-etat){: target="_blank"}
 ).
  
-2.Le projet **Alpha** de système d’information unique pour la gestion des achats du ministère des Armées.*
+2. Le projet **Alpha** de système d’information unique pour la gestion des achats du ministère des Armées.*
 Lancé opérationnellement en avril 2015, il vise à harmoniser et simplifier les processus achats de l’ensemble des entités du ministère, et contribuera à sa performance en termes de coûts et de qualité.
  
-3.**Chorus Portail Pro 2017** (CPP2017), chantier majeur permettant de mettre en œuvre la facturation électronique, qui devient obligatoire par étapes entre 2017 et 2020 pour les fournisseurs de l’État, des collectivités territoriales et des établissements publics.
+3. **Chorus Portail Pro 2017** (CPP2017), chantier majeur permettant de mettre en œuvre la facturation électronique, qui devient obligatoire par étapes entre 2017 et 2020 pour les fournisseurs de l’État, des collectivités territoriales et des établissements publics.
 Depuis janvier 2017, le portail unique sécurisé [Chorus Pro](https://chorus-pro.gouv.fr/cpp/utilisateur?execution=e1s1https://chorus-pro.gouv.fr/cpp/utilisateur?execution=e1s1){: target="_blank"}
  permet déjà le dépôt, la réception et la transmission des factures électroniques. A terme, plus d’un million de fournisseurs de la sphère publique pourront accéder à ce service.
  
-4.La seconde version du portail interministériel de la correspondance diplomatique (**Diplomatie v2**), piloté par le ministère de l’Europe et des Affaires étrangères.
+4. La seconde version du portail interministériel de la correspondance diplomatique (**Diplomatie v2**), piloté par le ministère de l’Europe et des Affaires étrangères.
 Via une architecture modernisée, ce réseau social professionnel au cœur de métier du Quai d’Orsay offre d’ores et déjà, une meilleure ergonomie à ses milliers d’utilisateurs dans le monde entier.
 
  
@@ -44,7 +44,7 @@ Autre point notable, le portail [france-visas.gouv.fr](https://france-visas.gouv
 
 L’ensemble des données de cette édition et des précédentes est également disponible en open data sur la plateforme [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){: target="_blank"}.
 
-> ###Un panorama pour suivre les grands projets du SI de l’État
+> ### Un panorama pour suivre les grands projets du SI de l’État
 Rendu public pour la première fois en novembre 2016, le panorama des grands projets SI de l’Etat recense et décrit les principaux chantiers informatiques en cours, sélectionnés pour leur fort impact pour les usagers, les ministères ou les agents, leur complexité et/ou leur enjeu budgétaire.
 
 Chaque projet est présenté en 10 points, dont la durée prévisionnelle, le coût estimatif, le ministère porteur et la phase en cours. Le panorama propose également une vue synthétique avec, notamment, la durée moyenne d’un projet, les taux d’écart calendaire et budgétaire moyens, la répartition par ministère, par budget, par zone fonctionnelle…
