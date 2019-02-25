@@ -19,11 +19,12 @@ Achevé en octobre dernier, le projet d’**offre d’infrastructure de gestion 
 C’est bien là la vocation initiale de ce tableau de bord : à travers un suivi régulier, permettre à la DINSIC de surveiller et sécuriser les grands projets SI de l’Etat, et en rendre compte. Cette 4e édition du panorama, un an après la première parution en novembre 2016, permet de noter une tendance globale à la stabilité.
 
 La durée moyenne d’un projet reste constante, autour de 6,2 ans. Le taux d’écart budgétaire (moyenne des écarts entre budgets finaux et budgets prévus initialement) sur l’ensemble du portefeuille a très peu varié et s’établit aujourd’hui à 25%. Enfin, le taux d’écart calendaire (moyenne pondérée des écarts entre durées finales et durées prévues initialement), 22% pour cette 4e édition, a enregistré sur un an une baisse de 2 points.
-Fins de projets annoncées
+
+###Fins de projets annoncées
 
 Dans les mois à venir, plusieurs projets doivent se terminer et sortir du panorama, parmi lesquels :
-1.Le réseau interministériel de l’Etat (RIE), qui remplace progressivement les différents réseaux exploités par les 17 ministères.
-Les gains de cette infrastructure partagée ? Une seule maintenance, une seule gestion de la sécurité et surtout un seul canal pour échanger des données entre ministères. Opéré par un service à compétence nationale rattaché à la DINSIC, au sein du SGMAP, ce projet emblématique de la modernisation du SI de l’Etat achèvera son déploiement fin 2017 (consulter le rapport d’activité 2016 du RIE).
+1.**Le réseau interministériel de l’Etat (RIE)**, qui remplace progressivement les différents réseaux exploités par les 17 ministères.
+Les gains de cette infrastructure partagée ? Une seule maintenance, une seule gestion de la sécurité et surtout un seul canal pour échanger des données entre ministères. Opéré par un service à compétence nationale rattaché à la DINSIC, au sein du SGMAP, ce projet emblématique de la modernisation du SI de l’Etat achèvera son déploiement fin 2017 (consulter le [rapport d’activité 2016 du RIE](https://www.modernisation.gouv.fr/documentation/publications/rapport-activite-2016-reseau-interministeriel-etat)).
  
 2.Le projet Alpha de système d’information unique pour la gestion des achats du ministère des Armées.
 Lancé opérationnellement en avril 2015, il vise à harmoniser et simplifier les processus achats de l’ensemble des entités du ministère, et contribuera à sa performance en termes de coûts et de qualité.
