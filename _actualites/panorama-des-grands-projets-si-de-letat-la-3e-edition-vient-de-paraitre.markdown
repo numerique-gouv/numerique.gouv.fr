@@ -43,6 +43,6 @@ L’ensemble des données, de cette édition et des précédentes, est égalemen
 >Le panorama propose également une vue synthétique avec, notamment, la durée moyenne d’un projet, les taux d’écart calendaire et budgétaire moyens, la répartition par ministère, par budget, par zone fonctionnelle…
 >
 >Conçu à l’origine pour le gouvernement, ce panorama est avant tout un outil de pilotage interne permettant de suivre et sécuriser les grands projets SI de l’Etat. Son ouverture au public offre une vision détaillée des grandes transformations informatiques en œuvre au sein de l’Etat.
->
+><br>
 >[En savoir plus](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/panorama-des-grands-projets-si-de-letat){:target="_blank"}
 {: .encadre}
