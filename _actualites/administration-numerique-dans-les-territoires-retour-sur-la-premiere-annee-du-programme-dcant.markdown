@@ -35,15 +35,15 @@ En matière d’archivage électronique, des travaux menés avec les association
 {: .encadre}
  
 
-Les échanges se multiplient
+### Les échanges se multiplient
 
 Les échanges au sein de l’instance nationale partenariale se sont poursuivis pour recueillir remarques et points d’attention du secteur public local. Si un nombre de plus en plus important de ces projets font l’objet d’un temps d’échange au sein de l’INP, cette démarche n’est pas encore généralisée pour l’ensemble des ministères.
 
 Au cours de l’année 2016, associations de collectivités territoriales et ministères porteurs ont notamment échangé dans le cadre de l’INP, sur :
-le référentiel général d'interopérabilité (RGI) et son projet d’arrêté d’application ;
-le projet de décret d’application de la loi relative à la liberté de la création, à l’architecture et au patrimoine ;
-les projets d’arrêtés relatifs aux fonctionnalités et exigences minimales des profils d’acheteur et à la publication des données essentielles des marchés publics en application de la réforme du droit de la commande publique ;
-les perspectives d’application réglementaire de la loi Modernisation de la justice du 21e siècle. 
+*  le référentiel général d'interopérabilité (RGI) et son projet d’arrêté d’application ;
+* le projet de décret d’application de la loi relative à la liberté de la création, à l’architecture et au patrimoine ;
+* les projets d’arrêtés relatifs aux fonctionnalités et exigences minimales des profils d’acheteur et à la publication des données essentielles des marchés publics en application de la réforme du droit de la commande publique ;
+*les perspectives d’application réglementaire de la loi Modernisation de la justice du 21e siècle. 
 
  
 
