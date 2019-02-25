@@ -25,3 +25,6 @@ Par ailleurs, plusieurs projets achevés quittent le panorama tels que le projet
 
 L’ensemble des données, de cette édition et des précédentes, est également disponible en open data sur la plateforme [data.gouv.fr.
 ](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){:target="_blank"}
+
+> [Consulter les données du panorama des grands projets SI de l'Etat](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){:target="_blank"}
+{: .lien-important }
