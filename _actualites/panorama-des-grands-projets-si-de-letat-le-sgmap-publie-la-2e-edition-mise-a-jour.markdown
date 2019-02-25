@@ -6,6 +6,8 @@ chapeau-text: En novembre 2016, le SGMAP rendait publique la liste détaillée d
   projets du système d’information (SI) de l'Etat. Utilisé pour prioriser les actions
   facilitant la réussite de ces projets, ce panorama est actualisé trois fois par
   an. La 2e édition vient de paraître.
+une-ou-diaporama:
+- image: "/uploads/fotolia_125190131_s-79198d.jpg"
 ---
 
 Quatre mois après sa publication, inédite, le panorama des grands projets du système d’information (SI) de l'Etat connaît sa première actualisation.
