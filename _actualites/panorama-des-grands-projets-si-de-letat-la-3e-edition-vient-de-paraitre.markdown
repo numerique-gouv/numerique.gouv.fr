@@ -21,6 +21,6 @@ La plateforme [geoportail.gouv.fr](https://www.geoportail.gouv.fr/){:target="_bl
 
 Le projet Elire vise à simplifier les modalités d'inscription sur les listes électorales, grâce à la mise en place d’un répertoire électoral unique.
 
-Par ailleurs, plusieurs projets achevés quittent le panorama tels que le projet HOMERE permettant à environ 4,5 millions de ménages par an de répondre en ligne aux enquêtes de recensement de l’INSEE et le service CIEL dématérialisant les principales déclarations fiscales et le paiement des contributions indirectes pour les opérateurs de l’alcool et de la filière vitivinicole.
+Par ailleurs, plusieurs projets achevés quittent le panorama tels que le projet HOMERE permettant à environ 4,5 millions de ménages par an de [répondre en ligne aux enquêtes de recensement ](https://www.le-recensement-et-moi.fr/rpetmoi/accueil){:target="_blank"} de l’INSEE et le service CIEL dématérialisant les principales déclarations fiscales et le paiement des contributions indirectes pour les opérateurs de l’alcool et de la filière vitivinicole.
 
 L’ensemble des données, de cette édition et des précédentes, est également disponible en open data sur la plateforme data.gouv.fr.
