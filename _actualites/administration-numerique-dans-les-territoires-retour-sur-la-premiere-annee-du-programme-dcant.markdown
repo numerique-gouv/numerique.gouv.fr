@@ -31,7 +31,7 @@ En matière d’archivage électronique, des travaux menés avec les association
 
 >### La mobilisation des acteurs à l'origine du programme
 >
->Piloté par le secrétariat général pour la modernisation de l’action publique (SGMAP), le programme de développement concerté de l’administration numérique territoriale (DcANT) découle de la création, en 2011, d’une instance nationale partenariale (INP) portée par l’Etat et les collectivités territoriales et elle-même animée par le SGMAP. Initialement dédiée à l’information des associations, elle est aujourd’hui devenue un lieu d’échange et de coconstruction autour des sujets numériques. L’INP entrant dans une logique opérationnelle, elle s’est engagée dès 2014 dans la construction partagée du programme DcANT. Celui-ci a pour objectif, dans une logique de mutualisation des initiatives, de faire converger la stratégie de l’Etat en faveur de la transformation numérique (Etat Plateforme, gouvernement ouvert, open data, simplification…) et les stratégies des collectivités territoriales de transition numérique.
+>Piloté par le secrétariat général pour la modernisation de l’action publique (SGMAP), le programme de développement concerté de l’administration numérique territoriale (DcANT) découle de la création, en 2011, d’une instance nationale partenariale (INP) portée par l’Etat et les collectivités territoriales et elle-même animée par le SGMAP. Initialement dédiée à l’information des associations, elle est aujourd’hui devenue un lieu d’échange et de coconstruction autour des sujets numériques. L’INP entrant dans une logique opérationnelle, elle s’est engagée dès 2014 dans la construction partagée du programme DCANT. Celui-ci a pour objectif, dans une logique de mutualisation des initiatives, de faire converger la stratégie de l’Etat en faveur de la transformation numérique (Etat Plateforme, gouvernement ouvert, open data, simplification…) et les stratégies des collectivités territoriales de transition numérique.
 {: .encadre}
  
 
@@ -43,7 +43,7 @@ Au cours de l’année 2016, associations de collectivités territoriales et min
 *  le référentiel général d'interopérabilité (RGI) et son projet d’arrêté d’application ;
 * le projet de décret d’application de la loi relative à la liberté de la création, à l’architecture et au patrimoine ;
 * les projets d’arrêtés relatifs aux fonctionnalités et exigences minimales des profils d’acheteur et à la publication des données essentielles des marchés publics en application de la réforme du droit de la commande publique ;
-*les perspectives d’application réglementaire de la loi Modernisation de la justice du 21e siècle. 
+* les perspectives d’application réglementaire de la loi Modernisation de la justice du 21e siècle. 
 
  
 
