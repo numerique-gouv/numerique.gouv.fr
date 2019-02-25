@@ -41,15 +41,15 @@ Via une architecture modernisée, ce réseau social professionnel au cœur de m�
 
 Autre point notable, le portail [france-visas.gouv.fr](https://france-visas.gouv.fr/){: target="_blank"} a ouvert en version béta début octobre permettant ainsi la modernisation de la gestion des demandes de visas dans le monde entier avec six premières langues et de mieux lutter contre la fraude.
 
-L’ensemble des données de cette édition et des précédentes est également disponible en open data sur la plateforme [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){: target="_blank"} .
-Un panorama pour suivre les grands projets du SI de l’État
+L’ensemble des données de cette édition et des précédentes est également disponible en open data sur la plateforme [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){: target="_blank"}.
 
+> ###Un panorama pour suivre les grands projets du SI de l’État
 Rendu public pour la première fois en novembre 2016, le panorama des grands projets SI de l’Etat recense et décrit les principaux chantiers informatiques en cours, sélectionnés pour leur fort impact pour les usagers, les ministères ou les agents, leur complexité et/ou leur enjeu budgétaire.
 
 Chaque projet est présenté en 10 points, dont la durée prévisionnelle, le coût estimatif, le ministère porteur et la phase en cours. Le panorama propose également une vue synthétique avec, notamment, la durée moyenne d’un projet, les taux d’écart calendaire et budgétaire moyens, la répartition par ministère, par budget, par zone fonctionnelle…
 
 Conçu à l’origine pour le gouvernement, ce panorama est avant tout un outil de pilotage interne permettant de suivre et sécuriser les grands projets SI de l’Etat. Son ouverture au public offre une vision détaillée des grandes transformations informatiques en œuvre au sein de l’Etat.
 
-> En savoir plus
+[En savoir plus](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){: target="_blank"} 
 
 
