@@ -66,7 +66,7 @@ Les préfigurations lancées concernant **le « tout dématérialisation » de l
 
 **Le développement de l'archivage électronique dans les territoires** a fait l'objet d'une étude collective, menée par un groupe projet composé de représentants de différentes collectivités territoriales, d'administrations centrales et d'associations professionnelles partenaires. Finalisée en octobre 2017, cette étude présente un benchmarck et diagnostic des stratégies et dispositifs actuels, une analyse du cadre juridique en vigueur, et enfin différents scénarios de mise en œuvre dans les territoires de systèmes d'archivage électronique adaptés aux besoins des collectivités afin d'en favoriser l'émergence.
 
->> Consulter l'étude portant sur l'archivage électronique dans les territoires
+>> [Consulter l'étude portant sur l'archivage électronique dans les territoires](https://www.modernisation.gouv.fr/etudes-et-referentiels/etudes/etude-sur-le-developpement-de-larchivage-electronique-dans-les-territoires){:target="_blank"}
 
  
 
