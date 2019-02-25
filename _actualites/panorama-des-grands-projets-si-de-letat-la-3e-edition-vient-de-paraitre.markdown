@@ -3,6 +3,8 @@ title: 'Panorama des grands projets SI de l’État : la 3e édition vient de pa
 date: 2019-02-25 13:38:00 +01:00
 chapeau-text: Quatre mois après sa 2e édition, le SGMAP publie une nouvelle version
   actualisée du panorama des grands projets SI de l’Etat, piloté par la DINSIC.
+une-ou-diaporama:
+- image: "/uploads/fotolia_125190131_s-79198d.jpg"
 ---
 
 La 3e édition du panorama des grands projets du système d’information (SI) de l’Etat présente 61 chantiers en cours au sein de l’ensemble des ministères. Relation usagers, dématérialisation, identité numérique, solutions collaboratives, big data, gestion des systèmes d’information… Le panorama  est le témoin d’une transformation numérique de l’Etat en marche, tant à destination du citoyen que dans son fonctionnement interne.
