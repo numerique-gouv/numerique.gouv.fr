@@ -54,6 +54,6 @@ Rendu public pour la première fois en novembre 2016, le panorama des grands pro
 >Chaque projet est présenté en 10 points, dont la durée prévisionnelle, le coût estimatif, le ministère porteur et la phase en cours. Le panorama propose également une vue synthétique avec, notamment, la durée moyenne d’un projet, les taux d’écart calendaire et budgétaire moyens, la répartition par ministère, par budget, par zone fonctionnelle…
 >
 >Conçu à l’origine pour le gouvernement, ce panorama est avant tout un outil de pilotage interne permettant de suivre et sécuriser les grands projets SI de l’Etat. Son ouverture au public offre une vision détaillée des grandes transformations informatiques en œuvre au sein de l’Etat.
->
+><br>
 >[En savoir plus](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){: target="_blank"} 
 {: .encadre}
