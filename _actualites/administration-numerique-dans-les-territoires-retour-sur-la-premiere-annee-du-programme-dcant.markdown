@@ -20,7 +20,7 @@ Les partenaires, Etat ou collectivités, ont porté au cours de cette première 
 
 A la suite de l'appel à projets du programme d'investissements d'avenir (PIA) « Identité numérique », le ministère de l’Intérieur et le SGMAP ont lancé, en septembre 2016, [une expérimentation afin d’étudier la faisabilité d’un FranceConnect Agent](http://etatplateforme.modernisation.gouv.fr/actualite/franceconnect-se-decline-egalement-pour-les-agents-de-la-fonction-publique)){:target="_blank"}. L’objectif : décliner l’actuel FranceConnect, le dispositif d’identification et d’authentification en ligne de l’administration, en une version dédiée aux agents de la fonction publique et aux élus locaux.
 
-Concernant la télétransmission des actes au contrôle de légalité, une nouvelle version de la convention-type a été produite dans le cadre du programme @ctes afin de supprimer les obstacles à la transmission de certains actes au contrôle de légalité.
+Concernant la télétransmission des actes au contrôle de légalité, une nouvelle version de la convention-type a été produite dans le cadre du [programme @ctes ](https://www.collectivites-locales.gouv.fr/actes-0){:target="_blank"} afin de supprimer les obstacles à la transmission de certains actes au contrôle de légalité.
 
 15 partenaires ont lancé, en janvier 2016, une préfiguration nationale en vue de la dématérialisation, de bout en bout, des marchés publics. Cette phase vise à déterminer de manière opérationnelle les conditions techniques, organisationnelles et financières de la collecte et de la publication des données des marchés. 
 
