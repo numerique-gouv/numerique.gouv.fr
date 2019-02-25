@@ -2,14 +2,21 @@
 title: La DINSIC s'engage pour l'égalité professionnelle et la diversité
 date: 2019-02-25 14:53:00 +01:00
 published: false
+categories:
+- Article
+tags:
+- Egalité
+- Diversité
 chapeau-text: 'L’égalité et la diversité sont des facteurs de dynamisme, d’innovation
   et d’efficacité. Ils sont des enjeux stratégiques tant pour le développement personnel
   que l’enrichissement collectif. La direction interministérielle du numérique (DINSIC)
   participe pleinement à la politique en faveur de la diversité, de l''égalité professionnelle
   entre les femmes et les hommes et du handicap des services du Premier ministre. '
+une-ou-diaporama:
+- image: "/uploads/Article-Egalit%C3%A9-diversit%C3%A9.jpg"
 ---
 
-À ce titre, un **plan d'action en faveur de l'égalité professionnelle et de la prévention des risques de discrimination** est actuellement déployé au sein de la DINSIC. 
+À ce titre, un **plan d'action en faveur de l'égalité professionnelle et de la prévention des risques de discrimination** est actuellement déployé au sein des services du Premier ministre, parmi lesquels la DINSIC. 
 
 Il se traduit par :
 * La mise en place d’une cellule d’écoute et de traitement des situations de souffrances au travail et des actes de discriminations supposés ou avérés ;
