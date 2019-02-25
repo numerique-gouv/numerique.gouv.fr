@@ -19,7 +19,7 @@ L’ensemble des données de ce tableau de bord, qui permet de suivre les initia
 
 De nouveaux projets intègrent le panorama - qui en compte désormais 61 - dont le prélèvement des impôts à la source (PAS), le compte personnel d'activité (CPA) et le SI pour la commission du contentieux du stationnement payant (SI CCSP).
 
->[Consulter les données du panorama des grands projets SI (Février 2017) ](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){:target="_blank"}
+>[Consulter les données du panorama des grands projets SI de l'Etat de Février 2017](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){:target="_blank"}
 {: .lien-important }
 
 Les données précédentes restent également disponibles en open data sur la plateforme data.gouv.fr.
