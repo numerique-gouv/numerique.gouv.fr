@@ -14,11 +14,13 @@ Un nouveau chantier fait son entrée dans le tableau de bord : **la modernisatio
 Achevé en octobre dernier, le projet d’**offre d’infrastructure de gestion de clés (IGC)** des ministères économiques et financiers est quant à lui le neuvième à sortir du panorama. Cette offre permet de délivrer des certificats électroniques garantissant la sécurité des données et échanges numériques, conformément aux normes du référentiel général de sécurité (RGS) et européen (e-IDAS). Après presque trois années de travaux, le coût total du chantier se révèle inférieur de 25% au budget initialement prévu.
  
 
+
 ### Une tendance à la stabilité
 
 C’est bien là la vocation initiale de ce tableau de bord : à travers un suivi régulier, permettre à la DINSIC de surveiller et sécuriser les grands projets SI de l’Etat, et en rendre compte. Cette 4e édition du panorama, un an après la première parution en novembre 2016, permet de noter une tendance globale à la stabilité.
 
 La durée moyenne d’un projet reste constante, autour de 6,2 ans. Le taux d’écart budgétaire (moyenne des écarts entre budgets finaux et budgets prévus initialement) sur l’ensemble du portefeuille a très peu varié et s’établit aujourd’hui à 25%. Enfin, le taux d’écart calendaire (moyenne pondérée des écarts entre durées finales et durées prévues initialement), 22% pour cette 4e édition, a enregistré sur un an une baisse de 2 points.
+
 
 ### Fins de projets annoncées
 
