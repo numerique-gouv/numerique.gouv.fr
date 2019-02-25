@@ -20,7 +20,7 @@ C’est bien là la vocation initiale de ce tableau de bord : à travers un suiv
 
 La durée moyenne d’un projet reste constante, autour de 6,2 ans. Le taux d’écart budgétaire (moyenne des écarts entre budgets finaux et budgets prévus initialement) sur l’ensemble du portefeuille a très peu varié et s’établit aujourd’hui à 25%. Enfin, le taux d’écart calendaire (moyenne pondérée des écarts entre durées finales et durées prévues initialement), 22% pour cette 4e édition, a enregistré sur un an une baisse de 2 points.
 
-###Fins de projets annoncées
+### Fins de projets annoncées
 
 Dans les mois à venir, plusieurs projets doivent se terminer et sortir du panorama, parmi lesquels :
 1.**Le réseau interministériel de l’Etat (RIE)**, qui remplace progressivement les différents réseaux exploités par les 17 ministères.
