@@ -24,7 +24,8 @@ La durée moyenne d’un projet reste constante, autour de 6,2 ans. Le taux d’
 
 Dans les mois à venir, plusieurs projets doivent se terminer et sortir du panorama, parmi lesquels :
 1.**Le réseau interministériel de l’Etat (RIE)**, qui remplace progressivement les différents réseaux exploités par les 17 ministères.
-Les gains de cette infrastructure partagée ? Une seule maintenance, une seule gestion de la sécurité et surtout un seul canal pour échanger des données entre ministères. Opéré par un service à compétence nationale rattaché à la DINSIC, au sein du SGMAP, ce projet emblématique de la modernisation du SI de l’Etat achèvera son déploiement fin 2017 (consulter le [rapport d’activité 2016 du RIE](https://www.modernisation.gouv.fr/documentation/publications/rapport-activite-2016-reseau-interministeriel-etat)).
+Les gains de cette infrastructure partagée ? Une seule maintenance, une seule gestion de la sécurité et surtout un seul canal pour échanger des données entre ministères. Opéré par un service à compétence nationale rattaché à la DINSIC, au sein du SGMAP, ce projet emblématique de la modernisation du SI de l’Etat achèvera son déploiement fin 2017 (consulter le [rapport d’activité 2016 du RIE](https://www.modernisation.gouv.fr/documentation/publications/rapport-activite-2016-reseau-interministeriel-etat)){: target="_blank"}
+).
  
 2.Le projet Alpha de système d’information unique pour la gestion des achats du ministère des Armées.
 Lancé opérationnellement en avril 2015, il vise à harmoniser et simplifier les processus achats de l’ensemble des entités du ministère, et contribuera à sa performance en termes de coûts et de qualité.
