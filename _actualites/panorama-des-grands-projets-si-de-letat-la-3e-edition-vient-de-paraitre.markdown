@@ -15,8 +15,9 @@ De nouveaux projets intègrent le tableau de bord, notamment :
 
 #### Géoportail   
 
-La plateforme geoportail.gouv.fr, gérée par l’IGN, facilite l’accès à l’information géographique de référence, c’est-à-dire officielle, fiable et complète. Refondue entièrement en 2016, elle permet notamment de visualiser en 2D et en 3D les fonds cartographiques et photographiques, d’y superposer de nombreuses données publiques géolocalisées, de créer ses propres cartes et de les partager. En constante évolution, la plateforme propose également une offre de services aux particuliers comme aux organismes publics et aux professionnels.
-Elire
+La plateforme [geoportail.gouv.fr](https://www.geoportail.gouv.fr/){:target="_blank"}, gérée par l’IGN, facilite l’accès à l’information géographique de référence, c’est-à-dire officielle, fiable et complète. Refondue entièrement en 2016, elle permet notamment de visualiser en 2D et en 3D les fonds cartographiques et photographiques, d’y superposer de nombreuses données publiques géolocalisées, de créer ses propres cartes et de les partager. En constante évolution, la plateforme propose également une offre de services aux particuliers comme aux organismes publics et aux professionnels.
+
+#### Elire
 
 Le projet Elire vise à simplifier les modalités d'inscription sur les listes électorales, grâce à la mise en place d’un répertoire électoral unique.
 
