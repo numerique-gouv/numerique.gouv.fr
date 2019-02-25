@@ -41,7 +41,7 @@ Via une architecture modernisée, ce réseau social professionnel au cœur de m�
 
 Autre point notable, le portail [france-visas.gouv.fr](https://france-visas.gouv.fr/){: target="_blank"} a ouvert en version béta début octobre permettant ainsi la modernisation de la gestion des demandes de visas dans le monde entier avec six premières langues et de mieux lutter contre la fraude.
 
-L’ensemble des données de cette édition et des précédentes est également disponible en open data sur la plateforme data.gouv.fr.
+L’ensemble des données de cette édition et des précédentes est également disponible en open data sur la plateforme [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){: target="_blank"} .
 Un panorama pour suivre les grands projets du SI de l’État
 
 Rendu public pour la première fois en novembre 2016, le panorama des grands projets SI de l’Etat recense et décrit les principaux chantiers informatiques en cours, sélectionnés pour leur fort impact pour les usagers, les ministères ou les agents, leur complexité et/ou leur enjeu budgétaire.
