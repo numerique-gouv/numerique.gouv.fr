@@ -2,6 +2,12 @@
 title: 'Administration numérique dans les territoires : retour sur la première année
   du programme DCANT'
 date: 2017-02-28 15:13:00 +01:00
+tags:
+- administration numérique
+- territoires
+- dematerialisation
+- DCANT
+- INP
 chapeau-text: 'Un an après son lancement officiel, le programme de développement concerté
   de l’administration numérique territoriale (DCANT), piloté par le SGMAP, fait un
   premier bilan d’étape. '
