@@ -59,6 +59,8 @@ Les projets de décrets d’application de la loi République numérique y sont 
 
  
 
+
+
 #### Favoriser l'émergence de l'administration numérique de demain
 
 La dernière commission d’orientation stratégique a permis de définir les priorités à venir. Les associations d’élus ont réaffirmé leur volonté que les projets numériques impactant les collectivités territoriales puissent leur être présentés en INP, le plus en amont possible. Elles ont également souhaité travailler sur les recommandations relatives à l’archivage électronique indispensable à la dématérialisation de bout en bout.
