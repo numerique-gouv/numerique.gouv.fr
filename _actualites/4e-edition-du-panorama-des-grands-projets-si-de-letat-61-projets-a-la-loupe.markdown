@@ -56,5 +56,4 @@ Chaque projet est présenté en 10 points, dont la durée prévisionnelle, le co
 Conçu à l’origine pour le gouvernement, ce panorama est avant tout un outil de pilotage interne permettant de suivre et sécuriser les grands projets SI de l’Etat. Son ouverture au public offre une vision détaillée des grandes transformations informatiques en œuvre au sein de l’Etat.
 
 [En savoir plus](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){: target="_blank"} 
-
-
+{: .encadre}
