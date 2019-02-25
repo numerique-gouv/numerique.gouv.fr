@@ -58,8 +58,7 @@ Au cours de l’année 2016, associations de collectivités territoriales et min
 Les projets de décrets d’application de la loi République numérique y sont aussi l’objet d’échanges.
 <br>
 <br>
-<br>
-<br>
+
 #### Favoriser l'émergence de l'administration numérique de demain
 
 La dernière commission d’orientation stratégique a permis de définir les priorités à venir. Les associations d’élus ont réaffirmé leur volonté que les projets numériques impactant les collectivités territoriales puissent leur être présentés en INP, le plus en amont possible. Elles ont également souhaité travailler sur les recommandations relatives à l’archivage électronique indispensable à la dématérialisation de bout en bout.
