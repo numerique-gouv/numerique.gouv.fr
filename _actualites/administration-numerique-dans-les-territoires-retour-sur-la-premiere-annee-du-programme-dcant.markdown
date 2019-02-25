@@ -35,7 +35,7 @@ En matière d’archivage électronique, des travaux menés avec les association
 {: .encadre}
  
 
-### Les échanges se multiplient
+#### Les échanges se multiplient
 
 Les échanges au sein de l’instance nationale partenariale se sont poursuivis pour recueillir remarques et points d’attention du secteur public local. Si un nombre de plus en plus important de ces projets font l’objet d’un temps d’échange au sein de l’INP, cette démarche n’est pas encore généralisée pour l’ensemble des ministères.
 
