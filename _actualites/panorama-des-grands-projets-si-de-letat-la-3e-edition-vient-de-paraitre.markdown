@@ -1,6 +1,6 @@
 ---
 title: 'Panorama des grands projets SI de l’État : la 3e édition vient de paraître'
-date: 2019-02-25 13:38:00 +01:00
+date: 2017-07-13 13:38:00 +02:00
 chapeau-text: Quatre mois après sa 2e édition, le SGMAP publie une nouvelle version
   actualisée du panorama des grands projets SI de l’Etat, piloté par la DINSIC.
 une-ou-diaporama:
