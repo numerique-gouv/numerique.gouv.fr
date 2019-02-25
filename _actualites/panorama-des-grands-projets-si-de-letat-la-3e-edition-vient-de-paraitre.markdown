@@ -34,7 +34,7 @@ L’ensemble des données, de cette édition et des précédentes, est égalemen
 > [Consulter les données du panorama des grands projets SI de l'Etat](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){:target="_blank"}
 {: .lien-important }
 
->Un panorama pour suivre les grands projets du SI de l’État
+> ### Un panorama pour suivre les grands projets du SI de l’État
 >
 >Rendu public pour la première fois en novembre 2016, le panorama des grands projets SI de l’Etat recense et décrit les principaux projets informatiques en cours. Chacun d’entre eux est présenté en 10 points, dont la durée prévisionnelle, le coût estimatif, le ministère porteur et la phase en cours.
 >
