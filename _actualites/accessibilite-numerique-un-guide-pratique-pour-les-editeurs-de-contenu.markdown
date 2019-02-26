@@ -25,7 +25,7 @@ auteur: Archives
 
 #### Comment est-il articulé ?
 
-**PB –** Il traite en 13 fiches pratiques l’étendue des thématiques qui concernent directement les contributeurs de site web : multimédia, couleur, alternatives textes aux images, mise en forme, tableaux, liens hypertexte, etc. Chaque fiche recense l’enjeu de la thématique pour l’utilisateur en situation de handicap et explicite une série de mesures pratiques à déployer. Elle dénonce également certaines idées reçues, et indique enfin les critères du [référentiel général d’accessibilité pour les administrations](http://references.modernisation.gouv.fr/referentiel){:target="_blank"} (RGAA) concernés par ces mesures. Pour rappel, ce référentiel a été[récemment mis à jour]{:target="_blank"}  par la DINSIC. Il référence l’ensemble des critères techniques à respecter pour qu'un site web soit accessible.
+**PB –** Il traite en 13 fiches pratiques l’étendue des thématiques qui concernent directement les contributeurs de site web : multimédia, couleur, alternatives textes aux images, mise en forme, tableaux, liens hypertexte, etc. Chaque fiche recense l’enjeu de la thématique pour l’utilisateur en situation de handicap et explicite une série de mesures pratiques à déployer. Elle dénonce également certaines idées reçues, et indique enfin les critères du [référentiel général d’accessibilité pour les administrations](http://references.modernisation.gouv.fr/referentiel){:target="_blank"} (RGAA) concernés par ces mesures. Pour rappel, ce référentiel a été récemment mis à jour par la DINSIC. Il référence l’ensemble des critères techniques à respecter pour qu'un site web soit accessible.
 
 #### Quelles sont les entorses aux principes d’accessibilité numérique fréquemment constatées sur les sites web ?
 
