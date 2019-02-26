@@ -8,7 +8,7 @@ une-ou-diaporama:
 - image: "/uploads/projet-loi-numerique_une.jpg"
 ---
 
-Tout citoyen peut contribuer au projet de loi
+### Tout citoyen peut contribuer au projet de loi
 
 C’est une première en France et en Europe : un projet de loi est ouvert aux contributions des citoyens. Depuis samedi 26 septembre et pendant 3 semaines, tout Français peut consulter le projet de loi pour une République numérique, et surtout y contribuer pour l’enrichir et le perfectionner. Les internautes peuvent également voter pour les propositions qu’ils jugent utiles.
 
@@ -19,7 +19,7 @@ Les contributions seront ensuite instruites par le Gouvernement, et pourront êt
 
  
 
-Transparence et participation
+### Transparence et participation
 
 Cette ouverture est une révolution en matière de transparence démocratique et de participation des citoyens. Elle vient concrétiser l’engagement pris par la France dans [son plan d’action national 2015-2017 pour une action publique transparente et collaborative](https://www.modernisation.gouv.fr/home/gouvernement-ouvert-la-france-publie-son-plan-daction-national-ogp){:target="_blank"}, coordonné par Etalab dans le cadre du partenariat pour un Gouvernement ouvert. L’engagement 12 prévoyait en effet de « poursuivre l’ouverture des ressources juridiques et la collaboration avec la société civile autour de l’élaboration de la loi ».
 
@@ -31,7 +31,7 @@ La consultation des citoyens sur les projets de loi ou en amont de leur prépara
 
  
 
-Le fruit de l’intelligence collective
+### Le fruit de l’intelligence collective
 
 Cette méthode contributive avait été amorcée il y a un an déjà, avec le lancement, le 4 octobre 2014, d’une grande concertation nationale sur le numérique. Les milliers de contributions recueillies des entreprises, administrations et particuliers, avaient nourri le projet de loi aujourd’hui soumis à consultation.
 
