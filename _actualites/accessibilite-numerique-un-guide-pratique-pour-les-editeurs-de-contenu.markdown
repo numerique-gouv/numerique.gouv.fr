@@ -1,6 +1,6 @@
 ---
 title: 'Accessibilité numérique : un guide pratique pour les éditeurs de contenu'
-date: 2019-02-18 00:00:00 +01:00
+date: 2019-02-26 00:00:00 +01:00
 chapeau-text: Le SGMAP vient de mettre à disposition des éditeurs de contenus sur
   le web un document pratique les aidant à les rendre accessibles aux personnes en
   situation de handicap. Entretien avec Philippe Bron, directeur du programme accessibilité
