@@ -47,7 +47,7 @@ Faciliter l’accès aux rapports de la Cour des comptes grâce à une API, déf
 <br>
 <br>
 
->L’aventure Entrepreneur.e d’intérêt général vous tente ?
+L’aventure Entrepreneur.e d’intérêt général vous tente ?
 
 * Un appel à candidature est ouvert jusqu'au 27 octobre pour recruter les prochain.e.s EIG qui prendront leurs fonctions en janvier 2018.
 
