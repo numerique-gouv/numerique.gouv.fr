@@ -8,6 +8,7 @@ chapeau-text: 'Inauguré en mars 2015, le programme Vitam connaîtra début 2016
   aux PME innovantes.'
 une-ou-diaporama:
 - image: "/uploads/vitam_agilite_une.jpg"
+auteur: Archives
 ---
 
 C’est une première. Au sein de l’administration, jamais projet d’une telle ampleur n’aura été autant emprunt de méthodes agiles. Le projet en question, Vitam, pèse 15 millions d’euros. Il vise le développement d’un socle d’archivage réutilisable par toutes les administrations. Il équipera dans un premier temps trois ministères (Culture, Défense, Affaires Étrangères), tous parties prenantes dans sa conception.
