@@ -23,5 +23,11 @@ Améliorer la sécurité routière avec un outil cartographique interactif, déf
 
 Améliorer les contrôles fiscaux pour limiter les risques de fraude, défi relevé pour Marion Paclot, entrepreneure d’intérêt général, et son mentor Philippe Schall, ministère de l’Economie et des Finances
 
-[![Accéder aux témoignage de Marion Paclot et Philippe Schall]![3.png](/uploads/3.png)](https://www.dailymotion.com/video/x64z39u "Accéder aux témoignage de Marion Paclot et Philippe Schall"){:target="_blank"}
+[![Accéder aux témoignage de Marion Paclot et Philippe Schall](/uploads/3.png)](https://www.dailymotion.com/video/x64z39u "Accéder aux témoignage de Marion Paclot et Philippe Schall"){:target="_blank"}
+
+Repérer les populations en situation de vulnérabilité grâce aux images satellites, défi relevé pour Etienne David, entrepreneur d’intérêt général, et son mentor Antoine Chèvre, Agence Française de Développement (AFD)
+
+[![Accéder aux témoignage de Etienne David et Antoine Chèvre](/uploads/4.png)](https://www.dailymotion.com/video/x64z39u "Accéder aux témoignage de Marion Paclot et Philippe Schall"){:target="_blank"}
+
+
 
