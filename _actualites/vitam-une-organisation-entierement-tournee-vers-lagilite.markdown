@@ -51,7 +51,7 @@ L’association d’un développement en mode agile avec une phase d’industria
 * **12 août 2015** : publication des marchés pour la prestation de développement et d’intégration
 * **30 septembre 2015** : fin de remise des offres
 * **Début 2016** : notification des marchés
-* **Mi-2016** : premiers livrables du socle Vitam (sous forme d’interfaces >testables par les ministères)
+* **Mi-2016** : premiers livrables du socle Vitam (sous forme d’interfaces testables par les ministères)
 * **Mi-2017** : finalisation de la première version de production
 * **Mi-2018** : finalisation de la seconde version de production
 * **Mi-2019** : finalisation de la troisième version de production
