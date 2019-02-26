@@ -1,6 +1,11 @@
 ---
 title: 'Accessibilité numérique : un guide pratique pour les éditeurs de contenu'
 date: 2019-02-26 00:00:00 +01:00
+categories:
+- Interview
+tags:
+- RGAA
+- accessibilité numérique
 chapeau-text: La direction interministérielle du numérique et du système d’information
   et de communication de l’Etat (DINSIC) vient de mettre à disposition des éditeurs
   de contenus sur le web un document pratique les aidant à les rendre accessibles
