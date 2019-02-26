@@ -19,7 +19,7 @@ Les contributions seront ensuite instruites par le Gouvernement, et pourront êt
 
 Transparence et participation
 
-Cette ouverture est une révolution en matière de transparence démocratique et de participation des citoyens. Elle vient concrétiser l’engagement pris par la France dans son plan d’action national 2015-2017 pour une action publique transparente et collaborative, coordonné par Etalab dans le cadre du partenariat pour un Gouvernement ouvert. L’engagement 12 prévoyait en effet de « poursuivre l’ouverture des ressources juridiques et la collaboration avec la société civile autour de l’élaboration de la loi ».
+Cette ouverture est une révolution en matière de transparence démocratique et de participation des citoyens. Elle vient concrétiser l’engagement pris par la France dans [son plan d’action national 2015-2017 pour une action publique transparente et collaborative](https://www.modernisation.gouv.fr/home/gouvernement-ouvert-la-france-publie-son-plan-daction-national-ogp), coordonné par Etalab dans le cadre du partenariat pour un Gouvernement ouvert. L’engagement 12 prévoyait en effet de « poursuivre l’ouverture des ressources juridiques et la collaboration avec la société civile autour de l’élaboration de la loi ».
 
 L’enjeu est de taille :
 
@@ -38,4 +38,10 @@ Nous voulons que ce texte de loi soit, plus encore, le fruit de l’intelligence
 –  Manuel Valls, Premier ministre
 
 [![Accéder au discours sur la loi pour une république numérique](/uploads/1.png)](https://www.youtube.com/watch?v=8Kl03RedNwg "Accéder au discours sur la loi pour une république numérique"){:target="_blank"}
+
+Les Français ont jusqu’au dimanche 18 octobre pour contribuer au projet de loi pour une République numérique.
+
+> [Participez sur republique-numerique.fr](Les Français ont jusqu’au dimanche 18 octobre pour contribuer au projet de loi pour une République numérique.){:target="_blank"}
+ 
+
 
