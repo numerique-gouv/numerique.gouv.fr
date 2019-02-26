@@ -39,7 +39,7 @@ Cette méthode contributive avait été amorcée il y a un an déjà, avec le la
 Nous voulons que ce texte de loi soit, plus encore, le fruit de l’intelligence collective. Le fruit du travail des ministères, de leurs administrations, de juristes, des parlementaires. Mais aussi le fruit du travail des acteurs de terrain, des experts, de la société civile, et des citoyens.
 –  Manuel Valls, Premier ministre
 
-[![Accéder au discours sur la loi pour une république numérique](/uploads/1.png)](https://www.youtube.com/watch?v=8Kl03RedNwg "Accéder au discours sur la loi pour une république numérique"){:target="_blank"}
+[![Accéder au discours sur la loi pour une république numérique]![Capture d’écran 2019-02-26 à 16.56.36.png](/uploads/Capture%20d%E2%80%99%C3%A9cran%202019-02-26%20%C3%A0%2016.56.36.png)](https://www.youtube.com/watch?v=8Kl03RedNwg "Accéder au discours sur la loi pour une république numérique"){:target="_blank"}
 
 Les Français ont jusqu’au dimanche 18 octobre pour contribuer au projet de loi pour une République numérique.
 
