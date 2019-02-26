@@ -35,6 +35,8 @@ Améliorer les contrôles fiscaux pour limiter les risques de fraude, défi rele
 [![Accéder au témoignage de Marion Paclot et Philippe Schall](/uploads/3.png)](https://www.dailymotion.com/video/x64z39u "Accéder au témoignage de Marion Paclot et Philippe Schall"){:target="_blank"}
 <br>
 <br>
+<br>
+<br>
 Repérer les populations en situation de vulnérabilité grâce aux images satellites, défi relevé pour Etienne David, entrepreneur d’intérêt général, et son mentor Antoine Chèvre, Agence Française de Développement (AFD).
 
 [![Accéder au témoignage de Etienne David et Antoine Chèvre](/uploads/4.png)](https://www.dailymotion.com/video/x64z39y "Accéder au témoignage de Etienne David et Antoine Chèvre"){:target="_blank"}
