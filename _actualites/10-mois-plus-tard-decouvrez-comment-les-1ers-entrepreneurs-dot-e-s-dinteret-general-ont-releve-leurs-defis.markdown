@@ -15,4 +15,4 @@ Leurs profils : développeurs, datascientists et chercheurs. Depuis 9 mois, ces 
 
 Réduire la fraude aux permis de conduire grâce à un outil de croisement de données, défi relevé pour Martin Gross, entrepreneur d’intérêt général, et son mentor Daniel Ansellem, ministère de l’Intérieur
 
-[![Accéder aux temoignage de Martin Gross et Daniel Ansellem](/uploads/1.png)(https://www.dailymotion.com/video/x64z3a0 "Accéder aux témoignage de Martin Gross et Daniel Ansellem"){:target="_blank"}
+[![Accéder aux témoignage de Martin Gross et Daniel Ansellem](/uploads/1.png)](https://www.dailymotion.com/video/x64z3a0 "Accéder aux témoignage de Martin Gross et Daniel Ansellem"){:target="_blank"}
