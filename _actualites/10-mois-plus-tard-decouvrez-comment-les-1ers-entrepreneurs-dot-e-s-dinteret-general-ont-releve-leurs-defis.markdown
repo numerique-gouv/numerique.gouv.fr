@@ -31,7 +31,7 @@ Repérer les populations en situation de vulnérabilité grâce aux images satel
 
 Nettoyer et optimiser les données du ministère de l’Enseignement supérieur, de la Recherche et de l'Innovation, défis relevés pour Laurent Dupont et Léo Bouloc, entrepreneurs d’intérêt général, et leurs mentors Emmanuel Weisenburger et Yann Caradec.
 
-[![Accéder au témoignage de Laurent Dupont, Léo Bouloc, Emmanuel Weisenburger et Yann Caradec](/uploads/5.png)](https://www.dailymotion.com/video/x64z39y "Accéder aux témoignage de Etienne David et Antoine Chèvre"){:target="_blank"}
+[![Accéder au témoignage de Laurent Dupont, Léo Bouloc, Emmanuel Weisenburger et Yann Caradec](/uploads/5.png)](https://www.dailymotion.com/video/x64z39w "Accéder aux témoignage de Laurent Dupont, Léo Bouloc, Emmanuel Weisenburger et Yann Caradec"){:target="_blank"}
 
 
 
