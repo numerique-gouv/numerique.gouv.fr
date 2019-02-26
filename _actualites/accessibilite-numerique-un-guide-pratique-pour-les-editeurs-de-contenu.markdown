@@ -1,6 +1,6 @@
 ---
 title: 'Accessibilité numérique : un guide pratique pour les éditeurs de contenu'
-date: 2019-02-26 00:00:00 +01:00
+date: 2015-12-18 00:00:00 +01:00
 categories:
 - Interview
 tags:
@@ -13,6 +13,9 @@ chapeau-text: La direction interministérielle du numérique et du système d’
   de contenus sur le web un document pratique les aidant à les rendre accessibles
   aux personnes en situation de handicap. Entretien avec Philippe Bron, directeur
   du programme accessibilité numérique au sein de la DINSIC.
+une-ou-diaporama:
+- image: "/uploads/accessibilite-numerique.jpg"
+auteur: Archives
 ---
 
 #### À qui s’adresse ce guide ?
