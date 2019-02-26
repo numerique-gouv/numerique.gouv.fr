@@ -2,6 +2,10 @@
 title: 10 mois plus tard, découvrez comment les 1ers entrepreneurs.e.s d'intérêt général
   ont relevé leurs défis!
 date: 2017-10-18 10:19:00 +02:00
+tags:
+- Entrepreneur d'Intérêt Général
+- intelligence artificielle
+- données ouvertes
 chapeau-text: En janvier 2017, 11 entrepreneur.e.s d’intérêt général sont entrés dans
   l’administration. Ils avaient 10 mois pour relever un défi d’utilité publique grâce
   aux données. En présence des mentors qui les ont accompagnés tout au long de leur
@@ -61,3 +65,4 @@ L’aventure Entrepreneur.e d’intérêt général vous tente ?
 
 * Découvrez les défis et les profils recherchés en détails sur le site web de l’appel à candidature.
 
+**Le programme Entrepreneur.e d'intérêt général (EIG)** a été lancé par la Présidence de la République en janvier 2017 afin d’attirer au sein de l’administration, et pour une courte période, les meilleurs talents du numérique. Il est piloté par Etalab, la mission du **secrétariat général pour la modernisation de l’action publique (SGMAP)** en charge de l’ouverture des données publiques et financé par le fonds **« Transition numérique de l’État et modernisation de l’action publique »** du Programme d’Investissements d’Avenir.
