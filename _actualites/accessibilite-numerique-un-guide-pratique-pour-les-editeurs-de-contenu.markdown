@@ -20,7 +20,8 @@ auteur: Archives
 
 #### À qui s’adresse ce guide ?
 
-**Philippe Bron –** Le [guide « Contribuer sur le web de manière accessible »](https://references.modernisation.gouv.fr/guide-contribuer-sur-le-web-de-maniere-accessible){:target="_blank"} est destiné à toutes les personnes amenées à publier des contenus sur des sites web de l'administration, mais également en dehors. Il détaille les précautions à prendre pour que l’information qu’elles mettent en ligne soit perceptible par les personnes en situation de handicap, quel qu'il soit. En pratique, il s’adresse à des profils non techniciens (les communicants essentiellement), tous capables d’appliquer les recommandations du guide sans devoir toucher à un éditeur de code HTML.
+<figure class='image-left' style='width: 30%; margin-right: 10px;'>
+<img src="/uploads/Philippe%20BRON.png"/>**Philippe Bron –** Le [guide « Contribuer sur le web de manière accessible »](https://references.modernisation.gouv.fr/guide-contribuer-sur-le-web-de-maniere-accessible){:target="_blank"} est destiné à toutes les personnes amenées à publier des contenus sur des sites web de l'administration, mais également en dehors. Il détaille les précautions à prendre pour que l’information qu’elles mettent en ligne soit perceptible par les personnes en situation de handicap, quel qu'il soit. En pratique, il s’adresse à des profils non techniciens (les communicants essentiellement), tous capables d’appliquer les recommandations du guide sans devoir toucher à un éditeur de code HTML.
 
 #### Comment est-il articulé ?
 
