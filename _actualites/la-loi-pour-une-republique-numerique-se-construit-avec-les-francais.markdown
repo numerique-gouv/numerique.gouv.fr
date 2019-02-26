@@ -4,6 +4,8 @@ date: 2019-02-26 16:48:00 +01:00
 chapeau-text: Manuel Valls et Axelle Lemaire ont lancé, samedi 26 septembre, la consultation
   publique, ouverte et interactive, autour du projet de loi pour une République numérique.
   Une première en France.
+une-ou-diaporama:
+- image: "/uploads/projet-loi-numerique_une.jpg"
 ---
 
 Tout citoyen peut contribuer au projet de loi
