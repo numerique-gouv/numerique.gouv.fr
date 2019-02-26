@@ -10,7 +10,8 @@ Tout citoyen peut contribuer au projet de loi
 
 C’est une première en France et en Europe : un projet de loi est ouvert aux contributions des citoyens. Depuis samedi 26 septembre et pendant 3 semaines, tout Français peut consulter le projet de loi pour une République numérique, et surtout y contribuer pour l’enrichir et le perfectionner. Les internautes peuvent également voter pour les propositions qu’ils jugent utiles.
 
-     >> Pour participer, rendez-vous sur republique-numerique.fr  
+> [Pour participer, rendez-vous sur republique-numerique.fr](https://www.republique-numerique.fr/)
+{: .lien-important}  
 
 Les contributions seront ensuite instruites par le Gouvernement, et pourront être intégrées au projet de loi. Les modifications apportées au texte à l’issue de la consultation seront clairement affichées, pour plus de transparence et faciliter le suivi des propositions des différents contributeurs.
 
