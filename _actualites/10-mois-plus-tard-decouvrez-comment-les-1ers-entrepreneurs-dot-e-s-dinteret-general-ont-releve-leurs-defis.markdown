@@ -40,3 +40,7 @@ Construire un site participatif pour valoriser le patrimoine des orgues, défi r
 Analyser les parcours de soin grâce à une application informatique, défi relevé pour Sébastien Cossin, entrepreneur d’intérêt général, et son mentor Didier Hève, ministère des Solidarités et de la Santé
 
 [![Accéder au témoignage de Sébastien Cossin et Didier Hève](/uploads/7.png)](https://www.dailymotion.com/video/x64z39z "Accéder au témoignage de Sébastien Cossin et Didier Hève"){:target="_blank"}
+
+Faciliter l’accès aux rapports de la Cour des comptes grâce à une API, défi relevé pour Frédéric Bardolle, entrepreneur d’intérêt général à la Cour des comptes et Adnène Trojette, qui a accompagné la 1re promotion EIG au Liberté Living-lab
+
+[![Accéder au témoignage de Frédéric Bardolle et Adnène Trojette](/uploads/8.png)](https://www.dailymotion.com/video/x64z39x "Accéder au témoignage de Frédéric Bardolle et Adnène Trojette"){:target="_blank"}
