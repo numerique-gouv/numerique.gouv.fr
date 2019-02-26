@@ -11,6 +11,8 @@ chapeau-text: En janvier 2017, 11 entrepreneur.e.s d’intérêt général sont 
   aux données. En présence des mentors qui les ont accompagnés tout au long de leur
   mission, ils reviennent sur cette expérience et nous expliquent comment ils sont
   parvenus à relever leurs défis.
+une-ou-diaporama:
+- image: "/uploads/eig1_mentor_bilan.jpg"
 ---
 
 ### Une première promotion qui a fait bouger les lignes 
