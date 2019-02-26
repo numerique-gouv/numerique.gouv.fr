@@ -1,6 +1,13 @@
 ---
 title: 'Vitam : une organisation entièrement tournée vers l’agilité'
-date: 2019-02-26 15:25:00 +01:00
+date: 2015-12-08 15:25:00 +01:00
+categories:
+- Article
+tags:
+- Vitam
+- agilité
+- logiciels libres
+- archivage
 chapeau-text: 'Inauguré en mars 2015, le programme Vitam connaîtra début 2016 le nom
   des différents prestataires chargés du développement et de l’intégration du futur
   logiciel d’archivage électronique pour l’administration. Principale originalité
