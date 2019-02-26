@@ -33,6 +33,9 @@ Nettoyer et optimiser les données du ministère de l’Enseignement supérieur,
 
 [![Accéder au témoignage de Laurent Dupont, Léo Bouloc, Emmanuel Weisenburger et Yann Caradec](/uploads/5.png)](https://www.dailymotion.com/video/x64z39w "Accéder aux témoignage de Laurent Dupont, Léo Bouloc, Emmanuel Weisenburger et Yann Caradec"){:target="_blank"}
 
+Construire un site participatif pour valoriser le patrimoine des orgues, défi relevé pour Bastien Guerry, entrepreneur d’intérêt général, et sa mentor Judith Kagan, ministère de la Culture
+
+
 
 
 
