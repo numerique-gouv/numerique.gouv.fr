@@ -14,3 +14,5 @@ chapeau-text: En janvier 2017, 11 entrepreneur.e.s d’intérêt général sont 
 Leurs profils : développeurs, datascientists et chercheurs. Depuis 9 mois, ces jeunes talents du numérique aux compétences pointues travaillent à résoudre leurs défis grâce aux données, accompagnés par leurs mentors. En images, découvrez les outils qu’ils ont développés au sein de leurs administrations d’accueil et le retour de leurs mentors sur ce partenariat inédit.
 
 Réduire la fraude aux permis de conduire grâce à un outil de croisement de données, défi relevé pour Martin Gross, entrepreneur d’intérêt général, et son mentor Daniel Ansellem, ministère de l’Intérieur
+
+[![Accéder aux temoignage de Martin Gross et Daniel Ansellem](/uploads/1.png)(https://www.dailymotion.com/video/x64z3a0 "Accéder aux témoignage de Martin Gross et Daniel Ansellem"){:target="_blank"}
