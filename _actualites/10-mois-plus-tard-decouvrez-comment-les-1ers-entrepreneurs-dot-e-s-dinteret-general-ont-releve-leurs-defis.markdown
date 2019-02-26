@@ -15,19 +15,19 @@ Leurs profils : développeurs, datascientists et chercheurs. Depuis 9 mois, ces 
 
 Réduire la fraude aux permis de conduire grâce à un outil de croisement de données, défi relevé pour Martin Gross, entrepreneur d’intérêt général, et son mentor Daniel Ansellem, ministère de l’Intérieur
 
-[![Accéder aux témoignage de Martin Gross et Daniel Ansellem](/uploads/1.png)](https://www.dailymotion.com/video/x64z3a0 "Accéder aux témoignage de Martin Gross et Daniel Ansellem"){:target="_blank"}
+[![Accéder au témoignage de Martin Gross et Daniel Ansellem](/uploads/1.png)](https://www.dailymotion.com/video/x64z3a0 "Accéder aux témoignage de Martin Gross et Daniel Ansellem"){:target="_blank"}
 
 Améliorer la sécurité routière avec un outil cartographique interactif, défi relevé pour Tristram Gräbener et Francis Chabouis, entrepreneurs d’intérêt général, et leur mentor Daniel Ansellem, ministère de l’Intérieur
 
-[![Accéder aux témoignage de Tristram Gräbener, Francis Chabouis et Daniel Ansellem](/uploads/2.png)](https://www.dailymotion.com/video/x64z28u "Accéder aux témoignage de Tristram Gräbener, Francis Chabouis et Daniel Ansellem"){:target="_blank"}
+[![Accéder au témoignage de Tristram Gräbener, Francis Chabouis et Daniel Ansellem](/uploads/2.png)](https://www.dailymotion.com/video/x64z28u "Accéder aux témoignage de Tristram Gräbener, Francis Chabouis et Daniel Ansellem"){:target="_blank"}
 
 Améliorer les contrôles fiscaux pour limiter les risques de fraude, défi relevé pour Marion Paclot, entrepreneure d’intérêt général, et son mentor Philippe Schall, ministère de l’Economie et des Finances
 
-[![Accéder aux témoignage de Marion Paclot et Philippe Schall](/uploads/3.png)](https://www.dailymotion.com/video/x64z39u "Accéder aux témoignage de Marion Paclot et Philippe Schall"){:target="_blank"}
+[![Accéder au témoignage de Marion Paclot et Philippe Schall](/uploads/3.png)](https://www.dailymotion.com/video/x64z39u "Accéder aux témoignage de Marion Paclot et Philippe Schall"){:target="_blank"}
 
 Repérer les populations en situation de vulnérabilité grâce aux images satellites, défi relevé pour Etienne David, entrepreneur d’intérêt général, et son mentor Antoine Chèvre, Agence Française de Développement (AFD)
 
-[![Accéder aux témoignage de Etienne David et Antoine Chèvre](/uploads/4.png)](https://www.dailymotion.com/video/x64z39u "Accéder aux témoignage de Marion Paclot et Philippe Schall"){:target="_blank"}
+[![Accéder au témoignage de Etienne David et Antoine Chèvre](/uploads/4.png)](https://www.dailymotion.com/video/x64z39u "Accéder aux témoignage de Marion Paclot et Philippe Schall"){:target="_blank"}
 
 
 
