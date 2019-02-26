@@ -6,6 +6,8 @@ categories:
 tags:
 - RGAA
 - accessibilité numérique
+- publication
+- services publics en ligne
 chapeau-text: La direction interministérielle du numérique et du système d’information
   et de communication de l’Etat (DINSIC) vient de mettre à disposition des éditeurs
   de contenus sur le web un document pratique les aidant à les rendre accessibles
