@@ -35,7 +35,7 @@ Nettoyer et optimiser les données du ministère de l’Enseignement supérieur,
 
 Construire un site participatif pour valoriser le patrimoine des orgues, défi relevé pour Bastien Guerry, entrepreneur d’intérêt général, et sa mentor Judith Kagan, ministère de la Culture
 
-[![Accéder au témoignage de Bastien Guerry et Judith Kagan](/uploads/6.png)](https://www.dailymotion.com/video/x64z39q "Accéder aux témoignage de Laurent Dupont, Léo Bouloc, Emmanuel Weisenburger et Yann Caradec"){:target="_blank"}
+[![Accéder au témoignage de Bastien Guerry et Judith Kagan](/uploads/6.png)](https://www.dailymotion.com/video/x64z39q "Accéder aux témoignage de Bastien Guerry et Judith Kagan"){:target="_blank"}
 
 
 
