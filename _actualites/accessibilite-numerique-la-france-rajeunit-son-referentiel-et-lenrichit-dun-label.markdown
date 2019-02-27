@@ -47,7 +47,22 @@ Le nouveau référentiel est donc lancé. Mais seul, il ne suffit pas<figure cla
 
 #### Les conditions du succès
 
-Parallèlement au label, la DISIC propose des [ressources spécifiques](http://references.modernisation.gouv.fr/ressources){:target="blank} dédiées aux développeurs et aux chefs de projets. Les premiers peuvent d’ores et déjà s’appuyer sur une liste de composants nativement accessibles. Des composants tels qu’une barre de navigation, un slider ou un carrousel, issus par exemple de librairies Javascript comme Jquery ou Bootstrap. La DISIC (par le biais du groupement) fournit par ailleurs aux développeurs des correctifs et une documentation pour effectuer eux-mêmes des modifications sur des composants qui ne sont pas accessibles. 
+Parallèlement au label, la DISIC propose des [ressources spécifiques](http://references.modernisation.gouv.fr/ressources){:target="blank} **dédiées aux développeurs et aux chefs de projets**. Les premiers peuvent d’ores et déjà s’appuyer sur une liste de composants nativement accessibles. Des composants tels qu’une barre de navigation, un slider ou un carrousel, issus par exemple de librairies Javascript comme Jquery ou Bootstrap. La DISIC (par le biais du groupement) fournit par ailleurs aux développeurs des correctifs et une documentation pour effectuer eux-mêmes des modifications sur des composants qui ne sont pas accessibles. 
+
+De leur côté, les chefs de projet profiteront prochainement de modèles prêts à l’emploi par exemple pour générer la « page d’aide à la navigation » (imposée par le RGAA), la déclaration de conformité du site ou encore le cahier des charges de ce dernier. Ils disposeront également de guides pour auditer leur site, et de références vers des contenus pédagogiques extérieurs (vidéo, tutoriaux, etc.).
+
+La DISIC envisage enfin **un volet formation**, parent pauvre de l’accessibilité numérique. Aujourd’hui, celle-ci n’est pas prise en compte dans les formations (initiales ou continues) dispensées par l’administration à ses agents. Elle est d’ailleurs absente de la plupart des cursus généraux. Or de cette formation dépend en grande partie sa prise en compte au sein des DSI.
+
+#### Une nouvelle gouvernance
+
+Déploiement d’un label, aide à la formation, guides, ressources techniques et pédagogiques, mais également co-financement pour la mise en accessibilité des sites (via le FIPHFP)… Tous ces éléments viendront donc accompagner la révision du RGAA et faciliter sa mise en application sur le terrain. Ces mesures ne sont pas les seuls éléments différenciant par rapport à 2009, et la v1 du RGAA. **La gouvernance du programme accessibilité numérique a elle aussi changé**. Elle a été **confiée à la DISIC, chargée de coordonner les travaux des administrations centrales sur l’accessibilité numérique**. 
+
+La DISIC pilote déjà le système d’information (SI) de l’Etat, lui-même placé sous la responsabilité du Premier ministre depuis le décret du 1er août 2014. Ce nouveau cadre réglementaire renforce ses prérogatives. Il lui confère **un poids supplémentaire pour affirmer auprès des administrations la nécessité, voire l’obligation, de s’aligner sur les standards de l’accessibilité numérique.**
+
+ 
+
+
+
 
 
 
