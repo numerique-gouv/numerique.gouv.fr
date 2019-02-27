@@ -10,6 +10,8 @@ chapeau-text: 'Les travaux interministériels menés sur le sujet l’ont montr�
   sensibles de l’État, l’autre pour fournir rapidement aux équipes agiles des espaces
   prêts à l’emploi pour leurs expérimentations. Cette dernière vient de faire l’objet
   d’un marché spécifique publié le 12 avril 2015.'
+une-ou-diaporama:
+- image: "/uploads/cloud_une.jpg"
 ---
 
 Mi-avril 2015, le service des achats de l’État (SAE) a passé un marché interministériel spécifique pour le cloud. L’objectif : que chaque ministère puisse à terme commander rapidement, en quelques clics et à des prix avantageux des espaces cloud. Le marché, qui concerne également une dizaine d’établissements publics (dont des universités et le GIE Renater), sera notifié en juillet pour une disponibilité du service cloud en septembre 2015.
