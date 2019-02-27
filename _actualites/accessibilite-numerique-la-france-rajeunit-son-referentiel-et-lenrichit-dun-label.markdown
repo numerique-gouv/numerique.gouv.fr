@@ -2,6 +2,12 @@
 title: 'Accessibilité numérique : la France rajeunit son référentiel et l’enrichit
   d’un label'
 date: 2019-02-27 10:56:00 +01:00
+published: false
+categories:
+- Article
+tags:
+- RGAA
+- accessibilité numérique
 chapeau-text: 'La DISIC sort [une version entièrement mise à jour du RGAA](http://references.modernisation.gouv.fr/referentiel/){:target="_blank"},
   le référentiel d’accessibilité numérique pour les sites Internet de l’administration.
   Mieux : elle l’a assorti d’une série de mesures d’accompagnement. La plus emblématique
