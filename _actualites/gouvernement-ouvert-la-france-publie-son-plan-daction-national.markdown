@@ -17,7 +17,7 @@ La révolution numérique donne aujourd'hui une réalité nouvelle à ce mouveme
  
 
 #### **26 engagements sur 5 thèmes, pour une action publique plus transparente et plus collaborative**
-figure class='image-left' style='width: 20%; margin-right: 10px;'>
+<figure class='image-left' style='width: 20%; margin-right: 10px;'>
 <img src="/uploads/logo_ogp.png"/></figurePour progresser vers toujours plus de transparence, [la France a rejoint en avril 2014 le Partenariat pour le Gouvernement Ouvert](https://www.modernisation.gouv.fr/home/france-rejoint-open-governement-partnership-ogp){:target="_blank"} (PGO - en anglais [Open Government Partnership](https://www.opengovpartnership.org/){:target="_blank"}, OGP), une initiative multilatérale qui rassemble des représentants des gouvernements, d’ONG et de la société civile de 65 pays.
 
 Comme elle s’y est alors engagée, elle publie aujourd’hui son plan d’action national pour une action publique transparente et collaborative.
