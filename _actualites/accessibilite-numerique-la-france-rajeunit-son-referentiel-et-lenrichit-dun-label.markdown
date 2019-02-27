@@ -47,7 +47,7 @@ Le nouveau référentiel est donc lancé. Mais seul, il ne suffit pas<figure cla
 > * développer un système qualité interne tourné vers l’accessibilité numérique, avec notamment la désignation d’un référent accessibilité ;
 >
 > * surveiller et améliorer en continu l’accessibilité des services en ligne. Et ce par deux biais. D’une part un audit interne réalisé chaque année, d’autre part la mise en place d’un « canal accessibilité » permettant aux utilisateurs d’un site de signaler la non conformité de certains de ses éléments.
->   {: .encadré}
+{: .encadré}
 
 #### Les conditions du succès
 
