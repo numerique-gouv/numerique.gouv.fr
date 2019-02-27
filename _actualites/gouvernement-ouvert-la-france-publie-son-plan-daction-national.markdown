@@ -1,6 +1,12 @@
 ---
 title: 'Gouvernement ouvert : la France publie son plan d’action national'
 date: 2019-02-27 17:23:00 +01:00
+tags:
+- Open government partnership
+- OGP
+- PGO
+- Partenariat pour le gouvernement ouvert
+- transparence
 chapeau-text: En [rejoignant le Partenariat pour le gouvernement ouvert](https://www.modernisation.gouv.fr/home/france-rejoint-open-governement-partnership-ogp){:target="_blank"}
   (PGO) en avril 2014, la France s’est engagée à élaborer un plan d’action national
   pour une action publique transparente et collaborative, à l’instar des 64 autres
