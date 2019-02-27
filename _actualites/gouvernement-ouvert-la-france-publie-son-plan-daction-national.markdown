@@ -16,6 +16,8 @@ chapeau-text: En [rejoignant le Partenariat pour le gouvernement ouvert](https:/
   d’action comporte 26 engagements à mettre en œuvre sur la période 2015-2017. Cette
   initiative prolonge le travail mis en œuvre par le gouvernement français depuis
   2012 sur la réforme de l’État et la simplification.
+une-ou-diaporama:
+- image: "/uploads/plan_action_ogp_une_0.jpg"
 ---
 
 La Déclaration des Droits de l’Homme et du Citoyen de 1789 proclamait déjà le droit des Français de concourir à l’élaboration de la loi, le droit de constater par eux-mêmes la nécessité de la contribution publique et d'en suivre l'emploi, et le droit de demander compte à tout agent public de son administration. Depuis, la France a progressivement inscrit ces principes dans sa loi et dans ses institutions.
