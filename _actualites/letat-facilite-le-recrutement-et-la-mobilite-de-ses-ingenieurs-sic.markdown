@@ -14,7 +14,7 @@ chapeau-text: En mai dernier, le corps des ingénieurs SIC du ministère de l’
   d’un concours pour jeunes diplômés. Ce corps de métier dynamise les carrières des
   profils SIC ainsi que leur mobilité au sein de l’État.
 auteur: |-
-  <figure class='image-left' style='width: 10%; margin-right: 10px;'>
+  <figure class='image-left' style='width: 20%; margin-right: 10px;'>
   <img src="/uploads/charlotte-cador.jpg"/></figure>Charlotte Cador
 ---
 
