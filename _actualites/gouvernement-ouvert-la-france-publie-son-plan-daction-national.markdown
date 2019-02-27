@@ -1,6 +1,8 @@
 ---
 title: 'Gouvernement ouvert : la France publie son plan d’action national'
 date: 2019-02-27 17:23:00 +01:00
+categories:
+- Article
 tags:
 - Open government partnership
 - OGP
