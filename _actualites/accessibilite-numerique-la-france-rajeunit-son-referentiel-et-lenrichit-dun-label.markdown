@@ -64,9 +64,9 @@ Déploiement d’un label, aide à la formation, guides, ressources techniques e
 La DISIC pilote déjà le système d’information (SI) de l’Etat, lui-même placé sous la responsabilité du Premier ministre depuis le décret du 1er août 2014. Ce nouveau cadre réglementaire renforce ses prérogatives. Il lui confère **un poids supplémentaire pour affirmer auprès des administrations la nécessité, voire l’obligation, de s’aligner sur les standards de l’accessibilité numérique.**
 
 > [Accéder au RGAA v3](http://references.modernisation.gouv.fr/referentiel/){:target="_blank}
-> {: .lien-important}
+{: .lien-important}
 
 > #### Un découpage du RGAA qui facilite sa mise à jour continue
->
+> 
 > La nouvelle présentation du RGAA (entièrement web) favorisa son alignement continu sur les futures évolutions technologiques. En effet, il est désormais découpé autour de critères techniques (conditions à respecter pour garantir l’accessibilité numérique) qui pourront s’analyser unitairement. Sur le site References.modernisation.gouv.fr, ces critères feront l’objet de commentaires et d’échanges des internautes, visant à les faire évoluer en fonction des WCAG ou des technologies.
-> {: .encadré}
+{: .encadré}
