@@ -1,6 +1,7 @@
 ---
 title: 'Vitam : une organisation entièrement tournée vers l’agilité'
 date: 2015-12-08 15:25:00 +01:00
+published: false
 categories:
 - Article
 tags:
