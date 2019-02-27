@@ -46,14 +46,14 @@ Mais si le cahier des charges sanctuarise l’agilité tout au long des dévelop
 L’association d’un développement en mode agile avec une phase d’industrialisation plus « classique » permettra donc d’allier rapidité d’exécution, créativité, rigueur et qualité. Elle présentera également l’avantage de diversifier les fournisseurs de manière à équilibrer leur poids au sein du projet. Cette pluralité s’inscrit dans une logique de maîtrise renforcée des prestataires. Avec Vitam, l’administration pilotera l'ensemble des prestataires, encadrera la bonne tenue de leurs objectifs respectifs mais restera responsable, et donc maître, de la réalisation d’ensemble.
 
 >#### Les grandes dates de Vitam
->* **9 mars 2015** : lancement du programme Vitam
->* **12 août 2015** : publication des marchés pour la prestation de développement et d’intégration
->* **30 septembre 2015** : fin de remise des offres
->* **Début 2016** : notification des marchés
->* **Mi-2016** : premiers livrables du socle Vitam (sous forme d’interfaces testables par les ministères)
->* **Mi-2017** : finalisation de la première version de production
->* **Mi-2018** : finalisation de la seconde version de production
->* **Mi-2019** : finalisation de la troisième version de production
+> **9 mars 2015** : lancement du programme Vitam
+> **12 août 2015** : publication des marchés pour la prestation de développement et d’intégration
+> **30 septembre 2015** : fin de remise des offres
+> **Début 2016** : notification des marchés
+> **Mi-2016** : premiers livrables du socle Vitam (sous forme d’interfaces testables par les ministères)
+> **Mi-2017** : finalisation de la première version de production
+> **Mi-2018** : finalisation de la seconde version de production
+> **Mi-2019** : finalisation de la troisième version de production
 {: .encadré}
 
  
