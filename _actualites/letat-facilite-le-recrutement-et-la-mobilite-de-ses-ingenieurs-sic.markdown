@@ -44,7 +44,7 @@ Mais il recherche aussi des compétences récentes pour opérer sa transformatio
 
 Intégrés à ce corps revalorisé, les ingénieurs SIC suivront des trajectoires professionnelles marquées par la diversité. Diversité des métiers, diversité des administrations d’accueil, dont l’étendue promet une mobilité géographique (territoire métropolitain et ultramarin). Diversité enfin des missions puisque les projets informatiques de l’État touchent aussi bien à la modernisation de son système d’information qu’aux enjeux de l’administration électronique, c’est-à-dire à la fourniture de service public innovants aux usagers.
 
-##### Pour en savoir plus
+#### Pour en savoir plus
 
 > [Plus d'infos sur la campagne de recrutement, sur le site du ministère de l'intérieur](https://www.interieur.gouv.fr/Archives/Archives-des-actualites/2015-Actualites/L-Etat-recrute-40-ingenieurs-SIC){:target="_blank"}
 {: .lien-important}
