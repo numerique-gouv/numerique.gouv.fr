@@ -59,6 +59,8 @@ Déploiement d’un label, aide à la formation, guides, ressources techniques e
 
 La DISIC pilote déjà le système d’information (SI) de l’Etat, lui-même placé sous la responsabilité du Premier ministre depuis le décret du 1er août 2014. Ce nouveau cadre réglementaire renforce ses prérogatives. Il lui confère **un poids supplémentaire pour affirmer auprès des administrations la nécessité, voire l’obligation, de s’aligner sur les standards de l’accessibilité numérique.**
 
+[Accéder au RGAA v3](http://references.modernisation.gouv.fr/referentiel/){:target="_blank}
+{: .lien-important}
  
 
 
