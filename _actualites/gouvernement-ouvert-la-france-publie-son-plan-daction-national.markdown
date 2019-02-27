@@ -30,7 +30,7 @@ La France prend ainsi 26 engagements, sur 5 axes :
 * le gouvernement ouvert au service du climat et du développement durable.
 
 #### **« Revivifier notre démocratie »**
-En favorisant un mode d’élaboration de nos politiques publiques plus <figure class='image-left' style='width: 20%; margin-right: 10px;'>
+En favorisant un mode d’élaboration de nos politiques publiques plus <figure class='image-right' style='width: 20%; margin-left: 10px;'>
 <img src="/uploads/signature_planogp.jpg"/></figure>ouvert et plus concerté, il s’agit de **« revivifier notre démocratie »**, selon les mots du président François Hollande, qui signe la préface de ce plan.
 
 Pour Clotilde Valter, secrétaire d’Etat chargée de la Réforme de l’Etat et de la Simplification, qui représente le gouvernement français au sein du PGO : **« rénover la relation entre l’État et les citoyens, entre l’État et les entreprises, utiliser les technologies pour plus d’efficacité et de transparence et donner un nouveau souffle à notre démocratie, est au cœur de notre projet »**.
