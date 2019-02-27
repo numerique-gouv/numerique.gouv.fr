@@ -9,11 +9,13 @@ tags:
 - transformation numérique
 - agilité
 - modernisation
-chapeau-text: "![charlotte-cador.jpg](/uploads/charlotte-cador.jpg)En mai dernier,
-  le corps des ingénieurs SIC du ministère de l’Intérieur a été revalorisé et s’est
-  ouvert à l’interministériel. Il fait aujourd’hui l’objet d’un concours pour jeunes
-  diplômés. Ce corps de métier dynamise les carrières des profils SIC ainsi que leur
-  mobilité au sein de l’État."
+chapeau-text: En mai dernier, le corps des ingénieurs SIC du ministère de l’Intérieur
+  a été revalorisé et s’est ouvert à l’interministériel. Il fait aujourd’hui l’objet
+  d’un concours pour jeunes diplômés. Ce corps de métier dynamise les carrières des
+  profils SIC ainsi que leur mobilité au sein de l’État.
+auteur: |-
+  <figure class='image-left' style='width: 20%; margin-right: 10px;'>
+  <img src="/uploads/charlotte-cador.jpg"/></figure>**Charlotte Cadore**
 ---
 
 En ce mois de septembre 2015, un concours innovant est organisé par le ministère de l'Intérieur pour recruter une quarantaine d’ingénieurs SIC (système d’information et de communication) au sein de l’État. Innovant car il permet aux jeunes diplômés (bac \+5 : diplôme d’ingénieur ou master 2 dans le domaine des SIC) d’intégrer un corps d’ingénieurs ouvert à l’interministériel. Le détail semble anodin ? Il est fondamental. Il donne en effet des perspectives inédites en termes de mobilité, d’opportunités de carrière et de formation.
@@ -46,5 +48,5 @@ Intégrés à ce corps revalorisé, les ingénieurs SIC suivront des trajectoire
 
 [Plus d'infos sur la campagne de recrutement, sur le site du ministère de l'intérieur](https://www.interieur.gouv.fr/Archives/Archives-des-actualites/2015-Actualites/L-Etat-recrute-40-ingenieurs-SIC){:target="_blank"}
 {: .lien-important}
-[Décret portant statut particulier du corps des ingénieurs SIC](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030645061&dateTexte=&categorieLien=id){:target="_blank"}![recrutement_si_une.jpg](uploads/recrutement_si_une.jpg)
+[Décret portant statut particulier du corps des ingénieurs SIC](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030645061&dateTexte=&categorieLien=id){:target="_blank"}
 {: .lien-important}
