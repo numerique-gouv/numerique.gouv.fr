@@ -9,6 +9,7 @@ chapeau-text: 'La DISIC sort [une version entièrement mise à jour du RGAA](htt
   une démarche organisationnelle déployée autour de l’accessibilité numérique.'
 une-ou-diaporama:
 - image: "/uploads/accessibilite-numerique.jpg"
+auteur: Archives
 ---
 
 *« L’accessibilité, ce n’est pas simplement les lieux. C’est aussi le numérique. Et le numérique ne doit pas être une barrière de plus, un interdit de plus, mais un levier de plus, une chance de plus. C’est pourquoi la mise en accessibilité des sites de l’Etat est le premier impératif. »* En clôture de la Conférence nationale sur le handicap (CNH) de décembre 2014, le Président de la République donne le ton et le cap.
