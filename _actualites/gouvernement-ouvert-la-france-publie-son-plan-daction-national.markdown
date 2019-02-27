@@ -43,5 +43,7 @@ Pour Clotilde Valter, secrétaire d’Etat chargée de la Réforme de l’Etat e
 
 Un premier bilan sera réalisé dans un an, pour nourrir la deuxième version du plan d’action. La volonté de l’Etat est de continuer à progresser vers un gouvernement plus ouvert à la consultation, à la concertation et à la contribution des citoyens dans une démarche d’efficacité collective. « Ce document est un premier pas, précise François Hollande. Il en appelle beaucoup d’autres ».
 
+> #### **Un plan d’action coconstruit avec la société civile et les administrations**
+> Le plan d’action national pour une action publique transparente et collaborative est le fruit d’une longue concertation avec la société civile, au sein du gouvernement et de l’administration, ainsi qu’avec les autorités indépendantes. D’octobre 2014 à juin 2015, les travaux se sont notamment articulés autour d’une consultation en ligne organisée par le Conseil national du numérique ([voir la synthèse des contributions](https://contribuez.cnnumerique.fr/consultation/95/synthese){:target="_blank"}) et de réunions, ateliers et évènements contributifs organisés dans toute la France.
 
 
