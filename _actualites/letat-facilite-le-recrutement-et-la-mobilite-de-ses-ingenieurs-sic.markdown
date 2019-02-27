@@ -15,7 +15,7 @@ chapeau-text: En mai dernier, le corps des ingénieurs SIC du ministère de l’
   profils SIC ainsi que leur mobilité au sein de l’État.
 auteur: |-
   <figure class='image-left' style='width: 20%; margin-right: 10px;'>
-  <img src="/uploads/charlotte-cador.jpg"/></figure>**Charlotte Cadore**
+  <img src="/uploads/charlotte-cador.jpg"/></figure>Charlotte Cador
 ---
 
 En ce mois de septembre 2015, un concours innovant est organisé par le ministère de l'Intérieur pour recruter une quarantaine d’ingénieurs SIC (système d’information et de communication) au sein de l’État. Innovant car il permet aux jeunes diplômés (bac \+5 : diplôme d’ingénieur ou master 2 dans le domaine des SIC) d’intégrer un corps d’ingénieurs ouvert à l’interministériel. Le détail semble anodin ? Il est fondamental. Il donne en effet des perspectives inédites en termes de mobilité, d’opportunités de carrière et de formation.
