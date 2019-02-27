@@ -35,7 +35,7 @@ Dans un deuxième temps, de septembre à octobre, ce premier livrable a été **
 
 #### « e-accessible » : un label pour valoriser les démarches d’accessibilité
 
-Le nouveau référentiel est donc lancé. Mais seul, il ne suffit pas<figure class='image-right' style='width: 30%; margin-left: 10px;'>
+Le nouveau référentiel est donc lancé. Mais seul, il ne suffit pas<figure class='image-right' style='width: 30%; margin-left: 10px;margin-bottom:10px;'>
 <img src="/uploads/logo_e-accessible_500.jpg"/></figure>Il doit être enrichi de **mesures facilitant son application**. Première d’entre elles : **un label récompensant les employeurs publics s’engageant sur la voie de l’accessibilité**. Baptisé **« e-accessible »**, il présente deux avantages notoires. D’une part, il est **un instrument de valorisation mettant en lumière un engagement vertueux**. D’autre part, il a beau être adossé au RGAA, il peut être obtenu sans pour autant respecter le niveau légal (à savoir l’ensemble des critères A et AA). « e-accessible » propose en effet 5 niveaux différents. Si le quatrième correspond à une mise en conformité légale (le cinquième allant au-delà), les trois premiers **attestent d’une démarche en cours et surtout d’une organisation interne tournée vers l’accessibilité**.
 
 > #### Le label exige une organisation spécifique en faveur de l’accessibilité numérique
