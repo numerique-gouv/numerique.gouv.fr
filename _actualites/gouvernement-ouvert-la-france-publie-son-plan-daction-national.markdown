@@ -10,3 +10,10 @@ chapeau-text: En [rejoignant le Partenariat pour le gouvernement ouvert](https:/
   2012 sur la réforme de l’État et la simplification.
 ---
 
+La Déclaration des Droits de l’Homme et du Citoyen de 1789 proclamait déjà le droit des Français de concourir à l’élaboration de la loi, le droit de constater par eux-mêmes la nécessité de la contribution publique et d'en suivre l'emploi, et le droit de demander compte à tout agent public de son administration. Depuis, la France a progressivement inscrit ces principes dans sa loi et dans ses institutions.
+
+La révolution numérique donne aujourd'hui une réalité nouvelle à ce mouvement, en permettant d’enrichir et d’étendre la participation des citoyens et la coconstruction des politiques publiques.
+
+ 
+
+#### **26 engagements sur 5 thèmes, pour une action publique plus transparente et plus collaborative**
