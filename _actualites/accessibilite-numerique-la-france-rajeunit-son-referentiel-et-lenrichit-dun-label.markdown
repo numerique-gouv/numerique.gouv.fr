@@ -45,6 +45,10 @@ Le nouveau référentiel est donc lancé. Mais seul, il ne suffit pas<figure cla
 > * surveiller et améliorer en continu l’accessibilité des services en ligne. Et ce par deux biais. D’une part un audit interne réalisé chaque année, d’autre part la mise en place d’un « canal accessibilité » permettant aux utilisateurs d’un site de signaler la non conformité de certains de ses éléments.
 {: .encadré}
 
+#### Les conditions du succès
+
+Parallèlement au label, la DISIC propose des [ressources spécifiques](http://references.modernisation.gouv.fr/ressources){:target="blank} dédiées aux développeurs et aux chefs de projets. Les premiers peuvent d’ores et déjà s’appuyer sur une liste de composants nativement accessibles. Des composants tels qu’une barre de navigation, un slider ou un carrousel, issus par exemple de librairies Javascript comme Jquery ou Bootstrap. La DISIC (par le biais du groupement) fournit par ailleurs aux développeurs des correctifs et une documentation pour effectuer eux-mêmes des modifications sur des composants qui ne sont pas accessibles. 
+
 
 
 
