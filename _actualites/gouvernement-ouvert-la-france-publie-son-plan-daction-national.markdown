@@ -21,3 +21,11 @@ Pour progresser vers toujours plus de transparence, [la France a rejoint en avri
 
 Comme elle s’y est alors engagée, elle publie aujourd’hui son plan d’action national pour une action publique transparente et collaborative.
 
+La France prend ainsi 26 engagements, sur 5 axes :
+* rendre des comptes ;
+* consulter, concerter, et coproduire l’action publique ;
+* partager des ressources numériques utiles à l’innovation économique et sociale ;
+* poursuivre l’ouverture de l’administration ;
+* le gouvernement ouvert au service du climat et du développement durable.
+
+
