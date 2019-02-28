@@ -1,6 +1,7 @@
 ---
 title: 'Panorama des grands projets SI de l’État : la 3e édition vient de paraître'
 date: 2017-07-13 13:38:00 +02:00
+published: false
 tags:
 - SI
 - panorama des grands projets SI
