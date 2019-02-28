@@ -64,10 +64,6 @@ Cette première vague de recommandations (dont la mise en œuvre s’étend jusq
 
 [Consulter l'étude portant sur l'archivage électronique dans les territoires](https://www.modernisation.gouv.fr/etudes-et-referentiels/etudes/etude-sur-le-developpement-de-larchivage-electronique-dans-les-territoires){:target:"_blank"}
 
-> **Vous souhaitez rejoindre la communauté constituée en faveur du développement de l’administration numérique territoriale et contribuer activement à la mise en œuvre opérationnelle des recommandations ?
-Faites-le nous savoir en écrivant à l’adresse suivante : DcANT.sgmap@modernisation.gouv.fr**
-{: .encadre}
-
 **A voir aussi :**
 [![[Vidéo]Digitalisation de l'action publique](/uploads/Digitalisation.PNG)](http://video.cnfpt.fr/ets-2015-1/digitalisation-de-laction-publique){:target="_blank"} Interview de Laure de la Bretèche, SGMAP, et de Vincent Potier, directeur général du CNFPT, réalisée dans le cadre des ETS, le rendez-vous des managers territoriaux
 
