@@ -39,7 +39,9 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 
 [![Accéder au portrait de Tristram Gräbener et Francis Chabouis](/uploads/EIG%203.png)](https://www.dailymotion.com/video/x5ciq09 "Accéder au portrait de Tristram Gräbener et Francis Chabouis"){:target="_blank"}
 
+**Etienne David** est ingénieur AgroParisTech et entrepreneur. Spécialisé en analyse d’image, il réalise sa thèse de Master à Singapour. Attentif aux défis contemporains liés à l’alimentation, il est à l’origine du projet Jugaaddict visant à aller à la rencontre des innovations les plus ingénieuses dans le domaine de l'alimentaire. Il relève le défi de l’Agence Française de Développement (AFD).
 
+[![Accéder au portrait d'Etienne David]![EIG 4.png](/uploads/EIG%204.png)](https://www.dailymotion.com/video/x5cispt "Accéder au portrait d'Etienne David"){:target="_blank"}
 
 
 
