@@ -20,6 +20,9 @@ Dans le cadre du plan d’actions et de mobilisation contre le sexisme [« Sexis
 
 #### Trois projets lauréats
 Lors de ce week-end plein d’énergie créative, le #HackEgalitéFH a mobilisé près d’une centaine de personnes, regroupées en 8 équipes qui ont « pitché » dimanche 5 mars devant le jury. Les 3 projets lauréats de ce hackathon sont :<br>
+<figure class='image-right' style='width: 30%; margin-left: 10px;'>
+  <img src="/uploads/hackegalitefh-laureats.jpg"/>
+</figure>
 **« Sexism in the office »** : un « serious game » qui sensibilise les collaborateurs et collaboratrices aux comportements sexistes sur le lieu de travail, en faisant vivre des scènes du point de vue de l’auteur de l’acte, de la victime, ou du témoin, et donne les clés pour agir et ouvrir le débat au sein de l’organisation ;<br>
 **« George, le deuxième texte »** : une plateforme web qui met à disposition des enseignants et du grand public une base de textes écrits tant par des femmes que par des hommes, de la manière la plus exhaustive et paritaire possible et en lien avec les thèmes du programme scolaire ;<br>
 **« Maydée »** : une application qui permet de quantifier et valoriser le temps passé à s’occuper des tâches domestiques, et d’objectiver la discussion à ce sujet au sein du foyer.
