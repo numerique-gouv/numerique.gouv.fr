@@ -12,7 +12,7 @@ une-ou-diaporama:
 - image: "/uploads/une-eig_v2.jpg"
 ---
 
-En juin 2016, le président de la République annonçait l’ambition d’accueillir au sein de l’Etat des « entrepreneurs d’intérêt général ». Piloté par Etalab, la mission du secrétariat général pour la modernisation de l’action publique (SGMAP) en charge de l’ouverture des données publiques, avec le soutien du Conseil général de l’économie (CGE), ce programme innovant est aujourd’hui lancé !
+En juin 2016, [le président de la République annonçait l’ambition d’accueillir au sein de l’Etat des « entrepreneurs d’intérêt général »](https://www.modernisation.gouv.fr/home/le-programme-entrepreneur-dinteret-general-lance-prochainement){: target="_blank"}. Piloté par Etalab, la mission du secrétariat général pour la modernisation de l’action publique (SGMAP) en charge de l’ouverture des données publiques, avec le soutien du Conseil général de l’économie (CGE), ce programme innovant est aujourd’hui lancé !
 
 Il poursuit 2 objectifs :
 développer l’innovation ouverte au sein de l’administration : améliorer la connaissance par les administrations de nouvelles ressources et accélérer la capacité d’expérimentation et de modernisation de l’Etat.
