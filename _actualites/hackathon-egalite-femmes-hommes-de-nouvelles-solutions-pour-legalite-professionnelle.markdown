@@ -1,6 +1,10 @@
 ---
 title: 'Hackathon Egalité femmes-hommes : de nouvelles solutions pour l’égalité professionnelle'
 date: 2019-02-28 15:33:00 +01:00
+tags:
+- données publiques
+- hackathon
+- Design  services publics
 chapeau-text: 'Un « serious game » sur le sexisme au travail, une plateforme web pour
   valoriser les auteures auprès des enseignants et du grand public, une application
   pour mesurer et valoriser le temps passé à s’occuper des tâches domestiques : ces
