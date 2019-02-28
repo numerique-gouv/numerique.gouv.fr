@@ -7,8 +7,8 @@ tags:
 - Egalité
 - Diversité
 chapeau-text: 'La direction interministérielle du numérique (DINSIC) participe pleinement
-  à la politique en faveur de la diversité, de l''égalité professionnelle entre les
-  femmes et les hommes et du handicap des services du Premier ministre. '
+  à la politique des services du Premier ministre en faveur de la diversité, de l''égalité
+  professionnelle entre les femmes et les hommes et du handicap. '
 une-ou-diaporama:
 - image: "/uploads/Article-Egalit%C3%A9-diversit%C3%A9.jpg"
 ---
