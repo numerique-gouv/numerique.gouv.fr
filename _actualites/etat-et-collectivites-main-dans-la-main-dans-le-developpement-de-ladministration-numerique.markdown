@@ -17,7 +17,7 @@ chapeau-text: 'Fruit d’une collaboration entre État et collectivités, le pro
   [Mise à jour le 2 mars 2018]'
 ---
 
-<figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/dcant_3-061a7f.jpg"/>
+<figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/dcant_3-061a7f.jpg"/></figure>
 Une feuille de route sur deux ans, des axes stratégiques prioritaires, des recommandations concrètes, des problématiques partagées par tous… L’État et les collectivités s’engagent ensemble dans un programme de développement concerté de l’administration numérique territoriale (DcANT). Officiellement lancé le 6 octobre 2015, ce programme est le fruit d’une année de concertation conduite au sein d’une instance de gouvernance réunissant les associations d’élus, les collectivités territoriales et les ministères : l’instance nationale partenariale (INP), animée et pilotée par le secrétariat général pour la modernisation de l’action publique (SGMAP).
 
 > **"Le programme repose sur le besoin d’une gouvernance partagée entre l’État et les collectivités autour des grands projets qui impactent l’administration numérique territoriale."**
@@ -62,7 +62,7 @@ Cette première vague de recommandations (dont la mise en œuvre s’étend jusq
 
 **Volet 3** : Définition de scenarii de mise en œuvre de systèmes d'archivage électronique (SAE) dans les territoires adaptés aux besoins des collectivités pour faciliter l’émergence de projets d’archivage électronique et leur montée en charge
 
-[Consulter l'étude portant sur l'archivage électronique dans les territoires](https://www.modernisation.gouv.fr/etudes-et-referentiels/etudes/etude-sur-le-developpement-de-larchivage-electronique-dans-les-territoires){:target:"_blank"}
+[Consulter l'étude portant sur l'archivage électronique dans les territoires](https://www.modernisation.gouv.fr/etudes-et-referentiels/etudes/etude-sur-le-developpement-de-larchivage-electronique-dans-les-territoires){:target="_blank"}
 
 **A voir aussi :**
 [![[Vidéo]Digitalisation de l'action publique](/uploads/Digitalisation.PNG)](http://video.cnfpt.fr/ets-2015-1/digitalisation-de-laction-publique){:target="_blank"} Interview de Laure de la Bretèche, SGMAP, et de Vincent Potier, directeur général du CNFPT, réalisée dans le cadre des ETS, le rendez-vous des managers territoriaux
