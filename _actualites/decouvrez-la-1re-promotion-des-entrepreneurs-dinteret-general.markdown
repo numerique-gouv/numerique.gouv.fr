@@ -29,3 +29,7 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 
 [![Accéder au portrait de Constance de Quatrebarbes](uploads/EIG%201.png)](https://www.dailymotion.com/video/x5cit86 "Accéder au portrait de Constance de Quatrebarbes"){:target="_blank"}
 
+**Martin Gross** est ingénieur Supélec. Passionné par les problématiques d’open data ainsi que de web technologies, il a co-fondé CommoPrices.com, le plus grand portail de prix de matières premières au monde. Il relève le défi du ministère de l’Intérieur.
+
+[![Accéder au portrait de Martin Gross](uploads/EIG%201.png)](https://www.dailymotion.com/video/x5ciua7 "Accéder au portrait Martin Gross"){:target="_blank"}
+
