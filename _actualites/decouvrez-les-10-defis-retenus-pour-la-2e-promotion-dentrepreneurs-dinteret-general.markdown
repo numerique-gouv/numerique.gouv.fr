@@ -17,7 +17,7 @@ auteur: Archives
 
 #### Un jury d’exception pour sélectionner les meilleurs défis de transition numérique et d’innovation ouverte
 
-<figure class='image-left' style='width: 30%; margin-right: 10px;'>
+<figure class='image-left' style='width: 40%; margin-right: 10px;'>
   <img src="/uploads/jury-blog-bis.jpg"/>
 </figure>
 Suite à l’appel à projets [« Défis de transition numérique des administrations pour la deuxième promotion des entrepreneurs d’intérêt général »](https://www.modernisation.gouv.fr/home/administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general){:target="_blank"} lancé le 5 mai dernier, les administrations candidates au programme Entrepreneurs d’intérêt général (EIG) sont venues pitcher leurs défis devant [le jury](https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general){:target="_blank"} de sélection composé d’agents publics et de personnalités du monde associatif et entrepreneurial. Leurs présentations ont permis aux candidats et aux membres du jury d’interagir sur les enjeux du défi, les ressources mobilisées et l’environnement de travail proposé aux futurs entrepreneurs.
@@ -31,7 +31,7 @@ Suite à l’appel à projets [« Défis de transition numérique des administra
 Au total, 10 défis sur les 30 auditionnés ont retenu l’attention des membres du jury. Ils couvrent des domaines variés de l’action publique comme les questions environnementales, l’amélioration des processus métiers et des services aux usagers, l’innovation sociale, l’accompagnement des TPE/PME dans les territoires, le patrimoine culturel et artistique, les affaires sociales, etc.
 
 > La deuxième promotion des EIG va intervenir sur terre et en mer, à Paris comme en région, sur des enjeux sociaux, économiques, culturels et régaliens. Ce sera une promotion tout terrain !
-{: citation}
+{: .citation}
 > Adnène Trojette, membre du jury et co-dirigeant du Liberté living-lab
 {: .auteur-citation}
 
@@ -69,7 +69,7 @@ Direction générale de la gendarmerie nationale (DGGN), mission numérique de l
 
 Les membres du jury ont été particulièrement attentifs aux défis ayant un fort potentiel de transformation, d’ouverture et d’entrepreneuriat. Plusieurs nouveautés apportées à la [2e vague du programme Entrepreneurs d’intérêt général](https://www.modernisation.gouv.fr/home/administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general){:target="_blank"} ont appuyé les appréciations du jury : les défis accueilleront plusieurs entrepreneurs (2 ou 3) aux compétences complémentaires, et les administrations d’accueil devront s’impliquer directement dans le projet via une équipe pluridisciplinaire composée d’EIG, d’agents métiers et DSI.
 
-[(Re)découvrir la première promotion des entrepreneurs d’intérêt général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/decouvrez-la-1re-promotion-des-entrepreneurs-dinteret-general){:target="_blank"}
+> [(Re)découvrir la première promotion des entrepreneurs d’intérêt général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/decouvrez-la-1re-promotion-des-entrepreneurs-dinteret-general){:target="_blank"}
 {: .lien-important}
 
 #### Prochaine étape : un appel à candidatures pour recruter les futurs EIG
