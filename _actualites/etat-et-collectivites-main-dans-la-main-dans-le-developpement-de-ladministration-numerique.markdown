@@ -29,7 +29,7 @@ Une feuille de route sur deux ans, des axes stratégiques prioritaires, des reco
 Ce programme entend faire converger la stratégie de transformation numérique des collectivités territoriales avec celle de l’État et de ses différents projets [État plateforme](https://www.modernisation.gouv.fr/home/etat-plateforme-tribune-marzin){:target="_blank"}, gouvernement ouvert, open data, choc de simplification…). 
 
 #### Simplifier les échanges entre collectivités et État
-<figure class='image-right' style='width: 30%; margin-left: 10px;'>
+<figure class='image-right' style='width: 40%; margin-left: 10px;'>
 <img src="/uploads/sans-titre.png"/>
 </figure>
 Au cœur du programme DcANT, dix recommandations opérationnelles. Les unes sont atteignables très rapidement, les autres, plus structurantes, s’inscrivent dans le moyen terme. Toutes s’articulent autour de plusieurs axes stratégiques. Premier d’entre eux : l’efficience des relations inter-administrations. « Les échanges entre l’État et les collectivités doivent être simplifiés », explique Céline Faivre (photo), adjointe à la cheffe du département Administration numérique en charge du programme DcANT au sein du SGMAP. « L’une des recommandations du programme insiste sur la mise en place d’un mécanisme mutualisé d'identification et d'authentification des agents et des élus, en s’appuyant sur des annuaires et des bases tiers partagés. Ce système permettrait aux collectivités d’échanger avec l’Etat et d’accéder à ses applications informatiques de façon simplifiée et sécurisée. » La construction d’un France Connect Agents fait d’ailleurs l’objet de travaux associant le Ministère de l’Intérieur, de la Justice, la DGFiP et 9 collectivités territoriales.
