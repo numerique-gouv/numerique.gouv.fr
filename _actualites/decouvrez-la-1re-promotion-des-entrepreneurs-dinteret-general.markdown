@@ -41,9 +41,11 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 
 **Etienne David** est ingénieur AgroParisTech et entrepreneur. Spécialisé en analyse d’image, il réalise sa thèse de Master à Singapour. Attentif aux défis contemporains liés à l’alimentation, il est à l’origine du projet Jugaaddict visant à aller à la rencontre des innovations les plus ingénieuses dans le domaine de l'alimentaire. Il relève le défi de l’Agence Française de Développement (AFD).
 
-[![Accéder au portrait d'Etienne David]![EIG 4.png](/uploads/EIG%204.png)](https://www.dailymotion.com/video/x5cispt "Accéder au portrait d'Etienne David"){:target="_blank"}
+[![Accéder au portrait d'Etienne David](/uploads/EIG%204.png)](https://www.dailymotion.com/video/x5cispt "Accéder au portrait d'Etienne David"){:target="_blank"}
 
+**Frédéric Bardolle** a passé les six dernières années à résoudre des problèmes grâce aux données. CTO (Chief Technology Officer) de Data for Good, il accompagne les projets data science réalisés par la communauté de 300 volontaires pour des associations et des institutions publiques. L’été dernier, il a participé en tant que mentor au Paris Summer Innovation Fellowship, un programme rassemblant 20 jeunes innovateurs travaillant sur des projets à impact social. Il rejoint les entrepreneurs d’intérêt général sur le défi de la Cour des comptes.
 
+[![Accéder au portrait de Frédéric Bardolle]![EIG 4.png](/uploads/EIG%204.png)](https://www.dailymotion.com/video/x5cispt "Accéder au portrait d'Etienne David"){:target="_blank"}
 
 
  
