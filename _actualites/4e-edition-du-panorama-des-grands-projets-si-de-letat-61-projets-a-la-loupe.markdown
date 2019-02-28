@@ -1,6 +1,7 @@
 ---
 title: '4e édition du panorama des grands projets SI de l’État : 61 projets à la loupe'
 date: 2017-11-29 11:08:00 +01:00
+published: false
 chapeau-text: Un an après sa première parution, la direction interministérielle du
   numérique et du système d’information et de communication de l’Etat (DINSIC) publie
   la 4e édition du panorama des grands projets SI de l’Etat. Son suivi sur un an montre
