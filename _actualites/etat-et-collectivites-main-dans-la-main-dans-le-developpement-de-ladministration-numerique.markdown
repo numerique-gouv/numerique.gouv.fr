@@ -26,4 +26,16 @@ Un autre axe majeur du programme concerne l’usager (particuliers, entreprises,
 
 Côté entreprise, le programme mettra l’accent sur la dématérialisation totale des procédures de passation des marchés publics et la généralisation de [Marché public simplifié](https://www.modernisation.gouv.fr/home/marche-public-simplifie){:target="_blank}. C’est d’ailleurs là une recommandation à part entière copilotée avec la direction des affaires juridiques de Bercy. « Les expérimentations envisagées contribueront à faciliter la mise en œuvre du plan national de dématérialisation des marchés publics », précise Céline Faivre.
 
+#### Favoriser le développement de l’archivage électronique
+La gestion de la preuve électronique et du patrimoine immatériel des administrations fait l’objet d’un dernier axe qui touche directement à leur processus d’archivage électronique. La bonne conservation des actifs numériques est en effet un préalable à la dématérialisation de leurs documents.
+
+En pratique, le programme recommande l’interopérabilité des solutions d’archivage. Il table sur la construction d’un cadre d’architecture fondé sur des normes, des standards et des référentiels communs que devront respecter les éditeurs de logiciels métiers. Il encourage enfin une gestion mutualisée des archives entre autorités compétentes.
+
+#### Vers un écosystème numérique s’appuyant sur les principes de l’État plateforme
+Cette première vague de recommandations (dont la mise en œuvre s’étend jusqu’en 2017) porte la volonté de dématérialiser de bout en bout les échanges entre les administrations et l’usager. Elle s’accompagnera d’une vague d’expérimentations territoriales, amenées à être généralisées. Rappelons également que le programme DcANT vise le développement d’un écosystème et la valorisation d’un patrimoine numériques, deux préoccupations fortes des associations d’élus et de collectivités territoriales.
+
+« Ces deux enjeux sont au cœur de l’État plateforme », explique Henri Verdier (photo), directeur interministériel du numérique et des systèmes d’information et de communication. « Cette stratégie repose sur le principe que les ressources détenues par les administrations doivent être plus ouvertes et plus interopérables, de manière à libérer la puissance de création des acteurs publics et privés. L’État plateforme sera de fait le lieu de convergence de l’État et des collectivités autour du numérique. »
+
+
+
 
