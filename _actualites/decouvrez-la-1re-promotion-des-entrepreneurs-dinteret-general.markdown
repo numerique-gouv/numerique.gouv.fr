@@ -1,6 +1,7 @@
 ---
 title: Découvrez la 1re promotion des Entrepreneurs d’intérêt général !
 date: 2017-02-20 15:13:00 +01:00
+published: false
 categories:
 - Article
 chapeau-text: 'Suite à [l’appel à candidatures « Entrepreneur d’intérêt général »
