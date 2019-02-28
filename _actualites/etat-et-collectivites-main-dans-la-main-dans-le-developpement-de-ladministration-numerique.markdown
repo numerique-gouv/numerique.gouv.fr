@@ -17,3 +17,5 @@ Une feuille de route sur deux ans, des axes stratégiques prioritaires, des reco
 > Laure de la Bretèche, secrétaire générale pour la modernisation de l’action publique
 {: .auteur-citation .bleu}
 
+Ce programme entend faire converger la stratégie de transformation numérique des collectivités territoriales avec celle de l’État et de ses différents projets ([État plateforme](https://www.modernisation.gouv.fr/home/etat-plateforme-tribune-marzin){:target="_blank"), gouvernement ouvert, open data, choc de simplification…). 
+
