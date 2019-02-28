@@ -32,7 +32,7 @@ Au total, 10 défis sur les 30 auditionnés ont retenu l’attention des membres
 
 > La deuxième promotion des EIG va intervenir sur terre et en mer, à Paris comme en région, sur des enjeux sociaux, économiques, culturels et régaliens. Ce sera une promotion tout terrain !
 {: .citation}
-> Adnène Trojette, membre du jury et co-dirigeant du Liberté living-lab
+> **Adnène Trojette, membre du jury et co-dirigeant du Liberté living-lab**
 {: .auteur-citation}
 
 > #### Liste des défis sélectionnés et leurs administrations d’accueil :
