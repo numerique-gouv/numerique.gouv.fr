@@ -50,9 +50,7 @@ Analyser les parcours de soin grâce à une application informatique, défi rele
 
 Faciliter l’accès aux rapports de la Cour des comptes grâce à une API, défi relevé pour Frédéric Bardolle, entrepreneur d’intérêt général à la Cour des comptes et Adnène Trojette, qui a accompagné la 1re promotion EIG au Liberté Living-lab
 
-[![Accéder au témoignage de Frédéric Bardolle et Adnène Trojette](/uploads/8.png)](https://www.dailymotion.com/video/x64z39x "Accéder au témoignage de Frédéric Bardolle et Adnène Trojette"){:target="_blank"}
-<br>
-<br>
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z39x" allowfullscreen allow="autoplay"></iframe>
 
 L’aventure Entrepreneur.e d’intérêt général vous tente ?
 
