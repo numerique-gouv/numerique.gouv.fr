@@ -31,5 +31,17 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 
 **Martin Gross** est ingénieur Supélec. Passionné par les problématiques d’open data ainsi que de web technologies, il a co-fondé CommoPrices.com, le plus grand portail de prix de matières premières au monde. Il relève le défi du ministère de l’Intérieur.
 
-[![Accéder au portrait de Martin Gross](uploads/EIG%201.png)](https://www.dailymotion.com/video/x5ciua7 "Accéder au portrait Martin Gross"){:target="_blank"}
+[![Accéder au portrait de Martin Gross](/uploads/EIG%202.png)](https://www.dailymotion.com/video/x5ciua7 "Accéder au portrait Martin Gross"){:target="_blank"}
+
+**Tristram Gräbener** est passionné par les problématiques de transport, de cartographie et de données ouvertes. Après un doctorat en calcul d’itinéraires multimodaux à l’université de Toulouse, il a participé à la création de navitia.io au sein de Kisio Digital puis a travaillé trois ans chez Captain Train pour faciliter et encourager le voyage en train à travers l’Europe. Il relève le défi du ministère de l’Intérieur.
+
+**Francis Chabouis** est ingénieur spécialisé en mathématiques et développeur. Il a fondé Ubikiwi pour proposer des services innovants en cartographie, data-visualisation et mobilité. L’objectif : aider les usagers à passer moins de temps dans les transports. Il relève le défi du ministère de l’Intérieur.
+
+[![Accéder au portrait de Tristram Gräbener et Francis Chabouis](/uploads/EIG%203.png)](https://www.dailymotion.com/video/x5ciq09 "Accéder au portrait de Tristram Gräbener et Francis Chabouis"){:target="_blank"}
+
+
+
+
+ 
+
 
