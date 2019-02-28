@@ -55,7 +55,7 @@ L’association d’un développement en mode agile avec une phase d’industria
 >* **Mi-2017** : finalisation de la première version de production
 >* **Mi-2018** : finalisation de la seconde version de production
 >* **Mi-2019** : finalisation de la troisième version de production
-{: .encadré}
+{: .encadre}
 
  
 
