@@ -64,3 +64,16 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 **Marion Paclot** est diplômée de l’ENSAE et de Sciences-Po Paris. Elle a d’abord occupé un poste d’économiste-statisticienne à l’ARCEP. Elle a ensuite travaillé comme datascientist chez Bluestone (cabinet de conseil spécialisé en datascience), Webhelp (leader de la gestion de clientèle externalisée), et en tant que datascientist indépendante. Elle relève le défi du ministère de l’Economie et des Finances.
 
 [![Accéder au portrait de Marion Paclot](/uploads/EIG%209.png)](https://www.dailymotion.com/video/x5ew2y8 "Accéder au portrait de Marion Paclot"){:target="_blank"}
+
+#### 9 défis d'intérêt général
+* **Agence Française de Développement** : utiliser des techniques de reconnaissance d’images satellites pour suivre l’avancement de projets financés par l’AFD et assurer la bonne utilisation des fonds.
+* **BnF** : préfigurer une plateforme de co-production de données entre acteurs publics culturels et scientifiques.
+* **Cour des comptes** : concevoir un « chatbot » pour que le grand public puisse interroger simplement les données dans les rapports de la Cour des comptes (par exemple pouvoir extraire des informations sur une entreprise ou un thème).
+* **Ministère de la Culture et de la Communication** : utiliser le crowd-sourcing pour développer une base de données sur le patrimoine culturel ; information et signalement sur les monuments classés.
+* **Ministère de l’Economie et des Finances** : développer des techniques d'analyse de données (modèles prédictifs et analyse des réseaux) pour garantir la bonne gestion des droits et paiements de l'administration à l'égard des citoyens et des entreprises et ainsi lutter contre les fraudes.
+* **Ministère de l’Intérieur** :
+  * projet 1 : monter en qualité les données du système national du permis de conduire (SNPC) à l'aide des données du répertoire national d'identification des personnes physique en vue de ne conserver dans le SNPC que les données conformes à sa finalité.
+  * projet 2 : croiser les données d'accidentalité avec les données de verbalisation pour réaliser un outil de cartographie décisionnelle.
+* **Ministère de l’Education nationale, de l’Enseignement supérieur et de  la Recherche** : constituer une API d’aide à la mise en relation de données textuelles non normées avec des référentiels.   
+* **Ministère des Affaires sociales et de la Santé : utiliser les données du Système national des données de santé** (SNDS) pour modéliser les parcours de soin à l’ARS Occitanie et identifier ainsi les parcours aberrants et les écarts par rapport aux recommandations de bonnes pratiques.
+
