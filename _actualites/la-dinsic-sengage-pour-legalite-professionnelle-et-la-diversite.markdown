@@ -1,7 +1,6 @@
 ---
 title: La DINSIC s'engage pour l'égalité professionnelle et la diversité
 date: 2019-02-25 14:53:00 +01:00
-published: false
 categories:
 - Article
 tags:
