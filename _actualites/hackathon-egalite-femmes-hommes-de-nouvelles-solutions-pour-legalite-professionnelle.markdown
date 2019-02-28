@@ -33,6 +33,7 @@ Lors de ce week-end plein d’énergie créative, le #HackEgalitéFH a mobilisé
 
 > **10 membres du jury**
 > 
+>
 > Le  jury du #HackEgalitéFH était composé d’institutionnels, d’entrepreneurs, et d'un média :
 > 
 >
