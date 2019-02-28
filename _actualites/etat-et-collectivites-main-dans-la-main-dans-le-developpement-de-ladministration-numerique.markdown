@@ -2,6 +2,13 @@
 title: État et collectivités main dans la main dans le développement de l’administration
   numérique
 date: 2019-02-28 10:53:00 +01:00
+categories:
+- Article
+tags:
+- Numérique
+- Territorial
+- Instance nationale partenariale
+- DCANT
 chapeau-text: 'Fruit d’une collaboration entre État et collectivités, le programme
   de développement concerté de l’administration numérique territoriale (DcANT) a été
   officiellement lancé le 6 octobre 2015. Parmi les priorités de ce programme animé
