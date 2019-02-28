@@ -15,6 +15,9 @@ chapeau-text: 'Fruit d’une collaboration entre État et collectivités, le pro
   par le SGMAP : la simplification des échanges entre administrations, l’unification
   de la relation avec l’usager ou le développement de l’écosystème numérique des territoires.
   [Mise à jour le 2 mars 2018]'
+une-ou-diaporama:
+- image: "/uploads/bandeaux_dcant-cf0b23.jpg"
+auteur: Archives
 ---
 
 <figure class='image-left' style='width: 40%; margin-right: 10px;'>
@@ -66,6 +69,7 @@ Cette première vague de recommandations (dont la mise en œuvre s’étend jusq
 **Volet 3** : Définition de scenarii de mise en œuvre de systèmes d'archivage électronique (SAE) dans les territoires adaptés aux besoins des collectivités pour faciliter l’émergence de projets d’archivage électronique et leur montée en charge
 
 [Consulter l'étude portant sur l'archivage électronique dans les territoires](https://www.modernisation.gouv.fr/etudes-et-referentiels/etudes/etude-sur-le-developpement-de-larchivage-electronique-dans-les-territoires){:target="_blank"}
+{: .lien-important}
 
 **A voir aussi :**
 [![[Vidéo]Digitalisation de l'action publique](/uploads/Digitalisation.PNG)](http://video.cnfpt.fr/ets-2015-1/digitalisation-de-laction-publique){:target="_blank"} Interview de Laure de la Bretèche, SGMAP, et de Vincent Potier, directeur général du CNFPT, réalisée dans le cadre des ETS, le rendez-vous des managers territoriaux
