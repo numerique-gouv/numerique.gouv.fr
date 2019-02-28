@@ -53,6 +53,6 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 
 **Bastien Guerry** est développeur et hacktiviste indépendant. Après des études de philosophie et de sciences cognitives, il renoue avec ses premières amours en découvrant le logiciel libre. Il est aujourd’hui mainteneur d’Org-mode, un module pour organiser sa vie à l’aide de fichiers textes. En tant que libriste, il participe au projet One Laptop Per Child en 2008, co-fonde OLPC France, devient premier salarié de Wikimédia France en 2010, fonde Le Musée Libre, puis Move Commons, puis contribue à ShareLex, jecode.org et les Hackadons. Il relève le défi du ministère de la Culture et de la Communication.
  
-[![Accéder au portrait de Bastien Guerry](/uploads/EIG%206.png)](https://www.dailymotion.com/video/x5cirr2 "Accéder au portrait de Bastien Guerry"){:target="_blank"}
+[![Accéder au portrait de Bastien Guerry]![EIG 6-865361.png](/uploads/EIG%206-865361.png)](https://www.dailymotion.com/video/x5cisce "Accéder au portrait de Bastien Guerry"){:target="_blank"}
 
 
