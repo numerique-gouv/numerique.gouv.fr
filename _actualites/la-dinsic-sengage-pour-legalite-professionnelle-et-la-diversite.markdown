@@ -13,11 +13,11 @@ une-ou-diaporama:
 - image: "/uploads/Article-Egalit%C3%A9-diversit%C3%A9.jpg"
 ---
 
-L’égalité et la diversité sont des facteurs de dynamisme, d’innovation et d’efficacité. Ils sont des enjeux stratégiques tant pour le développement personnel que l’enrichissement collectif. Un **plan d'action en faveur de l'égalité professionnelle et de la prévention des risques de discrimination** est actuellement déployé au sein des services du Premier ministre, parmi lesquels la DINSIC. 
+Déclarée [grande cause du quinquennat par le président de la République,](https://grande-cause-quinquennat.gouv.fr/) l’égalité entre les femmes et les hommes s’inscrit dans une stratégie forte et ambitieuse du Gouvernement. Afin de garantir l'exemplarité de l'État en matière d'égalité professionnelle, un **plan d'action en faveur de l'égalité professionnelle et de la prévention des risques de discrimination** est actuellement déployé au sein des services du Premier ministre, parmi lesquels la DINSIC. 
 
-Il se traduit par :
-* La mise en place d’une cellule d’écoute et de traitement des situations de souffrances au travail et des actes de discriminations supposés ou avérés ;
-* La sensibilisation et la formation des agents aux discriminations et à l’égalité des chances  ;
+Ce plan d'action se traduit par :
+* La mise en place d’une cellule d’écoute et de traitement des situations de souffrances au travail et des actes de discriminations supposés ou avérés pour les agents des services du Premier ministre ;
+* La sensibilisation et la formation des agents à l'égalité entre les femmes et les hommes ainsi qu'à la prévention des discriminations et à l’égalité des chances  ;
 * L'adaptation des procédures de recrutement de manière à garantir toute absence de traitement inégalitaire ou de discrimination au regard des 25 critères définis par la loi ;
 * La mise en œuvre d’un plan de communication interne pour sensibiliser les agents et lutter contre les stéréotypes.
 
