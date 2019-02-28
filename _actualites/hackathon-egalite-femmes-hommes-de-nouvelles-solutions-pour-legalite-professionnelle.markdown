@@ -25,6 +25,7 @@ Comme l’a rappelé Laurence Rossignol, « en organisant ce hackathon, nous sou
 > **10 membres du jury**
 > <br>
 > Le  jury du #HackEgalitéFH était composé d’institutionnels, d’entrepreneurs, et d'un média :
+> 
 * Gilles Babinet, « Digital champion » de la France auprès de la Commission européenne
 * Clémence Bodoc, rédactrice en chef de [madmoizelle.com](http://www.madmoizelle.com/){:target="-blank"}
 * Véronique di Benedetto, vice-présidente France d'Econocom, administratice du Syntech numérique et présidente de la commission Femmes du numérique
