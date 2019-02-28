@@ -60,3 +60,7 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 **Sébastien Cossin** passionné par les nouvelles technologies, constate pendant ses études de médecine le retard des systèmes d’information en santé qui impacte la qualité des soins. Pour moderniser les outils informatiques, il réalise un Master 2 en informatique médicale puis rejoint une équipe de recherche de l’Inserm. Il relève le défi du ministère des Affaires sociales et de la Santé.
 
 [![Accéder au portrait de Sébastien Cossin](/uploads/EIG%208.png)](https://www.dailymotion.com/video/x5ew3sx "Accéder au portrait de Sébastien Cossin"){:target="_blank"}
+
+**Marion Paclot** est diplômée de l’ENSAE et de Sciences-Po Paris. Elle a d’abord occupé un poste d’économiste-statisticienne à l’ARCEP. Elle a ensuite travaillé comme datascientist chez Bluestone (cabinet de conseil spécialisé en datascience), Webhelp (leader de la gestion de clientèle externalisée), et en tant que datascientist indépendante. Elle relève le défi du ministère de l’Economie et des Finances.
+
+[![Accéder au portrait de Marion Paclot](/uploads/EIG%209.png)](https://www.dailymotion.com/video/x5ew2y8 "Accéder au portrait de Marion Paclot"){:target="_blank"}
