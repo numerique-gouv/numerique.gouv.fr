@@ -36,7 +36,7 @@ Lors de ce week-end plein d’énergie créative, le #HackEgalitéFH a mobilisé
 > **10 membres du jury**
 > <br>
 > Le  jury du #HackEgalitéFH était composé d’institutionnels, d’entrepreneurs, et d'un média :
-> 
+> <br />
 >
 * Gilles Babinet, « Digital champion » de la France auprès de la Commission européenne
 * Clémence Bodoc, rédactrice en chef de [madmoizelle.com](http://www.madmoizelle.com/){:target="-blank"}
