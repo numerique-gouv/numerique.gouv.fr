@@ -1,6 +1,7 @@
 ---
 title: La loi pour une République numérique se construit avec les Français
 date: 2015-09-28 16:48:00 +02:00
+published: false
 chapeau-text: Manuel Valls et Axelle Lemaire ont lancé, samedi 26 septembre, la consultation
   publique, ouverte et interactive, autour du projet de loi pour une République numérique.
   Une première en France.
