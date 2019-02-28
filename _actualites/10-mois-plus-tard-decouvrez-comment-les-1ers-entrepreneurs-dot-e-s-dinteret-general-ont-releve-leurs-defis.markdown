@@ -2,6 +2,7 @@
 title: 10 mois plus tard, découvrez comment les 1ers entrepreneurs.e.s d'intérêt général
   ont relevé leurs défis!
 date: 2017-10-18 10:19:00 +02:00
+published: false
 tags:
 - Entrepreneur d'Intérêt Général
 - intelligence artificielle
