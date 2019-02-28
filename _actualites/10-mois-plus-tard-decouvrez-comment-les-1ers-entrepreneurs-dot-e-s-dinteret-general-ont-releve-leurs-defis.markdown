@@ -38,9 +38,8 @@ Repérer les populations en situation de vulnérabilité grâce aux images satel
 
 Nettoyer et optimiser les données du ministère de l’Enseignement supérieur, de la Recherche et de l'Innovation, défis relevés pour Laurent Dupont et Léo Bouloc, entrepreneurs d’intérêt général, et leurs mentors Emmanuel Weisenburger et Yann Caradec.
 
-[![Accéder au témoignage de Laurent Dupont, Léo Bouloc, Emmanuel Weisenburger et Yann Caradec](/uploads/5.png)](https://www.dailymotion.com/video/x64z39w "Accéder au témoignage de Laurent Dupont, Léo Bouloc, Emmanuel Weisenburger et Yann Caradec"){:target="_blank"}
-<br>
-<br>
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z39w" allowfullscreen allow="autoplay"></iframe>
+
 Construire un site participatif pour valoriser le patrimoine des orgues, défi relevé pour Bastien Guerry, entrepreneur d’intérêt général, et sa mentor Judith Kagan, ministère de la Culture
 
 [![Accéder au témoignage de Bastien Guerry et Judith Kagan](/uploads/6.png)](https://www.dailymotion.com/video/x64z39q "Accéder au témoignage de Bastien Guerry et Judith Kagan"){:target="_blank"}
