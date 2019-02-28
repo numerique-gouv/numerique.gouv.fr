@@ -63,6 +63,13 @@ Stéphanie Seydoux, cheffe du service des droits des femmes et de l’égalité,
 
 Vendredi 3 mars, près de 100 personnes ont répondu à ce rendez-vous, au Tank. Lancée par Laure de la Bretèche, Jean-Philippe Vinquant et Laurence Rossignol, cette 2e étape a réuni les équipes présentes à la journée de créativité, et qui ont pu s’élargir à de nouveaux participants, et de nouvelles équipes. Tous ont pu bénéficier des conseils de « mentors » venus enrichir les projets, experts de l’égalité hommes/femmes, des données, des sciences comportementales. Des ateliers étaient également organisés pour aider les équipes à pitcher, à construire un business plan et à concevoir l’ergonomie d’un service numérique à partir de l’expérience de ses futurs utilisateurs.
 
+> **Des données ouvertes sur l’égalité professionnelle femmes-hommes**
+> 
+> De nombreux jeux de données ont été mis à disposition des équipes sur le [forum Etalab](https://forum.etalab.gouv.fr/t/cartographie-des-donnees-disponibles-le-hackathon-hackegalitefh/3436){:target="_blank"} pour ce hackathon. Outre d’importantes bases de données issues d’institutions publiques comme l’INSEE, des opérateurs de protection sociale, ou du ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche, d’autres institutions se sont mobilisées pour cet événement. Infogreffe a notamment ouvert des données genrées en matière de création et reprise d’entreprises, et le groupe Casino a mis à disposition des données de gestion RH de ses collaborateurs.
+{: .encadre}
+
+S’inscrivant dans la dynamique initiée par le lancement du [plan « mixité numérique »](https://www.egalite-femmes-hommes.gouv.fr/wp-content/uploads/2017/01/DP-Plan-sectoriel-mixite-numerique.pdf){:target="_blank"} le 31 janvier dernier, ce hackathon a été l’un des premiers à rassembler autant de femmes. Autre innovation, l’accueil des enfants des participants était assuré sur place, par les associations AMEPE et Crescendo pour les plus petits, tandis que les plus grands ont pu participer à des ateliers de programmation robot organisés par l’association E-MMA et le collectif What.
+
 
 
 
