@@ -45,7 +45,7 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 
 **Frédéric Bardolle** a passé les six dernières années à résoudre des problèmes grâce aux données. CTO (Chief Technology Officer) de Data for Good, il accompagne les projets data science réalisés par la communauté de 300 volontaires pour des associations et des institutions publiques. L’été dernier, il a participé en tant que mentor au Paris Summer Innovation Fellowship, un programme rassemblant 20 jeunes innovateurs travaillant sur des projets à impact social. Il rejoint les entrepreneurs d’intérêt général sur le défi de la Cour des comptes.
 
-[![Accéder au portrait de Frédéric Bardolle]![EIG 4.png](/uploads/EIG%204.png)](https://www.dailymotion.com/video/x5cispt "Accéder au portrait d'Etienne David"){:target="_blank"}
+[![Accéder au portrait de Frédéric Bardolle](/uploads/EIG%205.png)](https://www.dailymotion.com/video/x5cispt "Accéder au portrait de Frédéric Bardolle"){:target="_blank"}
 
 
  
