@@ -53,17 +53,17 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 
 **Bastien Guerry** est développeur et hacktiviste indépendant. Après des études de philosophie et de sciences cognitives, il renoue avec ses premières amours en découvrant le logiciel libre. Il est aujourd’hui mainteneur d’Org-mode, un module pour organiser sa vie à l’aide de fichiers textes. En tant que libriste, il participe au projet One Laptop Per Child en 2008, co-fonde OLPC France, devient premier salarié de Wikimédia France en 2010, fonde Le Musée Libre, puis Move Commons, puis contribue à ShareLex, jecode.org et les Hackadons. Il relève le défi du ministère de la Culture et de la Communication.
  
-[![Accéder au portrait de Bastien Guerry](/uploads/EIG%207.png)](https://www.dailymotion.com/video/x5cisce "Accéder au portrait de Bastien Guerry"){:target="_blank"}
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5cisce" allowfullscreen allow="autoplay"></iframe>
 
 **Léo Bouloc** est ingénieur de l’ENSTA ParisTech et diplômé d’un Master de l’ENS Cachan en mathématiques appliquées et apprentissage automatique. Ses expériences dans le public et en start-up dans différents pays (Palestine, Inde, France, USA) lui font découvrir la variété des champs d’application de la science des données. Il relève le défi du ministère de l’Education nationale, de l’Enseignement supérieur et de la Recherche.
 
 **Sébastien Cossin** passionné par les nouvelles technologies, constate pendant ses études de médecine le retard des systèmes d’information en santé qui impacte la qualité des soins. Pour moderniser les outils informatiques, il réalise un Master 2 en informatique médicale puis rejoint une équipe de recherche de l’Inserm. Il relève le défi du ministère des Affaires sociales et de la Santé.
 
-[![Accéder au portrait de Sébastien Cossin](/uploads/EIG%208.png)](https://www.dailymotion.com/video/x5ew3sx "Accéder au portrait de Sébastien Cossin"){:target="_blank"}
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5ew3sx" allowfullscreen allow="autoplay"></iframe>
 
 **Marion Paclot** est diplômée de l’ENSAE et de Sciences-Po Paris. Elle a d’abord occupé un poste d’économiste-statisticienne à l’ARCEP. Elle a ensuite travaillé comme datascientist chez Bluestone (cabinet de conseil spécialisé en datascience), Webhelp (leader de la gestion de clientèle externalisée), et en tant que datascientist indépendante. Elle relève le défi du ministère de l’Economie et des Finances.
 
-[![Accéder au portrait de Marion Paclot](/uploads/EIG%209.png)](https://www.dailymotion.com/video/x5ew2y8 "Accéder au portrait de Marion Paclot"){:target="_blank"}
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x5ew2y8" allowfullscreen allow="autoplay"></iframe>
 
 #### 9 défis d'intérêt général
 * **Agence Française de Développement** : utiliser des techniques de reconnaissance d’images satellites pour suivre l’avancement de projets financés par l’AFD et assurer la bonne utilisation des fonds.
