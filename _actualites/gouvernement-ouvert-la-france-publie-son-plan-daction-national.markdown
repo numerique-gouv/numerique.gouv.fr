@@ -53,3 +53,4 @@ Un premier bilan sera réalisé dans un an, pour nourrir la deuxième version du
 {: .encadré}
 
 [Consulter le plan d'action national pour la France 2015-2017 pour une action publique transparente et collaborative (version française - pdf, 1,5Mo)](/uploads/pgo_plan_action_france_2015-2017_fr.pdf)
+{: .lien-important}
