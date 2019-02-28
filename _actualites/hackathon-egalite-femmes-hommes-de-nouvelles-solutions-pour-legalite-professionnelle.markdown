@@ -54,6 +54,9 @@ Lors de ce week-end plein d’énergie créative, le #HackEgalitéFH a mobilisé
 #### Un « hackathon augmenté »
 
 Pour répondre à ce défi collectif, le SGMAP a proposé au ministère et à DGCS d’organiser un nouveau type de hackathon. L’idée est d’élargir le format habituel d’un week-end de conception rapide de prototypes de solutions basées sur l’usage de données, en l’augmentant de plusieurs manières :
+<figure class='image-right' style='width: 30%; margin-left: 10px;'>
+  <img src="/uploads/hackegalitefh.jpg"/>
+</figure>
 * en faisant précéder ce week-end d’une journée de créativité, pour faire émerger des pistes de solutions de manière ouverte, les données venant ensuite les enrichir ;
 * en démarrant cette journée de créativité par des interventions d’experts sur le sujet de l’égalité professionnelle femmes-hommes, et de l’administration en charge de ce sujet, pour amener les participants à proposer des solutions aux enjeux identifiés aujourd’hui comme prioritaires ;
 * en diversifiant les profils des participants, pour obtenir des solutions co-construites par des agents publics, des représentants d’associations, d’entreprises, des citoyens et des développeurs ;
