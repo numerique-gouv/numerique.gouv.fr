@@ -65,6 +65,9 @@ Pour répondre à ce défi collectif, le SGMAP a proposé au ministère et à DG
 Cette transversalité s’est traduite au SGMAP par l’organisation d’une équipe mixte, réunissant des compétences en matière de recueil et d’analyse des données, de méthodes de créativité, et de sciences comportementales.
 
 #### Une journée de créativité pour faire émerger des idées
+<figure class='image-right' style='width: 30%; margin-left: 10px;'>
+  <img src="/uploads/hackegalitefh-24fevrier_0.jpg"/>
+</figure>
 Vendredi 24 février 2017, 70 personnes avaient rendez-vous à la DGCS pour une journée de créativité inédite dans ces murs. Accueillis par Jean-Philippe Vinquant, directeur général de la cohésion sociale, et délégué interministériel aux droits des femmes et à l’égalité entre les femmes et les hommes, ils ont ensuite été « briefés » par 4 spécialistes du sujet :
 * Anne-Cécile Mailfert, présidente de la fondation des femmes ;
 * Marine Darnault, cheffe du bureau de l’égalité entre les femmes et les * hommes dans la vie professionnelle à la DGCS ;
