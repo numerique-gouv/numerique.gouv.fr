@@ -3,11 +3,11 @@ title: Découvrez la 1re promotion des Entrepreneurs d’intérêt général !
 date: 2017-02-20 15:13:00 +01:00
 categories:
 - Article
-chapeau-text: Suite à [l’appel à candidatures « Entrepreneur d’intérêt général » lancé
-  par le Gouvernement](https://www.modernisation.gouv.fr/home/entrepreneur-interet-general),
-  11 lauréats ont été sélectionnés pour répondre à neuf défis publics. Ces talents
-  du numérique vont pendant dix mois mobiliser leurs compétences d’exception pour
-  résoudre des défis d’intérêt général, au sein d’administrations pionnières
+chapeau-text: 'Suite à [l’appel à candidatures « Entrepreneur d’intérêt général »
+  lancé par le Gouvernement](https://www.modernisation.gouv.fr/home/entrepreneur-interet-general){:
+  target="_blank"}, 11 lauréats ont été sélectionnés pour répondre à neuf défis publics.
+  Ces talents du numérique vont pendant dix mois mobiliser leurs compétences d’exception
+  pour résoudre des défis d’intérêt général, au sein d’administrations pionnières'
 une-ou-diaporama:
 - image: "/uploads/une-eig_v2.jpg"
 ---
