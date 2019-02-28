@@ -24,4 +24,6 @@ Il se traduit par :
 
 Pour concrétiser cet engagement gouvernemental, les services du Premier ministre se porteront candidats au double label « Égalité professionnelle entre les femmes et les hommes » et « Diversité » courant 2019. Ces labels reconnaissent et font connaître les bonnes pratiques de recrutement et d’évolution professionnelle valorisant l’égalité professionnelle entre les femmes et les hommes,  la prévention des discriminations et la diversité dans la sphère du travail.
 
-Pour toute question sur la démarche, Rachel Wadoux, référente égalité diversité de la DINSIC : rachel.wadoux@modernisation.gouv.fr
+### Une question sur la démarche égalité et diversité au sein de la DINSIC ?
+
+Contactez Rachel Wadoux, référente égalité diversité : [rachel.wadoux@modernisation.gouv.fr](rachel.wadoux@modernisation.gouv.fr)
