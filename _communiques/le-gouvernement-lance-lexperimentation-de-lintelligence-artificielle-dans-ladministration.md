@@ -6,15 +6,15 @@ categories:
 - Communiqué de presse
 tags:
 - Intelligence artificielle
-files:
-- lien: "/uploads/CP_AMI_IA_DITP_DINSIC.docx"
-  nom: Télécharger le communiqué de presse
 chapeau-text: L’intelligence artificielle (IA) est un enjeu d’avenir. Avec **AI for
-  humanity**, lancé en mars 2017, le gouvernement souhaite que l’État se saisisse
+  humanity**, lancé en mars 2018, le gouvernement souhaite que l’État se saisisse
   pleinement du potentiel de l’IA et l’intègre dans la conduite de ses missions, pour
   un meilleur service rendu aux usagers.
 une-ou-diaporama:
 - image: "/uploads/IMG_1136-590.jpg"
+files:
+- lien: "/uploads/CP_AMI_IA_DITP_DINSIC_ok.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Pour initier ce mouvement, **la direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC)** et la **direction interministérielle de la transformation publique (DITP)** lancent, dans le cadre du **programme d’investissements d’avenir (PIA)**, un appel à manifestation d'intérêt (AMI) pour expérimenter **l’intelligence artificielle** dans les services publics. **La Caisse des dépôts** et consignations (CDC) en est l’opérateur administratif et financier. Le **Secrétariat général pour l'investissement (SGPI)** coordonne l’ensemble du PIA. 
