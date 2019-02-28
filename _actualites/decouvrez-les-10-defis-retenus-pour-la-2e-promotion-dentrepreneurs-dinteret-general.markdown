@@ -24,7 +24,7 @@ Suite à l’appel à projets [« Défis de transition numérique des administra
 
 > J’ai beaucoup apprécié l’esprit de ce programme qui se veut à la fois innovant, pragmatique et réaliste. Le jury comprenait d’ailleurs des personnalités aux profils diversifiés mais qui ont en commun l’expertise et l’engagement, qui sont des composantes essentielles de l’intérêt général. Les défis qui ont été sélectionnés sont d’une grande richesse. Surtout, nous sommes convaincus qu’ils sont impactants pour transformer et faire progresser les services publics.
 {: .citation}
-> ***Nathalie Martin, membre du jury et directrice exécutive de Wikimédia France**
+> **Nathalie Martin, membre du jury et directrice exécutive de Wikimédia France**
 {: .auteur-citation}
 
 #### Sélection finale : 10 défis d’intérêt général pour une promotion « tout terrain »
