@@ -14,5 +14,5 @@ Une feuille de route sur deux ans, des axes stratégiques prioritaires, des reco
 
 > Le programme repose sur le besoin d’une gouvernance partagée entre l’État et les collectivités autour des grands projets qui impactent l’administration numérique territoriale.
 {: .citation}
-> - Laure de la Bretèche, secrétaire générale pour la modernisation de l’action publique
+> Laure de la Bretèche, secrétaire générale pour la modernisation de l’action publique
 {: .auteur-citation}
