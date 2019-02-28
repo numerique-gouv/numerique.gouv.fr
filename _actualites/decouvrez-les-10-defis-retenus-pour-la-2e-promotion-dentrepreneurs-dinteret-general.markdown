@@ -10,10 +10,16 @@ chapeau-text: Les 4 et 5 juillet 2017, un jury s’est réuni au Secrétariat d�
   champs variés de l’action publique, qui préfigurent une 2e promotion « tout terrain
   ».){:target="_blank"} à partir de janvier 2018. Dix défis couvrant des champs variés
   de l’action publique, qui préfigurent une 2e promotion « tout terrain ».
+une-ou-diaporama:
+- image: "/uploads/aac-eig_une.png"
+auteur: Archives
 ---
 
 #### Un jury d’exception pour sélectionner les meilleurs défis de transition numérique et d’innovation ouverte
 
+<figure class='image-left' style='width: 30%; margin-right: 10px;'>
+  <img src="/uploads/jury-blog-bis.jpg"/>
+</figure>
 Suite à l’appel à projets [« Défis de transition numérique des administrations pour la deuxième promotion des entrepreneurs d’intérêt général »](https://www.modernisation.gouv.fr/home/administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general){:target="_blank"} lancé le 5 mai dernier, les administrations candidates au programme Entrepreneurs d’intérêt général (EIG) sont venues pitcher leurs défis devant [le jury](https://www.etalab.gouv.fr/decouvrez-les-membres-du-jury-du-programme-entrepreneurs-dinteret-general){:target="_blank"} de sélection composé d’agents publics et de personnalités du monde associatif et entrepreneurial. Leurs présentations ont permis aux candidats et aux membres du jury d’interagir sur les enjeux du défi, les ressources mobilisées et l’environnement de travail proposé aux futurs entrepreneurs.
 
 > J’ai beaucoup apprécié l’esprit de ce programme qui se veut à la fois innovant, pragmatique et réaliste. Le jury comprenait d’ailleurs des personnalités aux profils diversifiés mais qui ont en commun l’expertise et l’engagement, qui sont des composantes essentielles de l’intérêt général. Les défis qui ont été sélectionnés sont d’une grande richesse. Surtout, nous sommes convaincus qu’ils sont impactants pour transformer et faire progresser les services publics.
