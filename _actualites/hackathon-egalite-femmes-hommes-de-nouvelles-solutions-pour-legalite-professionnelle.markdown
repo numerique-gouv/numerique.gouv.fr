@@ -1,6 +1,8 @@
 ---
 title: 'Hackathon Egalité femmes-hommes : de nouvelles solutions pour l’égalité professionnelle'
 date: 2019-02-28 15:33:00 +01:00
+categories:
+- Article
 tags:
 - données publiques
 - hackathon
@@ -76,6 +78,7 @@ Vendredi 3 mars, près de 100 personnes ont répondu à ce rendez-vous, au Tank.
 
 > **Des données ouvertes sur l’égalité professionnelle femmes-hommes**
 > 
+>
 > De nombreux jeux de données ont été mis à disposition des équipes sur le [forum Etalab](https://forum.etalab.gouv.fr/t/cartographie-des-donnees-disponibles-le-hackathon-hackegalitefh/3436){:target="_blank"} pour ce hackathon. Outre d’importantes bases de données issues d’institutions publiques comme l’INSEE, des opérateurs de protection sociale, ou du ministère de l'Education nationale, de l'Enseignement supérieur et de la Recherche, d’autres institutions se sont mobilisées pour cet événement. Infogreffe a notamment ouvert des données genrées en matière de création et reprise d’entreprises, et le groupe Casino a mis à disposition des données de gestion RH de ses collaborateurs.
 {: .encadre}
 
