@@ -50,6 +50,9 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 **Laurent Dupont** est diplômé de l’École Polytechnique et du KTH (École Polytechnique Royale de Suède). Il a contribué en France, en Suède et aux États-Unis à plusieurs startups en tant que responsable de projets et d’équipes, co-fondateur et directeur technique. Ces entreprises sont marquées par une forte composante de recherche et d’innovation souvent brevetée, centrée sur l’analyse et l’interprétation de données complexes et hétérogènes. Il relève le défi du ministère de l’Education nationale, de l’Enseignement supérieur et de la Recherche.
 
 [![Accéder au portrait de Laurent Dupont](/uploads/EIG%206.png)](https://www.dailymotion.com/video/x5cirr2 "Accéder au portrait de Laurent Dupont"){:target="_blank"}
+
+**Bastien Guerry** est développeur et hacktiviste indépendant. Après des études de philosophie et de sciences cognitives, il renoue avec ses premières amours en découvrant le logiciel libre. Il est aujourd’hui mainteneur d’Org-mode, un module pour organiser sa vie à l’aide de fichiers textes. En tant que libriste, il participe au projet One Laptop Per Child en 2008, co-fonde OLPC France, devient premier salarié de Wikimédia France en 2010, fonde Le Musée Libre, puis Move Commons, puis contribue à ShareLex, jecode.org et les Hackadons. Il relève le défi du ministère de la Culture et de la Communication.
  
+[![Accéder au portrait de Bastien Guerry](/uploads/EIG%206.png)](https://www.dailymotion.com/video/x5cirr2 "Accéder au portrait de Bastien Guerry"){:target="_blank"}
 
 
