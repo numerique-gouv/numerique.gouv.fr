@@ -36,6 +36,12 @@ Cette première vague de recommandations (dont la mise en œuvre s’étend jusq
 
 « Ces deux enjeux sont au cœur de l’État plateforme », explique Henri Verdier (photo), directeur interministériel du numérique et des systèmes d’information et de communication. « Cette stratégie repose sur le principe que les ressources détenues par les administrations doivent être plus ouvertes et plus interopérables, de manière à libérer la puissance de création des acteurs publics et privés. L’État plateforme sera de fait le lieu de convergence de l’État et des collectivités autour du numérique. »
 
+> #### Un cercle de confiance bâti entre l’État et les collectivités
+> La gouvernance du programme DcANT s’appuie sur une concertation au sein de l'Instance Nationale Partenariale (INP) et de l’instance du Dialogue national des territoires (DNT). Les décisions sont prises à l'issue d'un processus législatif et réglementaire validé conjointement par l'Etat et les collectivités.
+
+> Les acteurs publics locaux seront soutenus et accompagnés par un réseau d’ambassadeurs territoriaux du programme DcANT. Réseau chargé de mobiliser les partenaires clefs (institut national des études territoriales, centre national de la fonction publique territoriale, syndicat national des directeurs généraux des collectivités territoriales, syndicat national des secrétaires de mairies, association des directeurs généraux de France et association de promotion du cadre d'emplois des administrateurs territoriaux), de décliner les partenariats nationaux à l’échelle locale ou d’identifier les groupes d’experts territoriaux.
+{: .encadre}
+
 
 
 
