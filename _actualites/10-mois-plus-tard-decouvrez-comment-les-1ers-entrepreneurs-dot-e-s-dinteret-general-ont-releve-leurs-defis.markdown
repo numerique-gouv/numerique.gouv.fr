@@ -42,9 +42,8 @@ Nettoyer et optimiser les données du ministère de l’Enseignement supérieur,
 
 Construire un site participatif pour valoriser le patrimoine des orgues, défi relevé pour Bastien Guerry, entrepreneur d’intérêt général, et sa mentor Judith Kagan, ministère de la Culture
 
-[![Accéder au témoignage de Bastien Guerry et Judith Kagan](/uploads/6.png)](https://www.dailymotion.com/video/x64z39q "Accéder au témoignage de Bastien Guerry et Judith Kagan"){:target="_blank"}
-<br>
-<br>
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z39q" allowfullscreen allow="autoplay"></iframe>
+
 Analyser les parcours de soin grâce à une application informatique, défi relevé pour Sébastien Cossin, entrepreneur d’intérêt général, et son mentor Didier Hève, ministère des Solidarités et de la Santé
 
 [![Accéder au témoignage de Sébastien Cossin et Didier Hève](/uploads/7.png)](https://www.dailymotion.com/video/x64z39z "Accéder au témoignage de Sébastien Cossin et Didier Hève"){:target="_blank"}
