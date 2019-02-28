@@ -59,4 +59,4 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 
 **Sébastien Cossin** passionné par les nouvelles technologies, constate pendant ses études de médecine le retard des systèmes d’information en santé qui impacte la qualité des soins. Pour moderniser les outils informatiques, il réalise un Master 2 en informatique médicale puis rejoint une équipe de recherche de l’Inserm. Il relève le défi du ministère des Affaires sociales et de la Santé.
 
-[![Accéder au portrait de Léo Bouloc]](https://www.dailymotion.com/video/x5cisce "Accéder au portrait de Bastien Guerry"){:target="_blank"}
+[![Accéder au portrait de Sébastien Cossin](/uploads/EIG%208.png)](https://www.dailymotion.com/video/x5ew3sx "Accéder au portrait de Sébastien Cossin"){:target="_blank"}
