@@ -47,7 +47,9 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 
 [![Accéder au portrait de Frédéric Bardolle](/uploads/EIG%205.png)](https://www.dailymotion.com/video/x5cispt "Accéder au portrait de Frédéric Bardolle"){:target="_blank"}
 
+**Laurent Dupont** est diplômé de l’École Polytechnique et du KTH (École Polytechnique Royale de Suède). Il a contribué en France, en Suède et aux États-Unis à plusieurs startups en tant que responsable de projets et d’équipes, co-fondateur et directeur technique. Ces entreprises sont marquées par une forte composante de recherche et d’innovation souvent brevetée, centrée sur l’analyse et l’interprétation de données complexes et hétérogènes. Il relève le défi du ministère de l’Education nationale, de l’Enseignement supérieur et de la Recherche.
 
+[![Accéder au portrait de Laurent Dupont](/uploads/EIG%206.png)](https://www.dailymotion.com/video/x5cirr2 "Accéder au portrait de Laurent Dupont"){:target="_blank"}
  
 
 
