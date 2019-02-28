@@ -22,24 +22,20 @@ Leurs profils : développeurs, datascientists et chercheurs. Depuis 9 mois, ces 
 <br>
 Réduire la fraude aux permis de conduire grâce à un outil de croisement de données, défi relevé pour Martin Gross, entrepreneur d’intérêt général, et son mentor Daniel Ansellem, ministère de l’Intérieur.
 
-[![Accéder au témoignage de Martin Gross et Daniel Ansellem](/uploads/1.png)](https://www.dailymotion.com/video/x64z3a0 "Accéder au témoignage de Martin Gross et Daniel Ansellem"){:target="_blank"}
-<br>
-<br>
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z3a0" allowfullscreen allow="autoplay"></iframe>
+
 Améliorer la sécurité routière avec un outil cartographique interactif, défi relevé pour Tristram Gräbener et Francis Chabouis, entrepreneurs d’intérêt général, et leur mentor Daniel Ansellem, ministère de l’Intérieur.
 
-[![Accéder au témoignage de Tristram Gräbener, Francis Chabouis et Daniel Ansellem](/uploads/2.png)](https://www.dailymotion.com/video/x64z28u "Accéder au témoignage de Tristram Gräbener, Francis Chabouis et Daniel Ansellem"){:target="_blank"}
-<br>
-<br>
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z28u" allowfullscreen allow="autoplay"></iframe>
+
 Améliorer les contrôles fiscaux pour limiter les risques de fraude, défi relevé pour Marion Paclot, entrepreneure d’intérêt général, et son mentor Philippe Schall, ministère de l’Economie et des Finances.
 
-[![Accéder au témoignage de Marion Paclot et Philippe Schall](/uploads/3.png)](https://www.dailymotion.com/video/x64z39u "Accéder au témoignage de Marion Paclot et Philippe Schall"){:target="_blank"}
-<br>
-<br>
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z39u" allowfullscreen allow="autoplay"></iframe>
+
 Repérer les populations en situation de vulnérabilité grâce aux images satellites, défi relevé pour Etienne David, entrepreneur d’intérêt général, et son mentor Antoine Chèvre, Agence Française de Développement (AFD).
 
-[![Accéder au témoignage de Etienne David et Antoine Chèvre](/uploads/4.png)](https://www.dailymotion.com/video/x64z39y "Accéder au témoignage de Etienne David et Antoine Chèvre"){:target="_blank"}
-<br>
-<br>
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z39y" allowfullscreen allow="autoplay"></iframe>
+
 Nettoyer et optimiser les données du ministère de l’Enseignement supérieur, de la Recherche et de l'Innovation, défis relevés pour Laurent Dupont et Léo Bouloc, entrepreneurs d’intérêt général, et leurs mentors Emmanuel Weisenburger et Yann Caradec.
 
 [![Accéder au témoignage de Laurent Dupont, Léo Bouloc, Emmanuel Weisenburger et Yann Caradec](/uploads/5.png)](https://www.dailymotion.com/video/x64z39w "Accéder au témoignage de Laurent Dupont, Léo Bouloc, Emmanuel Weisenburger et Yann Caradec"){:target="_blank"}
