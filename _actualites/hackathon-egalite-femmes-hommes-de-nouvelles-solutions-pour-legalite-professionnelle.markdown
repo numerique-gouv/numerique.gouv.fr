@@ -54,6 +54,15 @@ Vendredi 24 février 2017, 70 personnes avaient rendez-vous à la DGCS pour une 
 * Mansour Zoberi,  directeur de la promotion de la diversité et de la solidarité, du Groupe Casino ;
 * Mariam Chammat, cheffe de projet nudge et sciences comportementales au SGMAP.
 
+Stéphanie Seydoux, cheffe du service des droits des femmes et de l’égalité, a ensuite présenté les 4 thèmes sur lesquels de nouvelles solutions étaient attendues : la répartition des tâches domestiques et parentales au sein du foyer, l’organisation du temps de travail, la mobilisation de l’environnement extérieur, et les inégalités professionnelles. Après un temps de débat sur ces thèmes, chaque participant a choisi de rejoindre une équipe pour travailler sur un « défi » précis, avec l’aide de méthodes de créativité proposées par l’agence Nod-A. Le soir, les pistes ont été pitchées à la ministre, qui a donné rendez-vous à tous pour la deuxième étape de ce hackathon.
+
+ 
+
+#### Un week-end pour concevoir des solutions concrètes
+
+Vendredi 3 mars, près de 100 personnes ont répondu à ce rendez-vous, au Tank. Lancée par Laure de la Bretèche, Jean-Philippe Vinquant et Laurence Rossignol, cette 2e étape a réuni les équipes présentes à la journée de créativité, et qui ont pu s’élargir à de nouveaux participants, et de nouvelles équipes. Tous ont pu bénéficier des conseils de « mentors » venus enrichir les projets, experts de l’égalité hommes/femmes, des données, des sciences comportementales. Des ateliers étaient également organisés pour aider les équipes à pitcher, à construire un business plan et à concevoir l’ergonomie d’un service numérique à partir de l’expérience de ses futurs utilisateurs.
+
+
 
 
 
