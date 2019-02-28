@@ -8,6 +8,7 @@ chapeau-text: 'Un « serious game » sur le sexisme au travail, une plateforme w
   des Familles, de l’Enfance et des Droits des femmes, à l’issue du #HackEgalitéFH,
   un hackathon consacré à l’égalité professionnelle femmes-hommes. Ces 3 projets novateurs
   vont à présent être accompagnés pour être réalisés dans les prochains mois.'
+auteur: Archives
 ---
 
 #### L’égalité femmes-hommes est un défi collectif
@@ -46,7 +47,12 @@ Pour répondre à ce défi collectif, le SGMAP a proposé au ministère et à DG
 
 Cette transversalité s’est traduite au SGMAP par l’organisation d’une équipe mixte, réunissant des compétences en matière de recueil et d’analyse des données, de méthodes de créativité, et de sciences comportementales.
 
-
+#### Une journée de créativité pour faire émerger des idées
+Vendredi 24 février 2017, 70 personnes avaient rendez-vous à la DGCS pour une journée de créativité inédite dans ces murs. Accueillis par Jean-Philippe Vinquant, directeur général de la cohésion sociale, et délégué interministériel aux droits des femmes et à l’égalité entre les femmes et les hommes, ils ont ensuite été « briefés » par 4 spécialistes du sujet :
+* Anne-Cécile Mailfert, présidente de la fondation des femmes ;
+* Marine Darnault, cheffe du bureau de l’égalité entre les femmes et les * hommes dans la vie professionnelle à la DGCS ;
+* Mansour Zoberi,  directeur de la promotion de la diversité et de la solidarité, du Groupe Casino ;
+* Mariam Chammat, cheffe de projet nudge et sciences comportementales au SGMAP.
 
 
 
