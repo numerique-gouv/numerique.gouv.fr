@@ -38,10 +38,10 @@ Au total, 10 défis sur les 30 auditionnés ont retenu l’attention des membres
 > #### Liste des défis sélectionnés et leurs administrations d’accueil :
 > * **Les sciences de la donnée au service de la prévention des accidents maritimes**<br>
 Ministère de la Transition Écologique et Solidaire, direction des affaires maritimes
- 
+> 
 > * **Préfiguration d’une cellule d’exploitation inter-direction du Système national des données de santé**<br>
 Ministère des Solidarités et de la Santé, ministère du Travail, direction de la recherche, des études, de l’évaluation et des statistiques
- 
+> 
 > * **Développement d’outils d’indexation et de présentation au service du patrimoine matériel et immatériel du Mobilier national**<br>
 Ministère de la Culture, direction générale de la création artistique, service à compétence nationale du mobilier national
 > 
