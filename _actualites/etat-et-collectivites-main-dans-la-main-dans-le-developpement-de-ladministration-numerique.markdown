@@ -15,5 +15,6 @@ Une feuille de route sur deux ans, des axes stratégiques prioritaires, des reco
 > **"Le programme repose sur le besoin d’une gouvernance partagée entre l’État et les collectivités autour des grands projets qui impactent l’administration numérique territoriale."**
 {: .citation .bleu}
 > Laure de la Bretèche, secrétaire générale pour la modernisation de l’action publique
-{: .auteur-citation .bleu} Ce programme entend faire converger la stratégie de transformation numérique des collectivités territoriales avec celle de l’État et de ses différents projets [État plateforme](https://www.modernisation.gouv.fr/home/etat-plateforme-tribune-marzin){:target="_blank"}, gouvernement ouvert, open data, choc de simplification…). 
+{: .auteur-citation .bleu} 
+Ce programme entend faire converger la stratégie de transformation numérique des collectivités territoriales avec celle de l’État et de ses différents projets [État plateforme](https://www.modernisation.gouv.fr/home/etat-plateforme-tribune-marzin){:target="_blank"}, gouvernement ouvert, open data, choc de simplification…). 
 
