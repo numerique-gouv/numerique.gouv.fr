@@ -50,7 +50,7 @@ Un premier bilan sera réalisé dans un an, pour nourrir la deuxième version du
 > #### **Un plan d’action coconstruit avec la société civile et les administrations**
 > Le plan d’action national pour une action publique transparente et collaborative est le fruit d’une longue concertation avec la société civile, au sein du gouvernement et de l’administration, ainsi qu’avec les autorités indépendantes. D’octobre 2014 à juin 2015, les travaux se sont notamment articulés autour d’une consultation en ligne organisée par le Conseil national du numérique ([voir la synthèse des contributions](https://contribuez.cnnumerique.fr/consultation/95/synthese){:target="_blank"}) et de réunions, ateliers et évènements contributifs organisés dans toute la France.
 > Des réunions seront organisées dès le mois de septembre pour prolonger le dialogue et organiser le suivi de la mise en œuvre du plan.
-{: .encadré}
+{: .encadre}
 
 > [Consulter le plan d'action national pour la France 2015-2017 pour une action publique transparente et collaborative (version française - pdf, 1,5Mo)](/uploads/pgo_plan_action_france_2015-2017_fr.pdf)
 {: .lien-important}
