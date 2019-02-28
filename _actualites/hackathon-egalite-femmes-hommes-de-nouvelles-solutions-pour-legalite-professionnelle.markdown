@@ -24,17 +24,31 @@ Comme l’a rappelé Laurence Rossignol, « en organisant ce hackathon, nous sou
 > **10 membres du jury**
 > <br>
 > Le  jury du #HackEgalitéFH était composé d’institutionnels, d’entrepreneurs, et d'un média :
-Gilles Babinet, « Digital champion » de la France auprès de la Commission européenne
-Clémence Bodoc, rédactrice en chef de [madmoizelle.com](http://www.madmoizelle.com/){:target="-blank"}
-Véronique di Benedetto, vice-présidente France d'Econocom, administratice du Syntech numérique et présidente de la commission Femmes du numérique
-Brigitte Grésy, secrétaire générale du Conseil supérieur de l'égalité professionnelle
-Mathieu Maire du Poset, entrepreneur, ex-directeur adjoint d’Ulule
-Guillaume Bernard, directeur associé de Spintank
-Emmanuelle Larroque, CEO de Social Builder
-Stéphanie Seydoux, cheffe du service des droits des femmes et de l’égalité entre les femmes et les hommes
-Henri Verdier, directeur interministériel du numérique et du système d'information de l’Etat, SGMAP
-Françoise Waintrop, cheffe-adjointe du service de stratégies interministérielles de modernisation, SGMAP
+* Gilles Babinet, « Digital champion » de la France auprès de la Commission européenne
+* Clémence Bodoc, rédactrice en chef de [madmoizelle.com](http://www.madmoizelle.com/){:target="-blank"}
+* Véronique di Benedetto, vice-présidente France d'Econocom, administratice du Syntech numérique et présidente de la commission Femmes du numérique
+* Brigitte Grésy, secrétaire générale du Conseil supérieur de l'égalité professionnelle
+* Mathieu Maire du Poset, entrepreneur, ex-directeur adjoint d’Ulule
+* Guillaume Bernard, directeur associé de Spintank
+* Emmanuelle Larroque, CEO de Social Builder
+* Stéphanie Seydoux, cheffe du service des droits des femmes et de l’égalité entre les femmes et les hommes
+* Henri Verdier, directeur interministériel du numérique et du système d'information de l’Etat, SGMAP
+* Françoise Waintrop, cheffe-adjointe du service de stratégies interministérielles de modernisation, SGMAP
 {: .encadre}
+
+#### Un « hackathon augmenté »
+
+Pour répondre à ce défi collectif, le SGMAP a proposé au ministère et à DGCS d’organiser un nouveau type de hackathon. L’idée est d’élargir le format habituel d’un week-end de conception rapide de prototypes de solutions basées sur l’usage de données, en l’augmentant de plusieurs manières :
+* en faisant précéder ce week-end d’une journée de créativité, pour faire émerger des pistes de solutions de manière ouverte, les données venant ensuite les enrichir ;
+* en démarrant cette journée de créativité par des interventions d’experts sur le sujet de l’égalité professionnelle femmes-hommes, et de l’administration en charge de ce sujet, pour amener les participants à proposer des solutions aux enjeux identifiés aujourd’hui comme prioritaires ;
+* en diversifiant les profils des participants, pour obtenir des solutions co-construites par des agents publics, des représentants d’associations, d’entreprises, des citoyens et des développeurs ;
+* en veillant à ce que les solutions proposées, numériques ou non, intègrent une attention particulière à leurs usages réels, aux comportements humains.
+
+Cette transversalité s’est traduite au SGMAP par l’organisation d’une équipe mixte, réunissant des compétences en matière de recueil et d’analyse des données, de méthodes de créativité, et de sciences comportementales.
+
+
+
+
 
 
 
