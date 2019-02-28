@@ -14,6 +14,8 @@ chapeau-text: 'Un « serious game » sur le sexisme au travail, une plateforme w
   des Familles, de l’Enfance et des Droits des femmes, à l’issue du #HackEgalitéFH,
   un hackathon consacré à l’égalité professionnelle femmes-hommes. Ces 3 projets novateurs
   vont à présent être accompagnés pour être réalisés dans les prochains mois.'
+une-ou-diaporama:
+- image: "/uploads/une-hackathon-egalite-femmes-hommes.jpg"
 auteur: Archives
 ---
 
