@@ -1,6 +1,7 @@
 ---
 title: L’État passe un marché cloud pour favoriser les chantiers agiles de l’administration
 date: 2015-04-27 16:03:00 +02:00
+published: false
 tags:
 - SI
 - système d'information
