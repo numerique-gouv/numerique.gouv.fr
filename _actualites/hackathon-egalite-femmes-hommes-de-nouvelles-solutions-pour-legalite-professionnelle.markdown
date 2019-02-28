@@ -34,7 +34,7 @@ Lors de ce week-end plein d’énergie créative, le #HackEgalitéFH a mobilisé
 </figure>Comme l’a rappelé Laurence Rossignol, « en organisant ce hackathon, nous souhaitions offrir un cadre de réflexion pour permettre à l’intelligence collective de s’exprimer et construire ensemble une dynamique d’innovation sociale en faveur de l’égalité entre les femmes et les hommes ». Elle a enfin tenu à saluer la qualité de tous les projets présentés, et la mobilisation de tous les participants, qui contribue à « donner du souffle à notre société et à renouveler les formes de l’engagement citoyen ». Les trois projets lauréats vont à présent bénéficier d’un accompagnement de quatre mois dans le cadre de l’incubateur du Tank, avec l’association Social builder, pour consolider et réaliser ces projets. La DGCS et le SGMAP participeront à ce suivi, afin d’intégrer pleinement ces innovations dans la politique nationale d’égalité professionnelle.
 
 > **10 membres du jury**
-> <br>
+> {: .margin-top-3 .margin-bottom-1}
 > Le  jury du #HackEgalitéFH était composé d’institutionnels, d’entrepreneurs, et d'un média :
 > <br />
 >
