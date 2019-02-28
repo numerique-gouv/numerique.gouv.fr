@@ -2,7 +2,6 @@
 title: 'Accessibilité numérique : la France rajeunit son référentiel et l’enrichit
   d’un label'
 date: 2019-02-27 10:56:00 +01:00
-published: false
 categories:
 - Article
 tags:
@@ -48,10 +47,11 @@ Le nouveau référentiel est donc lancé. Mais seul, il ne suffit pas<figure cla
 <img src="/uploads/logo_e-accessible_500.jpg"/></figure>Il doit être enrichi de **mesures facilitant son application**. Première d’entre elles : **un label récompensant les employeurs publics s’engageant sur la voie de l’accessibilité**. Baptisé **« e-accessible »**, il présente deux avantages notoires. D’une part, il est **un instrument de valorisation mettant en lumière un engagement vertueux**. D’autre part, il a beau être adossé au RGAA, il peut être obtenu sans pour autant respecter le niveau légal (à savoir l’ensemble des critères A et AA). « e-accessible » propose en effet 5 niveaux différents. Si le quatrième correspond à une mise en conformité légale (le cinquième allant au-delà), les trois premiers **attestent d’une démarche en cours et surtout d’une organisation interne tournée vers l’accessibilité**.
 
 > #### Le label exige une organisation spécifique en faveur de l’accessibilité numérique
-Il exige de :
-responsabiliser la direction de l’administration concernée au travers d’une lettre d’engagement ;
-développer un système qualité interne tourné vers l’accessibilité numérique, avec notamment la désignation d’un référent accessibilité ;
-surveiller et améliorer en continu l’accessibilité des services en ligne. Et ce par deux biais. D’une part un audit interne réalisé chaque année, d’autre part la mise en place d’un « canal accessibilité » permettant aux utilisateurs d’un site de signaler la non conformité de certains de ses éléments.{: .encadré}
+> Il exige de :
+> * responsabiliser la direction de l’administration concernée au travers d’une lettre d’engagement ;
+> * développer un système qualité interne tourné vers l’accessibilité numérique, avec notamment la désignation d’un référent accessibilité ;
+> * surveiller et améliorer en continu l’accessibilité des services en ligne. Et ce par deux biais. D’une part un audit interne réalisé chaque année, d’autre part la mise en place d’un « canal accessibilité » permettant aux utilisateurs d’un site de signaler la non conformité de certains de ses éléments.
+{: .encadré}
 
 #### Les conditions du succès
 
