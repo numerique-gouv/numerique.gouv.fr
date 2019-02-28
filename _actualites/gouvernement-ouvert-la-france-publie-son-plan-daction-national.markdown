@@ -1,6 +1,6 @@
 ---
 title: 'Gouvernement ouvert : la France publie son plan d’action national'
-date: 2019-02-27 17:23:00 +01:00
+date: 2015-07-17 17:23:00 +02:00
 categories:
 - Article
 tags:
