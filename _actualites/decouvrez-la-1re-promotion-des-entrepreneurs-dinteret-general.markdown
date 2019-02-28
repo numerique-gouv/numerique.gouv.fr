@@ -27,5 +27,5 @@ Sélectionnés par un jury présidé par Frédéric Mazzella, fondateur de Blabl
 
 **Constance de Quatrebarbes** est ingénieure. Littéraire de formation et programmeuse passionnée, elle s’est spécialisée dans la science de données ainsi que dans le développement de méthodes et outils numériques appliqués aux sciences humaines et sociales. Entrepreneuse depuis 2009, elle conseille et accompagne les entreprises dans la mise en valeur de leurs données. Elle relève le défi de la Bibliothèque nationale de France (BnF).
 
-[![Accéder au portrait de Constance de Quatrebarbes](/uploads/1.png)](https://www.dailymotion.com/video/x5cit86 "Accéder au portrait de Constance de Quatrebarbes"){:target="_blank"}
+[![Accéder au portrait de Constance de Quatrebarbes](uploads/EIG%201.png)](https://www.dailymotion.com/video/x5cit86 "Accéder au portrait de Constance de Quatrebarbes"){:target="_blank"}
 
