@@ -56,6 +56,36 @@ En charge de l’élaboration du droit de la commande publique, la [direction de
 <figure class='image-centre' style='width: 50%; margin-left: 10px; margin-right: 10px'>
   <img src="/uploads/sgmap-1anmps-4.png"/>
 </figure>
+[Aggrandir l'image](https://www.modernisation.gouv.fr/sites/default/files/sgmap-1anmps-4.png){:target="_blank"}
+[Accéder à la version accessible de l'infographie](https://www.modernisation.gouv.fr/node/107968){:target="_blank"}
+
+#### Les partenaires
+
+L’élaboration du dispositif associe étroitement les administrations de l’Etat, des opérateurs publics, des places de marché publiques et privées, des acheteurs publics et des collectivités locales, qui désirent améliorer l’efficacité de l’écosystème :
+
+*Administrations et organismes fournisseurs de données*
+
+ACOSS : attestation de régularité sociale et attestation de vigilance
+AGEFIPH : attestation travailleurs handicapés
+AUDIENS : attestation de régularité sociale
+CNETP : attestation congés payés dans le domaine des travaux publics
+DGFiP : attestation de régularité fiscale
+FNTP : attestation professionnelle FNTP
+INFOGREFFE : informations juridiques
+INSEE : informations administratives
+Ministère de l'Intérieur : informations relatives aux associations
+Mutualité sociale agricole (MSA) : attestation de régularité sociale
+OPQIBI : attestation de capacité OPQIBI
+Pro-BTP : attestation de retraite Pro BTP
+QUALIBAT : attestation professionnelle QUALIBAT
+
+*Partenaires techniques, principales places de marché et groupements acheteurs*
+
+[Voir les statistiques](https://mps.apientreprise.fr/stats){:target="_blank"}
+
+
+[Pour en savoir plus sur les marchés en cours, les partenaires du dispositif MPS et accéder à de l’information complémentaire : mps.apientreprise.fr](https://mps.apientreprise.fr/){:target="_blank"}
+{: .lien-important]
 
 
 
