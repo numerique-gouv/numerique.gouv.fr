@@ -53,7 +53,7 @@ Les informations transmises par MPS sont issues des sources authentiques et à j
 
 En charge de l’élaboration du droit de la commande publique, la [direction des affaires juridiques conseille vivement le recours à MPS](http://www.economie.gouv.fr/daj/acheteurs-publics-10-conseils-pour-reussir/sites-et-partenaires){:target="_blank"}, du fait de la simplicité qu’il apporte, et encourage les acheteurs à y adhérer
 
-<figure class='image-centre' style='width: 30%; margin-left: 10px; margin-right: 10px'>
+<figure class='image-centre' style='width: 50%; margin-left: 10px; margin-right: 10px'>
   <img src="/uploads/sgmap-1anmps-4.png"/>
 </figure>
 
