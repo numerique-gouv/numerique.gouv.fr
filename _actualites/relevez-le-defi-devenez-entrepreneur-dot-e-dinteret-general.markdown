@@ -94,6 +94,7 @@ Vous souhaitez contribuer à la résolution de l’un de ces défis et rejoindre
 > [Déposez votre candidature en ligne](https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}avant le 27 octobre 2017 !
 {: .lien-important}
 <br>
+<br>
 **Une question ?** 
 Adressez-la à entrepreneur-interet-general@data.gouv.fr
 
@@ -114,8 +115,11 @@ Adressez-la à entrepreneur-interet-general@data.gouv.fr
 > #### Conditions
 > Les lauréats seront recrutés sous CDD à temps plein pour une durée de 10 mois, de début janvier à fin octobre 2018, par les administrations porteuses des défis, sur une base salariale mensuelle de 4000€ net.
 Tous les postes sont basés à Paris, à l’exception des défis baliseNAV et Signaux Faibles, respectivement situés à Brest et à Dijon.
-><br>
+> <br>
+> <br>
 > **Une question ?**
+> <br>
+> <br>
 > * Rendez-vous le 10 octobre de 16h30 à 19h pour échanger avec les administrations d’accueil (à compléter)
 > * Écrivez à : entrepreneur-interet-general@data.gouv.fr
 > 
