@@ -2,10 +2,16 @@
 title: 'Marché Public Simplifié : répondre à un marché public avec son seul numéro
   SIRET'
 date: 2019-03-01 17:24:00 +01:00
+tags:
+- Simplification
+- Entreprises
+- Dites le nous une fois
+- Marché Public Simplifié
 chapeau-text: |
   Dispositif phare du programme [« Dites-le-nous une fois »](https://www.modernisation.gouv.fr/home/dites-le-nous-une-fois-un-programme-pour-simplifier-la-vie-des-entreprises){:target="_blank"} pour les entreprises, le service Marché public simplifié (MPS) permet à une entreprise de répondre à un marché public avec son seul numéro SIRET. Il simplifie ainsi radicalement la réponse aux appels d'offres publics pour les entreprises de toutes tailles. Après une phase d'expérimentation, lancée en avril 2014 pour des appels d’offres inférieurs à certains montants, le dispositif est généralisé à partir du 1er novembre 2014 : il est ouvert à tout appel d’offres public, quel qu’en soit le montant, et propose un dispositif inédit de recueil de consentement dématérialisé des cotraitants dans le cadre de réponses groupées. [Dernière mise à jour le 01/08/2017]
 
   [> Voir aussi le bilan de 1 an de Marché public simplifié](https://www.modernisation.gouv.fr/home/1-an-de-marche-public-simplifie-mps-premier-bilan){:target="_blank"}
+auteur: Archives
 ---
 
 <iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x28xl4z" allowfullscreen allow="autoplay"></iframe>
@@ -57,11 +63,11 @@ Les informations transmises par MPS sont issues des sources authentiques et à j
 En charge de l’élaboration du droit de la commande publique, la [direction des affaires juridiques conseille vivement le recours à MPS](http://www.economie.gouv.fr/daj/acheteurs-publics-10-conseils-pour-reussir/sites-et-partenaires){:target="_blank"}, du fait de la simplicité qu’il apporte, et encourage les acheteurs à y adhérer
 
 <figure class='image-centre' style='width: 100%; margin-left: 10px; margin-right: 10px'>
-  <img src="/uploads/sgmap-1anmps-4.png"/ alt="UN MARCHE PUBLIC SIMPLIFIÉ, ÇA SE PASSE COMMENT ? 1. L’acheteur public publie un appel d’offres sur une place de marché en ligne partenaire. Il choisit l’option « marché public simplifié ». 2. L’entreprise candidate à l’appel d’offres, identifié par le logo MPS. La seule information administrative qui lui est demandée est son numéro SIRET. 3. La place de marché public récupère, de façon sécurisée, les informations de l’entreprise (fiscales, sociales, administratives et juridiques), via une plateforme gérée par le SGMAP. 4. L'acheteur public reçoit la candidature complète de l'entreprise. Elle contient son offre et les informations administratives agrégées, 100% fiables et à jour.">
+  <img src="/uploads/sgmap-1anmps-4.png" alt="UN MARCHE PUBLIC SIMPLIFIÉ, ÇA SE PASSE COMMENT ? 1. L’acheteur public publie un appel d’offres sur une place de marché en ligne partenaire. Il choisit l’option « marché public simplifié ». 2. L’entreprise candidate à l’appel d’offres, identifié par le logo MPS. La seule information administrative qui lui est demandée est son numéro SIRET. 3. La place de marché public récupère, de façon sécurisée, les informations de l’entreprise (fiscales, sociales, administratives et juridiques), via une plateforme gérée par le SGMAP. 4. L'acheteur public reçoit la candidature complète de l'entreprise. Elle contient son offre et les informations administratives agrégées, 100% fiables et à jour.">
 </figure>
 [Agrandir l'image](/uploads/sgmap-1anmps-4.png){:target="_blank"}
-
-
+<br>
+<br>
 #### Les partenaires
 
 L’élaboration du dispositif associe étroitement les administrations de l’Etat, des opérateurs publics, des places de marché publiques et privées, des acheteurs publics et des collectivités locales, qui désirent améliorer l’efficacité de l’écosystème :
@@ -83,7 +89,8 @@ Pro-BTP : attestation de retraite Pro BTP
 QUALIBAT : attestation professionnelle QUALIBAT
 
 *Partenaires techniques, principales places de marché et groupements acheteurs*
-
+<br>
+<br>
 [Voir les statistiques](https://mps.apientreprise.fr/stats){:target="_blank"}
 
 
