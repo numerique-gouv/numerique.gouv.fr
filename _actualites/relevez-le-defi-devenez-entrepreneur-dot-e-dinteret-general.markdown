@@ -76,8 +76,8 @@ Vous vous réunirez toutes les deux semaines pour des sessions collectives de pa
 
 Vous souhaitez contribuer à la résolution de l’un de ces défis et rejoindre la deuxième promotion ?
  
-> [Déposez votre candidature en ligne]!(https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}
-{: .lien-important}avant le 27 octobre 
+> [Déposez votre candidature en ligne]!(https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}avant le 27 octobre 
+{: .lien-important}
 <br>
 **Une question ?** 
 Adressez-la à entrepreneur-interet-general@data.gouv.fr
