@@ -16,7 +16,8 @@ auteur: Archives
 
 <iframe frameborder="0" width="550" height="310" src="https://www.dailymotion.com/embed/video/x28xl4z" allowfullscreen allow="autoplay"></iframe>
 
-
+<br>
+<br>
 #### MPS pour les entreprises
 
 Une candidature simplifiée accessible sur les places de marchés partenaires du dispositif.
@@ -69,6 +70,7 @@ En charge de l’élaboration du droit de la commande publique, la [direction de
 [Agrandir l'image](/uploads/sgmap-1anmps-4.png){:target="_blank"}
 <br>
 <br>
+
 #### Les partenaires
 
 L’élaboration du dispositif associe étroitement les administrations de l’Etat, des opérateurs publics, des places de marché publiques et privées, des acheteurs publics et des collectivités locales, qui désirent améliorer l’efficacité de l’écosystème :
