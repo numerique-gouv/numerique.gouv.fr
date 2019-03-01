@@ -23,6 +23,7 @@ Le dispositif MPS est ouvert aux candidatures avec co-traitants. MPS gère les m
 * **La confiance a priori**
 En déposant une offre sur une place partenaire MPS, les entreprises fournissent une attestation sur l’honneur qui se substitue à la production de pièces justificatives.
 
+> 
 > **Enjeu**
 > * simplifier les candidatures aux 300 000 marchés publics publiés chaque année
 > 
@@ -87,6 +88,8 @@ QUALIBAT : attestation professionnelle QUALIBAT
 [Pour en savoir plus sur les marchés en cours, les partenaires du dispositif MPS et accéder à de l’information complémentaire : mps.apientreprise.fr](https://mps.apientreprise.fr/){:target="_blank"}
 {: .lien-important]
 
+[Plaquette de présentation Marché public simplifié (pdf 373.23Ko)](/uploads/plaquette_mps.pdf)
+{: .lien-important}
 
 
 
