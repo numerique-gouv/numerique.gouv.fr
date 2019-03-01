@@ -10,7 +10,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINSIC) participe
   à la politique des services du Premier ministre en faveur de la diversité, de l''égalité
   professionnelle entre les femmes et les hommes et du handicap. '
 une-ou-diaporama:
-- image: "/uploads/Article-Egalit%C3%A9-diversit%C3%A9.jpg"
+- image: "/uploads/Article-Egalit%C3%A9-diversit%C3%A9-d90688.jpg"
 ---
 
 Déclarée [grande cause du quinquennat par le président de la République,](https://grande-cause-quinquennat.gouv.fr/) l’égalité entre les femmes et les hommes s’inscrit dans une stratégie forte et ambitieuse du Gouvernement. Afin de garantir l'exemplarité de l'État en matière d'égalité professionnelle, un **plan d'action en faveur de l'égalité professionnelle et de la prévention des risques de discrimination** est actuellement déployé au sein des services du Premier ministre, parmi lesquels la DINSIC. 
