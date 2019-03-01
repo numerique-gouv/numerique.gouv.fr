@@ -1,6 +1,7 @@
 ---
 title: 'Relevez le défi : devenez entrepreneur d’intérêt général !'
 date: 2019-03-01 14:27:00 +01:00
+published: false
 tags:
 - Données publiques
 - Etalab
@@ -12,9 +13,12 @@ chapeau-text: Le programme [« Entrepreneurs d'intérêt général »](http://ww
   ouvert pour recruter les prochains EIG, qui prendront leurs fonctions en janvier
   2018.  Vous êtes datascientist, dévelopeur.euse, designer et souhaitez travailler
   avec des jeux de données publiques inédits ? Candidatez !
-une-ou-diaporama:
-- image: "/uploads/banniereeig2_modernisation.jpg"
 auteur: Archives
+une-ou-diaporama:
+- legende: 
+  alternative-textuelle: 
+- legende: 
+  alternative-textuelle: 
 ---
 
 #### Une immersion de 10 mois au cœur de l’État : embarquez dans l’aventure Entrepreneur.e d’intérêt général
