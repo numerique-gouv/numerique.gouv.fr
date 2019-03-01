@@ -1,7 +1,6 @@
 ---
 title: 'Relevez le défi : devenez entrepreneur d’intérêt général !'
 date: 2019-03-01 14:27:00 +01:00
-published: false
 categories:
 - Article
 tags:
@@ -33,42 +32,55 @@ En janvier dernier, une [1re promotion de 11 entrepreneurs d’intérêt génér
 Découvrez le programme et déposez votre candidature avant le 27 octobre sur le [site web de l’appel à candidature](https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}.
 Nous recherchons 27 personnes aux compétences numériques avérées pour répondre aux défis suivants :
 <br>
+
 * [PrédiSauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/donneesauvetagemaritime.html){:target="_blank"} : **développer des algorithmes prédictifs pour prévenir les accidents maritimes**<br> 
 Ministère de la Transition Écologique et Solidaire, direction des affaires maritimes
 <br>
+
 * [Lab Santé](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/labsante.html){:target="_blank"} : **participer à la création d'une cellule d'exploitation des données de santé pour améliorer la santé des Français** 
 Ministère des Solidarités et de la Santé<br>
 Ministère du Travail, direction de la recherche, des études, de l’évaluation et des statistiques (DREES)
 <br>
+
 * [Gobelins](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/gobelins.html){:target="_blank"} : **concevoir une interface de recherche et de recensement du patrimoine du Mobilier national pour en révéler les richesses**<br>
 Ministère de la Culture, direction générale de la création artistique, service à compétence nationale du Mobilier national
 <br>
+
 * [Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/previsecours.html){:target="_blank"} : **créer des modèles prédictifs pour aider les sapeurs-pompiers à intervenir plus efficacement**<br> 
 Ministère de l’Intérieur, mission de coordination et d’appui à la valorisation des données
 <br>
+
 * [b@liseNAV](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/balisenav.html){:target="_blank"} : **élaborer une carte maritime augmentée qui renforcera la sécurité en mer**<br>
 Ministère des Armées, service hydrographique et océanographique de la Marine (Shom)
 <br>
+
 * [Signaux Faibles](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/signauxfaibles.html){:target="_blank"} : **développer un outil de détection de signaux faibles pour détecter les entreprises en difficulté et faciliter leur accompagnement**<br>
 Ministère de l’Economie, direction générale des entreprises et DIRECCTE Bourgogne-Franche-Comté
 <br>
+
 * [Hopkins](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/hopkins.html){:target="_blank"} : **mettre la datascience au service de la lutte contre la fraude financière et l'économie souterraine**<br>
 Ministère de l’Action et des Comptes publics
 <br>
+
 * [SocialConnect](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/socialconnect.html){:target="_blank"} : **créer une plateforme collaborative pour valoriser l’innovation sociale dans les territoires**<br>
 Commissariat Général à l’Egalité des Territoires
+<br>
 <br>
 * [ArchiFiltre](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/archemse.html){:target="_blank"} : **orchestrer la  transformation numérique des archives grâce aux données pour assurer la mémoire des politiques sociales**<br>
 Secrétariat général des ministères sociaux
 <br>
+<br>
 * [Brigade Numérique](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/brigadenumerique.html){:target="_blank"} :**mettre en place un accueil numérique de la gendarmerie au service des citoyens**<br>
 Ministère de l’Intérieur, direction générale de la gendarmerie nationale
+<br>
 <br>
 * [EIG Link](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/eiglink.html){:target="_blank"} : **accompagner la 2e promotion d'entrepreneur.e.s d’intérêt général dans la réalisation de leurs défis**<br>
 Secrétariat général pour la modernisation de l’action publique, mission Etalab
 <br>
+<br>
 * [CoachÉlèves – AssistProf*](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/coacheleves.html){:target="_blank"} : **utiliser l’intelligence artificielle pour améliorer la réussite scolaire et l'orientation des élèves**<br>
 Ministère de l’Éducation nationale, direction du numérique pour l’éducation
+<br>
 <br>
 * [dataESR*](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/dataesr.html){:target="_blank"} : **développer une plateforme d’aide à l’analyse des données pour éclairer les décisions publiques**<br>
 Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation
@@ -79,7 +91,7 @@ Vous vous réunirez toutes les deux semaines pour des sessions collectives de pa
 
 Vous souhaitez contribuer à la résolution de l’un de ces défis et rejoindre la deuxième promotion ?
  
-> [Déposez votre candidature en ligne!](https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}avant le 27 octobre 
+> [Déposez votre candidature en ligne](https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}avant le 27 octobre 2017 !
 {: .lien-important}
 <br>
 **Une question ?** 
@@ -108,11 +120,11 @@ Tous les postes sont basés à Paris, à l’exception des défis baliseNAV et S
 > * Écrivez à : entrepreneur-interet-general@data.gouv.fr
 > 
 > #### Calendrier
-> * **Du 27 Septembre au 27 Octobre 2017** : Appel à candidatures
-> * **Début Décembre 2017**: Annonce des 27 lauréats
+> * **Du 27 septembre au 27 octobre 2017** : Appel à candidatures
+> * **Début décembre 2017** : Annonce des 27 lauréats
 > 
-> * **14 et 15 Novembre 2017**: Entretien avec le jury pour les finalistes
-> * **2 Janvier au 31 Octobre 2018**: Contrats des lauréats au sein des administration d'accueil
+> * **14 et 15 novembre 2017** : Entretien avec le jury pour les finalistes
+> * **2 janvier au 31 octobre 2018** : Contrats des lauréats au sein des administration d'accueil
 {: .encadre}
 
 *Défi financé par le ministère d'accueil.
