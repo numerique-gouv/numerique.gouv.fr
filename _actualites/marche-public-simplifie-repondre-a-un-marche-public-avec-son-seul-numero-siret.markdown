@@ -14,7 +14,7 @@ chapeau-text: |
 auteur: Archives
 ---
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x28xl4z" allowfullscreen allow="autoplay"></iframe>
+<iframe frameborder="0" width="550" height="310" src="https://www.dailymotion.com/embed/video/x28xl4z" allowfullscreen allow="autoplay"></iframe>
 
 
 #### MPS pour les entreprises
