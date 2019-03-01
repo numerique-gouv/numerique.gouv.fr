@@ -104,6 +104,7 @@ Adressez-la à entrepreneur-interet-general@data.gouv.fr
 > <br>
 > Les candidats seront évalués sur les critères suivants :
 > <br>
+> <br>
 > * Motivation, esprit d’initiative
 * Compétences techniques : langage de programmation, design, expérience utilisateur ou datascience
 * Sens de l’intérêt général
