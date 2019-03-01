@@ -1,6 +1,11 @@
 ---
 title: 'Relevez le défi : devenez entrepreneur d’intérêt général !'
 date: 2019-03-01 14:27:00 +01:00
+tags:
+- Données publiques
+- Etalab
+- Investissements d'avenir
+- Numérique
 chapeau-text: Le programme [« Entrepreneurs d'intérêt général »](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/entrepreneur-interet-general){:target="_blank"}
   (EIG) fait entrer dans l’administration des talents du numérique qui ont 10 mois
   pour relever un défi d’utilité publique. Un appel à candidature est aujourd’hui
@@ -52,10 +57,10 @@ Ministère de l’Intérieur, direction générale de la gendarmerie nationale
 * [EIG Link](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/eiglink.html){:target="_blank"} : **accompagner la 2e promotion d'entrepreneur.e.s d’intérêt général dans la réalisation de leurs défis**<br>
 Secrétariat général pour la modernisation de l’action publique, mission Etalab
 <br>
-* [CoachÉlèves – AssistProf](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/coacheleves.html){:target="_blank"} : **utiliser l’intelligence artificielle pour améliorer la réussite scolaire et l'orientation des élèves**<br>
+* [CoachÉlèves – AssistProf*](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/coacheleves.html){:target="_blank"} : **utiliser l’intelligence artificielle pour améliorer la réussite scolaire et l'orientation des élèves**<br>
 Ministère de l’Éducation nationale, direction du numérique pour l’éducation
 <br>
-* [dataESR](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/dataesr.html){:target="_blank"} : **développer une plateforme d’aide à l’analyse des données pour éclairer les décisions publiques**<br>
+* [dataESR*](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/dataesr.html){:target="_blank"} : **développer une plateforme d’aide à l’analyse des données pour éclairer les décisions publiques**<br>
 Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation
  
 Pour assurer la bonne réussite de votre mission, vous serez accompagné par un mentor opérationnel (impliqué dans votre travail quotidien) et suivi par un mentor stratégique (positionné à un haut niveau dans l’administration).
@@ -86,11 +91,11 @@ Vous souhaitez contribuer à la résolution de l’un de ces défis et rejoindre
 > #### Conditions
 > Les lauréats seront recrutés sous CDD à temps plein pour une durée de 10 mois, de début janvier à fin octobre 2018, par les administrations porteuses des défis, sur une base salariale mensuelle de 4000€ net.
 Tous les postes sont basés à Paris, à l’exception des défis baliseNAV et Signaux Faibles, respectivement situés à Brest et à Dijon.
-
+> 
 > **Une question ?**
 > * Rendez-vous le 10 octobre de 16h30 à 19h pour échanger avec les administrations d’accueil (à compléter)
 > * Écrivez à : entrepreneur-interet-general@data.gouv.fr
-
+> 
 > #### Calendrier
 > **DU 27 SEPTEMBRE 27 OCTOBRE 2017** : Appel à candidatures
 > **DÉBUT DÉCEMBRE 2017**: Annonce des 27 lauréats
@@ -99,7 +104,7 @@ Tous les postes sont basés à Paris, à l’exception des défis baliseNAV et S
 > **2 JANVIER au 31 OCTOBRE 2018**: Contrats des lauréats au sein des administration d'accueil
 {: .encadre}
 
-
+*Défi financé par le ministère d'accueil.
 
 
 
