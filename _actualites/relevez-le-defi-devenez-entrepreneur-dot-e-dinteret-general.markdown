@@ -13,7 +13,7 @@ chapeau-text: Le programme [« Entrepreneurs d'intérêt général »](http://ww
   2018.  Vous êtes datascientist, dévelopeur.euse, designer et souhaitez travailler
   avec des jeux de données publiques inédits ? Candidatez !
 une-ou-diaporama:
-- image: "/uploads/aac-eig_une.png"
+- image: 
   legende: 
   alternative-textuelle: 
 - legende: 
@@ -76,9 +76,9 @@ Vous vous réunirez toutes les deux semaines pour des sessions collectives de pa
 
 Vous souhaitez contribuer à la résolution de l’un de ces défis et rejoindre la deuxième promotion ?
  
-> [Déposez votre candidature en ligne] avant le 27 octobre !(https://entrepreneur-interet-general.etalab.gouv.fr){:target="_blank"}
-{: .lien-important}
-
+> [Déposez votre candidature en ligne]!(https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}
+{: .lien-important}avant le 27 octobre 
+<br>
 **Une question ?** 
 Adressez-la à entrepreneur-interet-general@data.gouv.fr
 
