@@ -23,7 +23,7 @@ A travers cette décision, la France renforce son engagement en faveur de la tra
 
 La France développera, **en concertation avec la société civile et de façon ouverte et transparente, un « plan d’action national »**, comportant des engagements sur l’ensemble de ces sujets. « Cette collaboration avec la société civile, nous l'avons largement engagée avec des débats thématiques sectoriels sur les grands domaines de politique publique, avec également la [feuille de route du Gouvernement français en matière d’ouverture et de partage des données publiques](http://www.etalab.gouv.fr/lafeuillederoutedugouvernementenmatieredouvertureetdepartagedesdonneespubliques){:target="_blank"}, publié en février 2013 », a rappelé Marylise Lebranchu. « Notre adhésion au PGO nous permet de **développer encore davantage ces travaux**. Nous allons ainsi co-produire **une nouvelle feuille de route**, et si les statuts de l'organisation nous accordent jusqu'en mars 2015 pour la publier, je souhaite pour ma part que nous la terminions en novembre 2014. »
 
-> **Qu'est-ce que le Partenariat pour un gouvernement ouvert (PGO) ?**
+> #### Qu'est-ce que le Partenariat pour un gouvernement ouvert (PGO) ?**
 > 
 > Lancé en septembre 2011 par 8 pays fondateurs, le Partenariat pour un Gouvernement ouvert (PGO), en anglais Open Government Partnership (OGP), est une initiative internationale, qui s’attache à **promouvoir la transparence et l’intégrité des gouvernements, et l’utilisation des nouvelles technologies, en particulier d’Internet**, pour faciliter cette ouverture. Le Partenariat regroupe aujourd'hui 63 pays membres. La France en deviendra le **64e pays membre**.
 {: .encadre}
