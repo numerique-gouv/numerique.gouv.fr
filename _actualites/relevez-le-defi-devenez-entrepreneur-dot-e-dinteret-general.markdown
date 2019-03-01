@@ -12,6 +12,9 @@ chapeau-text: Le programme [« Entrepreneurs d'intérêt général »](http://ww
   ouvert pour recruter les prochains EIG, qui prendront leurs fonctions en janvier
   2018.  Vous êtes datascientist, dévelopeur.euse, designer et souhaitez travailler
   avec des jeux de données publiques inédits ? Candidatez !
+une-ou-diaporama:
+- image: "/uploads/banniereeig2_modernisation.jpg"
+auteur: Archives
 ---
 
 #### Une immersion de 10 mois au cœur de l’État : embarquez dans l’aventure Entrepreneur.e d’intérêt général
