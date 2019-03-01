@@ -32,6 +32,7 @@ Le dispositif MPS est ouvert aux candidatures avec co-traitants. MPS gère les m
 En déposant une offre sur une place partenaire MPS, les entreprises fournissent une attestation sur l’honneur qui se substitue à la production de pièces justificatives.
 
 > 
+> 
 > **Enjeu**
 > * simplifier les candidatures aux 300 000 marchés publics publiés chaque année
 > 
