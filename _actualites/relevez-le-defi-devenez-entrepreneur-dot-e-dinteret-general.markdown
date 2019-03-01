@@ -1,7 +1,6 @@
 ---
 title: 'Relevez le défi : devenez entrepreneur d’intérêt général !'
 date: 2019-03-01 14:27:00 +01:00
-published: false
 tags:
 - Données publiques
 - Etalab
@@ -13,17 +12,18 @@ chapeau-text: Le programme [« Entrepreneurs d'intérêt général »](http://ww
   ouvert pour recruter les prochains EIG, qui prendront leurs fonctions en janvier
   2018.  Vous êtes datascientist, dévelopeur.euse, designer et souhaitez travailler
   avec des jeux de données publiques inédits ? Candidatez !
-auteur: Archives
 une-ou-diaporama:
-- legende: 
+- image: "/uploads/aac-eig_une.png"
+  legende: 
   alternative-textuelle: 
 - legende: 
   alternative-textuelle: 
+auteur: Archives
 ---
 
-#### Une immersion de 10 mois au cœur de l’État : embarquez dans l’aventure Entrepreneur.e d’intérêt général
+#### Une immersion de 10 mois au cœur de l’État : embarquez dans l’aventure Entrepreneur d’intérêt général
 
-En janvier dernier, une [1re promotion de 11 entrepreneurs d’intérêt général](https://www.modernisation.gouv.fr/home/decouvrez-la-1re-promotion-des-entrepreneurs-dinteret-general){:target="_blank"} a pris ses fonctions. Depuis 9 mois, ces jeunes talents du numérique aux compétences pointues travaillent à résoudre leurs défis grâce aux données, sous l’œil bienveillant de leurs mentors. Pour cette deuxième promotion, ce ne sont pas moins de 13 défis qui ont sélectionnés par un jury d’experts. Autre nouveauté de cette deuxième saison,  chaque défi a été pensé pour accueillir 2 à 3 entrepreneur.e.s  aux savoir-faire complémentaires. Sur les 27 profils recherchés, on compte ainsi huit développeur.euse.s, cinq designers, un.e expert.e en gestion de projet numérique, deux géomaticien.ne.s et onze data scientists (dont un.e expert.e en datavisualisation).
+En janvier dernier, une [1re promotion de 11 entrepreneurs d’intérêt général](https://www.modernisation.gouv.fr/home/decouvrez-la-1re-promotion-des-entrepreneurs-dinteret-general){:target="_blank"} a pris ses fonctions. Depuis 9 mois, ces jeunes talents du numérique aux compétences pointues travaillent à résoudre leurs défis grâce aux données, sous l’œil bienveillant de leurs mentors. Pour cette deuxième promotion, ce ne sont pas moins de 13 défis qui ont sélectionnés par un jury d’experts. Autre nouveauté de cette deuxième saison,  chaque défi a été pensé pour accueillir 2 à 3 entrepreneurs  aux savoir-faire complémentaires. Sur les 27 profils recherchés, on compte ainsi huit développeurs et développeuses, cinq designers, un(e) expert(e) en gestion de projet numérique, deux géomaticiens et onze data scientists (dont un(e) expert(e) en datavisualisation).
 
 #### Sécurité, santé, économie, éducation, culture : les défis à relever
 
