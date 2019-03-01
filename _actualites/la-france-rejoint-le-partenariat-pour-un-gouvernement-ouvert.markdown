@@ -7,8 +7,13 @@ chapeau-text: A l’occasion de la [Conférence de Paris sur l'open data et le g
   Marylise Lebranchu, a annoncé officiellement ce jeudi 24 avril la décision de la
   France de rejoindre le Partenariat pour un Gouvernement ouvert (« Open Government
   Partnership »).
+une-ou-diaporama:
+- image: "/uploads/bandeau-ogp.jpg"
 ---
 
+<figure class='image-left' style='width: 30%; margin-right: 10px;'>
+  <img src="/uploads/logo_ogp.png"/>
+</figure>
 Le Gouvernement avait indiqué en février 2013, dans sa [feuille de route en matière d’ouverture et de partage des données publiques](http://www.etalab.gouv.fr/lafeuillederoutedugouvernementenmatieredouvertureetdepartagedesdonneespubliques){:target="_blank"}, qu’il étudiait  l’opportunité de rejoindre le Partenariat pour un Gouvernement ouvert (PGO - en anglais : Open Government Partnership ou OGP). Une démarche confirmée par le [Comité interministériel pour la modernisation de l’action publique (CIMAP) du 2 avril 2013](https://www.modernisation.gouv.fr/le-sgmap/le-cimap/le-cimap-du-2-avril-2013){:target="_blank"}. C’est désormais chose faite.
 
 En ouverture de la [Conférence de Paris sur l'open data et le gouvernement ouvert](https://www.modernisation.gouv.fr/home/conference-de-paris-open-data-open-gov){:target="_blank"}, ce jeudi 24 avril 2014, la ministre de la Décentralisation, de la Réforme de l’Etat et de la Fonction publique, Marylise Lebranchu, a annoncé officiellement l’intention de la France d’adhérer au Partenariat pour un Gouvernement ouvert.
