@@ -4,11 +4,14 @@ title: 'Gouvernement ouvert : la France entre au comité directeur du Partenaria
 date: 2019-03-01 13:52:00 +01:00
 published: false
 categories:
+- Article
+tags:
+- Open government partnership
 - Open Data
-- Données publiques
 - Données ouvertes
 - Transparence
 - Etalab
+- Données publiques
 chapeau-text: "La France vient d’être élue au comité directeur de l’[Open Government
   Partnership (OGP)](https://www.modernisation.gouv.fr/home/gouvernement-ouvert-la-france-entre-au-comite-directeur-de-lopen-government-partnership-ogp){:target=\"_blank\"},
   le Partenariat pour le gouvernement ouvert (PGO). Son mandat débutera en octobre
