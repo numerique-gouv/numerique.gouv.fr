@@ -93,7 +93,6 @@ Vous souhaitez contribuer à la résolution de l’un de ces défis et rejoindre
  
 > [Déposez votre candidature en ligne](https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}avant le 27 octobre 2017 !
 {: .lien-important}
-<br>
 **Une question ?** 
 Adressez-la à entrepreneur-interet-general@data.gouv.fr
 
