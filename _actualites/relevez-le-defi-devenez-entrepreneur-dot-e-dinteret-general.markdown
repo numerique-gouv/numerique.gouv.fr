@@ -72,13 +72,13 @@ Vous vous réunirez toutes les deux semaines pour des sessions collectives de pa
 
 Vous souhaitez contribuer à la résolution de l’un de ces défis et rejoindre la deuxième promotion ?
  
-> [Déposez votre candidature en ligne] avant le 27 octobre !(https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}
+> [Déposez votre candidature en ligne] avant le 27 octobre !(https://entrepreneur-interet-general.etalab.gouv.fr){:target="_blank"}
 {: .lien-important}
 
 * **Une question ? Adressez-la à** entrepreneur-interet-general@data.gouv.fr
 
 **Vous débuterez vos missions en janvier 2018, avec un mot d’ordre : améliorer le service public !**
-
+<br>
 > #### Jury et critères de sélection
 > 
 > Dès réception des dossiers de candidatures, la mission Etalab du SGMAP effectuera une pré-sélection. Un jury composé des mentors des administrations d’accueil et d’experts du numérique sélectionnera ensuite les 27 lauréats, à l'issue de deux session d’auditions qui auront lieu les 14 et 15 novembre 2017.
@@ -90,21 +90,21 @@ Vous souhaitez contribuer à la résolution de l’un de ces défis et rejoindre
 * Sens de l’intérêt général
 * Capacité à comprendre le défi, à proposer des orientations stratégiques pour son développement
 * Capacité à s’intégrer dans l’environnement d’une administration publique et interagir avec ses métiers (SI, métier, RH, direction générale, etc.)
-
+>
 > #### Conditions
 > Les lauréats seront recrutés sous CDD à temps plein pour une durée de 10 mois, de début janvier à fin octobre 2018, par les administrations porteuses des défis, sur une base salariale mensuelle de 4000€ net.
 Tous les postes sont basés à Paris, à l’exception des défis baliseNAV et Signaux Faibles, respectivement situés à Brest et à Dijon.
-> 
+><br>
 > **Une question ?**
 > * Rendez-vous le 10 octobre de 16h30 à 19h pour échanger avec les administrations d’accueil (à compléter)
 > * Écrivez à : entrepreneur-interet-general@data.gouv.fr
 > 
 > #### Calendrier
-> **DU 27 SEPTEMBRE 27 OCTOBRE 2017** : Appel à candidatures
-> **DÉBUT DÉCEMBRE 2017**: Annonce des 27 lauréats
+> * **Du 27 Septembre au 27 Octobre 2017** : Appel à candidatures
+> * **Début Décembre 2017**: Annonce des 27 lauréats
 > 
-> **14 ET 15 NOVEMBRE 2017**: Entretien avec le jury pour les finalistes
-> **2 JANVIER au 31 OCTOBRE 2018**: Contrats des lauréats au sein des administration d'accueil
+> * **14 et 15 Novembre 2017**: Entretien avec le jury pour les finalistes
+> * **2 Janvier au 31 Octobre 2018**: Contrats des lauréats au sein des administration d'accueil
 {: .encadre}
 
 *Défi financé par le ministère d'accueil.
