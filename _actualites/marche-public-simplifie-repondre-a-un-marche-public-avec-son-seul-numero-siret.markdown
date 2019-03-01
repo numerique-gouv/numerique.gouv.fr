@@ -5,7 +5,8 @@ date: 2019-03-01 17:24:00 +01:00
 ---
 
 Dispositif phare du programme [« Dites-le-nous une fois »](https://www.modernisation.gouv.fr/home/dites-le-nous-une-fois-un-programme-pour-simplifier-la-vie-des-entreprises){:target="_blank"} pour les entreprises, le service Marché public simplifié (MPS) permet à une entreprise de répondre à un marché public avec son seul numéro SIRET. Il simplifie ainsi radicalement la réponse aux appels d'offres publics pour les entreprises de toutes tailles. Après une phase d'expérimentation, lancée en avril 2014 pour des appels d’offres inférieurs à certains montants, le dispositif est généralisé à partir du 1er novembre 2014 : il est ouvert à tout appel d’offres public, quel qu’en soit le montant, et propose un dispositif inédit de recueil de consentement dématérialisé des cotraitants dans le cadre de réponses groupées. [Dernière mise à jour le 01/08/2017]
-[Voir aussi le bilan de 1 an de Marché public simplifié](https://www.modernisation.gouv.fr/home/1-an-de-marche-public-simplifie-mps-premier-bilan){:target="_blank"}
+
+> [Voir aussi le bilan de 1 an de Marché public simplifié](https://www.modernisation.gouv.fr/home/1-an-de-marche-public-simplifie-mps-premier-bilan){:target="_blank"}
 {: .lien-important}
 
 #### MPS pour les entreprises
@@ -22,10 +23,10 @@ Le dispositif MPS est ouvert aux candidatures avec co-traitants. MPS gère les m
 * **La confiance a priori**
 En déposant une offre sur une place partenaire MPS, les entreprises fournissent une attestation sur l’honneur qui se substitue à la production de pièces justificatives.
 
-> #### ENJEU
+> **Enjeu**
 > * simplifier les candidatures aux 300 000 marchés publics publiés chaque année
 > 
-#### GAIN DE TEMPS ET ÉCONOMIES A LA CLÉ POUR LES ENTREPRISES
+> **Gain de temps et économies à la clé pour les entreprises**
 > * 2 heures par marché de gain de temps pour l’entreprise
 > * 60 millions d'euros d'économies par an pour les entreprises, sur les 300 000 marchés publics annuels
 {: .encadre}
