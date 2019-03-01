@@ -18,8 +18,8 @@ En janvier dernier, une [1re promotion de 11 entrepreneurs d’intérêt génér
 Découvrez le programme et déposez votre candidature avant le 27 octobre sur le [site web de l’appel à candidature](https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}.
 Nous recherchons 27 personnes aux compétences numériques avérées pour répondre aux défis suivants :
 <br>
-* > PrédiSauvetage :
-{: .bleu}développer des algorithmes prédictifs pour prévenir les accidents maritimes 
+* PrédiSauvetage :
+{: .bleue}développer des algorithmes prédictifs pour prévenir les accidents maritimes 
 Ministère de la Transition Écologique et Solidaire, direction des affaires maritimes
  
 
