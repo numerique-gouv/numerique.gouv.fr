@@ -54,7 +54,7 @@ Commissariat Général à l’Egalité des Territoires
 * [ArchiFiltre](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/archemse.html){:target="_blank"} : **orchestrer la  transformation numérique des archives grâce aux données pour assurer la mémoire des politiques sociales**<br>
 Secrétariat général des ministères sociaux
 <br>
-* [Brigade Numérique](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/brigadenumerique.html){:target="_blank"} :** mettre en place un accueil numérique de la gendarmerie au service des citoyens**<br>
+* [Brigade Numérique](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/brigadenumerique.html){:target="_blank"} :**mettre en place un accueil numérique de la gendarmerie au service des citoyens**<br>
 Ministère de l’Intérieur, direction générale de la gendarmerie nationale
 <br>
 * [EIG Link](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/eiglink.html){:target="_blank"} : **accompagner la 2e promotion d'entrepreneur.e.s d’intérêt général dans la réalisation de leurs défis**<br>
@@ -75,7 +75,8 @@ Vous souhaitez contribuer à la résolution de l’un de ces défis et rejoindre
 > [Déposez votre candidature en ligne] avant le 27 octobre !(https://entrepreneur-interet-general.etalab.gouv.fr){:target="_blank"}
 {: .lien-important}
 
-* **Une question ? Adressez-la à** entrepreneur-interet-general@data.gouv.fr
+**Une question ?** 
+Adressez-la à entrepreneur-interet-general@data.gouv.fr
 
 **Vous débuterez vos missions en janvier 2018, avec un mot d’ordre : améliorer le service public !**
 <br>
