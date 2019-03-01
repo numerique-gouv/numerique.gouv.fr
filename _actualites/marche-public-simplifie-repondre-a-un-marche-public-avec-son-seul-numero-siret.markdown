@@ -59,8 +59,8 @@ En charge de l’élaboration du droit de la commande publique, la [direction de
 <figure class='image-centre' style='width: 100%; margin-left: 10px; margin-right: 10px'>
   <img src="/uploads/sgmap-1anmps-4.png"/ alt="UN MARCHE PUBLIC SIMPLIFIÉ, ÇA SE PASSE COMMENT ? 1. L’acheteur public publie un appel d’offres sur une place de marché en ligne partenaire. Il choisit l’option « marché public simplifié ». 2. L’entreprise candidate à l’appel d’offres, identifié par le logo MPS. La seule information administrative qui lui est demandée est son numéro SIRET. 3. La place de marché public récupère, de façon sécurisée, les informations de l’entreprise (fiscales, sociales, administratives et juridiques), via une plateforme gérée par le SGMAP. 4. L'acheteur public reçoit la candidature complète de l'entreprise. Elle contient son offre et les informations administratives agrégées, 100% fiables et à jour.">
 </figure>
-[Agrandir l'image](https://www.modernisation.gouv.fr/sites/default/files/sgmap-1anmps-4.png){:target="_blank"}
-[Accéder à la version accessible de l'infographie](https://www.modernisation.gouv.fr/node/107968){:target="_blank"}
+[Agrandir l'image](/uploads/sgmap-1anmps-4.png){:target="_blank"}
+
 
 #### Les partenaires
 
