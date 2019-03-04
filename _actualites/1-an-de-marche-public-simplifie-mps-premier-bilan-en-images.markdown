@@ -1,6 +1,7 @@
 ---
 title: '1 an de Marché public simplifié (MPS): premier bilan en images'
 date: 2015-04-16 11:10:00 +02:00
+published: false
 categories:
 - Article
 chapeau-text: 'Lancé en avril 2014, [Marché public simplifié](https://www.modernisation.gouv.fr/home/marche-public-simplifie){:
