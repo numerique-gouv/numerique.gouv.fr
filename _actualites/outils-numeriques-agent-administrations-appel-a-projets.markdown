@@ -11,8 +11,6 @@ chapeau-text: 'Vous êtes une administration et souhaitez améliorer le quotidie
   agents grâce aux outils numériques ? La DINSIC lance l’appel à projets : « Cas d’usages
   de l’environnement de travail numérique de l’agent », consacré à cet objectif, déposez
   vos candidatures jusqu’au 15 avril 2019 ! '
-une-ou-diaporama:
-- image: "/uploads/20190403_Article_DIG-02.jpg"
 ---
 
 ### Partir du besoin de l’agent
