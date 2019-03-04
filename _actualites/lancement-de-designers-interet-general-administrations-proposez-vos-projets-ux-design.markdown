@@ -7,6 +7,7 @@ categories:
 tags:
 - services publics en ligne
 - UX
+- appel à projets
 chapeau-text: Vous êtes une administration et souhaitez améliorer l’expérience utilisateur
   (UX) d’un de vos services publics en ligne ? La DINSIC lance un programme inédit
   qui vous permettra d’accueillir pendant plusieurs mois un ou deux designers UX,
