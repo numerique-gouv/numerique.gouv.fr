@@ -13,7 +13,7 @@ chapeau-text: Vous êtes une administration et souhaitez améliorer l’expérie
   financés dans le cadre du programme d’investissement d’avenir. Proposez vos projets
   avant le 2 avril 2019 !
 une-ou-diaporama:
-- image: "/uploads/20190403_Article_DIG-01.jpg"
+- image: "/uploads/20190403_Article_lancement_DIG.jpg"
 ---
 
 ## Améliorer l’expérience utilisateurs des services publics en ligne
