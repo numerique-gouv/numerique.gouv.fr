@@ -38,3 +38,5 @@ Un jury sélectionnera les projets les plus prometteurs en termes d’impact sur
 >14h-15h : Présentation générale du programme ETNA et de l’appel à projet du PIA ETNA 2019
 >15h-17 h : Coconstruction des dossiers de candidature : venez tester votre idée de projet ! Comment trouver le bon angle ? Quelle équipe constituer ? Quelles sont les attentes du jury ? Quel financement ? 
 {: .encadre}
+
+Inscrivez-vous par courriel en précisant la date souhaitée à **etna.dinsic@modernisation.gouv.fr**.
