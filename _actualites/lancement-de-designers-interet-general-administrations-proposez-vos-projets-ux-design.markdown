@@ -4,7 +4,7 @@ title: 'Lancement de Designers d’Intérêt Général : administrations, propos
 date: 2019-02-11 15:05:00 +01:00
 published: false
 categories:
-- Article
+- Appel à projets
 tags:
 - services publics en ligne
 - UX
