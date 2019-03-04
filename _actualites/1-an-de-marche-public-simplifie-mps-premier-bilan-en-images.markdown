@@ -10,6 +10,8 @@ chapeau-text: 'Lancé en avril 2014, Marché public simplifié (MPS) permet à t
   aux marchés publics. En un an, 1200 consultations ont déjà été publiées avec MPS,
   et 1800 candidatures déposées. La généralisation se poursuit. Objectif : 50 000
   marchés publics simplifiés d’ici à 2016.'
+une-ou-diaporama:
+- image: "/uploads/1an_mps-une.png"
 ---
 
 ## MPS VU PAR SES UTILISATEURS
