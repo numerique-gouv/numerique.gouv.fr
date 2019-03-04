@@ -2,7 +2,6 @@
 title: 'Lancement de Designers d’Intérêt Général : administrations, proposez vos projets
   d’UX design !'
 date: 2019-02-11 15:05:00 +01:00
-published: false
 categories:
 - Appel à projets
 tags:
@@ -13,6 +12,8 @@ chapeau-text: Vous êtes une administration et souhaitez améliorer l’expérie
   qui vous permettra d’accueillir pendant plusieurs mois un ou deux designers UX,
   financés dans le cadre du programme d’investissement d’avenir. Proposez vos projets
   avant le 2 avril 2019 !
+une-ou-diaporama:
+- image: "/uploads/20190403_Article_DIG-01.jpg"
 ---
 
 ## Améliorer l’expérience utilisateurs des services publics en ligne
