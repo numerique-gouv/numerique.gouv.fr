@@ -17,9 +17,9 @@ Trois mois seulement [après avoir rejoint le Partenariat pour un gouvernement o
 
 La nomination de la France est l’aboutissement d’un processus électoral, lancé en juin dernier. Thierry Mandon, secrétaire d’Etat chargé de la Réforme de l’Etat et de la Simplification, avait alors déposé officiellement [la candidature de la France](http://www.opengovpartnership.org/sites/default/files/attachments/Candidature%20France%20Comit%C3%A9%20de%20Pilotage%20OGP.pdf){: target="_blank"}  . 58 des 64 pays membres du PGO ont participé au vote, et choisi les huit nouveaux Etats membres du comité directeur.
 
-Elue en 4e position, la France siègera ainsi aux côtés de l’Indonésie, du Mexique et de l’Afrique du Sud – actuels et futurs co-présidents du PGO, dont les sièges au comité directeur étaient déjà acquis – et des sept autres pays nouvellement élus : Etats-Unis, Royaume-Uni, Brésil, Croatie, Géorgie, Philippines et Tanzanie. Le comité est également composé de représentants de la société civile, qui viennent aussi d’être renouvelés.
+Elue en 4e position, la France siègera ainsi aux côtés de l’Indonésie, du Mexique et de l’Afrique du Sud – actuels et futurs co-présidents du PGO, dont les sièges au comité directeur étaient déjà acquis – et des sept autres pays nouvellement élus : Etats-Unis, Royaume-Uni, Brésil, Croatie, Géorgie, Philippines et Tanzanie. Le comité est également composé de **représentants de la société civile**, qui viennent aussi d’être renouvelés.
 
-Enrichir l'action du PGO et promouvoir une voix française
+#### Enrichir l'action du PGO et promouvoir une voix française
 
 La représentation de la France au sein du comité directeur lui permettra d’enrichir l’action du PGO en faveur de la transparence de l’action publique, de la lutte contre la corruption, et de l’utilisation des nouvelles technologies dans cette optique, et d’y promouvoir une voix française. Elle sera l’occasion de nourrir un dialogue étroit avec ses partenaires, et de contribuer activement au développement du PGO.
 
