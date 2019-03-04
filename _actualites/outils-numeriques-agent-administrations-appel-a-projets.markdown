@@ -32,3 +32,9 @@ Un jury sélectionnera les projets les plus prometteurs en termes d’impact sur
 
 > [Téléchargez le cahier des charges et déposez vos candidatures](https://www.demarches-simplifiees.fr/commencer/pia-etna-2019){:target="_blank"}
 {: .lien-important }
+
+> ### Informations et dépôt des candidatures
+>Pour vous accompagner, la DINSIC organise des sessions d’information et de co-construction de dossiers de candidature, les mercredis 13 mars, 20 mars, 27 mars et 3 avril aux horaires suivants : 
+>14h-15h : Présentation générale du programme ETNA et de l’appel à projet du PIA ETNA 2019
+>15h-17 h : Coconstruction des dossiers de candidature : venez tester votre idée de projet ! Comment trouver le bon angle ? Quelle équipe constituer ? Quelles sont les attentes du jury ? Quel financement ? 
+{: .encadre}
