@@ -19,3 +19,13 @@ C’est pour répondre à cette question que la DINSIC lance l’appel à projet
 >
 >Cet appel à projets s’inscrit plus globalement dans le cadre du programme Environnement de travail numérique de l’agent (ETNA) piloté par la DINSIC qui vise à simplifier la vie des agents et transformer leurs outils de travail avec le numérique. Parmi les réalisations concrètes du programme, la réalisation d’une boîte à outils numériques dédiés à l’agent et qui intègre d’ores et déjà la messagerie instantanée Tchap et l’outil de webconférence Jitsi. 
 {: .encadre}
+
+### Collaboration, télétravail et mobilité 
+
+Tout est parti d’un constat : l’environnement professionnel et les habitudes de travail ont évolué. Aujourd’hui, collaboration, télétravail, et mobilité sont autant d’éléments inhérents au quotidien des agents que leurs outils de travail doivent prendre en compte. Le postulat de base : c’est parce qu’elle part de l’expérience de l’agent, qu’une solution sera naturellement adoptée. 
+
+Les cas d’usages attendus dans le cadre de l’appel à projets relèvent des catégories suivantes : 
+* les outils collaboratifs (les messageries, outils de stockage, traitement de texte…) compatibles avec tous les écosystèmes avec lesquels l’agent est amené à collaborer, à savoir : les prestataires, les collectivités, et l’administration centrale ; 
+* les outils qui permettent de travailler **en mobilité et en télétravail**.
+ 
+Un jury sélectionnera les projets les plus prometteurs en termes d’impact sur la modernisation du cadre de travail de l’agent, avant le 10 mai. A la clé : un financement possible à hauteur de 100% du coût total du développement de la solution et de son expérimentation, ainsi qu’un accompagnement, par la DINSIC, tout au long du projet. Les solutions qui auront fait leurs preuves ont pour vocation à voir leur périmètre d’application étendu à d’autres administrations. 
