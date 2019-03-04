@@ -29,6 +29,6 @@ Les cas d’usages attendus dans le cadre de l’appel à projets relèvent des 
 * les outils qui permettent de travailler **en mobilité et en télétravail**.
  
 Un jury sélectionnera les projets les plus prometteurs en termes d’impact sur la modernisation du cadre de travail de l’agent, avant le 10 mai. A la clé : **un financement** possible à hauteur de 100% du coût total du développement de la solution et de son expérimentation, ainsi qu’un **accompagnement**, par la DINSIC, tout au long du projet. Les solutions qui auront fait leurs preuves ont pour vocation à voir leur périmètre d’application étendu à d’autres administrations. 
-[
-> Téléchargez le cahier des charges et déposez vos candidatures](https://www.demarches-simplifiees.fr/commencer/pia-etna-2019){:target="_blank"}
+
+> [Téléchargez le cahier des charges et déposez vos candidatures](https://www.demarches-simplifiees.fr/commencer/pia-etna-2019){:target="_blank"}
 {: .lien-important }
