@@ -15,9 +15,9 @@ De quels outils numériques les agents ont-ils besoin pour bien collaborer avec 
 C’est pour répondre à cette question que la DINSIC lance l’appel à projets « Cas d’usages de l’environnement de travail numérique de l’agent », dans le cadre du fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissement d’avenir (PIA). 
 **Jusqu’au 15 avril 2019**, les administrations, opérateurs et collectivités territoriales sont invités à faire remonter des cas d’usages issus du terrain, à partir desquels seront prototypées les solutions numériques adaptées.
 
-> ### Le programme Environnement de travail numérique de l’agent (ETNA)
+> #### Le programme Environnement de travail numérique de l’agent (ETNA)
 >
-> <figure class='image-left' style='width: 20%;' margin-top='3'><img src="/uploads/ETNA.png"/></figure>Cet appel à projets s’inscrit plus globalement dans le cadre du programme Environnement de travail numérique de l’agent (ETNA) piloté par la DINSIC qui vise à simplifier la vie des agents et transformer leurs outils de travail avec le numérique. Parmi les réalisations concrètes du programme, la réalisation d’une boîte à outils numériques dédiés à l’agent et qui intègre d’ores et déjà la messagerie instantanée Tchap et l’outil de webconférence Jitsi. 
+> <figure class='image-left' style='width: 20%;' margin-bottom='3' margin-top='3'><img src="/uploads/ETNA.png"/></figure>Cet appel à projets s’inscrit plus globalement dans le cadre du programme Environnement de travail numérique de l’agent (ETNA) piloté par la DINSIC qui vise à simplifier la vie des agents et transformer leurs outils de travail avec le numérique. Parmi les réalisations concrètes du programme, la réalisation d’une boîte à outils numériques dédiés à l’agent et qui intègre d’ores et déjà la messagerie instantanée Tchap et l’outil de webconférence Jitsi. 
 {: .encadre}
 
 ### Collaboration, télétravail et mobilité 
@@ -35,9 +35,9 @@ Un jury sélectionnera les projets les plus prometteurs en termes d’impact sur
 
 > ### Sessions d'information
 > Pour vous accompagner, la DINSIC organise des sessions d’information et de coconstruction de dossiers de candidature **les mercredis 13 mars, 20 mars, 27 mars et 3 avril**, avec au menu : 
-> <br>**14h-15h :** Présentation générale du programme ETNA et de l’appel à projet du PIA ETNA 2019
-> <br>**15h-17h :** Coconstruction des dossiers de candidature : venez tester votre idée de projet ! Comment trouver le bon angle ? Quelle équipe constituer ? Quelles sont les attentes du jury ? Quel financement ? 
-> Inscrivez-vous par courriel en précisant la date souhaitée à **etna.dinsic@modernisation.gouv.fr**.
+> <br>* **14h-15h :** Présentation générale du programme ETNA et de l’appel à projet du PIA ETNA 2019
+> <br>* **15h-17h :** Coconstruction des dossiers de candidature : venez tester votre idée de projet ! Comment trouver le bon angle ? Quelle équipe constituer ? Quelles sont les attentes du jury ? Quel financement ? 
+> Inscrivez-vous par courriel en précisant la date souhaitée à par courriel à [etna.dinsic@modernisation.gouv.fr](mailto:etna.dinsic@modernisation.gouv.fr).
 {: .encadre}
 
 
