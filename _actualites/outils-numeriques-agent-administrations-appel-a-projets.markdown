@@ -42,7 +42,7 @@ Un jury sélectionnera les projets les plus prometteurs en termes d’impact sur
 >[Déposez votre dossier de candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-2019 - Nouvelle fenêtre){:target="_blank"}
 {: .lien-important}
 
-> #### Sessions d'information
+> #### Participez à nos sessions d'information
 > Pour vous accompagner, la DINSIC organise des sessions d’information et de coconstruction de dossiers de candidature **les mercredis 13 mars, 20 mars, 27 mars et 3 avril**, avec au menu : 
 > * **14h-15h :** Présentation générale du programme ETNA et de l’appel à projet
 > * **15h-17h :** Coconstruction des dossiers de candidature : venez tester votre idée de projet ! Comment trouver le bon angle ? Quelle équipe constituer ? Quelles sont les attentes du jury ? Quel financement ? 
