@@ -12,7 +12,7 @@ chapeau-text: 'Vous êtes une administration et souhaitez améliorer le quotidie
   de l’environnement de travail numérique de l’agent », consacré à cet objectif, déposez
   vos candidatures jusqu’au 15 avril 2019 ! '
 une-ou-diaporama:
-- image: "/uploads/lancement-aap-etna_800.jpg"
+- image: "/uploads/lancement-aap-etna-4.jpg"
 ---
 
 ### Partir du besoin de l’agent
