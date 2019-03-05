@@ -11,6 +11,8 @@ chapeau-text: 'Vous êtes une administration et souhaitez améliorer le quotidie
   agents grâce aux outils numériques ? La DINSIC lance l’appel à projets : « Cas d’usages
   de l’environnement de travail numérique de l’agent », consacré à cet objectif, déposez
   vos candidatures jusqu’au 15 avril 2019 ! '
+une-ou-diaporama:
+- image: "/uploads/lancement-aap-etna_800.jpg"
 ---
 
 ### Partir du besoin de l’agent
@@ -46,5 +48,3 @@ Un jury sélectionnera les projets les plus prometteurs en termes d’impact sur
 > * **15h-17h :** Coconstruction des dossiers de candidature : venez tester votre idée de projet ! Comment trouver le bon angle ? Quelle équipe constituer ? Quelles sont les attentes du jury ? Quel financement ? 
 > <br>Inscrivez-vous par courriel en précisant la date souhaitée à par courriel à [etna.dinsic@modernisation.gouv.fr](mailto:etna.dinsic@modernisation.gouv.fr).
 {: .encadre}
-
-
