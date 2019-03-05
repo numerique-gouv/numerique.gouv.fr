@@ -39,7 +39,7 @@ Un jury sélectionnera les projets les plus prometteurs en termes d’impact sur
 >[Consultez le cahier des charges - pdf 850Ko](/uploads/aap_etna_cahierdescharges.pdf){:target="_blank"}
 {: .lien-important}
 
->[Déposez votre dossier de candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-2019 "Déposez votre dossier de candidature - Nouvelle fenêtre){:target="_blank"}
+>[Déposez votre dossier de candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-2019 "Déposez votre dossier de candidature - Nouvelle fenêtre"){:target="_blank"}
 {: .lien-important}
 
 > #### Participez à nos sessions d'information
