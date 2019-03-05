@@ -4,15 +4,18 @@ title: 'Lancement de Designers d’Intérêt Général : administrations, propos
 date: 2019-02-11 15:05:00 +01:00
 published: false
 categories:
-- Article
+- Appel à projets
 tags:
 - services publics en ligne
 - UX
+- appel à projets
 chapeau-text: Vous êtes une administration et souhaitez améliorer l’expérience utilisateur
   (UX) d’un de vos services publics en ligne ? La DINSIC lance un programme inédit
   qui vous permettra d’accueillir pendant plusieurs mois un ou deux designers UX,
   financés dans le cadre du programme d’investissement d’avenir. Proposez vos projets
   avant le 2 avril 2019 !
+une-ou-diaporama:
+- image: "/uploads/20190403_Article_lancement_DIG.jpg"
 ---
 
 ## Améliorer l’expérience utilisateurs des services publics en ligne
