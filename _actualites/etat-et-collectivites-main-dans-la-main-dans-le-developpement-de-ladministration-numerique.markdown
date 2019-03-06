@@ -2,7 +2,6 @@
 title: État et collectivités main dans la main dans le développement de l’administration
   numérique
 date: 2019-02-28 10:53:00 +01:00
-published: false
 categories:
 - Article
 tags:
