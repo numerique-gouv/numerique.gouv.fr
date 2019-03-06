@@ -2,7 +2,6 @@
 title: État et collectivités main dans la main dans le développement de l’administration
   numérique
 date: 2019-02-28 10:53:00 +01:00
-published: false
 categories:
 - Article
 tags:
@@ -73,7 +72,12 @@ Cette première vague de recommandations (dont la mise en œuvre s’étend jusq
 {: .lien-important}
 
 **A voir aussi :**
-[![[Vidéo]Digitalisation de l'action publique](/uploads/Digitalisation.PNG)](http://video.cnfpt.fr/ets-2015-1/digitalisation-de-laction-publique){:target="_blank"} Interview de Laure de la Bretèche, SGMAP, et de Vincent Potier, directeur général du CNFPT, réalisée dans le cadre des ETS, le rendez-vous des managers territoriaux
+<iframe frameborder="0" width="480" height="270" 
+src="http://video.cnfpt.fr/ets-2015-1/digitalisation-de-laction-publique" allowfullscreen allow="autoplay"></iframe>
+
+
+
+(/uploads/Digitalisation.PNG)](http://video.cnfpt.fr/ets-2015-1/digitalisation-de-laction-publique){:target="_blank"} Interview de Laure de la Bretèche, SGMAP, et de Vincent Potier, directeur général du CNFPT, réalisée dans le cadre des ETS, le rendez-vous des managers territoriaux
 
 
 

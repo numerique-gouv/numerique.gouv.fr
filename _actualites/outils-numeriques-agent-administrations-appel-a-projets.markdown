@@ -7,9 +7,9 @@ tags:
 - appel à projets
 - ETNA
 - agents publics
-chapeau-text: 'Vous êtes une administration et souhaitez améliorer le quotidien des
-  agents grâce aux outils numériques ? La DINSIC lance prochainement l’appel à projets
-  : « Cas d’usages de l’environnement de travail numérique de l’agent », consacré
+chapeau-text: 'Vous êtes une administration de l''Etat et souhaitez améliorer le quotidien
+  des agents grâce aux outils numériques ? La DINSIC lance prochainement l’appel à
+  projets : « Cas d’usages de l’environnement de travail numérique de l’agent », consacré
   à cet objectif, vous aurez jusqu’au 15 avril 2019 pour déposer vos candidatures  ! '
 une-ou-diaporama:
 - image: "/uploads/lancement-aap-pia-etna.jpg"
@@ -19,7 +19,7 @@ une-ou-diaporama:
 {: .margin-top-2 .margin-bottom-1}
 De quels outils numériques les agents ont-ils besoin pour bien collaborer avec l’ensemble de leurs interlocuteurs et travailler à distance ?
 C’est pour répondre à cette question que la DINSIC lance très prochainement l’appel à projets « Cas d’usages de l’environnement de travail numérique de l’agent », dans le cadre du fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissement d’avenir (PIA). 
-**Jusqu’au 15 avril 2019**, les administrations, opérateurs et collectivités territoriales seront invités à faire remonter des cas d’usages issus du terrain, à partir desquels seront prototypées les solutions numériques adaptées.
+**Jusqu’au 15 avril 2019**, les administrations de l'Etat et opérateurs seront invités à faire remonter des cas d’usages issus du terrain, à partir desquels seront prototypées les solutions numériques adaptées.
 
 > #### Le programme Environnement de travail numérique de l’agent (ETNA)
 >
