@@ -72,8 +72,8 @@ Cette première vague de recommandations (dont la mise en œuvre s’étend jusq
 {: .lien-important}
 
 **A voir aussi :**
-<iframe frameborder="0" width="480" height="270" src="
-http://video.cnfpt.fr/ets-2015-1/digitalisation-de-laction-publique" allowfullscreen allow="autoplay"></iframe>
+<iframe frameborder="0" width="480" height="270" 
+src="http://video.cnfpt.fr/ets-2015-1/digitalisation-de-laction-publique" allowfullscreen allow="autoplay"></iframe>
 
 
 
