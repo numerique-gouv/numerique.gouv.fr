@@ -10,10 +10,10 @@ tags:
 - UX
 - appel à projets
 chapeau-text: Vous êtes une administration et souhaitez améliorer l’expérience utilisateur
-  (UX) d’un de vos services publics en ligne ? La DINSIC lance un programme inédit
-  qui vous permettra d’accueillir pendant plusieurs mois un ou deux designers UX,
-  financés dans le cadre du programme d’investissement d’avenir. Proposez vos projets
-  avant le 2 avril 2019 !
+  (UX) d’un de vos services publics en ligne ? La DINSIC lance un programme qui vous
+  permettra d’accueillir pendant plusieurs mois un ou deux designers UX, financés
+  dans le cadre du programme d’investissement d’avenir. Proposez vos projets avant
+  le 2 avril 2019 !
 une-ou-diaporama:
 - image: "/uploads/20190403_Article_lancement_DIG.jpg"
 ---
@@ -33,11 +33,13 @@ Le concept vous rappelle quelque chose ? Rien d’étonnant : il reprend la rece
 
 ## Des projets à fort impact en termes d’UX
 
-Les administrations disposent d’un mois, **du xx février au 2 avril 2019,** pour proposer les projets que relèveront les tout premiers designers d’intérêt général. (Re)design complet de l’expérience utilisateur d’un service existant ou en construction, amélioration en profondeur du parcours utilisateur, conception de nouvelles interfaces centrée sur l’utilisateur final, construction de modules UX utilisables par d’autres administrations… Vous l’aurez compris, les projets recherchés ont un dénominateur commun : l’amélioration d’un service public en ligne par une approche centrée sur l’utilisateur.
+Les administrations disposent d’un mois, **du xx mars au 2 avril 2019,** pour proposer les projets que relèveront les tout premiers designers d’intérêt général. (Re)design complet de l’expérience utilisateur d’un service existant ou en construction, amélioration en profondeur du parcours utilisateur, conception de nouvelles interfaces centrée sur l’utilisateur final, construction de modules UX utilisables par d’autres administrations… Vous l’aurez compris, les projets recherchés ont un dénominateur commun : l’amélioration d’un service public en ligne par une approche centrée sur l’utilisateur.
 
 Une fois les **projets lauréats sélectionnés début avril**, un **appel à candidatures** sera lancé afin de recruter la première promotion de designers d’intérêt général. Leur salaire sera **entièrement pris en charge** dans le cadre du programme d’investissement d’avenir (voir conditions plus bas) et le collectif animé par la DINSIC.
 
-**> Déposez votre projet Designers d’Intérêt Général**
+> [Déposez votre projet Designers d’Intérêt Général](https://www.demarches-simplifiees.fr/commencer/appel-a-projets-pour-integrer-experts-ux "Déposez votre projet Designers d’Intérêt Général - Nouvelle fenêtre")
+{: .lien-important}
+{:target="_blank"}
 
 > ## **Designers d’Intérêt Général en 3 questions-réponses**
 {: .text-center}
@@ -45,7 +47,7 @@ Une fois les **projets lauréats sélectionnés début avril**, un **appel à ca
 ### Qui peut proposer un projet ?
 {: .margin-top-2 .margin-bottom-1}
 
-Les projets peuvent être présentés par une **administration d’État** (ministère, administration centrale, opérateur sous tutelle, service déconcentré), ou **une autorité administrative indépendante, une collectivité territoriale, un établissement de santé**.
+Les projets peuvent être présentés par une **administration d’État** (ministère, administration centrale, opérateur sous tutelle, service déconcentré), **une autorité administrative indépendante ou un établissement de santé**.
 
 ### Comment seront sélectionnés les projets ?
 {: .margin-top-2 .margin-bottom-1}
@@ -65,9 +67,13 @@ Les projets peuvent être présentés par une **administration d’État** (mini
 
 Pour en bénéficier également, les autres administrations peuvent faire porter leur projet administrativement par un ministère, via une convention. Sans cela, elles doivent prévoir leur propre mode de financement (autofinancement par exemple).
 
-**> Consultez le cahier des charges complet**
+> [Consultez le cahier des charges complet](/uploads/designers-interet-general-appel-a-projets_cahier-des-charges.pdf)
+{: .lien-important}
 
-> Déposez votre projet
+> [Déposez votre projet Designers d’Intérêt Général](https://www.demarches-simplifiees.fr/commencer/appel-a-projets-pour-integrer-experts-ux "Déposez votre projet Designers d’Intérêt Général - Nouvelle fenêtre")
+{:target="_blank"}
+{: .lien-important}
+
 
 <br>
 **Lire aussi :**
