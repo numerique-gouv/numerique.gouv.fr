@@ -20,6 +20,7 @@ une-ou-diaporama:
 De quels outils numériques les agents ont-ils besoin pour bien collaborer avec l’ensemble de leurs interlocuteurs et travailler à distance ?
 <figure class='image-right' style='width: 20%;' margin-bottom='10' margin-top='3'><img src="/uploads/logo_investirlavenir_rvb.png" alt="Logo Investir l'avenir"/></figure>
 C’est pour répondre à cette question que la DINSIC lance très prochainement l’appel à projets « Cas d’usages de l’environnement de travail numérique de l’agent », dans le cadre du fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissement d’avenir (PIA) porté par le secrétariat général pour l'investissement. 
+
 **Jusqu’au 15 avril 2019**, les administrations de l'Etat et opérateurs seront invités à faire remonter des cas d’usages issus du terrain, à partir desquels seront prototypées les solutions numériques adaptées.
 
 > #### Le programme Environnement de travail numérique de l’agent (ETNA)
