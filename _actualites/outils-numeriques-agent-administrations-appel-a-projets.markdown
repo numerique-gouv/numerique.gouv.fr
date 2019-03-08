@@ -38,6 +38,9 @@ Les cas d’usages attendus dans le cadre de l’appel à projets relèvent des 
  
 Un jury sélectionnera les projets les plus prometteurs en termes d’impact sur la modernisation du cadre de travail de l’agent, avant le 10 mai. A la clé : **un financement** possible à hauteur de 100% du coût total du développement de la solution et de son expérimentation, ainsi qu’un **accompagnement**, par la DINSIC, tout au long du projet. Les solutions qui auront fait leurs preuves ont pour vocation à voir leur périmètre d’application étendu à d’autres administrations. 
 
+> [Consultez le cahier des charges complet]/uploads/aap_etna_cahierdescharges.pdf)
+{: .lien-important}
+
 > #### Participez à nos sessions d'information
 > Pour vous accompagner, la DINSIC organise des sessions d’information et de coconstruction de dossiers de candidature **les mercredis 13 mars, 20 mars, 27 mars et 3 avril**, avec au menu : 
 > * **14h-15h :** Présentation générale du programme ETNA et de l’appel à projet
