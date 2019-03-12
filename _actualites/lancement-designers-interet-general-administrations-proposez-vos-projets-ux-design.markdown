@@ -12,7 +12,7 @@ chapeau-text: Vous êtes une administration et souhaitez améliorer l’expérie
   (UX) d’un de vos services publics en ligne ? La DINSIC lance un programme qui vous
   permettra d’accueillir pendant plusieurs mois un ou deux designers UX, financés
   dans le cadre du programme d’investissement d’avenir. Proposez vos projets jusqu'au
-  2 avril 2019, 17h !
+  2 avril 2019 !
 une-ou-diaporama:
 - image: "/uploads/20190403_Article_lancement_DIG.jpg"
 ---
