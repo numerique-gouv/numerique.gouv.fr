@@ -37,10 +37,11 @@ Les administrations disposent de 3 semaines, **du 12 mars au 2 avril 2019,** pou
 Une fois les **projets lauréats sélectionnés début avril**, un **appel à candidatures** sera lancé afin de recruter la première promotion de designers d’intérêt général. Leur salaire sera **entièrement pris en charge** dans le cadre du programme d’investissement d’avenir (voir conditions plus bas), piloté par le secrétariat général pour l’investissement (SGPI), et le collectif animé par la DINSIC.
 
 > [Déposez votre projet Designers d’Intérêt Général](https://www.demarches-simplifiees.fr/commencer/appel-a-projets-pour-integrer-experts-ux "Déposez votre projet Designers d’Intérêt Général - Nouvelle fenêtre")
-{: .lien-important}
 {:target="_blank"}
+{: .lien-important}
 
-> ## **Designers d’Intérêt Général en 3 questions-réponses**
+
+## **Designers d’Intérêt Général en 3 questions-réponses**
 {: .text-center}
 
 ### Qui peut proposer un projet ?
