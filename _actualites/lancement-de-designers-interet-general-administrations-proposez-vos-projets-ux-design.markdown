@@ -22,7 +22,7 @@ une-ou-diaporama:
 
 Offrir aux citoyens des services publics numériques **faciles à prendre en main, efficaces et accessibles à tous,** même en situation de handicap. Oui mais comment ? Centré sur la prise en compte des attentes et besoins des utilisateurs, l’UX design – le design de l’expérience utilisateurs – est l’une des clés.
 
-Pour diffuser ces nouvelles pratiques dans l’administration et la faire monter en compétence dans le domaine, la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) lance un programme inédit : **Designers d’Intérêt Général**. Le principe ? **Accueillir pendant 6 à 12 mois au sein d’une administration un ou deux designer(s) UX** pour mener à bien un projet précis d’**amélioration de l’expérience utilisateur d’un service public en ligne,** accompagnés de mentors en interne.
+Pour diffuser ces nouvelles pratiques dans l’administration et la faire monter en compétence dans le domaine, la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) lance un programme inédit : **Designers d’Intérêt Général**. Le principe ? **Accueillir pendant 6 à 12 mois au sein d’une administration un ou deux designer(s) UX** pour mener à bien un projet précis de **conception et d'amélioration de l’expérience utilisateur d’un service public en ligne,** accompagnés de mentors en interne.
 
 Le concept vous rappelle quelque chose ? Rien d’étonnant : il reprend la recette des [Entrepreneurs d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/ "Entrepreneurs d’Intérêt Général - Nouvelle fenêtre"){:target="_blank"}, un autre programme d’innovation ouverte piloté par la DINSIC, testé et approuvé depuis 3 ans par une dizaine d’administrations.
 
@@ -33,9 +33,9 @@ Le concept vous rappelle quelque chose ? Rien d’étonnant : il reprend la rece
 
 ## Des projets à fort impact en termes d’UX
 
-Les administrations disposent d’un mois, **du xx mars au 2 avril 2019,** pour proposer les projets que relèveront les tout premiers designers d’intérêt général. (Re)design complet de l’expérience utilisateur d’un service existant ou en construction, amélioration en profondeur du parcours utilisateur, conception de nouvelles interfaces centrée sur l’utilisateur final, construction de modules UX utilisables par d’autres administrations… Vous l’aurez compris, les projets recherchés ont un dénominateur commun : l’amélioration d’un service public en ligne par une approche centrée sur l’utilisateur.
+Les administrations disposent de 3 semaines, **du 12 mars au 2 avril 2019,** pour proposer les projets que relèveront les tout premiers designers d’intérêt général. (Re)design complet de l’expérience utilisateur d’un service existant ou en construction, amélioration en profondeur du parcours utilisateur, conception de nouvelles interfaces centrée sur l’utilisateur final, construction de modules UX utilisables par d’autres administrations… Vous l’aurez compris, les projets recherchés ont un dénominateur commun : l’amélioration d’un service public en ligne par une approche centrée sur l’utilisateur.
 
-Une fois les **projets lauréats sélectionnés début avril**, un **appel à candidatures** sera lancé afin de recruter la première promotion de designers d’intérêt général. Leur salaire sera **entièrement pris en charge** dans le cadre du programme d’investissement d’avenir (voir conditions plus bas) et le collectif animé par la DINSIC.
+Une fois les **projets lauréats sélectionnés début avril**, un **appel à candidatures** sera lancé afin de recruter la première promotion de designers d’intérêt général. Leur salaire sera **entièrement pris en charge** dans le cadre du programme d’investissement d’avenir (voir conditions plus bas), avec l’appui du secrétariat général pour l’investissement (SGPI), et le collectif animé par la DINSIC.
 
 > [Déposez votre projet Designers d’Intérêt Général](https://www.demarches-simplifiees.fr/commencer/appel-a-projets-pour-integrer-experts-ux "Déposez votre projet Designers d’Intérêt Général - Nouvelle fenêtre")
 {: .lien-important}
@@ -54,7 +54,7 @@ Les projets peuvent être présentés par une **administration d’État** (mini
 
 **Un jury mixte**, composé d’experts et personnalités de l’UX, d’agents de la DINSIC, du secrétariat général pour l’investissement (SGPI) et d’autres administrations choisira les projets lauréats notamment **selon les critères suivants :**
 
-* **importance de l’enjeu pour l’action du ministère,** notamment dans le cadre de la transformation du service public portée par Action Publique 2022 et d’un portage interne de haut niveau ;
+* **importance de l’enjeu pour l’action du ministère,** notamment dans le cadre de la transformation du service public et d’un portage interne de haut niveau ;
 
 * **potentiel d’amélioration de services publics en ligne en termes d’UX** – expérience utilisateurs ;
 
