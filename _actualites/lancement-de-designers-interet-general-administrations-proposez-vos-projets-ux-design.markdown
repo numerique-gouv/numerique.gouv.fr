@@ -1,7 +1,7 @@
 ---
 title: 'Lancement de Designers d’Intérêt Général : administrations, proposez vos projets
   d’UX design !'
-date: 2019-02-11 15:05:00 +01:00
+date: 2019-03-12 15:05:00 +01:00
 published: false
 categories:
 - Appel à projets
