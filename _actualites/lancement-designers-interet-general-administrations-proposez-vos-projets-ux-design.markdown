@@ -19,7 +19,7 @@ une-ou-diaporama:
 
 ## Améliorer l’expérience utilisateurs des services publics en ligne
 
-Offrir aux citoyens des services publics numériques **faciles à prendre en main, efficaces et accessibles à tous,** même en situation de handicap. Oui mais comment ? Centré sur la prise en compte des attentes et besoins des utilisateurs, l’UX design – le design de l’expérience utilisateurs – est l’une des clés.
+Offrir aux citoyens des services publics numériques **faciles à prendre en main, efficaces et accessibles à tous,** y compris en situation de handicap. Oui mais comment ? Centré sur la prise en compte des attentes et besoins des utilisateurs, l’UX design – le design de l’expérience utilisateurs – est l’une des clés.
 
 Pour diffuser ces nouvelles pratiques dans l’administration et la faire monter en compétence dans le domaine, la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) lance un programme inédit : **Designers d’Intérêt Général**. Le principe ? **Accueillir pendant 6 à 12 mois au sein d’une administration un ou deux designer(s) UX** pour mener à bien un projet précis de **conception et d'amélioration de l’expérience utilisateur d’un service public en ligne,** accompagnés de mentors en interne.
 
