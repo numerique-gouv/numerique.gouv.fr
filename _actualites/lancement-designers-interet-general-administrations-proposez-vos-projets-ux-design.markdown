@@ -69,8 +69,7 @@ Pour en bénéficier également, les autres administrations peuvent faire porter
 > [Consultez le cahier des charges complet](/uploads/aap_designers-interet-general_cahier-des-charges.pdf)
 {: .lien-important}
 
-> [Déposez votre projet Designers d’Intérêt Général](https://www.demarches-simplifiees.fr/commencer/appel-a-projets-pour-integrer-experts-ux "Déposez votre projet Designers d’Intérêt Général - Nouvelle fenêtre")
-{:target="_blank"}
+> [Déposez votre projet Designers d’Intérêt Général](https://www.demarches-simplifiees.fr/commencer/appel-a-projets-pour-integrer-experts-ux "Déposez votre projet Designers d’Intérêt Général - Nouvelle fenêtre"){:target="_blank"}
 {: .lien-important}
 
 
