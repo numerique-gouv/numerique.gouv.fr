@@ -2,7 +2,6 @@
 title: 'Lancement de Designers d’Intérêt Général : administrations, proposez vos projets
   d’UX design !'
 date: 2019-03-12 15:05:00 +01:00
-published: false
 categories:
 - Appel à projets
 tags:
@@ -67,7 +66,7 @@ Les projets peuvent être présentés par une **administration d’État** (mini
 
 Pour en bénéficier également, les autres administrations peuvent faire porter leur projet administrativement par un ministère, via une convention. Sans cela, elles doivent prévoir leur propre mode de financement (autofinancement par exemple).
 
-> [Consultez le cahier des charges complet](/uploads/designers-interet-general-appel-a-projets_cahier-des-charges.pdf)
+> [Consultez le cahier des charges complet](/uploads/aap_designers-interet-general_cahier-des-charges.pdf)
 {: .lien-important}
 
 > [Déposez votre projet Designers d’Intérêt Général](https://www.demarches-simplifiees.fr/commencer/appel-a-projets-pour-integrer-experts-ux "Déposez votre projet Designers d’Intérêt Général - Nouvelle fenêtre")
