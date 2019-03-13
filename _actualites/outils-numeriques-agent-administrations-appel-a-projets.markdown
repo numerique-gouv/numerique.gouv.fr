@@ -8,9 +8,9 @@ tags:
 - ETNA
 - agents publics
 chapeau-text: 'Vous êtes une administration de l''Etat et souhaitez améliorer le quotidien
-  des agents grâce aux outils numériques ? La DINSIC lance prochainement l’appel à
-  projets : « Cas d’usages de l’environnement de travail numérique de l’agent », consacré
-  à cet objectif, vous aurez jusqu’au 15 avril 2019 pour déposer vos candidatures  ! '
+  des agents grâce aux outils numériques ? La DINSIC lance l’appel à projets : « Cas
+  d’usages de l’environnement de travail numérique de l’agent », consacré à cet objectif,
+  déposez vos candidatures jusqu’au 15 avril 2019 !'
 une-ou-diaporama:
 - image: "/uploads/lancement-aap-pia-etna.jpg"
 ---
@@ -19,9 +19,9 @@ une-ou-diaporama:
 {: .margin-top-2 .margin-bottom-1}
 De quels outils numériques les agents ont-ils besoin pour bien collaborer avec l’ensemble de leurs interlocuteurs et travailler à distance ?
 <figure class='image-right' style='width: 20%;' margin-bottom='10' margin-top='3'><img src="/uploads/logo_investirlavenir_rvb.png" alt="Logo Investir l'avenir"/></figure>
-C’est pour répondre à cette question que la DINSIC lance très prochainement l’appel à projets « Cas d’usages de l’environnement de travail numérique de l’agent », dans le cadre du fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissement d’avenir (PIA) porté par le secrétariat général pour l'investissement. 
+C’est pour répondre à cette question que la DINSIC vient de lancer l’appel à projets « Cas d’usages de l’environnement de travail numérique de l’agent », dans le cadre du fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissement d’avenir (PIA) porté par le secrétariat général pour l'investissement. 
 
-**Jusqu’au 15 avril 2019**, les administrations de l'Etat et opérateurs seront invités à faire remonter des cas d’usages issus du terrain, à partir desquels seront prototypées les solutions numériques adaptées.
+**Jusqu’au 15 avril 2019**, les administrations de l'Etat et opérateurs sont invités à faire remonter des cas d’usages issus du terrain, à partir desquels seront prototypées les solutions numériques adaptées.
 
 > #### Le programme Environnement de travail numérique de l’agent (ETNA)
 >
@@ -40,6 +40,11 @@ Un jury sélectionnera les projets les plus prometteurs en termes d’impact sur
 
 > [Consultez le cahier des charges complet](/uploads/aap_etna_cahierdescharges.pdf)
 {: .lien-important}
+
+> [Déposez votre candidature]( https://www.demarches-simplifiees.fr/commencer/pia-etna-2019 "Déposez votre candidature - Nouvelle fenêtre")
+{:target="_blank"}
+{: .lien-important}
+
 
 > #### Participez à nos sessions d'information
 > Pour vous accompagner, la DINSIC organise des sessions d’information et de coconstruction de dossiers de candidature **les mercredis 13 mars, 20 mars, 27 mars et 3 avril**, avec au menu : 
