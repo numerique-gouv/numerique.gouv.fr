@@ -23,7 +23,7 @@ Offrir aux citoyens des services publics numériques **faciles à prendre en mai
 
 Pour diffuser ces nouvelles pratiques dans l’administration et la faire monter en compétence dans le domaine, la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) lance un programme inédit : **Designers d’Intérêt Général**. Le principe ? **Accueillir pendant 6 à 12 mois au sein d’une administration un ou deux designer(s) UX** pour mener à bien un projet précis de **conception et d'amélioration de l’expérience utilisateur d’un service public en ligne,** accompagnés de mentors en interne.
 
-Le concept vous rappelle quelque chose ? Rien d’étonnant : il reprend la recette des [Entrepreneurs d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/ "Entrepreneurs d’Intérêt Général - Nouvelle fenêtre"){:target="_blank"}, un autre programme d’innovation ouverte piloté par la DINSIC, testé et approuvé depuis 3 ans par une dizaine d’administrations.
+Le concept vous rappelle quelque chose ? Rien d’étonnant : il reprend la recette des [Entrepreneurs d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/ "Entrepreneurs d’Intérêt Général - Nouvelle fenêtre"){:target="_blank"}, un autre programme d’innovation ouverte piloté par la DINSIC, testé et approuvé depuis 3 ans par une trentaine d’administrations.
 
 > ### Vous êtes expert UX et souhaitez devenir designer d’intérêt général ?
 >
