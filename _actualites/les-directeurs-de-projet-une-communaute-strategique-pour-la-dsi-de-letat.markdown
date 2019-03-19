@@ -4,6 +4,8 @@ date: 2016-03-25 11:10:00 +01:00
 chapeau-text: 'Depuis plus d’un an, la DINSIC est engagée dans un programme de formation
   et de mise en relation des directeurs de projet informatique. Acteurs fondamentaux
   de la modernisation du SI de l’État, ils forment désormais une réelle communauté. '
+une-ou-diaporama:
+- image: "/uploads/dpsi_une3.jpg"
 ---
 
 L’isolement… C’est là l’une des premières difficultés pointées par les directeurs de projets SI de l’État lorsqu’ils évoquent leurs pratiques au quotidien. Et pour cause, la culture projet est relativement neuve au sein de l’administration. Elle suppose de piloter des équipes pluridisciplinaires et transverses, issues de différents services, parfois peu enclins à leur donner la disponibilité ou les marges de manœuvre nécessaires au bon déroulement du chantier. Surtout, ces projets sont fréquemment le fruit d’une obligation réglementaire ou d’une commande politique, ce qui leur confère des délais tendus et des périmètres ambitieux. Les marges de manœuvre des directeurs de projet SI sont donc souvent faibles, et leurs contraintes toujours élevées. Pour couronner le tout, les profils accédant à ces fonctions proviennent d’horizons et de statuts variés (agents issus du privé, d’une direction métier, d’un département informatique opérationnel). Si cette diversité est une force, elle engendre également des pratiques hétérogènes.
