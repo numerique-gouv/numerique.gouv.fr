@@ -39,10 +39,12 @@ Au final ces différentes démarches s’inscrivent dans la volonté constante d
 > #### « Être conforté dans son quotidien » 
 >
 >Nicolas Chosson, directeur de projet dans les domaines SIRH, SI financier et application de support - Ministères en charge de la santé, des affaires sociales et des droits des femmes.
+>{: .auteur-citation}
+
 >
 >
 > La formation dispensée aux directeurs de projet SI par la DINSIC est de haut niveau. Elle s’adresse aux directeurs de projet déjà expérimentés. Elle nous permet d’être confortés et mieux outillés dans l’exercice de notre travail au quotidien.
->{: .mon-style}
+>{: .citation}
 >
 > 
 >
