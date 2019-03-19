@@ -40,12 +40,12 @@ Au final ces différentes démarches s’inscrivent dans la volonté constante d
 >
 >Nicolas Chosson, directeur de projet dans les domaines SIRH, SI financier et application de support - Ministères en charge de la santé, des affaires sociales et des droits des femmes.
 > {: .auteur-citation}
->
+><br>    
 >
 > La formation dispensée aux directeurs de projet SI par la DINSIC est de haut niveau. Elle s’adresse aux directeurs de projet déjà expérimentés. Elle nous permet d’être confortés et mieux outillés dans l’exercice de notre travail au quotidien.
 >
 > 
->
+><br>
 >La formation insiste sur les conditions de réussite initiales du projet ainsi que sur les clefs du cadrage et de sa sécurisation. Elle rappelle les fondamentaux du jalonnement, de la planification, du lotissement, de la gouvernance et de la maîtrise des risques. L’art de l’anticipation et de la gestion des crises y est également enseigné.
 >
 > 
