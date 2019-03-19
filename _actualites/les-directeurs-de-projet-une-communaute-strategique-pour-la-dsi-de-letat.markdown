@@ -15,19 +15,19 @@ L’isolement… C’est là l’une des premières difficultés pointées par l
 Dans ce contexte, la direction interministérielle du numérique et du système d’information et de communication (DINSIC), au sein du SGMAP, cherche à cherche à structurer une communauté au travers d’actions interministérielles Pourquoi se focaliser sur ce métier ? Car appuyer les directeurs de projet, c’est participer activement à la sécurisation du SI de l’État, l’une des premières missions de la DINSIC. Les directeurs de projet sont en charge du pilotage d’une grande part des investissements du SI de l’État. A eux de conduire et de sécuriser des projets parfois très ambitieux, à eux de construire le SI de demain, à eux aussi d’insuffler la culture de l’agile au sein du SI de l’État.
  
 
-DEJA UNE CENTAINE DE DIRECTEURS DE PROJET FORMES 
+#### DEJA UNE CENTAINE DE DIRECTEURS DE PROJET FORMES 
 
 Première des actions interministérielles de la DSI de l’État : les formations. Depuis fin 2014, la DINSIC dispense un module de deux jours destiné aux directeurs de projet SI. Sa vocation ? « Offrir une palette d’outils pratiques de haut niveau pour mieux piloter les projets - gestion des risques, équilibre coûts/délais/qualité… - tout en présentant les politiques interministérielles en matière de sécurisation de projets, d’analyse de la valeur et d’achat public », rapporte Charlotte Cador, chargée de mission RH – SIC au sein de la DINSIC. Labellisée « Ecole du management et des ressources humaines » (EMRH) de la DGAFP, la formation a été suivie en 2015 par plus de 120 directeurs de projet SI, dont une soixantaine étaient porteurs d’un projet du « top 50 » (liste des projets SI jugés critiques par le gouvernement, et à ce titre suivis par le SGMAP).
 
 Le label décerné par l’EMRH, mais aussi le fait que le contenu de ce module fasse partie intégrante de la formation continue des ingénieurs SIC (appartenant au nouveau corps SIC interministériel), contribueront à apporter à ce métier la reconnaissance qui lui manque. Courant 2016, le module sera enrichi par des journées supplémentaires consacrées à la méthodologie Mareva, à l’intégration de la sécurité SI dans les projets, à la gestion des fournisseurs et aux approches agiles.
  
 
-FAVORISER L'ENTRAIDE ET LA BIENVEILLANCE 
+#### FAVORISER L'ENTRAIDE ET LA BIENVEILLANCE 
 
 Parallèlement à la formation, les directeurs de projet disposent désormais d’un nouvel annuaire interministériel grâce auquel ils peuvent consulter la liste de leurs pairs et les contacter. Cet élément servira de base à l’élaboration d’un futur réseau social dédié aux directeurs de projet. « Pour autant, leur mise en réseau ne saurait se limiter à des enjeux d’outillage, précise-t-elle. Rien ne remplace les rencontres de visu. » C’est dans cette optique que la DINSIC organise tous les trimestres une « journée professionnelle des directeurs de projet SI de l’Etat ». Au programme : des ateliers de travail, des conférences, des retours d’expérience, du réseautage. « Ces journées visent à promouvoir la culture de l’entraide et de la bienveillance entre directeurs de projet. Nous cherchons à les inciter à partager au maximum leur expérience, et à profiter en retour de celles des autres. » Confirmation de Gilles Dautois, directeur du projet Source Solde de la Gendarmerie : « Ces journées sont des espaces de dialogue où chacun peut parler, sans tabou, de ses difficultés et s’enrichir de l’expérience de ses pairs. »
  
 
-UN DOUBLE DECLOISONNEMENT
+#### UN DOUBLE DECLOISONNEMENT
 
 Ces différentes actions participent au double décloisonnement des directeurs de projet SI, qui s’ouvrent à la fois sur leurs pairs et sur les autres ministères. Précisons que l’animation de cette nouvelle communauté repose sur un bureau composé d’une douzaine de directeurs de projets volontaires – eux-mêmes issus de différents ministères. Piloté par la DINSIC, ce bureau structure notamment ces journées et élabore le contenu des formations.
 
@@ -36,7 +36,7 @@ Au final ces différentes démarches s’inscrivent dans la volonté constante d
  
 
 
-> « Être conforté dans son quotidien » 
+> #### « Être conforté dans son quotidien » 
 >
 >Nicolas Chosson, directeur de projet dans les domaines SIRH, SI financier et application de support - Ministères en charge de la santé, des affaires sociales et des droits des femmes.
 >
