@@ -1,7 +1,8 @@
 ---
 title: Les directeurs de projet, une communauté stratégique pour la DSI de l’État
 date: 2016-03-25 11:10:00 +01:00
-published: false
+categories:
+- Article
 chapeau-text: 'Depuis plus d’un an, la DINSIC est engagée dans un programme de formation
   et de mise en relation des directeurs de projet informatique. Acteurs fondamentaux
   de la modernisation du SI de l’État, ils forment désormais une réelle communauté. '
