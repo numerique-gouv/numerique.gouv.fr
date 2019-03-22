@@ -16,5 +16,6 @@ chapeau-text: Du 11 au 15 février 2019, les 32 nouveaux entrepreneurs d’inté
 une-ou-diaporama:
 - image: "/uploads/assembl%C3%A9e-nationale1-1024x683.jpg"
 auteur: Etalab
+redirection: https://www.etalab.gouv.fr/eig3-une-semaine-dintegration-a-la-decouverte-des-communautes-du-numerique-dinteret-general
 ---
 
