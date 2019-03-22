@@ -50,6 +50,7 @@ Au final ces différentes démarches s’inscrivent dans la volonté constante d
 ><br>
 >Sur le plan managérial, la formation décortique les traits essentiels de la communication, de la gestion des acteurs et des négociations. Elle référence les meilleures pratiques pour affronter les injonctions paradoxales : contribution, rétribution, coût, valeur, qualité, risque…
 {: .citation}
+><br>
 >Nicolas Chosson, directeur de projet dans les domaines SIRH, SI financier et application de support - Ministères en charge de la santé, des affaires sociales et des droits des femmes.
 {: .auteur-citation}
 >
