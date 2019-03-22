@@ -21,7 +21,7 @@ une-ou-diaporama:
 - image: "/uploads/mareva_une-recadree.png"
 ---
 
-#### Qu'est-ce MAREVA ?
+#### Qu'est-ce que MAREVA ?
 
 <figure class='image-left' style='width: 20%; margin-right: 10px;'>
 <img src="/uploads/remy-mazzoti_0.png"/></figure>**Rémy Mazzocchi**. Mareva (Méthode d’Analyse et de REmontée de la Valeur), est une méthodologie permettant de mesurer la valeur des projets informatiques, spécialement adaptée à la sphère publique. Dans le secteur privé, cette valeur est aisée à évaluer car elle dépend souvent du chiffre d’affaire généré. L’exercice est plus délicat en l’absence de démarches transactionnelles, comme dans la plupart des projets de l’administration.
