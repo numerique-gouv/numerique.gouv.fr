@@ -1,6 +1,6 @@
 ---
 title: Les directeurs de projet, une communauté stratégique pour la DSI de l’État
-date: 2016-03-25 11:10:00 +01:00
+date: 2015-09-10 11:10:00 +02:00
 categories:
 - Article
 tags:
