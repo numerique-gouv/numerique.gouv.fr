@@ -5,6 +5,7 @@ categories:
 - Article
 tags:
 - recrutement
+- administration numérique
 chapeau-text: En mai dernier, le corps des ingénieurs SIC du ministère de l’Intérieur
   a été revalorisé et s’est ouvert à l’interministériel. Il fait aujourd’hui l’objet
   d’un concours pour jeunes diplômés. Ce corps de métier dynamise les carrières des
