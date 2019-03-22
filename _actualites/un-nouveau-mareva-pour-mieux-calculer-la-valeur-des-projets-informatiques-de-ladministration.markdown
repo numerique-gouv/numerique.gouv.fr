@@ -48,7 +48,7 @@ Mareva s’attache précisément à combler ce fossé, en limitant les écueils 
 **Les notes attribuées par MAREVA visent donc à responsabiliser les Directions de projet...**
 <br>
 <br>
-<figure class='image-right' style='width: 20%; margin-left: 10px;'>
+<figure class='image-right' style='width: 40%; margin-left: 10px;'>
 <img src="/uploads/capture-mareva.jpg"/></figure>**Rémy Mazzocchi** : C’est juste. Mais pas seulement. Elles donnent également un moyen d’objectiver les résultats obtenus. Notés, les projets se prêtent désormais à la comparaison. Celle-ci a trois vertus. Elle est précieuse lorsqu’une direction cherche à prioriser ses chantiers. Un même canevas sert alors à les évaluer et à sélectionner ceux qui génèrent des gains en ligne avec les priorités (contraintes réglementaires, besoin de transformation, qualité de service, etc).
 
 Ensuite, la comparaison aide à évaluer plusieurs scénarios d’un même projet. L’un peut être modeste, l’autre plus ambitieux, car mobilisant davantage de moyens et fournissant plus de services. Dans ce contexte, Mareva décèle le scénario dont la valeur est la plus élevée. Toutefois, celle-ci doit être systématiquement complétée par une analyse de la faisabilité des scénarios (fonction de la gouvernance, de la réalisation et des délais).
