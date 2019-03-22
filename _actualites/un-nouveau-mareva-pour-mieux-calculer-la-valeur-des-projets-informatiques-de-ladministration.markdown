@@ -1,7 +1,7 @@
 ---
 title: Un nouveau Mareva pour mieux calculer la valeur des projets informatiques de
   l’administration
-date: 2019-03-22 15:57:00 +01:00
+date: 2015-04-17 15:57:00 +02:00
 categories:
 - Interview
 tags:
