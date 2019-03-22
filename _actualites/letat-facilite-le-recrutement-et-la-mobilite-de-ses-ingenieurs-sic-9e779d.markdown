@@ -47,4 +47,4 @@ Intégrés à ce corps revalorisé, les ingénieurs SIC suivront des trajectoire
 [Plus d'infos sur la campagne de recrutement, sur le site du ministère de l'Intérieur ](https://www.interieur.gouv.fr/Archives/Archives-des-actualites/2015-Actualites/L-Etat-recrute-40-ingenieurs-SIC){:target="_blank"} 
 
 [Décret portant statut particulier du corps des ingénieurs SIC
-](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030645061&dateTexte=&categorieLien=id)
+](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000030645061&dateTexte=&categorieLien=id){:target="_blank"} 
