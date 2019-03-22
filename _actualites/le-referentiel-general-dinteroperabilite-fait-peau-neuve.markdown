@@ -30,7 +30,7 @@ A l'heure de l'[Etat Plateforme](http://etatplateforme.modernisation.gouv.fr/){:
 
 #### Un outil au service de la modernisation de l'État
 
-* « Sans ce document, les administrations ne pourraient pas communiquer entre elles, parce qu’elles ne parleraient jamais le même langage technique, explicite Jean-Vincent Placé, secrétaire d’État en charge de la Réforme de l’État et de la Simplification. Or, ces échanges sont essentiels pour le service public, en général, et pour la modernisation de l’Etat, en particulier. » *
+*« Sans ce document, les administrations ne pourraient pas communiquer entre elles, parce qu’elles ne parleraient jamais le même langage technique, explicite Jean-Vincent Placé, secrétaire d’État en charge de la Réforme de l’État et de la Simplification. Or, ces échanges sont essentiels pour le service public, en général, et pour la modernisation de l’Etat, en particulier. »*
 
 Entre 2009 et aujourd'hui, le paysage des technologies et des normes associées a beaucoup évolué. La deuxième mouture du référentiel en est le reflet. Elle compte plus de 80 nouvelles entrées, tandis qu'une petite vingtaine sont classées parmi celles à retirer. A chaque standard est associé un statut (en observation, recommandé, en fin de vie et retiré) pour faciliter sa prise en compte et la mise en conformité.
 
