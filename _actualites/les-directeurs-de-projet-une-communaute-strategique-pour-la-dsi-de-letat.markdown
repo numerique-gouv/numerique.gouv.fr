@@ -53,4 +53,4 @@ Au final ces différentes démarches s’inscrivent dans la volonté constante d
 >Nicolas Chosson, directeur de projet dans les domaines SIRH, SI financier et application de support - Ministères en charge de la santé, des affaires sociales et des droits des femmes.
 {: .auteur-citation}
 >
-{: .encadre}
+>{: .encadre}
