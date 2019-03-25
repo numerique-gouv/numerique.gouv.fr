@@ -33,7 +33,7 @@ En parallèle, Mounir Mahjoubi relance et pérennise la plateforme de signalemen
 
 Cette plateforme doit permettre d’assurer le suivi de l’application de la charte ainsi que des relations avec les plateformes non-signataires de cette charte. Le recueil et le suivi de ces difficultés permettra de faire évoluer la charte signée, si nécessaire.
 
-Cette plateformes constituera ainsi un « baromètre » de la loyauté et de la transparence des relations PME-plateformes, y compris au-delà du seul secteur de l’e-commerce. Les signalements permettront en outre un recours fluidifié à la méditation.
+Cette plateformes constituera ainsi un « baromètre » de la loyauté et de la transparence des relations PME-plateformes, y compris au-delà du seul secteur de l’e-commerce. Les signalements permettront en outre un recours fluidifié à la médiation.
 
 Le formulaire de signalement est mis à disposition des entreprises confrontées à ces problématiques : 
 > [Accéder au formulaire de signalement](https://www.demarches-simplifiees.fr/commencer/consultation-plateformes "Accéder au formulaire de signalement - Nouvelle fenêtre"){:target="_blank"}
