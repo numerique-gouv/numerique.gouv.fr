@@ -2,7 +2,6 @@
 title: 'Gouvernement ouvert : la France met l''accent sur le numérique et la contribution
   citoyenne'
 date: 2019-03-25 11:43:00 +01:00
-published: false
 chapeau-text: La France encourage les alliances entre l'administration et la société
   civile en misant sur les technologies numériques, dont les approches sont déjà mises
   en œuvre avec l'open data, pour bâtir un gouvernement ouvert. Cette volonté se traduit
