@@ -26,10 +26,9 @@ Les engagements s’articulent autour de trois axes :
 2. **La garantie d’un échange ouvert, fiable et individualisé**
 
 3. **Une lutte contre la contrefaçon plus agile et plus efficace**
-<br>
-<br>
+
 ### Assurer le suivi des difficultés rencontrées avec les plateformes de vente en ligne
-{: .margin-top-2 .margin-bottom-1} 
+{: .margin-top-2 .margin-bottom-1}
 En parallèle, Mounir Mahjoubi relance et pérennise la plateforme de signalement des difficultés entre PME et plateformes, initialement mise en place à l’automne 2018.
 
 Cette plateforme doit permettre d’assurer le suivi de l’application de la charte ainsi que des relations avec les plateformes non-signataires de cette charte. Le recueil et le suivi de ces difficultés permettra de faire évoluer la charte signée, si nécessaire.
