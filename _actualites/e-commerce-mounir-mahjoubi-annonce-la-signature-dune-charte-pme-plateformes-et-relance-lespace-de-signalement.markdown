@@ -8,10 +8,10 @@ tags:
 - e-commerce
 - PME
 chapeau-text: A l’occasion de la signature de la charte e-commerce, Mounir Mahjoubi
-  relance et pérennise la plateforme de signalement des difficultés rencontrées par
-  les PME avec les sites de vente en ligne.
+  relance et pérennise l'espace de signalement des difficultés rencontrées par les
+  PME avec les plateformes de vente en ligne.
 une-ou-diaporama:
-- image: "/uploads/charte-ecommerce.jpg"
+- image: "/uploads/charte-ecommerce-une.jpg"
 auteur: Secrétariat d'État chargé du Numérique
 ---
 
