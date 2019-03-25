@@ -2,7 +2,6 @@
 title: Revivre les temps forts du sommet du Partenariat pour un gouvernement ouvert
   mondial
 date: 2019-03-25 09:57:00 +01:00
-published: false
 chapeau-text: 'Organisé tous les deux ans, le sommet mondial du Partenariat pour un
   gouvernement ouvert (OGP Global Summit) a rassemblé, du 27 au 29 octobre au Mexique,
   plus de 2 000 acteurs internationaux du gouvernement ouvert afin de partager leurs
