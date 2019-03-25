@@ -9,7 +9,7 @@ chapeau-text: La France encourage les alliances entre l'administration et la soc
   notamment en matière de coproduction législative.
 ---
 
-<figure class='image-right' style='width: 40%; margin-right: 10px;'>
+<figure class='image-left' style='width: 40%; margin-right: 10px;'>
 <img src="/uploads/logo_ogp-4b4853.png"/>
 </figure>
 C'est un retour aux sources, dans la ville où l'impulsion a été donnée il y a plus de deux siècles. En décembre prochain, Paris accueillera le sommet mondial du Partenariat pour un gouvernement ouvert (PGO, en anglais [Open Government Partnership](https://www.opengovpartnership.org/){:target"_blank"}, dont la France aura pris la présidence quelques semaines plus tôt.
@@ -25,3 +25,8 @@ C'est un retour aux sources, dans la ville où l'impulsion a été donnée il y 
 * **Art. 14**. Tous les Citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée.
 * **Art. 15**. La Société a le droit de demander compte à tout Agent public de son administration.
 {: .encadre}
+
+#### Quatre principes déclinés dans des plans d'actions nationaux
+Les 69 Etats membres du PGO adhèrent à quatre grands principes : la transparence de l'action publique, la participation citoyenne, l'intégrité de l'administration et l'utilisation des technologies numériques. Ils s'engagent, en outre, à les traduire dans des plans d'actions établis pour une durée de deux ans.
+<figure class='image-centre' style='width: 40%; margin-right: 10px; margin-left: 10px;'><img src="/uploads/principes-pgo.png"/>
+</figure>
