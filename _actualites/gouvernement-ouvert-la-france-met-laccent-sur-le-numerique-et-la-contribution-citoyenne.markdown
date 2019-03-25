@@ -17,7 +17,7 @@ C'est un retour aux sources, dans la ville où l'impulsion a été donnée il y 
 
 *« Le concept de gouvernement ouvert s'inspire de trois articles inscrits dans la Déclaration des droits de l'homme et du citoyen du 26 août 1789 »*, rappelle Laure Lucchesi, directrice de la mission Etalab, la structure en charge des données ouvertes et du gouvernement ouvert au sein du SGMAP, le secrétariat général pour la modernisation de l'action publique. *« Le numérique  ouvre aujourd’hui des possibilités nouvelles pour appliquer concrètement ces principes. »*
 
-<figure class='image-right' style='width: 40%; margin-right: 10px;'>
+> <figure class='image-right' style='width: 40%; margin-left: 10px;'>
 <img src="/uploads/350px-le_barbier_dichiarazione_dei_diritti_delluomo.jpg"/>
 </figure>
 > #### Un héritage de 1789
