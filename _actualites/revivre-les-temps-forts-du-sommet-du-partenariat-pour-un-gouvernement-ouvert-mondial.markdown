@@ -2,6 +2,13 @@
 title: Revivre les temps forts du sommet du Partenariat pour un gouvernement ouvert
   mondial
 date: 2019-03-25 09:57:00 +01:00
+categories:
+- Article
+tags:
+- Gouvernement ouvert
+- Transparence
+- Données ouvertes
+- Etalab
 chapeau-text: 'Organisé tous les deux ans, le sommet mondial du Partenariat pour un
   gouvernement ouvert (OGP Global Summit) a rassemblé, du 27 au 29 octobre au Mexique,
   plus de 2 000 acteurs internationaux du gouvernement ouvert afin de partager leurs
@@ -11,6 +18,8 @@ chapeau-text: 'Organisé tous les deux ans, le sommet mondial du Partenariat pou
   et de nombreuses rencontres bilatérales. Retours sur ces trois jours qui ont vu,
   entre autres, la France devenir vice-présidente du PGO et signataire de la charte
   internationale sur les données ouvertes.'
+une-ou-diaporama:
+- image: "/uploads/bandeaux-articles-ogp-summit.jpg"
 ---
 
 #### Le partage d’expériences : l’essence du sommet
