@@ -15,7 +15,7 @@ chapeau-text: La France encourage les alliances entre l'administration et la soc
   notamment en matière de coproduction législative.
 ---
 
-<figure class='image-left' style='width: 40%; margin-right: 10px;'>
+<figure class='image-left' style='width: 50%; margin-right: 10px;'>
 <img src="/uploads/logo_ogp-4b4853.png"/>
 </figure>
 C'est un retour aux sources, dans la ville où l'impulsion a été donnée il y a plus de deux siècles. En décembre prochain, Paris accueillera le sommet mondial du Partenariat pour un gouvernement ouvert (PGO, en anglais [Open Government Partnership](https://www.opengovpartnership.org/){:target"_blank"}, dont la France aura pris la présidence quelques semaines plus tôt.
