@@ -5,10 +5,13 @@ chapeau-text: Dans le cadre du sommet mondial du partenariat pour un gouvernemen
   ouvert qui s’est tenu à Paris du 7 au 9 décembre 2016, la soirée du 8 décembre a
   été consacrée à la Nuit de la démocratie. Il s’agit d’un temps fort de débat et
   de réflexion collective autour des enjeux du renouveau de la démocratie.
+une-ou-diaporama:
+- image: "/uploads/nuit-democratie-pgo_une.png"
 ---
 
 Révolution numérique et démocratie, pouvoir d’agir et intelligence collective, renouveau de l’éducation : trois thématiques au cœur du débat de cette nuit riche en idées. La soirée a été introduite par Timothy Garton Ash, professeur en études européennes à l'université d'Oxford. Découvrez une partie des échanges qui ont fait vibrer cette soirée.
 > <br>
+<br>
 > **La nuit de la démocratie** a été modérée par Julien Letailleur, avatar de la participation citoyenne sur la plateforme Toguna permettant aux citoyens de prendre part au débat. Au total, 70 propositions et 2 000 votes ont été comptabilisés sur la plateforme. Les participants ont proposé des axes de programme pour une éventuelle candidature de Julien Letailleur pour représenter la société civile au sein du Comité directeur de l’OGP.
 {: .encadre}
 
