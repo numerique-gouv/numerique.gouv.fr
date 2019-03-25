@@ -61,6 +61,8 @@ Pour Guillaume Chevillon (photo ci-contre), *« il est important d'avoir le code
 #### La loi s'adapte aux évolutions technologiques
 <figure class='image-centre' style='width: 100%;'><img src="/uploads/loi-repnum.jpg"/></figure>
 {: .text-center}
+<br>
+<br>
 Pour répondre aux évolutions technologiques, le droit doit s'adapter et inventer de nouveaux concepts. La France s'est dotée d'une [loi pour une République numérique](https://www.gouvernement.fr/action/pour-une-republique-numerique){:target="_blank"} qui consacre les principes de transparence, de loyauté et de neutralité des plateformes sur Internet (les algorithmes sont évidemment concernés). C’est une condition pour garantir la fiabilité, la crédibilité et la diversité des résultats affichés.
 
 Autre avancée de la loi : la portabilité des données. Elle vise à permettre à chacun de disposer librement de ses données personnelles et d'usage et de les récupérer. Ce principe de portabilité qui avait été adopté pour les numéros de téléphone a simplifié le passage d’un opérateur à l’autre.
