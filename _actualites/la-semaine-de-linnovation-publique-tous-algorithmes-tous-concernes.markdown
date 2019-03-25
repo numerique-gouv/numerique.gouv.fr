@@ -60,7 +60,7 @@ Pour répondre aux évolutions technologiques, le droit doit s'adapter et invent
 
 Autre avancée de la loi : la portabilité des données. Elle vise à permettre à chacun de disposer librement de ses données personnelles et d'usage et de les récupérer. Ce principe de portabilité qui avait été adopté pour les numéros de téléphone a simplifié le passage d’un opérateur à l’autre.
 
-> ####L’usage des algorithmes par la puissance publique, plus transparent
+> #### L’usage des algorithmes par la puissance publique, plus transparent
 > <br>
 > *« Depuis 1978, il est interdit en France de prendre une décision individuelle en matière de justice et de police sur le seul fondement d'un calcul algorithmique »*, a rappelé Henri Verdier.
 > <br>
@@ -72,6 +72,7 @@ Pour les autres cas, les administrations sont tenues de publier en ligne les rè
 #### Des principes fondamentaux toujours d'actualité 
 
 Les évolutions législatives trouvent leur inspiration dans les fondamentaux des différentes conventions des droits de l'homme : respect des libertés fondamentales, droit à la vie privée, transparence de l'information publique… Axelle Lemaire a insisté sur le fait que *« ces principes sont toujours applicables aujourd’hui à l'environnement numérique »*.
->[(Re)voir l'intégralité de la table ronde en vidéo](https://www.dailymotion.com/video/x52onf2){:target="_blank"}(débute à 20')
+> [(Re)voir l'intégralité de la table ronde en vidéo](https://www.dailymotion.com/video/x52onf2){:target="_blank"}
+{: .lien-important} (débute à 20')
 
  
