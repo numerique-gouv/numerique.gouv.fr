@@ -77,5 +77,4 @@ Pour les autres cas, les administrations sont tenues de publier en ligne les rè
 #### Des principes fondamentaux toujours d'actualité 
 
 Les évolutions législatives trouvent leur inspiration dans les fondamentaux des différentes conventions des droits de l'homme : respect des libertés fondamentales, droit à la vie privée, transparence de l'information publique… Axelle Lemaire a insisté sur le fait que*« ces principes sont toujours applicables aujourd’hui à l'environnement numérique »*. <br>
-[(Re)voir l'intégralité de la table ronde en vidéo](https://www.dailymotion.com/video/x52onf2){:target="_blank"}
-{: .lien-important}
+[(Re)voir l'intégralité de la table ronde en vidéo](https://www.dailymotion.com/video/x52onf2){:target="_blank"}(à partir de la 20')
