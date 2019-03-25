@@ -51,8 +51,7 @@ La forme que doit prendre la publication des algorithmes suscite des débats au 
 Pour Guillaume Chevillon (photo ci-contre), *« il est important d'avoir le code et les explications de leurs auteurs pour expliquer les décisions et favoriser les interactions »*. La solution est à chercher dans les concepts du logiciel libre. Le code y est organisé pour être documenté, commenté et recevoir des évolutions collaboratives. Les données qui alimentent les algorithmes constituent un autre sujet majeur de réflexion.
 
 #### La loi s'adapte aux évolutions technologiques
-> <figure class='image-centre' style='width: 100%; margin-right: 10px;'>
-<img src="/uploads/loi-repnum.jpg"/></figure>
+<figure class='image-centre' style='width: 100%;'><img src="/uploads/loi-repnum.jpg"/></figure>
 {: .text-center}
 Pour répondre aux évolutions technologiques, le droit doit s'adapter et inventer de nouveaux concepts. La France s'est dotée d'une [loi pour une République numérique](https://www.gouvernement.fr/action/pour-une-republique-numerique){:target="_blank"} qui consacre les principes de transparence, de loyauté et de neutralité des plateformes sur Internet (les algorithmes sont évidemment concernés). C’est une condition pour garantir la fiabilité, la crédibilité et la diversité des résultats affichés.
 
