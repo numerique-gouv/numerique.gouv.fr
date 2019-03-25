@@ -18,7 +18,7 @@ C'est un retour aux sources, dans la ville où l'impulsion a été donnée il y 
 
 > #### Un héritage de 1789
 > <figure class='image-right' style='width: 40%; margin-left: 10px;'>
-<img src="/uploads/350px-le_barbier_dichiarazione_dei_diritti_delluomo.jpg"/>
+> <img src="/uploads/350px-le_barbier_dichiarazione_dei_diritti_delluomo.jpg"/>
 </figure> Les principes de redevabilité, de transparence et de participation énoncés dans la charte du PGO trouvent leur source dans la Déclaration des droits de l'homme et du citoyen.
 > <br>
 * **Art. 6**. La Loi est l'expression de la volonté générale. Tous les Citoyens ont droit de concourir personnellement, ou par leurs Représentants, à sa formation.
