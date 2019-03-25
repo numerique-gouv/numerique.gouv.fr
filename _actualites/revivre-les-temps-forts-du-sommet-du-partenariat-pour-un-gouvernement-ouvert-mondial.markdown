@@ -31,5 +31,11 @@ Cette année, le sommet a porté une attention particulière au rôle du gouvern
 Depuis février 2015, la France travaille à l’élaboration d’une [charte internationale sur les données ouvertes](http://opendatacharter.net/principles-fr/){:target="_blank"} aux côtés notamment du Canada et du Mexique, qui ont lancé ce projet dans le cadre du [groupe de travail open data](https://www.opengovpartnership.org/user/login?destination=node/5486){:target="_blank"} du PGO.
 
 Inspirée de la [charte open data du G8 de 2013](https://www.etalab.gouv.fr/leschefsdetatdug8signentunechartepourlouverturedesdonneespubliques){:target="_blank"}, cette déclaration consacre six principes pour des données détenues par les administrations nationales, régionales, locales et municipales, les organismes gouvernementaux internationaux et d’autres types d’institutions du secteur public :
+1. ouvertes par défaut ;
+2. diffusées en temps opportun et exhaustives ;
+3. accessibles et utilisables ;
+4. comparables et interopérables ;
+5.servant à l’amélioration de la gouvernance et de la participation citoyenne ;
+6.favorisant le développement inclusif et l’innovation.
 
 
