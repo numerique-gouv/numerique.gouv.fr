@@ -35,7 +35,7 @@ Les principes de redevabilité, de transparence et de participation énoncés da
 Les 69 Etats membres du PGO adhèrent à quatre grands principes : la transparence de l'action publique, la participation citoyenne, l'intégrité de l'administration et l'utilisation des technologies numériques. Ils s'engagent, en outre, à les traduire dans des plans d'actions établis pour une durée de deux ans.
 <figure class='image-centre' style='width: 60%; margin-right: 10px; margin-left: 10px;'><img src="/uploads/principes-pgo.png"/>
 </figure>
-
+{: .text-center}
 Les dosages entre ces principes et leurs traductions en termes d'engagements diffèrent significativement en fonction des cultures des pays, de leurs priorités et de leur niveau de maturité technologique. Le programme de la Côte d'Ivoire, qui vient de rejoindre le PGO, diffère de celui des Etats-Unis, du Brésil ou de la Norvège. *« Avec [son plan d'action 2015-2017](http://www.modernisation.gouv.fr/laction-publique-se-transforme/en-ouvrant-les-donnees-publiques/gouvernement-ouvert-la-france-publie-son-plan-daction-national-ogp){:target="_blank"}, la France affirme sa volonté d’être à l’avant-garde en matière de gouvernement ouvert »*, déclare Laure de la Bretèche, secrétaire générale du SGMAP.
 
 #### La collaboration appliquée à la production législative
