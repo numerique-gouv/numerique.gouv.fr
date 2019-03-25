@@ -1,6 +1,12 @@
 ---
 title: 'La Semaine de l''innovation publique : Tous algorithmés, tous concernés !'
 date: 2019-03-25 15:58:00 +01:00
+categories:
+- Article
+tags:
+- Semaine de l'innovation publique
+- Innovation publique
+- Numérique
 chapeau-text: La table ronde « Demain, tous algorithmés ? », organisée le 19 novembre
   dans le cadre de la [Semaine de l'innovation publique](https://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique){:target="_blank"},
   a souligné le rôle croissant des algorithmes dans la vie quotidienne des citoyens.
@@ -8,6 +14,8 @@ chapeau-text: La table ronde « Demain, tous algorithmés ? », organisée le 19
   pistes pour redonner les moyens à la société et aux politiques de s'emparer d'un
   sujet de réflexion, qui ne peut être laissé entre les mains des seuls grands noms
   du web.
+une-ou-diaporama:
+- image: "/uploads/tousalgo_une3_0.png"
 ---
 
 <figure class='image-left' style='width: 40%; margin-right: 10px;'>
