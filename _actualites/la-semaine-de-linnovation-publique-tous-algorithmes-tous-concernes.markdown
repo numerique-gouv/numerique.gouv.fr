@@ -45,7 +45,8 @@ Dès lors, les réflexions ne peuvent être abandonnées aux sociétés privées
  
 #### Le code à l'école pour rendre les citoyens plus autonomes
 <figure class='image-centre' style='width: 100%;'><img src="/uploads/tousalgo_une2.png"/></figure>
-{: .text-center}
+{: .text-center}<br>
+<br>
 Loin de s'offusquer de la polémique récente autour du traitement automatisé de l'admission post-bac (APB), Axelle Lemaire l'a jugée au contraire salutaire : « elle a permis au grand public de réaliser l'enjeu à l'intérieur de la machine algorithmique ». Elle a également vanté les bienfaits de l'ouverture des algorithmes, comme ce fut le cas en début d'année pour le calculateur de l'impôt sur le revenu de Bercy.
 
 Cette politique d'ouverture, déjà mise en œuvre avec l'open data, fait toutefois surgir de nouveaux défis. Elle suppose une montée en compétence de l'ensemble de la société. L'apprentissage du code à l'école s'inscrit dans cette logique qui vise à outiller les citoyens en leur donnant les moyens de s'emparer de ces sujets et d'exercer leurs prérogatives. Et pourquoi pas prévoir la co-construction d'algorithmes avec les citoyens ! Des premières initiatives vont dans ce sens.
