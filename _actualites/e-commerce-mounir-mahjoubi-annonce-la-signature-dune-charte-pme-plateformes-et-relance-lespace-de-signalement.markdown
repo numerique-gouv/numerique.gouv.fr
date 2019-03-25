@@ -9,6 +9,8 @@ tags:
 - PME
 chapeau-text: A l’occasion de la signature de la charte e-commerce, Mounir Mahjoubi
   relance et pérennise la plateforme de signalement des difficultés PME-plateformes.
+une-ou-diaporama:
+- image: "/uploads/20181030_%20Portrait_Mounir_Mahjoubi_PhotoGezelinGree_15_recadree.jpg"
 auteur: Secrétariat d'État chargé du Numérique
 ---
 
