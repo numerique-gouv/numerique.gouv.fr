@@ -25,8 +25,8 @@ Les engagements s’articulent autour de trois axes :
 2. **La garantie d’un échange ouvert, fiable et individualisé**
 
 3. **Une lutte contre la contrefaçon plus agile et plus efficace**
-
-
+<br>
+<br>
 ### Assurer le suivi des difficultés rencontrées avec les plateformes de vente en ligne
 {: .margin-top-2 .margin-bottom-1} 
 En parallèle, Mounir Mahjoubi relance et pérennise la plateforme de signalement des difficultés entre PME et plateformes, initialement mise en place à l’automne 2018.
