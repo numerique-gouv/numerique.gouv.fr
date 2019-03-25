@@ -52,8 +52,7 @@ Pour Guillaume Chevillon (photo ci-contre), *« il est important d'avoir le code
 
 #### La loi s'adapte aux évolutions technologiques
 > <figure class='image-centre' style='width: 100%; margin-right: 10px;'>
-<img src="/uploads/loi-repnum.jpg"/>
-</figure>
+<img src="/uploads/loi-repnum.jpg"/></figure>
 {: .text-center}
 Pour répondre aux évolutions technologiques, le droit doit s'adapter et inventer de nouveaux concepts. La France s'est dotée d'une [loi pour une République numérique](https://www.gouvernement.fr/action/pour-une-republique-numerique){:target="_blank"} qui consacre les principes de transparence, de loyauté et de neutralité des plateformes sur Internet (les algorithmes sont évidemment concernés). C’est une condition pour garantir la fiabilité, la crédibilité et la diversité des résultats affichés.
 
