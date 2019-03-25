@@ -3,7 +3,7 @@ title: 'E-commerce : Mounir Mahjoubi annonce la signature d’une charte PME-pla
   et relance l’espace de signalement'
 date: 2019-03-25 10:22:00 +01:00
 categories:
-- Appel à contributions
+- Article
 tags:
 - e-commerce
 - PME
