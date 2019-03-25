@@ -37,7 +37,7 @@ En attendant, les algorithmes ne contribuent pas seulement à façonner des opin
 Dès lors, les réflexions ne peuvent être abandonnées aux sociétés privées. « Il faut se prémunir contre cette vision que les entreprises et les technologies vont sauver le monde », a ajouté Gilles Babinet (photo ci-contre). Les intervenants de la table ronde se sont accordés sur les vertus de l'indispensable débat public pour sensibiliser la société dans son ensemble et, en particulier les politiques, aux enjeux des algorithmes et de l'intelligence artificielle qui démultiplie leur potentiel.
  
 #### Le code à l'école pour rendre les citoyens plus autonomes
-<figure class='image-centre' style='width: 40%;'><img src="/uploads/tousalgo_une2.png"/></figure>
+> <figure class='image-centre' style='width: 100%;'><img src="/uploads/tousalgo_une2.png"/></figure>
 {: .text-center}
 Loin de s'offusquer de la polémique récente autour du traitement automatisé de l'admission post-bac (APB), Axelle Lemaire l'a jugée au contraire salutaire : « elle a permis au grand public de réaliser l'enjeu à l'intérieur de la machine algorithmique ». Elle a également vanté les bienfaits de l'ouverture des algorithmes, comme ce fut le cas en début d'année pour le calculateur de l'impôt sur le revenu de Bercy.
 
