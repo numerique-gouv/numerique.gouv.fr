@@ -19,7 +19,7 @@ Elle intervenait samedi 19 novembre à la table ronde « Demain, tous algorithm�
 
 > #### Algorithme : qu'est-ce que c'est et à quoi sert-il ?
 ><br>
-> **Définition** : série d'instructions qui impliquent des calculs à partir de données pour aboutir à un résultat.
+> **Définition** : série d'instructions qui impliquent des calculs à partir de données pour aboutir à un résultat. <br>
 > **Usages** : optimisation du calcul du prix d'un billet d'avion ou de train à partir d'un système de « yield management », réservation d'une voiture avec chauffeur ou proposition de co-voiturage, recommandation de films ou de livres en ligne, référencement par les moteurs de recherche, filtrage de contenus sur les réseaux sociaux, mais aussi calcul du montant de l'impôt sur le revenu ou du montant d'un crédit impôt recherche...
 {: .encadre}
 
@@ -28,8 +28,7 @@ La secrétaire d'Etat a notamment dénoncé les risques que font peser les méca
 
 <figure class='image-left' style='width: 40%; margin-right: 10px;'>
 <img src="/uploads/tousalgo-henri.png"/>
-</figure>
-Henri Verdier (photo ci-contre) a renchéri en déplorant une dissymétrie entre le droit de la presse, conçu à la sortie de la deuxième guerre mondiale pour garantir la pluralité des idées dans les médias, et les pratiques de Google et Facebook, qui ne rendent aucun compte sur les mécanismes utilisés pour hiérarchiser et mettre en avant des contenus. *« L’absence de prise en compte par les algorithmes de certains critères, comme la véracité de l'information, aura des conséquences sur un temps plus long »*, a souligné Guillaume Chevillon. Les individus adapteront leurs comportements en conséquence. Quand les compagnies aériennes ont commencé à utiliser des cookies pour capturer de l’information et optimiser leurs tarifs, les internautes les effaçaient pour payer moins cher.
+</figure>Henri Verdier (photo ci-contre) a renchéri en déplorant une dissymétrie entre le droit de la presse, conçu à la sortie de la deuxième guerre mondiale pour garantir la pluralité des idées dans les médias, et les pratiques de Google et Facebook, qui ne rendent aucun compte sur les mécanismes utilisés pour hiérarchiser et mettre en avant des contenus. *« L’absence de prise en compte par les algorithmes de certains critères, comme la véracité de l'information, aura des conséquences sur un temps plus long »*, a souligné Guillaume Chevillon. Les individus adapteront leurs comportements en conséquence. Quand les compagnies aériennes ont commencé à utiliser des cookies pour capturer de l’information et optimiser leurs tarifs, les internautes les effaçaient pour payer moins cher.
 
 #### Un nouveau mode de gouvernance
 En attendant, les algorithmes ne contribuent pas seulement à façonner des opinions, leurs impacts économiques s'avèrent considérables. Le poids des plateformes de Google ou d'Amazon est tel qu'une modification des modes de calcul utilisés pour le référencement peut affecter significativement les chiffres d'affaires d'entreprises. « L'algorithme devient un mode de gouvernance », a affirmé Henri Verdier. Pour Axelle Lemaire, il doit être appréhendé comme un objet politique et interrogé sur ses usages et son fonctionnement.
@@ -37,7 +36,7 @@ En attendant, les algorithmes ne contribuent pas seulement à façonner des opin
 Dès lors, les réflexions ne peuvent être abandonnées aux sociétés privées. « Il faut se prémunir contre cette vision que les entreprises et les technologies vont sauver le monde », a ajouté Gilles Babinet (photo ci-contre). Les intervenants de la table ronde se sont accordés sur les vertus de l'indispensable débat public pour sensibiliser la société dans son ensemble et, en particulier les politiques, aux enjeux des algorithmes et de l'intelligence artificielle qui démultiplie leur potentiel.
  
 #### Le code à l'école pour rendre les citoyens plus autonomes
-> <figure class='image-centre' style='width: 100%;'><img src="/uploads/tousalgo_une2.png"/></figure>
+<figure class='image-centre' style='width: 100%;'><img src="/uploads/tousalgo_une2.png"/></figure>
 {: .text-center}
 Loin de s'offusquer de la polémique récente autour du traitement automatisé de l'admission post-bac (APB), Axelle Lemaire l'a jugée au contraire salutaire : « elle a permis au grand public de réaliser l'enjeu à l'intérieur de la machine algorithmique ». Elle a également vanté les bienfaits de l'ouverture des algorithmes, comme ce fut le cas en début d'année pour le calculateur de l'impôt sur le revenu de Bercy.
 
