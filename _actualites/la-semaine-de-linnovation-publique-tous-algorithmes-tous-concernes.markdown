@@ -52,7 +52,7 @@ La forme que doit prendre la publication des algorithmes suscite des débats au 
 Pour Guillaume Chevillon (photo ci-contre), *« il est important d'avoir le code et les explications de leurs auteurs pour expliquer les décisions et favoriser les interactions »*. La solution est à chercher dans les concepts du logiciel libre. Le code y est organisé pour être documenté, commenté et recevoir des évolutions collaboratives. Les données qui alimentent les algorithmes constituent un autre sujet majeur de réflexion.
 
 #### La loi s'adapte aux évolutions technologiques
-<figure class='image-centre' style='width: 40%; margin-right: 10px;'>
+> <figure class='image-centre' style='width: 100%; margin-right: 10px;'>
 <img src="/uploads/loi-repnum.jpg"/>
 </figure>
 {: .text-center}
