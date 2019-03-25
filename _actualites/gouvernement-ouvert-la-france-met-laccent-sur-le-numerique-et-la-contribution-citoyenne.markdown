@@ -14,6 +14,8 @@ chapeau-text: La France encourage les alliances entre l'administration et la soc
   en œuvre avec l'open data, pour bâtir un gouvernement ouvert. Cette volonté se traduit
   dans plusieurs engagements de son plan d'action national pour la période 2015-2017,
   notamment en matière de coproduction législative.
+une-ou-diaporama:
+- image: "/uploads/pgo-francais_une.png"
 ---
 
 <figure class='image-left' style='width: 30%; margin-right: 10px;'>
