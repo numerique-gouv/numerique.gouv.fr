@@ -28,12 +28,12 @@ L’échange se poursuivra ensuite avec tous les participants.
 
 >
 > <br> 
-> *Quand ?*
+> *Quand ?*<br>
 > Jeudi 11 avril 2019 de 19h à 21h30
-> *Où ?*
-> Liberte Living-Lab
-> 9 rue d’Alexandrie
-> 75002 , Paris
+> *Où ?*<br>
+> Liberte Living-Lab<br>
+> 9 rue d’Alexandrie<br>
+> 75002 , Paris<br>
 > Pour tout complément d’information : jihane.herizi@beta.gouv.fr
 {: .encadre}
 
