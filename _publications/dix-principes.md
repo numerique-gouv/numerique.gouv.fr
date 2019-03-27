@@ -119,10 +119,17 @@ principes:
 - principe: 
   order: 10
   title: "... s’améliore en continu"
-  content-text: |-
+  content-text: |
     La démarche en ligne **évolue régulièrement en prenant en compte l’avis des usagers** (enquête annuelle, tests utilisateurs, réclamations…), **des agents et des partenaires**, ainsi que les statistiques d’utilisation.
 
     **Les réclamations sont analysées et traitées** comme des signaux prioritaires.
+files:
+- lien: "/uploads/10_principes_demarches-en-ligne.pdf"
+  nom: Télécharger la version imprimable des 10 principes
+- lien: "/uploads/Affiche-10-principes_HD.PDF"
+  nom: Télécharger l'affiche des 10 principes (HD)
+- lien: 
+  nom: Télécharger la description textuelle de l'affiche
 layout: dix-principes
 ---
 
