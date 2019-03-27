@@ -1,6 +1,10 @@
 ---
 title: 'PGO : une nuit pour parler de démocratie'
 date: 2019-03-25 18:09:00 +01:00
+tags:
+- Partenariat pour le gouvernement ouvert
+- Transparence
+- Démocratie
 chapeau-text: Dans le cadre du sommet mondial du partenariat pour un gouvernement
   ouvert qui s’est tenu à Paris du 7 au 9 décembre 2016, la soirée du 8 décembre a
   été consacrée à la Nuit de la démocratie. Il s’agit d’un temps fort de débat et
@@ -11,7 +15,6 @@ une-ou-diaporama:
 
 Révolution numérique et démocratie, pouvoir d’agir et intelligence collective, renouveau de l’éducation : trois thématiques au cœur du débat de cette nuit riche en idées. La soirée a été introduite par Timothy Garton Ash, professeur en études européennes à l'université d'Oxford. Découvrez une partie des échanges qui ont fait vibrer cette soirée.
 > <br>
-<br>
 > **La nuit de la démocratie** a été modérée par Julien Letailleur, avatar de la participation citoyenne sur la plateforme Toguna permettant aux citoyens de prendre part au débat. Au total, 70 propositions et 2 000 votes ont été comptabilisés sur la plateforme. Les participants ont proposé des axes de programme pour une éventuelle candidature de Julien Letailleur pour représenter la société civile au sein du Comité directeur de l’OGP.
 {: .encadre}
 
@@ -34,7 +37,8 @@ Pour Nigel Shalbolt, les nouvelles technologies évoluent sans cesse et garantir
 
 
 
-> **Henri Verdier, directeur Interministériel du Numérique au SGMAP :**<br>
+> <br>
+**Henri Verdier, directeur Interministériel du Numérique au SGMAP :**<br>
 > « Sur la question du web social, j’ai pensé à trois choses mais qui nous appellent aussi à une plus grande pensée en sciences humaines parce que Twitter, Facebook, le web social mais qui n’est pas le seul lieu de construction d’une démocratie collaborative, c’est une conversation. Premièrement il faut se demander sur quoi porte la conversation en vrai ? Et deuxièmement une conservation cela se trolle, et aujourd’hui j’ai une extraordinaire inquiétude sur le fait que ce lieu où nous avons rêvé ce monde nouveau est aujourd’hui hackable, il est très manipulable. Il faut commencer à y réfléchir… » <br>
 > <br>
 > **Joël de Rosnay, prospectiviste :**<br>
@@ -51,12 +55,12 @@ Durant la deuxième partie de soirée, le débat a été axé autour de  la ques
 <br>
 **Production participative et démocratie**<br>
 Selon Suzanne Vergnolle, le crowdsourcing est essentiel pour faire avancer la démocratie. Pour actionner cette production participative, il faut faire confiance aux autres sur internet et garantir le droit à l’anonymat. Suzanne Vergnolle est membre de Regards Citoyens. Cette association propose plusieurs initiatives permettant la participation de citoyens telles que :
-*[NosDéputés.fr](https://www.regardscitoyens.org/nosdeputes-fr/){:target="_blank"} & [NosSénateurs.fr](https://www.regardscitoyens.org/nossenateurs-fr/){:target="_blank"} qui sont des plateformes de médiation entre citoyens et élus. Le site propose à chacun de participer et de s’exprimer sur les débats parlementaires.
-*Le lancement d’une plateforme de crowdsourcing  avec  les déclarations des représentants d’intérêts après la loi de 2013 et la fabrique de la loi.
-*L’analyse des contributions pendant la consultation avec l’Assemblée nationale.
+* [NosDéputés.fr](https://www.regardscitoyens.org/nosdeputes-fr/){:target="_blank"} & [NosSénateurs.fr](https://www.regardscitoyens.org/nossenateurs-fr/){:target="_blank"} qui sont des plateformes de médiation entre citoyens et élus. Le site propose à chacun de participer et de s’exprimer sur les débats parlementaires.
+* Le lancement d’une plateforme de crowdsourcing  avec  les déclarations des représentants d’intérêts après la loi de 2013 et la fabrique de la loi.
+* L’analyse des contributions pendant la consultation avec l’Assemblée nationale.
 <br>
 <br>
-**Participation citoyenne et démocratie**
+**Participation citoyenne et démocratie**<br>
 Pablo Soto a présenté une initiative développée en Espagne en 2011 où un mouvement citoyen impulsé par les réseaux sociaux a su bousculer la démocratie et donner la parole aux citoyens qui demandaient « la démocratie réelle ». Cette vague de participation s’est déclinée au niveau local, par exemple à Madrid, avec la création de la plateforme « Decide Madrid ». Il s’agit d’une plateforme sur laquelle les citoyens peuvent contribuer et où chaque proposition qui obtient plus de 1% de vote passe au conseil municipal afin d’être voté. D’après Pablo Soto, c’est en utilisant les logiciels libres que l’Espagne a su propager l’idée d’une démocratie axée sur la participation citoyenne et qu’aujourd’hui 25 villes d’Espagne utilisent l’outil développé à Madrid.
 
 **Rationalité publique et démocratie**
@@ -64,9 +68,10 @@ Pablo Soto a présenté une initiative développée en Espagne en 2011 où un mo
 <img src="/uploads/nuit-democratie-pgo-cynthia_fleury-sandra_laugier_3.jpg"/></figure>
 Selon la philosophe et psychanalyste Cynthia Fleury, les citoyens participent à la démocratie dans le sens où ils créent de la rationalité publique. Pour elle, c’est le rôle des médias traditionnels de réguler, vérifier l’information or ils sont débordés et bientôt ils ne pourront plus faire ce travail. C’est donc aux citoyens de faire un travail d’enquête pour vérifier ces informations. Ainsi, les sciences humaines et sociales arrivent dans la démocratie. Mais l’intervenante s’interroge sur la question de la formation, comment former des citoyens à ce travail d’enquête ? Et comment finance-t-on cette formation ?
 
-**Révolution de savoir et démocratie**
+**Révolution de savoir et démocratie**<br>
 Pour Sandra Laugier, la démocratie n’est plus une question institutionnelle, ni de pouvoir politique. Selon elle, la démocratie est un ensemble d’activités qui s’est développé grâce aux nouvelles technologies. La démocratie s’est déplacée dans des désirs et aspirations. L’enjeu est épistémologique, scientifique, avant même d’être politique. D’après elle, « la vraie révolution démocratique, est une révolution de savoir et non de pouvoir ».
-<br
-> **La soirée s’est poursuivie** autour de la problématique du renouvellement de la l’éducation. Jérémy Lachal, directeur at Bibliothèques Sans Frontières, Navi Radjou, auteur intervenant et stratégiste, et François Taddei, biologiste au centre de recherches interdisciplinaires, sont intervenus sur cette troisième et dernière partie de la nuit de la démocratie.
+<br>
+> <br>
+**La soirée s’est poursuivie** autour de la problématique du renouvellement de la l’éducation. Jérémy Lachal, directeur at Bibliothèques Sans Frontières, Navi Radjou, auteur intervenant et stratégiste, et François Taddei, biologiste au centre de recherches interdisciplinaires, sont intervenus sur cette troisième et dernière partie de la nuit de la démocratie.
 >> [Regarder les interventions sur ce thème](https://www.youtube.com/watch?v=3RhHtl2uQvs&feature=youtu.be&t=8217){:target="_blank"}
-
+{: .encadre}
