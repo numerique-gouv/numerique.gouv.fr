@@ -29,3 +29,16 @@ Après une série d’événements contributifs, organisés entre avril et déce
 {: .text-center}
 
 Le hackathon OGP toolbox, a été initié au Palais de l’Elysée le 7 décembre et a été ouvert en continu au palais d’Iéna les 8 et 9 décembre. Pendant le Sommet, les communautés du gouvernement ouvert (administrations, porteurs de projets associatifs, collectifs de développeurs) ont participé à son enrichissement : en référençant de nouveaux outils, en partageant des cas d’usages, en développant de nouvelles fonctionnalités, en déclinant des plateformes existantes pour d’autres pays. Plus de 500 participants se sont réunis et 70 projets ont été développés. Ce hackathon, temps fort du Sommet a permis de dessiner un trait d’union entre des écosystèmes parfois éloignés.
+
+> *Hackathon* : Evènement d’une ou deux journées pendant lequel des développeurs se réunissent pour travailler ensemble sur des ressources ouvertes et en proposer des réutilisations concrètes.
+{: .encadre}
+
+Ce sont les collaborations techniques à long terme entre administrations et organisations de la société civile de différents pays qui ont apporté les contributions les plus significatives à l’OGP toolbox et qui ont, à ce titre, été encouragées par les organisateurs lors de ces trois jours de travail.
+ 
+#### Zoom sur quatre projets développés lors du sommet
+
+**Un modèle ouvert** : OpenFisca
+<figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/graphe-modernisation.png"/></figure>
+Créé par près de 40 contributeurs, OpenFisca est un moteur de simulation ouvert qui permet de calculer un grand nombre de prestations sociales, d'impôts payés par les ménages  et de simuler l'impact des réformes sur leur budget. A visée pédagogique, il a pour objectif de permettre aux citoyens une meilleure compréhension du système socio-fiscal français. Cet outil a permis la création du site [« mes-aides.gouv.fr »](https://mes-aides.gouv.fr/){: target="_blank"} qui offre la possibilité,  en quelques clics, de connaitre l’ensemble des prestations sociales dont peut bénéficier une personne. OpenFisca s’exporte aujourd’hui à l’international et notamment à Dakar où un hackathon a été organisé pour le transposer au système socio-fiscal sénégalais. Lors du sommet, Oumar Diop DIAGNE, inspecteur principal des impôts et économiste, a présenté les solutions envisagées au Sénégal. Aujourd’hui, le travail de recensement des différents impôts est très complexe à Dakar. La base de données et la formule de calcul étant saisies manuellement, la marge d’erreur est importante. Avec OpenFisca, après la saisie unique des données, l’algorithme permettrait un calcul plus sûr et une évaluation de la recette fiscale pour l’Etat mais aussi une estimation des impôts payés pour chaque citoyen sénégalais. Des collaborations ont également été engagées avec la Tunisie.
+>>[Cas d'usage au Sénégal](https://ogptoolbox.org/fr/use-cases/42879){:target="_blank"}
+>>[Cas d'usage en Tunisie](https://ogptoolbox.org/fr/use-cases/43508){:target="_blank"}
