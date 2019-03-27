@@ -59,7 +59,7 @@ Selon Suzanne Vergnolle, le crowdsourcing est essentiel pour faire avancer la d�
 * Le lancement d’une plateforme de crowdsourcing  avec  les déclarations des représentants d’intérêts après la loi de 2013 et la fabrique de la loi.
 * L’analyse des contributions pendant la consultation avec l’Assemblée nationale.
 <br>
-<br>
+
 **Participation citoyenne et démocratie**<br>
 Pablo Soto a présenté une initiative développée en Espagne en 2011 où un mouvement citoyen impulsé par les réseaux sociaux a su bousculer la démocratie et donner la parole aux citoyens qui demandaient « la démocratie réelle ». Cette vague de participation s’est déclinée au niveau local, par exemple à Madrid, avec la création de la plateforme « Decide Madrid ». Il s’agit d’une plateforme sur laquelle les citoyens peuvent contribuer et où chaque proposition qui obtient plus de 1% de vote passe au conseil municipal afin d’être voté. D’après Pablo Soto, c’est en utilisant les logiciels libres que l’Espagne a su propager l’idée d’une démocratie axée sur la participation citoyenne et qu’aujourd’hui 25 villes d’Espagne utilisent l’outil développé à Madrid.
 
