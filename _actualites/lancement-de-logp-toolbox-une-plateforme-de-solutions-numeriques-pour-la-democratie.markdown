@@ -2,6 +2,12 @@
 title: Lancement de l’OGP toolbox, une plateforme de solutions numériques pour la
   démocratie
 date: 2019-03-27 11:58:00 +01:00
+categories:
+- Article
+tags:
+- Sommet du partenariat pour un gouvernement ouvert
+- Partenariat pour un gouvernement ouvert
+- Numérique
 chapeau-text: 'Accélérer le mouvement du gouvernement ouvert grâce à des outils numériques,
   voilà un des engagements pris par la France et le World Resources Institute, les
   co-présidents du Partenariat pour un gouvernement ouvert (PGO). Première étape :
@@ -42,3 +48,23 @@ Ce sont les collaborations techniques à long terme entre administrations et org
 Créé par près de 40 contributeurs, OpenFisca est un moteur de simulation ouvert qui permet de calculer un grand nombre de prestations sociales, d'impôts payés par les ménages  et de simuler l'impact des réformes sur leur budget. A visée pédagogique, il a pour objectif de permettre aux citoyens une meilleure compréhension du système socio-fiscal français. Cet outil a permis la création du site [« mes-aides.gouv.fr »](https://mes-aides.gouv.fr/){: target="_blank"} qui offre la possibilité,  en quelques clics, de connaitre l’ensemble des prestations sociales dont peut bénéficier une personne. OpenFisca s’exporte aujourd’hui à l’international et notamment à Dakar où un hackathon a été organisé pour le transposer au système socio-fiscal sénégalais. Lors du sommet, Oumar Diop DIAGNE, inspecteur principal des impôts et économiste, a présenté les solutions envisagées au Sénégal. Aujourd’hui, le travail de recensement des différents impôts est très complexe à Dakar. La base de données et la formule de calcul étant saisies manuellement, la marge d’erreur est importante. Avec OpenFisca, après la saisie unique des données, l’algorithme permettrait un calcul plus sûr et une évaluation de la recette fiscale pour l’Etat mais aussi une estimation des impôts payés pour chaque citoyen sénégalais. Des collaborations ont également été engagées avec la Tunisie.
 >>[Cas d'usage au Sénégal](https://ogptoolbox.org/fr/use-cases/42879){:target="_blank"}
 >>[Cas d'usage en Tunisie](https://ogptoolbox.org/fr/use-cases/43508){:target="_blank"}
+
+**Consul,  un outil de consultation**
+<figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/consul-ogp.jpg"/></figure>
+Consul est une plateforme de consultation directe des citoyens. Développée à Madrid et utilisée pour le budget participatif de la capitale espagnole, elle est un espace de dialogue concret entre l’Etat et les citoyens. Cette plateforme permet aux citoyens de donner leur avis sur un projet qui concerne leur ville par un simple « oui » ou « non ». De même, Lutece est la plateforme de consultation pour le budget participatif de la ville de Paris. Un projet de mise en place d’une plateforme commune entre Paris et Madrid  devrait voir le jour, à partir des logiciels développés par les deux capitales. Ainsi, pour la première fois, le débat sera commun entre deux capitales européennes et une décision collective en provenance des parisiens et des madrilènes pourra être directement soumise.
+
+>> [Plus d’informations sur consul](ogptoolbox.org/fr/tools/4318){:target="_blank"}
+>> [Plus d'informations sur Lutèce](https://ogptoolbox.org/fr/tools/6918){:target="_blank"}
+
+**Un outil de visualisation : Cargografias**
+<figure class='image-right' style='width: 40%; margin-right: 10px;'><img src="/uploads/cargografias-ogp.jpg"/></figure>
+Cargografias est un outil de visualisation des mandats et positions portés par les politiques développé en Argentine et utilisé dans plusieurs pays d’Amérique latine comme l’Uruguay et le Paraguay. Lors du hackathon, des améliorations techniques ont été apportées à l’outil en collaboration avec d’autres initiatives internationales telles que Poplt NG (une version modifiée de Poplt/ Popolo data Standard élaboré par Sinar Project - Canada), « EveryPolitician » (UK) et de Wikidata (France). Ainsi, une instance pour la France a pu être mise en place : le résultat est un nouvel outil pour visualiser les mandats et positions portés par les politiques en France.
+
+>> [Voir tous les cas d'usage](https://ogptoolbox.org/fr/use-cases/43469){:target="_blank"}
+
+**Open Contracting**
+[*L’open contracting*](https://ogptoolbox.org/en/collections/10){:target="_blank"} toolbox est la boîte à outils réalisée par les pays qui travaillent autour de l’initiative du Contracting 5. Ces pays ont amélioré le standard international d’ouverture des données de la commande publique (ex : traduction en plusieurs langues) et référencé plusieurs outils utilisés dans d’autres pays qui pourraient permettre de faciliter la mise en transparence de données sur l’achat public pour de nouveaux entrants.
+
+>> Lire la déclaration d'engagement (en anglais)
+
+Découvrez l’ensemble des projets du hackathon du Sommet du Partenariat pour un gouvernement ouvert
