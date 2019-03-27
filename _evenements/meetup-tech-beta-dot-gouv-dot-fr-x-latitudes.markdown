@@ -5,6 +5,12 @@ chapeau-text: Beta.Gouv.fr, le réseau des incubateurs de Startups d’Etat pilo
   la DINSIC, lance son premier meetup, en partenariat avec Latitudes !
 une-ou-diaporama:
 - image: "/uploads/Meetup.PNG"
+event_start_date: 2011-01-01 00:00:00 +01:00
+event_end_date: 2011-01-01 00:00:00 +01:00
+lieu: Liberte Living-Lab
+adresse: |
+  9 rue d’Alexandrie
+  75002 , Paris
 ---
 
 Cette première édition réunira des développeurs impliqués dans des projets d’intérêt général, qui échangeront autour de problématiques techniques. 
@@ -22,7 +28,7 @@ Au programme, 4 interventions d’une quinzaine de minutes chacune :
 L’échange se poursuivra ensuite avec tous les participants. 
 
 >
-< <br> 
+> <br> 
 > *Quand ?*
 > Jeudi 11 avril 2019 de 19h à 21h30
 > *Où ?*
@@ -30,6 +36,6 @@ L’échange se poursuivra ensuite avec tous les participants.
 > 9 rue d’Alexandrie
 > 75002 , Paris
 > Pour tout complément d’information : jihane.herizi@beta.gouv.fr
-
+{: .encadre}
 
 
