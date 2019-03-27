@@ -1,9 +1,10 @@
 ---
 title: Meetup Tech - Beta.gouv.fr x Latitudes
 date: 2019-03-27 16:30:00 +01:00
+categories:
+- Rencontre
 chapeau-text: Beta.gouv.fr, le réseau des incubateurs de Startups d’État piloté par
   la DINSIC, lance son premier meetup, en partenariat avec Latitudes !
-categorie: Rencontre
 une-ou-diaporama:
 - image: "/uploads/Meetup.PNG"
 event_start_date: 2019-04-11 19:00:00 +02:00
@@ -26,7 +27,7 @@ Cette première édition est organisée en collaboration avec [Latitudes](http:/
 Au programme, 4 interventions d’une quinzaine de minutes chacune : 
 * [Florian Delezenne](https://twitter.com/FDelezenne){:target="_blank"} @beta.gouv.fr - Les outils partagés entre les Startups d'État
 * [Laurent Bossavit](https://twitter.com/Morendil){:target="_blank"} @beta.gouv.fr - Les Startups d’État et Extreme Programming (valeurs du refactoring et TDD)
-* Les deux suivantes seront bientôt annoncées
+* les deux suivantes seront bientôt annoncées
 
 L’échange se poursuivra ensuite avec tous les participants. 
 
