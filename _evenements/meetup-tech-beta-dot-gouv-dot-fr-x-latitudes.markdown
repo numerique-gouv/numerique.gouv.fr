@@ -3,6 +3,8 @@ title: Meetup Tech - Beta.gouv.fr x Latitudes
 date: 2019-03-27 16:30:00 +01:00
 chapeau-text: Beta.Gouv.fr, le réseau des incubateurs de Startups d’Etat piloté par
   la DINSIC, lance son premier meetup, en partenariat avec Latitudes !
+une-ou-diaporama:
+- image: "/uploads/Meetup.PNG"
 ---
 
 Cette première édition réunira des développeurs impliqués dans des projets d’intérêt général, qui échangeront autour de problématiques techniques. 
