@@ -18,6 +18,8 @@ chapeau-text: 'Accélérer le mouvement du gouvernement ouvert grâce à des out
   lors du Sommet.
 
 '
+une-ou-diaporama:
+- image: "/uploads/hackathon-ogp_une.jpg"
 ---
 
 Les 7, 8, et 9 décembre 2016, la France a accueilli à Paris le Sommet du Partenariat pour un gouvernement ouvert, qu’elle co-préside avec le World Resources Institute depuis septembre 2016. Le PGO rassemble désormais 75 états membres et des centaines d’organisations de la société civile qui s’engagent à faire avancer les questions de la transparence de la vie publique, de la participation citoyenne et de l’innovation démocratique.
