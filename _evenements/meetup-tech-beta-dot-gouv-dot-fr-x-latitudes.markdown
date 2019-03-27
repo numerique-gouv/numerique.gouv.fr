@@ -11,6 +11,9 @@ lieu: Liberté Living-Lab
 adresse: |
   9 rue d’Alexandrie
   75002 , Paris
+champs_informations:
+- intitulé: Horaires
+  contenu: 19h00 - 21h30
 ---
 
 Cette première édition réunira des développeurs impliqués dans des projets d’intérêt général, qui échangeront autour de problématiques techniques. 
