@@ -23,7 +23,7 @@ Révolution numérique et démocratie, pouvoir d’agir et intelligence collecti
 La première partie de soirée a orienté le débat sur la question suivante : comment synchroniser la démocratie et le numérique ?  Le collectif g0v.tw ; Benjamin Jean, CEO d'Inno3 et co-président du Paris Open Source Summit 2016 et Virgile Deville, DemocracyOS France ; Nigel Shalbolt, The Open Data Institute ; Henri Verdier, Directeur interministériel du numérique au SGMAP et Joël de Rosnay, prospectiviste, ont tenté de répondre à cette question.
 
 **La démocratie et la blockchain**<br>
-*Définition* : La blockchain est une technologie de stockage et de transmission d’informations, transparente, sécurisée, et fonctionnant sans organe central de contrôle.
+*Définition* : la blockchain est une technologie de stockage et de transmission d’informations, transparente, sécurisée, et fonctionnant sans organe central de contrôle.
 <br>
 Selon Benjamin Jean, la blockchain est une technologie qui apporte de la transparence, de la décentralisation et la capacité à conserver les données, créant ainsi de la confiance. Il s’agit d’une opportunité pour tout le monde et chacun doit s’interroger sur ce que peut lui apporter cette technologie et comment il peut en tirer profit. Pour lui, les deux aspects les plus importants liés à la blockchain sont : l’ouverture (cette technologie doit rester ouverte pour évoluer) et, la décentralisation (c’est la responsabilité de chaque citoyen et des Etats de s’assurer que cette décentralisation est bien respectée). L’intervenant s’interroge également sur la place de l’outil :  est-ce qu’on doit se soumettre à l’outil ou est-ce que l’outil doit se soumettre à nous, et lorsque l’outil est là pour nous libérer, que se passe-t-il lorsqu’il nous enferme ?
 <br>
