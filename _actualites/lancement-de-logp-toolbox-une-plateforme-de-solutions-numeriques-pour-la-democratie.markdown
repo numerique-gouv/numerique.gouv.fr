@@ -54,8 +54,8 @@ Créé par près de 40 contributeurs, OpenFisca est un moteur de simulation ouve
 <figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/consul-ogp.jpg"/></figure>
 Consul est une plateforme de consultation directe des citoyens. Développée à Madrid et utilisée pour le budget participatif de la capitale espagnole, elle est un espace de dialogue concret entre l’Etat et les citoyens. Cette plateforme permet aux citoyens de donner leur avis sur un projet qui concerne leur ville par un simple « oui » ou « non ». De même, Lutece est la plateforme de consultation pour le budget participatif de la ville de Paris. Un projet de mise en place d’une plateforme commune entre Paris et Madrid  devrait voir le jour, à partir des logiciels développés par les deux capitales. Ainsi, pour la première fois, le débat sera commun entre deux capitales européennes et une décision collective en provenance des parisiens et des madrilènes pourra être directement soumise.
 
->> [Plus d’informations sur consul](ogptoolbox.org/fr/tools/4318){:target="_blank"}
->> [Plus d'informations sur Lutèce](https://ogptoolbox.org/fr/tools/6918){:target="_blank"}
+[Plus d’informations sur consul](ogptoolbox.org/fr/tools/4318){:target="_blank"}
+[Plus d'informations sur Lutèce](https://ogptoolbox.org/fr/tools/6918){:target="_blank"}
 
 **Un outil de visualisation : Cargografias**
 <figure class='image-right' style='width: 40%; margin-right: 10px;'>
