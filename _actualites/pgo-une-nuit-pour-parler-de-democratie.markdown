@@ -1,6 +1,7 @@
 ---
 title: 'PGO : une nuit pour parler de démocratie'
 date: 2019-03-25 18:09:00 +01:00
+published: false
 tags:
 - Partenariat pour le gouvernement ouvert
 - Transparence
