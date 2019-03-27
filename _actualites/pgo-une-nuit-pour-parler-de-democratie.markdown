@@ -73,5 +73,5 @@ Pour Sandra Laugier, la démocratie n’est plus une question institutionnelle, 
 <br>
 > <br>
 **La soirée s’est poursuivie** autour de la problématique du renouvellement de la l’éducation. Jérémy Lachal, directeur at Bibliothèques Sans Frontières, Navi Radjou, auteur intervenant et stratégiste, et François Taddei, biologiste au centre de recherches interdisciplinaires, sont intervenus sur cette troisième et dernière partie de la nuit de la démocratie.
->> [Regarder les interventions sur ce thème](https://www.youtube.com/watch?v=3RhHtl2uQvs&feature=youtu.be&t=8217){:target="_blank"}
+> >[Regarder les interventions sur ce thème](https://www.youtube.com/watch?v=3RhHtl2uQvs&feature=youtu.be&t=8217){:target="_blank"}
 {: .encadre}
