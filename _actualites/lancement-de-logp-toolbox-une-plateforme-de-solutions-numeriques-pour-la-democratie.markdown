@@ -31,12 +31,13 @@ L’OGP toolbox est une plateforme collaborative. Elle référence les outils nu
 Après une série d’événements contributifs, organisés entre avril et décembre 2016 en France et à l’international, la plateforme OGP toolbox a été présentée le 7 décembre 2016 à l’Elysée. Elle contient plus de 1 230 outils, près de 180 cas d’usage et référence plus de 500 organisations. Ces outils permettent de développer la démocratie au-delà de l’isoloir, qu’il s’agisse de budgets participatifs (comme ceux menés par les villes de [Paris](https://budgetparticipatif.paris.fr/bp/){:target="_blank"} et de [Madrid](https://decide.madrid.es/){:target="_blank"}), de la contribution à des élections plus ouvertes et transparentes (avec des plateformes comme [voxe.org](www.voxe.org){:target="_blank"}, [laprimaire.org](https://laprimaire.org/){:target="_blank"}, [#MaVoix](https://laprimaire.org/){:target="_blank"}) ou encore, de développer les consultations publiques en ligne (comme celle autour du [projet de Loi pour une République numérique](https://www.republique-numerique.fr/){:target="_blank"}, ou plus récemment celle sur la stratégie numérique de l’[Agence française de développement](https://consultation-numerique.afd.fr/){:target="_blank"}.
 
 #### Le hackathon OGP toolbox : 70 projets développés durant le sommet 
-: <figure class='image-centre' style='width: 50%; margin-right: 10px;'><img src="/uploads/hackathon-ogp.jpg"/></figure>
+<figure class='image-centre' style='width: 50%; margin-right: 10px;'><img src="/uploads/hackathon-ogp.jpg"/></figure>
 {: .text-center}
 
 Le hackathon OGP toolbox, a été initié au Palais de l’Elysée le 7 décembre et a été ouvert en continu au palais d’Iéna les 8 et 9 décembre. Pendant le Sommet, les communautés du gouvernement ouvert (administrations, porteurs de projets associatifs, collectifs de développeurs) ont participé à son enrichissement : en référençant de nouveaux outils, en partageant des cas d’usages, en développant de nouvelles fonctionnalités, en déclinant des plateformes existantes pour d’autres pays. Plus de 500 participants se sont réunis et 70 projets ont été développés. Ce hackathon, temps fort du Sommet a permis de dessiner un trait d’union entre des écosystèmes parfois éloignés.
 
-> *Hackathon* : Evènement d’une ou deux journées pendant lequel des développeurs se réunissent pour travailler ensemble sur des ressources ouvertes et en proposer des réutilisations concrètes.
+> <br> 
+*Hackathon* : Evènement d’une ou deux journées pendant lequel des développeurs se réunissent pour travailler ensemble sur des ressources ouvertes et en proposer des réutilisations concrètes.
 {: .encadre}
 
 Ce sont les collaborations techniques à long terme entre administrations et organisations de la société civile de différents pays qui ont apporté les contributions les plus significatives à l’OGP toolbox et qui ont, à ce titre, été encouragées par les organisateurs lors de ces trois jours de travail.
@@ -46,8 +47,8 @@ Ce sont les collaborations techniques à long terme entre administrations et org
 **Un modèle ouvert** : OpenFisca
 <figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/graphe-modernisation.png"/></figure>
 Créé par près de 40 contributeurs, OpenFisca est un moteur de simulation ouvert qui permet de calculer un grand nombre de prestations sociales, d'impôts payés par les ménages  et de simuler l'impact des réformes sur leur budget. A visée pédagogique, il a pour objectif de permettre aux citoyens une meilleure compréhension du système socio-fiscal français. Cet outil a permis la création du site [« mes-aides.gouv.fr »](https://mes-aides.gouv.fr/){: target="_blank"} qui offre la possibilité,  en quelques clics, de connaitre l’ensemble des prestations sociales dont peut bénéficier une personne. OpenFisca s’exporte aujourd’hui à l’international et notamment à Dakar où un hackathon a été organisé pour le transposer au système socio-fiscal sénégalais. Lors du sommet, Oumar Diop DIAGNE, inspecteur principal des impôts et économiste, a présenté les solutions envisagées au Sénégal. Aujourd’hui, le travail de recensement des différents impôts est très complexe à Dakar. La base de données et la formule de calcul étant saisies manuellement, la marge d’erreur est importante. Avec OpenFisca, après la saisie unique des données, l’algorithme permettrait un calcul plus sûr et une évaluation de la recette fiscale pour l’Etat mais aussi une estimation des impôts payés pour chaque citoyen sénégalais. Des collaborations ont également été engagées avec la Tunisie.
->>[Cas d'usage au Sénégal](https://ogptoolbox.org/fr/use-cases/42879){:target="_blank"}
->>[Cas d'usage en Tunisie](https://ogptoolbox.org/fr/use-cases/43508){:target="_blank"}
+[Cas d'usage au Sénégal](https://ogptoolbox.org/fr/use-cases/42879){:target="_blank"}
+[Cas d'usage en Tunisie](https://ogptoolbox.org/fr/use-cases/43508){:target="_blank"}
 
 **Consul,  un outil de consultation**
 <figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/consul-ogp.jpg"/></figure>
@@ -57,14 +58,14 @@ Consul est une plateforme de consultation directe des citoyens. Développée à 
 >> [Plus d'informations sur Lutèce](https://ogptoolbox.org/fr/tools/6918){:target="_blank"}
 
 **Un outil de visualisation : Cargografias**
-<figure class='image-right' style='width: 40%; margin-right: 10px;'><img src="/uploads/cargografias-ogp.jpg"/></figure>
+<figure class='image-left' style='width: 40%; margin-right: 10px;'><imgsrc="/uploads/cargografias-ogp.jpg"/></figure>
 Cargografias est un outil de visualisation des mandats et positions portés par les politiques développé en Argentine et utilisé dans plusieurs pays d’Amérique latine comme l’Uruguay et le Paraguay. Lors du hackathon, des améliorations techniques ont été apportées à l’outil en collaboration avec d’autres initiatives internationales telles que Poplt NG (une version modifiée de Poplt/ Popolo data Standard élaboré par Sinar Project - Canada), « EveryPolitician » (UK) et de Wikidata (France). Ainsi, une instance pour la France a pu être mise en place : le résultat est un nouvel outil pour visualiser les mandats et positions portés par les politiques en France.
 
->> [Voir tous les cas d'usage](https://ogptoolbox.org/fr/use-cases/43469){:target="_blank"}
+[Voir tous les cas d'usage](https://ogptoolbox.org/fr/use-cases/43469){:target="_blank"}
 
-**Open Contracting**
+**Open Contracting**<br>
 [*L’open contracting*](https://ogptoolbox.org/en/collections/10){:target="_blank"} toolbox est la boîte à outils réalisée par les pays qui travaillent autour de l’initiative du Contracting 5. Ces pays ont amélioré le standard international d’ouverture des données de la commande publique (ex : traduction en plusieurs langues) et référencé plusieurs outils utilisés dans d’autres pays qui pourraient permettre de faciliter la mise en transparence de données sur l’achat public pour de nouveaux entrants.
 
->> Lire la déclaration d'engagement (en anglais)
+[Lire la déclaration d'engagement]( (en anglais)
 
-Découvrez l’ensemble des projets du hackathon du Sommet du Partenariat pour un gouvernement ouvert
+[Découvrez l’ensemble des projets du hackathon du Sommet du Partenariat pour un gouvernement ouvert]
