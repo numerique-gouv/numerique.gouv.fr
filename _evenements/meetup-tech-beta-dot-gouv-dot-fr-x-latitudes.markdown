@@ -6,7 +6,6 @@ chapeau-text: Beta.Gouv.fr, le réseau des incubateurs de Startups d’Etat pilo
 une-ou-diaporama:
 - image: "/uploads/Meetup.PNG"
 event_start_date: 2011-01-01 00:00:00 +01:00
-event_end_date: 2011-01-01 00:00:00 +01:00
 lieu: Liberte Living-Lab
 adresse: |
   9 rue d’Alexandrie
