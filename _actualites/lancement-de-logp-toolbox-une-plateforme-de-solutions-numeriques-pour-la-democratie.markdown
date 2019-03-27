@@ -58,8 +58,8 @@ Consul est une plateforme de consultation directe des citoyens. Développée à 
 >> [Plus d'informations sur Lutèce](https://ogptoolbox.org/fr/tools/6918){:target="_blank"}
 
 **Un outil de visualisation : Cargografias**
-<figure class='image-left' style='width: 40%; margin-right: 10px;'><imgsrc="/uploads/cargografias-ogp.jpg"/></figure>
-Cargografias est un outil de visualisation des mandats et positions portés par les politiques développé en Argentine et utilisé dans plusieurs pays d’Amérique latine comme l’Uruguay et le Paraguay. Lors du hackathon, des améliorations techniques ont été apportées à l’outil en collaboration avec d’autres initiatives internationales telles que Poplt NG (une version modifiée de Poplt/ Popolo data Standard élaboré par Sinar Project - Canada), « EveryPolitician » (UK) et de Wikidata (France). Ainsi, une instance pour la France a pu être mise en place : le résultat est un nouvel outil pour visualiser les mandats et positions portés par les politiques en France.
+<figure class='image-right' style='width: 40%; margin-right: 10px;'>
+<img src="/uploads/cargografias-ogp-1166f3.jpg"/></figure>Cargografias est un outil de visualisation des mandats et positions portés par les politiques développé en Argentine et utilisé dans plusieurs pays d’Amérique latine comme l’Uruguay et le Paraguay. Lors du hackathon, des améliorations techniques ont été apportées à l’outil en collaboration avec d’autres initiatives internationales telles que Poplt NG (une version modifiée de Poplt/ Popolo data Standard élaboré par Sinar Project - Canada), « EveryPolitician » (UK) et de Wikidata (France). Ainsi, une instance pour la France a pu être mise en place : le résultat est un nouvel outil pour visualiser les mandats et positions portés par les politiques en France.
 
 [Voir tous les cas d'usage](https://ogptoolbox.org/fr/use-cases/43469){:target="_blank"}
 
