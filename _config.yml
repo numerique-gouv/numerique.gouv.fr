@@ -65,8 +65,8 @@ defaults:
       - 06.84.72.02.00
       email: rachel.wadoux@modernisation.gouv.fr
     files:
-      file:
-      nom:
+      file: 
+      nom: 
 - scope:
     path: ''
     type: evenements
