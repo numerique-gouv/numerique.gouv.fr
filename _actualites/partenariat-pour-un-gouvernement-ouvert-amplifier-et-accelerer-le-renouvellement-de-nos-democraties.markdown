@@ -2,11 +2,21 @@
 title: 'Partenariat pour un gouvernement ouvert : amplifier et accélérer le renouvellement
   de nos démocraties'
 date: 2019-03-28 15:10:00 +01:00
+categories:
+- Article
+tags:
+- Partenariat pour le gouvernement ouvert
+- Sommet du partenariat pour un gouvernement ouvert
+- Gouvernement ouvert
+- Numérique
+- Ouverture des données publiques
 chapeau-text: 'Le 4e Sommet mondial du Partenariat pour un gouvernement ouvert (PGO),
   réuni à Paris début décembre 2016, a notamment permis de définir les priorités et
   prochaines actions de l’organisation, avec un objectif principal : renouveler nos
   démocraties. Participation des citoyens, lutte anti-corruption, transparence : le
   PGO entend accélérer et amplifier son action sur toutes ses composantes.'
+une-ou-diaporama:
+- image: "/uploads/pleniere_sommet_pgo2.png"
 ---
 
 Représentants de gouvernements, du monde académique, de collectivités locales, d’organisations internationales et de la société civile… Quelque 4000 participants, de 135 nationalités différentes, se sont rassemblés à Paris du 7 au 9 décembre 2016, pour partager leur expérience, leurs bonnes pratiques, progrès et vision en matière de gouvernement ouvert.
