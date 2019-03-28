@@ -5,7 +5,6 @@ categories:
 - Rencontre
 tags:
 - Beta.gouv.fr
-- Tech
 - Startups d'Etat
 chapeau-text: Beta.gouv.fr, le réseau des incubateurs de Startups d’État piloté par
   la DINSIC, lance son premier meetup, en partenariat avec Latitudes !
