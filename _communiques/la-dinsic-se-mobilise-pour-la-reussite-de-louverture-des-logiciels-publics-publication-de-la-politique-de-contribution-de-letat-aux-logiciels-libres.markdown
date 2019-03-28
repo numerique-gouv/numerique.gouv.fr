@@ -9,7 +9,7 @@ tags:
 - Données ouvertes
 - logiciels libres
 files:
-- lien: "/uploads/CP_Politique_contribution_logiciel_libre_Etat.pdf"
+- file: "/uploads/CP_Politique_contribution_logiciel_libre_Etat.pdf"
   nom: Télécharger le communiqué de presse
 chapeau-text: Conformément à la **Loi pour une République Numérique**, les codes sources
   des logiciels produits par les administrations seront officiellement libres par
