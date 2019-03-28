@@ -15,10 +15,9 @@ adresse: |
 champs_informations:
 - intitule: Horaires
   contenu: 19h00 - 21h30
-  intitulé: 
-- intitule: 
-  contenu: 
-  intitulé: 
+- intitule: Modalités
+  contenu: Inscription gratuite obligatoire
+  intitulé: https://www.eventbrite.fr/e/billets-meetup-tech-betagouvfr-x-latitudes-59297040043
 ---
 
 Cette première édition réunira des développeurs impliqués dans des projets d’intérêt général, qui échangeront autour de problématiques techniques. 
