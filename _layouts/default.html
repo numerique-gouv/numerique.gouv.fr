@@ -10,6 +10,7 @@ layout: compress
     {% include header.html %}
 
     <main id="main" role="main">
+      {{ page.image }}
       {% capture hide %}
       {% assign content = content | split: '<pre' %}
 
