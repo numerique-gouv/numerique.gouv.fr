@@ -22,8 +22,9 @@ champs_informations:
 - intitule: Modalités
   contenu: Gratuit, inscription obligatoire
   lien: https://www.eventbrite.fr/e/billets-meetup-tech-betagouvfr-x-latitudes-59297040043
-- intitule: "Plus d'informations ?\n\n"
+- intitule: "Contact\n\n"
   contenu: jihane.herizi@beta.gouv.fr
+  mailto: jihane.herizi@beta.gouv.fr
 ---
 
 Cette première édition réunira des développeurs impliqués dans des projets d’intérêt général, qui échangeront autour de problématiques techniques. 
