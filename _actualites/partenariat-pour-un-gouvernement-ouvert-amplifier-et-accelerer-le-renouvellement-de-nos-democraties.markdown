@@ -60,8 +60,8 @@ Priorité numéro un : renforcer la participation des citoyens, l’un des fonde
 {: .encadre}
 
 #### Protéger les libertés fondamentales 
-figure class='image-right'style='width: 40%; margin-left: 10px;'><img src="/uploads/mbapna_sommet_pgo.jpg"/>
-</figure>Placer le citoyen au cœur de la gouvernance, mais aussi protéger ses droits fondamentaux avec le soutien, la pression des pairs, voire lorsque cela s’avère nécessaire l’intervention du PGO (en savoir plus sur sa [politique d’intervention](https://www.opengovpartnership.org/about/ogp-response-policy){:target="_blank"} – en anglais). *« Les libertés d’expression, de réunion et d’association sont au cœur d’une société qui fonctionne »*, Manish Bapna (photo). Or *« l’ONG Civicus a récemment rapporté de sérieuses violations de ces droits dans plus de 100 pays. Dans 25 pays du PGO, ces droits sont réprimés ou obstrués. »*
+<figure class='image-right' style='width: 40%; margin-left: 10px;'><img src="/uploads/mbapna_sommet_pgo.jpg"/>
+</figure> Placer le citoyen au cœur de la gouvernance, mais aussi protéger ses droits fondamentaux avec le soutien, la pression des pairs, voire lorsque cela s’avère nécessaire l’intervention du PGO (en savoir plus sur sa [politique d’intervention](https://www.opengovpartnership.org/about/ogp-response-policy){:target="_blank"} – en anglais). *« Les libertés d’expression, de réunion et d’association sont au cœur d’une société qui fonctionne »*, Manish Bapna (photo). Or *« l’ONG Civicus a récemment rapporté de sérieuses violations de ces droits dans plus de 100 pays. Dans 25 pays du PGO, ces droits sont réprimés ou obstrués. »*
 
 La lutte anti-corruption reste également un axe fort - à intensifier - du Partenariat pour un gouvernement ouvert, auquel la Déclaration de Paris accorde une large place. Les actions mises en place dans divers pays de la communauté serviront là aussi de modèles, comme la réforme en matière de lobbying en Irlande et au Chili ou les déclarations de patrimoine des hauts représentants en Ukraine et en France.
 
