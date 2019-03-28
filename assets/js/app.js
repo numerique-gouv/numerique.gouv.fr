@@ -72,7 +72,9 @@ $elements.each(function () {
     const $pdf = $element.find(".pdf");
     console.log(fileSize)
     if (fileSize >= 1000) {
-      $pdf.text($pdf.text() + ' ' + (fileSize / 1000) + ' Mo)');
+      let num = Number(fileSize / 1000)
+      let roundedString = num.toFixed(2)
+      $pdf.text($pdf.text() + ' ' + Number( roundedString ) + ' Mo)')
     } else {
       $pdf.text($pdf.text() + ' ' + Math.round( fileSize ) + ' Ko)');
     }
