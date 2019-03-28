@@ -42,7 +42,7 @@ Pour Manish Bapna, vice-président exécutif du *World Resources Institute*, rep
 {: .text-center .encadre}
 
 #### Renforcer la participation citoyenne 
-<figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/spradhan_sommet_pgo.jpg"/>
+<figure class='image-left' style='width: 50%; margin-right: 10px;'><img src="/uploads/spradhan_sommet_pgo.jpg"/>
 </figure> Si le Partenariat s’est considérablement étendu depuis sa création en 2011, il doit désormais amplifier son impact en élevant ses ambitions.
 
 Priorité numéro un : renforcer la participation des citoyens, l’un des fondements du gouvernement ouvert. Les nombreuses initiatives au sein des pays membres doivent servir d’exemples, à l’image des budgets participatifs au Brésil ou à Paris, la démarche de dialogue ouvert au Canada et ses centaines de consultations citoyennes, ou encore le mécanisme consultatif mis en place au Costa Rica avec les peuples indigènes.
@@ -53,15 +53,14 @@ Priorité numéro un : renforcer la participation des citoyens, l’un des fonde
 > 
 > Le 7 décembre 2016, le [comité directeur] du PGO a officiellement adopté la Déclaration de Paris pour un gouvernement ouvert, élaborée sous l’impulsion de ses co-présidents actuels, la France et le World Resources Institute. A travers elle, les signataires renouvèlent leur pacte commun, en réaffirmant les principes et valeurs qui animent le Partenariat : transparence et intégrité des responsables publics, participation citoyenne, concertation, pour *« rendre nos démocraties plus inclusives, justes et durables »*.
 > 
-> Surtout, ils s’engagent à accélérer le mouvement, à travers de nouvelles actions collectives, annexées à la Déclaration de Paris. *« Au cours des cinq ans à venir, notre Partenariat devra être évalué en fonction de notre capacité à produire des réformes qui se concrétisent effectivement dans la vie de nos concitoyens »*, affirme le président de la République française. 20 actions collectives en faveur du développement durable, de la lutte contre la corruption et du partage des ressources numériques, ont ainsi été coconstruites avant et pendant le Sommet par les pays et organisations de la société civile, via un dispositif de consultation en ligne. Le détail des actions collectives adoptées et des projets en résultant sera établi prochainement.
-> 
-> [Lire la Déclaration de Paris pour un gouvernement ouvert] (pdf)
-> 
+> Surtout, ils s’engagent à accélérer le mouvement, à travers de nouvelles actions collectives, annexées à la Déclaration de Paris. *« Au cours des cinq ans à venir, notre Partenariat devra être évalué en fonction de notre capacité à produire des réformes qui se concrétisent effectivement dans la vie de nos concitoyens »*, affirme le président de la République française. 20 actions collectives en faveur du développement durable, de la lutte contre la corruption et du partage des ressources numériques, ont ainsi été coconstruites avant et pendant le Sommet par les pays et organisations de la société civile, via un dispositif de consultation en ligne. Le détail des actions collectives adoptées et des projets en résultant sera établi prochainement.<br>
+> <br>
+> [Lire la Déclaration de Paris pour un gouvernement ouvert] (pdf)<br>
 > [En savoir plus sur les actions collectives](https://paris-declaration.ogpsummit.org/){:target="_blank"}
 {: .encadre}
 
 #### Protéger les libertés fondamentales 
-<figure class='image-right' style='width: 40%; margin-left: 10px;'><img src="/uploads/mbapna_sommet_pgo.jpg"/>
+<figure class='image-right' style='width: 50%; margin-left: 10px;'><img src="/uploads/mbapna_sommet_pgo.jpg"/>
 </figure> Placer le citoyen au cœur de la gouvernance, mais aussi protéger ses droits fondamentaux avec le soutien, la pression des pairs, voire lorsque cela s’avère nécessaire l’intervention du PGO (en savoir plus sur sa [politique d’intervention](https://www.opengovpartnership.org/about/ogp-response-policy){:target="_blank"} – en anglais). *« Les libertés d’expression, de réunion et d’association sont au cœur d’une société qui fonctionne »*, Manish Bapna (photo). Or *« l’ONG Civicus a récemment rapporté de sérieuses violations de ces droits dans plus de 100 pays. Dans 25 pays du PGO, ces droits sont réprimés ou obstrués. »*
 
 La lutte anti-corruption reste également un axe fort - à intensifier - du Partenariat pour un gouvernement ouvert, auquel la Déclaration de Paris accorde une large place. Les actions mises en place dans divers pays de la communauté serviront là aussi de modèles, comme la réforme en matière de lobbying en Irlande et au Chili ou les déclarations de patrimoine des hauts représentants en Ukraine et en France.
