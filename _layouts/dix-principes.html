@@ -31,12 +31,14 @@ layout: default
         {% endfor %}
       </div>
     </div>
+    {% for file in page.files %}
     <div class="text-center margin-top-2 padding-bottom-2 font-bold">
-      <a target="_blank" class="blue-link" id="fileSize-{{ post.url | replace: ' ', '' }}" href="{{base}}{{ page.file }}">
+      <a target="_blank" class="blue-link" id="fileSize-{{ file.lien }}-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ file.lien }}">
         <span class="fas fa-download margin-horizontal-1"></span>
-        <span class="pdf">Télécharger la version imprimable des 10 principes (PDF</span>
+        <span class="pdf">{{ file.nom }} (PDF</span>
       </a>
     </div>
+    {% endfor %}
   </article>
 </div>
 
