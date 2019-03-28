@@ -26,6 +26,5 @@ Pour Manish Bapna, vice-président exécutif du *World Resources Institute*, rep
 > 
 > Le PGO est passé de 8 pays fondateurs en 2011 à plus de 70 (75 après le sommet mondial de décembre 2017). Ces pays ont élaboré plus de 135 plans d’action nationaux au total, composés de plus de 2456 engagements. Sur les 1948 engagements évalués, 5,7% sont considérés comme « phares » pour leur potentiel réformateur, en accord avec les principes du PGO.
 > 
-> > <figure class='image-centre' style='width: 80%; margin-right: 10px;margin-left: 10px;'>
-> <img src="/uploads/infog-pgov2-c75445.png"alt="my alt text"/><figcaption>Au 1er juillet 2016 - source PGO</figcaption></figure>
+> <figure class='image-center' style='width: 80%; margin-right: 10px; margin-left: 10px;'><img src="/uploads/infog-pgov2-c75445.png"/><figcaption>Au 1er juillet 2016 - source PGO</figcaption></figure>
 {: .encadre}
