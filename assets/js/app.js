@@ -1,4 +1,4 @@
-import '@babel/polyfill'
+import "@babel/polyfill"
 import "isomorphic-fetch"
 import "es6-promise"
 
@@ -70,6 +70,7 @@ $elements.each(function () {
     const fileSize = response.headers.get('Content-Length')/1024;
     const $element = $(that);
     const $pdf = $element.find(".pdf");
+    console.log(fileSize)
     $pdf.text($pdf.text() + ' ' + Math.round( fileSize ) + ' Ko)');
   });
 });
