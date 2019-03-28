@@ -70,7 +70,6 @@ $elements.each(function () {
     const fileSize = response.headers.get('Content-Length')/1024;
     const $element = $(that);
     const $pdf = $element.find(".pdf");
-    console.log(fileSize)
     if (fileSize >= 1000) {
       let num = Number(fileSize / 1000)
       let roundedString = num.toFixed(2)
