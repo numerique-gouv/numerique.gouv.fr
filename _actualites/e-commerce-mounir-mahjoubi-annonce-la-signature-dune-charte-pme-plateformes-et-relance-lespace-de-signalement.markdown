@@ -1,15 +1,15 @@
 ---
-title: 'E-commerce : Mounir Mahjoubi annonce la signature d’une charte PME-plateformes
-  et relance l’espace de signalement'
+title: 'E-commerce : signature d’une charte PME-plateformes et relance de l’espace
+  de signalement'
 date: 2019-03-25 10:22:00 +01:00
 categories:
 - Article
 tags:
 - e-commerce
 - PME
-chapeau-text: A l’occasion de la signature de la charte e-commerce, Mounir Mahjoubi
-  relance et pérennise l'espace de signalement des difficultés rencontrées par les
-  PME avec les plateformes de vente en ligne.
+chapeau-text: A l’occasion de la signature de la charte e-commerce, le secrétaire
+  d'Etat au Numérique Mounir Mahjoubi relance et pérennise l'espace de signalement
+  des difficultés rencontrées par les PME avec les plateformes de vente en ligne.
 une-ou-diaporama:
 - image: "/uploads/charte-ecommerce-une.jpg"
 auteur: Secrétariat d'État chargé du Numérique
