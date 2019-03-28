@@ -1,6 +1,7 @@
 ---
 title: Meetup Tech - Beta.gouv.fr x Latitudes
 date: 2019-03-27 16:30:00 +01:00
+published: false
 categories:
 - Rencontre
 chapeau-text: Beta.gouv.fr, le réseau des incubateurs de Startups d’État piloté par
