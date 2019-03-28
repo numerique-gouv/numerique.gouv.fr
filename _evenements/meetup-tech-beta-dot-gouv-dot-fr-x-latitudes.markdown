@@ -20,7 +20,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 19h00 - 21h30
 - intitule: Modalités
-  contenu: Gratuit, inscription obligatoire
+  contenu: Inscription gratuite obligatoire
   lien: https://www.eventbrite.fr/e/billets-meetup-tech-betagouvfr-x-latitudes-59297040043
 - intitule: "Contact\n\n"
   contenu: jihane.herizi@beta.gouv.fr
