@@ -13,8 +13,12 @@ adresse: |
   9 rue d’Alexandrie
   75002 , Paris
 champs_informations:
-- intitulé: Horaires
+- intitule: Horaires
   contenu: 19h00 - 21h30
+  intitulé: 
+- intitule: 
+  contenu: 
+  intitulé: 
 ---
 
 Cette première édition réunira des développeurs impliqués dans des projets d’intérêt général, qui échangeront autour de problématiques techniques. 
