@@ -5,7 +5,6 @@ subtitle: Une démarche en ligne exemplaire...
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: ordinateur portable
-file: "/uploads/Affiche-10-principes_HD.PDF"
 principes:
 - principe: 
   order: 1
