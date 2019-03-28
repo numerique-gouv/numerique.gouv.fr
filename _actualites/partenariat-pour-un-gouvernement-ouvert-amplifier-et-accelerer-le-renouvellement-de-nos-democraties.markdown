@@ -2,7 +2,6 @@
 title: 'Partenariat pour un gouvernement ouvert : amplifier et accélérer le renouvellement
   de nos démocraties'
 date: 2019-03-28 15:10:00 +01:00
-published: false
 categories:
 - Article
 tags:
