@@ -2,7 +2,6 @@
 title: Revivre les temps forts du sommet du Partenariat pour un gouvernement ouvert
   mondial
 date: 2019-03-25 09:57:00 +01:00
-published: false
 categories:
 - Article
 tags:
