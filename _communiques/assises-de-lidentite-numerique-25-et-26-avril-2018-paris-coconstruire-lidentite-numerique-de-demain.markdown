@@ -9,7 +9,7 @@ tags:
 - Sécurisation
 - inclusion numérique
 files:
-- lien: "/uploads/CP-Assises-identite-numerique.pdf"
+- file: "/uploads/CP-Assises-identite-numerique.pdf"
   nom: Télécharger le communiqué de presse
 chapeau-text: Organisées sous le haut patronage du ministre de l’Intérieur, du ministre
   de la Justice et du secrétaire d’État chargé du Numérique, les Assises de l'identité

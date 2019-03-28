@@ -14,7 +14,7 @@ chapeau-text: "Améliorer l’expérience utilisateurs des services publics en l
 une-ou-diaporama:
 - image: "/uploads/20190403_Article_lancement_DIG.jpg"
 files:
-- lien: "/uploads/CP_255%20Designers%20d'interet%20general.pdf"
+- file: "/uploads/CP_255%20Designers%20d'interet%20general.pdf"
   nom: Télécharger le communiqué de presse
 ---
 

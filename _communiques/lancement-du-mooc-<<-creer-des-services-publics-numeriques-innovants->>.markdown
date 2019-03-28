@@ -16,7 +16,7 @@ une-ou-diaporama:
   alternative-textuelle: Hela Ghariani, responsable de l'incubateur de services publics
     numériques beta.gouv.fr
 files:
-- lien: "/uploads/CP_Lancement_MOOC_services_publics_innovants-301d57.pdf"
+- file: "/uploads/CP_Lancement_MOOC_services_publics_innovants-301d57.pdf"
   nom: Télécharger le communiqué de presse
 ---
 

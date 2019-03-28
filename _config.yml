@@ -51,7 +51,6 @@ defaults:
     path: ''
     type: communiques
   values:
-    file: uploads/exemple.pdf
     layout: communique
     categories: 
     chapeau-text: 
@@ -65,6 +64,9 @@ defaults:
       - 01.71.21.11.98
       - 06.84.72.02.00
       email: rachel.wadoux@modernisation.gouv.fr
+    files:
+      file:
+      nom:
 - scope:
     path: ''
     type: evenements

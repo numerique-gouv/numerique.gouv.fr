@@ -12,7 +12,7 @@ chapeau-text: 'Ils ont 10 mois pour relever le défi. L’État accueille à par
 une-ou-diaporama:
 - image: "/uploads/Entete-article-EIG-Promotion-3-v1-0c7b37.jpg"
 files:
-- lien: "/uploads/CP_Mounir_Mahjoubi_accueille_la_3e_promotion_dentrepreneurs_dinteret_general-76bd02.pdf"
+- file: "/uploads/CP_Mounir_Mahjoubi_accueille_la_3e_promotion_dentrepreneurs_dinteret_general-76bd02.pdf"
   nom: Télécharger le communiqué de presse
 ---
 

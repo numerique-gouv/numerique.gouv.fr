@@ -13,7 +13,7 @@ chapeau-text: L’intelligence artificielle (IA) est un enjeu d’avenir. Avec *
 une-ou-diaporama:
 - image: "/uploads/IMG_1136-590.jpg"
 files:
-- lien: "/uploads/CP_AMI_IA_DITP_DINSIC_ok.pdf"
+- file: "/uploads/CP_AMI_IA_DITP_DINSIC_ok.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
