@@ -49,7 +49,8 @@ Ce sont les collaborations techniques à long terme entre administrations et org
 **Un modèle ouvert** : OpenFisca
 <figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/graphe-modernisation.png"/></figure>
 Créé par près de 40 contributeurs, OpenFisca est un moteur de simulation ouvert qui permet de calculer un grand nombre de prestations sociales, d'impôts payés par les ménages  et de simuler l'impact des réformes sur leur budget. A visée pédagogique, il a pour objectif de permettre aux citoyens une meilleure compréhension du système socio-fiscal français. Cet outil a permis la création du site [« mes-aides.gouv.fr »](https://mes-aides.gouv.fr/){: target="_blank"} qui offre la possibilité,  en quelques clics, de connaitre l’ensemble des prestations sociales dont peut bénéficier une personne. OpenFisca s’exporte aujourd’hui à l’international et notamment à Dakar où un hackathon a été organisé pour le transposer au système socio-fiscal sénégalais. Lors du sommet, Oumar Diop DIAGNE, inspecteur principal des impôts et économiste, a présenté les solutions envisagées au Sénégal. Aujourd’hui, le travail de recensement des différents impôts est très complexe à Dakar. La base de données et la formule de calcul étant saisies manuellement, la marge d’erreur est importante. Avec OpenFisca, après la saisie unique des données, l’algorithme permettrait un calcul plus sûr et une évaluation de la recette fiscale pour l’Etat mais aussi une estimation des impôts payés pour chaque citoyen sénégalais. Des collaborations ont également été engagées avec la Tunisie.<br>
-[Cas d'usage au Sénégal](https://ogptoolbox.org/fr/use-cases/42879){:target="_blank"}
+<br>
+[Cas d'usage au Sénégal](https://ogptoolbox.org/fr/use-cases/42879){:target="_blank"}<br>
 [Cas d'usage en Tunisie](https://ogptoolbox.org/fr/use-cases/43508){:target="_blank"}
 
 **Consul,  un outil de consultation**<br>
@@ -66,6 +67,7 @@ Consul est une plateforme de consultation directe des citoyens. Développée à 
 [Voir tous les cas d'usage](https://ogptoolbox.org/fr/use-cases/43469){:target="_blank"}
 
 **Open Contracting**<br>
+<br>
 [*L’open contracting*](https://ogptoolbox.org/en/collections/10){:target="_blank"} toolbox est la boîte à outils réalisée par les pays qui travaillent autour de l’initiative du Contracting 5. Ces pays ont amélioré le standard international d’ouverture des données de la commande publique (ex : traduction en plusieurs langues) et référencé plusieurs outils utilisés dans d’autres pays qui pourraient permettre de faciliter la mise en transparence de données sur l’achat public pour de nouveaux entrants.
 
 [Lire la déclaration d'engagement]( (en anglais)
