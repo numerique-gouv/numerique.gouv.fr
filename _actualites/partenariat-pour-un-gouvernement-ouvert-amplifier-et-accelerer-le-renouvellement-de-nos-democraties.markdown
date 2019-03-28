@@ -54,7 +54,6 @@ Priorité numéro un : renforcer la participation des citoyens, l’un des fonde
 > 
 > Surtout, ils s’engagent à accélérer le mouvement, à travers de nouvelles actions collectives, annexées à la Déclaration de Paris. *« Au cours des cinq ans à venir, notre Partenariat devra être évalué en fonction de notre capacité à produire des réformes qui se concrétisent effectivement dans la vie de nos concitoyens »*, affirme le président de la République française. 20 actions collectives en faveur du développement durable, de la lutte contre la corruption et du partage des ressources numériques, ont ainsi été coconstruites avant et pendant le Sommet par les pays et organisations de la société civile, via un dispositif de consultation en ligne. Le détail des actions collectives adoptées et des projets en résultant sera établi prochainement.<br>
 > <br>
-> <br>
 > [Lire la Déclaration de Paris pour un gouvernement ouvert] (pdf)<br>
 > [En savoir plus sur les actions collectives](https://paris-declaration.ogpsummit.org/){:target="_blank"}
 {: .encadre}
