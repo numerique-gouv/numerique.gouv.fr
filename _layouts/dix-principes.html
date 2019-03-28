@@ -14,7 +14,13 @@ layout: default
         {{ page.subtitle }}
       </div>
     </section>
-
+    {% if page.content != blank %}
+    <div class="white-container cell grid-x">
+      <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        {{ page.content }}
+      </section>
+    </div>
+    {% endif %}
     <div class="cell grid-x">
       <div id="list" class="cell white-container">
         {% for principe in page.principes %}
@@ -31,12 +37,21 @@ layout: default
         {% endfor %}
       </div>
     </div>
+    {% if page.content-bottom != blank %}
+    <div class="white-container cell grid-x">
+      <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        {{ page.content-bottom }}
+      </section>
+    </div>
+    {% endif %}
+    {% for fichier in page.files %}
     <div class="text-center margin-top-2 padding-bottom-2 font-bold">
-      <a target="_blank" class="blue-link" id="fileSize-{{ post.url | replace: ' ', '' }}" href="{{base}}{{ page.file }}">
+      <a target="_blank" class="blue-link" id="fileSize-{{ fichier.file }}-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ fichier.file }}">
         <span class="fas fa-download margin-horizontal-1"></span>
-        <span class="pdf">Télécharger la version imprimable des 10 principes (PDF</span>
+        <span class="pdf">{{ fichier.nom }} (PDF</span>
       </a>
     </div>
+    {% endfor %}
   </article>
 </div>
 
