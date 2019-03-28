@@ -71,7 +71,11 @@ $elements.each(function () {
     const $element = $(that);
     const $pdf = $element.find(".pdf");
     console.log(fileSize)
-    $pdf.text($pdf.text() + ' ' + Math.round( fileSize ) + ' Ko)');
+    if (fileSize >= 1000) {
+      $pdf.text($pdf.text() + ' ' + (fileSize / 1000) + ' Mo)');
+    } else {
+      $pdf.text($pdf.text() + ' ' + Math.round( fileSize ) + ' Ko)');
+    }
   });
 });
 
