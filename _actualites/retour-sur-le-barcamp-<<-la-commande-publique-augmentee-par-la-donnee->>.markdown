@@ -1,6 +1,7 @@
 ---
 title: Retour sur le Barcamp « La commande publique augmentée par la donnée »
 date: 2019-03-29 10:18:00 +01:00
+published: false
 categories:
 - Article
 tags:
