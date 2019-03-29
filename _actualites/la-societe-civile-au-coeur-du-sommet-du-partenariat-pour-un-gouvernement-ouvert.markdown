@@ -51,5 +51,4 @@ L'ICIJ (International Consortium for Investigate Journalism) a mis à leur dispo
 W Dans le cadre du programme [Open data médias](http://www.cfi.fr/fr/projet/opendata-medias){:target="_blank"}, l'agence de coopération médias du ministère des Affaires étrangères et du développement international CFI a convié 50 journalistes et acteurs de la société civile de quinze pays d'Afrique, du Moyen-Orient et d'Asie du Sud-Est, à participer au sommet du PGO. Lors d’ateliers de préparation, ils avaient été préalablement formés à la collecte et la réutilisation des données ouvertes. Durant le Sommet, ils ont pu approfondir leurs échanges et développer des outils afin de pousser leurs pays à adhérer au Partenariat pour un gouvernement ouvert et accélérer les réformes en la matière.
 > 
 > [Voir la restitution de CFI lors de la cérémonie de clôture](https://www.youtube.com/watch?v=toJaj0K9KXM&feature=youtu.be&t=15834){:target="_blank"}
-{: .lien-important}
 {: .encadre}
