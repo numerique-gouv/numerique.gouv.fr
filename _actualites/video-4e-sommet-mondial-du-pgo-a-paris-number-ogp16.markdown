@@ -12,4 +12,4 @@ une-ou-diaporama:
 - image: "/uploads/une_video.jpg"
 ---
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x561dnl" allowfullscreen allow="autoplay"></iframe>
+<iframe frameborder="0" width="680" height="270" src="https://www.dailymotion.com/embed/video/x561dnl" allowfullscreen allow="autoplay"></iframe>
