@@ -38,5 +38,5 @@ Destiné aux opérateurs directs de services publics au niveau de l’État (min
 >Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du Numérique. 
 {: .auteur-citation}
 
-> [Découvrez l’AMI « Pour le développement de l’intelligence artificielle dans l’administration »](www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle){:target="_blank"}
+> [Découvrez l’AMI « Pour le développement de l’intelligence artificielle dans l’administration »](https://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle){:target="_blank"}
 {: .lien-important}
