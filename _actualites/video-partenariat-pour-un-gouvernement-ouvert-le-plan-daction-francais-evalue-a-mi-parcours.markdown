@@ -9,22 +9,12 @@ chapeau-text: Un an après le lancement de son [plan d’action national](http:/
   démarche de suivi française, en vidéo.
 ---
 
-La Déclaration des Droits de l’Homme et du Citoyen de 1789 proclamait déjà le droit des Français de concourir à l’élaboration de la loi, le droit de constater par eux-mêmes la nécessité de la contribution publique et d'en suivre l'emploi, et le droit de demander compte à tout agent public de son administration. Depuis, la France a progressivement inscrit ces principes dans sa loi et dans ses institutions.
+C’est l’un des principes du Partenariat pour un gouvernement ouvert (PGO) : chaque pays membre doit suivre l’avancement des engagements pris dans son plan d’action national, et en rendre compte de manière publique.
 
-La révolution numérique donne aujourd'hui une réalité nouvelle à ce mouvement, en permettant d’enrichir et d’étendre la participation des citoyens et la coconstruction des politiques publiques.
+**La France publie ainsi un rapport d’étape à mi-parcours, après un an de mise en œuvre** de son [plan d’action](https://www.modernisation.gouv.fr/home/gouvernement-ouvert-la-france-publie-son-plan-daction-national-ogp){:target="_blank"} 2015-2017. Fidèle aux principes du gouvernement ouvert, la démarche de suivi française **a associé les administrations et la société civile**, à travers une [consultation en ligne](https://forum.etalab.gouv.fr/c/gouvernement-ouvert/suivi){:target="_blank"} et des **ateliers collaboratifs**, les « ministères ouverts ». Au total, près de 200 personnes ont contribué.
 
-#### 26 engagements sur 5 thèmes, pour une action publique plus transparente et plus collaborative
+Ce suivi est piloté par [Etalab](http://www.etalab.gouv.fr/){:target="_blank"}, la mission du secrétariat général pour la modernisation de l’action publique (SGMAP) en charge de l’ouverture des données publiques et du gouvernement ouvert.
 
-<figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/OGP.PNG"/>
-</figure>Pour progresser vers toujours plus de transparence, la France a rejoint en avril 2014 le Partenariat pour le Gouvernement Ouvert (PGO - en anglais Open Government Partnership, OGP), une initiative multilatérale qui rassemble des représentants des gouvernements, d’ONG et de la société civile de 65 pays.
+**Laure LUCCHESI**, cheffe de la mission Etalab, et **Mathilde Bras**, chargée de mission Gouvernement ouvert au sein d’Etalab, **expliquent la méthode de suivi française et son originalité** :<br>
 
-Comme elle s’y est alors engagée, elle publie aujourd’hui son plan d’action national pour une action publique transparente et collaborative.
-
-La France prend ainsi 26 engagements, sur 5 axes :
-* rendre des comptes ;
-* consulter, concerter, et coproduire l’action publique ;
-* partager des ressources numériques utiles à l’innovation économique et sociale ;
-* poursuivre l’ouverture de l’administration ;
-* le gouvernement ouvert au service du climat et du développement durable.
-
-
+<iframe frameborder="0" width="680" height="370" src="https://www.dailymotion.com/embed/video/x4lpew3" allowfullscreen allow="autoplay"></iframe>
