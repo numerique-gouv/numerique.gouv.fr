@@ -2,6 +2,12 @@
 title: La société civile au cœur du sommet du Partenariat pour un gouvernement ouvert
 date: 2019-03-28 17:50:00 +01:00
 published: false
+categories:
+- Article
+tags:
+- Partenariat pour un gouvernement ouvert
+- Sommet du partenariat pour un gouvernement ouvert
+- Ouverture des données publiques
 chapeau-text: Membres d'associations citoyennes, acteurs de la civic tech, journalistes...
   la diversité de la société civile était bien représentée au Sommet mondial du Partenariat
   pour un gouvernement ouvert. Ils ont témoigné de leurs actions terrain, de leurs
@@ -26,11 +32,11 @@ Ces associations sont elles-mêmes confrontées à la nécessité d’inclure de
 <figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/societe-civile-ogp-chicago.jpg"/>
 </figure> Le sommet a été l'occasion de démontrer que la mobilisation citoyenne, appuyée par les outils numériques, parvient à influencer les politiques publiques. L'activiste Janis Thompson a raconté comment les habitants de Chicago, organisés en communautés, ont pu contrecarrer les arguments de la mairie en se servant de données publiques qu'ils ont eux-mêmes complétés. S'ils n'ont pas obtenu gain de cause dans leur [lutte contre la fermeture de 129 écoles publiques](http://www.schoolcuts.org/){:target="_blank"}, seule une poignée y a échappé, ils ont néanmoins réussi à sensibiliser la population et à interpeller la mairie.
 
-En revanche, l'initiative [« My building doesn't recycle »](http://mybuildingdoesntrecycle.com/){:target="_blank"] a débouché sur une loi qui oblige les immeubles comptant au moins cinq appartements à mettre en place des services de recyclage. Les outils numériques proposés par les civc tech outillent les communautés et permettent de toucher des profils nouveaux, qui ne se rendent pas forcément aux réunions publiques.
+En revanche, l'initiative [« My building doesn't recycle »](http://mybuildingdoesntrecycle.com/){:target="_blank"} a débouché sur une loi qui oblige les immeubles comptant au moins cinq appartements à mettre en place des services de recyclage. Les outils numériques proposés par les civc tech outillent les communautés et permettent de toucher des profils nouveaux, qui ne se rendent pas forcément aux réunions publiques.
 
 > #### Utopies numériques
 > 
-> Entre numérique et démocratie, c'est une longue histoire dont les civic tech constituent le dernier prolongement. David Prothais, de la start up [Eclectic Experience](http://www.eclectic-experience.net/){target:="_blank"}, la retrace en trois grandes étapes.
+> Entre numérique et démocratie, c'est une longue histoire dont les civic tech constituent le dernier prolongement. David Prothais, de la start up [Eclectic Experience](http://www.eclectic-experience.net/){:target="_blank"}, la retrace en trois grandes étapes.
 > * Avec la cybernétique, dans les années 50, est apparu le rêve de machines à gouverner. Cette vision fonctionnaliste et rationaliste avait omis un paramètre essentiel : la politique est avant tout une affaire de choix faits par des hommes.
 > <br>
 > * Vingt ans plus tard, des réseaux de télévision locale aux Etats-Unis retransmettaient des séances de conseils municipaux permettant de s'affranchir des contraintes spatio-temporelles. Le mouvement s'est essoufflé.
@@ -45,8 +51,7 @@ L'ICIJ (International Consortium for Investigate Journalism) a mis à leur dispo
 
 > #### CFI promeut une culture de l'open data
 > 
-W Dans le cadre du programme [Open data médias](http://www.cfi.fr/fr/projet/opendata-medias)':target="_blank"}, l'agence de coopération médias du ministère des Affaires étrangères et du développement international CFI a convié 50 journalistes et acteurs de la société civile de quinze pays d'Afrique, du Moyen-Orient et d'Asie du Sud-Est, à participer au sommet du PGO. Lors d’ateliers de préparation, ils avaient été préalablement formés à la collecte et la réutilisation des données ouvertes. Durant le Sommet, ils ont pu approfondir leurs échanges et développer des outils afin de pousser leurs pays à adhérer au Partenariat pour un gouvernement ouvert et accélérer les réformes en la matière.
-> 
+W Dans le cadre du programme [Open data médias](http://www.cfi.fr/fr/projet/opendata-medias){:target="_blank"}, l'agence de coopération médias du ministère des Affaires étrangères et du développement international CFI a convié 50 journalistes et acteurs de la société civile de quinze pays d'Afrique, du Moyen-Orient et d'Asie du Sud-Est, à participer au sommet du PGO. Lors d’ateliers de préparation, ils avaient été préalablement formés à la collecte et la réutilisation des données ouvertes. Durant le Sommet, ils ont pu approfondir leurs échanges et développer des outils afin de pousser leurs pays à adhérer au Partenariat pour un gouvernement ouvert et accélérer les réformes en la matière.
+> <br>
 > [Voir la restitution de CFI lors de la cérémonie de clôture](https://www.youtube.com/watch?v=toJaj0K9KXM&feature=youtu.be&t=15834){:target="_blank"}
-{: .lien-important}
 {: .encadre}

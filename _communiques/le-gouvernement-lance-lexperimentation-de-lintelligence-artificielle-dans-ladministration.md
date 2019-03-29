@@ -13,7 +13,7 @@ chapeau-text: L’intelligence artificielle (IA) est un enjeu d’avenir. Avec *
 une-ou-diaporama:
 - image: "/uploads/IMG_1136-590.jpg"
 files:
-- file: "/uploads/CP_AMI_IA_DITP_DINSIC_ok.pdf"
+- file: "/uploads/CP_AMI_IA_DITP_DINSIC.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
@@ -22,7 +22,7 @@ Pour initier ce mouvement, **la direction interministérielle du numérique et d
 Destiné aux opérateurs directs de services publics au niveau de l’État (ministère, opérateur national, etc.), cet AMI s’adresse essentiellement à des acteurs publics désireux d’expérimenter à la fois des approches (techniques d’intelligence artificielle) et des modes de travail innovants (méthodes « agiles ») pour aborder sous un autre angle leurs problématiques métier. Pendant 10 mois (sur la période 2018 et 2019), les lauréats bénéficieront d’un accompagnement : 
 
 * technique, pour monter en compétence sur les technologies d'intelligence artificielle, 
-* tratégique, pour appréhender la transformation du métier associée aux technologies d'intelligence artificielle. 
+* stratégique, pour appréhender la transformation du métier associée aux technologies d'intelligence artificielle. 
 
 À la clé ? Un prototype fonctionnel expérimenté auprès d’utilisateurs (agents ou administrés). 
 
@@ -38,5 +38,5 @@ Destiné aux opérateurs directs de services publics au niveau de l’État (min
 >Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du Numérique. 
 {: .auteur-citation}
 
-> [Découvrez l’AMI « Pour le développement de l’intelligence artificielle dans l’administration »](www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle){:target="_blank"}
+> [Découvrez l’AMI « Pour le développement de l’intelligence artificielle dans l’administration »](https://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle){:target="_blank"}
 {: .lien-important}
