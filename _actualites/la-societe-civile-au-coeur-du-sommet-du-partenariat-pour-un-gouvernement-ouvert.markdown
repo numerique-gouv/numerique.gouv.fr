@@ -1,6 +1,10 @@
 ---
 title: La société civile au cœur du sommet du Partenariat pour un gouvernement ouvert
 date: 2019-03-28 17:50:00 +01:00
+tags:
+- Partenariat pour un gouvernement ouvert
+- Sommet du partenariat pour un gouvernement ouvert
+- Ouverture des données publiques
 chapeau-text: Membres d'associations citoyennes, acteurs de la civic tech, journalistes...
   la diversité de la société civile était bien représentée au Sommet mondial du Partenariat
   pour un gouvernement ouvert. Ils ont témoigné de leurs actions terrain, de leurs
