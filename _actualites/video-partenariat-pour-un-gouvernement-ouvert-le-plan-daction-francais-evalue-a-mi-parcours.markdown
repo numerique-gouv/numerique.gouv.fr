@@ -2,6 +2,7 @@
 title: "[Vidéo] Partenariat pour un Gouvernement ouvert : le plan d’action français
   évalué à mi-parcours"
 date: 2019-03-29 16:06:00 +01:00
+published: false
 categories:
 - Vidéo
 tags:
