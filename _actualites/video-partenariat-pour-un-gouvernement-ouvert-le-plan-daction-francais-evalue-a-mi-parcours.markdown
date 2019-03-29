@@ -14,6 +14,8 @@ chapeau-text: Un an après le lancement de son [plan d’action national](http:/
   compte, dans un rapport, de l’état d’avancement des 26 engagements, portés par 10
   ministères et diverses autorités publiques. Le point sur leur mise en œuvre et la
   démarche de suivi française, en vidéo.
+une-ou-diaporama:
+- image: "/uploads/rapport-etape-pgo-video_une.jpg"
 ---
 
 C’est l’un des principes du Partenariat pour un gouvernement ouvert (PGO) : chaque pays membre doit suivre l’avancement des engagements pris dans son plan d’action national, et en rendre compte de manière publique.
