@@ -26,7 +26,7 @@ La journée s’est organisée autour de 4 ateliers :
 
 **Atelier 1 : Référentiel de données essentielles de la commande publique**
 <figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/capture-at1-300x218.png"/>
-</figure>Les participants ont produit une nouvelle version du [référentiel national de données essentielles de la commande publique](https://www.data.gouv.fr/fr/datasets/referentiel-de-donnees-marches-publics/){:target="_blank"} disponible sur data.gouv.fr. Ce référentiel prend en compte les données essentielles listées dans l’article 107 du [décret](https://www.legifrance.gouv.fr/eli/decret/2016/3/25/EINM1600207D/jo#JORFARTI000032296716){:target="_blank"}.
+</figure>Les participants ont produit une nouvelle version du [référentiel national de données essentielles de la commande publique](https://www.data.gouv.fr/fr/datasets/referentiel-de-donnees-marches-publics/){:target="_blank"} disponible sur data.gouv.fr. Ce référentiel prend en compte les données essentielles listées dans l’article 107 du [décret](https://www.legifrance.gouv.fr/eli/decret/2016/3/25/EINM1600207D/jo#JORFARTI000032296716){:target="_blank"}.<br>
 <br>
 **Atelier 2 : Prototype d’une solution de fédération des données sur data.gouv.fr**
 <figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/capture-at2-300x227_0.png"/>
