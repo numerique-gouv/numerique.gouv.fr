@@ -18,3 +18,10 @@ Ce suivi est piloté par [Etalab](http://www.etalab.gouv.fr/){:target="_blank"},
 **Laure LUCCHESI**, cheffe de la mission Etalab, et **Mathilde Bras**, chargée de mission Gouvernement ouvert au sein d’Etalab, **expliquent la méthode de suivi française et son originalité** :<br>
 
 <iframe frameborder="0" width="680" height="370" src="https://www.dailymotion.com/embed/video/x4lpew3" allowfullscreen allow="autoplay"></iframe>
+
+#### Où en est la mise en œuvre du plan d’action français ?
+
+La totalité des engagements pris par les administrations françaises est aujourd’hui en **phase d’implémentation**. Le statut des engagements a également sensiblement progressé, notamment en raison de récentes avancées législatives et réglementaires : 1 est complet, 10 sont partiels et 15 sont substantiels.
+
+<figure class='image-right' style='width: 40%; margin-left: 10px;'><img src="/uploads/couv-final-rapport_autoevaluation_vblogpost-300x267.png"/>
+</figure>La mise en œuvre des engagements et son suivi se poursuivent. La [consultation en ligne](https://forum.etalab.gouv.fr/t/a-propos-de-ce-livre-numerique-gitbook/1935){:target="_blank"} reste ouverte à tous, de nouveaux ministères ouverts seront organisés dans les mois à venir. Le [sommet mondial du Partenariat pour gouvernement ouvert](https://fr.2016.ogpsummit.org/osem/conference/ogp-summit/){:target="_blank"}, **qui se tiendra en décembre 2016 à Paris, sera l’occasion d’un nouveau point d’étape**.
