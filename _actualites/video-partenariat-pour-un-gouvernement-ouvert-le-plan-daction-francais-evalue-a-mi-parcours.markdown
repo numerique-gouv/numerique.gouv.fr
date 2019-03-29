@@ -25,7 +25,8 @@ Ce suivi est piloté par [Etalab](http://www.etalab.gouv.fr/){:target="_blank"},
 **Laure LUCCHESI**, cheffe de la mission Etalab, et **Mathilde Bras**, chargée de mission Gouvernement ouvert au sein d’Etalab, **expliquent la méthode de suivi française et son originalité** :<br>
 
 <iframe frameborder="0" width="680" height="370" src="https://www.dailymotion.com/embed/video/x4lpew3" allowfullscreen allow="autoplay"></iframe>
-
+<br>
+<br>
 #### Où en est la mise en œuvre du plan d’action français ?
 
 La totalité des engagements pris par les administrations françaises est aujourd’hui en **phase d’implémentation**. Le statut des engagements a également sensiblement progressé, notamment en raison de récentes avancées législatives et réglementaires : 1 est complet, 10 sont partiels et 15 sont substantiels.
