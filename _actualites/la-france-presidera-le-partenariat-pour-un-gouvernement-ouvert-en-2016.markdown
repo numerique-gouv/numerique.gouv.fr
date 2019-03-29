@@ -9,7 +9,7 @@ tags:
 - Gouvernement ouvert
 - Partenariat pour un gouvernement ouvert
 chapeau-text: |
-  <figure class='image-left' style='width: 50%; margin-right: 10px;'><img src="/uploads/logo_ogp-4b4853.png"/>
+  <figure class='image-left' style='width: 50%; margin-right: 10px;'><img src="/uploads/logo_ogp.png"/>
   </figure>Le comité directeur du [Partenariat pour un gouvernement ouvert](http://www.modernisation.gouv.fr/laction-publique-se-transforme/en-ouvrant-les-donnees-publiques/france-rejoint-open-governement-partnership-ogp){:target="_blank"} (PGO, en anglais Open Government Partnership - OGP), réuni à Mexico le 24 avril, a retenu la candidature de la France à la présidence de l'organisation. Celle-ci prendra ses fonctions pour un an, à partir de l'automne 2016, et commencera par assurer la vice-présidence d'octobre 2015 à octobre 2016, sous la présidence de l'Afrique du Sud. Cette décision intervient un an jour pour jour après la [Conférence de Paris](http://modernisation.gouv.fr/laction-publique-se-transforme/en-ouvrant-les-donnees-publiques/video-5-minutes-conference-de-paris-open-data-gouvernement-ouvert){:target="_blank"} sur l'open data et le gouvernement ouvert, où la France annonçait son adhésion au PGO. La France avait ensuite rejoint le [comité directeur](http://www.modernisation.gouv.fr/laction-publique-se-transforme/en-ouvrant-les-donnees-publiques/gouvernement-ouvert-la-france-entre-au-comite-directeur-de-lopen-government-partnership-ogp){:target="_blank"} de l'organisation.
 une-ou-diaporama:
 - image: "/uploads/bandeau-ogp_0.jpg"
