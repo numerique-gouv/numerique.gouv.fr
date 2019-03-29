@@ -1,6 +1,7 @@
 ---
 title: 'Lancement de l''AMI IA 2 : proposez vos projets'
 date: 2019-03-29 16:14:00 +01:00
+published: false
 chapeau-text: 'Un an après l''annonce de la stratégie nationale en intelligence artificielle,
   la DINSIC et la DITP lancent un deuxième appel à manifestation d''intérêt auprès
   des administrations pour expérimenter l''intelligence artificielle.
