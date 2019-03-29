@@ -43,6 +43,8 @@ La journée s’est organisée autour de 4 ateliers :
 <figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/captureb-300x213.png"/>
 </figure>Les participants ont établi une cartographie des nouveaux services à offrir grâce à l’analyse des données des marchés publics, en détaillant les utilisateurs cibles : acheteur public, opérateur économique, élu ou territoire, citoyen.
 <br>
+<br>
+<br>
 > [Découvrez le détail des résultats des ateliers et continuez à contribuer sur le forum d'Etalab](https://www.modernisation.gouv.fr/home/forum.etalab.gouv.fr/t/restitution-des-travaux-et-productions-du-bar-camp-dedie-a-la-transparence-de-la-commande-publique/1182){:target="_blank"}
 {: .lien-important}
 
