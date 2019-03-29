@@ -1,7 +1,6 @@
 ---
 title: La France présidera le Partenariat pour un Gouvernement ouvert en 2016
 date: 2019-03-29 11:07:00 +01:00
-published: false
 categories:
 - Article
 tags:
