@@ -116,4 +116,4 @@ Administrations et organismes fournisseurs de données
 
 >> Pour en savoir plus sur les marchés en cours, les partenaires du dispositif MPS et accéder à de l’information complémentaire : mps.apientreprise.fr
 
->> Rejoignez la communauté MPS sur LinkedIn
+* Rejoignez la communauté MPS [sur LinkedIn](https://www.linkedin.com/m/login/){:target="_blank"}
