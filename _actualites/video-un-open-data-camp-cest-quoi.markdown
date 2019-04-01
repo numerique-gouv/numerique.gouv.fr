@@ -1,6 +1,13 @@
 ---
 title: "[Vidéo] Un open data camp, c’est quoi ?"
 date: 2019-04-01 15:39:00 +02:00
+categories:
+- Vidéo
+tags:
+- Etalab
+- Données ouvertes
+- vidéo
+- Open data camp
 chapeau-text: 'Etalab, la mission du secrétariat général pour la modernisation de
   l’action publique (SGMAP) en charge de l’ouverture des données publiques, organise
   régulièrement des open data camps (ou hackathons). En quoi consistent ces rendez-vous
