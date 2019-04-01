@@ -53,6 +53,6 @@ Pour toute question complémentaire, contactez l'équipe de l'appel à manifesta
 > ### Participez à la réunion d’information
 > La DINSIC et la DITP organisent une réunion d'information à destination des administrations **le 16 avril 2019 à 14h00 au 20 avenue de Ségur, Paris 7e**.
 >
-> > [**Inscrivez-vous !**](https://www.eventbrite.fr/e/billets-reunion-dinformation-ami-ia-experimenter-lia-dans-ladministration-59687455787 "Inscrivez-vous ! - Nouvelle fenêtre"){:target="_blank"}
+> > [**Inscrivez-vous !**](https://www.eventbrite.fr/e/billets-reunion-dinformation-ami-ia-experimenter-lia-dans-ladministration-59687455787 "Inscrivez-vous - Nouvelle fenêtre"){:target="_blank"}
 > {: .lien-important}
 {: .encadre}
