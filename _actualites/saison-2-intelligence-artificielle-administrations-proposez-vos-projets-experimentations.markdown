@@ -21,7 +21,7 @@ Nouveauté de ce 2e appel à manifestation d’intérêt : les **projets techniq
 > **Lire aussi :** [Intelligence artificielle : 6 projets sélectionnés pour être expérimentés dans les services publics](https://numerique.gouv.fr/actualites/intelligence-artificielle-6-projets-selectionnes-pour-etre-experimentes-dans-les-services-publics/) et découvrez les projets en cours dans le cadre du 1er appel à manifestation d’intérêt Intelligence artificielle !
 {:.margin-left-3}
 
-> Cet appel à manifestation d’intérêt est lancé par la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) et la direction interministérielle de la transformation publique (DITP), dans le cadre du laboratoire d’intelligence artificielle piloté par la DINSIC.
+> <br>Cet appel à manifestation d’intérêt est lancé par la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) et la direction interministérielle de la transformation publique (DITP), dans le cadre du laboratoire d’intelligence artificielle piloté par la DINSIC.
 > <br>Inscrit dans la stratégie nationale en IA annoncée par le président de la République il y a un an et annoncé en octobre dernier, ce laboratoire est financé par le fonds « Transition numérique de l’État » du programme d’investissements d’avenir (PIA) piloté par le secrétariat général pour l’investissement (SGPI). Il sera présenté plus en détails dans quelques semaines.
 {: .encadre}
 
@@ -40,7 +40,7 @@ Les projets seront évalués selon les sept critères suivants :
 
 L’accompagnement des projets débutera **en septembre 2019.**
 
-Alors, administrations et opérateurs, prêts à tester les technologies d’intelligence artificielle pour aborder sous un angle nouveau une problématique au cœur de vos métiers ? C’est le bon moment !
+<br><br>Alors, administrations et opérateurs, prêts à tester les technologies d’intelligence artificielle pour aborder sous un angle nouveau une problématique au cœur de vos métiers ? C’est le bon moment !
 
 **> Consultez le cahier des charges**
 
