@@ -40,7 +40,8 @@ En déposant une offre sur une place partenaire MPS, les entreprises fournissent
 ### MPS pour les places de marchés publics
 
 Un service qui permet aux places d’amplifier leur stratégie de dématérialisation et d’offrir une fonction innovante à leur utilisateur : "répondez avec votre SIRET".
-Facile à mettre en œuvre
+
+* Facile à mettre en œuvre
 
 Les places de marchés intègrent la fonction "répondez avec votre SIRET", pour les acheteurs qui le souhaitent, grâce à un kit d’intégration gratuit exploitant les standards du web. Ce kit permet d’inclure les seules informations pertinentes de l’entreprise dans les processus dématérialisés.
 Promouvoir de nouveaux usages simplifiant les marchés publics
