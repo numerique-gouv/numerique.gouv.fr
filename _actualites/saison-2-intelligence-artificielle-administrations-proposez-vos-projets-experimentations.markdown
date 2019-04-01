@@ -3,6 +3,8 @@ title: "[Saison 2] Intelligence artificielle : administrations, proposez vos pro
   d’expérimentations !"
 date: 2019-04-01 15:07:00 +02:00
 published: false
+categories:
+- Appel à manifestation d'intérêt
 tags:
 - intelligence artificielle
 chapeau-text: Un an après l'annonce de la stratégie nationale d’intelligence artificielle,
@@ -40,8 +42,9 @@ L’accompagnement des projets débutera en septembre 2019.
 
 Alors, administrations et opérateurs, prêts à tester les technologies d’intelligence artificielle pour aborder sous un angle nouveau une problématique au cœur de vos métiers ? C’est le bon moment !
 
-> **> Consultez le cahier des charges**
+**> Consultez le cahier des charges**
+
+** [Déposez votre projet d'IA](http://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle "Déposez votre projet d'IA - Nouvelle fenêtre"){:target="_blank"}**
 >
-> ** [Déposez votre projet](http://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle)** [lien demarches-simplifiees.fr à venir\]
->
-> Pour toute question complémentaire, contactez l'équipe de l'AMI IA à l’adresse : [equipe-ami-ia@data.gouv.fr](mailto:equipe-ami-ia@data.gouv.fr)
+
+Pour toute question complémentaire, contactez l'équipe de l'appel à manifestation d'intérêt IA à l’adresse : [equipe-ami-ia@data.gouv.fr](mailto:equipe-ami-ia@data.gouv.fr)
