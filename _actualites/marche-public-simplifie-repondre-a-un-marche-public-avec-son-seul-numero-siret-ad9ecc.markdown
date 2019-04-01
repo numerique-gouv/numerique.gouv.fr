@@ -28,7 +28,7 @@ En déposant une offre sur une place partenaire MPS, les entreprises fournissent
 
  
 
->
+><br>
 >**ENJEU**
 >
 >* simplifier les candidatures aux 300 000 marchés publics publiés chaque année
