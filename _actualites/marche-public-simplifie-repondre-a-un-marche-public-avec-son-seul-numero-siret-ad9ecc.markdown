@@ -7,6 +7,7 @@ categories:
 chapeau-text: |-
   Dispositif phare du programme « [Dites-le-nous une fois](https://www.modernisation.gouv.fr/home/dites-le-nous-une-fois-un-programme-pour-simplifier-la-vie-des-entreprises){:target="_blank"}
    » pour les entreprises, le service Marché public simplifié (MPS) permet à une entreprise de répondre à un marché public avec son seul numéro SIRET. Il simplifie ainsi radicalement la réponse aux appels d'offres publics pour les entreprises de toutes tailles. Après une phase d'expérimentation, lancée en avril 2014 pour des appels d’offres inférieurs à certains montants, le dispositif est généralisé à partir du 1er novembre 2014 : il est ouvert à tout appel d’offres public, quel qu’en soit le montant, et propose un dispositif inédit de recueil de consentement dématérialisé des cotraitants dans le cadre de réponses groupées. [Dernière mise à jour le 01/08/2017]
+  <br>
   [Voir aussi le bilan de 1 an de Marché public simplifié](https://www.modernisation.gouv.fr/home/1-an-de-marche-public-simplifie-mps-premier-bilan){:target="_blank"}
 une-ou-diaporama:
 - image: "/uploads/mps_une.jpg"
