@@ -84,7 +84,7 @@ En charge de l’élaboration du droit de la commande publique, la direction des
 * [Accéder à la version accessible de l'infographie
 ](https://www.modernisation.gouv.fr/node/107968){:target="_blank"}
  
-
+<br>
 ### Les partenaires
 
 L’élaboration du dispositif associe étroitement les administrations de l’Etat, des opérateurs publics, des places de marché publiques et privées, des acheteurs publics et des collectivités locales, qui désirent améliorer l’efficacité de l’écosystème :
