@@ -2,6 +2,8 @@
 title: 'Marché Public Simplifié : répondre à un marché public avec son seul numéro
   SIRET'
 date: 2019-04-01 10:43:00 +02:00
+categories:
+- Article
 chapeau-text: |-
   Dispositif phare du programme « Dites-le-nous une fois » pour les entreprises, le service Marché public simplifié (MPS) permet à une entreprise de répondre à un marché public avec son seul numéro SIRET. Il simplifie ainsi radicalement la réponse aux appels d'offres publics pour les entreprises de toutes tailles. Après une phase d'expérimentation, lancée en avril 2014 pour des appels d’offres inférieurs à certains montants, le dispositif est généralisé à partir du 1er novembre 2014 : il est ouvert à tout appel d’offres public, quel qu’en soit le montant, et propose un dispositif inédit de recueil de consentement dématérialisé des cotraitants dans le cadre de réponses groupées. [Dernière mise à jour le 01/08/2017]
   > Voir aussi le bilan de 1 an de Marché public simplifié
@@ -44,22 +46,25 @@ Un service qui permet aux places d’amplifier leur stratégie de dématérialis
 * Facile à mettre en œuvre
 
 Les places de marchés intègrent la fonction "répondez avec votre SIRET", pour les acheteurs qui le souhaitent, grâce à un kit d’intégration gratuit exploitant les standards du web. Ce kit permet d’inclure les seules informations pertinentes de l’entreprise dans les processus dématérialisés.
-Promouvoir de nouveaux usages simplifiant les marchés publics
+
+* Promouvoir de nouveaux usages simplifiant les marchés publics
 
 Les places de marché offrent aux agents publics l’accès sécurisé aux informations des entreprises candidates. Ces informations sont collectées auprès des partenaires publics détenteurs de sources authentiques.
 
  
-
-MPS pour les acheteurs publics
+### MPS pour les acheteurs publics
 
 Des procédures simplifiées, pour un éventail élargi d’entreprises candidates aux marchés publics, notamment les TPE et PME, freinées par la complexité des procédures.
-Mise en avant des marchés compatibles MPS
+
+* Mise en avant des marchés compatibles MPS
 
 L’acheteur public publie son offre sur une place de marché compatible MPS. Le marché est alors mis en avant par une signalétique qui le distingue des marchés n’utilisant pas le dispositif MPS.
-Accès aux informations administratives
+
+* Accès aux informations administratives
 
 Un accès sécurisé dans la place de marché permet aux acheteurs d’obtenir les informations confidentielles concernant les entreprises retenues. Le recueil de la signature du mandataire social est réalisé a posteriori, hors du dispositif MPS.
-Sécurité juridique
+
+* Sécurité juridique
 
 Les informations transmises par MPS sont issues des sources authentiques et à jour de l’administration. Le dispositif est par ailleurs en conformité avec les nouvelles obligations prévues par l’article 53 du décret du 25 mars 2016 relatif aux marchés publics, en transposition de directives européennes, notamment l’impossibilité pour les acheteurs publics de réclamer aux entreprises candidates des documents accessibles gratuitement en ligne.
 
