@@ -22,7 +22,8 @@ Nouveauté de ce 2e appel à manifestation d’intérêt : les **projets techniq
 {:.margin-left-3}
 
 > <br>Cet appel à manifestation d’intérêt est lancé par la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) et la direction interministérielle de la transformation publique (DITP), dans le cadre du **laboratoire d’intelligence artificielle** piloté par la DINSIC.
-> <br><figure class='image-right' style='width: 20%;' margin-bottom='10' margin-top='3'><img src="/uploads/logo_investirlavenir_rvb.png" alt="Logo Investir l'avenir"/></figure>Inscrit dans [**la stratégie nationale en IA**](https://www.aiforhumanity.fr/ "la stratégie nationale en IA - Nouvelle fenêtre"){:target="_blank"} annoncée par le président de la République il y a un an et annoncé en octobre dernier, ce laboratoire est financé par le **fonds « Transition numérique de l’État » du programme d’investissements d’avenir** (PIA) piloté par le secrétariat général pour l’investissement (SGPI). Il sera présenté plus en détails dans quelques semaines.
+> <br>
+> <figure class='image-right' style='width: 20%;' margin-bottom='10' margin-top='3'><img src="/uploads/logo_investirlavenir_rvb.png" alt="Logo Investir l'avenir"/></figure>Inscrit dans [**la stratégie nationale en IA**](https://www.aiforhumanity.fr/ "la stratégie nationale en IA - Nouvelle fenêtre"){:target="_blank"} annoncée par le président de la République il y a un an et annoncé en octobre dernier, ce laboratoire est financé par le **fonds « Transition numérique de l’État » du programme d’investissements d’avenir** (PIA) piloté par le secrétariat général pour l’investissement (SGPI). Il sera présenté plus en détails dans quelques semaines.
 {: .encadre}
 
 ## Pertinence, impact, valeur ajoutée… Comment seront choisis les projets ?
