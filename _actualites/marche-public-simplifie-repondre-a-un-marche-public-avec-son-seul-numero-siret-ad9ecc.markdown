@@ -51,7 +51,7 @@ Les places de marchés intègrent la fonction "répondez avec votre SIRET", pour
 
 Les places de marché offrent aux agents publics l’accès sécurisé aux informations des entreprises candidates. Ces informations sont collectées auprès des partenaires publics détenteurs de sources authentiques.
 
- 
+<br>
 ### MPS pour les acheteurs publics
 
 Des procédures simplifiées, pour un éventail élargi d’entreprises candidates aux marchés publics, notamment les TPE et PME, freinées par la complexité des procédures.
