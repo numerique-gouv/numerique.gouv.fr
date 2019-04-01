@@ -40,7 +40,7 @@ Les projets seront évalués selon les sept critères suivants :
 * valeur ajoutée de l’accompagnement par la DINSIC et la DITP pour la réalisation du projet.
 
 L’accompagnement des projets débutera **en septembre 2019.**
-<br>
+
 <br>
 **Alors, administrations et opérateurs, prêts à tester les technologies d’intelligence artificielle pour aborder sous un angle nouveau une problématique au cœur de vos métiers ? C’est le bon moment !**
 {:.text-center}
@@ -51,50 +51,6 @@ L’accompagnement des projets débutera **en septembre 2019.**
 {: .lien-important}
 
 Pour toute question complémentaire, contactez l'équipe de l'appel à manifestation d'intérêt IA à l’adresse : [equipe-ami-ia@data.gouv.fr](mailto:equipe-ami-ia@data.gouv.fr)
-
-> ### Participez à la réunion d’information
-> La DINSIC et la DITP organisent une réunion d'information à destination des administrations **le 16 avril 2019 à 14h00** au **20 avenue de Ségur, Paris 7e**.
->
-> > [Inscrivez-vous !](https://www.eventbrite.fr/e/billets-reunion-dinformation-ami-ia-experimenter-lia-dans-ladministration-59687455787 "Inscrivez-vous - Nouvelle fenêtre"){:target="_blank"}
-> {: .lien-important}
-{: .encadre}
-
-> ### Prêts ? 
-> Alors, administrations et opérateurs, prêts à tester les technologies d’intelligence artificielle pour aborder sous un angle nouveau une problématique au cœur de vos métiers ? C’est le bon moment !
-> <br>
-> **> [Consultez le cahier des charges (pdf, 250 ko)](/uploads/cahier_des_charges_ami_ia_2.pdf)**
-> <br>
-> > [Déposez votre projet d'IA](http://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle "Déposez votre projet d'IA - Nouvelle fenêtre"){:target="_blank"}
-> {: .lien-important}
-> <br>
-> <br>
-> Pour toute question complémentaire, contactez l'équipe de l'appel à manifestation d'intérêt IA à l’adresse : [equipe-ami-ia@data.gouv.fr](mailto:equipe-ami-ia@data.gouv.fr)
-{: .exergue}
-
-
-### Participez à la réunion d’information
-La DINSIC et la DITP organisent une réunion d'information à destination des administrations **le 16 avril 2019 à 14h00** au **20 avenue de Ségur, Paris 7e**.
-
-> [Inscrivez-vous !](https://www.eventbrite.fr/e/billets-reunion-dinformation-ami-ia-experimenter-lia-dans-ladministration-59687455787 "Inscrivez-vous - Nouvelle fenêtre"){:target="_blank"}
-{: .lien-important}
-
-
-
-<br><br>Alors, administrations et opérateurs, prêts à tester les technologies d’intelligence artificielle pour aborder sous un angle nouveau une problématique au cœur de vos métiers ? C’est le bon moment !
-
-**> [Consultez le cahier des charges (pdf, 250 ko)](/uploads/cahier_des_charges_ami_ia_2.pdf)**
-
-> [Déposez votre projet d'IA](http://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle "Déposez votre projet d'IA - Nouvelle fenêtre"){:target="_blank"}
-{: .lien-important}
-
-Pour toute question complémentaire, contactez l'équipe de l'appel à manifestation d'intérêt IA à l’adresse : [equipe-ami-ia@data.gouv.fr](mailto:equipe-ami-ia@data.gouv.fr)
-
-> ### Participez à la réunion d’information
-> La DINSIC et la DITP organisent une réunion d'information à destination des administrations **le 16 avril 2019 à 14h00** au **20 avenue de Ségur, Paris 7e**.
->
-> > [Inscrivez-vous !](https://www.eventbrite.fr/e/billets-reunion-dinformation-ami-ia-experimenter-lia-dans-ladministration-59687455787 "Inscrivez-vous - Nouvelle fenêtre"){:target="_blank"}
-> {: .lien-important}
-{: .encadre}
 
 
 > ### Participez à la réunion d’information
