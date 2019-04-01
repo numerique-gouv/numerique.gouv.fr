@@ -36,7 +36,8 @@ Le rapport sera remis à l'été 2016 aux gouvernements français et britannique
 > **Co-présidents :**
 > * Henri Verdier, SGMAP (France)
 > * Sir Nigel Shadbolt, Open Data Institute (Royaume-Uni)
-> <br> 
+> <br>
+> <br>
 > **Membres :**
 > * Patrick Coquet, Cap Digital (France)
 > * Alban Schmutz, OVH (France)
@@ -46,6 +47,7 @@ Le rapport sera remis à l'été 2016 aux gouvernements français et britannique
 > * Doug Munro, Adzuna (Royaume-Uni)
 > * Andrew Lawson, Salesforce.com (Royaume-Uni)
 > * Emer Coleman, EY (Royaume-Uni)
+> <br>
 > <br>
 > **Assesseurs :**
 > * Fabien Terraillot, direction générale des entreprises (France)
