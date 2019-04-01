@@ -38,7 +38,7 @@ En déposant une offre sur une place partenaire MPS, les entreprises fournissent
 >* 2 HEURES PAR MARCHÉ de gain de temps pour l’entreprise
 >* 60 MILLIONS D’EUROS d'économies par an pour les entreprises, sur les 300 000 marchés publics annuels
 {: .encadre}
-
+<br>
 ### MPS pour les places de marchés publics
 
 Un service qui permet aux places d’amplifier leur stratégie de dématérialisation et d’offrir une fonction innovante à leur utilisateur : "répondez avec votre SIRET".
