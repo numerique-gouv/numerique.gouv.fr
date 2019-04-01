@@ -43,11 +43,11 @@ En déposant une offre sur une place partenaire MPS, les entreprises fournissent
 
 Un service qui permet aux places d’amplifier leur stratégie de dématérialisation et d’offrir une fonction innovante à leur utilisateur : "répondez avec votre SIRET".
 
-* Facile à mettre en œuvre
+* **Facile à mettre en œuvre**
 
 Les places de marchés intègrent la fonction "répondez avec votre SIRET", pour les acheteurs qui le souhaitent, grâce à un kit d’intégration gratuit exploitant les standards du web. Ce kit permet d’inclure les seules informations pertinentes de l’entreprise dans les processus dématérialisés.
 
-* Promouvoir de nouveaux usages simplifiant les marchés publics
+* **Promouvoir de nouveaux usages simplifiant les marchés publics**
 
 Les places de marché offrent aux agents publics l’accès sécurisé aux informations des entreprises candidates. Ces informations sont collectées auprès des partenaires publics détenteurs de sources authentiques.
 
@@ -56,15 +56,15 @@ Les places de marché offrent aux agents publics l’accès sécurisé aux infor
 
 Des procédures simplifiées, pour un éventail élargi d’entreprises candidates aux marchés publics, notamment les TPE et PME, freinées par la complexité des procédures.
 
-* Mise en avant des marchés compatibles MPS
+* **Mise en avant des marchés compatibles MPS**
 
 L’acheteur public publie son offre sur une place de marché compatible MPS. Le marché est alors mis en avant par une signalétique qui le distingue des marchés n’utilisant pas le dispositif MPS.
 
-* Accès aux informations administratives
+* **Accès aux informations administratives**
 
 Un accès sécurisé dans la place de marché permet aux acheteurs d’obtenir les informations confidentielles concernant les entreprises retenues. Le recueil de la signature du mandataire social est réalisé a posteriori, hors du dispositif MPS.
 
-* Sécurité juridique
+* **Sécurité juridique**
 
 Les informations transmises par MPS sont issues des sources authentiques et à jour de l’administration. Le dispositif est par ailleurs en conformité avec les nouvelles obligations prévues par l’article 53 du décret du 25 mars 2016 relatif aux marchés publics, en transposition de directives européennes, notamment l’impossibilité pour les acheteurs publics de réclamer aux entreprises candidates des documents accessibles gratuitement en ligne.
 
@@ -76,7 +76,7 @@ En charge de l’élaboration du droit de la commande publique, la direction des
 
  
 
-Les partenaires
+### Les partenaires
 
 L’élaboration du dispositif associe étroitement les administrations de l’Etat, des opérateurs publics, des places de marché publiques et privées, des acheteurs publics et des collectivités locales, qui désirent améliorer l’efficacité de l’écosystème :
 
