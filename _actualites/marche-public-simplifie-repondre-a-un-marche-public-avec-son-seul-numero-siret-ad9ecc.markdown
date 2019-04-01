@@ -28,12 +28,12 @@ En déposant une offre sur une place partenaire MPS, les entreprises fournissent
 
  
 
-
-> ### ENJEU
+>
+> **ENJEU**
 >
 >* simplifier les candidatures aux 300 000 marchés publics publiés chaque année
 >
-> ### GAIN DE TEMPS ET ÉCONOMIES A LA CLÉ POUR LES ENTREPRISES
+> **GAIN DE TEMPS ET ÉCONOMIES A LA CLÉ POUR LES ENTREPRISES**
 >
 >* 2 HEURES PAR MARCHÉ de gain de temps pour l’entreprise
 >* 60 MILLIONS D’EUROS d'économies par an pour les entreprises, sur les 300 000 marchés publics annuels
