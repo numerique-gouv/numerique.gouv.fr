@@ -25,7 +25,7 @@ Ce rapport formulera des **recommandations concrètes pour accélérer le dével
 Le rapport sera remis à l'été 2016 aux gouvernements français et britannique.
 
 > <br>
-#### Les membres de la taskforce 
+> #### Les membres de la taskforce 
 <figure class='image-right' style='width: 60%; margin-left: 10px;'><img src="/uploads/taskforce_4.jpg"/></figure>> **Co-présidents :**
 > * Henri Verdier, SGMAP (France)
 > * Sir Nigel Shadbolt, Open Data Institute (Royaume-Uni)
