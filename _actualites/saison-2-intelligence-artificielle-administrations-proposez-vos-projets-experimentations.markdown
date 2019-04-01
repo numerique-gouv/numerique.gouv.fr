@@ -42,7 +42,7 @@ L’accompagnement des projets débutera **en septembre 2019.**
 
 <br><br>Alors, administrations et opérateurs, prêts à tester les technologies d’intelligence artificielle pour aborder sous un angle nouveau une problématique au cœur de vos métiers ? C’est le bon moment !
 
-**> [cahier_des_charges_ami_ia_2.pdf](/uploads/cahier_des_charges_ami_ia_2.pdf)**
+**> [Consultez le cahier des charges - pdf, 250 ko](/uploads/cahier_des_charges_ami_ia_2.pdf)**
 
 > [Déposez votre projet d'IA](http://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle "Déposez votre projet d'IA - Nouvelle fenêtre"){:target="_blank"}
 {: .lien-important}
