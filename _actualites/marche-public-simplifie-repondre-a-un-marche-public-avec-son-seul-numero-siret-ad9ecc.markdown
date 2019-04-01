@@ -72,8 +72,8 @@ En charge de l’élaboration du droit de la commande publique, la direction des
 
 * [Agrandir l'image](https://www.modernisation.gouv.fr/sites/default/files/sgmap-1anmps-4.png){:target="_blank"}
 
->> Accéder à la version accessible de l'infographie
-
+* [Accéder à la version accessible de l'infographie
+](https://www.modernisation.gouv.fr/node/107968){:target="_blank"}
  
 
 ### Les partenaires
