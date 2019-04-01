@@ -48,7 +48,7 @@ Les projets seront évalués selon les sept critères suivants :
 
 * valeur ajoutée de l’accompagnement par la DINSIC et la DITP pour la réalisation du projet.
 
-L’accompagnement des projets débutera en septembre 2019.
+**L’accompagnement des projets débutera en septembre 2019.**
 
 Alors, administrations et opérateurs, prêts à tester les technologies d’intelligence artificielle pour aborder sous un angle nouveau une problématique au cœur de vos métiers ? C’est le bon moment !
 
