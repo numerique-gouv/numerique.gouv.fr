@@ -1,11 +1,20 @@
 ---
 title: La loi pour une République numérique se construit avec les Français
 date: 2019-04-01 15:46:00 +02:00
+categories:
+- Article
+tags:
+- Numérique
+- Transparence
+- Etalab
+- Gouvernement ouvert
 chapeau-text: 'Manuel Valls et Axelle Lemaire ont lancé, samedi 26 septembre, la consultation
   publique, ouverte et interactive, autour du projet de loi pour une République numérique.
   Une première en France.
 
 '
+une-ou-diaporama:
+- image: "/uploads/projet-loi-numerique_une-d2724b.jpg"
 ---
 
 #### Tout citoyen peut contribuer au projet de loi
@@ -37,3 +46,8 @@ Cette méthode contributive avait été amorcée il y a un an déjà, avec le la
 {: .auteur-citation}
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/8Kl03RedNwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Les Français ont jusqu’au dimanche 18 octobre pour contribuer au projet de loi pour une République numérique.**
+
+> [Participez sur republique-numerique.fr](https://www.republique-numerique.fr/){:target="_blank"}
+{: .lien-important}
