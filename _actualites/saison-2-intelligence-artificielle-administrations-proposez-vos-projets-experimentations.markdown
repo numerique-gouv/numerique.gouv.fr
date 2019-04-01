@@ -18,7 +18,7 @@ Quelles seront les prochaines expérimentations de l’intelligence artificielle
 
 Nouveauté de ce 2e appel à manifestation d’intérêt : les **projets techniquement plus exploratoires** pourront bénéficier d'un accompagnement spécifique, via un partenariat avec un institut de recherche ou une entreprise innovante.
 
-> **Lire aussi :** [Intelligence artificielle : 6 projets sélectionnés pour être expérimentés dans les services publics](https://numerique.gouv.fr/actualites/intelligence-artificielle-6-projets-selectionnes-pour-etre-experimentes-dans-les-services-publics/) et découvrez les projets en cours dans le cadre du 1er appel à manifestation d’intérêt Intelligence artificielle !
+**Lire aussi :** [Intelligence artificielle : 6 projets sélectionnés pour être expérimentés dans les services publics](https://numerique.gouv.fr/actualites/intelligence-artificielle-6-projets-selectionnes-pour-etre-experimentes-dans-les-services-publics/) et découvrez les projets en cours dans le cadre du 1er appel à manifestation d’intérêt Intelligence artificielle !
 {:.margin-left-3}
 
 > <br>Cet appel à manifestation d’intérêt est lancé par la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) et la direction interministérielle de la transformation publique (DITP), dans le cadre du **laboratoire d’intelligence artificielle** piloté par la DINSIC.
