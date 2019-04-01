@@ -12,6 +12,9 @@ une-ou-diaporama:
 - image: "/uploads/mps_une.jpg"
 ---
 
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x28xl4z" allowfullscreen allow="autoplay"></iframe>
+
+
 ### MPS pour les entreprises
 
 Une candidature simplifiée accessible sur les places de marchés partenaires du dispositif.
