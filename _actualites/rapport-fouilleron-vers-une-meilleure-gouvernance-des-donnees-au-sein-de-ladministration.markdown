@@ -20,13 +20,16 @@ Key:
 
 Après 6 mois de travaux, appuyés notamment par le secrétariat général pour la modernisation de l’action publique (SGMAP) et [l’administrateur général des données ](https://agd.data.gouv.fr/){:target="_blank"} (AGD), la mission vient de rendre son rapport. Sur la base d’une enquête réalisée auprès de 80 administrations, elle a permis de déterminer le montant de ces transactions (19,88 M€ en 2014) et a recensé **trente vendeurs de données**, dont **cinq concentrent à eux seuls 91% des montants identifiés** : la caisse nationale d’assurance retraite (CNAV), l’institut national de l'information géographique et forestière (IGN), l’INSEE, la direction générale des finances publiques (DGFiP) et l’agence centrale des organismes de sécurité sociale.
 <br>
+<br>
 ### Les effets pervers de la tarification des données
 
 Cette tarification nuit à l’efficacité et la qualité de l’action publique, en engendrant des coûts de transaction et des effets pervers comme le renoncement à la donnée pour des raisons budgétaires ou des stratégies de contournement du frein budgétaire de la part des administrations acheteuses. A contrario, la gratuité des échanges de données au sein du secteur public est de nature à favoriser leur circulation et leur utilisation, **vectrices d’externalités et d’effets de réseaux**, et stimulera **la progression de la culture de la donnée** au sein de l’administration, pour une plus grande efficacité et qualité de l’action publique.
 <br>
+<br>
 ### Instaurer dans la loi un principe de gratuité
 
 Rappelant le potentiel de création de valeur économique et sociale sous-jacent à la circulation des données, la mission préconise d’instaurer dans la loi, de manière à couvrir le périmètre le plus large des administrations, **un principe de gratuité de ces transmissions entre administrations réalisées dans le cadre de l’exercice des missions de service public.** Afin de rendre effectif ce principe tout en préservant les équilibres financiers des administrations vendeuses et acheteuses de données, le rapport propose d’introduire parallèlement **une mesure de neutralisation en base budgétaire.**
+<br>
 <br>
 ### Favoriser une meilleure exploitation des données
 
