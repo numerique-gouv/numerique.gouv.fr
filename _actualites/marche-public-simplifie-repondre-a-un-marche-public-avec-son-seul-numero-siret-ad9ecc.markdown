@@ -70,7 +70,7 @@ Les informations transmises par MPS sont issues des sources authentiques et à j
 
 En charge de l’élaboration du droit de la commande publique, la direction des affaires juridiques conseille vivement le recours à MPS, du fait de la simplicité qu’il apporte, et encourage les acheteurs à y adhérer.
 
->> Agrandir l'image
+* [Agrandir l'image](https://www.modernisation.gouv.fr/sites/default/files/sgmap-1anmps-4.png){:target="_blank"}
 
 >> Accéder à la version accessible de l'infographie
 
