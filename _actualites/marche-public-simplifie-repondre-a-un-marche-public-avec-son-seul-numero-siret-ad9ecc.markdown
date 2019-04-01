@@ -110,9 +110,8 @@ Administrations et organismes fournisseurs de données
 
 *Partenaires techniques, principales places de marché et groupements acheteurs*
 
-> Voir les statistiques
+* [ Voir les statistiques](https://mps.apientreprise.fr/stats){:target="_blank"}
 
- 
 
 * [Pour en savoir plus sur les marchés en cours, les partenaires du dispositif MPS et accéder à de l’information complémentaire : mps.apientreprise.fr](https://mps.apientreprise.fr/){:target="_blank"}
 
