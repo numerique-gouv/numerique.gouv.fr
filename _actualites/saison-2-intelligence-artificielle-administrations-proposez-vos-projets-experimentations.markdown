@@ -2,7 +2,6 @@
 title: "[Saison 2] Intelligence artificielle : administrations, proposez vos projets
   d’expérimentations !"
 date: 2019-04-01 15:07:00 +02:00
-published: false
 categories:
 - Appel à manifestation d'intérêt
 tags:
@@ -19,7 +18,7 @@ Quelles seront les prochaines expérimentations de l’intelligence artificielle
 
 Nouveauté de ce 2e appel à manifestation d’intérêt : les **projets techniquement plus exploratoires** pourront bénéficier d'un accompagnement spécifique, via un partenariat avec un institut de recherche ou une entreprise innovante.
 
-\*\*Lire aussi : \*\*[Intelligence artificielle : 6 projets sélectionnés pour être expérimentés dans les services publics](https://numerique.gouv.fr/actualites/intelligence-artificielle-6-projets-selectionnes-pour-etre-experimentes-dans-les-services-publics/) et découvrez les projets en cours dans le cadre du 1er appel à manifestation d’intérêt Intelligence artificielle !
+**Lire aussi :** [Intelligence artificielle : 6 projets sélectionnés pour être expérimentés dans les services publics](https://numerique.gouv.fr/actualites/intelligence-artificielle-6-projets-selectionnes-pour-etre-experimentes-dans-les-services-publics/) et découvrez les projets en cours dans le cadre du 1er appel à manifestation d’intérêt Intelligence artificielle !
 
 > Cet appel à manifestation d’intérêt est lancé par la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) et la direction interministérielle de la transformation publique (DITP), dans le cadre du laboratoire d’intelligence artificielle piloté par la DINSIC.
 > <br>Inscrit dans la stratégie nationale en IA annoncée par le président de la République il y a un an et annoncé en octobre dernier, ce laboratoire est financé par le fonds « Transition numérique de l’État » du programme d’investissements d’avenir (PIA) piloté par le secrétariat général pour l’investissement (SGPI). Il sera présenté plus en détails dans quelques semaines.
@@ -51,7 +50,7 @@ Alors, administrations et opérateurs, prêts à tester les technologies d’int
 
 **> Consultez le cahier des charges**
 
->** [Déposez votre projet d'IA](http://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle "Déposez votre projet d'IA - Nouvelle fenêtre"){:target="_blank"}**
+> [Déposez votre projet d'IA](http://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle "Déposez votre projet d'IA - Nouvelle fenêtre"){:target="_blank"}
 {: .lien-important}
 
 Pour toute question complémentaire, contactez l'équipe de l'appel à manifestation d'intérêt IA à l’adresse : [equipe-ami-ia@data.gouv.fr](mailto:equipe-ami-ia@data.gouv.fr)
