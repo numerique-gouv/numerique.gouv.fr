@@ -13,6 +13,8 @@ une-ou-diaporama:
 ---
 
 <iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x28xl4z" allowfullscreen allow="autoplay"></iframe>
+<br>
+<br>
 
 
 ### MPS pour les entreprises
