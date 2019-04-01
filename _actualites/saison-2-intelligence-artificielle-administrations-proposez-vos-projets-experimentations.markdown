@@ -42,6 +42,7 @@ Les projets seront évalués selon les sept critères suivants :
 L’accompagnement des projets débutera **en septembre 2019.**
 
 <br>
+<br>
 **Alors, administrations et opérateurs, prêts à tester les technologies d’intelligence artificielle pour aborder sous un angle nouveau une problématique au cœur de vos métiers ? C’est le bon moment !**
 {:.text-center}
 **> [Consultez le cahier des charges (pdf, 250 ko)](/uploads/cahier_des_charges_ami_ia_2.pdf)**
@@ -52,7 +53,8 @@ L’accompagnement des projets débutera **en septembre 2019.**
 
 Pour toute question complémentaire, contactez l'équipe de l'appel à manifestation d'intérêt IA à l’adresse : [equipe-ami-ia@data.gouv.fr](mailto:equipe-ami-ia@data.gouv.fr)
 
-
+<br>
+<br>
 > ### Participez à la réunion d’information
 > La DINSIC et la DITP organisent une réunion d'information à destination des administrations **le 16 avril 2019 à 14h00** au **20 avenue de Ségur, Paris 7e**.
 >
