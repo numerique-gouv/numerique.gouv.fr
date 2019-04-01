@@ -1,6 +1,12 @@
 ---
 title: 'Économie de la donnée : la France et le Royaume-Uni unissent leur expertise'
 date: 2019-04-01 16:36:00 +02:00
+categories:
+- Article
+tags:
+- Données
+- Données ouvertes
+- Entreprises
 chapeau-text: La France et le Royaume-Uni ont mis en place une « taskforce » commune
   afin de relever les défis posés par l’économie de la donnée, et comprendre comment
   exploiter au mieux le potentiel de croissance des données. Le groupe de travail,
