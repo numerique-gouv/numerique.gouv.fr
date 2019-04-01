@@ -19,7 +19,7 @@ Quelles seront les prochaines expérimentations de l’intelligence artificielle
 Nouveauté de ce 2e appel à manifestation d’intérêt : les **projets techniquement plus exploratoires** pourront bénéficier d'un accompagnement spécifique, via un partenariat avec un institut de recherche ou une entreprise innovante.
 
 > **Lire aussi :** [Intelligence artificielle : 6 projets sélectionnés pour être expérimentés dans les services publics](https://numerique.gouv.fr/actualites/intelligence-artificielle-6-projets-selectionnes-pour-etre-experimentes-dans-les-services-publics/) et découvrez les projets en cours dans le cadre du 1er appel à manifestation d’intérêt Intelligence artificielle !
-{: .margin-left-3}
+{:.margin-left-3}
 
 > Cet appel à manifestation d’intérêt est lancé par la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC) et la direction interministérielle de la transformation publique (DITP), dans le cadre du laboratoire d’intelligence artificielle piloté par la DINSIC.
 > <br>Inscrit dans la stratégie nationale en IA annoncée par le président de la République il y a un an et annoncé en octobre dernier, ce laboratoire est financé par le fonds « Transition numérique de l’État » du programme d’investissements d’avenir (PIA) piloté par le secrétariat général pour l’investissement (SGPI). Il sera présenté plus en détails dans quelques semaines.
@@ -30,22 +30,15 @@ Nouveauté de ce 2e appel à manifestation d’intérêt : les **projets techniq
 Comme pour le 1er appel à manifestation d’intérêt lancé en 2018, la DINSIC et la DITP mobiliseront un jury de personnalités qualifiées issues des secteurs public et privé pour auditionner les équipes présélectionnées par la DINSIC et la DITP et choisir les projets lauréats. Le jury se réunira au début du mois de juillet et les lauréats seront annoncés à la mi-juillet.
 
 Les projets seront évalués selon les sept critères suivants :
-
 * impact et bénéfices potentiels pour l’administration lauréate et ses usagers, liés à l’utilisation de l’IA sur le périmètre métier proposé ;
-
 * pertinence de l’IA comme solution au problème identifié ;
-
 * pertinence du défi technique ;
-
 * composition de l’équipe d’agents publics impliqués dans le projet ;
-
 * existence et accessibilité des données nécessaires ;
-
 * intérêt de l’expérimentation pour tirer des enseignements qui dépassent le simple projet du candidat ;
-
 * valeur ajoutée de l’accompagnement par la DINSIC et la DITP pour la réalisation du projet.
 
-**L’accompagnement des projets débutera en septembre 2019.**
+L’accompagnement des projets débutera **en septembre 2019.**
 
 Alors, administrations et opérateurs, prêts à tester les technologies d’intelligence artificielle pour aborder sous un angle nouveau une problématique au cœur de vos métiers ? C’est le bon moment !
 
