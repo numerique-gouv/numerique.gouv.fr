@@ -27,3 +27,11 @@ L’enjeu est de taille :
 > Plan d’action national 2015-2017 pour une action publique transparente et collaborative
 {: .auteur-citation}
 
+#### Le fruit de l’intelligence collective
+
+Cette méthode contributive avait été amorcée il y a un an déjà, avec le lancement, le 4 octobre 2014, d’une grande concertation nationale sur le numérique. Les milliers de contributions recueillies des entreprises, administrations et particuliers, avaient nourri le projet de loi aujourd’hui soumis à consultation.
+
+> **Nous voulons que ce texte de loi soit, plus encore, le fruit de l’intelligence collective. Le fruit du travail des ministères, de leurs administrations, de juristes, des parlementaires. Mais aussi le fruit du travail des acteurs de terrain, des experts, de la société civile, et des citoyens.**
+{: .citation}
+> Manuel Valls, Premier ministre
+{: .auteur-citation}
