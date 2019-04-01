@@ -22,7 +22,7 @@ Cette ouverture est une révolution en matière de transparence démocratique et
 
 L’enjeu est de taille :
 
-> **"La consultation des citoyens sur les projets de loi ou en amont de leur préparation peut permettre de bâtir une décision publique et une législation efficaces et de revitaliser la démocratie. »**
+> **La consultation des citoyens sur les projets de loi ou en amont de leur préparation peut permettre de bâtir une décision publique et une législation efficaces et de revitaliser la démocratie. **
 {: .citation}
 > Plan d’action national 2015-2017 pour une action publique transparente et collaborative
 {: .auteur-citation}
@@ -35,3 +35,5 @@ Cette méthode contributive avait été amorcée il y a un an déjà, avec le la
 {: .citation}
 > Manuel Valls, Premier ministre
 {: .auteur-citation}
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/8Kl03RedNwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
