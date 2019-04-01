@@ -83,20 +83,32 @@ L’élaboration du dispositif associe étroitement les administrations de l’E
 Administrations et organismes fournisseurs de données
 
 ACOSS : attestation de régularité sociale et attestation de vigilance
+
 AGEFIPH : attestation travailleurs handicapés
+
 AUDIENS : attestation de régularité sociale
+
 CNETP : attestation congés payés dans le domaine des travaux publics
+
 DGFiP : attestation de régularité fiscale
+
 FNTP : attestation professionnelle FNTP
+
 INFOGREFFE : informations juridiques
+
 INSEE : informations administratives
+
 Ministère de l'Intérieur : informations relatives aux associations
+
 Mutualité sociale agricole (MSA) : attestation de régularité sociale
+
 OPQIBI : attestation de capacité OPQIBI
+
 Pro-BTP : attestation de retraite Pro BTP
+
 QUALIBAT : attestation professionnelle QUALIBAT
 
-Partenaires techniques, principales places de marché et groupements acheteurs
+*Partenaires techniques, principales places de marché et groupements acheteurs*
 
 > Voir les statistiques
 
