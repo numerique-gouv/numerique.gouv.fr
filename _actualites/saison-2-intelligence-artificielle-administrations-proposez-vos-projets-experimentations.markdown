@@ -1,7 +1,7 @@
 ---
 title: "[Saison 2] Intelligence artificielle : administrations, proposez vos projets
   d’expérimentations !"
-date: 2019-04-02 08:07:00 +02:00
+date: 2019-04-01 08:07:00 +02:00
 categories:
 - Appel à manifestation d'intérêt
 tags:
