@@ -1,6 +1,10 @@
 ---
 title: L’open data nourrit la participation citoyenne et vice-versa
 date: 2016-02-08 14:30:00 +01:00
+categories:
+- Article
+tags:
+- Open data
 chapeau-text: La société civile s'empare des données publiques. Elle se comporte de
   plus en plus en « consommateur » éclairé et exigeant. Elle réclame de nouveaux jeux
   de données à l’État, commente ceux qui sont mis à disposition sur data.gouv.fr,
@@ -28,3 +32,11 @@ Autre marqueur d'une maturité croissante de la société civile en la matière 
 Cette appropriation des données publiques françaises par la société remonte à l'année 2013, date à laquelle la plateforme data.gouv.fr a été refondue sur un mode collaboratif. « Elle a été coconstruite avec des usagers, qui ont fait remonter le besoin de publier eux-mêmes des données, rappelle Claire-Marie Foulquier-Gazagnes, en charge de la politique de gouvernement ouvert au sein d'Etalab. Des forums ont été ajoutés pour encourager les débats entre les producteurs d'information et les citoyens. Les réutilisations de données, *mises à disposition gratuitement et en licence ouverte, sont favorisées et largement mises en avant. »*
 
 A l'instar du mouvement Civic Tech aux Etats-Unis **émerge en France un écosystème de startups et d'associations animées par des objectifs sociaux.** On peut citer des acteurs historiques, comme **Regards citoyens** ou **Open Knowledge** France, mais aussi MakeSense, une communauté au service des entrepreneurs sociaux, Voxe.org, un outil de comparaison de programmes électoraux, ou encore le projet Bénévole at home, lauréat du concours [Dataconnexions 6](https://www.modernisation.gouv.fr/home/dataconnexions-6-le-palmares){: target="_blank"}. Ce service de cartographie permet de géolocaliser des « anges-gardiens », citoyens solidaires qui proposent leur aide près de chez eux, et les met en relation avec des personnes dans le besoin.
+
+<br>
+### Une dynamique vertueuse 
+
+**La consultation du projet de loi pour une République numérique** fournit un bel exemple de dynamique vertueuse entre participation citoyenne et open data. Quelque 8 500 contributions et 150 000 votes sur les articles ont été déposés par plus de 21 000 participants. Les données de consultation, [disponibles en ligne](https://www.data.gouv.fr/fr/datasets/consultation-sur-le-projet-de-loi-republique-numerique/){: target="_blank"}, ont fait l'objet d'un hackathon en fin d'année dernière. Des chercheurs ont ainsi pu mettre en évidence les jeux d'acteurs et les actions de lobbying.
+
+Le ministère des Affaires étrangères et du développement international joue également la carte de la transparence et de la contribution citoyenne. Les données relatives aux projets d'aide à 16 pays prioritaires sont publiées sur une plateforme dédiée et les citoyens sont invités à réagir en ligne pour commenter les réalisations qui sont menées sur place, leur niveau d'avancement… Un bon moyen d'améliorer la qualité des données, qui gagnent à être partagées avec le plus grand nombre.
+
