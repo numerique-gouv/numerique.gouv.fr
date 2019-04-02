@@ -31,6 +31,8 @@ champs_informations:
 - intitule: Modalités
   contenu: Inscription gratuite
   lien: https://www.eventbrite.fr/e/billets-reunion-dinformation-ami-ia-experimenter-lia-dans-ladministration-59687455787
+- intitule: Horaires
+  contenu: 14h00-16h00
 ---
 
 Ouverte à toutes les personnes de l'administration intéressées par [l'appel à manifestation d'intérêt autour de l'IA](https://www.numerique.gouv.fr/actualites/saison-2-intelligence-artificielle-administrations-proposez-vos-projets-experimentations/){:target="_blank"}, cette réunion d'information a pour objectif de présenter l'appel à manifestation d'intérêt et le programme d'accompagnement des administrations lauréates.
