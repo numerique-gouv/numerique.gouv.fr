@@ -1,6 +1,11 @@
 ---
 title: Vidéo] De l’open data au gouvernement ouvert
 date: 2014-04-25 16:34:00 +02:00
+categories:
+- Vidéo
+tags:
+- Open data
+- Gouvernement ouvert
 chapeau-text: 'Jeudi 24 avril 2014, les acteurs majeurs de l’open data en France et
   à l’étranger se sont réunis à l’occasion de la [Conférence de Paris : de l’Open
   Data au gouvernement ouvert](https://www.modernisation.gouv.fr/home/conference-de-paris-open-data-open-gov){:
