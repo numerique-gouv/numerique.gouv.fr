@@ -1,5 +1,5 @@
 ---
-title: Vidéo] De l’open data au gouvernement ouvert
+title: "[Vidéo] De l’open data au gouvernement ouvert"
 date: 2014-04-25 16:34:00 +02:00
 categories:
 - Vidéo
