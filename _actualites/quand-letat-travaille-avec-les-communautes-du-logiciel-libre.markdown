@@ -13,8 +13,9 @@ une-ou-diaporama:
 - image: "/uploads/une-logiciel-libre.jpg"
 ---
 
-> « L'Etat doit s'organiser pour s’approprier l’innovation plus rapidement, pour expérimenter en permanence et pour anticiper les usages qui peuvent être faits des dernières avancées technologiques », déclare Henri Verdier, directeur de la DINSIC (direction interministérielle du numérique et des systèmes d'information et de communication), au sein du SGMAP. Il enchaîne sur la méthode : « Pour réussir à décupler notre capacité d'action, il nous faut nous allier aux communautés de développeurs et mieux travailler avec les milliers d’agents publics qui y contribuent. »
-{: .citation}
+*« L'Etat doit s'organiser pour s’approprier l’innovation plus rapidement, pour expérimenter en permanence et pour anticiper les usages qui peuvent être faits des dernières avancées technologiques », déclare Henri Verdier, directeur de la DINSIC (direction interministérielle du numérique et des systèmes d'information et de communication), au sein du SGMAP. Il enchaîne sur la méthode : « Pour réussir à décupler notre capacité d'action, il nous faut nous allier aux communautés de développeurs et mieux travailler avec les milliers d’agents publics qui y contribuent. »*
+
+<br>
 
 
 Le rôle des communautés du logiciel libre est essentiel à la fois pour bénéficier de codes de qualité, maintenus et améliorés en permanence, pour mutualiser les ressources et les expertises entre les services de l'Etat, mais également pour s'ouvrir vers l'extérieur. C'est un moyen de dynamiser les projets et de contribuer à leur pérennité. « La volonté d'ouverture constitue l'une des priorités de cette année 2016 », insiste Emmanuel Raviart, directeur technique de la mission Etalab, en charge de la politique d'ouverture des données publiques, de l’open data et de l’open source.
