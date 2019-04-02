@@ -22,3 +22,8 @@ En même temps qu’elle s’implique plus largement, la société civile exprim
 
 Autre marqueur d'une maturité croissante de la société civile en la matière : **celle-ci devient à son tour producteur de données.** C'est le cas bien évidemment de startups citoyennes, mais aussi d'associations ayant pignon sur rue, telle la Croix-Rouge ou 60 millions de consommateurs.
 
+<br>
+### Naissance d’un écosystème « Civic Tech »
+
+Cette appropriation des données publiques françaises par la société remonte à l'année 2013, date à laquelle la plateforme data.gouv.fr a été refondue sur un mode collaboratif. « Elle a été coconstruite avec des usagers, qui ont fait remonter le besoin de publier eux-mêmes des données, rappelle Claire-Marie Foulquier-Gazagnes, en charge de la politique de gouvernement ouvert au sein d'Etalab. Des forums ont été ajoutés pour encourager les débats entre les producteurs d'information et les citoyens. Les réutilisations de données, *mises à disposition gratuitement et en licence ouverte, sont favorisées et largement mises en avant. »*
+
