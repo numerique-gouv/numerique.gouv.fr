@@ -2,6 +2,7 @@
 title: "[Vidéo] Revivez en 5' la Conférence de Paris : De l’open data au gouvernement
   ouvert"
 date: 2019-04-02 16:28:00 +02:00
+published: false
 categories:
 - Vidéo
 tags:
