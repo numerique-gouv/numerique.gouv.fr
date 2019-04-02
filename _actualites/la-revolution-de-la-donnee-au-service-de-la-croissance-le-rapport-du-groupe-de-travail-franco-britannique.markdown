@@ -2,6 +2,7 @@
 title: 'La révolution de la donnée au service de la croissance : le rapport du groupe
   de travail franco-britannique'
 date: 2016-07-17 16:09:00 +02:00
+published: false
 categories:
 - Article
 chapeau-text: A l'automne 2015, les Gouvernements français et britannique lançaient
