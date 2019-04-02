@@ -2,6 +2,7 @@
 title: "#HackFrancophonie : Un open data camp autour des données ouvertes dans la
   Francophonie"
 date: 2019-04-01 17:43:00 +02:00
+published: false
 categories:
 - Article
 tags:
