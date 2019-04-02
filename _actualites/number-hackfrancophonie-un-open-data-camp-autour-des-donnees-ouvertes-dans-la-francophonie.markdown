@@ -2,6 +2,13 @@
 title: "#HackFrancophonie : Un open data camp autour des données ouvertes dans la
   Francophonie"
 date: 2019-04-01 17:43:00 +02:00
+categories:
+- Article
+tags:
+- Etalab
+- Données ouvertes
+- Open data camp
+- Evènement
 chapeau-text: '<figure class=''image-right'' style=''width: 40%; margin-left: 10px;''><img
   src="/uploads/capture1-300x227-2da20e.png"/></figure>Après une [journée de partage
   d’expérience entre gouvernements et société civile](https://www.etalab.gouv.fr/hackfrancophonie-jour-1-ateliers-sur-louverture-des-donnees-entre-gouvernements-francophones){:target="_blank"},
@@ -15,6 +22,8 @@ chapeau-text: '<figure class=''image-right'' style=''width: 40%; margin-left: 10
   Francophonie, l’écosystème parisien s’est fortement mobilisé. Plus d’une centaine
   de participants ont contribué à la réussite de l’événement ! Neuf projets en ont
   découlé, dont certains devraient se prolonger dans les mois à venir.'
+une-ou-diaporama:
+- image: "/uploads/sans-titre2.png"
 ---
 
 #### Les données ouvertes dans les pays francophones comme matière première
