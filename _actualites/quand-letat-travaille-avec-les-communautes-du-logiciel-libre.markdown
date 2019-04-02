@@ -19,9 +19,9 @@ une-ou-diaporama:
 Le rôle des communautés du logiciel libre est essentiel à la fois pour bénéficier de codes de qualité, maintenus et améliorés en permanence, pour mutualiser les ressources et les expertises entre les services de l'Etat, mais également pour s'ouvrir vers l'extérieur. C'est un moyen de dynamiser les projets et de contribuer à leur pérennité. « La volonté d'ouverture constitue l'une des priorités de cette année 2016 », insiste Emmanuel Raviart, directeur technique de la mission Etalab, en charge de la politique d'ouverture des données publiques, de l’open data et de l’open source.
  
 
-Un forum public consacré à l'open source
+### Un forum public consacré à l'open source
 
-Signe de cette nouvelle ambition, Etalab a ouvert en février dernier un forum pour débattre avec les acteurs du libre, internes ou externes à l'administration, notamment sur les stratégies d’achat de l’Etat.
+Signe de cette nouvelle ambition, Etalab a ouvert en février dernier un [forum pour débattre avec les acteurs du libre](https://www.modernisation.gouv.fr/home/un-forum-pour-mieux-cerner-usage-des-logiciels-libres-dans-administration){: target="_blank"}, internes ou externes à l'administration, notamment sur les stratégies d’achat de l’Etat.
 
 D'autres initiatives traduisent cette politique d'ouverture et de partage. La plupart des développements de la DINSIC sont partagés en open source : l'API de géolocalisation des taxis disponibles, développée par la startup d’État Le.taxi, est mise à la disposition de tous et son code peut être repris et enrichi, tout comme le simulateur fiscal et social OpenFisca, qui a pris un nouvel essor grâce aux contributions d'acteurs des sphères publique et civile. C’est également le cas de la plateforme data.gouv.fr, dont le socle, en open source, a été retenu par le Duché de Luxembourg pour outiller sa démarche open data (voir data.public.lu). Deux autres pays sont en passe de faire de même, donnant ainsi naissance à une véritable petite communauté de développeurs.
  
