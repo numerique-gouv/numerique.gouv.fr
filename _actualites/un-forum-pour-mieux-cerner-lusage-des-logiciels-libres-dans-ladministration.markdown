@@ -1,8 +1,11 @@
 ---
 title: Un forum pour mieux cerner l’usage des logiciels libres dans l’administration
 date: 2016-02-12 10:24:00 +01:00
+published: false
 categories:
-- logiciel libre
+- Article
+tags:
+- logiciels libres
 chapeau-text: La DINSIC ouvre un espace de discussion autour du libre, de son usage
   et de son support. Sont amenés à se retrouver les utilisateurs du secteur public,
   les communautés de l’open source ainsi que les éditeurs et sociétés de service.
