@@ -5,6 +5,8 @@ categories:
 - Article
 tags:
 - logiciels libres
+- Système d'information de l'Etat
+- données publiques
 chapeau-text: 'Engagé dans la modernisation de son infrastructure informatique et
   le développement de nouveaux services, l''Etat compte plus que jamais sur le logiciel
   libre et sur ses communautés. Au-delà des outils, il entend promouvoir des méthodes
