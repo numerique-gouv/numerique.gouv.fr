@@ -43,3 +43,22 @@ La mise en œuvre de ces recommandations sera discutée entre les deux Gouvernem
 
 > Henri Verdier, administrateur général des données, coprésident du groupe de travail sur l'économie de la donnée
 {: .auteur-citations}
+
+### Un groupe de travail associant public, privé et monde universitaire
+
+![taskforce_une.jpg](/uploads/taskforce_une.jpg) 
+<br>
+**Henri Verdier**, administrateur général des données, au sein du secrétariat général pour la modernisation de l'action publique (SGMAP), et **Sir Nigel Shadbolt**, directeur du Jesus College à l'Université d'Oxford et co-fondateur de l’Open Data Institute, ont coprésidé ce groupe de travail. Pour les assister, ils ont choisi ensemble un petit groupe d’experts français et britanniques, issus du secteur privé et du milieu universitaire :
+* **Patrick Cocquet** (Cap Digital) ;
+* **Alban Schmutz** (OVH) ;
+* **Mokrane Bouzeghoub** (Allistene) ;
+* **Rand Hindi** (Snips) ;
+* **Yann Lechelle** (Snips);
+* **Clive Humby** (DunnHumby) ;
+* **Doug Monro** (Adzuna) ;
+* **Andrew Lawson** (Salesforce) ;
+* **Stéphanie Finck** (Salesforce).
+
+Dans le cadre de ses travaux, la « task force » a consulté de nombreuses parties prenantes, notamment des administrations publiques, des organisations internationales, des PME, de grandes sociétés et des startups.
+
+Ses recommandations tiennent compte de la grande variété des attitudes existantes - et qui continuent à évoluer - dans la manière dont sont utilisées et conservées les données, allant de ceux qui recommandent la plus grande prudence aux plus convaincus, en passant par ceux qui ne sont pas encore convaincus des bénéfices qu’elles pourraient apporter.
