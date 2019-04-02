@@ -25,7 +25,7 @@ acces:
   - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur, Ligne 13 : Saint-François-Xavier'
 champs_informations:
 - intitule: 'Inscription par mail '
-  contenu: 'christine.balian@modernisation.gouv.fr   '
+  mailto: 'christine.balian@modernisation.gouv.fr   '
 ---
 
 **Acteur public,** vous êtes en charge d'une démarche en ligne et souhaitez améliorer l'expérience de vos utilisateurs ?
