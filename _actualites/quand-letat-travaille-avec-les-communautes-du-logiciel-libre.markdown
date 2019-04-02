@@ -25,12 +25,12 @@ Signe de cette nouvelle ambition, Etalab a ouvert en février dernier un [forum 
 
 D'autres initiatives traduisent cette politique d'ouverture et de partage. La plupart des développements de la DINSIC sont partagés en open source : l'API de géolocalisation des taxis disponibles, développée par la startup d’État [Le.taxi](http://le.taxi/){: target="_blank"}, est mise à la disposition de tous et son code peut être repris et enrichi, tout comme le simulateur fiscal et social [OpenFisca](https://fr.openfisca.org/){: target="_blank"} , qui a pris un nouvel essor grâce aux contributions d'acteurs des sphères publique et civile. C’est également le cas de la plateforme [data.gouv.fr](https://www.data.gouv.fr/fr/){: target="_blank"} , dont le socle, en open source, a été retenu par le Duché de Luxembourg pour outiller sa démarche open data (voir [data.public.lu](https://data.public.lu/fr/){: target="_blank"} ). Deux autres pays sont en passe de faire de même, donnant ainsi naissance à une véritable petite communauté de développeurs.
  
-
-L'Etat se dote de sa propre infrastructure cloud
+<br>
+### L'Etat se dote de sa propre infrastructure cloud
 
 Le logiciel libre et ses approches sont également une réponse aux enjeux de modernisation du système d'information de l'Etat, y compris pour ses chantiers les plus importants. Ainsi, pour accueillir les applications sensibles, celles qui ne peuvent être hébergées sur des plateformes externes, l'administration s'engage dans le développement de sa propre infrastructure cloud, qui sera gérée notamment avec des outils open source.
 
-Plusieurs expérimentations sont menées actuellement autour du package OpenStack pour orchestrer la gestion des ressources d'infrastructure, de la base de données MongoDB comme solution de stockage en mode distribué et de Docker pour la gestion de conteneurs de services applicatifs. Ces technologies favorisent les approches mutualisées et s'inscrivent dans le développement d'une offre de services interministérielle, à l'instar de ce qui a été réalisé avec le socle d'archivage Vitam.
+Plusieurs expérimentations sont menées actuellement autour du package OpenStack pour orchestrer la gestion des ressources d'infrastructure, de la base de données MongoDB comme solution de stockage en mode distribué et de Docker pour la gestion de conteneurs de services applicatifs. Ces technologies favorisent les approches mutualisées et s'inscrivent dans le développement d'une offre de services interministérielle, à l'instar de ce qui a été réalisé avec le [socle d'archivage Vitam](https://www.modernisation.gouv.fr/home/vitam-vers-un-socle-d-archivage-electronique-commun-a-toute-l-administration){: target="_blank"} .
  
 
 De nouveaux terrains de jeu 
