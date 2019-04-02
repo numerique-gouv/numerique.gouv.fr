@@ -38,10 +38,10 @@ Dans son rapport, le groupe de travail formule **70 propositions concrètes de c
 <br>
 La mise en œuvre de ces recommandations sera discutée entre les deux Gouvernements : les actions seront présentées en septembre
 
-> « Nous espérons très nettement que nos recommandations seront prises au sérieux par les deux Gouvernements. »
+>« Nous espérons très nettement que nos recommandations seront prises au sérieux par les deux Gouvernements. »
 {: .citations}
 
-> Henri Verdier, administrateur général des données, coprésident du groupe de travail sur l'économie de la donnée
+>Henri Verdier, administrateur général des données, coprésident du groupe de travail sur l'économie de la donnée
 {: .auteur-citations}
 
 ### Un groupe de travail associant public, privé et monde universitaire
