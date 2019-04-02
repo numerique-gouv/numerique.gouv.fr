@@ -1,6 +1,7 @@
 ---
 title: Quand l’État travaille avec les communautés du logiciel libre
 date: 2016-06-08 15:28:00 +02:00
+published: false
 categories:
 - Article
 chapeau-text: 'Engagé dans la modernisation de son infrastructure informatique et
