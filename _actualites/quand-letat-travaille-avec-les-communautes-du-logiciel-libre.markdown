@@ -20,7 +20,7 @@ une-ou-diaporama:
 
 Le rôle des communautés du logiciel libre est essentiel à la fois pour bénéficier de codes de qualité, maintenus et améliorés en permanence, pour mutualiser les ressources et les expertises entre les services de l'Etat, mais également pour s'ouvrir vers l'extérieur. C'est un moyen de dynamiser les projets et de contribuer à leur pérennité. « La volonté d'ouverture constitue l'une des priorités de cette année 2016 », insiste Emmanuel Raviart, directeur technique de la mission Etalab, en charge de la politique d'ouverture des données publiques, de l’open data et de l’open source.
  
-
+<br>
 ### Un forum public consacré à l'open source
 
 Signe de cette nouvelle ambition, Etalab a ouvert en février dernier un [forum pour débattre avec les acteurs du libre](https://www.modernisation.gouv.fr/home/un-forum-pour-mieux-cerner-usage-des-logiciels-libres-dans-administration){: target="_blank"}, internes ou externes à l'administration, notamment sur les stratégies d’achat de l’Etat.
