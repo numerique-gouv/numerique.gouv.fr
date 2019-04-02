@@ -3,6 +3,8 @@ title: Quand l’État travaille avec les communautés du logiciel libre
 date: 2016-06-08 15:28:00 +02:00
 categories:
 - Article
+tags:
+- logiciels libres
 chapeau-text: 'Engagé dans la modernisation de son infrastructure informatique et
   le développement de nouveaux services, l''Etat compte plus que jamais sur le logiciel
   libre et sur ses communautés. Au-delà des outils, il entend promouvoir des méthodes
