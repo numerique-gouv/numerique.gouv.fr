@@ -29,7 +29,7 @@ Outre la liste des grands projets en cours ou en cadrage, le panorama propose de
 Cet outil inédit a été conçu à la demande du Premier ministre ([circulaire du 20 janvier 2015](http://circulaires.legifrance.gouv.fr/pdf/2015/01/cir_39141.pdf){: target="_blank"}) en collaboration étroite avec l’ensemble des ministères. Il est le fruit de plusieurs mois de travail avec ces derniers, depuis le prototypage d’un cadre commun, la collecte des données, jusqu’à l’élaboration de ce panorama public.
 
 > [Consulter le panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
-{. lien-important}
+{: .lien-important}
  
 ## Les données clés de 57 projets publiées en ligne ##
 
