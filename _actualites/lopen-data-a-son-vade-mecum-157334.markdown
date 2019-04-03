@@ -17,3 +17,5 @@ Le vade-mecum publié aujourd’hui en est la traduction concrète. Il vise à f
 Administrée par la mission Etalab, placée au sein du Secrétariat Général pour la Modernisation de l’Action Publique, la plateforme www.data.gouv.fr compte aujourd’hui 350 000 fichiers et peut accueillir toutes les données publiques.
 
 La diffusion à tous les ministères du « Vade-mecum sur l’ouverture et le partage des données publiques » permettra de faire de tous les agents concernés les acteurs d’une politique ambitieuse au service de la modernisation de l’action publique, de la démocratie et du dynamisme économique.
+
+> [Vade-mecum sur l'ouverture et le partage des données publiques (PDF)](https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/vademecum-ouverture.pdf){:target="_blank"}
