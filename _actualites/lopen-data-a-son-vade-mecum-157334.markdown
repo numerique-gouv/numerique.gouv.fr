@@ -19,3 +19,5 @@ Administrée par la mission Etalab, placée au sein du Secrétariat Général po
 La diffusion à tous les ministères du « Vade-mecum sur l’ouverture et le partage des données publiques » permettra de faire de tous les agents concernés les acteurs d’une politique ambitieuse au service de la modernisation de l’action publique, de la démocratie et du dynamisme économique.
 
 > [Vade-mecum sur l'ouverture et le partage des données publiques (PDF)](https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/vademecum-ouverture.pdf){:target="_blank"}
+{: .lien-important}
+
