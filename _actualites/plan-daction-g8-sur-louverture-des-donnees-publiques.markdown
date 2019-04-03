@@ -1,5 +1,5 @@
 ---
-title: Plan d’action G8 sur l’ouverture des données publiques
+title: Plan d'action G8 sur l’ouverture des données publiques
 date: 2019-04-02 17:08:00 +02:00
 categories:
 - Article
@@ -15,6 +15,8 @@ chapeau-text: 'Le président de la République et les chefs d’Etat et de gouve
   de la France pour la mise en application de cette Charte.
 
 '
+une-ou-diaporama:
+- image: "/uploads/sommet_du_g8.jpg"
 ---
 
 La transparence de l’action publique est un engagement fort du Gouvernement qui s’inscrit dans une longue tradition républicaine et démocratique française. L’article 15 de la Déclaration des Droits de l’Homme et du Citoyen affirme : "la Société est en droit de demander compte à tout Agent public de son administration". L’ouverture et le partage des données publiques ajoutent à cet impératif démocratique un engagement résolu de notre pays et de nos territoires au service de l’innovation économique et sociale et de la modernisation de l’action publique.
@@ -29,4 +31,4 @@ C’est pourquoi le président de la République a naturellement soutenu, puis p
 
 Conformément aux termes de cette charte, le document publié aujourd’hui rappelle le contexte de la politique du gouvernement français en matière d’ouverture des données publiques, détaille les principales difficultés et les défis auxquels elle fait face, et présente les axes de travail pour l’avenir que s’est fixé le Gouvernement.
 
-[Charte du G8 pour l'ouverture des données publiques : plan d'action pour la France][opendata_g8_plan-action-france.pdf](/uploads/opendata_g8_plan-action-france.pdf)(Pdf - 775.07 Ko)
+[Charte du G8 pour l'ouverture des données publiques : plan d'action pour la France](/uploads/opendata_g8_plan-action-france.pdf)(Pdf - 775.07 Ko)
