@@ -17,7 +17,7 @@ une-ou-diaporama:
 
 Créée le 9 octobre 2013, OpenData France a pour but de regrouper et soutenir les collectivités engagées activement dans une démarche d’ouverture des données publiques et de favoriser toutes les démarches entreprises par ces collectivités dans le but de la promotion de l’open data. Etalab a participé à la création de l'association Open Data France dont elle est membre associé.  
 
-L’association Open data France (ODF) se donne comme objectifs :
+**L’association Open data France (ODF) se donne comme objectifs :**
 * D’apporter à ses membres les informations, conseils ou autres soutiens nécessaires a l’ouverture des données publiques ;
 * De favoriser les négociations avec l’ensemble des partenaires nationaux ou internationaux, notamment avec les ministères concernés, les instances * De régulation et les différents acteurs économiques du secteur ;
 * De favoriser les productions communes par des groupes de travail ou ateliers sur des thèmes définis en commun comme devant apporter des éléments de réponse aux questions qui se posent sur l’Open Data et sa mise en œuvre ;
