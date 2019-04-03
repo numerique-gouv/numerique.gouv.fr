@@ -12,6 +12,8 @@ chapeau-text: 'A l''occasion du G8, une charte sur l''ouverture des données pub
   des Etats Membres de promouvoir une gouvernance plus ouverte et plus transparente.
 
 '
+une-ou-diaporama:
+- image: "/uploads/ouverture-des-donnees-29c054.jpg"
 ---
 
 Le Président de la République et les Chefs d'Etat du G8 réunis les 17 et 18 juin 2013 au Sommet de Lough Erne, en Irlande du Nord, ont signé aujourd'hui une Charte du G8 pour l'Ouverture des Données Publiques.
