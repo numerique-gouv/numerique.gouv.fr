@@ -1,7 +1,6 @@
 ---
 title: 'data.gouv.fr : l’ouverture des données publiques pour tous'
 date: 2019-04-02 16:47:00 +02:00
-published: false
 categories:
 - Article
 tags:
