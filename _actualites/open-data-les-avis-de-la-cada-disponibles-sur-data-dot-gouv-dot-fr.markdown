@@ -1,6 +1,14 @@
 ---
 title: 'Open Data : les avis de la Cada disponibles sur data.gouv.fr'
 date: 2019-04-02 16:32:00 +02:00
+published: false
+categories:
+- Article
+tags:
+- Open Data
+- Données publiques
+- Cada
+- Etalab
 chapeau-text: Les avis de la Commission d'accès aux documents administratifs (Cada)
   seront désormais publiés, en open data, sur data.gouv.fr. Une sélection d’avis passés
   est déjà disponible.

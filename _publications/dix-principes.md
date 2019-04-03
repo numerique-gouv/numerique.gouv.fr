@@ -124,9 +124,11 @@ principes:
     **Les réclamations sont analysées et traitées** comme des signaux prioritaires.
 files:
 - file: "/uploads/10_principes_demarches-en-ligne.pdf"
-  nom: Télécharger la version imprimable des 10 principes
+  nom: Version imprimable des 10 principes
 - file: "/uploads/Affiche-10-principes_HD.PDF"
-  nom: Télécharger l'affiche des 10 principes (HD)
+  nom: Affiche des 10 principes (HD)
+- file: "/uploads/10_principes_description-textuelle.pdf"
+  nom: Description textuelle de l'affiche
 layout: dix-principes
 ---
 
