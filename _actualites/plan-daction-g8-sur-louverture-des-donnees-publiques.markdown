@@ -31,4 +31,4 @@ C’est pourquoi le président de la République a naturellement soutenu, puis p
 
 Conformément aux termes de cette charte, le document publié aujourd’hui rappelle le contexte de la politique du gouvernement français en matière d’ouverture des données publiques, détaille les principales difficultés et les défis auxquels elle fait face, et présente les axes de travail pour l’avenir que s’est fixé le Gouvernement.
 
-[Charte du G8 pour l'ouverture des données publiques : plan d'action pour la France](/uploads/opendata_g8_plan-action-france.pdf)(Pdf - 775.07 Ko)
+[Charte du G8 pour l'ouverture des données publiques : plan d'action pour la France](/uploads/opendata_g8_plan-action-france.pdf) (Pdf - 775.07 Ko)
