@@ -33,7 +33,7 @@ des membres associes (non collectivités mais actifs dans l'ouverture des donné
 * Tout membre travaille à ouvrir le plus de jeux de données similaires dans la mesure du possible.
 <br>
 <br>
-Pour la création d’Opendata France de nombreuses collectivités ont adhéré à l’association :
+### Pour la création d’Opendata France de nombreuses collectivités ont adhéré à l’association :
 * Toulouse Métropole et la ville de Toulouse ;
 * Nantes Métropole et la ville de Nantes ;
 * Rennes Métropole et la ville de Rennes ;
