@@ -9,6 +9,8 @@ chapeau-text: 'L’association OpenData France est une réalité. Créée le 9 o
   démarches au niveau local dans ce domaine et promouvoir le développement de l’open
   data. Etalab, membre associé, était présent pour l’occasion ainsi que de nombreux
   représentants des collectivités territoriales.'
+une-ou-diaporama:
+- image: "/uploads/open-data-france-def.jpg"
 ---
 
 ### Bienvenue à OpenData France
