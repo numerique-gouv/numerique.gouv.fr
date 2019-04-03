@@ -16,21 +16,21 @@ chapeau-text: 'L’association OpenData France est une réalité. Créée le 9 o
 Créée le 9 octobre 2013, OpenData France a pour but de regrouper et soutenir les collectivités engagées activement dans une démarche d’ouverture des données publiques et de favoriser toutes les démarches entreprises par ces collectivités dans le but de la promotion de l’open data. Etalab a participé à la création de l'association Open Data France dont elle est membre associé.  
 
 L’association Open data France (ODF) se donne comme objectifs :
-* d’apporter à ses membres les informations, conseils ou autres soutiens nécessaires a l’ouverture des données publiques ;
-* de favoriser les négociations avec l’ensemble des partenaires nationaux ou internationaux, notamment avec les ministères concernés, les instances * de régulation et les différents acteurs économiques du secteur ;
-* de favoriser les productions communes par des groupes de travail ou ateliers sur des thèmes définis en commun comme devant apporter des éléments de réponse aux questions qui se posent sur l’Open Data et sa mise en œuvre ;
-* de participer au développement du mouvement Open Data par toutes actions de communication (conférence), valorisation, formation et accompagnement ;
-* de représenter ses membres auprès de toute autorité publique et privée dans le but d’assurer la défense des intérêts matériels et moraux de ses membres ;
+* D’apporter à ses membres les informations, conseils ou autres soutiens nécessaires a l’ouverture des données publiques ;
+* De favoriser les négociations avec l’ensemble des partenaires nationaux ou internationaux, notamment avec les ministères concernés, les instances * De régulation et les différents acteurs économiques du secteur ;
+* De favoriser les productions communes par des groupes de travail ou ateliers sur des thèmes définis en commun comme devant apporter des éléments de réponse aux questions qui se posent sur l’Open Data et sa mise en œuvre ;
+* De participer au développement du mouvement Open Data par toutes actions de communication (conférence), valorisation, formation et accompagnement ;
+* De représenter ses membres auprès de toute autorité publique et privée dans le but d’assurer la défense des intérêts matériels et moraux de ses membres ;
 et de mettre en œuvre tous les autres moyens susceptibles d’être utilisés pour concourir à la réalisation de l’objet de l’association.
 <br>
 <br>
 ### Une création fortement soutenue par les collectivités
 
 L’événement a eu lieu à Toulouse.  A cette occasion, ont été formulés les objectifs communs à toutes les collectivités qui rejoindront OpenData France :
-* toutes les collectivités membres d'ODF et celles qui vont rejoindre l'association ont pour volonté d'ouvrir leurs données ;
+* Toutes les collectivités membres d'ODF et celles qui vont rejoindre l'association ont pour volonté d'ouvrir leurs données ;
 des membres associes (non collectivités mais actifs dans l'ouverture des données) peuvent adhérer à ODF ;
-* tout membre affiche la même volonté de développer l'ouverture des données publiques à des fins de transparence démocratique et de développement économique ;
-* tout membre travaille à ouvrir le plus de jeux de données similaires dans la mesure du possible.
+* Tout membre affiche la même volonté de développer l'ouverture des données publiques à des fins de transparence démocratique et de développement économique ;
+* Tout membre travaille à ouvrir le plus de jeux de données similaires dans la mesure du possible.
 <br>
 <br>
 Pour la création d’Opendata France de nombreuses collectivités ont adhéré à l’association :
