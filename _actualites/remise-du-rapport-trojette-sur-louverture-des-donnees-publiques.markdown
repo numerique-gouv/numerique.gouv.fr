@@ -27,4 +27,4 @@ Le rapport apporte également des éclaircissements sur le cadre juridique appli
 
 Sur la base de ce rapport, le Premier ministre présentera au prochain CIMAP de décembre la doctrine d’ensemble du Gouvernement en matière d’exception à la gratuité et les premières décisions de suppressions de redevances pour 2014.
 
-[Rapport Trojette sur l'ouverture des données publiques avec annexes[20131105-rapporttrojetteannexes.pdf](/uploads/20131105-rapporttrojetteannexes.pdf)(Pdf - 402 Mo)
+[Rapport Trojette sur l'ouverture des données publiques avec annexes](/uploads/20131105-rapporttrojetteannexes.pdf) (Pdf - 402 Mo)
