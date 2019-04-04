@@ -13,6 +13,8 @@ Open Food Facts grandit et s'apprête à faire des petits. Cette [base de donné
 
 Ce prix a aussi eu le mérite de susciter l'intérêt de chercheurs qui s'appuient sur nos données, publiées sur data.gouv.fr, pour mener leurs travaux. Nous travaillons ainsi avec le [Programme national nutrition santé ](http://www.mangerbouger.fr/PNNS){:target="_blank"} qui, en retour, nous a transmis sa formule de calcul des scores nutritionnels matérialisées par des pastilles de couleurs étiquetées A, B, C, D, E. C'est notre manière de contribuer à la « science citoyenne ». L'open data ne se résume pas aux données de l’État et des collectivités, nous raisonnons données d'intérêt public, ce qui inclut également celles produites par les entreprises et tout un chacun. Open Food Facts est un projet citoyen et il le restera. Nous nous sommes d'ailleurs organisés l'année dernière en association de loi 1901 à but non lucratif.
 
+### Pensiez-vous intéresser un public aussi varié, y compris scientifique, à vos débuts ?
+
 > ### Dataconnexions 6, c'est en ce moment !
 >
 >Organisé par la mission Etalab du SGMAP, le concours Dataconnexions récompense les projets les plus innovants réutilisant des données
