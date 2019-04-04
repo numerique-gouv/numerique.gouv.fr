@@ -27,7 +27,7 @@ dans les ministères, les établissements publics, et les collectivités territo
 3. accompagner les réutilisations innovantes et la communauté des réutilisateurs
 4. la transparence et la culture de la donnée au service de la modernisation de l’action publique
 5. l’évaluation des redevances existantes
-6. Évolutions du cadre juridique et administratif
+6. évolutions du cadre juridique et administratif
 7. l’action internationale de la France
 
 > [Feuille de route de l'ouverture des données publiques](/uploads/fr-donnees-publiques.pdf){:target="_blank"}{: .lien-important} (Pdf - 70,43Ko)
