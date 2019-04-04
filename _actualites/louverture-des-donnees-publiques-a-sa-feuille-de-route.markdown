@@ -21,13 +21,13 @@ L’engagement du Gouvernement en faveur de la transparence de l’action publiq
 
 L’ambition du Gouvernement en matière d’ouverture des données publiques :
 <br>
-* 1.Travailler à l’ouverture de jeux de données stratégiques
-* 2.Faciliter et améliorer le processus d’ouverture des données publiques
+* 1. travailler à l’ouverture de jeux de données stratégiques
+* 2. faciliter et améliorer le processus d’ouverture des données publiques
 dans les ministères, les établissements publics, et les collectivités territoriales
-* 3.Accompagner les réutilisations innovantes et la communauté des réutilisateurs
-* 4.La transparence et la culture de la donnée au service de la modernisation de l’action publique
-* 5.L’évaluation des redevances existantes
-* 6.Évolutions du cadre juridique et administratif
-* 7.L’action internationale de la France
+* 3. accompagner les réutilisations innovantes et la communauté des réutilisateurs
+* 4. la transparence et la culture de la donnée au service de la modernisation de l’action publique
+* 5. l’évaluation des redevances existantes
+* 6. Évolutions du cadre juridique et administratif
+* 7. l’action internationale de la France
 
-* [Feuille de route de l'ouverture des données publiques](/uploads/fr-donnees-publiques.pdf){:target="_blank"} (Pdf - 70,43Ko)
+> [Feuille de route de l'ouverture des données publiques](/uploads/fr-donnees-publiques.pdf){:target="_blank"}{: .lien-important} (Pdf - 70,43Ko)
