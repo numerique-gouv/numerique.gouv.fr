@@ -31,5 +31,4 @@ dans les ministères, les établissements publics, et les collectivités territo
 7. l’action internationale de la France
 
 >[Feuille de route de l'ouverture des données publiques](/uploads/fr-donnees-publiques.pdf){:target="_blank"}
-{: .lien-important}
-(Pdf - 70,43Ko)
+{: .lien-important}(Pdf - 70,43Ko)
