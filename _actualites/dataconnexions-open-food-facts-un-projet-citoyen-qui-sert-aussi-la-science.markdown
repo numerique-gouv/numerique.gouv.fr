@@ -19,6 +19,12 @@ SG. C'était l'une de nos ambitions. Dès le départ, nous avions imaginé que l
 
 Sur ce même thème, le ministère de la Santé britannique vient de lancer une grande campagne de sensibilisation baptisée Sugar Smart. Le consommateur scanne un produit depuis une application mobile et obtient en retour la quantité de sucres qu'il contient. Nous allons contacter cette administration pour lui proposer notre base qui contient déjà 3 000 références locales. L'un de nos défis, auquel nous avons commencé à répondre, vise à donner une dimension plus internationale au projet.
 
+###Vous suivez d'autres pistes d'évolution ? 
+
+**SG.** Oui, elles sont nombreuses. Nous cherchons à retracer de manière simple l'évolution de la composition d'un même produit au fil du temps. Pour certains d'entre eux, nous disposons d'un historique de trois ans. C'est une mine d'informations qui peut être mise à profit pour vérifier les discours des industriels concernant la diminution des taux de sucre, sel, etc.
+
+Dans un autre registre, nous mettons à profit les avancées technologiques. Demain, en filmant un rayon d'un magasin avec son téléphone portable, le consommateur récupérera automatiquement les notes nutritionnelles de tous les produits exposés. Nous savons déjà le faire produit par produit. Notre application mobile analyse en temps réel l'image affichée à l'écran, sans avoir besoin de prendre une photo, la compare avec une base d'empreintes et affiche le score nutritionnel. Aucune connexion à Internet n'est requise, tout est embarqué dans l'application mobile. Quantité d'autres informations pourraient être collectées et rapprochées. En matière d'alimentation, il me semble légitime de savoir comment les produits sont fabriqués, avec quels ingrédients, dans quels lieux... Avec davantage de transparence, chacun se porterait mieux !
+
 
 > ### Dataconnexions 6, c'est en ce moment !
 >
