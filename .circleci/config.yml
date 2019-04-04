@@ -24,9 +24,9 @@ jobs:
       - restore_cache:
           name: Restore Gem Cache
           keys:
-            - gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
-            - gem-cache-v1-{{ arch }}-{{ .Branch }}
-            - gem-cache-v1
+            - gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - gem-cache-v2-{{ arch }}-{{ .Branch }}
+            - gem-cache-v2
 
       - run:
           name: Bundle Install
@@ -35,7 +35,7 @@ jobs:
       # Store bundle cache
       - save_cache:
           name: Save Gem Cache
-          key: gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+          key: gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
 
@@ -195,9 +195,9 @@ jobs:
       - restore_cache:
           name: Restore Gem Cache
           keys:
-            - gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
-            - gem-cache-v1-{{ arch }}-{{ .Branch }}
-            - gem-cache-v1
+            - gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - gem-cache-v2-{{ arch }}-{{ .Branch }}
+            - gem-cache-v2
 
       - run:
           name: Bundle Install
@@ -206,7 +206,7 @@ jobs:
       # Store bundle cache
       - save_cache:
           name: Save Gem Cache
-          key: gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+          key: gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
 
