@@ -3568,6 +3568,14 @@ gulp-modernizr@^3.0.0:
     through2 "^2.0.3"
     vinyl "^2.2.0"
 
+gulp-newer@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/gulp-newer/-/gulp-newer-1.4.0.tgz#25243ed6eac8f5462b95894e0d41937b112e65f3"
+  dependencies:
+    glob "^7.0.3"
+    kew "^0.7.0"
+    plugin-error "^0.1.2"
+
 gulp-rename@^1.2.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/gulp-rename/-/gulp-rename-1.4.0.tgz#de1c718e7c4095ae861f7296ef4f3248648240bd"
@@ -4457,6 +4465,10 @@ just-debounce@^1.0.0:
 just-extend@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/just-extend/-/just-extend-3.0.0.tgz#cee004031eaabf6406da03a7b84e4fe9d78ef288"
+
+kew@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/kew/-/kew-0.7.0.tgz#79d93d2d33363d6fdd2970b335d9141ad591d79b"
 
 kind-of@^1.1.0:
   version "1.1.0"
