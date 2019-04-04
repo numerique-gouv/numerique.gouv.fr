@@ -97,8 +97,9 @@ jobs:
           command: html5validator --root tmp/workspace/_site/
 
   deploy:
-    machine:
-        enabled: true
+    docker:
+      - image: circleci/ruby:2.3-node
+    working_directory: ~/repo
     environment:
       - HOST_PRODUCTION: numerique.gouv.fr
       - HOST_PREPRODUCTION: preprod.numerique.gouv.fr
@@ -111,10 +112,11 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "31:8a:07:d1:56:88:18:c4:4e:91:5f:13:0c:58:b6:cc"
+      - run: mkdir ~/.ssh
       - run:
           name: add key
           command: echo $REMOTE_DEV_HOSTKEY >> ~/.ssh/known_hosts
-
+      - run: sudo apt-get update && sudo apt-get install rsync
       - deploy:
           name: Deploy on OVH
           command: |
