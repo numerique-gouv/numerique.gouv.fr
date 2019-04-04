@@ -26,3 +26,34 @@ Ils sont d’ores et déjà plusieurs milliers à avoir téléchargé Super Lach
 <br>
 <br>
 <figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/felix-elvis-le-pottier.png"/></figure> **Félix Elvis Le Pottier**. Nous nous sommes rendu compte qu’il faut du temps pour créer une communauté en ligne et même tout simplement alimenter un fil Twitter quotidien. Maxime avait établi un calendrier avec les dates de naissance et décès de personnalités, mais il faut consulter les bios, trouver des idées, rédiger de courts messages décalés et drôles… En retour, Twitter nous a permis de rencontrer des gens passionnés. Avec Strate, nous avons été confrontés au besoin d’apprendre à se coordonner à distance pour mener un projet. Nous étions six participants répartis entre Paris et la Bretagne. Nous avons eu recours à des outils comme Hangout, Slack, GitHub...
+<br>
+<br>
+
+
+### Est-il prévu que Super Lachaise continue à évoluer ?
+
+<figure class='image-right' style='width: 40%; margin-left: 10px;'><img src="/uploads/capture-ecran-appmobile.png"/></figure> **MLM.** Oui, nous avons déjà apporté des améliorations en termes **d’automatisation des mises à jour** et d’autres sont à venir. Chaque semaine, **un logiciel interroge Wikipedia, Wikimedia Commons et OpenStreetMap, rapatrie dans une base les données qui concernent le Père-Lachaise et les lie entre elles de façon cohérente.** Actuellement, je travaille sur la mise à jour de l’application iOS pour qu’elle bénéficie en permanence de la version actualisée de la base de données. Nous travaillons également **au développement d’une version anglaise** de Super Lachaise. Ce n’est pas si difficile car Wikipedia est très bien conçu avec des liens vers les versions d’articles en anglais.
+
+**LLM.** Une version pour Android de Super Lachaise est également en cours de développement. Par ailleurs, une de nos priorités pour l’année 2016 est **d’établir des partenariats avec la Mairie de Paris** pour mettre en avant notre application au Père Lachaise. **Elle est open source** et correspond à la politique de la ville. Se pose toutefois la question de son téléchargement. Les touristes étrangers ayant généralement désactivé leurs forfaits données, il faudrait qu’ils aient accès à des bornes Wi-Fi. Ce sont des sujets à discuter.
+ 
+
+### Super Lachaise est-elle amenée à être répliquée ?
+
+**FELP.** On aimerait que la Mairie de Paris s’en empare et **l’adapte à d’autres lieux touristiques de la capitale.** Ce serait plus simple de commencer par le cimetière Montparnasse, mais le principe de relier des fiches d’informations avec des données géolocalisées peut être facilement étendu à toute la ville. On trouve quantité d’articles sur Wikipedia qui font référence à l’histoire de Paris et à ses bâtiments.
+
+
+Dataconnexions 6, c'est en ce moment !
+
+
+
+Organisé par la mission Etalab du SGMAP, le concours Dataconnexions récompense les projets les plus innovants réutilisant des données publiques. La 6e édition du concours est en cours, et se clôturera par une journée événement le 2 février 2016 à Toulouse :
+
+>> Découvrez les 14 projets finalistes
+>> Consultez le programme de la journée événement du 2 février, à Toulouse
+>> Réservez votre place (gratuit) pour la finale et la remise des prix
+
+ 
+
+Dans la même série :
+[Dataconnexions] Open Food Facts : un projet citoyen qui sert aussi la science
+[Dataconnexions] Le-veilleur.fr, compagnon des PME en quête de marchés publics
