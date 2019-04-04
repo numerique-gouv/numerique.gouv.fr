@@ -4,8 +4,8 @@ date: 2016-01-11 16:52:00 +01:00
 ---
 
 Lauréat de la 4e édition du concours Dataconnexions, la base de données sur les produits alimentaires Open Food Facts s'est beaucoup enrichie grâce aux contributions d'une armée de contributeurs bénévoles. Ses données, partagées sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/produits-alimentaires-ingredients-nutrition-labels/){:target="_blank"}, constituent un matériau précieux pour les chercheurs. Rencontre avec Stéphane Gigandet, à l'initiative du projet.
-
-
+<br>
+Open Food Facts grandit et s'apprête à faire des petits. Cette base de données, ouverte et collaborative, répertorie les ingrédients, allergènes et compositions nutritionnelles des produits alimentaires. Avec l’application smartphone du même nom, il suffit de scanner le produit pour obtenir toutes ces informations. Stéphane Gigandet, à l'initiative du projet, compte appliquer la même recette aux cosmétiques, aux compléments alimentaires et aux médicaments. Les consommateurs seront invités à enrichir des référentiels en photographiant les produits, les étiquettes et les codes-barres depuis leur téléphone portable. L'aventure Open Food Facts se poursuit, alors que se profile la finale de Dataconnexions 6, le 2 février prochain à Toulouse.
 
 > ### Dataconnexions 6, c'est en ce moment !
 >
