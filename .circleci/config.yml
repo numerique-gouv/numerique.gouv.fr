@@ -81,8 +81,10 @@ jobs:
               yarn build-dev
             fi
 
+      - run: mkdir ~/repo/project
+
       - persist_to_workspace:
-          root: project
+          root: project/
           paths:
             - _site/*
 
