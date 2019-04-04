@@ -48,12 +48,7 @@ Dataconnexions 6, c'est en ce moment !
 
 Organisé par la mission Etalab du SGMAP, le concours Dataconnexions récompense les projets les plus innovants réutilisant des données publiques. La 6e édition du concours est en cours, et se clôturera par une journée événement le 2 février 2016 à Toulouse :
 
->> Découvrez les 14 projets finalistes
+> >> Découvrez les 14 projets finalistes
 >> Consultez le programme de la journée événement du 2 février, à Toulouse
 >> Réservez votre place (gratuit) pour la finale et la remise des prix
-
- 
-
-Dans la même série :
-[Dataconnexions] Open Food Facts : un projet citoyen qui sert aussi la science
-[Dataconnexions] Le-veilleur.fr, compagnon des PME en quête de marchés publics
+{: .encadre}
