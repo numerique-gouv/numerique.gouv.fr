@@ -29,7 +29,7 @@ Trouver l’information est la première difficulté à laquelle sont confronté
 
 **SC.** Le bouche à oreille continue de fonctionner, mais nous avons aussi **noué des partenariats avec notre réseau de formateurs** et nous envisageons de **proposer notre moteur en marque blanche à des organismes privés ou publics.** Cette année, en 2016, nous allons clairement mettre l’accent sur la communication pour **faire connaître à la fois notre moteur et la documentation que nous mettons en ligne pour aider les PME à répondre aux marchés publics.**
 
-En parallèle, nous continuons à faire évoluer notre moteur. Il va s’enrichir de fonctions collaboratives pour simplifier le transfert et le partage de résultats de recherche entre collègues. L’autre axe d’évolution consiste à améliorer la pertinence des résultats en donnant les moyens aux utilisateurs de signaler ceux qui ne correspondent pas exactement à la requête. Chacun pourra ainsi éduquer le moteur. L’idée est simple, sa mise en œuvre un peu plus délicate.
+En parallèle, nous continuons à faire évoluer notre moteur. Il va s’enrichir de **fonctions collaboratives pour simplifier le transfert et le partage de résultats de recherche** entre collègues. L’autre axe d’évolution consiste à **améliorer la pertinence des résultats** en donnant les moyens aux utilisateurs de signaler ceux qui ne correspondent pas exactement à la requête. Chacun pourra ainsi éduquer le moteur. L’idée est simple, sa mise en œuvre un peu plus délicate.
 
  
 
