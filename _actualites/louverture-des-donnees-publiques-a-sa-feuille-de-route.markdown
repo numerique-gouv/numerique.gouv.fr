@@ -1,10 +1,17 @@
 ---
 title: L'ouverture des données publiques a sa feuille de route
-date: 2019-04-04 10:17:00 +02:00
+date: 2013-04-01 10:17:00 +02:00
+categories:
+- Article
+tags:
+- Open Data
+- Ouverture des données publiques
 chapeau-text: Ouverture plus large et facilitée des données publiques, réutilisation
   innovante, développement de la culture de la donnée, évolutions du cadre juridique
   et administratif… Retrouvez l’intégralité de la feuille de route de la mission d’ouverture
   des données publiques.
+une-ou-diaporama:
+- image: "/uploads/data_0.jpg"
 ---
 
 **Sommaire de la feuille de route**
