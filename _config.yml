@@ -104,6 +104,7 @@ include:
 - ".htaccess"
 - _pages
 exclude:
+- "/vendor/"
 - "/scripts/"
 - ".DS_Store"
 - ".circleci/"
