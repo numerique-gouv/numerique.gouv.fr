@@ -1,6 +1,6 @@
 ---
 title: L'ouverture des données publiques a sa feuille de route
-date: 2013-04-01 10:17:00 +02:00
+date: 2013-03-01 10:17:00 +01:00
 published: false
 categories:
 - Article
