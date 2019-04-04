@@ -91,6 +91,3 @@ $('#button-production').click(function () {
   $('#modal-production').foundation('close');
   $('#modal-production-done').foundation('open');
 });
-
-
-
