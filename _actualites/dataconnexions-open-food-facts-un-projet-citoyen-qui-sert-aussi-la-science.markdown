@@ -7,6 +7,12 @@ Lauréat de la 4e édition du concours Dataconnexions, la base de données sur l
 <br>
 Open Food Facts grandit et s'apprête à faire des petits. Cette [base de données, ouverte et collaborative](https://fr.openfoodfacts.org/){:target="_blank"} , répertorie les ingrédients, allergènes et compositions nutritionnelles des produits alimentaires. Avec l’application smartphone du même nom, il suffit de scanner le produit pour obtenir toutes ces informations. Stéphane Gigandet, à l'initiative du projet, compte appliquer la même recette aux cosmétiques, aux compléments alimentaires et aux médicaments. Les consommateurs seront invités à enrichir des référentiels en photographiant les produits, les étiquettes et les codes-barres depuis leur téléphone portable. L'aventure Open Food Facts se poursuit, alors que se profile la finale de Dataconnexions 6, le 2 février prochain à Toulouse.
 
+### Comment s'est développé le projet au cours des deux dernières années, depuis votre prix reçu à Dataconnexions ?
+
+**Stéphane Gigandet.** La communauté Open Food Facts s'est agrandie. Elle compte désormais près de 2 000 contributeurs et référence 44 000 produits, contre quelques centaines à nos débuts en 2012. Le prix Dataconnexions nous a bien aidés, apportant de la visibilité et de la crédibilité. Nous le mettons systématiquement en avant dans les dossiers de candidature que nous avons déposés, par exemple pour Google Impact Challenge et un concours britannique semblable à Dataconnexions, où nous avons été finalistes.
+
+Ce prix a aussi eu le mérite de susciter l'intérêt de chercheurs qui s'appuient sur nos données, publiées sur data.gouv.fr, pour mener leurs travaux. Nous travaillons ainsi avec le [Programme national nutrition santé ](http://www.mangerbouger.fr/PNNS){:target="_blank"} qui, en retour, nous a transmis sa formule de calcul des scores nutritionnels matérialisées par des pastilles de couleurs étiquetées A, B, C, D, E. C'est notre manière de contribuer à la « science citoyenne ». L'open data ne se résume pas aux données de l’État et des collectivités, nous raisonnons données d'intérêt public, ce qui inclut également celles produites par les entreprises et tout un chacun. Open Food Facts est un projet citoyen et il le restera. Nous nous sommes d'ailleurs organisés l'année dernière en association de loi 1901 à but non lucratif.
+
 > ### Dataconnexions 6, c'est en ce moment !
 >
 >Organisé par la mission Etalab du SGMAP, le concours Dataconnexions récompense les projets les plus innovants réutilisant des données
