@@ -32,5 +32,3 @@ dans les ministères, les établissements publics, et les collectivités territo
 
 >[Feuille de route de l'ouverture des données publiques](/uploads/fr-donnees-publiques.pdf){:target="_blank"}(Pdf - 70 Ko)
 {: .lien-important}
-
-{: .lien-important}
