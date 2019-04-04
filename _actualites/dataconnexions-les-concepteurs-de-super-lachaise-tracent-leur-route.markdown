@@ -44,7 +44,8 @@ Ils sont d’ores et déjà plusieurs milliers à avoir téléchargé Super Lach
 
 > ### Dataconnexions 6, c'est en ce moment !
 >
->Organisé par la mission Etalab du SGMAP, le concours Dataconnexions >récompense les projets les plus innovants réutilisant des données >publiques. La 6e édition du concours est en cours, et se clôturera par >une journée événement le 2 février 2016 à Toulouse :
+>Organisé par la mission Etalab du SGMAP, le concours Dataconnexions récompense les projets les plus innovants réutilisant des données
+publiques. La 6e édition du concours est en cours, et se clôturera par une journée événement le 2 février 2016 à Toulouse :
 >* [Découvrez les 14 projets finalistes
 ](https://www.etalab.gouv.fr/decouvrez-les-finalistes-du-concours->dataconnexions-6){:target="_blank"}
 >* [Consultez le programme](https://www.etalab.gouv.fr/ceremonie-de-remise-des-prix-dataconnexions-6-reservez-votre-place){:target="_blank"} de la journée événement du 2 février, à Toulouse
