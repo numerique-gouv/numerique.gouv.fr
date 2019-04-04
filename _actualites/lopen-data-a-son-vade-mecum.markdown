@@ -1,6 +1,6 @@
 ---
 title: L'open data a son vade-mecum
-date: 2019-04-02 17:20:00 +02:00
+date: 2013-09-17 17:20:00 +02:00
 published: false
 categories:
 - Article
