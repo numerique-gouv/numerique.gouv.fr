@@ -7,18 +7,13 @@ chapeau-text: Ouverture plus large et facilitée des données publiques, réutil
   des données publiques.
 ---
 
-Sommaire de la feuille de route
-
- 
-
+**Sommaire de la feuille de route**
+<br>
 L’ouverture des données publiques, liberté publique et levier d’innovation
-
 L’engagement du Gouvernement en faveur de la transparence de l’action publique et de l’ouverture des données
 
- 
-
-L’ambition du Gouvernement en matière d’ouverture des données publiques
- 
+L’ambition du Gouvernement en matière d’ouverture des données publiques :
+<br>
 * 1.Travailler à l’ouverture de jeux de données stratégiques
 * 2.Faciliter et améliorer le processus d’ouverture des données publiques
 dans les ministères, les établissements publics, et les collectivités territoriales
@@ -27,3 +22,5 @@ dans les ministères, les établissements publics, et les collectivités territo
 * 5.L’évaluation des redevances existantes
 * 6.Évolutions du cadre juridique et administratif
 * 7.L’action internationale de la France
+
+* [Feuille de route de l'ouverture des données publiques](/uploads/fr-donnees-publiques.pdf){:target="_blank"} (Pdf - 70,43Ko)
