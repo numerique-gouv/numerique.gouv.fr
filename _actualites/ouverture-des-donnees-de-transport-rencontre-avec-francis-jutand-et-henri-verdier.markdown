@@ -13,7 +13,7 @@ une-ou-diaporama:
 - image: "/uploads/jutand_une_0.jpg"
 ---
 
-<figure class='image-left' style='width: 30%; margin-right: 5px;'><img src="/uploads/Jutand%20Verdier.PNG"/></figure>
+<figure class='image-left' style='width: 50%; margin-right: 10px;'><img src="/uploads/Jutand%20Verdier.PNG"/></figure>
 Le [rapport sur l’ouverture des données de transport](https://www.ecologique-solidaire.gouv.fr/404){:target="_blank"} a été remis à Alain Vidalies, secrétaire d’État chargé des Transports, de la Mer et de la Pêche, en mars 2015. Rencontre avec Francis Jutand, membre du Conseil national du numérique et directeur scientifique de l’Institut Mines Télécom, qui a présidé les travaux et Henri Verdier, directeur de la mission Etalab du SGMAP, en charge de leur coordination.
 <br>
 <br>
