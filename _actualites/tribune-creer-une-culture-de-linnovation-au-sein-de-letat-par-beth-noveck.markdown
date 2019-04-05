@@ -81,7 +81,7 @@ A cela, il faut ajouter un manque culturel et historique d'expérience dans ce d
 
 Il n'est donc pas surprenant qu'il y ait eu un manque d'appétit à innover.
 
-*Notre plus précieuse ressource est un citoyen éclairé. »*
+#### *Notre plus précieuse ressource est un citoyen éclairé. »*
 
 A ce jour, il n'y a toujours pas eu de vraie transformation dans la relation entre l'Etat et le citoyen. **Malgré les avancées technologiques, gouverner reste le pré-carré de professionnels qui travaillent dans l'ombre.**
 
