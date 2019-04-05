@@ -113,9 +113,9 @@ L'annonce par les leaders du G8 d'un engagement de transparence sur le sujet des
 Mais cela inclut aussi des politiques qui favorisent l'innovation, telles que des lois qui facilitent l'embauche de talents externes pour des missions de service public ou l'envoi de serviteurs de l'État dans le monde universitaire ou dans le secteur privé. Cela inclut aussi de nouvelles règles sur les appels d'offres notamment dans le domaine des nouvelles technologies : rendre simple l'incorporation de logiciels libres,  la rédaction d'appels d'offres pour la meilleure solution à un problème au lieu de la solution moins chère ou la solution la plus à la mode.
  
 
-#### Plateformes
+#### 3.Plateformes
 
-Les plateformes sont la clé pour la « découvrabilité » des données ouvertes, en pratique, pas juste en théorie. Qu'il s'agisse de data.gouv.fr ou data.gov.uk, il y a besoin d'un lieu où ces données sont mises à dispositions pour leur téléchargement, un lieu où il est possible de faire un inventaire de ce qui est collecté. C'est aussi l'excuse, le prétexte pour le début d'une conversation sur le qui, le quoi, le pourquoi, et le comment (quels formats) pour ces données ouvertes.
+**Les plateformes sont la clé pour la « découvrabilité » des données ouvertes**, en pratique, pas juste en théorie. Qu'il s'agisse de data.gouv.fr ou data.gov.uk, il y a besoin d'un lieu où ces données sont mises à dispositions pour leur téléchargement, un lieu où il est possible de faire un inventaire de ce qui est collecté. C'est aussi l'excuse, le prétexte pour le début d'une conversation sur le qui, le quoi, le pourquoi, et le comment (quels formats) pour ces données ouvertes.
 
 Ces plateformes deviendront vite essentielles pour l'Etat afin de l'aider à utiliser l'information qu’il possède, celle qu'il collecte du secteur privé, celle qu'il collecte des citoyens, dans le but d'améliorer la façon dont il gouverne.
 
