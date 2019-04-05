@@ -1,6 +1,6 @@
 ---
 title: Plan d'action G8 sur l’ouverture des données publiques
-date: 2019-04-02 17:08:00 +02:00
+date: 2013-11-07 17:08:00 +01:00
 published: false
 categories:
 - Article
