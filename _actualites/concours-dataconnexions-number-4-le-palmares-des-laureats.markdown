@@ -32,7 +32,7 @@ Pour créer et partager en quelques clics des cartes personnalisées CuteGIS est
 
 ### Prix Utilité Publique : Open Meteo Forecast
 
-Pour les sportifs, les vacanciers, les restaurateurs ou tous ceux pour qui le temps a de l’importance : Open Météo Forecast fournit des prévisions affinées, jusqu’aux effets météo locaux, à partir de données atmosphériques ou géographiques. http://ometfn.org/
+Pour les sportifs, les vacanciers, les restaurateurs ou tous ceux pour qui le temps a de l’importance : Open Météo Forecast fournit des prévisions affinées, jusqu’aux effets météo locaux, à partir de données atmosphériques ou géographiques. 
  
 
 ### Prix Grand Public : Open Food Facts
@@ -44,8 +44,7 @@ Open Food Facts vous permet de décrypter et comparer les étiquettes de produit
 
 ### Prix Services de proximité : Calendeev
 
-Calendeev  est un agenda personnalisé qui propose en temps réel les meilleures sorties afin qu’aucun de vos événements favoris ne vous échappe. www.calendeev.com
- 
+Calendeev  est un agenda personnalisé qui propose en temps réel les meilleures sorties afin qu’aucun de vos événements favoris ne vous échappe.  
 
 ### Prix Professionnel :  Le veilleur.fr
 
