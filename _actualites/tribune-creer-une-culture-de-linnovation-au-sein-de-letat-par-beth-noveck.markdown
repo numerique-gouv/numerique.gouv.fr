@@ -40,5 +40,18 @@ Quelques personnes à la Maison Blanche - et sans doute plusieurs centaines au s
  
 *Nous souhaitions consulter le peuple américain et la société civile avant de rédiger les textes sur le gouvernement ouvert. […] C’était du jamais vu. »*
 
+Quand nous sommes arrivés à la Maison Blanche, nous avons réalisé que le **« forward leaning »** - c'est-à-dire l’attitude proactive qui consiste à donner des indications sur les politiques à venir en discutant certains éléments avant la rédaction du texte final - n'était pas bien vue du tout.
+
+Nous souhaitions consulter le peuple américain et la société civile avant de rédiger les textes sur le gouvernement ouvert.
+
+**Nous développions des plans sur le long terme – pas seulement pour que le travail de l'Etat soit plus transparent, mais aussi pour inviter les citoyens à participer à la politique et à travailler ensemble pour trouver des solutions innovantes à des problèmes complexes – il nous paraissait donc normal de définir ces plans d'action de la façon la plus transparente qui soit.**
+
+Mais l'idée qu'une institution aussi rigide que la Maison Blanche puisse faire participer ses employés, et même le peuple américain tout entier, à l'élaboration d'un texte avant que celui-ci ne soit écrit, c'était du jamais vu.
+
+Notre chef de cabinet au sein de l’Executive Office of the President dut subtiliser une liste d'emails afin d'envoyer un courrier aux directeurs de différentes agences, pour autoriser la participation d’agents publics à ces travaux. La raison de tant de secret ? Une pratique courante selon laquelle seul l'Office of Management and Budget a le droit de correspondre avec les agences au nom de la Maison Blanche.
+
+Typiquement, au moment où le public ou même la direction d'une agence fédérale a connaissance d'un projet de texte de loi, la version finale du texte a déjà été copieusement discutée et modifiée par une batterie d'avocats et de politiques, au sein de l’Executive Office of the President et de plusieurs agences gouvernementales.Jusqu'à ce que cet examen soit complet, le texte est considéré « en délibéré » (et noté en tant que tel), ce qui signifie qu'il s'agit d'un travail confidentiel en cours et donc non approprié pour une divulgation publique.
+ 
+
 Les préoccupations liées au Premier Amendement (liberté de parole, de pensée, de religion, etc.) dans le cadre de la modération des médias sociaux (et les problèmes de communication si nous laissions passer des commentaires sur les OVNIs ou l'extrait d'acte de naissance du Président) auraient pu nous stopper net.
  
