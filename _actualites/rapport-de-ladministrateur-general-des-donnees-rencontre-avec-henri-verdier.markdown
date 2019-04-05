@@ -81,9 +81,7 @@ HV. Le rapport formule plusieurs recommandations et cette ambition va être l'un
 Les autres recommandations visent à engager les réformes nécessaires en adoptant le plus souvent possible les approches ouvertes et contributives qui font le succès des stratégies « open data » : organiser avec les administrations volontaires le recensement des données disponibles selon une logique ouverte, construire avec la CNIL et les administrations un « pack de conformité » définissant un ensemble de bonnes pratiques de traitement de données potentiellement à caractère personnel, muscler les méthodes d'anonymisation de fichiers disponibles dans l'Etat, mettre les différentes initiatives en réseau pour qu'elles partagent leurs bonnes pratiques. Ces premières mesures permettraient de faire entrer profondément la question des données dans la palette des outils au service de la transformation de l’action publique.
 
 
->> Télécharger le rapport 2015 de l'administrateur général des données sur la gouvernance de la donnés
- 
-  
+> [Télécharger le rapport 2015 de l'administrateur général des données sur la gouvernance de la donnée](https://www.modernisation.gouv.fr/sites/default/files/rapport_agd_decembre2015.pdf)  
  
 
 
