@@ -32,3 +32,15 @@ Concrètement, quels sont les impacts des projets lauréats ? Ils sont multiples
 *« Le concours Dataconnexions montre que l'open data a une incidence sur la vie quotidienne de tous », note ainsi Laure Lucchesi, cheffe de la mission Etalab.*
 
 * Lire aussi [L’open data nourrit la participation citoyenne et vice-versa](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/open-data-nourrit-la-participation-citoyenne){: target="_blank"}
+
+## Les lauréats Dataconnexions 6
+
+### Catégorie Impact démocratique
+
+*Projets destinés à renforcer la transparence et la participation dans une logique de co-production pour un gouvernement ouvert*
+
+**Juris’commenté, par Elsa Fabre et Gregory Combe**
+
+Juris’commenté est une plateforme collaborative qui **rend une partie du droit accessible à tous, la jurisprudence, en enrichissant collectivement l'analyse des décisions de justice.** La participation d'une large communauté de professionnels du droit permet de générer de l'intelligence collective. La synergie et la richesse des différents points de vue ont pour effet de créer un contenu réutilisable et en amélioration constante. La lecture est **accessible à tous** mais, pour plus d'efficacité, la majeure partie de la participation est réservée aux professionnels du droit.
+
+**L’avis du jury :** *« Considérant que nul n’est censé ignorer la loi, et que cette loi est censée être mise à disposition du plus grand nombre et de manière transparente, nous avons choisi de primer Juris' commenté. En effet, le projet coche toutes les cases : d’une part, il libère une donnée ô combien importante qui permet de garantir l’égalité de tous face à la loi, et d’autre part il apporte de l’intelligence collective sur un sujet complexe. »*
