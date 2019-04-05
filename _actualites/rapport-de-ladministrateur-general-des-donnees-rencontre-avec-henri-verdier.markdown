@@ -3,6 +3,9 @@ title: 'Rapport de l’administrateur général des données : rencontre avec He
 date: 2016-01-21 15:46:00 +01:00
 categories:
 - Article
+tags:
+- administrateur général des données
+- Open data
 chapeau-text: Voilà plus d’un an, en septembre 2014, la France se dotait d’un administrateur
   général des données (AGD), devenant ainsi le premier pays européen à mettre en place
   cette fonction au niveau national. Après un an d’exercice, Henri Verdier, en charge
@@ -68,13 +71,12 @@ En effet, **de très nombreuses dimensions de l'action publique peuvent - vont -
 Tous ces résultats sont consultables [sur le blog de l'AGD
 ](https://agd.data.gouv.fr/){: target="_blank"}
 
-Il est important de continuer à développer des projets concrets à résultats vérifiables. »
+*Il est important de continuer à développer des projets concrets à résultats vérifiables.*
 
- 
 
-Quelles sont vos principales recommandations pour améliorer l’exploitation et la circulation des données ?
+### Quelles sont vos principales recommandations pour améliorer l’exploitation et la circulation des données ?
 
-HV. Le rapport formule plusieurs recommandations et cette ambition va être l'un des fils rouges de l'action de la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC), au sein du SGMAP, dans les années à venir. Le plus important consistera à continuer à développer des projets concrets à résultats vérifiables, à l’image de France connect, la Base adresse nationale, et l’approche startups d’Etat, et à bâtir une circulation croissante au fur et à mesure des API qui seront développées pour les projets.
+HV. Le rapport formule plusieurs recommandations et cette ambition va être l'un des fils rouges de l'action de la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC), au sein du SGMAP, dans les années à venir. Le plus important consistera à **continuer à développer des projets concrets à résultats vérifiables, à l’image de France connect, la Base adresse nationale, et l’approche startups d’Etat,** et à bâtir une circulation croissante au fur et à mesure des API qui seront développées pour les projets.
 
 Les autres recommandations visent à engager les réformes nécessaires en adoptant le plus souvent possible les approches ouvertes et contributives qui font le succès des stratégies « open data » : organiser avec les administrations volontaires le recensement des données disponibles selon une logique ouverte, construire avec la CNIL et les administrations un « pack de conformité » définissant un ensemble de bonnes pratiques de traitement de données potentiellement à caractère personnel, muscler les méthodes d'anonymisation de fichiers disponibles dans l'Etat, mettre les différentes initiatives en réseau pour qu'elles partagent leurs bonnes pratiques. Ces premières mesures permettraient de faire entrer profondément la question des données dans la palette des outils au service de la transformation de l’action publique.
 

@@ -16,7 +16,7 @@ De sa 16e place en 2013, **la France passe cette année en 3e position mondiale 
 
 **[L’Open Knowledge Foundation] France a salué « les avancées de notre pays, avec l’ouverture de jeux de données essentiels, comme les codes postaux et les données de la loi ».**
 
-<figure class='image-right' style='width: 100%;'><img src="/uploads/classement_opendataindex.png"/></figure>
+<figure class='image-right' style='width: 100%;'lenght: 60%;><img src="/uploads/classement_opendataindex.png"/></figure>
 {: .text-center}
 
 #### « La France est un des grands pays de l’open data. »
