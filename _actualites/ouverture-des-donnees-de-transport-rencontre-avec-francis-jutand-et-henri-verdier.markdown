@@ -2,6 +2,7 @@
 title: 'Ouverture des données de transport : rencontre avec Francis Jutand et Henri
   Verdier'
 date: 2019-04-05 14:38:00 +02:00
+is_une: "© Image de Une : madpixblue ; portrait de F. Jutand : Institut Mines-Télécom"
 une-ou-diaporama:
 - image: "/uploads/jutand_une_0.jpg"
 ---
@@ -54,3 +55,4 @@ On mesure les bénéfices de voir les acteurs s'accorder sur un diagnostic, pré
 **Henri Verdier** : Ces débats thématiques ont fait partie de la [feuille de route du gouvernement français pour l'open data et le gouvernement ouvert](https://www.etalab.gouv.fr/en/lafeuillederoutedugouvernementenmatieredouvertureetdepartagedesdonneespubliques), et ont été décidés il y a deux ans en comité interministériel pour la modernisation de l'action publique (CIMAP). Plusieurs d'entre eux ont donné lieu à un travail approfondi, notamment en matière de santé ou de logement. Les effets de ces débats, quand ils sont construits dans la durée, sont extrêmement positifs. Avant même leurs conclusions, on mesure les bénéfices de voir les acteurs s'accorder sur un diagnostic, préciser leurs concepts respectifs, s'accorder sur un vocabulaire partagé. On voit souvent aussi des acteurs infléchir leur stratégie. Nous n'excluons pas de lancer de nouveaux débats avec les ministères qui le souhaitent.
 <br>
 * **[A lire aussi, sur le blog d'Etalab :**](https://www.etalab.gouv.fr/remise-officielle-du-rapport-sur-louverture-des-donnees-de-transport) 
+
