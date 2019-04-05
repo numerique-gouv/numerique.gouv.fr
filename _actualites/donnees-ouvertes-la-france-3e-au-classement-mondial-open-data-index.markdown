@@ -1,6 +1,11 @@
 ---
 title: 'Données ouvertes : la France, 3e au classement mondial Open Data Index'
 date: 2019-04-05 15:39:00 +02:00
+categories:
+- Article
+tags:
+- Open Data
+- Données ouvertes
 chapeau-text: 'C’est une reconnaissance mondiale pour l’ « open data » à la française.
   L’Open Data Index, qui évalue chaque année l’ouverture des données publiques sur
   le plan international, classe la France en 3e position mondiale en 2014.
