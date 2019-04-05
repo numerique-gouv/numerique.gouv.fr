@@ -1,0 +1,21 @@
+---
+title: 'Données de santé : des éclairages sur notre consommation de soins'
+date: 2019-04-05 14:28:00 +02:00
+chapeau-text: Le 26 janvier 2015 s’est tenu, dans les locaux de La Paillasse, à Paris,
+  le premier hackathon dédié aux données de santé, organisé par l’Assurance maladie
+  et Etalab, la mission du SGMAP en charge de l’ouverture des données publiques. Inédits
+  tant sur la nature des données que sur leur volume, les travaux ont permis d’apporter
+  des éclairages sur la consommation de soins des Français.
+une-ou-diaporama:
+- image: "/uploads/hackathon_sante_une_1.jpg"
+---
+
+### Des données de santé massives et essentielles
+
+Le hackathon Santé du 26 janvier dernier, organisé par la mission Etalab et l’Assurance maladie, a été l’occasion de travailler sur des jeux de données inédits : des agrégations du « Damir », le fichier des dépenses de l’Assurance maladie inter-régimes. Ces bases regroupent l’ensemble des remboursements mensuels effectués par le régime général de l’Assurance maladie depuis 2010 (hors prestations hospitalières) par type de prestations (consultations, médicaments…), d’exécutants (médecins, dentistes, pharmaciens, laboratoires d’analyse, spécialistes, etc.) et de prescripteurs. Le tout entièrement « anonymisé », c’est-à-dire qu’il est impossible d’identifier les patients et les médecins. Des données essentielles pour mieux comprendre notre système de santé et notre consommation de soins. Leur ouverture est « un mouvement incontournable » a insisté Marisol Touraine, ministre des Affaires sociales, de la Santé et des Droits des femmes, en marge du hackathon.
+
+Ces fichiers - [prochainement publiés en données ouvertes sur data.gouv.fr ](https://www.data.gouv.fr/fr/organizations/caisse-nationale-de-l-assurance-maladie-des-travailleurs-salaries/){: target="_blank"} sous le nom de « Open Damir » - constituent une ressource massive de données, équivalant à plus de 1,5 milliard de lignes csv (un format informatique ouvert). C’est la première fois qu’un hackathon propose autant de données publiques en France. Elles ont été requêtées, analysées, traitées, croisées par les 80 participants du hackathon, issus d’horizons divers : organismes publics du secteur médical, entreprises, assureurs, start-ups…
+
+ 
+
+### Analyse des données de santé : les premiers enseignements
