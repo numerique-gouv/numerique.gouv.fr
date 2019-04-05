@@ -32,7 +32,7 @@ Enfin, la BAN offre aux entreprises le téléchargement gratuit de fichiers adre
 >La mise en place de la BAN avec La Poste, Etalab et OpenStreetMap permettra de nouvelles améliorations par le développement du community-sourcing et du crowd-sourcing.
 {: .citation}
 > Daniel Bursaux, directeur général de l’IGN
-{: .auteur.citation}
+{: .auteur-citation}
  
 
 ### L’adresse, un bien commun qui correspond à la logique d’ouverture et de réutilisation des données publiques françaises
@@ -43,7 +43,7 @@ Riche de 25 millions d’adresses, cette base doit recenser rapidement l’inté
 >La mise à disposition des données adresses nationales sous plusieurs licences (…) est une grande avancée pour l'opendata français et une première pierre vers une infrastructure de données essentielles (…) pour passer librement du monde des données non géographiques à celui des données géographiques ce qui bénéficiera à de très nombreux usages.
 {: .citation}
 >Christian Quest, Président d’OpenStreetMap France
-{: .auteur.citation}
+{: .auteur-citation}
 
 adresse.data.gouv.fr est  diffusé sous un régime de double licence. Une licence avec partage à l’identique -pouvant être la licence développée par La Poste et l’IGN, ou la licence ODbL d’OpenStreetMap France-, ou bien une licence payante pour les clients traditionnels de l’adresse qui ne souhaitent pas entrer dans l’esprit de contribution. Pour ces derniers, les versions millésimées payantes de l'IGN et de La Poste, régulièrement actualisées, continuent d’offrir la garantie de données qualifiantes associées à des adresses, la confidentialité et la sécurité juridique.
 
@@ -58,7 +58,7 @@ Etalab, l’IGN, Le Groupe La Poste et l’association OpenStreetMap France sont
 {: .citation}
 
 >Henri Verdier, directeur d’Etalab et Administrateur Général des Données (SGMAP)
-{: .auteur.citation}
+{: .auteur-citation}
 
 
 Ce projet met ainsi en avant la volonté de l’administration de créer et d’entretenir de grands biens communs collaboratifs, ici les adresses, de les construire avec des systèmes d’informations en open source, au service du dynamisme économique, de l’efficacité du service public et de l’autonomie des citoyens. Cet état d’esprit est celui du gouvernement ouvert, dont [le plan d’action national ](https://www.modernisation.gouv.fr/home/plan-daction-ogp-un-dialogue-qui-doit-aboutir-a-des-propositions-concretes-activables-et-mesurables){: target="_blank"} est en cours de finalisation.
