@@ -45,3 +45,13 @@ Concrètement, quels sont les impacts des projets lauréats ? Ils sont multiples
 
 **L’avis du jury :** *« Considérant que nul n’est censé ignorer la loi, et que cette loi est censée être mise à disposition du plus grand nombre et de manière transparente, nous avons choisi de primer Juris' commenté. En effet, le projet coche toutes les cases : d’une part, il libère une donnée ô combien importante qui permet de garantir l’égalité de tous face à la loi, et d’autre part il apporte de l’intelligence collective sur un sujet complexe. »*
 
+### Catégorie Impact social et environnemental
+
+*Projets qui contribuent à la résolution de problématiques sociales (éducation, santé, emploi, pauvreté, exclusion) – ou environnementales*
+
+**Bénévole at home, par Gregory Molter**
+
+<figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/benevole%20at%20home-bd6b81.png"/></figure> 1 enfant sur 5 est considéré comme pauvre selon l’Unicef, et près de 8 millions de Français selon l’Insee. BenevoleAtHome.org propose **n service de cartographie, mettant en relation directement les citoyens solidaires aux personnes les plus démunies.** Avec pour priorité le bien-être et la protection des enfants. Cette carte a également pour vocation de servir aux associations humanitaires ayant besoin de bénévoles sur certaines missions locales.
+
+**L’avis du jury :** *« Quelques qualificatifs qui ont marqué le choix du lauréat : vertigineux, belle promesse, potentiel de grande ampleur, incite à l’activisme, à pousser la dimension collaborative et la capacité à partager du temps, à retourner les codes de l’ubérisation pour la mettre au service de l’humain. »*
+
