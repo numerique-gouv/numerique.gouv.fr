@@ -98,3 +98,66 @@ En parallèle, des équipes de bénévoles ont cartographié le monde sur **Open
 Prenons également pour exemple la participation massive (quasi virale) dans le domaine de la science, plus connue sous le nom de « **citizen science** ». Dans les années 1960, le People’s Science Movement mettait en avant une science accessible à tous. Le phénomène de « citizen science » profite des avancées en matière de nouvelles technologies pour faire des citoyens les nouveaux acteurs et créateurs scientifiques.
 
 Qu'avons-nous fait – et qu'ont fait les autres – pour créer cette culture de conversation qui peut permettre à l'Etat et à ses institutions de bénéficier de l'expertise, des idées, de l'expérience et des talents de ceux qui sont « hors des murs », qui peut permettre aux employés de la fonction publique et aux citoyens de participer ensemble avec leur savoir-faire et leur talent à l'élaboration de solutions aux problèmes complexes de notre société ?
+
+J'ai personnellement observé 7 étapes essentielles pour l'institutionnalisation d'un gouvernement ouvert et innovant.
+
+1. Vision
+
+La création de l'Open Government Partnership et l'acte symbolique de 60 pays ratifiant la charte pour un gouvernement ouvert est une réelle source d'inspiration.
+
+L'annonce par les leaders du G8 d'un engagement de transparence sur le sujet des propriétaires véritables des entreprises – qui ils possèdent et qui les possèdent – s'est traduite par des engagements concrets de la part du Royaume-Uni, de la France et du Danemark. La création d'un poste officiel pour la « simplification de l'Etat » envoie un message fort sur l'importance de l'innovation. Pas plus tard qu'hier, le secrétaire d'Etat au Royaume-Uni annonçait que tous les citoyens britanniques auraient un dossier médical électronique d'ici à deux ans. Les détails d’application ne sont pas encore connus, mais un objectif ambitieux permet d'articuler une telle politique avec clarté.
+ 
+
+2. Politiques et lois
+
+Mais cela inclut aussi des politiques qui favorisent l'innovation, telles que des lois qui facilitent l'embauche de talents externes pour des missions de service public ou l'envoi de serviteurs de l'État dans le monde universitaire ou dans le secteur privé. Cela inclut aussi de nouvelles règles sur les appels d'offres notamment dans le domaine des nouvelles technologies : rendre simple l'incorporation de logiciels libres,  la rédaction d'appels d'offres pour la meilleure solution à un problème au lieu de la solution moins chère ou la solution la plus à la mode.
+ 
+
+3. Plateformes
+
+Les plateformes sont la clé pour la « découvrabilité » des données ouvertes, en pratique, pas juste en théorie. Qu'il s'agisse de data.gouv.fr ou data.gov.uk, il y a besoin d'un lieu où ces données sont mises à dispositions pour leur téléchargement, un lieu où il est possible de faire un inventaire de ce qui est collecté. C'est aussi l'excuse, le prétexte pour le début d'une conversation sur le qui, le quoi, le pourquoi, et le comment (quels formats) pour ces données ouvertes.
+
+Ces plateformes deviendront vite essentielles pour l'Etat afin de l'aider à utiliser l'information qu’il possède, celle qu'il collecte du secteur privé, celle qu'il collecte des citoyens, dans le but d'améliorer la façon dont il gouverne.
+
+Si nous voulons que les données ouvertes se traduisent en innovation dans notre façon de gouverner, nous avons besoin des outils pour les visualiser et les analyser. Elles peuvent par exemple nous permettre de visualiser les lieux de travail où se déroulent la plupart des accidents ouvriers.
+Et les plateformes sont bien sur la clé pour consulter les citoyens.
+ 
+
+4. Action et communauté
+
+Injecter des talents est vital, principalement dans le domaine des nouvelles technologies, et surtout s'ils viennent de l'autre côté du pare-feu.
+
+Mais il faut également encourager et cultiver des communautés et des groupes d'agitateurs/innovateurs en quête de changement.
+
+Attention, il ne s'agit pas des mêmes communautés que celles qui ont longtemps milité pour la transparence et la responsabilité de l'Etat. Ces nouvelles communautés contiennent de nouveaux éléments et de nouvelles voix qui comprennent l'importance d'une démarche collaborative avec l'Etat et ont soif de changement.
+ 
+
+5. Formation
+
+La formation et l'enseignement sont essentiels pour cette culture d'innovation. Des rencontres comme celle-ci sont cruciales.
+
+Annonces, politiques et plateformes viennent du haut. Même les programmes de type fellowship, qui envoie une ou deux personnes dans une agence gouvernementale, quoiqu'admirables, ne peuvent à eux  seuls apporter une culture d'innovation. La formation est essentielle.
+
+The Inter American Development Bank offre un programme de formation où des membres du gouvernement de Mexico peuvent regarder des vidéos qui traitent d'innovation. La Banque Mondiale vient de lancer, sur la plateforme Coursera, une classe sur l'engagement citoyen.
+
+Mais l'innovation arrive aussi par le bas, en connectant entre eux des innovateurs et des réformistes, pour qu'ils s'entraident et s'apprennent les uns les autres. L'innovation devient alors contagieuse.
+
+Le Bureau du Cabinet au Royaume-Uni a tenu une « Foire de l'innovation » l'été dernier pour encourager les employés du service public à partager leurs innovations dans un espace réel. La Maison Blanche fait la même chose en ligne avec son Innovation Gallery.
+
+C'est aussi pourquoi GovLab organise des « coaching programs » avec des innovateurs pour les aider à faire passer leur projet d'une idée à une implémentation avec l'aide de mentors et d'experts.
+ 
+
+6. Preuve
+
+Il faut continuer dans cette voie pour comprendre ce qui fonctionne et ce qui ne fonctionne pas, comme le fait la Nudge Unit au Royaume-Uni, en Australie et aux Etats-Unis en expérimentant avec des choix de politiques.
+
+À travers des collaborations avec le monde universitaire pour le design d'expérience de type A/B, nous pouvons accélérer notre compréhension de ces phénomènes : what works and when.
+ 
+
+7. Il faut y croire
+
+Les avancées technologiques nous donnent accès à ces innovations. Un cadre légal et la volonté politique nous permettent de telles expérimentations.
+
+Mais plus que des preuves, c'est avant tout notre foi en cette possibilité de changement qui nous fait avancer : cette croyance que l'on peut inventer une meilleure façon de gouverner, plus légitime, plus efficace, plus démocratique.
+<br>
+**Beth Noveck**
