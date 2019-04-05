@@ -46,22 +46,19 @@ Face à cet objectif, et après une année d'expérimentations avec différentes
 La deuxième difficulté est l'abandon d'une forme de contrôle sur notre informatique. Il devient essentiel de penser les conditions pour que l'Etat puisse à tout moment reprendre et utiliser lui-même toutes les données dont il a besoin pour remplir sa mission (on parle bien de nouveau d'informatique de gestion). Ensuite, le rapport analyse plusieurs autres freins, comme **l'absence d'incitations à la coopération entre administrations, les difficultés liées à une application approximative des secrets légaux... et enfin, bien sûr, la diffusion encore trop restreinte des datasciences.** Car enfin, comment demander tant d'efforts aux administrations si elles ne peuvent pas en bénéficier grâce à la maîtrise de ces nouveaux usages des données ?
 
 
-Pour faire avancer la pratique des datasciences, il faut en prouver la valeur pour l'Etat. »
+*Pour faire avancer la pratique des datasciences, il faut en prouver la valeur pour l'Etat.*
 
+### D’où le fait d’avoir constitué auprès de vous, dès le début de votre mission, une équipe de datascientists ?
+
+**HV.** Effectivement. Le plus important, sans doute, pour faire avancer la pratique des datasciences est d'en prouver la valeur pour l'Etat et d’en diffuser largement la maîtrise. Le pari est **qu'au fur et à mesure de la banalisation de ces méthodes, les principes de bonne gouvernance de la donnée paraîtront évidents.**
+
+En effet, **de très nombreuses dimensions de l'action publique peuvent - vont - être substantiellement améliorées grâce à l'utilisation de ces données et de ces outils. Mieux prédire de grands phénomènes** (épidémies, tensions sur le marché de l'emploi…), **mieux comprendre des événements plus individuels** (cambriolages, accidents de la route, fraude fiscale…), piloter des politiques en temps réel, allouer ses ressources avec pertinence... Toutes ces possibilités - et bien d'autres - sont ouvertes avec des moyens très modérés, pourvu que les données soient accessibles et que quelques compétences rares soient intégrées au sein de l'Etat.
  
 
-D’où le fait d’avoir constitué auprès de vous, dès le début de votre mission, une équipe de datascientists ?
-
-HV. Effectivement. Le plus important, sans doute, pour faire avancer la pratique des datasciences est d'en prouver la valeur pour l'Etat et d’en diffuser largement la maîtrise. Le pari est qu'au fur et à mesure de la banalisation de ces méthodes, les principes de bonne gouvernance de la donnée paraîtront évidents.
-
-En effet, de très nombreuses dimensions de l'action publique peuvent - vont - être substantiellement améliorées grâce à l'utilisation de ces données et de ces outils. Mieux prédire de grands phénomènes (épidémies, tensions sur le marché de l'emploi…), mieux comprendre des événements plus individuels (cambriolages, accidents de la route, fraude fiscale…), piloter des politiques en temps réel, allouer ses ressources avec pertinence... Toutes ces possibilités - et bien d'autres - sont ouvertes avec des moyens très modérés, pourvu que les données soient accessibles et que quelques compétences rares soient intégrées au sein de l'Etat.
- 
-
-
-Les datasciences, qu’est-ce que c’est ?
-
-Les datasciences – ou sciences de la donnée – sont une nouvelle discipline visant à extraire des données des informations utiles et à concevoir de nouveaux usages, de nouveaux services. Elles s’appuient pour cela sur un ensemble de méthodes, alliant statistiques, mathématiques, informatique et visualisation des données.
-
+> ### Les datasciences, qu’est-ce que c’est ?
+>
+>Les datasciences – ou sciences de la donnée – sont une nouvelle discipline visant à extraire des données des informations utiles et à concevoir de nouveaux usages, de nouveaux services. Elles s’appuient pour cela sur un ensemble de méthodes, alliant statistiques, mathématiques, informatique et visualisation des données.
+{: .encadre}
  
 
 À quelles problématiques avez-vous appliqué les datasciences, et pour quels résultats ?
