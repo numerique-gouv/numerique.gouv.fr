@@ -24,13 +24,13 @@ La campagne présidentielle d'Obama en 2007-2008 avait invité ses supporters **
 
 **Pour la première fois de l'histoire, après l'élection et avant l'investiture, nous avons mis en place un site web pour l'équipe de transition, avec un accent sur la transparence, dans le but d'informer le peuple américain et de le faire participer au processus de préparation des 100 premiers jours de la nouvelle administration.** Nous encouragions les gens à nous envoyer leurs questions, leurs idées.
 
-*Des experts en sécurité un peu trop zélés décidèrent de bloquer tous nos sites de médias sociaux. »*
+#### *Des experts en sécurité un peu trop zélés décidèrent de bloquer tous nos sites de médias sociaux. »*
 
 Après le 21 janvier 2009, tout cela s'est arrêté. Nous avions beau être en haut du Mont Blanc, nous avions encore Windows 2000 comme système d'exploitation. Les lacunes technologiques étaient seulement l’une des raisons.
 
 **Des experts en sécurité un peu trop zélés décidèrent de bloquer tous nos sites de médias sociaux.** Le Président Obama dut exercer son autorité de « leader du monde libre » afin d'être autorisé à garder son « BlackBerry ». **Les directives sur la restriction des « cadeaux », en principe destinée à prévenir des faits de corruption, nous empêchaient d'utiliser par exemple des logiciels libres.** L'accès à des outils de gestion de nos médias sociaux, compte tenu des impératifs d'accès et de sécurité pour les serveurs de la Maison Blanche, allait prendre douze mois, voire plus.
 
-*Les vivistes à la Maison Blanche ne sont permises qu'avec l'aval du FBI. Il faut montrer patte blanche. »*
+#### *Les vivistes à la Maison Blanche ne sont permises qu'avec l'aval du FBI. Il faut montrer patte blanche. »*
 
 De telles pratiques étaient notre lot quotidien. L'accès à la Maison Blanche, ne serait-ce que pour un meeting banal, exigeait un préavis de 24 heures, le dépôt de votre numéro de sécurité sociale, de votre date de naissance, ainsi qu'une vérification des antécédents, un passage aux rayons X et une fouille dans les règles. Les visites de la Maison Blanche ne sont permises qu'avec l'aval du FBI. Il faut montrer patte blanche.
 
@@ -38,7 +38,7 @@ Les gens de l’extérieur ne peuvent voir à l'intérieur, et les employés du 
 
 Quelques personnes à la Maison Blanche - et sans doute plusieurs centaines au sein des agences fédérales - ne possèdent pas toute l'expertise nécessaire pour la création de politiques ou pour l’exécution de projet sur des sujets techniques et complexes. Georges Clémenceau a dit que « Les fonctionnaires sont un peu comme les livres d'une bibliothèque : ce sont les plus haut placés qui servent le moins. » 
  
-*Nous souhaitions consulter le peuple américain et la société civile avant de rédiger les textes sur le gouvernement ouvert. […] C’était du jamais vu. »*
+#### *Nous souhaitions consulter le peuple américain et la société civile avant de rédiger les textes sur le gouvernement ouvert. […] C’était du jamais vu. »*
 
 Quand nous sommes arrivés à la Maison Blanche, nous avons réalisé que le **« forward leaning »** - c'est-à-dire l’attitude proactive qui consiste à donner des indications sur les politiques à venir en discutant certains éléments avant la rédaction du texte final - n'était pas bien vue du tout.
 
@@ -101,19 +101,19 @@ Qu'avons-nous fait – et qu'ont fait les autres – pour créer cette culture d
 
 J'ai personnellement observé 7 étapes essentielles pour l'institutionnalisation d'un gouvernement ouvert et innovant.
 
-1. Vision
+#### Vision
 
 La création de l'Open Government Partnership et l'acte symbolique de 60 pays ratifiant la charte pour un gouvernement ouvert est une réelle source d'inspiration.
 
 L'annonce par les leaders du G8 d'un engagement de transparence sur le sujet des propriétaires véritables des entreprises – qui ils possèdent et qui les possèdent – s'est traduite par des engagements concrets de la part du Royaume-Uni, de la France et du Danemark. La création d'un poste officiel pour la « simplification de l'Etat » envoie un message fort sur l'importance de l'innovation. Pas plus tard qu'hier, le secrétaire d'Etat au Royaume-Uni annonçait que tous les citoyens britanniques auraient un dossier médical électronique d'ici à deux ans. Les détails d’application ne sont pas encore connus, mais un objectif ambitieux permet d'articuler une telle politique avec clarté.
  
 
-2. Politiques et lois
+#### Politiques et lois
 
 Mais cela inclut aussi des politiques qui favorisent l'innovation, telles que des lois qui facilitent l'embauche de talents externes pour des missions de service public ou l'envoi de serviteurs de l'État dans le monde universitaire ou dans le secteur privé. Cela inclut aussi de nouvelles règles sur les appels d'offres notamment dans le domaine des nouvelles technologies : rendre simple l'incorporation de logiciels libres,  la rédaction d'appels d'offres pour la meilleure solution à un problème au lieu de la solution moins chère ou la solution la plus à la mode.
  
 
-3. Plateformes
+#### Plateformes
 
 Les plateformes sont la clé pour la « découvrabilité » des données ouvertes, en pratique, pas juste en théorie. Qu'il s'agisse de data.gouv.fr ou data.gov.uk, il y a besoin d'un lieu où ces données sont mises à dispositions pour leur téléchargement, un lieu où il est possible de faire un inventaire de ce qui est collecté. C'est aussi l'excuse, le prétexte pour le début d'une conversation sur le qui, le quoi, le pourquoi, et le comment (quels formats) pour ces données ouvertes.
 
@@ -123,7 +123,7 @@ Si nous voulons que les données ouvertes se traduisent en innovation dans notre
 Et les plateformes sont bien sur la clé pour consulter les citoyens.
  
 
-4. Action et communauté
+#### Action et communauté
 
 Injecter des talents est vital, principalement dans le domaine des nouvelles technologies, et surtout s'ils viennent de l'autre côté du pare-feu.
 
@@ -132,7 +132,7 @@ Mais il faut également encourager et cultiver des communautés et des groupes d
 Attention, il ne s'agit pas des mêmes communautés que celles qui ont longtemps milité pour la transparence et la responsabilité de l'Etat. Ces nouvelles communautés contiennent de nouveaux éléments et de nouvelles voix qui comprennent l'importance d'une démarche collaborative avec l'Etat et ont soif de changement.
  
 
-5. Formation
+#### Formation
 
 La formation et l'enseignement sont essentiels pour cette culture d'innovation. Des rencontres comme celle-ci sont cruciales.
 
@@ -147,14 +147,14 @@ Le Bureau du Cabinet au Royaume-Uni a tenu une « Foire de l'innovation » l'ét
 C'est aussi pourquoi GovLab organise des « coaching programs » avec des innovateurs pour les aider à faire passer leur projet d'une idée à une implémentation avec l'aide de mentors et d'experts.
  
 
-6. Preuve
+#### 6. Preuve
 
 Il faut continuer dans cette voie pour comprendre ce qui fonctionne et ce qui ne fonctionne pas, comme le fait la Nudge Unit au Royaume-Uni, en Australie et aux Etats-Unis en expérimentant avec des choix de politiques.
 
 À travers des collaborations avec le monde universitaire pour le design d'expérience de type A/B, nous pouvons accélérer notre compréhension de ces phénomènes : what works and when.
  
 
-7. Il faut y croire
+#### 7. Il faut y croire
 
 Les avancées technologiques nous donnent accès à ces innovations. Un cadre légal et la volonté politique nous permettent de telles expérimentations.
 
