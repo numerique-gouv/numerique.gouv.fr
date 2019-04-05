@@ -17,4 +17,4 @@ chapeau-text: 'Pendant une dizaine de jours, Henri Verdier, directeur d’Etalab
 
 <iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x2u6lex" allowfullscreen allow="autoplay"></iframe>
 
-[Suivez l'action de l'administrateur général des données sur son blog](https://agd.data.gouv.fr/)){: target="_blank"}
+[Suivez l'action de l'administrateur général des données sur son blog](https://agd.data.gouv.fr/){: target="_blank"}
