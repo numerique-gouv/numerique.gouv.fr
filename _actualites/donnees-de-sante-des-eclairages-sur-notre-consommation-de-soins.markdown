@@ -19,3 +19,16 @@ Ces fichiers - [prochainement publiés en données ouvertes sur data.gouv.fr ](h
  
 
 ### Analyse des données de santé : les premiers enseignements
+
+13 équipes se sont constituées pour contribuer à l’analyse de notre système de santé, à travers les données de dépenses de l’Assurance maladie.  Plusieurs travaux, utilisant uniquement des données publiques et ouvertes, ont montré un lien entre l’offre et la consommation de soins : lorsqu’on augmente la densité de médecins de 100 pour 100 000 habitants dans un département, le nombre de visites chez un généraliste par affilié augmente de 0,5 par an.
+
+La start-up Withings s’est quant à elle penchée sur [l’influence des modes de vie](https://blog.withings.com/2015/01/30/withings-participe-au-hackathon-lassurance-maladie-etalab/){: target="_blank"} sur les dépenses de santé. Pour cela, ses développeurs ont croisé les données du Damir avec celles issues des objets connectés créés par la start-up (trackeurs d’activité, pèse-personnes…), dont ils sont propriétaires. Ils ont notamment observé une corrélation entre le nombre moyen de pas effectués par jour (données propriétaires) et les dépenses en médecine générale, par département (données publiques). Dans les départements où la moyenne de pas est la plus élevée, les dépenses de santé par personne sont les plus faibles. Ils établissent ainsi un lien entre la sédentarité et la consommation de soins.
+
+Une autre équipe de développeurs a travaillé sur l’anonymisation des données, une problématique essentielle en ce qui concerne les données de santé. Elle a tenté de la « craquer », pour vérifier qu’il n’y avait aucun risque de ré-identification directe ou indirecte des personnes concernées.  Elle complétait des tests préalables à l’ouverture des données de santé effectués par la CNAMTS. Pour cette équipe, l’échec a été un succès : aucune ré-identification n’a été possible.
+
+ 
+
+
+### Le hackathon ou comment réutiliser des données ouvertes pour produire du service
+
+Un hackathon permet de faire travailler ensemble et de manière collaborative, pendant une ou deux journées, des personnes dotées de compétences techniques (programmateurs, datascientists…) et des experts métiers sur un sujet précis ou autour de ressources particulières. Des hackathons – ou open data camps - sont régulièrement organisés par la mission Etalab de manière à anticiper ou à accompagner l’ouverture de données publiques sur le portail data.gouv.fr. Des données sont mises à la disposition des participants afin qu’ils produisent des visualisations de données (« dataviz »), des analyses et des applications. A la suite d’un hackathon, les données sont généralement ouvertes à tous, publiées sur data.gouv.fr.
