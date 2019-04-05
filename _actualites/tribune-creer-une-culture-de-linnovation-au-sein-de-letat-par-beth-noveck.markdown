@@ -30,5 +30,7 @@ Après le 21 janvier 2009, tout cela s'est arrêté. Nous avions beau être en h
 
 **Des experts en sécurité un peu trop zélés décidèrent de bloquer tous nos sites de médias sociaux.** Le Président Obama dut exercer son autorité de « leader du monde libre » afin d'être autorisé à garder son « BlackBerry ». **Les directives sur la restriction des « cadeaux », en principe destinée à prévenir des faits de corruption, nous empêchaient d'utiliser par exemple des logiciels libres.** L'accès à des outils de gestion de nos médias sociaux, compte tenu des impératifs d'accès et de sécurité pour les serveurs de la Maison Blanche, allait prendre douze mois, voire plus.
 
+*Les vivistes à la Maison Blanche ne sont permises qu'avec l'aval du FBI. Il faut montrer patte blanche. »*
+
 Les préoccupations liées au Premier Amendement (liberté de parole, de pensée, de religion, etc.) dans le cadre de la modération des médias sociaux (et les problèmes de communication si nous laissions passer des commentaires sur les OVNIs ou l'extrait d'acte de naissance du Président) auraient pu nous stopper net.
  
