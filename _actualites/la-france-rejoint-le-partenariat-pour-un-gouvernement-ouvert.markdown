@@ -1,6 +1,6 @@
 ---
 title: La France rejoint le Partenariat pour un Gouvernement ouvert
-date: 2019-03-01 10:47:00 +01:00
+date: 2014-04-24 10:47:00 +02:00
 published: false
 categories:
 - Article
