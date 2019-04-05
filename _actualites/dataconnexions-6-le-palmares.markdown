@@ -72,3 +72,27 @@ CityZen Map, est une application gratuite web/mobile d’animation territoriale 
 RdvPasseport.fr est le **premier moteur de recherche de rendez-vous en ligne pour les demandes de passeport.** La demande de passeport biométrique peut se faire dans n’importe quelle mairie dotée d’un dispositif de recueil d’empreintes. Rdvpasseport.fr recense tous les rendez-vous des communes d'Ile-de-France et de Rhône-Alpes proposant des rendez-vous par Internet. Afin de voir quels sont les créneaux disponibles les plus proches de chez soi, il suffit de lancer une recherche en délimitant la zone géographique souhaitée.
 
 **L’avis du jury :** *« Nous avons trouvé une intrapreuneuse dans l’administration. Le projet est très intéressant et offre un service utile aux citoyens. »*
+
+> Le jury de Dataconnexions 6
+
+>**Paul Duan**, fondateur de [Bayes Impact ](https://www.bayesimpact.org/){: target="_blank"} et passionné de la donnée mise au service du bien commun, présidait cette année le jury composé de personnalités de l'écosystème numérique :
+>
+>* **Awa Ndiaye** (Mairie de Paris)
+>* **Barbara Ubaldi** (OCDE)
+>* **Bertrand Serp** (Toulouse Métropole)
+>* **Catherine Tillous** (Makina Corpus)
+>* **Delphine Desgurse** (La Poste)
+>* **Edouard Forzy** (La Mêlée)
+>* **Emmanuelle Jardat** (Orange)
+>* **Gaetan Gueguen** (Ambition Toulouse Métropole)
+>* **Guillaume Fauré** (SFR)
+>* **Jean-Baptiste Bini** (Cap Digital)
+>* **Jordanne Monseau** (Open Data Youth Camp)
+>* **Klara Peyre** (French Tech)
+>* **Nicolas Amar** (IGAS)
+>* **Olivier Jouan** (Port Parallèle)
+>* **Romain Crestey** (Ants, Lauréat DC5 avec City)
+>* **Romain Pigenel** (Service d’information du gouvernement)
+>* **Samantha Jerulsalmy** (Elaia Partners)
+>* **Tony Marchand** (DigitalPlace)
+{: .encadre}
