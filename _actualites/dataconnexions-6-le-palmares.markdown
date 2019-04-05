@@ -77,9 +77,9 @@ RdvPasseport.fr est le **premier moteur de recherche de rendez-vous en ligne pou
 
 ><br>
 > ###Le jury de Dataconnexions 6
->
+><br>
 >**Paul Duan**, fondateur de [Bayes Impact ](https://www.bayesimpact.org/){: target="_blank"} et passionné de la donnée mise au service du bien commun, présidait cette année le jury composé de personnalités de l'écosystème numérique :
->
+><br>
 >* **Awa Ndiaye** (Mairie de Paris)
 >* **Barbara Ubaldi** (OCDE)
 >* **Bertrand Serp** (Toulouse Métropole)
