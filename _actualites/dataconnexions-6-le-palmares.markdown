@@ -11,6 +11,8 @@ chapeau-text: 49 projets candidats, 14 finalistes… et 5 lauréats. Le verdict 
   de Clotilde Valter, secrétaire d’État à la Réforme de l’État et à la Simplification.
   Découvrez les grands gagnants de cette 6e édition du concours Dataconnexions, piloté
   par Etalab, qui récompense les réutilisations de données publiques les plus innovantes.
+une-ou-diaporama:
+- image: "/uploads/h.png"
 ---
 
 ### L’impact des données au cœur de Dataconnexions 6
