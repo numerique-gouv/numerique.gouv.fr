@@ -1,6 +1,6 @@
 ---
 title: L’État facilite le recrutement et la mobilité de ses ingénieurs SIC
-date: 2019-02-26 16:39:00 +01:00
+date: 2015-09-10 16:39:00 +02:00
 published: false
 categories:
 - Article
