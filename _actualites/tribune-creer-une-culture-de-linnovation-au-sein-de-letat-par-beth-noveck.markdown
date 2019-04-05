@@ -56,3 +56,14 @@ Typiquement, au moment où le public ou même la direction d'une agence fédéra
 Les préoccupations liées au Premier Amendement (liberté de parole, de pensée, de religion, etc.) dans le cadre de la modération des médias sociaux (et les problèmes de communication si nous laissions passer des commentaires sur les OVNIs ou l'extrait d'acte de naissance du Président) auraient pu nous stopper net.
  
 **En 2009, la Maison Blanche n'avait pas d'outils simples pour faire participer les citoyens. »**
+
+Avant de pouvoir prendre part à toute forme de collecte d'informations (sondage par exemple), une disposition législative méconnue, le Paperwork Reduction Act – bête noire de tout fonctionnaire –  oblige les agences gouvernementales à une laborieuse procédure d'agrément. Dans chaque cas, un ministre doit systématiquement s'acquitter d'un droit d'enregistrement et publier un avis de consultation des citoyens dans le Federal Register, notre « Journal Officiel ».
+
+**De fait, en 2009, la Maison Blanche n'avait pas d'outils simples pour faire participer les citoyens.  Pas de blog. Facebook, on oublie. Et pas de Twitter non plus.**
+
+En revanche, nous avions sur les bras un site web archaïque qui fonctionnait à peine, héritage de l'administration Bush, dont l'esprit d'ouverture s'était traduit par une vidéo du sapin de Noël de la Maison Blanche filmé du point de vue de Barney, le chien présidentiel.
+
+Du coup, nous avons dû mettre en place un partenariat avec une autre agence pour faire héberger un simple outil de brainstorming en ligne.
+
+A ce stade, la Maison Blanche avait un DSI, mais pas de directeur de la technologie. Personne à qui parler de stratégies internet pour rendre l’administration ouverte dans sa façon de fonctionner et d’accomplir ses missions de service public, comme la réduction des coûts de l'assurance maladie, l'amélioration de l'accès à l'éducation, la création d'emploi, l'efficacité et la productivité de l'Etat.
+
