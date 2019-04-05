@@ -54,7 +54,7 @@ Le troisième enseignement est que les entreprises de transport doivent de toute
 <br>
 **Francis Jutand** : Dès le départ, nous avons senti que le débat ne démarrait pas sur un terrain vierge et qu'il y avait à la fois de l'ouverture et beaucoup de craintes. C'est en développant une vision systémique globale et en situant les enjeux dans un cadre européen et international que les partenaires, tout en gardant certaines formes de réserve, ont joué le jeu de l'élaboration de solutions d'avenir. A cet égard, le débat sur l'ouverture des données de transport a été un jeu de démocratie, utile pour le secteur des transports, qui pourrait contribuer utilement au déroulement d'autres débats
 
-On mesure les bénéfices de voir les acteurs s'accorder sur un diagnostic, préciser leurs concepts respectifs, s'accorder sur un vocabulaire partagé.
+> On mesure les bénéfices de voir les acteurs s'accorder sur un diagnostic, préciser leurs concepts respectifs, s'accorder sur un vocabulaire partagé.
 {: .citation}
 – Henri Verdier
 {: .auteur-citation}
