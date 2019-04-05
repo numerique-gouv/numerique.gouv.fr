@@ -17,7 +17,7 @@ une-ou-diaporama:
 
 ### Prix Spécial Evasion : Guido et Vamos a La Playa
 
-Sur la route, Guido accompagne les voyageurs sur toutes les autoroutes et donne des infos sur les paysages, les villes et les endroits pour s’arrêter. Ou à la plage, Vamos a La Playa est l’outil en ligne et collaboratif pour trouver la meilleure plage adaptée aux souhaits des vacanciers. www.vamosalaplaya.eu
+Sur la route, Guido accompagne les voyageurs sur toutes les autoroutes et donne des infos sur les paysages, les villes et les endroits pour s’arrêter. Ou à la plage, Vamos a La Playa est l’outil en ligne et collaboratif pour trouver la meilleure plage adaptée aux souhaits des vacanciers. [www.vamosalaplaya.eu](http://www.vamosalaplaya.eu/){: target="_blank"}
  
 
 ### Prix Spécial Territoire : Cute GIS et Métanol
