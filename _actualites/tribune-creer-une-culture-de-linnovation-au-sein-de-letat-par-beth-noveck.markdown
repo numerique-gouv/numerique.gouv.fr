@@ -32,5 +32,13 @@ Après le 21 janvier 2009, tout cela s'est arrêté. Nous avions beau être en h
 
 *Les vivistes à la Maison Blanche ne sont permises qu'avec l'aval du FBI. Il faut montrer patte blanche. »*
 
+De telles pratiques étaient notre lot quotidien. L'accès à la Maison Blanche, ne serait-ce que pour un meeting banal, exigeait un préavis de 24 heures, le dépôt de votre numéro de sécurité sociale, de votre date de naissance, ainsi qu'une vérification des antécédents, un passage aux rayons X et une fouille dans les règles. Les visites de la Maison Blanche ne sont permises qu'avec l'aval du FBI. Il faut montrer patte blanche.
+
+Les gens de l’extérieur ne peuvent voir à l'intérieur, et les employés du « saint lieu » ne peuvent voir dehors du fait des épais rideaux censés bloquer les débris de verre en cas d'explosion. Les téléphones mobiles doivent être laissés à l'entrée, enfermés dans des petits cagibis en bois.
+
+Quelques personnes à la Maison Blanche - et sans doute plusieurs centaines au sein des agences fédérales - ne possèdent pas toute l'expertise nécessaire pour la création de politiques ou pour l’exécution de projet sur des sujets techniques et complexes. Georges Clémenceau a dit que « Les fonctionnaires sont un peu comme les livres d'une bibliothèque : ce sont les plus haut placés qui servent le moins. » 
+ 
+*Nous souhaitions consulter le peuple américain et la société civile avant de rédiger les textes sur le gouvernement ouvert. […] C’était du jamais vu. »*
+
 Les préoccupations liées au Premier Amendement (liberté de parole, de pensée, de religion, etc.) dans le cadre de la modération des médias sociaux (et les problèmes de communication si nous laissions passer des commentaires sur les OVNIs ou l'extrait d'acte de naissance du Président) auraient pu nous stopper net.
  
