@@ -67,4 +67,8 @@ CityZen Map, est une application gratuite web/mobile d’animation territoriale 
 
 ### Coup de cœur du jury
 
-[RdvPasseport.fr](http://www.rdvpasseport.fr/){: target="_blank"}, par Laëtitia Henry
+**[RdvPasseport.fr](http://www.rdvpasseport.fr/){: target="_blank"}, par Laëtitia Henry**
+
+RdvPasseport.fr est le **premier moteur de recherche de rendez-vous en ligne pour les demandes de passeport.** La demande de passeport biométrique peut se faire dans n’importe quelle mairie dotée d’un dispositif de recueil d’empreintes. Rdvpasseport.fr recense tous les rendez-vous des communes d'Ile-de-France et de Rhône-Alpes proposant des rendez-vous par Internet. Afin de voir quels sont les créneaux disponibles les plus proches de chez soi, il suffit de lancer une recherche en délimitant la zone géographique souhaitée.
+
+**L’avis du jury :** *« Nous avons trouvé une intrapreuneuse dans l’administration. Le projet est très intéressant et offre un service utile aux citoyens. »*
