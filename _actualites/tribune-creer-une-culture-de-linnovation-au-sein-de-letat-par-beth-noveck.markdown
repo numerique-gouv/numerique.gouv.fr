@@ -156,8 +156,8 @@ Il faut continuer dans cette voie pour comprendre ce qui fonctionne et ce qui ne
 
 #### 7. Il faut y croire
 
-Les avancées technologiques nous donnent accès à ces innovations. Un cadre légal et la volonté politique nous permettent de telles expérimentations.
+**Les avancées technologiques nous donnent accès à ces innovations.** Un cadre légal et la volonté politique nous permettent de telles expérimentations.
 
-Mais plus que des preuves, c'est avant tout notre foi en cette possibilité de changement qui nous fait avancer : cette croyance que l'on peut inventer une meilleure façon de gouverner, plus légitime, plus efficace, plus démocratique.
+**Mais plus que des preuves, c'est avant tout notre foi en cette possibilité de changement qui nous fait avancer : cette croyance que l'on peut inventer une meilleure façon de gouverner, plus légitime, plus efficace, plus démocratique.**
 <br>
 **Beth Noveck**
