@@ -2,6 +2,11 @@
 title: La France lance la première base adresse nationale collaborative-
 date: 2015-04-22 14:47:00 +02:00
 published: false
+categories:
+- Article
+tags:
+- Open government partnership
+- Open data
 chapeau-text: Mercredi 15 avril 2015, en présence de Thierry Mandon, secrétaire d’État
   chargé de la Réforme de l’État et de la Simplification, la première Base Adresse
   Nationale collaborative française a été mise en ligne. La création de cette base
