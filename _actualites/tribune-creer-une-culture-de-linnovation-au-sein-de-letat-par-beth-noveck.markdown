@@ -103,7 +103,7 @@ J'ai personnellement observé 7 étapes essentielles pour l'institutionnalisatio
 
 #### 1.Vision
 
-**La création de l'Open Government Partnership et l'acte symbolique de 60 pays ratifiant la charte pour un gouvernement ouvert est une réelle source d'inspiration.**
+**La création de [l'Open Government Partnership ](https://www.modernisation.gouv.fr/home/france-rejoint-open-governement-partnership-ogp){: target="_blank"} et l'acte symbolique de 60 pays ratifiant la charte pour un gouvernement ouvert est une réelle source d'inspiration.**
 
 L'annonce par les leaders du G8 d'un engagement de transparence sur le sujet des propriétaires véritables des entreprises – qui ils possèdent et qui les possèdent – s'est traduite par des engagements concrets de la part du Royaume-Uni, de la France et du Danemark. La création d'un poste officiel pour la « simplification de l'Etat » envoie un message fort sur l'importance de l'innovation. Pas plus tard qu'hier, le secrétaire d'Etat au Royaume-Uni annonçait que tous les citoyens britanniques auraient un dossier médical électronique d'ici à deux ans. Les détails d’application ne sont pas encore connus, mais un objectif ambitieux permet d'articuler une telle politique avec clarté.
  
