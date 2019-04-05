@@ -55,3 +55,4 @@ Typiquement, au moment où le public ou même la direction d'une agence fédéra
 
 Les préoccupations liées au Premier Amendement (liberté de parole, de pensée, de religion, etc.) dans le cadre de la modération des médias sociaux (et les problèmes de communication si nous laissions passer des commentaires sur les OVNIs ou l'extrait d'acte de naissance du Président) auraient pu nous stopper net.
  
+**En 2009, la Maison Blanche n'avait pas d'outils simples pour faire participer les citoyens. »**
