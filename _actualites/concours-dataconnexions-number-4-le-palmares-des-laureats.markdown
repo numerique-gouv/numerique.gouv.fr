@@ -22,7 +22,7 @@ Sur la route, Guido accompagne les voyageurs sur toutes les autoroutes et donne 
 
 ### Prix Spécial Territoire : Cute GIS et Métanol
 
-Pour créer et partager en quelques clics des cartes personnalisées CuteGIS est la plateforme Open Source à utiliser cutegis.fr. Métanol accompagne les collectivités et services de l'État qui ouvrent et partagent leurs données  et favorise la rencontre des ces données avec leurs communautés. www.comarquage.fr
+Pour créer et partager en quelques clics des cartes personnalisées CuteGIS est la plateforme Open Source à utiliser cutegis.fr. Métanol accompagne les collectivités et services de l'État qui ouvrent et partagent leurs données  et favorise la rencontre des ces données avec leurs communautés. [www.comarquage.fr](http://www.comarquage.fr/){: target="_blank"}
  
 
 ### Prix Utilité Publique : Open Meteo Forecast
@@ -32,7 +32,8 @@ Pour les sportifs, les vacanciers, les restaurateurs ou tous ceux pour qui le te
 
 ### Prix Grand Public : Open Food Facts
 
-Open Food Facts vous permet de décrypter et comparer les étiquettes de produit alimentaire : vous pouvez enfin savoir ce que vous mangez !  http://fr.openfoodfacts.org
+Open Food Facts vous permet de décrypter et comparer les étiquettes de produit alimentaire : vous pouvez enfin savoir ce que vous mangez !  [http://fr.openfoodfacts.org](https://fr.openfoodfacts.org/){: target="_blank"}
+ 
 
  
 
