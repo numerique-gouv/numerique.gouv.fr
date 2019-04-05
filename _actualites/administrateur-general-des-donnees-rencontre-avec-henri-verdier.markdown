@@ -42,5 +42,5 @@ Néanmoins, sans attendre la stratégie définitive, nous allons immédiatement 
 
  
 
-> A lire aussi : [[Dossier de presse] La France se dote d'un administrateur général des données](https://www.modernisation.gouv.fr/node/82859){: target="_blank"}
+> [A lire aussi : [Dossier de presse] La France se dote d'un administrateur général des données](https://www.modernisation.gouv.fr/node/82859){: target="_blank"}
 {: .lien-important}
