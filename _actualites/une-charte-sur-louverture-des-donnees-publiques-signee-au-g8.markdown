@@ -1,6 +1,6 @@
 ---
 title: Une charte sur l'ouverture des données publiques signée au G8
-date: 2019-04-02 17:27:00 +02:00
+date: 2013-06-19 17:27:00 +02:00
 published: false
 categories:
 - Article
