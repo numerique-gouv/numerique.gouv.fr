@@ -1,6 +1,6 @@
 ---
 title: Remise du rapport Trojette sur l'ouverture des données publiques
-date: 2019-04-02 17:13:00 +02:00
+date: 2013-11-05 17:13:00 +01:00
 published: false
 categories:
 - art
