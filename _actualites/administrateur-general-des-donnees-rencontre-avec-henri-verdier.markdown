@@ -34,7 +34,7 @@ C'est aussi une fonction qui permet de tirer tout le potentiel du SGMAP, en asso
 La démarche d'open data française, pour sa part, s'enrichira considérablement de ces compétences. Elle a déjà bénéficié du fait d'être adossée à une véritable culture du développement opérationnel, qui a permis la conception rapide du nouveau data.gouv.fr mais aussi le développement de projets comme openfisca.fr. Elle a également bénéficié d'une culture du travail avec les écosystèmes, qui a fait naître un projet comme BANO, la base d’adresses nationale ouverte. Enfin, elle va continuer de s’enrichir en s'appuyant sur des équipes qui utiliseront elles-mêmes les données et seront plus affutées encore quand il s'agira de rechercher des données importantes ou de travailler à leur mise en forme.
  
 
-#### *La France est - à ma connaissance - le premier pays à créer cette fonction au niveau d'un Etat.#Quelles seront vos priorités en tant qu’administrateur général des données dans les mois à venir ?*
+#### *La France est - à ma connaissance - le premier pays à créer cette fonction au niveau d'un Etat. Quelles seront vos priorités en tant qu’administrateur général des données dans les mois à venir ?*
 
 Henri Verdier. Nous allons prendre le temps d'élaborer une stratégie d'ensemble cohérente et partagée. Car nous avons affaire là à une double innovation : non seulement la fonction d’administrateur général des données est extrêmement récente, mais la France est de plus - à ma connaissance - le premier pays à créer cette fonction au niveau d'un Etat ; elle existait jusque-là dans quelques centaines d'entreprises, essentiellement aux Etats-Unis, et dans quelques dizaines de grandes villes, américaines également.
 
