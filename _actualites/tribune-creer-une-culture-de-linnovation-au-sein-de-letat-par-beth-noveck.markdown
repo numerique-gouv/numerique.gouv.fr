@@ -99,7 +99,7 @@ Prenons également pour exemple la participation massive (quasi virale) dans le 
 
 Qu'avons-nous fait – et qu'ont fait les autres – pour créer cette culture de conversation qui peut permettre à l'Etat et à ses institutions de bénéficier de l'expertise, des idées, de l'expérience et des talents de ceux qui sont « hors des murs », qui peut permettre aux employés de la fonction publique et aux citoyens de participer ensemble avec leur savoir-faire et leur talent à l'élaboration de solutions aux problèmes complexes de notre société ?
 
-J'ai personnellement observé 7 étapes essentielles pour l'institutionnalisation d'un gouvernement ouvert et innovant.
+### J'ai personnellement observé 7 étapes essentielles pour l'institutionnalisation d'un gouvernement ouvert et innovant.
 
 #### 1.Vision
 
