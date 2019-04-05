@@ -83,3 +83,18 @@ Il n'est donc pas surprenant qu'il y ait eu un manque d'appétit à innover.
 
 *Notre plus précieuse ressource est un citoyen éclairé. »*
 
+A ce jour, il n'y a toujours pas eu de vraie transformation dans la relation entre l'Etat et le citoyen. **Malgré les avancées technologiques, gouverner reste le pré-carré de professionnels qui travaillent dans l'ombre.**
+
+La consultation publique est certes une pratique courante, mais effectuée a posteriori, comme une façon de peaufiner un plan déjà décidé ou de le vendre aux citoyens, afin de faciliter son adoption.
+
+D'une certaine façon, la Maison Blanche est comme une boulangère qui laisse le passant gourmand regarder par la vitrine sans jamais le laisser rentrer et lui offrir de viennoiserie. Les citoyens n'ont aucune influence sur les processus de décision. Les agences et l'Etat ne bénéficient aucunement de leur participation.
+
+Il est évident aujourd'hui que notre plus précieuse ressource est un citoyen éclairé. Chacun a son domaine d’expertise ; et beaucoup seraient heureux de pouvoir participer à la vie démocratique, si on leur en offrait l’opportunité.
+
+L'Etat n'a pas toutes les réponses. En dépit du mécontentement à l'égard de l'Etat – il suffit de regarder les sondages auprès des jeunes –, nos institutions publiques ne sont pas conçues – d'un point de vue légal, technique ou culturel – pour bénéficier de l'expertise des citoyens.
+
+En parallèle, des équipes de bénévoles ont cartographié le monde sur OpenStreetMap depuis 2004.  En 2013, plus d'un million de participants avaient cartographié 78 millions de bâtiments, et 33 millions de km de route.
+
+Prenons également pour exemple la participation massive (quasi virale) dans le domaine de la science, plus connue sous le nom de « citizen science ». Dans les années 1960, le People’s Science Movement mettait en avant une science accessible à tous. Le phénomène de « citizen science » profite des avancées en matière de nouvelles technologies pour faire des citoyens les nouveaux acteurs et créateurs scientifiques.
+
+Qu'avons-nous fait – et qu'ont fait les autres – pour créer cette culture de conversation qui peut permettre à l'Etat et à ses institutions de bénéficier de l'expertise, des idées, de l'expérience et des talents de ceux qui sont « hors des murs », qui peut permettre aux employés de la fonction publique et aux citoyens de participer ensemble avec leur savoir-faire et leur talent à l'élaboration de solutions aux problèmes complexes de notre société ?
