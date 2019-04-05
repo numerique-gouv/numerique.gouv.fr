@@ -1,6 +1,6 @@
 ---
 title: 'Données ouvertes : la France, 3e au classement mondial Open Data Index'
-date: 2019-04-05 15:39:00 +02:00
+date: 2014-12-09 15:39:00 +01:00
 categories:
 - Article
 tags:
@@ -19,7 +19,7 @@ une-ou-diaporama:
 
 De sa 16e place en 2013, **la France passe cette année en 3e position mondiale de l’Open Data Index**, derrière le Royaume-Uni et le Danemark. Piloté par l’organisation internationale [Open Knowledge Foundation](https://okfn.org/){:target="_blank"}, **ce classement évalue chaque année la disponibilité et l’accessibilité des données publiques dans une centaine de pays**, de façon indépendante et collaborative. 10 grands domaines sont passés en revue, dont les dépenses publiques, les résultats des élections, les horaires des transports et les niveaux de pollution.
 
-**[L’Open Knowledge Foundation] France a salué « les avancées de notre pays, avec l’ouverture de jeux de données essentiels, comme les codes postaux et les données de la loi ».**
+**[L’Open Knowledge Foundation](https://fr.okfn.org/){:target="_blank"} France a salué « les avancées de notre pays, avec l’ouverture de jeux de données essentiels, comme les codes postaux et les données de la loi ».**
 
 <figure class='image-right' style='width: 100%;'><img src="/uploads/classement_opendataindex.png"/></figure>
 {: .text-center}
