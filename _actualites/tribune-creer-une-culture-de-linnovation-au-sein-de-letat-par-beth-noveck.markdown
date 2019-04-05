@@ -123,16 +123,16 @@ Si nous voulons que les données ouvertes se traduisent en innovation dans notre
 Et les plateformes sont bien sur la clé pour consulter les citoyens.
  
 
-#### Action et communauté
+#### 4.Action et communauté
 
-Injecter des talents est vital, principalement dans le domaine des nouvelles technologies, et surtout s'ils viennent de l'autre côté du pare-feu.
+**Injecter des talents est vital, principalement dans le domaine des nouvelles technologies**, et surtout s'ils viennent de l'autre côté du pare-feu.
 
 Mais il faut également encourager et cultiver des communautés et des groupes d'agitateurs/innovateurs en quête de changement.
 
 Attention, il ne s'agit pas des mêmes communautés que celles qui ont longtemps milité pour la transparence et la responsabilité de l'Etat. Ces nouvelles communautés contiennent de nouveaux éléments et de nouvelles voix qui comprennent l'importance d'une démarche collaborative avec l'Etat et ont soif de changement.
  
 
-#### Formation
+#### 5.Formation
 
 La formation et l'enseignement sont essentiels pour cette culture d'innovation. Des rencontres comme celle-ci sont cruciales.
 
