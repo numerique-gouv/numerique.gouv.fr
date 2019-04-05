@@ -64,3 +64,7 @@ Concrètement, quels sont les impacts des projets lauréats ? Ils sont multiples
 CityZen Map, est une application gratuite web/mobile d’animation territoriale qui permet aux collectivités locales de **communiquer et d’échanger facilement avec les citoyens autour des projets d’aménagement** (immobilier, infrastructures, aménagement, etc.). CityZen Map **recense et géolocalise les projets d’aménagement et d’équipements**, issus des appels d'offres publics, et génère automatiquement et gratuitement une page dédiée pour chaque projet. La collectivité locale peut aussi créer des projets ou évènements de son choix.
 
 **L’avis du jury :** *« Pour départager les trois projets, nous avons regardé l’aspect humain, l’utilisation de l’open data et l’impact sur la société. Le projet lauréat, CityZenMap, met en avant l’utilisation à 360 degrés des outils à disposition : open data, machine learning, et collaboration avec les territoires impliqués. Nous pensons que ce projet a un vrai potentiel économique. »*
+
+### Coup de cœur du jury
+
+[RdvPasseport.fr](http://www.rdvpasseport.fr/){: target="_blank"}, par Laëtitia Henry
