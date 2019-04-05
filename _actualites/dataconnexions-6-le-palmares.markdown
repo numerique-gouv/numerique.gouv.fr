@@ -25,8 +25,10 @@ C’est cet impact qui était au cœur de la 6e édition du concours Dataconnexi
 
 <figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/sans-titre2-29db12.png"/></figure> Les 14 finalistes, sélectionnés pour la plupart par les votes du public sur data.gouv.fr, sont venus présenter leur projet devant le jury composé de personnalités de l’écosystème numérique et présidé par Paul Duan (photo, au micro), fondateur de Bayes Impact.
 
-« Les projets que nous avons découverts sont des produits complets au service de l'humain, s’est-il réjoui. Ils utilisent les données publiques comme un moyen et non pas comme une fin en soi. »
+*« Les projets que nous avons découverts sont des produits complets au service de l'humain, s’est-il réjoui. Ils utilisent les données publiques comme un moyen et non pas comme une fin en soi. »*
 
-Concrètement, quels sont les impacts des projets lauréats ? Ils sont multiples : une plateforme collaborative permet d’analyser collectivement les décisions de justice ; un service en ligne géolocalise des « anges-gardiens » prêts à venir en aide aux plus démunis ; un outil rend accessibles des sets de données géographiques complets et réutilisables librement ; une application mobile facilite les échanges entre citoyens et collectivités autour de projets d’aménagement ; et enfin un moteur de recherche permet de trouver un rendez-vous pour sa demande de passeport au créneau qui convient.
+Concrètement, quels sont les impacts des projets lauréats ? Ils sont multiples : une plateforme collaborative permet **d’analyser collectivement les décisions de justice ; un service en ligne géolocalise des « anges-gardiens » prêts à venir en aide aux plus démunis ; un outil rend accessibles des sets de données géographiques complets et réutilisables librement ; une application mobile facilite les échanges entre citoyens et collectivités autour de projets d’aménagement ; et enfin un moteur de recherche permet de trouver un rendez-vous pour sa demande de passeport au créneau qui convient.**
 
-« Le concours Dataconnexions montre que l'open data a une incidence sur la vie quotidienne de tous », note ainsi Laure Lucchesi, cheffe de la mission Etalab.
+*« Le concours Dataconnexions montre que l'open data a une incidence sur la vie quotidienne de tous », note ainsi Laure Lucchesi, cheffe de la mission Etalab.*
+
+* Lire aussi [L’open data nourrit la participation citoyenne et vice-versa](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/open-data-nourrit-la-participation-citoyenne){: target="_blank"}
