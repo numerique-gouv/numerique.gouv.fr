@@ -55,3 +55,9 @@ Concrètement, quels sont les impacts des projets lauréats ? Ils sont multiples
 
 **L’avis du jury :** *« Quelques qualificatifs qui ont marqué le choix du lauréat : vertigineux, belle promesse, potentiel de grande ampleur, incite à l’activisme, à pousser la dimension collaborative et la capacité à partager du temps, à retourner les codes de l’ubérisation pour la mettre au service de l’humain. »*
 
+### Catégorie Impact économique et scientifique
+
+*Projets qui renforcent l’efficacité, la visibilité et la mise en réseau des administrations, des collectivités et des communautés territoriales*
+
+[CityZen Map](https://www.cityzenmap.com/){: target="_blank"}, par Frédéric Oliveau
+
