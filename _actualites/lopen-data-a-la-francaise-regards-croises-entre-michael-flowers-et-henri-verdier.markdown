@@ -2,6 +2,7 @@
 title: 'L’open data à la française : regards croisés entre Michael Flowers et Henri
   Verdier'
 date: 2015-07-22 14:41:00 +02:00
+published: false
 categories:
 - Article
 tags:
