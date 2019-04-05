@@ -67,3 +67,18 @@ Du coup, nous avons dû mettre en place un partenariat avec une autre agence pou
 
 A ce stade, la Maison Blanche avait un DSI, mais pas de directeur de la technologie. Personne à qui parler de stratégies internet pour rendre l’administration ouverte dans sa façon de fonctionner et d’accomplir ses missions de service public, comme la réduction des coûts de l'assurance maladie, l'amélioration de l'accès à l'éducation, la création d'emploi, l'efficacité et la productivité de l'Etat.
 
+**Publier de l'information ne traduit pas forcément une volonté réelle d'inviter dans le débat de nouvelles idées ou de nouvelles voix. »**
+
+A cette époque - et même après, malheureusement - **nos leaders politiques invoquaient bien souvent la « sécurité nationale » pour justifier l'interdiction de sites web ou de l'utilisation d'outils pour aider les services de l'Etat à communiquer et écouter les citoyens.**
+
+L'administration Bush avait pour habitude de dissimuler au grand public certains indicateurs économiques clés, les menaces terroristes, etc. Jamais elle ne prit la peine de faire participer les citoyens.
+
+**L'administration Obama a fait mieux, de ce point de vue-là, en ouvrant son mode de fonctionnement,** à l'exception des sujets liés à la sécurité nationale. **Elle a par exemple publié la liste des visites à la Maison Blanche ou organisé des chats vidéo avec ministres et hauts fonctionnaires, au cours desquels le public était invité à poser des questions.**
+
+Mais publier de l'information ne traduit pas forcément une volonté réelle d'inviter dans le débat de nouvelles idées ou de nouvelles voix.
+
+A cela, il faut ajouter un manque culturel et historique d'expérience dans ce domaine, deux conflits armés (Irak et Afghanistan), un mécontentement grandissant dû aux malversations de Wall Street, des renflouements aux frais du contribuable, et une économie en chute libre.
+
+Il n'est donc pas surprenant qu'il y ait eu un manque d'appétit à innover.
+
+
