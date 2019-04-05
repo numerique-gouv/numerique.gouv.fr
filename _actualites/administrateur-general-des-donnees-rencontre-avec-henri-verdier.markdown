@@ -1,6 +1,7 @@
 ---
 title: 'Administrateur général des données : rencontre avec Henri Verdier'
 date: 2014-09-24 16:03:00 +02:00
+published: false
 categories:
 - Article
 tags:
