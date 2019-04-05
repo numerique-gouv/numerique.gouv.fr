@@ -10,9 +10,9 @@ chapeau-text: |-
   ](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029463482)
 ---
 
-Vous venez d’être nommé administrateur général des données (AGD). En quoi consistent vos missions ?
+### Vous venez d’être nommé administrateur général des données (AGD). En quoi consistent vos missions ?
 
-Henri Verdier. La mission première de l’administrateur général des données vise à bâtir progressivement une véritable gouvernance de la donnée au sein de l'Etat. Chaque service produit une masse croissante de données, et il n’a pas toujours été facile d’assurer leur homogénéité, leur bonne circulation, et leur pleine utilisation dans les différentes missions de service public. Je pense par exemple à la difficulté de faire bénéficier les collectivités locales des données produites par les services déconcentrés, qui ne leur parviennent que tardivement et après agrégation.
+**Henri Verdier.** La mission première de l’administrateur général des données vise à bâtir progressivement une véritable gouvernance de la donnée au sein de l'Etat. Chaque service produit une masse croissante de données, et il n’a pas toujours été facile d’assurer leur homogénéité, leur bonne circulation, et leur pleine utilisation dans les différentes missions de service public. Je pense par exemple à la difficulté de faire bénéficier les collectivités locales des données produites par les services déconcentrés, qui ne leur parviennent que tardivement et après agrégation.
 
 La mission de l'administrateur général des données conduira donc à améliorer - en coopération avec la DISIC et les administrations - les données que nous produisons, leurs formats et leur interopérabilité, avec pour objectifs d’en faciliter l’agrégation, la circulation au sein de l’administration, l'exploitation et la réutilisation notamment par les chercheurs ou les entreprises. Certaines de ces données ont par ailleurs vocation à être publiées en open data, c’est-à-dire en données ouvertes.
 
@@ -21,7 +21,7 @@ Son rôle consiste également à stimuler l'appropriation par l'Etat des méthod
  
 
 
-La fonction d'administrateur général des données permet de tirer tout le potentiel du SGMAP, en associant différentes dimensions de la transformation numérique de l'Etat.
+#### *La fonction d'administrateur général des données permet de tirer tout le potentiel du SGMAP, en associant différentes dimensions de la transformation numérique de l'Etat.*
 
  
 
