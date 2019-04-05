@@ -2,7 +2,6 @@
 title: 'Ouverture des données de transport : rencontre avec Francis Jutand et Henri
   Verdier'
 date: 2015-05-26 14:38:00 +02:00
-published: false
 categories:
 - Article
 tags:
