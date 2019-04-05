@@ -85,7 +85,7 @@ Il n'est donc pas surprenant qu'il y ait eu un manque d'appétit à innover.
 
 A ce jour, il n'y a toujours pas eu de vraie transformation dans la relation entre l'Etat et le citoyen. **Malgré les avancées technologiques, gouverner reste le pré-carré de professionnels qui travaillent dans l'ombre.**
 
-La consultation publique est certes une pratique courante, mais effectuée a posteriori, comme une façon de peaufiner un plan déjà décidé ou de le vendre aux citoyens, afin de faciliter son adoption.
+**La consultation publique est certes une pratique courante, mais effectuée a posteriori,** comme une façon de peaufiner un plan déjà décidé ou de le vendre aux citoyens, afin de faciliter son adoption.
 
 D'une certaine façon, la Maison Blanche est comme une boulangère qui laisse le passant gourmand regarder par la vitrine sans jamais le laisser rentrer et lui offrir de viennoiserie. Les citoyens n'ont aucune influence sur les processus de décision. Les agences et l'Etat ne bénéficient aucunement de leur participation.
 
