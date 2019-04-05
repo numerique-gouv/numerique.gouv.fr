@@ -44,6 +44,6 @@ Calendeev  est un agenda personnalisé qui propose en temps réel les meilleures
 
 ### Prix Professionnel :  Le veilleur.fr
 
-Le-veilleur.fr simplifie l’accès à la commande publique pour les entreprises, en rendant les opportunités commerciales visibles et accessibles à tous. www.le-veilleur.fr
+Le-veilleur.fr simplifie l’accès à la commande publique pour les entreprises, en rendant les opportunités commerciales visibles et accessibles à tous.[ www.le-veilleur.fr](http://www.le-veilleur.fr/){: target="_blank"}
 
 Au cours de cette cérémonie clôturée par Fleur Pellerin, ministre déléguée chargée des PME, de l’innovation et de l’économie numérique, le gouvernement met en avant les innovations liées à l’open data. Etalab, mission chargée de l’ouverture des données publiques au sein du Secrétariat général pour la modernisation de l’action publique organise les concours Dataconnexion et récompense ainsi les créateurs de projets et partage avec eux les ambitions de l’open data.
