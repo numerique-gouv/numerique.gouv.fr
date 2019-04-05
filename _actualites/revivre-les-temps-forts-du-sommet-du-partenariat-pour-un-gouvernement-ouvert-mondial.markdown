@@ -1,7 +1,7 @@
 ---
 title: Revivre les temps forts du sommet du Partenariat pour un gouvernement ouvert
   mondial
-date: 2015-03-04 09:57:00 +01:00
+date: 2015-11-04 09:57:00 +01:00
 published: false
 categories:
 - Article
