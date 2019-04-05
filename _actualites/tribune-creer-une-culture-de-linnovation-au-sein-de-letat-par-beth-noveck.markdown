@@ -140,7 +140,7 @@ Annonces, politiques et plateformes viennent du haut. Même les programmes de ty
 
 The Inter American Development Bank offre un programme de formation où des membres du gouvernement de Mexico peuvent regarder des vidéos qui traitent d'innovation. La Banque Mondiale vient de lancer, sur la plateforme Coursera, une classe sur l'engagement citoyen.
 
-Mais l'innovation arrive aussi par le bas, en connectant entre eux des innovateurs et des réformistes, pour qu'ils s'entraident et s'apprennent les uns les autres. L'innovation devient alors contagieuse.
+**Mais l'innovation arrive aussi par le bas, en connectant entre eux des innovateurs et des réformistes, pour qu'ils s'entraident et s'apprennent les uns les autres. L'innovation devient alors contagieuse.**
 
 Le Bureau du Cabinet au Royaume-Uni a tenu une « Foire de l'innovation » l'été dernier pour encourager les employés du service public à partager leurs innovations dans un espace réel. La Maison Blanche fait la même chose en ligne avec son Innovation Gallery.
 
