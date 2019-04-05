@@ -1,7 +1,12 @@
 ---
 title: 'Concours Dataconnexions#4 : le palmarès des lauréats'
 date: 2013-12-05 12:00:00 +01:00
-published: false
+categories:
+- Article
+tags:
+- dataconnexions
+- Open data
+- startup
 chapeau-text: 'Le concours Dataconnexions#4, qui s''est tenu le 4 décembre dernier
   en présence de Fleur Pellerin, ministère déléguée en charge de l''économie numérique,
   a mis à l’honneur les acteurs de l’open data et désigné huit lauréats. Objectif
