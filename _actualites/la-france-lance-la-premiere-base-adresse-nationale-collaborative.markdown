@@ -35,28 +35,30 @@ Enfin, la BAN offre aux entreprises le téléchargement gratuit de fichiers adre
 {: .auteur.citation}
  
 
-L’adresse, un bien commun qui correspond à la logique d’ouverture et de réutilisation des données publiques françaises
+### L’adresse, un bien commun qui correspond à la logique d’ouverture et de réutilisation des données publiques françaises
 
 Riche de 25 millions d’adresses, cette base doit recenser rapidement l’intégralité des adresses sur le territoire français et gérer les 200 à 300 000 adresses créées chaque année. Elle a été  conçue dans un esprit de bien commun favorisant ainsi la contribution des citoyens, des entreprises et des communes afin de l’enrichir et de l’utiliser dans un souci de partage et d’amélioration.
 
 
-La mise à disposition des données adresses nationales sous plusieurs licences (…) est une grande avancée pour l'opendata français et une première pierre vers une infrastructure de données essentielles (…) pour passer librement du monde des données non géographiques à celui des données géographiques ce qui bénéficiera à de très nombreux usages.
-– Christian Quest, Président d’OpenStreetMap France
-
- 
+>La mise à disposition des données adresses nationales sous plusieurs licences (…) est une grande avancée pour l'opendata français et une première pierre vers une infrastructure de données essentielles (…) pour passer librement du monde des données non géographiques à celui des données géographiques ce qui bénéficiera à de très nombreux usages.
+{: .citation}
+>Christian Quest, Président d’OpenStreetMap France
+{: .auteur.citation}
 
 adresse.data.gouv.fr est  diffusé sous un régime de double licence. Une licence avec partage à l’identique -pouvant être la licence développée par La Poste et l’IGN, ou la licence ODbL d’OpenStreetMap France-, ou bien une licence payante pour les clients traditionnels de l’adresse qui ne souhaitent pas entrer dans l’esprit de contribution. Pour ces derniers, les versions millésimées payantes de l'IGN et de La Poste, régulièrement actualisées, continuent d’offrir la garantie de données qualifiantes associées à des adresses, la confidentialité et la sécurité juridique.
 
  
 
-Une collaboration entre pouvoirs publics, acteurs publics et société civile
+### Une collaboration entre pouvoirs publics, acteurs publics et société civile
 
 Etalab, l’IGN, Le Groupe La Poste et l’association OpenStreetMap France sont donc les quatre fondateurs de cette démarche collaborative, et contribuent ainsi à la modernisation de l’action publique gouvernementale et territoriale en matière d’open data.
 
 
-Après data.gouv.fr, c’est une nouvelle forme de collaboration entre l’État et la société civile (…) une nouvelle forme de collaboration décloisonnée entre services de l’État, chacun pouvant contribuer au logiciel BAN en open source.
-– Henri Verdier, directeur d’Etalab et Administrateur Général des Données (SGMAP)
+>Après data.gouv.fr, c’est une nouvelle forme de collaboration entre l’État et la société civile (…) une nouvelle forme de collaboration décloisonnée entre services de l’État, chacun pouvant contribuer au logiciel BAN en open source.
+{: .citation}
 
- 
+>Henri Verdier, directeur d’Etalab et Administrateur Général des Données (SGMAP)
+{: .auteur.citation}
 
-Ce projet met ainsi en avant la volonté de l’administration de créer et d’entretenir de grands biens communs collaboratifs, ici les adresses, de les construire avec des systèmes d’informations en open source, au service du dynamisme économique, de l’efficacité du service public et de l’autonomie des citoyens. Cet état d’esprit est celui du gouvernement ouvert, dont le plan d’action national est en cours de finalisation.
+
+Ce projet met ainsi en avant la volonté de l’administration de créer et d’entretenir de grands biens communs collaboratifs, ici les adresses, de les construire avec des systèmes d’informations en open source, au service du dynamisme économique, de l’efficacité du service public et de l’autonomie des citoyens. Cet état d’esprit est celui du gouvernement ouvert, dont [le plan d’action national ](https://www.modernisation.gouv.fr/home/plan-daction-ogp-un-dialogue-qui-doit-aboutir-a-des-propositions-concretes-activables-et-mesurables){: target="_blank"} est en cours de finalisation.
