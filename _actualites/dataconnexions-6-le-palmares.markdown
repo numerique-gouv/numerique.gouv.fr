@@ -3,6 +3,9 @@ title: 'Dataconnexions 6 : le palmarès !'
 date: 2016-02-03 10:19:00 +01:00
 categories:
 - Article
+tags:
+- dataconnexions
+- Open data
 chapeau-text: 49 projets candidats, 14 finalistes… et 5 lauréats. Le verdict est tombé
   hier mardi 2 février 2016, lors de la grande finale organisée à Toulouse, en présence
   de Clotilde Valter, secrétaire d’État à la Réforme de l’État et à la Simplification.
@@ -20,7 +23,7 @@ C’est cet impact qui était au cœur de la 6e édition du concours Dataconnexi
 
 ### « Une incidence sur la vie quotidienne de tous »
 
-<figure class='image-right' style='width: 40%; margin-left: 10px;'><img src="/uploads/sans-titre2-29db12.png"/></figure> Les 14 finalistes, sélectionnés pour la plupart par les votes du public sur data.gouv.fr, sont venus présenter leur projet devant le jury composé de personnalités de l’écosystème numérique et présidé par Paul Duan (photo, au micro), fondateur de Bayes Impact.
+<figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/sans-titre2-29db12.png"/></figure> Les 14 finalistes, sélectionnés pour la plupart par les votes du public sur data.gouv.fr, sont venus présenter leur projet devant le jury composé de personnalités de l’écosystème numérique et présidé par Paul Duan (photo, au micro), fondateur de Bayes Impact.
 
 « Les projets que nous avons découverts sont des produits complets au service de l'humain, s’est-il réjoui. Ils utilisent les données publiques comme un moyen et non pas comme une fin en soi. »
 
