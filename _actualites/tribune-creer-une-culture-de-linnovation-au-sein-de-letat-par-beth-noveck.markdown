@@ -101,14 +101,14 @@ Qu'avons-nous fait – et qu'ont fait les autres – pour créer cette culture d
 
 J'ai personnellement observé 7 étapes essentielles pour l'institutionnalisation d'un gouvernement ouvert et innovant.
 
-#### Vision
+#### 1.Vision
 
-La création de l'Open Government Partnership et l'acte symbolique de 60 pays ratifiant la charte pour un gouvernement ouvert est une réelle source d'inspiration.
+**La création de l'Open Government Partnership et l'acte symbolique de 60 pays ratifiant la charte pour un gouvernement ouvert est une réelle source d'inspiration.**
 
 L'annonce par les leaders du G8 d'un engagement de transparence sur le sujet des propriétaires véritables des entreprises – qui ils possèdent et qui les possèdent – s'est traduite par des engagements concrets de la part du Royaume-Uni, de la France et du Danemark. La création d'un poste officiel pour la « simplification de l'Etat » envoie un message fort sur l'importance de l'innovation. Pas plus tard qu'hier, le secrétaire d'Etat au Royaume-Uni annonçait que tous les citoyens britanniques auraient un dossier médical électronique d'ici à deux ans. Les détails d’application ne sont pas encore connus, mais un objectif ambitieux permet d'articuler une telle politique avec clarté.
  
 
-#### Politiques et lois
+#### 2.Politiques et lois
 
 Mais cela inclut aussi des politiques qui favorisent l'innovation, telles que des lois qui facilitent l'embauche de talents externes pour des missions de service public ou l'envoi de serviteurs de l'État dans le monde universitaire ou dans le secteur privé. Cela inclut aussi de nouvelles règles sur les appels d'offres notamment dans le domaine des nouvelles technologies : rendre simple l'incorporation de logiciels libres,  la rédaction d'appels d'offres pour la meilleure solution à un problème au lieu de la solution moins chère ou la solution la plus à la mode.
  
