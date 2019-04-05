@@ -1,6 +1,11 @@
 ---
 title: 'Données de santé : des éclairages sur notre consommation de soins'
 date: 2019-04-05 14:28:00 +02:00
+categories:
+- Article
+tags:
+- données ouvertes
+- Open data
 chapeau-text: Le 26 janvier 2015 s’est tenu, dans les locaux de La Paillasse, à Paris,
   le premier hackathon dédié aux données de santé, organisé par l’Assurance maladie
   et Etalab, la mission du SGMAP en charge de l’ouverture des données publiques. Inédits
