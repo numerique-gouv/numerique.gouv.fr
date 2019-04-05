@@ -2,6 +2,12 @@
 title: 'Ouverture des données de transport : rencontre avec Francis Jutand et Henri
   Verdier'
 date: 2019-04-05 14:38:00 +02:00
+categories:
+- Article
+tags:
+- Ouverture des données publiques
+- Rapport
+- Transport
 is_une: "© Image de Une : madpixblue ; portrait de F. Jutand : Institut Mines-Télécom"
 une-ou-diaporama:
 - image: "/uploads/jutand_une_0.jpg"
