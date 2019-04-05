@@ -2,6 +2,7 @@
 title: 'Concours Dataconnexions#4 : entretien avec Frédéric Mazzella, président du
   jury'
 date: 2013-11-27 12:17:00 +01:00
+published: false
 categories:
 - Article
 tags:
