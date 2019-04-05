@@ -1,6 +1,12 @@
 ---
 title: 'Concours Dataconnexions : interview d''Eduardo Larrain, lauréat'
 date: 2013-05-17 14:21:00 +02:00
+categories:
+- Article
+tags:
+- dataconnexions
+- Open data
+- concours
 chapeau-text: 'Eduardo Larrain est directeur général et co-fondateur de Kel Quartier.
   En février dernier, il a reçu le prix grand public lors du concours dataconnexions
   #2. Cet entrepreneur a su tirer le meilleur de la réutilisation des données publiques.
