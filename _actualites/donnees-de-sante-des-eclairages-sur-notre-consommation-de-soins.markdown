@@ -29,6 +29,7 @@ Une autre équipe de développeurs a travaillé sur **l’anonymisation des donn
  
 
 
-### Le hackathon ou comment réutiliser des données ouvertes pour produire du service
-
-Un hackathon permet de faire travailler ensemble et de manière collaborative, pendant une ou deux journées, des personnes dotées de compétences techniques (programmateurs, datascientists…) et des experts métiers sur un sujet précis ou autour de ressources particulières. Des hackathons – ou open data camps - sont régulièrement organisés par la mission Etalab de manière à anticiper ou à accompagner l’ouverture de données publiques sur le portail [data.gouv.fr](https://www.data.gouv.fr/fr/){: target="_blank"} . Des données sont mises à la disposition des participants afin qu’ils produisent des visualisations de données (« dataviz »), des analyses et des applications. A la suite d’un hackathon, les données sont généralement ouvertes à tous, publiées sur data.gouv.fr.
+>### Le hackathon ou comment réutiliser des données ouvertes pour produire du service
+>
+>Un hackathon permet de faire travailler ensemble et de manière collaborative, pendant une ou deux journées, des personnes dotées de compétences techniques (programmateurs, datascientists…) et des experts métiers sur un sujet précis ou autour de ressources particulières. Des hackathons – ou open data camps - sont régulièrement organisés par la mission Etalab de manière à anticiper ou à accompagner l’ouverture de données publiques sur le portail [data.gouv.fr](https://www.data.gouv.fr/fr/){: target="_blank"} . Des données sont mises à la disposition des participants afin qu’ils produisent des visualisations de données (« dataviz »), des analyses et des applications. A la suite d’un hackathon, les données sont généralement ouvertes à tous, publiées sur data.gouv.fr.
+{: .encadre}
