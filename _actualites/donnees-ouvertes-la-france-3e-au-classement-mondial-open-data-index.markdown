@@ -34,3 +34,4 @@ Autre progrès notable de l’année 2014 : **la mise à disposition, en novembr
 > [Voir tous les résultats de l'Open Data Index](https://index.okfn.org/){:target="_blank"}
 {: .lien-important}
 > [Découvrir les résultats de la France en détails](https://index.okfn.org/place/france/){:target="_blank"}
+{: .lien-important}
