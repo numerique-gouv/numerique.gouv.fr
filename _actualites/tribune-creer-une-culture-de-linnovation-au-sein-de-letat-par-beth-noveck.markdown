@@ -25,3 +25,10 @@ La campagne présidentielle d'Obama en 2007-2008 avait invité ses supporters **
 **Pour la première fois de l'histoire, après l'élection et avant l'investiture, nous avons mis en place un site web pour l'équipe de transition, avec un accent sur la transparence, dans le but d'informer le peuple américain et de le faire participer au processus de préparation des 100 premiers jours de la nouvelle administration.** Nous encouragions les gens à nous envoyer leurs questions, leurs idées.
 
 *Des experts en sécurité un peu trop zélés décidèrent de bloquer tous nos sites de médias sociaux. »*
+
+Après le 21 janvier 2009, tout cela s'est arrêté. Nous avions beau être en haut du Mont Blanc, nous avions encore Windows 2000 comme système d'exploitation. Les lacunes technologiques étaient seulement l’une des raisons.
+
+**Des experts en sécurité un peu trop zélés décidèrent de bloquer tous nos sites de médias sociaux.** Le Président Obama dut exercer son autorité de « leader du monde libre » afin d'être autorisé à garder son « BlackBerry ». **Les directives sur la restriction des « cadeaux », en principe destinée à prévenir des faits de corruption, nous empêchaient d'utiliser par exemple des logiciels libres.** L'accès à des outils de gestion de nos médias sociaux, compte tenu des impératifs d'accès et de sécurité pour les serveurs de la Maison Blanche, allait prendre douze mois, voire plus.
+
+Les préoccupations liées au Premier Amendement (liberté de parole, de pensée, de religion, etc.) dans le cadre de la modération des médias sociaux (et les problèmes de communication si nous laissions passer des commentaires sur les OVNIs ou l'extrait d'acte de naissance du Président) auraient pu nous stopper net.
+ 
