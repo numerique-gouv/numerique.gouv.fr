@@ -24,7 +24,7 @@ Ce concours permet aux porteurs de projets innovants d’échanger et de collabo
 
 Le portail d’aide à l’apprentissage de la conduite. VroomVroom.fr vous aide à trouver la meilleure auto-école près de chez vous et à mieux vous préparer au permis grâce à de nombreux services innovants.
 
-Contact : [Edouard Schlumberger](e.schlum@gmail.com)
+Contact : Edouard Schlumberger, [e.schlum@gmail.com](e.schlum@gmail.com)
 
 * Mention Spéciale du Jury pour le projet CAP 133
 
