@@ -23,9 +23,7 @@ acces:
 - type: 'Métro :'
   lignes:
   - nom: 'Ligne 13 : Saint-François-Xavier ; Ligne 8 : Ecole Militaire ; Ligne 10
-      : Ségur ; Ligne 6 : Cambronne
-
-'
+      : Ségur ; Ligne 6 : Cambronne'
 - type: 'Bus :'
   lignes:
   - nom: Lignes 28 et 80
