@@ -6,37 +6,37 @@
   link: app.js
   for: all
 
-#- name: vendors_app
-#  link: vendors~app.js
-#  for: all
-#
-#- name: vendors_foundation
-#  link: vendors~foundation.js
-#  for: all
+- name: vendors_app
+  link: vendors~app.js
+  for: all
+
+- name: vendors_foundation
+  link: vendors~foundation.js
+  for: all
 
 - name: foundation
   link: foundation.js
   for: all
 
-#- name: vendors_actualites_app_espacePresse_evenements_rechercher
-#  link: vendors~actualites~app~espace-presse~evenements~rechercher.js
-#  for: all
+- name: vendors_actualites_app_espacePresse_evenements_rechercher
+  link: vendors~actualites~app~espace-presse~evenements~rechercher.js
+  for: all
 
-#- name: vendors_actualites_espacePresse_evenements_rechercher
-#  link: vendors~actualites~espace-presse~evenements~rechercher.js
-#  for:
-#    - Rechercher
-#    - Actualités
-#    - Espace presse
-#    - Agenda
+- name: vendors_actualites_espacePresse_evenements_rechercher
+  link: vendors~actualites~espace-presse~evenements~rechercher.js
+  for:
+    - Rechercher
+    - Actualités
+    - Espace presse
+    - Agenda
 
-#- name: actualites_espacePresse_evenements_rechercher
-#  link: actualites~espace-presse~evenements~rechercher.js
-#  for:
-#    - Rechercher
-#    - Actualités
-#    - Espace presse
-#    - Agenda
+- name: actualites_espacePresse_evenements_rechercher
+  link: actualites~espace-presse~evenements~rechercher.js
+  for:
+    - Rechercher
+    - Actualités
+    - Espace presse
+    - Agenda
 
 - name: rechercher
   link: rechercher.js
@@ -58,28 +58,28 @@
   link: mapper.js
   for: all
 
-#- name: vendors_mapper
-#  link: vendors~mapper.js
-#  for: all
+- name: vendors_mapper
+  link: vendors~mapper.js
+  for: all
 
 - name: miseEnProd
   link: mise-en-prod.js
   for: all
 
-#- name: VendorMiseEnProd
-#  link: vendors~mise-en-prod.js
-#  for: all
-#
-#- name: vendors_actualites_espace_presse_evenements_mise_en_prod_rechercher
-#  link: vendors~actualites~espace-presse~evenements~mise-en-prod~rechercher.js
-#  for: all
+- name: VendorMiseEnProd
+  link: vendors~mise-en-prod.js
+  for: all
+
+- name: vendors_actualites_espace_presse_evenements_mise_en_prod_rechercher
+  link: vendors~actualites~espace-presse~evenements~mise-en-prod~rechercher.js
+  for: all
 
 - name: contact
   link: contact.js
   for: Nous contacter
 
-#- name: vendorsContact
-#  link: vendors~contact.js
-#  for: Nous contacter
+- name: vendorsContact
+  link: vendors~contact.js
+  for: Nous contacter
 
 
