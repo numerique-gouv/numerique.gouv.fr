@@ -115,7 +115,7 @@ jobs:
       - run: mkdir ~/.ssh
       - run:
           name: add keys
-          command: echo $REMOTE_DEV_HOSTKEY >> ~/.ssh/known_hosts && echo $REMOTE_PREPROD_HOSTKEY >> ~/.ssh/known_hosts
+          command: echo $REMOTE_DEV_HOSTKEY >> ~/.ssh/known_hosts && echo $REMOTE_PREPROD_HOSTKEY >> ~/.ssh/known_hosts && echo $REMOTE_PROD_HOSTKEY >> ~/.ssh/known_hosts
       - run: sudo apt-get update && sudo apt-get install rsync
       - deploy:
           name: Deploy on OVH
