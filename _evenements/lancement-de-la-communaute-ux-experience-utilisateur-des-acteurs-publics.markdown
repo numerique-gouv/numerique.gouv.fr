@@ -22,7 +22,8 @@ adresse: 20 avenue de Ségur - 75007 Paris
 acces:
 - type: 'Métro : '
   lignes:
-  - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur, Ligne 13 : Saint-François-Xavier'
+  - nom: 'Ligne 13 : Saint-François-Xavier ; Ligne 8 : Ecole Militaire ; Ligne 10
+      : Ségur ; Ligne 6 : Cambronne'
 champs_informations:
 - intitule: 'Inscription par mail '
   mailto: 'christine.balian@modernisation.gouv.fr   '
