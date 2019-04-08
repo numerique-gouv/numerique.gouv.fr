@@ -4,6 +4,7 @@ title: 'Expert UX : tout savoir avant de candidater pour devenir designer d’in
 date: 2019-04-08 11:12:00 +02:00
 categories:
 - Réunion d'information
+- Atelier
 tags:
 - Designers d'Intérêt Général
 - UX
@@ -21,11 +22,10 @@ adresse: 20 avenue de Ségur - 75007 Paris
 acces:
 - type: 'Métro :'
   lignes:
-  - nom: |-
-      Ligne 10 : Ségur
-      Ligne 6 : Cambronne
-      Ligne 8 : Ecole Militaire
-      Ligne 13 : Saint-François-Xavier
+  - nom: 'Ligne 13 : Saint-François-Xavier ; Ligne 8 : Ecole Militaire ; Ligne 10
+      : Ségur ; Ligne 6 : Cambronne
+
+'
 - type: 'Bus :'
   lignes:
   - nom: Lignes 28 et 80
