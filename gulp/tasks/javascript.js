@@ -9,7 +9,6 @@ const webpack = require('webpack');
 const JAVASCRIPT = require('../util/loadConfig').JAVASCRIPT;
 const merge = require('webpack-merge');
 const log = require('fancy-log');
-const newer = require('gulp-newer');
 
 const PRODUCTION = !!(yargs.argv.production);
 const PREPRODUCTION = !!(yargs.argv.preproduction);
@@ -89,7 +88,7 @@ gulp.task('javascript', function (cb) {
     log('webpack in undefined mode')
   }
   pump([
-    gulp.src(JAVASCRIPT.src).pipe(newer({dest: 'assets/js/',ext:'.js'})),
+    gulp.src(JAVASCRIPT.src),
     named(),
     $.sourcemaps.init(),
     webpackStream(webpackConfig, webpack),
@@ -99,3 +98,4 @@ gulp.task('javascript', function (cb) {
   ],
     cb);
 });
+
