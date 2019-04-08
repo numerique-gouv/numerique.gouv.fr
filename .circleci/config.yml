@@ -113,9 +113,9 @@ jobs:
           fingerprints:
             - "31:8a:07:d1:56:88:18:c4:4e:91:5f:13:0c:58:b6:cc"
       - run: mkdir ~/.ssh
-      - run:
-          name: add keys
-          command: echo $REMOTE_DEV_HOSTKEY >> ~/.ssh/known_hosts && echo $REMOTE_PREPROD_HOSTKEY >> ~/.ssh/known_hosts && echo $REMOTE_PROD_HOSTKEY >> ~/.ssh/known_hosts
+#      - run:
+#          name: add keys
+#          command: echo $REMOTE_DEV_HOSTKEY >> ~/.ssh/known_hosts && echo $REMOTE_PREPROD_HOSTKEY >> ~/.ssh/known_hosts && echo $REMOTE_PROD_HOSTKEY >> ~/.ssh/known_hosts
       - run: sudo apt-get update && sudo apt-get install rsync
       - deploy:
           name: Deploy on OVH
