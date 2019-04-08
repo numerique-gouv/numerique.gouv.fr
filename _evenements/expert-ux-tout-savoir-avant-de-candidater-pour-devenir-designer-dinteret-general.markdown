@@ -45,7 +45,7 @@ Pour en savoir plus sur le programme et découvrir les projets auxquels vous pou
 * 9h : accueil café
 
 * 9h30 - 10h30 : **lancement de l’appel à candidature des Designers d’intérêt général**. 
- Des ministères viendront pitcher leurs projets et vous en saurez plus sur les possibilités de rejoindre l’Etat durant 6 à 12 mois pour améliorer les UX des services publics en ligne.
+ Des ministères viendront pitcher leurs projets et vous en saurez plus sur les possibilités de rejoindre l’Etat durant 6 à 12 mois pour améliorer l'UX des services publics en ligne.
 
 * 11h - 12h : **Atelier** : Vous aider à préparer et déposer votre candidature pour être Designer d'intérêt général et répondre à toutes vos questions !
 
