@@ -1,5 +1,5 @@
 ---
-title: "[Saison 2] Intelligence artificielle : administrations, proposez vos projets
+title: "\\[Saison 2] Intelligence artificielle : administrations, proposez vos projets
   d’expérimentations !"
 date: 2019-04-02 08:07:00 +02:00
 categories:
