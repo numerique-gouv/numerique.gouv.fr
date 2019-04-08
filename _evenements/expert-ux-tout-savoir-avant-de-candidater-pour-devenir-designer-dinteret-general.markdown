@@ -15,6 +15,26 @@ chapeau-text: L’Etat recrute bientôt des designers UX dans le cadre d’un to
   du 11 avril.
 une-ou-diaporama:
 - image: "/uploads/20190403_Article_lancement_DIG.jpg"
+event_start_date: 2019-04-11 00:00:00 +02:00
+lieu: Bâtiment Ségur-Fontenoy
+adresse: 20 avenue de Ségur - 75007 Paris
+acces:
+- type: 'Métro :'
+  lignes:
+  - nom: |-
+      Ligne 10 : Ségur
+      Ligne 6 : Cambronne
+      Ligne 8 : Ecole Militaire
+      Ligne 13 : Saint-François-Xavier
+- type: 'Bus :'
+  lignes:
+  - nom: Lignes 28 et 80
+champs_informations:
+- intitule: Horaires
+  contenu: 9h-12h
+- intitule: Modalités
+  contenu: Inscription gratuite
+  lien: https://framaforms.org/inscription-pour-la-3eme-matinee-de-la-communaute-ux-1553189996
 ---
 
 Vous êtes designer UX et souhaiteriez mettre votre expertise au service de l’intérêt général ? Saisissez l’opportunité et rejoignez le programme Designers d’Intérêt Général ! Vous serez recruté au sein de l’Etat **pendant 6 à 12 mois, en CDD,** afin de mener un **projet précis de conception ou d’amélioration de l’expérience utilisateur **d’un service public numérique, pour un **salaire mensuel de 3500 euros net**.
@@ -31,4 +51,4 @@ Pour en savoir plus sur le programme et découvrir les projets auxquels vous pou
 
 11h - 12h : **Atelier** : Vous aider à préparer et déposer votre candidature pour être Designer d'intérêt général et répondre à toutes vos questions !
 
-*Cet événement prend place dans le cadre d’une rencontre de [la communauté UX- services en ligne](https://www.numerique.gouv.fr/actualites/rejoignez-la-communaute-ux-services-publics-en-ligne/)*. *Trois autres ateliers seront proposés à la communauté.*
+*Cet événement prend place dans le cadre de la 3e rencontre de [la communauté UX- services en ligne](https://www.numerique.gouv.fr/actualites/rejoignez-la-communaute-ux-services-publics-en-ligne/), pour qui trois autres ateliers seront proposés.*
