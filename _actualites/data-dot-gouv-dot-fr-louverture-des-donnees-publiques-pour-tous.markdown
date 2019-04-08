@@ -21,4 +21,4 @@ chapeau-text: 'Plus lisible, plus simple, plus efficace, le nouveau data.gouv.fr
 Le portail, mis en oeuvre par Etalab, la mission chargée de l’ouverture et du partage des données publiques du SGMAP (Secrétariat général pour la modernisation de l’action publique), prend une dimension résolument sociale, en accueillant les données et les contributions de la société civile.
 
 Les données rendues publiques sur data.gouv.fr sont ouvertes selon les termes de la loi CADA (1978) c’est-à-dire qu’elles sont détenues ou produites par l’administration à l’occasion de sa mission de service public. Elles ne contiennent ni informations à caractère personnel ni ne relèvent de la sécurité nationale et autres secrets légaux : statistiques, médicaux, fiscaux...
-[Consulter le dossier de presse][dossier-presse-datagouvfr-a0bfc8.pdf](/uploads/dossier-presse-datagouvfr-a0bfc8.pdf)
+* [Consulter le dossier de presse](/uploads/dossier-presse-datagouvfr-a0bfc8.pdf)

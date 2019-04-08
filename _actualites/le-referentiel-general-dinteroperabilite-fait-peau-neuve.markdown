@@ -1,6 +1,6 @@
 ---
 title: Le référentiel général d'interopérabilité fait peau neuve
-date: 2019-03-22 15:26:00 +01:00
+date: 2016-04-27 15:26:00 +02:00
 published: false
 categories:
 - Article

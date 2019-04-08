@@ -1,6 +1,6 @@
 ---
 title: "[Vidéo] Un open data camp, c’est quoi ?"
-date: 2019-04-01 15:39:00 +02:00
+date: 2015-04-29 15:39:00 +02:00
 published: false
 categories:
 - Vidéo

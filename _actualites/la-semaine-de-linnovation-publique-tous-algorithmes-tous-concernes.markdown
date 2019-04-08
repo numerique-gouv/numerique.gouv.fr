@@ -1,6 +1,6 @@
 ---
 title: 'La Semaine de l''innovation publique : Tous algorithmés, tous concernés !'
-date: 2019-03-25 15:58:00 +01:00
+date: 2016-11-24 15:58:00 +01:00
 published: false
 categories:
 - Article

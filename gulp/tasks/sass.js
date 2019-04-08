@@ -6,10 +6,11 @@ const sass          = require('gulp-sass');
 const COMPATIBILITY = require('../util/loadConfig').COMPATIBILITY;
 const SASS          = require('../util/loadConfig').SASS;
 const PRODUCTION = !!(yargs.argv.production);
-
+const newer = require('gulp-newer');
 
 gulp.task('sass', function() {
   return gulp.src(SASS.src)
+    .pipe(newer({dest: 'assets/',ext:'.scss'}))
     .pipe($.sourcemaps.init())
     .pipe($.sass({
       includePaths: SASS.include
@@ -26,4 +27,3 @@ gulp.task('sass', function() {
     .pipe(gulp.dest(SASS.dest.buildDir))
     .pipe(browser.reload({ stream: true }));
 });
-

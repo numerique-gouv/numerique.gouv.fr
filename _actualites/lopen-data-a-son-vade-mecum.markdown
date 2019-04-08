@@ -1,6 +1,6 @@
 ---
 title: L'open data a son vade-mecum
-date: 2019-04-02 17:20:00 +02:00
+date: 2013-09-17 17:20:00 +02:00
 published: false
 categories:
 - Article
@@ -25,4 +25,4 @@ Administrée par la mission Etalab, placée au sein du Secrétariat Général po
 
 La diffusion à tous les ministères du [« Vade-mecum sur l’ouverture et le partage des données publiques »](https://www.gouvernement.fr/presse/vade-mecum-sur-l-ouverture-et-le-partage-des-donnees-publiques){:target="_blank"} permettra de faire de tous les agents concernés les acteurs d’une politique ambitieuse au service de la modernisation de l’action publique, de la démocratie et du dynamisme économique.
 
-[Vade-mecum sur l'ouverture et le partage des données publiques](https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/vademecum-ouverture.pdf){:target="_blank"}(Pdf -29,5 Ko)
+[Vade-mecum sur l'ouverture et le partage des données publiques](https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/vademecum-ouverture.pdf){:target="_blank"} (Pdf -29,5 Ko)

@@ -1,7 +1,7 @@
 ---
 title: 'Gouvernement ouvert : la France met l''accent sur le numérique et la contribution
   citoyenne'
-date: 2019-03-25 11:43:00 +01:00
+date: 2016-04-19 11:43:00 +02:00
 published: false
 categories:
 - Article

@@ -1,6 +1,6 @@
 ---
 title: Une charte sur l'ouverture des données publiques signée au G8
-date: 2019-04-02 17:27:00 +02:00
+date: 2013-06-19 17:27:00 +02:00
 published: false
 categories:
 - Article
@@ -26,3 +26,4 @@ La France a par ailleurs contribué à dresser la cartographie des métadonnées
 Le [communiqué des chefs d'Etat](Le communiqué des chefs d'Etat (paragraphes 46 à 50) affirme que "cette Charte contribuera à accroître la quantité de données publiques ouvertes dans les secteurs essentiels de l'action publique, comme la santé, l'environnement ou les transports ; à soutenir le débat démocratique ; et à faire en sorte de faciliter la réutilisation des données publiées". Pour les Etats membres du G8, "l'ouverture des données publiques est une ressource essentielle à l'âge de l’information."){:target="_blank"} (paragraphes 46 à 50) affirme que "cette Charte contribuera à accroître la quantité de données publiques ouvertes dans les secteurs essentiels de l'action publique, comme la santé, l'environnement ou les transports ; à soutenir le débat démocratique ; et à faire en sorte de faciliter la réutilisation des données publiées". Pour les Etats membres du G8, "l'ouverture des données publiques est une ressource essentielle à l'âge de l’information."
 
 [Charte sur l'ouverture des données publiques](https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/charte-g8-ouverture-donnees-publiques-fr.pdf){:target="_blank"}(Pdf - 2,71 Mo)
+{: .text-center}
