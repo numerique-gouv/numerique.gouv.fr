@@ -7,9 +7,9 @@ categories:
 tags:
 - Entrepreneur d'Intérêt Général
 - Etalab
-chapeau-text: 'Qui sont les entrepreneurs d''intérêt général (EIG) et comment œuvrent-ils
-  à la transformation numérique de l''État ? On vous présente la promotion #EIG2019
-  en vidéo !'
+chapeau-text: Qui sont les entrepreneurs d'intérêt général (EIG) et comment œuvrent-ils
+  à la transformation numérique de l'État ? On vous présente la promotion EIG 2019
+  en vidéo !
 une-ou-diaporama:
 - image: "/uploads/assembl%C3%A9e-nationale1-1024x683.jpg"
 auteur: Etalab
