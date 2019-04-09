@@ -35,7 +35,7 @@ champs_informations:
   lien: https://framaforms.org/inscription-pour-la-3eme-matinee-de-la-communaute-ux-1553189996
 ---
 
-Vous êtes designer UX et souhaiteriez mettre votre expertise au service de l’intérêt général ? Saisissez l’opportunité et rejoignez le programme Designers d’Intérêt Général ! Vous serez recruté au sein de l’Etat **pendant 6 à 12 mois, en CDD,** afin de mener un **projet précis de conception ou d’amélioration de l’expérience utilisateur** d’un service public numérique, pour un **salaire mensuel de 3500 euros net**.
+Vous êtes designer UX et souhaiteriez mettre votre expertise au service de l’intérêt général ? Saisissez l’opportunité et rejoignez le programme Designers d’Intérêt Général ! Vous serez recruté au sein de l’État **pendant 6 à 12 mois, en CDD,** afin de mener un **projet précis de conception ou d’amélioration de l’expérience utilisateur** d’un service public numérique, pour un **salaire mensuel de 3500 euros net**.
 
 Pour en savoir plus sur le programme et découvrir les projets auxquels vous pourrez postuler dès le jour-même, participez à notre événement du 11 avril, à Paris (7e).
 
