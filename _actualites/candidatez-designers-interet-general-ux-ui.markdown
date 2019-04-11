@@ -16,9 +16,9 @@ une-ou-diaporama:
 
 Vous êtes designer UX ou UI et souhaiteriez mettre votre expertise au service de l’intérêt général ? Saisissez l’opportunité et rejoignez le [programme Designers d’Intérêt Général](https://www.numerique.gouv.fr/actualites/lancement-designers-interet-general-administrations-proposez-vos-projets-ux-design/), lancé par la direction interministérielle du numérique (DINSIC) !
 
-Votre mission : **concevoir ou améliorer l’expérience utilisateur d’un service public en ligne**. Au-delà, vous participerez aussi à diffuser au sein des administrations les approches centrées sur l’utilisateur et à les faire monter en compétence en la matière.
+Votre mission : **concevoir ou améliorer l’expérience utilisateur d’un service public en ligne.** Au-delà, vous participerez aussi à diffuser au sein des administrations les approches centrées sur l’utilisateur et à les faire monter en compétence en la matière.
 
-Vous serez recruté au sein de l’État **pendant 6 à 12 mois à partir de** **juin 2019**,** en CDD,** pour un **salaire mensuel de 3500 euros net**. Selon le même principe que les [entrepreneurs d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/ "entrepreneurs d’intérêt général"){:target="_blank"}, programme cousin qui fait ses preuves depuis déjà 3 promotions, vous serez **accompagné en interne par deux mentors** au sein de votre administration d’accueil et coaché par les équipes de la DINSIC tout au long de votre mission.
+Vous serez recruté au sein de l’État **pendant 6 à 12 mois à partir de juin 2019, en CDD,** pour un **salaire mensuel de 3500 euros net**. Selon le même principe que les [entrepreneurs d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/ "entrepreneurs d’intérêt général"){:target="_blank"}, programme cousin qui fait ses preuves depuis déjà 3 promotions, vous serez **accompagné en interne par deux mentors** au sein de votre administration d’accueil et coaché par les équipes de la DINSIC tout au long de votre mission.
 
 ## 17 projets proposés, 21 profils recherchés
 
