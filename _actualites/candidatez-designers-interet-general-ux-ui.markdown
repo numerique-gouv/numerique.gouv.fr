@@ -151,4 +151,4 @@ Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de 
 
 [Rejoignez la communauté UX–services publics en ligne !](https://www.numerique.gouv.fr/actualites/rejoignez-la-communaute-ux-services-publics-en-ligne/ "Rejoignez la communauté UX–services publics en ligne !")
 
-[[Vidéo]Programme Entrepreneurs d’Intérêt Général : à la rencontre de 32 innovateurs publics](https://www.etalab.gouv.fr/videoprogramme-entrepreneurs-dinteret-general-a-la-rencontre-de-32-innovateurs-publics "Vidéo - Programme Entrepreneurs d’Intérêt Général : à la rencontre de 32 innovateurs publics - Nouvelle fenêtre"){:target="_blank"}
+[[Vidéo] Programme Entrepreneurs d’Intérêt Général : à la rencontre de 32 innovateurs publics](https://www.etalab.gouv.fr/videoprogramme-entrepreneurs-dinteret-general-a-la-rencontre-de-32-innovateurs-publics "Vidéo - Programme Entrepreneurs d’Intérêt Général : à la rencontre de 32 innovateurs publics - Nouvelle fenêtre"){:target="_blank"}
