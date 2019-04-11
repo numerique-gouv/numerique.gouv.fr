@@ -126,7 +126,7 @@ Les lauréats seront choisis selon les critères suivants :
 <br>
 Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de designers d’intérêt général intégrera l’administration à partir de juin 2019.
 
-> [Consultez le règlement de l'appel à candidatures](/uploads/designers-interet-general_reglement-candidature.pdf)
+> [Consultez le règlement de l'appel à candidatures (pdf - 571 ko)](/uploads/designers-interet-general_reglement-candidature.pdf)
 {: .lien-important}
 
 > [**Candidatez jusqu’au 10 mai**](https://www.demarches-simplifiees.fr/commencer/candidature_designer_interet_general)
