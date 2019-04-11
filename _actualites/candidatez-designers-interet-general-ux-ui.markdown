@@ -91,7 +91,7 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 <br>*Services du Premier ministre*
 <br>6 mois
 
-**Faire découvrir les espaces naturels grâce à une application de géolocalisation**
+* **Faire découvrir les espaces naturels grâce à une application de géolocalisation**
 <br>*Inventaire national du patrimoine naturel (INPN)*
 <br>*Ministère de la Transition écologique et solidaire*
 <br>6 mois
