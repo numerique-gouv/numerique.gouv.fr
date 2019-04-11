@@ -24,7 +24,7 @@ Vous serez recruté au sein de l’État **pendant 6 à 12 mois à partir de** *
 
 Les administrations ont concocté pour vous 17 projets sur lesquels votre expertise sera cruciale, pour 21 postes au total :
 
-* **Améliorer la communication et la collaboration des 1,2 million d’agents de l’Éducation nationale grâce à des outils numériques
+* **Améliorer la communication et la collaboration des 1,2 million d’agents de l’Éducation nationale grâce à des outils numériques**
 <br>*Ministère de l’Éducation nationale et de la Jeunesse*
 <br>12 mois
 
@@ -39,84 +39,72 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 <br>12 mois
 
 * **Faciliter l’accès des services en ligne de Pôle emploi pour les demandeurs d’emploi, en particulier pour ceux en situation de handicap**
-
-*Pôle emploi*
-
-*Ministère des Solidarités et de la Santé*
-
-12 mois
+<br>*Pôle emploi*
+<br>*Ministère des Solidarités et de la Santé*
+<br>12 mois
 
 * **Bâtir une identité numérique de l'État simple, ergonomique et sécurisée**
-
-*Mission identité numérique*
-
-*Ministère de l’Intérieur*
-
-12 mois
+<br>*Mission identité numérique*
+<br>*Ministère de l’Intérieur*
+<br>12 mois
 
 * **Améliorer l’information environnementale du citoyen grâce à la refonte des dispositifs de diffusion en mode collaboratif**
-
-*Commissariat général au développement durable (CGDD)*
-
-*Ministère de la Transition écologique et solidaire*
-
-12 et 6 mois
+<br>*Commissariat général au développement durable (CGDD)*
+<br>*Ministère de la Transition écologique et solidaire*
+<br>12 et 6 mois
 
 * **Favoriser le recrutement à la gendarmerie nationale en réimaginant l’expérience en ligne des candidats**
-
-*Direction du personnel militaire de la gendarmerie nationale (DPMGN)*
-
-*Ministère de l’Intérieur*
-
-9 mois
+<br>*Direction du personnel militaire de la gendarmerie nationale (DPMGN)*
+<br>*Ministère de l’Intérieur*
+<br>9 mois
 
 * **Faciliter l’accès aux achats du ministère des Armées par la refonte de son service en ligne**
-*Ministère des Armées*
-8 mois
+<br>*Ministère des Armées*
+<br>8 mois
 
 * **Faciliter la prise de rendez-vous en préfecture en créant un outil en ligne**
-*Ministère de l’Intérieur*
-7 mois
+<br>*Ministère de l’Intérieur*
+<br>7 mois
 
 * **Simplifier le parcours des familles dont les enfants sont en situation de handicap**
-*Académie de Clermont-Ferrand*
-*Ministère de l’Éducation nationale et de la Jeunesse*
-6 mois
+<br>*Académie de Clermont-Ferrand*
+<br>*Ministère de l’Éducation nationale et de la Jeunesse*
+<br>6 mois
 
 * **Favoriser la résorption des bidonvilles grâce à une plateforme de partage d’informations (Action bidonvilles)**
-*Délégation interministérielle à l’hébergement et l’accès au logement (Dihal)*
-*Ministère de la Transition écologique et solidaire*
-6 mois
+<br>*Délégation interministérielle à l’hébergement et l’accès au logement (Dihal)*
+<br>*Ministère de la Transition écologique et solidaire*
+<br>6 mois
 
 * **Aider à sauver des vies grâce à une application liée aux numéros d’urgence 18 et 112 (NexSIS)**
-*Agence du numérique de la sécurité civile (ANSC)*
-*Ministère de l’Intérieur*
-6 mois
+<br>*Agence du numérique de la sécurité civile (ANSC)*
+<br>*Ministère de l’Intérieur*
+<br>6 mois
 
 * **Améliorer la compréhension des remboursements de l’assurance maladie sur le compte ameli**
-*Caisse nationale d’assurance maladie (Cnam)*
-*Ministère des Solidarités et de la Santé*
-6 mois
+<br>*Caisse nationale d’assurance maladie (Cnam)*
+<br>*Ministère des Solidarités et de la Santé*
+<br>6 mois
 
 * **Contribuer à la réussite de FranceConnect en imaginant le parcours utilisateur le plus léger possible**
-*Direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC)*
-*Services du Premier ministre*
-6 mois
+<br>*Direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC)*
+<br>*Services du Premier ministre*
+<br>6 mois
 
 **Faire découvrir les espaces naturels grâce à une application de géolocalisation**
-*Inventaire national du patrimoine naturel (INPN)*
-*Ministère de la Transition écologique et solidaire*
-6 mois
+<br>*Inventaire national du patrimoine naturel (INPN)*
+<br>*Ministère de la Transition écologique et solidaire*
+<br>6 mois
 
 * **Mieux informer les citoyens sur les risques de crues via le site vigies.crues.gouv.fr (VigicrUX)**
-*Service central d’hydrométéorologie et d’appui à la prévision des inondations (SCHAPI)*
-*Ministère de la Transition écologique et solidaire*
-6 mois
+<br>*Service central d’hydrométéorologie et d’appui à la prévision des inondations (SCHAPI)*
+<br>*Ministère de la Transition écologique et solidaire*
+<br>6 mois
 
 * **Apporter des réponses en ligne aux agents de l’Éducation nationale (Proxi RH)**
-*Académie de Lyon*
-*Ministère de l’Éducation nationale et de la Jeunesse*
-6 mois
+<br>*Académie de Lyon*
+<br>*Ministère de l’Éducation nationale et de la Jeunesse*
+<br>6 mois
 
 
 ## Les critères de sélection
