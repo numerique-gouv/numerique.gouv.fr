@@ -1,5 +1,5 @@
 ---
-title: 'Designers UX et UI : candidatez pour devenir designers d’intérêt general !'
+title: 'Experts UX et UI : candidatez pour devenir designers d’intérêt général !'
 date: 2019-04-10 12:01:00 +02:00
 published: false
 ---
