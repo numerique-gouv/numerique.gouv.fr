@@ -22,11 +22,12 @@ Vous serez recruté au sein de l’État **pendant 6 à 12 mois à partir de jui
 
 ## 17 projets proposés, 21 profils recherchés
 
-Les administrations ont concocté pour vous 17 projets sur lesquels votre expertise sera cruciale, pour 21 postes au total (sauf mention contraire, la mission a lieu en région :
+Les administrations ont concocté pour vous 17 projets sur lesquels votre expertise sera cruciale, pour 21 postes au total (sauf mention contraire, la mission a lieu en région parisienne) :
 
 * **Améliorer la communication et la collaboration des 1,2 million d’agents de l’Éducation nationale grâce à des outils numériques**
 <br>*Ministère de l’Éducation nationale et de la Jeunesse*
-<br>Durée : 12 mois  - Lieu : Paris
+<br><figure class='image-left' style='width: 3%;'><img src="/uploads/calendar.png" alt="Durée"/></figure>
+Durée : 12 mois  - Lieu : Paris
 <br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_outils-numeriques-education-nationale.pdf)
 
 * **Faciliter le regroupement familial des étrangers en France grâce à un service en ligne**
