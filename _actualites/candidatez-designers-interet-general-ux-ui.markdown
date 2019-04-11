@@ -136,7 +136,7 @@ Les lauréats seront choisis selon les critères suivants :
 
 Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de designers d’intérêt général intégrera l’administration à partir de juin 2019.
 
-> [designers-interet-general_reglement-candidature.pdf](/uploads/designers-interet-general_reglement-candidature.pdf)
+> [Consultez le règlement de l'appel à candidatures](/uploads/designers-interet-general_reglement-candidature.pdf)
 {: .lien-important}
 
 > [**Candidatez jusqu’au 10 mai**](https://www.demarches-simplifiees.fr/commencer/candidature_designer_interet_general)
@@ -144,9 +144,9 @@ Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de 
 
 > ## Calendrier :
 > 
-> * **11 avril – 10 mai 2019 à 17h : **appel à candidatures en ligne et présélection des candidats
+> * **11 avril – 10 mai 2019 à 17h :** appel à candidatures en ligne et présélection des candidats
 > 
-> * **15 mai 2019 : **audition par le jury des candidats présélectionnés
+> * **15 mai 2019 :** audition par le jury des candidats présélectionnés
 > 
 > * **17 mai 2019 :** annonce des lauréats
 > 
@@ -160,5 +160,7 @@ Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de 
 
 <br>
 **Lire aussi :**
+
 [Rejoignez la communauté UX–services publics en ligne !](https://www.numerique.gouv.fr/actualites/rejoignez-la-communaute-ux-services-publics-en-ligne/ "Rejoignez la communauté UX–services publics en ligne !")
+
 [[Vidéo]Programme Entrepreneurs d’Intérêt Général : à la rencontre de 32 innovateurs publics](https://www.etalab.gouv.fr/videoprogramme-entrepreneurs-dinteret-general-a-la-rencontre-de-32-innovateurs-publics "Vidéo - Programme Entrepreneurs d’Intérêt Général : à la rencontre de 32 innovateurs publics - Nouvelle fenêtre"){:target="_blank"}
