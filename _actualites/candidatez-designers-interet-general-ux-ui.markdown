@@ -123,6 +123,7 @@ Les lauréats seront choisis selon les critères suivants :
 
 5. Sens de l’intérêt général.
 
+<br>
 Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de designers d’intérêt général intégrera l’administration à partir de juin 2019.
 
 > [Consultez le règlement de l'appel à candidatures](/uploads/designers-interet-general_reglement-candidature.pdf)
