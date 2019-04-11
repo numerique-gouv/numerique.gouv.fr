@@ -35,7 +35,7 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 <br>Durée : 12 mois
 
 * **Améliorer l’expérience utilisateur des portails de diffusion du Shom (MaritUX)**
-<br>*Service hydrographique et océanographique de la Marine (SHOM)*
+<br>*Service hydrographique et océanographique de la Marine (Shom)*
 <br>*Ministère des Armées*
 <br>Durée : 12 mois
 
@@ -129,7 +129,7 @@ Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de 
 > [Consultez le règlement de l'appel à candidatures (pdf - 571 ko)](/uploads/designers-interet-general_reglement-candidature.pdf)
 {: .lien-important}
 
-> [**Candidatez jusqu’au 10 mai**](https://www.demarches-simplifiees.fr/commencer/candidature_designer_interet_general)
+> [**Candidatez**](https://www.demarches-simplifiees.fr/commencer/candidature_designer_interet_general)
 {: .lien-important}
 
 > ## Calendrier :
