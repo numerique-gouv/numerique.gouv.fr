@@ -28,101 +28,101 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 <br>*Ministère de l’Éducation nationale et de la Jeunesse*
 <br><figure class='image-left' style='width: 50%;' margin='10'><img src="/uploads/calendar.png" alt="Durée"/></figure>
 Durée : 12 mois  -  Lieu : Paris
-<br>[Détails de la mission (pdf - xx ko)]()
+<br>Détails de la mission (pdf - xx ko)
 
 * **Faciliter le regroupement familial des étrangers en France grâce à un service en ligne**
 <br>*Direction de l’information légale et administrative (DILA)*
 <br>*Services du Premier ministre*
 <br>Durée : 12 mois  -  Lieu : Paris
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_regroupement-familial.pdf)]
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_regroupement-familial.pdf)]
 
 * **Améliorer l’expérience utilisateur des portails de diffusion du Shom (MaritUX)**
 <br>*Service hydrographique et océanographique de la Marine (Shom)*
 <br>*Ministère des Armées*
 <br>Durée : 12 mois  -  Lieu : Brest
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_maritUX.pdf)]
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_maritUX.pdf)]
 
 * **Faciliter l’accès des services en ligne de Pôle emploi pour les demandeurs d’emploi, en particulier pour ceux en situation de handicap**
 <br>*Pôle emploi*
 <br>*Ministère des Solidarités et de la Santé*
 <br>Durée : 12 mois  -  Lieu : Paris
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_pole-emploi.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_pole-emploi.pdf)
 
 * **Bâtir une identité numérique de l'État simple, ergonomique et sécurisée**
 <br>*Mission identité numérique*
 <br>*Ministère de l’Intérieur*
 <br>Durée : 12 mois  -  Lieu : Paris
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_identite-numerique.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_identite-numerique.pdf)
 
 * **Améliorer l’information environnementale du citoyen grâce à la refonte des dispositifs de diffusion en mode collaboratif**
 <br>*Commissariat général au développement durable (CGDD)*
 <br>*Ministère de la Transition écologique et solidaire*
 <br>Durée : 12 et 6 mois  -  Lieu : Paris-La Défense et Saint-Mandé
-Détails de la mission (pdf - 80 ko)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_information-environnementale-9bdd4c.pdf)
 
 * **Favoriser le recrutement à la gendarmerie nationale en réimaginant l’expérience en ligne des candidats**
 <br>*Direction du personnel militaire de la gendarmerie nationale (DPMGN)*
 <br>*Ministère de l’Intérieur*
 <br>Durée : 9 mois  -  Lieu : Issy-les-Moulineaux
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_recrutement-gendarmerie-nationale.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_recrutement-gendarmerie-nationale.pdf)
 
 * **Faciliter l’accès aux achats du ministère des Armées par la refonte de son service en ligne**
 <br>*Ministère des Armées*
 <br>Durée : 8 mois  -  Lieu : Paris
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_achats-ministere-armees.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_achats-ministere-armees.pdf)
 
 * **Faciliter la prise de rendez-vous en préfecture en créant un outil en ligne**
 <br>*Ministère de l’Intérieur*
 <br>Durée : 7 mois  -  Lieu : Paris
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_rendez-vous-prefecture.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_rendez-vous-prefecture.pdf)
 
 * **Simplifier le parcours des familles dont les enfants sont en situation de handicap**
 <br>*Académie de Clermont-Ferrand*
 <br>*Ministère de l’Éducation nationale et de la Jeunesse*
 <br>Durée : 6 mois  -  Lieu : Clermont-Ferrand/Paris
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_parcours-familles-handicap.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_parcours-familles-handicap.pdf)
 
 * **Favoriser la résorption des bidonvilles grâce à une plateforme de partage d’informations (Action bidonvilles)**
 <br>*Délégation interministérielle à l’hébergement et l’accès au logement (Dihal)*
 <br>*Ministère de la Transition écologique et solidaire*
 <br>Durée : 6 mois  -  Lieu : Paris-La Défense
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_action-bidonvilles.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_action-bidonvilles.pdf)
 
 * **Aider à sauver des vies grâce à une application liée aux numéros d’urgence 18 et 112 (NexSIS)**
 <br>*Agence du numérique de la sécurité civile (ANSC)*
 <br>*Ministère de l’Intérieur*
 <br>Durée : 6 mois  -  Lieu : Paris
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_nexsis.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_nexsis.pdf)
 
 * **Améliorer la compréhension des remboursements de l’assurance maladie sur le compte ameli**
 <br>*Caisse nationale d’assurance maladie (Cnam)*
 <br>*Ministère des Solidarités et de la Santé*
 <br>Durée : 6 mois  -  Lieu : Paris
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_ameli.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_ameli.pdf)
 
 * **Contribuer à la réussite de FranceConnect en imaginant le parcours utilisateur le plus léger possible**
 <br>*Direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC)*
 <br>*Services du Premier ministre*
 <br>Durée : 6 mois  -  Lieu : Paris
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_franceconnect.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_franceconnect.pdf)
 
 * **Faire découvrir les espaces naturels grâce à une application de géolocalisation**
 <br>*Inventaire national du patrimoine naturel (INPN)*
 <br>*Ministère de la Transition écologique et solidaire*
 <br>Durée : 6 mois  -  Lieu : Paris
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_espaces-naturels.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_espaces-naturels.pdf)
 
 * **Mieux informer les citoyens sur les risques de crues via le site vigies.crues.gouv.fr (VigicrUX)**
 <br>*Service central d’hydrométéorologie et d’appui à la prévision des inondations (SCHAPI)*
 <br>*Ministère de la Transition écologique et solidaire*
 <br>Durée : 6 mois  -  Lieu : Toulouse
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_vigicrux.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_vigicrux.pdf)
 
 * **Apporter des réponses en ligne aux agents de l’Éducation nationale (Proxi RH)**
 <br>*Académie de Lyon*
 <br>*Ministère de l’Éducation nationale et de la Jeunesse*
 <br>Durée : 6 mois  -  Lieu : Lyon
-[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_proxi-rh.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_proxi-rh.pdf)
 
 ## Les critères de sélection
 
