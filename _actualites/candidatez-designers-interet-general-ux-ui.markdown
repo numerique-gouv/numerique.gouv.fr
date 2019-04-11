@@ -26,22 +26,22 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 
 * **Améliorer la communication et la collaboration des 1,2 million d’agents de l’Éducation nationale grâce à des outils numériques**
 <br>*Ministère de l’Éducation nationale et de la Jeunesse*
-<br>12 mois
+<br>Durée de la mission : 12 mois
 
 * **Faciliter le regroupement familial des étrangers en France grâce à un service en ligne**
 <br>*Direction de l’information légale et administrative (DILA)*
 <br>*Services du Premier ministre*
-<br>12 mois
+<br>Durée de la mission : 12 mois
 
 * **Améliorer l’expérience utilisateur des portails de diffusion du Shom (MaritUX)**
 <br>*Service hydrographique et océanographique de la Marine (SHOM)*
 <br>*Ministère des Armées*
-<br>12 mois
+<br>Durée de la mission : 12 mois
 
 * **Faciliter l’accès des services en ligne de Pôle emploi pour les demandeurs d’emploi, en particulier pour ceux en situation de handicap**
 <br>*Pôle emploi*
 <br>*Ministère des Solidarités et de la Santé*
-<br>12 mois
+<br>Durée de la mission : 12 mois
 
 * **Bâtir une identité numérique de l'État simple, ergonomique et sécurisée**
 <br>*Mission identité numérique*
