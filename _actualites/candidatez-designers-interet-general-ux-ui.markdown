@@ -26,7 +26,8 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 
 * **Améliorer la communication et la collaboration des 1,2 million d’agents de l’Éducation nationale grâce à des outils numériques**
 <br>*Ministère de l’Éducation nationale et de la Jeunesse*
-<br><figure class='image-left' style='width: 50%;' margin='10'><img src="/uploads/calendar.png" alt="Durée"/></figure>Durée : 12 mois  -  Lieu : Paris
+<br><figure class='image-left' style='width: 50%;' margin='10'><img src="/uploads/calendar.png" alt="Durée"/></figure>
+Durée : 12 mois  -  Lieu : Paris
 <br>[Détails de la mission (pdf - xx ko)](/uploads/designers-interet-general_reglement-candidature.pdf)
 
 * **Faciliter le regroupement familial des étrangers en France grâce à un service en ligne**
