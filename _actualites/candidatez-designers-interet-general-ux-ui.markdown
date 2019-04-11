@@ -129,7 +129,7 @@ Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de 
 > [Consultez le règlement de l'appel à candidatures (pdf - 571 ko)](/uploads/designers-interet-general_reglement-candidature.pdf)
 {: .lien-important}
 
-> [**Candidatez**](https://www.demarches-simplifiees.fr/commencer/candidature_designer_interet_general)
+> [**Candidatez !**](https://www.demarches-simplifiees.fr/commencer/candidature_designer_interet_general)
 {: .lien-important}
 
 > ## Calendrier :
