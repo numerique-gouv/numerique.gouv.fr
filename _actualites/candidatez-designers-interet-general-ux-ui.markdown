@@ -28,19 +28,19 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 <br>*Ministère de l’Éducation nationale et de la Jeunesse*
 <br><figure class='image-left' style='width: 50%;' margin='10'><img src="/uploads/calendar.png" alt="Durée"/></figure>
 Durée : 12 mois  -  Lieu : Paris
-<br>Détails de la mission (pdf - xx ko)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_outils-numeriques-education-nationale.pdf)
 
 * **Faciliter le regroupement familial des étrangers en France grâce à un service en ligne**
 <br>*Direction de l’information légale et administrative (DILA)*
 <br>*Services du Premier ministre*
 <br>Durée : 12 mois  -  Lieu : Paris
-<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_regroupement-familial.pdf)]
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_regroupement-familial.pdf)
 
 * **Améliorer l’expérience utilisateur des portails de diffusion du Shom (MaritUX)**
 <br>*Service hydrographique et océanographique de la Marine (Shom)*
 <br>*Ministère des Armées*
 <br>Durée : 12 mois  -  Lieu : Brest
-<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_maritUX.pdf)]
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_maritUX.pdf)
 
 * **Faciliter l’accès des services en ligne de Pôle emploi pour les demandeurs d’emploi, en particulier pour ceux en situation de handicap**
 <br>*Pôle emploi*
@@ -58,7 +58,7 @@ Durée : 12 mois  -  Lieu : Paris
 <br>*Commissariat général au développement durable (CGDD)*
 <br>*Ministère de la Transition écologique et solidaire*
 <br>Durée : 12 et 6 mois  -  Lieu : Paris-La Défense et Saint-Mandé
-<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_information-environnementale-9bdd4c.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_information-environnementale.pdf)
 
 * **Favoriser le recrutement à la gendarmerie nationale en réimaginant l’expérience en ligne des candidats**
 <br>*Direction du personnel militaire de la gendarmerie nationale (DPMGN)*
