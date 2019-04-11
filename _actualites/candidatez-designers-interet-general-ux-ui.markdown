@@ -1,6 +1,6 @@
 ---
 title: 'Experts UX et UI : candidatez pour devenir designers d’intérêt général !'
-date: 2019-04-10 12:01:00 +02:00
+date: 2019-04-11 10:01:00 +02:00
 categories:
 - Appel à candidatures
 tags:
