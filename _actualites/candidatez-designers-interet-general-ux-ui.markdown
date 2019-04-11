@@ -140,7 +140,7 @@ Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de 
 > 
 > * **17 mai 2019 :** annonce des lauréats
 > 
-> * **A partir de juin 2019 :** prise de poste des designers d’intérêt général (pour une durée de 6 à 12 mois)
+> * **À partir de juin 2019 :** prise de poste des designers d’intérêt général (pour une durée de 6 à 12 mois)
 > 
 {: .encadre}
 
