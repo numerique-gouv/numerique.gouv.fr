@@ -1,17 +1,152 @@
 ---
 title: 'Experts UX et UI : candidatez pour devenir designers d’intérêt général !'
 date: 2019-04-10 12:01:00 +02:00
-published: false
+categories:
+- Appel à candidatures
+tags:
+- design
+- UX
+- services en ligne
+- qualité des services en ligne
+chapeau-text: L’Etat ouvre ses portes à des experts UX et UI ! 21 profils sont recherchés
+  pour mener à bien des projets d’intérêt général.
+une-ou-diaporama:
+- image: "/uploads/20190403_Article_lancement_DIG.jpg"
 ---
 
+Vous êtes designer UX ou UI et souhaiteriez mettre votre expertise au service de l’intérêt général ? Saisissez l’opportunité et rejoignez le [programme Designers d’Intérêt Général](https://www.numerique.gouv.fr/actualites/lancement-designers-interet-general-administrations-proposez-vos-projets-ux-design/), lancé par la direction interministérielle du numérique (DINSIC) !
 
-> [Consultez le cahier des charges complet]()
-{: .lien-important}
+Votre mission : **concevoir ou améliorer l’expérience utilisateur d’un service public en ligne**. Au-delà, vous participerez aussi à diffuser au sein des administrations les approches centrées sur l’utilisateur et à les faire monter en compétence en la matière.
 
-> [Candidatez](https://www.demarches-simplifiees.fr/commencer/candidature_designer_interet_general "Candidatez - Nouvelle fenêtre"){:target="_blank"}
-{: .lien-important}
+Vous serez recruté au sein de l’État **pendant 6 à 12 mois à partir de** **juin 2019**,** en CDD,** pour un **salaire mensuel de 3500 euros net**. Selon le même principe que les [entrepreneurs d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/ "entrepreneurs d’intérêt général"){:target="_blank"}, programme cousin qui fait ses preuves depuis déjà 3 promotions, vous serez **accompagné en interne par deux mentors** au sein de votre administration d’accueil et coaché par les équipes de la DINSIC tout au long de votre mission.
+
+**17 projets proposés, 21 profils recherchés**
+
+Les administrations ont concocté pour vous 17 projets sur lesquels votre expertise sera cruciale, pour 21 postes au total :
+
+* **Améliorer la communication et la collaboration des 1,2 million d’agents de l’Éducation nationale grâce à des outils numériques
+*Ministère de l’Education nationale et de la Jeunesse*
+12 mois
+
+* **Faciliter le regroupement familial des étrangers en France grâce à un service en ligne**
+*Direction de l’information légale et administrative (DILA)*
+*Services du Premier ministre*
+12 mois
+
+* **Améliorer l’expérience utilisateur des portails de diffusion du Shom (MaritUX)**
+*Service hydrographique et océanographique de la Marine (SHOM)*
+*Ministère des Armées*
+12 mois
+
+* **Faciliter l’accès des services en ligne de Pôle emploi pour les demandeurs d’emploi, en particulier pour ceux en situation de handicap**
+*Pôle emploi*
+*Ministère des Solidarités et de la Santé*\
+12 mois
+
+* **Bâtir une identité numérique de l'Etat simple, ergonomique et sécurisée**
+*Mission identité numérique*
+*Ministère de l’Intérieur*
+12 mois
+
+* **Améliorer l’information environnementale du citoyen grâce à la refonte des dispositifs de diffusion en mode collaboratif**
+*Commissariat général au développement durable (CGDD)*
+*Ministère de la Transition écologique et solidaire*
+12 et 6 mois
+
+* **Favoriser le recrutement à la gendarmerie nationale en réimaginant l’expérience en ligne des candidats**
+*Direction du personnel militaire de la gendarmerie nationale (DPMGN)*
+*Ministère de l’Intérieur*
+9 mois
+
+* **Faciliter l’accès aux achats du ministère des Armées par la refonte de son service en ligne**
+*Ministère des Armées*
+8 mois
+
+* **Faciliter la prise de rendez-vous en préfecture en créant un outil en ligne**
+*Ministère de l’Intérieur*
+7 mois
+
+* **Simplifier le parcours des familles dont les enfants sont en situation de handicap**
+*Académie de Clermont-Ferrand*
+*Ministère de l’Éducation nationale et de la Jeunesse*
+6 mois
+
+* **Favoriser la résorption des bidonvilles grâce à une plateforme de partage d’informations (Action bidonvilles)**
+*Délégation interministérielle à l’hébergement et l’accès au logement (Dihal)*
+*Ministère de la Transition écologique et solidaire*
+6 mois
+
+* **Aider à sauver des vies grâce à une application liée aux numéros d’urgence 18 et 112 (NexSIS)**
+*Agence du numérique de la sécurité civile (ANSC)*
+*Ministère de l’Intérieur*
+6 mois
+
+* **Améliorer la compréhension des remboursements de l’assurance maladie sur le compte ameli**
+*Caisse nationale d’assurance maladie (Cnam)*
+*Ministère des Solidarités et de la Santé*
+6 mois
+
+* **Contribuer à la réussite de FranceConnect en imaginant le parcours utilisateur le plus léger possible**
+*Direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC)*
+*Services du Premier ministre*
+6 mois
+
+**Faire découvrir les espaces naturels grâce à une application de géolocalisation**
+*Inventaire national du patrimoine naturel (INPN)*
+*Ministère de la Transition écologique et solidaire*
+6 mois
+
+* **Mieux informer les citoyens sur les risques de crues via le site vigies.crues.gouv.fr (VigicrUX)**
+*Service central d’hydrométéorologie et d’appui à la prévision des inondations (SCHAPI)*
+*Ministère de la Transition écologique et solidaire*
+6 mois
+
+* **Apporter des réponses en ligne aux agents de l’Éducation nationale (Proxi RH)**
+*Académie de Lyon*
+*Ministère de l’Éducation nationale et de la Jeunesse*
+6 mois
+
+
+##Les critères de sélection
+
+Après présélection par les équipes de la DINSIC en lien avec les futurs mentors, un jury mixte composé notamment d’experts UX issus du privé et du public **auditionnera les candidats le 15 mai prochain**.
+
+Les lauréats seront choisis selon les critères suivants :
+1. Compétences correspondant au profil recherché : design de service, design UX, design UI, etc ;
+
+2. Capacité à s’intégrer dans l’environnement d’une administration publique et interagir avec ses métiers ;
+
+3. Dynamisme, vision, esprit d’initiative, attitude positive, capacité à mener à bien des projets ;
+
+4. Capacité à comprendre le projet, à proposer des orientations stratégiques pour son développement ;
+
+5. Sens de l’intérêt général.
+
+Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de designers d’intérêt général intégrera l’administration à partir de juin 2019.
+
+> Consultez règlement de l’appel à candidature (pdf – 571 ko)
+{. :lien-important}
+
+**> Candidatez jusqu’au 10 mai**
+
+
+> * **Calendrier :**
+> 
+> * **11 avril – 10 mai 2019 à 17h : **appel à candidatures en ligne et présélection des candidats
+> 
+> * **15 mai 2019 : **audition par le jury des candidats présélectionnés
+> 
+> * **17 mai 2019 :** annonce des lauréats
+> 
+> * **A partir de juin 2019 :** prise de poste des designers d’intérêt général (pour une durée de 6 à 12 mois)
+> 
+{. :encadre}
+
+<figure class='image-right' style='width: 20%;' margin-bottom='10' margin-top='3'><img src="/uploads/logo_investirlavenir_rvb.png" alt="Logo Investir l'avenir"/></figure>
+*Imaginé et piloté par la DINSIC, le programme Designers d’Intérêt Général est financé par le fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissements d’avenir (PIA) piloté par le secrétariat général pour l’investissement (SGPI).*
 
 
 <br>
 **Lire aussi :**
-[Rejoignez la communauté UX–services publics en ligne !](https://www.numerique.gouv.fr/actualites/rejoignez-la-communaute-ux-services-publics-en-ligne/ "Rejoignez la communauté UX–services publics en ligne ! - Nouvelle fenêtre"){:target="_blank"}
+[Rejoignez la communauté UX–services publics en ligne !](https://www.numerique.gouv.fr/actualites/rejoignez-la-communaute-ux-services-publics-en-ligne/ "Rejoignez la communauté UX–services publics en ligne !")
+[[Vidéo]Programme Entrepreneurs d’Intérêt Général : à la rencontre de 32 innovateurs publics](https://www.etalab.gouv.fr/videoprogramme-entrepreneurs-dinteret-general-a-la-rencontre-de-32-innovateurs-publics "Vidéo - Programme Entrepreneurs d’Intérêt Général : à la rencontre de 32 innovateurs publics - Nouvelle fenêtre"){:target="_blank"}
