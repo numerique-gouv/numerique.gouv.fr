@@ -160,7 +160,7 @@ Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de 
 > 
 {: .encadre}
 
-<figure class='image-left' style='width: 15%;' margin='10'><img src="/uploads/logo_investirlavenir_rvb.png" alt="Logo Investir l'avenir"/></figure>
+<figure class='image-left' style='width: 5%;'><img src="/uploads/logo_investirlavenir_rvb.png" alt="Logo Investir l'avenir"/></figure>
 *Imaginé et piloté par la DINSIC, le programme Designers d’Intérêt Général est financé par le fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissements d’avenir (PIA) piloté par le secrétariat général pour l’investissement (SGPI).*
 
 
