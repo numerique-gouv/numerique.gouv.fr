@@ -8,7 +8,7 @@ tags:
 - UX
 - services en ligne
 - qualité des services en ligne
-chapeau-text: L’Etat ouvre ses portes à des experts UX et UI ! 21 profils sont recherchés
+chapeau-text: L’État ouvre ses portes à des experts UX et UI ! 21 profils sont recherchés
   pour mener à bien des projets d’intérêt général.
 une-ou-diaporama:
 - image: "/uploads/20190403_Article_lancement_DIG.jpg"
