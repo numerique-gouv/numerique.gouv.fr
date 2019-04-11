@@ -20,42 +20,54 @@ Votre mission : **concevoir ou améliorer l’expérience utilisateur d’un ser
 
 Vous serez recruté au sein de l’État **pendant 6 à 12 mois à partir de** **juin 2019**,** en CDD,** pour un **salaire mensuel de 3500 euros net**. Selon le même principe que les [entrepreneurs d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/ "entrepreneurs d’intérêt général"){:target="_blank"}, programme cousin qui fait ses preuves depuis déjà 3 promotions, vous serez **accompagné en interne par deux mentors** au sein de votre administration d’accueil et coaché par les équipes de la DINSIC tout au long de votre mission.
 
-**17 projets proposés, 21 profils recherchés**
+## 17 projets proposés, 21 profils recherchés
 
 Les administrations ont concocté pour vous 17 projets sur lesquels votre expertise sera cruciale, pour 21 postes au total :
 
 * **Améliorer la communication et la collaboration des 1,2 million d’agents de l’Éducation nationale grâce à des outils numériques
-*Ministère de l’Education nationale et de la Jeunesse*
-12 mois
+<br>*Ministère de l’Éducation nationale et de la Jeunesse*
+<br>12 mois
 
 * **Faciliter le regroupement familial des étrangers en France grâce à un service en ligne**
-*Direction de l’information légale et administrative (DILA)*
-*Services du Premier ministre*
-12 mois
+<br>*Direction de l’information légale et administrative (DILA)*
+<br>*Services du Premier ministre*
+<br>12 mois
 
 * **Améliorer l’expérience utilisateur des portails de diffusion du Shom (MaritUX)**
-*Service hydrographique et océanographique de la Marine (SHOM)*
-*Ministère des Armées*
-12 mois
+<br>*Service hydrographique et océanographique de la Marine (SHOM)*
+<br>*Ministère des Armées*
+<br>12 mois
 
 * **Faciliter l’accès des services en ligne de Pôle emploi pour les demandeurs d’emploi, en particulier pour ceux en situation de handicap**
+
 *Pôle emploi*
-*Ministère des Solidarités et de la Santé*\
+
+*Ministère des Solidarités et de la Santé*
+
 12 mois
 
-* **Bâtir une identité numérique de l'Etat simple, ergonomique et sécurisée**
+* **Bâtir une identité numérique de l'État simple, ergonomique et sécurisée**
+
 *Mission identité numérique*
+
 *Ministère de l’Intérieur*
+
 12 mois
 
 * **Améliorer l’information environnementale du citoyen grâce à la refonte des dispositifs de diffusion en mode collaboratif**
+
 *Commissariat général au développement durable (CGDD)*
+
 *Ministère de la Transition écologique et solidaire*
+
 12 et 6 mois
 
 * **Favoriser le recrutement à la gendarmerie nationale en réimaginant l’expérience en ligne des candidats**
+
 *Direction du personnel militaire de la gendarmerie nationale (DPMGN)*
+
 *Ministère de l’Intérieur*
+
 9 mois
 
 * **Faciliter l’accès aux achats du ministère des Armées par la refonte de son service en ligne**
@@ -107,7 +119,7 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 6 mois
 
 
-##Les critères de sélection
+## Les critères de sélection
 
 Après présélection par les équipes de la DINSIC en lien avec les futurs mentors, un jury mixte composé notamment d’experts UX issus du privé et du public **auditionnera les candidats le 15 mai prochain**.
 
@@ -124,13 +136,13 @@ Les lauréats seront choisis selon les critères suivants :
 
 Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de designers d’intérêt général intégrera l’administration à partir de juin 2019.
 
-> Consultez règlement de l’appel à candidature (pdf – 571 ko)
-{. :lien-important}
+> [designers-interet-general_reglement-candidature.pdf](/uploads/designers-interet-general_reglement-candidature.pdf)
+{: .lien-important}
 
-**> Candidatez jusqu’au 10 mai**
+> [**Candidatez jusqu’au 10 mai**](https://www.demarches-simplifiees.fr/commencer/candidature_designer_interet_general)
+{: .lien-important}
 
-
-> * **Calendrier :**
+> ## Calendrier :
 > 
 > * **11 avril – 10 mai 2019 à 17h : **appel à candidatures en ligne et présélection des candidats
 > 
@@ -140,7 +152,7 @@ Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de 
 > 
 > * **A partir de juin 2019 :** prise de poste des designers d’intérêt général (pour une durée de 6 à 12 mois)
 > 
-{. :encadre}
+{: .encadre}
 
 <figure class='image-right' style='width: 20%;' margin-bottom='10' margin-top='3'><img src="/uploads/logo_investirlavenir_rvb.png" alt="Logo Investir l'avenir"/></figure>
 *Imaginé et piloté par la DINSIC, le programme Designers d’Intérêt Général est financé par le fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissements d’avenir (PIA) piloté par le secrétariat général pour l’investissement (SGPI).*
