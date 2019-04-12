@@ -108,5 +108,5 @@ Le **programme Designers d’Intérêt Général** est financé par le Fonds **�
 *Académie de Lyon*<br>
 *Ministère de l’Éducation nationale et de la Jeunesse*
 
-> [Consulter l’appel à candidatures Designers d’Intérêt Général](https://numerique.gouv.fr/espace-presse/letat-souvre-a-lux-design-lancement-du-programme-designers-dinteret-general/){:target="_blank"}
+> [Consulter l’appel à candidatures Designers d’Intérêt Général](https://numerique.gouv.fr/actualites/candidatez-designers-interet-general-ux-ui/){:target="_blank"}
 {: .lien-important}
