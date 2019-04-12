@@ -18,7 +18,7 @@ une-ou-diaporama:
   légende: 
 files:
   file: "/uploads/CP_DIG_appel_a_candidatures.pdf"
-  nom: Télécharger le communiqué de presse (Pdf 520 Ko)
+  nom: Télécharger le communiqué de presse
 file: "/uploads/CP_DIG_appel_a_candidatures.pdf"
 ---
 
