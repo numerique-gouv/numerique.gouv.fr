@@ -1,6 +1,5 @@
 ---
-title: "L’État s’ouvre au design : \nrecrutement de la 1re promotion Designers d’Intérêt
-  Général"
+title: 'UX Design : recrutement de la 1re promotion Designers d’Intérêt Général'
 date: 2019-04-12 10:45:00 +02:00
 categories:
 - Communiqué de presse
