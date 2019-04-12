@@ -18,7 +18,7 @@ une-ou-diaporama:
   légende: 
 files:
   file: "/uploads/CP_DIG_appel_a_candidatures-2ee69d.pdf"
-  nom: Télécharger le communiqué de presse
+  nom: Télécharger le communiqué de presse (Pdf 520 Ko)
 ---
 
 Un **jury mixte** composé d’experts UX issus du privé et du public évaluera les candidats selon : 
