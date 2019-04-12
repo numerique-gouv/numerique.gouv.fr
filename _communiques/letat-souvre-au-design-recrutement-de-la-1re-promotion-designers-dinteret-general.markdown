@@ -15,6 +15,10 @@ chapeau-text: Améliorer l’expérience utilisateurs des services publics en li
   pour former la 1re promotion. **21 designers** sont recherchés !
 une-ou-diaporama:
 - image: "/uploads/20190403_Article_lancement_DIG-2d1de7.jpg"
+  légende: 
+files:
+  file: "/uploads/CP_DIG_appel_a_candidatures-2ee69d.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Un **jury mixte** composé d’experts UX issus du privé et du public évaluera les candidats selon : 
@@ -102,7 +106,5 @@ Le **programme Designers d’Intérêt Général** est financé par le Fonds **�
 *Académie de Lyon*<br>
 *Ministère de l’Éducation nationale et de la Jeunesse*
 <br>
-> [Consultez l’appel à candidatures Designers d’Intérêt Général](https://numerique.gouv.fr/espace-presse/letat-souvre-a-lux-design-lancement-du-programme-designers-dinteret-general/){:target="_blank"}
+> [Consulter l’appel à candidatures Designers d’Intérêt Général](https://numerique.gouv.fr/espace-presse/letat-souvre-a-lux-design-lancement-du-programme-designers-dinteret-general/){:target="_blank"}
 {: .lien-important}
-<br>
-[Téléchargez le communiqué de presse (Pdf 526 Ko)](/uploads/CP_DIG_appel_a_candidatures.pdf){:target="_blank"}
