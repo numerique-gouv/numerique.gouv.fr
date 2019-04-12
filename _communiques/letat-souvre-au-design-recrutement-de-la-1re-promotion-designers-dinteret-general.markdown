@@ -45,7 +45,7 @@ Le **programme Designers d’Intérêt Général** est financé par le Fonds **�
 <br>
 * **Améliorer la communication et la collaboration des 1,2 million d’agents de l’Éducation nationale grâce à des outils numériques**<br>
 *Ministère de l’Éducation nationale et de la Jeunesse*
-<br>
+
 * **Faciliter le regroupement familial des étrangers en France grâce à un service en ligne**<br>
 *Direction de l’information légale et administrative (DILA)*
 *Services du Premier ministre*
