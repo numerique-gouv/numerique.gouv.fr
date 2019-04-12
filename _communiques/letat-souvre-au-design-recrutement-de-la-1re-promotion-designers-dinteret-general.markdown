@@ -1,5 +1,6 @@
 ---
-title: 'UX Design : recrutement de la 1re promotion Designers d’Intérêt Général'
+title: "L’État s’ouvre au design : \nrecrutement de la 1re promotion Designers d’Intérêt
+  Général"
 date: 2019-04-12 10:45:00 +02:00
 categories:
 - Communiqué de presse
@@ -16,8 +17,9 @@ une-ou-diaporama:
 - image: "/uploads/20190403_Article_lancement_DIG-2d1de7.jpg"
   légende: 
 files:
-  file: "/uploads/CP_DIG_appel_a_candidatures-2ee69d.pdf"
+  file: "/uploads/CP_DIG_appel_a_candidatures.pdf"
   nom: Télécharger le communiqué de presse (Pdf 520 Ko)
+file: "/uploads/CP_DIG_appel_a_candidatures.pdf"
 ---
 
 Un **jury mixte** composé d’experts UX issus du privé et du public évaluera les candidats selon : 
