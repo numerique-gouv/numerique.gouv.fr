@@ -33,6 +33,7 @@ Les candidats peuvent postuler dès aujourd’hui, jusqu’au **10 mai 2019 à 1
 Le **programme Designers d’Intérêt Général** est financé par le Fonds **« Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissements d’avenir (PIA)**.
 
 
+> <br> 
 > **Calendrier :**
 > * 11 avril – 10 mai 2019 à 17h : appel à candidatures 
 > * 15 mai 2019 : jury de sélection 
@@ -59,21 +60,21 @@ Le **programme Designers d’Intérêt Général** est financé par le Fonds **�
 <br>
 * **Bâtir une identité numérique de l'État simple, ergonomique et sécurisée**<br>
 *Mission identité numérique*<br>
-*Ministère de l’Intérieur*<br>
+*Ministère de l’Intérieur*
 <br>
 * **Améliorer l’information environnementale du citoyen grâce à la refonte des dispositifs de diffusion en mode collaboratif**<br>
 *Commissariat général au développement durable (CGDD)*<br>
-*Ministère de la Transition écologique et solidaire*<br>
+*Ministère de la Transition écologique et solidaire*
 <br>
 * **Favoriser le recrutement à la gendarmerie nationale en réimaginant l’expérience en ligne des candidats**<br>
 *Direction du personnel militaire de la gendarmerie nationale (DPMGN)*<br>
 *Ministère de l’Intérieur*
 <br>
 * **Faciliter l’accès aux achats du ministère des Armées par la refonte de son service en ligne**<br>
-*Ministère des Armées*<br>
+*Ministère des Armées*
 <br>
 * **Faciliter la prise de rendez-vous en préfecture en créant un outil en ligne**<br>
-*Ministère de l’Intérieur*<br>
+*Ministère de l’Intérieur*
 <br>
 * **Simplifier le parcours des familles dont les enfants sont en situation de handicap**<br>
 *Académie de Clermont-Ferrand*<br>
