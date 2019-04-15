@@ -106,7 +106,7 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 <br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_franceconnect.pdf)
 
 * **Faire découvrir les espaces naturels grâce à une application de géolocalisation**
-<br>*Inventaire national du patrimoine naturel (INPN)*
+<br>*Unité mixte de service Patrimoine naturel (PatriNat) - Muséum national d'Histoire naturelle*
 <br>*Ministère de la Transition écologique et solidaire*
 <br>Durée : 6 mois
 <br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_espaces-naturels.pdf)
