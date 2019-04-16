@@ -37,7 +37,8 @@ chapeau-text: Le Gouvernement lance TECH.GOUV, le nouveau programme pour accél�
 
 Les technologies numériques permettent aux organisations de répondre aux nouvelles attentes de leurs clients et de leurs employés. Augmenter le service public grâce au numérique, c’est faire en sorte que l’État se saisisse des opportunités du numérique pour rapprocher l’administration des citoyens, des entreprises et de ses propres agents, pour mieux les servir.
 
-<figure class='image-left' style='width: 10%;'><img src="/uploads/tech-gouv-picto-simplification.png"/></figure>### Simplification
+<figure class='image-left' style='width: 5%;'><img src="/uploads/tech-gouv-picto-simplification.png"/></figure>
+<br>### Simplification
 {: .margin-top-2 .margin-bottom-1} 
 La simplification des services publics numériques est plébiscitée : aujourd’hui, de nombreuses démarches sont perçues comme trop complexes et leurs interfaces peu ergonomiques ; ce constat est valable tant pour les usagers que pour les agents publics, dont l’environnement et les méthodes de travail doivent évoluer. 
 
@@ -45,18 +46,22 @@ La simplification des services publics numériques est plébiscitée : aujourd�
 {: .margin-top-2 .margin-bottom-1} 
 Le numérique doit permettre aux usagers d’accéder aux services publics y compris lorsqu’ils sont physiquement éloignés. Réduire la fracture territoriale, c’est développer la dématérialisation et en améliorer la qualité, et donc la qualité des services en termes de disponibilité, de gain de temps et d’accessibilité. C’est aussi s’assurer qu’aucun usager et aucun agent public n’est laissé au bord du chemin numérique.
 
-<figure class='image-left' style='width: 3%;'><img src="/uploads/tech-gouv-picto-attractivite.png"/></figure>### Attractivité
+<figure class='image-left' style='width: 5%;'><img src="/uploads/tech-gouv-picto-attractivite.png"/></figure>
+### Attractivité
 {: .margin-top-2 .margin-bottom-1} 
 Les outils et méthodes de travail qui s’appuient pleinement sur le potentiel du numérique améliorent globalement l’attractivité des employeurs, dans tous les métiers. Cette attractivité ne sera rendue possible qu’en simplifiant la vie des agents, en améliorant leurs environnements de travail et les méthodes de management et d’organisation.
 
+<figure class='image-left' style='width: 5%;'><img src="/uploads/tech-gouv-picto-maitrise.png"/></figure>
 ### Maîtrise
 {: .margin-top-2 .margin-bottom-1} 
 Nous devons nous assurer de la maîtrise des systèmes d’information, des architectures, des logiciels et du patrimoine de données afin d’accroître l’autonomie numérique de l’État et sa sécurité. Renforcer cette maîtrise technologique concourt directement à préserver la souveraineté nationale.
 
+<figure class='image-left' style='width: 5%;'><img src="/uploads/tech-gouv-picto-maitrise.png"/></figure>
 ### Économies
 {: .margin-top-2 .margin-bottom-1} 
 Le numérique peut et doit être source d’économies. À ce titre, c’est un outil d’optimisation des dépenses publiques car il participe à la production d’un service de meilleure qualité et à moindre coût. Cette perspective justifie également les investissements dans l’innovation.
 
+<figure class='image-left' style='width: 5%;'><img src="/uploads/tech-gouv-picto-alliances.png"/></figure>
 ### Alliances
 {: .margin-top-2 .margin-bottom-1} 
 La mise en place de partenariats ouverts et d’alliances avec des acteurs publics et privés de confiance permet de démultiplier les capacités de l’État à produire et à proposer de nouveaux services publics en phase avec les attentes de la société civile. Ce principe de co-construction démultiplie la capacité d’innovation de l’Etat et permet de développer des services numériques à valeur ajoutée tout en renforçant la proximité avec les usagers.
