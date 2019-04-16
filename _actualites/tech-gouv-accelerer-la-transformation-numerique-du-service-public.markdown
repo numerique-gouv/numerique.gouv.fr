@@ -10,8 +10,11 @@ tags:
 - services publics en ligne
 - système d'information
 - TECH.GOUV
-chapeau-text: L’État lance TECH.GOUV, le nouveau programme pour accélérer la transformation
-  numérique du service public, piloté par la DINSIC.
+chapeau-text: L’État lance TECH.GOUV, le nouveau programme destiné à accélérer la
+  transformation numérique du service public, piloté par la DINSIC. Répondant à 6
+  enjeux clés — simplification, inclusion, attractivité, maîtrise, économies, alliances
+  — ce programme stratégique se décline en une feuille de route opérationnelle sur
+  2 ans.
 ---
 
 > **Avec TECH.GOUV, l’État se dote d’un programme ambitieux pour accélérer la transformation numérique du service public.**
