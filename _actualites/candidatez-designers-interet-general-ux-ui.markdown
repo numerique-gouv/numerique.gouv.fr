@@ -41,7 +41,7 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 <br>Durée : 12 mois  -  Lieu : Brest
 <br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_maritUX.pdf)
 
-* **Faciliter l’accès des services en ligne de Pôle emploi pour les demandeurs d’emploi, en particulier pour ceux en situation de handicap**
+* **Améliorer les services en ligne de Pôle emploi pour les demandeurs d’emploi, en particulier pour ceux en situation de handicap**
 <br>*Pôle emploi*
 <br>*Ministère des Solidarités et de la Santé*
 <br>Durée : 12 mois
@@ -106,7 +106,7 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 <br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_franceconnect.pdf)
 
 * **Faire découvrir les espaces naturels grâce à une application de géolocalisation**
-<br>*Unité mixte de service Patrimoine naturel (PatriNat) - Muséum national d'Histoire naturelle*
+<br>*Unité mixte de service Patrimoine naturel (agence française pour la biodiversité/CNRS/MNHN) - Muséum national d'Histoire naturelle*
 <br>*Ministère de la Transition écologique et solidaire*
 <br>Durée : 6 mois
 <br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_espaces-naturels.pdf)
@@ -144,7 +144,7 @@ Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de 
 > [Consultez le règlement de l'appel à candidatures (pdf - 571 ko)](/uploads/designers-interet-general_reglement-candidature.pdf)
 {: .lien-important}
 
-> [**Candidatez !**](https://www.demarches-simplifiees.fr/commencer/candidature_designer_interet_general)
+> [**Candidatez jusqu'au 10 mai, 17h !**](https://www.demarches-simplifiees.fr/commencer/candidature_designer_interet_general)
 {: .lien-important}
 
 > ## Calendrier :
