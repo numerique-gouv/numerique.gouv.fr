@@ -29,7 +29,7 @@ chapeau-text: L’État lance TECH.GOUV, le nouveau programme pour accélérer l
 > Notre plan d’action, pragmatique et ambitieux, nos méthodes de travail et de pilotage, agiles et ouvertes, ainsi que la mobilisation de tous les talents qui nous composent et nous accompagnent vont permettre, j’en suis convaincu, de nous affranchir de ces contraintes et de **replacer la France dans le peloton de tête des États numériques.**
 {: .citation}
 
-> Nadi Bou Hanna
+> **Nadi Bou Hanna**
 > <br>Directeur interministériel du numérique
 {: .auteur-citation}
 
