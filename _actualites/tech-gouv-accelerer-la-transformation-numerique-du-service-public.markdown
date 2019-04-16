@@ -85,5 +85,7 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 * **FABRIQUE :** diffuser et mettre en œuvre la résolution des problèmes par l’innovation, l’expérimentation et l’amélioration continue
 
 * **TRANSFO :** accompagner la transformation publique par le numérique, en matière de politiques publiques, de relation à l’usager et de qualité des services numériques
-
-[Télécharger la plaquette de présentation de TECH.GOUV (pdf - 1,3 Mo)](/uploads/plaquette-tech-gouv.pdf)
+<br>
+<br>
+<br>
+[> Télécharger la plaquette de présentation de TECH.GOUV (pdf - 1,3 Mo)](/uploads/plaquette-tech-gouv.pdf)
