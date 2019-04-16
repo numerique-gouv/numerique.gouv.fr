@@ -70,7 +70,7 @@ Le numérique peut et doit être source d’économies. À ce titre, c’est un 
 La mise en place de partenariats ouverts et d’alliances avec des acteurs publics et privés de confiance permet de démultiplier les capacités de l’État à produire et à proposer de nouveaux services publics en phase avec les attentes de la société civile. Ce principe de co-construction démultiplie la capacité d’innovation de l’Etat et permet de développer des services numériques à valeur ajoutée tout en renforçant la proximité avec les usagers.
 
 
-## Les 8 missions de TECH.GOUV
+## Les 8&nbsp;missions de TECH.GOUV
 
 #### Des produits et des services numériques pour développer les nouveaux usages
 {: .margin-top-2 .margin-bottom-1} 
