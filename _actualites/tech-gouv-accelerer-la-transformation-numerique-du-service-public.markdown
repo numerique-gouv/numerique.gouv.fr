@@ -39,8 +39,6 @@ Les technologies numériques permettent aux organisations de répondre aux nouve
 
 <figure class='image-center' style='width: 70%;'><img src="/uploads/tech-gouv-enjeux-diagramme.png" alt="TECH.GOUV : le programme d'accélération de la transformation numérique de l'État. Pour les citoyens, entreprises et agents publics. Enjeux : simplification, inclusion, attractivité, maîtrise, économies, alliances"/></figure>
 <br>
-<br>
-<br>
 <figure class='image-left' style='width: 7%;'><img src="/uploads/tech-gouv-picto-simplification.png"/></figure>### Simplification
 {: .margin-top-2 .margin-bottom-1} 
 La simplification des services publics numériques est plébiscitée : aujourd’hui, de nombreuses démarches sont perçues comme trop complexes et leurs interfaces peu ergonomiques ; ce constat est valable tant pour les usagers que pour les agents publics, dont l’environnement et les méthodes de travail doivent évoluer. 
