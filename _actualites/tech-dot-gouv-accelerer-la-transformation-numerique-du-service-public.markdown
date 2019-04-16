@@ -14,14 +14,15 @@ chapeau-text: Le Gouvernement lance un nouveau programme pour accélérer la tra
   numérique du service public, piloté par la DINSIC.
 ---
 
-Avec TECH.GOUV, l’État se dote d’un programme ambitieux pour accélérer la transformation numérique du service public.
+> Avec TECH.GOUV, l’État se dote d’un programme ambitieux pour accélérer la transformation numérique du service public.
 Cette stratégie répond à six enjeux clairement identifiés - simplification, inclusion, attractivité, maîtrise, économies, alliances - six enjeux qui doivent mobiliser l’ensemble des parties prenantes à un service public de qualité, à savoir l’État, les collectivités territoriales et leurs opérateurs.
-
-Il s’agit donc de concevoir et mettre en œuvre des projets numériques réalistes et utiles, en phase avec les attentes et les besoins des citoyens, des entreprises et des agents publics. Pour ce faire, nous devons mettre les initiatives en cohérence et diffuser largement les meilleures pratiques pour favoriser l’éclosion de nouveaux usages et de méthodes de travail efficaces et motivantes.
-
-Nous n’ignorons rien des contraintes avec lesquelles il va nous falloir composer : la contrainte budgétaire bien évidemment ; la contrainte technique, car l’État doit recouvrer la maîtrise de son environnement numérique ; la contrainte humaine enfin, car la guerre des compétences fait rage dans les métiers dont nous avons besoin pour suivre notre feuille de route.
-
-Notre plan d’action, pragmatique et ambitieux, nos méthodes de travail et de pilotage, agiles et ouvertes, ainsi que la mobilisation de tous les talents qui nous composent et nous accompagnent vont permettre, j’en suis convaincu, de nous affranchir de ces contraintes et de replacer la France dans le peloton de tête des États numériques.
+> 
+> Il s’agit donc de concevoir et mettre en œuvre des projets numériques réalistes et utiles, en phase avec les attentes et les besoins des citoyens, des entreprises et des agents publics. Pour ce faire, nous devons mettre les initiatives en cohérence et diffuser largement les meilleures pratiques pour favoriser l’éclosion de nouveaux usages et de méthodes de travail efficaces et motivantes.
+> 
+> Nous n’ignorons rien des contraintes avec lesquelles il va nous falloir composer : la contrainte budgétaire bien évidemment ; la contrainte technique, car l’État doit recouvrer la maîtrise de son environnement numérique ; la contrainte humaine enfin, car la guerre des compétences fait rage dans les métiers dont nous avons besoin pour suivre notre feuille de route.
+> 
+> Notre plan d’action, pragmatique et ambitieux, nos méthodes de travail et de pilotage, agiles et ouvertes, ainsi que la mobilisation de tous les talents qui nous composent et nous accompagnent vont permettre, j’en suis convaincu, de nous affranchir de ces contraintes et de replacer la France dans le peloton de tête des États numériques.
+{: .citation}
 
 > Nadi Bou Hanna
 > Directeur interministériel du numérique
