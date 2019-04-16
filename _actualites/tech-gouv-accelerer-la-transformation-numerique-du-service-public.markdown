@@ -37,6 +37,11 @@ chapeau-text: L’État lance TECH.GOUV, le nouveau programme destiné à accél
 
 Les technologies numériques permettent aux organisations de répondre aux nouvelles attentes de leurs clients et de leurs employés. Augmenter le service public grâce au numérique, c’est faire en sorte que l’État se saisisse des opportunités du numérique pour rapprocher l’administration des citoyens, des entreprises et de ses propres agents, pour mieux les servir.
 
+<figure class='image-center' style='width: 70%;'><img src="/uploads/tech-gouv-picto-simplification.png" alt="TECH.GOUV : le programme d'accélération de la transformation numérique de l'État. Pour les citoyens, entreprises et agents publics. Enjeux : simplification, inclusion, attractivité, maîtrise, économies, alliances"/></figure>
+{: .text-center}
+<br>
+<br>
+<br>
 <figure class='image-left' style='width: 7%;'><img src="/uploads/tech-gouv-picto-simplification.png"/></figure>### Simplification
 {: .margin-top-2 .margin-bottom-1} 
 La simplification des services publics numériques est plébiscitée : aujourd’hui, de nombreuses démarches sont perçues comme trop complexes et leurs interfaces peu ergonomiques ; ce constat est valable tant pour les usagers que pour les agents publics, dont l’environnement et les méthodes de travail doivent évoluer. 
