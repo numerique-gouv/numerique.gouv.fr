@@ -3,6 +3,13 @@ title: |-
   TECH.GOUV : accélérer la transformation numérique
   du service public
 date: 2019-04-16 09:47:00 +02:00
+categories:
+- Article
+tags:
+- transformation numérique
+- services publics en ligne
+- système d'information
+- TECH.GOUV
 ---
 
 Avec TECH.GOUV, l’État se dote d’un programme ambitieux pour accélérer la transformation numérique du service public.
