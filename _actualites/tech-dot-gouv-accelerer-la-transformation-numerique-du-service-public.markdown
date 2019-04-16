@@ -36,25 +36,30 @@ Les technologies numériques permettent aux organisations de répondre aux nouve
 La simplification des services publics numériques est plébiscitée : aujourd’hui, de nombreuses démarches sont perçues comme trop complexes et leurs interfaces peu ergonomiques ; ce constat est valable tant pour les usagers que pour les agents publics, dont l’environnement et les méthodes de travail doivent évoluer. 
 
 ### Inclusion
+{: .margin-top-2 .margin-bottom-1} 
 Le numérique doit permettre aux usagers d’accéder aux services publics y compris lorsqu’ils sont physiquement éloignés. Réduire la fracture territoriale, c’est développer la dématérialisation et en améliorer la qualité, et donc la qualité des services en termes de disponibilité, de gain de temps et d’accessibilité. C’est aussi s’assurer qu’aucun usager et aucun agent public n’est laissé au bord du chemin numérique.
 
 ### Attractivité
+{: .margin-top-2 .margin-bottom-1} 
 Les outils et méthodes de travail qui s’appuient pleinement sur le potentiel du numérique améliorent globalement l’attractivité des employeurs, dans tous les métiers. Cette attractivité ne sera rendue possible qu’en simplifiant la vie des agents, en améliorant leurs environnements de travail et les méthodes de management et d’organisation.
 
 ### Maîtrise
+{: .margin-top-2 .margin-bottom-1} 
 Nous devons nous assurer de la maîtrise des systèmes d’information, des architectures, des logiciels et du patrimoine de données afin d’accroître l’autonomie numérique de l’État et sa sécurité. Renforcer cette maîtrise technologique concourt directement à préserver la souveraineté nationale.
 
 ### Économies
+{: .margin-top-2 .margin-bottom-1} 
 Le numérique peut et doit être source d’économies. À ce titre, c’est un outil d’optimisation des dépenses publiques car il participe à la production d’un service de meilleure qualité et à moindre coût. Cette perspective justifie également les investissements dans l’innovation.
 
 ### Alliances
+{: .margin-top-2 .margin-bottom-1} 
 La mise en place de partenariats ouverts et d’alliances avec des acteurs publics et privés de confiance permet de démultiplier les capacités de l’État à produire et à proposer de nouveaux services publics en phase avec les attentes de la société civile. Ce principe de co-construction démultiplie la capacité d’innovation de l’Etat et permet de développer des services numériques à valeur ajoutée tout en renforçant la proximité avec les usagers.
 
 
 ## Les huit missions de TECH.GOUV
 
 #### Des produits et des services numériques pour développer les nouveaux usages
-
+{: .margin-top-2 .margin-bottom-1} 
 * **LABEL :** labelliser des solutions et des outils numériques de qualité pour faciliter leur emploi par les porteurs de projets publics
 
 * **IDNUM :** construire une identification unifiée pour accéder aux services en ligne, pour les citoyens, les entreprises et les agents publics
@@ -62,9 +67,11 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 * **DATA :** gérer et maîtriser le cycle de vie de la donnée, de sa collecte à son échange entre administrations
 
 * **INFRA :** opérer des infrastructures et des services numériques mutualisés (réseau, cloud, outils de travail)
+<br>
+<br>
 
 #### Des expertises numériques accélérant la transformation du service public
-
+{: .margin-top-2 .margin-bottom-1} 
 * **PILOT :** piloter et maîtriser le système d’information de l’État
 
 * **TALENTS :** professionnaliser la filière numérique de l’État et accompagner les managers pour une meilleure prise en compte des leviers numériques
