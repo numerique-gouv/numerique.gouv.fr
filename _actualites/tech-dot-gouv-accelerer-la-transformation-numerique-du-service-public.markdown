@@ -25,7 +25,7 @@ Cette stratégie répond à six enjeux clairement identifiés - simplification, 
 {: .citation}
 
 > Nadi Bou Hanna
-> Directeur interministériel du numérique
+> <br>Directeur interministériel du numérique
 {: .auteur-citation}
 
 ## Le service public à l’ère numérique : les 6 enjeux de TECH.GOUV
