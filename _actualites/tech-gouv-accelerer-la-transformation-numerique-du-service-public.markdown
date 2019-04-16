@@ -33,7 +33,7 @@ chapeau-text: L’État lance TECH.GOUV, le nouveau programme pour accélérer l
 > <br>Directeur interministériel du numérique
 {: .auteur-citation}
 
-## Le service public à l’ère numérique : les 6 enjeux de TECH.GOUV
+## Le service public à l’ère numérique : les&nbsp;6&nbsp;enjeux de TECH.GOUV
 
 Les technologies numériques permettent aux organisations de répondre aux nouvelles attentes de leurs clients et de leurs employés. Augmenter le service public grâce au numérique, c’est faire en sorte que l’État se saisisse des opportunités du numérique pour rapprocher l’administration des citoyens, des entreprises et de ses propres agents, pour mieux les servir.
 
