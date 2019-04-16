@@ -37,15 +37,15 @@ chapeau-text: Le Gouvernement lance TECH.GOUV, le nouveau programme pour accél�
 
 Les technologies numériques permettent aux organisations de répondre aux nouvelles attentes de leurs clients et de leurs employés. Augmenter le service public grâce au numérique, c’est faire en sorte que l’État se saisisse des opportunités du numérique pour rapprocher l’administration des citoyens, des entreprises et de ses propres agents, pour mieux les servir.
 
-<figure class='image-left' style='width: 50%;'><img src="/uploads/tech-gouv-picto-simplification.png"/></figure>### Simplification
+<figure class='image-left' style='width: 10%;'><img src="/uploads/tech-gouv-picto-simplification.png"/></figure>### Simplification
 {: .margin-top-2 .margin-bottom-1} 
 La simplification des services publics numériques est plébiscitée : aujourd’hui, de nombreuses démarches sont perçues comme trop complexes et leurs interfaces peu ergonomiques ; ce constat est valable tant pour les usagers que pour les agents publics, dont l’environnement et les méthodes de travail doivent évoluer. 
 
-### Inclusion
+<figure class='image-left' style='width: 5%;'><img src="/uploads/tech-gouv-picto-inclusion.png"/></figure>### Inclusion
 {: .margin-top-2 .margin-bottom-1} 
 Le numérique doit permettre aux usagers d’accéder aux services publics y compris lorsqu’ils sont physiquement éloignés. Réduire la fracture territoriale, c’est développer la dématérialisation et en améliorer la qualité, et donc la qualité des services en termes de disponibilité, de gain de temps et d’accessibilité. C’est aussi s’assurer qu’aucun usager et aucun agent public n’est laissé au bord du chemin numérique.
 
-### Attractivité
+<figure class='image-left' style='width: 3%;'><img src="/uploads/tech-gouv-picto-attractivite.png"/></figure>### Attractivité
 {: .margin-top-2 .margin-bottom-1} 
 Les outils et méthodes de travail qui s’appuient pleinement sur le potentiel du numérique améliorent globalement l’attractivité des employeurs, dans tous les métiers. Cette attractivité ne sera rendue possible qu’en simplifiant la vie des agents, en améliorant leurs environnements de travail et les méthodes de management et d’organisation.
 
