@@ -41,11 +41,11 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 <br>Durée : 12 mois  -  Lieu : Brest
 <br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_maritUX.pdf)
 
-* **Améliorer les services en ligne de Pôle emploi pour les demandeurs d’emploi, en particulier ceux en situation de handicap**
+* **Améliorer les services en ligne de Pôle emploi pour les demandeurs d’emploi, en particulier pour ceux en situation de handicap**
 <br>*Pôle emploi*
 <br>*Ministère des Solidarités et de la Santé*
 <br>Durée : 12 mois
-<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_Pole-emploi-9d6d39.pdf)
+<br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_Pole-emploi-76f76f.pdf)
 
 * **Bâtir une identité numérique de l'État simple, ergonomique et sécurisée**
 <br>*Mission identité numérique*
