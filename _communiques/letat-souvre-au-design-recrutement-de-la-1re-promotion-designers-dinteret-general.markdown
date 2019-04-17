@@ -54,7 +54,7 @@ Le **programme Designers d’Intérêt Général** est financé par le Fonds **�
 *Service hydrographique et océanographique de la Marine (Shom)*<br>
 *Ministère des Armées*
 
-* **Faciliter l’accès des services en ligne de Pôle emploi pour les demandeurs d’emploi, en particulier pour ceux en situation de handicap**<br>
+* **Améliorer les services en ligne de Pôle emploi pour les demandeurs d’emploi, en particulier pour ceux en situation de handicap**<br>
 *Pôle emploi*<br>
 *Ministère des Solidarités et de la Santé*
 
@@ -97,7 +97,7 @@ Le **programme Designers d’Intérêt Général** est financé par le Fonds **�
 *Services du Premier ministre*
 
 * **Faire découvrir les espaces naturels grâce à une application de géolocalisation**<br>
-*Inventaire national du patrimoine naturel (INPN)*<br>
+*Unité mixte de service Patrimoine naturel (PatriNat) - Muséum national d'Histoire naturelle*<br>
 *Ministère de la Transition écologique et solidaire*
 
 * **Mieux informer les citoyens sur les risques de crues via le site vigies.crues.gouv.fr (VigicrUX)**<br>
