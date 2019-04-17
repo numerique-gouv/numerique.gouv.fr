@@ -16,7 +16,7 @@ une-ou-diaporama:
 - image: "/uploads/20190403_Article_lancement_DIG-2d1de7.jpg"
   légende: 
 files:
-- file: "/uploads/CP_DIG_appel_a_candidatures.pdf"
+- file: "/uploads/CP_DIG_appel%20a%20candidatures.pdf"
   nom: Télécharger le communiqué de presse
 file: "/uploads/CP_DIG_appel_a_candidatures.pdf"
 ---
