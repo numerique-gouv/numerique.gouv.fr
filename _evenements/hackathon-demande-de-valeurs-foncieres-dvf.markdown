@@ -1,6 +1,6 @@
 ---
 title: Hackathon "Demande de Valeurs Foncières" (DVF)
-date: 2019-04-19 16:06:00 +02:00
+date: 2019-04-18 14:06:00 +02:00
 chapeau-text: En application la nouvelle loi ESSOC, la Direction générale des Finances
   publiques (DGFiP) rend librement accessibles au public, sur le site data.gouv.fr,
   les éléments d’information qu’elle détient au sujet des valeurs foncières déclarées
