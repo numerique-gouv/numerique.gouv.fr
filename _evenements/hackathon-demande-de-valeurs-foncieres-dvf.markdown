@@ -11,9 +11,9 @@ lieu: " Centre de conférences Pierre Mendes France du ministère de l'économie
   finances "
 adresse: 139, rue de Bercy – 75012 PARIS
 champs_informations:
-- lien: Cliquer pour s'inscrire
-  intitule: S'inscrire
-  contenu: https://www.eventbrite.fr/e/billets-hackathon-demande-de-valeurs-foncieres-dvf-60538673803?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=estw&utm-source=tw&utm-term=listing
+- intitule: S'inscrire
+  contenu: Cliquer pour s'inscrire
+  lien: https://www.eventbrite.fr/e/billets-hackathon-demande-de-valeurs-foncieres-dvf-60538673803?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=estw&utm-source=tw&utm-term=listing
 ---
 
 Afin d’accompagner l’ouverture de la base DVF, la DGFIP organise un évènement, en partenariat avec Etalab, afin de rassembler les communautés de réutilisateurs et présenter les premières exploitations de la base de données.
