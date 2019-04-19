@@ -52,7 +52,7 @@ La version actuelle est une version bêta qui s’améliore en continu. La DINSI
 
 * 12h30 : les équipes techniques engagent la production et le test d’un correctif.
 
-* 15h : le correctif est déployé, le service d’inscription est réouvert. Fin de l’incident.
+* 15h : le correctif est déployé, le service d’inscription est rouvert. Fin de l’incident.
 
 **Origine :**
 
