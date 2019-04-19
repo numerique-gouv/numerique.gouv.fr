@@ -7,8 +7,9 @@ tags:
 - sécurité
 - Tchap
 chapeau-text: Une faille de sécurité a été détectée et corrigée hier sur la version
-  bêta de la messagerie instantanée de l’État Tchap sans compromission d’informations
-  confidentielles, avant son lancement officiel. Retour sur l’incident.
+  bêta de la [messagerie instantanée de l’État Tchap](/espace-presse/lancement-de-tchap-la-messagerie-instantanee-des-agents-de-letat/)
+  sans compromission d’informations confidentielles, avant son lancement officiel.
+  Retour sur l’incident.
 une-ou-diaporama:
 - image: "/uploads/CP_Tchap_une.jpg"
 files:
