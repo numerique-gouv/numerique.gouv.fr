@@ -8,29 +8,29 @@ tags:
 - Tchap
 chapeau-text: Une faille de sécurité a été détectée et corrigée hier sur la version
   bêta de la messagerie instantanée de l’État Tchap sans compromission d’informations
-  confidentielles. Retour sur l’incident.
+  confidentielles, avant son lancement officiel. Retour sur l’incident.
 files:
 - file: "/uploads/Note-aux-redactions_resolution-faille-TCHAP.pdf"
   nom: 
 ---
 
-Le 18 avril, un informaticien connu sur les réseaux sociaux sous le pseudonyme Elliot Alderson, signale via Twitter avoir détecté une faille sur Tchap avant son lancement officiel.
+Le 18 avril, un informaticien connu sur les réseaux sociaux sous le pseudonyme Elliot Alderson, signale via Twitter avoir détecté une faille sur Tchap.
 
 Dès signalement, l’équipe en charge de Tchap a pris contact avec lui et a aussitôt **désactivé** la fonctionnalité de création de compte touchée par cette faille. **En quelque heures, la faille a été corrigée et la fonctionnalité rétablie.**
 
 La faille en question provenait d’un module open source Python utilisé par Tchap et servant au filtrage des adresses mails dans la création de compte (l’application étant réservée aux agents de l’État avec une adresse professionnelle).
 
-En exploitant cette faille, Elliot Alderson** **a pu se créer un compte et rentrer dans l’application.
+En exploitant cette faille, Elliot Alderson **a pu se créer un compte et rentrer dans l’application.
 
 La DINSIC, qui opère le service, précise que :
 
-* Elliot Alderson** est le seul à avoir exploité cette faille.**
+* Elliot Alderson **est le seul à avoir exploité cette faille.**
 
-* Il a **uniquement eu** **accès aux salons publics visibles **par tous les utilisateurs de la messagerie (par opposition aux salons privés, fermés et accessibles sur invitation).
+* Il a **uniquement eu accès aux salons publics visibles** par tous les utilisateurs de la messagerie (par opposition aux salons privés, fermés et accessibles sur invitation).
 
-* Il n’a eu accès à** aucune information confidentielle**, ni aux coordonnées des agents.
+* Il n’a eu **accès à aucune information confidentielle,** ni aux coordonnées des agents.
 
-* Le compte d’Elliot Alderson** **a été **supprimé.**
+* Le compte d’Elliot Alderson **a été supprimé.**
 
 La DINSIC rappelle que Tchap n’a pas vocation à traiter d’informations très sensibles : il s’agit d’une messagerie instantanée permettant aux agents de l’État d’échanger en temps réel sur les problématiques professionnelles du quotidien, en garantissant que les conversations restent hébergées sur le territoire national.
 
