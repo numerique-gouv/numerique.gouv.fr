@@ -22,7 +22,7 @@ Dès signalement, l’équipe en charge de Tchap a pris contact avec lui et a au
 
 La faille en question provenait d’un module open source Python utilisé par Tchap et servant au filtrage des adresses mails dans la création de compte (l’application étant réservée aux agents de l’État avec une adresse professionnelle).
 
-En exploitant cette faille, Elliot Alderson **a pu se créer un compte et rentrer dans l’application.
+En exploitant cette faille, Elliot Alderson **a pu se créer un compte et rentrer dans l’application.**
 
 La DINSIC, qui opère le service, précise que :
 
