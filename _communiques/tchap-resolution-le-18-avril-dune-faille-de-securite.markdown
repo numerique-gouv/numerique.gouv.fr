@@ -13,7 +13,7 @@ une-ou-diaporama:
 - image: "/uploads/CP_Tchap_une.jpg"
 files:
 - file: "/uploads/Note-aux-redactions_resolution-faille-TCHAP.pdf"
-  nom: 
+  nom: Télécharger la note aux rédactions
 ---
 
 Le 18 avril, un informaticien connu sur les réseaux sociaux sous le pseudonyme Elliot Alderson, signale via Twitter avoir détecté une faille sur Tchap.
