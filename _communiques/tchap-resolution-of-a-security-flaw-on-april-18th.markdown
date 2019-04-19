@@ -1,6 +1,8 @@
 ---
 title: 'Tchap: resolution of a security flaw on April 18th'
 date: 2019-04-19 01:00:00 +02:00
+categories:
+- Note to editors
 chapeau-text: A security flaw was detected and fixed yesterday on the beta version
   of Tchap, the French State’s instant messaging application, before it caused any
   breach of confidential information, before the official launch of Tchap. Incident
