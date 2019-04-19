@@ -12,8 +12,8 @@ chapeau-text: 'L’État lance Tchap, sa propre messagerie instantanée, en vers
   à offrir une alternative sécurisée aux applications grand public telles Whatsapp
   ou Télégram. '
 files:
-  file: "/uploads/CP_TCHAP.pdf"
-  nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_TCHAP.pdf"
+  contenu: Télécharger le communiqué de presse
 file: "/uploads/CP_TCHAP-fc1ee5.pdf"
 ---
 
