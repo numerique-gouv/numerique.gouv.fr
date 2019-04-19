@@ -5,7 +5,7 @@ categories:
 - Note to editors
 chapeau-text: |-
   A security flaw was detected and fixed yesterday on the beta version of Tchap, the French State’s instant messaging application, before it caused any breach of confidential information, before the official launch of Tchap. Incident report.
-  Lire la version française](https://www.numerique.gouv.fr/espace-presse/tchap-resolution-le-18-avril-dune-faille-de-securite/)
+  [Lire la version française](https://www.numerique.gouv.fr/espace-presse/tchap-resolution-le-18-avril-dune-faille-de-securite/)
 une-ou-diaporama:
 - image: "/uploads/CP_Tchap_une.jpg"
 files:
