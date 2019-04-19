@@ -64,3 +64,5 @@ La version actuelle est une version bêta qui s’améliore en continu. La DINSI
 **Origine :**
 
 Elliot Alderson @fs0c131y a révélé sur Twitter l’origine de la faille : la vulnérabilité vient du module email.utils (librairie python), pour le traitement des adresses mails.
+
+[**English version**](https://www.numerique.gouv.fr/espace-presse/tchap-resolution-of-a-security-flaw-on-april-18th/)
