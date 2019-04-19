@@ -9,7 +9,8 @@ chapeau-text: |-
 une-ou-diaporama:
 - image: "/uploads/CP_Tchap_une.jpg"
 files:
-  file: "/uploads/Note-to-editors_flaw-resolution-TCHAP.pdf"
+- file: "/uploads/Note-to-editors_flaw-resolution-TCHAP.pdf"
+  nom: Download the note to editors
 ---
 
 On April 18th, a computer specialist known on social media under the pseudonym Elliot Alderson used Twitter to alert to the existence of a security flaw.
