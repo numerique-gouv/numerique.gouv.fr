@@ -1,10 +1,12 @@
 ---
 title: 'Tchap: resolution of a security flaw on April 18th'
-date: 2019-04-19 18:43:00 +02:00
+date: 2019-04-19 01:00:00 +02:00
 chapeau-text: A security flaw was detected and fixed yesterday on the beta version
   of Tchap, the French State’s instant messaging application, before it caused any
   breach of confidential information, before the official launch of Tchap. Incident
   report.
+une-ou-diaporama:
+- image: "/uploads/CP_Tchap_une.jpg"
 files:
   file: "/uploads/Note-to-editors_flaw-resolution-TCHAP.pdf"
 ---
