@@ -1,6 +1,12 @@
 ---
 title: 'Lancement de Tchap : la messagerie instantanée des agents de l’État'
 date: 2019-04-19 11:44:00 +02:00
+categories:
+- Communiqué de presse
+tags:
+- Tchap
+- Messagerie de l'État
+- Open source
 chapeau-text: 'L’État lance Tchap, sa propre messagerie instantanée, en version bêta.
   Développée au sein de l’administration et destinée aux agents de l’État elle vise
   à offrir une alternative sécurisée aux applications grand public telles Whatsapp
