@@ -13,7 +13,7 @@ chapeau-text: 'L’État lance Tchap, sa propre messagerie instantanée, en vers
   ou Télégram. '
 files:
 - file: "/uploads/CP_TCHAP.pdf"
-  contenu: Télécharger le communiqué de presse
+  nom: Télécharger le communiqué de presse
 file: "/uploads/CP_TCHAP-fc1ee5.pdf"
 ---
 
