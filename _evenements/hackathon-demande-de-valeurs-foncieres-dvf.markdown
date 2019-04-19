@@ -1,6 +1,8 @@
 ---
 title: Hackathon «Demande de Valeurs Foncières»
 date: 2019-04-18 16:06:00 +02:00
+categories:
+- Hackathon
 event_start_date: 2019-04-24 00:00:00 +02:00
 lieu: " Centre de conférences Pierre Mendes France du ministère de l'économie et des
   finances "
