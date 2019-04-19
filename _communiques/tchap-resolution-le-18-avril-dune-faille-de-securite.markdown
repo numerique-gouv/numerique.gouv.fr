@@ -38,7 +38,8 @@ La DINSIC rappelle que Tchap n’a pas vocation à traiter d’informations trè
 
 La version actuelle est une version bêta qui s’améliore en continu. La DINSIC se tient à l’écoute des experts de la société civile et prendra en compte tout retour qu’ils lui remonteraient en vue d’améliorer l’application.
 
-#### Note technique d’incident
+### Note technique d’incident
+{: .text-center}
 
 **Déroulement :**
 
