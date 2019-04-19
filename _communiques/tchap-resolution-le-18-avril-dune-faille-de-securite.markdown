@@ -7,8 +7,9 @@ tags:
 - sécurité
 - Tchap
 chapeau-text: Une faille de sécurité a été détectée et corrigée hier sur la version
-  bêta de la messagerie instantanée de l’État Tchap sans compromission d’informations
-  confidentielles, avant son lancement officiel. Retour sur l’incident.
+  bêta de la [messagerie instantanée de l’État Tchap](/espace-presse/lancement-de-tchap-la-messagerie-instantanee-des-agents-de-letat/)
+  sans compromission d’informations confidentielles, avant son lancement officiel.
+  Retour sur l’incident.
 une-ou-diaporama:
 - image: "/uploads/CP_Tchap_une.jpg"
 files:
@@ -37,7 +38,9 @@ La DINSIC, qui opère le service, précise que :
 La DINSIC rappelle que Tchap n’a pas vocation à traiter d’informations très sensibles : il s’agit d’une messagerie instantanée permettant aux agents de l’État d’échanger en temps réel sur les problématiques professionnelles du quotidien, en garantissant que les conversations restent hébergées sur le territoire national.
 
 La version actuelle est une version bêta qui s’améliore en continu. La DINSIC se tient à l’écoute des experts de la société civile et prendra en compte tout retour qu’ils lui remonteraient en vue d’améliorer l’application.
-
+<br>
+<br>
+<br>
 ### Note technique d’incident
 {: .text-center}
 
