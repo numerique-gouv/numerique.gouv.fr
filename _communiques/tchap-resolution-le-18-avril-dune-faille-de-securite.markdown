@@ -13,7 +13,7 @@ une-ou-diaporama:
 - image: "/uploads/CP_Tchap_une.jpg"
 files:
 - file: "/uploads/Note-aux-redactions_resolution-faille-TCHAP.pdf"
-  nom: 
+  nom: Télécharger la note aux rédactions
 ---
 
 Le 18 avril, un informaticien connu sur les réseaux sociaux sous le pseudonyme Elliot Alderson, signale via Twitter avoir détecté une faille sur Tchap.
@@ -22,7 +22,7 @@ Dès signalement, l’équipe en charge de Tchap a pris contact avec lui et a au
 
 La faille en question provenait d’un module open source Python utilisé par Tchap et servant au filtrage des adresses mails dans la création de compte (l’application étant réservée aux agents de l’État avec une adresse professionnelle).
 
-En exploitant cette faille, Elliot Alderson **a pu se créer un compte et rentrer dans l’application.
+En exploitant cette faille, Elliot Alderson **a pu se créer un compte et rentrer dans l’application.**
 
 La DINSIC, qui opère le service, précise que :
 
@@ -38,7 +38,8 @@ La DINSIC rappelle que Tchap n’a pas vocation à traiter d’informations trè
 
 La version actuelle est une version bêta qui s’améliore en continu. La DINSIC se tient à l’écoute des experts de la société civile et prendra en compte tout retour qu’ils lui remonteraient en vue d’améliorer l’application.
 
-#### Note technique d’incident
+### Note technique d’incident
+{: .text-center}
 
 **Déroulement :**
 
@@ -55,7 +56,8 @@ La version actuelle est une version bêta qui s’améliore en continu. La DINSI
 * 12h30 : les équipes techniques engagent la production et le test d’un correctif.
 
 * 15h : le correctif est déployé, le service d’inscription est rouvert. Fin de l’incident.
-
+<br>
+<br>
 **Origine :**
 
-* Elliot Alderson @fs0c131y a révélé sur Twitter l’origine de la faille : la vulnérabilité vient du module email.utils (librairie python), pour le traitement des adresses mails.
+Elliot Alderson @fs0c131y a révélé sur Twitter l’origine de la faille : la vulnérabilité vient du module email.utils (librairie python), pour le traitement des adresses mails.
