@@ -2,7 +2,7 @@
 title: 'Tchap : résolution le 18 avril d’une faille de sécurité'
 date: 2019-04-19 02:38:00 +02:00
 categories:
-- note aux rédactions
+- Note aux rédactions
 tags:
 - sécurité
 - Tchap
