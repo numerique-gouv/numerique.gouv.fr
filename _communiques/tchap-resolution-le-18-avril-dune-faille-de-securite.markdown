@@ -55,7 +55,8 @@ La version actuelle est une version bêta qui s’améliore en continu. La DINSI
 * 12h30 : les équipes techniques engagent la production et le test d’un correctif.
 
 * 15h : le correctif est déployé, le service d’inscription est rouvert. Fin de l’incident.
-
+<br>
+<br>
 **Origine :**
 
-* Elliot Alderson @fs0c131y a révélé sur Twitter l’origine de la faille : la vulnérabilité vient du module email.utils (librairie python), pour le traitement des adresses mails.
+Elliot Alderson @fs0c131y a révélé sur Twitter l’origine de la faille : la vulnérabilité vient du module email.utils (librairie python), pour le traitement des adresses mails.
