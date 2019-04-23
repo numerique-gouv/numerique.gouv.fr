@@ -5,11 +5,15 @@ categories:
 - Hackathon
 chapeau-text: A l'occasion de l'ouverture de la base de demandes de valeurs foncières,
   la DGFiP organise un hackathon le mercredi 24 avril.
+une-ou-diaporama:
+- image: "/uploads/hackathon-dvf.jpg"
 event_start_date: 2019-04-24 00:00:00 +02:00
 lieu: " Centre de conférences Pierre Mendes France du ministère de l'économie et des
   finances "
 adresse: 139, rue de Bercy – 75012 PARIS
 champs_informations:
+- intitule: Horaires
+  contenu: 9h-18h
 - intitule: Modalités
   contenu: 'Inscription gratuite oblligatoire '
   lien: https://www.eventbrite.fr/e/billets-hackathon-demande-de-valeurs-foncieres-dvf-60538673803?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=estw&utm-source=tw&utm-term=listing
