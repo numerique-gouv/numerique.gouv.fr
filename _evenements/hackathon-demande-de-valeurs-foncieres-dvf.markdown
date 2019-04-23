@@ -15,7 +15,7 @@ champs_informations:
   lien: https://www.eventbrite.fr/e/billets-hackathon-demande-de-valeurs-foncieres-dvf-60538673803?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=estw&utm-source=tw&utm-term=listing
 ---
 
-En application la nouvelle loi ESSOC, la Direction générale des Finances publiques (DGFiP) rend librement accessibles au public, sur le site data.gouv.fr, les éléments d’information qu’elle détient au sujet des valeurs foncières déclarées à l’occasion des mutations à titre onéreux intervenues au cours des cinq dernières années.
+En application la nouvelle loi ESSOC, la direction générale des finances publiques (DGFiP) rend librement accessibles au public, sur le site data.gouv.fr, les éléments d’information qu’elle détient au sujet des valeurs foncières déclarées à l’occasion des mutations à titre onéreux intervenues au cours des cinq dernières années.
 
 Afin d’accompagner l’ouverture de la base de demandes de valeurs foncières (DVF), la DGFiP organise un évènement, en partenariat avec Etalab, afin de rassembler les communautés de réutilisateurs et présenter les premières exploitations de la base de données.
 
