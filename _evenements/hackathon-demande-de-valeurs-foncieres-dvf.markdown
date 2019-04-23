@@ -4,7 +4,7 @@ date: 2019-04-18 16:06:00 +02:00
 categories:
 - Hackathon
 chapeau-text: A l'occasion de l'ouverture de la base de demandes de valeurs foncières,
-  la DGFIP organise un hackathon le mercredi 24 avril.
+  la DGFiP organise un hackathon le mercredi 24 avril.
 event_start_date: 2019-04-24 00:00:00 +02:00
 lieu: " Centre de conférences Pierre Mendes France du ministère de l'économie et des
   finances "
