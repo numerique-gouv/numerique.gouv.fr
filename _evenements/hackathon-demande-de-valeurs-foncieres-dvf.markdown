@@ -12,6 +12,8 @@ lieu: " Centre de conférences Pierre Mendes France du ministère de l'économie
   finances "
 adresse: 139, rue de Bercy – 75012 PARIS
 champs_informations:
+- intitule: Horaires
+  contenu: 9h-18h
 - intitule: Modalités
   contenu: 'Inscription gratuite oblligatoire '
   lien: https://www.eventbrite.fr/e/billets-hackathon-demande-de-valeurs-foncieres-dvf-60538673803?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=estw&utm-source=tw&utm-term=listing
