@@ -111,7 +111,7 @@ Les administrations ont concocté pour vous 17 projets sur lesquels votre expert
 <br>Durée : 6 mois
 <br>[Détails de la mission (pdf - 80 ko)](/uploads/designers-interet-general_espaces-naturels-917468.pdf)
 
-* **Mieux informer les citoyens sur les risques de crues via le site vigies.crues.gouv.fr (VigicrUX)**
+* **Mieux informer les citoyens sur les risques de crues via le site vigicrues.gouv.fr (VigicrUX)**
 <br>*Service central d’hydrométéorologie et d’appui à la prévision des inondations (SCHAPI)*
 <br>*Ministère de la Transition écologique et solidaire*
 <br>Durée : 6 mois  -  Lieu : Toulouse
