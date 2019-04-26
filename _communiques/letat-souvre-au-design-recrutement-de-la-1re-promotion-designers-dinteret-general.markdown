@@ -100,7 +100,7 @@ Le **programme Designers d’Intérêt Général** est financé par le Fonds **�
 *Unité mixte de service Patrimoine naturel (PatriNat) - Muséum national d'Histoire naturelle*<br>
 *Ministère de la Transition écologique et solidaire*
 
-* **Mieux informer les citoyens sur les risques de crues via le site vigies.crues.gouv.fr (VigicrUX)**<br>
+* **Mieux informer les citoyens sur les risques de crues via le site vigicrues.gouv.fr (VigicrUX)**<br>
 *Service central d’hydrométéorologie et d’appui à la prévision des inondations (SCHAPI)*<br>
 *Ministère de la Transition écologique et solidaire*
 
