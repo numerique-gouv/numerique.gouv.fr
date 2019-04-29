@@ -11,6 +11,10 @@ chapeau-text: Pour accélérer l’ouverture des décisions de justice, la missi
   le partage d’algorithmes d’intelligence artificielle qui permettent d’occulter des
   éléments identifiants, en masquant par exemple automatiquement les noms et les prénoms
   qui figurent dans les décisions de justice.
+une-ou-diaporama:
+- image: "/uploads/Logo%20Lefebvre%20Sarrut.jpg"
 redirection: https://www.etalab.gouv.fr/la-mission-etalab-et-le-groupe-lefebvre-sarrut-collaborent-accelerer-louverture-des-decisions-de-justice
 ---
 
+> https://www.etalab.gouv.fr/la-mission-etalab-et-le-groupe-lefebvre-sarrut-collaborent-accelerer-louverture-des-decisions-de-justice
+{: .lien-important}
