@@ -2,6 +2,10 @@
 title: La mission Etalab et le groupe Lefebvre-Sarrut collaborent pour accélérer l’ouverture
   des décisions de justice
 date: 2019-04-29 16:04:00 +02:00
+categories:
+- Article
+tags:
+- Etalab
 chapeau-text: Pour accélérer l’ouverture des décisions de justice, la mission Etalab
   et le groupe Lefebvre-Sarrut viennent de signer un partenariat. Ce contrat concerne
   le partage d’algorithmes d’intelligence artificielle qui permettent d’occulter des
