@@ -16,5 +16,5 @@ C’est dans cet esprit de  vigilance constructive et de dialogue qu’Emmanuel 
 
 Le rapport rendu public aujourd’hui et remis à Cédric O, secrétaire d’État chargé du Numérique, propose des pistes de réflexions et d’actions qui viendront nourrir les travaux parlementaires des prochains mois.
 
->[Rapport de la mission de régulation des réseaux sociaux.pdf](/uploads/Rapport%20de%20la%20mission%20de%20re%CC%81gulation%20des%20re%CC%81seaux%20sociaux.pdf)
+[Rapport de la mission de régulation des réseaux sociaux.pdf](/uploads/Rapport%20de%20la%20mission%20de%20re%CC%81gulation%20des%20re%CC%81seaux%20sociaux.pdf)
 {: .lien-important}
