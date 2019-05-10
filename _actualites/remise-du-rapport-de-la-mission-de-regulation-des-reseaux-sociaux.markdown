@@ -7,7 +7,7 @@ chapeau-text: "Le gouvernement souhaite lutter contre les contenus haineux sur i
   sociaux : agir en France avec une ambition européenne\" à Cédric O, secrétaire d’État
   chargé du Numérique. \n\n"
 une-ou-diaporama:
-- image: "/uploads/Visuel_haine_en_ligne-99cd8a.jpg"
+- image: "/uploads/Haine%20en%20ligne.jpg"
 ---
 
 La problématique de la haine en ligne est devenue insupportable pour nos citoyens. Cette situation pose une triple responsabilité : celle des auteurs des contenus qui doivent assumer leurs propos, celle des réseaux sociaux qui, en toute transparence, doivent proposer une organisation susceptible de bannir la haine en ligne et celle des États qui doivent fixer des règles pour les auteurs, pour les réseaux sociaux et assurer qu’elles soient respectées. 
