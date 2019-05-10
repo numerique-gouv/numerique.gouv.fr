@@ -1,7 +1,6 @@
 ---
 title: Remise du rapport de la mission de régulation des réseaux sociaux
 date: 2019-05-10 12:47:00 +02:00
-published: false
 chapeau-text: "Le gouvernement souhaite lutter contre les contenus haineux sur internet.
   Un an après son lancement, la mission de régulation des réseaux sociaux a remis
   ce jour son rapport \"Créer un cadre français de responsabilisation des réseaux
