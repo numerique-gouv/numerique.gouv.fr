@@ -1,6 +1,12 @@
 ---
 title: Remise du rapport de la mission de régulation des réseaux sociaux
 date: 2019-05-10 12:47:00 +02:00
+categories:
+- Rapport
+tags:
+- Régulation
+- Réseaux sociaux
+- Contenus haineux
 chapeau-text: "Le gouvernement souhaite lutter contre les contenus haineux sur internet.
   Un an après son lancement, la mission de régulation des réseaux sociaux a remis
   ce jour son rapport \"Créer un cadre français de responsabilisation des réseaux
@@ -16,5 +22,5 @@ C’est dans cet esprit de  vigilance constructive et de dialogue qu’Emmanuel 
 
 Le rapport rendu public aujourd’hui et remis à Cédric O, secrétaire d’État chargé du Numérique, propose des pistes de réflexions et d’actions qui viendront nourrir les travaux parlementaires des prochains mois.
 
-> [Rapport de la mission de régulation des réseaux sociaux.pdf](/uploads/Rapport%20de%20la%20mission%20de%20re%CC%81gulation%20des%20re%CC%81seaux%20sociaux.pdf)
+> [Téléchargez le rapport « Créer un cadre français de responsabilisation des réseaux sociaux : agir en France avec une ambition européenne » (pdf - 4 Mo)](/uploads/rapport-mission-regulation-reseaux-sociaux.pdf)
 {: .lien-important}
