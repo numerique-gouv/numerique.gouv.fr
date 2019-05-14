@@ -14,7 +14,7 @@ lieu: Forum de Grenelle
 adresse: 5 Rue de la Croix Nivert , 75015 Paris
 champs_informations:
 - intitule: 'Horaires : '
-  contenu: '18:00 - 21:00 '
+  contenu: '18h00 - 21h00 '
   lien: 
 - intitule: Modalités
   contenu: 'Inscription en ligne '
