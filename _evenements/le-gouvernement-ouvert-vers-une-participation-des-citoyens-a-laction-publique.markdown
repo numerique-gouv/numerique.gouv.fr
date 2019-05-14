@@ -3,7 +3,7 @@ title: 'Le gouvernement ouvert : vers une participation des citoyens à l''actio
   ?'
 date: 2019-05-14 10:10:00 +02:00
 categories:
-- conference
+- Conférence
 chapeau-text: La DINSIC participe le 23 mai prochain à une conférence organisée par
   Expertise France sur la thématique du gouvernement ouvert. Venez nombreux !
 categorie: conference
