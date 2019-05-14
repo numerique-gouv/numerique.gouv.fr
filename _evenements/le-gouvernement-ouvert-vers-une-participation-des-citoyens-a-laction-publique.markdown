@@ -11,7 +11,7 @@ une-ou-diaporama:
 - image: "/uploads/microphone-704255_1920.jpg"
 event_start_date: 2019-05-23 00:00:00 +02:00
 lieu: Forum de Grenelle
-adresse: 5 Rue de la Croix Nivert , 75015 Paris
+adresse: 5 rue de la Croix Nivert , 75015 Paris
 champs_informations:
 - intitule: 'Horaires : '
   contenu: '18h00 - 21h00 '
