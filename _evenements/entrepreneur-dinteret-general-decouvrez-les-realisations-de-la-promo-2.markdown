@@ -21,6 +21,9 @@ champs_informations:
 - intitule: 'Modalités : '
   contenu: Inscription gratuite nominative
   lien: https://www.eventbrite.fr/e/billets-entrepreneure-dinteret-general-decouvrez-les-realisations-de-la-promo-2-51705495529
+- intitule: 
+  contenu: 
+  lien: 
 ---
 
 Alors que la promotion touche à sa fin, il est temps de se pencher sur les réalisations de ces **28 data scientists, développeur•es et designers et des agents publics qui les ont accueillis dans leurs services pendant 10 mois.**
