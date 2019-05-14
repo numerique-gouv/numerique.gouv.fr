@@ -7,6 +7,8 @@ categories:
 chapeau-text: La DINSIC participe le 23 mai prochain à une conférence organisée par
   Expertise France sur la thématique du gouvernement ouvert. Venez nombreux !
 categorie: conference
+une-ou-diaporama:
+- image: "/uploads/microphone-704255_1920.jpg"
 event_start_date: 2019-05-23 00:00:00 +02:00
 lieu: Forum de Grenelle
 adresse: 5 Rue de la Croix Nivert , 75015 Paris
