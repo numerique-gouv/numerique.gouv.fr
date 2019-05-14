@@ -29,7 +29,7 @@ Depuis 2011, de nombreux pays sont engagés dans le Partenariat pour un gouverne
 <br><br>
 Dans cette dynamique, [Expertise France](https://www.expertisefrance.fr/){:target="blank"}, l’agence publique française de coopération technique internationale, développe le projet [#PAGOF ](https://www.expertisefrance.fr/fiche-projet?id=706416){:target="blank"}en partenariat avec [CFI](https://www.cfi.fr/fr){:target="blank"} en Côte d’Ivoire, en Tunisie et au Burkina Faso pour renforcer à la fois les administrations et les gouvernements – à travers des formations et procédures pour plus d’ouverture et de transparence – ainsi que la société civile et médias pour une bonne compréhension des informations diffusées.
 <br> <br>
-#### Dans quelle mesure le développement des gouvernements ouverts permet-il de garantir une participation citoyenne efficace ?**
+#### Dans quelle mesure le développement des gouvernements ouverts permet-il de garantir une participation citoyenne efficace ?
 
 **Pour répondre à cette question, Expertise France organise le 23 mai une conférence à laquelle participe la DINSIC. Intervenants :**
 <br>
