@@ -16,6 +16,9 @@ champs_informations:
 - intitule: Modalités
   contenu: 'Inscription en ligne '
   lien: https://bit.ly/2v75crQ
+- intitule: 'Horaires : '
+  contenu: '18:00 - 21:00 '
+  lien: 
 ---
 
 Le grand débat national en France, la déclaration des revenus des hommes politiques, l’accès aux services publiques en ligne ou encore le taux de présence des députés dans l’hémicycle sont autant de données mises à disposition des citoyens dans une logique de gouvernement ouvert et de suivi de l’action publique. 

@@ -21,8 +21,8 @@ champs_informations:
 - intitule: 'Modalités : '
   contenu: Inscription gratuite nominative
   lien: https://www.eventbrite.fr/e/billets-entrepreneure-dinteret-general-decouvrez-les-realisations-de-la-promo-2-51705495529
-- intitule: 'Horaires : '
-  contenu: '18:00 - 21:00 '
+- intitule: 
+  contenu: 
   lien: 
 ---
 
