@@ -38,5 +38,5 @@ Dans cette dynamique, [Expertise France](https://www.expertisefrance.fr/){:targe
 * Sandra Chakroun, membre de l’association « [Les cahiers de la Liberté ](https://www.cahiersdelaliberte.org/){:target="blank"}», experte du projet #PAGOF pour la Tunisie
 * Charlotte Denise-Adam, analyste en politiques publiques/ direction de la gouvernance publique, [OCDE](https://www.oecd.org/fr/){:target="blank"}
 * Jacques Follorou, journaliste d’investigation, [Le Monde ](https://www.lemonde.fr/){:target="blank"}
-<br><br>
+
 La modération est assurée par Olivier Lechien, responsable du pôle Genre, droits et modernisation de l'Etat d’Expertise France.
