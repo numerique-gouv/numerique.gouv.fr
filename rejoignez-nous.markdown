@@ -9,4 +9,11 @@ layout: page-annexe
 
 Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://www.place-emploi-public.gouv.fr/){:target="_blank"}.
 
-Actuellement (dernière mise à jour le 14 mai 2019) :
+**Nos offres d'emploi actuelles **(dernière mise à jour le 15 mai 2019) **:**
+* **Chargé.e de mission « Transformation numérique de l'État »**
+Paris
+Catégorie A
+
+* **Chef du pôle « Qualité des services numériques »**
+Paris
+Catégorie A
