@@ -33,9 +33,9 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
-* [Développeur/développeuse web full-stack ](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeuse-ou-developpeur-web-full-stack-reference-2019-195465 "Développeur/développeuse web full-stack - Nouvelle fenêtre"){:target="_blank"}
+* [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'état**](Chargé(e) d'hypervision réseau / sécurité du réseau interministériel de l'etat "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'état - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
-<br>Catégorie A
+<br>Catégorie B
 
 
 
