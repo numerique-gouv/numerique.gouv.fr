@@ -57,7 +57,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
-* [**Chargé/chargée de déploiement transport.data.gouv.fr – incubateur de services numériques**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-deploiement-transportdatagouvfr--incubateur-de-services-numeriques-reference-2019-167746)
+* [**UX designer**](https://www.place-emploi-public.gouv.fr/offre-emploi/ux-designer-reference-2019-167742)
 <br>Paris
 <br>Catégorie A
 
