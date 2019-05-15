@@ -28,3 +28,18 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 * [**Juriste en droit du numérique**](https://www.place-emploi-public.gouv.fr/offre-emploi/juriste-en-droit-du-numerique-fh-reference-2019-195469 "Juriste en droit du numérique - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
+
+* [**Développeur/développeuse web full-stack**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeuse-ou-developpeur-web-full-stack-reference-2019-195465 "Développeur/développeuse web full-stack - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie A
+
+* [Développeur/développeuse web full-stack ](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeuse-ou-developpeur-web-full-stack-reference-2019-195465 "Développeur/développeuse web full-stack - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie A
+
+
+
+
+
+
+
