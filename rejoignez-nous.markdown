@@ -33,9 +33,15 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
+* [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'état**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau--securite-du-reseau-interministeriel-de-l-etat-reference-2019-194152 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'état - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie B
+
 * [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'état**](Chargé(e) d'hypervision réseau / sécurité du réseau interministériel de l'etat "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'état - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie B
+
+
 
 
 
