@@ -1,6 +1,8 @@
 ---
 title: Découvrez le socle interministériel des logiciels libres (SILL) 2019
 date: 2019-05-15 11:16:00 +02:00
+categories:
+- Publication
 chapeau-text: 'Le socle interministériel des logiciels libres (SILL) 2019 a été publié
   le 7 mai 2019. Ce catalogue de référence des logiciels libres recommandés par l’État
   est le fruit d’une collaboration entre la communauté d’agents publics informaticiens
