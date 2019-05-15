@@ -20,7 +20,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 ### Nos offres d'emploi actuellement disponibles :
 {: .margin-bottom-0} 
 *(dernière mise à jour le 15 mai 2019)*
-<br>
+
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission--transformation-numerique-de-l-etat--reference-2019-198613 "Chargé.e de mission « Transformation numérique de l'État » - Nouvelle fenêtre"){:target="_blank"}
@@ -40,6 +40,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Apprentissage
 <br>
 <br>
+
 #### **Développement**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Développeur/développeuse web full-stack**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeuse-ou-developpeur-web-full-stack-reference-2019-195465 "Développeur/développeuse web full-stack - Nouvelle fenêtre"){:target="_blank"}
@@ -51,13 +52,14 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Catégorie A
 <br>
 <br>
+
 #### **UX design**
 {: .margin-top-4 .margin-bottom-1} 
 * [**UX designer**](https://www.place-emploi-public.gouv.fr/offre-emploi/ux-designer-reference-2019-167742 "UX designer - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 <br>
-<br>
+
 #### **Animation/gestion de projet numérique**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/chargée de déploiement transport.data.gouv.fr – incubateur de services numériques**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-deploiement-transportdatagouvfr--incubateur-de-services-numeriques-reference-2019-167746 "Chargé/chargée de déploiement transport.data.gouv.fr – incubateur de services numériques - Nouvelle fenêtre"){:target="_blank"}
