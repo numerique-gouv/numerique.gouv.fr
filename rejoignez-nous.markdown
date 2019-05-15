@@ -9,7 +9,7 @@ layout: page-annexe
 
 Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://www.place-emploi-public.gouv.fr/){:target="_blank"}.
 
-### Nos offres d'emploi actuellement disponibles
+### Nos offres d'emploi actuellement disponibles :
 {: .margin-top-2 .margin-bottom-0} 
 *(dernière mise à jour le 15 mai 2019)*
 <br>
