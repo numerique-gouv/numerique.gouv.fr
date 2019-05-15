@@ -15,7 +15,8 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>
 #### Catégories A et B
 {: .margin-top-4 .margin-bottom-1} 
-**Transformation numérique**
+#### **Transformation numérique**
+{: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission--transformation-numerique-de-l-etat--reference-2019-198613 "Chargé.e de mission « Transformation numérique de l'État » - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
@@ -24,12 +25,22 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
+* [**Apprenti/apprentie chef/cheffe de projet Qualité web**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-qualite-web-reference-2019-195458 "Apprenti/e chef/cheffe de projet Qualité web - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Apprentissage
+
 **Développement**
 * [**Développeur/développeuse web full-stack**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeuse-ou-developpeur-web-full-stack-reference-2019-195465 "Développeur/développeuse web full-stack - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
 * [**Développeur/développeuse fullstack NodeJS « FranceConnect »**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeur-fullstack-nodejs--franceconnect--fh-reference-2019-180298 "Développeur fullstack NodeJS FranceConnect - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie A
+
+
+**UX design**
+* [**UX designer**](https://www.place-emploi-public.gouv.fr/offre-emploi/ux-designer-reference-2019-167742 "UX designer - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
@@ -50,12 +61,6 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Catégorie B
 
 * [**Responsable exploitation « FranceConnect »**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-exploitation--franceconnect--fh-reference-2019-180307 "Responsable exploitation FranceConnect - Nouvelle fenêtre"){:target="_blank"}
-<br>Paris
-<br>Catégorie A
-
-
-**UX design**
-* [**UX designer**](https://www.place-emploi-public.gouv.fr/offre-emploi/ux-designer-reference-2019-167742 "UX designer - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
@@ -84,13 +89,14 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### Apprentissage
 {: .margin-top-4 .margin-bottom-1} 
-* [**Apprenti/apprentie chef/cheffe de projet Qualité web**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-qualite-web-reference-2019-195458 "Apprenti/e chef/cheffe de projet Qualité web - Nouvelle fenêtre"){:target="_blank"}
-<br>Paris
+
 
 * [**Apprenti/apprentie « Performance économique et gouvernance »**](https://www.place-emploi-public.gouv.fr/offre-emploi/apprenti--performance-economique-et-gouvernance--fh-reference-2019-195467 "Apprenti/apprentie « Performance économique et gouvernance » - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
-<br>Type de contrat : apprentissage
+<br>Apprentissage
 
+#### Communication
+{: .margin-top-4 .margin-bottom-1} 
 * [**Apprenti/apprentie chargé/chargée de communication**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargechargee-de-communication-en-apprentissage-reference-2019-195462 "Apprenti/apprentie chargé/chargée de communication - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
-<br>Type de contrat : apprentissage
+<br>Apprentissage
