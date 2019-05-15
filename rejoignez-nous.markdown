@@ -13,13 +13,15 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 {: .margin-top-2 .margin-bottom-0} 
 *(dernière mise à jour le 15 mai 2019)*
 <br>
-#### Catégories A et B
-{: .margin-top-2 .margin-bottom-1} 
 * [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission--transformation-numerique-de-l-etat--reference-2019-198613 "Chargé.e de mission « Transformation numérique de l'État » - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
 * [**Chef/cheffe du pôle « Qualité des services numériques »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-du-pole---qualite-des-services-numeriques--fh-reference-2019-198156 "Chef du pôle « Qualité des services numériques » - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie A
+
+* [**Apprenti/apprentie chef/cheffe de projet Qualité web**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-qualite-web-reference-2019-195458 "Apprenti/e chef/cheffe de projet Qualité web - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
@@ -51,41 +53,36 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
-* [**Chargé/chargée de déploiement transport.data.gouv.fr – incubateur de services numériques**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-deploiement-transportdatagouvfr--incubateur-de-services-numeriques-reference-2019-167746 "Chargé/chargée de déploiement transport.data.gouv.fr – incubateur de services numériques - Nouvelle fenêtre"){:target="_blank"}
+* [**Chargé/chargée de déploiement transport.data.gouv.fr – incubateur de services numériques**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-deploiement-transportdatagouvfr--incubateur-de-services-numeriques-reference-2019-167746){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
-* [**UX designer**](https://www.place-emploi-public.gouv.fr/offre-emploi/ux-designer-reference-2019-167742 "UX designer - Nouvelle fenêtre"){:target="_blank"}
+* [**UX designer**](https://www.place-emploi-public.gouv.fr/offre-emploi/ux-designer-reference-2019-167742){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
-* [**Data policy officer / adjoint/adjointe au chef du pôle juridique**](https://www.place-emploi-public.gouv.fr/offre-emploi/data-policy-officeradjoint-au-chef-du-ple-juridique-fh-reference-2019-195474 "Data policy officer / adjoint/adjointe au chef du pôle juridique - Nouvelle fenêtre"){:target="_blank"}
+* [**Data policy officer / adjoint/adjointe au chef du pôle juridique**](https://www.place-emploi-public.gouv.fr/offre-emploi/data-policy-officeradjoint-au-chef-du-ple-juridique-fh-reference-2019-195474){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
-* [**Chef/cheffe de pôle Ressources humaines**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-pole-ressources-humaines-reference-2019-196876 "Chef/cheffe de pôle Ressources humaines - Nouvelle fenêtre"){:target="_blank"}
+* [**Stagiaire auprès du Pôle Juridique à Etalab**](https://www.place-emploi-public.gouv.fr/offre-emploi/stagiaire-aupres-du-pole-juridique-a-etalab-reference-2019-191971){:target="_blank"}
+<br>Paris
+
+* [**Chef/cheffe de pôle Ressources humaines**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-pole-ressources-humaines-reference-2019-196876){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
-* [**Chargé/chargée de mission RH SIC**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-chargee--de-mission-rh-sic-reference-2019-195454 "Chargé/chargée de mission RH SIC - Nouvelle fenêtre"){:target="_blank"}
+* [**Chargé/chargée de mission RH SIC**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-chargee--de-mission-rh-sic-reference-2019-195454){:target="_blank"}
 <br>Paris
 
-
-#### Apprentissage
-{: .margin-top-2 .margin-bottom-1} 
-* [**Apprenti/apprentie chef/cheffe de projet Qualité web**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-qualite-web-reference-2019-195458 "Apprenti/e chef/cheffe de projet Qualité web - Nouvelle fenêtre"){:target="_blank"}
-<br>Paris
-<br>Catégorie A
-
-* [**Apprenti/apprentie « Performance économique et gouvernance »**](https://www.place-emploi-public.gouv.fr/offre-emploi/apprenti--performance-economique-et-gouvernance--fh-reference-2019-195467 "Apprenti/apprentie « performance économique et gouvernance » - Nouvelle fenêtre"){:target="_blank"}
+* [**Apprenti/apprentie « performance économique et gouvernance »**](https://www.place-emploi-public.gouv.fr/offre-emploi/apprenti--performance-economique-et-gouvernance--fh-reference-2019-195467){:target="_blank"}
 <br>Paris
 
-* [**Apprenti/apprentie chargé/chargée de communication**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargechargee-de-communication-en-apprentissage-reference-2019-195462 "Apprenti/apprentie chargé/chargée de communication - Nouvelle fenêtre"){:target="_blank"}
+* [**Apprenti/apprentie chargé/chargée de communication**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargechargee-de-communication-en-apprentissage-reference-2019-195462){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
-#### Stages
-{: .margin-top-2 .margin-bottom-1} 
-* [**Stagiaire auprès du Pôle Juridique à Etalab**](https://www.place-emploi-public.gouv.fr/offre-emploi/stagiaire-aupres-du-pole-juridique-a-etalab-reference-2019-191971 "Stagiaire auprès du Pôle Juridique à Etalab - Nouvelle fenêtre"){:target="_blank"}
-<br>Paris
+
+
+
 
