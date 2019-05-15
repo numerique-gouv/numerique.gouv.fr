@@ -5,7 +5,7 @@ permalink: "/rejoignez-nous/"
 layout: page-annexe
 ---
 
-**Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous !**
+**Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINSIC !**
 
 Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://www.place-emploi-public.gouv.fr/){:target="_blank"}.
 
