@@ -45,6 +45,11 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
+* [**Développeur fullstack nodejs « FranceConnect »**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeur-fullstack-nodejs--franceconnect--fh-reference-2019-180298 "Développeur fullstack nodejs FranceConnect - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie A
+
+
 
 
 
