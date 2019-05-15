@@ -41,6 +41,10 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
+* [**Responsable exploitation « FranceConnect »**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-exploitation--franceconnect--fh-reference-2019-180307 "Responsable exploitation FranceConnect - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie A
+
 
 
 
