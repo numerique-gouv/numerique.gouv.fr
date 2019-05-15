@@ -2,7 +2,6 @@
 title: Rejoignez-nous
 date: 2019-05-14 14:59:00 +02:00
 permalink: "/rejoignez-nous/"
-published: false
 layout: page-annexe
 ---
 
@@ -14,7 +13,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 {: .margin-top-2 .margin-bottom-0} 
 *(dernière mise à jour le 15 mai 2019)*
 <br>
-* [**Chargé.e de mission « Transformation numérique de l'État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission--transformation-numerique-de-l-etat--reference-2019-198613 "Chargé.e de mission « Transformation numérique de l'État » - Nouvelle fenêtre"){:target="_blank"}
+* [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission--transformation-numerique-de-l-etat--reference-2019-198613 "Chargé.e de mission « Transformation numérique de l'État » - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
@@ -22,6 +21,10 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
-* [**Apprenti/e chef/cheffe de projet Qualité web**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-qualite-web-reference-2019-195458 "Apprenti/e chef/cheffe de projet Qualité web - Nouvelle fenêtre"){:target="_blank"}
+* [**Apprenti/apprentie chef/cheffe de projet Qualité web**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-qualite-web-reference-2019-195458 "Apprenti/e chef/cheffe de projet Qualité web - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie A
+
+* [**Juriste en droit du numérique**](https://www.place-emploi-public.gouv.fr/offre-emploi/juriste-en-droit-du-numerique-fh-reference-2019-195469 "Juriste en droit du numérique - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
