@@ -1,12 +1,22 @@
 ---
 title: Rejoignez-nous
 date: 2019-05-14 14:59:00 +02:00
-layout: page-annexe
 permalink: "/rejoignez-nous/"
+layout: page-annexe
 ---
 
 **Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous !**
 
 Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://www.place-emploi-public.gouv.fr/){:target="_blank"}.
 
-Actuellement (dernière mise à jour le 14 mai 2019) :
+### Nos offres d'emploi actuellement disponibles :
+{: .margin-top-2 .margin-bottom-0} 
+*(dernière mise à jour le 15 mai 2019)*
+<br>
+* [**Chargé.e de mission « Transformation numérique de l'État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission--transformation-numerique-de-l-etat--reference-2019-198613 "Chargé.e de mission « Transformation numérique de l'État » - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie A
+
+* [**Chef du pôle « Qualité des services numériques »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-du-pole---qualite-des-services-numeriques--fh-reference-2019-198156 "Chef du pôle « Qualité des services numériques » - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie A
