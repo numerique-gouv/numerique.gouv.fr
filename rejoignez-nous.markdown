@@ -75,6 +75,10 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 * [**Chargé/chargée de mission RH SIC**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-chargee--de-mission-rh-sic-reference-2019-195454){:target="_blank"}
 <br>Paris
 
+* [**Apprenti/apprentie « performance économique et gouvernance »**](https://www.place-emploi-public.gouv.fr/offre-emploi/apprenti--performance-economique-et-gouvernance--fh-reference-2019-195467){:target="_blank"}
+<br>Paris
+<br>Catégorie A
+
 
 
 
