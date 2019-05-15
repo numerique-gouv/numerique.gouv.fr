@@ -1,8 +1,8 @@
 ---
 title: Rejoignez-nous
 date: 2019-05-14 14:59:00 +02:00
-layout: page-annexe
 permalink: "/rejoignez-nous/"
+layout: page-annexe
 ---
 
 **Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous !**
