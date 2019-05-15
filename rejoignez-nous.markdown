@@ -10,14 +10,14 @@ layout: page-annexe
 Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://www.place-emploi-public.gouv.fr/){:target="_blank"}.
 
 ### Comment postuler ?
-{: .margin-top-4 .margin-bottom-1} 
+{: .margin-top-5 .margin-bottom-1} 
 1. **Repérez** l'offre d'emploi qui vous intéresse ci-dessous
 2. **Rendez-vous sur sa page** de présentation sur place-emploi-public.gouv.fr, en cliquant sur l'intitulé du poste
 3. Depuis cette page de présentation, **cliquez sur le bouton Postuler**
 4. **Créez votre espace candidat ou connectez-vous**, et suivez les étapes !
 
 ### Nos offres d'emploi actuellement disponibles :
-{: .margin-top-2 .margin-bottom-0} 
+{: .margin-top-5 .margin-bottom-0} 
 *(dernière mise à jour le 15 mai 2019)*
 <br>
 #### **Transformation numérique**
@@ -37,7 +37,8 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 * [**Apprenti/apprentie « Performance économique et gouvernance »**](https://www.place-emploi-public.gouv.fr/offre-emploi/apprenti--performance-economique-et-gouvernance--fh-reference-2019-195467 "Apprenti/apprentie « Performance économique et gouvernance » - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Apprentissage
-
+<br>
+<br>
 #### **Développement**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Développeur/développeuse web full-stack**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeuse-ou-developpeur-web-full-stack-reference-2019-195465 "Développeur/développeuse web full-stack - Nouvelle fenêtre"){:target="_blank"}
@@ -47,14 +48,14 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 * [**Développeur/développeuse fullstack NodeJS « FranceConnect »**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeur-fullstack-nodejs--franceconnect--fh-reference-2019-180298 "Développeur fullstack NodeJS FranceConnect - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
-
-
+<br>
+<br>
 #### **UX design**
 {: .margin-top-4 .margin-bottom-1} 
 * [**UX designer**](https://www.place-emploi-public.gouv.fr/offre-emploi/ux-designer-reference-2019-167742 "UX designer - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
-
+<br>
 
 #### **Animation/gestion de projet numérique**
 {: .margin-top-4 .margin-bottom-1} 
