@@ -34,6 +34,12 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Catégorie A
 
 
+**Animation/gestion de projet numérique**
+* [**Chargé/chargée de déploiement transport.data.gouv.fr – incubateur de services numériques**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-deploiement-transportdatagouvfr--incubateur-de-services-numeriques-reference-2019-167746 "Chargé/chargée de déploiement transport.data.gouv.fr – incubateur de services numériques - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie A
+
+
 **Réseau/Infrastructure/Sécurité**
 * [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau--securite-du-reseau-interministeriel-de-l-etat-reference-2019-194149 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'état - Nouvelle fenêtre"){:target="_blank"}
 <br>Rennes
@@ -44,11 +50,6 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Catégorie B
 
 * [**Responsable exploitation « FranceConnect »**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-exploitation--franceconnect--fh-reference-2019-180307 "Responsable exploitation FranceConnect - Nouvelle fenêtre"){:target="_blank"}
-<br>Paris
-<br>Catégorie A
-
-**Animation/gestion de projet numérique**
-* [**Chargé/chargée de déploiement transport.data.gouv.fr – incubateur de services numériques**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-deploiement-transportdatagouvfr--incubateur-de-services-numeriques-reference-2019-167746 "Chargé/chargée de déploiement transport.data.gouv.fr – incubateur de services numériques - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
