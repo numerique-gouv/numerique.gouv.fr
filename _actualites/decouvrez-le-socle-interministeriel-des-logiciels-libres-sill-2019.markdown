@@ -15,6 +15,6 @@ Co-construit par des communautés d’agents publics informaticiens de l’État
 
 Parmi les nouveautés, on notera l’arrivée de la plateforme d’orchestration de conteneurs [kubernetes](https://kubernetes.io/){:target="_blank"} et de l’outil d’anonymisation [ARX](https://arx.deidentifier.org/){:target="_blank"}, ainsi que du navigateur Web [Chromium](https://fr.wikipedia.org/wiki/Chromium){:target="_blank"}, de l’outil de vidéoconférence [Jitsi](https://jitsi.org/){:target="_blank"} ou encore [d’OBS Studio](https://obsproject.com/fr){:target="_blank"}, un outil de captation et de diffusion de flux vidéos en direct. Autre nouveauté, il est disponible sous forme de [page web](https://disic.github.io/sill/2019/){:target="_blank"}, de [fichier csv](https://disic.github.io/sill/2019/sill-2019.csv){:target="_blank"} et de [PDF](https://disic.github.io/sill/2019/sill-2019.pdf){:target="_blank"}.
 
-> Télécharger le socle interministériel des logiciels libres (SILL) 2019 
+> [Télécharger le socle interministériel des logiciels libres (SILL) 2019 ](https://www.mim-libre.fr/wp-content/uploads/2019/05/sill-2019-pub.pdf){:target="_blank"} 
 {: .lien-important}
 
