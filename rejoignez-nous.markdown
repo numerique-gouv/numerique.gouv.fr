@@ -24,11 +24,11 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission--transformation-numerique-de-l-etat--reference-2019-198613 "Chargé.e de mission « Transformation numérique de l'État » - Nouvelle fenêtre"){:target="_blank"}
+* [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission--transformation-numerique-de-l-etat--reference-2019-198613 "Chargé/chargée de mission « Transformation numérique de l'État » - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
-* [**Chef/cheffe du pôle « Qualité des services numériques »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-du-pole---qualite-des-services-numeriques--fh-reference-2019-198156 "Chef du pôle « Qualité des services numériques » - Nouvelle fenêtre"){:target="_blank"}
+* [**Chef/cheffe du pôle « Qualité des services numériques »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-du-pole---qualite-des-services-numeriques--fh-reference-2019-198156 "Chef/cheffe du pôle « Qualité des services numériques » - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
