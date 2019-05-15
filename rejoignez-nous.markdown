@@ -78,7 +78,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 * [**Apprenti/apprentie « performance économique et gouvernance »**](https://www.place-emploi-public.gouv.fr/offre-emploi/apprenti--performance-economique-et-gouvernance--fh-reference-2019-195467){:target="_blank"}
 <br>Paris
 
-* [**Chargé/chargée de communication apprentissage**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargechargee-de-communication-en-apprentissage-reference-2019-195462){:target="_blank"}
+* [**Apprenti/apprentie chargé/chargée de communication**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargechargee-de-communication-en-apprentissage-reference-2019-195462){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
