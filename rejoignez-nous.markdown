@@ -17,6 +17,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 4. **Créez votre espace candidat ou connectez-vous**, et suivez les étapes !
 <br>
 <br>
+
 ### Nos offres d'emploi actuellement disponibles :
 {: .margin-bottom-0} 
 *(dernière mise à jour le 15 mai 2019)*
@@ -59,6 +60,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 <br>
+<br>
 
 #### **Animation/gestion de projet numérique**
 {: .margin-top-4 .margin-bottom-1} 
@@ -67,6 +69,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Catégorie A
 <br>
 <br>
+
 #### **Réseau/Infrastructure/Sécurité**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau--securite-du-reseau-interministeriel-de-l-etat-reference-2019-194149 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'état - Nouvelle fenêtre"){:target="_blank"}
@@ -82,6 +85,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Catégorie A
 <br>
 <br>
+
 #### **Droit**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Data policy officer / adjoint/adjointe au chef du pôle juridique**](https://www.place-emploi-public.gouv.fr/offre-emploi/data-policy-officeradjoint-au-chef-du-ple-juridique-fh-reference-2019-195474 "Data policy officer / adjoint/adjointe au chef du pôle juridique - Nouvelle fenêtre"){:target="_blank"}
@@ -95,6 +99,8 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 * [**Stagiaire auprès du Pôle juridique au sein d'Etalab**](https://www.place-emploi-public.gouv.fr/offre-emploi/stagiaire-aupres-du-pole-juridique-a-etalab-reference-2019-191971 "Stagiaire auprès du Pôle Juridique à Etalab - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Stage
+<br>
+<br>
 
 #### **Ressources humaines**
 {: .margin-top-4 .margin-bottom-1} 
@@ -106,6 +112,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>
 <br>
+
 #### **Communication**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Apprenti/apprentie chargé/chargée de communication**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargechargee-de-communication-en-apprentissage-reference-2019-195462 "Apprenti/apprentie chargé/chargée de communication - Nouvelle fenêtre"){:target="_blank"}
