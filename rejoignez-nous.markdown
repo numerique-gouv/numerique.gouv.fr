@@ -15,6 +15,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>
 #### Catégories A et B
 {: .margin-top-2 .margin-bottom-1} 
+**Transformation numérique**
 * [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission--transformation-numerique-de-l-etat--reference-2019-198613 "Chargé.e de mission « Transformation numérique de l'État » - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
@@ -28,7 +29,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
-* [**Développeur/développeuse fullstack nodejs « FranceConnect »**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeur-fullstack-nodejs--franceconnect--fh-reference-2019-180298 "Développeur fullstack nodejs FranceConnect - Nouvelle fenêtre"){:target="_blank"}
+* [**Développeur/développeuse fullstack NodeJS « FranceConnect »**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeur-fullstack-nodejs--franceconnect--fh-reference-2019-180298 "Développeur fullstack NodeJS FranceConnect - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
