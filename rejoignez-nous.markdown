@@ -49,7 +49,17 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
+* [**Chargé/chargée de mission « sécurisation des projets »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-securisation-des-projets--reference-2019-176037 "Chargé/chargée de mission sécurisation des projets - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie A
 
+* [**Chargé/chargée de déploiement transport.data.gouv.fr – incubateur de services numériques**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-deploiement-transportdatagouvfr--incubateur-de-services-numeriques-reference-2019-167746){:target="_blank"}
+<br>Paris
+<br>Catégorie A
+
+* [**Chargé/chargée de déploiement transport.data.gouv.fr – incubateur de services numériques**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-deploiement-transportdatagouvfr--incubateur-de-services-numeriques-reference-2019-167746)
+<br>Paris
+<br>Catégorie A
 
 
 
