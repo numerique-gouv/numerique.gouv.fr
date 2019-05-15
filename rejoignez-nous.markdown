@@ -17,6 +17,10 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
-* [**Chef du pôle « Qualité des services numériques »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-du-pole---qualite-des-services-numeriques--fh-reference-2019-198156 "Chef du pôle « Qualité des services numériques » - Nouvelle fenêtre"){:target="_blank"}
+* [**Chef/cheffe du pôle « Qualité des services numériques »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-du-pole---qualite-des-services-numeriques--fh-reference-2019-198156 "Chef du pôle « Qualité des services numériques » - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie A
+
+* [**Apprenti/e chef/cheffe de projet Qualité web**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-qualite-web-reference-2019-195458 "Apprenti/e chef/cheffe de projet Qualité web - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
