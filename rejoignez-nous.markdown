@@ -15,9 +15,10 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 2. **Rendez-vous sur sa page** de présentation sur place-emploi-public.gouv.fr, en cliquant sur l'intitulé du poste
 3. Depuis cette page de présentation, **cliquez sur le bouton Postuler**
 4. **Créez votre espace candidat ou connectez-vous**, et suivez les étapes !
-
+<br>
+<br>
 ### Nos offres d'emploi actuellement disponibles :
-{: .margin-top-5 .margin-bottom-0} 
+{: .margin-bottom-0} 
 *(dernière mise à jour le 15 mai 2019)*
 <br>
 #### **Transformation numérique**
@@ -45,7 +46,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
-* [**Développeur/développeuse fullstack NodeJS « FranceConnect »**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeur-fullstack-nodejs--franceconnect--fh-reference-2019-180298 "Développeur fullstack NodeJS FranceConnect - Nouvelle fenêtre"){:target="_blank"}
+* [**Développeur/développeuse full-stack NodeJS « FranceConnect »**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeur-fullstack-nodejs--franceconnect--fh-reference-2019-180298 "Développeur fullstack NodeJS FranceConnect - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 <br>
