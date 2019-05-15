@@ -69,6 +69,10 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
+* [**Stagiaire auprès du Pôle juridique au sein d'Etalab**](https://www.place-emploi-public.gouv.fr/offre-emploi/stagiaire-aupres-du-pole-juridique-a-etalab-reference-2019-191971 "Stagiaire auprès du Pôle Juridique à Etalab - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Type de contrat : stage
+
 **Ressources humaines**
 * [**Chef/cheffe de pôle Ressources humaines**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-pole-ressources-humaines-reference-2019-196876 "Chef/cheffe de pôle Ressources humaines - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
@@ -83,13 +87,10 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 * [**Apprenti/apprentie chef/cheffe de projet Qualité web**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-qualite-web-reference-2019-195458 "Apprenti/e chef/cheffe de projet Qualité web - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 
-* [**Apprenti/apprentie « Performance économique et gouvernance »**](https://www.place-emploi-public.gouv.fr/offre-emploi/apprenti--performance-economique-et-gouvernance--fh-reference-2019-195467 "Apprenti/apprentie « performance économique et gouvernance » - Nouvelle fenêtre"){:target="_blank"}
+* [**Apprenti/apprentie « Performance économique et gouvernance »**](https://www.place-emploi-public.gouv.fr/offre-emploi/apprenti--performance-economique-et-gouvernance--fh-reference-2019-195467 "Apprenti/apprentie « Performance économique et gouvernance » - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
+<br>Type de contrat : apprentissage
 
 * [**Apprenti/apprentie chargé/chargée de communication**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargechargee-de-communication-en-apprentissage-reference-2019-195462 "Apprenti/apprentie chargé/chargée de communication - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
-
-#### Stages
-{: .margin-top-4 .margin-bottom-1} 
-* [**Stagiaire auprès du Pôle juridique au sein d'Etalab**](https://www.place-emploi-public.gouv.fr/offre-emploi/stagiaire-aupres-du-pole-juridique-a-etalab-reference-2019-191971 "Stagiaire auprès du Pôle Juridique à Etalab - Nouvelle fenêtre"){:target="_blank"}
-<br>Paris
+<br>Type de contrat : apprentissage
