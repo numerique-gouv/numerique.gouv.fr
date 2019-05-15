@@ -57,7 +57,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
-* [**UX designer**](https://www.place-emploi-public.gouv.fr/offre-emploi/ux-designer-reference-2019-167742)
+* [**UX designer**](https://www.place-emploi-public.gouv.fr/offre-emploi/ux-designer-reference-2019-167742){:target="_blank"}
 <br>Paris
 <br>Catégorie A
 
