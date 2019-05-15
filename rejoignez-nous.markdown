@@ -14,7 +14,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 *(dernière mise à jour le 15 mai 2019)*
 <br>
 #### Catégories A et B
-{: .margin-top-2 .margin-bottom-1} 
+{: .margin-top-4 .margin-bottom-1} 
 **Transformation numérique**
 * [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission--transformation-numerique-de-l-etat--reference-2019-198613 "Chargé.e de mission « Transformation numérique de l'État » - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
@@ -34,7 +34,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Catégorie A
 
 
-**Réseau**
+**Réseau/Infrastructure/Sécurité**
 * [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau--securite-du-reseau-interministeriel-de-l-etat-reference-2019-194149 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'état - Nouvelle fenêtre"){:target="_blank"}
 <br>Rennes
 <br>Catégorie A
@@ -42,7 +42,6 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 * [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau--securite-du-reseau-interministeriel-de-l-etat-reference-2019-194152 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'état - Nouvelle fenêtre"){:target="_blank"}
 <br>Rennes
 <br>Catégorie B
-
 
 * [**Responsable exploitation « FranceConnect »**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-exploitation--franceconnect--fh-reference-2019-180307 "Responsable exploitation FranceConnect - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
@@ -83,7 +82,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 
 #### Apprentissage
-{: .margin-top-2 .margin-bottom-1} 
+{: .margin-top-4 .margin-bottom-1} 
 * [**Apprenti/apprentie chef/cheffe de projet Qualité web**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-qualite-web-reference-2019-195458 "Apprenti/e chef/cheffe de projet Qualité web - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie A
@@ -96,6 +95,6 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Catégorie A
 
 #### Stages
-{: .margin-top-2 .margin-bottom-1} 
+{: .margin-top-4 .margin-bottom-1} 
 * [**Stagiaire auprès du Pôle Juridique à Etalab**](https://www.place-emploi-public.gouv.fr/offre-emploi/stagiaire-aupres-du-pole-juridique-a-etalab-reference-2019-191971 "Stagiaire auprès du Pôle Juridique à Etalab - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
