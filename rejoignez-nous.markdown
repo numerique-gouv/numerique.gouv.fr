@@ -61,6 +61,9 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
+* [**Data policy officer / adjoint/adjointe au chef du pôle juridique**](https://www.place-emploi-public.gouv.fr/offre-emploi/data-policy-officeradjoint-au-chef-du-ple-juridique-fh-reference-2019-195474){:target="_blank"}
+<br>Paris
+<br>Catégorie A
 
 
 
