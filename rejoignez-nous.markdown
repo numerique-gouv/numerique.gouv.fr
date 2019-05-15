@@ -96,7 +96,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Catégorie A
 
-* [**Stagiaire auprès du Pôle juridique au sein d'Etalab**](https://www.place-emploi-public.gouv.fr/offre-emploi/stagiaire-aupres-du-pole-juridique-a-etalab-reference-2019-191971 "Stagiaire auprès du Pôle Juridique à Etalab - Nouvelle fenêtre"){:target="_blank"}
+* [**Stagiaire auprès du pôle juridique au sein d'Etalab**](https://www.place-emploi-public.gouv.fr/offre-emploi/stagiaire-aupres-du-pole-juridique-a-etalab-reference-2019-191971 "Stagiaire auprès du Pôle Juridique à Etalab - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Stage
 <br>
