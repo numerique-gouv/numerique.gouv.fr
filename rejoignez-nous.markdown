@@ -38,7 +38,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Catégorie B
 
 * [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'état**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau--securite-du-reseau-interministeriel-de-l-etat-reference-2019-194149 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'état - Nouvelle fenêtre"){:target="_blank"}
-<br>Paris
+<br>Bretagne
 <br>Catégorie A
 
 * [**Responsable exploitation « FranceConnect »**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-exploitation--franceconnect--fh-reference-2019-180307 "Responsable exploitation FranceConnect - Nouvelle fenêtre"){:target="_blank"}
@@ -74,11 +74,6 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 * [**Chargé/chargée de mission RH SIC**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-chargee--de-mission-rh-sic-reference-2019-195454){:target="_blank"}
 <br>Paris
-
-* [**Apprenti/apprentie « performance économique et gouvernance »**](https://www.place-emploi-public.gouv.fr/offre-emploi/apprenti--performance-economique-et-gouvernance--fh-reference-2019-195467){:target="_blank"}
-<br>Paris
-
-
 
 * [**Apprenti/apprentie « performance économique et gouvernance »**](https://www.place-emploi-public.gouv.fr/offre-emploi/apprenti--performance-economique-et-gouvernance--fh-reference-2019-195467){:target="_blank"}
 <br>Paris
