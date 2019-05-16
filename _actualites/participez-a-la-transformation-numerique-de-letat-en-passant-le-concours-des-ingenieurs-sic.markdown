@@ -6,6 +6,8 @@ categories:
 - Brève
 tags:
 - concours
+- ingénieursSIC
+- recrutement
 chapeau-text: Vous êtes titulaire d'un bac +5 ou diplômé d'une formation équivalente
   dans le domaine des systèmes d'information et de communication ? Inscrivez-vous
   jusqu'au 13 juin au concours d'ingénieur SIC. Des postes sont répartis sur l’ensemble
