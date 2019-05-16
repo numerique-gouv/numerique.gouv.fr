@@ -16,6 +16,12 @@ une-ou-diaporama:
 - image: "/uploads/Concours-externe-d-ingenieur-des-SIC-2019_largeur_760.jpg"
 ---
 
+Vous avez le goût du service public et souhaitez mettre vos compétences au service de l'intérêt général ? Devenez ingénieur SIC au sein de l'État ! Pour cela, inscrivez-vous **avant le 13 juin** au concours dédié, piloté par le ministère de l'Intérieur (mais qui donne accès à des postes dans l'ensemble des administrations d'État).
+
+Exploitation d’infrastructure, urbanisation,
+gestion de projets, support métier, data sciences, cybersécurité, webdéveloppement et webdesign, community management… **Vous bénéficierez d'opportunités dans des domaines variés de l'IT.**
+
+
 > [Informations et inscription au concours
 ](https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Filiere-systemes-d-information-et-de-communication/Les-recrutements/Ingenieur-des-systemes-d-information-et-de-communication/Les-recrutements-ouverts/Concours-externe-d-ingenieur-des-SIC-2019 "Informations et inscription au concours"){:target="_blank"}
 {: .lien-important}
