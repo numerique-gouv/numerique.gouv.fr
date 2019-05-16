@@ -12,6 +12,6 @@ chapeau-text: Vous êtes titulaire d'un bac +5 ou diplômé d'une formation équ
   du territoire français, dans plusieurs services de l’État.
 ---
 
-> [Information et inscription au concours
+> [Informations et inscription au concours
 ](https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Filiere-systemes-d-information-et-de-communication/Les-recrutements/Ingenieur-des-systemes-d-information-et-de-communication/Les-recrutements-ouverts/Concours-externe-d-ingenieur-des-SIC-2019){:target="_blank"}
 {: .lien-important}
