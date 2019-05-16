@@ -118,3 +118,9 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 * [**Apprenti/apprentie chargé/chargée de communication**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargechargee-de-communication-en-apprentissage-reference-2019-195462 "Apprenti/apprentie chargé/chargée de communication - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Apprentissage
+
+#### **Secrétariat**
+{: .margin-top-4 .margin-bottom-1} 
+* [Assistant/assistante de direction](https://place-emploi-public.gouv.fr/offre-emploi/assistante-de-direction-fh-reference-2019-194124  "Assistant/assistante de direction - Nouvelle fenêtre"){:target="_blank"}
+<br>Paris
+<br>Catégorie B
