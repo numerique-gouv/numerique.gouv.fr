@@ -10,6 +10,8 @@ chapeau-text: Vous êtes titulaire d'un bac +5 ou diplômé d'une formation équ
   dans le domaine des systèmes d'information et de communication ? Inscrivez-vous
   jusqu'au 13 juin au concours d'ingénieur SIC. Des postes sont répartis sur l’ensemble
   du territoire français, dans plusieurs services de l’État.
+une-ou-diaporama:
+- image: "/uploads/Concours-externe-d-ingenieur-des-SIC-2019_largeur_760.jpg"
 ---
 
 > [Informations et inscription au concours
