@@ -14,8 +14,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 {: .margin-top-5 .margin-bottom-1} 
 1. **Repérez** l'offre d'emploi qui vous intéresse ci-dessous
 2. **Rendez-vous sur sa page** de présentation sur place-emploi-public.gouv.fr, en cliquant sur l'intitulé du poste
-3. Depuis cette page de présentation, **cliquez sur le bouton Postuler**
-4. **Créez votre espace candidat ou connectez-vous**, et suivez les étapes !
+3. Envoyez votre candidature par courriel à [candidatures.dinsic@modernisation.gouv.fr](mailto:candidatures.dinsic@modernisation.gouv.fr) en précisant la référence de l'offre
 <br>
 <br>
 
