@@ -8,10 +8,10 @@ tags:
 - Réseaux sociaux
 - Contenus haineux
 chapeau-text: "Le gouvernement souhaite lutter contre les contenus haineux sur internet.
-  Un an après son lancement, la mission de régulation des réseaux sociaux a remis
-  ce jour son rapport \"Créer un cadre français de responsabilisation des réseaux
-  sociaux : agir en France avec une ambition européenne\" à Cédric O, secrétaire d’État
-  chargé du Numérique. \n\n"
+  Un an après son lancement, la mission de régulation des réseaux sociaux à laquelle
+  la DINSIC a participé a remis ce jour son rapport « Créer un cadre français de responsabilisation
+  des réseaux sociaux : agir en France avec une ambition européenne » à Cédric O,
+  secrétaire d’État chargé du Numérique. \n\n"
 une-ou-diaporama:
 - image: "/uploads/Haine%20en%20ligne.jpg"
 ---
