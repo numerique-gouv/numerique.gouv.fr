@@ -20,7 +20,9 @@ La problématique de la haine en ligne est devenue insupportable pour nos citoye
 
 C’est dans cet esprit de  vigilance constructive et de dialogue qu’Emmanuel Macron, président de la République, et  Mark Zuckerberg, PDG de Facebook, ont acté le lancement  d’une mission de régulation des réseaux sociaux en mai 2018.
 
-Le rapport rendu public aujourd’hui et remis à Cédric O, secrétaire d’État chargé du Numérique, propose des pistes de réflexions et d’actions qui viendront nourrir les travaux parlementaires des prochains mois.
+Le rapport rendu public aujourd’hui et remis à Cédric O, secrétaire d’État chargé du Numérique, propose des pistes de réflexions et d’actions qui viendront nourrir les travaux parlementaires des prochains mois. 
+
+La mission a mobilisé trois rapporteurs et sept experts de haut niveau issus de ministères et d'autorités administratives indépendantes, dont Côme Berbain, directeur des technologies numériques de l'État au sein de la DINSIC.
 
 > [Téléchargez le rapport « Créer un cadre français de responsabilisation des réseaux sociaux : agir en France avec une ambition européenne » (pdf - 4 Mo)](/uploads/rapport-mission-regulation-reseaux-sociaux.pdf)
 {: .lien-important}
