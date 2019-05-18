@@ -120,6 +120,6 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### **Secrétariat**
 {: .margin-top-4 .margin-bottom-1} 
-* [Assistant/assistante de direction](https://place-emploi-public.gouv.fr/offre-emploi/assistante-de-direction-fh-reference-2019-194124  "Assistant/assistante de direction - Nouvelle fenêtre"){:target="_blank"}
+* [**Assistant/assistante de direction**](https://place-emploi-public.gouv.fr/offre-emploi/assistante-de-direction-fh-reference-2019-194124  "Assistant/assistante de direction - Nouvelle fenêtre"){:target="_blank"}
 <br>Paris
 <br>Catégorie B
