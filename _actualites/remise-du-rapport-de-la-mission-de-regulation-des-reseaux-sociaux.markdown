@@ -22,7 +22,7 @@ C’est dans cet esprit de  vigilance constructive et de dialogue qu’Emmanuel 
 
 Le rapport rendu public aujourd’hui et remis à Cédric O, secrétaire d’État chargé du Numérique, propose des pistes de réflexions et d’actions qui viendront nourrir les travaux parlementaires des prochains mois. 
 
-Lancée en mai 2018, la mission a mobilisé trois rapporteurs et sept experts de haut niveau issus de ministères et d'autorités administratives indépendantes, dont Côme Berbain, directeur des technologies numériques de l'État au sein de la DINSIC.
+Lancée en mai 2018, la mission a mobilisé trois rapporteurs et sept experts de haut niveau issus de ministères et d'autorités administratives indépendantes.
 
 > [Téléchargez le rapport « Créer un cadre français de responsabilisation des réseaux sociaux : agir en France avec une ambition européenne » (pdf - 4 Mo)](/uploads/rapport-mission-regulation-reseaux-sociaux.pdf)
 {: .lien-important}
