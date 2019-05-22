@@ -8,6 +8,7 @@ tags:
 - stratégie
 - programme
 - TECH.GOUV
+chapeau-text: test itw
 ---
 
 ### **A l’aune de ces 6 mois passés à la tête de la DINSIC, quels constats dressez-vous ?**
