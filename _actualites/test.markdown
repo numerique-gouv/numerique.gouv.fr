@@ -3,7 +3,7 @@ title: Test
 date: 2019-05-22 15:23:00 +02:00
 ---
 
-### **A l’aune de ces 6 mois passés à la tête de la DINSIC, quels constats dressez-vous ? **
+### A l’aune de ces 6 mois passés à la tête de la DINSIC, quels constats dressez-vous ?
 
 Ces quelques mois m’ont conforté dans l’idée que j’avais d’une très forte attente de clarification de l’action de l’Etat en matière de numérique, à la fois de la part de nos parties prenantes au sein des ministères, à tous les niveaux, mais également en interne à la DINSIC.
 
@@ -15,21 +15,13 @@ Dans les restitutions du Grand Débat en matière de numérique, plusieurs idée
 
 Au-delà du citoyen, un autre acteur est fondamental : l’agent public. Le numérique doit être utilisé non pas pour le remplacer mais au contraire pour mieux l’outiller, tout en repensant les méthodes managériales, et pour lui donner la possibilité d’être davantage en relation avec les citoyens et plus aidant.
 
-### **Vous venez de lancer un nouveau programme de l’Etat, TECH.GOUV, destiné justement à accélérer la transformation numérique du service public.**
-
-### **Quelles en sont les grandes orientations ?**
+### **Vous venez de lancer un nouveau programme de l’Etat, TECH.GOUV, destiné justement à accélérer la transformation numérique du service public. Quelles en sont les grandes orientations ?**
 
 Dans la lignée des attentes que j’évoquais, TECH.GOUV répond à six enjeux.
 
-Le premier, sans surprise : simplifier la vie des gens.
+Le premier, sans surprise : simplifier la vie des gens. Le deuxième enjeu consiste à réduire les fractures territoriales et administratives qui ont pu se construire au fil du temps. En troisième lieu, il s’agit de simplifier aussi le quotidien des agents, leurs méthodes de travail et de mettre en place des modes de management à jour et conformes à notre temps pour pouvoir attirer les bons profils au sein de l’Etat.
 
-Le deuxième enjeu consiste à réduire les fractures territoriales et administratives qui ont pu se construire au fil du temps.
-
-En troisième lieu, il s’agit de simplifier aussi le quotidien des agents, leurs méthodes de travail et de mettre en place des modes de management à jour et conformes à notre temps pour pouvoir attirer les bons profils au sein de l’Etat.
-
-Quatrième enjeu : améliorer l’autonomie de l’Etat en matière de numérique afin de dépendre moins des grands acteurs internationaux – éditeurs, plateformes, opérateurs – et ainsi maîtriser davantage notre destin dans le domaine.
-
-Cela, on y parviendra – c’est l’objet du cinquième enjeu – en étant capable au sein de l’Etat de constituer autour de nous un écosystème d’acteurs de confiance, des PME, des acteurs du numérique, des associations, qui vont relayer nos actions, nos projets, mais aussi construire des services au public en s’appuyant par exemple sur les données ou sur les API (interfaces de programmation) que l’on va mettre à leur disposition.
+Quatrième enjeu : améliorer l’autonomie de l’Etat en matière de numérique afin de dépendre moins des grands acteurs internationaux – éditeurs, plateformes, opérateurs – et ainsi maîtriser davantage notre destin dans le domaine. Cela, on y parviendra – c’est l’objet du cinquième enjeu – en étant capable au sein de l’Etat de constituer autour de nous un écosystème d’acteurs de confiance, des PME, des acteurs du numérique, des associations, qui vont relayer nos actions, nos projets, mais aussi construire des services au public en s’appuyant par exemple sur les données ou sur les API (interfaces de programmation) que l’on va mettre à leur disposition.
 
 Sixième et dernier enjeu, enfin, réaliser des économies et contribuer à la maîtrise des dépenses publiques.
 
