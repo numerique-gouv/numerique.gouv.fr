@@ -103,6 +103,6 @@ De manière plus générale, en matière de numérique public, la DINSIC joue à
 
 Les projets prioritaires sont dans TECH.GOUV, mais toute l’activité de la DINSIC ne se résume pas à TECH.GOUV. A côté de cela, la DINSIC continuera à promouvoir l’open data et la maîtrise des données, à opérer le réseau interministériel de l’Etat, à développer des produits, à animer les systèmes d’information territoriaux ou à contrôler les grands projets de l’Etat par exemple.
 
-### **Quelles sont les priorités pour les mois à venir ? **
+### **Quelles sont les priorités pour les mois à venir ?**
 
 Nous lançons de front tous les projets, la priorité c’est de transcrire la feuille de route sous la forme d’équipes projets à même de les cadrer, les présenter en validation, et ensuite les mettre en œuvre. Pour paraphraser le secrétaire d’Etat au numérique lors de son discours d’intronisation, je dirais : au travail !
