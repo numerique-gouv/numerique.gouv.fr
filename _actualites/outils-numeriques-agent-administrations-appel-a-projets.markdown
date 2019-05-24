@@ -7,6 +7,7 @@ tags:
 - appel à projets
 - ETNA
 - agents publics
+- PIA
 chapeau-text: 'Vous êtes une administration de l''Etat et souhaitez améliorer le quotidien
   des agents grâce aux outils numériques ? La DINSIC lance l’appel à projets : « Cas
   d’usages de l’environnement de travail numérique de l’agent », consacré à cet objectif,

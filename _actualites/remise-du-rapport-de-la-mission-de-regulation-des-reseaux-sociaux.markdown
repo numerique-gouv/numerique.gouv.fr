@@ -26,3 +26,7 @@ Lancée en mai 2018, la mission a mobilisé trois rapporteurs et sept experts de
 
 > [Téléchargez le rapport « Créer un cadre français de responsabilisation des réseaux sociaux : agir en France avec une ambition européenne » (pdf - 4 Mo)](/uploads/rapport-mission-regulation-reseaux-sociaux.pdf)
 {: .lien-important}
+
+
+> [English version - Mission report « Creating a french framework to make social media platforms more accountable: Acting in France with a European vision » (pdf - 870 ko)](/uploads/Regulation-of-social-networks_Mission-report_ENG.pdf)
+{: .lien-important}
