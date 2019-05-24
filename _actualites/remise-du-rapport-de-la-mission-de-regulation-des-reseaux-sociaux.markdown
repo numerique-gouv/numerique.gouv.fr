@@ -28,5 +28,5 @@ Lancée en mai 2018, la mission a mobilisé trois rapporteurs et sept experts de
 {: .lien-important}
 
 
-> [English version - Mission report « Creating a french framework to make social media platforms more accountable: Acting in France with a European vision » (pdf - 870 ko)]([Regulation-of-social-networks_Mission-report_ENG.pdf](/uploads/Regulation-of-social-networks_Mission-report_ENG.pdf))
+> [English version - Mission report « Creating a french framework to make social media platforms more accountable: Acting in France with a European vision » (pdf - 870 ko)](/uploads/Regulation-of-social-networks_Mission-report_ENG.pdf)
 {: .lien-important}
