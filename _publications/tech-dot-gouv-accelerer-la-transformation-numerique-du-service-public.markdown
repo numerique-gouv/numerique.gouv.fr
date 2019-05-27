@@ -3,10 +3,16 @@ title: |-
   TECH.GOUV : accélérer la transformation numérique
   du service public
 date: 2019-05-27 10:49:00 +02:00
+tags:
+- stratégie
+- transformation numérique
+- services publics numériques
+- DINSIC
 chapeau-text: L’État lance TECH.GOUV, le nouveau programme pour accélérer la transformation
   numérique du service public, piloté par la DINSIC avec l’appui de tous les ministères.
 une:
   image: "/uploads/Article_TECHGOUV.jpg"
+  alternative-textuelle: logo TECH.GOUV
 ---
 
 > **Avec TECH.GOUV, l’État se dote d’un programme ambitieux pour accélérer la transformation numérique du service public.**
