@@ -24,7 +24,7 @@ champs_informations:
   lien: https://www.eventbrite.fr/e/billets-futures-2019-58250802719?aff=ebdssbdestsearch
 ---
 
-####Notre stand
+#### Notre stand
 Sur le stand situé dans le salon Villes durables, venez découvrir les outils numériques innovants crées par la DINSIC dont, FranceConnect et les startups d’États A+ ou mes-aides.gouv. Vous pourrez également rencontrez nos agents afin de discuter des différentes voies possibles pour rejoindre la filière NSIC de l’État. 
 
 **Au menu de votre visite :** 
@@ -33,7 +33,7 @@ Sur le stand situé dans le salon Villes durables, venez découvrir les outils n
 * rencontrez des **entrepreneurs d’intérêt général** qui vous en diront plus sur les défis qu’ils relèvent dans leurs administrations ;
 * et renseignez-vous sur les nombreuses opportunités de recrutements dans la **filière numérique** au sein de l’État. 
 
-####La Masterclasse
+#### La Masterclasse
 **Le 14 juin de 13h15 à 13h45 :**
 **« Numérique rime aussi avec Fonction publique : l’État recrute ! »** : *« L’Etat opère sa révolution numérique pour transformer le service rendu aux citoyens et aux agents. Une des conditions sine qua non à cette mutation : attirer de nouveaux talents (développeur, designer, scrum master, administrateur système, analyste en détection d’intrusion…). »*
  
