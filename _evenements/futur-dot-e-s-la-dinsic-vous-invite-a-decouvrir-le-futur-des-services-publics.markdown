@@ -1,6 +1,8 @@
 ---
 title: 'Futur.e.s : la DINSIC vous invite à découvrir le futur des services publics'
 date: 2019-05-31 13:31:00 +02:00
+categories:
+- Actualité
 tags:
 - Futur.e.s
 - Festival
