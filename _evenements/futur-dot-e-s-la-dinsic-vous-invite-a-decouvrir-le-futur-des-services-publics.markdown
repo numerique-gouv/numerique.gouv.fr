@@ -30,7 +30,7 @@ Sur le stand situé dans le salon Villes durables, venez découvrir les outils n
 **Au menu de votre visite :** 
 * laissez-vous convaincre par **FranceConnect** et ses 10 millions d’utilisateurs ;
 * venez à la découverte de la méthode **Startup … d’État** ;
-* rencontrez des **entrepreneurs d’intérêt général** qui vous en diront plus sur les défis qu’ils relèvent dans leurs administrations ;
+* rencontrez des **entrepreneurs d’intérêt général** qui vous en diront plus sur les défis qu’ils relèvent dans leur administration ;
 * et renseignez-vous sur les nombreuses opportunités de recrutements dans la **filière numérique** au sein de l’État. 
 
 #### La Masterclasse
