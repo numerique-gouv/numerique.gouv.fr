@@ -28,7 +28,7 @@ champs_informations:
 Sur le stand situé dans le salon Villes durables, venez découvrir les outils numériques innovants crées par la DINSIC dont, FranceConnect et les startups d’États A+ ou mes-aides.gouv. Vous pourrez également rencontrez nos agents afin de discuter des différentes voies possibles pour rejoindre la filière NSIC de l’État. 
 
 **Au menu de votre visite :** 
-* laissez-vous convaincre par *FranceConnect* et ses 10 millions d’utilisateurs ;
+* laissez-vous convaincre par **FranceConnect** et ses 10 millions d’utilisateurs ;
 * venez à la découverte de la méthode **Startup … d’État** ;
 * rencontrez des **entrepreneurs d’intérêt général** qui vous en diront plus sur les défis qu’ils relèvent dans leurs administrations ;
 * et renseignez-vous sur les nombreuses opportunités de recrutements dans la **filière numérique** au sein de l’État. 
