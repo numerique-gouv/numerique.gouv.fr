@@ -37,5 +37,5 @@ Sur le stand situé dans le salon Villes durables, venez découvrir les outils n
 **Le 14 juin de 13h15 à 13h45 :**
 **« Numérique rime aussi avec Fonction publique : l’État recrute ! »** : <br> *« L’Etat opère sa révolution numérique pour transformer le service rendu aux citoyens et aux agents. Une des conditions sine qua non à cette mutation : attirer de nouveaux talents (développeur, designer, scrum master, administrateur système, analyste en détection d’intrusion…). »*
  
-Cette Masterclasse sera animée par Marie Charbonnel et Sandrine Rodriguez, membres de la **mission Talents à la DINSIC**. 
+Cette masterclasse sera animée par Marie Charbonnel et Sandrine Rodriguez, membres de la **mission Talents à la DINSIC**. 
 
