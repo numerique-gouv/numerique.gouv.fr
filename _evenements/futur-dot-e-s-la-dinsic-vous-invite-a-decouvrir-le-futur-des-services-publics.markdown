@@ -14,6 +14,8 @@ chapeau-text: Moteur de l’innovation et de la transformation numérique de l�
   la DINSIC vous accueille sur son stand dans le cadre du festival Futur.e.s, dédié
   à l’innovation numérique et durable, les 13 & 14 juin prochains au Mobilier national
   - Galerie des Gobelins.
+une-ou-diaporama:
+- image: "/uploads/20190521_Article_Futures-01.jpg"
 event_start_date: 2019-06-13 09:30:00 +02:00
 event_end_date: 2019-06-14 19:00:00 +02:00
 lieu: Mobilier national - Galerie des Gobelins
