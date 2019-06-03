@@ -38,12 +38,11 @@ Retrouvez-nous pendant toute la durée du festival sur le stand DINSIC  situé d
 **Quand ?** 13 et 14 juin 2019, de 9h à 19h
 <br>**Où ?** Stand DINSIC, galerie des démos 
 <br>Mobilier national - Galerie des Gobelins
-
+.margin-bottom-3
 
 
 
 #### Masterclasse « Numérique rime aussi avec Fonction publique : l’État recrute ! »
-.margin-top-2
 Métiers IT et numériques, l’État recrute ! Pour opérer sa révolution numérique et transformer le service rendu aux citoyens et aux agents, l’État a besoin de nouveaux talents (développeur et développeuses, designer, scrum master, administrateur et administratrice système, analyste en détection d’intrusion…). Marie Charbonnel et Sandrine Rodrigues, membres de la mission Talents à la DINSIC, présenteront les opportunités d’emploi pour les profils numériques au sein de l’État. 
 
 
