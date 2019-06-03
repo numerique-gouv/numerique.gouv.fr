@@ -37,7 +37,7 @@ Retrouvez-nous pendant toute la durée du festival sur le stand DINSIC  situé d
 
 **Quand ?** 13 et 14 juin 2019, de 9h à 19h
 <br>**Où ?** Stand DINSIC, galerie des démos 
-Mobilier national - Galerie des Gobelins
+<br>Mobilier national - Galerie des Gobelins
 
 
 
@@ -47,5 +47,5 @@ Marie Charbonnel et Sandrine Rodriguez, membres de la mission Talents à la DINS
 
 **Quand ?** Le 14 juin 2019, de 13h15 à 13h45
 <br>**Où ?** Atelier des possibles
-Mobilier national - Galerie des Gobelins
+<br>Mobilier national - Galerie des Gobelins
 
