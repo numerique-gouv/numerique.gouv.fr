@@ -20,7 +20,7 @@ event_end_date: 2019-06-14 19:00:00 +02:00
 lieu: Mobilier national - Galerie des Gobelins
 adresse: 42 avenue des gobelins, 75013 Paris
 champs_informations:
-- intitule: 'Modalités :'
+- intitule: Modalités
   contenu: Inscription gratuite  sur le site du festival
   lien: https://www.eventbrite.fr/e/billets-futures-2019-58250802719?aff=ebdssbdestsearch
 ---
