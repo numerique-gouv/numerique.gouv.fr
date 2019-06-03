@@ -43,7 +43,7 @@ Retrouvez-nous pendant toute la durée du festival sur le stand DINSIC  situé d
 
 
 #### Masterclasse « Numérique rime aussi avec Fonction publique : l’État recrute ! »
-Marie Charbonnel et Sandrine Rodriguez, membres de la mission Talents à la DINSIC animeront la masterclasse **« Numérique rime aussi avec Fonction publique : l’État recrute ! »** <br> Synopsis: *L’État opère sa révolution numérique pour transformer le service rendu aux citoyens et aux agents. Une des conditions sine qua non à cette mutation : attirer de nouveaux talents (développeur, designer, scrum master, administrateur système, analyste en détection d’intrusion…).*
+Métiers IT et numériques, l’État recrute ! Pour opérer sa révolution numérique et transformer le service rendu aux citoyens et aux agents, l’État a besoin de nouveaux talents (développeur et développeuses, designer, scrum master, administrateur et administratrice système, analyste en détection d’intrusion…). Marie Charbonnel et Sandrine Rodrigues, membres de la mission Talents à la DINSIC, présenteront les opportunités d’emploi pour les profils numériques au sein de l’État. 
 
 **Quand ?** Le 14 juin 2019, de 13h15 à 13h45
 <br>**Où ?** Atelier des possibles
