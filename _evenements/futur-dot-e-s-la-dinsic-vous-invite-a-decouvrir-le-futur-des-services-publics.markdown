@@ -31,18 +31,20 @@ Retrouvez-nous pendant toute la durée du festival sur le stand DINSIC  situé d
 
 **Au menu de votre visite :** 
 * Comme 10 millions d’utilisateurs, laissez-vous convaincre par **FranceConnect** pour vous connecter plus facilement aux services en ligne
-Une **Startup d’État** n’est pas une startup. Mais alors, c’est quoi ? Venez le découvrir !
-* Rencontrez des **entrepreneurs d’intérêt général** en immersion au sein de l’État qui vous en diront plus sur les défis qu’ils relèvent dans leur administration ,
-* et renseignez-vous sur les nombreuses opportunités de recrutements dans la **filière numérique au sein de l’État**. 
+* Une **Startup d’État** n’est pas une startup. Mais alors, c’est quoi ? Venez le découvrir !
+* Rencontrez des **entrepreneurs d’intérêt général** en immersion au sein de l’État qui vous en diront plus sur les défis qu’ils relèvent dans leur administration
+* Renseignez-vous sur les nombreuses opportunités de recrutements dans la **filière numérique au sein de l’État**
 
-Où ? Stand DINSIC, galerie des démos 
+**Quand ?** 13 et 14 juin 2019, de 9h à 19h
+**Où ?** Stand DINSIC, galerie des démos 
 Mobilier national - Galerie des Gobelins
 
 
 
 #### Masterclasse « Numérique rime aussi avec Fonction publique : l’État recrute ! »
-**Le 14 juin de 13h15 à 13h45**, Marie Charbonnel et Sandrine Rodriguez, membres de la mission Talents à la DINSIC animeront la masterclasse **« Numérique rime aussi avec Fonction publique : l’État recrute ! »** <br> Synopsis: *L’État opère sa révolution numérique pour transformer le service rendu aux citoyens et aux agents. Une des conditions sine qua non à cette mutation : attirer de nouveaux talents (développeur, designer, scrum master, administrateur système, analyste en détection d’intrusion…).*
+Marie Charbonnel et Sandrine Rodriguez, membres de la mission Talents à la DINSIC animeront la masterclasse **« Numérique rime aussi avec Fonction publique : l’État recrute ! »** <br> Synopsis: *L’État opère sa révolution numérique pour transformer le service rendu aux citoyens et aux agents. Une des conditions sine qua non à cette mutation : attirer de nouveaux talents (développeur, designer, scrum master, administrateur système, analyste en détection d’intrusion…).*
 
-Où ? Atelier des possibles
+**Quand ?** Le 14 juin 2019, de 13h15 à 13h45
+**Où ?** Atelier des possibles
 Mobilier national - Galerie des Gobelins
 
