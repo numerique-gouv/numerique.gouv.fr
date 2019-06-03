@@ -35,7 +35,7 @@ Retrouvez-nous pendant toute la durée du festival sur le stand DINSIC  situé d
 * Rencontrez des **entrepreneurs d’intérêt général** en immersion au sein de l’État qui vous en diront plus sur les défis qu’ils relèvent dans leur administration
 * Renseignez-vous sur les nombreuses opportunités de recrutements dans la **filière numérique au sein de l’État**
 
-**Quand ?** 13 et 14 juin 2019, de 9h à 19h
+> **Quand ?** 13 et 14 juin 2019, de 9h à 19h
 <br>**Où ?** Stand DINSIC, galerie des démos 
 <br>Mobilier national - Galerie des Gobelins
 {: .margin-bottom-3}
