@@ -15,15 +15,16 @@ chapeau-text: Futur.e.s, le festival européen de **l’innovation numérique et
 une-ou-diaporama:
 - image: "/uploads/20190521_Article_Futures-01.jpg"
 files:
-  file: "/uploads/CP_Rencontrez_la_DINSIC_au_festival_Futures.pdf"
+  file: "/uploads/CP_Rencontrez_la_DINSIC_au_festival_Futures-b9a36f.pdf"
   nom: Télécharger le communiqué de presse
-file: "/uploads/CP_Rencontrez_la_DINSIC_au_festival_Futures.pdf"
+file: "/uploads/CP_Rencontrez_la_DINSIC_au_festival_Futures-400f79.pdf"
 ---
 
 Moteur de la transformation numérique de l’État, la **DINSIC promeut la culture de l’innovation numérique** au sein des administrations. Elle **anime des programmes novateurs** et crée des outils pour **améliorer et simplifier les services publics en ligne**. Venez découvrir le futur du service public numérique !
 <br>
 <br>
-**DÉMONSTRATIONS DES PROJETS DE LA DINSIC**
+**DÉMONSTRATIONS DES PROJETS DE LA DINSIC**<br>
+<br>
 *Quand ?* 13 et 14 juin 2019, de 9h à 19h
 *Où ?* Stand DINSIC, galerie des démos - Mobilier national / Galerie des Gobelins
 42 avenue des gobelins, 75013 Paris
@@ -39,5 +40,6 @@ Moteur de la transformation numérique de l’État, la **DINSIC promeut la cult
 *Quand ?* Le 14 juin 2019 de 13h15 à 13h45<br>
 *Où ?* Atelier des possibles - Mobilier national / Galerie des Gobelins
 42 avenue des gobelins, 75013 Paris
+<br>
 <br>
 Métiers IT et numériques, l’État recrute ! Pour opérer sa révolution numérique et transformer le service rendu aux citoyens et aux agents, l’État a besoin de nouveaux talents (développeurs/ développeuses, designer, scrum master, administrateur/ administratrice système, analyste en détection d’intrusion…). Marie Charbonnel et Sandrine Rodriguez, membres de la mission Talents à la DINSIC, présenteront les opportunités d’emploi pour les profils numériques au sein de l’État.
