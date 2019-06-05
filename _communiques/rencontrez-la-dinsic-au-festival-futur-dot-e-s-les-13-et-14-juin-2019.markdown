@@ -29,15 +29,19 @@ Moteur de la transformation numérique de l’État, la **DINSIC promeut la cult
 *Où ?* Stand DINSIC, galerie des démos - Mobilier national / Galerie des Gobelins
 42 avenue des gobelins, 75013 Paris
 <br>
+
 * Métiers IT et numérique : **l’État recrute**. Pas besoin d’être fonctionnaire pour travailler pour l’intérêt général !
+
 * Comme 10 millions d’utilisateurs, laissez-vous convaincre par **FranceConnect** pour vous connecter plus facilement aux services en ligne.
+
 * Rencontrez les **entrepreneurs d’intérêt général** en immersion au sein de l’État qui vous en diront plus sur les défis qu’ils relèvent dans leur administration.
-* Créer des services publics numériques : découvrez la méthode **Startups d’État**. 
-<br>
-<br>
+
+* Créer des services publics numériques : découvrez la méthode **Startups d’État**.
+  <br>
+  <br>
 **MASTERCLASS « NUMÉRIQUE RIME AUSSI AVEC FONCTION PUBLIQUE »**<br>
 <br>
-*Quand ?* Le 14 juin 2019 de 13h15 à 13h45<br>
+*Quand ?* Le 14 juin 2019 de 13h15 à 13h45
 *Où ?* Atelier des possibles - Mobilier national / Galerie des Gobelins
 42 avenue des gobelins, 75013 Paris
 <br>
