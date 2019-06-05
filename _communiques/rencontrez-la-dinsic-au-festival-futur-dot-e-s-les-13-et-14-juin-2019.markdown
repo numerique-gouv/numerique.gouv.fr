@@ -25,7 +25,7 @@ Moteur de la transformation numérique de l’État, la **DINSIC promeut la cult
 <br>
 **DÉMONSTRATIONS DES PROJETS DE LA DINSIC**<br>
 <br>
-*Quand ?* 13 et 14 juin 2019, de 9h à 19h
+*Quand ?* 13 et 14 juin 2019, de 9h à 19h<br>
 *Où ?* Stand DINSIC, galerie des démos - Mobilier national / Galerie des Gobelins
 42 avenue des gobelins, 75013 Paris
 <br>
