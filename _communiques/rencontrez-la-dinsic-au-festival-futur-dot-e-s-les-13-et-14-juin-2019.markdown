@@ -31,11 +31,8 @@ Moteur de la transformation numérique de l’État, la **DINSIC promeut la cult
 <br>
 
 * Métiers IT et numérique : **l’État recrute**. Pas besoin d’être fonctionnaire pour travailler pour l’intérêt général !
-
 * Comme 10 millions d’utilisateurs, laissez-vous convaincre par **FranceConnect** pour vous connecter plus facilement aux services en ligne.
-
 * Rencontrez les **entrepreneurs d’intérêt général** en immersion au sein de l’État qui vous en diront plus sur les défis qu’ils relèvent dans leur administration.
-
 * Créer des services publics numériques : découvrez la méthode **Startups d’État**.
   <br>
   <br>
