@@ -37,5 +37,5 @@ Moteur de la transformation numérique de l’État, la **DINSIC promeut la cult
 *Quand ?* Le 14 juin 2019 de 13h15 à 13h45<br>
 *Où ?* Atelier des possibles - Mobilier national / Galerie des Gobelins
 42 avenue des gobelins, 75013 Paris
-
+<br>
 Métiers IT et numériques, l’État recrute ! Pour opérer sa révolution numérique et transformer le service rendu aux citoyens et aux agents, l’État a besoin de nouveaux talents (développeurs/ développeuses, designer, scrum master, administrateur/ administratrice système, analyste en détection d’intrusion…). Marie Charbonnel et Sandrine Rodriguez, membres de la mission Talents à la DINSIC, présenteront les opportunités d’emploi pour les profils numériques au sein de l’État.
