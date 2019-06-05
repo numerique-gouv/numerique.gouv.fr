@@ -17,9 +17,11 @@ une-ou-diaporama:
 files:
   file: "/uploads/CP_Rencontrez_la_DINSIC_au_festival_Futures.pdf"
   nom: Télécharger le communiqué de presse
+Key: "/uploads/CP_255%20Designers%20d'interet%20general.pdf"
 ---
 
 Moteur de la transformation numérique de l’État, la **DINSIC promeut la culture de l’innovation numérique** au sein des administrations. Elle **anime des programmes novateurs** et crée des outils pour **améliorer et simplifier les services publics en ligne**. Venez découvrir le futur du service public numérique !
+<br>
 <br>
 **DÉMONSTRATIONS DES PROJETS DE LA DINSIC**
 *Quand ?* 13 et 14 juin 2019, de 9h à 19h
@@ -31,8 +33,8 @@ Moteur de la transformation numérique de l’État, la **DINSIC promeut la cult
 * Rencontrez les **entrepreneurs d’intérêt général** en immersion au sein de l’État qui vous en diront plus sur les défis qu’ils relèvent dans leur administration.
 * Créer des services publics numériques : découvrez la méthode **Startups d’État**. 
 <br>
-**MASTERCLASS « NUMÉRIQUE RIME AUSSI AVEC FONCTION PUBLIQUE »**
-*Quand ?* Le 14 juin 2019 de 13h15 à 13h45
+**MASTERCLASS « NUMÉRIQUE RIME AUSSI AVEC FONCTION PUBLIQUE »**<br>
+*Quand ?* Le 14 juin 2019 de 13h15 à 13h45<br>
 *Où ?* Atelier des possibles - Mobilier national / Galerie des Gobelins
 42 avenue des gobelins, 75013 Paris
 
