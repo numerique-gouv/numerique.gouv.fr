@@ -17,7 +17,7 @@ une-ou-diaporama:
 files:
   file: "/uploads/CP_Rencontrez_la_DINSIC_au_festival_Futures.pdf"
   nom: Télécharger le communiqué de presse
-Key: "/uploads/CP_255%20Designers%20d'interet%20general.pdf"
+file: "/uploads/CP_Rencontrez_la_DINSIC_au_festival_Futures.pdf"
 ---
 
 Moteur de la transformation numérique de l’État, la **DINSIC promeut la culture de l’innovation numérique** au sein des administrations. Elle **anime des programmes novateurs** et crée des outils pour **améliorer et simplifier les services publics en ligne**. Venez découvrir le futur du service public numérique !
