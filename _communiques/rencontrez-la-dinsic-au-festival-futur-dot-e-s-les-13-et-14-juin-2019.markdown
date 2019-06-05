@@ -15,7 +15,7 @@ chapeau-text: Futur.e.s, le festival européen de **l’innovation numérique et
 une-ou-diaporama:
 - image: "/uploads/20190521_Article_Futures-01.jpg"
 files:
-  file: "/uploads/CP_Rencontrez_la_DINSIC_au_festival_Futures-b9a36f.pdf"
+- file: "/uploads/CP_Rencontrez_la_DINSIC_au_festival_Futures-400f79.pdf"
   nom: Télécharger le communiqué de presse
 file: "/uploads/CP_Rencontrez_la_DINSIC_au_festival_Futures-400f79.pdf"
 ---
