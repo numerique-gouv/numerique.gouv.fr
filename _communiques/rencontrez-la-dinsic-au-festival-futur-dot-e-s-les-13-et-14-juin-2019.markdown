@@ -49,6 +49,6 @@ Métiers IT et numériques, l’État recrute ! Pour opérer sa révolution num�
 <br>
 <br>
 > **Accréditations** [presse@futuresfestivals.com](presse@futuresfestivals.com)
-{:style .text-center}
+{: .text-center}
 
 
