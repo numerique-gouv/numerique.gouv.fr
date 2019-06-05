@@ -39,6 +39,7 @@ Moteur de la transformation numérique de l’État, la **DINSIC promeut la cult
 
 **MASTERCLASS « NUMÉRIQUE RIME AUSSI AVEC FONCTION PUBLIQUE »**
 <br>
+<br>
 *Quand ?* Le 14 juin 2019 de 13h15 à 13h45<br>
 *Où ?* Atelier des possibles - Mobilier national / Galerie des Gobelins
 42 avenue des gobelins, 75013 Paris
