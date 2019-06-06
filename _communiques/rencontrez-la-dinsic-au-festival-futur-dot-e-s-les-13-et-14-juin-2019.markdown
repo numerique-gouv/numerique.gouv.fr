@@ -48,7 +48,7 @@ Moteur de la transformation numérique de l’État, la **DINSIC promeut la cult
 Métiers IT et numériques, l’État recrute ! Pour opérer sa révolution numérique et transformer le service rendu aux citoyens et aux agents, l’État a besoin de nouveaux talents (développeurs/ développeuses, designer, scrum master, administrateur/ administratrice système, analyste en détection d’intrusion…). Marie Charbonnel et Sandrine Rodriguez, membres de la mission Talents à la DINSIC, présenteront les opportunités d’emploi pour les profils numériques au sein de l’État.
 <br>
 <br>
-**Accréditations**[presse@futuresfestivals.com](mailto:presse@futuresfestivals.com)
+**Accréditations :** [presse@futuresfestivals.com](mailto:presse@futuresfestivals.com)
 {: .text-center}
 
 
