@@ -1,7 +1,6 @@
 ---
 title: "[Dataconnexions] Open Food Facts : un projet citoyen qui sert aussi la science"
 date: 2016-01-11 16:52:00 +01:00
-published: false
 categories:
 - Article
 tags:
