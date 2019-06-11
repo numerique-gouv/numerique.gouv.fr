@@ -2,7 +2,6 @@
 title: 'Rapport Fouilleron : vers une meilleure gouvernance des données au sein de
   l’administration'
 date: 2015-12-11 16:38:00 +01:00
-published: false
 categories:
 - Article
 tags:
