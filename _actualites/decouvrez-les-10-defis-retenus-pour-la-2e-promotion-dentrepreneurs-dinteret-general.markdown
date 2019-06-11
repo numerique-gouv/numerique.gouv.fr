@@ -2,7 +2,6 @@
 title: Découvrez les 10 défis retenus pour la 2e promotion d'Entrepreneurs d’intérêt
   général
 date: 2017-07-19 17:11:00 +02:00
-published: false
 chapeau-text: Les 4 et 5 juillet 2017, un jury s’est réuni au Secrétariat d’Etat chargé
   du Numérique pour sélectionner les défis que relèvera la 2e promotion des [Entrepreneurs
   d’intérêt général](Les 4 et 5 juillet 2017, un jury s’est réuni au Secrétariat d’Etat
