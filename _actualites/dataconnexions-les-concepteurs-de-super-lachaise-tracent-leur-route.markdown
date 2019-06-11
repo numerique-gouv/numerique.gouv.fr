@@ -1,7 +1,6 @@
 ---
 title: "[Dataconnexions] Les concepteurs de Super Lachaise tracent leur route"
 date: 2016-01-20 13:56:00 +01:00
-published: false
 categories:
 - Article
 chapeau-text: Maxime Le Moine a été recruté comme développeur mobile. Lucie Le Moine
