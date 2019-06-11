@@ -1,7 +1,6 @@
 ---
 title: La société civile au cœur du sommet du Partenariat pour un gouvernement ouvert
 date: 2016-12-23 17:50:00 +01:00
-published: false
 categories:
 - Article
 tags:
