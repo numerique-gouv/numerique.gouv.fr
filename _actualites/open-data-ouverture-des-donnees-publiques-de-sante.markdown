@@ -1,7 +1,6 @@
 ---
 title: 'Open Data : ouverture des données publiques de santé'
 date: 2014-04-04 16:40:00 +02:00
-published: false
 categories:
 - Article
 tags:
