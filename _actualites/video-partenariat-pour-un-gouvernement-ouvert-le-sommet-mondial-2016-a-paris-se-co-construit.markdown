@@ -2,7 +2,6 @@
 title: "[VIDÉO] Partenariat pour un gouvernement ouvert : le sommet mondial 2016,
   à Paris, se co-construit"
 date: 2016-05-04 15:51:00 +02:00
-published: false
 categories:
 - Vidéo
 tags:

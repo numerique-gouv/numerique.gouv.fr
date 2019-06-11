@@ -1,7 +1,6 @@
 ---
 title: 'Rapport de l’administrateur général des données : rencontre avec Henri Verdier'
 date: 2016-01-21 15:46:00 +01:00
-published: false
 categories:
 - Article
 tags:

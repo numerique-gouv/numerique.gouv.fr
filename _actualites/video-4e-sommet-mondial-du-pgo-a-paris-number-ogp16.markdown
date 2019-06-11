@@ -1,7 +1,6 @@
 ---
 title: "[Vidéo] 4è Sommet mondial du PGO à Paris #OGP16"
 date: 2017-01-03 15:20:00 +01:00
-published: false
 categories:
 - Vidéo
 tags:

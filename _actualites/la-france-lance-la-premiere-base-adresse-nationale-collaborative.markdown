@@ -1,7 +1,6 @@
 ---
 title: La France lance la première base adresse nationale collaborative-
 date: 2015-04-22 14:47:00 +02:00
-published: false
 categories:
 - Article
 tags:

@@ -1,7 +1,6 @@
 ---
 title: 'Concours Dataconnexions : interview d''Eduardo Larrain, lauréat'
 date: 2013-05-17 14:21:00 +02:00
-published: false
 categories:
 - Article
 tags:

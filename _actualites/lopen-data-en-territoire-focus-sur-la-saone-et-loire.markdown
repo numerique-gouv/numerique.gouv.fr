@@ -1,7 +1,6 @@
 ---
 title: 'L''open data en territoire : focus sur la Saone et Loire'
 date: 2013-11-19 17:04:00 +01:00
-published: false
 categories:
 - Article
 tags:

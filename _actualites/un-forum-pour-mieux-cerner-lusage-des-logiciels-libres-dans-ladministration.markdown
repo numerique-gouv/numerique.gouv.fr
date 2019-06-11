@@ -1,7 +1,6 @@
 ---
 title: Un forum pour mieux cerner l’usage des logiciels libres dans l’administration
 date: 2016-02-12 10:24:00 +01:00
-published: false
 categories:
 - Article
 tags:
