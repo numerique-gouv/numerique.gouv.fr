@@ -1,7 +1,6 @@
 ---
 title: 'Économie de la donnée : la France et le Royaume-Uni unissent leur expertise'
 date: 2015-12-16 16:36:00 +01:00
-published: false
 categories:
 - Article
 tags:
