@@ -1,7 +1,6 @@
 ---
 title: 'Concours Dataconnexions#4 : le palmarès des lauréats'
 date: 2013-12-05 12:00:00 +01:00
-published: false
 categories:
 - Article
 tags:
