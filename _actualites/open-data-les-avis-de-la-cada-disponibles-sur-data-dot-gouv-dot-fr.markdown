@@ -1,7 +1,6 @@
 ---
 title: 'Open Data : les avis de la Cada disponibles sur data.gouv.fr'
 date: 2019-04-02 16:32:00 +02:00
-published: false
 categories:
 - Article
 tags:
