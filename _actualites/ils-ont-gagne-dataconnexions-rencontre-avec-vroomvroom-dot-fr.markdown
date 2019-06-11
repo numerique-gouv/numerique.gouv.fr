@@ -1,7 +1,6 @@
 ---
 title: 'Ils ont gagné Dataconnexions : rencontre avec vroomvroom.fr'
 date: 2013-10-16 14:06:00 +02:00
-published: false
 categories:
 - Article
 tags:
