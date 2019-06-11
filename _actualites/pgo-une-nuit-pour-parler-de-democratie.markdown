@@ -1,7 +1,6 @@
 ---
 title: 'PGO : une nuit pour parler de démocratie'
 date: 2016-11-22 18:09:00 +01:00
-published: false
 categories:
 - Article
 tags:
