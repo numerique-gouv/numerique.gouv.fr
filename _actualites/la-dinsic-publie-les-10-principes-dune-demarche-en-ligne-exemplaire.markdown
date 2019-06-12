@@ -38,10 +38,10 @@ Leur vocation n’est pas de contraindre ou d’imposer des règles formelles à
 
 #### **Un concentré de savoir-faire**
 
-Ces 10 principes sont un concentré de l’expérience et expertise de la DINSIC en matière de services numériques. Une manière de formaliser les enseignements acquis au fil des années.
+Ces 10 principes sont un concentré de l’expertise de la DINSIC en matière de services numériques et d'expérience utilisateurs. Une manière de formaliser les enseignements acquis au fil des années.
 
 Leur élaboration s’est notamment appuyée sur le [tableau de bord des services publics numériques](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-des-services-numeriques-aux-usagers/tableau-de-bord-des-services-publics-numeriques-edition-2017) qui suit depuis 2012 l’utilisation des canaux dématérialisés, la satisfaction des usagers et les stratégies déployées par les administrations pour les développer. L’analyse des résultats sur 5 ans a permis d’identifier un certain nombre de facteurs de réussite et de bonnes pratiques.
 
-#### **Un premier jalon posé vers la labellisation Cerfa des démarches en ligne**
+#### **Un premier jalon posé vers la labellisation Cerfa numérique**
 
-La voie est tracée. Les 10 règles d’or d’une démarche en ligne exemplaire intègreront prochainement la charte Internet de l’Etat, actuellement en cours de refonte. Surtout, elles sont les prémices d’une démarche structurante pour la qualité des services publics en ligne de l’Etat. Bientôt sera progressivement mis en place le pendant numérique du Cerfa papier, bien connu des usagers. Toute démarche en ligne sera ainsi labellisée au travers de critères objectifs, vérifiables et réalistes, construits dans la logique de ces principes. Différents outils, comme les ressources et la checklist [Pidila](http://pidila.gitlab.io/), sont d’ores et déjà à la disposition des administrations pour les aider à concevoir des sites web dans les règles de l’art.
+La voie est tracée. Les 10 règles d’or d’une démarche en ligne exemplaire sont les prémices d’un dispositif structurant pour la qualité des services publics numériques de l’État : la labellisation Cerfa numérique. Bientôt, toute démarche en ligne pourra ainsi être labellisée au travers de critères objectifs, vérifiables et réalistes, construits dans la logique de ces principes. Différents outils, comme les ressources et la checklist [Pidila](http://pidila.gitlab.io/), sont d’ores et déjà à la disposition des administrations pour les aider à concevoir des sites web dans les règles de l’art.
