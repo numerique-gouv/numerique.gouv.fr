@@ -12,6 +12,8 @@ chapeau-text: Qu’est-ce qu’une démarche en ligne de qualité ? Quelles sont
   démarche ambitieuse, la DINSIC a identifié, avec les administrations, dix principes
   traçant la voie pour des services publics numériques encore plus efficaces et proches
   du citoyen.
+une-ou-diaporama:
+- image: "/uploads/article-10-principes_une.png"
 ---
 
 Une démarche en ligne, ce n’est pas seulement un formulaire ou une page web. C’est une expérience et un parcours complets. C’est aussi l’interface entre l’usager et l’administration. *« Et notre rôle est de rendre cette expérience la plus confortable, la plus efficace et la plus simple possible pour l’utilisateur »,* explique Marine Gout, chargée de mission qualité et homologation des démarches en ligne à la direction interministérielle du numérique et du système d’information et de communication de l’Etat (DINSIC).
