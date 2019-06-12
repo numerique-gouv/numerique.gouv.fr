@@ -1,8 +1,6 @@
 ---
 title: Une association pour soutenir le développement de l’open data dans les collectivités
 date: 2013-10-10 17:16:00 +02:00
-categories:
-- Article
 tags:
 - Open Data
 - Ouverture des données publiques
