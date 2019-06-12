@@ -1,6 +1,8 @@
 ---
 title: Une association pour soutenir le développement de l’open data dans les collectivités
 date: 2013-10-10 17:16:00 +02:00
+categories:
+- Archives
 tags:
 - Open Data
 - Ouverture des données publiques
@@ -11,6 +13,7 @@ chapeau-text: 'L’association OpenData France est une réalité. Créée le 9 o
   démarches au niveau local dans ce domaine et promouvoir le développement de l’open
   data. Etalab, membre associé, était présent pour l’occasion ainsi que de nombreux
   représentants des collectivités territoriales.'
+auteur: Archives
 ---
 
 **L’association OpenData France est une réalité. Créée le 9 octobre dernier, cette association regroupe et soutient les collectivités territoriales dans une démarche d’ouverture de leurs données publiques, objectif : favoriser toutes les démarches au niveau local dans ce domaine et promouvoir le développement de l’open data. Etalab, membre associé, était présent pour l’occasion ainsi que de nombreux représentants des collectivités territoriales.**
