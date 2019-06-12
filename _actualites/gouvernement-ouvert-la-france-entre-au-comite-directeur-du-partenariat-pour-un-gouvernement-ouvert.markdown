@@ -1,7 +1,7 @@
 ---
 title: 'Gouvernement ouvert : la France entre au comité directeur du Partenariat pour
   un gouvernement ouvert'
-date: 2019-03-01 13:52:00 +01:00
+date: 2014-08-07 13:52:00 +02:00
 categories:
 - Article
 tags:
