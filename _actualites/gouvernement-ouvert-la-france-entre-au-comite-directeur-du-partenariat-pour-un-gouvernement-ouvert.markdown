@@ -1,7 +1,7 @@
 ---
 title: 'Gouvernement ouvert : la France entre au comité directeur du Partenariat pour
   un gouvernement ouvert'
-date: 2019-03-01 13:52:00 +01:00
+date: 2014-08-07 13:52:00 +02:00
 categories:
 - Article
 tags:
@@ -20,7 +20,7 @@ une-ou-diaporama:
 auteur: Archives
 ---
 
-Trois mois seulement [après avoir rejoint le Partenariat pour un gouvernement ouvert (PGO)](https://www.modernisation.gouv.fr/home/france-rejoint-open-governement-partnership-ogp){:target="_blank"} (en anglais Open Government Partership - OGP) , **la France entre au comité directeur** (« Steering Committee ») de l’organisation. Elle y siègera **à partir d’octobre 2014, pendant deux ans**. Renouvelé entièrement pour la première fois depuis la création du PGO en 2011, le comité directeur est la plus importante instance de direction de l’OGP, chargée d’en **fixer les grandes orientations**.
+Trois mois seulement [après avoir rejoint le Partenariat pour un gouvernement ouvert (PGO)](/actualites/la-france-rejoint-le-partenariat-pour-un-gouvernement-ouvert/) (en anglais Open Government Partership - OGP) , **la France entre au comité directeur** (« Steering Committee ») de l’organisation. Elle y siègera **à partir d’octobre 2014, pendant deux ans**. Renouvelé entièrement pour la première fois depuis la création du PGO en 2011, le comité directeur est la plus importante instance de direction de l’OGP, chargée d’en **fixer les grandes orientations**.
 
 La nomination de la France est l’aboutissement d’un processus électoral, lancé en juin dernier. Thierry Mandon, secrétaire d’Etat chargé de la Réforme de l’Etat et de la Simplification, avait alors déposé officiellement [la candidature de la France](http://www.opengovpartnership.org/sites/default/files/attachments/Candidature%20France%20Comit%C3%A9%20de%20Pilotage%20OGP.pdf){:target="_blank"}. 58 des 64 pays membres du PGO ont participé au vote, et choisi les huit nouveaux Etats membres du comité directeur.
 
