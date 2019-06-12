@@ -38,7 +38,7 @@ Leur vocation n’est pas de contraindre ou d’imposer des règles formelles à
 
 #### **Un concentré de savoir-faire**
 
-Ces 10 principes sont un concentré de l’expérience et expertise de la DINSIC en matière de démarches en ligne. Une manière de formaliser les enseignements acquis au fil des années.
+Ces 10 principes sont un concentré de l’expérience et expertise de la DINSIC en matière de services numériques. Une manière de formaliser les enseignements acquis au fil des années.
 
 Leur élaboration s’est notamment appuyée sur le [tableau de bord des services publics numériques](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-des-services-numeriques-aux-usagers/tableau-de-bord-des-services-publics-numeriques-edition-2017) qui suit depuis 2012 l’utilisation des canaux dématérialisés, la satisfaction des usagers et les stratégies déployées par les administrations pour les développer. L’analyse des résultats sur 5 ans a permis d’identifier un certain nombre de facteurs de réussite et de bonnes pratiques.
 
