@@ -1,6 +1,6 @@
 ---
 title: Une association pour soutenir le développement de l’open data dans les collectivités
-date: 2019-04-02 17:16:00 +02:00
+date: 2013-10-10 17:16:00 +02:00
 categories:
 - Article
 tags:
