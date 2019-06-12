@@ -1,7 +1,6 @@
 ---
 title: La DINSIC publie les 10 principes d’une démarche en ligne exemplaire
 date: 2017-07-11 11:54:00 +02:00
-published: false
 categories:
 - Article
 tags:
