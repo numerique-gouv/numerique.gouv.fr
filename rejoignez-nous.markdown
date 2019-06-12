@@ -2,7 +2,6 @@
 title: Rejoignez-nous
 date: 2019-05-14 14:59:00 +02:00
 permalink: "/rejoignez-nous/"
-published: false
 layout: page-annexe
 ---
 
@@ -13,8 +12,8 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 ### Comment postuler ?
 {: .margin-top-5 .margin-bottom-1} 
 1. **Repérez** l'offre d'emploi qui vous intéresse ci-dessous
-2. **Ouvrez-vous la fiche de poste** (pdf) en cliquant sur l'intitulé du poste
-3. Envoyez votre candidature par courriel à l'adresse indiquée sur la fiche en précisant la référence de l'offre
+2. **Ouvrez-vous la fiche de poste** (pdf) en cliquant sur l'intitulé
+3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste en précisant son intitulé
 <br>
 <br>
 
@@ -24,7 +23,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission--transformation-numerique-de-l-etat--reference-2019-198613 "Chargé/chargée de mission « Transformation numérique de l'État » - Nouvelle fenêtre"){:target="_blank"}
+* [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=269997df-7279-4259-96ad-92a71c4124f7&offerid=198613 "Chargé/chargée de mission « Transformation numérique de l'État » - Télécharger le pdf"){:target="_blank"} (pdf - 300 ko)
 <br>Paris
 <br>Catégorie A
 
