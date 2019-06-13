@@ -35,7 +35,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Apprentissage
 
-* [**Apprenti/apprentie « Performance économique et gouvernance »**]( https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=e4322de0-8c9f-49c6-8547-331b6cd57208&offerid=195467 "Apprenti/apprentie « Performance économique et gouvernance » - Télécharger le pdf") (pdf - 300 ko)
+* [**Apprenti/apprentie « Performance économique et gouvernance »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=e4322de0-8c9f-49c6-8547-331b6cd57208&offerid=195467 "Apprenti/apprentie « Performance économique et gouvernance » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Apprentissage
 <br>
@@ -65,7 +65,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>
 <br>
 
-#### **Réseau/Infrastructure/Sécurité**
+#### **Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f89fd8de-3b1b-4ab1-a9b9-f3cc9d645a3e&offerid=194149 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État - Télécharger le pdf") (pdf - 300 ko)
 <br>Rennes
