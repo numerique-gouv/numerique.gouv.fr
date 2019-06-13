@@ -7,8 +7,11 @@
 - link: Agenda
   url: /agenda
 
-- link: Espace presse
-  url: /espace-presse
-
 - link: Publications
   url: /publications
+
+- link: Rejoignez-nous
+  url: /rejoignez-nous
+  
+- link: Espace presse
+  url: /espace-presse
