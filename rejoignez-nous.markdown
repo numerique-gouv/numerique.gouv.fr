@@ -5,7 +5,9 @@ permalink: "/rejoignez-nous/"
 layout: page-annexe
 ---
 
-**Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINSIC ! Retrouvez ici tous nos postes actuellement ouverts au recrutement.**
+**Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINSIC !**
+<br>
+<br>
 
 ### Comment postuler ?
 {: .margin-top-5 .margin-bottom-1} 
@@ -118,4 +120,6 @@ layout: page-annexe
 <br>Catégorie B
 <br>
 <br>
-Nos offres d'emploi sont également publiées sur [la Place de l'emploi public](https://www.place-emploi-public.gouv.fr/){:target="_blank"}.
+<br>
+
+*Nos offres d'emploi sont également publiées sur [la Place de l'emploi public](https://www.place-emploi-public.gouv.fr/){:target="_blank"}.*
