@@ -23,7 +23,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Chef/fe de mission « Transformation Numérique de l'Etat »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=2c1668e8-c301-4f7b-a257-a0cb3423f701&offerid=176062 "« Chef/fe de mission « Transformation Numérique de l'Etat » - Télécharger le pdf") (pdf - 300 ko)
+* [**Chef/fe de mission « Transformation Numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=2c1668e8-c301-4f7b-a257-a0cb3423f701&offerid=176062 "« Chef/fe de mission « Transformation Numérique de l'Etat » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A+
 
@@ -31,11 +31,11 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Cadre/Catégorie A
 
-* [**Apprenti/apprentie chef/cheffe de projet Qualité web**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-qualite-web-reference-2019-195458 "Apprenti/e chef/cheffe de projet Qualité web - Télécharger le pdf") (pdf - 300 ko)
+* [**Apprenti/apprentie chef/cheffe de projet Qualité web**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=2637425e-5ad7-423a-b18e-28748a9cdd68&offerid=195458 "Apprenti/e chef/cheffe de projet Qualité web - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Apprentissage
 
-* [**Apprenti/apprentie « Performance économique et gouvernance »**]( https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=e4322de0-8c9f-49c6-8547-331b6cd57208&offerid=195467 "Apprenti/apprentie « Performance économique et gouvernance » - Télécharger le pdf") (pdf - 300 ko)
+* [**Apprenti/apprentie « Performance économique et gouvernance »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=e4322de0-8c9f-49c6-8547-331b6cd57208&offerid=195467 "Apprenti/apprentie « Performance économique et gouvernance » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Apprentissage
 <br>
@@ -43,11 +43,11 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Responsable Exploitation « FranceConnect » (F/H)**]( https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=886c099e-75f7-480a-b977-d529d50a4640&offerid=180307 "Responsable Exploitation « FranceConnect » (F/H) - Télécharger le pdf") (pdf - 300 ko)
+* [**Responsable Exploitation « FranceConnect » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=886c099e-75f7-480a-b977-d529d50a4640&offerid=180307 "Responsable Exploitation « FranceConnect » (F/H) - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A
 
-* [**Mentor technique et produits (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1514dfbf-ac0e-4b40-9cee-cf99128aef0a&offerid=202965 "Mentor technique et produits (F/H) - Télécharger le pdf") (pdf - 300 ko)
+* [**Mentor technique et produit (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1514dfbf-ac0e-4b40-9cee-cf99128aef0a&offerid=202965 "Mentor technique et produits (F/H) - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A+
 <br>
@@ -65,15 +65,11 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>
 <br>
 
-#### **Réseau/Infrastructure/Sécurité**
+#### **Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f89fd8de-3b1b-4ab1-a9b9-f3cc9d645a3e&offerid=194149 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État - Télécharger le pdf") (pdf - 300 ko)
 <br>Rennes
-<br>Catégorie A
-
-* [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=bd9a3b3f-c5b5-4668-b391-7e81d996a411&offerid=194152 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État – Télécharger le pdf") (pdf - 300 ko)
-<br>Rennes
-<br>Catégorie B
+<br>Catégorie A (cadre) ou B
 <br>
 <br>
 
