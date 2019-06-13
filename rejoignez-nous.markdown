@@ -31,7 +31,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Cadre/Catégorie A
 
-* [**Apprenti/apprentie chef/cheffe de projet Qualité web**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-qualite-web-reference-2019-195458 "Apprenti/e chef/cheffe de projet Qualité web - Télécharger le pdf") (pdf - 300 ko)
+* [**Apprenti/apprentie chef/cheffe de projet Qualité web**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=2637425e-5ad7-423a-b18e-28748a9cdd68&offerid=195458 "Apprenti/e chef/cheffe de projet Qualité web - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Apprentissage
 
