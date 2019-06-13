@@ -13,7 +13,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 {: .margin-top-5 .margin-bottom-1} 
 1. **Repérez** l'offre d'emploi qui vous intéresse ci-dessous
 2. **Ouvrez-vous la fiche de poste** (pdf) en cliquant sur l'intitulé
-3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste en précisant son intitulé
+3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste, en précisant son intitulé
 <br>
 <br>
 
