@@ -47,7 +47,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Cadre/Catégorie A
 
-* [**Mentor technique et produits (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1514dfbf-ac0e-4b40-9cee-cf99128aef0a&offerid=202965 "Mentor technique et produits (F/H) - Télécharger le pdf") (pdf - 300 ko)
+* [**Mentor technique et produit (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1514dfbf-ac0e-4b40-9cee-cf99128aef0a&offerid=202965 "Mentor technique et produits (F/H) - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A+
 <br>
@@ -69,11 +69,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f89fd8de-3b1b-4ab1-a9b9-f3cc9d645a3e&offerid=194149 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État - Télécharger le pdf") (pdf - 300 ko)
 <br>Rennes
-<br>Catégorie A
-
-* [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=bd9a3b3f-c5b5-4668-b391-7e81d996a411&offerid=194152 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État – Télécharger le pdf") (pdf - 300 ko)
-<br>Rennes
-<br>Catégorie B
+<br>Catégorie A (cadre) ou B
 <br>
 <br>
 
