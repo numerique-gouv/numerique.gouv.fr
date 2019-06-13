@@ -23,7 +23,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Chef/fe de mission « Transformation Numérique de l'Etat »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=2c1668e8-c301-4f7b-a257-a0cb3423f701&offerid=176062 "« Chef/fe de mission « Transformation Numérique de l'Etat » - Télécharger le pdf") (pdf - 300 ko)
+* [**Chef/fe de mission « Transformation Numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=2c1668e8-c301-4f7b-a257-a0cb3423f701&offerid=176062 "« Chef/fe de mission « Transformation Numérique de l'Etat » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A+
 
@@ -43,7 +43,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Responsable Exploitation « FranceConnect » (F/H)**]( https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=886c099e-75f7-480a-b977-d529d50a4640&offerid=180307 "Responsable Exploitation « FranceConnect » (F/H) - Télécharger le pdf") (pdf - 300 ko)
+* [**Responsable Exploitation « FranceConnect » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=886c099e-75f7-480a-b977-d529d50a4640&offerid=180307 "Responsable Exploitation « FranceConnect » (F/H) - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A
 
