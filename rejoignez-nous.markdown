@@ -13,7 +13,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 {: .margin-top-5 .margin-bottom-1} 
 1. **Repérez** l'offre d'emploi qui vous intéresse ci-dessous
 2. **Ouvrez-vous la fiche de poste** (pdf) en cliquant sur l'intitulé
-3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste en précisant son intitulé
+3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste, en précisant son intitulé
 <br>
 <br>
 
@@ -47,7 +47,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Cadre/Catégorie A
 
-* [**Mentor technique et produits (H/F)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1514dfbf-ac0e-4b40-9cee-cf99128aef0a&offerid=202965 "Mentor technique et produits (h/f)- Télécharger le pdf") (pdf - 300 ko)
+* [**Mentor technique et produits (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1514dfbf-ac0e-4b40-9cee-cf99128aef0a&offerid=202965 "Mentor technique et produits (F/H) - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A+
 <br>
