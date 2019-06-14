@@ -52,7 +52,7 @@ layout: page-annexe
 <br>
 <br>
 
-#### **Open data/Intelligence artificielle**
+#### **Data**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Apprenti/apprentie chargé/chargée de mission « circulation des données publiques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=73a566e4-7890-4d01-be14-c608deef63d8&offerid=195443 "Apprenti/apprentie chargé/chargée de mission « circulation des données publiques » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
