@@ -30,7 +30,6 @@ champs_informations:
   lien: https://www.apconnect.fr/visiter/reserver-badge-visiteur/?utm_source=SW&utm_medium=PR&utm_campaign=DINSIC
 ---
 
-
 ### **Agoras et conférences**
 
 #### **Conférence inaugurale - Quel sera le rôle de l’agent public avec la révolution de l’IA ?**
