@@ -13,6 +13,8 @@ chapeau-text: Le 24 avril 2019, la direction générale des finances publiques a
   réutilisables au format texte (.txt). Pour que les données de Bercy puissent être
   visualisées sur une carte sans qu’il soit nécessaire de les télécharger, ou de les
   manipuler, nous avons développé app.dvf.etalab.gouv.fr, une petite application web.
+une-ou-diaporama:
+- image: "/uploads/2019-05-13-dvf-revue-presse.jpg"
 auteur: Etalab
 redirection: https://www.etalab.gouv.fr/ce-que-nous-avons-appris-avec-dvf
 ---
