@@ -6,7 +6,7 @@
   <meta name="description" content="{{ site.description }}" />
   <meta name="google-site-verification" content="{{ site.google-verification }}" />
   <meta property="og:title" content="{{ page.title }}"/>
-  <meta property="og:image" content="{{ site.url }}{{ page.une-ou-diaporama[0].image }}"/>
+  <meta property="og:image" content="{% if page.une-ou-diaporama[0].image %}{{ site.url }}{{ page.une-ou-diaporama[0].image }}{%else%}{{ site.url }}/uploads/default.jpeg{% endif %}"/>
   <meta property="og:description" content="{{ page.chapeau-text | markdownify | strip_html  }}"/>
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   {% include imports/favicon.html %}
