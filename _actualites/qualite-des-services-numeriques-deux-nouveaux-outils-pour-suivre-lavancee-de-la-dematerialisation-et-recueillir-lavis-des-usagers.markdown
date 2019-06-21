@@ -50,7 +50,7 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 
 > #### Administrations, recueillez facilement la satisfaction de vos usagers en ligne, grâce à MonAvis
 > {: .margin-top-2 .margin-bottom-1}
-> <figure class='image-right' margin='0'><img src="/uploads/Bouton_Je_donne_mon_avis_bleu-200.png"/></figure>Votre administration propose des services en ligne ? A votre tour, intégrez le bouton « MonAvis » à la fin de votre démarche afin de recueillir l’avis de vos usagers. Vous aurez ainsi accès à un tableau de pilotage en backoffice pour consulter les avis déposés, et ainsi identifier vos marges d’amélioration et suivre les progrès réalisés. En dehors du respect des critères de qualité, vous aurez aussi la possibilité de modifier les informations sur votre démarche publiées dans l’observatoire de la dématérialisation.
+> <figure class='image-right' style='width: 30%;' margin='0'><img src="/uploads/Bouton_Je_donne_mon_avis_bleu-200.png"/></figure>Votre administration propose des services en ligne ? A votre tour, intégrez le bouton « MonAvis » à la fin de votre démarche afin de recueillir l’avis de vos usagers. Vous aurez ainsi accès à un tableau de pilotage en backoffice pour consulter les avis déposés, et ainsi identifier vos marges d’amélioration et suivre les progrès réalisés. En dehors du respect des critères de qualité, vous aurez aussi la possibilité de modifier les informations sur votre démarche publiées dans l’observatoire de la dématérialisation.
 > <br>
 > <br>
 > **Comment implémenter le bouton MonAvis ?** C’est très simple :
