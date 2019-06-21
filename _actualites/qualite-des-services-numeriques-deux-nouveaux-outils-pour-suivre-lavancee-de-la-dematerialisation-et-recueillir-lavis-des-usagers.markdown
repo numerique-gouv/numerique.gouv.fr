@@ -19,7 +19,7 @@ une-ou-diaporama:
 - image: "/uploads/observatoire-monavis_une.jpg"
 ---
 
-## Un observatoire de la dématérialisation et de sa qualité
+### Un observatoire de la dématérialisation et de sa qualité
 
 Où en est la dématérialisation des démarches de l’État ? Sont-elles de qualité ? Chacun peut désormais trouver réponse à ces questions facilement : la DINSIC vient de lancer, sous le portage du secrétaire d’État au Numérique Cédric O, un observatoire de la dématérialisation et de sa qualité. Un tableau de bord est dès aujourd’hui consultable sur [monavis.numerique.gouv.fr](https://monavis.numerique.gouv.fr/){:target="_blank"} et sera mis à jour tous les 3 mois.
 
@@ -38,7 +38,7 @@ Y sont passées en revue **les 250 démarches phares de l’État**, c’est-à-
 {: .text-center}
 {: .encadre}
 
-## L’avis des citoyens sur les démarches en ligne
+### L’avis des citoyens sur les démarches en ligne
 
 Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : MonAvis. Grâce à un bouton « Je donne mon avis » placé à la fin de sa démarche, chaque usager pourra bientôt donner son avis sur une démarche administrative en ligne qu’il vient d’effectuer. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
 
@@ -66,7 +66,7 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 
 
 
-## Simplifier réellement la vie des citoyens grâce au numérique
+### Simplifier réellement la vie des citoyens grâce au numérique
 
 Les résultats de l'ensemble de ces mesures permettront à l’État et aux administrations en charge de ces démarches d’identifier celles à améliorer en priorité et de mettre en place les actions adéquates.
 
