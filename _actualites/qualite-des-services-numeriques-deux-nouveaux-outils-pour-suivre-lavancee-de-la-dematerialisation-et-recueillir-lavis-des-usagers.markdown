@@ -31,7 +31,9 @@ Où en est la dématérialisation des démarches de l’Etat ? Sont-elles de qua
 Y sont passées en revue **les 250 démarches phares de l’Etat**, c’est-à-dire les plus utilisées par les particuliers et les entreprises. Pour chacune d’entre elles, il est précisé si elle peut être réalisée complètement en ligne, et si elle respecte **5 critères de qualité** clés : support usager de qualité (au moins deux moyens de contact et un accompagnement humain personnalisé), possibilité de s’identifier via FranceConnect, possibilité d’utiliser le service sur un smartphone, disponibilité/temps de réponse, et enfin l’indice de satisfaction usagers.
 
 > En mai 2019
+> 
 > **67%** des démarches phares de l’Etat sont dématérialisées
+> 
 > **Objectif 2022 : 100%**
 {: .text-center}
 {: .exergue}
