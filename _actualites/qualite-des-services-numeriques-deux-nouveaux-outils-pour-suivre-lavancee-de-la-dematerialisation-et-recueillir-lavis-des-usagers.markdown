@@ -66,18 +66,6 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 
 
 
-> Comment la qualité des démarches en ligne de l'État est-elle évaluée ?
-{: .text-center}
-
-Nous testons la conformité des démarches par rapport à des critères de qualité définis.
-
-Nous recueillons l'avis des usagers à la fin de celles-ci.
-
-Nous analysons les résultats pour identifier les démarches à améliorer en priorité.
-
-L’ensemble des résultats est publié dans le tableau de bord de l’observatoire de la dématérialisation
-
-
 ## Simplifier réellement la vie des citoyens grâce au numérique
 
 Lancés dans le cadre du [3e comité interministériel de la transformation publique](https://www.gouvernement.fr/transformation-publique-le-gouvernement-tient-ses-engagements) (CITP), qui s’est tenu le 20 juin 2019 sous la présidence du Premier ministre, cet observatoire comme MonAvis répondent à la volonté du Gouvernement de s’assurer que les services numériques simplifient effectivement la vie des Français et ne laissent personne au bord du chemin. Cet objectif de mettre le numérique au service des usagers est au cœur du [programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) d’accélération de la transformation numérique du service public.
