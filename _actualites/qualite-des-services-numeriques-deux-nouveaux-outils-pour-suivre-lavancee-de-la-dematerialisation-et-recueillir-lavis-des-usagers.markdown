@@ -48,8 +48,8 @@ Cet indice de satisfaction provient d’un deuxième dispositif que vient égale
 Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement en expérimentation à la Caf du Gard qui, lui, permettra aux usagers de partager leur expérience avec les services publics, tous canaux confondus.
 
 
-> ### Administrations, recueillez facilement la satisfaction de vos usagers en ligne, grâce à MonAvis
-> 
+> #### Administrations, recueillez facilement la satisfaction de vos usagers en ligne, grâce à MonAvis
+{: .margin-top-2 .margin-bottom-1}
 > Votre administration propose des services en ligne ? A votre tour, intégrez le bouton « MonAvis » à la fin de votre démarche afin de recueillir l’avis de vos usagers. Vous aurez ainsi accès à un tableau de pilotage en backoffice pour consulter les avis déposés, et ainsi identifier vos marges d’amélioration et suivre les progrès réalisés. En dehors du respect des critères de qualité, vous aurez aussi la possibilité de modifier les informations sur votre démarche publiées dans l’observatoire de la dématérialisation.
 > <br>
 > <br>
