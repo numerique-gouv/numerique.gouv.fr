@@ -43,6 +43,10 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
+* **Chef/fe de projet : nouvelle plateforme d'échange et de confiance PEC**[226-19-DINSIC - Fiche de poste_CP_PEC.pdf](/uploads/226-19-DINSIC%20-%20Fiche%20de%20poste_CP_PEC.pdf)
+<br> Paris
+<br> Cadre/catégorie A
+
 * [**Responsable Exploitation « FranceConnect » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=886c099e-75f7-480a-b977-d529d50a4640&offerid=180307 "Responsable Exploitation « FranceConnect » (F/H) - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A
