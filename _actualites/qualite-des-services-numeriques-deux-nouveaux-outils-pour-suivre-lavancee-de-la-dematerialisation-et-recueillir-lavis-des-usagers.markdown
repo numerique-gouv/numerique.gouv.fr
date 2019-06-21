@@ -23,6 +23,8 @@ une-ou-diaporama:
 
 Où en est la dématérialisation des démarches de l’Etat ? Sont-elles de qualité ? Chacun peut désormais trouver réponse à ces questions facilement : la DINSIC vient de lancer, sous le portage du secrétaire d’Etat au Numérique Cédric O, un observatoire de la dématérialisation et de sa qualité. Un tableau de bord est dès aujourd’hui consultable sur [monavis.numerique.gouv.fr](https://monavis.numerique.gouv.fr/) et sera mis à jour tous les 3 mois.
 
+[![Observatoire de la dématérialisation](/uploads/capture-observatoire-300.png){: width="200px" height="120px" }](https://monavis.numerique.gouv.fr/observatoire/)
+{: .text-center}
 > [Consulter l’observatoire de la dématérialisation](https://monavis.numerique.gouv.fr/observatoire/)
 {: .lien-important}
 
