@@ -21,14 +21,14 @@ une-ou-diaporama:
 
 ## Un observatoire de la dématérialisation et de sa qualité
 
-Où en est la dématérialisation des démarches de l’Etat ? Sont-elles de qualité ? Chacun peut désormais trouver réponse à ces questions facilement : la DINSIC vient de lancer, sous le portage du secrétaire d’Etat au Numérique Cédric O, un observatoire de la dématérialisation et de sa qualité. Un tableau de bord est dès aujourd’hui consultable sur [monavis.numerique.gouv.fr](https://monavis.numerique.gouv.fr/) et sera mis à jour tous les 3 mois.
+Où en est la dématérialisation des démarches de l’État ? Sont-elles de qualité ? Chacun peut désormais trouver réponse à ces questions facilement : la DINSIC vient de lancer, sous le portage du secrétaire d’État au Numérique Cédric O, un observatoire de la dématérialisation et de sa qualité. Un tableau de bord est dès aujourd’hui consultable sur [monavis.numerique.gouv.fr](https://monavis.numerique.gouv.fr/){:target="_blank"} et sera mis à jour tous les 3 mois.
 
 [![Observatoire de la dématérialisation](/uploads/capture-observatoire-300.png){: width="200px" height="120px" }](https://monavis.numerique.gouv.fr/observatoire/){:target="_blank"}
 {: .text-center}
 > [Consulter l’observatoire de la dématérialisation](https://monavis.numerique.gouv.fr/observatoire/){:target="_blank"}
 {: .lien-important}
 
-Y sont passées en revue **les 250 démarches phares de l’Etat**, c’est-à-dire les plus utilisées par les particuliers et les entreprises. Pour chacune d’entre elles, il est précisé si elle peut être réalisée complètement en ligne, et si elle respecte **5 critères de qualité** clés : support usager de qualité (au moins deux moyens de contact et un accompagnement humain personnalisé), possibilité de s’identifier via FranceConnect, possibilité d’utiliser le service sur un smartphone, disponibilité/temps de réponse, et enfin l’indice de satisfaction usagers.
+Y sont passées en revue **les 250 démarches phares de l’État**, c’est-à-dire les plus utilisées par les particuliers et les entreprises. Pour chacune d’entre elles, il est précisé si elle peut être réalisée complètement en ligne, et si elle respecte **5 critères de qualité** clés : support usager de qualité (au moins deux moyens de contact et un accompagnement humain personnalisé), possibilité de s’identifier via FranceConnect, possibilité d’utiliser le service sur un smartphone, disponibilité/temps de réponse, et enfin l’indice de satisfaction usagers.
 
 > En mai 2019
 > <br>
@@ -51,6 +51,7 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 > ### Administrations, recueillez facilement la satisfaction de vos usagers en ligne, grâce à MonAvis
 > 
 > Votre administration propose des services en ligne ? A votre tour, intégrez le bouton « MonAvis » à la fin de votre démarche afin de recueillir l’avis de vos usagers. Vous aurez ainsi accès à un tableau de pilotage en backoffice pour consulter les avis déposés, et ainsi identifier vos marges d’amélioration et suivre les progrès réalisés. En dehors du respect des critères de qualité, vous aurez aussi la possibilité de modifier les informations sur votre démarche publiées dans l’observatoire de la dématérialisation.
+> <br>
 > <br>
 > **Comment implémenter le bouton MonAvis ?** C’est très simple :
 > 
