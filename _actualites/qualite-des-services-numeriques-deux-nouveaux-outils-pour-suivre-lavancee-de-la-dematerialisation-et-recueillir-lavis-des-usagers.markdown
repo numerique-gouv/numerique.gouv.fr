@@ -71,8 +71,12 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 Les résultats de l'ensemble de ces mesures permettront à l’État et aux administrations en charge de ces démarches d’identifier celles à améliorer en priorité et de mettre en place les actions adéquates.
 
 Lancés dans le cadre du [3e comité interministériel de la transformation publique](https://www.gouvernement.fr/transformation-publique-le-gouvernement-tient-ses-engagements) (CITP), qui s’est tenu le 20 juin 2019 sous la présidence du Premier ministre, l'observatoire comme MonAvis répondent à la volonté du Gouvernement de s’assurer que les services numériques simplifient effectivement la vie des Français et ne laissent personne au bord du chemin. Cet objectif de mettre le numérique au service des usagers est au cœur du [programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) d’accélération de la transformation numérique du service public.
-<br>
-<br>
+
+*« J’ai la conviction que le numérique est un formidable atout pour les Français, encore faut-il que ce progrès soit partagé par tous. Nous sommes dans une démarche humble, transparente et ambitieuse. Lorsque nous décidons de rendre public l’état d’avancement des démarches en ligne, il ne s’agit pas de désigner les bons et les mauvais élèves mais au contraire de mesurer le chemin parcouru, de mobiliser les administrations et de construire avec les Français les services publics de demain. »*
+ - Cédric O, secrétaire d’État chargé du Numérique
+ 
+À la demande du Premier ministre, le secrétaire d’État a annoncé qu’il rencontrerait l’ensemble des membres du Gouvernement pour étudier, ministère par ministère, les actions à mettre en œuvre pour améliorer la qualité du service public en ligne.
+
 
 [![Consulter le bilan et les perspectives du 3e CITP](/uploads/couv-doc-citp-3-280contour.jpg){: width="100px" height="140px"}](https://www.gouvernement.fr/sites/default/files/document/document/2019/06/dossier_-_bilan_et_perspectives_du_3eme_comite_interministeriel_de_la_transformation_publique_-_20.06.2019.pdf)
 {: .text-center}
