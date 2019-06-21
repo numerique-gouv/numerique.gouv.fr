@@ -41,7 +41,7 @@ En septembre, un jury mixte, composé d’experts du privé et du public, sélec
 > **Un accompagnement personnalisé**
 > 
 > Pour accompagner les administrations participantes et les aider à construire leur dossier, la DINSIC organise des sessions d’information et des ateliers de travail thématiques :
-> 
+> <br>
 > * Mercredi 17 juillet de 14h à 17h à la DINSIC (Paris 7è) : présentation générale et questions- réponses
 > * Mercredi 24 juillet de 14h à 17h à la DINSIC (Paris 7è) : focus sur la trame de réponse à l’appel à projet
 > * Mercredi 28 août : préparation au pitch
