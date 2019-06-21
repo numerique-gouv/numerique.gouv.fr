@@ -23,7 +23,7 @@ Jusqu’au **6 septembre 2019 inclus**, cette deuxième édition invite les admi
 
 > #### Le programme Environnement de travail numérique de l’agent (ETNA)
 > Cet appel à projets s’inscrit plus globalement dans le cadre du programme Environnement de travail numérique de l’agent (ETNA) piloté par la DINSIC qui vise à simplifier la vie des agents et transformer leurs outils de travail avec le numérique. Parmi les réalisations concrètes du programme, la réalisation d’une boîte à outils numériques dédiés à l’agent et qui intègre d’ores et déjà la messagerie instantanée Tchap et l’outil de webconférence Jitsi.
-{: .encadré}
+{: .encadre}
 
 #### Outils collaboratifs et travail en mobilité
 
@@ -47,6 +47,6 @@ En septembre, un jury mixte, composé d’experts du privé et du public, sélec
 > * Mercredi 28 août : préparation au pitch
 > <br>
 > Pour vous y inscrire, écrivez-nous sur etna.dinsic@modernisation.gouv.fr.
-
+{: .encadre}
 [Consultez le cahier des charges complet]
 [Déposez votre candidature]
