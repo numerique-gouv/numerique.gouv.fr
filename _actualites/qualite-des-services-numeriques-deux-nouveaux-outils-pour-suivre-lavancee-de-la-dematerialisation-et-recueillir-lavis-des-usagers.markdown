@@ -19,7 +19,7 @@ une-ou-diaporama:
 - image: "/uploads/observatoire-monavis_une.jpg"
 ---
 
-### Un observatoire de la dématérialisation et de sa qualité
+### **Un observatoire de la dématérialisation et de sa qualité**
 
 Où en est la dématérialisation des démarches de l’État ? Sont-elles de qualité ? Chacun peut désormais trouver réponse à ces questions facilement : la DINSIC vient de lancer, sous le portage du secrétaire d’État au Numérique Cédric O, un observatoire de la dématérialisation et de sa qualité. Un tableau de bord est dès aujourd’hui consultable sur [monavis.numerique.gouv.fr](https://monavis.numerique.gouv.fr/){:target="_blank"} et sera mis à jour tous les 3 mois.
 
@@ -37,10 +37,12 @@ Y sont passées en revue **les 250 démarches phares de l’État**, c’est-à-
 > **Objectif 2022 : 100%**
 {: .text-center}
 {: .encadre}
+<br>
+<br>
 
-### L’avis des citoyens sur les démarches en ligne
+### **L’avis des citoyens sur les démarches en ligne**
 
-Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : MonAvis. Grâce à un bouton « Je donne mon avis » placé à la fin de sa démarche, chaque usager pourra bientôt donner son avis sur une démarche administrative en ligne qu’il vient d’effectuer. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
+Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : **MonAvis**. Grâce à **un bouton « Je donne mon avis »** placé à la fin de sa démarche, chaque usager pourra bientôt donner son avis sur une démarche administrative en ligne qu’il vient d’effectuer. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
 
 > [En savoir plus sur MonAvis](https://monavis.numerique.gouv.fr/Aide/Donner%20son%20avis){:target="_blank"}
 {: .lien-important}
@@ -66,11 +68,11 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 
 
 
-### Simplifier réellement la vie des citoyens grâce au numérique
+### **Simplifier réellement la vie des citoyens grâce au numérique**
 
-Les résultats de l'ensemble de ces mesures permettront à l’État et aux administrations en charge de ces démarches d’identifier celles à améliorer en priorité et de mettre en place les actions adéquates.
+Les résultats de l'ensemble de ces mesures permettront à l’État et aux administrations en charge de ces démarches d’**identifier celles à améliorer en priorité** et de **mettre en place les actions adéquates**.
 
-Lancés dans le cadre du [3e comité interministériel de la transformation publique](https://www.gouvernement.fr/transformation-publique-le-gouvernement-tient-ses-engagements) (CITP), qui s’est tenu le 20 juin 2019 sous la présidence du Premier ministre, l'observatoire comme MonAvis répondent à la volonté du Gouvernement de s’assurer que les services numériques simplifient effectivement la vie des Français et ne laissent personne au bord du chemin. Cet objectif de mettre le numérique au service des usagers est au cœur du [programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) d’accélération de la transformation numérique du service public.
+Lancés dans le cadre du [3e comité interministériel de la transformation publique](https://www.gouvernement.fr/transformation-publique-le-gouvernement-tient-ses-engagements) (CITP), qui s’est tenu le 20 juin 2019 sous la présidence du Premier ministre, l'observatoire comme MonAvis répondent à la volonté du Gouvernement de s’assurer que **les services numériques simplifient effectivement la vie des Français et ne laissent personne au bord du chemin**. Cet objectif de mettre le numérique au service des usagers est au cœur du [**programme TECH.GOUV**](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) d’accélération de la transformation numérique du service public.
 
  
 > J’ai la conviction que le numérique est un formidable atout pour les Français, encore faut-il que ce progrès soit partagé par tous. Nous sommes dans une démarche humble, transparente et ambitieuse. Lorsque nous décidons de rendre public l’état d’avancement des démarches en ligne, il ne s’agit pas de désigner les bons et les mauvais élèves mais au contraire de mesurer le chemin parcouru, de mobiliser les administrations et de construire avec les Français les services publics de demain.
