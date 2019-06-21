@@ -75,6 +75,11 @@ Lancés dans le cadre du [3e comité interministériel de la transformation publ
 *« J’ai la conviction que le numérique est un formidable atout pour les Français, encore faut-il que ce progrès soit partagé par tous. Nous sommes dans une démarche humble, transparente et ambitieuse. Lorsque nous décidons de rendre public l’état d’avancement des démarches en ligne, il ne s’agit pas de désigner les bons et les mauvais élèves mais au contraire de mesurer le chemin parcouru, de mobiliser les administrations et de construire avec les Français les services publics de demain. »*
  - Cédric O, secrétaire d’État chargé du Numérique
  
+>« J’ai la conviction que le numérique est un formidable atout pour les Français, encore faut-il que ce progrès soit partagé par tous. Nous sommes dans une démarche humble, transparente et ambitieuse. Lorsque nous décidons de rendre public l’état d’avancement des démarches en ligne, il ne s’agit pas de désigner les bons et les mauvais élèves mais au contraire de mesurer le chemin parcouru, de mobiliser les administrations et de construire avec les Français les services publics de demain. »
+{: .citation}
+>- Cédric O, secrétaire d’État chargé du Numérique
+{: .auteur-citation}
+
 À la demande du Premier ministre, le secrétaire d’État a annoncé qu’il rencontrerait l’ensemble des membres du Gouvernement pour étudier, ministère par ministère, les actions à mettre en œuvre pour améliorer la qualité du service public en ligne.
 
 
