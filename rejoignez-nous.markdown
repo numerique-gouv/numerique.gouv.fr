@@ -43,7 +43,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Chef/cheffe de projet : nouvelle plateforme d'échange et de confiance PEC**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=843f0ba6-82b3-44a9-8a93-75eb0841181b&offerid=213451 "Chef/fe de projet : nouvelle plateforme d'échange et de confiance PEC - Télécharger le pdf") (pdf - 300 ko)
+* [**Chef/cheffe de projet : nouvelle plateforme d'échange et de confiance**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=843f0ba6-82b3-44a9-8a93-75eb0841181b&offerid=213451 "Chef/fe de projet : nouvelle plateforme d'échange et de confiance PEC - Télécharger le pdf") (pdf - 300 ko)
 <br> Paris
 <br> Cadre/Catégorie A
 
