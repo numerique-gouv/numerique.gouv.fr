@@ -78,6 +78,7 @@ Lancés dans le cadre du [3e comité interministériel de la transformation publ
 > **Cédric O** 
 > <br>Secrétaire d’État chargé du Numérique
 {: .auteur-citation}
+{: .margin-top-0 .margin-bottom-1} 
 À la demande du Premier ministre, le secrétaire d’État a annoncé qu’il rencontrerait l’ensemble des membres du Gouvernement pour étudier, ministère par ministère, les actions à mettre en œuvre pour améliorer la qualité du service public en ligne.
 <br>
 <br>
