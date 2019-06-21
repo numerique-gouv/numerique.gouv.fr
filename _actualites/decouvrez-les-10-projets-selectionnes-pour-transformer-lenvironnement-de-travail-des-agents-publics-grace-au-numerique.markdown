@@ -76,4 +76,4 @@ Cette solution numérique équipe déjà 20% du parc informatique du ministère 
 
 Face au succès de cette initiative et à la qualité des projets présentés, **un deuxième appel à projets « Cas d’usage Environnement de travail numérique des agents »** sera lancé du **24 juin au 6 septembre 2019**.  **Les projets écartés lors de la première édition sont autorisés à candidater**. Au total, 740 616 euros seront attribués par le PIA aux nouveaux lauréats.
 
-<figure class='image-left' style='width: 15%; margin-right: 0px;'><img src="/uploads/SGPI.png"/>*Le programme ETNA, dans lequel s’inscrit cet appel à projet est financé à hauteur de 1,5 million d’euros par le Fonds de « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissement d’avenir (PIA) porté par le secrétariat général pour l’investissement.*
+![SGPI.png](/uploads/SGPI.png)*Le programme ETNA, dans lequel s’inscrit cet appel à projet est financé à hauteur de 1,5 million d’euros par le Fonds de « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissement d’avenir (PIA) porté par le secrétariat général pour l’investissement.*
