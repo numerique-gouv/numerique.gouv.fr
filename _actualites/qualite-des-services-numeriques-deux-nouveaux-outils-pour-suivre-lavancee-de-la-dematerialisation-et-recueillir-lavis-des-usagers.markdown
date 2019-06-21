@@ -28,13 +28,15 @@ Où en est la dématérialisation des démarches de l’Etat ? Sont-elles de qua
 
 Y sont passées en revue **les 250 démarches phares de l’Etat**, c’est-à-dire les plus utilisées par les particuliers et les entreprises. Pour chacune d’entre elles, il est précisé si elle peut être réalisée complètement en ligne, et si elle respecte **5 critères de qualité** clés : support usager de qualité (au moins deux moyens de contact et un accompagnement humain personnalisé), possibilité de s’identifier via FranceConnect, possibilité d’utiliser le service sur un smartphone, disponibilité/temps de réponse, et enfin l’indice de satisfaction usagers.
 
-En mai 2019
-**67%** des démarches phares de l’Etat sont dématérialisées
-**Objectif 2022 : 100%**
+> En mai 2019
+> **67%** des démarches phares de l’Etat sont dématérialisées
+> **Objectif 2022 : 100%**
+{: .text-center}
+{: .exergue}
 
-##L’avis des citoyens sur les démarches**
+## L’avis des citoyens sur les démarches
 
-Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : MonAvis. Grâce à un bouton « Je donne mon avis » placé à la fin de sa démarche, chaque usager pourra bientôt donner son avis sur une démarche administrative en ligne qu’il vient d’effectuer. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’Etat.
+Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : MonAvis. Grâce à un bouton « Je donne mon avis » placé à la fin de sa démarche, chaque usager pourra bientôt donner son avis sur une démarche administrative en ligne qu’il vient d’effectuer. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
 
 > [En savoir plus sur MonAvis](https://monavis.numerique.gouv.fr/Aide/Donner%20son%20avis)
 {: .lien-important}
@@ -57,8 +59,7 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 > 4. Récupérez le code du bouton en allant sur l’onglet « Code à intégrer ». Après avoir cliqué sur le bouton « générer le code » vous pouvez copier le code puis le copier dans la démarche
 {: .encadre}
 
-<span>Comment la qualité des démarches en ligne de l'État est-elle évaluée ?</span></h2></div><div class="col-xs-12 col-md-4"><p class="evalrow-icon"><span class="fa fa-cogs"></span></p><p>Nous testons la conformité des démarches par rapport à des critères de qualité définis.</p></div><div class="col-xs-12 col-md-4"><p class="evalrow-icon"><span class="fa fa-smile-o"></span></p><p>Nous recueillons l'avis des usagers à la fin de celles-ci.</p></div><div class="col-xs-12 col-md-4"><p class="evalrow-icon"><span class="fa fa-search"></span></p><p>Nous analysons les résultats pour identifier les démarches à améliorer en priorité.</p>
-L’ensemble des résultats est publié dans le tableau de bord de l’observatoire de la dématérialisation
+
 
 > Comment la qualité des démarches en ligne de l'État est-elle évaluée ?
 {: .text-center}
