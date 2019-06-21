@@ -15,6 +15,8 @@ chapeau-text: 250 démarches administratives « phares » accessibles en ligne p
   numérique Cédric O, lance un observatoire de la dématérialisation et de sa qualité,
   ainsi qu’un dispositif pour recueillir la satisfaction des usagers. Ces deux outils
   permettront d’identifier les pistes d’amélioration prioritaires.
+une-ou-diaporama:
+- image: "/uploads/observatoire-monavis_une.jpg"
 ---
 
 ## Un observatoire de la dématérialisation et de sa qualité
