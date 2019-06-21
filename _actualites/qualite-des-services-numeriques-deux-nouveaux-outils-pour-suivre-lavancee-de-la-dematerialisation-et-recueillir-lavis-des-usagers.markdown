@@ -54,13 +54,13 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 > <br>
 > **Comment implémenter le bouton MonAvis ?** C’est très simple :
 > 
-> 1.Créez votre compte sur [monavis.numerique.gouv.fr](https://monavis.numerique.gouv.fr/login/XWiki/XWikiLogin?xredirect=%2FXWiki%2FXWikiRegister)
+> **1.**Créez votre compte sur [monavis.numerique.gouv.fr](https://monavis.numerique.gouv.fr/login/XWiki/XWikiLogin?xredirect=%2FXWiki%2FXWikiRegister)
 > 
-> 2.Grâce au moteur de recherche, trouvez la démarche pour laquelle vous souhaitez créer le bouton
+> **2.**Grâce au moteur de recherche, trouvez la démarche pour laquelle vous souhaitez créer le bouton
 > 
-> 3.Sur la page de votre démarche, déclarez-vous « porteur de cette démarche »
+> **3.**Sur la page de votre démarche, déclarez-vous « porteur de cette démarche »
 > 
-> 4.Récupérez le code du bouton en allant dans l’onglet « Code à intégrer ». Cliquez sur le bouton « Générer le code », copiez-collez le code puis collez-le dans la démarche.
+> **4.** Récupérez le code du bouton en allant dans l’onglet « Code à intégrer ». Cliquez sur le bouton « Générer le code », copiez-collez le code puis collez-le dans la démarche.
 {: .encadre}
 
 
