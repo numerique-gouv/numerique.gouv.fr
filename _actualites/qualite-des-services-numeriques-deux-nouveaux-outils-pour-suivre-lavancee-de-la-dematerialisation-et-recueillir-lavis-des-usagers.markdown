@@ -49,7 +49,7 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 
 
 > #### Administrations, recueillez facilement la satisfaction de vos usagers en ligne, grâce à MonAvis
-{: .margin-top-2 .margin-bottom-1}
+> {: .margin-top-2 .margin-bottom-1}
 > Votre administration propose des services en ligne ? A votre tour, intégrez le bouton « MonAvis » à la fin de votre démarche afin de recueillir l’avis de vos usagers. Vous aurez ainsi accès à un tableau de pilotage en backoffice pour consulter les avis déposés, et ainsi identifier vos marges d’amélioration et suivre les progrès réalisés. En dehors du respect des critères de qualité, vous aurez aussi la possibilité de modifier les informations sur votre démarche publiées dans l’observatoire de la dématérialisation.
 > <br>
 > <br>
@@ -68,7 +68,9 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 
 ## Simplifier réellement la vie des citoyens grâce au numérique
 
-Lancés dans le cadre du [3e comité interministériel de la transformation publique](https://www.gouvernement.fr/transformation-publique-le-gouvernement-tient-ses-engagements) (CITP), qui s’est tenu le 20 juin 2019 sous la présidence du Premier ministre, cet observatoire comme MonAvis répondent à la volonté du Gouvernement de s’assurer que les services numériques simplifient effectivement la vie des Français et ne laissent personne au bord du chemin. Cet objectif de mettre le numérique au service des usagers est au cœur du [programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) d’accélération de la transformation numérique du service public.
+Les résultats de l'ensemble de ces mesures permettront à l’État et aux administrations en charge de ces démarches d’identifier celles à améliorer en priorité et de mettre en place les actions adéquates.
+
+Lancés dans le cadre du [3e comité interministériel de la transformation publique](https://www.gouvernement.fr/transformation-publique-le-gouvernement-tient-ses-engagements) (CITP), qui s’est tenu le 20 juin 2019 sous la présidence du Premier ministre, l'observatoire comme MonAvis répondent à la volonté du Gouvernement de s’assurer que les services numériques simplifient effectivement la vie des Français et ne laissent personne au bord du chemin. Cet objectif de mettre le numérique au service des usagers est au cœur du [programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) d’accélération de la transformation numérique du service public.
 <br>
 <br>
 
