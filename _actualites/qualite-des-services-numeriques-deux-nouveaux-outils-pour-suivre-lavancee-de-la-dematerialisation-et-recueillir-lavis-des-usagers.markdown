@@ -78,9 +78,9 @@ Lancés dans le cadre du [3e comité interministériel de la transformation publ
 > **Cédric O** 
 > <br>Secrétaire d’État chargé du Numérique
 {: .auteur-citation}
-
 À la demande du Premier ministre, le secrétaire d’État a annoncé qu’il rencontrerait l’ensemble des membres du Gouvernement pour étudier, ministère par ministère, les actions à mettre en œuvre pour améliorer la qualité du service public en ligne.
-
+<br>
+<br>
 
 [![Consulter le bilan et les perspectives du 3e CITP](/uploads/couv-doc-citp-3-280contour.jpg){: width="100px" height="140px"}](https://www.gouvernement.fr/sites/default/files/document/document/2019/06/dossier_-_bilan_et_perspectives_du_3eme_comite_interministeriel_de_la_transformation_publique_-_20.06.2019.pdf)
 {: .text-center}
