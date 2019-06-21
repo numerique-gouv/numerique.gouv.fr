@@ -61,7 +61,7 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 > 
 > **3.** Sur la page de votre démarche, déclarez-vous « porteur de cette démarche »
 > 
-> **4.** Récupérez le code du bouton en allant dans l’onglet « Code à intégrer ». Cliquez sur le bouton « Générer le code », copiez-collez le code puis collez-le dans la démarche.
+> **4.** Récupérez le code du bouton en allant dans l’onglet « Code à intégrer ». Cliquez sur le bouton « Générer le code », copiez le code puis collez-le dans la démarche.
 {: .encadre}
 
 
