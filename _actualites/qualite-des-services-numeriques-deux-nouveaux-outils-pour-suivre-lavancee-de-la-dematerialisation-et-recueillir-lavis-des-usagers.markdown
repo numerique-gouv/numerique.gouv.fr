@@ -40,7 +40,7 @@ Y sont passées en revue **les 250 démarches phares de l’État**, c’est-à-
 
 ### L’avis des citoyens sur les démarches en ligne
 
-Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : MonAvis. Grâce à un bouton « Je donne mon avis » placé à la fin de sa démarche, chaque usager pourra bientôt donner son avis sur une démarche administrative en ligne qu’il vient d’effectuer. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
+<figure class='image-right' margin-top='3'><img src="/uploads/Bouton_Je_donne_mon_avis_bleu-200.png"/><img src="/uploads/Bouton_Je_donne_mon_avis_bleu-200.png">Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : MonAvis. Grâce à un bouton « Je donne mon avis » placé à la fin de sa démarche, chaque usager pourra bientôt donner son avis sur une démarche administrative en ligne qu’il vient d’effectuer. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
 
 > [En savoir plus sur MonAvis](https://monavis.numerique.gouv.fr/Aide/Donner%20son%20avis){:target="_blank"}
 {: .lien-important}
