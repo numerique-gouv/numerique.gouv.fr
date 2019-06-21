@@ -12,20 +12,20 @@ chapeau-text: 250 démarches administratives « phares » accessibles en ligne p
   2022, rappelée lors du [3e comité interministériel de la transformation publique](https://www.gouvernement.fr/transformation-publique-le-gouvernement-tient-ses-engagements){:target="_blank"}
   (CITP), qui s’est tenu ce jeudi 20 juin 2019. Pour tenir cet objectif, la direction
   interministérielle du numérique (DINSIC), sous le portage du secrétaire d’État au
-  numérique Cédric O, lance un observatoire de la dématérialisation et de sa qualité,
+  numérique Cédric O, lance un observatoire de la qualité des services numériques,
   ainsi qu’un dispositif pour recueillir la satisfaction des usagers. Ces deux outils
   permettront d’identifier les pistes d’amélioration prioritaires.
 une-ou-diaporama:
 - image: "/uploads/observatoire-monavis_une.jpg"
 ---
 
-### **Un observatoire de la dématérialisation et de sa qualité**
+### **Un observatoire de la qualité des services numériques**
 
 Où en est la dématérialisation des démarches de l’État ? Sont-elles de qualité ? Chacun peut désormais trouver réponse à ces questions facilement : la DINSIC vient de lancer, sous le portage du secrétaire d’État au Numérique Cédric O, un observatoire de la dématérialisation et de sa qualité. Un tableau de bord est dès aujourd’hui consultable sur [monavis.numerique.gouv.fr](https://monavis.numerique.gouv.fr/){:target="_blank"} et sera mis à jour tous les 3 mois.
 
-[![Observatoire de la dématérialisation](/uploads/capture-observatoire-300.png){: width="200px" height="120px" }](https://monavis.numerique.gouv.fr/observatoire/){:target="_blank"}
+[![Observatoire de la qualité des services numériques](/uploads/capture-observatoire-300.png){: width="200px" height="120px" }](https://monavis.numerique.gouv.fr/observatoire/){:target="_blank"}
 {: .text-center}
-> [Consulter l’observatoire de la dématérialisation](https://monavis.numerique.gouv.fr/observatoire/){:target="_blank"}
+> [Consulter l’observatoire de la qualité des services numériques](https://monavis.numerique.gouv.fr/observatoire/){:target="_blank"}
 {: .lien-important}
 
 Y sont passées en revue **les 250 démarches phares de l’État**, c’est-à-dire les plus utilisées par les particuliers et les entreprises. Pour chacune d’entre elles, il est précisé si elle peut être réalisée complètement en ligne, et si elle respecte **5 critères de qualité** clés : support usager de qualité (au moins deux moyens de contact et un accompagnement humain personnalisé), possibilité de s’identifier via FranceConnect, possibilité d’utiliser le service sur un smartphone, disponibilité/temps de réponse, et enfin l’indice de satisfaction usagers.
