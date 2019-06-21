@@ -59,7 +59,7 @@ Cette solution numérique équipe déjà 20% du parc informatique du ministère 
 
 * **Horizon : mettre en place un espace de travail numérique sécurisé et accessible partout dans le monde**<br>
   *Ministère de l’Europe et des Affaires étrangères*<br>
-  Cette espace ouvert à tous les agents du ministère, regroupera une messagerie, une messagerie instantanée avec visioconférence, des espaces de travail collaboratifs ainsi que des outils de stockage et transfert de documents.\
+  Cette espace ouvert à tous les agents du ministère, regroupera une messagerie, une messagerie instantanée avec visioconférence, des espaces de travail collaboratifs ainsi que des outils de stockage et transfert de documents.
   <br>
 
 * **RESANA 2020, déployer une plateforme collaborative pour faciliter la communication entre les agents de la préfecture**<br>
