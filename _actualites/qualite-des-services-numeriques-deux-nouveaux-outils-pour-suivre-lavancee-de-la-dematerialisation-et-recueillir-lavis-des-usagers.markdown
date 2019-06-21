@@ -54,13 +54,13 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 > 
 > **Comment implémenter le bouton MonAvis ?** C’est très simple :
 > 
-> 1. Créez votre compte sur [monavis.numerique.gouv.fr](https://monavis.numerique.gouv.fr/login/XWiki/XWikiLogin?xredirect=%2FXWiki%2FXWikiRegister)
+> 1.Créez votre compte sur [monavis.numerique.gouv.fr](https://monavis.numerique.gouv.fr/login/XWiki/XWikiLogin?xredirect=%2FXWiki%2FXWikiRegister)
 > 
-> 2. Grâce au moteur de recherche, trouvez la démarche pour laquelle vous souhaitez créer le bouton
+> 2.Grâce au moteur de recherche, trouvez la démarche pour laquelle vous souhaitez créer le bouton
 > 
-> 3. Sur la page de votre démarche, déclarez-vous « porteur de cette démarche »
+> 3.Sur la page de votre démarche, déclarez-vous « porteur de cette démarche »
 > 
-> 4. Récupérez le code du bouton en allant sur l’onglet « Code à intégrer ». Après avoir cliqué sur le bouton « générer le code » vous pouvez copier le code puis le copier dans la démarche
+> 4.Récupérez le code du bouton en allant sur l’onglet « Code à intégrer ». Après avoir cliqué sur le bouton « générer le code » vous pouvez copier le code puis le copier dans la démarche
 {: .encadre}
 
 
@@ -84,5 +84,5 @@ Lancés dans le cadre du [3e comité interministériel de la transformation publ
 
 [![Consulter le bilan et les perspectives du 3e CITP)(/uploads/couv-doc-citp-3-280.png){: width="100px" height="140px" }](https://www.gouvernement.fr/sites/default/files/document/document/2019/06/dossier_-_bilan_et_perspectives_du_3eme_comite_interministeriel_de_la_transformation_publique_-_20.06.2019.pdf)
 {: .text-center}
-> [Consulter le bilan et les perspectives du 3e CITP](https://www.gouvernement.fr/sites/default/files/document/document/2019/06/dossier_-_bilan_et_perspectives_du_3eme_comite_interministeriel_de_la_transformation_publique_-_20.06.2019.pdf)(pdf, 560 ko)
+> [Consulter le bilan et les perspectives du 3e CITP](https://www.gouvernement.fr/sites/default/files/document/document/2019/06/dossier_-_bilan_et_perspectives_du_3eme_comite_interministeriel_de_la_transformation_publique_-_20.06.2019.pdf)(pdf, 560 ko) 
 {: .lien-important}
