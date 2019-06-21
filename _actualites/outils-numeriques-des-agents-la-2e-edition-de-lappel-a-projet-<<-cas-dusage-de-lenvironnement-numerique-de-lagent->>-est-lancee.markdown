@@ -21,8 +21,8 @@ Identifier les **outils numériques** dont les agents ont besoin pour **collabor
 
 Jusqu’au **6 septembre 2019 inclus**, cette deuxième édition invite les administrations et les opérateurs à **faire remonter leur cas d’usage** issus du terrain, à partir desquels seront prototypées des solutions numériques. Les administrations ayant participés à la première vague (LIEN) sont autorisées à déposer leur dossier. 
 
->#### Le programme Environnement de travail numérique de l’agent (ETNA)
->Cet appel à projets s’inscrit plus globalement dans le cadre du programme Environnement de travail numérique de l’agent (ETNA) piloté par la DINSIC qui vise à simplifier la vie des agents et transformer leurs outils de travail avec le numérique. Parmi les réalisations concrètes du programme, la réalisation d’une boîte à outils numériques dédiés à l’agent et qui intègre d’ores et déjà la messagerie instantanée Tchap et l’outil de webconférence Jitsi.
+> #### Le programme Environnement de travail numérique de l’agent (ETNA)
+> Cet appel à projets s’inscrit plus globalement dans le cadre du programme Environnement de travail numérique de l’agent (ETNA) piloté par la DINSIC qui vise à simplifier la vie des agents et transformer leurs outils de travail avec le numérique. Parmi les réalisations concrètes du programme, la réalisation d’une boîte à outils numériques dédiés à l’agent et qui intègre d’ores et déjà la messagerie instantanée Tchap et l’outil de webconférence Jitsi.
 {: .encadré}
 
 #### Outils collaboratifs et travail en mobilité
@@ -38,15 +38,15 @@ Par ailleurs, il est possible de proposer des solutions déjà éprouvées au se
 
 En septembre, un jury mixte, composé d’experts du privé et du public, sélectionnera les projets les plus prometteurs en termes d’impact sur l’amélioration de l’environnement de travail de l’agent. Les lauréats pourront bénéficier d’un financement à hauteur de 100% pour le développement et l’expérimentation de leur solution. 
 
->**Un accompagnement personnalisé**
->
->Pour accompagner les administrations participantes et les aider à construire leur dossier, la DINSIC organise des sessions d’information et des ateliers de travail thématiques :
->
->* Mercredi 17 juillet de 14h à 17h à la DINSIC (Paris 7è) : présentation générale et questions- réponses
->* Mercredi 24 juillet de 14h à 17h à la DINSIC (Paris 7è) : focus sur la trame de réponse à l’appel à projet
->* Mercredi 28 août : préparation au pitch
-<br>
-Pour vous y inscrire, écrivez-nous sur etna.dinsic@modernisation.gouv.fr.
+> **Un accompagnement personnalisé**
+> 
+> Pour accompagner les administrations participantes et les aider à construire leur dossier, la DINSIC organise des sessions d’information et des ateliers de travail thématiques :
+> 
+> * Mercredi 17 juillet de 14h à 17h à la DINSIC (Paris 7è) : présentation générale et questions- réponses
+> * Mercredi 24 juillet de 14h à 17h à la DINSIC (Paris 7è) : focus sur la trame de réponse à l’appel à projet
+> * Mercredi 28 août : préparation au pitch
+> <br>
+> Pour vous y inscrire, écrivez-nous sur etna.dinsic@modernisation.gouv.fr.
 
 [Consultez le cahier des charges complet]
 [Déposez votre candidature]
