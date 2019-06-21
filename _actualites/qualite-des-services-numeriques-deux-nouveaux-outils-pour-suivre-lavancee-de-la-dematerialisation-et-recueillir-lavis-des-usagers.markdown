@@ -38,7 +38,6 @@ Y sont passées en revue **les 250 démarches phares de l’État**, c’est-à-
 {: .text-center}
 {: .encadre}
 <br>
-<br>
 
 ### **L’avis des citoyens sur les démarches en ligne**
 
