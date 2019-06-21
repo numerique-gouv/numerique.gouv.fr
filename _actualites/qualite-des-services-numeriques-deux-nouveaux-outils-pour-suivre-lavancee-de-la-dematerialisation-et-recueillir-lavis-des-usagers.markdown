@@ -32,7 +32,7 @@ Y sont passées en revue **les 250 démarches phares de l’Etat**, c’est-à-d
 
 > En mai 2019
 > 
-> **67%** des démarches phares de l’Etat sont dématérialisées
+> **67%** des démarches phares de l’État sont dématérialisées
 > 
 > **Objectif 2022 : 100%**
 {: .text-center}
