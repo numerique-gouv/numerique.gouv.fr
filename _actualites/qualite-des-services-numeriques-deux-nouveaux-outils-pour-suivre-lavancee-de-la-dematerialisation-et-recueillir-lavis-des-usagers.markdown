@@ -81,5 +81,8 @@ L’ensemble des résultats est publié dans le tableau de bord de l’observato
 
 Lancés dans le cadre du [3e comité interministériel de la transformation publique](https://www.gouvernement.fr/transformation-publique-le-gouvernement-tient-ses-engagements) (CITP), qui s’est tenu le 20 juin 2019 sous la présidence du Premier ministre, cet observatoire comme MonAvis répondent à la volonté du Gouvernement de s’assurer que les services numériques simplifient effectivement la vie des Français et ne laissent personne au bord du chemin. Cet objectif de mettre le numérique au service des usagers est au cœur du [programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) d’accélération de la transformation numérique du service public.
 
+
+[![Consulter le bilan et les perspectives du 3e CITP)(/uploads/couv-doc-citp-3-280.png){: width="100px" height="140px" }](https://www.gouvernement.fr/sites/default/files/document/document/2019/06/dossier_-_bilan_et_perspectives_du_3eme_comite_interministeriel_de_la_transformation_publique_-_20.06.2019.pdf)
+{: .text-center}
 > [Consulter le bilan et les perspectives du 3e CITP](https://www.gouvernement.fr/sites/default/files/document/document/2019/06/dossier_-_bilan_et_perspectives_du_3eme_comite_interministeriel_de_la_transformation_publique_-_20.06.2019.pdf)(pdf, 560 ko)
 {: .lien-important}
