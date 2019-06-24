@@ -1,7 +1,7 @@
 ---
 title: 'Outils numériques des agents : la 2e édition de l’appel à projet « Cas d’usage
   de l’environnement numérique de l’agent » est lancée !'
-date: 2019-06-21 17:11:00 +02:00
+date: 2019-06-24 17:11:00 +02:00
 published: false
 categories:
 - Appel à projets
