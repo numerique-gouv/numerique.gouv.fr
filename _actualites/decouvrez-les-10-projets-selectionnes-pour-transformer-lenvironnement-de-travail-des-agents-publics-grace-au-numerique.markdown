@@ -15,9 +15,9 @@ chapeau-text: En mars 2019, la DINSIC lançait [l’appel à projet](https://num
   les **10 projets** retenus pour créer des prototypes de solutions numériques.
 ---
 
-En mars 2019, la DINSIC lançait l’appel à projets [Lien] « Cas d’usages de l’environnement de travail numérique de l’agent (ETNA) ». L’objectif ? Identifier les **outils numériques nécessaires aux agents** pour bien **collaborer** avec l’ensemble de leurs interlocuteurs et **travailler à distance**. Découvrez les **10 projets* retenus pour créer des prototypes de solutions numériques, avant le lancement d’un deuxième appel à projets (LIEN).
+En mars 2019, la DINSIC lançait [l’appel à projets] (https://numerique.gouv.fr/actualites/outils-numeriques-agentadministrations-appel-a-projets/){:target="_blank"} « Cas d’usages de l’environnement de travail numérique de l’agent (ETNA) ». L’objectif ? Identifier les **outils numériques nécessaires aux agents** pour bien **collaborer** avec l’ensemble de leurs interlocuteurs et **travailler à distance**. Découvrez les **10 projets* retenus pour créer des prototypes de solutions numériques, avant le lancement d’un deuxième appel à projets (LIEN).
 
-En mars 2019 (LIEN), la première édition de **l’appel à projets « Cas d’usage de l’environnement de travail numérique de l’agent (ETNA) »** invitait les administrations à faire remonter des cas d’usages, afin d’identifier les **outils numériques** dont les agents ont besoin pour **collaborer et travailler à distance**. 
+En mars 2019, la [première édition](https://numerique.gouv.fr/actualites/outils-numeriques-agentadministrations-appel-a-projets/){:target="_blank"} de **l’appel à projets « Cas d’usage de l’environnement de travail numérique de l’agent (ETNA) »** invitait les administrations à faire remonter des cas d’usages, afin d’identifier les **outils numériques** dont les agents ont besoin pour **collaborer et travailler à distance**. 
 
 #### Les 10 projets lauréats
 
