@@ -76,7 +76,7 @@ Pour chacun de ces projets, les prototypes seront réalisés jusqu’à **mi-dé
 
 #### Lancement d'un nouvel appel à projet
 
-Face au succès de cette initiative et à la qualité des projets présentés, **un deuxième appel à projets « Cas d’usage Environnement de travail numérique des agents (ETNA) »** [lien vers article] sera lancé du **24 juin au 6 septembre 2019 inclus**.  Les projets écartés lors de la première édition sont autorisés à candidater. Au total, **près d’1,5 million d’euros** seront attribués par le PIA aux nouveaux lauréats. 
+Face au succès de cette initiative et à la qualité des projets présentés, **un [deuxième appel à projets](https://numerique.gouv.fractualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/){:target="_blank"} « Cas d’usage Environnement de travail numérique des agents (ETNA) »** sera lancé du **24 juin au 6 septembre 2019 inclus**.  Les projets écartés lors de la première édition sont autorisés à candidater. Au total, **près d’1,5 million d’euros** seront attribués par le PIA aux nouveaux lauréats. 
 <br>
 <br>
 <figure class='image-left' style='width: 15%; margin-right: 10px;'>
