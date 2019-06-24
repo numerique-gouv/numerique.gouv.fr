@@ -61,5 +61,5 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > <br>
 > Pour vous inscrire, écrivez-nous sur [etna.dinsic@modernisation.gouv.fr](mailto:etna.dinsic@modernisation.gouv.fr).
 {: .encadre}
-[Consultez le cahier des charges complet]
-[Déposez votre candidature]
+[Consultez le cahier des charges complet](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)
+[Déposez votre candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
