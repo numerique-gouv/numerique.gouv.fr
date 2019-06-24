@@ -1,7 +1,8 @@
 ---
 title: Découvrez les 10 premiers projets sélectionnés pour transformer l’environnement
   de travail des agents publics,  grâce au numérique !
-date: 2019-06-21 16:32:00 +02:00
+date: 2019-06-24 16:32:00 +02:00
+published: false
 categories:
 - Appel à projets
 tags:
