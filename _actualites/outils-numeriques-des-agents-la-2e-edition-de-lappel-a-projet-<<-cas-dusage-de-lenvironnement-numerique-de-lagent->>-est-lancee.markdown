@@ -54,6 +54,7 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > 
 > **Un accompagnement personnalisé**
 > <br>
+> <br>
 > Pour accompagner les administrations participantes et les aider à construire leur dossier, la DINSIC organise des sessions d’information et des ateliers de travail thématiques, dans ses locaux Paris 7e :
 > <br>
 > * Mercredi 17 juillet de 14h à 17h : présentation générale et questions- réponses
