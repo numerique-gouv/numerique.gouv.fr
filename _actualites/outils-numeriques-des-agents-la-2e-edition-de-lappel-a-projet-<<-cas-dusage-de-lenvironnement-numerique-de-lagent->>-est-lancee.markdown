@@ -26,7 +26,7 @@ Jusqu’au **6 septembre 2019 inclus**, cette deuxième édition invite les admi
 
 > 
 > #### Le programme Environnement de travail numérique de l’agent (ETNA)
-> Cet appel à projets s’inscrit plus globalement dans le cadre du programme Environnement de travail numérique de l’agent (ETNA) piloté par la DINSIC dans le cadre de **[TECH.GOUV]**(https://numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/){:target="_blank"}. Il vise à simplifier la vie des agents et transformer leurs outils de travail avec le numérique. Parmi les réalisations concrètes du programme, la réalisation d’une boîte à outils numériques dédiés à l’agent et qui intègre d’ores et déjà la messagerie instantanée [Tchap](https://numerique.gouv.fr/espace-presse/lancement-de-tchap-la-messagerie-instantanee-des-agents-de-letat/){:target="_blank"}
+> Cet appel à projets s’inscrit plus globalement dans le cadre du programme Environnement de travail numérique de l’agent (ETNA) piloté par la DINSIC dans le cadre de [TECH.GOUV](https://numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/){:target="_blank"}. Il vise à simplifier la vie des agents et transformer leurs outils de travail avec le numérique. Parmi les réalisations concrètes du programme, la réalisation d’une boîte à outils numériques dédiés à l’agent et qui intègre d’ores et déjà la messagerie instantanée [Tchap](https://numerique.gouv.fr/espace-presse/lancement-de-tchap-la-messagerie-instantanee-des-agents-de-letat/){:target="_blank"}
 {: .encadre}
 
 #### Outils collaboratifs et travail en mobilité
@@ -53,7 +53,7 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 
 > 
 > **Un accompagnement personnalisé**
-> 
+> <br>
 > Pour accompagner les administrations participantes et les aider à construire leur dossier, la DINSIC organise des sessions d’information et des ateliers de travail thématiques, dans ses locaux Paris 7e :
 > <br>
 > * Mercredi 17 juillet de 14h à 17h : présentation générale et questions- réponses
@@ -62,7 +62,7 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > <br>
 > Pour vous inscrire, écrivez-nous sur [etna.dinsic@modernisation.gouv.fr](mailto:etna.dinsic@modernisation.gouv.fr).
 {: .encadre}
-[Consultez le cahier des charges complet](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)
+[Consultez le cahier des charges complet](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)<br>
 [Déposez votre candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
 
 En mars 2019, la [première édition](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/){:target="_blank"} de l’appel à projets « Cas d’usage de l’environnement de travail numérique de l’agent (ETNA) » invitait les administrations à faire remonter des cas d’usages. Sur les 25 proposés par les administrations, voici les **10 projets** sélectionnés par le jury composé d’experts issus du public et du privé : 
