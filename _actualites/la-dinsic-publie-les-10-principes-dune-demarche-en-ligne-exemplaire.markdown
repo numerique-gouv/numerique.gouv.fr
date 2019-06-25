@@ -21,6 +21,9 @@ Ces dix dernières années, les services en ligne de l’Etat se sont multiplié
 
 Clairs et pédagogiques, ils s’adressent en premier lieu à tous ceux qui conçoivent et développent les services en ligne : chefs de projets métier, DSI, développeurs, intégrateurs… qu’ils soient en interne ou prestataires.
 
+> [Consulter les 10 principes d'une démarche en ligne exemplaire](https://www.numerique.gouv.fr/publications/dix-principes/ "Consulter les 10 principes d'une démarche en ligne exemplaire")
+{: .lien-important}
+
 #### **Du point de vue de l'utilisateur**
 {: .margin-top-4 .margin-bottom-1} 
 *« La transformation numérique fait appel à des métiers et savoir-faire nouveaux, pour l’administration comme pour le secteur privé, sur lesquels nous devons continuer à progresser collectivement »*, note Marine Gout.
