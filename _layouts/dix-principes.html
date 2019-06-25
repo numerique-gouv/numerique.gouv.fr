@@ -8,15 +8,15 @@ layout: default
   </div>
   <a id="content" tabindex="-1"></a>
   <article>
-    {% if page.content != blank %}
+    <section class="cell white-container padding-large-5 padding-medium-1" >
+      {% include components/titre-page-fille.html %}
+      {% if page.content != blank %}
     <div class="white-container cell grid-x">
       <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
         {{ page.content }}
       </section>
     </div>
     {% endif %}
-    <section class="cell white-container padding-large-5 padding-medium-1" >
-      {% include components/titre-page-fille.html %}
       <div class="h2 text-center">
         {{ page.subtitle }}
       </div>
