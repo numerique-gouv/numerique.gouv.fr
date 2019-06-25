@@ -8,11 +8,14 @@ tags:
 - Environnement de travail numérique
 - Appel à projets
 - Outils numériques
+is_une: true
 chapeau-text: Vous êtes une administration de l’État et souhaitez améliorer le quotidien
   des agents grâce aux **outils numériques** ? La DINSIC lance la deuxième édition
   de **l’appel à projets « Cas d’usage de l’environnement de travail numérique de
   l’agent (ETNA) »**. Proposez vos projets du **24 juin au 6 septembre 2019 inclus**!
   Et découvrez aussi les **10 projets** sélectionnés lors de la [première édition](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/){:target="_blank"}.
+une-ou-diaporama:
+- image: "/uploads/lancement-aap-pia-etna.jpg"
 ---
 
 #### S’appuyer sur les pratiques des agents
