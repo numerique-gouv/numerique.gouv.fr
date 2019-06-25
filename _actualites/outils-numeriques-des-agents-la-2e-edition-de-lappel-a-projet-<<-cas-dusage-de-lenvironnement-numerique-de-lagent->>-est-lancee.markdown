@@ -42,7 +42,7 @@ Il est possible de proposer des solutions déjà éprouvées au sein d’une adm
 
 Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, sélectionnera les projets les plus prometteurs en termes d’impact sur l’amélioration de l’environnement de travail de l’agent. Les lauréats pourront bénéficier d’un financement à hauteur de 100% pour le développement et l’expérimentation de leur solution. 
 <br>
-
+<br>
 **Calendrier :** 
 * **6 septembre 2019 à minuit :** clôture des candidatures
 * **Fin septembre :** jury
@@ -56,6 +56,7 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > <br>
 > <br>
 > Pour accompagner les administrations participantes et les aider à construire leur dossier, la DINSIC organise des sessions d’information et des ateliers de travail thématiques, dans ses locaux Paris 7e :
+> <br>
 > <br>
 > * Mercredi 17 juillet de 14h à 17h : présentation générale et questions- réponses
 > * Mercredi 24 juillet de 14h à 17h : focus sur la trame de réponse à l’appel à projets
