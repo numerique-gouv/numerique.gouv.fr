@@ -28,6 +28,8 @@ Où en est la dématérialisation des démarches de l’État ? Sont-elles de qu
 > [Consulter l’observatoire de la qualité des services numériques](https://monavis.numerique.gouv.fr/observatoire/){:target="_blank"}
 {: .lien-important}
 
+Le tableau de bord de l'observatoire est également [disponible en open data sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/observatoire-de-la-dematerialisation-de-qualite-tableau-de-bord-des-demarches-phares-de-letat/).
+
 Y sont passées en revue **les 250 démarches phares de l’État**, c’est-à-dire les plus utilisées par les particuliers et les entreprises. Pour chacune d’entre elles, il est précisé si elle peut être réalisée complètement en ligne, et si elle respecte **5 critères de qualité** clés : support usager de qualité (au moins deux moyens de contact et un accompagnement humain personnalisé), possibilité de s’identifier via FranceConnect, possibilité d’utiliser le service sur un smartphone, disponibilité/temps de réponse, et enfin l’indice de satisfaction usagers.
 
 > En mai 2019
