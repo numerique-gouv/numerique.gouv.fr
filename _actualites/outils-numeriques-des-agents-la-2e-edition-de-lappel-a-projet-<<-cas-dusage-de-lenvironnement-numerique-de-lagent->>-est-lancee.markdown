@@ -1,19 +1,21 @@
 ---
 title: 'Outils numériques des agents : la 2e édition de l’appel à projet « Cas d’usage
   de l’environnement numérique de l’agent » est lancée !'
-date: 2019-06-24 17:11:00 +02:00
+date: 2019-06-25 11:11:00 +02:00
 categories:
 - Appel à projets
 tags:
 - Environnement de travail numérique
 - Appel à projets
 - Outils numériques
-chapeau-text: 'Vous êtes une administration de l’État et souhaitez améliorer le quotidien
+is_une: true
+chapeau-text: Vous êtes une administration de l’État et souhaitez améliorer le quotidien
   des agents grâce aux **outils numériques** ? La DINSIC lance la deuxième édition
   de **l’appel à projets « Cas d’usage de l’environnement de travail numérique de
-  l’agent (ETNA) »**. Proposez vos projets du **24 juin au 6 septembre 2019 inclus**.
-  Les administrations ayant participé à la [première édition](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/){:target="_blank"}
-  (mars 2019) peuvent retenter leur chance ! '
+  l’agent (ETNA) »**. Proposez vos projets du **24 juin au 6 septembre 2019 inclus**!
+  Et découvrez aussi les **10 projets** sélectionnés lors de la [première édition](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/){:target="_blank"}.
+une-ou-diaporama:
+- image: "/uploads/lancement-aap-pia-etna.jpg"
 ---
 
 #### S’appuyer sur les pratiques des agents
@@ -24,7 +26,7 @@ Jusqu’au **6 septembre 2019 inclus**, cette deuxième édition invite les admi
 
 > 
 > #### Le programme Environnement de travail numérique de l’agent (ETNA)
-> Cet appel à projets s’inscrit plus globalement dans le cadre du programme Environnement de travail numérique de l’agent (ETNA) piloté par la DINSIC dans le cadre de **[TECH.GOUV]**(https://numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/){:target="_blank"}. Il vise à simplifier la vie des agents et transformer leurs outils de travail avec le numérique. Parmi les réalisations concrètes du programme, la réalisation d’une boîte à outils numériques dédiés à l’agent et qui intègre d’ores et déjà la messagerie instantanée [Tchap](https://numerique.gouv.fr/espace-presse/lancement-de-tchap-la-messagerie-instantanee-des-agents-de-letat/){:target="_blank"}
+> Cet appel à projets s’inscrit plus globalement dans le cadre du programme Environnement de travail numérique de l’agent (ETNA) piloté par la DINSIC dans le cadre de [TECH.GOUV](https://numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/){:target="_blank"}. Il vise à simplifier la vie des agents et transformer leurs outils de travail avec le numérique. Parmi les réalisations concrètes du programme, la réalisation d’une boîte à outils numériques dédiés à l’agent et qui intègre d’ores et déjà la messagerie instantanée [Tchap](https://numerique.gouv.fr/espace-presse/lancement-de-tchap-la-messagerie-instantanee-des-agents-de-letat/){:target="_blank"}
 {: .encadre}
 
 #### Outils collaboratifs et travail en mobilité
@@ -49,9 +51,10 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 
 
 
-> 
+> <br>
 > **Un accompagnement personnalisé**
-> 
+> <br>
+> <br>
 > Pour accompagner les administrations participantes et les aider à construire leur dossier, la DINSIC organise des sessions d’information et des ateliers de travail thématiques, dans ses locaux Paris 7e :
 > <br>
 > * Mercredi 17 juillet de 14h à 17h : présentation générale et questions- réponses
@@ -60,8 +63,10 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > <br>
 > Pour vous inscrire, écrivez-nous sur [etna.dinsic@modernisation.gouv.fr](mailto:etna.dinsic@modernisation.gouv.fr).
 {: .encadre}
-[Consultez le cahier des charges complet](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)
-[Déposez votre candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
+> [Consultez le cahier des charges complet](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)<br>
+{: .lien-important}
+> [Déposez votre candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
+{: .lien-important}
 
 En mars 2019, la [première édition](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/){:target="_blank"} de l’appel à projets « Cas d’usage de l’environnement de travail numérique de l’agent (ETNA) » invitait les administrations à faire remonter des cas d’usages. Sur les 25 proposés par les administrations, voici les **10 projets** sélectionnés par le jury composé d’experts issus du public et du privé : 
 
