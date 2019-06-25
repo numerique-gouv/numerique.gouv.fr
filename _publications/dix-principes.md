@@ -132,3 +132,4 @@ files:
 layout: dix-principes
 ---
 
+> [En savoir plus sur les 10 principes et leur élaboration](https://numerique.gouv.fr/actualites/la-dinsic-publie-les-10-principes-dune-demarche-en-ligne-exemplaire/ "En savoir plus sur les 10 principes et leur élaboration")
