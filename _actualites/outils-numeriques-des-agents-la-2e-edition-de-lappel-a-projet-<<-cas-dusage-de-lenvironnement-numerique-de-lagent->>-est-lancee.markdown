@@ -51,7 +51,7 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 
 
 
-> 
+> <br>
 > **Un accompagnement personnalisé**
 > <br>
 > <br>
