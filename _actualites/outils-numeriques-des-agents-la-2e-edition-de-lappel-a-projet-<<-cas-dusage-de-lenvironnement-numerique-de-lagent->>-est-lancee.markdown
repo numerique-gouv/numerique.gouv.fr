@@ -46,6 +46,8 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > [![Consultez le cahier des charges - pdf](/uploads/Cahier%20des%20charges%20PIA%20ETNA%202.PNG)](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)
 {: .text-center}
 
+> [Consultez le cahier des charges - pdf](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)
+{: .lien-important}
 > [Déposez votre candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
 {: .lien-important}
 <br>
