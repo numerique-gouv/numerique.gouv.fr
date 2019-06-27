@@ -25,7 +25,7 @@ Ces quelques mois m’ont conforté dans l’idée que j’avais d’une très f
 
 Ces 6 mois ont aussi renforcé ma conviction que nous disposons, au sein de l’État et de la DINSIC en particulier, d’une matière première de qualité - c’est-à-dire une pratique des projets, des compétences, une culture du travail en commun et de l’innovation - sur laquelle nous pouvons réellement nous appuyer pour construire une stratégie et surtout la mettre en œuvre. Tous les éléments sont réunis pour accélérer la transformation numérique de l’État et plus largement du service public.
 
-Du côté des Français, quelles sont les attentes vis-à-vis des services publics numériques ?
+### **Du côté des Français, quelles sont les attentes vis-à-vis des services publics numériques ?**
 
 Dans les restitutions du Grand débat en matière de numérique, plusieurs idées, complémentaires, m’ont marqué : nos concitoyens ont une attente forte de numérique dans le service public, mais un numérique pour tous, un numérique qui n’isole pas, qui aide et préserve le contact humain. Le secrétaire d’État au Numérique Cédric O en a fait une priorité. Si l’on parvient à concilier tout cela – numérique, inclusion, proximité et lien humain – le service public de demain sera un service public de qualité, et apprécié. Le 3e comité interministériel de la transformation publique (CITP) qui s’est tenu le 20 juin 2019, sous la présidence du Premier ministre, a d’ailleurs rappelé cet objectif de construire un service public numérique pour tout et pour tous.
 
