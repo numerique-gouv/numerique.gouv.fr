@@ -12,8 +12,8 @@ chapeau-text: |+
 
 
 event_start_date: 2019-07-08 09:30:00 +02:00
-event_end_date: 2019-07-08 12:00:00 +02:00
-lieu: Direction interministérielle du numérique
+lieu: Direction interministérielle du numérique et du système d'information de l'État
+  (DINSIC)
 adresse: |-
   20 avenue de Ségur
   7500,  Paris
