@@ -8,7 +8,7 @@ tags:
 - AI for Humanity
 - intelligence artificielle
 chapeau-text: |+
-  Dans un premier point d'étape, la DINSIC et AI for Humanity présentent les lignes directrices du **Groupe d’experts européen (HLEG) de haut niveau en Intelligence Artificielle** et les actions de la **Commission européenne pour une IA éthique**.
+  Dans ce premier point d'étape, la DINSIC et AI for Humanity présentent les lignes directrices du **Groupe d’experts européen (HLEG) de haut niveau en Intelligence Artificielle** et les actions de la **Commission européenne pour une IA éthique**.
 
 
 event_start_date: 2019-07-08 09:30:00 +02:00
