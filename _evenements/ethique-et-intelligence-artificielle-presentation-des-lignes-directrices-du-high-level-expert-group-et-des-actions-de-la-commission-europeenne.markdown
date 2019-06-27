@@ -32,5 +32,5 @@ Cet évènement s'adresse aux **acteurs de l'écosystème de l'IA en France**. I
 
 Ce premier point d’étape intervient avant une **phase pilote**, à laquelle sont encouragés à participer les acteurs français de l'IA afin de **tester la mise en œuvre des recommandations de la commission**.  
 
-Au programme de cette demi-journée : 
+
 
