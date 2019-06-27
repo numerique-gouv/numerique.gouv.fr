@@ -21,7 +21,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 9:30 - 12h
 - intitule: Modalités
-  contenu: 'Inscription gratuite obligatoire '
+  contenu: 'inscription gratuite obligatoire '
   Key: https://www.eventbrite.fr/e/billets-ethique-et-ia-les-lignes-directrices-de-la-commission-europeenne-62917916181
 intitule: 
 ---
