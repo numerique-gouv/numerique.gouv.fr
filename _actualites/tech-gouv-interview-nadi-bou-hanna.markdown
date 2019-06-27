@@ -2,6 +2,7 @@
 title: 'TECH.GOUV : « Tous les éléments sont réunis pour accélérer la transformation
   numérique de l’État »'
 date: 2019-06-27 01:23:00 +02:00
+published: false
 categories:
 - Entretien
 tags:
