@@ -22,7 +22,7 @@ une-ou-diaporama:
 
 Identifier les **outils numériques** dont les agents ont besoin pour **collaborer** avec tout leur écosystème et **travailler en mobilité** : c’est l’objectif de l’appel à projet « Cas d’usages de l’environnement de travail numérique de l’agent (ETNA) », financé par le fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissement d’avenir (PIA) piloté par le SGPI. 
 
-Jusqu’au **6 septembre 2019 inclus**, cette deuxième édition invite les administrations et les opérateurs à **faire remonter leur cas d’usage** issus du terrain, à partir desquels seront prototypées des solutions numériques. 
+Jusqu’au **6 septembre 2019 inclus**, cette deuxième édition invite les administrations et les opérateurs à **faire remonter leurs cas d’usage** issus du terrain, à partir desquels seront prototypées des solutions numériques. 
 
 > 
 > #### Le programme Environnement de travail numérique de l’agent (ETNA)
@@ -42,6 +42,12 @@ Il est possible de proposer des solutions déjà éprouvées au sein d’une adm
 
 Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, sélectionnera les projets les plus prometteurs en termes d’impact sur l’amélioration de l’environnement de travail de l’agent. Les lauréats pourront bénéficier d’un financement à hauteur de 100% pour le développement et l’expérimentation de leur solution. 
 <br>
+<br>
+> [![Consultez le cahier des charges - pdf](/uploads/Cahier%20des%20charges%20PIA%20ETNA%202.PNG)](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)
+{: .text-center}
+
+> [Déposez votre candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
+{: .lien-important}
 <br>
 **Calendrier :** 
 * **6 septembre 2019 à minuit :** clôture des candidatures
@@ -64,10 +70,6 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > <br>
 > Pour vous inscrire, écrivez-nous sur [etna.dinsic@modernisation.gouv.fr](mailto:etna.dinsic@modernisation.gouv.fr).
 {: .encadre}
-> [Consultez le cahier des charges](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)
-{: .lien-important}
-> [Déposez votre candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
-{: .lien-important}
 
 
 > <br>
