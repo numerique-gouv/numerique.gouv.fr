@@ -43,6 +43,8 @@ Quatrième enjeu : améliorer l’autonomie de L’État en matière de numériq
 
 Sixième et dernier enjeu, enfin, réaliser des économies et contribuer à la maîtrise des dépenses publiques, afin de pouvoir financer les investissements ultérieurs.
 
+<div style="text-indent: 15px;"><b>Lire aussi : </b><a href="https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/">TECH.GOUV : accélérer la transformation numérique du service public</a></div>
+
 #### **Quelle est la philosophie derrière TECH.GOUV ?**
 {: .margin-top-2 .margin-bottom-1} 
 **NBH -** Elle se résume en un principe phare : mettre le bénéficiaire au centre, que ce soit le citoyen ou l’agent public. Toute entreprise aujourd’hui met son client au centre de son action, l’administration avait un peu de retard sur ce changement de paradigme. Trop souvent, comme dans la plupart des grandes organisations monopolistiques, on se focalise sur la vision du producteur, les contraintes, le règlementaire. Tout doit désormais être construit autour de la valeur ajoutée que l’on est capable d’apporter collectivement à l’usager, citoyen ou agent.
