@@ -16,7 +16,7 @@ lieu: Direction interministérielle du numérique et du système d'information d
   (DINSIC)
 adresse: |-
   20 avenue de Ségur
-  7500,  Paris
+  75007,  Paris
 champs_informations:
 - intitule: Horaires
   contenu: 9:30 - 12h
