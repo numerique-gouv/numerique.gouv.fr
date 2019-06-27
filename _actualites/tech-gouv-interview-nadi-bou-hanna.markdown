@@ -43,8 +43,6 @@ Quatrième enjeu : améliorer l’autonomie de L’État en matière de numériq
 
 Sixième et dernier enjeu, enfin, réaliser des économies et contribuer à la maîtrise des dépenses publiques, afin de pouvoir financer les investissements ultérieurs.
 
-<figure class='image-center' style='width: 30%;'><img src="/uploads/TECHGOUV-200.jpg" alt="logo TECH.GOUV"/></figure>
-{: .text-center}
 <div style="text-indent: 15px;"><b>Lire aussi : </b><a href="https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/">TECH.GOUV : accélérer la transformation numérique du service public</a></div>
 
 #### **Quelle est la philosophie derrière TECH.GOUV ?**
