@@ -2,6 +2,11 @@
 title: 'Éthique et intelligence artificielle : présentation des lignes directrices
   du High Level Expert Group et des actions de la Commission européenne'
 date: 2019-06-27 14:41:00 +02:00
+categories:
+- Évènement
+tags:
+- AI for Humanity
+- intelligence artificielle
 chapeau-text: |+
   Dans un premier point d'étape, la DINSIC et AI for Humanity présentent les lignes directrices du **Groupe d’experts européen (HLEG) de haut niveau en Intelligence Artificielle** et les actions de la **Commission européenne pour une IA éthique**.
 
