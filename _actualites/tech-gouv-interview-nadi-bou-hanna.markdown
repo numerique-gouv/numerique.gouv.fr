@@ -33,7 +33,7 @@ Au-delà du citoyen, un autre acteur doit être soutenu : l’agent public. Le n
 
 #### **L’État vient de lancer un nouveau programme, TECH.GOUV, destiné justement à accélérer la transformation numérique du service public. Quelles en sont les grandes orientations ?**
 {: .margin-top-2 .margin-bottom-1} 
-**NBH -** Dans la lignée des attentes que j’évoquais, TECH.GOUV répond à six enjeux.
+<figure class='image-right' style='width: 30%;' margin='0'><img src="![TECHGOUV-150.jpg](/uploads/TECHGOUV-150.jpg)"/></figure>**NBH -** Dans la lignée des attentes que j’évoquais, TECH.GOUV répond à six enjeux.
 
 Le premier est évident : simplifier la vie des gens. Le deuxième enjeu consiste à réduire les fractures territoriales et administratives qui ont pu se construire au fil du temps.
 
