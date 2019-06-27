@@ -100,3 +100,6 @@ Le Graal serait évidemment que les collectivités contribuent et s’investisse
 **NBH -** De manière plus générale, dans le domaine du numérique public, la DINSIC joue à la fois un rôle de chef d’orchestre, un rôle de facilitateur – l’un de nos métiers consiste à aider les ministères à réussir leurs propres projets numériques – et un rôle d’opérateur de services, par exemple en matière de réseau ou d’outils numériques à destination des agents, comme la messagerie instantanée Tchap.
 
 Les projets prioritaires sont dans TECH.GOUV, mais toute l’activité de la DINSIC ne se résume pas à TECH.GOUV. À côté de cela, la DINSIC continuera à promouvoir l’open data et la maîtrise des données, à opérer le réseau interministériel de l’État, à développer des produits, à animer les systèmes d’information territoriaux et à contrôler l’avancement des grands projets de l’État.
+
+> [En savoir plus sur le programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/)
+{: .lien-important}
