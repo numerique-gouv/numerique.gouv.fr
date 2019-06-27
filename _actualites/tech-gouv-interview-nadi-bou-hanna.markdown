@@ -21,19 +21,18 @@ une-ou-diaporama:
 
 ### **À l’aune de ces 6 mois passés à la tête de la DINSIC, quels constats dressez-vous ?**
 
-Ces quelques mois m’ont conforté dans l’idée que j’avais d’une très forte attente de clarification de l’action de l’Etat en matière de numérique, à la fois de la part de nos parties prenantes au sein des ministères, à tous les niveaux, mais également en interne à la DINSIC.
+Nadi Bou Hanna - Ces quelques mois m’ont conforté dans l’idée que j’avais d’une très forte attente de clarification de l’action de l’Etat en matière de numérique, à la fois de la part de nos parties prenantes au sein des ministères, à tous les niveaux, mais également en interne à la DINSIC.
 
 Ces 6 mois ont aussi renforcé ma conviction que nous disposons, au sein de l’État et de la DINSIC en particulier, d’une matière première de qualité - c’est-à-dire une pratique des projets, des compétences, une culture du travail en commun et de l’innovation - sur laquelle nous pouvons réellement nous appuyer pour construire une stratégie et surtout la mettre en œuvre. Tous les éléments sont réunis pour accélérer la transformation numérique de l’État et plus largement du service public.
 
-### **Du côté des Français, quelles sont les attentes vis-à-vis des services publics numériques ?**
+#### **Du côté des Français, quelles sont les attentes vis-à-vis des services publics numériques ?**
 
-Dans les restitutions du Grand débat en matière de numérique, plusieurs idées, complémentaires, m’ont marqué : nos concitoyens ont une attente forte de numérique dans le service public, mais un numérique pour tous, un numérique qui n’isole pas, qui aide et préserve le contact humain. Le secrétaire d’État au Numérique Cédric O en a fait une priorité. Si l’on parvient à concilier tout cela – numérique, inclusion, proximité et lien humain – le service public de demain sera un service public de qualité, et apprécié. Le 3e comité interministériel de la transformation publique (CITP) qui s’est tenu le 20 juin 2019, sous la présidence du Premier ministre, a d’ailleurs rappelé cet objectif de construire un service public numérique pour tout et pour tous.
+NBH - Dans les restitutions du Grand débat en matière de numérique, plusieurs idées, complémentaires, m’ont marqué : nos concitoyens ont une attente forte de numérique dans le service public, mais un numérique pour tous, un numérique qui n’isole pas, qui aide et préserve le contact humain. Le secrétaire d’État au Numérique Cédric O en a fait une priorité. Si l’on parvient à concilier tout cela – numérique, inclusion, proximité et lien humain – le service public de demain sera un service public de qualité, et apprécié. Le 3e comité interministériel de la transformation publique (CITP) qui s’est tenu le 20 juin 2019, sous la présidence du Premier ministre, a d’ailleurs rappelé cet objectif de construire un service public numérique pour tout et pour tous.
 
 Au-delà du citoyen, un autre acteur doit être soutenu : l’agent public. Le numérique doit être utilisé non pas pour le remplacer mais au contraire pour mieux l’outiller, lui apporter l’information utile à la prise de décision, et lui donner la possibilité d’être davantage au service des citoyens. Cela nécessitera en particulier de revoir les pratiques managériales au sein de l’État.
 
-L’État vient de lancer un nouveau programme, TECH.GOUV, destiné justement à accélérer la transformation numérique du service public.
-
-### **Quelles en sont les grandes orientations ?**
+#### **L’État vient de lancer un nouveau programme, TECH.GOUV, destiné justement à accélérer la transformation numérique du service public.**
+<br> **Quelles en sont les grandes orientations ?**
 
 Dans la lignée des attentes que j’évoquais, TECH.GOUV répond à six enjeux.
 
@@ -45,11 +44,11 @@ Quatrième enjeu : améliorer l’autonomie de L’État en matière de numériq
 
 Sixième et dernier enjeu, enfin, réaliser des économies et contribuer à la maîtrise des dépenses publiques, afin de pouvoir financer les investissements ultérieurs.
 
-### **Quelle est la philosophie derrière TECH.GOUV ?**
+### Quelle est la philosophie derrière TECH.GOUV ?
 
 Elle se résume en un principe phare : mettre le bénéficiaire au centre, que ce soit le citoyen ou l’agent public. Toute entreprise aujourd’hui met son client au centre de son action, l’administration avait un peu de retard sur ce changement de paradigme. Trop souvent, comme dans la plupart des grandes organisations monopolistiques, on se focalise sur la vision du producteur, les contraintes, le règlementaire. Tout doit désormais être construit autour de la valeur ajoutée que l’on est capable d’apporter collectivement à l’usager, citoyen ou agent.
 
-### **Comment et avec qui s’est construit ce programme ?**
+#### **Comment et avec qui s’est construit ce programme ?**
 
 Le programme a été maturé pendant 4 mois avec les DSI et les secrétaires généraux des ministères, les cabinets ministériels et au sein de la DINSIC. Ce haut portage, au niveau des SG sous présidence du secrétaire général du gouvernement, est un signal fort que le numérique n’est pas un sujet de moyens et de ressources, mais bien un sujet de fonctionnement de l’administration, d’organisation, de méthodes de travail, de management et même largement de politique publique.
 
@@ -73,7 +72,7 @@ Tous ces projets, aujourd’hui embryonnaires, nous allons les accélérer, les 
 
 Je citerais enfin la généralisation de la mesure de la qualité des services numériques, afin d’identifier ceux qui doivent être améliorés en priorité. À ce titre, le secrétaire d’État chargé du Numérique a chargé la DINSIC de concevoir l’observatoire de la qualité des services publics numériques, dont la sortie a été annoncée dans le cadre du 3e CITP. Ce tableau de bord, qui sera mis à jour tous les trimestres, mesure l’avancée de la dématérialisation des 250 démarches phares de l’État et leur performance au regard de 5 critères qualité. Parmi ces critères : l’indice de satisfaction usagers recueilli à la fin des démarches en ligne, grâce au dispositif MonAvis, lancé en même temps que l’observatoire et piloté également par la DINSIC.
 
-Lire aussi : [Qualité des services numériques : deux nouveaux outils pour suivre l’avancée de la dématérialisation et recueillir l’avis des usagers](https://www.numerique.gouv.fr/actualites/qualite-des-services-numeriques-deux-nouveaux-outils-pour-suivre-lavancee-de-la-dematerialisation-et-recueillir-lavis-des-usagers/)
+<div style="text-indent: 15px;">**Lire aussi :** [Qualité des services numériques : deux nouveaux outils pour suivre l’avancée de la dématérialisation et recueillir l’avis des usagers](https://www.numerique.gouv.fr/actualites/qualite-des-services-numeriques-deux-nouveaux-outils-pour-suivre-lavancee-de-la-dematerialisation-et-recueillir-lavis-des-usagers/)</div>
 
 ### **Il est également question dans TECH.GOUV de labellisation de solutions numériques. En quoi cela consiste ?**
 
