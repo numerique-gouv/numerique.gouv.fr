@@ -20,9 +20,14 @@ une-ou-diaporama:
 
     Logo de la DINSIC et logo AI for Humanity
 
+champs_informations:
+- intitule: Horaires
+  contenu: 9h30 - 12h
+- intitule: Modalités
+  contenu: 'inscription gratuite obligatoire '
+  lien: https://www.eventbrite.fr/e/billets-ethique-et-ia-les-lignes-directrices-de-la-commission-europeenne-62917916181
 event_start_date: 2019-07-08 09:30:00 +02:00
-lieu: Direction interministérielle du numérique et du système d'information de l'État
-  (DINSIC), salle 2.115
+lieu: DINSIC, salle 2.115
 adresse: |-
   20 avenue de Ségur
   75007,  Paris
@@ -30,12 +35,6 @@ acces:
 - type: 'Métro : '
   lignes:
   - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur, Ligne 13 : Saint-François-Xavier'
-champs_informations:
-- intitule: Horaires
-  contenu: 9h30 - 12h
-- intitule: Modalités
-  contenu: 'inscription gratuite obligatoire '
-  lien: https://www.eventbrite.fr/e/billets-ethique-et-ia-les-lignes-directrices-de-la-commission-europeenne-62917916181
 intitule: 
 ---
 
