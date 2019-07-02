@@ -39,7 +39,7 @@ champs_informations:
 intitule: 
 ---
 
-La **DINSIC** et **AI For Humanity** organisent un évènement pour présenter les lignes directrices éthiques du **Groupe d’experts européen (HLEG) de haut niveau en Intelligence Artificielle**, présentées le 8 avril 2019, (IA) et les actions de la **Commission européenne pour une IA éthique**.
+Dans le cadre du programme **[AI For Humanity](https://www.aiforhumanity.fr/)**, la **DINSIC** organise un évènement pour présenter les lignes directrices éthiques du **Groupe d’experts européen (HLEG) de haut niveau en Intelligence Artificielle**, présentées le 8 avril 2019, (IA) et les actions de la **Commission européenne pour une IA éthique**.
 
 Cet évènement s'adresse aux **acteurs de l'écosystème de l'IA en France**. Il réunira des experts du domaine issus du public et du privé. Ils interviendront et répondront aux questions au cours d’une session d’échange avec le public.  
 
