@@ -1,6 +1,6 @@
 ---
-title: 'Éthique et intelligence artificielle : présentation des lignes directrices
-  du Groupe d''experts européen et des actions de la Commission européenne'
+title: 'Éthique et intelligence artificielle : Les lignes directrices de la Commission
+  européenne'
 date: 2019-06-27 14:41:00 +02:00
 categories:
 - Évènement
@@ -32,7 +32,7 @@ acces:
   - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur, Ligne 13 : Saint-François-Xavier'
 champs_informations:
 - intitule: Horaires
-  contenu: 9:30 - 12h
+  contenu: 9h30 - 12h
 - intitule: Modalités
   contenu: 'inscription gratuite obligatoire '
   lien: https://www.eventbrite.fr/e/billets-ethique-et-ia-les-lignes-directrices-de-la-commission-europeenne-62917916181
