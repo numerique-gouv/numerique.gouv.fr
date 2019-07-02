@@ -12,6 +12,6 @@ Conçu et déployé par la direction interministérielle du numérique et du sys
 FranceConnect est aujourd’hui déployé sur 500 sites publics (villes, départements ou ministères) et permet depuis novembre dernier, de se connecter à des services en ligne du secteur privé (banques, assurances…).   
 FranceConnect séduit actuellement plus de 500 000 nouveaux utilisateurs par mois et a pour ambition de couvrir 25 millions d’utilisateurs d’ici 2022. 
 
-> En savoir plus sur FranceConnect
-> (Re)découvrez FranceConnect en vidéo
+> [En savoir plus sur FranceConnect](https://franceconnect.gouv.fr/)
+> [(Re)découvrez FranceConnect en vidéo](https://www.dailymotion.com/video/x78xrdm)
 
