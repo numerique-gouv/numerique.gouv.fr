@@ -2,7 +2,6 @@
 title: 'Éthique et intelligence artificielle : présentation des lignes directrices
   du Groupe d''experts européen et des actions de la Commission européenne'
 date: 2019-06-27 14:41:00 +02:00
-published: false
 categories:
 - Évènement
 tags:
