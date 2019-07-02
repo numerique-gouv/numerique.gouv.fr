@@ -51,7 +51,7 @@ Ce premier point d’étape intervient avant une **phase pilote**, à laquelle s
 ### Programme :
 
 9h30 : **La stratégie française d’intelligence artificielle**
- * **Bertrand Pailhès**, coordonnateur national pour la stratégie d’intelligence artificielle 
+* **Bertrand Pailhès**, coordonnateur national pour la stratégie d’intelligence artificielle 
 <br>
 <br>
 10h00 : **La stratégie européenne pour une intelligence artificielle éthique**
