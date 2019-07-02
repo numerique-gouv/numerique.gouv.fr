@@ -62,7 +62,7 @@ Ce premier point d’étape intervient avant une **phase pilote**, à laquelle s
  * **Raja Chatila**, professeur à l’ISIR - Institut des Systèmes Intelligents et de Robotique, Sorbonne Université, membre du groupe d'experts
 <br>
 
-**10h40 : Questions/réponses avec un panel de membres du groupe d'experts**
+10h40 : **Questions/réponses avec un panel de membres du groupe d'experts**
  * **Cécile Wendling**, directrice de la prospective du groupe AXA
  * **Yann Bonnet**, directeur de cabinet de l’ANSSI – Agence nationale de la sécurité des systèmes d'information
  * **Thiébaut Weber**, ancien secrétaire de la CES - Confédération européenne des syndicats
