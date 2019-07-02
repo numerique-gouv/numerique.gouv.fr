@@ -6,6 +6,8 @@ chapeau-text: "FranceConnect permet à tout utilisateur ayant déjà un compte I
   agricole (MSA) de se connecter aux services publics en ligne, sans créer de nouvel
   identifiant. Ainsi, plus besoin  de jongler avec de multiples identifiants et mots
   de passe. \n3 ans après son lancement, FranceConnect a convaincu 10 millions d’utilisateurs. "
+files:
+  file: "/uploads/2019_07_01_CP_FranceConnect_10_M.pdf"
 ---
 
 Conçu et déployé par la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC), FranceConnect garantit aux personnes qui l’utilisent une connexion sécurisée et simplifiée sur les sites internet qui le proposent.
