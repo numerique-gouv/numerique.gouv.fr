@@ -21,6 +21,10 @@ lieu: Direction interministérielle du numérique et du système d'information d
 adresse: |-
   20 avenue de Ségur
   75007,  Paris
+acces:
+- type: 'Métro : '
+  lignes:
+  - nom: 'Ligne 8 : École militaire, Ligne 10 : Ségur, Ligne 13 : Saint-François-Xavier'
 champs_informations:
 - intitule: Horaires
   contenu: 9:30 - 12h
