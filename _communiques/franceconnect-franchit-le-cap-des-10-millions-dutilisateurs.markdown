@@ -1,6 +1,6 @@
 ---
 title: FranceConnect franchit le cap des 10 millions d’utilisateurs
-date: 2019-07-02 14:20:00 +02:00
+date: 2019-07-01 14:20:00 +02:00
 chapeau-text: "FranceConnect permet à tout utilisateur ayant déjà un compte Impots.gouv.fr,
   Ameli.fr, identité numérique La Poste, Mobile Connect et Moi ou Mutualité sociale
   agricole (MSA) de se connecter aux services publics en ligne, sans créer de nouvel
