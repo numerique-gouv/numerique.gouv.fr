@@ -7,9 +7,9 @@ categories:
 tags:
 - AI for Humanity
 - intelligence artificielle
-chapeau-text: "Vous vous intéressez au développement de projets d’intelligence artificielle
-  éthiques ? Retrouvez-nous le 8 juillet à Paris afin de (re)découvrir les travaux
-  européens sur le sujet. \n"
+chapeau-text: Entreprise ou organisme public, vous menez des projets d'intelligence
+  artificielle et souhaitez le faire de manière éthique ? Retrouvez-nous le 8 juillet
+  à Paris afin de (re)découvrir les travaux européens sur le sujet.
 une-ou-diaporama:
 - image: "/uploads/SAVETHEDATE-AI-EUv4.png"
   alternative-textuelle: |+
@@ -43,7 +43,8 @@ En complément de sa stratégie en matière d’IA d'avril 2018, la Commission e
 
 Dans le cadre du programme **[AI For Humanity](https://www.aiforhumanity.fr/)**, la **DINSIC** organise un évènement pour présenter ces lignes directrices ainsi que les actions de la Commission européenne en matière d'IA.
 
-Cet évènement s'adresse aux **acteurs de l'écosystème de l'IA en France**. Il réunira des experts du domaine issus du public et du privé. Ils interviendront et répondront aux questions au cours d’une session d’échange avec le public.  
+Cet évènement s'adresse aux **acteurs de l'écosystème de l'IA en France**, entreprises et organismes publics porteurs de projets d'IA. 
+Des experts du domaine issus du public, du privé et de la société civile interviendront et répondront aux questions au cours d’une session d’échange avec le public.  
 
 Ce premier point d’étape intervient avant une **phase pilote**, à laquelle sont encouragés à participer les acteurs français de l'IA afin de **tester la mise en œuvre des recommandations de la commission**.  
 <br>
