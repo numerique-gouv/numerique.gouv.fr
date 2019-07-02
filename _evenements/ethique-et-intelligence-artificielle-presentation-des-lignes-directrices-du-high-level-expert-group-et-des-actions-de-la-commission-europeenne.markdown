@@ -49,29 +49,34 @@ Des experts du domaine issus du public, du privé et de la société civile inte
 Ce premier point d’étape intervient avant une **phase pilote**, à laquelle sont encouragés à participer les acteurs français de l'IA afin de **tester la mise en œuvre des recommandations de la commission**.  
 <br>
 ### Programme :
-<br>
+
 9h30 : **La stratégie française d’intelligence artificielle**
 * **Bertrand Pailhès**, coordonnateur national pour la stratégie d’intelligence artificielle 
 <br>
 <br>
+
 10h00 : **La stratégie européenne pour une intelligence artificielle éthique**
  * **Commission européenne**
 <br>
 <br>
+
 10h20 : **Présentation des lignes directrices éthiques du groupe d’experts de haut niveau de la Commission européenne**
  * **Raja Chatila**, professeur à l’ISIR - Institut des Systèmes Intelligents et de Robotique, Sorbonne Université, membre du groupe d'experts
 <br>
 <br>
+
 10h40 : **Questions/réponses avec un panel de membres du groupe d'experts**
  * **Cécile Wendling**, directrice de la prospective du groupe AXA
  * **Yann Bonnet**, directeur de cabinet de l’ANSSI – Agence nationale de la sécurité des systèmes d'information
  * **Thiébaut Weber**, ancien secrétaire de la CES - Confédération européenne des syndicats
 <br>
 <br>
+
 11h40 : **Méthode de travail et intégration à la phase pilote**
  * **Impact AI**, collectif de réflexion et d'action
 <br>
 <br>
+
 12h00 : **Clôture de la matinée**
 
 
