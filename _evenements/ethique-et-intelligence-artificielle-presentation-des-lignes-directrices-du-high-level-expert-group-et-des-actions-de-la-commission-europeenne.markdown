@@ -39,6 +39,8 @@ champs_informations:
 intitule: 
 ---
 
+En complément de sa stratégie en matière d’IA d'avril 2018, la Commission européenne propose 7 principes éthiques à suivre. La première version de ces lignes directrices, rédigées par un groupe d’experts de haut niveau, est désormais soumise à expérimentation.
+
 Dans le cadre du programme **[AI For Humanity](https://www.aiforhumanity.fr/)**, la **DINSIC** organise un évènement pour présenter les lignes directrices éthiques du **Groupe d’experts européen (HLEG) de haut niveau en Intelligence Artificielle**, présentées le 8 avril 2019, (IA) et les actions de la **Commission européenne pour une IA éthique**.
 
 Cet évènement s'adresse aux **acteurs de l'écosystème de l'IA en France**. Il réunira des experts du domaine issus du public et du privé. Ils interviendront et répondront aux questions au cours d’une session d’échange avec le public.  
