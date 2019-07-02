@@ -49,7 +49,7 @@ Des experts du domaine issus du public, du privé et de la société civile inte
 Ce premier point d’étape intervient avant une **phase pilote**, à laquelle sont encouragés à participer les acteurs français de l'IA afin de **tester la mise en œuvre des recommandations de la commission**.  
 <br>
 ### Programme :
-
+<br>
 9h30 : **La stratégie française d’intelligence artificielle**
 * **Bertrand Pailhès**, coordonnateur national pour la stratégie d’intelligence artificielle 
 <br>
