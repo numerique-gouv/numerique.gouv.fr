@@ -21,4 +21,3 @@ FranceConnect séduit actuellement plus de **500 000 nouveaux utilisateurs par m
 
 * [En savoir plus sur FranceConnect](https://franceconnect.gouv.fr/)
 * [(Re)découvrez FranceConnect en vidéo](https://www.dailymotion.com/video/x78xrdm)
-
