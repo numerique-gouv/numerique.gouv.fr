@@ -7,10 +7,12 @@ categories:
 tags:
 - AI for Humanity
 - intelligence artificielle
-chapeau-text: |+
-  Dans ce premier point d'étape, la DINSIC et AI for Humanity présentent les lignes directrices du **Groupe d’experts européen (HLEG) de haut niveau en intelligence artificielle** et les actions de la **Commission européenne pour une IA éthique**.
-
-
+chapeau-text: "Vous vous intéressez au développement de projets d’intelligence artificielle
+  éthiques ? Retrouvez-nous le 8 juillet à Paris afin de (re)découvrir les travaux
+  européens sur le sujet. En complément de sa stratégie en matière d’IA d'avril 2018,
+  la Commission européenne propose 7 principes éthiques à suivre. La première version
+  de ces lignes directrices, rédigées par un groupe d’experts de haut niveau, est
+  désormais soumise à expérimentation.\n\n"
 une-ou-diaporama:
 - image: "/uploads/SAVETHEDATE-AI-EUv4.png"
 event_start_date: 2019-07-08 09:30:00 +02:00
