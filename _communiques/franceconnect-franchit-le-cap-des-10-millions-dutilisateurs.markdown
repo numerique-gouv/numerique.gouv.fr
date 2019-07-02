@@ -5,6 +5,8 @@ categories:
 - Communiqué de presse
 tags:
 - FranceConnect
+une-ou-diaporama:
+- image: "/uploads/FC_800x430_1.jpg"
 files:
   file: "/uploads/2019_07_01_CP_FranceConnect_10_M.pdf"
   nom: Télécharger le communiqué de presse
