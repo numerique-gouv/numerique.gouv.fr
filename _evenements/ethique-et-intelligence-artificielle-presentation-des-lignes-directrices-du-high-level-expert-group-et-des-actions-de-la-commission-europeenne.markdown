@@ -30,7 +30,7 @@ champs_informations:
   contenu: 9:30 - 12h
 - intitule: Modalités
   contenu: 'inscription gratuite obligatoire '
-  Key: https://www.eventbrite.fr/e/billets-ethique-et-ia-les-lignes-directrices-de-la-commission-europeenne-62917916181
+  lien: https://www.eventbrite.fr/e/billets-ethique-et-ia-les-lignes-directrices-de-la-commission-europeenne-62917916181
 intitule: 
 ---
 
