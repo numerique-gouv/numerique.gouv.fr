@@ -12,6 +12,14 @@ chapeau-text: "Vous vous intéressez au développement de projets d’intelligen
   européens sur le sujet. \n"
 une-ou-diaporama:
 - image: "/uploads/SAVETHEDATE-AI-EUv4.png"
+  alternative-textuelle: |+
+    Ethique et intelligence artificielle
+    Les lignes directrices de la Commission européenne
+    Lundi 8 juillet 2019 à 9 heure 30
+    DINSIC, 20 avenue de Ségur, Paris 7 ème
+
+    Logo de la DINSIC et logo AI for Humanity
+
 event_start_date: 2019-07-08 09:30:00 +02:00
 lieu: Direction interministérielle du numérique et du système d'information de l'État
   (DINSIC), salle 2.115
