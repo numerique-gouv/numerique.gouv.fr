@@ -18,10 +18,14 @@ layout: page-annexe
 
 ### Nos offres d'emploi actuellement disponibles :
 {: .margin-bottom-0} 
-*(dernière mise à jour le 13 juin 2019)*
+*(dernière mise à jour le 26 juin 2019)*
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chargé/chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=aadb5631-f300-4a0a-9d2d-752b6f05fe12&offerid=211009 "Chargé/chargée de mission numérique et territoires - Télécharger le pdf") (pdf - 360 ko)
+<br>Paris
+<br>Cadre/Catégorie A
+
 * [**Chef/fe de mission « Transformation Numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=2c1668e8-c301-4f7b-a257-a0cb3423f701&offerid=176062 "« Chef/fe de mission « Transformation Numérique de l'Etat » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A+
