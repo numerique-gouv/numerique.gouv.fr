@@ -47,7 +47,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [Développeur/développeuse web full stack](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=348923f4-d86c-4ff2-a9c7-a6a9b254882e&offerid=223798 "Développeur/développeuse web full stack -  Télécharger le pdf") (pdf - 380 ko)
+* [**Développeur/développeuse web full-stack**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=348923f4-d86c-4ff2-a9c7-a6a9b254882e&offerid=223798 "Développeur/développeuse web full stack -  Télécharger le pdf") (pdf - 380 ko)
 <br> Paris
 <br> Cadre/Catégorie A
 
