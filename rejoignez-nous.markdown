@@ -73,8 +73,13 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>
 <br>
 
-#### **Réseau/Sécurité**
+#### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Urbaniste/Architecte de système d'information expérimenté (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=77064479-1563-437d-82db-fa6c4a4360cf&offerid=223810 "Urbaniste/Architecte de système d'information expérimenté (F/H)
+ – Télécharger le pdf") (pdf - 420 ko)
+<br>Paris
+<br>Cadre/Catégorie A
+
 * [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f89fd8de-3b1b-4ab1-a9b9-f3cc9d645a3e&offerid=194149 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État - Télécharger le pdf") (pdf - 300 ko)
 <br>Rennes
 <br>Catégorie A (cadre) ou B
