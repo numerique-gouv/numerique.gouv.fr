@@ -43,10 +43,10 @@ Il est possible de proposer des solutions déjà éprouvées au sein d’une adm
 Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, sélectionnera les projets les plus prometteurs en termes d’impact sur l’amélioration de l’environnement de travail de l’agent. Les lauréats pourront bénéficier d’un financement à hauteur de 100% pour le développement et l’expérimentation de leur solution. 
 <br>
 <br>
-[![Consultez le cahier des charges - pdf](/uploads/Cahier%20des%20charges%20PIA%20ETNA%202.PNG)](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)
+[![Consultez le cahier des charges - pdf, 830 ko](/uploads/cdc-PIA-ETNA2_capture.jpg)](/uploads/PIA-ETNA-2_Cahier-des-charges-et-reglement_aap.pdf)
 {: .text-center}
 
-> [Consultez le cahier des charges - pdf](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)
+> [Consultez le cahier des charges - pdf, 830 ko](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)
 {: .lien-important}
 > [Déposez votre candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
 {: .lien-important}
