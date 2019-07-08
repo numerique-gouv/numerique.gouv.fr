@@ -8,6 +8,8 @@ tags:
 - Environnement de travail numérique
 - Appel à projets
 - Outils numériques
+- ETNA
+- agents publics
 is_une: true
 chapeau-text: Vous êtes une administration de l’État et souhaitez améliorer le quotidien
   des agents grâce aux **outils numériques** ? La DINSIC lance la deuxième édition
