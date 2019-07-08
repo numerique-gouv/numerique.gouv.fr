@@ -12,8 +12,8 @@ is_une: true
 chapeau-text: Vous êtes une administration de l’État et souhaitez améliorer le quotidien
   des agents grâce aux **outils numériques** ? La DINSIC lance la deuxième édition
   de **l’appel à projets « Cas d’usage de l’environnement de travail numérique de
-  l’agent (ETNA) »**. Proposez vos projets du **24 juin au 6 septembre 2019 inclus**
-  ! Et découvrez aussi les **10 projets** sélectionnés lors de la [première édition](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/){:target="_blank"}.
+  l’agent (ETNA) »**. Proposez vos projets **jusqu'au 6 septembre 2019 inclus** !
+  Et découvrez aussi les **10 projets** sélectionnés lors de la [première édition](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/){:target="_blank"}.
 une-ou-diaporama:
 - image: "/uploads/lancement-aap-pia-etna.jpg"
 ---
@@ -49,7 +49,7 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 
 > [Consultez le cahier des charges - pdf, 830 ko](/uploads/PIA-ETNA-2_Cahier-des-charges-et-reglement_aap.pdf)
 {: .lien-important}
-> [Déposez votre candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
+> [Déposez votre candidature jusqu'au 6 septembre 2019 inclus](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
 {: .lien-important}
 <br>
 **Calendrier :** 
