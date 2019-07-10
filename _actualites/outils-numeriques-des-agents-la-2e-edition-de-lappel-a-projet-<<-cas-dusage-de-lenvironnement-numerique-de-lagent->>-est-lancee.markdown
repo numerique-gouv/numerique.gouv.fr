@@ -77,7 +77,6 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 {: .encadre}
 
 
-> <br>
 > #### **Les 10 projets lauréats du premier appel à projets**
 > <br>
 > En mars 2019, la [première édition de l’appel à projets « Cas d’usage de l’environnement de travail numérique de l’agent (ETNA) »](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/) invitait les administrations à faire remonter des cas d’usages. Sur les 25 proposés par les administrations, voici les **10 projets** sélectionnés par le jury composé d’experts issus du public et du privé : 
