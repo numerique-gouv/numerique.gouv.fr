@@ -69,9 +69,9 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > Pour accompagner les administrations participantes et les aider à construire leur dossier, la DINSIC organise des sessions d’information et des ateliers de travail thématiques, dans ses locaux à Paris 7e :
 > <br>
 > <br>
-> * **Mercredi 17 juillet** de 14h à 17h : présentation générale et questions-réponses
-> * **Mercredi 24 juillet** de 14h à 17h : focus sur la trame de réponse à l’appel à projets
-> * **Mercredi 28 août** : préparation à pitcher son projet devant le jury
+> * Mercredi 17 juillet de 14h à 17h : présentation générale et questions-réponses
+> * Mercredi 24 juillet de 14h à 17h : focus sur la trame de réponse à l’appel à projets
+> * Mercredi 28 août : préparation à pitcher son projet devant le jury
 > <br>
 > <br>
 > **Adresse :** DINSIC, 20 avenue de Ségur, Paris 7e
