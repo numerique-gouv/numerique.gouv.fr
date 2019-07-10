@@ -1,20 +1,21 @@
 ---
 title: 'Outils numériques des agents : la 2e édition de l’appel à projet « Cas d’usage
   de l’environnement numérique de l’agent » est lancée !'
-date: 2019-06-25 11:11:00 +02:00
-published: false
+date: 2019-07-10 07:11:00 +02:00
 categories:
 - Appel à projets
 tags:
 - Environnement de travail numérique
 - Appel à projets
 - Outils numériques
+- ETNA
+- agents publics
 is_une: true
 chapeau-text: Vous êtes une administration de l’État et souhaitez améliorer le quotidien
   des agents grâce aux **outils numériques** ? La DINSIC lance la deuxième édition
   de **l’appel à projets « Cas d’usage de l’environnement de travail numérique de
-  l’agent (ETNA) »**. Proposez vos projets du **24 juin au 6 septembre 2019 inclus**
-  ! Et découvrez aussi les **10 projets** sélectionnés lors de la [première édition](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/){:target="_blank"}.
+  l’agent (ETNA) »**. Proposez vos projets **jusqu'au 6 septembre 2019 inclus** !
+  Et découvrez aussi les **10 projets** sélectionnés lors de la [première édition](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/){:target="_blank"}.
 une-ou-diaporama:
 - image: "/uploads/lancement-aap-pia-etna.jpg"
 ---
@@ -44,12 +45,13 @@ Il est possible de proposer des solutions déjà éprouvées au sein d’une adm
 Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, sélectionnera les projets les plus prometteurs en termes d’impact sur l’amélioration de l’environnement de travail de l’agent. Les lauréats pourront bénéficier d’un financement à hauteur de 100% pour le développement et l’expérimentation de leur solution. 
 <br>
 <br>
-[![Consultez le cahier des charges - pdf](/uploads/Cahier%20des%20charges%20PIA%20ETNA%202.PNG)](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)
-{: .text-center}
+<figure class='image-center' style='width: 15%;'>
+  <a href="/uploads/PIA-ETNA-2_Cahier-des-charges-et-reglement_aap.pdf"><img src="/uploads/cdc-PIA-ETNA2_capture.jpg" alt="Consultez le cahier des charges - pdf, 860 ko"/></a>
+</figure>
 
-> [Consultez le cahier des charges - pdf](/uploads/VF%20PIA%20ETNA%202%20Cahier%20des%20charges%20de%20l'AAP%20et%20R%C3%A9glement_ETNA.pdf)
+> [Consultez le cahier des charges - pdf, 860 ko](/uploads/PIA-ETNA-2_Cahier-des-charges-et-reglement_aap.pdf)
 {: .lien-important}
-> [Déposez votre candidature](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
+> [Déposez votre candidature jusqu'au 6 septembre 2019 inclus](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
 {: .lien-important}
 <br>
 **Calendrier :** 
@@ -64,21 +66,24 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > **Un accompagnement personnalisé**
 > <br>
 > <br>
-> Pour accompagner les administrations participantes et les aider à construire leur dossier, la DINSIC organise des sessions d’information et des ateliers de travail thématiques, dans ses locaux Paris 7e :
+> Pour accompagner les administrations participantes et les aider à construire leur dossier, la DINSIC organise des sessions d’information et des ateliers de travail thématiques, dans ses locaux à Paris 7e :
 > <br>
 > <br>
-> * Mercredi 17 juillet de 14h à 17h : présentation générale et questions- réponses
+> * Mercredi 17 juillet de 14h à 17h : présentation générale et questions-réponses
 > * Mercredi 24 juillet de 14h à 17h : focus sur la trame de réponse à l’appel à projets
 > * Mercredi 28 août : préparation à pitcher son projet devant le jury
 > <br>
-> Pour vous inscrire, écrivez-nous sur [etna.dinsic@modernisation.gouv.fr](mailto:etna.dinsic@modernisation.gouv.fr).
+> <br>
+> Adresse : DINSIC, 20 avenue de Ségur, Paris 7e
+> <br>
+> <br>
+> Pour vous inscrire, écrivez-nous à [etna.dinsic@modernisation.gouv.fr](mailto:etna.dinsic@modernisation.gouv.fr).
 {: .encadre}
 
 
+> #### **Les 10 projets lauréats du premier appel à projets**
 > <br>
-> #### Les 10 projets lauréats de la première édition
-> <br>
-> En mars 2019, la [première édition](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/){:target="_blank"} de l’appel à projets « Cas d’usage de l’environnement de travail numérique de l’agent (ETNA) » invitait les administrations à faire remonter des cas d’usages. Sur les 25 proposés par les administrations, voici les **10 projets** sélectionnés par le jury composé d’experts issus du public et du privé : 
+> En mars 2019, la [première édition de l’appel à projets « Cas d’usage de l’environnement de travail numérique de l’agent (ETNA) »](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/) invitait les administrations à faire remonter des cas d’usages. Sur les 25 proposés par les administrations, voici les **10 projets** sélectionnés par le jury composé d’experts issus du public et du privé : 
 > <br>
 > <br>
 > * **DRIVE : créer un espace d’hébergement de fichiers et d’édition en ligne**<br>
