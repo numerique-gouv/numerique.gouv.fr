@@ -77,7 +77,7 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > **Adresse :** DINSIC, 20 avenue de Ségur, Paris 7e
 > <br>
 > <br>
-> Pour vous inscrire, écrivez-nous sur [etna.dinsic@modernisation.gouv.fr](mailto:etna.dinsic@modernisation.gouv.fr).
+> Pour vous inscrire, écrivez-nous à [etna.dinsic@modernisation.gouv.fr](mailto:etna.dinsic@modernisation.gouv.fr).
 {: .encadre}
 
 
