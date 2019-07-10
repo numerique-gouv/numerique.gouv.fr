@@ -74,7 +74,7 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > * Mercredi 28 août : préparation à pitcher son projet devant le jury
 > <br>
 > <br>
-> **Adresse :** DINSIC, 20 avenue de Ségur, Paris 7e
+> Adresse : DINSIC, 20 avenue de Ségur, Paris 7e
 > <br>
 > <br>
 > Pour vous inscrire, écrivez-nous à [etna.dinsic@modernisation.gouv.fr](mailto:etna.dinsic@modernisation.gouv.fr).
