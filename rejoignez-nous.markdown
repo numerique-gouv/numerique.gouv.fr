@@ -83,6 +83,10 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Consultant/consultante interne SI**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=75f30312-8f0a-4fb3-975f-0035e0d5dcff&offerid=229037 "Consultant/consultante interne SI - Télécharger le pdf") (pdf - 410 ko)
+<br>Paris
+<br>Cadre/Catégorie A
+
 * [**Urbaniste/Architecte de système d'information expérimenté (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=77064479-1563-437d-82db-fa6c4a4360cf&offerid=223810 "Urbaniste/Architecte de système d'information expérimenté (F/H)
  – Télécharger le pdf") (pdf - 420 ko)
 <br>Paris
