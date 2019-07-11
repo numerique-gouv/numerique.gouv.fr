@@ -18,10 +18,14 @@ layout: page-annexe
 
 ### Nos offres d'emploi actuellement disponibles :
 {: .margin-bottom-0} 
-*(dernière mise à jour le 4 juillet 2019)*
+*(dernière mise à jour le 11 juillet 2019)*
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chargé/chargée de mission animation de communautés et écosystème pour le Programme Entrepreneurs d'intérêt général**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dc7ddd2b-0d4a-4fcd-a98c-79633c4340da&offerid=229032 "Chargé/chargée de mission animation de communautés et écosystème pour le Programme Entrepreneurs d'intérêt général - Télécharger le pdf") (pdf - 350 ko)
+<br>Paris
+<br>Cadre/Catégorie A
+
 * [**Chargé/chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=aadb5631-f300-4a0a-9d2d-752b6f05fe12&offerid=211009 "Chargé/chargée de mission numérique et territoires - Télécharger le pdf") (pdf - 360 ko)
 <br>Paris
 <br>Cadre/Catégorie A
@@ -66,6 +70,11 @@ layout: page-annexe
 
 #### **Data**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Data engineer (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=46301f48-9a81-4663-9504-2f975ed8da4b&offerid=229005 "Data engineer (F/H)
+ – Télécharger le pdf") (pdf - 360 ko)
+<br>Paris
+<br>Cadre/Catégorie A
+
 * [**Apprenti/apprentie chargé/chargée de mission « circulation des données publiques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=73a566e4-7890-4d01-be14-c608deef63d8&offerid=195443 "Apprenti/apprentie chargé/chargée de mission « circulation des données publiques » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Apprentissage
@@ -78,6 +87,10 @@ layout: page-annexe
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Consultant/consultante interne SI**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=75f30312-8f0a-4fb3-975f-0035e0d5dcff&offerid=229037 "Consultant/consultante interne SI - Télécharger le pdf") (pdf - 410 ko)
+<br>Paris
+<br>Cadre/Catégorie A
+
 * [**Urbaniste/Architecte de système d'information expérimenté (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=77064479-1563-437d-82db-fa6c4a4360cf&offerid=223810 "Urbaniste/Architecte de système d'information expérimenté (F/H)
  – Télécharger le pdf") (pdf - 420 ko)
 <br>Paris
