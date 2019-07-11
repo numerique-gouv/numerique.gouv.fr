@@ -19,10 +19,14 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 ### Nos offres d'emploi actuellement disponibles :
 {: .margin-bottom-0} 
-*(dernière mise à jour le 4 juillet 2019)*
+*(dernière mise à jour le 11 juillet 2019)*
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chargé/chargée de mission animation de communautés et écosystème pour le Programme Entrepreneurs d'intérêt général**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dc7ddd2b-0d4a-4fcd-a98c-79633c4340da&offerid=229032 "Chargé/chargée de mission animation de communautés et écosystème pour le Programme Entrepreneurs d'intérêt général - Télécharger le pdf") (pdf - 350 ko)
+<br>Paris
+<br>Cadre/Catégorie A
+
 * [**Chargé/chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=aadb5631-f300-4a0a-9d2d-752b6f05fe12&offerid=211009 "Chargé/chargée de mission numérique et territoires - Télécharger le pdf") (pdf - 360 ko)
 <br>Paris
 <br>Cadre/Catégorie A
