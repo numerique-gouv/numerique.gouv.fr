@@ -71,6 +71,11 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 #### **Open data/Intelligence artificielle**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Data engineer (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=46301f48-9a81-4663-9504-2f975ed8da4b&offerid=229005 "Data engineer (F/H)
+ – Télécharger le pdf") (pdf - 360 ko)
+<br>Paris
+<br>Cadre/Catégorie A
+
 * [**Apprenti/apprentie chargé/chargée de mission « circulation des données publiques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=73a566e4-7890-4d01-be14-c608deef63d8&offerid=195443 "Apprenti/apprentie chargé/chargée de mission « circulation des données publiques » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Apprentissage
