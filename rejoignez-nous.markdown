@@ -19,10 +19,14 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 ### Nos offres d'emploi actuellement disponibles :
 {: .margin-bottom-0} 
-*(dernière mise à jour le 11 juillet 2019)*
+*(dernière mise à jour le 12 juillet 2019)*
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Directeur/directrice de projets interministériels**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=ff650cab-c7d8-457d-aeb0-db83ed3edb63&offerid=229025 "Directeur/directrice de projets interministériels - Télécharger le pdf") (pdf - 400 ko)
+<br>Paris
+<br>Cadre supérieur/Catégorie A+
+
 * [**Chargé/chargée de mission animation de communautés et écosystème pour le Programme Entrepreneurs d'intérêt général**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dc7ddd2b-0d4a-4fcd-a98c-79633c4340da&offerid=229032 "Chargé/chargée de mission animation de communautés et écosystème pour le Programme Entrepreneurs d'intérêt général - Télécharger le pdf") (pdf - 350 ko)
 <br>Paris
 <br>Cadre/Catégorie A
