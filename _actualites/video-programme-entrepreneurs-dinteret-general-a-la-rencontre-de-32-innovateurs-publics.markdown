@@ -1,5 +1,5 @@
 ---
-title: "[Vidéo]Programme Entrepreneurs d’Intérêt Général : à la rencontre de 32 innovateurs
+title: "[Vidéo] Programme Entrepreneurs d’Intérêt Général : à la rencontre de 32 innovateurs
   publics"
 date: 2019-04-08 18:36:00 +02:00
 categories:
