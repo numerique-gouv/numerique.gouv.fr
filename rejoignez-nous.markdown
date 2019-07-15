@@ -43,10 +43,6 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>Paris
 <br>Cadre/Catégorie A
 
-* [**Apprenti/apprentie chef/cheffe de projet Qualité web**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=2637425e-5ad7-423a-b18e-28748a9cdd68&offerid=195458 "Apprenti/e chef/cheffe de projet Qualité web - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Apprentissage
-
 * [**Apprenti/apprentie « Performance économique et gouvernance »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=e4322de0-8c9f-49c6-8547-331b6cd57208&offerid=195467 "Apprenti/apprentie « Performance économique et gouvernance » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Apprentissage
