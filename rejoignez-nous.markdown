@@ -19,7 +19,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 ### Nos offres d'emploi actuellement disponibles :
 {: .margin-bottom-0} 
-*(dernière mise à jour le 12 juillet 2019)*
+*(dernière mise à jour le 15 juillet 2019)*
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
