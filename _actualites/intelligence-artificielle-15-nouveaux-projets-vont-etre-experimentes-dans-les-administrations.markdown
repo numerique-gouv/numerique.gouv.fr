@@ -115,6 +115,17 @@ En triant automatiquement les actes transmissibles et non transmissibles et dét
 
 Travail des agents en préfecture simplifié
 
+#### **Améliorer le système de pré-plainte en ligne**
+*Direction générale de la Gendarmerie nationale*
+
+**Les données utilisées** 
+Les pré-plaintes en ligne
+
+**L'intelligence artificielle**
+En détectant automatiquement les infractions à partir des pré-plaintes en ligne et en identifiant les questions complémentaires à poser à l'usager, l'intelligence artificielle permettra de transformer les pré-plaintes en ligne en plaintes qualifiées.
+
+**Les gains**
+Gain de temps à la fois pour les plaignants et les agents
 
 
 ### L’IA, un enjeu d’avenir pour le service public
