@@ -294,6 +294,26 @@ L’intelligence artificielle permettra de rapprocher les décisions traitant du
 {: .bleue .margin-0 } 
 Milleure garantie d'une interprétation uniforme de la loi
 
+**Améliorer la cartographie sous-marine**
+{: .text-center .margin-bottom-1 .margin-top-3 }
+
+*Service hydrographique et océanographique de la marine* 
+{: .text-center }
+
+
+**Les données utilisées** 
+{: .bleue .margin-0 }
+Les mesures de télédétection par laser (lidar) prises sur le littoral
+
+**L'intelligence artificielle**
+{: .bleue .margin-0 }
+L’intelligence artificielle permettra d'améliorer la production des données en apprenant des corrections apportées par les agents pour automatiser une partie du processus.
+
+**Les gains** 
+{: .bleue .margin-0 }
+* Amélioration de la qualité et précision du référentiel du littoral 
+* Travail des agents facilité
+
 
 
 ### L’IA, un enjeu d’avenir pour le service public
