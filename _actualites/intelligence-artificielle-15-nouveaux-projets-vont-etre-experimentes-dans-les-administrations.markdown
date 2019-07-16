@@ -203,7 +203,9 @@ L’intelligence artificielle permettra d'objectiver des ressemblances et des di
 Meilleure détection des molécules polluantes
 
 #### **Développer une solution de veille et d’exploitation d’informations pour améliorer la sécurité économique**
+{: .text-center .margin-bottom-1 .margin-top-3 }
 *Direction générale des entreprises - Service de l'information stratégique et de la sécurité économiques*
+{: .text-center }
 
 **Les données utilisées** 
 {: .bleue .margin-0 }
