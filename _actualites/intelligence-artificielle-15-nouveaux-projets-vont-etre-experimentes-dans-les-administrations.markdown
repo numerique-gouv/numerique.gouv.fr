@@ -71,7 +71,28 @@ L'intelligence artificielle permettra une recherche sémantique dans le dossier 
 * gain de temps dans la recherche d’informations sur le patient
 <br>
 <br>
-<br>
+
+#### **Développer un système d’alerte automatique pour l’aide à la surveillance des travailleurs exposés aux rayonnements ionisants**
+{: .text-center .margin-bottom-1 .margin-top-3 }
+
+*Institut de radioprotection et de sûreté nucléaire*
+{: .text-center }
+
+**Les données utilisées**
+{: .bleue .margin-0 }
+
+La base de données du système d'information de la surveillance de l'exposition aux rayonnements ionisants (SISERI)
+
+**L'intelligence artificielle**
+{: .bleue .margin-0 }
+
+Les algorithmes d'intelligence artificielle permettront un suivi personnalisé de l'exposition aux rayonnements ionisants et une détection plus facile des anomalies.
+
+**Les gains**
+{: .bleue .margin-0 }
+ 
+Meilleure protection des travailleurs exposés aux rayonnements ionisants
+
 
 ### L’IA, un enjeu d’avenir pour le service public
 
