@@ -151,7 +151,9 @@ A partir des descriptions des produits dans les documents administratifs uniques
 Diminution de la fraude aux droits de douanes
 
 #### **Améliorer l'identification de l'établissement employeur dans le recensement de la population**
+{: .text-center .margin-bottom-1 .margin-top-3 }
 *Institut national de la statistique et des études économiques (INSEE)*
+{: .text-center }
 
 **Les données utilisées**
 {: .bleue .margin-0 } 
