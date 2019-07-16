@@ -235,8 +235,29 @@ L’intelligence artificielle permettra de regrouper les contentieux pour détec
 **Les gains**
 {: .bleue .margin-0 }
 Meilleure efficacité de la justice
+<br>
+<br>
+<br>
+Les 4 projets suivants, plus complexes, bénéficieront d'un accompagnement scientifique en collaboration avec un institut de recherche.
+<br>
+<br>
+<br>
+#### **Détecter les clauses et pratiques abusives dans les contrats, devis et factures**
+{: .text-center .margin-bottom-1 .margin-top-3 }
+*Direction générale de la concurrence, de la consommation et de la répression des fraudes*
+{: .text-center }
 
+**Les données utilisées**
+{: .bleue .margin-0 }
+Les comptes rendus et pièces récupérées par les enquêteurs de la DGCCRF lors des contrôles ainsi que les décisions, avis et recommandations de la commission des clauses abusives
 
+**L'intelligence artificielle** 
+{: .bleue .margin-0 }
+L’intelligence artificielle permettra de détecter la présence et le contenu des mentions obligatoires, d'identifier les thématiques des clauses des contrats et le cas échéant d'identifier les clauses abusives.
+
+**Les gains** 
+{: .bleue .margin-0 }
+Meilleure protection des consommateurs
 
 
 ### L’IA, un enjeu d’avenir pour le service public
