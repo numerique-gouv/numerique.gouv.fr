@@ -19,7 +19,7 @@ Faciliter les décisions médicales, lutter contre les fausses déclarations dou
 
 ### Prototype et accompagnement métier
 
-**Financés à hauteur de 4M€** dans le cadre du programme d’investissement d’avenir, ces 15 projets seront **accompagnés à partir de septembre 2019,** pendant un an, jusqu’à la réalisation d’un prototype fonctionnel, expérimenté auprès des utilisateurs. La DINSIC fournira **l’expertise technologique**, en matière de traitement des données, d’intelligence artificielle et plus largement de transformation numérique. L’intégration d’IA dans les métiers demandant aussi de faire évoluer le travail des agents et leurs pratiques, la DITP appuiera chaque administration en amont pour identifier, anticiper et préparer ces changements, et en aval pour accompagner les changements induits.
+**Financés à hauteur de 4M€** dans le cadre du programme d’investissement d’avenir, ces 15 projets seront **accompagnés à partir de septembre 2019,** pendant un an, jusqu’à la réalisation d’un prototype fonctionnel, expérimenté auprès des utilisateurs. La DINSIC fournira **l’expertise technologique**, en matière de traitement des données, d’intelligence artificielle et plus largement de transformation numérique. +
 
 ### L’IA, un enjeu d’avenir pour le service public
 
