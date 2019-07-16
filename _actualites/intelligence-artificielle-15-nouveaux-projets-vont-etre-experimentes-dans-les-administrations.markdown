@@ -2,7 +2,6 @@
 title: 'Intelligence artificielle : 15 nouveaux projets vont être expérimentés dans
   les administrations'
 date: 2019-07-15 16:30:00 +02:00
-published: false
 categories:
 - Article
 tags:
@@ -323,5 +322,7 @@ L’intelligence artificielle permettra d'améliorer la production des données 
 ### L’IA, un enjeu d’avenir pour le service public
 
 Ces 15 nouveaux projets s’ajoutent aux [6 prototypes en cours de développement, issus du premier appel à manifestation d’intérêt](https://numerique.gouv.fr/actualites/intelligence-artificielle-6-projets-selectionnes-pour-etre-experimentes-dans-les-services-publics/). Ensemble, ils permettent à l’administration de **tester sur le terrain, par des applications concrètes, le potentiel de l’IA**. En libérant les agents de certaines tâches, ces technologies pourront leur permettre de se recentrer sur leur cœur de métier, notamment par un accompagnement plus personnalisé des usagers, pour un meilleur service rendu.
+<br>
+<br>
 
 <figure class='image-right' style='width: 20%;' margin-bottom='10' margin-top='3'><img src="/uploads/logo_investirlavenir_rvb.png" alt="Logo Investir l'avenir"/></figure>*Cet appel à manifestation d’intérêt et l’accompagnement associé s'inscrivent dans le cadre du **laboratoire d’intelligence artificielle**- « Lab IA » - porté par la DINSIC en partenariat avec la DITP. Il est financé par le fonds « Transition numérique de l’État et modernisation de l’action publique » du programme d’investissements d’avenir (PIA), piloté par le secrétariat général pour l'investissement (SGPI), avec le soutien de la Caisse des dépôts et consignations.*
