@@ -11,6 +11,8 @@ tags:
 - Transformation numérique
 chapeau-text: Découvrez les 15 projets lauréats du deuxième appel à manifestation
   d’intérêt Intelligence artificielle, lancé par la DINSIC et la DITP.
+une-ou-diaporama:
+- image: "/uploads/20190715_Laureats_Article_IA.jpg"
 ---
 
 Faciliter les décisions médicales, lutter contre les fausses déclarations douanières, améliorer la cartographie sous-marine… **15 nouvelles applications concrètes de l’intelligence artificielle** vont être testées au sein de l’administration. Ces projets ont été choisis parmi les **46 proposés par des administrations** lors du [deuxième appel à manifestation d’intérêt Intelligence artificielle](https://www.numerique.gouv.fr/actualites/saison-2-intelligence-artificielle-administrations-proposez-vos-projets-experimentations/), lancé en avril dernier par la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) et la direction interministérielle de la transformation publique (DITP).
@@ -20,37 +22,54 @@ Faciliter les décisions médicales, lutter contre les fausses déclarations dou
 **Financés à hauteur de 4M€** dans le cadre du programme d’investissement d’avenir, ces 15 projets seront **accompagnés à partir de septembre 2019,** pendant un an, jusqu’à la réalisation d’un prototype fonctionnel. La DINSIC fournira **l’expertise technologique**, en matière de traitement des données, d’intelligence artificielle et plus largement de transformation numérique. L’intégration d’IA dans les processus métier demandant aussi de faire évoluer les méthodes et le travail des agents, la DITP appuiera chaque administration en amont pour anticiper et préparer ces changements, et en aval pour mesurer l’impact.
 
 ## Les 15 projets lauréats
-
 {: .text-center .margin-3 }
 
-### **Détecter les occupations irrégulières des sols**
-
+### **Optimiser le traitement des signalements des événements sanitaires indésirables**
 {: .text-center .margin-bottom-1 .margin-top-3 }
 
-*Direction départementale des territoires et de la mer de l’Hérault*
+*Direction générale de la santé*
 {: .text-center }
 
-**L’objectif :** lutter contre bâtis, hangars, décharges sauvages
-et constructions illégales dans les milieux sensibles
-{: .text-center }
-
-**Les données de départ**
+**Les données utilisées**
 {: .bleue .margin-0 }
 
-Lorem ipsum
+L'ensemble des signalements déposés sur le portail signalement-sante.gouv.fr
 
 **L’intelligence artificielle**
 {: .bleue .margin-0  }
 
-Lorem ipsum
+L'intelligence artificielle pourra classifier automatiquement les signalements, extraire les concepts métiers pertinents et détecter des anomalies dans les signalements.
 
 **Les gains**
 {: .bleue .margin-0  }
 
-* Lorem ipsum
+* travail des évaluateurs facilité
+* amélioration des délais de retour au déclarant
+<br>
+<br>
+<br>
 
-* Lorem ipsum
+### **Faciliter l'accès aux informations sur le patient**
+{: .text-center .margin-bottom-1 .margin-top-3 }
 
+*Centre hospitalier universitaire de Bordeaux*
+{: .text-center }
+
+**Les données utilisées**
+{: .bleue .margin-0 }
+
+Le dossier patient informatisé signalement-sante.gouv.fr
+
+**L’intelligence artificielle**
+{: .bleue .margin-0  }
+
+L'intelligence artificielle permettra une recherche sémantique dans le dossier patient informatisé pour retrouver les bonnes informations au bon moment.
+
+**Les gains**
+{: .bleue .margin-0  }
+
+* travail du personnel soignant facilité
+* gain de temps dans la recherche d’informations sur le patient
 <br>
 <br>
 <br>
