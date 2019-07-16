@@ -43,8 +43,8 @@ L'intelligence artificielle pourra classifier automatiquement les signalements, 
 **Les gains**
 {: .bleue .margin-0  }
 
-* travail des évaluateurs facilité
-* amélioration des délais de retour au déclarant
+* Travail des évaluateurs facilité
+* Amélioration des délais de retour au déclarant
 <br>
 <br>
 
@@ -67,8 +67,8 @@ L'intelligence artificielle permettra une recherche sémantique dans le dossier 
 **Les gains**
 {: .bleue .margin-0  }
 
-* travail du personnel soignant facilité
-* gain de temps dans la recherche d’informations sur le patient
+* Travail du personnel soignant facilité
+* Gain de temps dans la recherche d’informations sur le patient
 <br>
 <br>
 
