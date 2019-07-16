@@ -257,7 +257,8 @@ L’intelligence artificielle permettra de détecter la présence et le contenu 
 
 **Les gains** 
 {: .bleue .margin-0 }
-Meilleure protection des consommateurs
+* Meilleure protection des consommateurs
+* Meilleure régulation concurrentielle des marchés
 
 
 ### L’IA, un enjeu d’avenir pour le service public
