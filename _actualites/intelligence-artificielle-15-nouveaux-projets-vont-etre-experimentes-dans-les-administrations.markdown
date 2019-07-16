@@ -24,7 +24,7 @@ Faciliter les décisions médicales, lutter contre les fausses déclarations dou
 ## Les 15 projets lauréats
 {: .text-center .margin-3 }
 
-### **Optimiser le traitement des signalements des événements sanitaires indésirables**
+#### **Optimiser le traitement des signalements des événements sanitaires indésirables**
 {: .text-center .margin-bottom-1 .margin-top-3 }
 
 *Direction générale de la santé*
@@ -49,7 +49,7 @@ L'intelligence artificielle pourra classifier automatiquement les signalements, 
 <br>
 <br>
 
-### **Faciliter l'accès aux informations sur le patient**
+#### **Faciliter l'accès aux informations sur le patient**
 {: .text-center .margin-bottom-1 .margin-top-3 }
 
 *Centre hospitalier universitaire de Bordeaux*
