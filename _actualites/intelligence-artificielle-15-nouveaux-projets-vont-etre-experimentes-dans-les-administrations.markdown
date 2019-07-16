@@ -93,6 +93,29 @@ Les algorithmes d'intelligence artificielle permettront un suivi personnalisé d
  
 Meilleure protection des travailleurs exposés aux rayonnements ionisants
 
+#### **Développer l’intelligence artificielle dans le contrôle de légalité dématérialisé**
+{: .text-center .margin-bottom-1 .margin-top-3 }
+
+
+*Direction générale des collectivités locales*
+{: .text-center }
+
+**Les données utilisées** 
+{: .bleue .margin-0 }
+
+Les actes transmis par les collectivités locales aux préfectures
+
+**L'intelligence artificielle**
+{: .bleue .margin-0 }
+
+En triant automatiquement les actes transmissibles et non transmissibles et détectant les informations à contrôler en priorité, l'intelligence artificielle pourra faciliter le travail des agents en préfecture.
+
+**Les gains** 
+{: .bleue .margin-0 }
+
+Travail des agents en préfecture simplifié
+
+
 
 ### L’IA, un enjeu d’avenir pour le service public
 
