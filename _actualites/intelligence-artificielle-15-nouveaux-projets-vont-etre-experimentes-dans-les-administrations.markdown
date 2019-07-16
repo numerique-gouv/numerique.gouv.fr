@@ -260,6 +260,25 @@ L’intelligence artificielle permettra de détecter la présence et le contenu 
 * Meilleure protection des consommateurs
 * Meilleure régulation concurrentielle des marchés
 
+#### **Faciliter le calcul du positionnement des points de référence terrestre à partir des données satellites**
+{: .text-center .margin-bottom-1 .margin-top-3 }
+*Institut national de l'information géographique et forestière (IGN)* 
+{: .text-center }
+
+**Les données utilisées** 
+{: .bleue .margin-0 }
+Les positions des antennes permanentes
+
+**L'intelligence artificielle** 
+{: .bleue .margin-0 }
+L’intelligence artificielle permettra d'identifier automatiquement les ruptures dans la mesure des positions des antennes permanentes pour pouvoir les corriger.
+
+**Les gains**
+{: .bleue .margin-0 } 
+Amélioration de la qualité du système international de référence terrestre
+
+
+
 
 ### L’IA, un enjeu d’avenir pour le service public
 
