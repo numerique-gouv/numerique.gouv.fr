@@ -277,16 +277,21 @@ L’intelligence artificielle permettra d'identifier automatiquement les rupture
 {: .bleue .margin-0 } 
 Amélioration de la qualité du système international de référence terrestre
 
-Identifier les divergences de jurisprudence
- Cour de cassation 
+#### **Identifier les divergences de jurisprudence**
+{: .text-center .margin-bottom-1 .margin-top-3 }
+*Cour de cassation* 
+{: .text-center }
 
-**Les donnée utffsées**
+**Les données utilisées**
+{: .bleue .margin-0 } 
 Données de jurisprudence de la Cour de cassation (Jurinet) et de cours d'appel (JuriCA)
 
-**intelligence artificielle**
+**L'intelligence artificielle**
+{: .bleue .margin-0 } 
 L’intelligence artificielle permettra de rapprocher les décisions traitant du même thème et de détecter des interprétations divergentes de la loi.
 
 **Les gains**
+{: .bleue .margin-0 } 
 Milleure garantie d'une interprétation uniforme de la loi
 
 
