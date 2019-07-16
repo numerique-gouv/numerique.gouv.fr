@@ -21,6 +21,11 @@ Faciliter les décisions médicales, lutter contre les fausses déclarations dou
 
 **Financés à hauteur de 4M€** dans le cadre du programme d’investissement d’avenir, ces 15 projets seront **accompagnés à partir de septembre 2019,** pendant un an, jusqu’à la réalisation d’un prototype fonctionnel, expérimenté auprès des utilisateurs. La DINSIC fournira **l’expertise technologique**, en matière de traitement des données, d’intelligence artificielle et plus largement de transformation numérique. L’intégration d’IA dans les métiers demandant aussi de faire évoluer le travail des agents et leurs pratiques, la DITP appuiera chaque administration en amont pour identifier, anticiper et préparer ces changements, et en aval pour accompagner les changements induits.
 
+### L’IA, un enjeu d’avenir pour le service public
+
+Ces 15 nouveaux projets s’ajoutent aux [6 prototypes en cours de développement, issus du premier appel à manifestation d’intérêt](https://numerique.gouv.fr/actualites/intelligence-artificielle-6-projets-selectionnes-pour-etre-experimentes-dans-les-services-publics/). Ensemble, ils permettent à l’administration de **tester sur le terrain, par des applications concrètes, le potentiel de l’IA**. En libérant les agents de certaines tâches, ces technologies pourront leur permettre de se recentrer sur leur cœur de métier, notamment par un accompagnement plus personnalisé des usagers, pour un meilleur service rendu.
+<br>
+
 ## Les 15 projets lauréats
 {: .text-center .margin-3 }
 
@@ -317,11 +322,6 @@ L’intelligence artificielle permettra d'améliorer la production des données 
 
 
 <br>
-<br>
-<br>
-### L’IA, un enjeu d’avenir pour le service public
-
-Ces 15 nouveaux projets s’ajoutent aux [6 prototypes en cours de développement, issus du premier appel à manifestation d’intérêt](https://numerique.gouv.fr/actualites/intelligence-artificielle-6-projets-selectionnes-pour-etre-experimentes-dans-les-services-publics/). Ensemble, ils permettent à l’administration de **tester sur le terrain, par des applications concrètes, le potentiel de l’IA**. En libérant les agents de certaines tâches, ces technologies pourront leur permettre de se recentrer sur leur cœur de métier, notamment par un accompagnement plus personnalisé des usagers, pour un meilleur service rendu.
 <br>
 <br>
 
