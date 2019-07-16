@@ -209,17 +209,18 @@ Meilleure détection des molécules polluantes
 
 **Les données utilisées** 
 {: .bleue .margin-0 }
-Les dossiers d'investissements étrangers en France
+Les demandes d’investissements étrangers en France croisées avec des sources externes
 
 **L'intelligence artificielle**
 {: .bleue .margin-0 }
-L’intelligence artificielle permettra de détecter et d'identifier des entités dans les documents du service pour améliorer l'instruction des dossiers d'intelligence économique.
+L’intelligence artificielle permettra de détecter et d'identifier des entités présentant un risque pour les intérêts économiques de la France.
 
 **Les gains**
 {: .bleue .margin-0 }
-A venir
+* Améliorer l'instruction des dossiers d'intelligence économique
+* Mieux détecter les risques que peuvent présenter des investissements étrangers
 
-**Identifier automatiquement les séries de contentieux faisant appel à une décision commune**
+#### **Identifier automatiquement les séries de contentieux faisant appel à une décision commune**
 {: .text-center .margin-bottom-1 .margin-top-3 }
 *Conseil d’État*
 {: .text-center }
@@ -292,9 +293,9 @@ L’intelligence artificielle permettra de rapprocher les décisions traitant du
 
 **Les gains**
 {: .bleue .margin-0 } 
-Milleure garantie d'une interprétation uniforme de la loi
+Meilleure garantie d'une interprétation uniforme de la loi
 
-**Améliorer la cartographie sous-marine**
+#### **Améliorer la cartographie du littoral**
 {: .text-center .margin-bottom-1 .margin-top-3 }
 
 *Service hydrographique et océanographique de la marine* 
