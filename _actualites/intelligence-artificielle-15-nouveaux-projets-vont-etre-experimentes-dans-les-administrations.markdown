@@ -202,6 +202,21 @@ L’intelligence artificielle permettra d'objectiver des ressemblances et des di
 {: .bleue .margin-0 }
 Meilleure détection des molécules polluantes
 
+#### **Développer une solution de veille et d’exploitation d’informations pour améliorer la sécurité économique**
+*Direction générale des entreprises - Service de l'information stratégique et de la sécurité économiques*
+
+**Les données utilisées** 
+{: .bleue .margin-0 }
+Les dossiers d'investissements étrangers en France
+
+**L'intelligence artificielle**
+{: .bleue .margin-0 }
+L’intelligence artificielle permettra de détecter et d'identifier des entités dans les documents du service pour améliorer l'instruction des dossiers d'intelligence économique.
+
+**Les gains**
+{: .bleue .margin-0 }
+A venir
+
 
 
 ### L’IA, un enjeu d’avenir pour le service public
