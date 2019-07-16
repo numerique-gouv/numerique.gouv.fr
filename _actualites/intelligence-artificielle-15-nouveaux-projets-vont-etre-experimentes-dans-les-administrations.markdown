@@ -219,6 +219,24 @@ L’intelligence artificielle permettra de détecter et d'identifier des entité
 {: .bleue .margin-0 }
 A venir
 
+**Identifier automatiquement les séries de contentieux faisant appel à une décision commune**
+{: .text-center .margin-bottom-1 .margin-top-3 }
+*Conseil d’État*
+{: .text-center }
+
+**Les données utilisées** 
+{: .bleue .margin-0 }
+Ensemble des requêtes auprès des tribunaux administratifs
+
+**L'intelligence artificielle** 
+{: .bleue .margin-0 }
+L’intelligence artificielle permettra de regrouper les contentieux pour détecter automatiquement des séries.
+
+**Les gains**
+{: .bleue .margin-0 }
+Meilleure efficacité de la justice
+
+
 
 
 ### L’IA, un enjeu d’avenir pour le service public
