@@ -241,7 +241,7 @@ Meilleure efficacité de la justice
 Les 4 projets suivants, plus complexes, bénéficieront d'un accompagnement scientifique en collaboration avec un institut de recherche.
 <br>
 <br>
-<br>
+
 #### **Détecter les clauses et pratiques abusives dans les contrats, devis et factures**
 {: .text-center .margin-bottom-1 .margin-top-3 }
 *Direction générale de la concurrence, de la consommation et de la répression des fraudes*
