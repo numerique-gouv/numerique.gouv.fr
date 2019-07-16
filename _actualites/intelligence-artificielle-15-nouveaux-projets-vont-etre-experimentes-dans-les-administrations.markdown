@@ -133,6 +133,25 @@ En détectant automatiquement les infractions à partir des pré-plaintes en lig
 {: .bleue .margin-0 }
 Gain de temps à la fois pour les plaignants et les agents
 
+#### **Identifier les fausses déclarations en douane grâce au text mining**
+{: .text-center .margin-bottom-1 .margin-top-3 }
+*Direction générale des douanes et des droits indirects*
+{: .text-center }
+
+**Les données utilisées** 
+{: .bleue .margin-0 }
+Les documents administratifs uniques
+
+**L'intelligence artificielle**
+{: .bleue .margin-0 }
+A partir des descriptions des produits dans les documents administratifs uniques, l'intelligence artificielle permettra de détecter les produits importés qui sont déclarés à tort dans une nomenclature de produits fiscalement avantageuse.
+
+**Les gains** 
+{: .bleue .margin-0 }
+Diminution de la fraude aux droits de douanes
+
+
+
 
 ### L’IA, un enjeu d’avenir pour le service public
 
