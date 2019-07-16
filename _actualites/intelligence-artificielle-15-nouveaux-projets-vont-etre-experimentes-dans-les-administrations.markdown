@@ -150,6 +150,22 @@ A partir des descriptions des produits dans les documents administratifs uniques
 {: .bleue .margin-0 }
 Diminution de la fraude aux droits de douanes
 
+#### **Améliorer l'identification de l'établissement employeur dans le recensement de la population**
+*Institut national de la statistique et des études économiques (INSEE)*
+
+**Les données utilisées**
+{: .bleue .margin-0 } 
+Les déclarations des établissements employeurs dans le recensement de la population et la base SIRENE des établissements
+
+**L'intelligence artificielle**
+{: .bleue .margin-0 }
+L’intelligence artificielle permettra de développer un moteur de recommandation pour les agents corrigeant les données du recensement.
+
+**Les gains**
+{: .bleue .margin-0 }
+* Plus grande précision des statistiques domicile-travail fournie par l'Insee
+* Gain d'efficience dans la chaîne de production des données
+
 
 
 
