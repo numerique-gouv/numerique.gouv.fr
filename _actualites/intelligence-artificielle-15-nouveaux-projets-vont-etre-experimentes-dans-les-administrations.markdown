@@ -47,7 +47,6 @@ L'intelligence artificielle pourra classifier automatiquement les signalements, 
 * amélioration des délais de retour au déclarant
 <br>
 <br>
-<br>
 
 #### **Faciliter l'accès aux informations sur le patient**
 {: .text-center .margin-bottom-1 .margin-top-3 }
