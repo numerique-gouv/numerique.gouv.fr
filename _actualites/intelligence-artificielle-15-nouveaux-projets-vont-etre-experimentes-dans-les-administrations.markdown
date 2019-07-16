@@ -315,7 +315,9 @@ L’intelligence artificielle permettra d'améliorer la production des données 
 * Travail des agents facilité
 
 
-
+<br>
+<br>
+<br>
 ### L’IA, un enjeu d’avenir pour le service public
 
 Ces 15 nouveaux projets s’ajoutent aux [6 prototypes en cours de développement, issus du premier appel à manifestation d’intérêt](https://numerique.gouv.fr/actualites/intelligence-artificielle-6-projets-selectionnes-pour-etre-experimentes-dans-les-services-publics/). Ensemble, ils permettent à l’administration de **tester sur le terrain, par des applications concrètes, le potentiel de l’IA**. En libérant les agents de certaines tâches, ces technologies pourront leur permettre de se recentrer sur leur cœur de métier, notamment par un accompagnement plus personnalisé des usagers, pour un meilleur service rendu.
