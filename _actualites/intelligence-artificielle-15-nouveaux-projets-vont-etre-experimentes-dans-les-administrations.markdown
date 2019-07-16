@@ -168,6 +168,22 @@ L’intelligence artificielle permettra de développer un moteur de recommandati
 * Plus grande précision des statistiques domicile-travail fournie par l'Insee
 * Gain d'efficience dans la chaîne de production des données
 
+#### **Développer un outil d'aide à l'implantation des entreprises artisanales**
+{: .text-center .margin-bottom-1 .margin-top-3 }
+*Chambres des métiers et de l'artisanat*
+{: .text-center }
+
+**Les données utilisées**
+{: .bleue .margin-0 }
+Les données sur les artisans et les données carroyées
+
+**L'intelligence artificielle** 
+{: .bleue .margin-0 }
+L’intelligence artificielle permettra de déterminer les chances de succès d'un artisan sur un territoire.
+
+**Les gains** 
+{: .bleue .margin-0 }
+Choix d'implantation des artisans plus éclairés
 
 
 
