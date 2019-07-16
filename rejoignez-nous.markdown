@@ -18,7 +18,7 @@ layout: page-annexe
 
 ### Nos offres d'emploi actuellement disponibles :
 {: .margin-bottom-0} 
-*(dernière mise à jour le 15 juillet 2019)*
+*(dernière mise à jour le 16 juillet 2019)*
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
@@ -41,10 +41,6 @@ layout: page-annexe
 * [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=269997df-7279-4259-96ad-92a71c4124f7&offerid=198613 "Chargé/chargée de mission « Transformation numérique de l'État » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A
-
-* [**Apprenti/apprentie « Performance économique et gouvernance »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=e4322de0-8c9f-49c6-8547-331b6cd57208&offerid=195467 "Apprenti/apprentie « Performance économique et gouvernance » - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Apprentissage
 <br>
 <br>
 

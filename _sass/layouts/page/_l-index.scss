@@ -99,3 +99,12 @@
 #toutes-les-actus {
   padding-bottom: 4rem;
 }
+
+@media screen and (max-width: 39.9375em) {
+  #actu-a-la-une {
+    margin-left: 0;
+  }
+  #image-carte-double {
+    height: 13rem !important;
+  }
+}
