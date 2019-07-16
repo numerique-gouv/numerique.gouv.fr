@@ -45,6 +45,13 @@ const datePicker = connectRange(
   }
 );
 
+$('#datepickerStart, #datepickerEnd').each( function() {
+  let start_date = moment().startOf('day');
+  let end_date = moment().add(1, 'year');
+  $('#datepickerStart').val(start_date.format('LL'))
+  $('#datepickerEnd').val(end_date.format('LL'))
+})
+
 instantsearch_builder.addWidget(datePicker, {
   attributeName: 'dates'
 });
