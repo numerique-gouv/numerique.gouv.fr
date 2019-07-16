@@ -185,6 +185,23 @@ L’intelligence artificielle permettra de déterminer les chances de succès d'
 {: .bleue .margin-0 }
 Choix d'implantation des artisans plus éclairés
 
+#### **Identifier les molécules contaminant l’environnement et profiler les sources de pollutions**
+{: .text-center .margin-bottom-1 .margin-top-3 }
+*Institut national de l'environnement industriel et des risques*
+{: .text-center }
+
+**Les données utilisées**
+{: .bleue .margin-0 }
+Les résultats d'analyses chimiques
+
+**L'intelligence artificielle**
+{: .bleue .margin-0 }
+L’intelligence artificielle permettra d'objectiver des ressemblances et des différences entre des spectres moléculaires pour mieux identifier les molécules contaminant l'environnement.
+
+**Les gains**
+{: .bleue .margin-0 }
+Meilleure détection des molécules polluantes
+
 
 
 ### L’IA, un enjeu d’avenir pour le service public
