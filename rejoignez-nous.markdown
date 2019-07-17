@@ -1,6 +1,7 @@
 ---
 title: Rejoignez-nous
 date: 2019-06-13 03:59:00 +02:00
+date_de_modification: 16 juillet 2019
 permalink: "/rejoignez-nous/"
 layout: page-annexe
 ---
@@ -19,7 +20,6 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 
 ### Nos offres d'emploi actuellement disponibles :
 {: .margin-bottom-0} 
-*(dernière mise à jour le 16 juillet 2019)*
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
