@@ -62,8 +62,8 @@ Des experts en données, IA et transformation numérique accompagneront les laur
 « La stratégie ambitieuse du Gouvernement en matière d’intelligence artificielle s’accompagne d’un investissement sans précédent de 1.5 milliard d’euros sur 5 ans. Dans ce cadre, j’ai la conviction que l’IA doit être une formidable opportunité pour transformer l’action publique. Les 15 projets sélectionnés vont permettre de simplifier et faciliter la vie des français et d’améliorer le fonctionnement du service public.» 
 **Cédric O, secrétaire d’État chargé du numérique**
 
-> Découvrez les lauréats du 2ème AMI « Intelligence artificielle »
-{: .lien-important}
+> [Découvrez les lauréats du 2ème AMI « Intelligence artificielle »
+](https://preprod.numerique.gouv.fr/actualites/intelligence-artificielle-15-nouveaux-projets-vont-etre-experimentes-dans-les-administrations/){: .lien-important}
 
 
 
