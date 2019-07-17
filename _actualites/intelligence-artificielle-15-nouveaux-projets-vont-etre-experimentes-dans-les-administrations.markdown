@@ -244,8 +244,7 @@ Meilleure efficacité de la justice
 <br>
 <br>
 <br>
-Les 4 projets suivants, plus complexes, bénéficieront d'un accompagnement scientifique en collaboration avec un institut de recherche.
-<br>
+Les 4 projets suivants, plus complexes, bénéficieront d'un accompagnement scientifique en collaboration avec un institut de recherche :
 <br>
 
 #### **Détecter les clauses et pratiques abusives dans les contrats, devis et factures**
