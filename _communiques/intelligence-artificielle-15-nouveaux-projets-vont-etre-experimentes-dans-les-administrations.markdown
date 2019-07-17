@@ -43,13 +43,13 @@ Parmi les administrations candidates, des directions d'administration centrale e
 * Direction générale de la Gendarmerie nationale : améliorer le système de pré-plainte en ligne 
 * Direction générale des douanes et des droits indirects : détecter les fausses déclarations douanières
 * Institut national de la statistique et des études économiques (INSEE) : créer un moteur de recommandation pour identifier l’établissement employeur dans le cadre du recensement de la population
-* Chambres des métiers et de l'artisanat de Nouvelle-Aquitaine : conseiller les artisans au moment de leur implantation (opportunités et risques)
+* Chambre des métiers et de l'artisanat de Nouvelle-Aquitaine : conseiller les artisans au moment de leur implantation (opportunités et risques)
 * Institut national de l'environnement industriel et des risques : 
 caractériser les sources des contaminations environnementales
 * Direction générale des entreprises - commissaire à l'information stratégique et à la sécurité économiques : développer une solution de veille et d’exploitation d’informations pour améliorer la sécurité économique
 * Conseil d’État : détecter automatiquement les séries de contentieux appelant une décision commune  
 ><br>
-**Les 4 projets sélectionnés pour un accompagnement scientifique :** 
+>**Les 4 projets sélectionnés pour un accompagnement scientifique :**
 ><br>
 ><br>
 * Direction générale de la concurrence, de la consommation et de la répression des fraudes : détecter les clauses et pratiques abusives dans les contrats, devis et factures
@@ -61,8 +61,12 @@ caractériser les sources des contaminations environnementales
 #### Et maintenant ? Une année pour expérimenter avant l’évaluation des résultats !
 
 Des experts en données, IA et transformation numérique accompagneront les lauréats sur le plan technique (développement d’un prototype fonctionnel) et métier (accompagnement au changement) pendant l’année à venir.
-« La stratégie ambitieuse du Gouvernement en matière d’intelligence artificielle s’accompagne d’un investissement sans précédent de 1.5 milliard d’euros sur 5 ans. Dans ce cadre, j’ai la conviction que l’IA doit être une formidable opportunité pour transformer l’action publique. Les 15 projets sélectionnés vont permettre de simplifier et faciliter la vie des français et d’améliorer le fonctionnement du service public.» 
-**Cédric O, secrétaire d’État chargé du numérique**
+
+> « La stratégie ambitieuse du Gouvernement en matière d’intelligence artificielle s’accompagne d’un investissement sans précédent de 1.5 milliard d’euros sur 5 ans. Dans ce cadre, j’ai la conviction que l’IA doit être une formidable opportunité pour transformer l’action publique. Les 15 projets sélectionnés vont permettre de simplifier et faciliter la vie des français et d’améliorer le fonctionnement du service public.»
+{: .citation} 
+> **Cédric O, secrétaire d’État chargé du numérique**
+{: .auteur-citation}
+
 
 >[Découvrez les lauréats du 2ème AMI « Intelligence artificielle »
 ](https://preprod.numerique.gouv.fr/actualites/intelligence-artificielle-15-nouveaux-projets-vont-etre-experimentes-dans-les-administrations/){: .lien-important}
