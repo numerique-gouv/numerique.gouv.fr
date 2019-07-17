@@ -68,7 +68,7 @@ const infiniteHitsConfEvent = {
       const template_builder = new Template_builder(hit);
       return template_builder.get_template_event();
     },
-    empty: "Nous n'avons rien trouvé pour la recherche : <em>\"{{query}}\"</em>",
+    empty: "Aucun événement n'est renseigné pour ces dates.",
   },
   showMoreLabel: "Voir plus de résultats",
   cssClasses: {
