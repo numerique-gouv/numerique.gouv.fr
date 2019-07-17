@@ -50,7 +50,6 @@ caractériser les sources des contaminations environnementales
 * Conseil d’État : détecter automatiquement les séries de contentieux appelant une décision commune  
 ><br>
 >**Les 4 projets sélectionnés pour un accompagnement scientifique :**
-{: .bleue .margin-0 } 
 ><br>
 ><br>
 * Direction générale de la concurrence, de la consommation et de la répression des fraudes : détecter les clauses et pratiques abusives dans les contrats, devis et factures
