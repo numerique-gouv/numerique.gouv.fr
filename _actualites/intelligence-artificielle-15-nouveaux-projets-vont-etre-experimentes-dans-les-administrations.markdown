@@ -15,7 +15,7 @@ une-ou-diaporama:
 - image: "/uploads/20190715_Laureats_Article_IA.jpg"
 ---
 
-Faciliter les décisions médicales, lutter contre les fausses déclarations douanières, améliorer la cartographie sous-marine… **15 nouvelles applications concrètes de l’intelligence artificielle** vont être testées au sein de l’administration. Ces projets ont été choisis parmi les **46 proposés par des administrations** lors du [deuxième appel à manifestation d’intérêt Intelligence artificielle](https://www.numerique.gouv.fr/actualites/saison-2-intelligence-artificielle-administrations-proposez-vos-projets-experimentations/), lancé en avril dernier par la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) et la direction interministérielle de la transformation publique (DITP).
+Faciliter les décisions médicales, lutter contre les fausses déclarations douanières, améliorer la cartographie du littoral… **15 nouvelles applications concrètes de l’intelligence artificielle** vont être testées au sein de l’administration. Ces projets ont été choisis parmi les **46 proposés par des administrations** lors du [deuxième appel à manifestation d’intérêt Intelligence artificielle](https://www.numerique.gouv.fr/actualites/saison-2-intelligence-artificielle-administrations-proposez-vos-projets-experimentations/), lancé en avril dernier par la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) et la direction interministérielle de la transformation publique (DITP).
 
 ### Prototype et accompagnement métier
 
