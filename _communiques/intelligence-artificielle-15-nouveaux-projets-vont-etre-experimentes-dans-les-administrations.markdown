@@ -2,7 +2,7 @@
 title: |-
   Intelligence artificielle : 15 nouveaux projets
   vont être expérimentés dans les administrations
-date: 2019-07-16 10:42:00 +02:00
+date: 2019-07-17 10:42:00 +02:00
 categories:
 - Communiqué de presse
 chapeau-text: L’intelligence artificielle (IA) est un enjeu d’avenir pour le service
