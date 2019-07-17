@@ -43,7 +43,7 @@ Parmi les administrations candidates, des directions d'administration centrale e
 * Direction générale de la Gendarmerie nationale : améliorer le système de pré-plainte en ligne 
 * Direction générale des douanes et des droits indirects : détecter les fausses déclarations douanières
 * Institut national de la statistique et des études économiques (INSEE) : créer un moteur de recommandation pour identifier l’établissement employeur dans le cadre du recensement de la population
-* Chambres des métiers et de l'artisanat de Nouvelle-Aquitaine : conseiller les artisans au moment de leur implantation (opportunités et risques)
+* Chambre des métiers et de l'artisanat de Nouvelle-Aquitaine : conseiller les artisans au moment de leur implantation (opportunités et risques)
 * Institut national de l'environnement industriel et des risques : 
 caractériser les sources des contaminations environnementales
 * Direction générale des entreprises - commissaire à l'information stratégique et à la sécurité économiques : développer une solution de veille et d’exploitation d’informations pour améliorer la sécurité économique
