@@ -1,14 +1,14 @@
 ---
 title: 'Intelligence artificielle : 15 nouveaux projets vont être expérimentés dans
   les administrations'
-date: 2019-07-17 10:45:00 +02:00
+date: 2019-07-17 10:30:00 +02:00
 categories:
 - Article
 tags:
 - intelligence artificielle
-- Données publiques
+- données
+- innovation
 - Transformation numérique
-- lab IA
 chapeau-text: Découvrez les 15 projets lauréats du deuxième appel à manifestation
   d’intérêt Intelligence artificielle, lancé par la DINSIC et la DITP.
 une-ou-diaporama:
