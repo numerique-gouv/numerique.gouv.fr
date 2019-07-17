@@ -34,26 +34,26 @@ Parmi les administrations candidates, des directions d'administration centrale e
 
 
 > **Les 11 projets sélectionnés pour un accompagnement technique et stratégique :** 
->
->* Direction générale de la santé : analyser et prétraiter des signalements d’événements sanitaires
->* Centre hospitalier universitaire de Bordeaux : simplifier la recherche d’informations dans le dossier patient pour faciliter la décision médicale
->* Institut de radioprotection et de sûreté nucléaire : surveiller l’exposition des travailleurs aux rayonnements ionisants
->* Direction générale des collectivités locales : optimiser le contrôle de la légalité des actes
->* Direction générale de la Gendarmerie nationale : améliorer le système de pré-plainte en ligne 
->* Direction générale des douanes et des droits indirects : détecter les fausses déclarations douanières
->* Institut national de la statistique et des études économiques (INSEE) : créer un moteur de recommandation pour identifier l’établissement employeur dans le cadre du recensement de la population
->* Chambres des métiers et de l'artisanat de Nouvelle-Aquitaine : conseiller les artisans au moment de leur implantation (opportunités et risques)
->* Institut national de l'environnement industriel et des risques : 
+><br>
+* Direction générale de la santé : analyser et prétraiter des signalements d’événements sanitaires
+* Centre hospitalier universitaire de Bordeaux : simplifier la recherche d’informations dans le dossier patient pour faciliter la décision médicale
+* Institut de radioprotection et de sûreté nucléaire : surveiller l’exposition des travailleurs aux rayonnements ionisants
+* Direction générale des collectivités locales : optimiser le contrôle de la légalité des actes
+* Direction générale de la Gendarmerie nationale : améliorer le système de pré-plainte en ligne 
+* Direction générale des douanes et des droits indirects : détecter les fausses déclarations douanières
+* Institut national de la statistique et des études économiques (INSEE) : créer un moteur de recommandation pour identifier l’établissement employeur dans le cadre du recensement de la population
+* Chambres des métiers et de l'artisanat de Nouvelle-Aquitaine : conseiller les artisans au moment de leur implantation (opportunités et risques)
+* Institut national de l'environnement industriel et des risques : 
 caractériser les sources des contaminations environnementales
->* Direction générale des entreprises - commissaire à l'information stratégique et à la sécurité économiques : développer une solution de veille et d’exploitation d’informations pour améliorer la sécurité économique
->* Conseil d’État : détecter automatiquement les séries de contentieux appelant une décision commune  
-
->**Les 4 projets sélectionnés pour un accompagnement scientifique :** 
-
->* Direction générale de la concurrence, de la consommation et de la répression des fraudes : détecter les clauses et pratiques abusives dans les contrats, devis et factures
->* Institut national de l'information géographique et forestière (IGN) : faciliter le calcul du positionnement des points de référence terrestre à partir des données satellites  
->* Cour de cassation : identifier les divergences de jurisprudence
->* Service hydrographique et océanographique de la marine : améliorer la cartographie sous-marine du littoral  
+* Direction générale des entreprises - commissaire à l'information stratégique et à la sécurité économiques : développer une solution de veille et d’exploitation d’informations pour améliorer la sécurité économique
+* Conseil d’État : détecter automatiquement les séries de contentieux appelant une décision commune  
+><br>
+**Les 4 projets sélectionnés pour un accompagnement scientifique :** 
+><br>
+* Direction générale de la concurrence, de la consommation et de la répression des fraudes : détecter les clauses et pratiques abusives dans les contrats, devis et factures
+* Institut national de l'information géographique et forestière (IGN) : faciliter le calcul du positionnement des points de référence terrestre à partir des données satellites  
+* Cour de cassation : identifier les divergences de jurisprudence
+* Service hydrographique et océanographique de la marine : améliorer la cartographie sous-marine du littoral  
 {: .encadre}
 
 #### Et maintenant ? Une année pour expérimenter avant l’évaluation des résultats !
