@@ -54,6 +54,7 @@ caractériser les sources des contaminations environnementales
 * Institut national de l'information géographique et forestière (IGN) : faciliter le calcul du positionnement des points de référence terrestre à partir des données satellites  
 * Cour de cassation : identifier les divergences de jurisprudence
 * Service hydrographique et océanographique de la marine : améliorer la cartographie sous-marine du littoral  
+{: .encadre}
 
 #### Et maintenant ? Une année pour expérimenter avant l’évaluation des résultats !
 
@@ -62,7 +63,7 @@ Des experts en données, IA et transformation numérique accompagneront les laur
 **Cédric O, secrétaire d’État chargé du numérique**
 
 > Découvrez les lauréats du 2ème AMI « Intelligence artificielle »
-
+{: .lien-important}
 
 
 
