@@ -68,7 +68,7 @@ Des experts en données, IA et transformation numérique accompagneront les laur
 {: .auteur-citation}
 
 
-> [Découvrez les lauréats du 2ème AMI « Intelligence artificielle »](https://numerique.gouv.fr/actualites/intelligence-artificielle-15-nouveaux-projets-vont-etre-experimentes-dans-les-administrations/)
+> [Découvrez les lauréats du 2ème AMI « Intelligence artificielle »](/actualites/intelligence-artificielle-15-nouveaux-projets-vont-etre-experimentes-dans-les-administrations/)
 {: .lien-important}
 
 
