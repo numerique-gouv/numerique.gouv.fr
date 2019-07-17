@@ -72,13 +72,13 @@ $elements.each(function () {
     const $pdf = $element.find(".pdf");
     if (fileSize >= 1000) {
       let num = Number(fileSize / 1000)
-      let roundedString = num.toFixed(2)
-      $pdf.text($pdf.text() + ' ' + Number( roundedString ) + ' Mo)')
+      let roundedString = num.toFixed(2).toString().replace(".", ",")
+      $pdf.text($pdf.text() + ' ' + roundedString + ' Mo)')
     } else {
-      $pdf.text($pdf.text() + ' ' + Math.round( fileSize ) + ' Ko)');
+      $pdf.text($pdf.text() + ' ' + Math.round( fileSize ) + ' Ko)')
     }
-  });
-});
+  })
+})
 
 $('.icon-arrow-down').each(function ( index ) {
   const selector = '#list' + (index + 2);
