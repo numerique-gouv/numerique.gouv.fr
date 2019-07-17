@@ -25,7 +25,11 @@
   {% endif %}
 
   {% unless page.event_start_date %}
-    <span class="date ">{% include helpers/date.html date=page.date %}</span>
+    <span class="date">{% include helpers/date.html date=page.date %}</span>
+    {% if page.date_de_modification %}
+      <span class="meta"> | </span>
+      <span class="date">mis à jour le {{ page.date_de_modification }}</span>
+    {% endif %}
   {% endunless %}
 
   {% if page.auteur and page.date %}

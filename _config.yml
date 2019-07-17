@@ -66,6 +66,16 @@ defaults:
       nom:
 - scope:
     path: ''
+    type: publications
+  values:
+    date_de_modification:
+    chapeau-text:
+    une-ou-diaporama:
+    - image:
+      legende:
+      alternative-textuelle:
+- scope:
+    path: ''
     type: evenements
   values:
     layout: evenement
