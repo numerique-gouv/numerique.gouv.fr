@@ -62,7 +62,7 @@ L'intelligence artificielle pourra classifier automatiquement les signalements, 
 **Les données utilisées**
 {: .bleue .margin-0 }
 
-Le dossier patient informatisé signalement-sante.gouv.fr
+Le dossier patient informatisé
 
 **L’intelligence artificielle**
 {: .bleue .margin-0  }
