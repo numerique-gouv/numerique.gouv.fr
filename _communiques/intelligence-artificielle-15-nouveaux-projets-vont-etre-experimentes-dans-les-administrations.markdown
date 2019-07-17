@@ -8,6 +8,8 @@ categories:
 chapeau-text: L’intelligence artificielle (IA) est un enjeu d’avenir pour le service
   public. En libérant les agents de certaines tâches, l’IA pourra leur permettre de
   se recentrer sur leur cœur de métier, pour un meilleur service rendu aux usagers.
+une-ou-diaporama:
+- image: "/uploads/20190715_Laureats_Article_IA-755bcb.jpg"
 files:
 - file: "/uploads/CP_AMI_IA2.pdf"
   nom: Télécharger le communiqué de presse
