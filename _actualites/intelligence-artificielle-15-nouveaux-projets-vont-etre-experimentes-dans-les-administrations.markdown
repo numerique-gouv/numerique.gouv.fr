@@ -2,7 +2,6 @@
 title: 'Intelligence artificielle : 15 nouveaux projets vont être expérimentés dans
   les administrations'
 date: 2019-07-17 16:30:00 +02:00
-published: false
 categories:
 - Article
 tags:
