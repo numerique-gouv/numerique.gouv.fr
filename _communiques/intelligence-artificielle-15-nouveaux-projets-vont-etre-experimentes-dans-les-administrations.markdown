@@ -62,7 +62,7 @@ caractériser les sources des contaminations environnementales
 
 Des experts en données, IA et transformation numérique accompagneront les lauréats sur le plan technique (développement d’un prototype fonctionnel) et métier (accompagnement au changement) pendant l’année à venir.
 
-> « La stratégie ambitieuse du Gouvernement en matière d’intelligence artificielle s’accompagne d’un investissement sans précédent de 1.5 milliard d’euros sur 5 ans. Dans ce cadre, j’ai la conviction que l’IA doit être une formidable opportunité pour transformer l’action publique. Les 15 projets sélectionnés vont permettre de simplifier et faciliter la vie des français et d’améliorer le fonctionnement du service public.»
+> La stratégie ambitieuse du Gouvernement en matière d’intelligence artificielle s’accompagne d’un investissement sans précédent de 1.5 milliard d’euros sur 5 ans. Dans ce cadre, j’ai la conviction que l’IA doit être une formidable opportunité pour transformer l’action publique. Les 15 projets sélectionnés vont permettre de simplifier et faciliter la vie des français et d’améliorer le fonctionnement du service public.
 {: .citation} 
 > **Cédric O, secrétaire d’État chargé du numérique**
 {: .auteur-citation}
