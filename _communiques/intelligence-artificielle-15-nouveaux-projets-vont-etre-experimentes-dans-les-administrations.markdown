@@ -33,7 +33,8 @@ Témoignant d’une mobilisation importante, 46 projets ont été proposés par 
 Parmi les administrations candidates, des directions d'administration centrale et des services déconcentrés mais aussi des établissements publics, des instances juridictionnelles, des acteurs du milieu universitaire ou hospitalier.
 
 
-> **Les 11 projets sélectionnés pour un accompagnement technique et stratégique :** 
+><br>
+>**Les 11 projets sélectionnés pour un accompagnement technique et stratégique :** 
 ><br>
 * Direction générale de la santé : analyser et prétraiter des signalements d’événements sanitaires
 * Centre hospitalier universitaire de Bordeaux : simplifier la recherche d’informations dans le dossier patient pour faciliter la décision médicale
