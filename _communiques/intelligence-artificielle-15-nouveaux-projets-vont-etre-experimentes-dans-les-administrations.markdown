@@ -48,7 +48,7 @@ caractériser les sources des contaminations environnementales
 * Direction générale des entreprises - commissaire à l'information stratégique et à la sécurité économiques : développer une solution de veille et d’exploitation d’informations pour améliorer la sécurité économique
 * Conseil d’État : détecter automatiquement les séries de contentieux appelant une décision commune  
 ><br>
-**Les 4 projets sélectionnés pour un accompagnement scientifique :** 
+>#### Les 4 projets sélectionnés pour un accompagnement scientifique :** 
 ><br>
 * Direction générale de la concurrence, de la consommation et de la répression des fraudes : détecter les clauses et pratiques abusives dans les contrats, devis et factures
 * Institut national de l'information géographique et forestière (IGN) : faciliter le calcul du positionnement des points de référence terrestre à partir des données satellites  
