@@ -3,9 +3,14 @@ title: |-
   Intelligence artificielle : 15 nouveaux projets
   vont être expérimentés dans les administrations
 date: 2019-07-17 10:42:00 +02:00
+categories:
+- Communiqué de presse
 chapeau-text: L’intelligence artificielle (IA) est un enjeu d’avenir pour le service
   public. En libérant les agents de certaines tâches, l’IA pourra leur permettre de
   se recentrer sur leur cœur de métier, pour un meilleur service rendu aux usagers.
+files:
+- file: "/uploads/CP_AMI_IA2.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Pour que l’État se saisisse pleinement du potentiel de l’IA, **la direction interministérielle du numérique (DINSIC) et la direction interministérielle de la transformation publique (DITP)** lançaient, le 2 avril dernier, un [2ème appel à manifestation d’intérêt (AMI)](https://www.numerique.gouv.fr/actualites/saison-2-intelligence-artificielle-administrations-proposez-vos-projets-experimentations/) auprès des administrations pour expérimenter l’intelligence artificielle dans les services publics. Cet AMI s’inscrit dans le **programme d’investissements d’avenir (PIA)** piloté par le  **Secrétariat général pour l'investissement (SGPI)**. La **Caisse des dépôts et consignations (CDC)** en est l’opérateur administratif et financier. 
