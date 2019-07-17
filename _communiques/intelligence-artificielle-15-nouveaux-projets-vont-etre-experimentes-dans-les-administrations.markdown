@@ -20,10 +20,14 @@ Pour que l’État se saisisse pleinement du potentiel de l’IA, **la direction
 ### Les nouveautés de ce 2ème AMI
 
 En juin 2018, un [1er appel à manifestation d’intérêt ](https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/207_-_dossier_de_presse_-_ami_ia.pdf)était lancé, dans le cadre du programme d’investissement d’avenir. Sur les 52 projets déposés par les administrations, 6 ont été sélectionnés par un jury d’experts. Ces projets sont en cours de développement au sein des services publics et aboutiront à un **prototype fonctionnel en octobre 2019.**
+<br>
 Comme pour le 1er, les lauréats du 2ème AMI bénéficieront d’un **accompagnement**, de la part de la DINSIC et de la DITP, afin d’aboutir à un **prototype fonctionnel tout en anticipant et préparant les transformations métier** associées à l’intégration de l’IA dans les pratiques de travail des agents.
+<br>
 Nouveauté de ce 2ème appel à manifestation d’intérêt : **les projets techniquement plus exploratoires** bénéficieront d’un accompagnement spécifique, via un partenariat avec un institut de recherche ou une entreprise innovante.
+<br>
 Grâce à un budget plus conséquent de **3,5 M€ pour l’accompagnement technique et métier** et **500 k€ pour l’accompagnement scientifique**, ce ne sont pas moins de 15 projets qui ont été sélectionnés pour cette 2ème vague d’expérimentation.
 
 ### Des candidatures nombreuses et diversifiées
 Témoignant d’une mobilisation importante, 46 projets ont été proposés par 38 administrations à ce 2ème AMI avec des objectifs d'application très variés, reflétant une forte volonté d’explorer grâce à l’IA de nouvelles manières de remplir leurs missions de services public.  
+<br>
 Parmi les administrations candidates, des directions d'administration centrale et des services déconcentrés mais aussi des établissements publics, des instances juridictionnelles, des acteurs du milieu universitaire ou hospitalier.
