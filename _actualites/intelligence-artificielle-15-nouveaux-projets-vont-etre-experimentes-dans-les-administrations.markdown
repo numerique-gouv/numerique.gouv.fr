@@ -1,7 +1,7 @@
 ---
 title: 'Intelligence artificielle : 15 nouveaux projets vont être expérimentés dans
   les administrations'
-date: 2019-07-15 16:30:00 +02:00
+date: 2019-07-17 16:30:00 +02:00
 categories:
 - Article
 tags:
@@ -19,7 +19,7 @@ Faciliter les décisions médicales, lutter contre les fausses déclarations dou
 
 ### Prototype et accompagnement métier
 
-**Financés à hauteur de 4M€** dans le cadre du programme d’investissement d’avenir, ces 15 projets seront **accompagnés à partir de septembre 2019,** pendant un an, jusqu’à la réalisation d’un prototype fonctionnel, expérimenté auprès des utilisateurs. La DINSIC fournira **l’expertise technologique**, en matière de traitement des données, d’intelligence artificielle et plus largement de transformation numérique. +
+**Financés à hauteur de 4M€** dans le cadre du programme d’investissement d’avenir, ces 15 projets seront **accompagnés à partir de septembre 2019,** pendant un an, jusqu’à la réalisation d’un prototype fonctionnel, expérimenté auprès des utilisateurs. La DINSIC fournira **l’expertise technologique**, en matière de traitement des données, d’intelligence artificielle et plus largement de transformation numérique. En parallèle, la DITP appuiera chaque administration pour identifier en amont, préparer, puis accompagner *les transformations métier* induites par l’intégration de l’IA dans les processus.
 
 ### L’IA, un enjeu d’avenir pour le service public
 
