@@ -5,6 +5,7 @@ permalink: "/rejoignez-nous/"
 date_de_modification: 16 juillet 2019
 layout: page-annexe
 ---
+
 **Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINSIC !**
 <br>
 <br>
