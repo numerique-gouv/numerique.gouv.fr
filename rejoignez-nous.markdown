@@ -2,6 +2,7 @@
 title: Rejoignez-nous
 date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
+date_de_modification: 16 juillet 2019
 layout: page-annexe
 ---
 **Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINSIC !**
@@ -18,7 +19,6 @@ layout: page-annexe
 
 ### Nos offres d'emploi actuellement disponibles :
 {: .margin-bottom-0} 
-*(dernière mise à jour le 16 juillet 2019)*
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
@@ -145,6 +145,3 @@ layout: page-annexe
 <br>Catégorie B
 <br>
 <br>
-<br>
-
-*Nos offres d'emploi sont également publiées sur [la Place de l'emploi public](https://www.place-emploi-public.gouv.fr/){:target="_blank"}.*
