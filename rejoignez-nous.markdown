@@ -5,10 +5,9 @@ permalink: "/rejoignez-nous/"
 date_de_modification: 16 juillet 2019
 layout: page-annexe
 ---
-
 **Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINSIC !**
-
-Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://www.place-emploi-public.gouv.fr/){:target="_blank"}.
+<br>
+<br>
 
 ### Comment postuler ?
 {: .margin-top-5 .margin-bottom-1} 
@@ -65,7 +64,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 <br>
 <br>
 
-#### **Open data/Intelligence artificielle**
+#### **Data**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Data engineer (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=46301f48-9a81-4663-9504-2f975ed8da4b&offerid=229005 "Data engineer (F/H)
  – Télécharger le pdf") (pdf - 360 ko)
@@ -119,7 +118,7 @@ Nos offres d'emploi sont disponibles sur [la Place de l'emploi public](https://w
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chef/cheffe de pôle Ressources humaines**]( https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6dd6903a-3abb-4be6-a2dc-412fd8a3a117&offerid=196876 "Chef/cheffe de pôle Ressources humaines - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
-<br>Catégorie A
+<br>Cadre/Catégorie A
 
 * [**Apprenti/apprentie chargé/chargée de mission en ressources humaines (RH)**]( https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=5938e0fc-7b24-438a-826c-a99008a64047&offerid=195435 "Apprenti/apprentie chargé/chargée de mission en ressources humaines (RH) - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
