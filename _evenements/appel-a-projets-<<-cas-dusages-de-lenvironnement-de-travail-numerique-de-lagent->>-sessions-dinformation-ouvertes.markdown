@@ -22,11 +22,10 @@ champs_informations:
 - intitule: Horaires
   contenu: 14h-17h
 - intitulé: Modalités
-  contenu: Possibilité d’y assister par visio-conférence via infrastructure IP ou
-    RNIS
-- intitule: 'Comment s''inscrire :'
-  contenu: etna.dinsic@modernisation.gouv.fr
-  Intitulé: " Osmose"
+  contenu: Accès sur présentation d'une pièce d'identité ou possibilité d’assister
+    par visio-conférence via infrastructure IP ou RNIS
+- intitule: 'Où s''inscrire '
+  contenu: etna.dinsic@modernisation.gouv.fr et via la plateforme Osmose
 ---
 
 Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usage de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)** du programme ETNA, piloté par la **DINSIC**. 
