@@ -2,6 +2,12 @@
 title: 'Appel à projets « Cas d’usages de l’environnement de travail numérique de
   l’agent » : sessions d’information ouvertes'
 date: 2019-07-22 14:21:00 +02:00
+categories:
+- Atelier
+- Appel à projets
+- Environnement de travail numérique de l'agent
+tags:
+- ETNA
 chapeau-text: 'Vous êtes une administration et souhaitez participer à l’appel à projets
   **« Cas d’usage de l’environnement de travail numérique de l’État »** ouvert jusqu’au
   **6 septembre à minuit** ? Rendez-vous dans les sessions d’information organisées
@@ -25,7 +31,7 @@ champs_informations:
   Key: Entrée sur présentation d'une pièce d'identité
 ---
 
-Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **« Cas d’usage de l’environnement numérique de l’agent »** du programme ETNA, piloté par la **DINSIC**. 
+Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usage de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)** du programme ETNA, piloté par la **DINSIC**. 
 
 L’équipe en charge du programme organise des **sessions d’information afin d’accompagner les candidats dans la constitution de leur dossier et la préparation de leur soutenance** devant un jury mixte composé d’experts en transformation numérique. Il sélectionnera les projets les plus prometteurs pour prototyper les nouveaux outils numériques dont ont besoin les agents pour mieux collaborer et travailler en mobilité. 
 
@@ -35,4 +41,4 @@ Alors, rendez-vous à la DINSIC, le **24 juillet de 14h à 17h** où il s'agira 
 * L'identification et la compréhension des irritants rencontrés par l’agent, pour y apporter une solution. 
 La session sera clôturée par une séance de questions-réponses autour des projets envisagés. 
 
-La dernière réunion d'information aura lieu le 22 août 2019. 
+La prochaine réunion d'information aura lieu le 22 août 2019. 
