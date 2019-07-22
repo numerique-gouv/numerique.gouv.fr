@@ -2,8 +2,9 @@
 title: 'Appel à projets "Cas d''usages de l''environnement de travail numérique de
   l''État" : comment constituer votre dossier de candidature ?'
 date: 2019-07-22 14:21:00 +02:00
+published: false
 categories:
-- Atelier
+- Réunion d'information
 tags:
 - ETNA
 - Environnement de travail numérique de l'agent
@@ -22,17 +23,19 @@ champs_informations:
 - intitule: Horaires
   contenu: 14h-17h
 - intitulé: Modalités
-  contenu: Accès sur présentation d'une pièce d'identité ou possibilité d’assister
-    par visio-conférence via infrastructure IP ou RNIS
+  contenu: " Accès sur présentation d'une pièce d'identité "
 - intitule: 'Comment s''inscrire '
-  contenu: etna.dinsic@modernisation.gouv.fr et via la plateforme Osmose
+  contenu: etna.dinsic@modernisation.gouv.fr ou via la plateforme Osmose (pour les
+    membres)
+- intitule: A distance
+  contenu: Possibilité d’assister par visio-conférence (via infrastructure IP ou RNIS)
 ---
 
 Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usage de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)** du programme ETNA, piloté par la **DINSIC**. 
 
 L’équipe en charge du programme organise des **sessions d’information afin d’accompagner les candidats dans la constitution de leur dossier et la préparation de leur soutenance** devant un jury mixte composé d’experts en transformation numérique. Il sélectionnera les projets les plus prometteurs pour prototyper les nouveaux outils numériques dont ont besoin les agents pour mieux collaborer et travailler en mobilité. 
 
-Les sessions sont **ouvertes à tous les potentiels candidats, quelque-soit le niveau d'avancement de leur projet**. <br>
+Les sessions sont **ouvertes à tous les potentiels candidats, quel que soit le niveau d'avancement de leur projet**. <br>
 
 Alors, rendez-vous à la DINSIC, le **24 juillet de 14h à 17h** pour être accompagné dans : 
 * La constitution de votre dossier de candidature 
