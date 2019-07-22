@@ -24,7 +24,7 @@ champs_informations:
 - intitulé: Modalités
   contenu: Accès sur présentation d'une pièce d'identité ou possibilité d’assister
     par visio-conférence via infrastructure IP ou RNIS
-- intitule: 'Où s''inscrire '
+- intitule: 'Comment s''inscrire '
   contenu: etna.dinsic@modernisation.gouv.fr et via la plateforme Osmose
 ---
 
