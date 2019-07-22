@@ -20,16 +20,13 @@ adresse: 20 avenue de Ségur 75007 Paris
 afficher_la_carte: true
 champs_informations:
 - intitule: Horaires
-  Contenu: 14h-17h
-- Intitulé: Modalités
-  Contenu: 'Inscription gratuite obligatoire '
-  mailto: etna.dinsic@modernisation.gouv.fr
-  Osmose: Inscription via Osmose
-  contenu: Entrée sur présentation d'une pièce d'identité
-- intitule: Il est également possible d'assister à la session à distance par visio-conférence
-    via infrastructure IP ou RNIS.
-  contenu: 
-  Intitulé: 
+  contenu: 14h-17h
+- intitulé: Modalités
+  contenu: Possibilité d’y assister par visio-conférence via infrastructure IP ou
+    RNIS
+- intitule: 'Comment s''inscrire :'
+  contenu: etna.dinsic@modernisation.gouv.fr
+  Intitulé: " Osmose"
 ---
 
 Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usage de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)** du programme ETNA, piloté par la **DINSIC**. 
