@@ -7,8 +7,8 @@ chapeau-text: 'Vous êtes une administration et souhaitez participer à l’appe
   **6 septembre à minuit** ? Rendez-vous dans les sessions d’information organisées
   par la **DINSIC** pour répondre à vos questions et vous aider à réussir votre candidature. '
 event_start_date:
-- 2019-07-24 14:00:00 +02:00
-- 2019-08-28 14:00:00 +02:00
+- Key 1: '24 juillet 2019 '
+  Key 2: 22 août 2019
 ---
 
 Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **« Cas d’usage de l’environnement numérique de l’agent »** du programme ETNA, piloté par la **DINSIC**. 
