@@ -4,10 +4,10 @@ title: 'Appel à projets « Cas d’usages de l’environnement de travail numé
 date: 2019-07-22 14:21:00 +02:00
 categories:
 - Atelier
-- Appel à projets
-- Environnement de travail numérique de l'agent
 tags:
 - ETNA
+- Environnement de travail numérique de l'agent
+- Appel à projets
 chapeau-text: 'Vous êtes une administration et souhaitez participer à l’appel à projets
   **« Cas d’usage de l’environnement de travail numérique de l’État »** ouvert jusqu’au
   **6 septembre à minuit** ? Rendez-vous dans les sessions d’information organisées
