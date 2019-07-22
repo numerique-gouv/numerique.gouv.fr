@@ -20,9 +20,8 @@ lieu: Direction interministérielle du numérique et du système d'information d
 adresse: 20 avenue de Ségur 75007 Paris
 afficher_la_carte: true
 champs_informations:
-- intitule: 
-  contenu: 14h-17h
-  Intitulé: Horaires
+- intitule: Horaires
+  Horaires: 14h-17h
 - contenu: Modalités
   Intitulé: 'Inscription gratuite obligatoire '
   mailto: etna.dinsic@modernisation.gouv.fr
