@@ -12,6 +12,17 @@ event_end_date: 2019-07-24 17:00:00 +02:00
 lieu: Direction interministérielle du numérique et du système d'information de l'État
 adresse: 20 avenue de Ségur 75007 Paris
 afficher_la_carte: true
+acces:
+- type: Il est également possible d'assister à la session à distance par visio-conférence
+    via infrastructure IP ou RNIS.
+champs_informations:
+- Intitulé: Horaires
+  contenu: 14h-17h
+- contenu: Modalités
+  Intitulé: 'Inscription gratuite obligatoire '
+  mailto: etna.dinsic@modernisation.gouv.fr
+  Osmose: Osmose
+  Key: Entrée sur présentation d'une pièce d'identité
 ---
 
 Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **« Cas d’usage de l’environnement numérique de l’agent »** du programme ETNA, piloté par la **DINSIC**. 
