@@ -1,6 +1,6 @@
 ---
-title: 'Réunion d''information : appel à projets « Cas d’usages de l’environnement
-  de travail numérique de l’agent »'
+title: 'Appel à projets "Cas d''usages de l''environnement de travail numérique de
+  l''État" : comment constituer votre dossier de candidature ?'
 date: 2019-07-22 14:21:00 +02:00
 categories:
 - Atelier
