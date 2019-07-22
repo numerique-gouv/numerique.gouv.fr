@@ -1,6 +1,6 @@
 ---
-title: 'Appel à projets « Cas d’usages de l’environnement de travail numérique de
-  l’agent » : sessions d’information ouvertes'
+title: 'Reunions d''information : appel à projets « Cas d’usages de l’environnement
+  de travail numérique de l’agent »'
 date: 2019-07-22 14:21:00 +02:00
 categories:
 - Atelier
@@ -22,8 +22,9 @@ acces:
 - type: Il est également possible d'assister à la session à distance par visio-conférence
     via infrastructure IP ou RNIS.
 champs_informations:
-- Intitulé: Horaires
+- intitule: 
   contenu: 14h-17h
+  Intitulé: Horaires
 - contenu: Modalités
   Intitulé: 'Inscription gratuite obligatoire '
   mailto: etna.dinsic@modernisation.gouv.fr
