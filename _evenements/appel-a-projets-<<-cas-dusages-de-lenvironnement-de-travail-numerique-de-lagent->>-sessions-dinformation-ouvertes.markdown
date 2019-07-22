@@ -15,18 +15,17 @@ chapeau-text: 'Vous êtes une administration ou un opérateur et souhaitez parti
   votre candidature. '
 categorie: Réunion d'information
 event_start_date: 2019-07-24 14:00:00 +02:00
-event_end_date: 2019-07-24 17:00:00 +02:00
 lieu: Direction interministérielle du numérique et du système d'information de l'État
 adresse: 20 avenue de Ségur 75007 Paris
 afficher_la_carte: true
 champs_informations:
 - intitule: Horaires
-  Horaires: 14h-17h
-- contenu: Modalités
-  Intitulé: 'Inscription gratuite obligatoire '
+  Contenu: 14h-17h
+- Intitulé: Modalités
+  Contenu: 'Inscription gratuite obligatoire '
   mailto: etna.dinsic@modernisation.gouv.fr
-  Osmose: Osmose
-  Key: Entrée sur présentation d'une pièce d'identité
+  Osmose: Inscription via Osmose
+  contenu: Entrée sur présentation d'une pièce d'identité
 - intitule: Il est également possible d'assister à la session à distance par visio-conférence
     via infrastructure IP ou RNIS.
   contenu: 
