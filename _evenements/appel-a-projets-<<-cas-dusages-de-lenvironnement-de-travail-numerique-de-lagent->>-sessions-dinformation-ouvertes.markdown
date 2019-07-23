@@ -21,7 +21,7 @@ afficher_la_carte: true
 champs_informations:
 - intitule: Horaires
   contenu: 14h-17h
-- intitulé: 
+- intitulé: Modalités
   contenu: " accès sur présentation d'une pièce d'identité "
 - intitule: 'En présentiel '
   contenu: "inscription sur etna.dinsic@modernisation.gouv.fr \nou via la plateforme
