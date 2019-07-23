@@ -43,6 +43,7 @@ Alors, rendez-vous à la DINSIC, le **24 juillet de 14h à 17h** pour être acco
 * la constitution de votre dossier de candidature ;
 * l'identification et la compréhension des irritants rencontrés par l’agent, pour y apporter une solution. 
 <br>
+<br>
 La session sera clôturée par une séance de questions-réponses autour des projets envisagés. 
 
 La prochaine réunion d'information aura lieu le [28 août 2019](https://preprod.numerique.gouv.fr/agenda/preparez-vous-a-presenter-votre-projet-devant-le-jury-de-lappel-a-projets-cas-dusages-de-lenvironnement-numerique-de-travail-de-lagent/). 
