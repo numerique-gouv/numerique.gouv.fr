@@ -19,7 +19,7 @@ layout: page-annexe
 <br>
 
 ### Nos offres d'emploi actuellement disponibles :
-{: .margin-bottom-0} 
+{: .margin-bottom-1} 
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
