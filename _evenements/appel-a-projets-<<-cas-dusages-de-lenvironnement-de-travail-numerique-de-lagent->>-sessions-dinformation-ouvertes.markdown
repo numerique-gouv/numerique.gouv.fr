@@ -1,6 +1,6 @@
 ---
-title: 'Appel à projets "Cas d''usages de l''environnement de travail numérique de
-  l''État" : comment constituer votre dossier de candidature ?'
+title: '"Cas d''usages de l''environnement de travail numérique de l''État" : comment
+  constituer votre dossier de candidature à l''appel à projets ?'
 date: 2019-07-22 14:21:00 +02:00
 categories:
 - Réunion d'information
