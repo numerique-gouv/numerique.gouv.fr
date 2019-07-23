@@ -22,12 +22,12 @@ adresse: 20 avenue de Ségur - 75007 Paris
 champs_informations:
 - intitule: Horaires
   contenu: 14h-17h
-- contenu: présentation d'une pièce d'identité nécessaire
-  intitule: Condition d'accès
-- intitule: 'Possibilité de participer à distance '
-  contenu: par visio-conférence (via infrastructure IP ou RNIS)
+- intitule: Condition d'accès
+  contenu: |-
+    présentation d'une pièce d'identité nécessaire
+    <br>Possibilité de participer à distance par visio-conférence (via infrastructure IP ou RNIS)
 - intitule: Inscription et informations
-  contenu: ou via la plateforme OSMOSE (pour les membres)
+  contenu: par courriel
   mailto: etna.dinsic@modernisation.gouv.fr
 ---
 
