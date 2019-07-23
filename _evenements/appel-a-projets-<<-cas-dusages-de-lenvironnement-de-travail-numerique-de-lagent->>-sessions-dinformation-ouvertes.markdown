@@ -22,15 +22,10 @@ afficher_la_carte: true
 champs_informations:
 - intitule: Horaires
   contenu: 14h-17h
-- Condition d'accès: présentation d'une pièce d'identité nécéssaire
-  Possibilité de participer à distance: 'par visio-conférence (via infrastructure
-    IP ou RNIS)
-
-'
-- Inscription et informations: |-
-    par mail à etna.dinsic@modernisation.gouv.fr
-    ou via la plateforme OSMOSE (pour les membres)
-  mailto: etna.dinsic@modernisation.gouv.fr
+- Condition d'accès: 
+  Possibilité de participer à distance: "\n"
+- Inscription et informations: 
+  mailto: 
 ---
 
 Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usage de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)** du programme ETNA, piloté par la **direction interministérielle du numérique et du système d'information de l'État** (DINSIC). 
