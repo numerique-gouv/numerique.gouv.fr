@@ -51,7 +51,7 @@ layout: page-annexe
 <br> Paris
 <br> Cadre/Catégorie A
 
-* [**Responsable produit FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=12f9bab9-55d4-429e-b14c-b1625eaa122b&offerid=236696 "Responsable produit FranceConnect - Télécharger le pdf") (pdf - 380 ko)
+* [**Responsable produit « FranceConnect » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=12f9bab9-55d4-429e-b14c-b1625eaa122b&offerid=236696 "Responsable produit FranceConnect - Télécharger le pdf") (pdf - 380 ko)
 <br> Paris
 <br> Cadre/Catégorie A
 
