@@ -10,7 +10,7 @@ tags:
 - Appel à projets
 chapeau-text: 'Vous êtes une administration ou un opérateur et souhaitez participer
   à l’appel à projets **[« Cas d’usages de l’environnement de travail numérique de
-  l’État »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)**
+  l’État »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/){:target="_blank"}**
   ouvert jusqu’au **6 septembre à minuit** ? Rendez-vous le **24 juillet 2019** à
   la réunion d’information organisée par la **DINSIC** pour répondre à vos questions
   et vous aider à réussir votre candidature. '
@@ -31,7 +31,7 @@ champs_informations:
   mailto: etna.dinsic@modernisation.gouv.fr
 ---
 
-Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usages de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)** du programme ETNA, piloté par la **direction interministérielle du numérique et du système d'information de l'État** (DINSIC). 
+Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usages de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/){:target="_blank"}** du programme ETNA, piloté par la **direction interministérielle du numérique et du système d'information de l'État** (DINSIC). 
 
 L’équipe en charge du programme organise des **sessions d’information afin d’accompagner les candidats dans la constitution de leur dossier et la préparation de leur soutenance** devant un jury mixte composé d’experts en transformation numérique. Il sélectionnera les projets les plus prometteurs pour prototyper les nouveaux outils numériques dont ont besoin les agents pour mieux collaborer et travailler en mobilité. 
 
@@ -44,4 +44,4 @@ Alors, rendez-vous à la DINSIC, le **24 juillet de 14h à 17h** pour être acco
 <br>
 La session sera clôturée par une séance de questions-réponses autour des projets envisagés. 
 
-La prochaine réunion d'information aura lieu le [28 août 2019](https:/numerique.gouv.fr/agenda/cas-dusages-de-lenvironnement-numerique-de-travail-de-lagent-comment-presenter-votre-projet-devant-le-jury/). 
+La prochaine réunion d'information aura lieu le [28 août 2019](https:/numerique.gouv.fr/agenda/cas-dusages-de-lenvironnement-numerique-de-travail-de-lagent-comment-presenter-votre-projet-devant-le-jury/){:target="_blank"}. 
