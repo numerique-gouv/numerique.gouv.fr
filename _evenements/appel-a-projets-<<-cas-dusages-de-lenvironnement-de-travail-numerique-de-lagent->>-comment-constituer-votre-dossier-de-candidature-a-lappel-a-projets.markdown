@@ -9,7 +9,7 @@ tags:
 - Environnement de travail numérique de l'agent
 - Appel à projets
 chapeau-text: 'Vous êtes une administration ou un opérateur et souhaitez participer
-  à l’appel à projets **[« Cas d’usage de l’environnement de travail numérique de
+  à l’appel à projets **[« Cas d’usages de l’environnement de travail numérique de
   l’État »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)**
   ouvert jusqu’au **6 septembre à minuit** ? Rendez-vous le **24 juillet 2019** à
   la réunion d’information organisée par la **DINSIC** pour répondre à vos questions
