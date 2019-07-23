@@ -24,10 +24,10 @@ champs_informations:
 - intitulé: Modalités
   contenu: " Accès sur présentation d'une pièce d'identité "
 - intitule: 'Comment s''inscrire '
-  contenu: etna.dinsic@modernisation.gouv.fr ou via la plateforme Osmose (pour les
-    membres)
+  contenu: "par mail sur etna.dinsic@modernisation.gouv.fr \nou via la plateforme
+    Osmose (pour les membres)"
 - intitule: A distance
-  contenu: Possibilité d’assister par visio-conférence (via infrastructure IP ou RNIS)
+  contenu: possibilité d’assister par visio-conférence (via infrastructure IP ou RNIS)
 ---
 
 Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usage de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)** du programme ETNA, piloté par la **DINSIC**. 
