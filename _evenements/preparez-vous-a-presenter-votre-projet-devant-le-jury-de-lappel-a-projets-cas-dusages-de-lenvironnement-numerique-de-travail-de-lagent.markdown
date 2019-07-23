@@ -9,6 +9,19 @@ tags:
 - ETNA
 - Appel à projets
 categorie: Réunion d'information
+event_start_date: 2019-08-28 14:00:00 +02:00
+lieu: Direction interministérielle du numérique et du système d'information et de
+  communication de l'État
+adresse: 20 avenue de Ségur - 75007 Paris
+champs_informations:
+- intitule: Horaires
+  contenu: 14h-17h
+- intitulé: |-
+    accès sur présentation d'une pièce d'identité <br>
+    inscription sur etna.dinsic@modernisation.gouv.fr <br>
+    ou via la plateforme Osmose (pour les membres)<br>
+- intitulé: possibilité d’assister par visio-conférence (via infrastructure IP ou
+    RNIS)
 ---
 
 Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usage de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)** du programme ETNA, piloté par la **Direction interministérielle du numérique et du système d'information de l'État** (DINSIC). 
