@@ -44,4 +44,4 @@ Alors, rendez-vous à la DINSIC, le **24 juillet de 14h à 17h** pour être acco
 <br>
 La session sera clôturée par une séance de questions-réponses autour des projets envisagés. 
 
-La prochaine réunion d'information aura lieu le [28 août 2019](https:/numerique.gouv.fr/agenda/cas-dusages-de-lenvironnement-numerique-de-travail-de-lagent-comment-presenter-votre-projet-devant-le-jury/){:target="_blank"}. 
+La prochaine réunion d'information aura lieu le [28 août 2019](https://numerique.gouv.fr/agenda/cas-dusages-de-lenvironnement-numerique-de-travail-de-lagent-comment-presenter-votre-projet-devant-le-jury/){:target="_blank"}. 
