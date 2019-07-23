@@ -24,9 +24,9 @@ champs_informations:
   contenu: 14h-17h
 - intitule: 'En présentiel '
   contenu: |
-    accès sur présentation d'une pièce d'identité <br>
-    inscription sur etna.dinsic@modernisation.gouv.fr <br>
-    ou via la plateforme Osmose (pour les membres)<br>
+    * accès sur présentation d'une pièce d'identité <br>
+    * inscription sur etna.dinsic@modernisation.gouv.fr <br>
+    * ou via la plateforme OSMOSE (pour les membres)<br>
 - intitule: A distance
   contenu: possibilité d’assister par visio-conférence (via infrastructure IP ou RNIS)
 ---
