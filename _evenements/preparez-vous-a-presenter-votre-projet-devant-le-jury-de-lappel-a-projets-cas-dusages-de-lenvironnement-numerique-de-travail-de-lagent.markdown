@@ -1,6 +1,6 @@
 ---
-title: Comment présenter votre projet devant le jury de l'appel à projets "Cas d'usages
-  de l'environnement numérique de travail de l'agent".
+title: '"Cas d''usages de l''environnement numérique de travail de l''agent": comment
+  présenter votre projet devant le jury ?'
 date: 2019-07-23 11:42:00 +02:00
 categories:
 - Réunion d'information
