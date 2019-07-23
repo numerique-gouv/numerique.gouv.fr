@@ -24,8 +24,8 @@ champs_informations:
 - intitulé: Conditions
   contenu: " accès sur présentation d'une pièce d'identité "
 - intitule: 'En présentiel '
-  contenu: "inscription sur etna.dinsic@modernisation.gouv.fr \nou via la plateforme
-    Osmose (pour les membres)"
+  contenu: "inscription sur etna.dinsic@modernisation.gouv.fr <br>\nou via la plateforme
+    Osmose (pour les membres)<br>\naccès sur présentation d'une pièce d'identité "
 - intitule: A distance
   contenu: possibilité d’assister par visio-conférence (via infrastructure IP ou RNIS)
 ---
