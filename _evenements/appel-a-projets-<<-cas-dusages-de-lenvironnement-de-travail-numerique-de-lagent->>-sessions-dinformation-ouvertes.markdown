@@ -21,11 +21,11 @@ afficher_la_carte: true
 champs_informations:
 - intitule: Horaires
   contenu: 14h-17h
-- intitulé: Conditions
-  contenu: " accès sur présentation d'une pièce d'identité "
 - intitule: 'En présentiel '
-  contenu: "inscription sur etna.dinsic@modernisation.gouv.fr <br>\nou via la plateforme
-    Osmose (pour les membres)<br>\naccès sur présentation d'une pièce d'identité "
+  contenu: |
+    accès sur présentation d'une pièce d'identité <br>
+    inscription sur etna.dinsic@modernisation.gouv.fr <br>
+    ou via la plateforme Osmose (pour les membres)<br>
 - intitule: A distance
   contenu: possibilité d’assister par visio-conférence (via infrastructure IP ou RNIS)
 ---
