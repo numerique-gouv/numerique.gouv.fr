@@ -11,9 +11,9 @@ tags:
 chapeau-text: 'Vous êtes une administration ou un opérateur et souhaitez participer
   à l’appel à projets **[« Cas d’usage de l’environnement de travail numérique de
   l’État »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)**
-  ouvert jusqu’au **6 septembre à minuit** ? Rendez-vous dans les réunions d’information
-  organisées par la **DINSIC** pour répondre à vos questions et vous aider à réussir
-  votre candidature. '
+  ouvert jusqu’au **6 septembre à minuit** ? Rendez-vous le **24 juillet 2019** à
+  la réunion d’information organisée par la **DINSIC** pour répondre à vos questions
+  et vous aider à réussir votre candidature. '
 categorie: Réunion d'information
 event_start_date: 2019-07-24 14:00:00 +02:00
 lieu: Direction interministérielle du numérique et du système d'information de l'État
@@ -22,13 +22,15 @@ afficher_la_carte: true
 champs_informations:
 - intitule: Horaires
   contenu: 14h-17h
-- intitule: 'En présentiel '
-  contenu: |
-    accès sur présentation d'une pièce d'identité <br>
-    * inscription sur etna.dinsic@modernisation.gouv.fr <br>
-    * ou via la plateforme OSMOSE (pour les membres)<br>
-- intitule: A distance
-  contenu: possibilité d’assister par visio-conférence (via infrastructure IP ou RNIS)
+- Condition d'accès: présentation d'une pièce d'identité nécéssaire
+  Possibilité de participer à distance: 'par visio-conférence (via infrastructure
+    IP ou RNIS)
+
+'
+- Inscription et informations: |-
+    par mail à etna.dinsic@modernisation.gouv.fr
+    ou via la plateforme OSMOSE (pour les membres)
+  mailto: etna.dinsic@modernisation.gouv.fr
 ---
 
 Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usage de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)** du programme ETNA, piloté par la **Direction interministérielle du numérique et du système d'information de l'État** (DINSIC). 
