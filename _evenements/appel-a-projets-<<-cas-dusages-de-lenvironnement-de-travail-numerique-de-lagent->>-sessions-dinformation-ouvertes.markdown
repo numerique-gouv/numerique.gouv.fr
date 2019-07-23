@@ -23,9 +23,9 @@ champs_informations:
   contenu: 14h-17h
 - intitulé: Modalités
   contenu: " accès sur présentation d'une pièce d'identité "
-- intitule: 'Comment s''inscrire '
-  contenu: "etna.dinsic@modernisation.gouv.fr \nou via la plateforme Osmose (pour
-    les membres)"
+- intitule: 'En présentiel '
+  contenu: "inscription sur etna.dinsic@modernisation.gouv.fr \nou via la plateforme
+    Osmose (pour les membres)"
 - intitule: A distance
   contenu: possibilité d’assister par visio-conférence (via infrastructure IP ou RNIS)
 ---
