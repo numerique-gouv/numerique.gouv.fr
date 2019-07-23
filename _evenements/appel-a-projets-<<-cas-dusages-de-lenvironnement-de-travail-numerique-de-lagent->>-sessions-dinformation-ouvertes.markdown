@@ -16,7 +16,7 @@ chapeau-text: 'Vous êtes une administration ou un opérateur et souhaitez parti
 categorie: Réunion d'information
 event_start_date: 2019-07-24 14:00:00 +02:00
 lieu: Direction interministérielle du numérique et du système d'information de l'État
-adresse: 20 avenue de Ségur 75007 Paris
+adresse: 20 avenue de Ségur - 75007 Paris
 afficher_la_carte: true
 champs_informations:
 - intitule: Horaires
