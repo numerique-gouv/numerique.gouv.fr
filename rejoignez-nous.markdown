@@ -47,7 +47,7 @@ layout: page-annexe
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Développeur/développeuse Fullstack NodeJS « FranceConnect » (H/F)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=297b040f-0380-4ab5-807a-ba9965c731e2&offerid=180298 "Développeur/développeuse Fullstack NodeJS FranceConnect  - Télécharger le pdf") (pdf - 380 Ko)
+* [**Développeur/développeuse Fullstack NodeJS « FranceConnect »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=297b040f-0380-4ab5-807a-ba9965c731e2&offerid=180298 "Développeur/développeuse Fullstack NodeJS FranceConnect  - Télécharger le pdf") (pdf - 380 Ko)
 <br> Paris
 <br> Cadre/Catégorie A
 
