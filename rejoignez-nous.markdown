@@ -47,6 +47,14 @@ layout: page-annexe
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Développeur/développeuse Fullstack NODEJS « FranceConnect » (H/F)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=297b040f-0380-4ab5-807a-ba9965c731e2&offerid=180298 "Développeur/développeuse Fullstack NODEJS FranceConnect  - Télécharger le pdf") (pdf - 380 Ko)
+<br> Paris
+<br> Cadre/Catégorie A
+
+* [**Responsable produit FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=12f9bab9-55d4-429e-b14c-b1625eaa122b&offerid=236696 "Responsable produit FranceConnect - Télécharger le pdf") (pdf - 380 ko)
+<br> Paris
+<br> Cadre/Catégorie A
+
 * [**Développeur/développeuse web full-stack**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=348923f4-d86c-4ff2-a9c7-a6a9b254882e&offerid=223798 "Développeur/développeuse web full stack -  Télécharger le pdf") (pdf - 380 ko)
 <br> Paris
 <br> Cadre/Catégorie A
@@ -54,10 +62,6 @@ layout: page-annexe
 * [**Chef/cheffe de projet : nouvelle plateforme d'échange et de confiance**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=843f0ba6-82b3-44a9-8a93-75eb0841181b&offerid=213451 "Chef/fe de projet : nouvelle plateforme d'échange et de confiance PEC - Télécharger le pdf") (pdf - 300 ko)
 <br> Paris
 <br> Cadre/Catégorie A
-
-* [**Responsable Exploitation « FranceConnect » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=886c099e-75f7-480a-b977-d529d50a4640&offerid=180307 "Responsable Exploitation « FranceConnect » (F/H) - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Cadre/Catégorie A
 
 * [**Mentor technique et produit (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1514dfbf-ac0e-4b40-9cee-cf99128aef0a&offerid=202965 "Mentor technique et produits (F/H) - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
