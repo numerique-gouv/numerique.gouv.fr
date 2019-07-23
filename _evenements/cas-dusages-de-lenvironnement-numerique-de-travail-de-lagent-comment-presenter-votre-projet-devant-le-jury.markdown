@@ -9,7 +9,7 @@ tags:
 - ETNA
 - Appel à projets
 chapeau-text: 'Vous êtes une administration ou un opérateur et souhaitez participer
-  à l’appel à projets **[« Cas d’usage de l’environnement de travail numérique de
+  à l’appel à projets **[« Cas d’usages de l’environnement de travail numérique de
   l’État »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)**
   ouvert jusqu’au **6 septembre à minuit** ? Rendez-vous le **28 août 2019** à la
   réunion d’information organisée par la **DINSIC** pour répondre à vos questions
@@ -31,7 +31,7 @@ champs_informations:
   mailto: etna.dinsic@modernisation.gouv.fr
 ---
 
-Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usage de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)** du programme ETNA, piloté par la **direction interministérielle du numérique et du système d'information de l'État** (DINSIC). 
+Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usages de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)** du programme ETNA, piloté par la **direction interministérielle du numérique et du système d'information de l'État** (DINSIC). 
 
 Après une [première réunion](https://numerique.gouv.fr/agenda/appel-a-projets-cas-dusages-de-lenvironnement-de-travail-numerique-de-lagent-sessions-dinformation-ouvertes/) portant sur la constitution du dossier de candidature ,l’équipe en charge du programme organise une deuxième **session d’information pour accompagner les candidats dans la préparation de leur soutenance** devant un jury mixte composé d’experts en transformation numérique. A l'issue d'une journée d'auditions **le 18 septembre 2019**, il sélectionnera les projets les plus prometteurs pour prototyper les nouveaux outils numériques dont ont besoin les agents pour mieux collaborer et travailler en mobilité. 
 
