@@ -32,7 +32,7 @@ La réunion est **ouverte à tous les potentiels candidats, quel que soit le niv
 
 Alors, rendez-vous à la DINSIC, le **28 août 2019 de 14h à 17h** pour : 
 * En savoir plus sur l'organisation de la journée du 18 septembre 2019 
-* Préparer votre soutenance : quels éléments présenter face au jury et comment montrer la motivation de votre équipe ? 
+* Préparer votre soutenance en apprenant quels éléments présenter face au jury et comment montrer la motivation de votre équipe.
 
 <br>
 La session sera clôturée par une séance de questions-réponses. 
