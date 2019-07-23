@@ -29,6 +29,7 @@ champs_informations:
 - intitule: Inscription et informations
   contenu: ou via la plateforme OSMOSE (pour les membres)
   mailto: etna.dinsic@modernisation.gouv.fr
+- contenu: test
 ---
 
 Jusqu’au **6 septembre 2019 à minuit** les administrations et les opérateurs sont invités à faire remonter leurs cas d’usages dans le cadre de l’appel à projets **[« Cas d’usage de l’environnement numérique de l’agent »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)** du programme ETNA, piloté par la **direction interministérielle du numérique et du système d'information de l'État** (DINSIC). 
