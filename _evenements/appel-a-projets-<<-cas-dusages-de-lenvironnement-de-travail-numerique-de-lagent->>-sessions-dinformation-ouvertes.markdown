@@ -22,10 +22,10 @@ champs_informations:
 - intitule: Horaires
   contenu: 14h-17h
 - intitulé: Modalités
-  contenu: " Accès sur présentation d'une pièce d'identité "
+  contenu: " accès sur présentation d'une pièce d'identité "
 - intitule: 'Comment s''inscrire '
-  contenu: "par mail sur etna.dinsic@modernisation.gouv.fr \nou via la plateforme
-    Osmose (pour les membres)"
+  contenu: "etna.dinsic@modernisation.gouv.fr \nou via la plateforme Osmose (pour
+    les membres)"
 - intitule: A distance
   contenu: possibilité d’assister par visio-conférence (via infrastructure IP ou RNIS)
 ---
