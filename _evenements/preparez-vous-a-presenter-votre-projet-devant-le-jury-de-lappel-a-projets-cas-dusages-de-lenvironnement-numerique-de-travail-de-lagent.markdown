@@ -8,6 +8,12 @@ tags:
 - Environnement de travail numérique de l'agent
 - ETNA
 - Appel à projets
+chapeau-text: 'Vous êtes une administration ou un opérateur et souhaitez participer
+  à l’appel à projets **[« Cas d’usage de l’environnement de travail numérique de
+  l’État »](https://numerique.gouv.fr/actualites/outils-numeriques-des-agents-la-2e-edition-de-lappel-a-projet-cas-dusage-de-lenvironnement-numerique-de-lagent-est-lancee/)**
+  ouvert jusqu’au **6 septembre à minuit** ? Rendez-vous le **28 août 2019** à la
+  réunion d’information organisée par la **DINSIC** pour répondre à vos questions
+  et vous aider à réussir votre candidature. '
 categorie: Réunion d'information
 event_start_date: 2019-08-28 14:00:00 +02:00
 lieu: Direction interministérielle du numérique et du système d'information et de
