@@ -38,7 +38,7 @@ Après une [première réunion](https://numerique.gouv.fr/agenda/appel-a-projets
 La réunion est **ouverte à tous les potentiels candidats, quel que soit le niveau d'avancement de leur projet**. <br>
 
 Alors, rendez-vous à la DINSIC, le **28 août 2019 de 14h à 17h** pour : 
-* en savoir plus sur le déroulé de la journée d'audition devant le jury,le 18 septembre 2019 ;
+* en savoir plus sur le déroulé de la journée d'auditions devant le jury,le 18 septembre 2019 ;
 * préparer votre soutenance en apprenant quels éléments présenter face au jury et comment montrer la motivation de votre équipe.
 
 <br>
