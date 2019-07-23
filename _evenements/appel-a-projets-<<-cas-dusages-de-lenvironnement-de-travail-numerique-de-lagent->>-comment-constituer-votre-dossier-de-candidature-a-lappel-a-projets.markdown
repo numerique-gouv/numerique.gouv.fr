@@ -26,8 +26,8 @@ champs_informations:
   contenu: |-
     présentation d'une pièce d'identité nécessaire
     <br>Possibilité de participer à distance par visio-conférence (via infrastructure IP ou RNIS)
-- intitule: Via OSMOSE
-  contenu: pour les membres
+- intitule: Inscription et informations
+  contenu: par courriel
   mailto: etna.dinsic@modernisation.gouv.fr
 ---
 
