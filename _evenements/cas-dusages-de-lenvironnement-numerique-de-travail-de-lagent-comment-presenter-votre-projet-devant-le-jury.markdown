@@ -18,7 +18,7 @@ categorie: Réunion d'information
 event_start_date: 2019-08-28 14:00:00 +02:00
 lieu: Direction interministérielle du numérique et du système d'information et de
   communication de l'État
-adresse: ou via la plateforme OSMOSE (pour les membres)
+adresse: 20 avenue de Ségur - 75007 Paris
 champs_informations:
 - intitule: Horaires
   contenu: 14h-17h
@@ -30,10 +30,7 @@ champs_informations:
   contenu: par courriel
   mailto: etna.dinsic@modernisation.gouv.fr
 - intitule: Inscription et informations
-  contenu: |-
-    par courriel
-    <br>ou via la plateforme OSMOSE (pour les membres)
-    <p>ou via la plateforme OSMOSE (pour les membres)</p>
+  contenu: par courriel
   mailto: etna.dinsic@modernisation.gouv.fr
 ---
 
