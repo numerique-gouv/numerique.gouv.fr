@@ -108,10 +108,6 @@ layout: page-annexe
 * [**Juriste en droit du numérique**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3fc5e81e-d201-48fd-a272-dec6cb97a999&offerid=195469 "Juriste en droit du numérique - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A
-
-* [**Apprenti/apprentie au sein du pôle juridique**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=31fc33e1-ec0a-458d-b8c0-6f8d3832e3ed&offerid=202345 "Apprenti/apprentie au sein du pôle juridique - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Apprentissage
 <br>
 <br>
 
