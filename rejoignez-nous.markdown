@@ -127,14 +127,6 @@ layout: page-annexe
 <br>
 <br>
 
-#### **Communication**
-{: .margin-top-4 .margin-bottom-1} 
-* [**Apprenti/apprentie chargé/chargée de communication**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=a7e59977-0bc4-4318-af0b-5280ad26c568&offerid=195462 "Apprenti/apprentie chargé/chargée de communication - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Apprentissage
-<br>
-<br>
-
 #### **Secrétariat**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Assistant/assistante de direction**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=7ca43073-ca83-4b6d-96da-05f8e1bcce52&offerid=194124 "Assistant/assistante de direction - Télécharger le pdf") (pdf - 300 ko)
