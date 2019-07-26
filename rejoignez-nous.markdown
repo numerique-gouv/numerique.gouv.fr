@@ -2,7 +2,7 @@
 title: Rejoignez-nous
 date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
-date_de_modification: 23 juillet 2019
+date_de_modification: 26 juillet 2019
 layout: page-annexe
 ---
 
@@ -27,6 +27,10 @@ layout: page-annexe
 <br>Paris
 <br>Cadre supérieur/Catégorie A+
 
+* [**Responsable du projet plateformes d’échange de données inter-administrations (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=9097f70f-1b1c-48a1-94f0-a7066529d973&offerid=234234 "Responsable du projet plateformes d’échange de données inter-administrations (F/H) - Télécharger le pdf") (pdf - 417 ko)
+<br> Paris
+<br> Cadre/Catégorie A
+
 * [**Chargé/chargée de mission animation de communautés et écosystème pour le Programme Entrepreneurs d'intérêt général**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dc7ddd2b-0d4a-4fcd-a98c-79633c4340da&offerid=229032 "Chargé/chargée de mission animation de communautés et écosystème pour le Programme Entrepreneurs d'intérêt général - Télécharger le pdf") (pdf - 350 ko)
 <br>Paris
 <br>Cadre/Catégorie A
@@ -34,10 +38,6 @@ layout: page-annexe
 * [**Chargé/chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=aadb5631-f300-4a0a-9d2d-752b6f05fe12&offerid=211009 "Chargé/chargée de mission numérique et territoires - Télécharger le pdf") (pdf - 360 ko)
 <br>Paris
 <br>Cadre/Catégorie A
-
-* [**Chef/fe de mission « Transformation Numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=2c1668e8-c301-4f7b-a257-a0cb3423f701&offerid=176062 "« Chef/fe de mission « Transformation Numérique de l'Etat » - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Cadre/Catégorie A+
 
 * [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=269997df-7279-4259-96ad-92a71c4124f7&offerid=198613 "Chargé/chargée de mission « Transformation numérique de l'État » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
@@ -59,10 +59,6 @@ layout: page-annexe
 <br> Paris
 <br> Cadre/Catégorie A
 
-* [**Chef/cheffe de projet : nouvelle plateforme d'échange et de confiance**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=843f0ba6-82b3-44a9-8a93-75eb0841181b&offerid=213451 "Chef/fe de projet : nouvelle plateforme d'échange et de confiance PEC - Télécharger le pdf") (pdf - 300 ko)
-<br> Paris
-<br> Cadre/Catégorie A
-
 * [**Mentor technique et produit (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1514dfbf-ac0e-4b40-9cee-cf99128aef0a&offerid=202965 "Mentor technique et produits (F/H) - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A+
@@ -79,15 +75,15 @@ layout: page-annexe
 * [**Apprenti/apprentie chargé/chargée de mission « circulation des données publiques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=73a566e4-7890-4d01-be14-c608deef63d8&offerid=195443 "Apprenti/apprentie chargé/chargée de mission « circulation des données publiques » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Apprentissage
-
-* [**Stagiaire AMI IA et Lab IA**](https://www.place-emploi-public.gouv.fr/offre-emploi/-stagiaire-ami-ia-et-lab-ia-reference-2019-178422 "Stagiaire AMI IA et Lab IA - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Stage
 <br>
 <br>
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chargé/chargée de mission sécurité web**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=bcda4fbf-aa82-443d-808f-23fa0377e407&offerid=235665 "Chargé/chargée de mission sécurité web - Télécharger le pdf") (pdf - 380 ko)
+<br>Paris
+<br>Cadre/Catégorie A
+
 * [**Consultant/consultante interne SI**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=75f30312-8f0a-4fb3-975f-0035e0d5dcff&offerid=229037 "Consultant/consultante interne SI - Télécharger le pdf") (pdf - 410 ko)
 <br>Paris
 <br>Cadre/Catégorie A
@@ -112,10 +108,6 @@ layout: page-annexe
 * [**Juriste en droit du numérique**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3fc5e81e-d201-48fd-a272-dec6cb97a999&offerid=195469 "Juriste en droit du numérique - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A
-
-* [**Apprenti/apprentie au sein du pôle juridique**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=31fc33e1-ec0a-458d-b8c0-6f8d3832e3ed&offerid=202345 "Apprenti/apprentie au sein du pôle juridique - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Apprentissage
 <br>
 <br>
 
