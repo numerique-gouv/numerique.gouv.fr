@@ -75,10 +75,6 @@ layout: page-annexe
 * [**Apprenti/apprentie chargé/chargée de mission « circulation des données publiques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=73a566e4-7890-4d01-be14-c608deef63d8&offerid=195443 "Apprenti/apprentie chargé/chargée de mission « circulation des données publiques » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Apprentissage
-
-* [**Stagiaire AMI IA et Lab IA**](https://www.place-emploi-public.gouv.fr/offre-emploi/-stagiaire-ami-ia-et-lab-ia-reference-2019-178422 "Stagiaire AMI IA et Lab IA - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Stage
 <br>
 <br>
 
