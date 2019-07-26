@@ -39,10 +39,6 @@ layout: page-annexe
 <br>Paris
 <br>Cadre/Catégorie A
 
-* [**Chef/fe de mission « Transformation Numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=2c1668e8-c301-4f7b-a257-a0cb3423f701&offerid=176062 "« Chef/fe de mission « Transformation Numérique de l'Etat » - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Cadre/Catégorie A+
-
 * [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=269997df-7279-4259-96ad-92a71c4124f7&offerid=198613 "Chargé/chargée de mission « Transformation numérique de l'État » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A
