@@ -2,7 +2,7 @@
 title: Rejoignez-nous
 date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
-date_de_modification: 23 juillet 2019
+date_de_modification: 26 juillet 2019
 layout: page-annexe
 ---
 
@@ -26,6 +26,10 @@ layout: page-annexe
 * [**Directeur/directrice de projets interministériels**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=ff650cab-c7d8-457d-aeb0-db83ed3edb63&offerid=229025 "Directeur/directrice de projets interministériels - Télécharger le pdf") (pdf - 400 ko)
 <br>Paris
 <br>Cadre supérieur/Catégorie A+
+
+* [**Responsable du projet plateformes d’échange de données inter-administrations (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=9097f70f-1b1c-48a1-94f0-a7066529d973&offerid=234234 "Responsable du projet plateformes d’échange de données inter-administrations (F/H) - Télécharger le pdf") (pdf - 417 ko)
+<br> Paris
+<br> Cadre/Catégorie A
 
 * [**Chargé/chargée de mission animation de communautés et écosystème pour le Programme Entrepreneurs d'intérêt général**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dc7ddd2b-0d4a-4fcd-a98c-79633c4340da&offerid=229032 "Chargé/chargée de mission animation de communautés et écosystème pour le Programme Entrepreneurs d'intérêt général - Télécharger le pdf") (pdf - 350 ko)
 <br>Paris
@@ -56,10 +60,6 @@ layout: page-annexe
 <br> Cadre/Catégorie A
 
 * [**Développeur/développeuse web full-stack**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=348923f4-d86c-4ff2-a9c7-a6a9b254882e&offerid=223798 "Développeur/développeuse web full stack -  Télécharger le pdf") (pdf - 380 ko)
-<br> Paris
-<br> Cadre/Catégorie A
-
-* [**Chef/cheffe de projet : nouvelle plateforme d'échange et de confiance**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=843f0ba6-82b3-44a9-8a93-75eb0841181b&offerid=213451 "Chef/fe de projet : nouvelle plateforme d'échange et de confiance PEC - Télécharger le pdf") (pdf - 300 ko)
 <br> Paris
 <br> Cadre/Catégorie A
 
