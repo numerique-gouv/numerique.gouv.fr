@@ -88,6 +88,10 @@ layout: page-annexe
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chargé/chargée de mission sécurité web**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=bcda4fbf-aa82-443d-808f-23fa0377e407&offerid=235665 "Chargé/chargée de mission sécurité web - Télécharger le pdf") (pdf - 380 ko)
+<br>Paris
+<br>Cadre/Catégorie A
+
 * [**Consultant/consultante interne SI**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=75f30312-8f0a-4fb3-975f-0035e0d5dcff&offerid=229037 "Consultant/consultante interne SI - Télécharger le pdf") (pdf - 410 ko)
 <br>Paris
 <br>Cadre/Catégorie A
