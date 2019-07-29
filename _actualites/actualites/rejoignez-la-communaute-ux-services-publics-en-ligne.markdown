@@ -37,7 +37,7 @@ Des ateliers de formation-information seront régulièrement organisés pour ré
 
 #### **Comment rejoindre la communauté ?**
 {: .margin-top-2 .margin-bottom-1} 
-[Inscrivez-vous ici](https://bit.ly/designGouv){:target="_blank"}
+[Inscrivez-vous ici !](https://bit.ly/designGouv){:target="_blank"}
 
 > <figure class='image-right' style='width: 30%;' margin-top='3'><img src="/uploads/lancement-communaute-UX.jpeg"/><img src="/uploads/lancement-communaute-UX-2.jpeg"><figcaption>Lancement de la communauté, le 21 novembre 2018</figcaption></figure><br>Acte de création de cette communauté, 90 experts des ministères, d’agences privées et d’indépendants se sont rassemblés en novembre dernier à l’occasion de la Semaine de l’innovation publique, à Paris. Designers Italia, la communauté équivalente du gouvernement italien, est venue présenter ses travaux et son organisation. La direction interministérielle de la transformation publique (DITP) a quant à elle fait découvrir la nouvelle version de [Comment faire](http://comment-faire.modernisation.gouv.fr/){: target="_blank"}, la boîte à outils en ligne du design de services publics.
 > 
