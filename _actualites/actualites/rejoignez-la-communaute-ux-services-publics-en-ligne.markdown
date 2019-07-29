@@ -33,7 +33,7 @@ Que vous soyez en charge d’une démarche en ligne au sein d’une administrati
 {: .margin-top-2 .margin-bottom-1} 
 Des outils et bonnes pratiques pour la communauté seront mis en ligne à l'automne 2019 pour l’aider à diffuser et généraliser des approches centrées sur les utilisateurs des services publics en ligne et contribuer à concevoir des services en ligne adaptés à leurs besoins.
 
-Des ateliers de formation-information seront régulièrement organisés pour réunir la communauté UX à Paris et dans le reste de la France : le prochain aura lieu en janvier 2019. Des outils collaboratifs en ligne dédiés à la communauté seront également lancés début 2019 pour partager les bonnes pratiques et permettre aux intéressés de toute la France de participer.
+Des ateliers de formation-information seront régulièrement organisés pour réunir la communauté UX à Paris et dans le reste de la France : le prochain aura lieu en janvier 2019. Des outils collaboratifs en ligne dédiés à la communauté seront également lancés début 2019 pour partager les bonnes pratiques et permettre à tous les intéressés de participer.
 
 #### **Comment rejoindre la communauté ?**
 {: .margin-top-2 .margin-bottom-1} 
