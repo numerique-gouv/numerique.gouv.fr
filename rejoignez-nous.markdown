@@ -66,12 +66,6 @@ layout: page-annexe
 <br>Paris
 <br>Cadre/Catégorie A
 
-* [**Apprenti/apprentie chargé/chargée de mission « circulation des données publiques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=73a566e4-7890-4d01-be14-c608deef63d8&offerid=195443 "Apprenti/apprentie chargé/chargée de mission « circulation des données publiques » - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Apprentissage
-<br>
-<br>
-
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/chargée de mission sécurité web**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=bcda4fbf-aa82-443d-808f-23fa0377e407&offerid=235665 "Chargé/chargée de mission sécurité web - Télécharger le pdf") (pdf - 380 ko)
@@ -96,38 +90,8 @@ layout: page-annexe
 <br>Paris
 <br>Cadre/Catégorie A
 
-#### **Droit**
-{: .margin-top-4 .margin-bottom-1} 
-* [**Data policy officer / adjoint/adjointe au chef du pôle juridique**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=43d17efd-895f-4096-9f7c-88b986ef2b5d&offerid=195474 "Data policy officer / adjoint/adjointe au chef du pôle juridique – Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Cadre/Catégorie A
-
-* [**Juriste en droit du numérique**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3fc5e81e-d201-48fd-a272-dec6cb97a999&offerid=195469 "Juriste en droit du numérique - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Cadre/Catégorie A
-<br>
-<br>
-
 #### **Ressources humaines**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chef/cheffe de pôle Ressources humaines**]( https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6dd6903a-3abb-4be6-a2dc-412fd8a3a117&offerid=196876 "Chef/cheffe de pôle Ressources humaines - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A
-
-* [**Apprenti/apprentie chargé/chargée de mission en ressources humaines (RH)**]( https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=5938e0fc-7b24-438a-826c-a99008a64047&offerid=195435 "Apprenti/apprentie chargé/chargée de mission en ressources humaines (RH) - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Apprentissage
-
-* [**Apprenti/apprentie chargé/chargée de mission RH SIC**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=bef11b32-e419-44a5-aa4e-0f69eb979edf&offerid=195454 " Apprenti/apprentie chargé/chargée de mission RH SIC - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Apprentissage
-<br>
-<br>
-
-#### **Secrétariat**
-{: .margin-top-4 .margin-bottom-1} 
-* [**Assistant/assistante de direction**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=7ca43073-ca83-4b6d-96da-05f8e1bcce52&offerid=194124 "Assistant/assistante de direction - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Catégorie B
-<br>
-<br>
