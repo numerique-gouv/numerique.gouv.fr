@@ -54,8 +54,6 @@ layout: page-annexe
 * [**Responsable produit « FranceConnect » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=12f9bab9-55d4-429e-b14c-b1625eaa122b&offerid=236696 "Responsable produit FranceConnect - Télécharger le pdf") (pdf - 380 ko)
 <br> Paris
 <br> Cadre/Catégorie A
-<br>
-<br>
 
 * [**Développeur/développeuse web full-stack**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=348923f4-d86c-4ff2-a9c7-a6a9b254882e&offerid=223798 "Développeur/développeuse web full stack -  Télécharger le pdf") (pdf - 380 ko)
 <br> Paris
