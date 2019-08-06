@@ -2,7 +2,7 @@
 title: Rejoignez-nous
 date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
-date_de_modification: 29 juillet 2019
+date_de_modification: 6 août 2019
 layout: page-annexe
 ---
 
@@ -93,11 +93,19 @@ layout: page-annexe
 <br>Paris
 <br>Cadre/Catégorie A
 
-* [**Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f89fd8de-3b1b-4ab1-a9b9-f3cc9d645a3e&offerid=194149 "Chargé/chargée d'hypervision réseau / sécurité du réseau interministériel de l'État - Télécharger le pdf") (pdf - 300 ko)
-<br>Rennes
-<br>Catégorie A (cadre) ou B
+* [** Architecte « services d'accès internet » du réseau interministériel de l'État**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte--services-d-acces-internet--du-reseau-interministeriel-de-l-etat-hf-reference-2019-243187 "Architecte service d'accès internet du réseau interministériel de l'État - Télécharger le pdf")
+(pdf - 300 ko)
+<br>Paris
+<br>Catégorie A (cadre)
 <br>
 <br>
+
+* [** Architecte expert/experte du réseau interministériel de l'État **](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-expert-du-reseau-interministeriel-de-l-etat-hf-reference-2019-243191 "Architecte expert/experte du réseau interministériel de l'État - Télécharger le pdf")(pdf - 300 ko)
+<br>Paris
+<br>Catégorie A (cadre)
+<br>
+<br>
+
 
 #### **Droit**
 {: .margin-top-4 .margin-bottom-1} 
