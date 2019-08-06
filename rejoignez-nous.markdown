@@ -59,12 +59,6 @@ layout: page-annexe
 <br> Paris
 <br> Cadre/Catégorie A
 
-* [**Mentor technique et produit (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1514dfbf-ac0e-4b40-9cee-cf99128aef0a&offerid=202965 "Mentor technique et produits (F/H) - Télécharger le pdf") (pdf - 300 ko)
-<br>Paris
-<br>Cadre/Catégorie A+
-<br>
-<br>
-
 #### **Data**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Data engineer (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=46301f48-9a81-4663-9504-2f975ed8da4b&offerid=229005 "Data engineer (F/H)
