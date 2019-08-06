@@ -87,12 +87,12 @@ layout: page-annexe
 <br>Paris
 <br>Cadre/Catégorie A
 
-* [**Architecte « services d'accès internet » du réseau interministériel de l'État (F/H)**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte--services-d-acces-internet--du-reseau-interministeriel-de-l-etat-hf-reference-2019-243187 "Architecte service d'accès internet du réseau interministériel de l'État - Télécharger le pdf")
+* [**Architecte « services d'accès internet » du réseau interministériel de l'État (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=512a28a3-5745-40f4-ad35-8665c6f1936c&offerid=243187 "Architecte service d'accès internet du réseau interministériel de l'État - Télécharger le pdf")
 (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A
 
-* [**Architecte expert/experte du réseau interministériel de l'État**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-expert-du-reseau-interministeriel-de-l-etat-hf-reference-2019-243191 "Architecte expert/experte du réseau interministériel de l'État - Télécharger le pdf") (pdf - 300 ko)
+* [**Architecte expert/experte du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=b8df9b54-955a-4db6-9be2-c1276ecbcd01&offerid=243191 "Architecte expert/experte du réseau interministériel de l'État - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A
 
