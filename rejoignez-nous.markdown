@@ -97,15 +97,10 @@ layout: page-annexe
 (pdf - 300 ko)
 <br>Paris
 <br>Catégorie A (cadre)
-<br>
-<br>
 
 * [**Architecte expert/experte du réseau interministériel de l'État**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-expert-du-reseau-interministeriel-de-l-etat-hf-reference-2019-243191 "Architecte expert/experte du réseau interministériel de l'État - Télécharger le pdf")(pdf - 300 ko)
 <br>Paris
 <br>Catégorie A (cadre)
-<br>
-<br>
-
 
 #### **Droit**
 {: .margin-top-4 .margin-bottom-1} 
