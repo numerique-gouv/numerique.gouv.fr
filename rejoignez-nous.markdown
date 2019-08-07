@@ -113,5 +113,5 @@ layout: page-annexe
 > **Secrétariat général des ministères économiques et financiers**
 > * [**Conseiller systèmes d’information**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fca027e7-6507-4401-925f-6f62a901973b&offerid=244292 "Conseiller systèmes d’information - Télécharger le pdf") (pdf - 112 ko) 
 > <br>Cadre supérieur/Catégorie A+
-{: .encadre}
+{: : .noir .encadre}
 
