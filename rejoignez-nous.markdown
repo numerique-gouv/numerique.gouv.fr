@@ -99,23 +99,23 @@ Zoom sur quelques postes de haut niveau dans le numérique public :
 **Délégation ministérielle du numérique en santé (ministère de la Santé)**
 * [**Pilote de projets numériques ; Architecte systèmes d'information (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=38f05c96-f251-4c99-8e73-be79f4b724fc&offerid=232300 "Pilote de projets, architecte systèmes d'information F/H - Télécharger le pdf") (pdf - 112 ko)
 <br>Cadre supérieur/Catégorie A+
-<br>
+>{: .margin-bottom-1}
 <br>
 >
 * [**Pilote de projets numériques ; Chef/cheffe de produit**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=70df8c27-cac2-4a11-b380-08db884defa0&offerid=232304 "Pilote de projets numériques, chef.fe de produit - Télécharger le pdf") (pdf - 112 ko)
 <br>Cadre supérieur/Catégorie A+
->{: .margin-bottom-0.5}
+>{: .margin-bottom-1}
 * [**Pilote de projets numériques (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=ed11590e-e271-4b6e-9224-5cedff3c5dae&offerid=232308 "Pilote de projets numériques - Télécharger le pdf") (pdf - 112 ko) 
 <br>Cadre supérieur/Catégorie A+
 >{: .margin-bottom-1} 
 * [**Pilote de projets numériques ; Expert/experte entreprenariat**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1f74c666-2ddc-4b7d-ba51-d0a0750a39bb&offerid=232313 "Pilote de projets numériques, expert.e entreprenariat - Télécharger le pdf") (pdf - 112 ko)
 <br>Cadre supérieur/Catégorie A+
-<br>
+>{: .margin-bottom-1}
 <br>
 >
 * [**Pilote de projets numériques ; Expert/experte Europe et international**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=32a223e7-f86f-4f45-a81d-02cfeedc53ac&offerid=232322 "Pilote de projets numériques, expert.e Europe et international - Télécharger le pdf") (pdf - 112 ko)
 <br>Cadre supérieur/Catégorie A+
-<br>
+>{: .margin-bottom-1}
 <br>
 >
 **Mission interministérielle relative à la simplification des formalités des entreprises (secrétariat général des ministères économiques et financiers)**
