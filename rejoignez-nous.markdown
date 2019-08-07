@@ -6,7 +6,8 @@ date_de_modification: 7 août 2019
 layout: page-annexe
 ---
 
-**Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINSIC ! Et en bas de cette page retrouvez aussi une sélection de postes de haut niveau au sein des ministères.**
+**Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINSIC ! 
+Et [en bas de cette page](#offresministères) retrouvez aussi une sélection de postes de haut niveau au sein des ministères.**
 <br>
 <br>
 
@@ -90,7 +91,7 @@ layout: page-annexe
 <br>
 <br>
 
-> ### Et aussi, dans les ministères… 
+> ### Et aussi, dans les ministères…<a id="offresministères"></a> 
 Zoom sur quelques postes de haut niveau dans le numérique public :
 <br>
 <br>
