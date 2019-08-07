@@ -104,12 +104,10 @@ Zoom sur quelques postes de haut niveau dans le numérique public :
 >
 * [**Pilote de projets numériques ; Chef/cheffe de produit**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=70df8c27-cac2-4a11-b380-08db884defa0&offerid=232304 "Pilote de projets numériques, chef.fe de produit - Télécharger le pdf") (pdf - 112 ko)
 <br>Cadre supérieur/Catégorie A+
-{: .margin-bottom-1}
->
+>{: .margin-bottom-0.5}
 * [**Pilote de projets numériques (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=ed11590e-e271-4b6e-9224-5cedff3c5dae&offerid=232308 "Pilote de projets numériques - Télécharger le pdf") (pdf - 112 ko) 
 <br>Cadre supérieur/Catégorie A+
 >{: .margin-bottom-1} 
->
 * [**Pilote de projets numériques ; Expert/experte entreprenariat**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1f74c666-2ddc-4b7d-ba51-d0a0750a39bb&offerid=232313 "Pilote de projets numériques, expert.e entreprenariat - Télécharger le pdf") (pdf - 112 ko)
 <br>Cadre supérieur/Catégorie A+
 <br>
