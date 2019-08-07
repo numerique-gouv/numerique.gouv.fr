@@ -24,20 +24,16 @@ layout: page-annexe
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Directeur/directrice de projets interministériels**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=ff650cab-c7d8-457d-aeb0-db83ed3edb63&offerid=229025 "Directeur/directrice de projets interministériels - Télécharger le pdf") (pdf - 400 ko)
-<br>Paris
-<br>Cadre supérieur/Catégorie A+
+<br>Paris - Cadre supérieur/Catégorie A+
 
 * [**Responsable du projet plateformes d’échange de données inter-administrations (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=9097f70f-1b1c-48a1-94f0-a7066529d973&offerid=234234 "Responsable du projet plateformes d’échange de données inter-administrations (F/H) - Télécharger le pdf") (pdf - 417 ko)
-<br> Paris
-<br> Cadre/Catégorie A
+<br> Paris - Cadre/Catégorie A
 
 * [**Chargé/chargée de mission animation de communautés et écosystème pour le Programme Entrepreneurs d'intérêt général**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dc7ddd2b-0d4a-4fcd-a98c-79633c4340da&offerid=229032 "Chargé/chargée de mission animation de communautés et écosystème pour le Programme Entrepreneurs d'intérêt général - Télécharger le pdf") (pdf - 350 ko)
-<br>Paris
-<br>Cadre/Catégorie A
+<br>Paris - Cadre/Catégorie A
 
 * [**Chargé/chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=aadb5631-f300-4a0a-9d2d-752b6f05fe12&offerid=211009 "Chargé/chargée de mission numérique et territoires - Télécharger le pdf") (pdf - 360 ko)
-<br>Paris
-<br>Cadre/Catégorie A
+<br>Paris - Cadre/Catégorie A
 
 * [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=269997df-7279-4259-96ad-92a71c4124f7&offerid=198613 "Chargé/chargée de mission « Transformation numérique de l'État » - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
@@ -106,12 +102,13 @@ layout: page-annexe
 
 > ### Et aussi, dans les ministères… 
 > Zoom sur quelques postes de haut niveau dans le numérique public
-> 
+> <br>
+> <br>
 > **Délégation ministérielle numérique en santé (ministère de la Santé)**
-> * [**Pilote de projets ; Architecte systèmes d'information (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=38f05c96-f251-4c99-8e73-be79f4b724fc&offerid=232300 "Pilote de projets, architecte systèmes d'information F/H - Télécharger le pdf") (pdf - 112 ko) 
+> * [**Pilote de projets numériques ; Architecte systèmes d'information (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=38f05c96-f251-4c99-8e73-be79f4b724fc&offerid=232300 "Pilote de projets, architecte systèmes d'information F/H - Télécharger le pdf") (pdf - 112 ko) 
 > 
 > 
-> * [**Pilote de projets ; Chef.fe de produit**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=70df8c27-cac2-4a11-b380-08db884defa0&offerid=232304 "Pilote de projets numériques, chef.fe de produit - Télécharger le pdf") (pdf - 112 ko)
+> * [**Pilote de projets numériques ; Chef.fe de produit**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=70df8c27-cac2-4a11-b380-08db884defa0&offerid=232304 "Pilote de projets numériques, chef.fe de produit - Télécharger le pdf") (pdf - 112 ko)
 > 
 > 
 > * [**Pilote de projets numériques**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=ed11590e-e271-4b6e-9224-5cedff3c5dae&offerid=232308 "Pilote de projets numériques - Télécharger le pdf") (pdf - 112 ko) 
@@ -124,6 +121,6 @@ layout: page-annexe
 > 
 > 
 > **Guichet unique entreprises (ministère des Finances)**
-> * [**Conseiller systèmes d’information**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fca027e7-6507-4401-925f-6f62a901973b&offerid=244292 "Conseiller systèmes d’information - Télécharger le pdf") (pdf - 112 ko) 
+> * [**Conseiller systèmes d’information**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fca027e7-6507-4401-925f-6f62a901973b&offerid=244292 "Conseiller systèmes d’information - Télécharger le pdf") (pdf - 112 ko) Cadre supérieur/Catégorie A+
 {: .encadre}
 
