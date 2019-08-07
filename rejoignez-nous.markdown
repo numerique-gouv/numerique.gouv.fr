@@ -19,6 +19,7 @@ layout: page-annexe
 <br>
 
 ### Nos offres d'emploi actuellement disponibles :
+{: .margin-top-4 .margin-bottom-0} 
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
