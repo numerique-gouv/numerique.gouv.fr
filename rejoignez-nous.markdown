@@ -6,7 +6,7 @@ date_de_modification: 7 août 2019
 layout: page-annexe
 ---
 
-**Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINSIC !**
+**Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINSIC ! Et en bas de cette page retrouvez aussi une sélection de postes de haut niveau au sein des ministères.**
 <br>
 <br>
 
@@ -19,6 +19,7 @@ layout: page-annexe
 <br>
 
 ### Nos offres d'emploi actuellement disponibles :
+*Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
 #### **Transformation numérique**
