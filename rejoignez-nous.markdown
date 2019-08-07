@@ -101,24 +101,24 @@ Zoom sur quelques postes de haut niveau dans le numérique public :
 <br>Cadre supérieur/Catégorie A+
 <br>
 >
-* [**Pilote de projets numériques ; Chef.fe de produit**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=70df8c27-cac2-4a11-b380-08db884defa0&offerid=232304 "Pilote de projets numériques, chef.fe de produit - Télécharger le pdf") (pdf - 112 ko)
+* [**Pilote de projets numériques ; Chef/cheffe de produit**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=70df8c27-cac2-4a11-b380-08db884defa0&offerid=232304 "Pilote de projets numériques, chef.fe de produit - Télécharger le pdf") (pdf - 112 ko)
 <br>Cadre supérieur/Catégorie A+
 <br>
 >
-* [**Pilote de projets numériques**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=ed11590e-e271-4b6e-9224-5cedff3c5dae&offerid=232308 "Pilote de projets numériques - Télécharger le pdf") (pdf - 112 ko) 
+* [**Pilote de projets numériques (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=ed11590e-e271-4b6e-9224-5cedff3c5dae&offerid=232308 "Pilote de projets numériques - Télécharger le pdf") (pdf - 112 ko) 
 <br>Cadre supérieur/Catégorie A+
 <br>
 >
-* [**Pilote de projets numériques ; Expert.e entreprenariat**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1f74c666-2ddc-4b7d-ba51-d0a0750a39bb&offerid=232313 "Pilote de projets numériques, expert.e entreprenariat - Télécharger le pdf") (pdf - 112 ko)
+* [**Pilote de projets numériques ; Expert/experte entreprenariat**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1f74c666-2ddc-4b7d-ba51-d0a0750a39bb&offerid=232313 "Pilote de projets numériques, expert.e entreprenariat - Télécharger le pdf") (pdf - 112 ko)
 <br>Cadre supérieur/Catégorie A+
 <br>
 >
-* [**Pilote de projets numériques ; Expert.e Europe et international**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=32a223e7-f86f-4f45-a81d-02cfeedc53ac&offerid=232322 "Pilote de projets numériques, expert.e Europe et international - Télécharger le pdf") (pdf - 112 ko)
+* [**Pilote de projets numériques ; Expert/experte Europe et international**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=32a223e7-f86f-4f45-a81d-02cfeedc53ac&offerid=232322 "Pilote de projets numériques, expert.e Europe et international - Télécharger le pdf") (pdf - 112 ko)
 <br>Cadre supérieur/Catégorie A+
 <br>
 >
 **Mission interministérielle relative à la simplification des formalités des entreprises (secrétariat général des ministères économiques et financiers)**
-* [**Conseiller systèmes d’information**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fca027e7-6507-4401-925f-6f62a901973b&offerid=244292 "Conseiller systèmes d’information - Télécharger le pdf") (pdf - 112 ko) 
+* [**Conseiller/conseillère systèmes d’information**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fca027e7-6507-4401-925f-6f62a901973b&offerid=244292 "Conseiller systèmes d’information - Télécharger le pdf") (pdf - 112 ko) 
 <br>Cadre supérieur/Catégorie A+
 {: .noir .encadre}
 
