@@ -93,7 +93,7 @@ layout: page-annexe
 > Zoom sur quelques postes de haut niveau dans le numérique public
 > <br>
 > <br>
->
+> 
 > **Délégation ministérielle numérique en santé (ministère de la Santé)**
 > * [**Pilote de projets numériques ; Architecte systèmes d'information (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=38f05c96-f251-4c99-8e73-be79f4b724fc&offerid=232300 "Pilote de projets, architecte systèmes d'information F/H - Télécharger le pdf") (pdf - 112 ko) 
 > <br>Cadre supérieur/Catégorie A+
