@@ -91,7 +91,7 @@ layout: page-annexe
 <br>
 
 > ### Et aussi, dans les ministères… 
-Zoom sur quelques postes de haut niveau dans le numérique public
+Zoom sur quelques postes de haut niveau dans le numérique public :
 <br>
 <br>
 > 
@@ -110,7 +110,7 @@ Zoom sur quelques postes de haut niveau dans le numérique public
 >
 * [**Pilote de projets numériques ; Expert.e Europe et international**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=32a223e7-f86f-4f45-a81d-02cfeedc53ac&offerid=232322 "Pilote de projets numériques, expert.e Europe et international - Télécharger le pdf") (pdf - 112 ko)
 <br>Cadre supérieur/Catégorie A+
->{: .noir}
+>
 **Secrétariat général des ministères économiques et financiers**
 * [**Conseiller systèmes d’information**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fca027e7-6507-4401-925f-6f62a901973b&offerid=244292 "Conseiller systèmes d’information - Télécharger le pdf") (pdf - 112 ko) 
 <br>Cadre supérieur/Catégorie A+
