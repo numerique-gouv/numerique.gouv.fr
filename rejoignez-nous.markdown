@@ -101,3 +101,28 @@ layout: page-annexe
 * [**Chef/cheffe de pôle Ressources humaines**]( https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6dd6903a-3abb-4be6-a2dc-412fd8a3a117&offerid=196876 "Chef/cheffe de pôle Ressources humaines - Télécharger le pdf") (pdf - 300 ko)
 <br>Paris
 <br>Cadre/Catégorie A
+<br>
+<br>
+### Et aussi, dans les ministères… 
+Zoom sur quelques postes de haut niveau dans le numérique public
+
+**Délégation ministérielle numérique en santé (ministère de la Santé)**
+* [**Expert technique / architecte SI**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=38f05c96-f251-4c99-8e73-be79f4b724fc&offerid=232300) 
+
+
+* [**Expert technique / chef.fe de produit**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=70df8c27-cac2-4a11-b380-08db884defa0&offerid=232304)
+
+
+* [**Expert administratif**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=ed11590e-e271-4b6e-9224-5cedff3c5dae&offerid=232308) 
+
+
+* [**Expert entrepreneuriat**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1f74c666-2ddc-4b7d-ba51-d0a0750a39bb&offerid=232313) 
+
+
+* [**Expert international**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=32a223e7-f86f-4f45-a81d-02cfeedc53ac&offerid=232322) 
+
+
+**Guichet unique entreprises (Ministère des finances) **
+* [**Conseiller systèmes d’information**](https://www.place-emploi-public.gouv.fr/offre-emploi/conseiller-systemes-d-information-mi---sg-reference-2019-244292 ) 
+
+
