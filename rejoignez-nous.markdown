@@ -57,7 +57,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 * [**Développeur/développeuse web full-stack**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=348923f4-d86c-4ff2-a9c7-a6a9b254882e&offerid=223798 "Développeur/développeuse web full stack -  Télécharger le pdf") (pdf - 380 ko)
 <br>Cadre/Catégorie A
 
-* [**Chargé/chargée du support et de l'accompagnement des usagers de « démarches simplifiées »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=413a0aab-3ce3-482e-a3f3-9c3dd6c9e416&offerid=246232 "Chargé du support et de l'accompagnement des usagers de « démarches simplifiées » CDD") (pdf - 246 ko) 
+* [**Chargé/chargée du support et de l'accompagnement des usagers de « démarches simplifiées »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=413a0aab-3ce3-482e-a3f3-9c3dd6c9e416&offerid=246232 "Chargé du support et de l'accompagnement des usagers de « démarches simplifiées » CDD") (pdf - 246&nbsp;ko) 
 <br>Cadre/Catégorie A
 <br>
 <br>
