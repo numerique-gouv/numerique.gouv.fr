@@ -120,3 +120,8 @@ Zoom sur quelques postes de haut niveau dans le numérique public :
 <br>Cadre supérieur/Catégorie A+
 {: .noir .encadre}
 
+[**Chef/cheffe de projet - Robotisation des processus (RPA)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=073b11c8-6668-4298-a95e-c41454c31b65&offerid=246242 "Chef de projet - Robotisation des processus (RPA)")(pdf - 193 ko) 
+<br>Cadre supérieur/Catégorie A
+
+
+
