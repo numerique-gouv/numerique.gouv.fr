@@ -2,7 +2,7 @@
 title: Rejoignez-nous
 date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
-date_de_modification: 7 août 2019
+date_de_modification: 9 août 2019
 layout: page-annexe
 ---
 
@@ -40,6 +40,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 * [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=269997df-7279-4259-96ad-92a71c4124f7&offerid=198613 "Chargé/chargée de mission « Transformation numérique de l'État » - Télécharger le pdf") (pdf - 300 ko)
 <br>Cadre/Catégorie A
+
+* [**Chef/cheffe de projet - Robotisation des processus (RPA)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=073b11c8-6668-4298-a95e-c41454c31b65&offerid=246242 "Chef de projet - Robotisation des processus (RPA)") (pdf - 193 ko) 
+<br>Cadre supérieur/Catégorie A+,A
 <br>
 <br>
 
@@ -52,6 +55,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 
 * [**Développeur/développeuse web full-stack**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=348923f4-d86c-4ff2-a9c7-a6a9b254882e&offerid=223798 "Développeur/développeuse web full stack -  Télécharger le pdf") (pdf - 380 ko)
+<br>Cadre/Catégorie A
+
+* [**Chargé/chargée du support et de l'accompagnement des usagers de « démarches simplifiées »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=413a0aab-3ce3-482e-a3f3-9c3dd6c9e416&offerid=246232 "Chargé du support et de l'accompagnement des usagers de « démarches simplifiées » CDD") (pdf - 246 ko) 
 <br>Cadre/Catégorie A
 <br>
 <br>
@@ -119,4 +125,8 @@ Zoom sur quelques postes de haut niveau dans le numérique public :
 * [**Conseiller/conseillère systèmes d’information**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fca027e7-6507-4401-925f-6f62a901973b&offerid=244292 "Conseiller systèmes d’information - Télécharger le pdf") (pdf - 112 ko) 
 <br>Cadre supérieur/Catégorie A+
 {: .noir .encadre}
+
+
+
+
 
