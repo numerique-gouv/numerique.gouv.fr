@@ -42,7 +42,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 
 * [**Chef/cheffe de projet - Robotisation des processus (RPA)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=073b11c8-6668-4298-a95e-c41454c31b65&offerid=246242 "Chef de projet - Robotisation des processus (RPA)") (pdf - 193 ko) 
-<br>Cadre supérieur/Catégorie A
+<br>Cadre supérieur/Catégorie A+,A
 <br>
 <br>
 
