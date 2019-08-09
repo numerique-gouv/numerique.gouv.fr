@@ -40,6 +40,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 * [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=269997df-7279-4259-96ad-92a71c4124f7&offerid=198613 "Chargé/chargée de mission « Transformation numérique de l'État » - Télécharger le pdf") (pdf - 300 ko)
 <br>Cadre/Catégorie A
+
+* [**Chef/cheffe de projet - Robotisation des processus (RPA)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=073b11c8-6668-4298-a95e-c41454c31b65&offerid=246242 "Chef de projet - Robotisation des processus (RPA)") (pdf - 193 ko) 
+<br>Cadre supérieur/Catégorie A
 <br>
 <br>
 
@@ -122,9 +125,6 @@ Zoom sur quelques postes de haut niveau dans le numérique public :
 * [**Conseiller/conseillère systèmes d’information**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fca027e7-6507-4401-925f-6f62a901973b&offerid=244292 "Conseiller systèmes d’information - Télécharger le pdf") (pdf - 112 ko) 
 <br>Cadre supérieur/Catégorie A+
 {: .noir .encadre}
-
-* [**Chef/cheffe de projet - Robotisation des processus (RPA)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=073b11c8-6668-4298-a95e-c41454c31b65&offerid=246242 "Chef de projet - Robotisation des processus (RPA)") (pdf - 193 ko) 
-<br>Cadre supérieur/Catégorie A
 
 
 
