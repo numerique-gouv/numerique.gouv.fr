@@ -131,7 +131,7 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > Cette solution pourra être synchronisée avec le poste de travail de  l’agent.
 > <br>
 > <br>
-> * **ETN du futur, Expérimenter un lieu des collaboration numérique interministérielle**<br>
+> * **ETN du futur, Expérimenter un lieu de collaboration numérique interministérielle**<br>
 > *Préfecture de région Ile-de-France*<br>
 > Il permettra aux agents de collaborer dans un même lieu équipé de nouveaux outils numériques, et par la suite de développer de nouveaux modes de travail plus collaboratifs et nomades. 
 > <br>
