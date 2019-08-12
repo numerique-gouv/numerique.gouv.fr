@@ -19,6 +19,7 @@ event_start_date: 2019-08-28 14:00:00 +02:00
 lieu: Direction interministérielle du numérique et du système d'information et de
   communication de l'État
 adresse: 20 avenue de Ségur - 75007 Paris
+afficher_la_carte: false
 champs_informations:
 - intitule: Horaires
   contenu: 14h-17h
