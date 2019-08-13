@@ -2,7 +2,7 @@
 title: Rejoignez-nous
 date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
-date_de_modification: 9 août 2019
+date_de_modification: 13 août 2019
 layout: page-annexe
 ---
 
@@ -86,13 +86,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 
 * [**Architecte expert/experte du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=b8df9b54-955a-4db6-9be2-c1276ecbcd01&offerid=243191 "Architecte expert/experte du réseau interministériel de l'État - Télécharger le pdf") (pdf - 300 ko)
-<br>Cadre/Catégorie A
-<br>
-<br>
-
-#### **Ressources humaines**
-{: .margin-top-4 .margin-bottom-1} 
-* [**Chef/cheffe de pôle Ressources humaines**]( https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6dd6903a-3abb-4be6-a2dc-412fd8a3a117&offerid=196876 "Chef/cheffe de pôle Ressources humaines - Télécharger le pdf") (pdf - 300 ko)
 <br>Cadre/Catégorie A
 <br>
 <br>
