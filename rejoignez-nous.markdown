@@ -64,6 +64,10 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Budget/Finances/Marchés**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Gestionnaire administratif « budgétaire et financier » (F/H) **](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=467a7ed0-3ad0-43e3-a183-f9f1a5451e01&offerid=249151 "Gestionnaire administratif budgétaire et financier (F/H)
+ – Télécharger le pdf") (pdf - 360 ko)
+<br> Catégorie B/vacation 3 mois (prolongation possible) <br>
+
 
 
 #### **Data**
