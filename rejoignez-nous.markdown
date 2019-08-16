@@ -78,7 +78,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 <br>
 <br>
-* [**Directeur technique d’Etalab (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=a2f9a8b0-d5f2-4fc6-9b42-984f6ed0f5d3&offerid=248762 "Directeur technique d’Etalab (F/H) – Télécharger le pdf") (pdf - 250 ko)
+* [**Directeur/directrice technique d’Etalab**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=a2f9a8b0-d5f2-4fc6-9b42-984f6ed0f5d3&offerid=248762 "Directeur/directrice technique d’Etalab – Télécharger le pdf") (pdf - 250 ko)
 <br>Cadre/Catégorie A+, A
 <br>
 <br>
