@@ -64,27 +64,16 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-
-#### **Budget/Finances/Marchés**
-{: .margin-top-4 .margin-bottom-1} 
-* [**Gestionnaire administratif « budgétaire et financier » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=467a7ed0-3ad0-43e3-a183-f9f1a5451e01&offerid=249151 "Gestionnaire administratif budgétaire et financier (F/H)
- – Télécharger le pdf") (pdf - 267 ko)
-<br> Catégorie B/vacation 3 mois (prolongation possible) <br>
-<br>
-
-
 #### **Data**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Data engineer (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=46301f48-9a81-4663-9504-2f975ed8da4b&offerid=229005 "Data engineer (F/H)
  – Télécharger le pdf") (pdf - 360 ko)
 <br>Cadre/Catégorie A
-<br>
-<br>
+
 * [**Directeur/directrice technique d’Etalab**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=a2f9a8b0-d5f2-4fc6-9b42-984f6ed0f5d3&offerid=248762 "Directeur/directrice technique d’Etalab – Télécharger le pdf") (pdf - 250 ko)
 <br>Cadre/Catégorie A+, A
 <br>
 <br>
-
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1} 
@@ -105,6 +94,13 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 <br>
 <br>
+#### **Budget/Finances/Marchés**
+{: .margin-top-4 .margin-bottom-1} 
+* [**Gestionnaire administratif « budgétaire et financier » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=467a7ed0-3ad0-43e3-a183-f9f1a5451e01&offerid=249151 "Gestionnaire administratif budgétaire et financier (F/H)
+ – Télécharger le pdf") (pdf - 267 ko)
+<br> Catégorie B/vacation 3 mois (prolongation possible) <br>
+<br>
+
 
 > ### Et aussi, dans les ministères…<a id="offresministères"></a> 
 Zoom sur quelques postes de haut niveau dans le numérique public :
