@@ -3,6 +3,8 @@ title: Rejoignez-nous
 date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
 date_de_modification: 16 août 2019
+une:
+  image: "/uploads/image_DINSIC.jpg"
 layout: page-annexe
 ---
 
