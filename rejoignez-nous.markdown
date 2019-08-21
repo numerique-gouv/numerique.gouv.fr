@@ -2,7 +2,9 @@
 title: Rejoignez-nous
 date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
-date_de_modification: 16 août 2019
+une-ou-diaporama:
+  image: "/uploads/lancement-aap-pia-etna.jpg"
+date_de_modification: 21 août 2019
 layout: page-annexe
 ---
 
@@ -40,9 +42,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 * [**Chargé/chargée de mission « Transformation numérique de l'État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=269997df-7279-4259-96ad-92a71c4124f7&offerid=198613 "Chargé/chargée de mission « Transformation numérique de l'État » - Télécharger le pdf") (pdf - 300 ko)
 <br>Cadre/Catégorie A
-
-* [**Chef/cheffe de projet - Robotisation des processus (RPA)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=073b11c8-6668-4298-a95e-c41454c31b65&offerid=246242 "Chef de projet - Robotisation des processus (RPA)") (pdf - 193 ko) 
-<br>Cadre supérieur/Catégorie A+, A
 <br>
 <br>
 
@@ -62,27 +61,16 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-
-#### **Budget/Finances/Marchés**
-{: .margin-top-4 .margin-bottom-1} 
-* [**Gestionnaire administratif « budgétaire et financier » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=467a7ed0-3ad0-43e3-a183-f9f1a5451e01&offerid=249151 "Gestionnaire administratif budgétaire et financier (F/H)
- – Télécharger le pdf") (pdf - 267 ko)
-<br> Catégorie B/vacation 3 mois (prolongation possible) <br>
-<br>
-
-
 #### **Data**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Data engineer (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=46301f48-9a81-4663-9504-2f975ed8da4b&offerid=229005 "Data engineer (F/H)
  – Télécharger le pdf") (pdf - 360 ko)
 <br>Cadre/Catégorie A
-<br>
-<br>
+
 * [**Directeur/directrice technique d’Etalab**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=a2f9a8b0-d5f2-4fc6-9b42-984f6ed0f5d3&offerid=248762 "Directeur/directrice technique d’Etalab – Télécharger le pdf") (pdf - 250 ko)
 <br>Cadre/Catégorie A+, A
 <br>
 <br>
-
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1} 
@@ -103,6 +91,13 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 <br>
 <br>
+#### **Budget/Finances/Marchés**
+{: .margin-top-4 .margin-bottom-1} 
+* [**Gestionnaire administratif « budgétaire et financier » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=467a7ed0-3ad0-43e3-a183-f9f1a5451e01&offerid=249151 "Gestionnaire administratif budgétaire et financier (F/H)
+ – Télécharger le pdf") (pdf - 267 ko)
+<br> Catégorie B/Vacation 3 mois (prolongation possible) <br>
+<br>
+
 
 > ### Et aussi, dans les ministères…<a id="offresministères"></a> 
 Zoom sur quelques postes de haut niveau dans le numérique public :
