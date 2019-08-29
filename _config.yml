@@ -23,7 +23,7 @@ collections:
   politique-logiciel-libre:
     title: Politique de contribution aux logiciels libres de l’État
     output: true
-  accompagnement-circulation-donnees:
+  panda:
     title: Accompagnement à la circulation des données
     output: true
   posts:

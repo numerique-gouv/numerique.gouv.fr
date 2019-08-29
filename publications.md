@@ -29,6 +29,10 @@ publications:
   url: "/publications/principes-mutualisation-si-etat/"
   une-ou-diaporama:
   - image: "/uploads/principes-mutualisation-si.JPG"
+- title: Accompagnement à la circulation des données
+  url: "/publications/accompagnement-circulation-donnees"
+  une-ou-diaporama:
+  - image: "/uploads/null-und-eins-001.jpg"
 layout: publications
 ---
 
