@@ -1,6 +1,7 @@
 ---
 title: Accompagnement à la circulation de la donnée
 permalink: "/publications/accompagnement-circulation-donnees/fournisseurs/"
+published: false
 menu:
   title: Fournisseurs
   weight: 30
