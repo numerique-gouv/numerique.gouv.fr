@@ -19,17 +19,17 @@ Si vous faites partie d'une collectivité territoriale, cette politique ne vous 
 Si vous faites partie d'un opérateur ou d'un établissement public sous la tutelle d'un ministère, vous êtes concerné.
 
 
-##### et si j'appartiens à un établissement de recherche ?
+##### Et si j'appartiens à un établissement de recherche ?
 
 La loi République Numérique s'applique de la même manière.
 
 
-##### et si je suis salarié d'une ESN / SSII ?
+##### Et si je suis salarié d'une ESN / SSII ?
 
 Si vous intervenez dans le cadre d'un marché public, vous êtes concernés. Toutefois, le détail des obligations contractuelles dépendra du CCTP et du CCAP.
 
 
-##### et si je suis indépendant / auto-entrepreneur ?
+##### Et si je suis indépendant / auto-entrepreneur ?
 
 Si vous travaillez pour une administration relevant du périmètre de la DINSIC, vous êtes également concerné.
 
