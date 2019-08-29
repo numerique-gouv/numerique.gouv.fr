@@ -1,6 +1,7 @@
 ---
 title: Accompagnement à la circulation de la donnée
 permalink: "/publications/accompagnement-circulation-donnees/consommateurs/"
+published: false
 menu:
   title: Consommateurs
   weight: 20
