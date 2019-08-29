@@ -2,6 +2,9 @@
 title: numerique.gouv.fr
 timezone: Europe/Paris
 collections:
+  panda:
+    title: Accompagnement à la circulation des données
+    output: true
   actualites:
     title: Actualités
     output: true
@@ -22,9 +25,6 @@ collections:
     output: true
   politique-logiciel-libre:
     title: Politique de contribution aux logiciels libres de l’État
-    output: true
-  panda:
-    title: Accompagnement à la circulation des données
     output: true
   posts:
     title: Posts
