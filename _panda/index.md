@@ -1,7 +1,6 @@
 ---
 title: Accompagnement à la circulation de la donnée
 permalink: "/publications/accompagnement-circulation-donnees/"
-published: false
 menu:
   title: Présentation
   weight: 10
