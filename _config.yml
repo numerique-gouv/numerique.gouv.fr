@@ -4,7 +4,7 @@ timezone: Europe/Paris
 collections:
   panda:
     title: Accompagnement à la circulation des données
-    output: true
+    output: false
   actualites:
     title: Actualités
     output: true
