@@ -21,9 +21,9 @@ une-ou-diaporama:
 - alternative-textuelle: 'Intelligence artificielle : six projets séléctionnés pour
     être expérimentés dans les services publics'
 files:
-- lien: "/uploads/ami-ia-laureats-dossier-court.pdf"
+- file: "/uploads/ami-ia-laureats-dossier-court.pdf"
   nom: Télécharger le dossier synthétique
-- lien: "/uploads/ami-ia-laureats-dossier-presse.pdf"
+- file: "/uploads/ami-ia-laureats-dossier-presse.pdf"
   nom: Télécharger le dossier de presse complet
 ---
 

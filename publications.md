@@ -32,3 +32,8 @@ publications:
 layout: publications
 ---
 
+<!-- - title: Accompagnement à la circulation des données -->
+<!--   url: "/publications/accompagnement-circulation-donnees" -->
+<!--   une-ou-diaporama: -->
+<!--   - image: "/uploads/null-und-eins-001.jpg" -->
+

@@ -1,0 +1,26 @@
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% if page.title != 'dinsic.gouv.fr' %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}" />
+  <meta name="google-site-verification" content="{{ site.google-verification }}" />
+  <meta property="og:title" content="{{ page.title }}"/>
+  <meta property="og:image" content="{% if page.une-ou-diaporama[0].image %}{{ site.url }}{{ page.une-ou-diaporama[0].image }}{%else%}{{ site.url }}/uploads/default.jpeg{% endif %}"/>
+  <meta property="og:description" content="{{ page.chapeau-text | markdownify | strip_html  }}"/>
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  {% if page.chapeau-text %}
+  {% assign description = page.chapeau-text | markdownify | strip_html %}
+  {% else %}
+  {% assign description =  page.content | markdownify | strip_html %}
+  {% endif %}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ description }}">
+  <meta name="twitter:image" content="{% if page.une-ou-diaporama[0].image %}{{ site.url }}{{ page.une-ou-diaporama[0].image }}{%else%}{{ site.url }}/uploads/default.jpeg{% endif %}">
+
+  {% include imports/favicon.html %}
+  {% include imports/stylesheets.html %}
+  {% include imports/preloads.html %}
+  {% include imports/matomo.html %}
+</head>

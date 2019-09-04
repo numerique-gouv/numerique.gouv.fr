@@ -2,7 +2,8 @@ version: 2
 jobs:
   build:
     docker:
-      - image: starefossen/ruby-node:latest
+      - image: circleci/ruby:2.3-node
+    working_directory: ~/repo
     steps:
       - restore_cache:
           name: Restore Git Cache
@@ -23,51 +24,51 @@ jobs:
       - restore_cache:
           name: Restore Gem Cache
           keys:
-            - gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
-            - gem-cache-v1-{{ arch }}-{{ .Branch }}
-            - gem-cache-v1
+            - gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - gem-cache-v2-{{ arch }}-{{ .Branch }}
+            - gem-cache-v2
 
       - run:
           name: Bundle Install
-          command: bundle check --path=/vendor/bundle || bundle install --path=/vendor/bundle --jobs=4 --retry=3
+          command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
 
       # Store bundle cache
       - save_cache:
           name: Save Gem Cache
-          key: gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+          key: gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
           paths:
-            - /vendor/bundle
+            - vendor/bundle
 
       - run:
           name: change yarn cache config
-          command: yarn config set cache-folder ~/.cache/yarn
+          command: yarn config set cache-folder ~/.repo/yarn-cache
 
       - restore_cache:
           name: Restore Yarn Package Cache
           keys:
-            - yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
-            - yarn-packages-v1-{{ .Branch }}-
-            - yarn-packages-v1-
+            - yarn-packages-v2-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - yarn-packages-v2-{{ .Branch }}-
+            - yarn-packages-v2-
       - restore_cache:
           name: Restore Node module cache
           keys:
             # when lock file changes, use increasingly general patterns to restore cache
-            - node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
-            - node-v1-{{ .Branch }}-
-            - node-v1-
+            - node-v2-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - node-v2-{{ .Branch }}-
+            - node-v2-
       - run:
           name: Install Dependencies
           command: yarn install
       - save_cache:
           name: Save Yarn Package Cache
-          key: yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+          key: yarn-packages-v2-{{ .Branch }}-{{ checksum "yarn.lock" }}
           paths:
-            - ~/.cache/yarn
+            - ~/.repo/yarn-cache
       - save_cache:
           name: Save Node module cache
           paths:
-            - /root/project/node_modules  # location depends on npm version
-          key: node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - project/node_modules  # location depends on npm version
+          key: node-v2-{{ .Branch }}-{{ checksum "yarn.lock" }}
 
       - run:
           name: Yarn build
@@ -81,7 +82,7 @@ jobs:
             fi
 
       - persist_to_workspace:
-          root: /root/project
+          root: ~/repo
           paths:
             - _site/*
 
@@ -90,14 +91,15 @@ jobs:
         - image: etbe/html5validator:1.0
     steps:
       - attach_workspace:
-          at: /tmp/workspace
+          at: tmp/workspace
       - run:
           name: validate html
-          command: html5validator --root /tmp/workspace/_site/
+          command: html5validator --root tmp/workspace/_site/
 
   deploy:
-    machine:
-        enabled: true
+    docker:
+      - image: circleci/ruby:2.3-node
+    working_directory: ~/repo
     environment:
       - HOST_PRODUCTION: numerique.gouv.fr
       - HOST_PREPRODUCTION: preprod.numerique.gouv.fr
@@ -105,33 +107,34 @@ jobs:
       - LOGIN: root
     steps:
       - attach_workspace:
-          at: /tmp/workspace
+          at: tmp/workspace
 
       - add_ssh_keys:
           fingerprints:
             - "31:8a:07:d1:56:88:18:c4:4e:91:5f:13:0c:58:b6:cc"
+      - run: mkdir ~/.ssh
       - run:
-          name: add key
-          command: echo $REMOTE_DEV_HOSTKEY >> ~/.ssh/known_hosts
-
+          name: add keys
+          command: echo $REMOTE_DEV_HOSTKEY >> ~/.ssh/known_hosts && echo $REMOTE_PREPROD_HOSTKEY >> ~/.ssh/known_hosts && echo $REMOTE_PROD_HOSTKEY >> ~/.ssh/known_hosts
+      - run: sudo apt-get update && sudo apt-get install rsync
       - deploy:
           name: Deploy on OVH
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
               echo "La branche master n'aboutie pas à un déploiement"
             elif [ "${CIRCLE_BRANCH}" == "development" ]; then
-              rsync -avc --delete /tmp/workspace/_site/ $LOGIN@$HOST_DEVELOPMENT:/var/www/html/
+              rsync -avc --delete tmp/workspace/_site/ $LOGIN@$HOST_DEVELOPMENT:/var/www/html/
             elif [ "${CIRCLE_BRANCH}" == "preproduction" ]; then
-              rsync -avc --delete /tmp/workspace/_site/ $LOGIN@$HOST_PREPRODUCTION:/var/www/html/
+              rsync -avc --delete tmp/workspace/_site/ $LOGIN@$HOST_PREPRODUCTION:/var/www/html/
             elif [ "${CIRCLE_BRANCH}" == "production" ]; then
-              rsync -avc --delete /tmp/workspace/_site/ $LOGIN@$HOST_PRODUCTION:/var/www/html/
+              rsync -avc --delete tmp/workspace/_site/ $LOGIN@$HOST_PRODUCTION:/var/www/html/
             else
               echo "Not deploy branch, dry run only"
             fi
 
   test-js:
     docker:
-      - image: starefossen/ruby-node:latest
+      - image: circleci/ruby:2.3-node
     steps:
       - restore_cache:
           name: Restore Git Cache
@@ -145,17 +148,17 @@ jobs:
       - restore_cache:
           name: Restore Yarn Package Cache
           keys:
-            - yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
-            - yarn-packages-v1-{{ .Branch }}-
-            - yarn-packages-v1-
+            - yarn-packages-v2-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - yarn-packages-v2-{{ .Branch }}-
+            - yarn-packages-v2-
 
       - restore_cache:
           name: Restore Node module cache
           keys:
             # when lock file changes, use increasingly general patterns to restore cache
-            - node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
-            - node-v1-{{ .Branch }}-
-            - node-v1-
+            - node-v2-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - node-v2-{{ .Branch }}-
+            - node-v2-
 
       - run: yarn install
 
@@ -173,7 +176,7 @@ jobs:
 
   index:
     docker:
-      - image: starefossen/ruby-node:latest
+      - image: circleci/ruby:2.3-node
     steps:
       - restore_cache:
           name: Restore Git Cache
@@ -194,51 +197,51 @@ jobs:
       - restore_cache:
           name: Restore Gem Cache
           keys:
-            - gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
-            - gem-cache-v1-{{ arch }}-{{ .Branch }}
-            - gem-cache-v1
+            - gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+            - gem-cache-v2-{{ arch }}-{{ .Branch }}
+            - gem-cache-v2
 
       - run:
           name: Bundle Install
-          command: bundle check --path=/vendor/bundle || bundle install --path=/vendor/bundle --jobs=4 --retry=3
+          command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
 
       # Store bundle cache
       - save_cache:
           name: Save Gem Cache
-          key: gem-cache-v1-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
+          key: gem-cache-v2-{{ arch }}-{{ .Branch }}-{{ checksum "Gemfile.lock" }}
           paths:
-            - /vendor/bundle
+            - vendor/bundle
 
       - run:
           name: change yarn cache config
-          command: yarn config set cache-folder ~/.cache/yarn
+          command: yarn config set cache-folder ~/.repo/yarn-cache
 
       - restore_cache:
           name: Restore Yarn Package Cache
           keys:
-            - yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
-            - yarn-packages-v1-{{ .Branch }}-
-            - yarn-packages-v1-
+            - yarn-packages-v2-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - yarn-packages-v2-{{ .Branch }}-
+            - yarn-packages-v2-
       - restore_cache:
           name: Restore Node module cache
           keys:
             # when lock file changes, use increasingly general patterns to restore cache
-            - node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
-            - node-v1-{{ .Branch }}-
-            - node-v1-
+            - node-v2-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - node-v2-{{ .Branch }}-
+            - node-v2-
       - run:
           name: Install Dependencies
           command: yarn install
       - save_cache:
           name: Save Yarn Package Cache
-          key: yarn-packages-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+          key: yarn-packages-v2-{{ .Branch }}-{{ checksum "yarn.lock" }}
           paths:
-            - ~/.cache/yarn
+            - ~/.repo/yarn-cache
       - save_cache:
           name: Save Node module cache
           paths:
-            - /root/project/node_modules  # location depends on npm version
-          key: node-v1-{{ .Branch }}-{{ checksum "yarn.lock" }}
+            - project/node_modules  # location depends on npm version
+          key: node-v2-{{ .Branch }}-{{ checksum "yarn.lock" }}
 
       - run:
           name: Yarn index

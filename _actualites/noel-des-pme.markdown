@@ -1,6 +1,6 @@
 ---
 title: Le Noël des PME
-date: 2018-12-07 17:00:00 +01:00
+date: 2018-12-20 17:00:00 +01:00
 categories:
 - Dossier
 tags:
@@ -26,6 +26,10 @@ une-ou-diaporama:
 
 |[![Parentepuise.png](/uploads/Parentepuise.png){: width="210"}{: alt="Box Parent épuisé, des cadeaux qui font du bien aux parents"}](http://www.box.parentepuise.com/){:target="_blank"}|[![berceaumagique-486749.png](/uploads/berceaumagique-486749.png){: width="210"}{: alt="Berceau magique, un grand choix de cadeaux de naissance, baptême, grossesse mais aussi le mobilier et la déco de la chambre de bébé"}](http://www.berceaumagique.com/){:target="_blank"}|[![chouduvolant.png](/uploads/chouduvolant.png){: width="210"}{: alt="Marque française de jouets en bois, bascules bébé, porteurs bébé, pousseurs"}](http://www.chouduvolant.com/){:target="_blank"}|
 
+|[![leseditionsphilibertetastrid.png](/uploads/leseditionsphilibertetastrid.png){: width="210"}{: alt="Philibert et Astrid, les jeux éducatifs avec un caractère local pour nourrir et faciliter la relation parents-enfant"}](https://www.philibertastrid.com/){:target="_blank"}|[![editionsencavale.png](/uploads/editionsencavale.png){: width="210"}{: alt="Histoire en cavale, utiliser le jeu sous ses différentes formes pour libérer le pouvoir de l’imagination"}](https://www.histoiresencavale.fr/){:target="_blank"}|[![yogitoy.png](/uploads/yogitoy.png){: width="210"}{: alt="YogiToy, les jouets qui se plient à votre imagination"}](https://www.yogitoy.com/){:target="_blank"}|
+
+|[![woodysfamily.png](/uploads/woodysfamily.png){: width="210"}{: alt="Woodys family, un outil d'organisation, pratique, fun et ludique, pour plus d'harmonie dans votre famille"}](http://www.woodysfamily.com/){:target="_blank"}|[![mailoutradition.png](/uploads/mailoutradition.png){: width="210"}{: alt="Peluches et doudous 100% fabrication française"}](http://www.mailou-tradition.com){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+
 
 **Gastronomie**
 
@@ -38,11 +42,14 @@ une-ou-diaporama:
 
 |[![shantybiscuits.png](/uploads/shantybiscuits.png){:width="210"}{: alt="Shanty biscuits, fabrication sur-mesure de biscuits expressifs"}](https://shantybiscuits.com/){:target="_blank"}|[![cosycoffee.png](/uploads/cosycoffee.png){:width="210"}{: alt="Cosy coffee, les premières capsules 100% compostables"}](https://cosycoffee.com/){:target="_blank"}|[![monvinfrancais.png](/uploads/monvinfrancais.png){:width="210"}{: alt="Commandez en ligne vos vins en direct de chez le producteur"}](https://www.monvinfrancais.com/){:target="_blank"}|
 
-|[![Tea project.png](/uploads/Tea%20project.png){:width="210"}{: alt="Tea project, redécouvrir le thé"}](https://teaproject.fr/){:target="_blank"}|[![maisoncolibri.png](/uploads/maisoncolibri.png){:width="210"}{: alt="Maison colibri, patisserie depuis 1896"}](https://www.maison-colibri.com/){:target="_blank"}|[![maisonherbin.png](/uploads/maisonherbin.png){:width="210"}{: alt="Confitures & Traditions Menton depuis 1974"}](https://www.confitures-herbin.com/fr/){:target="_blank"}|
+|[![Tea project.png](/uploads/Tea%20project.png){:width="210"}{: alt="Tea project, redécouvrir le thé"}](https://teaproject.fr/){:target="_blank"}|[![maisonherbin.png](/uploads/maisonherbin.png){:width="210"}{: alt="Confitures & Traditions Menton depuis 1974"}](https://www.confitures-herbin.com/fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+
 
 |[![maisonphilippesegond.png](/uploads/maisonphilippesegond.png){:width="210"}{: alt=" Desserts, chocolats et calissons artisanaux par un meilleur ouvrir de France"}](https://www.philippesegond.fr/){:target="_blank"}|[![abieslagrimus.png](/uploads/abieslagrimus.png){:width="210"}{: alt="Des produits naturels des Pyrénées récoltés en haut montaggne"}](https://www.abieslagrimus.com/){:target="_blank"}|[![babelicot.png](/uploads/babelicot.png){:width="210"}{: alt="Conserverie artisanale et bio qui milite pour le zéro déchet "}](http://babelicot.fr/){:target="_blank"}|
 
-|[![happyplantes.png](/uploads/happyplantes.png){:width="210"}{: alt="Les infusions Made in Auvergne d'Amaya avec des plantes cueillies et conditionnées à la main dans le Massif Central"}](https://www.happy-plantes.com/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![happyplantes.png](/uploads/happyplantes.png){:width="210"}{: alt="Les infusions Made in Auvergne d'Amaya avec des plantes cueillies et conditionnées à la main dans le Massif Central"}](https://www.happy-plantes.com/){:target="_blank"}|[![epicery.png](/uploads/epicery.png){:width="210"}{: alt="Epicery, vos courses livrées chez vous, vos artisans de quartier disponibles 24h/24"}](https://www.epicery.com/){:target="_blank"}|[![concoillote piguet.png](/uploads/concoillote%20piguet.png){:width="210"}{: alt="Cancoillotte élaboré artisanalement"}](http://www.piguetgastronomie.com/){:target="_blank"}|
+
+|[![bernardloiseau.png](/uploads/bernardloiseau.png){:width="210"}{: alt="Bernard Loiseau, la boutique gastronomique en ligne"}](http://www.boutique-loiseau.com/){:target="_blank"}|[![petitbouchon.png](/uploads/petitbouchon.png){:width="210"}{: alt="a Petit bouchon, la box vin Petit Bouchon à partir de 22€"}](https://www.petitbouchon.fr/){:target="_blank"}|[![lecourtsircuit.png](/uploads/lecourtsircuit.png){:width="210"}{: alt="Le court circuit, acheter chez votre voisin c'est plus malin"}](http://www.lecourtcircuit.fr/index.php/){:target="_blank"}|
 
 
 **Vêtements, chaussures et accessoires**
@@ -72,7 +79,10 @@ une-ou-diaporama:
 
 |[![dwyt.png](/uploads/dwyt.png){:width="210"}{: alt="DWYT, Montres en bois 100% personnalisables"}](https://www.dwyt-watch.com/){:target="_blank"}|[![labottegardiane.png](/uploads/labottegardiane.png){:width="210"}{: alt="La botte depuis 1958"}](http://labottegardiane.com/fr/){:target="_blank"}|[![lachemisefrancaise.png](/uploads/lachemisefrancaise.png){:width="210"}{: alt="La tradition des grands maîtres chemisiers au service de l'élégance masculine"}](https://www.lachemisefrancaise.fr/){:target="_blank"}|
 
-|[![lamodetaurine.png](/uploads/lamodetaurine.png){:width="210"}{: alt="La boutique du passionné de la mode Taurine, Equestre, Bouvine et Camargue"}](https://www.modetaurine.com/){:target="_blank"}|[![tisac.png](/uploads/tisac.png){:width="210"}{: alt="Tisac, les sacs pratiques et utiles au quotidien"}](https://www.tisac.shop/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![lamodetaurine.png](/uploads/lamodetaurine.png){:width="210"}{: alt="La boutique du passionné de la mode Taurine, Equestre, Bouvine et Camargue"}](https://www.modetaurine.com/){:target="_blank"}|[![tisac.png](/uploads/tisac.png){:width="210"}{: alt="Tisac, les sacs pratiques et utiles au quotidien"}](https://www.tisac.shop/){:target="_blank"}|[![lespetitssew.png](/uploads/lespetitssew.png){:width="210"}{: alt="Les petits sew, nœuds papillon pour toute la famille à personnaliser au gré de ses envies"}](http://www.lespetitssew.com/index.php/){:target="_blank"}|
+
+
+|[![Matcha.png](/uploads/Matcha.png){:width="210"}{: alt=" Marque de bijoux, créations originales, bijoux écoresponsables, modernes, mode éthique, made in France"}](https://www.matchaparis.com/){:target="_blank"}|[![VincentGarson.png](/uploads/VincentGarson.png){:width="210"}{: alt="Vincent Garson, haute maroquinerie pour homme, made in France"}](http://www.vincentgarson.com/){:target="_blank"}|[![Justine B.png](/uploads/Justine%20B.png){:width="210"}{: alt="Justine B, mode et prêt-à-porter femme, 100% Français et éthique"}](http://www.justineb.fr/){:target="_blank"}|
 
 
 **Maison**
@@ -90,13 +100,21 @@ une-ou-diaporama:
 
 |[![ydolem.png](/uploads/ydolem.png){:width="210"}{: alt="Ydolem, les articles de décoration unique et 100% fait main pour la chambre des tout petits"}](https://ydolem-boutique.fr/){:target="_blank"}|[![magnetyourlife.png](/uploads/magnetyourlife.png){:width="210"}{: alt="Magnet your life, aimantez votre vie"}](https://www.magnetyourlife.fr/){:target="_blank"}|[![ludilabel.png](/uploads/ludilabel.png){:width="210"}{: alt="Ludilable, étiquette thermocollante et autocollante pour vêtement et objet)"}](https://www.ludilabel.fr/){:target="_blank"}|
 
-|[![Delavelle.png](/uploads/Delavelle.png){:width="210"}{: alt="Delavelle, Meubles, accessoires et décoration 100% made in France"}](https://www.delavelle-design.fr/){:target="_blank"}|[![calepino.png](/uploads/calepino.png){:width="210"}{: alt="Calepino, carnets simples et design fabriqués à Nantes"}](https://calepino.fr/fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![Delavelle.png](/uploads/Delavelle.png){:width="210"}{: alt="Delavelle, Meubles, accessoires et décoration 100% made in France"}](https://www.delavelle-design.fr/){:target="_blank"}|[![calepino.png](/uploads/calepino.png){:width="210"}{: alt="Calepino, carnets simples et design fabriqués à Nantes"}](https://calepino.fr/fr/){:target="_blank"}|[![cameleondine.png](/uploads/cameleondine.png){:width="210"}{: alt="Le caméléon dine, la petite assiette française 100 % made in France"}](https://www.lecameleondine.com/){:target="_blank"}|
+
+|[![microcosme.png](/uploads/microcosme.png){:width="210"}{: alt="Microcosme, terrariums en kit livrés partout en France"}](https://www.ateliermicrocosme.com/){:target="_blank"}|[![glassvariations.png](/uploads/glassvariations.png){:width="210"}{: alt="Glass variations, déco et meubles en verre, de fabrication française"}](http://www.glassvariations.com){:target="_blank"}|[![lesrêvesdeviolaine.png](/uploads/lesr%C3%AAvesdeviolaine.png){:width="210"}{: alt="Posters et affiches pour décoration d'intérieur"}](https://www.reves-de-violaine.fr/){:target="_blank"}|
+
+|[![noepaper.png](/uploads/noepaper.png){:width="210"}{: alt="Noe paper, objets uniques de design textile, de décoration et de papeterie éco-responsable"}](https://www.noe-paper.com/){:target="_blank"}|[![sweedou-46d7d4.png](/uploads/sweedou-46d7d4.png){:width="210"}{: alt="Sweedou, coussins chauffants made in Toulouse"}](http://www.sweedoo.com/){:target="_blank"}|[![cristel.png](/uploads/cristel.png){:width="210"}{: alt="Cristel, depuis plus de 30 ans, fabrication d'articles de cuisson"}](https://www.cristel.com/){:target="_blank"}|
+
+|[![verrecreations.png](/uploads/verrecreations.png){:width="210"}{: alt="Verre créations, gravure sur verre personnalisé"}](https://www.verrecreations.fr/){:target="_blank"}|[![kataba.png](/uploads/kataba.png){:width="210"}{: alt="Kataba le mobilier à impact positif"}](https://www.kataba.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Sports**
 
+
 |[![FlaneurzV3.png](/uploads/FlaneurzV3.png){: width="210"}{: alt="Flaneurz, greffer des roues sous les chaussures"}](http://www.flaneurz.com/fr/){:target="_blank"}|[![Cycles VictoireV2.png](/uploads/Cycles%20VictoireV2.png){: width="210"}{: alt="Cycles victoire, les vélos sur mesure"}](http://www.victoire-cycles.com/){:target="_blank"}|[![Villacampat2.png](/uploads/Villacampat2.png){:width="210"}{: alt="Villa campa, fabrication artisanale de skis dans les pyrénées"}](https://www.villacampa-pyrenees.com/){:target="_blank"}|
 
+|[![yogamatata.png](/uploads/yogamatata.png){: width="210"}{: alt="yogamatata, la boutique du tapis de yoga écologique"}](https://www.yogamatata.fr/){:target="_blank"}|[![Infinyfit.png](/uploads/Infinyfit.png){: width="210"}{: alt="Appareil de musculation au poids du corps polyvalent, compact et transportable qui vous suit partout"}](https://www.infinyfit.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 **Beauté**
 
@@ -104,7 +122,9 @@ une-ou-diaporama:
 
 |[![Les_TendancesdEmma.png](/uploads/Les_TendancesdEmma.png){:width="210"}{: alt="Les tendances d'Emma, les produits cosmétiques bio"}](https://www.tendances-emma.fr/){:target="_blank"}|[![formule-beaute.png](/uploads/formule-beaute.png){:width="210"}{: alt="Formule beauté, pour fabriquer soi-même ses produits de beauté naturels & bio"}](https://www.formulebeaute.com/){:target="_blank"}|[![indemne.png](/uploads/indemne.png){:width="210"}{: alt="Indemne, dermo-cosmetics & Aromatherapy"}](https://www.indemne.fr/){:target="_blank"}|
 
-|[![jus.png](/uploads/jus.png){:width="210"}{: alt="Jus, la nouvelle parfumerie francaise"}](https://www.jusparfums.com/fr/){:target="_blank"}|[![oden-0dcdc8.png](/uploads/oden-0dcdc8.png){:width="210"}{: alt="Oden, marque française qui conçoit des huiles végétales pour le visage"}](https://www.oden.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
+|[![jus.png](/uploads/jus.png){:width="210"}{: alt="Jus, la nouvelle parfumerie francaise"}](https://www.jusparfums.com/fr/){:target="_blank"}|[![oden-0dcdc8.png](/uploads/oden-0dcdc8.png){:width="210"}{: alt="Oden, marque française qui conçoit des huiles végétales pour le visage"}](https://www.oden.fr/){:target="_blank"}|[![Ohepo.png](/uploads/Ohepo.png){:width="210"}{: alt="Ohepo, savonnerie artisanale & Produits bio"}](http://www.ohepo.fr/){:target="_blank"}|
+
+|[![lacanopee.png](/uploads/lacanopee.png){:width="210"}{: alt="La canopée, cosmétiques 100% d'origine naturelle et made in France"}](https://www.la-canopee.com/){:target="_blank"}|[![vivrebioetnaturel.png](/uploads/vivrebioetnaturel.png){:width="210"}{: alt="Marque Française de cosmétiques bio"}](https://www.vivre-bio-naturel.fr/fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
 
 
 **Tech**
@@ -123,9 +143,3 @@ une-ou-diaporama:
 |[![reforestaction.png](/uploads/reforestaction.png){: width="210"}{: alt="ReforestAction permet à chacun de planter des arbres sur des projets de reforestation"}](https://reforestaction.com/){:target="_blank"}|[![monpetitcoinvert.png](/uploads/monpetitcoinvert.png){: width="210"}{: alt="Mon petit coin vert, chaque mois une box de jardinage personnalisée"}](https://monpetitcoinvert.com/){:target="_blank"}|[![pépinieresjeanhuchet.png](/uploads/p%C3%A9pinieresjeanhuchet.png){: width="210"}{: alt="Plantes vivaces, arbres fruitiers, bambous et haies pour le jardin."}](https://www.pepinieres-huchet.com/pepiniere/la-pepiniere/animations/){:target="_blank"}|
 
 |[![ungrandmarche.png](/uploads/ungrandmarche.png){: width="210"}{: alt="Dénichez la perle rare parmi des milliers de produits fait-main imaginés et conçus par des créateurs français"}](https://www.ungrandmarche.fr/){:target="_blank"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|![IMGTESTl.png](/uploads/IMGTESTl.png){:width="210"}|
-
-
-> ## Comment vous faire référencer au « Noël des PME » ?
-**Toutes les informations pour vous faire référencer :**
-[Le Noël des PME](https://secretariat-etat.numerique.gouv.fr/noel-pme){: target="_blank" }
-{: .encadre}

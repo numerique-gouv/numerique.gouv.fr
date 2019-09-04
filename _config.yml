@@ -2,6 +2,9 @@
 title: numerique.gouv.fr
 timezone: Europe/Paris
 collections:
+  panda:
+    title: Accompagnement à la circulation des données
+    output: false
   actualites:
     title: Actualités
     output: true
@@ -51,7 +54,6 @@ defaults:
     path: ''
     type: communiques
   values:
-    file: uploads/exemple.pdf
     layout: communique
     categories: 
     chapeau-text: 
@@ -65,6 +67,19 @@ defaults:
       - 01.71.21.11.98
       - 06.84.72.02.00
       email: rachel.wadoux@modernisation.gouv.fr
+    files:
+    - file: 
+      nom: 
+- scope:
+    path: ''
+    type: publications
+  values:
+    date_de_modification: 
+    chapeau-text: 
+    une-ou-diaporama:
+    - image: 
+      legende: 
+      alternative-textuelle: 
 - scope:
     path: ''
     type: evenements
@@ -102,6 +117,7 @@ include:
 - ".htaccess"
 - _pages
 exclude:
+- "/vendor/"
 - "/scripts/"
 - ".DS_Store"
 - ".circleci/"
