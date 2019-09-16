@@ -16,15 +16,14 @@ chapeau-text: "Les services publics en ligne et certains services privés ont **
   et son [décret d’application](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937){:target=\"blank\"}
   actualisé en 2019; le RGAA fait régulièrement l’objet de nouvelles versions et mises
   à jour, pour s’adapter aux évolutions du web mais aussi aux changements de normes
-  et réglementations. \nLa **version 4 du RGAA** a été approuvée par arrêté en septembre
-  2019 [lien à ajouter]. Elle est structurée en **2 parties** :<br>\n* La 1ère partie
-  s’adresse aux juristes, aux managers et à tous les professionnels du web et de l’accessibilité
-  : elle présente les obligations à respecter. \n* La 2ème partie s’adresse aux auditeurs
-  RGAA, elle contient une liste de critères pour vérifier la conformité d’une page
-  web."
+  et réglementations."
 une-ou-diaporama:
 - image: "/uploads/accessibilite-numerique.jpg"
 ---
+
+La **version 4 du RGAA** a été approuvée par arrêté en septembre 2019 [lien à ajouter]. Elle est structurée en **2 parties** :<br>
+* La 1ère partie s’adresse aux juristes, aux managers et à tous les professionnels du web et de l’accessibilité : elle présente les obligations à respecter. 
+* La 2ème partie s’adresse aux auditeurs RGAA, elle contient une liste de critères pour vérifier la conformité d’une page web.
 
 [Référentiel général d’amélioration de l’accessibilité (RGAA), version 4.pdf](/uploads/RGAA-v4.pdf){target:="_blank"}
 [: .lien-important] (PDF 3 Mo)
