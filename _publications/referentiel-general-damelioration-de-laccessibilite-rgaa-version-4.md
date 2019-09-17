@@ -5,10 +5,6 @@ permalink: "/publication/referentiel-general-damelioration-de-laccessibilite-rga
 chapeau-text: La direction interministérielle du numérique et du système d'information
   de l'État (DINSIC) publie la quatrième version du référentiel général d'amélioration
   de l'accessibilité (RGAA, anciennement référentiel général d'accessibilité des administrations).
-files:
-- file: "/uploads/RGAA-v4.pdf"
-  nom: Consulter le référentiel général d’amélioration de l’accessibilité (RGAA) version
-    4
 une:
   image: "/uploads/accessibilite-numerique.jpg"
   alternative-textuelle: L'accessibilité numérique
@@ -25,9 +21,9 @@ La **version 4 du RGAA** a été approuvée par arrêté en septembre 2019 [lien
 
 * La 1ère présente les obligations à respecter : elle s’adresse aux juristes, aux managers et à tous les professionnels du web et de l’accessibilité.
 
-* La 2ème contient une liste de critères pour vérifier la conformité d’une page web: elle s’adresse aux auditeurs RGAA.
+* La 2ème contient une liste de critères pour vérifier la conformité d’une page web : elle s’adresse aux auditeurs RGAA.
 
-> [Consulter le référentiel général d'amélioration de l'accessibilité (RGAA) version 4 (pdf - 3Mo)](/uploads/RGAA-v4-5cde97.pdf)
+> [Consulter le référentiel général d'amélioration de l'accessibilité (RGAA) version 4 (pdf - 3 Mo)](/uploads/RGAA-v4-5cde97.pdf)
 {: .lien-important}
 > [S’inscrire à la liste de discussion RGAA](https://framalistes.org/sympa/subscribe/rgaa){:target="_blank"}
 {: .lien-important}
