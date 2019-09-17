@@ -7,8 +7,7 @@ chapeau-text: La direction interministérielle publie la quatrième version du r
   d'accessibilité des administrations).
 files:
 - file: "/uploads/RGAA-v4.pdf"
-  nom: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4 (PDF
-    3 Mo)
+  nom: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
 une:
   image: "/uploads/accessibilite-numerique.jpg"
   alternative-textuelle: L'accessibilité numérique
