@@ -2,6 +2,7 @@
 title: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
 date: 2019-09-16 15:23:00 +02:00
 permalink: "/publication/referentiel-general-damelioration-de-laccessibilite-rgaa-version-4/"
+published: false
 chapeau-text: La direction interministérielle du numérique et du système d'information
   de l'État (DINSIC) publie la quatrième version du référentiel général d'amélioration
   de l'accessibilité (RGAA, anciennement référentiel général d'accessibilité des administrations).
