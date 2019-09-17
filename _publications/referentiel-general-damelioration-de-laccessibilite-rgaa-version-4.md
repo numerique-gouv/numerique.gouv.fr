@@ -21,7 +21,8 @@ layout: default
 ---
 
 Les services publics en ligne et certains services privés ont **l’obligation d’être accessible de façon équivalente à tout citoyen**, qu’il soit ou non en situation de handicap (visuel, auditif, moteur, trouble dys…). Un **service numérique accessible** est plus facile à utiliser pour les personnes handicapées et de meilleure qualité pour tous. <br>
-Pour faciliter la mise en œuvre de **l’accessibilité numérique**, la **DINSIC** édite le **référentiel général d’amélioration de l’accessibilité – RGAA**. Le référentiel a été créé en 2009 pour mettre en œuvre [l’article 47 de la loi handicap de 2005](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000037388867&cidTexte=LEGITEXT000006051257){:target="blank"} et son [décret d’application](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937){:target="blank"} actualisé en 2019. Il fait régulièrement l’objet de nouvelles versions et mises à jour, pour s’adapter aux évolutions du Web mais aussi aux changements de normes et réglementations.
+
+Pour faciliter la mise en œuvre de **l’accessibilité numérique**, la **DINSIC** édite le **référentiel général d’amélioration de l’accessibilité – RGAA**. Le référentiel a été créé en 2009 pour mettre en œuvre [l’article 47 de la loi handicap de 2005](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000037388867&cidTexte=LEGITEXT000006051257){target="new"} et son [décret d’application](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937){target="new"} actualisé en 2019. Il fait régulièrement l’objet de nouvelles versions et mises à jour, pour s’adapter aux évolutions du Web mais aussi aux changements de normes et réglementations.
 
 La **version 4 du RGAA** a été approuvée par arrêté en septembre 2019 [lien à ajouter]. Elle est structurée en **2 parties** :
 
@@ -29,5 +30,6 @@ La **version 4 du RGAA** a été approuvée par arrêté en septembre 2019 [lien
 
 * La 2ème partie s’adresse aux auditeurs RGAA, elle contient une liste de critères pour vérifier la conformité d’une page web.
 
+[Référentiel général d’amélioration de l’accessibilité (RGAA) version 4](/uploads/RGAA-v4.pdf)
 
-[S’inscrire à la liste de discussion RGAA](https://framalistes.org/sympa/subscribe/rgaa){target:="_blank"}
+[S’inscrire à la liste de discussion RGAA](https://framalistes.org/sympa/subscribe/rgaa){target="new"}
