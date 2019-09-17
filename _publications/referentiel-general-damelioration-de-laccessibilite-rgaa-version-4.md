@@ -1,5 +1,4 @@
 ---
-layout: dix-principes
 title: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
 date: 2019-09-16 15:23:00 +02:00
 permalink: "/publication/referentiel-general-damelioration-de-laccessibilite-rgaa-version-4/"
@@ -8,16 +7,17 @@ categories:
 tags:
 - Accessibilité
 - RGAA
+layout: dix-principes
 chapeau-text: La direction interministérielle publie la quatrième version du référentiel
   général d'amélioration de l'accessibilité (RGAA, anciennement Référentiel général
   d'accessibilité des administrations).
 une:
 - image: "/uploads/accessibilite-numerique.jpg"
-  alternative-textuel: "L'accessibilité numérique"
+  alternative-textuel: L'accessibilité numérique
 files:
 - file: "/uploads/RGAA-v4.pdf"
-  nom: "Référentiel général d’amélioration de l’accessibilité (RGAA) version 4"
-  size: "3MO"
+  nom: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
+  size: 3MO
 ---
 
 Les services publics en ligne et certains services privés ont **l’obligation d’être accessible de façon équivalente à tout citoyen**, qu’il soit ou non en situation de handicap (visuel, auditif, moteur, trouble dys…). Un **service numérique accessible** est plus facile à utiliser pour les personnes handicapées et de meilleure qualité pour tous. <br>
