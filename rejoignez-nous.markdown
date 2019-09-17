@@ -33,9 +33,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 * [**Responsable du projet plateformes d’échange de données inter-administrations (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=9097f70f-1b1c-48a1-94f0-a7066529d973&offerid=234234 "Responsable du projet plateformes d’échange de données inter-administrations (F/H) - Télécharger le pdf") (pdf - 417 ko)
 <br>Cadre/Catégorie A
-
-* [**Chargé/chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=aadb5631-f300-4a0a-9d2d-752b6f05fe12&offerid=211009 "Chargé/chargée de mission numérique et territoires - Télécharger le pdf") (pdf - 360 ko)
-<br>Cadre/Catégorie A
 <br>
 <br>
 
