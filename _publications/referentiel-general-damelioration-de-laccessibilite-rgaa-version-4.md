@@ -11,12 +11,7 @@ une:
   alternative-textuelle: "L'accessibilité numérique"
 files:
 - file: "/uploads/RGAA-v4.pdf"
-<<<<<<< HEAD
-  nom: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
-  size: 3MO
-=======
   nom: "Référentiel général d’amélioration de l’accessibilité (RGAA) version 4"
->>>>>>> Update
 ---
 
 Les services publics en ligne et certains services privés ont **l’obligation d’être accessible de façon équivalente à tout citoyen**, qu’il soit ou non en situation de handicap (visuel, auditif, moteur, trouble dys…). Un **service numérique accessible** est plus facile à utiliser pour les personnes handicapées et de meilleure qualité pour tous. <br>
