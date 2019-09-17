@@ -27,7 +27,7 @@ La **version 4 du RGAA** a été approuvée par arrêté en septembre 2019 [lien
 
 * La 2ème contient une liste de critères pour vérifier la conformité d’une page web: elle s’adresse aux auditeurs RGAA.
 
-[Consulter le référentiel général d'amélioration de l'accessibilité (RGAA) version 4 (pdf - 3Mo)](/uploads/RGAA-v4-5cde97.pdf)
+> [Consulter le référentiel général d'amélioration de l'accessibilité (RGAA) version 4 (pdf - 3Mo)](/uploads/RGAA-v4-5cde97.pdf)
 [: texte-centre]
 > [S’inscrire à la liste de discussion RGAA](https://framalistes.org/sympa/subscribe/rgaa){:target="_blank"}
 {: .lien-important}
