@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
 date: 2019-09-16 15:23:00 +02:00
 permalink: "/publication/referentiel-general-damelioration-de-laccessibilite-rgaa-version-4/"
@@ -11,12 +12,23 @@ layout: dix-principes
 chapeau-text: La direction interministérielle publie la quatrième version du référentiel
   général d'amélioration de l'accessibilité (RGAA, anciennement Référentiel général
   d'accessibilité des administrations).
+=======
+layout: rgaa
+title: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
+date: 2019-09-16 15:23:00 +02:00
+permalink: "/publication/referentiel-general-damelioration-de-laccessibilite-rgaa-version-4/"
+chapeau-text: "La direction interministérielle publie la quatrième version du référentiel général d'amélioration de l'accessibilité (RGAA, anciennement Référentiel général d'accessibilité des administrations)."
+>>>>>>> Correction d'erreur et mise en forme
 une:
 - image: "/uploads/accessibilite-numerique.jpg"
   alternative-textuel: L'accessibilité numérique
 files:
 - file: "/uploads/RGAA-v4.pdf"
+<<<<<<< HEAD
   nom: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
+=======
+  nom: "Référentiel général d’amélioration de l’accessibilité (RGAA) version 4"
+>>>>>>> Correction d'erreur et mise en forme
   size: 3MO
 ---
 
