@@ -6,21 +6,12 @@ layout: rgaa
 chapeau-text: La direction interministérielle publie la quatrième version du référentiel
   général d'amélioration de l'accessibilité (RGAA, anciennement Référentiel général
   d'accessibilité des administrations).
-<<<<<<< HEAD
-une:
-- image: "/uploads/accessibilite-numerique.jpg"
-  alternative-textuelle: L'accessibilité numérique
-files:
-- file: "/uploads/RGAA-v4.pdf"
-  nom: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
-=======
 files:
 - file: "/uploads/RGAA-v4.pdf"
   nom: "Référentiel général d’amélioration de l’accessibilité (RGAA) version 4"
 une:
   image: /uploads/accessibilite-numerique.jpg
   alternative-textuelle: "L'accessibilité numérique"
->>>>>>> Fix image link
 ---
 
   <!-- alternative-textuelle: "L'accessibilité numérique" -->
