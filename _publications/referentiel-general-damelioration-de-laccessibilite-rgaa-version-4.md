@@ -17,7 +17,6 @@ file:
   Key: S’inscrire à la liste de discussion RGAA
   file: "/uploads/RGAA-v4.pdf"
   link: https://framalistes.org/sympa/subscribe/rgaa
-layout: default
 ---
 
 Les services publics en ligne et certains services privés ont **l’obligation d’être accessible de façon équivalente à tout citoyen**, qu’il soit ou non en situation de handicap (visuel, auditif, moteur, trouble dys…). Un **service numérique accessible** est plus facile à utiliser pour les personnes handicapées et de meilleure qualité pour tous. <br>
