@@ -8,10 +8,10 @@ chapeau-text: La direction interministérielle publie la quatrième version du r
   d'accessibilité des administrations).
 une:
 - image: "/uploads/accessibilite-numerique.jpg"
-  alternative-textuelle: "L'accessibilité numérique"
+  alternative-textuelle: L'accessibilité numérique
 files:
 - file: "/uploads/RGAA-v4.pdf"
-  nom: "Référentiel général d’amélioration de l’accessibilité (RGAA) version 4"
+  nom: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
 ---
 
 Les services publics en ligne et certains services privés ont **l’obligation d’être accessible de façon équivalente à tout citoyen**, qu’il soit ou non en situation de handicap (visuel, auditif, moteur, trouble dys…). Un **service numérique accessible** est plus facile à utiliser pour les personnes handicapées et de meilleure qualité pour tous. <br>
