@@ -4,7 +4,7 @@ date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 29 août 2019
+date_de_modification: 17 septembre 2019
 layout: page-annexe
 ---
 
@@ -28,13 +28,13 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chef/cheffe de mission « Label »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=bd767761-2dc4-4cbc-998c-85516fd7bafa&offerid=261722 "Chef/cheffe de mission "Label" - Télécharger le pdf") (pdf - 400 ko)
+<br>Cadre/Catégorie A+, A
+
 * [**Directeur/directrice de projets interministériels**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=ff650cab-c7d8-457d-aeb0-db83ed3edb63&offerid=229025 "Directeur/directrice de projets interministériels - Télécharger le pdf") (pdf - 400 ko)
 <br>Cadre supérieur/Catégorie A+
 
 * [**Responsable du projet plateformes d’échange de données inter-administrations (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=9097f70f-1b1c-48a1-94f0-a7066529d973&offerid=234234 "Responsable du projet plateformes d’échange de données inter-administrations (F/H) - Télécharger le pdf") (pdf - 417 ko)
-<br>Cadre/Catégorie A
-
-* [**Chargé/chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=aadb5631-f300-4a0a-9d2d-752b6f05fe12&offerid=211009 "Chargé/chargée de mission numérique et territoires - Télécharger le pdf") (pdf - 360 ko)
 <br>Cadre/Catégorie A
 <br>
 <br>
