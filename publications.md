@@ -29,6 +29,10 @@ publications:
   url: "/publications/principes-mutualisation-si-etat/"
   une-ou-diaporama:
   - image: "/uploads/principes-mutualisation-si.JPG"
+- title: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
+  url: "/publication/referentiel-general-damelioration-de-laccessibilite-rgaa-version-4/ "
+  une-ou-diaporama:
+  - image: "/uploads/accessibilite-numerique.jpg"
 layout: publications
 ---
 
