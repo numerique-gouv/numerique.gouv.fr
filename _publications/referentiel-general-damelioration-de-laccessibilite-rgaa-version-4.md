@@ -7,7 +7,8 @@ chapeau-text: La direction interministérielle du numérique et du système d'in
   de l'accessibilité (RGAA, anciennement référentiel général d'accessibilité des administrations).
 files:
 - file: "/uploads/RGAA-v4.pdf"
-  nom: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
+  nom: Consulter le référentiel général d’amélioration de l’accessibilité (RGAA) version
+    4
 une:
   image: "/uploads/accessibilite-numerique.jpg"
   alternative-textuelle: L'accessibilité numérique
