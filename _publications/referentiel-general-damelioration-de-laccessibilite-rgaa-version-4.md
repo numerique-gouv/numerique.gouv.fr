@@ -28,4 +28,4 @@ La **version 4 du RGAA** a été approuvée par arrêté en septembre 2019 [lien
 * La 2ème partie s’adresse aux auditeurs RGAA: elle contient une liste de critères pour vérifier la conformité d’une page web.
 
 [S’inscrire à la liste de discussion RGAA](https://framalistes.org/sympa/subscribe/rgaa){:target="_blank"}
-[: .lien-important]
+{: .lien-important}
