@@ -23,9 +23,9 @@ Pour faciliter la mise en œuvre de **l’accessibilité numérique**, la **DINS
 
 La **version 4 du RGAA** a été approuvée par arrêté en septembre 2019 [lien à ajouter]. Elle est structurée en **2 parties** :
 
-* La 1ère partie s’adresse aux juristes, aux managers et à tous les professionnels du web et de l’accessibilité : elle présente les obligations à respecter.
+* La 1ère présente les obligations à respecter : elle s’adresse aux juristes, aux managers et à tous les professionnels du web et de l’accessibilité.
 
-* La 2ème partie s’adresse aux auditeurs RGAA: elle contient une liste de critères pour vérifier la conformité d’une page web.
+* La 2ème contient une liste de critères pour vérifier la conformité d’une page web: elle s’adresse aux auditeurs RGAA.
 
 [Consulter le référentiel général d'amélioration de l'accessibilité (RGAA) version 4 (pdf - 3Mo)](/uploads/RGAA-v4-5cde97.pdf)
 [: texte-centre]
