@@ -24,9 +24,9 @@ Pour faciliter la mise en œuvre de **l’accessibilité numérique**, la **DINS
 
 La **version 4 du RGAA** est arrêtée conjointement par le ministre chargé des personnes handicapées et le ministre chargé du numérique. Elle est structurée en **2 parties** :
 
-* La première présente les obligations à respecter : elle s’adresse aux juristes, aux managers et à tous les professionnels du web et de l’accessibilité.
+* La première présente les **obligations** à respecter : elle s’adresse aux juristes, aux managers et à tous les professionnels du web et de l’accessibilité.
 
-* La deuxième contient une liste de critères pour vérifier la conformité d’une page web : elle s’adresse aux auditeurs RGAA.
+* La deuxième contient une liste de **critères** pour vérifier la conformité d’une page web : elle s’adresse aux auditeurs RGAA.
 <br>
 <br>
 *Ce document, mis en ligne pour information, entrera en vigueur après publication de l'arrêté susmentionné qui aura lieu au début de la semaine prochaine.* 
