@@ -18,7 +18,7 @@ Le RGAA est un outil qui facilite la mise en conformité des services numérique
 Le RGAA se fonde sur des lois et des standards internationaux qui eux-mêmes évoluent. Il s’est donc adapté au fil du temps. Cette nouvelle mise à jour s’appuie sur :
 * [l’article 47 de la loi handicap](https://www.legifrance.gouv.fr/affichTexteArticle.do?cidTexte=JORFTEXT000000809647&idArticle=LEGIARTI000006682279&dateTexte=&categorieLien=cid){:target="_blank"} de 2005 mise à jour en 2018 
 * le [décret Accessibilité numérique du 24 juillet 2019](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937&categorieLien=id){:target="_blank"}
-* la norme internationale WCAG ou règles pour l’accessibilité des contenus web *(- en anglais : “Web content accessibility guidelines (WCAG)” - élaborées par l’organisme de standardisation du web (W3C). Elles font référence sur le plan international. Le RGAA permet de tester le respect de ces règles. -*  mise à jour en 2018.
+* la [norme internationale WCAG](https://www.w3.org/TR/WCAG21/){:target="_blank"} ou règles pour l’accessibilité des contenus web *(- en anglais : “Web content accessibility guidelines (WCAG)” - élaborées par l’organisme de standardisation du web (W3C). Elles font référence sur le plan international. Le RGAA permet de tester le respect de ces règles. -*  mise à jour en 2018.
 * [la norme européenne, EN 301 549 V2.1.2 (2018-08) (Pdf 1,85Mo)](/uploads/en_301549v020102p.pdf)
 
 
@@ -73,3 +73,13 @@ En plus des sites internet, les obligations de mise aux normes s’appliquent au
  * Si vos **sites internet, intranet ou extranet n’existaient pas avant la date d’entrée en vigueur de la directive européenne  (2018) :** ils doivent être  accessibles le **23 septembre 2019**. 
  * Si vos **sites internet, intranet ou extranet existaient avant l’entrée en vigueur de cette directive :** ils devront être accessibles au plus tard le **23 septembre 2020.** 
 * Les **applications mobiles**, les **progiciels**, le **mobilier urbain numérique** devront être accessible en **juin 2021**.
+
+> 
+> #### Quelques pistes pour intégrer l’accessibilité dans un projet web
+> Le RGAA est un outil qui permet de vérifier le respect des obligations d’accessibilité. Mais, intégrer l’accessibilité à toutes les étapes d’un projet numérique nécessite d’autres leviers d’actions, comme par exemple : 
+> * S’assurer que les designers web et les développeurs sont formés à l’accessibilité numérique et fabriquent des **interfaces accessibles « by design ».**
+> * Sensibiliser les parties prenantes aux enjeux de l’accessibilité numérique, en vous inspirant par exemple des [démonstrations d’accessibilité Web et mobile](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html){:target="_blank"}, organisées par les **entrepreneurs d’intérêt général.**
+> * Intégrer des personnes handicapées dans les tests usager.
+> * Appliquer et diffuser les critères de qualité de la [**checklist Pidila**](https://pidila.gitlab.io/checklist-pidila/){:target="_blank"} mise à disposition des administrations par la direction de l’information légale et administrative (DILA) ainsi que les [**10 principes d’une démarche exemplaire**](https://www.numerique.gouv.fr/publications/dix-principes/){:target="_blank"} publiés par la **DINSIC**.
+> * Faire appel à des experts en accessibilité à certaines étapes du projet.
+{: .encadre}
