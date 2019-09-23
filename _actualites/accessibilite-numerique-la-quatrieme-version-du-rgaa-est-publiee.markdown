@@ -37,4 +37,10 @@ Dans sa première partie, le nouveau RGAA explicite aussi les conditions d’app
 
 Pour plus de clarté, cette version du RGAA a également vu son contenu simplifié. Dans le respect de son **caractère réglementaire**, et pour plus de précision, elle contient uniquement les **critères obligatoires** d’accessibilité auxquels sont soumis les  services numériques. Ce n’était pas le cas des versions précédentes. Cependant, afin d’encourager les initiatives allant au-delà de la loi et dans le sens d’une plus grande accessibilité, **les critères non obligatoires** des normes internationales feront l’objet d’un autre **document à caractère informatif**.
 
-
+> 
+> ####que contient le RGAA ? 
+> 
+> Le RGAA est un **document opérationnel** destiné aux administrations et à certains acteurs privés, qui permet de connaître ses obligations d’accessibilité et de vérifier leur bonne mise en pratique.<br>
+> Il est constitué de deux parties :  
+> 1. La première détaille les **obligations à respecter**. Elle s’adresse aux décideurs, juristes, managers, directions de la communication,  responsables de la politique du handicap, ainsi qu’à tous les professionnels du web et de l’accessibilité.
+> 2.La deuxième définit la **liste des critères de contrôle et des tests** qui permettent de **vérifier** la conformité d’une page web avec la norme de référence. Elle s’adresse aux auditeurs RGAA et a été réalisée de façon collaborative, avec notamment une [consultation publique](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/){:target="_blank"} en juin 2019, associant des experts des secteurs public et privé.
