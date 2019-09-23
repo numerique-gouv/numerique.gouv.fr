@@ -15,6 +15,8 @@ chapeau-text: 10 ans après la création officielle du **RGAA - référentiel g�
   élargi à de nouveaux acteurs et supports.
 une-ou-diaporama:
 - image: "/uploads/accessibilite-numerique.jpg"
+  alternative-textuelle: 'Accessibilité numérique : la quatrième version du RGAA est
+    publiée !'
 ---
 
 La DINSIC publie la quatrième version du [RGAA](https://numerique.gouv.fr/publications/rgaa-accessibilite/){:target="_blank"} – référentiel général d’amélioration de l’accessibilité – (anciennement référentiel général d’accessibilité des administrations) 10 ans après sa première édition officielle en 2009. Sa partie technique a été réalisée avec la participation d’experts et professionnels de l’accessibilité. Elle a ensuite fait l’objet d’une [consultation publique en ligne](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/){:target="_blank"}, en juin 2019.
