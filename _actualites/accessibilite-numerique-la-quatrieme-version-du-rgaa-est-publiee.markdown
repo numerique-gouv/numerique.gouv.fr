@@ -50,3 +50,26 @@ Pour plus de clarté, cette version du RGAA a également vu son contenu simplifi
 > <br>
 > *Un exemple de critère ?* Le [critère WCAG .2.5.2](https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html){:target="_blank"} (contenu dans la nouvelle version de la norme internationale WCAG 2.1) qui fixe comme objectif l’annulation d’une action non désirée. En effet, les personnes en situation de handicap peuvent déclencher involontairement des actions en touchant leur écran tactile ou en cliquant avec la souris.
 {: .encadre}
+
+#### Vos services numériques sont-ils soumis aux obligations d’accessibilité ? 
+
+Applicable aux sites internet des administrations d’État (2011) et des collectivités territoriales (2012), la nouvelle version du RGAA s’étend désormais aux services numériques de certains **acteurs privés.** Pour refléter l’élargissement de son champ d’action, le RGAA a été rebaptisé **référentiel général d’amélioration de l’accessibilité.** 
+<br>
+*Qui est concerné ?*
+<br>
+**Vos services numériques sont soumis aux exigences d’accessibilité si vous êtes :**  
+* une entité privée chargée d’une mission de service public ou d’intérêt général ;
+* une entité privée réalisant un chiffre d’affaire annuel en France de 250 millions d’euros et plus. 
+<br>
+*Quels supports sont concernés ?*
+<br>
+En plus des sites internet, les obligations de mise aux normes s’appliquent aux sites **intranet et extranet**, ainsi qu’aux **progiciels, applications mobiles et mobilier urbain numériques**, comme par exemple les distributeurs de titres de transport. 
+
+#### Dans quels délais  faut-il appliquer la nouvelle réglementation ?  
+
+* **Si vous êtes une administration :** vous  êtes **déjà assujettie à l’obligation d’accessibilité pour vos sites internet**. En revanche, vous devez mettre à jours vos obligations déclaratives et actualiser votre audit pour tenir compte des nouveaux critères.<br>
+**Attention :** si votre site existait déjà à la date d’entrée en vigueur de la directive européenne (2018), alors vous n’êtes pas concernée par les exemptions temporaires du décret. Ainsi, par exemple, vos  vidéos doivent respecter les critères d’accessibilité.  Vos intranet et extranet devront être rendus accessibles dans les mêmes délais que ceux des organismes de droit privé. 
+* **Si vous êtes un organisme de droit privé** :
+ * Si vos **sites internet, intranet ou extranet n’existaient pas avant la date d’entrée en vigueur de la directive européenne  (2018) :** ils doivent être  accessibles le **23 septembre 2019**. 
+ * Si vos **sites internet, intranet ou extranet existaient avant l’entrée en vigueur de cette directive :** ils devront être accessibles au plus tard le **23 septembre 2020.** 
+* Les **applications mobiles**, les **progiciels**, le **mobilier urbain numérique** devront être accessible en **juin 2021**.
