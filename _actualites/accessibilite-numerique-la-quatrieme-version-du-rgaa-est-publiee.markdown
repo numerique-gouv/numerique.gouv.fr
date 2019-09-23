@@ -13,7 +13,7 @@ La DINSIC publie la quatrième version du [RGAA](https://numerique.gouv.fr/publi
 <br>
 Le RGAA est un outil qui facilite la mise en conformité des services numériques avec les obligations d’accessibilité prévus par la loi. En effet, les services publics en ligne et certains services privés ont l’obligation d’être accessibles de façon équivalente à tout citoyen, qu’il soit ou non en situation de handicap.
 
-####Pourquoi le RGAA évolue-t-il ?
+#### Pourquoi le RGAA évolue-t-il ?
 
 Le RGAA se fonde sur des lois et des standards internationaux qui eux-mêmes évoluent. Il s’est donc adapté au fil du temps. Cette nouvelle mise à jour s’appuie sur :
 * [l’article 47 de la loi handicap](https://www.legifrance.gouv.fr/affichTexteArticle.do?cidTexte=JORFTEXT000000809647&idArticle=LEGIARTI000006682279&dateTexte=&categorieLien=cid){:target="_blank"} de 2005 mise à jour en 2018 
@@ -22,7 +22,7 @@ Le RGAA se fonde sur des lois et des standards internationaux qui eux-mêmes év
 *[la norme européenne, EN 301 549 V2.1.2 (2018-08) (Pdf 1,85Mo)](/uploads/en_301549v020102p.pdf)
 
 
-####Que contient cette nouvelle version ? 
+#### Que contient cette nouvelle version ? 
 Les textes ont **renforcé les obligations relatives à l’accessibilité**, en imposant par exemple de rendre compte de **l’état d’accessibilité** d’un service numérique, ainsi que de la politique menée en la matière. Ces nouvelles obligations sont détaillées dans la première partie du référentiel et elles imposent, sous peine de sanctions financières, de publier en ligne : 
 
 * une **déclaration d’accessibilité** pour chaque service numérique ;
@@ -38,7 +38,7 @@ Dans sa première partie, le nouveau RGAA explicite aussi les conditions d’app
 Pour plus de clarté, cette version du RGAA a également vu son contenu simplifié. Dans le respect de son **caractère réglementaire**, et pour plus de précision, elle contient uniquement les **critères obligatoires** d’accessibilité auxquels sont soumis les  services numériques. Ce n’était pas le cas des versions précédentes. Cependant, afin d’encourager les initiatives allant au-delà de la loi et dans le sens d’une plus grande accessibilité, **les critères non obligatoires** des normes internationales feront l’objet d’un autre **document à caractère informatif**.
 
 > 
-> ####que contient le RGAA ? 
+> #### que contient le RGAA ? 
 > 
 > Le RGAA est un **document opérationnel** destiné aux administrations et à certains acteurs privés, qui permet de connaître ses obligations d’accessibilité et de vérifier leur bonne mise en pratique.<br>
 > Il est constitué de deux parties :  
