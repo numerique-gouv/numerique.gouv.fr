@@ -72,10 +72,10 @@ Applicable aux sites internet des administrations d’État (2011) et des collec
 <br>
 **Vos services numériques sont soumis aux exigences d’accessibilité si vous êtes :**  
 * une entité privée chargée d’une mission de service public ou d’intérêt général ;
-* une entité privée réalisant un chiffre d’affaire annuel en France de 250 millions d’euros et plus. 
+* une entité privée réalisant un chiffre d’affaire annuel en France de 250 millions d’euros et plus.
 <br>
 <br>
-*Quels supports sont concernés ?*
+*Quels supports sont concernés ?* 
 <br>
 <br>
 En plus des sites internet, les obligations de mise aux normes s’appliquent aux sites **intranet et extranet**, ainsi qu’aux **progiciels, applications mobiles et mobilier urbain numériques**, comme par exemple les distributeurs de titres de transport. 
