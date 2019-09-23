@@ -20,3 +20,21 @@ Le RGAA se fonde sur des lois et des standards internationaux qui eux-mêmes év
 * le [décret Accessibilité numérique du 24 juillet 2019](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937&categorieLien=id){:target="_blank"}
 * la norme internationale WCAG ou règles pour l’accessibilité des contenus web *(- en anglais : “Web content accessibility guidelines (WCAG)” - élaborées par l’organisme de standardisation du web (W3C). Elles font référence sur le plan international. Le RGAA permet de tester le respect de ces règles. -*  mise à jour en 2018.
 *[la norme européenne, EN 301 549 V2.1.2 (2018-08) (Pdf 1,85Mo)](/uploads/en_301549v020102p.pdf)
+
+
+####Que contient cette nouvelle version ? 
+Les textes ont **renforcé les obligations relatives à l’accessibilité**, en imposant par exemple de rendre compte de **l’état d’accessibilité** d’un service numérique, ainsi que de la politique menée en la matière. Ces nouvelles obligations sont détaillées dans la première partie du référentiel et elles imposent, sous peine de sanctions financières, de publier en ligne : 
+
+* une **déclaration d’accessibilité** pour chaque service numérique ;
+* un **schéma pluriannuel de mise en accessibilité** sur 3 ans. Décliné en plan annuel, il détaille les actions prévues par une organisation pour progresser vers une accessibilité complète ;
+* une **mention en page d’accueil de l’état d’accessibilité** du service numérique.
+
+Dans sa première partie, le nouveau RGAA explicite aussi les conditions d’application d’une dérogation dans le cas où la mise aux normes de certains contenus précis occasionnerait **une charge disproportionnée**. Attention, il ne s’agit pas d’offrir à certains la possibilité d’échapper à leurs obligations, c’est pourquoi **la dérogation doit :** 
+
+* être accompagnée d’alternatives accessibles ; 
+* être justifiée ;
+* être invoquée sans préjudice des obligations relatives à l’aménagement raisonnable.
+
+Pour plus de clarté, cette version du RGAA a également vu son contenu simplifié. Dans le respect de son **caractère réglementaire**, et pour plus de précision, elle contient uniquement les **critères obligatoires** d’accessibilité auxquels sont soumis les  services numériques. Ce n’était pas le cas des versions précédentes. Cependant, afin d’encourager les initiatives allant au-delà de la loi et dans le sens d’une plus grande accessibilité, **les critères non obligatoires** des normes internationales feront l’objet d’un autre **document à caractère informatif**.
+
+
