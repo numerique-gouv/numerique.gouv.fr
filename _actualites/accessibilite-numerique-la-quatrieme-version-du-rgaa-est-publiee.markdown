@@ -44,3 +44,6 @@ Pour plus de clarté, cette version du RGAA a également vu son contenu simplifi
 > Il est constitué de deux parties :  
 > 1. La première détaille les **obligations à respecter**. Elle s’adresse aux décideurs, juristes, managers, directions de la communication,  responsables de la politique du handicap, ainsi qu’à tous les professionnels du web et de l’accessibilité.
 > 2.La deuxième définit la **liste des critères de contrôle et des tests** qui permettent de **vérifier** la conformité d’une page web avec la norme de référence. Elle s’adresse aux auditeurs RGAA et a été réalisée de façon collaborative, avec notamment une [consultation publique](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/){:target="_blank"} en juin 2019, associant des experts des secteurs public et privé.
+> <br>
+> *Un exemple de critère ?* Le [critère WCAG .2.5.2](https://www.w3.org/WAI/WCAG21/Understanding/pointer-cancellation.html){:target="_blank"} (contenu dans la nouvelle version de la norme internationale WCAG 2.1) qui fixe comme objectif l’annulation d’une action non désirée. En effet, les personnes en situation de handicap peuvent déclencher involontairement des actions en touchant leur écran tactile ou en cliquant avec la souris.
+{: .encadre}
