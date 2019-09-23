@@ -73,8 +73,7 @@ Applicable aux sites internet des administrations d’État (2011) et des collec
 **Vos services numériques sont soumis aux exigences d’accessibilité si vous êtes :**  
 * une entité privée chargée d’une mission de service public ou d’intérêt général ;
 * une entité privée réalisant un chiffre d’affaire annuel en France de 250 millions d’euros et plus.
-<br>
-<br>
+
 *Quels supports sont concernés ?* 
 <br>
 <br>
