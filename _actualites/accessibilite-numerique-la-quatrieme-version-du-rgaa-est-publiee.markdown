@@ -54,6 +54,7 @@ Pour plus de clarté, cette version du RGAA a également vu son contenu simplifi
 > <br>
 > Il est constitué de deux parties : 
 > <br> 
+> <br>
 > 1. La première détaille les **obligations à respecter**. Elle s’adresse aux décideurs, juristes, managers, directions de la communication,  responsables de la politique du handicap, ainsi qu’à tous les professionnels du web et de l’accessibilité.<br>
 > 2.La deuxième définit la **liste des critères de contrôle et des tests** qui permettent de **vérifier** la conformité d’une page web avec la norme de référence. Elle s’adresse aux auditeurs RGAA et a été réalisée de façon collaborative, avec notamment une [consultation publique](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/){:target="_blank"} en juin 2019, associant des experts des secteurs public et privé.
 > <br>
@@ -86,6 +87,7 @@ En plus des sites internet, les obligations de mise aux normes s’appliquent au
 
 > 
 > #### Quelques pistes pour intégrer l’accessibilité dans un projet web
+> <br>
 > Le RGAA est un outil qui permet de vérifier le respect des obligations d’accessibilité. Mais, intégrer l’accessibilité à toutes les étapes d’un projet numérique nécessite d’autres leviers d’actions, comme par exemple : 
 > * S’assurer que les designers web et les développeurs sont formés à l’accessibilité numérique et fabriquent des **interfaces accessibles « by design ».**
 > * Sensibiliser les parties prenantes aux enjeux de l’accessibilité numérique, en vous inspirant par exemple des [démonstrations d’accessibilité Web et mobile](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html){:target="_blank"}, organisées par les **entrepreneurs d’intérêt général.**
