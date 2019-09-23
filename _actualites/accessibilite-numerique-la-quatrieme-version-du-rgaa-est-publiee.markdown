@@ -66,13 +66,17 @@ Pour plus de clarté, cette version du RGAA a également vu son contenu simplifi
 
 Applicable aux sites internet des administrations d’État (2011) et des collectivités territoriales (2012), la nouvelle version du RGAA s’étend désormais aux services numériques de certains **acteurs privés.** Pour refléter l’élargissement de son champ d’action, le RGAA a été rebaptisé **référentiel général d’amélioration de l’accessibilité.** 
 <br>
+<br>
 *Qui est concerné ?*
+<br>
 <br>
 **Vos services numériques sont soumis aux exigences d’accessibilité si vous êtes :**  
 * une entité privée chargée d’une mission de service public ou d’intérêt général ;
 * une entité privée réalisant un chiffre d’affaire annuel en France de 250 millions d’euros et plus. 
 <br>
+<br>
 *Quels supports sont concernés ?*
+<br>
 <br>
 En plus des sites internet, les obligations de mise aux normes s’appliquent aux sites **intranet et extranet**, ainsi qu’aux **progiciels, applications mobiles et mobilier urbain numériques**, comme par exemple les distributeurs de titres de transport. 
 
