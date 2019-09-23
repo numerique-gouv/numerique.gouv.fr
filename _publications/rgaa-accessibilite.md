@@ -23,14 +23,13 @@ Les services publics numériques et certains services privés ont **l’obligati
 
 Pour faciliter la mise en œuvre de **l’accessibilité numérique**, la **DINSIC** édite depuis 2009 le **référentiel général d’amélioration de l’accessibilité – RGAA**, créé  pour mettre en œuvre [l’article 47 de la loi handicap de 2005](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000037388867&cidTexte=LEGITEXT000006051257){:target="_blank"} et son [décret d’application](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937){:target="_blank"} actualisé en 2019. Il fait régulièrement l’objet de nouvelles versions et mises à jour pour s’adapter aux évolutions du Web mais aussi aux changements de normes et réglementations.
 
-La **version 4 du RGAA** est arrêtée conjointement par la ministre chargée des personnes handicapées et le ministre chargé du numérique. Elle est structurée en **2 parties** :
+La **version 4 du RGAA** a été arrêtée conjointement par la ministre chargée des personnes handicapées et le ministre chargé du numérique le 20 septembre 2019. Elle est structurée en **2 parties** :
 
 * La première présente les **obligations** à respecter : elle s’adresse aux juristes, aux managers et à tous les professionnels du web et de l’accessibilité.
 
 * La deuxième contient une liste de **critères** pour vérifier la conformité d’une page web : elle s’adresse aux auditeurs RGAA.
 <br>
 <br>
-*Ce document, mis en ligne pour information, entrera en vigueur après publication de l'arrêté susmentionné qui aura lieu au début de la semaine prochaine.* 
 
 > [Consulter le référentiel général d'amélioration de l'accessibilité (RGAA) version 4.0 (pdf - 3 Mo)](/uploads/RGAA-v4.0.pdf)
 {: .lien-important}
