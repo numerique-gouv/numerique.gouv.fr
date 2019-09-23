@@ -92,6 +92,7 @@ En plus des **sites internet,** les obligations de mise aux normes s’appliquen
 > 
 > #### Quelques pistes pour intégrer l’accessibilité dans un projet web
 > <br>
+> <br>
 > Le RGAA est un outil qui permet de vérifier le respect des obligations d’accessibilité. Mais, intégrer l’accessibilité à toutes les étapes d’un projet numérique nécessite d’autres leviers d’actions, comme par exemple : 
 > * S’assurer que les designers web et les développeurs sont formés à l’accessibilité numérique et fabriquent des **interfaces accessibles « by design ».**
 > * Sensibiliser les parties prenantes aux enjeux de l’accessibilité numérique, en vous inspirant par exemple des [démonstrations d’accessibilité Web et mobile](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html){:target="_blank"}, organisées par les **entrepreneurs d’intérêt général.**
