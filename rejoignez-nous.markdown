@@ -4,7 +4,7 @@ date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 17 septembre 2019
+date_de_modification: 24 septembre 2019
 layout: page-annexe
 ---
 
@@ -41,9 +41,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Développeur/développeuse Fullstack NodeJS « FranceConnect »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=297b040f-0380-4ab5-807a-ba9965c731e2&offerid=180298 "Développeur/développeuse Fullstack NodeJS FranceConnect - Télécharger le pdf") (pdf - 380 ko)
-<br>Cadre/Catégorie A
-
 * [**Responsable produit « FranceConnect » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=12f9bab9-55d4-429e-b14c-b1625eaa122b&offerid=236696 "Responsable produit FranceConnect - Télécharger le pdf") (pdf - 380 ko)
 <br>Cadre/Catégorie A
 
@@ -67,7 +64,11 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 #### **SI/Réseau/Sécurité**
-{: .margin-top-4 .margin-bottom-1} 
+{: .margin-top-4 .margin-bottom-1}
+* [**Chargé/chargée de mission « production » du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=51645668-f9ef-4b26-a23a-3090c4d51315&offerid=255120 "Chargé/chargée de mission « production » du réseau interministériel de l'État - Télécharger le pdf") (pdf - 755 ko)
+<br>Catégorie A (cadre) , B
+<br>Poste localisé en Auvergne-Rhône-Alpes (Rhône, 69)
+ 
 * [**Chargé/chargée de mission sécurité web**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=bcda4fbf-aa82-443d-808f-23fa0377e407&offerid=235665 "Chargé/chargée de mission sécurité web - Télécharger le pdf") (pdf - 380 ko)
 <br>Cadre/Catégorie A
 
