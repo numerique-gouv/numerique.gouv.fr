@@ -31,7 +31,8 @@ La **version 4 du RGAA** a été arrêtée conjointement par la ministre chargé
 <br>
 <br>
 
-> [Consulter le référentiel général d'amélioration de l'accessibilité (RGAA) version 4.0 (pdf - 3 Mo)](/uploads/RGAA-v4.0.pdf)
+> [Consulter le référentiel général d'amélioration de l'accessibilité (RGAA) version 4.0 au format PDF (3 Mo)](/uploads/RGAA-v4.0.pdf)
 {: .lien-important}
+> [Consulter le référentiel général d'amélioration de l'accessibilité (RGAA) version 4.0 au format ODT (odt - 261 Ko)](/uploads/RGAA-v4.0.odt)
 > [S’inscrire à la liste de discussion RGAA](https://framalistes.org/sympa/subscribe/rgaa){:target="_blank"}
 {: .lien-important}
