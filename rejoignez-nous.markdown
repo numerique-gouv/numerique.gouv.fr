@@ -65,8 +65,8 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
-* [**Chargé/chargée de mission « production » du réseau interministériel de l'État **](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=51645668-f9ef-4b26-a23a-3090c4d51315&offerid=255120 "Chargé/chargée de mission « production » du réseau interministériel de l'État - Télécharger le pdf") (pdf - 755 ko)
-<br>Catégorie A (cadre), B
+* [**Chargé/chargée de mission « production » du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=51645668-f9ef-4b26-a23a-3090c4d51315&offerid=255120 "Chargé/chargée de mission « production » du réseau interministériel de l'État - Télécharger le pdf") (pdf - 755 ko)
+<br>Catégorie A (cadre) , B
 <br>Poste localisé en Auvergne-Rhône-Alpes (Rhône, 69)
  
 * [**Chargé/chargée de mission sécurité web**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=bcda4fbf-aa82-443d-808f-23fa0377e407&offerid=235665 "Chargé/chargée de mission sécurité web - Télécharger le pdf") (pdf - 380 ko)
