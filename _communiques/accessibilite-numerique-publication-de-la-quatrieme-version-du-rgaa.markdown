@@ -10,7 +10,7 @@ une-ou-diaporama:
 - image: "/uploads/accessibilite-numerique.jpg"
 files:
 - file: "/uploads/CP_RGAA_version_4.pdf"
-  nom: Consultez la quatrième version du RGAA
+  nom: Téléchargez le communiqué de presse
 ---
 
 La **direction interministérielle du numérique** (DINSIC) publie la [quatrième version du RGAA](https://numerique.gouv.fr/uploads/RGAA-v4.0.pdf){:target="_blank"}, **le référentiel général d’amélioration de l’accessibilité** (anciennement référentiel général des administrations), validée par arrêté le **20 septembre 2019.**
