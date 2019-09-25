@@ -9,7 +9,7 @@ chapeau-text: L’État lance TECH.GOUV, le nouveau programme pour accélérer l
   Découvrez la stratégie et la feuille de route 2019-2021 du programme.
 une-ou-diaporama:
 - image: "/uploads/Article_TECHGOUV.jpg"
-layout: default
+layout: rgaa
 ---
 
 > **Avec TECH.GOUV, l’État se dote d’un programme ambitieux pour accélérer la transformation numérique du service public.**
