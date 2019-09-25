@@ -5,7 +5,8 @@ une:
   image: "/assets/img/main/image_liste_actualites_2.jpg"
   alternative-textuelle: les actualites
 publications:
-- title: 'TECH.GOUV : stratégie et feuille de route 2019-2021'
+- title: 'TECH.GOUV : accélérer la transformation numérique du service public - Stratégie
+    et feuille de route 2019-2021'
   url: "/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/"
   une-ou-diaporama:
   - image: "/uploads/Article_TECHGOUV.jpg"
