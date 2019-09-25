@@ -7,7 +7,7 @@ chapeau-text: L’État lance TECH.GOUV, le nouveau programme pour accélérer l
   numérique du service public, piloté par la DINSIC avec l’appui de tous les ministères.
   Découvrez la stratégie et la feuille de route 2019-2021 du programme.
 une-ou-diaporama:
-- image: "/uploads/Publication_TECHGOUV.jpg"
+- image: "/uploads/Publication_TECHGOUV_une.jpg"
 layout: rgaa
 ---
 
