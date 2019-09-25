@@ -70,9 +70,12 @@ Le numérique peut et doit être source d’économies. À ce titre, c’est un 
 La mise en place de partenariats ouverts et d’alliances avec des acteurs publics et privés de confiance permet de démultiplier les capacités de l’État à produire et à proposer de nouveaux services publics en phase avec les attentes de la société civile. Ce principe de co-construction démultiplie la capacité d’innovation de l’Etat et permet de développer des services numériques à valeur ajoutée tout en renforçant la proximité avec les usagers.
 <br>
 <br>
+
 > Avec TECH.GOUV nous disposons du programme qu’il nous faut pour amorcer ce virage et réussir la transformation numérique du service public.
 {: .citation}
-> Cédric O, secrétaire d’État au Numérique
+
+> Cédric O
+> <br>Secrétaire d’État au Numérique
 {: .auteur-citation}
 
 
