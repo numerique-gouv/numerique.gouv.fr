@@ -1,6 +1,5 @@
 ---
-title: "TECH.GOUV : accélérer la transformation numérique\ndu service public \n- Stratégie
-  et feuille de route 2019-2021"
+title: 'TECH.GOUV : Stratégie et feuille de route 2019-2021'
 date: 2019-09-25 17:51:00 +02:00
 position: 0
 chapeau-text: L’État lance TECH.GOUV, le nouveau programme pour accélérer la transformation
