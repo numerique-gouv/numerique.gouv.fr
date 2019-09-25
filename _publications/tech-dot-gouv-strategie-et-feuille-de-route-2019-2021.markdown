@@ -1,6 +1,7 @@
 ---
 title: 'TECH.GOUV : stratégie et feuille de route 2019-2021'
 date: 2019-09-25 17:51:00 +02:00
+position: 0
 chapeau-text: L’État lance TECH.GOUV, le nouveau programme pour accélérer la transformation
   numérique du service public, piloté par la DINSIC avec l’appui de tous les ministères.
   Découvrez la stratégie et la feuille de route 2019-2021 du programme.
