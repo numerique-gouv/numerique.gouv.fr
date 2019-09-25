@@ -19,7 +19,7 @@ layout: rgaa
 > Cette stratégie répond à six enjeux clairement identifiés **— simplification, inclusion, attractivité, maîtrise, économies, alliances —** qui doivent mobiliser l’ensemble des parties prenantes à un service public de qualité, à savoir l’État, les collectivités territoriales et leurs opérateurs. 
 > <br>
 > <br>
-> Il s’agit de concevoir et mettre en œuvre  des projets numériques réalistes et utiles, en phase avec les attentes et les besoins des citoyens, des entreprises et des agents publics. Ces projets doivent permettre de **développer de **nouveaux usages et méthodes de travail**.
+> Il s’agit de concevoir et mettre en œuvre  des projets numériques réalistes et utiles, en phase avec les attentes et les besoins des citoyens, des entreprises et des agents publics. Ces projets doivent permettre de **développer de nouveaux usages et méthodes de travail**.
 > <br>
 > <br>
 Nous n’ignorons rien des contraintes avec lesquelles il va nous falloir composer : la contrainte budgétaire bien évidemment ; la contrainte technique, car l’État doit recouvrer une meilleure maîtrise de son environnement numérique ; la contrainte humaine enfin, car la guerre des compétences fait rage dans les métiers dont nous avons besoin pour réaliser notre feuille de route. Pour les surmonter, les directions numériques des ministères devront allier leurs forces et travailler de concert au succès de cette initiative.
