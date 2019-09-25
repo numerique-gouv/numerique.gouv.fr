@@ -74,7 +74,7 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 > Avec TECH.GOUV nous disposons du programme qu’il nous faut pour amorcer ce virage et réussir la transformation numérique du service public.
 {: .citation}
 
-> Cédric O
+> **Cédric O**
 > <br>Secrétaire d’État au Numérique
 {: .auteur-citation}
 
