@@ -25,9 +25,6 @@ layout: rgaa
 Nous n’ignorons rien des contraintes avec lesquelles il va nous falloir composer : la contrainte budgétaire bien évidemment ; la contrainte technique, car l’État doit recouvrer une meilleure maîtrise de son environnement numérique ; la contrainte humaine enfin, car la guerre des compétences fait rage dans les métiers dont nous avons besoin pour réaliser notre feuille de route. Pour les surmonter, les directions numériques des ministères devront allier leurs forces et travailler de concert au succès de cette initiative.
 > <br>
 > <br>
-> Nous n’ignorons rien des contraintes avec lesquelles il va nous falloir composer : la contrainte budgétaire bien évidemment ; la contrainte technique, car l’État doit recouvrer la maîtrise de son environnement numérique ; la contrainte humaine enfin, car la guerre des compétences fait rage dans les métiers dont nous avons besoin pour suivre notre feuille de route.
-> <br>
-> <br>
 > Le plan d’action TECH.GOUV, pragmatique et ambitieux, nos méthodes de travail et de pilotage, agiles et ouvertes, ainsi que la mobilisation de tous les talents qui nous composent et nous accompagnent vont permettre, j’en suis convaincu, de réussir ce programme et de **replacer la France dans le peloton de tête des États numériques**.
 {: .citation}
 
