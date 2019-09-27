@@ -106,6 +106,7 @@ S’il est **créé à compter du 1er octobre 2019, **il doit s’y conformer d�
 > ### Mettre en pratique l’accessibilité numérique au quotidien 
 >
 > Le RGAA est un document de référence indispensable mais il n’a pas vocation à être utilisé directement par les équipes en charge de projets web et services numériques. Pour elles, voici quelques leviers pour les aider à mettre en œuvre et améliorer la prise en compte de l’accessibilité au quotidien :
+>
 > * S’assurer que les graphistes web, UX et UI designers, les développeurs ainsi que les producteurs de contenus sont formés à l’accessibilité numérique et fabriquent des **interfaces et contenus accessibles.**
 > * **Sensibiliser les parties prenantes** aux enjeux de l’accessibilité numérique, en vous inspirant par exemple [des démonstrations d’accessibilité web et mobile,](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html){:target="_blank"} organisées par la DINSIC et ses Entrepreneurs d’intérêt général. 
 > * **Intégrer des personnes handicapées** dans les tests usagers.
