@@ -69,19 +69,19 @@ Néanmoins, il est non seulement possible mais aussi souhaitable, pour une inclu
 > * les **obligations à respecter.** Cette première partie s’adresse aux décideurs, juristes, managers, responsables de la politique du handicap, ainsi qu’à tous les professionnels du web et de l’accessibilité.
 > * la **liste des critères de contrôle et des tests,** qui permettent de vérifier la conformité d’une page web avec la norme de référence. Ce 2e volet s’adresse aux auditeurs RGAA internes ou prestataires externes. 
 {: .encadre}
-<br>
-> ### Le RGAA en 3 questions
+
+## Le RGAA en 3 questions
 {: .text-center}
 
-### Vos services numériques sont-ils soumis aux obligations d’accessibilité ? 
+#### **Vos services numériques sont-ils soumis aux obligations d’accessibilité ?** 
 
 Jusqu’à ce jour, le RGAA s’appliquait aux administrations d’État et aux collectivités territoriales. La nouvelle version s’étend désormais aux organismes privés chargés d’une mission de service public ou d’intérêt général, ainsi qu’à toute entreprise réalisant un chiffre d’affaires annuel en France de 250 millions d’euros et plus.
 
-### Quels supports sont concernés ? 
+#### **Quels supports sont concernés ?** 
 
 Ces organismes publics et privés doivent mettre aux normes d’accessibilité leurs supports numériques de tout type : sites **internet** (d’information ou de services),  sites **intranet et extranet, progiciels, applications mobiles et mobilier urbain numérique** (comme les distributeurs de titres de transport).
 
-### Dans quels délais faut-il appliquer les nouvelles obligations ?
+#### **Dans quels délais faut-il appliquer les nouvelles obligations ?**
 
 **Les organismes publics ou privés chargé d’une mission de service public** doivent respecter les délais suivants :
 
