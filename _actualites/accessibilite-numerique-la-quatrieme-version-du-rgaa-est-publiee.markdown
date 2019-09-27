@@ -84,17 +84,18 @@ Ces organismes publics et privés doivent mettre aux normes d’accessibilité l
 
 #### **Dans quels délais faut-il appliquer les nouvelles obligations ?**
 
-**Les organismes publics ou privés chargé d’une mission de service public** doivent respecter les délais suivants :
+Les organismes publics ou privés chargé d’une mission de service public doivent respecter les délais suivants :
 
 * **Pour un site internet, intranet ou extranet :**
-S’il a été **créé avant le 23 septembre 2018,** date d’entrée en vigueur de la directive européenne, vous avez **jusqu’en septembre 2020** pour vous conformer aux nouvelles obligations.
-S’il a été **créé depuis le 23 septembre 2018,** il doit s’y conformer **dès maintenant.**
-* **Pour une application mobile, un progiciel et le mobilier urbain numérique :** vous devrez respecter les nouvelles exigences d’accessibilité en **juin 2021.**
+<br> S’il a été créé avant le 23 septembre 2018, date d’entrée en vigueur de la directive européenne, vous avez jusqu’en septembre 2020 pour vous conformer aux nouvelles obligations.
+<br> S’il a été créé depuis le 23 septembre 2018, il doit s’y conformer dès maintenant.
+* **Pour une application mobile, un progiciel et le mobilier urbain numérique :** vous devrez respecter les nouvelles exigences d’accessibilité en juin 2021.
 
 **Les entreprises réalisant un chiffre d’affaires de 250 millions d’euros ou plus en France** doivent quant à elles :
 
-* **Pour un site internet, intranet ou extranet :** S’il a été **créé avant le 1er octobre 2019,** vous avez **jusqu’au 1er octobre 2020** pour vous conformer aux nouvelles obligations.
-S’il est **créé à compter du 1er octobre 2019, **il doit s’y conformer dès sa création.**
+* **Pour un site internet, intranet ou extranet :
+<br> S’il a été créé avant le 1er octobre 2019, vous avez jusqu’au 1er octobre 2020 pour vous conformer aux nouvelles obligations.
+<br> S’il est créé à compter du 1er octobre 2019, il doit s’y conformer dès sa création.
 * **Pour une application mobile, un progiciel et le mobilier urbain numérique :** vous avez jusqu’au 1er juillet 2021
 
 <br>
