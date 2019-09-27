@@ -74,7 +74,7 @@ Néanmoins, il est non seulement possible mais aussi souhaitable, pour une inclu
 {: .encadre}
 <br>
 <br>
->## Le RGAA en 3 questions
+> ## Le RGAA en 3 questions
 {: .text-center}
 
 ### **Vos services numériques sont-ils soumis aux obligations d’accessibilité ?** 
