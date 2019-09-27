@@ -24,7 +24,7 @@ Piloté par la direction interministérielle du numérique et du système d’in
 
 [> Lire l’arrêté portant création du RGAA v4 paru ce samedi 21 septembre](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039120412&categorieLien=id){:target="_blank"}
 
-> [Consulter le RGAA v4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/){:target="_blank"}
+> [Consulter le RGAA v4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
 {: .lien-important}
 
 > ### Une élaboration collective
@@ -34,8 +34,7 @@ Piloté par la direction interministérielle du numérique et du système d’in
 >
 > [> En savoir plus sur la méthode d’élaboration de cette v4](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/){:target="_blank"}
 {: .encadre}
-<br>
-<br>
+
 ### Une mise à jour nécessaire
 
 Les obligations légales, tout comme les standards internationaux d’accessibilité, sur lesquels se fonde le RGAA, évoluent régulièrement et nécessitent des mises à jour du référentiel. Plus précisément, cette 4e version prend ainsi en compte :
@@ -59,12 +58,13 @@ Pour cette nouvelle version du RGAA, les contenus du référentiel ont été res
 
 Néanmoins, il est non seulement possible mais aussi souhaitable, pour une inclusion toujours plus forte, d’aller au-delà de ces exigences légales. Afin d’encourager les éditeurs de services numériques en ce sens, la DINSIC publiera dans les semaines qui viennent **un document séparé listant les critères non obligatoires** issus des normes internationales.
 
-> [Consulter le RGAA v4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/){:target="_blank"}
+> [Consulter le RGAA v4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
 {: .lien-important}
 
 > ### Que contient le RGAA v4 ? 
 > Le RGAA est un **document opérationnel** et réglementaire destiné aux administrations et à certains acteurs privés, qui permet de connaître les obligations d’accessibilité et de vérifier leur bonne mise en pratique.
 > Il est constitué de deux parties :
+> <br>
 > <br>
 > * les **obligations à respecter.** Cette première partie s’adresse aux décideurs, juristes, managers, responsables de la politique du handicap, ainsi qu’à tous les professionnels du web et de l’accessibilité.
 > * la **liste des critères de contrôle et des tests,** qui permettent de vérifier la conformité d’une page web avec la norme de référence. Ce 2e volet s’adresse aux auditeurs RGAA internes ou prestataires externes. 
