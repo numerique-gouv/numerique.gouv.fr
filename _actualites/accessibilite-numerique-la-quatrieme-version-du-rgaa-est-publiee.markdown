@@ -22,7 +22,7 @@ La vocation de ce référentiel, elle, reste inchangée : faire en sorte que les
 
 Piloté par la direction interministérielle du numérique et du système d’information et de communication (DINSIC), le document détaille ainsi les obligations auxquelles ces acteurs doivent se conformer et en facilite l’application, grâce à des critères de contrôle et des tests.
 
-* > [Lire l’arrêté portant création du RGAA v4 paru ce samedi 21 septembre](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039120412&categorieLien=id){:target="_blank"}
+[> Lire l’arrêté portant création du RGAA v4 paru ce samedi 21 septembre](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039120412&categorieLien=id){:target="_blank"}
 
 > [Consulter le RGAA v4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/){:target="_blank"}
 {: .lien-important}
@@ -33,7 +33,7 @@ Piloté par la direction interministérielle du numérique et du système d’in
 > Orchestrée par la DINSIC, la révision du référentiel s’est faite de façon collaborative : pendant plusieurs mois, une consultation en ligne a réuni experts et professionnels du web et de l’accessibilité autour de propositions d’ajouts, de modifications ou de suppression de critères et de tests. Les participants ont pu voter, commenter, débattre, et publier leurs propres propositions.
 > Cette première mouture a ensuite été soumise à une [consultation publique en ligne](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/){:target="_blank"}, en juin 2019, avant d’être consolidée en fonction des retours. 
 >
-> * > [En savoir plus sur la méthode d’élaboration de cette v4](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/){:target="_blank"}
+> [> En savoir plus sur la méthode d’élaboration de cette v4](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/){:target="_blank"}
 {: .encadre}
 <br>
 <br>
