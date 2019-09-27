@@ -84,7 +84,7 @@ Ces organismes publics et privés doivent mettre aux normes d’accessibilité l
 
 #### **Dans quels délais faut-il appliquer les nouvelles obligations ?**
 
-Les organismes publics ou privés chargé d’une mission de service public doivent respecter les délais suivants :
+**Les organismes publics ou privés chargé d’une mission de service public** doivent respecter les délais suivants :
 
 * **Pour un site internet, intranet ou extranet :**
 <br> S’il a été créé avant le 23 septembre 2018, date d’entrée en vigueur de la directive européenne, vous avez jusqu’en septembre 2020 pour vous conformer aux nouvelles obligations.
