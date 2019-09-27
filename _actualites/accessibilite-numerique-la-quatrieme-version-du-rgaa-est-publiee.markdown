@@ -34,6 +34,7 @@ Piloté par la direction interministérielle du numérique et du système d’in
 >
 > Orchestrée par la DINSIC, la révision du référentiel s’est faite de façon collaborative : pendant plusieurs mois, une consultation en ligne a réuni experts et professionnels du web et de l’accessibilité autour de propositions d’ajouts, de modifications ou de suppression de critères et de tests. Les participants ont pu voter, commenter, débattre, et publier leurs propres propositions.
 > Cette première mouture a ensuite été soumise à une [consultation publique en ligne](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/){:target="_blank"}, en juin 2019, avant d’être consolidée en fonction des retours. 
+>
 > > [En savoir plus sur la méthode d’élaboration de cette v4](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/){:target="_blank"}
 {: .encadre}
 <br>
@@ -42,7 +43,7 @@ Piloté par la direction interministérielle du numérique et du système d’in
 
 Les obligations légales, tout comme les standards internationaux d’accessibilité, sur lesquels se fonde le RGAA, évoluent régulièrement et nécessitent des mises à jour du référentiel. Plus précisément, cette 4e version prend ainsi en compte :
 
-* la mise à jour 2018 de **l’[article 47 de la loi pour l’égalité des droits et des chances](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001290363&cidTexte=JORFTEXT000000809647&categorieLien=id)** de 2005 (« loi handicap »){:target="_blank"}
+* la mise à jour 2018 de **l’[article 47 de la loi pour l’égalité des droits et des chances](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001290363&cidTexte=JORFTEXT000000809647&categorieLien=id){:target="_blank"}** de 2005 (« loi handicap »)
 * **le [décret Accessibilité numérique](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937){:target="_blank"} du 24 juillet 2019** (qui, avec l’article 47 de la loi handicap, transpose [la directive européenne](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016L2102&from=FR){:target="_blank"} relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public)
 * **les évolutions 2018 de [la norme internationale WCAG](https://www.w3.org/TR/WCAG21/){:target="_blank"},** c’est-à-dire les règles pour l’accessibilité des contenus web *(en anglais « web content accessibility guidelines »),* élaborées par l’organisme de standardisation du web (W3C).
 * **la révision 2018 de la [norme européenne en matière d’accessibilité des produits et services TIC](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf){:target="_blank"}** (EN 301 549 V2.1.2 – pdf, en anglais).
