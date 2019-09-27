@@ -13,7 +13,7 @@ chapeau-text: '10 ans après la création du RGAA - le référentiel général d
   est aussi renforcé de nouvelles obligations et son champ d’application élargi à
   certains acteurs privés et à d’autres supports. '
 une-ou-diaporama:
-- image: "/uploads/RGAA-v4.0.odt"
+- image: "/uploads/accessibilite-numerique.jpg"
   alternative-textuelle: 'Accessibilité numérique : la quatrième version du RGAA est
     publiée !'
 ---
