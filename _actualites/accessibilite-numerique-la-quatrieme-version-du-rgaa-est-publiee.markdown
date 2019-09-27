@@ -66,8 +66,8 @@ Néanmoins, il est non seulement possible mais aussi souhaitable, pour une inclu
 > Le RGAA est un **document opérationnel** et réglementaire destiné aux administrations et à certains acteurs privés, qui permet de connaître les obligations d’accessibilité et de vérifier leur bonne mise en pratique.
 > Il est constitué de deux parties :
 > <br>
-> 1. les **obligations à respecter.** Cette première partie s’adresse aux décideurs, juristes, managers, responsables de la politique du handicap, ainsi qu’à tous les professionnels du web et de l’accessibilité.
-> 2. la **liste des critères de contrôle et des tests,** qui permettent de vérifier la conformité d’une page web avec la norme de référence. Ce 2e volet s’adresse aux auditeurs RGAA internes ou prestataires externes. 
+> * les **obligations à respecter.** Cette première partie s’adresse aux décideurs, juristes, managers, responsables de la politique du handicap, ainsi qu’à tous les professionnels du web et de l’accessibilité.
+> * la **liste des critères de contrôle et des tests,** qui permettent de vérifier la conformité d’une page web avec la norme de référence. Ce 2e volet s’adresse aux auditeurs RGAA internes ou prestataires externes. 
 {: .encadre}
 <br>
 > ### Le RGAA en 3 questions
