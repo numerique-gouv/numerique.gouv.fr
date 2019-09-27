@@ -22,7 +22,7 @@ La vocation de ce référentiel, elle, reste inchangée : faire en sorte que les
 
 Piloté par la direction interministérielle du numérique et du système d’information et de communication (DINSIC), le document détaille ainsi les obligations auxquelles ces acteurs doivent se conformer et en facilite l’application, grâce à des critères de contrôle et des tests.
 
-[> Lire l’arrêté portant création du RGAA v4 paru ce samedi 21 septembre](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039120412&categorieLien=id){:target="_blank"}
+[> Lire l’arrêté portant création du RGAA v4 paru ce samedi 21 septembre](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039120412&categorieLien=id)
 
 > [Consulter le RGAA v4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
 {: .lien-important}
@@ -30,20 +30,20 @@ Piloté par la direction interministérielle du numérique et du système d’in
 > ### Une élaboration collective
 >
 > Orchestrée par la DINSIC, la révision du référentiel s’est faite de façon collaborative : pendant plusieurs mois, une consultation en ligne a réuni experts et professionnels du web et de l’accessibilité autour de propositions d’ajouts, de modifications ou de suppression de critères et de tests. Les participants ont pu voter, commenter, débattre, et publier leurs propres propositions.
-> Cette première mouture a ensuite été soumise à une [consultation publique en ligne](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/){:target="_blank"}, en juin 2019, avant d’être consolidée en fonction des retours. 
+> Cette première mouture a ensuite été soumise à une [consultation publique en ligne](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/), en juin 2019, avant d’être consolidée en fonction des retours. 
 > <br>
 > <br>
-> [> En savoir plus sur la méthode d’élaboration de cette v4](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/){:target="_blank"}
+> [> En savoir plus sur la méthode d’élaboration de cette v4](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/)
 {: .encadre}
 
 ### Une mise à jour nécessaire
 
 Les obligations légales, tout comme les standards internationaux d’accessibilité, sur lesquels se fonde le RGAA, évoluent régulièrement et nécessitent des mises à jour du référentiel. Plus précisément, cette 4e version prend ainsi en compte :
 
-* la mise à jour 2018 de **l’[article 47 de la loi pour l’égalité des droits et des chances](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001290363&cidTexte=JORFTEXT000000809647&categorieLien=id){:target="_blank"}** de 2005 (« loi handicap »)
-* **le [décret Accessibilité numérique](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937){:target="_blank"} du 24 juillet 2019** (qui, avec l’article 47 de la loi handicap, transpose [la directive européenne](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016L2102&from=FR){:target="_blank"} relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public)
-* **les évolutions 2018 de [la norme internationale WCAG](https://www.w3.org/TR/WCAG21/){:target="_blank"},** c’est-à-dire les règles pour l’accessibilité des contenus web *(en anglais « web content accessibility guidelines »),* élaborées par l’organisme de standardisation du web (W3C).
-* **la révision 2018 de la [norme européenne en matière d’accessibilité des produits et services TIC](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf){:target="_blank"}** (EN 301 549 V2.1.2 – pdf, en anglais).
+* la mise à jour 2018 de **l’[article 47 de la loi pour l’égalité des droits et des chances](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001290363&cidTexte=JORFTEXT000000809647&categorieLien=id)** de 2005 (« loi handicap »)
+* **le [décret Accessibilité numérique](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937) du 24 juillet 2019** (qui, avec l’article 47 de la loi handicap, transpose [la directive européenne](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016L2102&from=FR) relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public)
+* **les évolutions 2018 de [la norme internationale WCAG](https://www.w3.org/TR/WCAG21/),** c’est-à-dire les règles pour l’accessibilité des contenus web (en anglais *« web content accessibility guidelines »*), élaborées par l’organisme de standardisation du web (W3C).
+* **la révision 2018 de la [norme européenne en matière d’accessibilité des produits et services TIC](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf)** (EN 301 549 V2.1.2 – pdf, en anglais).
 <br>
 ### Des obligations renforcées
 
@@ -51,7 +51,7 @@ Ces textes ont **renforcé les obligations en matière d’accessibilité,** exi
 
 Autre nouveauté, il est désormais imposé de rendre compte en ligne du **niveau d’accessibilité** d’un service numérique, ainsi que de la politique menée dans le domaine, sous peine de sanctions financières.
 
-Une dérogation est possible pour certains contenus précis dont la mise aux normes occasionnerait **une charge disproportionnée.** Cette dérogation reste exceptionnelle et s’assortit de conditions : une alternative pour accéder aux contenus concernés doit par exemple être fournie pour ne pas pénaliser les personnes en situation de handicap. Elle ne dispense pas non plus d’autres obligations légales vis-à-vis de ces personnes, par exemple l’obligation d’ [« aménagement raisonnable »](https://www.defenseurdesdroits.fr/fr/guides/guide-amenagement-raisonnable){:target="_blank"} incombant aux employeurs.
+Une dérogation est possible pour certains contenus précis dont la mise aux normes occasionnerait **une charge disproportionnée.** Cette dérogation reste exceptionnelle et s’assortit de conditions : une alternative pour accéder aux contenus concernés doit par exemple être fournie pour ne pas pénaliser les personnes en situation de handicap. Elle ne dispense pas non plus d’autres obligations légales vis-à-vis de ces personnes, par exemple l’obligation d’ [« aménagement raisonnable »](https://www.defenseurdesdroits.fr/fr/guides/guide-amenagement-raisonnable) incombant aux employeurs.
 
 ### Plus de clarté
 
@@ -104,10 +104,10 @@ S’il est **créé à compter du 1er octobre 2019, **il doit s’y conformer d�
 > Le RGAA est un document de référence indispensable mais il n’a pas vocation à être utilisé directement par les équipes en charge de projets web et services numériques. Pour elles, voici quelques leviers pour les aider à mettre en œuvre et améliorer la prise en compte de l’accessibilité au quotidien :
 >
 > * S’assurer que les graphistes web, UX et UI designers, les développeurs ainsi que les producteurs de contenus sont formés à l’accessibilité numérique et fabriquent des **interfaces et contenus accessibles.**
-> * **Sensibiliser les parties prenantes** aux enjeux de l’accessibilité numérique, en vous inspirant par exemple [des démonstrations d’accessibilité web et mobile,](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html){:target="_blank"} organisées par la DINSIC et ses Entrepreneurs d’intérêt général. 
+> * **Sensibiliser les parties prenantes** aux enjeux de l’accessibilité numérique, en vous inspirant par exemple [des démonstrations d’accessibilité web et mobile,](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html) organisées par la DINSIC et ses Entrepreneurs d’intérêt général. 
 > * **Intégrer des personnes handicapées** dans les tests usagers.
-> * **Utiliser [la checklist Pidila,](https://pidila.gitlab.io/checklist-pidila/){:target="_blank"}** qui regroupe les critères des différents référentiels (elle sera mise à jour d’ici mi-octobre avec ceux du RGAA v4) et bonnes pratiques du web, très pratique pour gérer et vérifier la qualité de vos sites. Un outil mis à disposition par la direction de l’information légale et administrative (DILA). 
-> * **Appliquer et diffuser les [10 principes d’une démarche en ligne exemplaire](https://www.numerique.gouv.fr/publications/dix-principes/){:target="_blank"}** publiés par la DINSIC.
+> * **Utiliser [la checklist Pidila,](https://pidila.gitlab.io/checklist-pidila/)** qui regroupe les critères des différents référentiels (elle sera mise à jour d’ici mi-octobre avec ceux du RGAA v4) et bonnes pratiques du web, très pratique pour gérer et vérifier la qualité de vos sites. Un outil mis à disposition par la direction de l’information légale et administrative (DILA). 
+> * **Appliquer et diffuser les [10 principes d’une démarche en ligne exemplaire](https://www.numerique.gouv.fr/publications/dix-principes/)** publiés par la DINSIC.
 > * **Faire appel à des experts en accessibilité** à certaines étapes du projet par exemple pour contrôler un prototype ou des maquettes graphiques, le livrable d’un prestataire, le code html et bien sûr pour réaliser ou actualiser l’audit RGAA nécessaire à la déclaration d’accessibilité que vous devez publier en ligne.
 {: .encadre}
  
