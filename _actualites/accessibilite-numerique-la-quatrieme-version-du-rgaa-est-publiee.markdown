@@ -74,7 +74,6 @@ Néanmoins, il est non seulement possible mais aussi souhaitable, pour une inclu
 > 2. la **liste des critères de contrôle et des tests,** qui permettent de vérifier la conformité d’une page web avec la norme de référence. Ce 2e volet s’adresse aux auditeurs RGAA internes ou prestataires externes. 
 {: .encadre}
 <br>
-<br>
 > ## Le RGAA en 3 questions
 {: .text-center}
 
