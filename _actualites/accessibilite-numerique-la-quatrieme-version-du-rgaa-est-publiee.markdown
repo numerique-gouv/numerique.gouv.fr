@@ -13,7 +13,7 @@ chapeau-text: '10 ans après la création du RGAA - le référentiel général d
   est aussi renforcé de nouvelles obligations et son champ d’application élargi à
   certains acteurs privés et à d’autres supports. '
 une-ou-diaporama:
-- image: "/uploads/accessibilite-numerique.jpg"
+- image: "/uploads/RGAA-v4.0.odt"
   alternative-textuelle: 'Accessibilité numérique : la quatrième version du RGAA est
     publiée !'
 ---
@@ -68,7 +68,8 @@ Néanmoins, il est non seulement possible mais aussi souhaitable, pour une inclu
 <br>
 > ### Que contient le RGAA v4 ? 
 > Le RGAA est un **document opérationnel** et réglementaire destiné aux administrations et à certains acteurs privés, qui permet de connaître les obligations d’accessibilité et de vérifier leur bonne mise en pratique.
-> Il est constitué de deux parties :  
+> Il est constitué de deux parties :
+>  
 > 1. les **obligations à respecter.** Cette première partie s’adresse aux décideurs, juristes, managers, responsables de la politique du handicap, ainsi qu’à tous les professionnels du web et de l’accessibilité.
 > 2. la **liste des critères de contrôle et des tests,** qui permettent de vérifier la conformité d’une page web avec la norme de référence. Ce 2e volet s’adresse aux auditeurs RGAA internes ou prestataires externes. 
 {: .encadre}
