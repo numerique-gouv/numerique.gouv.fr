@@ -54,7 +54,7 @@ Ces textes ont **renforcé les obligations en matière d’accessibilité,** exi
 
 Autre nouveauté, il est désormais imposé de rendre compte en ligne du **niveau d’accessibilité** d’un service numérique, ainsi que de la politique menée dans le domaine, sous peine de sanctions financières.
 
-Une dérogation est possible pour certains contenus précis dont la mise aux normes occasionnerait **une charge disproportionnée.** Cette dérogation reste exceptionnelle et s’assortit de conditions : une alternative pour accéder aux contenus concernés doit par exemple être fournie pour ne pas pénaliser les personnes en situation de handicap. Elle ne dispense pas non plus d’autres obligations légales vis-à-vis de ces personnes, par exemple l’obligation d’[« aménagement raisonnable »](https://www.defenseurdesdroits.fr/fr/guides/guide-amenagement-raisonnable){:target="_blank"} incombant aux employeurs.
+Une dérogation est possible pour certains contenus précis dont la mise aux normes occasionnerait **une charge disproportionnée.** Cette dérogation reste exceptionnelle et s’assortit de conditions : une alternative pour accéder aux contenus concernés doit par exemple être fournie pour ne pas pénaliser les personnes en situation de handicap. Elle ne dispense pas non plus d’autres obligations légales vis-à-vis de ces personnes, par exemple l’obligation d’ [« aménagement raisonnable »](https://www.defenseurdesdroits.fr/fr/guides/guide-amenagement-raisonnable){:target="_blank"} incombant aux employeurs.
 
 ### Plus de clarté
 
