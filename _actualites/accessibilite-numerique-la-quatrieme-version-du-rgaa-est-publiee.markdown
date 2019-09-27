@@ -14,8 +14,6 @@ chapeau-text: '10 ans après la création du RGAA - le référentiel général d
   certains acteurs privés et à d’autres supports. '
 une-ou-diaporama:
 - image: "/uploads/accessibilite-numerique.jpg"
-  alternative-textuelle: 'Accessibilité numérique : la quatrième version du RGAA est
-    publiée !'
 ---
 
 Pour son dixième anniversaire, le RGAA – le référentiel général d’accessibilité des administrations – fait peau neuve. A cette occasion, il change de nom pour devenir le **référentiel général d’amélioration de l’accessibilité** (le sigle reste le même), car désormais il ne s’adresse plus seulement aux administrations, mais aussi à certains acteurs privés (détaillés plus loin), nouveauté notable de cette 4e version.
