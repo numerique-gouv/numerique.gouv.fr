@@ -98,10 +98,11 @@ S’il a été **créé depuis le 23 septembre 2018,** il doit s’y conformer *
 
 * **Pour un site internet, intranet ou extranet :**
 S’il a été **créé avant le 1er octobre 2019,** vous avez **jusqu’au 1er octobre 2020** pour vous conformer aux nouvelles obligations.
-S’il est **créé à compter du 1er octobre 2019,** il doit s’y conformer **dès sa création.**
+S’il est **créé à compter du 1er octobre 2019, **il doit s’y conformer dès sa création.**
 * **Pour une application mobile, un progiciel et le mobilier urbain numérique :** vous avez jusqu’au 1er juillet 2021
 <br>
 <br>
+>
 > ### Mettre en pratique l’accessibilité numérique au quotidien 
 >
 > Le RGAA est un document de référence indispensable mais il n’a pas vocation à être utilisé directement par les équipes en charge de projets web et services numériques. Pour elles, voici quelques leviers pour les aider à mettre en œuvre et améliorer la prise en compte de l’accessibilité au quotidien :
