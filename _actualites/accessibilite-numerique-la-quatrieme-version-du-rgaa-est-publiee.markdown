@@ -101,7 +101,8 @@ Ces organismes publics et privés doivent mettre aux normes d’accessibilité l
 <br>
 
 > ### Mettre en pratique l’accessibilité numérique au quotidien 
->
+> <br>
+> <br>
 > Le RGAA est un document de référence indispensable mais il n’a pas vocation à être utilisé directement par les équipes en charge de projets web et services numériques. Pour elles, voici quelques leviers pour les aider à mettre en œuvre et améliorer la prise en compte de l’accessibilité au quotidien :
 >
 > * S’assurer que les graphistes web, UX et UI designers, les développeurs ainsi que les producteurs de contenus sont formés à l’accessibilité numérique et fabriquent des **interfaces et contenus accessibles.**
