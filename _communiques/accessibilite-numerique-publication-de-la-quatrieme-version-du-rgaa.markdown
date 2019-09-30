@@ -1,6 +1,7 @@
 ---
-title: 'Accessibilité numérique : publication de la quatrième version du RGAA'
-date: 2019-09-30 15:54:00 +02:00
+title: Publication de la quatrième version du RGAA
+date: 2019-10-01 15:54:00 +02:00
+published: false
 categories:
 - Communiqué de presse
 tags:
@@ -11,7 +12,7 @@ une-ou-diaporama:
 - image: "/uploads/accessibilite-numerique.jpg"
 files:
 - file: "/uploads/CP_Communiqu%C3%A9%20de%20presse_%20RGAA%204.pdf"
-  nom: CP_ RGAA_V4
+  nom: CP_ Communique_de_presse_RGAA_V4
 ---
 
 10 ans après la création du RGAA - le référentiel général d’accessibilité des administrations - la **direction interministérielle du numérique (DINSIC)** publie sa quatrième version. À cette occasion, il change de nom pour devenir le **référentiel général d’amélioration de l’accessibilité** (le sigle reste le même).
