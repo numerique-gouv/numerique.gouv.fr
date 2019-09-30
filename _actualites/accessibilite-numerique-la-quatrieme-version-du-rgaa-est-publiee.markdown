@@ -93,7 +93,7 @@ Ces organismes publics et privés doivent mettre aux normes d’accessibilité l
 
 **Les entreprises réalisant un chiffre d’affaires de 250 millions d’euros ou plus en France** doivent quant à elles :
 
-* **Pour un site internet, intranet ou extranet :
+* **Pour un site internet, intranet ou extranet :**
 <br> S’il a été créé avant le 1er octobre 2019, vous avez jusqu’au 1er octobre 2020 pour vous conformer aux nouvelles obligations.
 <br> S’il est créé à compter du 1er octobre 2019, il doit s’y conformer dès sa création.
 * **Pour une application mobile, un progiciel et le mobilier urbain numérique :** vous avez jusqu’au 1er juillet 2021
