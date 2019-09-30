@@ -43,7 +43,7 @@ Les obligations légales, tout comme les standards internationaux d’accessibil
 * la mise à jour 2018 de **l’[article 47 de la loi pour l’égalité des droits et des chances](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001290363&cidTexte=JORFTEXT000000809647&categorieLien=id)** de 2005 (« loi handicap »)
 * **le [décret Accessibilité numérique](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038811937) du 24 juillet 2019** (qui, avec l’article 47 de la loi handicap, transpose [la directive européenne](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32016L2102&from=FR) relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public)
 * **les évolutions 2018 de [la norme internationale WCAG](https://www.w3.org/TR/WCAG21/),** c’est-à-dire les règles pour l’accessibilité des contenus web (en anglais *« web content accessibility guidelines »*), élaborées par l’organisme de standardisation du web (W3C).
-* **la révision 2018 de la [norme européenne en matière d’accessibilité des produits et services TIC](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf)** (EN 301 549 V2.1.2 – pdf, en anglais).
+* **la révision 2018 de la [norme européenne en matière d’accessibilité des produits et services TIC** (EN 301 549 V2.1.2 – pdf, en anglais)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf).
 <br>
 ### Des obligations renforcées
 
