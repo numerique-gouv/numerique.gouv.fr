@@ -46,5 +46,5 @@ Pour cette nouvelle version du RGAA, les contenus du référentiel ont été res
 
 La DINSIC publiera dans les semaines qui viennent **un document séparé listant les critères non obligatoires** issus des normes internationales. Elle espère ainsi encourager les éditeurs de services numériques à aller au-delà des exigences légales, pour une inclusion toujours plus forte.
 
-> [**Consulter le RGAA v4**](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
+> [**Consulter le RGAA V4**](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
 {: .lien-important}
