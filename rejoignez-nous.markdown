@@ -28,12 +28,10 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Chef/Cheffe de produit Environnement de Travail Numérique des agents – « Poste de travail »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=b684d232-4c6d-401e-8dc9-438872e909c6&offerid=268001 "Chef/Cheffe de produit Environnement de Travail Numérique des agents – « Poste de travail » - Télécharger le pdf") 
-(pdf - 240 ko)
+* [**Chef/Cheffe de produit Environnement de Travail Numérique des agents – « Poste de travail »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=b684d232-4c6d-401e-8dc9-438872e909c6&offerid=268001 "Chef/Cheffe de produit Environnement de Travail Numérique des agents – « Poste de travail » - Télécharger le pdf") (pdf - 240 ko)
 <br>Cadre/Catégorie A
 
-* [**Chef/Cheffe de produit Environnement de Travail Numérique des agents – « outils collaboratifs »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=8115fdc3-5997-4ec0-ad7f-7a7856f464ef&offerid=268008 "Chef/Cheffe de produit Environnement de Travail Numérique des agents – « outils collaboratifs » - Télécharger le pdf") 
-(pdf - 240 ko)
+* [**Chef/Cheffe de produit Environnement de Travail Numérique des agents – « outils collaboratifs »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=8115fdc3-5997-4ec0-ad7f-7a7856f464ef&offerid=268008 "Chef/Cheffe de produit Environnement de Travail Numérique des agents – « outils collaboratifs » - Télécharger le pdf") (pdf - 240 ko)
 <br>Cadre/Catégorie A
 
 * [**Chef/cheffe de mission « Label »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=bd767761-2dc4-4cbc-998c-85516fd7bafa&offerid=261722 "Chef/cheffe de mission "Label" - Télécharger le pdf") (pdf - 400 ko)
