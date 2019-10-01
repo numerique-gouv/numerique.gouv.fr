@@ -8,9 +8,9 @@ tags:
 - qualité web
 - RGAA
 une-ou-diaporama:
-- image: "/uploads/20191001_Article_RGAA_1-eb0651.jpg"
+- image: "/uploads/20191001_Article_RGAA_1.jpg"
 files:
-- file: "/uploads/CP_RGAA_V4-1178cf.pdf"
+- file: "/uploads/CP_RGAA_V4.pdf"
   nom: CP_ RGAA_V4
 ---
 
