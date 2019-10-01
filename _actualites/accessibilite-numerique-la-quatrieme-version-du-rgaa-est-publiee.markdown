@@ -10,8 +10,8 @@ tags:
 chapeau-text: '10 ans après la création du RGAA - le référentiel général d’accessibilité
   des administrations, la direction interministérielle du numérique (DINSIC) publie
   sa quatrième version. Changement de nom, structure repensée, clarté améliorée, il
-  est aussi renforcé de nouvelles obligations et son champ d’application élargi à
-  certains acteurs privés et à d’autres supports. '
+  est aussi renforcé par de nouvelles obligations et son champ d’application élargi
+  à certains acteurs privés et à d’autres supports. '
 une-ou-diaporama:
 - image: "/uploads/20191001_Article_RGAA_1-eb0651.jpg"
 ---
