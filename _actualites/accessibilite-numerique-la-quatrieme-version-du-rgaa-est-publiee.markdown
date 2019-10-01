@@ -47,7 +47,9 @@ Les obligations légales, tout comme les standards internationaux d’accessibil
 <br>
 ### Des obligations renforcées
 
-Ces textes ont **renforcé les obligations en matière d’accessibilité,** exigences récapitulées dans le premier volet du RGAA. Désormais donc, certains acteurs privés sont tenus de respecter ces obligations au même titre que les administrations : ceux chargés d’une mission de service public ou d’intérêt général, ainsi que toute entreprise réalisant un chiffre d’affaires annuel en France de 250 millions d’euros et plus.
+<figure class='image-left' style='width: 50%;'>
+<img src="/uploads/20191001_Article_RGAA_test.jpg>
+</figure>Ces textes ont **renforcé les obligations en matière d’accessibilité,** exigences récapitulées dans le premier volet du RGAA. Désormais donc, certains acteurs privés sont tenus de respecter ces obligations au même titre que les administrations : ceux chargés d’une mission de service public ou d’intérêt général, ainsi que toute entreprise réalisant un chiffre d’affaires annuel en France de 250 millions d’euros et plus.
 
 Autre nouveauté, il est désormais imposé de rendre compte en ligne du **niveau d’accessibilité** d’un service numérique, ainsi que de la politique menée dans le domaine, sous peine de sanctions financières.
 
