@@ -10,7 +10,7 @@ tags:
 une-ou-diaporama:
 - image: "/uploads/20191001_Article_RGAA_1-eb0651.jpg"
 files:
-- file: "/uploads/CP_RGAA_V4.pdf"
+- file: "/uploads/CP_RGAA_V4-1178cf.pdf"
   nom: CP_ RGAA_V4
 ---
 
