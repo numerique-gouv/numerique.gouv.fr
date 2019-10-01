@@ -11,7 +11,6 @@ une-ou-diaporama:
 - image: "/uploads/Article_RGAA_v4_une.jpg"
 files:
 - file: "/uploads/CP_RGAA_V4.pdf"
-  nom: CP_ RGAA_V4
 ---
 
 10 ans après la création du RGAA - le référentiel général d’accessibilité des administrations - la **direction interministérielle du numérique (DINSIC)** publie sa quatrième version. À cette occasion, il change de nom pour devenir le **référentiel général d’amélioration de l’accessibilité** (le sigle reste le même).
