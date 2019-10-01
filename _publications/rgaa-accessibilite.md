@@ -13,7 +13,7 @@ chapeau-text: La **direction interministérielle du numérique et du système d'
   de l'accessibilité** (RGAA, anciennement référentiel général d'accessibilité des
   administrations).
 une:
-  image: "/uploads/accessibilite-numerique.jpg"
+  image: "/uploads/20191001_Publication_RGAA.jpg"
   alternative-textuelle: L'accessibilité numérique
 layout: rgaa
 ---

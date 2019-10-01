@@ -10,10 +10,10 @@ tags:
 chapeau-text: '10 ans après la création du RGAA - le référentiel général d’accessibilité
   des administrations, la direction interministérielle du numérique (DINSIC) publie
   sa quatrième version. Changement de nom, structure repensée, clarté améliorée, il
-  est aussi renforcé de nouvelles obligations et son champ d’application élargi à
-  certains acteurs privés et à d’autres supports. '
+  est aussi renforcé par de nouvelles obligations et son champ d’application élargi
+  à certains acteurs privés et à d’autres supports. '
 une-ou-diaporama:
-- image: "/uploads/accessibilite-numerique.jpg"
+- image: "/uploads/Article_RGAA_v4_une.jpg"
 ---
 
 Pour son dixième anniversaire, le RGAA – le référentiel général d’accessibilité des administrations – fait peau neuve. A cette occasion, il change de nom pour devenir le **référentiel général d’amélioration de l’accessibilité** (le sigle reste le même), car désormais il ne s’adresse plus seulement aux administrations, mais aussi à certains acteurs privés (détaillés plus loin), nouveauté notable de cette 4e version.
@@ -47,7 +47,9 @@ Les obligations légales, tout comme les standards internationaux d’accessibil
 <br>
 ### Des obligations renforcées
 
-Ces textes ont **renforcé les obligations en matière d’accessibilité,** exigences récapitulées dans le premier volet du RGAA. Désormais donc, certains acteurs privés sont tenus de respecter ces obligations au même titre que les administrations : ceux chargés d’une mission de service public ou d’intérêt général, ainsi que toute entreprise réalisant un chiffre d’affaires annuel en France de 250 millions d’euros et plus.
+<figure class='image-left' style='width: 50%;'>
+<img src="/uploads/Article_RGAA_v4_outils.jpg" />
+</figure>Ces textes ont **renforcé les obligations en matière d’accessibilité,** exigences récapitulées dans le premier volet du RGAA. Désormais donc, certains acteurs privés sont tenus de respecter ces obligations au même titre que les administrations : ceux chargés d’une mission de service public ou d’intérêt général, ainsi que toute entreprise réalisant un chiffre d’affaires annuel en France de 250 millions d’euros et plus.
 
 Autre nouveauté, il est désormais imposé de rendre compte en ligne du **niveau d’accessibilité** d’un service numérique, ainsi que de la politique menée dans le domaine, sous peine de sanctions financières.
 

@@ -1,12 +1,13 @@
 ---
 title: 'TECH.GOUV : Stratégie et feuille de route 2019-2021'
-date: 2019-09-25 17:51:00 +02:00
+date: 2019-04-16 00:00:00 +02:00
 published: false
 tags:
 - TECH.GOUV
 - transformation numérique
 - qualité des services numériques
 position: 0
+date_de_modification: 2 octobre 2019
 chapeau-text: 'Lancé par l’Etat en avril 2019 et piloté par la direction interministérielle
   du numérique (DINISC), le programme TECH.GOUV vise à accélérer la transformation
   numérique du service public. Découvrez sa stratégie et sa feuille de route 2019-2021,
