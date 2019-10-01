@@ -1,6 +1,6 @@
 ---
 title: 'Accessibilité numérique : publication de la quatrième version du RGAA'
-date: 2019-10-01 15:54:00 +02:00
+date: 2019-10-01 13:54:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -8,7 +8,7 @@ tags:
 - qualité web
 - RGAA
 une-ou-diaporama:
-- image: "/uploads/20191001_Article_RGAA_1.jpg"
+- image: "/uploads/Article_RGAA_v4_une.jpg"
 files:
 - file: "/uploads/CP_RGAA_V4.pdf"
   nom: CP_ RGAA_V4
