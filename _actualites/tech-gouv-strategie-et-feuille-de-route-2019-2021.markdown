@@ -1,6 +1,8 @@
 ---
 title: 'TECH.GOUV : Stratégie et feuille de route 2019-2021'
 date: 2019-10-02 10:58:00 +02:00
+categories:
+- Publication
 tags:
 - TECH.GOUV
 - Transformation numérique
