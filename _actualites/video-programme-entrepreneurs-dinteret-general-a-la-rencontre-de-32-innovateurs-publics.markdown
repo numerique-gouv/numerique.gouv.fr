@@ -16,5 +16,5 @@ auteur: Etalab
 redirection: https://www.etalab.gouv.fr/videoprogramme-entrepreneurs-dinteret-general-a-la-rencontre-de-32-innovateurs-publics
 ---
 
-> [Voir le contenu sur etalab.gouv.fr] (https://www.etalab.gouv.fr/videoprogramme-entrepreneurs-dinteret-general-a-la-rencontre-de-32-innovateurs-publics "Voir le contenu sur etalab.gouv.fr")
+> [Voir le contenu sur etalab.gouv.fr](https://www.etalab.gouv.fr/videoprogramme-entrepreneurs-dinteret-general-a-la-rencontre-de-32-innovateurs-publics "Voir le contenu sur etalab.gouv.fr")
 {: .lien-important}
