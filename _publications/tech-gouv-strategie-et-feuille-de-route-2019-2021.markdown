@@ -78,7 +78,9 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 <br>
 <br>
 
-> **Avec TECH.GOUV, nous disposons du programme qu’il nous faut pour amorcer ce virage et réussir la transformation numérique du service public.**
+> L’objectif de la numérisation des services publics est de les rendre facilement disponibles pour chacun, où qu’il soit et quelles que soient ses contraintes. Plus que le nombre de services disponibles en ligne, c’est la qualité des services aux usagers qui est au centre des préoccupations du Gouvernement. Ce virage technologique devra non seulement garantir le niveau actuel de service, mais aussi l’améliorer et le simplifier.
+> <br>
+> <br>**Avec TECH.GOUV, nous disposons du programme qu’il nous faut pour amorcer ce virage et réussir la transformation numérique du service public.**
 {: .citation}
 
 > **Cédric O**
