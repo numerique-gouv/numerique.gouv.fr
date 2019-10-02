@@ -12,7 +12,7 @@ publications:
 - title: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
   url: "/publications/rgaa-accessibilite/"
   une-ou-diaporama:
-  - image: "/uploads/Article_RGAA_v4_une.jpg"
+  - image: "/uploads/RGAA_Ouv-Publications.jpg"
 - title: 'Projets informatiques de l''État : les avis conformes émis par la DINSIC'
   url: "/publications/avis-conformes"
   une-ou-diaporama:
