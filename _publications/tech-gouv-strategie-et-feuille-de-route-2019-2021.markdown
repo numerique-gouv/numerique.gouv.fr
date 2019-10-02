@@ -37,7 +37,10 @@ Nous n’ignorons rien des contraintes avec lesquelles il va nous falloir compos
 > <br>Directeur interministériel du numérique
 {: .auteur-citation}
 
-<div style="text-indent: 15px;"><b>Lire aussi notre interview :</b><a href="/actualites/tech-gouv-interview-nadi-bou-hanna/">TECH.GOUV : « Tous les éléments sont réunis pour accélérer la transformation numérique de l’État »</a></div>
+<div style="text-indent: 15px;"><b>Lire aussi notre interview : </b><a href="/actualites/tech-gouv-interview-nadi-bou-hanna/">TECH.GOUV : « Tous les éléments sont réunis pour accélérer la transformation numérique de l’État »</a></div>
+<br>
+<br>
+
 
 ## Le service public à l’ère numérique : les&nbsp;6&nbsp;enjeux de TECH.GOUV
 
