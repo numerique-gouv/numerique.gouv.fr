@@ -10,7 +10,7 @@ ErrorDocument 404 /404/
 # -- 301 Redirects --
 # Redirect 301 /oldlocation/oldlocation/ /newlocation/
 # Redirect 301 /oldlocation/ /
-Redirectpermanent /actualites/tech-gouv-strategie-et-feuille-de-route-2019-2021/ /publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/
+Redirect permanent /actualites/tech-gouv-strategie-et-feuille-de-route-2019-2021/ /publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/
 
 # -- Browser Caching --
 <IfModule mod_expires.c>
