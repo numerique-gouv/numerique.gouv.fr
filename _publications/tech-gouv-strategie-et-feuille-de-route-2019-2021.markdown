@@ -124,5 +124,5 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 
 <br>
 
-> [Télécharger la plaquette de présentation de TECH.GOUV (pdf - 1,3 Mo)](/uploads/plaquette-tech-gouv.pdf)
+> [Télécharger la plaquette de présentation de TECH.GOUV (pdf - 1,3&nbsp;Mo)](/uploads/plaquette-tech-gouv.pdf)
 {: .lien-important}
