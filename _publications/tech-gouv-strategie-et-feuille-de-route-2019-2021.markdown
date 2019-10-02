@@ -12,6 +12,7 @@ date_de_modification: 2 octobre 2019
 chapeau-text: Lancé par l’État en avril dernier, le programme TECH.GOUV vise à accélérer
   la transformation numérique du service public. Découvrez sa stratégie et sa feuille
   de route 2019-2021, déclinées en 6 enjeux, 8 missions et 35 actions prioritaires.
+  Un programme piloté par la DINSIC avec l’appui de tous les ministères.
 une-ou-diaporama:
 - image: "/uploads/Publication_TECHGOUV_une.jpg"
 une:
