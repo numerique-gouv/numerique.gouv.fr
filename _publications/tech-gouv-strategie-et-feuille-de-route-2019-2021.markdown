@@ -1,17 +1,16 @@
 ---
 title: 'TECH.GOUV : Stratégie et feuille de route 2019-2021'
 date: 2019-04-16 00:00:00 +02:00
-published: false
 tags:
 - TECH.GOUV
 - transformation numérique
 - qualité des services numériques
 position: 0
 date_de_modification: 2 octobre 2019
-chapeau-text: 'Lancé par l’Etat en avril 2019 et piloté par la direction interministérielle
-  du numérique (DINISC), le programme TECH.GOUV vise à accélérer la transformation
-  numérique du service public. Découvrez sa stratégie et sa feuille de route 2019-2021,
-  déclinées en 8 missions et 35 actions prioritaires. '
+chapeau-text: Lancé par l’État en avril dernier, le programme TECH.GOUV vise à accélérer
+  la transformation numérique du service public. Découvrez sa stratégie et sa feuille
+  de route 2019-2021, déclinées en 6 enjeux, 8 missions et 35 actions prioritaires.
+  Un programme piloté par la DINSIC avec l’appui de tous les ministères.
 une-ou-diaporama:
 - image: "/uploads/Publication_TECHGOUV_une.jpg"
 une:
@@ -38,6 +37,11 @@ Nous n’ignorons rien des contraintes avec lesquelles il va nous falloir compos
 > **Nadi Bou Hanna**
 > <br>Directeur interministériel du numérique
 {: .auteur-citation}
+
+<div style="text-indent: 15px;"><b>Lire aussi notre interview : </b><a href="/actualites/tech-gouv-interview-nadi-bou-hanna/">TECH.GOUV : « Tous les éléments sont réunis pour accélérer la transformation numérique de l’État »</a></div>
+<br>
+<br>
+
 
 ## Le service public à l’ère numérique : les&nbsp;6&nbsp;enjeux de TECH.GOUV
 
@@ -75,7 +79,9 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 <br>
 <br>
 
-> Avec TECH.GOUV nous disposons du programme qu’il nous faut pour amorcer ce virage et réussir la transformation numérique du service public.
+> L’objectif de la numérisation des services publics est de les rendre facilement disponibles pour chacun, où qu’il soit et quelles que soient ses contraintes. Plus que le nombre de services disponibles en ligne, c’est la qualité des services aux usagers qui est au centre des préoccupations du Gouvernement. Ce virage technologique devra non seulement garantir le niveau actuel de service, mais aussi l’améliorer et le simplifier.
+> <br>
+> <br>**Avec TECH.GOUV, nous disposons du programme qu’il nous faut pour amorcer ce virage et réussir la transformation numérique du service public.**
 {: .citation}
 
 > **Cédric O**
@@ -110,11 +116,12 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 <br>
 <br>
 
-[![Consulter la stratégie et la feuille de route 2019-2021 de TECH.GOUV (pdf - 5 Mo)](/uploads/capture-doc-TECH-couv.png)]([TECH-GOUV_2019-2021.PDF](/uploads/TECH-GOUV_2019-2021.PDF "Consulter la stratégie et la feuille de route 2019-2021 de TECH.GOUV (pdf - 5 Mo)")
+[![Consulter la stratégie et la feuille de route 2019-2021 de TECH.GOUV (pdf - 5 Mo)](/uploads/capture-doc-TECH-couv.png)](/uploads/TECH-GOUV_2019-2021.pdf "Consulter la stratégie et la feuille de route 2019-2021 de TECH.GOUV (pdf - 790ko)")
 {: .text-center}
-> [Consulter la stratégie et la feuille de route 2019-2021 de TECH.GOUV (pdf - 5 Mo)](/uploads/TECH-GOUV_2019-2021.PDF)
+> [Consulter la stratégie et la feuille de route 2019-2021 de TECH.GOUV (pdf - 790&nbsp;ko)](/uploads/TECH-GOUV_2019-2021.pdf)
 {: .lien-important}
 
 <br>
 
-[> Télécharger la plaquette de présentation de TECH.GOUV (pdf - 1,3 Mo)](/uploads/plaquette-tech-gouv.pdf)
+> [Télécharger la plaquette de présentation de TECH.GOUV (pdf - 1,3&nbsp;Mo)](/uploads/plaquette-tech-gouv.pdf)
+{: .lien-important}
