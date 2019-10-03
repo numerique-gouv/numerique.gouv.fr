@@ -67,7 +67,7 @@ Les outils et méthodes de travail qui s’appuient pleinement sur le potentiel 
 {: .margin-top-2 .margin-bottom-1} 
 Nous devons nous assurer de la maîtrise des systèmes d’information, des architectures, des logiciels et du patrimoine de données afin d’accroître l’autonomie numérique de l’État et sa sécurité. Renforcer cette maîtrise technologique concourt directement à préserver la souveraineté nationale.
 
-<figure class='image-left' style='width: 7%;'><img src="/uploads/tech-gouv-picto-maitrise.png"/></figure>
+<figure class='image-left' style='width: 7%;'><img src="/uploads/tech-gouv-picto-economies.png"/></figure>
 ### Économies
 {: .margin-top-2 .margin-bottom-1} 
 Le numérique peut et doit être source d’économies. À ce titre, c’est un outil d’optimisation des dépenses publiques car il participe à la production d’un service de meilleure qualité et à moindre coût. Cette perspective justifie également les investissements dans l’innovation.
