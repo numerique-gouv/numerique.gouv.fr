@@ -28,6 +28,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chef/Cheffe mission « Label »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=76b5471e-22b3-455c-8398-9d121ad7ecd4&offerid=261719 "Chef/Cheffe mission « Label » - Télécharger le pdf") (pdf - 240 ko)
+<br>Cadre/Catégorie A
+
 * [**Chef/Cheffe de produit Environnement de Travail Numérique des agents – « Poste de travail »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=b684d232-4c6d-401e-8dc9-438872e909c6&offerid=268001 "Chef/Cheffe de produit Environnement de Travail Numérique des agents – « Poste de travail » - Télécharger le pdf") (pdf - 240 ko)
 <br>Cadre/Catégorie A
 
