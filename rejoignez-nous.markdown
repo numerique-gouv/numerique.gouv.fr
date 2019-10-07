@@ -4,7 +4,7 @@ date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 30 septembre 2019
+date_de_modification: 7 octobre 2019
 layout: page-annexe
 ---
 
@@ -50,9 +50,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 * [**Responsable produit « FranceConnect » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=12f9bab9-55d4-429e-b14c-b1625eaa122b&offerid=236696 "Responsable produit FranceConnect - Télécharger le pdf") (pdf - 380 ko)
 <br>Cadre/Catégorie A
 
-* [**Développeur/développeuse web full-stack**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=348923f4-d86c-4ff2-a9c7-a6a9b254882e&offerid=223798 "Développeur/développeuse web full stack -  Télécharger le pdf") (pdf - 380 ko)
-<br>Cadre/Catégorie A
-
 * [**Chargé/chargée du support et de l'accompagnement des usagers de « démarches simplifiées »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=413a0aab-3ce3-482e-a3f3-9c3dd6c9e416&offerid=246232 "Chargé du support et de l'accompagnement des usagers de « démarches simplifiées » CDD") (pdf - 246&nbsp;ko) 
 <br>Cadre/Catégorie A
 <br>
@@ -79,9 +76,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 
 * [**Consultant/consultante interne SI**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=75f30312-8f0a-4fb3-975f-0035e0d5dcff&offerid=229037 "Consultant/consultante interne SI - Télécharger le pdf") (pdf - 410 ko)
-<br>Cadre/Catégorie A
-
-* [**Urbaniste/Architecte de système d'information expérimenté (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=77064479-1563-437d-82db-fa6c4a4360cf&offerid=223810 "Urbaniste/Architecte de système d'information expérimenté (F/H) – Télécharger le pdf") (pdf - 420 ko)
 <br>Cadre/Catégorie A
 
 * [**Architecte « services d'accès internet » du réseau interministériel de l'État (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=512a28a3-5745-40f4-ad35-8665c6f1936c&offerid=243187 "Architecte service d'accès internet du réseau interministériel de l'État - Télécharger le pdf")
