@@ -33,7 +33,7 @@ Ce meetup est un moment d'échange, pour partager des expériences avec des prat
 Ce #1er meetup sera axé sur les services numériques. Les projets présentés seront les suivants :
 
 * **Défi [Gobelins ](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/gobelins.html):** Créer un outil didactique pour rendre accessibles les objets historiques du Mobilier National, par Laurie Chapotte (défi 2018)
-* **Design sprint sur le projet [DataJust ](http://%20https//entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datajust.html):** Garantir un traitement égalitaire et juste des demandes d’indemnisation de préjudices corporels, par Elise Lalique
+* **Design sprint sur le projet [DataJust ](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datajust.html):** Garantir un traitement égalitaire et juste des demandes d’indemnisation de préjudices corporels, par Elise Lalique
 * **[Beta.gouv.fr ](https://beta.gouv.fr/) :** Être designer auprès des Startups d’Etat et de Territoires, au sein du réseau d’incubateurs de services publics numériques Beta.gouv.fr, piloté par la DINSIC, par Amandine Audras.
 * **Outil de prise de rendez-vous** sur service-public.fr initié pour la Gendarmerie, par Geraldine Da Sylva et les membres de l’équipe [service-public.fr](http://service-public.fr/)
 
