@@ -1,6 +1,13 @@
 ---
 title: 'Design public – Meetup #1'
 date: 2019-10-08 16:37:00 +02:00
+categories:
+- meetup
+tags:
+- UX design
+- Entrepreneur d'Intérêt Général
+- Beta.gouv.fr
+- Startups d'Etat
 chapeau-text: Rendez-vous le 17 octobre au premier meetup Design Public organisé par
   des designers travaillant au sein de projets de la fonction publique.
 une-ou-diaporama:
