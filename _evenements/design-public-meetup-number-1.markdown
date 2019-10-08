@@ -1,6 +1,7 @@
 ---
 title: 'Design public – Meetup #1'
 date: 2019-10-08 16:37:00 +02:00
+published: false
 categories:
 - meetup
 tags:
@@ -16,6 +17,8 @@ event_start_date: 2019-10-17 18:30:00 +02:00
 lieu: L'Atelier du Laptop Beaubourg
 adresse: "7 Rue Geoffroy l'Angevin \n75004 Paris "
 champs_informations:
+- intitule: 'Horaires '
+  contenu: De 18h30 à 21h30
 - intitule: Modalités
   contenu: Votre billet vous sera demandé à l'entrée le jour du meetup. Il est donc
     nécessaire de le télécharger sur votre smartphone.
