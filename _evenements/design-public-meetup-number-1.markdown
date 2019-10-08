@@ -13,7 +13,6 @@ chapeau-text: Rendez-vous le 17 octobre au premier meetup Design Public organis√
 une-ou-diaporama:
 - image: "/uploads/designer_public_meetup_1.jpeg"
 event_start_date: 2019-10-17 18:30:00 +02:00
-event_end_date: 2019-10-17 21:30:00 +02:00
 lieu: L'Atelier du Laptop Beaubourg
 adresse: "7 Rue Geoffroy l'Angevin \n75004 Paris "
 champs_informations:
