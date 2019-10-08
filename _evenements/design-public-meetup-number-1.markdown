@@ -22,12 +22,8 @@ champs_informations:
   contenu: Votre billet vous sera demandé à l'entrée le jour du meetup. Il est donc
     nécessaire de le télécharger sur votre smartphone.
 - intitule: 'Inscription '
-  contenu: " Les inscriptions ce font via [ce lien](https://www.eventbrite.fr/e/billets-design-public-meetup-1-74790669907)"
-- intitule: 'Plus d’infos '
-  contenu: |-
-    Public : Tout public <br>
-
-    Sujet : Design public
+  contenu: " Les inscriptions ce font via ce lien"
+  lien: https://www.eventbrite.fr/e/billets-design-public-meetup-1-74790669907
 ---
 
 La direction interministérielle du numérique (DINSIC) et Le Laptop ont le plaisir de vous convier au premier meetup Design Public organisé par des designers, travaillant au sein de projets de la fonction publique. 
