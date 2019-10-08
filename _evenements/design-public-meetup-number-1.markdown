@@ -1,7 +1,6 @@
 ---
 title: 'Design public – Meetup #1'
 date: 2019-10-08 16:37:00 +02:00
-published: false
 categories:
 - meetup
 tags:
