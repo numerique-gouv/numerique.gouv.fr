@@ -13,11 +13,12 @@ champs_informations:
 - intitule: Modalités
   contenu: Votre billet vous sera demandé à l'entrée le jour du meetup. Il est donc
     nécessaire de le télécharger sur votre smartphone.
-- intitule: 'Inscription via ce lien '
-  contenu: " https://www.eventbrite.fr/e/billets-design-public-meetup-1-74790669907"
+- intitule: 'Inscription '
+  contenu: " Les inscriptions ce font via [ce lien](https://www.eventbrite.fr/e/billets-design-public-meetup-1-74790669907)"
 - intitule: 'Plus d’infos '
   contenu: |-
-    Public : Tout public
+    Public : Tout public <br>
+
     Sujet : Design public
 ---
 
