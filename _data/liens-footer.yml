@@ -33,7 +33,7 @@ services-usagers:
     url: https://monavis.numerique.gouv.fr
 
 outils-pour-les-agents:
-  - link: premier lien
-    url: https://#
-  - link: deuxieme lien
-    url: https://#
+  - link: Messagerie instantanée Tchap
+    url: https://www.tchap.gouv.fr/
+  - link: Webconférence
+    url: https://webconf.numerique.gouv.fr/
