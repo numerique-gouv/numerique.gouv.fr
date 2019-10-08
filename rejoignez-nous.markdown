@@ -4,7 +4,7 @@ date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 7 octobre 2019
+date_de_modification: 8 octobre 2019
 layout: page-annexe
 ---
 
