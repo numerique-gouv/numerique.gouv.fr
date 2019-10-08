@@ -37,4 +37,4 @@ Ce premier meetup sera axé sur les services numériques. Les projets présenté
 * **[Beta.gouv.fr](https://beta.gouv.fr/):** Être designer auprès des Startups d’Etat et de Territoire, au sein du réseau d’incubateurs de services publics numériques Beta.gouv.fr, piloté par la DINSIC, par Amandine Audras (défi [Entrepreneurs d’intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr/index.html))
 * **Outil de prise de rendez-vous** sur service-public.fr initié pour la Gendarmerie, par Géraldine Da Sylva et les membres de l’équipe [service-public.fr](http://service-public.fr/)
 
-Nous vous donnons rendez-vous le jeudi 17 Octobre à 18h30 au Laptop Beaubourg à Paris.
+Nous vous donnons rendez-vous le jeudi 17 octobre à 18h30 au Laptop Beaubourg à Paris.
