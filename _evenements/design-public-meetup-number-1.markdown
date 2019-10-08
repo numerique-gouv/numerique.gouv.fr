@@ -17,7 +17,7 @@ lieu: L'Atelier du Laptop Beaubourg
 adresse: "7 Rue Geoffroy l'Angevin \n75004 Paris "
 champs_informations:
 - intitule: 'Horaires '
-  contenu: De 18h30 à 21h30
+  contenu: 18h30-21h30
 - intitule: Modalités
   contenu: Votre billet vous sera demandé à l'entrée le jour du meetup. Il est donc
     nécessaire de le télécharger sur votre smartphone.
