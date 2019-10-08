@@ -30,7 +30,7 @@ La direction interministérielle du numérique (DINSIC) et [Le Laptop](https://w
 
 Ce meetup est un moment d'échange, pour partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15 mins par projets). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une petite heure ... et plus si affinité. Pensez à ramener un petit quelque chose à boire ou à grignoter.
 
-Ce #1er meetup sera axé sur les services numériques. Les projets présentés seront les suivants :
+Ce premier meetup sera axé sur les services numériques. Les projets présentés seront les suivants :
 
 * **Défi [Gobelins ](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/gobelins.html):** Créer un outil didactique pour rendre accessibles les objets historiques du Mobilier National, par Laurie Chapotte (défi 2018)
 * **Design sprint sur le projet [DataJust ](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datajust.html):** Garantir un traitement égalitaire et juste des demandes d’indemnisation de préjudices corporels, par Elise Lalique
