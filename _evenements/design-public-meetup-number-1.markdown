@@ -22,7 +22,7 @@ champs_informations:
   contenu: Votre billet vous sera demandé à l'entrée le jour du meetup. Il est donc
     nécessaire de le télécharger sur votre smartphone.
 - intitule: 'Inscription '
-  contenu: " Les inscriptions ce font via ce lien"
+  contenu: " Les inscriptions se font via ce lien"
   lien: https://www.eventbrite.fr/e/billets-design-public-meetup-1-74790669907
 ---
 
