@@ -1,7 +1,7 @@
 ---
 title: Postulez au Fonds d’accélération des Startups d’État et de Territoire ! - 2e
   édition
-date: 2019-10-09 10:26:00 +02:00
+date: 2019-10-01 10:26:00 +02:00
 categories:
 - Appel à projets
 tags:
