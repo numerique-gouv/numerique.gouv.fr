@@ -40,9 +40,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 * [**Chef/cheffe de mission « Label »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=bd767761-2dc4-4cbc-998c-85516fd7bafa&offerid=261722 "Chef/cheffe de mission "Label" - Télécharger le pdf") (pdf - 400 ko)
 <br>Cadre/Catégorie A+, A
 
-* [**Directeur/directrice de projets interministériels**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=ff650cab-c7d8-457d-aeb0-db83ed3edb63&offerid=229025 "Directeur/directrice de projets interministériels - Télécharger le pdf") (pdf - 400 ko)
-<br>Cadre supérieur/Catégorie A+
-
 * [**Responsable du projet plateformes d’échange de données inter-administrations (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=9097f70f-1b1c-48a1-94f0-a7066529d973&offerid=234234 "Responsable du projet plateformes d’échange de données inter-administrations (F/H) - Télécharger le pdf") (pdf - 417 ko)
 <br>Cadre/Catégorie A
 <br>
