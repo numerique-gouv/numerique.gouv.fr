@@ -2,6 +2,8 @@
 title: 'code.etalab.gouv.fr : les codes sources de logiciels publiés par des organismes
   publics'
 date: 2019-10-09 14:43:00 +02:00
+categories:
+- Article
 tags:
 - Open data
 - Logiciel libre
