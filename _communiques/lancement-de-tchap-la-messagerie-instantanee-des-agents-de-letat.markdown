@@ -7,10 +7,9 @@ tags:
 - Tchap
 - Messagerie de l'État
 - Open source
-chapeau-text: 'L’État lance Tchap, sa propre messagerie instantanée, en version bêta.
+chapeau-text: L’État lance Tchap, sa propre messagerie instantanée, en version bêta.
   Développée au sein de l’administration et destinée aux agents de l’État elle vise
-  à offrir une alternative sécurisée aux applications grand public telles Whatsapp
-  ou Telegram. '
+  à offrir une alternative sécurisée aux applications grand public.
 une-ou-diaporama:
 - image: "/uploads/CP_Tchap_une.jpg"
 files:
