@@ -9,13 +9,13 @@ tags:
 - Open source
 chapeau-text: L’État lance Tchap, sa propre messagerie instantanée, en version bêta.
   Développée au sein de l’administration et destinée aux agents de l’État elle vise
-  à offrir une alternative sécurisée aux applications grand public.
+  à offrir une alternative aux applications grand public.
 une-ou-diaporama:
 - image: "/uploads/CP_Tchap_une.jpg"
 files:
-- file: "/uploads/CP_TCHAP.pdf"
+- file: "/uploads/CP_TCHAP-699761.pdf"
   nom: Télécharger le communiqué de presse
-file: "/uploads/CP_TCHAP-fc1ee5.pdf"
+file: "/uploads/CP_TCHAP-d35285.pdf"
 ---
 
 L’application Tchap peut être librement installée sur les **smartphones Apple et Android** à partir des magasins d’applications. Les agents de l’État peuvent également y accéder depuis un navigateur web. Leur adresse mail professionnelle suffit pour s’identifier. 
