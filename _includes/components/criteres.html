@@ -1,0 +1,144 @@
+<div id="criteres">
+    <div id="topics">
+        <div class="bloc-lateral">
+            <h3 id="titre-filtres">Filtres de consultation</h3>
+            <div id="elt-filtres">
+                <div>
+                <input type="checkbox" id="filtre-tests"><label for="filtre-tests">Afficher les tests</label>
+                </div>
+                <div>
+                <input type="checkbox" id="filtre-A" checked><label for="filtre-A">Niveau WCAG <span aria-label="simple-A"><span aria-hidden="true">A</span></span></label>
+                </div>
+                <div>
+                <input type="checkbox" id="filtre-AA" checked><label for="filtre-AA">Niveau WCAG <span aria-label="double-A"><span aria-hidden="true">AA</span></span></label>
+                </div>
+            </div>
+        </div>
+        <h3>Thématiques</h3>
+        <ol id="topics-list" aria-labelledby="titre-thematiques">
+        {% assign topic = "" %}
+        {% for topics in site.data.rgaa.criteres.topics %}
+            {% if topic != topics.topic %}
+                {% assign topic = topics.topic %}
+                <li><a href="#topic{{ topics.number }}">{{ topics.number }}. {{ topics.topic }}</a></li>
+            {% endif %}
+        {% endfor %}
+        </ol>
+    </div>
+    {% assign topic = "" %}
+    {% for topics in site.data.rgaa.criteres.topics %}
+        {% if topic != topics.topic %}
+            {% assign topic = topics.topic %}
+            <h3 id="topic{{ topics.number }}">{{ topics.number }}. {{ topics.topic }}</h3>
+        {% endif %}
+
+        {% for criteria in topics.criteria %}
+            {% assign critLevel = "" %}
+            {% for sc in criteria.criterium.references[0].wcag %}
+                {% assign splitSc = sc | split: " " %}
+                {% assign level = splitSc | slice: -1 %}
+                {% capture level %}{{ level }}{% endcapture %}
+                {% assign levelSize = level | size %}
+                {% assign levelSize = levelSize | minus: 2 %}
+                {% assign level = level | slice: 1, levelSize %} 
+                {% if critLevel == "" or critLevel == "AA" %}
+                    {% assign critLevel = level %}
+                {% endif %}
+            {% endfor %}
+
+        <article id="crit-{{ topics.number }}-{{ criteria.criterium.number }}" data-level="{{ critLevel }}" class="is-visible">
+            <h4 class="critere">Critère {{ topics.number }}.{{ criteria.criterium.number }}. {{ criteria.criterium.title | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}<button class="is-closed"><span class="show-for-sr">"Afficher les tests du critère {{ topics.number }}.{{ criteria.criterium.number }}"</span><svg aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 24 24"><path d="M24 9h-9v-9h-6v9h-9v6h9v9h6v-9h9z"/></svg></button></h4>
+            <!--<p class="principe">Principe WCAG&nbsp;: Perceptible</p>-->
+                <ul class="tests is-hidden">
+                    {% assign testNum = 1 %}
+                    {% for test in criteria.criterium.tests %}
+                        {% if test[1].first %}
+                        <li id="test-{{ topics.number }}-{{ criteria.criterium.number }}-{{ testNum }}">
+                            <span class="test">Test {{ topics.number }}.{{ criteria.criterium.number }}.{{ test.first }}</span> : {{ test[1].first | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}
+                            <ul>
+                                {% for condition in test[1] %}
+                                    {% unless condition == test[1].first %}
+                                        <li>{{ condition | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}</li>
+                                    {% endunless %}
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        {% else %}
+                        <li id="test-{{ topics.number }}-{{ criteria.criterium.number }}-{{ testNum }}"><span class="test">Test {{ topics.number }}.{{ criteria.criterium.number }}.{{ test.first }}</span> : {{ test[1] | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}</li>
+                        {% endif %}
+                        {% assign testNum = testNum | plus: 1 %}
+                    {% endfor %}
+                </ul>
+            <aside class="is-hidden">
+                <h5>Correspondances WCAG 2.1</h5>
+                <ul><li><span>Critère(s) de succès WCAG 2.1 : </span>
+                    <span>
+                         {% assign level = "" %}
+                         {% for sc in criteria.criterium.references[0].wcag %}
+                             {% assign splitSc = sc | split: " " %}
+                             {% assign max = splitSc.size %}
+                             {% assign scwcag = splitSc | slice: 2, max %}
+                             {% assign scwcag = scwcag | join: " " %}
+                             {% assign max = max | minus: 4 %}
+                             {% assign slug = splitSc | slice: 3, max %}
+                             {% assign slug = slug | join: " " %}
+                         <!--     {% assign link = splitSc | slice: 2, max %}
+                             {% assign link = link | join: " " %} -->
+                             {% if sc == criteria.criterium.references[0].wcag.last %}
+                                 <a href="https://www.w3.org/TR/WCAG21/#{{ slug | slugify }}">{{ scwcag }}</a>.
+                             {% else %}
+                                 <a href="https://www.w3.org/TR/WCAG21/#{{ slug | slugify }}">{{ scwcag }}</a>, 
+                             {% endif %}
+                         {% endfor %}
+                    </span>
+                </li>
+                {% if criteria.criterium.references[1].techniques.size > 0 %}
+                <li><span>Technique(s) suffisante(s) et/ou échec(s) WCAG 2.1 : </span>
+                    <span>
+                         {% for technique in criteria.criterium.references[1].techniques %}
+                             {% assign firstLetter = technique | slice: 0 %}
+                             {% case firstLetter %}
+                                 {% when "A" %}
+                                     {% assign path = "aria" %}
+                                 {% when "C" %}
+                                     {% assign path = "css" %}
+                                 {% when "F" %}
+                                     {% assign path = "failures" %}
+                                 {% when "G" %}
+                                     {% assign path = "general" %}
+                                 {% when "H" %}
+                                     {% assign path = "html" %}
+                                 {% when "S" %}
+                                     {% if "C" == technique | slice: 1  %}
+                                         {% assign path = "client-side-script" %}
+                                     {% else %}
+                                         {% assign path = "smil" %}
+                                     {% endif %}
+                             {% endcase %}
+                             {% if technique == criteria.criterium.references[1].techniques.last %}
+                                 <a href="https://www.w3.org/WAI/WCAG21/Techniques/{{ path }}/{{ technique }}">{{ technique }}</a>.
+                             {% else %}
+                                 <a href="https://www.w3.org/WAI/WCAG21/Techniques/{{ path }}/{{ technique }}">{{ technique }}</a>, 
+                             {% endif %}
+                         {% endfor %}
+                    </span>
+                    </li>
+                    {% endif %}
+                 </ul>
+                 <h5>Correspondances EN 301 549 V2.1.2 (2018-08)</h5>
+                 <ul>
+                    {% for sc in criteria.criterium.references[0].wcag %}
+                    <li>
+                        {% if sc == criteria.criterium.references[0].wcag.last %}
+                            {{ sc }}.
+                        {% else %}
+                            {{ sc }}, 
+                        {% endif %}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </aside>
+        </article>
+        {% endfor %}
+    {% endfor %}
+</div>

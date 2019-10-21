@@ -1,0 +1,38 @@
+<div id="glossaire">
+    <nav role="navigation" aria-label="Sommaire du glossaire">
+    {% for sections in site.data.rgaa.glossaire.glossary %}
+        <a href="#{{ sections.section }}">{{ sections.section }}</a>
+    {% endfor %}
+    </nav>
+    {% for sections in site.data.rgaa.glossaire.glossary %}
+        <h3 id="{{ sections.section }}">{{ sections.section }}</h3>
+        {% for dl in sections.dl %}
+            <dl>
+            <dt id="{{ dl.dt | slugify: 'latin' }}">
+                {{ dl.dt }}
+            </dt>
+            <dd>
+                {% for dd in dl.dd %}
+                    {% if dd.first %}
+                    <ul>
+                        {% for li in dd.first[1] %}
+                            {% if li.first %}
+                            <ul>
+                                {% for subLi in li.first[1] %}
+                                  <li>{{ subLi | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}</li>
+                                {% endfor %}
+                            </ul>
+                            {% else %}
+                              <li>{{ li | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}</li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                    {% else %}
+                        <p>{{ dd | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}</p>
+                    {% endif %}
+                {% endfor %}
+            </dd>
+            </dl>
+        {% endfor %}
+    {% endfor %}
+</div>
