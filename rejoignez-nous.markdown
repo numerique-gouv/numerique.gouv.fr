@@ -41,6 +41,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A+, A
 <br>
 <br>
+* [**Consultant interne « UX / design de services numériques »**](/uploads/Fiche%20de%20poste%20-%20Consultant%20interne%20design%20de%20services%20nume%CC%81riques_20191.._.pdf)
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
