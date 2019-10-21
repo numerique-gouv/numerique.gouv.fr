@@ -86,6 +86,13 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 <br>
 <br>
+
+#### **Fonctions transverses**
+{: .margin-top-4 .margin-bottom-1} 
+* [**Chef/Cheffe de cabinet, responsable du pôle « Animation »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=5c6e27d2-fd6e-4cc6-bc84-6c875fd6def5&offerid=278378 "Chef/Cheffe de cabinet, responsable du pôle Animation - Télécharger le pdf") (pdf - 593 ko)
+<br> Cadre/Catégorie A
+<br>
+
 #### **Budget/Finances/Marchés**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Gestionnaire administratif « budgétaire et financier » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=467a7ed0-3ad0-43e3-a183-f9f1a5451e01&offerid=249151 "Gestionnaire administratif budgétaire et financier (F/H)
