@@ -41,11 +41,11 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A+, A
 <br>
 <br>
-* [**Consultant interne « UX / design de services numériques »**](/uploads/Fiche%20de%20poste%20-%20Consultant%20interne%20design%20de%20services%20nume%CC%81riques_20191.._.pdf)
+* [**Consultant interne « UX / design de services numériques »**](/uploads/Fiche%20de%20poste%20-%20Consultant%20interne%20design%20de%20services%20nume%CC%81riques_20191.._.pdf)(pdf - 380 ko)
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Responsable produit « FranceConnect » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=12f9bab9-55d4-429e-b14c-b1625eaa122b&offerid=236696 "Responsable produit FranceConnect - Télécharger le pdf") (pdf - 380 ko)
+* [**Responsable produit « FranceConnect » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=12f9bab9-55d4-429e-b14c-b1625eaa122b&offerid=236696 "Responsable produit FranceConnect - Télécharger le pdf") (pdf - 678 ko)
 <br>Cadre/Catégorie A
 
 * [**Chargé/chargée du support et de l'accompagnement des usagers de « démarches simplifiées »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=413a0aab-3ce3-482e-a3f3-9c3dd6c9e416&offerid=246232 "Chargé du support et de l'accompagnement des usagers de « démarches simplifiées » CDD") (pdf - 246&nbsp;ko) 
