@@ -6,6 +6,7 @@ menu:
   weight: 20
 layout: rgaa-accessibilite
 ---
+
 ### Sommaire
 
 * [Notion d'accessibilité numérique](#notion-daccessibilité-numérique)

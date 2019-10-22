@@ -5,5 +5,7 @@ menu:
   title: Critères et tests
   weight: 32
 layout: rgaa-accessibilite
-fil-ariane: "/publications/Référentiel général d’amélioration de l’accessibilité (RGAA) version 4/Méthode technique/Critères et tests"
+fil-ariane: "/publications/Référentiel général d’amélioration de l’accessibilité (RGAA)
+  version 4/Méthode technique/Critères et tests"
 ---
+
