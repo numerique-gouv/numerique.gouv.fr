@@ -100,7 +100,7 @@
                             ]
                         },
                         "technicalNote": [
-                            "Lorsqu'une image est associée à une [légende](#legende), la note technique WCAG recommande de prévoir systématiquement une [alternative textuelle](#alternative-textuelle-image) (cf. [critère 1.9](???)). Dans ce cas le critère 1.2 est non applicable.",
+                            "Lorsqu'une image est associée à une [légende](#legende), la note technique WCAG recommande de prévoir systématiquement une [alternative textuelle](#alternative-textuelle-image) (cf. [critère 1.9](#crit-1-9)). Dans ce cas le critère 1.2 est non applicable.",
                             "Dans le cas d'une image vectorielle (balise `<svg>`) de décoration qui serait affichée au travers d'un élément `<use href=\"...\">` enfant de l'élément `<svg>`, le test 1.2.4 s'appliquera également à la balise `<svg>` associée par le biais de la balise `<use>`.",
                             "Un attribut WAI-ARIA `role=\"presentation\"` peut être utilisé sur les images de décoration et les zones non cliquables de décoration. Le rôle `\"none\"` introduit en ARIA 1.1 et synonyme du rôle `\"presentation\"` peut être aussi utilisé. Il reste préférable cependant d'utiliser le rôle `\"presentation\"` en attendant un support satisfaisant du rôle `\"none\"`."
                         ],
@@ -187,7 +187,7 @@
                         },
                         "particularCases": [
                             "Il existe une gestion de cas particuliers lorsque l'image est utilisée comme [CAPTCHA](#captcha) ou comme [image-test](#image-test). Dans cette situation, où il n'est pas possible de donner une alternative pertinente sans détruire l'objet du CAPTCHA ou du test, le critère est non applicable.",
-                            "Note : le cas des CAPTCHA et des [images-test](#image-test) est traité de manière spécifique par le [critère 1.4](???)."
+                            "Note : le cas des CAPTCHA et des [images-test](#image-test) est traité de manière spécifique par le [critère 1.4](#crit-1-4)."
                         ],
                         "references": [
                             {
@@ -372,7 +372,7 @@
                         "technicalNote": [
                             "Dans le cas du SVG, le manque de support de l'élément `<title>` et `<desc>` par les technologies d'assistance crée une difficulté dans le cas de l'implémentation de l'[alternative textuelle](#alternative-textuelle-image) de l'image et de sa [description détaillée](#description-detaillee-image). Dans ce cas, il est recommandé d'utiliser l'attribut WAI-ARIA `aria-label` pour implémenter à la fois l'[alternative textuelle](#alternative-textuelle-image) courte et la référence à [description détaillée](#description-detaillee-image) adjacente ou l'attribut WAI-ARIA `aria-labelledby` pour associer les passages de texte faisant office d'alternative courte et de [description détaillée](#description-detaillee-image).",
                             "L'utilisation de l'attribut WAI-ARIA `aria-describedby` n'est pas possible pour lier une image à sa [description détaillée](#description-detaillee-image) par manque de support des technologies d'assistance.",
-                            "La [description détaillée](#description-detaillee-image) adjacente peut être implémentée via une balise `<figcaption>`, dans ce cas le [critère 1.9](???) doit être vérifié (utilisation de `<figure>` et des attributs WAI-ARIA `role=\"figure\"` et `aria-label`, notamment)."
+                            "La [description détaillée](#description-detaillee-image) adjacente peut être implémentée via une balise `<figcaption>`, dans ce cas le [critère 1.9](#crit-1-9) doit être vérifié (utilisation de `<figure>` et des attributs WAI-ARIA `role=\"figure\"` et `aria-label`, notamment)."
                         ],
                         "references": [
                             {
@@ -546,7 +546,7 @@
                             "L'implémentation d'un attribut WAI-ARIA `role=\"group\"` ou `role=\"figure\"` sur l'élément parent `<figure>` est destiné à pallier le manque de support actuel des éléments `<figure>` par les technologies d'assistance. L'utilisation d'un élément `<figcaption>` pour associer une [légende](#legende) à une image impose au minimum l'utilisation d'un attribut WAI-ARIA `aria-label` sur l'élément parent `<figure>` dont le contenu sera identique au contenu de l'élément `<figcaption>`. Pour s’assurer d’un support optimal, il peut également être fait une association explicite entre le contenu de l’[alternative textuelle](#alternative-textuelle-image) de l’image et le contenu de l’élément `<figcaption>`, par exemple :",
                             "`<img src=\"image.png\" alt=\"Photo : soleil couchant\" /><figcaption>Photo : crédit xxx</figcaption>`",
                             "Les attributs WAI-ARIA `aria-labelledby` et `aria-describedby` ne peuvent pas être utilisés actuellement par manque de support par les technologies d'assistance.",
-                            "Note : les images légendées doivent par ailleurs respecter le [critère 1.1](???) et le [critère 1.3](???) relatifs aux images porteuses d'information."
+                            "Note : les images légendées doivent par ailleurs respecter le [critère 1.1](#crit-1-1) et le [critère 1.3](#crit-1-3) relatifs aux images porteuses d'information."
                         ],
                         "references": [
                             {
@@ -985,7 +985,7 @@
                             ]
                         },
                         "particularCases": [
-                            "Voir [cas particuliers critère 4.1](???)."
+                            "Voir [cas particuliers critère 4.1](#crit-4-1)."
                         ],
                         "references": [
                             {
@@ -3048,7 +3048,7 @@
                             ]
                         },
                         "technicalNote": [
-                            "Il est possible d’utiliser une balise ayant un attribut WAI-ARIA `role=\"listbox\"` en remplacement d’une balise `<select>`. En revanche, il est impossible de créer des groupes d’options via l’utilisation de WAI-ARIA. De ce fait, une liste nécessitant un regroupement d’options structurée à l’aide d’une balise ayant un attribut WAI-ARIA `role=\"listbox\"` sera considérée comme non conforme au [critère 11.8](???)."
+                            "Il est possible d’utiliser une balise ayant un attribut WAI-ARIA `role=\"listbox\"` en remplacement d’une balise `<select>`. En revanche, il est impossible de créer des groupes d’options via l’utilisation de WAI-ARIA. De ce fait, une liste nécessitant un regroupement d’options structurée à l’aide d’une balise ayant un attribut WAI-ARIA `role=\"listbox\"` sera considérée comme non conforme au [critère 11.8](#crit-11-8)."
                         ],
                         "references": [
                             {

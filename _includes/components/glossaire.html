@@ -15,20 +15,26 @@
                 {% for dd in dl.dd %}
                     {% if dd.first %}
                     <ul>
+                        
                         {% for li in dd.first[1] %}
+                        
                             {% if li.first %}
+                            <li style="list-style: none;">
                             <ul>
                                 {% for subLi in li.first[1] %}
                                   <li>{{ subLi | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}</li>
                                 {% endfor %}
                             </ul>
+                            </li>
                             {% else %}
-                              <li>{{ li | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}</li>
+                            <li>{{ li | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}</li>
                             {% endif %}
+                        
                         {% endfor %}
+                        
                     </ul>
                     {% else %}
-                        <p>{{ dd | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}</p>
+                        {{ dd | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}
                     {% endif %}
                 {% endfor %}
             </dd>
