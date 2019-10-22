@@ -15,7 +15,7 @@
             </div>
         </div>
         <h3>Thématiques</h3>
-        <ol id="topics-list" aria-labelledby="titre-thematiques">
+        <ol id="topics-list">
         {% assign topic = "" %}
         {% for topics in site.data.rgaa.criteres.topics %}
             {% if topic != topics.topic %}
@@ -47,7 +47,7 @@
             {% endfor %}
 
         <article id="crit-{{ topics.number }}-{{ criteria.criterium.number }}" data-level="{{ critLevel }}" class="is-visible">
-            <h4 class="critere">Critère {{ topics.number }}.{{ criteria.criterium.number }}. {{ criteria.criterium.title | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}<button class="is-closed"><span class="show-for-sr">"Afficher les tests du critère {{ topics.number }}.{{ criteria.criterium.number }}"</span><svg aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 24 24"><path d="M24 9h-9v-9h-6v9h-9v6h9v9h6v-9h9z"/></svg></button></h4>
+            <h4 class="critere">Critère {{ topics.number }}.{{ criteria.criterium.number }}. {{ criteria.criterium.title | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify  | remove: '<p>' | remove: '</p>' }}<button class="is-closed"><span class="show-for-sr">"Afficher les tests du critère {{ topics.number }}.{{ criteria.criterium.number }}"</span><svg aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 24 24"><path d="M24 9h-9v-9h-6v9h-9v6h9v9h6v-9h9z"/></svg></button></h4>
                 <ul class="tests is-hidden">
                     {% assign testNum = 1 %}
                     {% for test in criteria.criterium.tests %}
