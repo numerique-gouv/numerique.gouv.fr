@@ -103,7 +103,7 @@ Zoom sur quelques postes de haut niveau dans le numérique public :
 >{: .margin-bottom-1}
 <br>
 >
-***Centre interministériel de services informatiques en matière de ressources humaines (ministères économiques et financiers)**
+* **Centre interministériel de services informatiques en matière de ressources humaines (ministères économiques et financiers)**
 * [**Ingénieur/Ingénieure réseau sécurité**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f3c98daf-62a0-47ce-9824-01b99c737e05&offerid=150292 "Ingénieur/Ingénieure réseau sécurité - Télécharger le pdf") (pdf - 454 ko)
 <br>Cadre/Catégorie A
 >{: .margin-bottom-1}
