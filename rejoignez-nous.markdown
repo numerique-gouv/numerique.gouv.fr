@@ -97,9 +97,9 @@ Zoom sur quelques postes de haut niveau dans le numérique public :
 <br>
 <br>
 >
-**Délégation ministérielle du numérique en santé (ministère de la Santé)**
-* [**Pilote de projets numériques ; Architecte systèmes d'information (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=38f05c96-f251-4c99-8e73-be79f4b724fc&offerid=232300 "Pilote de projets, architecte systèmes d'information F/H - Télécharger le pdf") (pdf - 112 ko)
-<br>Cadre supérieur/Catégorie A+
+**Agence pour l'informatique financière de l'État (ministère de l'action et des comptes publics)**
+* [**Chef/Cheffe de projet SAP FI-AA / RE-FX**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3d907072-7b12-4315-8eac-4c8d37224721&offerid=279859 "Chef/Cheffe de projet SAP FI-AA / RE-FX - Télécharger le pdf") (pdf - 182 ko)
+<br>Cadre/Catégorie A
 >{: .margin-bottom-1}
 * [**Pilote de projets numériques ; Chef/cheffe de produit**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=70df8c27-cac2-4a11-b380-08db884defa0&offerid=232304 "Pilote de projets numériques, chef.fe de produit - Télécharger le pdf") (pdf - 112 ko)
 <br>Cadre supérieur/Catégorie A+
