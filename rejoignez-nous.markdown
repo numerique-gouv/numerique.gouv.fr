@@ -109,7 +109,7 @@ Zoom sur quelques postes de haut niveau dans le numérique public :
 >{: .margin-bottom-1}
 <br>
 **Service du haut fonctionnaire de défense et de sécurité (secrétariat général des ministères économique et financiers)** 
-[**Chef/Cheffe de la mission ministérielle d'audits SSI ("Pentesteurs")**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dd3d352a-5eb0-4ec0-b47d-b14c76afac85&offerid=260391 "Chef/Cheffe de la mission ministérielle d'audits SSI - Télécharger le pdf") (pdf - 141 ko) 
+* [**Chef/Cheffe de la mission ministérielle d'audits SSI ("Pentesteurs")**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dd3d352a-5eb0-4ec0-b47d-b14c76afac85&offerid=260391 "Chef/Cheffe de la mission ministérielle d'audits SSI - Télécharger le pdf") (pdf - 141 ko) 
 <br>Cadre/Catégorie A
 {: .noir .encadre}
 
