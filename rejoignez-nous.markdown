@@ -103,19 +103,15 @@ Zoom sur quelques postes de haut niveau dans le numérique public :
 >{: .margin-bottom-1}
 <br>
 >
-***Centre interministériel de services informatiques en matière de ressources humaines (ministères Économiques et Financiers)**
+***Centre interministériel de services informatiques en matière de ressources humaines (ministères économiques et financiers)**
 * [**Ingénieur/Ingénieure réseau sécurité**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f3c98daf-62a0-47ce-9824-01b99c737e05&offerid=150292 "Ingénieur/Ingénieure réseau sécurité - Télécharger le pdf") (pdf - 454 ko)
 <br>Cadre/Catégorie A
 >{: .margin-bottom-1}
 <br>
 >
-* [**Chef/Cheffe de la mission ministérielle d'audits SSI ("Pentesteurs")**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dd3d352a-5eb0-4ec0-b47d-b14c76afac85&offerid=260391 "Chef/Cheffe de la mission ministérielle d'audits SSI - Télécharger le pdf") (pdf - 141 ko) 
+* **Secrétariat général des ministères économique et financiers** 
+[**Chef/Cheffe de la mission ministérielle d'audits SSI ("Pentesteurs")**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dd3d352a-5eb0-4ec0-b47d-b14c76afac85&offerid=260391 "Chef/Cheffe de la mission ministérielle d'audits SSI - Télécharger le pdf") (pdf - 141 ko) 
 <br>Cadre/Catégorie A
->{: .margin-bottom-1} 
-<br>
->
-* [**Pilote de projets numériques ; Expert/experte Europe et international**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=32a223e7-f86f-4f45-a81d-02cfeedc53ac&offerid=232322 "Pilote de projets numériques, expert.e Europe et international - Télécharger le pdf") (pdf - 112 ko)
-<br>Cadre supérieur/Catégorie A+
 {: .noir .encadre}
 
 
