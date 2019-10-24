@@ -93,7 +93,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 
 > ### Et aussi, dans les ministères…<a id="offresministères"></a> 
-Zoom sur quelques postes de haut niveau dans le numérique public :
+Zoom sur quelques postes dans le numérique public :
 <br>
 <br>
 >
