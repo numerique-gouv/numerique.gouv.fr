@@ -97,7 +97,7 @@ Zoom sur quelques postes dans le numérique public :
 <br>
 <br>
 >
-**Agence pour l'informatique financière de l'État (ministère de l'action et des comptes publics)**
+**Agence pour l'informatique financière de l'État (ministère de l'Action et des Comptes publics)**
 * [**Chef/Cheffe de projet SAP FI-AA / RE-FX**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3d907072-7b12-4315-8eac-4c8d37224721&offerid=279859 "Chef/Cheffe de projet SAP FI-AA / RE-FX - Télécharger le pdf") (pdf - 182 ko)
 <br>Cadre/Catégorie A
 >{: .margin-bottom-1}
@@ -108,7 +108,7 @@ Zoom sur quelques postes dans le numérique public :
 <br>Cadre/Catégorie A
 >{: .margin-bottom-1}
 <br>
-**Service du haut fonctionnaire de défense et de sécurité (secrétariat général des ministères économique et financiers)** 
+**Service du haut fonctionnaire de défense et de sécurité (secrétariat général des ministères économiques et financiers)** 
 * [**Chef/Cheffe de la mission ministérielle d'audits SSI ("Pentesteurs")**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dd3d352a-5eb0-4ec0-b47d-b14c76afac85&offerid=260391 "Chef/Cheffe de la mission ministérielle d'audits SSI - Télécharger le pdf") (pdf - 141 ko) 
 <br>Cadre/Catégorie A
 {: .noir .encadre}
