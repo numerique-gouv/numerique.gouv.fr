@@ -29,8 +29,8 @@ services-usagers:
     url: https://franceconnect.gouv.fr
   - link: demarches-simplifiees.fr
     url: https://demarches-simplifiees.fr
-  - link: monavis.numerique.gouv.fr
-    url: https://monavis.numerique.gouv.fr
+  - link: observatoire.numerique.gouv.fr
+    url: https://observatoire.numerique.gouv.fr
 
 outils-pour-les-agents:
   - link: Messagerie instantanée Tchap
