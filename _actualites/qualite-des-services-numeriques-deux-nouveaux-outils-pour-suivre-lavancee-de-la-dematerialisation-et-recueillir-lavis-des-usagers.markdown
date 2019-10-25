@@ -21,11 +21,11 @@ une-ou-diaporama:
 
 ### **Un observatoire de la qualité des services numériques**
 
-Où en est la dématérialisation des démarches de l’État ? Sont-elles de qualité ? Chacun peut désormais trouver réponse à ces questions facilement : la DINSIC vient de lancer, sous le portage du secrétaire d’État au Numérique Cédric O, un observatoire de la dématérialisation et de sa qualité. Un tableau de bord est dès aujourd’hui consultable sur [monavis.numerique.gouv.fr](https://monavis.numerique.gouv.fr/){:target="_blank"} et sera mis à jour tous les 3 mois.
+Où en est la dématérialisation des démarches de l’État ? Sont-elles de qualité ? Chacun peut désormais trouver réponse à ces questions facilement : la DINSIC vient de lancer, sous le portage du secrétaire d’État au Numérique Cédric O, un observatoire de la dématérialisation et de sa qualité. Un tableau de bord est dès aujourd’hui consultable sur [observatoire.numerique.gouv.fr](https://observatoire.numerique.gouv.fr/) et sera mis à jour tous les 3 mois.
 
-[![Observatoire de la qualité des services numériques](/uploads/capture-observatoire-300.png){: width="200px" height="120px" }](https://monavis.numerique.gouv.fr/observatoire/){:target="_blank"}
+[![Observatoire de la qualité des services numériques](/uploads/capture-observatoire-300.png){: width="200px" height="120px" }](https://monavis.numerique.gouv.fr/observatoire/)
 {: .text-center}
-> [Consulter l’observatoire de la qualité des services numériques](https://monavis.numerique.gouv.fr/observatoire/){:target="_blank"}
+> [Consulter l’observatoire de la qualité des services numériques](https://monavis.numerique.gouv.fr/observatoire/)
 {: .lien-important}
 
 Le tableau de bord de l'observatoire est également [disponible en open data sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/observatoire-de-la-dematerialisation-de-qualite-tableau-de-bord-des-demarches-phares-de-letat/).
@@ -43,7 +43,7 @@ Y sont passées en revue **les 250 démarches phares de l’État**, c’est-à-
 
 ### **L’avis des citoyens sur les démarches en ligne**
 
-Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : **MonAvis**. Grâce à **un bouton « Je donne mon avis »** placé à la fin de sa démarche, chaque usager pourra bientôt donner son avis sur une démarche administrative en ligne qu’il vient d’effectuer. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
+Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : **le bouton « Je donne mon avis ».** Placé à la fin d'une démarche administrative en ligne, ce bouton permettra à chaque usager de donner son avis sur celle-ci. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
 
 > [En savoir plus sur MonAvis](https://monavis.numerique.gouv.fr/Aide/Donner%20son%20avis){:target="_blank"}
 {: .lien-important}
@@ -53,12 +53,12 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 
 > #### Administrations, recueillez facilement la satisfaction de vos usagers en ligne, grâce à MonAvis
 > {: .margin-top-2 .margin-bottom-1}
-> <figure class='image-right' style='width: 30%;' margin='0'><img src="/uploads/Bouton_Je_donne_mon_avis_bleu-200.png"/></figure>Votre administration propose des services en ligne ? A votre tour, intégrez le bouton « MonAvis » à la fin de votre démarche afin de recueillir l’avis de vos usagers. Vous aurez ainsi accès à un tableau de pilotage en backoffice pour consulter les avis déposés, et ainsi identifier vos marges d’amélioration et suivre les progrès réalisés. En dehors du respect des critères de qualité, vous aurez aussi la possibilité de modifier les informations sur votre démarche publiées dans l’observatoire de la dématérialisation.
+> <figure class='image-right' style='width: 30%;' margin='0'><img src="/uploads/Bouton_Je_donne_mon_avis.svg"/></figure>Votre administration propose des services en ligne ? A votre tour, intégrez le bouton « MonAvis » à la fin de votre démarche afin de recueillir l’avis de vos usagers. Vous aurez ainsi accès à un tableau de pilotage en backoffice pour consulter les avis déposés, et ainsi identifier vos marges d’amélioration et suivre les progrès réalisés. En dehors du respect des critères de qualité, vous aurez aussi la possibilité de modifier les informations sur votre démarche publiées dans l’observatoire de la dématérialisation.
 > <br>
 > <br>
 > **Comment implémenter le bouton MonAvis ?** C’est très simple :
 > 
-> **1.** Créez votre compte sur [monavis.numerique.gouv.fr](https://monavis.numerique.gouv.fr/login/XWiki/XWikiLogin?xredirect=%2FXWiki%2FXWikiRegister)
+> **1.** Créez votre compte sur [observatoire.numerique.gouv.fr](https://observatoire.numerique.gouv.fr/login/XWiki/XWikiLogin?xredirect=%2FXWiki%2FXWikiRegister)
 > 
 > **2.** Grâce au moteur de recherche, trouvez la démarche pour laquelle vous souhaitez créer le bouton
 > 
