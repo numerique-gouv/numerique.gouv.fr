@@ -2,6 +2,7 @@
 title: 'Qualité des services publics numériques : les 250 démarches phares de nouveau
   évaluées'
 date: 2019-10-29 15:24:00 +01:00
+published: false
 chapeau-text: 'La direction interministérielle du numérique (DINUM) publie la première
   actualisation de l’observatoire de la qualité des services publics numériques lancé
   en juin dernier. '
