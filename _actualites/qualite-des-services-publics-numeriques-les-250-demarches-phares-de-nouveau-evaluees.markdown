@@ -8,6 +8,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) publie la 
 ---
 
 Après [le lancement en juin de l’observatoire](https://www.numerique.gouv.fr/actualites/qualite-des-services-numeriques-deux-nouveaux-outils-pour-suivre-lavancee-de-la-dematerialisation-et-recueillir-lavis-des-usagers/) de la qualité des services publics numériques, les 250 démarches administratives les plus utilisées par les Français ont de nouveau été passées au crible. Avancée de la dématérialisation, avis des usagers, respect des critères de qualité … l’observatoire a ainsi été mis à jour.
+<br>
 
 > **[> Consulter l’observatoire <](https://observatoire.numerique.gouv.fr/)**
 {: .text-center}
