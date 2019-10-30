@@ -5,8 +5,9 @@ date: 2019-06-21 18:36:00 +02:00
 categories:
 - Article
 tags:
-- qualité des services en ligne
 - dématérialisation
+- qualité des services publics numériques
+- observatoire
 chapeau-text: 250 démarches administratives « phares » accessibles en ligne pour les
   citoyens, avec un haut niveau de qualité. C’est la promesse du Gouvernement pour
   2022, rappelée lors du [3e comité interministériel de la transformation publique](https://www.gouvernement.fr/transformation-publique-le-gouvernement-tient-ses-engagements){:target="_blank"}
@@ -43,7 +44,7 @@ Y sont passées en revue **les 250 démarches phares de l’État**, c’est-à-
 
 ### **L’avis des citoyens sur les démarches en ligne**
 
-Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : **le bouton « Je donne mon avis ».** Placé à la fin d'une démarche administrative en ligne, ce bouton permettra à chaque usager de donner son avis sur celle-ci. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
+Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : [**le bouton « Je donne mon avis »**](https://observatoire.numerique.gouv.fr/Aide/Donner%20son%20avis). Placé à la fin d'une démarche administrative en ligne, ce bouton permettra à chaque usager de donner son avis sur celle-ci. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
 
 > [En savoir plus sur MonAvis](https://observatoire.numerique.gouv.fr/Aide/Donner%20son%20avis){:target="_blank"}
 {: .lien-important}
