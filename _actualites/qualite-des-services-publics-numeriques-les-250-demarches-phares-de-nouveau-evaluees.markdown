@@ -48,6 +48,6 @@ De premiers travaux d’amélioration sont en cours dans les administrations por
 
 Rendez-vous au prochain trimestre pour la prochaine édition de l’observatoire.
 
-
+<br>
 > **[Consulter l’observatoire](https://observatoire.numerique.gouv.fr/)**
 {: .lien-important}
