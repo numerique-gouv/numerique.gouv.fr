@@ -30,7 +30,7 @@
                             "7": [
                                 "Chaque image embarquée (balise `<embed>` avec l'attribut `type=\"image/…\"`) [porteuse d'information](#image-porteuse-d-information), vérifie-t-elle une de ces conditions ?",
                                 "La balise `<embed>` possède une alternative textuelle",
-                                "L'élément `<embed>` est immédiatement suivie d'un [lien ou bouton adjacent](#lien-ou-bouton-adjacent) permettant d'accéder à un [contenu alternatif](#contenu-alternatif).",
+                                "L'élément `<embed>` est immédiatement suivi d'un [lien ou bouton adjacent](#lien-ou-bouton-adjacent) permettant d'accéder à un [contenu alternatif](#contenu-alternatif).",
                                 "Un mécanisme permet à l'utilisateur de remplacer l'élément `<embed>` par un [contenu alternatif](#contenu-alternatif)."
                             ],
                             "8": [
@@ -179,7 +179,7 @@
                                 "S'il est présent le [contenu alternatif](#contenu-alternatif) est pertinent."
                             ],
                             "8": [
-                                "Pour chaque image bitmap (balise `<canvas>`) [porteuse d'information](#image-porteuse-d-information) et ayant un [contenu alternatif](#contenu-alternatif) entre `<canvas>` et `</canvas>`, ce [contenu alternatif](#contenu-alternatif) est-il [correctement restituée par les technologies d'assistance](#correctement-restitue-par-les-technologies-d-assistance) ?"
+                                "Pour chaque image bitmap (balise `<canvas>`) [porteuse d'information](#image-porteuse-d-information) et ayant un [contenu alternatif](#contenu-alternatif) entre `<canvas>` et `</canvas>`, ce [contenu alternatif](#contenu-alternatif) est-il [correctement restitué par les technologies d'assistance](#correctement-restitue-par-les-technologies-d-assistance) ?"
                             ],
                             "9": [
                                 "Pour chaque image [porteuse d'information](#image-porteuse-d-information) et ayant une [alternative textuelle](#alternative-textuelle-image), l'[alternative textuelle](#alternative-textuelle-image) est-elle [courte et concise](#alternative-courte-et-concise) (hors cas particuliers) ?"
@@ -912,7 +912,7 @@
                                 "Il existe une version alternative possédant des [sous-titres synchronisés](#sous-titres-synchronises-objet-multimedia) accessible via un [lien ou bouton adjacent](#lien-ou-bouton-adjacent)."
                             ],
                             "2": [
-                                "Pour chaque [média temporel](#media-temporel-type-son-video-et-synchronise) synchronisé pré-enregistré possédant des [sous-titres synchronisés](#sous-titres-synchronises-objet-multimedia) diffusés via une balise <track>, la balise <track> possède-t-elle un attribut kind=\"captions\" ?"
+                                "Pour chaque [média temporel](#media-temporel-type-son-video-et-synchronise) synchronisé pré-enregistré possédant des [sous-titres synchronisés](#sous-titres-synchronises-objet-multimedia) diffusés via une balise `<track>`, la balise `<track>` possède-t-elle un attribut `kind=\"captions\"` ?"
                             ]
                         },
                         "particularCases": [
@@ -1232,7 +1232,7 @@
                 {
                     "criterium": {
                         "number": 13,
-                        "title": "Chaque [média temporel](#media-temporel-type-son-video-et-synchronise)l et [non temporel](#media-non-temporel) est-il compatible avec les technologies d'assistance (hors cas particuliers) ?",
+                        "title": "Chaque [média temporel](#media-temporel-type-son-video-et-synchronise) et [non temporel](#media-non-temporel) est-il compatible avec les technologies d'assistance (hors cas particuliers) ?",
                         "tests": {
                             "1": [
                                 "Chaque [média temporel](#media-temporel-type-son-video-et-synchronise) et [non temporel](#media-non-temporel) vérifie-t-il une de ces conditions (hors cas particuliers) ?",
@@ -1917,7 +1917,7 @@
                         },
                         "particularCases": [
                             "Il y a une gestion de cas particulier sur la conformité du code HTML.",
-                            "Pour accompagner la prise en charge progressive de HTML par les navigateurs, les APIs d'accessibilité et les technologies d'assistance, certains critères peuvent exiger la présence d'attributs ou de balises déclarés « obsolètes » en HTML. Par ailleurs, dans la mesure où des balises ou des attributs déclarés « obsolètes » sont utilisés, ils restent soumis aux autres critères du RGAA (exemple la balise <marquee> serait non conforme par rapport au critère 13.8) et leur support d'accessibilité doit être vérifié au regard de l’environnement de test (ou « base de référence ») retenu."
+                            "Pour accompagner la prise en charge progressive de HTML par les navigateurs, les APIs d'accessibilité et les technologies d'assistance, certains critères peuvent exiger la présence d'attributs ou de balises déclarés « obsolètes » en HTML. Par ailleurs, dans la mesure où des balises ou des attributs déclarés « obsolètes » sont utilisés, ils restent soumis aux autres critères du RGAA (exemple la balise `<marquee>` serait non conforme par rapport au [critère 13.8](#crit-13-8)) et leur support d'accessibilité doit être vérifié au regard de l’environnement de test (ou « base de référence ») retenu."
                         ],
                         "references": [
                             {
@@ -3148,7 +3148,7 @@
                             ],
                             "7": [
                                 "Les champs ayant l'attribut aria-invalid=\"true\" dont la saisie requiert un type de données et/ou de format obligatoires vérifient-ils une de ces conditions ?",
-                                "Une instructions ou une indication du type de données et/ou de format obligatoire est visible et située dans la balise <label> associée au champ.",
+                                "Une instructions ou une indication du type de données et/ou de format obligatoire est visible et située dans la balise `<label>` associée au champ.",
                                 "Une instructions ou une indication du type de données et/ou de format obligatoire est visible et située dans le [passage de texte](#passage-de-texte-lie-par-aria-labelledby-ou-aria-describedby) associé au champ."
                             ]
                         },
@@ -3157,7 +3157,7 @@
                             {
                                 "ul": [
                                     "Visible ;",
-                                    "Dans la balise <label> ou dans la [légende](#legende) associée au champ."
+                                    "Dans la balise `<label>` ou dans la [légende](#legende) associée au champ."
                                 ]
                             },
                             "Dans le cas où l'ensemble des champs d'un formulaire sont obligatoires, le test 11.10.1 reste applicable."
@@ -3461,7 +3461,7 @@
                 {
                     "criterium": {
                         "number": 6,
-                        "title": "Les zones de regroupement de contenus présentes dans plusieurs pages web ([zone d'en-tête](#zone-d-en-tete), de [navigation principale](#menu-et-barre-de-navigation), de [contenu principal](#zone-de-contenu-principal), de [pied de page](#zone-de-pied-de-page) et de [moteur de recherche](#moteur-de-recherche-interne-a-un-site-web)) peuvent-elles être atteintes ou évitées ?",
+                        "title": "Les zones de regroupement de contenus présentes dans plusieurs pages web (zones d'[en-tête](#zone-d-en-tete), de [navigation principale](#menu-et-barre-de-navigation), de [contenu principal](#zone-de-contenu-principal), de [pied de page](#zone-de-pied-de-page) et de [moteur de recherche](#moteur-de-recherche-interne-a-un-site-web)) peuvent-elles être atteintes ou évitées ?",
                         "tests": {
                             "1": [
                                 "Dans chaque page web où elles sont présentes, la [zone d'en-tête](#zone-d-en-tete), de [navigation principale](#menu-et-barre-de-navigation), de [contenu principal](#zone-de-contenu-principal), de [pied de page](#zone-de-pied-de-page) et de [moteur de recherche](#moteur-de-recherche-interne-a-un-site-web) respectent-elles au moins une de ces conditions :",
@@ -3981,8 +3981,8 @@
                             "Références documentaires :",
                             {
                                 "ul": [
-                                    "API JS : [https://www.w3.org/TR/screen-orientation/](#https://www.w3.org/TR/screen-orientation/).",
-                                    "API Viewport : [https://www.w3.org/TR/css-device-adapt-1/#orientation-desc](#https://www.w3.org/TR/css-device-adapt-1/#orientation-desc)."
+                                    "API JS : [https://www.w3.org/TR/screen-orientation/](https://www.w3.org/TR/screen-orientation/).",
+                                    "API Viewport : [https://www.w3.org/TR/css-device-adapt-1/#orientation-desc](https://www.w3.org/TR/css-device-adapt-1/#orientation-desc)."
                                 ]
                             }
                         ],

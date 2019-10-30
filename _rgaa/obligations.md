@@ -15,9 +15,9 @@ layout: rgaa-accessibilite
   * [Contenus exemptés](#contenus-exemptés)
 * [Norme de référence et niveau de conformité](#norme-de-référence-et-niveau-de-conformité)
 * [Dérogation pour charge disproportionnée](#dérogation-pour-charge-disproportionnée)
-* [Évaluation de la conformité à la norme de référence](#évaluation-de-la-conformité-à-la-norme-de-référence)
+* [Évaluation de la conformité à la norme de référence](#Évaluation-de-la-conformité-à-la-norme-de-référence)
   * [Cadre général](#cadre-général)
-  * [Échantillon](#échantillon)
+  * [Échantillon](#Échantillon)
   * [Environnement de test (ou « base de référence »)](#environnement-de-test-ou-base-de-référence)
   * [Test des pages](#test-des-pages)
   * [Taux de conformité à la norme](#taux-de-conformité-à-la-norme)
@@ -134,7 +134,7 @@ Afin d'évaluer la conformité du service de communication au public en ligne av
 L'audit (ou évaluation) répond aux critères suivants :
 
   * il est fiable : il revient à l'organisme concerné de veiller à la fiabilité de sa déclaration par tous moyens (recours à un prestataire externe, formation d'experts internes, audits croisés…) ; 
-  * il est représentatif : il porte sur un échantillon représentatif des pages du service de communication au public en ligne (cf. section « Echantillon » si dessous).
+  * il est représentatif : il porte sur un échantillon représentatif des pages du service de communication au public en ligne (cf. section « Echantillon » ci-dessous).
 
 En application de l'article 5 du décret n° 2019-768 du 24 juillet 2019 susmentionné relatif à l'accessibilité des services de communication au public en ligne aux personnes handicapées, les personnes mentionnées aux 1° à 3° de l'article 47 précité vérifient l'accessibilité de leurs services de communication au public en ligne, conformément à la norme de référence, en appliquant la méthode technique du présent référentiel. Cependant, jusqu’au 31 décembre 2019, il reste possible d’effectuer un audit de conformité tel que définit dans le RGAA3.0 mis à jour en 2017.
 
