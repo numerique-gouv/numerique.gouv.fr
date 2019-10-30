@@ -6,7 +6,7 @@ categories:
 - Article
 tags:
 - observatoire
-- qualité des services publics numeriques
+- qualité des services publics numériques
 - dématérialisation
 chapeau-text: La direction interministérielle du numérique (DINUM) publie la première
   actualisation de l’observatoire de la qualité des services publics numériques [lancé

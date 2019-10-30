@@ -5,9 +5,9 @@ date: 2019-06-21 18:36:00 +02:00
 categories:
 - Article
 tags:
-- dématérialisation
-- qualité des services publics numériques
 - observatoire
+- qualité des services publics numériques
+- dématérialisation
 chapeau-text: 250 démarches administratives « phares » accessibles en ligne pour les
   citoyens, avec un haut niveau de qualité. C’est la promesse du Gouvernement pour
   2022, rappelée lors du [3e comité interministériel de la transformation publique](https://www.gouvernement.fr/transformation-publique-le-gouvernement-tient-ses-engagements){:target="_blank"}
