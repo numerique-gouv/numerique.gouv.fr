@@ -1,6 +1,6 @@
 ---
 title: La DINUM
-permalink: "/dinsic/"
+permalink: "/dinum/"
 position: 5
 sous-titre: Avec le numérique, nous créons le service public de demain
 chapeau-text: 'La direction interministérielle du numérique (DINUM) est en charge
