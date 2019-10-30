@@ -31,7 +31,7 @@ Comment calcule-t-on cet indicateur ? On mesure l’effort demandé à l’usage
 
 ### La satisfaction des usagers, priorité numéro 1
 
-Suivi également dans l’observatoire, le déploiement du bouton « Je donne mon avis », que la DINUM met à la disposition de toutes les administrations, se poursuit et s’intensifie. Objectif : qu’il soit disponible à la fin de chaque service en ligne parmi ces 250 démarches phares, d’ici à fin 2019.  Inscrite dans le cadre du [dispositif Vox usagers](https://voxusagers.gouv.fr/app/vox/home), cette enquête de satisfaction, à chaud, permet de prendre la température directement auprès des premiers concernés, et de contribuer à détecter les services nécessitant une amélioration.
+<figure class='image-right' style='width: 30%;' margin='0'><img src="/uploads/Bouton_Je_donne_mon_avis.svg"/></figure>Suivi également dans l’observatoire, le déploiement du bouton « Je donne mon avis », que la DINUM met à la disposition de toutes les administrations, se poursuit et s’intensifie. Objectif : qu’il soit disponible à la fin de chaque service en ligne parmi ces 250 démarches phares, d’ici à fin 2019.  Inscrite dans le cadre du [dispositif Vox usagers](https://voxusagers.gouv.fr/app/vox/home), cette enquête de satisfaction, à chaud, permet de prendre la température directement auprès des premiers concernés, et de contribuer à détecter les services nécessitant une amélioration.
 
 ### Un appui aux administrations renforcé
 
