@@ -12,6 +12,8 @@ chapeau-text: La direction interministérielle du numérique (DINUM) publie la p
   actualisation de l’observatoire de la qualité des services publics numériques [lancé
   en juin dernier](https://www.numerique.gouv.fr/actualites/qualite-des-services-numeriques-deux-nouveaux-outils-pour-suivre-lavancee-de-la-dematerialisation-et-recueillir-lavis-des-usagers/)
   par Cédric O, secrétaire d’État chargé du Numérique.
+une-ou-diaporama:
+- image: "/uploads/Observatoire-oct2019-une.jpg"
 ---
 
 L’observatoire de la qualité des services publics numériques  est à la fois un outil de travail et d’information. Aujourd’hui, les 250 démarches administratives les plus utilisées par les Français sont de nouveau passées au crible. Avancée de la dématérialisation, avis des usagers, respect des critères de qualité… l’observatoire a ainsi été mis à jour.
