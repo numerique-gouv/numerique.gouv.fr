@@ -16,7 +16,7 @@ chapeau-text: La direction interministérielle du numérique (DINUM) publie la p
 
 L’observatoire de la qualité des services publics numériques  est à la fois un outil de travail et d’information. Aujourd’hui, les 250 démarches administratives les plus utilisées par les Français sont de nouveau passées au crible. Avancée de la dématérialisation, avis des usagers, respect des critères de qualité … l’observatoire a ainsi été mis à jour.
 
-[![Observatoire de la qualité des services numériques](/uploads/capture-observatoire-oct2019-851502.png){: width="200px" height="165px" }](https://observatoire.numerique.gouv.fr/)
+[![Consulter l'observatoire de la qualité des services numériques](/uploads/capture-observatoire-oct2019-851502.png){: width="200px" height="165px" }](https://observatoire.numerique.gouv.fr/)
 {: .text-center}
 > **[Consulter l’observatoire](https://observatoire.numerique.gouv.fr/)**
 {: .lien-important}
