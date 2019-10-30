@@ -22,7 +22,7 @@ L’observatoire de la qualité des services publics numériques  est à la fois
 {: .lien-important}
 
 
-### **Un nouveau critère de qualité suivi**
+### Un nouveau critère de qualité suivi
 
 Principale nouveauté, cette édition introduit un sixième critère de qualité : le chemin restant à parcourir pour mettre en œuvre le principe « Dites-le-nous une fois », qui consiste à ne pas demander à l’usager d’informations et justificatifs détenus par d’autres administrations.
 
