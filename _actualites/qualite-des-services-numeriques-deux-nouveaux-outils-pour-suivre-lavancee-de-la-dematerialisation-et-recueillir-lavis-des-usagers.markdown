@@ -5,7 +5,8 @@ date: 2019-06-21 18:36:00 +02:00
 categories:
 - Article
 tags:
-- qualité des services en ligne
+- observatoire
+- qualité des services publics numériques
 - dématérialisation
 chapeau-text: 250 démarches administratives « phares » accessibles en ligne pour les
   citoyens, avec un haut niveau de qualité. C’est la promesse du Gouvernement pour
@@ -23,9 +24,9 @@ une-ou-diaporama:
 
 Où en est la dématérialisation des démarches de l’État ? Sont-elles de qualité ? Chacun peut désormais trouver réponse à ces questions facilement : la DINSIC vient de lancer, sous le portage du secrétaire d’État au Numérique Cédric O, un observatoire de la dématérialisation et de sa qualité. Un tableau de bord est dès aujourd’hui consultable sur [observatoire.numerique.gouv.fr](https://observatoire.numerique.gouv.fr/) et sera mis à jour tous les 3 mois.
 
-[![Observatoire de la qualité des services numériques](/uploads/capture-observatoire-300.png){: width="200px" height="120px" }](https://monavis.numerique.gouv.fr/observatoire/)
+[![Observatoire de la qualité des services numériques](/uploads/capture-observatoire-300.png){: width="200px" height="120px" }](https://observatoire.numerique.gouv.fr/)
 {: .text-center}
-> [Consulter l’observatoire de la qualité des services numériques](https://monavis.numerique.gouv.fr/observatoire/)
+> [Consulter l’observatoire de la qualité des services numériques](https://observatoire.numerique.gouv.fr/)
 {: .lien-important}
 
 Le tableau de bord de l'observatoire est également [disponible en open data sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/observatoire-de-la-dematerialisation-de-qualite-tableau-de-bord-des-demarches-phares-de-letat/).
@@ -43,9 +44,9 @@ Y sont passées en revue **les 250 démarches phares de l’État**, c’est-à-
 
 ### **L’avis des citoyens sur les démarches en ligne**
 
-Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : **le bouton « Je donne mon avis ».** Placé à la fin d'une démarche administrative en ligne, ce bouton permettra à chaque usager de donner son avis sur celle-ci. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
+Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : [**le bouton « Je donne mon avis »**](https://observatoire.numerique.gouv.fr/Aide/Donner%20son%20avis). Placé à la fin d'une démarche administrative en ligne, ce bouton permettra à chaque usager de donner son avis sur celle-ci. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
 
-> [En savoir plus sur MonAvis](https://monavis.numerique.gouv.fr/Aide/Donner%20son%20avis){:target="_blank"}
+> [En savoir plus sur MonAvis](https://observatoire.numerique.gouv.fr/Aide/Donner%20son%20avis){:target="_blank"}
 {: .lien-important}
 
 Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement en expérimentation à la Caf du Gard qui, lui, permettra aux usagers de partager leur expérience avec les services publics, tous canaux confondus.
