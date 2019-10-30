@@ -339,7 +339,7 @@
                                         "`meter`."
                                     ]
                                 },
-                                "Les balises possédant un rôle WAI-ARIA permettant de restituer un champ de formulaire sont également couvert par cette définition :",
+                                "Les balises possédant un rôle WAI-ARIA permettant de restituer un champ de formulaire sont également couvertes par cette définition :",
                                 {
                                     "ul": [
                                         "`progressbar`;",
@@ -396,8 +396,8 @@
                 {
                     "dt": "Changement de langue",
                     "dd": [
-                        "L'indication des changements de langue est nécessaire pour indiquer aux technologies d'assistance de modifier la restitution vocale d'un élément. Les changement de langue concernent tous les contenus, y compris les valeurs de certains attributs comme `title`.",
-                        "Note : il n'est pas possible d'indiquer des changements de langue dans une valeur d'attribut elle-même, dans ce cas le changement de langue est indiqué sur l'élément qui contient l'attribut. Par exemple un lien affecté d'un `title` en anglais devra comporter un attribut `lang=\"en\"`. Lorsque l'attribut contient plusieurs passage de texte dans des langues différentes, le critère est non applicable."
+                        "L'indication des changements de langue est nécessaire pour indiquer aux technologies d'assistance de modifier la restitution vocale d'un élément. Les changements de langue concernent tous les contenus, y compris les valeurs de certains attributs comme `title`.",
+                        "Note : il n'est pas possible d'indiquer des changements de langue dans une valeur d'attribut elle-même, dans ce cas le changement de langue est indiqué sur l'élément qui contient l'attribut. Par exemple un lien affecté d'un `title` en anglais devra comporter un attribut `lang=\"en\"`. Lorsque l'attribut contient plusieurs passages de texte dans des langues différentes, le critère est non applicable."
                     ]
                 },
                 {
@@ -427,7 +427,7 @@
                         "La vérification de la compatibilité avec les technologies d'assistance nécessite de réaliser un certain nombre de tests spécifiques à la technologie utilisée, par exemple :",
                         {
                             "ul": [
-                                "Vérifier le nom, le rôle, le paramétrage et les changement d'états des composants d'interface;",
+                                "Vérifier le nom, le rôle, le paramétrage et les changements d'états des composants d'interface;",
                                 "Vérifier que la restitution d'un composant d'interface est correcte pour la ou les technologies d'assistance utilisées."
                             ]
                         }
@@ -489,7 +489,7 @@
                             ]
                         },
                         "Note 1 : l'un des 6 contextes de lien combiné à l'[intitulé du lien](#intitule-du-lien) doit permettre de comprendre la fonction et la destination du lien.",
-                        "Note 2 : RGAA considère que des liens particuliers comme des liens de type `mailto` (qui génère un lien sous la forme d'une adresse email cliquable) sont suffisamment explicites et ne requièrent pas de signaler que l'action consiste à envoyer un email. L'attention des auteurs est appelée sur le fait que cette règle générale peut être adaptée au contexte, par exemple si la page contient plusieurs adresses email cliquables affectées de comportements différents (envoyer un email via le client de messagerie pour l'une, accéder à un formulaire pour l'autre) il peut être nécessaire de donner des informations complémentaire sur l'action du lien afin de différencier leurs comportements."
+                        "Note 2 : RGAA considère que des liens particuliers comme des liens de type `mailto` (qui génère un lien sous la forme d'une adresse email cliquable) sont suffisamment explicites et ne requièrent pas de signaler que l'action consiste à envoyer un email. L'attention des auteurs est appelée sur le fait que cette règle générale peut être adaptée au contexte, par exemple si la page contient plusieurs adresses email cliquables affectées de comportements différents (envoyer un email via le client de messagerie pour l'une, accéder à un formulaire pour l'autre) il peut être nécessaire de donner des informations complémentaires sur l'action du lien afin de différencier leurs comportements."
                     ]
                 },
                 {
@@ -520,7 +520,7 @@
                     "dt": "Contrôle (contenu en mouvement ou clignotant)",
                     "dd": [
                         "Possibilité pour l'utilisateur de contrôler l'affichage ou la lecture d'un contenu en mouvement ou clignotant par le clavier et la souris, au moins.",
-                        "Tous les contenus en mouvement, à l'exception des média temporels pris en charge par la thématique multimédia, sont concernés : les images animés (par exemple un gif animé), les contenus en mouvement proposés via une balise `<object>`, du code JavaScript ou des effets CSS par exemple.",
+                        "Tous les contenus en mouvement, à l'exception des médias temporels pris en charge par la thématique multimédia, sont concernés : les images animées (par exemple un gif animé), les contenus en mouvement proposés via une balise `<object>`, du code JavaScript ou des effets CSS par exemple.",
                         "Note 1 : lorsque c'est approprié, la méthode de contrôle devrait être disponible comme premier élément de la page.",
                         "Note 2 : la méthode de contrôle du contenu en mouvement ou clignotant doit permettre à l'utilisateur d'interagir avec le reste de la page. En conséquence, l'arrêt ou la mise en pause via un événement déclenché uniquement sur la prise de focus ne permet pas de valider le critère.",
                         "Note 3 : Dans certains cas, le mouvement fait partie intégrante du composant et il n'est pas possible d'en donner le contrôle à l'utilisateur, par exemple une barre de progression dont la fonction est d'indiquer par un mouvement la progression d'un évènement comme un téléchargement. Dans ce cas le critère est Non Applicable."
@@ -596,7 +596,7 @@
                                 "Un ou plusieurs passages de texte identifiés par un id et liés par un attribut WAI-ARIA `aria-describedby` sur le modèle `aria-describedby=\"ID1 ID2 ID3…\"`."
                             ]
                         },
-                        "Note 1 : Si le support de l'attribut `aria-describedby` fait défaut, on il est possible d'utiliser un ou plusieurs passages de texte identifiés par un `id` et liés par un attribut WAI-ARIA `aria-labelledby` à la suite de l'alternative textuelle.",
+                        "Note 1 : Si le support de l'attribut `aria-describedby` fait défaut, il est possible d'utiliser un ou plusieurs passages de texte identifiés par un `id` et liés par un attribut WAI-ARIA `aria-labelledby` à la suite de l'alternative textuelle.",
                         "Note 2 : Pour assurer une compatibilité maximum avec les agents utilisateurs, notamment Internet Explorer 11, il est recommandé d'implémenter un `tabindex=\"-1\"` sur les balises qui contiennent un passage de texte et qui ne sont pas des éléments interactifs (bouton, liens, éléments de formulaires, etc.)."
                     ]
                 }
@@ -853,7 +853,7 @@
                             ]
                         },
                         "Référence : [Accessible name and description calculation](https://www.w3.org/TR/accname-1.1/).",
-                        "Dans le cas où le « nom accessible » est obtenu à partir du contenu du lien, celui ci sera variable en fonction des cas suivants :",
+                        "Dans le cas où le « nom accessible » est obtenu à partir du contenu du lien, celui-ci sera variable en fonction des cas suivants :",
                         "Lien texte :",
                         "En HTML, le « nom accessible » correspond au texte constitué à partir :",
                         {
@@ -893,7 +893,7 @@
                         },
                         "Il faut cependant être vigilant car cet algorithme de calcul n'est pas encore pris en compte et effectif au sein des différents lecteurs d'écran. A ce jour, le support est disponible avec VoiceOver, mais incomplet ou lacunaire avec JAWS et NVDA. Si bien que le plus petit dénominateur commun sur lequel il est possible de se reposer pour fournir un intitulé au lien est l'élément `<text>`.",
                         "Note 1 : un intitulé de lien sera considéré comme non-explicite dans le cas où le « nom accessible » ne reprend pas l'[intitulé visible](#intitule-visible) du lien.",
-                        "Note 2 : en raison de la configuration possible des aides techniques permettant de forcer la restitution de « nom accessible » issu du contenu de attribut `title` au détriment du « nom accessible » issu du contenu du lien. Un intitulé de lien sera considéré comme non-explicite dans le cas où le lien possède un attribut `title` dont la valeur ne reprendrait pas au moins le « nom accessible » issu du contenu du lien.",
+                        "Note 2 : en raison de la configuration possible des aides techniques permettant de forcer la restitution du « nom accessible » issu du contenu de l'attribut `title` au détriment du « nom accessible » issu du contenu du lien. Un intitulé de lien sera considéré comme non-explicite dans le cas où le lien possède un attribut `title` dont la valeur ne reprendrait pas au moins le « nom accessible » issu du contenu du lien.",
                         "Note 3 : dans le cas de la présence de plusieurs liens ayant une destination différente dont le « nom accessible » est identique. L'intitulé de lien seul sera considéré comme non-explicite si le contexte de lien ne permet pas de les différencier.",
                         "Note 4 : lorsqu'un lien ne comporte aucun contenu (à l'exception des ancres), il sera non conforme au regard du [critère 10.2](#crit-10-2) et du [critère 6.4](#crit-6-4).",
                         "Note 5 : bien que le calcul du nom accessible d’un lien tienne compte de contenus texte générés en CSS via les pseudo-éléments `::before` et `::after`, cette pratique ne doit pas être utilisée car elle constitue une non conformité au critère 1.3.1 des WCAG 2.1 (cf. [F87](https://www.w3.org/WAI/WCAG21/Techniques/failures/F87))."
@@ -1037,7 +1037,7 @@
                 {
                     "dt": "Lien dont la nature n'est pas évidente",
                     "dd": [
-                        "Lien qui peut être confondu avec un texte normal lorsqu'il est signalé uniquement par la couleur par certains types d'utilisateurs ne percevant pas ou mal les couleurs. Par exemple, dans ce texte \"Nouvelle grève à la SNCF\", si le mot \"grève\" est un lien signalé uniquement par la couleur, sa nature peut être ignorée par les utilisateurs ne percevant pas la couleur et accédant au contenu CSS activées. En revanche, dans ce texte \"Nouvelle grève à la SNCF, lire la suite\" si \"lire la suite\" est un lien, un utilisateur ne percevant pas les couleurs n'aura pas de problème pour en comprendre la nature.",
+                        "Lien qui peut être confondu avec un texte normal lorsqu'il est signalé uniquement par la couleur par certains types d'utilisateurs ne percevant pas ou mal les couleurs. Par exemple, dans ce texte \"Nouvelle grève à la SNCF\", si le mot \"grève\" est un lien signalé uniquement par la couleur, sa nature peut être ignorée par les utilisateurs ne percevant pas la couleur et accédant au contenu CSS activé. En revanche, dans ce texte \"Nouvelle grève à la SNCF, lire la suite\" si \"lire la suite\" est un lien, un utilisateur ne percevant pas les couleurs n'aura pas de problème pour en comprendre la nature.",
                         "Note : \"signalés uniquement par la couleur\" signifie que le lien n'est accompagné d'aucun marqueur visuel (icône, soulignement, bordure…). En conséquence un lien de la même couleur que le texte environnant est concerné par ce critère."
                     ]
                 },
@@ -1313,7 +1313,7 @@
                 {
                     "dt": "Passage de texte associé au tableau de données",
                     "dd": [
-                        "Texte dans une balise `<caption>` ou dans une balise associée au tableau donnée via l'attribut WAI-ARIA `aria-labelledby` sur le tableau."
+                        "Texte dans une balise `<caption>` ou dans une balise associée au tableau de données via l'attribut WAI-ARIA `aria-labelledby`."
                     ]
                 },
                 {
@@ -1394,7 +1394,7 @@
                 {
                     "dt": "Règles d'écriture",
                     "dd": [
-                        "Le code source doit respecter les règles suivante en accord avec la déclaration de type de document utilisée dans la page :",
+                        "Le code source doit respecter les règles suivantes en accord avec la déclaration de type de document utilisée dans la page :",
                         {
                             "ul": [
                                 "Pas de balise ouvrante ou fermante sans < ou > (exemple d'erreur : `li>toto`);",
