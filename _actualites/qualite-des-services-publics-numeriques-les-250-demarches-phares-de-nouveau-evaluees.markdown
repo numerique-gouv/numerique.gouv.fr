@@ -38,7 +38,11 @@ C’est bien là tout l’enjeu de l’observatoire : identifier les démarches 
 
 De premiers travaux d’amélioration sont en cours dans les administrations porteuses des démarches en ligne. Par exemple, l’agence nationale des titres sécurisés (ANTS), qui gère notamment les procédures d’immatriculation des véhicules, a entrepris une démarche davantage centrée sur l’utilisateur afin de concevoir les prochaines versions, à travers notamment des tests usagers réalisés cet été. 
 
-*« En rendant public cet observatoire, le Gouvernement tient à faire état de l’avancée de la dématérialisation des services publics en toute transparence,* déclare Cédric O, secrétaire d’État chargé du Numérique. *Beaucoup reste à faire pour être à la hauteur des attentes de nos concitoyens mais je tiens à saluer l’engagement de tous les services de l’État qui, en lien avec la DINUM, engagent un travail colossal qui a pour seul objectif de simplifier et faciliter les démarches des usagers. »*
+> En rendant public cet observatoire, le Gouvernement tient à faire état de l’avancée de la dématérialisation des services publics en toute transparence. Beaucoup reste à faire pour être à la hauteur des attentes de nos concitoyens mais je tiens à saluer l’engagement de tous les services de l’État qui, en lien avec la DINUM, engagent un travail colossal qui a pour seul objectif de simplifier et faciliter les démarches des usagers.
+{: .citation}
+> **Cédric O** 
+> <br>Secrétaire d’État chargé du Numérique
+{: .auteur-citation}
 
 Rendez-vous au prochain trimestre pour la prochaine édition de l’observatoire.
 
