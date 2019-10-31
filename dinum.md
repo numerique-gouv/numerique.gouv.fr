@@ -6,7 +6,7 @@ sous-titre: Avec le numérique, nous créons le service public de demain
 chapeau-text: 'La direction interministérielle du numérique (DINUM) est en charge
   de la transformation numérique de l’État au bénéfice du citoyen comme de l''agent,
   sous tous ses aspects : modernisation du système d''information de l''État, qualité
-  des services publics numériques, création de services innovants pour les citoyens… '
+  des services publics numériques, création de services innovants pour les citoyens…'
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: ordinateur portable
@@ -33,3 +33,7 @@ La DINUM comprend trois départements, une direction de programme et deux pôles
 * **le département « Performance des services numériques » (PSN)** conçoit les plans d’actions interministériels en matière de mutualisation, dématérialisation, pilotage des projets et qualité des services numériques, et soutient leur mise en œuvre ;
 * **le pôle « Animation »** coordonne et soutient les départements de la direction dans la promotion de leur activité et l’animation de leurs écosystèmes. Il assure également la communication interne et la qualité des conditions de travail des agents de la direction ;
 * **le pôle « Gestion »** assure les tâches de gestion en matière de ressources humaines, de finances et d’achats.
+
+> [Télécharger la note d'organisation](/uploads/Note_organisation_DINUM_20191031.pdf)
+
+> [Télécharger l'organigramme de la DINUM](/uploads/organigramme_DINUM.pdf)
