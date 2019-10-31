@@ -29,5 +29,5 @@ La DINUM comprend trois départements, une direction de programme et deux pôles
 * **le département « Infrastructures et services opérés » (ISO)** conçoit et opère des services d’infrastructures à valeur ajoutée mutualisés entre les administrations, dont le réseau interministériel de l’État (RIE) ;
 * **le département « Etalab »** coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée ;
 * **le département « Performance des services numériques » (PSN)** conçoit les plans d’actions interministériels en matière de mutualisation, dématérialisation, pilotage des projets et qualité des services numériques, et soutient leur mise en œuvre ;
-* **le pôle « Animation » ** coordonne et soutient les départements de la direction dans la promotion de leur activité et l’animation de leurs écosystèmes. Il assure également la communication interne et la qualité des conditions de travail des agents de la direction ;
+* **le pôle « Animation »** coordonne et soutient les départements de la direction dans la promotion de leur activité et l’animation de leurs écosystèmes. Il assure également la communication interne et la qualité des conditions de travail des agents de la direction ;
 * **le pôle « Gestion »** assure les tâches de gestion en matière de ressources humaines, de finances et d’achats.
