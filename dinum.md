@@ -21,6 +21,8 @@ Elle pilote, avec l'appui des ministères, [**le programme TECH.GOUV** d'accél�
 
 La DINUM est un **service du Premier ministre**, placé sous l’autorité du ministre de l'Action et des Comptes publics, et mis à la disposition du ministre de l’Économie et des Finances et du secrétaire d’État chargé du Numérique.
 <br>
+<br>
+<br>
 
 ### **Organisation**
 
