@@ -20,9 +20,9 @@ Elle **accompagne les ministères dans leur transformation numérique, conseille
 Elle pilote, avec l'appui des ministères, [**le programme TECH.GOUV** d'accélération de la transformation numérique du service public](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/).
 
 La DINUM est un **service du Premier ministre**, placé sous l’autorité du ministre de l'Action et des Comptes publics, et mis à la disposition du ministre de l’Économie et des Finances et du secrétaire d’État chargé du Numérique.
+<br>
 
-
-### Organisation
+### **Organisation**
 
 La DINUM comprend trois départements, une direction de programme et deux pôles :
 * **la direction de programme TECH.GOUV** pilote le programme interministériel de transformation numérique du service public TECH.GOUV, dont l’incubateur de services numériques (Beta.gouv) ;
