@@ -8,10 +8,11 @@ tags:
 - RGAA
 - accessibilité
 position: 1
+date_de_modification: 21 octobre 2019
 chapeau-text: La **direction interministérielle du numérique et du système d'information
-  de l'État** (DINSIC) publie la quatrième version du **référentiel général d'amélioration
-  de l'accessibilité** (RGAA, anciennement référentiel général d'accessibilité des
-  administrations).
+  et de communication de l'État** (DINSIC) publie la quatrième version du **référentiel
+  général d'amélioration de l'accessibilité** (RGAA, anciennement référentiel général
+  d'accessibilité des administrations).
 une:
   image: "/uploads/20191001_Publication_RGAA.jpg"
   alternative-textuelle: L'accessibilité numérique

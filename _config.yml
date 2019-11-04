@@ -17,12 +17,12 @@ collections:
     title: Evénements
     output: true
     permalink: "/agenda/:title/"
-  methode:
-    title: Méthode technique  
-    output: true
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
+  methode:
+    title: Méthode technique
+    output: true
   pages:
     title: Pages
     output: true
