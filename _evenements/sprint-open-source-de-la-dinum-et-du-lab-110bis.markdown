@@ -14,7 +14,8 @@ event_end_date: 2019-11-20 18:00:00 +01:00
 lieu: Lab 110 bis – Ministère de l’Éducation nationale,
 adresse: 54 rue de Bellechasse, 75007 Paris
 champs_informations:
-- Modalités: Inscription obligatoire et gratuite
+- intitule: Modalités
+  contenu: Inscription obligatoire et gratuite
   Lien: https://framaforms.org/sprint-open-source-de-la-dinum-et-du-lab-110bis-les-19-et-20-novembre-2019-1571036385
 - intitule: Précisions
   contenu: |-
