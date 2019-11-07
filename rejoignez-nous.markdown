@@ -44,9 +44,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Responsable produit « FranceConnect » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=12f9bab9-55d4-429e-b14c-b1625eaa122b&offerid=236696 "Responsable produit FranceConnect - Télécharger le pdf") (pdf - 678 ko)
-<br>Cadre/Catégorie A
-
 * [**Chargé/chargée du support et de l'accompagnement des usagers de « démarches simplifiées »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=413a0aab-3ce3-482e-a3f3-9c3dd6c9e416&offerid=246232 "Chargé du support et de l'accompagnement des usagers de « démarches simplifiées » CDD") (pdf - 246&nbsp;ko) 
 <br>Cadre/Catégorie A
 <br>
@@ -64,15 +61,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 * [**Chargé/chargée de mission « production » du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=51645668-f9ef-4b26-a23a-3090c4d51315&offerid=255120 "Chargé/chargée de mission « production » du réseau interministériel de l'État - Télécharger le pdf") (pdf - 755 ko)
 <br>Catégorie A (cadre) , B
 <br>Poste localisé en Auvergne-Rhône-Alpes (Rhône, 69)
- 
-* [**Chargé/chargée de mission sécurité web**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=bcda4fbf-aa82-443d-808f-23fa0377e407&offerid=235665 "Chargé/chargée de mission sécurité web - Télécharger le pdf") (pdf - 380 ko)
-<br>Cadre/Catégorie A
 
 * [**Architecte « services d'accès internet » du réseau interministériel de l'État (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=512a28a3-5745-40f4-ad35-8665c6f1936c&offerid=243187 "Architecte service d'accès internet du réseau interministériel de l'État - Télécharger le pdf")
 (pdf - 300 ko)
-<br>Cadre/Catégorie A
-
-* [**Architecte expert/experte du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=b8df9b54-955a-4db6-9be2-c1276ecbcd01&offerid=243191 "Architecte expert/experte du réseau interministériel de l'État - Télécharger le pdf") (pdf - 300 ko)
 <br>Cadre/Catégorie A
 <br>
 <br>
