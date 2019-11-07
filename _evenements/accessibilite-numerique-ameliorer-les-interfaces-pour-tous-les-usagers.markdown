@@ -1,5 +1,5 @@
 ---
-title: 'Accessibilité numérique : comment améliorer les interfaces pour tous les usagers'
+title: 'Accessibilité numérique : améliorer les interfaces pour tous les usagers'
 date: 2019-11-07 18:22:00 +01:00
 tags:
 - accessibilité
@@ -8,6 +8,8 @@ tags:
 chapeau-text: 'La DINUM organise une matinée dédiée à l''accessibilité numérique,
   en présence du secrétaire d''État chargé du Numérique, Cédric O. Au programme :
   tables rondes, échanges et présentations.'
+une-ou-diaporama:
+- image: "/uploads/evt-accessibilite-nov2019.jpg"
 event_start_date: 2019-11-29 00:00:00 +01:00
 lieu: Amphithéâtre, DINUM
 adresse: '20 avenue de Ségur, 75007 Paris '
