@@ -1,6 +1,6 @@
 ---
 title: '9e édition du panorama : 47 projets numériques de l’État passés en revue'
-date: 2019-11-06 16:37:00 +01:00
+date: 2019-11-07 04:37:00 +01:00
 categories:
 - Article
 tags:
@@ -21,9 +21,9 @@ Comme toujours, ce panorama inclut en priorité les projets présentant un impac
 Cette 9e édition passe en revue **47 projets**, dont **12 à portée interministérielle**, pour un budget global prévisionnel de **1,58 milliard d’euros**.
 
 > [Consulter la 9e édition du panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
-{: .lien-important}
+> {: .lien-important}
 
-Vous pouvez également consulter l’ensemble des données de cette édition et des précédentes en open data sur la plateforme** [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/)**
+Vous pouvez également consulter l’ensemble des données de cette édition et des précédentes en open data sur la plateforme\*\* [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/)\*\*
 
 ### RenoiRH sort du panorama
 
@@ -41,4 +41,4 @@ Autre projet entrant : numérique en détention (NED), l’un des chantiers phar
 
 Depuis sa création, ce panorama permet à la DINUM de suivre de près les évolutions des grands SI de l’État, d’en détecter les éventuelles dérives et de proposer le cas échéant des actions correctives. Dans le cadre de [TECH.GOUV, le programme d’accélération de la transformation numérique du service public](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/), la DINUM va désormais plus loin en proposant à l’ensemble des ministères **une offre de conseil en cadrage et pilotage de projets SI**. Objectif : les accompagner le plus en amont possible, et pendant la mise en œuvre en cas de points de difficultés, afin d’anticiper et de limiter plus encore les risques de dérives.
 
-Vous êtes directeur d’administration, chef de service ou directeur de projets numériques au sein d’un ministère ? Pour solliciter un appui de la part des experts de la DINUM, envoyez un courriel à [grandsprojets.si@modernisation.gouv.fr](mailto:grandsprojets.si@modernisation.gouv.fr) en précisant le contexte de votre demande et votre besoin. Un expert prendra contact avec vous afin de définir le dispositif d’appui le plus pertinent.
+Vous êtes directeur d’administration ou chef de service, et votre équipe est amenée à conduire un projet numérique ? Vous pouvez contacter la direction de la DINUM [par courriel](mailto:dinsic-sec-directeur@modernisation.gouv.fr) en précisant le contexte de votre demande et votre besoin. Un expert prendra contact avec vous afin de définir le dispositif d’appui le plus pertinent.
