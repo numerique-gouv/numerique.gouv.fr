@@ -7,7 +7,7 @@ tags:
 - Open source
 - code
 chapeau-text: 'Rendez-vous les 19 et 20 novembre prochains pour deux jours de sprint
-  autour des projets open source de l''administration, organisé par la DINUM et du
+  autour de projets open source de l''administration, organisé par la DINUM et du
   Lab 110bis. '
 categorie: Sprint
 une-ou-diaporama:
