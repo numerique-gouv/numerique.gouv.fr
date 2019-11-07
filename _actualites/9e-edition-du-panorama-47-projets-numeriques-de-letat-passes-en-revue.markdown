@@ -12,6 +12,8 @@ tags:
 chapeau-text: 'La 9e édition du panorama des grands projets du système d’information
   de l’État passe au crible 47 projets, représentant un budget prévisionnel global
   de 1,58 milliard d’euros. '
+une-ou-diaporama:
+- image: "/uploads/revue_de_details.jpg"
 ---
 
 Dans le cadre de ses missions de sécurisation des projets numériques d’importance majeure, la direction interministérielle du numérique (DINUM – anciennement DINSIC), publie une nouvelle édition du panorama des grands projets SI de l’État.
@@ -20,6 +22,8 @@ Comme toujours, ce panorama inclut en priorité les projets présentant un impac
 
 Cette 9e édition passe en revue **47 projets**, dont **12 à portée interministérielle**, pour un budget global prévisionnel de **1,58 milliard d’euros**.
 
+![panorama_juillet2018.png](/uploads/panorama_juillet2018.png){:height="88" width="200"}
+{: .text-center}
 > [Consulter la 9e édition du panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
 {: .lien-important}
 
