@@ -7,9 +7,11 @@ tags:
 - accessibilité
 - qualité des services publics numériques
 - design des services numériques
-chapeau-text: 'La DINUM organise une matinée dédiée à l''accessibilité numérique,
-  en présence du secrétaire d''État chargé du Numérique, Cédric O. Au programme :
-  tables rondes, échanges et présentations.'
+chapeau-text: 'L’équipe Design des services numériques ([@designGouv](https://twitter.com/DesignGouv))
+  de la DINUM vous invite à une matinée dédiée à l''accessibilité numérique, en présence
+  du secrétaire d''État chargé du Numérique, Cédric O. Au programme : tables rondes,
+  échanges et présentations. Un événement organisé dans le cadre de la [semaine de
+  l’innovation publique](https://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique).'
 une-ou-diaporama:
 - image: "/uploads/evt-accessibilite-nov2019.jpg"
 event_start_date: 2019-11-29 00:00:00 +01:00
@@ -18,9 +20,10 @@ adresse: '20 avenue de Ségur, 75007 Paris '
 champs_informations:
 - intitule: Horaires
   contenu: 8h30-13h
+- intitule: Modalités
+  contenu: Inscriptions obligatoire gratuite
+  lien: https://www.eventbrite.fr/e/billets-accessibilite-numerique-ameliorer-les-interfaces-pour-tous-les-usagers-75318067367?aff=twitter
 ---
-
-L’équipe Design des services numériques ([@designGouv](https://twitter.com/DesignGouv)) de la DINUM vous invite à une matinée d'échanges autour de l’accessibilité numérique le 29 novembre, dans le cadre de la [semaine de l’innovation publique](https://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique).
 
 Venez rencontrer des personnes du privé et des agents du public qui partageront leurs apprentissages. Nous pourrons ensemble réfléchir aux différents leviers qui s’offrent à chacun pour mettre en place des expérience en ligne accessibles. Nous en profiterons aussi pour reconnaître les organismes publics qui recevront ce jour-là le label e-accessible. 
 
