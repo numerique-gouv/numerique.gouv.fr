@@ -21,7 +21,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 8h30-13h
 - intitule: Modalités
-  contenu: Inscriptions obligatoire gratuite
+  contenu: Inscription obligatoire gratuite
   lien: https://www.eventbrite.fr/e/billets-accessibilite-numerique-ameliorer-les-interfaces-pour-tous-les-usagers-75318067367?aff=twitter
 ---
 
