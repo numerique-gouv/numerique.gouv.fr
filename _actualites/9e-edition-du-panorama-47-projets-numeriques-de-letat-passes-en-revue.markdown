@@ -1,7 +1,6 @@
 ---
 title: '9e édition du panorama : 47 projets numériques de l’État passés en revue'
 date: 2019-11-07 04:37:00 +01:00
-published: false
 categories:
 - Article
 tags:
