@@ -18,6 +18,11 @@ champs_informations:
   contenu: 8h30-13h
 ---
 
+L’équipe Design des services numériques ([@designGouv](https://twitter.com/DesignGouv)) de la DINUM vous invite à une matinée d'échanges autour de l’accessibilité numérique le 29 novembre, dans le cadre de la semaine de l’innovation publique.
+
+Venez rencontrer des personnes du privé et des agents du public qui partageront leurs apprentissages. Nous pourrons ensemble réfléchir aux différents leviers qui s’offrent à chacun pour mettre en place des expérience en ligne accessibles. Nous en profiterons aussi pour reconnaître les organismes publics qui recevront ce jour-là le label e-accessible. 
+
+
 ### Programme
 
 * 8h30  : accueil petit-déjeuner
