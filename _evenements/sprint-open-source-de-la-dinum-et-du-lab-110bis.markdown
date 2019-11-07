@@ -6,6 +6,8 @@ categories:
 tags:
 - Open source
 - code
+- Logiciel libre
+- blue hats
 chapeau-text: 'Rendez-vous les 19 et 20 novembre prochains pour deux jours de sprint
   autour de projets open source de l''administration, organisé par la DINUM et du
   Lab 110bis. '
