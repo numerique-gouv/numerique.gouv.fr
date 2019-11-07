@@ -1,7 +1,6 @@
 ---
 title: '9e édition du panorama : 47 projets numériques de l’État passés en revue'
 date: 2019-11-07 04:37:00 +01:00
-published: false
 categories:
 - Article
 tags:
@@ -13,6 +12,8 @@ tags:
 chapeau-text: 'La 9e édition du panorama des grands projets du système d’information
   de l’État passe au crible 47 projets, représentant un budget prévisionnel global
   de 1,58 milliard d’euros. '
+une-ou-diaporama:
+- image: "/uploads/revue_de_details.jpg"
 ---
 
 Dans le cadre de ses missions de sécurisation des projets numériques d’importance majeure, la direction interministérielle du numérique (DINUM – anciennement DINSIC), publie une nouvelle édition du panorama des grands projets SI de l’État.
@@ -21,6 +22,8 @@ Comme toujours, ce panorama inclut en priorité les projets présentant un impac
 
 Cette 9e édition passe en revue **47 projets**, dont **12 à portée interministérielle**, pour un budget global prévisionnel de **1,58 milliard d’euros**.
 
+[![Consulter la 9e édition du panorama](/uploads/capture_panorama-oct2019_500.png){: width="200px" height="93px" }](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
+{: .text-center}
 > [Consulter la 9e édition du panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
 {: .lien-important}
 
@@ -42,4 +45,5 @@ Autre projet entrant : **numérique en détention (NED)**, l’un des chantiers 
 
 Depuis sa création, ce panorama permet à la DINUM de suivre de près les évolutions des grands SI de l’État, d’en détecter les éventuelles dérives et de proposer le cas échéant des actions correctives. Dans le cadre de [TECH.GOUV, le programme d’accélération de la transformation numérique du service public](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/), la DINUM va désormais plus loin en proposant à l’ensemble des ministères **une offre de conseil en cadrage et pilotage de projets SI**. Objectif : les accompagner le plus en amont possible, et pendant la mise en œuvre en cas de points de difficultés, afin d’anticiper et de limiter plus encore les risques de dérives.
 
-**Vous êtes directeur d’administration ou chef de service, et votre équipe est amenée à conduire un projet numérique ? Vous pouvez contacter la direction de la DINUM [par courriel](mailto:dinsic-sec-directeur@modernisation.gouv.fr) en précisant le contexte de votre demande et votre besoin. Un expert prendra contact avec vous afin de définir le dispositif d’appui le plus pertinent.**
+> <br>**Vous êtes directeur d’administration ou chef de service, et votre équipe est amenée à conduire un projet numérique ?** Vous pouvez contacter la direction de la DINUM [**par courriel**](mailto:dinsic-sec-directeur@modernisation.gouv.fr) en précisant le contexte de votre demande et votre besoin. Un expert prendra contact avec vous afin de définir le dispositif d’appui le plus pertinent.
+{: .noir .encadre}
