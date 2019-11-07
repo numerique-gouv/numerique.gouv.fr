@@ -6,8 +6,9 @@ categories:
 tags:
 - Open source
 - code
-chapeau-text: 'Rendez-vous les 19 et 20 novembre prochains pour le sprint open source
-  de la DINUM et du Lab 110bis. '
+chapeau-text: 'Rendez-vous les 19 et 20 novembre prochains pour deux jours de sprint
+  autour des projets open source de l''administration, organisé par la DINUM et du
+  Lab 110bis. '
 categorie: Sprint
 une-ou-diaporama:
 - image: "/uploads/2019_11_07_Entete-Agenda-Bluehats.jpg"
