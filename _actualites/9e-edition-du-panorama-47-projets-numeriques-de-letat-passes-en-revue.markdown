@@ -21,8 +21,8 @@ Dans le cadre de ses missions de sécurisation des projets numériques d’impor
 Comme toujours, ce panorama inclut en priorité les projets présentant un impact métier, un degré de complexité ou un enjeu financier particulièrement importants, notamment dont le coût estimé global dépasse 9 M€ (incluant deux années de maintenance).
 
 Cette 9e édition passe en revue **47 projets**, dont **12 à portée interministérielle**, pour un budget global prévisionnel de **1,58 milliard d’euros**.
-
-![panorama_juillet2018.png](/uploads/panorama_juillet2018.png){:height="88" width="200"}
+![capture_panorama-oct2019_500.jpg](/uploads/capture_panorama-oct2019_500.jpg)
+{:height="93" width="200"}
 {: .text-center}
 > [Consulter la 9e édition du panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
 {: .lien-important}
