@@ -71,7 +71,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 #### **Fonctions transverses**
 {: .margin-top-4 .margin-bottom-1}
 * [**Assistant/Assistante utilisateur informatique**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91a2e710-f1b2-44d3-b8fd-6b67b4704573&offerid=285503 "Assistant/Assistante utilisateur informatique - Télécharger le pdf") (pdf - 530 ko)
-<br> Cadre/Catégorie A 
+<br> Catégorie B 
 
 * [**Chef/Cheffe de cabinet, responsable du pôle « Animation »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=5c6e27d2-fd6e-4cc6-bc84-6c875fd6def5&offerid=278378 "Chef/Cheffe de cabinet, responsable du pôle Animation - Télécharger le pdf") (pdf - 593 ko)
 <br> Cadre/Catégorie A
