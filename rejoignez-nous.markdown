@@ -4,11 +4,11 @@ date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 07 novembre 2019
+date_de_modification: 12 novembre 2019
 layout: page-annexe
 ---
 
-**Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINSIC !** 
+**Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINUM !** 
 Retrouvez aussi [en bas de cette page](#offresministères) une sélection de postes de haut niveau dans le numérique au sein des ministères.
 <br>
 <br>
@@ -21,7 +21,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-### Nos offres d'emploi actuellement disponibles à la DINSIC :
+### Nos offres d'emploi actuellement disponibles à la DINUM :
 {: .margin-top-4 .margin-bottom-0} 
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
@@ -51,15 +51,18 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Data**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Directeur/directrice technique d’Etalab**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=a2f9a8b0-d5f2-4fc6-9b42-984f6ed0f5d3&offerid=248762 "Directeur/directrice technique d’Etalab – Télécharger le pdf") (pdf - 250 ko)
+* [**Directeur/directrice technique d’Etalab**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=a2f9a8b0-d5f2-4fc6-9b42-984f6ed0f5d3&offerid=248762 "Directeur/directrice technique d’Etalab – Télécharger le pdf") (pdf - 250&nbsp;ko)
 <br>Cadre/Catégorie A+, A
 <br>
 <br>
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
+* [Urbaniste / Architecte de système d'information expérimenté (F/H)](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=77064479-1563-437d-82db-fa6c4a4360cf&offerid=223810 "Urbaniste / Architecte de système d'information expérimenté (F/H) - Télécharger le pdf") (pdf - 416&nbsp;ko)
+<br>Cadre/Catégorie A
+
 * [**Chargé/chargée de mission « production » du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=51645668-f9ef-4b26-a23a-3090c4d51315&offerid=255120 "Chargé/chargée de mission « production » du réseau interministériel de l'État - Télécharger le pdf") (pdf - 755 ko)
-<br>Catégorie A (cadre) , B
+<br>Catégorie A (cadre), B
 <br>Poste localisé en Auvergne-Rhône-Alpes (Rhône, 69)
 
 * [**Architecte « services d'accès internet » du réseau interministériel de l'État (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=512a28a3-5745-40f4-ad35-8665c6f1936c&offerid=243187 "Architecte service d'accès internet du réseau interministériel de l'État - Télécharger le pdf")
@@ -106,8 +109,3 @@ Zoom sur quelques postes dans le numérique public :
 * [**Chef/Cheffe de la mission ministérielle d'audits SSI ("Pentesteurs")**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dd3d352a-5eb0-4ec0-b47d-b14c76afac85&offerid=260391 "Chef/Cheffe de la mission ministérielle d'audits SSI - Télécharger le pdf") (pdf - 141 ko) 
 <br>Cadre/Catégorie A
 {: .noir .encadre}
-
-
-
-
-
