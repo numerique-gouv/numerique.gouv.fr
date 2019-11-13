@@ -23,17 +23,16 @@ acces:
   lignes:
   - nom: 'A  : Charles de Gaulle-Étoile'
 champs_informations:
+- intitule: Horaires
+  contenu: 9h - 18h
+- intitule: Modalités
+  contenu: Inscription gratuite en ligne
+  lien: https://sgmap.sphinxdeclic.com/SurveyServer/s/MGTK-HQJWYFPJ/ForumOpportunIT2019
 - intitule: Forum virtuel
   contenu: du 13 au 20 décembre
 - intitule: Pour participer au forum virtuel
   contenu: Inscriptions et prises de rendez-vous en ligne jusqu’au 12 décembre
   lien: https://app.seekube.com/forum-emploi-tech-etat
-- intitule: Forum virtuel
-  contenu: du 13 au 20 décembre
-- intitule: Modalités du forum virtuel
-  contenu: Inscrivez-vous et prenez rendez-vous avec les recruteurs jusqu’au 12 décembre
-    (gratuit)
-  lien: 
 Field name: 
 ---
 
