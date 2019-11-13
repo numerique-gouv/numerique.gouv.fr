@@ -46,7 +46,7 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 > {: .text-center}
 > ## **...et trouvez plus qu’un travail !**
 > {: .margin-top-1 .text-center} 
-{: .encadré}
+{: .encadre}
 
 ### Plus de 300 postes à pourvoir
 Ce forum regroupera **plus de 30 services recruteurs** (fonction publique d’État et collectivités territoriales) présentant plus de 300 postes à pourvoir. 
