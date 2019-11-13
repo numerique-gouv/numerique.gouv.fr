@@ -13,7 +13,7 @@ class Map {
     });
     // L.tileLayer('https://{s}.tiles.quaidorsay.fr/tile/forte{r}/{z}/{x}/{y}.png').addTo(this.map);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      attribution: '&copy; les contributeurs d’<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(this.map);
   }
   addMarkerOnCenter() {
