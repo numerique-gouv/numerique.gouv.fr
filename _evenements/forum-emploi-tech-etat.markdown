@@ -13,7 +13,7 @@ chapeau-text: En décembre, la direction interministérielle du numérique (DINU
   collectivités territoriales). Pour la première fois, l'événement est également destiné
   - en plus des agents publics - aux candidats extérieurs à l'administration.
 une-ou-diaporama:
-- image: "/uploads/2019_11_13_Entete_Agenda_Forum_recrutement_2019_V2.jpg"
+- image: "/uploads/Forum_emploi-tech_2019.jpg"
 event_start_date: 2019-12-12 00:00:00 +01:00
 lieu: La Grande Crypte
 adresse: 69 bis rue Boissière, 75016 Paris
