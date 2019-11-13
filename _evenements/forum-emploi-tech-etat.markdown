@@ -63,11 +63,11 @@ Au cours de cette journée seront aussi proposées **des conférences** sur de g
 {: .lien-important}
 
 ### Un forum virtuel en complément
-Vous n’êtes pas sur Paris le 12 décembre ou vous souhaitez prolonger l’expérience ? Participez à notre forum virtuel ! Créez dès maintenant un profil [**sur notre plateforme en ligne**](https://app.seekube.com/forum-emploi-tech-etat) et découvrez nos opportunités en région et en Île-de-France.
+Vous n’êtes pas sur Paris le 12 décembre ou vous souhaitez prolonger l’expérience ? Participez à notre forum virtuel ! Créez dès maintenant votre profil [**sur notre plateforme en ligne**](https://app.seekube.com/forum-emploi-tech-etat) et découvrez nos opportunités en région et en Île-de-France.
 
 #### Comment participer au forum virtuel ?
 1. **Jusqu'au 12 décembre :** Inscrivez-vous, découvrez les différentes offres et prenez rendez-vous avec les recruteurs. 
 2. **Du 13 au 20 décembre 2019 :** Échangez avec les recruteurs par téléphone ou en visio.
 
-> [Rendez-vous sur notre forum virtuel](https://app.seekube.com/forum-emploi-tech-etat)
+> [Inscrivez-vous au forum virtuel](https://app.seekube.com/forum-emploi-tech-etat)
 {: .lien-important}
