@@ -18,7 +18,8 @@ adresse: 69 bis rue Boissière, 75016 Paris
 acces:
 - type: Métro et RER
   lignes:
-  - Ligne 6: Station Boissière
+  - nom: 
+    Ligne 6: Station Boissière
   - Ligne 2: Station Victor-Hugo
   - Ligne 9: Station Trocadéro
   - RER A: Station Charles de Gaulle-Étoile
@@ -30,7 +31,7 @@ Vous êtes **jeune diplômé d’une école du numérique** et curieux des oppor
 
 Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
 
-Venez au Forum de l’emploi tech de l’État et trouvez plus qu’un travail ! 
+**Venez au Forum de l’emploi tech de l’État et trouvez plus qu’un travail ! **
 
 ## Plus de 300 postes à pourvoir
 Ce forum regroupera plus de 30 services recruteurs (fonction publique d’État et collectivités territoriales) présentant plus de 300 postes à pourvoir. 
