@@ -58,5 +58,15 @@ Un espace de **« speed-jobbing »** sera mis en place pour prolonger en toute c
 
 Au cours de cette journée seront aussi proposées **des conférences** sur de grandes questions numériques au sein de l’État ainsi que **des ateliers** de développement professionnel. 
 
+> [Inscrivez-vous gratuitement](https://sgmap.sphinxdeclic.com/SurveyServer/s/MGTK-HQJWYFPJ/ForumOpportunIT2019)
+{: .lien-important}
+
 ### Un forum virtuel en complément
-Vous n’êtes pas sur Paris le 12 décembre ou vous souhaitez prolonger l’expérience ? Créez dès maintenant un profil sur notre plateforme virtuelle et découvrez nos opportunités en région et en Île-de-France.
+Vous n’êtes pas sur Paris le 12 décembre ou vous souhaitez prolonger l’expérience ? Participez à notre forum virtuel ! Créez dès maintenant un profil [sur notre plateforme en ligne](https://app.seekube.com/forum-emploi-tech-etat) et découvrez nos opportunités en région et en Île-de-France.
+
+#### Comment participer au forum virtuel ?
+1. **Jusqu'au 12 décembre :** Inscrivez-vous, découvrez les différentes offres et prenez rendez-vous avec les recruteurs. 
+2. **Du 13 au 20 décembre 2019 :** Échangez avec les recruteurs par téléphone ou en visio.
+
+> [Rendez-vous sur notre forum virtuel](https://app.seekube.com/forum-emploi-tech-etat)
+{: .lien-important}
