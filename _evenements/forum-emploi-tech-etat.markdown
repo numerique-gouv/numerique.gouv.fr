@@ -53,7 +53,7 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 {: .encadre}
 
 ### Un forum physique
-Ce forum regroupera **plus de 30 services recruteurs** (fonction publique d’État et collectivités territoriales) présentant plus de 300 postes à pourvoir. 
+Ce forum regroupera **plus de 30 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, prosposant plus de 300 postes à pourvoir. 
 
 Un espace de **« speed-jobbing »** sera mis en place pour prolonger en toute confidentialité votre discussion avec un recruteur.
 
