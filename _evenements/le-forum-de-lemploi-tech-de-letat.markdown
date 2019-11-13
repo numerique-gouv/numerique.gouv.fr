@@ -18,7 +18,7 @@ adresse: 69 bis rue Boissière, 75016 Paris
 acces:
 - type: Métro
   lignes:
-  - nom: 'Ligne 6 : M° Boissière - Ligne 2 : M° Victor-Hugo - Ligne 9 : M° Trocadéro'
+  - nom: 'Ligne 6 : M° Boissière – Ligne 2 : M° Victor-Hugo – Ligne 9 : M° Trocadéro'
 - type: RER
   lignes:
   - nom: 'A  : Charles de Gaulle-Étoile'
