@@ -28,6 +28,7 @@ champs_informations:
 - intitule: Modalités
   contenu: Inscription gratuite en ligne
   lien: https://sgmap.sphinxdeclic.com/SurveyServer/s/MGTK-HQJWYFPJ/ForumOpportunIT2019
+  Key: "  "
 - intitule: Forum virtuel
   contenu: du 13 au 20 décembre
 - intitule: Pour participer au forum virtuel
