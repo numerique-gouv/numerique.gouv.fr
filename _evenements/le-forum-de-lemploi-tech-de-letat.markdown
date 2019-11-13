@@ -16,13 +16,12 @@ event_start_date: 2019-12-12 00:00:00 +01:00
 lieu: La Grande Crypte
 adresse: 69 bis rue Boissière, 75016 Paris
 acces:
-- type: Métro et RER
+- type: Métro
   lignes:
-  - nom: 
-    Ligne 6: Station Boissière
-  - Ligne 2: Station Victor-Hugo
-  - Ligne 9: Station Trocadéro
-  - RER A: Station Charles de Gaulle-Étoile
+  - nom: 'Ligne 6 : M° Boissière - Ligne 2 : M° Victor-Hugo - Ligne 9 : M° Trocadéro'
+- type: RER
+  lignes:
+  - nom: 'A  : Charles de Gaulle-Étoile'
 ---
 
 Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
