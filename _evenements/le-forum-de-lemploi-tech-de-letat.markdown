@@ -38,9 +38,9 @@ Vous êtes **jeune diplômé d’une école du numérique** et curieux des oppor
 
 Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
 
-> **Venez au Forum de l’emploi tech de l’État...**
+**Venez au Forum de l’emploi tech de l’État...**
 {: .text-center}
-> ## **...et trouvez plus qu’un travail !**
+## **...et trouvez plus qu’un travail !**
 {: .margin-top-1 .text-center} 
 
 
