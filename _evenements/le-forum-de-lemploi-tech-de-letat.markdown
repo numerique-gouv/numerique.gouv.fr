@@ -22,6 +22,14 @@ acces:
 - type: RER
   lignes:
   - nom: 'A  : Charles de Gaulle-Étoile'
+champs_informations:
+- intitule: Forum virtuel
+  contenu: du 13 au 20 décembre
+- intitule: Modalités
+  contenu: Inscrivez-vous et prenez rendez-vous avec les recruteurs jusqu’au 12 décembre
+    (gratuit)
+  lien: https://app.seekube.com/forum-mobil-it-virtuel1?pwd=dinsic2019
+Field name: 
 ---
 
 Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
