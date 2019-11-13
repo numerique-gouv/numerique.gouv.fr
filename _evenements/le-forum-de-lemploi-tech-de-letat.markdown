@@ -25,16 +25,15 @@ acces:
 champs_informations:
 - intitule: Forum virtuel
   contenu: du 13 au 20 décembre
-- intitule: Inscriptions et prises de rendez-vous avec les recruteurs
-  contenu: sur la plateforme jusqu’au 12 décembre (gratuit)
-  lien: https://app.seekube.com/forum-emploi-tech-etat
 - intitule: Pour participer au forum virtuel
+  contenu: Inscriptions et prises de rendez-vous en ligne jusqu’au 12 décembre
+  lien: https://app.seekube.com/forum-emploi-tech-etat
+- intitule: Forum virtuel
+  contenu: du 13 au 20 décembre
+- intitule: Modalités du forum virtuel
   contenu: Inscrivez-vous et prenez rendez-vous avec les recruteurs jusqu’au 12 décembre
     (gratuit)
-  lien: https://app.seekube.com/forum-emploi-tech-etat
-- intitule: Inscrivez-vous et prenez rendez-vous avec les recruteurs jusqu’au 12 décembre
-  contenu: 
-  lien: https://app.seekube.com/forum-emploi-tech-etat
+  lien: 
 Field name: 
 ---
 
