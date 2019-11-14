@@ -90,7 +90,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-#### **Fonctions transverses**
+#### **Autres fonctions transverses**
 {: .margin-top-4 .margin-bottom-1}
 * [**Chef/Cheffe de cabinet, responsable du pôle « Animation »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=5c6e27d2-fd6e-4cc6-bc84-6c875fd6def5&offerid=278378 "Chef/Cheffe de cabinet, responsable du pôle Animation - Télécharger le pdf") (pdf - 593&nbsp;ko)
 
@@ -102,11 +102,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 * [**Assistant/Assistante utilisateur informatique**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91a2e710-f1b2-44d3-b8fd-6b67b4704573&offerid=285503 "Assistant/Assistante utilisateur informatique - Télécharger le pdf") (pdf - 530&nbsp;ko)
 <br> Catégorie B 
-<br>
-<br>
 
-#### **Budget/Finances/Marchés**
-{: .margin-top-4 .margin-bottom-1} 
 * [**Gestionnaire administratif « budgétaire et financier » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=467a7ed0-3ad0-43e3-a183-f9f1a5451e01&offerid=249151 "Gestionnaire administratif budgétaire et financier (F/H)
  – Télécharger le pdf") (pdf - 267&nbsp;ko)
 <br> Catégorie B - Vacation 3 mois (prolongation possible) <br>
