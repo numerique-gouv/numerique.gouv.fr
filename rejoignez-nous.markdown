@@ -78,6 +78,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 #### **Communication**
+* [**Chargé/Chargée de mission communication « relations presse et évènementiel »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f16120c8-7397-4dd2-8670-cd1c2997f4ec&offerid=288805 "Chargé/Chargée de mission communication « relations presse et évènementiel » - Télécharger le pdf") (pdf - 335&nbsp;ko)
+<br> Cadre/Catégorie A - Contrat de 9 mois
+
 * [**Chargé/Chargée de mission « Communication interne »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=0b35de90-5352-4f18-afba-3bff7e1f172d&offerid=288828 "Chargé/Chargée de mission « Communication interne » - Télécharger le pdf") (pdf - 327&nbsp;ko)
 <br> Cadre/Catégorie A
 
