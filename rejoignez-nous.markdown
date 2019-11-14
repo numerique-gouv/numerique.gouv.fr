@@ -63,13 +63,14 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-1}
 * [**Chargé/Chargée de mission « production » du Réseau Interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91edec12-625d-4708-bcd0-6be1e4f255ea&offerid=288819 "Chargé/Chargée de mission « production » du Réseau Interministériel de l'État - Télécharger le pdf") (pdf - 366&nbsp;ko)
 <br>Cadre/Catégorie A
+<br>Poste basé à Lyon (69)
 
 * [**Urbaniste / Architecte de système d'information expérimenté (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=77064479-1563-437d-82db-fa6c4a4360cf&offerid=223810 "Urbaniste / Architecte de système d'information expérimenté (F/H) - Télécharger le pdf") (pdf - 416&nbsp;ko)
 <br>Cadre/Catégorie A
 
 * [**Chargé/chargée de mission « production » du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=51645668-f9ef-4b26-a23a-3090c4d51315&offerid=255120 "Chargé/chargée de mission « production » du réseau interministériel de l'État - Télécharger le pdf") (pdf - 755&nbsp;ko)
 <br>Catégorie A (cadre), B
-<br>Poste localisé en Auvergne-Rhône-Alpes (Rhône, 69)
+<br>Poste basé à Lyon (69)
 
 * [**Architecte « services d'accès internet » du réseau interministériel de l'État (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=512a28a3-5745-40f4-ad35-8665c6f1936c&offerid=243187 "Architecte service d'accès internet du réseau interministériel de l'État - Télécharger le pdf")
 (pdf - 300&nbsp;ko)
