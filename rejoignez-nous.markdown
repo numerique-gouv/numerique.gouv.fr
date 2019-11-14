@@ -49,9 +49,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/Chargée de mission « BIZDEV » promotion et déploiement de produits numériques**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=e1cd4d51-8011-45bb-b1cb-4ecf1323489c&offerid=288829 "Chargé/Chargée de mission « BIZDEV » promotion et déploiement de produits numériques – Télécharger le pdf") (pdf - 253&nbsp;ko) 
 <br>Cadre/Catégorie A - Mission de 6 mois
-
-* [**Chargé/chargée du support et de l'accompagnement des usagers de « démarches simplifiées »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=413a0aab-3ce3-482e-a3f3-9c3dd6c9e416&offerid=246232 "Chargé du support et de l'accompagnement des usagers de « démarches simplifiées » CDD – Télécharger le pdf") (pdf - 246&nbsp;ko) 
-<br>Cadre/Catégorie A
 <br>
 <br>
 
