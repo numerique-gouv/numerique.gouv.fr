@@ -28,7 +28,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Chargé de mission « UX / design de services numériques » (F/H)**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-de-mission--ux--design-de-services-numeriques--fh-reference-2019-288835 "Chargé de mission « UX / design de services numériques » (F/H) - Télécharger le pdf") (pdf - 450&nbsp;ko)
+* [**Chargé de mission « UX / design de services numériques » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3100bc53-f17c-44e1-98b4-cb4f47bc1df8&offerid=288835 "Chargé de mission « UX / design de services numériques » (F/H) - Télécharger le pdf") (pdf - 450&nbsp;ko)
 <br>Cadre/Catégorie A
 
 * [**Chef/Cheffe de mission « INFRA »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1efd3078-b707-4957-928a-c12de38b3999&offerid=271894 "Chef/Cheffe de mission « INFRA » - Télécharger le pdf") (pdf - 236&nbsp;ko)
