@@ -29,7 +29,7 @@ champs_informations:
   contenu: 9h - 18h
 - intitule: Modalités
   contenu: Inscription gratuite en ligne
-  lien: https://sgmap.sphinxdeclic.com/SurveyServer/s/MGTK-HQJWYFPJ/ForumOpportunIT2019
+  lien: https://sgmap.sphinxdeclic.com/d/s/zvtfvo
   Key: "  "
 - intitule: Forum virtuel
   contenu: du 13 au 20 décembre
@@ -59,7 +59,7 @@ Un espace de **« speed-jobbing »** sera mis en place pour prolonger en toute c
 
 Au cours de cette journée seront aussi proposées **des conférences** sur de grandes questions numériques au sein de l’État ainsi que **des ateliers** de développement professionnel. 
 
-> [Inscrivez-vous gratuitement](https://sgmap.sphinxdeclic.com/SurveyServer/s/MGTK-HQJWYFPJ/ForumOpportunIT2019)
+> [Inscrivez-vous gratuitement](https://sgmap.sphinxdeclic.com/d/s/zvtfvo)
 {: .lien-important}
 
 ### Un forum virtuel en complément
