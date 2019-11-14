@@ -93,8 +93,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 #### **Autres fonctions transverses**
 {: .margin-top-4 .margin-bottom-1}
 * [**Chef/Cheffe de cabinet, responsable du pôle « Animation »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=5c6e27d2-fd6e-4cc6-bc84-6c875fd6def5&offerid=278378 "Chef/Cheffe de cabinet, responsable du pôle Animation - Télécharger le pdf") (pdf - 593&nbsp;ko)
+<br> Cadre/Catégorie A
 
-<br> Cadre/Catégorie A* [**Gestionnaire de connaissances / documentaliste numérique (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=80fbcf46-1eea-41eb-ac67-42ee1fe9ab1e&offerid=287527 "Gestionnaire de connaissances / documentaliste numérique (F/H) - Télécharger le pdf") (pdf - 323&nbsp;ko)
+* [**Gestionnaire de connaissances / documentaliste numérique (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=80fbcf46-1eea-41eb-ac67-42ee1fe9ab1e&offerid=287527 "Gestionnaire de connaissances / documentaliste numérique (F/H) - Télécharger le pdf") (pdf - 323&nbsp;ko)
 <br> Cadre/Catégorie A
 
 * [**Assistant/Assistante de direction**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6bd5fafd-b847-4916-bd53-7656e778eed3&offerid=288833 "Assistant/Assistante de direction - Télécharger le pdf") (pdf - 507&nbsp;ko)
