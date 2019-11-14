@@ -73,6 +73,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Fonctions transverses**
 {: .margin-top-4 .margin-bottom-1}
+* [**Gestionnaire de connaissances / documentaliste numérique (H/F)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=80fbcf46-1eea-41eb-ac67-42ee1fe9ab1e&offerid=287527 "Gestionnaire de connaissances / documentaliste numérique (H/F) - Télécharger le pdf") (pdf - 323&nbsp;ko)
+<br> Catégorie A
+
 * [**Assistant/Assistante utilisateur informatique**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91a2e710-f1b2-44d3-b8fd-6b67b4704573&offerid=285503 "Assistant/Assistante utilisateur informatique - Télécharger le pdf") (pdf - 530&nbsp;ko)
 <br> Catégorie B 
 
