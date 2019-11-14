@@ -28,6 +28,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chargé de mission « UX / design de services numériques » (F/H)**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-de-mission--ux--design-de-services-numeriques--fh-reference-2019-288835 "Chargé de mission « UX / design de services numériques » (F/H) - Télécharger le pdf") (pdf - 450&nbsp;ko)
+<br>Cadre/Catégorie A
+
 * [**Chef/Cheffe de mission « INFRA »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1efd3078-b707-4957-928a-c12de38b3999&offerid=271894 "Chef/Cheffe de mission « INFRA » - Télécharger le pdf") (pdf - 236&nbsp;ko)
 <br>Cadre/Catégorie A
 
@@ -71,10 +74,18 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
+#### **Communication**
+* [**Animateur de réseaux sociaux (community manager) (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=356e2b65-8ef2-453a-af1a-6cee375f40e4&offerid=288849 "Animateur de réseaux sociaux (community manager) (F/H) - Télécharger le pdf") (pdf - 292&nbsp;ko)
+<br> Catégorie B
+
+
 #### **Fonctions transverses**
 {: .margin-top-4 .margin-bottom-1}
-* [**Gestionnaire de connaissances / documentaliste numérique (H/F)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=80fbcf46-1eea-41eb-ac67-42ee1fe9ab1e&offerid=287527 "Gestionnaire de connaissances / documentaliste numérique (H/F) - Télécharger le pdf") (pdf - 323&nbsp;ko)
-<br> Catégorie A
+* [**Assistant/Assistante de direction**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6bd5fafd-b847-4916-bd53-7656e778eed3&offerid=288833 "Assistant/Assistante de direction - Télécharger le pdf") (pdf - 507&nbsp;ko)
+<br> Catégorie B
+
+* [**Gestionnaire de connaissances / documentaliste numérique (H/F)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=80fbcf46-1eea-41eb-ac67-42ee1fe9ab1e&offerid=287527 "Gestionnaire de connaissances / documentaliste numérique (F/H) - Télécharger le pdf") (pdf - 323&nbsp;ko)
+<br> Cadre/Catégorie A
 
 * [**Assistant/Assistante utilisateur informatique**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91a2e710-f1b2-44d3-b8fd-6b67b4704573&offerid=285503 "Assistant/Assistante utilisateur informatique - Télécharger le pdf") (pdf - 530&nbsp;ko)
 <br> Catégorie B 
