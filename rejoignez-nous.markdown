@@ -78,6 +78,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 #### **Communication**
+* [**Chargé/Chargée de mission « Communication interne »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=0b35de90-5352-4f18-afba-3bff7e1f172d&offerid=288828 "Chargé/Chargée de mission « Communication interne » - Télécharger le pdf") (pdf - 327&nbsp;ko)
+<br> Cadre/Catégorie A
+
 * [**Animateur de réseaux sociaux (community manager) (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=356e2b65-8ef2-453a-af1a-6cee375f40e4&offerid=288849 "Animateur de réseaux sociaux (community manager) (F/H) - Télécharger le pdf") (pdf - 292&nbsp;ko)
 <br> Catégorie B
 
