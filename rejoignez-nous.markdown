@@ -47,7 +47,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [Chef/cheffe du pôle « Produits numériques partagés »](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=05f670a2-2ceb-41fe-ba74-8e957c5f39b5&offerid=290134 "Chef du pôle « Produits Numériques Partagés » (F/H) – Télécharger le pdf") (pdf - 363&nbsp;ko) 
+* [**Chef/cheffe du pôle « Produits numériques partagés »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=05f670a2-2ceb-41fe-ba74-8e957c5f39b5&offerid=290134 "Chef du pôle « Produits Numériques Partagés » (F/H) – Télécharger le pdf") (pdf - 363&nbsp;ko) 
 <br>Cadre supérieur/Catégorie A+
 
 * [**Chargé/Chargée de mission « BIZDEV » promotion et déploiement de produits numériques**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=e1cd4d51-8011-45bb-b1cb-4ecf1323489c&offerid=288829 "Chargé/Chargée de mission « BIZDEV » promotion et déploiement de produits numériques – Télécharger le pdf") (pdf - 253&nbsp;ko) 
