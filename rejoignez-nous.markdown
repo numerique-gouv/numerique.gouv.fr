@@ -52,8 +52,14 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-#### **Data**
+#### **Data / Intelligence artificielle**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chargé/Chargée de mission Lab. IA**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=66cf5567-efc2-406c-ade5-acf2f956bcd5&offerid=289475 "Chargé/Chargée de mission Lab. IA – Télécharger le pdf") (pdf - 337ko)
+<br>Cadre/Catégorie A
+
+* [**Data editor (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f6fadb77-ae0b-47ad-9ad5-3145a98120f7&offerid=289453 "Data editor (F/H) – Télécharger le pdf") (pdf - 335ko)
+<br>Cadre/Catégorie A
+
 * [**Directeur/directrice technique d’Etalab**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=a2f9a8b0-d5f2-4fc6-9b42-984f6ed0f5d3&offerid=248762 "Directeur/directrice technique d’Etalab – Télécharger le pdf") (pdf - 250&nbsp;ko)
 <br>Cadre/Catégorie A+, A
 <br>
@@ -61,6 +67,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
+* [**Chargé/Chargée de mission « Performance des achats SI de l'État»**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f550af8a-dc90-4cff-ab8b-46156ec9700e&offerid=289470 "Chargé/Chargée de mission « Performance des achats SI de l’État» - Télécharger le pdf") (pdf - 343ko)
+<br>Cadre/Catégorie A
+
 * [**Chargé/Chargée de mission « production » du Réseau Interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91edec12-625d-4708-bcd0-6be1e4f255ea&offerid=288819 "Chargé/Chargée de mission « production » du Réseau Interministériel de l'État - Télécharger le pdf") (pdf - 366&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>Poste basé à Lyon (69)
@@ -79,6 +88,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 #### **Communication**
+{: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/Chargée de mission communication « relations presse et évènementiel »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f16120c8-7397-4dd2-8670-cd1c2997f4ec&offerid=288805 "Chargé/Chargée de mission communication « relations presse et évènementiel » - Télécharger le pdf") (pdf - 335&nbsp;ko)
 <br> Cadre/Catégorie A - Contrat de 9 mois
 
@@ -92,6 +102,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Autres fonctions transverses**
 {: .margin-top-4 .margin-bottom-1}
+* [**Assistant/Assistante de gestion « PMO »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=099f240d-6c1e-41cd-9104-877c3f23a23d&offerid=286033 "Assistant/Assistante de gestion « PMO » - Télécharger le pdf") (pdf - 345ko)
+<br> Catégorie B
+
 * [**Chef/Cheffe de cabinet, responsable du pôle « Animation »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=5c6e27d2-fd6e-4cc6-bc84-6c875fd6def5&offerid=278378 "Chef/Cheffe de cabinet, responsable du pôle Animation - Télécharger le pdf") (pdf - 593&nbsp;ko)
 <br> Cadre/Catégorie A
 
