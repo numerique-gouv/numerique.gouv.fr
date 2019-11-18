@@ -28,7 +28,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Chef/Cheffe de la mission « Transformation numérique de l’Etat »**](/uploads/joe_20191103_0256_0070_chefmissionTRANSFO.pdf)(pdf - 128ko)
+* [**Chef/Cheffe de la mission « Transformation numérique de l’État »**](/uploads/Chef-Cheffe%20de%20la%20mission%20%C2%AB%20Transformation%20num%C3%A9rique%20de%20l%E2%80%99Etat%20%C2%BB.pdf) (pdf - 128ko)
 <br>Cadre/Catégorie A+
 
 * [**Chargé/Chargée de mission « UX / design de services numériques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3100bc53-f17c-44e1-98b4-cb4f47bc1df8&offerid=288835 "Chargé de mission « UX / design de services numériques » (F/H) - Télécharger le pdf") (pdf - 450&nbsp;ko)
