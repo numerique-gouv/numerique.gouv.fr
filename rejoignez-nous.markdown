@@ -31,9 +31,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 * [**Chargé/Chargée de mission « UX / design de services numériques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3100bc53-f17c-44e1-98b4-cb4f47bc1df8&offerid=288835 "Chargé de mission « UX / design de services numériques » (F/H) - Télécharger le pdf") (pdf - 450&nbsp;ko)
 <br>Cadre/Catégorie A
 
-* [**Chef/Cheffe de mission « INFRA »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=1efd3078-b707-4957-928a-c12de38b3999&offerid=271894 "Chef/Cheffe de mission « INFRA » - Télécharger le pdf") (pdf - 236&nbsp;ko)
-<br>Cadre/Catégorie A
-
 * [**Chef/Cheffe de produit Environnement de Travail Numérique des agents – « Poste de travail »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=b684d232-4c6d-401e-8dc9-438872e909c6&offerid=268001 "Chef/Cheffe de produit Environnement de Travail Numérique des agents – « Poste de travail » - Télécharger le pdf") (pdf - 240&nbsp;ko)
 <br>Cadre/Catégorie A
 
