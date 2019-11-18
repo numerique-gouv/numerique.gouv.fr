@@ -67,7 +67,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
-* [**Chargé/Chargée de mission « Performance des achats SI de l'État»**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f550af8a-dc90-4cff-ab8b-46156ec9700e&offerid=289470 "Chargé/Chargée de mission « Performance des achats SI de l’État» - Télécharger le pdf") (pdf - 343;ko)
+* [**Chargé/Chargée de mission « Performance des achats SI de l'État»**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f550af8a-dc90-4cff-ab8b-46156ec9700e&offerid=289470 "Chargé/Chargée de mission « Performance des achats SI de l’État» - Télécharger le pdf") (pdf - 343ko)
 <br>Cadre/Catégorie A
 
 * [**Chargé/Chargée de mission « production » du Réseau Interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91edec12-625d-4708-bcd0-6be1e4f255ea&offerid=288819 "Chargé/Chargée de mission « production » du Réseau Interministériel de l'État - Télécharger le pdf") (pdf - 366&nbsp;ko)
@@ -102,7 +102,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Autres fonctions transverses**
 {: .margin-top-4 .margin-bottom-1}
-* [**Assistant/Assistante de gestion « PMO »**](hhttps://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=099f240d-6c1e-41cd-9104-877c3f23a23d&offerid=286033 "Assistant/Assistante de gestion « PMO » - Télécharger le pdf") (pdf - 345ko)
+* [**Assistant/Assistante de gestion « PMO »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=099f240d-6c1e-41cd-9104-877c3f23a23d&offerid=286033 "Assistant/Assistante de gestion « PMO » - Télécharger le pdf") (pdf - 345ko)
 <br> Catégorie B
 
 * [**Chef/Cheffe de cabinet, responsable du pôle « Animation »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=5c6e27d2-fd6e-4cc6-bc84-6c875fd6def5&offerid=278378 "Chef/Cheffe de cabinet, responsable du pôle Animation - Télécharger le pdf") (pdf - 593&nbsp;ko)
