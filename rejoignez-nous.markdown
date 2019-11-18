@@ -4,7 +4,7 @@ date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 15 novembre 2019
+date_de_modification: 18 novembre 2019
 layout: page-annexe
 ---
 
@@ -62,9 +62,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 * [**Data editor (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f6fadb77-ae0b-47ad-9ad5-3145a98120f7&offerid=289453 "Data editor (F/H) – Télécharger le pdf") (pdf - 335ko)
 <br>Cadre/Catégorie A
-
-* [**Directeur/directrice technique d’Etalab**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=a2f9a8b0-d5f2-4fc6-9b42-984f6ed0f5d3&offerid=248762 "Directeur/directrice technique d’Etalab – Télécharger le pdf") (pdf - 250&nbsp;ko)
-<br>Cadre/Catégorie A+, A
 <br>
 <br>
 
