@@ -39,7 +39,7 @@ champs_informations:
 Field name: 
 ---
 
-### Plus de 300 postes à pourvoir
+### Plus de 350 postes à pourvoir
 Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
 
 Vous êtes **jeune diplômé d’une école du numérique** et curieux des opportunités professionnelles offertes par l’État ?
@@ -53,7 +53,7 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 {: .encadre}
 
 ### Un forum physique
-Ce forum regroupera **plus de 30 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, prosposant plus de 300 postes à pourvoir. 
+Ce forum regroupera **plus de 30 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, prosposant plus de 350 postes à pourvoir. 
 
 Un espace de **« speed-jobbing »** sera mis en place pour prolonger en toute confidentialité votre discussion avec un recruteur.
 
