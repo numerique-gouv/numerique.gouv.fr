@@ -14,6 +14,10 @@ chapeau-text: Un an après le lancement des travaux, venez découvrir les résul
   (AMI IA) dans l’administration.
 une-ou-diaporama:
 - image: "/uploads/IA.PNG"
+  alternative-textuelle: |-
+    28 novembre 2019
+    Intelligence artificielle
+    Découvrez les résultats des 6 premiers projets
 event_start_date: 2019-11-28 09:30:00 +01:00
 event_end_date: 2019-11-28 00:30:00 +01:00
 lieu: Lieu de la Transformation publique
@@ -23,7 +27,7 @@ champs_informations:
   contenu: Accessible aux personnes à mobilité réduite
 - intitule: 'Contact :'
   contenu: |-
-    0171211145
+    01.71.21.11.45
     equipe-ami-ia@data.gouv.fr
 - intitule: 'Inscription obligatoire '
   lien: https://www.eventbrite.fr/e/billets-ami-ia-1-presentation-des-resultats-et-echanges-avec-les-laureats-78620041661
