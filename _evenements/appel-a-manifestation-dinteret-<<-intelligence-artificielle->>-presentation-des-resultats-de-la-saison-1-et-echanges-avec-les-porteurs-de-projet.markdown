@@ -19,17 +19,15 @@ une-ou-diaporama:
     Intelligence artificielle
     Découvrez les résultats des 6 premiers projets
 event_start_date: 2019-11-28 09:30:00 +01:00
-event_end_date: 2019-11-28 00:30:00 +01:00
 lieu: Lieu de la Transformation publique
 adresse: 77 avenue de Ségur 75015, Paris
 champs_informations:
+- intitule: Horaires
+  contenu: 9h30 - 12h30
 - intitule: 'Information : '
   contenu: Accessible aux personnes à mobilité réduite
-- intitule: 'Contact :'
-  contenu: |-
-    01.71.21.11.45
-    equipe-ami-ia@data.gouv.fr
-- intitule: 'Inscription obligatoire '
+- intitule: Modalités
+  contenu: 'Inscription obligatoire '
   lien: https://www.eventbrite.fr/e/billets-ami-ia-1-presentation-des-resultats-et-echanges-avec-les-laureats-78620041661
 ---
 
@@ -37,27 +35,27 @@ La DITP et la DINUM vous invitent à découvrir les résultats des [6 projets ac
 
 Les six projets lauréats sont les suivants :
 
-* Développer un voice bot pour les utilisateurs du chèque emploi association 
-> Agence centrale des organismes de sécurité sociale - Centre national chèque emploi associatif
+- Développer un voice bot pour les utilisateurs du chèque emploi association 
+* Agence centrale des organismes de sécurité sociale - Centre national chèque emploi associatif
 
-* Détecter par images des irrégularités d'occupation des sols 
-> Direction départementale des territoires et de la mer (DDTM) de l'Hérault
+- Détecter par images des irrégularités d'occupation des sols 
+* Direction départementale des territoires et de la mer (DDTM) de l'Hérault
 
-* Cibler les contrôles de restaurants à partir des commentaires d'utilisateurs 
-> Ministère de l'agriculture et de l'alimentation - Direction générale de l'alimentation
+- Cibler les contrôles de restaurants à partir des commentaires d'utilisateurs 
+* Ministère de l'agriculture et de l'alimentation - Direction générale de l'alimentation
 
-* Mieux maîtriser les risques et les activités nucléaires 
-> Autorité de sûreté nucléaire (ASN)
+- Mieux maîtriser les risques et les activités nucléaires 
+* Autorité de sûreté nucléaire (ASN)
 
-* Mieux orienter les contrôles de la police de l'environnement grâce à l’IA 
-> Agence française pour la biodiversité
+- Mieux orienter les contrôles de la police de l'environnement grâce à l’IA 
+* Agence française pour la biodiversité
 
-* Appuyer les médecins dans la préparation des réunions de concertations pluridisciplinaires
-> Centre hospitalier universitaire (CHU) de Toulouse
+- Appuyer les médecins dans la préparation des réunions de concertations pluridisciplinaires
+* Centre hospitalier universitaire (CHU) de Toulouse
 
 Acteurs publics ou intéressés par la modernisation des services de l’État, nous vous attendons nombreux pour découvrir cette initiative unique d’ expérimentions de l’intelligence artificielle dans l’administration !
 
-*\[Programme détaillé\]*
+Programme détaillé:
 
 **De 10h à 11h :** Présentation par chaque lauréat des résultats obtenus et de l’impact des projets sur la manière de réaliser les services publics.
 
