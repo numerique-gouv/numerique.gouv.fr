@@ -34,7 +34,7 @@ La DITP et la DINUM vous invitent à découvrir les résultats des [6 projets ac
 
 **Les six projets lauréats sont les suivants :**
 
-* Développer un voice bot pour les utilisateurs du chèque emploi association > [Agence centrale des organismes de sécurité sociale - Centre national chèque emploi associatif]
+* Développer un voice bot pour les utilisateurs du chèque emploi association -> Agence centrale des organismes de sécurité sociale - Centre national chèque emploi associatif
 
 * Détecter par images des irrégularités d'occupation des sols
 [Direction départementale des territoires et de la mer (DDTM) de l'Hérault]
