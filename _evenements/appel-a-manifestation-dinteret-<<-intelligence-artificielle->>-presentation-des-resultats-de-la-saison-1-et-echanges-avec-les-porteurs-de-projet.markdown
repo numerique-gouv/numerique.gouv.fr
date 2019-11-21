@@ -30,7 +30,7 @@ champs_informations:
   lien: https://www.eventbrite.fr/e/billets-ami-ia-1-presentation-des-resultats-et-echanges-avec-les-laureats-78620041661
 ---
 
-La DITP et la DINUM vous invitent à découvrir les résultats des [6 projets accompagnés](https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia) dans l’expérimentation de l’IA pour améliorer leur action, dans le cadre du premier AMI IA. Cet évènement sera l’occasion de découvrir les enjeux et les réalisations des différents projets, au cours d’une présentation par les porteurs puis en circulant entre leurs stands d’exposition.
+La direction interministérielle de la transformation publique (DITP) et la direction interministérielle du numérique (DINUM) vous invitent à découvrir les résultats des [6 projets accompagnés](https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia) dans l’expérimentation de l’IA pour améliorer leur action, dans le cadre du premier AMI IA. Cet évènement sera l’occasion de découvrir les enjeux et les réalisations des différents projets, au cours d’une présentation par les porteurs puis en circulant entre leurs stands d’exposition.
 
 **Les six projets lauréats sont les suivants :**
 
