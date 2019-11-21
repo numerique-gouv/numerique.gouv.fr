@@ -8,7 +8,6 @@ categories:
 tags:
 - ia
 - semaine innovation publique
-- AMI
 chapeau-text: Un an après le lancement des travaux, venez découvrir les résultats
   des 6 projets du premier Appel à Manifestation d’Intérêt pour l’Intelligence Artificielle
   (AMI IA) dans l’administration.
