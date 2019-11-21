@@ -33,30 +33,30 @@ champs_informations:
 
 La DITP et la DINUM vous invitent à découvrir les résultats des [6 projets accompagnés](https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia) dans l’expérimentation de l’IA pour améliorer leur action, dans le cadre du premier AMI IA. Cet évènement sera l’occasion de découvrir les enjeux et les réalisations des différents projets, au cours d’une présentation par les porteurs puis en circulant entre leurs stands d’exposition.
 
-Les six projets lauréats sont les suivants :
+**Les six projets lauréats sont les suivants :**
 
 - Développer un voice bot pour les utilisateurs du chèque emploi association 
-* Agence centrale des organismes de sécurité sociale - Centre national chèque emploi associatif
+[Agence centrale des organismes de sécurité sociale - Centre national chèque emploi associatif]
 
 - Détecter par images des irrégularités d'occupation des sols 
-* Direction départementale des territoires et de la mer (DDTM) de l'Hérault
+[Direction départementale des territoires et de la mer (DDTM) de l'Hérault]
 
 - Cibler les contrôles de restaurants à partir des commentaires d'utilisateurs 
-* Ministère de l'agriculture et de l'alimentation - Direction générale de l'alimentation
+[Ministère de l'agriculture et de l'alimentation - Direction générale de l'alimentation]
 
 - Mieux maîtriser les risques et les activités nucléaires 
-* Autorité de sûreté nucléaire (ASN)
+[Autorité de sûreté nucléaire (ASN)]
 
 - Mieux orienter les contrôles de la police de l'environnement grâce à l’IA 
-* Agence française pour la biodiversité
+[Agence française pour la biodiversité]
 
 - Appuyer les médecins dans la préparation des réunions de concertations pluridisciplinaires
-* Centre hospitalier universitaire (CHU) de Toulouse
+[Centre hospitalier universitaire (CHU) de Toulouse]
 
 Acteurs publics ou intéressés par la modernisation des services de l’État, nous vous attendons nombreux pour découvrir cette initiative unique d’ expérimentions de l’intelligence artificielle dans l’administration !
 
-Programme détaillé:
+**Programme détaillé:**
 
-**De 10h à 11h :** Présentation par chaque lauréat des résultats obtenus et de l’impact des projets sur la manière de réaliser les services publics.
+De 10h à 11h : Présentation par chaque lauréat des résultats obtenus et de l’impact des projets sur la manière de réaliser les services publics.
 
-**De 11h à 12h30 :** Exposition des projets sur des « corners », permettant de circuler entre les projets et échanger directement avec les équipes projet.
+De 11h à 12h30 : Exposition des projets sur des « corners », permettant de circuler entre les projets et échanger directement avec les équipes projet.
