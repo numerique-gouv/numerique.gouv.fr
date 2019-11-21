@@ -34,23 +34,22 @@ La DITP et la DINUM vous invitent à découvrir les résultats des [6 projets ac
 
 **Les six projets lauréats sont les suivants :**
 
-* Développer un voice bot pour les utilisateurs du chèque emploi association\
-  \[Agence centrale des organismes de sécurité sociale - Centre national chèque emploi associatif\]
+* Développer un voice bot pour les utilisateurs du chèque emploi association > [Agence centrale des organismes de sécurité sociale - Centre national chèque emploi associatif]
 
-* Détecter par images des irrégularités d'occupation des sols\
-  \[Direction départementale des territoires et de la mer (DDTM) de l'Hérault\]
+* Détecter par images des irrégularités d'occupation des sols
+[Direction départementale des territoires et de la mer (DDTM) de l'Hérault]
 
-* Cibler les contrôles de restaurants à partir des commentaires d'utilisateurs\
-  \[Ministère de l'agriculture et de l'alimentation - Direction générale de l'alimentation\]
+* Cibler les contrôles de restaurants à partir des commentaires d'utilisateurs
+[Ministère de l'agriculture et de l'alimentation - Direction générale de l'alimentation]
 
-* Mieux maîtriser les risques et les activités nucléaires\
-  \[Autorité de sûreté nucléaire (ASN)\]
+* Mieux maîtriser les risques et les activités nucléaires
+[Autorité de sûreté nucléaire (ASN)]
 
-* Mieux orienter les contrôles de la police de l'environnement grâce à l’IA\
-  \[Agence française pour la biodiversité\]
+* Mieux orienter les contrôles de la police de l'environnement grâce à l’IA
+[Agence française pour la biodiversité]
 
-* Appuyer les médecins dans la préparation des réunions de concertations pluridisciplinaires\
-  \[Centre hospitalier universitaire (CHU) de Toulouse\]
+* Appuyer les médecins dans la préparation des réunions de concertations pluridisciplinaires
+[Centre hospitalier universitaire (CHU) de Toulouse]
 
 Acteurs publics ou intéressés par la modernisation des services de l’État, nous vous attendons nombreux pour découvrir cette initiative unique d’ expérimentions de l’intelligence artificielle dans l’administration !
 
