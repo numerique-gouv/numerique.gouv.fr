@@ -20,6 +20,11 @@ une-ou-diaporama:
 event_start_date: 2019-11-28 09:30:00 +01:00
 lieu: Lieu de la Transformation publique
 adresse: 77 avenue de Ségur 75015, Paris
+acces:
+- type: Métro
+  lignes:
+  - nom: 'Ségur (ligne 10) '
+  - nom: Sèvres-Lecourbe (ligne 6)
 champs_informations:
 - intitule: Horaires
   contenu: 9h30 - 12h30
