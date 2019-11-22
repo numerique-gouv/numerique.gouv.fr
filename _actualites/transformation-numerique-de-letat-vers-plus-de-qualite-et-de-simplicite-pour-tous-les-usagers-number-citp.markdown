@@ -34,7 +34,9 @@ Un nouveau point d’étape qui accorde une large place au volet numérique port
 > **Cédric O** 
 > <br>Secrétaire d’État chargé du Numérique
 {: .auteur-citation}
+
 Mesure annoncée : la création d’**un panel** associant chercheurs et représentants d’usagers, qui se réunira régulièrement à compter de janvier 2020 pour passer en revue les démarches administratives et ainsi mieux identifier les difficultés concrètes posées par la dématérialisation.
+{: .margin-top-0}
 
 <figure class='image-left' style='width: 40%;'><a href="https://observatoire.numerique.gouv.fr/"><img src="/uploads/capture-observatoire-oct2019-851502.png" alt="Consulter l'observatoire de la qualité des services numériques"/></a>
 </figure>En parallèle, chaque trimestre, **[l’observatoire de la qualité des démarches en ligne](https://observatoire.numerique.gouv.fr/)** lancé en juin rend compte de la numérisation des 250 démarches administratives les plus utilisées par les Français, de leur qualité et de la satisfaction des usagers recueillie grâce au **[bouton Je donne mon avis](https://observatoire.numerique.gouv.fr/Aide/Donner%20son%20avis)**.
