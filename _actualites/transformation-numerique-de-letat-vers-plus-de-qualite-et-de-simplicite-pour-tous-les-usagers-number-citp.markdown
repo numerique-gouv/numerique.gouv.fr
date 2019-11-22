@@ -27,7 +27,7 @@ Un nouveau point d’étape qui accorde une large place au volet numérique port
 
 ## Améliorer la qualité des services publics numériques
 
-<figure class='image-center' style='width: 80%;'><img src="/uploads/citp-4-cedric-o.jpg"></figure>
+<figure class='image-center' style='width: 90%;'><img src="![citp4-cedric-o.jpg](/uploads/citp4-cedric-o.jpg)"></figure>
 
 > Nous avons repensé la dématérialisation des services publics à partir de l’expérience des usagers et fait de l’accompagnement dans leurs démarches une priorité
 {: .citation}
