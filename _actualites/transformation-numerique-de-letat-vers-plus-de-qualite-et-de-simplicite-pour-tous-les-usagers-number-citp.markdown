@@ -15,6 +15,8 @@ chapeau-text: Qualité des démarches en ligne, accompagnement des usagers en di
   engagements du Gouvernement en matière de transformation numérique de l’État, à
   l’occasion du 4e comité interministériel de la transformation publique qui s’est
   tenu le 15 novembre 2019.
+une-ou-diaporama:
+- image: "/uploads/CITP-4_une.png"
 ---
 
 ## Un service public plus simple et proche des citoyens
