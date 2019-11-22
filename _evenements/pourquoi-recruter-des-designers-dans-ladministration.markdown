@@ -52,5 +52,5 @@ Liste des défis qui seront présents : [Gobelins](https://entrepreneur-interet-
 
 #### Programme détaillé
 
-**14h30 - 14h45 :** pitchs des stands
+**14h30 - 14h45 :** pitchs des stands <br>
 **14h45 - 16h :** découverte des 5 stands
