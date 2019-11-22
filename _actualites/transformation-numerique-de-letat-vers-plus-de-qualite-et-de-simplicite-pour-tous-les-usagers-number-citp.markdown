@@ -16,7 +16,7 @@ chapeau-text: Qualité des démarches en ligne, accompagnement des usagers en di
   l’occasion du 4e comité interministériel de la transformation publique qui s’est
   tenu le 15 novembre 2019.
 une-ou-diaporama:
-- image: "/uploads/CITP-4_une2.png"
+- image: "/uploads/CITP4-une3.png"
 ---
 
 ## Un service public plus simple et proche des citoyens
