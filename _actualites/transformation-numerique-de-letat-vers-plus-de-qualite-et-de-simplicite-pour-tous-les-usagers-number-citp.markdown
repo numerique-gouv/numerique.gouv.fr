@@ -20,7 +20,7 @@ une-ou-diaporama:
 ---
 
 ## Un service public plus simple et proche des citoyens
-{: .margin-top-0} 
+{: .margin-top-0}
 *« Nous devons la qualité, la simplicité, la proximité et l’efficacité du service public à nos concitoyens »*. Et c’est bien ce leitmotiv, rappelé par le Premier ministre Édouard Philippe à l’issue de la rencontre, qui a animé le Gouvernement réuni vendredi dernier à l’occasion du 4e comité interministériel de la transformation publique (CITP).
 
 Un nouveau point d’étape qui accorde une large place au volet numérique porté par le secrétaire d’État Cédric O, en dresse les résultats et définit de nouvelles actions pour accélérer l’atteinte des objectifs fixés.
@@ -54,7 +54,7 @@ Parmi ces actions : l’ouverture en décembre prochain par la DINUM d’**un gu
 
 *« La dématérialisation des procédures est une perspective qui simplifie la vie des usagers mais elle ne doit jamais être envisagée sans prendre en compte la nécessité de l’inclusion numérique »*, a insisté le Premier ministre.
 
-En ce sens, le Gouvernement s’engage à **mieux détecter et accompagner les usagers en difficulté avec les outils numériques**. Bientôt, ils pourront compter sur **Aidants Connect**, créé par la mission Société numérique avec l’appui de la DINUM. Ce dispositif proposera un accompagnement humain et un outil basé sur le mécanisme d’identification [FranceConnect](https://www.franceconnect.gouv.fr/) afin que des tiers professionnels puissent réaliser leurs démarches administratives en ligne pour eux, en toute sécurité et légalité.
+En ce sens, le Gouvernement s’engage à **mieux détecter et accompagner les usagers en difficulté avec les outils numériques**. Bientôt, ils pourront compter sur **Aidants Connect**, créé par la mission Société numérique avec l’appui de la DINUM, via Beta.gouv.fr. Ce dispositif proposera un accompagnement humain et un outil basé sur le mécanisme d’identification [FranceConnect](https://www.franceconnect.gouv.fr/) afin que des tiers professionnels puissent réaliser leurs démarches administratives en ligne pour eux, en toute sécurité et légalité.
 
 <iframe frameborder="0" width="680" height="383" src="https://www.dailymotion.com/embed/video/x7obr5q" allowfullscreen allow="autoplay"></iframe>
 <br>
