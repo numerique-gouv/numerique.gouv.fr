@@ -27,7 +27,6 @@ Un nouveau point d’étape qui accorde une large place au volet numérique port
 
 ## Améliorer la qualité des services publics numériques
 
-
 <figure class='image-center' style='width: 80%;'><img src="/uploads/citp-4-cedric-o.jpg"></figure>
 
 > Nous avons repensé la dématérialisation des services publics à partir de l’expérience des usagers et fait de l’accompagnement dans leurs démarches une priorité
@@ -71,7 +70,7 @@ Face à l’évolution des modes de travail, le Gouvernement s’est engagé à 
 
 La messagerie instantanée des agents publics **[Tchap](https://www.tchap.gouv.fr/)**, développée par la DINUM, poursuit son déploiement et s’étoffe de nouvelles fonctionnalités. Aujourd’hui utilisée par plus de 70 000 agents, elle permet depuis octobre d’inviter des interlocuteurs extérieurs à l’administration dans des espaces de discussion privés. La DINUM, en collaboration avec le ministère de la Transition écologique et solidaire, a également ouvert un **[outil de webconférence](https://webconf.numerique.gouv.fr/)** pour tous les ministères en septembre dernier.
 
-Une offre de services plus large dédiée aux agents publics est en cours de construction, avec notamment des outils collaboratifs et de travail en mobilité issus des appels à projets de l’environnement de travail numérique des agents (ETNA).
+Une offre de services plus large dédiée aux agents publics est en cours de construction, avec notamment des outils collaboratifs et de travail en mobilité issus des appels à projets de l’**environnement de travail numérique des agents** (ETNA).
 
 ## Améliorer l’efficacité des politiques publiques grâce au numérique
 
