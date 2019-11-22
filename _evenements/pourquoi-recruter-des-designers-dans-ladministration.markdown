@@ -7,6 +7,7 @@ categories:
 tags:
 - Entrepreneur d'Intérêt Général
 - semaine innovation publique
+- UX design
 chapeau-text: Venez échanger avec des designers et des agents publics qui ont mené
   des projets dans l'administration ensemble !
 categorie: 'évènement '
