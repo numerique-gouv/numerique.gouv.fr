@@ -29,7 +29,7 @@ Un nouveau point d’étape qui accorde une large place au volet numérique port
 
 <figure class='image-center' style='width: 90%;'><img src="/uploads/citp4-cedric-o.jpg"></figure>
 
-> Nous avons repensé la dématérialisation des services publics à partir de l’expérience des usagers et fait de l’accompagnement dans leurs démarches une priorité
+> Nous avons repensé la dématérialisation des services publics à partir de l’expérience des usagers et fait de l’accompagnement dans leurs démarches une priorité.
 {: .citation}
 > **Cédric O** 
 > <br>Secrétaire d’État chargé du Numérique
