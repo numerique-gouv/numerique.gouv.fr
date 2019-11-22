@@ -27,7 +27,11 @@ Un nouveau point d’étape qui accorde une large place au volet numérique port
 
 ## Améliorer la qualité des services publics numériques
 
-*« Nous avons repensé la dématérialisation des services publics à partir de l’expérience des usagers et fait de l’accompagnement dans leurs démarches une priorité »*, précise le secrétaire d’État au Numérique.
+> Nous avons repensé la dématérialisation des services publics à partir de l’expérience des usagers et fait de l’accompagnement dans leurs démarches une priorité
+{: .citation}
+> **Cédric O** 
+> <br>Secrétaire d’État chargé du Numérique
+{: .auteur-citation}
 
 Mesure annoncée : la création d’**un panel** associant chercheurs et représentants d’usagers, qui se réunira régulièrement à compter de janvier 2020 pour passer en revue les démarches administratives et ainsi mieux identifier les difficultés concrètes posées par la dématérialisation.
 
@@ -71,3 +75,4 @@ Le Gouvernement a réaffirmé lors du CITP sa volonté de se saisir pleinement d
 Un laboratoire – **le lab IA** – installé au sein de la DINUM soutient des projets visant à expérimenter et développer l’utilisation de l’intelligence artificielle et des datasciences au sein de l’État. 21 projets ont ainsi vu le jour, dans des domaines variés tels que l’environnement, l’emploi, la santé et le social, ou encore la lutte contre la fraude. Un an après leur lancement, les résultats des [6 projets lauréats du premier appel à manifestation d’intérêt IA](https://www.numerique.gouv.fr/actualites/intelligence-artificielle-6-projets-selectionnes-pour-etre-experimentes-dans-les-services-publics/) seront présentés à l’occasion de la Semaine de l’innovation publique ([inscrivez-vous à l’événement](https://www.eventbrite.fr/e/billets-ami-ia-1-presentation-des-resultats-et-echanges-avec-les-laureats-78620041661)).
 
 > [Retrouvez le détail des mesures du 4e CITP (pdf - 1,4 Mo)](/uploads/dossier_de_presse-4eme_comite_interministeriel_de_la_transformation_publique.pdf)
+{: .lien-important}
