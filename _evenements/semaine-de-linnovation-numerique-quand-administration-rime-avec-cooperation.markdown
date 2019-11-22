@@ -7,6 +7,7 @@ categories:
 tags:
 - semaine innovation publique
 - numérique
+- agents publics
 chapeau-text: 'Vous êtes noyé sous le flux de mails ? Vous ne pouvez pas travailler
   avec vos collègues et les autres ministères ? Vos documents d''équipe sont éparpillés
   et vous perdez du temps à les rechercher ? Venez découvrir les nouveaux usages collaboratifs
