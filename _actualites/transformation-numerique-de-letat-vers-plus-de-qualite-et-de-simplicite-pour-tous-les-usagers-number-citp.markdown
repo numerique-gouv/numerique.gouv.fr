@@ -81,5 +81,7 @@ Le Gouvernement a réaffirmé lors du CITP sa volonté de se saisir pleinement d
 
 Un laboratoire – **le lab IA** – installé au sein de la DINUM soutient des projets visant à expérimenter et développer l’utilisation de l’intelligence artificielle et des datasciences au sein de l’État. 21 projets ont ainsi vu le jour, dans des domaines variés tels que l’environnement, l’emploi, la santé et le social, ou encore la lutte contre la fraude. Un an après leur lancement, les résultats des [6 projets lauréats du premier appel à manifestation d’intérêt IA](https://www.numerique.gouv.fr/actualites/intelligence-artificielle-6-projets-selectionnes-pour-etre-experimentes-dans-les-services-publics/) seront présentés à l’occasion de la Semaine de l’innovation publique ([inscrivez-vous à l’événement](https://www.eventbrite.fr/e/billets-ami-ia-1-presentation-des-resultats-et-echanges-avec-les-laureats-78620041661)).
 
+[![Retrouvez le détail des mesures du 4e CITP (pdf - 1,4 Mo)](![capture-dp-citp4-200.png](/uploads/capture-dp-citp4-200.png){: width="100px" height="141px"}](/uploads/dossier_de_presse-4eme_comite_interministeriel_de_la_transformation_publique.pdf)
+{: .text-center}
 > [Retrouvez le détail des mesures du 4e CITP (pdf - 1,4 Mo)](/uploads/dossier_de_presse-4eme_comite_interministeriel_de_la_transformation_publique.pdf)
 {: .lien-important}
