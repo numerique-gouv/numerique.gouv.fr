@@ -20,7 +20,7 @@ une-ou-diaporama:
 ---
 
 ## Un service public plus simple et proche des citoyens
-
+{: .margin-top-0} 
 *« Nous devons la qualité, la simplicité, la proximité et l’efficacité du service public à nos concitoyens »*. Et c’est bien ce leitmotiv, rappelé par le Premier ministre Édouard Philippe à l’issue de la rencontre, qui a animé le Gouvernement réuni vendredi dernier à l’occasion du 4e comité interministériel de la transformation publique (CITP).
 
 Un nouveau point d’étape qui accorde une large place au volet numérique porté par le secrétaire d’État Cédric O, en dresse les résultats et définit de nouvelles actions pour accélérer l’atteinte des objectifs fixés.
