@@ -62,7 +62,7 @@ En ce sens, le Gouvernement s’engage à **mieux détecter et accompagner les u
 <br>
 <br>
 
-S’agissant des usagers en situation de handicap, le décret du 24 juillet 2019 fixe un socle minimal d’exigences en matière d’accessibilité des services en ligne pesant sur les administrations, opérateurs et certains acteurs privés. Concrétisation il y a 2 mois : la DINUM a publié une nouvelle version du référentiel général d’amélioration de l’accessibilité.
+S’agissant des usagers en situation de handicap, le décret du 24 juillet 2019 fixe un socle minimal d’exigences en matière d’accessibilité des services en ligne pesant sur les administrations, opérateurs et certains acteurs privés. Concrétisation il y a 2 mois : la DINUM a publié une nouvelle version du **référentiel général d’amélioration de l’accessibilité** (RGAA).
 
 **Lire aussi :** [Accessibilité numérique : la quatrième version du RGAA est publiée](https://www.numerique.gouv.fr/actualites/accessibilite-numerique-la-quatrieme-version-du-rgaa-est-publiee/)
 {:.margin-left-3}
