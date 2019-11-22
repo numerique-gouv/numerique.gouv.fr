@@ -1,7 +1,6 @@
 ---
 title: Pourquoi recruter des designers dans l’administration ?
 date: 2019-11-22 17:14:00 +01:00
-published: false
 chapeau-text: Venez échanger avec des designers et des agents publics qui ont mené
   des projets dans l'administration ensemble !
 categorie: 'évènement '
@@ -12,8 +11,10 @@ une-ou-diaporama:
 En 3 ans d'existence, le programme entrepreneur d'intéret générale (EIG) a constaté que le design apportait beaucoup à des projets de transformation numérique : connaissance des utilisateurs, compréhension de l'usage qu'ils font d'un outil ou d'un service, mobilisation de parties prenantes...
 
 Nous vous proposons :
-•	d'échanger avec des designers et des agents publics qui ont mené des projets ensemble ;
-•	de déterminer comment le design peut vous être utile dans vos administrations.
+
+* d'échanger avec des designers et des agents publics qui ont mené des projets ensemble ;
+* de déterminer comment le design peut vous être utile dans vos administrations.
+
 Pourquoi recruter des designers dans l’administration ?
 Découvrez 5 réponses concrètes en 5 stands thématiques :
 •	Connaître ses utilisateurs : découvrez la méthode et l'utilité de la recherche utilisateur en vous plongeant dans un parcours utilisateur.
