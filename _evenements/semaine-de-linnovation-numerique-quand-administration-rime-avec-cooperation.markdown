@@ -29,7 +29,7 @@ acces:
 champs_informations:
 - intitule: Modalités
   contenu: inscription (places limitées)
-  lien: https://www.eventbrite.fr/e/billets-semaine-de-linnovation-publique-quand-administration-rime-avec-cooperation-82773151725
+  lien: https://www.modernisation.gouv.fr/la-semaine-de-linnovation-publique/programme-2019?field_inno17_regions_value=%C3%8Ele-de-France&field_inno19_date_value=All&field_inno17_type_public_tid=All&combine=coop%C3%A9ration
 ---
 
 Cet atelier vous permettra de découvrir les solutions interministérielles de messagerie instantanée (Tchap), de web-conférence de l’État, de portail social et collaboratif (OSMOSE). Une mise en situation permettra de mettre en lumière l'articulation de ces solutions et d'illustrer comment leur combinaison peut aider et simplifier le quotidien des agents.
