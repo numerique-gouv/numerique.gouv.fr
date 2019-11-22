@@ -37,7 +37,7 @@ Nous vous proposons :
 #### Découvrez 5 réponses concrètes en 5 stands thématiques :
 
 * Connaître ses utilisateurs : découvrez la méthode et l'utilité de la recherche utilisateur en vous plongeant dans un parcours utilisateur.
-
+ 
 * Faire tester son outil : découvrez la méthode du test utilisateur en testant les réalisations des designers.
 
 * Favoriser l'appropriation de son outil par de nouveaux utilisateurs : découvrez comment documenter les réalisations et les rendre accessibles au plus grand nombre
