@@ -10,6 +10,7 @@ tags:
 - Transformation numérique
 - observatoire
 - Dites-le-nous une fois
+- dématérialisation
 chapeau-text: Qualité des démarches en ligne, accompagnement des usagers en difficulté
   avec le numérique, outils de travail innovants pour les agents… Le point sur les
   engagements du Gouvernement en matière de transformation numérique de l’État, à
@@ -71,7 +72,7 @@ S’agissant des usagers en situation de handicap, le décret du 24 juillet 2019
 ## Améliorer les conditions de travail des agents par de nouveaux outils numériques
 Face à l’évolution des modes de travail, le Gouvernement s’est engagé à mettre à la disposition des agents **des outils numériques innovants, mobiles et collaboratifs**.
 
-<figure class='image-left' style='width: 40%;'><img src="/uploads/Tchap_mise-en-situation-800.png"/></figure>La messagerie instantanée des agents publics **[Tchap](https://www.tchap.gouv.fr/)**, développée par la DINUM, poursuit son déploiement et s’étoffe de nouvelles fonctionnalités. Aujourd’hui utilisée par plus de 70 000 agents, elle permet depuis octobre d’inviter des interlocuteurs extérieurs à l’administration dans des espaces de discussion privés. La DINUM, en collaboration avec le ministère de la Transition écologique et solidaire, a également ouvert un **[outil de webconférence](https://webconf.numerique.gouv.fr/)** pour tous les ministères en septembre dernier.
+<figure class='image-left' style='width: 40%;'><img src="/uploads/Tchap_mise-en-situation-3.jpg"/></figure>La messagerie instantanée des agents publics **[Tchap](https://www.tchap.gouv.fr/)**, développée par la DINUM, poursuit son déploiement et s’étoffe de nouvelles fonctionnalités. Aujourd’hui utilisée par plus de 70 000 agents, elle permet depuis octobre d’inviter des interlocuteurs extérieurs à l’administration dans des espaces de discussion privés. La DINUM, en collaboration avec le ministère de la Transition écologique et solidaire, a également ouvert un **[outil de webconférence](https://webconf.numerique.gouv.fr/)** pour tous les ministères en septembre dernier.
 
 Une offre de services plus large dédiée aux agents publics est en cours de construction, avec notamment des outils collaboratifs et de travail en mobilité issus des appels à projets de l’**environnement de travail numérique des agents** (ETNA).
 
