@@ -27,6 +27,9 @@ Un nouveau point d’étape qui accorde une large place au volet numérique port
 
 ## Améliorer la qualité des services publics numériques
 
+
+<figure class='image-center' style='width: 80%;'><img src="/uploads/citp-4-cedric-o.jpg"></figure>
+
 > Nous avons repensé la dématérialisation des services publics à partir de l’expérience des usagers et fait de l’accompagnement dans leurs démarches une priorité
 {: .citation}
 > **Cédric O** 
@@ -55,6 +58,8 @@ Parmi ces actions : l’ouverture en décembre prochain par la DINUM d’**un gu
 En ce sens, le Gouvernement s’engage à **mieux détecter et accompagner les usagers en difficulté avec les outils numériques**. Bientôt, ils pourront compter sur **Aidants Connect**, créé par la mission Société numérique avec l’appui de la DINUM. Ce dispositif proposera un accompagnement humain et un outil basé sur le mécanisme d’identification [FranceConnect](https://www.franceconnect.gouv.fr/) afin que des tiers professionnels puissent réaliser leurs démarches administratives en ligne pour eux, en toute sécurité et légalité.
 
 <iframe frameborder="0" width="680" height="383" src="https://www.dailymotion.com/embed/video/x7obr5q" allowfullscreen allow="autoplay"></iframe>
+<br>
+<br>
 
 S’agissant des usagers en situation de handicap, le décret du 24 juillet 2019 fixe un socle minimal d’exigences en matière d’accessibilité des services en ligne pesant sur les administrations, opérateurs et certains acteurs privés. Concrétisation il y a 2 mois : la DINUM a publié une nouvelle version du référentiel général d’amélioration de l’accessibilité.
 
