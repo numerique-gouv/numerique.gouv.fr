@@ -34,6 +34,7 @@ Un nouveau point d’étape qui accorde une large place au volet numérique port
 > **Cédric O** 
 > <br>Secrétaire d’État chargé du Numérique
 {: .auteur-citation}
+{:.margin-bottom-1}
 
 Mesure annoncée : la création d’**un panel** associant chercheurs et représentants d’usagers, qui se réunira régulièrement à compter de janvier 2020 pour passer en revue les démarches administratives et ainsi mieux identifier les difficultés concrètes posées par la dématérialisation.
 {: .margin-top-0}
