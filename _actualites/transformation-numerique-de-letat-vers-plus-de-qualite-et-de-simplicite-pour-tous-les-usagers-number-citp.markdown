@@ -33,11 +33,11 @@ Un nouveau point d’étape qui accorde une large place au volet numérique port
 > <br>Secrétaire d’État chargé du Numérique
 {: .auteur-citation}
 
-Mesure annoncée : la création d’**un panel** associant chercheurs et représentants d’usagers, qui se réunira régulièrement à compter de janvier 2020 pour passer en revue les démarches administratives et ainsi mieux identifier les difficultés concrètes posées par la dématérialisation.
+<figure class='image-left' style='width: 50%;'><img src="/uploads/citp-4-cedric-o.jpg"></figure>Mesure annoncée : la création d’**un panel** associant chercheurs et représentants d’usagers, qui se réunira régulièrement à compter de janvier 2020 pour passer en revue les démarches administratives et ainsi mieux identifier les difficultés concrètes posées par la dématérialisation.
 
 En parallèle, chaque trimestre, **[l’observatoire de la qualité des démarches en ligne](https://observatoire.numerique.gouv.fr/)** lancé en juin rend compte de la numérisation des 250 démarches administratives les plus utilisées par les Français, de leur qualité et de la satisfaction des usagers recueillie grâce au **[bouton Je donne mon avis](https://observatoire.numerique.gouv.fr/Aide/Donner%20son%20avis)**.
 
-Une nouvelle édition de cet outil piloté par la DINUM a été publiée le mois dernier. Un nouveau critère qualité y est désormais mesuré, crucial pour la simplification des démarches côté usager : \*\*le pré-remplissage des procédures, \*\*selon le principe **« Dites-le-nous une fois »**. Concrètement, il s’agit d’éviter de demander à l’usager de ressaisir des informations ou fournir des pièces justificatives que d’autres administrations possèdent, grâce à un partage automatique (via des API).
+Une nouvelle édition de cet outil piloté par la DINUM a été publiée le mois dernier. Un nouveau critère qualité y est désormais mesuré, crucial pour la simplification des démarches côté usager : **le pré-remplissage des procédures**, selon le principe **« Dites-le-nous une fois »**. Concrètement, il s’agit d’éviter de demander à l’usager de ressaisir des informations ou fournir des pièces justificatives que d’autres administrations possèdent, grâce à un partage automatique (via des API).
 
 **Lire aussi :** [Qualité des services publics numériques : les 250 démarches phares de nouveau évaluées](https://www.numerique.gouv.fr/actualites/qualite-des-services-publics-numeriques-les-250-demarches-phares-de-nouveau-evaluees/)
 {:.margin-left-3}
