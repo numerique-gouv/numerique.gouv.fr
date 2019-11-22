@@ -16,7 +16,7 @@ chapeau-text: Qualité des démarches en ligne, accompagnement des usagers en di
   l’occasion du 4e comité interministériel de la transformation publique qui s’est
   tenu le 15 novembre 2019.
 une-ou-diaporama:
-- image: "/uploads/CITP-4_une.png"
+- image: "/uploads/CITP-4_une2.png"
 ---
 
 ## Un service public plus simple et proche des citoyens
@@ -35,7 +35,7 @@ Un nouveau point d’étape qui accorde une large place au volet numérique port
 > <br>Secrétaire d’État chargé du Numérique
 {: .auteur-citation}
 
-<figure class='image-left' style='width: 50%;'><img src="/uploads/citp-4-cedric-o.jpg"></figure>Mesure annoncée : la création d’**un panel** associant chercheurs et représentants d’usagers, qui se réunira régulièrement à compter de janvier 2020 pour passer en revue les démarches administratives et ainsi mieux identifier les difficultés concrètes posées par la dématérialisation.
+Mesure annoncée : la création d’**un panel** associant chercheurs et représentants d’usagers, qui se réunira régulièrement à compter de janvier 2020 pour passer en revue les démarches administratives et ainsi mieux identifier les difficultés concrètes posées par la dématérialisation.
 
 En parallèle, chaque trimestre, **[l’observatoire de la qualité des démarches en ligne](https://observatoire.numerique.gouv.fr/)** lancé en juin rend compte de la numérisation des 250 démarches administratives les plus utilisées par les Français, de leur qualité et de la satisfaction des usagers recueillie grâce au **[bouton Je donne mon avis](https://observatoire.numerique.gouv.fr/Aide/Donner%20son%20avis)**.
 
