@@ -1,6 +1,11 @@
 ---
 title: Semaine de l’innovation numérique - Quand "Administration" rime avec "Coopération"
 date: 2019-11-22 14:44:00 +01:00
+categories:
+- Évènement
+tags:
+- semaine innovation publique
+- numérique
 chapeau-text: 'Vous êtes noyé sous le flux de mails ? Vous ne pouvez pas travailler
   avec vos collègues et les autres ministères ? Vos documents d''équipe sont éparpillés
   et vous perdez du temps à les rechercher ? Venez découvrir les nouveaux usages collaboratifs
