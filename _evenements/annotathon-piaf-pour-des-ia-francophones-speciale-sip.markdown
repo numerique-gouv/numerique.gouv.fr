@@ -12,7 +12,7 @@ chapeau-text: 'Venez contribuer à un projet d''intelligence artificielle public
 categorie: Événement
 une-ou-diaporama:
 - image: "/uploads/PIAF.PNG"
-event_end_date: 2019-11-29 00:00:00 +01:00
+event_start_date: 2019-11-29 00:00:00 +01:00
 lieu: Lieu de la transformation publique
 adresse: 77 avenue de Ségur, 75007 Paris
 acces:
