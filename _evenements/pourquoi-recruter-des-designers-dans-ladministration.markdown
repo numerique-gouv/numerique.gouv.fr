@@ -2,7 +2,7 @@
 title: Pourquoi recruter des designers dans l’administration ?
 date: 2019-11-22 17:14:00 +01:00
 categories:
-- Évènement
+- Semaine de l'innovation publique
 tags:
 - Entrepreneur d'Intérêt Général
 - semaine innovation publique

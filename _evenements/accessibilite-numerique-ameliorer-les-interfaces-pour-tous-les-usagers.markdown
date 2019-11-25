@@ -2,7 +2,7 @@
 title: 'Accessibilité numérique : améliorer les interfaces pour tous les usagers'
 date: 2019-11-07 18:22:00 +01:00
 categories:
-- Matinée d'échanges
+- Semaine de l'innovation publique
 tags:
 - accessibilité
 - qualité des services publics numériques

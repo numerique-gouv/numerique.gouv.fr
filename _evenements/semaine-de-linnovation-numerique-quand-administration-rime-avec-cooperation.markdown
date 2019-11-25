@@ -1,8 +1,8 @@
 ---
-title: 'Quand "Administration" rime avec "Coopération" - #SemaineIP'
+title: Quand « Administration » rime avec « Coopération »
 date: 2019-11-22 14:44:00 +01:00
 categories:
-- Évènement
+- Semaine de l'innovation publique
 tags:
 - semaine innovation publique
 - numérique

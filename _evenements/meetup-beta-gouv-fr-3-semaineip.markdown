@@ -1,8 +1,14 @@
 ---
-title: 'Meetup beta.gouv.fr #3 - #SemaineIP'
+title: 'Meetup beta.gouv.fr #3'
 date: 2019-11-25 16:13:00 +01:00
+categories:
+- Semaine de l'innovation publique
+tags:
+- Beta.gouv.fr
+- semaine innovation publique
+- Startups d'Etat
 chapeau-text: 'Le réseau d''incubateurs beta.gouv.fr piloté par la DINUM organise
-  son 3ème meetup pour la semaine de l''innovation publique ! '
+  son 3e meetup à l''occasion de la semaine de l''innovation publique ! '
 event_start_date: 2019-11-26 18:00:00 +01:00
 lieu: Lieu de la Transformation Publique
 adresse: 77 avenue de Ségur, 75015 Paris

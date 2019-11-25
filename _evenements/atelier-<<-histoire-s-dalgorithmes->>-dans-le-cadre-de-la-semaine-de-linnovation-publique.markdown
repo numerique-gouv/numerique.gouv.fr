@@ -1,9 +1,8 @@
 ---
-title: Atelier « Histoire(s) d’algorithmes » dans le cadre de la Semaine de l’innovation
-  publique
+title: Atelier « Histoire(s) d’algorithmes »
 date: 2019-11-25 11:41:00 +01:00
 categories:
-- Évènement
+- Semaine de l'innovation publique
 tags:
 - algorithme
 - semaine innovation publique
