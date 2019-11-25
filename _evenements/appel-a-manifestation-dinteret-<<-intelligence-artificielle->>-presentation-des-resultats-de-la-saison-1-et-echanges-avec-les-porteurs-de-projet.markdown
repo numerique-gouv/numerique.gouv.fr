@@ -1,10 +1,10 @@
 ---
 title: |-
   Appel à manifestation d'intérêt « Intelligence artificielle » : présentation
-  des résultats de la saison 1 et échanges avec les porteurs de projet - #SemaineIP
+  des résultats de la saison 1 et échanges avec les porteurs de projet
 date: 2019-11-21 17:11:00 +01:00
 categories:
-- Évènement
+- Semaine de l'innovation publique
 tags:
 - ia
 - semaine innovation publique
