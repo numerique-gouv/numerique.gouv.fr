@@ -1,5 +1,5 @@
 ---
-title: 'Annotathon PIAF (pour des IA francophones) spéciale #SemaineIP'
+title: 'Annotathon PIAF (pour des IA francophones) spécial #SemaineIP'
 date: 2019-11-25 14:15:00 +01:00
 categories:
 - Semaine de l'innovation publique
