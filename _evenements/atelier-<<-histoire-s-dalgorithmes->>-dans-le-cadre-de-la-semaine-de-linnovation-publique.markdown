@@ -20,6 +20,7 @@ adresse: 77 avenue de Ségur, 75015 Paris
 acces:
 - type: Métro
   lignes:
+  - nom: 'Ségur (ligne 10) '
   - nom: Cambronne (ligne 6)
 champs_informations:
 - intitule: Horaires
