@@ -1,5 +1,5 @@
 ---
-title: Semaine de l’innovation numérique - Quand "Administration" rime avec "Coopération"
+title: 'Quand "Administration" rime avec "Coopération" - #SemaineIP'
 date: 2019-11-22 14:44:00 +01:00
 categories:
 - Évènement
@@ -35,15 +35,20 @@ champs_informations:
 
 Cet atelier vous permettra de découvrir les solutions interministérielles de messagerie instantanée (Tchap), de web-conférence de l’État, de portail social et collaboratif (OSMOSE). Une mise en situation permettra de mettre en lumière l'articulation de ces solutions et d'illustrer comment leur combinaison peut aider et simplifier le quotidien des agents.
 
-#### Venez découvrir les 3 offres collaboratives de L’État lors d'ateliers 
+#### Venez découvrir les 3 offres collaboratives de L’État lors d'ateliers
 
 * Présentation des solutions web-conférence de l’État, Tchap et la plateforme OSMOSE
+
 * Mise en situation
+
 * Échanges et discussions
+
 * Modalités des offres (accès, modèle économique, sécurité des données, support...)
 
 #### Horaires:
 
-- mardi 26 novembre de 10h à 13h
-- mercredi 27 novembre de 10h à 13h
-- jeudi 28 novembre de 14h à 17h
+* mardi 26 novembre de 10h à 13h, [inscription.](https://www.eventbrite.fr/e/billets-semaine-de-linnovation-publique-quand-administration-rime-avec-cooperation-82773151725)
+
+* mercredi 27 novembre de 10h à 13h, [inscription.](https://www.eventbrite.fr/e/billets-semaine-de-linnovation-publique-quand-administration-rime-avec-cooperation-82774638171)
+
+* jeudi 28 novembre de 14h à 17h, [inscription.](https://www.eventbrite.fr/e/billets-semaine-de-linnovation-publique-quand-administration-rime-avec-cooperation-82215696361)
