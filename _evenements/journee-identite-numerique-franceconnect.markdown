@@ -26,12 +26,12 @@ champs_informations:
 - intitule: Horaires
   contenu: de 9h à 18h
 - intitule: Modalités
-  contenu: 'Inscriptions (NB : inscriptions après-midi clôturées)'
+  contenu: Inscriptions
   lien: https://framaforms.org/1571910884
 ---
 
-Dans le cadre de la semaine de l'innovation publique FranceConnect vous invite à venir découvrir son écosystème de fournisseurs d'identité. L'évènement aura lieu en deux temps, d'abord un temps d'échanges/démonstrations avec les fournisseurs d’identité FranceConnect et FranceConnect, puis un test UX sur les futurs parcours FranceConnect
+Dans le cadre de la Semaine de l'innovation publique, l'équipe FranceConnect au sein de la DINUM vous invite à venir découvrir son écosystème de fournisseurs d'identité. L'évènement aura lieu en deux temps, d'abord un temps d'échanges/démonstrations avec les fournisseurs d’identité FranceConnect et l'équipe FranceConnect, puis un test UX sur les futurs parcours FranceConnect.
 
 #### Programme détaillé :
 * **9h00-12h00 :** Présentation de l'offre des fournisseurs d'identité FranceConnect
-* **14h00-18h00 :** Découvrez le FranceConnect de demain (tests utilisateurs) **[Inscriptions clôturées]**
+* **14h00-18h00 :** Découvrez le FranceConnect de demain (tests utilisateurs) [Inscriptions après-midi clôturées]
