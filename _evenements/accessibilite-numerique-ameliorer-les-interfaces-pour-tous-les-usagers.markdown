@@ -1,5 +1,6 @@
 ---
-title: 'Accessibilité numérique : améliorer les interfaces pour tous les usagers'
+title: 'Accessibilité numérique : améliorer les interfaces pour tous les usagers -
+  #SemaineIP'
 date: 2019-11-07 18:22:00 +01:00
 categories:
 - Matinée d'échanges
