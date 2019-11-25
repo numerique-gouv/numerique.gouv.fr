@@ -29,7 +29,7 @@ champs_informations:
   lien: https://www.eventbrite.fr/e/billets-atelier-debat-histoires-dalgorithmes-publics-82962574293
 ---
 
-Emploi, santé, action sociale … : aucun champ de l’action publique n’échappe aux algorithmes, qu’il s’agisse de simples calculs ou, prochainement, de l’intelligence artificielle. Pour autant, il est parfois difficile de comprendre comment, concrètement, les acteurs publics s’emparent de ces outils et les ont intégré dans leur pratique professionnelle d’agent public. <br>
+**Emploi, santé, action sociale … :** aucun champ de l’action publique n’échappe aux algorithmes, qu’il s’agisse de simples calculs ou, prochainement, de l’intelligence artificielle. Pour autant, il est parfois difficile de comprendre comment, concrètement, les acteurs publics s’emparent de ces outils et les ont intégré dans leur pratique professionnelle d’agent public. <br>
 
 A l’occasion de la Semaine IP 2019, Etalab au sein de la DINUM et Loup Cellard (doctorat à l’Université de Warwick) vous proposent un temps centré autour de témoignages de ceux qui conçoivent, utilisent, travaillent avec et portent un regard critique sur les algorithmes
 
