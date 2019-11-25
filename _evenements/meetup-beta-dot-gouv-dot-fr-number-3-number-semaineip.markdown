@@ -1,6 +1,7 @@
 ---
 title: 'Meetup beta.gouv.fr #3 - #SemaineIP'
 date: 2019-11-25 16:13:00 +01:00
+published: false
 chapeau-text: 'Le réseau d''incubateurs beta.gouv.fr piloté par la DINUM organise
   son 3ème meetup pour la semaine de l''innovation publique ! '
 event_start_date: 2019-11-26 18:00:00 +01:00
