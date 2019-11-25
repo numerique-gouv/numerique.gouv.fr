@@ -31,7 +31,7 @@ champs_informations:
 
 **Emploi, santé, action sociale … :** aucun champ de l’action publique n’échappe aux algorithmes, qu’il s’agisse de simples calculs ou, prochainement, de l’intelligence artificielle. Pour autant, il est parfois difficile de comprendre comment, concrètement, les acteurs publics s’emparent de ces outils et les ont intégré dans leur pratique professionnelle d’agent public. <br>
 
-A l’occasion de la Semaine IP 2019, Etalab au sein de la DINUM et Loup Cellard (doctorat à l’Université de Warwick) vous proposent un temps centré autour de témoignages de ceux qui conçoivent, utilisent, travaillent avec et portent un regard critique sur les algorithmes
+A l’occasion de la semaine de l'innovation publique 2019, Etalab au sein de la DINUM et Loup Cellard (doctorat à l’Université de Warwick) vous proposent un temps centré autour de témoignages de ceux qui conçoivent, utilisent, travaillent avec et portent un regard critique sur les algorithmes
 
 Les débats donneront notamment la parole à : Eric Barthélémy *(La Bonne Boite, Pôle Emploi)*, Manon Chonavel *(énarque, autour d’une mission sur la responsabilité et l’éthique des algorithmes)*, Guillaume Heuguet *(chercheur Sorbonne Nouvelle, a réalisé une auto-ethnographie du chômage)* et Clément Hénin *(doctorant INRIA, sur l’algorithme d’attribution des greffons cardiaques).* Dominique Cardon, professeur de sociologie et directeur du Medialab de SciencesPo, clôturera les échanges. 
 
