@@ -13,9 +13,6 @@ chapeau-text: Etalab, au sein de la DINUM, propose un atelier-débat autour des 
   conçoivent, observent et utilisent les algorithmes du service public, avec Dominique
   Cardon (professeur de sociologie à SciencesPo) comme grand témoin.
 categorie: 'Événement '
-une-ou-diaporama:
-- image: "/uploads/sip.png"
-  alternative-textuelle: Semaine de l'innovation publique
 event_start_date: 2019-11-29 16:00:00 +01:00
 lieu: Lieu de la Transformation Publique
 adresse: 77 avenue de Ségur, 75015 Paris
