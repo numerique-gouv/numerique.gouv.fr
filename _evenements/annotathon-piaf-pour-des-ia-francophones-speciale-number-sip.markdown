@@ -44,5 +44,5 @@ Chaque semaine, au Lieu de la Transformation Publique, ont lieu des "annotathons
 
 *Vos indispensables :* un téléphone portable ou un ordinateur, et pour les plus gourmands, un snack déjeuner.<br>
 <br>
-En savoir plus : [https://piaf.etalab.studio/](https://piaf.etalab.studio/)
+En savoir plus : [https://piaf.etalab.studio/](https://piaf.etalab.studio/)<br>
 Contact : [piaf@data.gouv.fr](http://mailto:piaf@data.gouv.fr)
