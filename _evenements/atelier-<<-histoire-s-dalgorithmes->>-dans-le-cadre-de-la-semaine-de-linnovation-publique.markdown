@@ -11,8 +11,8 @@ tags:
 chapeau-text: Etalab, au sein de la direction interministérielle du numérique (DINUM),
   propose un atelier-débat autour des algorithmes publics dans le cadre de la Semaine
   de l’Innovation publique 2019, avec ceux qui conçoivent, observent et utilisent
-  les algorithmes du service public, avec Dominique Cardon (professeur de sociologie
-  à SciencesPo) comme grand témoin.
+  les algorithmes du service public, avec Dominique Cardon, professeur de sociologie
+  à SciencesPo, comme grand témoin.
 categorie: 'Événement '
 event_start_date: 2019-11-29 16:00:00 +01:00
 lieu: Lieu de la Transformation Publique
