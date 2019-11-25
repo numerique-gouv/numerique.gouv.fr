@@ -1,7 +1,6 @@
 ---
 title: Semaine de l’innovation numérique - Quand "Administration" rime avec "Coopération"
 date: 2019-11-22 14:44:00 +01:00
-published: false
 categories:
 - Évènement
 tags:
