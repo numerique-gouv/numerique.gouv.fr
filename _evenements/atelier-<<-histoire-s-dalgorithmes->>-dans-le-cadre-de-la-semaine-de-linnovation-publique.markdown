@@ -25,7 +25,7 @@ champs_informations:
 - intitule: Horaires
   contenu: de 16h à 18h
 - intitule: Modalités
-  contenu: Inscriptions conseillées
+  contenu: 'Inscriptions conseillées '
   lien: https://www.eventbrite.fr/e/billets-atelier-debat-histoires-dalgorithmes-publics-82962574293
 ---
 
