@@ -1,5 +1,5 @@
 ---
-title: Pourquoi recruter des designers dans l’administration ?
+title: 'Pourquoi recruter des designers dans l’administration ? - #SemaineIP'
 date: 2019-11-22 17:14:00 +01:00
 categories:
 - Évènement
