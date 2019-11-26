@@ -16,7 +16,7 @@ une-ou-diaporama:
     Direction interministérielle du numérique
 files:
 - file: "/uploads/CP_Forum_emploi_tech.pdf"
-  nom: CP_Forum_emploi_tech
+  nom: Télécharger le communiqué de presse
 ---
 
 ### PROFESSIONNELS DU NUMÉRIQUE : L’ÉTAT RECRUTE !
