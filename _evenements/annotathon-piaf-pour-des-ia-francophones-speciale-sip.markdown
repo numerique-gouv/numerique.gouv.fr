@@ -25,7 +25,7 @@ champs_informations:
   contenu: de 12h à 13h30
 - intitule: Modalités
   contenu: Inscriptions (places limitées)
-  lien: edite-piaf-sip.eventbrite.com
+  lien: https://edite-piaf-sip.eventbrite.com
 ---
 
 Votre direction voudrait créer un chatbot ? Vous souhaiteriez améliorer les outils de recherche documentaire dans votre service grâce à l'IA ? Vous cherchez un projet sur lequel contribuer et porteur de sens ? <br>
