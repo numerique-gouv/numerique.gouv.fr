@@ -38,7 +38,7 @@ Tous les profils de la tech sont recherchés :
 Plus de **30 services publics recruteurs** seront présents sur le forum pour présenter leurs offres et rencontrer les candidats. Au programme :
 
 * Un espace de **« speed-jobbing »** pour prolonger les discussions entre recruteurs et candidats.
-* **Des conférences** sur le numérique au sein de l’État et **des ateliers** de développement professionnel.
+***Des conférences** sur le numérique au sein de l’État et **des ateliers** de développement professionnel.
 <br>
 <br>
 > **Forum de l’emploi tech de l’État - Le 12 décembre 2019 de 9h à 18h
