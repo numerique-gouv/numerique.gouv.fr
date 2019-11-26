@@ -2,6 +2,12 @@
 title: 'EMPLOI TECH : L’ÉTAT PROPOSE PLUS DE 350 POSTES DANS LE NUMÉRIQUE PARTOUT
   EN FRANCE'
 date: 2019-11-26 12:06:00 +01:00
+categories:
+- Communiqué de presse
+tags:
+- forum de l'emploi tech
+- transformation numérique
+- recrutement
 une-ou-diaporama:
 - image: "/uploads/Forum_emploi-tech_2019.jpg"
   alternative-textuelle: |-
