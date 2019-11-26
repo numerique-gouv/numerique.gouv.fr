@@ -29,6 +29,7 @@ Tous les profils de la tech sont recherchés :
 * Architectes techniques / urbanistes
 * Métiers de l’exploitation…etc.
 
+
 **PLUS DE 350 POSTES À POURVOIR**
 
 Plus de **30 services publics recruteurs** seront présents sur le forum pour présenter leurs offres et rencontrer les candidats. Au programme :
