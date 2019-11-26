@@ -9,7 +9,7 @@ tags:
 - transformation numérique
 - recrutement
 une-ou-diaporama:
-- image: "/uploads/Forum_emploi-tech_2019.jpg"
+- image: "/uploads/2019_11_13_Entete_Agenda_Forum_recrutement_2019_V2.jpg"
   alternative-textuelle: |-
     Trouvez plus qu'un travail !
     Premier ministre
