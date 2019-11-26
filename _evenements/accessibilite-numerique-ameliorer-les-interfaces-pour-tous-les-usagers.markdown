@@ -14,7 +14,7 @@ chapeau-text: L’équipe Design des services numériques ([@designGouv](https:/
 une-ou-diaporama:
 - image: "/uploads/evt-accessibilite-nov2019.jpg"
 event_start_date: 2019-11-29 00:00:00 +01:00
-lieu: Amphithéâtre, DINUM
+lieu: Auditorium, DINUM
 adresse: '20 avenue de Ségur, 75007 Paris '
 champs_informations:
 - intitule: Horaires
