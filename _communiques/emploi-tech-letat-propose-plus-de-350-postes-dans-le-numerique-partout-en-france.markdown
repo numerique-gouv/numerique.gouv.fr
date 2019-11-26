@@ -51,5 +51,5 @@ La Grande Crypte - 69 bis rue Boissière, 75016 Paris**
 > Du 13 au 20 décembre 2019, les candidats pourront prolonger l’expérience sur un **forum virtuel** 
 {: .text-center}
 
-*« Assurer une meilleure qualité de service public est l’objectif de la transformation numérique de l’État que conduit le Gouvernement. Cette profonde transformation, nous la menons à partir des besoins des usagers et en toute transparence comme le montre la publication trimestrielle de l’observatoire de la dématérialisation des services publics. Conscient de l’importance de la tâche, l’État recrute pour se donner les moyens nécessaires à l’accomplissement de cette mission prioritaire. Je me félicite de l’organisation  de ce 3e Forum de l’emploi tech de l’État qui, pour la première fois, est ouvert à tous avec 350 postes à pourvoir »* 
-**Cédric O, secrétaire d’État chargé du numérique**
+*« Assurer une meilleure qualité de service public est l’objectif de la transformation numérique de l’État que conduit le Gouvernement. Cette profonde transformation, nous la menons à partir des besoins des usagers et en toute transparence comme le montre la publication trimestrielle de l’observatoire de la dématérialisation des services publics. Conscient de l’importance de la tâche, l’État recrute pour se donner les moyens nécessaires à l’accomplissement de cette mission prioritaire. Je me félicite de l’organisation  de ce 3e Forum de l’emploi tech de l’État qui, pour la première fois, est ouvert à tous avec 350 postes à pourvoir »* <br>
+<br> **Cédric O, secrétaire d’État chargé du numérique**
