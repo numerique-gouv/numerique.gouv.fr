@@ -10,10 +10,6 @@ tags:
 - recrutement
 une-ou-diaporama:
 - image: "/uploads/2019_11_13_Entete_Agenda_Forum_recrutement_2019_V2.jpg"
-  alternative-textuelle: |-
-    Trouvez plus qu'un travail !
-    Premier ministre
-    Direction interministérielle du numérique
 files:
 - file: "/uploads/CP_Forum_emploi_tech.pdf"
   nom: Télécharger le communiqué de presse
