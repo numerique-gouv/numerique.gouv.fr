@@ -37,8 +37,11 @@ Plus de **30 services publics recruteurs** seront présents sur le forum pour pr
 * **Des conférences** sur le numérique au sein de l’État et **des ateliers** de développement professionnel.
   
 > **Forum de l’emploi tech de l’État - Le 12 décembre 2019 de 9h à 18h**
+{: .text-center}
 > **La Grande Crypte - 69 bis rue Boissière, 75016 Paris**
+{: .text-center}
 > **Détails et inscriptions >** [**numerique.gouv.fr/agenda/forum-emploi**](https://www.numerique.gouv.fr/agenda/forum-emploi-tech-etat/)
+{: .text-center}
 > Du 13 au 20 décembre 2019, les candidats pourront prolonger l’expérience sur un **forum virtuel**
 {: .text-center}
 
