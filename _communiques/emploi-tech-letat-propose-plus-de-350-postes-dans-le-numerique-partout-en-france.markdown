@@ -28,8 +28,8 @@ Tous les profils de la tech sont recherchés :
 * Expertes et experts en cybersécurité
 * Architectes techniques / urbanistes
 * Métiers de l’exploitation…etc.
-
 <br>
+
 **PLUS DE 350 POSTES À POURVOIR**
 
 Plus de **30 services publics recruteurs** seront présents sur le forum pour présenter leurs offres et rencontrer les candidats. Au programme :
@@ -43,7 +43,6 @@ Plus de **30 services publics recruteurs** seront présents sur le forum pour pr
 {: .text-center}
 Du 13 au 20 décembre 2019, les candidats pourront prolonger l’expérience sur un **forum virtuel**
 {: .text-center}
-<br>
 <br>
 *« Assurer une meilleure qualité de service public est l’objectif de la transformation numérique de l’État que conduit le Gouvernement. Cette profonde transformation, nous la menons à partir des besoins des usagers et en toute transparence comme le montre la publication trimestrielle de l’observatoire de la dématérialisation des services publics. Conscient de l’importance de la tâche, l’État recrute pour se donner les moyens nécessaires à l’accomplissement de cette mission prioritaire. Je me félicite de l’organisation de ce 3e Forum de l’emploi tech de l’État qui, pour la première fois, est ouvert à tous avec 350 postes à pourvoir »* <br>
 **Cédric O, secrétaire d’État chargé du numérique**
