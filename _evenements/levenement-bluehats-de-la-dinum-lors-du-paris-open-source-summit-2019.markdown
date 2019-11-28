@@ -12,8 +12,6 @@ chapeau-text: Pour souffler la première bougie du mouvement [BlueHats](https://
   de nouveau présente au [Paris Open Source Summit 2019](https://www.opensourcesummit.paris/)
   toute la journée du **11 décembre 2019.**
 categorie: Sommet
-une-ou-diaporama:
-- image: "/uploads/POSS_468x60.gif"
 event_start_date: 2019-12-11 09:00:00 +01:00
 lieu: Paris Open Source Summit au dock Pullmann
 adresse: 87, avenue des magasins généraux, 93300 Aubervilliers
