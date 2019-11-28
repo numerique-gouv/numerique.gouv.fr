@@ -113,3 +113,18 @@
         }
     }
 }
+
+#notes-revision {
+    h4+p, h4+div {
+        padding: 0.6em;
+        background-color: #F5F5F5;
+    }
+    h4~p+ul {
+        margin-top: -1em;
+        padding: 0.6em 0.6em 0.6em 2.9em;
+        background-color: #F5F5F5;
+    }
+    ins {
+        text-decoration: none;
+    }
+}

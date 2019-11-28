@@ -6653,8 +6653,7 @@ Prise en compte du nouveau critère WCAG 2.1 : 2.5.4 Motion Actuation (A).
 <div>
     <p>Uniquement à des fins de présentation</p>
 
-    <p>Uniquement à des fins de présentation : utilisation de balises HTML pour une finalité différente de celle prévue dans les spécifications (au regard du type de document déclaré). Exemples : utilisation des balises h à seule fin de créer un effet typographique
-        ; utilisation de la balise <code>&lt;blockquote&gt;</code> à seule fin de mettre un paragraphe en retrait, etc.</p>
+    <p>Uniquement à des fins de présentation : utilisation de balises HTML pour une finalité différente de celle prévue dans les spécifications (au regard du type de document déclaré). Exemples : utilisation des balises h à seule fin de créer un effet typographique; utilisation de la balise <code>&lt;blockquote&gt;</code> à seule fin de mettre un paragraphe en retrait, etc.</p>
 
     <p>Note 1 : l’utilisation d’éléments <code>&lt;div&gt;</code> ou <code>&lt;span&gt;</code> ou plusieurs <code>&lt;br&gt;</code> pour créer visuellement un paragraphe est considérée comme non conforme et invalide le critère.</p>
 
@@ -6680,7 +6679,5 @@ Prise en compte du nouveau critère WCAG 2.1 : 2.5.4 Motion Actuation (A).
 
     <p>Même si cette utilisation est fortement déconseillée (dans le cas de technologie d’assistance qui n’implémenteraient pas WAI-ARIA par exemple) elle peut être considérée comme conforme à WCAG. En revanche l’utilisation d’un rôle WAI-ARIA presentation
         sur un élément dont la nature (par exemple la sémantique) est essentielle à la compréhension du contenu est une violation des règles WCAG (particulièrement de l’échec F92) et invalide le critère.</p>
-
-</div>
 
 </div>
