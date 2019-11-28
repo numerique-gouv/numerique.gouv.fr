@@ -20,10 +20,6 @@ une-ou-diaporama:
 event_start_date: 2019-12-11 09:00:00 +01:00
 lieu: Paris Open Source Summit au dock Pullmann
 adresse: 87, avenue des magasins généraux, 93300 Aubervilliers
-acces:
-- type: 'Indication : '
-  lignes:
-  - nom: à 100 mètres de la Porte de la Chapelle
 champs_informations:
 - intitule: Horaires
   contenu: de 9h00 à 18h00
