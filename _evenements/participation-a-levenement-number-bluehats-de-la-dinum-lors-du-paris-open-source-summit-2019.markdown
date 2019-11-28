@@ -1,6 +1,5 @@
 ---
-title: 'Participation à l''événement #BlueHats de la DINUM lors du Paris Open Source
-  Summit 2019'
+title: 'L''événement #BlueHats de la DINUM lors du Paris Open Source Summit 2019'
 date: 2019-11-28 10:38:00 +01:00
 categories:
 - Sommet
