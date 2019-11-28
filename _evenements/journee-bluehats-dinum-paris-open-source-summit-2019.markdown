@@ -32,6 +32,6 @@ Au programme, des partages d'expérience sous forme de présentations courtes *(
 
 L'événement s'adresse à toute personne intéressée par le logiciel libre et sa place dans l'administration : agents publics, citoyens, associations, entreprises, profils techniques et non-techniques.
 
-[Ce formulaire](https://framaforms.org/participation-a-levenement-bluehats-de-la-dinum-lors-du-paris-open-source-summit-2019-1574254577) vous permettra de vous inscrire à la journée et d'indiquer si vous voulez faire une présentation courte et/ou participer à un atelier technique.
+[**Ce formulaire**](https://framaforms.org/participation-a-levenement-bluehats-de-la-dinum-lors-du-paris-open-source-summit-2019-1574254577) vous permettra de vous inscrire à la journée et d'indiquer si vous voulez faire une présentation courte et/ou participer à un atelier technique.
 
 Pour toute question, écrivez-nous : **[bluehats@etalab.gouv.fr](mailto:bluehats@etalab.gouv.fr)**
