@@ -13,7 +13,7 @@ chapeau-text: Pour souffler la première bougie du mouvement [BlueHats](https://
   du **11 décembre 2019.**
 categorie: Sommet
 une-ou-diaporama:
-- image: "/uploads/2019_11_28_Article_Bluehats_PARIS-SUMMIT-134df7.jpg"
+- image: "/uploads/Bluehats_PARIS-SUMMIT.jpg"
   alternative-textuelle: "Paris open source summit \n10 et 11 décembre\nBluehats\nÉvénement
     blue hats, hackers d'intérêt général\nLe 11 décembre 2019 à Paris\nPremier ministre
     - Direction interministérielle du numérique"
