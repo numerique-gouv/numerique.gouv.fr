@@ -1,6 +1,8 @@
 ---
 title: 'Journée #BlueHats lors du Paris Open Source Summit 2019'
 date: 2019-11-28 10:38:00 +01:00
+categories:
+- Micro-conférences et ateliers
 tags:
 - blue hats
 - Open source
