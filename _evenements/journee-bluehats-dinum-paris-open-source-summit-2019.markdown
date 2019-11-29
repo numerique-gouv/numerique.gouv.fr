@@ -51,6 +51,7 @@ Les participants pourront proposer des présentations et s’asseoir aux tables 
 * 16h-17h : Table ouverte sur les communs numériques
 * 17h-18h : Conclusions
 
+
 **Salle PLATEAU 3 - « #BlueHats Commit »**
 
 La salle PLATEAU 3 sera consacrée à des échanges de bons précédés techniques entre #BlueHats, les mains sur le clavier !
