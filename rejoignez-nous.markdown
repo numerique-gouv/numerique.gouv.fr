@@ -50,6 +50,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chargé/Chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=01061122-e9d1-4963-9f53-f0063f163bf1&offerid=294670 "Chargé/Chargée de mission numérique et territoires – Télécharger le pdf") (pdf - 359ko) 
+<br>Cadre supérieur/Catégorie A
+
 * [**Chef/cheffe du pôle « Produits numériques partagés »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=05f670a2-2ceb-41fe-ba74-8e957c5f39b5&offerid=290134 "Chef du pôle « Produits Numériques Partagés » (F/H) – Télécharger le pdf") (pdf - 363&nbsp;ko) 
 <br>Cadre supérieur/Catégorie A+
 
