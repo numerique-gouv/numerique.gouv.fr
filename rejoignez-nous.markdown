@@ -31,6 +31,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 * [**Chef/Cheffe de la mission « Transformation numérique de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6afe1ba8-47f1-4361-8ccb-b9985374dd5f&offerid=293987 Chef/Cheffe de la mission « Transformation numérique de l’État » - Télécharger le pdf") (pdf - 623ko)
 <br>Cadre/Catégorie A+
 
+* [**Lead developper FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343ko)
+<br>Cadre/Catégorie A
+
 * [**Chargé/Chargée de mission « UX / design de services numériques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3100bc53-f17c-44e1-98b4-cb4f47bc1df8&offerid=288835 "Chargé/Chargée de mission « UX / design de services numériques » - Télécharger le pdf") (pdf - 450&nbsp;ko)
 <br>Cadre/Catégorie A
 
