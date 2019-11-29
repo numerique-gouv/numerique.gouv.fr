@@ -32,7 +32,11 @@ Les BlueHats, ce sont tous ceux qui, dans l'administration et hors d'elle, contr
 
 Au programme, des partages d'expérience sous forme de présentations courtes *(lightning talks*) autour de logiciels libres développés et/ou utilisés par la sphère publique et des ateliers techniques sur des compétences particulières (datascience, outils de géomatique, bases de données, développement de site web, etc.)
 
-L'événement s'adresse à toute personne intéressée par le logiciel libre et sa place dans l'administration : agents publics, citoyens, associations, entreprises, profils techniques et non-techniques. <br>
+L'événement s'adresse à toute personne intéressée par le logiciel libre et sa place dans l'administration : agents publics, citoyens, associations, entreprises, profils techniques et non-techniques. 
+
+[**Ce formulaire**](https://framaforms.org/participation-a-levenement-bluehats-de-la-dinum-lors-du-paris-open-source-summit-2019-1574254577) vous permettra de vous inscrire à la journée et d'indiquer si vous voulez faire une présentation courte et/ou participer à un atelier technique.
+
+Pour toute question, écrivez-nous : **[bluehats@etalab.gouv.fr](mailto:bluehats@etalab.gouv.fr)** <br>
 ### Programme détaillé :
 
 **Salle PLATEAU 1 : « #BlueHats review »**
@@ -62,7 +66,3 @@ La salle PLATEAU 3 sera consacrée à des échanges de bons précédés techniqu
 * 16h30-18h : Conclusions
 
 Que vous soyez débutants ou experts, de l’administration ou d’une association/entreprise, c’est le moment de partager avec ceux qui rencontrent tous les jours les mêmes problèmes que vous !
-
-[**Ce formulaire**](https://framaforms.org/participation-a-levenement-bluehats-de-la-dinum-lors-du-paris-open-source-summit-2019-1574254577) vous permettra de vous inscrire à la journée et d'indiquer si vous voulez faire une présentation courte et/ou participer à un atelier technique.
-
-Pour toute question, écrivez-nous : **[bluehats@etalab.gouv.fr](mailto:bluehats@etalab.gouv.fr)**
