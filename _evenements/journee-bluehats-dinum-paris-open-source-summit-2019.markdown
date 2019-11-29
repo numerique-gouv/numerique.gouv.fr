@@ -32,8 +32,7 @@ Les BlueHats, ce sont tous ceux qui, dans l'administration et hors d'elle, contr
 
 Au programme, des partages d'expérience sous forme de présentations courtes *(lightning talks*) autour de logiciels libres développés et/ou utilisés par la sphère publique et des ateliers techniques sur des compétences particulières (datascience, outils de géomatique, bases de données, développement de site web, etc.)
 
-L'événement s'adresse à toute personne intéressée par le logiciel libre et sa place dans l'administration : agents publics, citoyens, associations, entreprises, profils techniques et non-techniques.
-
+L'événement s'adresse à toute personne intéressée par le logiciel libre et sa place dans l'administration : agents publics, citoyens, associations, entreprises, profils techniques et non-techniques. <br>
 ### Programme détaillé :
 
 **Salle PLATEAU 1 : « #BlueHats review »**
