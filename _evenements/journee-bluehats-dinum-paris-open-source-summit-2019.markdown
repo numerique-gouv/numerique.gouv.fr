@@ -34,7 +34,7 @@ Au programme, des partages d'expérience sous forme de présentations courtes *(
 
 L'événement s'adresse à toute personne intéressée par le logiciel libre et sa place dans l'administration : agents publics, citoyens, associations, entreprises, profils techniques et non-techniques.
 
-###Programme détaillé :
+### Programme détaillé :
 
 **Salle PLATEAU 1 : « #BlueHats review »**
 
