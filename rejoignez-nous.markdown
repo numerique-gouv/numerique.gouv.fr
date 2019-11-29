@@ -28,10 +28,10 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Chef/Cheffe de la mission « Transformation numérique de l’État »**](/uploads/Chef-Cheffe%20de%20la%20mission%20%C2%AB%20Transformation%20num%C3%A9rique%20de%20l%E2%80%99Etat%20%C2%BB.pdf) (pdf - 128ko)
+* [**Chef/Cheffe de la mission « Transformation numérique de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6afe1ba8-47f1-4361-8ccb-b9985374dd5f&offerid=293987 Chef/Cheffe de la mission « Transformation numérique de l’État » - Télécharger le pdf") (pdf - 623ko)
 <br>Cadre/Catégorie A+
 
-* [**Chargé/Chargée de mission « UX / design de services numériques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3100bc53-f17c-44e1-98b4-cb4f47bc1df8&offerid=288835 "Chargé de mission « UX / design de services numériques » (F/H) - Télécharger le pdf") (pdf - 450&nbsp;ko)
+* [**Chargé/Chargée de mission « UX / design de services numériques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3100bc53-f17c-44e1-98b4-cb4f47bc1df8&offerid=288835 "Chargé/Chargée de mission « UX / design de services numériques » - Télécharger le pdf") (pdf - 450&nbsp;ko)
 <br>Cadre/Catégorie A
 
 * [**Chef/Cheffe de produit Environnement de Travail Numérique des agents – « Poste de travail »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=b684d232-4c6d-401e-8dc9-438872e909c6&offerid=268001 "Chef/Cheffe de produit Environnement de Travail Numérique des agents – « Poste de travail » - Télécharger le pdf") (pdf - 240&nbsp;ko)
