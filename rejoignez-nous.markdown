@@ -29,10 +29,10 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chef/Cheffe de la mission « Transformation numérique de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6afe1ba8-47f1-4361-8ccb-b9985374dd5f&offerid=293987 "Chef/Cheffe de la mission « Transformation numérique de l’État » - Télécharger le pdf") (pdf - 623ko)
-<br>Cadre/Catégorie A+
+<br>Cadre supérieur/Catégorie A+
 
 * [**Chargé/Chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=01061122-e9d1-4963-9f53-f0063f163bf1&offerid=294670 "Chargé/Chargée de mission numérique et territoires – Télécharger le pdf") (pdf - 359ko) 
-<br>Cadre supérieur/Catégorie A
+<br>Cadre/Catégorie A
 
 * [**Chargé/Chargée de mission « UX / design de services numériques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3100bc53-f17c-44e1-98b4-cb4f47bc1df8&offerid=288835 "Chargé/Chargée de mission « UX / design de services numériques » - Télécharger le pdf") (pdf - 450&nbsp;ko)
 <br>Cadre/Catégorie A
