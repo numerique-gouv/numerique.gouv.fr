@@ -28,6 +28,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
+
 * [**Chef/Cheffe de la mission « Transformation numérique de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6afe1ba8-47f1-4361-8ccb-b9985374dd5f&offerid=293987 "Chef/Cheffe de la mission « Transformation numérique de l’État » - Télécharger le pdf") (pdf - 623ko)
 <br>Cadre supérieur/Catégorie A+
 
@@ -50,6 +51,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
+
 * [**Lead developer FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343ko)
 <br>Cadre/Catégorie A
 
@@ -81,7 +83,10 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Poste basé à Lyon (69)
 
 * [**Urbaniste / Architecte de système d'information expérimenté (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=77064479-1563-437d-82db-fa6c4a4360cf&offerid=223810 "Urbaniste / Architecte de système d'information expérimenté (F/H) - Télécharger le pdf") (pdf - 416&nbsp;ko)
+
 <br>Cadre/Catégorie A
+<br>Poste basé à Lyon (69)
+
 
 * [**Chargé/chargée de mission « production » du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=51645668-f9ef-4b26-a23a-3090c4d51315&offerid=255120 "Chargé/chargée de mission « production » du réseau interministériel de l'État - Télécharger le pdf") (pdf - 755&nbsp;ko)
 <br>Catégorie A (cadre), B
