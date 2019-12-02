@@ -28,10 +28,14 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Chef/Cheffe de la mission « Transformation numérique de l’État »**](/uploads/Chef-Cheffe%20de%20la%20mission%20%C2%AB%20Transformation%20num%C3%A9rique%20de%20l%E2%80%99Etat%20%C2%BB.pdf) (pdf - 128ko)
-<br>Cadre/Catégorie A+
 
-* [**Chargé/Chargée de mission « UX / design de services numériques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3100bc53-f17c-44e1-98b4-cb4f47bc1df8&offerid=288835 "Chargé de mission « UX / design de services numériques » (F/H) - Télécharger le pdf") (pdf - 450&nbsp;ko)
+* [**Chef/Cheffe de la mission « Transformation numérique de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6afe1ba8-47f1-4361-8ccb-b9985374dd5f&offerid=293987 "Chef/Cheffe de la mission « Transformation numérique de l’État » - Télécharger le pdf") (pdf - 623ko)
+<br>Cadre supérieur/Catégorie A+
+
+* [**Chargé/Chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=01061122-e9d1-4963-9f53-f0063f163bf1&offerid=294670 "Chargé/Chargée de mission numérique et territoires – Télécharger le pdf") (pdf - 359ko) 
+<br>Cadre/Catégorie A
+
+* [**Chargé/Chargée de mission « UX / design de services numériques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3100bc53-f17c-44e1-98b4-cb4f47bc1df8&offerid=288835 "Chargé/Chargée de mission « UX / design de services numériques » - Télécharger le pdf") (pdf - 450&nbsp;ko)
 <br>Cadre/Catégorie A
 
 * [**Chef/Cheffe de produit Environnement de Travail Numérique des agents – « Poste de travail »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=b684d232-4c6d-401e-8dc9-438872e909c6&offerid=268001 "Chef/Cheffe de produit Environnement de Travail Numérique des agents – « Poste de travail » - Télécharger le pdf") (pdf - 240&nbsp;ko)
@@ -47,6 +51,10 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
+
+* [**Lead developer FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343ko)
+<br>Cadre/Catégorie A
+
 * [**Chef/cheffe du pôle « Produits numériques partagés »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=05f670a2-2ceb-41fe-ba74-8e957c5f39b5&offerid=290134 "Chef du pôle « Produits Numériques Partagés » (F/H) – Télécharger le pdf") (pdf - 363&nbsp;ko) 
 <br>Cadre supérieur/Catégorie A+
 
@@ -75,7 +83,10 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Poste basé à Lyon (69)
 
 * [**Urbaniste / Architecte de système d'information expérimenté (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=77064479-1563-437d-82db-fa6c4a4360cf&offerid=223810 "Urbaniste / Architecte de système d'information expérimenté (F/H) - Télécharger le pdf") (pdf - 416&nbsp;ko)
+
 <br>Cadre/Catégorie A
+<br>Poste basé à Lyon (69)
+
 
 * [**Chargé/chargée de mission « production » du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=51645668-f9ef-4b26-a23a-3090c4d51315&offerid=255120 "Chargé/chargée de mission « production » du réseau interministériel de l'État - Télécharger le pdf") (pdf - 755&nbsp;ko)
 <br>Catégorie A (cadre), B
@@ -105,9 +116,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 * [**Chef/Cheffe de cabinet, responsable du pôle « Animation »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=5c6e27d2-fd6e-4cc6-bc84-6c875fd6def5&offerid=278378 "Chef/Cheffe de cabinet, responsable du pôle Animation - Télécharger le pdf") (pdf - 593&nbsp;ko)
 <br> Cadre/Catégorie A
 
-* [**Assistant/Assistante de gestion « PMO »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=099f240d-6c1e-41cd-9104-877c3f23a23d&offerid=286033 "Assistant/Assistante de gestion « PMO » - Télécharger le pdf") (pdf - 345ko)
-<br> Catégorie B
-
 * [**Gestionnaire de connaissances / documentaliste numérique (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=80fbcf46-1eea-41eb-ac67-42ee1fe9ab1e&offerid=287527 "Gestionnaire de connaissances / documentaliste numérique (F/H) - Télécharger le pdf") (pdf - 323&nbsp;ko)
 <br> Cadre/Catégorie A
 
@@ -116,10 +124,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 * [**Assistant/Assistante utilisateur informatique**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91a2e710-f1b2-44d3-b8fd-6b67b4704573&offerid=285503 "Assistant/Assistante utilisateur informatique - Télécharger le pdf") (pdf - 530&nbsp;ko)
 <br> Catégorie B 
-
-* [**Gestionnaire administratif « budgétaire et financier » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=467a7ed0-3ad0-43e3-a183-f9f1a5451e01&offerid=249151 "Gestionnaire administratif budgétaire et financier (F/H) – Télécharger le pdf") (pdf - 267&nbsp;ko)
-<br> Catégorie B - Vacation 3 mois (prolongation possible) <br>
-<br>
 
 
 > ### Et aussi, dans les ministères…<a id="offresministères"></a> 
@@ -137,8 +141,4 @@ Zoom sur quelques postes dans le numérique public :
 * [**Ingénieur/Ingénieure réseau sécurité**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f3c98daf-62a0-47ce-9824-01b99c737e05&offerid=150292 "Ingénieur/Ingénieure réseau sécurité - Télécharger le pdf") (pdf - 454&nbsp;ko)
 <br>Cadre/Catégorie A
 >{: .margin-bottom-1}
-<br>
-**Service du haut fonctionnaire de défense et de sécurité (secrétariat général des ministères économiques et financiers)** 
-* [**Chef/Cheffe de la mission ministérielle d'audits SSI ("Pentesteurs")**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=dd3d352a-5eb0-4ec0-b47d-b14c76afac85&offerid=260391 "Chef/Cheffe de la mission ministérielle d'audits SSI - Télécharger le pdf") (pdf - 141&nbsp;ko) 
-<br>Cadre/Catégorie A
 {: .noir .encadre}
