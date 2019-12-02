@@ -57,7 +57,7 @@ Les participants pourront proposer des présentations et s’asseoir aux tables 
 <br>
 **Salle PLATEAU 3 - « #BlueHats Commit »**
 
-La salle PLATEAU 3 sera consacrée à des échanges de bons précédés techniques entre #BlueHats, les mains sur le clavier !
+La salle PLATEAU 3 sera consacrée à des échanges de bons procédés techniques entre #BlueHats, les mains sur le clavier !
 
 * 9h-9h30 : Accueil
 * 9h30-12h30 : Un coin « datascience » et un autre « Géo »
