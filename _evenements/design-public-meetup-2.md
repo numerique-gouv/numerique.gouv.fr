@@ -1,26 +1,28 @@
 ---
 title: 'Design public – Meetup #2'
-date: 2019-12-03 16:37:00 +02:00
+date: 2019-12-03 15:37:00 +01:00
 categories:
 - meetup
 tags:
 - UX design
 - Entrepreneur d'Intérêt Général
 - Designers d'Intérêt Général
-chapeau-text: Rendez-vous le 18 décembre au second meetup Design Public organisé par des designers travaillant au sein de projets de la fonction publique.
+chapeau-text: Rendez-vous le 18 décembre au second meetup Design Public organisé par
+  des designers travaillant au sein de projets de la fonction publique.
 une-ou-diaporama:
 - image: "/uploads/designer_public_meetup_2.jpg"
-event_start_date: 2019-12-18 18:30:00 +02:00
+event_start_date: 2019-12-18 17:30:00 +01:00
 lieu: Lieu de la Transformation Publiques
 adresse: "77 avenue de Ségur \n75015 Paris"
 champs_informations:
-- intitule: 'Horaires'
+- intitule: Horaires
   contenu: 18h30-21h30
 - intitule: Modalités
-  contenu: "Inscription obligatoire et gratuite"
+  contenu: Inscription obligatoire et gratuite
   lien: https://www.eventbrite.fr/e/billets-design-public-meetup-2-83821453223
 - intitule: Précisions
-  contenu: "Votre billet vous sera demandé à l'entrée le jour du meetup. Il est donc nécessaire de le télécharger sur votre smartphone."
+  contenu: Votre billet vous sera demandé à l'entrée le jour du meetup. Il est donc
+    nécessaire de le télécharger sur votre smartphone.
 ---
 
 La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 2ème meetup Design Public organisé par des designers travaillant au sein de projets de la fonction publique.
