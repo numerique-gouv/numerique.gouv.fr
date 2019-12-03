@@ -2,7 +2,7 @@
 title: 'Design public – Meetup #2'
 date: 2019-12-02 15:37:00 +01:00
 categories:
-- meetup
+- Meetup
 tags:
 - UX design
 - Entrepreneur d'Intérêt Général
