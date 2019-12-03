@@ -160,6 +160,7 @@ algolia:
   - md
   - markdown
   files_to_exclude:
+  - _rgaa/notes-revision.md
   - _pages/index.md
   - _pages/algolia.md
   - _pages/espace-presse.md
