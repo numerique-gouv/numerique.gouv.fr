@@ -55,9 +55,6 @@ list-items:
   content-text: Faisons le pari de construire et d’enrichir nos services autour de
     la donnée.
 pdf: "/uploads/9principes_reussite_projets.pdf"
-files:
-- file: "/uploads/9principes_reussite_projets.pdf"
-  nom: Télécharger la version imprimable
 layout: liste-detaillee
 ---
 
