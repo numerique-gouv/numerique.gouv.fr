@@ -56,7 +56,7 @@ list-items:
     la donnée.
 pdf: "/uploads/9principes_reussite_projets.pdf"
 files:
-- file: "/uploads/9Principes_projets.pdf"
+- file: "/uploads/9principes_reussite_projets.pdf"
   nom: Télécharger la version imprimable
 layout: liste-detaillee
 ---
