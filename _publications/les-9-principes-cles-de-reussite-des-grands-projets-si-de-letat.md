@@ -4,7 +4,7 @@ date: 2018-11-13 11:44:00 +01:00
 permalink: "/publications/principes-reussite-grands-projets-si-etat/"
 position: 3
 chapeau-text: Proximité avec les usagers, droit à l'erreur, méthodes agiles... La
-  DINSIC détaille les 9 principes qui doivent guider les projets informatiques dans
+  DINUM détaille les 9 principes qui doivent guider les projets informatiques dans
   l'administration.
 une:
   image: "/uploads/9-principes-reussite-grands-projets-SI_fille.jpg"
@@ -54,7 +54,7 @@ list-items:
   title: 9 · **Exploitons tout le potentiel des données**
   content-text: Faisons le pari de construire et d’enrichir nos services autour de
     la donnée.
-pdf: "/uploads/9principes_reussite_projets.pdf"
+file: "/uploads/9principes_reussite_projets.pdf"
 layout: liste-detaillee
 ---
 
