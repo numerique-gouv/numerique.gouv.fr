@@ -7,9 +7,8 @@ tags:
 - UX design
 - Entrepreneur d'Intérêt Général
 - Designers d'Intérêt Général
-chapeau-text: Rendez-vous le 18 décembre pour le deuxième meetup Design Public de
-  la DINUM organisé par des designers travaillant au sein de projets de la fonction
-  publique.
+chapeau-text: Rendez-vous le 18 décembre pour le deuxième meetup Design public de
+  la DINUM organisé avec des designers travaillant sur des projets numériques de l'administration.
 une-ou-diaporama:
 - image: "/uploads/designer_public_meetup_2.jpg"
 event_start_date: 2019-12-18 17:30:00 +01:00
@@ -26,7 +25,7 @@ champs_informations:
     nécessaire de le télécharger sur votre smartphone.
 ---
 
-La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 2e meetup Design public organisé par des designers travaillant au sein de projets de la fonction publique.
+La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 2e meetup Design public organisé avec des designers travaillant sur des projets de la fonction publique.
 
 Ce meetup est un moment d'échanges, pour restituer des travaux et partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15 min chacun). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une heure... et plus si affinité.
 
