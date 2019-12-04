@@ -25,7 +25,7 @@ champs_informations:
     nécessaire de le télécharger sur votre smartphone.
 ---
 
-La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 2e meetup Design public organisé par des designers travaillant au sein de projets de la fonction publique.
+La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 2e meetup Design public organisé avec des designers travaillant sur des projets de la fonction publique.
 
 Ce meetup est un moment d'échanges, pour restituer des travaux et partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15 min chacun). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une heure... et plus si affinité.
 
