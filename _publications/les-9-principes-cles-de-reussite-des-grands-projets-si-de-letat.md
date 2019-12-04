@@ -54,9 +54,7 @@ list-items:
   title: 9 · **Exploitons tout le potentiel des données**
   content-text: Faisons le pari de construire et d’enrichir nos services autour de
     la donnée.
-files:
-- file: "/uploads/9principes_reussite_projets.pdf"
-  nom: Télécharger la version imprimable
+pdf: "/uploads/9principes_reussite_projets.pdf"
 layout: liste-detaillee
 ---
 
