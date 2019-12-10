@@ -51,6 +51,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Directeur/Directrice de projet**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343ko)
+<br>Cadre/Catégorie A
+
 * [**Lead developer FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343ko)
 <br>Cadre/Catégorie A
 
@@ -121,12 +124,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 > ### Et aussi, dans les ministères…<a id="offresministères"></a> 
 Zoom sur quelques postes dans le numérique public :
 <br>
-<br>
->
-**Agence pour l'informatique financière de l'État (ministère de l'Action et des Comptes publics)**
-* [**Chef/Cheffe de projet SAP FI-AA / RE-FX**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3d907072-7b12-4315-8eac-4c8d37224721&offerid=279859 "Chef/Cheffe de projet SAP FI-AA / RE-FX - Télécharger le pdf") (pdf - 182&nbsp;ko)
-<br>Cadre/Catégorie A
->{: .margin-bottom-1}
 <br>
 >
 **Agence pour l'informatique financière de l'État (ministère de l'Action et des Comptes publics)**
