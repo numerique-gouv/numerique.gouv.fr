@@ -28,7 +28,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-
 * [**Chef/Cheffe de la mission « Transformation numérique de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6afe1ba8-47f1-4361-8ccb-b9985374dd5f&offerid=293987 "Chef/Cheffe de la mission « Transformation numérique de l’État » - Télécharger le pdf") (pdf - 623ko)
 <br>Cadre supérieur/Catégorie A+
 
@@ -51,6 +50,11 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343ko)
+<br>Cadre/Catégorie A
+
+* [**Directeur/Directrice de projet**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343ko)
+<br>Cadre/Catégorie A
 
 * [**Lead developer FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343ko)
 <br>Cadre/Catégorie A
@@ -75,20 +79,11 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
-* [**Chargé/Chargée de mission « Performance des achats SI de l'État»**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f550af8a-dc90-4cff-ab8b-46156ec9700e&offerid=289470 "Chargé/Chargée de mission « Performance des achats SI de l’État» - Télécharger le pdf") (pdf - 343ko)
-<br>Cadre/Catégorie A
-
-* [**Chargé/Chargée de mission « production » du Réseau Interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91edec12-625d-4708-bcd0-6be1e4f255ea&offerid=288819 "Chargé/Chargée de mission « production » du Réseau Interministériel de l'État - Télécharger le pdf") (pdf - 366&nbsp;ko)
-<br>Cadre/Catégorie A
-<br>Poste basé à Lyon (69)
+* [**Chef/Cheffe du pôle « Architecture et sécurité »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=204eceb3-15b7-45de-a244-85b0a28f79f0&offerid=294685 "Chef/Cheffe du pôle « Architecture et sécurité » - Télécharger le pdf") (pdf - 355ko)
+<br>Cadre supérieur/Catégorie A+
 
 * [**Urbaniste / Architecte de système d'information expérimenté (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=77064479-1563-437d-82db-fa6c4a4360cf&offerid=223810 "Urbaniste / Architecte de système d'information expérimenté (F/H) - Télécharger le pdf") (pdf - 416&nbsp;ko)
 <br>Cadre/Catégorie A
-
-
-* [**Chargé/chargée de mission « production » du réseau interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=51645668-f9ef-4b26-a23a-3090c4d51315&offerid=255120 "Chargé/chargée de mission « production » du réseau interministériel de l'État - Télécharger le pdf") (pdf - 755&nbsp;ko)
-<br>Catégorie A (cadre), B
-<br>Poste basé à Lyon (69)
 
 * [**Architecte « services d'accès internet » du réseau interministériel de l'État (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=512a28a3-5745-40f4-ad35-8665c6f1936c&offerid=243187 "Architecte service d'accès internet du réseau interministériel de l'État - Télécharger le pdf")
 (pdf - 300&nbsp;ko)
@@ -127,6 +122,12 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 > ### Et aussi, dans les ministères…<a id="offresministères"></a> 
 Zoom sur quelques postes dans le numérique public :
 <br>
+<br>
+>
+**Ministère des armées**
+* [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343ko)
+<br>Cadre/Catégorie A
+>{: .margin-bottom-1}
 <br>
 >
 **Agence pour l'informatique financière de l'État (ministère de l'Action et des Comptes publics)**
