@@ -51,6 +51,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343ko)
+<br>Cadre/Catégorie A
 
 * [**Directeur/Directrice de projet**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343ko)
 <br>Cadre/Catégorie A
