@@ -127,6 +127,11 @@ Zoom sur quelques postes dans le numérique public :
 <br>
 <br>
 >
+**Ministère des armées**
+* [**Avis de vacance d'un emploi de directeur/directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Avis de vacance d'un emploi de directeur/directrice de projet - Télécharger le pdf") (pdf - 343ko)
+>{: .margin-bottom-1}
+<br>
+>
 **Agence pour l'informatique financière de l'État (ministère de l'Action et des Comptes publics)**
 * [**Chef/Cheffe de projet SAP FI-AA / RE-FX**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3d907072-7b12-4315-8eac-4c8d37224721&offerid=279859 "Chef/Cheffe de projet SAP FI-AA / RE-FX - Télécharger le pdf") (pdf - 182&nbsp;ko)
 <br>Cadre/Catégorie A
