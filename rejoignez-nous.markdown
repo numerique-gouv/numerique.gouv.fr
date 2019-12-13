@@ -79,6 +79,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
+* [**Chargé/Chargée de mission « Performance des achats SI de l'Etat»**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d633e7d9-faaa-4a53-b0aa-a2a331852067&offerid=289470 "Chargé/Chargée de mission « Performance des achats SI de l'Etat» - Télécharger le pdf") (pdf - 343ko)
+<br>Cadre/Catégorie A
+
 * [**Chef/Cheffe du pôle « Architecture et sécurité »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=204eceb3-15b7-45de-a244-85b0a28f79f0&offerid=294685 "Chef/Cheffe du pôle « Architecture et sécurité » - Télécharger le pdf") (pdf - 355ko)
 <br>Cadre supérieur/Catégorie A+
 
