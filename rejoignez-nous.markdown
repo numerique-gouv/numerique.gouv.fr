@@ -28,9 +28,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Consultant/Consultante senior « Transformation Numérique de l’Etat »**]( "Consultant/Consultante senior « Transformation Numérique de l’Etat » - Télécharger le pdf") (pdf - 340ko)
-<br>adre/Catégorie A+, A
-
 * [**Chef/Cheffe de la mission « Transformation numérique de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6afe1ba8-47f1-4361-8ccb-b9985374dd5f&offerid=293987 "Chef/Cheffe de la mission « Transformation numérique de l’État » - Télécharger le pdf") (pdf - 623ko)
 <br>Cadre supérieur/Catégorie A+
 
