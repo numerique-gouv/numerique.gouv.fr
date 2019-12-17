@@ -23,6 +23,10 @@ collections:
   methode:
     title: Méthode technique
     output: true
+  offre-de-services:
+    title: Offre de services
+    output: true
+    permalink: "/offre-de-services/:title/"
   pages:
     title: Pages
     output: true
@@ -36,10 +40,6 @@ collections:
     title: Publication
     output: true
     permalink: "/publication/:title/"
-  offre-de-services:
-    title: Offre de services
-    output: true
-    permalink: "/offre-de-services/:title/"
   rgaa:
     title: RGAA
     output: true
@@ -94,12 +94,12 @@ defaults:
     path: ''
     type: offre-de-services
   values:
-    date_de_modification:
-    chapeau-text:
+    date_de_modification: 
+    chapeau-text: 
     une-ou-diaporama:
-      - image:
-        legende:
-        alternative-textuelle:
+    - image: 
+      legende: 
+      alternative-textuelle: 
 - scope:
     path: ''
     type: evenements
