@@ -3,9 +3,9 @@ title: 'Projets informatiques de l''Etat : retrouvez l''ensemble des avis confor
   émis par la DINSIC'
 permalink: "/publications/avis-conformes/"
 position: 2
-chapeau-text: La direction interministérielle du numérique et du système d’information
-  et de communication de l’Etat (DINSIC) publie, pour la première fois, ses avis conformes
-  sur les grands projets du système d'information et de communication de l’État.
+chapeau-text: La direction interministérielle du numérique (DINUM - ex-DINSIC) publie,
+  pour la première fois, ses avis conformes sur les grands projets du système d'information
+  et de communication de l’État.
 une:
   image: "/assets/img/main/image_avis_conformes.jpg"
   alternative-textuelle: les avis conformes
@@ -258,8 +258,8 @@ ministeres:
 layout: avis-conformes
 ---
 
-C'est l'une des missions assignées à la DINSIC : sécuriser les grands projets informatiques de l'Etat. Ainsi, avant tout lancement d'un projet de plus de 9 millions d'euros, chaque ministère doit solliciter un avis de conformité auprès du directeur de la DINSIC (au titre des décrets [n°2011-193](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023619023&categorieLien=cid) - article 7, puis [n°2014-879](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029337021) - article 3). Celui-ci est alors évalué selon cinq critères : stratégie, finances, gouvernance, réalisation et planning.
+C'est l'une des missions assignées à la DINUM : sécuriser les grands projets informatiques de l’État. Ainsi, avant tout lancement d'un projet de plus de 9 millions d'euros, chaque ministère doit solliciter un avis de conformité auprès du directeur de la DINUM (au titre des décrets [n°2011-193](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023619023&categorieLien=cid) - article 7, puis [n°2014-879](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029337021) - article 3). Celui-ci est alors évalué selon cinq critères : stratégie, finances, gouvernance, réalisation et planning.
 
-Chaque avis est accompagné, le cas échéant, de recommandations mettant en avant les axes d'améliorations à prendre en compte pour le bon déroulement du projet. Tous les projets déclarés conformes sont ensuite suivis dans le panorama des grands projets du SI de l’État que la DINSIC publie depuis novembre 2016.
+Chaque avis est accompagné, le cas échéant, de recommandations mettant en avant les axes d'améliorations à prendre en compte pour le bon déroulement du projet. Tous les projets déclarés conformes sont ensuite suivis dans le panorama des grands projets du SI de l’État que la DINUM publie depuis novembre 2016.
 
 Dans une volonté de transparence et d’ouverture, et dans la continuité de la loi pour une République numérique, la liste de ces avis sera régulièrement mise à jour. Les avis des projets classifiés ne sont pas publiés et ceux de projets faisant l’objet de procédures d’appel d’offre à venir le seront en différé. Retrouvez également sur [data.gouv.fr l'intégralité des documents](https://www.data.gouv.fr/fr/datasets/publication-des-avis-dinsic-articles-3-et-7/) (avis + annexes) en formats .file et .odt.
