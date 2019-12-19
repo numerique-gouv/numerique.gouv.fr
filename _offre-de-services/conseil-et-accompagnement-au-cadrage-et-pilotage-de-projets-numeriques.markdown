@@ -83,7 +83,7 @@ le DINUM et le directeur demandeur.
 **C’est gratuit**
 Dans un premier temps, l’offre de conseil est proposée à titre gratuit, à l’exception des consultants externes éventuellement mobilisés en complément des intervenants de la DINUM.
 
-4 BONNES RAISONS
+**4 BONNES RAISONS**
 de recourir à l’offre de conseil
 de la DINUM
 {: .text-center}
