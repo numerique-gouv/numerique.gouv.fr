@@ -25,11 +25,11 @@ layout: rgaa
 <figure class='image-left' style='width: 15%;'>
   <img src="/uploads/picto-accompagnement.png"/>
 </figure>## Notre accompagnement
-{: .text-center .margin-bottom-1 .margin-top-3 }
+{: .text-center .margin-bottom-1 .margin-top-3}
 Assuré directement par des experts de la DINUM, notre appui porte sur 3 dimensions.
 
 ### Le cadre légal
-{: .margin-bottom-1 .margin-top-3 }
+{: .margin-bottom-1 .margin-top-3}
 **Appui méthodologique**
 Principalement pendant les phases de cadrage, nous vous aidons à :
 * Définir le périmètre
@@ -49,7 +49,7 @@ Principalement pendant les phases de cadrage, nous vous aidons à :
 Grâce à notre position interministérielle et connaissance des projets numériques menés au sein de l’État, nous identifions des administrations et des directeurs de projets ayant rencontré des problématiques similaires aux vôtres afin de favoriser le partage d’expériences et de solutions existantes répondant aux mêmes besoins.
 
 ### Point de blocage
-{: .margin-bottom-1 .margin-top-3 }
+{: .margin-bottom-1 .margin-top-3}
 
 **Des outils à votre disposition**
 Mais aussi...
@@ -61,7 +61,7 @@ Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses 
 * …
 
 ## Zoom sur deux appuis
-{: .text-center .margin-bottom-1 .margin-top-3 }
+{: .text-center .margin-bottom-1 .margin-top-3}
 ### Fiabiliser la trajectoire de 3 grands projets SI
 *Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
 
@@ -83,20 +83,22 @@ Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une arch
 {: .bleue .margin-0}
 Nous avons mobilisé des experts en architecture technique et applicative qui ont pu échanger avec les équipes du ministère et partager les meilleures pratiques. Ensemble, ils ont validé la stratégie de développement de ce framework, et favorisé le bon usage en fonction des cas d’application afin de réduire les temps de développement de nouvelles applications web tout en respectant les standards du marché et les référentiels de l’État.
 
-## Comment solliciter une mission de conseil ?
-{: .text-center .margin-bottom-1 .margin-top-3 }
-**Par courriel**
-{: .bleue .margin-0  }
-Adressez votre demande par courriel à [**sec-directeur.dinum@modernisation.gouv.fr**](mailto:sec-directeur.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
-
-**Zéro processus administratif**
-{: .bleue .margin-0  }
-pour déclencher une mission de conseil. Il s’agit d’un accord entre
+> ## Comment solliciter une mission de conseil ?
+> {: .text-center .margin-bottom-1 .margin-top-3}
+> **Par courriel**
+> {: .bleue .margin-0}
+> Adressez votre demande par courriel à [**sec-directeur.dinum@modernisation.gouv.fr**](mailto:sec-directeur.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
+> 
+> **Zéro processus administratif**
+> {: .bleue .margin-0}
+> pour déclencher une mission de conseil. Il s’agit d’un accord entre
 le DINUM et le directeur demandeur.
+> 
+> **C’est gratuit**
+> {: .bleue .margin-0}
+> Dans un premier temps, l’offre de conseil est proposée à titre gratuit, à l’exception des consultants externes éventuellement mobilisés en complément des intervenants de la DINUM.
+{: .encadre }
 
-**C’est gratuit**
-{: .bleue .margin-0  }
-Dans un premier temps, l’offre de conseil est proposée à titre gratuit, à l’exception des consultants externes éventuellement mobilisés en complément des intervenants de la DINUM.
 
 ## 4 BONNES RAISONS
 <br>de recourir à l’offre de conseil de la DINUM
