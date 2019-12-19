@@ -23,9 +23,8 @@ layout: rgaa
 ---
 
 ## Notre accompagnement
-
-Assuré directement par des experts de la DINUM,
-notre appui porte sur 3 dimensions.
+{: .text-center .margin-bottom-1 .margin-top-3 }
+Assuré directement par des experts de la DINUM, notre appui porte sur 3 dimensions.
 
 ### Le cadre légal
 {: .margin-bottom-1 .margin-top-3 }
@@ -58,7 +57,7 @@ Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses 
 * …
 
 ## Zoom sur deux appuis
-
+{: .text-center .margin-bottom-1 .margin-top-3 }
 **Fiabiliser la trajectoire de 3 grands projets SI**
 <br>*Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
 
@@ -77,6 +76,7 @@ Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses 
 Nous avons mobilisé des experts en architecture technique et applicative qui ont pu échanger avec les équipes du ministère et partager les meilleures pratiques. Ensemble, ils ont validé la stratégie de développement de ce framework, et favorisé le bon usage en fonction des cas d’application afin de réduire les temps de développement de nouvelles applications web tout en respectant les standards du marché et les référentiels de l’État.
 
 ## Comment solliciter une mission de conseil ?
+{: .text-center .margin-bottom-1 .margin-top-3 }
 **Par courriel**
 {: .bleue .margin-0  }
 Adressez votre demande [**par courriel**](mailto:sec-directeur.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
