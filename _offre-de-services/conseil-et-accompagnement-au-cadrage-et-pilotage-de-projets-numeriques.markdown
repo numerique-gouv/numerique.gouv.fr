@@ -65,6 +65,7 @@ Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses 
 </figure>## Zoom sur deux appuis
 {: .text-center .margin-bottom-1 .margin-top-3}
 ### Fiabiliser la trajectoire de 3 grands projets SI
+{: .margin-bottom-0 .margin-top-3}
 *Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
 
 **Problématique** 
@@ -76,7 +77,8 @@ Après avoir réalisé un diagnostic du programme SI Labo, constitué de trois p
 Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une architecture applicative crédible et compatible avec les enjeux de déploiement dans la multitude de laboratoires de recherche français.
 
 ### Évaluer et confirmer des choix technologiques
-<br>*Ministère de l’Europe et des Affaires étrangères (MEAE)*
+{: .margin-bottom-0 .margin-top-3}
+*Ministère de l’Europe et des Affaires étrangères (MEAE)*
 
 **Problématique** 
 {: .bleue .margin-0} Le MEAE souhaitait évaluer sa filière de développement et confirmer les choix technologiques concernant son framework de développement.
