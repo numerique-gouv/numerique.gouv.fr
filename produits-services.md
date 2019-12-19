@@ -9,6 +9,11 @@ publications:
   url: "/produits-services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/"
   une-ou-diaporama:
   - image: "/uploads/office-1209640_1920.jpg"
+- title: Guichet Dites-le-nous une fois - Accompagnement pour la circulation et l’exploitation
+    de la donnée
+  url: "/produits-services/guichet-dites-le-nous-une-fois/"
+  une-ou-diaporama:
+  - image: "/uploads/guichet-dlnuf-hub.jpg"
 layout: publications
 ---
 
