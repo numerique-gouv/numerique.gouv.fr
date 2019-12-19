@@ -101,6 +101,7 @@ le DINUM et le directeur demandeur.
 
 
 ## 4 BONNES RAISONS
+{: .text-center .margin-bottom-0 .margin-top-3}
 <br>de recourir à l’offre de conseil de la DINUM
 {: .text-center}
 
