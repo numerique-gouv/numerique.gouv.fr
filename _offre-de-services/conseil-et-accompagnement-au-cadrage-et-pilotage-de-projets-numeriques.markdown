@@ -100,11 +100,10 @@ Le MEAE souhaitait évaluer sa filière de développement et confirmer les choix
 Nous avons mobilisé des experts en architecture technique et applicative qui ont pu échanger avec les équipes du ministère et partager les meilleures pratiques. Ensemble, ils ont validé la stratégie de développement de ce framework, et favorisé le bon usage en fonction des cas d’application afin de réduire les temps de développement de nouvelles applications web tout en respectant les standards du marché et les référentiels de l’État.
 
 > ## Comment solliciter une mission de conseil ?
->
 > {: .text-center .margin-bottom-1 .margin-top-3}
 > **Par courriel**
 > {: .bleue .margin-0}
-> Adressez votre demande par courriel à **[sec-directeur.dinum@modernisation.gouv.fr](mailto:sec-directeur.dinum@modernisation.gouv.fr)** en précisant le contexte et votre besoin.
+> Adressez votre demande **[par courriel](mailto:sec-directeur.dinum@modernisation.gouv.fr)** en précisant le contexte et votre besoin.
 > 
 >
 > **Zéro processus administratif**
