@@ -19,6 +19,8 @@ chapeau-text: |-
   **Notre conviction : c’est en intervenant le plus en
   amont possible à vos côtés, dans un rôle d’appui, que
   nous assurerons la réussite des projets numériques.**
+une-ou-diaporama:
+- image: "/uploads/offre-PI2_transpa-une.png"
 layout: rgaa
 ---
 
@@ -29,11 +31,10 @@ layout: rgaa
 Assuré directement par des experts de la DINUM, notre appui porte sur 3 dimensions.
 
 ### Le cadre légal
-
 {: .margin-bottom-1 .margin-top-3}
 **Appui méthodologique**
 {: .bleue .margin-0}
-<br>Principalement pendant les phases de cadrage, nous vous aidons à :
+Principalement pendant les phases de cadrage, nous vous aidons à :
 
 * Définir le périmètre
 * Réaliser l’estimation budgétaire
@@ -55,12 +56,14 @@ Grâce à notre position interministérielle et connaissance des projets numéri
 
 **Des outils à votre disposition**
 {: .bleue .margin-0}
-<br>Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses rapides et rassurer sur les orientations prises :
+Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses rapides et rassurer sur les orientations prises :
 * Questionner des choix technologiques
 * Mesurer la qualité du code
 * Confirmer ou réviser un chiffrage
 * Tester l’accessibilité
 * …
+<br>
+<br>
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto-zoom.png"/>
@@ -86,13 +89,13 @@ Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une arch
 {: .margin-bottom-0 .margin-top-3}
 *Ministère de l’Europe et des Affaires étrangères (MEAE)*
 
-<figure class='image-left' style='width: 5%;'>
+<figure class='image-left' style='width: 4%;'>
 <img src="/uploads/picto-problematique.png"/>
 </figure>**Problématique**
 {: .bleue .margin-0}
 Le MEAE souhaitait évaluer sa filière de développement et confirmer les choix technologiques concernant son framework de développement.
 
-<figure class='image-left' style='width: 5%;'>
+<figure class='image-left' style='width: 4%;'>
 <img src="/uploads/picto-intervention.png"/>
 </figure>**Notre intervention**
 {: .bleue .margin-0}
@@ -115,7 +118,7 @@ Nous avons mobilisé des experts en architecture technique et applicative qui on
 > **C’est gratuit**
 > {: .bleue .margin-0}
 > Dans un premier temps, l’offre de conseil est proposée à titre gratuit, à l’exception des consultants externes éventuellement mobilisés en complément des intervenants de la DINUM.
-> {: .noir .encadre}
+{: .noir .encadre}
 
 ## 4 BONNES RAISONS
 {: .text-center .margin-bottom-0 .margin-top-3}
