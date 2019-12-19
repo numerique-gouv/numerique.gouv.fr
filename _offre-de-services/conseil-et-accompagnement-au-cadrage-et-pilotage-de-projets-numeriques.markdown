@@ -69,11 +69,15 @@ Grâce à notre position interministérielle et connaissance des projets numéri
 {: .margin-bottom-0 .margin-top-3}
 *Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
 
-**Problématique** 
+<figure class='image-left' style='width: 4%;'>
+  <img src="/uploads/picto-problematique.png"/>
+</figure>**Problématique** 
 {: .bleue .margin-0}
 Après avoir réalisé un diagnostic du programme SI Labo, constitué de trois projets applicatifs majeurs dans le domaine de la recherche, le MESRI souhaitait redéfinir pour l’ensemble du programme une trajectoire réaliste, chiffrée et maîtrisable.
 
-**Notre intervention** 
+<figure class='image-left' style='width: 4%;'>
+  <img src="/uploads/picto-intervention.png"/>
+</figure>**Notre intervention** 
 {: .bleue .margin-0} 
 Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une architecture applicative crédible et compatible avec les enjeux de déploiement dans la multitude de laboratoires de recherche français.
 
@@ -81,10 +85,15 @@ Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une arch
 {: .margin-bottom-0 .margin-top-3}
 *Ministère de l’Europe et des Affaires étrangères (MEAE)*
 
-**Problématique** 
-{: .bleue .margin-0} Le MEAE souhaitait évaluer sa filière de développement et confirmer les choix technologiques concernant son framework de développement.
+<figure class='image-left' style='width: 5%;'>
+  <img src="/uploads/picto-problematique.png"/>
+</figure>**Problématique** 
+{: .bleue .margin-0} 
+Le MEAE souhaitait évaluer sa filière de développement et confirmer les choix technologiques concernant son framework de développement.
 
-**Notre intervention**
+<figure class='image-left' style='width: 5%;'>
+  <img src="/uploads/picto-intervention.png"/>
+</figure>**Notre intervention**
 {: .bleue .margin-0}
 Nous avons mobilisé des experts en architecture technique et applicative qui ont pu échanger avec les équipes du ministère et partager les meilleures pratiques. Ensemble, ils ont validé la stratégie de développement de ce framework, et favorisé le bon usage en fonction des cas d’application afin de réduire les temps de développement de nouvelles applications web tout en respectant les standards du marché et les référentiels de l’État.
 
