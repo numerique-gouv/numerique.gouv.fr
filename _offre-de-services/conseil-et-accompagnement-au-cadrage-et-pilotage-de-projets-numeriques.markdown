@@ -56,7 +56,6 @@ Grâce à notre position interministérielle et connaissance des projets numéri
 **Des outils à votre disposition**
 {: .bleue .margin-0}
 <br>Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses rapides et rassurer sur les orientations prises :
-
 * Questionner des choix technologiques
 * Mesurer la qualité du code
 * Confirmer ou réviser un chiffrage
