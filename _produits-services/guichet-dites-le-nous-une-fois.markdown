@@ -135,8 +135,7 @@ de recourir à l’offre de service de la DINUM
 > 
 > **Par courriel**
 > {: .bleue .margin-0}
-> Adressez votre demande sur à cette adresse :
-[dlnuf.dinum@modernisation.gouv.fr](mailto:dlnuf.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
+> Adressez votre demande [par courriel](mailto:dlnuf@api.gouv.fr) en précisant le contexte et votre besoin.
 {: .noir .encadre}
 <br>
 <br>
