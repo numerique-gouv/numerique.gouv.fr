@@ -14,6 +14,8 @@ chapeau-text: |-
   **Pour en accélérer l’application, la DINUM propose une offre d’accompagnement sur-mesure aux administrations.**
 une-ou-diaporama:
 - image: "/uploads/guichet-dlnuf-une.png"
+une:
+  image: "/uploads/guichet-dlnuf-une.png"
 layout: rgaa
 ---
 
