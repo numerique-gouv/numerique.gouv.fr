@@ -22,10 +22,10 @@ chapeau-text: |-
 layout: rgaa
 ---
 
-<figure class='image-left' style='width: 15%;'>
+<figure class='image-left' style='width: 10%;'>
   <img src="/uploads/picto-accompagnement.png"/>
 </figure>## Notre accompagnement
-{: .text-center .margin-bottom-1 .margin-top-3}
+{: .margin-bottom-1 .margin-top-3}
 Assuré directement par des experts de la DINUM, notre appui porte sur 3 dimensions.
 
 ### Le cadre légal
