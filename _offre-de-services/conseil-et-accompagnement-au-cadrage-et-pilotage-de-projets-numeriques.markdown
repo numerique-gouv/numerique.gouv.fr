@@ -61,10 +61,10 @@ Grâce à notre position interministérielle et connaissance des projets numéri
 * Tester l’accessibilité
 * …
 
-<figure class='image-left' style='width: 5%;'>
+<figure class='image-left' style='width: 8%;'>
   <img src="/uploads/picto-zoom.png"/>
 </figure>## Zoom sur deux appuis
-{: .margin-top-3}
+
 ### Fiabiliser la trajectoire de 3 grands projets SI
 {: .margin-bottom-0 .margin-top-3}
 *Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
