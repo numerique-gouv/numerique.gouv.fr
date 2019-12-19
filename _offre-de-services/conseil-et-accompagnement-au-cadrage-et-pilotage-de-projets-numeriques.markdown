@@ -31,7 +31,8 @@ Assuré directement par des experts de la DINUM, notre appui porte sur 3 dimensi
 ### Le cadre légal
 {: .margin-bottom-1 .margin-top-3}
 **Appui méthodologique**
-Principalement pendant les phases de cadrage, nous vous aidons à :
+{: .bleue .margin-0}
+<br>Principalement pendant les phases de cadrage, nous vous aidons à :
 * Définir le périmètre
 * Réaliser l’estimation budgétaire
 * Établir la gouvernance du projet
@@ -45,15 +46,15 @@ Principalement pendant les phases de cadrage, nous vous aidons à :
 ### Au fil de l'eau
 {: .margin-bottom-1 .margin-top-3 }
 **Partage d’expérience et de solutions**
-
+{: .bleue .margin-0}
 Grâce à notre position interministérielle et connaissance des projets numériques menés au sein de l’État, nous identifions des administrations et des directeurs de projets ayant rencontré des problématiques similaires aux vôtres afin de favoriser le partage d’expériences et de solutions existantes répondant aux mêmes besoins.
 
 ### Point de blocage
 {: .margin-bottom-1 .margin-top-3}
 
 **Des outils à votre disposition**
-Mais aussi...
-Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses rapides et rassurer sur les orientations prises :
+{: .bleue .margin-0}
+<br>Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses rapides et rassurer sur les orientations prises :
 * Questionner des choix technologiques
 * Mesurer la qualité du code
 * Confirmer ou réviser un chiffrage
