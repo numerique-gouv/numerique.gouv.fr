@@ -92,7 +92,9 @@ La Ville de Lyon utilise le revenu fiscal de référence pour moduler la tarific
 <img src="/uploads/lesnouveautes.png"/>
 </figure>## Les nouveautés en 2020
 {: .margin-bottom-1}
-Fin avril 2020 :
+
+<br>
+**Fin avril 2020 :**
 {: .bleue .margin-0}
 Les données qui seront mises à disposition pour les administrations :
 * Derniers salaires perçus
@@ -100,8 +102,9 @@ Les données qui seront mises à disposition pour les administrations :
 * Informations sur les enfants, l’adresse et le quotient familial
 * Informations contenues dans les attestations relatives au chômage
 * Informations contenues dans les attestations relatives au statut étudiant
+<br>
 
-Au 30 septembre 2020 :
+**Au 30 septembre 2020 :**
 {: .bleue .margin-0}
 L’échange des données entre administrations devient automatique pour ces démarches :
 * Demande d’allocation logement en ligne
