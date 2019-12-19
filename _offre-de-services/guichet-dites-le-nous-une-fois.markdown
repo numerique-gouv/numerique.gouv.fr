@@ -3,14 +3,16 @@ title: |-
   Guichet Dites-le-nous une fois - Accompagnement pour la circulation et
   l’exploitation de la donnée
 date: 2019-12-17 17:35:00 +01:00
+tags:
+- offre de services
+- dites-le-nous-une fois
 chapeau-text: |-
-  **Un service public numérique plus simple pour tous
-  les usagers ?**
+  **Un service public numérique plus simple pour tous les usagers ?**
 
-  Pour y parvenir, un atout majeur : **le principe Dites-le-nous une fois** (DLNUF), qui consiste à leur éviter de fournir, lors de leurs démarches en ligne, des informations ou pièces justificatives déjà détenues par d’autres administrations, en s’appuyant sur le partage automatique de données via des API.
+  Pour y parvenir, un atout majeur : **le principe Dites-le-nous une fois (DLNUF)**, qui consiste à leur éviter de fournir, lors de leurs démarches en ligne, des informations ou pièces justificatives déjà détenues par d’autres administrations, en s’appuyant sur le partage
+  automatique de données via des API.
 
-  **Pour en accélérer l’application, la DINUM propose une offre
-  d’accompagnement sur-mesure aux administrations.**
+  **Pour en accélérer l’application, la DINUM propose une offre d’accompagnement sur-mesure aux administrations.**
 layout: rgaa
 ---
 
@@ -18,107 +20,111 @@ layout: rgaa
 <img src="/uploads/picto-accompagnement.png"/>
 </figure>## Notre accompagnement
 {: .margin-bottom-1}
-Assuré directement par des experts de la DINUM, notre appui porte sur 3 dimensions.
+Vous êtes concernés par la production et l’exploitation de données administratives ? L’appui des experts de la DINUM couvre ces 3 volets.
 
 ### Le cadre légal
 {: .margin-bottom-1 .margin-top-3}
-**Appui méthodologique**
+**Pour repenser votre procédure administrative :**
 {: .bleue .margin-0}
-Principalement pendant les phases de cadrage, nous vous aidons à :
 
-* Définir le périmètre
-* Réaliser l’estimation budgétaire
-* Établir la gouvernance du projet
-* Organiser et dimensionner l’équipe
-* Mesurer la valeur avec MAREVA2
-* Définir la méthodologie pour chaque composant
-* Valider les choix d’architecture
-* Éclairer les problématiques juridiques sur le numérique
+* Comprendre le cadre légal en vigueur sur la circulation
+de la donnée
+* Exploiter pleinement les possibilités offertes par ce cadre
+* Faire évaluer les procédures administratives à l’aune du cadre légal en vigueur et le modifier s’il n’est plus adapté
 
-### Au fil de l'eau
+
+### L’accompagnement pour la circulation de la donnée
 {: .margin-bottom-1 .margin-top-3 }
-**Partage d’expérience et de solutions**
+**Pour améliorer l’efficacité de l’administration :**
 {: .bleue .margin-0}
-Grâce à notre position interministérielle et connaissance des projets numériques menés au sein de l’État, nous identifions des administrations et des directeurs de projets ayant rencontré des problématiques similaires aux vôtres afin de favoriser le partage d’expériences et de solutions existantes répondant aux mêmes besoins.
+* Identifier les données que vous produisez et celles dont vous avez besoin
+* Faciliter la circulation des données entre acteurs publics, dans le respect de la protection des données à caractère personnel
+* Mise en œuvre d’un cadre de confiance
 
-### Point de blocage
+### Des outils à votre disposition
 {: .margin-bottom-1 .margin-top-3}
 
-**Des outils à votre disposition**
+**La DINUM vous met à disposition des outils au service de la
+circulation et l’exploitation des données**
 {: .bleue .margin-0}
-Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses rapides et rassurer sur les orientations prises :
-* Questionner des choix technologiques
-* Mesurer la qualité du code
-* Confirmer ou réviser un chiffrage
-* Tester l’accessibilité
-* …
+Catalogues de l’ensemble des données disponibles :
+* [Api.gouv.fr](https://api.gouv.fr) : le point d’accès unique aux API de l’administration
+* [Data.gouv.fr](https://data.gouv.fr) : la plateforme des données publiques
+ouvertes
+
+Des « hubs » d’API adaptés à vos besoins :
+* [Entreprise.api.gouv.fr](https://entreprise.api.gouv.fr/) : les données des entreprises
+* [Particulier.api.gouv.fr](https://particulier.api.gouv.fr/) : les données des particuliers
+* [Geo.api.gouv.fr](https://geo.api.gouv.fr/) : les données géographiques
+
+SignUp, un dispositif permettant de s’assurer que seules les
+administrations habilitées seront en mesure d’exploiter les
+données fournies.
 <br>
 <br>
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto-zoom.png"/>
-</figure>## Zoom sur deux appuis
+</figure>## Zoom sur un cas d'usage
 
-### Fiabiliser la trajectoire de 3 grands projets SI
+### Construire un portail famille pour une municipalité
 {: .margin-bottom-0 .margin-top-3}
-*Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
+*Ville de Lyon*
 
 <figure class='image-left' style='width: 4%;'>
 <img src="/uploads/picto-problematique.png"/>
 </figure>**Problématique**
 {: .bleue .margin-0}
-Après avoir réalisé un diagnostic du programme SI Labo, constitué de trois projets applicatifs majeurs dans le domaine de la recherche, le MESRI souhaitait redéfinir pour l’ensemble du programme une trajectoire réaliste, chiffrée et maîtrisable.
+Chaque année, les familles doivent fournir leur quotient
+familial aux municipalités qui calculent le tarif applicable pour les services de cantines ou d’activités périscolaires.
 
 <figure class='image-left' style='width: 4%;'>
 <img src="/uploads/picto-intervention.png"/>
-</figure>**Notre intervention**
+</figure>**La solution**
 {: .bleue .margin-0}
-Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une architecture applicative crédible et compatible avec les enjeux de déploiement dans la multitude de laboratoires de recherche français.
+La Ville de Lyon utilise le revenu fiscal de référence pour moduler la tarification des repas de la cantine scolaire dans les écoles publiques ou privées, des activités périscolaires (les accueils du soir) et extrascolaires (ateliers du mercredi). La Ville de Lyon utilise l’API impôt particulier de la DGFiP qui est une API « FranceConnectée ».
 
-### Évaluer et confirmer des choix technologiques
-{: .margin-bottom-0 .margin-top-3}
-*Ministère de l’Europe et des Affaires étrangères (MEAE)*
 
-<figure class='image-left' style='width: 4%;'>
-<img src="/uploads/picto-problematique.png"/>
-</figure>**Problématique**
+<figure class='image-left' style='width: 8%;'>
+<img src="/uploads/lesnouveautes.png"/>
+</figure>## Les nouveautés en 2020
+{: .margin-bottom-1}
+Fin avril 2020 :
 {: .bleue .margin-0}
-Le MEAE souhaitait évaluer sa filière de développement et confirmer les choix technologiques concernant son framework de développement.
+Les données qui seront mises à disposition pour les administrations :
+* Derniers salaires perçus
+* Revenu fiscal de référence, informations sur le conjoint, adresse
+* Informations sur les enfants, l’adresse et le quotient familial
+* Informations contenues dans les attestations relatives au chômage
+* Informations contenues dans les attestations relatives au statut étudiant
 
-<figure class='image-left' style='width: 4%;'>
-<img src="/uploads/picto-intervention.png"/>
-</figure>**Notre intervention**
+Au 30 septembre 2020 :
 {: .bleue .margin-0}
-Nous avons mobilisé des experts en architecture technique et applicative qui ont pu échanger avec les équipes du ministère et partager les meilleures pratiques. Ensemble, ils ont validé la stratégie de développement de ce framework, et favorisé le bon usage en fonction des cas d’application afin de réduire les temps de développement de nouvelles applications web tout en respectant les standards du marché et les référentiels de l’État.
+L’échange des données entre administrations devient automatique pour ces démarches :
+* Demande d’allocation logement en ligne
+* Simulation de droits sociaux
+* Demande de prime d’activité
+* Aide au logement étudiant
+* Demande ou renouvellement de logement social
+* Recensement citoyen obligatoire.
 
-> ## Comment solliciter une mission de conseil ?
+
+> ## Comment nous solliciter ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
 > 
 > **Par courriel**
 > {: .bleue .margin-0}
-> Adressez votre demande **[par courriel](mailto:sec-directeur.dinum@modernisation.gouv.fr)** en précisant le contexte et votre besoin.
-> 
->
-> **Zéro processus administratif**
-> {: .bleue .margin-0}
-> pour déclencher une mission de conseil. Il s’agit d’un accord entre
-> le DINUM et le directeur demandeur.
-> 
->
-> **C’est gratuit**
-> {: .bleue .margin-0}
-> Dans un premier temps, l’offre de conseil est proposée à titre gratuit, à l’exception des consultants externes éventuellement mobilisés en complément des intervenants de la DINUM.
+> Adressez votre demande sur à cette adresse :
+dlnuf.dinum@modernisation.gouv.fr en précisant le contexte et votre besoin.
 {: .noir .encadre}
 
-## 4 BONNES RAISONS
+## 3 BONNES RAISONS
 {: .text-center .margin-bottom-0 .margin-top-3}
-de recourir à l’offre de conseil de la DINUM
+de recourir à l’offre de service de la DINUM
 {: .text-center}
 
-**1.** **Activez facilement et rapidement** un dispositif d’aide pragmatique, sans aucune formalité administrative.
+**1.** **Une expertise reconnue** dans le domaine de la donnée et des services numériques
 
-**2.** **Collaborez avec le référent de la stratégie numérique de l’État** qui vous conseillera en cohérence avec celle-ci sur vos choix technologiques, en toute indépendance.
+**2.** **Un accompagnement personnalisé** au plus près de vos métiers
 
-**3.** **Bénéficiez d’un appui pluridisciplinaire au contact d’experts de l’État** aux parcours professionnels variés (différentes administrations, secteur privé — industriels, sociétés de services…), capitalisant sur une expérience interministérielle.
-
-**4.** **Profitez d’un tiers de confiance** capable de fluidifier les relations entre différents acteurs de l’administration, de pointer et faire remonter les irritants d’un projet aux bonnes personnes, dans une posture neutre et sans parti pris, afin de faciliter et accélérer leur résolution.
+**3.** **C’est gratuit !** 
