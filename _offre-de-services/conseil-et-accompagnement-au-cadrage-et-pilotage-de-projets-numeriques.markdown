@@ -87,7 +87,7 @@ Nous avons mobilisé des experts en architecture technique et applicative qui on
 {: .text-center .margin-bottom-1 .margin-top-3 }
 **Par courriel**
 {: .bleue .margin-0  }
-Adressez votre demande [**par courriel**](mailto:sec-directeur.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
+Adressez votre demande par courriel à [**sec-directeur.dinum@modernisation.gouv.fr**](mailto:sec-directeur.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
 
 **Zéro processus administratif**
 {: .bleue .margin-0  }
