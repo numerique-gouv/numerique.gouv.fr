@@ -142,7 +142,7 @@ de recourir à l’offre de service de la DINUM
 <br>
 
 
-[![Télécharger la plaquette de présentation du guichet Dites-le-nous une fois (pdf - 162&nbsp;Ko)](/uploads/capture-plaquette-dlnuf-contour.jpg)](/uploads/guichet-dlnuf_plaquette_print.pdf "Télécharger la plaquette de présentation du guichet Dites-le-nous une fois (pdf - 162&nbsp;Ko)")
+[![Télécharger la plaquette de présentation du guichet Dites-le-nous une fois (pdf - 162&nbsp;Ko)](/uploads/capture-plaquette-dlnuf-contour-150.png)](/uploads/guichet-dlnuf_plaquette_print.pdf "Télécharger la plaquette de présentation du guichet Dites-le-nous une fois (pdf - 162&nbsp;Ko)")
 {: .text-center}
 > [Télécharger la plaquette de présentation du guichet Dites-le-nous une fois (pdf - 162&nbsp;Ko)](/uploads/guichet-dlnuf_plaquette_print.pdf)
 {: .lien-important}
