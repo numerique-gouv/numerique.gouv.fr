@@ -36,30 +36,21 @@ Assuré directement par des experts de la DINUM, notre appui porte sur 3 dimensi
 <br>Principalement pendant les phases de cadrage, nous vous aidons à :
 
 * Définir le périmètre
-
 * Réaliser l’estimation budgétaire
-
 * Établir la gouvernance du projet
-
 * Organiser et dimensionner l’équipe
-
 * Mesurer la valeur avec MAREVA2
-
 * Définir la méthodologie pour chaque composant
-
 * Valider les choix d’architecture
-
 * Éclairer les problématiques juridiques sur le numérique
 
 ### Au fil de l'eau
-
 {: .margin-bottom-1 .margin-top-3 }
 **Partage d’expérience et de solutions**
 {: .bleue .margin-0}
 Grâce à notre position interministérielle et connaissance des projets numériques menés au sein de l’État, nous identifions des administrations et des directeurs de projets ayant rencontré des problématiques similaires aux vôtres afin de favoriser le partage d’expériences et de solutions existantes répondant aux mêmes besoins.
 
 ### Point de blocage
-
 {: .margin-bottom-1 .margin-top-3}
 
 **Des outils à votre disposition**
@@ -67,13 +58,9 @@ Grâce à notre position interministérielle et connaissance des projets numéri
 <br>Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses rapides et rassurer sur les orientations prises :
 
 * Questionner des choix technologiques
-
 * Mesurer la qualité du code
-
 * Confirmer ou réviser un chiffrage
-
 * Tester l’accessibilité
-
 * …
 
 <figure class='image-left' style='width: 6%;'>
@@ -81,7 +68,6 @@ Grâce à notre position interministérielle et connaissance des projets numéri
 </figure>## Zoom sur deux appuis
 
 ### Fiabiliser la trajectoire de 3 grands projets SI
-
 {: .margin-bottom-0 .margin-top-3}
 *Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
 
@@ -98,7 +84,6 @@ Après avoir réalisé un diagnostic du programme SI Labo, constitué de trois p
 Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une architecture applicative crédible et compatible avec les enjeux de déploiement dans la multitude de laboratoires de recherche français.
 
 ### Évaluer et confirmer des choix technologiques
-
 {: .margin-bottom-0 .margin-top-3}
 *Ministère de l’Europe et des Affaires étrangères (MEAE)*
 
@@ -134,7 +119,6 @@ Nous avons mobilisé des experts en architecture technique et applicative qui on
 > {: .noir .encadre}
 
 ## 4 BONNES RAISONS
-
 {: .text-center .margin-bottom-0 .margin-top-3}
 <br>de recourir à l’offre de conseil de la DINUM
 {: .text-center}
