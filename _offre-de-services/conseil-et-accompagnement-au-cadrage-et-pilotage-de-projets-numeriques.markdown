@@ -60,7 +60,9 @@ Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses 
 * Tester l’accessibilité
 * …
 
-## Zoom sur deux appuis
+<figure class='image-left' style='width: 10%;'>
+  <img src="/uploads/picto-zoom.png"/>
+</figure>## Zoom sur deux appuis
 {: .text-center .margin-bottom-1 .margin-top-3}
 ### Fiabiliser la trajectoire de 3 grands projets SI
 *Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
