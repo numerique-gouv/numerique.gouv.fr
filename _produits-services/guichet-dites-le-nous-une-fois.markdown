@@ -1,7 +1,7 @@
 ---
 title: Guichet Dites-le-nous une fois - Accompagnement pour la circulation et l’exploitation
   de la donnée
-date: 2019-12-17 17:35:00 +01:00
+date: 2019-12-19 14:35:00 +01:00
 tags:
 - offre de services
 - dites-le-nous-une fois
@@ -11,7 +11,7 @@ chapeau-text: |-
   Pour y parvenir, un atout majeur : **le principe Dites-le-nous une fois (DLNUF)**, qui consiste à leur éviter de fournir, lors de leurs démarches en ligne, des informations ou pièces justificatives déjà détenues par d’autres administrations, en s’appuyant sur le partage
   automatique de données via des API.
 
-  **Pour en accélérer l’application, la DINUM propose une offre d’accompagnement sur-mesure aux administrations.**
+  **Pour en accélérer l’application, la DINUM propose une offre d’accompagnement sur-mesure aux administrations, dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/).**
 une-ou-diaporama:
 - image: "/uploads/guichet-dlnuf-une.png"
 une:
@@ -135,8 +135,7 @@ de recourir à l’offre de service de la DINUM
 > 
 > **Par courriel**
 > {: .bleue .margin-0}
-> Adressez votre demande sur à cette adresse :
-[dlnuf.dinum@modernisation.gouv.fr](mailto:dlnuf.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
+> Adressez votre demande [par courriel](mailto:dlnuf@api.gouv.fr) en précisant le contexte et votre besoin.
 {: .noir .encadre}
 <br>
 <br>
