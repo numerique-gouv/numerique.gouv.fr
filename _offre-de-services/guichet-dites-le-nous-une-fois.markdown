@@ -54,11 +54,13 @@ circulation et l’exploitation des données**
   * [**Api.gouv.fr**](https://api.gouv.fr) : le point d’accès unique aux API de l’administration
   * [**Data.gouv.fr**](https://data.gouv.fr) : la plateforme des données publiques
 ouvertes
+<br>
 
 * Des « hubs » d’API adaptés à vos besoins :
   * [**Entreprise.api.gouv.fr**](https://entreprise.api.gouv.fr/) : les données des entreprises
   * [**Particulier.api.gouv.fr**](https://particulier.api.gouv.fr/) : les données des particuliers
   * [**Geo.api.gouv.fr**](https://geo.api.gouv.fr/) : les données géographiques
+<br>
 
 * SignUp, un dispositif permettant de s’assurer que seules les
 administrations habilitées seront en mesure d’exploiter les
@@ -136,6 +138,8 @@ de recourir à l’offre de service de la DINUM
 > Adressez votre demande sur à cette adresse :
 [dlnuf.dinum@modernisation.gouv.fr](mailto:dlnuf.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
 {: .noir .encadre}
+<br>
+<br>
 
 
 [![Télécharger la plaquette de présentation du guichet Dites-le-nous une fois (pdf - 162&nbsp;Ko)](/uploads/capture-plaquette-dlnuf-contour.jpg)](/uploads/guichet-dlnuf_plaquette_print.pdf "Télécharger la plaquette de présentation du guichet Dites-le-nous une fois (pdf - 162&nbsp;Ko)")
