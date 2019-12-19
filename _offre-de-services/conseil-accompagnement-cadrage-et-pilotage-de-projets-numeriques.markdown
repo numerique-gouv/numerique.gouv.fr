@@ -136,7 +136,7 @@ de recourir à l’offre de conseil de la DINUM
 **4.** **Profitez d’un tiers de confiance** capable de fluidifier les relations entre différents acteurs de l’administration, de pointer et faire remonter les irritants d’un projet aux bonnes personnes, dans une posture neutre et sans parti pris, afin de faciliter et accélérer leur résolution.
 <br>
 ![capture-plaquette-PI2-contour.png](/uploads/capture-plaquette-PI2-contour.png)
-[![Télécharger la plaquette de présentation de l'offre (pdf - 1&nbsp;Mo)](/uploads/capture-plaquette-PI2.jpg)](/uploads/Plaquette_offre_de_conseil-pilotage.pdf "Télécharger la plaquette de présentation de l'offre (pdf - 1&nbsp;Mo)")
+[![Télécharger la plaquette de présentation de l'offre (pdf - 1&nbsp;Mo)](/uploads/capture-plaquette-PI2.jpg)](/uploads/Plaquette_offre_de_conseil-pilotage_print.pdf "Télécharger la plaquette de présentation de l'offre (pdf - 1&nbsp;Mo)")
 {: .text-center}
-> [Télécharger la plaquette de présentation de l'offre (pdf - 1&nbsp;Mo)](/uploads/Plaquette_offre_de_conseil-pilotage.pdf)
+> [Télécharger la plaquette de présentation de l'offre (pdf - 1&nbsp;Mo)](/uploads/Plaquette_offre_de_conseil-pilotage_print.pdf)
 {: .lien-important}
