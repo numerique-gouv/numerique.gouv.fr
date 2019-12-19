@@ -21,6 +21,8 @@ chapeau-text: |-
   nous assurerons la réussite des projets numériques.**
 une-ou-diaporama:
 - image: "/uploads/offre-PI2_transpa-une.png"
+une:
+  image: "/uploads/offre-PI2_transpa-une.png"
 layout: rgaa
 ---
 
