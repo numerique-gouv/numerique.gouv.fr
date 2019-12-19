@@ -65,9 +65,13 @@ Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses 
 ### Fiabiliser la trajectoire de 3 grands projets SI
 *Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
 
-**Problématique** {: .bleue .margin-0} Après avoir réalisé un diagnostic du programme SI Labo, constitué de trois projets applicatifs majeurs dans le domaine de la recherche, le MESRI souhaitait redéfinir pour l’ensemble du programme une trajectoire réaliste, chiffrée et maîtrisable.
+**Problématique** 
+{: .bleue .margin-0}
+Après avoir réalisé un diagnostic du programme SI Labo, constitué de trois projets applicatifs majeurs dans le domaine de la recherche, le MESRI souhaitait redéfinir pour l’ensemble du programme une trajectoire réaliste, chiffrée et maîtrisable.
 
-**Notre intervention** {: .bleue .margin-0  } Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une architecture applicative crédible et compatible avec les enjeux de déploiement dans la multitude de laboratoires de recherche français.
+**Notre intervention** 
+{: .bleue .margin-0} 
+Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une architecture applicative crédible et compatible avec les enjeux de déploiement dans la multitude de laboratoires de recherche français.
 
 ### Évaluer et confirmer des choix technologiques
 <br>*Ministère de l’Europe et des Affaires étrangères (MEAE)*
