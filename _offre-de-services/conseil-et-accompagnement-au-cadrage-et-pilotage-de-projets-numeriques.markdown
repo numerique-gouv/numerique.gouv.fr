@@ -60,7 +60,7 @@ Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses 
 * Tester l’accessibilité
 * …
 
-<figure class='image-left' style='width: 10%;'>
+<figure class='image-left' style='width: 5%;'>
   <img src="/uploads/picto-zoom.png"/>
 </figure>## Zoom sur deux appuis
 {: .margin-top-3}
