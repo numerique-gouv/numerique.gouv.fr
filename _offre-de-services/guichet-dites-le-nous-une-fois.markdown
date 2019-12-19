@@ -50,17 +50,17 @@ de la donnée
 **La DINUM vous met à disposition des outils au service de la
 circulation et l’exploitation des données**
 {: .bleue .margin-0}
-Catalogues de l’ensemble des données disponibles :
-* [Api.gouv.fr](https://api.gouv.fr) : le point d’accès unique aux API de l’administration
-* [Data.gouv.fr](https://data.gouv.fr) : la plateforme des données publiques
+* Catalogues de l’ensemble des données disponibles :
+  * [**Api.gouv.fr**](https://api.gouv.fr) : le point d’accès unique aux API de l’administration
+  * [**Data.gouv.fr**](https://data.gouv.fr) : la plateforme des données publiques
 ouvertes
 
-Des « hubs » d’API adaptés à vos besoins :
-* [Entreprise.api.gouv.fr](https://entreprise.api.gouv.fr/) : les données des entreprises
-* [Particulier.api.gouv.fr](https://particulier.api.gouv.fr/) : les données des particuliers
-* [Geo.api.gouv.fr](https://geo.api.gouv.fr/) : les données géographiques
+* Des « hubs » d’API adaptés à vos besoins :
+  * [**Entreprise.api.gouv.fr**](https://entreprise.api.gouv.fr/) : les données des entreprises
+  * [**Particulier.api.gouv.fr**](https://particulier.api.gouv.fr/) : les données des particuliers
+  * [**Geo.api.gouv.fr**](https://geo.api.gouv.fr/) : les données géographiques
 
-SignUp, un dispositif permettant de s’assurer que seules les
+* SignUp, un dispositif permettant de s’assurer que seules les
 administrations habilitées seront en mesure d’exploiter les
 données fournies.
 <br>
@@ -86,7 +86,8 @@ familial aux municipalités qui calculent le tarif applicable pour les services 
 </figure>**La solution**
 {: .bleue .margin-0}
 La Ville de Lyon utilise le revenu fiscal de référence pour moduler la tarification des repas de la cantine scolaire dans les écoles publiques ou privées, des activités périscolaires (les accueils du soir) et extrascolaires (ateliers du mercredi). La Ville de Lyon utilise l’API impôt particulier de la DGFiP qui est une API « FranceConnectée ».
-
+<br>
+<br>
 
 <figure class='image-left' style='width: 8%;'>
 <img src="/uploads/lesnouveautes.png"/>
