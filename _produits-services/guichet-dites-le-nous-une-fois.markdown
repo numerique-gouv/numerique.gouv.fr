@@ -11,7 +11,7 @@ chapeau-text: |-
   Pour y parvenir, un atout majeur : **le principe Dites-le-nous une fois (DLNUF)**, qui consiste à leur éviter de fournir, lors de leurs démarches en ligne, des informations ou pièces justificatives déjà détenues par d’autres administrations, en s’appuyant sur le partage
   automatique de données via des API.
 
-  **Pour en accélérer l’application, la DINUM propose une offre d’accompagnement sur-mesure aux administrations.**
+  **Pour en accélérer l’application, la DINUM propose une offre d’accompagnement sur-mesure aux administrations, dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/).**
 une-ou-diaporama:
 - image: "/uploads/guichet-dlnuf-une.png"
 une:
