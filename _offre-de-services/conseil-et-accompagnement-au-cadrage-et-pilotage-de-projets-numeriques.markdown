@@ -101,6 +101,7 @@ Nous avons mobilisé des experts en architecture technique et applicative qui on
 
 > ## Comment solliciter une mission de conseil ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
+> 
 > **Par courriel**
 > {: .bleue .margin-0}
 > Adressez votre demande **[par courriel](mailto:sec-directeur.dinum@modernisation.gouv.fr)** en précisant le contexte et votre besoin.
