@@ -116,14 +116,6 @@ L’échange des données entre administrations devient automatique pour ces dé
 * Recensement citoyen obligatoire
 
 
-> ## Comment nous solliciter ?
-> {: .text-center .margin-bottom-1 .margin-top-3}
-> 
-> **Par courriel**
-> {: .bleue .margin-0}
-> Adressez votre demande sur à cette adresse :
-[dlnuf.dinum@modernisation.gouv.fr](mailto:dlnuf.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
-{: .noir .encadre}
 
 ## 3 BONNES RAISONS
 {: .text-center .margin-bottom-0 .margin-top-3}
@@ -135,3 +127,18 @@ de recourir à l’offre de service de la DINUM
 **2.** **Un accompagnement personnalisé** au plus près de vos métiers
 
 **3.** **C’est gratuit !** 
+
+> ## Comment nous solliciter ?
+> {: .text-center .margin-bottom-1 .margin-top-3}
+> 
+> **Par courriel**
+> {: .bleue .margin-0}
+> Adressez votre demande sur à cette adresse :
+[dlnuf.dinum@modernisation.gouv.fr](mailto:dlnuf.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
+{: .noir .encadre}
+
+
+[![Télécharger la plaquette de présentation du guichet Dites-le-nous une fois (pdf - 162&nbsp;Ko)](/uploads/capture-plaquette-dlnuf-contour.jpg)](/uploads/guichet-dlnuf_plaquette_print.pdf "Télécharger la plaquette de présentation du guichet Dites-le-nous une fois (pdf - 162&nbsp;Ko)")
+{: .text-center}
+> [Télécharger la plaquette de présentation du guichet Dites-le-nous une fois (pdf - 162&nbsp;Ko)](/uploads/guichet-dlnuf_plaquette_print.pdf)
+{: .lien-important}
