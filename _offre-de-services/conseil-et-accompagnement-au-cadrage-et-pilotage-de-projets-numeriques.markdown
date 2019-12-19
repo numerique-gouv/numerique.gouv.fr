@@ -1,6 +1,10 @@
 ---
 title: Conseil et accompagnement au cadrage et pilotage de projets numériques
 date: 2019-12-19 12:12:00 +01:00
+tags:
+- offre de services
+- accompagnement
+- conseil
 chapeau-text: |-
   **Besoin d’être accompagné pour passer de l’idée
   au projet numérique et/ou pour le piloter ?**
