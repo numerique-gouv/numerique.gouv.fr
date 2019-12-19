@@ -120,19 +120,18 @@ Nous avons mobilisé des experts en architecture technique et applicative qui on
 > **Par courriel**
 > {: .bleue .margin-0}
 > Adressez votre demande par courriel à **[sec-directeur.dinum@modernisation.gouv.fr](mailto:sec-directeur.dinum@modernisation.gouv.fr)** en précisant le contexte et votre besoin.
-> {: .noir}
+> 
 >
 > **Zéro processus administratif**
 > {: .bleue .margin-0}
 > pour déclencher une mission de conseil. Il s’agit d’un accord entre
 > le DINUM et le directeur demandeur.
-> {: .noir}
+> 
 >
 > **C’est gratuit**
 > {: .bleue .margin-0}
 > Dans un premier temps, l’offre de conseil est proposée à titre gratuit, à l’exception des consultants externes éventuellement mobilisés en complément des intervenants de la DINUM.
-> {: .noir}
-> {: .encadre }
+> {: .noir .encadre}
 
 ## 4 BONNES RAISONS
 
