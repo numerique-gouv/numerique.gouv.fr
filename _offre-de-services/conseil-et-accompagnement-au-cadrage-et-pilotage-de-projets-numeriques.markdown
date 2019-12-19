@@ -22,7 +22,9 @@ chapeau-text: |-
 layout: rgaa
 ---
 
-## Notre accompagnement
+<figure class='image-left' style='width: 15%;'>
+  <img src="/uploads/picto-accompagnement.png"/>
+</figure>## Notre accompagnement
 {: .text-center .margin-bottom-1 .margin-top-3 }
 Assuré directement par des experts de la DINUM, notre appui porte sur 3 dimensions.
 
@@ -43,10 +45,12 @@ Principalement pendant les phases de cadrage, nous vous aidons à :
 ### Au fil de l'eau
 {: .margin-bottom-1 .margin-top-3 }
 **Partage d’expérience et de solutions**
+
 Grâce à notre position interministérielle et connaissance des projets numériques menés au sein de l’État, nous identifions des administrations et des directeurs de projets ayant rencontré des problématiques similaires aux vôtres afin de favoriser le partage d’expériences et de solutions existantes répondant aux mêmes besoins.
 
 ### Point de blocage
 {: .margin-bottom-1 .margin-top-3 }
+
 **Des outils à votre disposition**
 Mais aussi...
 Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses rapides et rassurer sur les orientations prises :
@@ -58,14 +62,14 @@ Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses 
 
 ## Zoom sur deux appuis
 {: .text-center .margin-bottom-1 .margin-top-3 }
-**Fiabiliser la trajectoire de 3 grands projets SI**
-<br>*Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
+### Fiabiliser la trajectoire de 3 grands projets SI
+*Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
 
 **Problématique** {: .bleue .margin-0} Après avoir réalisé un diagnostic du programme SI Labo, constitué de trois projets applicatifs majeurs dans le domaine de la recherche, le MESRI souhaitait redéfinir pour l’ensemble du programme une trajectoire réaliste, chiffrée et maîtrisable.
 
 **Notre intervention** {: .bleue .margin-0  } Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une architecture applicative crédible et compatible avec les enjeux de déploiement dans la multitude de laboratoires de recherche français.
 
-**Évaluer et confirmer des choix technologiques**
+### Évaluer et confirmer des choix technologiques
 <br>*Ministère de l’Europe et des Affaires étrangères (MEAE)*
 
 **Problématique** 
