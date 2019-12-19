@@ -60,7 +60,7 @@ Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses 
 ## Zoom sur deux appuis
 
 **Fiabiliser la trajectoire de 3 grands projets SI**
-*Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
+<br>*Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
 
 **Problématique**
 Après avoir réalisé un diagnostic du programme SI Labo, constitué de trois projets applicatifs majeurs dans le domaine de la recherche, le MESRI souhaitait redéfinir pour l’ensemble du programme une trajectoire réaliste, chiffrée et maîtrisable.
@@ -69,7 +69,7 @@ Après avoir réalisé un diagnostic du programme SI Labo, constitué de trois p
 Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une architecture applicative crédible et compatible avec les enjeux de déploiement dans la multitude de laboratoires de recherche français.
 
 **Évaluer et confirmer des choix technologiques**
-*Ministère de l’Europe et des Affaires étrangères (MEAE)*
+<br>*Ministère de l’Europe et des Affaires étrangères (MEAE)*
 
 **Problématique** Le MEAE souhaitait évaluer sa filière de développement et confirmer les choix technologiques concernant son framework de développement.
 
@@ -77,7 +77,7 @@ Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une arch
 
 ## Comment solliciter une mission de conseil ?
 **Par courriel**
-Adressez votre demande [**par courriel**](mailto:dinsic-sec-directeur@modernisation.gouv.fr) en précisant le contexte et votre besoin.
+Adressez votre demande [**par courriel**](mailto:sec-directeur.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
 
 **Zéro processus administratif**
 pour déclencher une mission de conseil. Il s’agit d’un accord entre
