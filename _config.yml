@@ -32,6 +32,10 @@ collections:
   posts:
     title: Posts
     output: true
+  produits-services:
+    title: Produits et services
+    output: true
+    permalink: "/produits-services/:title/"
   publications:
     title: Publication
     output: true
@@ -79,6 +83,16 @@ defaults:
 - scope:
     path: ''
     type: publications
+  values:
+    date_de_modification: 
+    chapeau-text: 
+    une-ou-diaporama:
+    - image: 
+      legende: 
+      alternative-textuelle: 
+- scope:
+    path: ''
+    type: produits-services
   values:
     date_de_modification: 
     chapeau-text: 
