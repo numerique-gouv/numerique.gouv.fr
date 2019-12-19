@@ -62,28 +62,32 @@ Nos experts peuvent être sollicités ponctuellement pour obtenir des réponses 
 **Fiabiliser la trajectoire de 3 grands projets SI**
 <br>*Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI)*
 
-**Problématique**
-Après avoir réalisé un diagnostic du programme SI Labo, constitué de trois projets applicatifs majeurs dans le domaine de la recherche, le MESRI souhaitait redéfinir pour l’ensemble du programme une trajectoire réaliste, chiffrée et maîtrisable.
+**Problématique** {: .bleue .margin-0} Après avoir réalisé un diagnostic du programme SI Labo, constitué de trois projets applicatifs majeurs dans le domaine de la recherche, le MESRI souhaitait redéfinir pour l’ensemble du programme une trajectoire réaliste, chiffrée et maîtrisable.
 
-**Notre intervention** 
-Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une architecture applicative crédible et compatible avec les enjeux de déploiement dans la multitude de laboratoires de recherche français.
+**Notre intervention** {: .bleue .margin-0  } Nous avons appuyé le MESRI pour définir cette trajectoire et proposer une architecture applicative crédible et compatible avec les enjeux de déploiement dans la multitude de laboratoires de recherche français.
 
 **Évaluer et confirmer des choix technologiques**
 <br>*Ministère de l’Europe et des Affaires étrangères (MEAE)*
 
-**Problématique** Le MEAE souhaitait évaluer sa filière de développement et confirmer les choix technologiques concernant son framework de développement.
+**Problématique** 
+{: .bleue .margin-0} Le MEAE souhaitait évaluer sa filière de développement et confirmer les choix technologiques concernant son framework de développement.
 
-**Notre intervention** Nous avons mobilisé des experts en architecture technique et applicative qui ont pu échanger avec les équipes du ministère et partager les meilleures pratiques. Ensemble, ils ont validé la stratégie de développement de ce framework, et favorisé le bon usage en fonction des cas d’application afin de réduire les temps de développement de nouvelles applications web tout en respectant les standards du marché et les référentiels de l’État.
+**Notre intervention**
+{: .bleue .margin-0}
+Nous avons mobilisé des experts en architecture technique et applicative qui ont pu échanger avec les équipes du ministère et partager les meilleures pratiques. Ensemble, ils ont validé la stratégie de développement de ce framework, et favorisé le bon usage en fonction des cas d’application afin de réduire les temps de développement de nouvelles applications web tout en respectant les standards du marché et les référentiels de l’État.
 
 ## Comment solliciter une mission de conseil ?
 **Par courriel**
+{: .bleue .margin-0  }
 Adressez votre demande [**par courriel**](mailto:sec-directeur.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
 
 **Zéro processus administratif**
+{: .bleue .margin-0  }
 pour déclencher une mission de conseil. Il s’agit d’un accord entre
 le DINUM et le directeur demandeur.
 
 **C’est gratuit**
+{: .bleue .margin-0  }
 Dans un premier temps, l’offre de conseil est proposée à titre gratuit, à l’exception des consultants externes éventuellement mobilisés en complément des intervenants de la DINUM.
 
 **4 BONNES RAISONS**
