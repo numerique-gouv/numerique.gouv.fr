@@ -112,7 +112,7 @@ L’échange des données entre administrations devient automatique pour ces dé
 * Demande de prime d’activité
 * Aide au logement étudiant
 * Demande ou renouvellement de logement social
-* Recensement citoyen obligatoire.
+* Recensement citoyen obligatoire
 
 
 > ## Comment nous solliciter ?
