@@ -1,15 +1,14 @@
 ---
-title: Offre de services
-permalink: "/offre-de-services/"
-published: false
+title: Produits et services
+permalink: "/produits-services/"
 une:
-  image: "/assets/img/main/image_liste_actualites_2.jpg"
-  alternative-textuelle: image Offre de services
+  image: "/uploads/Produits-et-services.jpg"
+  alternative-textuelle: 
 publications:
-- title: test test
-  url: "/offre-de-services/test/"
+- title: Conseil et accompagnement au cadrage et pilotage de projets numériques
+  url: "/produits-services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/"
   une-ou-diaporama:
-  - image: "/uploads/Publication_TECHGOUV.jpg"
+  - image: "/uploads/office-1209640_1920.jpg"
 layout: publications
 ---
 
