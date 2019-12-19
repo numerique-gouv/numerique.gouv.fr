@@ -1,7 +1,6 @@
 ---
-title: |-
-  Guichet Dites-le-nous une fois - Accompagnement pour la circulation et
-  l’exploitation de la donnée
+title: Guichet Dites-le-nous une fois - Accompagnement pour la circulation et l’exploitation
+  de la donnée
 date: 2019-12-17 17:35:00 +01:00
 tags:
 - offre de services
@@ -13,6 +12,8 @@ chapeau-text: |-
   automatique de données via des API.
 
   **Pour en accélérer l’application, la DINUM propose une offre d’accompagnement sur-mesure aux administrations.**
+une-ou-diaporama:
+- image: "/uploads/guichet-dlnuf-une.png"
 layout: rgaa
 ---
 
