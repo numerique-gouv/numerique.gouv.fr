@@ -122,7 +122,7 @@ Nous avons mobilisé des experts en architecture technique et applicative qui on
 
 ## 4 BONNES RAISONS
 {: .text-center .margin-bottom-0 .margin-top-3}
-<br>de recourir à l’offre de conseil de la DINUM
+de recourir à l’offre de conseil de la DINUM
 {: .text-center}
 
 **1.** **Activez facilement et rapidement** un dispositif d’aide pragmatique, sans aucune formalité administrative.
