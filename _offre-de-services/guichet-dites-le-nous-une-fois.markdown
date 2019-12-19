@@ -122,7 +122,7 @@ L’échange des données entre administrations devient automatique pour ces dé
 > **Par courriel**
 > {: .bleue .margin-0}
 > Adressez votre demande sur à cette adresse :
-dlnuf.dinum@modernisation.gouv.fr en précisant le contexte et votre besoin.
+[dlnuf.dinum@modernisation.gouv.fr](mailto:dlnuf.dinum@modernisation.gouv.fr) en précisant le contexte et votre besoin.
 {: .noir .encadre}
 
 ## 3 BONNES RAISONS
