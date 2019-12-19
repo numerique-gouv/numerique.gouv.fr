@@ -87,7 +87,10 @@ Dans un premier temps, l’offre de conseil est proposée à titre gratuit, à l
 <br>de recourir à l’offre de conseil de la DINUM
 {: .text-center}
 
-1. Activez facilement et rapidement un dispositif d’aide pragmatique, sans aucune formalité administrative.
-2. Collaborez avec le référent de la stratégie numérique de l’État qui vous conseillera en cohérence avec celle-ci sur vos choix technologiques, en toute indépendance.
-3. Bénéficiez d’un appui pluridisciplinaire au contact d’experts de l’État aux parcours professionnels variés (différentes administrations, secteur privé — industriels, sociétés de services…), capitalisant sur une expérience interministérielle.
-4. Profitez d’un tiers de confiance capable de fluidifier les relations entre différents acteurs de l’administration, de pointer et faire remonter les irritants d’un projet aux bonnes personnes, dans une posture neutre et sans parti pris, afin de faciliter et accélérer leur résolution.
+**1.** Activez facilement et rapidement un dispositif d’aide pragmatique, sans aucune formalité administrative.
+
+**2.** Collaborez avec le référent de la stratégie numérique de l’État qui vous conseillera en cohérence avec celle-ci sur vos choix technologiques, en toute indépendance.
+
+**3.** Bénéficiez d’un appui pluridisciplinaire au contact d’experts de l’État aux parcours professionnels variés (différentes administrations, secteur privé — industriels, sociétés de services…), capitalisant sur une expérience interministérielle.
+
+**4.** Profitez d’un tiers de confiance capable de fluidifier les relations entre différents acteurs de l’administration, de pointer et faire remonter les irritants d’un projet aux bonnes personnes, dans une posture neutre et sans parti pris, afin de faciliter et accélérer leur résolution.
