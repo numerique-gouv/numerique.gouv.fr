@@ -47,7 +47,7 @@ ministeres:
   - avis:
     - description: Modernisation des centres d’information et de commandement
       file: "/uploads/mcic2_2017_art_3.pdf"
-      titre: MCIC2 -2017
+      titre: 'MCIC2 '
     - description: Gestion du recouvrement forcé des amendes forfaitaires majorées
       file: "/uploads/rocade_art_3.pdf"
       titre: Rocade
