@@ -40,11 +40,26 @@ ministeres:
   titre: Services du Premier ministre
 - annees:
   - avis:
+    - description: Modernisation des centres d’information et de commandement
+      file: "/uploads/mcic2_2018_art_3.pdf"
+      titre: 'MCIC2 '
+    date-annee: 2018
+  - avis:
+    - description: Modernisation des centres d’information et de commandement
+      file: "/uploads/mcic2_2017_art_3.pdf"
+      titre: 'MCIC2 '
     - description: Gestion du recouvrement forcé des amendes forfaitaires majorées
       file: "/uploads/rocade_art_3.pdf"
       titre: Rocade
     date-annee: 2017
   - avis:
+    - description: Plateforme convergée de la police et de la gendarmerie pour des
+        services à très haut débit
+      file: "/uploads/pc_storm_art_3.pdf"
+      titre: 'PC Storm '
+    - description: Mobilité des forces de sécurité intérieure
+      file: "/uploads/neopol_neogend_art_3.pdf"
+      titre: 'NEOPOL-NEOGEND '
     - description: Commission du contentieux du stationnement payant
       file: "/uploads/ccsp_2016_art_3.pdf"
       titre: CCSP - DESTA
@@ -63,6 +78,11 @@ ministeres:
   image: "/assets/img/avis-conformes/ministeredeinterieur1_ok_0.jpg"
   titre: Ministère de l'Intérieur
 - annees:
+  - avis:
+    - description: Supercalculateur de Météo-France
+      file: "/uploads/projet_2020_art_3.pdf"
+      titre: 'Calcul 2020 '
+    date-annee: 2018
   - avis:
     - description: Adaptation technique de la plate-forme d'hébergement en charge
         de la diffusion des données géographiques
@@ -111,6 +131,19 @@ ministeres:
   image: "/assets/img/avis-conformes/ministereaffairesetrangeres2._ok.jpg"
   titre: Ministère de l'Europe et des Affaires étrangères
 - annees:
+  - avis:
+    - description: SI de gestion des réservistes
+      file: "/uploads/roc_rcserves_2019_art_3.pdf"
+      titre: ROC
+    date-annee: 2018
+  - avis:
+    - description: Système d'information archivistique
+      file: "/uploads/archipelng_art_3.PDF"
+      titre: 'ARCHIPEL '
+    - description: Système d'information archivistique
+      file: "/uploads/archipelng_v2_art_3.pdf"
+      titre: ARCHIPEL NG V2
+    date-annee: 2017
   - avis:
     - description: Gestion RH de proximité en soutien de groupement de base de défense
       file: "/uploads/sourceweb_art_3.pdf"
@@ -167,11 +200,25 @@ ministeres:
     du Travail
 - annees:
   - avis:
+    - description: Ciblage de la fraude et valorisation des requêtes
+      file: "/uploads/cfvr_art_3.pdf"
+      titre: CFVR
+    date-annee: 2019
+  - avis:
+    - description: Déclaration sociale nominative pour la fonction publique
+      file: "/uploads/dsn_fpe_2018_art_3.pdf"
+      titre: DSN FPE « Concentrateur DSN »
+    date-annee: 2018
+  - avis:
     - description: PAS
       file: "/uploads/pas_art_3.pdf"
       titre: Prélèvement à la source
     date-annee: 2017
   - avis:
+    - description: Construction et déploiement d'une solution à même de consolider
+        et retraiter des données RH
+      file: "/uploads/dsn_fpe_2016_art_3.pdf"
+      titre: DSN FPE
     - description: Modernisation des applicatifs de service bancaire du Trésor Public
       file: "/uploads/mistral_art_3.pdf"
       titre: Mistral
@@ -262,4 +309,4 @@ C'est l'une des missions assignées à la DINUM : sécuriser les grands projets 
 
 Chaque avis est accompagné, le cas échéant, de recommandations mettant en avant les axes d'améliorations à prendre en compte pour le bon déroulement du projet. Tous les projets déclarés conformes sont ensuite suivis dans le [panorama des grands projets du SI de l’État](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/) que la DINUM publie depuis novembre 2016.
 
-Dans une volonté de transparence et d’ouverture, et dans la continuité de la loi pour une République numérique, la liste de ces avis sera régulièrement mise à jour. Les avis des projets classifiés ne sont pas publiés et ceux de projets faisant l’objet de procédures d’appel d’offre à venir le seront en différé. Retrouvez également sur [data.gouv.fr l'intégralité des documents](https://www.data.gouv.fr/fr/datasets/publication-des-avis-dinsic-articles-3-et-7/) (avis + annexes) en formats .file et .odt.
+Dans une volonté de transparence et d’ouverture, et dans la continuité de la loi pour une République numérique, la liste de ces avis sera régulièrement mise à jour. Les avis des projets classifiés ne sont pas publiés et ceux de projets faisant l’objet de procédures d’appel d’offre à venir le seront en différé. Retrouvez également sur [data.gouv.fr l'intégralité des documents](https://www.data.gouv.fr/fr/datasets/publication-des-avis-dinsic-articles-3-et-7/) (avis + annexes) en formats .odt et .pdf.
