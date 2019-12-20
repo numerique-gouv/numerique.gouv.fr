@@ -132,6 +132,19 @@ ministeres:
   titre: Ministère de l'Europe et des Affaires étrangères
 - annees:
   - avis:
+    - description: SI de gestion des réservistes
+      file: "/uploads/roc_rcserves_2019_art_3.pdf"
+      titre: ROC
+    date-annee: 2018
+  - avis:
+    - description: Système d'information archivistique
+      file: "/uploads/archipelng_art_3.PDF"
+      titre: 'ARCHIPEL '
+    - description: Système d'information archivistique
+      file: "/uploads/archipelng_v2_art_3.pdf"
+      titre: ARCHIPEL NG V2
+    date-annee: 2017
+  - avis:
     - description: Gestion RH de proximité en soutien de groupement de base de défense
       file: "/uploads/sourceweb_art_3.pdf"
       titre: Source Web
