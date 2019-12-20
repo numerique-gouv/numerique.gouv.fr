@@ -32,7 +32,7 @@ layout: rgaa
 {: .margin-bottom-1}
 Assuré directement par des experts de la DINUM, notre appui porte sur 3 dimensions.
 
-### Le cadre légal
+### Cadrage
 {: .margin-bottom-1 .margin-top-3}
 **Appui méthodologique**
 {: .bleue .margin-0}
