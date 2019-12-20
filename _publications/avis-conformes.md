@@ -48,12 +48,18 @@ ministeres:
     - description: Gestion du recouvrement forcé des amendes forfaitaires majorées
       file: "/uploads/rocade_art_3.pdf"
       titre: Rocade
+    - description: Modernisation des centres d’information et de commandement
+      file: "/uploads/mcic2_2017_art_3.pdf"
+      titre: MCIC2 -2017
     date-annee: 2017
   - avis:
     - description: Plateforme convergée de la police et de la gendarmerie pour des
         services à très haut débit
       file: "/uploads/pc_storm_art_3.pdf"
       titre: 'PC Storm '
+    - description: Mobilité des forces de sécurité intérieure
+      file: "/uploads/neopol_neogend_art_3.pdf"
+      titre: 'NEOPOL-NEOGEND '
     - description: Commission du contentieux du stationnement payant
       file: "/uploads/ccsp_2016_art_3.pdf"
       titre: CCSP - DESTA
