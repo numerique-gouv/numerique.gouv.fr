@@ -40,11 +40,20 @@ ministeres:
   titre: Services du Premier ministre
 - annees:
   - avis:
+    - description: Modernisation des centres d’information et de commandement
+      file: "/uploads/mcic2_2018_art_3.pdf"
+      titre: MCIC2 -2018
+    date-annee: 2018
+  - avis:
     - description: Gestion du recouvrement forcé des amendes forfaitaires majorées
       file: "/uploads/rocade_art_3.pdf"
       titre: Rocade
     date-annee: 2017
   - avis:
+    - description: Plateforme convergée de la police et de la gendarmerie pour des
+        services à très haut débit
+      file: "/uploads/pc_storm_art_3.pdf"
+      titre: 'PC Storm '
     - description: Commission du contentieux du stationnement payant
       file: "/uploads/ccsp_2016_art_3.pdf"
       titre: CCSP - DESTA
