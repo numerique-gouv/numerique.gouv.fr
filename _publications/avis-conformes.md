@@ -42,7 +42,7 @@ ministeres:
   - avis:
     - description: Modernisation des centres d’information et de commandement
       file: "/uploads/mcic2_2018_art_3.pdf"
-      titre: MCIC2 -2018
+      titre: 'MCIC2 '
     date-annee: 2018
   - avis:
     - description: Modernisation des centres d’information et de commandement
