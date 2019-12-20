@@ -45,12 +45,12 @@ ministeres:
       titre: MCIC2 -2018
     date-annee: 2018
   - avis:
-    - description: Gestion du recouvrement forcé des amendes forfaitaires majorées
-      file: "/uploads/rocade_art_3.pdf"
-      titre: Rocade
     - description: Modernisation des centres d’information et de commandement
       file: "/uploads/mcic2_2017_art_3.pdf"
       titre: MCIC2 -2017
+    - description: Gestion du recouvrement forcé des amendes forfaitaires majorées
+      file: "/uploads/rocade_art_3.pdf"
+      titre: Rocade
     date-annee: 2017
   - avis:
     - description: Plateforme convergée de la police et de la gendarmerie pour des
