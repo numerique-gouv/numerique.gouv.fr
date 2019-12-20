@@ -187,11 +187,25 @@ ministeres:
     du Travail
 - annees:
   - avis:
+    - description: Ciblage de la fraude et valorisation des requêtes
+      file: "/uploads/cfvr_art_3.pdf"
+      titre: CFVR
+    date-annee: 2019
+  - avis:
+    - description: Déclaration sociale nominative pour la fonction publique
+      file: "/uploads/dsn_fpe_2018_art_3.pdf"
+      titre: DSN FPE « Concentrateur DSN »
+    date-annee: 2018
+  - avis:
     - description: PAS
       file: "/uploads/pas_art_3.pdf"
       titre: Prélèvement à la source
     date-annee: 2017
   - avis:
+    - description: Construction et déploiement d'une solution à même de consolider
+        et retraiter des données RH
+      file: "/uploads/dsn_fpe_2016_art_3.pdf"
+      titre: DSN FPE
     - description: Modernisation des applicatifs de service bancaire du Trésor Public
       file: "/uploads/mistral_art_3.pdf"
       titre: Mistral
