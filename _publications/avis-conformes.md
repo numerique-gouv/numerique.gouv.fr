@@ -64,6 +64,11 @@ ministeres:
   titre: Ministère de l'Intérieur
 - annees:
   - avis:
+    - description: Supercalculateur de Météo-France
+      file: "/uploads/projet_2020_art_3.pdf"
+      titre: 'Calcul 2020 '
+    date-annee: 2018
+  - avis:
     - description: Adaptation technique de la plate-forme d'hébergement en charge
         de la diffusion des données géographiques
       file: "/uploads/geoportail_de_lign_art_3.pdf"
@@ -262,4 +267,4 @@ C'est l'une des missions assignées à la DINUM : sécuriser les grands projets 
 
 Chaque avis est accompagné, le cas échéant, de recommandations mettant en avant les axes d'améliorations à prendre en compte pour le bon déroulement du projet. Tous les projets déclarés conformes sont ensuite suivis dans le [panorama des grands projets du SI de l’État](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/) que la DINUM publie depuis novembre 2016.
 
-Dans une volonté de transparence et d’ouverture, et dans la continuité de la loi pour une République numérique, la liste de ces avis sera régulièrement mise à jour. Les avis des projets classifiés ne sont pas publiés et ceux de projets faisant l’objet de procédures d’appel d’offre à venir le seront en différé. Retrouvez également sur [data.gouv.fr l'intégralité des documents](https://www.data.gouv.fr/fr/datasets/publication-des-avis-dinsic-articles-3-et-7/) (avis + annexes) en formats .file et .odt.
+Dans une volonté de transparence et d’ouverture, et dans la continuité de la loi pour une République numérique, la liste de ces avis sera régulièrement mise à jour. Les avis des projets classifiés ne sont pas publiés et ceux de projets faisant l’objet de procédures d’appel d’offre à venir le seront en différé. Retrouvez également sur [data.gouv.fr l'intégralité des documents](https://www.data.gouv.fr/fr/datasets/publication-des-avis-dinsic-articles-3-et-7/) (avis + annexes) en formats .odt et .pdf.
