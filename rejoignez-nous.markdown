@@ -38,20 +38,17 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343&nbsp;ko)
+* [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - S'ouvre dans un nouvel onglet") 
 <br>Cadre/Catégorie A
 
-* [**Directeur/Directrice de projet**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343&nbsp;ko)
-<br>Cadre/Catégorie A
-
-* [**Lead developer FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343&nbsp;ko)
+* [**Lead developer FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 344&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>
 <br>
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
-* [**Chef/Cheffe du pôle « Architecture et sécurité »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=204eceb3-15b7-45de-a244-85b0a28f79f0&offerid=294685 "Chef/Cheffe du pôle « Architecture et sécurité » - Télécharger le pdf") (pdf - 355&nbsp;ko)
+* [**Chef/Cheffe du pôle « Architecture et sécurité »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=204eceb3-15b7-45de-a244-85b0a28f79f0&offerid=294685 "Chef/Cheffe du pôle « Architecture et sécurité » - Télécharger le pdf") (pdf - 347&nbsp;ko)
 <br>Cadre supérieur/Catégorie A+
 <br>
 <br>
@@ -62,11 +59,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br> Catégorie B
 <br>
 <br>
-
-#### **Autres fonctions transverses**
-{: .margin-top-4 .margin-bottom-1}
-* [**Gestionnaire de connaissances / documentaliste numérique (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=80fbcf46-1eea-41eb-ac67-42ee1fe9ab1e&offerid=287527 "Gestionnaire de connaissances / documentaliste numérique (F/H) - Télécharger le pdf") (pdf - 323&nbsp;ko)
-<br> Cadre/Catégorie A
 
 
 > ### Et aussi, dans les ministères…<a id="offresministères"></a> 
