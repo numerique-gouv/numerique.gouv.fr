@@ -2,7 +2,7 @@
 title: 'Design public – Meetup #3'
 date: 2020-01-09 10:37:00 +01:00
 categories:
-- meetup
+- Meetup
 tags:
 - UX design
 - Entrepreneur d'Intérêt Général
@@ -25,11 +25,11 @@ champs_informations:
     nécessaire de le télécharger sur votre smartphone.
 ---
 
-La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 3ème meetup Design Public organisé par des designers travaillant au sein de projets de la fonction publique.
+La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 3e meetup Design Public organisé par des designers travaillant sur des projets de la fonction publique.
 
-Ce meet-up est un moment d'échange, pour restituer des travaux et partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15min chacun). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une heure... et plus si affinité.
+Ce meetup est un moment d'échanges, pour restituer des travaux et partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15 minutes chacun). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une heure... et plus si affinités !
 
-Ce 3ème meetup sera axé sur l'**accueil et l'accès aux droits**. Les projets présentés seront les suivants :
+Ce 3e meetup sera axé sur l'**accueil et l'accès aux droits**. Les projets présentés seront les suivants :
 
 * **[Résorption bidonvilles](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/resorption-bidonvilles.html)** : Connaître, partager et agir pour résorber les bidonvilles en France, par [Laure Dubuc](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/laure-dubuc.html)
 * **[Vigicr'UX](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/vigicrux.html)** : Mieux informer les citoyens sur les risques de crues, par [Flavien Colsenet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/flavien-colsenet.html)
