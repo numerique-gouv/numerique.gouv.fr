@@ -49,11 +49,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-#### **Data / Intelligence artificielle**
-{: .margin-top-4 .margin-bottom-1} 
-<br>
-<br>
-
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
 * [**Chef/Cheffe du pôle « Architecture et sécurité »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=204eceb3-15b7-45de-a244-85b0a28f79f0&offerid=294685 "Chef/Cheffe du pôle « Architecture et sécurité » - Télécharger le pdf") (pdf - 355ko)
@@ -72,9 +67,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-1}
 * [**Gestionnaire de connaissances / documentaliste numérique (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=80fbcf46-1eea-41eb-ac67-42ee1fe9ab1e&offerid=287527 "Gestionnaire de connaissances / documentaliste numérique (F/H) - Télécharger le pdf") (pdf - 323&nbsp;ko)
 <br> Cadre/Catégorie A
-
-* [**Assistant/Assistante utilisateur informatique**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91a2e710-f1b2-44d3-b8fd-6b67b4704573&offerid=285503 "Assistant/Assistante utilisateur informatique - Télécharger le pdf") (pdf - 530&nbsp;ko)
-<br> Catégorie B 
 
 
 > ### Et aussi, dans les ministères…<a id="offresministères"></a> 
