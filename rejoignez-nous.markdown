@@ -82,7 +82,7 @@ Zoom sur quelques postes dans le numérique public :
 <br>
 <br>
 >
-**Ministère des armées**
+**Ministère des Armées**
 * [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343ko)
 <br>Cadre/Catégorie A
 >{: .margin-bottom-1}
