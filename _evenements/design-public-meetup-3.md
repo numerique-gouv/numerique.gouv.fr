@@ -11,7 +11,7 @@ tags:
 chapeau-text: Nous vous donnons rendez-vous le mercredi 22 janvier à 18h30 au Lieu
   de la transformation publique, à Paris, pour une 3e rencontre autour du design public.
 une-ou-diaporama:
-- image: "/uploads/design_public_meetup_3.jpg"
+- image: "/uploads/designer_public_meetup_3.jpg"
 event_start_date: 2020-01-22 17:30:00 +01:00
 lieu: Lieu de la transformation publique
 adresse: "77 avenue de Ségur \n75015 Paris "
