@@ -1,17 +1,17 @@
 ---
 title: 'Design public – Meetup #3'
-date: 2020-01-09 11:37:00 +02:00
+date: 2020-01-09 10:37:00 +01:00
 categories:
 - meetup
 tags:
 - UX design
 - Entrepreneur d'Intérêt Général
 - Designers d'Intérêt Général
-chapeau-text: Rendez-vous le 22 janvier au troisième meetup Design Public organisé par
-  des designers travaillant au sein de projets de la fonction publique.
+chapeau-text: Rendez-vous le 22 janvier au troisième meetup Design Public organisé
+  par des designers travaillant au sein de projets de la fonction publique.
 une-ou-diaporama:
 - image: "/uploads/designer_public_meetup_3.jpg"
-event_start_date: 2020-01-22 18:30:00 +02:00
+event_start_date: 2020-01-22 17:30:00 +01:00
 lieu: Lieu de la Transformation Publiques
 adresse: "77 avenue de Ségur \n75015 Paris "
 champs_informations:
