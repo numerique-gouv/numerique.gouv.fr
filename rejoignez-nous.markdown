@@ -28,7 +28,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Chargé/Chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=01061122-e9d1-4963-9f53-f0063f163bf1&offerid=294670 "Chargé/Chargée de mission numérique et territoires – Télécharger le pdf") (pdf - 359ko) 
+* [**Chargé/Chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=01061122-e9d1-4963-9f53-f0063f163bf1&offerid=294670 "Chargé/Chargée de mission numérique et territoires – Télécharger le pdf") (pdf - 359&nbsp;ko) 
 <br>Cadre/Catégorie A
 
 * [**Chargé/Chargée de mission « UX / design de services numériques »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=3100bc53-f17c-44e1-98b4-cb4f47bc1df8&offerid=288835 "Chargé/Chargée de mission « UX / design de services numériques » - Télécharger le pdf") (pdf - 450&nbsp;ko)
@@ -38,20 +38,20 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343ko)
+* [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343&nbsp;ko)
 <br>Cadre/Catégorie A
 
-* [**Directeur/Directrice de projet**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343ko)
+* [**Directeur/Directrice de projet**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343&nbsp;ko)
 <br>Cadre/Catégorie A
 
-* [**Lead developer FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343ko)
+* [**Lead developer FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 343&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>
 <br>
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
-* [**Chef/Cheffe du pôle « Architecture et sécurité »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=204eceb3-15b7-45de-a244-85b0a28f79f0&offerid=294685 "Chef/Cheffe du pôle « Architecture et sécurité » - Télécharger le pdf") (pdf - 355ko)
+* [**Chef/Cheffe du pôle « Architecture et sécurité »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=204eceb3-15b7-45de-a244-85b0a28f79f0&offerid=294685 "Chef/Cheffe du pôle « Architecture et sécurité » - Télécharger le pdf") (pdf - 355&nbsp;ko)
 <br>Cadre supérieur/Catégorie A+
 <br>
 <br>
@@ -75,7 +75,7 @@ Zoom sur quelques postes dans le numérique public :
 <br>
 >
 **Ministère des Armées**
-* [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343ko)
+* [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343&nbsp;ko)
 <br>Cadre/Catégorie A
 >{: .margin-bottom-1}
 <br>
