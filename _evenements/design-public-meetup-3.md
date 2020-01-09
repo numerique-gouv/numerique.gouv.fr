@@ -5,14 +5,15 @@ categories:
 - Meetup
 tags:
 - UX design
-- Entrepreneur d'Intérêt Général
 - Designers d'Intérêt Général
-chapeau-text: Rendez-vous le 22 janvier au troisième meetup Design Public organisé
-  par des designers travaillant au sein de projets de la fonction publique.
+- Entrepreneurs d'Intérêt Général
+- Design public
+chapeau-text: Nous vous donnons rendez-vous le mercredi 22 janvier à 18h30 au Lieu
+  de la transformation publique, à Paris, pour une 3e rencontre autour du design public.
 une-ou-diaporama:
 - image: "/uploads/design_public_meetup_3.jpg"
 event_start_date: 2020-01-22 17:30:00 +01:00
-lieu: Lieu de la Transformation Publiques
+lieu: Lieu de la transformation publique
 adresse: "77 avenue de Ségur \n75015 Paris "
 champs_informations:
 - intitule: 'Horaires '
@@ -29,13 +30,12 @@ La direction interministérielle du numérique (DINUM) a le plaisir de vous conv
 
 Ce meetup est un moment d'échanges, pour restituer des travaux et partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15 minutes chacun). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une heure... et plus si affinités !
 
-Ce 3e meetup sera axé sur l'**accueil et l'accès aux droits**. Les projets présentés seront les suivants :
+### Au programme
+Thème de ce 3e meetup : **solidarités et gestion de l'urgence**. 
+Les designers, issus du programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/), présentés seront les suivants :
 
 * **[Résorption bidonvilles](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/resorption-bidonvilles.html)** : Connaître, partager et agir pour résorber les bidonvilles en France, par [Laure Dubuc](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/laure-dubuc.html)
 * **[Vigicr'UX](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/vigicrux.html)** : Mieux informer les citoyens sur les risques de crues, par [Flavien Colsenet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/flavien-colsenet.html)
 * **[Plateforme Handicap](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/plateforme-handicap.html)** : Simplifier le parcours des familles dont les enfants sont en situation de handicap, par [Sofia Boulaarab](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/sofia-boulaarab.html) et [Pierre Charreau](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/pierre-charreau.html)
 * **[App 112](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/app-112.html)** : Aider à sauver des vies en situation d'urgence, par [Julien Dubedout](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/julien-dubedout.html)
 
-
-
-Nous vous donnons rendez-vous le mercredi 22 janvier à 18h30 au Lieu de la Transformation Publique au 77, av de Segur à Paris.
