@@ -57,7 +57,7 @@ d’utiliser la webconférence de l’État
 {: .noir .encadre}
 
 
-[![Utilisez la webconférence de l’État)](capture-webinaire-webconf.png](/uploads/capture-webinaire-webconf.png)](https://webconf.numerique.gouv.fr/ "Utilisez la webconférence de l’État")
+[![Utilisez la webconférence de l’État)](/uploads/capture-webinaire-webconf.png)](https://webconf.numerique.gouv.fr/ "Utilisez la webconférence de l’État")
 {: .text-center}
 > [Utilisez la webconférence de l’État](https://webconf.numerique.gouv.fr/)
 {: .lien-important}
