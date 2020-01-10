@@ -9,11 +9,13 @@ tags:
 - environnement de travail numérique de l'agent
 chapeau-text: L’État met à la disposition de tous ses agents un service de webconférence
   interministériel pour favoriser la coopération des équipes et le travail à distance.
+une-ou-diaporama:
+- image: "/uploads/page-webconf.png"
 ---
 
 ## Un outil interactif polyvalent
 
-Vous avez besoin d’organiser à distance des réunions, des conférences, des présentations ou des formations ? L’outil de webconférence webconf.numerique.gouv.fr vous permet de faire tout cela !
+Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations ou des formations** ? L’outil de webconférence webconf.numerique.gouv.fr vous permet de faire tout cela !
 
 Les participants peuvent :
 
@@ -21,12 +23,12 @@ Les participants peuvent :
 * diffuser une présentation,
 * partager la fenêtre d’un programme sur leur ordinateur,
 * discuter en instantané via un tchat intégré,
-* travailler sur un document partagé,
+* éditer un texte en mode collaboratif et en temps réel,
 * …
 
 ## Ouvert aux agents de l’État et à leurs interlocuteurs
 
-Tout agent de l’État, connecté au réseau interministériel de l’Etat (RIE), peut créer librement un salon de webconférence. Il lui suffit ensuite d’en partager le lien unique aux participants, qu’ils soient de l’administration ou de l’extérieur (partenaires, prestataires, entreprises, citoyens…).
+Tout agent de l’État, connecté au réseau interministériel de l’État (RIE), peut créer librement un salon de webconférence. Il lui suffit ensuite d’en partager le lien unique aux participants, qu’ils soient de l’administration ou de l’extérieur (partenaires, prestataires, entreprises, citoyens…).
 
 ## Confidentialité des échanges
 
