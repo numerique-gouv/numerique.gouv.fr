@@ -36,7 +36,6 @@ Tout agent de l’État, connecté au réseau interministériel de l’État (RI
 L’État a choisi de créer et d’opérer sa propre solution de webconférence, hébergée sur ses serveurs : cette maîtrise, associée à un chiffrement des données via un protocole sécurisé, apporte davantage de garanties sur la confidentialité des échanges.
 
 ## 3 BONNES RAISONS
-
 {: .text-center .margin-bottom-0 .margin-top-3}
 d’utiliser la webconférence de l’État
 {: .text-center}
