@@ -16,7 +16,7 @@ layout: rgaa
 
 ### Un outil interactif polyvalent
 {: .margin-bottom-1 .margin-top-3}
-Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations, des formations ou des webinaires** ? L’outil de webconférence webconf.numerique.gouv.fr vous permet de faire tout cela !
+Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations, des formations ou des webinaires** ? Le service de webconférence webconf.numerique.gouv.fr vous permet de faire tout cela !
 
 Les participants peuvent :
 
@@ -53,7 +53,7 @@ d’utiliser la webconférence de l’État
 > * un ordinateur connecté à Internet (et au RIE si vous devez créer le salon),
 > * un simple navigateur web (de préférence Chrome, Chromium, ou Firefox),
 > * une webcam,
-> * un micro et des hauts-parleurs, ou un casque avec micro intégré.
+> * un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
 {: .noir .encadre}
 
 *La webconférence de l’État est un service interministériel opéré par le ministère de la Transition écologique et solidaire. Il a été réalisé dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d'accélération de la transformation numérique du service public, piloté par la direction interministérielle du numérique (DINUM).*
