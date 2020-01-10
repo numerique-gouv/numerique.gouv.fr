@@ -18,7 +18,7 @@ layout: rgaa
 <img src="/uploads/swiss-army-knife_bleu.png"/>
 </figure>## Un outil interactif polyvalent
 {: .margin-bottom-1}
-Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations, des formations ou des webinaires** ? Le service de webconférence [webconf.numerique.gouv.fr](https://webconf.numerique.gouv.fr) vous permet de faire tout cela !
+Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations, des formations ou des webinaires** ? Le service de webconférence [**webconf.numerique.gouv.fr**](https://webconf.numerique.gouv.fr) vous permet de faire tout cela !
 
 Les participants peuvent :
 
