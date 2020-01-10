@@ -15,7 +15,7 @@ publications:
   une-ou-diaporama:
   - image: "/uploads/guichet-dlnuf-hub.jpg"
 - title: 'Webconférence de l’État '
-  url: produits-services/webconference-etat/
+  url: "/produits-services/webconference-etat/"
   une-ou-diaporama:
   - image: "/uploads/webconf-rubrique.jpg"
 layout: publications
