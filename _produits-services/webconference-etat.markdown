@@ -29,12 +29,14 @@ Les participants peuvent :
 * éditer un texte en mode collaboratif et en temps réel,
 * …
 <br>
+<br>
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/group-bleu.png"/>
 </figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
 {: .margin-bottom-1}
 Tout agent de l’État, connecté au réseau interministériel de l’État (RIE), peut créer librement un salon de webconférence. Il lui suffit ensuite d’en partager le lien unique aux participants, qu’ils soient de l’administration ou de l’extérieur (partenaires, prestataires, entreprises, citoyens…).
+<br>
 <br>
 
 <figure class='image-left' style='width: 6%;'>
