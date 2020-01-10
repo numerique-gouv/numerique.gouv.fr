@@ -66,3 +66,10 @@ d’utiliser la webconférence de l’État
 *La webconférence de l’État est un service interministériel opéré par le ministère de la Transition écologique et solidaire. Il a été réalisé dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d'accélération de la transformation numérique du service public, piloté par la direction interministérielle du numérique (DINUM).*
 
 *La solution s’appuie sur le logiciel libre [Jitsi](https://jitsi.org/).*
+
+<a href="https://webconf.numerique.gouv.fr/"><img class='image-center' style='width: 25%;'>
+  <img src="/uploads/capture-webinaire-webconf.png" alt="Utilisez la webconférence de l’État"/>
+</img></a>
+{: .text-center}
+> [Utilisez la webconférence de l’État](https://webconf.numerique.gouv.fr/)
+{: .lien-important}
