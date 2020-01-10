@@ -47,25 +47,26 @@ Tout agent de l’État, connecté au réseau interministériel de l’État (RI
 {: .margin-bottom-1}
 L’État a choisi de créer et d’opérer sa propre solution de webconférence, hébergée sur ses serveurs : cette maîtrise, associée à un chiffrement des données via un protocole sécurisé, apporte davantage de garanties sur la confidentialité des échanges.
 
-> ## 3 BONNES RAISONS
-> {: .text-center .margin-bottom-0 .margin-top-3}
-> d’utiliser la webconférence de l’État
-> {: .text-center}
+## 3 BONNES RAISONS
+{: .text-center .margin-bottom-0 .margin-top-3}
+d’utiliser la webconférence de l’État
+{: .text-center}
+
+**1. Service opéré par l’État,** hébergé sur ses serveurs en France
+
+**2. Confidentialité des échanges** garantie par le chiffrement
+
+**3. De nombreuses fonctionnalités :** audio, vidéo, tchat, partage d'écran, édition collaborative de documents…
+
+
+> ### Quel matériel nécessaire ?
 > 
-> **1. Service opéré par l’État,** hébergé sur ses serveurs en France
-> 
-> **2. Confidentialité des échanges** garantie par le chiffrement
-> 
-> **3. De nombreuses fonctionnalités :** audio, vidéo, tchat, partage d'écran, édition collaborative de documents…
+> Pour utiliser l’outil de webconférence de l’État, il vous suffit de disposer du matériel suivant :
+> * un ordinateur connecté à Internet (et au RIE si vous devez créer le salon),
+> * un simple navigateur web (de préférence Chrome, Chromium, ou Firefox),
+> * une webcam,
+> * un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
 {: .noir .encadre}
-
-### Quel matériel nécessaire ?
-
-Pour utiliser l’outil de webconférence de l’État, il vous suffit de disposer du matériel suivant :
-* un ordinateur connecté à Internet (et au RIE si vous devez créer le salon),
-* un simple navigateur web (de préférence Chrome, Chromium, ou Firefox),
-* une webcam,
-* un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
 <br>
 
 <a href="https://webconf.numerique.gouv.fr/"><img src="/uploads/capture-webinaire-webconf.png" width="200" alt="Accédez au service de webconférence de l’État"/>
