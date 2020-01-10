@@ -16,7 +16,7 @@ layout: rgaa
 
 <br>
 
-<figure class='image-left' style='width: 6%;'>
+<figure class='image-left' style='width: 7%;'>
 <img src="/uploads/swiss-army-knife_bleu.png"/>
 </figure>## Un outil interactif polyvalent
 {: .margin-bottom-1}
