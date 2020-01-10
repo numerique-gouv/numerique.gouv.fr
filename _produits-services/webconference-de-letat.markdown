@@ -14,18 +14,14 @@ chapeau-text: L’État met à la disposition de tous ses agents un service de w
 ## Un outil interactif polyvalent
 
 Vous avez besoin d’organiser à distance des réunions, des conférences, des présentations ou des formations ? L’outil de webconférence webconf.numerique.gouv.fr vous permet de faire tout cela !
+
 Les participants peuvent :
 
-* échanger en visioconférence (audio et vidéo),
-
+* échanger à distance en audio et vidéo,
 * diffuser une présentation,
-
 * partager la fenêtre d’un programme sur leur ordinateur,
-
 * discuter en instantané via un tchat intégré,
-
 * travailler sur un document partagé,
-
 * …
 
 ## Ouvert aux agents de l’État et à leurs interlocuteurs
