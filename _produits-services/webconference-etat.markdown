@@ -16,7 +16,7 @@ layout: rgaa
 
 ### Un outil interactif polyvalent
 {: .margin-bottom-1 .margin-top-3}
-Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations, des formations ou des webinaires** ? Le service de webconférence webconf.numerique.gouv.fr vous permet de faire tout cela !
+Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations, des formations ou des webinaires** ? Le service de webconférence [webconf.numerique.gouv.fr](https://webconf.numerique.gouv.fr) vous permet de faire tout cela !
 
 Les participants peuvent :
 
