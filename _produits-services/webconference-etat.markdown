@@ -68,7 +68,7 @@ d’utiliser la webconférence de l’État
 *La solution s’appuie sur le logiciel libre [Jitsi](https://jitsi.org/).*
 
 <a href="https://webconf.numerique.gouv.fr/"><img src="/uploads/capture-webinaire-webconf.png" width="200" alt="Accédez au service de webconférence de l’État"/>
-</img></a>
+</a>
 {: .text-center}
 > [Accédez au service de webconférence de l’État](https://webconf.numerique.gouv.fr/)
 {: .lien-important}
