@@ -56,7 +56,6 @@ d’utiliser la webconférence de l’État
 > * un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
 {: .noir .encadre}
 <br>
-<br>
 
 <a href="https://webconf.numerique.gouv.fr/"><img src="/uploads/capture-webinaire-webconf.png" width="200" alt="Accédez au service de webconférence de l’État"/>
 </a>
