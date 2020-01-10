@@ -56,6 +56,13 @@ d’utiliser la webconférence de l’État
 > * un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
 {: .noir .encadre}
 
+
+[![Utilisez la webconférence de l’État)](capture-webinaire-webconf.png](/uploads/capture-webinaire-webconf.png)](https://webconf.numerique.gouv.fr/ "Utilisez la webconférence de l’État")
+{: .text-center}
+> [Utilisez la webconférence de l’État](https://webconf.numerique.gouv.fr/)
+{: .lien-important}
+
+
 *La webconférence de l’État est un service interministériel opéré par le ministère de la Transition écologique et solidaire. Il a été réalisé dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d'accélération de la transformation numérique du service public, piloté par la direction interministérielle du numérique (DINUM).*
 
 *La solution s’appuie sur le logiciel libre [Jitsi](https://jitsi.org/).*
