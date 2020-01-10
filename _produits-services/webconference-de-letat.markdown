@@ -9,8 +9,8 @@ tags:
 - environnement de travail numérique de l'agent
 chapeau-text: L’État met à la disposition de tous ses agents un service de webconférence
   interministériel pour favoriser la coopération des équipes et le travail à distance.
-une-ou-diaporama:
-- image: "/uploads/page-webconf.png"
+une:
+  image: "/uploads/page-webconf.png"
 layout: rgaa
 ---
 
