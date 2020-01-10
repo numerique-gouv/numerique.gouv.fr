@@ -14,8 +14,10 @@ une:
 layout: rgaa
 ---
 
-### Un outil interactif polyvalent
-{: .margin-bottom-1 .margin-top-3}
+<figure class='image-left' style='width: 10%;'>
+<img src="/uploads/swiss-army-knife_bleu.png"/>
+</figure>## Un outil interactif polyvalent
+{: .margin-bottom-1}
 Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations, des formations ou des webinaires** ? Le service de webconférence [webconf.numerique.gouv.fr](https://webconf.numerique.gouv.fr) vous permet de faire tout cela !
 
 Les participants peuvent :
@@ -26,13 +28,19 @@ Les participants peuvent :
 * discuter en instantané via un tchat intégré,
 * éditer un texte en mode collaboratif et en temps réel,
 * …
+<br>
 
-### Ouvert aux agents de l’État et à leurs interlocuteurs
-{: .margin-bottom-1 .margin-top-3}
+<figure class='image-left' style='width: 6%;'>
+<img src="/uploads/group-bleu.png"/>
+</figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
+{: .margin-bottom-1}
 Tout agent de l’État, connecté au réseau interministériel de l’État (RIE), peut créer librement un salon de webconférence. Il lui suffit ensuite d’en partager le lien unique aux participants, qu’ils soient de l’administration ou de l’extérieur (partenaires, prestataires, entreprises, citoyens…).
+<br>
 
-### Confidentialité des échanges
-{: .margin-bottom-1 .margin-top-3}
+<figure class='image-left' style='width: 6%;'>
+<img src="/uploads/shield-bleu.png"/>
+</figure>## Confidentialité des échanges
+{: .margin-bottom-1}
 L’État a choisi de créer et d’opérer sa propre solution de webconférence, hébergée sur ses serveurs : cette maîtrise, associée à un chiffrement des données via un protocole sécurisé, apporte davantage de garanties sur la confidentialité des échanges.
 
 ### 3 BONNES RAISONS
