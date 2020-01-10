@@ -13,7 +13,7 @@ publications:
     de la donnée
   url: "/produits-services/guichet-dites-le-nous-une-fois/"
   une-ou-diaporama:
-  - image: "/uploads/guichet-dlnuf-hub.jpg"
+  - image: "/uploads/guichet-dlnuf-hub.png"
 - title: 'Webconférence de l’État '
   url: "/produits-services/webconference-etat/"
   une-ou-diaporama:
