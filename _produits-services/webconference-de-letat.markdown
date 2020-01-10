@@ -14,8 +14,8 @@ une:
 layout: rgaa
 ---
 
-## Un outil interactif polyvalent
-
+### Un outil interactif polyvalent
+{: .margin-bottom-1 .margin-top-3}
 Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations, des formations ou des webinaires** ? L’outil de webconférence webconf.numerique.gouv.fr vous permet de faire tout cela !
 
 Les participants peuvent :
@@ -27,15 +27,15 @@ Les participants peuvent :
 * éditer un texte en mode collaboratif et en temps réel,
 * …
 
-## Ouvert aux agents de l’État et à leurs interlocuteurs
-
+### Ouvert aux agents de l’État et à leurs interlocuteurs
+{: .margin-bottom-1 .margin-top-3}
 Tout agent de l’État, connecté au réseau interministériel de l’État (RIE), peut créer librement un salon de webconférence. Il lui suffit ensuite d’en partager le lien unique aux participants, qu’ils soient de l’administration ou de l’extérieur (partenaires, prestataires, entreprises, citoyens…).
 
-## Confidentialité des échanges
-
+### Confidentialité des échanges
+{: .margin-bottom-1 .margin-top-3}
 L’État a choisi de créer et d’opérer sa propre solution de webconférence, hébergée sur ses serveurs : cette maîtrise, associée à un chiffrement des données via un protocole sécurisé, apporte davantage de garanties sur la confidentialité des échanges.
 
-## 3 BONNES RAISONS
+### 3 BONNES RAISONS
 {: .text-center .margin-bottom-0 .margin-top-3}
 d’utiliser la webconférence de l’État
 {: .text-center}
