@@ -16,7 +16,7 @@ layout: rgaa
 
 ## Un outil interactif polyvalent
 
-Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations ou des formations** ? L’outil de webconférence webconf.numerique.gouv.fr vous permet de faire tout cela !
+Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations, des formations ou des webinaires** ? L’outil de webconférence webconf.numerique.gouv.fr vous permet de faire tout cela !
 
 Les participants peuvent :
 
@@ -41,7 +41,9 @@ d’utiliser la webconférence de l’État
 {: .text-center}
 
 **1. Service opéré par l’État,** hébergé sur ses serveurs en France
+
 **2. Confidentialité des échanges** garantie par le chiffrement
+
 **3. De nombreuses fonctionnalités :** audio, vidéo, tchat, partage d'écran, édition collaborative de documents…
 
 
