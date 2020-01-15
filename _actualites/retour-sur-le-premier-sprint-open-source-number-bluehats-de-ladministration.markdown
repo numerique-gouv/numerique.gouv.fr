@@ -14,7 +14,9 @@ une-ou-diaporama:
 
 Un sprint *open source* consiste à mobiliser des contributeurs de logiciels libres afin qu’ils les améliorent. Ce format est né dans les conférences *open source* réunissant les utilisateurs de produits ou de langages répandus.
 
-En s’appropriant ce format, la DINUM et le lab [110 bis](https://www.education.gouv.fr/110bislab/pid37871/bienvenue-au-110-bis-le-lab-d-innovation-de-l-education-nationale.html).) poursuivaient un double objectif : faire échanger entre elles les équipes qui développent des solutions *open source* dans l’administration et s’ouvrir à des contributeurs extérieurs, développeurs, designers ou simples citoyens curieux.
+<figure class='image-left' style='width: 50%;'>
+  <img src="/uploads/sprint-montage.png" />
+</figure>En s’appropriant ce format, la DINUM et le lab [110 bis](https://www.education.gouv.fr/110bislab/pid37871/bienvenue-au-110-bis-le-lab-d-innovation-de-l-education-nationale.html).) poursuivaient un double objectif : faire échanger entre elles les équipes qui développent des solutions *open source* dans l’administration et s’ouvrir à des contributeurs extérieurs, développeurs, designers ou simples citoyens curieux.
 
 L’événement s’inscrivait dans **[le mouvement #BlueHats](https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/)**, animé par la DINUM, lequel rassemble toutes celles et ceux qui estiment important d’utiliser et de développer des logiciels libres dans l’administration.
 
