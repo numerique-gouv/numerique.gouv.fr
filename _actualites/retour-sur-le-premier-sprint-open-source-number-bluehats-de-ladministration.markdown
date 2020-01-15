@@ -46,7 +46,6 @@ En fin de journée, nous avons improvisé **des présentations courtes** (« lig
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tube.ac-lyon.fr/videos/embed/8288dd9b-d279-4dbc-b179-8015929382a8" frameborder="0" allowfullscreen></iframe>
 <br>
-<br>
 
 **Retrouvez aussi en podcasts audio les interviews de participants :**
 
