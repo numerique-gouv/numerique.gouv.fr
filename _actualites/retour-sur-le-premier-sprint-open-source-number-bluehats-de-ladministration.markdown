@@ -33,8 +33,9 @@ En fin de journée, nous avons improvisé **des présentations courtes** (« lig
 
 **Retrouvez ces présentations courtes en vidéo :**
 
-– Embed Sprint open source 19 et 20/11 - Lightning talks #1 –
-– Embed Sprint open source 19 et 20/11 - Lightning talks #2  –
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tube.ac-lyon.fr/videos/embed/ef83fc53-50bc-40d3-b37d-1baffa1ced50" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tube.ac-lyon.fr/videos/embed/8288dd9b-d279-4dbc-b179-8015929382a8" frameborder="0" allowfullscreen></iframe>
 
 **Retrouvez aussi en podcasts audio les interviews de participants :**
 
