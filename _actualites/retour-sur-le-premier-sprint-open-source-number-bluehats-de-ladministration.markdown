@@ -34,8 +34,11 @@ En fin de journée, nous avons improvisé **des présentations courtes** (« lig
 **Retrouvez ces présentations courtes en vidéo :**
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tube.ac-lyon.fr/videos/embed/ef83fc53-50bc-40d3-b37d-1baffa1ced50" frameborder="0" allowfullscreen></iframe>
+<br>
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tube.ac-lyon.fr/videos/embed/8288dd9b-d279-4dbc-b179-8015929382a8" frameborder="0" allowfullscreen></iframe>
+<br>
+<br>
 
 **Retrouvez aussi en podcasts audio les interviews de participants :**
 
@@ -50,8 +53,10 @@ En fin de journée, nous avons improvisé **des présentations courtes** (« lig
 
 * [Bastien Guerry](https://tube.ac-lyon.fr/videos/watch/93dc46a1-783e-4922-a76e-06fab43ca3b9) (DINUM/Etalab)
 * [Anna-Livia Gomart](https://tube.ac-lyon.fr/videos/watch/cde0870c-bcfb-4262-808a-496de60361ca) (consultante pour la DINUM/beta.gouv.fr)
+<br>
+<br>
 
-Votre administration souhaite organiser un sprint source autour de ses propres produits libres ? C’est ouvert ! N’hésitez pas à écrire `bluehats@etalab.gouv.fr` ou à `110bis@education.gouv.fr` pour nous poser vos questions.
+Votre administration souhaite organiser un sprint source autour de ses propres produits libres ? C’est ouvert ! N’hésitez pas à écrire bluehats@etalab.gouv.fr ou à 110bis@education.gouv.fr pour nous poser vos questions.
 
 L’organisation de ce tout premier sprint open source nous a permis de tirer quelques [enseignements et pistes d’amélioration](https://github.com/DISIC/evenements-bluehats/blob/master/retex/19-20-11-2019-retours.org) pour de prochaines rencontres, que nous vous partageons.
 
@@ -63,5 +68,5 @@ L’organisation de ce tout premier sprint open source nous a permis de tirer qu
 > <br>
 > Salle comble tout au long de la journée : il en fallait bien plus qu’une grève de transports pour décourager les passionnés d’open source dans l’administration ! Les 22 intervenants ont présenté la façon dont ils développent ou utilisent des solutions libres dans leurs administrations.
 > <br>
-> > [Retrouvez l’ensemble des supports de présentation ici](https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614/2)
-{: .encadre}
+> [> Retrouvez l’ensemble des supports de présentation ici](https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614/2)
+{: .noir .encadre}
