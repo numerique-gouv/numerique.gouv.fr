@@ -3,6 +3,10 @@ title: 'Retour sur le premier sprint open source #BlueHats de l’administration
 date: 2020-01-15 10:02:00 +01:00
 categories:
 - Article
+tags:
+- Blue hats
+- open source
+- logiciels libres
 chapeau-text: Les 19 et 20 novembre derniers, la direction interministérielle du numérique
   (DINUM) et le 110 bis, le lab d’innovation de l’Éducation nationale, ont rassemblé
   la communauté BlueHats pour le premier sprint *open source* du secteur public.
@@ -14,11 +18,13 @@ une-ou-diaporama:
 
 Un sprint *open source* consiste à mobiliser des contributeurs de logiciels libres afin qu’ils les améliorent. Ce format est né dans les conférences *open source* réunissant les utilisateurs de produits ou de langages répandus.
 
-<figure class='image-left' style='width: 50%;'>
-  <img src="/uploads/sprint-montage.png" />
-</figure>En s’appropriant ce format, la DINUM et le lab [110 bis](https://www.education.gouv.fr/110bislab/pid37871/bienvenue-au-110-bis-le-lab-d-innovation-de-l-education-nationale.html).) poursuivaient un double objectif : faire échanger entre elles les équipes qui développent des solutions *open source* dans l’administration et s’ouvrir à des contributeurs extérieurs, développeurs, designers ou simples citoyens curieux.
+En s’appropriant ce format, la DINUM et le lab [110 bis](https://www.education.gouv.fr/110bislab/pid37871/bienvenue-au-110-bis-le-lab-d-innovation-de-l-education-nationale.html).) poursuivaient un double objectif : faire échanger entre elles les équipes qui développent des solutions *open source* dans l’administration et s’ouvrir à des contributeurs extérieurs, développeurs, designers ou simples citoyens curieux.
 
 L’événement s’inscrivait dans **[le mouvement #BlueHats](https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/)**, animé par la DINUM, lequel rassemble toutes celles et ceux qui estiment important d’utiliser et de développer des logiciels libres dans l’administration.
+
+<figure class='image-center' style='width: 75%;'>
+<img src="/uploads/sprint-montage.png" />
+</figure>
 
 Au final ? Deux jours durant, les 19 et 20 novembre 2019, **une dizaine d’équipes produits de différentes administrations**  se sont mobilisées pour présenter leurs solutions libres (voir [la liste complète,](https://github.com/DISIC/evenements-bluehats/blob/master/retex/19-20-11-2019-equipes.org) avec liens vers les codes sources) telles que :
 
@@ -58,7 +64,7 @@ En fin de journée, nous avons improvisé **des présentations courtes** (« lig
 <br>
 <br>
 
-Votre administration souhaite organiser un sprint source autour de ses propres produits libres ? C’est ouvert ! N’hésitez pas à écrire bluehats@etalab.gouv.fr ou à 110bis@education.gouv.fr pour nous poser vos questions.
+Votre administration souhaite organiser un sprint source autour de ses propres produits libres ? C’est ouvert ! N’hésitez pas à écrire [bluehats@etalab.gouv.fr ](mailto:bluehats@etalab.gouv.fr) ou à [110bis@education.gouv.fr](mailto:110bis@education.gouv.fr) pour nous poser vos questions.
 
 L’organisation de ce tout premier sprint open source nous a permis de tirer quelques [enseignements et pistes d’amélioration](https://github.com/DISIC/evenements-bluehats/blob/master/retex/19-20-11-2019-retours.org) pour de prochaines rencontres, que nous vous partageons.
 
@@ -66,9 +72,12 @@ L’organisation de ce tout premier sprint open source nous a permis de tirer qu
 
 > **Une journée #BlueHats au Paris Open Source Summit 2019**
 > <br>
+> <br>
 > Un an après, même lieu, même événement, même ferveur : les #BlueHats – les hackers d’intérêt général – se sont réunis en décembre dernier pour une nouvelle journée de rencontres et d’échanges dans le cadre du Paris Open Source Summit, [qui l’avait vu naître un an auparavant](https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/) sous l’impulsion de la DINUM (alors DINSIC).
+> <br>
 > <br>
 > Salle comble tout au long de la journée : il en fallait bien plus qu’une grève de transports pour décourager les passionnés d’open source dans l’administration ! Les 22 intervenants ont présenté la façon dont ils développent ou utilisent des solutions libres dans leurs administrations.
 > <br>
+> <br>
 > [> Retrouvez l’ensemble des supports de présentation ici](https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614/2)
-{: .noir .encadre}
+> {: .noir .encadre}
