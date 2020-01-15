@@ -35,6 +35,10 @@ Au final ? Deux jours durant, les 19 et 20 novembre 2019, **une dizaine d’équ
 * **[Mes Aides](https://mes-aides.gouv.fr/)** (DINUM) : simulateur en ligne d’aides sociales ;
 * **[demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/)** (DINUM) : la plateforme de la DINUM qui permet de dématérialiser n’importe quelle démarche administrative en quelques minutes.
 
+<figure class='image-center' style='width: 75%;'>
+<img src="/uploads/sprint-photo-finale-hd-redim.jpg" />
+</figure>
+
 Plus de 40 participants chaque jour, la moitié issue de l’administration et l’autre de la société civile, ont apporté leur contribution sous diverses formes : des **commits de code et de documentation,** bien sûr, mais aussi **des discussions sur la finalité ou les méthodes des produits développés.**
 
 En fin de journée, nous avons improvisé **des présentations courtes** (« lightning talks ») : ces rencontres sont aussi un moment de convivialité et de partage informel sur des sujets qu’on n’a pas l’habitude d’aborder en interne.
