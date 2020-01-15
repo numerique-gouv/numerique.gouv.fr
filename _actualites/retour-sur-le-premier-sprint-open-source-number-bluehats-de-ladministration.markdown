@@ -28,3 +28,34 @@ Plus de 40 participants chaque jour, la moitié issue de l’administration et l
 En fin de journée, nous avons improvisé **des présentations courtes** (« lightning talks ») : ces rencontres sont aussi un moment de convivialité et de partage informel sur des sujets qu’on n’a pas l’habitude d’aborder en interne.
 
 **Retrouvez ces présentations courtes en vidéo :**
+
+– Embed Sprint open source 19 et 20/11 - Lightning talks #1 –
+– Embed Sprint open source 19 et 20/11 - Lightning talks #2  –
+
+**Retrouvez aussi en podcasts audio les interviews de participants :**
+
+* [Michel Blancard](https://tube.ac-lyon.fr/videos/watch/e5efd4ec-a900-418c-b98e-5f0292225394) (ministère de l'Europe et des Affaires étrangères)
+* [Arthur Lutz](https://tube.ac-lyon.fr/videos/watch/622abc29-edef-4b9a-a39c-762011af691f) (Logilab)
+* [Christophe Villeneuve](https://tube.ac-lyon.fr/videos/watch/acc1d59f-3092-4703-8dc1-0d5bee0b8295https:/tube.ac-lyon.fr/videos/watch/acc1d59f-3092-4703-8dc1-0d5bee0b8295) (consultant pour ATOS)
+* [Etienne André](https://tube.ac-lyon.fr/videos/watch/1bd33b90-dfa4-4372-8733-7bf03788d47e) [(ministère de l’Éducation nationale et de la Jeunesse)](https://tube.ac-lyon.fr/videos/watch/1bd33b90-dfa4-4372-8733-7bf03788d47e)
+* [Manon Léger et Sébastien Touzé](https://tube.ac-lyon.fr/videos/watch/29ca5123-6e7a-409f-be22-23a1aae5eac1) (Latitudes.cc)
+* [Régis Gréau et Julien Racine](https://tube.ac-lyon.fr/videos/watch/b7f1c53f-b2ff-4c2a-986b-e7a32a4f72f7) (Pôle emploi)
+
+… et d’organisateurs :
+
+* [Bastien Guerry](https://tube.ac-lyon.fr/videos/watch/93dc46a1-783e-4922-a76e-06fab43ca3b9) (DINUM/Etalab)
+* [Anna-Livia Gomart](https://tube.ac-lyon.fr/videos/watch/cde0870c-bcfb-4262-808a-496de60361ca) (consultante pour la DINUM/beta.gouv.fr)
+
+Votre administration souhaite organiser un sprint source autour de ses propres produits libres ? C’est ouvert ! N’hésitez pas à écrire `bluehats@etalab.gouv.fr` ou à `110bis@education.gouv.fr` pour nous poser vos questions.
+
+L’organisation de ce tout premier sprint open source nous a permis de tirer quelques [enseignements et pistes d’amélioration](https://github.com/DISIC/evenements-bluehats/blob/master/retex/19-20-11-2019-retours.org) pour de prochaines rencontres, que nous vous partageons.
+
+**Le logiciel libre dans l’administration vous intéresse ? [Inscrivez-vous à la gazette #BlueHats](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio) bimensuelle, publiée par la DINUM, et consultez [les dernières éditions](https://github.com/DISIC/gazette-bluehats).**
+
+> **Une journée #BlueHats au Paris Open Source Summit 2019**
+> Un an après, même lieu, même événement, même ferveur : les #BlueHats – les hackers d’intérêt général – se sont réunis en décembre dernier pour une nouvelle journée de rencontres et d’échanges dans le cadre du Paris Open Source Summit, [qui l’avait vu naître un an auparavant](https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/) sous l’impulsion de la DINUM (alors DINSIC).
+>
+> Salle comble tout au long de la journée : il en fallait bien plus qu’une grève de transports pour décourager les passionnés d’open source dans l’administration ! Les 22 intervenants ont présenté la façon dont ils développent ou utilisent des solutions libres dans leurs administrations.
+>
+> > [Retrouvez l’ensemble des supports de présentation ici](https://forum.etalab.gouv.fr/t/journee-bluehats-lors-du-paris-open-source-summit-le-11-decembre-2019/4614/2)
+{: encadre}
