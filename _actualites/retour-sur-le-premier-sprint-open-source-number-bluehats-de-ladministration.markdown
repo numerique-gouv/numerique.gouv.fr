@@ -18,7 +18,7 @@ En s’appropriant ce format, la DINUM et le lab [110 bis](https://www.education
 
 L’événement s’inscrivait dans **[le mouvement #BlueHats](https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/)**, animé par la DINUM, lequel rassemble toutes celles et ceux qui estiment important d’utiliser et de développer des logiciels libres dans l’administration.
 
-Au final ? Deux jours durant, les 19 et 20 novembre 2019, **une dizaine d’équipes produits de différentes administrations**  se sont mobilisées pour présenter leurs solutions libres (voir[la liste complète,](https://github.com/DISIC/evenements-bluehats/blob/master/retex/19-20-11-2019-equipes.org) avec liens vers les codes sources) telles que :
+Au final ? Deux jours durant, les 19 et 20 novembre 2019, **une dizaine d’équipes produits de différentes administrations**  se sont mobilisées pour présenter leurs solutions libres (voir [la liste complète,](https://github.com/DISIC/evenements-bluehats/blob/master/retex/19-20-11-2019-equipes.org) avec liens vers les codes sources) telles que :
 
 * **[Anotéa](https://anotea.pole-emploi.fr/)** (Pôle emploi) : plateforme en ligne qui collecte et diffuse plus de 200 000 notes et avis d’anciens stagiaires de formation pour orienter les futurs stagiaires ;
 * **Keycloak-FranceConnect** (Insee) : une extension pour utiliser FranceConnect avec la solution d’authentification [keycloak](https://www.keycloak.org/) ;
