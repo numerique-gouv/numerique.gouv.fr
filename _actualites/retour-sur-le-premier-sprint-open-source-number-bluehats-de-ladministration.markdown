@@ -6,6 +6,10 @@ categories:
 chapeau-text: Les 19 et 20 novembre derniers, la direction interministérielle du numérique
   (DINUM) et le 110 bis, le lab d’innovation de l’Éducation nationale, ont rassemblé
   la communauté BlueHats pour le premier sprint *open source* du secteur public.
+une-ou-diaporama:
+- image: "/uploads/template-actu-numerique.png"
+  alternative-textuelle: "19 et 20 novembre 2019\nSprint open source \n@_DINUM et
+    @Lab110bis\n#opensource #logiciel libre #innovation publique"
 ---
 
 Un sprint *open source* consiste à mobiliser des contributeurs de logiciels libres afin qu’ils les améliorent. Ce format est né dans les conférences *open source* réunissant les utilisateurs de produits ou de langages répandus.
