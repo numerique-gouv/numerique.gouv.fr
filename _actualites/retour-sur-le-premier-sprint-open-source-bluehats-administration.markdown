@@ -75,10 +75,7 @@ L’organisation de ce tout premier sprint open source nous a permis de tirer qu
 
 > ### Une journée #BlueHats au Paris Open Source Summit 2019
 > 
-> <figure class='image-left' style='width: 30%;'>
-> <img src="/uploads/journee-bluehats-poss.jpg" />
-> </figure>
-> Un an après, même lieu, même événement, même ferveur : les #BlueHats – les hackers d’intérêt général – se sont réunis en décembre dernier pour une nouvelle journée de rencontres et d’échanges dans le cadre du Paris Open Source Summit, [qui l’avait vu naître un an auparavant](https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/) sous l’impulsion de la DINUM (alors DINSIC). <br>
+> <figure class='image-left' style='width: 30%;'><img src="/uploads/journee-bluehats-poss.jpg" /></figure>Un an après, même lieu, même événement, même ferveur : les #BlueHats – les hackers d’intérêt général – se sont réunis en décembre dernier pour une nouvelle journée de rencontres et d’échanges dans le cadre du Paris Open Source Summit, [qui l’avait vu naître un an auparavant](https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/) sous l’impulsion de la DINUM (alors DINSIC). <br>
 > <br>
 > 
 > Salle comble tout au long de la journée : il en fallait bien plus qu’une grève de transports pour décourager les passionnés d’open source dans l’administration ! Les 22 intervenants ont présenté la façon dont ils développent ou utilisent des solutions libres dans leurs administrations. <br>
