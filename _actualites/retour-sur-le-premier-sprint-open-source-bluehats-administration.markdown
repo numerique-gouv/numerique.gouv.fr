@@ -43,7 +43,7 @@ Plus de 40 participants chaque jour, la moitié issue de l’administration et l
 
 En fin de journée, nous avons improvisé **des présentations courtes** (« lightning talks ») : ces rencontres sont aussi un moment de convivialité et de partage informel sur des sujets qu’on n’a pas l’habitude d’aborder en interne.
 
-**Retrouvez ces présentations courtes en vidéo :**
+#### Retrouvez ces présentations courtes en vidéo :
 
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tube.ac-lyon.fr/videos/embed/ef83fc53-50bc-40d3-b37d-1baffa1ced50" frameborder="0" allowfullscreen></iframe>
 <br>
@@ -51,7 +51,7 @@ En fin de journée, nous avons improvisé **des présentations courtes** (« lig
 <iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tube.ac-lyon.fr/videos/embed/8288dd9b-d279-4dbc-b179-8015929382a8" frameborder="0" allowfullscreen></iframe>
 <br>
 
-**Retrouvez aussi en podcasts audio les interviews de participants :**
+#### Retrouvez aussi en podcasts audio les interviews de participants :
 
 * [Michel Blancard](https://tube.ac-lyon.fr/videos/watch/e5efd4ec-a900-418c-b98e-5f0292225394) (ministère de l'Europe et des Affaires étrangères)
 * [Arthur Lutz](https://tube.ac-lyon.fr/videos/watch/622abc29-edef-4b9a-a39c-762011af691f) (Logilab)
