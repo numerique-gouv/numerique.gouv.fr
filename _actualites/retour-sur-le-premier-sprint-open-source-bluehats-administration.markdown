@@ -29,7 +29,7 @@ L’événement s’inscrivait dans **[le mouvement #BlueHats](https://www.numer
 Au final ? Deux jours durant, les 19 et 20 novembre 2019, **une dizaine d’équipes produits de différentes administrations**  se sont mobilisées pour présenter leurs solutions libres (voir [la liste complète,](https://github.com/DISIC/evenements-bluehats/blob/master/retex/19-20-11-2019-equipes.org) avec liens vers les codes sources) telles que :
 
 * **[Anotéa](https://anotea.pole-emploi.fr/)** (Pôle emploi) : plateforme en ligne qui collecte et diffuse plus de 200 000 notes et avis d’anciens stagiaires de formation pour orienter les futurs stagiaires ;
-* **Keycloak-FranceConnect** (Insee) : une extension pour utiliser FranceConnect avec la solution d’authentification [keycloak](https://www.keycloak.org/) ;
+* **[Keycloak](https://www.keycloak.org/)-FranceConnect** (Insee) : une extension pour utiliser FranceConnect avec la solution d’authentification keycloak ;
 * **[Disinfo](https://desinfo.quaidorsay.fr/fr)** (ministère de l'Europe et des Affaires étrangères) : des outils pour contrer la désinformation ;
 * **[Apps.education.fr](https://apps.education.fr/)** (ministère de l’Éducation nationale et de la Jeunesse) : plateforme de services et d’applications libres communes à destination de tous les agents de l’Éducation nationale
 * **[Mes Aides](https://mes-aides.gouv.fr/)** (DINUM) : simulateur en ligne d’aides sociales ;
