@@ -70,14 +70,14 @@ Zoom sur quelques postes dans le numérique public :
 <br>
 >
 **Ministères économiques et financiers**
-
+>
 Secrétariat Général
 * [**Directeur/Directrice de projet**](/uploads/fiche%20de%20poste%20FR_directeur%20de%20projet.pdf "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 59&nbsp;ko)
 <br>Cadre/Catégorie A+
-
+>
 * [**Architecte**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-hf-reference-MEF_2019-439 "Architecte - Consulter la fiche de poste")
 <br>Cadre/Catégorie A
-
+>
 Centre interministériel de services informatiques en matière de ressources humaines
 * [**Ingénieur/Ingénieure réseau sécurité**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f3c98daf-62a0-47ce-9824-01b99c737e05&offerid=150292 "Ingénieur/Ingénieure réseau sécurité - Télécharger le pdf") (pdf - 454&nbsp;ko)
 <br>Cadre/Catégorie A
