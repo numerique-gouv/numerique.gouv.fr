@@ -4,7 +4,7 @@ date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 9 janvier 2020
+date_de_modification: 17 janvier 2020
 layout: page-annexe
 ---
 
@@ -38,7 +38,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Lead developer FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 344&nbsp;ko)
+* [**Lead developer FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developer FranceConnect (F/H) - Télécharger le pdf") (pdf - 344&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>
 <br>
@@ -60,17 +60,26 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 > ### Et aussi, dans les ministères…<a id="offresministères"></a> 
 Zoom sur quelques postes dans le numérique public :
-<br>
-<br>
->
-**Ministère des Armées**
-* [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343&nbsp;ko)
+> <br>
+> <br>
+> 
+> **Ministère des Armées**
+> * [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343&nbsp;ko)
 <br>Cadre/Catégorie A
->{: .margin-bottom-1}
-<br>
->
-**Centre interministériel de services informatiques en matière de ressources humaines (ministères économiques et financiers)**
-* [**Ingénieur/Ingénieure réseau sécurité**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f3c98daf-62a0-47ce-9824-01b99c737e05&offerid=150292 "Ingénieur/Ingénieure réseau sécurité - Télécharger le pdf") (pdf - 454&nbsp;ko)
-<br>Cadre/Catégorie A
->{: .margin-bottom-1}
+> <br>
+> 
+> **Ministères économiques et financiers**
+> 
+> Secrétariat général
+> * [**Directeur/Directrice de projet**](/uploads/fiche%20de%20poste%20FR_directeur%20de%20projet.pdf "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 59&nbsp;ko)<br> 
+> Cadre/Catégorie A+<br>
+> 
+> 
+> * [**Architecte**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-hf-reference-MEF_2019-439 "Architecte - Consulter la fiche de poste")<br> 
+> Cadre/Catégorie A<br>
+> 
+> 
+> Centre interministériel de services informatiques en matière de ressources humaines
+> * [**Ingénieur/Ingénieure réseau sécurité**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f3c98daf-62a0-47ce-9824-01b99c737e05&offerid=150292 "Ingénieur/Ingénieure réseau sécurité - Télécharger le pdf") (pdf - 454&nbsp;ko)<br>
+> Cadre/Catégorie A
 {: .noir .encadre}
