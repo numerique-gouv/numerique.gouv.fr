@@ -74,6 +74,7 @@ Zoom sur quelques postes dans le numérique public :
 > Secrétariat Général
 > * [**Directeur/Directrice de projet**](/uploads/fiche%20de%20poste%20FR_directeur%20de%20projet.pdf "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 59&nbsp;ko)
 > <br>Cadre/Catégorie A+
+> <br>
 > 
 > * [**Architecte**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-hf-reference-MEF_2019-439 "Architecte - Consulter la fiche de poste")
 <br>Cadre/Catégorie A
