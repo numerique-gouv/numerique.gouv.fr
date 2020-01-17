@@ -66,7 +66,6 @@ Zoom sur quelques postes dans le numérique public :
 > **Ministère des Armées**
 > * [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343&nbsp;ko)
 <br>Cadre/Catégorie A
-> {: .margin-bottom-1}
 > <br>
 > 
 > **Ministères économiques et financiers**
@@ -83,5 +82,4 @@ Zoom sur quelques postes dans le numérique public :
 > Centre interministériel de services informatiques en matière de ressources humaines
 > * [**Ingénieur/Ingénieure réseau sécurité**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f3c98daf-62a0-47ce-9824-01b99c737e05&offerid=150292 "Ingénieur/Ingénieure réseau sécurité - Télécharger le pdf") (pdf - 454&nbsp;ko)
 > <br>Cadre/Catégorie A
-> {: .margin-bottom-1}
 {: .noir .encadre}
