@@ -70,8 +70,8 @@ Zoom sur quelques postes dans le numérique public :
 > <br>
 > 
 **Ministères économiques et financiers**
->
-> Secrétariat Général
+> 
+> Secrétariat général
 > * [**Directeur/Directrice de projet**](/uploads/fiche%20de%20poste%20FR_directeur%20de%20projet.pdf "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 59&nbsp;ko)
 > <br>Cadre/Catégorie A+
 > <br>
