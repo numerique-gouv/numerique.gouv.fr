@@ -38,7 +38,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Lead developer FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developper FranceConnect (F/H) - Télécharger le pdf") (pdf - 344&nbsp;ko)
+* [**Lead developer FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=94efd6ce-47d0-477b-baba-1ee996957d6e&offerid=295330 "Lead developer FranceConnect (F/H) - Télécharger le pdf") (pdf - 344&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>
 <br>
@@ -69,7 +69,12 @@ Zoom sur quelques postes dans le numérique public :
 >{: .margin-bottom-1}
 <br>
 >
-**Centre interministériel de services informatiques en matière de ressources humaines (ministères économiques et financiers)**
+**Ministères économiques et financiers**
+Secrétariat Général
+* [**Directeur/Directrice de projet**](/uploads/fiche%20de%20poste%20FR_directeur%20de%20projet.pdf "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 59&nbsp;ko)
+<br>Cadre/Catégorie A+
+>{: .margin-bottom-1}
+Centre interministériel de services informatiques en matière de ressources humaines
 * [**Ingénieur/Ingénieure réseau sécurité**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f3c98daf-62a0-47ce-9824-01b99c737e05&offerid=150292 "Ingénieur/Ingénieure réseau sécurité - Télécharger le pdf") (pdf - 454&nbsp;ko)
 <br>Cadre/Catégorie A
 >{: .margin-bottom-1}
