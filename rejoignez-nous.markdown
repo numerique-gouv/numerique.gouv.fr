@@ -4,7 +4,7 @@ date: 2019-06-13 03:59:00 +02:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 9 janvier 2020
+date_de_modification: 17 janvier 2020
 layout: page-annexe
 ---
 
@@ -60,26 +60,26 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 > ### Et aussi, dans les ministères…<a id="offresministères"></a> 
 Zoom sur quelques postes dans le numérique public :
-<br>
-<br>
->
-**Ministère des Armées**
-* [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343&nbsp;ko)
+> <br>
+> <br>
+> 
+> **Ministère des Armées**
+> * [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343&nbsp;ko)
 <br>Cadre/Catégorie A
->{: .margin-bottom-1}
-<br>
->
+> {: .margin-bottom-1}
+> <br>
+> 
 **Ministères économiques et financiers**
 >
-Secrétariat Général
-* [**Directeur/Directrice de projet**](/uploads/fiche%20de%20poste%20FR_directeur%20de%20projet.pdf "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 59&nbsp;ko)
-<br>Cadre/Catégorie A+
->
-* [**Architecte**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-hf-reference-MEF_2019-439 "Architecte - Consulter la fiche de poste")
+> Secrétariat Général
+> * [**Directeur/Directrice de projet**](/uploads/fiche%20de%20poste%20FR_directeur%20de%20projet.pdf "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 59&nbsp;ko)
+> <br>Cadre/Catégorie A+
+> 
+> * [**Architecte**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-hf-reference-MEF_2019-439 "Architecte - Consulter la fiche de poste")
 <br>Cadre/Catégorie A
->
-Centre interministériel de services informatiques en matière de ressources humaines
-* [**Ingénieur/Ingénieure réseau sécurité**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f3c98daf-62a0-47ce-9824-01b99c737e05&offerid=150292 "Ingénieur/Ingénieure réseau sécurité - Télécharger le pdf") (pdf - 454&nbsp;ko)
-<br>Cadre/Catégorie A
->{: .margin-bottom-1}
+> 
+> Centre interministériel de services informatiques en matière de ressources humaines
+> * [**Ingénieur/Ingénieure réseau sécurité**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f3c98daf-62a0-47ce-9824-01b99c737e05&offerid=150292 "Ingénieur/Ingénieure réseau sécurité - Télécharger le pdf") (pdf - 454&nbsp;ko)
+> <br>Cadre/Catégorie A
+> {: .margin-bottom-1}
 {: .noir .encadre}
