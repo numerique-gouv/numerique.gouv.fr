@@ -28,6 +28,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chef/Cheffe de mission « Infra »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=cc41bb58-0ade-413a-a402-6f1546465224&offerid=271894 "Chef/Cheffe de mission « Infra » – Télécharger le pdf") (pdf - 331&nbsp;ko) 
+<br>Cadre/Catégorie A
+
 * [**Chargé/Chargée de mission numérique et territoires**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=01061122-e9d1-4963-9f53-f0063f163bf1&offerid=294670 "Chargé/Chargée de mission numérique et territoires – Télécharger le pdf") (pdf - 359&nbsp;ko) 
 <br>Cadre/Catégorie A
 
