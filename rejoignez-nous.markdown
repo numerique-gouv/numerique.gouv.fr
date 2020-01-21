@@ -72,9 +72,16 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-#### **Gestion des connaissances**
+#### **Achats/Marchés publics**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Gestionnaire de connaissances / documentaliste numérique (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=5a7febb6-4e2c-49ea-88e8-4d5f97503f3e&offerid=287527 "Gestionnaire de connaissances / documentaliste numérique (F/H) - Télécharger le pdf") (pdf - 324&nbsp;ko)
+<br> Catégorie A
+<br>
+<br>
+
+#### **Gestion des connaissances**
+{: .margin-top-4 .margin-bottom-1} 
+* [**Chargé/Chargée de mission « Performance des achats SI de l'Etat»**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d2d8dd8d-2179-4f4b-b5f9-f1ba208a9a8d&offerid=289470 "Chargé/Chargée de mission « Performance des achats SI de l'Etat» - Télécharger le pdf") (pdf - 342&nbsp;ko)
 <br> Catégorie A
 <br>
 <br>
