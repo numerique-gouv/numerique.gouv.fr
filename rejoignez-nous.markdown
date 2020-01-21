@@ -61,7 +61,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
-* [**Chargé/Chargée de mission « production » du Réseau Interministériel de l’État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91edec12-625d-4708-bcd0-6be1e4f255ea&offerid=288819 Chargé/Chargée de mission « production » du Réseau Interministériel de l’État - Télécharger le pdf") (pdf - 367&nbsp;ko)
+* [**Chargé/Chargée de mission « production » du Réseau Interministériel de l’État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91edec12-625d-4708-bcd0-6be1e4f255ea&offerid=288819 "Chargé/Chargée de mission « production » du Réseau Interministériel de l’État - Télécharger le pdf") (pdf - 367&nbsp;ko)
 <br>Cadre/Catégorie A
 
 * [**Architecte « services d'accès internet » du Réseau Interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=4c983e85-8ec2-4f54-b613-11d07777f375&offerid=243187 "Architecte « services d'accès internet » du Réseau Interministériel de l’État - Télécharger le pdf") (pdf - 726&nbsp;ko)
