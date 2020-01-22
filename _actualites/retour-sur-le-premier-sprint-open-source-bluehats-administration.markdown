@@ -7,9 +7,9 @@ tags:
 - Blue hats
 - open source
 - logiciels libres
-chapeau-text: Les 19 et 20 novembre derniers, la direction interministérielle du numérique
-  (DINUM) et le 110 bis, le lab d’innovation de l’Éducation nationale, ont rassemblé
-  la communauté BlueHats pour le premier sprint *open source* du secteur public.
+chapeau-text: La direction interministérielle du numérique (DINUM) et le 110 bis,
+  le lab d’innovation de l’Éducation nationale, ont rassemblé la communauté BlueHats
+  pour le premier sprint *open source* du secteur public les 19 et 20 novembre derniers.
 une-ou-diaporama:
 - image: "/uploads/template-actu-numerique.png"
   alternative-textuelle: "19 et 20 novembre 2019\nSprint open source \n@_DINUM et
