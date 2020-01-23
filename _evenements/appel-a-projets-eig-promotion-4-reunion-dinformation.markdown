@@ -53,5 +53,5 @@ Rendez-vous le **5 février 2020 au Lieu de la transformation publique de 14h30 
 * *Consultez notre site Internet :* [https://entrepreneur-interet-general.etalab.gouv.fr/candidature-defi.html](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-defi.html)
 * *Nous identifions actuellement une solution pour retransmettre l'événement sur les réseaux sociaux et organiserons certainement d'autres moments pour échanger sur l'appel à projets (ex : webinaire).*
 <br>
-<br>
+
 Questions et informations : entrepreneur-interet-general@data.gouv.fr
