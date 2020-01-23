@@ -39,17 +39,15 @@ Vous êtes une administration intéressée par le programme d'innovation publiqu
 Rendez-vous le **5 février 2020 au Lieu de la transformation publique de 14h30 à 16h45**, avec une pièce d'identité.
 <br>
 <br>
-*\[Programme détaillé\]* <br>
 **Déroulé :**
 <br>
 * **14h30 – 15h : présentation de l’appel à projets** et des facteurs clés de succès d’un défi par l’équipe de pilotage du programme à Etalab ;
 * **15h – 15h45 : témoignage** d’anciens mentors et EIG et questions-réponses avec les participants ;
 * **15h45 – 16h45 : ateliers « cliniques »** : vous avez une idée de défi à proposer et avez besoin de conseils sur son cadrage, les profils à mobiliser, les modes de financement ? Des anciens EIG et l’équipe de pilotage du programme sont là pour vous aider.
 <br>
-<br>
 
-*Vous n'êtes pas à Paris ?* <br>
-<br>
+*Vous n'êtes pas à Paris ?* 
+
 * *Consultez notre site Internet :* [https://entrepreneur-interet-general.etalab.gouv.fr/candidature-defi.html](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-defi.html)
 * *Nous identifions actuellement une solution pour retransmettre l'événement sur les réseaux sociaux et organiserons certainement d'autres moments pour échanger sur l'appel à projets (ex : webinaire).*
 <br>
