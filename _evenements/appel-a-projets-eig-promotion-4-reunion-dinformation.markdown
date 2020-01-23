@@ -47,6 +47,7 @@ Rendez-vous le **5 février 2020 au Lieu de la transformation publique de 14h30 
 * **15h45 – 16h45 : ateliers « cliniques »** : vous avez une idée de défi à proposer et avez besoin de conseils sur son cadrage, les profils à mobiliser, les modes de financement ? Des anciens EIG et l’équipe de pilotage du programme sont là pour vous aider.
 <br>
 <br>
+
 *Vous n'êtes pas à Paris ?* <br>
 <br>
 * *Consultez notre site Internet :* [https://entrepreneur-interet-general.etalab.gouv.fr/candidature-defi.html](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-defi.html)
