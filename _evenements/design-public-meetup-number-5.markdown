@@ -3,6 +3,9 @@ title: 'Design Public - Meetup #5'
 date: 2020-01-23 16:35:00 +01:00
 categories:
 - Meetup
+tags:
+- Design public
+- meetup
 chapeau-text: Rendez-vous le 14 mai au 5ème meet-up Design Public organisé par des
   designers travaillant au sein de projets de la fonction publique.
 categorie: 'Meetup '
