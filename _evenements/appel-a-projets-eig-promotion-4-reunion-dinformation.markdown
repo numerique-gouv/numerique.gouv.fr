@@ -11,7 +11,7 @@ chapeau-text: 'Administrations, venez découvrir les modalités de l''appel à p
 categorie: Réunion d'information
 une-ou-diaporama:
 - image: "/uploads/EIG4_aap_article.jpg"
-event_start_date: 0005-01-31 23:09:21 +00:09
+event_start_date: 2020-02-01 14:30:00 +01:00
 lieu: Le Lieu de la transformation publique
 adresse: 77 Avenue de Ségur 75015 Paris
 acces:
@@ -23,6 +23,8 @@ acces:
   - nom: Sèvres-Lecourbe (6)
   - nom: Saint-François Xavier (13)
 champs_informations:
+- intitule: Horaires
+  contenu: '14h30 – 16h45 '
 - intitule: 'Modalités '
   contenu: Inscription obligatoire (gratuit)
   lien: 'https://aap-eig4.eventbrite.fr/ '
