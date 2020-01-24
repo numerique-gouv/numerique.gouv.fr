@@ -6,8 +6,9 @@ categories:
 tags:
 - Design public
 - meetup
-chapeau-text: Rendez-vous le 14 mai au 5ème meet-up Design Public organisé par des
-  designers travaillant au sein de projets de la fonction publique.
+- UX design
+chapeau-text: Nous vous donnons rendez-vous le 14 mai pour une 5e rencontre autour
+  du design public.
 categorie: 'Meetup '
 une-ou-diaporama:
 - image: "/uploads/https---cdn.evbuc.com-images-86729555-91338749761-1-original.jpg"
@@ -32,13 +33,13 @@ champs_informations:
   lien: https://www.eventbrite.fr/e/billets-design-public-meetup-5-88813053233
 ---
 
-La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 5ème meetup Design Public organisé par des designers travaillant au sein de projets de la fonction publique.
+La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 5ème meetup Design Public organisé par des designers travaillant sur des projets au sein de l'administration.
 
 Ce meetup est un moment d'échange, pour restituer des travaux et partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15min chacun). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une heure... et plus si affinité.
 
 **Au programme :**
 
-Ce 5ème meetup sera axé sur l'environnement & la biodiversité. Les projets présentés seront les suivants :
+Ce 5e meetup sera axé sur **l'environnement & la biodiversité**. Les projets présentés seront les suivants :
 
 * **[Maritux](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/maritux.html)** : Faciliter l’accès à une information marine de qualité, par [Cécile Canel](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/cecile-canel.html)
 * **[INPN Espaces](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/inpn-espaces.html)** : Informer les citoyens sur les espaces naturels autour de chez eux, par [Jean-Edouard Sastre](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/jean-edouard-sastre.html)
