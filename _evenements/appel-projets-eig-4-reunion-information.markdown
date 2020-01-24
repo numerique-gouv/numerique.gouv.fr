@@ -6,6 +6,8 @@ categories:
 tags:
 - Entrepreneur d'Intérêt Général
 - innovation publique
+- Appel à projets
+- Etalab
 chapeau-text: 'Administrations, venez découvrir les modalités de l''appel à projets
   EIG 4 et discutez avec la communauté EIG pour déposer un dossier réussi. '
 categorie: Réunion d'information
