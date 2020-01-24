@@ -6,8 +6,7 @@ categories:
 tags:
 - Design public
 - meetup
-chapeau-text: Rendez-vous le 11 mars au 4ème meet-up Design Public organisé par des
-  designers travaillant au sein de projets de la fonction publique
+chapeau-text: Rendez-vous le 11 mars pour une 4e rencontre autour du design public.
 categorie: 'Meetup '
 une-ou-diaporama:
 - image: "/uploads/https---cdn.evbuc.com-images-86406053-91338749761-1-original.jpg"
@@ -32,13 +31,13 @@ champs_informations:
   lien: https://www.eventbrite.fr/e/billets-design-public-meetup-4-88504436151
 ---
 
-La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 4ème meetup Design Public organisé par des designers travaillant au sein de projets de la fonction publique.
+La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 4e meetup Design Public organisé par des designers travaillant sur des projets au sein de l'administration.
 
-Ce meetup est un moment d'échange, pour restituer des travaux et partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15min chacun). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une heure... et plus si affinité.
+Ce meetup est un moment d'échange, pour restituer des travaux et partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15&nbsp;min chacun). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une heure... et plus si affinité.
 
 **Au programme :**
 
-Ce 4ème meetup sera axé sur l'améliorer et l’efficacité de l’administration. Les projets présentés seront les suivants :
+Les projets présentés à l'occasion de ce 4e meetup seront les suivants :
 
 * **[Recrues](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/recrues.html)** : Favoriser le recrutement à la Gendarmerie nationale, par [Iris Naudin ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/iris-naudin.html)et [Nicolas Grandjean](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/nicolas-grandjean.html)
 * **[AchaDef](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/achadef.html)** : Faciliter l’accès aux achats hors armement du ministère des Armées, par [Marc Bouteiller](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/marc-bouteiller.html)
