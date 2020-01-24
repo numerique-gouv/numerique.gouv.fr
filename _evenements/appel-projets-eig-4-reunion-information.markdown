@@ -1,6 +1,5 @@
 ---
-title: Tout savoir avant de candidater à l'appel à projet Entrepreneurs d'Intérêt
-  Général 4 !
+title: Réussir sa candidature à l'appel à projet Entrepreneurs d'Intérêt Général 4
 date: 2020-01-23 14:21:00 +01:00
 categories:
 - Réunion d'information
@@ -36,7 +35,7 @@ champs_informations:
 Vous êtes une administration intéressée par le programme d'innovation publique [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) (EIG) ? **Vous avez jusqu'au 28 février 2020, 17h, pour [répondre à l'appel à projets de la 4e édition](https://www.etalab.gouv.fr/appel-a-projets-administrations-proposez-vos-defis-aux-futurs-entrepreneurs-dinteret-general-de-la-promotion-4) !** 
 <br>
 <br>
-**À cette occasion, l'équipe de pilotage du programme au sein de la DINUM organise une réunion d'information :** venez découvrir les modalités de l'appel à projets, des conseils pour bien préparer votre candidature et rencontrer la communauté EIG !<br>
+**À cette occasion, l'équipe de pilotage du programme au sein de la DINUM organise une réunion d'information :** venez découvrir les modalités de l'appel à projets, des conseils pour réussir votre candidature et rencontrer la communauté EIG !<br>
 <br>
 Rendez-vous le **5 février 2020 au Lieu de la transformation publique, Paris 15e, de 14h30 à 16h45**, avec une pièce d'identité.
 <br>
