@@ -6,6 +6,7 @@ categories:
 tags:
 - Design public
 - meetup
+- UX design
 chapeau-text: Rendez-vous le 11 mars pour une 4e rencontre autour du design public.
 categorie: 'Meetup '
 une-ou-diaporama:
