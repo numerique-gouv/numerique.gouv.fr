@@ -13,7 +13,7 @@ layout: politique-logiciel-libre
 
 La politique peut être instanciée localement avec une priorité plus forte.
 
-Voir la section [instanciation](Instanciation.md) si vous souhaitez décliner cette politique au sein de votre organisation.
+Voir la section [instanciation](Instanciation) si vous souhaitez décliner cette politique au sein de votre organisation.
 
 ### Assistance sur la politique de contribution
 
