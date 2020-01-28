@@ -97,7 +97,7 @@ Assurez-vous d’avoir au minimum les fichiers README, CONTRIBUTING et LICENSE.
 
 * CONTRIBUTING : guide de contribution, comment s’impliquer et identification du processus de contribution et des licences associées. Exemple: [https://github.com/moby/moby/blob/master/CONTRIBUTING.md](https://github.com/moby/moby/blob/master/CONTRIBUTING.md)
 
-* GOVERNANCE : décrit la gouvernance du projet, les rôles et les droits de votes. Un exemple est disponible dans ce dépôt [gouvernance.md](gouvernance.md).
+* GOVERNANCE : décrit la gouvernance du projet, les rôles et les droits de votes. Un exemple est disponible dans ce dépôt : [gouvernance.md](gouvernance).
 
 * INSTALL : description de la procédure d’installation d’un logiciel.
 
