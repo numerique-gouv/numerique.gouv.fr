@@ -1,5 +1,6 @@
 ---
-title: Réussir sa candidature à l'appel à projet Entrepreneurs d'Intérêt Général 4
+title: Réussir sa candidature à l'appel à projets Entrepreneurs d'Intérêt Général
+  4
 date: 2020-01-23 14:21:00 +01:00
 categories:
 - Réunion d'information
