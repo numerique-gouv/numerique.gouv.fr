@@ -21,7 +21,9 @@ Une liste d'outils est aussi proposée pour aider à la réalisation des tests ;
 
 L'outil le plus utile reste l'inspecteur de code que propose chaque navigateur. Il permet de rechercher facilement les éléments et les attributs requis pour un examen par un test d'accessibilité.
 
-D'autres outils sont disponibles pour aider à la recherche de ces éléments de contenu ; ils se présentent souvent comme des extensions au navigateur et permettent d'explorer un ou plusieurs aspects d'un test d'accessibilité.
+Les aides techniques listées dans l’environnement de test retenu constituent un second ensemble d'outils indispensables (voir la rubrique [Environnement de test](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/environnement/#contenu)) ; ils sont, en effet, requis pour s'assurer d'une restitution correcte de contenus accessibles (les alternatives aux images, les intitulés de lien, les titres de tableau, ...) dans le cas notamment où l'examen du code seul ne suffirait pas.
+
+D'autres outils sont disponibles pour aider à la recherche des éléments de contenu ; ils se présentent souvent comme des extensions au navigateur et permettent d'explorer un ou plusieurs aspects d'un test d'accessibilité.
 
 Les barres d'outils sont des extensions du navigateur qui vont faciliter le repérage visuel de certains éléments dans un document :
 
@@ -31,7 +33,7 @@ Les barres d'outils sont des extensions du navigateur qui vont faciliter le rep�
 
 Au-delà de la simple barre d'outil, d'autres outils fournissent une analyse complète du document en signalant visuellement sur la page les erreurs d'accessibilité ou à l'inverse les éléments qui lui sont bénéfiques ; des filtres permettent alors souvent de n'afficher que certains de ces aspects. C'est ce que propose Wave, une solution disponible à la fois en ligne (<http://wave.webaim.org>) et comme extension de navigateur (<https://wave.webaim.org/extension/>).
 
-La validation du code source d'un document HTML utilise le validateur en ligne du W3C (<https://validator.w3.org/>) ; A noter que pour valider le code source généré par le navigateur, il faut utiliser l'option "Validate by Direct Input" en y copiant la source HTML proposée par l'inspecteur de code du navigateur. Des extensions de navigateur sont aussi disponibles, mais il faut être vigilant car les algorithmes de validation de ces extensions ne sont pas forcément à jour par rapport au validateur du W3C et les résultats obtenus peuvent donc être différents.
+La validation du code source d'un document HTML utilise le validateur en ligne du W3C (<https://validator.w3.org/>) ; À noter que pour valider le code source généré par le navigateur, il faut utiliser l'option "Validate by Direct Input" en y copiant la source HTML proposée par l'inspecteur de code du navigateur. Des extensions de navigateur sont aussi disponibles, mais il faut être vigilant, car les algorithmes de validation de ces extensions ne sont pas forcément à jour par rapport au validateur du W3C et les résultats obtenus peuvent donc être différents.
 
 La vérification des contrastes de couleurs bénéficie de différents outils :
 
@@ -65,7 +67,7 @@ Enfin, un logiciel ancien mais toujours utile pour évaluer la potentialité de 
     2. Contenu de l’attribut WAI-ARIA `aria-label` ;
     3. Contenu de l’attribut `alt` ;
     4. Contenu de l’attribut `title`.
-4. Dans le cas où il s’agit d’un élément élément possédant l'attribut WAI-ARIA `role="img"`, vérifier que l’image est pourvue au moins d’une alternative textuelle parmi les suivantes :
+4. Dans le cas où il s’agit d’un élément possédant l'attribut WAI-ARIA `role="img"`, vérifier que l’image est pourvue au moins d’une alternative textuelle parmi les suivantes :
     1. Passage de texte associé via l’attribut WAI-ARIA `aria-labelledby` ;
     2. Contenu de l’attribut WAI-ARIA `aria-label`.
 5. Si au moins une alternative textuelle est trouvée, le test est validé.
@@ -643,14 +645,12 @@ En quoi finalement 1.5.1 est-il différent de 1.5.2 ? Les deux disent la même c
 2. Pour chacun de ces mécanismes, vérifier que le rapport de contraste entre le texte et la couleur d’arrière-plan est suffisamment élevé ;
 3. Si c'est le cas pour chaque mécanisme, le test est validé.
 
-<!--
-Cas particuliers
-Dans ces situations, les critères sont non applicables pour ces éléments.
-    • Le texte fait partie d'un logo ou d'un nom de marque d'un organisme ou d'une société ;
-    • Le texte ou l'image de texte est purement décoratif ;
-    • Le texte fait partie d'une image véhiculant une information mais le texte lui-même n'apporte aucune information essentielle ;
-    • Le texte ou l'image de texte fait partie d'un élément d'interface sur lequel aucune action n'est possible (par exemple un bouton avec l'attribut disabled).
--->
+Note : le critère est non applicable dans les situations où :
+
+* Le texte fait partie d'un logo ou d'un nom de marque d'un organisme ou d'une société ;
+* Le texte ou l'image de texte est purement décoratif ;
+* Le texte fait partie d'une image véhiculant une information mais le texte lui-même n'apporte aucune information essentielle ;
+* Le texte ou l'image de texte fait partie d'un élément d'interface sur lequel aucune action n'est possible (par exemple un bouton avec l'attribut `disabled`).
 
 #### Critère 3.3 Dans chaque page web, les couleurs utilisées dans les composants d'interface ou les éléments graphiques porteurs d'informations sont-elles suffisamment contrastées (hors cas particuliers) ?
 
@@ -684,15 +684,15 @@ Dans ces situations, les critères sont non applicables pour ces éléments.
 2. Pour chacun de ces mécanismes, vérifier que le rapport de contraste entre les couleurs du composant ou des éléments graphiques porteurs d’informations qui le composent est suffisamment élevé ;
 3. Si c'est le cas pour chaque mécanisme, le test est validé.
 
-<!-- Cas particuliers
-Les cas suivants sont non applicables pour ce critère :
-    • Composant d'interface inactif (exemple un bouton avec un attribut disabled) sur lequel aucune action n'est possible.
-    • Composant d'interface pour lequel l'apparence est gérée par les styles natifs du navigateur sans aucune modification par l'auteur (exemple le style au focus natif dans Chrome ou Firefox).
-    • Composant d'interface pour lequel la couleur n'est pas nécessaire pour identifier le composant ou son état (exemple un groupe de liens faisant office de navigation dont la position dans la page, la taille et la couleur du texte permettent de comprendre qu'il s'agit de liens même si la couleur du soulignement des liens avec le fond blanc n'a pas un ratio de 3:1 et que le texte lui a un ratio de 4.5:1).
-    • Élément graphique ou parties d'élément graphique non porteur d'information ou ayant une alternative (description longue, informations identiques visibles dans la page).
-    • Élément graphique ou parties d'élément graphique faisant partie d'un logo ou du nom de marque d'un organisme ou d'une société.
-    • Élément graphique ou parties d'élément graphique dont la présentation est essentielle à l'information véhiculée (exemple drapeaux, logotypes, photos de personnes ou de scènes, captures d'écran, diagrammes médicaux, carte de chaleurs).
-    • Élément graphique ou parties d'élément graphique dynamiques dont le contraste au survol / focus est suffisant. -->
+Note : le critère est non applicable dans ces situations :
+
+* Composant d'interface inactif (par exemple, un bouton avec un attribut `disabled`) sur lequel aucune action n'est possible ;
+* Composant d'interface pour lequel l'apparence est gérée par les styles natifs du navigateur sans aucune modification par l'auteur (par exemple, le style au focus natif dans Chrome ou Firefox) ;
+* Composant d'interface pour lequel la couleur n'est pas nécessaire pour identifier le composant ou son état (par exemple, un groupe de liens faisant office de navigation dont la position dans la page, la taille et la couleur du texte permettent de comprendre qu'il s'agit de liens même si la couleur du soulignement des liens avec le fond blanc n'a pas un ratio de 3:1 et que le texte lui a un ratio de 4.5:1) ;
+* Élément graphique ou parties d'élément graphique non porteur d'information ou ayant une alternative (description longue, informations identiques visibles dans la page) ;
+* Élément graphique ou parties d'élément graphique faisant partie d'un logo ou du nom de marque d'un organisme ou d'une société ;
+* Élément graphique ou parties d'élément graphique dont la présentation est essentielle à l'information véhiculée (exemple drapeaux, logotypes, photos de personnes ou de scènes, captures d'écran, diagrammes médicaux, carte de chaleurs) ;
+* Élément graphique ou parties d'élément graphique dynamiques dont le contraste au survol / focus est suffisant.
 
 ### Multimédia
 
@@ -728,16 +728,15 @@ Les cas suivants sont non applicables pour ce critère :
     * Soit d'une version alternative avec une audiodescription synchronisée accessible au moyen d'un lien adjacent (une URL ou une ancre).
 3. Si c'est le cas pour chaque média temporel, le test est validé.
 
-<!-- Il existe une gestion de cas particulier lorsque :
-    • Le média temporel est utilisé à des fins décoratives (c'est-à-dire qu'il n'apporte aucune information) ;
-    • Le média temporel est lui-même une alternative à un contenu de la page (une vidéo en langue des signes ou la vocalisation d'un texte, par exemple) ; 
-    • Le média temporel est utilisé pour accéder à une version agrandie ; 
-    • Le média temporel est utilisé comme un CAPTCHA ; 
-    • Le média temporel fait partie d'un test qui deviendrait inutile si la transcription textuelle, les sous-titres synchronisés ou l'audiodescription étaient communiqués ;
-    • Pour les services de l’État, les collectivités territoriales et leurs établissements : si le média temporel a été publié entre le 23 septembre 2019 et le 23 septembre 2020 sur un site internet, intranet ou extranet créé depuis le 23 septembre 2018, il est exempté de l’obligation d’accessibilité ;
-    • Pour les personnes de droit privé mentionnées aux 2° à 4° du I de l’article 47 de la loi du 11 février 2005 : si le média temporel a été publié avant le 23 septembre 2020, il est exempté de l’obligation d’accessibilité.
+Note : le critère est non applicable dans les situations où :
 
-Dans ces situations, le critère est non applicable. -->
+* Le média temporel est utilisé à des fins décoratives (c'est-à-dire qu'il n'apporte aucune information) ;
+* Le média temporel est lui-même une alternative à un contenu de la page (une vidéo en langue des signes ou la vocalisation d'un texte, par exemple) ;
+* Le média temporel est utilisé pour accéder à une version agrandie ;
+* Le média temporel est utilisé comme un CAPTCHA ;
+* Le média temporel fait partie d'un test qui deviendrait inutile si la transcription textuelle, les sous-titres synchronisés ou l'audiodescription étaient communiqués ;
+* Pour les services de l’État, les collectivités territoriales et leurs établissements : si le média temporel a été publié entre le 23 septembre 2019 et le 23 septembre 2020 sur un site internet, intranet ou extranet créé depuis le 23 septembre 2018, il est exempté de l’obligation d’accessibilité ;
+* Pour les personnes de droit privé mentionnées aux 2° à 4° du I de l’article 47 de la loi du 11 février 2005 : si le média temporel a été publié avant le 23 septembre 2020, il est exempté de l’obligation d’accessibilité.
 
 #### Critère 4.2 Pour chaque média temporel pré-enregistré ayant une transcription textuelle ou une audiodescription synchronisée, celles-ci sont-elles pertinentes (hors cas particuliers) ?
 
@@ -852,12 +851,11 @@ Dans ces situations, le critère est non applicable. -->
     * L'alternative dans la page, référencée par le lien ou le bouton adjacent, est accessible. 
 3. Si c'est le cas pour chaque média non temporel, le test est validé.
 
-<!-- Cas particuliers
-Il existe une gestion de cas particulier lorsque :
-    • Le média non temporel est utilisé à des fins décoratives (c'est-à-dire qu'il n'apporte aucune information) ; 
-    • Le média non temporel est diffusé dans un environnement maîtrisé ; 
-    • Le média non temporel est inséré via JavaScript en vérifiant la présence et la version du plug-in, en remplacement d'un contenu alternatif déjà présent. 
-Dans ces situations, le critère est non applicable. -->
+Note : le critère est non applicable dans les situations où :
+
+* Le média non temporel est utilisé à des fins décoratives (c'est-à-dire qu'il n'apporte aucune information) ;
+* Le média non temporel est diffusé dans un environnement maîtrisé ;
+* Le média non temporel est inséré via JavaScript en vérifiant la présence et la version du plug-in, en remplacement d'un contenu alternatif déjà présent.
 
 #### Critère 4.9 Pour chaque média non temporel ayant une alternative, cette alternative est-elle pertinente ?
 
@@ -1015,7 +1013,7 @@ Dans la mesure où il est bien correctement restitué et associé par les techno
 1. Retrouver dans le document les tableaux de données ;
 2. Pour chaque en-tête de colonnes s'appliquant à la totalité de la colonne, vérifier que l'en-tête de colonne est structuré au moyen :
     * Soit d'un élément `<th>` ;
-    * Soit d'un élément pourvue d'un attribut WAI-ARIA `role="columnheader"`.
+    * Soit d'un élément pourvu d'un attribut WAI-ARIA `role="columnheader"`.
 3. Si c'est le cas pour chaque en-tête de colonne s'appliquant à la totalité de la colonne, le test est validé.
 
 ##### Test 5.6.2
@@ -1023,7 +1021,7 @@ Dans la mesure où il est bien correctement restitué et associé par les techno
 1. Retrouver dans le document les tableaux de données ;
 2. Pour chaque en-tête de ligne s'appliquant à la totalité de la ligne, vérifier que l'en-tête de ligne est structuré au moyen :
     * Soit d'un élément `<th>` ;
-    * Soit d'un élément pourvue d'un attribut WAI-ARIA `role="rowheader"`.
+    * Soit d'un élément pourvu d'un attribut WAI-ARIA `role="rowheader"`.
 3. Si c'est le cas pour chaque en-tête de ligne s'appliquant à la totalité de la ligne, le test est validé.
 
 ##### Test 5.6.3
@@ -1108,7 +1106,7 @@ Dans la mesure où il est bien correctement restitué et associé par les techno
 
 ##### Test 6.1.3
 
-1. Retrouver dans le document les liens composite (lien composé à la fois de contenu texte et d'éléments de type image) ;
+1. Retrouver dans le document les liens composites (lien composé à la fois de contenu texte et d'éléments de type image) ;
 2. Pour chaque lien composite, vérifier que ce qui permet d'en comprendre la fonction et la destination est :
     * Soit l'intitulé du lien seul, fourni par la combinaison du contenu texte et de l'alternative textuelle de l'image ;
     * Soit le contexte du lien.
@@ -1306,14 +1304,14 @@ Note : considérant la détermination du nom accessible, il existe deux cas part
 ##### Test 8.6.1
 
 1. Retrouver dans le document le titre structuré au moyen d’un élément `<title>` ;
-2. Vérifier si le contenu de la l'élément `<title>` est suffisamment pertinent (il permet de retrouver la page dans l'historique de navigation ou la liste des onglets).
+2. Vérifier si le contenu de l'élément `<title>` est suffisamment pertinent (il permet de retrouver la page dans l'historique de navigation ou la liste des onglets).
 3. Si c'est le cas, le test est validé.
 
 #### Critère 8.7 Dans chaque page web, chaque changement de langue est-il indiqué dans le code source (hors cas particuliers) ?
 
 ##### Test 8.7.1
 
-1. Retrouver les passage de texte en langue étrangère, à l'exception :
+1. Retrouver les passages de texte en langue étrangère, à l'exception :
     1. Des noms propres ;
     2. Des mots d'origine étrangère, présents dans le dictionnaire de la langue du document ;
     3. Des mots d'origine étrangère et d'usage courant dont la prononciation ne provoque pas d'incompréhension.
@@ -1339,9 +1337,9 @@ Note : considérant la détermination du nom accessible, il existe deux cas part
     2. L'utilisation de cet élément à des fins de présentation reste justifée.
 3. Si c'est le cas, le test est validé.
 
-Note : Quelques exemples, non exhaustifs de détournement de balisage : un div utilisé comme paragraphe, un titre utilisé comme légende, un blockquote ou des paragraphes vides ou encore des espaces utilisés pour créer des effets de marges.
+Note : Quelques exemples, non exhaustifs de détournement de balisage : un élément `<div>` utilisé comme paragraphe, un titre utilisé comme légende, un élément `<blockquote>` ou des paragraphes vides ou encore des espaces utilisés pour créer des effets de marges.
 
-L'utilisation d'un `role="presentation"` est formellement déconseillée, mais peut toutefois se justifier dans de rares cas. Cela peut être acceptable sur un élément `blockquote` ou un paragraphe vide, mais sera considéré comme non-conforme sur un titre.
+L'utilisation d'un `role="presentation"` est formellement déconseillée, mais peut toutefois se justifier dans de rares cas. Cela peut être acceptable sur un élément `<blockquote>` ou un paragraphe vide, mais sera considéré comme non-conforme sur un titre.
 
 Le cas des tableaux : à noter que ce test aborde les tableaux de présentation qui ne devraient finalement pas apparaître au sein de la thématique Tableaux.
 
@@ -1393,7 +1391,7 @@ Le cas des tableaux : à noter que ce test aborde les tableaux de présentation 
 
 1. Vérifier que la zone d'en-tête est structurée au moyen d'un élément `<header>` ;
 2. Vérifier que les zones de n­avigation principales et secondaires sont structurées au moyen d'un élément `<nav>`.
-3. Vérifier que l'élément `<nav>` n'est pas utilisée en dehors de la structuration des zones de navigation principales et secondaires ;
+3. Vérifier que l'élément `<nav>` n'est pas utilisé en dehors de la structuration des zones de navigation principales et secondaires ;
 4. Vérifier que la zone de contenu principal est structurée au moyen d'un élément `<main>` ;
 5. Si le document possède plusieurs éléments `<main>`, vérifier qu'un seul de ces éléments est visible (les autres occurrences de l'élément sont pourvues d'un attribut `hidden`) ;
 6. Vérifier que la zone de pied de page est structurée au moyen d'un élément `<footer>`.
@@ -1527,7 +1525,7 @@ Le cas des tableaux : à noter que ce test aborde les tableaux de présentation 
 2. Déterminer l'élément qui contient le texte et vérifier que si l'image d'arrière-plan est absente, le texte reste lisible ;
 3. Si c'est le cas, le test est validé.
 
-<!-- Ce test n'est finalement qu'un cas particulier du critère de contraste car au final la lisibilité dont il est question consiste à s'assurer qu'en l'absence d'une image d'arrière-plan le conraste avec la couleur du texte reste suffisante. -->
+<!-- Ce test n'est finalement qu'un cas particulier du critère de contraste car au final la lisibilité dont il est question consiste à s'assurer qu'en l'absence d'une image d'arrière-plan le contraste avec la couleur du texte reste suffisante. -->
 
 <!-- Au final, c'est le critère 10.5 dans sa totalité qui n'a a priori plus lieu d'être -->
 
@@ -1543,7 +1541,7 @@ Le cas des tableaux : à noter que ce test aborde les tableaux de présentation 
 
 ##### Test 10.7.1
 
-1. Retrouver dans le document les éléments susceptibles de recevoir le focus (les éléments d'interface tels que les liens ou les contrôles de formulaire, ainsi que tout élément pourvu d'un attribut tabindex d'une valeur égale ou supérieure à 1) ;
+1. Retrouver dans le document les éléments susceptibles de recevoir le focus (les éléments d'interface tels que les liens ou les contrôles de formulaire, ainsi que tout élément pourvu d'un attribut `tabindex` d'une valeur égale ou supérieure à 1) ;
 2. Pour chaque élément susceptible de recevoir le focus, vérifier que l'indication visuelle de la prise de focus est présente (propriétés `outline`, `outline-width`, `outline-style`, `outline-color`) et suffisamment contrastée (ratio de contraste égal ou supérieur à 3.0).
 3. Si c'est le cas pour chaque élément susceptible de recevoir le focus, le test est validé.
 
@@ -1670,7 +1668,7 @@ Note : une implémentation de ces règles de modification est disponible dans le
     1. Des contenus additionnels contrôlés par l'agent utilisateur (par exemple, les infobulles associées à l'attribut title ou à la validation native d'un formulaire) ;
     2. Des contenus additionnels devenant visibles par une activation de l'utilisateur (par exemple, une fenêtre de dialogue).
 2. Pour chaque contenu additionnel, vérifier que :
-    1. Soit le contenu additionnel est positionné de façon à ce qu'il ne gène pas la consultation des autres contenus informatifs sur lesquels il viendrait se superposer (y compris le composant d'interface qui a déclenché son apparition), quelles que soient les conditions de consultation (y compris lors de l'utilisation d'un mécanisme de zoom) ;
+    1. Soit le contenu additionnel est positionné de façon à ce qu'il ne gêne pas la consultation des autres contenus informatifs sur lesquels il viendrait se superposer (y compris le composant d'interface qui a déclenché son apparition), quelles que soient les conditions de consultation (y compris lors de l'utilisation d'un mécanisme de zoom) ;
     2. Soit un mécanisme (au clavier) permet de faire disparaître le contenu additionnel (par exemple, la touche Echap).
 3. Si c'est le cas pour chaque contenu additionnel, le test est validé.
 
@@ -1864,7 +1862,7 @@ Note : une implémentation de ces règles de modification est disponible dans le
 2. Pour chaque groupe de champs de formulaire de même nature ou pour chacun des champs de même nature qui dispose d'une légende, vérifier que le texte de cette légende est pertinent ;
 3. Si c'est le cas pour chaque groupe de champs de formulaire ou pour chacun des champs de même nature, le test est validé.
 
-#### Critère 11.8 Dans chaque formulaire, les items de même nature d'une liste de choix sont-ils regroupées de manière pertinente ?
+#### Critère 11.8 Dans chaque formulaire, les items de même nature d'une liste de choix sont-ils regroupés de manière pertinente ?
 
 ##### Test 11.8.1
 
@@ -2061,14 +2059,11 @@ Les conditions sont les mêmes que 11.10.4 qui ne concerne que des champs obliga
 3. Comparer le code source (généré côté client) des deux pages et vérifier que le menu ou les barres de navigation se présentent toujours dans le même ordre relatif dans la structure ;
 4. Si c'est le cas, le test est validé.
 
-<!--
-Cas particuliers
-Il existe une gestion de cas particulier lorsque :
-    • Les pages d'un ensemble de pages sont le résultat ou une partie d'un processus (un processus de paiement ou de prise de commande, par exemple) ; 
-    • La page est la page d'accueil ; 
-    • le site web est constitué d'une seule page. 
-Dans ces situations, le critère est non applicable.
--->
+Note : le critère est non applicable dans les situations où :
+
+* Les pages d'un ensemble de pages sont le résultat ou une partie d'un processus (un processus de paiement ou de prise de commande, par exemple) ;
+* La page est la page d'accueil ;
+* le site web est constitué d'une seule page.
 
 #### Critère 12.3 La page « plan du site » est-elle pertinente ?
 
@@ -2163,10 +2158,7 @@ Note : Un plan du site trop complexe ou trop profond n'est pas recommandé pour 
     * Visible à la prise de focus lors d’une tabulation.
 3. Si c'est le cas, le test est validé.
 
-<!-- 
-Cas particuliers
-Il existe une gestion de cas particuliers lorsque le site web est constitué d'une seule page. 
-Dans ce cas de figure, l'obligation de la présence d'un lien d'accès rapide est liée au contexte de la page : présence ou absence de navigation ou de contenus additionnels, par exemple. Le critère peut être considéré comme non applicable lorsqu'il est avéré qu'un lien d'accès rapide est inutile. -->
+Note : lorsque le site web est constitué d'une seule page, l'obligation de la présence d'un lien d'accès rapide est liée au contexte de la page (présence ou absence de navigation ou de contenus additionnels, par exemple). Le critère peut être considéré comme non applicable lorsqu'il est avéré qu'un lien d'accès rapide est inutile.
 
 #### Critère 12.8 Dans chaque page web, l'ordre de tabulation est-il cohérent ?
 
@@ -2223,7 +2215,7 @@ Le test sur le piège au clavier se limite alors à vérifier que le composant e
 
 ##### Test 13.1.1
 
-1. Retrouver dans le document les rafraîchissements initiés dans le contenu d'un élément `<object>`, `<embed>`, `<svg>` ou `<canvas>` et par un élément `<meta http-equiv="refresh" content="[compteur]">` (dans l'élément `<head>` de la page) ;
+1. Retrouver dans le document les rafraîchissements initiés dans le contenu par un élément `<object>`, `<embed>`, `<svg>`, `<canvas>` ou par un élément `<meta http-equiv="refresh" content="[compteur]">` (dans l'élément `<head>` de la page) ;
 2. Pour chaque rafraîchissement, vérifier que :
     * Soit la présence d'un mécanisme permet à l'utilisateur de stopper et de relancer le rafraîchissement ;
     * Soit la présence d'un mécanisme permet à l'utilisateur d'augmenter la limite de temps entre deux rafraîchissements de dix fois, au moins ;
@@ -2258,11 +2250,7 @@ Le test sur le piège au clavier se limite alors à vérifier que le composant e
     * Soit la limite de temps est de vingt heures, au moins.
 3. Si c'est le cas, le test est validé.
 
-<!--
-Cas particuliers
-Il existe une gestion de cas particuliers lorsque la limite de temps est essentielle, notamment lorsqu'elle ne pourrait pas être supprimée sans changer fondamentalement le contenu ou les fonctionnalités liées au contenu.
-Dans ces situations, le critère est non applicable. Par exemple, le rafraîchissement d'un flux RSS dans une page n'est pas une limite de temps essentielle ; le critère est applicable. En revanche, une redirection automatique qui amène vers la nouvelle version d'une page à partir d'une url obsolète est essentielle ; le critère est non applicable.
--->
+Note : lorsque la limite de temps est essentielle, notamment lorsqu'elle ne pourrait pas être supprimée sans changer fondamentalement le contenu ou les fonctionnalités liées au contenu, le critère est non applicable. Par exemple, le rafraîchissement d'un flux RSS dans une page n'est pas une limite de temps essentielle ; le critère est applicable. En revanche, une redirection automatique qui amène vers la nouvelle version d'une page à partir d'une url obsolète est essentielle ; le critère est non applicable.
 
 #### Critère 13.2 Dans chaque page web, l'ouverture d'une nouvelle fenêtre ne doit pas être déclenchée sans action de l'utilisateur. Cette règle est-elle respectée ?
 
@@ -2284,7 +2272,7 @@ Dans ces situations, le critère est non applicable. Par exemple, le rafraîchis
     * Pour les documents eux-mêmes au format .html, analyser l'accessibilité du document.
 3. Si c'est le cas pour chaque fichier au format bureautique, le test est validé.
 
-Note au sujet de l'outil PAC : l'outil analyse le document PDF du point de vue de l'accessibilité mais également de critères de qualité (par exemple la norme PDF/UA). Seules les erreurs relatives à des critères présents dans la listes des critères « Liste document bureautique en téléchargement » rendent le critère « Non conforme ». Par ailleurs, cet outil ne fonctionne que sur la plateforme Windows. Sur Mac, le contrôle doit se faire manuellement.
+Note au sujet de l'outil PAC : l'outil analyse le document PDF du point de vue de l'accessibilité mais également de critères de qualité (par exemple la norme PDF/UA). Seules les erreurs relatives à des critères présents dans la liste des critères « Liste document bureautique en téléchargement » rendent le critère « Non conforme ». Par ailleurs, cet outil ne fonctionne que sur la plateforme Windows. Sur Mac, le contrôle doit se faire manuellement.
 
 Note au sujet Microsoft Office : le logiciel offre un vérificateur d'accessibilité en standard, (accessible via le menu « Fichier > Informations > Vérifier la présence de problèmes > Vérifier l'accessibilité »). Ce vérificateur peut être considérablement amélioré via le plugin Word Accessibility Plug-in (voir dans la section Outils). Ce plugin ne fonctionne que sur Windows. Sur Mac, le contrôle doit se faire manuellement.
 
@@ -2294,11 +2282,7 @@ Note au sujet du format EPUB : l'utilitaire Ace by DAISY App permet d'effectuer 
 
 Note au sujet des documents dérogés : le référentiel propose un statut de dérogation dans certains cas (cf. guide d'accompagnement). Dans ce cas, les tests ne sont pas à réaliser, la version accessible étant fournie sur demande de l'utilisateur.
 
-<!--
-Cas particuliers
-Il existe une gestion de cas particuliers :
-    • Pour les personnes de droit privé mentionnées aux 2° à 4° du I de l’article 47 de la loi du 11 février 2005 : si les fichiers bureautiques (ex : PDF, documents Microsoft ou libreOffice etc.) ont été publiés avant le 23 septembre 2018 (sauf si ce sont des documents nécessaires pour accomplir une démarche administrative relevant des tâches effectuées par l'organisme concerné), ils sont exemptés de l’obligation d’accessibilité ;
--->
+Note à l'attention des personnes de droit privé mentionnées aux 2° à 4° du I de l’article 47 de la loi du 11 février 2005 : si les fichiers bureautiques (ex : PDF, documents Microsoft ou libreOffice, etc.) ont été publiés avant le 23 septembre 2018 (sauf si ce sont des documents nécessaires pour accomplir une démarche administrative relevant des tâches effectuées par l'organisme concerné), ils sont exemptés de l’obligation d’accessibilité.
 
 #### Critère 13.4 Pour chaque document bureautique ayant une version accessible, cette version offre-t-elle la même information ?
 
@@ -2378,7 +2362,6 @@ Note : l'évaluation de ce critère peut être complexe. Lorsque l'effet est gé
 
 Note : l'arrêt ou la mise en pause d'un contenu en mouvement ou clignotant au moyen de la prise de focus (par exemple, l'effet est suspendu uniquement pendant la prise de focus) n'est pas considéré comme un procédé conforme. Dans certains cas, le mouvement ne peut pas être arrêté, par exemple dans le cas d'une barre de progression, dans ce cas, le critère est non applicable.
 
-
 #### Critère 13.9 Dans chaque page web, le contenu proposé est-il consultable quelle que soit l'orientation de l'écran (portait ou paysage) (hors cas particuliers) ?
 
 ##### Test 13.9.1
@@ -2389,15 +2372,7 @@ Note : l'arrêt ou la mise en pause d'un contenu en mouvement ou clignotant au m
     * Le contenu proposé reste le même quel que soit le mode d'orientation de l'écran utilisé même si sa présentation et le moyen d'y accéder peut différer.
 3. Si c'est le cas, le test est validé.
 
-<!--
-Cas particuliers
-Il existe des interfaces pour lesquelles l'orientation du périphérique est essentielle à leur utilisation.
-Dans ces situations, le critère est non applicable. Il peut s'agir d'interfaces de jeu, de piano, de dépôt de chèques bancaires, etc.
-Si l'interface est le seul moyen d'accéder au service proposé, une alternative devrait être mise en place pour pallier cette carence.
-Références documentaires :
-    • API JS : https://www.w3.org/TR/screen-orientation/ 
-    • API Viewport : https://www.w3.org/TR/css-device-adapt-1/#orientation-desc 
-    -->
+Note : il existe des interfaces pour lesquelles l'orientation du périphérique est essentielle à leur utilisation. Dans ces situations, le critère est non applicable. Il peut s'agir d'interfaces de jeu, de piano, de dépôt de chèques bancaires, etc. Si l'interface est le seul moyen d'accéder au service proposé, une alternative devrait être mise en place pour pallier cette carence.
 
 #### Critère 13.10 Dans chaque page web, les fonctionnalités utilisables ou disponibles au moyen d'un geste complexe peuvent-elles être également disponibles au moyen d'un geste simple (hors cas particuliers) ?
 
@@ -2455,6 +2430,6 @@ Il existe une gestion de cas particuliers dans deux types de situation :
 <!-->
 Cas particuliers
 Il existe une gestion de cas particulier lorsque :
-    • Le mouvement est essentiel à l'accomplissement de la fonctionnalité (ex. podomètre).
+    • Le mouvement est essentiel à l'accomplissement de la fonctionnalité (par exemple dans le cas d'un podomètre).
     • La détection du mouvement est utilisée pour contrôler une fonctionnalité au travers d'une interface compatible avec l'accessibilité.
 -->
