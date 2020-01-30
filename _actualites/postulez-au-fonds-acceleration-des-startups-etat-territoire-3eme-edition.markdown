@@ -6,11 +6,11 @@ categories:
 - Appel à projets
 tags:
 - Beta.gouv.fr
-chapeau-text: beta.gouv.fr, au sein de la direction interministérielle du numérique
-  (DINUM), lance le troisième appel à projets du fonds d’accélération des Startups
-  d’État et de Territoire (FAST). Celui-ci vise à cofinancer des services publics
-  numériques en phase préliminaire d’investigation, de construction ou d’accélération,
-  qui ont pour but de résoudre un problème de politique publique.
+chapeau-text: La direction interministérielle du numérique (DINUM), qui porte beta.gouv.fr,
+  lance le troisième appel à projets du fonds d’accélération des Startups d’État et
+  de Territoire (FAST). Celui-ci vise à cofinancer des services publics numériques
+  en phase préliminaire d’investigation, de construction ou d’accélération, qui ont
+  pour but de résoudre un problème de politique publique.
 une-ou-diaporama:
 - image: "/uploads/FAST-3_une.png"
 auteur: beta.gouv.fr
