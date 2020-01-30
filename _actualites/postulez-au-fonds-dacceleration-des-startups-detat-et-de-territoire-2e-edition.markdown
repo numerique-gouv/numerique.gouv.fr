@@ -19,5 +19,5 @@ auteur: beta.gouv.fr
 redirection: https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acceleration-des-startups-d-etat-2eme-edition/
 ---
 
-> [Lire la suite](https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acceleration-des-startups-d-etat-2eme-edition/)
+> [Lire la suite sur beta.gouv.fr](https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acceleration-des-startups-d-etat-2eme-edition/)
 {: .lien-important}
