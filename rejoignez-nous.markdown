@@ -55,6 +55,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 #### **Data/Intelligence artificielle**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Responsable de portefeuille de produits Data – Etalab H/F**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=c7a26fb6-ae5c-4344-a85f-1f4b1e333446&offerid=338053 "Responsable de portefeuille de produits Data – Etalab H/F - Télécharger le pdf") (pdf - 559&nbsp;ko)
+<br>Cadre/Catégorie A
 
 * [**Chargé/Chargée de mission Lab IA**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fc93923c-8bb9-47a4-b3e0-4a2d5d3acc3e&offerid=289475 "Chargé/Chargée de mission Lab IA - Télécharger le pdf") (pdf - 332&nbsp;ko)
 <br>Cadre/Catégorie A
