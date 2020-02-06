@@ -12,8 +12,8 @@ chapeau-text: Le gouvernement s’est donné comme objectif de rendre accessible
   250 démarches les plus utilisées par les Français, vérifions l'avancée de leur numérisation
   et testons chaque service en ligne au regard de divers critères qualité. Et nous
   en rendons compte à travers cet observatoire.
-une-ou-diaporama:
-- image: "/uploads/observatoire_publication_Bandeau_1635x345.jpg"
+une:
+  image: "/uploads/observatoire_publication_Bandeau_1635x345.jpg"
 layout: rgaa
 ---
 
