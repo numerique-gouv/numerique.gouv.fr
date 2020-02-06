@@ -6,15 +6,14 @@ tags:
 - design
 - qualité des services publics numériques
 chapeau-text: Le gouvernement s’est donné comme objectif de rendre accessibles sur
-  internet l'ensemble des démarches administratives d'ici à 2022. Mais plutôt qu'une
-  dématérialisation à marche forcée, l'accent est mis avant tout sur la qualité et
-  la simplicité d’utilisation du point de vue de l'usager. Lancé en juin 2019, cet
-  observatoire suit l’avancée et la qualité des services publics numériques. Chaque
-  trimestre, nous évaluons les 250 démarches les plus utilisées par les Français,
-  vérifions l'avancée de la numérisation et testons chaque service en ligne au regard
-  de divers critères qualité.
+  internet l'ensemble des démarches administratives d'ici à 2022. Plutôt qu'une dématérialisation
+  à marche forcée, l'accent est mis avant tout sur la qualité et la simplicité d’utilisation
+  du point de vue de l'usager. Chaque trimestre depuis juin 2019, nous évaluons les
+  250 démarches les plus utilisées par les Français, vérifions l'avancée de leur numérisation
+  et testons chaque service en ligne au regard de divers critères qualité. Et nous
+  en rendons compte à travers cet observatoire.
 une-ou-diaporama:
-- image: "/uploads/image_DINSIC.jpg"
+- image: "/uploads/observatoire_publication_Bandeau_1635x345.jpg"
 layout: rgaa
 ---
 
