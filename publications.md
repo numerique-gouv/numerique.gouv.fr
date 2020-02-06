@@ -5,6 +5,10 @@ une:
   image: "/assets/img/main/image_liste_actualites_2.jpg"
   alternative-textuelle: les actualites
 publications:
+- title: L’observatoire de la qualité des services publics numériques
+  url: "/publications/observatoire-qualite-des-services-publics-numeriques/"
+  une-ou-diaporama:
+  - image: "/uploads/observatoire_publication_740x500.jpg"
 - title: 'TECH.GOUV : Stratégie et feuille de route 2019-2021'
   url: "/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/"
   une-ou-diaporama:
