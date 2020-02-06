@@ -2,6 +2,7 @@
 title: L’observatoire de la qualité des services publics numériques
 date: 2020-02-06 09:52:00 +01:00
 permalink: "/publications/observatoire-qualite-des-services-publics-numeriques/"
+published: false
 tags:
 - observatoire
 - design
