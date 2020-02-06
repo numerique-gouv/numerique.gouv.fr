@@ -17,5 +17,7 @@ une:
 layout: rgaa
 ---
 
-> [Consulter l'observatoire](https://observatoire.numerique.gouv.fr/ "Consulter l'observatoire")
+[![Consulter l'observatoire de la qualité des services numériques](/uploads/capture-observatoire-oct2019-851502.png){: width="200px" height="165px" }](https://observatoire.numerique.gouv.fr/)
+{: .text-center}
+> **[Consulter l’observatoire](https://observatoire.numerique.gouv.fr/)**
 {: .lien-important}
