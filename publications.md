@@ -40,7 +40,7 @@ publications:
 - title: L’observatoire de la qualité des services publics numériques
   url: "/publication/observatoire-qualite-des-services-publics-numeriques/"
   une-ou-diaporama:
-  - image: "/uploads/Observatoire-oct2019-une.jpg"
+  - image: "/uploads/observatoire_publication_740x500.jpg"
 layout: publications
 ---
 
