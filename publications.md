@@ -38,9 +38,9 @@ publications:
   une-ou-diaporama:
   - image: "/uploads/principes-mutualisation-si.JPG"
 - title: L’observatoire de la qualité des services publics numériques
-  url: 
+  url: "/publication/observatoire-qualite-des-services-publics-numeriques/"
   une-ou-diaporama:
-  - image: 
+  - image: "/uploads/Observatoire-oct2019-une.jpg"
 layout: publications
 ---
 
