@@ -15,6 +15,7 @@ chapeau-text: Le gouvernement s’est donné comme objectif la numérisation de 
   divers critères qualité.
 une-ou-diaporama:
 - image: "/uploads/image_DINSIC.jpg"
+layout: rgaa
 ---
 
 > [Consulter l'observatoire](https://observatoire.numerique.gouv.fr/observatoire/ "Consulter l'observatoire")
