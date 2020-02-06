@@ -17,5 +17,5 @@ une:
 layout: rgaa
 ---
 
-> [Consulter l'observatoire](https://observatoire.numerique.gouv.fr/observatoire/ "Consulter l'observatoire")
+> [Consulter l'observatoire](https://observatoire.numerique.gouv.fr/ "Consulter l'observatoire")
 {: .lien-important}
