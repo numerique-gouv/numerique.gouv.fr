@@ -37,6 +37,10 @@ publications:
   url: "/publications/principes-mutualisation-si-etat/"
   une-ou-diaporama:
   - image: "/uploads/principes-mutualisation-si.JPG"
+- title: L’observatoire de la qualité des services publics numériques
+  url: 
+  une-ou-diaporama:
+  - image: 
 layout: publications
 ---
 
