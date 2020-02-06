@@ -4,7 +4,7 @@ date: 2020-02-06 09:52:00 +01:00
 tags:
 - observatoire
 - design
-- qualité des services numériques
+- qualité des services publics numériques
 chapeau-text: Le gouvernement s’est donné comme objectif la numérisation de toutes
   les démarches administratives. Mais loin d'une dématérialisation à marche forcée,
   l'accent est mis avant tout sur la qualité. Car personne ne doit être laissé au
