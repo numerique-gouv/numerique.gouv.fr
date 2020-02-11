@@ -24,7 +24,7 @@ L’accessibilité numérique, au-delà d’être une obligation légale sanctio
 
 **Les actions qui suivent ont pour objectif d’apporter des résultats concrets en matière d’accessibilité des services publics numériques pour tous.**
 
-#### L’ « Accessibilité numérique » : un nouveau critère suivi dans l’Observatoire
+#### L’ « accessibilité numérique » : un nouveau critère suivi dans l’Observatoire
 
 L’[Observatoire](https://observatoire.numerique.gouv.fr/) de la qualité des démarches en ligne, lancé en juin 2019, rend public le suivi de l’avancement de la numérisation et de la qualité des 250 services publics les plus utilisés par les français. Ce dispositif est porté par le Secrétaire d’État au Numérique Cédric O et c’est la Direction interministérielle du numérique (DINUM) qui est en charge de sa publication chaque trimestre, ainsi que de l’accompagnement des administrations en vue d’améliorations concrètes pour les français.
 
