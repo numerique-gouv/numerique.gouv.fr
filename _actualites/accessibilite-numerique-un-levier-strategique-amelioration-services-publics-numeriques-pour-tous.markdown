@@ -16,7 +16,7 @@ une-ou-diaporama:
 
 Le gouvernement s’est engagé en faveur d’une transition numérique construite avec tous usagers. La dématérialisation a pour but de simplifier la relation entre les usagers et l’administration, cependant nombre d’entre eux ressentent encore une trop grande complexité dans la réalisation des démarches en ligne. D’après le [Baromètre du numérique 2019](https://www.arcep.fr/cartes-et-donnees/nos-publications-chiffrees/numerique/le-barometre-du-numerique.html), 82% des français vivent le numérique comme un facteur de complexification de leur relation avec l’administration. **Mieux prendre en compte les besoins et les réalités de tous les usagers est la priorité du Secrétaire d’État chargé du Numérique, et celle de la Direction interministérielle du numérique (DINUM).**
 
-« Le web est fondamentalement conçu pour fonctionner pour toutes les personnes, quel que soit leur matériel, leur langue, leur culture, leur emplacement ou leur capacité physique ou mentale » Tim Berners-Lee, inventeur du World Wide Web et president du World Wide Web Consortium <br>
+*« Le web est fondamentalement conçu pour fonctionner pour toutes les personnes, quel que soit leur matériel, leur langue, leur culture, leur emplacement ou leur capacité physique ou mentale »* Tim Berners-Lee, inventeur du World Wide Web et president du World Wide Web Consortium <br>
 
 ### L’accessibilité numérique, une opportunité pour tous
 
@@ -56,7 +56,7 @@ Les ateliers donneront la parole à différents publics notamment aux plus vuln�
 
 VoxUsagers, c’est une suite d’outils de l’État qui permet aux usagers de partager leur expérience afin que les administrations améliorent leurs services : respectivement le bouton « je donne mon avis » accessible en fin de démarche administrative, [voxusagers.gouv.fr](https://voxusagers.gouv.fr/) pour partager publiquement son histoire avec un service, et [docs.voxusagers.gouv.fr](https://docs.voxusagers.gouv.fr/) pour faire remonter les documents administratifs trop complexes.
 
-Dès le printemps 2020, nous inviterons les usagers à signaler sur voxusagers.gouv.fr les services, formulaires, et interfaces qui ne sont pas accessibles numériquement. Cela permettra encore une fois de mieux prioriser les améliorations à apporter en priorité avec les administrations. L’accès à la plateforme sera mise à disposition des usagers dans les déclarations d’accessibilité des services en ligne.
+Dès le printemps 2020, nous inviterons les usagers à signaler sur voxusagers.gouv.fr les services, formulaires, et interfaces qui ne sont pas accessibles numériquement. Cela permettra encore une fois de mieux prioriser les améliorations à apporter en priorité avec les administrations. L’accès à la plateforme sera mis à disposition des usagers dans les déclarations d’accessibilité des services en ligne.
 
 
 La DINUM poursuit donc son action d’amélioration de la qualité de l’expérience des services numériques, pour une meilleure prise en compte de tous les usagers, notamment des personnes en situation de handicap pour permettre à tous l’accès aux services publics numériques. Le numérique ne doit plus être synonyme d'abandon, mais doit simplifier la relation des usagers avec l'administration. Il doit nous libérer et nous donner plus de temps pour mieux accompagner ceux qui en ont le plus besoin.
