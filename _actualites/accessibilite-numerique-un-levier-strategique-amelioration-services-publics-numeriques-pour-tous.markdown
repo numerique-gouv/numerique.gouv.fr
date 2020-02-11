@@ -39,9 +39,10 @@ Indicateur majeur de la qualité, la satisfaction des usagers est suivie dans l�
 > L’ensemble des administrations doit intensifier la mise en accessibilité des services publics numériques, sous l’impulsion du Secrétaire d’État chargé du Numérique, et avec le soutien des équipes de la DINUM.
 > <br>
 > <br>
+{: .encadre}
+
 > **[Consulter l’observatoire, édition janvier 2020](https://observatoire.numerique.gouv.fr/observatoire/)**
 {: .lien-important}
-{: .encadre}
 
 #### Renforcement du pôle Design des services numérique pour accélérer la mise en accessibilité des administrations
 
