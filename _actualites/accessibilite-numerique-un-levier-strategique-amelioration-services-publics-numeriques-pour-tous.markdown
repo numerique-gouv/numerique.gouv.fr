@@ -61,3 +61,6 @@ Dès le printemps 2020, nous inviterons les usagers à signaler sur voxusagers.g
 <br>
 
 La DINUM poursuit son action d’amélioration de la qualité de l’expérience des services numériques, pour une meilleure prise en compte de tous les usagers, notamment des personnes en situation de handicap pour permettre à tous l’accès aux services publics numériques. Le numérique doit simplifier la relation des usagers avec l'administration. Il doit nous libérer et nous donner plus de temps pour mieux accompagner ceux qui en ont le plus besoin.
+
+> **[Consulter l’observatoire, édition janvier 2020](https://observatoire.numerique.gouv.fr/observatoire/)**
+{: .lien-important}
