@@ -31,6 +31,7 @@ L’[Observatoire](https://observatoire.numerique.gouv.fr/) de la qualité des d
 Indicateur majeur de la qualité, la satisfaction des usagers est suivie dans l’Observatoire grâce au bouton « Je donne mon avis » installé à la fin des démarches. Aujourd’hui plus de 350 000 avis d’usagers ont été recueillis ces 6 derniers mois, et permettent aux administrations de prioriser les améliorations à apporter aux services. Le déploiement du bouton « Je donne mon avis » sur l’ensemble des démarches de l’Observatoire se poursuit, et devra être complet d’ici le 31 mars 2020.
 
 >
+>
 > **Un nouveau critère de qualité fait son apparition dans la 3e édition de l’Observatoire : l’accessibilité numérique pour les personnes en situation de handicap.** Ce nouveau critère et sa mesure permettront de prioriser les actions nécessaires pour améliorer la qualité des démarches sur le plan de l’accessibilité numérique.
 > <br>
 > <br>
