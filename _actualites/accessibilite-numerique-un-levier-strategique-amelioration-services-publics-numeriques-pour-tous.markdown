@@ -34,9 +34,11 @@ Indicateur majeur de la qualité, la satisfaction des usagers est suivie dans l�
 
 Une première évaluation de l’accessibilité des démarches de l’Observatoire permet de prendre conscience du chemin qui reste à parcourir : 13% des démarches sont conformes. **Nous nous fixons un nouvel objectif : atteindre 80% à 2022.**
 
-L’ensemble des administrations doit intensifier la mise en accessibilité des services publics numériques, sous l’impulsion du Secrétaire d’État chargé du Numérique, et avec le soutien des équipes de la DINUM.
+L’ensemble des administrations doit intensifier la mise en accessibilité des services publics numériques, sous l’impulsion du Secrétaire d’État chargé du Numérique, et avec le soutien des équipes de la DINUM. <br>
+<br>
 
 [> Consulter l’observatoire, édition janvier 2020](https://observatoire.numerique.gouv.fr/observatoire/)
+<br>
 
 ### Renforcement du pôle Design des services numérique pour accélérer la mise en accessibilité des administrations
 
