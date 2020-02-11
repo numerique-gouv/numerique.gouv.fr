@@ -55,7 +55,7 @@ Les ateliers donneront la parole à différents publics notamment aux plus vuln�
 
 #### Une plateforme de signalement des problématiques d’accessibilité des services publics numériques
 
-VoxUsagers, c’est une suite d’outils de l’État qui permet aux usagers de partager leur expérience afin que les administrations améliorent leurs services : respectivement le bouton « je donne mon avis » accessible en fin de démarche administrative, [voxusagers.gouv.fr](https://voxusagers.gouv.fr/) pour partager publiquement son histoire avec un service, et [docs.voxusagers.gouv.fr](https://docs.voxusagers.gouv.fr/) pour faire signaler les documents administratifs trop complexes.
+VoxUsagers, c’est une suite d’outils de l’État qui permet aux usagers de partager leur expérience afin que les administrations améliorent leurs services : respectivement le bouton « je donne mon avis » accessible en fin de démarche administrative et [voxusagers.gouv.fr](https://voxusagers.gouv.fr/) pour partager publiquement son histoire avec un service.
 
 Dès le printemps 2020, nous inviterons les usagers à signaler sur voxusagers.gouv.fr les services, formulaires, et interfaces qui ne sont pas accessibles numériquement. Cela permettra encore une fois de mieux prioriser les améliorations à apporter en priorité avec les administrations. L’accès à la plateforme sera mise à disposition des usagers dans les déclarations d’accessibilité des services en ligne.
 <br>
