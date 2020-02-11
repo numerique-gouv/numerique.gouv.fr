@@ -36,8 +36,10 @@ Une première évaluation de l’accessibilité des démarches de l’Observatoi
 
 L’ensemble des administrations doit intensifier la mise en accessibilité des services publics numériques, sous l’impulsion du Secrétaire d’État chargé du Numérique, et avec le soutien des équipes de la DINUM.
 
-> [Consulter l’observatoire, édition janvier 2020](https://observatoire.numerique.gouv.fr/observatoire/) 
-{: .text-center} 
+[![Consulter l’observatoire, édition janvier 2020](https://observatoire.numerique.gouv.fr/observatoire/){: width="200px" height="165px" }](https://observatoire.numerique.gouv.fr/)
+{: .text-center}
+> **[Consulter l’observatoire](https://observatoire.numerique.gouv.fr/)**
+{: .lien-important}
 
 #### Renforcement du pôle Design des services numérique pour accélérer la mise en accessibilité des administrations
 
