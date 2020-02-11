@@ -40,7 +40,6 @@ Indicateur majeur de la qualité, la satisfaction des usagers est suivie dans l�
 > 
 > 
 > [> Consulter l’observatoire, édition janvier 2020](https://observatoire.numerique.gouv.fr/observatoire/)
-{: .text-center}
 {: .encadre}
 
 ### Renforcement du pôle Design des services numérique pour accélérer la mise en accessibilité des administrations
