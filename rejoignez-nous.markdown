@@ -1,6 +1,6 @@
 ---
 title: Rejoignez-nous
-date: 2020-02-14 03:59:00 +01:00
+date: 2020-02-14 10:59:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
