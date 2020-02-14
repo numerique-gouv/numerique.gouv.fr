@@ -35,7 +35,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 
 * [**Chef/Cheffe de mission « Infra »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=cc41bb58-0ade-413a-a402-6f1546465224&offerid=271894 "Chef/Cheffe de mission « Infra » – Télécharger le pdf") (pdf - 331&nbsp;ko) 
-<br>Cadre/Catégorie A
+<br>Cadre/Catégorie A 
 <br>
 <br>
 
