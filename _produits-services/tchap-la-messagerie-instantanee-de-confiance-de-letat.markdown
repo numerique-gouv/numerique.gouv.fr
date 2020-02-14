@@ -24,7 +24,7 @@ Disponible **sur smartphones et tablettes Android et Apple**, ainsi que **sur or
 * créer ou rejoindre **un salon de discussion public**,
 * **partager des fichiers**,
 * retrouver facilement un interlocuteur grâce à l’**annuaire intégré des utilisateurs**,
-* \*\*inviter des correspondants extérieurs \*\*à l’État (partenaire, prestataire…) à un salon,
+* **inviter des correspondants extérieurs** à l’État (partenaire, prestataire…) à un salon,
 * …
 <br>
 <br>
