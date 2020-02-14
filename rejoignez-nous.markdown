@@ -1,10 +1,10 @@
 ---
 title: Rejoignez-nous
-date: 2020-02-12 03:59:00 +01:00
+date: 2020-02-14 10:59:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 12 février 2020
+date_de_modification: 14 février 2020
 layout: page-annexe
 ---
 
@@ -28,11 +28,14 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Consultant/Consultante senior « Transformation Numérique de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=8ff2bfb6-9997-4377-89df-fd23aaea15ac&offerid=338056 "Consultant/Consultante senior « Transformation Numérique de l’État » – Télécharger le pdf") (pdf - 373&nbsp;ko) 
+<br>Cadre supérieur/Catégorie A+
+
 * [**Chef/Cheffe de mission « Label »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=76b5471e-22b3-455c-8398-9d121ad7ecd4&offerid=261719 "Chef/Cheffe de mission « Label » – Télécharger le pdf") (pdf - 173&nbsp;ko) 
 <br>Cadre/Catégorie A
 
 * [**Chef/Cheffe de mission « Infra »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=cc41bb58-0ade-413a-a402-6f1546465224&offerid=271894 "Chef/Cheffe de mission « Infra » – Télécharger le pdf") (pdf - 331&nbsp;ko) 
-<br>Cadre/Catégorie A
+<br>Cadre/Catégorie A 
 <br>
 <br>
 
