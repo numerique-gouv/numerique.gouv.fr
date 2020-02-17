@@ -12,7 +12,9 @@ layout: rgaa
 
 <iframe frameborder="0" width="680" height="370" src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
 
-### Communiquez efficacement
+<figure class='image-left' style='width: 6%;'>
+<img src="/uploads/chat.png"/>
+</figure>## Communiquez efficacement
 
 Agent public, vous avez besoin de **communiquer facilement** avec des collaborateurs et partenaires, **à distance voire en mobilité** ? Désormais, vous pouvez utiliser **Tchap, la messagerie instantanée spécialement créée pour vous**.
 
@@ -20,7 +22,11 @@ Agent public, vous avez besoin de **communiquer facilement** avec des collaborat
 <br>
 <br>
 
-### Sur mobile et ordinateur
+<figure class='image-left' style='width: 6%;'>
+<img src="/uploads/smartphone.png"/>
+</figure>## Sur mobile et ordinateur<figure class='image-right' style='width: 6%;'>
+<img src="/uploads/computer.png"/>
+</figure>
 
 Disponible **sur smartphones et tablettes Android et Apple**, ainsi que **sur ordinateur** via un simple navigateur, cette alternative aux applications grand public vous permet de :
 
@@ -33,7 +39,9 @@ Disponible **sur smartphones et tablettes Android et Apple**, ainsi que **sur or
 <br>
 <br>
 
-### Des fonctionnalités uniques
+<figure class='image-left' style='width: 6%;'>
+<img src="/uploads/picto-intervention.png"/>
+</figure>## Des fonctionnalités uniques
 
 Conçu spécifiquement pour les agents publics, Tchap offre des fonctionnalités uniques, comme **un annuaire intégré des utilisateurs**, vous permettant par exemple de retrouver un interlocuteur dans un autre ministère.
 
@@ -41,7 +49,9 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 <br>
 <br>
 
-### Ouvert aux agents de l’État et à leurs interlocuteurs
+<figure class='image-left' style='width: 6%;'>
+<img src="/uploads/group-bleu.png"/>
+</figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
 
 Tout agent de l’État peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un correspondant extérieur à l’État à un salon spécifique.
 
@@ -49,7 +59,9 @@ En janvier 2020, **plus de 80 000 agents publics** utilisent Tchap pour leurs é
 <br>
 <br>
 
-### Sécurité et confidentialité des échanges
+<figure class='image-left' style='width: 6%;'>
+<img src="/uploads/shield-bleu.png"/>
+</figure>## Sécurité et confidentialité des échanges
 
 Tous les échanges (hors salons publics) sont chiffrés de bout en bout. Concrètement, cela veut dire que même interceptés, ils seraient illisibles.
 
@@ -64,11 +76,11 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 * Un **annuaire** intégré des utilisateurs de l’application
 * **Des salons publics** sur vos centres d’intérêt professionnels
 * Une utilisation simultanée possible sur **plusieurs appareils** (smartphones, ordinateur, tablette…)
-
-
+<br>
+<br>
 
 **Rejoignez les plus de 80 000 utilisateurs !**
-{: .text-center}
+{: .text-center .margin-bottom-1 .margin-top-3}
 
 <figure class='image-center' style='width: 50%;'><img src="/uploads/googleplay.png"></figure>
 <figure class='image-center' style='width: 50%;'><img src="/uploads/appstore.png"></figure>
