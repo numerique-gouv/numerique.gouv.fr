@@ -10,6 +10,7 @@ une:
 layout: rgaa
 ---
 
+[Tchap, la messagerie instantanée des agents publics](https://www.dailymotion.com/video/x7qn13j)
 
 <iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
 
