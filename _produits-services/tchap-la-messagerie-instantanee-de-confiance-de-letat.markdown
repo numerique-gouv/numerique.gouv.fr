@@ -5,7 +5,8 @@ chapeau-text: Pour leurs échanges à distance, les agents publics peuvent compt
   Tchap, la messagerie instantanée conçue pour eux, opérée par l’État.
 une-ou-diaporama:
 - image: "/uploads/1635x345_Visuel_Tchap.jpg"
-Field name: 
+une:
+  image: "/uploads/1635x345_Visuel_Tchap.jpg"
 layout: rgaa
 ---
 
@@ -65,7 +66,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 * Une utilisation simultanée possible sur **plusieurs appareils** (smartphones, ordinateur, tablette…)
 
 
-> **Rejoignez les plus de 80 000 utilisateurs !**
+**Rejoignez les plus de 80 000 utilisateurs !**
 {: .text-center}
 
 <figure class='image-center' style='width: 50%;'><img src="/uploads/googleplay.png"></figure>
