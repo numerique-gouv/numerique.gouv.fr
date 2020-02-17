@@ -5,10 +5,11 @@ chapeau-text: Pour leurs échanges à distance, les agents publics peuvent compt
   Tchap, la messagerie instantanée conçue pour eux, opérée par l’État.
 une-ou-diaporama:
 - image: "/uploads/1635x345_Visuel_Tchap.jpg"
+Field name: 
 layout: rgaa
 ---
 
-<iframe frameborder="0" width="680" height="370" src="https://www.dailymotion.com/video/x7qn13j" allowfullscreen allow="autoplay"></iframe> 
+<iframe frameborder="0" width="680" height="370" src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe> 
 
 ### Communiquez efficacement
 
