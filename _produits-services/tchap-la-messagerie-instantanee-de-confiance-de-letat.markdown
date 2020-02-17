@@ -67,7 +67,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 <br>
 
 
-**4 atouts de Tchap**
+## 4 atouts de Tchap
 {: .text-center .margin-bottom-1 .margin-top-3}
 
 * **Une solution de confiance,** opérée par l’État, avec un haut niveau de **confidentialité** des échanges privés
@@ -77,7 +77,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 <br>
 <br>
 
-**Rejoignez les plus de 80 000 utilisateurs !**
+## Rejoignez les plus de 80 000 utilisateurs !
 {: .text-center .margin-bottom-1 .margin-top-3}
 
 <figure class='image-center' style='width: 50%;'><img src="/uploads/googleplay.png"></figure>
