@@ -58,7 +58,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 
 
 **4 atouts de Tchap**
-{: .text-center}
+{: .text-center .margin-bottom-1 .margin-top-3}
 
 * **Une solution de confiance,** opérée par l’État, avec un haut niveau de **confidentialité** des échanges privés
 * Un **annuaire** intégré des utilisateurs de l’application
