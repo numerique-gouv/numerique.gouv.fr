@@ -53,7 +53,7 @@ Tous les échanges (hors salons publics) sont chiffrés de bout en bout. Concrè
 
 Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) pour vérifier l’absence de virus.
 <br>
-<br>
+
 
 > **4 atouts de Tchap**
 {: .text-center}
@@ -63,7 +63,8 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 * **Des salons publics** sur vos centres d’intérêt professionnels
 * Une utilisation simultanée possible sur **plusieurs appareils** (smartphones, ordinateur, tablette…)
 
-> **Rejoignez les plus de 80 000 utilisateurs !**
+
+> Rejoignez les plus de 80 000 utilisateurs !
 > {: .text-center}
 
 <figure class='image-center' style='width: 50%;'><img src="/uploads/googleplay.png"></figure>
