@@ -66,6 +66,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 * Une utilisation simultanée possible sur **plusieurs appareils** (smartphones, ordinateur, tablette…)
 
 
+
 **Rejoignez les plus de 80 000 utilisateurs !**
 {: .text-center}
 
