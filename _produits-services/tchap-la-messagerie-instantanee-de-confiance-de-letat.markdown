@@ -11,7 +11,8 @@ layout: rgaa
 ---
 
 <iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
-
+<br>
+<br>
 
 <figure class='image-left' style='width: 6%;'><img src="/uploads/chat.png"/></figure>## Communiquez efficacement
 
