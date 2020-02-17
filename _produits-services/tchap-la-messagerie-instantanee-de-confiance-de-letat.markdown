@@ -12,9 +12,10 @@ layout: rgaa
 
 <iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
 
+## Communiquez efficacement
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/chat.png"/>
-</figure>## Communiquez efficacement
+</figure>
 
 Agent public, vous avez besoin de **communiquer facilement** avec des collaborateurs et partenaires, **à distance voire en mobilité** ? Désormais, vous pouvez utiliser **Tchap, la messagerie instantanée spécialement créée pour vous**.
 
