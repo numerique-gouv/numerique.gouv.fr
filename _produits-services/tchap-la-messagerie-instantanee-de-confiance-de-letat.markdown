@@ -10,7 +10,7 @@ une:
 layout: rgaa
 ---
 
-<iframe frameborder="0" width="680" height="370" src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe> 
+<iframe frameborder="0" width="680" height="370" src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
 
 ### Communiquez efficacement
 
