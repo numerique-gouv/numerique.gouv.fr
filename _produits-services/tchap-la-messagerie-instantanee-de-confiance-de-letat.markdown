@@ -12,10 +12,8 @@ layout: rgaa
 
 <iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
 
-## Communiquez efficacement
-<figure class='image-left' style='width: 6%;'>
-<img src="/uploads/chat.png"/>
-</figure>
+
+<figure class='image-left' style='width: 6%;'><img src="/uploads/chat.png"/></figure>## Communiquez efficacement
 
 Agent public, vous avez besoin de **communiquer facilement** avec des collaborateurs et partenaires, **à distance voire en mobilité** ? Désormais, vous pouvez utiliser **Tchap, la messagerie instantanée spécialement créée pour vous**.
 
@@ -93,7 +91,3 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 
 *Tchap est un service interministériel créé et opéré par la direction interministérielle du numérique (DINUM), dans le cadre de **[TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public.* <br>
 *Tchap s’appuie sur un **logiciel open source** ([Riot](https://about.riot.im/)) et un standard ouvert ([Matrix](https://matrix.org/)).*
-
-
-
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
