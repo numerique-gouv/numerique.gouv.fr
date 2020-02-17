@@ -64,15 +64,15 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 * Une utilisation simultanée possible sur **plusieurs appareils** (smartphones, ordinateur, tablette…)
 
 
-> Rejoignez les plus de 80 000 utilisateurs !
-> {: .text-center}
+> **Rejoignez les plus de 80 000 utilisateurs !**
+{: .text-center}
 
 <figure class='image-center' style='width: 50%;'><img src="/uploads/googleplay.png"></figure>
 <figure class='image-center' style='width: 50%;'><img src="/uploads/appstore.png"></figure>
 <figure class='image-center' style='width: 50%;'><img src="/uploads/versionweb.png"></figure>
 
->
->
+> 
+> <br>
 > **Vous souhaitez faire la promotion de Tchap au sein de votre administration ?**
 >  Nous mettons à votre disposition la vidéo insérée en haut de cette page ([disponible sur Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf) et téléchargeable ici *[lien à venir – autorisation à demander au MSS, sinon nous donnerons contact boîte com pour obtenir fichier vidéo]*). Vous pouvez la diffuser via vos sites Intranet et lettres internes, mais aussi, par exemple, sur les écrans dans les espaces communs de votre administration.
 {: .encadre}
