@@ -23,10 +23,8 @@ Agent public, vous avez besoin de **communiquer facilement** avec des collaborat
 <br>
 
 <figure class='image-left' style='width: 6%;'>
-<img src="/uploads/smartphone.png"/>
-</figure>## Sur mobile et ordinateur<figure class='image-right' style='width: 6%;'>
-<img src="/uploads/computer.png"/>
-</figure>
+<img src="/uploads/ipad.png"/>
+</figure>## Sur mobile et ordinateur
 
 Disponible **sur smartphones et tablettes Android et Apple**, ainsi que **sur ordinateur** via un simple navigateur, cette alternative aux applications grand public vous permet de :
 
