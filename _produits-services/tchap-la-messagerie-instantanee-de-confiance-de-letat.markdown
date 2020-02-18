@@ -87,7 +87,9 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 <a href="https://apps.apple.com/fr/app/tchap/id1446253779" alt="Télécharger l'application sur l'Appstore"/><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png"></figure></a>
 #### Et en version web
 {: .text-center .margin-bottom-0}
-<a href="https://tchap.gouv.fr/" alt="Tchap version web"/><figure style='width: 10%;' class='image-center'><img src="/uploads/monitor.png"></figure></a>[sur tchap.gouv.fr](https://tchap.gouv.fr/)
+<a href="https://tchap.gouv.fr/" alt="Tchap version web"/><figure style='width: 10%;' class='image-center'><img src="/uploads/monitor.png"></figure></a>
+[sur tchap.gouv.fr](https://tchap.gouv.fr/)
+{: .noir .text-center}
 
 > 
 > <br>
