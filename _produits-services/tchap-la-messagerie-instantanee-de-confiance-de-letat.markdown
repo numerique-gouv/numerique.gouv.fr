@@ -88,7 +88,8 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 #### Et en version web
 {: .text-center .margin-bottom-0}
 [Sur tchap.gouv.fr](https://tchap.gouv.fr/)
-{: .text-center .noit}<a href="https://tchap.gouv.fr/" alt="Tchap version web"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png"></figure></a>
+{: .text-center .noir}
+<a href="https://tchap.gouv.fr/" alt="Tchap version web"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png"></figure></a>
 
 > 
 > <br>
