@@ -29,6 +29,7 @@ Agent public, vous avez besoin de **communiquer facilement** avec des collaborat
 <img src="/uploads/ipad.png"/>
 </figure>## Sur mobile et ordinateur
 {: .margin-bottom-1}
+
 Disponible **sur smartphones et tablettes Android et Apple**, ainsi que **sur ordinateur** via un simple navigateur, cette alternative aux applications grand public vous permet de :
 
 * **discuter en privé à deux ou en groupe** (salon),
