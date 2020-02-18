@@ -95,7 +95,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 > <br>
 > **Vous souhaitez faire la promotion de Tchap au sein de votre administration ?**
 > <br>
->  Nous mettons à votre disposition la vidéo insérée en haut de cette page ([disponible sur Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf) et téléchargeable en envoyant un [mail au service communication.](mailto:communication.dinum@modernisation.gouv.fr) Vous pouvez la diffuser via vos sites Intranet et lettres internes, mais aussi, par exemple, sur les écrans dans les espaces communs de votre administration.
+>  Nous mettons à votre disposition la vidéo insérée en haut de cette page ([disponible sur Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf) et téléchargeable en envoyant un [mail au service communication.](mailto:communication.dinum@modernisation.gouv.fr)) Vous pouvez la diffuser via vos sites Intranet et lettres internes, mais aussi, par exemple, sur les écrans dans les espaces communs de votre administration.
 {: .encadre}
 
 *Tchap est un service interministériel créé et opéré par la direction interministérielle du numérique (DINUM), dans le cadre de **[TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public.* <br>
