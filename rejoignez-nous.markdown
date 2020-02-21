@@ -4,7 +4,7 @@ date: 2020-02-14 10:59:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 14 février 2020
+date_de_modification: 21 février 2020
 layout: page-annexe
 ---
 
@@ -83,13 +83,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/Chargée de mission « Performance des achats SI de l'Etat»**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d2d8dd8d-2179-4f4b-b5f9-f1ba208a9a8d&offerid=289470 "Chargé/Chargée de mission « Performance des achats SI de l'Etat» - Télécharger le pdf") (pdf - 342&nbsp;ko)
 <br> Catégorie A
-<br>
-<br>
-
-#### **Communication**
-{: .margin-top-4 .margin-bottom-1} 
-* [**Animateur de réseaux sociaux (community manager) (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=356e2b65-8ef2-453a-af1a-6cee375f40e4&offerid=288849 "Animateur de réseaux sociaux (community manager) (F/H) - Télécharger le pdf") (pdf - 292&nbsp;ko)
-<br> Catégorie B
 <br>
 <br>
 
