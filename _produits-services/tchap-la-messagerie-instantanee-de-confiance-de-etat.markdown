@@ -1,7 +1,6 @@
 ---
 title: Tchap, la messagerie instantanée de confiance de l’État
 date: 2020-02-14 15:15:00 +01:00
-published: false
 tags:
 - messagerie instantanée
 - Tchap
@@ -14,7 +13,7 @@ une:
 layout: rgaa
 ---
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
+<iframe frameborder="0" width="480" height="270" class='text-center' src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
 
 <br>
 
@@ -30,6 +29,7 @@ Agent public, vous avez besoin de **communiquer facilement** avec des collaborat
 <img src="/uploads/ipad.png"/>
 </figure>## Sur mobile et ordinateur
 {: .margin-bottom-1}
+
 Disponible **sur smartphones et tablettes Android et Apple**, ainsi que **sur ordinateur** via un simple navigateur, cette alternative aux applications grand public vous permet de :
 
 * **discuter en privé à deux ou en groupe** (salon),
@@ -88,14 +88,15 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 <a href="https://apps.apple.com/fr/app/tchap/id1446253779" alt="Télécharger l'application sur l'Appstore"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png"></figure></a>
 #### Et en version web
 {: .text-center .margin-bottom-0}
-<a href="https://tchap.gouv.fr/" alt="Tchap version web"><figure style='width: 30%;'><img src="/uploads/monitor.png></figure></a>[sur tchap.gouv.fr](https://tchap.gouv.fr/)
+[sur tchap.gouv.fr](https://tchap.gouv.fr/)
 {: .text-center .noir}
+<a href="https://tchap.gouv.fr/" alt="Tchap version web"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png"></figure></a>
 
 > 
 > <br>
 > **Vous souhaitez faire la promotion de Tchap au sein de votre administration ?**
 > <br>
->  Nous mettons à votre disposition la vidéo insérée en haut de cette page ([disponible sur Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf) et téléchargeable ici *[lien à venir – autorisation à demander au MSS, sinon nous donnerons contact boîte com pour obtenir fichier vidéo]*). Vous pouvez la diffuser via vos sites Intranet et lettres internes, mais aussi, par exemple, sur les écrans dans les espaces communs de votre administration.
+>  Nous mettons à votre disposition la vidéo insérée en haut de cette page ([disponible sur Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf) et téléchargeable en envoyant un [mail au service communication.](mailto:communication.dinum@modernisation.gouv.fr)) Vous pouvez la diffuser via vos sites Intranet et lettres internes, mais aussi, par exemple, sur les écrans dans les espaces communs de votre administration.
 {: .encadre}
 
 *Tchap est un service interministériel créé et opéré par la direction interministérielle du numérique (DINUM), dans le cadre de **[TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public.* <br>

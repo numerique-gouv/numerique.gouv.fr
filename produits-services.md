@@ -18,6 +18,10 @@ publications:
   url: "/produits-services/webconference-etat/"
   une-ou-diaporama:
   - image: "/uploads/webconf-rubrique.jpg"
+- title: Tchap, la messagerie instantanée de confiance de l’État
+  url: "/produits-services/tchap-la-messagerie-instantanee-de-confiance-de-etat/"
+  une-ou-diaporama:
+  - image: "/uploads/740x500_Visuel_Tchap.jpg"
 layout: publications
 ---
 

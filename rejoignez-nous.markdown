@@ -4,7 +4,7 @@ date: 2020-02-14 10:59:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 14 février 2020
+date_de_modification: 21 février 2020
 layout: page-annexe
 ---
 
@@ -30,9 +30,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-1} 
 * [**Consultant/Consultante senior « Transformation Numérique de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=8ff2bfb6-9997-4377-89df-fd23aaea15ac&offerid=338056 "Consultant/Consultante senior « Transformation Numérique de l’État » – Télécharger le pdf") (pdf - 373&nbsp;ko) 
 <br>Cadre supérieur/Catégorie A+
-
-* [**Chef/Cheffe de mission « Label »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=76b5471e-22b3-455c-8398-9d121ad7ecd4&offerid=261719 "Chef/Cheffe de mission « Label » – Télécharger le pdf") (pdf - 173&nbsp;ko) 
-<br>Cadre/Catégorie A
 
 * [**Chef/Cheffe de mission « Infra »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=cc41bb58-0ade-413a-a402-6f1546465224&offerid=271894 "Chef/Cheffe de mission « Infra » – Télécharger le pdf") (pdf - 331&nbsp;ko) 
 <br>Cadre/Catégorie A 
@@ -64,9 +61,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 * [**Chargé/Chargée de mission « production » du Réseau Interministériel de l’État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91edec12-625d-4708-bcd0-6be1e4f255ea&offerid=288819 "Chargé/Chargée de mission « production » du Réseau Interministériel de l’État - Télécharger le pdf") (pdf - 367&nbsp;ko)
 <br>Cadre/Catégorie A
 
-* [**Architecte « services d'accès internet » du Réseau Interministériel de l'État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=4c983e85-8ec2-4f54-b613-11d07777f375&offerid=243187 "Architecte « services d'accès internet » du Réseau Interministériel de l’État - Télécharger le pdf") (pdf - 726&nbsp;ko)
-<br>Cadre/Catégorie A
-
 * [**Chef/Cheffe du pôle « Architecture et sécurité »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=204eceb3-15b7-45de-a244-85b0a28f79f0&offerid=294685 "Chef/Cheffe du pôle « Architecture et sécurité » - Télécharger le pdf") (pdf - 347&nbsp;ko)
 <br>Cadre supérieur/Catégorie A+
 <br>
@@ -83,13 +77,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/Chargée de mission « Performance des achats SI de l'Etat»**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d2d8dd8d-2179-4f4b-b5f9-f1ba208a9a8d&offerid=289470 "Chargé/Chargée de mission « Performance des achats SI de l'Etat» - Télécharger le pdf") (pdf - 342&nbsp;ko)
 <br> Catégorie A
-<br>
-<br>
-
-#### **Communication**
-{: .margin-top-4 .margin-bottom-1} 
-* [**Animateur de réseaux sociaux (community manager) (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=356e2b65-8ef2-453a-af1a-6cee375f40e4&offerid=288849 "Animateur de réseaux sociaux (community manager) (F/H) - Télécharger le pdf") (pdf - 292&nbsp;ko)
-<br> Catégorie B
 <br>
 <br>
 
