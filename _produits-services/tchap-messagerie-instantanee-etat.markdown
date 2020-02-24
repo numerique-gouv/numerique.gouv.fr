@@ -26,7 +26,7 @@ Agent public, vous avez besoin de **communiquer facilement** avec des collaborat
 <br>
 <br>
 
-<figure class='image-left' style='width: 8%;'>
+<figure class='image-left' style='width: 7%;'>
 <img src="/uploads/ipad.png"/>
 </figure>## Sur mobile et ordinateur
 {: .margin-bottom-1}
