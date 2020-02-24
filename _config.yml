@@ -39,7 +39,7 @@ collections:
   publications:
     title: Publication
     output: true
-    permalink: "/publication/:title/"
+    permalink: "/publications/:title/"
   rgaa:
     title: RGAA
     output: true
@@ -94,12 +94,12 @@ defaults:
     path: ''
     type: produits-services
   values:
-    date_de_modification: 
-    chapeau-text: 
+    date_de_modification:
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
+    - image:
+      legende:
+      alternative-textuelle:
 - scope:
     path: ''
     type: evenements
