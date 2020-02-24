@@ -54,9 +54,9 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/group-bleu.png"/>
-</figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
+</figure>## Ouvert aux agents publics et à leurs interlocuteurs
 {: .margin-bottom-1}
-Tout agent de l’État peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un correspondant extérieur à l’État à un salon spécifique.
+Tout agent public - d'État ou de collectivité territoriale - peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un correspondant extérieur à l’administration - partenaire, prestataire... - à un salon spécifique.
 
 En janvier 2020, **plus de 80 000 agents publics** utilisent Tchap pour leurs échanges.
 <br>
@@ -97,7 +97,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 > <br>
 > **Vous souhaitez faire la promotion de Tchap au sein de votre administration ?**
 > <br>
->  Nous mettons à votre disposition la vidéo insérée en haut de cette page ([disponible sur Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf) et téléchargeable en envoyant un [mail au service communication.](mailto:communication.dinum@modernisation.gouv.fr)) Vous pouvez la diffuser via vos sites Intranet et lettres internes, mais aussi, par exemple, sur les écrans dans les espaces communs de votre administration.
+>  Vous pouvez utiliser la vidéo présente en haut de cette page pour vos sites Intranet et lettres internes en l'embarquant [depuis Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf). Nous pouvons aussi vous fournir le fichier vidéo pour que vous puissiez la diffuser sur les écrans dans les espaces communs de votre administration ; pour cela, envoyez un [courriel au service communication de la DINUM](mailto:communication.dinum@modernisation.gouv.fr).
 {: .encadre}
 
 *Tchap est un service interministériel créé et opéré par la direction interministérielle du numérique (DINUM), dans le cadre de **[TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public.* <br>
