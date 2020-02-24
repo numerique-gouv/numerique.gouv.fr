@@ -10,6 +10,7 @@ tags:
 - informatique
 - panorama des grands projets SI
 - transparence
+- Panorama des grands projets numériques de l'État
 position: 1
 chapeau-text: 'La DINSIC passe à nouveau en revue les grands projets du système d’information
   de l’Etat et rend public ce panorama, comme tous les quatre mois. Au menu : 56 chantiers
