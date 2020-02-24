@@ -2,8 +2,10 @@
 title: Tchap, la messagerie instantanée de confiance de l’État
 date: 2020-02-14 15:15:00 +01:00
 tags:
-- messagerie instantanée
 - Tchap
+- Messagerie instantanée
+- Outils pour les agents
+- ETNA
 chapeau-text: Pour leurs échanges à distance, les agents publics peuvent compter sur
   Tchap, la messagerie instantanée conçue pour eux, opérée par l’État.
 une-ou-diaporama:
