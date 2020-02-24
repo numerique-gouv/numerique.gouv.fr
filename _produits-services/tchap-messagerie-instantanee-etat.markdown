@@ -57,7 +57,7 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 <img src="/uploads/group-bleu.png"/>
 </figure>## Ouvert aux agents publics, aux élus et à leurs interlocuteurs
 {: .margin-bottom-1}
-Les **agents publics** - qu'ils soient de l'État ou d'une collectivité territoriale - mais aussi **les élus** (parlementaires, locaux...) peuvent créer librement leur compte Tchap à partir de leur adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un **correspondant extérieur à l’administration** - partenaire, prestataire... - à un salon spécifique.
+Les **agents publics** - qu'ils soient de l'État ou d'une collectivité territoriale - mais aussi **les élus** (parlementaires, locaux...) peuvent créer librement leur compte Tchap à partir de leur adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, ils peuvent inviter par courriel un **correspondant extérieur à l’administration** - partenaire, prestataire... - à un salon spécifique.
 
 En janvier 2020, **plus de 80 000 agents publics** utilisent Tchap pour leurs échanges.
 <br>
