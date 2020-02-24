@@ -39,7 +39,7 @@ collections:
   publications:
     title: Publication
     output: true
-    permalink: "/publication/:title/"
+    permalink: "/publications/:title/"
   rgaa:
     title: RGAA
     output: true
@@ -134,7 +134,7 @@ plugins:
 - jekyll-sitemap
 - jekyll-algolia
 include:
-- ".htaccess"
+- ".well-known"
 - _pages
 exclude:
 - "/vendor/"

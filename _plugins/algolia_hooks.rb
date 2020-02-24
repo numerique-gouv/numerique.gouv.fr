@@ -22,10 +22,10 @@ module Jekyll
             record[field].gsub!('*', '') unless record[field].nil?
             record[field].gsub!('##', '') unless record[field].nil?
             record[field].gsub!('> ', '') unless record[field].nil?
+            record[field].gsub!(/\[([^\]]*)\]\(([^)]*)\)/, '\1') unless record[field].nil?
             record[field].gsub!(/\]{(.*?)}\((.*?)\)/, '') unless record[field].nil?
             record[field].gsub!(/\]\((.*?)\)/, '') unless record[field].nil?
             record[field].gsub!(/{(.*?)}/, '') unless record[field].nil?
-            # record[field].gsub!(/^\[/, '') unless record[field].nil?
         end
         record
       end

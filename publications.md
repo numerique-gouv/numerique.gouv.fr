@@ -6,7 +6,7 @@ une:
   alternative-textuelle: les actualites
 publications:
 - title: 'TECH.GOUV : Stratégie et feuille de route 2019-2021'
-  url: "/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/"
+  url: "/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/"
   une-ou-diaporama:
   - image: "/uploads/Publication_TECHGOUV.jpg"
 - title: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
