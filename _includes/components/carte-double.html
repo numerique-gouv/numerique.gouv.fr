@@ -1,8 +1,8 @@
 {% assign carte-double = include.carte-double %}
 
 <a
-   {% if carte-double.redirection %}
-   href="{{carte-double.redirection}}" target="_blank"
+   {% if carte-double.redirect_to %}
+   href="{{carte-double.redirect_to}}" target="_blank"
    {% else %}
    href="{{ carte-double.url}}"
    {% endif %}
@@ -17,7 +17,7 @@
     <div class="cell grid-y carte-double height-100">
       <div class="padding-2">
         <p class="h4 font-bold margin-0">{{ carte-double.title }}
-        {% if carte-double.redirection %}
+        {% if carte-double.redirect_to %}
         <img class="picto-external-link" src="/assets/img/pictogrammes/icon-lien.png" alt="pictogramme lien externe">
         {% endif %}</p>
         {% if carte-double.categories %}
