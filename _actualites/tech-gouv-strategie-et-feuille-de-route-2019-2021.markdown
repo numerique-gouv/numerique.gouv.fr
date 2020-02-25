@@ -13,7 +13,7 @@ chapeau-text: Lancé par l’État en avril dernier, le programme TECH.GOUV vise
   de route 2019-2021, déclinées en 6 enjeux, 8 missions et 35 actions prioritaires.
 une-ou-diaporama:
 - image: "/uploads/Article_TECHGOUV.jpg"
-redirection: "/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/"
+redirect_to: "/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/"
 ---
 
 > [Lire la suite](/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/)

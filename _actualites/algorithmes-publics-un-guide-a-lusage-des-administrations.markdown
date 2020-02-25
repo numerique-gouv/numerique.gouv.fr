@@ -11,6 +11,6 @@ chapeau-text: Etalab publie un guide des algorithmes publics afin d'accompagner 
 une-ou-diaporama:
 - image: "/uploads/code-1486361_1280.jpg"
 auteur: Etalab
-redirection: https://www.etalab.gouv.fr/algorithmes-publics-etalab-publie-un-guide-a-lusage-des-administrations
+redirect_to: https://www.etalab.gouv.fr/algorithmes-publics-etalab-publie-un-guide-a-lusage-des-administrations
 ---
 
