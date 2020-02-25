@@ -18,7 +18,7 @@ chapeau-text: 'Créé en 2016, le programme Entrepreneurs d’Intérêt Généra
 une-ou-diaporama:
 - image: "/uploads/EIG4_aap_article.jpg"
 auteur: Etalab
-redirection: https://www.etalab.gouv.fr/appel-a-projets-administrations-proposez-vos-defis-aux-futurs-entrepreneurs-dinteret-general-de-la-promotion-4
+redirect_to: https://www.etalab.gouv.fr/appel-a-projets-administrations-proposez-vos-defis-aux-futurs-entrepreneurs-dinteret-general-de-la-promotion-4
 ---
 
 > [Consulter l'appel à projets](https://www.etalab.gouv.fr/appel-a-projets-administrations-proposez-vos-defis-aux-futurs-entrepreneurs-dinteret-general-de-la-promotion-4)

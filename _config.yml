@@ -133,6 +133,7 @@ plugins:
 - sass
 - jekyll-sitemap
 - jekyll-algolia
+- jekyll-redirect-from
 include:
 - '.well-known'
 - _pages
