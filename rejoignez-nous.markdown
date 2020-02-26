@@ -60,9 +60,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 * [**Chargé/Chargée de mission « production » du Réseau Interministériel de l’État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91edec12-625d-4708-bcd0-6be1e4f255ea&offerid=288819 "Chargé/Chargée de mission « production » du Réseau Interministériel de l’État - Télécharger le pdf") (pdf - 367&nbsp;ko)
 <br>Cadre/Catégorie A
-
-* [**Chef/Cheffe du pôle « Architecture et sécurité »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=204eceb3-15b7-45de-a244-85b0a28f79f0&offerid=294685 "Chef/Cheffe du pôle « Architecture et sécurité » - Télécharger le pdf") (pdf - 347&nbsp;ko)
-<br>Cadre supérieur/Catégorie A+
 <br>
 <br>
 
