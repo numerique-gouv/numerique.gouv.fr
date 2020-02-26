@@ -4,7 +4,7 @@ date: 2020-02-14 10:59:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 21 février 2020
+date_de_modification: 26 février 2020
 layout: page-annexe
 ---
 
@@ -50,14 +50,14 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-1} 
 * [**Responsable de portefeuille de produits Data – Etalab H/F**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=c7a26fb6-ae5c-4344-a85f-1f4b1e333446&offerid=338053 "Responsable de portefeuille de produits Data – Etalab H/F - Télécharger le pdf") (pdf - 559&nbsp;ko)
 <br>Cadre/Catégorie A
-
-* [**Chargé/Chargée de mission Lab IA**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fc93923c-8bb9-47a4-b3e0-4a2d5d3acc3e&offerid=289475 "Chargé/Chargée de mission Lab IA - Télécharger le pdf") (pdf - 332&nbsp;ko)
-<br>Cadre/Catégorie A
 <br>
 <br>
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
+* [**Adjoint/Adjointe au chef du pôle RIE/Services opérés d'infrastructure**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=b5d37636-469f-47a5-b6b7-31466dd8d237&offerid=355755 "Adjoint/Adjointe au chef du pôle RIE/Services opérés d'infrastructure - Télécharger le pdf") (pdf - 309&nbsp;ko)
+<br>Cadre/Catégorie A
+
 * [**Chargé/Chargée de mission « production » du Réseau Interministériel de l’État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91edec12-625d-4708-bcd0-6be1e4f255ea&offerid=288819 "Chargé/Chargée de mission « production » du Réseau Interministériel de l’État - Télécharger le pdf") (pdf - 367&nbsp;ko)
 <br>Cadre/Catégorie A
 
