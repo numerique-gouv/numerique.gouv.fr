@@ -26,8 +26,8 @@ La DINUM est un **service du Premier ministre**, placé sous l’autorité du mi
 
 ### **Organisation**
 
-La DINUM comprend trois départements, une direction de programme et deux pôles :
-* **la direction de programme TECH.GOUV** pilote le programme interministériel de transformation numérique du service public TECH.GOUV, dont [l’incubateur de services numériques (Beta.gouv)](https://beta.gouv.fr/) ;
+La DINUM comprend une direction de programme, trois départements et deux pôles :
+* **la direction de programme TECH.GOUV** pilote le programme interministériel de transformation numérique du service public TECH.GOUV, dont [**l’incubateur de services numériques (Beta.gouv)**](https://beta.gouv.fr/) ;
 * **le département « Infrastructures et services opérés » (ISO)** conçoit et opère des services d’infrastructures à valeur ajoutée mutualisés entre les administrations, dont le réseau interministériel de l’État (RIE) ;
 * **le département [« Etalab »](https://www.etalab.gouv.fr/)** coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée ;
 * **le département « Performance des services numériques » (PSN)** conçoit les plans d’actions interministériels en matière de mutualisation, dématérialisation, pilotage des projets et qualité des services numériques, et soutient leur mise en œuvre ;
