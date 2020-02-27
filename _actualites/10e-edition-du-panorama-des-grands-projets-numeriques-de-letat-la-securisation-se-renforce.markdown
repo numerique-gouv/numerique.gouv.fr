@@ -38,7 +38,8 @@ Parmi les projets arrivés à terme sortant de cette édition, deux projets d’
 
 Au total, cette 10e édition du panorama passe en revue **44 projets**, dont **8 à portée interministérielle**, pour un budget global prévisionnel de **1,56 milliard d’euros**. Les taux de dérives budgétaires et calendaires restent stables par rapport à l’édition précédente.
 
-![Consulter la 10e édition du panorama](/uploads/capture_panorama-oct2019_500.png)[{: width="200px" height="93px" }](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
+
+![Consulter la 10e édition du panorama](/uploads/capture-panorama-fevrier2020-2.png)[{: width="200px" height="91px" }](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
 {: .text-center}
 
 > [Consulter la 10e édition du panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
