@@ -13,7 +13,7 @@ chapeau-text: Pour la 10e édition de son panorama, la DINUM a passé en revue 4
   directeurs de projets, lancée il y a quelques mois, devrait permettre de réduire
   le volume de projets à risques d’ici à 2021.
 une-ou-diaporama:
-- image: "/uploads/revue_de_details.jpg"
+- image: "/uploads/panorama-grands-projets-numeriques_rub.png"
 ---
 
 ## L’offre de conseil en cadrage de projet fait ses débuts
