@@ -7,6 +7,7 @@ categories:
 tags:
 - Panorama des grands projets numériques de l'État
 - Sécurisation
+- Informatique
 chapeau-text: Pour la 10e édition de son panorama, la DINUM a passé en revue 44 grands
   projets numériques menés au sein de l’État. Son offre de conseil à destination des
   directeurs de projets, lancée il y a quelques mois, devrait permettre de réduire
