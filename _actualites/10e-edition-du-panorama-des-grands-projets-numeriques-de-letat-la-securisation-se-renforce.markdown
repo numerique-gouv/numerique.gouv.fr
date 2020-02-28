@@ -1,7 +1,7 @@
 ---
 title: '10e édition du panorama des grands projets numériques de l’État  : un dispositif
   de sécurisation qui s’étoffe'
-date: 2020-02-28 16:44:00 +01:00
+date: 2020-02-28 16:10:00 +01:00
 categories:
 - Article
 tags:
