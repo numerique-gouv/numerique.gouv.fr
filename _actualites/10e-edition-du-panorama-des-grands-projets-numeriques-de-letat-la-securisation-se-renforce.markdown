@@ -1,7 +1,7 @@
 ---
 title: '10e édition du panorama des grands projets numériques de l’État  : un dispositif
   de sécurisation qui s’étoffe'
-date: 2020-02-24 16:44:00 +01:00
+date: 2020-02-28 16:44:00 +01:00
 categories:
 - Article
 tags:
@@ -44,6 +44,6 @@ Au total, cette 10e édition du panorama passe en revue **44 projets**, dont **8
 {: .text-center}
 
 > [Consulter la 10e édition du panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
-> {: .lien-important}
+{: .lien-important}
 
 Vous pouvez également consulter l’ensemble des données de cette édition et des précédentes en open data sur la plateforme **[data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-numeriques-de-letat/)**
