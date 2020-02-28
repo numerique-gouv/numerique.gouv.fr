@@ -40,7 +40,7 @@ Un projet d’envergure de transformation numérique des Douanes, arrivé à ter
 Au total, cette 10e édition du panorama passe en revue **44 projets**, dont **8 à portée interministérielle**, pour un budget global prévisionnel de **1,56 milliard d’euros**. Les taux moyens de glissement budgétaire et calendaire restent stables par rapport à l’édition précédente.
 
 
-![Consulter la 10e édition du panorama](/uploads/capture-panorama-fevrier2020-2.png)[{: width="200px" height="91px" }](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
+[![Consulter la 10e édition du panorama](/uploads/capture-panorama-fevrier2020-2.png){: width="200px" height="91px" }](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
 {: .text-center}
 
 > [Consulter la 10e édition du panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
