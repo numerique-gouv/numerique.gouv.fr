@@ -4,11 +4,9 @@ date: 2019-11-07 04:37:00 +01:00
 categories:
 - Article
 tags:
-- panorama des grands projets SI
-- sécurisation
-- Informatique
 - Panorama des grands projets numériques de l'État
-- Système d'information et de communication
+- Sécurisation
+- Informatique
 chapeau-text: 'La 9e édition du panorama des grands projets du système d’information
   de l’État passe au crible 47 projets, représentant un budget prévisionnel global
   de 1,58 milliard d’euros. '
