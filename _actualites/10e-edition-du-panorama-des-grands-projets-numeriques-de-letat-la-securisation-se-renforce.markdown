@@ -46,4 +46,4 @@ Au total, cette 10e édition du panorama passe en revue **44 projets**, dont **8
 > [Consulter la 10e édition du panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
 > {: .lien-important}
 
-Vous pouvez également consulter l’ensemble des données de cette édition et des précédentes en open data sur la plateforme **[data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/)**
+Vous pouvez également consulter l’ensemble des données de cette édition et des précédentes en open data sur la plateforme **[data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-numeriques-de-letat/)**
