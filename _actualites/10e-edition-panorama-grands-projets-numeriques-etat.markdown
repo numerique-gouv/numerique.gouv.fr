@@ -23,7 +23,7 @@ Voilà plus de 3 ans que la direction interministérielle du numérique (DINUM �
 
 La sécurisation des grands projets numériques de l’État s’est renforcée avec [TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-strategie-et-feuille-de-route-2019-2021/), le programme d’accélération de la transformation numérique du service public. La DINUM propose depuis quelques mois un dispositif expérimental de **[conseil au cadrage et pilotage de projets numériques](https://www.numerique.gouv.fr/produits-services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/)**, à destination de l’ensemble des ministères. L’idée ? **Agir le plus en amont possible** pour mettre le projet, dès le début, sur de bons rails, et **réduire les risques de dérives en aval**.
 
-La DINUM a ainsi conduit **cinq premières missions de conseil** depuis le lancement de l’offre, qui ont notamment permis de définir des périmètres **moins risqués et moins coûteux**, à hauteur de 64 M€.
+La DINUM a ainsi conduit **cinq premières missions de conseil** depuis le lancement de l’offre, qui ont notamment permis de définir des périmètres moins risqués et moins coûteux, à hauteur de 64 M€.
 
 [> En savoir \+ sur cette offre de conseil](https://www.numerique.gouv.fr/produits-services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/)
 
