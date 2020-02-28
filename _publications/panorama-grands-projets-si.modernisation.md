@@ -1,6 +1,10 @@
 ---
-title: Panorama des grands projets SI de l’État
+title: Panorama des grands projets numériques de l’État
 permalink: "/publications/panorama-grands-projets-si/"
+tags:
+- Panorama des grands projets numériques de l'État
+- Sécurisation
+- Informatique
 position: 6
 layout: default
 ---

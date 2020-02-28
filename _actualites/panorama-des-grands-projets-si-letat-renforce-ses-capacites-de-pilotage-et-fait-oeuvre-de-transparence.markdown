@@ -5,11 +5,10 @@ date: 2016-11-18 10:21:00 +01:00
 categories:
 - Article
 tags:
-- panorama des grands projets SI
-- sécurisation
-- système d'information
 - transparence
-- informatique
+- Panorama des grands projets numériques de l'État
+- Informatique
+- Sécurisation
 position: 5
 is_une: false
 chapeau-text: La DINSIC rend aujourd’hui publique la liste des grands projets du système
