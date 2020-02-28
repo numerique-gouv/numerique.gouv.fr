@@ -24,7 +24,7 @@ publications:
 - title: Panorama des grands projets de SI
   url: "/publications/panorama-grands-projets-si"
   une-ou-diaporama:
-  - image: "/uploads/panorama_des_grands_projets_si.png"
+  - image: "/uploads/panorama-grands-projets-numeriques_rub.png"
 - title: Politique de contribution aux logiciels libres de l’État
   url: "/publications/politique-logiciel-libre"
   une-ou-diaporama:
