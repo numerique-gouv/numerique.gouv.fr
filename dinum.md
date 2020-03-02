@@ -26,14 +26,13 @@ La DINUM est un **service du Premier ministre**, placé sous l’autorité du mi
 
 ### **Organisation**
 
-La DINUM comprend une direction de programme, trois départements et deux pôles :
-* **la direction de programme TECH.GOUV** pilote le programme interministériel de transformation numérique du service public TECH.GOUV, dont [**l’incubateur de services numériques (Beta.gouv)**](https://beta.gouv.fr/) ;
-* **le département « Infrastructures et services opérés » (ISO)** conçoit et opère des services d’infrastructures à valeur ajoutée mutualisés entre les administrations, dont le réseau interministériel de l’État (RIE) ;
-* **le département [« Etalab »](https://www.etalab.gouv.fr/)** coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée ;
+La DINUM comprend une direction de programme, trois départements et un secrétariat général :
+* **la direction de programme TECH.GOUV** pilote le programme interministériel de transformation numérique du service public TECH.GOUV ;
+* **le département « Infrastructures et services opérés » (ISO)** conçoit et opère des services d’infrastructures à valeur ajoutée mutualisés entre les administrations, dont le réseau interministériel de l'Etat (RIE) ;
+* **le département [« Etalab »](https://www.etalab.gouv.fr/)** coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, dont ses composantes juridique et sociétale ; 
 * **le département « Performance des services numériques » (PSN)** conçoit les plans d’actions interministériels en matière de mutualisation, dématérialisation, pilotage des projets et qualité des services numériques, et soutient leur mise en œuvre ;
-* **le pôle « Animation »** coordonne et soutient les départements de la direction dans la promotion de leur activité et l’animation de leurs écosystèmes. Il assure également la communication interne et la qualité des conditions de travail des agents de la direction ;
-* **le pôle « Gestion »** assure les tâches de gestion en matière de ressources humaines, de finances et d’achats.
+* **le secrétariat général** soutient l’activité de la direction : il assure la communication externe et interne, la gestion des ressources humaines et financières, la synthèse des missions et veille à la qualité des conditions de travail des agents. 
 
-[> Télécharger la note d'organisation](/uploads/Note_organisation_DINUM_20191031.pdf)
+[> Télécharger la note d’organisation](/uploads/note_organisation_DINUM_20200301.pdf)
 
 [> Télécharger l'organigramme de la DINUM](/uploads/organigramme_DINUM.pdf)
