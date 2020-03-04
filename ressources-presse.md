@@ -25,7 +25,7 @@ Télécharger le portrait de Nadi Bou Hanna en HD :
 <br>
 ### Biographie
 
-Nadi Bou Hanna est à la tête de la direction interministérielle du numérique (DINUM), anciennement DINSIC, depuis décembre 2018.
+Nadi Bou Hanna est, depuis décembre 2018, à la tête de la direction interministérielle du numérique (DINUM), anciennement direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC).
 
 Il est ingénieur en chef des Mines, diplômé de l’École Polytechnique et de Télécom ParisTech.
 
