@@ -25,7 +25,7 @@ Télécharger le portrait de Nadi Bou Hanna en HD :
 <br>
 ### Biographie
 
-Nadi Bou Hanna, 46 ans, est ingénieur en chef des Mines, diplômé de l’Ecole Polytechnique et de Télécom ParisTech.
+Nadi Bou Hanna, est ingénieur en chef des Mines, diplômé de l’Ecole Polytechnique et de Télécom ParisTech.
 
 Il démarre sa carrière au sein de l’Etat et prend en charge la transformation numérique des Douanes avant de diriger les systèmes d’information du ministère des Affaires étrangères.
 
