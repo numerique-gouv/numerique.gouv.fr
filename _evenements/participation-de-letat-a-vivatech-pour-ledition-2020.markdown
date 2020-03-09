@@ -29,7 +29,7 @@ acces:
   lignes:
   - nom: " 39, 80"
 - type: 'Taxi :'
-  adresse:
+  lignes:
   - nom: |-
       378, rue de Vaugirard
       75015 Paris, France
