@@ -39,7 +39,8 @@ acces:
   - nom: 'Parking c : Avenue de la Porte de la Plaine'
   - nom: 'Parking r : Rue d’Oradour-sur-Glane'
 champs_informations:
-- intitule: Acheter ses places
+- intitule: Modalité
+  contenu: Acheter ses places
   lien: https://vivatechnology.com/get-your-pass/
 ---
 
