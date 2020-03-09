@@ -59,4 +59,6 @@ Le salon VivaTech en bref :
 
 Pendant trois jours, **le ministère des Armées, le ministère de la Transition écologique et solidaire, les ministères de l’Économie et des Finances et du ministre de l'Action et des comptes publics, le ministère de la Justice, le ministère de l’Intérieur et la Délégation à la sécurité routière** présenteront, aux côtés de la **Direction interministérielle du numérique,** leurs thématiques communes de transformation publique comme l’inclusion, le design numérique, l’identité numérique à travers un programme de projets innovants et une quarantaine de Startup d’État. 
 
+Pour en savoir plus : [https://vivatechnology.com/](https://vivatechnology.com/)
+
 Venez nombreux ! 
