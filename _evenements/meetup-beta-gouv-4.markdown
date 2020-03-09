@@ -21,10 +21,11 @@ adresse: |-
 champs_informations:
 - intitule: 'Horaires '
   contenu: 18h15 - 20h45
-- intitule: Modalité
+- intitule: Modalités
   contenu: Prévoir une pièce d'identité
 - intitule: Inscription gratuite obligatoire
-  lien: https://www.eventbrite.fr/e/billets-meetup-betagouvfr-4-98600074477
+  contenu: Gratuite obligatoire
+  Key: https://www.eventbrite.fr/e/billets-meetup-betagouvfr-4-98600074477
 ---
 
 Ouvert à tous, il réunira intrapreneurs, développeurs, chargés de déploiement et coachs travaillant sur des projets d'intérêt général pour présenter le portefeuille des Startups d'État et de Territoires.
