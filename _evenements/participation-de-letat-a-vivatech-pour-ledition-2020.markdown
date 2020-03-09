@@ -10,6 +10,8 @@ tags:
 chapeau-text: Pour la première année, sept ministères seront réunis aux côtés de la
   DINUM au sein d’un stand unique TECH.GOUV pour vous présenter comment le service
   public se transforme par le numérique pour toutes et tous.
+une-ou-diaporama:
+- image: "/uploads/Vivatech.jpg"
 event_start_date: 2020-06-11 08:00:00 +02:00
 event_end_date: 2020-06-13 18:00:00 +02:00
 lieu: |-
