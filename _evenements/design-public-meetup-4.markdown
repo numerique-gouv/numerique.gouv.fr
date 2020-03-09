@@ -2,7 +2,7 @@
 title: 'Design Public - Meetup #4'
 date: 2020-01-23 15:27:00 +01:00
 categories:
-- Meetup
+- Rencontre
 tags:
 - Design public
 - meetup
