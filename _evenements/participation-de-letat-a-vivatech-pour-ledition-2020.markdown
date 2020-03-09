@@ -19,21 +19,21 @@ adresse: |-
   1 Place de la Porte de Versailles
   75015 Paris France
 acces:
-- type: Métro
+- type: 'Métro :'
   lignes:
   - nom: 12
-- type: Tramway
+- type: 'Tramway :'
   lignes:
   - nom: " T2, T3a"
-- type: Bus
+- type: 'Bus :'
   lignes:
   - nom: " 39, 80"
-- type: 'Taxi '
+- type: 'Taxi :'
   adresse:
   - nom: |-
       378, rue de Vaugirard
       75015 Paris, France
-- type: Parkings
+- type: 'Parkings :'
   lignes:
   - nom: 'Parking f : Rue du Moulin'
   - nom: 'Parking c : Avenue de la Porte de la Plaine'
