@@ -46,6 +46,6 @@ L'accueil se fera dès 18h15 puis 6 présentations d'environ 15 minutes seront d
 
 Puis nous échangerons tous ensemble autour de 20h pendant un moment convivial.
 
-Venez nombreux !
+Venez nombreux ! 
 
 *En cas de question vous pouvez contacter **jihane.herizi@beta.gouv.fr***
