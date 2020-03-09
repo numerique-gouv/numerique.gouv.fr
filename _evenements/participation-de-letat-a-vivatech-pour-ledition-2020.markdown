@@ -1,9 +1,46 @@
 ---
 title: Participation de l’État à VivaTech pour l'édition 2020
 date: 2020-03-09 14:19:00 +01:00
+categories:
+- Salon
+tags:
+- Technologie
+- VivaTech
+- innovation publique
 chapeau-text: Pour la première année, sept ministères seront réunis aux côtés de la
   DINUM au sein d’un stand unique TECH.GOUV pour vous présenter comment le service
   public se transforme par le numérique pour toutes et tous.
+event_start_date: 2020-06-11 08:00:00 +02:00
+event_end_date: 2020-06-13 18:00:00 +02:00
+lieu: |-
+  Paris Expo Porte de Versailles
+  Hall 1 & Hall 2
+adresse: |-
+  1 Place de la Porte de Versailles
+  75015 Paris France
+acces:
+- type: Métro
+  lignes:
+  - nom: 12
+- type: Tramway
+  lignes:
+  - nom: " T2, T3a"
+- type: Bus
+  lignes:
+  - nom: " 39, 80"
+- type: 'Taxi '
+  adresse:
+  - nom: |-
+      378, rue de Vaugirard
+      75015 Paris, France
+- type: Parkings
+  lignes:
+  - nom: 'Parking f : Rue du Moulin'
+  - nom: 'Parking c : Avenue de la Porte de la Plaine'
+  - nom: 'Parking r : Rue d’Oradour-sur-Glane'
+champs_informations:
+- intitule: Acheter ses places
+  lien: https://vivatechnology.com/get-your-pass/
 ---
 
 ### Le rdv européen de l'innovation technologique
