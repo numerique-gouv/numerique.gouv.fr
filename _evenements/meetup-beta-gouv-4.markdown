@@ -23,7 +23,7 @@ champs_informations:
   contenu: 18h15 - 20h45
 - intitule: Modalités
   contenu: Inscription gratuite obligatoire
-  Key: https://www.eventbrite.fr/e/billets-meetup-betagouvfr-4-98600074477
+  lien: https://www.eventbrite.fr/e/billets-meetup-betagouvfr-4-98600074477
 - intitule: Important
   contenu: Prévoir une pièce d'identité
 ---
