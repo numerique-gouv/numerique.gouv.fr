@@ -38,11 +38,11 @@ Le but est de partager la connaissance pour améliorer la collaboration entre ce
 L'accueil se fera dès 18h15 puis 6 présentations d'environ 15 minutes seront données à partir de 18h30 avant un cocktail d'échanges :
 
 * **Un.e membre de** [beta.gouv.fr ](http://beta.gouv.fr): *Startups d'État et de Territoires, c'est quoi ? Comment rejoindre la communauté beta.gouv.fr ?*
-* **Dominique Lequepeys **du [Lab du Ministère de l'Intérieur](https://beta.gouv.fr/incubateurs/lab-mi.html) : *Être coach sur une Startup d'État : quel profil, quelles missions ? Comment devenir coach chez beta.gouv.fr ? ;*
-* **Radia Difallah **de [Aidants connects](https://aidantsconnect.beta.gouv.fr) : *Lutter contre la fracture numérique et l'illectronisme avec une Startup d'État ;*
-* **Julien Rayneau **de [Signal Conso](https://signal.conso.gouv.fr) : *Déploiement national de SignalConso : montée d'adrénaline et coronavirus.*
-* **Mathilde Petit & Clément Chapalain **du** **[Code du Travail Numérique](https://code.travail.gouv.fr)** : ***Dépasser toutes les contraintes inattendues pour développer une Startup d'État avec le timing et le budget impartis ;*
-* **Chaib Martinez **du [Programme d'investigation](https://beta.gouv.fr/preincubation/) : *Attirer des utilisateurs, les faire intéragir avec le produit, les retenir et les faire revenir, convertir leur présence et les transformer en ambassadeurs -> Les outils et techniques du **growth hacking** appliquer à l'administration et aux Startups d'État.*
+* **Dominique Lequepeys** du [Lab du Ministère de l'Intérieur](https://beta.gouv.fr/incubateurs/lab-mi.html) : *Être coach sur une Startup d'État : quel profil, quelles missions ? Comment devenir coach chez beta.gouv.fr ? ;*
+* **Radia Difallah** de [Aidants connects](https://aidantsconnect.beta.gouv.fr) : *Lutter contre la fracture numérique et l'illectronisme avec une Startup d'État ;*
+* **Julien Rayneau** de [Signal Conso](https://signal.conso.gouv.fr) : *Déploiement national de SignalConso : montée d'adrénaline et coronavirus.*
+* **Mathilde Petit & Clément Chapalain** du [Code du Travail Numérique](https://code.travail.gouv.fr) : *Dépasser toutes les contraintes inattendues pour développer une Startup d'État avec le timing et le budget impartis ;*
+* **Chaib Martinez** du [Programme d'investigation](https://beta.gouv.fr/preincubation/) : *Attirer des utilisateurs, les faire intéragir avec le produit, les retenir et les faire revenir, convertir leur présence et les transformer en ambassadeurs -> Les outils et techniques du **growth hacking** appliquer à l'administration et aux Startups d'État.*
 
 Puis nous échangerons tous ensemble autour de 20h pendant un moment convivial.
 
