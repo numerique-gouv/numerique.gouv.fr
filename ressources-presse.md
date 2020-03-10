@@ -25,10 +25,10 @@ Télécharger le portrait de Nadi Bou Hanna en HD :
 <br>
 ### Biographie
 
-Nadi Bou Hanna, 46 ans, est ingénieur en chef des Mines, diplômé de l’Ecole Polytechnique et de Télécom ParisTech.
+Nadi Bou Hanna est, depuis décembre 2018, à la tête de la direction interministérielle du numérique (DINUM), anciennement direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC).
 
-Il démarre sa carrière au sein de l’Etat et prend en charge la transformation numérique des Douanes avant de diriger les systèmes d’information du ministère des Affaires étrangères.
+Il est ingénieur en chef des Mines, diplômé de l’École Polytechnique et de Télécom ParisTech.
+
+Il démarre sa carrière au sein de l’État et prend en charge la transformation numérique des Douanes avant de diriger les systèmes d’information du ministère des Affaires étrangères.
 
 Entrepreneur à partir de 2007, il fonde Adminext, cabinet de conseil en stratégie numérique, et 6Tzen, éditeur logiciel de dématérialisation du service public. Il crée Workibox en 2017 pour simplifier la vie administrative et la gestion des TPE et PME. 
-
-En décembre 2018, il prend la tête de la direction interministérielle du numérique et du système d'information et de communication de l'Etat (DINSIC).
