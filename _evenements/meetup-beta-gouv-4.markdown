@@ -6,12 +6,12 @@ categories:
 tags:
 - Beta.gouv.fr
 - Startups d'Etat
-chapeau-text: 'beta.gouv.fr le réseau des incubateurs animé par la Direction interministérielle
+chapeau-text: 'beta.gouv.fr le réseau des incubateurs animé par la direction interministérielle
   du numérique (DINUM) organise son 4ème meetup ! '
 une-ou-diaporama:
 - image: "/uploads/Meetup%20beta.gouv.fr.20190605-150755"
 event_start_date: 2020-03-18 00:00:00 +01:00
-lieu: 'Direction Interministérielle du Numérique - Salle Jean Monnet
+lieu: 'Direction interministérielle du numérique - Salle Jean Monnet
 
 '
 adresse: |-
@@ -49,4 +49,4 @@ Puis nous échangerons tous ensemble autour de 20h pendant un moment convivial.
 
 Venez nombreux ! 
 
-*En cas de question vous pouvez contacter **jihane.herizi@beta.gouv.fr***
+En cas de question vous pouvez contacter **[jihane.herizi@beta.gouv.fr](mailto:jihane.herizi@beta.gouv.fr)**
