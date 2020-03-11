@@ -6,7 +6,7 @@ categories:
 tags:
 - Beta.gouv.fr
 - Startups d'Etat
-chapeau-text: 'beta.gouv.fr le réseau des incubateurs animé par la Direction interministérielle
+chapeau-text: 'beta.gouv.fr le réseau des incubateurs animé par la direction interministérielle
   du numérique (DINUM) organise son 4ème meetup ! '
 une-ou-diaporama:
 - image: "/uploads/Meetup%20beta.gouv.fr.20190605-150755"
@@ -49,4 +49,4 @@ Puis nous échangerons tous ensemble autour de 20h pendant un moment convivial.
 
 Venez nombreux ! 
 
-*En cas de question vous pouvez contacter **jihane.herizi@beta.gouv.fr***
+*En cas de question vous pouvez contacter **[jihane.herizi@beta.gouv.fr](mailto:jihane.herizi@beta.gouv.fr)**
