@@ -28,6 +28,12 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Directeur/Directrice de projet interministériel – Cloud**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=c6bc4b4a-2cfc-4a36-882d-65634a5dc352&offerid=366750 "Directeur/Directrice de projet interministériel – Cloud - Télécharger le pdf") (pdf - 508,01&nbsp;ko)
+<br>Cadre/Catégorie A
+
+* [**Directeur/Directrice de projet interministériel – Produits numériques**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=be899574-340e-4ac7-9d91-c47f2049776c&offerid=366771 "Directeur/Directrice de projet interministériel – Produits numériques - Télécharger le pdf") (pdf - 493,43&nbsp;ko)
+<br>Cadre/Catégorie A, A+
+
 * [**Responsable produit AgentConnect et FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=a32adc94-2b44-4b03-9195-8cfab6dca19a&offerid=348677 "Responsable produit AgentConnect et FranceConnect (F/H) - Télécharger le pdf") (pdf - 503&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>
@@ -35,6 +41,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
+* [**Architecte « services d'accès à internet » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=4bc69156-4b3c-4c8f-b689-826ec3bee61a&offerid=366760 "Architecte « services d'accès à internet » (F/H) - Télécharger le pdf") (pdf - 640&nbsp;ko)
+<br>Cadre/Catégorie A
+
 * [**Adjoint/Adjointe au chef du pôle RIE/Services opérés d'infrastructure**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=b5d37636-469f-47a5-b6b7-31466dd8d237&offerid=355755 "Adjoint/Adjointe au chef du pôle RIE/Services opérés d'infrastructure - Télécharger le pdf") (pdf - 309&nbsp;ko)
 <br>Cadre/Catégorie A
 
