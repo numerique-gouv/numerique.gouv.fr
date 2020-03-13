@@ -32,6 +32,7 @@ Du 11 au 13 juin 2020, le ministère des Armées, le ministère de la Transition
 
 Conscient de l’importance de ce virage numérique et pour réussir sa transformation, l’État recrute des profils variés. Une zone de jobdating est prévue pour qu’agents et porteurs de projets échangent avec les visiteurs (et notamment les talents du numérique) au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers de la technologie.
 
+
 **LE RDV EUROPÉEN DE L’INNOVATION TECHNOLOGIQUE**
 
 VivaTechnology, le salon dédié à l’innovation technologique et aux start-up revient pour la cinquième année du 11 au 13 juin 2020 à Paris Expo Porte de Versailles. Trois journées sont prévues pour rencontrer les services de l’État et découvrir les innovations numériques : les deux premiers jours seront consacrés à un public professionnel et le samedi 13 juin au grand public. Le salon réunit plus de 13 000 start-up, 125 pays et 120 000 visiteurs. Pour en savoir plus sur VivaTechnology : [https://vivatechnology.com/](https://vivatechnology.com/)
