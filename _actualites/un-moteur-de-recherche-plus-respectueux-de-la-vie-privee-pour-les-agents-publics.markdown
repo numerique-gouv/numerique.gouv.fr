@@ -7,12 +7,6 @@ chapeau-text: Le choix des moteurs de recherche utilisés par les agents a des c
   du moteur Qwant, qui a mis en évidence des qualités de cette solution notamment
   en matière de protection des données, la DINUM a demandé aux directions du numérique
   de l’Etat que ce navigateur soit proposé par défaut aux agents publics.
-une-ou-diaporama:
-- image: 
-  legende: 
-  alternative-textuelle: 
-- file: "/uploads/note_moteur-recherche_20200107.PDF"
-  nom: Télécharger la note
 ---
 
 > [Télécharger la note (pdf - 270&nbsp;Ko)](/uploads/note_moteur-recherche_20200107.PDF)
