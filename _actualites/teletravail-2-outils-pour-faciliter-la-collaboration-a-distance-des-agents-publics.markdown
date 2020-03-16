@@ -66,7 +66,9 @@ Vous pouvez :
 
 > ## 5 bonnes pratiques
 > {: .margin-bottom-0}
-> pour un usage responsable d’internet en télétravail
+> ### pour un usage responsable d’internet en télétravail
+> > {: .margin-top-0}
+> <br>
 > <br>
 > 
 > **Lorsque j’utilise ma connexion à distance :**
