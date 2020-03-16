@@ -10,7 +10,7 @@ tags:
 - Outils numériques pour les agents
 chapeau-text: 'En situation de télétravail, deux outils en ligne conçus et maîtrisés
   par l’État vous faciliteront la collaboration à distance avec votre équipe mais
-  aussi vos partenaires : une messagerie instantanée et un outil de webconférence
+  aussi vos partenaires : **une messagerie instantanée** et un outil de **webconférence**
   pour mener des réunions en ligne.'
 une-ou-diaporama:
 - image: "/uploads/teletravail-outils-numeriques.png"
