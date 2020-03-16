@@ -13,6 +13,8 @@ chapeau-text: 'En situation de télétravail, deux outils en ligne conçus et ma
   par l’État vous faciliteront la collaboration à distance avec votre équipe mais
   aussi vos partenaires : une messagerie instantanée et un outil de webconférence
   pour mener des réunions en ligne.'
+une-ou-diaporama:
+- image: "/uploads/outils-teletravail.png"
 ---
 
 ## **Tchap, la messagerie instantanée des agents publics**
@@ -92,3 +94,5 @@ pour un usage responsable d’internet en télétravail
 
 
 **J’applique ces bonnes pratiques : c’est la garantie pour tous de préserver l’accès à nos outils informatiques**
+
+##### © Fotolia.com
