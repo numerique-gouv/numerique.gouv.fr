@@ -20,7 +20,7 @@ une-ou-diaporama:
 {: .margin-top-0}
 Pour vos échanges à distance, vous pouvez compter sur Tchap, la messagerie instantanée créée pour les agents publics, opérée par l’État.
 
-Disponible **sur smartphones et sur ordinateur,** Tchap vous permet de :
+Disponible **sur smartphone et sur ordinateur,** Tchap vous permet de :
 
 * **discuter en privé à deux ou en groupe** (salon), avec un agent en télétravail
 * **partager des fichiers** (documents, photos, vidéos…),
