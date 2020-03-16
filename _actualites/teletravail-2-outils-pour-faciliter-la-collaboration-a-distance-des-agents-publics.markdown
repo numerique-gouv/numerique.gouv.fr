@@ -8,9 +8,8 @@ tags:
 - Outils numériques
 - Télétravail
 - Outils numériques pour les agents
-chapeau-text: 'Le télétravail devient la règle pour les agents publics, hors nécessité
-  de service, afin de lutter contre la propagation du coronavirus et protéger les
-  agents comme la population. Dans ce contexte, deux outils en ligne conçus et maîtrisés
+chapeau-text: 'Le coronavirus amène les agents publics à télétravailler massivement,
+  hors nécessité de service. Dans ce contexte, deux outils en ligne conçus et maîtrisés
   par l’État vous faciliteront la collaboration à distance avec votre équipe mais
   aussi vos partenaires : **une messagerie instantanée** et un outil de **webconférence**
   pour mener des réunions en ligne.'
