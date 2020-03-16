@@ -12,7 +12,8 @@ chapeau-text: 'Le coronavirus amène les agents publics à télétravailler mass
   hors nécessité de service. Dans ce contexte, deux outils en ligne conçus et maîtrisés
   par l’État vous faciliteront la collaboration à distance avec votre équipe mais
   aussi vos partenaires : **une messagerie instantanée** et un outil de **webconférence**
-  pour mener des réunions en ligne.'
+  pour mener des réunions en ligne. Retrouvez aussi **nos bonnes pratiques pour un
+  usage raisonné d''internet** en télétravail depuis le réseau.'
 une-ou-diaporama:
 - image: "/uploads/teletravail-outils-numeriques.png"
 ---
