@@ -43,7 +43,6 @@ Disponible **sur smartphones et sur ordinateur,** Tchap vous permet de :
 {: .text-center .noir}
 <a href="https://tchap.gouv.fr/" alt="Tchap version web"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png"></figure></a>
 <br>
-<br>
 
 ## **Webconférence de l’État, pour vos réunions à distance**
 
