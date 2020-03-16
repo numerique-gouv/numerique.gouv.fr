@@ -61,6 +61,9 @@ Vous pouvez :
 
 #### Déjà 12 000 participants par mois
 {: .text-center}
+<a href="https://webconf.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" alt="Accédez au service de webconférence de l’État"/>
+</a>
+{: .text-center}
 > [**Accéder à webconf.numerique.gouv.fr**](https://webconf.numerique.gouv.fr/)
 {: .lien-important}
 
