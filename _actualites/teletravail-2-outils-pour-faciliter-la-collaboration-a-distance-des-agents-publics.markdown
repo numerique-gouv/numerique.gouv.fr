@@ -2,7 +2,6 @@
 title: 'Télétravail : 2 outils pour faciliter la collaboration à distance des agents
   publics'
 date: 2020-03-16 11:23:00 +01:00
-published: false
 categories:
 - Article
 tags:
@@ -34,7 +33,7 @@ Disponible **sur smartphones et sur ordinateur,** Tchap vous permet de :
 * retrouver facilement un interlocuteur grâce à l’**annuaire intégré des utilisateurs**…
 
 
-> [En savoir plus](https://www.numerique.gouv.fr/produits-services/tchap-messagerie-instantanee-etat/)
+[**> En savoir plus**](https://www.numerique.gouv.fr/produits-services/tchap-messagerie-instantanee-etat/)
 
 Rejoignez les plus de 85 000 utilisateurs !
 {: .text-center .margin-bottom-1 .margin-top-3}
@@ -68,31 +67,31 @@ Vous pouvez :
 
 ### Déjà 12 000 participants par mois.
 
-> [En savoir plus](https://www.numerique.gouv.fr/produits-services/tchap-messagerie-instantanee-etat/)
+[**> En savoir plus**](https://www.numerique.gouv.fr/produits-services/tchap-messagerie-instantanee-etat/)
 
-**> [Accéder à webconf.numerique.gouv.fr](https://webconf.numerique.gouv.fr/)**
+> [**Accéder à webconf.numerique.gouv.fr**](https://webconf.numerique.gouv.fr/)**
+{: .lien-important}
 
-
-## 5 bonnes pratiques
-{: .text-center .margin-bottom-0 .margin-top-3}
-pour un usage responsable d’internet en télétravail
-{: .text-center}
-
-**Lorsque j’utilise ma connexion à distance :**
-
-1. **Je réserve** mes consultations internet à un usage strictement professionnel
-
-2. **J’évite** les téléchargements de fichiers lourds ET les accès aux espaces de stockage distants (drives)
-
-3. **Je limite** l’utilisation d’internet entre 10h30 et 15h30
-
-4. **Je supprime** les images de ma signature de mail ou la réduis au strict nécessaire (nom, prénom, numéro de téléphone)
-
-5. **Je me déconnecte** du réseau à distance ou utilise mon ordinateur ou mon smartphone personnels :
- * pour des usages gourmands comme le visionnage de vidéos
- * pour des recherches/consultations non sensibles
-
-
-**J’applique ces bonnes pratiques : c’est la garantie pour tous de préserver l’accès à nos outils informatiques**
+> ## 5 bonnes pratiques
+> {: .text-center .margin-bottom-0 .margin-top-3}
+> pour un usage responsable d’internet en télétravail
+> {: .text-center}
+> 
+> **Lorsque j’utilise ma connexion à distance :**
+> 
+> 1. **Je réserve** mes consultations internet à un usage strictement professionnel
+> 
+> 2. **J’évite** les téléchargements de fichiers lourds ET les accès aux espaces de stockage distants (drives)
+> 
+> 3. **Je limite** l’utilisation d’internet entre 10h30 et 15h30
+> 
+> 4. **Je supprime** les images de ma signature de mail ou la réduis au strict nécessaire (nom, prénom, numéro de téléphone)
+> 
+> 5. **Je me déconnecte** du réseau à distance ou utilise mon ordinateur ou mon smartphone personnels :
+>  * pour des usages gourmands comme le visionnage de vidéos
+>  * pour des recherches/consultations non sensibles
+> 
+> **J’applique ces bonnes pratiques : c’est la garantie pour tous de préserver l’accès à nos outils informatiques**
+{: .noir .encadre}
 
 ##### © Fotolia.com
