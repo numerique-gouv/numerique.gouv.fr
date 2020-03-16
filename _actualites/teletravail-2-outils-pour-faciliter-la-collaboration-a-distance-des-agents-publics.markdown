@@ -57,7 +57,7 @@ Vous pouvez :
 *  discuter en instantané via un **tchat intégré**,
 * **éditer un texte en mode collaboratif** et en temps réel…
 
-[> En savoir plus sur la webconf](https://www.numerique.gouv.fr/produits-services/tchap-messagerie-instantanee-etat/)
+[**> En savoir plus**](https://www.numerique.gouv.fr/produits-services/tchap-messagerie-instantanee-etat/)
 
 #### Déjà 12 000 participants par mois
 {: .text-center}
@@ -88,4 +88,5 @@ Vous pouvez :
 > **J’applique ces bonnes pratiques : c’est la garantie pour tous de préserver l’accès à nos outils informatiques**
 {: .noir .encadre}
 
-##### © Fotolia.com
+© Fotolia.com
+{: .credit}
