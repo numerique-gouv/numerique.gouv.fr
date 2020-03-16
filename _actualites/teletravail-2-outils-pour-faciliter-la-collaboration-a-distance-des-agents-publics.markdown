@@ -1,6 +1,6 @@
 ---
-title: 'Télétravail : 2 outils pour faciliter la collaboration à distance des agents
-  publics'
+title: 'Coronavirus et télétravail : 2 outils pour faciliter la collaboration à distance
+  des agents publics'
 date: 2020-03-16 11:23:00 +01:00
 categories:
 - Article
@@ -8,7 +8,9 @@ tags:
 - Outils numériques
 - Télétravail
 - Outils numériques pour les agents
-chapeau-text: 'En situation de télétravail, deux outils en ligne conçus et maîtrisés
+chapeau-text: 'Le télétravail devient la règle pour les agents publics, hors nécessité
+  de service, afin de lutter contre la propagation du coronavirus et protéger les
+  agents comme la population. Dans ce contexte, deux outils en ligne conçus et maîtrisés
   par l’État vous faciliteront la collaboration à distance avec votre équipe mais
   aussi vos partenaires : **une messagerie instantanée** et un outil de **webconférence**
   pour mener des réunions en ligne.'
