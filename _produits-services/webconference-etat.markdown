@@ -10,7 +10,7 @@ tags:
 chapeau-text: L’État met à la disposition de tous ses agents un service de webconférence
   interministériel pour favoriser la coopération des équipes et le travail à distance.
 une:
-  image: "/uploads/page-webconf.png"
+  image: "/uploads/webconf-page-produits-et-service.png"
 layout: rgaa
 ---
 
@@ -69,7 +69,7 @@ d’utiliser la webconférence de l’État
 {: .noir .encadre}
 <br>
 
-<a href="https://webconf.numerique.gouv.fr/"><img src="/uploads/capture-webinaire-webconf.png" width="200" alt="Accédez au service de webconférence de l’État"/>
+<a href="https://webconf.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" alt="Accédez au service de webconférence de l’État"/>
 </a>
 {: .text-center}
 > [Accédez au service de webconférence de l’État](https://webconf.numerique.gouv.fr/)

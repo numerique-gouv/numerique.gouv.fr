@@ -17,7 +17,7 @@ publications:
 - title: 'Webconférence de l’État '
   url: "/produits-services/webconference-etat/"
   une-ou-diaporama:
-  - image: "/uploads/webconf-rubrique.jpg"
+  - image: "/uploads/webconf-rubrique-produits-et-service.png"
 - title: Tchap, la messagerie instantanée de confiance de l’État
   url: "/produits-services/tchap-messagerie-instantanee-etat/"
   une-ou-diaporama:
