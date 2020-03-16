@@ -15,3 +15,5 @@ une-ou-diaporama:
   nom: Télécharger la note
 ---
 
+> [Télécharger la note (pdf - 270&nbsp;Ko)](/uploads/note_moteur-recherche_20200107.PDF)
+{: .lien-important}
