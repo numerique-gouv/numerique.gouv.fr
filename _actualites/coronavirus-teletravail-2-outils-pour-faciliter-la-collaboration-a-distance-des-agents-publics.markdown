@@ -58,7 +58,7 @@ Vous pouvez :
 *  discuter en instantané via un **tchat intégré**,
 * **éditer un texte en mode collaboratif** et en temps réel…
 
-[**> En savoir plus**](https://www.numerique.gouv.fr/produits-services/tchap-messagerie-instantanee-etat/)
+[**> En savoir plus**](https://www.numerique.gouv.fr/produits-services/webconference-etat/)
 
 #### Déjà 12 000 participants par mois
 {: .text-center}
