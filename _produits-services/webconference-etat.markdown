@@ -10,7 +10,7 @@ tags:
 chapeau-text: L’État met à la disposition de tous ses agents un service de webconférence
   interministériel pour favoriser la coopération des équipes et le travail à distance.
 une:
-  image: "/uploads/page-webconf.png"
+  image: "/uploads/webconf-page-produits-et-service.png"
 layout: rgaa
 ---
 
