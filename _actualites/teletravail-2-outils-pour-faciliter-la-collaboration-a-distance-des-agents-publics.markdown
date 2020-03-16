@@ -23,13 +23,9 @@ Pour vos échanges à distance, vous pouvez compter sur Tchap, la messagerie ins
 Disponible **sur smartphones et sur ordinateur,** Tchap vous permet de :
 
 * **discuter en privé à deux ou en groupe** (salon), avec un agent en télétravail
-
 * **partager des fichiers** (documents, photos, vidéos…),
-
 * **inviter des correspondants extérieurs** à l’État (partenaire, prestataire…) à un groupe,
-
 * créer ou rejoindre des **groupes de discussion publics**, ouverts à tous,
-
 * retrouver facilement un interlocuteur grâce à l’**annuaire intégré des utilisateurs**…
 
 
@@ -56,26 +52,22 @@ Webconf.numerique.gouv.fr permet notamment d’**organiser en ligne, à distance
 Vous pouvez :
 
 * **organiser une réunion à distance en audio et vidéo,** avec des collaborateurs en télétravail par ex,
-
 * **diffuser une présentation**,
-
 *  **partager la fenêtre d’un programme** sur votre ordinateur,
-
 *  discuter en instantané via un **tchat intégré**,
-
 * **éditer un texte en mode collaboratif** et en temps réel…
 
-### Déjà 12 000 participants par mois.
+[> En savoir plus sur la webconf](https://www.numerique.gouv.fr/produits-services/tchap-messagerie-instantanee-etat/)
 
-[**> En savoir plus**](https://www.numerique.gouv.fr/produits-services/tchap-messagerie-instantanee-etat/)
-
-> [**Accéder à webconf.numerique.gouv.fr**](https://webconf.numerique.gouv.fr/)**
+#### Déjà 12 000 participants par mois
+{: .text-center}
+> [**Accéder à webconf.numerique.gouv.fr**](https://webconf.numerique.gouv.fr/)
 {: .lien-important}
 
 > ## 5 bonnes pratiques
-> {: .text-center .margin-bottom-0 .margin-top-3}
+> {: .margin-bottom-0}
 > pour un usage responsable d’internet en télétravail
-> {: .text-center}
+> <br>
 > 
 > **Lorsque j’utilise ma connexion à distance :**
 > 
