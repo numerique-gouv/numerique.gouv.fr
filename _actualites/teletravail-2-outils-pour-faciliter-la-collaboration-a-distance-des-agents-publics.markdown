@@ -14,7 +14,7 @@ chapeau-text: 'En situation de télétravail, deux outils en ligne conçus et ma
   pour mener des réunions en ligne.'
 ---
 
-**Tchap, la messagerie instantanée des agents publics**
+## **Tchap, la messagerie instantanée des agents publics**
 
 Pour vos échanges à distance, vous pouvez compter sur Tchap, la messagerie instantanée créée pour les agents publics, opérée par l’État.
 
