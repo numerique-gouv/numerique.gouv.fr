@@ -90,6 +90,3 @@ Vous pouvez :
 > 
 > **J’applique ces bonnes pratiques : c’est la garantie pour tous de préserver l’accès à nos outils informatiques**
 {: .noir .encadre}
-
-© Fotolia.com
-{: .credit}
