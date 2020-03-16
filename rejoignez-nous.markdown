@@ -4,7 +4,7 @@ date: 2020-02-14 10:59:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 12 mars 2020
+date_de_modification: 16 mars 2020
 layout: page-annexe
 ---
 
@@ -65,11 +65,7 @@ Zoom sur quelques postes dans le numérique public :
 > 
 > **Ministères économiques et financiers**
 > 
-> Secrétariat général
-> * [**Directeur/Directrice de projet**](/uploads/fiche%20de%20poste%20FR_directeur%20de%20projet.pdf "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 59&nbsp;ko)<br> 
-> Cadre/Catégorie A+<br>
-> 
-> 
+> Secrétariat général 
 > * [**Architecte**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-hf-reference-MEF_2019-439 "Architecte - Consulter la fiche de poste")<br> 
 > Cadre/Catégorie A<br>
 > 
