@@ -2,6 +2,7 @@
 title: 'Télétravail : 2 outils pour faciliter la collaboration à distance des agents
   publics'
 date: 2020-03-16 11:23:00 +01:00
+published: false
 categories:
 - Article
 tags:
@@ -39,13 +40,13 @@ Rejoignez les plus de 85 000 utilisateurs !
 <a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png"></figure></a>
 <a href="https://apps.apple.com/fr/app/tchap/id1446253779" alt="Télécharger l'application sur l'Appstore"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png"></figure></a>
 
-Et en version web
-
+#### Et en version web
 {: .text-center .margin-bottom-0}
-sur tchap.gouv.fr
+[sur tchap.gouv.fr](https://tchap.gouv.fr/)
 {: .text-center .noir}
 <a href="https://tchap.gouv.fr/" alt="Tchap version web"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png"></figure></a>
-
+<br>
+<br>
 
 ## **Webconférence de l’État, pour vos réunions à distance**
 
