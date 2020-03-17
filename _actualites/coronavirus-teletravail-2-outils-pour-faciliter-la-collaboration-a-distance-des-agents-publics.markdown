@@ -62,7 +62,7 @@ Vous pouvez :
 
 **Pour créer un salon de webconférence,** vous devez être connecté au réseau interministériel de l’État (RIE).
  
-**Pour rejoindre un salon** en tant qu'invité en revanche, vous pouvez le faire hors réseau depuis n'importe quelle connexion, soit depuis la version web sur webconference.numerique.gouv.fr, soit à partir de votre smartphone ou tablette Android depuis l'application Jitsi Meet. Pour cela [suivez les instructions de ce tutoriel](/uploads/rejoindre-webconf-android.pdf).
+**Pour rejoindre un salon** en tant qu'invité en revanche, vous pouvez le faire hors réseau depuis n'importe quel accès internet, **soit depuis la version web** sur webconference.numerique.gouv.fr, **soit à partir de votre smartphone ou tablette Android** depuis l'application Jitsi Meet, disponible [sur Google Play Store](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=fr). Dans ce dernier cas, [suivez les instructions de ce tutoriel](/uploads/rejoindre-webconf-android.pdf).
 
 #### Déjà 12 000 participants par mois
 {: .text-center}
