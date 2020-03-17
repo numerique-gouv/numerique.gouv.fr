@@ -24,11 +24,11 @@ Vous avez besoin d’**organiser à distance des réunions, des conférences, de
 
 Les participants peuvent :
 
-* échanger à distance en audio et vidéo,
-* diffuser une présentation,
-* partager la fenêtre d’un programme sur leur ordinateur,
-* discuter en instantané via un tchat intégré,
-* éditer un texte en mode collaboratif et en temps réel,
+* **échanger à distance** en audio et vidéo,
+* **diffuser** une présentation,
+* **partager la fenêtre** d’un programme sur leur ordinateur,
+* **discuter en instantané** via un tchat intégré,
+* **éditer un texte** en mode collaboratif et en temps réel,
 * …
 <br>
 <br>
@@ -37,7 +37,7 @@ Les participants peuvent :
 <img src="/uploads/group-bleu.png"/>
 </figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
 {: .margin-bottom-1}
-Tout agent de l’État, connecté au réseau interministériel de l’État (RIE), peut créer librement un salon de webconférence. Il lui suffit ensuite d’en partager le lien unique aux participants, qu’ils soient de l’administration ou de l’extérieur (partenaires, prestataires, entreprises, citoyens…).
+**Tout agent de l’État,** connecté au réseau interministériel de l’État (RIE), peut **créer librement un salon de webconférence**. Il lui suffit ensuite d’en partager le lien unique aux participants, qu’ils soient de l’administration ou de l’extérieur (partenaires, prestataires, entreprises, citoyens…).
 
 **Pour rejoindre un salon** en tant qu'invité, vous pouvez le faire hors réseau depuis n'importe quel accès internet, **soit depuis la version web** sur webconference.numerique.gouv.fr, **soit à partir de votre smartphone ou tablette Android** depuis l'application Jitsi Meet, disponible [sur Google Play Store](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=fr). Dans ce dernier cas, [suivez les instructions de ce tutoriel](/uploads/rejoindre-webconf-android.pdf).
 <br>
