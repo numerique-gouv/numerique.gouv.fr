@@ -70,7 +70,6 @@ d’utiliser la webconférence de l’État
 > * un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
 > 
 > <br>
-> <br>
 > Pour rejoindre un salon de webconférence, vous pouvez aussi simplement utiliser votre smartphone ou tablette Android, connectée à internet, via l’appli Jitsi Meet ([consultez ce tutoriel](/uploads/rejoindre-webconf-android.pdf)).
 {: .noir .encadre}
 <br>
