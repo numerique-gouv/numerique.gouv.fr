@@ -68,7 +68,7 @@ Vous pouvez :
 Lorsque la vidéo n’est pas nécessaire, **préférez l’audioconférence** qui est moins gourmande en bande passante et saturera moins les réseaux.
 
 #### Déjà 12 000 participants par mois
-{: .text-center}
+{: .text-center .margin-bottom-0 .margin-top-3}
 <a href="https://webconf.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" alt="Accédez au service de webconférence de l’État"/>
 </a>
 {: .text-center}
