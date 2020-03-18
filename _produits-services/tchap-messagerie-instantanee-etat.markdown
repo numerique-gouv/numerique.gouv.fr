@@ -33,15 +33,10 @@ Agent public, vous avez besoin de **communiquer facilement** avec des collaborat
 {: .margin-bottom-1}
 
 Disponible **sur smartphones et tablettes Android et Apple**, ainsi que **sur ordinateur** via un simple navigateur, cette alternative aux applications grand public vous permet de :
-
 * **discuter en privé à deux ou en groupe** (salon),
-
 * créer ou rejoindre **un salon de discussion public**,
-
 * **partager des fichiers**,
-
 * retrouver facilement un interlocuteur grâce à l’**annuaire intégré des utilisateurs**,
-
 * **inviter des correspondants extérieurs** à l’État (partenaire, prestataire…) à un salon,
 
 * …
@@ -60,9 +55,9 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/group-bleu.png"/>
-</figure>## Ouvert aux agents publics, aux élus et à leurs interlocuteurs
+</figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
 {: .margin-bottom-1}
-Les **agents publics** - qu'ils soient de l'État ou d'une collectivité territoriale - mais aussi **les élus** (parlementaires, locaux...) peuvent créer librement leur compte Tchap à partir de leur adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, ils peuvent inviter par courriel un **correspondant extérieur à l’administration** - partenaire, prestataire... - à un salon spécifique.
+Tout agent de l’État peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un correspondant extérieur à l’État à un salon spécifique.
 
 En février 2020, **plus de 85 000 agents publics** utilisent Tchap pour leurs échanges.
 <br>
