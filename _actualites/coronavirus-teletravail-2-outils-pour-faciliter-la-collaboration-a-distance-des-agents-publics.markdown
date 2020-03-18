@@ -52,7 +52,7 @@ Webconf.numerique.gouv.fr permet notamment d’**organiser en ligne, à distance
 
 Vous pouvez :
 
-* **organiser une réunion à distance en audio et vidéo,** avec des collaborateurs en télétravail par ex,
+* **organiser une réunion à distance en audio et/ou vidéo,** 
 * **diffuser une présentation**,
 *  **partager la fenêtre d’un programme** sur votre ordinateur,
 *  discuter en instantané via un **tchat intégré**,
@@ -60,12 +60,12 @@ Vous pouvez :
 
 [**> En savoir plus**](https://www.numerique.gouv.fr/produits-services/webconference-etat/)
 
-
 ### Comment l'utiliser ?
 **Pour créer un salon de webconférence,** vous devez être connecté au réseau interministériel de l’État (RIE).
  
 **Pour rejoindre un salon** en tant qu'invité, vous pouvez le faire hors réseau depuis n'importe quel accès internet, **soit depuis la version web** sur webconference.numerique.gouv.fr, **soit à partir de votre smartphone ou tablette Android** depuis l'application Jitsi Meet, disponible [sur Google Play Store](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=fr). Dans ce dernier cas, [suivez les instructions de ce tutoriel](/uploads/rejoindre-webconf-android.pdf).
 
+Lorsque la vidéo n’est pas nécessaire, **préférez l’audioconférence** qui est moins gourmande en bande passante et saturera moins les réseaux.
 
 #### Déjà 12 000 participants par mois
 {: .text-center}
