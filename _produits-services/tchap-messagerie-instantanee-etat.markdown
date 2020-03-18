@@ -56,7 +56,9 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 <img src="/uploads/group-bleu.png"/>
 </figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
 {: .margin-bottom-1}
-Tout agent de l’État peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un correspondant extérieur à l’État à un salon spécifique.
+Tout **agent de l’État** peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel **un correspondant extérieur** à l’État à un salon spécifique.
+
+Dédié aux agents de l’État, Tchap est ouvert en expérimentation dans plusieurs **collectivités territoriales** depuis février 2020. Vous souhaitez rejoindre l’expérimentation et proposer Tchap aux agents de votre collectivité ? Contactez [DCANT.DINUM@modernisation.gouv.fr](mailto:DCANT.DINUM@modernisation.gouv.fr) pour plus d’information. Une convention devra être établie et signée par la direction générale des services.
 
 En février 2020, **plus de 85 000 agents publics** utilisent Tchap pour leurs échanges.
 <br>
