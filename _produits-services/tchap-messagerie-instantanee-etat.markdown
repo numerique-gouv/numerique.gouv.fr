@@ -87,7 +87,6 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 <a href="https://apps.apple.com/fr/app/tchap/id1446253779" alt="Télécharger l'application sur l'Appstore"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png"></figure></a>
 
 #### Et en version web
-
 {: .text-center .margin-bottom-0}
 [sur tchap.gouv.fr](https://tchap.gouv.fr/)
 {: .text-center .noir}
@@ -97,7 +96,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 > **Vous souhaitez faire la promotion de Tchap au sein de votre administration ?**
 > <br>
 > Vous pouvez utiliser la vidéo présente en haut de cette page pour vos sites Intranet et lettres internes en l'embarquant [depuis Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf). Nous pouvons aussi vous fournir le fichier vidéo pour que vous puissiez la diffuser par exemple sur les écrans dans les espaces communs de votre administration ; pour cela, envoyez un [courriel au service communication de la DINUM](mailto:communication.dinum@modernisation.gouv.fr).
-> {: .encadre}
+{: .encadre}
 
 *Tchap est un service interministériel créé et opéré par la direction interministérielle du numérique (DINUM), dans le cadre de **[TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public.* <br>
 *Tchap s’appuie sur un **logiciel open source** ([Riot](https://about.riot.im/)) et un standard ouvert ([Matrix](https://matrix.org/)).*
