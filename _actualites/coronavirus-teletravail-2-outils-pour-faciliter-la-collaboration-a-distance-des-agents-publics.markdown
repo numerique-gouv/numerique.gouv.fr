@@ -15,7 +15,7 @@ chapeau-text: 'Le coronavirus amène les agents publics à télétravailler mass
   pour mener des réunions en ligne. Retrouvez aussi **nos bonnes pratiques pour un
   usage responsable d''internet** en télétravail depuis le réseau.'
 une-ou-diaporama:
-- image: "/uploads/teletravail-outils-numeriques.png"
+- image: "/uploads/outils-teletravail-7f2a49.png"
 ---
 
 ## **Tchap, la messagerie instantanée des agents publics**
