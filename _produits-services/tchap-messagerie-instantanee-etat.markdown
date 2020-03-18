@@ -38,10 +38,9 @@ Disponible **sur smartphones et tablettes Android et Apple**, ainsi que **sur or
 * **partager des fichiers**,
 * retrouver facilement un interlocuteur grâce à l’**annuaire intégré des utilisateurs**,
 * **inviter des correspondants extérieurs** à l’État (partenaire, prestataire…) à un salon,
-
 * …
-  <br>
-  <br>
+<br>
+<br>
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto-intervention.png"/>
@@ -73,21 +72,15 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 <br>
 
 ## 4 atouts de Tchap
-
 {: .text-center .margin-bottom-1 .margin-top-3}
-
 * **Une solution de confiance,** opérée par l’État, avec un haut niveau de **confidentialité** des échanges privés
-
 * Un **annuaire** intégré des utilisateurs de l’application
-
 * **Des salons publics** sur vos centres d’intérêt professionnels
-
 * Une utilisation simultanée possible sur **plusieurs appareils** (smartphones, ordinateur, tablette…)
-  <br>
-  <br>
+<br>
+<br>
 
 ## Rejoignez les plus de 85 000 utilisateurs !
-
 {: .text-center .margin-bottom-1 .margin-top-3}
 
 <a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png"></figure></a>
