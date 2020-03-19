@@ -1,6 +1,7 @@
 ---
 title: Participation de l’État à VivaTech pour l'édition 2020
 date: 2020-03-09 14:19:00 +01:00
+published: false
 categories:
 - Salon
 tags:
