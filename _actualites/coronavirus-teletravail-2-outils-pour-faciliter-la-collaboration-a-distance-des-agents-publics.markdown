@@ -33,7 +33,7 @@ Disponible **sur smartphone et sur ordinateur,** Tchap vous permet de :
 
 [**> En savoir plus**](https://www.numerique.gouv.fr/produits-services/tchap-messagerie-instantanee-etat/)
 
-#### Rejoignez les plus de 115 000 utilisateurs !
+#### Rejoignez les plus de 120 000 utilisateurs !
 {: .text-center .margin-bottom-1 .margin-top-3}
 
 <a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png"></figure></a>
