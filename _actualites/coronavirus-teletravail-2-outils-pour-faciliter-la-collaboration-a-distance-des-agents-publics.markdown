@@ -33,7 +33,7 @@ Disponible **sur smartphone et sur ordinateur,** Tchap vous permet de :
 
 [**> En savoir plus**](https://www.numerique.gouv.fr/produits-services/tchap-messagerie-instantanee-etat/)
 
-#### Rejoignez les plus de 85 000 utilisateurs !
+#### Rejoignez les plus de 115 000 utilisateurs !
 {: .text-center .margin-bottom-1 .margin-top-3}
 
 <a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png"></figure></a>
@@ -63,7 +63,7 @@ Vous pouvez :
 ### Comment l'utiliser ?
 **Pour créer un salon de webconférence,** vous devez être connecté au réseau interministériel de l’État (RIE).
  
-**Pour rejoindre un salon** en tant qu'invité, vous pouvez le faire hors réseau depuis n'importe quel accès internet, **soit depuis la version web** sur webconference.numerique.gouv.fr, **soit à partir de votre smartphone ou tablette Android ou Apple** depuis l'application Jitsi Meet, disponible [sur Google Play Store](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=fr) et [sur l'App Store](https://apps.apple.com/fr/app/jitsi-meet/id1165103905). Dans ce cas, [suivez les instructions de ce tutoriel](/uploads/rejoindre-webconf-android.pdf).
+**Pour rejoindre un salon** en tant qu'invité, vous pouvez le faire hors réseau depuis n'importe quel accès internet, **soit depuis la version web** sur [webconference.numerique.gouv.fr](https://webconference.numerique.gouv.fr), **soit à partir de votre smartphone ou tablette Android ou Apple** depuis l'application Jitsi Meet, disponible [sur Google Play Store](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=fr) et [sur l'App Store](https://apps.apple.com/fr/app/jitsi-meet/id1165103905). Dans ce cas, [suivez les instructions de ce tutoriel](/uploads/rejoindre-webconf-android.pdf).
 
 Lorsque la vidéo n’est pas nécessaire, **préférez l’audioconférence** qui est moins gourmande en bande passante et saturera moins les réseaux.
 
