@@ -7,6 +7,7 @@ tags:
 - Services numériques pour les agents
 - ETNA
 - environnement de travail numérique de l'agent
+- Outils pour les agents
 chapeau-text: L’État met à la disposition de tous ses agents un service de webconférence
   interministériel pour favoriser la coopération des équipes et le travail à distance.
 une:
