@@ -82,13 +82,13 @@ Lorsque la vidéo n’est pas nécessaire, **préférez l’audioconférence** q
 > <br>
 > <br>
 > 
-> **Lorsque j’utilise ma connexion à distance :**
+> **Lorsque j’utilise ma connexion au réseau à distance :**
 > 
 > 1. **Je réserve** mes consultations internet à un usage strictement professionnel
 > 
 > 2. **J’évite** les téléchargements de fichiers lourds ET les accès aux espaces de stockage distants (drives)
 > 
-> 3. **Je limite** l’utilisation d’internet entre 10h30 et 15h30
+> 3. **Je diminue** mon utilisation d’internet entre 10h30 et 15h30
 > 
 > 4. **Je supprime** les images de ma signature de mail ou la réduis au strict nécessaire (nom, prénom, numéro de téléphone)
 > 
