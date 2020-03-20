@@ -56,11 +56,11 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 <img src="/uploads/group-bleu.png"/>
 </figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
 {: .margin-bottom-1}
-Tout **agent de l’État** peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel **un correspondant extérieur** à l’État à un salon spécifique.
+Tout agent de l’État peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un correspondant extérieur à l’État à un salon spécifique.
 
-Dédié aux agents de l’État, Tchap est ouvert en expérimentation dans plusieurs **collectivités territoriales** depuis février 2020. Vous souhaitez rejoindre l’expérimentation et proposer Tchap aux agents de votre collectivité ? Contactez [DCANT.DINUM@modernisation.gouv.fr](mailto:DCANT.DINUM@modernisation.gouv.fr) pour plus d’information. Une convention devra être établie et signée par la direction générale des services.
+Dédié aux agents de l’État, Tchap est ouvert en expérimentation dans plusieurs collectivités territoriales depuis février 2020. Vous souhaitez rejoindre l’expérimentation et proposer Tchap aux agents de votre collectivité ? Contactez [DCANT.DINUM@modernisation.gouv.fr](mailto:DCANT.DINUM@modernisation.gouv.fr) pour plus d’information. Une convention devra être établie et signée par la direction générale des services.
 
-En février 2020, **plus de 85 000 agents publics** utilisent Tchap pour leurs échanges.
+En mars 2020, **plus de 115 000 agents publics** utilisent Tchap pour leurs échanges.
 <br>
 <br>
 
@@ -82,7 +82,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 <br>
 <br>
 
-## Rejoignez les plus de 85 000 utilisateurs !
+## Rejoignez les plus de 115 000 utilisateurs !
 {: .text-center .margin-bottom-1 .margin-top-3}
 
 <a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png"></figure></a>
