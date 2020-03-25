@@ -2,6 +2,14 @@
 title: 'Télétravail : Osmose et Plano, 2 nouveaux outils numériques collaboratifs
   pour les agents de l’État'
 date: 2020-03-25 15:38:00 +01:00
+categories:
+- Article
+tags:
+- Outils numériques pour les agents
+- Outils collaboratifs
+- Télétravail
+- Outils numériques
+- ETNA
 chapeau-text: 'En plus de [Tchap et la webconférence de l’État](/actualites/coronavirus-teletravail-2-outils-pour-faciliter-la-collaboration-a-distance-des-agents-publics/),
   les agents de l’État disposent désormais de deux nouveaux outils collaboratifs pour
   faciliter le travail à distance, particulièrement utiles en cette période de crise
@@ -16,3 +24,22 @@ En cette période de crise sans précédent, la direction interministérielle du
 
 Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés aux agents de l’État : Osmose et Plano.
 
+
+
+
+
+<a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" alt="Accéder à Osmose"/>
+</a>
+{: .text-center}
+> [**Accéder à Osmose**](https://osmose.numerique.gouv.fr/)
+{: .lien-important}
+
+
+
+
+
+<a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" alt="Accéder à Plano"/>
+</a>
+{: .text-center}
+> [**Accéder à Plano**](https://plano.numerique.gouv.fr/)
+{: .lien-important}
