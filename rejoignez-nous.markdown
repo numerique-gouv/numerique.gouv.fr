@@ -4,7 +4,7 @@ date: 2020-02-14 10:59:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 16 mars 2020
+date_de_modification: 26 mars 2020
 layout: page-annexe
 ---
 
@@ -35,6 +35,12 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A, A+
 
 * [**Responsable produit AgentConnect et FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=a32adc94-2b44-4b03-9195-8cfab6dca19a&offerid=348677 "Responsable produit AgentConnect et FranceConnect (F/H) - Télécharger le pdf") (pdf - 503&nbsp;ko)
+<br>Cadre/Catégorie A
+
+* [**Chargé/Chargée de mission accessibilité et qualité des services numérique(F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=cb5c37d0-279b-41bd-a375-a468c056724b&offerid=370784) (pdf - 896&nbsp;ko)
+<br>Cadre/Catégorie A
+
+* [**Expert/Experte design et accessibilité numérique(F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=38fcb75b-1aeb-4b25-96e0-dbd5b28278b2&offerid=370785) (pdf - 508&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>
 <br>
