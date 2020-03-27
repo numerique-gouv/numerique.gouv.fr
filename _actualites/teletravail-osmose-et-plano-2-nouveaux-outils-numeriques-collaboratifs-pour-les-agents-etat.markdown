@@ -55,8 +55,9 @@ Contactez le support [**osmose.dinum@modernisation.gouv.fr**](mailto:osmose.dinu
 C'est l’animateur de la communauté qui peut vous y inviter. Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte.
 
 Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
+<br>
 
-<a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose300contour.png" width="300" alt="Accéder à Osmose"/>
+<a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose500contour.png" width="400" alt="Accéder à Osmose"/>
 </a>
 {: .text-center}
 > [**Accéder à Osmose**](https://osmose.numerique.gouv.fr/)
@@ -94,7 +95,7 @@ Vous êtes responsable projet et souhaitez créer votre premier espace collabora
 Une fois votre accès ouvert, vous pourrez inviter chaque membre de votre projet directement via Plano et gérer vous-mêmes ses droits. 
 Vous pourrez ensuite créer en toute autonomie tous les espaces projets que vous souhaitez.
 
-<a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-plano-300contour.png" width="300" alt="Accéder à Plano"/>
+<a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-plano-500contour.png" width="500" alt="Accéder à Plano"/>
 </a>
 {: .text-center}
 > [**Accéder à Plano**](https://plano.numerique.gouv.fr/)
