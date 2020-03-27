@@ -22,7 +22,7 @@ Dans le respect des mesures de confinement imposées par le gouvernement, les ag
 
 En cette période de crise sans précédent, la direction interministérielle du numérique (DINUM) met tout en œuvre pour fournir aux agents des outils numériques dont ils ont besoin, étend l’accès et les fonctions de services existants – comme [la messagerie instantanée Tchap et la webconférence de l’État](/actualites/coronavirus-teletravail-2-outils-pour-faciliter-la-collaboration-a-distance-des-agents-publics/) – et accélère le déploiement de nouvelles solutions.
 
-Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés aux agents de l’État : Osmose et Plano.
+Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés aux agents de l’État : **Osmose et Plano**.
 <br>
 
 
@@ -64,7 +64,7 @@ Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté
 
 *À noter : Le point de contact [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription et de support est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM).*
 
-*Osmose est un service proposé par la DINUM, basé sur la solution SaaS [Jplatform](https://www.jalios.com/jcms/reel_5020/fr/jplatform-digital-workplace) de l’éditeur **Jalios** (données hébergées en France).*
+*Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur [**Jalios**](https://www.jalios.com) (données hébergées en France).*
 <br>
 <br>
 
