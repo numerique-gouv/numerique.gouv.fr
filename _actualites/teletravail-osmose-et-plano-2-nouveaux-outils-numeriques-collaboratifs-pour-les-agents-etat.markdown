@@ -54,7 +54,7 @@ Contactez le support [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@mo
 ### Comment rejoindre une communauté sur Osmose ?
 C'est l’animateur de la communauté qui peut vous y inviter. Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte.
 
-Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
+Des *guides et tutoriels* embarqués sur la plateforme, ainsi qu’une *communauté d’entraide*, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
 
 *A noter : Le point de contact [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription et de support est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM).*
 
