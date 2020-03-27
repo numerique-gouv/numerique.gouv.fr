@@ -60,10 +60,11 @@ MENTION POINT DE CONTACT
 
 
 *Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur Jalios (données hébergées en France).*
+<br>
 
-![image-plano - Copie.jpg](/uploads/image-plano%20-%20Copie.jpg)
+
 <figure class='image-center' style='width: 100%;'>
-  <img src="/uploads/bandeau-osmose.png" />
+  <img src="/uploads/Plano_1122x356.png" />
 </figure>
 
 ## Gérez vos projets avec Plano
