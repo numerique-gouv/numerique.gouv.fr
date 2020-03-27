@@ -1,7 +1,7 @@
 ---
 title: 'Télétravail : Osmose et Plano, 2 nouveaux outils numériques collaboratifs
   pour les agents de l’État'
-date: 2020-03-25 15:38:00 +01:00
+date: 2020-03-27 22:38:00 +01:00
 categories:
 - Article
 tags:
