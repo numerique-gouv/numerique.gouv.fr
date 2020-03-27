@@ -85,7 +85,7 @@ Avec Plano, vous pouvez :
 * **Partager, stocker des fichiers et les organiser** en dossiers (jusqu’à 9 niveaux)
 * **Mener une visioconférence** 
 * **Discuter** via messagerie instantanée intégrée (chat)
-* **Gérer un agenda :** planifier des réunions, effectuer un sondage de dates, inviter des participants, synchroniser dans les deux sens avec son agenda professionnel Outlook ou seulement dans un sens avec les autres agendas professionnels (Thunderbird…)
+* **Gérer un agenda :** planifier des réunions, effectuer un sondage de dates, inviter des participants, synchroniser dans les deux sens avec Outlook ou dans un sens avec les autres agendas professionnels (Thunderbird…)
 * Travailler **hors connexion** (drive)
  
 
