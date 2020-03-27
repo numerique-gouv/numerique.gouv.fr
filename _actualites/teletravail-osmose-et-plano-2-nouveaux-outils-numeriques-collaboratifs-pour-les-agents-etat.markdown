@@ -85,7 +85,7 @@ Vous pourrez ensuite créer en toute autonomie tous les espaces projets que vous
 
 
 
-<a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" alt="Accéder à Plano"/>
+<a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-plano-300.png" width="200" alt="Accéder à Plano"/>
 </a>
 {: .text-center}
 > [**Accéder à Plano**](https://plano.numerique.gouv.fr/)
