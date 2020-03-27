@@ -31,14 +31,14 @@ Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés 
   <img src="/uploads/bandeau-osmose.png" />
 </figure>
 
-La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction…  
+La plateforme Osmose vous permet d’**animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction**…  
  
 Avec Osmose, vous pouvez :
 * **Créer un espace collaboratif dédié à une communauté professionnelle**, privé ou public, et y inviter des participants internes et externes à l’État (partenaires, prestataires, experts…)
 * **Partager des contenus et fichiers** : documents bureautiques, vidéos, images, liens, veille…
 * **Coéditer des documents**
 * **Publier des contenus** sous différentes formes : post sur un blog dédié (pour informer de l’actualité de votre communauté par ex), FAQ ou wiki (pour diffuser un compte-rendu de réunion par ex)
-* **Discuter :** poser une question, proposer une idée, lancer une discussion, et interagir (commenter, voter, recommander...)
+* **Discuter :** poser une question, proposer une idée, lancer une discussion, et **interagir** (commenter, voter, recommander...)
 * **Gérer, suivre et attribuer des tâches** (type kanban)
 * **Planifier des réunions** (sondage de dates et invitations, partage de supports associés…) avec export possible dans son agenda professionnel (Outlook, Thunderbird…)
 * Et bien d’autres fonctionnalités : sondages, enquêtes…
@@ -48,11 +48,18 @@ Avec Osmose, vous pouvez :
 Seul un agent de l’État peut demander à créer une communauté sur Osmose. Il peut ensuite y inviter tous les membres qu’il souhaite, que la personne soit interne ou externe à l’État (agent, partenaire, prestataire, expert de la société civile…).
 
 
-INSERTION PROCESS
+### Comment créer une communauté sur Osmose ?
+Contactez le support [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
+	
+### Comment rejoindre une communauté sur Osmose ?
+C'est l’animateur de la communauté qui peut vous y inviter. Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte  
+
+Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
+
 
 Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr). 
 
-MENTION POINT DE CONTACT
+*A noter : Le point de contact [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription et de support est amené à évoluer en s’appuyant sur un réseau d’administrateurs par entité administrative au sein des directions du numérique ministérielles (DNUM).*
 
 <a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose300contour.png" width="200" alt="Accéder à Osmose"/>
 </a>
@@ -60,8 +67,7 @@ MENTION POINT DE CONTACT
 > [**Accéder à Osmose**](https://osmose.numerique.gouv.fr/)
 {: .lien-important}
 
-
-*Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur Jalios (données hébergées en France).*
+*Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur **Jalios** (données hébergées en France).*
 <br>
 
 
@@ -70,7 +76,7 @@ MENTION POINT DE CONTACT
   <img src="/uploads/Plano_1122x356.png" />
 </figure>
 
-Autre nouvel outil numérique proposé aux agents de l’État, destiné à faciliter orienté cette fois sur la gestion de projet et le travail collaboratif : Plano. 
+Autre nouvel outil numérique proposé aux agents de l’État, destiné à faciliter la gestion de projet et le travail collaboratif : Plano. 
  
 Avec Plano, vous pouvez :
 * **Créer un espace de travail dédié à votre projet** et y inviter l’ensemble des parties prenantes internes ou externes à l’État (agent, partenaire, prestataire…)
@@ -78,8 +84,8 @@ Avec Plano, vous pouvez :
 * **Partager, stocker des fichiers et les organiser** en dossiers (jusqu’à 9 niveaux)
 * **Mener une visioconférence** 
 * **Discuter** via messagerie instantanée intégrée (chat)
-* **Gérer un agenda :** planifier des réunions, effectuer un sondage de dates, inviter des participants, synchroniser dans les deux sens avec son agenda professionnel Outlook ou seulement dans un sens avec les autres agendas professionnel (Thunderbird…)
-* Travailler **hors connexion** (Drive)
+* **Gérer un agenda :** planifier des réunions, effectuer un sondage de dates, inviter des participants, synchroniser dans les deux sens avec son agenda professionnel Outlook ou seulement dans un sens avec les autres agendas professionnels (Thunderbird…)
+* Travailler **hors connexion** (drive)
  
 
 ### Qui peut utiliser Plano ?
@@ -91,8 +97,7 @@ Une fois votre accès ouvert, vous pourrez inviter chaque membre de votre projet
 
 Vous pourrez ensuite créer en toute autonomie tous les espaces projets que vous souhaitez.
 
-*A noter : Le point de contact [plano.dinum@modernisation.gouv.fr ](mailto:plano.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription est amené à évoluer en s’appuyant sur un réseau d’administrateurs par entité administrative.*
-
+*A noter : Le point de contact [plano.dinum@modernisation.gouv.fr ](mailto:plano.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM).*
 
 <a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-plano-300contour.png" width="200" alt="Accéder à Plano"/>
 </a>
@@ -100,4 +105,4 @@ Vous pourrez ensuite créer en toute autonomie tous les espaces projets que vous
 > [**Accéder à Plano**](https://plano.numerique.gouv.fr/)
 {: .lien-important}
 
-*Plano est un service proposé par la DINUM, basé sur la solution Wimi de l’éditeur Cloud solutions, et est hébergé en France par Scaleway (ILIAD).*
+*Plano est un service proposé par la DINUM, basé sur la solution **Wimi** de l’éditeur Cloud solutions, et est hébergé en France par Scaleway (ILIAD).*
