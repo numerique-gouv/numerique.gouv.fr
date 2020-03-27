@@ -54,7 +54,7 @@ Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté
 
 MENTION POINT DE CONTACT
 
-<a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" alt="Accéder à Osmose"/>
+<a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose300contour.png" width="200" alt="Accéder à Osmose"/>
 </a>
 {: .text-center}
 > [**Accéder à Osmose**](https://osmose.numerique.gouv.fr/)
