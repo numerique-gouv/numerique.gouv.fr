@@ -23,11 +23,11 @@ Dans le respect des mesures de confinement imposées par le gouvernement, les ag
 En cette période de crise sans précédent, la direction interministérielle du numérique (DINUM) met tout en œuvre pour fournir aux agents des outils numériques dont ils ont besoin, étend l’accès et les fonctions de services existants – comme [la messagerie instantanée Tchap et la webconférence de l’État](/actualites/coronavirus-teletravail-2-outils-pour-faciliter-la-collaboration-a-distance-des-agents-publics/) – et accélère le déploiement de nouvelles solutions.
 
 Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés aux agents de l’État : Osmose et Plano.
+<br>
 
 <figure class='image-center' style='width: 100%;'>
   <img src="/uploads/bandeau-osmose.png" />
 </figure>
-
 ## Animez vos communautés avec Osmose
 La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction…  
  
