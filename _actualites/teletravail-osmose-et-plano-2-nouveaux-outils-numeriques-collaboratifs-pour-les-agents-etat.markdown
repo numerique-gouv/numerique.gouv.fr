@@ -20,7 +20,7 @@ une-ou-diaporama:
 
 Dans le respect des mesures de confinement imposées par le gouvernement, les agents de l’État – comme le reste de la population active française – sont amenés à télétravailler massivement. Ce contexte exceptionnel oblige à mettre en place en urgence de nouveaux modes de travail à distance afin d’assurer la continuité de l’activité et du service public.
 
-En cette période de crise sans précédent, la direction interministérielle du numérique (DINUM) met tout en œuvre pour fournir aux agents des outils numériques dont ils ont besoin, étend l’accès et les fonctions de services existants – comme [la messagerie instantanée Tchap et la webconférence de l’État](https://numerique.gouv.fr/actualites/coronavirus-teletravail-2-outils-pour-faciliter-la-collaboration-a-distance-des-agents-publics/) – et accélère le déploiement de nouvelles solutions.
+En cette période de crise sans précédent, la direction interministérielle du numérique (DINUM) met tout en œuvre pour fournir aux agents des outils numériques dont ils ont besoin, étend l’accès et les fonctions de services existants – comme [la messagerie instantanée Tchap et la webconférence de l’État](/actualites/coronavirus-teletravail-2-outils-pour-faciliter-la-collaboration-a-distance-des-agents-publics/) – et accélère le déploiement de nouvelles solutions.
 
 Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés aux agents de l’État : Osmose et Plano.
 
