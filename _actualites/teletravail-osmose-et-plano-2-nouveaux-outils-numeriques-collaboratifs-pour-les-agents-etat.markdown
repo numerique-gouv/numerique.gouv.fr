@@ -82,7 +82,7 @@ Vous pourrez ensuite créer en toute autonomie tous les espaces projets que vous
 *A noter : Le point de contact [plano.dinum@modernisation.gouv.fr ](mailto:plano.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription est amené à évoluer en s’appuyant sur un réseau d’administrateurs par entité administrative.*
 
 
-<a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-plano-300.png" width="200" alt="Accéder à Plano"/>
+<a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-plano-300contour.png" width="200" alt="Accéder à Plano"/>
 </a>
 {: .text-center}
 > [**Accéder à Plano**](https://plano.numerique.gouv.fr/)
