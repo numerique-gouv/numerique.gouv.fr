@@ -64,7 +64,7 @@ Des *guides et tutoriels* embarqués sur la plateforme, ainsi qu’une *communau
 
 *À noter : Le point de contact [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription et de support est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM).*
 
-*Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur **Jalios** (données hébergées en France).*
+*Osmose est un service proposé par la DINUM, basé sur la solution SaaS [Jplatform](https://www.jalios.com/jcms/reel_5020/fr/jplatform-digital-workplace) de l’éditeur **Jalios** (données hébergées en France).*
 <br>
 <br>
 
@@ -102,4 +102,4 @@ Vous pourrez ensuite créer en toute autonomie tous les espaces projets que vous
 
 *À noter :* Le point de contact [plano.dinum@modernisation.gouv.fr ](mailto:plano.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM).
 
-*Plano est un service proposé par la DINUM, basé sur la solution **Wimi** de l’éditeur Cloud solutions, et est hébergé en France par Scaleway (ILIAD).*
+*Plano est un service proposé par la DINUM, basé sur la solution [**Wimi**](https://www.wimi-teamwork.com/fr/) de l’éditeur Cloud solutions, et est hébergé en France par Scaleway (ILIAD).*
