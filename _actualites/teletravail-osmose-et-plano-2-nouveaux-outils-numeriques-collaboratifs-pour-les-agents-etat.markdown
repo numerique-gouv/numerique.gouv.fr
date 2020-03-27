@@ -69,6 +69,7 @@ Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté
 
 *Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur **Jalios** (données hébergées en France).*
 <br>
+<br>
 
 
 ## Gérez vos projets avec Plano
