@@ -74,7 +74,7 @@ Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté
   <img src="/uploads/Plano_1122x356.png" />
 </figure>
 
-Autre nouvel outil numérique proposé aux agents de l’État, destiné à faciliter la gestion de projet et le travail collaboratif : Plano. 
+Autre nouvel outil numérique proposé aux agents de l’État, destiné à faciliter la *gestion de projet* et le *travail collaboratif* : Plano. 
  
 Avec Plano, vous pouvez :
 * **Créer un espace de travail dédié à votre projet** et y inviter l’ensemble des parties prenantes internes ou externes à l’État (agent, partenaire, prestataire…)
