@@ -52,7 +52,7 @@ Seul un agent de l’État peut demander à créer une communauté sur Osmose. I
 Contactez le support [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
 	
 ### Comment rejoindre une communauté sur Osmose ?
-C'est l’animateur de la communauté qui peut vous y inviter. Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte  
+C'est l’animateur de la communauté qui peut vous y inviter. Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte.
 
 Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
 
@@ -87,7 +87,7 @@ Avec Plano, vous pouvez :
  
 
 ### Qui peut utiliser Plano ?
-Dédié aux agents de l’État, Plano se destine plus particulièrement aux directeurs et chefs de projet, ainsi qu’à toute autre personne impliquée dans un projet (notamment les partenaires et prestataires de l’État).
+Dédié aux **agents de l’État**, Plano se destine plus particulièrement aux **directeurs et chefs de projet**, ainsi qu’à toute autre personne impliquée dans un projet (notamment les partenaires et prestataires de l’État).
  
 ### Comment avoir accès à Plano ?
 Vous êtes responsable projet et souhaitez créer votre premier espace collaboratif ? Envoyez votre demande à [plano.dinum@modernisation.gouv.fr](mailto:plano.dinum@modernisation.gouv.fr). 
