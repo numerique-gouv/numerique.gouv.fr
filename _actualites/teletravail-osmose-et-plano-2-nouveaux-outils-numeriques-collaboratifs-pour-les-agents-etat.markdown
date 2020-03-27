@@ -24,6 +24,8 @@ En cette période de crise sans précédent, la direction interministérielle du
 
 Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés aux agents de l’État : Osmose et Plano.
 
+![bandeau-osmose.png](/uploads/bandeau-osmose.png)
+
 ## Animez vos communautés avec Osmose
 La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction…  
  
