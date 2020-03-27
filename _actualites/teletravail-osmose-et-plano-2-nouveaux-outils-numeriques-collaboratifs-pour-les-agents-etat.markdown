@@ -24,11 +24,13 @@ En cette période de crise sans précédent, la direction interministérielle du
 
 Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés aux agents de l’État : Osmose et Plano.
 <br>
+<br>
 
 <figure class='image-center' style='width: 100%;'>
   <img src="/uploads/bandeau-osmose.png" />
 </figure>
 ## Animez vos communautés avec Osmose
+{: .margin-top-0}
 La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction…  
  
 Avec Osmose, vous pouvez :
@@ -61,13 +63,13 @@ MENTION POINT DE CONTACT
 
 *Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur Jalios (données hébergées en France).*
 <br>
-
+<br>
 
 <figure class='image-center' style='width: 100%;'>
   <img src="/uploads/Plano_1122x356.png" />
 </figure>
-
 ## Gérez vos projets avec Plano
+{: .margin-top-0} 
 Autre nouvel outil numérique proposé aux agents de l’État, destiné à faciliter orienté cette fois sur la gestion de projet et le travail collaboratif : Plano. 
  
 Avec Plano, vous pouvez :
