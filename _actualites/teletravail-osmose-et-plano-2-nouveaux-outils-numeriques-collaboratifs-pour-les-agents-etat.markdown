@@ -56,9 +56,6 @@ C'est l’animateur de la communauté qui peut vous y inviter. Vous devez donc l
 
 Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
 
-
-Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr). 
-
 *A noter : Le point de contact [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription et de support est amené à évoluer en s’appuyant sur un réseau d’administrateurs par entité administrative au sein des directions du numérique ministérielles (DNUM).*
 
 <a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose300contour.png" width="200" alt="Accéder à Osmose"/>
