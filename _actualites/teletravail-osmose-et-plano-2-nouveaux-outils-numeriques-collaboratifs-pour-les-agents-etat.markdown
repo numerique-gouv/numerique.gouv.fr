@@ -46,6 +46,7 @@ INSERTION PROCESS
 
 Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr) 
 
+MENTION POINT DE CONTACT
 
 <a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" alt="Accéder à Osmose"/>
 </a>
@@ -53,8 +54,6 @@ Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté
 > [**Accéder à Osmose**](https://osmose.numerique.gouv.fr/)
 {: .lien-important}
 
-
-MENTION POINT DE CONTACT
 
 *Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur Jalios (données hébergées en France).*
 
@@ -76,13 +75,11 @@ Dédié aux agents de l’État, Plano se destine plus particulièrement aux dir
  
 ### Comment avoir accès à Plano ?
 Vous êtes responsable projet et souhaitez créer votre premier espace collaboratif ? Envoyez votre demande à [plano.dinum@modernisation.gouv.fr ](mailto:plano.dinum@modernisation.gouv.fr). 
-Une fois votre accès ouvert, vous pourrez inviter chaque membre de votre projet directement via Plano, et gérer vous-mêmes ses droits.
+Une fois votre accès ouvert, vous pourrez inviter chaque membre de votre projet directement via Plano et gérer vous-mêmes ses droits.
 
 Vous pourrez ensuite créer en toute autonomie tous les espaces projets que vous souhaitez.
 
 *A noter : Le point de contact [plano.dinum@modernisation.gouv.fr ](mailto:plano.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription est amené à évoluer en s’appuyant sur un réseau d’administrateurs par entité administrative.*
-
-
 
 
 <a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-plano-300.png" width="200" alt="Accéder à Plano"/>
@@ -90,3 +87,5 @@ Vous pourrez ensuite créer en toute autonomie tous les espaces projets que vous
 {: .text-center}
 > [**Accéder à Plano**](https://plano.numerique.gouv.fr/)
 {: .lien-important}
+
+*Plano est un service proposé par la DINUM, basé sur la solution Wimi de l’éditeur Cloud solutions, et est hébergé en France par Scaleway (ILIAD).*
