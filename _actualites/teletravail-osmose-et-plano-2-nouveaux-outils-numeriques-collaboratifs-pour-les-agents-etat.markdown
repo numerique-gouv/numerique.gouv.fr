@@ -45,14 +45,14 @@ Avec Osmose, vous pouvez :
  
  
 ### Qui peut utiliser Osmose ?
-Seul un agent de l’État peut demander à créer une communauté sur Osmose. Il peut ensuite y inviter tous les membres qu’il souhaite, que la personne soit interne ou externe à l’État (agent, partenaire, prestataire, expert de la société civile…).
+Seul un **agent de l’État** peut demander à créer une communauté sur Osmose. Il peut ensuite y **inviter tous les membres** qu’il souhaite, que la personne soit **interne ou externe à l’État** (agent, partenaire, prestataire, expert de la société civile…).
 
 
 ### Comment créer une communauté sur Osmose ?
-Contactez le support [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
+Contactez le support [**osmose.dinum@modernisation.gouv.fr**](mailto:osmose.dinum@modernisation.gouv.fr).
 	
 ### Comment rejoindre une communauté sur Osmose ?
-C'est l’animateur de la communauté qui peut vous y inviter. Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte.
+C'est **l’animateur de la communauté** qui peut vous y inviter. **Vous devez donc le contacter pour la rejoindre,** au besoin il demandera pour vous la création d'un compte.
 
 Des *guides et tutoriels* embarqués sur la plateforme, ainsi qu’une *communauté d’entraide*, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
 
@@ -100,6 +100,6 @@ Vous pourrez ensuite créer en toute autonomie tous les espaces projets que vous
 > [**Accéder à Plano**](https://plano.numerique.gouv.fr/)
 {: .lien-important}
 
-*À noter :* Le point de contact [plano.dinum@modernisation.gouv.fr ](mailto:plano.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM).
+*À noter : Le point de contact [plano.dinum@modernisation.gouv.fr ](mailto:plano.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM).*
 
 *Plano est un service proposé par la DINUM, basé sur la solution [**Wimi**](https://www.wimi-teamwork.com/fr/) de l’éditeur Cloud solutions, et est hébergé en France par Scaleway (ILIAD).*
