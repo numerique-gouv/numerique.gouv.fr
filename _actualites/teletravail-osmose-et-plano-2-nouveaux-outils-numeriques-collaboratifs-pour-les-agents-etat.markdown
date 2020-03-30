@@ -95,7 +95,7 @@ Vous êtes responsable projet et souhaitez créer votre premier espace collabora
 Une fois votre accès ouvert, vous pourrez inviter chaque membre de votre projet directement via Plano et gérer vous-mêmes ses droits. 
 Vous pourrez ensuite créer en toute autonomie tous les espaces projets que vous souhaitez.
 
-<a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-plano-500contour.png" width="500" alt="Accéder à Plano"/>
+<a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-plano-500contour.png" width="400" alt="Accéder à Plano"/>
 </a>
 {: .text-center}
 > [**Accéder à Plano**](https://plano.numerique.gouv.fr/)
