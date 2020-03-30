@@ -31,7 +31,7 @@ Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés 
   <img src="/uploads/bandeau-osmose.png" />
 </figure>
 
-**La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction… Vous composez votre espace collaboratif avec les fonctions qui vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion de tâches, wiki…
+**La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction… Vous composez votre espace collaboratif avec les fonctions qui vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion de tâches, wiki…**
  
 Avec Osmose, vous pouvez :
 * **Créer un espace collaboratif dédié à une communauté professionnelle**, privé ou public, et y inviter des participants internes et externes à l’État (partenaires, prestataires, experts…)
