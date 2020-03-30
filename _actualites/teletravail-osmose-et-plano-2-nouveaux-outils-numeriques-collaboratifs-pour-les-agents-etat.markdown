@@ -15,7 +15,7 @@ chapeau-text: 'En plus de [Tchap et la webconférence de l’État](/actualites/
   faciliter le travail à distance, particulièrement utiles en cette période de crise
   : Osmose et Plano.'
 une-ou-diaporama:
-- image: "/uploads/20200330_Article_Osmose.jpg"
+- image: "/uploads/Article_Osmose_plano.jpg"
 ---
 
 Dans le respect des mesures de confinement imposées par le gouvernement, les agents de l’État – comme le reste de la population active française – sont amenés à télétravailler massivement. Ce contexte exceptionnel oblige à mettre en place en urgence de nouveaux modes de travail à distance afin d’assurer la continuité de l’activité et du service public.
@@ -28,7 +28,7 @@ Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés 
 
 ## Animez vos communautés avec Osmose
 <figure class='image-center' style='width: 100%;'>
-  <img src="/uploads/bandeau_Osmose-2.png" />
+  <img src="/uploads/bandeau_osmose.png" />
 </figure>
 
 **La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction… Vous composez votre espace collaboratif avec les fonctions qui vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion de tâches, wiki…**
