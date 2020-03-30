@@ -1,0 +1,47 @@
+---
+title: Animez vos communautés avec Osmose
+date: 2020-03-30 18:46:00 +02:00
+tags:
+- Osmose
+- ETNA
+- Outils pour les agents
+chapeau-text: 'La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle,
+  autour d’un projet, d’une pratique, d’une équipe, d’une direction… La plateforme
+  Osmose vous permet de composer votre espace collaboratif avec les fonctions qui
+  vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion
+  de tâches, wiki…'
+---
+
+Avec Osmose, vous pouvez :
+* **Créer un espace collaboratif dédié à une communauté professionnelle**, privé ou public, et y inviter des participants internes et externes à l’État (partenaires, prestataires, experts…)
+* **Partager des contenus et fichiers** : documents bureautiques, vidéos, images, liens, veille…
+* **Coéditer des documents**
+* **Publier des contenus** sous différentes formes : post sur un blog dédié (pour informer de l’actualité de votre communauté par ex), FAQ ou wiki (pour diffuser un compte-rendu de réunion par ex)
+* **Discuter :** poser une question, proposer une idée, lancer une discussion, et **interagir** (commenter, voter, recommander...)
+* **Gérer, suivre et attribuer des tâches** (type kanban)
+* **Planifier des réunions** (sondage de dates et invitations, partage de supports associés…) avec export possible dans son agenda professionnel (Outlook, Thunderbird…)
+* Et bien d’autres fonctionnalités : sondages, enquêtes…
+ 
+ 
+### Qui peut utiliser Osmose ?
+Seul un agent de l’État peut demander à créer une communauté sur Osmose. Il peut ensuite y inviter tous les membres qu’il souhaite, que la personne soit interne ou externe à l’État (agent, partenaire, prestataire, expert de la société civile…).
+
+
+### Comment créer une communauté sur Osmose ?
+Contactez le support [**osmose.dinum@modernisation.gouv.fr**](mailto:osmose.dinum@modernisation.gouv.fr).
+	
+### Comment rejoindre une communauté sur Osmose ?
+C'est l’animateur de la communauté qui peut vous y inviter. Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte.
+
+Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
+<br>
+
+<a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose500contour.png" width="400" alt="Accéder à Osmose"/>
+</a>
+{: .text-center}
+> [**Accéder à Osmose**](https://osmose.numerique.gouv.fr/)
+{: .lien-important}
+
+*À noter : Le point de contact [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription et de support est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM).*
+
+*Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur [**Jalios**](https://www.jalios.com) (données hébergées en France).*
