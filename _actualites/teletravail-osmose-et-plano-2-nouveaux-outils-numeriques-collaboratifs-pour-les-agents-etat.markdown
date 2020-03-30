@@ -31,7 +31,7 @@ Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés 
   <img src="/uploads/bandeau-osmose.png" />
 </figure>
 
-**La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction**…  
+**La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction… Vous composez votre espace collaboratif avec les fonctions qui vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion de tâches, wiki…
  
 Avec Osmose, vous pouvez :
 * **Créer un espace collaboratif dédié à une communauté professionnelle**, privé ou public, et y inviter des participants internes et externes à l’État (partenaires, prestataires, experts…)
@@ -75,7 +75,7 @@ Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté
   <img src="/uploads/Plano_1122x356.png" />
 </figure>
 
-**Autre nouvel outil numérique proposé aux agents de l’État, destiné à faciliter la gestion de projet et le travail collaboratif : Plano.** 
+**Autre nouvel outil numérique proposé aux agents de l’État, destiné à faciliter la gestion de projet et le travail collaboratif : Plano. Cet espace de travail virtuel centralise pour tous les membres d’un projet les ressources et outils qui leur sont utiles : bibliothèque de documents, agenda, planning, tâches, tchat, visio…** 
  
 Avec Plano, vous pouvez :
 * **Créer un espace de travail dédié à votre projet** et y inviter l’ensemble des parties prenantes internes ou externes à l’État (agent, partenaire, prestataire…)
