@@ -2,7 +2,6 @@
 title: 'Télétravail : Osmose et Plano, 2 nouveaux outils numériques collaboratifs
   pour les agents de l’État'
 date: 2020-03-27 08:38:00 +01:00
-published: false
 categories:
 - Article
 tags:
@@ -16,7 +15,7 @@ chapeau-text: 'En plus de [Tchap et la webconférence de l’État](/actualites/
   faciliter le travail à distance, particulièrement utiles en cette période de crise
   : Osmose et Plano.'
 une-ou-diaporama:
-- image: "/uploads/Article_lancement-osmose-plano.jpg"
+- image: "/uploads/20200330_Article_Osmose.jpg"
 ---
 
 Dans le respect des mesures de confinement imposées par le gouvernement, les agents de l’État – comme le reste de la population active française – sont amenés à télétravailler massivement. Ce contexte exceptionnel oblige à mettre en place en urgence de nouveaux modes de travail à distance afin d’assurer la continuité de l’activité et du service public.
@@ -29,10 +28,10 @@ Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés 
 
 ## Animez vos communautés avec Osmose
 <figure class='image-center' style='width: 100%;'>
-  <img src="/uploads/bandeau-osmose.png" />
+  <img src="/uploads/bandeau_Osmose-2.png" />
 </figure>
 
-**La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction**…  
+**La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction… Vous composez votre espace collaboratif avec les fonctions qui vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion de tâches, wiki…**
  
 Avec Osmose, vous pouvez :
 * **Créer un espace collaboratif dédié à une communauté professionnelle**, privé ou public, et y inviter des participants internes et externes à l’État (partenaires, prestataires, experts…)
@@ -76,7 +75,7 @@ Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté
   <img src="/uploads/Plano_1122x356.png" />
 </figure>
 
-**Autre nouvel outil numérique proposé aux agents de l’État, destiné à faciliter la gestion de projet et le travail collaboratif : Plano.** 
+**Autre nouvel outil numérique proposé aux agents de l’État, destiné à faciliter la gestion de projet et le travail collaboratif : Plano. Cet espace de travail virtuel centralise pour tous les membres d’un projet les ressources et outils qui leur sont utiles : bibliothèque de documents, agenda, planning, tâches, tchat, visio…** 
  
 Avec Plano, vous pouvez :
 * **Créer un espace de travail dédié à votre projet** et y inviter l’ensemble des parties prenantes internes ou externes à l’État (agent, partenaire, prestataire…)
