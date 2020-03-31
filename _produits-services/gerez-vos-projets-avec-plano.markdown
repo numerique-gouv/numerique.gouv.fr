@@ -8,7 +8,7 @@ tags:
 chapeau-text: Plano est un nouvel outil numérique proposé aux agents de l’État, destiné
   à faciliter la gestion de projet et le travail collaboratif.
 une-ou-diaporama:
-- image: "/uploads/Plano_1122x356.png"
+- image: "/uploads/20200331_bandeau_produit_service_PLANO.png"
 layout: rgaa
 ---
 
