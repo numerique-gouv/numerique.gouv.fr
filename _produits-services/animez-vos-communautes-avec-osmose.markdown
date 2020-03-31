@@ -18,11 +18,14 @@ layout: rgaa
 </figure>## Un outil polyvalent
 {: .margin-bottom-1} 
 Animez vos communautés autour d’un projet, d’une pratique, d’une équipe, d’une direction… La plateforme Osmose vous permet de composer votre espace collaboratif avec les fonctions qui vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion de tâches, wiki…
+<br>
+
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto-intervention.png"/>
 </figure>## Avec Osmose, vous pouvez :
 {: .margin-bottom-1}
+
 * **Créer un espace collaboratif dédié à une communauté professionnelle**, privé ou public, et y inviter des participants internes et externes à l’État (partenaires, prestataires, experts…)
 * **Partager des contenus et fichiers** : documents bureautiques, vidéos, images, liens, veille…
 * **Coéditer des documents**
@@ -31,13 +34,16 @@ Animez vos communautés autour d’un projet, d’une pratique, d’une équipe,
 * **Gérer, suivre et attribuer des tâches** (type kanban)
 * **Planifier des réunions** (sondage de dates et invitations, partage de supports associés…) avec export possible dans son agenda professionnel (Outlook, Thunderbird…)
 * Et bien d’autres fonctionnalités : sondages, enquêtes…
- 
+<br>
+
  
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/group-bleu.png"/>
 </figure>## Qui peut utiliser Osmose ?
 {: .margin-bottom-1}
 Seul un agent de l’État peut demander à créer une communauté sur Osmose. Il peut ensuite y inviter tous les membres qu’il souhaite, que la personne soit interne ou externe à l’État (agent, partenaire, prestataire, expert de la société civile…).
+<br>
+
 
 > <br>
 > ## Comment créer une communauté sur Osmose ?
@@ -50,12 +56,15 @@ Seul un agent de l’État peut demander à créer une communauté sur Osmose. I
 > Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
 {: .encadre}
 
+<br>
+
 <a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose500contour.png" width="400" alt="Accéder à Osmose"/>
 </a>
 {: .text-center}
 > [**Accéder à Osmose**](https://osmose.numerique.gouv.fr/)
 {: .lien-important}
 
+<br>
 *À noter : Le point de contact [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service, le mode d’inscription et de support est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM).*
 
 *Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur [**Jalios**](https://www.jalios.com) (données hébergées en France).*
