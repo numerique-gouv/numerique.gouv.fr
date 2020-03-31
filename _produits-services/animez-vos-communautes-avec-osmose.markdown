@@ -8,6 +8,8 @@ tags:
 chapeau-text: 'La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle. '
 une-ou-diaporama:
 - image: "/uploads/20200331_bandeau_produit_service_Osmose.png"
+une:
+  image: "/uploads/20200331_bandeau_produit_service_Osmose.png"
 layout: rgaa
 ---
 
