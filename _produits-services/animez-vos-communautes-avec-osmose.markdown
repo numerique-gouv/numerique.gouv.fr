@@ -5,14 +5,21 @@ tags:
 - Osmose
 - ETNA
 - Outils pour les agents
-chapeau-text: 'La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle,
-  autour d’un projet, d’une pratique, d’une équipe, d’une direction… La plateforme
-  Osmose vous permet de composer votre espace collaboratif avec les fonctions qui
-  vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion
-  de tâches, wiki…'
+chapeau-text: 'La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle. '
 ---
 
-Avec Osmose, vous pouvez :
+<br>
+
+<figure class='image-left' style='width: 7%;'>
+<img src="/uploads/swiss-army-knife_bleu.png"/>
+</figure>## Un outil polyvalent
+{: .margin-bottom-1} 
+Animez vos communautés autour d’un projet, d’une pratique, d’une équipe, d’une direction… La plateforme Osmose vous permet de composer votre espace collaboratif avec les fonctions qui vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion de tâches, wiki…
+
+<figure class='image-left' style='width: 6%;'>
+<img src="/uploads/picto-intervention.png"/>
+</figure>##Avec Osmose, vous pouvez :
+{: .margin-bottom-1}
 * **Créer un espace collaboratif dédié à une communauté professionnelle**, privé ou public, et y inviter des participants internes et externes à l’État (partenaires, prestataires, experts…)
 * **Partager des contenus et fichiers** : documents bureautiques, vidéos, images, liens, veille…
 * **Coéditer des documents**
@@ -23,18 +30,22 @@ Avec Osmose, vous pouvez :
 * Et bien d’autres fonctionnalités : sondages, enquêtes…
  
  
-### Qui peut utiliser Osmose ?
+<figure class='image-left' style='width: 6%;'>
+<img src="/uploads/group-bleu.png"/>
+</figure>## Qui peut utiliser Osmose ?
+{: .margin-bottom-1}
 Seul un agent de l’État peut demander à créer une communauté sur Osmose. Il peut ensuite y inviter tous les membres qu’il souhaite, que la personne soit interne ou externe à l’État (agent, partenaire, prestataire, expert de la société civile…).
 
-
-### Comment créer une communauté sur Osmose ?
-Contactez le support [**osmose.dinum@modernisation.gouv.fr**](mailto:osmose.dinum@modernisation.gouv.fr).
-	
-### Comment rejoindre une communauté sur Osmose ?
-C'est l’animateur de la communauté qui peut vous y inviter. Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte.
-
-Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
-<br>
+> <br>
+> ## Comment créer une communauté sur Osmose ?
+> Contactez le support [**osmose.dinum@modernisation.gouv.fr**](mailto:osmose.dinum@modernisation.gouv.fr).
+> <br>	
+> ## Comment rejoindre une communauté sur Osmose ?
+> C'est l’animateur de la communauté qui peut vous y inviter. 
+> Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte.
+> <br>
+> Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
+{: .encadre}
 
 <a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose500contour.png" width="400" alt="Accéder à Osmose"/>
 </a>
