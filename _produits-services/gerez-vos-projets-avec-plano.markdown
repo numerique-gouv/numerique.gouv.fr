@@ -11,6 +11,7 @@ chapeau-text: 'Un nouvel outil numérique proposé aux agents de l’État, dest
   utiles : bibliothèque de documents, agenda, planning, tâches, tchat, visio…'
 une-ou-diaporama:
 - image: "/uploads/Plano_1122x356.png"
+layout: rgaa
 ---
 
 Avec Plano, vous pouvez :
