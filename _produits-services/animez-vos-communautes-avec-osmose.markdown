@@ -7,7 +7,7 @@ tags:
 - Outils pour les agents
 chapeau-text: 'La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle. '
 une-ou-diaporama:
-- image: "/uploads/bandeau_osmose.png"
+- image: "/uploads/20200331_bandeau_produit_service_Osmose.png"
 layout: rgaa
 ---
 
