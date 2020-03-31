@@ -6,6 +6,8 @@ tags:
 - ETNA
 - Outils pour les agents
 chapeau-text: 'La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle. '
+une-ou-diaporama:
+- image: "/uploads/bandeau_osmose.png"
 ---
 
 <br>
