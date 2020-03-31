@@ -22,6 +22,14 @@ publications:
   url: "/produits-services/tchap-messagerie-instantanee-etat/"
   une-ou-diaporama:
   - image: "/uploads/740x500_Visuel_Tchap.jpg"
+- title: Animez vos communautés avec Osmose
+  url: "/produits-services/animez-vos-communautes-avec-osmose/ "
+  une-ou-diaporama:
+  - image: 
+- title: Gérez vos projets avec Plano
+  url: "/produits-services/gerez-vos-projets-avec-plano/"
+  une-ou-diaporama:
+  - image: 
 layout: publications
 ---
 
