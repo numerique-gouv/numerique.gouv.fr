@@ -9,6 +9,8 @@ chapeau-text: 'Un nouvel outil numérique proposé aux agents de l’État, dest
   la gestion de projet et le travail collaboratif : Plano. Cet espace de travail virtuel
   centralise pour tous les membres d’un projet les ressources et outils qui leur sont
   utiles : bibliothèque de documents, agenda, planning, tâches, tchat, visio…'
+une-ou-diaporama:
+- image: "/uploads/Plano_1122x356.png"
 ---
 
 Avec Plano, vous pouvez :
