@@ -16,7 +16,7 @@ layout: rgaa
 
 <br>
 
-<figure class='image-left' style='width: 6%;'>
+<figure class='image-left' style='width: 8%;'>
 <img src="/uploads/picto-ordi.png"/>
 </figure>## Un espace de travail virtuel 
 {: .margin-bottom-1} 
