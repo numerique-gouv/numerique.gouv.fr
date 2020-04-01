@@ -28,6 +28,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chef/Cheffe de produit – Plateforme de partage ponctuel d'expertise**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=713397d6-577a-40af-a975-ce60f0402eca&offerid=371415 "Chef/Cheffe de produit – Plateforme de partage ponctuel d'expertise - Télécharger le pdf") (pdf - 759,98&nbsp;ko)
+<br>Cadre/Catégorie A
+
 * [**Directeur/Directrice de projet interministériel – Cloud**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=c6bc4b4a-2cfc-4a36-882d-65634a5dc352&offerid=366750 "Directeur/Directrice de projet interministériel – Cloud - Télécharger le pdf") (pdf - 508,01&nbsp;ko)
 <br>Cadre/Catégorie A
 
