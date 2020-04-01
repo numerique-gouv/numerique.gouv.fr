@@ -23,11 +23,11 @@ publications:
   une-ou-diaporama:
   - image: "/uploads/740x500_Visuel_Tchap.jpg"
 - title: 'Osmose pour animer vos communautés  '
-  url: "/produits-services/animez-vos-communautes-avec-osmose/ "
+  url: "/produits-services/osmose-pour-animer-vos-communautes/"
   une-ou-diaporama:
   - image: "/uploads/20200331_produit_service_Osmose.png"
 - title: Plano pour gérer vos projets
-  url: "/produits-services/gerez-vos-projets-avec-plano/"
+  url: "/produits-services/plano-pour-gerer-vos-projets/"
   une-ou-diaporama:
   - image: "/uploads/20200331_produit_service_PLANO.png"
 layout: publications
