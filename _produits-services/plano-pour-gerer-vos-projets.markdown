@@ -52,7 +52,7 @@ Dédié aux agents de l’État, Plano se destine plus particulièrement aux dir
 <br>
 
 > <br> 
-> #### Vous êtes responsable projet et souhaitez créer votre premier espace collaboratif ?**
+> #### Vous êtes responsable projet et souhaitez créer votre premier espace collaboratif ?
 >
 > Envoyez votre demande à [**plano.dinum@modernisation.gouv.fr**](mailto:plano.dinum@modernisation.gouv.fr). 
 >
