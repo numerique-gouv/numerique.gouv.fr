@@ -22,7 +22,7 @@ publications:
   url: "/produits-services/tchap-messagerie-instantanee-etat/"
   une-ou-diaporama:
   - image: "/uploads/740x500_Visuel_Tchap.jpg"
-- title: 'Osmose pour animer vos communautés  '
+- title: 'Osmose pour animer vos communautés '
   url: "/produits-services/osmose-pour-animer-vos-communautes/"
   une-ou-diaporama:
   - image: "/uploads/20200331_produit_service_Osmose.png"
