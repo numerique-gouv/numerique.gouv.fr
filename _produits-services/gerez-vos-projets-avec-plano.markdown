@@ -16,8 +16,8 @@ layout: rgaa
 
 <br>
 
-<figure class='image-left' style='width: 7%;'>
-<img src="/uploads/swiss-army-knife_bleu.png"/>
+<figure class='image-left' style='width: 6%;'>
+<img src="/uploads/picto-ordi.png"/>
 </figure>## Un espace de travail virtuel 
 {: .margin-bottom-1} 
 Plano est une plateforme qui centralise pour tous les membres d’un projet les ressources et outils qui leur sont utiles : bibliothèque de documents, agenda, planning, tâches, tchat, visio…
