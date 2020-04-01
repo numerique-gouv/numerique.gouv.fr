@@ -53,12 +53,12 @@ Seul un agent de l’État peut demander à créer une communauté sur Osmose. I
 
 
 > <br>
-> ### Comment créer une communauté sur Osmose ?**
+> #### Comment créer une communauté sur Osmose ?**
 > 
 > Contactez le support [**osmose.dinum@modernisation.gouv.fr**](mailto:osmose.dinum@modernisation.gouv.fr).
 > <br>	
 > <br>
-> ### Comment rejoindre une communauté sur Osmose ?**
+> #### Comment rejoindre une communauté sur Osmose ?**
 > 
 > C'est l’animateur de la communauté qui peut vous y inviter. 
 > Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte.
