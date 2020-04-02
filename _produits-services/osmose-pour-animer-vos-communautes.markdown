@@ -1,7 +1,6 @@
 ---
 title: Osmose pour animer vos communautés
 date: 2020-03-30 06:46:00 +02:00
-published: false
 tags:
 - Osmose
 - ETNA
