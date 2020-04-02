@@ -36,11 +36,11 @@ Vous pouvez créer autant d'espaces de travail que de projets que vous gérez, e
 Avec Plano, vous pouvez :
 
 * **Créer un espace de travail pour chacun de vos projets** et y inviter l’ensemble des contributeurs internes ou externes à l’État (agent, partenaire, prestataire…)
-* **Gérer et planifier les tâches** via un **diagramme de Gantt** : organiser et planifier les tâches, les corréler entre elles, en suivre l’avancement…
-* **Partager, stocker des fichiers et les organiser** en dossiers (jusqu’à 9 niveaux)
+* **Gérer les tâches** via un **diagramme de Gantt** et un **kanban** : organiser et planifier les tâches, les corréler entre elles, en suivre l’avancement…
+* **Partager des documents** avec tous les membres de votre équipe, les stocker et organiser en dossiers (jusqu’à 9 niveaux)
 * **Communiquer facilement** avec l'ensemble des contributeurs du projet grâce aux fonctions de **visioconférence** et de **messagerie instantanée** (tchat) intégrées
 * **Gérer un agenda :** planifier des réunions, effectuer un sondage de dates, inviter des participants, synchroniser avec un agenda professionnel (Outlook, Thunderbird…)
-* Travailler **hors connexion** (drive)
+* Travailler **hors connexion** et retrouver vos dossiers où que vous soyez (drive)
 <br>
 <br>
 
