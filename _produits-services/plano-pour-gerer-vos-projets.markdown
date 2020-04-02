@@ -30,7 +30,7 @@ Vous pouvez créer autant d'espaces de travail que de projets que vous gérez, e
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto-intervention.png"/>
-</figure>## Toutes les fonctionnalités pour un travail d’équipe fluide et efficace autour d'un projet
+</figure>## Toutes les fonctionnalités pour un travail d’équipe fluide et efficace
 {: .margin-bottom-1}
 
 Avec Plano, vous pouvez :
@@ -40,7 +40,7 @@ Avec Plano, vous pouvez :
 * **Partager des documents** avec tous les membres de votre équipe, les stocker et organiser en dossiers (jusqu’à 9 niveaux)
 * **Communiquer facilement** avec l'ensemble des contributeurs du projet grâce aux fonctions de **visioconférence** et de **messagerie instantanée** (tchat) intégrées
 * **Gérer un agenda :** planifier des réunions, effectuer un sondage de dates, inviter des participants, synchroniser avec un agenda professionnel (Outlook, Thunderbird…)
-* Travailler **hors connexion** et retrouver vos dossiers où que vous soyez (drive)
+* **Travailler hors connexion** et retrouver vos dossiers où que vous soyez (drive)
 <br>
 <br>
 
@@ -56,6 +56,7 @@ Dédié aux agents de l’État, Plano se destine plus particulièrement aux dir
 
 > <br> 
 > #### Vous êtes responsable projet et souhaitez créer votre premier espace collaboratif ?
+> {: .margin-top-0}
 >
 > Envoyez votre demande à [**plano.dinum@modernisation.gouv.fr**](mailto:plano.dinum@modernisation.gouv.fr). 
 >
