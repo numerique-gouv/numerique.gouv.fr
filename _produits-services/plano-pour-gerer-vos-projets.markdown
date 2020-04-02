@@ -20,9 +20,9 @@ layout: rgaa
 <img src="/uploads/picto-ordi.png"/>
 </figure>## Un espace de travail virtuel 
 {: .margin-bottom-1} 
-Plano est une plateforme qui centralise pour tous les membres d’un projet les ressources et outils qui leur sont utiles pour gérer le projet et communiquer entre eux : bibliothèque de documents, agenda, planning, tâches, tchat, visio…
+Plano centralise pour tous les membres d’un projet les ressources et outils qui leur sont utiles pour gérer le projet et communiquer entre eux : bibliothèque de documents, agenda, planning, tâches, tchat, visio…
 
-Vous pouvez créer autant d'espaces de travail que de projets que vous gérez ou auxquels vous participez, et ainsi retrouver l'ensemble de vos projets en un seul et même espace. 
+Vous pouvez créer autant d'espaces de travail que de projets que vous gérez, et ainsi tous les rassembler en un seul et même espace. 
 <br>
 <br>
 
@@ -33,11 +33,12 @@ Vous pouvez créer autant d'espaces de travail que de projets que vous gérez ou
 </figure>## Toutes les fonctionnalités pour un travail d’équipe fluide et efficace autour d'un projet
 {: .margin-bottom-1}
 
-* **Créer un espace de travail dédié à votre projet** et y inviter l’ensemble des parties prenantes internes ou externes à l’État (agent, partenaire, prestataire…)
-* **Gérer votre projet** via un **diagramme de Gantt** : organiser et planifier les tâches, les corréler entre elles, en suivre l’avancement…
+Avec Plano, vous pouvez :
+
+* **Créer un espace de travail pour chacun de vos projets** et y inviter l’ensemble des contributeurs internes ou externes à l’État (agent, partenaire, prestataire…)
+* **Gérer et planifier les tâches** via un **diagramme de Gantt** : organiser et planifier les tâches, les corréler entre elles, en suivre l’avancement…
 * **Partager, stocker des fichiers et les organiser** en dossiers (jusqu’à 9 niveaux)
-* **Mener une visioconférence** 
-* **Discuter** via messagerie instantanée intégrée (chat)
+* **Communiquer facilement** avec l'ensemble des contributeurs du projet grâce aux fonctions de **visioconférence** et de **messagerie instantanée** (tchat) intégrées
 * **Gérer un agenda :** planifier des réunions, effectuer un sondage de dates, inviter des participants, synchroniser avec un agenda professionnel (Outlook, Thunderbird…)
 * Travailler **hors connexion** (drive)
 <br>
