@@ -5,8 +5,9 @@ tags:
 - Plano
 - ETNA
 - Outils pour les agents
-chapeau-text: Plano est un outil numérique proposé aux agents de l’État, destiné à
-  faciliter la gestion de projet et le travail collaboratif.
+chapeau-text: Pilotée par la DINUM, la plateforme collaborative Plano permet aux agents
+  de l’État de gérer leurs projets en ligne, efficacement, et de faciliter le travail
+  en équipe, y compris à distance.
 une-ou-diaporama:
 - image: "/uploads/20200331_bandeau_produit_service_PLANO.png"
 une:
