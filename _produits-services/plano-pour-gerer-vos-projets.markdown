@@ -20,7 +20,9 @@ layout: rgaa
 <img src="/uploads/picto-ordi.png"/>
 </figure>## Un espace de travail virtuel 
 {: .margin-bottom-1} 
-Plano est une plateforme qui centralise pour tous les membres d’un projet les ressources et outils qui leur sont utiles : bibliothèque de documents, agenda, planning, tâches, tchat, visio…
+Plano est une plateforme qui centralise pour tous les membres d’un projet les ressources et outils qui leur sont utiles pour gérer le projet et communiquer entre eux : bibliothèque de documents, agenda, planning, tâches, tchat, visio…
+
+Vous pouvez créer autant d'espaces de travail que de projets que vous gérez ou auxquels vous participez, et ainsi retrouver l'ensemble de vos projets en un seul et même espace. 
 <br>
 <br>
 
@@ -28,7 +30,7 @@ Plano est une plateforme qui centralise pour tous les membres d’un projet les 
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto-intervention.png"/>
-</figure>## Avec Plano, vous pouvez :
+</figure>## Toutes les fonctionnalités pour un travail d’équipe fluide et efficace autour d'un projet
 {: .margin-bottom-1}
 
 * **Créer un espace de travail dédié à votre projet** et y inviter l’ensemble des parties prenantes internes ou externes à l’État (agent, partenaire, prestataire…)
