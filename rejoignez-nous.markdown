@@ -68,7 +68,7 @@ Zoom sur quelques postes dans le numérique public :
 > * [**Responsable de l'atelier numérique H/F**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=081a5d0c-4c02-4292-8806-ed8b0e979a03&offerid=373532 "Responsable de l'atelier numérique H/F")<br> 
 > Cadre/Catégorie A<br>
 >
-> * [**Administrateur/Administratrice ministériel des données déléguées**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=81eb534b-deb0-49ca-a21a-be6820f2a6bd&offerid=373531 "Administrateur/Administratrice ministériel des données déléguées")<br> 
+> * [**Administrateur/Administratrice ministériel/ministérielle des données délégué/déléguée**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=81eb534b-deb0-49ca-a21a-be6820f2a6bd&offerid=373531 "Administrateur/Administratrice ministériel/ministérielle des données délégué/déléguée")<br> 
 > Cadre/Catégorie A<br>
 >
 >
