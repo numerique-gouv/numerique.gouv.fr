@@ -1,7 +1,6 @@
 ---
 title: Plano pour gérer vos projets
 date: 2020-03-30 06:48:00 +02:00
-published: false
 tags:
 - Plano
 - ETNA
