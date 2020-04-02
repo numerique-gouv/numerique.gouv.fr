@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '26 mars 2020 '
+date_de_modification: '2 avril 2020 '
 layout: page-annexe
 ---
 
@@ -28,6 +28,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chef/Cheffe de produit – Plateforme de partage ponctuel d'expertise**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=713397d6-577a-40af-a975-ce60f0402eca&offerid=371415 "Chef/Cheffe de produit – Plateforme de partage ponctuel d'expertise - Télécharger le pdf") (pdf - 759,98&nbsp;ko)
+<br>Cadre/Catégorie A
+
 * [**Directeur/Directrice de projet interministériel – Cloud**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=c6bc4b4a-2cfc-4a36-882d-65634a5dc352&offerid=366750 "Directeur/Directrice de projet interministériel – Cloud - Télécharger le pdf") (pdf - 508,01&nbsp;ko)
 <br>Cadre/Catégorie A
 
@@ -61,6 +64,14 @@ Zoom sur quelques postes dans le numérique public :
 > <br>
 > <br>
 > 
+> **Ministère de la culture**
+> * [**Responsable de l'atelier numérique H/F**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=081a5d0c-4c02-4292-8806-ed8b0e979a03&offerid=373532 "Responsable de l'atelier numérique H/F")<br>Cadre/Catégorie A
+> <br>
+>
+> * [**Administrateur.trice ministériel.le des données délégué.e**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=81eb534b-deb0-49ca-a21a-be6820f2a6bd&offerid=373531 "Administrateur.trice ministériel.le des données délégué.e")<br>Cadre/Catégorie A
+> <br>
+>
+>
 > **Ministère des Armées**
 > * [**Directeur/Directrice de projet**](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000039416508 "Directeur/Directrice de projet - Télécharger le pdf") (pdf - 343&nbsp;ko)
 <br>Cadre/Catégorie A
