@@ -1,7 +1,6 @@
 ---
 title: Plano pour gérer vos projets
 date: 2020-03-30 06:48:00 +02:00
-published: false
 tags:
 - Plano
 - ETNA
@@ -22,9 +21,9 @@ layout: rgaa
 <img src="/uploads/picto-ordi.png"/>
 </figure>## Un espace de travail virtuel 
 {: .margin-bottom-1} 
-Plano centralise pour tous les membres d’une équipe projet les ressources et outils qui leur sont utiles pour le gérer et bien communiquer entre eux : bibliothèque de documents, agenda, planning, tâches, tchat, visio…
+Plano centralise pour tous les membres d’une équipe projet les ressources et outils qui leur sont utiles pour le gérer et communiquer entre eux : bibliothèque de documents, agenda, planning, tâches, tchat, visio…
 
-Vous pouvez disposer d'autant d'espaces de travail que de projets que vous gérez ou auxquels vous contribuez, et ainsi les rassembler en un seul et même espace. 
+Vous pouvez disposer d'autant d'espaces de travail que de projets que vous gérez ou auxquels vous contribuez, et pouvez ainsi les rassembler en un seul et même espace. 
 <br>
 <br>
 
