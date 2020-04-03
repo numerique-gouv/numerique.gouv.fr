@@ -1,5 +1,5 @@
 ---
-title: Osmose pour animer vos communautés
+title: Osmose, la plateforme des communautés professionnelles de l’État
 date: 2020-03-30 06:46:00 +02:00
 tags:
 - Osmose
