@@ -28,9 +28,10 @@ Animez vos communautés autour d’une pratique, d’un projet, d’une équipe,
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto-intervention.png"/>
-</figure>## Avec Osmose, vous pouvez :
+</figure>## Une solution tout-en-un pour vos communautés
 {: .margin-bottom-1}
 
+Avec Osmose, vous pouvez :
 * **Créer un espace collaboratif dédié à une communauté professionnelle**, privé ou public, et y inviter des participants internes et externes à l’État (partenaires, prestataires, experts…)
 * **Partager des contenus et fichiers** : documents bureautiques, vidéos, images, liens, veille…
 * **Coéditer des documents**
