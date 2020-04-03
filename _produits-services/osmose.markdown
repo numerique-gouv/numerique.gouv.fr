@@ -5,7 +5,8 @@ tags:
 - Osmose
 - ETNA
 - Outils pour les agents
-chapeau-text: 'La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle. '
+chapeau-text: Proposée par la plateforme Osmose permet aux agents de l’État d’animer
+  en ligne une communauté professionnelle.
 une-ou-diaporama:
 - image: "/uploads/20200331_bandeau_produit_service_Osmose.png"
 une:
@@ -52,7 +53,6 @@ Seul un agent de l’État peut demander à créer une communauté sur Osmose. I
 <br>
 
 
-> <br>
 > #### Comment créer une communauté sur Osmose ?
 > 
 > Contactez le support [**osmose.dinum@modernisation.gouv.fr**](mailto:osmose.dinum@modernisation.gouv.fr).
