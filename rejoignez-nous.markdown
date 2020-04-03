@@ -26,7 +26,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
-#### **Green Tech**
+#### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
 * [**Chargé/Chargée de mission Green Tech**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d76294f5-df23-4c7e-bc3c-486a09b35aa8&offerid=374102 "Chargé/Chargée de mission Green Tech - Télécharger le pdf") (pdf - 774,27&nbsp;ko)
 <br>Cadre/Catégorie A
@@ -50,6 +50,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 #### **Design des services numériques**
+{: .margin-top-4 .margin-bottom-1}
 * [**Chargé/Chargée de mission accessibilité et qualité des services numérique  (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=cb5c37d0-279b-41bd-a375-a468c056724b&offerid=370784) (pdf - 896&nbsp;ko)
 <br>Cadre/Catégorie A
 
@@ -62,6 +63,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-1}
 * [**Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6d0887a2-da90-4966-b027-b84f91bd4a66&offerid=374085 "Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services - Télécharger le pdf") (pdf - 773,75&nbsp;ko)
 <br>Cadre/Catégorie A
+<br>Poste pouvant être basé à Paris ou à Rennes selon les souhaits du candidat.
 
 * [**Chargé/Chargée de mission « Résilience du Réseau Interministériel de l'Etat »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=447d3aed-3dd4-48ca-b106-0be564f2fd8f&offerid=374091 "Chargé/Chargée de mission « Résilience du Réseau Interministériel de l'Etat » - Télécharger le pdf") (pdf - 777,13&nbsp;ko)
 <br>Cadre/Catégorie A
