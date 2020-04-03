@@ -56,7 +56,6 @@ Dédié aux agents de l’État, Plano se destine plus particulièrement aux dir
 <br>
 <br>
 
-> <br> 
 > #### Vous êtes responsable projet et souhaitez créer votre premier espace collaboratif ?
 > {: .margin-top-0}
 >
