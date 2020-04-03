@@ -22,7 +22,7 @@ layout: rgaa
 <img src="/uploads/picto-ordi.png"/>
 </figure>## Un espace de travail virtuel 
 {: .margin-bottom-1} 
-Plano centralise pour tous les membres d’un projet les ressources et outils qui leur sont utiles pour gérer le projet et communiquer entre eux : bibliothèque de documents, agenda, planning, tâches, tchat, visio…
+Plano centralise pour tous les membres d’une équipe projet les ressources et outils qui leur sont utiles pour le gérer et bien communiquer entre eux : bibliothèque de documents, agenda, planning, tâches, tchat, visio…
 
 Vous pouvez créer autant d'espaces de travail que de projets que vous gérez, et ainsi tous les rassembler en un seul et même espace. 
 <br>
