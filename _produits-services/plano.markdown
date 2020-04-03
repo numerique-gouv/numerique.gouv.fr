@@ -1,13 +1,12 @@
 ---
-title: Plano pour gérer vos projets
-date: 2020-03-30 06:48:00 +02:00
-published: false
+title: Plano, plateforme de gestion de projet en ligne et de travail collaboratif
+date: 2020-04-03 06:48:00 +02:00
 tags:
 - Plano
 - ETNA
 - Outils pour les agents
-chapeau-text: Pilotée par la DINUM, la plateforme collaborative Plano permet aux agents
-  de l’État de gérer leurs projets en ligne, efficacement, et de faciliter le travail
+chapeau-text: Proposée par la DINUM, la plateforme collaborative en ligne Plano permet
+  aux agents de l’État de gérer leurs projets efficacement et de faciliter le travail
   en équipe, y compris à distance.
 une-ou-diaporama:
 - image: "/uploads/20200331_bandeau_produit_service_PLANO.png"
@@ -22,9 +21,9 @@ layout: rgaa
 <img src="/uploads/picto-ordi.png"/>
 </figure>## Un espace de travail virtuel 
 {: .margin-bottom-1} 
-Plano centralise pour tous les membres d’une équipe projet les ressources et outils qui leur sont utiles pour le gérer et bien communiquer entre eux : bibliothèque de documents, agenda, planning, tâches, tchat, visio…
+Plano centralise pour tous les membres d’une équipe projet les ressources et outils qui leur sont utiles pour le gérer et communiquer entre eux : **bibliothèque de documents, agenda, planning, tâches, tchat, visio…**
 
-Vous pouvez disposer d'autant d'espaces de travail que de projets que vous gérez ou auxquels vous contribuez, et ainsi les rassembler en un seul et même espace. 
+Vous pouvez disposer d'autant d'espaces de travail que de projets que vous gérez ou auxquels vous contribuez, et pouvez ainsi les rassembler en un point unique. 
 <br>
 <br>
 
@@ -39,9 +38,9 @@ Avec Plano, vous pouvez :
 * **Créer un espace de travail** pour chacun de vos projets et y inviter l’ensemble des contributeurs internes ou externes à l’État (agent, partenaire, prestataire…)
 * **Gérer les tâches** via un diagramme de Gantt et un kanban : organiser et planifier les tâches, les corréler entre elles, en suivre l’avancement…
 * **Partager des documents** avec tous les membres de votre équipe, les stocker et organiser en dossiers (jusqu’à 9 niveaux)
-* **Communiquer facilement** avec l'ensemble des contributeurs du projet grâce aux fonctions de visioconférence et de messagerie instantanée (tchat) intégrées
+* **Communiquer facilement** avec l'ensemble des contributeurs du projet grâce aux fonctions intégrées de visioconférence et de messagerie instantanée (tchat)
 * **Gérer un agenda :** planifier des réunions, effectuer un sondage de dates, inviter des participants, synchroniser avec un agenda professionnel (Outlook, Thunderbird…)
-* **Travailler hors connexion** et retrouver vos dossiers où que vous soyez (drive)
+* **Travailler hors connexion** (drive)
 <br>
 <br>
 

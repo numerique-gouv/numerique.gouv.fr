@@ -1,12 +1,12 @@
 ---
-title: Osmose pour animer vos communautés
-date: 2020-03-30 06:46:00 +02:00
-published: false
+title: Osmose, la plateforme des communautés professionnelles de l’État
+date: 2020-04-03 06:46:00 +02:00
 tags:
 - Osmose
 - ETNA
 - Outils pour les agents
-chapeau-text: 'La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle. '
+chapeau-text: Proposée par la DINUM, la plateforme Osmose permet aux agents de l’État
+  d’animer en ligne une communauté professionnelle.
 une-ou-diaporama:
 - image: "/uploads/20200331_bandeau_produit_service_Osmose.png"
 une:
@@ -18,9 +18,9 @@ layout: rgaa
 
 <figure class='image-left' style='width: 7%;'>
 <img src="/uploads/swiss-army-knife_bleu.png"/>
-</figure>## Un outil modulable
+</figure>## Un outil complet et modulable
 {: .margin-bottom-1} 
-Animez vos communautés autour d’un projet, d’une pratique, d’une équipe, d’une direction… La plateforme Osmose vous permet de composer votre espace collaboratif avec les fonctions qui vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion de tâches, wiki…
+Animez vos communautés autour d’une pratique, d’un projet, d’une équipe, d’une direction… La plateforme Osmose vous permet de composer votre espace collaboratif avec les fonctions qui vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion de tâches, wiki…
 <br>
 <br>
 
@@ -53,7 +53,6 @@ Seul un agent de l’État peut demander à créer une communauté sur Osmose. I
 <br>
 
 
-> <br>
 > #### Comment créer une communauté sur Osmose ?
 > 
 > Contactez le support [**osmose.dinum@modernisation.gouv.fr**](mailto:osmose.dinum@modernisation.gouv.fr).
@@ -70,7 +69,7 @@ Seul un agent de l’État peut demander à créer une communauté sur Osmose. I
 
 <br>
 
-<a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose500contour.png" width="400" alt="Accéder à Osmose"/>
+<a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose-home2.png" width="400" alt="Accéder à Osmose"/>
 </a>
 {: .text-center}
 > [**Accéder à Osmose**](https://osmose.numerique.gouv.fr/)
