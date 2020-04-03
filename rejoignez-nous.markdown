@@ -35,9 +35,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6d0887a2-da90-4966-b027-b84f91bd4a66&offerid=374085 "Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services - Télécharger le pdf") (pdf - 773,75&nbsp;ko)
-<br>Cadre/Catégorie A
-
 * [**Responsable partenariat et distribution AgentConnect – FranceConnect H/F**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=4eead9d5-b760-4eb0-b695-1fc8bbc361ee&offerid=374096 "Responsable partenariat et distribution AgentConnect – FranceConnect H/F - Télécharger le pdf") (pdf - 755,40&nbsp;ko)
 <br>Cadre/Catégorie A
 
@@ -63,6 +60,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
+* [**Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6d0887a2-da90-4966-b027-b84f91bd4a66&offerid=374085 "Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services - Télécharger le pdf") (pdf - 773,75&nbsp;ko)
+<br>Cadre/Catégorie A
+
 * [**Chargé/Chargée de mission « Résilience du Réseau Interministériel de l'Etat »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=447d3aed-3dd4-48ca-b106-0be564f2fd8f&offerid=374091 "Chargé/Chargée de mission « Résilience du Réseau Interministériel de l'Etat » - Télécharger le pdf") (pdf - 777,13&nbsp;ko)
 <br>Cadre/Catégorie A
 
