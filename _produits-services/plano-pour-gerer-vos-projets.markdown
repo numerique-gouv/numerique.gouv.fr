@@ -6,8 +6,9 @@ tags:
 - Plano
 - ETNA
 - Outils pour les agents
-chapeau-text: Plano est un outil numérique proposé aux agents de l’État, destiné à
-  faciliter la gestion de projet et le travail collaboratif.
+chapeau-text: Pilotée par la DINUM, la plateforme collaborative Plano permet aux agents
+  de l’État de gérer leurs projets en ligne, efficacement, et de faciliter le travail
+  en équipe, y compris à distance.
 une-ou-diaporama:
 - image: "/uploads/20200331_bandeau_produit_service_PLANO.png"
 une:
@@ -21,24 +22,26 @@ layout: rgaa
 <img src="/uploads/picto-ordi.png"/>
 </figure>## Un espace de travail virtuel 
 {: .margin-bottom-1} 
-Plano est une plateforme qui centralise pour tous les membres d’un projet les ressources et outils qui leur sont utiles : bibliothèque de documents, agenda, planning, tâches, tchat, visio…
-<br>
-<br>
+Plano centralise pour tous les membres d’une équipe projet les ressources et outils qui leur sont utiles pour le gérer et bien communiquer entre eux : bibliothèque de documents, agenda, planning, tâches, tchat, visio…
 
+Vous pouvez disposer d'autant d'espaces de travail que de projets que vous gérez ou auxquels vous contribuez, et ainsi les rassembler en un seul et même espace. 
+<br>
+<br>
 
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto-intervention.png"/>
-</figure>## Avec Plano, vous pouvez :
+</figure>## Toutes les fonctionnalités pour un travail d’équipe fluide et efficace
 {: .margin-bottom-1}
 
-* **Créer un espace de travail dédié à votre projet** et y inviter l’ensemble des parties prenantes internes ou externes à l’État (agent, partenaire, prestataire…)
-* **Gérer votre projet** via un **diagramme de Gantt** : organiser et planifier les tâches, les corréler entre elles, en suivre l’avancement…
-* **Partager, stocker des fichiers et les organiser** en dossiers (jusqu’à 9 niveaux)
-* **Mener une visioconférence** 
-* **Discuter** via messagerie instantanée intégrée (chat)
+Avec Plano, vous pouvez :
+
+* **Créer un espace de travail** pour chacun de vos projets et y inviter l’ensemble des contributeurs internes ou externes à l’État (agent, partenaire, prestataire…)
+* **Gérer les tâches** via un diagramme de Gantt et un kanban : organiser et planifier les tâches, les corréler entre elles, en suivre l’avancement…
+* **Partager des documents** avec tous les membres de votre équipe, les stocker et organiser en dossiers (jusqu’à 9 niveaux)
+* **Communiquer facilement** avec l'ensemble des contributeurs du projet grâce aux fonctions de visioconférence et de messagerie instantanée (tchat) intégrées
 * **Gérer un agenda :** planifier des réunions, effectuer un sondage de dates, inviter des participants, synchroniser avec un agenda professionnel (Outlook, Thunderbird…)
-* Travailler **hors connexion** (drive)
+* **Travailler hors connexion** et retrouver vos dossiers où que vous soyez (drive)
 <br>
 <br>
 
@@ -52,8 +55,8 @@ Dédié aux agents de l’État, Plano se destine plus particulièrement aux dir
 <br>
 <br>
 
-> <br> 
 > #### Vous êtes responsable projet et souhaitez créer votre premier espace collaboratif ?
+> {: .margin-top-0}
 >
 > Envoyez votre demande à [**plano.dinum@modernisation.gouv.fr**](mailto:plano.dinum@modernisation.gouv.fr). 
 >
