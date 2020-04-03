@@ -22,12 +22,12 @@ publications:
   url: "/produits-services/tchap-messagerie-instantanee-etat/"
   une-ou-diaporama:
   - image: "/uploads/740x500_Visuel_Tchap.jpg"
-- title: Osmose pour animer vos communautés
-  url: "/produits-services/osmose-pour-animer-vos-communautes/ "
+- title: Osmose, la plateforme des communautés professionnelles de l’État
+  url: "/produits-services/osmose/"
   une-ou-diaporama:
   - image: "/uploads/20200331_produit_service_Osmose.png"
-- title: Plano pour gérer vos projets
-  url: "/produits-services/plano-pour-gerer-vos-projets/"
+- title: Plano, plateforme de gestion de projet en ligne et de travail collaboratif
+  url: "/produits-services/plano/"
   une-ou-diaporama:
   - image: "/uploads/20200331_produit_service_PLANO.png"
 layout: publications
