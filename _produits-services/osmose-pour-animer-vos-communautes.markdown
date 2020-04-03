@@ -17,9 +17,9 @@ layout: rgaa
 
 <figure class='image-left' style='width: 7%;'>
 <img src="/uploads/swiss-army-knife_bleu.png"/>
-</figure>## Un outil modulable
+</figure>## Un outil complet et modulable
 {: .margin-bottom-1} 
-Animez vos communautés autour d’un projet, d’une pratique, d’une équipe, d’une direction… La plateforme Osmose vous permet de composer votre espace collaboratif avec les fonctions qui vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion de tâches, wiki…
+Animez vos communautés autour d’une pratique, d’un projet, d’une équipe, d’une direction… La plateforme Osmose vous permet de composer votre espace collaboratif avec les fonctions qui vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion de tâches, wiki…
 <br>
 <br>
 
@@ -69,7 +69,7 @@ Seul un agent de l’État peut demander à créer une communauté sur Osmose. I
 
 <br>
 
-<a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose500contour.png" width="400" alt="Accéder à Osmose"/>
+<a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose-home2.png" width="400" alt="Accéder à Osmose"/>
 </a>
 {: .text-center}
 > [**Accéder à Osmose**](https://osmose.numerique.gouv.fr/)
