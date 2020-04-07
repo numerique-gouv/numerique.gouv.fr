@@ -1,5 +1,5 @@
 ---
-title: 'Programme Entrepreneurs d’Intérêt Général : découvrez les 17 défis de la quatrième
+title: 'Programme Entrepreneurs d’Intérêt Général : découvrez les 17 défis de la 4e
   promotion'
 date: 2020-04-07 16:31:00 +02:00
 categories:
