@@ -6,7 +6,7 @@ categories:
 - Article
 tags:
 - Etalab
-- Entrepreneur d'Intérêt Général
+- Entrepreneurs d’intérêt général
 chapeau-text: Les 24 et 25 mars 2020 s’est tenu le jury de sélection des défis pour
   la 4ème promotion du programme Entrepreneurs d’Intérêt Général, qui débutera en
   septembre 2020. Près de 100 personnes ont été rassemblées sur ces deux journées
@@ -14,7 +14,7 @@ chapeau-text: Les 24 et 25 mars 2020 s’est tenu le jury de sélection des déf
   faire partie de la promotion EIG 4 et les prochaines étapes de la constitution de
   la promotion.
 une-ou-diaporama:
-- image: "/uploads/EIG4_aap_article.jpg"
+- image: "/uploads/projets-laureats-EIG-4.jpg"
 auteur: Etalab
 redirect_to: https://www.etalab.gouv.fr/programme-entrepreneurs-dinteret-general-decouvrez-les-17-defis-de-la-quatrieme-promotion
 ---
