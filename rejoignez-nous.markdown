@@ -28,10 +28,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
-* [**Développeur/Développeuse**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fbfc66b4-307c-432e-b3f8-f6e3ee0bd2b5&offerid=375130 "Développeur/Développeuse - Télécharger le pdf") (pdf - 762,12&nbsp;ko)
-<br>Cadre/Catégorie A
-
-* [**Chargé/Chargée de mission Coordination et accompagnement**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=37938866-96d3-44ce-b85c-5f9f77f45e17&offerid=375131 "Chargé/Chargée de mission Coordination et accompagnement - Télécharger le pdf") (pdf - 779,89&nbsp;ko)
+* [**Chargé/Chargée de mission Coordination et accompagnement pour le programme Entrepreneurs d’Intérêt Général**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=37938866-96d3-44ce-b85c-5f9f77f45e17&offerid=375131 "Chargé/Chargée de mission Coordination et accompagnement pour le programme Entrepreneurs d’Intérêt Général - Télécharger le pdf") (pdf - 779,89&nbsp;ko)
 <br>Cadre/Catégorie A
 
 * [**Chargé/Chargée de mission Green Tech**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d76294f5-df23-4c7e-bc3c-486a09b35aa8&offerid=374102 "Chargé/Chargée de mission Green Tech - Télécharger le pdf") (pdf - 774,27&nbsp;ko)
@@ -41,6 +38,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Développeur/Développeuse**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fbfc66b4-307c-432e-b3f8-f6e3ee0bd2b5&offerid=375130 "Développeur/Développeuse - Télécharger le pdf") (pdf - 762,12&nbsp;ko)
+<br>Cadre/Catégorie A
+
 * [**Responsable partenariat et distribution AgentConnect – FranceConnect H/F**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=4eead9d5-b760-4eb0-b695-1fc8bbc361ee&offerid=374096 "Responsable partenariat et distribution AgentConnect – FranceConnect H/F - Télécharger le pdf") (pdf - 755,40&nbsp;ko)
 <br>Cadre/Catégorie A
 
