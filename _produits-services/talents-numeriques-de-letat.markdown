@@ -23,7 +23,7 @@ layout: rgaa
 > 
 > Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? 
 > 
-><a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
+><a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button"><p class="normal">Proposer une mission<p></a>
 {: .exergue}
 Comment ça marche ?
 
@@ -33,6 +33,6 @@ Comment ça marche ?
 > Fonctionnaire ou contractuel, expert/experte du numérique, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Apportez ponctuellement vos compétences en vous portant volontaire pour l'une des missions proposées actuellement.
 > Si aucune ne vous intéresse, rejoignez simplement le vivier.
 > 
-> ### > Proposer mon expertise
-{: .exergue}
+> <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button"><font-style: normal;>Proposer mon expertise</h3></a> 
+{: .font-style: normal .exergue}
 > Comment ça marche ?
