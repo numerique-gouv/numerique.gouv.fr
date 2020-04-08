@@ -52,6 +52,7 @@ text-decoration: underline;
 
 <br>
 <br>
+consacrer une petite partie de leur temps de travail à un autre projet ou service de l’Etat tout en restant rattaché et rémunéré par leur structure d’emploi. Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient. 
 
 ## Comment ça marche pour les agents ?<a id="comment-ca-marche-agents"></a> 
 ### Pour qui ?
