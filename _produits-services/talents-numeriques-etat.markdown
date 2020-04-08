@@ -77,3 +77,6 @@ Fonctionnaires ou contractuels, tous les agents de l’État ayant des compéten
 3. Si vous confirmez votre souhait de travailler ensemble, un accord tripartite entre vous, votre responsable hiérarchique et le responsable de la mission sera signé pour entériner les attendus et les conditions de la mission. 
 
 4. Puis, un ordre de mission sera établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission (cette modalité pourra être adaptée dans le cadre de la gestion de crise Covid-19)
+
+
+## Comment ça marche pour les administrations ?<a id="comment-ca-marche-admin"></a>
