@@ -47,7 +47,7 @@ cursor: pointer;
 Fonctionnaires ou contractuels, tous les agents de l’État ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leur expertise.
 
 ### Comment contribuer ?
-2 façons de contribuer :
+2 façons de participer au dispositif :
 1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? 
 <p style="padding-left: 18px">[**> Proposez votre expertise**](https://sgmap.sphinxdeclic.com/d/s/ou9lrs) pour y participer
 
