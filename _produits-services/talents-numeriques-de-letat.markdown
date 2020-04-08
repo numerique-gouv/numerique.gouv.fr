@@ -21,7 +21,7 @@ layout: rgaa
 
 > <figure class='image-left' style='width: 4%;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis une administration
 > 
-> Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? 
+> <p class="normal">Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ?<p> 
 > 
 ><a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button"><p class="normal">Proposer une mission<p></a>
 {: .exergue}
