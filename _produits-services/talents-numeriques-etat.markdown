@@ -42,12 +42,11 @@ cursor: pointer;
 {: .exergue}
 
 
-## Pour qui ?
+## Comment ça marche pour les agents ?
+### Pour qui ?
 Fonctionnaires ou contractuels, tous les agents de l’État ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leur expertise.
 
-se recenser pour permettre à d’autres administrations de bénéficier ponctuellement de leurs services.
-
-## Comment contribuer ?
+### Comment contribuer ?
 2 façons de contribuer :
 1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? 
 <p style="padding-left: 18px">[**> Proposez votre expertise**](https://sgmap.sphinxdeclic.com/d/s/ou9lrs) pour y participer
@@ -55,7 +54,7 @@ se recenser pour permettre à d’autres administrations de bénéficier ponctue
 * Vous souhaitez simplement en savoir plus sur le dispositif ou sur une mission avant de vous décider ? 
 <p style="padding-left: 18px">[**> Contactez-nous**](mailto:talents.numeriques@modernisation.gouv.fr) 
 
-## Que se passe-t-il après mon inscription ? 
+### Que se passe-t-il après mon inscription ? 
 1. Si vous avez répondu à une mission en particulier, le responsable de mission s’engage à vous répondre sous 2 semaines.
 <p style="padding-left: 18px">Si vous avez signalé votre souhait de participer au dispositif sans cibler une mission en particulier, nous communiquerons votre profil à la communauté des responsables de missions en attendant que l’un d’entre eux identifie une opportunité pour vous.</p>
 2. Le responsable de mission vous proposera un échange si votre offre de compétences l’intéresse.
