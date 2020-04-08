@@ -28,7 +28,7 @@ cursor: pointer;
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mon expertise</a>
 > <br>
 > Comment ça marche ?
-> {: .exergue}
+{: .exergue}
 
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis une administration
