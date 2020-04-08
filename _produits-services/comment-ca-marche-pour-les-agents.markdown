@@ -13,9 +13,10 @@ se recenser pour permettre à d’autres administrations de bénéficier ponctue
 2 façons de contribuer :
 **1.** Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? 
 [**> Proposez votre expertise**](https://sgmap.sphinxdeclic.com/d/s/ou9lrs) pour y participer
+<br>
 
 **2.** Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions.
-[> Rejoignez le vivier](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)
+<br>[> Rejoignez le vivier](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)
 
 
 Une mission vous intéresse ? Inscrivez-vous  (https://sgmap.sphinxdeclic.com/d/s/ou9lrs)
