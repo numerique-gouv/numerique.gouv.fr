@@ -60,13 +60,15 @@ Fonctionnaires ou contractuels, tous les agents de l’État ayant des compéten
 ### Comment contribuer ?
 2 façons de participer au dispositif :
 1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? 
-<p style="padding-left: 18px"><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>Proposez votre expertise</b></a> pour y participer
+<p style="padding-left: 18px"><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>Proposez votre expertise</b></a></p>
+<br>
 
 2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions.
-<a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
+<br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
+<br>
 
-* Vous souhaitez simplement en savoir plus sur le dispositif ou sur une mission avant de vous décider ? 
-<p style="padding-left: 18px">[**> Contactez-nous**](mailto:talents.numeriques@modernisation.gouv.fr)</p> 
+Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ? 
+[**> Contactez-nous**](mailto:talents.numeriques@modernisation.gouv.fr)
 
 ### Que se passe-t-il après mon inscription ? 
 1. Si vous avez répondu à une mission en particulier, le responsable de mission s’engage à vous répondre sous 2 semaines.
