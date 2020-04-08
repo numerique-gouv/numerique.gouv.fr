@@ -47,7 +47,7 @@ text-decoration: underline;
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
 > 
-> <p style="padding-left: 15px;"><a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a></p>
+> <p style="padding-left: 15px;"><a class="lien-encadre" href="#comment-ca-marche-admin"><i>Comment ça marche ?</i></a></p>
 {: .exergue}
 
 <br>
