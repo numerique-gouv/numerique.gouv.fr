@@ -18,6 +18,15 @@ font-size: 20px;
 margin: 4px 2px;
 cursor: pointer;
 }
+
+a.lien-encadre {
+color: #0A4D7F;
+text-decoration: none;
+}
+a.lien-encadre:hover {
+color: #0A4D7F;
+text-decoration: underline;
+}
 </style>
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis agent de l’État volontaire
@@ -27,7 +36,7 @@ cursor: pointer;
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mon expertise</a>
 > <br>
-> [*Comment ça marche ?*](#comment-ca-marche-agents)
+> <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
 {: .exergue}
 
 
