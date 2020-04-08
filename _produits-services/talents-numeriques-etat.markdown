@@ -63,7 +63,7 @@ Fonctionnaires ou contractuels, tous les agents de l’État ayant des compéten
 <p style="padding-left: 18px"><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>Proposez votre expertise</b></a></p>
 <br>
 
-2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions.
+2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions. Votre profil sera partagé à la communauté des responsables de missions.
 <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
 <br>
 
@@ -71,14 +71,16 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 [**> Contactez-nous**](mailto:talents.numeriques@modernisation.gouv.fr)
 
 ### Que se passe-t-il après mon inscription ? 
-1. Si vous avez répondu à une mission en particulier, le responsable de mission s’engage à vous répondre sous 2 semaines.
-<p style="padding-left: 18px">Si vous avez signalé votre souhait de participer au dispositif sans cibler une mission en particulier, nous communiquerons votre profil à la communauté des responsables de missions en attendant que l’un d’entre eux identifie une opportunité pour vous.</p>
+1. Si vous avez répondu à une mission en particulier, le responsable de mission vous répondra sous 2 semaines.
+<p style="padding-left: 18px">Si vous avez rejoint le vivier sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</p>
 
-2. Le responsable de mission vous proposera un échange si votre offre de compétences l’intéresse.
+2. Le responsable de mission vous propose un échange si vos compétences l’intéressent.
 
-3. Si vous confirmez votre souhait de travailler ensemble, un accord tripartite entre vous, votre responsable hiérarchique et le responsable de la mission sera signé pour entériner les attendus et les conditions de la mission. 
+3. Vous êtes tous les deux partants pour travailler ensemble ? Un accord tripartite entre vous, votre responsable hiérarchique et le responsable de la mission est signé pour entériner les attendus et les conditions de la mission. 
 
-4. Puis, un ordre de mission sera établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission (cette modalité pourra être adaptée dans le cadre de la gestion de crise Covid-19)
+4. Enfin, un ordre de mission est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission (cette modalité pourra être adaptée dans le cadre de la gestion de crise Covid-19)
+
+5. C'est parti ! Vous commencez la mission selon les modalités prévues.
 
 
 ## Comment ça marche pour les administrations ?<a id="comment-ca-marche-admin"></a>
