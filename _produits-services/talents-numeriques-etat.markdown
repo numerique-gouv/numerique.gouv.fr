@@ -27,7 +27,7 @@ cursor: pointer;
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mon expertise</a>
 > <br>
-> Comment ça marche ?
+> [*Comment ça marche ?*](#comment-ca-marche-agents)
 {: .exergue}
 
 
@@ -41,8 +41,10 @@ cursor: pointer;
 > <p style="padding-left: 15px;">Comment ça marche ?
 {: .exergue}
 
+<br>
+<br>
 
-## Comment ça marche pour les agents ?
+## Comment ça marche pour les agents ?<a id="comment-ca-marche-agents"></a> 
 ### Pour qui ?
 Fonctionnaires ou contractuels, tous les agents de l’État ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leur expertise.
 
