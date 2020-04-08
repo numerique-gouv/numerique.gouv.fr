@@ -20,6 +20,7 @@ layout: rgaa
       </style>
 
 > <figure class='image-left' style='width: 4%;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis une administration
+> {: .margin-bottom-1}
 > 
 > <p class="normal">Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ?<p> 
 > 
