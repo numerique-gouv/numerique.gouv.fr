@@ -49,16 +49,11 @@ se recenser pour permettre à d’autres administrations de bénéficier ponctue
 
 ## Comment contribuer ?
 2 façons de contribuer :
-1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? [Proposez votre expertise](https://sgmap.sphinxdeclic.com/d/s/ou9lrs) pour y participer
+1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? 
+<p style="padding-left: 18px">[**> Proposez votre expertise**](https://sgmap.sphinxdeclic.com/d/s/ou9lrs) pour y participer
 
-2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions.
-[Recensez-vous](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)
-
-
-Une mission vous intéresse ? Inscrivez-vous  (https://sgmap.sphinxdeclic.com/d/s/ou9lrs)
-
-* Les missions proposées à ce jour ne vous correspondent pas mais vous êtes intéressé par le dispositif ? Vous souhaitez rejoindre le vivier de talents et être informé des actualités sur ce dispositif ? Vous pouvez tout de même vous inscrire dans l’attente d’une opportunité
-* Vous souhaitez en savoir plus sur le dispositif ou sur une mission avant de vous décider ? Contactez-nous  
+* Vous souhaitez simplement en savoir plus sur le dispositif ou sur une mission avant de vous décider ? 
+<p style="padding-left: 18px">[**> Contactez-nous**]
 
 ## Que se passe-t-il après mon inscription ? 
 1. Si vous avez répondu à une mission en particulier, le responsable de mission s’engage à vous répondre sous 2 semaines.
