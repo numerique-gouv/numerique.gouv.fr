@@ -51,6 +51,9 @@ Fonctionnaires ou contractuels, tous les agents de l’État ayant des compéten
 1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? 
 <p style="padding-left: 18px">[**> Proposez votre expertise**](https://sgmap.sphinxdeclic.com/d/s/ou9lrs) pour y participer
 
+2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions.
+[Rejoignez le vivier](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)
+
 * Vous souhaitez simplement en savoir plus sur le dispositif ou sur une mission avant de vous décider ? 
 <p style="padding-left: 18px">[**> Contactez-nous**](mailto:talents.numeriques@modernisation.gouv.fr) 
 
