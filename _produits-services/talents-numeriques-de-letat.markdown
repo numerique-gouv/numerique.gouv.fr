@@ -1,16 +1,29 @@
 ---
 title: Talents numériques de l’État
 date: 2020-04-08 12:16:00 +02:00
-published: false
 layout: rgaa
 ---
 
+<style>
+         .button {
+         background-color: none;
+         border: 1px solid white;
+         color: white;
+         padding: 10px 10px;
+         text-align: center;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 20px;
+         margin: 4px 2px;
+         cursor: pointer;
+         }
+      </style>
 
 > <figure class='image-left' style='width: 10%;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis une administration
 > 
 > Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? 
 > 
-> ### **> Proposer une mission**
+><a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
 {: .exergue}
 Comment ça marche ?
 
