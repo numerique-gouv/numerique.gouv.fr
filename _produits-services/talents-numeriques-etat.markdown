@@ -62,7 +62,7 @@ Une mission vous intéresse ? Inscrivez-vous  (https://sgmap.sphinxdeclic.com/d/
 
 ## Que se passe-t-il après mon inscription ? 
 1. Si vous avez répondu à une mission en particulier, le responsable de mission s’engage à vous répondre sous 2 semaines. 
-Si vous avez signalé votre souhait de participer au dispositif sans cibler une mission en particulier, nous communiquerons votre profil à la communauté des responsables de missions en attendant que l’un d’entre eux identifie une opportunité pour vous.
+<p style="padding-left: 17.55px">Si vous avez signalé votre souhait de participer au dispositif sans cibler une mission en particulier, nous communiquerons votre profil à la communauté des responsables de missions en attendant que l’un d’entre eux identifie une opportunité pour vous.</p>
 2. Le responsable de mission vous proposera un échange si votre offre de compétences l’intéresse.
 3. Si vous confirmez votre souhait de travailler ensemble, un accord tripartite entre vous, votre responsable hiérarchique et le responsable de la mission sera signé pour entériner les attendus et les conditions de la mission. 
 4. Puis, un ordre de mission sera établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission (cette modalité pourra être adaptée dans le cadre de la gestion de crise Covid-19)
