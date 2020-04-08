@@ -62,6 +62,7 @@ text-decoration: underline;
 consacrer une petite partie de leur temps de travail à un autre projet ou service de l’État tout en restant rattaché et rémunéré par leur structure d’emploi. Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient. 
 
 ## Comment ça marche pour les agents ?<a id="comment-ca-marche-agents"></a> 
+### Qu'est-ce que c'est ?
 Proposé et piloté par la DINUM, le dispositif Talents numériques de l'Etat met en relation administrations ayant un besoin ponctuel d'expertises numériques et un agent aux compétences demandées volontaire pour lui prêter main forte.
 
 L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par leur structure d’emploi. 
