@@ -1,6 +1,7 @@
 ---
 title: Talents numériques de l’État
 date: 2020-04-08 12:16:00 +02:00
+layout: rgaa
 ---
 
 
