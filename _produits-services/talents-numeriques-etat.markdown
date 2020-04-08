@@ -60,8 +60,7 @@ Fonctionnaires ou contractuels, tous les agents de l’État ayant des compéten
 ### Comment contribuer ?
 2 façons de participer au dispositif :
 1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? 
-<p style="padding-left: 18px"><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>Proposez votre expertise</b></a></p>
-<br>
+<br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Proposez votre expertise</b></a>
 
 2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions. Votre profil sera partagé à la communauté des responsables de missions.
 <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
