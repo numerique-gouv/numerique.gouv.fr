@@ -39,7 +39,7 @@ layout: rgaa
 > 
 ><a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button-talents">Proposer une mission</a>
 > <br> 
-> Comment ça marche ?
+> <p style="padding-left: 15px;">fComment ça marche ?
 {: .exergue}
 
 
