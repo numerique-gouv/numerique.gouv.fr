@@ -53,7 +53,7 @@ se recenser pour permettre à d’autres administrations de bénéficier ponctue
 <p style="padding-left: 18px">[**> Proposez votre expertise**](https://sgmap.sphinxdeclic.com/d/s/ou9lrs) pour y participer
 
 * Vous souhaitez simplement en savoir plus sur le dispositif ou sur une mission avant de vous décider ? 
-<p style="padding-left: 18px">[**> Contactez-nous**]
+<p style="padding-left: 18px">[**> Contactez-nous**](mailto:talents.numeriques@modernisation.gouv.fr) 
 
 ## Que se passe-t-il après mon inscription ? 
 1. Si vous avez répondu à une mission en particulier, le responsable de mission s’engage à vous répondre sous 2 semaines.
