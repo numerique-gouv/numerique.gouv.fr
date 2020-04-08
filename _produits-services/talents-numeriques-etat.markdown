@@ -72,7 +72,7 @@ Fonctionnaires ou contractuels, tous les agents de l’État ayant des compéten
 <br>
 
 Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ? 
-[**> Contactez-nous**](mailto:talents.numeriques@modernisation.gouv.fr)
+[**Contactez-nous**](mailto:talents.numeriques@modernisation.gouv.fr)
 
 ### Que se passe-t-il après mon inscription ? 
 1. Si vous avez répondu à une mission, le responsable de mission vous répondra sous 2 semaines.
