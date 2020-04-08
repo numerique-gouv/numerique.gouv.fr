@@ -5,8 +5,8 @@ layout: rgaa
 ---
 
 <style>
-         .button {
-         background-color: none;
+         .button-talents {
+         background-color: #0d5c98;
          border: 1px solid white;
          color: white;
          padding: 10px 10px;
@@ -25,7 +25,7 @@ layout: rgaa
 > 
 > <p class="normal">Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ?<p> 
 > 
-><a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
+><a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button-talents">Proposer une mission</a>
 {: .exergue}
 Comment ça marche ?
 
