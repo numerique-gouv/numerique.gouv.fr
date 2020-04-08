@@ -32,8 +32,8 @@ Comment ça marche ?
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis agent de l’État volontaire
 > 
-> <p class="normal">Fonctionnaire ou contractuel, expert/experte du numérique, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Apportez ponctuellement vos compétences en vous portant volontaire pour l'une des missions proposées actuellement.
-> Si aucune ne vous intéresse, rejoignez simplement le vivier.</p>
+> <p class="normal">Fonctionnaire ou contractuel, expert/experte du numérique, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Apportez ponctuellement vos compétences en vous portant volontaire pour l'une des missions proposées actuellement. Découvrez les missions.
+> <br>Si aucune ne vous intéresse, rejoignez simplement le vivier.</p>
 > 
 > <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer mon expertise</a>
 > <br> 
