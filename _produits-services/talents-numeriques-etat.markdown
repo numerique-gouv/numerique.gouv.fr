@@ -56,7 +56,9 @@ text-decoration: underline;
 
 <br>
 <br>
-consacrer une petite partie de leur temps de travail à un autre projet ou service de l’Etat tout en restant rattaché et rémunéré par leur structure d’emploi. Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient. 
+## Talents numériques de l’État, qu'est-ce que c'est ?
+
+consacrer une petite partie de leur temps de travail à un autre projet ou service de l’État tout en restant rattaché et rémunéré par leur structure d’emploi. Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient. 
 
 ## Comment ça marche pour les agents ?<a id="comment-ca-marche-agents"></a> 
 ### Pour qui ?
@@ -66,6 +68,7 @@ Fonctionnaires ou contractuels, tous les agents de l’État ayant des compéten
 2 façons de participer au dispositif :
 1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? 
 <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Proposez votre expertise</b></a>
+Vous aurez alors la possibilité de contribuer 
 
 2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions. Votre profil sera partagé à la communauté des responsables de missions qui pourront vous contacter si l'une d'elles vous correspond dans le futur.
 <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
