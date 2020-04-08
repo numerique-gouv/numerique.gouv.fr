@@ -50,8 +50,8 @@ text-decoration: underline;
 > Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ?
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
-> 
-> <p style="padding-left: 15px;"><a class="lien-encadre" href="#comment-ca-marche-admin"><i>Comment ça marche ?</i></a></p>
+> <br>
+> <a class="lien-encadre" href="#comment-ca-marche-admin"><i>Comment ça marche ?</i></a>
 {: .exergue}
 
 <br>
