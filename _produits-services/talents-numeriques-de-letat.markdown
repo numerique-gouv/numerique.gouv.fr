@@ -9,14 +9,16 @@ layout: rgaa
 > 
 > Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? 
 > 
-> Proposer une mission
+> ### > Proposer une mission
 {: .exergue}
 > Comment ça marche ?
 
+
 > ## > Je suis agent de l’État volontaire
 > 
-> Fonctionnaire ou contractuel, vous souhaitez prêter main forte à une administration ? 
+> Fonctionnaire ou contractuel, expert/experte du numérique, vous souhaitez prêter main forte à une administration autre que la vôtre ? Apportez ponctuellement vos compétences en répondant à l'une des missions proposées par les administrations.
+Si aucune des missions proposées actuellement ne vous intéresse, rejoignez simplement le vivier.
 > 
-> Proposer une mission
+> ### > Proposer mon aide
 {: .exergue}
 > Comment ça marche ?
