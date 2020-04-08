@@ -34,6 +34,7 @@ Comment ça marche ?
 > Fonctionnaire ou contractuel, expert/experte du numérique, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Apportez ponctuellement vos compétences en vous portant volontaire pour l'une des missions proposées actuellement.
 > Si aucune ne vous intéresse, rejoignez simplement le vivier.
 > 
-> <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button"><font-style: normal;>Proposer mon expertise</h3></a> 
-{: .font-style: normal .exergue}
+> <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button"><font-style: normal;>Proposer mon expertise</h3></a>
+> <br> 
 > Comment ça marche ?
+{: .font-style: normal .exergue}
