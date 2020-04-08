@@ -56,6 +56,7 @@ text-decoration: underline;
 
 <br>
 <br>
+
 ## Talents numériques de l’État, qu'est-ce que c'est ?
 
 consacrer une petite partie de leur temps de travail à un autre projet ou service de l’État tout en restant rattaché et rémunéré par leur structure d’emploi. Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient. 
