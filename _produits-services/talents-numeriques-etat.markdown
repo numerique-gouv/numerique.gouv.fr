@@ -62,6 +62,14 @@ text-decoration: underline;
 consacrer une petite partie de leur temps de travail à un autre projet ou service de l’État tout en restant rattaché et rémunéré par leur structure d’emploi. Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient. 
 
 ## Comment ça marche pour les agents ?<a id="comment-ca-marche-agents"></a> 
+consacrer une petite partie de leur temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par leur structure d’emploi. 
+
+**Pour l'administration, **c'est un moyen simple de bénéficier d'une compétence particulière dont elle ne dispose pas nécessairement au sein de son équipe.
+
+**Pour l'agent,** c'est un moyen de varier les plaisirs ! Et de contribuer à de nouveaux projets, de toucher à de nouvelles thématiques, de sortir un peu de son quotidien, de se sentir utile, mais aussi de développer son réseau et de nouvelles coopérations.
+
+Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient.
+
 ### Pour qui ?
 Fonctionnaires ou contractuels, tous les agents de l’État ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leur expertise.
 
@@ -80,7 +88,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 ### Que se passe-t-il après mon inscription ? 
 1. **Si vous avez répondu à une mission,** le responsable de mission vous répondra sous 2 semaines.
-<p style="padding-left: 18px">**Si vous avez rejoint le vivier** sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</p>
+<p style="padding-left: 18px"><b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</p>
 
 2. **Le responsable de mission vous propose un échange** si vos compétences l’intéressent.
 
