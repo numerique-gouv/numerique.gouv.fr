@@ -28,6 +28,12 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Transformation numérique**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Développeur/Développeuse**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fbfc66b4-307c-432e-b3f8-f6e3ee0bd2b5&offerid=375130 "Développeur/Développeuse - Télécharger le pdf") (pdf - 762,12&nbsp;ko)
+<br>Cadre/Catégorie A
+
+* [**Chargé/Chargée de mission Coordination et accompagnement**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=37938866-96d3-44ce-b85c-5f9f77f45e17&offerid=375131 "Chargé/Chargée de mission Coordination et accompagnement - Télécharger le pdf") (pdf - 779,89&nbsp;ko)
+<br>Cadre/Catégorie A
+
 * [**Chargé/Chargée de mission Green Tech**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d76294f5-df23-4c7e-bc3c-486a09b35aa8&offerid=374102 "Chargé/Chargée de mission Green Tech - Télécharger le pdf") (pdf - 774,27&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>
@@ -61,6 +67,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
+* [**Architecte de système d'information polyvalent (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=59fa2276-93cf-4987-b5aa-a5463a7f56d5&offerid=375127 "Architecte de système d'information polyvalent (F/H) - Télécharger le pdf") (pdf - 773,19&nbsp;ko)
+<br>Cadre/Catégorie A
+
 * [**Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6d0887a2-da90-4966-b027-b84f91bd4a66&offerid=374085 "Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services - Télécharger le pdf") (pdf - 773,75&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>Poste pouvant être basé à Paris ou à Rennes selon les souhaits du candidat.
@@ -72,9 +81,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 
 * [**Architecte « services d'accès à internet » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=4bc69156-4b3c-4c8f-b689-826ec3bee61a&offerid=366760 "Architecte « services d'accès à internet » (F/H) - Télécharger le pdf") (pdf - 640&nbsp;ko)
-<br>Cadre/Catégorie A
-
-* [**Chargé/Chargée de mission « production » du Réseau Interministériel de l’État**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=91edec12-625d-4708-bcd0-6be1e4f255ea&offerid=288819 "Chargé/Chargée de mission « production » du Réseau Interministériel de l’État - Télécharger le pdf") (pdf - 367&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>
 <br>
