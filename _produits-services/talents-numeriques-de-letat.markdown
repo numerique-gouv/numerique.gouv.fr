@@ -20,15 +20,6 @@ layout: rgaa
          }
       </style>
 
-> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis une administration
-> {: .margin-bottom-1}
-> 
-> <p class="normal">Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ?<p> 
-> 
-><a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button-talents">Proposer une mission</a>
-{: .exergue}
-Comment ça marche ?
-
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis agent de l’État volontaire
 > 
@@ -39,3 +30,16 @@ Comment ça marche ?
 > <br> 
 > Comment ça marche ?
 {: .font-style: normal .exergue}
+
+
+> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis une administration
+> {: .margin-bottom-1}
+> 
+> <p class="normal">Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ?<p> 
+> 
+><a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button-talents">Proposer une mission</a>
+> <br> 
+> Comment ça marche ?
+{: .exergue}
+
+
