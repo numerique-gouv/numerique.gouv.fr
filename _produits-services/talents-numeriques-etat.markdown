@@ -70,7 +70,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 [**> Contactez-nous**](mailto:talents.numeriques@modernisation.gouv.fr)
 
 ### Que se passe-t-il après mon inscription ? 
-1. Si vous avez répondu à une mission en particulier, le responsable de mission vous répondra sous 2 semaines.
+1. Si vous avez répondu à une mission, le responsable de mission vous répondra sous 2 semaines.
 <p style="padding-left: 18px">Si vous avez rejoint le vivier sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</p>
 
 2. Le responsable de mission vous propose un échange si vos compétences l’intéressent.
