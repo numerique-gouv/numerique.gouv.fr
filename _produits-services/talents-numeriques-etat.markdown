@@ -31,7 +31,7 @@ text-decoration: underline;
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis agent de l’État volontaire
 >
-> Fonctionnaire ou contractuel, expert/experte du numérique, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Apportez ponctuellement vos compétences en vous portant volontaire pour l'une des missions proposées actuellement. Découvrez les missions.
+> Expert/experte du numérique au sein de l’État, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Apportez ponctuellement vos compétences en vous portant volontaire pour l'une des missions proposées actuellement. <a class="lien-encadre" href="#comment-ca-marche-agents">Découvrez les missions</a>.
 > <br>Si aucune ne vous intéresse, rejoignez simplement le vivier.
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mon expertise</a>
@@ -46,8 +46,8 @@ text-decoration: underline;
 > Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ?
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
-> <br>
-> <p style="padding-left: 15px;">Comment ça marche ?
+> 
+> <p style="padding-left: 15px;"><a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a></p>
 {: .exergue}
 
 <br>
