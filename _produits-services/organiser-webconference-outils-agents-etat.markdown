@@ -1,6 +1,6 @@
 ---
-title: 'Organiser une webconférence : quels outils pour les agents de l’État pendant
-  la crise Covid-19 ?'
+title: 'Webconférence : quels outils pour les agents de l’État pendant la crise Covid-19
+  ?'
 date: 2020-04-09 11:10:00 +02:00
 tags:
 - Outils pour les agents
