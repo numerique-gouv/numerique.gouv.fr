@@ -61,13 +61,13 @@ text-decoration: underline;
 
 ## Comment ça marche pour les agents ?<a id="comment-ca-marche-agents"></a> 
 ### Qu'est-ce que c'est ?
-Proposé et piloté par la DINUM, le dispositif Talents numériques de l'Etat met en relation administrations ayant un besoin ponctuel d'expertises numériques et un agent aux compétences demandées volontaire pour lui prêter main forte.
+Proposé et piloté par la DINUM, le dispositif Talents numériques de l’État permet à un agent de l’État spécialiste de la tech de contribuer à des missions ponctuelles proposées par d’autres administrations que la sienne.
 
 L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par leur structure d’emploi. 
 
-**Pour l'administration,** c'est un moyen simple de bénéficier d'une compétence particulière dont elle ne dispose pas nécessairement au sein de son équipe.
-
 **Pour l'agent,** c'est un moyen de varier les plaisirs ! Et de contribuer à de nouveaux projets, de toucher à de nouvelles thématiques, de sortir un peu de son quotidien, de se sentir utile, mais aussi de développer son réseau et de nouvelles coopérations.
+
+**Pour l'administration,** c'est un moyen simple de bénéficier d'une compétence particulière dont elle ne dispose pas nécessairement au sein de son équipe.
 
 Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient.
 
