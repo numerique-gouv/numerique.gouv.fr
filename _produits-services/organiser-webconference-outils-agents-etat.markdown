@@ -43,8 +43,11 @@ Par ailleurs, **la DINUM conseille de ne pas utiliser l’application Zoom ou d�
 <br>
 
 ATTENTION : Ces propositions sont valables pendant la crise liée au Covid-19. L’outil des agents de l’État par défaut est la [webconférence de l’État](https://webconference.numerique.gouv.fr), seul outil garantissant une sécurisation et confidentialité optimales des échanges.
+[**> En savoir plus sur la webconférence de l’État**](/produits-services/webconference-etat/)
 <br>
 <br>
+
+
 
 **Découvrir aussi :**
 * [Osmose, la plateforme des communautés professionnelles de l’État](/produits-services/osmose/)
