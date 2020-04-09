@@ -17,7 +17,7 @@ layout: rgaa
 
 ## Pourquoi la webconférence ?
 {: .margin-bottom-1}
-Afin de faciliter la **collaboration en travail à distance**, les solutions de webconférence peuvent être une alternative aux audioconférences (ponts téléphoniques) en cas de nécessité de voir les interlocuteurs ou de partager des documents en direct.
+Afin de faciliter la **collaboration en travail à distance**, les solutions de webconférence peuvent être une alternative aux audioconférences (ponts téléphoniques) en cas de nécessité de **voir les interlocuteurs** ou de **partager des documents en direct**.
 
 ## Comment choisir une solution de webconférence ?
 {: .margin-top-2 .margin-bottom-1}
