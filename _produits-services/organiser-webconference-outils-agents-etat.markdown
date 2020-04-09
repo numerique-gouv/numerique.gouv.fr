@@ -6,6 +6,10 @@ tags:
 - Outils pour les agents
 - webconférence
 - visioconférence
+chapeau-text: Dans cette période de crise et de télétravail massif, la DINUM a recensé
+  des outils de webconférence recommandés pour les agents de l’État, en complément
+  de la webconférence de l’État. Un tableau vous aidera à choisir la solution qui
+  répond le mieux à vos besoins.
 layout: rgaa
 ---
 
@@ -25,7 +29,7 @@ La liste des solutions et leur évaluation peuvent évoluer : n’hésitez pas �
 
 **Par ailleurs, la DINUM conseille de ne pas utiliser l’application Zoom ou d’autres solutions qui ne présentent pas de garanties de sécurité et de confidentialité suffisantes pour les usages professionnels.**
 
-<a href="XXXXXXXXXXXXX"><img src="/uploads/capture-webconf-500.png" width="200" alt="Consulter le tableau comparatif des solutions (pdf, Mo)"/>
+<a href=""><img src="/uploads/capture-tableau-webconf.png" width="400" alt="Consulter le tableau comparatif des solutions (pdf, Mo)"/>
 </a>
 {: .text-center}
 > [Consulter le tableau comparatif des solutions (pdf, Mo)](XXXXXXXXXXXXXXX)
