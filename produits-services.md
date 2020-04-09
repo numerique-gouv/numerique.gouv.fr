@@ -30,6 +30,11 @@ publications:
   url: "/produits-services/plano/"
   une-ou-diaporama:
   - image: "/uploads/20200331_produit_service_PLANO.png"
+- title: 'Webconférence : quels outils pour les agents de l’État pendant la crise
+    Covid-19 ?'
+  url: "/produits-services/organiser-webconference-outils-agents-etat/"
+  une-ou-diaporama:
+  - image: "/uploads/outils_webconference-rub.png"
 layout: publications
 ---
 
