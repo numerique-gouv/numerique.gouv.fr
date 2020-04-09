@@ -57,9 +57,7 @@ text-decoration: underline;
 <br>
 <br>
 
-## Qu'est-ce que c'est ?
 
-consacrer une petite partie de leur temps de travail à un autre projet ou service de l’État tout en restant rattaché et rémunéré par leur structure d’emploi. Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient. 
 
 ## Comment ça marche pour les agents ?<a id="comment-ca-marche-agents"></a> 
 ### Qu'est-ce que c'est ?
@@ -75,6 +73,17 @@ Une comptabilisation des journées consacrées à la mission permet la valorisat
 
 ### Pour qui ?
 Fonctionnaires ou contractuels, tous les agents de l’État ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leur expertise.
+
+### Quels types de missions ?
+Le partage de compétences peut concerner des expertises et **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique..) associé au numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startup ou encore de l’innovation technologique.
+
+La nature des missions proposées par les administrations est fonction de leurs besoins et peut concerner, par ex : 
+* une réalisation dans le cadre d’un projet : animation d’atelier d’idéation, développement, design, audit.., 
+* un retour d’expérience, un transfert de compétences,
+* une étude, une prestation de conseil.
+
+Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
+
 
 ### Comment contribuer ?
 2 façons de participer au dispositif :
