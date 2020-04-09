@@ -72,7 +72,7 @@ L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une 
 Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient.
 
 ### Pour qui ?
-Fonctionnaires ou contractuels, tous les agents de l’État ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leur expertise.
+**Fonctionnaires ou contractuels,** tous les **agents de l’État** ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leur expertise.
 
 ### Quels types de missions ?
 Le partage de compétences peut concerner des expertises et **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique..) associé au numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startup ou encore de l’innovation technologique.
