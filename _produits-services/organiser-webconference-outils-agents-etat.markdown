@@ -25,7 +25,7 @@ Du fait de la crise Covid-19 et du nombre important d’agents travaillant à di
 
 Des solutions complémentaires avec un **hébergement en France ou à l’intérieur de l’UE** et un niveau minimal de protection des données sont donc référencées par la DINUM.
 
-Le tableau ci-dessous vous aidera à choisir la solution qui convient le mieux à votre besoin. La direction du numérique de votre ministère peut également avoir des préconisations ou des conseils spécifiques.
+Le tableau ci-dessous, élaboré avec la DGAFP, vous aidera à choisir la solution qui convient le mieux à votre besoin. La direction du numérique de votre ministère peut également avoir des préconisations ou des conseils spécifiques.
 
 La liste des solutions et leur évaluation peuvent évoluer : n’hésitez pas à consulter régulièrement les mises à jour.
 
@@ -37,6 +37,7 @@ Par ailleurs, **la DINUM conseille de ne pas utiliser l’application Zoom ou d�
 > [Consulter le tableau comparatif des solutions (pdf, 37 ko)](/uploads/outils_webconference-agents-etat.pdf)
 {: .lien-important}
 
+*Un tableau élaboré avec la DGAFP*
 
 
 ATTENTION : Ces propositions sont valables pendant la crise liée au Covid-19. L’outil des agents de l’État par défaut est la [webconférence de l’État](https://webconference.numerique.gouv.fr), seul outil garantissant une sécurisation et confidentialité optimales des échanges.
