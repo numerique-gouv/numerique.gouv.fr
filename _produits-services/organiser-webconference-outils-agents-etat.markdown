@@ -34,11 +34,11 @@ Par ailleurs, **la DINUM conseille de ne pas utiliser l’application Zoom ou d�
 <a href="/uploads/outils_webconference-agents-etat.pdf"><img src="/uploads/capture-tableau-webconf.png" width="400" alt="Consulter le tableau comparatif des solutions (pdf, 37 ko)"/>
 </a>
 {: .text-center}
-> [Consulter le tableau comparatif des solutions (pdf, 37 ko)](/uploads/outils_webconference-agents-etat.pdf)
+> [Consulter le tableau des solutions de webconférence recommandées (pdf, 37 ko)](/uploads/outils_webconference-agents-etat.pdf)
 {: .lien-important}
 
 *Un tableau élaboré avec la DGAFP*
-
+<br>
 
 ATTENTION : Ces propositions sont valables pendant la crise liée au Covid-19. L’outil des agents de l’État par défaut est la [webconférence de l’État](https://webconference.numerique.gouv.fr), seul outil garantissant une sécurisation et confidentialité optimales des échanges.
 <br>
