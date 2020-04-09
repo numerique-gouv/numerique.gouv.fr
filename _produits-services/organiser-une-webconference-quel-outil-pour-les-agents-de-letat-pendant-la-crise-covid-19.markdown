@@ -1,5 +1,5 @@
 ---
-title: 'Organiser une webconférence : quel outil pour les agents de l’État pendant
+title: 'Organiser une webconférence : quels outils pour les agents de l’État pendant
   la crise Covid-19 ?'
 date: 2020-04-09 11:10:00 +02:00
 ---
@@ -10,7 +10,7 @@ Afin de faciliter la collaboration en travail à distance, les solutions de webc
 ## Comment choisir une solution de webconférence ?
 L’État met à la disposition de tous ses agents un service de webconférence interministériel accessible sur le site [webconference.numerique.gouv.fr](webconference.numerique.gouv.fr).  Elle permet de créer une webconférence depuis le réseau interministériel de l’État (RIE) et d’inviter des participants, connectés ou non au RIE.
 
-Du fait de la crise Covid-19, et du nombre important d’agents travaillant à distance, la sur-sollicitation de cette plateforme crée parfois des problèmes de qualité de son et/ou d’image pour certains utilisateurs particulièrement pour les conférences réunissant plus de 5 utilisateurs. Nous vous recommandons, chaque fois que la vidéo n’est pas nécessaire, d’effectuer votre weconférence en audio uniquement. Cela évitera également de saturer les réseaux. 
+Du fait de la crise Covid-19, et du nombre important d’agents travaillant à distance, la sur-sollicitation de cette plateforme crée parfois des problèmes de qualité de son et/ou d’image pour certains utilisateurs particulièrement pour les conférences réunissant plus de 5 utilisateurs. Nous vous recommandons, chaque fois que la vidéo n’est pas nécessaire, d’effectuer votre webconférence en audio uniquement. Cela évitera également de saturer les réseaux. 
 
 Des solutions complémentaires avec un hébergement en France ou à l’intérieur de l’UE et un niveau minimal de protection des données sont donc référencées par la DINUM.
 
