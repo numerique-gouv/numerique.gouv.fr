@@ -42,6 +42,9 @@ Par ailleurs, **la DINUM conseille de ne pas utiliser l’application Zoom ou d�
 *Un tableau élaboré avec la DGAFP*
 <br>
 
+> [Consulter aussi les conseils et bonnes pratiques de la DGAFP pour organiser et animer une visioconférence (pdf, 304 ko)](https://www.fonction-publique.gouv.fr/files/files/covid-19/visioconference-les-bons-usages-pour-bien-communiquer.pdf )
+{: .lien-important}
+
 ATTENTION : Ces propositions sont valables pendant la crise liée au Covid-19. L’outil des agents de l’État par défaut est la [webconférence de l’État](https://webconference.numerique.gouv.fr), seul outil garantissant une sécurisation et confidentialité optimales des échanges.
 [**> En savoir plus sur la webconférence de l’État**](/produits-services/webconference-etat/)
 <br>
