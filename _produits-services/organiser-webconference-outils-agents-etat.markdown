@@ -39,7 +39,7 @@ Par ailleurs, **la DINUM conseille de ne pas utiliser l’application Zoom ou d�
 > [Consulter le tableau des solutions de webconférence (pdf, 38 ko)](/uploads/outils_webconference-agent-etat.pdf)
 {: .lien-important}
 *Un tableau élaboré avec la DGAFP*
-<br>
+<br> 
 
 > [Consulter aussi les conseils et bonnes pratiques de la DGAFP pour organiser et animer une visioconférence (pdf, 304 ko)](https://www.fonction-publique.gouv.fr/files/files/covid-19/visioconference-les-bons-usages-pour-bien-communiquer.pdf )
 {: .lien-important}
