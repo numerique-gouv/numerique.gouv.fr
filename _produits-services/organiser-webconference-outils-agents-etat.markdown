@@ -29,7 +29,7 @@ En conséquence, des solutions complémentaires avec un **hébergement en France
 
 **Le tableau ci-dessous, élaboré avec la DGAFP, vous aidera à choisir la solution qui convient le mieux à votre besoin.** La direction du numérique de votre ministère peut également avoir des préconisations ou des conseils spécifiques.
 
-Cette liste des solutions et leur évaluation évoluent : n’hésitez pas à consulter régulièrement les mises à jour.
+**Cette liste des solutions et leur évaluation évoluent : n’hésitez pas à consulter régulièrement les mises à jour.**
 
 Par ailleurs, la DINUM conseille de ne pas utiliser l’application Zoom ou d’autres solutions qui ne présentent pas de garanties de sécurité et de confidentialité suffisantes pour les usages professionnels au sein des services de l’Etat.
 
