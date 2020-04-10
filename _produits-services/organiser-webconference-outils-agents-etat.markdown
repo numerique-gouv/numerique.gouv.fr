@@ -33,7 +33,7 @@ La liste des solutions et leur évaluation peuvent évoluer : n’hésitez pas �
 
 Par ailleurs, **la DINUM conseille de ne pas utiliser l’application Zoom ou d’autres solutions qui ne présentent pas de garanties de sécurité et de confidentialité suffisantes pour les usages professionnels.**
 
-<a href="/uploads/outils_webconference-agents-etat.pdf"><img src="/uploads/capture-tableau-webconf.png" width="400" alt="Consulter le tableau comparatif des solutions (pdf, 37 ko)"/>
+<a href="/uploads/outils_webconference-agent-etat.pdf"><img src="/uploads/Capture-outils_webconference-agent-etat.png" width="400" alt="Consulter le tableau comparatif des solutions (pdf, 38 ko)"/>
 </a>
 {: .text-center}
 > [Consulter le tableau des solutions de webconférence (pdf, 38 ko)](/uploads/outils_webconference-agent-etat.pdf)
