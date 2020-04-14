@@ -31,14 +31,14 @@ En conséquence, des solutions complémentaires avec un **hébergement en France
 
 **Cette liste des solutions et leur évaluation évoluent : n’hésitez pas à consulter régulièrement les mises à jour.**
 
-Par ailleurs, la DINUM conseille de ne pas utiliser l’application Zoom ou d’autres solutions qui ne présentent pas de garanties de sécurité et de confidentialité suffisantes pour les usages professionnels au sein des services de l’Etat.
+Par ailleurs, la DINUM conseille de ne pas utiliser l’application Zoom ou d’autres solutions qui ne présentent pas de garanties de sécurité et de confidentialité suffisantes pour les usages professionnels au sein des services de l’État.
 
-<a href="/uploads/outils_webconference-agent-etat.pdf"><img src="/uploads/Capture-outils_webconference-agent-etat.png" width="400" alt="Consulter le tableau comparatif des solutions (pdf, 38 ko)"/>
+<a href="/uploads/outils_webconference-agent-etat.pdf"><img src="/uploads/capture-tableau-webconf.png" width="400" alt="Consulter le tableau comparatif des solutions (pdf, 38 ko)"/>
 </a>
 {: .text-center}
-> [Consulter le tableau des solutions de webconférence (pdf, 38 ko)](/uploads/outils_webconference-agent-etat.pdf)
+> [Consulter le tableau des solutions de webconférence (pdf, 38 ko)](/uploads/outils_webconference-agents-etat.pdf)
 {: .lien-important}
- 
+
 **Qualité voix/audio/connexion :** En cours d'évaluation pour chacune des solutions. Transmettez vos retours via [ce questionnaire en ligne ](https://dinum.evalandgo.com/s/?id=JTk3biU5OWwlOUMlQUE=&a=JTk2byU5NmglOUUlQUI=)
 
 ATTENTION : Ces options sont valables pendant la crise liée au Covid-19. L’outil des agents de l’État par défaut est la [webconférence de l’État](https://webconference.numerique.gouv.fr), la possibilité d’utilisation ou non des autres outils après la crise n’est pas garantie et fera l’objet d’une réévaluation.
