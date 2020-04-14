@@ -46,8 +46,7 @@ ATTENTION : Ces options sont valables pendant la crise liée au Covid-19. L’ou
 <br>
 <br>
 
-> [Consulter aussi les conseils et bonnes pratiques de la DGAFP pour organiser et animer une visioconférence (pdf, 304 ko)](https://www.fonction-publique.gouv.fr/files/files/covid-19/visioconference-les-bons-usages-pour-bien-communiquer.pdf )
-{: .lien-important}
+[> Consulter les conseils et bonnes pratiques de la DGAFP pour organiser et animer une visioconférence (pdf, 304 ko)](https://www.fonction-publique.gouv.fr/files/files/covid-19/visioconference-les-bons-usages-pour-bien-communiquer.pdf )
 <br>
 <br>
 
