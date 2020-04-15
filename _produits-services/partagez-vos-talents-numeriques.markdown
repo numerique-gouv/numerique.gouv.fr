@@ -69,17 +69,17 @@ Tous les **agents de l’État**, **fonctionnaires ou contractuels,** ayant des 
 
 ### **Quel intérêt ?**
 Pour l'agent, c'est un moyen de varier les plaisirs ! 
-#### 5 BONNES RAISONS
-{: .text-center .margin-bottom-0 .margin-top-3}
-de partager vos talents numériques
-{: .text-center}
-
-* **Donner un coup de pouce** à un projet ou un domaine qui a du sens pour vous ou **qui vous tient à cœur** 
-* **Enrichir** votre parcours et votre réseau professionnel 
-* **Découvrir** un nouveau secteur d’activité ou un nouvel écosystème
-* **Se lancer** de nouveaux défis et sortir un peu de son quotidien
-* **Intégrer la communauté** des talents numériques de l’État et valoriser vos compétences
-
+> #### 5 BONNES RAISONS
+> {: .text-center .margin-bottom-0 .margin-top-3}
+> de partager vos talents numériques
+> {: .text-center}
+> 
+> * **Donner un coup de pouce** à un projet ou un domaine qui a du sens pour vous ou **qui vous tient à cœur** 
+> * **Enrichir** votre parcours et votre réseau professionnel 
+> * **Découvrir** un nouveau secteur d’activité ou un nouvel écosystème
+> * **Se lancer** de nouveaux défis et sortir un peu de son quotidien
+> * **Intégrer la communauté** des talents numériques de l’État et valoriser vos compétences
+{: .noir .encadre}
 
 Un système de valorisation et de compensation des services et agents contributeurs sera bâti au fil de l’expérimentation. 
 
