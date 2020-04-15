@@ -69,8 +69,10 @@ Tous les **agents de l’État**, **fonctionnaires ou contractuels,** ayant des 
 
 ### **Quel intérêt ?**
 Pour l'agent, c'est un moyen de varier les plaisirs ! 
-
-5 bonnes raisons de partager vos talents numériques :
+#### 5 BONNES RAISONS
+{: .text-center .margin-bottom-0 .margin-top-3}
+de partager vos talents numériques
+{: .text-center}
 
 * **Donner un coup de pouce** à un projet ou un domaine qui a du sens pour vous ou **qui vous tient à cœur** 
 * **Enrichir** votre parcours et votre réseau professionnel 
@@ -132,6 +134,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 <br>
+
 
 ## **Comment ça marche pour les administrations ?**<a id="comment-ca-marche-admin"></a>
 
