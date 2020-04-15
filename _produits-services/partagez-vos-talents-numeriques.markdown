@@ -73,6 +73,7 @@ Pour l'agent, c'est un moyen de varier les plaisirs !
 > {: .text-center .margin-bottom-0 .margin-top-3}
 > de partager vos talents numériques
 > {: .text-center}
+> <br>
 > 
 > * **Donner un coup de pouce** à un projet ou un domaine qui a du sens pour vous ou **qui vous tient à cœur** 
 > * **Enrichir** votre parcours et votre réseau professionnel 
