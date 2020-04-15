@@ -100,7 +100,7 @@ Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans
    <br>
 
 Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ?
-**[Contactez-nous](mailto:talents.numeriques@modernisation.gouv.fr)**
+**[Contactez-nous !](mailto:talents.numeriques@modernisation.gouv.fr)**
 
 ### Que se passe-t-il après mon inscription ?
 
