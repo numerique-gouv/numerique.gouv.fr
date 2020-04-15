@@ -60,7 +60,7 @@ text-decoration: underline;
 
 ### **Qu'est-ce que c'est ?**
 
-Proposé et piloté par la DINUM, le dispositif Talents numériques de l’État permet à un agent de l’État spécialiste de la tech de contribuer à des missions ponctuelles proposées par d’autres administrations que la sienne.
+Proposé et piloté par la DINUM, le dispositif Partagez vos talents numériques permet à un agent de l’État spécialiste de la tech de contribuer à des missions ponctuelles proposées par d’autres administrations que la sienne.
 
 L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
 
@@ -68,11 +68,18 @@ L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une 
 Tous les **agents de l’État**, **fonctionnaires ou contractuels,** ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leurs talents.
 
 ### **Quel intérêt ?**
-**Pour l'agent,** c'est un moyen de varier les plaisirs ! Et de contribuer à de nouveaux projets, de toucher à de nouvelles thématiques, de sortir un peu de son quotidien, de se sentir utile, mais aussi de développer son réseau et de nouvelles coopérations.
+Pour l'agent, c'est un moyen de varier les plaisirs ! 
 
-**Pour l'administration,** c'est un moyen simple de bénéficier d'une compétence particulière dont elle ne dispose pas nécessairement au sein de son équipe.
+5 bonnes raisons de partager vos talents numériques :
 
-Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient.
+* **Donner un coup de pouce** à un projet ou un domaine qui a du sens pour vous ou **qui vous tient à cœur** 
+* **Enrichir** votre parcours et votre réseau professionnel 
+* **Découvrir** un nouveau secteur d’activité ou un nouvel écosystème
+* **Se lancer** de nouveaux défis et sortir un peu de son quotidien
+* **Intégrer la communauté** des talents numériques de l’État et valoriser vos compétences
+
+
+Un système de valorisation et de compensation des services et agents contributeurs sera bâti au fil de l’expérimentation. 
 
 ### **Quels types de missions ?**
 
