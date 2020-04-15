@@ -56,9 +56,9 @@ text-decoration: underline;
 <br>
 <br>
 
-## Comment ça marche pour les agents ?<a id="comment-ca-marche-agents"></a>
+## **Comment ça marche pour les agents ?**<a id="comment-ca-marche-agents"></a>
 
-### Qu'est-ce que c'est ?
+### **Qu'est-ce que c'est ?**
 
 Proposé et piloté par la DINUM, le dispositif Talents numériques de l’État permet à un agent de l’État spécialiste de la tech de contribuer à des missions ponctuelles proposées par d’autres administrations que la sienne.
 
@@ -70,11 +70,11 @@ L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une 
 
 Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient.
 
-### Pour qui ?
+### **Pour qui ?**
 
 **Fonctionnaires ou contractuels,** tous les **agents de l’État** ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leur expertise.
 
-### Quels types de missions ?
+### **Quels types de missions ?**
 
 Le partage de compétences peut concerner des expertises et **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique..) associé au numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startup ou encore de l’innovation technologique.
 
@@ -88,7 +88,7 @@ La nature des missions proposées par les administrations est fonction de leurs 
 
 Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
-### Comment contribuer ?
+### **Comment contribuer ?**
 
 2 façons de participer au dispositif :
 
@@ -102,7 +102,7 @@ Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans
 Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ?
 **[Contactez-nous !](mailto:talents.numeriques@modernisation.gouv.fr)**
 
-### Que se passe-t-il après mon inscription ?
+### **Que se passe-t-il après mon inscription ?**
 
 <ol>
 <li><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra sous 2 semaines.
@@ -125,4 +125,4 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 <br>
-## Comment ça marche pour les administrations ?<a id="comment-ca-marche-admin"></a>
+## **Comment ça marche pour les administrations ?**<a id="comment-ca-marche-admin"></a>
