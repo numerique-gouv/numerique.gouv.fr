@@ -1,10 +1,10 @@
 ---
 title: Partagez vos talents numériques !
 date: 2020-04-08 12:16:00 +02:00
-chapeau-text: Le dispositif interministériel Talents du numérique de l’État met en
-  relation les agents spécialistes du numérique désireux de mettre leurs compétences
-  ponctuellement au service d'autres administrations, et services de l’État ayant
-  besoin de renfort ou d'expertise précise.
+chapeau-text: Proposé par la DINUM, le dispositif Partagez vos talents numériques
+  met en relation des agents de l’État désireux de mettre leurs compétences ponctuellement
+  au service d'autres administrations, et les services de l’État ayant un besoin d'expertise
+  numérique précis sur une période donnée.
 layout: rgaa
 ---
 
