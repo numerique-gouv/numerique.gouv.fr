@@ -41,8 +41,7 @@ text-decoration: underline;
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mon expertise</a>
 > <br>
 > <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
-{: .exergue}
-
+> {: .exergue}
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis une administration
 > {: .margin-bottom-1}
@@ -52,18 +51,18 @@ text-decoration: underline;
 > <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
 > <br>
 > <a class="lien-encadre" href="#comment-ca-marche-admin"><i>Comment ça marche ?</i></a>
-{: .exergue}
+> {: .exergue}
 
 <br>
 <br>
 
+## Comment ça marche pour les agents ?<a id="comment-ca-marche-agents"></a>
 
-
-## Comment ça marche pour les agents ?<a id="comment-ca-marche-agents"></a> 
 ### Qu'est-ce que c'est ?
+
 Proposé et piloté par la DINUM, le dispositif Talents numériques de l’État permet à un agent de l’État spécialiste de la tech de contribuer à des missions ponctuelles proposées par d’autres administrations que la sienne.
 
-L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par leur structure d’emploi. 
+L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par leur structure d’emploi.
 
 **Pour l'agent,** c'est un moyen de varier les plaisirs ! Et de contribuer à de nouveaux projets, de toucher à de nouvelles thématiques, de sortir un peu de son quotidien, de se sentir utile, mais aussi de développer son réseau et de nouvelles coopérations.
 
@@ -72,48 +71,55 @@ L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une 
 Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient.
 
 ### Pour qui ?
+
 **Fonctionnaires ou contractuels,** tous les **agents de l’État** ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leur expertise.
 
 ### Quels types de missions ?
+
 Le partage de compétences peut concerner des expertises et **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique..) associé au numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startup ou encore de l’innovation technologique.
 
-La nature des missions proposées par les administrations est fonction de leurs besoins et peut concerner, par ex : 
-* une réalisation dans le cadre d’un projet : animation d’atelier d’idéation, développement, design, audit.., 
+La nature des missions proposées par les administrations est fonction de leurs besoins et peut concerner, par ex :
+
+* une réalisation dans le cadre d’un projet : animation d’atelier d’idéation, développement, design, audit..,
+
 * un retour d’expérience, un transfert de compétences,
+
 * une étude, une prestation de conseil.
 
 Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
-
 ### Comment contribuer ?
+
 2 façons de participer au dispositif :
+
 1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? Vous avez envie d'y contribuer ?
-<br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Proposez votre expertise</b></a>
+   <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Proposez votre expertise</b></a>
 
 2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions. Votre profil sera partagé à la communauté des responsables de missions qui pourront vous contacter si l'une d'elles vous correspond dans le futur.
-<br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
-<br>
+   <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
+   <br>
 
-Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ? 
-[**Contactez-nous**](mailto:talents.numeriques@modernisation.gouv.fr)
+Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ?
+**[Contactez-nous](mailto:talents.numeriques@modernisation.gouv.fr)**
 
-### Que se passe-t-il après mon inscription ? 
+### Que se passe-t-il après mon inscription ?
+
 1. **Si vous avez répondu à une mission,** le responsable de mission vous répondra sous 2 semaines.
-<p style="padding-left: 18px"><b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</p>
+   <p style="padding-left: 18px"><b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</p>
 
 2. **Le responsable de mission vous propose un échange** si vos compétences l’intéressent.
 
-3. **Vous êtes tous les deux partants pour travailler ensemble ?** Un accord tripartite entre vous, votre responsable hiérarchique et le responsable de la mission est signé pour entériner les attendus et les conditions de la mission. 
+3. **Vous êtes tous les deux partants pour travailler ensemble ?** Un accord tripartite entre vous, votre responsable hiérarchique et le responsable de la mission est signé pour entériner les attendus et les conditions de la mission.
 
 4. **Un ordre de mission** est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission (cette modalité pourra être adaptée dans le cadre de la gestion de crise Covid-19)
 
 5. **C'est parti !** Vous commencez la mission selon les modalités prévues.
-<br>
-<br>
+   <br>
+   <br>
 
 <div align="center">
 <b>Prêt/Prête ?</b>
+<br>
 <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mon expertise</a></div>
-
 
 ## Comment ça marche pour les administrations ?<a id="comment-ca-marche-admin"></a>
