@@ -83,12 +83,13 @@ Pour l'agent, c'est un moyen de varier les plaisirs !
 
 Un système de valorisation et de compensation des services et agents contributeurs sera bâti au fil de l’expérimentation. 
 
-### **Quels types de missions ?**
+### **Quelles compétences sont recherchées ?**
+Vous pouvez partager vos talents dans des **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startup ou encore de l’innovation technologique.
 
-Le partage de compétences peut concerner des expertises et **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique...) associé au numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startup ou encore de l’innovation technologique.
 
-La nature des missions proposées par les administrations peut concerner, selon leurs besoins :
-* un appui dans le cadre d’un projet : animation d’atelier d’idéation, développement, design, audit...
+### **Quels types de missions sont proposées ?**
+Selon leurs besoins, la nature des missions proposées par les administrations peut concerner par ex :
+* un appui dans le cadre d’un projet : développement, design, audit, animation d’un atelier d’idéation...
 * un retour d’expérience, un transfert de compétences,
 * une étude, une mission de conseil...
 
@@ -183,9 +184,21 @@ Vous pouvez solliciter des compétences très diverses, dans un **domaine techni
 **Un prérequis :** que la mission réponde à **un besoin ponctuel** et soit **délimitée dans le temps**. La durée et la fréquence peuvent aller de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
 En fonction de vos besoins, la nature des missions peut concerner, par ex :
-* une réalisation dans le cadre d’un projet : développement, design, audit, animation d’un atelier d’idéation...
+* un appui dans le cadre d’un projet : développement, design, audit, animation d’un atelier d’idéation...
 * un retour d’expérience, un transfert de compétences,
 * une étude, une mission de conseil...
 
+### **Quelles sont les étapes ?
+1. Vous définissez votre besoin (nature de la mission, compétences recherchées, durée et période...)
+
+2. Vous saisissez votre demande via notre formulaire en ligne
+
+3. Nous échangeons si besoin avec vous pour finaliser votre fiche mission et la publions sur cette page
+
+4. Les agents intéressés peuvent y répondre directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel. De notre côté, nous recherchons dans le vivier des profils présentant les compétences recherchées
+
+5. Vous êtes partants pour collaborer ensemble ? L'agent fera établir une convention par son administration de rattachement
+
+6. La mission peut commencer !
 
 <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
