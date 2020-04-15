@@ -106,7 +106,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 <ol>
 <li><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra sous 2 semaines.
-   <p style="padding-left: 18px"><b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</p></li>
+<b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</li>
 
 <li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.</li>
 
