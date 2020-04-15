@@ -189,16 +189,22 @@ En fonction de vos besoins, la nature des missions peut concerner, par ex :
 * une étude, une mission de conseil...
 
 ### **Quelles sont les étapes ?
-1. Vous définissez votre besoin (nature de la mission, compétences recherchées, durée et période...)
+<ol>
+<li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...)</li>
 
-2. Vous saisissez votre demande via notre formulaire en ligne
+<li><b>**Vous saisissez</b> votre demande via notre formulaire en ligne</li>
 
-3. Nous échangeons si besoin avec vous pour finaliser votre fiche mission et la publions sur cette page
+<li><b>**Nous échangeons</b> si besoin avec vous pour finaliser votre fiche mission et la publions sur cette page</li>
 
-4. Les agents intéressés peuvent y répondre directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel. De notre côté, nous recherchons dans le vivier des profils présentant les compétences recherchées
+<li><b>Les agents intéressés peuvent y répondre</b> directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel. 
+De notre côté, nous recherchons dans le vivier des profils présentant les compétences recherchées</li>
 
-5. Vous êtes partants pour collaborer ensemble ? L'agent fera établir une convention par son administration de rattachement
+<li><b>Vous êtes partants pour collaborer ensemble ?</b> L'agent fera établir une convention par son administration de rattachement</li>
 
-6. La mission peut commencer !
+<li><b>La mission peut commencer !</b></li></ol>
+<br>
+<br>
+<br>
+<br>
 
 <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
