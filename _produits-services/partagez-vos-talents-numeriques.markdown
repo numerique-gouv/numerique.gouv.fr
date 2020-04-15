@@ -110,7 +110,9 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 <li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.</li>
 
+
 <li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Un accord tripartite entre vous, votre responsable hiérarchique et le responsable de la mission est signé pour entériner les attendus et les conditions de la mission.</li>
+<br>
 
 <li><b>Un ordre de mission</b> est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission (cette modalité pourra être adaptée dans le cadre de la gestion de crise Covid-19)</li>
 
