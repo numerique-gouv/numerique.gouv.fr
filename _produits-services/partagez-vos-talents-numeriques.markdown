@@ -77,7 +77,7 @@ Une comptabilisation des journées consacrées à la mission permet la valorisat
 
 ### **Quels types de missions ?**
 
-Le partage de compétences peut concerner des expertises et **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique..) associé au numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startup ou encore de l’innovation technologique.
+Le partage de compétences peut concerner des expertises et **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique...) associé au numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startup ou encore de l’innovation technologique.
 
 La nature des missions proposées par les administrations est fonction de leurs besoins et peut concerner, par ex :
 
@@ -127,3 +127,31 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 ## <b>Comment ça marche pour les administrations ?</b><a id="comment-ca-marche-admin"></a>
+
+### **Qu'est-ce que c'est ?**
+
+Proposé et piloté par la DINUM, le dispositif Talents numériques de l’État permet à un agent de l’État spécialiste de la tech de contribuer à des missions ponctuelles proposées par d’autres administrations que la sienne.
+
+L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
+
+### **Quel intérêt ?**
+**Pour l'agent,** c'est un moyen de varier les plaisirs ! Et de contribuer à de nouveaux projets, de toucher à de nouvelles thématiques, de sortir un peu de son quotidien, de se sentir utile, mais aussi de développer son réseau et de nouvelles coopérations.
+
+**Pour l'administration,** c'est un moyen simple de bénéficier ponctuellement d'une compétence particulière dont elle ne dispose pas nécessairement au sein de son équipe.
+
+Un système de valorisation et de compensation des services et agents contributeurs sera bâti au fil de l’expérimentation. 
+
+### **Quels types de missions proposer ?**
+
+**Un prérequis :** que la mission réponde à **un besoin ponctuel** et soit **délimitée dans le temps**. La durée et la fréquence peuvent aller de quelques heures en une fois à plusieurs jours sur plusieurs mois.
+
+**Quels types de compétences pouvez-vous demander ?**
+Vous pouvez solliciter des expertises dans un **domaine technique pointu** ou un **domaine métier ou transverse** (achat, juridique..) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startups ou encore de l’innovation technologique.
+
+En fonction de vos besoins, la nature des missions peut concerner, par ex :
+
+* une réalisation dans le cadre d’un projet : développement, design, audit, animation d’un atelier d’idéation...
+* un retour d’expérience, un transfert de compétences,
+* une étude, une mission de conseil...
+
+Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
