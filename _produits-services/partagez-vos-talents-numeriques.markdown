@@ -104,16 +104,17 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 ### Que se passe-t-il après mon inscription ?
 
-1. **Si vous avez répondu à une mission,** le responsable de mission vous répondra sous 2 semaines.
-   <p style="padding-left: 18px"><b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</p>
+<ol>
+<li><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra sous 2 semaines.
+   <p style="padding-left: 18px"><b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</p></li>
 
-2. **Le responsable de mission vous propose un échange** si vos compétences l’intéressent.
+<li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.</li>
 
-3. **Vous êtes tous les deux partants pour travailler ensemble ?** Un accord tripartite entre vous, votre responsable hiérarchique et le responsable de la mission est signé pour entériner les attendus et les conditions de la mission.
+<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Un accord tripartite entre vous, votre responsable hiérarchique et le responsable de la mission est signé pour entériner les attendus et les conditions de la mission.</li>
 
-4. **Un ordre de mission** est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission (cette modalité pourra être adaptée dans le cadre de la gestion de crise Covid-19)
+<li><b>Un ordre de mission</b> est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission (cette modalité pourra être adaptée dans le cadre de la gestion de crise Covid-19)</li>
 
-5. **C'est parti !** Vous commencez la mission selon les modalités prévues.
+<li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li>
    <br>
    <br>
 
