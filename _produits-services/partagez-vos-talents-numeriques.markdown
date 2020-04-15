@@ -64,16 +64,15 @@ Proposé et piloté par la DINUM, le dispositif Talents numériques de l’État
 
 L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
 
+### **Pour qui ?**
+**Fonctionnaires ou contractuels,** tous les **agents de l’État** ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leur expertise.
+
 ### **Quel intérêt ?**
 **Pour l'agent,** c'est un moyen de varier les plaisirs ! Et de contribuer à de nouveaux projets, de toucher à de nouvelles thématiques, de sortir un peu de son quotidien, de se sentir utile, mais aussi de développer son réseau et de nouvelles coopérations.
 
 **Pour l'administration,** c'est un moyen simple de bénéficier d'une compétence particulière dont elle ne dispose pas nécessairement au sein de son équipe.
 
 Une comptabilisation des journées consacrées à la mission permet la valorisation des talents volontaires et des structures qui les emploient.
-
-### **Pour qui ?**
-
-**Fonctionnaires ou contractuels,** tous les **agents de l’État** ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leur expertise.
 
 ### **Quels types de missions ?**
 
