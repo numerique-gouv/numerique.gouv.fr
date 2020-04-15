@@ -126,8 +126,8 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <li><b>Un ordre de mission</b> est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission (cette modalité pourra être adaptée dans le cadre de la gestion de crise Covid-19)</li>
 
 <li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li>
-   <br>
-   <br>
+<br>
+<br>
 
 <div align="center">
 <b>Prêt/Prête ?</b>
