@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '8 avril 2020 '
+date_de_modification: '15 avril 2020 '
 layout: page-annexe
 ---
 
@@ -38,10 +38,16 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1} 
+* [**Chef/Cheffe de produit (Product Manager) Tech**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=4c07eee6-4395-40cf-b280-1cc56a4a8f98&offerid=377226 "Chef/Cheffe de produit (Product Manager) Tech - Télécharger le pdf") (pdf - 585,65&nbsp;ko)
+<br>Cadre/Catégorie A
+
+* [**Chargé/Chargée des produits Labellisés**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d3daf5e5-4989-430e-847d-9cd3ff446fef&offerid=377221 "Chargé/Chargée des produits Labellisés - Télécharger le pdf") (pdf - 577,62&nbsp;ko)
+<br>Cadre/Catégorie A
+
 * [**Développeur/Développeuse**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=fbfc66b4-307c-432e-b3f8-f6e3ee0bd2b5&offerid=375130 "Développeur/Développeuse - Télécharger le pdf") (pdf - 762,12&nbsp;ko)
 <br>Cadre/Catégorie A
 
-* [**Responsable partenariat et distribution AgentConnect – FranceConnect H/F**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=4eead9d5-b760-4eb0-b695-1fc8bbc361ee&offerid=374096 "Responsable partenariat et distribution AgentConnect – FranceConnect H/F - Télécharger le pdf") (pdf - 755,40&nbsp;ko)
+* [**Responsable partenariat et distribution AgentConnect – FranceConnect (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=4eead9d5-b760-4eb0-b695-1fc8bbc361ee&offerid=374096 "Responsable partenariat et distribution AgentConnect – FranceConnect (F/H) - Télécharger le pdf") (pdf - 755,40&nbsp;ko)
 <br>Cadre/Catégorie A
 
 * [**Chef/Cheffe de produit – Plateforme de partage ponctuel d'expertise**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=713397d6-577a-40af-a975-ce60f0402eca&offerid=371415 "Chef/Cheffe de produit – Plateforme de partage ponctuel d'expertise - Télécharger le pdf") (pdf - 759,98&nbsp;ko)
@@ -67,6 +73,20 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
+* [**Chef/Cheffe de projet déploiement**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=ba351863-df27-4953-a86b-ad742a4b9786&offerid=377231 "Chef/Cheffe de projet déploiement - Télécharger le pdf") (pdf - 653,48&nbsp;ko)
+<br>Cadre/Catégorie A
+<br>Poste basé à Lyon.
+
+* [**Chef/Cheffe de projet déploiement**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=e803bde2-3915-4392-8d3f-20251c285343&offerid=377229 "Chef/Cheffe de projet déploiement - Télécharger le pdf") (pdf - 653,48&nbsp;ko)
+<br>Cadre/Catégorie A
+
+* [**Directeur/Directrice de projet - Sécurisation et conseil sur les grands projets SI de l'Etat**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=4e62cb0a-2db7-495f-9d79-bb4e432e2da5&offerid=377199 "Directeur/Directrice de projet - Sécurisation et conseil sur les grands projets SI de l'Etat - Télécharger le pdf") (pdf - 598,32&nbsp;ko)
+<br>Cadre/Catégorie A
+
+* [**Chargé/Chargée d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=35d05fc3-dc85-4644-9386-75c58580721f&offerid=377192 "Chargé/Chargée d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat - Télécharger le pdf") (pdf - 606,48&nbsp;ko)
+<br>Cadre/Catégorie A
+<br>Poste basé en Ille et Vilaine (35).
+
 * [**Architecte de système d'information polyvalent (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=59fa2276-93cf-4987-b5aa-a5463a7f56d5&offerid=375127 "Architecte de système d'information polyvalent (F/H) - Télécharger le pdf") (pdf - 773,19&nbsp;ko)
 <br>Cadre/Catégorie A
 
@@ -81,6 +101,13 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 
 * [**Architecte « services d'accès à internet » (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=4bc69156-4b3c-4c8f-b689-826ec3bee61a&offerid=366760 "Architecte « services d'accès à internet » (F/H) - Télécharger le pdf") (pdf - 640&nbsp;ko)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
+#### **Droit**
+{: .margin-top-4 .margin-bottom-1}
+* [**Juriste en droit du numérique (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=0b2eaa9d-8c9d-428d-8ef6-ec6a9875bb8c&offerid=377233 "Juriste en droit du numérique (F/H) - Télécharger le pdf") (pdf - 578,61&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>
 <br>
