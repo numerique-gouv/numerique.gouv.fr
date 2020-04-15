@@ -126,7 +126,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 
-## <b>Comment ça marche pour les administrations ?</b><a id="comment-ca-marche-admin"></a>
+## **Comment ça marche pour les administrations ?**<a id="comment-ca-marche-admin"></a>
 
 
 ### **Qu'est-ce que c'est ?**
