@@ -105,11 +105,11 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 <ol>
 <li><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra sous 2 semaines.
+<br>
 <b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</li>
 
 <li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.</li>
-
-
+<br>
 <li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Un accord tripartite entre vous, votre responsable hiérarchique et le responsable de la mission est signé pour entériner les attendus et les conditions de la mission.</li>
 <br>
 
@@ -149,9 +149,7 @@ Un système de valorisation et de compensation des services et agents contribute
 Vous pouvez solliciter des expertises dans un **domaine technique pointu** ou un **domaine métier ou transverse** (achat, juridique..) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startups ou encore de l’innovation technologique.
 
 En fonction de vos besoins, la nature des missions peut concerner, par ex :
-
 * une réalisation dans le cadre d’un projet : développement, design, audit, animation d’un atelier d’idéation...
 * un retour d’expérience, un transfert de compétences,
 * une étude, une mission de conseil...
 
-Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
