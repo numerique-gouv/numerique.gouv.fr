@@ -142,6 +142,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 * **Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire**
 <br>*Ministère de l’éducation Nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Education nationale*
 <br>Compétences recherchées : UX / UI design - Revue de processus
+> Cette mission m'intéresse, je partage mon talent
 
 <br>Durée et période : fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.
 <br>Localisation : Paris 7e
