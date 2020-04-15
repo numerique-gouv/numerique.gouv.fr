@@ -154,12 +154,14 @@ L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une 
 
 Un système de valorisation et de compensation des services et agents contributeurs sera bâti au fil de l’expérimentation. 
 
+### **Quels types de compétences pouvez-vous demander ?**
+Développement, UX design, expertise en accessibilité numérique, architecture SI, Mareva 2, connaissances de tel langage informatique, droit du numérique...
+
+Vous pouvez solliciter des compétences très diverses, dans un **domaine technique pointu** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. 
+
 ### **Quels types de missions proposer ?**
 
 **Un prérequis :** que la mission réponde à **un besoin ponctuel** et soit **délimitée dans le temps**. La durée et la fréquence peuvent aller de quelques heures en une fois à plusieurs jours sur plusieurs mois.
-
-**Quels types de compétences pouvez-vous demander ?**
-Vous pouvez solliciter des expertises dans un **domaine technique pointu** ou un **domaine métier ou transverse** (achat, juridique..) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startups ou encore de l’innovation technologique.
 
 En fonction de vos besoins, la nature des missions peut concerner, par ex :
 * une réalisation dans le cadre d’un projet : développement, design, audit, animation d’un atelier d’idéation...
