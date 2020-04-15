@@ -2,6 +2,7 @@
 title: Comment ça marche pour les agents ?
 date: 2020-04-08 15:04:00 +02:00
 permalink: "/produits-services/talents-numeriques-etat/comment-ca-marche-agents/"
+published: false
 layout: rgaa
 ---
 
@@ -82,3 +83,4 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <b>Prêt/Prête ?</b>
 <br>
 <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a></div>
+
