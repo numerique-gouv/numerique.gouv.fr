@@ -131,6 +131,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <b>Prêt/Prête ?</b>
 <br>
 <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a></div>
+
 <br>
 <br>
 <br>
