@@ -87,8 +87,8 @@ Un système de valorisation et de compensation des services et agents contribute
 
 Le partage de compétences peut concerner des expertises et **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique...) associé au numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startup ou encore de l’innovation technologique.
 
-La nature des missions proposées par les administrations est fonction de leurs besoins et peut concerner, par ex :
-* une réalisation dans le cadre d’un projet : animation d’atelier d’idéation, développement, design, audit...
+La nature des missions proposées par les administrations peut concerner, selon leurs besoins :
+* un appui dans le cadre d’un projet : animation d’atelier d’idéation, développement, design, audit...
 * un retour d’expérience, un transfert de compétences,
 * une étude, une mission de conseil...
 
