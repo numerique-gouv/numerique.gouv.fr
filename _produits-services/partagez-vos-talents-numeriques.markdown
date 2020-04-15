@@ -106,8 +106,8 @@ Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans
    <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Proposez vos compétences</b></a>
 
 2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions. Votre profil sera partagé à la communauté des responsables de missions qui pourront vous contacter si l'une d'elles vous correspond dans le futur.
-   <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
-   <br>
+<br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
+<br>
 
 Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ?
 **[Contactez-nous !](mailto:talents.numeriques@modernisation.gouv.fr)**
@@ -126,7 +126,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 <li><b>Un ordre de mission</b> est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission (cette modalité pourra être adaptée dans le cadre de la gestion de crise Covid-19)</li>
 
-<li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li>
+<li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li></ol>
 <br>
 <br>
 
