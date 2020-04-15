@@ -38,7 +38,7 @@ text-decoration: underline;
 > Expert/experte du numérique au sein de l’État, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Apportez ponctuellement vos compétences en vous portant volontaire pour l'une des missions proposées actuellement. <a class="lien-encadre" href="#comment-ca-marche-agents">Découvrez les missions</a>.
 > <br>Si aucune ne vous intéresse, rejoignez simplement le vivier.
 >
-> <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mon expertise</a>
+> <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a>
 > <br>
 > <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
 {: .exergue}
@@ -91,7 +91,7 @@ Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans
 2 façons de participer au dispositif :
 
 1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? Vous avez envie d'y contribuer ?
-   <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Proposez votre expertise</b></a>
+   <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Proposez vos compétences</b></a>
 
 2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions. Votre profil sera partagé à la communauté des responsables de missions qui pourront vous contacter si l'une d'elles vous correspond dans le futur.
    <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
@@ -121,7 +121,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <div align="center">
 <b>Prêt/Prête ?</b>
 <br>
-<a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mon expertise</a></div>
+<a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a></div>
 <br>
 <br>
 <br>
