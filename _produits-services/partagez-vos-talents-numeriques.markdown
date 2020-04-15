@@ -153,6 +153,10 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>Durée et période : fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.
 <br>Localisation : Paris 7e
 <br>[Détails de la mission (pdf - XX ko)](LIEN PDF)
+<br>
+<br>
+<br>
+<br>
 
 ## **Comment ça marche pour les administrations ?**<a id="comment-ca-marche-admin"></a>
 
