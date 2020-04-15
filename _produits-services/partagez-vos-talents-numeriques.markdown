@@ -135,7 +135,7 @@ Proposé et piloté par la DINUM, le dispositif Talents numériques de l’État
 L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
 
 ### **Quel intérêt ?**
-**Pour l'agent,** c'est un moyen de varier les plaisirs ! Et de contribuer à de nouveaux projets, de toucher à de nouvelles thématiques, de sortir un peu de son quotidien, de se sentir utile, mais aussi de développer son réseau et de nouvelles coopérations.
+**Pour l'agent,** c'est un moyen de varier les plaisirs ! De contribuer à de nouveaux projets, de toucher à de nouvelles thématiques, de sortir un peu de son quotidien, de se sentir utile, mais aussi de développer son réseau et de nouvelles coopérations.
 
 **Pour l'administration,** c'est un moyen simple de bénéficier ponctuellement d'une compétence particulière dont elle ne dispose pas nécessairement au sein de son équipe.
 
