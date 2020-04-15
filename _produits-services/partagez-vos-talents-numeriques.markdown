@@ -119,14 +119,13 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <li><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra sous 2 semaines.
 <br>
 <b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</li>
-
+<br>
 <li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.</li>
 <br>
 <li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Un accord tripartite entre vous, votre responsable hiérarchique et le responsable de la mission est signé pour entériner les attendus et les conditions de la mission.</li>
 <br>
-
 <li><b>Un ordre de mission</b> est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission (cette modalité pourra être adaptée dans le cadre de la gestion de crise Covid-19)</li>
-
+<br>
 <li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li></ol>
 <br>
 <br>
