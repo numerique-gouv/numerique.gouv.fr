@@ -39,6 +39,7 @@ Par ailleurs, la DINUM conseille de ne pas utiliser l’application Zoom ou d’
 > [Consulter le tableau des solutions de webconférence (pdf, 38 ko)](/uploads/outils_webconference-agents-etat.pdf)
 {: .lien-important}
 
+> <br>
 > Vous utilisez l'une de ces solutions ? **Faites-nous part de vos retours via [ce questionnaire en ligne](https://dinum.evalandgo.com/s/?id=JTk3biU5OWwlOUMlQUE=&a=JTk2byU5NmglOUUlQUI=)**
 {: .encadre}
 
