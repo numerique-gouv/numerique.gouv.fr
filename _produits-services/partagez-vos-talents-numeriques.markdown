@@ -1,5 +1,5 @@
 ---
-title: Talents numériques de l’État
+title: Partagez vos talents numériques !
 date: 2020-04-08 12:16:00 +02:00
 chapeau-text: Le dispositif interministériel Talents du numérique de l’État met en
   relation les agents spécialistes du numérique désireux de mettre leurs compétences
