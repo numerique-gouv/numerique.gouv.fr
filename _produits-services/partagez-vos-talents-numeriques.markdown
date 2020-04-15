@@ -82,10 +82,8 @@ Le partage de compétences peut concerner des expertises et **domaines technique
 La nature des missions proposées par les administrations est fonction de leurs besoins et peut concerner, par ex :
 
 * une réalisation dans le cadre d’un projet : animation d’atelier d’idéation, développement, design, audit...
-
 * un retour d’expérience, un transfert de compétences,
-
-* une étude, une prestation de conseil.
+* une étude, une mission de conseil...
 
 Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
