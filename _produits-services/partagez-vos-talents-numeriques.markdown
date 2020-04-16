@@ -92,7 +92,7 @@ text-decoration: underline;
 <br>
 <br>
 
-<figure class='image-left' style='width: 7%;'>
+<figure class='image-left' style='width: 15%;'>
 <img src="/uploads/comment_ca_marche_agents.svg"/>
 </figure>## **Comment ça marche pour les agents ?**<a id="comment-ca-marche-agents"></a>
 
