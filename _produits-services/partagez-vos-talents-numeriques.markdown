@@ -75,6 +75,10 @@ text-decoration: underline;
 <span class="button">Voir plus</span>
 </a>
 </nav>
+<div class="flex-container">
+<i class="fas fa-angle-down icon-arrow-down"></i>
+</div>
+{% endif %}
 </section>
 <div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
 <div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
