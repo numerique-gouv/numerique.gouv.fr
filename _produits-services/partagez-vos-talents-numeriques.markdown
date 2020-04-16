@@ -126,7 +126,7 @@ Pour l'agent, c'est un moyen de varier les plaisirs !
 Un système de valorisation des agents et services contributeurs sera bâti au fil de l’expérimentation. 
 
 ### **Quelles compétences sont recherchées ?**
-Vous pouvez partager vos talents dans des **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startup ou encore de l’innovation technologique.
+Vous pouvez partager vos talents dans des **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou encore de l’innovation numérique.
 
 
 ### **Quels types de missions sont proposées ?**
