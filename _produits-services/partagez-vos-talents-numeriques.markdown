@@ -57,8 +57,8 @@ text-decoration: underline;
 <br>
 
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3">
-<h2 class="text-center font-bold">Au menu</h2>
-<nav data-smooth-scroll class="grid-x grid-margin-x align-center">
+<a href="#menu-talents"><h2 class="text-center font-bold">Au menu</h2>
+<nav data-smooth-scroll class="grid-x grid-margin-x align-center"></a>
 <a href="#comment-ca-marche-agents"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="Comment ça marche pour les agents" src="/assets/img/pictogrammes/Securiser_et_renforcer_le_systeme_dinformation_et_de_communication_de_letat.svg">
 <span class="h5 text-center">Comment ça marche pour les agents ?</span>
@@ -77,14 +77,14 @@ text-decoration: underline;
 </nav>
 </section>
 <div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
-      <div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
-        <div class="cell grid-y" data-smooth-scroll>
-          <a class="flex-container" href="#nos-missions">
-            <img alt="Retour aux missions" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
-          </a>
-        </div>
-      </div>
-    </div>
+<div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
+<div class="cell grid-y" data-smooth-scroll>
+<a class="flex-container" href="#menu-talents">
+<img alt="Retour au menu" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
+</a>
+</div>
+</div>
+</div>
 
 ### Au menu
 <br>
