@@ -82,7 +82,7 @@ Pour l'agent, c'est un moyen de varier les plaisirs !
 > * **Intégrer la communauté** des talents numériques de l’État et valoriser vos compétences
 {: .noir .encadre}
 
-Un système de valorisation et de compensation des services et agents contributeurs sera bâti au fil de l’expérimentation. 
+Un système de valorisation des agents et services contributeurs sera bâti au fil de l’expérimentation. 
 
 ### **Quelles compétences sont recherchées ?**
 Vous pouvez partager vos talents dans des **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startup ou encore de l’innovation technologique.
@@ -173,7 +173,7 @@ L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une 
 
 **Pour l'administration,** c'est un moyen simple et souple de bénéficier ponctuellement d'une compétence particulière dont elle ne dispose pas nécessairement au sein de son équipe.
 
-Un système de valorisation et de compensation des services et agents contributeurs sera bâti au fil de l’expérimentation. 
+Un système de valorisation des services et agents contributeurs sera bâti au fil de l’expérimentation. 
 
 ### **Quels types de compétences pouvez-vous demander ?**
 Développement, UX design, expertise en accessibilité numérique, architecture SI, Mareva 2, connaissances de tel langage informatique, droit du numérique...
