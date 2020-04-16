@@ -251,7 +251,6 @@ De notre côté, nous recherchons dans le vivier des profils présentant les com
 <li><b>La mission peut commencer !</b></li></ol>
 <br>
 <br>
-<br>
-<br>
 
-<a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
+<div align="center">
+<a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a></div>
