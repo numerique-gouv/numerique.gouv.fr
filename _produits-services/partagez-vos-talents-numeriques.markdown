@@ -137,8 +137,8 @@ Selon leurs besoins, la nature des missions proposées par les administrations p
 
 Chaque mission répondant à un **besoin ponctuel**, elle est  **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
-<a class="lien-important" href="#missions">Découvrir les missions proposées</a>
-
+> <a href="#missions">Découvrir les missions proposées</a>
+{: .lien-important}
 
 ### **Comment contribuer ?**
 
