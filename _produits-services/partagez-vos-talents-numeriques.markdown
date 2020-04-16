@@ -222,7 +222,7 @@ En fonction de vos besoins, la nature des missions peut concerner, par ex :
 * un retour d’expérience, un transfert de compétences,
 * une étude, une mission de conseil...
 
-### **Quelles sont les étapes ?
+### **Quelles sont les étapes ?**
 <ol>
 <li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...)</li>
 
