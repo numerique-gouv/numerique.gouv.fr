@@ -78,7 +78,6 @@ text-decoration: underline;
 <div class="flex-container">
 <i class="fas fa-angle-down icon-arrow-down"></i>
 </div>
-{% endif %}
 </section>
 <div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
 <div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
@@ -90,18 +89,12 @@ text-decoration: underline;
 </div>
 </div>
 
-### Au menu
-<br>
-<a href="#comment-ca-marche-agents">Comment ça marche pour les agents ?</a>
-<br>
-<a href="#missions">Les missions proposées</a>
-<br>
-<a href="#comment-ca-marche-admin">Comment ça marche pour les administrations ?</a>
-
 <br>
 <br>
 
-## **Comment ça marche pour les agents ?**<a id="comment-ca-marche-agents"></a>
+<figure class='image-left' style='width: 7%;'>
+<img src="/uploads/swiss-army-knife_bleu.png"/>
+</figure>## **Comment ça marche pour les agents ?**<a id="comment-ca-marche-agents"></a>
 
 ### **Qu'est-ce que c'est ?**
 
