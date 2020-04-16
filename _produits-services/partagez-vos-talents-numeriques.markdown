@@ -230,7 +230,7 @@ Vous pouvez solliciter des compétences très diverses, dans un **domaine techni
 
 **Un prérequis :** que la mission réponde à **un besoin ponctuel** et soit **délimitée dans le temps**. La durée et la fréquence peuvent aller de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
-En fonction de vos besoins, la nature des missions peut prendre des formes diverses, par ex :
+En fonction de vos besoins, vous pouvez proposer des missions de différentes natures, par ex :
 * **un appui dans le cadre d’un projet :** développement, design, audit, animation d’un atelier d’idéation...
 * **un retour d’expérience**, un **transfert de compétences**,
 * **une étude,** une mission de **conseil**...
