@@ -188,7 +188,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <ul><li><b>Compétences recherchées :</b> UX / UI design - Revue de processus</li>
 <li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
 <li><b>Localisation :</b> Paris 7e</li>
-<li><b>[Détails de la mission (pdf - XX ko)](LIEN PDF)</li></ul>
+<li><b>[Détails de la mission (pdf - XX ko)](LIEN PDF)</b></li></ul>
 > **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
 {: .lien-important}
 <br>
