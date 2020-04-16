@@ -93,7 +93,7 @@ text-decoration: underline;
 <br>
 
 <figure class='image-left' style='width: 7%;'>
-<img src="/uploads/swiss-army-knife_bleu.png"/>
+<img src="/uploads/comment_ca_marche_agents.svg"/>
 </figure>## **Comment ça marche pour les agents ?**<a id="comment-ca-marche-agents"></a>
 
 ### **Qu'est-ce que c'est ?**
@@ -183,7 +183,9 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 
-## **Les missions proposées**<a id="missions"></a>
+<figure class='image-left' style='width: 7%;'>
+<img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg"/>
+</figure>## **Les missions proposées**<a id="missions"></a>
 #### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
 {: .margin-bottom-1}
 *Ministère de l’Education nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Education nationale*
