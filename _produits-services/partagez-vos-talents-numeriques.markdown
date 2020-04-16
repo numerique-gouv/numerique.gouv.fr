@@ -249,16 +249,16 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 ### **Quelles sont les étapes ?**
 <ol>
 <li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...)</li>
-
+<br>
 <li><b>Vous saisissez</b> votre demande via notre formulaire en ligne</li>
-
-<li><b>Nous échangeons</b> si besoin avec vous pour finaliser votre fiche mission et la publions sur cette page</li>
-
+<br>
+<li><b>Nous échangeons</b> si besoin ensemble pour finaliser votre fiche mission et la publions sur cette page</li>
+<br>
 <li><b>Les agents intéressés peuvent y répondre</b> directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel. 
 De notre côté, nous recherchons dans le vivier des profils présentant les compétences recherchées</li>
-
+<br>
 <li><b>Vous êtes partants pour collaborer ensemble ?</b> L'agent fera établir une convention par son administration de rattachement</li>
-
+<br>
 <li><b>La mission peut commencer !</b></li></ol>
 <br>
 <br>
