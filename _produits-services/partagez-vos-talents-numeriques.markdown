@@ -57,8 +57,8 @@ text-decoration: underline;
 <br>
 
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3">
-<a href="#menu-talents"><h2 class="text-center font-bold">Au menu</h2>
-<nav data-smooth-scroll class="grid-x grid-margin-x align-center"></a>
+<a href="#menu-talents"><h2 class="text-center font-bold">Au menu</h2></a>
+<nav data-smooth-scroll class="grid-x grid-margin-x align-center">
 <a href="#comment-ca-marche-agents"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="Comment ça marche pour les agents" src="/assets/img/pictogrammes/Securiser_et_renforcer_le_systeme_dinformation_et_de_communication_de_letat.svg">
 <span class="h5 text-center">Comment ça marche pour les agents ?</span>
