@@ -84,7 +84,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 
 * [**Chargé/Chargée d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=35d05fc3-dc85-4644-9386-75c58580721f&offerid=377192 "Chargé/Chargée d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat - Télécharger le pdf") (pdf - 606,48&nbsp;ko)
-<br>Cadre/Catégorie A
+<br>Cadre/Catégorie A ou B
 <br>Poste basé en Ille et Vilaine (35).
 
 * [**Architecte de système d'information polyvalent (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=59fa2276-93cf-4987-b5aa-a5463a7f56d5&offerid=375127 "Architecte de système d'information polyvalent (F/H) - Télécharger le pdf") (pdf - 773,19&nbsp;ko)
