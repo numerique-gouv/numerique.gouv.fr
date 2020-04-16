@@ -69,7 +69,6 @@ text-decoration: underline;
 <span class="h5 text-center">Missions proposées</span>
 <span class="button">Voir plus</span>
       </a>
-      </a>
 <a href="#comment-ca-marche-admin"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="Comment ça marche pour les administrations ?" src="/assets/img/pictogrammes/Ouvrir_partager_et_exploiter_les_données_pour_transformer_l’action_publique.svg">
 <span class="h5 text-center">Comment ça marche pour les administrations ?</span>
