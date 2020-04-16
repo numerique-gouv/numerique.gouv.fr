@@ -142,7 +142,7 @@ Chaque mission répondant à un **besoin ponctuel**, elle est  **délimitée dan
 
 ### **Comment contribuer ?**
 
-2 façons de participer au dispositif :
+Deux façons de participer au dispositif :
 
 1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? Vous avez envie d'y contribuer ?
    <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Proposez vos compétences</b></a>
