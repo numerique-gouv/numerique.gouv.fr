@@ -180,8 +180,9 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 
+<hr>
 ## **Les missions proposées**<a id="missions"></a>
-<strong style="font-size: 18px;">Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire</strong>
+<ul><li><strong style="font-size: 18px;">Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire</strong></li></ul>
 <br>*Ministère de l’éducation Nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Education nationale*
 <br><b>Compétences recherchées :</b> UX / UI design - Revue de processus
 <br><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.
@@ -193,7 +194,8 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 #### Contribuer au développement de « Focus+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
 {: .margin-bottom-1}
 *Ministère de l’éducation Nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Education nationale*
-<br><ul><li><b>Compétences recherchées :</b> UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet</li>
+
+<ul><li><b>Compétences recherchées :</b> UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet</li>
 <br><li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
 <br><li><b>Localisation :</b> Paris 7e</li>
 <br><li>[Détails de la mission (pdf - XX ko)](LIEN PDF)</li></ul>
@@ -203,6 +205,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 
+<hr>
 ## **Comment ça marche pour les administrations ?**<a id="comment-ca-marche-admin"></a>
 
 ### **Qu'est-ce que c'est ?**
