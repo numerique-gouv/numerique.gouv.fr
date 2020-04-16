@@ -60,7 +60,7 @@ text-decoration: underline;
 <a href="#menu-talents"><h2 class="text-center font-bold">Au menu</h2></a>
 <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
 <a href="#comment-ca-marche-agents"  class="cell nav-section grid-y medium-6 large-4 black-link">
-<img alt="Comment ça marche pour les agents" src="/uploads/comment_ca_marche_agents-03.svg" height="150">
+<img alt="Comment ça marche pour les agents" src="/uploads/comment_ca_marche_agents.svg">
 <span class="h5 text-center">Comment ça marche pour les agents ?</span>
 <span class="button">Voir plus</span>
 </a>
