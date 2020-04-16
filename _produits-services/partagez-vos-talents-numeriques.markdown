@@ -185,7 +185,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 <figure class='image-left' style='width: 10%;'>
-<img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg"/>
+<img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;"/>
 </figure>## **Les missions proposées**<a id="missions"></a>
 #### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
 {: .margin-bottom-1}
@@ -218,7 +218,8 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 
-## **Comment ça marche pour les administrations ?**<a id="comment-ca-marche-admin"></a>
+<figure class='image-left' style='width: 10%;'>
+<img src="/uploads/comment_ca_marche_administrations.svg" style="margin-top: -20px;"/>## **Comment ça marche pour les administrations ?**<a id="comment-ca-marche-admin"></a>
 
 ### **Qu'est-ce que c'est ?**
 
