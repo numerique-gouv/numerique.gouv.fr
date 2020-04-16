@@ -184,7 +184,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 <figure class='image-left' style='width: 10%;'>
-<img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;"/></figure><a id="missions">## **Les missions proposées**</a>
+<img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;"/></figure><a id="missions"><h2><strong>Les missions proposées</strong></h2></a>
 #### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
