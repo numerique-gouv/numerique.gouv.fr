@@ -56,6 +56,13 @@ text-decoration: underline;
 <br>
 <br>
 
+<a href="#comment-ca-marche-agents">Comment ça marche pour les agents ?</a>
+<a href="#missions">Les missions proposées</a>
+<a href="#comment-ca-marche-admin">Comment ça marche pour les administrations ?</a>
+
+<br>
+<br>
+
 ## **Comment ça marche pour les agents ?**<a id="comment-ca-marche-agents"></a>
 
 ### **Qu'est-ce que c'est ?**
@@ -96,8 +103,8 @@ Selon leurs besoins, la nature des missions proposées par les administrations p
 
 Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
-> Découvrir les missions proposées
-{: .lien-important}
+<a class="lien-important" href="#missions">Découvrir les missions proposées</a>
+
 
 ### **Comment contribuer ?**
 
@@ -139,7 +146,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 
-## **Les missions proposées**
+## **Les missions proposées**<a id="missions"></a>
 * **Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire**
 <br>*Ministère de l’éducation Nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Education nationale*
 <br>Compétences recherchées : UX / UI design - Revue de processus
