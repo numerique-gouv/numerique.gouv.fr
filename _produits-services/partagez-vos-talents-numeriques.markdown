@@ -191,7 +191,8 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 
 #### Contribuer au développement de « Focus+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
-<br>*Ministère de l’éducation Nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Education nationale*
+{: .margin-bottom-1}
+*Ministère de l’éducation Nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Education nationale*
 <br><ul><li><b>Compétences recherchées :</b> UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet</li>
 <br><li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
 <br><li><b>Localisation :</b> Paris 7e</li>
