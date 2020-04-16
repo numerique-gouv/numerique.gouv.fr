@@ -130,7 +130,7 @@ Vous pouvez partager vos talents dans des **domaines techniques pointus** ou un 
 
 
 ### **Quels types de missions sont proposées ?**
-Selon leurs besoins, la nature des missions proposées par les administrations peut concerner par ex :
+Selon leurs besoins, la nature des missions proposées par les administrations peut prendre des formes diverses par ex :
 * un appui dans le cadre d’un projet : développement, design, audit, animation d’un atelier d’idéation...
 * un retour d’expérience, un transfert de compétences,
 * une étude, une mission de conseil...
