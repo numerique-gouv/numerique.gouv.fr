@@ -185,11 +185,10 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 <figure class='image-left' style='width: 10%;'>
-<img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;"/>
-</figure>## **Les missions proposées**<a id="missions"></a>
+<img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;"/></figure><a id="missions">## **Les missions proposées**</a>
 #### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
 {: .margin-bottom-1}
-*Ministère de l’Education nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Education nationale*
+*Ministère de l’Éducation nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design - Revue de processus</li>
 <li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
 <li><b>Localisation :</b> Paris 7e</li>
@@ -200,7 +199,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 #### Contribuer au développement de « Focus+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
 {: .margin-bottom-1}
-*Ministère de l’Education nationale de de la Jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Education nationale*
+*Ministère de l’Éducation nationale de de la Jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet</li>
 <li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
 <li><b>Localisation :</b> Paris 7e</li>
