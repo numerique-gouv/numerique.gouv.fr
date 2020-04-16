@@ -79,9 +79,12 @@ text-decoration: underline;
     </nav>
   </section>
 
-
+### Au menu
+<br>
 <a href="#comment-ca-marche-agents">Comment ça marche pour les agents ?</a>
+<br>
 <a href="#missions">Les missions proposées</a>
+<br>
 <a href="#comment-ca-marche-admin">Comment ça marche pour les administrations ?</a>
 
 <br>
