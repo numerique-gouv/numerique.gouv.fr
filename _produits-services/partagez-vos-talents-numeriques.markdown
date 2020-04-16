@@ -76,6 +76,15 @@ text-decoration: underline;
 </a>
 </nav>
 </section>
+<div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
+      <div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
+        <div class="cell grid-y" data-smooth-scroll>
+          <a class="flex-container" href="#nos-missions">
+            <img alt="Retour aux missions" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
+          </a>
+        </div>
+      </div>
+    </div>
 
 ### Au menu
 <br>
