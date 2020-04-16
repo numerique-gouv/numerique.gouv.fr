@@ -181,6 +181,11 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 <hr>
+
+<br>
+<br>
+<br>
+
 ## **Les missions proposées**<a id="missions"></a>
 #### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
 {: .margin-bottom-1}
@@ -202,12 +207,17 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <li><b>[Détails de la mission (pdf - XX ko)](LIEN PDF)</b></li></ul>
 > **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
 {: .lien-important}
-<br>
+
 <br>
 <br>
 <br>
 
 <hr>
+
+<br>
+<br>
+<br>
+
 ## **Comment ça marche pour les administrations ?**<a id="comment-ca-marche-admin"></a>
 
 ### **Qu'est-ce que c'est ?**
