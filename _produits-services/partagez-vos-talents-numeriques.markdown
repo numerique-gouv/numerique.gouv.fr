@@ -46,7 +46,7 @@ text-decoration: underline;
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis une administration
 > {: .margin-bottom-1}
 >
-> Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ?
+> Besoin d'un appui ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? D'un renfort dans la gestion de crise Covid-19 actuelle ?
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
 > <br>
