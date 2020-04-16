@@ -218,7 +218,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 <figure class='image-left' style='width: 10%;'>
-<img src="/uploads/comment_ca_marche_administrations.svg" style="margin-top: -20px;"/>## **Comment ça marche pour les administrations ?**<a id="comment-ca-marche-admin"></a>
+<img src="/uploads/comment_ca_marche_administrations.svg" style="margin-top: -20px;"/></figure><a id="comment-ca-marche-admin">## **Comment ça marche pour les administrations ?**</a>
 
 ### **Qu'est-ce que c'est ?**
 
