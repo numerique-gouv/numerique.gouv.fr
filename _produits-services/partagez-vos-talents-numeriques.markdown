@@ -63,20 +63,19 @@ text-decoration: underline;
 <img alt="Comment ça marche pour les agents" src="/assets/img/pictogrammes/Securiser_et_renforcer_le_systeme_dinformation_et_de_communication_de_letat.svg">
 <span class="h5 text-center">Comment ça marche pour les agents</span>
 <span class="button">Voir plus</span>
-      </a>
+</a>
 <a href="#missions"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="Missions proposées" src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg">
 <span class="h5 text-center">Missions proposées</span>
 <span class="button">Voir plus</span>
-      </a>
+</a>
 <a href="#comment-ca-marche-admin"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="Comment ça marche pour les administrations ?" src="/assets/img/pictogrammes/Ouvrir_partager_et_exploiter_les_données_pour_transformer_l’action_publique.svg">
 <span class="h5 text-center">Comment ça marche pour les administrations ?</span>
 <span class="button">Voir plus</span>
-      </a>
-      {% endfor %}
-    </nav>
-  </section>
+</a>
+</nav>
+</section>
 
 ### Au menu
 <br>
