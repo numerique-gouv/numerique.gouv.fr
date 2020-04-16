@@ -181,13 +181,13 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 ## **Les missions proposées**<a id="missions"></a>
-* **Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire**
+<strong style="font-size: 18px;">Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire</strong>
 <br>*Ministère de l’éducation Nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Education nationale*
-<br>Compétences recherchées : UX / UI design - Revue de processus
-<br>Durée et période : fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.
-<br>Localisation : Paris 7e
+<br><b>Compétences recherchées :</b> UX / UI design - Revue de processus
+<br><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.
+<br><b>Localisation :</b> Paris 7e
 <br>[Détails de la mission (pdf - XX ko)](LIEN PDF)
-<br>**[> Cette mission m'intéresse, je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
+<br>**[> Cette mission m'intéresse: je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
 
 
 #### Contribuer au développement de « Focus+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
@@ -195,7 +195,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br><ul><li><b>Compétences recherchées :</b> UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet</li>
 <br><li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
 <br><li><b>Localisation :</b> Paris 7e</li>
-<br><li>[Détails de la mission (pdf - XX ko)](LIEN PDF)</li>
+<br><li>[Détails de la mission (pdf - XX ko)](LIEN PDF)</li></ul>
 <br>**[> Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
 <br>
 <br>
