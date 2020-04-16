@@ -135,7 +135,7 @@ Selon leurs besoins, la nature des missions proposées par les administrations p
 * un retour d’expérience, un transfert de compétences,
 * une étude, une mission de conseil...
 
-Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
+Chaque mission répondant à un **besoin ponctuel**, elle est  **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
 <a class="lien-important" href="#missions">Découvrir les missions proposées</a>
 
