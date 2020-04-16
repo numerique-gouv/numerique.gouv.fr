@@ -93,8 +93,7 @@ text-decoration: underline;
 <br>
 
 <figure class='image-left' style='width: 10%;'>
-<img src="/uploads/comment_ca_marche_agents.svg" style="margin-top: -15px;/>
-</figure>## **Comment ça marche pour les agents ?**<a id="comment-ca-marche-agents"></a>
+<img src="/uploads/comment_ca_marche_agents.svg" style="margin-top: -15px;"/></figure>## **Comment ça marche pour les agents ?**<a id="comment-ca-marche-agents"></a>
 {: .margin-bottom-1}
 
 ### **Qu'est-ce que c'est ?**
