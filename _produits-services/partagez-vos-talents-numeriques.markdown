@@ -223,8 +223,8 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 
-<figure class='image-left' style='width: 10%;'>
-<img src="/uploads/comment_ca_marche_administrations.svg"/></figure><a id="comment-ca-marche-admin"></a>## **Comment ça marche pour les administrations ?**
+<a id="comment-ca-marche-admin"></a><figure class='image-left' style='width: 10%;'>
+<img src="/uploads/comment_ca_marche_administrations.svg"/></figure>## **Comment ça marche pour les administrations ?**
 
 ### **Qu'est-ce que c'est ?**
 
