@@ -228,7 +228,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 ### **Qu'est-ce que c'est ?**
 
-Proposé et piloté par la DINUM, le dispositif Talents numériques de l’État permet à un agent de l’État spécialiste de la tech de contribuer à des missions ponctuelles proposées par d’autres administrations que la sienne.
+Proposé et piloté par la DINUM, le dispositif Partagez vos talents numériques ! permet à un agent de l’État spécialiste de la tech de contribuer à des missions ponctuelles proposées par d’autres administrations que la sienne.
 
 L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
 
