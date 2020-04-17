@@ -35,7 +35,7 @@ text-decoration: underline;
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis agent de l’État
 >
-> Talent du numérique au sein de l’État, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <a class="lien-encadre" href="#comment-ca-marche-agents"><b>Découvrez les missions</b></a>.
+> Talent du numérique au sein de l’État, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
 > <br>Si aucune ne vous intéresse, rejoignez simplement le vivier.
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a>
@@ -75,9 +75,10 @@ text-decoration: underline;
 <span class="button">Voir plus</span>
 </a>
 </nav>
-<div class="flex-container">
+<!-- <div class="flex-container">
 <i class="fas fa-angle-down icon-arrow-down"></i>
 </div>
+-->
 </section>
 <!-- <div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
 <div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
@@ -87,7 +88,8 @@ text-decoration: underline;
 </a>
 </div>
 </div>
-</div> -->
+</div> 
+-->
 
 <br>
 <br>
@@ -175,7 +177,13 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 <br>
 <br>
+
+<div class="flex-container">
+<i class="fas fa-angle-down icon-arrow-down"></i>
+</div>
 <br>
+<br>
+
 
 <hr>
 
