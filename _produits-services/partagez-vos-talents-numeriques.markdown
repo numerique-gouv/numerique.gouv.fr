@@ -86,8 +86,8 @@ text-decoration: underline;
 <img alt="Retour au menu" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
 </a>
 </div>
-</div> -->
 </div>
+</div> -->
 
 <br>
 <br>
