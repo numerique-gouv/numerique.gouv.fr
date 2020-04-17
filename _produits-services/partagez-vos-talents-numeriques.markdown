@@ -234,7 +234,7 @@ L'agent volontaire y consacre une petite partie de son temps de travail, sur une
 
 ### **Quel intérêt ?**
 
-Pour l'administration, c'est un moyen simple et souple de bénéficier ponctuellement d'une compétence numérique particulière dont elle ne dispose pas nécessairement au sein de son équipe.
+Pour l'administration, c'est un moyen simple et souple de bénéficier ponctuellement d'une compétence numérique particulière dont elle ne dispose pas nécessairement au sein de son équipe, ou en renfort.
 
 Un système de valorisation des services et agents contributeurs sera bâti au fil de l’expérimentation. 
 
