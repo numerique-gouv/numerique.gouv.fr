@@ -178,9 +178,9 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 
-<div align="center"><b>Voir les missions</b>
+<div align="center"><a href="#missions"><b>Voir les missions</b>
 <div class="flex-container">
-<a href="#missions"><i class="fas fa-angle-down icon-arrow-down"></i></a></div>
+<i class="fas fa-angle-down icon-arrow-down"></i></div></a>
 </div>
 <br>
 <br>
