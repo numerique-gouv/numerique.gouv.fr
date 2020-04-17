@@ -33,7 +33,7 @@ text-decoration: underline;
 }
 </style>
 
-> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis agent de l’État
+> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis agent de l’État
 >
 > Talent du numérique au sein de l’État, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <a class="lien-encadre" href="#comment-ca-marche-agents"><b>Découvrez les missions</b></a>.
 > <br>Si aucune ne vous intéresse, rejoignez simplement le vivier.
@@ -43,7 +43,7 @@ text-decoration: underline;
 > <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
 {: .exergue}
 
-> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis une administration
+> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis une administration
 > {: .margin-bottom-1}
 >
 > Besoin d'un appui ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? D'un renfort dans la gestion de crise Covid-19 actuelle ?
