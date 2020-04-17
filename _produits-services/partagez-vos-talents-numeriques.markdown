@@ -1,5 +1,5 @@
 ---
-title: Partagez vos talents numériques !
+title: Talents numériques de l’État
 date: 2020-04-08 12:16:00 +02:00
 chapeau-text: Proposé par la DINUM, le dispositif Partagez vos talents numériques
   met en relation des agents de l’État désireux de mettre leurs compétences ponctuellement
@@ -79,14 +79,14 @@ text-decoration: underline;
 <i class="fas fa-angle-down icon-arrow-down"></i>
 </div>
 </section>
-<div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
+<!-- <div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
 <div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
 <div class="cell grid-y" data-smooth-scroll>
 <a class="flex-container" href="#menu-talents">
 <img alt="Retour au menu" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
 </a>
 </div>
-</div>
+</div> -->
 </div>
 
 <br>
@@ -184,7 +184,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 <figure class='image-left' style='width: 10%;'>
-<img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;"/></figure><a id="missions"><h2><strong>Les missions proposées</strong></h2></a>
+<img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;"/></figure><a id="missions">## **Les missions proposées**</a>
 #### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
@@ -217,7 +217,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 <figure class='image-left' style='width: 10%;'>
-<img src="/uploads/comment_ca_marche_administrations.svg" style="margin-top: -20px;"/></figure><a id="comment-ca-marche-admin"><h2><strong>Comment ça marche pour les administrations ?</strong></h2></a>
+<img src="/uploads/comment_ca_marche_administrations.svg" style="margin-top: -20px;"/></figure><a id="comment-ca-marche-admin">## **Comment ça marche pour les administrations ?**</a>
 
 ### **Qu'est-ce que c'est ?**
 
