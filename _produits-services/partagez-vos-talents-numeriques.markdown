@@ -178,10 +178,10 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 
-<div align="center"><a href="#missions"><b>Voir les missions</b></a>
-<div class="flex-container"><a href="#missions">
-<i class="fas fa-angle-down icon-arrow-down"></i></a></div>
-</div>
+<div align="center"><a href="#missions"><b>Voir les missions</b></a></div>
+<div align="center"><div class="flex-container"><a href="#missions">
+<i class="fas fa-angle-down icon-arrow-down"></i></a></div></div>
+
 <br>
 <br>
 
