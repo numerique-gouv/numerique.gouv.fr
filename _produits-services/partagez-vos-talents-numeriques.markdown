@@ -228,7 +228,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 ### **Qu'est-ce que c'est ?**
 
-Proposé et piloté par la DINUM, le dispositif Partagez vos talents numériques ! permet à un service de l'Etat de bénéficier ponctuellement de l'appui d'un agent d'une autre administration spécialisé dans la tech, sur une mission spécifique.
+Proposé et piloté par la DINUM, le dispositif Partagez vos talents numériques ! permet à un service de l'État de bénéficier ponctuellement de l'appui d'un agent d'une autre administration spécialisé dans la tech, sur une mission spécifique.
 
 L'agent y consacre une petite partie de son temps de travail, sur une période définie, tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
 
