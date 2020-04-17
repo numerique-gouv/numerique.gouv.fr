@@ -184,7 +184,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 <figure class='image-left' style='width: 10%;'>
-<img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;"/></figure><a id="missions">## **Les missions proposées**</a>
+<img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;"/></figure>## **Les missions proposées**<a id="missions"></a>
 #### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
@@ -217,7 +217,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 <figure class='image-left' style='width: 10%;'>
-<img src="/uploads/comment_ca_marche_administrations.svg" style="margin-top: -20px;"/></figure><a id="comment-ca-marche-admin">## **Comment ça marche pour les administrations ?**</a>
+<img src="/uploads/comment_ca_marche_administrations.svg" style="margin-top: -20px;"/></figure>## **Comment ça marche pour les administrations ?**<a id="comment-ca-marche-admin"></a>
 
 ### **Qu'est-ce que c'est ?**
 
