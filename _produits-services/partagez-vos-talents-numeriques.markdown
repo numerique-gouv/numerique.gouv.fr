@@ -33,7 +33,7 @@ text-decoration: underline;
 }
 </style>
 
-> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis agent de l’État volontaire
+> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis agent de l’État
 >
 > Talent du numérique au sein de l’État, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <a class="lien-encadre" href="#comment-ca-marche-agents"><b>Découvrez les missions</b></a>.
 > <br>Si aucune ne vous intéresse, rejoignez simplement le vivier.
