@@ -57,7 +57,7 @@ text-decoration: underline;
 <br>
 
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3">
-<a href="#menu-talents"><h2 class="text-center font-bold">Au menu</h2></a>
+<h2 class="text-center font-bold">Au menu</h2>
 <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
 <a href="#comment-ca-marche-agents"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="Comment ça marche pour les agents" src="/uploads/comment_ca_marche_agents.svg">
