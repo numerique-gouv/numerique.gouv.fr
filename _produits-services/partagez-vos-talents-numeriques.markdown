@@ -165,9 +165,9 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.</li>
 <br>
-<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Vous remplissez et faites signer une déclaration d’activité accessoire à votre employeur actuel (télécharger le modèle d’activité accessoire)</li>
+<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Vous remplissez et faites signer une déclaration d’activité accessoire à votre employeur actuel (télécharger le modèle d’activité accessoire).</li>
 <br>
-<li><b>Un ordre de mission</b> est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission</li>
+<li><b>Un ordre de mission</b> est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission.</li>
 <br>
 <li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li></ol>
 <br>
@@ -257,11 +257,11 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 
 ### **Quelles sont les étapes ?**
 <ol>
-<li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...)</li>
+<li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...).</li>
 <br>
-<li><b>Vous saisissez</b> votre demande via <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9">notre formulaire en ligne</a></li>
+<li><b>Vous saisissez</b> votre demande via <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9">notre formulaire en ligne</a>.</li>
 <br>
-<li><b>Nous échangeons</b> si besoin ensemble pour finaliser votre fiche mission et la publions sur cette page</li>
+<li><b>Nous échangeons</b> si besoin ensemble pour finaliser votre fiche mission et la publions sur cette page.</li>
 <br>
 <li><b>Les agents intéressés peuvent y répondre</b> directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel ou via un outil collaboratif, ainsi que les profils des agents volontaires pour participer au dispositif d’une manière générale.</li>
 <br>
