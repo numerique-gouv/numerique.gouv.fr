@@ -91,8 +91,6 @@ text-decoration: underline;
 </div> 
 -->
 
-<br>
-<br>
 Le dispositif présenté ici est expérimenté selon les modalités validées par les directions du numérique ministérielles (DNUM) lors de la réunion de suivi du programme TECH.GOUV du 6 février 2020. À cette occasion, les DNUM ont donné leur accord pour que les agents qui le souhaitent s’auto-recensent dans le dispositif expérimental. Consultez la note d’encadrement du projet du DINUM.
 
 <br>
@@ -182,8 +180,8 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 <div align="center"><a href="#missions"><b>Voir les missions</b></a></div>
-<div align="center"><div class="flex-container"><a href="#missions">
-<i class="fas fa-angle-down icon-arrow-down"></i></a></div></div>
+<div align="center" class="flex-container"><p align="center"><a href="#missions">
+<i class="fas fa-angle-down icon-arrow-down"></i></a></p></div>
 
 <br>
 <br>
