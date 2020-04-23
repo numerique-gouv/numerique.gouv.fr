@@ -1,11 +1,11 @@
 ---
-title: Partagez vos talents numériques !
+title: Talents numériques de l’État
 date: 2020-04-08 12:16:00 +02:00
 published: false
-chapeau-text: Proposé par la DINUM, le dispositif Partagez vos talents numériques
-  met en relation des agents de l’État désireux de mettre leurs compétences ponctuellement
+chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numériques
+  !* met en relation des agents de l’État désireux de mettre leurs compétences ponctuellement
   au service d'autres administrations, et les services de l’État ayant un besoin d'expertise
-  numérique précis sur une période donnée.
+  numérique sur une période donnée.
 layout: rgaa
 ---
 
@@ -34,9 +34,9 @@ text-decoration: underline;
 }
 </style>
 
-> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis agent de l’État volontaire
+> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis agent de l’État
 >
-> Talent du numérique au sein de l’État, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <a class="lien-encadre" href="#comment-ca-marche-agents">Découvrez les missions</a>.
+> Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
 > <br>Si aucune ne vous intéresse, rejoignez simplement le vivier.
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a>
@@ -44,10 +44,10 @@ text-decoration: underline;
 > <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
 {: .exergue}
 
-> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png"/></figure>## Je suis une administration
+> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis une administration
 > {: .margin-bottom-1}
 >
-> Besoin d'un renfort ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ?
+> Besoin d'un appui ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? D'un renfort dans la gestion de crise Covid-19 actuelle ?
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
 > <br>
@@ -61,7 +61,7 @@ text-decoration: underline;
 <h2 class="text-center font-bold">Au menu</h2>
 <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
 <a href="#comment-ca-marche-agents"  class="cell nav-section grid-y medium-6 large-4 black-link">
-<img alt="Comment ça marche pour les agents" src="/assets/img/pictogrammes/Securiser_et_renforcer_le_systeme_dinformation_et_de_communication_de_letat.svg">
+<img alt="Comment ça marche pour les agents" src="/uploads/comment_ca_marche_agents.svg">
 <span class="h5 text-center">Comment ça marche pour les agents ?</span>
 <span class="button">Voir plus</span>
 </a>
@@ -71,29 +71,39 @@ text-decoration: underline;
 <span class="button">Voir plus</span>
 </a>
 <a href="#comment-ca-marche-admin"  class="cell nav-section grid-y medium-6 large-4 black-link">
-<img alt="Comment ça marche pour les administrations ?" src="/assets/img/pictogrammes/Ouvrir_partager_et_exploiter_les_donnees_pour_transformer_action_publique.svg">
+<img alt="Comment ça marche pour les administrations" src="/uploads/comment_ca_marche_administrations.svg">
 <span class="h5 text-center">Comment ça marche pour les administrations ?</span>
 <span class="button">Voir plus</span>
 </a>
 </nav>
+<!-- <div class="flex-container">
+<i class="fas fa-angle-down icon-arrow-down"></i>
+</div>
+-->
 </section>
+<!-- <div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
+<div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
+<div class="cell grid-y" data-smooth-scroll>
+<a class="flex-container" href="#menu-talents">
+<img alt="Retour au menu" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
+</a>
+</div>
+</div>
+</div> 
+-->
 
-### Au menu
-<br>
-<a href="#comment-ca-marche-agents">Comment ça marche pour les agents ?</a>
-<br>
-<a href="#missions">Les missions proposées</a>
-<br>
-<a href="#comment-ca-marche-admin">Comment ça marche pour les administrations ?</a>
+Le dispositif présenté ici est expérimenté selon les modalités validées par les directions du numérique ministérielles (DNUM) lors de la réunion de suivi du programme TECH.GOUV du 6 février 2020. À cette occasion, les DNUM ont donné leur accord pour que les agents qui le souhaitent s’auto-recensent dans le dispositif expérimental. Consultez la note d’encadrement du projet du DINUM.
 
 <br>
 <br>
 
-## **Comment ça marche pour les agents ?**<a id="comment-ca-marche-agents"></a>
+<figure class='image-left' style='width: 10%;'>
+<img src="/uploads/comment_ca_marche_agents.svg" style="margin-top: -15px;" alt="" id="comment-ca-marche-agents"/></figure>## **Comment ça marche pour les agents ?**
+{: .margin-bottom-1}
 
 ### **Qu'est-ce que c'est ?**
 
-Proposé et piloté par la DINUM, le dispositif Partagez vos talents numériques permet à un agent de l’État spécialiste de la tech de contribuer à des missions ponctuelles proposées par d’autres administrations que la sienne.
+Proposé et piloté par la DINUM, le dispositif *Partagez vos talents numériques !* permet à un agent de l’État de contribuer à des missions ponctuelles proposées dans d’autres administrations que la sienne.
 
 L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
 
@@ -112,29 +122,28 @@ Pour l'agent, c'est un moyen de varier les plaisirs !
 > * **Enrichir** votre parcours et votre réseau professionnel 
 > * **Découvrir** un nouveau secteur d’activité ou un nouvel écosystème
 > * **Se lancer** de nouveaux défis et sortir un peu de son quotidien
-> * **Intégrer la communauté** des talents numériques de l’État et valoriser vos compétences
+> * **Intégrer une communauté** de talents numériques de l’État et valoriser vos compétences
 {: .noir .encadre}
-
-Un système de valorisation des agents et services contributeurs sera bâti au fil de l’expérimentation. 
+ 
 
 ### **Quelles compétences sont recherchées ?**
-Vous pouvez partager vos talents dans des **domaines techniques pointus** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou des startup ou encore de l’innovation technologique.
+Vous pouvez partager vos talents dans des **domaines techniques** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou encore de l’innovation numérique.
 
 
-### **Quels types de missions sont proposées ?**
-Selon leurs besoins, la nature des missions proposées par les administrations peut concerner par ex :
+### **Quels types de missions sont proposés ?**
+Selon leurs besoins, la nature des missions proposées par les administrations peut prendre des formes diverses par ex :
 * un appui dans le cadre d’un projet : développement, design, audit, animation d’un atelier d’idéation...
 * un retour d’expérience, un transfert de compétences,
 * une étude, une mission de conseil...
 
-Chaque mission répond à un **besoin ponctuel** et est ainsi **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
+Chaque mission répondant à un **besoin ponctuel**, elle est  **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
-<a class="lien-important" href="#missions">Découvrir les missions proposées</a>
-
+> <a href="#missions">Découvrir les missions proposées</a>
+{: .lien-important}
 
 ### **Comment contribuer ?**
 
-2 façons de participer au dispositif :
+Deux façons de participer au dispositif en tant qu'agent :
 
 1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? Vous avez envie d'y contribuer ?
    <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Proposez vos compétences</b></a>
@@ -155,9 +164,9 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.</li>
 <br>
-<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Un accord tripartite entre vous, votre responsable hiérarchique et le responsable de la mission est signé pour entériner les attendus et les conditions de la mission.</li>
+<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Vous remplissez et faites signer une déclaration d’activité accessoire à votre employeur actuel (télécharger le modèle d’activité accessoire).</li>
 <br>
-<li><b>Un ordre de mission</b> est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission (cette modalité pourra être adaptée dans le cadre de la gestion de crise Covid-19)</li>
+<li><b>Un ordre de mission</b> est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission.</li>
 <br>
 <li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li></ol>
 <br>
@@ -170,75 +179,96 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 <br>
 <br>
+
+<div align="center"><a href="#missions"><b>Voir les missions</b></a></div>
+<div align="center" class="flex-container"><p align="center"><a href="#missions">
+<i class="fas fa-angle-down icon-arrow-down"></i></a></p></div>
+
+<br>
 <br>
 
-## **Les missions proposées**<a id="missions"></a>
-* **Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire**
-<br>*Ministère de l’éducation Nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Education nationale*
-<br>Compétences recherchées : UX / UI design - Revue de processus
-<br>Durée et période : fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.
-<br>Localisation : Paris 7e
-<br>[Détails de la mission (pdf - XX ko)](LIEN PDF)
-<br>**[> Cette mission m'intéresse, je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
+<hr>
 
+<br>
+<br>
+<br>
+
+<figure class='image-left' style='width: 10%;'>
+<img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;" alt="" id="missions"/></figure>## **Les missions proposées**
+#### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
+{: .margin-bottom-1}
+*Ministère de l’Éducation nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
+<ul><li><b>Compétences recherchées :</b> UX / UI design - Revue de processus</li>
+<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
+<li><b>Localisation :</b> Paris 7e</li>
+<li><b>[Détails de la mission (pdf - XX ko)](LIEN PDF)</b></li></ul>
+> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
+{: .lien-important}
+<br>
 
 #### Contribuer au développement de « Focus+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
-<br>*Ministère de l’éducation Nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Education nationale*
-<br>* Compétences recherchées : UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet
-<br>* Durée et période : fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.
-<br>* Localisation : Paris 7e
-<br>* [Détails de la mission (pdf - XX ko)](LIEN PDF)
-<br>**[> Cette mission m'intéresse, je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
-<br>
+{: .margin-bottom-1}
+*Ministère de l’Éducation nationale de de la Jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
+<ul><li><b>Compétences recherchées :</b> UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet</li>
+<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
+<li><b>Localisation :</b> Paris 7e</li>
+<li><b>[Détails de la mission (pdf - XX ko)](LIEN PDF)</b></li></ul>
+> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
+{: .lien-important}
+
 <br>
 <br>
 <br>
 
-## **Comment ça marche pour les administrations ?**<a id="comment-ca-marche-admin"></a>
+<hr>
+
+<br>
+<br>
+<br>
+
+<figure class='image-left' style='width: 10%;'>
+<img src="/uploads/comment_ca_marche_administrations.svg" alt="" id="comment-ca-marche-admin"/></figure>## **Comment ça marche pour les administrations ?**
 
 ### **Qu'est-ce que c'est ?**
 
-Proposé et piloté par la DINUM, le dispositif Talents numériques de l’État permet à un agent de l’État spécialiste de la tech de contribuer à des missions ponctuelles proposées par d’autres administrations que la sienne.
+Proposé et piloté par la DINUM, le dispositif *Partagez vos talents numériques !* permet à un service de l'État de bénéficier ponctuellement de l'appui d'un agent issu d'une autre administration, sur une mission spécifique, dans le domaine du numérique.
 
-L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
+L'agent volontaire y consacre une petite partie de son temps de travail, sur une période définie, tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
 
 ### **Quel intérêt ?**
 
-**Pour l'administration,** c'est un moyen simple et souple de bénéficier ponctuellement d'une compétence particulière dont elle ne dispose pas nécessairement au sein de son équipe.
-
-Un système de valorisation des services et agents contributeurs sera bâti au fil de l’expérimentation. 
+Pour l'administration, c'est un moyen simple et souple de bénéficier ponctuellement d'une compétence numérique particulière dont elle ne dispose pas nécessairement au sein de son équipe, ou en complément.
+ 
 
 ### **Quels types de compétences pouvez-vous demander ?**
-Développement, UX design, expertise en accessibilité numérique, architecture SI, Mareva 2, connaissances de tel langage informatique, droit du numérique...
+Développement, UX design, expertise en accessibilité numérique, architecture SI, Mareva 2, droit du numérique, expertise en durcissement de système...
 
-Vous pouvez solliciter des compétences très diverses, dans un **domaine technique pointu** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. 
+Vous pouvez solliciter des compétences très diverses, dans un **domaine technique** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. 
 
 ### **Quels types de missions proposer ?**
 
 **Un prérequis :** que la mission réponde à **un besoin ponctuel** et soit **délimitée dans le temps**. La durée et la fréquence peuvent aller de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
-En fonction de vos besoins, la nature des missions peut concerner, par ex :
-* un appui dans le cadre d’un projet : développement, design, audit, animation d’un atelier d’idéation...
-* un retour d’expérience, un transfert de compétences,
-* une étude, une mission de conseil...
+En fonction de vos besoins, vous pouvez proposer des missions de différentes natures, par ex :
+* **un appui dans le cadre d’un projet :** développement, design, audit, animation d’un atelier d’idéation...
+* **un retour d’expérience**, un **transfert de compétences**,
+* **une étude,** une mission de **conseil**...
 
 ### **Quelles sont les étapes ?**
 <ol>
-<li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...)</li>
-
-<li><b>**Vous saisissez</b> votre demande via notre formulaire en ligne</li>
-
-<li><b>**Nous échangeons</b> si besoin avec vous pour finaliser votre fiche mission et la publions sur cette page</li>
-
-<li><b>Les agents intéressés peuvent y répondre</b> directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel. 
-De notre côté, nous recherchons dans le vivier des profils présentant les compétences recherchées</li>
-
-<li><b>Vous êtes partants pour collaborer ensemble ?</b> L'agent fera établir une convention par son administration de rattachement</li>
-
+<li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...).</li>
+<br>
+<li><b>Vous saisissez</b> votre demande via <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9">notre formulaire en ligne</a>.</li>
+<br>
+<li><b>Nous échangeons</b> si besoin ensemble pour finaliser votre fiche mission et la publions sur cette page.</li>
+<br>
+<li><b>Les agents intéressés peuvent y répondre</b> directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel ou via un outil collaboratif, ainsi que les profils des agents volontaires pour participer au dispositif d’une manière générale.</li>
+<br>
+<li><b>Vous êtes partants pour collaborer ensemble ?</b> L'agent fera établir une autorisation de cumul d’activité avec sa hiérarchie et vous signerez ensemble une convention cadrant la mission (objectifs et attendus).</li>
+<br>
 <li><b>La mission peut commencer !</b></li></ol>
 <br>
 <br>
-<br>
-<br>
 
-<a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
+<div align="center">
+<a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a></div>
