@@ -6,6 +6,7 @@ tags:
 - Outils pour les agents
 - webconférence
 - visioconférence
+date_de_modification: 23 avril 2020
 chapeau-text: Dans cette période de crise et de télétravail massif, la DINUM a recensé
   des outils de webconférence recommandés pour les agents de l’État, en complément
   de la webconférence de l’État. Un tableau vous aidera à choisir la solution qui
