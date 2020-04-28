@@ -12,6 +12,8 @@ chapeau-text: '5 millions d’euros : c’est le montant accordé par la Loi de 
   politique publique. La 2ème édition en novembre 2019 avait permis d’aboutir au financement
   de 4 Startups d’État et de Territoires.Découvrez les lauréats de la 3ème édition
   et le lancement de la 4ème édition !'
+une-ou-diaporama:
+- image: "/uploads/candidatez_fast_4_decouvrez_laureats_Fast_3.jpeg"
 auteur: 'Etalab '
 redirect_to: https://blog.beta.gouv.fr/dinsic/2020/04/23/fast4/
 ---
