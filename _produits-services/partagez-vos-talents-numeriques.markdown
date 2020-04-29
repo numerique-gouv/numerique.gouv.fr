@@ -47,7 +47,7 @@ text-decoration: underline;
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a>
 > <br>
 > <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
-> {: .exergue}
+{: .exergue}
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis une administration
 > {: .margin-bottom-1}
@@ -57,7 +57,7 @@ text-decoration: underline;
 > <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
 > <br>
 > <a class="lien-encadre" href="#comment-ca-marche-admin"><i>Comment ça marche ?</i></a>
-> {: .exergue}
+{: .exergue}
 
 <br>
 <br>
