@@ -141,17 +141,15 @@ Pour l'agent, c'est un moyen de varier les plaisirs !
 
 ### **Quelles compétences sont recherchées ?**
 
-Vous pouvez partager vos talents dans des **domaines techniques **ou un **domaine métier ou transverse** (achat, juridique…) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou encore de l’innovation numérique.
+Vous pouvez partager vos talents dans des **domaines techniques** ou un **domaine métier ou transverse** (achat, juridique…) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou encore de l’innovation numérique.
 
 ### **Quels types de missions sont proposés ?**
 
 Selon leurs besoins, la nature des missions proposées par les administrations peut prendre des formes diverses par ex :
 
-* un appui dans le cadre d’un projet : développement, design, animation d’un atelier d’idéation, sécurisation…
-
-* un retour d’expérience, un transfert de compétences,
-
-* une étude, un audit, une mission de conseil…
+* **un appui dans le cadre d’un projet :** développement, design, animation d’un atelier d’idéation, sécurisation...
+* **un retour d’expérience**, un **transfert de compétences**,
+* **une étude,** un** audit**, une mission de **conseil**...
 
 Chaque mission répondant à un **besoin ponctuel**, elle est **délimitée dans le temps**. La durée comme la fréquence sont variables d’une mission à l’autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
@@ -273,10 +271,8 @@ Vous pouvez solliciter des compétences très diverses, dans un **domaine techni
 
 En fonction de vos besoins, vous pouvez proposer des missions de différentes natures, par ex :
 
-* **un appui dans le cadre d’un projet :** développement, design, audit, animation d’un atelier d’idéation, sécurisation...
-
+* **un appui dans le cadre d’un projet :** développement, design, animation d’un atelier d’idéation, sécurisation...
 * **un retour d’expérience**, un **transfert de compétences**,
-
 * **une étude,** un** audit**, une mission de **conseil**...
 
 ### **Quelles sont les étapes ?**
