@@ -6,10 +6,10 @@ categories:
 tags:
 - Talents numériques
 - Agents de l'État
-chapeau-text: 'La DINUM lance un dispositif de coopération inédit au sein de l’État
-  : *Partagez vos talents numériques ! *Le principe ? Les agents de l’État qui le
+chapeau-text: 'La DINUM lance un dispositif de coopération original au sein de l’État
+  : *Partagez vos talents numériques !*. Le principe ? Les agents de l’État qui le
   souhaitent peuvent ponctuellement mettre leurs compétences numériques au service
-  d’autres administrations ayant besoin d’un appui spécifique, temporaire.'
+  d’autres administrations ayant besoin d’un appui spécifique.'
 ---
 
 ## **Un dispositif de coopération interministérielle**
@@ -23,6 +23,7 @@ La DINUM vous propose un dispositif expérimental de **coopération interminist�
 Ce système de **partage ponctuel de compétences** donne à un agent de l’État la possibilité de consacrer **une petite partie de son temps de travail à un autre projet ou service** **de l’État,** tout en restant rattaché et rémunéré par sa structure d’emploi.
 
 Au regard de la crise majeure que nous rencontrons actuellement, la DINUM a choisi de lancer cette expérimentation dès maintenant. En tant qu’administration, vous pouvez ainsi saisir cette opportunité pour **bénéficier d’un appui dans la gestion de crise, **ou** pour fluidifier vos projets et activités habituels**, hors gestion de crise. Une plateforme dédiée sera mise en place dans un deuxième temps.
+<br>
 
 ## **Qui est concerné ? Quelle est la nature des missions ?**
 
@@ -30,16 +31,17 @@ Le dispositif est ouvert d’un côté** aux agents de l’État** volontaires -
 
 Le partage de compétences peut concerner des **expertises et domaines techniques **ou un **domaine métier ou transverse** (achat, juridique…) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, que du monde de la data ou encore de l’innovation numérique.
 
-Selon les besoins des administrations, la **nature des missions proposées** peut prendre des formes variées, par exemple un **appui dans le cadre d’un projet**, un **retour d’expérience**, un **transfert de compétences**, une mission de **conseil**.
+Selon les besoins des administrations, la **nature des missions proposées** peut prendre des formes variées, par exemple un **appui dans le cadre d’un projet**, un **retour d’expérience**, un **transfert de compétences**, une mission de **conseil, **le **développement d’un composant logiciel, **la **sécurisation **d’un dispositif numérique, ou encore** l’amélioration de l’ergonomie d’un service en ligne**.
 
-Avec un prérequis : la mission doit être délimitée dans le temps et répondre à un besoin ponctuel, de quelques heures en une fois à plusieurs jours répartis sur quelques mois.
+Avec un prérequis : la mission doit être délimitée dans le temps et répondre à un besoin ponctuel, de quelques heures à quelques jours répartis sur plusieurs mois.
 
-*Partagez vos talents numériques !* s’inscrit dans le cadre du [programme TECH.GOUV](https://numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique du service public et le plan d’actions DINUM-DGAFP consacrée à la filière métier numérique de l’État.
+*Partagez vos talents numériques !* s’inscrit dans le cadre du [programme TECH.GOUV](https://numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique du service public.
 
 **Pour toute question sur le dispositif, vous pouvez contacter la mission Talents de la DINUM, qui porte le dispositif : [talents.numeriques@modernisation.gouv.fr](mailto:talents.numeriques@modernisation.gouv.fr).**
 
-> [Accéder au dispositif ](/produits-services/partagez-vos-talents-numeriques/)[*Partagez vos talents numériques !*](/produits-services/partagez-vos-talents-numeriques/)
-{: .lien-important}
+> [Accéder au dispositif ](/produits-services/partagez-vos-talents-numeriques/)*[Partagez vos talents numériques !](/produits-services/partagez-vos-talents-numeriques/)*
+> {: .lien-important}
+<br>
 
 > #### 5 BONNES RAISONS
 >
