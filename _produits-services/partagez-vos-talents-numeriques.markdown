@@ -137,7 +137,7 @@ Pour l'agent, c'est un moyen de varier les plaisirs !
 > * **Se lancer** de nouveaux défis et sortir un peu de son quotidien
 >
 > * **Intégrer une communauté** de talents numériques de l’État et rendre vos compétences plus visibles
->   {: .noir .encadre}
+{: .noir .encadre}
 
 ### **Quelles compétences sont recherchées ?**
 
