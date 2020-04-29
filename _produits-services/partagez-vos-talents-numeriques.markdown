@@ -86,16 +86,16 @@ text-decoration: underline;
 </div>
 -->
 </section>
-<!-- <div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
+<div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
 <div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
 <div class="cell grid-y" data-smooth-scroll>
 <a class="flex-container" href="#menu-talents">
-<img alt="Retour au menu" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
+<img alt="Retour au menu" class="align-middle" src="/assets/img/pictogrammes/fleche_haut.svg">
 </a>
 </div>
 </div>
 </div>
--->
+
 
 Le dispositif Partagez vos talents numériques ! et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
 Consultez la note du DINUM cadrant le dispositif \[lien à venir\], validée par les ministères.
