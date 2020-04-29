@@ -37,12 +37,12 @@ text-decoration: underline;
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis agent de l’État
 >
 > Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
-> <br>Si aucune ne vous intéresse, rejoignez simplement le vivier.
+> <br>Si aucune de celles disponibles actuellement ne vous intéresse, rejoignez simplement le vivier.
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a>
 > <br>
 > <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
-{: .exergue}
+> {: .exergue}
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis une administration
 > {: .margin-bottom-1}
@@ -52,7 +52,7 @@ text-decoration: underline;
 > <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
 > <br>
 > <a class="lien-encadre" href="#comment-ca-marche-admin"><i>Comment ça marche ?</i></a>
-{: .exergue}
+> {: .exergue}
 
 <br>
 <br>
@@ -89,10 +89,11 @@ text-decoration: underline;
 </a>
 </div>
 </div>
-</div> 
+</div>
 -->
 
-Le dispositif présenté ici est expérimenté selon les modalités validées par les directions du numérique ministérielles (DNUM) lors de la réunion de suivi du programme TECH.GOUV du 6 février 2020. À cette occasion, les DNUM ont donné leur accord pour que les agents qui le souhaitent s’auto-recensent dans le dispositif expérimental. Consultez la note d’encadrement du projet du DINUM.
+Le dispositif Partagez vos talents numériques ! et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
+Consultez la note du DINUM cadrant le dispositif \[lien à venir\], validée par les ministères.
 
 <br>
 <br>
@@ -103,43 +104,54 @@ Le dispositif présenté ici est expérimenté selon les modalités validées pa
 
 ### **Qu'est-ce que c'est ?**
 
-Proposé et piloté par la DINUM, le dispositif *Partagez vos talents numériques !* permet à un agent de l’État de contribuer à des missions ponctuelles proposées dans d’autres administrations que la sienne.
+Proposé et piloté par la DINUM, le dispositif *Partagez vos talents numériques !* permet à un agent de l’État de contribuer à des missions ponctuelles dans d’autres administrations que la sienne.
 
-L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
+L’agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
 
 ### **Pour qui ?**
+
 Tous les **agents de l’État**, **fonctionnaires ou contractuels,** ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leurs talents.
 
 ### **Quel intérêt ?**
-Pour l'agent, c'est un moyen de varier les plaisirs ! 
+
+Pour l'agent, c'est un moyen de varier les plaisirs !
+
 > #### 5 BONNES RAISONS
+>
 > {: .text-center .margin-bottom-0 .margin-top-3}
 > de partager vos talents numériques
 > {: .text-center}
 > <br>
-> 
-> * **Donner un coup de pouce** à un projet ou un domaine qui a du sens pour vous ou **qui vous tient à cœur** 
-> * **Enrichir** votre parcours et votre réseau professionnel 
+>
+> * **Donner un coup de pouce** à un projet ou un domaine qui a du sens pour vous ou **qui vous tient à cœur**
+>
+> * **Enrichir** votre parcours et votre réseau professionnel
+>
 > * **Découvrir** un nouveau secteur d’activité ou un nouvel écosystème
+>
 > * **Se lancer** de nouveaux défis et sortir un peu de son quotidien
-> * **Intégrer une communauté** de talents numériques de l’État et valoriser vos compétences
-{: .noir .encadre}
- 
+>
+> * **Intégrer une communauté** de talents numériques de l’État et rendre vos compétences plus visibles
+>   {: .noir .encadre}
 
 ### **Quelles compétences sont recherchées ?**
-Vous pouvez partager vos talents dans des **domaines techniques** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou encore de l’innovation numérique.
 
+Vous pouvez partager vos talents dans des **domaines techniques **ou un **domaine métier ou transverse** (achat, juridique…) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou encore de l’innovation numérique.
 
 ### **Quels types de missions sont proposés ?**
-Selon leurs besoins, la nature des missions proposées par les administrations peut prendre des formes diverses par ex :
-* un appui dans le cadre d’un projet : développement, design, audit, animation d’un atelier d’idéation...
-* un retour d’expérience, un transfert de compétences,
-* une étude, une mission de conseil...
 
-Chaque mission répondant à un **besoin ponctuel**, elle est  **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
+Selon leurs besoins, la nature des missions proposées par les administrations peut prendre des formes diverses par ex :
+
+* un appui dans le cadre d’un projet : développement, design, audit, sécurisation, animation d’un atelier d’idéation…
+
+* un retour d’expérience, un transfert de compétences,
+
+* une étude, une mission de conseil…
+
+Chaque mission répondant à un **besoin ponctuel**, elle est **délimitée dans le temps**. La durée comme la fréquence sont variables d’une mission à l’autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
 > <a href="#missions">Découvrir les missions proposées</a>
-{: .lien-important}
+> {: .lien-important}
 
 ### **Comment contribuer ?**
 
@@ -149,8 +161,8 @@ Deux façons de participer au dispositif en tant qu'agent :
    <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Proposez vos compétences</b></a>
 
 2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions. Votre profil sera partagé à la communauté des responsables de missions qui pourront vous contacter si l'une d'elles vous correspond dans le futur.
-<br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
-<br>
+   <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
+   <br>
 
 Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ?
 **[Contactez-nous !](mailto:talents.numeriques@modernisation.gouv.fr)**
@@ -195,26 +207,31 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 <figure class='image-left' style='width: 10%;'>
 <img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;" alt="" id="missions"/></figure>## **Les missions proposées**
+
 #### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
+
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design - Revue de processus</li>
 <li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
 <li><b>Localisation :</b> Paris 7e</li>
-<li><b>[Détails de la mission (pdf - XX ko)](LIEN PDF)</b></li></ul>
-> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
-{: .lien-important}
-<br>
+<li><b>\[Détails de la mission (pdf - XX ko)\](LIEN PDF)</b></li></ul>
 
-#### Contribuer au développement de « Focus+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
+> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
+> {: .lien-important}
+> <br>
+
+#### Contribuer au développement de « Focus\+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
+
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de de la Jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet</li>
 <li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
 <li><b>Localisation :</b> Paris 7e</li>
-<li><b>[Détails de la mission (pdf - XX ko)](LIEN PDF)</b></li></ul>
+<li><b>\[Détails de la mission (pdf - XX ko)\](LIEN PDF)</b></li></ul>
+
 > **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
-{: .lien-important}
+> {: .lien-important}
 
 <br>
 <br>
@@ -238,23 +255,27 @@ L'agent volontaire y consacre une petite partie de son temps de travail, sur une
 ### **Quel intérêt ?**
 
 Pour l'administration, c'est un moyen simple et souple de bénéficier ponctuellement d'une compétence numérique particulière dont elle ne dispose pas nécessairement au sein de son équipe, ou en complément.
- 
 
 ### **Quels types de compétences pouvez-vous demander ?**
+
 Développement, UX design, expertise en accessibilité numérique, architecture SI, Mareva 2, droit du numérique, expertise en durcissement de système...
 
-Vous pouvez solliciter des compétences très diverses, dans un **domaine technique** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. 
+Vous pouvez solliciter des compétences très diverses, dans un **domaine technique** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique.
 
 ### **Quels types de missions proposer ?**
 
 **Un prérequis :** que la mission réponde à **un besoin ponctuel** et soit **délimitée dans le temps**. La durée et la fréquence peuvent aller de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
 En fonction de vos besoins, vous pouvez proposer des missions de différentes natures, par ex :
+
 * **un appui dans le cadre d’un projet :** développement, design, audit, animation d’un atelier d’idéation...
+
 * **un retour d’expérience**, un **transfert de compétences**,
+
 * **une étude,** une mission de **conseil**...
 
 ### **Quelles sont les étapes ?**
+
 <ol>
 <li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...).</li>
 <br>
