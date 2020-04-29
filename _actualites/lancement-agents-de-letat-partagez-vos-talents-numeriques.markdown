@@ -1,6 +1,11 @@
 ---
 title: "[Lancement] Agents de l’État, partagez vos talents numériques !"
 date: 2020-04-29 15:51:00 +02:00
+categories:
+- Article
+tags:
+- Talents numériques
+- Agents de l'État
 chapeau-text: 'La DINUM lance un dispositif de coopération inédit au sein de l’État
   : *Partagez vos talents numériques ! *Le principe ? Les agents de l’État qui le
   souhaitent peuvent ponctuellement mettre leurs compétences numériques au service
