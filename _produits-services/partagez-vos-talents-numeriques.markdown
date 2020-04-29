@@ -122,7 +122,6 @@ Tous les **agents de l’État**, **fonctionnaires ou contractuels,** ayant des 
 Pour l'agent, c'est un moyen de varier les plaisirs !
 
 > #### 5 BONNES RAISONS
->
 > {: .text-center .margin-bottom-0 .margin-top-3}
 > de partager vos talents numériques
 > {: .text-center}
