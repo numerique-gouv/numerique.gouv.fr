@@ -1,7 +1,6 @@
 ---
 title: Talents numériques de l’État
 date: 2020-04-08 12:16:00 +02:00
-published: false
 chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numériques
   !* met en relation des agents de l’État désireux de mettre leurs compétences ponctuellement
   au service d'autres administrations, et les services de l’État ayant un besoin d'expertise
@@ -170,15 +169,13 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 ### **Que se passe-t-il après mon inscription ?**
 
 <ol>
-<li><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra sous 2 semaines.
+<li><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra dans les meilleurs délais.
 <br>
 <b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</li>
 <br>
 <li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.</li>
 <br>
-<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Vous remplissez et faites signer une déclaration d’activité accessoire à votre employeur actuel (télécharger le modèle d’activité accessoire).</li>
-<br>
-<li><b>Un ordre de mission</b> est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission.</li>
+<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Nous vous accompagnons dans la formalisation d’un document qui encadrera la mission, à établir en commun avec votre supérieur et l’administration d’accueil.</li>
 <br>
 <li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li></ol>
 <br>
