@@ -1,6 +1,12 @@
 ---
-title: Talents numériques de l’État
+title: Partagez vos talents numériques !
 date: 2020-04-08 12:16:00 +02:00
+tags:
+- Service
+- offre de services
+- Talents numériques
+- Partagez vos talents numériques !
+- Agents de l'État
 chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numériques
   !* met en relation des agents de l’État désireux de mettre leurs compétences ponctuellement
   au service d'autres administrations, et les services de l’État ayant un besoin d'expertise
@@ -245,19 +251,21 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 ### **Qu'est-ce que c'est ?**
 
-Proposé et piloté par la DINUM, le dispositif *Partagez vos talents numériques !* permet à un service de l'État de bénéficier ponctuellement de l'appui d'un agent issu d'une autre administration, sur une mission spécifique, dans le domaine du numérique.
+Proposé et piloté par la DINUM, le dispositif *Partagez vos talents numériques !* permet à un service de l’État de bénéficier ponctuellement de l’appui d’un agent issu d’une autre administration, sur une mission spécifique, dans le domaine du numérique.
 
-L'agent volontaire y consacre une petite partie de son temps de travail, sur une période définie, tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
+L’agent volontaire y consacre une petite partie de son temps de travail, sur une période définie, tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
 
 ### **Quel intérêt ?**
 
-Pour l'administration, c'est un moyen simple et souple de bénéficier ponctuellement d'une compétence numérique particulière dont elle ne dispose pas nécessairement au sein de son équipe, ou en complément.
+Pour l’administration, c’est un moyen simple et souple de bénéficier ponctuellement d’une compétence numérique particulière dont elle ne dispose pas nécessairement au sein de son équipe, ou en complément.
+
+Un système de valorisation des services contributeurs sera bâti au fil de l’expérimentation.
 
 ### **Quels types de compétences pouvez-vous demander ?**
 
-Développement, UX design, expertise en accessibilité numérique, architecture SI, Mareva 2, droit du numérique, expertise en durcissement de système...
+Développement, UX design, expertise en accessibilité numérique, architecture SI, Mareva 2, droit du numérique, expertise en durcissement de système…
 
-Vous pouvez solliciter des compétences très diverses, dans un **domaine technique** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique.
+Vous pouvez solliciter des compétences très diverses, dans un **domaine technique **ou un **domaine métier ou transverse** (achat, juridique…) en lien avec le numérique.
 
 ### **Quels types de missions proposer ?**
 
@@ -265,11 +273,11 @@ Vous pouvez solliciter des compétences très diverses, dans un **domaine techni
 
 En fonction de vos besoins, vous pouvez proposer des missions de différentes natures, par ex :
 
-* **un appui dans le cadre d’un projet :** développement, design, audit, animation d’un atelier d’idéation...
+* **un appui dans le cadre d’un projet :** développement, design, audit, animation d’un atelier d’idéation, sécurisation...
 
 * **un retour d’expérience**, un **transfert de compétences**,
 
-* **une étude,** une mission de **conseil**...
+* **une étude,** un** audit**, une mission de **conseil**...
 
 ### **Quelles sont les étapes ?**
 
@@ -282,7 +290,7 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 <br>
 <li><b>Les agents intéressés peuvent y répondre</b> directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel ou via un outil collaboratif, ainsi que les profils des agents volontaires pour participer au dispositif d’une manière générale.</li>
 <br>
-<li><b>Vous êtes partants pour collaborer ensemble ?</b> L'agent fera établir une autorisation de cumul d’activité avec sa hiérarchie et vous signerez ensemble une convention cadrant la mission (objectifs et attendus).</li>
+<li><b>Vous êtes partants pour collaborer ensemble ?</b> Nous vous accompagnons dans la formalisation d’un document qui encadrera la mission, à établir en commun avec l’agent et son supérieur.</li>
 <br>
 <li><b>La mission peut commencer !</b></li></ol>
 <br>
