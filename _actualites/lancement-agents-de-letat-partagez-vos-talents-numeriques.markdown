@@ -16,9 +16,9 @@ une-ou-diaporama:
 
 ## Un dispositif de coopération interministérielle
 
-Agents de l’État : vous aimeriez partager vos compétences numériques ? Contribuer à un projet ou service numériques d’une autre administration ?
+**Agents de l’État :** vous aimeriez partager vos compétences numériques ? Contribuer à un projet ou service numériques d’une autre administration ?
 
-Services de l’État : vous recherchez une expertise numérique pour vous appuyer dans vos projets ou dans la gestion de la crise liée au Covid-19 ?
+**Services de l’État :** vous recherchez une expertise numérique pour vous appuyer dans vos projets ou dans la gestion de la crise liée au Covid-19 ?
 
 La DINUM vous propose un dispositif expérimental de **coopération interministérielle** : *Partagez vos talents numériques !*
 
