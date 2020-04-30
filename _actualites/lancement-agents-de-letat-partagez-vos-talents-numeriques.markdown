@@ -40,6 +40,7 @@ Avec un prérequis : la mission doit être délimitée dans le temps et répondr
 *Partagez vos talents numériques !* s’inscrit dans le cadre du [programme TECH.GOUV](https://numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique du service public.
 
 **Pour toute question sur le dispositif, vous pouvez contacter la mission Talents de la DINUM, qui porte le dispositif : [talents.numeriques@modernisation.gouv.fr](mailto:talents.numeriques@modernisation.gouv.fr).**
+<br>
 
 <div align="center">
 <a href="/produits-services/partagez-vos-talents-numeriques/" class="button">Accéder au dispositif</a></div>
@@ -47,8 +48,7 @@ Avec un prérequis : la mission doit être délimitée dans le temps et répondr
 <br>
 
 > #### Agents de l'État,
-> {: .text-center .margin-bottom-0 .margin-top-3}
-> #### 5 BONNES RAISONS
+> <br>5 BONNES RAISONS
 > {: .text-center .margin-bottom-0 .margin-top-0}
 > de partager vos talents numériques
 > {: .text-center}
