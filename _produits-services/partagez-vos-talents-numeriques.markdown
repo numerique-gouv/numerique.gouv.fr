@@ -262,7 +262,7 @@ Un système de valorisation des services contributeurs sera bâti au fil de l’
 
 Développement, UX design, expertise en accessibilité numérique, architecture SI, Mareva 2, droit du numérique, expertise en durcissement de système…
 
-Vous pouvez solliciter des compétences très diverses, dans un **domaine technique **ou un **domaine métier ou transverse** (achat, juridique…) en lien avec le numérique.
+Vous pouvez solliciter des compétences très diverses, dans un **domaine technique** ou un **domaine métier ou transverse** (achat, juridique…) en lien avec le numérique.
 
 ### **Quels types de missions proposer ?**
 
