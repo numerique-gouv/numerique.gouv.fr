@@ -15,7 +15,7 @@ layout: rgaa
 ---
 
 <style>
-.button {
+.button-talents {
 background-color: #0d5c98;
 border: 1px solid white;
 color: white;
@@ -44,7 +44,7 @@ text-decoration: underline;
 > Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
 > <br>Si aucune de celles disponibles actuellement ne vous intéresse, rejoignez simplement le vivier.
 >
-> <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a>
+> <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button-talents">Proposer mes compétences</a>
 > <br>
 > <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
 {: .exergue}
@@ -54,7 +54,7 @@ text-decoration: underline;
 >
 > Besoin d'un appui ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? D'un renfort dans la gestion de crise Covid-19 actuelle ?
 >
-> <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
+> <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button-talents">Proposer une mission</a>
 > <br>
 > <a class="lien-encadre" href="#comment-ca-marche-admin"><i>Comment ça marche ?</i></a>
 {: .exergue}
@@ -68,17 +68,17 @@ text-decoration: underline;
 <a href="#comment-ca-marche-agents"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="Comment ça marche pour les agents" src="/uploads/comment_ca_marche_agents.svg">
 <span class="h5 text-center">Comment ça marche pour les agents ?</span>
-<span class="button">Voir plus</span>
+<span class="button-talents">Voir plus</span>
 </a>
 <a href="#missions"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="Missions proposées" src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg">
 <span class="h5 text-center">Missions proposées</span>
-<span class="button">Voir plus</span>
+<span class="button-talents">Voir plus</span>
 </a>
 <a href="#comment-ca-marche-admin"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="Comment ça marche pour les administrations" src="/uploads/comment_ca_marche_administrations.svg">
 <span class="h5 text-center">Comment ça marche pour les administrations ?</span>
-<span class="button">Voir plus</span>
+<span class="button-talents">Voir plus</span>
 </a>
 </nav>
 <!-- <div class="flex-container">
@@ -187,7 +187,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <div align="center">
 <b>Prêt/Prête ?</b>
 <br>
-<a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a></div>
+<a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button-talents">Proposer mes compétences</a></div>
 
 <br>
 <br>
@@ -292,4 +292,4 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 <br>
 
 <div align="center">
-<a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a></div>
+<a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button-talents">Proposer une mission</a></div>
