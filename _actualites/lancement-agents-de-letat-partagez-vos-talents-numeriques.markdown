@@ -14,7 +14,7 @@ une-ou-diaporama:
 - image: "/uploads/Actu_partagez-vos-talents-Une.jpg"
 ---
 
-## **Un dispositif de coopération interministérielle**
+## Un dispositif de coopération interministérielle
 
 Agents de l’État : vous aimeriez partager vos compétences numériques ? Contribuer à un projet ou service numériques d’une autre administration ?
 
@@ -24,16 +24,16 @@ La DINUM vous propose un dispositif expérimental de **coopération interminist�
 
 Ce système de **partage ponctuel de compétences** donne à un agent de l’État la possibilité de consacrer **une petite partie de son temps de travail à un autre projet ou service** **de l’État,** tout en restant rattaché et rémunéré par sa structure d’emploi.
 
-Au regard de la crise majeure que nous rencontrons actuellement, la DINUM a choisi de lancer cette expérimentation dès maintenant. En tant qu’administration, vous pouvez ainsi saisir cette opportunité pour **bénéficier d’un appui dans la gestion de crise, **ou** pour fluidifier vos projets et activités habituels**, hors gestion de crise. Une plateforme dédiée sera mise en place dans un deuxième temps.
+Au regard de la crise majeure que nous rencontrons actuellement, la DINUM a choisi de lancer cette expérimentation dès maintenant. En tant qu’administration, vous pouvez ainsi saisir cette opportunité pour **bénéficier d’un appui dans la gestion de crise**, ou pour **fluidifier vos projets et activités habituels**, hors gestion de crise. Une plateforme dédiée sera mise en place dans un deuxième temps.
 <br>
 
-## **Qui est concerné ? Quelle est la nature des missions ?**
+## Qui est concerné ? Quelle est la nature des missions ?
 
-Le dispositif est ouvert d’un côté** aux agents de l’État** volontaires - contractuels et fonctionnaires, et de l’autre** aux services de l’État**.
+Le dispositif est ouvert d’un côté **aux agents de l’État** volontaires - contractuels et fonctionnaires, et de l’autre **aux services de l’État**.
 
-Le partage de compétences peut concerner des **expertises et domaines techniques **ou un **domaine métier ou transverse** (achat, juridique…) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, que du monde de la data ou encore de l’innovation numérique.
+Le partage de compétences peut concerner des **expertises et domaines techniques** ou un **domaine métier ou transverse** (achat, juridique…) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, que du monde de la data ou encore de l’innovation numérique.
 
-Selon les besoins des administrations, la **nature des missions proposées** peut prendre des formes variées, par exemple un **appui dans le cadre d’un projet**, un **retour d’expérience**, un **transfert de compétences**, une mission de **conseil, **le **développement d’un composant logiciel, **la **sécurisation **d’un dispositif numérique, ou encore** l’amélioration de l’ergonomie d’un service en ligne**.
+Selon les besoins des administrations, la **nature des missions proposées** peut prendre des formes variées, par exemple un **appui dans le cadre d’un projet**, un **retour d’expérience**, un **transfert de compétences**, une mission de **conseil**, le **développement d’un composant logiciel**, la **sécurisation** d’un dispositif numérique, ou encore l’**amélioration de l’ergonomie** d’un service en ligne.
 
 Avec un prérequis : la mission doit être délimitée dans le temps et répondre à un besoin ponctuel, de quelques heures à quelques jours répartis sur plusieurs mois.
 
