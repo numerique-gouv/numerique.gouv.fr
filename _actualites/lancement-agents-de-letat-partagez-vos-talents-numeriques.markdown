@@ -41,8 +41,8 @@ Avec un prérequis : la mission doit être délimitée dans le temps et répondr
 
 **Pour toute question sur le dispositif, vous pouvez contacter la mission Talents de la DINUM, qui porte le dispositif : [talents.numeriques@modernisation.gouv.fr](mailto:talents.numeriques@modernisation.gouv.fr).**
 
-> [Accéder au dispositif ](/produits-services/partagez-vos-talents-numeriques/)*[Partagez vos talents numériques !](/produits-services/partagez-vos-talents-numeriques/)*
-> {: .lien-important}
+> [Accéder au dispositif *Partagez vos talents numériques !*](/produits-services/partagez-vos-talents-numeriques/)*
+{: .lien-important}
 <br>
 
 > #### 5 BONNES RAISONS
