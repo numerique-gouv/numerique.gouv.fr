@@ -10,6 +10,8 @@ chapeau-text: 'La DINUM lance un dispositif de coopération original au sein de 
   : *Partagez vos talents numériques !*. Le principe ? Les agents de l’État qui le
   souhaitent peuvent ponctuellement mettre leurs compétences numériques au service
   d’autres administrations ayant besoin d’un appui spécifique.'
+une-ou-diaporama:
+- image: "/uploads/Actu_partagez-vos-talents-Une.jpg"
 ---
 
 ## **Un dispositif de coopération interministérielle**
