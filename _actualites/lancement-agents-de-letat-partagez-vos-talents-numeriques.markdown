@@ -44,8 +44,6 @@ Avec un prérequis : la mission doit être délimitée dans le temps et répondr
 <div align="center">
 <a href="/produits-services/partagez-vos-talents-numeriques/" class="button">Accéder au dispositif</a></div>
 
-> [Accéder au dispositif](/produits-services/partagez-vos-talents-numeriques/)*
-{: .lien-important}
 <br>
 
 > #### Agents de l'État,
