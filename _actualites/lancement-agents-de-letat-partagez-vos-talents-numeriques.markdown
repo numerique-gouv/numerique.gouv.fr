@@ -7,7 +7,7 @@ tags:
 - Talents numériques
 - Agents de l'État
 chapeau-text: 'La DINUM lance un dispositif de coopération original au sein de l’État
-  : *Partagez vos talents numériques !*. Le principe ? Les agents de l’État qui le
+  : *Partagez vos talents numériques !* Le principe ? Les agents de l’État qui le
   souhaitent peuvent ponctuellement mettre leurs compétences numériques au service
   d’autres administrations ayant besoin d’un appui spécifique.'
 une-ou-diaporama:
@@ -48,7 +48,7 @@ Avec un prérequis : la mission doit être délimitée dans le temps et répondr
 <br>
 
 > #### Agents de l'État,
-{: .text-center .margin-bottom-0 .margin-top-0}
+> {: .text-center .margin-bottom-0 .margin-top-0}
 > <br>5 BONNES RAISONS
 > {: .text-center .margin-bottom-0 .margin-top-0}
 > de partager vos talents numériques
