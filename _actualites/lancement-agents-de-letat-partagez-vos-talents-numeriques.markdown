@@ -45,9 +45,10 @@ Avec un prérequis : la mission doit être délimitée dans le temps et répondr
 {: .lien-important}
 <br>
 
-> #### 5 BONNES RAISONS
->
+> #### Agents de l'État,
 > {: .text-center .margin-bottom-0 .margin-top-3}
+> 5 BONNES RAISONS
+> {: .text-center .margin-bottom-0 .margin-top-0}
 > de partager vos talents numériques
 > {: .text-center}
 > <br>
