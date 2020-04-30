@@ -219,7 +219,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 > **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
 {: .lien-important}
-> <br>
+<br>
 
 #### Contribuer au développement de « Focus\+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
 
