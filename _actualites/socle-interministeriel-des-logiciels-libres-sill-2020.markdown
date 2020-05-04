@@ -12,6 +12,8 @@ chapeau-text: 'Le socle interministériel des logiciels libres (SILL) 2020 est p
   Ce catalogue de référence des logiciels libres pour les administrations est le fruit
   d’une collaboration fructueuse d’agents publics informaticiens, avec l’appui de
   la direction interministérielle du numérique (DINUM). '
+une-ou-diaporama:
+- image: "/uploads/logiciels_libres4.jpg"
 ---
 
 ## Qu’est-ce-que le socle interministériel des logiciels libres ?
