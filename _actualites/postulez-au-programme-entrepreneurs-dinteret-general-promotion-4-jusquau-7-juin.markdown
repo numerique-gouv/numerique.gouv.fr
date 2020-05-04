@@ -2,6 +2,12 @@
 title: Postulez au programme Entrepreneurs d’Intérêt Général – promotion 4  –  jusqu'au
   7 juin !
 date: 2020-05-04 16:29:00 +02:00
+categories:
+- Appel à candidatures
+tags:
+- EIG
+- Entrepreneurs d’intérêt général
+- Appel à candidatures
 chapeau-text: |-
   Vous êtes spécialiste en data science, développement, design, data engineering ou géomatique ? Rejoignez la quatrième promotion du programme Entrepreneurs d’Intérêt Général !
 
