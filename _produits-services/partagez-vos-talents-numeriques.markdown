@@ -1,11 +1,18 @@
 ---
-title: Talents numériques de l’État
+title: Partagez vos talents numériques !
 date: 2020-04-08 12:16:00 +02:00
-published: false
+tags:
+- Service
+- offre de services
+- Talents numériques
+- Partagez vos talents numériques !
+- Agents de l'État
 chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numériques
   !* met en relation des agents de l’État désireux de mettre leurs compétences ponctuellement
   au service d'autres administrations, et les services de l’État ayant un besoin d'expertise
   numérique sur une période donnée.
+une:
+  image: "/uploads/2020_05_04_bandeau_produit_service_Talents_V2.png"
 layout: rgaa
 ---
 
@@ -37,7 +44,7 @@ text-decoration: underline;
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis agent de l’État
 >
 > Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
-> <br>Si aucune ne vous intéresse, rejoignez simplement le vivier.
+> <br>Si aucune de celles disponibles actuellement ne vous intéresse, rejoignez simplement le vivier.
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a>
 > <br>
@@ -81,18 +88,19 @@ text-decoration: underline;
 </div>
 -->
 </section>
-<!-- <div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
+<div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
 <div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
 <div class="cell grid-y" data-smooth-scroll>
 <a class="flex-container" href="#menu-talents">
-<img alt="Retour au menu" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
+<img alt="Retour au menu" class="align-middle" src="/assets/img/pictogrammes/fleche_haut.svg">
 </a>
 </div>
 </div>
-</div> 
--->
+</div>
 
-Le dispositif présenté ici est expérimenté selon les modalités validées par les directions du numérique ministérielles (DNUM) lors de la réunion de suivi du programme TECH.GOUV du 6 février 2020. À cette occasion, les DNUM ont donné leur accord pour que les agents qui le souhaitent s’auto-recensent dans le dispositif expérimental. Consultez la note d’encadrement du projet du DINUM.
+
+Le dispositif *Partagez vos talents numériques !* et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
+[Consultez la note du DINUM cadrant le dispositif](/uploads/Note-DINUM_partagez-vos-talents-numeriques.pdf), validée par les ministères.
 
 <br>
 <br>
@@ -103,40 +111,48 @@ Le dispositif présenté ici est expérimenté selon les modalités validées pa
 
 ### **Qu'est-ce que c'est ?**
 
-Proposé et piloté par la DINUM, le dispositif *Partagez vos talents numériques !* permet à un agent de l’État de contribuer à des missions ponctuelles proposées dans d’autres administrations que la sienne.
+Proposé et piloté par la DINUM, le dispositif *Partagez vos talents numériques !* permet à un agent de l’État de contribuer à des missions ponctuelles dans d’autres administrations que la sienne.
 
-L'agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
+L’agent peut ainsi consacrer une petite partie de son temps de travail, sur une période définie, à un autre projet ou service de l’État tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
 
 ### **Pour qui ?**
+
 Tous les **agents de l’État**, **fonctionnaires ou contractuels,** ayant des compétences et des savoirs dans le domaine du numérique peuvent participer au dispositif et proposer leurs talents.
 
 ### **Quel intérêt ?**
-Pour l'agent, c'est un moyen de varier les plaisirs ! 
+
+Pour l'agent, c'est un moyen de varier les plaisirs !
+
 > #### 5 BONNES RAISONS
 > {: .text-center .margin-bottom-0 .margin-top-3}
 > de partager vos talents numériques
 > {: .text-center}
 > <br>
-> 
-> * **Donner un coup de pouce** à un projet ou un domaine qui a du sens pour vous ou **qui vous tient à cœur** 
-> * **Enrichir** votre parcours et votre réseau professionnel 
+>
+> * **Donner un coup de pouce** à un projet ou un domaine qui a du sens pour vous ou **qui vous tient à cœur**
+>
+> * **Enrichir** votre parcours et votre réseau professionnel
+>
 > * **Découvrir** un nouveau secteur d’activité ou un nouvel écosystème
+>
 > * **Se lancer** de nouveaux défis et sortir un peu de son quotidien
-> * **Intégrer une communauté** de talents numériques de l’État et valoriser vos compétences
+>
+> * **Intégrer une communauté** de talents numériques de l’État et rendre vos compétences plus visibles
 {: .noir .encadre}
- 
 
 ### **Quelles compétences sont recherchées ?**
-Vous pouvez partager vos talents dans des **domaines techniques** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou encore de l’innovation numérique.
 
+Vous pouvez partager vos talents dans des **domaines techniques** ou un **domaine métier ou transverse** (achat, juridique…) en lien avec le numérique. Il peut tout autant relever des systèmes d’information traditionnels, du monde de la data ou encore de l’innovation numérique.
 
 ### **Quels types de missions sont proposés ?**
-Selon leurs besoins, la nature des missions proposées par les administrations peut prendre des formes diverses par ex :
-* un appui dans le cadre d’un projet : développement, design, audit, animation d’un atelier d’idéation...
-* un retour d’expérience, un transfert de compétences,
-* une étude, une mission de conseil...
 
-Chaque mission répondant à un **besoin ponctuel**, elle est  **délimitée dans le temps**. La durée comme la fréquence sont variables d'une mission à l'autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
+Selon leurs besoins, la nature des missions proposées par les administrations peut prendre des formes diverses par ex :
+
+* **un appui dans le cadre d’un projet :** développement, design, animation d’un atelier d’idéation, sécurisation...
+* **un retour d’expérience**, un **transfert de compétences**,
+* **une étude,** un **audit**, une mission de **conseil...**
+
+Chaque mission répondant à un **besoin ponctuel**, elle est **délimitée dans le temps**. La durée comme la fréquence sont variables d’une mission à l’autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
 > <a href="#missions">Découvrir les missions proposées</a>
 {: .lien-important}
@@ -149,8 +165,8 @@ Deux façons de participer au dispositif en tant qu'agent :
    <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Proposez vos compétences</b></a>
 
 2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions. Votre profil sera partagé à la communauté des responsables de missions qui pourront vous contacter si l'une d'elles vous correspond dans le futur.
-<br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
-<br>
+   <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
+   <br>
 
 Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ?
 **[Contactez-nous !](mailto:talents.numeriques@modernisation.gouv.fr)**
@@ -158,15 +174,13 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 ### **Que se passe-t-il après mon inscription ?**
 
 <ol>
-<li><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra sous 2 semaines.
+<li><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra dans les meilleurs délais.
 <br>
 <b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</li>
 <br>
 <li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.</li>
 <br>
-<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Vous remplissez et faites signer une déclaration d’activité accessoire à votre employeur actuel (télécharger le modèle d’activité accessoire).</li>
-<br>
-<li><b>Un ordre de mission</b> est établi par votre administration afin de sécuriser votre position administrative pour la durée de la mission.</li>
+<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Nous vous accompagnons dans la formalisation d’un document qui encadrera la mission, à établir en commun avec votre supérieur et l’administration d’accueil.</li>
 <br>
 <li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li></ol>
 <br>
@@ -195,24 +209,29 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 <figure class='image-left' style='width: 10%;'>
 <img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;" alt="" id="missions"/></figure>## **Les missions proposées**
+
 #### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
+
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design - Revue de processus</li>
 <li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
 <li><b>Localisation :</b> Paris 7e</li>
-<li><b>[Détails de la mission (pdf - XX ko)](LIEN PDF)</b></li></ul>
+<li><b><a href="/uploads/mission_decrochage-scolaire.pdf">Détails de la mission (pdf - 240 ko)</a></b></li></ul>
+
 > **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
 {: .lien-important}
 <br>
 
-#### Contribuer au développement de « Focus+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
+#### Contribuer au développement de « Focus\+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
+
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de de la Jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet</li>
 <li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
 <li><b>Localisation :</b> Paris 7e</li>
-<li><b>[Détails de la mission (pdf - XX ko)](LIEN PDF)</b></li></ul>
+<li><b><a href="/uploads/mission-focus.pdf">Détails de la mission (pdf - 280 ko)</a></b></li></ul>
+
 > **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
 {: .lien-important}
 
@@ -231,30 +250,34 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 ### **Qu'est-ce que c'est ?**
 
-Proposé et piloté par la DINUM, le dispositif *Partagez vos talents numériques !* permet à un service de l'État de bénéficier ponctuellement de l'appui d'un agent issu d'une autre administration, sur une mission spécifique, dans le domaine du numérique.
+Proposé et piloté par la DINUM, le dispositif *Partagez vos talents numériques !* permet à un service de l’État de bénéficier ponctuellement de l’appui d’un agent issu d’une autre administration, sur une mission spécifique, dans le domaine du numérique.
 
-L'agent volontaire y consacre une petite partie de son temps de travail, sur une période définie, tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
+L’agent volontaire y consacre une petite partie de son temps de travail, sur une période définie, tout en restant rattaché et rémunéré par sa structure d’emploi habituelle.
 
 ### **Quel intérêt ?**
 
-Pour l'administration, c'est un moyen simple et souple de bénéficier ponctuellement d'une compétence numérique particulière dont elle ne dispose pas nécessairement au sein de son équipe, ou en complément.
- 
+Pour l’administration, c’est un moyen simple et souple de bénéficier ponctuellement d’une compétence numérique particulière dont elle ne dispose pas nécessairement au sein de son équipe, ou en complément.
+
+Un système de valorisation des services contributeurs sera bâti au fil de l’expérimentation.
 
 ### **Quels types de compétences pouvez-vous demander ?**
-Développement, UX design, expertise en accessibilité numérique, architecture SI, Mareva 2, droit du numérique, expertise en durcissement de système...
 
-Vous pouvez solliciter des compétences très diverses, dans un **domaine technique** ou un **domaine métier ou transverse** (achat, juridique...) en lien avec le numérique. 
+Développement, UX design, expertise en accessibilité numérique, architecture SI, Mareva 2, droit du numérique, expertise en durcissement de système…
+
+Vous pouvez solliciter des compétences très diverses, dans un **domaine technique** ou un **domaine métier ou transverse** (achat, juridique…) en lien avec le numérique.
 
 ### **Quels types de missions proposer ?**
 
 **Un prérequis :** que la mission réponde à **un besoin ponctuel** et soit **délimitée dans le temps**. La durée et la fréquence peuvent aller de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
 En fonction de vos besoins, vous pouvez proposer des missions de différentes natures, par ex :
-* **un appui dans le cadre d’un projet :** développement, design, audit, animation d’un atelier d’idéation...
+
+* **un appui dans le cadre d’un projet :** développement, design, animation d’un atelier d’idéation, sécurisation...
 * **un retour d’expérience**, un **transfert de compétences**,
-* **une étude,** une mission de **conseil**...
+* **une étude,** un **audit**, une mission de **conseil...**
 
 ### **Quelles sont les étapes ?**
+
 <ol>
 <li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...).</li>
 <br>
@@ -264,7 +287,7 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 <br>
 <li><b>Les agents intéressés peuvent y répondre</b> directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel ou via un outil collaboratif, ainsi que les profils des agents volontaires pour participer au dispositif d’une manière générale.</li>
 <br>
-<li><b>Vous êtes partants pour collaborer ensemble ?</b> L'agent fera établir une autorisation de cumul d’activité avec sa hiérarchie et vous signerez ensemble une convention cadrant la mission (objectifs et attendus).</li>
+<li><b>Vous êtes partants pour collaborer ensemble ?</b> Nous vous accompagnons dans la formalisation d’un document qui encadrera la mission, à établir en commun avec l’agent et son supérieur.</li>
 <br>
 <li><b>La mission peut commencer !</b></li></ol>
 <br>
