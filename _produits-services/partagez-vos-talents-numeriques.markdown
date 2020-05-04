@@ -97,8 +97,8 @@ text-decoration: underline;
 </div>
 
 
-Le dispositif Partagez vos talents numériques ! et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
-Consultez la note du DINUM cadrant le dispositif \[lien à venir\], validée par les ministères.
+Le dispositif *Partagez vos talents numériques !* et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
+[Consultez la note du DINUM cadrant le dispositif](/uploads/Note-DINUM_partagez-vos-talents-numeriques.pdf), validée par les ministères.
 
 <br>
 <br>
