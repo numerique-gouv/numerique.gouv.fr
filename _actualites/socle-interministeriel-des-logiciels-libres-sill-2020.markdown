@@ -35,3 +35,5 @@ Du côté des nouveaux logiciels référencés, nous trouvons entre autres la so
 En tout, ce sont 190 logiciels libres référencés, soit 34 de plus qu'en 2019. Parmi les logiciels du SILL 2020, 144 ont le statut « recommandés » et 46 sont marqués « en observation ».
 
 Enfin, la communauté des référents SILL s'est agrandie : si vous êtes agent public de fonction publique d'État ou hospitalière et que vous souhaitez contribuer au référencement d'un logiciel libre, les référents de SILL sont là pour vous accueillir ! Vous pouvez pour cela écrire à [opensource@data.gouv.fr](mailto:opensource@data.gouv.fr)
+
+<a href="https://sill.etalab.gouv.fr" class="button">Accéder au SILL 2020</a></div>
