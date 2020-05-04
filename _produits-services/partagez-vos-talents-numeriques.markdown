@@ -181,7 +181,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.</li>
 <br>
-<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Nous vous accompagnons dans la formalisation d’un document qui encadrera la mission, à établir en commun avec votre supérieur et l’administration d’accueil.</li>
+<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Assurez-vous simplement de l’accord de votre supérieur hiérarchique, nécessaire avant de démarrer toute mission.</li>
 <br>
 <li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li></ol>
 <br>
@@ -288,7 +288,7 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 <br>
 <li><b>Les agents intéressés peuvent y répondre</b> directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel ou via un outil collaboratif, ainsi que les profils des agents volontaires pour participer au dispositif d’une manière générale.</li>
 <br>
-<li><b>Vous êtes partants pour collaborer ensemble ?</b> Nous vous accompagnons dans la formalisation d’un document qui encadrera la mission, à établir en commun avec l’agent et son supérieur.</li>
+<li><b>Vous êtes partants pour collaborer ensemble ?</b> Assurez-vous simplement que l’agent a bien obtenu l'accord de son supérieur hiérarchique, avant le démarrage la mission.</li>
 <br>
 <li><b>La mission peut commencer !</b></li></ol>
 <br>
