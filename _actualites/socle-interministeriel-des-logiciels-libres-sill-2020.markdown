@@ -1,7 +1,6 @@
 ---
 title: Découvrez le socle interministériel des logiciels libres (SILL) 2020
 date: 2020-05-04 15:49:00 +02:00
-published: false
 categories:
 - Article
 tags:
