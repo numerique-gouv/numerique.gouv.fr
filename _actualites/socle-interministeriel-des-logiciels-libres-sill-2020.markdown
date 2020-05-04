@@ -24,6 +24,7 @@ Sous forme de site web, il permet d’identifier rapidement le logiciel et la ve
 
 ## Les nouveautés du SILL 2020
 
+### Disponible en version web
 Pour son édition 2020, le SILL a fait peau neuve pour en faciliter l’appropriation par tous les utilisateurs.
 
 Jusqu'en 2019, le SILL était mis à jour une fois par an et publié sous forme de document PDF. Il est désormais actualisé *en continu* par les groupes de travail et publié par [Etalab](https://www.etalab.gouv.fr/), au sein de la DINUM, en version web : [https://sill.etalab.gouv.fr](https://sill.etalab.gouv.fr/)
@@ -32,6 +33,7 @@ Cette interface permet d’effectuer une recherche rapide, de filtrer par catég
 
 **Vous souhaitez être informé des mises à jour ? Abonnez-vous [au fil RSS](https://sill.etalab.gouv.fr/updates.xml).**
 
+### De nouveaux logiciels libres font leur entrée
 Du côté des nouveaux logiciels référencés, nous trouvons entre autres la solution de visioconférence [BigBlueButton](https://sill.etalab.gouv.fr/en/software?id=196), le logiciel d'hébergement décentralisé de vidéos [Peertube](https://sill.etalab.gouv.fr/en/software?id=197), des logiciels produits par le secteur public comme [VITAM](https://sill.etalab.gouv.fr/en/software?id=194) et [Archifiltre](https://sill.etalab.gouv.fr/en/software?id=185) ou le [SDK Géoportail](https://sill.etalab.gouv.fr/fr/software?id=201), ainsi que d'autres logiciels importants comme [Opale](https://sill.etalab.gouv.fr/fr/software?id=195), [Zimbra](https://sill.etalab.gouv.fr/fr/software?id=202), [Redis](https://sill.etalab.gouv.fr/en/software?id=184), [OpenShot](https://sill.etalab.gouv.fr/en/software?id=193) ou [RStudio](https://sill.etalab.gouv.fr/en/software?id=182).
 
 En tout, ce sont 190 logiciels libres référencés, soit 34 de plus qu'en 2019. Parmi les logiciels du SILL 2020, 144 ont le statut « recommandés » et 46 sont marqués « en observation ».
