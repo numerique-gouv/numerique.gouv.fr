@@ -1,7 +1,6 @@
 ---
 title: Découvrez le socle interministériel des logiciels libres (SILL) 2020
-date: 2020-05-04 15:49:00 +02:00
-published: false
+date: 2020-05-04 01:49:00 +02:00
 categories:
 - Article
 tags:
@@ -42,4 +41,4 @@ En tout, ce sont 190 logiciels libres référencés, soit 34 de plus qu'en 2019.
 
 Enfin, la communauté des référents SILL s'est agrandie : si vous êtes agent public de fonction publique d'État ou hospitalière et que vous souhaitez contribuer au référencement d'un logiciel libre, les référents de SILL sont là pour vous accueillir ! Vous pouvez pour cela écrire à [opensource@data.gouv.fr](mailto:opensource@data.gouv.fr)
 
-<a href="https://sill.etalab.gouv.fr" class="button">Accéder au SILL 2020</a></div>
+<a href="https://sill.etalab.gouv.fr" class="button">Accéder au SILL 2020</a>
