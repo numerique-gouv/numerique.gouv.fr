@@ -1,7 +1,7 @@
 ---
 title: L’État recrute 41 talents du numérique pour former une 4e promotion d’Entrepreneurs
   d’Intérêt Général encore plus ambitieuse
-date: 2020-05-05 10:35:00 +02:00
+date: 2020-05-05 10:41:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -13,7 +13,7 @@ chapeau-text: |
 
   Le programme Entrepreneurs d’Intérêt Général consiste à recruter pour 10 mois des spécialistes du numérique, externes à l’administration, afin de relever des défis ciblés pour le compte de l’État. Leurs points communs ? Des compétences numériques pointues, une appétence pour les données et le sens de l’intérêt général.
 une-ou-diaporama:
-- image: "/uploads/EIG_.jpg"
+- image: "/uploads/2020_05_04_Visuel_article_EIG_Visuel_Generique-1d5575.jpg"
 contact-presse:
   name: Floriane Beaudron
   tel:
