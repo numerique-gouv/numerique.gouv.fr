@@ -11,6 +11,8 @@ chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numéri
   !* met en relation des agents de l’État désireux de mettre leurs compétences ponctuellement
   au service d'autres administrations, et les services de l’État ayant un besoin d'expertise
   numérique sur une période donnée.
+une:
+- image: "/uploads/2020_04_30_bandeau_produit_service_Talents.png"
 affiche-fleche: true
 layout: rgaa
 ---
@@ -83,10 +85,6 @@ text-decoration: underline;
 <span class="button">Voir plus</span>
 </a>
 </nav>
-<!-- <div class="flex-container">
-<i class="fas fa-angle-down icon-arrow-down"></i>
-</div>
--->
 </section>
 
 Le dispositif *Partagez vos talents numériques !* et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
