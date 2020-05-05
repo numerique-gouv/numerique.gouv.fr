@@ -98,7 +98,6 @@ defaults:
     chapeau-text:
     une:
       image:
-      alternative-textuelle:
 - scope:
     path: ''
     type: evenements
