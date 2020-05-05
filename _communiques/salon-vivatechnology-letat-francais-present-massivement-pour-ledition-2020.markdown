@@ -1,7 +1,7 @@
 ---
 title: "Salon VivaTechnology : \nl’État français présent massivement pour l'édition
   2020"
-date: 2020-05-05 11:16:00 +02:00
+date: 2020-05-05 11:19:00 +02:00
 categories:
 - Communiqué de presse
 tags:
