@@ -127,7 +127,7 @@ categories:
 - main
 language: fr
 markdown: kramdown
-description: Le site officiel de la DINSIC
+description: Le site officiel de la DINUM
 plugins:
 - sass
 - jekyll-sitemap
