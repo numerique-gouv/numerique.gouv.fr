@@ -97,7 +97,7 @@ defaults:
     date_de_modification:
     chapeau-text:
     une:
-     image:
+      image:
       alternative-textuelle:
 - scope:
     path: ''
