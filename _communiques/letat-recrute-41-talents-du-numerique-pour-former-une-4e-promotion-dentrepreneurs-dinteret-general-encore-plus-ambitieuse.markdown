@@ -13,7 +13,7 @@ chapeau-text: |
 
   Le programme Entrepreneurs d’Intérêt Général consiste à recruter pour 10 mois des spécialistes du numérique, externes à l’administration, afin de relever des défis ciblés pour le compte de l’État. Leurs points communs ? Des compétences numériques pointues, une appétence pour les données et le sens de l’intérêt général.
 une-ou-diaporama:
-- image: "/uploads/2020_05_04_Visuel_article_EIG_Visuel_Generique-1d5575.jpg"
+- image: "/uploads/2020_05_04_Visuel_article_EIG_Visuel_Generique-3eab14.jpg"
 contact-presse:
   name: Floriane Beaudron
   tel:
