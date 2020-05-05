@@ -148,7 +148,6 @@ Chaque mission répondant à un **besoin ponctuel**, elle est **délimitée dans
 > <a href="#missions">Découvrir les missions proposées</a>
 {: .lien-important}
 
-<div id="list">
 ### **Comment contribuer ?**
 
 Deux façons de participer au dispositif en tant qu'agent :
@@ -198,7 +197,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 <br>
-
+<div id="list-top"></div>
 <figure class='image-left' style='width: 10%;'>
 <img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;" alt="" id="missions"/></figure>## **Les missions proposées**
 
@@ -287,4 +286,4 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 
 <div align="center">
 <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a></div>
-</div>
+<div id="list-bottom"></div>
