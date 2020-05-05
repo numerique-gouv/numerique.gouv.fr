@@ -58,3 +58,5 @@ composer.lock
 
 .command-lines
 .jekyll-cache
+
+assets/css/stylesheet.css
