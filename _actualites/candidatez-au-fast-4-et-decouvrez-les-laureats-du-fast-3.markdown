@@ -1,5 +1,5 @@
 ---
-title: Candidatez au fast 4 et découvrez les lauréats du Fast 3 !
+title: Candidatez au Fast 4 et découvrez les lauréats du Fast 3 !
 date: 2020-04-28 10:03:00 +02:00
 categories:
 - Article
