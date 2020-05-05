@@ -14,6 +14,7 @@ chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numéri
 une:
   image: "/uploads/2020_05_04_bandeau_produit_service_Talents_V2.png"
 layout: rgaa
+affiche-fleche: true
 ---
 
 <style>
@@ -88,16 +89,6 @@ text-decoration: underline;
 </div>
 -->
 </section>
-<div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
-<div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
-<div class="cell grid-y" data-smooth-scroll>
-<a class="flex-container" href="#menu-talents">
-<img alt="Retour au menu" class="align-middle" src="/assets/img/pictogrammes/fleche_haut.svg">
-</a>
-</div>
-</div>
-</div>
-
 
 Le dispositif *Partagez vos talents numériques !* et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
 [Consultez la note du DINUM cadrant le dispositif](/uploads/Note-DINUM_partagez-vos-talents-numeriques.pdf), validée par les ministères.
@@ -157,6 +148,7 @@ Chaque mission répondant à un **besoin ponctuel**, elle est **délimitée dans
 > <a href="#missions">Découvrir les missions proposées</a>
 {: .lien-important}
 
+<div id="list">
 ### **Comment contribuer ?**
 
 Deux façons de participer au dispositif en tant qu'agent :
@@ -295,3 +287,4 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 
 <div align="center">
 <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a></div>
+</div>
