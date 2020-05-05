@@ -62,7 +62,8 @@ text-decoration: underline;
 
 <br>
 <br>
-
+<div id="list-top"></div>
+<div id="lien-fleche"></div>
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3">
 <h2 class="text-center font-bold">Au menu</h2>
 <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
@@ -195,7 +196,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 <br>
-<div id="list-top"></div>
+
 <figure class='image-left' style='width: 10%;'>
 <img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;" alt="" id="missions"/></figure>## **Les missions proposées**
 
