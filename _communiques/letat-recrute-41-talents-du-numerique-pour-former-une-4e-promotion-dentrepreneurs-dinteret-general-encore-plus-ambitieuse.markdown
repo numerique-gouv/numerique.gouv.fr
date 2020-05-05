@@ -1,7 +1,7 @@
 ---
 title: L’État recrute 41 talents du numérique pour former une 4e promotion d’Entrepreneurs
   d’Intérêt Général encore plus ambitieuse
-date: 2020-05-05 10:42:00 +02:00
+date: 2020-05-05 10:43:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -46,6 +46,7 @@ Le programme EIG est l’une des 35 actions du programme TECH.GOUV de transforma
 [Consulter l’appel à candidature](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html) / [En savoir plus sur le programme](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html)
  
 *Des photos et contacts pour témoignages peuvent être transmis sur demande.*
+
 
 **Prochaines étapes de la constitution de la promotion EIG 4 :**
 * Du 4 mai jusqu’au 7 juin 23h : appel à candidatures ;
