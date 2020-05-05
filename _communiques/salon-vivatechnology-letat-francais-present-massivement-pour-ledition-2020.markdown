@@ -1,18 +1,17 @@
 ---
 title: "Salon VivaTechnology : \nl’État français présent massivement pour l'édition
   2020"
-date: 2020-03-13 09:57:00 +01:00
+date: 2020-05-05 11:19:00 +02:00
 categories:
 - Communiqué de presse
 tags:
 - Technologie
 - Vivatech
 - Innovation publique
-chapeau-text: Améliorer le service public grâce au numérique, c’est permettre de rapprocher
-  l’administration des citoyens, des entreprises et de ses propres agents. L’État
-  français participe à VivaTechnology pour la première fois afin de présenter aux
-  professionnels et au grand public, au sein d’un stand unique TECH.GOUV, ses projets
-  numériques les plus innovants, qui sont autant d’opportunités d’emplois.
+chapeau-text: |-
+  **[En raison de l'épidémie de Coronavirus COVID-19 et des consignes du gouvernement, le salon VivaTechnology est reporté au printemps 2021].**
+
+  Améliorer le service public grâce au numérique, c’est permettre de rapprocher l’administration des citoyens, des entreprises et de ses propres agents. L’État français participe à VivaTechnology pour la première fois afin de présenter aux professionnels et au grand public, au sein d’un stand unique TECH.GOUV, ses projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
 une-ou-diaporama:
 - image: "/uploads/Visuel_VIVATECH-2.png"
 contact-presse:

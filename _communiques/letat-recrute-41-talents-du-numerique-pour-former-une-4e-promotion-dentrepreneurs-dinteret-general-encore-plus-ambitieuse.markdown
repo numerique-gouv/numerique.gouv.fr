@@ -1,7 +1,7 @@
 ---
 title: L’État recrute 41 talents du numérique pour former une 4e promotion d’Entrepreneurs
   d’Intérêt Général encore plus ambitieuse
-date: 2020-05-05 10:44:00 +02:00
+date: 2020-05-05 11:01:00 +02:00
 categories:
 - Communiqué de presse
 tags:
