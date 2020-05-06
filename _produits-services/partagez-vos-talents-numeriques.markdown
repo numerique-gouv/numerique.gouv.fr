@@ -12,7 +12,7 @@ chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numéri
   au service d'autres administrations, et les services de l’État ayant un besoin d'expertise
   numérique sur une période donnée.
 une:
-  image: "/uploads/2020_05_04_bandeau_produit_service_Talents_V2.png"
+  image: "/uploads/Partagez-talents_produits-services.png"
 affiche-fleche: true
 layout: rgaa
 ---
