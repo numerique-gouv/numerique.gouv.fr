@@ -1,6 +1,6 @@
 ---
 title: Partagez vos talents numériques !
-date: 2020-05-06 01:16:00 +02:00
+date: 2020-04-08 12:16:00 +02:00
 tags:
 - Service
 - offre de services
@@ -11,8 +11,6 @@ chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numéri
   !* met en relation des agents de l’État désireux de mettre leurs compétences ponctuellement
   au service d'autres administrations, et les services de l’État ayant un besoin d'expertise
   numérique sur une période donnée.
-une:
-  image: "/uploads/2020_05_04_bandeau_produit_service_Talents_V2.png"
 affiche-fleche: true
 layout: rgaa
 ---
@@ -44,8 +42,8 @@ text-decoration: underline;
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis agent de l’État
 >
-> Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <br><a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
-> <br>Si aucune de celles disponibles pour le moment ne vous intéresse, rejoignez simplement le vivier.
+> Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
+> <br>Si aucune de celles disponibles actuellement ne vous intéresse, rejoignez simplement le vivier.
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a>
 > <br>
@@ -65,7 +63,6 @@ text-decoration: underline;
 <br>
 <br>
 
-<div id="lien-fleche"></div>
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3">
 <h2 class="text-center font-bold">Au menu</h2>
 <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
@@ -85,8 +82,11 @@ text-decoration: underline;
 <span class="button">Voir plus</span>
 </a>
 </nav>
+<!-- <div class="flex-container">
+<i class="fas fa-angle-down icon-arrow-down"></i>
+</div>
+-->
 </section>
-<div id="list-top"></div>
 
 Le dispositif *Partagez vos talents numériques !* et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
 [Consultez la note du DINUM cadrant le dispositif](/uploads/Note-DINUM_partagez-vos-talents-numeriques.pdf), validée par les ministères.
@@ -184,7 +184,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 <div align="center"><a href="#missions"><b>Voir les missions</b></a></div>
-<div align="center"><p align="center"><a href="#missions">
+<div align="center" class="flex-container"><p align="center"><a href="#missions">
 <i class="fas fa-angle-down icon-arrow-down"></i></a></p></div>
 
 <br>
@@ -195,15 +195,16 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 <br>
 <br>
-
+<div id="list-top"></div>
 <figure class='image-left' style='width: 10%;'>
 <img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;" alt="" id="missions"/></figure>## **Les missions proposées**
 
 #### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
+
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design - Revue de processus</li>
-<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre avril et fin juillet 2020.</li>
+<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre mai et fin septembre 2020.</li>
 <li><b>Localisation :</b> Paris 7e</li>
 <li><b><a href="/uploads/mission_decrochage-scolaire.pdf">Détails de la mission (pdf - 240 ko)</a></b></li></ul>
 
@@ -279,12 +280,8 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 <br>
 <li><b>La mission peut commencer !</b></li></ol>
 <br>
+<br>
 
 <div align="center">
 <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a></div>
-<br>
-<br>
-<br>
-<br>
-<br>
 <div id="list-bottom"></div>
