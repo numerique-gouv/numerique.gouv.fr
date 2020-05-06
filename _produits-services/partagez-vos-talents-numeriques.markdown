@@ -1,7 +1,6 @@
 ---
 title: Partagez vos talents numériques !
-date: 2020-04-08 12:16:00 +02:00
-published: false
+date: 2020-05-06 01:16:00 +02:00
 tags:
 - Service
 - offre de services
@@ -14,6 +13,7 @@ chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numéri
   numérique sur une période donnée.
 une:
   image: "/uploads/2020_05_04_bandeau_produit_service_Talents_V2.png"
+affiche-fleche: true
 layout: rgaa
 ---
 
@@ -44,8 +44,8 @@ text-decoration: underline;
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis agent de l’État
 >
-> Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
-> <br>Si aucune de celles disponibles actuellement ne vous intéresse, rejoignez simplement le vivier.
+> Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <br><a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
+> <br>Si aucune de celles disponibles pour le moment ne vous intéresse, rejoignez simplement le vivier.
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a>
 > <br>
@@ -64,7 +64,8 @@ text-decoration: underline;
 
 <br>
 <br>
-
+<div id="list-top"></div>
+<div id="lien-fleche"></div>
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3">
 <h2 class="text-center font-bold">Au menu</h2>
 <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
@@ -84,21 +85,7 @@ text-decoration: underline;
 <span class="button">Voir plus</span>
 </a>
 </nav>
-<!-- <div class="flex-container">
-<i class="fas fa-angle-down icon-arrow-down"></i>
-</div>
--->
 </section>
-<div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
-<div class="sticky" data-sticky data-top-anchor="list:top" data-btm-anchor="list:bottom" data-margin-top="25" data-margin-right="2">
-<div class="cell grid-y" data-smooth-scroll>
-<a class="flex-container" href="#menu-talents">
-<img alt="Retour au menu" class="align-middle" src="/assets/img/pictogrammes/fleche_haut.svg">
-</a>
-</div>
-</div>
-</div>
-
 
 Le dispositif *Partagez vos talents numériques !* et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
 [Consultez la note du DINUM cadrant le dispositif](/uploads/Note-DINUM_partagez-vos-talents-numeriques.pdf), validée par les ministères.
@@ -196,7 +183,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <br>
 
 <div align="center"><a href="#missions"><b>Voir les missions</b></a></div>
-<div align="center" class="flex-container"><p align="center"><a href="#missions">
+<div align="center"><p align="center"><a href="#missions">
 <i class="fas fa-angle-down icon-arrow-down"></i></a></p></div>
 
 <br>
@@ -296,3 +283,4 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 
 <div align="center">
 <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a></div>
+<div id="list-bottom"></div>

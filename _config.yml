@@ -96,10 +96,8 @@ defaults:
   values:
     date_de_modification: 
     chapeau-text: 
-    une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
+    une:
+      image: 
 - scope:
     path: ''
     type: evenements
@@ -128,7 +126,7 @@ categories:
 - main
 language: fr
 markdown: kramdown
-description: Le site officiel de la DINSIC
+description: Le site officiel de la DINUM
 plugins:
 - sass
 - jekyll-sitemap

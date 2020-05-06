@@ -1,7 +1,6 @@
 ---
 title: "[Lancement] Agents de l’État, partagez vos talents numériques !"
-date: 2020-04-29 15:51:00 +02:00
-published: false
+date: 2020-05-06 03:51:00 +02:00
 categories:
 - Article
 tags:
