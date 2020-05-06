@@ -64,7 +64,7 @@ text-decoration: underline;
 
 <br>
 <br>
-<div id="list-top"></div>
+
 <div id="lien-fleche"></div>
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3">
 <h2 class="text-center font-bold">Au menu</h2>
@@ -86,6 +86,7 @@ text-decoration: underline;
 </a>
 </nav>
 </section>
+<div id="list-top"></div>
 
 Le dispositif *Partagez vos talents numériques !* et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
 [Consultez la note du DINUM cadrant le dispositif](/uploads/Note-DINUM_partagez-vos-talents-numeriques.pdf), validée par les ministères.
@@ -199,7 +200,6 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;" alt="" id="missions"/></figure>## **Les missions proposées**
 
 #### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
-
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design - Revue de processus</li>
