@@ -44,8 +44,7 @@ text-decoration: underline;
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis agent de l’État
 >
-> Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. 
-> <br><a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
+> Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <br><a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
 > <br>Si aucune de celles disponibles pour le moment ne vous intéresse, rejoignez simplement le vivier.
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a>
