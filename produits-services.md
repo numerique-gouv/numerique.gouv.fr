@@ -35,6 +35,10 @@ publications:
   url: "/produits-services/organiser-webconference-outils-agents-etat/"
   une-ou-diaporama:
   - image: "/uploads/outils_webconference-rub.png"
+- title: Partagez vos talents numériques !
+  url: "/produits-services/partagez-vos-talents-numeriques/"
+  une-ou-diaporama:
+  - image: "/uploads/Partagez-talents_rub.png"
 layout: publications
 ---
 
