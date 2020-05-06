@@ -279,8 +279,12 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 <br>
 <li><b>La mission peut commencer !</b></li></ol>
 <br>
-<br>
 
 <div align="center">
 <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a></div>
+<br>
+<br>
+<br>
+<br>
+<br>
 <div id="list-bottom"></div>
