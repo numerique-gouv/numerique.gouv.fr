@@ -11,7 +11,7 @@ chapeau-text: 'La DINUM lance un dispositif de coopération original au sein de 
   souhaitent peuvent ponctuellement mettre leurs compétences numériques au service
   d’autres administrations ayant besoin d’un appui spécifique.'
 une-ou-diaporama:
-- image: "/uploads/Actu_partagez-vos-talents-Une.jpg"
+- image: "/uploads/Actu_partagez-talents_Une.jpg"
 ---
 
 ## Un dispositif de coopération interministérielle
