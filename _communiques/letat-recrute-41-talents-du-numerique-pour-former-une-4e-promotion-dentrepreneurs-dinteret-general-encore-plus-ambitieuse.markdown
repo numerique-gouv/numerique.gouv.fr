@@ -1,7 +1,7 @@
 ---
 title: L’État recrute 41 talents du numérique pour former une 4e promotion d’Entrepreneurs
   d’Intérêt Général encore plus ambitieuse
-date: 2020-05-11 17:49:00 +02:00
+date: 2020-05-11 17:52:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -21,7 +21,7 @@ contact-presse:
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
 files:
-- file: "/uploads/CP_LETAT_RECRUTE_41_TALENTS_DU_NUMERIQUE_POUR_FORMER_UNE_4E_PROMOTION_D_EIG.pdf"
+- file: "/uploads/CP_LETAT_RECRUTE_41_TALENTS_DU_NUMERIQUE_POUR_FORMER_UNE_4E_PROMOTION_D_EIG-b0e3a0.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
