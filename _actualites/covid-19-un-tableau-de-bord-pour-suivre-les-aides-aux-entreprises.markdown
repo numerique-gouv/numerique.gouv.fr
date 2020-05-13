@@ -19,6 +19,7 @@ Face à l’épidémie du Coronavirus Covid-19, le Gouvernement a mis en place u
 Afin d’offrir une visibilité à tous les Français, Bruno Le Maire, ministre de l’Économie et des Finances, et Gérald Darmanin, ministre de l’Action et des Comptes publics, ont souhaité mettre à la disposition de tous un tableau de bord interactif.
 
 Cet outil a été réalisé par la direction interministérielle du numérique (DINUM). 
+
 **Retour sur sa création avec le pilote du projet Romain Talès, chef de la mission DATA au sein du programme TECH.GOUV d’accélération de la transformation numérique du service public.**
 
 ### Quel était le besoin des ministères économiques et financiers ?
