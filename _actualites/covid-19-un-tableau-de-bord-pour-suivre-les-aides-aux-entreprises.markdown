@@ -12,6 +12,8 @@ chapeau-text: Chaque Français peut désormais suivre l’attribution des aides 
   des ministères économiques et financiers. Sorti fin avril avec les données du fonds
   de solidarité, le service continue de s’enrichir et intègre depuis ce jeudi 14 mai
   les prêts garantis par l’État (PGE) et les reports d’échéances fiscales..
+une-ou-diaporama:
+- image: "/uploads/Covid-19_tableau_bord_suivi_aides_entreprises.png"
 ---
 
 Face à l’épidémie du Coronavirus Covid-19, le Gouvernement a mis en place un ensemble de mesures de soutien immédiates à destination des entreprises : fonds de solidarité, report de paiement d’échéances sociales et/ou fiscales, prêt garanti par l’Etat… Comment se répartissent ces aides par secteur d’activités et par département ?
