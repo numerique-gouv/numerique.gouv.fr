@@ -22,9 +22,9 @@ Afin d’offrir une visibilité à tous les Français, Bruno Le Maire, ministre 
 
 Cet outil a été réalisé par la direction interministérielle du numérique (DINUM). 
 
-<figure class='image-left' style='width: 15%;'><img src="/uploads/R-T-photo.jpg"/></figure>**Retour sur sa création avec le pilote du projet Romain Talès, chef de la mission DATA au sein du programme TECH.GOUV d’accélération de la transformation numérique du service public.**
+<figure class='image-left' style='width: 8%;'><img src="/uploads/R-T-photo.jpg"/></figure>**Retour sur sa création avec le pilote du projet Romain Talès, chef de la mission DATA au sein du programme TECH.GOUV d’accélération de la transformation numérique du service public.**
 {: .margin-bottom-1}
-
+<br>
 
 
 #### **Quel était le besoin des ministères économiques et financiers ?**
