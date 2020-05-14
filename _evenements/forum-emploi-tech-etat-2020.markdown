@@ -67,5 +67,5 @@ Vous êtes **jeune diplômé d’une école du numérique** et curieux des oppor
 Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
 
 > **Dès maintenant, réservez la date dans vos agendas !**
-> {: .text-center}
+> {: .margin-top-1 .margin-bottom-1 .text-center} 
 {: .encadre}
