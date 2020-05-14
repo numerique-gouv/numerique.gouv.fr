@@ -28,7 +28,9 @@ champs_informations:
 - intitule: Plus d'informations pratiques à venir
 ---
 
-> **Organismes du secteur public : venez présenter vos postes dans le numérique au Forum de l’emploi tech de l’État, édition 2020 !**
+> ### Vous êtes recruteur dans le secteur public, à la recherche de talents du numérique ?
+> 
+> Organismes du secteur public : venez présenter vos postes dans le numérique au Forum de l’emploi tech de l’État, édition 2020 !
 > 
 > Opérateurs nationaux, collectivités territoriales, établissements hospitaliers : ne manquez pas l’occasion de tenir un stand et de recruter le talent qu’il vous faut ! 
 > 
@@ -45,3 +47,25 @@ champs_informations:
 
 Organisé par la DINUM, le Forum de l'Emploi tech de l’État réunit depuis 4 ans les recruteurs du secteur public et les candidats dans le secteur du numérique.
 
+L'édition 2019 a rassemblé **plus de 30 services recruteurs**, pour plus de **350 postes proposés** dans toute la France et **1500 candidats inscrits**.
+
+**L'édition 2020 se tiendra le 26 novembre à La Grande Crypte à Paris.** 
+
+Des espaces de **« speed-jobbing »** seront disposés entre les stands pour prolonger en toute confidentialité votre discussion avec un recruteur.
+
+Au cours de cette journée seront aussi proposées des **conférences** sur de grandes questions numériques au sein de l’État ainsi que des **ateliers** de développement professionnel.
+
+Comme les années précédentes, il sera complété par **un forum virtuel** en ligne, permettant de mettre en relation à distance recruteurs et candidats.
+
+
+## Vous êtes un professionnel du numérique ?
+
+Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
+
+Vous êtes **jeune diplômé d’une école du numérique** et curieux des opportunités professionnelles offertes par l’État ?
+
+Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
+
+> **Dès maintenant, réservez la date dans vos agendas !**
+> {: .text-center}
+{: .encadre}
