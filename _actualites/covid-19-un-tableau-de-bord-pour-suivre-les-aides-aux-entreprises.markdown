@@ -1,8 +1,8 @@
 ---
 title: 'Covid-19 : Un tableau de bord interactif pour suivre les aides aux entreprises'
-date: 2020-05-13 17:12:00 +02:00
+date: 2020-05-14 17:12:00 +02:00
 categories:
-- Article
+- Interview
 tags:
 - Covid-19
 - Entreprises
