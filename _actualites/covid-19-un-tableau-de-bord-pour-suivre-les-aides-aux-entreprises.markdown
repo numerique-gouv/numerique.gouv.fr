@@ -28,7 +28,7 @@ Cet outil a été réalisé par la direction interministérielle du numérique (
 
 #### **Quel était le besoin des ministères économiques et financiers ?**
 
-<figure class='image-left' style='width: 15%;'><img src="/uploads/R-T-photo.jpg"/></figure>**Romain Talès –** Dans le cadre de l’épidémie Covid-19, le gouvernement, en particulier les ministères économiques et financiers, ont mis en place d’importants moyens afin d’accompagner les entreprises en difficulté. Il est rapidement apparu nécessaire de donner un maximum de visibilité à l’ensemble des Français sur les différentes aides attribuées.
+<figure class='image-left' style='width: 15%;'><img src="/uploads/R-T-photo.jpg"/></figure>**Romain Talès –** Dans le cadre de l’épidémie Covid-19, le Gouvernement, en particulier les ministères économiques et financiers, ont mis en place d’importants moyens afin d’accompagner les entreprises en difficulté. Il est rapidement apparu nécessaire de donner un maximum de visibilité à l’ensemble des Français sur les différentes aides attribuées.
 
 #### **Quelle a été votre intervention sur ce projet ?**
 
