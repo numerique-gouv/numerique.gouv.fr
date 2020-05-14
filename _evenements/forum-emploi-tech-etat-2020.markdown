@@ -29,19 +29,19 @@ champs_informations:
 ---
 
 > ### Vous êtes recruteur dans le secteur public, à la recherche de talents du numérique ?
-> 
-> Organismes du secteur public : venez présenter vos postes dans le numérique au Forum de l’emploi tech de l’État, édition 2020 !
-> 
-> Opérateurs nationaux, collectivités territoriales, établissements hospitaliers : ne manquez pas l’occasion de tenir un stand et de recruter le talent qu’il vous faut ! 
-> 
-> **4 bonnes raisons de participer à l’évènement :**
+> <br>
+> <br>Organismes du secteur public : venez présenter vos postes dans le numérique au Forum de l’emploi tech de l’État, édition 2020 !
+> <br>
+> <br>Opérateurs nationaux, collectivités territoriales, établissements hospitaliers : ne manquez pas l’occasion de tenir un stand et de recruter le talent qu’il vous faut ! 
+> <br>
+> <br>**4 bonnes raisons de participer à l’évènement :**
 > * rencontrez un large panel de professionnels issus du public comme du privé, aux profils tech variés (1500 inscrits en 2019)
 > * trouvez les candidats qui correspondent à vos besoins
 > * faites connaître votre administration
 > * c'est gratuit pour vous ! La DINUM finance et pilote l'événement
 > 
-> Intéressés ? Contactez-nous dès maintenant à l’adresse suivante : [metiers-nsic.dinsic@modernisation.gouv.fr](mailto:metiers-nsic.dinsic@modernisation.gouv.fr)
-> Attention : le nombre de places pour les recruteurs est limité
+> **Intéressés ? Contactez-nous dès maintenant à l’adresse suivante : [metiers-nsic.dinsic@modernisation.gouv.fr](mailto:metiers-nsic.dinsic@modernisation.gouv.fr)**
+> <br>Attention : le nombre de places pour les recruteurs est limité
 {: .noir .encadre}
 
 
