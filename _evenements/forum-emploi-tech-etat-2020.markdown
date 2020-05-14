@@ -31,7 +31,7 @@ champs_informations:
 > ### Vous êtes recruteur dans le secteur public, à la recherche de talents du numérique ?
 > <br>Organismes du secteur public : venez présenter vos postes dans le numérique au Forum de l’emploi tech de l’État, édition 2020 !
 > <br>
-> <br>Opérateurs nationaux, collectivités territoriales, établissements hospitaliers : ne manquez pas l’occasion de tenir un stand et de recruter le talent qu’il vous faut ! 
+> <br>Services de l’État, collectivités territoriales, établissements publics et hospitaliers : ne manquez pas l’occasion de tenir un stand et de recruter le talent qu’il vous faut ! 
 > <br>
 > <br>**4 bonnes raisons de participer à l’évènement :**
 > * Rencontrez un grand nombre de professionnels issus du public comme du privé, aux profils tech variés (1500 inscrits en 2019)
