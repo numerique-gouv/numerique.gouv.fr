@@ -43,7 +43,7 @@ champs_informations:
 > <br>Attention : le nombre de places pour les recruteurs est limité
 {: .noir .encadre}
 
-### Le rendez-vous de l'emploi dans le numérique public
+### Le rendez-vous de l'emploi public dans le numérique
 
 Organisé par la DINUM, le Forum de l'emploi tech de l’État réunit depuis 4 ans les recruteurs du secteur public et les candidats dans le secteur du numérique. Pour la deuxième année consécutive le forum est ouvert non seulement aux agents publics mais aussi aux professionnels de la tech actuellement dans le privé.
 
