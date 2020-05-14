@@ -14,7 +14,7 @@ chapeau-text: Pour accélérer l’ouverture des décisions de justice, la missi
 une-ou-diaporama:
 - image: "/uploads/Logo%20Lefebvre%20Sarrut.jpg"
 auteur: Etalab
-redirect_to: https://www.etalab.gouv.fr/la-mission-etalab-et-le-groupe-lefebvre-sarrut-collaborent-accelerer-louverture-des-decisions-de-justice
+redirection: https://www.etalab.gouv.fr/la-mission-etalab-et-le-groupe-lefebvre-sarrut-collaborent-accelerer-louverture-des-decisions-de-justice
 ---
 
 > [Lire l'article sur le blog d'Etalab](https://www.etalab.gouv.fr/la-mission-etalab-et-le-groupe-lefebvre-sarrut-collaborent-accelerer-louverture-des-decisions-de-justice)
