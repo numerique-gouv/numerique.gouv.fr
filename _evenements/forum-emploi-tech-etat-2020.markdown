@@ -58,7 +58,7 @@ Au cours de cette journée seront aussi proposées des **conférences** sur de g
 Comme les années précédentes, il sera complété par **un forum virtuel** en ligne, permettant de mettre en relation à distance recruteurs et candidats.
 
 
-## Vous êtes un professionnel du numérique ?
+### Vous êtes un professionnel du numérique ?
 
 Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
 
