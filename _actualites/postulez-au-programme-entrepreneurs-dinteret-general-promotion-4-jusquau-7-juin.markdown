@@ -18,3 +18,5 @@ auteur: Etalab.gouv.fr
 redirection: https://www.etalab.gouv.fr/du-4-mai-au-7-juin-postulez-au-programme-entrepreneurs-dinteret-general-promotion-4/
 ---
 
+> [Lire la suite sur Etalab.gouv.fr](https://www.etalab.gouv.fr/du-4-mai-au-7-juin-postulez-au-programme-entrepreneurs-dinteret-general-promotion-4/)
+{: .lien-important}
