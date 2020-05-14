@@ -2,10 +2,11 @@
 title: Candidatez au fonds Fast 4 et découvrez les lauréats du Fast 3 !
 date: 2020-04-28 10:03:00 +02:00
 categories:
-- Article
+- Appel à candidatures
 tags:
-- Etalab
-- Entrepreneur d'Intérêt Général
+- Beta.gouv.fr
+- Fonds
+- Appel à projets
 chapeau-text: '5 millions d’euros : c’est le montant accordé par la Loi de Finances
   pour 2019 pour le fonds d’Accélération des Startups d’État. Ce fonds a pour objectif
   d’investir dans des projets apportant des solutions concrètes à des problèmes de
