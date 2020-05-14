@@ -72,7 +72,7 @@ Le tableau de bord apporte aux territoires, aux administrations centrales, comme
 Le rapport des administrations aux données doit être véritablement repensé à l’aune de la situation exceptionnelle que nous traversons, qui met en lumière la nécessité d’avoir des données de qualité, à jour, partagées, et dont les missions de service public peuvent tirer le potentiel maximal.
 
 
-<a href="https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite"><img src="/uploads/capture-tdb-aides-entreprises.png" width="200" alt="Accéder au tableau de bord interactif"/>
+<a href="https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite"><img src="/uploads/capture-tdb-aides-entreprises.png" width="200" style="border-color:#0a0a0a;" border="1" alt="Accéder au tableau de bord interactif"/>
 </a>
 {: .text-center}
 > **[Accéder au tableau de bord interactif](https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite)**
