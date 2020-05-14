@@ -6,6 +6,11 @@ categories:
 tags:
 - Covid-19
 - Entreprises
+- Open Data
+- Data science
+- Etalab
+- TECH.GOUV
+- Données publiques
 chapeau-text: Chaque Français peut désormais suivre l’attribution des aides apportées
   aux entreprises dans le cadre du Covid-19, grâce à un tableau de bord interactif
   réalisé par la direction interministérielle du numérique (DINUM) pour le compte
