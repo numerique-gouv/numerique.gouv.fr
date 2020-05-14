@@ -16,8 +16,8 @@ chapeau-text: '5 millions d’euros : c’est le montant accordé par la Loi de 
 une-ou-diaporama:
 - image: "/uploads/FAST-800x430.jpg"
 auteur: Beta.gouv.fr
-redirection: https://blog.beta.gouv.fr/dinsic/2020/04/23/fast4/
+redirect_to: https://blog.beta.gouv.fr/dinsic/2020/04/23/fast4/
 ---
 
-> [Candidatez au fast 4 et découvrez les lauréats du Fast 3 !](https://blog.beta.gouv.fr/dinsic/2020/04/23/fast4/)
+> [Lire la suite sur Beta.gouv.fr](https://blog.beta.gouv.fr/dinsic/2020/04/23/fast4/)
 {: .lien-important}
