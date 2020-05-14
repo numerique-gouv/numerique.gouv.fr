@@ -39,7 +39,7 @@ champs_informations:
 > * faites connaître votre administration
 > * c'est gratuit pour vous ! La DINUM finance et pilote l'événement
 > 
-> **Intéressés ? Contactez-nous dès maintenant à l’adresse suivante : [metiers-nsic.dinsic@modernisation.gouv.fr](mailto:metiers-nsic.dinsic@modernisation.gouv.fr)**
+> **Intéressés ? Contactez-nous dès maintenant à l’adresse suivante : [metiers-tech.dinum@modernisation.gouv.fr](mailto:metiers-tech.dinum@modernisation.gouv.fr)**
 > <br>Attention : le nombre de places pour les recruteurs est limité
 {: .noir .encadre}
 
