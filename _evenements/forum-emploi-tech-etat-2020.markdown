@@ -31,7 +31,7 @@ champs_informations:
 > ### Vous êtes recruteur dans le secteur public, à la recherche de talents du numérique ?
 > <br>Organismes du secteur public : venez présenter vos postes dans le numérique au Forum de l’emploi tech de l’État, édition 2020 !
 > <br>
-> <br>Opérateurs nationaux, collectivités territoriales, établissements hospitaliers : ne manquez pas l’occasion de tenir un stand et de recruter le talent qu’il vous faut ! 
+> <br>Services de l’État, collectivités territoriales, établissements publics et hospitaliers : ne manquez pas l’occasion de tenir un stand et de recruter le talent qu’il vous faut ! 
 > <br>
 > <br>**4 bonnes raisons de participer à l’évènement :**
 > * Rencontrez un grand nombre de professionnels issus du public comme du privé, aux profils tech variés (1500 inscrits en 2019)
@@ -43,7 +43,7 @@ champs_informations:
 > <br>Attention : le nombre de places pour les recruteurs est limité
 {: .noir .encadre}
 
-### Le rendez-vous de l'emploi dans le numérique public
+### Le rendez-vous de l'emploi public dans la tech
 
 Organisé par la DINUM, le Forum de l'emploi tech de l’État réunit depuis 4 ans les recruteurs du secteur public et les candidats dans le secteur du numérique. Pour la deuxième année consécutive le forum est ouvert non seulement aux agents publics mais aussi aux professionnels de la tech actuellement dans le privé.
 
@@ -58,7 +58,7 @@ Au cours de cette journée seront aussi proposées des **conférences** sur de g
 Comme les années précédentes, il sera complété par **un forum virtuel** en ligne, permettant de mettre en relation à distance recruteurs et candidats.
 
 
-## Vous êtes un professionnel du numérique ?
+### Vous êtes un professionnel du numérique ?
 
 Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
 
