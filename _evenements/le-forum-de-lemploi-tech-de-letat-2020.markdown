@@ -13,3 +13,17 @@ une-ou-diaporama:
 event_start_date: 2020-11-26 00:00:00 +01:00
 ---
 
+> **Organismes du secteur public : venez présenter vos postes dans le numérique au Forum de l’emploi tech de l’État, édition 2020 !**
+> 
+> Opérateurs nationaux, collectivités territoriales, établissements hospitaliers : ne manquez pas l’occasion de tenir un stand (gratuit) et de recruter le talent qu’il vous faut ! 
+> 
+> **3 bonnes raisons de participer à l’évènement :**
+> * rencontrez un large panel de professionnels issus du public comme du privé
+> * ayez accès à des profils tech aux compétences variées
+> * c'est gratuit pour vous ! La DINUM finance et pilote l'événement
+> 
+> Intéressés ? Contactez-nous à l’adresse suivante : [metiers-nsic.dinsic@modernisation.gouv.fr](mailto:metiers-nsic.dinsic@modernisation.gouv.fr)
+{: .noir .encadre}
+
+400 participants (malgré les grèves des transports !)
+
