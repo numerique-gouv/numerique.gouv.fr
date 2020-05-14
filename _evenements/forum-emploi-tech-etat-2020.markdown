@@ -29,7 +29,6 @@ champs_informations:
 ---
 
 > ### Vous êtes recruteur dans le secteur public, à la recherche de talents du numérique ?
-> <br>
 > <br>Organismes du secteur public : venez présenter vos postes dans le numérique au Forum de l’emploi tech de l’État, édition 2020 !
 > <br>
 > <br>Opérateurs nationaux, collectivités territoriales, établissements hospitaliers : ne manquez pas l’occasion de tenir un stand et de recruter le talent qu’il vous faut ! 
