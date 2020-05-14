@@ -5,12 +5,15 @@ categories:
 - Article
 tags:
 - algorithmes
+- Etalab
 chapeau-text: Etalab publie un guide des algorithmes publics afin d'accompagner les
   administrations dans un usage responsable des algorithmes et l'application des nouvelles
   obligations de transparence et de redevabilité en la matière.
 une-ou-diaporama:
 - image: "/uploads/code-1486361_1280.jpg"
 auteur: Etalab
-redirect_to: https://www.etalab.gouv.fr/algorithmes-publics-etalab-publie-un-guide-a-lusage-des-administrations
+redirection: https://www.etalab.gouv.fr/algorithmes-publics-etalab-publie-un-guide-a-lusage-des-administrations
 ---
 
+> [Lire la suite sur etalab.gouv.fr](https://www.etalab.gouv.fr/algorithmes-publics-etalab-publie-un-guide-a-lusage-des-administrations)
+{: .lien-important}

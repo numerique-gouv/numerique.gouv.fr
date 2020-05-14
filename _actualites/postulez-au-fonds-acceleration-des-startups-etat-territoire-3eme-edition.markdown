@@ -14,7 +14,7 @@ chapeau-text: La direction interministérielle du numérique (DINUM), qui porte 
 une-ou-diaporama:
 - image: "/uploads/FAST-3_une.png"
 auteur: beta.gouv.fr
-redirect_to: https://blog.beta.gouv.fr/dinsic/2020/01/29/postulez-au-fonds-d-acceleration-des-startups-d-etat-et-de-territoire-3eme-edition/
+redirection: https://blog.beta.gouv.fr/dinsic/2020/01/29/postulez-au-fonds-d-acceleration-des-startups-d-etat-et-de-territoire-3eme-edition/
 ---
 
 > [Lire la suite sur beta.gouv.fr](https://blog.beta.gouv.fr/dinsic/2020/01/29/postulez-au-fonds-d-acceleration-des-startups-d-etat-et-de-territoire-3eme-edition/)

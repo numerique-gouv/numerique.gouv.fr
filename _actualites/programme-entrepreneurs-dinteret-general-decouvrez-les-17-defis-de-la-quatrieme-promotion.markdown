@@ -16,7 +16,7 @@ chapeau-text: Les 24 et 25 mars 2020 s’est tenu le jury de sélection des déf
 une-ou-diaporama:
 - image: "/uploads/projets-laureats-EIG-4.jpg"
 auteur: Etalab
-redirect_to: https://www.etalab.gouv.fr/programme-entrepreneurs-dinteret-general-decouvrez-les-17-defis-de-la-quatrieme-promotion
+redirection: https://www.etalab.gouv.fr/programme-entrepreneurs-dinteret-general-decouvrez-les-17-defis-de-la-quatrieme-promotion
 ---
 
 > [Consulter les défis de la quatrième promotion](https://www.etalab.gouv.fr/programme-entrepreneurs-dinteret-general-decouvrez-les-17-defis-de-la-quatrieme-promotion)

@@ -13,7 +13,7 @@ chapeau-text: Qui sont les entrepreneurs d'intérêt général (EIG) et comment 
 une-ou-diaporama:
 - image: "/uploads/assembl%C3%A9e-nationale1-1024x683.jpg"
 auteur: Etalab
-redirect_to: https://www.etalab.gouv.fr/videoprogramme-entrepreneurs-dinteret-general-a-la-rencontre-de-32-innovateurs-publics
+redirection: https://www.etalab.gouv.fr/videoprogramme-entrepreneurs-dinteret-general-a-la-rencontre-de-32-innovateurs-publics
 ---
 
 > [Voir le contenu sur etalab.gouv.fr](https://www.etalab.gouv.fr/videoprogramme-entrepreneurs-dinteret-general-a-la-rencontre-de-32-innovateurs-publics "Voir le contenu sur etalab.gouv.fr")

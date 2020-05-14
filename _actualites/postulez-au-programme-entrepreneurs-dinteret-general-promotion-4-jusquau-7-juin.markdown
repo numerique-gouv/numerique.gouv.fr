@@ -15,6 +15,8 @@ chapeau-text: |-
 une-ou-diaporama:
 - image: "/uploads/2020_05_04_Visuel_article_EIG_Visuel_Generique.jpg"
 auteur: Etalab.gouv.fr
-redirect_to: https://www.etalab.gouv.fr/du-4-mai-au-7-juin-postulez-au-programme-entrepreneurs-dinteret-general-promotion-4/
+redirection: https://www.etalab.gouv.fr/du-4-mai-au-7-juin-postulez-au-programme-entrepreneurs-dinteret-general-promotion-4/
 ---
 
+> [Lire la suite sur Etalab.gouv.fr](https://www.etalab.gouv.fr/du-4-mai-au-7-juin-postulez-au-programme-entrepreneurs-dinteret-general-promotion-4/)
+{: .lien-important}

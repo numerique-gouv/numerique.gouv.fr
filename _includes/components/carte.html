@@ -2,8 +2,8 @@
 
 <div class="cell grid-y carte height-100">
   <a
-    {% if carte.redirect_to %}
-      href="{{carte.redirect_to}}" target="_blank"
+    {% if carte.redirection %}
+      href="{{carte.redirection}}" target="_blank"
     {% else %}
       href="{{ carte.url}}"
     {% endif %}
@@ -15,7 +15,7 @@
     {% endif %}
     <div class="padding-2">
       <p class="h4 font-bold margin-0">{{ carte.title }}
-        {% if carte.redirect_to %}
+        {% if carte.redirection %}
         <img class="picto-external-link" src="/assets/img/pictogrammes/icon-lien.png" alt="pictogramme lien externe">
         {% endif %}</p>
       {% if carte.categories %}

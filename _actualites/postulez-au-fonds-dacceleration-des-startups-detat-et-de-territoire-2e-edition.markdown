@@ -16,7 +16,7 @@ chapeau-text: beta.gouv.fr, le réseau des incubateurs de la DINSIC, lance le de
 une-ou-diaporama:
 - image: "/uploads/FAST-2e-edition_une.jpg"
 auteur: beta.gouv.fr
-redirect_to: https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acceleration-des-startups-d-etat-2eme-edition/
+redirection: https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acceleration-des-startups-d-etat-2eme-edition/
 ---
 
 > [Lire la suite sur beta.gouv.fr](https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acceleration-des-startups-d-etat-2eme-edition/)
