@@ -4,7 +4,8 @@ date: 2020-05-14 13:13:00 +02:00
 chapeau-text: Le 26 novembre 2020, la direction interministérielle du numérique (DINUM)
   organise la 4e édition du Forum de l’emploi tech de l’État. L’occasion de faire
   se rencontrer recruteurs du secteur public (ministères et collectivités territoriales)
-  et candidats professionnels du numérique, issus du public ou du privé.
+  et candidats professionnels du numérique, issus du public ou du privé. Recruteurs,
+  c'est le moment de vous faire connaître pour y participer !
 categorie: Forum et forum virtuel
 une-ou-diaporama:
 - image: "/uploads/2020_05_14_Article-forum_recrutement_800x430.jpg"
