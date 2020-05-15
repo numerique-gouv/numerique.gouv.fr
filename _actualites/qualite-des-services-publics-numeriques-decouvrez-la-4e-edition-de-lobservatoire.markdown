@@ -27,23 +27,22 @@ Avancée de la dématérialisation, respect des critères de qualité : l’obse
 <br>
 <br>
 
-**72% des démarches réalisables en ligne**
+## 72% des démarches réalisables en ligne
 
 Trois nouveaux services en ligne simplifiant la vie des usagers font leur entrée dans l’observatoire. Le ministère de l’Éducation nationale propose une nouvelle démarche réalisable en ligne qui permet de formuler des vœux d’affectation après la 3e, disponible pour chaque académie sur via [portail Scolarités services](https://www.education.gouv.fr/accedez-au-portail-scolarite-services-de-votre-academie-5222).
 
 Dans le camp du ministère en charge des Affaires sociales, le [GIP Info Retraite](https://www.info-retraite.fr/portail-services/#/login) a lancé de son côté la démarche de transmission du [« certificat de vie »](https://www.info-retraite.fr/portail-info/sites/PortailInformationnel/home/actualites-1/votre-retraite-a-letranger-simpl.html) pour les retraités domiciliés à l’étranger, qui permet de ne fournir qu’un seul document par an pour l’ensemble des régimes de retraite. Le ministère de l’Écologie a quant à lui dématérialisé l’immatriculation des navires de plaisance pour les ventes entre particuliers » ([https://www.demarches-plaisance.gouv.fr/puma-plaisancier/](https://www.demarches-plaisance.gouv.fr/puma-plaisancier/)).
 <br>
-<br>
 
-**Une meilleure prise en compte des usages**
+## Une meilleure prise en compte des usages
 
 On note le lancement de versions accessibles sur mobile de différents services, en particulier la plateforme [Place emploi public](https://www.place-emploi-public.gouv.fr/), qui permet de consulter les offres d’emploi du service public et d’y postuler.
 
-La démarche de simulation de ses prestations sociales sur Mesdroitssociaux.gouv.fr a connu diverses améliorations. Elle s’est enrichie des aides précédemment disponibles sur mes-aides.gouv.fr, notamment des aides locales. Le service a été simplifié, en permettant le pré-remplissage de certaines informations déjà connues des administrations, selon le principe « Dites-le-nous une fois ». Désormais la composition familiale (enfants à charge) est obtenue directement via la CNAM, l’usager n’a plus besoin de saisir lui-même l’information.
-<br>
+La démarche de simulation de ses prestations sociales sur [Mesdroitssociaux.gouv.fr](https://mesdroitssociaux.gouv.fr) a connu diverses améliorations. Elle s’est enrichie des aides précédemment disponibles sur mes-aides.gouv.fr, notamment des aides locales. Le service a été simplifié, en permettant le pré-remplissage de certaines informations déjà connues des administrations, selon le principe « Dites-le-nous une fois ». Désormais la composition familiale (enfants à charge) est obtenue directement via la CNAM, l’usager n’a plus besoin de saisir lui-même l’information.
 <br>
 
-**Plus de 900 000 avis d’usagers recueillis**
+
+## Plus de 900 000 avis d’usagers recueillis
 
 Indicateur majeur de la qualité, la satisfaction des usagers est suivie dans l’observatoire grâce au bouton « Je donne mon avis » installé à la fin des démarches. Aujourd’hui plus de 900 000 avis d’usagers ont été recueillis sur les 80 démarches équipées du bouton. De nouveaux services emblématiques très utilisés par les Français ont mis en place la prise d’avis, comme la déclaration d’impôt 2019 et la gestion de son prélèvement à la source. Le déploiement du bouton « je donne mon avis » sur l’ensemble des démarches dématérialisées se poursuit.
 
@@ -53,8 +52,8 @@ Cet indice de satisfaction permet de repérer des démarches qui ont connu des a
 <br>
 <br>
 
-**L’impact de la crise Covid-19 sur la qualité des services numériques**
+## L’impact de la crise Covid-19 sur la qualité des services numériques
 
-Comme de nombreux services en ligne, certains services publics numériques ont été fortement sollicités pendant la phase de confinement, notamment les services du ministère de l’Education nationale.
+Comme de nombreux services en ligne, certains services publics numériques ont été fortement sollicités pendant la phase de confinement, notamment les services du ministère de l’Éducation nationale.
 
 Sur cette période, le critère « disponibilité et rapidité d’affichage des services publics numériques » a été particulièrement scruté, afin de mesurer l’impact de l’augmentation du trafic sur la performance de ces sites. Malgré les difficultés au début du confinement, les administrations ont adapté progressivement leurs infrastructures à la démultiplication des sollicitations des services.
