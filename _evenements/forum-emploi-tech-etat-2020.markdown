@@ -8,7 +8,7 @@ tags:
 - RH
 chapeau-text: Le 26 novembre 2020, la direction interministérielle du numérique (DINUM)
   organise la 4e édition du Forum de l’emploi tech de l’État. L’occasion de faire
-  se rencontrer recruteurs du secteur public (ministères et collectivités territoriales)
+  se rencontrer recruteurs du secteur public (ministères, collectivités territoriales...)
   et candidats professionnels du numérique, issus du public ou du privé. Recruteurs,
   c'est le moment de vous faire connaître pour y participer !
 categorie: Forum et forum virtuel
@@ -45,7 +45,7 @@ champs_informations:
 
 ### Le rendez-vous de l'emploi public dans la tech
 
-Organisé par la DINUM, le Forum de l'emploi tech de l’État réunit depuis 4 ans les recruteurs du secteur public et les candidats dans le secteur du numérique. Pour la deuxième année consécutive le forum est ouvert non seulement aux agents publics mais aussi aux professionnels de la tech actuellement dans le privé.
+Organisé par la DINUM, le Forum de l'emploi tech de l’État réunit depuis 4 ans les recruteurs du secteur public et les candidats dans le secteur du numérique. Le forum est ouvert non seulement aux agents publics mais aussi, pour la deuxième année consécutive, aux professionnels de la tech actuellement dans le privé.
 
 L'édition 2019 a rassemblé **plus de 30 services recruteurs**, pour plus de **350 postes proposés** dans toute la France et **1500 candidats inscrits**.
 
