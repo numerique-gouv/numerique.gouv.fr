@@ -32,7 +32,7 @@ font-size: 20px;
 margin: 4px 2px;
 cursor: pointer;
 }
-
+</style>
 Avancée de la dématérialisation, respect des critères de qualité : l’observatoire de la qualité des services publics numériques a été actualisé pour la 4e fois.
 
 [![Consulter l'observatoire de la qualité des services numériques](/uploads/observatoire_avril_2020.png){: width="200px" height="165px" }](https://observatoire.numerique.gouv.fr/)
