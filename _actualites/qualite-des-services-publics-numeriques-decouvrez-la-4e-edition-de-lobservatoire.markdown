@@ -26,6 +26,7 @@ Avancée de la dématérialisation, respect des critères de qualité : l’obse
 {: .lien-important}
 <br>
 <br>
+> <a href="https://observatoire.numerique.gouv.fr/" class="button">Consulter l’observatoire</a>
 
 ## 72% des démarches réalisables en ligne
 
