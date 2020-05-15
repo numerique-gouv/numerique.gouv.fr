@@ -18,6 +18,21 @@ une-ou-diaporama:
 - image: "/uploads/Observatoire-oct2019-une.jpg"
 ---
 
+<style>
+.button {
+background-color: #0d5c98;
+border: 1px solid white;
+color: white;
+padding: 10px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-style: normal;
+font-size: 20px;
+margin: 4px 2px;
+cursor: pointer;
+}
+
 Avancée de la dématérialisation, respect des critères de qualité : l’observatoire de la qualité des services publics numériques a été actualisé pour la 4e fois.
 
 [![Consulter l'observatoire de la qualité des services numériques](/uploads/observatoire_avril_2020.png){: width="200px" height="165px" }](https://observatoire.numerique.gouv.fr/)
@@ -27,8 +42,9 @@ Avancée de la dématérialisation, respect des critères de qualité : l’obse
 <br>
 <br>
 
-<a href="https://observatoire.numerique.gouv.fr/"><img src="/uploads/observatoire_avril_2020.png" width="200" style="border-color:#0a0a0a;" border="1" alt="Consulter l’observatoire"/>
+<a href="https://observatoire.numerique.gouv.fr/"><img src="/uploads/observatoire_avril_2020.png" width="200" style="border-color:#0a0a0a;" border="2" alt="Consulter l’observatoire"/>
 </a>
+
 <a href="https://observatoire.numerique.gouv.fr/" class="button">Consulter l’observatoire</a>
 
 ## 72% des démarches réalisables en ligne
