@@ -238,7 +238,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 {: .lien-important}
 <br>
 
-#### COVID-19 : COVID-19 : Aider le ministère de la Santé à visualiser les réponses aux appels à projets innovants
+#### COVID-19 : Aider le ministère de la Santé à visualiser les réponses aux appels à projets innovants
 {: .margin-bottom-1}
 *Ministère des Armées/Délégation de la transformation et de la performance ministérielles (DTPM)*
 <ul><li><b>Compétences recherchées :</b> Data science
