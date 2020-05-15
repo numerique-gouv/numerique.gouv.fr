@@ -34,22 +34,8 @@ cursor: pointer;
 </style>
 Avancée de la dématérialisation, respect des critères de qualité : l’observatoire de la qualité des services publics numériques a été actualisé pour la 4e fois.
 
-[![Consulter l'observatoire de la qualité des services numériques](/uploads/observatoire_avril_2020.png){: width="200px" height="165px" }](https://observatoire.numerique.gouv.fr/)
-{: .text-center}
-> **[Consulter l’observatoire, édition avril 2020](https://observatoire.numerique.gouv.fr/)**
-{: .lien-important}
-<br>
-<br>
-
-<p align="center"><a href="https://observatoire.numerique.gouv.fr/"><img src="/uploads/observatoire_avril_2020.png" width="200" style="border:1px solid gray" align="center" alt="Consulter l’observatoire"/></a></p>
-<a href="https://observatoire.numerique.gouv.fr/" class="button">Consulter l’observatoire</a>
-
-<a href="https://observatoire.numerique.gouv.fr/"><img src="/uploads/observatoire_avril_2020.png" width="200" style="border:1px solid gray" align="center" alt="Consulter l’observatoire"/>
-</a>
-
-<a href="https://observatoire.numerique.gouv.fr/" class="button">Consulter l’observatoire</a>
-
 <p align="center"><a href="https://observatoire.numerique.gouv.fr/"><img src="/uploads/observatoire_avril_2020.png" width="200" style="border:1px solid gray" align="center" alt="Consulter l’observatoire"/></a>
+<br>
 <br>
 <a href="https://observatoire.numerique.gouv.fr/" class="button">Consulter l’observatoire</a></p>
 
@@ -83,5 +69,7 @@ Cet indice de satisfaction permet de repérer des démarches qui ont connu des a
 Comme de nombreux services en ligne, certains services publics numériques ont été fortement sollicités pendant la phase de confinement, notamment les services du ministère de l’Éducation nationale.
 
 Sur cette période, le critère « disponibilité et rapidité d’affichage des services publics numériques » a été particulièrement scruté, afin de mesurer l’impact de l’augmentation du trafic sur la performance de ces sites. Malgré les difficultés au début du confinement, les administrations ont adapté progressivement leurs infrastructures à la démultiplication des sollicitations des services.
+<br>
+<br>
 
 <p align="center"><a href="https://observatoire.numerique.gouv.fr/" class="button">Consulter l’observatoire</a></p>
