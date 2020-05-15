@@ -53,7 +53,7 @@ L'édition 2019 a rassemblé **plus de 30 services recruteurs**, pour plus de **
 
 Des espaces de **« speed-jobbing »** seront disposés entre les stands pour prolonger en toute confidentialité votre discussion avec un recruteur.
 
-Au cours de cette journée seront aussi proposées des **conférences** sur de grandes questions numériques au sein de l’État ainsi que des **ateliers** de développement professionnel.
+Au cours de cette journée seront aussi proposés des **conférences** sur de grandes questions numériques au sein de l’État ainsi que des **ateliers** de développement professionnel.
 
 Comme les années précédentes, il sera complété par **un forum virtuel** en ligne, permettant de mettre en relation à distance recruteurs et candidats.
 
