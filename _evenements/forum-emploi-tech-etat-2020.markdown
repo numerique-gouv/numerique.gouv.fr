@@ -45,7 +45,7 @@ champs_informations:
 
 ### Le rendez-vous de l'emploi public dans la tech
 
-Organisé par la DINUM, le Forum de l'emploi tech de l’État réunit depuis 4 ans les recruteurs du secteur public et les candidats dans le secteur du numérique. Pour la deuxième année consécutive le forum est ouvert non seulement aux agents publics mais aussi aux professionnels de la tech actuellement dans le privé.
+Organisé par la DINUM, le Forum de l'emploi tech de l’État réunit depuis 4 ans les recruteurs du secteur public et les candidats dans le secteur du numérique. Le forum est ouvert non seulement aux agents publics mais aussi, pour la deuxième année consécutive, aux professionnels de la tech actuellement dans le privé.
 
 L'édition 2019 a rassemblé **plus de 30 services recruteurs**, pour plus de **350 postes proposés** dans toute la France et **1500 candidats inscrits**.
 
