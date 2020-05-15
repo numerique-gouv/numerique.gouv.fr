@@ -49,6 +49,9 @@ Avancée de la dématérialisation, respect des critères de qualité : l’obse
 
 <a href="https://observatoire.numerique.gouv.fr/" class="button">Consulter l’observatoire</a>
 
+<p align="center"><a href="https://observatoire.numerique.gouv.fr/"><img src="/uploads/observatoire_avril_2020.png" width="200" style="border:1px solid gray" align="center" alt="Consulter l’observatoire"/></a>
+<a href="https://observatoire.numerique.gouv.fr/" class="button">Consulter l’observatoire</a></p>
+
 ## 72% des démarches réalisables en ligne
 
 Trois nouveaux services en ligne simplifiant la vie des usagers font leur entrée dans l’observatoire. Le ministère de l’Éducation nationale propose une nouvelle démarche réalisable en ligne qui permet de formuler des vœux d’affectation après la 3e, disponible pour chaque académie sur via [portail Scolarités services](https://www.education.gouv.fr/accedez-au-portail-scolarite-services-de-votre-academie-5222).
@@ -79,3 +82,5 @@ Cet indice de satisfaction permet de repérer des démarches qui ont connu des a
 Comme de nombreux services en ligne, certains services publics numériques ont été fortement sollicités pendant la phase de confinement, notamment les services du ministère de l’Éducation nationale.
 
 Sur cette période, le critère « disponibilité et rapidité d’affichage des services publics numériques » a été particulièrement scruté, afin de mesurer l’impact de l’augmentation du trafic sur la performance de ces sites. Malgré les difficultés au début du confinement, les administrations ont adapté progressivement leurs infrastructures à la démultiplication des sollicitations des services.
+
+<p align="center"><a href="https://observatoire.numerique.gouv.fr/" class="button">Consulter l’observatoire</a></p>
