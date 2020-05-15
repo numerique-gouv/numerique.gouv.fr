@@ -223,6 +223,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 
 > **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
 {: .lien-important}
+<br>
 
 #### COVID-19 : Faciliter la veille scientifique (publications scientifiques et essais cliniques) pour les chercheurs et le corps médical
 {: .margin-bottom-1}
