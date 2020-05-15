@@ -223,6 +223,31 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 > **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
 {: .lien-important}
 
+#### COVID-19 : Faciliter la veille scientifique (publications scientifiques et essais cliniques) pour les chercheurs et le corps médical
+{: .margin-bottom-1}
+*Ministère des Armées/Délégation de la transformation et de la performance ministérielles (DTPM)*
+<ul><li><b>Compétences recherchées :</b> Data science
+- Intelligence artificielle - Data engineering</li>
+<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre mai et fin septembre 2020.</li>
+<li><b>Localisation :</b> à distance ou en télétravail</li>
+<li><b><a href="/uploads/mission_COVID-19_veille-scientifique.pdf">Détails de la mission (pdf - 277 ko)</a></b></li></ul>
+
+> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
+{: .lien-important}
+<br>
+
+#### COVID-19 : COVID-19 : Aider le ministère de la Santé à visualiser les réponses aux appels à projets innovants
+{: .margin-bottom-1}
+*Ministère des Armées/Délégation de la transformation et de la performance ministérielles (DTPM)*
+<ul><li><b>Compétences recherchées :</b> Data science
+- Intelligence artificielle - Data engineering</li>
+<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre mai et fin septembre 2020.</li>
+<li><b>Localisation :</b> à distance ou en télétravail</li>
+<li><b><a href="/uploads/mission_COVID-19_projets-innovants.pdf">Détails de la mission (pdf - 277 ko)</a></b></li></ul>
+
+> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
+{: .lien-important}
+<br>
 <br>
 <br>
 <br>
