@@ -24,7 +24,8 @@ Avancée de la dématérialisation, respect des critères de qualité : l’obse
 {: .text-center}
 > **[Consulter l’observatoire, édition avril 2020](https://observatoire.numerique.gouv.fr/)**
 {: .lien-important}
-
+<br>
+<br>
 
 **72% des démarches réalisables en ligne**
 
@@ -32,12 +33,14 @@ Trois nouveaux services en ligne simplifiant la vie des usagers font leur entré
 
 Dans le camp du ministère en charge des Affaires sociales, le [GIP Info Retraite](https://www.info-retraite.fr/portail-services/#/login) a lancé de son côté la démarche de transmission du [« certificat de vie »](https://www.info-retraite.fr/portail-info/sites/PortailInformationnel/home/actualites-1/votre-retraite-a-letranger-simpl.html) pour les retraités domiciliés à l’étranger, qui permet de ne fournir qu’un seul document par an pour l’ensemble des régimes de retraite. Le ministère de l’Écologie a quant à lui dématérialisé l’immatriculation des navires de plaisance pour les ventes entre particuliers » ([https://www.demarches-plaisance.gouv.fr/puma-plaisancier/](https://www.demarches-plaisance.gouv.fr/puma-plaisancier/)).
 <br>
+<br>
 
 **Une meilleure prise en compte des usages**
 
 On note le lancement de versions accessibles sur mobile de différents services, en particulier la plateforme [Place emploi public](https://www.place-emploi-public.gouv.fr/), qui permet de consulter les offres d’emploi du service public et d’y postuler.
 
 La démarche de simulation de ses prestations sociales sur Mesdroitssociaux.gouv.fr a connu diverses améliorations. Elle s’est enrichie des aides précédemment disponibles sur mes-aides.gouv.fr, notamment des aides locales. Le service a été simplifié, en permettant le pré-remplissage de certaines informations déjà connues des administrations, selon le principe « Dites-le-nous une fois ». Désormais la composition familiale (enfants à charge) est obtenue directement via la CNAM, l’usager n’a plus besoin de saisir lui-même l’information.
+<br>
 <br>
 
 **Plus de 900 000 avis d’usagers recueillis**
@@ -47,6 +50,7 @@ Indicateur majeur de la qualité, la satisfaction des usagers est suivie dans l�
 Ces résultats font apparaître qu’une démarche sur deux dotées du bouton est jugée très bonne (indice de satisfaction supérieur à 80%).
 
 Cet indice de satisfaction permet de repérer des démarches qui ont connu des améliorations notables dans des administrations engagées dans un processus d’amélioration continue. Les résultats pointent aussi les services posant problème aux utilisateurs. Pour répondre à ces défis, un « commando UX » a été constitué au sein de la DINUM pour accompagner les administrations dans la mise en place de plans d’améliorations, comme cela a été fait pour Histovec, le service du ministère de l’Intérieur permettant de consulter l’historique du véhicule, avant sa cession / son acquisition.
+<br>
 <br>
 
 **L’impact de la crise Covid-19 sur la qualité des services numériques**
