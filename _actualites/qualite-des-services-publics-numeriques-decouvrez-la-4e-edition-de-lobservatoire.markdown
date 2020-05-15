@@ -28,7 +28,6 @@ text-align: center;
 text-decoration: none;
 display: inline-block;
 font-style: normal;
-font-size: 20px;
 margin: 4px 2px;
 cursor: pointer;
 }
