@@ -62,7 +62,6 @@ Ces résultats font apparaître qu’une démarche sur deux dotées du bouton es
 
 Cet indice de satisfaction permet de repérer des démarches qui ont connu des améliorations notables dans des administrations engagées dans un processus d’amélioration continue. Les résultats pointent aussi les services posant problème aux utilisateurs. Pour répondre à ces défis, un « commando UX » a été constitué au sein de la DINUM pour accompagner les administrations dans la mise en place de plans d’améliorations, comme cela a été fait pour Histovec, le service du ministère de l’Intérieur permettant de consulter l’historique du véhicule, avant sa cession / son acquisition.
 <br>
-<br>
 
 ## L’impact de la crise Covid-19 sur la qualité des services numériques
 
