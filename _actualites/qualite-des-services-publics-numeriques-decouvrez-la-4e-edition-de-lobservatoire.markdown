@@ -42,7 +42,7 @@ Avancée de la dématérialisation, respect des critères de qualité : l’obse
 <br>
 <br>
 
-<a href="https://observatoire.numerique.gouv.fr/"><img src="/uploads/observatoire_avril_2020.png" width="200" style="border-color:#0a0a0a;" border="2" alt="Consulter l’observatoire"/>
+<a href="https://observatoire.numerique.gouv.fr/"><img src="/uploads/observatoire_avril_2020.png" width="200" style="border:1px solid gray" alt="Consulter l’observatoire"/>
 </a>
 
 <a href="https://observatoire.numerique.gouv.fr/" class="button">Consulter l’observatoire</a>
