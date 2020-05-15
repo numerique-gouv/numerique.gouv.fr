@@ -1,6 +1,7 @@
 ---
-title: 'Covid-19 : Un tableau de bord interactif pour suivre les aides aux entreprises'
-date: 2020-05-14 05:12:00 +02:00
+title: "[Entretien] Covid-19 : Un tableau de bord interactif pour suivre les aides
+  aux entreprises"
+date: 2020-05-15 05:12:00 +02:00
 categories:
 - Interview
 tags:
@@ -72,7 +73,7 @@ Le tableau de bord apporte aux territoires, aux administrations centrales, comme
 Le rapport des administrations aux données doit être véritablement repensé à l’aune de la situation exceptionnelle que nous traversons, qui met en lumière la nécessité d’avoir des données de qualité, à jour, partagées, et dont les missions de service public peuvent tirer le potentiel maximal.
 
 
-<a href="https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite"><img src="/uploads/capture-tdb-aides-entreprises.png" width="200" style="border-color:#0a0a0a;" border="1" alt="Accéder au tableau de bord interactif"/>
+<a href="https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite"><img src="/uploads/capture-tdb-aides-entreprises.png" width="200" style="border:1px solid gray" alt="Accéder au tableau de bord interactif"/>
 </a>
 {: .text-center}
 > **[Accéder au tableau de bord interactif](https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite)**
