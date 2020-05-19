@@ -3,13 +3,13 @@
 // --------------------------------------------------
 
 .no-js {
-  @include breakpoint(small only) {
+  @include breakpoint(medium down) {
     .top-bar {
       display: none;
     }
   }
 
-  @include breakpoint(medium) {
+  @include breakpoint(large) {
     .title-bar {
       display: none;
     }
@@ -32,23 +32,23 @@ header {
   }
 }
 .marianne {
-  height: 3rem;
+  height: 115px;
   max-width: 100%;
-  @include breakpoint(small only) {
-    height: 1rem;
+  @include breakpoint(medium down) {
+    height: 66px;
   }
 }
 #nav-dinsic {
   display: flex;
+  flex-direction: column;
   width: 100%;
-  flex-flow: row wrap;
   border-bottom: 2px solid $light-gray;
   @include breakpoint(small only) {
     background-color: $white;
     top:0;
   }
   #nav-titre {
-    padding: 0.9rem;
+    padding: 30px 30px 15px 30px;
     h1, a {
       margin: 0;
       padding: 0;
@@ -61,10 +61,21 @@ header {
         font-weight: normal;
       }
     }
+    .titre-site {
+      margin-left: 50px;
+      font-size: 28px;
+      @include breakpoint(medium down) {
+        font-size: 19px;
+      }
+      @media screen and (max-width: 376px) {
+        margin-left: 20px;
+        font-size: 16px;
+      }
+    }
   }
   #nav-content {
     flex: 1;
-    padding: 1rem;
+    padding: 0 1rem 1rem 1rem;
     * {
       margin: 0;
     }
