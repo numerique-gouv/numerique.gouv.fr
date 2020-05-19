@@ -23,6 +23,10 @@ collections:
   methode:
     title: Méthode technique
     output: true
+  outils-agents:
+    title: Outils Agents
+    output: true
+    permalink: "/outils-agents/:title/"
   pages:
     title: Pages
     output: true
@@ -80,6 +84,14 @@ defaults:
     files:
     - file:
       nom:
+- scope:
+    path: ''
+    type: outils-agents
+  values:
+    date_de_modification:
+    chapeau-text:
+    une:
+      image:
 - scope:
     path: ''
     type: publications

@@ -9,6 +9,8 @@ plan-du-site:
     url: /publications
   - link: Services
     url: /services
+  - link: Outils agents
+    url: /outils-agents
   - link: Rejoignez-nous
     url: /rejoignez-nous
   - link: Espace presse
