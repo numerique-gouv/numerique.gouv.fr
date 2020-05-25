@@ -15,7 +15,7 @@ layout: default
             <li><strong><a href="/dinum">La DINUM</a></strong></li>
             <li><strong><a href="/actualites">Actualités</a></strong>
               <ul class="no-bullet">
-                {% for actualite in site.actualites %}
+                {% for actualite in site.actualites reversed %}
                 {% unless actualite.link %}
                 <li>- <a href="{{actualite.url}}">{{actualite.title}}</a></li>
                 {% endunless %}
@@ -30,7 +30,7 @@ layout: default
             <li>
               <strong><a href="/espace-presse">Espace presse</a></strong>
               <ul class="no-bullet">
-                {% for communique in site.communiques %}
+                {% for communique in site.communiques reversed %}
                 {% unless communique.link %}
                 <li>- <a href="{{communique.url}}">{{communique.title}}</a></li>
                 {% endunless %}
