@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Nos services
 permalink: "/services/"
 une:
   image: "/uploads/Produits-et-services.jpg"
