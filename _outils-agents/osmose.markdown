@@ -6,11 +6,11 @@ tags:
 - ETNA
 - Outils pour les agents
 chapeau-text: Proposée par la DINUM, la plateforme Osmose permet aux agents de l’État
-  d’animer en ligne une communauté professionnelle.
-une-ou-diaporama:
-- image: "/uploads/20200331_bandeau_produit_service_Osmose.png"
+  et des établissements publics d’animer en ligne une communauté professionnelle.
 une:
   image: "/uploads/20200331_bandeau_produit_service_Osmose.png"
+une-ou-diaporama:
+- image: "/uploads/20200331_bandeau_produit_service_Osmose.png"
 layout: rgaa
 ---
 
@@ -47,9 +47,9 @@ Avec Osmose, vous pouvez :
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/group-bleu.png"/>
-</figure>## Ouvert aux agents de l’État
+</figure>## Ouvert aux agents de l’État et des établissements publics
 {: .margin-bottom-1}
-Seul un agent de l’État peut demander à créer une communauté sur Osmose. Il peut ensuite y inviter tous les membres qu’il souhaite, que la personne soit interne ou externe à l’État (agent, partenaire, prestataire, expert de la société civile…).
+Seul un agent de l’État ou d'un établissement public peut demander à créer une communauté sur Osmose. Il peut ensuite y inviter tous les membres qu’il souhaite, que la personne soit interne ou externe à son organisme (agent, partenaire, prestataire, expert de la société civile…).
 <br>
 <br>
 
