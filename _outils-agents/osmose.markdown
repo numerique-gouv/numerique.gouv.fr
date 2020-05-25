@@ -1,5 +1,5 @@
 ---
-title: Osmose, la plateforme des communautés professionnelles de l’État
+title: Osmose, la plateforme des communautés professionnelles
 date: 2020-04-03 06:46:00 +02:00
 tags:
 - Osmose
