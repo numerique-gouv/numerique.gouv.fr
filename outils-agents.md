@@ -3,7 +3,7 @@ title: Outils numériques de travail pour les agents
 permalink: "/outils-agents/"
 une:
   image: "/uploads/outils_agents_rubrique.png"
-  alternative-textuelle:
+  alternative-textuelle: 
 publications:
 - title: 'Webconférence de l’État '
   url: "/outils-agents/webconference-etat/"
