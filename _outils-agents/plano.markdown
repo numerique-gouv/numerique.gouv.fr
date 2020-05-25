@@ -6,12 +6,12 @@ tags:
 - ETNA
 - Outils pour les agents
 chapeau-text: Proposée par la DINUM, la plateforme collaborative en ligne Plano permet
-  aux agents de l’État de gérer leurs projets efficacement et de faciliter le travail
-  en équipe, y compris à distance.
-une-ou-diaporama:
-- image: "/uploads/20200331_bandeau_produit_service_PLANO.png"
+  aux agents de l’État et des établissements publics de gérer leurs projets efficacement
+  et de faciliter le travail en équipe, y compris à distance.
 une:
   image: "/uploads/20200331_bandeau_produit_service_PLANO.png"
+une-ou-diaporama:
+- image: "/uploads/20200331_bandeau_produit_service_PLANO.png"
 layout: rgaa
 ---
 
@@ -35,7 +35,7 @@ Vous pouvez disposer d'autant d'espaces de travail que de projets que vous gére
 
 Avec Plano, vous pouvez :
 
-* **Créer un espace de travail** pour chacun de vos projets et y inviter l’ensemble des contributeurs internes ou externes à l’État (agent, partenaire, prestataire…)
+* **Créer un espace de travail** pour chacun de vos projets et y inviter l’ensemble des contributeurs internes ou externes (agent, partenaire, prestataire…)
 * **Gérer les tâches** via un diagramme de Gantt et un kanban : organiser et planifier les tâches, les corréler entre elles, en suivre l’avancement…
 * **Partager des documents** avec tous les membres de votre équipe, les stocker et organiser en dossiers (jusqu’à 9 niveaux)
 * **Communiquer facilement** avec l'ensemble des contributeurs du projet grâce aux fonctions intégrées de visioconférence et de messagerie instantanée (tchat)
@@ -48,9 +48,9 @@ Avec Plano, vous pouvez :
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/group-bleu.png"/>
-</figure>## Ouvert aux agents de l’État
+</figure>## Ouvert aux agents de l’État et des établissements publics 
 {: .margin-bottom-1}
-Dédié aux agents de l’État, Plano se destine plus particulièrement aux directeurs et chefs de projet, ainsi qu’à toute autre personne impliquée dans un projet (notamment les partenaires et prestataires de l’État).
+Dédié aux agents de l’État et des établissements publics, Plano se destine plus particulièrement aux directeurs et chefs de projet, ainsi qu’à toute autre personne impliquée dans un projet (notamment les partenaires et prestataires).
 <br>
 <br>
 
