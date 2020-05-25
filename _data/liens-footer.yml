@@ -23,6 +23,8 @@ sites-references:
     url: https://data.gouv.fr/
   - link: beta.gouv.fr
     url: https://beta.gouv.fr/
+  - link: design.numerique.gouv.fr
+    url: https://design.numerique.gouv.fr
   - link: api.gouv.fr
     url: https://api.gouv.fr
   - link: Nos documents de référence
@@ -41,3 +43,7 @@ outils-pour-les-agents:
     url: https://www.tchap.gouv.fr/
   - link: Webconférence
     url: https://webconf.numerique.gouv.fr/
+  - link: Osmose
+    url: https://osmose.numerique.gouv.fr/
+  - link: Plano
+    url: https://plano.numerique.gouv.fr/
