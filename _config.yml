@@ -23,6 +23,10 @@ collections:
   methode:
     title: Méthode technique
     output: true
+  outils-agents:
+    title: Outils Agents
+    output: true
+    permalink: "/outils-agents/:title/"
   pages:
     title: Pages
     output: true
@@ -32,10 +36,6 @@ collections:
   posts:
     title: Posts
     output: true
-  produits-services:
-    title: Produits et services
-    output: true
-    permalink: "/produits-services/:title/"
   publications:
     title: Publication
     output: true
@@ -43,6 +43,10 @@ collections:
   rgaa:
     title: RGAA
     output: true
+  services:
+    title: Services
+    output: true
+    permalink: "/services/:title/"
   uploads:
     title: Uploads
     output: true
@@ -82,6 +86,14 @@ defaults:
       nom: 
 - scope:
     path: ''
+    type: outils-agents
+  values:
+    date_de_modification: 
+    chapeau-text: 
+    une:
+      image: 
+- scope:
+    path: ''
     type: publications
   values:
     date_de_modification: 
@@ -92,7 +104,7 @@ defaults:
       alternative-textuelle: 
 - scope:
     path: ''
-    type: produits-services
+    type: services
   values:
     date_de_modification: 
     chapeau-text: 
