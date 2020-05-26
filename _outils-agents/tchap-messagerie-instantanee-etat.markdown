@@ -60,7 +60,7 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 
 Les **parlementaires et agents des parlements** ont également accès à la messagerie depuis mai 2020 ([consulter la plaquette de prise en main](/uploads/tchap-prise-en-main_parlementaires.pdf) - pdf, 860 ko).
 
-Tchap est ouvert en expérimentation dans plusieurs **collectivités territoriales **depuis février 2020. Vous souhaitez rejoindre l’expérimentation et proposer Tchap aux agents de votre collectivité ? Contactez [tchap.dinum@modernisation.gouv.fr](mailto:tchap.dinum@modernisation.gouv.fr) pour plus d’information. Une convention devra être établie et signée par la direction générale des services (téléchargez le modèle de convention en format [Word](/uploads/CONVENTION-DE-SERVICE-TCHAP.DOCX) et [odt](/uploads/CONVENTION-DE-SERVICE-TCHAP.odt)).
+Tchap est ouvert en expérimentation dans plusieurs **collectivités territoriales** depuis février 2020. Vous souhaitez rejoindre l’expérimentation et proposer Tchap aux agents de votre collectivité ? Contactez [tchap.dinum@modernisation.gouv.fr](mailto:tchap.dinum@modernisation.gouv.fr) pour plus d’information. Une convention devra être établie et signée par la direction générale des services (téléchargez le modèle de convention en format [Word](/uploads/CONVENTION-DE-SERVICE-TCHAP.DOCX) et [odt](/uploads/CONVENTION-DE-SERVICE-TCHAP.odt)).
 
 En mai 2020, Tchap compte **plus de 150 000 utilisateurs**.
 <br>
