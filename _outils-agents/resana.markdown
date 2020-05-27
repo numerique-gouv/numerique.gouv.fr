@@ -68,19 +68,19 @@ Resana est ouvert à **tous les agents de l’État**. Ils peuvent inviter dans 
 
 Pour créer votre compte en tant qu’agent de l’État, faites-en la demande en envoyant un courriel à : <a href="mailto:resana.numerique.gouv.fr?subject=Demande de création de compte sur RESANA&amp;body=Bonjour, je souhaite rejoindre la plateforme collaborative RESANA dans le cadre de XXXX">resana.numerique.gouv.fr</a>
 
-## Rejoignez les plus de 150 000 utilisateurs !
-
+## Accéder à Resana
 {: .text-center .margin-bottom-1 .margin-top-3}
 
-<a href="https://play.google.com/store/apps/details?id=com.ionicframework.resana2377483&hl=fr" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png"></figure></a>
-<a href="https://apps.apple.com/fr/app/resana/id1443845334" alt="Télécharger l'application sur l'Appstore"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png"></figure></a>
-
-#### Et en version web
+#### Sur ordinateur
 
 {: .text-center .margin-bottom-0}
 [sur resana.numerique.gouv.fr](https://resana.numerique.gouv.fr/)
 {: .text-center .noir}
 <a href="https://resana.numerique.gouv.fr/" alt="Tchap version web"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png"></figure></a>
+<a href="https://play.google.com/store/apps/details?id=com.ionicframework.resana2377483&hl=fr" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png"></figure></a>
+<a href="https://apps.apple.com/fr/app/resana/id1443845334" alt="Télécharger l'application sur l'Appstore"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png"></figure></a>
+
+
 
 > <br>
 > **Vous souhaitez faire la promotion de Tchap au sein de votre administration ?**
