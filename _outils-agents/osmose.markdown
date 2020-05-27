@@ -77,6 +77,6 @@ Seul un agent de l’État ou d'un établissement public peut demander à créer
 {: .lien-important}
 
 <br>
-*À noter : Le point de contact [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service liée à la crise du covid-19 et au télétravail massif,  le mode d’inscription et de support est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM).*
+*À noter : Le point de contact [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service liée à la crise du covid-19 et au télétravail massif,  le mode d’inscription et de support est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM) et des DSI des administrations concernées.*
 
 *Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur [**Jalios**](https://www.jalios.com) (données hébergées en France).*
