@@ -5,6 +5,7 @@ tags:
 - Osmose
 - ETNA
 - Outils pour les agents
+- plateforme collaborative
 chapeau-text: Proposée par la DINUM, la plateforme Osmose permet aux agents de l’État
   et des établissements publics d’animer en ligne une communauté professionnelle.
 une:
