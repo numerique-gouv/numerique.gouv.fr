@@ -33,6 +33,8 @@ En conséquence, des solutions complémentaires avec un **hébergement en France
 **Cette liste des solutions et leur évaluation évoluent : n’hésitez pas à consulter régulièrement les mises à jour.**
 
 Par ailleurs, la DINUM conseille de ne pas utiliser l’application Zoom ou d’autres solutions qui ne présentent pas de garanties de sécurité et de confidentialité suffisantes pour les usages professionnels au sein des services de l’État.
+<br>
+<br>
 
 <a href="/uploads/outils_webconference-agents-etat.pdf"><img src="/uploads/capture-tableau-webconf.png" width="400" alt="Consulter le tableau comparatif des solutions (pdf, 65 ko)"/>
 </a>
