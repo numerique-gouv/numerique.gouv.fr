@@ -73,6 +73,6 @@ Dédié aux agents de l’État et des établissements publics, Plano se destine
 {: .lien-important}
 
 <br>
-*À noter : Le point de contact [plano.dinum@modernisation.gouv.fr ](mailto:plano.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service liée à la crise du covid-19 et au télétravail massif, le mode d’inscription est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM).*
+*À noter : Le point de contact [plano.dinum@modernisation.gouv.fr ](mailto:plano.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service liée à la crise du covid-19 et au télétravail massif, le mode d’inscription est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM) et des DSI des administrations concernées.*
 
 *Plano est un service proposé par la DINUM, basé sur la solution [**Wimi**](https://www.wimi-teamwork.com/fr/) de l’éditeur Cloud solutions, et est hébergé en France par Scaleway (ILIAD).*
