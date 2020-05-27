@@ -1,5 +1,5 @@
 ---
-title: Resana, une plateforme collaborative pour vos groupes de travail
+title: Resana, plateforme collaborative pour vos groupes de travail
 date: 2020-05-26 14:51:00 +02:00
 chapeau-text: Destinée aux agents de l’État, la plateforme collaborative Resana leur
   offre un espace numérique complet pour faciliter le stockage, le partage et la coédition
