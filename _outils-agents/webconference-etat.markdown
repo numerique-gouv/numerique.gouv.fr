@@ -8,6 +8,7 @@ tags:
 - ETNA
 - environnement de travail numérique de l'agent
 - Outils pour les agents
+date_de_modification: 28 mai 2020
 chapeau-text: L’État met à la disposition de tous ses agents un service de webconférence
   interministériel pour favoriser la coopération des équipes et le travail à distance.
 une:
@@ -66,7 +67,7 @@ d’utiliser la webconférence de l’État
 > Pour utiliser l’outil de webconférence de l’État, il vous suffit de disposer du matériel suivant :
 >
 > * un ordinateur connecté à Internet (et au RIE si vous devez créer le salon),
-> * un simple navigateur web (de préférence Chrome, Chromium, ou Firefox),
+> * un navigateur web : Edge Chromium, Chromium ou Google Chrome. Si aucun n’est disponible sur votre poste de travail, vous pouvez télécharger et installer [notre package Chromium dédié](https://webconf.numerique.gouv.fr/telechargement/Webconf_Etat_V1.3_webconf.exe), en toute autonomie (sauf cas exceptionnels), sans l’intervention d’un administrateur,
 > * une webcam,
 > * un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
 >
