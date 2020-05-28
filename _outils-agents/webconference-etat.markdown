@@ -88,7 +88,7 @@ d’utiliser la webconférence de l’État
 {: .text-center}
 
 > [Accédez au service de webconférence de l’État](https://webconf.numerique.gouv.fr/)
-> {: .lien-important}
+{: .lien-important}
 
 <br>
 <br>
