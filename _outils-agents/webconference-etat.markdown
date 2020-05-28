@@ -56,7 +56,6 @@ Les participants peuvent :
 L’État a choisi de créer et d’opérer sa propre solution de webconférence, hébergée sur ses serveurs : cette maîtrise, associée à un chiffrement des données via un protocole sécurisé, apporte davantage de garanties sur la confidentialité des échanges.
 
 ## 3 BONNES RAISONS
-
 {: .text-center .margin-bottom-0 .margin-top-3}
 d’utiliser la webconférence de l’État
 {: .text-center}
@@ -81,8 +80,8 @@ d’utiliser la webconférence de l’État
 >
 > <br>
 > Pour rejoindre un salon de webconférence, vous pouvez aussi simplement utiliser votre smartphone ou tablette Android, connectée à internet, via l’appli Jitsi Meet ([consultez ce tutoriel](/uploads/rejoindre-webconf-android.pdf)).
-> {: .noir .encadre}
-> <br>
+{: .noir .encadre}
+<br>
 
 <a href="https://webconf.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" alt="Accédez au service de webconférence de l’État"/>
 </a>
