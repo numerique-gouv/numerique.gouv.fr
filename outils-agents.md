@@ -1,5 +1,5 @@
 ---
-title: Outils collaboratifs pour les agents
+title: Outils de travail collaboratif pour les agents
 permalink: "/outils-agents/"
 une:
   image: "/uploads/outils_agents_rubrique.png"
