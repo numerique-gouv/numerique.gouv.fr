@@ -26,13 +26,9 @@ Vous avez besoin d’**organiser à distance des réunions, des conférences, de
 Les participants peuvent :
 
 * **échanger à distance** en audio et vidéo,
-
 * **diffuser** une présentation,
-
 * **partager la fenêtre** d’un programme sur leur ordinateur,
-
 * **discuter en instantané** via un tchat intégré,
-
 * **éditer un texte** en mode collaboratif et en temps réel,
 
 * …
@@ -71,11 +67,8 @@ d’utiliser la webconférence de l’État
 > Pour utiliser l’outil de webconférence de l’État, il vous suffit de disposer du matériel suivant :
 >
 > * un ordinateur connecté à Internet (et au RIE si vous devez créer le salon),
->
 > * un simple navigateur web (de préférence Chrome, Chromium, ou Firefox),
->
 > * une webcam,
->
 > * un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
 >
 > <br>
