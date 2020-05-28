@@ -67,8 +67,11 @@ d’utiliser la webconférence de l’État
 > Pour utiliser l’outil de webconférence de l’État, il vous suffit de disposer du matériel suivant :
 >
 > * un ordinateur connecté à Internet (et au RIE si vous devez créer le salon),
+>
 > * un simple navigateur web (de préférence Chrome, Chromium, ou Firefox),
+>
 > * une webcam,
+>
 > * un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
 >
 > <br>
