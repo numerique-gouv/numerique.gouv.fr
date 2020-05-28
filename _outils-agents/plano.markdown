@@ -5,6 +5,7 @@ tags:
 - Plano
 - ETNA
 - Outils pour les agents
+- plateforme collaborative
 chapeau-text: Proposée par la DINUM, la plateforme collaborative en ligne Plano permet
   aux agents de l’État et des établissements publics de gérer leurs projets efficacement
   et de faciliter le travail en équipe, y compris à distance.
