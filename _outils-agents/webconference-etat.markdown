@@ -30,7 +30,6 @@ Les participants peuvent :
 * **partager la fenêtre** d’un programme sur leur ordinateur,
 * **discuter en instantané** via un tchat intégré,
 * **éditer un texte** en mode collaboratif et en temps réel,
-
 * …
   <br>
   <br>
