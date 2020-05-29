@@ -50,7 +50,7 @@ Resana est ouvert à **tous les agents de l’État**. Ils peuvent inviter dans 
 <br>
 
 <figure class='image-left' style='width: 6%;'>
-<img src="/uploads/shield-bleu.png"/>
+<img src="/uploads/Atout.png"/>
 </figure>## Les atouts de la solution
 {: .margin-bottom-1}
 
