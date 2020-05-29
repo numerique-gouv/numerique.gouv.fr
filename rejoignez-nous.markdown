@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '23 avril 2020 '
+date_de_modification: '29 mai 2020 '
 layout: page-annexe
 ---
 
@@ -131,7 +131,13 @@ Zoom sur quelques postes dans le numérique public :
 > <br>
 > <br>
 > 
-> **Ministère de la culture**
+> **Ministère de la Transition écologique et solidaire/Ministère de la Cohésion des territoires**
+> * [**Chef de projet maîtrise d’ouvrage de solutions numériques RH H/F**](/uploads/DSNUMRH2-12VA090008-SRI201-22-Chef-de-projet-solutions-numeriques-RH.pdf "Chef de projet maîtrise d’ouvrage de solutions numériques RH H/F - Télécharger le pdf") (pdf - 130&nbsp;ko)
+> <br>Cadre/Catégorie A
+> <br>Poste basé à La Défense (92)<br>
+>
+> 
+> **Ministère de la Culture**
 > * [**Responsable de l'atelier numérique H/F**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=081a5d0c-4c02-4292-8806-ed8b0e979a03&offerid=373532 "Responsable de l'atelier numérique H/F")<br>Cadre/Catégorie A
 > <br>
 >
