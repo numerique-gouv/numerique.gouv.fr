@@ -44,6 +44,8 @@ Resana est ouvert à **tous les agents de l’État**. Ils peuvent inviter dans 
 * **Questionnaire et sondage**
 
 * **Publication de contenus** (texte, photo, vidéo...)
+<br>
+<br>
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/shield-bleu.png"/>
@@ -67,7 +69,8 @@ Resana est ouvert à **tous les agents de l’État**. Ils peuvent inviter dans 
 * **Aide à l’utilisation** (guide utilisateur, tutoriels en ligne, webinars…)
 
 * **Liens directs vers des outils utiles :** webconférence de l’État, Tchap la messagerie instantanée de l’État
-  <br>
+<br>
+<br>
 
 ## Comment rejoindre Resana ?
 
@@ -77,7 +80,6 @@ Pour créer votre compte en tant qu’agent de l’État, faites-en la demande e
 {: .text-center .margin-bottom-1 .margin-top-3}
 
 #### Sur ordinateur
-
 {: .text-center .margin-bottom-0}
 [sur resana.numerique.gouv.fr](https://resana.numerique.gouv.fr/)
 {: .text-center .noir}
@@ -91,7 +93,7 @@ Pour créer votre compte en tant qu’agent de l’État, faites-en la demande e
 > **Vous souhaitez faire la promotion de Tchap au sein de votre administration ?**
 > <br>
 > Vous pouvez utiliser la vidéo présente en haut de cette page pour vos sites Intranet et lettres internes en l'embarquant directement [depuis notre chaîne Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf). Nous pouvons aussi vous fournir le fichier vidéo pour que vous puissiez la diffuser par exemple sur les écrans dans les espaces communs de votre administration ; pour cela, envoyez un [courriel au service communication de la DINUM](mailto:communication.dinum@modernisation.gouv.fr).
-> {: .encadre}
+{: .encadre}
 
 *Resana est un service interministériel opéré par le SGAR Nouvelle-Aquitaine. Il a été réalisé dans le cadre de **[TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public , piloté par la direction interministérielle du numérique (DINUM).*
 
