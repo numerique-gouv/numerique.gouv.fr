@@ -74,9 +74,11 @@ Resana est ouvert à **tous les agents de l’État**. Ils peuvent inviter dans 
 <br>
 <br>
 
-## Comment rejoindre Resana ?
 
-Pour créer votre compte en tant qu’agent de l’État, faites-en la demande en envoyant un courriel à : <a href="mailto:resana.numerique.gouv.fr?subject=Demande de création de compte sur RESANA&amp;body=Bonjour, je souhaite rejoindre la plateforme collaborative RESANA dans le cadre de XXXX">resana.numerique.gouv.fr</a>
+> ## Comment rejoindre Resana ?
+> 
+> Pour créer votre compte en tant qu’agent de l’État, faites-en la demande en envoyant un courriel à : <a href="mailto:resana.contact@modernisation.gouv.fr?subject=Demande de création de compte sur RESANA&amp;body=Bonjour, je souhaite rejoindre la plateforme collaborative RESANA dans le cadre de XXXX">resana.contact@modernisation.gouv.fr</a>
+{: .encadre}
 
 ## Accéder à Resana
 {: .text-center .margin-bottom-1 .margin-top-3}
@@ -89,13 +91,8 @@ Pour créer votre compte en tant qu’agent de l’État, faites-en la demande e
 <a href="https://play.google.com/store/apps/details?id=com.ionicframework.resana2377483&hl=fr" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png"></figure></a>
 <a href="https://apps.apple.com/fr/app/resana/id1443845334" alt="Télécharger l'application sur l'Appstore"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png"></figure></a>
 
-
-
-> <br>
-> **Vous souhaitez faire la promotion de Tchap au sein de votre administration ?**
-> <br>
-> Vous pouvez utiliser la vidéo présente en haut de cette page pour vos sites Intranet et lettres internes en l'embarquant directement [depuis notre chaîne Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf). Nous pouvons aussi vous fournir le fichier vidéo pour que vous puissiez la diffuser par exemple sur les écrans dans les espaces communs de votre administration ; pour cela, envoyez un [courriel au service communication de la DINUM](mailto:communication.dinum@modernisation.gouv.fr).
-{: .encadre}
+<br>
+<br>
 
 *Resana est un service interministériel opéré par le SGAR Nouvelle-Aquitaine. Il a été réalisé dans le cadre de **[TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public , piloté par la direction interministérielle du numérique (DINUM).*
 
