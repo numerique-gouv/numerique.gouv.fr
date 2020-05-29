@@ -23,7 +23,7 @@ Resana est une **plateforme collaborative** autour du **partage et stockage de d
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/group-bleu.png"/>
-</figure>### Qui peut utiliser Resana ?
+</figure>## Qui peut utiliser Resana ?
 {: .margin-bottom-1}
 Resana est ouvert à **tous les agents de l’État**. Ils peuvent inviter dans leurs espaces de travail leurs collaborateurs et partenaires, internes et externes à l’État.
 <br>
@@ -32,7 +32,7 @@ Resana est ouvert à **tous les agents de l’État**. Ils peuvent inviter dans 
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto-intervention.png"/>
-</figure>### Fonctionnalités principales
+</figure>## Fonctionnalités principales
 {: .margin-bottom-1}
 
 * **Stockage et partage de fichiers** (jusqu’à 500 Mo par fichier)
