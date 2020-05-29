@@ -41,7 +41,7 @@ Les participants peuvent :
 {: .margin-bottom-1}
 **Tout agent de l’État,** connecté au réseau interministériel de l’État (RIE), peut **créer librement un salon de webconférence**. Il lui suffit ensuite d’en partager le lien unique aux participants, qu’ils soient de l’administration ou de l’extérieur (partenaires, prestataires, entreprises, citoyens…).
 
-**Pour rejoindre un salon** en tant qu'invité, vous pouvez le faire hors réseau depuis n'importe quel accès internet, **soit depuis la version web** sur [webconference.numerique.gouv.fr](https://webconference.numerique.gouv.fr), **soit à partir de votre smartphone ou tablette Android ou Apple** depuis l'application Jitsi Meet, disponible [sur Google Play Store](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=fr) et [sur l'App Store](https://apps.apple.com/fr/app/jitsi-meet/id1165103905). Dans ce cas, [suivez les instructions de ce tutoriel](/uploads/rejoindre-webconf-smartphone-tablette.pdf).
+**Pour rejoindre un salon** en tant qu'invité, vous pouvez le faire hors réseau depuis n'importe quel accès internet, **soit depuis la version web** sur [webconference.numerique.gouv.fr](https://webconference.numerique.gouv.fr), **soit à partir de votre smartphone ou tablette sous Android ou iOS** depuis l'application Jitsi Meet, disponible [sur Google Play Store](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=fr) et [sur l'App Store](https://apps.apple.com/fr/app/jitsi-meet/id1165103905). Dans ce cas, [suivez les instructions de ce tutoriel](/uploads/rejoindre-webconf-smartphone-tablette.pdf).
 <br>
 <br>
 
@@ -72,7 +72,7 @@ d’utiliser la webconférence de l’État
 > * un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
 >
 > <br>
-> Pour rejoindre un salon de webconférence, vous pouvez aussi simplement utiliser votre smartphone ou tablette Android, connectée à internet, via l’appli Jitsi Meet ([consultez ce tutoriel](/uploads/rejoindre-webconf-android.pdf)).
+> Pour rejoindre un salon de webconférence, vous pouvez aussi simplement utiliser votre smartphone ou tablette sous Android ou iOS, connectée à internet, via l’appli Jitsi Meet ([consultez ce tutoriel](/uploads/rejoindre-webconf-android.pdf)).
 {: .noir .encadre}
 <br>
 
