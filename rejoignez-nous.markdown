@@ -30,6 +30,8 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-1}
 * [**Architecte de système d'information polyvalent (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=59fa2276-93cf-4987-b5aa-a5463a7f56d5&offerid=375127 "Architecte de système d'information polyvalent (F/H) - Télécharger le pdf") (pdf - 773&nbsp;ko)
 <br>Cadre/Catégorie A
+<br>
+<br>
 
 #### **Apprentissage**
 {: .margin-top-4 .margin-bottom-1}
