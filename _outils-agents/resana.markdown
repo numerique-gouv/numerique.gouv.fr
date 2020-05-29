@@ -75,10 +75,10 @@ Resana est ouvert à **tous les agents de l’État**. Ils peuvent inviter dans 
 <br>
 
 
-> ## Comment rejoindre Resana ?
+> #### Comment rejoindre Resana ?
 > 
-> Pour créer votre compte en tant qu’agent de l’État, faites-en la demande en envoyant un courriel à : <a href="mailto:resana.contact@modernisation.gouv.fr?subject=Demande de création de compte sur RESANA&amp;body=Bonjour, je souhaite rejoindre la plateforme collaborative RESANA dans le cadre de XXXX">resana.contact@modernisation.gouv.fr</a>
-{: .encadre}
+> Pour créer votre compte en tant qu’agent de l’État, faites-en la demande en envoyant un courriel à : <a href="mailto:resana.contact@modernisation.gouv.fr?subject=Demande de création de compte sur Resana&amp;body=Bonjour, je souhaite rejoindre la plateforme collaborative Resana dans le cadre de XXXX">resana.contact@modernisation.gouv.fr</a>
+{: .noir .encadre}
 
 ## Accéder à Resana
 {: .text-center .margin-bottom-1 .margin-top-3}
