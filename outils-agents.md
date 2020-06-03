@@ -26,6 +26,10 @@ publications:
   url: "/outils-agents/organiser-webconference-outils-agents-etat/"
   une-ou-diaporama:
   - image: "/uploads/outils_webconference-rub.png"
+- title: Resana, plateforme collaborative pour vos groupes de travail
+  url: "/outils-agents/resana/"
+  une-ou-diaporama:
+  - image: "/uploads/740x500_Resana.jpg"
 layout: publications
 ---
 
