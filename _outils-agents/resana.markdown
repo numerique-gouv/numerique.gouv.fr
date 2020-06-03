@@ -1,6 +1,6 @@
 ---
 title: Resana, plateforme collaborative pour vos groupes de travail
-date: 2020-06-04 00:51:00 +02:00
+date: 2020-06-03 00:51:00 +02:00
 tags:
 - Outils pour les agents
 - plateforme collaborative
