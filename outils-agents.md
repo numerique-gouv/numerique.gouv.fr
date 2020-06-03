@@ -13,7 +13,7 @@ publications:
   url: "/outils-agents/tchap-messagerie-instantanee-etat/"
   une-ou-diaporama:
   - image: "/uploads/740x500_Visuel_Tchap.jpg"
-- title: Osmose, la plateforme des communautés professionnelles de l’État
+- title: Osmose, plateforme des communautés professionnelles de l’État
   url: "/outils-agents/osmose/"
   une-ou-diaporama:
   - image: "/uploads/20200331_produit_service_Osmose.png"
@@ -21,15 +21,15 @@ publications:
   url: "/outils-agents/plano/"
   une-ou-diaporama:
   - image: "/uploads/20200331_produit_service_PLANO.png"
+- title: Resana, plateforme collaborative pour vos groupes de travail
+  url: "/outils-agents/resana/"
+  une-ou-diaporama:
+  - image: "/uploads/740x500_Resana.jpg"
 - title: 'Webconférence : quels outils pour les agents de l’État pendant la crise
     Covid-19 ?'
   url: "/outils-agents/organiser-webconference-outils-agents-etat/"
   une-ou-diaporama:
   - image: "/uploads/outils_webconference-rub.png"
-- title: Resana, plateforme collaborative pour vos groupes de travail
-  url: "/outils-agents/resana/"
-  une-ou-diaporama:
-  - image: "/uploads/740x500_Resana.jpg"
 layout: publications
 ---
 
