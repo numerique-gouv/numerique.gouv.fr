@@ -9,6 +9,8 @@ tags:
 chapeau-text: Destinée aux agents de l’État, la plateforme collaborative Resana leur
   offre un espace numérique complet pour faciliter le stockage, le partage et la coédition
   de documents, mais aussi le travail en équipe, y compris en mobilité.
+une:
+  image: "/uploads/Resana_1635x345.jpg"
 layout: rgaa
 ---
 
