@@ -46,6 +46,7 @@ Resana est ouvert à **tous les agents de l’État**. Ils peuvent inviter dans 
 * **Publication de contenus** (texte, photo, vidéo...)
 <br>
 <br>
+<br>
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/Atout.png"/>
