@@ -1,6 +1,6 @@
 ---
 title: Resana, plateforme collaborative pour vos groupes de travail
-date: 2020-06-03 00:51:00 +02:00
+date: 2020-06-04 00:51:00 +02:00
 tags:
 - Outils pour les agents
 - plateforme collaborative
@@ -27,7 +27,7 @@ Resana est une **plateforme collaborative** autour du **partage et stockage de d
 <img src="/uploads/group-bleu.png"/>
 </figure>## Qui peut utiliser Resana ?
 {: .margin-bottom-1}
-Resana est ouvert à **tous les agents de l’État**. Ils peuvent inviter dans leurs espaces de travail leurs collaborateurs et partenaires, internes et externes à l’État.
+Resana est ouvert à **tous les agents de l’État** et de ses **établissements publics**. Ils peuvent inviter dans leurs espaces de travail leurs collaborateurs et partenaires, internes et externes à l’État.
 <br>
 <br>
 <br>
@@ -68,7 +68,7 @@ Resana est ouvert à **tous les agents de l’État**. Ils peuvent inviter dans 
 
 > #### Comment rejoindre Resana ?
 > 
-> Pour créer votre compte en tant qu’agent de l’État, faites-en la demande en envoyant un courriel à : <a href="mailto:resana.contact@modernisation.gouv.fr?subject=Demande de création de compte sur Resana&amp;body=Bonjour, je souhaite rejoindre la plateforme collaborative Resana dans le cadre de XXXX">resana.contact@modernisation.gouv.fr</a>
+> Pour créer votre compte en tant qu’agent de l’État ou d'un établissement public, faites-en la demande en envoyant un courriel à : <a href="mailto:resana.contact@modernisation.gouv.fr?subject=Demande de création de compte sur Resana&amp;body=Bonjour, je souhaite rejoindre la plateforme collaborative Resana dans le cadre de XXXX">resana.contact@modernisation.gouv.fr</a>
 {: .noir .encadre}
 
 ## Accéder à Resana
