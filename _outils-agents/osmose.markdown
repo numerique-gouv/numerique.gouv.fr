@@ -1,5 +1,5 @@
 ---
-title: Osmose, la plateforme des communautés professionnelles de l’État
+title: Osmose, plateforme des communautés professionnelles de l’État
 date: 2020-04-03 06:46:00 +02:00
 tags:
 - Osmose
@@ -67,6 +67,7 @@ Seul un agent de l’État ou d'un établissement public peut demander à créer
 > <br>
 > <br>
 > Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
+> [Visionnez la démonstration vidéo](https://dai.ly/x7u6p1z) réalisée par nos équipes pour animer une communauté en ligne sur Osmose et bien utiliser l'outil.
 {: .noir .encadre}
 
 <br>
