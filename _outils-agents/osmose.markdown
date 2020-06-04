@@ -65,7 +65,9 @@ Seul un agent de l’État ou d'un établissement public peut demander à créer
 > C'est l’animateur de la communauté qui peut vous y inviter. 
 > Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte.
 > <br>
-> <br>
+> 
+> #### Aides et tutoriels
+> 
 > Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. 
 > <br>[Visionnez la démonstration vidéo](https://dai.ly/x7u6p1z) réalisée par nos équipes pour animer une communauté en ligne sur Osmose et bien utiliser l'outil.
 > <br>Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
