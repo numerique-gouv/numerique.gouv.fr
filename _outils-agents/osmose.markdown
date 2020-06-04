@@ -57,7 +57,7 @@ Seul un agent de l’État ou d'un établissement public peut demander à créer
 
 > #### Comment créer une communauté sur Osmose ?
 > 
-> Contactez le support [**osmose.dinum@modernisation.gouv.fr**](mailto:osmose.dinum@modernisation.gouv.fr).
+> Contactez <a href="mailto:osmose.dinum@modernisation.gouv.fr?subject=Demande de création de communauté sur Osmose">osmose.dinum@modernisation.gouv.fr</a>.
 > <br>	
 > 
 > #### Comment rejoindre une communauté sur Osmose ?
@@ -65,9 +65,14 @@ Seul un agent de l’État ou d'un établissement public peut demander à créer
 > C'est l’animateur de la communauté qui peut vous y inviter. 
 > Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte.
 > <br>
+> 
+> #### Aide et tutoriels
+> 
+> Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. 
+> <br>[Visionnez la démonstration vidéo](https://dai.ly/x7u6p1z) réalisée par nos équipes pour animer une communauté en ligne sur Osmose et bien utiliser l'outil.
 > <br>
-> Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
-> [Visionnez la démonstration vidéo](https://dai.ly/x7u6p1z) réalisée par nos équipes pour animer une communauté en ligne sur Osmose et bien utiliser l'outil.
+> 
+> Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
 {: .noir .encadre}
 
 <br>
