@@ -16,5 +16,5 @@ une-ou-diaporama:
 redirection: "/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/"
 ---
 
-> [Lire la suite](/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/)
+> [Lire la suite](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)
 {: .lien-important}
