@@ -43,7 +43,7 @@ Quatrième enjeu : améliorer l’autonomie de L’État en matière de numériq
 
 Sixième et dernier enjeu, enfin, réaliser des économies et contribuer à la maîtrise des dépenses publiques, afin de pouvoir financer les investissements ultérieurs.
 
-<div style="text-indent: 15px;"><b>Lire aussi : </b><a href="https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/">TECH.GOUV : Stratégie et feuille de route 2019-2021</a></div>
+<div style="text-indent: 15px;"><b>Lire aussi : </b><a href="https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">TECH.GOUV : Stratégie et feuille de route 2019-2021</a></div>
 
 #### **Quelle est la philosophie derrière TECH.GOUV ?**
 {: .margin-top-2 .margin-bottom-1} 
@@ -101,5 +101,5 @@ Le Graal serait évidemment que les collectivités contribuent et s’investisse
 
 Les projets prioritaires sont dans TECH.GOUV, mais toute l’activité de la DINSIC ne se résume pas à TECH.GOUV. À côté de cela, la DINSIC continuera à promouvoir l’open data et la maîtrise des données, à opérer le réseau interministériel de l’État, à développer des produits, à animer les systèmes d’information territoriaux et à contrôler l’avancement des grands projets de l’État.
 
-> [En savoir plus sur le programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/)
+> [En savoir plus sur le programme TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)
 {: .lien-important}
