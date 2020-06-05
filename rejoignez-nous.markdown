@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '29 mai 2020 '
+date_de_modification: '5 juin 2020 '
 layout: page-annexe
 ---
 
@@ -44,6 +44,14 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 * [**Apprentissage en data science (F/H)**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=9f0603d5-f629-4122-ad1a-9b607e50a959&offerid=379737 "Apprentissage en data science (F/H) - Télécharger le pdf") (pdf - 380&nbsp;ko)
 
 * [**Apprenti/Apprentie gouvernance et maîtrise des risques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f61be055-3156-49e7-838f-03e8b691fe12&offerid=379743 "Apprenti/Apprentie gouvernance et maîtrise des risques - Télécharger le pdf") (pdf - 429&nbsp;ko)
+<br>
+<br>
+
+#### **Stage**
+{: .margin-top-4 .margin-bottom-1}
+* [**Stage chargé/chargée de mission animation et communication @Design des services numériques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=9c2d07dd-7d9d-4c5d-ba97-ee3c6d39779b&offerid=394902 "Stage chargé/chargée de mission animation et communication @Design des services numériques - Télécharger le pdf") (pdf - 84&nbsp;ko)
+
+* [**Stage chargé/chargée de mission ateliers d'écoute @Design des services numériques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=0815c59e-6540-4fd0-a4d8-e56ede95bbc8&offerid=394901 "Stage chargé/chargée de mission ateliers d'écoute @Design des services numériques - Télécharger le pdf") (pdf - 84&nbsp;ko)
 <br>
 <br>
 
