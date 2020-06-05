@@ -6,7 +6,8 @@ categories:
 - Article
 tags:
 - Service numérique
-- Commandi UX
+- Commando UX
+- UX
 chapeau-text: 'La direction interministérielle du numérique (DINUM) lance aujourd’hui
   un tout nouveau programme : Commando UX. Designers et développeurs auront 4 mois
   pour améliorer l''expérience usager de 5 à 10 services publics numériques parmi
@@ -44,6 +45,8 @@ Jusqu’au 19 juin 2020, 23h59 <br>
 
 > #### Vous êtes designer ou développeur ?
 > {: .text-center .margin-bottom-0 .margin-top-0}
+>
+>
 > UX designer, UX engineer, développeur/développeuse… > Et si vous mettiez vos compétences au service d’un projet d'intérêt général à fort impact ?
 >
 > Rendez-vous le **lundi 29 juin 2020** pour découvrir les défis proposés, postuler et rejoindre le programme Commando UX ! Vous serez recrutés en CDD, pendant 4 mois, de septembre à décembre 2020. 
