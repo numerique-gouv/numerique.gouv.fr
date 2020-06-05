@@ -43,7 +43,7 @@ Quatrième enjeu : améliorer l’autonomie de L’État en matière de numériq
 
 Sixième et dernier enjeu, enfin, réaliser des économies et contribuer à la maîtrise des dépenses publiques, afin de pouvoir financer les investissements ultérieurs.
 
-<div style="text-indent: 15px;"><b>Lire aussi : </b><a href="https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/">TECH.GOUV : Stratégie et feuille de route 2019-2021</a></div>
+<div style="text-indent: 15px;"><b>Lire aussi : </b><a href="https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">TECH.GOUV : Stratégie et feuille de route 2019-2021</a></div>
 
 #### **Quelle est la philosophie derrière TECH.GOUV ?**
 {: .margin-top-2 .margin-bottom-1} 
