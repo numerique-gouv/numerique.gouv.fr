@@ -26,6 +26,8 @@ Transformer rapidement des services numériques de l’État pour les rendre plu
 
 > #### Pourquoi « Commando UX » ?
 > {: .text-center .margin-bottom-0 .margin-top-0}
+>
+>
 > Ce commando UX est tout ce qu’il y a de plus pacifique. Ce nom fait référence à la terminologie souvent utilisée dans le domaine de l’UX, où les « guérillas tests » renvoient par exemple à des rencontres sur le terrain avec ses utilisateurs potentiels, dans leur environnement, pour leur faire tester un service, une fonctionnalité. Ce que nous conservons de l’esprit commando ? La qualité et le niveau d’exigence demandé aux profils qui seront recrutés ainsi que la rapidité et l’efficacité d’action.
 {: .noir .encadre}
 
