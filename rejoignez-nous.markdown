@@ -51,8 +51,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-1}
 * [**Stage chargé/chargée de mission animation et communication @Design des services numériques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=9c2d07dd-7d9d-4c5d-ba97-ee3c6d39779b&offerid=394902 "Stage chargé/chargée de mission animation et communication @Design des services numériques - Télécharger le pdf") (pdf - 84&nbsp;ko)
 
-* [**Stage chargé/chargée de mission ateliers d'écoute @Design des services numériques
-**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=0815c59e-6540-4fd0-a4d8-e56ede95bbc8&offerid=394901 "Stage chargé/chargée de mission ateliers d'écoute @Design des services numériques - Télécharger le pdf") (pdf - 84&nbsp;ko)
+* [**Stage chargé/chargée de mission ateliers d'écoute @Design des services numériques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=0815c59e-6540-4fd0-a4d8-e56ede95bbc8&offerid=394901 "Stage chargé/chargée de mission ateliers d'écoute @Design des services numériques - Télécharger le pdf") (pdf - 84&nbsp;ko)
 <br>
 <br>
 
