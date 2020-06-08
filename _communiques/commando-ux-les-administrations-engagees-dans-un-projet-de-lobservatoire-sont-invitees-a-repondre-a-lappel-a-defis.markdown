@@ -1,7 +1,14 @@
 ---
 title: 'Commando UX : les administrations engagées dans un projet de l''Observatoire
   sont invitées à répondre à l''appel à défis'
-date: 2020-06-08 17:56:00 +02:00
+date: 2020-06-08 18:13:00 +02:00
+categories:
+- Communiqué de presse
+tags:
+- UX Design
+- observatoire
+- design
+- Commando UX
 chapeau-text: "**Au service de l’inclusion, le design des services publics contribue
   à la transformation numérique de l’État. Exposés dans leur quotidien à des services
   désirables, construits de manière simple et ergonomique, les usagers nourrissent
