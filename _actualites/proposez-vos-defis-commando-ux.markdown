@@ -3,11 +3,13 @@ title: Administrations, proposez vos défis au Commando UX pour améliorer vos s
   numériques !
 date: 2020-06-08 01:21:00 +02:00
 categories:
-- Article
+- Appel à défis
 tags:
-- Service numérique
 - Commando UX
 - UX
+- services publics en ligne
+- qualité des services publics numériques
+- appel à défis
 chapeau-text: 'La direction interministérielle du numérique (DINUM) lance aujourd’hui
   un tout nouveau programme : Commando UX. Designers et développeurs auront 4 mois
   pour améliorer l''expérience usager de 5 à 10 services publics numériques parmi
