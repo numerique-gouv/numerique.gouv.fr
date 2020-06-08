@@ -38,6 +38,8 @@ Transformer rapidement des services numériques de l’État pour les rendre plu
 ### Des designers et développeurs à vos côtés, financés par la DINUM 
 
 Parmi les propositions, la DINUM retiendra les 5 à 10 défis présentant le plus fort impact pour l’usager. À la clé pour l’administration : **le recrutement et le financement à 100%** par la DINUM d’**un à deux designers**, et si besoin d’**un développeur** en complément – **pendant 4 mois**. De septembre à décembre 2020, ce « commando UX » relèvera le défi proposé directement aux côtés de l’équipe en charge du service en question, au sein de l’administration porteuse.
+<br> 
+<br> 
 
 <div align="center">
 <a href="https://design.numerique.gouv.fr/commando-ux/" class="button">Administrations : proposez vos défis</a>
@@ -69,6 +71,7 @@ Depuis plusieurs années déjà, la DINUM promeut le recours au design et en dif
 * **29 juin au 17 juillet 2020 :** appel à candidatures designers et développeurs
 * **20 au 31 juillet 2020 :** entretiens et recrutement du commando UX
 * **7 septembre au 31 décembre 2020 :** intégration des designers et développeurs au sein de l’administration et réalisation des défis
+<br>
 <br>
 <br> 
 
