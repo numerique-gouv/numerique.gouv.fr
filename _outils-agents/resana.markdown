@@ -53,7 +53,7 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 </figure>## Les atouts de la solution
 {: .margin-bottom-2}
 
-* **Confidentialité des échanges** (cryptage des données, hébergement en France)
+* **Confidentialité des échanges** (chiffrement des données, hébergement en France)
 * **Simple d’utilisation,** intuitif
 * **Création d’un espace de travail en 30 secondes**
 * **Synchronisation des fichiers** et dossiers directement vers son poste de travail

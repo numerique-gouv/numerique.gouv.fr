@@ -1,14 +1,15 @@
 ---
 title: Administrations, proposez vos défis au Commando UX pour améliorer vos services
   numériques !
-date: 2020-06-05 11:21:00 +02:00
-published: false
+date: 2020-06-08 01:21:00 +02:00
 categories:
-- Article
+- Appel à défis
 tags:
-- Service numérique
 - Commando UX
 - UX
+- services publics en ligne
+- qualité des services publics numériques
+- appel à défis
 chapeau-text: 'La direction interministérielle du numérique (DINUM) lance aujourd’hui
   un tout nouveau programme : Commando UX. Designers et développeurs auront 4 mois
   pour améliorer l''expérience usager de 5 à 10 services publics numériques parmi
@@ -22,7 +23,7 @@ une-ou-diaporama:
 
 Transformer rapidement des services numériques de l’État pour les rendre plus **fluides**, **efficaces** et **compréhensibles, pour toutes et tous**. Et qu'ils tendent même à apporter du **plaisir** aux usagers. C’est l’objectif que poursuit la DINUM à travers son nouveau programme, Commando UX.
 
-À l’image des programmes Designers d’Intérêt Général l’an dernier et [Entrepreneurs d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) testé et approuvé par une trentaine d’administrations depuis 4 ans, ce dispositif repose dans un premier temps sur un appel à défis : les administrations sont invitées à proposer leur projet d’**amélioration de l’expérience usager**d’un de leurs services numériques. Avec un prérequis : ce service doit impérativement figurer parmi les**250 démarches les plus utilisées par les Français**, suivies dans**[l’observatoire](https://observatoire.numerique.gouv.fr/)**[de la qualité des services en ligne](https://observatoire.numerique.gouv.fr/), piloté lui aussi par la DINUM. Ainsi, nous nous assurons que son amélioration profite au plus grand nombre. <br>
+À l’image des programmes Designers d’Intérêt Général l’an dernier et [Entrepreneurs d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/) testé et approuvé par une trentaine d’administrations depuis 4 ans, ce dispositif repose dans un premier temps sur un appel à défis : les administrations sont invitées à proposer leur projet d’**amélioration de l’expérience usager**d’un de leurs services numériques. Avec un prérequis : ce service doit impérativement figurer parmi les **250 démarches les plus utilisées par les Français**, suivies dans [**l’observatoire** de la qualité des services en ligne](https://observatoire.numerique.gouv.fr/), piloté lui aussi par la DINUM. Ainsi, nous nous assurons que son amélioration profite au plus grand nombre. <br>
 <br>
 
 
@@ -36,11 +37,14 @@ Transformer rapidement des services numériques de l’État pour les rendre plu
 
 ### Des designers et développeurs à vos côtés, financés par la DINUM 
 
-Parmi les propositions, la DINUM retiendra les 5 à 10 défis présentant le plus fort impact pour l’usager. À la clé pour l’administration : **le recrutement et le financement à 100%** par la DINUM d’**un à deux designers**, et si besoin d’**un développeur **en complément – **pendant 4 mois**. De septembre à décembre 2020, ce « commando UX » relèvera le défi proposé directement aux côtés de l’équipe en charge du service en question, au sein de l’administration porteuse.
-
-**> Administrations : proposez vos défis**
-Jusqu’au 19 juin 2020, 23h59 <br>
+Parmi les propositions, la DINUM retiendra les 5 à 10 défis présentant le plus fort impact pour l’usager. À la clé pour l’administration : **le recrutement et le financement à 100%** par la DINUM d’**un à deux designers**, et si besoin d’**un développeur** en complément – **pendant 4 mois**. De septembre à décembre 2020, ce « commando UX » relèvera le défi proposé directement aux côtés de l’équipe en charge du service en question, au sein de l’administration porteuse.
 <br> 
+<br> 
+
+<div align="center">
+<a href="https://design.numerique.gouv.fr/commando-ux/" class="button">Administrations : proposez vos défis</a>
+<br>Jusqu’au 19 juin 2020, 23h59
+</div>
 
 
 > #### Vous êtes designer ou développeur ?
@@ -62,8 +66,18 @@ Depuis plusieurs années déjà, la DINUM promeut le recours au design et en dif
 
 ### Les dates clés du programme Commando UX :
 
-* 8 au 19 juin 2020 : appel à défis auprès des administrations
-* 22 au 26 juin 2020 : étude et sélection des 5 à 10 défis les plus impactants
-* 29 juin au 17 juillet 2020 : appel à candidatures designers et développeurs
-* 20 au 31 juillet 2020 : entretiens et recrutement du commando UX
-* 7 septembre au 31 décembre 2020 : intégration des designers et développeurs au sein de l’administration et réalisation des défis
+* **8 au 19 juin 2020 :** appel à défis auprès des administrations
+* **22 au 26 juin 2020 :** étude et sélection des 5 à 10 défis les plus impactants
+* **29 juin au 17 juillet 2020 :** appel à candidatures designers et développeurs
+* **20 au 31 juillet 2020 :** entretiens et recrutement du commando UX
+* **7 septembre au 31 décembre 2020 :** intégration des designers et développeurs au sein de l’administration et réalisation des défis
+<br>
+<br>
+<br> 
+
+<div align="center">
+<a href="https://design.numerique.gouv.fr/commando-ux/" class="button">Administrations : proposez vos défis</a>
+<br>Jusqu’au 19 juin 2020, 23h59
+</div>
+<br>
+<br> 
