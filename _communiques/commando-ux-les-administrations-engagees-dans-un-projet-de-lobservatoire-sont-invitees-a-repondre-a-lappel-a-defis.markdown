@@ -1,7 +1,7 @@
 ---
 title: 'Commando UX : les administrations engagées dans un projet de l''Observatoire
   sont invitées à répondre à l''appel à défis'
-date: 2020-06-08 18:13:00 +02:00
+date: 2020-06-08 18:18:00 +02:00
 categories:
 - Communiqué de presse
 tags:
