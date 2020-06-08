@@ -66,8 +66,17 @@ Depuis plusieurs années déjà, la DINUM promeut le recours au design et en dif
 
 ### Les dates clés du programme Commando UX :
 
-* 8 au 19 juin 2020 : appel à défis auprès des administrations
-* 22 au 26 juin 2020 : étude et sélection des 5 à 10 défis les plus impactants
-* 29 juin au 17 juillet 2020 : appel à candidatures designers et développeurs
-* 20 au 31 juillet 2020 : entretiens et recrutement du commando UX
-* 7 septembre au 31 décembre 2020 : intégration des designers et développeurs au sein de l’administration et réalisation des défis
+* **8 au 19 juin 2020 :** appel à défis auprès des administrations
+* **22 au 26 juin 2020 :** étude et sélection des 5 à 10 défis les plus impactants
+* **29 juin au 17 juillet 2020 :** appel à candidatures designers et développeurs
+* **20 au 31 juillet 2020 :** entretiens et recrutement du commando UX
+* **7 septembre au 31 décembre 2020 :** intégration des designers et développeurs au sein de l’administration et réalisation des défis
+<br>
+<br> 
+
+<div align="center">
+<a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Administrations : proposez vos défis</a>
+<b>Jusqu’au 19 juin 2020, 23h59</b>
+</div>
+<br>
+<br> 
