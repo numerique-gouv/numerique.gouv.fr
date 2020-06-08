@@ -41,7 +41,7 @@ Parmi les propositions, la DINUM retiendra les 5 à 10 défis présentant le plu
 
 <div align="center">
 <a href="https://design.numerique.gouv.fr/commando-ux/" class="button">Administrations : proposez vos défis</a>
-<br><b>Jusqu’au 19 juin 2020, 23h59</b>
+<br>Jusqu’au 19 juin 2020, 23h59
 </div>
 
 
@@ -74,7 +74,7 @@ Depuis plusieurs années déjà, la DINUM promeut le recours au design et en dif
 
 <div align="center">
 <a href="https://design.numerique.gouv.fr/commando-ux/" class="button">Administrations : proposez vos défis</a>
-<br><b>Jusqu’au 19 juin 2020, 23h59</b>
+<br>Jusqu’au 19 juin 2020, 23h59
 </div>
 <br>
 <br> 
