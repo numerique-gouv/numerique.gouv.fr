@@ -1,7 +1,7 @@
 ---
 title: Administrations, proposez vos défis au Commando UX pour améliorer vos services
   numériques !
-date: 2020-06-08 01:21:00 +02:00
+date: 2020-06-08 19:21:00 +02:00
 categories:
 - Appel à défis
 tags:
