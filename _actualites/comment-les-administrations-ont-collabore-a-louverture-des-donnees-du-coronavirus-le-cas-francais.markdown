@@ -2,6 +2,8 @@
 title: 'Comment les administrations ont collaboré à l’ouverture des données du Coronavirus
   : le cas français'
 date: 2020-06-09 16:56:00 +02:00
+categories:
+- Article
 tags:
 - Etalab
 - Données publiques
