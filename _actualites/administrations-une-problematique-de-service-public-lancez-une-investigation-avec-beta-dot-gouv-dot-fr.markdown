@@ -2,6 +2,8 @@
 title: 'Administrations : une problématique de service public ? Lancez une investigation
   avec Beta.gouv.fr !'
 date: 2020-06-18 10:28:00 +02:00
+categories:
+- Article
 tags:
 - beta.gouv.fr
 - Appel à projets
