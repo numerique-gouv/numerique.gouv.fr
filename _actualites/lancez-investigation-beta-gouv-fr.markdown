@@ -1,6 +1,6 @@
 ---
 title: 'Administrations : une problématique de service public à investiguer ? La DINUM
-  vous accompagne avec son dispositif Beta.gouvfr !'
+  vous accompagne avec son dispositif beta.gouv.fr !'
 date: 2020-06-19 10:28:00 +02:00
 categories:
 - Article
