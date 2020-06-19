@@ -41,20 +41,21 @@ Notre approche ?
 
 ## Des recommandations concrètes
 
-Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse claire** et des **recommandations concrètes** qui vous permettront de décider s’il convient ou non de poursuivre les travaux en finançant la construction du service, sous la forme d’une Startup d’État par exemple. Tous les ingrédients nécessaires pour préparer le développement d’un service public numérique !
+Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse claire** et des **recommandations concrètes** qui vous permettront de décider s’il convient ou non de poursuivre les travaux, sous la forme d’une Startup d’État par exemple ou via un autre dispositif adapté. Les conditions de réussite seront précisées, de même que les moyens (financiers, expertises) à allouer. Vous disposerez alors de tous les ingrédients nécessaires pour résoudre le problème en vous appuyant sur les opportunités du numérique !
 
-> **[Soumettez votre problématique avant le 26 juillet 2020 !](mailto:investigations@beta.gouv.fr)**
-{: .lien-important}
-{: .margin-bottom-0}
-<div align="center">Nous la traiterons ainsi en priorité.
-</div>
-<br>
+> **[Soumettez votre problématique au cours de l’été 2020 (de préférence avant le 26 juillet) !](mailto:investigations@beta.gouv.fr)**
+> {: .lien-important}
+> {: .margin-bottom-0}
+> <div align="center">Nous traiterons toutes les demandes au fil de l’eau.
+> </div>
+> <br>
+> <br>
 
-**Pour cela envoyez-nous un courriel décrivant la problématique à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr)** et un ou une membre de l’équipe reviendra vers vous pour en discuter !
+**Pour cela envoyez-nous un courriel décrivant la problématique à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr)** et un membre de l’équipe reviendra vers vous pour en discuter !
 
-**Vous souhaitez en savoir plus ?** Consultez notre aux phases d’investigation ou prenez contact directement avec l’équipe beta.gouv.fr à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr).
+**Vous souhaitez en savoir plus ?** Consultez notre [page dédiée aux phases d’investigation](https://beta.gouv.fr/approche/investigation) ou prenez contact directement avec l’équipe beta.gouv.fr à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr).
 
-**Votre problématique ne rentre pas dans le cadre du Covid-19 ?** Soumettez-la tout de même à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) pour envisager un accompagnement.
+**Votre problématique ne rentre pas dans le cadre du Covid-19 mais présente un fort potentiel ?** Soumettez-la tout de même à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) pour envisager un accompagnement.
 
 À noter : l'appel est ouvert aux administrations d’État (centrales et déconcentrées) et aux collectivités territoriales. Les investigations proposées par les collectivités territoriales et retenues seront quant à elles financées par l'Agence Nationale de la Cohésion des Territoires (ANCT).
 
