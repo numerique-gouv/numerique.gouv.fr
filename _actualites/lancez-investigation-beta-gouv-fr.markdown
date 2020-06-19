@@ -1,6 +1,6 @@
 ---
 title: 'Administrations : une problématique de service public à investiguer ? La DINUM
-  vous accompagne avec son dispositif beta.gouv.fr !'
+  vous accompagne avec ses experts beta.gouv.fr !'
 date: 2020-06-19 10:28:00 +02:00
 categories:
 - Article
@@ -12,11 +12,10 @@ chapeau-text: La crise Covid-19 a mis en lumière un dysfonctionnement pour vos 
   ou vos agents ? L'un des dispositifs dont vous avez la charge a connu des ratés
   ou rencontré un problème dont la résolution présenterait un fort impact (social,
   économique, environnemental, d’efficience) ? La DINUM vous propose un accompagnement
-  pour y réfléchir, à vos côtés, et définir si le numérique peut y apporter une solution,
+  pour l'analyser, à vos côtés, et définir si le numérique peut y apporter une solution,
   dans le cadre du dispositif beta.gouv.fr. Soumettez-nous votre problématique tout
-  au long de l’été ! Nous vous apporterons un appui opérationnel chaque fois que possible.
-  Les éventuelles dépenses de consulting et de coaching seront prises en charge par
-  la DINUM.
+  au long de l’été ! Nous vous apporterons un appui opérationnel chaque fois que possible,
+  entièrement pris en charge par la DINUM.
 une-ou-diaporama:
 - image: "/uploads/investigations-beta_1600x860.jpg"
 ---
