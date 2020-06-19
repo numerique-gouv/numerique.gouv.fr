@@ -37,9 +37,11 @@ Notre approche ?
 
 Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse claire** et des **recommandations concrètes** qui vous permettront de décider s’il convient ou non de poursuivre les travaux en finançant la construction du service, sous la forme d’une Startup d’État par exemple. Tous les ingrédients nécessaires pour préparer le développement d’un service public numérique !
 
+<div align="center">
 > **[Soumettez votre problématique avant le 26 juillet 2020 !](mailto:investigations@beta.gouv.fr)**
 {: .lien-important} 
-Nous la traiterons ainsi en priorité.
+<br>Nous la traiterons ainsi en priorité.
+</div>
 
 <div align="center">
 <a href="mailto:investigations@beta.gouv.fr" class="lien-important">Soumettez votre problématique avant le 26 juillet 2020 !</a>
