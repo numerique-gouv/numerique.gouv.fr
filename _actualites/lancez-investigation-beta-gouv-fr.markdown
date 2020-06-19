@@ -25,7 +25,7 @@ Les situations de crise peuvent être un excellent révélateur de problèmes da
 
 Avant d’investir dans son développement, la phase d’investigation est une étape primordiale. Partie intégrante de la méthode beta.gouv.fr, elle permet de s’assurer qu’un outil numérique est bien la solution au problème, et, le cas échéant, de le concevoir en adéquation avec la réalité du terrain et les vrais besoins des usagers et des agents.
 
-## Un accompagnement par nos experts
+## Un accompagnement par les experts de beta.gouv.fr
 
 Nos experts de beta.gouv.fr, au sein de la direction interministérielle du numérique (DINUM), vous proposent de réaliser cette phase d’investigation, à vos côtés, gratuitement. **Un mentor expert du numérique**, avec l’appui éventuel d’**un designer UX**, vous accompagnera sur une période de **9 semaines**.
 
