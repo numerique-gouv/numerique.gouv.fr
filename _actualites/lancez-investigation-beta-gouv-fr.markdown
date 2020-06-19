@@ -49,11 +49,15 @@ Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse clai
 <br> 
 <br> 
 
-Pour cela envoyez-nous un courriel décrivant la problématique à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) et un ou une membre de l’équipe reviendra vers vous pour en discuter !
+**Pour cela envoyez-nous un courriel décrivant la problématique à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr)** et un ou une membre de l’équipe reviendra vers vous pour en discuter !
 
-Vous souhaitez en savoir plus ? Consultez notre aux phases d’investigation ou prenez contact directement avec l’équipe beta.gouv.fr à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr).
+**Vous souhaitez en savoir plus ?** Consultez notre aux phases d’investigation ou prenez contact directement avec l’équipe beta.gouv.fr à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr).
 
-Votre problématique ne rentre pas dans le cadre du Covid-19 ? Soumettez-la tout de même à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.frp) pour envisager un accompagnement.
+**Votre problématique ne rentre pas dans le cadre du Covid-19 ?** Soumettez-la tout de même à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) pour envisager un accompagnement.
 
 > *beta.gouv.fr accompagne depuis 2015 les administrations publiques pour résoudre des problèmes aussi variés que [simplifier la création et réalisation de démarches administratives en ligne](https://beta.gouv.fr/startups/demarches-simplifiees.fr.html)*, *[identifier les entreprises en difficultés pour mieux les accompagner](https://beta.gouv.fr/startups/signaux-faibles.html)*, *[mieux informer les citoyens de leurs droits dans le monde professionnel](https://beta.gouv.fr/startups/codedutravail.html)*, ou encore *[développer le covoiturage](https://beta.gouv.fr/startups/preuve-de-covoiturage.html)*. Aucun problème n’est trop spécifique ou trop complexe pour être étudié !
 {: .noir .encadre}
+
+
+> *beta.gouv.fr accompagne depuis 2015 les administrations publiques pour résoudre des problèmes aussi variés que [simplifier la création et réalisation de démarches administratives en ligne](https://beta.gouv.fr/startups/demarches-simplifiees.fr.html)*, *[identifier les entreprises en difficultés pour mieux les accompagner](https://beta.gouv.fr/startups/signaux-faibles.html)*, *[mieux informer les citoyens de leurs droits dans le monde professionnel](https://beta.gouv.fr/startups/codedutravail.html)*, ou encore *[développer le covoiturage](https://beta.gouv.fr/startups/preuve-de-covoiturage.html)*. Aucun problème n’est trop spécifique ou trop complexe pour être étudié !
+{: .exergue}
