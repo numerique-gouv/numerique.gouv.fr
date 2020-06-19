@@ -42,6 +42,7 @@ Notre approche ?
 ## Des recommandations concrètes
 
 Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse claire** et des **recommandations concrètes** qui vous permettront de décider s’il convient ou non de poursuivre les travaux, sous la forme d’une Startup d’État par exemple ou via un autre dispositif adapté. Les conditions de réussite seront précisées, de même que les moyens (financiers, expertises) à allouer. Vous disposerez alors de tous les ingrédients nécessaires pour résoudre le problème en vous appuyant sur les opportunités du numérique !
+<br>
 
 > **[Soumettez votre problématique au cours de l’été 2020 (de préférence avant le 26 juillet) !](mailto:investigations@beta.gouv.fr)**
 {: .lien-important}
@@ -49,7 +50,7 @@ Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse clai
 <div align="center">Nous traiterons toutes les demandes au fil de l’eau.
 </div>
 <br>
-> <br>
+<br>
 
 **Pour cela envoyez-nous un courriel décrivant la problématique à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr)** et un membre de l’équipe reviendra vers vous pour en discuter !
 
