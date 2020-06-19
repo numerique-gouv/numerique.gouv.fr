@@ -42,8 +42,6 @@ Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse clai
 {: .lien-important}{: .margin-bottom-0} 
 <div align="center">Nous la traiterons ainsi en priorité.
 </div>
-<br> 
-<br> 
 
 **Pour cela envoyez-nous un courriel décrivant la problématique à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr)** et un ou une membre de l’équipe reviendra vers vous pour en discuter !
 
