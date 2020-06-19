@@ -13,6 +13,8 @@ chapeau-text: La crise Covid-19 a mis en lumière un dysfonctionnement pour vos 
   un fort impact social, économique ou environnemental ? Nous vous proposons d'investiguer,
   à vos côtés, gratuitement, pour définir si le numérique peut apporter une solution
   et si oui, comment. Soumettez-nous votre problématique avant le 26 juillet !
+une-ou-diaporama:
+- image: "/uploads/investigations-beta_1600x860.jpg"
 ---
 
 Les situations de crise peuvent être un excellent révélateur de problèmes dans la délivrance d’un service public ou d’un besoin spécifique de vos usagers. La crise du COVID-19 vous a permis d’en identifier ? Vous pensez qu’un nouveau numérique pourrait y répondre ?
@@ -49,6 +51,8 @@ Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse clai
 **Vous souhaitez en savoir plus ?** Consultez notre aux phases d’investigation ou prenez contact directement avec l’équipe beta.gouv.fr à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr).
 
 **Votre problématique ne rentre pas dans le cadre du Covid-19 ?** Soumettez-la tout de même à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) pour envisager un accompagnement.
+
+À noter : l'appel est ouvert aux administrations d’État (centrales et déconcentrées) et aux collectivités territoriales. Les investigations proposées par les collectivités territoriales et retenues seront quant à elles financées par l'Agence Nationale de la Cohésion des Territoires (ANCT).
 
 > <br>
 > beta.gouv.fr accompagne depuis 2015 les administrations publiques pour résoudre des problèmes aussi variés que [simplifier la création et réalisation de démarches administratives en ligne](https://beta.gouv.fr/startups/demarches-simplifiees.fr.html), [identifier les entreprises en difficultés pour mieux les accompagner](https://beta.gouv.fr/startups/signaux-faibles.html), [mieux informer les citoyens de leurs droits dans le monde professionnel](https://beta.gouv.fr/startups/codedutravail.html), ou encore [développer le covoiturage](https://beta.gouv.fr/startups/preuve-de-covoiturage.html). Aucun problème n’est trop spécifique ou trop complexe pour être étudié !
