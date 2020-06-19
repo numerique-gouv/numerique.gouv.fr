@@ -39,7 +39,8 @@ Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse clai
 
 
 > **[Soumettez votre problématique avant le 26 juillet 2020 !](mailto:investigations@beta.gouv.fr)**
-{: .lien-important}{: .margin-bottom-0} 
+{: .lien-important}
+{: .margin-bottom-0} 
 <div align="center">Nous la traiterons ainsi en priorité.
 </div>
 
