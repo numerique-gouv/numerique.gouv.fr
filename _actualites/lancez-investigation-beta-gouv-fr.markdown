@@ -43,6 +43,7 @@ Notre approche ?
 
 Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse claire** et des **recommandations concrètes** qui vous permettront de décider s’il convient ou non de poursuivre les travaux, sous la forme d’une Startup d’État par exemple ou via un autre dispositif adapté. Les conditions de réussite seront précisées, de même que les moyens (financiers, expertises) à allouer. Vous disposerez alors de tous les ingrédients nécessaires pour résoudre le problème en vous appuyant sur les opportunités du numérique !
 <br>
+<br>
 
 > **[Soumettez votre problématique au cours de l’été 2020 (de préférence avant le 26 juillet) !](mailto:investigations@beta.gouv.fr)**
 {: .lien-important}
@@ -58,7 +59,7 @@ Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse clai
 
 **Votre problématique ne rentre pas dans le cadre du Covid-19 mais présente un fort potentiel ?** Soumettez-la tout de même à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) pour envisager un accompagnement.
 
-À noter : l'appel est ouvert aux administrations d’État (centrales et déconcentrées) et aux collectivités territoriales. Les investigations proposées par les collectivités territoriales et retenues seront quant à elles financées par l'Agence Nationale de la Cohésion des Territoires (ANCT).
+À noter : l'appel est ouvert aux administrations d’État (centrales et déconcentrées) et aux collectivités territoriales. Les investigations proposées par les collectivités territoriales et retenues seront quant à elles financées par l'agence nationale de la cohésion des territoires (ANCT).
 
 > <br>
 > beta.gouv.fr accompagne depuis 2015 les administrations publiques pour résoudre des problèmes aussi variés que [simplifier la création et réalisation de démarches administratives en ligne](https://beta.gouv.fr/startups/demarches-simplifiees.fr.html), [identifier les entreprises en difficultés pour mieux les accompagner](https://beta.gouv.fr/startups/signaux-faibles.html), [mieux informer les citoyens de leurs droits dans le monde professionnel](https://beta.gouv.fr/startups/codedutravail.html), ou encore [développer le covoiturage](https://beta.gouv.fr/startups/preuve-de-covoiturage.html). Aucun problème n’est trop spécifique ou trop complexe pour être étudié !
