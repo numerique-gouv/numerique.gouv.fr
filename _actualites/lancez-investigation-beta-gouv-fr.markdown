@@ -9,8 +9,8 @@ tags:
 - Appel à projets
 - offre de service
 chapeau-text: La crise Covid-19 a mis en lumière un dysfonctionnement pour vos usagers
-  ou pour vos agents ? L'un des dispositifs dont vous avez la charge a connu des ratés
-  ou rencontré un un problème dont la résolution présenterait un fort impact (social,
+  ou vos agents ? L'un des dispositifs dont vous avez la charge a connu des ratés
+  ou rencontré un problème dont la résolution présenterait un fort impact (social,
   économique, environnemental, d’efficience) ? La DINUM vous propose un accompagnement
   pour y réfléchir, à vos côtés, et définir si le numérique peut y apporter une solution,
   dans le cadre du dispositif beta.gouv.fr. Soumettez-nous votre problématique tout
