@@ -44,11 +44,11 @@ Notre approche ?
 Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse claire** et des **recommandations concrètes** qui vous permettront de décider s’il convient ou non de poursuivre les travaux, sous la forme d’une Startup d’État par exemple ou via un autre dispositif adapté. Les conditions de réussite seront précisées, de même que les moyens (financiers, expertises) à allouer. Vous disposerez alors de tous les ingrédients nécessaires pour résoudre le problème en vous appuyant sur les opportunités du numérique !
 
 > **[Soumettez votre problématique au cours de l’été 2020 (de préférence avant le 26 juillet) !](mailto:investigations@beta.gouv.fr)**
-> {: .lien-important}
-> {: .margin-bottom-0}
-> <div align="center">Nous traiterons toutes les demandes au fil de l’eau.
-> </div>
-> <br>
+{: .lien-important}
+{: .margin-bottom-0}
+<div align="center">Nous traiterons toutes les demandes au fil de l’eau.
+</div>
+<br>
 > <br>
 
 **Pour cela envoyez-nous un courriel décrivant la problématique à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr)** et un membre de l’équipe reviendra vers vous pour en discuter !
@@ -61,4 +61,4 @@ Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse clai
 
 > <br>
 > beta.gouv.fr accompagne depuis 2015 les administrations publiques pour résoudre des problèmes aussi variés que [simplifier la création et réalisation de démarches administratives en ligne](https://beta.gouv.fr/startups/demarches-simplifiees.fr.html), [identifier les entreprises en difficultés pour mieux les accompagner](https://beta.gouv.fr/startups/signaux-faibles.html), [mieux informer les citoyens de leurs droits dans le monde professionnel](https://beta.gouv.fr/startups/codedutravail.html), ou encore [développer le covoiturage](https://beta.gouv.fr/startups/preuve-de-covoiturage.html). Aucun problème n’est trop spécifique ou trop complexe pour être étudié !
-> {: .noir .encadre}
+{: .noir .encadre}
