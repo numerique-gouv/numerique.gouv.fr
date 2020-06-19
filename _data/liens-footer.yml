@@ -30,14 +30,6 @@ sites-references:
   - link: Nos documents de référence
     url: https://references.modernisation.gouv.fr/
 
-services-usagers:
-  - link: franceconnect.gouv.fr
-    url: https://franceconnect.gouv.fr
-  - link: demarches-simplifiees.fr
-    url: https://demarches-simplifiees.fr
-  - link: observatoire.numerique.gouv.fr
-    url: https://observatoire.numerique.gouv.fr
-
 outils-pour-les-agents:
   - link: Messagerie instantanée Tchap
     url: https://www.tchap.gouv.fr/
@@ -49,3 +41,11 @@ outils-pour-les-agents:
     url: https://plano.numerique.gouv.fr/
   - link: Resana
     url: https://resana.numerique.gouv.fr/
+    
+services-usagers:
+  - link: franceconnect.gouv.fr
+    url: https://franceconnect.gouv.fr
+  - link: demarches-simplifiees.fr
+    url: https://demarches-simplifiees.fr
+  - link: observatoire.numerique.gouv.fr
+    url: https://observatoire.numerique.gouv.fr
