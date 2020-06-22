@@ -12,6 +12,8 @@ chapeau-text: Chaque grand projet numérique de l’État – à partir de 9 mil
   et de s’assurer que les conditions de leur réussite sont bien réunies, dans le respect
   des moyens et du calendrier qui lui sont alloués. Retrouvez toutes les informations
   utiles pour saisir le DINUM dans ce cadre.
+une:
+  image: "/uploads/saisine_avis-conformes-bandeau.png"
 layout: rgaa
 ---
 
