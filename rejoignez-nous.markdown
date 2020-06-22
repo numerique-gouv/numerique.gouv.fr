@@ -26,9 +26,24 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
+
+#### **Produits numériques**
+{: .margin-top-4 .margin-bottom-1}
+* [**Chargé/Chargée des produits Labellisés**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d3daf5e5-4989-430e-847d-9cd3ff446fef&offerid=377221 "Chargé/Chargée des produits Labellisés - Télécharger le pdf") (pdf - 578&nbsp;ko)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
 #### **SI/Réseau/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
-* [**Architecte de système d'information polyvalent (F/H)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=59fa2276-93cf-4987-b5aa-a5463a7f56d5&offerid=375127 "Architecte de système d'information polyvalent (F/H) - Télécharger le pdf") (pdf - 773&nbsp;ko)
+* [**Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6d0887a2-da90-4966-b027-b84f91bd4a66&offerid=374085 "Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services - Télécharger le pdf") (pdf - 774&nbsp;ko)
+<br>Poste basé à Ille et Vilaine (35)
+<br>Cadre/Catégorie A
+
+* [**Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6d0887a2-da90-4966-b027-b84f91bd4a66&offerid=374085 "Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services - Télécharger le pdf") (pdf - 774&nbsp;ko)
+<br>Cadre/Catégorie A
+
+* [**Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=447d3aed-3dd4-48ca-b106-0be564f2fd8f&offerid=374091 "Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État » - Télécharger le pdf") (pdf - 777&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>
 <br>
