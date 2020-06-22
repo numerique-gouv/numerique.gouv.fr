@@ -26,7 +26,7 @@ Ce montant comprend :
 * l’ensemble des coûts estimés à partir de la phase de construction, dès le lancement des premières études amont,
 * les coûts relatifs aux 24 premiers mois de maintien en conditions opérationnelles à l’issue de cette phase,
 * les dépenses de fonctionnement, d’investissement ou de personnel nécessaires au bon achèvement du projet,
-* les dépenses relatives à la construction de nouveaux systèmes d’information ou d’interfaces, à l’acquisition ou au déploiement de matériels, à la maintenance ou à la mise à jour de systèmes d’information existants ou au décommissionnement de ces systèmes, à la communication et à la conduite du changement.
+* notamment les dépenses relatives à la construction de nouveaux systèmes d’information ou d’interfaces, à l’acquisition ou au déploiement de matériels, à la maintenance ou à la mise à jour de systèmes d’information existants ou au décommissionnement de ces systèmes, à la communication et à la conduite du changement.
 
 ### Quand saisir le directeur interministériel du numérique pour avis ?
 
