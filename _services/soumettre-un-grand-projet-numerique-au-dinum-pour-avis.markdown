@@ -37,7 +37,7 @@ La saisine doit avoir lieu **lorsque le cadrage du projet a abouti et avant la c
 
 ### Comment saisir le directeur interministériel du numérique pour avis ?
 
-**Le secrétaire général du ministère porteur** saisit le directeur interministériel du numérique par un courrier de saisine, accompagné d’un dossier.
+**Le secrétaire général du ministère porteur** saisit le directeur interministériel du numérique par un **courrier de saisine, accompagné d’un dossier**.
 
 Le dossier est élaboré à l’aide d’un kit de saisine téléchargeable >>> ICI <<<.
 
