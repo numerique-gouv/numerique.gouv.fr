@@ -54,7 +54,7 @@ Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse clai
 
 **Pour cela envoyez-nous un courriel décrivant la problématique à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr)** et un membre de l’équipe reviendra vers vous pour en discuter !
 
-**Vous souhaitez en savoir plus ?** Consultez notre [page dédiée aux phases d’investigation](https://beta.gouv.fr/approche/investigation) ou prenez contact directement avec l’équipe beta.gouv.fr à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr).
+**Vous souhaitez en savoir plus ?** Consultez notre [page dédiée aux investigations](https://beta.gouv.fr/approche/investigation) ou prenez contact directement avec l’équipe beta.gouv.fr à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr).
 
 **Votre problématique ne rentre pas dans le cadre du Covid-19 mais présente un fort potentiel ?** Soumettez-la tout de même à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr) pour envisager un accompagnement.
 
