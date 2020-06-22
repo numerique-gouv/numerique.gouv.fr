@@ -13,7 +13,7 @@ publications:
   url: "/publications/rgaa-accessibilite/"
   une-ou-diaporama:
   - image: "/uploads/RGAA_Ouv-Publications.jpg"
-- title: 'Projets informatiques de l''État : les avis conformes émis par la DINSIC'
+- title: 'Projets informatiques de l''État : les avis conformes émis par la DINUM'
   url: "/publications/avis-conformes"
   une-ou-diaporama:
   - image: "/uploads/office-1209640_1920.jpg"
