@@ -1,9 +1,10 @@
 ---
 title: 'Projets informatiques de l’État : retrouvez l''ensemble des avis conformes
   émis par la DINUM'
-date: 2019-12-20 15:47:00 +01:00
+date: 2018-04-24 15:47:00 +02:00
 permalink: "/publications/avis-conformes/"
 position: 2
+date_de_modification: 20 décembre 2019
 chapeau-text: La direction interministérielle du numérique (DINUM - ex-DINSIC) publie
   ses avis conformes sur les grands projets du système d'information et de communication
   de l’État.
