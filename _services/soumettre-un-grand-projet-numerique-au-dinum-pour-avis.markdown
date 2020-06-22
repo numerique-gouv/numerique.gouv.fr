@@ -1,6 +1,11 @@
 ---
 title: Soumettre un grand projet numérique au DINUM pour avis
 date: 2020-06-22 17:52:00 +02:00
+categories:
+- Service
+tags:
+- Avis conformes
+- Grands projets numérique de l'État
 chapeau-text: Chaque grand projet numérique de l’État – à partir de 9 millions d’euros
   de budget prévisionnel – doit faire l’objet d’un avis conforme de la part du directeur
   interministériel du numérique. Cette procédure permet de sécuriser ces grands projets
