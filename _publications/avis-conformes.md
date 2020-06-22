@@ -8,6 +8,8 @@ date_de_modification: 20 décembre 2019
 chapeau-text: La direction interministérielle du numérique (DINUM - ex-DINSIC) publie
   ses avis conformes sur les grands projets du système d'information et de communication
   de l’État.
+une-ou-diaporama:
+- image: "/uploads/saisine_avis-conformes-bandeau.png"
 une:
   image: "/assets/img/main/image_avis_conformes.jpg"
   alternative-textuelle: les avis conformes
