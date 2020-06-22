@@ -12,7 +12,7 @@ chapeau-text: Chaque grand projet numérique de l’État – à partir de 9 mil
   et de s’assurer que les conditions de leur réussite sont bien réunies, dans le respect
   des moyens et du calendrier qui lui sont alloués. Retrouvez toutes les informations
   utiles pour saisir le DINUM dans ce cadre.
-layout: avis-conformes
+layout: rgaa
 ---
 
 Cette procédure règlementaire est fixée par le **[décret n°2019-1088](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039281619&dateTexte=20200612)** du 25 octobre 2019 relatif au système d'information et de communication de l'État et à la direction interministérielle du numérique. L’[arrêté du 5 juin 2020](/uploads/arrete_5juin2020_article3_decret-2019-1088.pdf) en précise le périmètre et les modalités d’application.
