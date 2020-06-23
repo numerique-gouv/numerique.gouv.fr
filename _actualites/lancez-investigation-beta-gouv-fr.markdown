@@ -11,11 +11,11 @@ tags:
 chapeau-text: La crise Covid-19 a mis en lumière un dysfonctionnement pour vos usagers
   ou vos agents ? L'un des dispositifs dont vous avez la charge a connu des ratés
   ou rencontré un problème dont la résolution présenterait un fort impact (social,
-  économique, environnemental, d’efficience) ? La DINUM vous propose un accompagnement
-  pour l'analyser, à vos côtés, et définir si le numérique peut y apporter une solution,
-  dans le cadre du dispositif beta.gouv.fr. Soumettez-nous votre problématique tout
-  au long de l’été ! Nous vous apporterons un appui opérationnel chaque fois que possible,
-  entièrement pris en charge par la DINUM.
+  économique, environnemental, d’efficience) ? Avec ses experts beta.gouv.fr, la DINUM
+  vous propose un accompagnement pour l'analyser, à vos côtés, et définir si le numérique
+  peut y apporter une solution. Soumettez-nous votre problématique tout au long de
+  l’été ! Nous vous apporterons un appui opérationnel chaque fois que possible, entièrement
+  pris en charge par la DINUM.
 une-ou-diaporama:
 - image: "/uploads/investigations-beta_1600x860.jpg"
 ---
