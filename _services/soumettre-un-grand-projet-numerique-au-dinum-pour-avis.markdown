@@ -21,7 +21,7 @@ Cette procédure règlementaire est fixée par le **[décret n° 2019-1088](http
 
 ### Quels projets doivent faire l’objet d’un avis du DINUM ?
 
-Sont concernés **tous les projets numériques portés par un ministère ou par des organismes placés sous la tutelle de l'État** **dont le montant prévisionnel global est égal ou supérieur à 9 millions d’euros** toutes taxes comprises (l’arrêté précise les coûts à prendre en compte dans ce montant).
+Sont concernés **tous les projets numériques portés par un ministère ou par des organismes placés sous la tutelle de l'État dont le montant prévisionnel global est égal ou supérieur à 9 millions d’euros** toutes taxes comprises (l’arrêté précise les coûts à prendre en compte dans ce montant).
 
 ### Quand saisir le directeur interministériel du numérique pour avis ?
 
@@ -54,5 +54,4 @@ Après analyse du dossier, l’avis du directeur de la DINUM sera envoyé en ré
 
 L'avis du directeur interministériel du numérique est réputé conforme en l'absence de réponse dans un délai d'un mois après réception du dossier de présentation. La direction interministérielle du numérique peut, dans ce délai, demander aux administrations concernées tout complément d'information nécessaire à la formation de son avis. Cette demande suspend le délai.
 
-\
- Une fois l’avis rendu, si celui-ci est positif, le projet est systématiquement inscrit au [panorama des grands projets numériques de l’État](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/) où il est suivi trois fois par an.
+Une fois l’avis rendu, si celui-ci est positif, le projet est systématiquement inscrit au [panorama des grands projets numériques de l’État](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/) où il est suivi trois fois par an.
