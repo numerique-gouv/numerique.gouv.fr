@@ -1,7 +1,7 @@
 ---
 title: 'Commando UX : l''État recrute designers et développeurs pour simplifier les
   démarches en ligne les plus utilisées par les Français'
-date: 2020-06-30 20:16:00 +02:00
+date: 2020-06-30 20:19:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -36,6 +36,7 @@ Pour que les usagers des démarches administratives en ligne bénéficient d’e
 [**Consulter la liste des défis en ligne**](https://design.numerique.gouv.fr/commando-ux/)
 
 **UNE EXPÉRIENCE UNIQUE : 4 MOIS AU CŒUR DES ADMINISTRATIONS DE L’ÉTAT**
+
 Les designers et développeurs convaincus que le numérique peut être porteur de simplification pour les usagers sont invités à [candidater en ligne](https://design.numerique.gouv.fr/commando-ux/) dès aujourd’hui et jusqu’au 17 juillet 2020. 
 
 Pour recruter les experts les mieux armés, la DINUM évaluera les candidats selon plusieurs critères : 
