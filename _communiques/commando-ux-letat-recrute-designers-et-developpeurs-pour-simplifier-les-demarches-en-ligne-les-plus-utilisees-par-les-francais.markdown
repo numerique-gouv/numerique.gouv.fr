@@ -1,7 +1,7 @@
 ---
 title: 'Commando UX : l''État recrute designers et développeurs pour simplifier les
   démarches en ligne les plus utilisées par les Français'
-date: 2020-06-30 18:19:00 +02:00
+date: 2020-06-30 20:01:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -45,7 +45,7 @@ Pour recruter les experts les mieux armés, la DINUM évaluera les candidats sel
 Après leur sélection, les candidats retenus composeront le premier Commando UX. Pour mener à bien leur mission, ils pourront compter sur l’appui d’un référent au sein de l’administration d’accueil et de 2 design managers et 1 UX researcher de la DINUM. L'immersion revêt un double objectif : livrer une solution viable et comportant des améliorations tangibles pour les usagers, tout en diffusant des pratiques innovantes au sein des services concernés. Les candidats sélectionnés seront recrutés en contrat à durée déterminée pour une période de 4 mois (du 7 septembre au 31 décembre 2020), rémunérés 3 000 € ou 3 500 € net par mois selon leur profil. Dès le 7 septembre, ils intègreront leurs administrations d’accueil respectives pour travailler en étroite collaboration avec des agents publics issus de celles-ci. 
 
 Ainsi engagé dans le soutien à l’emploi, le dispositif Commando UX s’inscrit dans [TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), le programme d’accélération de la transformation numérique du service public conduit par la DINUM.
-[En savoir plus sur le dispositif Commando UX](https://design.numerique.gouv.fr/commando-ux/) 
+[**En savoir plus sur le dispositif Commando UX**](https://design.numerique.gouv.fr/commando-ux/) 
 
 **Les dates clés du dispositif Commando UX :**
 * 8 au 19 juin 2020 : appel à défis auprès des administrations ; 
