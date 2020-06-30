@@ -7,7 +7,7 @@ tags:
 - Outils pour les agents
 - plateforme collaborative
 chapeau-text: Proposée par la DINUM, la plateforme collaborative en ligne Plano permet
-  aux agents de l’État et des établissements publics de gérer leurs projets efficacement
+  aux agents de l’État et de ses établissements publics de gérer leurs projets efficacement
   et de faciliter le travail en équipe, y compris à distance.
 une:
   image: "/uploads/20200331_bandeau_produit_service_PLANO.png"
@@ -49,9 +49,9 @@ Avec Plano, vous pouvez :
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/group-bleu.png"/>
-</figure>## Ouvert aux agents de l’État et des établissements publics 
+</figure>## Ouvert aux agents de l’État et de ses établissements publics 
 {: .margin-bottom-1}
-Dédié aux agents de l’État et des établissements publics, Plano se destine plus particulièrement aux directeurs et chefs de projet, ainsi qu’à toute autre personne impliquée dans un projet (notamment les partenaires et prestataires).
+Dédié aux agents de l’État et de ses établissements publics, Plano se destine plus particulièrement aux directeurs et chefs de projet, ainsi qu’à toute autre personne impliquée dans un projet (notamment les partenaires et prestataires).
 <br>
 <br>
 
