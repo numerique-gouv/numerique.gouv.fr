@@ -1,7 +1,7 @@
 ---
 title: 'Commando UX : l''État recrute designers et développeurs pour simplifier les
   démarches en ligne les plus utilisées par les Français'
-date: 2020-06-30 18:07:00 +02:00
+date: 2020-06-30 18:09:00 +02:00
 categories:
 - Communiqué de presse
 tags:
