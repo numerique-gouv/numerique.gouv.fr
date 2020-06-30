@@ -6,6 +6,11 @@ categories:
 - Appel à candidatures
 tags:
 - Commando UX
+- Appel à candidatures
+- Design
+- Design  services publics
+- Services numériques
+- Observatoire
 chapeau-text: 'Vous êtes designer produit ou développeur ? Vous souhaitez œuvrer pour
   l''intérêt général ? Vous êtes disponible pendant 4 mois à partir de septembre 2020
   ? Le programme Commando UX vous propose 10 défis à relever au sein des administrations
