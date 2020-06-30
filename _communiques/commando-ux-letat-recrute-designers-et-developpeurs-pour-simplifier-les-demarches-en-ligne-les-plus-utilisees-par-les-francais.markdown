@@ -1,7 +1,7 @@
 ---
 title: 'Commando UX : l''État recrute designers et développeurs pour simplifier les
   démarches en ligne les plus utilisées par les Français'
-date: 2020-06-30 20:01:00 +02:00
+date: 2020-06-30 20:08:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -30,8 +30,8 @@ files:
 ---
 
 **COMMANDO UX, UN DISPOSITIF D’AMÉLIORATIONS CONCRÈTES DES DÉMARCHES POUR TOUS**
-Pour que les usagers des démarches administratives en ligne bénéficient d’expériences plus simples et plus désirables, l’État recrutera 15 designers et développeurs au sein de ses administrations à partir de septembre 2020. Au programme de cette première promotion, 10 défis proposés par les administrations permettront à celles-ci, appuyées par ces experts numériques, de concrétiser leur démarche de dématérialisation. Parmi les projets les plus impactants : simplifier le parcours des demandeurs d'emploi pour le renouvellement mensuel de leur situation, permettre aux étrangers de faire une demande de titre de séjour en ligne, au sein d'un portail de demande unifié enfin, pour les citoyens souhaitant simuler leurs droits sociaux, faciliter leur parcours afin que non pas 50% mais tous les usagers parviennent à effectuer cette démarche.  
-[Consulter la liste des défis en ligne](https://design.numerique.gouv.fr/commando-ux/)
+Pour que les usagers des démarches administratives en ligne bénéficient d’expériences plus simples et plus désirables, l’État recrutera 15 designers et développeurs au sein de ses administrations à partir de septembre 2020. Au programme de cette première promotion, 10 défis proposés par les administrations permettront à celles-ci, appuyées par ces experts numériques, de concrétiser leur démarche de dématérialisation. Parmi les projets les plus impactants : simplifier le parcours des demandeurs d'emploi pour le renouvellement mensuel de leur situation, permettre aux étrangers de faire une demande de titre de séjour en ligne, au sein d'un portail de demande unifié enfin, pour les citoyens souhaitant simuler leurs droits sociaux, faciliter leur parcours afin que non pas 50% mais tous les usagers parviennent à effectuer cette démarche.
+[**Consulter la liste des défis en ligne**](https://design.numerique.gouv.fr/commando-ux/)
 
 **UNE EXPÉRIENCE UNIQUE : 4 MOIS AU CŒUR DES ADMINISTRATIONS DE L’ÉTAT**
 Les designers et développeurs convaincus que le numérique peut être porteur de simplification pour les usagers sont invités à [candidater en ligne](https://design.numerique.gouv.fr/commando-ux/) dès aujourd’hui et jusqu’au 17 juillet 2020. 
