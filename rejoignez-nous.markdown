@@ -21,6 +21,14 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
+> Designers, développeurs/développeuses, rejoignez notre Commando UX et améliorez l’expérience d’un des 250 services publics numériques les plus utilisés ! 15 profils recherchés pour relever, en 4 mois, en CDD, 10 défis au sein de l’État.
+15 postes à pourvoir
+> > [**Découvrez les 10 défis et postulez**](https://design.numerique.gouv.fr/commando-ux/)
+> {: .lien-important .white}
+{: .exergue}
+
+
+
 ### Nos offres d'emploi actuellement disponibles à la DINUM :
 {: .margin-top-4 .margin-bottom-0} 
 *Sans précision, les postes sont basés à Paris*
