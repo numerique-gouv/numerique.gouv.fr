@@ -76,7 +76,7 @@ Tout au long de sa mission, le candidat retenu bénéficiera de l’appui au quo
 <br>
 
 <div align="center">
-<a href="https://design.numerique.gouv.fr/commando-ux/" class="button"><b>Découvrez les défis et postulez<b></a>
+<a href="https://design.numerique.gouv.fr/commando-ux/" class="button"><b>Découvrez les défis et postulez</b></a>
 <br>Jusqu’au 17 juillet 2020, 23h59
 </div>
 <br>
