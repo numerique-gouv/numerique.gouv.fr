@@ -79,12 +79,13 @@ Zoom sur quelques postes dans le numérique public :
 > **Ministère de la Transition écologique et solidaire/Ministère de la Cohésion des territoires**
 > * [**Adjoint au chef du département des solutions num. en RH H/F**](/uploads/DSNUMRH0_Adjoint-au-chef-du-d%C3%A9partement-DSNUM-en-RH.pdf "Adjoint au chef du département des solutions num. en RH H/F")<br> 
 > Cadre/Catégorie A+<br>
-> 
+> <br>
+>
 > 
 > * [**Chef de projet maîtrise d’ouvrage de solutions numériques RH H/F**](/uploads/DSNUMRH2-12VA090008-SRI201-22-Chef-de-projet-solutions-numeriques-RH.pdf "Chef de projet maîtrise d’ouvrage de solutions numériques RH H/F - Télécharger le pdf") (pdf - 130&nbsp;ko)
 > <br>Cadre/Catégorie A
 > <br>Poste basé à La Défense (92)<br>
->
+> 
 > 
 > **Ministères économiques et financiers**
 > 
