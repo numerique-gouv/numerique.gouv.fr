@@ -13,8 +13,8 @@ tags:
 - Observatoire
 chapeau-text: Vous êtes designer ou développeur/développeuse ? Vous souhaitez œuvrer
   pour l'intérêt général ? Rejoignez notre Commando UX et améliorez l'expérience d'un
-  des 250 services publics numériques les plus utilisés par les Français ! 15 profils
-  recherchés pour relever, en 4 mois, en CDD, 10 défis au sein de l’État.
+  des 250 services publics numériques les plus utilisés ! 15 profils recherchés pour
+  relever, en 4 mois, en CDD, 10 défis au sein de l’État.
 une-ou-diaporama:
 - image: "/uploads/commando-ux-aac.png"
 ---
@@ -23,16 +23,15 @@ une-ou-diaporama:
 
 Et si, demain, c’était grâce à vous que la démarche d’immatriculation d’un véhicule devenait un jeu d’enfant, voire, soyons fous, un moment de plaisir ? C’est l’un des 10 défis que nous vous proposons de relever en rejoignant notre commando UX !
 
-
-### Votre mission ? 
+<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-cible.png" alt=""/></figure>### Votre mission ? 
 Améliorer concrètement et rapidement l’un des 250 services publics numériques les plus utilisés par les Français, pour le rendre plus **fluide**, **efficace, inclusif** et **compréhensible**. Et même **désirable**.
 
-### Les profils que nous recherchons ?
+<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-recerche-profils.png" alt=""/></figure>### Les profils que nous recherchons ?
 **Designers UX/UI, ingénieurs UX, développeurs full stack, développeurs accessibilité...** À chaque défi, selon les besoins, correspondent **un ou deux profils** recherchés.
 
 **Nul besoin d’être fonctionnaire**, au contraire, nous recherchons des experts actuellement en dehors de l’administration.
 
-### Les conditions ?
+<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-attache-case.png" alt=""/></figure>### Les conditions ?
 En **CDD à temps plein du 7 septembre au 31 décembre 2020**, vous intégrerez l’équipe responsable de la démarche en question, au sein de l’administration en charge (Pôle emploi, direction de la sécurité sociale, ministère de l’Intérieur, délégation à la sécurité routière…).
 
 Tout au long de sa mission, le candidat retenu bénéficiera de l’appui au quotidien d’**un référent dans son administration d’accueil**, mais aussi de l’**accompagnement d’une équipe dédiée**, composée d’une chercheuse UX et de deux designers produits, au sein de la direction interministérielle du numérique – qui pilote le programme Commando UX.
