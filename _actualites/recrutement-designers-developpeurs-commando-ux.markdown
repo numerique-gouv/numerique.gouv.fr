@@ -19,8 +19,18 @@ une-ou-diaporama:
 - image: "/uploads/commando-ux-aac.png"
 ---
 
+<style>
+.button {
+background-color: #0d5c98;
+color: white;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-style: normal;
+font-size: 1.2rem;
+}
 ### Une expérience unique : prenez part à l'amélioration concrète du quotidien des usagers du service public
-
+{: .margin-top-0}
 Et si, demain, c’était grâce à vous que la démarche d’immatriculation d’un véhicule devenait un jeu d’enfant, voire, soyons fous, un moment de plaisir ? C’est l’un des 10 défis que nous vous proposons de relever en rejoignant notre commando UX !
 <br>
 <br>
@@ -64,7 +74,7 @@ Tout au long de sa mission, le candidat retenu bénéficiera de l’appui au quo
 <br>
 
 <div align="center">
-<a href="https://design.numerique.gouv.fr/commando-ux/" class="button">Découvrez les défis et postulez</a>
+<a href="https://design.numerique.gouv.fr/commando-ux/" class="button"><b>Découvrez les défis et postulez<b></a>
 <br>Jusqu’au 17 juillet 2020, 23h59
 </div>
 <br>
