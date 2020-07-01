@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '22 juin 2020 '
+date_de_modification: '1 juillet 2020 '
 layout: page-annexe
 ---
 
@@ -77,10 +77,15 @@ Zoom sur quelques postes dans le numérique public :
 > <br>
 > 
 > **Ministère de la Transition écologique et solidaire/Ministère de la Cohésion des territoires**
+> * [**Adjoint au chef du département des solutions num. en RH H/F**](/uploads/DSNUMRH0_Adjoint-au-chef-du-d%C3%A9partement-DSNUM-en-RH.pdf "Adjoint au chef du département des solutions num. en RH H/F")<br> 
+> Cadre/Catégorie A+<br>
+> <br>
+>
+> 
 > * [**Chef de projet maîtrise d’ouvrage de solutions numériques RH H/F**](/uploads/DSNUMRH2-12VA090008-SRI201-22-Chef-de-projet-solutions-numeriques-RH.pdf "Chef de projet maîtrise d’ouvrage de solutions numériques RH H/F - Télécharger le pdf") (pdf - 130&nbsp;ko)
 > <br>Cadre/Catégorie A
 > <br>Poste basé à La Défense (92)<br>
->
+> 
 > 
 > **Ministères économiques et financiers**
 > 
