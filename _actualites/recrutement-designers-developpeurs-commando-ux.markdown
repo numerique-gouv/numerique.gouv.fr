@@ -49,7 +49,7 @@ Tout au long de sa mission, le candidat retenu bénéficiera de l’appui au quo
 {: .margin-top-0}
 * **29 juin – 17 juillet 2020**
 {: .bleue .margin-0}
-**Appel à candidatures :** vous êtes designer ou développeur et ce programme vous séduit ? postulez !
+**Appel à candidatures :** vous êtes designer ou développeur et ce programme vous séduit ? Postulez !
 
 * **20 juillet – 31 juillet 2020**
 {: .bleue .margin-0}
