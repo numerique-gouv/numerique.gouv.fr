@@ -30,6 +30,7 @@ font-style: normal;
 font-size: 1.2rem;
 }
 </style>
+
 ### Une expérience unique : prenez part à l'amélioration concrète du quotidien des usagers du service public
 {: .margin-top-0}
 Et si, demain, c’était grâce à vous que la démarche d’immatriculation d’un véhicule devenait un jeu d’enfant, voire, soyons fous, un moment de plaisir ? C’est l’un des 10 défis que nous vous proposons de relever en rejoignant notre commando UX !
@@ -38,7 +39,7 @@ Et si, demain, c’était grâce à vous que la démarche d’immatriculation d�
 
 <figure class='image-left' style='width: 6%;'><img src="/uploads/picto-cible.png" alt=""/></figure>## Votre mission ?
 {: .margin-top-0}
-Améliorer concrètement et rapidement l’un des 250 services publics numériques les plus utilisés par les Français, pour le rendre plus **fluide**, **efficace, inclusif** et **compréhensible**. Et même **désirable**.
+Améliorer concrètement et rapidement l’un des 250 services publics numériques les plus utilisés, pour le rendre plus **fluide**, **efficace, inclusif** et **compréhensible**. Et même **désirable**.
 <br>
 <br>
 
