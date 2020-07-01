@@ -19,7 +19,7 @@ layout: rgaa
 
 <br>
 
-<figure class='image-left' style='width: 6%;'><img src="/uploads/chat.png"/></figure>## Communiquez efficacement
+<figure class='image-left' style='width: 6%;'><img src="/uploads/chat.png" alt=""</figure>## Communiquez efficacement
 {: .margin-bottom-1}
 Agent public, vous avez besoin de **communiquer facilement** avec des collaborateurs et partenaires, **à distance voire en mobilité** ? Désormais, vous pouvez utiliser **Tchap, la messagerie instantanée spécialement créée pour vous**.
 
