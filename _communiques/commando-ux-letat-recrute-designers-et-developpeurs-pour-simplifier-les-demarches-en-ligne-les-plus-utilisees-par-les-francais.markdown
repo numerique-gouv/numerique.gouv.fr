@@ -1,7 +1,7 @@
 ---
 title: 'Commando UX : l''État recrute designers et développeurs pour simplifier les
   démarches en ligne les plus utilisées par les Français'
-date: 2020-06-30 20:19:00 +02:00
+date: 2020-07-01 13:15:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -17,7 +17,7 @@ chapeau-text: "**Améliorer concrètement et rapidement l’expérience utilisat
   de candidater dès aujourd’hui et jusqu’au 17 juillet 2020 pour tenter d’intégrer
   le Commando UX à la rentrée.**"
 une-ou-diaporama:
-- image: "/uploads/commando-ux-article-005ad0.png"
+- image: "/uploads/commando-ux-article-2.png"
 contact-presse:
   name: Floriane Beaudron
   tel:
