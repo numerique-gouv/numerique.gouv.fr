@@ -50,13 +50,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Apprentissage**
 {: .margin-top-4 .margin-bottom-1}
-* [**Assistant/Assistante chef de projet produits numériques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=0cbce9e6-07a0-4fbe-a573-d8853ece70c0&offerid=379747 "Assistant/Assistante chef de projet produits numériques - Télécharger le pdf") (pdf - 210&nbsp;ko)
-
 * [**Assistant/Assistante chef de projet produits numériques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=298c129a-904f-4586-a357-44e4f769026e&offerid=379746 "Assistant/Assistante chef de projet produits numériques - Télécharger le pdf") (pdf - 214&nbsp;ko)
-
-* [**Chargé/Chargée de mission circulation des données**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=cc509bff-531a-485a-82c3-b2f8b683c2ce&offerid=379739 "Chargé/Chargée de mission circulation des données - Télécharger le pdf") (pdf - 219&nbsp;ko)
-
-* [**Apprentissage en data science (F/H)**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=9f0603d5-f629-4122-ad1a-9b607e50a959&offerid=379737 "Apprentissage en data science (F/H) - Télécharger le pdf") (pdf - 380&nbsp;ko)
 
 * [**Apprenti/Apprentie gouvernance et maîtrise des risques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f61be055-3156-49e7-838f-03e8b691fe12&offerid=379743 "Apprenti/Apprentie gouvernance et maîtrise des risques - Télécharger le pdf") (pdf - 429&nbsp;ko)
 <br>
@@ -88,11 +82,6 @@ Zoom sur quelques postes dans le numérique public :
 > 
 > 
 > **Ministères économiques et financiers**
-> 
-> Secrétariat général 
-> * [**Architecte**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-hf-reference-MEF_2019-439 "Architecte - Consulter la fiche de poste")<br> 
-> Cadre/Catégorie A<br>
-> 
 > 
 > Centre interministériel de services informatiques en matière de ressources humaines
 > * [**Ingénieur/Ingénieure réseau sécurité**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f3c98daf-62a0-47ce-9824-01b99c737e05&offerid=150292 "Ingénieur/Ingénieure réseau sécurité - Télécharger le pdf") (pdf - 454&nbsp;ko)<br>
