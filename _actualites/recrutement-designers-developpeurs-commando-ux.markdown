@@ -42,8 +42,8 @@ En **CDD à temps plein du 7 septembre au 31 décembre 2020**, vous intégrerez 
 Tout au long de sa mission, le candidat retenu bénéficiera de l’appui au quotidien d’**un référent dans son administration d’accueil**, mais aussi de l’**accompagnement d’une équipe dédiée**, composée d’une chercheuse UX et de deux designers produits, au sein de la direction interministérielle du numérique – qui pilote le programme Commando UX.
 <br>
 
-### Les dates clés
-
+<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-calendrier.png" alt=""/></figure>### Les dates clés
+{: .margin-bottom-1}
 * **29 juin – 17 juillet 2020**
 {: .bleue .margin-0}
 **Appel à candidatures :** vous êtes designer ou développeur et ce programme vous séduit ? postulez !
