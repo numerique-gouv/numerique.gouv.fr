@@ -25,7 +25,7 @@ Et si, demain, c’était grâce à vous que la démarche d’immatriculation d�
 
 **Votre mission ?** Améliorer concrètement et rapidement l’un des 250 services publics numériques les plus utilisés par les Français, pour le rendre plus **fluide**, **efficace, inclusif** et **compréhensible**. Et même **désirable**.
 
-\*\*Les profils que nous recherchons ? \*\*Designers UX/UI, ingénieurs UX, développeurs full stack, développeurs accessibilité... À chaque défi, selon les besoins, correspondent un ou deux profils recherchés.
+**Les profils que nous recherchons ?** Designers UX/UI, ingénieurs UX, développeurs full stack, développeurs accessibilité... À chaque défi, selon les besoins, correspondent un ou deux profils recherchés.
 
 Nul besoin d’être fonctionnaire, au contraire, nous recherchons des experts actuellement en dehors de l’administration.
 
@@ -35,14 +35,17 @@ Tout au long de sa mission, le candidat retenu bénéficiera de l’appui au quo
 
 ### Les dates clés
 
-**29 juin – 17 juillet 2020**
-Appel à candidatures : vous êtes designer ou développeur et ce programme vous séduit ? postulez !
+* **29 juin – 17 juillet 2020**
+{: .bleue .margin-0}
+**Appel à candidatures :** vous êtes designer ou développeur et ce programme vous séduit ? postulez !
 
-**20 juillet – 31 juillet 2020**
-Recrutement Commando UX : entretiens individuels avec les designers et développeurs.
+* **20 juillet – 31 juillet 2020**
+{: .bleue .margin-0}
+**Recrutement Commando UX :** entretiens individuels avec les designers et développeurs.
 
-**7 septembre – 31 décembre 2020**
-Commando UX en action : designers et développeurs intègrent les administrations pour relever leur défi.
+* **7 septembre – 31 décembre 2020**
+{: .bleue .margin-0}
+**Commando UX en action :** designers et développeurs intègrent les administrations pour relever leur défi.
 
 <div align="center">
 <a href="https://design.numerique.gouv.fr/commando-ux/" class="button">Découvrez les défis et postulez</a>
