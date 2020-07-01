@@ -51,6 +51,8 @@ Tout au long de sa mission, le candidat retenu bénéficiera de l’appui au quo
 * **7 septembre – 31 décembre 2020**
 {: .bleue .margin-0}
 **Commando UX en action :** designers et développeurs intègrent les administrations pour relever leur défi.
+<br>
+<br>
 
 <div align="center">
 <a href="https://design.numerique.gouv.fr/commando-ux/" class="button">Découvrez les défis et postulez</a>
