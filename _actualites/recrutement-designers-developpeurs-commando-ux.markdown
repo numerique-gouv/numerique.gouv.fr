@@ -23,26 +23,26 @@ une-ou-diaporama:
 
 Et si, demain, c’était grâce à vous que la démarche d’immatriculation d’un véhicule devenait un jeu d’enfant, voire, soyons fous, un moment de plaisir ? C’est l’un des 10 défis que nous vous proposons de relever en rejoignant notre commando UX !
 
-<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-cible.png" alt=""/></figure>### Votre mission ?
+<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-cible.png" alt=""/></figure>## Votre mission ?
 {: .margin-bottom-1} 
 Améliorer concrètement et rapidement l’un des 250 services publics numériques les plus utilisés par les Français, pour le rendre plus **fluide**, **efficace, inclusif** et **compréhensible**. Et même **désirable**.
 <br>
 
-<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-recerche-profils.png" alt=""/></figure>### Les profils que nous recherchons ?
+<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-recerche-profils.png" alt=""/></figure>## Les profils que nous recherchons ?
 {: .margin-bottom-1}
 **Designers UX/UI, ingénieurs UX, développeurs full stack, développeurs accessibilité...** À chaque défi, selon les besoins, correspondent **un ou deux profils** recherchés.
 
 **Nul besoin d’être fonctionnaire**, au contraire, nous recherchons des experts actuellement en dehors de l’administration.
 <br>
 
-<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-attache-case.png" alt=""/></figure>### Les conditions ?
+<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-attache-case.png" alt=""/></figure>## Les conditions ?
 {: .margin-bottom-1}
 En **CDD à temps plein du 7 septembre au 31 décembre 2020**, vous intégrerez l’équipe responsable de la démarche en question, au sein de l’administration en charge (Pôle emploi, direction de la sécurité sociale, ministère de l’Intérieur, délégation à la sécurité routière…).
 
 Tout au long de sa mission, le candidat retenu bénéficiera de l’appui au quotidien d’**un référent dans son administration d’accueil**, mais aussi de l’**accompagnement d’une équipe dédiée**, composée d’une chercheuse UX et de deux designers produits, au sein de la direction interministérielle du numérique – qui pilote le programme Commando UX.
 <br>
 
-<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-calendrier.png" alt=""/></figure>### Les dates clés
+<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-calendrier.png" alt=""/></figure>## Les dates clés
 {: .margin-bottom-1}
 * **29 juin – 17 juillet 2020**
 {: .bleue .margin-0}
