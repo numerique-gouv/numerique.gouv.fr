@@ -22,6 +22,8 @@ une-ou-diaporama:
 ### Une expérience unique : prenez part à l'amélioration concrète du quotidien des usagers du service public
 
 Et si, demain, c’était grâce à vous que la démarche d’immatriculation d’un véhicule devenait un jeu d’enfant, voire, soyons fous, un moment de plaisir ? C’est l’un des 10 défis que nous vous proposons de relever en rejoignant notre commando UX !
+<br>
+<br>
 
 <figure class='image-left' style='width: 6%;'><img src="/uploads/picto-cible.png" alt=""/></figure>## Votre mission ?
 {: .margin-top-0}
@@ -45,7 +47,7 @@ Tout au long de sa mission, le candidat retenu bénéficiera de l’appui au quo
 <br>
 <br>
 
-<figure class='image-left' style='width: 6%;'><img src="/uploads/picto-calendrier.png" alt=""/></figure>## Les dates clés
+<figure class='image-left' style='width: 5%;'><img src="/uploads/picto-calendrier.png" alt=""/></figure>## Les dates clés
 {: .margin-top-0}
 * **29 juin – 17 juillet 2020**
 {: .bleue .margin-0}
