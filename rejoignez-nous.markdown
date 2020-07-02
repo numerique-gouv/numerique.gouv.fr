@@ -22,7 +22,8 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 > ### Designers, développeurs/développeuses : 15 postes à pourvoir
-> Rejoignez notre Commando UX et améliorez l’expérience utilisateur d’un des 250 services publics numériques les plus utilisés ! 15 profils recherchés pour relever, en 4 mois, en CDD, 10 défis au sein de l’État, dans différents ministères et administrations.
+> Rejoignez notre Commando UX et améliorez l’expérience utilisateur d’un des 250 services publics numériques les plus utilisés ! 15 profils recherchés pour relever, en 4 mois, 10 défis au sein de l’État, dans différents ministères et administrations. 
+> <br>CDD du 7 septembre au 31 décembre 2020, 3000 à 3500€ net par mois, postes basés à Paris, Rennes, Montauban...
 > 
 > > [**Découvrez les 10 défis et postulez jusqu'au 17 juillet**](https://design.numerique.gouv.fr/commando-ux/)
 > {: .lien-important .blanc}
