@@ -1,6 +1,7 @@
 ---
 title: Plano, plateforme de gestion de projet en ligne et de travail collaboratif
 date: 2020-04-03 06:48:00 +02:00
+published: false
 tags:
 - Plano
 - ETNA

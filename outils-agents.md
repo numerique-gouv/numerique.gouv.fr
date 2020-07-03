@@ -17,10 +17,6 @@ publications:
   url: "/outils-agents/osmose/"
   une-ou-diaporama:
   - image: "/uploads/20200331_produit_service_Osmose.png"
-- title: Plano, plateforme de gestion de projet en ligne et de travail collaboratif
-  url: "/outils-agents/plano/"
-  une-ou-diaporama:
-  - image: "/uploads/20200331_produit_service_PLANO.png"
 - title: Resana, plateforme collaborative pour vos groupes de travail
   url: "/outils-agents/resana/"
   une-ou-diaporama:
