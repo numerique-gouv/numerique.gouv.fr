@@ -50,7 +50,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-#### **SI/Réseau/Sécurité**
+#### **Réseau/Infrastructures**
 {: .margin-top-4 .margin-bottom-1}
 * [**Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6d0887a2-da90-4966-b027-b84f91bd4a66&offerid=374085 "Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services - Télécharger le pdf") (pdf - 774&nbsp;ko)
 <br>Poste basé à Ille et Vilaine (35)
