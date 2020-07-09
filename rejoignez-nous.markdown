@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '2 juillet 2020 '
+date_de_modification: '9 juillet 2020 '
 layout: page-annexe
 ---
 
@@ -36,15 +36,21 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
-
-#### **Produits numériques**
+#### **Performance et sécurisation**
 {: .margin-top-4 .margin-bottom-1}
-* [**Chargé/Chargée des produits Labellisés**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d3daf5e5-4989-430e-847d-9cd3ff446fef&offerid=377221 "Chargé/Chargée des produits Labellisés - Télécharger le pdf") (pdf - 578&nbsp;ko)
+* [**Directeur de projet – Performance des projets numériques de l’État H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet--performance-des-projets-numeriques-de-l-etat-hf-reference-2020-425150)
 <br>Cadre/Catégorie A
 <br>
 <br>
 
-#### **SI/Réseau/Sécurité**
+#### **Produits numériques**
+{: .margin-top-4 .margin-bottom-1}
+* [**Chargé/Chargée des produits labellisés**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d3daf5e5-4989-430e-847d-9cd3ff446fef&offerid=377221 "Chargé/Chargée des produits labellisés - Télécharger le pdf") (pdf - 578&nbsp;ko)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
+#### **Réseau/Infrastructures**
 {: .margin-top-4 .margin-bottom-1}
 * [**Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6d0887a2-da90-4966-b027-b84f91bd4a66&offerid=374085 "Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services - Télécharger le pdf") (pdf - 774&nbsp;ko)
 <br>Poste basé à Ille et Vilaine (35)
@@ -60,8 +66,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Apprentissage**
 {: .margin-top-4 .margin-bottom-1}
-* [**Assistant/Assistante chef de projet produits numériques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=298c129a-904f-4586-a357-44e4f769026e&offerid=379746 "Assistant/Assistante chef de projet produits numériques - Télécharger le pdf") (pdf - 214&nbsp;ko)
-
 * [**Apprenti/Apprentie gouvernance et maîtrise des risques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f61be055-3156-49e7-838f-03e8b691fe12&offerid=379743 "Apprenti/Apprentie gouvernance et maîtrise des risques - Télécharger le pdf") (pdf - 429&nbsp;ko)
 <br>
 <br>
@@ -91,9 +95,4 @@ Zoom sur quelques postes dans le numérique public :
 > <br>Poste basé à La Défense (92)<br>
 > 
 > 
-> **Ministères économiques et financiers**
-> 
-> Centre interministériel de services informatiques en matière de ressources humaines
-> * [**Ingénieur/Ingénieure réseau sécurité**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f3c98daf-62a0-47ce-9824-01b99c737e05&offerid=150292 "Ingénieur/Ingénieure réseau sécurité - Télécharger le pdf") (pdf - 454&nbsp;ko)<br>
-> Cadre/Catégorie A
 {: .noir .encadre}
