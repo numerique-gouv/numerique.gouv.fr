@@ -37,7 +37,7 @@ collections:
     title: Posts
     output: true
   publications:
-    title: Publication
+    title: Publications
     output: true
     permalink: "/publications/:title/"
   rgaa:
