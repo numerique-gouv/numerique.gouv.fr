@@ -36,6 +36,13 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
+#### **Animation de programme**
+{: .margin-top-4 .margin-bottom-1}
+* [**Chargé/Chargée de mission pour le programme entrepreneurs d'intérêt général (EIG)**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=5b7f3307-6436-4923-9991-916421046f44&offerid=429494)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
 #### **Performance et sécurisation**
 {: .margin-top-4 .margin-bottom-1}
 * [**Directeur de projet – Performance des projets numériques de l’État H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet--performance-des-projets-numeriques-de-l-etat-hf-reference-2020-425150)
