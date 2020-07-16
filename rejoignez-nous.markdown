@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '9 juillet 2020 '
+date_de_modification: '16 juillet 2020 '
 layout: page-annexe
 ---
 
@@ -59,21 +59,8 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 #### **Réseau/Infrastructures**
 {: .margin-top-4 .margin-bottom-1}
-* [**Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6d0887a2-da90-4966-b027-b84f91bd4a66&offerid=374085 "Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services - Télécharger le pdf") (pdf - 774&nbsp;ko)
-<br>Poste basé à Ille et Vilaine (35)
-<br>Cadre/Catégorie A
-
-* [**Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=6d0887a2-da90-4966-b027-b84f91bd4a66&offerid=374085 "Chef/Cheffe de projet services opérés d'infrastructure – Supervision des services - Télécharger le pdf") (pdf - 774&nbsp;ko)
-<br>Cadre/Catégorie A
-
 * [**Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=447d3aed-3dd4-48ca-b106-0be564f2fd8f&offerid=374091 "Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État » - Télécharger le pdf") (pdf - 777&nbsp;ko)
 <br>Cadre/Catégorie A
-<br>
-<br>
-
-#### **Apprentissage**
-{: .margin-top-4 .margin-bottom-1}
-* [**Apprenti/Apprentie gouvernance et maîtrise des risques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=f61be055-3156-49e7-838f-03e8b691fe12&offerid=379743 "Apprenti/Apprentie gouvernance et maîtrise des risques - Télécharger le pdf") (pdf - 429&nbsp;ko)
 <br>
 <br>
 
