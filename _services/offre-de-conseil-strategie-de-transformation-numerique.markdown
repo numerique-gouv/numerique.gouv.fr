@@ -46,6 +46,8 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 {: .bleue .margin-0}
 **Détecter les freins réglementaires** à une approche nouvelle de votre politique et **identifier ceux qui peuvent être levés** ainsi que les **ressources européennes** utiles.
 
+
+
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto-zoom.png"/>
 </figure>## Zoom sur 2 accompagnements
