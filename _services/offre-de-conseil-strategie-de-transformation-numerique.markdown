@@ -10,6 +10,7 @@ chapeau-text: |-
   La mission Transformation numérique de l’État de la DINUM propose aux cadres dirigeants de l’État une offre de conseil en stratégie numérique, adaptée à vos problématiques et votre culture métier. Nous vous aidons à tirer tout le potentiel du numérique – dans toutes ses composantes– pour transformer vos politiques publiques.
 
   Une offre dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/).
+layout: rgaa
 ---
 
 <figure class='image-left' style='width: 10%;'>
