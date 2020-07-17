@@ -30,7 +30,7 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 
 {: .margin-bottom-1}
 **Acteurs**
-{: .orange .margin-0}
+{: .bleue .margin-0}
 **Intégrer les points de vue** de tous les acteurs de la politique publique : décideurs, agents, bénéficiaires.
 **Faire grandir** les équipes et managers en talents et culture numériques.
 
@@ -39,11 +39,11 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 **Analyser l’impact du numérique** dans votre politique publique à partir de la satisfaction de vos usagers et agents.
 
 **Méthodes**
-{: .rouge .margin-0}
+{: .bleue .margin-0}
 **Illustrer** par des cas de transformation qui font écho à votre propre organisation. **Faire connaître** les méthodes adaptées à votre transformation numérique et ce qu’elles impliquent.
 
 **Règlementation**
-{: .vert .margin-0}
+{: .bleue .margin-0}
 **Détecter les freins réglementaires** à une approche nouvelle de votre politique et **identifier ceux qui peuvent être levés** ainsi que les **ressources européennes** utiles.
 
 <figure class='image-left' style='width: 6%;'>
