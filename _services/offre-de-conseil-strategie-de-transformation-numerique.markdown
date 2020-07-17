@@ -23,10 +23,9 @@ Nous identifions, dans le cadre de vos politiques publiques, **les potentiels d�
 
 D’une **analyse en profondeur** à un **diagnostic flash en réponse à une question précise**, nos sujets et modes d’intervention s’adaptent à votre besoin.
 
-**\[PARTIE 4 GRANDES ÉTAPES A AJOUTER\]**
+**[PARTIE 4 GRANDES ÉTAPES A AJOUTER]**
 
-**\[AJOUTER PICTO\]**
-
+**[AJOUTER PICTO LEVIERS D'ACTION]**
 ## Nos leviers d’action
 
 {: .margin-bottom-1}
