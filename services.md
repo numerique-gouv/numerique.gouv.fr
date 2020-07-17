@@ -18,6 +18,10 @@ publications:
   url: "/services/partagez-vos-talents-numeriques/"
   une-ou-diaporama:
   - image: "/uploads/Partagez-talents_rub.png"
+- title: 'Offre de conseil : Stratégie de transformation numérique'
+  url: "/services/offre-de-conseil-strategie-de-transformation-numerique/"
+  une-ou-diaporama:
+  - image: 
 layout: publications
 ---
 
