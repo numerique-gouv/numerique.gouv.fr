@@ -13,6 +13,7 @@ chapeau-text: |-
 layout: rgaa
 ---
 
+<style>
 .main-timeline{
     font-family: 'Quicksand', sans-serif;
     position: relative;
@@ -150,7 +151,7 @@ layout: rgaa
 @media screen and (max-width:576px){
     .main-timeline .title{ font-size: 18px; }
 }
-
+</style>
 <figure class='image-left' style='width: 10%;'>
 <img src="/uploads/picto-accompagnement.png"/>
 </figure>## Notre accompagnement
