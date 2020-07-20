@@ -14,10 +14,8 @@ layout: rgaa
 ---
 
 <style>
-
-	
 .main-timeline{
-    font-family: 'Poppins', sans-serif;
+    font-family: "Open Sans", Arial, sans-serif;
     position: relative;
 }
 .main-timeline:after{
@@ -44,7 +42,7 @@ layout: rgaa
 .main-timeline .timeline-content:before,
 .main-timeline .timeline-content:after{
     content: '';
-    background: linear-gradient(to bottom,#2E687C 49%,#3E7B97 50%);
+    background: linear-gradient(to bottom,#ff6325 49%,#3E7B97 50%);
     height: 100%;
     width: 30px;
     position: absolute;
@@ -112,21 +110,21 @@ layout: rgaa
 .main-timeline .timeline:nth-child(4n+2) .timeline-content:before,
 .main-timeline .timeline:nth-child(4n+2) .timeline-content:after,
 .main-timeline .timeline:nth-child(4n+2) .timeline-icon{
-    background: linear-gradient(to bottom,#ff6348 49%,#ff7f50 50%);
+    background: linear-gradient(to bottom,#3dbab8 49%,#ff7f50 50%);
 }
-.main-timeline .timeline:nth-child(4n+2) .title{ color: #ff6348; }
+.main-timeline .timeline:nth-child(4n+2) .title{ color: #3dbab8; }
 .main-timeline .timeline:nth-child(4n+3) .timeline-content:before,
 .main-timeline .timeline:nth-child(4n+3) .timeline-content:after,
 .main-timeline .timeline:nth-child(4n+3) .timeline-icon{
-    background: linear-gradient(to bottom,#259390 49%,#46AEAF 50%);
+    background: linear-gradient(to bottom,#154984 49%,#46AEAF 50%);
 }
-.main-timeline .timeline:nth-child(4n+3) .title{ color: #259390; }
+.main-timeline .timeline:nth-child(4n+3) .title{ color: #154984; }
 .main-timeline .timeline:nth-child(4n+4) .timeline-content:before,
 .main-timeline .timeline:nth-child(4n+4) .timeline-content:after,
 .main-timeline .timeline:nth-child(4n+4) .timeline-icon{
-    background: linear-gradient(to bottom,#CC3254 49%,#E33A59 50%);
+    background: linear-gradient(to bottom,#ff4954 49%,#E33A59 50%);
 }
-.main-timeline .timeline:nth-child(4n+4) .title{ color: #CC3254; }
+.main-timeline .timeline:nth-child(4n+4) .title{ color: #ff4954; }
 @media screen and (max-width:767px){
     .main-timeline .timeline,
     .main-timeline .timeline:nth-child(even){
