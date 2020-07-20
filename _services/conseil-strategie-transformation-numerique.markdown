@@ -24,6 +24,52 @@ Nous identifions, dans le cadre de vos politiques publiques, **les potentiels d�
 D’une **analyse en profondeur** à un **diagnostic flash en réponse à une question précise**, nos sujets et modes d’intervention s’adaptent à votre besoin.
 
 **[PARTIE 4 GRANDES ÉTAPES A AJOUTER]**
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="main-timeline">
+                <div class="timeline">
+                    <a href="#" class="timeline-content">
+                        <div class="timeline-icon">
+                            <i class="fa fa-globe"></i>
+                        </div>
+                        <h3 class="title">CADRAGE de la mission et analyse de votre problématique</h3>
+                        <p class="description">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer males uada tellus lorem, et condimentum neque commodo
+                        </p>
+                    </a>
+                </div>
+                <div class="timeline">
+                    <a href="#" class="timeline-content">
+                        <div class="timeline-icon">
+                            <i class="fa fa-users"></i>
+                        </div>
+                        <h3 class="title">ASSEMBLAGE d’expertises</h3>
+                        <p class="description">
+                            Nous mobilisons toutes les expertises nécessaires au sein de la DINUM et si besoin d’autres acteurs tant publics (DITP...) que privés, ex. : <br>Expérience usager • data science • intelligence artificielle • gestion des compétences • droit du numérique • green tech • transformation publique et managériale • relation usager...
+                        </p>
+                    </a>
+                </div>
+                        <div class="timeline">
+                            <a href="#" class="timeline-content">
+                                <div class="timeline-icon">
+                                    <i class="fa fa-briefcase"></i>
+                                </div>
+                                <h3 class="title">IDENTIFICATION de bonnes (et moins bonnes) pratiques en interministériel</h3>                              
+                            </a>
+                        </div>
+<div class="timeline">
+                            <a href="#" class="timeline-content">
+                                <div class="timeline-icon">
+                                    <i class="fa fa-users"></i>
+                                </div>
+                                <h3 class="title">RECOMMANDATIONS, pistes de solutions et d’améliorations</h3>                                </a>
+                        </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 **[AJOUTER PICTO LEVIERS D'ACTION]**
 ## Nos leviers d’action
