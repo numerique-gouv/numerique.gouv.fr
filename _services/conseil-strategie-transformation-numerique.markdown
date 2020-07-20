@@ -186,8 +186,10 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 </p>
 </div>
 <div class="timeline">
+<div class="timeline-content">
 <div class="timeline-icon">
 <i class="fa fa-rocket"></i>
+</div>
 </div>
 <h3 class="title">ASSEMBLAGE d’expertises</h3>
 <p class="description">Nous mobilisons toutes les expertises nécessaires au sein de la DINUM et si besoin d’autres acteurs tant publics (DITP...) que privés, ex. :
@@ -195,16 +197,20 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 </p>
 </div>
 <div class="timeline">
+<div class="timeline-content">
 <div class="timeline-icon">
 <i class="fa fa-users"></i>
+</div>
 </div>
 <h3 class="title">IDENTIFICATION</h3>
 <p class="description">de bonnes (et moins bonnes) pratiques en interministériel
 </p>
 </div>
 <div class="timeline">
+<div class="timeline-content">
 <div class="timeline-icon">
 <i class="fa fa-briefcase"></i>
+</div>
 </div>
 <h3 class="title">RECOMMANDATIONS,</h3>
 <p class="description">pistes de solutions et d’améliorations</p>
