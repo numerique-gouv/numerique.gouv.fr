@@ -203,7 +203,6 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 </p>
 </div>
 <div class="timeline">
-<a href="#" class="timeline-content">
 <div class="timeline-icon">
 <i class="fa fa-briefcase"></i>
 </div>
