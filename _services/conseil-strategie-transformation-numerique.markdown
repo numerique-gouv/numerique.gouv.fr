@@ -13,6 +13,144 @@ chapeau-text: |-
 layout: rgaa
 ---
 
+.main-timeline{
+    font-family: 'Quicksand', sans-serif;
+    position: relative;
+}
+.main-timeline:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.main-timeline .timeline{
+    width: 50%;
+    padding: 35px 0 0 100px;
+    margin: 0 0 20px 20px;
+    float: right;
+}
+.main-timeline .timeline-content{
+    color: #555;
+    display: block;
+    position: relative;
+}
+.main-timeline .timeline-content:hover{ text-decoration: none; }
+.main-timeline .timeline-icon{
+    color: #FF4BA6;
+    background-color: #fff;
+    font-size: 50px;
+    text-align: center;
+    line-height: 90px;
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid #e7e7e7;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3) inset,0 0 10px rgba(0,0,0,0.5),0 0 0 10px #FF4BA6;
+    position: absolute;
+    left: -145px;
+    top: -25px;
+    z-index: 2;
+}
+.main-timeline .title{
+    color: #fff;
+    background-color: #FF4BA6;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    padding: 10px 25px;
+    margin: 0 0 5px;
+    border-radius: 10px;
+    position: relative;
+}
+.main-timeline .title:before,
+.main-timeline .title:after{
+    content: '';
+    background-color: #fff;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    transform: translateY(-50%);
+    position: absolute;
+    left: -9px;
+    top: 50%;
+}
+.main-timeline .title:after{
+    background-color: transparent;
+    height: 3px;
+    width: 55px;
+    border-top: 9px dotted #FF4BA6;
+    box-shadow: none;
+    border-radius: 0;
+    left: -68px;
+}
+.main-timeline .description{
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin: 0 0 0 10px;
+}
+.main-timeline .timeline:nth-child(even){
+    float: left;
+    padding: 35px 100px 0 0;
+    margin: 0 20px 20px 0;
+}
+.main-timeline .timeline:nth-child(even) .timeline-icon{
+    left: auto;
+    right: -144px;
+}
+.main-timeline .timeline:nth-child(even) .title:before{
+    left: auto;
+    right: -9px;
+}
+.main-timeline .timeline:nth-child(even) .title:after{
+    left: auto;
+    right: -68px;
+}
+.main-timeline .timeline:nth-child(4n+2) .timeline-icon{
+    color: #00A79D;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3) inset,0 0 10px rgba(0,0,0,0.5),0 0 0 10px #00A79D;
+}
+.main-timeline .timeline:nth-child(4n+2) .title{ background-color: #00A79D; }
+.main-timeline .timeline:nth-child(4n+2) .title:after{ border-color: #00A79D; }
+.main-timeline .timeline:nth-child(4n+3) .timeline-icon{
+    color: #00C2FF;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3) inset,0 0 10px rgba(0,0,0,0.5),0 0 0 10px #00C2FF;
+}
+.main-timeline .timeline:nth-child(4n+3) .title{ background-color: #00C2FF; }
+.main-timeline .timeline:nth-child(4n+3) .title:after{ border-color: #00C2FF; }
+.main-timeline .timeline:nth-child(4n+4) .timeline-icon{
+    color: #BA52FF;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3) inset,0 0 10px rgba(0,0,0,0.5),0 0 0 10px #BA52FF;
+}
+.main-timeline .timeline:nth-child(4n+4) .title{ background-color: #BA52FF; }
+.main-timeline .timeline:nth-child(4n+4) .title:after{ border-color: #BA52FF; }
+@media screen and (max-width:767px){
+    .main-timeline .timeline,
+    .main-timeline .timeline:nth-child(even){
+        width: 100%;
+        padding: 15px 0 0 10px;
+        margin: 0 0 20px;
+    }
+    .main-timeline .timeline-icon,
+    .main-timeline .timeline:nth-child(even) .timeline-icon{
+        font-size: 30px;
+        line-height: 48px;
+        height: 50px;
+        width: 50px;
+        left: 0;
+        top: -6px;
+    }
+    .main-timeline .title{ padding-left: 70px; }
+    .main-timeline .description{ margin-left: 70px; }
+    .main-timeline .title:before,
+    .main-timeline .title:after{
+        display: none;
+    }
+}
+@media screen and (max-width:576px){
+    .main-timeline .title{ font-size: 18px; }
+}
+
 <figure class='image-left' style='width: 10%;'>
 <img src="/uploads/picto-accompagnement.png"/>
 </figure>## Notre accompagnement
