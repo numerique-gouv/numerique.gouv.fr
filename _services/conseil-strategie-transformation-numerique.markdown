@@ -101,7 +101,7 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
 > 
 > **Par courriel**
 > {: .bleue .margin-0}
-> Adressez votre demande [par courriel](mailto:transfo.dinum@modernisation.gouv.fr) en décrivant votre besoin.
+> Contactez Patrick Ruestchmann, chef de la mission Transformation numérique de l’État, à la DINUM, en décrivant votre besoin, à : [transfo.dinum@modernisation.gouv.fr](mailto:transfo.dinum@modernisation.gouv.fr).
 {: .noir .encadre}
 <br>
 <br>
