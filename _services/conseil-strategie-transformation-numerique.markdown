@@ -213,7 +213,6 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 </div>
 </div>
 </div>
-</div>
 
 **[AJOUTER PICTO LEVIERS D'ACTION]**
 ## Nos leviers d’action
