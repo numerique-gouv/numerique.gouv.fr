@@ -49,7 +49,7 @@ layout: rgaa
 .main-timeline .timeline-content:hover{ text-decoration: none; }
 .main-timeline .timeline-icon{
     color: #fff;
-    background: linear-gradient(to bottom,#2E687C 49%,#3E7B97 50%);
+    background: linear-gradient(to bottom,#ff6325  49%,#ff6325 50%);
     font-size: 45px;
     text-align: center;
     line-height: 108px;
@@ -63,7 +63,7 @@ layout: rgaa
     right: -52px;
 }
 .main-timeline .title{
-    color: #2E687C;
+    color: #ff6325;
     font-size: 18px;
     font-weight: 700;
     letter-spacing: 1px;
