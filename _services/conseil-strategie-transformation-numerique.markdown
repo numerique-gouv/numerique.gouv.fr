@@ -18,11 +18,6 @@ layout: rgaa
     font-family: "Open Sans", Arial, sans-serif;
     position: relative;
 }
-.main-timeline:after{
-    content: '';
-    display: block;
-    clear: both;
-}
 .main-timeline .timeline{
     width: 50%;
     padding: 0 0 0 30px;
@@ -50,15 +45,7 @@ layout: rgaa
     top: 0;
     z-index: -1;
 }
-.main-timeline .timeline-content:after{
-    height: 150px;
-    width: 150px;
-    border-radius: 50%;
-    transform: translateY(-50%);
-    top: 50%;
-    left: auto;
-    right: -75px;
-}
+
 .main-timeline .timeline-content:hover{ text-decoration: none; }
 .main-timeline .timeline-icon{
     color: #fff;
@@ -178,12 +165,14 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 <div class="col-md-12">
 <div class="main-timeline">
 <div class="timeline">
+<a href="#" class="timeline-content">
 <div class="timeline-icon">
 <i class="fa fa-globe"></i>
 </div>
 <h3 class="title">CADRAGE</h3>
 <p class="description">de la mission et analyse de votre problématique
 </p>
+</a>
 </div>
 <div class="timeline">
 <div class="timeline-content">
