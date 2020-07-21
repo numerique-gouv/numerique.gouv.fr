@@ -109,7 +109,7 @@ layout: rgaa
 .main-timeline .timeline:nth-child(4n+4) .timeline-content:before,
 .main-timeline .timeline:nth-child(4n+4) .timeline-content:after,
 .main-timeline .timeline:nth-child(4n+4) .timeline-icon{
-    background: linear-gradient(to bottom,#ff4954 49%,#E33A59 50%);
+    background: linear-gradient(to bottom,#ff4954 49%,#ff4954 50%);
 }
 .main-timeline .timeline:nth-child(4n+4) .title{ color: #ff4954; }
 @media screen and (max-width:767px){
