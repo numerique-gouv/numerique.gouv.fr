@@ -65,8 +65,8 @@ layout: rgaa
 .main-timeline .title{
     color: #ff6325;
     font-size: 18px;
+    text-transform: uppercase;
     font-weight: 700;
-    letter-spacing: 1px;
     margin: 0 0 7px 0;
 }
 .main-timeline .description{
@@ -167,7 +167,7 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 <div class="timeline-icon">
 <i class="fa fa-globe"></i>
 </div>
-<h3 class="title">CADRAGE</h3>
+<h3 class="title">Cadrage</h3>
 <p class="description">de la mission et analyse de votre problématique
 </p>
 </div>
@@ -177,7 +177,7 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 <div class="timeline-icon">
 <i class="fa fa-rocket"></i>
 </div>
-<h3 class="title">ASSEMBLAGE d’expertises</h3>
+<h3 class="title">Assemblage d’expertises</h3>
 <p class="description">Nous mobilisons toutes les expertises nécessaires au sein de la DINUM et si besoin d’autres acteurs tant publics (DITP...) que privés, ex. :
 <br>Expérience usager • data science • intelligence artificielle • gestion des compétences • droit du numérique • green tech • transformation publique et managériale • relation usager...
 </p>
@@ -188,7 +188,7 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 <div class="timeline-icon">
 <i class="fa fa-users"></i>
 </div>
-<h3 class="title">IDENTIFICATION</h3>
+<h3 class="title">Identification</h3>
 <p class="description">de bonnes (et moins bonnes) pratiques en interministériel
 </p>
 </div>
@@ -198,7 +198,7 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 <div class="timeline-icon">
 <i class="fa fa-briefcase"></i>
 </div>
-<h3 class="title">RECOMMANDATIONS,</h3>
+<h3 class="title">Recommandations,</h3>
 <p class="description">pistes de solutions et d’améliorations</p>
 </div>
 </div>
