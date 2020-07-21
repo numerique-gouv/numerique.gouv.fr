@@ -179,11 +179,11 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 <div class="timeline-icon">
 <i class="fa fa-rocket"></i>
 </div>
-</div>
 <h3 class="title">ASSEMBLAGE d’expertises</h3>
 <p class="description">Nous mobilisons toutes les expertises nécessaires au sein de la DINUM et si besoin d’autres acteurs tant publics (DITP...) que privés, ex. :
 <br>Expérience usager • data science • intelligence artificielle • gestion des compétences • droit du numérique • green tech • transformation publique et managériale • relation usager...
 </p>
+</div>
 </div>
 <div class="timeline">
 <div class="timeline-content">
