@@ -64,16 +64,14 @@ layout: rgaa
 }
 .main-timeline .title{
     color: #2E687C;
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 700;
-    text-transform: uppercase;
     letter-spacing: 1px;
     margin: 0 0 7px 0;
 }
 .main-timeline .description{
     font-size: 14px;
     letter-spacing: 1px;
-    text-align: justify;
     margin: 0;
 }
 .main-timeline .timeline:nth-child(even){
