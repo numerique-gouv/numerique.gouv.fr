@@ -37,7 +37,7 @@ layout: rgaa
 .main-timeline .timeline-content:before,
 .main-timeline .timeline-content:after{
     content: '';
-    background: linear-gradient(to bottom,#ff6325 49%,#3E7B97 50%);
+    background: linear-gradient(to bottom,#ff6325 49%,#ff6325 50%);
     height: 100%;
     width: 30px;
     position: absolute;
@@ -97,13 +97,13 @@ layout: rgaa
 .main-timeline .timeline:nth-child(4n+2) .timeline-content:before,
 .main-timeline .timeline:nth-child(4n+2) .timeline-content:after,
 .main-timeline .timeline:nth-child(4n+2) .timeline-icon{
-    background: linear-gradient(to bottom,#3dbab8 49%,#ff7f50 50%);
+    background: linear-gradient(to bottom,#3dbab8 49%,#3dbab8 50%);
 }
 .main-timeline .timeline:nth-child(4n+2) .title{ color: #3dbab8; }
 .main-timeline .timeline:nth-child(4n+3) .timeline-content:before,
 .main-timeline .timeline:nth-child(4n+3) .timeline-content:after,
 .main-timeline .timeline:nth-child(4n+3) .timeline-icon{
-    background: linear-gradient(to bottom,#154984 49%,#46AEAF 50%);
+    background: linear-gradient(to bottom,#154984 49%,#154984 50%);
 }
 .main-timeline .timeline:nth-child(4n+3) .title{ color: #154984; }
 .main-timeline .timeline:nth-child(4n+4) .timeline-content:before,
