@@ -188,7 +188,7 @@ layout: rgaa
 </style>
 
 <figure class='image-left' style='width: 10%;'>
-<img src="/uploads/picto-accompagnement.png"/>
+<img src="/uploads/Notre-accompagnement.png" alt="">
 </figure>## Notre accompagnement
 {: .margin-bottom-1}
 Nos consultants internes au sein de la DINUM vous accompagnent pour **définir, affiner, améliorer ou réorienter votre stratégie** de transformation numérique, en amont des projets.
@@ -197,8 +197,10 @@ Nous identifions, dans le cadre de vos politiques publiques, **les potentiels d�
 
 D’une **analyse en profondeur** à un **diagnostic flash en réponse à une question précise**, nos sujets et modes d’intervention s’adaptent à votre besoin.
 
-**[PARTIE 4 GRANDES ÉTAPES A AJOUTER]**
-
+<figure class='image-left' style='width: 10%;'>
+<img src="/uploads/4-grandes-e%CC%81tapes.png" alt="">
+</figure>## 4 étapes
+{: .margin-bottom-1}
 <div class="row">
 <div class="col-md-12">
 <div class="main-timeline">
