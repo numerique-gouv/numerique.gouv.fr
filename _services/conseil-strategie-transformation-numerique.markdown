@@ -25,7 +25,7 @@ layout: rgaa
 }
 .main-timeline .timeline{
     width: 60%;
-    padding: 0 0 0 10px;
+    padding: 0 0 0 15px;
     margin: 0 30px 20px 0;
     float: left;
     position: relative;
@@ -94,7 +94,7 @@ layout: rgaa
 }
 .main-timeline .timeline:nth-child(even){
     float: right;
-    padding: 0 10px 0 0;
+    padding: 0 15px 0 0;
     margin: 0 0 20px 30px;
 }
 .main-timeline .timeline:nth-child(even) .timeline-content{ padding: 20px 15px 20px 70px; }
@@ -164,23 +164,6 @@ layout: rgaa
     .main-timeline .timeline:nth-child(even) .timeline-icon{ left: 15px; }
     .main-timeline .title{ font-size: 18px; }
 }
-.titre-couleur > strong {
-    color: #fff;
-    padding-right: 5px;
-    padding-left: 5px;
-}
-.fond-orange > strong {
-    background: #FF6326
-}
-.fond-bleu > strong {
-    background: #00b9f2
-}
-.fond-rouge > strong {
-    background: #ff3333
-}
-.fond-vert > strong {
-    background: #36adb4
-}
 </style>
 
 <figure class='image-left' style='width: 10%;'>
@@ -247,20 +230,20 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 
 {: .margin-bottom-1}
 **Acteurs**
-{: .bleue .margin-0 .titre-couleur .fond-orange}
+{: .bleue .margin-0}
 **Intégrer les points de vue** de tous les acteurs de la politique publique : décideurs, agents, bénéficiaires.
 **Faire grandir** les équipes et managers en talents et culture numériques.
 
 **Performance**
-{: .bleue .margin-0 .titre-couleur .fond-bleu}
+{: .bleue .margin-0}
 **Analyser l’impact du numérique** dans votre politique publique à partir de la satisfaction de vos usagers et agents.
 
 **Méthodes**
-{: .bleue .margin-0 .titre-couleur .fond-rouge}
+{: .bleue .margin-0}
 **Illustrer** par des cas de transformation qui font écho à votre propre organisation. **Faire connaître** les méthodes adaptées à votre transformation numérique et ce qu’elles impliquent.
 
 **Règlementation**
-{: .bleue .margin-0 .titre-couleur .fond-vert}
+{: .bleue .margin-0}
 **Détecter les freins réglementaires** à une approche nouvelle de votre politique et **identifier ceux qui peuvent être levés** ainsi que les **ressources européennes** utiles.
 
 
@@ -304,16 +287,19 @@ Nous avons dessiné le parcours d'un étudiant, dans toutes ses démarches (tran
 de recourir à l’offre de conseil en stratégie numérique de la DINUM
 {: .text-center}
 
-<p align="center"><img src="/uploads/1-6cb735.png" width="120" align="center" alt="1"/></p>
+<p align="center"><img src="/uploads/1-6cb735.png" width="120" align="center" alt="1"/>
 
-**1.** **Un assemblage unique de compétences** pour concevoir votre transformation
+<strong>Un assemblage unique de compétences</strong> pour concevoir votre transformation
 
-**2.** **Un accompagnement sur mesure,** toujours dans une posture d’appui
+<img src="/uploads/2-cb3c82.png" width="120" align="center" alt="2"/>
+<strong>Un accompagnement sur mesure,</strong> toujours dans une posture d’appui
 
-**3.** **Une interface facilitée avec les experts,** pas besoin de parler leur langage
+<img src="/uploads/3-560a28.png" width="120" align="center" alt="3"/>
+<strong>Une interface facilitée avec les experts,</strong> pas besoin de parler leur langage
 
-**4.** **Un point de vue interministériel** et des retours d’expériences adaptés
-
+<img src="/uploads/4-8043b4.png" width="120" align="center" alt="4"/>
+<strong>Un point de vue interministériel</strong> et des retours d’expériences adaptés
+</p>
 
 > ## Comment solliciter une mission de conseil ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
