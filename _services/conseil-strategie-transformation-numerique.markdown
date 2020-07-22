@@ -287,8 +287,8 @@ Nous avons dessiné le parcours d'un étudiant, dans toutes ses démarches (tran
 de recourir à l’offre de conseil en stratégie numérique de la DINUM
 {: .text-center}
 
-![1-6cb735.png](/uploads/1-6cb735.png)
-{: .text-center} 
+<p align="center"><img src="/uploads/1-6cb735.png" width="50" align="center" alt="1"/></a>
+
 **1.** **Un assemblage unique de compétences** pour concevoir votre transformation
 
 **2.** **Un accompagnement sur mesure,** toujours dans une posture d’appui
