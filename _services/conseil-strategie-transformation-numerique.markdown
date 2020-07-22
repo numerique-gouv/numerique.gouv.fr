@@ -160,8 +160,12 @@ layout: rgaa
         box-shadow: 0 0 0 5px #fff;
         right: 20px;
         right: 15px;
+        padding: 5px;
     }
-    .main-timeline .timeline:nth-child(even) .timeline-icon{ left: 15px; }
+    .main-timeline .timeline:nth-child(even) .timeline-icon{
+        left: 15px;
+        padding: 5px;
+    }
     .main-timeline .title{ font-size: 18px; }
 }
 .titre-couleur > strong {
