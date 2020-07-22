@@ -247,6 +247,8 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 </div>
 </div>
 </div>
+<br>
+<br>
 
 <figure class='image-left' style='width: 10%;'>
 <img src="/uploads/Nos-leviers-daction.png" alt="">
@@ -268,8 +270,8 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 **Règlementation**
 {: .bleue .margin-0 .titre-couleur .fond-vert}
 **Détecter les freins réglementaires** à une approche nouvelle de votre politique et **identifier ceux qui peuvent être levés** ainsi que les **ressources européennes** utiles.
-
-
+<br>
+<br>
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto-zoom.png"/>
