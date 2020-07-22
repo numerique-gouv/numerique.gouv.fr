@@ -18,9 +18,14 @@ layout: rgaa
     font-family: "Open Sans", Arial, sans-serif;
     position: relative;
 }
+.main-timeline:after{
+    content: '';
+    display: block;
+    clear: both;
+}
 .main-timeline .timeline{
-    width: 50%;
-    padding: 0 0 0 30px;
+    width: 60%;
+    padding: 0 0 0 15px;
     margin: 0 30px 20px 0;
     float: left;
     position: relative;
@@ -30,26 +35,34 @@ layout: rgaa
     color: #333;
     background-color: #f5f5f5;
     min-height: 150px;
-    padding: 30px 80px 30px 30px;
+    padding: 20px 65px 20px 15px;
     box-shadow: 0 0 15px rgba(0,0,0,0.2);
     display: block;
 }
 .main-timeline .timeline-content:before,
 .main-timeline .timeline-content:after{
     content: '';
-    background: linear-gradient(to bottom,#ff6325 49%,#ff6325 50%);
+    background: #FF6326;
     height: 100%;
-    width: 30px;
+    width: 15px;
     position: absolute;
     left: 0;
     top: 0;
     z-index: -1;
 }
-
+.main-timeline .timeline-content:after{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    transform: translateY(-50%);
+    top: 50%;
+    left: auto;
+    right: -75px;
+}
 .main-timeline .timeline-content:hover{ text-decoration: none; }
 .main-timeline .timeline-icon{
     color: #fff;
-    background: linear-gradient(to bottom,#ff6325  49%,#ff6325 50%);
+    background: #FF6326;
     font-size: 45px;
     text-align: center;
     line-height: 108px;
@@ -62,24 +75,32 @@ layout: rgaa
     top: 50%;
     right: -52px;
 }
+.main-timeline .timeline-icon {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .main-timeline .title{
-    color: #ff6325;
-    font-size: 18px;
-    text-transform: uppercase;
+    color: #FF6326;
+    font-size: 22px;
     font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
     margin: 0 0 7px 0;
 }
 .main-timeline .description{
     font-size: 14px;
     letter-spacing: 1px;
+    text-align: justify;
     margin: 0;
 }
 .main-timeline .timeline:nth-child(even){
     float: right;
-    padding: 0 30px 0 0;
+    padding: 0 15px 0 0;
     margin: 0 0 20px 30px;
 }
-.main-timeline .timeline:nth-child(even) .timeline-content{ padding: 30px 30px 30px 80px; }
+.main-timeline .timeline:nth-child(even) .timeline-content{ padding: 20px 15px 20px 70px; }
 .main-timeline .timeline:nth-child(even) .timeline-content:before{
     left: auto;
     right: 0;
@@ -95,21 +116,21 @@ layout: rgaa
 .main-timeline .timeline:nth-child(4n+2) .timeline-content:before,
 .main-timeline .timeline:nth-child(4n+2) .timeline-content:after,
 .main-timeline .timeline:nth-child(4n+2) .timeline-icon{
-    background: linear-gradient(to bottom,#3dbab8 49%,#3dbab8 50%);
+    background: #39B5B3;
 }
-.main-timeline .timeline:nth-child(4n+2) .title{ color: #3dbab8; }
+.main-timeline .timeline:nth-child(4n+2) .title{ color: #39B5B3; }
 .main-timeline .timeline:nth-child(4n+3) .timeline-content:before,
 .main-timeline .timeline:nth-child(4n+3) .timeline-content:after,
 .main-timeline .timeline:nth-child(4n+3) .timeline-icon{
-    background: linear-gradient(to bottom,#154984 49%,#154984 50%);
+    background: #154A84;
 }
-.main-timeline .timeline:nth-child(4n+3) .title{ color: #154984; }
+.main-timeline .timeline:nth-child(4n+3) .title{ color: #154A84; }
 .main-timeline .timeline:nth-child(4n+4) .timeline-content:before,
 .main-timeline .timeline:nth-child(4n+4) .timeline-content:after,
 .main-timeline .timeline:nth-child(4n+4) .timeline-icon{
-    background: linear-gradient(to bottom,#ff4954 49%,#ff4954 50%);
+    background: #FE4954;
 }
-.main-timeline .timeline:nth-child(4n+4) .title{ color: #ff4954; }
+.main-timeline .timeline:nth-child(4n+4) .title{ color: #FE4954; }
 @media screen and (max-width:767px){
     .main-timeline .timeline,
     .main-timeline .timeline:nth-child(even){
@@ -159,13 +180,14 @@ Nous identifions, dans le cadre de vos politiques publiques, **les potentiels d�
 D’une **analyse en profondeur** à un **diagnostic flash en réponse à une question précise**, nos sujets et modes d’intervention s’adaptent à votre besoin.
 
 **[PARTIE 4 GRANDES ÉTAPES A AJOUTER]**
+
 <div class="row">
 <div class="col-md-12">
 <div class="main-timeline">
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<i class="fa fa-globe"></i>
+<img src="/uploads/conseil-strategie-transformation-numerique/Etape-1-blanc-2.png" alt="Etape 1" />
 </div>
 <h3 class="title">Cadrage</h3>
 <p class="description">de la mission et analyse de votre problématique
@@ -175,7 +197,7 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<i class="fa fa-rocket"></i>
+<img src="/uploads/conseil-strategie-transformation-numerique/Etape-2-blanc-2.png" alt="Etape 2" />
 </div>
 <h3 class="title">Assemblage d’expertises</h3>
 <p class="description">Nous mobilisons toutes les expertises nécessaires au sein de la DINUM et si besoin d’autres acteurs tant publics (DITP...) que privés, ex. :
@@ -186,7 +208,7 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<i class="fa fa-users"></i>
+<img src="/uploads/conseil-strategie-transformation-numerique/Etape-3-blanc-2.png" alt="Etape 3" />
 </div>
 <h3 class="title">Identification</h3>
 <p class="description">de bonnes (et moins bonnes) pratiques en interministériel
@@ -196,7 +218,7 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<i class="fa fa-briefcase"></i>
+<img src="/uploads/conseil-strategie-transformation-numerique/Etape-4-blanc-2.png" alt="Etape 4" />
 </div>
 <h3 class="title">Recommandations,</h3>
 <p class="description">pistes de solutions et d’améliorations</p>
@@ -238,7 +260,7 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 <img src="/uploads/picto-problematique.png"/>
 </figure>**La question**
 {: .bleue .margin-0}
-Quels sont les impacts du numérique sur la transformation des grands métiers de l’agriculture ? 
+Quels sont les impacts du numérique sur la transformation des grands métiers de l’agriculture ?
 
 <figure class='image-left' style='width: 4%;'>
 <img src="/uploads/picto-intervention.png"/>
@@ -275,11 +297,11 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
 **3.** **Une interface facilitée avec les experts,** pas besoin de parler leur langage
 
 **4.** **Un point de vue interministériel** et des retours d’expériences adaptés
- 
+
 
 > ## Comment solliciter une mission de conseil ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
-> 
+>
 > **Par courriel**
 > {: .bleue .margin-0}
 > Contactez Patrick Ruestchmann, chef de la mission Transformation numérique de l’État, à la DINUM, en décrivant votre besoin, à : [transfo.dinum@modernisation.gouv.fr](mailto:transfo.dinum@modernisation.gouv.fr).
