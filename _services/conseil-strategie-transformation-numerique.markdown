@@ -311,12 +311,17 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
 <p align="center"><img src="/uploads/1-6cb735.png" width="120" align="center" alt="1"/>
 
 <strong>Un assemblage unique de compétences</strong> pour concevoir votre transformation
+<br>
+<br>
 
 <img src="/uploads/2-cb3c82.png" width="120" align="center" alt="2"/>
 <strong>Un accompagnement sur mesure,</strong> toujours dans une posture d’appui
+<br>
+<br>
 
 <img src="/uploads/3-560a28.png" width="120" align="center" alt="3"/>
 <strong>Une interface facilitée avec les experts,</strong> pas besoin de parler leur langage
+<br>
 
 <img src="/uploads/4-8043b4.png" width="120" align="center" alt="4"/>
 <strong>Un point de vue interministériel</strong> et des retours d’expériences adaptés
