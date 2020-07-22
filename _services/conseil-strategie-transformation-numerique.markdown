@@ -25,7 +25,7 @@ layout: rgaa
 }
 .main-timeline .timeline{
     width: 60%;
-    padding: 0 0 0 15px;
+    padding: 0 0 0 10px;
     margin: 0 30px 20px 0;
     float: left;
     position: relative;
@@ -97,7 +97,7 @@ layout: rgaa
 }
 .main-timeline .timeline:nth-child(even){
     float: right;
-    padding: 0 15px 0 0;
+    padding: 0 10px 0 0;
     margin: 0 0 20px 30px;
 }
 .main-timeline .timeline:nth-child(even) .timeline-content{ padding: 20px 15px 20px 70px; }
@@ -167,6 +167,23 @@ layout: rgaa
     .main-timeline .timeline:nth-child(even) .timeline-icon{ left: 15px; }
     .main-timeline .title{ font-size: 18px; }
 }
+.titre-couleur > strong {
+    color: #fff;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.fond-orange > strong {
+    background: #FF6326
+}
+.fond-bleu > strong {
+    background: #00b9f2
+}
+.fond-rouge > strong {
+    background: #ff3333
+}
+.fond-vert > strong {
+    background: #36adb4
+}
 </style>
 
 <figure class='image-left' style='width: 10%;'>
@@ -233,20 +250,20 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 
 {: .margin-bottom-1}
 **Acteurs**
-{: .bleue .margin-0}
+{: .bleue .margin-0 .titre-couleur .fond-orange}
 **Intégrer les points de vue** de tous les acteurs de la politique publique : décideurs, agents, bénéficiaires.
 **Faire grandir** les équipes et managers en talents et culture numériques.
 
 **Performance**
-{: .bleue .margin-0}
+{: .bleue .margin-0 .titre-couleur .fond-bleu}
 **Analyser l’impact du numérique** dans votre politique publique à partir de la satisfaction de vos usagers et agents.
 
 **Méthodes**
-{: .bleue .margin-0}
+{: .bleue .margin-0 .titre-couleur .fond-rouge}
 **Illustrer** par des cas de transformation qui font écho à votre propre organisation. **Faire connaître** les méthodes adaptées à votre transformation numérique et ce qu’elles impliquent.
 
 **Règlementation**
-{: .bleue .margin-0}
+{: .bleue .margin-0 .titre-couleur .fond-vert}
 **Détecter les freins réglementaires** à une approche nouvelle de votre politique et **identifier ceux qui peuvent être levés** ainsi que les **ressources européennes** utiles.
 
 
