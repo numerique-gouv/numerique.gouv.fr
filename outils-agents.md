@@ -1,6 +1,8 @@
 ---
 title: Outils de travail collaboratif pour les agents
 permalink: "/outils-agents/"
+chapeau-text: Agents, découvrez les outils numériques mis à votre disposition par
+  la DINUM, en interministériel, pour faciliter le travail en équipe et à distance.
 une:
   image: "/uploads/outils_agents_rubrique.png"
   alternative-textuelle: 
@@ -26,7 +28,6 @@ publications:
   url: "/outils-agents/organiser-webconference-outils-agents-etat/"
   une-ou-diaporama:
   - image: "/uploads/outils_webconference-rub.png"
-chapeau-text: Agents, découvrez les outils numériques mis à votre disposition par la DINUM, en interministériel, pour faciliter le travail en équipe et à distance.
 layout: publications
 ---
 
