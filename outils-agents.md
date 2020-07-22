@@ -26,6 +26,7 @@ publications:
   url: "/outils-agents/organiser-webconference-outils-agents-etat/"
   une-ou-diaporama:
   - image: "/uploads/outils_webconference-rub.png"
+chapeau-text: Agents, découvrez les outils numériques mis à votre disposition par la DINUM, en interministériel, pour faciliter le travail en équipe et à distance.
 layout: publications
 ---
 

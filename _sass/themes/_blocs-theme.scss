@@ -5,6 +5,9 @@
   font-size: larger;
   border-left: none;
   color: $black;
+  &.page-mere {
+    padding: 0 12rem 3rem 10rem;
+  }
   @include breakpoint(medium down) {
     padding-left: 1rem O;
   }
