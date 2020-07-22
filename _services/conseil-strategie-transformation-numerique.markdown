@@ -86,13 +86,10 @@ layout: rgaa
     font-size: 22px;
     font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 1px;
     margin: 0 0 7px 0;
 }
 .main-timeline .description{
     font-size: 14px;
-    letter-spacing: 1px;
-    text-align: justify;
     margin: 0;
 }
 .main-timeline .timeline:nth-child(even){
@@ -306,6 +303,8 @@ Nous avons dessiné le parcours d'un étudiant, dans toutes ses démarches (tran
 {: .text-center .margin-bottom-0 .margin-top-3}
 de recourir à l’offre de conseil en stratégie numérique de la DINUM
 {: .text-center}
+
+<p align="center"><img src="/uploads/1-6cb735.png" width="120" align="center" alt="1"/></p>
 
 **1.** **Un assemblage unique de compétences** pour concevoir votre transformation
 
