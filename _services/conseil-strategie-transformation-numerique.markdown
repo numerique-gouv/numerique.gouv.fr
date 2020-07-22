@@ -35,7 +35,7 @@ layout: rgaa
     color: #333;
     background-color: #f5f5f5;
     min-height: 150px;
-    padding: 20px 65px 20px 15px;
+    padding: 20px 70px 20px 15px;
     box-shadow: 0 0 15px rgba(0,0,0,0.2);
     display: block;
 }
