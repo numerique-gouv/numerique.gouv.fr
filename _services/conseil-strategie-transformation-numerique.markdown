@@ -198,7 +198,7 @@ Nous identifions, dans le cadre de vos politiques publiques, **les potentiels d�
 D’une **analyse en profondeur** à un **diagnostic flash en réponse à une question précise**, nos sujets et modes d’intervention s’adaptent à votre besoin.
 
 <figure class='image-left' style='width: 10%;'>
-<img src="/uploads/4-grandes-e%CC%81tapes.png" alt="">
+<img src="/uploads/4-grandes-etapes.png" alt="">
 </figure>## 4 étapes
 {: .margin-bottom-1}
 <div class="row">
@@ -248,9 +248,9 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 </div>
 </div>
 
-**[AJOUTER PICTO LEVIERS D'ACTION]**
-## Nos leviers d’action
-
+<figure class='image-left' style='width: 10%;'>
+<img src="/uploads/Nos-leviers-daction.png" alt="">
+</figure>## Nos leviers d’action
 {: .margin-bottom-1}
 **Acteurs**
 {: .bleue .margin-0 .titre-couleur .fond-orange}
