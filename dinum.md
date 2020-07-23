@@ -1,5 +1,6 @@
 ---
 title: La DINUM
+date: 2019-10-25 17:35:00 +02:00
 permalink: "/dinum/"
 position: 5
 sous-titre: Avec le numérique, nous créons le service public de demain
