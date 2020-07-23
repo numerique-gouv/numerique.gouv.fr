@@ -288,7 +288,7 @@ Quels sont les impacts du numérique sur la transformation des grands métiers d
 <img src="/uploads/picto-intervention.png"/>
 </figure>**Notre réponse**
 {: .bleue .margin-0}
-Nous avons assemblé des expertises issues de la DINUM et de la DITP pour mettre en lumière les différents aspects des impacts, apporter des exemples d’autres administrations et du secteur privé avec, notamment, un focus sur la gouvernance de la donnée.
+Nous avons assemblé des expertises de la DINUM et de la DITP pour détailler les impacts et illustrer de cas concrets venant d’autres administrations : importance de la gouvernance de la donnée, de la prise en compte de la satisfaction usagers et de l’inclusion, exemples de mobilisation des cadres…
 <br>
 <br>
 
