@@ -1,6 +1,6 @@
 ---
 title: Soumettre un grand projet numérique au DINUM pour avis
-date: 2020-07-27 17:52:00 +02:00
+date: 2020-07-27 05:52:00 +02:00
 categories:
 - Service
 tags:
