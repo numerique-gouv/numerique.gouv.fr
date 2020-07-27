@@ -1,7 +1,6 @@
 ---
 title: Soumettre un grand projet numérique au DINUM pour avis
-date: 2020-06-22 17:52:00 +02:00
-published: false
+date: 2020-07-27 05:52:00 +02:00
 categories:
 - Service
 tags:
@@ -18,15 +17,15 @@ une:
 layout: rgaa
 ---
 
-Cette procédure règlementaire est fixée par le **[décret n° 2019-1088](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039281619&dateTexte=20200612)** du 25 octobre 2019 relatif au système d'information et de communication de l'État et à la direction interministérielle du numérique. L’arrêté du 5 juin 2020 en précise le périmètre et les modalités d’application.
+Cette procédure règlementaire est fixée par le **[décret n° 2019-1088](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039281619&dateTexte=20200612)** du 25 octobre 2019 relatif au système d'information et de communication de l'État et à la direction interministérielle du numérique. L’[arrêté du 5 juin 2020](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042152725&dateTexte=&categorieLien=id) en précise le périmètre et les modalités d’application.
 
 ### Quels projets doivent faire l’objet d’un avis du DINUM ?
 
-Sont concernés **tous les projets numériques portés par un ministère ou par des organismes placés sous la tutelle de l'État dont le montant prévisionnel global est égal ou supérieur à 9 millions d’euros** toutes taxes comprises (l’arrêté précise les coûts à prendre en compte dans ce montant).
+Sont concernés **tous les projets numériques portés par un ministère ou par des organismes placés sous la tutelle de l'État dont le montant prévisionnel global est égal ou supérieur à 9 millions d’euros** toutes taxes comprises ([l’arrêté](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042152725&dateTexte=&categorieLien=id) précise les coûts à prendre en compte dans ce montant).
 
 ### Quand saisir le directeur interministériel du numérique pour avis ?
 
-La saisine doit avoir lieu **lorsque le cadrage du projet a abouti et avant la contractualisation des engagements** (marchés de réalisation, commandes sur marchés existants)
+La saisine doit avoir lieu **lorsque le cadrage du projet a abouti et avant la contractualisation des engagements** (marchés de réalisation, commandes sur marchés existants).
 
 Par ailleurs, la DINUM doit être informée de l’existence du projet dès lors que le montant estimé dépasse les 9 millions d’euros.
 
@@ -47,10 +46,11 @@ Le dossier est élaboré à l’aide d’un kit de saisine téléchargeable.
 
 Ce kit de saisine permet de guider le directeur de projet dans le recueil des informations attendues par la DINUM pour mener son analyse. Les éléments demandés figurent généralement dans les documents produits lors de la phase de cadrage du projet, il est possible et recommandé de les annexer au dossier et d’y renvoyer directement. A priori, il n’est pas nécessaire de produire de nouveau document à l’exception de la note de synthèse.
 
-**Le courrier et le dossier sont à envoyer par courriel à l’adresse : [grandsprojets.si@modernisation.gouv.fr](mailto:grandsprojets.si@modernisation.gouv.fr).**
+**Le courrier et le dossier sont à envoyer par courriel à l’adresse :**
+> [grandsprojets.si@modernisation.gouv.fr](mailto:grandsprojets.si@modernisation.gouv.fr)
+{: .lien-important}
 
 ### Que se passe-t-il ensuite ?
-
 Après analyse du dossier, l’avis du directeur de la DINUM sera envoyé en réponse au courrier au secrétaire général. Chaque avis est accompagné, le cas échéant, de recommandations mettant en avant les axes d’améliorations à prendre en compte pour le bon déroulement du projet.
 
 L'avis du directeur interministériel du numérique est réputé conforme en l'absence de réponse dans un délai d'un mois après réception du dossier de présentation. La direction interministérielle du numérique peut, dans ce délai, demander aux administrations concernées tout complément d'information nécessaire à la formation de son avis. Cette demande suspend le délai.

@@ -18,6 +18,10 @@ publications:
   url: "/services/partagez-vos-talents-numeriques/"
   une-ou-diaporama:
   - image: "/uploads/Partagez-talents_rub.png"
+- title: Soumettre un grand projet numérique au DINUM pour avis
+  url: "/services/soumettre-un-grand-projet-numerique-au-dinum-pour-avis/"
+  une-ou-diaporama:
+  - image: "/uploads/saisine_avis_page-service.png"
 layout: publications
 ---
 
