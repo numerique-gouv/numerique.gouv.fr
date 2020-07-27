@@ -1,7 +1,6 @@
 ---
 title: Soumettre un grand projet numérique au DINUM pour avis
-date: 2020-06-22 17:52:00 +02:00
-published: false
+date: 2020-07-27 17:52:00 +02:00
 categories:
 - Service
 tags:
@@ -26,7 +25,7 @@ Sont concernés **tous les projets numériques portés par un ministère ou par 
 
 ### Quand saisir le directeur interministériel du numérique pour avis ?
 
-La saisine doit avoir lieu **lorsque le cadrage du projet a abouti et avant la contractualisation des engagements** (marchés de réalisation, commandes sur marchés existants)
+La saisine doit avoir lieu **lorsque le cadrage du projet a abouti et avant la contractualisation des engagements** (marchés de réalisation, commandes sur marchés existants).
 
 Par ailleurs, la DINUM doit être informée de l’existence du projet dès lors que le montant estimé dépasse les 9 millions d’euros.
 
