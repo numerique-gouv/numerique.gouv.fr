@@ -1,6 +1,12 @@
 ---
 title: Découvrez les lauréats du Fast 4 & candidatez aux prochaines éditions !
 date: 2020-07-27 13:13:00 +02:00
+categories:
+- Appel à projets
+tags:
+- FAST
+- Fonds d'accélération des Startups d’État et de Territoires
+- beta.gouv.fr
 chapeau-text: Postulez aux prochaines éditions de notre Fonds d'accélération des Startups
   d’État et de Territoires (FAST) pour bénéficier d'un cofinancement et ainsi accélérer
   le déploiement et/ou développement d'un service numérique.
