@@ -18,11 +18,11 @@ une:
 layout: rgaa
 ---
 
-Cette procédure règlementaire est fixée par le **[décret n° 2019-1088](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039281619&dateTexte=20200612)** du 25 octobre 2019 relatif au système d'information et de communication de l'État et à la direction interministérielle du numérique. L’arrêté du 5 juin 2020 en précise le périmètre et les modalités d’application.
+Cette procédure règlementaire est fixée par le **[décret n° 2019-1088](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039281619&dateTexte=20200612)** du 25 octobre 2019 relatif au système d'information et de communication de l'État et à la direction interministérielle du numérique. L’[arrêté du 5 juin 2020](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042152725&dateTexte=&categorieLien=id) en précise le périmètre et les modalités d’application.
 
 ### Quels projets doivent faire l’objet d’un avis du DINUM ?
 
-Sont concernés **tous les projets numériques portés par un ministère ou par des organismes placés sous la tutelle de l'État dont le montant prévisionnel global est égal ou supérieur à 9 millions d’euros** toutes taxes comprises (l’arrêté précise les coûts à prendre en compte dans ce montant).
+Sont concernés **tous les projets numériques portés par un ministère ou par des organismes placés sous la tutelle de l'État dont le montant prévisionnel global est égal ou supérieur à 9 millions d’euros** toutes taxes comprises ([l’arrêté](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000042152725&dateTexte=&categorieLien=id) précise les coûts à prendre en compte dans ce montant).
 
 ### Quand saisir le directeur interministériel du numérique pour avis ?
 
