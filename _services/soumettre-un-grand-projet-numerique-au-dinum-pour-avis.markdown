@@ -46,10 +46,11 @@ Le dossier est élaboré à l’aide d’un kit de saisine téléchargeable.
 
 Ce kit de saisine permet de guider le directeur de projet dans le recueil des informations attendues par la DINUM pour mener son analyse. Les éléments demandés figurent généralement dans les documents produits lors de la phase de cadrage du projet, il est possible et recommandé de les annexer au dossier et d’y renvoyer directement. A priori, il n’est pas nécessaire de produire de nouveau document à l’exception de la note de synthèse.
 
-**Le courrier et le dossier sont à envoyer par courriel à l’adresse : [grandsprojets.si@modernisation.gouv.fr](mailto:grandsprojets.si@modernisation.gouv.fr).**
+**Le courrier et le dossier sont à envoyer par courriel à l’adresse :
+> [grandsprojets.si@modernisation.gouv.fr](mailto:grandsprojets.si@modernisation.gouv.fr).**
+{: .lien-important}
 
 ### Que se passe-t-il ensuite ?
-
 Après analyse du dossier, l’avis du directeur de la DINUM sera envoyé en réponse au courrier au secrétaire général. Chaque avis est accompagné, le cas échéant, de recommandations mettant en avant les axes d’améliorations à prendre en compte pour le bon déroulement du projet.
 
 L'avis du directeur interministériel du numérique est réputé conforme en l'absence de réponse dans un délai d'un mois après réception du dossier de présentation. La direction interministérielle du numérique peut, dans ce délai, demander aux administrations concernées tout complément d'information nécessaire à la formation de son avis. Cette demande suspend le délai.
