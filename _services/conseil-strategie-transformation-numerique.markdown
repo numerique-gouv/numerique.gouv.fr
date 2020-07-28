@@ -204,7 +204,7 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 <figure class='image-left' style='width: 10%;'>
 <img src="/uploads/4-grandes-etapes.png" alt="">
 </figure>## 4 étapes
-{: .margin-bottom-3}
+{: .margin-bottom-2}
 <div class="row">
 <div class="col-md-12">
 <div class="main-timeline">
