@@ -42,7 +42,7 @@ Avant même la saisine officielle, il est recommandé de respecter ces étapes p
 
 Le dossier est élaboré à l’aide d’un kit de saisine téléchargeable.
 
-[> Télécharger le kit de saisine](/uploads/kit-de-saisine_avis_DINUM.zip)
+[**> Télécharger le kit de saisine**](/uploads/kit-de-saisine_avis_DINUM.zip)
 
 Ce kit de saisine permet de guider le directeur de projet dans le recueil des informations attendues par la DINUM pour mener son analyse. Les éléments demandés figurent généralement dans les documents produits lors de la phase de cadrage du projet, il est possible et recommandé de les annexer au dossier et d’y renvoyer directement. A priori, il n’est pas nécessaire de produire de nouveau document à l’exception de la note de synthèse.
 
