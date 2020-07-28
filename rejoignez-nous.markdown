@@ -86,9 +86,10 @@ Zoom sur quelques postes dans le numérique public :
 > <br>
 >
 > 
-> * [**Chef de projet maîtrise d’ouvrage de solutions numériques RH H/F**](/uploads/DSNUMRH2-12VA090008-SRI201-22-Chef-de-projet-solutions-numeriques-RH.pdf "Chef de projet maîtrise d’ouvrage de solutions numériques RH H/F - Télécharger le pdf") (pdf - 130&nbsp;ko)
-> <br>Cadre/Catégorie A
-> <br>Poste basé à La Défense (92)<br>
+> * [**Chef de projet maîtrise d’ouvrage de solutions numériques RH H/F**](/uploads/DSNUMRH2-12VA090008-SRI201-22-Chef-de-projet-solutions-numeriques-RH.pdf "Chef de projet maîtrise d’ouvrage de solutions numériques RH H/F - Télécharger le pdf") (pdf - 130&nbsp;ko)<br>
+> Cadre/Catégorie A<br>
+> Poste basé à La Défense (92)
+> <br>
 > 
-> 
+>
 {: .noir .encadre}
