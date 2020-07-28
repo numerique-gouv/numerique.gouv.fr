@@ -187,6 +187,9 @@ layout: rgaa
 .fond-vert > strong {
     background: #36adb4
 }
+.flotte {
+float:left;
+}
 </style>
 
 <figure class='image-left' style='width: 10%;'>
@@ -338,6 +341,36 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
 <br><strong>Un point de vue interministériel</strong>
 <br>et des retours d’expériences adaptés
 </p>
+
+## 4 BONNES RAISONS
+{: .text-center .margin-bottom-0 .margin-top-3}
+de recourir à l’offre de conseil en stratégie numérique de la DINUM
+{: .text-center}
+
+<p class="flotte"><img src="/uploads/1-6cb735.png" width="100" align="center" alt="1"/></p>
+<br>
+<p style="line-height:65px;"><strong>Un assemblage unique de compétences</strong>
+<br>pour concevoir votre transformation</p>
+<br>
+<br>
+
+<p class="flotte"><img src="/uploads/2-cb3c82.png" width="100" align="center" alt="2"/></p>
+<br><p style="line-height:65px;"><strong>Un accompagnement sur mesure,</strong>
+<br>toujours dans une posture d’appui</p>
+<br>
+<br></p>
+
+<img src="/uploads/3-560a28.png" width="100" align="center" alt="3"/><strong>Une interface facilitée avec les experts,</strong>
+<br>pas besoin de parler leur langage
+<br>
+<br>
+
+<img src="/uploads/4-8043b4.png" width="100" align="center" alt="4"/>
+<br><strong>Un point de vue interministériel</strong>
+<br>et des retours d’expériences adaptés
+</p>
+<br>
+<br>
 
 > ## Comment solliciter une mission de conseil ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
