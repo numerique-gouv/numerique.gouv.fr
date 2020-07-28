@@ -1,5 +1,5 @@
 ---
-title: 'Offre de conseil : Stratégie de transformation numérique'
+title: Conseil en stratégie de transformation numérique
 date: 2020-07-17 12:23:00 +02:00
 tags:
 - Offre de conseil
