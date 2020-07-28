@@ -196,6 +196,8 @@ Nos consultants internes au sein de la DINUM vous accompagnent pour **définir, 
 Nous identifions, dans le cadre de vos politiques publiques, **les potentiels d’amélioration et de simplification offerts par le numérique** et vous aidons à préparer les transformations induites pour vos organisations.
 
 D’une **analyse en profondeur** à un **diagnostic flash en réponse à une question précise**, nos sujets et modes d’intervention s’adaptent à votre besoin.
+<br>
+<br>
 
 <figure class='image-left' style='width: 10%;'>
 <img src="/uploads/4-grandes-etapes.png" alt="">
