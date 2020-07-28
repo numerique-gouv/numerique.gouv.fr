@@ -259,20 +259,20 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 </figure>## Nos leviers d’action
 {: .margin-bottom-1}
 **Acteurs**
-{: .bleue .margin-0 .titre-couleur .fond-orange}
+{: .bleue .margin-0}
 **Intégrer les points de vue** de tous les acteurs de la politique publique : décideurs, agents, bénéficiaires.
 **Faire grandir** les équipes et managers en talents et culture numériques.
 
 **Performance**
-{: .bleue .margin-0 .titre-couleur .fond-bleu}
+{: .bleue .margin-0}
 **Analyser l’impact du numérique** dans votre politique publique à partir de la satisfaction de vos usagers et agents.
 
 **Méthodes**
-{: .bleue .margin-0 .titre-couleur .fond-rouge}
+{: .bleue .margin-0}
 **Illustrer** par des cas de transformation qui font écho à votre propre organisation. **Faire connaître** les méthodes adaptées à votre transformation numérique et ce qu’elles impliquent.
 
 **Règlementation**
-{: .bleue .margin-0 .titre-couleur .fond-vert}
+{: .bleue .margin-0}
 **Détecter les freins réglementaires** à une approche nouvelle de votre politique et **identifier ceux qui peuvent être levés** ainsi que les **ressources européennes** utiles.
 <br>
 <br>
@@ -327,10 +327,9 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
 <br><strong>Un accompagnement sur mesure,</strong>
 <br>toujours dans une posture d’appui
 <br>
-<br>
+<br></p>
 
-<img src="/uploads/3-560a28.png" width="100" align="center" alt="3"/>
-<br><strong>Une interface facilitée avec les experts,</strong>
+<img src="/uploads/3-560a28.png" width="100" align="center" alt="3"/><strong>Une interface facilitée avec les experts,</strong>
 <br>pas besoin de parler leur langage
 <br>
 <br>
