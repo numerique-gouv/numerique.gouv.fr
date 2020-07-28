@@ -383,5 +383,5 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
 
 [![Télécharger la plaquette de présentation de l'offre de conseil : Stratégie de transformation numérique (pdf - 187&nbsp;Ko)](/uploads/Capture-ecran-plaquette-offre-conseil-strategie-transfonum.jpg)](/uploads/Plaquette_offre-conseil-strategie-transfonum.pdf "Télécharger la plaquette de présentation de l'offre de conseil : Stratégie de transformation numérique (pdf - 187&nbsp;Ko)")
 {: .text-center}
-> [Télécharger la plaquette de présentation de l'offre de conseil : Stratégie de transformation numérique (pdf - 187&nbsp;Ko)](/uploads/Plaquette_offre-conseil-strategie-transfonum.pdf)
+> [Télécharger la plaquette (pdf - 187&nbsp;Ko)](/uploads/Plaquette_offre-conseil-strategie-transfonum.pdf)
 {: .lien-important}
