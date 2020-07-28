@@ -278,7 +278,7 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 <br>
 
 <figure class='image-left' style='width: 6%;'>
-<img src="/uploads/picto-zoom.png"/>
+<img src="/uploads/picto_zoom-400.png"/>
 </figure>## Zoom sur 2 accompagnements
 
 *Ministère de l’Agriculture et de l’Alimentation*
