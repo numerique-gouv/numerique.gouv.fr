@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '17 juillet 2020 '
+date_de_modification: '28 juillet 2020 '
 layout: page-annexe
 ---
 
@@ -75,7 +75,7 @@ Zoom sur quelques postes dans le numérique public :
 > <br>
 >
 > **Pôle emploi**
-> * [**Directeur de la direction expérience utilisateur et du digital H/F**](/uploads/Fiche-post-Pole-emploi-direct.-exp.-utilisateur-et-digital.pdf "Directeur de la direction expérience utilisateur et du digital H/F - Télécharger le pdf")(pdf - 517&nbsp;ko) 
+> * [**Directeur de la direction expérience utilisateur et du digital H/F**](/uploads/Fiche-post-Pole-emploi-direct.-exp.-utilisateur-et-digital.pdf "Directeur de la direction expérience utilisateur et du digital H/F - Télécharger le pdf") (pdf - 517&nbsp;ko) 
 > <br>
 >
 >
