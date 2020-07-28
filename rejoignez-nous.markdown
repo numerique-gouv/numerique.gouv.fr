@@ -67,20 +67,18 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-#### **Stage**
-{: .margin-top-4 .margin-bottom-1}
-* [**Stage chargé/chargée de mission animation et communication @Design des services numériques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=9c2d07dd-7d9d-4c5d-ba97-ee3c6d39779b&offerid=394902 "Stage chargé/chargée de mission animation et communication @Design des services numériques - Télécharger le pdf") (pdf - 84&nbsp;ko)
-
-* [**Stage chargé/chargée de mission ateliers d'écoute @Design des services numériques**](https://pep-alt-et-stage.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=0815c59e-6540-4fd0-a4d8-e56ede95bbc8&offerid=394901 "Stage chargé/chargée de mission ateliers d'écoute @Design des services numériques - Télécharger le pdf") (pdf - 84&nbsp;ko)
-<br>
-<br>
 
 
-> ### Et aussi, dans les ministères…<a id="offresministères"></a> 
+> ### Et aussi, dans d'autres administrations…<a id="offresministères"></a> 
 Zoom sur quelques postes dans le numérique public :
 > <br>
 > <br>
-> 
+>
+> **Pôle emploi**
+> * [**Directeur de la direction expérience utilisateur et du digital H/F**](/uploads/Fiche-post-Pole-emploi-direct.-exp.-utilisateur-et-digital.pdf "Directeur de la direction expérience utilisateur et du digital H/F - Télécharger le pdf")(pdf - 517&nbsp;ko) 
+> <br>
+>
+>
 > **Ministère de la Transition écologique et solidaire/Ministère de la Cohésion des territoires**
 > * [**Adjoint au chef du département des solutions num. en RH H/F**](/uploads/DSNUMRH0_Adjoint-au-chef-du-d%C3%A9partement-DSNUM-en-RH.pdf "Adjoint au chef du département des solutions num. en RH H/F")<br> 
 > Cadre/Catégorie A+<br>
