@@ -330,6 +330,7 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
 <img src="/uploads/3-560a28.png" width="100" align="center" alt="3"/>
 <br><strong>Une interface facilitée avec les experts,</strong> pas besoin de parler leur langage
 <br>
+<br>
 
 <img src="/uploads/4-8043b4.png" width="100" align="center" alt="4"/>
 <br><strong>Un point de vue interministériel</strong> et des retours d’expériences adaptés
