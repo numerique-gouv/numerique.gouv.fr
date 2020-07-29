@@ -11,7 +11,7 @@ chapeau-text: |-
 
   Une offre dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/).
 une:
-  image: "/uploads/2020_07_20_produits_et_services_v2.jpg"
+  image: "/uploads/2020_07_20_produits_et_services_v3.jpg"
 layout: rgaa
 ---
 
