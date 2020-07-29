@@ -187,8 +187,22 @@ layout: rgaa
 .fond-vert > strong {
     background: #36adb4
 }
-.flotte {
-float:left;
+
+.bonnes-raisons {
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+
+.bonnes-raisons > div {
+  margin: auto;
+}
+
+.bonnes-raisons > div > .raison {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 25px 0;
 }
 </style>
 
@@ -347,30 +361,30 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
 de recourir à l’offre de conseil en stratégie numérique de la DINUM
 {: .text-center}
 
-<div style="margin: auto;display: flex;align-items: center;">
-    <div style="margin: auto;">
-      <div style="display: flex; flex-direction: row;align-items: center;margin: 25px 0;">
+<div class="bonnes-raisons">
+    <div >
+      <div class="raison">
         <img src="/uploads/1-6cb735.png" alt="1" width="80" align="middle">
         <div>
           <strong>Un assemblage unique de compétences</strong> <br>pour
           concevoir votre transformation
         </div>
       </div>
-      <div style="display: flex; flex-direction: row;align-items: center;margin: 25px 0;">
+      <div class="raison">
         <img src="/uploads/2-cb3c82.png" alt="2" width="80" align="middle" />
         <div>
             <strong>Un accompagnement sur mesure,</strong> <br />toujours dans une
             posture d’appui
         </div>
       </div>
-      <div style="display: flex; flex-direction: row;align-items: center;margin: 25px 0;">
+      <div class="raison">
         <img src="/uploads/3-560a28.png" alt="3" width="80" align="middle" />
         <div>
             <strong>Une interface facilitée avec les experts,</strong> <br />pas
             besoin de parler leur langage
         </div>
       </div>
-      <div style="display: flex; flex-direction: row;align-items: center;margin: 25px 0;">
+      <div class="raison">
         <img src="/uploads/4-8043b4.png" alt="4" width="80" align="middle" />
         <div>
             <strong>Un point de vue interministériel</strong> <br />et des retours
@@ -380,6 +394,8 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
     </div>
   </div>
 </div>
+
+
 
 > ## Comment solliciter une mission de conseil ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
