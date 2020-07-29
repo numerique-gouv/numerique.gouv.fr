@@ -393,7 +393,6 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
       </div>
     </div>
   </div>
-</div>
 
 
 
