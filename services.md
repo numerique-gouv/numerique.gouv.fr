@@ -9,6 +9,10 @@ publications:
   url: "/services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/"
   une-ou-diaporama:
   - image: "/uploads/office-1209640_1920.jpg"
+- title: Conseil en stratégie de transformation numérique
+  url: "/services/conseil-strategie-transformation-numerique/"
+  une-ou-diaporama:
+  - image: "/uploads/conseil-transfo-rub-service.png"
 - title: Guichet Dites-le-nous une fois - Accompagnement pour la circulation et l’exploitation
     de la donnée
   url: "/services/guichet-dites-le-nous-une-fois/"
