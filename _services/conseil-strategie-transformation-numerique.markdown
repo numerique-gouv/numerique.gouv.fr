@@ -1,7 +1,6 @@
 ---
-title: 'Offre de conseil : Stratégie de transformation numérique'
-date: 2020-07-17 12:23:00 +02:00
-published: false
+title: Conseil en stratégie de transformation numérique
+date: 2020-07-29 02:23:00 +02:00
 tags:
 - Offre de conseil
 - Transformation numérique
@@ -11,6 +10,8 @@ chapeau-text: |-
   La mission Transformation numérique de l’État de la DINUM propose aux cadres dirigeants de l’État une offre de conseil en stratégie numérique, adaptée à vos problématiques et votre culture métier. Nous vous aidons à tirer tout le potentiel du numérique – dans toutes ses composantes– pour transformer vos politiques publiques.
 
   Une offre dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/).
+une:
+  image: "/uploads/2020_07_20_produits_et_services_v3.jpg"
 layout: rgaa
 ---
 
@@ -186,6 +187,23 @@ layout: rgaa
 .fond-vert > strong {
     background: #36adb4
 }
+
+.bonnes-raisons {
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+
+.bonnes-raisons > div {
+  margin: auto;
+}
+
+.bonnes-raisons > div > .raison {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 25px 0;
+}
 </style>
 
 <figure class='image-left' style='width: 10%;'>
@@ -197,11 +215,13 @@ Nos consultants internes au sein de la DINUM vous accompagnent pour **définir, 
 Nous identifions, dans le cadre de vos politiques publiques, **les potentiels d’amélioration et de simplification offerts par le numérique** et vous aidons à préparer les transformations induites pour vos organisations.
 
 D’une **analyse en profondeur** à un **diagnostic flash en réponse à une question précise**, nos sujets et modes d’intervention s’adaptent à votre besoin.
+<br>
+<br>
 
 <figure class='image-left' style='width: 10%;'>
 <img src="/uploads/4-grandes-etapes.png" alt="">
 </figure>## 4 étapes
-{: .margin-bottom-1}
+{: .margin-bottom-2}
 <div class="row">
 <div class="col-md-12">
 <div class="main-timeline">
@@ -256,26 +276,26 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 </figure>## Nos leviers d’action
 {: .margin-bottom-1}
 **Acteurs**
-{: .bleue .margin-0 .titre-couleur .fond-orange}
+{: .bleue .margin-0}
 **Intégrer les points de vue** de tous les acteurs de la politique publique : décideurs, agents, bénéficiaires.
 **Faire grandir** les équipes et managers en talents et culture numériques.
 
 **Performance**
-{: .bleue .margin-0 .titre-couleur .fond-bleu}
+{: .bleue .margin-0}
 **Analyser l’impact du numérique** dans votre politique publique à partir de la satisfaction de vos usagers et agents.
 
 **Méthodes**
-{: .bleue .margin-0 .titre-couleur .fond-rouge}
+{: .bleue .margin-0}
 **Illustrer** par des cas de transformation qui font écho à votre propre organisation. **Faire connaître** les méthodes adaptées à votre transformation numérique et ce qu’elles impliquent.
 
 **Règlementation**
-{: .bleue .margin-0 .titre-couleur .fond-vert}
-**Détecter les freins réglementaires** à une approche nouvelle de votre politique et **identifier ceux qui peuvent être levés** ainsi que les **ressources européennes** utiles.
+{: .bleue .margin-0}
+**Détecter les freins réglementaires** à une approche nouvelle de votre politique et **identifier ceux qui peuvent être levés** ainsi que les **ressources européennes** utiles.
 <br>
 <br>
 
 <figure class='image-left' style='width: 6%;'>
-<img src="/uploads/picto-zoom.png"/>
+<img src="/uploads/picto_zoom-400.png"/>
 </figure>## Zoom sur 2 accompagnements
 
 *Ministère de l’Agriculture et de l’Alimentation*
@@ -313,24 +333,40 @@ Nous avons dessiné le parcours d'un étudiant, dans toutes ses démarches (tran
 de recourir à l’offre de conseil en stratégie numérique de la DINUM
 {: .text-center}
 
-<p align="center"><img src="/uploads/1-6cb735.png" width="120" align="center" alt="1"/>
+<div class="bonnes-raisons">
+    <div >
+      <div class="raison">
+        <img src="/uploads/1-6cb735.png" alt="1" width="80" align="middle">
+        <div>
+          <strong>Un assemblage unique de compétences</strong> <br>pour
+          concevoir votre transformation
+        </div>
+      </div>
+      <div class="raison">
+        <img src="/uploads/2-cb3c82.png" alt="2" width="80" align="middle" />
+        <div>
+            <strong>Un accompagnement sur mesure,</strong> <br />toujours dans une
+            posture d’appui
+        </div>
+      </div>
+      <div class="raison">
+        <img src="/uploads/3-560a28.png" alt="3" width="80" align="middle" />
+        <div>
+            <strong>Une interface facilitée avec les experts,</strong> <br />pas
+            besoin de parler leur langage
+        </div>
+      </div>
+      <div class="raison">
+        <img src="/uploads/4-8043b4.png" alt="4" width="80" align="middle" />
+        <div>
+            <strong>Un point de vue interministériel</strong> <br />et des retours
+            d’expériences adaptés
+        </div>
+      </div>
+    </div>
+  </div>
 
-<strong>Un assemblage unique de compétences</strong> pour concevoir votre transformation
-<br>
-<br>
 
-<img src="/uploads/2-cb3c82.png" width="120" align="center" alt="2"/>
-<strong>Un accompagnement sur mesure,</strong> toujours dans une posture d’appui
-<br>
-<br>
-
-<img src="/uploads/3-560a28.png" width="120" align="center" alt="3"/>
-<strong>Une interface facilitée avec les experts,</strong> pas besoin de parler leur langage
-<br>
-
-<img src="/uploads/4-8043b4.png" width="120" align="center" alt="4"/>
-<strong>Un point de vue interministériel</strong> et des retours d’expériences adaptés
-</p>
 
 > ## Comment solliciter une mission de conseil ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
@@ -344,5 +380,5 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
 
 [![Télécharger la plaquette de présentation de l'offre de conseil : Stratégie de transformation numérique (pdf - 187&nbsp;Ko)](/uploads/Capture-ecran-plaquette-offre-conseil-strategie-transfonum.jpg)](/uploads/Plaquette_offre-conseil-strategie-transfonum.pdf "Télécharger la plaquette de présentation de l'offre de conseil : Stratégie de transformation numérique (pdf - 187&nbsp;Ko)")
 {: .text-center}
-> [Télécharger la plaquette de présentation de l'offre de conseil : Stratégie de transformation numérique (pdf - 187&nbsp;Ko)](/uploads/Plaquette_offre-conseil-strategie-transfonum.pdf)
+> [Télécharger la plaquette (pdf - 187&nbsp;Ko)](/uploads/Plaquette_offre-conseil-strategie-transfonum.pdf)
 {: .lien-important}
