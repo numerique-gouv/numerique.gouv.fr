@@ -349,27 +349,35 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
 
 <div style="display: flex;flex-direction: column;align-items: center;">
 
+<div>
 <p class="flotte"><img src="/uploads/1-6cb735.png" width="100" align="center" alt="1"/></p>
 <p><strong>Un assemblage unique de compétences</strong>
 <br>pour concevoir votre transformation</p>
 <br>
+</div>
 
+<div>
 <p class="flotte"><img src="/uploads/2-cb3c82.png" width="100" align="center" alt="2"/></p>
 <p><strong>Un accompagnement sur mesure,</strong>
 <br>toujours dans une posture d’appui</p>
 <br>
+</div>
 
+<div>
 <p class="flotte"><img src="/uploads/3-560a28.png" width="100" align="center" alt="3"/></p>
 <p><strong>Une interface facilitée avec les experts,</strong>
 <br>pas besoin de parler leur langage</p>
 <br>
+</div>
 
+<div>
 <p class="flotte"><img src="/uploads/4-8043b4.png" width="100" align="center" alt="4"/></p>
 <p><strong>Un point de vue interministériel</strong>
 <br>et des retours d’expériences adaptés</p>
 <br>
-<br>
 </div>
+</div>
+<br>
 > ## Comment solliciter une mission de conseil ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
 >
