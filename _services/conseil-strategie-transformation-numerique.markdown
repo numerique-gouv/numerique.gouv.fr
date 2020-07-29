@@ -333,34 +333,6 @@ Nous avons dessiné le parcours d'un étudiant, dans toutes ses démarches (tran
 de recourir à l’offre de conseil en stratégie numérique de la DINUM
 {: .text-center}
 
-<p align="center"><img src="/uploads/1-6cb735.png" width="75" align="center" alt="1"/>
-<br><strong>Un assemblage unique de compétences</strong>
-<br>pour concevoir votre transformation
-<br>
-<br>
-
-<img src="/uploads/2-cb3c82.png" width="75" align="center" alt="2"/>
-<br><strong>Un accompagnement sur mesure,</strong>
-<br>toujours dans une posture d’appui
-<br>
-<br>
-
-<img src="/uploads/3-560a28.png" width="75" align="center" alt="3"/>
-<br><strong>Une interface facilitée avec les experts,</strong>
-<br>pas besoin de parler leur langage
-<br>
-<br>
-
-<img src="/uploads/4-8043b4.png" width="75" align="center" alt="4"/>
-<br><strong>Un point de vue interministériel</strong>
-<br>et des retours d’expériences adaptés
-</p>
-
-## 4 BONNES RAISONS
-{: .text-center .margin-bottom-0 .margin-top-3}
-de recourir à l’offre de conseil en stratégie numérique de la DINUM
-{: .text-center}
-
 <div class="bonnes-raisons">
     <div >
       <div class="raison">
