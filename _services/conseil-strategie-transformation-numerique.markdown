@@ -276,7 +276,7 @@ D’une **analyse en profondeur** à un **diagnostic flash en réponse à une qu
 
 **Règlementation**
 {: .bleue .margin-0}
-**Détecter les freins réglementaires** à une approche nouvelle de votre politique et **identifier ceux qui peuvent être levés** ainsi que les **ressources européennes** utiles.
+**Détecter les freins réglementaires** à une approche nouvelle de votre politique et **identifier ceux qui peuvent être levés** ainsi que les **ressources européennes** utiles.
 <br>
 <br>
 
@@ -347,6 +347,8 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
 de recourir à l’offre de conseil en stratégie numérique de la DINUM
 {: .text-center}
 
+<div style="display: flex;flex-direction: column;align-items: center;">
+
 <p class="flotte"><img src="/uploads/1-6cb735.png" width="100" align="center" alt="1"/></p>
 <p><strong>Un assemblage unique de compétences</strong>
 <br>pour concevoir votre transformation</p>
@@ -367,7 +369,7 @@ de recourir à l’offre de conseil en stratégie numérique de la DINUM
 <br>et des retours d’expériences adaptés</p>
 <br>
 <br>
-
+</div>
 > ## Comment solliciter une mission de conseil ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
 >
