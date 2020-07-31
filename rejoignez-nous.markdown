@@ -27,30 +27,26 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
-#### **Animation de programme**
 {: .margin-top-4 .margin-bottom-1}
 * [**Chargé/Chargée de mission pour le programme entrepreneurs d'intérêt général (EIG)**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-pour-le-programme-entrepreneurs-d-interet-general-eig-fh-reference-2020-429494)
 <br>Cadre/Catégorie A
 <br>
 <br>
 
-#### **Performance et sécurisation**
 {: .margin-top-4 .margin-bottom-1}
 * [**Directeur de projet – Performance des projets numériques de l’État H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet--performance-des-projets-numeriques-de-l-etat-hf-reference-2020-425150)
 <br>Cadre/Catégorie A
 <br>
 <br>
 
-#### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1}
 * [**Chargé/Chargée des produits labellisés**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d3daf5e5-4989-430e-847d-9cd3ff446fef&offerid=377221 "Chargé/Chargée des produits labellisés - Télécharger le pdf") (pdf - 578&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>
 <br>
 
-#### **Sécurité/Architecture**
 {: .margin-top-4 .margin-bottom-1}
-* [Chef/cheffe du pôle Architecture et sécurité](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-architecture-et-securite-hf-reference-2020-444590) 
+* [**Chef/cheffe du pôle Architecture et sécurité**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-architecture-et-securite-hf-reference-2020-444590) 
 <br>Cadre supérieur/Catégorie A+
 
 * [**Responsable de la Sécurité des systèmes d'information H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-fh-reference-2020-430437)
@@ -58,7 +54,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-#### **Réseau/Infrastructures**
 {: .margin-top-4 .margin-bottom-1}
 * [**Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=447d3aed-3dd4-48ca-b106-0be564f2fd8f&offerid=374091 "Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État » - Télécharger le pdf") (pdf - 777&nbsp;ko)
 <br>Cadre/Catégorie A
