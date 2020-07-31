@@ -44,13 +44,13 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 {: .margin-top-4 .margin-bottom-1}
-* [**Chargé/Chargée des produits labellisés**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d3daf5e5-4989-430e-847d-9cd3ff446fef&offerid=377221 "Chargé/Chargée des produits labellisés - Télécharger le pdf") (pdf - 578&nbsp;ko)
+* [**Chargé/Chargée des produits labellisés**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-des-produits-labellises-hf-reference-2020-377221)
 <br>Cadre/Catégorie A
 <br>
 <br>
 
 {: .margin-top-4 .margin-bottom-1}
-* [**Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=447d3aed-3dd4-48ca-b106-0be564f2fd8f&offerid=374091 "Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État » - Télécharger le pdf") (pdf - 777&nbsp;ko)
+* [**Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-de-mission--resilience-du-reseau-interministeriel-de-l-etat--hf-reference-2020-374091)
 <br>Cadre/Catégorie A
 <br>
 <br>
