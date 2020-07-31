@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '28 juillet 2020 '
+date_de_modification: '31 juillet 2020 '
 layout: page-annexe
 ---
 
@@ -16,8 +16,8 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 ### Comment postuler ?
 {: .margin-top-5 .margin-bottom-1} 
 1. **Repérez** l'offre d'emploi qui vous intéresse ci-dessous
-2. **Ouvrez la fiche de poste** (pdf) en cliquant sur l'intitulé
-3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste, en précisant son intitulé
+2. **Ouvrez la fiche de poste** (lien ou pdf) en cliquant sur l'intitulé
+3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste ou via le bouton Postuler, en précisant son intitulé
 <br>
 <br>
 
@@ -27,37 +27,39 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
-#### **Animation de programme**
-{: .margin-top-4 .margin-bottom-1}
-* [**Chargé/Chargée de mission pour le programme entrepreneurs d'intérêt général (EIG)**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-pour-le-programme-entrepreneurs-d-interet-general-eig-fh-reference-2020-429494)
+* [**Chef/cheffe du pôle Architecture et sécurité**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-architecture-et-securite-hf-reference-2020-444590) 
+<br>Cadre supérieur/Catégorie A+
+<br>
+<br>
+
+* [**Responsable de la Sécurité des systèmes d'information H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-fh-reference-2020-430437)
 <br>Cadre/Catégorie A
 <br>
 <br>
 
-#### **Performance et sécurisation**
 {: .margin-top-4 .margin-bottom-1}
 * [**Directeur de projet – Performance des projets numériques de l’État H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet--performance-des-projets-numeriques-de-l-etat-hf-reference-2020-425150)
 <br>Cadre/Catégorie A
 <br>
 <br>
 
-#### **Produits numériques**
 {: .margin-top-4 .margin-bottom-1}
-* [**Chargé/Chargée des produits labellisés**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=d3daf5e5-4989-430e-847d-9cd3ff446fef&offerid=377221 "Chargé/Chargée des produits labellisés - Télécharger le pdf") (pdf - 578&nbsp;ko)
+* [**Chargé/Chargée des produits labellisés**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-des-produits-labellises-hf-reference-2020-377221)
 <br>Cadre/Catégorie A
 <br>
 <br>
 
-#### **Réseau/Infrastructures/Sécurité**
 {: .margin-top-4 .margin-bottom-1}
-* [**Responsable de la Sécurité des Systèmes d'Informations H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-fh-reference-2020-430437)
-<br>Cadre/Catégorie A
-
-* [**Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=447d3aed-3dd4-48ca-b106-0be564f2fd8f&offerid=374091 "Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État » - Télécharger le pdf") (pdf - 777&nbsp;ko)
+* [**Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-de-mission--resilience-du-reseau-interministeriel-de-l-etat--hf-reference-2020-374091)
 <br>Cadre/Catégorie A
 <br>
 <br>
 
+{: .margin-top-4 .margin-bottom-1}
+* [**Chargé/Chargée de mission pour le programme entrepreneurs d'intérêt général (EIG)**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-pour-le-programme-entrepreneurs-d-interet-general-eig-fh-reference-2020-429494)
+<br>Cadre/Catégorie A
+<br>
+<br>
 
 
 > ### Et aussi, dans d'autres administrations…<a id="offresministères"></a> 
