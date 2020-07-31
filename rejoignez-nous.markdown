@@ -48,14 +48,18 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-#### **Réseau/Infrastructures/Sécurité**
+#### **Sécurité/Architecture**
 {: .margin-top-4 .margin-bottom-1}
 * [Chef/cheffe du pôle Architecture et sécurité](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-architecture-et-securite-hf-reference-2020-444590) 
 <br>Cadre supérieur/Catégorie A+
 
-* [**Responsable de la Sécurité des Systèmes d'Informations H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-fh-reference-2020-430437)
+* [**Responsable de la Sécurité des systèmes d'information H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-fh-reference-2020-430437)
 <br>Cadre/Catégorie A
+<br>
+<br>
 
+#### **Réseau/Infrastructures**
+{: .margin-top-4 .margin-bottom-1}
 * [**Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État »**](https://place-ep-recrute.talent-soft.com/Handlers/download.ashx?filetype=1032&fileguid=447d3aed-3dd4-48ca-b106-0be564f2fd8f&offerid=374091 "Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État » - Télécharger le pdf") (pdf - 777&nbsp;ko)
 <br>Cadre/Catégorie A
 <br>
