@@ -14,7 +14,7 @@ chapeau-text: 'L’observatoire de la qualité des services publics numériques,
   du respect des critères de qualité. Retour sur les événements marquants du 2e trimestre
   2020. '
 une-ou-diaporama:
-- image: "/uploads/Observatoire-oct2019-une.jpg"
+- image: "/uploads/observatoire_aout_2020-fc0cfc.png"
 ---
 
 <style>
