@@ -1,6 +1,6 @@
 ---
-title: 'Qualité des services publics numériques : découvrez dans la 5e édition de
-  l’observatoire les progrès de la dématérialisation des démarches administratives'
+title: 'Observatoire de la qualité des services publics numériques, 5e édition : découvrez
+  les progrès de la dématérialisation'
 date: 2020-08-05 15:02:00 +02:00
 categories:
 - Article
