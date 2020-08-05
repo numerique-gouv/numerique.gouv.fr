@@ -1,5 +1,7 @@
 ---
-title: Observatoire de la qualité des services publics numériques, 5e édition
+title: 'Qualité des services publics numériques : découvrez dans la 5e édition de
+  l’observatoire (juillet 2020) les progrès de la dématérialisation des démarches
+  administratives'
 date: 2020-08-05 15:02:00 +02:00
 categories:
 - Article
