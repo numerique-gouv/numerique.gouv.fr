@@ -9,10 +9,10 @@ tags:
 - Observatoire
 - dématérialisation
 - qualité des services publics numériques
-chapeau-text: L’observatoire de la qualité des services publics numériques, piloté
+chapeau-text: 'L’observatoire de la qualité des services publics numériques, piloté
   par la direction interministérielle du numérique (DINUM) a été actualisé. Cette
   5e édition met en lumière les avancées de la dématérialisation et du respect des
-  critères de qualité. Retour sur les événements marquants des mois écoulés.
+  critères de qualité. Retour sur les événements marquants du 2ème trimestre 2020. '
 une-ou-diaporama:
 - image: "/uploads/Observatoire-oct2019-une.jpg"
 ---
