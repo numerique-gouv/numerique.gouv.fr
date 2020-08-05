@@ -1,7 +1,6 @@
 ---
 title: 'Qualité des services publics numériques : découvrez dans la 5e édition de
-  l’observatoire (juillet 2020) les progrès de la dématérialisation des démarches
-  administratives'
+  l’observatoire les progrès de la dématérialisation des démarches administratives'
 date: 2020-08-05 15:02:00 +02:00
 categories:
 - Article
@@ -12,7 +11,7 @@ tags:
 chapeau-text: 'L’observatoire de la qualité des services publics numériques, piloté
   par la direction interministérielle du numérique (DINUM) a été actualisé. Cette
   5e édition met en lumière les avancées de la dématérialisation et du respect des
-  critères de qualité. Retour sur les événements marquants du 2ème trimestre 2020. '
+  critères de qualité. Retour sur les événements marquants du 2e trimestre 2020. '
 une-ou-diaporama:
 - image: "/uploads/Observatoire-oct2019-une.jpg"
 ---
