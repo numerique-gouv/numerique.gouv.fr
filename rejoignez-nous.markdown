@@ -44,7 +44,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 {: .margin-top-4 .margin-bottom-1}
-* [**Chargé/Chargée des produits labellisés**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-des-produits-labellises-hf-reference-2020-377221)
+* [**Chargé/Chargée des produits labellisés**](/uploads/120-04-DINUM_charge-e-produits-labellises.pdf "Chargé/Chargée des produits labellisés - Télécharger le pdf")
 <br>Cadre/Catégorie A
 <br>
 <br>
