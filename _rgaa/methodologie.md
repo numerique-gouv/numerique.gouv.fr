@@ -29,7 +29,7 @@ Les barres d'outils sont des extensions du navigateur qui vont faciliter le rep�
 
 * Web Accessibility Toolbar pour Internet Explorer (<https://developer.paciellogroup.com/resources/wat/>) : barre d'outils de vérification de certains points d'accessibilité d'un document ;
 * Web Developer Toolbar pour Firefox (<https://addons.mozilla.org/fr/firefox/addon/web-developer/>) : barre d'outils pour les développeurs qui peut aider à retrouver visuellement certains éléments dans un document pour en contrôler l'accessibilité ;
-* Web Developer Toolbar pour Chrome (<https://chrome.google.com/webstore/detail/web-developer/>) : la même barre d'outils que précédemment, pour Chrome.
+* Web Developer Toolbar pour Chrome (<https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm>) : la même barre d'outils que précédemment, pour Chrome.
 
 Au-delà de la simple barre d'outil, d'autres outils fournissent une analyse complète du document en signalant visuellement sur la page les erreurs d'accessibilité ou à l'inverse les éléments qui lui sont bénéfiques ; des filtres permettent alors souvent de n'afficher que certains de ces aspects. C'est ce que propose Wave, une solution disponible à la fois en ligne (<http://wave.webaim.org>) et comme extension de navigateur (<https://wave.webaim.org/extension/>).
 
