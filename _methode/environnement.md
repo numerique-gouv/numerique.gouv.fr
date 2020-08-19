@@ -21,37 +21,77 @@ Lorsque le site ou l'application est destiné à un public dont l'équipement es
 
 Pour qu’un dispositif HTML / WAI-ARIA ou son alternative soit considéré comme compatible avec l’accessibilité, il faut qu’il soit pleinement fonctionnel, en termes de restitution et de fonctionnalités, sur au moins une des combinaisons suivantes.
 
-#### Environnement de test Ordinateur (desktop) - Combinaison 1 
+<table>
+  <caption>Environnement de test Ordinateur (desktop) - Combinaison 1 </caption>
+  <tr>
+    <th scope="col">Technologie d'assistance</th>
+    <th scope="col">Navigateur</th>
+  </tr>
+  <tr>
+    <td>NVDA (dernière version)</td>
+    <td>Firefox</td>
+  </tr>
+  <tr>
+    <td>JAWS (version précédente)</td>
+    <td>Firefox ou Internet Explorer</td>
+  </tr>
+  <tr>
+    <td>VoiceOver (dernière version)</td>
+    <td>Safari</td>
+  </tr>
+</table>
 
-| Technologie d'assistance | Navigateur |
-|:--------|:-------:|
-| NVDA (dernière version) | Firefox |
-| JAWS (version précédente) | Firefox ou Internet Explorer |
-| VoiceOver (dernière version) | Safari |
-
-#### Environnement de test Ordinateur (desktop) - Combinaison 2
-
-| Technologie d'assistance | Navigateur |
-|:--------|:-------:|
-| JAWS (version précédente) | Firefox |
-| NVDA (dernière version) | Firefox ou Internet Explorer |
-| VoiceOver (dernière version) | Safari |
+<table>
+<caption>Environnement de test Ordinateur (desktop) - Combinaison 2</caption>
+  <tr>
+    <th scope="col">Technologie d'assistance</th>
+    <th scope="col">Navigateur</th>
+  </tr>
+  <tr>
+    <td>JAWS (version précédente)</td>
+    <td>Firefox</td>
+  </tr>
+  <tr>
+    <td>NVDA (dernière version)</td>
+    <td>Firefox ou Internet Explorer</td>
+  </tr>
+  <tr>
+    <td>VoiceOver (dernière version)</td>
+    <td>Safari</td>
+  </tr>
+</table>
 
 ### Environnement de test Terminal mobile
 Les systèmes d’exploitation retenus sont Android et iOS et les navigateurs Chrome et Safari. Il appartient à l’auditeur de définir, en concertation avec les responsables du site audité, les versions de système d’exploitation et de navigateur en adéquation avec le contexte d’usage du site et l’environnement de test utilisé lors du développement du site. Les versions des technologies d’assistance à utiliser seront soit la dernière disponible en langue française sur le système d’exploitation retenu, soit la version précédente.
 Pour tester un site web sur un terminal mobile, l’environnement de test devra comporter une des deux combinaisons complémentaires suivantes :
 
-#### Environnement de test Terminal mobile - Combinaison 1
+<table>
+  <caption>Environnement de test Terminal mobile - Combinaison 1</caption>
+  <tr>
+    <th scope="col">Système d'exploitation</th>
+    <th scope="col">Technologie d'assistance</th>
+    <th scope="col">Navigateur</th>
+  </tr>
+  <tr>
+    <td>iOS</td>
+    <td>VoiceOver (dernière version)</td>
+    <td>Safari</td>
+  </tr>
+</table>
 
-| Technologie d'assistance | Technologie d'assistance | Navigateur |
-|:--------|:--------|:-------:|
-| iOS | VoiceOver (dernière version) | Safari |
-
-#### Environnement de test Terminal mobile - Combinaison 2
-
-| Technologie d'assistance | Technologie d'assistance | Navigateur |
-|:--------|:--------|:-------:|
-| Android natif | TalkBack (dernière version) | Chrome |
+<table>
+  <caption>Environnement de test Terminal mobile - Combinaison 2</caption>
+  <tr>
+    <th scope="col">Système d'exploitation</th>
+    <th scope="col">Technologie d'assistance</th>
+    <th scope="col">Navigateur</th>
+  </tr>
+  <tr>
+    <td>Android natif</td>
+    <td>TalkBack (dernière version)</td>
+    <td>Chrome</td>
+  </tr>
+</table>
 
 À noter que dans le cas d'un site web mobile grand public, il est fortement conseillé de tester dans les deux environnements.
 
