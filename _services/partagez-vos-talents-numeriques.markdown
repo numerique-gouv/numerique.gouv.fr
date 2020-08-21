@@ -1,6 +1,6 @@
 ---
 title: Partagez vos talents numériques !
-date: 2020-08-20 04:57:00 +02:00
+date: 2020-08-21 23:51:00 +02:00
 tags:
 - Service
 - offre de services
