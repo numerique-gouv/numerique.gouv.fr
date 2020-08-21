@@ -1,6 +1,6 @@
 ---
 title: Partagez vos talents numériques !
-date: 2020-08-21 23:57:00 +02:00
+date: 2020-08-22 00:01:00 +02:00
 tags:
 - Service
 - offre de services
@@ -232,11 +232,12 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 - Intelligence artificielle - Data engineering</li>
 <li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre mai et fin septembre 2020.</li>
 <li><b>Localisation :</b> à distance ou en télétravail</li>
-<li><b><a href="/uploads/mission-focus.pdf">Détails de la mission (pdf - 280 ko)</a></b></li></ul>
+<li><b><a href="/uploads/mission_COVID-19_veille-scientifique-0e6d0c.pdf">Détails de la mission (pdf - 280 ko)</a></b></li></ul>
 
 > **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
 {: .lien-important}
 <br>
+
 <br>
 <br>
 <br>
