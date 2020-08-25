@@ -7,7 +7,7 @@ tags:
 - Talents numériques
 - Partagez vos talents numériques !
 - Agents de l'État
-date_de_modification: 15 mai 2020
+date_de_modification: 25 août 2020
 chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numériques
   !* met en relation des agents de l’État désireux de mettre leurs compétences ponctuellement
   au service d'autres administrations, et les services de l’État ayant un besoin d'expertise
@@ -204,7 +204,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design - Revue de processus</li>
-<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre mai et fin septembre 2020.</li>
+<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent.</li>
 <li><b>Localisation :</b> Paris 7e</li>
 <li><b><a href="/uploads/mission_decrochage-scolaire.pdf">Détails de la mission (pdf - 240 ko)</a></b></li></ul>
 
@@ -217,7 +217,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de de la Jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet</li>
-<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre mai et fin septembre 2020.</li>
+<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent.</li>
 <li><b>Localisation :</b> Paris 7e</li>
 <li><b><a href="/uploads/mission-focus.pdf">Détails de la mission (pdf - 280 ko)</a></b></li></ul>
 
@@ -230,7 +230,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 *Ministère des Armées/Délégation de la transformation et de la performance ministérielles (DTPM)*
 <ul><li><b>Compétences recherchées :</b> Data science
 - Intelligence artificielle - Data engineering</li>
-<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent, entre mai et fin septembre 2020.</li>
+<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent.</li>
 <li><b>Localisation :</b> à distance ou en télétravail</li>
 <li><b><a href="/uploads/mission_COVID-19_veille-scientifique-0e6d0c.pdf">Détails de la mission (pdf - 280 ko)</a></b></li></ul>
 
