@@ -232,7 +232,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 - Intelligence artificielle - Data engineering</li>
 <li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent.</li>
 <li><b>Localisation :</b> à distance ou en télétravail</li>
-<li><b><a href="/uploads/mission_COVID-19_veille-scientifique-0e6d0c.pdf">Détails de la mission (pdf - 280 ko)</a></b></li></ul>
+<li><b><a href="/uploads/2020_08_24_Fiches_COVID%2019_Faciliter%20la%20veille%20scientifique%20.pdf">Détails de la mission (pdf - 64 ko)</a></b></li></ul>
 
 > **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
 {: .lien-important}
