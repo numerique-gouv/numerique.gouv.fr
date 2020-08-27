@@ -27,7 +27,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
-* [**Directeur de Projet Interministériel – Produits Numériques F/H**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet-interministeriel--produits-numeriques-fh-reference-2020-430476)
+* [**Directeur de Projet Interministériel – Produits Numériques H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet-interministeriel--produits-numeriques-fh-reference-2020-430476)
 <br>Cadre/Catégorie A
 <br>
 <br>
