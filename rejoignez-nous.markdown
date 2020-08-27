@@ -27,6 +27,11 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
+* [**Directeur de Projet Interministériel – Produits Numériques (F/H)**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet-interministeriel--produits-numeriques-fh-reference-2020-430476)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
 * [**Chef/cheffe du pôle Architecture et sécurité**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-architecture-et-securite-hf-reference-2020-444590) 
 <br>Cadre supérieur/Catégorie A+
 <br>
