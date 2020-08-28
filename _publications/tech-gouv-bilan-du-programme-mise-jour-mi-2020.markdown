@@ -22,7 +22,7 @@ layout: rgaa
 > Cette stratégie répond à six enjeux clairement identifiés **— simplification, inclusion, attractivité, maîtrise, économies, alliances —** qui doivent mobiliser l’ensemble des parties prenantes à un service public de qualité, à savoir l’État, les collectivités territoriales et leurs opérateurs.
 > <br>
 > <br>
-> Il s’agit de concevoir et mettre en œuvre des projets numériques réalistes et utiles, en phase avec les attentes et les besoins des citoyens, des entreprises et des agents publics. Ces projets doivent permettre de développer de nouveaux usages et méthodes de travail, et de développer la résilience de l’action publique en situation de crise tout en s’assurant que les moins à l’aise avec le numérique continuent à bénéficier des services publics.
+> Il s’agit de concevoir et mettre en œuvre des projets numériques réalistes et utiles, en phase avec les attentes et les besoins des citoyens, des entreprises et des agents publics. Ces projets doivent permettre de **développer de nouveaux usages et méthodes de travail,** et de développer la résilience de l’action publique en situation de crise tout en s’assurant que les moins à l’aise avec le numérique continuent à bénéficier des services publics.
 > <br>
 > <br>
 > Les contraintes sont nombreuses : budgétaire bien évidemment ; technique, car l’État doit recouvrer une meilleure maîtrise de son environnement numérique ; humaine enfin, car la guerre des compétences fait rage dans les métiers dont nous avons besoin pour réaliser notre feuille de route. Pour les surmonter, les directions numériques des ministères ont allié leurs forces et travaillé de concert pour un lancement réussi de TECH.GOUV.
