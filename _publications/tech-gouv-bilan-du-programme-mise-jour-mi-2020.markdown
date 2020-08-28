@@ -38,7 +38,7 @@ layout: rgaa
 > <br>Directeur interministériel du numérique
 {: .auteur-citation}
 
-**Consulter **[Stratégie et feuille de route TECH.GOUV 2019-2021](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)
+
 <div style="text-indent: 15px;"><b>Consulter </b><a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">la stratégie et feuille de route TECH.GOUV 2019-2021</a></div>
 <br>
 <br>
