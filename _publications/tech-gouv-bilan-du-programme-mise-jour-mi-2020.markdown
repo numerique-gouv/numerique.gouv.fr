@@ -25,7 +25,7 @@ layout: rgaa
 > Il s’agit de concevoir et mettre en œuvre des projets numériques réalistes et utiles, en phase avec les attentes et les besoins des citoyens, des entreprises et des agents publics. Ces projets doivent permettre de **développer de nouveaux usages et méthodes de travail,** et de développer la résilience de l’action publique en situation de crise tout en s’assurant que les moins à l’aise avec le numérique continuent à bénéficier des services publics.
 > <br>
 > <br>
-> Les contraintes sont nombreuses : budgétaire bien évidemment ; technique, car l’État doit recouvrer une meilleure maîtrise de son environnement numérique ; humaine enfin, car la guerre des compétences fait rage dans les métiers dont nous avons besoin pour réaliser notre feuille de route. Pour les surmonter, les directions numériques des ministères ont allié leurs forces et travaillé de concert pour un lancement réussi de TECH.GOUV.
+> Les contraintes sont nombreuses : budgétaire bien évidemment ; technique, car l’État doit recouvrer une meilleure maîtrise de son environnement numérique ; humaine enfin, car la guerre des compétences fait rage dans les métiers dont nous avons besoin pour réaliser notre feuille de route. **Pour les surmonter, les directions numériques des ministères ont allié leurs forces et travaillé de concert pour un lancement réussi de TECH.GOUV.**
 > <br>
 > <br>
 > Ce premier anniversaire du programme donne l’occasion d’un bilan qui consacre quelques réussites notables et clarifie le chemin restant à parcourir, d’autant que la crise sanitaire a complexifié l’exécution du programme, tout en imposant de nouveaux chantiers prioritaires.
