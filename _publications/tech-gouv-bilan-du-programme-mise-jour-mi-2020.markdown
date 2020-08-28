@@ -13,6 +13,7 @@ une-ou-diaporama:
 une:
   image: "/uploads/Publication_TECHGOUV_une.jpg"
   alternative-textuelle: logo TECH.GOUV
+layout: rgaa
 ---
 
 > **Avec TECH.GOUV, l’État s’est doté d’un programme ambitieux pour accélérer la transformation numérique du service public.**
