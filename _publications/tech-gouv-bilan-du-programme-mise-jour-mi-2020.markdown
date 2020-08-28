@@ -38,9 +38,7 @@ layout: rgaa
 > <br>Directeur interministériel du numérique
 {: .auteur-citation}
 
-
 <div style="text-indent: 15px;"><b>Consulter </b><a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">la stratégie et feuille de route TECH.GOUV 2019-2021</a></div>
-<br>
 <br>
 
 <div style="text-indent: 15px;"><b>Lire aussi notre interview : </b><a href="/actualites/tech-gouv-interview-nadi-bou-hanna/">TECH.GOUV : « Tous les éléments sont réunis pour accélérer la transformation numérique de l’État »</a></div>
