@@ -37,11 +37,11 @@ layout: rgaa
 > <br>
 > <br>
 > TECH.GOUV est un défi pour tous les promoteurs de la transformation numérique de l’État. Ce bilan donne du sens au travail quotidien de nombreux agents experts du numérique et de l’espoir à tous ceux qui se disaient « Nous n’y arriverons jamais ». Il est l’occasion de **replacer la France dans le peloton de tête des États numériques et de renforcer le lien avec les citoyens.**
-> {: .citation}
+{: .citation}
 
 > **Nadi Bou Hanna**
 > <br> Directeur interministériel du numérique
-> {: .auteur-citation}
+{: .auteur-citation}
 
 <div style="text-indent: 15px;"><b>Lire aussi notre interview : </b><a href="/actualites/tech-gouv-interview-nadi-bou-hanna/">TECH.GOUV : « Tous les éléments sont réunis pour accélérer la transformation numérique de l’État »</a></div>
 <br>
@@ -95,11 +95,11 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 > <br>
 > <br> 
 > **Je me réjouis donc de constater les premiers progrès obtenus par le programme TECH.GOUV dans de nombreux domaines ces derniers mois […] Ces actions devront être poursuivies et amplifiées dans le cadre du plan de relance, qui doit servir tous les Français.** Je m’assurerai personnellement de l’avancement et de l’appropriation par les autres administrations du programme TECH.GOUV dans ce contexte, car il est un réservoir d’initiatives et d’idées dans lequel le gouvernement compte puiser pour accélérer la transformation de l’État et obtenir rapidement les résultats nécessaires.
-> {: .citation}
+{: .citation}
 
 > **Amélie de Montchalin**
 > <br> Ministre de la Transformation et de la Fonction publiques
-> {: .auteur-citation}
+{: .auteur-citation}
 
 ## Les 8 missions de TECH.GOUV
 
@@ -136,12 +136,12 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 {: .text-center}
 
 > [Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2020  (pdf - 2 Mo)](/uploads/20200827_Plaquette_Techgouv_DINUM.pdf)
-> {: .lien-important}
+{: .lien-important}
 
 <br>
 
 > [Consulter la stratégie et la feuille de route 2019-2021 de TECH.GOUV (pdf - 2 Mo)](/uploads/TECH-GOUV_2019-2021.pdf)
-> {: .lien-important}
+{: .lien-important}
 
 > [Télécharger la plaquette de présentation de TECH.GOUV (pdf - 1,3 Mo)](/uploads/plaquette-tech-gouv.pdf)
-> {: .lien-important}
+{: .lien-important}
