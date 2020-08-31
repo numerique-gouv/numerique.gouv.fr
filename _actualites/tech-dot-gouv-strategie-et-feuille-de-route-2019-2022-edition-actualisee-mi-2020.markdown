@@ -17,7 +17,6 @@ chapeau-text: Lancé par l’État en avril 2019, le programme TECH.GOUV, pilot�
   et 3 nouveaux font leur entrée.
 une-ou-diaporama:
 - image: "/uploads/Article_TECHGOUV.jpg"
-redirection: "/publications/tech-gouv-strategie-et-feuille-de-route-2019-2022-actualisee-mi-2020/"
 ---
 
 > [Lire la suite](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2022-actualisee-mi-2020/)
