@@ -139,9 +139,8 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 {: .lien-important}
 
 <br>
+<br>
 
-> [Consulter la stratégie et la feuille de route 2019-2021 de TECH.GOUV (pdf - 2 Mo)](/uploads/TECH-GOUV_2019-2021.pdf)
-{: .lien-important}
+[> Consulter la stratégie et la feuille de route 2019-2021 de TECH.GOUV (pdf - 2 Mo)](/uploads/TECH-GOUV_2019-2021.pdf)
 
-> [Télécharger la plaquette de présentation de TECH.GOUV (pdf - 1,3 Mo)](/uploads/plaquette-tech-gouv.pdf)
-{: .lien-important}
+[> Télécharger la plaquette de présentation de TECH.GOUV (pdf - 1,3 Mo)](/uploads/plaquette-tech-gouv.pdf)
