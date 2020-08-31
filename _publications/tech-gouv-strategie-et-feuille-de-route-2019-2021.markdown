@@ -24,7 +24,7 @@ layout: rgaa
 > **Avec TECH.GOUV, l’État s’est doté d’un programme ambitieux pour accélérer la transformation numérique du service public.**
 > <br>
 > <br>
-> Cette stratégie répond à six enjeux clairement identifiés **— simplification, inclusion, attractivité, maîtrise, économies, alliances —** qui doivent mobiliser l’ensemble des parties prenantes à un service public de qualité, à savoir l’État, les collectivités territoriales et leurs opérateurs. 
+> Cette stratégie répond à six enjeux clairement identifiés **— simplification, inclusion, attractivité, maîtrise, économies, alliances —** qui doivent mobiliser l’ensemble des parties prenantes à un service public de qualité, à savoir l’État, les collectivités territoriales et leurs opérateurs.
 > <br>
 > <br>
 > Il s’agit de concevoir et mettre en œuvre des projets numériques réalistes et utiles, en phase avec les attentes et les besoins des citoyens, des entreprises et des agents publics. **Ces projets doivent permettre de développer de nouveaux usages et méthodes de travail, et de développer la résilience de l’action publique en situation de crise tout en s’assurant que les moins à l’aise avec le numérique continuent à bénéficier des services publics.**
@@ -40,7 +40,7 @@ layout: rgaa
 > {: .citation}
 
 > **Nadi Bou Hanna**
-> <br>Directeur interministériel du numérique
+> <br> Directeur interministériel du numérique
 > {: .auteur-citation}
 
 <div style="text-indent: 15px;"><b>Lire aussi notre interview : </b><a href="/actualites/tech-gouv-interview-nadi-bou-hanna/">TECH.GOUV : « Tous les éléments sont réunis pour accélérer la transformation numérique de l’État »</a></div>
@@ -93,11 +93,12 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 
 > Pour rendre l’action publique plus proche, plus efficace, plus simple et plus juste pour tous les Français, dans tous les territoires, nous devons nous appuyer sur un État numérique plus actif. Après cette crise sans précédent, nous ne devons pas reconstruire notre État à l’identique, nous devons le moderniser. Nous ne pourrons le faire sans tirer parti de toutes les opportunités offertes par le numérique.
 > <br>
-> <br> **Je me réjouis donc de constater les premiers progrès obtenus par le programme TECH.GOUV dans de nombreux domaines ces derniers mois […] Ces actions devront être poursuivies et amplifiées dans le cadre du plan de relance, qui doit servir tous les Français.** Je m’assurerai personnellement de l’avancement et de l’appropriation par les autres administrations du programme TECH.GOUV dans ce contexte, car il est un réservoir d’initiatives et d’idées dans lequel le gouvernement compte puiser pour accélérer la transformation de l’État et obtenir rapidement les résultats nécessaires. 
+> <br> 
+> **Je me réjouis donc de constater les premiers progrès obtenus par le programme TECH.GOUV dans de nombreux domaines ces derniers mois […] Ces actions devront être poursuivies et amplifiées dans le cadre du plan de relance, qui doit servir tous les Français.** Je m’assurerai personnellement de l’avancement et de l’appropriation par les autres administrations du programme TECH.GOUV dans ce contexte, car il est un réservoir d’initiatives et d’idées dans lequel le gouvernement compte puiser pour accélérer la transformation de l’État et obtenir rapidement les résultats nécessaires.
 > {: .citation}
 
 > **Amélie de Montchalin**
-> <br>Ministre de la Transformation et de la Fonction publiques
+> <br> Ministre de la Transformation et de la Fonction publiques
 > {: .auteur-citation}
 
 ## Les 8 missions de TECH.GOUV
@@ -139,8 +140,8 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 
 <br>
 
-
 > [Consulter la stratégie et la feuille de route 2019-2021 de TECH.GOUV (pdf - 2 Mo)](/uploads/TECH-GOUV_2019-2021.pdf)
 > {: .lien-important}
+
 > [Télécharger la plaquette de présentation de TECH.GOUV (pdf - 1,3 Mo)](/uploads/plaquette-tech-gouv.pdf)
 > {: .lien-important}
