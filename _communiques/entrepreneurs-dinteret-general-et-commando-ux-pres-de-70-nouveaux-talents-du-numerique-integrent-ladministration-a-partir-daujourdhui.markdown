@@ -32,7 +32,7 @@ files:
 
 Recrutés parmi 802 candidates et candidats pour leurs compétences numériques pointues, leurs expériences entrepreneuriales et associatives et leur appétence pour le service public, les Entrepreneurs d’Intérêt Général auront 10 mois à partir d’aujourd’hui pour relever 17 défis qui portent sur des sujets aussi variés que la santé, l’énergie ou la transparence de l’action publique… Parmi les plus impactants : mieux informer les autorités et services d’urgence lors d’une crise ou encore accélérer l’ouverture en opendata des décisions de justice.
 
-**Dès le 1er septembre 2020 : suivez la rentrée des EIG 4 sur Twitter @eigforever**
+*Dès le 1er septembre 2020 : suivez la rentrée des EIG 4 sur Twitter @eigforever*
 
 [Découvrir les défis](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html) - [En savoir plus sur le programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html)
 
@@ -40,7 +40,7 @@ Recrutés parmi 802 candidates et candidats pour leurs compétences numériques 
 
 Armés de compétences en design et en développement, ils ont été sélectionnés parmi 250 candidates et candidats pour leur expertise, leur empathie et leur sens de l’intérêt général en vue d’intégrer le premier Commando UX. Leur mission : simplifier et rendre plus désirables les démarches en ligne les plus utilisées par les Français. A partir du 7 septembre, ils auront 4 mois pour relever 10 défis comme : simplifier le parcours des demandeurs d’emploi pour le renouvellement mensuel de leur situation ou encore permettre aux étrangers de faire une demande de titre de séjour en ligne.
 
-**Dès le 7 septembre 2020 : suivez la rentrée du premier Commando UX sur Twitter @Design_Gouv**
+*Dès le 7 septembre 2020 : suivez la rentrée du premier Commando UX sur Twitter @Design_Gouv*
 
 [Découvrir les défis](https://design.numerique.gouv.fr/commando-ux/) - [En savoir plus sur Commando UX](https://design.numerique.gouv.fr/commando-ux/)
 
