@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '10 août 2020 '
+date_de_modification: '27 août 2020 '
 layout: page-annexe
 ---
 
@@ -26,6 +26,11 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-0} 
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
+
+* [**Directeur de Projet Interministériel – Produits Numériques H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet-interministeriel--produits-numeriques-fh-reference-2020-430476)
+<br>Cadre/Catégorie A
+<br>
+<br>
 
 * [**Chef/cheffe du pôle Architecture et sécurité**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-architecture-et-securite-hf-reference-2020-444590) 
 <br>Cadre supérieur/Catégorie A+

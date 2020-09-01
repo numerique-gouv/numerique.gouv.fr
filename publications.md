@@ -5,7 +5,8 @@ une:
   image: "/assets/img/main/image_liste_actualites_2.jpg"
   alternative-textuelle: les actualites
 publications:
-- title: 'TECH.GOUV : Stratégie et feuille de route 2019-2021'
+- title: 'TECH.GOUV : Stratégie et feuille de route 2019-2022 : édition actualisée
+    mi-2020'
   url: "/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/"
   une-ou-diaporama:
   - image: "/uploads/Publication_TECHGOUV.jpg"
