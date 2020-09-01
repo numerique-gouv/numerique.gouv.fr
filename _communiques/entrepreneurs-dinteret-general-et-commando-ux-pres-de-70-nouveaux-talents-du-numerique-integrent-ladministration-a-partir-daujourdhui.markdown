@@ -24,7 +24,7 @@ contact-presse:
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
 files:
-- file: "/uploads/CP_COMMANDO_UX_EIG_PRES_DE_70_TALENTS_DU_NUMERIQUE_INTEGRENT_LADMINISTRA/_.pdf"
+- file: "/uploads/CP_COMMANDO_UX_EIG_PRES_DE_70_TALENTS_DU_NUMERIQUE_INTEGRENT_LADMINISTRA.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
