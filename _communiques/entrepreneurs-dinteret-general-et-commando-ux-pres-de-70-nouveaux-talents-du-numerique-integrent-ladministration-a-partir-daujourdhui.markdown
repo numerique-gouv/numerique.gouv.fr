@@ -36,6 +36,8 @@ Recrutés parmi 802 candidates et candidats pour leurs compétences numériques 
 
 [Découvrir les défis](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html) - [En savoir plus sur le programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html)
 
+
+
 **COMMANDO UX : 15 designers, développeuses et développeurs, une mission : améliorer concrètement et rapidement l’expérience utilisateur des démarches administratives en ligne les plus utilisées par les Français.**
 
 Armés de compétences en design et en développement, ils ont été sélectionnés parmi 250 candidates et candidats pour leur expertise, leur empathie et leur sens de l’intérêt général en vue d’intégrer le premier Commando UX. Leur mission : simplifier et rendre plus désirables les démarches en ligne les plus utilisées par les Français. A partir du 7 septembre, ils auront 4 mois pour relever 10 défis comme : simplifier le parcours des demandeurs d’emploi pour le renouvellement mensuel de leur situation ou encore permettre aux étrangers de faire une demande de titre de séjour en ligne.
