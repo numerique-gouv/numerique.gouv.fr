@@ -204,7 +204,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 {: .margin-bottom-1}
 *Direction interministérielle du numérique (DINUM) / Mission Talents*
 <ul><li><b>Compétences recherchées :</b> Statistiques (logiciel R ou équivalent) - Analyse de données </li>
-<li><b>Durée et période :</b> Phase : 1 journée - Phase 2 : à définir avec le talent en fonction de la faisabilité de cette mission.</li>
+<li><b>Durée et période :</b> Phase : 1 journée - Phase 2 : à définir selon disponibilité du talent</li>
 <li><b>Localisation :</b> Paris 7e et à distance</li>
 <li><b><a href="/uploads/mission_parcours-pro-numerique.pdf">Détails de la mission (pdf - 64 ko)</a></b></li></ul>
 
@@ -216,7 +216,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design - Revue de processus</li>
-<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent.</li>
+<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent</li>
 <li><b>Localisation :</b> Paris 7e</li>
 <li><b><a href="/uploads/mission_decrochage-scolaire.pdf">Détails de la mission (pdf - 240 ko)</a></b></li></ul>
 
@@ -228,7 +228,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 {: .margin-bottom-1}
 *Ministère de l’Éducation nationale de de la Jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet</li>
-<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent.</li>
+<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent</li>
 <li><b>Localisation :</b> Paris 7e</li>
 <li><b><a href="/uploads/mission-focus.pdf">Détails de la mission (pdf - 280 ko)</a></b></li></ul>
 
@@ -241,7 +241,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 *Ministère des Armées/Délégation de la transformation et de la performance ministérielles (DTPM)*
 <ul><li><b>Compétences recherchées :</b> Data science
 - Intelligence artificielle - Data engineering</li>
-<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent.</li>
+<li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent</li>
 <li><b>Localisation :</b> à distance ou en télétravail</li>
 <li><b><a href="/uploads/2020_08_24_Fiches_COVID%2019_Faciliter%20la%20veille%20scientifique%20.pdf">Détails de la mission (pdf - 64 ko)</a></b></li></ul>
 
