@@ -230,7 +230,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <ul><li><b>Compétences recherchées :</b> UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet</li>
 <li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent.</li>
 <li><b>Localisation :</b> Paris 7e</li>
-<li><b><a href="/uploads/mission-focus.pdf">Détails de la mission (pdf - 240 ko)</a></b></li></ul>
+<li><b><a href="/uploads/mission-focus.pdf">Détails de la mission (pdf - 280 ko)</a></b></li></ul>
 
 > **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
 {: .lien-important}
