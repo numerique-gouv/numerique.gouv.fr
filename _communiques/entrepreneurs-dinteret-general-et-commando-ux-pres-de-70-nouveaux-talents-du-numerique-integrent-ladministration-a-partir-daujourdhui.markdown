@@ -37,7 +37,6 @@ Recrutés parmi 802 candidates et candidats pour leurs compétences numériques 
 [Découvrir les défis](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html) - [En savoir plus sur le programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html)
 
 
-
 <br>
 <br>
 
