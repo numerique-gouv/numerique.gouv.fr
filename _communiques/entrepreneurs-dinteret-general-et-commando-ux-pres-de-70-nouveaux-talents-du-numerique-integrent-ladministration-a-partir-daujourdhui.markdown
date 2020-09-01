@@ -34,7 +34,7 @@ Recrutés parmi 802 candidates et candidats pour leurs compétences numériques 
 
 **Dès le 1er septembre 2020 : suivez la rentrée des EIG 4 sur Twitter @eigforever**
 
-[Découvrir les défis](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html) | [En savoir plus sur le programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html)
+[Découvrir les défis](https://entrepreneur-interet-general.etalab.gouv.fr/defis.html) - [En savoir plus sur le programme EIG](https://entrepreneur-interet-general.etalab.gouv.fr/presentation.html)
 
 **COMMANDO UX : 15 designers, développeuses et développeurs, une mission : améliorer concrètement et rapidement l’expérience utilisateur des démarches administratives en ligne les plus utilisées par les Français.**
 
@@ -42,7 +42,7 @@ Armés de compétences en design et en développement, ils ont été sélectionn
 
 **Dès le 7 septembre 2020 : suivez la rentrée du premier Commando UX sur Twitter @Design_Gouv**
 
-[Découvrir les défis](https://design.numerique.gouv.fr/commando-ux/) | [En savoir plus sur Commando UX](https://design.numerique.gouv.fr/commando-ux/)
+[Découvrir les défis](https://design.numerique.gouv.fr/commando-ux/) - [En savoir plus sur Commando UX](https://design.numerique.gouv.fr/commando-ux/)
 
 > La crise sanitaire a montré que la transformation numérique de l’État doit être résolument accélérée. 
 > Bâtir un État numérique plus efficace est l’une des priorités de la relance pour le Gouvernement. C’est pourquoi je me réjouis que nous renforcions très rapidement le recrutement de talents numérique. Je suivrai très attentivement les activités des designers, développeurs et data scientists qui constituent les Entrepreneurs d’Intérêt Général et le commando UX car ils viennent contribuer à améliorer concrètement l’action publique.
