@@ -99,6 +99,9 @@ Rejoins-nous et forme ton duo avec un expert du numérique !
 * nous te proposerons ton expert/e ambassadeur, en fonction de tes choix.
 
 Attention, les places sont limitées, envoie ta demande au plus vite !
+<br>
+<br>
+
 
 > [C’est parti](https://sgmap.sphinxdeclic.com/d/s/ty1gxn)
 {: .lien-important}
