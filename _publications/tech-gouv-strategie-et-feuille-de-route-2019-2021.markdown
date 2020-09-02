@@ -6,7 +6,7 @@ tags:
 - transformation numérique
 - qualité des services numériques
 position: 0
-date_de_modification: 31 août 2019
+date_de_modification: 31 août 2020
 chapeau-text: Lancé par l’État en avril 2019, le programme TECH.GOUV, piloté par la
   DINUM avec l’appui de tous les ministères, vise à accélérer la transformation numérique
   du service public. Un an après, les premiers résultats concrets ont été obtenus.
@@ -20,6 +20,19 @@ une:
   alternative-textuelle: logo TECH.GOUV
 layout: rgaa
 ---
+
+> Pour rendre l’action publique plus proche, plus efficace, plus simple et plus juste pour tous les Français, dans tous les territoires, nous devons nous appuyer sur un État numérique plus actif. Après cette crise sans précédent, nous ne devons pas reconstruire notre État à l’identique, nous devons le moderniser. Nous ne pourrons le faire sans tirer parti de toutes les opportunités offertes par le numérique.
+> <br>
+> <br> 
+> **Je me réjouis donc de constater les premiers progrès obtenus par le programme TECH.GOUV dans de nombreux domaines ces derniers mois […] Ces actions devront être poursuivies et amplifiées dans le cadre du plan de relance, qui doit servir tous les Français.** Je m’assurerai personnellement de l’avancement et de l’appropriation par les autres administrations du programme TECH.GOUV dans ce contexte, car il est un réservoir d’initiatives et d’idées dans lequel le gouvernement compte puiser pour accélérer la transformation de l’État et obtenir rapidement les résultats nécessaires.
+{: .citation}
+
+> **Amélie de Montchalin**
+> <br> Ministre de la Transformation et de la Fonction publiques
+{: .auteur-citation}
+
+## TECH.GOUV : Les technologies numériques au service des citoyens et des agents publics 
+
 
 > **Avec TECH.GOUV, l’État s’est doté d’un programme ambitieux pour accélérer la transformation numérique du service public.**
 > <br>
@@ -43,9 +56,6 @@ layout: rgaa
 > <br> Directeur interministériel du numérique
 {: .auteur-citation}
 
-<div style="text-indent: 15px;"><b>Lire aussi notre interview : </b><a href="/actualites/tech-gouv-interview-nadi-bou-hanna/">TECH.GOUV : « Tous les éléments sont réunis pour accélérer la transformation numérique de l’État »</a></div>
-<br>
-<br>
 
 ## Le service public à l’ère numérique : les 6 enjeux de TECH.GOUV
 
@@ -91,15 +101,6 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 <br>
 <br>
 
-> Pour rendre l’action publique plus proche, plus efficace, plus simple et plus juste pour tous les Français, dans tous les territoires, nous devons nous appuyer sur un État numérique plus actif. Après cette crise sans précédent, nous ne devons pas reconstruire notre État à l’identique, nous devons le moderniser. Nous ne pourrons le faire sans tirer parti de toutes les opportunités offertes par le numérique.
-> <br>
-> <br> 
-> **Je me réjouis donc de constater les premiers progrès obtenus par le programme TECH.GOUV dans de nombreux domaines ces derniers mois […] Ces actions devront être poursuivies et amplifiées dans le cadre du plan de relance, qui doit servir tous les Français.** Je m’assurerai personnellement de l’avancement et de l’appropriation par les autres administrations du programme TECH.GOUV dans ce contexte, car il est un réservoir d’initiatives et d’idées dans lequel le gouvernement compte puiser pour accélérer la transformation de l’État et obtenir rapidement les résultats nécessaires.
-{: .citation}
-
-> **Amélie de Montchalin**
-> <br> Ministre de la Transformation et de la Fonction publiques
-{: .auteur-citation}
 
 ## Les 8 missions de TECH.GOUV
 
@@ -140,7 +141,3 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 
 <br>
 <br>
-
-[> Consulter la stratégie et la feuille de route 2019-2021 de TECH.GOUV (pdf - 2 Mo)](/uploads/TECH-GOUV_2019-2021.pdf)
-
-[> Télécharger la plaquette de présentation de TECH.GOUV (pdf - 1,3 Mo)](/uploads/plaquette-tech-gouv.pdf)
