@@ -86,15 +86,13 @@ Selon les missions et le métier choisis, nous te proposons des missions :
 <br>
 <br>
 
-*Tu souhaites participer ?*
+**Tu souhaites participer ?**
 
 Rejoins-nous et forme ton duo avec un expert du numérique !
 <br>
 <br>
 
-
-
-**Les étapes :**
+*Les étapes :*
 
 * renseigne dans le formulaire en ligne tes souhaits et quelques infos sur toi et ton cursus,
 
