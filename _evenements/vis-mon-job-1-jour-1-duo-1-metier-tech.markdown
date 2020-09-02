@@ -49,11 +49,11 @@ Tu trouveras la liste complète via le bouton plus bas.
 
 **Ta mission, si tu l’acceptes :**
 
-![](blob:https://manage.siteleaf.com/4a94751f-5ebf-4797-9f34-e24096eb2ee4) Expérimenter et explorer la culture tech de l’État
+<figure class='image-left' style='width: 7%;'><img src="/uploads/IMAGE1.png"/></figure>Expérimenter et explorer la culture tech de l’État
 
-![](blob:https://manage.siteleaf.com/ac0e89d2-aca7-42b3-bbd7-7de0cccedaba) Accompagner pendant une journée un/une expert/e du numérique d’un ministère
+<figure class='image-left' style='width: 7%;'><img src="/uploads/IMAGE2-5704c3.png"/></figure>Accompagner pendant une journée un/une expert/e du numérique d’un ministère
 
-![](blob:https://manage.siteleaf.com/8d8933c7-c322-4652-b06f-569f295e5695)Découvrir la diversité des missions et la capacité d’innovation de l’Etat dans sa transformation numérique
+<figure class='image-left' style='width: 7%;'><img src="/uploads/IMAGE3.png"/></figure>Découvrir la diversité des missions et la capacité d’innovation de l’Etat dans sa transformation numérique
 
 **Quand ?**
 
