@@ -105,5 +105,6 @@ Attention, les places sont limitées, envoie ta demande au plus vite !
 > [C’est parti](https://sgmap.sphinxdeclic.com/d/s/ty1gxn)
 {: .lien-important}
 
+<br>
 
 *Une opération lancée dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) et pilotée par la direction interministérielle du numérique (DINUM) et les ministères économiques et financiers.*
