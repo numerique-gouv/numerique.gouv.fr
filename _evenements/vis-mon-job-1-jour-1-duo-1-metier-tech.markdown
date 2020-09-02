@@ -12,7 +12,7 @@ chapeau-text: "**Tu es étudiant en master ? Le temps d’une journée, le 5 nov
   et rencontre l’un de ses experts !**"
 une-ou-diaporama:
 - image: "/uploads/a51503ec-78c5-45a5-bee9-dc19e1c335ab.jpg"
-event_start_date: 0005-10-31 23:09:21 +00:09
+event_start_date: 2020-11-05 08:00:00 +01:00
 ---
 
 Étudiant/e en master (1 ou 2) dans un cursus numérique, en école ou en université, l’État te propose une expérience inédite !
