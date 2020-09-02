@@ -65,6 +65,9 @@ Tu trouveras la liste complète via le bouton plus bas.
 <br>
 
 <figure class='image-left' style='width: 7%;'><img src="/uploads/IMAGE3.png"/></figure>Découvrir la diversité des missions et la capacité d’innovation de l’Etat dans sa transformation numérique
+<br>
+<br>
+
 
 **Quand ?**
 
