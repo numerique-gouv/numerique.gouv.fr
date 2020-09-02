@@ -17,11 +17,15 @@ event_start_date: 2020-11-05 08:00:00 +01:00
 
 Étudiant/e en master (1 ou 2) dans un cursus numérique, en école ou en université, l’État te propose une expérience inédite !
 Le 5 novembre 2020, viens passer une journée en immersion auprès d’un ou une expert/e de la tech dans un ministère, échange avec lui et explore, de l’intérieur, son quotidien, ses projets, son environnement de travail.
+<br>
+<br>
 
 
 **Forme ton duo avec l’un de nos 80 ambassadeurs !**
 
 Tu pourras ainsi découvrir sous un nouveau jour le métier du numérique qui t’intéresse, et pour lequel l’État recrute, voire, pourquoi pas, t’ouvrir les portes d’un futur emploi.
+<br>
+<br>
 
 
 **Découvre le métier de ton choix, par exemple :**
@@ -34,6 +38,8 @@ Tu pourras ainsi découvrir sous un nouveau jour le métier du numérique qui t�
 * ...
 
 Tu trouveras la liste complète via le bouton plus bas.
+<br>
+<br>
 
 
 **Dans un ministère ou une administration de ton choix :**
@@ -45,6 +51,8 @@ Tu trouveras la liste complète via le bouton plus bas.
 * Éducation nationale
 * Direction interministérielle du numérique (DINUM)
 * ...
+<br>
+<br>
 
 
 **Ta mission, si tu l’acceptes :**
@@ -61,6 +69,9 @@ Tu trouveras la liste complète via le bouton plus bas.
 **Quand ?**
 
 Le 5 novembre 2020, toute la journée
+<br>
+<br>
+
 
 **Où ?**
 
@@ -69,11 +80,15 @@ Selon les missions et le métier choisis, nous te proposons des missions :
 * en région parisienne : Paris, Arcueil, Montreuil, Noisiel, Noisy-le-Grand, Saint-Mandé, Versailles…
 
 * mais aussi à Lyon, Lille, Rennes, Toulouse, Nice, Montpellier, Caen, Limoges, Besançon, Dijon, Metz…
+<br>
+<br>
 
-
-**Tu souhaites participer ?**
+*Tu souhaites participer ?*
 
 Rejoins-nous et forme ton duo avec un expert du numérique !
+<br>
+<br>
+
 
 
 **Les étapes :**
