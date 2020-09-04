@@ -1,7 +1,6 @@
 ---
 title: 'Vis mon job : 1 jour, 1 duo, 1 métier tech'
 date: 2020-09-02 13:31:00 +02:00
-published: false
 categories:
 - Forum
 tags:
