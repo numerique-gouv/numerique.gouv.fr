@@ -1,6 +1,6 @@
 ---
 title: 'Vis mon job : 1 jour, 1 duo, 1 métier tech'
-date: 2020-09-09 16:48:00 +02:00
+date: 2020-09-09 16:57:00 +02:00
 categories:
 - Forum
 tags:
@@ -47,7 +47,7 @@ Tu trouveras la liste complète via le bouton plus bas.
 
 **Dans un ministère ou une administration de ton choix :**
 
-* Économie et Finances
+* Économie, Finances et Relance
 * Armées
 * Commission nationale de l'informatique et des libertés (CNIL)
 * Solidarités et Santé
