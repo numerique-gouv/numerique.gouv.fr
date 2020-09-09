@@ -1,7 +1,7 @@
 ---
 title: 'Lancement de Vis mon job : des étudiants à la rencontre des professionnels
   du numérique de l’État'
-date: 2020-09-04 11:30:00 +02:00
+date: 2020-09-09 16:44:00 +02:00
 categories:
 - Article
 tags:
@@ -9,20 +9,20 @@ tags:
 - Numérique
 - Vis mon job
 chapeau-text: 'Dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/),
-  la DINUM lance avec les ministères économiques et financiers une opération inédite
-  au sein de l’État : Vis mon job. L’occasion pour un étudiant de découvrir un métier
-  du numérique de l’État en immersion, le temps d’une journée, auprès d’un agent professionnel
-  de la tech.'
+  la DINUM lance avec le ministère de l''Économie, des Finances et de la Relance une
+  opération inédite au sein de l’État : Vis mon job. L’occasion pour un étudiant de
+  découvrir un métier du numérique de l’État en immersion, le temps d’une journée,
+  auprès d’un agent professionnel de la tech.'
 une-ou-diaporama:
 - image: "/uploads/a51503ec-78c5-45a5-bee9-dc19e1c335ab.jpg"
 ---
 
 **Attirer les talents du numérique au sein de l’État :** c’est l’une des ambitions de la mission Talents du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), piloté par la direction interministérielle du numérique (DINUM). Sur un marché de l’emploi particulièrement tendu dans le domaine de la tech, **l’État fait valoir ses spécificités et offre l’opportunité aux jeunes ou futurs talents de les découvrir.**
 
-« **Avec ses enjeux de transformation numérique, sa diversité de métiers disponibles, l’État est une mine d’opportunités pour les professionnels de la tech et nous sommes encore trop méconnus.** Aussi, c’est avec grand plaisir que nous intégrons cette contribution des ministères économiques et financiers à notre mission **afin promouvoir les opportunités tech dans l’État, d’attirer et de fidéliser les talents du numérique** » expose Charlotte Cador, cheffe de la mission Talents.
+« **Avec ses enjeux de transformation numérique, sa diversité de métiers disponibles, l’État est une mine d’opportunités pour les professionnels de la tech et nous sommes encore trop méconnus.** Aussi, c’est avec grand plaisir que nous intégrons cette contribution du ministère de l'Économie, des Finances et de la Relance à notre mission **afin promouvoir les opportunités tech dans l’État, d’attirer et de fidéliser les talents du numérique** » expose Charlotte Cador, cheffe de la mission Talents.
 
 
-« Dans mes échanges avec les écoles du numérique, il est apparu que pour beaucoup d’étudiants, le travail au sein des ministères, tout comme leur transformation numérique, restaient un grand mystère », explique Soraya Saa, de la délégation aux systèmes d’information des ministères économiques et financiers, qui pilote le projet aux côtés de la DINUM. « Plutôt que de proposer un grand forum des métiers IT, très impersonnel, **nous avons alors décidé de leur permettre de pousser les portes des ministères et de venir à la rencontre de nos collaborateurs qui portent la transformation numérique de l’État, de lui donner un visage humain.** »
+« Dans mes échanges avec les écoles du numérique, il est apparu que pour beaucoup d’étudiants, le travail au sein des ministères, tout comme leur transformation numérique, restaient un grand mystère », explique Soraya Saa, de la délégation aux systèmes d’information du ministère de l'Économie, des Finances et de la Relance, qui pilote le projet aux côtés de la DINUM. « Plutôt que de proposer un grand forum des métiers IT, très impersonnel, **nous avons alors décidé de leur permettre de pousser les portes des ministères et de venir à la rencontre de nos collaborateurs qui portent la transformation numérique de l’État, de lui donner un visage humain.** »
 
 ## Vis mon job : un jour, un duo, un métier tech
 
