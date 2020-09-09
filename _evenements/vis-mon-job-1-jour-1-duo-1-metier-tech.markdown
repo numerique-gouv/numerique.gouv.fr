@@ -1,6 +1,6 @@
 ---
 title: 'Vis mon job : 1 jour, 1 duo, 1 métier tech'
-date: 2020-09-02 13:31:00 +02:00
+date: 2020-09-09 17:02:00 +02:00
 categories:
 - Forum
 tags:
@@ -47,7 +47,7 @@ Tu trouveras la liste complète via le bouton plus bas.
 
 **Dans un ministère ou une administration de ton choix :**
 
-* Économie et Finances
+* Économie, Finances et Relance
 * Armées
 * Commission nationale de l'informatique et des libertés (CNIL)
 * Solidarités et Santé
@@ -114,4 +114,4 @@ Attention, les places sont limitées, envoie ta demande au plus vite !
 
 <br>
 
-*Une opération lancée dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) et pilotée par la direction interministérielle du numérique (DINUM) et les ministères économiques et financiers.*
+*Une opération lancée dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) et pilotée par la direction interministérielle du numérique (DINUM) et le ministère de l'Économie, des Finances et de la Relance.*
