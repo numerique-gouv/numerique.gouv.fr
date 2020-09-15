@@ -27,6 +27,17 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
+* [**Chef du pôle Pilotage de la qualité et des partenariats et adjoint au Chef du département ISO H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-pilotage-de-la-qualite-et-des-partenariats-et-adjointe-au-chef-du-departement-iso-hf-reference-2020-464601)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
+* [**Chef du pôle Pilotage de la qualité et des partenariats et adjoint au Chef du département ISO H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-pilotage-de-la-qualite-et-des-partenariats-et-adjointe-au-chef-du-departement-iso-hf-reference-2020-464615)
+<br>Cadre/Catégorie A
+<br>Poste basé en Ille et Vilaine (35)
+<br>
+<br>
+
 * [**Directeur de Projet Interministériel – Produits Numériques H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet-interministeriel--produits-numeriques-fh-reference-2020-430476)
 <br>Cadre/Catégorie A
 <br>
