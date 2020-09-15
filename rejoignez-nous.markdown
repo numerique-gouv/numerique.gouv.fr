@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '27 août 2020 '
+date_de_modification: '15 septembre 2020 '
 layout: page-annexe
 ---
 
@@ -32,11 +32,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-* [**Chef/cheffe du pôle Architecture et sécurité**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-architecture-et-securite-hf-reference-2020-444590) 
-<br>Cadre supérieur/Catégorie A+
-<br>
-<br>
-
 * [**Responsable de la Sécurité des systèmes d'information H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-fh-reference-2020-430437)
 <br>Cadre/Catégorie A
 <br>
@@ -60,11 +55,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-{: .margin-top-4 .margin-bottom-1}
-* [**Chargé/Chargée de mission pour le programme entrepreneurs d'intérêt général (EIG)**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-pour-le-programme-entrepreneurs-d-interet-general-eig-fh-reference-2020-429494)
-<br>Cadre/Catégorie A
-<br>
-<br>
 
 
 > ### Et aussi, dans d'autres administrations…<a id="offresministères"></a> 
