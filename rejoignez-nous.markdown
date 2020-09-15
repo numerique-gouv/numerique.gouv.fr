@@ -27,6 +27,11 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
+* [**Chef du pôle Réseau interministériel de l'Etat et Services opérés d'infrastructure H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-reseau-interministeriel-de-l-etat-et-services-operes-d-infrastructure-hf-reference-2020-464626)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
 * [**Chef du pôle Pilotage de la qualité et des partenariats et adjoint au Chef du département ISO H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-pilotage-de-la-qualite-et-des-partenariats-et-adjointe-au-chef-du-departement-iso-hf-reference-2020-464601)
 <br>Cadre/Catégorie A
 <br>
