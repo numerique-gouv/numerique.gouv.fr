@@ -37,8 +37,6 @@ outils-pour-les-agents:
     url: https://webconf.numerique.gouv.fr/
   - link: Osmose
     url: https://osmose.numerique.gouv.fr/
-  - link: Plano
-    url: https://plano.numerique.gouv.fr/
   - link: Resana
     url: https://resana.numerique.gouv.fr/
     
