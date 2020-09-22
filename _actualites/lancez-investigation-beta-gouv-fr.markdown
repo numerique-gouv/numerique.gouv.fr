@@ -44,13 +44,15 @@ Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse clai
 <br>
 <br>
 
-> **[Soumettez votre problématique au cours de l’été 2020 (de préférence avant le 26 juillet) !](mailto:investigations@beta.gouv.fr)**
+> **[Soumettez votre problématique jusqu'au 30 octobre* !](mailto:investigations@beta.gouv.fr)**
 {: .lien-important}
 {: .margin-bottom-0}
 <div align="center">Nous traiterons toutes les demandes au fil de l’eau.
 </div>
 <br>
 <br>
+
+*Prolongation de la date limite
 
 **Pour cela envoyez-nous un courriel décrivant la problématique à [investigations@beta.gouv.fr](mailto:investigations@beta.gouv.fr)** et un membre de l’équipe reviendra vers vous pour en discuter !
 
