@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '15 septembre 2020 '
+date_de_modification: '22 septembre 2020 '
 layout: page-annexe
 ---
 
@@ -26,6 +26,11 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-0} 
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
+
+* [**Chef de projet, responsable du guichet « GovTech » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-responsable-du-guichet--govtech--hf-reference-2020-460346)
+<br>Cadre/Catégorie A
+<br>
+<br>
 
 * [**Chef du pôle Réseau interministériel de l'Etat et Services opérés d'infrastructure H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-reseau-interministeriel-de-l-etat-et-services-operes-d-infrastructure-hf-reference-2020-464626)
 <br>Cadre/Catégorie A
@@ -60,7 +65,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 {: .margin-top-4 .margin-bottom-1}
-* [**Chargé/Chargée des produits labellisés**](/uploads/120-04-DINUM_charge-e-produits-labellises.pdf "Chargé/Chargée des produits labellisés - Télécharger le pdf")
+* [**Chargé/Chargée des produits labellisés**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-des-produits-labellises-hf-reference-2020-377221)
 <br>Cadre/Catégorie A
 <br>
 <br>
