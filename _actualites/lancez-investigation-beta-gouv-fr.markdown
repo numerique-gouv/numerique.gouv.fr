@@ -63,4 +63,4 @@ L'appel est ouvert aux administrations d’État (centrales et déconcentrées) 
 
 > <br>
 > beta.gouv.fr accompagne depuis 2015 les administrations publiques pour résoudre des problèmes aussi variés que [simplifier la création et réalisation de démarches administratives en ligne](https://beta.gouv.fr/startups/demarches-simplifiees.fr.html), [identifier les entreprises en difficultés pour mieux les accompagner](https://beta.gouv.fr/startups/signaux-faibles.html), [mieux informer les citoyens de leurs droits dans le monde professionnel](https://beta.gouv.fr/startups/codedutravail.html), ou encore [développer le covoiturage](https://beta.gouv.fr/startups/preuve-de-covoiturage.html). Aucun problème n’est trop spécifique ou trop complexe pour être étudié !
-> {: .noir .encadre}
+{: .noir .encadre}
