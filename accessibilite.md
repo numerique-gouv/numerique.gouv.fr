@@ -9,10 +9,10 @@ layout: page-annexe
 La direction interministérielle du numérique est engagée dans un processus d’amélioration de l’accessibilité de l’ensemble de ses sites.
 
 Le schéma pluriannuel décrit les points importants sur lesquels la DINUM s’appuiera pour améliorer l’accessibilité numérique de l’ensemble de ses sites web et applications.
-> [Consulter le schéma pluriannuel d’accessibilité 2020-2022 (pdf, 1,7 Mo)](/uploads/DINUM_SchemaPluriannuel_2020.pdf)
+\> [Consulter le schéma pluriannuel d’accessibilité 2020-2022 (pdf, 1,7 Mo)](/uploads/DINUM_SchemaPluriannuel_2020.pdf)
 
 Il s’accompagne d’un plan d’action annuel qui détaille les opérations programmées et mises en œuvre pour 2020, ainsi que l’état de suivi de ces actions.
-> [Consulter le plan annuel d’accessibilité 2020 (pdf, 1 Mo)](/uploads/DINUM_PlanAnnuel_2020.pdf)
+[> Consulter le plan annuel d’accessibilité 2020 (pdf, 1 Mo)](/uploads/DINUM_PlanAnnuel_2020.pdf)
 
 ## Déclaration de conformité - RGAA 4.0
 numerique.gouv.fr est actuellement non conforme.
