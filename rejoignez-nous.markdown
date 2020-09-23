@@ -27,6 +27,17 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
+* [**Chef de projet Résilience RIE – Equipements d'extrémité (Box résiliente) H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--equipements-d-extremite-box-resiliente-hf-reference-2020-468354)
+<br>Cadre/Catégorie A
+<br>Poste basé en Ille et Vilaine (35)
+<br>
+<br>
+
+* [**Chef de projet Résilience RIE – Equipements d'extrémité (Box résiliente) H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--equipements-d-extremite-box-resiliente-fh-hf-reference-2020-468348)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
 * [**Chef du département « performance des services numériques » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-du-departement--performance-des-services-numeriques--hf-reference-2020-468306)
 <br>Encadrement supérieur/Catégorie A+
 <br>
