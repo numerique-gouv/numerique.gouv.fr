@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '22 septembre 2020 '
+date_de_modification: '23 septembre 2020 '
 layout: page-annexe
 ---
 
@@ -26,6 +26,48 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-0} 
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
+
+* [**Chef du département « performance des services numériques » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-du-departement--performance-des-services-numeriques--hf-reference-2020-468306)
+<br>Encadrement supérieur/Catégorie A+
+<br>
+<br>
+
+* [**Architecte technique Résilience RIE – Boucle optique H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-technique-resilience-rie--boucle-optique-hf-reference-2020-468364)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
+* [**Chef de projet Résilience RIE – Plateforme « Flux critiques » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--plateforme--flux-critiques--hf-reference-2020-468377)
+<br>Cadre/Catégorie A
+<br>Poste basé en Ille et Vilaine (35)
+<br>
+<br>
+
+* [**Chef de projet Résilience RIE – Plateforme « Flux critiques » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--plateforme--flux-critiques--hf-reference-2020-468376)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
+* [**Directeur de projet Résilience RIE H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projet-resilience-rie-hf-reference-2020-468435)
+<br>Cadre/Catégorie A
+<br>Poste basé dans le Rhône (69)
+<br>
+<br>
+
+* [**Directeur de projet Résilience RIE H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projet-resilience-rie-hf-reference-2020-468431)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
+* [**Directeur programme interministériel « Environnement de Travail Numérique des Agents H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-programme-interministeriel--environnement-de-travail-numerique-des-agents-hf-reference-2020-468464)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
+* [**Chargé de mission gestion budgétaire et financière H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-gestion-budgetaire-et-financiere-hf-reference-2020-468472)
+<br>Cadre/Catégorie A
+<br>
+<br>
 
 * [**Chef de projet, responsable du guichet « GovTech » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-responsable-du-guichet--govtech--hf-reference-2020-460346)
 <br>Cadre/Catégorie A
