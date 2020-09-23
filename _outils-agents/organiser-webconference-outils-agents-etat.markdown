@@ -22,7 +22,7 @@ Afin de faciliter la **collaboration en travail à distance**, les solutions de 
 
 ## Comment choisir une solution de webconférence ?
 {: .margin-top-2 .margin-bottom-1}
-L’État met à la disposition de tous ses agents **un service de webconférence interministériel** accessible sur le site [**webconference.numerique.gouv.fr**](https://webconference.numerique.gouv.fr).  Elle permet de créer une webconférence depuis le réseau interministériel de l’État (RIE) et d’inviter des participants, connectés ou non au RIE.
+L’État met à la disposition de tous ses agents **un service de webconférence interministériel** accessible sur le site [**webconference.numerique.gouv.fr**](https://webconf.numerique.gouv.fr).  Elle permet de créer une webconférence depuis le réseau interministériel de l’État (RIE) et d’inviter des participants, connectés ou non au RIE.
 
 Du fait de la crise Covid-19 et du nombre important d’agents travaillant à distance, la sur-sollicitation de cette plateforme crée parfois des problèmes de qualité de son et/ou d’image pour certains utilisateurs, particulièrement pour les conférences réunissant plus de 6 utilisateurs.
 
@@ -46,7 +46,7 @@ Par ailleurs, la DINUM conseille de ne pas utiliser l’application Zoom ou d’
 > Vous utilisez l'une de ces solutions ? **Faites-nous part de vos retours via [ce questionnaire en ligne](https://dinum.evalandgo.com/s/?id=JTk3biU5OWwlOUMlQUE=&a=JTk2byU5NmglOUUlQUI=)**
 {: .encadre}
 
-ATTENTION : Ces options sont valables pendant la crise liée au Covid-19. L’outil des agents de l’État par défaut est la [webconférence de l’État](https://webconference.numerique.gouv.fr), la possibilité d’utilisation ou non des autres outils après la crise n’est pas garantie et fera l’objet d’une réévaluation.
+ATTENTION : Ces options sont valables pendant la crise liée au Covid-19. L’outil des agents de l’État par défaut est la [webconférence de l’État](https://webconf.numerique.gouv.fr), la possibilité d’utilisation ou non des autres outils après la crise n’est pas garantie et fera l’objet d’une réévaluation.
 [**> En savoir plus sur la webconférence de l’État**](/outils-agents/webconference-etat/)
 <br>
 <br>
@@ -58,7 +58,6 @@ ATTENTION : Ces options sont valables pendant la crise liée au Covid-19. L’ou
 
 **Découvrir aussi :**
 * [Osmose, la plateforme des communautés professionnelles de l’État](/outils-agents/osmose/)
-* [Plano, plateforme de gestion de projet en ligne et de travail collaboratif](/outils-agents/plano/)
 <br>
 <br>
 
