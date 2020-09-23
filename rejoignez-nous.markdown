@@ -27,6 +27,17 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
 
+* [**Chef de projet Résilience RIE – Gouvernance SSI H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--gouvernance-ssi-hf-reference-2020-469099)
+<br>Cadre/Catégorie A
+<br>Poste basé dans le Rhône (69)
+<br>
+<br>
+
+* [**Chef de projet Résilience RIE – Gouvernance SSI H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--gouvernance-ssi-hf-reference-2020-469091)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
 * [**Chef de projet Résilience RIE – Equipements d'extrémité (Box résiliente) H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--equipements-d-extremite-box-resiliente-hf-reference-2020-468354)
 <br>Cadre/Catégorie A
 <br>Poste basé en Ille et Vilaine (35)
