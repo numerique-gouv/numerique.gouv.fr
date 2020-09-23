@@ -10,7 +10,7 @@ numerique.gouv.fr est actuellement non conforme.
 L’audit de conformité est planifié pour septembre 2020. Des travaux d'amélioration sont en cours à la suite d'un premier diagnostic.
 
 ## Droit à la compensation ##
-Dans l'attente d'une mise en conformité totale, vous pouvez obtenir une version accessible des documents ou des informations qui y seraient contenues en envoyant un courriel à communication.dinum@modernisation.gouv.fr en indiquant le nom du document concerné et/ou les informations que vous souhaiteriez obtenir. Les informations demandées vous seront transmises dans les plus bref délais.
+Dans l'attente d'une mise en conformité totale, vous pouvez obtenir une version accessible des documents publiés sur numerique.gouv.fr ou des informations qui y seraient contenues en envoyant un courriel à communication.dinum@modernisation.gouv.fr en indiquant le nom du document concerné et/ou les informations que vous souhaiteriez obtenir. Les informations demandées vous seront transmises dans les plus brefs délais.
 
 ## Amélioration et contact ##
 Vous pouvez nous aider à améliorer l'accessibilité du site en nous signalant les problèmes éventuels que vous rencontrez. Pour ce faire, envoyez-nous un courriel à communication.dinum@modernisation.gouv.fr.
