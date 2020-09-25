@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '23 septembre 2020 '
+date_de_modification: '25 septembre 2020 '
 layout: page-annexe
 ---
 
@@ -26,6 +26,11 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-0} 
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
+
+* [**Développeur H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeur-hf-reference-2020-470032)
+<br>Cadre/Catégorie A
+<br>
+<br>
 
 * [**Chef de projet Résilience RIE – Gouvernance SSI H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--gouvernance-ssi-hf-reference-2020-469099)
 <br>Cadre/Catégorie A
