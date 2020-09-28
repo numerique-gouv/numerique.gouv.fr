@@ -5,9 +5,9 @@ date: 2018-04-24 15:47:00 +02:00
 permalink: "/publications/avis-conformes/"
 position: 2
 date_de_modification: 20 décembre 2019
-chapeau-text: La direction interministérielle du numérique (DINUM - ex-DINSIC) publie
-  ses avis conformes sur les grands projets du système d'information et de communication
-  de l’État.
+chapeau-text: La direction interministérielle du numérique (DINUM) publie ses avis
+  conformes sur les grands projets du système d'information et de communication de
+  l’État.
 une:
   image: "/assets/img/main/image_avis_conformes.jpg"
   alternative-textuelle: les avis conformes
@@ -307,10 +307,10 @@ ministeres:
 layout: avis-conformes
 ---
 
-C'est l'une des missions assignées à la DINUM : sécuriser les grands projets informatiques de l’État. Ainsi, avant tout lancement d'un projet de plus de 9 millions d'euros, chaque ministère doit solliciter un avis de conformité auprès du directeur de la DINUM, au titre de [l’article 3 du décret n° 2019-1088](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039282808/2019-10-28) <sup><a href="#note1" title="note de bas de page">(1)</a></sup>, dont l’application est précisée par [l’arrêté du 5 juin 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042152725/). Chaque projet est alors évalué selon cinq critères : stratégie, finances, gouvernance, réalisation et planning.
+C'est l'une des missions assignées à la DINUM (ex-DINSIC) : sécuriser les grands projets informatiques de l’État. Ainsi, avant tout lancement d'un projet de plus de 9 millions d'euros, chaque ministère doit solliciter un avis de conformité auprès du directeur de la DINUM, au titre de [l’article 3 du décret n° 2019-1088](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039282808/2019-10-28) <sup><a href="#note1" title="note de bas de page">(1)</a></sup>, dont l’application est précisée par [l’arrêté du 5 juin 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042152725/). Chaque projet est alors évalué selon cinq critères : stratégie, finances, gouvernance, réalisation et planning.
 
 L'avis est accompagné, le cas échéant, de recommandations mettant en avant les axes d'améliorations à prendre en compte pour le bon déroulement du projet. Tous les projets déclarés conformes sont ensuite suivis dans le [panorama des grands projets du SI de l’État](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/) que la DINUM publie depuis novembre 2016.
 
 Dans une volonté de transparence et d’ouverture, et dans la continuité de la loi pour une République numérique, la liste de ces avis sera régulièrement mise à jour. Les avis des projets classifiés ne sont pas publiés et ceux de projets faisant l’objet de procédures d’appel d’offre à venir le seront en différé. Retrouvez également sur [data.gouv.fr l'intégralité des documents](https://www.data.gouv.fr/fr/datasets/publication-des-avis-dinsic-articles-3-et-7/) (avis + annexes) en formats .odt et .pdf.
 
-<p id="note1"><sup>(1)</sup> <i>Précédemment au titre de l'article 3 du <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029337021">décret n°2014-879</a> et de l'article 7 du <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023619023&categorieLien=cid">décret n°2011-193</a></i>
+<p id="note1"><sup>(1)</sup> <i>Précédemment au titre de l'article 7 du <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023619023&categorieLien=cid">décret n°2011-193</a> puis de l'article 3 du <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029337021">décret n°2014-879</a></i>
