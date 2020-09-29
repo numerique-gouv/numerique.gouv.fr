@@ -146,7 +146,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 
-
+<! --
 > ### Et aussi, dans d'autres administrations…<a id="offresministères"></a> 
 Zoom sur quelques postes dans le numérique public :
 > <br>
@@ -165,4 +165,4 @@ Zoom sur quelques postes dans le numérique public :
 > <br>
 > 
 >
-{: .noir .encadre}
+{: .noir .encadre}-->
