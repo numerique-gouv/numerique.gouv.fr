@@ -152,11 +152,6 @@ Zoom sur quelques postes dans le numérique public :
 > <br>
 > <br>
 >
-> **Pôle emploi**
-> * [**Directeur de la direction expérience utilisateur et du digital H/F**](/uploads/Fiche-post-Pole-emploi-direct.-exp.-utilisateur-et-digital.pdf "Directeur de la direction expérience utilisateur et du digital H/F - Télécharger le pdf") (pdf - 517&nbsp;ko)<br>
-> Cadre supérieur/Catégorie A+<br>
-> <br>
->
 >
 > **Ministère de la Transition écologique et solidaire/Ministère de la Cohésion des territoires**
 > * [**Adjoint au chef du département des solutions num. en RH H/F**](/uploads/DSNUMRH0_Adjoint-au-chef-du-d%C3%A9partement-DSNUM-en-RH.pdf "Adjoint au chef du département des solutions num. en RH H/F")<br> 
