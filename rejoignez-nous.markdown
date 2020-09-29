@@ -9,7 +9,9 @@ layout: page-annexe
 ---
 
 **Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINUM !** 
+<!--
 Retrouvez aussi [en bas de cette page](#offresministères) une sélection de postes de haut niveau dans le numérique au sein des ministères.
+-->
 <br>
 <br>
 
