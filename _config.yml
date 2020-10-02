@@ -23,6 +23,10 @@ collections:
   methode:
     title: Méthode technique
     output: true
+  outils-agents:
+    title: Outils Agents
+    output: true
+    permalink: "/outils-agents/:title/"
   pages:
     title: Pages
     output: true
@@ -33,12 +37,16 @@ collections:
     title: Posts
     output: true
   publications:
-    title: Publication
+    title: Publications
     output: true
-    permalink: "/publication/:title/"
+    permalink: "/publications/:title/"
   rgaa:
     title: RGAA
     output: true
+  services:
+    title: Services
+    output: true
+    permalink: "/services/:title/"
   uploads:
     title: Uploads
     output: true
@@ -78,6 +86,14 @@ defaults:
       nom: 
 - scope:
     path: ''
+    type: outils-agents
+  values:
+    date_de_modification: 
+    chapeau-text: 
+    une:
+      image: 
+- scope:
+    path: ''
     type: publications
   values:
     date_de_modification: 
@@ -86,6 +102,14 @@ defaults:
     - image: 
       legende: 
       alternative-textuelle: 
+- scope:
+    path: ''
+    type: services
+  values:
+    date_de_modification: 
+    chapeau-text: 
+    une:
+      image: 
 - scope:
     path: ''
     type: evenements
@@ -114,13 +138,13 @@ categories:
 - main
 language: fr
 markdown: kramdown
-description: Le site officiel de la DINSIC
+description: Le site officiel de la DINUM
 plugins:
 - sass
 - jekyll-sitemap
 - jekyll-algolia
 include:
-- ".htaccess"
+- ".well-known"
 - _pages
 exclude:
 - "/vendor/"
@@ -160,6 +184,7 @@ algolia:
   - md
   - markdown
   files_to_exclude:
+  - _rgaa/notes-revision.md
   - _pages/index.md
   - _pages/algolia.md
   - _pages/espace-presse.md

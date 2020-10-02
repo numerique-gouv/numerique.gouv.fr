@@ -14,7 +14,7 @@ $('#contact-form').submit(function(event) {
 
   axios.post('https://' + url + '/api/mail', params)
     .then(function (response) {
-      $('#message').removeClass('hide').addClass('green-message').html('Votre message à bien été envoyé')
+      $('#message').removeClass('hide').addClass('green-message').html('Votre message a bien été envoyé')
       $('input').val('')
       $('textarea').val('')
     })

@@ -49,7 +49,7 @@ layout: default
     <div class="text-center margin-top-2 padding-bottom-2 font-bold">
       <a target="_blank" class="blue-link" id="fileSize-{{ fichier.file }}-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ fichier.file }}">
         <span class="fas fa-download margin-horizontal-1"></span>
-        <span class="pdf">{{ fichier.nom }} (PDF {{ fichier.size }})</span>
+        <span class="pdf">{{ fichier.nom }} (PDF </span>
       </a>
     </div>
     {% endfor %}

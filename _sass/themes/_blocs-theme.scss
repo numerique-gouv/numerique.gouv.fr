@@ -5,6 +5,9 @@
   font-size: larger;
   border-left: none;
   color: $black;
+  &.page-mere {
+    padding: 0 12rem 3rem 10rem;
+  }
   @include breakpoint(medium down) {
     padding-left: 1rem O;
   }
@@ -115,9 +118,6 @@
   padding: 2rem;
   border-left: none;
   background-color: $bulbizarre;
-  p {
-    font-style: italic;
-  }
 }
 .credit {
    font-size: small;

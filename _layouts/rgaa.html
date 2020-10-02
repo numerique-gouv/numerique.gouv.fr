@@ -38,12 +38,20 @@ layout: default
     <div class="text-center margin-top-2 padding-bottom-2 font-bold">
       <a target="_blank" class="blue-link" id="fileSize-{{ fichier.file }}-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ fichier.file }}">
         <span class="fas fa-download margin-horizontal-1"></span>
-        <span class="pdf">{{ fichier.nom }} (PDF)</span>
+        <span class="pdf">{{ fichier.nom }} (PDF </span>
       </a>
     </div>
     {% endfor %}
   </article>
+  {% if page.affiche-fleche %}
+  <div class="arrow-container hide-for-medium-only hide-for-small-only" data-sticky-container>
+    <div class="sticky" data-sticky data-top-anchor="list-top:top" data-btm-anchor="list-bottom:bottom" data-margin-top="25" data-margin-right="2">
+      <div class="cell grid-y" data-smooth-scroll>
+        <a class="flex-container" href="#lien-fleche">
+          <img alt="Retour aux missions" class="align-middle" src="{{base}}/assets/img/pictogrammes/fleche_haut.svg">
+        </a>
+      </div>
+    </div>
+  </div>
+  {% endif %}
 </div>
-
-
-

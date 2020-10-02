@@ -7,6 +7,10 @@ plan-du-site:
     url: /agenda
   - link: Publications
     url: /publications
+  - link: Services
+    url: /services
+  - link: Outils agents
+    url: /outils-agents
   - link: Rejoignez-nous
     url: /rejoignez-nous
   - link: Espace presse
@@ -19,11 +23,23 @@ sites-references:
     url: https://data.gouv.fr/
   - link: beta.gouv.fr
     url: https://beta.gouv.fr/
+  - link: design.numerique.gouv.fr
+    url: https://design.numerique.gouv.fr
   - link: api.gouv.fr
     url: https://api.gouv.fr
   - link: Nos documents de référence
     url: https://references.modernisation.gouv.fr/
 
+outils-pour-les-agents:
+  - link: Messagerie instantanée Tchap
+    url: https://www.tchap.gouv.fr/
+  - link: Webconférence de l'État
+    url: https://webconf.numerique.gouv.fr/
+  - link: Osmose
+    url: https://osmose.numerique.gouv.fr/
+  - link: Resana
+    url: https://resana.numerique.gouv.fr/
+    
 services-usagers:
   - link: franceconnect.gouv.fr
     url: https://franceconnect.gouv.fr
@@ -31,9 +47,3 @@ services-usagers:
     url: https://demarches-simplifiees.fr
   - link: observatoire.numerique.gouv.fr
     url: https://observatoire.numerique.gouv.fr
-
-outils-pour-les-agents:
-  - link: Messagerie instantanée Tchap
-    url: https://www.tchap.gouv.fr/
-  - link: Webconférence
-    url: https://webconf.numerique.gouv.fr/

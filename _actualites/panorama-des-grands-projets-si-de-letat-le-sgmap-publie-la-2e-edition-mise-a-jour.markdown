@@ -3,8 +3,9 @@ title: 'Panorama des grands projets SI de l’État : le SGMAP publie la 2e édi
   mise à jour'
 date: 2017-03-15 14:23:00 +01:00
 tags:
-- panorama des grands projets SI
-- système d'information
+- Panorama des grands projets numériques de l'État
+- Sécurisation
+- Informatique
 chapeau-text: En novembre 2016, le SGMAP rendait publique la liste détaillée des grands
   projets du système d’information (SI) de l'Etat. Utilisé pour prioriser les actions
   facilitant la réussite de ces projets, ce panorama est actualisé trois fois par

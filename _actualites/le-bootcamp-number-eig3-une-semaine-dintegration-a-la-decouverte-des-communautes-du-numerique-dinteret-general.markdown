@@ -6,6 +6,7 @@ categories:
 - Article
 tags:
 - Etalab
+- Entrepreneurs d'Intérêt Général
 chapeau-text: Du 11 au 15 février 2019, les 32 nouveaux entrepreneurs d’intérêt général
   ont participé à une semaine d’intégration (« bootcamp ») organisée par Etalab. Cette
   semaine a officiellement lancé la 3ème promotion du programme et a permis aux EIG
@@ -15,7 +16,9 @@ chapeau-text: Du 11 au 15 février 2019, les 32 nouveaux entrepreneurs d’inté
   qui leur seront nécessaires tout au long de leur défi.
 une-ou-diaporama:
 - image: "/uploads/assembl%C3%A9e-nationale1-1024x683.jpg"
-auteur: Etalab
+auteur: Etalab.gouv.fr
 redirection: https://www.etalab.gouv.fr/eig3-une-semaine-dintegration-a-la-decouverte-des-communautes-du-numerique-dinteret-general
 ---
 
+> [Lire la suite sur etalab.gouv.fr](https://www.etalab.gouv.fr/eig3-une-semaine-dintegration-a-la-decouverte-des-communautes-du-numerique-dinteret-general)
+{: .lien-important}

@@ -18,3 +18,5 @@ auteur: Etalab.gouv.fr
 redirection: https://www.etalab.gouv.fr/entrepreneur%c2%b7e-dinteret-general-vous-presente-sa-3eme-promotion/
 ---
 
+> [Lire la suite sur Etalab.gouv.fr](https://www.etalab.gouv.fr/entrepreneur%c2%b7e-dinteret-general-vous-presente-sa-3eme-promotion/)
+{: .lien-important}

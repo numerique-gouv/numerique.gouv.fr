@@ -22,7 +22,7 @@ une-ou-diaporama:
   alternative-textuelle: Logo TECH.GOUV
 ---
 
-> [Découvrir la stratégie 2019-2021 du programme TECH.GOUV](/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/)
+> [Découvrir la stratégie 2019-2021 du programme TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)
 {: .lien-important}
 <br>
 

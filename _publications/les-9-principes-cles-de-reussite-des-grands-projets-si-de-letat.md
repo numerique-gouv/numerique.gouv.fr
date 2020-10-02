@@ -4,7 +4,7 @@ date: 2018-11-13 11:44:00 +01:00
 permalink: "/publications/principes-reussite-grands-projets-si-etat/"
 position: 3
 chapeau-text: Proximité avec les usagers, droit à l'erreur, méthodes agiles... La
-  DINSIC détaille les 9 principes qui doivent guider les projets informatiques dans
+  DINUM détaille les 9 principes qui doivent guider les projets informatiques dans
   l'administration.
 une:
   image: "/uploads/9-principes-reussite-grands-projets-SI_fille.jpg"
@@ -54,11 +54,11 @@ list-items:
   title: 9 · **Exploitons tout le potentiel des données**
   content-text: Faisons le pari de construire et d’enrichir nos services autour de
     la donnée.
-pdf: "/uploads/9Principes_projets.pdf"
+file: "/uploads/9principes_reussite_projets-si-etat.pdf"
 layout: liste-detaillee
 ---
 
-Réussir la transformation du système d’information (SI) de l’Etat est l'une des conditions majeures pour créer de nouveaux services, accompagner la simplification des relations entre les citoyens et l’Etat, favoriser de nouvelles formes d’engagement et confirmer la stratégie d'Etat plateforme au service de la souveraineté économique et de l’autonomie des citoyens. Or le SI de l’Etat se structure autour de projets souvent complexes et aux dimensions hors normes. **Leur réussite exige donc, à tous les niveaux de responsabilité, de mobiliser des principes communs, fondés sur l’expérience, pour en maîtriser les risques.**
+Réussir la transformation du système d’information (SI) de l’État est l'une des conditions majeures pour créer de nouveaux services, accompagner la simplification des relations entre les citoyens et l’État, favoriser de nouvelles formes d’engagement et confirmer la stratégie d’État plateforme au service de la souveraineté économique et de l’autonomie des citoyens. Or le SI de l’État se structure autour de projets souvent complexes et aux dimensions hors normes. **Leur réussite exige donc, à tous les niveaux de responsabilité, de mobiliser des principes communs, fondés sur l’expérience, pour en maîtriser les risques.**
 
 Ces principes placent la résolution des problèmes des utilisateurs et la responsabilisation des acteurs du projet au cœur de la démarche. Ils guideront désormais la conception et l’analyse des projets à venir. 
-Ces principes sont également disponibles sur le site des documents de référence du SI de l’Etat [references.modernisation.gouv.fr](references.modernisation.gouv.fr){:target="_blank"}.
+Ces principes sont également disponibles sur le site des documents de référence du SI de l’État [references.modernisation.gouv.fr](references.modernisation.gouv.fr){:target="_blank"}.

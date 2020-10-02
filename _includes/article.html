@@ -19,7 +19,7 @@
     {% for tag in page.tags %}
     <li>
       {{  page.collection.url-collection }}
-      <a href="{{ 'espace-presse' | append: '/?tags=' | append:tag | append:'#list-post' | remove:'\n' | relative_url }}">
+      <a href="{{ page.collection | append: '/?tags=' | append:tag | append:'#list-post' | remove:'\n' | relative_url }}">
         #{{ tag | capitalize }}
       </a>
     </li>
