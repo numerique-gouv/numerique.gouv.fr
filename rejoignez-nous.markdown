@@ -9,9 +9,9 @@ layout: page-annexe
 ---
 
 **Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINUM !** 
-<!--
+
 Retrouvez aussi [en bas de cette page](#offresministères) une sélection de postes de haut niveau dans le numérique au sein des ministères.
--->
+
 <br>
 <br>
 
@@ -148,24 +148,24 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 
-<!--
+
 > ### Et aussi, dans d'autres administrations…<a id="offresministères"></a> 
 Zoom sur quelques postes dans le numérique public :
 > <br>
 > <br>
 >
 >
-> **Ministère de la Transition écologique et solidaire/Ministère de la Cohésion des territoires**
-> * [**Adjoint au chef du département des solutions num. en RH H/F**](/uploads/DSNUMRH0_Adjoint-au-chef-du-d%C3%A9partement-DSNUM-en-RH.pdf "Adjoint au chef du département des solutions num. en RH H/F")<br> 
-> Cadre supérieur/Catégorie A+<br>
+> **Direction générale des finances publiques (DGFiP)**
+> * [**Chef de projet / chargé de mission - Mission France Recouvrement F/H**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064 "Chef de projet / chargé de mission F/H")<br> 
+> Cadre/Catégorie A<br>
+> Poste basé à Montreuil (93)
 > <br>
 >
 > 
-> * [**Chef de projet maîtrise d’ouvrage de solutions numériques RH H/F**](/uploads/DSNUMRH2-12VA090008-SRI201-22-Chef-de-projet-solutions-numeriques-RH.pdf "Chef de projet maîtrise d’ouvrage de solutions numériques RH H/F - Télécharger le pdf") (pdf - 130&nbsp;ko)<br>
+> * [**Rédacteur/rédactrice MOA - Mission France Recouvrement**](https://www.place-emploi-public.gouv.fr/offre-emploi/redacteurrice-moa-reference-2020-472628 "Rédacteur/rédactrice MOA - Mission France Recouvrement") <br>
 > Cadre/Catégorie A<br>
-> Poste basé à La Défense (92)
+> Poste basé à Montreuil (93)
 > <br>
 > 
 >
 {: .noir .encadre}
--->
