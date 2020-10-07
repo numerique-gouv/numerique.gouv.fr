@@ -11,7 +11,6 @@ layout: page-annexe
 **Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINUM !** 
 
 Retrouvez aussi [en bas de cette page](#offresministères) une sélection de postes de haut niveau dans le numérique au sein des ministères.
-
 <br>
 <br>
 
@@ -24,7 +23,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 
-### Nos offres d'emploi actuellement disponibles à la DINUM :
+## Nos offres d'emploi actuellement disponibles à la DINUM :
 {: .margin-top-4 .margin-bottom-0} 
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1} 
@@ -118,7 +117,8 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 -->
-## Budget/Marchés
+### Budget/Marchés
+{: .margin-top-4 .margin-bottom-1}
 * [**Chargé de mission gestion budgétaire et financière H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-gestion-budgetaire-et-financiere-hf-reference-2020-468472)
 <br>Cadre/Catégorie A
 <br>
