@@ -55,7 +55,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 * [**Chef de projet Résilience RIE – Équipements d'extrémité (Box résiliente) H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--equipements-d-extremite-box-resiliente-hf-reference-2020-468354)
 <br>Cadre/Catégorie A
-<br><br>Poste pouvant être basé à Paris ou en Ille et Vilaine (35) selon le candidat
+<br>Poste pouvant être basé à Paris ou en Ille et Vilaine (35) selon le candidat
 <br>
 <br>
 
@@ -70,10 +70,15 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-### Sécurité
+### Sécurité et architecture
 {: .margin-top-4 .margin-bottom-1}
 * [**Responsable de la Sécurité des systèmes d'information H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-fh-reference-2020-430437)
 <br>Cadre/Catégorie A
+<br>
+<br>
+
+* [**Chef/cheffe du pôle Architecture et sécurité**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-architecture-et-securite-hf-reference-2020-444590)
+<br>Cadre supérieur/Catégorie A+
 <br>
 <br>
 
