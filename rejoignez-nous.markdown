@@ -55,7 +55,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 * [**Chef de projet Résilience RIE – Équipements d'extrémité (Box résiliente) H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--equipements-d-extremite-box-resiliente-hf-reference-2020-468354)
 <br>Cadre/Catégorie A
-<br><br>Poste pouvant être basé à Paris ou en Ille et Vilaine (35) selon le candidat
+<br>Poste pouvant être basé à Paris ou en Ille et Vilaine (35) selon le candidat
 <br>
 <br>
 
