@@ -160,7 +160,7 @@ Zoom sur quelques postes dans le numérique public :
 > Cadre/Catégorie A<br>
 > Poste basé à Montreuil (93)
 > <br>
->
+> <br>
 > 
 > * [**Rédacteur/rédactrice MOA - Mission France Recouvrement**](https://www.place-emploi-public.gouv.fr/offre-emploi/redacteurrice-moa-reference-2020-472628 "Rédacteur/rédactrice MOA - Mission France Recouvrement") <br>
 > Cadre/Catégorie A<br>
