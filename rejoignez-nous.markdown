@@ -34,30 +34,23 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
+### Réseau
+{: .margin-top-4 .margin-bottom-1}
+* [**Chef du pôle Pilotage de la qualité et des partenariats et adjoint au Chef du département Infrastructures et services opérés H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-pilotage-de-la-qualite-et-des-partenariats-et-adjointe-au-chef-du-departement-iso-hf-reference-2020-464601)
+<br>Cadre/Catégorie A
+<br>Poste pouvant être basé à Paris ou en Ille et Vilaine (35) selon le candidat
+<br>
+<br>
+
 * [**Chef de projet Résilience RIE – Gouvernance SSI H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--gouvernance-ssi-hf-reference-2020-469099)
 <br>Cadre/Catégorie A
-<br>Poste basé dans le Rhône (69)
+<br>Poste pouvant être basé à Paris ou à Lyon (69) selon le candidat
 <br>
 <br>
 
-* [**Chef de projet Résilience RIE – Gouvernance SSI H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--gouvernance-ssi-hf-reference-2020-469091)
+* [**Chef de projet Résilience RIE – Équipements d'extrémité (Box résiliente) H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--equipements-d-extremite-box-resiliente-hf-reference-2020-468354)
 <br>Cadre/Catégorie A
-<br>
-<br>
-
-* [**Chef de projet Résilience RIE – Equipements d'extrémité (Box résiliente) H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--equipements-d-extremite-box-resiliente-hf-reference-2020-468354)
-<br>Cadre/Catégorie A
-<br>Poste basé en Ille et Vilaine (35)
-<br>
-<br>
-
-* [**Chef de projet Résilience RIE – Equipements d'extrémité (Box résiliente) H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--equipements-d-extremite-box-resiliente-fh-hf-reference-2020-468348)
-<br>Cadre/Catégorie A
-<br>
-<br>
-
-* [**Chef du département « performance des services numériques » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-du-departement--performance-des-services-numeriques--hf-reference-2020-468306)
-<br>Encadrement supérieur/Catégorie A+
+<br><br>Poste pouvant être basé à Paris ou en Ille et Vilaine (35) selon le candidat
 <br>
 <br>
 
@@ -68,7 +61,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 * [**Chef de projet Résilience RIE – Plateforme « Flux critiques » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--plateforme--flux-critiques--hf-reference-2020-468377)
 <br>Cadre/Catégorie A
-<br>Poste basé en Ille et Vilaine (35)
+<br>Poste pouvant être basé à Paris ou en Ille et Vilaine (35) selon le candidat
 <br>
 <br>
 
@@ -88,15 +81,18 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
+### Produits numériques
+{: .margin-top-4 .margin-bottom-1}
+* [**Chef du département « performance des services numériques » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-du-departement--performance-des-services-numeriques--hf-reference-2020-468306)
+<br>Encadrement supérieur/Catégorie A+
+<br>
+<br>
+
 * [**Directeur programme interministériel « Environnement de Travail Numérique des Agents H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-programme-interministeriel--environnement-de-travail-numerique-des-agents-hf-reference-2020-468464)
 <br>Cadre/Catégorie A
 <br>
 <br>
 
-* [**Chargé de mission gestion budgétaire et financière H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-gestion-budgetaire-et-financiere-hf-reference-2020-468472)
-<br>Cadre/Catégorie A
-<br>
-<br>
 <!--
 * [**Chef de projet, responsable du guichet « GovTech » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-responsable-du-guichet--govtech--hf-reference-2020-460346)
 <br>Cadre/Catégorie A
@@ -108,16 +104,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-* [**Chef du pôle Pilotage de la qualité et des partenariats et adjoint au Chef du département ISO H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-pilotage-de-la-qualite-et-des-partenariats-et-adjointe-au-chef-du-departement-iso-hf-reference-2020-464601)
-<br>Cadre/Catégorie A
-<br>
-<br>
 
-* [**Chef du pôle Pilotage de la qualité et des partenariats et adjoint au Chef du département ISO H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-pilotage-de-la-qualite-et-des-partenariats-et-adjointe-au-chef-du-departement-iso-hf-reference-2020-464615)
-<br>Cadre/Catégorie A
-<br>Poste basé en Ille et Vilaine (35)
-<br>
-<br>
 
 * [**Directeur de projet Interministériel – Produits Numériques H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet-interministeriel--produits-numeriques-fh-reference-2020-430476)
 <br>Cadre/Catégorie A
@@ -129,19 +116,22 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-{: .margin-top-4 .margin-bottom-1}
 * [**Directeur de projet – Performance des projets numériques de l’État H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet--performance-des-projets-numeriques-de-l-etat-hf-reference-2020-425150)
 <br>Cadre/Catégorie A
 <br>
 <br>
 <!--
-{: .margin-top-4 .margin-bottom-1}
 * [**Chargé/Chargée des produits labellisés**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-des-produits-labellises-hf-reference-2020-377221)
 <br>Cadre/Catégorie A
 <br>
 <br>
 -->
-{: .margin-top-4 .margin-bottom-1}
+## Budget/Marchés
+* [**Chargé de mission gestion budgétaire et financière H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-gestion-budgetaire-et-financiere-hf-reference-2020-468472)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
 * [**Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-de-mission--resilience-du-reseau-interministeriel-de-l-etat--hf-reference-2020-374091)
 <br>Cadre/Catégorie A
 <br>
