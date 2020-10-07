@@ -97,13 +97,13 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 <br>
 <br>
-
+<!--
 * [**Chef de projet, responsable du guichet « GovTech » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-responsable-du-guichet--govtech--hf-reference-2020-460346)
 <br>Cadre/Catégorie A
 <br>
 <br>
-
-* [**Chef du pôle Réseau interministériel de l'Etat et Services opérés d'infrastructure H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-reseau-interministeriel-de-l-etat-et-services-operes-d-infrastructure-hf-reference-2020-464626)
+-->
+* [**Chef du pôle Réseau interministériel de l’État et Services opérés d'infrastructure H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-reseau-interministeriel-de-l-etat-et-services-operes-d-infrastructure-hf-reference-2020-464626)
 <br>Cadre/Catégorie A
 <br>
 <br>
@@ -119,7 +119,7 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-* [**Directeur de Projet Interministériel – Produits Numériques H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet-interministeriel--produits-numeriques-fh-reference-2020-430476)
+* [**Directeur de projet Interministériel – Produits Numériques H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet-interministeriel--produits-numeriques-fh-reference-2020-430476)
 <br>Cadre/Catégorie A
 <br>
 <br>
@@ -134,13 +134,13 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>Cadre/Catégorie A
 <br>
 <br>
-
+<!--
 {: .margin-top-4 .margin-bottom-1}
 * [**Chargé/Chargée des produits labellisés**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-des-produits-labellises-hf-reference-2020-377221)
 <br>Cadre/Catégorie A
 <br>
 <br>
-
+-->
 {: .margin-top-4 .margin-bottom-1}
 * [**Chargé/Chargée de mission « Résilience du Réseau Interministériel de l’État »**](https://www.place-emploi-public.gouv.fr/offre-emploi/charge-de-mission--resilience-du-reseau-interministeriel-de-l-etat--hf-reference-2020-374091)
 <br>Cadre/Catégorie A
