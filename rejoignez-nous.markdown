@@ -59,14 +59,14 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-* [**Architecte technique Résilience RIE – Boucle optique H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-technique-resilience-rie--boucle-optique-hf-reference-2020-468364)
-<br>Cadre/Catégorie A
-<br>
-<br>
-
 * [**Chef de projet Résilience RIE – Plateforme « Flux critiques » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--plateforme--flux-critiques--hf-reference-2020-468377)
 <br>Cadre/Catégorie A
 <br>Poste pouvant être basé à Paris ou en Ille et Vilaine (35) selon le candidat
+<br>
+<br>
+
+* [**Architecte technique Résilience RIE – Boucle optique H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-technique-resilience-rie--boucle-optique-hf-reference-2020-468364)
+<br>Cadre/Catégorie A
 <br>
 <br>
 
