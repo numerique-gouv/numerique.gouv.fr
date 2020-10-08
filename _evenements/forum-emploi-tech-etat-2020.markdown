@@ -35,4 +35,3 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 En raison du contexte sanitaire, le format de ce rendez-vous incontournable de l’emploi public dans la tech vous est proposé **entièrement en ligne !**
  
 Ce forum regroupera **plus de 30 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, proposant plus de 350 postes à pourvoir en région et en Île-de-France. 
-
