@@ -15,7 +15,7 @@ une-ou-diaporama:
 - image: "/uploads/2020_05_14_Article-forum_recrutement_800x430.jpg"
 event_start_date: 2020-11-26 00:00:00 +01:00
 champs_informations:
-- intitule: Plus d'informations pratiques à venir
+- intitule: Programme et lien d’inscription au forum virtuel à venir
 ---
 
 ### Plus de 350 postes à pourvoir
@@ -36,7 +36,3 @@ En raison du contexte sanitaire, le format de ce rendez-vous incontournable de l
  
 Ce forum regroupera **plus de 30 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, proposant plus de 350 postes à pourvoir en région et en Île-de-France. 
 
-
-> ** Programme et lien d’inscription au forum virtuel à venir **
-> {: .margin-top-1 .margin-bottom-1 .text-center} 
-{: .encadre}
