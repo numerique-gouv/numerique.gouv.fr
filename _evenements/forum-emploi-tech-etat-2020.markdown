@@ -6,10 +6,10 @@ categories:
 tags:
 - Emploi
 - RH
-chapeau-text: "En novembre, la direction interministérielle du numérique (DINUM) organise
+chapeau-text: 'En novembre, la direction interministérielle du numérique (DINUM) organise
   la 4e édition du Forum de l’emploi tech de l’État, cette année 100% en ligne. L’occasion
   de faire se rencontrer recruteurs du secteur public (ministères, collectivités territoriales…)
-  et candidats professionnels du numérique, issus du public ou du privé. \n"
+  et candidats professionnels du numérique, issus du public ou du privé. '
 categorie: Forum virtuel
 une-ou-diaporama:
 - image: "/uploads/2020_05_14_Article-forum_recrutement_800x430.jpg"
