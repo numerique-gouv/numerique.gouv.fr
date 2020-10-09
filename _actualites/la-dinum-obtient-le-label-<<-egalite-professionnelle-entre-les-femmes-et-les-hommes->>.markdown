@@ -8,11 +8,9 @@ tags:
 - Talents
 - Égalité femmes hommes
 - Emploi
-chapeau-text: La direction interministérielle du numérique (DINUM) est fière d’annoncer
+chapeau-text: 'La direction interministérielle du numérique (DINUM) est fière d’annoncer
   l’obtention par les services du Premier ministre, dont elle fait partie, du label
-  Égalité professionnelle entre les femmes et les hommes. Celui-ci a été délivré par
-  l’organisme AFNOR Certification à l’issue d’une commission qui s’est réunie le 10
-  septembre 2020.
+  Égalité professionnelle entre les femmes et les hommes. '
 une-ou-diaporama:
 - image: "/uploads/Egalite_diversite.jpg"
 ---
@@ -32,9 +30,11 @@ cursor: pointer;
 }
 </style>
 
-Ce label reconnaît les mesures mises en œuvre depuis plusieurs années pour favoriser l’égalité et la mixité au sein des services et l’engagement de ceux-ci dans ces domaines. Ces mesures s’articulent autour de quatre axes principaux : renforcer la mixité des métiers et des parcours professionnels, étudier, traiter et prévenir les écarts de rémunération entre femmes et hommes, favoriser la conciliation des temps de vie professionnelle et privée, prévenir et lutter contre les agissements sexistes et les violences sexuelles.
+Ce label a été délivré par l’organisme AFNOR Certification à l’issue d’une commission qui s’est réunie le 10 septembre 2020. Il reconnaît les mesures mises en œuvre depuis plusieurs années pour favoriser l’égalité et la mixité au sein des services du Premier ministre et leur engagement dans ces domaines. 
 
-Particulièrement engagée sur le sujet, la DINUM a pris une part active dans l’obtention de ce label. Le développement de la mixité des fonctions numériques au sein de l’État est un enjeu majeur pour développer le bien-être au travail et l’attractivité de l’État en tant qu’employeur de métiers numériques. Il constitue l’un des axes stratégiques du programme TECH.GOUV d’accélération de la transformation numérique de l’État.
+Ces mesures s’articulent autour de quatre axes principaux : renforcer la mixité des métiers et des parcours professionnels, étudier, traiter et prévenir les écarts de rémunération entre femmes et hommes, favoriser la conciliation des temps de vie professionnelle et privée, prévenir et lutter contre les agissements sexistes et les violences sexuelles.
+
+Particulièrement engagée sur le sujet, la DINUM a pris une part active dans l’obtention de ce label. Le développement de la mixité des fonctions numériques au sein de l’État est un enjeu majeur pour développer le bien-être au travail et l’attractivité de l’État en tant qu’employeur dans les métiers numériques. Il constitue l’un des axes stratégiques du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique de l’État.
 
 
 <div align="center">
