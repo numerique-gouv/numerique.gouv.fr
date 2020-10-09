@@ -35,7 +35,7 @@ Ce label a été délivré par l’organisme AFNOR Certification à l’issue d�
 Ces mesures s’articulent autour de quatre axes principaux : renforcer la mixité des métiers et des parcours professionnels, étudier, traiter et prévenir les écarts de rémunération entre femmes et hommes, favoriser la conciliation des temps de vie professionnelle et privée, prévenir et lutter contre les agissements sexistes et les violences sexuelles.
 
 Particulièrement engagée sur le sujet, la DINUM a pris une part active dans l’obtention de ce label. Le développement de la mixité des fonctions numériques au sein de l’État est un enjeu majeur pour développer le bien-être au travail et l’attractivité de l’État en tant qu’employeur dans les métiers numériques. Il constitue l’un des axes stratégiques du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique de l’État.
-
+<br>
 
 <div align="center">
 <p align="center"><b>Envie de nous rejoindre ?</b></p>
