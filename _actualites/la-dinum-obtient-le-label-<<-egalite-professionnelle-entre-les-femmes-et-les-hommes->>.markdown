@@ -38,6 +38,6 @@ Particulièrement engagée sur le sujet, la DINUM a pris une part active dans l�
 
 
 <div align="center">
-<p align="center">Envie de nous rejoindre ?</p>
-<br><a href="/rejoignez-nous/" class="button"><b>Retrouvez toutes nos offres d’emploi</b></a>
+<p align="center"><b>Envie de nous rejoindre ?</b></p>
+<a href="/rejoignez-nous/" class="button"><b>Retrouvez toutes nos offres d’emploi</b></a>
 </div>
