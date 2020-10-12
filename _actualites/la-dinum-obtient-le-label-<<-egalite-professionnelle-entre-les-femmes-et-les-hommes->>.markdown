@@ -12,7 +12,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) est fière
   l’obtention par les services du Premier ministre, dont elle fait partie, du label
   Égalité professionnelle entre les femmes et les hommes. '
 une-ou-diaporama:
-- image: "/uploads/Egalite_diversite.jpg"
+- image: "/uploads/Article_egalite.jpg"
 ---
 
 <style>
