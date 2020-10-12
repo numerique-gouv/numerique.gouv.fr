@@ -1,7 +1,7 @@
 ---
 title: La DINUM obtient le label « Égalité professionnelle entre les femmes et les
   hommes »
-date: 2020-10-09 10:42:00 +02:00
+date: 2020-10-12 08:42:00 +02:00
 categories:
 - Brève
 tags:
