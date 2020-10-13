@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '7 octobre 2020 '
+date_de_modification: '13 octobre 2020 '
 layout: page-annexe
 ---
 
@@ -72,11 +72,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 ### Sécurité et architecture
 {: .margin-top-4 .margin-bottom-1}
-* [**Responsable de la Sécurité des systèmes d'information H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-fh-reference-2020-430437)
-<br>Cadre/Catégorie A
-<br>
-<br>
-
 * [**Chef/cheffe du pôle Architecture et sécurité**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-architecture-et-securite-hf-reference-2020-444590)
 <br>Cadre supérieur/Catégorie A+
 <br>
@@ -102,11 +97,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 * [**Directeur de projet Interministériel – Produits Numériques H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet-interministeriel--produits-numeriques-fh-reference-2020-430476)
-<br>Cadre/Catégorie A
-<br>
-<br>
-
-* [**Directeur de projet – Performance des projets numériques de l’État H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-de-projet--performance-des-projets-numeriques-de-l-etat-hf-reference-2020-425150)
 <br>Cadre/Catégorie A
 <br>
 <br>
