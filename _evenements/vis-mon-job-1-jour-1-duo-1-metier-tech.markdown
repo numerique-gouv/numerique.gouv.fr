@@ -52,7 +52,7 @@ Tu trouveras la liste complète via le bouton plus bas.
 * Commission nationale de l'informatique et des libertés (CNIL)
 * Solidarités et Santé
 * Éducation nationale
-* Direction du numérique du ministère de l'europe et des affaires étrangères 
+* Direction du numérique du ministère de l'Europe et des Affaires étrangères 
 * Direction interministérielle du numérique (DINUM)
 * ...
 <br>
