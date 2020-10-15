@@ -40,12 +40,13 @@ Lancée par le ministère de la Transformation et de la Fonction publiques et le
 
 Data scientists, chefs de projet IT, architectes techniques, concepteurs-développeurs, DSI ou encore RSSI en devenir auront, lors de cette journée, l’occasion exceptionnelle de découvrir comment le savoir-faire qu’ils acquièrent au cours de leur cursus universitaire s’applique à travers des projets de l’État de grande ampleur et à impact majeur pour les administrés dont ils font partie. Intéressés pour explorer la culture tech de l’État, sa capacité d’innovation, la diversité des projets et découvrir, de l’intérieur, le métier, le quotidien et l’environnement de travail des agents publics experts du numérique, les étudiantes et étudiants volontaires, en master 1 ou 2 dans le numérique, sont invités à [s’inscrire dès maintenant en ligne](https://www.numerique.gouv.fr/agenda/vis-mon-job-1-jour-1-duo-1-metier-tech/). Selon les places disponibles, ils seront recontactés par l’administration d’accueil et bénéficieront, le 5 novembre prochain, d’une immersion unique auprès d’un des 80 ambassadeurs experts public de la tech. 
 
-[Découvrir les métiers proposés et administrations participantes](https://www.numerique.gouv.fr/agenda/vis-mon-job-1-jour-1-duo-1-metier-tech/) | [En savoir plus ](https://www.numerique.gouv.fr/actualites/lancement-de-vis-mon-job-des-etudiants-a-la-rencontre-des-professionnels-du-numerique-de-letat/)
-Restez connectés sur Twitter LinkedIn 
+**[Découvrir les métiers proposés et administrations participantes](https://www.numerique.gouv.fr/agenda/vis-mon-job-1-jour-1-duo-1-metier-tech/) | [En savoir plus ](https://www.numerique.gouv.fr/actualites/lancement-de-vis-mon-job-des-etudiants-a-la-rencontre-des-professionnels-du-numerique-de-letat/)
+Restez connectés sur Twitter LinkedIn** 
 
 > Pour réussir la transformation numérique de l’État, nous avons besoin de faire venir plus de talents du numérique dans les administrations. Je me réjouis donc de cette initiative permettant à des étudiants de découvrir les métiers passionnants du service public et j’espère qu’elle créera des vocations. 
 
 **Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques**
+
 
 *Des photos et contacts pour témoignages peuvent être transmis sur demande.
 
