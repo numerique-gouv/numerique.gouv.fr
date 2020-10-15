@@ -17,9 +17,9 @@ une-ou-diaporama:
 event_start_date: 2030-11-01 00:00:00 +01:00
 event_end_date: 0009-11-30 23:09:21 +00:09
 champs_informations:
-- intitule: "Programme et lien d’inscription au forum virtuel à venir très prochainement
-    \nOuverture des inscriptions au jobdating et aux conférences à partir du 4 novembre
-    et jusqu’au 27 novembre 2020."
+- intitule: 'Programme et lien d’inscription au forum virtuel à venir très prochainement '
+- intitule: Ouverture des inscriptions au jobdating et aux conférences à partir du
+    4 novembre et jusqu’au 27 novembre 2020
 ---
 
 ### Plus de 350 postes à pourvoir
