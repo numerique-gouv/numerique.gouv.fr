@@ -2,7 +2,7 @@
 title: 'Vis mon job : 1 jour, 1 duo, 1 métier tech : le 5 novembre 2020, étudiantes
   et étudiants dans le numérique invités à pousser les portes de l’État pour découvrir
   la diversité de ses opportunités tech'
-date: 2020-10-15 21:33:00 +02:00
+date: 2020-10-15 21:35:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -35,7 +35,7 @@ Le 5 novembre 2020 à travers toute la France, l’État lance pour la première
 
 **ATTIRER DES TALENTS DU NUMÉRIQUE : LA PRIORITÉ DE L’ÉTAT DANS TOUS LES TERRITOIRES**
 
-Lancée par le ministère de la Transformation et de la Fonction publiques et le ministère de l’Économie, des Finances et de la Relance, cette opération pilotée par la direction interministérielle du numérique (DINUM) s’inscrit dans la volonté de l’État de doter son administration d’une solide politique RH visant à réinternaliser et renforcer une partie des fonctions stratégiques du numérique. L’objectif assumé est ainsi d’attirer la future génération de spécialistes au sein des ministères et administrations qui intègrent le numérique dans leur réflexions d’accessibilité, de simplification, d’inclusion et d’efficience dans un contexte où le marché de l’emploi est particulièrement tendu dans le domaine de la tech. 
+Lancée par le ministère de la Transformation et de la Fonction publiques et le ministère de l’Économie, des Finances et de la Relance, cette opération, pilotée par la direction interministérielle du numérique (DINUM), s’inscrit dans la volonté de l’État de doter son administration d’une solide politique RH visant à réinternaliser et renforcer une partie des fonctions stratégiques du numérique. L’objectif assumé est ainsi d’attirer la future génération de spécialistes au sein des ministères et administrations qui intègrent le numérique dans leur réflexions d’accessibilité, de simplification, d’inclusion et d’efficience dans un contexte où le marché de l’emploi est particulièrement tendu dans le domaine de la tech. 
 
 **UNE OCCASION UNIQUE DE DÉCOUVRIR EN IMMERSION LES OPPORTUNITÉS TECH OFFERTES PAR L’ÉTAT**
 
