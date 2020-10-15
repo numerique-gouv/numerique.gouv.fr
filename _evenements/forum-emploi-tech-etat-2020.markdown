@@ -14,9 +14,12 @@ chapeau-text: 'En novembre, la direction interministérielle du numérique (DINU
 categorie: Forum virtuel
 une-ou-diaporama:
 - image: "/uploads/2020_05_14_Article-forum_recrutement_800x430.jpg"
-event_start_date: 2020-11-26 00:00:00 +01:00
+event_start_date: 2020-11-30 00:00:00 +01:00
+event_end_date: 2020-12-09 00:00:00 +01:00
 champs_informations:
-- intitule: Programme et lien d’inscription au forum virtuel à venir
+- contenu: 'Programme et lien d’inscription au forum virtuel à venir très prochainement '
+- contenu: Ouverture des inscriptions au jobdating et aux conférences à partir du
+    4 novembre et jusqu’au 27 novembre 2020
 ---
 
 ### Plus de 350 postes à pourvoir
