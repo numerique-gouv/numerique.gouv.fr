@@ -2,8 +2,8 @@
 title: "VIS MON JOB : 1 JOUR, 1 DUO, 1 MÉTIER TECH : \nLE 5 NOVEMBRE 2020, ÉTUDIANTES
   ET ÉTUDIANTS DANS LE NUMÉRIQUE INVITÉS À POUSSER LES PORTES DE L’ÉTAT POUR DÉCOUVRIR
   LA DIVERSITÉ DE SES OPPORTUNITÉS TECH"
-date: 2020-10-15 19:26:00 +02:00
-chapeau-text: 'Le 5 novembre 2020 à travers toute la France, l’État lance pour la
+date: 2020-10-15 19:27:00 +02:00
+chapeau-text: "**Le 5 novembre 2020 à travers toute la France, l’État lance pour la
   première fois en interministériel l’opération « Vis mon job » qui permettra à de
   jeunes et futurs talents du numérique de vivre une expérience inédite d’immersion
   aux côtés d’agents de l’État spécialisés dans la tech. Le principe : les étudiantes
@@ -11,7 +11,7 @@ chapeau-text: 'Le 5 novembre 2020 à travers toute la France, l’État lance po
   opération sont invités à se faire connaître pour former, avec un agent de l’État,
   un duo afin de découvrir les opportunités professionnelles que proposent les administrations
   centrales et territoriales dans des domaines aussi prometteurs qu’indispensables
-  à la transformation de l’État.'
+  à la transformation de l’État.**"
 une-ou-diaporama:
 - image: "/uploads/2020_07_24_Article_Vis_mon_job_2.png"
 contact-presse:
