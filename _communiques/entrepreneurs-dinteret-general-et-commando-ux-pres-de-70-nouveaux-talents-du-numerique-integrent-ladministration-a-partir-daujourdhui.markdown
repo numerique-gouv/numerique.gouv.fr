@@ -1,7 +1,7 @@
 ---
 title: 'Entrepreneurs d’Intérêt Général et Commando UX : Près de 70 nouveaux talents
   du numérique intègrent l’administration à partir d’aujourd’hui'
-date: 2020-05-04 21:54:00 +02:00
+date: 2020-09-01 21:54:00 +02:00
 categories:
 - Communiqué de presse
 tags:
