@@ -2,7 +2,7 @@
 title: 'Vis mon job : 1 jour, 1 duo, 1 métier tech : le 5 novembre 2020, étudiantes
   et étudiants dans le numérique invités à pousser les portes de l’État pour découvrir
   la diversité de ses opportunités tech'
-date: 2020-10-15 21:22:00 +02:00
+date: 2020-10-15 21:31:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -27,7 +27,7 @@ contact-presse:
   - 06.10.60.41.19
   email: 'floriane.beaudron@modernisation.gouv.fr '
 files:
-- file: "/uploads/CP_VIS_MON_JOB%20_1_JOUR_1_DUO_1_METIER_TECH.pdf"
+- file: "/uploads/CP_VIS_MON_JOB_1_JOUR_1_DUO_1_METIER_TECH.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
