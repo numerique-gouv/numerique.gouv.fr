@@ -1,7 +1,7 @@
 ---
 title: 'Entrepreneurs d’Intérêt Général et Commando UX : Près de 70 nouveaux talents
   du numérique intègrent l’administration à partir d’aujourd’hui'
-date: 2020-10-15 19:32:00 +02:00
+date: 2020-10-15 21:54:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -14,7 +14,7 @@ chapeau-text: "**Avec le numérique, l’État accélère sa transformation pour
   demain. Pour mener ces projets ambitieux de transformation, l’État accueille à partir
   d’aujourd’hui près de 70 talents convaincus que le numérique peut être porteur d’amélioration
   de l’action publique et souhaitant mettre leurs expertises au service de l’intérêt
-  général. **"
+  général.**"
 une-ou-diaporama:
 - image: "/uploads/20200828_Visuel_ESPACE_PRESSE_EIG-COMMANDO-UX.PNG"
 contact-presse:
