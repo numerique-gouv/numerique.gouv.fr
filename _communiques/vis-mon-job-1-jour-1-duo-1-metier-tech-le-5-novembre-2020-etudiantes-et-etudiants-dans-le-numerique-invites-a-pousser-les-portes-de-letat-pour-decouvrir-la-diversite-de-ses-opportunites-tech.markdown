@@ -1,8 +1,8 @@
 ---
-title: "VIS MON JOB : 1 JOUR, 1 DUO, 1 MÉTIER TECH : \nLE 5 NOVEMBRE 2020, ÉTUDIANTES
-  ET ÉTUDIANTS DANS LE NUMÉRIQUE INVITÉS À POUSSER LES PORTES DE L’ÉTAT POUR DÉCOUVRIR
-  LA DIVERSITÉ DE SES OPPORTUNITÉS TECH"
-date: 2020-10-15 19:30:00 +02:00
+title: 'Vis mon job : 1 jour, 1 duo, 1 métier tech : le 5 novembre 2020, étudiantes
+  et étudiants dans le numérique invités à pousser les portes de l’État pour découvrir
+  la diversité de ses opportunités tech'
+date: 2020-10-15 19:33:00 +02:00
 tags:
 - RH
 - Numérique
