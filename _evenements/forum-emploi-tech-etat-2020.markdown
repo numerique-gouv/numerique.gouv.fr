@@ -1,6 +1,6 @@
 ---
 title: Le Forum de l’emploi tech de l’État 2020
-date: 2020-10-08 19:30:00 +02:00
+date: 2020-10-08 19:48:00 +02:00
 categories:
 - forum virtuel
 tags:
@@ -17,7 +17,8 @@ une-ou-diaporama:
 event_start_date: 2020-11-30 00:00:00 +01:00
 event_end_date: 2020-12-09 00:00:00 +01:00
 champs_informations:
-- contenu: 'Programme et lien d’inscription au forum virtuel à venir très prochainement '
+- intitule: 
+  contenu: 'Programme et lien d’inscription au forum virtuel à venir très prochainement '
 - contenu: Ouverture des inscriptions au jobdating et aux conférences à partir du
     4 novembre et jusqu’au 27 novembre 2020
 ---
@@ -29,9 +30,8 @@ Vous êtes **jeune diplômé d’une école du numérique** et curieux des oppor
 
 Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
 
-> **Venez au Forum de l’emploi tech de l’État...**
 > {: .text-center}
-> ## **...et trouvez plus qu’un travail !**
+> ## **...Forum de l’emploi tech de l’État : créez le service public de demain **
 > {: .margin-top-1 .text-center} 
 {: .encadre}
 
