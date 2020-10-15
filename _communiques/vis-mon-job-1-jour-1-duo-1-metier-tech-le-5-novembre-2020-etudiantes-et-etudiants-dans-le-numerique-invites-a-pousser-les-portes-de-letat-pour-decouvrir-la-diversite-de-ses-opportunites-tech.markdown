@@ -2,7 +2,7 @@
 title: 'Vis mon job : 1 jour, 1 duo, 1 métier tech : le 5 novembre 2020, étudiantes
   et étudiants dans le numérique invités à pousser les portes de l’État pour découvrir
   la diversité de ses opportunités tech'
-date: 2020-10-15 19:54:00 +02:00
+date: 2020-10-15 20:04:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -48,6 +48,7 @@ Restez connectés sur Twitter LinkedIn**
 **Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques**
 
 
-*Des photos et contacts pour témoignages peuvent être transmis sur demande.
 
-Selon l’évolution de la situation sanitaire, un format 100% en ligne pourra être prévu pour maintenir l’opération.*
+*Des photos et contacts pour témoignages peuvent être transmis sur demande.*
+
+*Selon l’évolution de la situation sanitaire, un format 100% en ligne pourra être prévu pour maintenir l’opération.*
