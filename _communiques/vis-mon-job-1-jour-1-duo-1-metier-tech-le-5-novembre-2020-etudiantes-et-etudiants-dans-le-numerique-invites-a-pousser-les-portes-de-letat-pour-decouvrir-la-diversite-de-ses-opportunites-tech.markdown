@@ -2,7 +2,7 @@
 title: 'Vis mon job : 1 jour, 1 duo, 1 métier tech : le 5 novembre 2020, étudiantes
   et étudiants dans le numérique invités à pousser les portes de l’État pour découvrir
   la diversité de ses opportunités tech'
-date: 2020-10-15 22:11:00 +02:00
+date: 2020-10-15 22:15:00 +02:00
 categories:
 - Communiqué de presse
 tags:
@@ -42,7 +42,7 @@ Data scientists, chefs de projet IT, architectes techniques, concepteurs-dévelo
 **[Découvrir les métiers proposés et administrations participantes](https://www.numerique.gouv.fr/agenda/vis-mon-job-1-jour-1-duo-1-metier-tech/) | [En savoir plus ](https://www.numerique.gouv.fr/actualites/lancement-de-vis-mon-job-des-etudiants-a-la-rencontre-des-professionnels-du-numerique-de-letat/)
 Restez connectés sur Twitter LinkedIn** 
 
-> Pour réussir la transformation numérique de l’État, nous avons besoin de faire venir plus de talents du numérique dans les administrations. Je me réjouis donc de cette initiative permettant à des étudiants de découvrir les métiers passionnants du service public et j’espère qu’elle créera des vocations. 
+> Pour réussir la transformation numérique de l’État, nous avons besoin de faire venir plus de talents du numérique dans les administrations. Je me réjouis donc de cette initiative permettant à des étudiants de découvrir les métiers passionnants du service public et j’espère qu’elle créera des vocations.    
 
 **Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques**
 
