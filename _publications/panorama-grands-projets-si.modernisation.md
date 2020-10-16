@@ -13,8 +13,8 @@ layout: default
 {: .text-center }
 <-- changer pour : {: .text-center .padding-vertical-3} -->
 
-# texte du chapeau
-#{: .grid-container .lead .chapeau .page-mere }
+<-- texte du chapeau -->
+<-- {: .grid-container .lead .chapeau .page-mere } -->
 
 {% include components/partager.html %}
 
