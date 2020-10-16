@@ -11,7 +11,7 @@ layout: default
 
 # {{ page.title }}
 {: .text-center }
-# changer pour : {: .text-center .padding-vertical-3}
+<-- changer pour : {: .text-center .padding-vertical-3} -->
 
 # texte du chapeau
 #{: .grid-container .lead .chapeau .page-mere }
