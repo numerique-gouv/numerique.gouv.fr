@@ -11,10 +11,11 @@ layout: default
 
 # {{ page.title }}
 {: .text-center }
-<-- changer pour : {: .text-center .padding-vertical-3} -->
 
-<-- texte du chapeau -->
-<-- {: .grid-container .lead .chapeau .page-mere } -->
+<!-- changer pour : {: .text-center .padding-vertical-3} -->
+
+<!-- texte du chapeau -->
+<!-- {: .grid-container .lead .chapeau .page-mere } -->
 
 {% include components/partager.html %}
 
