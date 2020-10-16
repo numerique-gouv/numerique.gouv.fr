@@ -11,6 +11,7 @@ layout: default
 
 # {{ page.title }}
 {: .text-center }
+#{: .text-center .padding-vertical-3}
 
 {% include components/partager.html %}
 
