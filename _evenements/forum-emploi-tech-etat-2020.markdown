@@ -19,7 +19,7 @@ event_end_date: 2020-12-09 00:00:00 +01:00
 champs_informations:
 - intitule: 'Ouverture des inscriptions '
   contenu: " à partir du 4 novembre 2020 "
-- Key: 'Programme '
+- intitule: 'Programme '
   contenu: 'à venir très prochainement '
 ---
 
