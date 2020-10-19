@@ -49,11 +49,13 @@ $('.is-closed').click(function() {
 });
 $(function() {
   let hash = window.location.hash;
-  if (hash.substring(1,5) == "test") {
-    let criteriumId = "#crit-" + hash.substring(6,9);
+  if (hash !== "" && hash.substring(1,5) === "test" || hash.substring(1,5) === "crit") {
+    let criteriumId = hash.substring(6).split("-");
+    criteriumId.pop();
+    criteriumId = "#crit-" + criteriumId.join("-");
     $("article" + criteriumId +" ul.tests, article" + criteriumId +" aside").removeClass("is-hidden");
     $("article" + criteriumId + ">h4>button").changeButtonStat(true);
+    document.location.href = hash;
   }
-  document.location.href = hash;
 });
 /* Rubrique RGAA - fin */  
