@@ -278,3 +278,13 @@ footer {
   bottom: 1rem;
   right: 1rem;
 }
+
+.search-card {
+  .content {
+    display: flex;
+    flex-direction: column;
+    .category {
+      order: -1;
+    }
+  }
+}
