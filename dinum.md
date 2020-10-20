@@ -10,7 +10,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) est en cha
   des services publics numériques, création de services innovants pour les citoyens…'
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
-  alternative-textuelle: ordinateur portable
+  alternative-textuelle:
 date_de_modification: 23 juillet 2020
 layout: dinsic
 ---

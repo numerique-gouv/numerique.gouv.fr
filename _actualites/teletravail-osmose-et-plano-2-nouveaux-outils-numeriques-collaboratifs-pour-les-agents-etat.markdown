@@ -32,7 +32,7 @@ Ainsi, la DINUM lance aujourd’hui deux nouveaux outils collaboratifs dédiés 
 </figure>
 
 **La plateforme Osmose vous permet d’animer en ligne une communauté professionnelle, autour d’un projet, d’une pratique, d’une équipe, d’une direction… Vous composez votre espace collaboratif avec les fonctions qui vous intéressent : blog, partage de documents, espaces d’échanges, calendrier, gestion de tâches, wiki…**
- 
+
 Avec Osmose, vous pouvez :
 * **Créer un espace collaboratif dédié à une communauté professionnelle**, privé ou public, et y inviter des participants internes et externes à l’État (partenaires, prestataires, experts…)
 * **Partager des contenus et fichiers** : documents bureautiques, vidéos, images, liens, veille…
@@ -42,22 +42,22 @@ Avec Osmose, vous pouvez :
 * **Gérer, suivre et attribuer des tâches** (type kanban)
 * **Planifier des réunions** (sondage de dates et invitations, partage de supports associés…) avec export possible dans son agenda professionnel (Outlook, Thunderbird…)
 * Et bien d’autres fonctionnalités : sondages, enquêtes…
- 
- 
+
+
 ### Qui peut utiliser Osmose ?
 Seul un agent de l’État peut demander à créer une communauté sur Osmose. Il peut ensuite y inviter tous les membres qu’il souhaite, que la personne soit interne ou externe à l’État (agent, partenaire, prestataire, expert de la société civile…).
 
 
 ### Comment créer une communauté sur Osmose ?
 Contactez le support [**osmose.dinum@modernisation.gouv.fr**](mailto:osmose.dinum@modernisation.gouv.fr).
-	
+
 ### Comment rejoindre une communauté sur Osmose ?
 C'est l’animateur de la communauté qui peut vous y inviter. Vous devez donc le contacter pour la rejoindre, au besoin il demandera pour vous la création d'un compte.
 
 Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté d’entraide, vous faciliteront la prise en main de l’outil. Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
 <br>
 
-<a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose-home2.png" width="400" alt="Accéder à Osmose"/>
+<a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose-home2.png" width="400" title="Accéder à Osmose"/>
 </a>
 {: .text-center}
 > [**Accéder à Osmose**](https://osmose.numerique.gouv.fr/)
@@ -75,27 +75,27 @@ Des guides et tutoriels embarqués sur la plateforme, ainsi qu’une communauté
   <img src="/uploads/Plano_1122x356.png" />
 </figure>
 
-**Autre nouvel outil numérique proposé aux agents de l’État, destiné à faciliter la gestion de projet et le travail collaboratif : Plano. Cet espace de travail virtuel centralise pour tous les membres d’un projet les ressources et outils qui leur sont utiles : bibliothèque de documents, agenda, planning, tâches, tchat, visio…** 
- 
+**Autre nouvel outil numérique proposé aux agents de l’État, destiné à faciliter la gestion de projet et le travail collaboratif : Plano. Cet espace de travail virtuel centralise pour tous les membres d’un projet les ressources et outils qui leur sont utiles : bibliothèque de documents, agenda, planning, tâches, tchat, visio…**
+
 Avec Plano, vous pouvez :
 * **Créer un espace de travail dédié à votre projet** et y inviter l’ensemble des parties prenantes internes ou externes à l’État (agent, partenaire, prestataire…)
 * **Gérer votre projet** via un **diagramme de Gantt** : organiser et planifier les tâches, les corréler entre elles, en suivre l’avancement…
 * **Partager, stocker des fichiers et les organiser** en dossiers (jusqu’à 9 niveaux)
-* **Mener une visioconférence** 
+* **Mener une visioconférence**
 * **Discuter** via messagerie instantanée intégrée (chat)
 * **Gérer un agenda :** planifier des réunions, effectuer un sondage de dates, inviter des participants, synchroniser avec un agenda professionnel (Outlook, Thunderbird…)
 * Travailler **hors connexion** (drive)
- 
+
 
 ### Qui peut utiliser Plano ?
 Dédié aux agents de l’État, Plano se destine plus particulièrement aux directeurs et chefs de projet, ainsi qu’à toute autre personne impliquée dans un projet (notamment les partenaires et prestataires de l’État).
- 
+
 ### Comment avoir accès à Plano ?
-Vous êtes responsable projet et souhaitez créer votre premier espace collaboratif ? Envoyez votre demande à [**plano.dinum@modernisation.gouv.fr**](mailto:plano.dinum@modernisation.gouv.fr). 
-Une fois votre accès ouvert, vous pourrez inviter chaque membre de votre projet directement via Plano et gérer vous-mêmes ses droits. 
+Vous êtes responsable projet et souhaitez créer votre premier espace collaboratif ? Envoyez votre demande à [**plano.dinum@modernisation.gouv.fr**](mailto:plano.dinum@modernisation.gouv.fr).
+Une fois votre accès ouvert, vous pourrez inviter chaque membre de votre projet directement via Plano et gérer vous-mêmes ses droits.
 Vous pourrez ensuite créer en toute autonomie tous les espaces projets que vous souhaitez.
 
-<a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-plano-500contour.png" width="400" alt="Accéder à Plano"/>
+<a href="https://plano.numerique.gouv.fr/"><img src="/uploads/capture-plano-500contour.png" width="400" title="Accéder à Plano"/>
 </a>
 {: .text-center}
 > [**Accéder à Plano**](https://plano.numerique.gouv.fr/)

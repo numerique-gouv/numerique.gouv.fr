@@ -43,7 +43,7 @@ Disponible **sur smartphone et sur ordinateur,** Tchap vous permet de :
 {: .text-center .margin-bottom-0}
 [sur tchap.gouv.fr](https://tchap.gouv.fr/)
 {: .text-center .noir}
-<a href="https://tchap.gouv.fr/" alt="Tchap version web"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png"></figure></a>
+<a href="https://tchap.gouv.fr/" title="Tchap version web"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png"></figure></a>
 <br>
 
 ## **Webconférence de l’État, pour vos réunions à distance**
@@ -52,7 +52,7 @@ Webconf.numerique.gouv.fr permet notamment d’**organiser en ligne, à distance
 
 Vous pouvez :
 
-* **organiser une réunion à distance en audio et/ou vidéo,** 
+* **organiser une réunion à distance en audio et/ou vidéo,**
 * **diffuser une présentation**,
 *  **partager la fenêtre d’un programme** sur votre ordinateur,
 *  discuter en instantané via un **tchat intégré**,
@@ -62,14 +62,14 @@ Vous pouvez :
 
 ### Comment l'utiliser ?
 **Pour créer un salon de webconférence,** vous devez être connecté au réseau interministériel de l’État (RIE).
- 
+
 **Pour rejoindre un salon** en tant qu'invité, vous pouvez le faire hors réseau depuis n'importe quel accès internet, **soit depuis la version web** sur [webconference.numerique.gouv.fr](https://webconference.numerique.gouv.fr), **soit à partir de votre smartphone ou tablette Android ou Apple** depuis l'application Jitsi Meet, disponible [sur Google Play Store](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=fr) et [sur l'App Store](https://apps.apple.com/fr/app/jitsi-meet/id1165103905). Dans ce cas, [suivez les instructions de ce tutoriel](/uploads/rejoindre-webconf-android.pdf).
 
 Lorsque la vidéo n’est pas nécessaire, **préférez l’audioconférence** qui est moins gourmande en bande passante et saturera moins les réseaux.
 
 #### Déjà 12 000 participants par mois
 {: .text-center .margin-bottom-0 .margin-top-3}
-<a href="https://webconf.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" alt="Accédez au service de webconférence de l’État"/>
+<a href="https://webconf.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" title="Accédez au service de webconférence de l’État"/>
 </a>
 {: .text-center}
 > [**Accéder à webconf.numerique.gouv.fr**](https://webconf.numerique.gouv.fr/)
@@ -81,20 +81,20 @@ Lorsque la vidéo n’est pas nécessaire, **préférez l’audioconférence** q
 > {: .margin-top-0}
 > <br>
 > <br>
-> 
+>
 > **Lorsque j’utilise ma connexion au réseau à distance :**
-> 
+>
 > 1. **Je réserve** mes consultations internet à un usage strictement professionnel
-> 
+>
 > 2. **J’évite** les téléchargements de fichiers lourds ET les accès aux espaces de stockage distants (drives)
-> 
+>
 > 3. **Je diminue** mon utilisation d’internet entre 10h30 et 15h30
-> 
+>
 > 4. **Je supprime** les images de ma signature de mail ou la réduis au strict nécessaire (nom, prénom, numéro de téléphone)
-> 
+>
 > 5. **Je me déconnecte** du réseau à distance ou utilise mon ordinateur ou mon smartphone personnels :
 >  * pour des usages gourmands comme le visionnage de vidéos
 >  * pour des recherches/consultations non sensibles
-> 
+>
 > **J’applique ces bonnes pratiques : c’est la garantie pour tous de préserver l’accès à nos outils informatiques**
 {: .noir .encadre}

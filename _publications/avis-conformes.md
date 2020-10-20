@@ -10,7 +10,7 @@ chapeau-text: La direction interministérielle du numérique (DINUM) publie ses 
   l’État.
 une:
   image: "/assets/img/main/image_avis_conformes.jpg"
-  alternative-textuelle: les avis conformes
+  alternative-textuelle:
 ministeres:
 - annees:
   - avis:

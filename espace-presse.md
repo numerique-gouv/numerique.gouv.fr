@@ -3,7 +3,7 @@ title: Espace presse
 permalink: "/espace-presse/"
 une:
   image: "/assets/img/main/image_espace_presse.jpg"
-  alternative-textuelle: ordinateur portable
+  alternative-textuelle:
 contact-presse:
   titre: Contact presse
   pictogramme: "/assets/img/pictogrammes/contact_presse.svg"

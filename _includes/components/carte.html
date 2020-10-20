@@ -14,10 +14,10 @@
     </div>
     {% endif %}
     <div class="padding-2">
-      <p class="h4 font-bold margin-0">{{ carte.title }}
+      <h3 class="h4 font-bold margin-0">{{ carte.title }}
         {% if carte.redirection %}
-        <img class="picto-external-link" src="/assets/img/pictogrammes/icon-lien.png" alt="pictogramme lien externe">
-        {% endif %}</p>
+        <img class="picto-external-link" src="/assets/img/pictogrammes/icon-lien.png" alt="">
+        {% endif %}</h3>
       {% if carte.categories %}
       <span class="h6 date display-inline">{{ carte.categories.last }} | </span>
       {% endif %}

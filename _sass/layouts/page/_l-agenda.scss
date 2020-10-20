@@ -17,6 +17,13 @@
 }
 
 .event-card {
+  .content {
+    display: flex;
+    flex-direction: column;
+    .category, .date {
+      order: -1;
+    }
+  }
   .date-icon {
     width: 1.3rem;
     margin-right: 0.5rem;

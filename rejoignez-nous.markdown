@@ -8,14 +8,14 @@ date_de_modification: '13 octobre 2020 '
 layout: page-annexe
 ---
 
-**Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINUM !** 
+**Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINUM !**
 
 Retrouvez aussi [en bas de cette page](#offresministères) une sélection de postes de haut niveau dans le numérique au sein des ministères.
 <br>
 <br>
 
-### Comment postuler ?
-{: .margin-top-5 .margin-bottom-1} 
+## Comment postuler ?
+{: .margin-top-5 .margin-bottom-1 .h3}
 1. **Repérez** l'offre d'emploi qui vous intéresse ci-dessous
 2. **Ouvrez la fiche de poste** (lien ou pdf) en cliquant sur l'intitulé
 3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste ou via le bouton Postuler, en précisant son intitulé
@@ -24,9 +24,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 
 ## Nos offres d'emploi actuellement disponibles à la DINUM :
-{: .margin-top-4 .margin-bottom-0} 
+{: .margin-top-4 .margin-bottom-0}
 *Sans précision, les postes sont basés à Paris*
-{: .margin-bottom-1} 
+{: .margin-bottom-1}
 
 ### Réseau
 {: .margin-top-4 .margin-bottom-1}
@@ -120,23 +120,23 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 
-> ### Et aussi, dans d'autres administrations…<a id="offresministères"></a> 
+> ### Et aussi, dans d'autres administrations…<a id="offresministères"></a>
 Zoom sur quelques postes dans le numérique public :
 > <br>
 > <br>
 >
 >
 > **Direction générale des finances publiques (DGFiP)**
-> * [**Chef de projet / chargé de mission - Mission France Recouvrement F/H**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064 "Chef de projet / chargé de mission F/H")<br> 
+> * [**Chef de projet / chargé de mission - Mission France Recouvrement F/H**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064 "Chef de projet / chargé de mission F/H")<br>
 > Cadre/Catégorie A<br>
 > Poste basé à Montreuil (93)
 > <br>
 > <br>
-> 
+>
 > * [**Rédacteur/rédactrice MOA - Mission France Recouvrement**](https://www.place-emploi-public.gouv.fr/offre-emploi/redacteurrice-moa-reference-2020-472628 "Rédacteur/rédactrice MOA - Mission France Recouvrement") <br>
 > Cadre/Catégorie A<br>
 > Poste basé à Montreuil (93)
 > <br>
-> 
+>
 >
 {: .noir .encadre}

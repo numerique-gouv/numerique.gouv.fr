@@ -12,13 +12,7 @@ chapeau-text: Venez découvrir FranceConnect, son écosystème de fournisseurs d
 categorie: Évènement
 une-ou-diaporama:
 - image: "/uploads/identite_numetrique_franceconnect.png"
-  alternative-textuelle: |-
-    Rendez-vous pour la sixième édition de la semaine de l'innovation publique du 25 au 30 novembre 2019.
-    www.semaine-innovation-publique.gouv.fr
-    #semaineIP
-    Journée identité numérique  FranceConnect
-    Mercredi 27 novembre 2019
-    France Connect
+  alternative-textuelle:
 event_start_date: 2019-11-27 09:00:00 +01:00
 lieu: DINUM
 adresse: 20 avenue de Ségur, 75007 Paris

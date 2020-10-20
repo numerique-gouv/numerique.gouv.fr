@@ -14,8 +14,7 @@ chapeau-text: La direction interministérielle du numérique lance la communaut�
   !
 une-ou-diaporama:
 - image: "/uploads/agenda-lancement-communaute-UX.jpg"
-  alternative-textuelle: UX design et services publics en ligne - Venez rejoindre
-    la communauté
+  alternative-textuelle:
 event_start_date: 2018-11-21 09:30:00 +01:00
 lieu: DINSIC
 adresse: 20 avenue de Ségur - 75007 Paris
@@ -41,10 +40,10 @@ La direction interministérielle du numérique et du système d'information et d
 
 ## Au programme :
 
-**9h30-11h30 :** 
+**9h30-11h30 :**
 * présentation par la DINSIC de la communauté UX-Expérience utilisateur de l'État
 * rencontre avec l’équipe [Designers Italia](https://designers.italia.it/){:target="_blank"}
-Depuis 2 ans, ils animent une communauté UX des acteurs publics italiens. Ils viendront nous faire leurs retours d’expérience et présenter leur boîte à outils. 
+Depuis 2 ans, ils animent une communauté UX des acteurs publics italiens. Ils viendront nous faire leurs retours d’expérience et présenter leur boîte à outils.
 
 **11h30-12h30 :** ateliers au choix
 * **Atelier Travailler ensemble :**  Comment constituer une équipe de conception de rêve (quelles compétences sont nécessaires, simplifier l’accès aux marchés publics)
@@ -56,5 +55,5 @@ Depuis 2 ans, ils animent une communauté UX des acteurs publics italiens. Ils v
 
 * **Atelier Nom :** Quel nom pour le programme ?
 
-Événement **ouvert à tous, merci de [vous inscrire par courriel](mailto:christine.balian@modernisation.gouv.fr)** 
+Événement **ouvert à tous, merci de [vous inscrire par courriel](mailto:christine.balian@modernisation.gouv.fr)**
 en indiquant votre atelier préféré !

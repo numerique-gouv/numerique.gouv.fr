@@ -16,8 +16,7 @@ chapeau-text: 'L’État et les associations d’élus publient aujourd’hui le
   des services publics numériques territoriaux fluides et performants.'
 une-ou-diaporama:
 - image: "/uploads/DCANT.jpg"
-  alternative-textuelle: 'DCANT 2018-2020 : passage à l''échelle, socle commun partagé,
-    gouvernance partagée, approche globale de la donnée'
+  alternative-textuelle:
 ---
 
 **Une nouvelle manière de travailler entre État et collectivités**
@@ -51,7 +50,7 @@ Le programme DCANT répond également à la volonté de renforcer la concertatio
 * Contribuer à une **approche globale de la donnée** au service des politiques d’intérêt général dans les territoires
 * Faciliter le **passage à l’échelle** de l'administration numérique dans les territoires
 
-Ces 4 axes sont déclinés en recommandations de premières actions à engager dès le **1er semestre 2018** qui ont vocation à être actualisées tous les 6 mois. C’est à cette fréquence que les parties prenantes se réuniront pour faire un état des lieux, s’assurer du suivi des mesures et enrichir le programme de nouvelles recommandations d’actions à mettre en œuvre, dans une logique d’agilité.  
+Ces 4 axes sont déclinés en recommandations de premières actions à engager dès le **1er semestre 2018** qui ont vocation à être actualisées tous les 6 mois. C’est à cette fréquence que les parties prenantes se réuniront pour faire un état des lieux, s’assurer du suivi des mesures et enrichir le programme de nouvelles recommandations d’actions à mettre en œuvre, dans une logique d’agilité.
 Parmi les **35 actions à engager au 1er semestre 2018** : valoriser la cyber sécurité dans l’offre de services de l’État auprès des collectivités territoriales ; ouvrir l’incubateur des startups d’État aux collectivités territoriales pour répondre à des cas d’usages territoriaux ; ou encore identifier les modalités de financement de projets de transformation numérique des collectivités territoriales dans le cadre du **Grand plan d’investissement** (GPI).
 
 Pour approfondir ces nouvelles alliances, l’objectif à terme est d’ouvrir la gouvernance du programme aux associations professionnelles et aux acteurs privés dans une logique d’ouverture et de coopération.
