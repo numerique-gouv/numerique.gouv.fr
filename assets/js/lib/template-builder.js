@@ -13,11 +13,11 @@ export class Template_builder {
           <div class="">
             <a class="black-link grid-x grid-margin-x" href="${this.data.url}">
             <div class="cell object-fit__image-container large-4 medium-5 small-12 height-10rem">
-              <img class="object-fit__featured-image" alt="${ image.alternative_textuelle }" src="${ image.image }">
+              <img class="object-fit__featured-image" alt="" src="${ image.image }">
             </div>
             <div class="content cell large-8 medium-7 small-12">
               {{#category}}
-              <img alt="icon ${ hit_helper.get_first_category() }" class="icon category-icon" src="${ hit_helper.select_icon_link() }">
+              <img alt="" class="icon category-icon" src="${ hit_helper.select_icon_link() }">
               <span class="h6">${ hit_helper.get_first_category() }</span>
               {{/category}}
               <h3 class="h5 font-bold margin-bottom-0-5">${ this.data._highlightResult.title.value }</h3>
@@ -41,7 +41,7 @@ export class Template_builder {
             <div class="content cell large-8 medium-7 small-12">
               {{#date}}
               <div class="row align-middle margin-bottom-1">
-                <img alt="icon" class="icon date-icon" src="/assets/img/pictogrammes/dates.svg">
+                <img alt="" class="icon date-icon" src="/assets/img/pictogrammes/dates.svg">
                 <time class="post-meta date-text">${ hit_helper.get_event_date_formated() }</time><br />
               </div>
               {{/date}}
@@ -52,7 +52,7 @@ export class Template_builder {
               <p class="event-content">${ hit_helper.get_most_valuable_content() }</p>
             </div>
             <div class="row align-self-middle align-middle align-center cell object-fit-complet__image-container large-4 medium-5 small-12 height-10rem">
-              <img class="object-fit-complet__featured-image" alt="${ image.alternative_textuelle }" src="${ image.image }">
+              <img class="object-fit-complet__featured-image" alt="" src="${ image.image }">
             </div>
             </a>
           </div>
