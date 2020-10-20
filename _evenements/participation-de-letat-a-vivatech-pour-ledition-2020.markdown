@@ -13,7 +13,7 @@ chapeau-text: Pour la première année, sept ministères seront réunis aux côt
   public se transforme par le numérique pour toutes et tous.
 une-ou-diaporama:
 - image: "/uploads/Visuel_VIVATECH-2.png"
-  alternative-textuelle:
+  alternative-textuelle: 
 event_start_date: 2020-06-11 08:00:00 +02:00
 event_end_date: 2020-06-13 18:00:00 +02:00
 lieu: |-

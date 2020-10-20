@@ -12,7 +12,7 @@ chapeau-text: La direction interministérielle du numérique (DINUM) et le 110 b
   pour le premier sprint *open source* du secteur public les 19 et 20 novembre derniers.
 une-ou-diaporama:
 - image: "/uploads/template-actu-numerique.png"
-  alternative-textuelle:
+  alternative-textuelle: 
 ---
 
 Un sprint *open source* consiste à mobiliser des contributeurs de logiciels libres afin qu’ils les améliorent. Ce format est né dans les conférences *open source* réunissant les utilisateurs de produits ou de langages répandus.

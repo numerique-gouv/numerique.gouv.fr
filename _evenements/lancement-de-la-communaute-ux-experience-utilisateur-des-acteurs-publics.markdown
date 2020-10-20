@@ -14,7 +14,7 @@ chapeau-text: La direction interministérielle du numérique lance la communaut�
   !
 une-ou-diaporama:
 - image: "/uploads/agenda-lancement-communaute-UX.jpg"
-  alternative-textuelle:
+  alternative-textuelle: 
 event_start_date: 2018-11-21 09:30:00 +01:00
 lieu: DINSIC
 adresse: 20 avenue de Ségur - 75007 Paris

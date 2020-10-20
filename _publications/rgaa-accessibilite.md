@@ -15,7 +15,7 @@ chapeau-text: La **direction interministérielle du numérique et du système d'
   d'accessibilité des administrations).
 une:
   image: "/uploads/20191001_Publication_RGAA.jpg"
-  alternative-textuelle:
+  alternative-textuelle: 
 layout: rgaa
 ---
 

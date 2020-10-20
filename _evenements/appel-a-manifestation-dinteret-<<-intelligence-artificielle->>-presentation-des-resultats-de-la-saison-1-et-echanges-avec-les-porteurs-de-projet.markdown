@@ -13,7 +13,7 @@ chapeau-text: Un an après le lancement des travaux, venez découvrir les résul
   (AMI IA) dans l’administration.
 une-ou-diaporama:
 - image: "/uploads/IA.PNG"
-  alternative-textuelle:
+  alternative-textuelle: 
 event_start_date: 2019-11-28 10:00:00 +01:00
 lieu: Lieu de la Transformation publique
 adresse: 77 avenue de Ségur 75015, Paris

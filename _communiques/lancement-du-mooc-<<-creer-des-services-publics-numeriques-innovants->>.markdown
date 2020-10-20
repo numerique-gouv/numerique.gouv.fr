@@ -13,7 +13,7 @@ chapeau-text: |-
   L’objectif ? Permettre aux agents publics désireux d’innover de se lancer.
 une-ou-diaporama:
 - image: "/uploads/2018-10-02%2010_39_24-Teaser%20Mooc%20Beta.gouv.fr.mp4%20-%20Lecteur%20multim%C3%A9dia%20VLC.png"
-  alternative-textuelle:
+  alternative-textuelle: 
 files:
 - file: "/uploads/CP_Lancement_MOOC_services_publics_innovants-301d57.pdf"
   nom: Télécharger le communiqué de presse

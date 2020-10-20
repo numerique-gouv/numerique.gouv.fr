@@ -3,7 +3,7 @@ title: Publications
 permalink: "/publications/"
 une:
   image: "/assets/img/main/image_liste_actualites_2.jpg"
-  alternative-textuelle:
+  alternative-textuelle: 
 publications:
 - title: 'TECH.GOUV : Stratégie et feuille de route 2019-2022 : édition actualisée
     mi-2020'

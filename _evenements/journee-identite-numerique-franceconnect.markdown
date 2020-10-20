@@ -12,7 +12,7 @@ chapeau-text: Venez découvrir FranceConnect, son écosystème de fournisseurs d
 categorie: Évènement
 une-ou-diaporama:
 - image: "/uploads/identite_numetrique_franceconnect.png"
-  alternative-textuelle:
+  alternative-textuelle: 
 event_start_date: 2019-11-27 09:00:00 +01:00
 lieu: DINUM
 adresse: 20 avenue de Ségur, 75007 Paris

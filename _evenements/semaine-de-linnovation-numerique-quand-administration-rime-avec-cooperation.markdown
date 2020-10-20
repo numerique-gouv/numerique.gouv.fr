@@ -16,7 +16,7 @@ chapeau-text: 'Vous êtes noyé sous le flux de mails ? Vous ne pouvez pas trava
 categorie: 'évènement '
 une-ou-diaporama:
 - image: "/uploads/Tchap.PNG"
-  alternative-textuelle:
+  alternative-textuelle: 
 event_start_date: 2019-11-26 10:00:00 +01:00
 event_end_date: 2019-11-28 17:00:00 +01:00
 lieu: Lieu de la Transformation publique

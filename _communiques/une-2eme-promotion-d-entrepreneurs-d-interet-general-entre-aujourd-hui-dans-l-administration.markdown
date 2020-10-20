@@ -13,7 +13,7 @@ chapeau-text: 'Lancé en janvier 2017, le programme « Entrepreneur.e d’intér
   de l’État. '
 une-ou-diaporama:
 - image: "/uploads/Une_2e_promotion_dEIGentre_dans_ladministration.png"
-  alternative-textuelle:
+  alternative-textuelle: 
 files:
 - file: "/uploads/CP_Entrepreneurs_interet_general_16012018.pdf"
   nom: Télécharger le communiqué de presse

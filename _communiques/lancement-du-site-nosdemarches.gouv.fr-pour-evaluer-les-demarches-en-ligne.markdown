@@ -10,7 +10,7 @@ files:
   nom: Télécharger le communiqué de presse
 une-ou-diaporama:
 - image: "/uploads/nos%20demarches.png"
-  alternative-textuelle:
+  alternative-textuelle: 
 image: uploads/nosdemarches.gouv.jpg
 chapeau: " 100% des démarches administratives accessibles en ligne au 1er janvier
   2022 : c’est l’une des mesures phares annoncées par le gouvernement pour accélérer

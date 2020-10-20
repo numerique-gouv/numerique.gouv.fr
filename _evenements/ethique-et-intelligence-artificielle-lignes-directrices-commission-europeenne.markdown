@@ -12,7 +12,7 @@ chapeau-text: Entreprise ou organisme public, vous menez des projets d'intellige
   à Paris afin de (re)découvrir les travaux européens sur le sujet.
 une-ou-diaporama:
 - image: "/uploads/SAVETHEDATE-AI-EUv4.png"
-  alternative-textuelle:
+  alternative-textuelle: 
 event_start_date: 2019-07-08 09:30:00 +02:00
 lieu: DINSIC, salle 2.115
 adresse: |-
@@ -28,7 +28,7 @@ champs_informations:
 - intitule: Modalités
   contenu: 'inscription gratuite obligatoire '
   lien: https://www.eventbrite.fr/e/billets-ethique-et-ia-les-lignes-directrices-de-la-commission-europeenne-62917916181
-intitule:
+intitule: 
 ---
 
 En complément de sa stratégie en matière d’IA d'avril 2018, la Commission européenne propose 7 principes éthiques à suivre. La première version de ces lignes directrices, rédigées par un groupe d’experts de haut niveau, est désormais soumise à expérimentation.

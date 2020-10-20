@@ -18,7 +18,7 @@ une-ou-diaporama:
 - image: "/uploads/laureats-ami-ia-une.PNG"
   legende: 
   alternative-textuelle: 
-- alternative-textuelle:
+- alternative-textuelle: 
 files:
 - file: "/uploads/ami-ia-laureats-dossier-court.pdf"
   nom: Télécharger le dossier synthétique

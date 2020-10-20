@@ -12,7 +12,7 @@ chapeau-text: 'Demarches-simplifiees.fr est un service en ligne de dématériali
   le potentiel. '
 une-ou-diaporama:
 - image: "/uploads/demarches-simplifiees_fr.png"
-  alternative-textuelle:
+  alternative-textuelle: 
 event_start_date: 2018-11-23 09:30:00 +01:00
 lieu: DINSIC
 adresse: 20 avenue de ségur, 75007 PARIS
@@ -23,7 +23,7 @@ acces:
 champs_informations:
 - intitule: Début de l'atelier
   contenu: 9h30
-  lien:
+  lien: 
 - intitule: Modalité
   contenu: 'Inscription obligatoire '
   lien: 'https://demarches-simplifiees.fr/commencer/inscription-organisation-appelaprojet '

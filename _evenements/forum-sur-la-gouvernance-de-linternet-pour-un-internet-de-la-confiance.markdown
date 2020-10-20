@@ -13,7 +13,7 @@ chapeau-text: 'Paris abrite, du 12 au 14 novembre 2018, la treizième édition d
   présenter la politique d''open data de la France.**'
 une-ou-diaporama:
 - image: "/uploads/header-bonlogo.jpg"
-  alternative-textuelle:
+  alternative-textuelle: 
 event_start_date: 2018-11-12 00:00:00 +01:00
 event_end_date: 2018-11-14 00:00:00 +01:00
 lieu: Unesco
@@ -25,7 +25,7 @@ acces:
       Ligne 10 : Ségur, Ligne 6 : Cambronne, Ligne 8 : Ecole Militaire, Ligne 13 : Saint-François-Xavier
 
       Bus : 28, 80
-    Key:
+    Key: 
 champs_informations:
 - intitule: Modalités
   contenu: 'Inscription '

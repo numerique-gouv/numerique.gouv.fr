@@ -17,7 +17,7 @@ une-ou-diaporama:
 - image: "/uploads/Publication_TECHGOUV_une.jpg"
 une:
   image: "/uploads/Publication_TECHGOUV_une.jpg"
-  alternative-textuelle:
+  alternative-textuelle: 
 layout: rgaa
 ---
 
