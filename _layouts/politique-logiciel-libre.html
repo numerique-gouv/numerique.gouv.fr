@@ -24,7 +24,7 @@ layout: default
               {% assign items = site.politique-logiciel-libre | sort: 'menu.weight' %}
               {% for item in items %}
               <li class="pl-04 {% if item.menu.title == page.menu.title %} active-link {% endif %}">
-                <a href="{{ item.permalink }}#contenu">{{ item.menu.title }}</a>
+                <a href="{{ item.permalink }}#contenu" {% if item.menu.title == page.menu.title %} title="{{ item.menu.title }}, page active" {% endif %}>{{ item.menu.title }}</a>
               </li>
               {% endfor %}
             </ul>
