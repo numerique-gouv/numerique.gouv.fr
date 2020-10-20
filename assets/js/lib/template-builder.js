@@ -48,7 +48,7 @@ export class Template_builder {
               {{#category}}
               <span class="category">${ hit_helper.get_first_category() }</span>
               {{/category}}
-              <h3 class="margin-bottom-0-5">${ this.data._highlightResult.title.value }</h3>
+              <h2 class="h3 margin-bottom-0-5">${ this.data._highlightResult.title.value }</h2>
               <p class="event-content">${ hit_helper.get_most_valuable_content() }</p>
             </div>
             <div class="row align-self-middle align-middle align-center cell object-fit-complet__image-container large-4 medium-5 small-12 height-10rem">
@@ -72,7 +72,7 @@ export class Template_builder {
   get_template_stats() {
     const nbHits = new Hit_helper(this.data);
     const template =  hogan.compile(`
-      <h2 class="h4">Il y a ${ this.data.nbHits } résultats</h2>
+      <p class="h4">Il y a ${ this.data.nbHits } résultats</p>
     `);
     return template.render();
   };
