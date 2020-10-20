@@ -17,30 +17,30 @@ une-ou-diaporama:
 - image: "/uploads/Publication_TECHGOUV_une.jpg"
 une:
   image: "/uploads/Publication_TECHGOUV_une.jpg"
-  alternative-textuelle: logo TECH.GOUV
+  alternative-textuelle: 
 layout: rgaa
 ---
 
-## ÉDITO 
+## ÉDITO
 
 
-> Le programme TECH.GOUV a été lancé en 2019 par la direction interministérielle du numérique pour permettre à l’État d’accélérer sa transformation numérique. Cet objectif est au cœur de la feuille de route du nouveau ministère de la transformation et de la fonction publiques voulu par le Président de la République et le Premier ministre. 
+> Le programme TECH.GOUV a été lancé en 2019 par la direction interministérielle du numérique pour permettre à l’État d’accélérer sa transformation numérique. Cet objectif est au cœur de la feuille de route du nouveau ministère de la transformation et de la fonction publiques voulu par le Président de la République et le Premier ministre.
 > <br>
-> <br> 
+> <br>
 > **Pour rendre l’action publique plus proche, plus efficace, plus simple et plus juste pour tous les Français, dans tous les territoires, nous devons nous appuyer sur un État numérique plus actif.** Après cette crise sans précédent, nous ne devons pas reconstruire notre État à l’identique, nous devons le moderniser. **Nous ne pourrons le faire sans tirer parti de toutes les opportunités offertes par le numérique.**
 > <br>
-> <br> 
-> **Je me réjouis donc de constater les premiers progrès obtenus par le programme TECH.GOUV dans de nombreux domaines ces derniers mois :** la réussite de FranceConnect, qui simplifie l’accès aux démarches administratives pour plus de 17 millions de Français ; les commandos UX, qui mettent le citoyen au cœur des projets numériques ; le lancement de nouveaux outils et plateformes qui ont permis à des centaines de milliers d’agents de continuer à travailler à distance pendant la crise sanitaire ; et la transparence sur les résultats, avec l’observatoire de la qualité de la dématérialisation et le panorama des grands projets, qui aident l’État à mieux piloter ses actions de modernisation et en rendre compte aux Français. 
+> <br>
+> **Je me réjouis donc de constater les premiers progrès obtenus par le programme TECH.GOUV dans de nombreux domaines ces derniers mois :** la réussite de FranceConnect, qui simplifie l’accès aux démarches administratives pour plus de 17 millions de Français ; les commandos UX, qui mettent le citoyen au cœur des projets numériques ; le lancement de nouveaux outils et plateformes qui ont permis à des centaines de milliers d’agents de continuer à travailler à distance pendant la crise sanitaire ; et la transparence sur les résultats, avec l’observatoire de la qualité de la dématérialisation et le panorama des grands projets, qui aident l’État à mieux piloter ses actions de modernisation et en rendre compte aux Français.
 > <br>
 > <br>
-> **Ces actions devront être poursuivies et amplifiées dans le cadre du plan de relance, qui doit servir tous les Français. Je m’assurerai personnellement de l’avancement et de l’appropriation par les autres administrations du programme TECH.GOUV dans ce contexte, car il est un réservoir d’initiatives et d’idées dans lequel le gouvernement compte puiser pour accélérer la transformation de l’État et obtenir rapidement les résultats nécessaires.** 
+> **Ces actions devront être poursuivies et amplifiées dans le cadre du plan de relance, qui doit servir tous les Français. Je m’assurerai personnellement de l’avancement et de l’appropriation par les autres administrations du programme TECH.GOUV dans ce contexte, car il est un réservoir d’initiatives et d’idées dans lequel le gouvernement compte puiser pour accélérer la transformation de l’État et obtenir rapidement les résultats nécessaires.**
 {: .citation}
 
 > **Amélie de Montchalin**
 > <br> Ministre de la Transformation et de la Fonction publiques
 {: .auteur-citation}
 
-## TECH.GOUV : Les technologies numériques au service des citoyens et des agents publics 
+## TECH.GOUV : Les technologies numériques au service des citoyens et des agents publics
 
 
 > **Avec TECH.GOUV, l’État s’est doté d’un programme ambitieux pour accélérer la transformation numérique du service public.**

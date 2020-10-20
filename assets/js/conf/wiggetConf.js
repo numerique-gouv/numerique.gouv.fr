@@ -81,7 +81,8 @@ const infiniteHitsConfEvent = {
 const searchBoxConf =  {
   container: '#search-input',
   poweredBy: false,
-  magnifier: false
+  magnifier: false,
+  autofocus: false
 };
 
 const statsConf =  {

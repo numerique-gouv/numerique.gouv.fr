@@ -14,7 +14,7 @@ chapeau-text: Vous êtes développeur•euse, designer•euse ou data scientist,
   promotion du programme Entrepreneur•e d’Intérêt Général !
 une-ou-diaporama:
 - image: "/uploads/EIG3-candidature-ok.png"
-  alternative-textuelle: Entrepreneur d'Intérêt général
+  alternative-textuelle: 
 auteur: Depuis Etalab.gouv.fr
 ---
 

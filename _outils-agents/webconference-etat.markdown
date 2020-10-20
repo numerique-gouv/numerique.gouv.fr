@@ -76,7 +76,7 @@ d’utiliser la webconférence de l’État
 {: .noir .encadre}
 <br>
 
-<a href="https://webconf.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" alt="Accédez au service de webconférence de l’État"/>
+<a href="https://webconf.numerique.gouv.fr/"><img src="/uploads/capture-webconf-500.png" width="200" title="Accédez au service de webconférence de l’État"/>
 </a>
 {: .text-center}
 

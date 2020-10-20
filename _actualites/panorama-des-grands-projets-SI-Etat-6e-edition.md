@@ -17,7 +17,7 @@ chapeau-text: 'La DINSIC passe à nouveau en revue les grands projets du systèm
   informatiques détaillés, pour un montant prévisionnel global de 2,55 milliards d’euros.'
 une-ou-diaporama:
 - image: "/uploads/revue_de_details.jpg"
-  alternative-textuelle: H.VERDIER
+  alternative-textuelle: 
 ---
 
 C’est un exercice crucial dans la maîtrise des projets informatiques de l’État, auquel s’adonne la DINSIC pour la 2e fois de l’année.

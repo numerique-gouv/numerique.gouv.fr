@@ -13,15 +13,15 @@ chapeau-text: 'Lancé en janvier 2017, le programme « Entrepreneur.e d’intér
   de l’État. '
 une-ou-diaporama:
 - image: "/uploads/Une_2e_promotion_dEIGentre_dans_ladministration.png"
-  alternative-textuelle: Une seconde génération d'entrepreneur
+  alternative-textuelle: 
 files:
 - file: "/uploads/CP_Entrepreneurs_interet_general_16012018.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
-Après le succès de la première promotion, réunissant 11 entrepreneurs, une nouvelle promotion de 28 entrepreneurs fait son entrée dans l’administration pour l’année 2018. 
+Après le succès de la première promotion, réunissant 11 entrepreneurs, une nouvelle promotion de 28 entrepreneurs fait son entrée dans l’administration pour l’année 2018.
 
-Sélectionnés parmi plus de 200 candidats par un jury réunissant des membres de l’administration et de la société civile, les entrepreneurs d’intérêt général intègrent aujourd’hui leur administration d’accueil pour résoudre 13 défis, parmi lesquels : lutte contre la fraude, détection d’entreprises en difficulté, sécurité maritime, cartographie des acteurs de l’innovation sociale, valorisation des données de santé, accueil numérique des services de gendarmerie, etc. 
+Sélectionnés parmi plus de 200 candidats par un jury réunissant des membres de l’administration et de la société civile, les entrepreneurs d’intérêt général intègrent aujourd’hui leur administration d’accueil pour résoudre 13 défis, parmi lesquels : lutte contre la fraude, détection d’entreprises en difficulté, sécurité maritime, cartographie des acteurs de l’innovation sociale, valorisation des données de santé, accueil numérique des services de gendarmerie, etc.
 
 Les entrepreneurs d’intérêt général travailleront en équipe et mobiliseront leurs compétences en développement, datascience et design pour concevoir des services et produits numériques à destination des agents publics et des usagers. Ils seront accompagnés de leurs mentors, membres de l’administration, et seront en interaction constante avec les services de la DINSIC, en particulier Etalab et l’incubateur de services numériques ainsi qu’avec les communautés numériques ; et ce afin de diffuser au sein des ministères des méthodes et techniques liées à la circulation des données, l’agilité, la culture numérique, et l’ouverture.
 
@@ -42,7 +42,7 @@ Le programme « Entrepreneur.e d’intérêt général » est  financé par le f
 
 Des photos et contacts pour témoignages peuvent être transmis sur demande.
 
-  
+
 
 
 

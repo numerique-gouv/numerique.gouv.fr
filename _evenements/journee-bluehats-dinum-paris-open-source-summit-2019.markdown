@@ -14,9 +14,7 @@ chapeau-text: Pour souffler la première bougie du mouvement [BlueHats](https://
 categorie: Micro-conférence et ateliers
 une-ou-diaporama:
 - image: "/uploads/Bluehats_PARIS-SUMMIT.jpg"
-  alternative-textuelle: "Paris open source summit \nBluehats\nÉvénement blue hats,
-    hackers d'intérêt général\nLe 11 décembre 2019 à Paris\nPremier ministre - Direction
-    interministérielle du numérique"
+  alternative-textuelle: 
 event_start_date: 2019-12-11 09:00:00 +01:00
 lieu: Paris Open Source Summit au dock Pullmann
 adresse: 87, avenue des magasins généraux, 93300 Aubervilliers
@@ -32,7 +30,7 @@ Les BlueHats, ce sont tous ceux qui, dans l'administration et hors d'elle, contr
 
 Au programme, des partages d'expérience sous forme de présentations courtes *(lightning talks*) autour de logiciels libres développés et/ou utilisés par la sphère publique et des ateliers techniques sur des compétences particulières (datascience, outils de géomatique, bases de données, développement de site web, etc.).
 
-L'événement s'adresse à toute personne intéressée par le logiciel libre et sa place dans l'administration : agents publics, citoyens, associations, entreprises, profils techniques et non-techniques. 
+L'événement s'adresse à toute personne intéressée par le logiciel libre et sa place dans l'administration : agents publics, citoyens, associations, entreprises, profils techniques et non-techniques.
 
 [**Ce formulaire**](https://framaforms.org/participation-a-levenement-bluehats-de-la-dinum-lors-du-paris-open-source-summit-2019-1574254577) vous permettra de vous inscrire à la journée et d'indiquer si vous voulez faire une présentation courte et/ou participer à un atelier technique.
 

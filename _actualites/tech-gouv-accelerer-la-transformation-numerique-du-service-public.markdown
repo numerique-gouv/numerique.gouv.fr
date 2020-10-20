@@ -19,7 +19,7 @@ chapeau-text: 'L’État lance TECH.GOUV, le nouveau programme pour accélérer 
   agents, pour mieux les servir.'
 une-ou-diaporama:
 - image: "/uploads/Article_TECHGOUV.jpg"
-  alternative-textuelle: Logo TECH.GOUV
+  alternative-textuelle: 
 ---
 
 > [Découvrir la stratégie 2019-2021 du programme TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)
