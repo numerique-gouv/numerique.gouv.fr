@@ -12,14 +12,7 @@ chapeau-text: Entreprise ou organisme public, vous menez des projets d'intellige
   à Paris afin de (re)découvrir les travaux européens sur le sujet.
 une-ou-diaporama:
 - image: "/uploads/SAVETHEDATE-AI-EUv4.png"
-  alternative-textuelle: |+
-    Ethique et intelligence artificielle
-    Les lignes directrices de la Commission européenne
-    Lundi 8 juillet 2019 à 9 heure 30
-    DINSIC, 20 avenue de Ségur, Paris 7 ème
-
-    Logo de la DINSIC et logo AI for Humanity
-
+  alternative-textuelle:
 event_start_date: 2019-07-08 09:30:00 +02:00
 lieu: DINSIC, salle 2.115
 adresse: |-
@@ -35,22 +28,22 @@ champs_informations:
 - intitule: Modalités
   contenu: 'inscription gratuite obligatoire '
   lien: https://www.eventbrite.fr/e/billets-ethique-et-ia-les-lignes-directrices-de-la-commission-europeenne-62917916181
-intitule: 
+intitule:
 ---
 
 En complément de sa stratégie en matière d’IA d'avril 2018, la Commission européenne propose 7 principes éthiques à suivre. La première version de ces lignes directrices, rédigées par un groupe d’experts de haut niveau, est désormais soumise à expérimentation.
 
 Dans le cadre du programme **[AI For Humanity](https://www.aiforhumanity.fr/)**, la **DINSIC** organise un évènement pour présenter ces lignes directrices ainsi que les actions de la Commission européenne en matière d'IA.
 
-Cet évènement s'adresse aux **acteurs de l'écosystème de l'IA en France**, entreprises et organismes publics porteurs de projets d'IA. 
-Des experts du domaine issus du public, du privé et de la société civile interviendront et répondront aux questions au cours d’une session d’échange avec le public.  
+Cet évènement s'adresse aux **acteurs de l'écosystème de l'IA en France**, entreprises et organismes publics porteurs de projets d'IA.
+Des experts du domaine issus du public, du privé et de la société civile interviendront et répondront aux questions au cours d’une session d’échange avec le public.
 
-Ce premier point d’étape intervient avant une **phase pilote**, à laquelle sont encouragés à participer les acteurs français de l'IA afin de **tester la mise en œuvre des recommandations de la commission**.  
+Ce premier point d’étape intervient avant une **phase pilote**, à laquelle sont encouragés à participer les acteurs français de l'IA afin de **tester la mise en œuvre des recommandations de la commission**.
 <br>
 ### Programme :
 
 9h30 : **La stratégie française d’intelligence artificielle**
-* **Bertrand Pailhès**, coordonnateur national pour la stratégie d’intelligence artificielle 
+* **Bertrand Pailhès**, coordonnateur national pour la stratégie d’intelligence artificielle
 <br>
 <br>
 

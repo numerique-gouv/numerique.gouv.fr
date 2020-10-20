@@ -14,8 +14,7 @@ chapeau-text: La semaine du 29 juin 2020, le programme Entrepreneurs d’Intér�
   et des mentors, agents publics issus des administrations d’accueil.
 une-ou-diaporama:
 - image: "/uploads/2020_07_20_Visuel_article_EIG_Decouvrez_la_4e_promotion_EIG.jpg"
-  alternative-textuelle: 'Entrepreneurs d''Intérêt Général : Découvrez la 4e promotion
-    EIG'
+  alternative-textuelle:
 auteur: Etalab.gouv.fr
 redirection: https://www.etalab.gouv.fr/le-programme-entrepreneurs-dinteret-general-presente-sa-quatrieme-promotion
 ---

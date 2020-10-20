@@ -14,7 +14,7 @@ chapeau-text: 'Rendez-vous les 19 et 20 novembre prochains pour deux jours de sp
 categorie: Sprint
 une-ou-diaporama:
 - image: "/uploads/2019_11_07_Entete-Agenda-Bluehats.jpg"
-  alternative-textuelle: 'BlueHats Hackers d''intérêt général '
+  alternative-textuelle:
 event_start_date: 2019-11-19 09:00:00 +01:00
 event_end_date: 2019-11-20 18:00:00 +01:00
 lieu: Lab 110 bis – Ministère de l’Éducation nationale,

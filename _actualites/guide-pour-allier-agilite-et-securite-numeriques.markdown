@@ -15,8 +15,7 @@ chapeau-text: Vous développez des services numériques en mode agile ? Leur sé
   aujourd’hui dans un guide ouvert à tous.
 une-ou-diaporama:
 - image: "/uploads/guide_agilite-et-securite-numeriques_une.png"
-  alternative-textuelle: Agilité et sécurité numérique - Méthode et outils à l'usage
-    des équipes projet
+  alternative-textuelle:
 ---
 
 Fournir un service de qualité à l’utilisateur, à moindre coût, qui réponde à ses besoins tout en le protégeant des fraudes, cyberattaques et autres vols de données personnelles. C’est en intégrant au plus tôt dans le développement les principes de l’agilité et de sécurité numériques que cet objectif peut être tenu.

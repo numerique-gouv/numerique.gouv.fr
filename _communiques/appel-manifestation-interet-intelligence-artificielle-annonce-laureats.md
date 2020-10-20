@@ -18,8 +18,7 @@ une-ou-diaporama:
 - image: "/uploads/laureats-ami-ia-une.PNG"
   legende: 
   alternative-textuelle: 
-- alternative-textuelle: 'Intelligence artificielle : six projets séléctionnés pour
-    être expérimentés dans les services publics'
+- alternative-textuelle:
 files:
 - file: "/uploads/ami-ia-laureats-dossier-court.pdf"
   nom: Télécharger le dossier synthétique
