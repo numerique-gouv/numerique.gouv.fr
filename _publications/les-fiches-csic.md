@@ -1,7 +1,6 @@
 ---
 title: Les fiches des conseils des systèmes d’information et de communication (CSIC)
 permalink: "/publications/fiches-csic/"
-published: false
 chapeau-text: Le conseil des systèmes d’information et de communication (CSIC) constitue
   l’instance de gouvernance stratégique du SI de l’Etat. Il est présidé par le directeur
   interministériel du numérique et du système d’information et de communication de
