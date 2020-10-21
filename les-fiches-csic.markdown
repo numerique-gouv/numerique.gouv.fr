@@ -2,7 +2,6 @@
 title: Les fiches des CSIC
 date: 2018-11-14 18:09:00 +01:00
 permalink: "/publications/fiches-csic"
-published: false
 ministeres:
 - annees:
   - avis:
