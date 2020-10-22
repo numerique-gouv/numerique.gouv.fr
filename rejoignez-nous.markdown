@@ -30,12 +30,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 ### Réseau
 {: .margin-top-4 .margin-bottom-1}
-* [**Chef du pôle Pilotage de la qualité et des partenariats et adjoint au Chef du département Infrastructures et services opérés H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-pilotage-de-la-qualite-et-des-partenariats-et-adjointe-au-chef-du-departement-iso-hf-reference-2020-464601)
-<br>Cadre/Catégorie A
-<br>Poste pouvant être basé à Paris ou en Ille et Vilaine (35) selon le candidat
-<br>
-<br>
-
 * [**Chef du pôle Réseau interministériel de l’État et Services opérés d'infrastructure H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-reseau-interministeriel-de-l-etat-et-services-operes-d-infrastructure-hf-reference-2020-464626)
 <br>Cadre/Catégorie A
 <br>
@@ -86,11 +80,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 ### Produits numériques
 {: .margin-top-4 .margin-bottom-1}
-* [**Chef du département « performance des services numériques » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-du-departement--performance-des-services-numeriques--hf-reference-2020-468306)
-<br>Encadrement supérieur/Catégorie A+
-<br>
-<br>
-
 * [**Directeur du programme interministériel « Environnement de Travail Numérique des Agents H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-programme-interministeriel--environnement-de-travail-numerique-des-agents-hf-reference-2020-468464)
 <br>Cadre/Catégorie A
 <br>
