@@ -7,6 +7,7 @@ tags:
 - Beta.gouv.fr
 - Fonds
 - Appel à projets
+- Fonds d'accélération des Startups d’État et de Territoires
 chapeau-text: '5 millions d’euros : c’est le montant accordé par la Loi de Finances
   pour 2019 pour le fonds d’Accélération des Startups d’État. Ce fonds a pour objectif
   d’investir dans des projets apportant des solutions concrètes à des problèmes de
