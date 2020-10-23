@@ -40,15 +40,15 @@ Avant même la saisine officielle, il est recommandé de respecter ces étapes p
 
 **Le secrétaire général du ministère porteur** du projet ou ayant la tutelle de l’organisme porteur signe un courrier de saisine du directeur interministériel du numérique, accompagné d’un dossier.
 
-Il est recommandé de soumettre le courrier et le dossier en ligne sur [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/commencer/demande-d-avis-conforme-dinum). 
-
-Le dossier est élaboré à l’aide d’un kit de saisine téléchargeable.
+Le dossier est élaboré à l’aide d’un kit de saisine :
 
 [**> Télécharger le kit de saisine**](/uploads/kit-de-saisine_avis_DINUM.zip)
 
-Ce kit de saisine permet de guider le directeur de projet dans le recueil des informations attendues par la DINUM pour mener son analyse. Les éléments demandés figurent généralement dans les documents produits lors de la phase de cadrage du projet, il est possible et recommandé de les annexer au dossier et d’y renvoyer directement. A priori, il n’est pas nécessaire de produire de nouveau document à l’exception de la note de synthèse.
+Ce kit permet de guider le directeur de projet dans le recueil des informations attendues par la DINUM pour mener son analyse. Les éléments demandés figurent généralement dans les documents produits lors de la phase de cadrage du projet, il est possible et recommandé de les annexer au dossier et d’y renvoyer directement. A priori, il n’est pas nécessaire de produire de nouveau document à l’exception de la note de synthèse.
 
-*Si vous ne souhaitez pas utiliser la saisine en ligne, le courrier et le dossier peuvent être envoyés par courriel à l'adresse [grandsprojets.si@modernisation.gouv.fr](mailto:grandsprojets.si@modernisation.gouv.fr).*
+Soumettez ensuite le courrier et le dossier en ligne sur [**demarches-simplifiees.fr**](https://www.demarches-simplifiees.fr/commencer/demande-d-avis-conforme-dinum) (mode d'envoi à privilégier).
+
+*Si vous préférez, vous pouvez envoyer le courrier et le dossier par courriel à [grandsprojets.si@modernisation.gouv.fr](mailto:grandsprojets.si@modernisation.gouv.fr).*
 
 
 ### Que se passe-t-il ensuite ?
