@@ -6,6 +6,7 @@ categories:
 tags:
 - Avis conformes
 - Grands projets numérique de l'État
+date_de_modification: 23 octobre 2020
 chapeau-text: Chaque grand projet numérique de l’État – à partir de 9 millions d’euros
   de budget prévisionnel – doit faire l’objet d’un avis de la part du directeur interministériel
   du numérique. Cette procédure permet de sécuriser ces grands projets et de s’assurer
