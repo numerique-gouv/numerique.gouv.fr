@@ -75,6 +75,14 @@ export class Template_builder {
     `);
     return template.render({isRefined:this.data.isRefined});
   };
+  get_template_categories() {
+    const template =  hogan.compile(`
+      <a href="${ this.data.url }" class=" tag-select {{#isRefined}}selected{{/isRefined}}" title="{{#isRefined}}actif{{/isRefined}}">
+        ${ capitalizeFirstLetter(this.data.label) }
+      </a>
+    `);
+    return template.render({isRefined:this.data.isRefined});
+  };
   get_template_stats() {
     const nbHits = new Hit_helper(this.data);
     const template =  hogan.compile(`
