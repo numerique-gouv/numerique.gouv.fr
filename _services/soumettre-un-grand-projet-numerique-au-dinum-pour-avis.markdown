@@ -40,15 +40,16 @@ Avant même la saisine officielle, il est recommandé de respecter ces étapes p
 
 **Le secrétaire général du ministère porteur** du projet ou ayant la tutelle de l’organisme porteur signe un courrier de saisine du directeur interministériel du numérique, accompagné d’un dossier.
 
+Il est recommandé de soumettre le courrier et le dossier en ligne sur [demarches-simplifiees.fr](https://www.demarches-simplifiees.fr/commencer/demande-d-avis-conforme-dinum). 
+
 Le dossier est élaboré à l’aide d’un kit de saisine téléchargeable.
 
 [**> Télécharger le kit de saisine**](/uploads/kit-de-saisine_avis_DINUM.zip)
 
 Ce kit de saisine permet de guider le directeur de projet dans le recueil des informations attendues par la DINUM pour mener son analyse. Les éléments demandés figurent généralement dans les documents produits lors de la phase de cadrage du projet, il est possible et recommandé de les annexer au dossier et d’y renvoyer directement. A priori, il n’est pas nécessaire de produire de nouveau document à l’exception de la note de synthèse.
 
-**Le courrier et le dossier sont à envoyer par courriel à l’adresse :**
-> [grandsprojets.si@modernisation.gouv.fr](mailto:grandsprojets.si@modernisation.gouv.fr)
-{: .lien-important}
+*Si vous ne souhaitez pas utiliser la saisine en ligne, le courrier et le dossier peuvent être envoyés par [courriel](mailto:grandsprojets.si@modernisation.gouv.fr).*
+
 
 ### Que se passe-t-il ensuite ?
 Après analyse du dossier, l’avis du directeur de la DINUM sera envoyé en réponse au courrier au secrétaire général. Chaque avis est accompagné, le cas échéant, de recommandations mettant en avant les axes d’améliorations à prendre en compte pour le bon déroulement du projet.
