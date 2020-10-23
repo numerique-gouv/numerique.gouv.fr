@@ -93,6 +93,5 @@ $('#button-production').click(function () {
 });
 
 $('#go-to-search-results').click( function() {
-  console.log("bonjour")
   document.getElementById("infinite-hits").focus()
 })
