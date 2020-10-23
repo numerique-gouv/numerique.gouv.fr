@@ -2,7 +2,7 @@
 
 <a
    {% if carte-double.redirection %}
-   href="{{carte-double.redirection}}" target="_blank"
+   href="{{carte-double.redirection}}" title="{{ carte-double.title }} - lien externe"
    {% else %}
    href="{{ carte-double.url}}"
    {% endif %}

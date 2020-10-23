@@ -3,7 +3,7 @@
 <div class="cell grid-y carte height-100">
   <a
     {% if carte.redirection %}
-      href="{{carte.redirection}}" target="_blank"
+      href="{{carte.redirection}}" title="{{ carte.title }} - lien externe"
     {% else %}
       href="{{ carte.url}}"
     {% endif %}
