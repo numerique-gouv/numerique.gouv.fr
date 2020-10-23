@@ -13,7 +13,7 @@ chapeau-text: 'En novembre, la direction interministérielle du numérique (DINU
   privé. '
 categorie: Forum virtuel
 une-ou-diaporama:
-- image: "/uploads/2020_05_14_Article-forum_recrutement_800x430.jpg"
+- image: "/uploads/2020_10_22_Article_Forum_recrutement_800x430.jpg"
 event_start_date: 2020-11-30 00:00:00 +01:00
 event_end_date: 2020-12-09 00:00:00 +01:00
 champs_informations:
@@ -23,7 +23,7 @@ champs_informations:
   contenu: 'à venir très prochainement '
 ---
 
-### Plus de 350 postes à pourvoir
+### Plus de 300 postes à pourvoir
 Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
 
 Vous êtes **jeune diplômé d’une école du numérique** et curieux des opportunités professionnelles offertes par l’État ?
@@ -38,4 +38,4 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 ### Une nouvelle édition 100% en ligne 
 En raison du contexte sanitaire, le format de ce rendez-vous incontournable de l’emploi public dans la tech vous est proposé **entièrement en ligne !**
  
-Ce forum regroupera **plus de 30 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, proposant plus de 350 postes à pourvoir en région et en Île-de-France. 
+Ce forum regroupera **plus de 40 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, proposant plus de 300 postes à pourvoir en région et en Île-de-France. 
