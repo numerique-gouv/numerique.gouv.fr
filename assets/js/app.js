@@ -92,5 +92,7 @@ $('#button-production').click(function () {
   $('#modal-production-done').foundation('open');
 });
 
-
-
+$('#go-to-search-results').click( function() {
+  console.log("bonjour")
+  document.getElementById("infinite-hits").focus()
+})
