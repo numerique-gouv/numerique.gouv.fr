@@ -18,7 +18,7 @@ layout: dinsic
 
 La direction interministérielle du numérique (DINUM) **accompagne les ministères dans leur transformation numérique, conseille le gouvernement** et **développe des services et ressources partagées** comme le réseau interministériel de l’État, [FranceConnect](https://franceconnect.gouv.fr), [data.gouv.fr](https://www.data.gouv.fr) ou [api.gouv.fr](https://api.gouv.fr).
 
-Elle pilote, avec l'appui des ministères, [**le programme TECH.GOUV** d'accélération de la transformation numérique du service public](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/).
+Elle pilote, avec l'appui des ministères, [**le programme TECH.GOUV**](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d'accélération de la transformation numérique du service public.
 
 Dans le cadre du **plan France Relance**, elle pilote la mise en œuvre du volet [**Transformation numérique de l’État et des territoires**](https://france-relance.transformation.gouv.fr/), pour le compte du ministère de la Transformation et de la Fonction publiques. 
 
