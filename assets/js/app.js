@@ -92,5 +92,12 @@ $('#button-production').click(function () {
   $('#modal-production-done').foundation('open');
 });
 
+$('#go-to-search-results').click( function() {
+  document.getElementById("infinite-hits").focus()
+})
 
-
+$( window ).on( "load", function() {
+  $('.voir-plus-button').click( function() {
+    $('.ais-infinite-hits--item').last().find('a').focus()
+  })
+})

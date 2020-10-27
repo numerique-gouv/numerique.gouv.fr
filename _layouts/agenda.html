@@ -10,7 +10,7 @@ layout: page-mere
     {% include components/list-post.html %}
   </div>
   <div class="cell large-4 medium-4 small-12">
-    <h2 class="margin-large-top-1 h4">FILTRER PAR :</h2>
+    <p class="margin-large-top-1 h4">FILTRER PAR :</p>
     <p>DATE</p>
     <div>
       <input type="text" id="datepickerStart" class="daterange" aria-label="Début" placeholder="JJ/MM/AAAA"/>
@@ -21,12 +21,9 @@ layout: page-mere
       <legend>TYPE</legend>
       <div id="categories"></div>
     </fieldset>
-    <fieldset>
-      <legend>THÉMATIQUE</legend>
-      <div id="tags" class="margin-top-1"></div>
-    </fieldset>
     <p>MOT CLÉ</p>
     <div id="search-event" class="margin-top-1"></div>
+    <button type="button" id="go-to-search-results" class="off-screen">Aller aux résultats de recherche</button>
   </div>
 </section>
 
