@@ -17,7 +17,7 @@ chapeau-text: 'Le Président de la République a pris un engagement très clair 
   publics.  Numériser les démarches administratives, c’est rendre le service public
   accessible partout, pour tous, tout le temps et facilement.'
 une-ou-diaporama:
-- image: "/uploads/ElABMrDW0AARONb.jpg"
+- image: "/uploads/2020_10_27_FRANCE-RELANCE_1600x860.jpg"
 auteur: transformation.gouv.fr
 redirection: https://www.transformation.gouv.fr/la-ministre/actualite/francerelance-acceleration-de-la-transformation-numerique-de-letat-et-des
 ---
