@@ -21,7 +21,9 @@ Elle **accompagne les ministères dans leur transformation numérique, conseille
 
 Elle pilote, avec l'appui des ministères, [**le programme TECH.GOUV** d'accélération de la transformation numérique du service public](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/).
 
-La DINUM est un **service du Premier ministre**, placé sous l’autorité de la ministre de la Transformation et de la Fonction publiques.
+Dans le cadre du **plan France Relance**, elle pilote la mise en œuvre du volet [**Transformation numérique de l’État et des territoires**](https://france-relance.transformation.gouv.fr/), pour le compte du ministère de la Transformation et de la Fonction publiques. 
+
+La DINUM est un service du Premier ministre, placé sous l’autorité de la **ministre de la Transformation et de la Fonction publiques**.
 <br>
 <br>
 <br>
