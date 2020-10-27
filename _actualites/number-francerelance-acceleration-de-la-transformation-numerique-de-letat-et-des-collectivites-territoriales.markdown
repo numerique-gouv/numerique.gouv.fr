@@ -9,6 +9,13 @@ tags:
 - Transformation numérique
 - fonds
 - Observatoire
+chapeau-text: 'Le Président de la République a pris un engagement très clair en 2017
+  : mettre en ligne toutes les démarches administratives du quotidien.  Car les Français
+  ne comprennent pas pourquoi ils peuvent faire leurs courses sur internet, payer
+  leur abonnement en ligne, préparer leurs vacances depuis chez eux, mais doivent
+  encore se déplacer pour aller déposer leurs dossiers administratifs auprès des services
+  publics.  Numériser les démarches administratives, c’est rendre le service public
+  accessible partout, pour tous, tout le temps et facilement.'
 une-ou-diaporama:
 - image: "/uploads/ElABMrDW0AARONb.jpg"
 auteur: transformation.gouv.fr
