@@ -77,7 +77,7 @@ Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-rela
 
 Deux pré-requis, votre projet doit :
 * contribuer à la relance de l’économie française, 
-* produire des résultats concrets d'ici à 2022.
+* produire des résultats concrets sous 18 mois.
 
 
 <p align="center"><a href="https://france-relance.transformation.gouv.fr/" class="button">Découvrez tous les financements</a></p>
