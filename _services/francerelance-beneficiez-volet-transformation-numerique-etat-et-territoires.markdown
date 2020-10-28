@@ -72,10 +72,11 @@ Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-rela
             <strong>Et BÉNÉFICIEZ de l’appui méthodologique et technique</strong><br />de la direction interministérielle du numérique (DINUM) <br />et de la direction interministérielle de la transformation publique (DITP) <br />pour réussir votre projet.
         </div>
       </div>
-
-
+<br>
+<br>
 
 <p align="center"><a href="https://france-relance.transformation.gouv.fr/" class="button">Découvrez tous les financements</a></p>
+<br>
 
 <em>Le volet du plan France Relance dédié à la transformation numérique de l’État et des collectivités est piloté par le ministère de la Transformation et de la Fonction publiques.</em>
 <br>
