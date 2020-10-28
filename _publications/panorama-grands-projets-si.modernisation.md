@@ -24,6 +24,6 @@ texte du chapeau
 {% include components/partager.html %}
 
 
-<div class="responsive-embed">
+<div class="responsive-embed iframe">
   <iframe class="no-border" src="https://disic.github.io/panorama/" allowfullscreen></iframe>
 </div>
