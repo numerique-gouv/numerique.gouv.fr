@@ -58,6 +58,10 @@ cursor: pointer;
 
 Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-relance), le Gouvernement alloue <font size="5"><b>500 M€</b></font> à vos projets pour simplifier les services publics en ligne et transformer l’action publique avec le numérique, sur la période 2021-2022.
 
+Votre projet doit :
+* contribuer à la relance de l’économie française, 
+* produire des résultats concrets sous 18 mois.
+
 <div class="benefice-france-relance">
     <div >
       <div class="benefice">
@@ -75,9 +79,6 @@ Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-rela
 <br>
 <br>
 
-Deux pré-requis, votre projet doit :
-* contribuer à la relance de l’économie française, 
-* produire des résultats concrets sous 18 mois.
 
 
 <p align="center"><a href="https://france-relance.transformation.gouv.fr/" class="button">Découvrez tous les financements</a></p>
