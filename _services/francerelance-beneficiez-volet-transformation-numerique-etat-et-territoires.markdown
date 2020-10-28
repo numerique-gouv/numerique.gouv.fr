@@ -58,17 +58,22 @@ cursor: pointer;
 
 Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-relance), le Gouvernement alloue <font size="5"><b>500 M€</b></font> à vos projets pour simplifier les services publics en ligne et transformer l’action publique avec le numérique, sur la période 2021-2022.
 
+<div class="benefice-france-relance">
+    <div >
+      <div class="benefice">
+        <img src="/uploads/Financement_rouge.png" alt="" width="80" align="middle">
+        <div>
+          <strong>OBTENEZ un financement</strong>
+        </div>
+      </div>
+      <div class="benefice">
+        <img src="/uploads/Nos-leviers-daction.png" alt="" width="80" align="middle" />
+        <div>
+            <strong>Et BÉNÉFICIEZ de l’appui méthodologique et technique</strong><br />de la direction interministérielle du numérique (DINUM) <br />et de la direction interministérielle de la transformation publique (DITP) <br />pour réussir votre projet.
+        </div>
+      </div>
 
-<figure class='image-left' style='width: 6%;'>
-<img src="/uploads/Financement_rouge.png" alt="">
-</figure>**OBTENEZ un financement**.
-<br>
-<br>
 
-<figure class='image-left' style='width: 10%;'>
-<img src="/uploads/Nos-leviers-daction.png" alt="">
-</figure>**Et BÉNÉFICIEZ de l’appui méthodologique et technique** de la direction interministérielle du numérique (DINUM) et de la direction interministérielle de la transformation publique (DITP) pour réussir votre projet.
-<br>
 
 <p align="center"><a href="https://france-relance.transformation.gouv.fr/" class="button">Découvrez tous les financements</a></p>
 
@@ -76,17 +81,3 @@ Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-rela
 
 *La DINUM est chargée de sa mise en œuvre, avec la DITP.*
 
-<div class="benefice-france-relance">
-    <div >
-      <div class="benefice">
-        <img src="/uploads/1-6cb735.png" alt="1" width="80" align="middle">
-        <div>
-          <strong>OBTENEZ un financement</strong>
-        </div>
-      </div>
-      <div class="benefice">
-        <img src="/uploads/2-cb3c82.png" alt="2" width="80" align="middle" />
-        <div>
-            <strong>Et BÉNÉFICIEZ de l’appui méthodologique et technique</strong><br />de la direction interministérielle du numérique (DINUM) <br />et de la direction interministérielle de la transformation publique (DITP) <br />pour réussir votre projet.
-        </div>
-      </div>
