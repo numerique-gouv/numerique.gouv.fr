@@ -39,9 +39,7 @@ cursor: pointer;
 * Sécurisation des ordinateurs, smartphones… des agents
 * …
 
-Dans le cadre du plan de relance, le Gouvernement alloue 
-<font size="5">500 M€</font>
-à vos projets pour simplifier les services publics en ligne et transformer l’action publique avec le numérique, sur la période 2021-2022.
+Dans le cadre du plan de relance, le Gouvernement alloue <font size="5">500 M€</font> à vos projets pour simplifier les services publics en ligne et transformer l’action publique avec le numérique, sur la période 2021-2022.
 
 OBTENEZ un financement.
 
