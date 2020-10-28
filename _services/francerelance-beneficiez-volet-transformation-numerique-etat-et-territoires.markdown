@@ -55,6 +55,6 @@ Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-rela
 
 <p align="center"><a href="https://france-relance.transformation.gouv.fr/" class="button">Découvrez tous les financements</a></p>
 
-*Le volet du plan France Relance dédié à la transformation numérique de l’État et des collectivités est piloté par le ministère de la Transformation et de la Fonction publiques.
+*Le volet du plan France Relance dédié à la transformation numérique de l’État et des collectivités est piloté par le ministère de la Transformation et de la Fonction publiques.*
 
-La DINUM est chargée de sa mise en œuvre, avec la DITP.*
+*La DINUM est chargée de sa mise en œuvre, avec la DITP.*
