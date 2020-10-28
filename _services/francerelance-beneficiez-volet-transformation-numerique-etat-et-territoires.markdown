@@ -61,7 +61,7 @@ Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-rela
 <div class="benefice-france-relance">
     <div >
       <div class="benefice">
-        <img src="/uploads/Financement_rouge.png" alt="" width="50" align="middle">
+        <img src="/uploads/Financement_rouge-400.png" alt="" width="80" align="middle">
         <div>
           <strong>OBTENEZ un financement</strong>
         </div>
@@ -77,7 +77,7 @@ Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-rela
 
 <p align="center"><a href="https://france-relance.transformation.gouv.fr/" class="button">Découvrez tous les financements</a></p>
 
-*Le volet du plan France Relance dédié à la transformation numérique de l’État et des collectivités est piloté par le ministère de la Transformation et de la Fonction publiques.*
+<em>Le volet du plan France Relance dédié à la transformation numérique de l’État et des collectivités est piloté par le ministère de la Transformation et de la Fonction publiques.<em>
 
 *La DINUM est chargée de sa mise en œuvre, avec la DITP.*
 
