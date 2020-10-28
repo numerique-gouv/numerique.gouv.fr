@@ -26,6 +26,23 @@ font-style: normal;
 margin: 4px 2px;
 cursor: pointer;
 }
+
+.benefice-france-relance {
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+
+.benefice-france-relance > div {
+  margin: auto;
+}
+
+.benefice-france-relance > div > .benefice {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 25px 0;
+}
 </style>
 
 * Dématérialisation d’une démarche administrative
@@ -58,3 +75,18 @@ Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-rela
 *Le volet du plan France Relance dédié à la transformation numérique de l’État et des collectivités est piloté par le ministère de la Transformation et de la Fonction publiques.*
 
 *La DINUM est chargée de sa mise en œuvre, avec la DITP.*
+
+<div class="benefice-france-relance">
+    <div >
+      <div class="benefice">
+        <img src="/uploads/1-6cb735.png" alt="1" width="80" align="middle">
+        <div>
+          <strong>OBTENEZ un financement</strong>
+        </div>
+      </div>
+      <div class="benefice">
+        <img src="/uploads/2-cb3c82.png" alt="2" width="80" align="middle" />
+        <div>
+            <strong>Et BÉNÉFICIEZ de l’appui méthodologique et technique</strong><br />de la direction interministérielle du numérique (DINUM) <br />et de la direction interministérielle de la transformation publique (DITP) <br />pour réussir votre projet.
+        </div>
+      </div>
