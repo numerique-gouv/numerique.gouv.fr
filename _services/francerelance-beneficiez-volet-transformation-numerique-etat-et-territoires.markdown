@@ -39,11 +39,14 @@ cursor: pointer;
 * Sécurisation des ordinateurs, smartphones… des agents
 * …
 
-Dans le cadre du plan France Relance, le Gouvernement alloue <font size="5"><b>500 M€</b></font> à vos projets pour simplifier les services publics en ligne et transformer l’action publique avec le numérique, sur la période 2021-2022.
+Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-relance), le Gouvernement alloue <font size="5"><b>500 M€</b></font> à vos projets pour simplifier les services publics en ligne et transformer l’action publique avec le numérique, sur la période 2021-2022.
 
-<figure class='image-left' style='width: 10%;'>
+
+<figure class='image-left' style='width: 6%;'>
 <img src="/uploads/Financement_rouge.png" alt="">
 </figure>OBTENEZ un **financement**.
+<br>
+<br>
 
 <figure class='image-left' style='width: 10%;'>
 <img src="/uploads/Nos-leviers-daction.png" alt="">
