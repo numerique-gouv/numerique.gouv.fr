@@ -40,9 +40,11 @@ Dans le cadre du plan de relance, le Gouvernement alloue
 
 OBTENEZ un financement.
 
-Et BÉNÉFICIEZ de l’appui méthodologique et technique
-de la direction interministérielle du numérique
-et de la direction interministérielle de la transformation publique
-pour réussir votre projet.
+Et BÉNÉFICIEZ de l’appui méthodologique et technique de la direction interministérielle du numérique (DINUM) et de la direction interministérielle de la transformation publique (DITP) pour réussir votre projet.
+
+Les crédits du plan #FranceRelance disponibles dès le 1er janvier 2021.
 
 <p align="center"><a href="https://france-relance.transformation.gouv.fr/" class="button">Découvrez tous les financements</a></p>
+
+*Le volet du plan FranceRelance dédié à la transformation numérique de l’État et des collectivités est piloté par le ministère de la Transformation et de la Fonction publiques. 
+La DINUM est chargée de sa mise en œuvre, avec la DITP.*
