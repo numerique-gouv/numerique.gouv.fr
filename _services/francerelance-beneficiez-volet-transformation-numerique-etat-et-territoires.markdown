@@ -51,8 +51,7 @@ Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-rela
 <figure class='image-left' style='width: 10%;'>
 <img src="/uploads/Nos-leviers-daction.png" alt="">
 </figure>**Et BÉNÉFICIEZ de l’appui méthodologique et technique** de la direction interministérielle du numérique (DINUM) et de la direction interministérielle de la transformation publique (DITP) pour réussir votre projet.
-
-Les crédits du plan #FranceRelance seront disponibles dès le 1er janvier 2021.
+<br>
 
 <p align="center"><a href="https://france-relance.transformation.gouv.fr/" class="button">Découvrez tous les financements</a></p>
 
