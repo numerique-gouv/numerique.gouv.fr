@@ -2,9 +2,14 @@
 title: "#FranceRelance : bénéficiez du volet « Transformation numérique de l’État
   et des territoires »"
 date: 2020-10-28 11:10:00 +01:00
+tags:
+- France Relance
+- Fonds
 chapeau-text: |-
   Services de l’État, collectivités territoriales : un projet d’innovation ou de transformation numériques ? Découvrez
   comment le plan de relance peut vous aider !
+une:
+  image: "/uploads/BANDEAU_PAGE-FILLE_FRANCE-RELANCE_1480x1000.jpg"
 layout: rgaa
 ---
 
