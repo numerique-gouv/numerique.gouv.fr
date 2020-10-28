@@ -35,7 +35,7 @@ cursor: pointer;
 * …
 
 Dans le cadre du plan de relance, le Gouvernement alloue 
-**500 M€**
+<font size="3">**500 M€**</font>
 à vos projets pour simplifier les services publics en ligne et transformer l’action publique avec le numérique, sur la période 2021-2022.
 
 OBTENEZ un financement.
