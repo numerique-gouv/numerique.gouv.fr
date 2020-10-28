@@ -61,7 +61,7 @@ Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-rela
 <div class="benefice-france-relance">
     <div >
       <div class="benefice">
-        <img src="/uploads/Financement_rouge.png" alt="" width="80" align="middle">
+        <img src="/uploads/Financement_rouge.png" alt="" width="50" align="middle">
         <div>
           <strong>OBTENEZ un financement</strong>
         </div>
