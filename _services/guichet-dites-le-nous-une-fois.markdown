@@ -12,10 +12,10 @@ chapeau-text: |-
   automatique de données via des API.
 
   **Pour en accélérer l’application, la DINUM propose une offre d’accompagnement sur-mesure aux administrations, dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/).**
-une-ou-diaporama:
-- image: "/uploads/guichet-dlnuf-une.png"
 une:
   image: "/uploads/guichet-dlnuf-une.png"
+une-ou-diaporama:
+- image: "/uploads/guichet-dlnuf-une.png"
 layout: rgaa
 ---
 
@@ -62,9 +62,7 @@ ouvertes
   * [**Geo.api.gouv.fr**](https://geo.api.gouv.fr/) : les données géographiques
 <br>
 
-* SignUp, un dispositif permettant de s’assurer que seules les
-administrations habilitées seront en mesure d’exploiter les
-données fournies.
+* Data pass, un dispositif permettant de s’assurer que seules les administrations habilitées seront en mesure d’exploiter les données fournies.
 <br>
 <br>
 
