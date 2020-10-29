@@ -12,7 +12,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) est en cha
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 27 octobre 2020
+date_de_modification: 29 octobre 2020
 layout: dinsic
 ---
 
@@ -32,8 +32,8 @@ Créée par [le décret du 25 octobre 2019](https://www.legifrance.gouv.fr/affic
 ### **Organisation**
 
 La DINUM comprend une direction de programme, trois départements et un secrétariat général :
-* **la direction de programme TECH.GOUV** pilote le programme interministériel de transformation numérique du service public TECH.GOUV ;
-* **le département « Infrastructures et services opérés » (ISO)** conçoit et opère des services d’infrastructures à valeur ajoutée mutualisés entre les administrations, dont le réseau interministériel de l'Etat (RIE) ;
+* **la direction de programme [TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)** pilote le programme interministériel de transformation numérique du service public TECH.GOUV ;
+* **le département « Infrastructures et services opérés » (ISO)** conçoit et opère des services d’infrastructures à valeur ajoutée mutualisés entre les administrations, dont le réseau interministériel de l’État (RIE) ;
 * **le département [« Etalab »](https://www.etalab.gouv.fr/)** coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, dont ses composantes juridique et sociétale ; 
 * **le département « Performance des services numériques » (PSN)** conçoit les plans d’actions interministériels en matière de mutualisation, dématérialisation, pilotage des projets et qualité des services numériques, et soutient leur mise en œuvre ;
 * **le secrétariat général** soutient l’activité de la direction : il assure la communication externe et interne, la gestion des ressources humaines et financières, la synthèse des missions et veille à la qualité des conditions de travail des agents. 
