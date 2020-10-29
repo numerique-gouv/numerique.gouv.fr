@@ -62,7 +62,7 @@ ouvertes
   * [**Geo.api.gouv.fr**](https://geo.api.gouv.fr/) : les données géographiques
 <br>
 
-* Data pass, un dispositif permettant de s’assurer que seules les administrations habilitées seront en mesure d’exploiter les données fournies.
+* Data Pass, un dispositif permettant de s’assurer que seules les administrations habilitées seront en mesure d’exploiter les données fournies.
 <br>
 <br>
 
