@@ -5,9 +5,9 @@ date: 2020-10-28 11:10:00 +01:00
 tags:
 - France Relance
 - Fonds
-chapeau-text: |-
-  Services de l’État, collectivités territoriales : un projet d’innovation ou de transformation numériques ? Découvrez
-  comment le plan de relance peut vous aider !
+chapeau-text: 'Services de l’État, collectivités territoriales : un projet d’innovation
+  ou de transformation numériques ? Découvrez comment le plan de relance peut vous
+  aider !'
 une:
   image: "/uploads/BANDEAU_PAGE-FILLE_FRANCE-RELANCE_1480x1000.jpg"
 layout: rgaa
@@ -58,6 +58,10 @@ cursor: pointer;
 
 Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-relance), le Gouvernement alloue <font size="5"><b>500 M€</b></font> à vos projets pour simplifier les services publics en ligne et transformer l’action publique avec le numérique, sur la période 2021-2022.
 
+Votre projet doit :
+* contribuer à la relance de l’économie française, 
+* produire des résultats concrets sous 18 mois.
+
 <div class="benefice-france-relance">
     <div >
       <div class="benefice">
@@ -74,6 +78,8 @@ Dans le cadre du [plan France Relance](https://www.economie.gouv.fr/plan-de-rela
       </div>
 <br>
 <br>
+
+
 
 <p align="center"><a href="https://france-relance.transformation.gouv.fr/" class="button">Découvrez tous les financements</a></p>
 <br>
