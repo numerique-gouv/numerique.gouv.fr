@@ -5,6 +5,11 @@ une:
   image: "/uploads/Produits-et-services.jpg"
   alternative-textuelle: 
 publications:
+- title: "#FranceRelance : bénéficiez du volet « Transformation numérique de l’État
+    et des territoires »"
+  url: "/services/francerelance-transformation-numerique-etat-et-territoires/"
+  une-ou-diaporama:
+  - image: "/uploads/RUBRIQUE_FRANCE-RELANCE_1480x1000.jpg"
 - title: Conseil et accompagnement au cadrage et pilotage de projets numériques
   url: "/services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/"
   une-ou-diaporama:
