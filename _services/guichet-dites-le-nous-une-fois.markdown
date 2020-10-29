@@ -23,7 +23,7 @@ layout: rgaa
 <img src="/uploads/picto-accompagnement.png"/>
 </figure>## Notre accompagnement
 {: .margin-bottom-1}
-Vous êtes concernés par la production et l’exploitation de données administratives ? L’appui des experts de la DINUM couvre ces 3 volets.
+Vous êtes concernés par la production et l’exploitation de données administratives ? L’appui des experts de la DINUM couvre ces 3 volets :
 
 ### Le cadre légal
 {: .margin-bottom-1 .margin-top-3}
