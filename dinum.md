@@ -12,7 +12,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) est en cha
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 27 octobre 2020
+date_de_modification: 29 octobre 2020
 layout: dinsic
 ---
 
