@@ -47,7 +47,8 @@ layout: default
     {% endif %}
     {% for fichier in page.files %}
     <div class="text-center margin-top-2 padding-bottom-2 font-bold">
-      <a target="_blank" class="blue-link" id="fileSize-{{ fichier.file }}-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ fichier.file }}">
+      <a target="_blank" class="blue-link" id="fileSize-{{ fichier.file }}-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ fichier.file }}"
+         onclick="return tag.click.send({elem:this, name:'{{fichier.file}}', type:'téléchargement'});">
         <span class="fas fa-download margin-horizontal-1"></span>
         <span class="pdf">{{ fichier.nom }} (PDF </span>
       </a>
@@ -56,5 +57,6 @@ layout: default
   </article>
 </div>
 
-
-
+<script type="text/javascript">
+  var tag = new ATInternet.Tracker.Tag();
+</script>
