@@ -20,7 +20,8 @@ champs_informations:
 - intitule: 'Inscription (gratuite) '
   contenu: " à partir du 4 novembre et jusqu’au 27 novembre 2020 "
 - intitule: Programme
-  contenu: 'à venir très prochainement '
+  contenu: " à venir très prochainement  –  et profitez aussi de conférences du 23
+    au 26 novembre 2020"
 ---
 
 ### Plus de 300 postes à pourvoir
