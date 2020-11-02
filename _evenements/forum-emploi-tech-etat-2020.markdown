@@ -18,7 +18,7 @@ event_start_date: 2020-11-30 00:00:00 +01:00
 event_end_date: 2020-12-09 00:00:00 +01:00
 champs_informations:
 - intitule: 'Inscription (gratuite) '
-  contenu: " à partir du 4 novembre et jusqu’au 27 novembre 2020 "
+  contenu: " à partir du 9 novembre et jusqu’au 27 novembre 2020 "
 - intitule: Programme
   contenu: " à venir très prochainement  –  et profitez aussi de conférences du 23
     au 26 novembre 2020"
