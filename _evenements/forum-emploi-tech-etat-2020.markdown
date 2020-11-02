@@ -17,8 +17,8 @@ une-ou-diaporama:
 event_start_date: 2020-11-30 00:00:00 +01:00
 event_end_date: 2020-12-09 00:00:00 +01:00
 champs_informations:
-- intitule: 'Ouverture des inscriptions '
-  contenu: " à partir du 4 novembre 2020 "
+- intitule: 'Inscription (gratuite) '
+  contenu: " à partir du 4 novembre et jusqu’au 27 novembre 2020 "
 - intitule: Programme
   contenu: 'à venir très prochainement '
 ---
@@ -36,6 +36,6 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 {: .encadre}
 
 ### Une nouvelle édition 100% en ligne 
-En raison du contexte sanitaire, le format de ce rendez-vous incontournable de l’emploi public dans la tech vous est proposé **entièrement en ligne !**
+Pour cette nouvelle année, le format de ce rendez-vous incontournable de l’emploi public dans la tech vous est proposé **entièrement en ligne !**
  
 Ce forum regroupera **plus de 40 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, proposant plus de 300 postes à pourvoir en région et en Île-de-France. 
