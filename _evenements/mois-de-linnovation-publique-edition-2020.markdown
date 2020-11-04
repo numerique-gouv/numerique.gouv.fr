@@ -1,6 +1,6 @@
 ---
 title: Mois de l’innovation publique édition 2020
-date: 2020-11-04 20:04:00 +01:00
+date: 2020-11-04 20:06:00 +01:00
 published: false
 categories:
 - Mois de l'innovation publique
@@ -21,7 +21,7 @@ champs_informations:
   lien: https://www.modernisation.gouv.fr/mois-innovation-publique/programme
 ---
 
-A l’occasion de l’[édition 2020 du mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-innovation-publique/) organisée par la DITP, les équipes de la DINUM vous invite à une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, retours d’expériences, appel à idées, offres d’accompagnements et webinaires.
+A l’occasion de l’[édition 2020 du mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-innovation-publique/) organisée par la DITP, les équipes de la DINUM vous propose une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, retours d’expériences, appel à idées, offres d’accompagnements et webinaires.
 
 **A vos agendas : calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique**
 
