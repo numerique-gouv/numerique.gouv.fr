@@ -80,7 +80,7 @@ Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont
    <br>
    <br>
 
-<figure class='image-center' style='width: 10%;'><img src="/uploads/outils.png"></figure>
+<figure class='image-center' style='width: 8%;'><img src="/uploads/outils.png"></figure>
 ## Les caractéristiques en bref
 {: .text-center .margin-bottom-1 .margin-top-3}
 
