@@ -27,11 +27,11 @@ cursor: pointer;
 
 <figure class='image-left' style='width: 6%;'><img src="/uploads/chat.png" alt=""></figure>## Organisez facilement des conférences téléphoniques
 {: .margin-bottom-1}
-Agent de l’État, vous êtes en **télétravail** et avez besoin d’**appeler en même temps** trois membres de votre équipe ?
-<br>Vous devez organiser votre **réunion de service à distance**, avec vos 10 collaborateurs ?
-<br>Vous souhaitez effectuer **un point téléphonique avec plusieurs partenaires** extérieurs ou prestataires ?
+* Agent de l’État, vous êtes en **télétravail** et avez besoin d’**appeler en même temps** trois membres de votre équipe ?
+* Vous devez organiser votre **réunion de service à distance**, avec vos 10 collaborateurs ?
+* Vous souhaitez effectuer **un point téléphonique avec plusieurs partenaires** extérieurs ou prestataires ?
 
-Conçu pour vous, le service d’**audioconférence de l’État** vous permet de faire tout cela !
+Conçu pour vous, le service d’audioconférence de l’État vous permet de faire tout cela !
 
 Créez en quelques clics **une conférence téléphonique**, à laquelle pourront se joindre **jusqu'à 50 participants depuis tout téléphone**, fixe ou mobile.
 <br>
