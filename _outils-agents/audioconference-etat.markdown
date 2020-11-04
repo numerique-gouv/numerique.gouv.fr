@@ -50,18 +50,15 @@ Hébergé sur des serveurs en France, le service vous permet de communiquer sur 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto-intervention.png"/>
 </figure>## Comment ça marche ?
-{: .margin-bottom-1}
+{: .margin-bottom-2}
 
 #### Pour créer une audioconférence en tant qu’organisateur :
 
 Tout agent de l’État peut créer librement un salon d’audioconférence.
 
 1. **Rendez-vous** sur [audioconf.numerique.gouv.fr](https://audioconf.numerique.gouv.fr/)
-
 2. **Renseignez** votre adresse électronique professionnelle.
-
 3. **Confirmez** la réservation en cliquant sur le lien reçu par courriel (actif pendant 60 minutes)
-
 4. **Votre audioconférence est créée !** Vous recevez un nouveau courriel contenant le numéro de téléphone et l’identifiant de votre conférence, **à transmettre aux participants**
 
 Vous pouvez réserver votre conférence **jusqu’à 24 heures à l’avance**. Nul besoin d’en préciser l’horaire exact.
@@ -69,13 +66,12 @@ Vous pouvez réserver votre conférence **jusqu’à 24 heures à l’avance**. 
 #### Pour rejoindre un salon en tant qu’invité :
 
 1. Composez depuis **n’importe quel téléphone** le numéro fourni par l’organisateur et tapez l’identifiant de la conférence suivi de la touche dièse (#)
-
 2. **Vous êtes connecté !** La conférence est lancée dès l’arrivée de l’organisateur
+<br>
+<br>
 
 ## Les caractéristiques en bref
-
 {: .text-center .margin-bottom-1 .margin-top-3}
-
 * **Création d’une audioconf réservée aux agents de l’État**, sur [audioconf.numerique.gouv.fr](https://audioconf.numerique.gouv.fr/)
 
 * **Réservation possible en dernière minute ou en amont**, jusqu’à 24h à l’avance
