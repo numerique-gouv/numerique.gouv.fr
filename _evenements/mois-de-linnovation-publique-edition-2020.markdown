@@ -26,9 +26,8 @@ A l’occasion de l’[édition 2020 du Mois de l’innovation publique](https:/
 **A vos agendas : calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique**
 
 <br>
-<br>
 
-**[Du 02/11 au 30/11] [Appel à idées] [Services aux citoyens] [API]**\
+**[Du 02/11 au 30/11] [Appel à idées] [Services aux citoyens] [API]** \
 *A quelles données publiques rêvez-vous d’avoir accès ? Quels services souhaitez-vous construire grâce à ces données ?*
 
 Administrations, collectivités, entreprises, associations, citoyennes et citoyens, cet appel à idées vous concerne ! Afin de permettre la création de nouveaux services, simplifier des services existants, dématérialiser des démarches et faciliter le développement de nouveaux usages, nous souhaitons recueillir vos demandes d’accès à des données et les services que vous souhaitez construire grâce à la circulation des données.\
