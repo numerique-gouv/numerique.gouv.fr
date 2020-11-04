@@ -17,7 +17,7 @@ event_end_date: 2020-11-30 00:00:00 +01:00
 lieu: 'En ligne '
 champs_informations:
 - intitule: 'Programme '
-  contenu: complet de la DITP
+  contenu: détail du mois de l'innovation publique
   lien: https://www.modernisation.gouv.fr/mois-innovation-publique/programme
 ---
 
