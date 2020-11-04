@@ -7,6 +7,8 @@ tags:
 chapeau-text: Pour faciliter les échanges à distance, à plusieurs, l’État met à la
   disposition de tous ses agents un service d’audioconférence, accessible depuis n’importe
   quel téléphone.
+une:
+  image: "/uploads/1635x345_Visuel_audioconf.jpg"
 layout: rgaa
 ---
 
@@ -68,7 +70,7 @@ Vous pouvez réserver votre conférence **jusqu’à 24 heures à l’avance**. 
 #### Pour rejoindre un salon en tant qu’invité :
 {: .margin-bottom-1}
 
-1. Composez depuis **n’importe quel téléphone** le numéro fourni par l’organisateur et tapez l’identifiant de la conférence suivi de la touche dièse (#)
+1. **Composez** depuis n’importe quel téléphone le numéro fourni par l’organisateur et tapez l’identifiant de la conférence suivi de la touche dièse (#)
 2. **Vous êtes connecté !** La conférence est lancée dès l’arrivée de l’organisateur
 <br>
 <br>
