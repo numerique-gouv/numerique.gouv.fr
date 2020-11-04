@@ -4,6 +4,7 @@ date: 2020-11-04 13:04:00 +01:00
 tags:
 - Outils pour les agents
 - Audioconférence
+- Outils collaboratifs
 chapeau-text: Pour faciliter les échanges à distance, à plusieurs, l’État met à la
   disposition de tous ses agents un service d’audioconférence, accessible depuis n’importe
   quel téléphone.
