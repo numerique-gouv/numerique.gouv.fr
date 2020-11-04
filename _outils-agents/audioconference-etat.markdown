@@ -41,7 +41,7 @@ Créez en quelques clics **une conférence téléphonique**, à laquelle pourron
 <img src="/uploads/group-bleu.png"/>
 </figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
 {: .margin-bottom-1}
-Le service d’audioconférence est** destiné aux agents de l’État et de ses établissements publics, **seuls habilités à organiserune conférence téléphonique.Ils peuvent inviter à leur conférence **n’importe quels interlocuteurs**, qu’ils soient **internes ou externes** à l’administration, partenaires, prestataires, usagers…
+Le service d’audioconférence est **destiné aux agents de l’État et de ses établissements publics**, seuls habilités à organiser une conférence téléphonique. Ils peuvent inviter à leur conférence **n’importe quels interlocuteurs**, qu’ils soient **internes ou externes** à l’administration, partenaires, prestataires, usagers…
 
 Hébergé sur des serveurs en France, le service vous permet de communiquer sur tout sujet (hors diffusion restreinte).
 <br>
