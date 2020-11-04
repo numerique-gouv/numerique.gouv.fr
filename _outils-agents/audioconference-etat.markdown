@@ -80,6 +80,7 @@ Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont
    <br>
    <br>
 
+<figure class='image-center' style='width: 10%;'><img src="/uploads/outils.png"></figure>
 ## Les caractéristiques en bref
 {: .text-center .margin-bottom-1 .margin-top-3}
 
@@ -92,7 +93,6 @@ Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont
 <br>
 <br>
 
-<figure class='image-center' style='width: 10%;'><img src="/uploads/outils.png"></figure>
 <div align="center">
 <a href="https://audioconf.numerique.gouv.fr/" class="button"><b>Accéder au service Audioconf de l'État</b></a>
 </div>
