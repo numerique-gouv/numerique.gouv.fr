@@ -10,6 +10,8 @@ chapeau-text: 'Du 2 au 30 novembre à lieu l’édition 2020 du mois de l’inno
   portes virtuellement avec une série d’évènements en ligne accessibles à toutes et
   tous ! '
 categorie: Mois de l'innovation publique
+une-ou-diaporama:
+- image: "/uploads/lancement_du_mois_de_linnovation_publique2.png"
 event_start_date: 2020-11-02 00:00:00 +01:00
 event_end_date: 2020-11-30 00:00:00 +01:00
 lieu: 'En ligne '
