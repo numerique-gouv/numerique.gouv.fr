@@ -61,6 +61,7 @@ Tout agent de l’État peut créer librement un salon d’audioconférence.
 4. **Votre audioconférence est créée !** Vous recevez un nouveau courriel contenant le numéro de téléphone et l’identifiant de votre conférence, **à transmettre aux participants**
 
 Vous pouvez réserver votre conférence **jusqu’à 24 heures à l’avance**. Nul besoin d’en préciser l’horaire exact.
+<br>
 
 #### Pour rejoindre un salon en tant qu’invité :
 {: .margin-bottom-1}
