@@ -1,9 +1,13 @@
 ---
 title: Audioconférence de l’État
 date: 2020-11-04 13:04:00 +01:00
+tags:
+- Outils pour les agents
+- Audioconférence
 chapeau-text: Pour faciliter les échanges à distance, à plusieurs, l’État met à la
   disposition de tous ses agents un service d’audioconférence, accessible depuis n’importe
   quel téléphone.
+layout: rgaa
 ---
 
 <figure class='image-left' style='width: 6%;'><img src="/uploads/chat.png" alt=""></figure>## Organisez facilement des conférences téléphoniques
