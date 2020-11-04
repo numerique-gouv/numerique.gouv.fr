@@ -7,6 +7,10 @@ une:
   image: "/uploads/outils_agents_rubrique.png"
   alternative-textuelle: 
 publications:
+- title: Audioconférence de l’État
+  url: "/outils-agents/audioconference-etat/"
+  une-ou-diaporama:
+  - image: "/uploads/740x500_audioconference-rubrique.jpg"
 - title: 'Webconférence de l’État '
   url: "/outils-agents/webconference-etat/"
   une-ou-diaporama:
