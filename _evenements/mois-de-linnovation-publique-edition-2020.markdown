@@ -1,15 +1,14 @@
 ---
 title: Mois de l’innovation publique édition 2020
-date: 2020-11-04 16:25:00 +01:00
+date: 2020-11-04 20:02:00 +01:00
 published: false
 categories:
 - Mois de l'innovation publique
 tags:
 - innovation publique
-chapeau-text: 'Du 2 au 30 novembre à lieu l’édition 2020 du mois de l’innovation publique
-  organisée par la DITP, à cette occasion Etalab et de beta.gouv.fr vous ouvre leurs
-  portes virtuellement avec une série d’évènements en ligne accessibles à toutes et
-  tous ! '
+chapeau-text: 'Du 2 au 30 novembre 2020, participez au mois de l’innovation publique
+  organisée par la DITP. A cette occasion les équipes d''Etalab de beta.gouv.fr propose
+  une série d’évènements en ligne accessibles à toutes et tous ! '
 categorie: Mois de l'innovation publique
 une-ou-diaporama:
 - image: "/uploads/lancement_du_mois_de_linnovation_publique2.png"
@@ -18,11 +17,11 @@ event_end_date: 2020-11-30 00:00:00 +01:00
 lieu: 'En ligne '
 champs_informations:
 - intitule: 'Programme '
-  contenu: détail du mois de l'innovation publique
+  contenu: Détail du mois de l'innovation publique
   lien: https://www.modernisation.gouv.fr/mois-innovation-publique/programme
 ---
 
-A l’occasion de l’[édition 2020 du Mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-innovation-publique/) organisée par la DITP, les équipes de la DINUM vous invites de manière virtuelle avec une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, retours d’expérience, appel à idées, offres d’accompagnements et webinaires.
+A l’occasion de l’[édition 2020 du mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-innovation-publique/) organisée par la DITP, les équipes de la DINUM vous invite à une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, retours d’expériences, appel à idées, offres d’accompagnements et webinaires.
 
 **A vos agendas : calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique**
 
@@ -38,9 +37,9 @@ Administrations, collectivités, entreprises, associations, citoyennes et citoye
 
 **[Le 05/11 à 9h] [Webinaire] [beta.gouv.fr]**
 
-Vous êtes chargés de lancer un programme d’intrapreneuriat dans une administration publique ? Vous avez planifié d’en lancer un ? Vous êtes plus particulièrement membre d’une direction générale, directeur des ressources humaines, directrice du numérique ou chargé de la transformation… ?
+Vous êtes chargés de lancer un programme d’intrapreneuriat dans une administration publique ? Vous avez planifié d’en lancer un ? Vous êtes plus particulièrement membre d’une direction générale, directeur des ressources humaines, directrice du numérique ou en charge de la transformation… ?
 
-Le programme [beta.gouv.fr](https://beta.gouv.fr) , de la DINUM, accompagne des administrations nationales et locales dans leur programme d’intrapreneuriat.
+Le programme [beta.gouv.fr](https://beta.gouv.fr) , de la DINUM, accompagne des administrations centrales et locales dans leur programme d’intrapreneuriat.
 
 Depuis 2013, nous aidons des agents publics à créer des services publics numériques, appelés les “Startups d’État” car s’inspirant des méthodes de travail innovantes et de la culture entrepreneuriale des start-ups du privé.
 
@@ -59,8 +58,8 @@ Un an après la fin de la promotion 3 du [programme EIG](https://www.etalab.gouv
 
 <br>
 
-**[Le 10/11 à 14h] [Webinaire] [Appel à projets] [Plan de relance numérique]**
-*Réunion d’information sur l’appel à projets « Cycle de vie de la donnée » dans le cadre du Plan de relance*
+**[Le 10/11 à 14h] [Webinaire] [Appel à projets] [Volet numérique du plan France Relance]**
+*Réunion d’information sur l’appel à projets « Cycle de vie de la donnée » dans le cadre du plan France Relance*
 
 Vous êtes une administration et vous souhaitez développer le recours à la donnée dans la décision et la performance publique ? Cet appel à projets vise à développer l’utilisation de la donnée dans votre administration (IA, décisionnel, échange de données, open data, archivage), afin d’améliorer l’efficacité de l’action publique, développer une culture de la donnée au sein de votre structure ou accroître la qualité des données mises à disposition du public ou d’autres administrations. Etalab organise une réunion d’information pour vous présenter le dispositif et répondre à vos questions.
 
