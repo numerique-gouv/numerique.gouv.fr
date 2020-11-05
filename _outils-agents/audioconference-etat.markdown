@@ -32,9 +32,7 @@ cursor: pointer;
 {: .margin-bottom-1}
 
 * Agent de l’État, vous êtes en **télétravail** et avez besoin d’**appeler en même temps** trois membres de votre équipe ?
-
 * Vous devez organiser votre **réunion de service à distance**, avec vos 10 collaborateurs ?
-
 * Vous souhaitez effectuer **un point téléphonique avec plusieurs partenaires** extérieurs ou prestataires ?
 
 Conçu pour vous, le service d’audioconférence de l’État vous permet de faire tout cela !
@@ -47,9 +45,7 @@ Créez en quelques clics **une conférence téléphonique**, à laquelle pourron
 <img src="/uploads/group-bleu.png"/>
 </figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
 {: .margin-bottom-1}
-Le service d’audioconférence est** destiné aux agents de l’État et de ses établissements publics**.** **Ils peuvent réserver une conférence téléphonique et inviter **n’importe quels interlocuteurs**, qu’ils soient **internes ou externes** à l’administration, partenaires, prestataires, usagers…
-
-Le service est hébergé sur des serveurs en France.
+Le service d’audioconférence est **destiné aux agents de l’État et de ses établissements publics**. Ils peuvent réserver une conférence téléphonique et inviter **n’importe quels interlocuteurs**, qu’ils soient **internes ou externes** à l’administration, partenaires, prestataires, usagers…
 <br>
 <br>
 
@@ -77,8 +73,8 @@ Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont
 
 1. **Composez** depuis n’importe quel téléphone le numéro fourni par l’organisateur et tapez l’identifiant de la conférence
 2. **Vous êtes connecté !** La conférence est lancée dès l’arrivée de l’organisateur
-   <br>
-   <br>
+<br>
+<br>
 
 <figure class='image-center' style='width: 8%;'><img src="/uploads/outils.png"></figure>
 ## Les caractéristiques en bref
