@@ -4,7 +4,9 @@ date: 2020-11-05 01:04:00 +01:00
 tags:
 - Outils pour les agents
 - Audioconférence
-- Outils collaboratifs
+- Travail collaboratif
+- Télétravail
+- Travail à distance
 chapeau-text: Pour faciliter les échanges à distance, à plusieurs, l’État met à la
   disposition de tous ses agents un service d’audioconférence, accessible depuis n’importe
   quel téléphone.
@@ -97,6 +99,7 @@ Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont
 
 *Audioconf est un service interministériel crée et opéré par la direction interministérielle du numérique (DINUM). Il est réalisé dans le cadre du programme **[TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)** d’accélération de la transformation numérique du service public.
 <br>Audioconf a été développé par l’incubateur des services numériques de la DINUM et utilise sur des ressources techniques de l’entreprise française OVHcloud.*
+<br>
 
 **Découvrir aussi :**
 * [Webconférence de l’État](/outils-agents/webconference-etat/)
