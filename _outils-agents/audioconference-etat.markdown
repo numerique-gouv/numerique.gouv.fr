@@ -25,7 +25,6 @@ text-align: center;
 text-decoration: none;
 display: inline-block;
 font-style: normal;
-font-size: 20px;
 margin: 4px 2px;
 cursor: pointer;
 }
@@ -81,7 +80,7 @@ Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont
 
 > <figure class='image-center' style='width: 8%;'><img src="/uploads/outils.png"></figure>
 > ## Les caractéristiques en bref
-> {: .text-center .margin-bottom-1 .margin-top-0}
+{: .text-center .margin-bottom-1 .margin-top-0}
 > 
 > * **Création d’une audioconf réservée aux agents de l’État**, sur [audioconf.numerique.gouv.fr](https://audioconf.numerique.gouv.fr/)
 > * **Réservation possible en dernière minute ou en amont**, jusqu’à 24h à l’avance
