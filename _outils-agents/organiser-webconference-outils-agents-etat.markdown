@@ -6,6 +6,9 @@ tags:
 - Outils pour les agents
 - webconférence
 - visioconférence
+- Télétravail
+- Travail à distance
+- Travail collaboratif
 date_de_modification: 28 mai 2020
 chapeau-text: Dans cette période de crise et de télétravail massif, la DINUM a recensé
   des outils de webconférence recommandés pour les agents de l’État, en complément
@@ -19,6 +22,8 @@ layout: rgaa
 ## Pourquoi la webconférence ?
 {: .margin-bottom-1}
 Afin de faciliter la **collaboration en travail à distance**, les solutions de webconférence peuvent être une alternative aux audioconférences (ponts téléphoniques) en cas de nécessité de **voir les interlocuteurs** ou de **partager des documents en direct**.
+[**> Découvrir aussi le service d'audioconférence de l’État](/outils-agents/audioconference-etat/)
+
 
 ## Comment choisir une solution de webconférence ?
 {: .margin-top-2 .margin-bottom-1}
@@ -57,6 +62,8 @@ ATTENTION : Ces options sont valables pendant la crise liée au Covid-19. L’ou
 
 
 **Découvrir aussi :**
+* [Webconférence de l’État](/outils-agents/webconference-etat/)
+* [Audioconférence de l’État](/outils-agents/audioconference-etat/)
 * [Osmose, la plateforme des communautés professionnelles de l’État](/outils-agents/osmose/)
 <br>
 <br>
