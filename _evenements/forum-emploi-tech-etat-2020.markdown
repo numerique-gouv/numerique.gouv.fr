@@ -76,25 +76,29 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 
 #### Conférences tech 
 
-* **La Green tech dans les services numériques publics**
+* **La Green tech dans les services numériques publics** 
 <br>Lundi 23 novembre 2020, 17h-17h30
-* **Le numérique au service de la transformation des politiques publiques** <br>Lundi 23 novembre 2020, 17h30-18h
+* **Le numérique au service de la transformation des politiques publiques**
+<br>Lundi 23 novembre 2020, 17h30-18h
 * **Zoom sur les infras, le réseau**
 <br>Lundi 23 novembre 2020, 18h-18h30
-* **Les API au service des citoyens**, mardi 24 novembre, 17h-17h30
-* **Le logiciel libre dans l’État et les réalisations**, mardi 24 novembre, 17h30-18h
-* **Comment l’État attire les talents du numérique**, mardi 24 novembre, 18h-18h30
+* **Les API au service des citoyens** 
+<br>Mardi 24 novembre, 17h-17h30
+* **Le logiciel libre dans l’État et les réalisations**
+<br>Mardi 24 novembre, 17h30-18h
+* **Comment l’État attire les talents du numérique** 
+<br>Mardi 24 novembre, 18h-18h30
+* **La culture d'innovation au sein de l’État**
+<br>Mercredi 25 novembre, 17h-18h
+* **Datascience et open data : au cœur de la transformation numérique de l’État**
+<br>Mercredi 25 novembre, 18h-18h30 
+* **Les réalisations TECH de l’État**
+<br>Jeudi 26 novembre, 17h-17h30
+* **Les grands défis technologiques de l’État**
+<br>Jeudi 26 novembre, 17h30-18h
+* **Simplification des démarches et services aux citoyens : les startups d’État**
+<br>Jeudi 26 novembre, 18h-18h30
 
-**25/11/2020**
-
-* 17h-18h : La culture d'innovation au sein de l’État
-* 18h-18h30 : Datascience et open data : au cœur de la transformation numérique de l’État
-
-**26/11/2020**
-
-* 17h-17h30 : Les réalisations TECH de l’État
-* 17h30-18h : Les grands défis technologiques de l’État 
-* 18h-18h30 : Simplification des démarches et services aux citoyens : les startups d’État
 
 #### Présentations de recruteurs
 
