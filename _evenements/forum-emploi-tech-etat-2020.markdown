@@ -84,9 +84,9 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 > <br>- Échangez avec les recruteurs par téléphone ou en visio. 
 > <br>- Et participez aux ateliers de votre choix.
 > <div align="center">
-<a href="https://app.seekube.com/forum-emploi-tech-Etat2020" class="button"><b>S'inscrire au Forum</b></a>
-<br>Jusqu’au 27 novembre 2020, 14h
-</div>
+> <a href="https://app.seekube.com/forum-emploi-tech-Etat2020" class="button"><b>S'inscrire au Forum</b></a>
+> <br>Jusqu’au 27 novembre 2020, 14h
+> </div>
 {: .encadre}
 
 <div align="center"><h3>Programme complet</h3></div>
@@ -128,7 +128,7 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 mi
 
 Échangez avec les recruteurs par téléphone ou par visio.
 
-#### * **Présentations de recruteurs**
+#### **Présentations de recruteurs**
 {: .margin-bottom-0}
 Du 30 novembre au 9 décembre
 
@@ -147,7 +147,7 @@ Quelques-unes des administrations qui recrutent se présentent, en 30 minutes
 * **Le LINC : le Laboratoire d’Innovation Numérique de la CNIL** 
 <br>Mercredi 9 décembre, 14h30-15h 
 
-#### * **Ateliers**
+#### **Ateliers**
 {: .margin-bottom-0}
 Du 30 novembre au 9 décembre
 
