@@ -59,7 +59,7 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 > ### **Participez au Forum de l’emploi tech de l’État et créez le service public de demain !**
 >
 > {: .margin-top-1 .text-center}
-> {: .encadre}
+{: .encadre}
 
 Ce forum regroupera **plus de 30 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, proposant **plus de 300 postes à pourvoir** en région et en Île-de-France.
 
