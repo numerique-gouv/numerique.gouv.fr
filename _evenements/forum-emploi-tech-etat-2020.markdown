@@ -25,7 +25,9 @@ event_start_date: 2020-11-30 00:00:00 +01:00
 event_end_date: 2020-12-09 00:00:00 +01:00
 champs_informations:
 - intitule: Modalités
-  contenu: Inscription gratuite, jusqu’au 27 novembre 2020
+  contenu: entièrement gratuit
+- intitule: Inscription obligatoire
+  contenu: " s'inscrire jusqu’au 27 novembre 2020, 14h"
   lien: https://app.seekube.com/forum-emploi-tech-Etat2020
 ---
 
@@ -76,6 +78,7 @@ Programme à venir très prochainement
 
 <div align="center">
 <a href="https://app.seekube.com/forum-emploi-tech-Etat2020" class="button"><b>S'inscrire au Forum</b></a>
+<br>Jusqu’au 27 novembre 2020, 14h
 </div>
 <br>
 <br>
