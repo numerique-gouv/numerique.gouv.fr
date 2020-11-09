@@ -66,12 +66,6 @@ Vous aurez l'occasion d'échanger en direct avec le recruteur qui vous intéress
 ## Une édition 100% en ligne 
 Pour cette nouvelle année, le format de ce rendez-vous incontournable de l’emploi public dans la tech vous est proposé **entièrement en ligne !**
 <br>
- 
-> #### Comment participer au forum ?
-> 1. **Jusqu'au 27 novembre :** Inscrivez-vous, découvrez les différentes offres et prenez rendez-vous avec les recruteurs.
-> 2. **Du 30 novembre au 9 décembre 2020 :** Échangez avec les recruteurs par téléphone ou en visio.
-{: .encadre}
-<br>
 
 ## Des conférences et des ateliers
 En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100% en ligne :
@@ -82,12 +76,13 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 
 > #### Comment participer au forum ?
 > 1. **Jusqu'au 27 novembre :** 
-> <br>Créez votre compte sur [la plateforme dédiée](https://app.seekube.com/forum-emploi-tech-Etat2020), découvrez les différentes offres d'emploi et prenez rendez-vous avec les recruteurs. 
-> <br>Sélectionnez aussi les conférences et ateliers qui vous intéressent et inscrivez-vous via votre compte
+> <br>- Créez votre compte sur [la plateforme dédiée](https://app.seekube.com/forum-emploi-tech-Etat2020),
+> <br>- Découvrez les offres d'emploi proposées et prenez rendez-vous pour discuter librement avec les recruteurs.
+> <br>- Sélectionnez aussi les conférences et ateliers qui vous intéressent et inscrivez-vous via votre compte
 > 2. **Du 23 au 26 novembre** : assistez aux conférences de votre choix
 > 2. **Du 30 novembre au 9 décembre :** 
-> <br>Échangez avec les recruteurs par téléphone ou en visio. 
-> <br>Et participez aux ateliers de votre choix.
+> <br>- Échangez avec les recruteurs par téléphone ou en visio. 
+> <br>- Et participez aux ateliers de votre choix.
 {: .encadre}
 
 <div align="center"><h3>Programme</h3></div>
@@ -128,14 +123,16 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 
 
 #### Présentations de recruteurs
+{: .margin-bottom-0}
+**Du 30 novembre au 9 décembre**
 
 * **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle** 
 <br>Lundi 30 novembre, 14h30-15h
-* **La Direction de l’information légale et administrative, présentation, projets et opportunités** 
+* **La Direction de l’information légale et administrative : présentation, projets et opportunités** 
 <br>Mercredi 2 décembre, 13h30-14h
 * **Les missions du Département du Val d'Oise, l'écosystème et l'organisation de la DSI** 
 <br>Jeudi 3 décembre, 10h-10h30 
-* **Quels sont les métiers aux ministère de l’Économie, des Finances et de la Relance ?** 
+* **Quels sont les métiers au ministère de l’Économie, des Finances et de la Relance ?** 
 <br>Vendredi 4 décembre, 14h30-15h
 * **Quels sont les métiers tech du ministère de l’Europe et des Affaires étrangères ?** 
 <br>Mardi 8 décembre, 14h30-15h 
@@ -143,6 +140,8 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 <br>Mercredi 9 décembre, 14h30-15h 
 
 #### Ateliers
+{: .margin-bottom-0}
+**Du 30 novembre au 9 décembre**
 
 * **Elevator Pitch** 
 <br>Lundi 30 novembre, 17h-17h45 
