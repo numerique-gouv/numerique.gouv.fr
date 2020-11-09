@@ -6,6 +6,7 @@ categories:
 tags:
 - Emploi
 - RH
+- Tech
 chapeau-text: Du 30 novembre au 9 décembre 2020, la direction interministérielle du
   numérique (DINUM) organise la 4e édition du Forum de l’emploi tech de l’État, **une
   édition 100% en ligne** cette année. L’occasion de faire se rencontrer recruteurs
@@ -14,7 +15,12 @@ chapeau-text: Du 30 novembre au 9 décembre 2020, la direction interministériel
   tech du 23 au 26 novembre.
 categorie: Forum virtuel
 une-ou-diaporama:
-- image: "/uploads/2020_10_22_Article_Forum_recrutement_800x430.jpg"
+- image: "/uploads/AGENDA_FETE2020.jpg"
+  alternative-textuelle: |-
+    Forum de l'emploi tech de l’État
+    Créez le service public de demain
+    Du 30 novembre au 9 décembre 2020
+    + conférences du 23 au 26 novembre
 event_start_date: 2020-11-30 00:00:00 +01:00
 event_end_date: 2020-12-09 00:00:00 +01:00
 champs_informations:
