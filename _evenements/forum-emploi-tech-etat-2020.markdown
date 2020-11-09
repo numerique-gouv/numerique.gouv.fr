@@ -83,9 +83,13 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 > 2. **Du 30 novembre au 9 décembre :** 
 > <br>- Échangez avec les recruteurs par téléphone ou en visio. 
 > <br>- Et participez aux ateliers de votre choix.
+> <div align="center">
+<a href="https://app.seekube.com/forum-emploi-tech-Etat2020" class="button"><b>S'inscrire au Forum</b></a>
+<br>Jusqu’au 27 novembre 2020, 14h
+</div>
 {: .encadre}
 
-<div align="center"><h3>Programme</h3></div>
+<div align="center"><h3>Programme complet</h3></div>
 
 
 
@@ -126,9 +130,9 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 mi
 
 #### **Présentations de recruteurs**
 {: .margin-bottom-0}
-**Du 30 novembre au 9 décembre**
+Du 30 novembre au 9 décembre
 
-Zoom sur 
+Quelques-unes des administrations qui recrutent se présentent, en 30 minutes
 
 * **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle** 
 <br>Lundi 30 novembre, 14h30-15h
@@ -145,7 +149,7 @@ Zoom sur
 
 #### Ateliers
 {: .margin-bottom-0}
-**Du 30 novembre au 9 décembre**
+Du 30 novembre au 9 décembre
 
 Participez à des ateliers ludiques centrés sur le développement personnel et professionnel. 
 
