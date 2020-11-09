@@ -2,7 +2,7 @@
 title: Le Forum de l’emploi tech de l’État 2020
 date: 2020-10-15 20:05:00 +02:00
 categories:
-- forum virtuel
+- Forum emploi
 tags:
 - Emploi
 - RH
