@@ -65,14 +65,33 @@ Vous aurez l'occasion d'échanger en direct avec le recruteur qui vous intéress
 
 ## Une édition 100% en ligne 
 Pour cette nouvelle année, le format de ce rendez-vous incontournable de l’emploi public dans la tech vous est proposé **entièrement en ligne !**
+<br>
  
+> #### Comment participer au forum ?
+> 1. **Jusqu'au 27 novembre :** Inscrivez-vous, découvrez les différentes offres et prenez rendez-vous avec les recruteurs.
+> 2. **Du 30 novembre au 9 décembre 2020 :** Échangez avec les recruteurs par téléphone ou en visio.
+{: .encadre}
+<br>
+
 ## Des conférences et des ateliers
 En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100% en ligne :
 * **des conférences tech** pour explorer la culture tech de l’État et du service public, du 23 au 26 novembre, 
 * **des présentations de recruteurs**, pour mieux connaître quelques-unes des administrations proposant des postes, du 30 novembre au 9 décembre 
 * **des ateliers** pour coacher votre recherche d'emploi ou de mobilité, du 30 novembre au 9 décembre 
 
+
+> #### Comment participer au forum ?
+> 1. **Jusqu'au 27 novembre :** Inscrivez-vous, découvrez les différentes offres et prenez rendez-vous avec les recruteurs.
+> 2. **Du 30 novembre au 9 décembre 2020 :** Échangez avec les recruteurs par téléphone ou en visio.
+{: .encadre}
+
 <div align="center"><h3>Programme</h3></div>
+
+#### Job dating : Rencontres avec les recruteurs
+**Du 30 novembre au 9 décembre**
+
+Échangez avec les recruteurs par téléphone ou par visio.
+
 
 #### Conférences tech 
 
