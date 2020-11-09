@@ -76,6 +76,7 @@ Programme à venir très prochainement
 
 <div align="center">
 <a href="https://app.seekube.com/forum-emploi-tech-Etat2020" class="button"><b>S'inscrire au Forum</b></a>
+<br>Jusqu’au 27 novembre 2020, 14h
 </div>
 <br>
 <br>
