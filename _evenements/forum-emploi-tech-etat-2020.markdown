@@ -95,7 +95,7 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 
 #### **Conférences tech** 
 {: .margin-bottom-0}
-Du 23 novembre au 26 novembre
+*Du 23 novembre au 26 novembre*
 
 Explorez la culture tech de l’État, au gré de conférences en ligne de 30 minutes chacune
 
@@ -130,7 +130,7 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 mi
 
 #### **Présentations de recruteurs**
 {: .margin-bottom-0}
-Du 30 novembre au 9 décembre
+*Du 30 novembre au 9 décembre*
 
 Quelques-unes des administrations qui recrutent se présentent, en 30 minutes
 
@@ -149,7 +149,7 @@ Quelques-unes des administrations qui recrutent se présentent, en 30 minutes
 
 #### **Ateliers**
 {: .margin-bottom-0}
-Du 30 novembre au 9 décembre
+*Du 30 novembre au 9 décembre*
 
 Participez à des ateliers ludiques centrés sur le développement personnel et professionnel. 
 Nombre de places **limité à 10 personnes** par atelier. Réservez rapidement !
