@@ -102,7 +102,7 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 {: .margin-bottom-0}
 *Du 23 novembre au 26 novembre*
 
-Explorez la culture tech de l’État, au gré de conférences en ligne de 30 minutes chacune
+Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à 60 minutes chacune.
 
 * **La Green tech dans les services numériques publics**
   <br>Lundi 23 novembre 2020, 17h-17h30
@@ -141,9 +141,9 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 mi
 {: .margin-bottom-0}
 *Du 30 novembre au 9 décembre*
 
-Quelques-unes des administrations qui recrutent se présentent, en 30 minutes
+Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune.
 
-* **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle**
+* **La sous-direction des Technologies de l'Intérieur : l'informatique de tous les jours et la réponse opérationnelle**
   <br>Lundi 30 novembre, 14h30-15h
 * **La Direction de l’information légale et administrative : présentation, projets et opportunités**
   <br>Mercredi 2 décembre, 13h30-14h
