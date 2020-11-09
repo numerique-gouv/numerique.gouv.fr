@@ -127,9 +127,9 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 <br>Mercredi 2 décembre, 13h30-14h
 * **Les missions du Département du Val d'Oise, l'écosystème et l'organisation de la DSI** 
 <br>Jeudi 3 décembre, 10h-10h30 
-* **Quels sont les métiers aux ministères de l’Economie, des Finances et de la Relance ?** 
+* **Quels sont les métiers aux ministère de l’Économie, des Finances et de la Relance ?** 
 <br>Vendredi 4 décembre, 14h30-15h
-* **Quels sont les métiers Tech du ministère de l’Europe et des Affaires étrangères ?** 
+* **Quels sont les métiers tech du ministère de l’Europe et des Affaires étrangères ?** 
 <br>Mardi 8 décembre, 14h30-15h 
 * **Le LINC : le Laboratoire d’Innovation Numérique de la CNIL** 
 <br>Mercredi 9 décembre, 14h30-15h 
