@@ -140,9 +140,9 @@ Quelques-unes des administrations qui recrutent se présentent, en 30 minutes
 <br>Mercredi 2 décembre, 13h30-14h
 * **Les missions du Département du Val d'Oise, l'écosystème et l'organisation de la DSI** 
 <br>Jeudi 3 décembre, 10h-10h30 
-* **Quels sont les métiers au ministère de l’Économie, des Finances et de la Relance ?** 
+* **Les métiers du ministère de l’Économie, des Finances et de la Relance** 
 <br>Vendredi 4 décembre, 14h30-15h
-* **Quels sont les métiers tech du ministère de l’Europe et des Affaires étrangères ?** 
+* **Les métiers tech du ministère de l’Europe et des Affaires étrangères** 
 <br>Mardi 8 décembre, 14h30-15h 
 * **Le LINC : le Laboratoire d’Innovation Numérique de la CNIL** 
 <br>Mercredi 9 décembre, 14h30-15h 
