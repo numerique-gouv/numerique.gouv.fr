@@ -67,9 +67,12 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 * **des présentations de recruteurs**, pour mieux connaître quelques-unes des administrations proposant des postes, du 30 novembre au 9 décembre 
 * **des ateliers** pour coacher votre recherche d'emploi ou de mobilité, du 30 novembre au 9 décembre 
 
+Programme à venir très prochainement
+<br>
+<br>
 
 <div align="center">
-<a href="https://app.seekube.com/forum-emploi-tech-Etat2020" class="button"><b>S'inscrire</b></a>
+<a href="https://app.seekube.com/forum-emploi-tech-Etat2020" class="button"><b>S'inscrire au Forum</b></a>
 </div>
 <br>
 <br>
