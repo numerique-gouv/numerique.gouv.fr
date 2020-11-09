@@ -79,22 +79,20 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 * **des ateliers** pour coacher votre recherche d'emploi ou de mobilité, du 30 novembre au 9 décembre
 
 > #### Comment participer au forum ?
->
-> 1. **Jusqu'au 27 novembre :**
->    <br>- Créez votre compte sur [la plateforme dédiée](https://app.seekube.com/forum-emploi-tech-Etat2020)
->    <br>- Découvrez les offres d'emploi proposées et prenez rendez-vous pour discuter librement avec les recruteurs
->    <br>- Sélectionnez aussi les conférences et ateliers qui vous intéressent et inscrivez-vous via votre compte
->
+> 1. **Jusqu'au 27 novembre :** 
+> <br>- Créez votre compte sur [la plateforme dédiée](https://app.seekube.com/forum-emploi-tech-Etat2020)
+> <br>- Découvrez les offres d'emploi proposées et prenez rendez-vous pour discuter librement avec les recruteurs
+> <br>- Sélectionnez aussi les conférences et ateliers qui vous intéressent et inscrivez-vous via votre compte
 > 2. **Du 23 au 26 novembre** : Assistez aux conférences de votre choix
->
-> 3. **Du 30 novembre au 9 décembre :**
-> <br>- Échangez avec les recruteurs par téléphone ou en visio.
+> 3. **Du 30 novembre au 9 décembre :** 
+> <br>- Échangez avec les recruteurs par téléphone ou en visio. 
 > <br>- Participez aux ateliers de votre choix.
 > <div align="center">
 > <a href="https://app.seekube.com/forum-emploi-tech-Etat2020" class="button"><b>S'inscrire au Forum</b></a>
 > <br>Jusqu’au 27 novembre 2020, 14h
 > </div>
 {: .encadre}
+
 
 <div align="center"><h3>Programme complet</h3></div>
 
