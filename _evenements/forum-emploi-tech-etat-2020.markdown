@@ -102,65 +102,47 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 
 #### Présentations de recruteurs
 
-**30/11/2020**
-
-* 14h30-15h : La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle
-
-**02/12/2020**
-
-* 13h30-14h : La Direction de l’information légale et administrative, présentation, projets et opportunités
-
-**03/12/2020**
-
-* 10h-10h30 : Les missions du Département du Val d'Oise, l'écosystème et l'organisation de la DSI
-
-**04/12/2020**
-
-* 14h30-15h : Quels sont les métiers aux ministères de l’Economie, des Finances et de la Relance ?
-
-**08/12/2020**
-
-* 14h30-15h : Quels sont les métiers Tech du ministère de l’Europe et des Affaires étrangères ?
-
-**09/12/2020**
-
-* 14h30-15h : Le LINC : le Laboratoire d’Innovation Numérique de la CNIL 
+* **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle** 
+<br>Lundi 30 novembre, 14h30-15h
+* **La Direction de l’information légale et administrative, présentation, projets et opportunités** 
+<br>Mercredi 2 décembre, 13h30-14h
+* **Les missions du Département du Val d'Oise, l'écosystème et l'organisation de la DSI** 
+<br>Jeudi 3 décembre, 10h-10h30 
+* **Quels sont les métiers aux ministères de l’Economie, des Finances et de la Relance ?** 
+<br>Vendredi 4 décembre, 14h30-15h
+* **Quels sont les métiers Tech du ministère de l’Europe et des Affaires étrangères ?** 
+<br>Mardi 8 décembre, 14h30-15h 
+* **Le LINC : le Laboratoire d’Innovation Numérique de la CNIL** 
+<br>Mercredi 9 décembre, 14h30-15h 
 
 #### Ateliers
 
-**30/11/2020**
-
-* 17h-17h45 : Elevator Pitch
-* 17h45-18h30 : Coacher ma démarche emploi
-
-**01/12/2020**
-
-* 17h-17h45 : Trouvez votre ikigaï : l’emploi tech qui vous rendra heureux
-* 17h45-18h30 : Travailler dans la tech : regards croisés privé/public 
-
-**03/12/2020**
-
-* 17h-17h45 : La Top posture pour un entretien visio réussi !
-* 17h45-18h30 : Coacher ma démarche emploi
-
-**04/12/2020**
-
-* 17h-17h45 : Trouvez votre ikigaï : l’emploi tech qui vous rendra heureux
-
-**07/12/2020**
-
-* 17h-17h45 : Elevator Pitch
-* 17h45-18h30 : Travailler dans la tech : regards croisés privé/public 
-
-**08/12/2020**
-
-* 17h-17h45 : La Top posture pour un entretien visio réussi
-* 17h45-18h30 : Coacher ma mobilité
-
-**09/12/2020**
-
-* 17h-17h45 : Coacher ma démarche emploi
-* 17h45-18h30 : Travailler dans la tech : regards croisés privé/public 
+* **Elevator Pitch** 
+<br>Lundi 30 novembre, 17h-17h45 
+* **Coacher ma démarche emploi** 
+<br>Lundi 30 novembre, 17h45-18h30
+* **Trouvez votre ikigaï : l’emploi tech qui vous rendra heureux** 
+<br>Mardi 1er décembre, 17h-17h45
+* **Travailler dans la tech : regards croisés privé/public** 
+<br>Mardi 1er décembre, 17h45-18h30
+* **La Top posture pour un entretien visio réussi !** 
+<br>Jeudi 3 décembre, 17h-17h45
+* **Coacher ma démarche emploi** 
+<br>Jeudi 3 décembre, 17h45-18h30
+* **Trouvez votre ikigaï : l’emploi tech qui vous rendra heureux** 
+<br>Vendredi 4 décembre, 17h-17h45
+* **Elevator Pitch** 
+<br>Lundi 7 décembre, 17h-17h45
+* **Travailler dans la tech : regards croisés privé/public** 
+<br>Lundi 7 décembre, 17h45-18h30
+* **La Top posture pour un entretien visio réussi** 
+<br>Mardi 8 décembre, 17h-17h45
+* **Coacher ma mobilité** 
+<br>Mardi 8 décembre, 17h45-18h30
+* **Coacher ma démarche emploi** 
+<br>Mercredi 9 décembre, 17h-17h45 
+* **Travailler dans la tech : regards croisés privé/public** 
+<br>Mercredi 9 décembre, 17h45-18h30
 <br>
 <br>
 
