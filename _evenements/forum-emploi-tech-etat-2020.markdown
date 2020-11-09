@@ -20,9 +20,6 @@ champs_informations:
 - intitule: 'Inscription (gratuite) '
   contenu: " à partir du 9 novembre et jusqu’au 27 novembre 2020 "
   lien: https://app.seekube.com/forum-emploi-tech-Etat2020
-- intitule: Programme
-  contenu: " à venir très prochainement  –  et profitez aussi de conférences du 23
-    au 26 novembre 2020"
 ---
 
 ### Plus de 300 postes à pourvoir
@@ -41,3 +38,5 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 Pour cette nouvelle année, le format de ce rendez-vous incontournable de l’emploi public dans la tech vous est proposé **entièrement en ligne !**
  
 Ce forum regroupera **plus de 30 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, proposant plus de 300 postes à pourvoir en région et en Île-de-France. 
+
+**Programme :  à venir très prochainement  –  et profitez aussi de conférences du 23 au 26 novembre 2020**
