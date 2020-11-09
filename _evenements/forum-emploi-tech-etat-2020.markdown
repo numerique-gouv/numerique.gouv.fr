@@ -99,7 +99,6 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 <div align="center"><h3>Programme complet</h3></div>
 
 #### **Conférences tech**
-
 {: .margin-bottom-0}
 *Du 23 novembre au 26 novembre*
 
@@ -107,41 +106,30 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 mi
 
 * **La Green tech dans les services numériques publics**
   <br>Lundi 23 novembre 2020, 17h-17h30
-
 * **Le numérique au service de la transformation des politiques publiques**
   <br>Lundi 23 novembre 2020, 17h30-18h
-
 * **Zoom sur les infras, le réseau**
   <br>Lundi 23 novembre 2020, 18h-18h30
-
 * **Les API au service des citoyens**
   <br>Mardi 24 novembre, 17h-17h30
-
 * **Le logiciel libre dans l’État et les réalisations**
   <br>Mardi 24 novembre, 17h30-18h
-
 * **Comment l’État attire les talents du numérique**
   <br>Mardi 24 novembre, 18h-18h30
-
 * **La culture d'innovation au sein de l’État**
   <br>Mercredi 25 novembre, 17h-18h
-
 * **Datascience et open data : au cœur de la transformation numérique de l’État**
   <br>Mercredi 25 novembre, 18h-18h30
-
 * **Les réalisations TECH de l’État**
   <br>Jeudi 26 novembre, 17h-17h30
-
 * **Les grands défis technologiques de l’État**
   <br>Jeudi 26 novembre, 17h30-18h
-
 * **Simplification des démarches et services aux citoyens : les startups d’État**
   <br>Jeudi 26 novembre, 18h-18h30
   <br>
   <br>
 
 #### **Job dating : Rencontres avec les recruteurs**
-
 {: .margin-bottom-0}
 *Du 30 novembre au 9 décembre*
 
@@ -150,7 +138,6 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 mi
 <br>
 
 #### **Présentations de recruteurs**
-
 {: .margin-bottom-0}
 *Du 30 novembre au 9 décembre*
 
@@ -158,19 +145,14 @@ Quelques-unes des administrations qui recrutent se présentent, en 30 minutes
 
 * **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle**
   <br>Lundi 30 novembre, 14h30-15h
-
 * **La Direction de l’information légale et administrative : présentation, projets et opportunités**
   <br>Mercredi 2 décembre, 13h30-14h
-
 * **Les missions du Département du Val d'Oise, l'écosystème et l'organisation de la DSI**
   <br>Jeudi 3 décembre, 10h-10h30
-
 * **Les métiers du ministère de l’Économie, des Finances et de la Relance**
   <br>Vendredi 4 décembre, 14h30-15h
-
 * **Les métiers tech du ministère de l’Europe et des Affaires étrangères**
   <br>Mardi 8 décembre, 14h30-15h
-
 * **Le LINC : le Laboratoire d’Innovation Numérique de la CNIL**
   <br>Mercredi 9 décembre, 14h30-15h
   <br>
@@ -187,25 +169,20 @@ Nombre de places **limité à 10 personnes** par atelier. Réservez rapidement !
 * **Elevator Pitch : les clés pour construire un elevator pitch efficace**
   <br>Lundi 30 novembre, 17h-17h45
   <br>Lundi 7 décembre, 17h-17h45
-
 * **Coacher ma démarche emploi**
   <br>Lundi 30 novembre, 17h45-18h30
   <br>Jeudi 3 décembre, 17h45-18h30
   <br>Mercredi 9 décembre, 17h-17h45
-
 * **Trouvez votre ikigaï : l’emploi tech qui vous rendra heureux**
   <br>Mardi 1er décembre, 17h-17h45
   <br>Vendredi 4 décembre, 17h-17h45
-
 * **Travailler dans la tech : regards croisés privé/public**
   <br>Mardi 1er décembre, 17h45-18h30
   <br>Lundi 7 décembre, 17h45-18h30
   <br>Mercredi 9 décembre, 17h45-18h30
-
-* **La Top posture pour un entretien visio réussi !**
+* **La top posture pour un entretien visio réussi !**
   <br>Jeudi 3 décembre, 17h-17h45
   <br>Mardi 8 décembre, 17h-17h45
-
 * **Coacher ma mobilité**
   <br>Mardi 8 décembre, 17h45-18h30
   <br>
