@@ -95,7 +95,7 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 
 #### **Conférences tech** 
 {: .margin-bottom-0}
-**Du 23 novembre au 26 novembre**
+Du 23 novembre au 26 novembre
 
 Explorez la culture tech de l’État, au gré de conférences en ligne de 30 minutes chacune
 
