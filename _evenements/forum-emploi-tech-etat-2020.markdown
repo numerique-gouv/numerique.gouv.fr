@@ -21,9 +21,6 @@ champs_informations:
 - intitule: Modalités
   contenu: Inscription gratuite, jusqu’au 27 novembre 2020
   lien: https://app.seekube.com/forum-emploi-tech-Etat2020
-- intitule: Programme
-  contenu: " à venir très prochainement  –  et profitez aussi de conférences du 23
-    au 26 novembre 2020"
 ---
 
 <style>
