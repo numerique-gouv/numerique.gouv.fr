@@ -152,8 +152,7 @@ Quelques-unes des administrations qui recrutent se présentent, en 30 minutes
 Du 30 novembre au 9 décembre
 
 Participez à des ateliers ludiques centrés sur le développement personnel et professionnel. 
-
-Attention : le nombre de places pour chaque atelier est **limité à 10 personnes**. Réservez rapidement !
+Nombre de places **limité à 10 personnes** par atelier. Réservez rapidement !
 
 * **Elevator Pitch : les clés pour construire un elevator pitch efficace** 
 <br>Lundi 30 novembre, 17h-17h45 
