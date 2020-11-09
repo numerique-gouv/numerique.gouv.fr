@@ -81,8 +81,9 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 
 
 > #### Comment participer au forum ?
-> 1. **Jusqu'au 27 novembre :** Inscrivez-vous, découvrez les différentes offres et prenez rendez-vous avec les recruteurs.
-> 2. **Du 30 novembre au 9 décembre 2020 :** Échangez avec les recruteurs par téléphone ou en visio.
+> 1. **Jusqu'au 27 novembre :** Créez votre compte sur [la plateforme dédiée](https://app.seekube.com/forum-emploi-tech-Etat2020), découvrez les différentes offres d'emploi et prenez rendez-vous avec les recruteurs. Sélectionnez aussi les conférences et ateliers qui vous intéressent et inscrivez-vous via votre compte
+> 2. **Du 23 au 26 novembre** : participez aux conférences où vous vous êtes inscrit
+> 2. **Du 30 novembre au 9 décembre :** Échangez avec les recruteurs par téléphone ou en visio. Et participez aux ateliers de votre choix.
 {: .encadre}
 
 <div align="center"><h3>Programme</h3></div>
