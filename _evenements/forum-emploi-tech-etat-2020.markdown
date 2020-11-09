@@ -122,7 +122,7 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 mi
 * **Simplification des démarches et services aux citoyens : les startups d’État**
 <br>Jeudi 26 novembre, 18h-18h30
 
-#### * **Job dating : Rencontres avec les recruteurs**
+#### **Job dating : Rencontres avec les recruteurs**
 {: .margin-bottom-0}
 **Du 30 novembre au 9 décembre**
 
