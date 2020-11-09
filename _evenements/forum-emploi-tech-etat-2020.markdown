@@ -125,7 +125,7 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 mi
 
 #### **Job dating : Rencontres avec les recruteurs**
 {: .margin-bottom-0}
-Du 30 novembre au 9 décembre
+*Du 30 novembre au 9 décembre*
 
 Échangez avec les recruteurs par téléphone ou par visio.
 <br>
