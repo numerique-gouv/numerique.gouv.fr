@@ -55,7 +55,7 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 
 
 > {: .text-center}
-> ## **Participez au Forum de l’emploi tech de l’État et créez le service public de demain !**
+> ### **Participez au Forum de l’emploi tech de l’État et créez le service public de demain !**
 > {: .margin-top-1 .text-center} 
 {: .encadre}
 
@@ -81,20 +81,27 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 
 
 > #### Comment participer au forum ?
-> 1. **Jusqu'au 27 novembre :** Créez votre compte sur [la plateforme dédiée](https://app.seekube.com/forum-emploi-tech-Etat2020), découvrez les différentes offres d'emploi et prenez rendez-vous avec les recruteurs. Sélectionnez aussi les conférences et ateliers qui vous intéressent et inscrivez-vous via votre compte
-> 2. **Du 23 au 26 novembre** : participez aux conférences où vous vous êtes inscrit
-> 2. **Du 30 novembre au 9 décembre :** Échangez avec les recruteurs par téléphone ou en visio. Et participez aux ateliers de votre choix.
+> 1. **Jusqu'au 27 novembre :** 
+> <br>Créez votre compte sur [la plateforme dédiée](https://app.seekube.com/forum-emploi-tech-Etat2020), découvrez les différentes offres d'emploi et prenez rendez-vous avec les recruteurs. 
+> <br>Sélectionnez aussi les conférences et ateliers qui vous intéressent et inscrivez-vous via votre compte
+> 2. **Du 23 au 26 novembre** : assistez aux conférences de votre choix
+> 2. **Du 30 novembre au 9 décembre :** 
+> <br>Échangez avec les recruteurs par téléphone ou en visio. 
+> <br>Et participez aux ateliers de votre choix.
 {: .encadre}
 
 <div align="center"><h3>Programme</h3></div>
 
 #### Job dating : Rencontres avec les recruteurs
+{: .margin-bottom-0}
 **Du 30 novembre au 9 décembre**
 
 Échangez avec les recruteurs par téléphone ou par visio.
 
 
 #### Conférences tech 
+{: .margin-bottom-0}
+**Du 23 novembre au 26 novembre**
 
 * **La Green tech dans les services numériques publics** 
 <br>Lundi 23 novembre 2020, 17h-17h30
