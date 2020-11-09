@@ -92,7 +92,6 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 <div align="center"><h3>Programme complet</h3></div>
 
 
-
 #### **Conférences tech** 
 {: .margin-bottom-0}
 *Du 23 novembre au 26 novembre*
@@ -121,12 +120,16 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 mi
 <br>Jeudi 26 novembre, 17h30-18h
 * **Simplification des démarches et services aux citoyens : les startups d’État**
 <br>Jeudi 26 novembre, 18h-18h30
+<br>
+<br>
 
 #### **Job dating : Rencontres avec les recruteurs**
 {: .margin-bottom-0}
-**Du 30 novembre au 9 décembre**
+Du 30 novembre au 9 décembre
 
 Échangez avec les recruteurs par téléphone ou par visio.
+<br>
+<br>
 
 #### **Présentations de recruteurs**
 {: .margin-bottom-0}
@@ -146,6 +149,8 @@ Quelques-unes des administrations qui recrutent se présentent, en 30 minutes
 <br>Mardi 8 décembre, 14h30-15h 
 * **Le LINC : le Laboratoire d’Innovation Numérique de la CNIL** 
 <br>Mercredi 9 décembre, 14h30-15h 
+<br>
+<br>
 
 #### **Ateliers**
 {: .margin-bottom-0}
