@@ -159,7 +159,6 @@ Quelques-unes des administrations qui recrutent se présentent, en 30 minutes
   <br>
 
 #### **Ateliers**
-
 {: .margin-bottom-0}
 *Du 30 novembre au 9 décembre*
 
