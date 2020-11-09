@@ -46,7 +46,7 @@ cursor: pointer;
 }
 </style>
 
-### Plus de 300 postes à pourvoir
+## Plus de 300 postes à pourvoir
 Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
 
 Vous êtes **jeune diplômé d’une école du numérique** et curieux des opportunités professionnelles offertes par l’État ?
@@ -63,31 +63,27 @@ Ce forum regroupera **plus de 30 services recruteurs**, issus de la fonction pub
 
 Vous aurez l'occasion d'échanger en direct avec le recruteur qui vous intéresse, lors d'un rendez-vous en tête-à-tête (virtuel) [à réserver en ligne](https://app.seekube.com/forum-emploi-tech-Etat2020).
 
-### Une édition 100% en ligne 
+## Une édition 100% en ligne 
 Pour cette nouvelle année, le format de ce rendez-vous incontournable de l’emploi public dans la tech vous est proposé **entièrement en ligne !**
  
-### Des conférences et des ateliers
+## Des conférences et des ateliers
 En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100% en ligne :
 * **des conférences tech** pour explorer la culture tech de l’État et du service public, du 23 au 26 novembre, 
 * **des présentations de recruteurs**, pour mieux connaître quelques-unes des administrations proposant des postes, du 30 novembre au 9 décembre 
 * **des ateliers** pour coacher votre recherche d'emploi ou de mobilité, du 30 novembre au 9 décembre 
 
-
-### Programme 
+<div align="center"><h3>Programme</h3></div>
 
 #### Conférences tech 
 
-**23/11/2020** 
-
-* 17h-17h30 : La Green tech dans les services numériques publics
-* 17h30-18h : Le numérique au service de la transformation des politiques publiques
-* 18h-18h30 : Zoom sur les infras, le réseau
-
-**24/11/2020**
-
-* 17h-17h30 : Les API au service des citoyens
-* 17h30-18h : Le logiciel libre dans l’État et les réalisations
-* 18h-18h30 : Comment l’État attire les talents du numérique
+* **La Green tech dans les services numériques publics**
+<br>Lundi 23 novembre 2020, 17h-17h30
+* **Le numérique au service de la transformation des politiques publiques** <br>Lundi 23 novembre 2020, 17h30-18h
+* **Zoom sur les infras, le réseau**
+<br>Lundi 23 novembre 2020, 18h-18h30
+* **Les API au service des citoyens**, mardi 24 novembre, 17h-17h30
+* **Le logiciel libre dans l’État et les réalisations**, mardi 24 novembre, 17h30-18h
+* **Comment l’État attire les talents du numérique**, mardi 24 novembre, 18h-18h30
 
 **25/11/2020**
 
