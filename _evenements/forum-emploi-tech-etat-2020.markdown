@@ -87,16 +87,13 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 
 <div align="center"><h3>Programme</h3></div>
 
-#### Job dating : Rencontres avec les recruteurs
-{: .margin-bottom-0}
-**Du 30 novembre au 9 décembre**
-
-Échangez avec les recruteurs par téléphone ou par visio.
 
 
-#### Conférences tech 
+#### **Conférences tech** 
 {: .margin-bottom-0}
 **Du 23 novembre au 26 novembre**
+
+Explorez la culture tech de l’État, au gré de conférences en ligne de 30 minutes chacune
 
 * **La Green tech dans les services numériques publics** 
 <br>Lundi 23 novembre 2020, 17h-17h30
@@ -121,10 +118,17 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 * **Simplification des démarches et services aux citoyens : les startups d’État**
 <br>Jeudi 26 novembre, 18h-18h30
 
-
-#### Présentations de recruteurs
+#### **Job dating : Rencontres avec les recruteurs**
 {: .margin-bottom-0}
 **Du 30 novembre au 9 décembre**
+
+Échangez avec les recruteurs par téléphone ou par visio.
+
+#### **Présentations de recruteurs**
+{: .margin-bottom-0}
+**Du 30 novembre au 9 décembre**
+
+Zoom sur 
 
 * **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle** 
 <br>Lundi 30 novembre, 14h30-15h
@@ -143,7 +147,11 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 {: .margin-bottom-0}
 **Du 30 novembre au 9 décembre**
 
-* **Elevator Pitch** 
+Participez à des ateliers ludiques centrés sur le développement personnel et professionnel. 
+
+Attention : le nombre de places pour chaque atelier est **limité à 10 personnes**. Réservez rapidement !
+
+* **Elevator Pitch : les clés pour construire un elevator pitch efficace** 
 <br>Lundi 30 novembre, 17h-17h45 
 * **Coacher ma démarche emploi** 
 <br>Lundi 30 novembre, 17h45-18h30
@@ -157,7 +165,7 @@ En plus des rencontres avec les recruteurs, le forum vous propose, toujours 100%
 <br>Jeudi 3 décembre, 17h45-18h30
 * **Trouvez votre ikigaï : l’emploi tech qui vous rendra heureux** 
 <br>Vendredi 4 décembre, 17h-17h45
-* **Elevator Pitch** 
+* **Elevator Pitch : les clés pour construire un elevator pitch efficace** 
 <br>Lundi 7 décembre, 17h-17h45
 * **Travailler dans la tech : regards croisés privé/public** 
 <br>Lundi 7 décembre, 17h45-18h30
