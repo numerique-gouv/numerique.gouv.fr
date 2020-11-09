@@ -160,15 +160,20 @@ Participez à des ateliers ludiques centrés sur le développement personnel et 
 Nombre de places **limité à 10 personnes** par atelier. Réservez rapidement !
 
 * **Elevator Pitch : les clés pour construire un elevator pitch efficace** 
-<br>Lundi 30 novembre, 17h-17h45 
+<br>Lundi 30 novembre, 17h-17h45
+<br>Lundi 7 décembre, 17h-17h45 
 * **Coacher ma démarche emploi** 
 <br>Lundi 30 novembre, 17h45-18h30
+<br>Mercredi 9 décembre, 17h-17h45
 * **Trouvez votre ikigaï : l’emploi tech qui vous rendra heureux** 
 <br>Mardi 1er décembre, 17h-17h45
+<br>Vendredi 4 décembre, 17h-17h45
 * **Travailler dans la tech : regards croisés privé/public** 
 <br>Mardi 1er décembre, 17h45-18h30
+<br>Mercredi 9 décembre, 17h45-18h30 
 * **La Top posture pour un entretien visio réussi !** 
 <br>Jeudi 3 décembre, 17h-17h45
+<br>Mardi 8 décembre, 17h-17h45
 * **Coacher ma démarche emploi** 
 <br>Jeudi 3 décembre, 17h45-18h30
 * **Trouvez votre ikigaï : l’emploi tech qui vous rendra heureux** 
