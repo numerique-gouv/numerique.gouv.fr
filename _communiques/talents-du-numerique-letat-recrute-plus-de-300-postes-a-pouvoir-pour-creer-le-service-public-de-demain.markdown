@@ -1,7 +1,7 @@
 ---
 title: "Talents du numérique : L’État recrute ! \nPlus de 300 postes à pouvoir pour
   créer le service public de demain"
-date: 2020-11-10 12:52:00 +01:00
+date: 2020-11-10 12:57:00 +01:00
 categories:
 - Communiqué de presse
 tags:
@@ -24,7 +24,7 @@ contact-presse:
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
 files:
-- file: "/uploads/CP_VIS_MON_JOB_1_JOUR_1_DUO_1_METIER_TECH-14ce4c.pdf"
+- file: "/uploads/CP_DINUM_TALENTS_DU_NUMERIQUE_L_ETAT_RECRUTE_300_POSTES_A_POURVOIR-fa566c.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
