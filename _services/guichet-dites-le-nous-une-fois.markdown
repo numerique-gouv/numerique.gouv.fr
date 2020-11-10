@@ -19,6 +19,9 @@ une-ou-diaporama:
 layout: rgaa
 ---
 
+**Découvrez en 1'45 le principe Dites-le-nous une fois et l'accompagnement de la DINUM :**
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/k7cJDWnimRuU7fwpByr" width="100%" height="100%" allowfullscreen > </iframe> </div>
+
 <figure class='image-left' style='width: 10%;'>
 <img src="/uploads/picto-accompagnement.png"/>
 </figure>## Notre accompagnement
