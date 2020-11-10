@@ -1,7 +1,7 @@
 ---
 title: "Talents du numérique : L’État recrute ! \nPlus de 300 postes à pouvoir pour
   créer le service public de demain"
-date: 2020-11-10 12:57:00 +01:00
+date: 2020-11-10 12:59:00 +01:00
 categories:
 - Communiqué de presse
 tags:
