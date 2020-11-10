@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '22 octobre 2020 '
+date_de_modification: '10 novembre 2020 '
 layout: page-annexe
 ---
 
@@ -35,12 +35,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-* [**Directeur de projet Résilience RIE H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projet-resilience-rie-hf-reference-2020-468435)
-<br>Cadre/Catégorie A
-<br>Poste pouvant être basé à Paris ou à Lyon (69) selon le candidat
-<br>
-<br>
-
 * [**Chef de projet Résilience RIE – Gouvernance SSI H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--gouvernance-ssi-hf-reference-2020-469099)
 <br>Cadre/Catégorie A
 <br>Poste pouvant être basé à Paris ou à Lyon (69) selon le candidat
@@ -48,12 +42,6 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 
 * [**Chef de projet Résilience RIE – Équipements d'extrémité (Box résiliente) H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--equipements-d-extremite-box-resiliente-hf-reference-2020-468354)
-<br>Cadre/Catégorie A
-<br>Poste pouvant être basé à Paris ou en Ille et Vilaine (35) selon le candidat
-<br>
-<br>
-
-* [**Chef de projet Résilience RIE – Plateforme « Flux critiques » H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet-resilience-rie--plateforme--flux-critiques--hf-reference-2020-468377)
 <br>Cadre/Catégorie A
 <br>Poste pouvant être basé à Paris ou en Ille et Vilaine (35) selon le candidat
 <br>
@@ -71,16 +59,9 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 <br>
 <br>
 
-### Développement
-{: .margin-top-4 .margin-bottom-1}
-* [**Développeur H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/developpeur-hf-reference-2020-470032)
-<br>Cadre/Catégorie A
-<br>
-<br>
-
 ### Produits numériques
 {: .margin-top-4 .margin-bottom-1}
-* [**Directeur du programme interministériel « Environnement de Travail Numérique des Agents H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/directeur-programme-interministeriel--environnement-de-travail-numerique-des-agents-hf-reference-2020-468464)
+* [**ATTADM - Directeur technique MAC VITAM - secrétariat général H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/attadm-directeurtrice-technique-mac-vitam-secretariat-general--paris-75-hf-reference-2020-491434)
 <br>Cadre/Catégorie A
 <br>
 <br>
