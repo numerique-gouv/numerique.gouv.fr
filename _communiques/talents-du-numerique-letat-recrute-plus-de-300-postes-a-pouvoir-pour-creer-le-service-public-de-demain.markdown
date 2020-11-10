@@ -34,9 +34,9 @@ Pour faire connaître ces opportunités aux professionnels de la tech, l’État
 
 Au programme dans un format 100% en ligne :
 
-• **Pendant tout le mois ** : témoignages d’agents publics de la tech à découvrir sur nos réseaux sociaux ;
-• **Du 23 au 26 novembre** : conférences tech portant sur la culture tech de l’État et du service public ; 
-• **Du 30 novembre au 9 décembre** : job dating, présentations de recruteurs et ateliers de coaching.
+* **Pendant tout le mois ** : témoignages d’agents publics de la tech à découvrir sur nos réseaux sociaux ;
+* **Du 23 au 26 novembre** : conférences tech portant sur la culture tech de l’État et du service public ; 
+* **Du 30 novembre au 9 décembre** : job dating, présentations de recruteurs et ateliers de coaching.
 
 **[En savoir plus et s'inscrire](https://www.numerique.gouv.fr/agenda/forum-emploi-tech-etat-2020/) | Restez connectés sur Twitter et LinkedIn** 
 
@@ -50,13 +50,15 @@ Ainsi engagé à attirer la future génération de spécialistes, le 5 novembre 
 **Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques**
 
 
+
 *Ces événements portés par le ministère de la Transformation et de la Fonction publiques s’inscrivent dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique du service public conduit par la direction interministérielle du numérique (DINUM).*
+
 
 
 **LE FORUM DE L’EMPLOI TECH DE L’ÉTAT EN BREF :**
 
-• 4ème année consécutive
-• Une version 100 % en ligne 
-• Plus de 30 services recruteurs de toute la France
-• Plus de 300 postes à pourvoir dans les administrations centrales et territoriales
-• Plus de 1 500 participants en 2019
+* 4ème année consécutive ;
+* Une version 100 % en ligne ;
+* Plus de 30 services recruteurs de toute la France ;
+* Plus de 300 postes à pourvoir dans les administrations centrales et territoriales ;
+* Plus de 1 500 participants en 2019.
