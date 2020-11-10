@@ -1,7 +1,7 @@
 ---
 title: "Talents du numérique : L’État recrute ! \nPlus de 300 postes à pouvoir pour
   créer le service public de demain"
-date: 2020-11-10 13:05:00 +01:00
+date: 2020-11-10 14:29:00 +01:00
 categories:
 - Communiqué de presse
 tags:
@@ -38,7 +38,7 @@ Au programme dans un format 100% en ligne :
 * **Du 23 au 26 novembre** : conférences tech portant sur la culture tech de l’État et du service public ; 
 * **Du 30 novembre au 9 décembre** : job dating, présentations de recruteurs et ateliers de coaching.
 
-**[En savoir plus et s'inscrire](https://www.numerique.gouv.fr/agenda/forum-emploi-tech-etat-2020/) | Restez connectés sur Twitter et LinkedIn** 
+**[En savoir plus et s'inscrire](https://www.numerique.gouv.fr/agenda/forum-emploi-tech-etat-2020/)Restez connectés sur Twitter et LinkedIn** 
 
 
 **« VIS MON JOB » : RETOUR SUR UNE 1ÈRE ÉDITION PROMETTEUSE POUR ATTIRER DE JEUNES TALENTS TECH**
@@ -51,7 +51,9 @@ Ainsi engagé à attirer la future génération de spécialistes, le 5 novembre 
 
 
 
+
 *Ces événements portés par le ministère de la Transformation et de la Fonction publiques s’inscrivent dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique du service public conduit par la direction interministérielle du numérique (DINUM).*
+
 
 
 
