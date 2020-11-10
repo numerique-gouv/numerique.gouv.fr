@@ -38,7 +38,7 @@ Au programme dans un format 100% en ligne :
 * **Du 23 au 26 novembre** : conférences tech portant sur la culture tech de l’État et du service public ; 
 * **Du 30 novembre au 9 décembre** : job dating, présentations de recruteurs et ateliers de coaching.
 
-**[En savoir plus et s'inscrire](https://www.numerique.gouv.fr/agenda/forum-emploi-tech-etat-2020/)Restez connectés sur Twitter et LinkedIn** 
+**[En savoir plus et s'inscrire](https://www.numerique.gouv.fr/agenda/forum-emploi-tech-etat-2020/) Restez connectés sur Twitter et LinkedIn** 
 
 
 **« VIS MON JOB » : RETOUR SUR UNE 1ÈRE ÉDITION PROMETTEUSE POUR ATTIRER DE JEUNES TALENTS TECH**
