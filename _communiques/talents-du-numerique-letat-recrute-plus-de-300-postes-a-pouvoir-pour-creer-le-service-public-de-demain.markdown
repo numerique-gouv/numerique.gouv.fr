@@ -34,7 +34,7 @@ Pour faire connaître ces opportunités aux professionnels de la tech, l’État
 
 Au programme dans un format 100% en ligne :
 
-* **Pendant tout le mois ** : témoignages d’agents publics de la tech à découvrir sur nos réseaux sociaux ;
+* **Pendant tout le mois** : témoignages d’agents publics de la tech à découvrir sur nos réseaux sociaux ;
 * **Du 23 au 26 novembre** : conférences tech portant sur la culture tech de l’État et du service public ; 
 * **Du 30 novembre au 9 décembre** : job dating, présentations de recruteurs et ateliers de coaching.
 
