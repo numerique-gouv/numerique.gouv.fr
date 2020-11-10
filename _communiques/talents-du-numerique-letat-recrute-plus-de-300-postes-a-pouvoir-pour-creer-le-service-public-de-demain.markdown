@@ -1,7 +1,7 @@
 ---
 title: "Talents du numérique : L’État recrute ! \nPlus de 300 postes à pouvoir pour
   créer le service public de demain"
-date: 2020-11-10 14:50:00 +01:00
+date: 2020-11-10 14:52:00 +01:00
 categories:
 - Communiqué de presse
 tags:
@@ -17,6 +17,8 @@ chapeau-text: "**Pour réussir sa transformation et garantir sa souveraineté nu
   aux côtés d’agents de l’État spécialisés dans la tech. Par ailleurs, du 30 novembre
   au 9 décembre est organisé le Forum de l’emploi tech de l’État regroupant plus de
   30 services recruteurs venant de toute la France**."
+une-ou-diaporama:
+- image: "/uploads/AGENDA_FETE2020-636491.jpg"
 contact-presse:
   name: 'Floriane Beaudron '
   tel:
