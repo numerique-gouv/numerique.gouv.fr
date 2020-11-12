@@ -93,6 +93,17 @@ Une clinique [#BlueHats](https://www.numerique.gouv.fr/actualites/la-communaute-
 
 <br>
 
+**[Le 24/11 de 14h à 14h45] [Webinaire] [LABEL]**
+*La mission LABEL se présente*
+
+Présentation de l'offre d'accompagnement de la mission LABEL dédiée à labelliser les solutions et outils numériques recommandés, à l’usage des administrations et du thème «Utiliser des technologies émergentes pour améliorer le secteur public » du Plan de Relance.
+
+Présentation de la démarche de labellisation qui est en cours depuis juillet 2020 et des actions qui seront mises en place : définition de règles et d'un processus équitable de labellisation, mise à jour d'un catalogue de solutions labellisées permettant d'encourager le recours à ces solutions.
+
+[Plus d’informations](https://www.modernisation.gouv.fr/mois-innovation-publique/evenement/la-mission-label-se-presente)
+
+<br>
+
 **[Le 25/11 de 11h à 12h] [Webinaire] [EIG]**
 *Les défis EIG au ministère de la Culture*
 
@@ -117,6 +128,18 @@ Vous trouvez les [programmes Entrepreneurs d’Intérêt Général](https://entr
 Votre direction voudrait créer un agent conversationnel? Vous souhaiteriez améliorer les outils de recherche documentaire dans votre service grâce à l’IA ? Découvrez les cas d’usage de PIAF en collaboration avec [service-public.fr](http://service-public.fr), suivis d’échanges et ateliers participatifs.
 
 [Plus d’informations et inscriptions](https://www.eventbrite.fr/e/billets-open-lab-piaf-pour-une-ia-francophone-du-modele-ia-a-lapplication-126835188463)
+
+<br>
+
+
+**[Le 26/11 de 11h à 11h45] [Webinaire] [LABEL]**
+*La mission LABEL se présente*
+
+Présentation de l'offre d'accompagnement de la mission LABEL dédiée à labelliser les solutions et outils numériques recommandés, à l’usage des administrations et du thème «Utiliser des technologies émergentes pour améliorer le secteur public » du Plan de Relance.
+
+Présentation de la démarche de labellisation qui est en cours depuis juillet 2020 et des actions qui seront mises en place : définition de règles et d'un processus équitable de labellisation, mise à jour d'un catalogue de solutions labellisées permettant d'encourager le recours à ces solutions.
+
+[Plus d’informations](https://www.modernisation.gouv.fr/mois-innovation-publique/evenement/la-mission-label-se-presente)
 
 <br>
 
