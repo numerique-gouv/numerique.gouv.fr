@@ -28,6 +28,14 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+
+> ### Nous recrutons une brigade numérique !
+> Avec notre incubateur beta.gouv.fr, nous recrutons 10 chargés/chargées de déploiement et 2 développeurs/développeuses expérimenté/es, pour une durée de 6 mois. Leur mission : renforcer des services publics numériques, construits avec des administrations partenaires, et qui résolvent chaque jour des problèmes des usagers.
+> [> Infos et candidatures](https://blog.beta.gouv.fr/dinsic/2020/11/10/nous-recrutons-une-brigade-numerique/)
+> <br>
+>
+{: .noir .encadre}
+
 ### Réseau
 {: .margin-top-4 .margin-bottom-1}
 * [**Chef du pôle Réseau interministériel de l’État et Services opérés d'infrastructure H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-reseau-interministeriel-de-l-etat-et-services-operes-d-infrastructure-hf-reference-2020-464626)
