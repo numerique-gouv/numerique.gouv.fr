@@ -10,7 +10,7 @@ chapeau-text: 12 développeurs et chargés de déploiement ont 6 mois pour renfo
   des services publics numériques, construits avec des administrations partenaires,
   et qui résolvent chaque jour des problèmes des usagers.
 une-ou-diaporama:
-- image: "/uploads/brigade-numerique.png"
+- image: "/uploads/brigade-numerique-1600.png"
 auteur: beta.gouv.fr
 redirection: https://blog.beta.gouv.fr/dinsic/2020/11/10/nous-recrutons-une-brigade-numerique/
 ---
