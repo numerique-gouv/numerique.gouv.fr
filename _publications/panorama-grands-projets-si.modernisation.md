@@ -7,6 +7,7 @@ tags:
 - Sécurisation
 - Informatique
 position: 6
+chapeau-text: Édition de juin 2020
 layout: default
 ---
 
