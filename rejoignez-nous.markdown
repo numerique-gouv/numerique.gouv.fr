@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '10 novembre 2020 '
+date_de_modification: '12 novembre 2020 '
 layout: page-annexe
 ---
 
@@ -27,6 +27,15 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 {: .margin-top-4 .margin-bottom-0}
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
+
+
+> ### Nous recrutons une brigade numérique !
+> Avec notre incubateur beta.gouv.fr, nous recrutons 10 chargés/chargées de déploiement et 2 développeurs/développeuses expérimenté/es, pour une durée de 6 mois. 
+> <br>**Leur mission :** renforcer des services publics numériques, construits avec des administrations partenaires, et qui résolvent chaque jour des problèmes des usagers.
+> <br>[> Infos et candidatures](https://blog.beta.gouv.fr/dinsic/2020/11/10/nous-recrutons-une-brigade-numerique/)
+> <br>
+>
+{: .noir .encadre}
 
 ### Réseau
 {: .margin-top-4 .margin-bottom-1}
