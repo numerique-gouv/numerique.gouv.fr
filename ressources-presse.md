@@ -15,10 +15,11 @@ layout: ressources-presse
 
 ## Nadi Bou Hanna, directeur interministériel du numérique
 ### Photographie
-<figure class='image-left' style='width: 50%;'>
+<style='width: 50%;'>
 <img src="/uploads/NBH-web.png"/>
 <br>
 <br>
+
 Télécharger le portrait de Nadi Bou Hanna en HD :
 * [format jpg, en CMJN (pour un usage print - 974 Ko)](/uploads/NBH-print.jpg) 
 * [format png, en RVB (pour un usage web - 1065 Ko)](/uploads/NBH-web.png) 
