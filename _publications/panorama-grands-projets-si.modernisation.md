@@ -18,7 +18,10 @@ layout: default
 changer pour : {: .text-center .padding-vertical-3} 
 -->
 
-Édition de juin 2020
+> Édition de juin 2020
+> 
+> La DINUM publie tous les xx mois le panorama des grands projets numériques de l’État. Ce panorama recense et décrit les principaux projets informatiques au sein de l’État, notamment tous ceux dont le coût dépasse 9 M€ (maintenance comprise sur 2 ans). Ce suivi régulier permet à la DINUM de proposer des actions de sécurisation et de nouvelles trajectoires à certains projets, dans une approche centrée utilisateurs. Ce suivi est crucial pour fournir des solutions numériques performantes, correspondant aux usages et besoins de l’utilisateur.
+> <br>Toutes ces informations sont également disponibles en open data sur la plate-forme [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-numeriques-de-letat/).
 {: .grid-container .lead .chapeau .page-mere .margin-top-1 } 
 
 {% include components/partager.html %}
