@@ -8,7 +8,6 @@ tags:
 - Informatique
 position: 6
 chapeau-text: Édition de juin 2020
-chapeau: 'Édition de juin 2020 '
 layout: default
 ---
 
@@ -19,10 +18,8 @@ layout: default
 changer pour : {: .text-center .padding-vertical-3} 
 -->
 
-<!-- 
 texte du chapeau 
 {: .grid-container .lead .chapeau .page-mere } 
--->
 
 {% include components/partager.html %}
 
