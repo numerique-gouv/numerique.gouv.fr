@@ -84,6 +84,15 @@ Les décisions de justices mises à disposition du public : comment pseudonymise
 
 <br>
 
+**[Le 20/11 à 11h à 12h] [Atelier participatif] [Volet numérique France Relance] [TALENTS]**
+*France Relance : Comment développer nos talents numériques ?*
+
+Animation d’un atelier d’intelligence collective visant à faire émerger des idées innovantes favorisant  le développement des compétences numériques de l’État. Les idées pourront cibler des actions favorisant l’attractivité de l’État employeur dans les territoires pour les professionnels du numérique, des modalités innovantes de recrutement ou de formation aux outils et méthodes de travail numériques pour les agents et managers publics, des dispositifs de reconversion, de la relocalisation ou mutualisation de services numériques hors IDF…
+
+[Plus d’informations et inscriptions](https://app.livestorm.co/dinum-4/plan-de-relance-comment-developper-nos-talents-numeriques)
+
+<br>
+
 **[Le 23/11 de 13h30 à 17h30] [Atelier participatif – Clinique] [Open source]**
 *Clinique #BlueHats d’ouverture des codes sources*
 
@@ -93,10 +102,19 @@ Une clinique [#BlueHats](https://www.numerique.gouv.fr/actualites/la-communaute-
 
 <br>
 
-**[Le 24/11 de 14h à 14h45] [Webinaire] [LABEL]**
+**[Le 24/11 à 9h30 à 10h15] [Webinaire] [Volet numérique France Relance] [TALENTS]**
+*France Relance : Développez les compétences numériques des agents de l’État !*
+
+Présenter les fonds du plan France Relance dédiés au développement des compétences numériques de l’État, présenter quelques exemples d’actions possibles puis répondre aux questions des participants sur le périmètre des actions pouvant entrer dans ce cadre et les modalités pratiques de l’appel à projets.
+
+[Plus d’informations et inscriptions](https://app.livestorm.co/dinum-4/plan-de-relance-developpez-les-competences-numeriques-des-agents-de-letat)
+
+<br>
+
+**[Le 24/11 de 14h à 14h45] [Webinaire] [Volet numérique France Relance] [LABEL]**
 *La mission LABEL se présente*
 
-Présentation de l'offre d'accompagnement de la mission LABEL dédiée à labelliser les solutions et outils numériques recommandés, à l’usage des administrations et du thème «Utiliser des technologies émergentes pour améliorer le secteur public » du Plan de Relance.
+Présentation de l'offre d'accompagnement de la mission LABEL dédiée à labelliser les solutions et outils numériques recommandés, à l’usage des administrations et du thème «Utiliser des technologies émergentes pour améliorer le secteur public » du plan France Relance.
 
 Présentation de la démarche de labellisation qui est en cours depuis juillet 2020 et des actions qui seront mises en place : définition de règles et d'un processus équitable de labellisation, mise à jour d'un catalogue de solutions labellisées permettant d'encourager le recours à ces solutions.
 
@@ -131,11 +149,10 @@ Votre direction voudrait créer un agent conversationnel? Vous souhaiteriez amé
 
 <br>
 
-
-**[Le 26/11 de 11h à 11h45] [Webinaire] [LABEL]**
+**[Le 26/11 de 11h à 11h45] [Webinaire] [Volet numérique France Relance] [LABEL]**
 *La mission LABEL se présente*
 
-Présentation de l'offre d'accompagnement de la mission LABEL dédiée à labelliser les solutions et outils numériques recommandés, à l’usage des administrations et du thème «Utiliser des technologies émergentes pour améliorer le secteur public » du Plan de Relance.
+Présentation de l'offre d'accompagnement de la mission LABEL dédiée à labelliser les solutions et outils numériques recommandés, à l’usage des administrations et du thème «Utiliser des technologies émergentes pour améliorer le secteur public » du plan France Relance.
 
 Présentation de la démarche de labellisation qui est en cours depuis juillet 2020 et des actions qui seront mises en place : définition de règles et d'un processus équitable de labellisation, mise à jour d'un catalogue de solutions labellisées permettant d'encourager le recours à ces solutions.
 
@@ -176,6 +193,18 @@ Qu’en est-il de la mise en oeuvre de l’open data par défaut dans les territ
 Présentation de l’offre d’accompagnement interministérielle au pilotage des politiques publiques par la donnée. Cette offre d’accompagnement est destinée aux administrations publiques souhaitant utiliser les données pour concevoir, mettre en oeuvre et évaluer leurs politiques publiques par la donnée. Au programme : table-ronde de cas d’usage par les ministères partenaires et présentation de l’offre et des outils d’accompagnement par les équipes de la DINUM et de la DITP.
 
 [Plus d’informations et inscriptions](https://www.eventbrite.fr/e/billets-piloter-par-la-donnee-lancement-de-laccompagnement-interministeriel-127196130049)
+
+<br>
+
+**[Le 30/11 de 9h30 à 10h30] [Webinaire] [Volet numérique France Relance] [AgentConnect]**
+*Présentation du guichet SNAP2 "Identité numérique des agents publics » porté par le projet AgentConnect dans le cadre de France Relance*
+
+Présentation du guichet SNAP2 dédié à AgentConnect dans de France Relance. 
+
+L'occasion de revenir sur les enjeux du projet AgentConnect ayant pour but de permettre aux agents publics de l’Etat de se connecter facilement à leur applications métiers (applications RH, outils collaboratifs, ...). 
+Directions et services numériques des ministères intéressés par le sujet sont invités à s'inscrire dès maintenant.
+
+[Plus d’informations et inscriptions](https://www.eventbrite.fr/e/billets-presentation-du-guichet-snap2-dedie-a-agentconnect-128886383643)
 
 <br>
 

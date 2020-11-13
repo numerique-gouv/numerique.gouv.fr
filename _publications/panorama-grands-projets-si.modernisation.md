@@ -1,11 +1,13 @@
 ---
 title: Panorama des grands projets numériques de l’État
+date: 2020-06-30 15:58:00 +02:00
 permalink: "/publications/panorama-grands-projets-si/"
 tags:
 - Panorama des grands projets numériques de l'État
 - Sécurisation
 - Informatique
 position: 6
+chapeau-text: Édition de juin 2020
 layout: default
 ---
 
@@ -16,10 +18,8 @@ layout: default
 changer pour : {: .text-center .padding-vertical-3} 
 -->
 
-<!-- 
-texte du chapeau 
-{: .grid-container .lead .chapeau .page-mere } 
--->
+Édition de juin 2020
+{: .grid-container .lead .chapeau .page-mere .margin-top-1 } 
 
 {% include components/partager.html %}
 
