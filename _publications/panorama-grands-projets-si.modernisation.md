@@ -18,8 +18,8 @@ layout: default
 changer pour : {: .text-center .padding-vertical-3} 
 -->
 
-texte du chapeau 
-{: .grid-container .lead .chapeau .page-mere } 
+Édition de juin 2020
+{: .grid-container .lead .chapeau .page-mere .margin-top-1 } 
 
 {% include components/partager.html %}
 
