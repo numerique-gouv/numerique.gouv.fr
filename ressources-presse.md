@@ -15,7 +15,7 @@ layout: ressources-presse
 
 ## Nadi Bou Hanna, directeur interministériel du numérique
 ### Photographie
-![NBH-web-500.png](/uploads/NBH-web-500.png)
+![NBH-web-375.png](/uploads/NBH-web-375.png)
 <br>
 <br>
 
