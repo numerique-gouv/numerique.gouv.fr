@@ -6,8 +6,8 @@ categories:
 tags:
 - innovation publique
 chapeau-text: 'Du 2 au 30 novembre 2020, participez au mois de l’innovation publique
-  organisée par la DITP. A cette occasion les équipes d''Etalab de beta.gouv.fr propose
-  une série d’évènements en ligne accessibles à toutes et tous ! '
+  organisée par la DITP. A cette occasion les équipes de la DINUM propose une série
+  d’évènements en ligne accessibles à toutes et tous ! '
 categorie: Mois de l'innovation publique
 une-ou-diaporama:
 - image: "/uploads/lancement_du_mois_de_linnovation_publique2.png"
