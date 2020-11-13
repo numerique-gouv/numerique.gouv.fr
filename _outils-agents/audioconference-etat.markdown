@@ -74,7 +74,7 @@ Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont
 {: .margin-bottom-1}
 
 1. **Composez** depuis n’importe quel téléphone le numéro fourni par l’organisateur et tapez l’identifiant de la conférence
-2. **Vous êtes connecté !** La conférence est lancée dès l’arrivée de l’organisateur
+2. **Vous êtes connecté !** 
 <br>
 <br>
 
