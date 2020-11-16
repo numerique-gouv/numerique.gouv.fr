@@ -1,6 +1,6 @@
 ---
 title: Panorama des grands projets numériques de l’État
-date: 2020-06-30 15:58:00 +02:00
+date: 2020-11-16 15:58:00 +01:00
 permalink: "/publications/panorama-grands-projets-si/"
 tags:
 - Panorama des grands projets numériques de l'État
