@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '12 novembre 2020 '
+date_de_modification: '16 novembre 2020 '
 layout: page-annexe
 ---
 
@@ -70,6 +70,16 @@ Retrouvez aussi [en bas de cette page](#offresministères) une sélection de pos
 
 ### Produits numériques
 {: .margin-top-4 .margin-bottom-1}
+* [**Chef/cheffe de projet, responsable de la Labellisation H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-responsable-de-la-labellisation-hf-reference-2020-501337)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
+* [**Chef/cheffe de projet, Responsable du guichet Govtech H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-responsable-du-guichet-govtech-hf-reference-2020-501342)
+<br>Cadre/Catégorie A
+<br>
+<br>
+
 * [**ATTADM - Directeur technique MAC VITAM - secrétariat général H/F**](https://www.place-emploi-public.gouv.fr/offre-emploi/attadm-directeurtrice-technique-mac-vitam-secretariat-general--paris-75-hf-reference-2020-491434)
 <br>Cadre/Catégorie A
 <br>
