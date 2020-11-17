@@ -2,7 +2,7 @@
 title: Découvrez la 12e édition du panorama des grands projets numériques de l’État
 date: 2020-11-16 11:35:00 +01:00
 categories:
-- Panorama
+- Publication
 tags:
 - Panorama des grands projets numériques de l'État
 chapeau-text: La DINUM publie la 12e édition du panorama des grands projets numériques
