@@ -1,6 +1,6 @@
 ---
 title: Découvrez la 12e édition du panorama des grands projets numériques de l’État
-date: 2020-11-17 11:35:00 +01:00
+date: 2020-11-16 11:35:00 +01:00
 categories:
 - Panorama
 tags:
