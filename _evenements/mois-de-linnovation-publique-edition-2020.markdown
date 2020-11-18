@@ -29,7 +29,7 @@ A l’occasion de l’[édition 2020 du mois de l’innovation publique](https:/
 **[Du 02/11 au 30/11] [Appel à idées] [Services aux citoyens] [API]** 
 *A quelles données publiques rêvez-vous d’avoir accès ? Quels services souhaitez-vous construire grâce à ces données ?*
 
-Administrations, collectivités, entreprises, associations, citoyennes et citoyens, cet appel à idées vous concerne ! Afin de permettre la création de nouveaux services, simplifier des services existants, dématérialiser des démarches et faciliter le développement de nouveaux usages, nous souhaitons recueillir vos demandes d’accès à des données et les services que vous souhaitez construire grâce à la circulation des données.\
+Administrations, collectivités, entreprises, associations, citoyennes et citoyens, cet appel à idées vous concerne ! Afin de permettre la création de nouveaux services, simplifier des services existants, dématérialiser des démarches et faciliter le développement de nouveaux usages, nous souhaitons recueillir vos demandes d’accès à des données et les services que vous souhaitez construire grâce à la circulation des données. 
 [Participez à notre appel à idées](https://api.gouv.fr/lp/mois-innovation)
 
 <br>
@@ -193,6 +193,17 @@ Qu’en est-il de la mise en oeuvre de l’open data par défaut dans les territ
 Présentation de l’offre d’accompagnement interministérielle au pilotage des politiques publiques par la donnée. Cette offre d’accompagnement est destinée aux administrations publiques souhaitant utiliser les données pour concevoir, mettre en oeuvre et évaluer leurs politiques publiques par la donnée. Au programme : table-ronde de cas d’usage par les ministères partenaires et présentation de l’offre et des outils d’accompagnement par les équipes de la DINUM et de la DITP.
 
 [Plus d’informations et inscriptions](https://www.eventbrite.fr/e/billets-piloter-par-la-donnee-lancement-de-laccompagnement-interministeriel-127196130049)
+
+<br>
+
+**[Le 30/11 de 9h à 10h] [Webinaire] [TRANSFO]** 
+*Comment tirer profit du numérique dans vos politiques publiques ?*
+
+Présentation de l'offre d'accompagnement interministérielle de la mission Transformation numérique de l’État de la DINUM. Cette offre de conseil en stratégie numérique est proposée aux cadres dirigeants de l’État dans le but de les aider à tirer tout le potentiel du numérique – dans toutes ses composantes– pour transformer les politiques publiques. 
+
+Au programme : présentation de l’offre TRANSFO et témoignage du Ministère de l'Enseignement Supérieur, de la Recherche et de l'Innovation que la mission a accompagné sur le Parcours étudiant. Venez découvrir ce que la mission Transfo peut faire pour vous. 
+
+[Plus d'informations](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/) et [inscriptions](https://www.eventbrite.fr/e/billets-a-la-decouverte-de-la-transformation-numerique-de-letat-129477718341).
 
 <br>
 
