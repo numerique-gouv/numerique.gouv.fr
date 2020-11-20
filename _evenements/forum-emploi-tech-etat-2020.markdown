@@ -149,6 +149,8 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
   <br>Jeudi 3 décembre, 10h-10h30
 * **Les métiers du ministère de l’Économie, des Finances et de la Relance**
   <br>Vendredi 4 décembre, 14h30-15h
+* **Le programme Entrepreneurs d’intérêt général : la transformation numérique au cœur des administrations**
+  <br>Lundi 7 décembre, 13h30-14h00
 * **Les métiers tech du ministère de l’Europe et des Affaires étrangères**
   <br>Mardi 8 décembre, 14h30-15h
 * **Le LINC : le Laboratoire d’Innovation Numérique de la CNIL**
