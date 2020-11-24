@@ -30,10 +30,9 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 {: .margin-bottom-1}
 
 > ### Talents du numérique : l’État recrute !
-> <figure class='image-center' style='width: 70%;'>
-  <img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/>
+> <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/>
 </figure>
-> Vous êtes développeur, chef de projet numérique, ingénieur, architecte SI, technicien support... ? Venez créer le service public de demain !
+> <br>Vous êtes développeur, chef de projet numérique, ingénieur, architecte SI, technicien support... ? Venez créer le service public de demain !
 > <br>Plus de 300 postes dans de nombreux métiers vous attendent au **Forum de l'emploi tech de l’État, du 30 novembre au 9 décembre 2020**. Édition 100% en ligne.
 > <br>[> Inscrivez-vous jusqu'au 27 nov, 14h](https://numerique.gouv.fr/agenda/forum-emploi-tech-etat-2020)
 > <br>
