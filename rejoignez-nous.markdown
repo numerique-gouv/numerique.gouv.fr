@@ -50,8 +50,6 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 
 * [**Architecte SI Polyvalent F/H**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-si-polyvalent-hf-reference-2020-492715)
   <br>Cadre/Catégorie A
-  <br>
-  <br>
 
 * **[Chef/cheffe du pôle Architecture et sécurité](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-architecture-et-securite-hf-reference-2020-444590)**
   <br>Cadre supérieur/Catégorie A\+
@@ -63,13 +61,9 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 
 * **[Chef/cheffe de projet, responsable de la Labellisation H/F](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-responsable-de-la-labellisation-hf-reference-2020-501337)**
   <br>Cadre/Catégorie A
-  <br>
-  <br>
 
 * **[Chef/cheffe de projet, Responsable du guichet Govtech H/F](https://www.place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-responsable-du-guichet-govtech-hf-reference-2020-501342)**
   <br>Cadre/Catégorie A
-  <br>
-  <br>
 
 * **[ATTADM - Directeur technique MAC VITAM - secrétariat général H/F](https://www.place-emploi-public.gouv.fr/offre-emploi/attadm-directeurtrice-technique-mac-vitam-secretariat-general--paris-75-hf-reference-2020-491434)**
   <br>Cadre/Catégorie A
