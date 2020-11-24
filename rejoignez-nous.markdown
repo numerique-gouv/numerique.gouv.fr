@@ -38,8 +38,14 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 {: .noir .encadre}
 
 
+### Transformation numérique / RH
+{: .margin-top-4 .margin-bottom-1}
+* [**Chef/cheffe de la mission « TALENTS »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-de-la-mission--talents--hf-reference-2020-506084) 
+  <br>Encadrement supérieur/Catégorie A+
+  <br>
+  <br>
 
-### Sécurité et architecture
+### Architecture et sécurité 
 {: .margin-top-4 .margin-bottom-1}
 
 * [**Architecte SI Polyvalent F/H**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-si-polyvalent-hf-reference-2020-492715)
