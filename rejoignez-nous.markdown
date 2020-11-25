@@ -15,9 +15,7 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 <br>
 
 ## Comment postuler ?
-
 {: .margin-top-5 .margin-bottom-1 .h3}
-
 1. **Repérez** l'offre d'emploi qui vous intéresse ci-dessous
 2. **Ouvrez la fiche de poste** (lien ou pdf) en cliquant sur l'intitulé
 3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste ou via le bouton Postuler, en précisant son intitulé
