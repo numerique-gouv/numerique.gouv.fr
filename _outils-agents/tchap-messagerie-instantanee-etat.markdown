@@ -6,6 +6,7 @@ tags:
 - Messagerie instantanée
 - Outils pour les agents
 - ETNA
+date_de_modification: 26 novembre 2020
 chapeau-text: Pour leurs échanges à distance, les agents publics peuvent compter sur
   Tchap, la messagerie instantanée conçue pour eux, opérée par l’État.
 une:
