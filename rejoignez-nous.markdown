@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '24 novembre 2020 '
+date_de_modification: '26 novembre 2020 '
 layout: page-annexe
 ---
 
@@ -46,9 +46,10 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 ### Architecture et sécurité 
 {: .margin-top-4 .margin-bottom-1}
 
+<!--
 * [**Architecte SI polyvalent F/H**](https://www.place-emploi-public.gouv.fr/offre-emploi/architecte-si-polyvalent-hf-reference-2020-492715)
   <br>Cadre/Catégorie A
-
+  -->
 * **[Chef/cheffe du pôle Architecture et sécurité](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-architecture-et-securite-hf-reference-2020-444590)**
   <br>Cadre supérieur/Catégorie A\+
   <br>
