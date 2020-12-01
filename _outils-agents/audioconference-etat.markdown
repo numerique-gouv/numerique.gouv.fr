@@ -100,7 +100,7 @@ Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont
 <br>
 
 *Audioconf est un service interministériel crée et opéré par la direction interministérielle du numérique (DINUM). Il est réalisé dans le cadre du programme **[TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)** d’accélération de la transformation numérique du service public.
-<br>Audioconf a été développé par l’incubateur des services numériques de la DINUM et utilise sur des ressources techniques de l’entreprise française OVHcloud.*
+<br>Audioconf a été développé par l’incubateur des services numériques de la DINUM et utilise sur des ressources techniques de l’entreprise française [OVHcloud](https://www.ovhcloud.com/fr/).*
 <br>
 
 **Découvrir aussi :**
