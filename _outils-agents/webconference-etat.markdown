@@ -100,7 +100,7 @@ d’utiliser la webconférence de l’État
 <br>
 <br>
 
-Pour parer aux besoins massifs en outils de webconférences pendant la crise, la DINUM a déployé une solution additionnelle, accessible sur tout poste non connecté au réseau interministériel de l’État sauf exception.
+Pour parer aux besoins massifs en outils de webconférences pendant la crise, la DINUM a déployé une solution additionnelle, accessible sur tout poste non connecté au réseau interministériel de l’État (sauf exception).
 > [Accédez au service de webconférence additionnel](https://webconf-add.numerique.gouv.fr/)
 {: .lien-important}
 <br>
