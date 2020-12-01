@@ -8,7 +8,7 @@ tags:
 - ETNA
 - environnement de travail numérique de l'agent
 - Outils pour les agents
-date_de_modification: 28 mai 2020
+date_de_modification: 1er décembre 2020
 chapeau-text: L’État met à la disposition de tous ses agents un service de webconférence
   interministériel pour favoriser la coopération des équipes et le travail à distance.
 une:
@@ -100,7 +100,7 @@ d’utiliser la webconférence de l’État
 <br>
 <br>
 
-Pour parer aux besoins massifs en outils de webconférences pendant la crise, la DINUM a déployé une solution additionnelle, accessible sur tout poste non connecté au réseau interministériel de l’État sauf exception.
+Pour parer aux besoins massifs en outils de webconférences pendant la crise, la DINUM a déployé une solution additionnelle, accessible sur tout poste non connecté au réseau interministériel de l’État (sauf exception).
 > [Accédez au service de webconférence additionnel](https://webconf-add.numerique.gouv.fr/)
 {: .lien-important}
 <br>
