@@ -67,7 +67,7 @@ Tout agent de l’État peut créer librement un salon d’audioconférence.
 4. **Confirmez** la réservation en cliquant sur le lien reçu par courriel (actif pendant 2 heures)
 5. **Votre audioconférence est créée !** Vous recevez un nouveau courriel contenant le numéro de téléphone et l’identifiant de votre conférence, **à transmettre aux participants**
 
-Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont vous est réservé pendant la durée choisie. Toutefois, ne prévoyez pas trop large pour permettre au plus grand nombre de profiter de ces ressources mutualisées. 
+Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont vous est réservé pendant toute la journée choisie. 
 <br>
 <br>
 
