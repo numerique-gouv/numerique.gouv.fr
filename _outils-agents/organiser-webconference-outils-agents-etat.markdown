@@ -22,12 +22,12 @@ layout: rgaa
 ## Pourquoi la webconférence ?
 {: .margin-bottom-1}
 Afin de faciliter la **collaboration en travail à distance**, les solutions de webconférence peuvent être une alternative aux audioconférences (ponts téléphoniques) en cas de nécessité de **voir les interlocuteurs** ou de **partager des documents en direct**.
-[**> Découvrir aussi le service d'audioconférence de l’État](/outils-agents/audioconference-etat/)
+<br>[> Découvrir aussi le service d'audioconférence de l’État](/outils-agents/audioconference-etat/)
 
 
 ## Comment choisir une solution de webconférence ?
 {: .margin-top-2 .margin-bottom-1}
-L’État met à la disposition de tous ses agents **un service de webconférence interministériel** accessible sur le site [**webconference.numerique.gouv.fr**](https://webconf.numerique.gouv.fr).  Elle permet de créer une webconférence depuis le réseau interministériel de l’État (RIE) et d’inviter des participants, connectés ou non au RIE.
+L’État met à la disposition de tous ses agents **un service de webconférence interministériel** accessible sur le site [**webconf.numerique.gouv.fr**](https://webconf.numerique.gouv.fr).  Elle permet de créer une webconférence depuis le réseau interministériel de l’État (RIE) et d’inviter des participants, connectés ou non au RIE.
 
 Du fait de la crise Covid-19 et du nombre important d’agents travaillant à distance, la sur-sollicitation de cette plateforme crée parfois des problèmes de qualité de son et/ou d’image pour certains utilisateurs, particulièrement pour les conférences réunissant plus de 6 utilisateurs.
 
