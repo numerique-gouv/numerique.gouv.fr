@@ -81,7 +81,7 @@ d’utiliser la webconférence de l’État
 > Pour utiliser l’outil de webconférence de l’État, il vous suffit de disposer du matériel suivant :
 >
 > * un ordinateur connecté à Internet (et au RIE si vous devez créer le salon),
-> * un navigateur web : Edge Chromium, Chromium ou Google Chrome. Si aucun n’est disponible sur votre poste de travail, vous pouvez télécharger et installer [notre package Chromium dédié](https://webconf.numerique.gouv.fr/telechargement/Webconf_Etat_V1.3_webconf.exe), en toute autonomie (sauf cas exceptionnels), sans l’intervention d’un administrateur,
+> * un navigateur web : Microsoft Edge (Chromium), Chromium ou Google Chrome. Si aucun n’est disponible sur votre poste de travail, vous pouvez télécharger et installer [notre package Chromium dédié](https://webconf.numerique.gouv.fr/telechargement/Webconf_Etat_V1.3_webconf.exe), en toute autonomie (sauf cas exceptionnels), sans l’intervention d’un administrateur,
 > * une webcam,
 > * un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
 >
@@ -102,7 +102,7 @@ d’utiliser la webconférence de l’État
 
 Pour parer aux besoins massifs en outils de webconférences pendant la crise, la DINUM a déployé une solution additionnelle, accessible sur tout poste non connecté au réseau interministériel de l’État sauf exception.
 > [Accédez au service de webconférence additionnel](https://webconf-add.numerique.gouv.fr/)
-{. .lien-important}
+{: .lien-important}
 
 *La webconférence de l’État est un service interministériel opéré par le ministère de la Transition écologique. Il a été réalisé dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d'accélération de la transformation numérique du service public, piloté par la direction interministérielle du numérique (DINUM).*
 
