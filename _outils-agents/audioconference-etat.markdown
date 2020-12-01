@@ -7,6 +7,7 @@ tags:
 - Travail collaboratif
 - Télétravail
 - Travail à distance
+date_de_modification: 1er décembre 2020
 chapeau-text: Pour faciliter les échanges à distance, à plusieurs, l’État met à la
   disposition de tous ses agents un service d’audioconférence, accessible depuis n’importe
   quel téléphone.
@@ -62,8 +63,8 @@ Tout agent de l’État peut créer librement un salon d’audioconférence.
 
 1. **Rendez-vous** sur [audioconf.numerique.gouv.fr](https://audioconf.numerique.gouv.fr/)
 2. **Renseignez** votre adresse électronique professionnelle.
-3. **Choisissez** la durée de votre réservation, de 1h à 24h 
-4. **Confirmez** la réservation en cliquant sur le lien reçu par courriel (actif pendant 60 minutes)
+3. **Choisissez** la date de votre conférence, le jour-même ou dans les 14 jours, et validez 
+4. **Confirmez** la réservation en cliquant sur le lien reçu par courriel (actif pendant 2 heures)
 5. **Votre audioconférence est créée !** Vous recevez un nouveau courriel contenant le numéro de téléphone et l’identifiant de votre conférence, **à transmettre aux participants**
 
 Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont vous est réservé pendant la durée choisie. Toutefois, ne prévoyez pas trop large pour permettre au plus grand nombre de profiter de ces ressources mutualisées. 
@@ -73,7 +74,7 @@ Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont
 #### Pour rejoindre un salon en tant qu’invité :
 {: .margin-bottom-1}
 
-1. **Composez** depuis n’importe quel téléphone le numéro fourni par l’organisateur et tapez l’identifiant de la conférence
+1. **Composez** depuis n’importe quel téléphone le numéro fourni par l’organisateur et tapez le code d’accès à la conférence
 2. **Vous êtes connecté !** 
 <br>
 <br>
@@ -83,7 +84,7 @@ Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont
 > {: .text-center .margin-bottom-1 .margin-top-0}
 > 
 > * **Création d’une audioconf réservée aux agents de l’État**, sur [audioconf.numerique.gouv.fr](https://audioconf.numerique.gouv.fr/)
-> * **Réservation possible en dernière minute ou en amont**, jusqu’à 24h à l’avance
+> * **Réservation possible en dernière minute ou en amont**, jusqu’à 14j à l’avance 
 > * **Jusqu’à 50 participants,** internes ou externes à l’administration
 > * Un outil facilement accessible, **depuis n’importe quel téléphone, fixe et mobile**
 > * **Service gratuit** (appel non surtaxé en France métropolitaine)
