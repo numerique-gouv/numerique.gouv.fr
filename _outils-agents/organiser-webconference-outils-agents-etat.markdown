@@ -9,11 +9,11 @@ tags:
 - Télétravail
 - Travail à distance
 - Travail collaboratif
-date_de_modification: 28 mai 2020
+date_de_modification: 1er décembre 2020
 chapeau-text: Dans cette période de crise et de télétravail massif, la DINUM a recensé
   des outils de webconférence recommandés pour les agents de l’État, en complément
   de la webconférence de l’État. Un tableau vous aidera à choisir la solution qui
-  répond le mieux à vos besoins.
+  répond le mieux à vos besoins. Édition actualisée en décembre 2020.
 une:
   image: "/uploads/outils_webconference-fille-ed7038.png"
 layout: rgaa
@@ -22,12 +22,12 @@ layout: rgaa
 ## Pourquoi la webconférence ?
 {: .margin-bottom-1}
 Afin de faciliter la **collaboration en travail à distance**, les solutions de webconférence peuvent être une alternative aux audioconférences (ponts téléphoniques) en cas de nécessité de **voir les interlocuteurs** ou de **partager des documents en direct**.
-[**> Découvrir aussi le service d'audioconférence de l’État](/outils-agents/audioconference-etat/)
+<br>[> Découvrir aussi le service d'audioconférence de l’État](/outils-agents/audioconference-etat/)
 
 
 ## Comment choisir une solution de webconférence ?
 {: .margin-top-2 .margin-bottom-1}
-L’État met à la disposition de tous ses agents **un service de webconférence interministériel** accessible sur le site [**webconference.numerique.gouv.fr**](https://webconf.numerique.gouv.fr).  Elle permet de créer une webconférence depuis le réseau interministériel de l’État (RIE) et d’inviter des participants, connectés ou non au RIE.
+L’État met à la disposition de tous ses agents **un service de webconférence interministériel** accessible sur le site [**webconf.numerique.gouv.fr**](https://webconf.numerique.gouv.fr).  Elle permet de créer une webconférence depuis le réseau interministériel de l’État (RIE) et d’inviter des participants, connectés ou non au RIE.
 
 Du fait de la crise Covid-19 et du nombre important d’agents travaillant à distance, la sur-sollicitation de cette plateforme crée parfois des problèmes de qualité de son et/ou d’image pour certains utilisateurs, particulièrement pour les conférences réunissant plus de 6 utilisateurs.
 
@@ -41,10 +41,10 @@ Par ailleurs, la DINUM conseille de ne pas utiliser l’application Zoom ou d’
 <br>
 <br>
 
-<a href="/uploads/outils_webconference-agents-etat.pdf"><img src="/uploads/capture-tableau-webconf.png" width="400" title="Consulter le tableau comparatif des solutions (pdf, 65 ko)"/>
+<a href="/uploads/outils_webconference-agents-etat.pdf"><img src="/uploads/capture-tableau-webconf.png" width="300" title="Consulter le tableau comparatif des solutions (pdf, 100 ko)"/>
 </a>
 {: .text-center}
-> [Consulter le tableau des solutions de webconférence (pdf, 65 ko)](/uploads/outils_webconference-agents-etat.pdf)
+> [Consulter le tableau des solutions de webconférence (pdf, 100 ko)](/uploads/outils_webconference-agents-etat.pdf)
 {: .lien-important}
 
 > <br>
