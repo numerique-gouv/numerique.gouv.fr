@@ -103,6 +103,8 @@ d’utiliser la webconférence de l’État
 Pour parer aux besoins massifs en outils de webconférences pendant la crise, la DINUM a déployé une solution additionnelle, accessible sur tout poste non connecté au réseau interministériel de l’État sauf exception.
 > [Accédez au service de webconférence additionnel](https://webconf-add.numerique.gouv.fr/)
 {: .lien-important}
+<br>
+<br>
 
 *La webconférence de l’État est un service interministériel opéré par le ministère de la Transition écologique. Il a été réalisé dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d'accélération de la transformation numérique du service public, piloté par la direction interministérielle du numérique (DINUM).*
 
