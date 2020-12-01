@@ -41,10 +41,10 @@ Par ailleurs, la DINUM conseille de ne pas utiliser l’application Zoom ou d’
 <br>
 <br>
 
-<a href="/uploads/outils_webconference-agents-etat.pdf"><img src="/uploads/capture-tableau-webconf.png" width="400" title="Consulter le tableau comparatif des solutions (pdf, 65 ko)"/>
+<a href="/uploads/outils_webconference-agents-etat.pdf"><img src="/uploads/capture-tableau-webconf.png" width="300" title="Consulter le tableau comparatif des solutions (pdf, 100 ko)"/>
 </a>
 {: .text-center}
-> [Consulter le tableau des solutions de webconférence (pdf, 65 ko)](/uploads/outils_webconference-agents-etat.pdf)
+> [Consulter le tableau des solutions de webconférence (pdf, 100 ko)](/uploads/outils_webconference-agents-etat.pdf)
 {: .lien-important}
 
 > <br>
