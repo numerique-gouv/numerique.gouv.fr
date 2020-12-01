@@ -16,6 +16,20 @@ une:
 layout: rgaa
 ---
 
+<style>
+.button {
+background-color: #0d5c98;
+border: 1px solid white;
+color: white;
+padding: 10px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-style: normal;
+margin: 4px 2px;
+cursor: pointer;
+}
+</style>
 <br>
 
 <figure class='image-left' style='width: 7%;'>
@@ -80,11 +94,12 @@ d’utiliser la webconférence de l’État
 </a>
 {: .text-center}
 
-> [Accédez au service de webconférence de l’État](https://webconf.numerique.gouv.fr/)
-{: .lien-important}
+<div align="center">
+<a href="https://webconf.numerique.gouv.fr/" class="button"><b>Accédez au service de webconférence de l’État</b></a>
+</div>
+<br>
+<br>
 
-<br>
-<br>
 *La webconférence de l’État est un service interministériel opéré par le ministère de la Transition écologique et solidaire. Il a été réalisé dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d'accélération de la transformation numérique du service public, piloté par la direction interministérielle du numérique (DINUM).*
 
 *La solution s’appuie sur le logiciel libre [Jitsi](https://jitsi.org/).*
