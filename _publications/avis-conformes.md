@@ -4,7 +4,7 @@ title: 'Projets informatiques de l’État : retrouvez l''ensemble des avis conf
 date: 2018-04-24 15:47:00 +02:00
 permalink: "/publications/avis-conformes/"
 position: 2
-date_de_modification: 20 décembre 2019
+date_de_modification: '08 décembre 2020'
 chapeau-text: La direction interministérielle du numérique (DINUM) publie ses avis
   conformes sur les grands projets du système d'information et de communication de
   l’État.
@@ -42,6 +42,23 @@ ministeres:
   titre: Services du Premier ministre
 - annees:
   - avis:
+    - description: Nouveau logiciel de rédaction et de pilotage des procédures de
+        la police nationale
+      file: "/uploads/SCRIBE_Art_3.pdf"
+      titre: SCRIBE
+    - description: Projet de modernisation du SI de l'éducation routière et du permis
+        de conduire
+      file: "/uploads/ERPC_Art_3.pdf"
+      titre: ERCP
+    - description: Administration numérique des étrangers en France
+      file: "/uploads/ANEF_Art_3.pdf"
+      titre: ANEF
+    date-annee: 2019
+  - avis:
+    - description: Mutualisation des systèmes d’information opérationnelle des SIS
+        & SDIS
+      file: "/uploads/NEXSIS_Art_3.pdf"
+      titre: NEXSIS
     - description: Modernisation des centres d’information et de commandement
       file: "/uploads/mcic2_2018_art_3.pdf"
       titre: 'MCIC2 '
@@ -81,6 +98,12 @@ ministeres:
   titre: Ministère de l'Intérieur
 - annees:
   - avis:
+    - description: Moderniser les fonctions supports du CEREMA afin de gagner en efficience,
+        en qualité de service rendu et en productivité
+      file: "/uploads/CEREMA_Art_3.pdf"
+      titre: CEREM’Avenir
+    date-annee: 2020
+  - avis:
     - description: Supercalculateur de Météo-France
       file: "/uploads/projet_2020_art_3.pdf"
       titre: 'Calcul 2020 '
@@ -97,9 +120,14 @@ ministeres:
       titre: GUL
     date-annee: 2014
   image: "/assets/img/avis-conformes/ministere-cohesion-territoires_ok.jpg"
-  titre: Ministère de la Cohésion des territoires, Ministère de la Transition écologique
-    et solidaire
+  titre: Ministère de la Cohésion des territoires et des Relations avec les collectivités
+    territoriales, Ministère de la Transition écologique
 - annees:
+  - avis:
+    - description: Système archivistique de la justice
+      file: "/uploads/PROJAE_Art_3.pdf"
+      titre: PROJAE
+    date-annee: 2018
   - avis:
     - description: Dématérialisation des processus et des échangesavec le justiciable
       file: "/uploads/portalis_art_3.pdf"
@@ -133,6 +161,11 @@ ministeres:
   image: "/assets/img/avis-conformes/ministereaffairesetrangeres2._ok.jpg"
   titre: Ministère de l'Europe et des Affaires étrangères
 - annees:
+  - avis:
+    - description: Mise en place d’une plateforme numérique d’appel au soutien
+      file: "/uploads/EUREKA_Art_3.pdf"
+      titre: EUREKA
+    date-annee: 2019
   - avis:
     - description: SI de gestion des réservistes
       file: "/uploads/roc_rcserves_2019_art_3.pdf"
@@ -198,10 +231,24 @@ ministeres:
       titre: Accord-cadre pour les environnements bureautiques
     date-annee: 2013
   image: "/assets/img/avis-conformes/ministeredesaffairessocialesetsante_ok.jpg"
-  titre: Ministère des Solidarités et de la Santé, Ministère des Sports, Ministère
-    du Travail
+  titre: 'Ministère des Solidarités et de la Santé, Ministère du Travail, de l’Emploi
+    et de l’Insertion '
 - annees:
   - avis:
+    - description: Offrir un nouveau service pour les usagers propriétaires de biens
+        immobiliers depuis leur portail fiscal afin qu'ils puissent établir leur déclaration
+        relatives à ces locaux
+      file: "/uploads/GMBI_Art_3.pdf"
+      titre: GMBI
+    date-annee: 2020
+  - avis:
+    - description: |-
+        Transformer le SI relatif à la chaine de
+        contrôle fiscal, permettant ainsi de tirer tous les bénéfices de l’investissement réalisé dans le cadre
+        du projet CFVR « Ciblage de la Fraude et Valorisation des Requêtes » ayant mis en place des outils
+        d’analyse de masse de type « big data »
+      file: "/uploads/PILAT_Art_3.pdf"
+      titre: PILAT
     - description: Ciblage de la fraude et valorisation des requêtes
       file: "/uploads/cfvr_art_3.pdf"
       titre: CFVR
@@ -249,8 +296,7 @@ ministeres:
       titre: CHORUS INFRA
     date-annee: 2011
   image: "/assets/img/avis-conformes/ministereeconomie_ok.jpg"
-  titre: Ministère de l'Économie et des Finances, Ministère de l'Action et des Comptes
-    publics
+  titre: Ministère de l’Économie, des Finances et de la Relance
 - annees:
   - avis:
     - description: Administration des archives et de leurs métadonnées aux archives
@@ -284,8 +330,7 @@ ministeres:
       titre: CYCLADES
     date-annee: 2012
   image: "/assets/img/avis-conformes/ministeredeleducationnationale_ok_0.jpg"
-  titre: Ministère de l'Éducation nationale, Ministère de l'Enseignement supérieur,
-    de la Recherche et de l'Innovation
+  titre: Ministre de l’Éducation nationale, de la Jeunesse et des Sports
 - annees:
   - avis:
     - description: Programme de rénovation du SI de l'enseignement agricole
@@ -307,7 +352,7 @@ ministeres:
 layout: avis-conformes
 ---
 
-C'est l'une des missions assignées à la DINUM (ex-DINSIC) : sécuriser les grands projets informatiques de l’État. Ainsi, avant tout lancement d'un projet de plus de 9 millions d'euros, chaque ministère doit solliciter un avis de conformité auprès du directeur de la DINUM, au titre de [l’article 3 du décret n° 2019-1088](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039282808/2019-10-28) <sup><a href="#note1" title="note de bas de page">(1)</a></sup>, dont l’application est précisée par [l’arrêté du 5 juin 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042152725/). Chaque projet est alors évalué selon cinq critères : stratégie, finances, gouvernance, réalisation et planning.
+C'est l'une des missions assignées à la DINUM (ex-DINSIC) : sécuriser les grands projets informatiques de l’État et des organismes placés sous la tutelle de l’État. Ainsi, avant tout lancement d'un projet de plus de 9 millions d'euros, chaque ministère doit solliciter un avis de conformité auprès du directeur de la DINUM, au titre de [l’article 3 du décret n° 2019-1088](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039282808/2019-10-28) <sup><a href="#note1" title="note de bas de page">(1)</a></sup>, dont l’application est précisée par [l’arrêté du 5 juin 2020](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042152725/). Chaque projet est alors évalué selon cinq critères : stratégie, finances, gouvernance, réalisation et planning. L'agence nationale de la sécurité des systèmes d'information (ANSSI) analyse le volet sécurité.
 
 L'avis est accompagné, le cas échéant, de recommandations mettant en avant les axes d'améliorations à prendre en compte pour le bon déroulement du projet. Tous les projets déclarés conformes sont ensuite suivis dans le [panorama des grands projets du SI de l’État](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/) que la DINUM publie depuis novembre 2016.
 

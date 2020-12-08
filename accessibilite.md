@@ -14,9 +14,9 @@ Le schéma pluriannuel décrit les points importants sur lesquels la DINUM s’a
 Il s’accompagne d’un plan d’action annuel qui détaille les opérations programmées et mises en œuvre pour 2020, ainsi que l’état de suivi de ces actions.
 <br>[> Consulter le plan annuel d’accessibilité 2020 (pdf - 1 Mo)](/uploads/DINUM_PlanAnnuel_2020.pdf)
 
-## Déclaration de conformité - RGAA 4.0
+## Déclaration d'accessibilité - RGAA 4.0
 numerique.gouv.fr est actuellement non conforme.
-L’audit de conformité est planifié pour septembre 2020. Des travaux d'amélioration sont en cours à la suite d'un premier diagnostic.
+L’audit de conformité est planifié. Des travaux d'amélioration ont eu lieu à la suite d'un premier diagnostic.
 
 ## Droit à la compensation
 Dans l'attente d'une mise en conformité totale, vous pouvez obtenir une version accessible des documents publiés sur numerique.gouv.fr ou des informations qui y seraient contenues en envoyant un courriel à communication.dinum@modernisation.gouv.fr en indiquant le nom du document concerné et/ou les informations que vous souhaiteriez obtenir. Les informations demandées vous seront transmises dans les plus brefs délais.
