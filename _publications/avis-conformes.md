@@ -42,6 +42,23 @@ ministeres:
   titre: Services du Premier ministre
 - annees:
   - avis:
+    - description: Nouveau logiciel de rédaction et de pilotage des procédures de
+        la police nationale
+      file: "/uploads/SCRIBE_Art_3.pdf"
+      titre: SCRIBE
+    - description: Projet de modernisation du SI de l'éducation routière et du permis
+        de conduire
+      file: "/uploads/ERPC_Art_3.pdf"
+      titre: ERCP
+    - description: Administration numérique des étrangers en France
+      file: "/uploads/ANEF_Art_3.pdf"
+      titre: ANEF
+    date-annee: 2019
+  - avis:
+    - description: Mutualisation des systèmes d’information opérationnelle des SIS
+        & SDIS
+      file: "/uploads/NEXSIS_Art_3.pdf"
+      titre: NEXSIS
     - description: Modernisation des centres d’information et de commandement
       file: "/uploads/mcic2_2018_art_3.pdf"
       titre: 'MCIC2 '
