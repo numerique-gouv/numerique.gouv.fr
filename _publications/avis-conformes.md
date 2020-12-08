@@ -101,7 +101,7 @@ ministeres:
     - description: Moderniser les fonctions supports du CEREMA afin de gagner en efficience,
         en qualité de service rendu et en productivité
       file: "/uploads/CEREMA_Art_3.pdf"
-      titre: Cerem’Avenir
+      titre: CEREM’Avenir
     date-annee: 2020
   - avis:
     - description: Supercalculateur de Météo-France
