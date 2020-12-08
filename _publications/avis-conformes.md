@@ -98,6 +98,12 @@ ministeres:
   titre: Ministère de l'Intérieur
 - annees:
   - avis:
+    - description: Moderniser les fonctions supports du CEREMA afin de gagner en efficience,
+        en qualité de service rendu et en productivité
+      file: "/uploads/CEREMA_Art_3.pdf"
+      titre: Cerem’Avenir
+    date-annee: 2020
+  - avis:
     - description: Supercalculateur de Météo-France
       file: "/uploads/projet_2020_art_3.pdf"
       titre: 'Calcul 2020 '
@@ -115,7 +121,7 @@ ministeres:
     date-annee: 2014
   image: "/assets/img/avis-conformes/ministere-cohesion-territoires_ok.jpg"
   titre: Ministère de la Cohésion des territoires et des Relations avec les collectivités
-    territoriales
+    territoriales, Ministère de la Transition écologique
 - annees:
   - avis:
     - description: Système archivistique de la justice
@@ -229,6 +235,20 @@ ministeres:
     et de l’Insertion '
 - annees:
   - avis:
+    - description: Offrir un nouveau service pour les usagers propriétaires de biens
+        immobiliers depuis leur portail fiscal afin qu'ils puissent établir leur déclaration
+        relatives à ces locaux
+      file: "/uploads/GMBI_Art_3.pdf"
+      titre: GMBI
+    date-annee: 2020
+  - avis:
+    - description: |-
+        Transformer le SI relatif à la chaine de
+        contrôle fiscal, permettant ainsi de tirer tous les bénéfices de l’investissement réalisé dans le cadre
+        du projet CFVR « Ciblage de la Fraude et Valorisation des Requêtes » ayant mis en place des outils
+        d’analyse de masse de type « big data »
+      file: "/uploads/PILAT_Art_3.pdf"
+      titre: PILAT
     - description: Ciblage de la fraude et valorisation des requêtes
       file: "/uploads/cfvr_art_3.pdf"
       titre: CFVR
