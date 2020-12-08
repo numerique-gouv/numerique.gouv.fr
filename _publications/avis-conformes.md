@@ -97,8 +97,8 @@ ministeres:
       titre: GUL
     date-annee: 2014
   image: "/assets/img/avis-conformes/ministere-cohesion-territoires_ok.jpg"
-  titre: Ministère de la Cohésion des territoires, Ministère de la Transition écologique
-    et solidaire
+  titre: Ministère de la Cohésion des territoires et des Relations avec les collectivités
+    territoriales
 - annees:
   - avis:
     - description: Dématérialisation des processus et des échangesavec le justiciable
@@ -198,8 +198,8 @@ ministeres:
       titre: Accord-cadre pour les environnements bureautiques
     date-annee: 2013
   image: "/assets/img/avis-conformes/ministeredesaffairessocialesetsante_ok.jpg"
-  titre: Ministère des Solidarités et de la Santé, Ministère des Sports, Ministère
-    du Travail
+  titre: 'Ministère des Solidarités et de la Santé, Ministère du Travail, de l’Emploi
+    et de l’Insertion '
 - annees:
   - avis:
     - description: Ciblage de la fraude et valorisation des requêtes
@@ -249,8 +249,7 @@ ministeres:
       titre: CHORUS INFRA
     date-annee: 2011
   image: "/assets/img/avis-conformes/ministereeconomie_ok.jpg"
-  titre: Ministère de l'Économie et des Finances, Ministère de l'Action et des Comptes
-    publics
+  titre: Ministère de l’Économie, des Finances et de la Relance
 - annees:
   - avis:
     - description: Administration des archives et de leurs métadonnées aux archives
@@ -284,8 +283,7 @@ ministeres:
       titre: CYCLADES
     date-annee: 2012
   image: "/assets/img/avis-conformes/ministeredeleducationnationale_ok_0.jpg"
-  titre: Ministère de l'Éducation nationale, Ministère de l'Enseignement supérieur,
-    de la Recherche et de l'Innovation
+  titre: Ministre de l’Éducation nationale, de la Jeunesse et des Sports
 - annees:
   - avis:
     - description: Programme de rénovation du SI de l'enseignement agricole
