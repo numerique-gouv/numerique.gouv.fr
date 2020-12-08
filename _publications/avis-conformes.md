@@ -118,6 +118,11 @@ ministeres:
     territoriales
 - annees:
   - avis:
+    - description: Système archivistique de la justice
+      file: "/uploads/PROJAE_Art_3.pdf"
+      titre: PROJAE
+    date-annee: 2018
+  - avis:
     - description: Dématérialisation des processus et des échangesavec le justiciable
       file: "/uploads/portalis_art_3.pdf"
       titre: PORTALIS
@@ -150,6 +155,11 @@ ministeres:
   image: "/assets/img/avis-conformes/ministereaffairesetrangeres2._ok.jpg"
   titre: Ministère de l'Europe et des Affaires étrangères
 - annees:
+  - avis:
+    - description: Mise en place d’une plateforme numérique d’appel au soutien
+      file: 
+      titre: EUREKA
+    date-annee: 2019
   - avis:
     - description: SI de gestion des réservistes
       file: "/uploads/roc_rcserves_2019_art_3.pdf"
