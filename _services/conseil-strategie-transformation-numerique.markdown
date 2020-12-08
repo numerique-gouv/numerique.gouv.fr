@@ -115,9 +115,9 @@ layout: rgaa
 .main-timeline .timeline:nth-child(4n+2) .timeline-content:before,
 .main-timeline .timeline:nth-child(4n+2) .timeline-content:after,
 .main-timeline .timeline:nth-child(4n+2) .timeline-icon{
-    background: #39B5B3;
+    background: #008198;
 }
-.main-timeline .timeline:nth-child(4n+2) .title{ color: #39B5B3; }
+.main-timeline .timeline:nth-child(4n+2) .title{ color: #008198; }
 .main-timeline .timeline:nth-child(4n+3) .timeline-content:before,
 .main-timeline .timeline:nth-child(4n+3) .timeline-content:after,
 .main-timeline .timeline:nth-child(4n+3) .timeline-icon{
