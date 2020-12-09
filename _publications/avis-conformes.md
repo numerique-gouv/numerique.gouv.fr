@@ -163,7 +163,7 @@ ministeres:
 - annees:
   - avis:
     - description: Mise en place d’une plateforme numérique d’appel au soutien
-      file: "/uploads/EUREKA_Art_3.pdf"
+      file: "/uploads/EUREKA_Art_3.PDF"
       titre: EUREKA
     date-annee: 2019
   - avis:
