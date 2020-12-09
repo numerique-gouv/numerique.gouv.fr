@@ -4,7 +4,7 @@ title: 'Projets informatiques de l’État : retrouvez l''ensemble des avis conf
 date: 2018-04-24 15:47:00 +02:00
 permalink: "/publications/avis-conformes/"
 position: 2
-date_de_modification: '08 décembre 2020'
+date_de_modification: 9 décembre 2020
 chapeau-text: La direction interministérielle du numérique (DINUM) publie ses avis
   conformes sur les grands projets du système d'information et de communication de
   l’État.
@@ -163,7 +163,7 @@ ministeres:
 - annees:
   - avis:
     - description: Mise en place d’une plateforme numérique d’appel au soutien
-      file: "/uploads/EUREKA_Art_3.pdf"
+      file: "/uploads/EUREKA_Art_3.PDF"
       titre: EUREKA
     date-annee: 2019
   - avis:
