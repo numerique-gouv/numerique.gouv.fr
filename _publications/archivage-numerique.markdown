@@ -1,6 +1,7 @@
 ---
 title: Archivage numérique
 date: 2020-12-09 13:41:00 +01:00
+layout: rgaa
 ---
 
 ### L'archivage numérique
