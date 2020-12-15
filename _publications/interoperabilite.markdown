@@ -56,4 +56,4 @@ Le document RGI v1 est à disposition pour conserver l’historique.
 
 * **mars 2016 :** publication officiel de la version 2
 
-* **20 avril 2016 :** Publication de l'arrêté (JORF n°0095 du 22 avril 2016 texte n° 1) : [arrêté](https://www.legifrance.gouv.fr/eli/arrete/2016/4/20/PRMJ1526716A/jo "Journal officiel - arrêté du 20 avril 2016 - nouvelle fenêtre")
+* **20 avril 2016 :** Publication de l'arrêté (JORF n°0095 du 22 avril 2016 texte n° 1) : [arrêté](https://www.legifrance.gouv.fr/jorf/jo/2016/04/22/0095)
