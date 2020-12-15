@@ -80,6 +80,8 @@ Parallèlement, le code du patrimoine (livre II sur les archives) fait stricteme
 
 
 *Le paysage normatif du cycle de vie de l'information numérique et de l'archivage numérique*
+<br>
+
 
 
 <figure class='image-center' style='width: 80%;'><img src="/uploads/paysage_normatif_cycle_vie_information_numerique_archivage_numerique.jpg"></figure>
