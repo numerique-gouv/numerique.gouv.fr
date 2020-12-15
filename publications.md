@@ -50,6 +50,10 @@ publications:
   url: "/publications/referentiel-general-de-securite/"
   une-ou-diaporama:
   - image: "/uploads/2020_12_15_Publications_1188x802_Se%CC%81curite%CC%81.jpg"
+- title: Programme DCANT
+  url: "/publications/programme-dcant/"
+  une-ou-diaporama:
+  - image: "/uploads/2020_12_15_Publications_1188x802_DCANT.jpg"
 layout: publications
 ---
 
