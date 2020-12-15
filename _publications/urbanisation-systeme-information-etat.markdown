@@ -5,7 +5,15 @@ une:
   image: "/uploads/2020_12_14_Bandeau_Page-fille_Ubranisation_1480x1000.jpg"
 files:
 - file: "/uploads/Cadre_Commun_d_Urbanisation_du_SI_de_l_Etat_v1.pdf"
-  nom: Cadre Commun d’Urbanisation du SI de l’Etat v1 (PDF – 3373Ko)
+  nom: Cadre Commun d’Urbanisation du SI de l’État v1
+- file: "/uploads/Cadre_Commun_Architecture_des_Referentiels_de_donnees_v1.pdf"
+  nom: 'Cadre Commun d’Architecture des Référentiels de données v1 '
+- file: "/uploads/Plan_d_Occupation_des_Sols_du_SI_des_Services_Publics_Francais_V3.1.1.pdf"
+  nom: 'Plan d’Occupation des Sols du SI des Services Publics Français V3.1.1 '
+- file: "/uploads/Guide_detaille_du_RZF_v1.pdf"
+  nom: 'Guide détaillé du RZF v1 '
+- file: "/uploads/Nomenclature_de_Reference_Applicative_et_Infrastructure_v1.pdf"
+  nom: 'Nomenclature de Référence Applicative et Infrastructure v1 '
 layout: rgaa
 ---
 
