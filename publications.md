@@ -38,6 +38,10 @@ publications:
   url: "/publications/principes-mutualisation-si-etat/"
   une-ou-diaporama:
   - image: "/uploads/principes-mutualisation-si.JPG"
+- title: Archivage numérique
+  url: "/publications/archivage-numerique/ "
+  une-ou-diaporama:
+  - image: "/uploads/2020_12_14_Actus_1600x860_Archives.jpg"
 layout: publications
 ---
 
