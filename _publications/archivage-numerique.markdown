@@ -20,7 +20,7 @@ layout: rgaa
 <br>
 <br>
 
-### L'archivage numérique
+### Présentation de l'archivage numérique
 <br>
 
 Le développement des technologies de l'information et de la communication a profondément modifié les méthodes de travail en facilitant et en accélérant considérablement la production, le partage et le stockage d'informations numériques. En parallèle, la reconnaissance de l’écrit électronique comme preuve en 2000 a ouvert la voie à l’« administration électronique », à la dématérialisation des processus métier et à la production d''originaux numériques.
