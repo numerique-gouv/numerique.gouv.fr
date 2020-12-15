@@ -46,6 +46,10 @@ publications:
   url: "/publications/urbanisation-systeme-information-etat/"
   une-ou-diaporama:
   - image: "/uploads/2020_12_15_Publications_1188x802_Urbanisation.jpg"
+- title: Référentiel Général de Sécurité
+  url: "/publications/referentiel-general-de-securite/"
+  une-ou-diaporama:
+  - image: "/uploads/2020_12_15_Publications_1188x802_Se%CC%81curite%CC%81.jpg"
 layout: publications
 ---
 
