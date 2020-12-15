@@ -3,6 +3,9 @@ title: Urbanisation du système d'information de l’État
 date: 2020-12-15 12:04:00 +01:00
 une:
   image: "/uploads/2020_12_14_Bandeau_Page-fille_Ubranisation_1480x1000.jpg"
+files:
+- file: "/uploads/Cadre_Commun_d_Urbanisation_du_SI_de_l_Etat_v1.pdf"
+  nom: Cadre Commun d’Urbanisation du SI de l’Etat v1 (PDF – 3373Ko)
 layout: rgaa
 ---
 
