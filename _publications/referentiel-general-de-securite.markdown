@@ -21,7 +21,7 @@ Le RGS apporte les éclairages nécessaires aux autorités administratives pour 
 {: .text-center}
 
 > [Téléchargez la fiche de présentation du RGS (pdf - 1,3 Mo)](/uploads/DGME_Fiche_RGS_BAT.pdf)
-{: .lien-important}
+> {: .lien-important}
 
 <br>
 <br>
@@ -43,8 +43,8 @@ Le référentiel général de sécurité (RGS) est un référentiel destiné à 
 * d’horodatage électronique ;
 
 * d’audit de la sécurité des systèmes d’information
-<br>
-<br>
+  <br>
+  <br>
 
 ### Application
 
@@ -53,14 +53,14 @@ La version 2.0 du RGS s’appliquent aux autorités administratives de manière 
 * les autorités administratives devront accepter ces certificats électroniques et ces contremarques de temps pendant leur durée de vie, avec un maximum de trois ans ;
 
 * Les autorités administratives qui doivent homologuer leurs systèmes d’informations peuvent utiliser [le guide d’homologation](http://www.ssi.gouv.fr/fr/guides-et-bonnes-pratiques/recommandations-et-guides/securite-du-poste-de-travail-et-des-serveurs/l-homologation-de-securite-en-neuf-etapes-simples.html) publié par l’ANSSI.
-<br>
-<br>
+  <br>
+  <br>
 
 ### Évolution du RGS
 
 La version 2.0 du RGS constitue un référentiel de transition entre une première version liée à la mise en œuvre de l’administration électronique et une troisième version qui se fondera sur la réglementation européenne en cours d’évolution.
 
-[**La liste des offres référencées RGS se trouve sur le site de LSTI**](http://www.lsti-certification.fr/)
+**[La liste des offres référencées RGS se trouve sur le site de LSTI](http://www.lsti-certification.fr/)**
 <br>
 <br>
 
@@ -73,22 +73,22 @@ La Trusted List est gérée par l'ANSSI vous trouverez toutes les informations s
 * [https://www.ssi.gouv.fr/administration/reglementation/confiance-numerique/le-reglement-eidas/](https://www.ssi.gouv.fr/administration/reglementation/confiance-numerique/le-reglement-eidas/)
 
 * [https://www.ssi.gouv.fr/administration/reglementation/confiance-numerique/le-reglement-eidas/liste-nationale-de-confiance/](https://www.ssi.gouv.fr/administration/reglementation/confiance-numerique/le-reglement-eidas/liste-nationale-de-confiance/)
-<br>
-<br>
+  <br>
+  <br>
 
 ### Commentaires et suggestions
 
 L’ANSSI est à l’écoute de toute remarque qui permettra d’améliorer le RGS, sur le fond comme sur la forme.
 
-Vous pouvez ainsi lui transmettre, par courrier adressé à l’ANSSI ou à l’adresse mail rgs (at) ssi.gouv.fr, toutes vos idées, et notamment :
+Vous pouvez ainsi lui transmettre, par courrier adressé à l’ANSSI ou à l’adresse mail [rgs@ssi.gouv.fr](mailto:rgs@ssi.gouv.fr), toutes vos idées, et notamment :
 
 * vos commentaires et propositions d’amélioration sur la lisibilité et la clarté de tout ou partie du RGS, y compris de ses annexes et des documents référencés ;
 
 * vos propositions d’enrichissement du RGS ;
 
 * les thèmes relatifs à la sécurité des systèmes d’information que vous souhaiteriez voir traités dans les futures versions du RGS
-<br>
-<br>
+  <br>
+  <br>
 
 ### Liens annexes
 
