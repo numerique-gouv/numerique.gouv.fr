@@ -11,9 +11,9 @@ files:
 - file: "/uploads/DISIC_AE_Annexes_Guide.pdf"
   nom: DISIC AE Annexes du Guide des Bonnes Pratiques
 - file: "/uploads/Plaquette_Referentiel_General_Archives_octobre_2013.pdf"
-  nom: Référentiel Général de Gestion des Archives R2GA - octobre 2013
-- file: "/uploads/Referentiel_General_de_Gestion_des_Archives_R2GA_octobre_2013.pdf"
   nom: Plaquette Référentiel Général Archives – octobre 2013
+- file: "/uploads/Referentiel_General_de_Gestion_des_Archives_R2GA_octobre_2013.pdf"
+  nom: Référentiel Général de Gestion des Archives R2GA - octobre 2013
 layout: rgaa
 ---
 
