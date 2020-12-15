@@ -27,7 +27,7 @@ layout: rgaa
 ---
 
 <br>
-<br<
+<br>
 
 Le programme s’articule autour de 4 grands axes, donnant lieu à une série d’actions portées de concert par l’Etat et les collectivités territoriales :
 

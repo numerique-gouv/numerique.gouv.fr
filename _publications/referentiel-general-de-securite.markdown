@@ -21,7 +21,7 @@ Le RGS apporte les éclairages nécessaires aux autorités administratives pour 
 {: .text-center}
 
 > [Téléchargez la fiche de présentation du RGS (pdf - 1,3 Mo)](/uploads/DGME_Fiche_RGS_BAT.pdf)
-> {: .lien-important}
+{: .lien-important}
 
 <br>
 <br>
