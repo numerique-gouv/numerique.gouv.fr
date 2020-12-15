@@ -2,11 +2,10 @@
 title: Archivage numérique
 date: 2020-12-09 13:41:00 +01:00
 une:
-- image: "/uploads/2020_12_14_Bandeau_Page-fille_Archives_1480x1000.jpg"
-  alternative-textuelle: 
+  image: "/uploads/2020_12_14_Actus_1600x860_Archives.jpg"
 files:
-  file: "/uploads/DISIC_AE_Guide_Bonnes_Pratiques.pdf"
-  nom: DISIC AE Guide des Bonnes Pratiques
+- file: "/uploads/DISIC_AE_Guide_Bonnes_Pratiques.pdf"
+  nom: DISIC AE Guide des Bonnes Pratiques (PDF 390 Ko)
 layout: rgaa
 ---
 
