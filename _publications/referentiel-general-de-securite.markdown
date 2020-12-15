@@ -64,7 +64,7 @@ La version 2.0 du RGS s’appliquent aux autorités administratives de manière 
 
 La version 2.0 du RGS constitue un référentiel de transition entre une première version liée à la mise en œuvre de l’administration électronique et une troisième version qui se fondera sur la réglementation européenne en cours d’évolution.
 
-[** La liste des offres référencées RGS se trouve sur le site de LSTI **](http://www.lsti-certification.fr/)
+[**La liste des offres référencées RGS se trouve sur le site de LSTI**](http://www.lsti-certification.fr/)
 <br>
 <br>
 
