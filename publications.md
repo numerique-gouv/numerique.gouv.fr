@@ -41,11 +41,11 @@ publications:
 - title: Archivage numérique
   url: "/publications/archivage-numerique/ "
   une-ou-diaporama:
-  - image: "/uploads/2020_12_14_Actus_1600x860_Archives.jpg"
+  - image: "/uploads/2020_12_15_Publications_1188x802_Archives.jpg"
 - title: Urbanisation du système d'information de l’État
   url: "/publications/urbanisation-systeme-information-etat/"
   une-ou-diaporama:
-  - image: 
+  - image: "/uploads/2020_12_15_Publications_1188x802_Urbanisation.jpg"
 layout: publications
 ---
 
