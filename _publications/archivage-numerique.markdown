@@ -6,7 +6,7 @@ une:
   alternative-textuelle: 
 files:
   file: "/uploads/DISIC_AE_Guide_Bonnes_Pratiques.pdf"
-  nom: DISIC AE Guide des Bonnes Pratiques (PDF 390 Ko)
+  nom: DISIC AE Guide des Bonnes Pratiques
 layout: rgaa
 ---
 
