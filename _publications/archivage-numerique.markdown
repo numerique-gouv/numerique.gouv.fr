@@ -1,6 +1,7 @@
 ---
 title: Archivage numérique
 date: 2020-12-09 13:41:00 +01:00
+file: "/uploads/Referentiel_General_de_Gestion_des_Archives_R2GA_-_octobre_2013.pdf"
 une-ou-diaporama:
 - image: "/uploads/2020_12_14_Bandeau_Page-fille_Archives_1480x1000.jpg"
 layout: rgaa
