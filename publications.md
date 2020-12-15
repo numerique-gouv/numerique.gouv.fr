@@ -54,6 +54,10 @@ publications:
   url: "/publications/programme-dcant/"
   une-ou-diaporama:
   - image: "/uploads/2020_12_15_Publications_1188x802_DCANT.jpg"
+- title: Interopérabilité
+  url: "/publications/interoperabilite"
+  une-ou-diaporama:
+  - image: 
 layout: publications
 ---
 
