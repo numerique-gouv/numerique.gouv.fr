@@ -1,6 +1,8 @@
 ---
 title: Référentiel Général de Sécurité
 date: 2020-12-15 13:59:00 +01:00
+une:
+  image: "/uploads/2020_12_14_Bandeau_Page-fille_S%C3%A9curit%C3%A9_1480x1000.jpg"
 layout: rgaa
 ---
 
