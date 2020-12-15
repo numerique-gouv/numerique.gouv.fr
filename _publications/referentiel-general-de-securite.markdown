@@ -15,6 +15,7 @@ Le RGS a été élaboré conformément à l’article 9 de l'[ordonnance n°2005
 
 Le RGS apporte les éclairages nécessaires aux autorités administratives pour prendre en compte pleinement les dispositions de l'ordonnance.
 <br>
+<br>
 
 ![Téléchargez la fiche de présentation du RGS (pdf - 1,3 Mo)](/uploads/fiche-RGS.jpg)
 {: .text-center}
