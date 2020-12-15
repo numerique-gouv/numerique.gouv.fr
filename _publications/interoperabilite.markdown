@@ -25,7 +25,7 @@ Le RGI est défini dans l'ordonnance n° 2005-1516 du 8 décembre 2005 relative 
 ### Statut du document
 <br>
 
-La version 2.0 du RGI est officialisée par l'arrêté en date du 20 avril 2016 ([JORF n°0095 du 22 avril 2016 ](https://www.legifrance.gouv.fr/eli/arrete/2016/4/20/PRMJ1526716A/jo "Journal officiel - arrêté du 20 avril 2016 - nouvelle fenêtre")[texte n° 1](https://www.legifrance.gouv.fr/eli/arrete/2016/4/20/PRMJ1526716A/jo)). C'est la version "En vigueur" du Référentiel Général d'Interopérabilité.
+La version 2.0 du RGI est officialisée par l'arrêté en date du 20 avril 2016 ([JORF n°0095 du 22 avril 2016 texte n° 1](https://www.legifrance.gouv.fr/jorf/jo/2016/04/22/0095)). C'est la version "En vigueur" du Référentiel Général d'Interopérabilité.
 
 Le document RGI v1 est à disposition pour conserver l’historique.
 <br>
