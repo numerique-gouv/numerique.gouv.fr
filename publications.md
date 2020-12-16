@@ -57,7 +57,7 @@ publications:
 - title: Interopérabilité
   url: "/publications/interoperabilite"
   une-ou-diaporama:
-  - image: 
+  - image: "/uploads/2020_12_16_Publications_1188x802_Inte%CC%81rope%CC%81rabilite%CC%81.jpg"
 layout: publications
 ---
 
