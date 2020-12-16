@@ -38,22 +38,22 @@ publications:
   url: "/publications/principes-mutualisation-si-etat/"
   une-ou-diaporama:
   - image: "/uploads/principes-mutualisation-si.JPG"
-- title: Archivage numérique
-  url: "/publications/archivage-numerique/ "
-  une-ou-diaporama:
-  - image: "/uploads/2020_12_15_Publications_1188x802_Archives.jpg"
-- title: Urbanisation du système d'information de l’État
-  url: "/publications/urbanisation-systeme-information-etat/"
-  une-ou-diaporama:
-  - image: "/uploads/2020_12_15_Publications_1188x802_Urbanisation.jpg"
-- title: Référentiel Général de Sécurité
-  url: "/publications/referentiel-general-de-securite/"
-  une-ou-diaporama:
-  - image: "/uploads/2020_12_15_Publications_1188x802_Se%CC%81curite%CC%81.jpg"
 - title: Programme DCANT
   url: "/publications/programme-dcant/"
   une-ou-diaporama:
-  - image: "/uploads/2020_12_15_Publications_1188x802_DCANT.jpg"
+  - image: "/uploads/2020_12_16_Publications_1188x802_DCANT.jpg"
+- title: Archivage numérique
+  url: "/publications/archivage-numerique/ "
+  une-ou-diaporama:
+  - image: "/uploads/2020_12_16_Publications_1188x802_Archives.jpg"
+- title: Urbanisation du système d'information de l’État
+  url: "/publications/urbanisation-systeme-information-etat/"
+  une-ou-diaporama:
+  - image: "/uploads/2020_12_16_Publications_1188x802_Urbanisation.jpg"
+- title: Référentiel Général de Sécurité
+  url: "/publications/referentiel-general-de-securite/"
+  une-ou-diaporama:
+  - image: "/uploads/2020_12_16_Publications_1188x802_Se%CC%81curite%CC%81.jpg"
 - title: Interopérabilité
   url: "/publications/interoperabilite"
   une-ou-diaporama:
