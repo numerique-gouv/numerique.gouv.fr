@@ -42,14 +42,6 @@ publications:
   url: "/publications/programme-dcant/"
   une-ou-diaporama:
   - image: "/uploads/2020_12_16_Publications_1188x802_DCANT.jpg"
-- title: Archivage numérique
-  url: "/publications/archivage-numerique/ "
-  une-ou-diaporama:
-  - image: "/uploads/2020_12_16_Publications_1188x802_Archives.jpg"
-- title: Urbanisation du système d'information de l’État
-  url: "/publications/urbanisation-systeme-information-etat/"
-  une-ou-diaporama:
-  - image: "/uploads/2020_12_16_Publications_1188x802_Urbanisation.jpg"
 - title: Référentiel Général de Sécurité
   url: "/publications/referentiel-general-de-securite/"
   une-ou-diaporama:
@@ -58,6 +50,14 @@ publications:
   url: "/publications/interoperabilite"
   une-ou-diaporama:
   - image: "/uploads/2020_12_16_Publications_1188x802_Inte%CC%81rope%CC%81rabilite%CC%81.jpg"
+- title: Archivage numérique
+  url: "/publications/archivage-numerique/ "
+  une-ou-diaporama:
+  - image: "/uploads/2020_12_16_Publications_1188x802_Archives.jpg"
+- title: Urbanisation du système d'information de l’État
+  url: "/publications/urbanisation-systeme-information-etat/"
+  une-ou-diaporama:
+  - image: "/uploads/2020_12_16_Publications_1188x802_Urbanisation.jpg"
 layout: publications
 ---
 
