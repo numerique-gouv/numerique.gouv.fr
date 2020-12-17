@@ -2,10 +2,27 @@
 title: Archivage numérique
 date: 2020-12-09 13:41:00 +01:00
 published: false
+une:
+  image: "/uploads/2020_12_14_Bandeau_Page-fille_Archives_1480x1000.jpg"
+files:
+- file: "/uploads/DISIC_AE_Guide_Bonnes_Pratiques.pdf"
+  nom: DISIC AE Guide des Bonnes Pratiques
+- file: "/uploads/DISIC_AE_Illustration_Bonnes_Pratiques.pdf"
+  nom: DISIC AE Illustration du Guide des Bonnes Pratiques
+- file: "/uploads/DISIC_AE_Annexes_Guide.pdf"
+  nom: DISIC AE Annexes du Guide des Bonnes Pratiques
+- file: "/uploads/Plaquette_Referentiel_General_Archives_octobre_2013.pdf"
+  nom: Plaquette Référentiel Général Archives – octobre 2013
+- file: "/uploads/Referentiel_General_de_Gestion_des_Archives_R2GA_octobre_2013.pdf"
+  nom: Référentiel Général de Gestion des Archives R2GA - octobre 2013
 layout: rgaa
 ---
 
-### L'archivage numérique
+<br>
+<br>
+
+### Présentation de l'archivage numérique
+<br>
 
 Le développement des technologies de l'information et de la communication a profondément modifié les méthodes de travail en facilitant et en accélérant considérablement la production, le partage et le stockage d'informations numériques. En parallèle, la reconnaissance de l’écrit électronique comme preuve en 2000 a ouvert la voie à l’« administration électronique », à la dématérialisation des processus métier et à la production d''originaux numériques.
 
@@ -18,15 +35,20 @@ L'archivage numérique est donc un **processus dynamique qui commence dès la cr
 **Il s'agit d'une fonction multi-facettes** qui fait appel à différents domaines entrant dans les schémas directeurs informatiques des organisations tels que :
 
 * la gestion et la recherche documentaires (GED, bases de connaissance, moteurs de recherche, sémantique basée sur des référentiels, thesausus, ontologies…),
+
 * la preuve et la sécurité (empreintes, signature électronique, horodatage, gestion du cycle de vie de l'information, gestion des droits d'accès, gestion des traces), l'interopérabilité (entre systèmes basés sur des protocoles de communication et des formats d’échanges),
+
 * les infrastructures de stockage,
+
 * le choix d’outils très pointus ciblés sur la conservation sur le long terme du numérique (outils d’identification et de conversion de formats, veille technologique sur les supports et les formats de données, plans de migrations des supports, des formats).
 
 
 **Les compétences requises pour aborder ce domaine sont, par conséquent, multiples, raison pour laquelle la vision globale de ce qu'est un système d'archivage électronique est encore trop peu partagée.**
-
+<br>
+<br>
 
 ### Le cadre juridique
+<br>
 
 #### Cadre de confiance de l'administration électronique
 
@@ -49,13 +71,16 @@ L'archivage numérique est donc un **processus dynamique qui commence dès la cr
 
 
 [Arrêté du 21 juin 2011](http://legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000024248517&categorieLien=id) relatif à la signature électronique ou numérique en matière pénale, modifiant le code de procédure pénale.
-
+<br>
+<br>
 
 #### Cadre juridique de l'archivage
 
 Le cadre juridique de l'archivage repose sur le **[code du Patrimoine](http://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006074236)** (partie législative et partie réglementaire) portant sur la définition et justification des archives, le réseau des archives de l’État, l'exercice du contrôle scientifique et technique de l'État sur les archives publiques, les modalités de collaboration entre les services producteurs et les services d’archives, les versements dans les services publics d’archives, l'accès aux archives et régime de communication des archives, les sanctions pénales.
 
 Par ailleurs, le décret n° 2012-479 du 12 avril 2012 a créé auprès du Premier ministre deux instances pleinement articulées : le délégué et le comité interministériel aux archives de France dont le directeur, chargé des Archives de France assure le secrétariat. Voir la présentation du CIAF : https://francearchives.fr/article/26287441/
+<br>
+<br>
 
 #### Protection des données personnelles et archivage
 
@@ -66,12 +91,17 @@ Parallèlement, le code du patrimoine (livre II sur les archives) fait stricteme
 
 
 *Le paysage normatif du cycle de vie de l'information numérique et de l'archivage numérique*
+<br>
 
 
 
+<figure class='image-center' style='width: 80%;'><img src="/uploads/paysage_normatif_cycle_vie_information_numerique_archivage_numerique.jpg"></figure>
 
+<br>
+<br>
 
 ### Le standard d'échange de données pour l'archivage (SEDA)
+<br>
 
 * [Le standard d'échange de données pour l'archivage.](http://www.archivesdefrance.culture.gouv.fr/seda/)
 

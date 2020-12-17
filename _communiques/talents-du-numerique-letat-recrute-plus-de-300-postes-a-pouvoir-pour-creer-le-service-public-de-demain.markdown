@@ -47,7 +47,7 @@ Au programme dans un format 100% en ligne :
 
 Ainsi engagé à attirer la future génération de spécialistes, le 5 novembre dernier près de 60 étudiantes et étudiants en master dans le numérique ont formé, avec un agent public de la tech, un duo afin de découvrir les opportunités professionnelles qu’offre l’État dans des domaines aussi prometteurs qu’indispensables à sa transformation. Partout en France et pendant une journée, ils ont pu découvrir à distance le métier, le quotidien et l’environnement de travail des agents publics experts du numérique. 
 
-> « Le contexte de crise actuel met en lumière le numérique, son importance et son potentiel et démontre à nouveau sa nécessité pour transformer l’action publique. Pour construire l’État de demain, nous avons besoin de ces experts numériques. Je me réjouis de la tenue du Forum de l’emploi tech de l’État et espère qu’il convaincra de nombreux talents de venir travailler pour l’intérêt général. » 
+« Le contexte de crise actuel met en lumière le numérique, son importance et son potentiel et démontre à nouveau sa nécessité pour transformer l’action publique. Pour construire l’État de demain, nous avons besoin de ces experts numériques. Je me réjouis de la tenue du Forum de l’emploi tech de l’État et espère qu’il convaincra de nombreux talents de venir travailler pour l’intérêt général. » 
 
 **Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques**
 
