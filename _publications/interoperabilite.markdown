@@ -1,11 +1,11 @@
 ---
-title: Interopérabilité
+title: Référentiel général d'interopérabilité (RGI)
 date: 2020-12-15 14:43:00 +01:00
 files:
 - file: "/uploads/Referentiel_General_Interoperabilite_V2.pdf"
-  nom: 'Référentiel Général d’Interopérabilité V2 '
+  nom: 'Référentiel général d’interopérabilité V2 '
 - file: "/uploads/Referentiel_General_Interoperabilite_V1.pdf"
-  nom: 'Référentiel d’Interopérabilité V1 '
+  nom: Référentiel général d’interopérabilité V1
 une:
   image: "/uploads/2020_12_14_Bandeau_Page-fille_Inte%CC%81rope%CC%81rabilite%CC%81_1480x1000.jpg"
 layout: rgaa
