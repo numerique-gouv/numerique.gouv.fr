@@ -122,6 +122,33 @@ Parallèlement, le code du patrimoine (livre II sur les archives) fait stricteme
     </ul>
 <br>
 <br>
+test 2
+
+<div class="accordion no-bullet" data-accordion data-allow-all-closed="true">
+  <div class="accordion-item" data-accordion-item>
+    <a href="#" class="accordion-title">Ouvrir la transcription du schéma</a>
+    <div class="accordion-content" data-tab-content >
+      <p><b>Paysage normatif</b></p>
+      <p>6 étapes du cycle de vie de l’information numérique et de l’archivage numérique</p>
+      <ul class="no-bullet">
+      <li> T0 Conception du système ;</li> 
+      <li> T1 Production ;</li>
+      <li> T2 Validation ;</li>
+      <li> T3 Fin d’usage courant ;</li>
+      <li> T4 Fin DUA (application sort final) ;</li>
+      <li> T5 Conservation définitive.</li>
+
+      <p>Normes applicables selon les périodes du cycle de vie de l’information</p>
+
+      <li> ICA-Red module 2 et MoReq2010 : applicables depuis T2 jusqu’à T4 ;</li>
+      <li> ISO 15 489 et ISO 30 300 : applicables depuis T1 jusqu’à T4 ;</li>
+      <li> ICA-Req module 3 : applicable depuis T0 jusqu’à T4 ;</li>
+      <li> ISO 23081 (métadonnées) : applicable depuis T1 jusqu’à T4 ;</li>
+      <li> OAIS (ISO 14 721) et NFZ 42 013 (stockage sécurisé) : applicables depuis T2 jusqu’à T5</li>
+      </ul>
+      </div>
+      </div>
+    </div>
 
 ### Le standard d'échange de données pour l'archivage (SEDA)
 <br>
