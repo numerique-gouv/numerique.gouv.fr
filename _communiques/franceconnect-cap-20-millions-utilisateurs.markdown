@@ -16,7 +16,7 @@ contact-presse:
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
 files:
-- file: "/uploads/CP_FRANCECONNECT_CAP_20_MILLIONS_D_UTILISATEURS_ET_DEPLOIEMENT_POLE_EMPL/pdf"
+- file: "/uploads/CP_FRANCECONNECT_CAP_20_MILLIONS_UTILISATEURS.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
