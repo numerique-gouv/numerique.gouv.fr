@@ -1,7 +1,6 @@
 ---
 title: Archivage numérique
 date: 2020-12-09 13:41:00 +01:00
-published: false
 une:
   image: "/uploads/2020_12_14_Bandeau_Page-fille_Archives_1480x1000.jpg"
 files:
