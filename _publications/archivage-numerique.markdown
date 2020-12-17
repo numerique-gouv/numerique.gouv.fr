@@ -95,21 +95,19 @@ Parallèlement, le code du patrimoine (livre II sur les archives) fait stricteme
 
 
 <figure class='image-center' style='width: 80%;'><img src="/uploads/paysage_normatif_cycle_vie_information_numerique_archivage_numerique.jpg"></figure>
-<div class="row">
-  <div class="columns">
-    <ul class="accordion" data-accordion data-allow-all-closed="true">
-  <li class="accordion-item is-active" data-accordion-item>
+<ul class="accordion no-bullet" data-accordion data-allow-all-closed="true">
+    <li class="accordion-item is-active" data-accordion-item>
     <a href="#" class="accordion-title">Ouvrir la transcription du schéma</a>
     <div class="accordion-content" data-tab-content >
 <p><b>Paysage normatif</b></p>
 <p>6 étapes du cycle de vie de l’information numérique et de l’archivage numérique</p>
 
 <li> T0 Conception du système ;</li> 
-<li>  T1 Production ;</li>
-<li>  T2 Validation ;</li>
-<li>  T3 Fin d’usage courant ;</li>
-<li>  T4 Fin DUA (application sort final) ;</li>
-<li>  T5 Conservation définitive.</li>
+<li> T1 Production ;</li>
+<li> T2 Validation ;</li>
+<li> T3 Fin d’usage courant ;</li>
+<li> T4 Fin DUA (application sort final) ;</li>
+<li> T5 Conservation définitive.</li>
 
 <p>Normes applicables selon les périodes du cycle de vie de l’information</p>
 
