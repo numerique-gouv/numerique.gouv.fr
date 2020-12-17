@@ -30,6 +30,9 @@ Le déploiement de FranceConnect va donc se poursuivre pour **atteindre l’obje
 
 [Visionner la campagne de communication lancée en novembre 2020](https://www.dailymotion.com/playlist/x6y0bh)
 
+<br>
+<br>
+
 **FRANCECONNECT EN BREF :**
 
 * Lancement du programme en 2016 ;
