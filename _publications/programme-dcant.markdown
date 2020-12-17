@@ -1,6 +1,7 @@
 ---
 title: Programme DCANT
 date: 2020-12-15 14:29:00 +01:00
+published: false
 chapeau-text: Lancé par l’État et les associations d’élus à l’occasion de la 2ème
   Conférence nationale des territoires, réunie à Cahors le 14 décembre 2017, le programme
   de **Développement Concerté de l’Administration Numérique Territoriale** (**DCANT**)
