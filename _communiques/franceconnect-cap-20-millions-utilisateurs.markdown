@@ -27,6 +27,7 @@ Pour rendre l’action publique plus efficace pour tous les citoyens, la ministr
 Le déploiement de FranceConnect va donc se poursuivre pour **atteindre l’objectif de 30 millions d’utilisateurs d’ici fin 2022** et permettre d’accéder à plus de **1 300 services en ligne**.
 
 [En savoir plus sur FranceConnect](https://franceconnect.gouv.fr/)
+
 [Visionner la campagne de communication lancée en novembre 2020](https://www.dailymotion.com/playlist/x6y0bh)
 
 **FRANCECONNECT EN BREF :**
