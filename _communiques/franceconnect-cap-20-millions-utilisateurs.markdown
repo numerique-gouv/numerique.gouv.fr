@@ -9,6 +9,9 @@ tags:
 chapeau-text: Amélie de Montchalin, ministre de la Transformation et de la Fonction
   publiques, accélère le déploiement de FranceConnect, qui simplifie et sécurise l’accès
   aux démarches administratives de **20 millions de Français**.
+une-ou-diaporama:
+- image: "/uploads/2020_12_17_Visuels_Espace-Presse_France-Connect-20M_1600x860.jpg"
+  alternative-textuelle: 'FranceConnect 20 millions d''utilisateurs '
 contact-presse:
   name: Floriane Beaudron
   tel:
