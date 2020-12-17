@@ -1,6 +1,7 @@
 ---
 title: Interopérabilité
 date: 2020-12-15 14:43:00 +01:00
+published: false
 files:
 - file: "/uploads/Referentiel_General_Interoperabilite_V2.pdf"
   nom: 'Référentiel Général d’Interopérabilité V2 '
