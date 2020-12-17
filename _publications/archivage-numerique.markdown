@@ -108,7 +108,7 @@ Parallèlement, le code du patrimoine (livre II sur les archives) fait stricteme
       <li> T3 Fin d’usage courant ;</li>
       <li> T4 Fin DUA (application sort final) ;</li>
       <li> T5 Conservation définitive.</li>
-
+<br>
       <p>Normes applicables selon les périodes du cycle de vie de l’information</p>
 
       <li> ICA-Red module 2 et MoReq2010 : applicables depuis T2 jusqu’à T4 ;</li>
@@ -120,6 +120,8 @@ Parallèlement, le code du patrimoine (livre II sur les archives) fait stricteme
       </div>
       </div>
     </div>
+<br>
+<br>
 
 ### Le standard d'échange de données pour l'archivage (SEDA)
 <br>
