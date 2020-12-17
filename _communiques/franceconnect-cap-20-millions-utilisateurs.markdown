@@ -1,6 +1,6 @@
 ---
 title: "FranceConnect franchit le cap des 20 millions d’utilisateurs \net se déploie
-  sur le site de pôle emploi à partir de janvier 2021"
+  sur le site de Pôle Emploi à partir de janvier 2021"
 date: 2020-12-17 10:05:00 +01:00
 categories:
 - Communiqué de presse
