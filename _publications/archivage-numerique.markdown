@@ -95,7 +95,36 @@ Parallèlement, le code du patrimoine (livre II sur les archives) fait stricteme
 
 
 <figure class='image-center' style='width: 80%;'><img src="/uploads/paysage_normatif_cycle_vie_information_numerique_archivage_numerique.jpg"></figure>
+<div class="row">
+  <div class="columns">
+    <ul class="accordion" data-accordion data-allow-all-closed="true">
+  <li class="accordion-item is-active" data-accordion-item>
+    <a href="#" class="accordion-title">Ouvrir la transcription du schéma</a>
+    <div class="accordion-content" data-tab-content >
+      <p>
+Paysage normatif
+6 étapes du cycle de vie de l’information numérique et de l’archivage numérique
 
+* T0 Conception du système ;
+* T1 Production ;
+* T2 Validation ;
+* T3 Fin d’usage courant ;
+* T4 Fin DUA (application sort final) ;
+* T5 Conservation définitive.
+
+<br>Normes applicables selon les périodes du cycle de vie de l’information
+
+* ICA-Red module 2 et MoReq2010 : applicables depuis T2 jusqu’à T4 ;
+* ISO 15 489 et ISO 30 300 : applicables depuis T1 jusqu’à T4 ;
+* ICA-Req module 3 : applicable depuis T0 jusqu’à T4 ;
+* ISO 23081 (métadonnées) : applicable depuis T1 jusqu’à T4 ;
+* OAIS (ISO 14 721) et NFZ 42 013 (stockage sécurisé) : applicables depuis T2 jusqu’à T5
+</p>
+    </div>
+  </li>
+</ul>
+  </div>
+</div>
 <br>
 <br>
 
