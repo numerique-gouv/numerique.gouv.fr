@@ -21,8 +21,6 @@ layout: rgaa
 <br>
 
 ## Présentation de l'archivage numérique
-<br>
-
 Le développement des technologies de l'information et de la communication a profondément modifié les méthodes de travail en facilitant et en accélérant considérablement la production, le partage et le stockage d'informations numériques. En parallèle, la reconnaissance de l’écrit électronique comme preuve en 2000 a ouvert la voie à l’« administration électronique », à la dématérialisation des processus métier et à la production d''originaux numériques.
 
 C’est pourquoi l’archivage numérique/électronique est devenu un véritable enjeu pour les directions des systèmes d’information. **Il s'inscrit dans une gestion "efficiente" de la gestion des données numériques par la prise en compte du cycle de vie de l’information ainsi que de la conservation pérenne des données à forte valeur juridique, stratégique et/ou patrimoniale** qui sont souvent la seule trace de l'activité de l'administration. Leur perte constituerait à la fois un risque juridique et un risque majeur pour la continuité des activités. **La notion d'« archivage électronique » renvoie par conséquent à celle de « gouvernance des données numériques »**.
@@ -47,7 +45,6 @@ L'archivage numérique est donc un **processus dynamique qui commence dès la cr
 <br>
 
 ## Le cadre juridique
-<br>
 
 ### Cadre de confiance de l'administration électronique
 
@@ -97,7 +94,7 @@ Parallèlement, le code du patrimoine (livre II sur les archives) fait stricteme
 <figure class='image-center' style='width: 80%;'><img src="/uploads/paysage_normatif_cycle_vie_information_numerique_archivage_numerique.jpg" alt=""></figure>
 <div class="accordion no-bullet" data-accordion data-allow-all-closed="true">
   <div class="accordion-item" data-accordion-item>
-    <a href="#" class="accordion-title">Ouvrir la transcription du schéma</a>
+    <a href="#" class="accordion-title">Transcription du schéma</a>
     <div class="accordion-content" data-tab-content >
       <p><b>Paysage normatif</b></p>
       <p>6 étapes du cycle de vie de l’information numérique et de l’archivage numérique</p>
