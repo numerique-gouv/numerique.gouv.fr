@@ -124,7 +124,6 @@ Parallèlement, le code du patrimoine (livre II sur les archives) fait stricteme
 <br>
 
 ### Le standard d'échange de données pour l'archivage (SEDA)
-<br>
 
 * [Le standard d'échange de données pour l'archivage.](http://www.archivesdefrance.culture.gouv.fr/seda/)
 
