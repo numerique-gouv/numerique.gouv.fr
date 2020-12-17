@@ -96,7 +96,7 @@ Parallèlement, le code du patrimoine (livre II sur les archives) fait stricteme
 
 <figure class='image-center' style='width: 80%;'><img src="/uploads/paysage_normatif_cycle_vie_information_numerique_archivage_numerique.jpg"></figure>
 <ul class="accordion no-bullet" data-accordion data-allow-all-closed="true">
-  <li class="accordion-item" data-accordion-item>
+  <li class="accordion-item no-bullet" data-accordion-item>
     <a href="#" class="accordion-title">Ouvrir la transcription du schéma</a>
     <div class="accordion-content" data-tab-content >
       <p><b>Paysage normatif</b></p>
