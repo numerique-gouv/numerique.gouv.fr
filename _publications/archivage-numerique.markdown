@@ -118,7 +118,6 @@ Parallèlement, le code du patrimoine (livre II sur les archives) fait stricteme
 <li> ICA-Req module 3 : applicable depuis T0 jusqu’à T4 ;</li>
 <li> ISO 23081 (métadonnées) : applicable depuis T1 jusqu’à T4 ;</li>
 <li> OAIS (ISO 14 721) et NFZ 42 013 (stockage sécurisé) : applicables depuis T2 jusqu’à T5</li>
-</p>
     </div>
   </li>
 </ul>
