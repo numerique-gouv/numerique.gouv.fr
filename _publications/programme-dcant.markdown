@@ -1,7 +1,7 @@
 ---
 title: Programme DCANT
-date: 2020-12-15 14:29:00 +01:00
-published: false
+date: 2018-01-16 12:17:00 +01:00
+date_de_modification: 18 décembre 2020
 chapeau-text: Lancé par l’État et les associations d’élus à l’occasion de la 2ème
   Conférence nationale des territoires, réunie à Cahors le 14 décembre 2017, le programme
   de **Développement Concerté de l’Administration Numérique Territoriale** (**DCANT**)
@@ -30,7 +30,7 @@ layout: rgaa
 <br>
 <br>
 
-Le programme s’articule autour de 4 grands axes, donnant lieu à une série d’actions portées de concert par l’Etat et les collectivités territoriales :
+Le programme s’articule autour de 4 grands axes, donnant lieu à une série d’actions portées de concert par l’État et les collectivités territoriales :
 
 * Construire un **socle commun** d’applications, de briques numériques, de référentiels et de cadres partagés pour accélérer la transformation numérique
 

@@ -1,7 +1,6 @@
 ---
 title: Archivage numérique
 date: 2020-12-09 13:41:00 +01:00
-published: false
 une:
   image: "/uploads/2020_12_14_Bandeau_Page-fille_Archives_1480x1000.jpg"
 files:
@@ -21,9 +20,7 @@ layout: rgaa
 <br>
 <br>
 
-### Présentation de l'archivage numérique
-<br>
-
+## Présentation de l'archivage numérique
 Le développement des technologies de l'information et de la communication a profondément modifié les méthodes de travail en facilitant et en accélérant considérablement la production, le partage et le stockage d'informations numériques. En parallèle, la reconnaissance de l’écrit électronique comme preuve en 2000 a ouvert la voie à l’« administration électronique », à la dématérialisation des processus métier et à la production d''originaux numériques.
 
 C’est pourquoi l’archivage numérique/électronique est devenu un véritable enjeu pour les directions des systèmes d’information. **Il s'inscrit dans une gestion "efficiente" de la gestion des données numériques par la prise en compte du cycle de vie de l’information ainsi que de la conservation pérenne des données à forte valeur juridique, stratégique et/ou patrimoniale** qui sont souvent la seule trace de l'activité de l'administration. Leur perte constituerait à la fois un risque juridique et un risque majeur pour la continuité des activités. **La notion d'« archivage électronique » renvoie par conséquent à celle de « gouvernance des données numériques »**.
@@ -47,10 +44,9 @@ L'archivage numérique est donc un **processus dynamique qui commence dès la cr
 <br>
 <br>
 
-### Le cadre juridique
-<br>
+## Le cadre juridique
 
-#### Cadre de confiance de l'administration électronique
+### Cadre de confiance de l'administration électronique
 
 [Loi n°2000-230](http://www.legifrance.gouv.fr/affichTexte.do;jsessionid=55A83B22CD25C7860521F63419D32A3E.tpdjo10v_1?cidTexte=JORFTEXT000000399095&categorieLien=id) du 13 mars 2000 portant adaptation du droit de la preuve aux technologies de l’information et relatif à la signature électronique, modifiant le **Code civil**.
 
@@ -74,7 +70,7 @@ L'archivage numérique est donc un **processus dynamique qui commence dès la cr
 <br>
 <br>
 
-#### Cadre juridique de l'archivage
+### Cadre juridique de l'archivage
 
 Le cadre juridique de l'archivage repose sur le **[code du Patrimoine](http://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006074236)** (partie législative et partie réglementaire) portant sur la définition et justification des archives, le réseau des archives de l’État, l'exercice du contrôle scientifique et technique de l'État sur les archives publiques, les modalités de collaboration entre les services producteurs et les services d’archives, les versements dans les services publics d’archives, l'accès aux archives et régime de communication des archives, les sanctions pénales.
 
@@ -82,7 +78,7 @@ Par ailleurs, le décret n° 2012-479 du 12 avril 2012 a créé auprès du Premi
 <br>
 <br>
 
-#### Protection des données personnelles et archivage
+### Protection des données personnelles et archivage
 
 [Loi n° 78-17](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460) du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés L'article 6 de la loi précise : « \[...\], un traitement ultérieur de données à des fins statistiques ou à des fins de recherche scientifique ou historique est considéré comme compatible avec les finalités initiales de la collecte des données ».
 
@@ -95,13 +91,36 @@ Parallèlement, le code du patrimoine (livre II sur les archives) fait stricteme
 
 
 
-<figure class='image-center' style='width: 80%;'><img src="/uploads/paysage_normatif_cycle_vie_information_numerique_archivage_numerique.jpg"></figure>
+<figure class='image-center' style='width: 80%;'><img src="/uploads/paysage_normatif_cycle_vie_information_numerique_archivage_numerique.jpg" alt=""></figure>
+<div class="accordion no-bullet" data-accordion data-allow-all-closed="true">
+  <div class="accordion-item" data-accordion-item>
+    <a href="#" class="accordion-title">Transcription du schéma</a>
+    <div class="accordion-content" data-tab-content >
+      <p><b>Paysage normatif</b></p>
+      <p>6 étapes du cycle de vie de l’information numérique et de l’archivage numérique</p>
+      <ul class="no-bullet">
+      <li> T0 Conception du système ;</li> 
+      <li> T1 Production ;</li>
+      <li> T2 Validation ;</li>
+      <li> T3 Fin d’usage courant ;</li>
+      <li> T4 Fin DUA (application sort final) ;</li>
+      <li> T5 Conservation définitive.</li></ul>
+<br>
+      <p>Normes applicables selon les périodes du cycle de vie de l’information</p>
 
+      <ul><li> ICA-Red module 2 et MoReq2010 : applicables depuis T2 jusqu’à T4 ;</li>
+      <li> ISO 15 489 et ISO 30 300 : applicables depuis T1 jusqu’à T4 ;</li>
+      <li> ICA-Req module 3 : applicable depuis T0 jusqu’à T4 ;</li>
+      <li> ISO 23081 (métadonnées) : applicable depuis T1 jusqu’à T4 ;</li>
+      <li> OAIS (ISO 14 721) et NFZ 42 013 (stockage sécurisé) : applicables depuis T2 jusqu’à T5</li>
+      </ul>
+      </div>
+      </div>
+    </div>
 <br>
 <br>
 
 ### Le standard d'échange de données pour l'archivage (SEDA)
-<br>
 
 * [Le standard d'échange de données pour l'archivage.](http://www.archivesdefrance.culture.gouv.fr/seda/)
 

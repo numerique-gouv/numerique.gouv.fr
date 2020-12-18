@@ -1,7 +1,6 @@
 ---
 title: Urbanisation du système d'information de l’État
 date: 2020-12-15 12:04:00 +01:00
-published: false
 une:
   image: "/uploads/2020_12_14_Bandeau_Page-fille_Ubranisation_1480x1000.jpg"
 files:
@@ -21,9 +20,7 @@ layout: rgaa
 <br>
 <br>
 
-### La démarche d'Urbanisation
-<br>
-
+## La démarche d'Urbanisation
 La démarche d'urbanisation du Système d'Information (SI), est ainsi nommée du fait des nombreuses analogies pertinentes avec l'urbanisation des villes : cartographies et "plan d'occupation des sols", découpage en quartiers, îlots..., infrastructures communes de transports, réglementation générale, etc. Adaptée aux systèmes d'information, cette démarche vise à les simplifier, à optimiser l'emploi des ressources nécessaires à leur fonctionnement et leur entretien et à les rendre plus réactifs et flexibles par rapport aux évolutions des métiers et de leurs environnements.
 
 Les systèmes d'information sont par nature complexes. Il est nécessaire de s'organiser en conséquence avec l'ensemble des acteurs, d'agir très en amont dès la réflexion stratégique métier, et de se doter de principes et règles communes pour une meilleure coopération ; ainsi chaque évolution locale contribue aux objectifs globaux.
@@ -43,9 +40,7 @@ La démarche d'urbanisation animée par la Direction Interministérielle du Num�
 <br>
 <br>
 
-### Le Cadre Commun d'Urbanisation SI de l’État ou cadre d'architecture d'entreprise appliqué au SI de l’État
-<br>
-
+## Le Cadre Commun d'Urbanisation SI de l’État ou cadre d'architecture d'entreprise appliqué au SI de l’État
 La première version du cadre commun d'urbanisation du SI de l'Etat, a été réalisée avec tous les ministères en impliquant leurs urbanistes et leurs DSI, sous l'impulsion de la DISIC (Direction Interministérielle du Système d'Information et de Communication), et a été confronté à un avis expert externe.
 
 Le cadre commun d'urbanisation :
@@ -69,18 +64,14 @@ La version 1.0 du Cadre Commun d'Urbanisation du SI de l'Etat a été publiée l
 <br>
 <br>
 
-### Guide du Responsable de Zone Fonctionnelle (RZF)
-<br>
-
+## Guide du Responsable de Zone Fonctionnelle (RZF)
 Pour accompagner la mise en place de cette démarche d’urbanisation, pour organiser et structurer la gouvernance de cette transformation continue du SI de l’État, la notion de responsable de zone fonctionnelle a été identifiée et se met en place progressivement. Il s'agit de passer d'une logique de gouvernance organisationnelle (par ministère ou administration), à une logique fonctionnelle (de quoi parle-t-on ? que transforme-t-on ?) alignée sur le Plan d'Occupation des Sols du SI de l’État, qui devient ainsi un véritable outil stratégique et d'aide à la décision. Il s'agit également de passer d'une logique de planification stratégique à une posture stratégique permanente.
 
 Le Guide du Responsable de Zone Fonctionnelle dans sa version 1.0 publiée le 18 décembre 2013 constitue le premier complément du Cadre Commun d'Urbanisation, et précise la nécessité de ce changement de paradigme, le rôle stratégique particulier de ces responsables, leurs missions, et leurs articulations avec les autres acteurs de la transformation (DSI, MOA, Urbaniste, etc.). Il a été co-construit par l'ensemble des ministères, sous l'animation de la DISIC, et apporte des réponses concrètes pour la mise en place de cette gouvernance
 <br>
 <br>
 
-### Cadre Commun d'Architecture des Référentiels de données
-<br>
-
+## Cadre Commun d'Architecture des Référentiels de données
 La gouvernance des données est l’un des objectifs majeurs de la démarche d’urbanisation. Sa mise en place consiste en premier lieu à considérer les données manipulées par l’État comme un actif stratégique, et à ce titre assurer leur gestion comme telle : recensement, responsabilité, standardisation, faciliter l’accès, la diffusion, la réutilisation, le partage et l’archivage sécurisé pour en maximiser la valeur.
 
 Parmi les données manipulées, échangées, traitées par l’ensemble des acteurs, des activités, des processus, des outils numériques ou non, que composent le système d’information de l’État français, certaines ont des caractéristiques particulières : réutilisation, duplication, transversalité, valeur (notamment par rapport aux processus métiers), impact. Le concept de « données de référence » est utilisé pour désigner ce type de données. Le terme « référentiels de données » désigne les outils informatiques nécessaires à la gestion de ces données dans le temps et leurs mises à disposition des autres applications, systèmes d’information ou utilisateurs. Les référentiels de données sont des applications clés pour l’ensemble du SI de l’État, et souvent même pour des acteurs externes à l’État. Ils sont la pierre angulaire de toute la démarche d’urbanisation du SI de l’État. L’efficacité, la qualité, la pérennité et l’agilité de telles applications est un objectif majeur des travaux d’urbanisation du SI de l’État, raison pour laquelle un cadre spécifique leur est consacrées.
@@ -89,9 +80,7 @@ Le Cadre Commun d'Architecture des Référentiels de données a été publié le
 <br>
 <br>
 
-### Les grandes dates
-<br>
-
+## Les grandes dates
 * Février 2011 Création de la DISIC, Décret n°2011-193 du 21 février 2011
 
 * Décembre 2011, cadrage et validation des travaux en Conseil des SIC
