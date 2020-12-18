@@ -7,7 +7,7 @@ layout: page-annexe
 
 ## Déclaration d'accessibilité
 numerique.gouv.fr est actuellement non conforme.
-Un audit de conformité est planifié. Des travaux d'amélioration sont en cours à la suite d'un premier diagnostic.
+Un audit de conformité est planifié. Des travaux d'amélioration ont eu lieu à la suite d'un premier diagnostic.
 
 ## Schéma pluriannuel et plan annuel de la DINUM
 La direction interministérielle du numérique est engagée dans un processus d’amélioration de l’accessibilité de l’ensemble de ses sites.
