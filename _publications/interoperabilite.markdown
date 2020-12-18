@@ -14,8 +14,7 @@ layout: rgaa
 <br>
 <br>
 
-### Présentation du Référentiel Général d'Interopérabilité
-<br>
+## Présentation du Référentiel Général d'Interopérabilité
 
 Le RGI est un cadre de recommandations référençant des normes et standards qui favorisent l'interopérabilité au sein des systèmes d'information de l'administration.
 Ces recommandations constituent les objectifs à atteindre pour favoriser l'interopérabilité. Elles permettent aux acteurs cherchant à interagir et donc à favoriser l'interopérabilité de leur système d'information, d’aller au-delà de simples arrangements bilatéraux.
@@ -24,8 +23,7 @@ Le RGI est défini dans l'ordonnance n° 2005-1516 du 8 décembre 2005 relative 
 <br>
 <br>
 
-### Statut du document
-<br>
+## Statut du document
 
 La version 2.0 du RGI est officialisée par l'arrêté en date du 20 avril 2016 ([JORF n°0095 du 22 avril 2016 texte n° 1](https://www.legifrance.gouv.fr/jorf/jo/2016/04/22/0095)). C'est la version "En vigueur" du Référentiel Général d'Interopérabilité.
 
@@ -33,8 +31,7 @@ Le document RGI v1 est à disposition pour conserver l’historique.
 <br>
 <br>
 
-### Les grandes dates
-<br>
+## Les grandes dates
 
 * **mars 2007 :** Publication de décret n°2007-284 fixant les modalités d'élaboration, d'approbation, de modification et de publication du référentiel général d'interopérabilité: [décret](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000271296&dateTexte= "Décret, nouvelle fenêtre")
 
