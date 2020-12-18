@@ -1,5 +1,6 @@
 ---
 title: Programme DCANT
+date: 2018-01-16 12:17:00 +01:00
 date_de_modification: 18 décembre 2020
 chapeau-text: Lancé par l’État et les associations d’élus à l’occasion de la 2ème
   Conférence nationale des territoires, réunie à Cahors le 14 décembre 2017, le programme
