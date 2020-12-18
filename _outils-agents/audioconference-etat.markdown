@@ -32,7 +32,6 @@ cursor: pointer;
 </style>
 
 <br>
-<br>
 <div align="center">
 <a href="https://audioconf.numerique.gouv.fr/" class="button"><b>Accéder au service Audioconf de l'État</b></a>
 </div>
