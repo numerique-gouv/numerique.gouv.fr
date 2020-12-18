@@ -15,7 +15,8 @@ La direction interministérielle du numérique est engagée dans un processus d�
 Le schéma pluriannuel décrit les points importants sur lesquels la DINUM s’appuiera pour améliorer l’accessibilité numérique de l’ensemble de ses sites web et applications.
 <br>[> Consulter le schéma pluriannuel d’accessibilité 2020-2022 (pdf - 1,7 Mo)](/uploads/DINUM_SchemaPluriannuel_2020.pdf)
 
-Il s’accompagne d’un plan d’action annuel qui détaille les opérations programmées et mises en œuvre pour 2020, ainsi que l’état de suivi de ces actions.
+Il s’accompagne de plans d’action annuels qui détaillent les opérations programmées et mises en œuvre chaque année, ainsi que l’état de suivi de ces actions.
+<br>[> Consulter le plan annuel d’accessibilité 2021 (pdf - 900 Ko)](/uploads/DINUM-plan-annuel-2021.pdf)
 <br>[> Consulter le plan annuel d’accessibilité 2020 (pdf - 1 Mo)](/uploads/DINUM_PlanAnnuel_2020.pdf)
 
 ## Droit à la compensation
