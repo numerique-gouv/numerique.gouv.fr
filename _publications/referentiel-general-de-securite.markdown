@@ -1,6 +1,5 @@
 ---
 title: Référentiel général de sécurité (RGS)
-date: 2020-12-15 13:59:00 +01:00
 une:
   image: "/uploads/2020_12_14_Bandeau_Page-fille_S%C3%A9curit%C3%A9_1480x1000.jpg"
 layout: rgaa
@@ -9,7 +8,7 @@ layout: rgaa
 <br>
 <br>
 
-Le Référentiel Général de Sécurité (RGS V2) définit un ensemble de règles de sécurité qui s'imposent aux autorités administratives dans la sécurisation de leurs systèmes d’information. Il propose également des bonnes pratiques en matière de sécurité des systèmes d’information que les autorités administratives sont libres d’appliquer.
+Le référentiel général de sécurité (RGS V2) définit un ensemble de règles de sécurité qui s'imposent aux autorités administratives dans la sécurisation de leurs systèmes d’information. Il propose également des bonnes pratiques en matière de sécurité des systèmes d’information que les autorités administratives sont libres d’appliquer.
 
 Le RGS a été élaboré conformément à l’article 9 de l'[ordonnance n°2005-1516](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006052816&dateTexte=20110124) du 8 décembre 2005 relative aux échanges électroniques entre les usagers et les autorités administratives ainsi qu'entre les autorités administratives. Il fixe les règles que doivent respecter les fonctions des systèmes d’information contribuant à la sécurité des informations échangées par voie électronique.
 
