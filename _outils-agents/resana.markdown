@@ -6,6 +6,7 @@ tags:
 - plateforme collaborative
 - Resana
 - ETNA
+date_de_modification: 18 décembre 2020
 chapeau-text: Destinée aux agents de l’État, la plateforme collaborative Resana leur
   offre un espace numérique complet pour faciliter le stockage, le partage et la coédition
   de documents, mais aussi le travail en équipe, y compris en mobilité.
