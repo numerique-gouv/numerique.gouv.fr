@@ -30,7 +30,7 @@ layout: rgaa
 <br>
 <br>
 
-Le programme s’articule autour de 4 grands axes, donnant lieu à une série d’actions portées de concert par l’Etat et les collectivités territoriales :
+Le programme s’articule autour de 4 grands axes, donnant lieu à une série d’actions portées de concert par l’État et les collectivités territoriales :
 
 * Construire un **socle commun** d’applications, de briques numériques, de référentiels et de cadres partagés pour accélérer la transformation numérique
 
