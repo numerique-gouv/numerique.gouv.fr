@@ -51,13 +51,13 @@ Zoom sur quelques postes dans le numérique public :
 >
 > **Ministère de la Culture**
 >
-> * **[Chef/Cheffe du service du numérique au secrétariat général](https://place-emploi-public.gouv.fr/offre-emploi/chef-du-service-du-numerique-au-secretariat-general-paris75-hf-reference-2020-523384 "Chef/Cheffe du service du numérique au secrétariat général")**
+> * **[Chef du service du numérique - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/chef-du-service-du-numerique-au-secretariat-general-paris75-hf-reference-2020-523384 "Chef/Cheffe du service du numérique au secrétariat général - F/H")**
 ><br>Cadre supérieur/Catégorie A+
 ><br>Poste basé à Paris (75)
 ><br>
 ><br>
 >
-> * **[Sous-directeur des projets et des produits - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/sous-directeur-des-projets-et-des-produits-secretariat-general-paris75-hf-reference-2020-523388 "Sous-directeur des projets et des produits-Secrétariat général")**
+> * **[Sous-directeur des projets et des produits - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/sous-directeur-des-projets-et-des-produits-secretariat-general-paris75-hf-reference-2020-523388 "Sous-directeur des projets et des produits-Secrétariat général - F/H")**
 ><br>Cadre supérieur/Catégorie A+
 ><br>Poste basé à Paris (75)
 ><br>
