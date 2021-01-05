@@ -57,13 +57,13 @@ Zoom sur quelques postes dans le numérique public :
 ><br>
 ><br>
 >
-> * **[Sous-directeur/sous-directrice des projets et des produits - Secrétariat général](https://place-emploi-public.gouv.fr/offre-emploi/sous-directeur-des-projets-et-des-produits-secretariat-general-paris75-hf-reference-2020-523388 "Sous-directeur des projets et des produits-Secrétariat général")**
+> * **[Sous-directeur des projets et des produits - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/sous-directeur-des-projets-et-des-produits-secretariat-general-paris75-hf-reference-2020-523388 "Sous-directeur des projets et des produits-Secrétariat général")**
 ><br>Cadre supérieur/Catégorie A+
 ><br>Poste basé à Paris (75)
 ><br>
 ><br>
 >
-> * **[Sous-directeur/sous-directrice des infrastructures et services aux agents - Secrétariat général](https://place-emploi-public.gouv.fr/offre-emploi/sous-directeur-des-infrastructures-et-services-aux-agents--secretariat-general-paris75-hf-reference-2020-523386 "Sous-directeur/sous-directrice des infrastructures et services aux agents - Secrétariat général")**
+> * **[Sous-directeur des infrastructures et services aux agents - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/sous-directeur-des-infrastructures-et-services-aux-agents--secretariat-general-paris75-hf-reference-2020-523386 "Sous-directeur/sous-directrice des infrastructures et services aux agents - Secrétariat général - F/H")**
 ><br>Cadre supérieur/Catégorie A+
 ><br>Poste basé à Paris (75)
 ><br>
