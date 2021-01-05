@@ -72,9 +72,9 @@ Zoom sur quelques postes dans le numérique public :
 > **Direction générale des finances publiques (DGFiP)**
 >
 > * **[Chef de projet / chargé de mission - Mission France Recouvrement F/H](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064 "Chef de projet / chargé de mission F/H")**
-><br>Cadre/Catégorie A
-><br>Poste basé à Montreuil (93)
-><br>
-><br>
->
+> <br>Cadre/Catégorie A
+> <br>Poste basé à Montreuil (93)
+> <br>
+> <br>
+> 
 {: .noir .encadre}
