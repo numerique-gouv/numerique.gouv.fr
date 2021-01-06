@@ -1,6 +1,7 @@
 ---
 title: Référentiel général d'interopérabilité (RGI)
-date: 2020-12-15 14:43:00 +01:00
+date: 2016-01-12 14:43:00 +01:00
+date_de_modification: 18 décembre 2020
 files:
 - file: "/uploads/Referentiel_General_Interoperabilite_V2.pdf"
   nom: 'Référentiel général d’interopérabilité V2 '
