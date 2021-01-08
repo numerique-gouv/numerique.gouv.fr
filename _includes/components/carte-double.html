@@ -14,19 +14,21 @@
           <a
             {% if carte-double.redirection %}
             href="{{carte-double.redirection}}" title="{{ carte-double.title }} - lien externe"
+            {% else if carte-double.redirection-interne %}
+            href="{{carte-double.redirection-interne}}" title="{{ carte-double.title }}"
             {% else %}
             href="{{ carte-double.url}}"
             {% endif %}
-            class="black-link">
+            class="black-link card-actu-link">
             {{ carte-double.title }}
             {% if carte-double.redirection %}
             <img class="picto-external-link" src="/assets/img/pictogrammes/icon-lien.png" alt="">
             {% endif %}</a></h3>
         {% if carte-double.categories %}
-        <span class="h6 date display-inline">{{ carte-double.categories }} | </span>
+        <p class="h6 date display-inline">{{ carte-double.categories }} | </p>
         {% endif %}
         {% if carte-double.date %}
-        <span class="h6 date display-inline-block">{% include helpers/date.html date=carte-double.date %}</span>
+        <p class="h6 date display-inline-block">{% include helpers/date.html date=carte-double.date %}</p>
         {% endif %}
         <p>
           {% if carte-double.chapeau-text %}

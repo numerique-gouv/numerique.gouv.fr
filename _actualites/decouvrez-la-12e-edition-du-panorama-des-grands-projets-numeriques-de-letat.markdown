@@ -11,6 +11,5 @@ chapeau-text: La DINUM publie la 12e édition du panorama des grands projets num
   coût dépasse 9 M€.
 une-ou-diaporama:
 - image: "/uploads/panorama-nov2020.png"
-redirection: "/publications/panorama-grands-projets-si/"
+redirection-interne: "/publications/panorama-grands-projets-si/"
 ---
-

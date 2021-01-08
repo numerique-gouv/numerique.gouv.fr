@@ -12,20 +12,23 @@
         <a
           {% if carte.redirection %}
           href="{{carte.redirection}}" title="{{ carte.title }} - lien externe"
+          {% else if carte.redirection-interne %}
+          href="{{carte.redirection-interne}}" title="{{ carte-double.title }}"
+          {% else %}
           {% else %}
           href="{{ carte.url}}"
           {% endif %}
-          class="black-link">
+          class="black-link card-actu-link">
         {{ carte.title }}
         </a>
         {% if carte.redirection %}
         <img class="picto-external-link" src="/assets/img/pictogrammes/icon-lien.png" alt="">
         {% endif %}</h3>
       {% if carte.categories %}
-      <span class="h6 date display-inline">{{ carte.categories.last }} | </span>
+      <p class="h6 date display-inline">{{ carte.categories.last }} | </p>
       {% endif %}
       {% if carte.date %}
-      <span class="h6 date display-inline-block">{% include helpers/date.html date=carte.date %}</span>
+      <p class="h6 date display-inline-block">{% include helpers/date.html date=carte.date %}</p>
       {% endif %}
       <p>
         {% if carte.chapeau-text %}
