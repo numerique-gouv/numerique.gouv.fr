@@ -51,8 +51,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <div class="accordion-item" data-accordion-item>
 <a href="#" class="accordion-title">Version accessible de l'organigramme</a>
 <div class="accordion-content" data-tab-content >
-<p>Sont rattachés à la direction : le secrétariat général, le programme TECH.GOUV, le département Infrastructures et Services Opérés (ISO), le département Etalab (cycle de vie de la donnée) et le département Performance des Services Numériques (PSN) :</b></p>
-<ul class="no-bullet"><li><b>- Le secrétariat général :</b> Catherine Ferréol</b></li></ul>
+<p>Sont rattachés à la direction : le programme TECH.GOUV, le département Infrastructures et Services Opérés (ISO), le département Etalab (cycle de vie de la donnée), le département Performance des Services Numériques (PSN), ainsi que le secrétariat général :</b></p>
 <br>
 <ul><li><b>Programme TECH.GOUV</b> : Xavier Albouy</li>
   <ul>
@@ -67,8 +66,8 @@ La DINUM comprend une direction de programme, trois départements et un secréta
   </ul>
 </ul>
 <br>
-<ul class="no-bullet"><li><b>- Département ISO (Infrastructures et Services Opérés)</b> : Guy Duplaquet. Adjoint : Louis Di Benedetto</li>
-  <ul class="no-bullet">
+<ul><li><b>Département ISO (Infrastructures et Services Opérés)</b> : Guy Duplaquet. Adjoint : Louis Di Benedetto</li>
+  <ul>
     <li><b>Pôle RIE</b></li>
     <li><b>Pôle Hypervision :</b> Franck Davy</li>
     <li><b>Pôle Production :</b> Gilles Corbi</li>
@@ -76,9 +75,8 @@ La DINUM comprend une direction de programme, trois départements et un secréta
   </ul>
 </ul>
 <br>
-<br>
-<ul class="no-bullet"><li><b>- Département Etalab - Cycle de vie de la donnée</b> : Laure Lucchesi</li>
-  <ul class="no-bullet">
+<ul><li><b>Département Etalab - Cycle de vie de la donnée</b> : Laure Lucchesi</li>
+  <ul>
     <li><b>Pôle Droit et Société :</b> Perica Sucevic</li>
     <li><b>Pôle Exploitation des Données :</b> Paul-Antoine Chevalier</li>
     <li><b>Pôle Accompagnement et Communautés :</b> Soizic Pénicaud</li>
@@ -86,9 +84,8 @@ La DINUM comprend une direction de programme, trois départements et un secréta
   </ul>
 </ul>
 <br>
-<br>
-<ul class="no-bullet"><li><b>- Département PSN (Performance des Services Numériques)</b> : Florent Tournois. Adjoint : Laurent Joubert</li>
-  <ul class="no-bullet">
+<ul><li><b>Département PSN (Performance des Services Numériques)</b> : Florent Tournois. Adjoint : Laurent Joubert</li>
+  <ul>
     <li><b>Pôle Conseil et Maîtrise des Risques :</b> Laurent Joubert</li>
     <li><b>Pôle Produits Numériques Partagés :</b> Jean-Louis Barthelémy</li>
     <li><b>Pôle Architecture et sécurité</b></li>
@@ -96,8 +93,8 @@ La DINUM comprend une direction de programme, trois départements et un secréta
   </ul>
 </ul>
 <br>
-<br>
-<ul class="no-bullet"><li><b>La direction :</b>Nadi Bou Hanna. Adjoint : Xavier Albouy</li></ul>
+<ul><li><b>Le secrétariat général :</b> Catherine Ferréol</b></li></ul>
+<ul><li><b>La direction :</b>Nadi Bou Hanna. Adjoint : Xavier Albouy</li></ul>
 <br>
 </div>
 </div>
