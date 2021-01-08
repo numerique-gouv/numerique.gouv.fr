@@ -13,3 +13,4 @@ une-ou-diaporama:
 - image: "/uploads/panorama-nov2020.png"
 redirection-interne: "/publications/panorama-grands-projets-si/"
 ---
+
