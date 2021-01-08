@@ -56,7 +56,7 @@ La politique de contribution est composée de :
 
 La DINUM produit et maintient ce document ; elle veille à sa mise en œuvre et assure le support associé. Pour toute question, ou demande d'évolutions, veuillez vous référer à la partie *Gouvernance*.
 
-Ce document est publié sous la [**Licence Ouverte 2.0** (PDF - 230 Ko][LO link].
+Ce document est publié sous la [**Licence Ouverte 2.0** (PDF - 230 Ko)][LO link].
 
 ## Références externes
 
