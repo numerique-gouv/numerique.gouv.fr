@@ -93,7 +93,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
   </ul>
 </ul>
 <br>
-<ul><li><b>Le secrétariat général :</b> Catherine Ferréol</b></li></ul>
+<ul><li><b>Le secrétariat général :</b> Catherine Ferréol</li></ul>
 <ul><li><b>La direction :</b> Nadi Bou Hanna. Adjoint : Xavier Albouy</li></ul>
 <br>
 </div>
