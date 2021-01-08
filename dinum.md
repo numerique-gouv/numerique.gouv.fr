@@ -51,11 +51,6 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <div class="accordion-item" data-accordion-item>
 <a href="#" class="accordion-title">Version accessible de l'organigramme</a>
 <div class="accordion-content" data-tab-content >
-<p><b>La direction :</b></p>
-<ul class="no-bullet">
-<li> Nadi Bou Hanna</li>
-<li> Adjoint : Xavier Albouy</li></ul>
-<br>
 <p>Sont rattachés à la direction : le secrétariat général, le programme TECH.GOUV, le département Infrastructures et Services Opérés (ISO), le département Etalab (cycle de vie de la donnée) et le département Performance des Services Numériques (PSN) :</b></p>
 <ul class="no-bullet"><li><b>- Le secrétariat général :</b> Catherine Ferréol</b></li></ul>
 <br>
@@ -97,9 +92,13 @@ La DINUM comprend une direction de programme, trois départements et un secréta
     <li><b>Pôle Conseil et Maîtrise des Risques :</b> Laurent Joubert</li>
     <li><b>Pôle Produits Numériques Partagés :</b> Jean-Louis Barthelémy</li>
     <li><b>Pôle Architecture et sécurité</b></li>
-    <li><b>Pôle Ouverture et Partage des Données :</b> Romain Talès</li>
+    <li><b>Pôle Design des Services Numériques :</b> Marine Boudeau</li>
   </ul>
 </ul>
+<br>
+<br>
+<ul class="no-bullet"><li><b>La direction :</b>Nadi Bou Hanna. Adjoint : Xavier Albouy</li></ul>
+<br>
 </div>
 </div>
 </div>
