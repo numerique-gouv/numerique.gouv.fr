@@ -52,6 +52,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <a href="#" class="accordion-title">Version accessible de l'organigramme</a>
 <div class="accordion-content" data-tab-content >
 <p><b>Sont rattachés à la direction :</b> le programme TECH.GOUV, le département Infrastructures et Services Opérés (ISO), le département Etalab (cycle de vie de la donnée), le département Performance des Services Numériques (PSN), ainsi que le secrétariat général.</p>
+<br>Chacun est divisé en missions ou pôles. En voici le détail, avec le nom des responsables.
 <br>
 <ul><li><b>Programme TECH.GOUV</b> : Xavier Albouy</li>
   <ul>
