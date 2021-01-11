@@ -6,7 +6,7 @@ tags:
 - Messagerie instantanée
 - Outils pour les agents
 - ETNA
-date_de_modification: 26 novembre 2020
+date_de_modification: 11 janvier 2021
 chapeau-text: Pour leurs échanges à distance, les agents publics peuvent compter sur
   Tchap, la messagerie instantanée conçue pour eux, opérée par l’État.
 une:
@@ -29,7 +29,7 @@ Agent public, vous avez besoin de **communiquer facilement** avec des collaborat
 <br>
 
 <figure class='image-left' style='width: 7%;'>
-<img src="/uploads/ipad.png"/>
+<img src="/uploads/ipad.png" alt="">
 </figure>## Sur mobile et ordinateur
 {: .margin-bottom-1}
 
@@ -44,7 +44,7 @@ Disponible **sur smartphones et tablettes Android et Apple**, ainsi que **sur or
 <br>
 
 <figure class='image-left' style='width: 6%;'>
-<img src="/uploads/picto-intervention.png"/>
+<img src="/uploads/picto-intervention.png" alt="">
 </figure>## Des fonctionnalités uniques
 {: .margin-bottom-1}
 Conçu spécifiquement pour les agents publics, Tchap offre des fonctionnalités uniques, comme **un annuaire intégré des utilisateurs**, vous permettant par exemple de retrouver un interlocuteur dans un autre ministère.
@@ -54,21 +54,21 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 <br>
 
 <figure class='image-left' style='width: 6%;'>
-<img src="/uploads/group-bleu.png"/>
+<img src="/uploads/group-bleu.png" alt="">
 </figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
 {: .margin-bottom-1}
-**Tout agent de l’État** peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un correspondant extérieur à l’État à un salon spécifique. Pour faciliter la prise en main, [consulter notre plaquette](/uploads/tchap-prise-en-main.pdf) (pdf, 350 ko).
+**Tout agent de l’État** peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un correspondant extérieur à l’État à un salon spécifique. Pour faciliter la prise en main, [consulter notre plaquette (pdf, 350 ko)](/uploads/tchap-prise-en-main.pdf "Consulter notre plaquette (pdf, 350 ko)") .
 
-Les **parlementaires et agents des parlements** ont également accès à la messagerie depuis mai 2020 ([consulter le guide utilisateur dédié](/uploads/tchap-prise-en-main_parlementaires.pdf) - pdf, 860 ko).
+Les **parlementaires et agents des parlements** ont également accès à la messagerie depuis mai 2020 ([consulter le guide utilisateur dédié - pdf, 860 ko](https://www.tchap.gouv.fr/tchap-prise-en-main.pdf "Consulter le guide utilisateur dédié - pdf, 860 ko")).
 
-Tchap est ouvert en expérimentation dans plusieurs **collectivités territoriales** depuis février 2020. Vous souhaitez rejoindre l’expérimentation et proposer Tchap aux agents de votre collectivité ? Contactez [tchap.dinum@modernisation.gouv.fr](mailto:tchap.dinum@modernisation.gouv.fr) pour plus d’information. Une convention devra être établie et signée par la direction générale des services (téléchargez le modèle de convention en format [Word](/uploads/CONVENTION-DE-SERVICE-TCHAP.DOCX) et [odt](/uploads/CONVENTION-DE-SERVICE-TCHAP.odt)).
+Tchap est ouvert en expérimentation dans plusieurs **collectivités territoriales** depuis février 2020. Vous souhaitez rejoindre l’expérimentation et proposer Tchap aux agents de votre collectivité ? Contactez [tchap.dinum@modernisation.gouv.fr](mailto:tchap.dinum@modernisation.gouv.fr) pour plus d’information. Une convention devra être établie et signée par la direction générale des services, téléchargez pour cela le modèle de convention en format [Word (37 Ko)](/uploads/CONVENTION-DE-SERVICE-TCHAP.DOCX "Télécharger le modèle de convention au format Word - 37 Ko") ou [Open Office/odt (22 Ko)](/uploads/CONVENTION-DE-SERVICE-TCHAP.odt "Télécharger le modèle de convention au format Open Office/Odt - 22 Ko").
 
-En novembre 2020, Tchap compte **190 000 utilisateurs**.
+En janvier 2021, Tchap compte **200 000 utilisateurs**.
 <br>
 <br>
 
 <figure class='image-left' style='width: 6%;'>
-<img src="/uploads/shield-bleu.png"/>
+<img src="/uploads/shield-bleu.png" alt="">
 </figure>## Sécurité et confidentialité des échanges
 {: .margin-bottom-1}
 Tous les échanges (hors salons publics) sont chiffrés de bout en bout. Concrètement, cela veut dire que même interceptés, ils seraient illisibles.
@@ -85,26 +85,26 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 <br>
 <br>
 
-## Rejoignez les 190 000 utilisateurs !
+## Rejoignez les 200 000 utilisateurs !
 {: .text-center .margin-bottom-1 .margin-top-3}
 
-<a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png"></figure></a>
-<a href="https://apps.apple.com/fr/app/tchap/id1446253779" alt="Télécharger l'application sur l'Appstore"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png"></figure></a>
+<a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a" alt="Télécharger l'application sur Google play - Lien externe"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png" alt=""></figure></a>
+<a href="https://apps.apple.com/fr/app/tchap/id1446253779" alt="Télécharger l'application sur l'Appstore - Lien externe"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png" alt=""></figure></a>
 
-#### Et en version web
+### Et en version web
 {: .text-center .margin-bottom-0}
-[sur tchap.gouv.fr](https://tchap.gouv.fr/)
+[sur tchap.gouv.fr](https://tchap.gouv.fr/ "sur tchap.gouv.fr - Lien externe")
 {: .text-center .noir}
-<a href="https://tchap.gouv.fr/" alt="Tchap version web"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png"></figure></a>
+<a href="https://tchap.gouv.fr/" alt="Tchap version web - Lien externe"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png" alt=""></figure></a>
 
 > <br>
 > **Vous souhaitez faire la promotion de Tchap au sein de votre administration ?**
 > <br>
-> Vous pouvez utiliser la vidéo présente en haut de cette page pour vos sites Intranet et lettres internes en l'embarquant directement [depuis notre chaîne Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf). Nous pouvons aussi vous fournir le fichier vidéo pour que vous puissiez la diffuser par exemple sur les écrans dans les espaces communs de votre administration ; pour cela, envoyez un [courriel au service communication de la DINUM](mailto:communication.dinum@modernisation.gouv.fr).
-{: .encadre}
+> Vous pouvez utiliser la vidéo présente en haut de cette page pour vos sites Intranet et lettres internes en l'embarquant directement [depuis notre chaîne Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf "Accéder à la page de cette vidéo, sur notre chaîne Dailymotion - Lien externe"). Nous pouvons aussi vous fournir le fichier vidéo pour que vous puissiez la diffuser par exemple sur les écrans dans les espaces communs de votre administration ; pour cela, envoyez un [courriel au service communication de la DINUM](mailto:communication.dinum@modernisation.gouv.fr).
+{: .noir .encadre}
 
 *Tchap est un service interministériel créé et opéré par la direction interministérielle du numérique (DINUM), dans le cadre de **[TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public.* <br>
-*Tchap s’appuie sur un **logiciel open source** ([Riot](https://about.riot.im/)) et un standard ouvert ([Matrix](https://matrix.org/)).*
+*Tchap s’appuie sur un **logiciel open source** ([Riot](https://about.riot.im/ "Riot - Lien externe)) et un standard ouvert ([Matrix](https://matrix.org/ "Matrix - Lien externe")).*
 <br>
 <br>
 
