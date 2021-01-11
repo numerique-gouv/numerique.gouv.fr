@@ -22,10 +22,14 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
    <br>
    <br>
 
+Toutes nos offres au sein de la DINUM sont actuellement pourvues. De nouveaux postes seront bientôt disponibles sur cette page.
+
+<!--
 ## Nos offres d'emploi actuellement disponibles à la DINUM :
 {: .margin-top-4 .margin-bottom-0}
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
+  -->
 <!--
 > ### Talents du numérique : l’État recrute !
 > <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
@@ -35,14 +39,14 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 > <br>
 {: .noir .encadre}
   -->
-
+<!--
 ### Transformation numérique / RH
 {: .margin-top-4 .margin-bottom-1}
 * [**Chef/cheffe de la mission « TALENTS »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-de-la-mission--talents--hf-reference-2020-506084) 
   <br>Encadrement supérieur/Catégorie A+
   <br>
   <br>
-
+  -->
 
 > ### Et aussi, dans d'autres administrations…<a id="offresministères"></a>
 Zoom sur quelques postes dans le numérique public :
