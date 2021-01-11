@@ -55,19 +55,19 @@ Zoom sur quelques postes dans le numérique public :
 >
 > **Ministère de la Culture**
 >
-> * **[Chef du service du numérique - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/chef-du-service-du-numerique-au-secretariat-general-paris75-hf-reference-2020-523384 "Chef/Cheffe du service du numérique au secrétariat général - F/H")**
+> * **[Chef du service du numérique - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/chef-du-service-du-numerique-au-secretariat-general-paris75-hf-reference-2020-523384 "Chef du service du numérique au secrétariat général - F/H - Lien externe")**
 ><br>Cadre supérieur/Catégorie A+
 ><br>Poste basé à Paris (75)
 ><br>
 ><br>
 >
-> * **[Sous-directeur des projets et des produits - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/sous-directeur-des-projets-et-des-produits-secretariat-general-paris75-hf-reference-2020-523388 "Sous-directeur des projets et des produits-Secrétariat général - F/H")**
+> * **[Sous-directeur des projets et des produits - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/sous-directeur-des-projets-et-des-produits-secretariat-general-paris75-hf-reference-2020-523388 "Sous-directeur des projets et des produits-Secrétariat général - F/H - Lien externe")**
 ><br>Cadre supérieur/Catégorie A+
 ><br>Poste basé à Paris (75)
 ><br>
 ><br>
 >
-> * **[Sous-directeur des infrastructures et services aux agents - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/sous-directeur-des-infrastructures-et-services-aux-agents--secretariat-general-paris75-hf-reference-2020-523386 "Sous-directeur/sous-directrice des infrastructures et services aux agents - Secrétariat général - F/H")**
+> * **[Sous-directeur des infrastructures et services aux agents - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/sous-directeur-des-infrastructures-et-services-aux-agents--secretariat-general-paris75-hf-reference-2020-523386 "Sous-directeur des infrastructures et services aux agents - Secrétariat général - F/H - Lien externe")**
 ><br>Cadre supérieur/Catégorie A+
 ><br>Poste basé à Paris (75)
 ><br>
@@ -75,7 +75,7 @@ Zoom sur quelques postes dans le numérique public :
 >
 > **Direction générale des finances publiques (DGFiP)**
 >
-> * **[Chef de projet / chargé de mission - Mission France Recouvrement F/H](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064 "Chef de projet / chargé de mission F/H")**
+> * **[Chef de projet / chargé de mission - Mission France Recouvrement F/H](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064 "Chef de projet / chargé de mission F/H - Lien externe")**
 > <br>Cadre/Catégorie A
 > <br>Poste basé à Montreuil (93)
 > <br>
