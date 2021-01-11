@@ -29,7 +29,7 @@ Créée par [le décret du 25 octobre 2019](https://www.legifrance.gouv.fr/affic
 <br>
 <br>
 
-### **Organisation**
+## **Organisation**
 
 La DINUM comprend une direction de programme, trois départements et un secrétariat général :
 
@@ -37,15 +37,15 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 
 * **le département « Infrastructures et services opérés » (ISO)** conçoit et opère des services d’infrastructures à valeur ajoutée mutualisés entre les administrations, dont le réseau interministériel de l’État (RIE) ;
 
-* **le département [« Etalab »](https://www.etalab.gouv.fr/)** coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, dont ses composantes juridique et sociétale ;
+* **le département [« Etalab »](https://www.etalab.gouv.fr/ "Etalab - Lien externe")** coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, dont ses composantes juridique et sociétale ;
 
 * **le département « Performance des services numériques » (PSN)** conçoit les plans d’actions interministériels en matière de mutualisation, dématérialisation, pilotage des projets et qualité des services numériques, et soutient leur mise en œuvre ;
 
 * **le secrétariat général** soutient l’activité de la direction : il assure la communication externe et interne, la gestion des ressources humaines et financières, la synthèse des missions et veille à la qualité des conditions de travail des agents.
 
-[> Télécharger la note d’organisation](/uploads/note_organisation_DINUM_20200301.pdf)
+[> Télécharger la note d’organisation (pdf - 250 Ko)](/uploads/note_organisation_DINUM_20200301.pdf "Télécharger la note d’organisation - pdf, 250 Ko")
 
-[> Télécharger l'organigramme de la DINUM](/uploads/organigramme_DINUM.pdf)
+[> Consulter l'organigramme de la DINUM (pdf - 106 Ko)](/uploads/organigramme_DINUM.pdf "> Consulter l'organigramme de la DINUM - pdf, 106 Ko")
 
 <div class="accordion no-bullet" data-accordion data-allow-all-closed="true">
 <div class="accordion-item" data-accordion-item>
