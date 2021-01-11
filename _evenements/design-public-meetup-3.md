@@ -21,6 +21,7 @@ champs_informations:
 - intitule: Modalités
   contenu: " Inscription obligatoire et gratuite"
   lien: https://www.eventbrite.fr/e/billets-design-public-meetup-3-88477270899
+  title: Inscription obligatoire et gratuite - Lien externe menant vers la page d'inscription
 - intitule: Précisions
   contenu: Votre billet vous sera demandé à l'entrée le jour du meetup. Il est donc
     nécessaire de le télécharger sur votre smartphone.
