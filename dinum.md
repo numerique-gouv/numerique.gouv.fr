@@ -29,7 +29,7 @@ Créée par [le décret du 25 octobre 2019](https://www.legifrance.gouv.fr/affic
 <br>
 <br>
 
-### **Organisation**
+## **Organisation**
 
 La DINUM comprend une direction de programme, trois départements et un secrétariat général :
 
