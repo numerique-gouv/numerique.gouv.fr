@@ -1,7 +1,7 @@
 ---
 title: La DINUM développe en co-innovation avec Orange Business Services un portail
   unique et évolutif basé sur des API pour le réseau interministériel de l’État (RIE)
-date: 2021-01-11 15:48:00 +01:00
+date: 2021-01-11 15:50:00 +01:00
 categories:
 - Communiqué de presse
 tags:
