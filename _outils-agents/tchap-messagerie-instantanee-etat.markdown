@@ -6,7 +6,7 @@ tags:
 - Messagerie instantanée
 - Outils pour les agents
 - ETNA
-date_de_modification: 26 novembre 2020
+date_de_modification: 11 janvier 2021
 chapeau-text: Pour leurs échanges à distance, les agents publics peuvent compter sur
   Tchap, la messagerie instantanée conçue pour eux, opérée par l’État.
 une:
@@ -88,14 +88,14 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 ## Rejoignez les 200 000 utilisateurs !
 {: .text-center .margin-bottom-1 .margin-top-3}
 
-<a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png" alt=""></figure></a>
-<a href="https://apps.apple.com/fr/app/tchap/id1446253779" alt="Télécharger l'application sur l'Appstore"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png" alt=""></figure></a>
+<a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a" alt="Télécharger l'application sur Google play - Lien externe"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png" alt=""></figure></a>
+<a href="https://apps.apple.com/fr/app/tchap/id1446253779" alt="Télécharger l'application sur l'Appstore - Lien externe"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png" alt=""></figure></a>
 
-#### Et en version web
+### Et en version web
 {: .text-center .margin-bottom-0}
-[sur tchap.gouv.fr](https://tchap.gouv.fr/)
+[sur tchap.gouv.fr](https://tchap.gouv.fr/ "sur tchap.gouv.fr - Lien externe")
 {: .text-center .noir}
-<a href="https://tchap.gouv.fr/" alt="Tchap version web"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png" alt=""></figure></a>
+<a href="https://tchap.gouv.fr/" alt="Tchap version web - Lien externe"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png" alt=""></figure></a>
 
 > <br>
 > **Vous souhaitez faire la promotion de Tchap au sein de votre administration ?**
@@ -104,7 +104,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 {: .encadre}
 
 *Tchap est un service interministériel créé et opéré par la direction interministérielle du numérique (DINUM), dans le cadre de **[TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public.* <br>
-*Tchap s’appuie sur un **logiciel open source** ([Riot](https://about.riot.im/)) et un standard ouvert ([Matrix](https://matrix.org/)).*
+*Tchap s’appuie sur un **logiciel open source** ([Riot](https://about.riot.im/ "Riot - Lien externe)) et un standard ouvert ([Matrix](https://matrix.org/ "Matrix - Lien externe")).*
 <br>
 <br>
 
