@@ -1,7 +1,7 @@
 ---
 title: La DINUM développe en co-innovation avec Orange Business Services un portail
   unique et évolutif basé sur des API pour le réseau interministériel de l’État (RIE)
-date: 2021-01-11 15:50:00 +01:00
+date: 2021-01-11 15:55:00 +01:00
 categories:
 - Communiqué de presse
 tags:
@@ -17,11 +17,12 @@ une-ou-diaporama:
   alternative-textuelle: Image d'une personne tapant sur le clavier d'un ordinateur
     portable
 contact-presse:
-  name: Floriane Beaudron
+  name: Caroline Cellier  06 07 25 00 06 caroline.cellier@orange.com
   tel:
-  - 01.71.21.12.50
-  - '06.10.60.41.19 '
-  email: floriane.beaudron@modernisation.gouv.fr
+  - 01.71.21.11.98
+  - 06.84.72.02.00
+  email: rachel.wadoux@modernisation.gouv.fr
+  Key: 
 files:
 - file: "/uploads/CP_DINUM_OBS_DEVELOPPENT_PORTAIL_UNIQUE_POUR_LE_RIE.pdf"
   nom: Télécharger le communiqué de presse
