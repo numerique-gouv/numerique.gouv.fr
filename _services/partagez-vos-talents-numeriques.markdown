@@ -91,7 +91,32 @@ text-decoration: underline;
 
 Le dispositif *Partagez vos talents numériques !* et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
 [Consultez la note du DINUM cadrant le dispositif (pdf - 625 Ko)](/uploads/Note-DINUM_partagez-vos-talents-numeriques.pdf "Consultez la note du DINUM cadrant le dispositif - pdf, 625 Ko"), validée par les ministères.
+<div class="accordion no-bullet" data-accordion data-allow-all-closed="true">
+<div class="accordion-item" data-accordion-item>
+<a href="#" class="accordion-title">Version accessible de l'organigramme</a>
+<div class="accordion-content" data-tab-content >
+<p><b>NOTE à l’attention des secrétaires généraux
+Expérimentation du dispositif « Partagez vos talents numériques »</b></p> 
+<p>Le dispositif « Partagez vos talents numériques » s’inscrit dans le cadre de la mission TALENTS du programme TECH.GOUV de la DINUM, qui vise à attirer, fidéliser et valoriser les talents du numérique. Il concrétise une des actions prioritaires de la circulaire DINSIC-DGAFP du 2 mai 2019 portant sur le plan d’actions pour la filière numérique et des systèmes d’information et de communication (CPAF1913085C).</p>
+<p>Son objet est de permettre à un agent de l’Etat disposant d’expertises numériques, dit « talent numérique », de mettre ponctuellement ses compétences au service d’un autre service de l’Etat, sans impact sur sa position administrative et sa rémunération. Un système de mesure et de compensation (crédit virtuel) sera instauré au bénéfice des structures qui emploient ces agents, et qui facilitent ainsi l’accès de ces agents à ce dispositif. Une valorisation virtuelle (distinctions, diplômes virtuels, mise en avant) sera également mise en place au profit des agents volontaires concernés.</p>
+<p>Avec ce projet, la DINUM veut développer et encourager une culture d’entre-aide interministérielle, profitable à la réussite des projets numériques. En effet le développement de nouvelles modalités de travail, plus transverses et coopératives, est un levier puissant pour atteindre notre objectif commun d’accélération de la transformation du service public. Il permettrait également de renforcer l’attractivité de l’Etat-employeur dans le domaine du numérique.</p>
+<p>A compter de mai 2020, le dispositif sera expérimenté selon les orientations validées par les directions du numérique ministérielles (DNUM) lors de la réunion de suivi du programme TECH.GOUV du 6 février 2020. A cette occasion, les DNUM ont donné leur accord pour que les agents qui le souhaitent s’auto-recensent dans le dispositif expérimental. L’accord sur le démarrage effectif d’une mission reste bien entendu à la main de l’employeur du talent, en fonction des nécessités de service. Dans les circonstances de crise sanitaire majeure que nous vivons, j’ai choisi de maintenir ce calendrier car les besoins d’entraide et de coopération s’avèrent, pour certains ministères, particulièrement critiques et je serais heureux que ce dispositif puisse contribuer à y répondre au mieux.</p>
+<p>Les missions proposées par les administrations pour l’expérimentation, ainsi que leurs modalités de réalisation, seront publiées sur le site de la DINUM : www.numerique.gouv.fr. Les agents de l’Etat souhaitant proposer leur service pour ces missions ou simplement déclarer leur intérêt pour le dispositif sont invités à se recenser en remplissant un formulaire en ligne.</p>
+<p>Aussi, dès lors que le talent candidat aura obtenu l’aval de sa hiérarchie pour intervenir sur une mission, dont les contours et les modalités d’accomplissement auront été définis dès la publication, le dispositif, qui aura recueilli l’accord de toutes les parties, pourra être mis en œuvre.</p> 
+<p>A l’issue de l’expérimentation, la DINUM mettra en place une plateforme permettant la publication simple et rapide des missions proposées à l’initiative des administrations ainsi que l’auto-recensement et la déclaration des talents souhaitant s’inscrire dans le dispositif. Enfin, le projet ciblera dans un premier temps le recours aux talents internes de l’Etat (fonctionnaires et contractuels). Son extension aux autres fonctions publiques (territoriales et hospitalières) pourra être envisagée dans un second temps.</p>
+<p>Nadi BOU HANNA
+<br>Directeur interministériel du numérique
+<br>(Signature de Nadi Bou Hanna)</p>
 
+<p>Copie : 
+<ul><li>Cabinets (Premier-Ministre, MACP, SENUM)
+Directeurs ministériels du numérique</li>
+<li>DITP</li>
+<li>DGAFP</li></ul></p>
+<br>
+</div>
+</div>
+</div>
 <br>
 <br>
 
