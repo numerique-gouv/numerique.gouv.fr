@@ -21,6 +21,7 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste ou via le bouton Postuler, en précisant son intitulé
    <br>
    <br>
+
 Toutes nos offres au sein de la DINUM sont actuellement pourvues. De nouveaux postes seront bientôt disponibles sur cette page.
 
 <!--
@@ -38,14 +39,14 @@ Toutes nos offres au sein de la DINUM sont actuellement pourvues. De nouveaux po
 > <br>
 {: .noir .encadre}
   -->
-
+<!--
 ### Transformation numérique / RH
 {: .margin-top-4 .margin-bottom-1}
 * [**Chef/cheffe de la mission « TALENTS »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-de-la-mission--talents--hf-reference-2020-506084) 
   <br>Encadrement supérieur/Catégorie A+
   <br>
   <br>
-
+  -->
 
 > ### Et aussi, dans d'autres administrations…<a id="offresministères"></a>
 Zoom sur quelques postes dans le numérique public :
