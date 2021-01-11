@@ -1,7 +1,7 @@
 ---
 title: La DINUM développe en co-innovation avec Orange Business Services un portail
   unique et évolutif basé sur des API pour le réseau interministériel de l’État (RIE)
-date: 2021-01-11 16:04:00 +01:00
+date: 2021-01-11 16:05:00 +01:00
 categories:
 - Communiqué de presse
 tags:
@@ -41,9 +41,10 @@ A partir du portail RIE, sans avoir besoin de se connecter aux portails d’Oran
 > « Il est essentiel aujourd’hui de repenser, simplifier et digitaliser la relation client. Nous sommes fiers d’avoir co-innové avec la DINUM dans ce sens en développant un catalogue évolutif d’API génériques d’interconnexion d’applications client avec les SI d’Orange Business Services. Ce catalogue d’API vient enrichir les offres de connectivité grâce à la digitalisation des procédures d’évolution des services et la simplification de la gestion des réseaux d’entreprise. Chez Orange Business Services, nous sommes convaincus que l’automatisation et la digitalisation des processus sont essentiels pour accompagner nos clients dans leur transformation » **ajoute Paul JOYCE, vice-président exécutif de Global Solutions chez Orange Business Services.**
 
 
-**En savoir plus sur [la DINUM]**(https://www.numerique.gouv.fr/dinum/) 
+**[En savoir plus sur la DINUM](https://www.numerique.gouv.fr/dinum/)**
 
-En savoir plus sur [Orange Business Services]**(https://www.orange-business.com/fr)
+**En savoir plus sur [Orange Business Services](https://www.orange-business.com/fr)**
+
 
 **Contacts presse :**
 * Floriane BEAUDRON, DINUM, floriane.beaudron@modernisation.gouv.fr, 06 10 60 41 19
