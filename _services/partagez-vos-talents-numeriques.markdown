@@ -184,7 +184,7 @@ Deux façons de participer au dispositif en tant qu'agent :
    <br>
 
 Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ?
-**[Contactez-nous par courriel !](mailto:talents.numeriques@modernisation.gouv.fr)**
+**Contactez-nous par courriel à [talents.numeriques@modernisation.gouv.fr] (mailto:talents.numeriques@modernisation.gouv.fr "Envoyez un courriel à talents.numeriques@modernisation.gouv.fr") !**
 
 ### **Que se passe-t-il après mon inscription ?**
 
