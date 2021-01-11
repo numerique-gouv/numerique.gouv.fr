@@ -21,11 +21,14 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste ou via le bouton Postuler, en précisant son intitulé
    <br>
    <br>
+Toutes nos offres au sein de la DINUM sont actuellement pourvues. De nouveaux postes seront bientôt disponibles sur cette page.
 
+<!--
 ## Nos offres d'emploi actuellement disponibles à la DINUM :
 {: .margin-top-4 .margin-bottom-0}
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
+  -->
 <!--
 > ### Talents du numérique : l’État recrute !
 > <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
