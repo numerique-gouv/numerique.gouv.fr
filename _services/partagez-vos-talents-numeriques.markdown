@@ -93,7 +93,7 @@ Le dispositif *Partagez vos talents numériques !* et ses modalités d’expéri
 [Consultez la note du DINUM cadrant le dispositif (pdf - 625 Ko)](/uploads/Note-DINUM_partagez-vos-talents-numeriques.pdf "Consultez la note du DINUM cadrant le dispositif - pdf, 625 Ko"), validée par les ministères.
 <div class="accordion no-bullet" data-accordion data-allow-all-closed="true">
 <div class="accordion-item" data-accordion-item>
-<a href="#" class="accordion-title">Version accessible de l'organigramme</a>
+<a href="#" class="accordion-title">Version accessible de la note</a>
 <div class="accordion-content" data-tab-content >
 <p><b>NOTE à l’attention des secrétaires généraux
 Expérimentation du dispositif « Partagez vos talents numériques »</b></p> 
