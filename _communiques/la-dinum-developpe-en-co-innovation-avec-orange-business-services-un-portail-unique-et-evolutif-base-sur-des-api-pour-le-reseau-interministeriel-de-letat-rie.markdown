@@ -1,7 +1,7 @@
 ---
 title: La DINUM développe en co-innovation avec Orange Business Services un portail
   unique et évolutif basé sur des API pour le réseau interministériel de l’État (RIE)
-date: 2021-01-11 16:07:00 +01:00
+date: 2021-01-11 16:08:00 +01:00
 categories:
 - Communiqué de presse
 tags:
@@ -17,9 +17,11 @@ une-ou-diaporama:
   alternative-textuelle: Image d'une personne tapant sur le clavier d'un ordinateur
     portable
 contact-presse:
-  name: 'Orange Business Services : Caroline Cellier  '
-  tel: 06 07 25 00 06
-  email: caroline.cellier@orange.com
+  name: 'Floriane Beaudron '
+  tel:
+  - '01 71 21 12 50 '
+  - 06 10 60 41 19
+  email: floriane.beaudron@modernisation.gouv.fr
 files:
 - file: "/uploads/CP_DINUM_OBS_DEVELOPPENT_PORTAIL_UNIQUE_POUR_LE_RIE.pdf"
   nom: Télécharger le communiqué de presse
@@ -41,11 +43,8 @@ A partir du portail RIE, sans avoir besoin de se connecter aux portails d’Oran
 > « Il est essentiel aujourd’hui de repenser, simplifier et digitaliser la relation client. Nous sommes fiers d’avoir co-innové avec la DINUM dans ce sens en développant un catalogue évolutif d’API génériques d’interconnexion d’applications client avec les SI d’Orange Business Services. Ce catalogue d’API vient enrichir les offres de connectivité grâce à la digitalisation des procédures d’évolution des services et la simplification de la gestion des réseaux d’entreprise. Chez Orange Business Services, nous sommes convaincus que l’automatisation et la digitalisation des processus sont essentiels pour accompagner nos clients dans leur transformation » **ajoute Paul JOYCE, vice-président exécutif de Global Solutions chez Orange Business Services.**
 
 
-**[En savoir plus sur la DINUM](https://www.numerique.gouv.fr/dinum/)**
-
-**En savoir plus sur [Orange Business Services](https://www.orange-business.com/fr)**
 
 
 **Contacts presse :**
-* Floriane BEAUDRON, DINUM, floriane.beaudron@modernisation.gouv.fr, 06 10 60 41 19
-* Caroline CELLIER, Orange Business Services, caroline.cellier@orange.com, 06 07 25 00 06
+* Floriane BEAUDRON, [DINUM](https://www.numerique.gouv.fr/dinum/), floriane.beaudron@modernisation.gouv.fr, 06 10 60 41 19
+* Caroline CELLIER, [Orange Business Services](https://www.orange-business.com/fr), caroline.cellier@orange.com, 06 07 25 00 06
