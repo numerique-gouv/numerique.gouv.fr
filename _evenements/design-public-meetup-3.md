@@ -34,7 +34,7 @@ Ce meetup est un moment d'échanges, pour restituer des travaux et partager des 
 
 ## Au programme
 Thème de ce 3e meetup : **solidarités et gestion de l'urgence**. 
-Les designers, issus du programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/), présenteront les projets suivants :
+Les designers, issus du programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/ "Entrepreneurs d'Intérêt Général - lien externe"), présenteront les projets suivants :
 
 * **[Résorption bidonvilles](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/resorption-bidonvilles.html "Résorption bidonvilles - Lien externe")** : Connaître, partager et agir pour résorber les bidonvilles en France, par [Laure Dubuc](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/laure-dubuc.html "Laure Dubuc - Lien externe")
 * **[Vigicr'UX](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/vigicrux.html "Vigicr'UX - Lien externe")** : Mieux informer les citoyens sur les risques de crues, par [Flavien Colsenet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/flavien-colsenet.html "Flavien Colsenet - Lien externe")
