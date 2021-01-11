@@ -37,7 +37,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 
 * **le département « Infrastructures et services opérés » (ISO)** conçoit et opère des services d’infrastructures à valeur ajoutée mutualisés entre les administrations, dont le réseau interministériel de l’État (RIE) ;
 
-* **le département [« Etalab »](https://www.etalab.gouv.fr/)** coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, dont ses composantes juridique et sociétale ;
+* **le département [« Etalab »](https://www.etalab.gouv.fr/ "Etalab - Lien externe")** coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, dont ses composantes juridique et sociétale ;
 
 * **le département « Performance des services numériques » (PSN)** conçoit les plans d’actions interministériels en matière de mutualisation, dématérialisation, pilotage des projets et qualité des services numériques, et soutient leur mise en œuvre ;
 
