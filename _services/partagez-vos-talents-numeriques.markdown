@@ -177,10 +177,10 @@ Chaque mission répondant à un **besoin ponctuel**, elle est **délimitée dans
 Deux façons de participer au dispositif en tant qu'agent :
 
 1. Parcourez les missions proposées par les administrations. L'une d'entre elles vous intéresse ? Vous avez envie d'y contribuer ?
-   <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Proposez vos compétences</b></a>
+   <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Proposez vos compétences - Lien externe"><b>> Proposez vos compétences</b></a>
 
 2. Aucune des missions actuelles ne vous correspond, mais vous êtes intéressé par le dispositif ? Faites-vous connaître, détaillez vos compétences et expertises, nous vous tiendrons informé des actualités du dispositif et des nouvelles missions. Votre profil sera partagé à la communauté des responsables de missions qui pourront vous contacter si l'une d'elles vous correspond dans le futur.
-   <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs"><b>> Rejoignez le vivier</b></a>
+   <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Rejoignez le vivier - Lien externe"><b>> Rejoignez le vivier</b></a>
    <br>
 
 Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ?
@@ -204,7 +204,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <div align="center">
 <b>Prêt/Prête ?</b>
 <br>
-<a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a></div>
+<a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button" title="Proposer mes compétences - Lien externe">Proposer mes compétences</a></div>
 
 <br>
 <br>
@@ -231,9 +231,9 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <ul><li><b>Compétences recherchées :</b> Statistiques (logiciel R ou équivalent) - Analyse de données </li>
 <li><b>Durée et période :</b> Phase : 1 journée - Phase 2 : à définir selon disponibilité du talent</li>
 <li><b>Localisation :</b> Paris 7e et à distance</li>
-<li><b><a href="/uploads/mission_parcours-pro-numerique.pdf">Détails de la mission (pdf - 64 ko)</a></b></li></ul>
+<li><b><a href="/uploads/mission_parcours-pro-numerique.pdf" title="Détails de la mission (pdf - 64 ko">Détails de la mission (pdf - 64 ko)</a></b></li></ul>
 
-> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
+> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs "Cette mission m'intéresse : je propose mes talents - Lien externe")**
 {: .lien-important}
 <br>
 
@@ -245,7 +245,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <li><b>Localisation :</b> Paris 7e</li>
 <li><b><a href="/uploads/mission_decrochage-scolaire.pdf">Détails de la mission (pdf - 240 ko)</a></b></li></ul>
 
-> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
+> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs "Cette mission m'intéresse : je propose mes talents - Lien externe")**
 {: .lien-important}
 <br>
 
@@ -257,7 +257,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <li><b>Localisation :</b> Paris 7e</li>
 <li><b><a href="/uploads/mission-focus.pdf">Détails de la mission (pdf - 280 ko)</a></b></li></ul>
 
-> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
+> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs "Cette mission m'intéresse : je propose mes talents - Lien externe")**
 {: .lien-important}
 <br>
 
@@ -270,7 +270,7 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <li><b>Localisation :</b> à distance ou en télétravail</li>
 <li><b><a href="/uploads/2020_08_24_Fiches_COVID%2019_Faciliter%20la%20veille%20scientifique%20.pdf">Détails de la mission (pdf - 64 ko)</a></b></li></ul>
 
-> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs)**
+> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs "Cette mission m'intéresse : je propose mes talents - Lien externe")**
 {: .lien-important}
 <br>
 
@@ -321,7 +321,7 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 <ol>
 <li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...).</li>
 <br>
-<li><b>Vous saisissez</b> votre demande via <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9">notre formulaire en ligne</a>.</li>
+<li><b>Vous saisissez</b> votre demande via <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" title="votre demande via - Lien externe vers le formulaire">notre formulaire en ligne</a>.</li>
 <br>
 <li><b>Nous échangeons</b> si besoin ensemble pour finaliser votre fiche mission et la publions sur cette page.</li>
 <br>
@@ -333,7 +333,7 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 <br>
 
 <div align="center">
-<a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a></div>
+<a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" title="Proposer une mission - Lien externe" class="button">Proposer une mission</a></div>
 <br>
 <br>
 <br>
