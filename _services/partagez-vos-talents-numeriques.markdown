@@ -184,7 +184,7 @@ Deux façons de participer au dispositif en tant qu'agent :
    <br>
 
 Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ?
-**[Contactez-nous !](mailto:talents.numeriques@modernisation.gouv.fr)**
+**[Contactez-nous par courriel !](mailto:talents.numeriques@modernisation.gouv.fr)**
 
 ### **Que se passe-t-il après mon inscription ?**
 
@@ -225,8 +225,8 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 <figure class='image-left' style='width: 10%;'>
 <img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;" alt="" id="missions"/></figure>## **Les missions proposées**
 
-#### Aider à dessiner les parcours professionnels des agents de la filière numérique par une approche statistique
-{: .margin-bottom-1}
+### Aider à dessiner les parcours professionnels des agents de la filière numérique par une approche statistique
+{: .margin-bottom-1 .h4}
 *Direction interministérielle du numérique (DINUM) / Mission Talents*
 <ul><li><b>Compétences recherchées :</b> Statistiques (logiciel R ou équivalent) - Analyse de données </li>
 <li><b>Durée et période :</b> Phase : 1 journée - Phase 2 : à définir selon disponibilité du talent</li>
