@@ -183,8 +183,8 @@ Deux façons de participer au dispositif en tant qu'agent :
    <br><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Rejoignez le vivier - Lien externe"><b>> Rejoignez le vivier</b></a>
    <br>
 
-Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une mission avant de vous décider ?
-**Contactez-nous par courriel à [talents.numeriques@modernisation.gouv.fr] (mailto:talents.numeriques@modernisation.gouv.fr "Envoyez un courriel à talents.numeriques@modernisation.gouv.fr") !**
+Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mission avant de vous décider ?
+<b>Contactez-nous par courriel à <a title="Envoyer un courriel à talents.numeriques@modernisation.gouv.fr" href="mailto:talents.numeriques@modernisation.gouv.fr">talents.numeriques@modernisation.gouv.fr"</a> !</b>
 
 ### **Que se passe-t-il après mon inscription ?**
 
