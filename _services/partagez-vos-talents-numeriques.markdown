@@ -237,8 +237,8 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 {: .lien-important}
 <br>
 
-#### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
-{: .margin-bottom-1}
+### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
+{: .margin-bottom-1 .h4}
 *Ministère de l’Éducation nationale de la jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design - Revue de processus</li>
 <li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent</li>
@@ -249,8 +249,8 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 {: .lien-important}
 <br>
 
-#### Contribuer au développement de « Focus+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
-{: .margin-bottom-1}
+### Contribuer au développement de « Focus+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
+{: .margin-bottom-1 .h4}
 *Ministère de l’Éducation nationale de de la Jeunesse (MENJ) / SG / 110 bis, lab d’innovation de l’Éducation nationale*
 <ul><li><b>Compétences recherchées :</b> UX / UI design OU Développement web - Connaissance des référentiels d’accessibilité ou au moins appétence pour ce sujet</li>
 <li><b>Durée et période :</b> fréquence à définir selon disponibilité du talent</li>
@@ -261,8 +261,8 @@ Vous souhaitez simplement **en savoir plus** sur le dispositif ou sur une missio
 {: .lien-important}
 <br>
 
-#### COVID-19 : Faciliter la veille scientifique (publications scientifiques et essais cliniques) pour les chercheurs et le corps médical
-{: .margin-bottom-1}
+### COVID-19 : Faciliter la veille scientifique (publications scientifiques et essais cliniques) pour les chercheurs et le corps médical
+{: .margin-bottom-1 .h4}
 *Ministère des Armées/Délégation de la transformation et de la performance ministérielles (DTPM)*
 <ul><li><b>Compétences recherchées :</b> Data science
 - Intelligence artificielle - Data engineering</li>
