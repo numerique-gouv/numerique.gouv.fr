@@ -20,8 +20,7 @@ champs_informations:
   contenu: 18h30-21h30
 - intitule: Modalités
   contenu: " Inscription obligatoire et gratuite"
-  lien: https://www.eventbrite.fr/e/billets-design-public-meetup-3-88477270899 " Inscription
-    obligatoire et gratuite - Lien externe menant vers la page d'inscription"
+  lien: https://www.eventbrite.fr/e/billets-design-public-meetup-3-88477270899
 - intitule: Précisions
   contenu: Votre billet vous sera demandé à l'entrée le jour du meetup. Il est donc
     nécessaire de le télécharger sur votre smartphone.
