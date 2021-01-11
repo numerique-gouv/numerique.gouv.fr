@@ -48,7 +48,7 @@ text-decoration: underline;
 > Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <br><a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
 > <br>Si aucune de celles disponibles pour le moment ne vous intéresse, rejoignez simplement le vivier.
 >
-> <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button">Proposer mes compétences</a>
+> <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button" title="Proposer mes compétences - Lien externe">Proposer mes compétences</a>
 > <br>
 > <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
 {: .exergue}
@@ -58,7 +58,7 @@ text-decoration: underline;
 >
 > Besoin d'un appui ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? D'un renfort dans la gestion de crise Covid-19 actuelle ?
 >
-> <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button">Proposer une mission</a>
+> <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button" title="Proposer une mission - Lien externe">Proposer une mission</a>
 > <br>
 > <a class="lien-encadre" href="#comment-ca-marche-admin"><i>Comment ça marche ?</i></a>
 {: .exergue}
