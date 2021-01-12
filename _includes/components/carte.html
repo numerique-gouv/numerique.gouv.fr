@@ -13,7 +13,7 @@
           {% if carte.redirection %}
           href="{{carte.redirection}}" title="{{ carte.title }} - lien externe"
           {% else if carte.redirection-interne %}
-          href="{{carte.redirection-interne}}" title="{{ carte-double.title }}"
+          href="{{carte.redirection-interne}}" title="{{ carte.title }}"
           {% else %}
           {% else %}
           href="{{ carte.url}}"
