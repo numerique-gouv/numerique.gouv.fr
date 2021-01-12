@@ -2,6 +2,7 @@
 title: 'Accessibilité numérique : la France rajeunit son référentiel et l’enrichit
   d’un label'
 date: 2015-06-25 10:56:00 +02:00
+published: false
 categories:
 - Article
 tags:
