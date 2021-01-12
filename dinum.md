@@ -20,11 +20,11 @@ La direction interministérielle du numérique (DINUM) **accompagne les ministè
 
 Elle pilote, avec l'appui des ministères, **[le programme TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)** d'accélération de la transformation numérique du service public.
 
-Dans le cadre du **plan France Relance**, elle pilote la mise en œuvre du volet **[Transformation numérique de l’État et des territoires](https://france-relance.transformation.gouv.fr/)**, pour le compte du ministère de la Transformation et de la Fonction publiques.
+Dans le cadre du **plan France Relance**, elle pilote la mise en œuvre du volet **[Transformation numérique de l’État et des territoires](https://france-relance.transformation.gouv.fr/ "Transformation numérique de l’État et des territoires - Lien externe")**, pour le compte du ministère de la Transformation et de la Fonction publiques.
 
 La DINUM est un service du Premier ministre, placé sous l’autorité de la **ministre de la Transformation et de la Fonction publiques**.
 
-Créée par [le décret du 25 octobre 2019](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039281619), elle a pris la suite de la direction interministérielle du numérique et du système d'information et de communication de l’État (DINSIC).
+Créée par [le décret du 25 octobre 2019](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039281619 "Le décret du 25 octobre 2019 - Lien externe"), elle a pris la suite de la direction interministérielle du numérique et du système d'information et de communication de l’État (DINSIC).
 <br>
 <br>
 <br>
@@ -63,7 +63,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
     <li><b>Mission PILOT :</b> Laurent Joubert</li>
     <li><b>Mission TALENTS :</b> Charlotte Cador</li>
     <li><b>Mission BETA :</b> Florian Delezenne</li>
-    <li><b>Mission TRANSFO :</b> Florian Delezenne</li>
+    <li><b>Mission TRANSFO :</b>Patrick Ruestchmann</li>
   </ul>
 </ul>
 <br>
