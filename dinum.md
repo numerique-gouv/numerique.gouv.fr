@@ -63,7 +63,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
     <li><b>Mission PILOT :</b> Laurent Joubert</li>
     <li><b>Mission TALENTS :</b> Charlotte Cador</li>
     <li><b>Mission BETA :</b> Florian Delezenne</li>
-    <li><b>Mission TRANSFO :</b>Patrick Ruestchmann</li>
+    <li><b>Mission TRANSFO :</b> Patrick Ruestchmann</li>
   </ul>
 </ul>
 <br>
