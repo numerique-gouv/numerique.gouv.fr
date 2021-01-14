@@ -1,6 +1,7 @@
 ---
 title: Identifier et utiliser des outils performants pour les services publics numériques
 date: 2021-01-14 12:20:00 +01:00
+published: false
 chapeau-text: 'La DINUM propose un catalogue de solutions et d’outils numériques,
   à l’usage des administrations. Objectif : favoriser la création de services publics
   numériques utilisant les meilleures solutions disponibles, qu’elles soient issues
