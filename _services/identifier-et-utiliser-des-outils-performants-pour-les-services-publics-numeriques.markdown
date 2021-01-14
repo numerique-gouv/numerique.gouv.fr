@@ -40,7 +40,7 @@ text-decoration: underline;
 
 ## Améliorer les services publics numériques grâce à des solutions innovantes
 
-Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de services numériques à destination des acteurs publics permet de :
+Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de services numériques à destination des acteurs publics vise à :
 
 * favoriser la création de services publics numériques performants et leur amélioration,
 
@@ -110,8 +110,8 @@ Pour les solutions en mode SaaS, des critères spécifiques relatifs à la prise
 * **Données** : documentation des données, données exportables sous des formats exploitables, utilisation d’API, existence de fonctions natives de suppression de données et d’archivage, procédures de réversibilité, existence d’une analyse d'impact relative à la protection des données (AIPD), etc.
 Les critères relatifs aux données personnelles sont issus du RGPD : cartographie des données, gestion du consentement, durée de conservation, droit à l’oubli, protection de la vie privée dès la conception (*privacy by design*), etc.
 
-* **Conformité aux exigences du secteur public** : respect de certaines normes et réglementations ([RGS](/publications/referentiel-general-de-securite/), HDS…), interfaçage avec des outils standardisés (FranceConnect et API FranceConnectées, [API Particulier](https://api.gouv.fr/les-api/api-particulier), [API Entreprise](https://api.gouv.fr/les-api/api-entreprise), autre [API du secteur public](https://api.gouv.fr/) etc.), respect des règles de l'archivage légal.
+* **Conformité aux exigences du secteur public** : respect de certaines normes et réglementations ([RGS](/publications/referentiel-general-de-securite/), HDS…), interfaçage avec des outils standardisés (FranceConnect et API FranceConnectées, [API Particulier](https://api.gouv.fr/les-api/api-particulier "API Particulier - Lien externe"), [API Entreprise](https://api.gouv.fr/les-api/api-entreprise "API Entreprise - Lien externe"), autre [API du secteur public](https://api.gouv.fr/ "API du secteur public - Lien externe") etc.), respect des règles de l'archivage légal.
 
-· **Open source** : mode de licences, utilisation de formats ouverts, référencement SILL, etc.
+· **Open source** : mode de licences, utilisation de formats ouverts, référencement au sein du [socle interministériel des logiciels libres](https://sill.etalab.gouv.fr/ "Socle interministériel des logiciels libres  - Lien externe") (SILL), etc.
 
 *Ce service est proposé par la DINUM dans le cadre du programme [TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique du service public.*
