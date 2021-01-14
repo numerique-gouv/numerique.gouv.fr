@@ -80,11 +80,12 @@ Au travers de la communauté LABEL, des rencontres seront organisées pour mettr
 ### **Qui peut demander l’accès au catalogue et utiliser ces outils ?**
 {: .margin-bottom-1 .h4}
 Tous les acteurs du secteur public peuvent demander à consulter le catalogue : ministères, opérateurs, administrations déconcentrées, collectivités territoriales, syndicats mixtes, etc.
+<br>
 
 ### **Qui peut faire référencer un outil numérique ?**
 {: .margin-bottom-1 .h4}
 Vous pouvez demander le référencement d’un outil ou d’une solution numérique que vous soyez une entreprise (startup, TPE, PME…), une association ou une administration.
-
+<br>
 
 ### **Quelles solutions peuvent être référencées ?**
 {: .margin-bottom-1 .h4}
@@ -93,7 +94,7 @@ Le catalogue référence les solutions numériques, qu’elles soient :
 * sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (*on-premises*),
 * propriétaires ou open source
 * issues de la société civile (entreprises et associations) ou de l’administration.
-
+<br>
 
 ### **Quels sont les critères d’évaluation des solutions ?**
 {: .margin-bottom-1 .h4}
@@ -115,5 +116,7 @@ Les critères relatifs aux données personnelles sont issus du RGPD : cartograph
 * **Conformité aux exigences du secteur public** : respect de certaines normes et réglementations ([RGS](/publications/referentiel-general-de-securite/), HDS…), interfaçage avec des outils standardisés (FranceConnect et API FranceConnectées, [API Particulier](https://api.gouv.fr/les-api/api-particulier "API Particulier - Lien externe"), [API Entreprise](https://api.gouv.fr/les-api/api-entreprise "API Entreprise - Lien externe"), autre [API du secteur public](https://api.gouv.fr/ "API du secteur public - Lien externe") etc.), respect des règles de l'archivage légal.
 
 * **Open source** : mode de licences, utilisation de formats ouverts, référencement au sein du [socle interministériel des logiciels libres](https://sill.etalab.gouv.fr/ "Socle interministériel des logiciels libres  - Lien externe") (SILL), etc.
+<br>
+<br>
 
 *Ce service est proposé par la DINUM dans le cadre du programme [TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique du service public.*
