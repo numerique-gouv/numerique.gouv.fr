@@ -52,8 +52,9 @@ Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de s
 * permettre le partage d’expérience et la mutualisation d’outils entre administrations,
 
 * apporter des éléments d’appréciation quant aux attentes des acteurs publics.
+<br>
 
-> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite consulter le catalogue de solutions
+> <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite consulter le catalogue de solutions
 > {: .margin-bottom-1 .h3}
 > Vous êtes un acteur public et avez besoin d’un outil numérique particulier pour créer ou améliorer un service public en ligne ? Vous souhaitez identifier des produits de qualité et savoir s’ils répondent à vos enjeux et besoins ? <br><a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><b>Contactez la mission LABEL par courriel à label.dinum@modernisation.gouv.fr</b></a>.
 >
@@ -61,7 +62,7 @@ Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de s
 > <br>
 {: .exergue}
 
-> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite référencer ma solution
+> <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite référencer ma solution
 > {: .margin-bottom-1 .h3}
 >
 > Vous êtes une entreprise, une association ou une administration. Vous développez un produit numérique innovant qui pourrait être utile aux services publics en ligne ? Vous souhaitez contribuer à l’amélioration des services publics numériques ?
@@ -74,18 +75,18 @@ Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de s
 
 Au travers de la communauté LABEL, des rencontres seront organisées pour mettre en relation l’écosystème numérique et les administrations. Ces évènements permettront de promouvoir des thématiques d’innovation, de nouveaux cas d’usages, les outils associés et de mettre en avant les *success stories* de projets numériques d’acteurs publics. Plus d’infos prochainement.
 
-## Foire aux questions
-
-### Qui peut demander l’accès au catalogue et utiliser ces outils ?
+## **Foire aux questions**
+{: .text-center .margin-top-3}
+### **Qui peut demander l’accès au catalogue et utiliser ces outils ?**
 {: .margin-bottom-1 .h4}
 Tous les acteurs du secteur public peuvent demander à consulter le catalogue : ministères, opérateurs, administrations déconcentrées, collectivités territoriales, syndicats mixtes, etc.
 
-### Qui peut faire référencer un outil numérique ?
+### **Qui peut faire référencer un outil numérique ?**
 {: .margin-bottom-1 .h4}
 Vous pouvez demander le référencement d’un outil ou d’une solution numérique que vous soyez une entreprise (startup, TPE, PME…), une association ou une administration.
 
 
-### Quelles solutions peuvent être référencées ?
+### **Quelles solutions peuvent être référencées ?**
 {: .margin-bottom-1 .h4}
 Le catalogue référence les solutions numériques, qu’elles soient :
 
@@ -94,7 +95,7 @@ Le catalogue référence les solutions numériques, qu’elles soient :
 * issues de la société civile (entreprises et associations) ou de l’administration.
 
 
-### Quels sont les critères d’évaluation des solutions ?
+### **Quels sont les critères d’évaluation des solutions ?**
 {: .margin-bottom-1 .h4}
 Chaque solution référencée peut être autoévaluée sur la base de critères afin de mettre en avant son niveau de conformité par rapport aux attentes du secteur public.
 
