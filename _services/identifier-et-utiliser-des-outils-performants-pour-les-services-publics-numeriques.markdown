@@ -7,6 +7,8 @@ chapeau-text: 'La DINUM propose un catalogue de solutions et d’outils numériq
   de la société civile ou d’administrations. Les fournisseurs de solutions peuvent
   demander le référencement de leur outil dans ce catalogue, et les acteurs publics
   peuvent demander à le consulter.'
+une:
+  image: "/uploads/page-services-LABEL_fille.png"
 layout: rgaa
 ---
 
