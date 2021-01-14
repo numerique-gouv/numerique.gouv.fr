@@ -36,13 +36,16 @@ text-decoration: underline;
 </style>
 
 ## Améliorer les services publics numériques grâce à des solutions innovantes
+
 Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de services numériques à destination des acteurs publics permet de :
-* favoriser la création de services publics numériques performants et leur amélioration, 
+
+* favoriser la création de services publics numériques performants et leur amélioration,
+
 * faciliter l’identification et le choix de solutions numériques innovantes,
+
 * permettre le partage d’expérience et la mutualisation d’outils entre administrations,
+
 * apporter des éléments d’appréciation quant aux attentes des acteurs publics.
-
-
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite consulter le catalogue de solutions
 >
@@ -50,15 +53,62 @@ Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de s
 >
 > <a href="mailto:label.dinum@modernisation.gouv.fr" class="button" title="Proposer mes compétences - Lien externe">Contactez la mission LABEL par courriel à label.dinum@modernisation.gouv.fr</a>
 > <br>
-{: .exergue}
+> {: .exergue}
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite référencer ma solution
 > {: .margin-bottom-1}
 >
-> Vous êtes une entreprise, une association ou une administration. Vous développez un produit numérique innovant qui pourrait être utile aux services publics en ligne ? Vous souhaitez contribuer à l’amélioration des services publics numériques ? 
+> Vous êtes une entreprise, une association ou une administration. Vous développez un produit numérique innovant qui pourrait être utile aux services publics en ligne ? Vous souhaitez contribuer à l’amélioration des services publics numériques ?
 > <br>Soumettez la demande de référencement de votre solution dans le catalogue [via ce formulaire](https://www.demarches-simplifiees.fr/commencer/demande-de-referencement-au-catalogue-label "via ce formulaire - Lien externe"). Nous prendrons ensuite contact avec vous.
 >
 > <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button" title="Proposer une mission - Lien externe">Proposer une mission</a>
 > <br>
 > <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><i>Pour toute question, écrivez à la mission LABEL par courriel à label.dinum@modernisation.gouv.fr.</i></a>
-{: .exergue}
+> {: .exergue}
+
+Au travers de la communauté LABEL, des rencontres seront organisées pour mettre en relation l’écosystème numérique et les administrations. Ces évènements permettront de promouvoir des thématiques d’innovation, de nouveaux cas d’usages, les outils associés et de mettre en avant les *success stories* de projets numériques d’acteurs publics. Plus d’infos prochainement.
+
+## Foire aux questions
+
+### Qui peut demander l’accès au catalogue et utiliser ces outils ?
+
+Tous les acteurs du secteur public peuvent demander à consulter le catalogue : ministères, opérateurs, administrations déconcentrées, collectivités territoriales, syndicats mixtes, etc.
+
+### Qui peut faire référencer un outil numérique ?
+
+Vous pouvez demander le référencement d’un outil ou d’une solution numérique que vous soyez une entreprise (startup, TPE, PME…), une association ou une administration.
+
+
+### Quelles solutions peuvent être référencées ?
+
+Le catalogue référence les solutions numériques, qu’elles soient :
+
+* sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (*on-premises*),
+
+* propriétaires ou open source
+
+* issues de la société civile (entreprises et associations) ou de l’administration.
+
+
+### Quels sont les critères d’évaluation des solutions ?
+
+Chaque solution référencée peut être autoévaluée sur la base de critères afin de mettre en avant son niveau de conformité par rapport aux attentes du secteur public.
+
+Fruit de la consultation d’experts du numérique et des utilisateurs, les critères d’autoévaluation ont été définis sur la base d’aspects techniques spécifiques au secteur public. Les critères regroupent plusieurs thématiques :
+
+* **Numérique responsable** : éco-conception, empreinte environnementale, accessibilité numérique ([RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)), etc.
+
+* **Conception et innovation** : évaluation du niveau de co-conception de la solution (implication des utilisateurs et des retours d’usage), transparence (algorithme et code source publiés), partenariat/expérimentation « achat innovant », etc.
+
+* **Sécurité** : évaluation des risques, suivi des mises à jour, compatibilité avec des sondes de type Nagios, indépendance des composants avec par exemple une version de base de données, sécurité dès la conception (*security by design*), etc.
+
+Pour les solutions en mode SaaS, des critères spécifiques relatifs à la prise en compte du risque : sécurité physique du centre de données, localisation de l’hébergement des données, gestion des sauvegardes, audit de sécurité, etc.
+
+* **Données** : documentation des données, données exportables sous des formats exploitables, utilisation d’API, existence de fonctions natives de suppression de données et d’archivage, procédures de réversibilité, existence d’une analyse d'impact relative à la protection des données (AIPD), etc.
+Les critères relatifs aux données personnelles sont issus du RGPD : cartographie des données, gestion du consentement, durée de conservation, droit à l’oubli, protection de la vie privée dès la conception (*privacy by design*), etc.
+
+* **Conformité aux exigences du secteur public** : respect de certaines normes et réglementations ([RGS](/publications/referentiel-general-de-securite/), HDS…), interfaçage avec des outils standardisés (FranceConnect et API FranceConnectées, [API Particulier](https://api.gouv.fr/les-api/api-particulier), [API Entreprise](https://api.gouv.fr/les-api/api-entreprise), autre [API du secteur public](https://api.gouv.fr/) etc.), respect des règles de l'archivage légal.
+
+· **Open source** : mode de licences, utilisation de formats ouverts, référencement SILL, etc.
+
+*Ce service est proposé par la DINUM dans le cadre du programme [TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique du service public.*
