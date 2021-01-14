@@ -54,15 +54,15 @@ Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de s
 * apporter des éléments d’appréciation quant aux attentes des acteurs publics.
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite consulter le catalogue de solutions
->
+> {: .margin-bottom-1 .h3}
 > Vous êtes un acteur public et avez besoin d’un outil numérique particulier pour créer ou améliorer un service public en ligne ? Vous souhaitez identifier des produits de qualité et savoir s’ils répondent à vos enjeux et besoins ? <br><a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><b>Contactez la mission LABEL par courriel à label.dinum@modernisation.gouv.fr</b></a>.
 >
 > <a href="mailto:label.dinum@modernisation.gouv.fr" class="button" title="Proposer mes compétences - Lien externe">Contactez la mission LABEL par courriel à label.dinum@modernisation.gouv.fr</a>
 > <br>
-> {: .exergue}
+{: .exergue}
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite référencer ma solution
-> {: .margin-bottom-1}
+> {: .margin-bottom-1 .h3}
 >
 > Vous êtes une entreprise, une association ou une administration. Vous développez un produit numérique innovant qui pourrait être utile aux services publics en ligne ? Vous souhaitez contribuer à l’amélioration des services publics numériques ?
 > <br>Soumettez la demande de référencement de votre solution dans le catalogue [via ce formulaire](https://www.demarches-simplifiees.fr/commencer/demande-de-referencement-au-catalogue-label "via ce formulaire - Lien externe"). Nous prendrons ensuite contact avec vous.
@@ -70,34 +70,32 @@ Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de s
 > <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button" title="Proposer une mission - Lien externe">Proposer une mission</a>
 > <br>
 > <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><i>Pour toute question, écrivez à la mission LABEL par courriel à label.dinum@modernisation.gouv.fr.</i></a>
-> {: .exergue}
+{: .exergue}
 
 Au travers de la communauté LABEL, des rencontres seront organisées pour mettre en relation l’écosystème numérique et les administrations. Ces évènements permettront de promouvoir des thématiques d’innovation, de nouveaux cas d’usages, les outils associés et de mettre en avant les *success stories* de projets numériques d’acteurs publics. Plus d’infos prochainement.
 
 ## Foire aux questions
 
 ### Qui peut demander l’accès au catalogue et utiliser ces outils ?
-
+{: .margin-bottom-1 .h4}
 Tous les acteurs du secteur public peuvent demander à consulter le catalogue : ministères, opérateurs, administrations déconcentrées, collectivités territoriales, syndicats mixtes, etc.
 
 ### Qui peut faire référencer un outil numérique ?
-
+{: .margin-bottom-1 .h4}
 Vous pouvez demander le référencement d’un outil ou d’une solution numérique que vous soyez une entreprise (startup, TPE, PME…), une association ou une administration.
 
 
 ### Quelles solutions peuvent être référencées ?
-
+{: .margin-bottom-1 .h4}
 Le catalogue référence les solutions numériques, qu’elles soient :
 
 * sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (*on-premises*),
-
 * propriétaires ou open source
-
 * issues de la société civile (entreprises et associations) ou de l’administration.
 
 
 ### Quels sont les critères d’évaluation des solutions ?
-
+{: .margin-bottom-1 .h4}
 Chaque solution référencée peut être autoévaluée sur la base de critères afin de mettre en avant son niveau de conformité par rapport aux attentes du secteur public.
 
 Fruit de la consultation d’experts du numérique et des utilisateurs, les critères d’autoévaluation ont été définis sur la base d’aspects techniques spécifiques au secteur public. Les critères regroupent plusieurs thématiques :
@@ -115,6 +113,6 @@ Les critères relatifs aux données personnelles sont issus du RGPD : cartograph
 
 * **Conformité aux exigences du secteur public** : respect de certaines normes et réglementations ([RGS](/publications/referentiel-general-de-securite/), HDS…), interfaçage avec des outils standardisés (FranceConnect et API FranceConnectées, [API Particulier](https://api.gouv.fr/les-api/api-particulier "API Particulier - Lien externe"), [API Entreprise](https://api.gouv.fr/les-api/api-entreprise "API Entreprise - Lien externe"), autre [API du secteur public](https://api.gouv.fr/ "API du secteur public - Lien externe") etc.), respect des règles de l'archivage légal.
 
-· **Open source** : mode de licences, utilisation de formats ouverts, référencement au sein du [socle interministériel des logiciels libres](https://sill.etalab.gouv.fr/ "Socle interministériel des logiciels libres  - Lien externe") (SILL), etc.
+* **Open source** : mode de licences, utilisation de formats ouverts, référencement au sein du [socle interministériel des logiciels libres](https://sill.etalab.gouv.fr/ "Socle interministériel des logiciels libres  - Lien externe") (SILL), etc.
 
 *Ce service est proposé par la DINUM dans le cadre du programme [TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique du service public.*
