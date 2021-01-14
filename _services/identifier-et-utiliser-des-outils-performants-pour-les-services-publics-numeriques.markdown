@@ -57,9 +57,7 @@ Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de s
 > <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite connaître les solutions répondant à mon besoin
 > {: .margin-bottom-1 .h3}
 > Vous êtes un acteur public et avez besoin d’un outil numérique particulier pour créer ou améliorer un service public en ligne ? Vous souhaitez identifier des produits de qualité et savoir s’ils répondent à vos enjeux et besoins ?
-Un catalogue sera prochainement constitué à partir des solutions référencées. Pour être tenu informé de l’ouverture de ce catalogue, vous pouvez vous faire connaître par courriel auprès de <br><a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><b>label.dinum@modernisation.gouv.fr</b></a>.
->
-> <br>
+Un catalogue sera prochainement constitué à partir des solutions référencées. Pour être tenu informé de l’ouverture de ce catalogue, vous pouvez vous faire connaître par courriel auprès de <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><b>label.dinum@modernisation.gouv.fr</b></a>.
 {: .exergue}
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite référencer ma solution
@@ -68,7 +66,7 @@ Un catalogue sera prochainement constitué à partir des solutions référencée
 > Vous êtes une entreprise, une association ou une administration. Vous développez un produit numérique innovant qui pourrait être utile aux services publics en ligne ? Vous souhaitez contribuer à l’amélioration des services publics numériques ?
 > <br>Soumettez la demande de référencement de votre solution dans le catalogue [via ce formulaire](https://www.demarches-simplifiees.fr/commencer/demande-de-referencement-au-catalogue-label "via ce formulaire - Lien externe"). Nous prendrons ensuite contact avec vous.
 >
-> <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button" title="Proposer une mission - Lien externe">Proposer une mission</a>
+> <a href="https://www.demarches-simplifiees.fr/commencer/demande-de-referencement-au-catalogue-label" class="button" title="Soumettre ma solution - Lien externe">Soumettre ma solution</a>
 > <br>
 > <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><i>Pour toute question, écrivez à la mission LABEL par courriel à label.dinum@modernisation.gouv.fr.</i></a>
 {: .exergue}
