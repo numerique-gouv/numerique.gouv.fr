@@ -23,6 +23,10 @@ publications:
   url: "/services/guichet-dites-le-nous-une-fois/"
   une-ou-diaporama:
   - image: "/uploads/guichet-dlnuf-hub.png"
+- title: Identifier et utiliser des outils performants pour les services publics numériques
+  url: "/services/identifier-et-utiliser-des-outils-performants-pour-les-services-publics-numeriques/"
+  une-ou-diaporama:
+  - image: "/uploads/page-services-LABEL_rubrique.png"
 - title: Partagez vos talents numériques !
   url: "/services/partagez-vos-talents-numeriques/"
   une-ou-diaporama:
