@@ -60,7 +60,7 @@ Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de s
 >
 > <a href="https://www.demarches-simplifiees.fr/commencer/demande-de-referencement-au-catalogue-label" class="button" title="Soumettre ma solution - Lien externe">Soumettre ma solution</a>
 > <br>
-> <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><i>Pour toute question, écrivez à la mission LABEL par courriel à label.dinum@modernisation.gouv.fr.</i></a>
+> <i>Pour toute question, écrivez à la mission LABEL par courriel à <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr">label.dinum@modernisation.gouv.fr.</a></i>
 {: .exergue}
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite connaître les solutions répondant à mon besoin
