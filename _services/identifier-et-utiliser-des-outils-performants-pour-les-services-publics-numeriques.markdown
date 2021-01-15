@@ -66,7 +66,9 @@ Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de s
 > <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite connaître les solutions répondant à mon besoin
 > {: .margin-bottom-1 .h3}
 > Vous êtes un acteur public et avez besoin d’un outil numérique particulier pour créer ou améliorer un service public en ligne ? Vous souhaitez identifier des produits de qualité et savoir s’ils répondent à vos enjeux et besoins ?
-Un catalogue sera prochainement constitué à partir des solutions référencées. Pour être tenu informé de l’ouverture de ce catalogue, vous pouvez vous faire connaître par courriel auprès de <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><b>label.dinum@modernisation.gouv.fr</b></a>.
+Un catalogue sera prochainement constitué à partir des solutions référencées. 
+>
+> Pour être tenu informé de l’ouverture de ce catalogue, vous pouvez vous faire connaître par courriel auprès de <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><b>label.dinum@modernisation.gouv.fr</b></a>.
 {: .exergue}
 <br>
 <br>
