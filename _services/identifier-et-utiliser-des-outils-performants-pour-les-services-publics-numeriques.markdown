@@ -77,7 +77,7 @@ Au travers de la communauté LABEL, des rencontres seront organisées pour mettr
 
 ## **Foire aux questions**
 {: .text-center .margin-top-3}
-### **Comment être tenu au courant de l’ouverture de l’accès au catalogue**
+### **Comment être tenu au courant de l’ouverture de l’accès au catalogue ?**
 {: .margin-bottom-1 .h4}
 La DINUM communiquera largement sur l’ouverture à la consultation du catalogue. Les acteurs publics qui souhaitent être avertis immédiatement peuvent se faire connaître en envoyant un courriel à [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr).
 <br>
