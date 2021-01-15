@@ -1,6 +1,6 @@
 ---
-title: 1 580 000 euros pour les lauréats du FAST 6, postulez dès maintenant à la 7e
-  édition !
+title: 1,58 million d'euros pour les lauréats du FAST 6, postulez dès maintenant à
+  la 7e édition !
 date: 2021-01-15 15:13:00 +01:00
 categories:
 - Appel à candidatures
