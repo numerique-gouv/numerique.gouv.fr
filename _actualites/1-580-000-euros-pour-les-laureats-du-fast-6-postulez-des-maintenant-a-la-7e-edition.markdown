@@ -8,7 +8,7 @@ tags:
 - FAST
 - beta.gouv.fr
 chapeau-text: |-
-  Le programme beta.gouv.fr, porté par la Direction Interministérielle du Numérique lance son 7ème appel à candidatures du Fonds d’Accélération des Startups d’État et de Territoires (FAST).
+  Notre programme beta.gouv.fr lance son 7e appel à candidatures du Fonds d’Accélération des Startups d’État et de Territoires (FAST).
 
   Ce fonds a pour objectif d’investir dans des projets apportant des solutions concrètes à des problèmes de politique publique.
 
