@@ -1,6 +1,6 @@
 ---
 title: Identifier et utiliser des outils performants pour les services publics numériques
-date: 2021-01-14 12:20:00 +01:00
+date: 2021-01-15 21:20:00 +01:00
 tags:
 - Services
 - offre de services
@@ -45,11 +45,8 @@ text-decoration: underline;
 Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de services numériques à destination des acteurs publics vise à :
 
 * favoriser la création de services publics numériques performants et leur amélioration,
-
 * faciliter l’identification et le choix de solutions numériques innovantes,
-
 * permettre le partage d’expérience et la mutualisation d’outils entre administrations,
-
 * apporter des éléments d’appréciation quant aux attentes des acteurs publics.
 <br>
 <br>
@@ -65,6 +62,14 @@ Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de s
 > <br>
 > <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><i>Pour toute question, écrivez à la mission LABEL par courriel à label.dinum@modernisation.gouv.fr.</i></a>
 {: .exergue}
+
+> <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite connaître les solutions répondant à mon besoin
+> {: .margin-bottom-1 .h3}
+> Vous êtes un acteur public et avez besoin d’un outil numérique particulier pour créer ou améliorer un service public en ligne ? Vous souhaitez identifier des produits de qualité et savoir s’ils répondent à vos enjeux et besoins ?
+Un catalogue sera prochainement constitué à partir des solutions référencées. Pour être tenu informé de l’ouverture de ce catalogue, vous pouvez vous faire connaître par courriel auprès de <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><b>label.dinum@modernisation.gouv.fr</b></a>.
+{: .exergue}
+<br>
+<br>
 
 Au travers de la communauté LABEL, des rencontres seront organisées pour mettre en relation l’écosystème numérique et les administrations. Ces évènements permettront de promouvoir des thématiques d’innovation, de nouveaux cas d’usages, les outils associés et de mettre en avant les *success stories* de projets numériques d’acteurs publics. Plus d’infos prochainement.
 
