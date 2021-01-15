@@ -5,12 +5,11 @@ tags:
 - Services
 - offre de services
 - Outils numériques
-chapeau-text: 'La DINUM propose un catalogue de solutions et d’outils numériques,
+chapeau-text: 'La DINUM proposera un catalogue de solutions et d’outils numériques,
   à l’usage des administrations. Objectif : favoriser la création de services publics
   numériques utilisant les meilleures solutions disponibles, qu’elles soient issues
   de la société civile ou d’administrations. Les fournisseurs de solutions peuvent
-  demander le référencement de leur outil dans ce catalogue, et les acteurs publics
-  peuvent demander à le consulter.'
+  d’ores et déjà demander le référencement de leur outil dans ce futur catalogue.'
 une:
   image: "/uploads/page-services-LABEL_fille.png"
 layout: rgaa
@@ -75,9 +74,9 @@ Au travers de la communauté LABEL, des rencontres seront organisées pour mettr
 
 ## **Foire aux questions**
 {: .text-center .margin-top-3}
-### **Qui peut demander l’accès au catalogue et utiliser ces outils ?**
+### **Comment être tenu au courant de l’ouverture de l’accès au catalogue**
 {: .margin-bottom-1 .h4}
-Tous les acteurs du secteur public peuvent demander à consulter le catalogue : ministères, opérateurs, administrations déconcentrées, collectivités territoriales, syndicats mixtes, etc.
+La DINUM communiquera largement sur l’ouverture à la consultation du catalogue. Les acteurs publics qui souhaitent être avertis immédiatement peuvent se faire connaître en envoyant un courriel à [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr).
 <br>
 
 ### **Qui peut faire référencer un outil numérique ?**
@@ -114,6 +113,8 @@ Les critères relatifs aux données personnelles sont issus du RGPD : cartograph
 * **Conformité aux exigences du secteur public** : respect de certaines normes et réglementations ([RGS](/publications/referentiel-general-de-securite/), HDS…), interfaçage avec des outils standardisés (FranceConnect et API FranceConnectées, [API Particulier](https://api.gouv.fr/les-api/api-particulier "API Particulier - Lien externe"), [API Entreprise](https://api.gouv.fr/les-api/api-entreprise "API Entreprise - Lien externe"), autre [API du secteur public](https://api.gouv.fr/ "API du secteur public - Lien externe") etc.), respect des règles de l'archivage légal.
 
 * **Open source** : mode de licences, utilisation de formats ouverts, référencement au sein du [socle interministériel des logiciels libres](https://sill.etalab.gouv.fr/ "Socle interministériel des logiciels libres  - Lien externe") (SILL), etc.
+
+Les données saisies dans vos réponses pourront être rendues publiques. 
 <br>
 <br>
 
