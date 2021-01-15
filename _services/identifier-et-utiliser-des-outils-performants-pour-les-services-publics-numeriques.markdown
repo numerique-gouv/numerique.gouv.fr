@@ -5,11 +5,11 @@ tags:
 - Services
 - offre de services
 - Outils numériques
-chapeau-text: 'La DINUM proposera un catalogue de solutions et d’outils numériques,
-  à l’usage des administrations. Objectif : favoriser la création de services publics
-  numériques utilisant les meilleures solutions disponibles, qu’elles soient issues
-  de la société civile ou d’administrations. Les fournisseurs de solutions peuvent
-  d’ores et déjà demander le référencement de leur outil dans ce futur catalogue.'
+chapeau-text: 'La DINUM proposera prochainement un catalogue de solutions et d’outils
+  numériques, à l’usage des administrations. Objectif : favoriser la création de services
+  publics numériques utilisant les meilleures solutions disponibles, qu’elles soient
+  issues de la société civile ou d’administrations. Les fournisseurs de solutions
+  peuvent d’ores et déjà demander le référencement de leur outil dans ce futur catalogue.'
 une:
   image: "/uploads/page-services-LABEL_fille.png"
 layout: rgaa
@@ -52,18 +52,14 @@ Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de s
 
 * apporter des éléments d’appréciation quant aux attentes des acteurs publics.
 <br>
+<br>
 
-> <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite connaître les solutions répondant à mon besoin
-> {: .margin-bottom-1 .h3}
-> Vous êtes un acteur public et avez besoin d’un outil numérique particulier pour créer ou améliorer un service public en ligne ? Vous souhaitez identifier des produits de qualité et savoir s’ils répondent à vos enjeux et besoins ?
-Un catalogue sera prochainement constitué à partir des solutions référencées. Pour être tenu informé de l’ouverture de ce catalogue, vous pouvez vous faire connaître par courriel auprès de <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr"><b>label.dinum@modernisation.gouv.fr</b></a>.
-{: .exergue}
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite référencer ma solution
 > {: .margin-bottom-1 .h3}
 >
 > Vous êtes une entreprise, une association ou une administration. Vous développez un produit numérique innovant qui pourrait être utile aux services publics en ligne ? Vous souhaitez contribuer à l’amélioration des services publics numériques ?
-> <br>Soumettez la demande de référencement de votre solution dans le catalogue [via ce formulaire](https://www.demarches-simplifiees.fr/commencer/demande-de-referencement-au-catalogue-label "via ce formulaire - Lien externe"). Nous prendrons ensuite contact avec vous.
+> <br>Soumettez la demande de référencement de votre solution dans le catalogue via notre formulaire en ligne. Nous prendrons ensuite contact avec vous.
 >
 > <a href="https://www.demarches-simplifiees.fr/commencer/demande-de-referencement-au-catalogue-label" class="button" title="Soumettre ma solution - Lien externe">Soumettre ma solution</a>
 > <br>
@@ -78,10 +74,12 @@ Au travers de la communauté LABEL, des rencontres seront organisées pour mettr
 {: .margin-bottom-1 .h4}
 La DINUM communiquera largement sur l’ouverture à la consultation du catalogue. Les acteurs publics qui souhaitent être avertis immédiatement peuvent se faire connaître en envoyant un courriel à [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr).
 <br>
+<br>
 
 ### **Qui peut faire référencer un outil numérique ?**
 {: .margin-bottom-1 .h4}
 Vous pouvez demander le référencement d’un outil ou d’une solution numérique que vous soyez une entreprise (startup, TPE, PME…), une association ou une administration.
+<br>
 <br>
 
 ### **Quelles solutions peuvent être référencées ?**
@@ -91,6 +89,7 @@ Le catalogue référence les solutions numériques, qu’elles soient :
 * sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (*on-premises*),
 * propriétaires ou open source
 * issues de la société civile (entreprises et associations) ou de l’administration.
+<br>
 <br>
 
 ### **Quels sont les critères d’évaluation des solutions ?**
