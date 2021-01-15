@@ -94,7 +94,7 @@ Vous pouvez demander le référencement d’un outil ou d’une solution numéri
 Le catalogue référencera les solutions numériques, qu’elles soient :
 
 * sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (*on-premises*),
-* propriétaires ou open source
+* propriétaires ou open source,
 * issues de la société civile (entreprises et associations) ou de l’administration.
 <br>
 <br>
