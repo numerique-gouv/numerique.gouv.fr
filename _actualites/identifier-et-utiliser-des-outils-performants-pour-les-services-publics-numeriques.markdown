@@ -11,6 +11,6 @@ chapeau-text: 'La DINUM proposera prochainement un catalogue de solutions et d�
   peuvent d’ores et déjà demander le référencement de leur outil dans ce futur catalogue.'
 une-ou-diaporama:
 - image: "/uploads/page-services-LABEL_rubrique.png"
-redirection-interne: "/services/identifier-et-utiliser-des-outils-performants-pour-les-services-publics-numeriques/"
+redirection-interne: 
 ---
 
