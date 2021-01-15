@@ -84,7 +84,7 @@ Vous pouvez demander le référencement d’un outil ou d’une solution numéri
 
 ### **Quelles solutions peuvent être référencées ?**
 {: .margin-bottom-1 .h4}
-Le catalogue référence les solutions numériques, qu’elles soient :
+Le catalogue référencera les solutions numériques, qu’elles soient :
 
 * sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (*on-premises*),
 * propriétaires ou open source
