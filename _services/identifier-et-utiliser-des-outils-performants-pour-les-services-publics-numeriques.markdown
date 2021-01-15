@@ -1,6 +1,6 @@
 ---
 title: Identifier et utiliser des outils performants pour les services publics numériques
-date: 2021-01-15 21:20:00 +01:00
+date: 2021-01-15 09:20:00 +01:00
 tags:
 - Services
 - offre de services
