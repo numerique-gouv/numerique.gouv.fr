@@ -10,6 +10,10 @@ publications:
   url: "/services/francerelance-transformation-numerique-etat-et-territoires/"
   une-ou-diaporama:
   - image: "/uploads/RUBRIQUE_FRANCE-RELANCE_1480x1000.jpg"
+- title: Identifier et utiliser des outils performants pour les services publics numériques
+  url: "/services/identifier-et-utiliser-des-outils-performants-pour-les-services-publics-numeriques/"
+  une-ou-diaporama:
+  - image: "/uploads/page-services-LABEL_rubrique.png"
 - title: Conseil et accompagnement au cadrage et pilotage de projets numériques
   url: "/services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/"
   une-ou-diaporama:
@@ -23,10 +27,6 @@ publications:
   url: "/services/guichet-dites-le-nous-une-fois/"
   une-ou-diaporama:
   - image: "/uploads/guichet-dlnuf-hub.png"
-- title: Identifier et utiliser des outils performants pour les services publics numériques
-  url: "/services/identifier-et-utiliser-des-outils-performants-pour-les-services-publics-numeriques/"
-  une-ou-diaporama:
-  - image: "/uploads/page-services-LABEL_rubrique.png"
 - title: Partagez vos talents numériques !
   url: "/services/partagez-vos-talents-numeriques/"
   une-ou-diaporama:
