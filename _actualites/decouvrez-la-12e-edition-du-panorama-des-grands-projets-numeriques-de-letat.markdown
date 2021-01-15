@@ -14,3 +14,5 @@ une-ou-diaporama:
 redirection-interne: "/publications/panorama-grands-projets-si/"
 ---
 
+> [Consulter le panorama](/publications/panorama-grands-projets-si/)
+{: .lien-important}
