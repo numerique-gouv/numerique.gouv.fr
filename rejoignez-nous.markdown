@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 11 janvier 2021
+date_de_modification: 20 janvier 2021
 layout: page-annexe
 ---
 
@@ -19,10 +19,33 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 1. **Repérez** l'offre d'emploi qui vous intéresse ci-dessous
 2. **Ouvrez la fiche de poste** (lien ou pdf) en cliquant sur l'intitulé
 3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste ou via le bouton Postuler, en précisant son intitulé
-   <br>
-   <br>
+<br>
+<br>
 
-Toutes nos offres au sein de la DINUM sont actuellement pourvues. De nouveaux postes seront bientôt disponibles sur cette page.
+## Nos offres d'emploi actuellement disponibles à la DINUM : 
+{: .margin-top-4 .margin-bottom-0 .h3}
+Sans précision, les postes sont basés à Paris
+{: .margin-bottom-1}
+
+
+
+* **[Juriste droit numérique et administratif H/F](https://place-emploi-public.gouv.fr/offre-emploi/juriste-droit-numerique-et-administratif-hf-reference-2021-537264 "Juriste droit numérique et administratif H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Designer UX / UI - F/H](https://place-emploi-public.gouv.fr/offre-emploi/designer-ux--ui-hf-reference-2021-536479 "Designer UX / UI - F/H - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Développeuse / Développeur](https://place-emploi-public.gouv.fr/offre-emploi/developpeur--developpeuse-reference-2020-470032 "Développeur / Développeuse - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargée / Chargé d'hypervision réseau et sécurité du Réseau Interministériel de l’État](https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2020-473998 "Chargée / Chargé d'hypervision réseau et sécurité du Réseau Interministériel de l’État - Lien externe")**
+<br>Catégorie B
+<br>
+
+
 
 <!--
 ## Nos offres d'emploi actuellement disponibles à la DINUM :
