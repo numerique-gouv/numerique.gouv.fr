@@ -23,7 +23,7 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 <br>
 
 ## Nos offres d'emploi actuellement disponibles à la DINUM : 
-{: .margin-top-4 .margin-bottom-0}
+{: .margin-top-4 .margin-bottom-0 .h3}
 Sans précision, les postes sont basés à Paris
 {: .margin-bottom-1}
 
