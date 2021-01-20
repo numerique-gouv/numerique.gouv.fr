@@ -19,8 +19,13 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 1. **Repérez** l'offre d'emploi qui vous intéresse ci-dessous
 2. **Ouvrez la fiche de poste** (lien ou pdf) en cliquant sur l'intitulé
 3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste ou via le bouton Postuler, en précisant son intitulé
-   <br>
-   <br>
+<br>
+<br>
+
+## Nos offres d'emploi actuellement disponibles à la DINUM :
+{: .margin-top-4 .margin-bottom-0}
+**Sans précision, les postes sont basés à Paris**
+{: .margin-bottom-1}
 
 
 * **[Designer UX / UI - F/H](https://place-emploi-public.gouv.fr/offre-emploi/designer-ux--ui-hf-reference-2021-536479 "Designer UX / UI - F/H - Lien externe")**
