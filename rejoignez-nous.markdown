@@ -29,6 +29,9 @@ Sans précision, les postes sont basés à Paris
 
 
 
+* **[Juriste droit numérique et administratif H/F](https://place-emploi-public.gouv.fr/offre-emploi/juriste-droit-numerique-et-administratif-hf-reference-2021-537264 "Juriste droit numérique et administratif H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
 
 * **[Designer UX / UI - F/H](https://place-emploi-public.gouv.fr/offre-emploi/designer-ux--ui-hf-reference-2021-536479 "Designer UX / UI - F/H - Lien externe")**
 <br>Cadre/Catégorie A
