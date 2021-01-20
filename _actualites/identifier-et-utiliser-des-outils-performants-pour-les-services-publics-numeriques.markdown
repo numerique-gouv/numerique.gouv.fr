@@ -13,3 +13,5 @@ une-ou-diaporama:
 redirection-interne: "/services/identifier-et-utiliser-des-outils-performants-pour-les-services-publics-numeriques/"
 ---
 
+> [Lire la suite](/services/identifier-et-utiliser-des-outils-performants-pour-les-services-publics-numeriques/)
+{: .lien-important}
