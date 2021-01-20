@@ -32,7 +32,7 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 <br>
 
 * **[Chargée / Chargé d'hypervision réseau et sécurité du Réseau Interministériel de l’État](https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2020-473998 "Chargée / Chargé d'hypervision réseau et sécurité du Réseau Interministériel de l’État")**
-<br>Cadre/Catégorie B
+<br>Catégorie B
 <br>
 
 
