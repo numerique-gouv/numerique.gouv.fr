@@ -13,4 +13,5 @@ Chaque agent de l’État peut y créer librement son compte à partir de son ad
 
 Au cours de l’année 2020, le service s’est ouvert à de nouveaux utilisateurs : parlementaires et agents des parlements, collectivités territoriales (en expérimentation, sur demande), aux services départementaux d'incendie et de secours…
 
-[(Re)découvrez Tchap](/outils-agents/tchap-messagerie-instantanee-etat/)
+> [(Re)découvrez Tchap](/outils-agents/tchap-messagerie-instantanee-etat/)
+{: .lien-important}
