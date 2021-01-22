@@ -54,7 +54,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <p><b>Sont rattachés à la direction :</b> le programme TECH.GOUV, le département Infrastructures et Services Opérés (ISO), le département Etalab (cycle de vie de la donnée), le département Performance des Services Numériques (PSN), ainsi que le secrétariat général.</p>
 <p>Chacun est divisé en missions ou pôles. En voici le détail, avec le nom des responsables.</p>
 <br>
-<ul><li><b>Programme TECH.GOUV</b> : Xavier Albouy</li>
+<ul><li><b>Programme TECH.GOUV</b> : Xavier Albouy
   <ul>
     <li><b>Mission LABEL :</b> Sabine Guillaume</li>
     <li><b>Mission IDNUM :</b> Christine Balian</li>
@@ -64,38 +64,35 @@ La DINUM comprend une direction de programme, trois départements et un secréta
     <li><b>Mission TALENTS :</b> Charlotte Cador</li>
     <li><b>Mission BETA :</b> Florian Delezenne</li>
     <li><b>Mission TRANSFO :</b> Patrick Ruestchmann</li>
-  </ul>
-</ul>
+  </ul></li>
 <br>
-<ul><li><b>Département ISO (Infrastructures et Services Opérés)</b> : Guy Duplaquet. Adjoint : Louis Di Benedetto</li>
+<li><b>Département ISO (Infrastructures et Services Opérés)</b> : Guy Duplaquet. Adjoint : Louis Di Benedetto
   <ul>
     <li><b>Pôle RIE</b></li>
     <li><b>Pôle Hypervision :</b> Franck Davy</li>
     <li><b>Pôle Production :</b> Gilles Corbi</li>
     <li><b>Pôle Pilotage de la Qualité et des Partenariats :</b> Louis Di Benedetto</li>
-  </ul>
-</ul>
+  </ul></li>
 <br>
-<ul><li><b>Département Etalab - Cycle de vie de la donnée</b> : Laure Lucchesi</li>
+<li><b>Département Etalab - Cycle de vie de la donnée</b> : Laure Lucchesi
   <ul>
     <li><b>Pôle Droit et Société :</b> Perica Sucevic</li>
     <li><b>Pôle Exploitation des Données :</b> Paul-Antoine Chevalier</li>
     <li><b>Pôle Accompagnement et Communautés :</b> Soizic Pénicaud</li>
     <li><b>Pôle Ouverture et Partage des Données :</b> Romain Talès</li>
-  </ul>
-</ul>
+  </ul></li>
 <br>
-<ul><li><b>Département PSN (Performance des Services Numériques)</b> : Florent Tournois. Adjoint : Laurent Joubert</li>
+<li><b>Département PSN (Performance des Services Numériques)</b> : Florent Tournois. Adjoint : Laurent Joubert
   <ul>
     <li><b>Pôle Conseil et Maîtrise des Risques :</b> Laurent Joubert</li>
     <li><b>Pôle Produits Numériques Partagés :</b> Jean-Louis Barthelémy</li>
     <li><b>Pôle Architecture et sécurité</b></li>
     <li><b>Pôle Design des Services Numériques :</b> Marine Boudeau</li>
-  </ul>
-</ul>
+  </ul></li>
 <br>
-<ul><li><b>Le secrétariat général :</b> Catherine Ferréol</li></ul>
-<ul><li><b>La direction :</b> Nadi Bou Hanna. Adjoint : Xavier Albouy</li></ul>
+<li><b>Le secrétariat général :</b> Catherine Ferréol</li>
+<li><b>La direction :</b> Nadi Bou Hanna. Adjoint : Xavier Albouy</li>
+</ul>
 <br>
 </div>
 </div>
