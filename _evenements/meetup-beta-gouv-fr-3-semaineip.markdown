@@ -1,5 +1,5 @@
 ---
-title: '<span lang="en">Meetup</span> beta.gouv.fr #3'
+title: 'Meetup beta.gouv.fr #3'
 date: 2019-11-25 16:13:00 +01:00
 categories:
 - Semaine de l'innovation publique
