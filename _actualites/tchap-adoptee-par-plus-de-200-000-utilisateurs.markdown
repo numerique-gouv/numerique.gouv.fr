@@ -7,7 +7,7 @@ tags:
 - Tchap
 - Outils numériques pour les agents
 une-ou-diaporama:
-- image: "/uploads/2021_01_22_Tchap_200K_1600x860.jpg"
+- image: "/uploads/2021_01_22_Tchap_200K_1600x860_V2.jpg"
 ---
 
 [Lancée il y a moins de 2 ans](/espace-presse/lancement-de-tchap-la-messagerie-instantanee-des-agents-de-letat/) par la DINUM, Tchap, la messagerie instantanée de l’État, vient de dépasser le cap des 200 000 utilisateurs.
