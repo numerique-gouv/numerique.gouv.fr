@@ -1,14 +1,13 @@
 ---
 title: Tchap, adoptée par plus de 200 000 utilisateurs !
 date: 2021-01-21 16:13:00 +01:00
-published: false
 categories:
 - Brève
 tags:
 - Tchap
 - Outils numériques pour les agents
 une-ou-diaporama:
-- image: "/uploads/Tchap_200000utilisateurs.jpg"
+- image: "/uploads/2021_01_22_Tchap_200K_1600x860.jpg"
 ---
 
 [Lancée il y a moins de 2 ans](/espace-presse/lancement-de-tchap-la-messagerie-instantanee-des-agents-de-letat/) par la DINUM, Tchap, la messagerie instantanée de l’État, vient de dépasser le cap des 200 000 utilisateurs.
