@@ -41,7 +41,7 @@ L'accueil se fera dès 18h00 puis 7 présentations de 10 minutes seront données
 * **Caroline de Kerhor** du programme de pré-incubation : accompagner les agents publics dans l'investigation d'un problème de politique publique ;
 * **Léry Jicquel** de [E-contrôle](https://beta.gouv.fr/startups/e-controle.html "E-contrôle - Lien externe") : les difficultés dans la création d'une Startup d'État 
 * **Sarah Lancy** de [Andi](https://beta.gouv.fr/startups/andi.html "Andi  - Lien externe") : favoriser la création d’un produit utile aux usagers en situation de handicap avec la méthode Startup d’État ;\
-* **Abdessamad Youssfi** de [Code du Travail Numérique](https://code.travail.gouv.fr "Code du Travail Numérique - Lien externe")** **: gérer un projet d'envergure et simplifier l'accès au droit du travail pour les salariés et employeurs en mode Startup d'État ;\
+* **Abdessamad Youssfi** de [Code du Travail Numérique](https://code.travail.gouv.fr "Code du Travail Numérique - Lien externe")** : gérer un projet d'envergure et simplifier l'accès au droit du travail pour les salariés et employeurs en mode Startup d'État ;\
 * **Chloé Moser** de [Archifiltres](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/archifiltre.html "Archifiltres - Lien externe") : améliorer la mémoire des politiques sociales par la data.
 
 Puis nous échangerons tous ensemble à 19h45 pendant un moment convivial.
