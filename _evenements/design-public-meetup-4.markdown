@@ -32,19 +32,19 @@ champs_informations:
   lien: https://www.eventbrite.fr/e/billets-design-public-meetup-4-88504436151
 ---
 
-La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 4e meetup Design Public organisé par des designers travaillant sur des projets au sein de l'administration.
+La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 4e <span lang="en">meetup</span> Design Public organisé par des designers travaillant sur des projets au sein de l'administration.
 
-Ce meetup est un moment d'échange, pour restituer des travaux et partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15&nbsp;min chacun). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une heure... et plus si affinité.
+Ce <span lang="en">meetup</span> est un moment d'échange, pour restituer des travaux et partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15&nbsp;min chacun). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une heure... et plus si affinité.
 
-**Au programme :**
+## Au programme :
 
-Les projets présentés à l'occasion de ce 4e meetup seront les suivants :
+Les projets présentés à l'occasion de ce 4e <span lang="en">meetup</span> seront les suivants :
 
-* **[Recrues](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/recrues.html)** : Favoriser le recrutement à la Gendarmerie nationale, par [Iris Naudin ](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/iris-naudin.html)et [Nicolas Grandjean](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/nicolas-grandjean.html)
+* **[Recrues](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/recrues.html)** : Favoriser le recrutement à la Gendarmerie nationale, par [Iris Naudin](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/iris-naudin.html) et [Nicolas Grandjean](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/nicolas-grandjean.html)
 * **[AchaDef](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/achadef.html)** : Faciliter l’accès aux achats hors armement du ministère des Armées, par [Marc Bouteiller](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/marc-bouteiller.html)
 * **[Ma famille ici](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/ma-famille-ici.html)** : Faciliter le regroupement familial des étrangers en France, par [Rosine Bernez](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/rosine-bernez.html)
 * **[Alphabet](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/alphabet.html)** : Améliorer la communication et la collaboration des 1,2 million d'agents de l'Education nationale, par [Charlotte Bourcier](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/charlotte-bourcier.html) et [Sarah Lepreux](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/sarah-lepreux.html)
 
 Nous vous donnons rendez-vous le **mercredi 11 mars à 18h30** au Lieu de la transformation publique.
 
-*Petit rappel : votre billet vous sera demandé à l'entrée le jour du meetup. Il est donc nécessaire de le télécharger sur votre téléphone ou de l'imprimer.*
+*Petit rappel : votre billet vous sera demandé à l'entrée le jour du <span lang="en">meetup</span>. Il est donc nécessaire de le télécharger sur votre téléphone ou de l'imprimer.*
