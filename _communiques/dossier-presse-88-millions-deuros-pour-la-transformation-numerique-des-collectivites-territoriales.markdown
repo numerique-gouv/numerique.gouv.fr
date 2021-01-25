@@ -10,6 +10,10 @@ tags:
 - territoires
 - transformation numérique
 - collectivités territoriales
+une-ou-diaporama:
+- image: "/uploads/2020_01_25_FRANCE-RELANCE_1600x860-e85287.jpg"
+  legende: France Relance
+  alternative-textuelle: France Relance
 contact-presse:
   name: 'Floriane Beaudron '
   tel:
