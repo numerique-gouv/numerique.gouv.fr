@@ -41,6 +41,7 @@ files:
 > La transformation de l’action publique est un engagement collectif. C’est pourquoi le travail en commun de l’État et des territoires dans la transformation numérique des collectivités territoriales est essentiel. C’est ensemble que nous réussirons la relance !
 {: .citation}
 
+
 > **Amélie de Montchalin**
 > <br> Ministre de la Transformation et de la Fonction publiques
 {: .auteur-citation}
@@ -53,8 +54,7 @@ files:
 > <br> Secrétaire d’État chargé de la Transition numérique et des Communications électroniques
 {: .auteur-citation}
 
-## Pour un numérique public, au service de tous
-les Français, dans tous les territoires
+## Pour un numérique public, au service de tous les Français, dans tous les territoires
 
 **Soutenir l’innovation et la transformation numérique
 pour améliorer le service public,** c’est la promesse
