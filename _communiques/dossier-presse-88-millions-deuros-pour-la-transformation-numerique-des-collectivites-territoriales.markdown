@@ -44,12 +44,10 @@ files:
 
 > **Amélie de Montchalin**
 > <br> Ministre de la Transformation et de la Fonction publiques
-{: .auteur-citation}
-
+> <br>
 > **Jacqueline Gourault**
 > <br> Ministre de la Cohésion des territoires et des Relations avec les collectivités territoriales
-{: .auteur-citation}
-
+> <br>
 > **Cédric O**
 > <br> Secrétaire d’État chargé de la Transition numérique et des Communications électroniques
 {: .auteur-citation}
