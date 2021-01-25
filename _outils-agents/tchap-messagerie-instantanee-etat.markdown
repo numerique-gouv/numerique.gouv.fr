@@ -89,7 +89,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 {: .text-center .margin-bottom-1 .margin-top-3}
 
 <a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png" alt="Télécharger l'application sur Google play - Lien externe"></figure></a>
-<a href="https://apps.apple.com/fr/app/tchap/id1446253779"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png" alt="Télécharger l'application sur l'AppStore - Lien externe"></figure></a>
+<a href="https://apps.apple.com/fr/app/tchap/id1446253779"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png" alt="Télécharger l'application sur l'App Store - Lien externe"></figure></a>
 
 ### Et en version web
 {: .text-center .margin-bottom-0}
