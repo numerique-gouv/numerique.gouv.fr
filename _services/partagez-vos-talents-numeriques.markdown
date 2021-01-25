@@ -321,7 +321,7 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 <ol>
 <li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...).</li>
 <br>
-<li><b>Vous saisissez</b> votre demande via <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" title="votre demande via - Lien externe vers le formulaire">notre formulaire en ligne</a>.</li>
+<li><b>Vous saisissez</b> votre demande via <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" title="notre formulaire en ligne - Lien externe">notre formulaire en ligne</a>.</li>
 <br>
 <li><b>Nous échangeons</b> si besoin ensemble pour finaliser votre fiche mission et la publions sur cette page.</li>
 <br>
