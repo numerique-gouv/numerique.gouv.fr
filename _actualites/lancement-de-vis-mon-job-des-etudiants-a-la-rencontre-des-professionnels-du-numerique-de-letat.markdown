@@ -26,7 +26,7 @@ une-ou-diaporama:
 
 ## Vis mon job : un jour, un duo, un métier tech
 
-L’idée a ainsi germé de lancer, dans le cadre de TECH.GOUV, une opération de « job shadowing ». Derrière ce terme anglais relativement récent se cache un dispositif bien connu, très répandu dans le secteur privé, beaucoup moins dans le public : le jumelage, une sorte de court stage d’observation, en duo auprès d’un professionnel.
+L’idée a ainsi germé de lancer, dans le cadre de TECH.GOUV, une opération de <span lang="en">« job shadowing »</span>. Derrière ce terme anglais relativement récent se cache un dispositif bien connu, très répandu dans le secteur privé, beaucoup moins dans le public : le jumelage, une sorte de court stage d’observation, en duo auprès d’un professionnel.
 
 En quelques mois s’est montée l’expérimentation Vis mon job, une première en interministériel. **Le principe : un étudiant en master dans un cursus numérique, en école ou université, passe une journée en immersion auprès d’un agent de l’État exerçant le métier tech qui l’intéresse, et pour lequel l’État recrute.** Il découvre ainsi, de l’intérieur, son quotidien, ses missions, son environnement de travail, peut discuter avec lui librement, et éventuellement garder le contact.
 
@@ -36,7 +36,7 @@ En quelques mois s’est montée l’expérimentation Vis mon job, une première
 
 Peu d’entreprises privées peuvent en effet se prévaloir de chantiers de cette envergure, tels que ceux présentés dans le [panorama des grands projets numériques de l’État](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/) ou [l’observatoire de la qualité des services publics numériques](https://observatoire.numerique.gouv.fr/).
 
-Rapidement, **plus de 80 agents ambassadeurs** – data scientists, chefs de projet IT, architectes techniques, concepteurs-développeurs, RSSI, DSI… – **issus de 8 ministères et administrations,** se sont déclarés volontaires pour participer à cette **première édition.**
+Rapidement, **plus de 80 agents ambassadeurs** – <span lang="en">data scientists</span>, chefs de projet IT, architectes techniques, concepteurs-développeurs, RSSI, DSI… – **issus de 8 ministères et administrations,** se sont déclarés volontaires pour participer à cette **première édition.**
 
 Les étudiants viendront à leur rencontre le **5 novembre 2020.**
 

@@ -7,7 +7,7 @@ tags:
 - Beta.gouv.fr
 - Startups d'Etat
 chapeau-text: 'beta.gouv.fr le réseau des incubateurs animé par la direction interministérielle
-  du numérique (DINUM) organise son 4ème meetup ! '
+  du numérique (DINUM) organise son 4e <span lang="en">meetup</span> ! '
 une-ou-diaporama:
 - image: "/uploads/Meetup%20beta.gouv.fr.20190605-150755"
 event_start_date: 2020-03-18 00:00:00 +01:00
@@ -34,7 +34,7 @@ Le but est de partager la connaissance pour améliorer la collaboration entre ce
 
 [Réseau des incubateurs de Startups d'État](https://beta.gouv.fr/incubateurs/) animé par la Direction Interministérielle du Numérique, notre mission est d’améliorer le service public de l’intérieur en favorisant le passage à l’action d’agents publics.
 
-### Programme détaillé 
+## Programme détaillé 
 
 L'accueil se fera dès 18h15 puis 6 présentations d'environ 15 minutes seront données à partir de 18h30 avant un cocktail d'échanges :
 
