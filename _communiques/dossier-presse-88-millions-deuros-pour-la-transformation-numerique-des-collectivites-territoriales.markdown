@@ -12,10 +12,6 @@ tags:
 - collectivités territoriales
 une-ou-diaporama:
 - image: "/uploads/2020_01_25_FRANCE-RELANCE_1600x860-728d2c.jpg"
-  legende: France Relance - Fonds transformation numérique des territoires 88 millions
-    d'euros jusqu'en 2022
-  alternative-textuelle: France Relance - Fonds transformation numérique des territoires
-    88 millions d'euros jusqu'en 2022
 contact-presse:
   name: 'Floriane Beaudron '
   tel:
