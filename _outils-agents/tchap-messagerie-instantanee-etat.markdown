@@ -16,7 +16,7 @@ une-ou-diaporama:
 layout: rgaa
 ---
 
-<iframe frameborder="0" width="480" height="270" title="Vidéo Dailymotion" class='text-center' src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
+<iframe width="480" height="270" title="Vidéo Dailymotion" class='text-center' src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
 
 <br>
 
