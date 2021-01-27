@@ -16,21 +16,6 @@ date_de_modification: 11 janvier 2021
 layout: dinsic
 ---
 
-<style>
-.button {
-background-color: #0d5c98;
-border: 1px solid white;
-color: white;
-padding: 10px 10px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-style: normal;
-margin: 4px 2px;
-cursor: pointer;
-}
-</style>
-
 La direction interministérielle du numérique (DINUM) **accompagne les ministères dans leur transformation numérique, conseille le gouvernement** et **développe des services et ressources partagées** comme le réseau interministériel de l’État, [FranceConnect](https://franceconnect.gouv.fr), [data.gouv.fr](https://www.data.gouv.fr) ou [api.gouv.fr](https://api.gouv.fr).
 
 Elle pilote, avec l'appui des ministères, **[le programme TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)** d'accélération de la transformation numérique du service public.
@@ -58,7 +43,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 
 * **le secrétariat général** soutient l’activité de la direction : il assure la communication externe et interne, la gestion des ressources humaines et financières, la synthèse des missions et veille à la qualité des conditions de travail des agents.
 
-<a href="/uploads/organigramme_DINUM.pdf" class="button">Consulter l'organigramme de la DINUM (pdf - 106 Ko)</a>
+<div align="center"><a href="/uploads/organigramme_DINUM.pdf" class="button">Consulter l'organigramme de la DINUM (pdf - 106 Ko)</a></div>
 
 <div class="accordion no-bullet" data-accordion data-allow-all-closed="true">
 <div class="accordion-item" data-accordion-item>
