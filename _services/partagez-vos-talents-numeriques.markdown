@@ -191,12 +191,9 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <ol>
 <li><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra dans les meilleurs délais.
 <br>
-<b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</li>
-<br>
-<li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.</li>
-<br>
-<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Assurez-vous simplement de l’accord de votre supérieur hiérarchique, nécessaire avant de démarrer toute mission.</li>
-<br>
+<b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.<br></li>
+<li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.<br></li>
+<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Assurez-vous simplement de l’accord de votre supérieur hiérarchique, nécessaire avant de démarrer toute mission.<br></li>
 <li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li></ol>
 <br>
 <br>

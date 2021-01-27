@@ -88,13 +88,13 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 ## Rejoignez les 200 000 utilisateurs !
 {: .text-center .margin-bottom-1 .margin-top-3}
 
-<a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png" alt="Télécharger l'application sur Google play - Lien externe"></figure></a>
-<a href="https://apps.apple.com/fr/app/tchap/id1446253779"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png" alt="Télécharger l'application sur l'App Store - Lien externe"></figure></a>
+<figure class='image-center' style='width: 30%;'><a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a" title="Télécharger l'application sur Google play - Lien externe"><img src="/uploads/googleplay.png" alt=""></a></figure>
+<figure class='image-center' style='width: 30%;'><a href="https://apps.apple.com/fr/app/tchap/id1446253779" title="Télécharger l'application sur l'Appstore - Lien externe"><img src="/uploads/appstore.png" alt=""></a></figure>
 ### Et en version web
 {: .text-center .margin-bottom-0}
 [sur tchap.gouv.fr](https://tchap.gouv.fr/ "sur tchap.gouv.fr - Lien externe")
 {: .text-center .noir}
-<a href="https://tchap.gouv.fr/"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png" alt="tchap.gouv.fr - Lien externe"></figure></a>
+<p><a href="https://tchap.gouv.fr/"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png" alt="tchap.gouv.fr - Lien externe"></figure></a></p>
 > <br>
 > **Vous souhaitez faire la promotion de Tchap au sein de votre administration ?**
 > <br>

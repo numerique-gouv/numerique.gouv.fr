@@ -42,10 +42,10 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 * **le département « Performance des services numériques » (PSN)** conçoit les plans d’actions interministériels en matière de mutualisation, dématérialisation, pilotage des projets et qualité des services numériques, et soutient leur mise en œuvre ;
 
 * **le secrétariat général** soutient l’activité de la direction : il assure la communication externe et interne, la gestion des ressources humaines et financières, la synthèse des missions et veille à la qualité des conditions de travail des agents.
+<br>
+<br>
 
-[> Télécharger la note d’organisation (pdf - 250 Ko)](/uploads/note_organisation_DINUM_20200301.pdf "Télécharger la note d’organisation - pdf, 250 Ko")
-
-[> Consulter l'organigramme de la DINUM (pdf - 106 Ko)](/uploads/organigramme_DINUM.pdf "> Consulter l'organigramme de la DINUM - pdf, 106 Ko")
+<div align="center"><a href="/uploads/organigramme_DINUM.pdf" class="button">Consulter l'organigramme de la DINUM (pdf - 106 Ko)</a></div>
 
 <div class="accordion no-bullet" data-accordion data-allow-all-closed="true">
 <div class="accordion-item" data-accordion-item>
@@ -99,3 +99,4 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 </div>
 <br>
 <br>
+[> Télécharger la note d’organisation (pdf - 250 Ko)](/uploads/note_organisation_DINUM_20200301.pdf "Télécharger la note d’organisation - pdf, 250 Ko")
