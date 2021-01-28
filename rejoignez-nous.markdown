@@ -27,7 +27,18 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Responsable de la Sécurité des Systèmes d'Informations F/H](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-fh-reference-2020-430437 "Responsable de la Sécurité des Systèmes d'Informations F/H - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
 
+* **[Ingénieur sécurité réseau (SOC du réseau interministériel de l'État) F/H](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat-hf-reference-2021-541790 "Ingénieur sécurité réseau (SOC du réseau interministériel de l'État) F/H - Lien externe")**
+<br>Cadre/Catégorie A
+<br>Poste basé en Ille et Vilaine (35)
+<br>
+
+* **[Directeur/directrice de projet - Sécurisation et conseil sur les grands projets SI de l’État](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet---securisation-et-conseil-sur-les-grands-projets-si-de-l-etat-hf-reference-2020-514691 "Directeur/directrice de projet - Sécurisation et conseil sur les grands projets SI de l’État - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
 
 * **[Juriste droit numérique et administratif H/F](https://place-emploi-public.gouv.fr/offre-emploi/juriste-droit-numerique-et-administratif-hf-reference-2021-537264 "Juriste droit numérique et administratif H/F - Lien externe")**
 <br>Cadre/Catégorie A
@@ -39,10 +50,6 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 
 * **[Développeuse / Développeur](https://place-emploi-public.gouv.fr/offre-emploi/developpeur--developpeuse-reference-2020-470032 "Développeur / Développeuse - Lien externe")**
 <br>Cadre/Catégorie A
-<br>
-
-* **[Chargée / Chargé d'hypervision réseau et sécurité du Réseau Interministériel de l’État](https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2020-473998 "Chargée / Chargé d'hypervision réseau et sécurité du Réseau Interministériel de l’État - Lien externe")**
-<br>Catégorie B
 <br>
 
 
