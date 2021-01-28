@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 20 janvier 2021
+date_de_modification: 28 janvier 2021
 layout: page-annexe
 ---
 
@@ -24,7 +24,7 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 
 ## Nos offres d'emploi actuellement disponibles à la DINUM : 
 {: .margin-top-4 .margin-bottom-0 .h3}
-Sans précision, les postes sont basés à Paris
+*Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
 
@@ -47,12 +47,7 @@ Sans précision, les postes sont basés à Paris
 
 
 
-<!--
-## Nos offres d'emploi actuellement disponibles à la DINUM :
-{: .margin-top-4 .margin-bottom-0}
-*Sans précision, les postes sont basés à Paris*
-{: .margin-bottom-1}
-  -->
+
 <!--
 > ### Talents du numérique : l’État recrute !
 > <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
@@ -62,39 +57,12 @@ Sans précision, les postes sont basés à Paris
 > <br>
 {: .noir .encadre}
   -->
-<!--
-## Transformation numérique / RH
-{: .margin-top-4 .margin-bottom-1}
-* [**Chef/cheffe de la mission « TALENTS »**](https://www.place-emploi-public.gouv.fr/offre-emploi/chef-de-la-mission--talents--hf-reference-2020-506084) 
-  <br>Encadrement supérieur/Catégorie A+
-  <br>
-  <br>
-  -->
+
 
 > ### Et aussi, dans d'autres administrations…<a id="offresministères"></a>
 Zoom sur quelques postes dans le numérique public :
 > <br>
 > <br>
->
-> **Ministère de la Culture**
->
-> * **[Chef du service du numérique - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/chef-du-service-du-numerique-au-secretariat-general-paris75-hf-reference-2020-523384 "Chef du service du numérique au secrétariat général - F/H - Lien externe")**
-><br>Cadre supérieur/Catégorie A+
-><br>Poste basé à Paris (75)
-><br>
-><br>
->
-> * **[Sous-directeur des projets et des produits - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/sous-directeur-des-projets-et-des-produits-secretariat-general-paris75-hf-reference-2020-523388 "Sous-directeur des projets et des produits-Secrétariat général - F/H - Lien externe")**
-><br>Cadre supérieur/Catégorie A+
-><br>Poste basé à Paris (75)
-><br>
-><br>
->
-> * **[Sous-directeur des infrastructures et services aux agents - Secrétariat général - F/H](https://place-emploi-public.gouv.fr/offre-emploi/sous-directeur-des-infrastructures-et-services-aux-agents--secretariat-general-paris75-hf-reference-2020-523386 "Sous-directeur des infrastructures et services aux agents - Secrétariat général - F/H - Lien externe")**
-><br>Cadre supérieur/Catégorie A+
-><br>Poste basé à Paris (75)
-><br>
-><br>
 >
 > **Direction générale des finances publiques (DGFiP)**
 >
