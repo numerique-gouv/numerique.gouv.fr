@@ -12,10 +12,7 @@ export class Template_builder {
     const template =  hogan.compile(`
           <div class="search-card">
             <div class="block-link grid-x grid-margin-x">
-            <div class="cell object-fit__image-container large-4 medium-5 small-12 height-10rem">
-              <img class="object-fit__featured-image" alt="" src="${ image.image }">
-            </div>
-            <div class="content cell large-8 medium-7 small-12">
+              <div class="content cell large-8 medium-7 small-12">
               <h3 class="h5 font-bold margin-bottom-0-5">
                 <a class="black-link" href="${this.data.url}">${ this.data._highlightResult.title.value }</a>
               </h3>
@@ -29,6 +26,9 @@ export class Template_builder {
               <time class="post-meta h6 date">${ hit_helper.get_date_formated() }</time>
               {{/date}}
               <p>${ hit_helper.get_most_valuable_content() }</p>
+            </div>
+            <div class="cell object-fit__image-container large-4 medium-5 small-12 height-10rem carte-image">
+              <img class="object-fit__featured-image" alt="" src="${ image.image }">
             </div>
            </div>
           </div>
