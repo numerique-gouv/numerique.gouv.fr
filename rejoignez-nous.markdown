@@ -27,6 +27,11 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Chef/Cheffe du pôle Hypervision (NOC/SOC) du réseau interministériel de l’État (RIE)](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-du-pole-hypervision-nocsoc-du-reseau-interministeriel-de-l-etat-rie-hf-reference-2021-545525 "Chef/Cheffe du pôle Hypervision (NOC/SOC) du réseau interministériel de l’État (RIE) - Lien externe")**
+<br>Cadre/Catégorie A
+<br>Poste basé en Ille et Vilaine (35)
+<br>
+
 * **[Responsable de la Sécurité des Systèmes d'Informations F/H](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-fh-reference-2020-430437 "Responsable de la Sécurité des Systèmes d'Informations F/H - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -76,6 +81,14 @@ Zoom sur quelques postes dans le numérique public :
 > * **[Chef de projet / chargé de mission - Mission France Recouvrement F/H](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064 "Chef de projet / chargé de mission F/H - Lien externe")**
 > <br>Cadre/Catégorie A
 > <br>Poste basé à Montreuil (93)
+> <br>
+> <br>
+>
+> **Ministère de l'économie, des finances et de la relance**
+> Direction générale des entreprises (DGE)
+>
+> * **[Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H](https://place-emploi-public.gouv.fr/offre-emploi/administrateur-systemes--devops---peren---sen-peren-148-hf-reference-MEF_2021-3469 "Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H - Lien externe")**
+> <br>Cadre/Catégorie A
 > <br>
 > <br>
 > 
