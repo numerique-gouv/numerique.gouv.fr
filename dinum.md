@@ -47,55 +47,58 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 
 <div align="center"><a href="/uploads/organigramme_DINUM.pdf" class="button">Consulter l'organigramme (pdf - 106 Ko)</a></div>
 
-<div class="accordion no-bullet" data-accordion data-allow-all-closed="true">
-<div class="accordion-item" data-accordion-item>
-<a href="#" class="accordion-title">Version accessible de l'organigramme</a>
-<div class="accordion-content" data-tab-content >
-<p><b>Sont rattachés à la direction :</b> le programme TECH.GOUV, le département Infrastructures et Services Opérés (ISO), le département Etalab (cycle de vie de la donnée), le département Performance des Services Numériques (PSN), ainsi que le secrétariat général.</p>
+<div class="accordion no-bullet" data-accordion="" data-allow-all-closed="true">
+<div class="accordion-item" data-accordion-item="">
+<a href="#" class="accordion-title" aria-controls="organigramme" id="organigramme-label" aria-expanded="false">Version accessible de l'organigramme</a>
+<div class="accordion-content" data-tab-content="" id="organigramme" aria-labelledby="organigramme-label" aria-hidden="true" style="display: none;">
+<p><b>Sont rattachés à la direction&nbsp;:</b> le programme TECH.GOUV, le département Infrastructures et Services Opérés (ISO), le département Etalab (cycle de vie de la donnée), le département Performance des Services Numériques (PSN), ainsi que le secrétariat général.</p>
 <p>Chacun est divisé en missions ou pôles. En voici le détail, avec le nom des responsables.</p>
 <br>
-<ul><li><b>Programme TECH.GOUV</b> : Xavier Albouy
+<ul><li><b>Programme TECH.GOUV</b>&nbsp;: Xavier Albouy
   <ul>
-    <li><b>Mission LABEL :</b> Sabine Guillaume</li>
-    <li><b>Mission IDNUM :</b> Christine Balian</li>
-    <li><b>Mission DATA :</b> Romain Talès</li>
-    <li><b>Mission INFRA :</b> Paul-Emmanuel Caillard</li>
-    <li><b>Mission PILOT :</b> Laurent Joubert</li>
-    <li><b>Mission TALENTS :</b> Charlotte Cador</li>
-    <li><b>Mission BETA :</b> Florian Delezenne</li>
-    <li><b>Mission TRANSFO :</b> Patrick Ruestchmann</li>
+    <li><b>Mission LABEL&nbsp;:</b> Sabine Guillaume</li>
+    <li><b>Mission IDNUM&nbsp;:</b> Christine Balian</li>
+    <li><b>Mission DATA&nbsp;:</b> Romain Talès</li>
+    <li><b>Mission INFRA&nbsp;:</b> Paul-Emmanuel Caillard</li>
+    <li><b>Mission PILOT&nbsp;:</b> Laurent Joubert</li>
+    <li><b>Mission TALENTS&nbsp;:</b> Charlotte Cador</li>
+    <li><b>Mission BETA&nbsp;:</b> Florian Delezenne</li>
+    <li><b>Mission TRANSFO&nbsp;:</b> Patrick Ruestchmann</li>
   </ul></li>
 <br>
-<li><b>Département ISO (Infrastructures et Services Opérés)</b> : Guy Duplaquet. Adjoint : Louis Di Benedetto
+<li><b>Département ISO (Infrastructures et Services Opérés)</b>&nbsp;: Guy Duplaquet. Adjoint&nbsp;: Louis Di Benedetto
   <ul>
     <li><b>Pôle RIE</b></li>
-    <li><b>Pôle Hypervision :</b> Franck Davy</li>
-    <li><b>Pôle Production :</b> Gilles Corbi</li>
-    <li><b>Pôle Pilotage de la Qualité et des Partenariats :</b> Louis Di Benedetto</li>
+    <li><b>Pôle Hypervision&nbsp;:</b> Franck Davy</li>
+    <li><b>Pôle Production&nbsp;:</b> Gilles Corbi</li>
+    <li><b>Pôle Pilotage de la Qualité et des Partenariats&nbsp;:</b> Louis Di Benedetto</li>
   </ul></li>
 <br>
-<li><b>Département Etalab - Cycle de vie de la donnée</b> : Laure Lucchesi
+<li><b>Département Etalab - Cycle de vie de la donnée</b>&nbsp;: Laure Lucchesi
   <ul>
-    <li><b>Pôle Droit et Société :</b> Perica Sucevic</li>
-    <li><b>Pôle Exploitation des Données :</b> Paul-Antoine Chevalier</li>
-    <li><b>Pôle Accompagnement et Communautés :</b> Soizic Pénicaud</li>
-    <li><b>Pôle Ouverture et Partage des Données :</b> Romain Talès</li>
+    <li><b>Pôle Droit et Société&nbsp;:</b> Perica Sucevic</li>
+    <li><b>Pôle Exploitation des Données&nbsp;:</b> Paul-Antoine Chevalier</li>
+    <li><b>Pôle Accompagnement et Communautés&nbsp;:</b> Soizic Pénicaud</li>
+    <li><b>Pôle Ouverture et Partage des Données&nbsp;:</b> Romain Talès</li>
   </ul></li>
 <br>
-<li><b>Département PSN (Performance des Services Numériques)</b> : Florent Tournois. Adjoint : Laurent Joubert
+<li><b>Département PSN (Performance des Services Numériques)</b>&nbsp;: Florent Tournois. Adjoint&nbsp;: Laurent Joubert
   <ul>
-    <li><b>Pôle Conseil et Maîtrise des Risques :</b> Laurent Joubert</li>
-    <li><b>Pôle Produits Numériques Partagés :</b> Jean-Louis Barthelémy</li>
+    <li><b>Pôle Conseil et Maîtrise des Risques&nbsp;:</b> Laurent Joubert</li>
+    <li><b>Pôle Produits Numériques Partagés&nbsp;:</b> Jean-Louis Barthelémy</li>
     <li><b>Pôle Architecture et sécurité</b></li>
-    <li><b>Pôle Design des Services Numériques :</b> Marine Boudeau</li>
+    <li><b>Pôle Design des Services Numériques&nbsp;:</b> Marine Boudeau</li>
   </ul></li>
 <br>
-<li><b>Le secrétariat général :</b> Catherine Ferréol</li>
-<li><b>La direction :</b> Nadi Bou Hanna. Adjoint : Xavier Albouy</li>
+<li><b>Le secrétariat général&nbsp;:</b> Catherine Ferréol</li>
+<li><b>La direction&nbsp;:</b> Nadi Bou Hanna. Adjoint&nbsp;: Xavier Albouy</li>
 </ul>
 <br>
 </div>
 </div>
+<br>
+<br>
+[&gt; Télécharger la note d’organisation (pdf - 250 Ko)](/uploads/note_organisation_DINUM_20200301.pdf "Télécharger la note d’organisation - pdf, 250 Ko")
 </div>
 <br>
 <br>
