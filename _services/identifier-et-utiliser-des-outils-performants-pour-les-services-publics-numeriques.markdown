@@ -42,7 +42,7 @@ text-decoration: underline;
 
 ## Améliorer les services publics grâce à des solutions numériques
 
-Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de services numériques à destination des acteurs publics vise à :
+Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de services numériques à destination des administrations - de l’État et territoriales - vise à :
 
 * favoriser la création de services publics numériques performants et leur amélioration,
 * faciliter l’identification et le choix de solutions numériques pertinentes,
