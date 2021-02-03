@@ -40,12 +40,12 @@ text-decoration: underline;
 }
 </style>
 
-## Améliorer les services publics numériques grâce à des solutions innovantes
+## Améliorer les services publics grâce à des solutions numériques
 
 Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de services numériques à destination des acteurs publics vise à :
 
 * favoriser la création de services publics numériques performants et leur amélioration,
-* faciliter l’identification et le choix de solutions numériques innovantes,
+* faciliter l’identification et le choix de solutions numériques pertinentes,
 * permettre le partage d’expérience et la mutualisation d’outils entre administrations,
 * apporter des éléments d’appréciation quant aux attentes des acteurs publics.
 <br>
@@ -55,12 +55,12 @@ Mis en place par la mission LABEL de la DINUM, ce catalogue de logiciels et de s
 > <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite référencer ma solution
 > {: .margin-bottom-1 .h3}
 >
-> Vous êtes une entreprise, une association ou une administration. Vous développez un produit numérique innovant qui pourrait être utile aux services publics en ligne ? Vous souhaitez contribuer à l’amélioration des services publics numériques ?
+> Vous êtes une entreprise, une association ou une administration. Vous avez développé un produit numérique qui pourrait être utile aux services publics ? Vous souhaitez contribuer à l’amélioration des services publics ?
 > <br>Soumettez la demande de référencement de votre solution dans le catalogue via notre formulaire en ligne. Nous prendrons ensuite contact avec vous.
 >
 > <a href="https://www.demarches-simplifiees.fr/commencer/demande-de-referencement-au-catalogue-label" class="button" title="Soumettre ma solution - Lien externe">Soumettre ma solution</a>
 > <br>
-> <i>Pour toute question, écrivez à la mission LABEL par courriel à <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr">label.dinum@modernisation.gouv.fr.</a></i>
+> <i>Pour toute question, écrivez à la mission LABEL par courriel à <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr">label.dinum@modernisation.gouv.fr</a>.</i>
 {: .exergue}
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite connaître les solutions répondant à mon besoin
@@ -95,7 +95,8 @@ Le catalogue référencera les solutions numériques, qu’elles soient :
 
 * sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (*on-premises*),
 * propriétaires ou open source,
-* issues de la société civile (entreprises et associations) ou de l’administration.
+* issues de la société civile (entreprises et associations) ou de l’administration,
+* déjà utilisées par une ou plusieurs administrations ou non.
 <br>
 <br>
 
