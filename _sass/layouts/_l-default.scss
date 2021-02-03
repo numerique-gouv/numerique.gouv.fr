@@ -292,3 +292,11 @@ footer {
 .iframe {
   min-height: 500px;
 }
+
+.medium-dark-gray {
+  color: $medium-dark-gray !important;
+}
+
+.ais-search-box--reset svg {
+  fill: $accessible-interface-gray;
+}

@@ -10,13 +10,13 @@ layout: default
     {{ content | markdownify }}
     <form class="" id="contact-form">
       <p class="required-fields"><span class="required">*</span> Champs obligatoires</p>
-      <div id="message" class="text-center hide"></div>
+      <p id="message" role="status" class="text-center hide"></p>
 
       <label for="form-name"> Vos prénom et nom </label>
-      <input id="form-name" type="text" name="name">
+      <input id="form-name" type="text" name="name" autocomplete="name">
 
-      <label for="form-email"> Votre email<span class="required">*</span> <span>(nomprenom@domaine.com)</span></label>
-      <input required id="form-email" type="email" name="from">
+      <label for="form-email"> Votre email<span class="required">*</span> <span>(marie.dupond@domaine.com)</span></label>
+      <input required id="form-email" type="email" name="from" autocomplete="email">
 
       <label for="form-objet"> Objet<span class="required">*</span> </label>
       <input required id="form-objet" type="text" name="subject">
@@ -24,7 +24,7 @@ layout: default
       <label for="form-message"> Votre message<span class="required">*</span> </label>
       <textarea required id="form-message"  name="text" rows="5"></textarea>
 
-      <button class="button" id="btn-send-mail" type="submit">Envoyer</button>
+      <button class="button" id="btn-send-mail" type="submit" title="Envoyer votre message">Envoyer</button>
     </form>
   </section>
 </section>
