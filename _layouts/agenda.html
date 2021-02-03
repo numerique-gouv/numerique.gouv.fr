@@ -13,16 +13,17 @@ layout: page-mere
     <p class="margin-large-top-1 h4">FILTRER PAR :</p>
     <p>DATE</p>
     <fieldset>
-      <legend>Sélectionnez les dates de début et/ou de fin.</legend>
-      <input type="text" id="datepickerStart" class="daterange" aria-label="Début" placeholder="JJ/MM/AAAA"/>
+      <p id="exemple-format" class="off-screen">Format attendu : JJ/MM/AAAA</p>
+      <legend class="off-screen">Sélectionnez les dates de début et/ou de fin.</legend>
+      <input type="text" id="datepickerStart" class="daterange" aria-describedby="exemple-format" aria-label="Début" placeholder="JJ/MM/AAAA"/>
       au
-      <input type="text" id="datepickerEnd" class="daterange" aria-label="Fin" placeholder="JJ/MM/AAAA"/>
+      <input type="text" id="datepickerEnd" class="daterange" aria-describedby="exemple-format" aria-label="Fin" placeholder="JJ/MM/AAAA"/>
     </fieldset>
     <fieldset>
-      <legend>TYPE</legend>
+      <legend class="off-screen">TYPE</legend>
       <div id="categories"></div>
     </fieldset>
-    <p>MOT CLÉ</p>
+    <label label-for="search-event">MOT CLÉ</label>
     <div id="search-event" class="margin-top-1"></div>
     <button type="button" id="go-to-search-results" class="off-screen">Aller aux résultats de recherche</button>
   </div>
