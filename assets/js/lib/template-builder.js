@@ -12,23 +12,23 @@ export class Template_builder {
     const template =  hogan.compile(`
           <div class="search-card">
             <div class="block-link grid-x grid-margin-x">
-            <div class="cell object-fit__image-container large-4 medium-5 small-12 height-10rem">
-              <img class="object-fit__featured-image" alt="" src="${ image.image }">
-            </div>
-            <div class="content cell large-8 medium-7 small-12">
+              <div class="content cell large-8 medium-7 small-12">
               <h3 class="h5 font-bold margin-bottom-0-5">
                 <a class="black-link" href="${this.data.url}">${ this.data._highlightResult.title.value }</a>
               </h3>
               {{#category}}
-              <div class="category">
+              <p class="category margin-bottom-">
                 <img alt="" class="icon category-icon" src="${ hit_helper.select_icon_link() }">
                 <span class="h6">${ hit_helper.get_first_category() }</span>
-              </div>
+              </p>
               {{/category}}
               {{#date}}
               <time class="post-meta h6 date">${ hit_helper.get_date_formated() }</time>
               {{/date}}
               <p>${ hit_helper.get_most_valuable_content() }</p>
+            </div>
+            <div class="cell object-fit__image-container large-4 medium-5 small-12 height-10rem carte-image">
+              <img class="object-fit__featured-image" alt="" src="${ image.image }">
             </div>
            </div>
           </div>
@@ -53,7 +53,7 @@ export class Template_builder {
                 <a class="black-link" href="${this.data.url}">${ this.data._highlightResult.title.value }</a>
               </h2>
               {{#category}}
-              <span class="category">${ hit_helper.get_first_category() }</span>
+              <p class="category margin-bottom-">${ hit_helper.get_first_category() }</p>
               {{/category}}
               <p class="event-content">${ hit_helper.get_most_valuable_content() }</p>
             </div>
@@ -84,9 +84,8 @@ export class Template_builder {
     return template.render({isRefined:this.data.isRefined});
   };
   get_template_stats() {
-    const nbHits = new Hit_helper(this.data);
     const template =  hogan.compile(`
-      <p class="h4">Il y a ${ this.data.nbHits } résultats</p>
+      <h2 class="h4 medium-dark-gray">Il y a ${ this.data.nbHits } résultats</h2>
     `);
     return template.render();
   };

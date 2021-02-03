@@ -73,7 +73,7 @@ $icon-list: (
 }
 
 // Icon background
-.social__icon {
+.social__icon, .nav .social__icon {
   font-size: 1.4em;
   color: $black;
   float: left;

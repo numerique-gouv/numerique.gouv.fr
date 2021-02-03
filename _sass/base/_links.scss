@@ -13,7 +13,7 @@
 
 a {
   color: $turquoise;
-  &:hover {
+  &:hover, &:focus {
     color: $turquoise;
     text-decoration: underline;
   }

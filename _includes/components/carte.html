@@ -1,12 +1,7 @@
 {% assign carte = include.data %}
 
 <div class="cell grid-y carte height-100">
-  <div class="card-actu block-link">
-    {% if carte.une-ou-diaporama[0] %}
-    <div class="object-fit__image-container index-image-container">
-      <img class="object-fit__featured-image" alt="{{ carte.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ carte.une-ou-diaporama[0].image }}">
-    </div>
-    {% endif %}
+  <div class="card-actu simple-card block-link">
     <div class="padding-2">
       <h3 class="h4 font-bold margin-0">
         <a
@@ -38,6 +33,11 @@
         {% endif %}
       </p>
     </div>
+    {% if carte.une-ou-diaporama[0] %}
+    <div class="object-fit__image-container index-image-container carte-image">
+      <img class="object-fit__featured-image" alt="{{ carte.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ carte.une-ou-diaporama[0].image }}">
+    </div>
+    {% endif %}
   </div>
   <hr class="blue-hr margin-top-auto">
 </div>

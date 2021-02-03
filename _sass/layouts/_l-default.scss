@@ -124,7 +124,7 @@ header {
   input[type=text] {
     width: 100px;
     box-sizing: border-box;
-    border: 2px solid #ccc;
+    border: 2px solid $accessible-interface-gray;
     border-radius: 4px;
     font-size: 16px;
     padding: 12px 20px 12px 20px;
@@ -181,7 +181,7 @@ h3 {
 
 footer {
   background-color: $black;
-  nav {
+  .nav {
     max-width: 75rem;
     margin-right: auto;
     margin-left: auto;
@@ -291,4 +291,12 @@ footer {
 
 .iframe {
   min-height: 500px;
+}
+
+.medium-dark-gray {
+  color: $medium-dark-gray !important;
+}
+
+.ais-search-box--reset svg {
+  fill: $accessible-interface-gray;
 }

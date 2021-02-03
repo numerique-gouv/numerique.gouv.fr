@@ -3,7 +3,7 @@
     {% include components/titre-site.html %}
   </div>
   <div id="nav-content">
-    <div class="title-bar" data-responsive-toggle="responsive-menu" >
+    <div class="title-bar" data-responsive-toggle="responsive-menu" role="dialog">
       <div class="title-bar-right" data-hide-for="large">
         <button id="hamburger-button" class="hamburger hamburger--collapse" type="button" data-toggle="responsive-menu" >
           <span class="hamburger-box">
@@ -16,7 +16,7 @@
     <div class="top-bar" id="responsive-menu" data-animate="slide-in-left slide-out-left">
       <div class="top-bar-left">
         <a id="nav" tabindex="-1"></a>
-        <ul class="vertical medium-horizontal dropdown menu" data-dropdown-menu>
+        <ul class="vertical medium-horizontal dropdown menu">
           {% for item in site.data.nav-main %}
           <li>
             <a class="black-link" href="{{ item.url }}">{{ item.link }}</a>
@@ -27,7 +27,7 @@
       {% if page.title != "Rechercher" %}
       <form id="rechercher" action="/rechercher" class="search-form top-bar-right" method="get" role="search">
         <label for="input-rechercher" class="off-screen">Rechercher dans le site {{ site.title }}</label>
-        <input id="input-rechercher" aria-label="Ma recherche" type="text" name="query" >
+        <input id="input-rechercher" type="text" name="query" >
         <button type="submit" id="submit-search-bar">
           <span class="off-screen">Lancer la recherche</span>
           <span aria-hidden="true" class="fas fa-search icon-recherche"></span>

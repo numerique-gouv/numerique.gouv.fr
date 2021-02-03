@@ -13,11 +13,11 @@ layout: default
       {% endif %}
     {% endif %}
     <div class="event-date row align-middle align-center margin-top-2">
-      <img class="" alt="icon calendrier" src="/assets/img/pictogrammes/evenement.svg">&nbsp;
+      <img alt="" src="/assets/img/pictogrammes/evenement.svg">&nbsp;
       {% if page.event_end_date %}
-        {% include helpers/date_range.html start_date=page.event_start_date end_date=page.event_end_date %}
+        <time>{% include helpers/date_range.html start_date=page.event_start_date end_date=page.event_end_date %}</time>
       {% else %}
-        {% include helpers/date.html date=page.event_start_date %}
+        <time>{% include helpers/date.html date=page.event_start_date %}</time>
       {% endif %}
     </div>
     <a id="content" tabindex="-1"></a>
@@ -28,7 +28,7 @@ layout: default
       {{ content | markdownify | smartify }}
     </div>
 
-    <div class="text-center margin-bottom-2 title-and-date">
+    <p class="text-center margin-bottom-2 title-and-date">
       <span>{{ page.title }},</span><br />
       <span>
         {% if page.event_end_date %}
@@ -37,7 +37,7 @@ layout: default
           {% include helpers/date.html date=page.event_start_date %}
         {% endif %}
       </span>
-    </div>
+    </p>
     <div id="informations-pratiques">
       <p class="font-bold">{{ page.lieu }}</p>
       {% if page.adresse %}
