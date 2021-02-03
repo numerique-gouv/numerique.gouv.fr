@@ -29,7 +29,7 @@ layout: default
                     {% assign subItems = site.methode | sort: 'menu.weight' %}
                     {% for subItem in subItems %}
                         <li class="pl-04 {% if subItem.menu.title == page.menu.title %} active-link {% endif %}">
-                            <a href="{{ subItem.permalink }}#contenu" {% if subItem.menu.title == page.menu.title %}aria-current="true" title="{{ item.menu.title }}, page active"{% endif %}>{{ subItem.menu.title }}</a>
+                            <a href="{{ subItem.permalink }}#contenu" {% if subItem.menu.title == page.menu.title %}aria-current="true" title="{{ subItem.menu.title }}, page active"{% endif %}>{{ subItem.menu.title }}</a>
                         </li>
                     {% endfor %}
                     </ul>
