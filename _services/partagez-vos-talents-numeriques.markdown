@@ -43,25 +43,22 @@ text-decoration: underline;
 }
 </style>
 
-> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis agent de l’État
->
-> Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <br><a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
-> <br>Si aucune de celles disponibles pour le moment ne vous intéresse, rejoignez simplement le vivier.
->
-> <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button" title="Proposer mes compétences - Lien externe">Proposer mes compétences</a>
-> <br>
-> <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
-{: .exergue}
+<div class="exergue"><figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure><h2>Je suis agent de l’État</h2>
+<p>Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <br><a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
+<br>Si aucune de celles disponibles pour le moment ne vous intéresse, rejoignez simplement le vivier.</p>
+<br>
+<a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button" title="Proposer mes compétences - Lien externe">Proposer mes compétences</a>
+<br>
+<a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
+</div>
 
-> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je suis une administration
-> {: .margin-bottom-1}
->
-> Besoin d'un appui ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? D'un renfort dans la gestion de crise Covid-19 actuelle ?
->
-> <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button" title="Proposer une mission - Lien externe">Proposer une mission</a>
-> <br>
-> <a class="lien-encadre" href="#comment-ca-marche-admin"><i>Comment ça marche ?</i></a>
-{: .exergue}
+<div class="exergue"><figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure><h2>Je suis une administration</h2>
+<p>Besoin d'un appui ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? D'un renfort dans la gestion de crise Covid-19 actuelle ?</p>
+
+<a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button" title="Proposer une mission - Lien externe">Proposer une mission</a>
+<br>
+<a class="lien-encadre" href="#comment-ca-marche-admin"><i>Comment ça marche ?</i></a>
+</div>
 
 <br>
 <br>
@@ -96,19 +93,19 @@ Le dispositif *Partagez vos talents numériques !* et ses modalités d’expéri
 <a href="#" class="accordion-title">Version accessible de la note</a>
 <div class="accordion-content" data-tab-content >
 <p><b>NOTE à l’attention des secrétaires généraux
-Expérimentation du dispositif « Partagez vos talents numériques »</b></p> 
+Expérimentation du dispositif « Partagez vos talents numériques »</b></p>
 <p>Le dispositif « Partagez vos talents numériques » s’inscrit dans le cadre de la mission TALENTS du programme TECH.GOUV de la DINUM, qui vise à attirer, fidéliser et valoriser les talents du numérique. Il concrétise une des actions prioritaires de la circulaire DINSIC-DGAFP du 2 mai 2019 portant sur le plan d’actions pour la filière numérique et des systèmes d’information et de communication (CPAF1913085C).</p>
 <p>Son objet est de permettre à un agent de l’État disposant d’expertises numériques, dit « talent numérique », de mettre ponctuellement ses compétences au service d’un autre service de l’État, sans impact sur sa position administrative et sa rémunération. Un système de mesure et de compensation (crédit virtuel) sera instauré au bénéfice des structures qui emploient ces agents, et qui facilitent ainsi l’accès de ces agents à ce dispositif. Une valorisation virtuelle (distinctions, diplômes virtuels, mise en avant) sera également mise en place au profit des agents volontaires concernés.</p>
 <p>Avec ce projet, la DINUM veut développer et encourager une culture d’entre-aide interministérielle, profitable à la réussite des projets numériques. En effet le développement de nouvelles modalités de travail, plus transversales et coopératives, est un levier puissant pour atteindre notre objectif commun d’accélération de la transformation du service public. Il permettrait également de renforcer l’attractivité de l’État-employeur dans le domaine du numérique.</p>
 <p>À compter de mai 2020, le dispositif sera expérimenté selon les orientations validées par les directions du numérique ministérielles (DNUM) lors de la réunion de suivi du programme TECH.GOUV du 6 février 2020. À cette occasion, les DNUM ont donné leur accord pour que les agents qui le souhaitent se recensent dans le dispositif expérimental. L’accord sur le démarrage effectif d’une mission reste bien entendu à la main de l’employeur du talent, en fonction des nécessités de service. Dans les circonstances de crise sanitaire majeure que nous vivons, j’ai choisi de maintenir ce calendrier car les besoins d’entraide et de coopération s’avèrent, pour certains ministères, particulièrement critiques et je serais heureux que ce dispositif puisse contribuer à y répondre au mieux.</p>
 <p>Les missions proposées par les administrations pour l’expérimentation, ainsi que leurs modalités de réalisation, seront publiées sur le site de la DINUM : www.numerique.gouv.fr. Les agents de l’État souhaitant proposer leur service pour ces missions ou simplement déclarer leur intérêt pour le dispositif sont invités à se recenser en remplissant un formulaire en ligne.</p>
-<p>Aussi, dès lors que le talent candidat aura obtenu l’aval de sa hiérarchie pour intervenir sur une mission, dont les contours et les modalités d’accomplissement auront été définis dès la publication, le dispositif, qui aura recueilli l’accord de toutes les parties, pourra être mis en œuvre.</p> 
+<p>Aussi, dès lors que le talent candidat aura obtenu l’aval de sa hiérarchie pour intervenir sur une mission, dont les contours et les modalités d’accomplissement auront été définis dès la publication, le dispositif, qui aura recueilli l’accord de toutes les parties, pourra être mis en œuvre.</p>
 <p>A l’issue de l’expérimentation, la DINUM mettra en place une plateforme permettant la publication simple et rapide des missions proposées à l’initiative des administrations ainsi que l’auto-recensement et la déclaration des talents souhaitant s’inscrire dans le dispositif. Enfin, le projet ciblera dans un premier temps le recours aux talents internes de l’État (fonctionnaires et contractuels). Son extension aux autres fonctions publiques (territoriales et hospitalières) pourra être envisagée dans un second temps.</p>
 <p>Nadi BOU HANNA
 <br>Directeur interministériel du numérique
 <br>(Signature de Nadi Bou Hanna)</p>
 
-<p>Copie : 
+<p>Copie :
 <ul><li>Cabinets (Premier-Ministre, MACP, SENUM)
 Directeurs ministériels du numérique</li>
 <li>DITP</li>
@@ -138,22 +135,18 @@ Tous les **agents de l’État**, **fonctionnaires ou contractuels,** ayant des 
 
 Pour l'agent, c'est un moyen de varier les plaisirs !
 
-> #### 5 BONNES RAISONS
-> {: .text-center .margin-bottom-0 .margin-top-3}
-> de partager vos talents numériques
-> {: .text-center}
-> <br>
->
-> * **Donner un coup de pouce** à un projet ou un domaine qui a du sens pour vous ou **qui vous tient à cœur**
->
-> * **Enrichir** votre parcours et votre réseau professionnel
->
-> * **Découvrir** un nouveau secteur d’activité ou un nouvel écosystème
->
-> * **Se lancer** de nouveaux défis et sortir un peu de son quotidien
->
-> * **Intégrer une communauté** de talents numériques de l’État et rendre vos compétences plus visibles
-{: .noir .encadre}
+<div class="encadre noir">
+<h4 class="text-center margin-bottom-0 margin-top-3">5 BONNES RAISONS</h4>
+<p class="text-center">de partager vos talents numériques</p>
+<br>
+<ul>
+<li><b>Donner un coup de pouce</b> à un projet ou un domaine qui a du sens pour vous ou <b>qui vous tient à cœur</b></li>
+<li><b>Enrichir</b> votre parcours et votre réseau professionnel</li>
+<li><b>Découvrir</b> un nouveau secteur d’activité ou un nouvel écosystème</li>
+<li><b>Se lancer</b> de nouveaux défis et sortir un peu de son quotidien</li>
+<li><b>Intégrer une communauté</b> de talents numériques de l’État et rendre vos compétences plus visibles</li>
+</ul>
+</div>
 
 ### **Quelles compétences sont recherchées ?**
 
@@ -169,8 +162,7 @@ Selon leurs besoins, la nature des missions proposées par les administrations p
 
 Chaque mission répondant à un **besoin ponctuel**, elle est **délimitée dans le temps**. La durée comme la fréquence sont variables d’une mission à l’autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
-> <a href="#missions">Découvrir les missions proposées</a>
-{: .lien-important}
+<p class="lien-important"><a href="#missions">Découvrir les missions proposées</a></p>
 
 ### **Comment contribuer ?**
 
@@ -198,7 +190,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <br>
 <br>
 
-<div align="center">
+<div class="text-center">
 <b>Prêt/Prête ?</b>
 <br>
 <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button" title="Proposer mes compétences - Lien externe">Proposer mes compétences</a></div>
@@ -206,8 +198,8 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <br>
 <br>
 
-<div align="center"><a href="#missions"><b>Voir les missions</b></a></div>
-<div align="center"><p align="center"><a href="#missions">
+<div class="text-center"><a href="#missions"><b>Voir les missions</b></a></div>
+<div class="text-center"><p class="text-center"><a href="#missions">
 <i class="fas fa-angle-down icon-arrow-down"></i></a></p></div>
 
 <br>
@@ -230,8 +222,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <li><b>Localisation :</b> Paris 7e et à distance</li>
 <li><b><a href="/uploads/mission_parcours-pro-numerique.pdf" title="Détails de la mission - pdf, 64 ko">Détails de la mission (pdf - 64 ko)</a></b></li></ul>
 
-> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs "Cette mission m'intéresse : je propose mes talents - Lien externe")**
-{: .lien-important}
+<p class="lien-important"><b><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Cette mission m'intéresse : je propose mes talents - Lien externe">Cette mission m'intéresse : je propose mes talents</a></b></p>
 <br>
 
 ### Repenser le design de la « Clause sociale de formation sous statut scolaire », dispositif de lutte contre le décrochage scolaire
@@ -242,8 +233,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <li><b>Localisation :</b> Paris 7e</li>
 <li><b><a href="/uploads/mission_decrochage-scolaire.pdf" title="Détails de la mission - pdf, 240 ko">Détails de la mission (pdf - 240 ko)</a></b></li></ul>
 
-> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs "Cette mission m'intéresse : je propose mes talents - Lien externe")**
-{: .lien-important}
+<p class="lien-important"><b><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Cette mission m'intéresse : je propose mes talents - Lien externe">Cette mission m'intéresse : je propose mes talents</a></b></p>
 <br>
 
 ### Contribuer au développement de « Focus+ », outil d’évaluation en ligne de l’accessibilité de documents administratifs
@@ -254,8 +244,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <li><b>Localisation :</b> Paris 7e</li>
 <li><b><a href="/uploads/mission-focus.pdf" title="Détails de la mission - pdf, 280 ko">Détails de la mission (pdf - 280 ko)</a></b></li></ul>
 
-> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs "Cette mission m'intéresse : je propose mes talents - Lien externe")**
-{: .lien-important}
+<p class="lien-important"><b><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Cette mission m'intéresse : je propose mes talents - Lien externe">Cette mission m'intéresse : je propose mes talents</a></b></p>
 <br>
 
 ### COVID-19 : Faciliter la veille scientifique (publications scientifiques et essais cliniques) pour les chercheurs et le corps médical
@@ -267,8 +256,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <li><b>Localisation :</b> à distance ou en télétravail</li>
 <li><b><a href="/uploads/2020_08_24_Fiches_COVID%2019_Faciliter%20la%20veille%20scientifique%20.pdf" title="Détails de la mission - pdf, 64 ko">Détails de la mission (pdf - 64 ko)</a></b></li></ul>
 
-> **[Cette mission m'intéresse : je propose mes talents](https://sgmap.sphinxdeclic.com/d/s/ou9lrs "Cette mission m'intéresse : je propose mes talents - Lien externe")**
-{: .lien-important}
+> <p class="lien-important"><b><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Cette mission m'intéresse : je propose mes talents - Lien externe">Cette mission m'intéresse : je propose mes talents</a></b></p>
 <br>
 
 <br>
@@ -329,7 +317,7 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 <li><b>La mission peut commencer !</b></li></ol>
 <br>
 
-<div align="center">
+<div class="text-center">
 <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" title="Proposer une mission - Lien externe" class="button">Proposer une mission</a></div>
 <br>
 <br>

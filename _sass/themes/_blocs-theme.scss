@@ -126,7 +126,7 @@
 .lien-important {
   display: flex;
   border: none;
-  p {
+  p, b {
     display: block;
     margin: 0 auto 1rem auto;
     text-align: center;
@@ -148,10 +148,8 @@
       display: inline;
       padding: 0 1rem;
       font-weight: bold;
-
     }
   }
-
 }
 .video {
   border: none;
