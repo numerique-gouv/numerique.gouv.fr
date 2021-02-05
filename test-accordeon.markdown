@@ -1,6 +1,7 @@
 ---
 title: test accordéon
 date: 2021-02-05 12:17:00 +01:00
+layout: dinsic
 ---
 
 <style>
