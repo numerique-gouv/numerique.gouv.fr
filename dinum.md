@@ -60,7 +60,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
     <li><b>Mission IDNUM&nbsp;:</b> Christine Balian</li>
     <li><b>Mission DATA&nbsp;:</b> Romain Talès</li>
     <li><b>Mission INFRA&nbsp;:</b> Paul-Emmanuel Caillard</li>
-    <li><b>Mission PILOT&nbsp;:</b> Laurent Joubert</li>
+    <li><b>Mission PILOT&nbsp;:</b> Xavier Albouy</li>
     <li><b>Mission TALENTS&nbsp;:</b> Charlotte Cador</li>
     <li><b>Mission BETA&nbsp;:</b> Florian Delezenne</li>
     <li><b>Mission TRANSFO&nbsp;:</b> Patrick Ruestchmann</li>
@@ -82,12 +82,12 @@ La DINUM comprend une direction de programme, trois départements et un secréta
     <li><b>Pôle Ouverture et Partage des Données&nbsp;:</b> Romain Talès</li>
   </ul></li>
 <br>
-<li><b>Département PSN (Performance des Services Numériques)</b>&nbsp;: Florent Tournois. Adjoint&nbsp;: Laurent Joubert
+<li><b>Département Performance des services numériques (PSN)</b>&nbsp;: Florent Tournois.
   <ul>
-    <li><b>Pôle Conseil et Maîtrise des Risques&nbsp;:</b> Laurent Joubert</li>
-    <li><b>Pôle Produits Numériques Partagés&nbsp;:</b> Jean-Louis Barthelémy</li>
+    <li><b>Pôle Conseil et maîtrise des risques</li>
+    <li><b>Pôle Produits numériques partagés&nbsp;:</b> Jean-Louis Barthelémy</li>
     <li><b>Pôle Architecture et sécurité</b></li>
-    <li><b>Pôle Design des Services Numériques&nbsp;:</b> Marine Boudeau</li>
+    <li><b>Pôle Design des services numériques&nbsp;:</b> Marine Boudeau</li>
   </ul></li>
 <br>
 <li><b>Le secrétariat général&nbsp;:</b> Catherine Ferréol</li>
