@@ -12,7 +12,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) est en cha
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 5 février 2021
+date_de_modification: 8 février 2021
 layout: dinsic
 ---
 
@@ -82,23 +82,21 @@ La DINUM comprend une direction de programme, trois départements et un secréta
     <li><b>Pôle Ouverture et Partage des Données&nbsp;:</b> Romain Talès</li>
   </ul></li>
 <br>
-<li><b>Département Performance des services numériques (PSN)</b>&nbsp;: Florent Tournois.
+<li><b>Département Performance des services numériques (PSN)&nbsp;:</b> Florent Tournois.
   <ul>
-    <li><b>Pôle Conseil et maîtrise des risques</li>
+    <li><b>Pôle Conseil et maîtrise des risques</b></li>
     <li><b>Pôle Produits numériques partagés&nbsp;:</b> Jean-Louis Barthelémy</li>
-    <li><b>Pôle Architecture et sécurité</b></li>
+    <li><b>Pôle Architecture et sécurité&nbsp;:</b> Mohsen Souissi</li>
     <li><b>Pôle Design des services numériques&nbsp;:</b> Marine Boudeau</li>
   </ul></li>
 <br>
 <li><b>Le secrétariat général&nbsp;:</b> Catherine Ferréol</li>
 <li><b>La direction&nbsp;:</b> Nadi Bou Hanna. Adjoint&nbsp;: Xavier Albouy</li>
 </ul>
-<br>
 </div>
 </div>
-<br>
-<br>
 </div>
 <br>
 <br>
+
 [> Télécharger la note d’organisation (pdf - 250 Ko)](/uploads/note_organisation_DINUM_20200301.pdf "Télécharger la note d’organisation - pdf, 250 Ko")
