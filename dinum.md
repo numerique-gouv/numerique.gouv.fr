@@ -12,7 +12,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) est en cha
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 5 février 2021
+date_de_modification: 8 février 2021
 layout: dinsic
 ---
 
@@ -98,4 +98,5 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 </div>
 <br>
 <br>
+
 [> Télécharger la note d’organisation (pdf - 250 Ko)](/uploads/note_organisation_DINUM_20200301.pdf "Télécharger la note d’organisation - pdf, 250 Ko")
