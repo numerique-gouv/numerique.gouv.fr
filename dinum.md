@@ -82,7 +82,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
     <li><b>Pôle Ouverture et Partage des Données&nbsp;:</b> Romain Talès</li>
   </ul></li>
 <br>
-<li><b>Département Performance des services numériques (PSN)</b>&nbsp;: Florent Tournois.
+<li><b>Département Performance des services numériques (PSN)&nbsp;:</b> Florent Tournois.
   <ul>
     <li><b>Pôle Conseil et maîtrise des risques</li>
     <li><b>Pôle Produits numériques partagés&nbsp;:</b> Jean-Louis Barthelémy</li>
@@ -93,7 +93,6 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <li><b>Le secrétariat général&nbsp;:</b> Catherine Ferréol</li>
 <li><b>La direction&nbsp;:</b> Nadi Bou Hanna. Adjoint&nbsp;: Xavier Albouy</li>
 </ul>
-<br>
 </div>
 </div>
 </div>
