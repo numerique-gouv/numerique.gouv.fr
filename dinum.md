@@ -96,8 +96,6 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <br>
 </div>
 </div>
-<br>
-<br>
 </div>
 <br>
 <br>
