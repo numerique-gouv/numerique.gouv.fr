@@ -86,7 +86,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
   <ul>
     <li><b>Pôle Conseil et maîtrise des risques</li>
     <li><b>Pôle Produits numériques partagés&nbsp;:</b> Jean-Louis Barthelémy</li>
-    <li><b>Pôle Architecture et sécurité</b></li>
+    <li><b>Pôle Architecture et sécurité&nbsp;:</b> Mohsen Souissi</li>
     <li><b>Pôle Design des services numériques&nbsp;:</b> Marine Boudeau</li>
   </ul></li>
 <br>
