@@ -15,33 +15,31 @@ chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numéri
 une:
   image: "/uploads/Partagez-talents_produits-services.png"
 affiche-fleche: true
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+
+  a.lien-encadre {
+  color: #0A4D7F;
+  text-decoration: none;
+  }
+  a.lien-encadre:hover {
+  color: #0A4D7F;
+  text-decoration: underline;
+  }
 layout: rgaa
 ---
-
-<style>
-.button {
-background-color: #0d5c98;
-border: 1px solid white;
-color: white;
-padding: 10px 10px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-style: normal;
-font-size: 20px;
-margin: 4px 2px;
-cursor: pointer;
-}
-
-a.lien-encadre {
-color: #0A4D7F;
-text-decoration: none;
-}
-a.lien-encadre:hover {
-color: #0A4D7F;
-text-decoration: underline;
-}
-</style>
 
 <div class="exergue"><figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure><h2>Je suis agent de l’État</h2>
 <p>Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <br><a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
