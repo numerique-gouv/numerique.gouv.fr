@@ -5,7 +5,7 @@ position: 5
 subtitle: Une démarche en ligne exemplaire...
 une-ou-diaporama:
 - image: "/assets/img/main/image_DINSIC.jpg"
-  alternative-textuelle: ordinateur portable
+  alternative-textuelle: 
 principes:
 - principe: 
   order: 1

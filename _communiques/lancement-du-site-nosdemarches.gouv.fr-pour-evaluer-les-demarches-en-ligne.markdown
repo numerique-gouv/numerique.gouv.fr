@@ -10,7 +10,7 @@ files:
   nom: Télécharger le communiqué de presse
 une-ou-diaporama:
 - image: "/uploads/nos%20demarches.png"
-  alternative-textuelle: Les démarches gouvernementales
+  alternative-textuelle: 
 image: uploads/nosdemarches.gouv.jpg
 chapeau: " 100% des démarches administratives accessibles en ligne au 1er janvier
   2022 : c’est l’une des mesures phares annoncées par le gouvernement pour accélérer
@@ -40,7 +40,7 @@ Le gouvernement franchit ainsi une nouvelle étape vers la totalité des démarc
 > Avec cet outil ouvert et contributif, nous souhaitons associer les usagers et utilisateurs de démarches en ligne à
 >la transformation numérique de la France, car celle-ci ne peut se faire sans ceux qui la vivent au quotidien. Mieux
 >connaître vos besoins, vos attentes et vos irritants pour orienter en conséquence la dématérialisation des services
->publics : c’est cela que permet la nouvelle plateforme nosdemarches.gouv.fr 
+>publics : c’est cela que permet la nouvelle plateforme nosdemarches.gouv.fr
 {: .citation}
->**Mounir Mahjoubi**, secrétaire d’État auprès du Premier ministre, chargé du Numérique 
+>**Mounir Mahjoubi**, secrétaire d’État auprès du Premier ministre, chargé du Numérique
 {: .auteur-citation}

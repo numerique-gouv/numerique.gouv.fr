@@ -13,10 +13,7 @@ chapeau-text: Un an après le lancement des travaux, venez découvrir les résul
   (AMI IA) dans l’administration.
 une-ou-diaporama:
 - image: "/uploads/IA.PNG"
-  alternative-textuelle: |-
-    28 novembre 2019
-    Intelligence artificielle
-    Découvrez les résultats des 6 premiers projets
+  alternative-textuelle: 
 event_start_date: 2019-11-28 10:00:00 +01:00
 lieu: Lieu de la Transformation publique
 adresse: 77 avenue de Ségur 75015, Paris
@@ -39,21 +36,21 @@ La direction interministérielle de la transformation publique (DITP) et la dire
 
 #### Venez découvrir ces six projets et leurs résultats :
 
-* **Développer un voice bot pour les utilisateurs du chèque emploi association** <br> 
+* **Développer un voice bot pour les utilisateurs du chèque emploi association** <br>
 *Agence centrale des organismes de sécurité sociale - Centre national chèque emploi associatif*
 
 * **Détecter par images des irrégularités d'occupation des sols** <br> *Direction départementale des territoires et de la mer (DDTM) de l'Hérault*
 
-* **Cibler les contrôles de restaurants à partir des commentaires d'utilisateurs** <br> 
+* **Cibler les contrôles de restaurants à partir des commentaires d'utilisateurs** <br>
 *Ministère de l'agriculture et de l'alimentation - Direction générale de l'alimentation*
 
-* **Mieux maîtriser les risques et les activités nucléaires** <br> 
+* **Mieux maîtriser les risques et les activités nucléaires** <br>
 *Autorité de sûreté nucléaire (ASN)*
 
-* **Mieux orienter les contrôles de la police de l'environnement grâce à l’IA** <br> 
+* **Mieux orienter les contrôles de la police de l'environnement grâce à l’IA** <br>
 *Agence française pour la biodiversité*
 
-* **Appuyer les médecins dans la préparation des réunions de concertations pluridisciplinaires** <br> 
+* **Appuyer les médecins dans la préparation des réunions de concertations pluridisciplinaires** <br>
 *Centre hospitalier universitaire (CHU) de Toulouse*
 
 Acteurs publics ou intéressés par la modernisation des services de l’État, nous vous attendons nombreux pour découvrir cette initiative unique d’ expérimentions de l’intelligence artificielle dans l’administration !
