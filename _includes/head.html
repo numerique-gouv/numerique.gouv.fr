@@ -29,4 +29,7 @@
   {% include imports/preloads.html %}
   {% include imports/matomo.html %}
   {% include imports/atinternet.html %}
+  {% if page.style %}
+    <style>{{ page.style }}</style>
+  {% endif %}
 </head>
