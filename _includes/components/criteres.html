@@ -24,6 +24,9 @@
             {% endif %}
         {% endfor %}
         </ol>
+        <!-- <div>
+            <button type="button" id="filtre-tests" data-tests-shown="false">Afficher tous les tests</button>
+        </div> -->
     </div>
     {% assign topic = "" %}
     {% for topics in site.data.rgaa.criteres.topics %}
@@ -40,7 +43,7 @@
                 {% capture level %}{{ level }}{% endcapture %}
                 {% assign levelSize = level | size %}
                 {% assign levelSize = levelSize | minus: 2 %}
-                {% assign level = level | slice: 1, levelSize %} 
+                {% assign level = level | slice: 1, levelSize %}
                 {% if critLevel == "" or critLevel == "AA" %}
                     {% assign critLevel = level %}
                 {% endif %}
@@ -52,7 +55,7 @@
                     {% assign testNum = 1 %}
                     {% for test in criteria.criterium.tests %}
                         <li id="test-{{ topics.number }}-{{ criteria.criterium.number }}-{{ testNum }}">
-                            <span class="test">Test {{ topics.number }}.{{ criteria.criterium.number }}.{{ test.first }}</span> : {{ test[1].first | replace: "(#", "(/publications/rgaa-accessibilite/methode-rgaa/glossaire/#" | markdownify }}
+                            <span class="test">Test {{ topics.number }}.{{ criteria.criterium.number }}.{{ test.first }}</span> : {{ test[1].first | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}
                             {% if test[1].size > 1 %}
                             <ul>
                                 {% for condition in test[1] %}
@@ -128,7 +131,7 @@
                              {% if sc == criteria.criterium.references[0].wcag.last %}
                                  <a href="https://www.w3.org/TR/WCAG21/#{{ slug | slugify }}">{{ scwcag }}</a>.
                              {% else %}
-                                 <a href="https://www.w3.org/TR/WCAG21/#{{ slug | slugify }}">{{ scwcag }}</a>, 
+                                 <a href="https://www.w3.org/TR/WCAG21/#{{ slug | slugify }}">{{ scwcag }}</a>,
                              {% endif %}
                          {% endfor %}
                     </span>
@@ -160,7 +163,7 @@
                              {% if technique == criteria.criterium.references[1].techniques.last %}
                                  <a href="https://www.w3.org/WAI/WCAG21/Techniques/{{ path }}/{{ technique }}">{{ technique }}</a>.
                              {% else %}
-                                 <a href="https://www.w3.org/WAI/WCAG21/Techniques/{{ path }}/{{ technique }}">{{ technique }}</a>, 
+                                 <a href="https://www.w3.org/WAI/WCAG21/Techniques/{{ path }}/{{ technique }}">{{ technique }}</a>,
                              {% endif %}
                          {% endfor %}
                     </span>
@@ -174,7 +177,7 @@
                         {% if sc == criteria.criterium.references[0].wcag.last %}
                             {{ sc }}.
                         {% else %}
-                            {{ sc }}, 
+                            {{ sc }},
                         {% endif %}
                     </li>
                     {% endfor %}
