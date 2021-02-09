@@ -47,9 +47,20 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 
 <div align="center"><a href="/uploads/organigramme_DINUM.pdf" class="button">Consulter l'organigramme (pdf - 106 Ko)</a></div>
 
-<div class="accordion no-bullet" data-accordion="" data-allow-all-closed="true">
-<div class="accordion-item" data-accordion-item="">
-<a href="#" class="accordion-title" aria-controls="organigramme" id="organigramme-label" aria-expanded="false">Version accessible de l'organigramme</a>
+<script>
+function myFunction(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("show") == -1) {
+    x.className += " show";
+  } else {
+    x.className = x.className.replace(" show", "");
+  }
+}
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="accordion-item">
+<button onclick="myFunction('organigramme')" class="accordion-title" aria-controls="organigramme" aria-expanded="false">Version accessible de l'organigramme</button>
 <div class="accordion-content" data-tab-content="" id="organigramme" aria-labelledby="organigramme-label" aria-hidden="true" style="display: none;">
 <p><b>Sont rattachés à la direction&nbsp;:</b> le programme TECH.GOUV, le département Infrastructures et Services Opérés (ISO), le département Etalab (cycle de vie de la donnée), le département Performance des Services Numériques (PSN), ainsi que le secrétariat général.</p>
 <p>Chacun est divisé en missions ou pôles. En voici le détail, avec le nom des responsables.</p>
@@ -64,39 +75,38 @@ La DINUM comprend une direction de programme, trois départements et un secréta
     <li><b>Mission TALENTS&nbsp;:</b> Charlotte Cador</li>
     <li><b>Mission BETA&nbsp;:</b> Florian Delezenne</li>
     <li><b>Mission TRANSFO&nbsp;:</b> Patrick Ruestchmann</li>
-  </ul></li>
-<br>
+  </ul><br></li>
+
 <li><b>Département ISO (Infrastructures et Services Opérés)</b>&nbsp;: Guy Duplaquet. Adjoint&nbsp;: Louis Di Benedetto
   <ul>
     <li><b>Pôle RIE</b></li>
     <li><b>Pôle Hypervision&nbsp;:</b> Franck Davy</li>
     <li><b>Pôle Production&nbsp;:</b> Gilles Corbi</li>
     <li><b>Pôle Pilotage de la Qualité et des Partenariats&nbsp;:</b> Louis Di Benedetto</li>
-  </ul></li>
-<br>
+  </ul><br></li>
+
 <li><b>Département Etalab - Cycle de vie de la donnée</b>&nbsp;: Laure Lucchesi
   <ul>
     <li><b>Pôle Droit et Société&nbsp;:</b> Perica Sucevic</li>
     <li><b>Pôle Exploitation des Données&nbsp;:</b> Paul-Antoine Chevalier</li>
     <li><b>Pôle Accompagnement et Communautés&nbsp;:</b> Soizic Pénicaud</li>
     <li><b>Pôle Ouverture et Partage des Données&nbsp;:</b> Romain Talès</li>
-  </ul></li>
-<br>
+  </ul><br></li>
+
 <li><b>Département Performance des services numériques (PSN)&nbsp;:</b> Florent Tournois.
   <ul>
     <li><b>Pôle Conseil et maîtrise des risques</b></li>
     <li><b>Pôle Produits numériques partagés&nbsp;:</b> Jean-Louis Barthelémy</li>
     <li><b>Pôle Architecture et sécurité&nbsp;:</b> Mohsen Souissi</li>
     <li><b>Pôle Design des services numériques&nbsp;:</b> Marine Boudeau</li>
-  </ul></li>
-<br>
+  </ul><br></li>
+
 <li><b>Le secrétariat général&nbsp;:</b> Catherine Ferréol</li>
 <li><b>La direction&nbsp;:</b> Nadi Bou Hanna. Adjoint&nbsp;: Xavier Albouy</li>
 </ul>
 </div>
 </div>
 </div>
-<br>
-<br>
+
 
 [> Télécharger la note d’organisation (pdf - 250 Ko)](/uploads/note_organisation_DINUM_20200301.pdf "Télécharger la note d’organisation - pdf, 250 Ko")
