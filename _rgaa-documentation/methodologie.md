@@ -3,7 +3,7 @@ title: Méthodologie de test - RGAA
 permalink: "/publications/rgaa-accessibilite/methodologie-test/"
 menu:
   title: Méthodologie de test
-  weight: 41
+  weight: 51
 layout: rgaa-accessibilite
 ---
 
@@ -29,7 +29,7 @@ Les barres d'outils sont des extensions du navigateur qui vont faciliter le rep�
 
 * Web Accessibility Toolbar pour Internet Explorer (<https://developer.paciellogroup.com/resources/wat/>) : barre d'outils de vérification de certains points d'accessibilité d'un document ;
 * Web Developer Toolbar pour Firefox (<https://addons.mozilla.org/fr/firefox/addon/web-developer/>) : barre d'outils pour les développeurs qui peut aider à retrouver visuellement certains éléments dans un document pour en contrôler l'accessibilité ;
-* Web Developer Toolbar pour Chrome (<https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=fr>) : la même barre d'outils que précédemment, pour Chrome.
+* Web Developer Toolbar pour Chrome (<https://chrome.google.com/webstore/detail/web-developer/>) : la même barre d'outils que précédemment, pour Chrome.
 
 Au-delà de la simple barre d'outil, d'autres outils fournissent une analyse complète du document en signalant visuellement sur la page les erreurs d'accessibilité ou à l'inverse les éléments qui lui sont bénéfiques ; des filtres permettent alors souvent de n'afficher que certains de ces aspects. C'est ce que propose Wave, une solution disponible à la fois en ligne (<http://wave.webaim.org>) et comme extension de navigateur (<https://wave.webaim.org/extension/>).
 
@@ -504,7 +504,7 @@ En quoi finalement 1.5.1 est-il différent de 1.5.2 ? Les deux disent la même c
     * L'image et sa légende sont contenues dans une balise `<figure>` ;
     * La balise `<figure>` possède une propriété WAI-ARIA `role="figure"` ou `role="group"` ;
     * La balise `<figure>` possède un attribut WAI-ARIA `aria-label` dont le contenu est identique au contenu de la légende ;
-    * La légende est contenue dans une balise `<figcaption>`. 
+    * La légende est contenue dans une balise `<figcaption>`.
 3. Si c'est le cas pour chaque image, le test est validé.
 
 ##### Test 1.9.2
@@ -514,7 +514,7 @@ En quoi finalement 1.5.1 est-il différent de 1.5.2 ? Les deux disent la même c
     * L'image et sa légende sont contenues dans une balise `<figure>` ;
     * La balise `<figure>` possède une propriété WAI-ARIA `role="figure"` ou `role="group"` ;
     * La balise `<figure>` possède un attribut WAI-ARIA `aria-label` dont le contenu est identique au contenu de la légende ;
-    * La légende est contenue dans une balise `<figcaption>`. 
+    * La légende est contenue dans une balise `<figcaption>`.
 3. Si c'est le cas pour chaque image, le test est validé.
 
 ##### Test 1.9.3
@@ -848,7 +848,7 @@ Note : le critère est non applicable dans les situations où :
 1. Retrouver dans le document les médias non temporels associés à une alternative ;
 2. Pour chaque média non temporel, vérifier que :
     * La page référencée par le lien ou le bouton adjacent est accessible ;
-    * L'alternative dans la page, référencée par le lien ou le bouton adjacent, est accessible. 
+    * L'alternative dans la page, référencée par le lien ou le bouton adjacent, est accessible.
 3. Si c'est le cas pour chaque média non temporel, le test est validé.
 
 Note : le critère est non applicable dans les situations où :
@@ -1441,13 +1441,13 @@ Le cas des tableaux : à noter que ce test aborde les tableaux de présentation 
 
 ##### Test 10.1.1
 
-1. Vérifier l'absence des éléments de présentation `<basefont>`, `<blink>`, `<center>`, `<font>`, `<marquee>`, `<s>`, `<strike>`, `<tt>` ;
+1. Vérifier l'absence des éléments de présentation `<basefont>`, `<blink>`, `<center>`, `<font>`, `<marquee>`, `<s>`, `<strike>`, `<tt>`, `<big>` ;
 2. Vérifier l'absence de l'élément `<u>` uniquement si le DOCTYPE du document ne correspond pas à HTML 5 ;
 3. Si c'est le cas, le test est validé.
 
 ##### Test 10.1.2
 
-1. Vérifier l'absence des attributs de présentation : `align`, `alink`, `background`, `basefont`, `bgcolor`, `border`, `color`, `link`, `text`, `vlink`, `cellpadding`, `cellspacing`, `width` (exception faite de l'élément `<img>`), `height` (exception faite de l'élément `<img>`) ;
+1. Vérifier l'absence des attributs de présentation : `align`, `alink`, `background`, `basefont`, `bgcolor`, `border`, `cellpadding`, `cellspacing`, `char`, `charoff`, `clear`, `color`, `compact`, `frameborder`, `hspace`, `link`, `marginheight`, `marginwidth`, `text`, `valign`, `vlink`, `vspace`, `size`, `width` (exception faite des éléments `<img>`, `<object>`, `<embed>`, `<canvas>` et `<svg>`), `height` (exception faite des éléments `<img>`, `<object>`, `<embed>`, `<canvas>` et `<svg>`) ;
 2. Si c'est le cas, le test est validé.
 
 ##### Test 10.1.3
@@ -1480,18 +1480,13 @@ Le cas des tableaux : à noter que ce test aborde les tableaux de présentation 
 
 ##### Test 10.4.1
 
-1. Vérifier dans les styles l'absence de valeurs exprimées au moyen des unités de type `pt`, `pc`, `mm`, `cm` et `in` pour les types de média `screen`, `tv`, `handheld` et `projection` ;
-2. Si c'est le cas, le test est validé.
-
-##### Test 10.4.2
-
 1. Vérifier dans le document si les textes restent présents et lisibles lorsque :
     1. Le zoom texte du navigateur est réglé à 200% ;
     2. Le zoom graphique du navigateur est réglé à 200% ;
     3. Les fonctionnalités de zoom personnalisées proposé par le document sont utilisés.
 2. Si c'est le cas, le test est validé.
 
-##### Test 10.4.3
+##### Test 10.4.2
 
 1. Vérifier dans le document si les textes sont effectivement agrandis lorsque :
     1. Le zoom texte du navigateur est réglé à 200% ;
@@ -1535,7 +1530,8 @@ Le cas des tableaux : à noter que ce test aborde les tableaux de présentation 
 
 1. Retrouver dans le document les éléments de type lien (élément `<a>` ou élément pourvu d'un attribut WAI-ARIA `role="link"`) ;
 2. Pour chaque élément de type lien, s'il peut être confondu avec un texte normal lorsqu'il est signalé uniquement par la couleur, vérifier que le contraste entre la couleur de police du lien et la couleur de police du texte environnant est de 3:1, au moins ;
-3. Si c'est le cas pour chaque élément de type lien, le test est validé.
+3. Cette vérification doit être faite pour les différents états du lien s'ils sont présentés au moyen d'une couleur différente : l'état non visité, l'état visité, l'état activé, l'état au survol et l'état à la prise de focus ;
+4. Si c'est le cas pour chaque élément de type lien, le test est validé.
 
 #### Critère 10.7 Dans chaque page web, pour chaque élément recevant le focus, la prise de focus est-elle visible ?
 

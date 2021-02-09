@@ -4,19 +4,13 @@
             "section": "A",
             "dl": [
                 {
-                    "dt": "Accéder à chaque page de la collection de pages",
-                    "dd": [
-                        "Dans le cas où la collection de pages comporte un grand nombre de pages, il est habituel de présenter ces liens d'accès aux pages par groupes de liens, par séquences de 10 liens, par exemple. Cette pratique valide le test."
-                    ]
-                },
-                {
                     "dt": "Accessible et activable par le clavier et tout dispositif de pointage",
                     "dd": [
                         {
                             "ul": [
-                                "Un composant d'interface (lien, bouton, …) est accessible au clavier et par tout dispositif de pointage lorsque l'utilisateur peut prendre, indifféremment, le focus par un pointeur ou la touche tabulation.",
-                                "Un composant d'interface (lien, bouton, …) est activable au clavier et par tout dispositif de pointage lorsque l'utilisateur peut enclencher, indifféremment, l'action prévue par le composant d'interface par une pression du pointeur ou la touche entrée du clavier.",
-                                "Attention : pour certains composants d'interface comme les <span lang=\"en\">sliders</span> (bouton coulissant ou rotatif…), il n'est pas possible de contrôler le composant par la seule touche d'entrée. Dans ces situations, d'autres touches (comme les touches de direction) peuvent être utilisées. En particulier pour les éléments ayant un rôle WAI-ARIA correspondant à un motif de conception il est recommandé de considérer le document [WAI-ARIA 1.1 Authoring Practices lors de leur implémentation](http://www.w3.org/TR/wai-aria-practices/)."
+                                "Un composant d'interface (lien, bouton, …) est accessible au clavier et par tout dispositif de pointage lorsque l'utilisateur peut prendre, indifféremment, le focus par un pointeur ou la touche tabulation ;",
+                                "Un composant d'interface (lien, bouton, …) est activable au clavier et par tout dispositif de pointage lorsque l'utilisateur peut enclencher, indifféremment, l'action prévue par le composant d'interface par une pression du pointeur ou la touche entrée du clavier ;",
+                                "Attention : pour certains composants d'interface comme les `<span lang=\"en\">sliders</span>` (bouton coulissant ou rotatif…), il n'est pas possible de contrôler le composant par la seule touche d'entrée. Dans ces situations, d'autres touches (comme les touches de direction) peuvent être utilisées. En particulier pour les éléments ayant un rôle WAI-ARIA correspondant à un motif de conception il est recommandé de considérer le document [WAI-ARIA 1.1 Authoring Practices lors de leur implémentation](http://www.w3.org/TR/wai-aria-practices/)."
                             ]
                         },
                         "Dans le référentiel, l'expression « contrôlable par le clavier et tout dispositif de pointage » se rapporte également à la présente définition.",
@@ -31,13 +25,6 @@
                     ]
                 },
                 {
-                    "dt": "Alerte",
-                    "dd": [
-                        "Message d'alerte interrompant la navigation ou l'utilisation de la page, notamment en demandant de cliquer sur un bouton ou un lien pour continuer la navigation ou l'utilisation du contenu. Par exemple, une boîte de dialogue générée par JavaScript via la fonction `alert`. Par extension, une fenêtre modale (contenu présenté sous forme de « fenêtre » insérée ou affichée dans le DOM) qui nécessite d'être fermée pour continuer la navigation ou l'utilisation du contenu est considérée comme une alerte.",
-                        "Note : la désactivation des alertes concernées peut être proposée avant le déclenchement de l'alerte, par exemple, via un paramètre utilisateur ou lors de l'affichage de la première alerte, par exemple via une case à cocher « ne plus afficher cette alerte »."
-                    ]
-                },
-                {
                     "dt": "Alternative (à script)",
                     "dd": [
                         "Texte ou procédé associé au script via une technique appropriée et permettant de mettre à disposition une fonction ou un contenu similaire à celui proposé par script.",
@@ -45,21 +32,9 @@
                     ]
                 },
                 {
-                    "dt": "Alternative à une image SVG",
-                    "dd": [
-                        "Sont considérés comme des alternatives possibles à une image SVG :",
-                        {
-                            "ul": [
-                                "Un mécanisme de remplacement.",
-                                "Un lien ou bouton adjacent qui permet d'accéder à une alternative dont le contenu est pertinent, et identique à l'attribut WAI-ARIA `aria-label` et à l'attribut `title` de la balise `<svg>`, s'il est présent."
-                            ]
-                        }
-                    ]
-                },
-                {
                     "dt": "Alternative courte et concise",
                     "dd": [
-                        "Les conditions de restitution d'une alternative textuelle via des technologies d'assistance (par exemple une loupe d'écran) nécessitent qu'elle soit la plus courte possible. Une longueur maximale de 80 caractères est fortement recommandée ; elle limitera le nombre de manipulations nécessaires pour lire l'alternative par les utilisateurs de plages braille ou de loupes d'écran notamment."
+                        "Les conditions de restitution d'une alternative textuelle via des technologies d'assistance (par exemple une loupe d'écran) nécessitent qu'elle soit la plus courte possible. Une longueur maximale de 80 caractères est fortement recommandée ; elle limitera le nombre de manipulations nécessaires pour lire l'alternative par les utilisateurs de plages braille ou de loupes d'écran notamment."
                     ]
                 },
                 {
@@ -68,12 +43,12 @@
                         "« Nom accessible » restitué par les technologies d’assistance pour les éléments graphiques de type :",
                         {
                             "ul": [
-                                "Image (balise `<img>` ou balise possédant un attribut WAI-ARIA `role=\"img\"`);",
-                                "Zone d'image réactive (balise `<area>`);",
-                                "Bouton de type image (balise `<input>` avec l'attribut `type=\"image\"`);",
-                                "Image objet (balise `<object type=\"image/…\">`);",
-                                "Image vectorielle (balise `<svg>`);",
-                                "Image bitmap (balise `<canvas>`);",
+                                "Image (balise `<img>` ou balise possédant un attribut WAI-ARIA `role=\"img\"`) ;",
+                                "Zone d'image réactive (balise `<area>`) ;",
+                                "Bouton de type image (balise `<input>` avec l'attribut `type=\"image\"`) ;",
+                                "Image objet (balise `<object type=\"image/…\">`) ;",
+                                "Image vectorielle (balise `<svg>`) ;",
+                                "Image bitmap (balise `<canvas>`) ;",
                                 "Image embarquée (balise `<embed>`)."
                             ]
                         },
@@ -83,12 +58,12 @@
                                 "Passage de texte associé via l’attribut WAI-ARIA `aria-labelledby` pour les balises :",
                                 {
                                     "ul": [
-                                        "`<img>`;",
-                                        "`<input type=\"image\">`;",
-                                        "`<svg>`;",
-                                        "`<object type=\"image/…\">`;",
-                                        "`<embed type=\"image/…\">`;",
-                                        "`<canvas>`;",
+                                        "`<img>` ;",
+                                        "`<input type=\"image\">` ;",
+                                        "`<svg>` ;",
+                                        "`<object type=\"image/…\">` ;",
+                                        "`<embed type=\"image/…\">` ;",
+                                        "`<canvas>` ;",
                                         "balises possédant un attribut WAI-ARIA `role=\"img\"`."
                                     ]
                                 }
@@ -99,13 +74,13 @@
                                 "Sinon, contenu de l’attribut WAI-ARIA `aria-label` pour les balises :",
                                 {
                                     "ul": [
-                                        "`<img>`;",
-                                        "`<area>`;",
-                                        "`<input type=\"image\">`;",
-                                        "`<svg>`;",
-                                        "`<object type=\"image/…\">`;",
-                                        "`<embed type=\"image/…\">`;",
-                                        "`<canvas>`;",
+                                        "`<img>` ;",
+                                        "`<area>` ;",
+                                        "`<input type=\"image\">` ;",
+                                        "`<svg>` ;",
+                                        "`<object type=\"image/…\">` ;",
+                                        "`<embed type=\"image/…\">` ;",
+                                        "`<canvas>` ;",
                                         "balises possédant un attribut WAI-ARIA `role=\"img\"`."
                                     ]
                                 }
@@ -116,8 +91,8 @@
                                 "Sinon, contenu de l’attribut `alt` pour les balises :",
                                 {
                                     "ul": [
-                                        "`<img>`;",
-                                        "`<area>`;",
+                                        "`<img>` ;",
+                                        "`<area>` ;",
                                         "`<input type=\"image\">`."
                                     ]
                                 }
@@ -128,9 +103,9 @@
                                 "Sinon, contenu de l’attribut `title` pour les balises :",
                                 {
                                     "ul": [
-                                        "`<img>`;",
-                                        "`<input type=\"image\">`;",
-                                        "`<object type=\"image/…\">`;",
+                                        "`<img>` ;",
+                                        "`<input type=\"image\">` ;",
+                                        "`<object type=\"image/…\">` ;",
                                         "`<embed type=\"image/…\">`."
                                     ]
                                 }
@@ -141,7 +116,7 @@
                         "Par exemple :",
                         {
                             "ul": [
-                                "En cas de présence conjointe d'un attribut WAI-ARIA `aria-label` et d'un attribut WAI-ARIA `aria-labelledby` sur une balise `<img>`, c'est le passage de texte référencé par l'attribut WAI-ARIA `aria-labelledby` qui doit être considérée comme alternative textuelle si le contenu du passage de texte est réellement restitué par les technologies d’assistance utilisées dans l’environnement de test.",
+                                "En cas de présence conjointe d'un attribut WAI-ARIA `aria-label` et d'un attribut WAI-ARIA `aria-labelledby` sur une balise `<img>`, c'est le passage de texte référencé par l'attribut WAI-ARIA `aria-labelledby` qui doit être considérée comme alternative textuelle si le contenu du passage de texte est réellement restitué par les technologies d’assistance utilisées dans l’environnement de test ;",
                                 "En cas de présence conjointe d'un attribut WAI-ARIA `aria-label` et d'un attribut `alt` sur une balise `<img>`, c'est le contenu de l'attribut WAI-ARIA `aria-label` qui doit être considéré comme alternative textuelle si le contenu de l’attribut WAI-ARIA `aria-label` est réellement restitué par les technologies d’assistance utilisées dans l’environnement de test."
                             ]
                         },
@@ -149,7 +124,7 @@
                         "RGAA considère trois types d'alternatives textuelles liées à la nature de l'image :",
                         {
                             "ul": [
-                                "Pour une image porteuse d'information, l'alternative textuelle apporte l'information nécessaire à la compréhension du contenu qu'elle véhicule;",
+                                "Pour une image porteuse d'information, l'alternative textuelle apporte l'information nécessaire à la compréhension du contenu qu'elle véhicule ;",
                                 "Pour une image de décoration, aucune alternative textuelle ne doit être restituée ;",
                                 "Pour une image [CAPTCHA](#captcha) ou une [image-test](#image-test), l'alternative textuelle décrit seulement la nature et la fonction de l'image. En effet, l'alternative textuelle ne peut apporter l'information véhiculée par l'image sans rendre la fonction associée inopérante."
                             ]
@@ -158,19 +133,14 @@
                         "Note 2 : pour un groupe d'images, par exemple un système de vote constitué de plusieurs images d'étoile, il est fortement conseillé d'utiliser soit la première image du groupe pour donner une alternative cohérente au groupe d'image (voir la [technique WCAG2.1 G196](https://www.w3.org/WAI/WCAG21/Techniques/general/G196)), soit une balise conteneur pourvue d'un rôle WAI-ARIA `img` et d'une alternative textuelle. Dans le premier cas, les autres images du groupe sont considérées comme des images de décoration. Dans le second cas, toutes les images du groupe sont considérées comme des images de décoration.",
                         "Note 3 : pour les image-lien, l'alternative doit permettre de comprendre la fonction et la destination du lien ; ce cas est traité dans la thématique liens.",
                         "Note 4 : pour les images vectorielles (balise `<svg>`) l'alternative textuelle pourrait se trouver aussi présente dans une balise `<text>` que cette balise soit ou non visible, même si ce n'est pas le rôle dévolu à cet élément en SVG.",
-                        "Note 5 : l'utilisation de l'attribut `alt` étant la seule technique totalement supportée par les aides techniques il est recommandé de privilégier cette solution lors de la mise en œuvre d'une alternative à une balise `<img>`, `<area>` et `<input type=\"image\">`."
+                        "Note 5 : l'utilisation de l'attribut `alt` étant la seule technique totalement supportée par les aides techniques il est recommandé de privilégier cette solution lors de la mise en œuvre d'une alternative à une balise `<img>`, `<area>` et `<input type=\"image\">`.",
+                        "Note 6 : bien que l'attribut `title` soit considéré comme une possibilité d'alternative textuelle à une image, son usage peut poser problème, notamment du fait qu'une image avec un attribut `alt` absent ou vide est considérée comme une image pourvue d’un rôle \"présentation\" par WAI-ARIA : <https://www.w3.org/TR/html-aam-1.0/#details-id-54>. Il faut s'assurer que les assistances techniques présentes dans l’environnement de test retenu restituent correctement l'alternative proposée par l’attribut `title`."
                     ]
                 },
                 {
                     "dt": "Ambigu pour tout le monde",
                     "dd": [
-                        "L'intention ne peut être déterminée à partir du lien et de toute l'information de la page web présentée à l'utilisateur en même temps que ce lien. (c'est-à-dire qu'un lecteur sans limitation fonctionnelle ne connaîtrait pas la fonction d'un lien avant de l'activer). Exemple : le mot « goyave » dans la phrase suivante utilisé comme lien : « L'une des exportations importantes est la goyave ». Ce lien pourrait conduire à une définition de la goyave, à un graphe présentant une liste des quantités de goyaves exportées ou à une photo de personnes récoltant la goyave. Jusqu'à ce que le lien soit activé, tout utilisateur est dans l'incertitude et une personne handicapée n'est donc pas désavantagée."
-                    ]
-                },
-                {
-                    "dt": "Ancre",
-                    "dd": [
-                        "En HTML, une ancre (appelée aussi signet) est constituée d'une balise `<a>` avec l'attribut `id` et dépourvue de `href`, `<a id=\"contenu\"></a>` par exemple. Une ancre sert de cible à un lien de la forme `<a href=\"#id\">Intitulé</a>` : `<a href=\"#contenu\">Contenu</a>` par exemple."
+                        "L'intention ne peut être déterminée à partir du lien et de toute l'information de la page web présentée à l'utilisateur en même temps que ce lien (c'est-à-dire qu'un lecteur sans limitation fonctionnelle ne connaîtrait pas la fonction d'un lien avant de l'activer). Exemple : le mot « goyave » dans la phrase suivante utilisé comme lien : « L'une des exportations importantes est la goyave ». Ce lien pourrait conduire à une définition de la goyave, à un graphe présentant une liste des quantités de goyaves exportées ou à une photo de personnes récoltant la goyave. Jusqu'à ce que le lien soit activé, tout utilisateur est dans l'incertitude et une personne handicapée n'est donc pas désavantagée."
                     ]
                 },
                 {
@@ -194,18 +164,18 @@
                         "Les principales barres de navigation ([critère 12.2](#crit-12-2)) sont :",
                         {
                             "ul": [
-                                "Un menu de navigation;",
-                                "Un fil d'Ariane;",
-                                "Une liste de navigation d'une liste de résultats;",
+                                "Un menu de navigation ;",
+                                "Un fil d'Ariane ;",
+                                "Une liste de navigation d'une liste de résultats ;",
                                 "Des liens d'évitement."
                             ]
                         },
                         "Il existe différents types de menu de navigation ([critère 12.1](#crit-12-1) et [critère 12.2](#crit-12-2)) :",
                         {
                             "ul": [
-                                "Menu de navigation principal;",
-                                "Menu de sous-rubrique;",
-                                "Menu contextuel;",
+                                "Menu de navigation principal ;",
+                                "Menu de sous-rubrique ;",
+                                "Menu contextuel ;",
                                 "Table des matières concernant un ensemble de pages."
                             ]
                         },
@@ -219,8 +189,8 @@
                         "En HTML, il y a trois types de boutons de formulaire :",
                         {
                             "ul": [
-                                "Balise `<input>` de type `submit`, `reset` ou `button`;",
-                                "Balise `<input>` de type `image`;",
+                                "Balise `<input>` de type `submit`, `reset` ou `button` ;",
+                                "Balise `<input>` de type `image` ;",
                                 "Balise `<button>`."
                             ]
                         },
@@ -228,30 +198,30 @@
                         "L'intitulé du bouton peut être de six types :",
                         {
                             "ul": [
-                                "Le contenu du passage de texte associé au bouton via l'attribut WAI-ARIA `aria-labelledby` lorsqu'il est présent;",
-                                "Le contenu de l'attribut `aria-label` lorsqu'il est présent;",
-                                "Le contenu de l'attribut `alt` d'un bouton de type `image`;",
-                                "Le contenu de l'attribut `value` des boutons de type `submit`, `reset` ou `button`;",
-                                "Le contenu de la balise `<button>`;",
+                                "Le contenu du passage de texte associé au bouton via l'attribut WAI-ARIA `aria-labelledby` lorsqu'il est présent ;",
+                                "Le contenu de l'attribut `aria-label` lorsqu'il est présent ;",
+                                "Le contenu de l'attribut `alt` d'un bouton de type `image` ;",
+                                "Le contenu de l'attribut `value` des boutons de type `submit`, `reset` ou `button` ;",
+                                "Le contenu de la balise `<button>` ;",
                                 "Le contenu de l'attribut `title` lorsqu'il est présent."
                             ]
                         },
                         "Note importante : lorsque plusieurs de ces techniques sont présentes sur un même bouton, le calcul du « nom accessible », c'est-à-dire ce qui sera restitué, obéit à un ordre strict :",
                         {
                             "ol": [
-                                "`aria-labelledby`;",
-                                "Sinon `aria-label`;",
-                                "Sinon `alt` pour le cas des input `image`;",
-                                "Sinon `value` pour le cas des input `submit`, `reset` ou `button`;",
-                                "Sinon contenu de la balise `<button>`;",
+                                "`aria-labelledby` ;",
+                                "Sinon `aria-label` ;",
+                                "Sinon `alt` pour le cas des input `image` ;",
+                                "Sinon `value` pour le cas des input `submit`, `reset` ou `button` ;",
+                                "Sinon contenu de la balise `<button>` ;",
                                 "Sinon `title`."
                             ]
                         },
                         "Cet ordre doit être utilisé pour l'évaluation de la pertinence du « nom accessible » du bouton. Par exemple, même dans le cas de la présence d'un `title` et d'un passage de texte référencé par `aria-labelledby` sur le même bouton, c'est le passage de texte référencé par `aria-labelledby` qui doit être évalué.",
-                        "Référence : [Accessible name and description calculation](http://www.w3.org/TR/html-aam-1.0/#accessible-name-and-description-calculation).",
+                        "Référence : [Accessible name and description calculation](https://www.w3.org/TR/html-aam-1.0/#accessible-name-and-description-computation).",
                         "Par ailleurs, un « nom accessible » sera considéré comme non-pertinent s'il ne reprend pas le texte visible du bouton. Par exemple :",
                         "`<button aria-label=\"confirmer la saisie\">valider la saisie</button>`",
-                        "sera considéré comme non conforme au [critère 11.2](#crit-11-2)."
+                        "sera considéré comme non conforme au [critère 11.9](#crit-11-9)."
                     ]
                 }
             ]
@@ -279,9 +249,9 @@
                         "Quelques exemples :",
                         {
                             "ul": [
-                                "Trois champs successifs pour saisir une date (jour/mois/année);",
-                                "Champs successifs pour un numéro de téléphone.",
-                                "Un bloc destiné à saisir l'identité et l'adresse de l'utilisateur, lorsque le formulaire contient plusieurs blocs de contact;",
+                                "Trois champs successifs pour saisir une date (jour/mois/année) ;",
+                                "Champs successifs pour un numéro de téléphone ;",
+                                "Un bloc destiné à saisir l'identité et l'adresse de l'utilisateur, lorsque le formulaire contient plusieurs blocs de contact ;",
                                 "Un ensemble de boutons radio ou de cases à cocher qui se rapportent à une question."
                             ]
                         },
@@ -297,31 +267,31 @@
                                 "De saisir des données textuelles ou préformatées :",
                                 {
                                     "ul": [
-                                        "`input type=\"text\"`;",
-                                        "`input type=\"password\"`;",
-                                        "`input type=\"search\"`;",
-                                        "`input type=\"email\"`;",
-                                        "`input type=\"number\"`;",
-                                        "`input type=\"tel\"`;",
-                                        "`input type=\"url\"`;",
+                                        "`input type=\"text\"` ;",
+                                        "`input type=\"password\"` ;",
+                                        "`input type=\"search\"` ;",
+                                        "`input type=\"email\"` ;",
+                                        "`input type=\"number\"` ;",
+                                        "`input type=\"tel\"` ;",
+                                        "`input type=\"url\"` ;",
                                         "`textarea`."
                                     ]
                                 },
                                 "De sélectionner des valeurs prédéfinies :",
                                 {
                                     "ul": [
-                                        "`input type=\"checkbox\"`;",
-                                        "`input type=\"radio\"`;",
-                                        "`input type=\"date\"`;",
-                                        "`input type=\"range\"`;",
-                                        "`input type=\"color\"`;",
-                                        "`input type=\"time\"`;",
-                                        "`input type=\"month\"`;",
-                                        "`input type=\"week\"`;",
-                                        "`input type=\"datetime-local\"`;",
-                                        "`select`;",
-                                        "`datalist`;",
-                                        "`optgroup`;",
+                                        "`input type=\"checkbox\"` ;",
+                                        "`input type=\"radio\"` ;",
+                                        "`input type=\"date\"` ;",
+                                        "`input type=\"range\"` ;",
+                                        "`input type=\"color\"` ;",
+                                        "`input type=\"time\"` ;",
+                                        "`input type=\"month\"` ;",
+                                        "`input type=\"week\"` ;",
+                                        "`input type=\"datetime-local\"` ;",
+                                        "`select` ;",
+                                        "`datalist` ;",
+                                        "`optgroup` ;",
                                         "`option`."
                                     ]
                                 },
@@ -334,36 +304,36 @@
                                 "Ou d'afficher des résultats :",
                                 {
                                     "ul": [
-                                        "`output`;",
-                                        "`progress`;",
+                                        "`output` ;",
+                                        "`progress` ;",
                                         "`meter`."
                                     ]
                                 },
                                 "Les balises possédant un rôle WAI-ARIA permettant de restituer un champ de formulaire sont également couvertes par cette définition :",
                                 {
                                     "ul": [
-                                        "`progressbar`;",
-                                        "`slider`;",
-                                        "`spinbutton`;",
-                                        "`textbox`;",
-                                        "`listbox`;",
-                                        "`searchbox`;",
-                                        "`combobox`;",
-                                        "`option`;",
-                                        "`checkbox`;",
-                                        "`radio`;",
+                                        "`progressbar` ;",
+                                        "`slider` ;",
+                                        "`spinbutton` ;",
+                                        "`textbox` ;",
+                                        "`listbox` ;",
+                                        "`searchbox` ;",
+                                        "`combobox` ;",
+                                        "`option` ;",
+                                        "`checkbox` ;",
+                                        "`radio` ;",
                                         "`switch`."
                                     ]
                                 },
                                 "Les objets de formulaires et rôle WAI-ARIA suivants ne sont pas considérés comme des champs de formulaires :",
                                 {
                                     "ul": [
-                                        "`input type=\"submit\"`;",
-                                        "`input type=\"reset\"`;",
-                                        "`input type=\"hidden\"`;",
-                                        "`input type=\"image\"`;",
-                                        "`input type=\"button\"`;",
-                                        "`button`;",
+                                        "`input type=\"submit\"` ;",
+                                        "`input type=\"reset\"` ;",
+                                        "`input type=\"hidden\"` ;",
+                                        "`input type=\"image\"` ;",
+                                        "`input type=\"button\"` ;",
+                                        "`button` ;",
                                         "attribut WAI-ARIA `role=\"button\"`."
                                     ]
                                 }
@@ -374,7 +344,7 @@
                 {
                     "dt": "Changement brusque de luminosité ou effet de flash",
                     "dd": [
-                        "Alternance de luminosité relative qui peut causer des crises chez certaines personnes si leur taille est suffisamment importante dans une gamme de fréquences spécifiques."
+                        "Alternance de luminance relative qui peut causer des crises chez certaines personnes si leur taille est suffisamment importante dans une gamme de fréquences spécifiques."
                     ]
                 },
                 {
@@ -383,9 +353,9 @@
                         "Changements majeurs dans le contenu d'une page web qui, s'ils sont faits sans que l'utilisateur n'en soit conscient, peuvent désorienter l'utilisateur qui ne peut voir l'ensemble de la page en même temps. Les changements de contexte comprennent les changements :",
                         {
                             "ul": [
-                                "D'agent utilisateur;",
-                                "D'espace de restitution;",
-                                "De focus;",
+                                "D'agent utilisateur ;",
+                                "D'espace de restitution ;",
+                                "De focus ;",
                                 "De contenu qui modifie la signification de la page web."
                             ]
                         },
@@ -406,7 +376,7 @@
                         "Code de 2 caractères (ISO 639-1) ou 3 caractères (ISO 639-2 et suivants) permettant d'indiquer la langue d'un document ou d'un passage de texte. L'indication du code de langue est constituée de deux parties séparées par un tiret sur le modèle `lang=\"[code]-[option]\"`.",
                         {
                             "ul": [
-                                "[code] représente un code de langue valide sur 2 ou 3 caractères;",
+                                "[code] représente un code de langue valide sur 2 ou 3 caractères ;",
                                 "[option] est une indication laissée à l'appréciation de l'auteur."
                             ]
                         },
@@ -420,14 +390,14 @@
                         "Cela concerne, à la fois, la technologie, ses fonctionnalités et ses usages :",
                         {
                             "ul": [
-                                "La façon dont la technologie Web est utilisée doit être compatible avec les technologies d'assistance des utilisateurs. Cela signifie que la façon dont la technologie est utilisée a été testée dans une perspective d'interopérabilité avec des utilisateurs des technologies d'assistance dans la ou les langues du contenu;",
+                                "La façon dont la technologie Web est utilisée doit être compatible avec les technologies d'assistance des utilisateurs. Cela signifie que la façon dont la technologie est utilisée a été testée dans une perspective d'interopérabilité avec des utilisateurs des technologies d'assistance dans la ou les langues du contenu ;",
                                 "La technologie fonctionne de façon native dans des agents utilisateurs largement distribués qui sont, eux-mêmes, compatibles avec l'accessibilité (comme HTML et CSS) ou avec un module d'extension largement distribué qui est, lui-même, compatible avec l'accessibilité."
                             ]
                         },
                         "La vérification de la compatibilité avec les technologies d'assistance nécessite de réaliser un certain nombre de tests spécifiques à la technologie utilisée, par exemple :",
                         {
                             "ul": [
-                                "Vérifier le nom, le rôle, le paramétrage et les changements d'états des composants d'interface;",
+                                "Vérifier le nom, le rôle, le paramétrage et les changements d'états des composants d'interface ;",
                                 "Vérifier que la restitution d'un composant d'interface est correcte pour la ou les technologies d'assistance utilisées."
                             ]
                         }
@@ -457,14 +427,14 @@
                         "Les technologies d'assistance (notamment les lecteurs d'écran) ne restituent pas le contenu masqué via les propriétés :",
                         {
                             "ul": [
-                                "`display` avec la valeur `none` (`display: none`);",
-                                "`visibility` avec la valeur `hidden` (`visibility: hidden`);",
-                                "`font-size` avec la valeur 0 (`font-size:0`);",
-                                "Attribut HTML5 `hidden`;",
+                                "`display` avec la valeur `none` (`display: none`) ;",
+                                "`visibility` avec la valeur `hidden` (`visibility: hidden`) ;",
+                                "`font-size` avec la valeur 0 (`font-size:0`) ;",
+                                "Attribut HTML5 `hidden` ;",
                                 "Attribut WAI-ARIA `aria-hidden=\"true\"`."
                             ]
                         },
-                        "Tous les contenus utilisant une ou plusieurs de ces propriétés et attributs sont applicables pour le [critère 10.13](#crit-10-13)."
+                        "Tous les contenus utilisant une ou plusieurs de ces propriétés et attributs sont applicables pour le [critère 10.8](#crit-10-8)."
                     ]
                 },
                 {
@@ -477,41 +447,41 @@
                 {
                     "dt": "Contexte du lien",
                     "dd": [
-                        "Le contexte du lien représente les informations supplémentaires (on parle d'informations de contexte) qui peuvent être mises en relation par un programme informatique avec l'[intitulé du lien](#intitule-du-lien). Les informations de contexte qui permettent de compléter l'[intitulé du lien](#intitule-du-lien) sont les suivantes :",
+                        "Le contexte du lien représente les informations supplémentaires (on parle d'informations de contexte) qui peuvent être mises en relation par un programme informatique avec l'[intitulé du lien](#intitule-ou-nom-accessible-de-lien). Les informations de contexte qui permettent de compléter l'[intitulé du lien](#intitule-ou-nom-accessible-de-lien) sont les suivantes :",
                         {
                             "ul": [
-                                "Le contenu de la phrase dans laquelle le lien texte est présent;",
-                                "Le contenu du paragraphe (balise `<p>`) dans lequel le lien texte est présent;",
-                                "Le contenu de l'item de liste (balise `<li>`) ou le contenu d'un item de liste parent (balise `<li>`) dans lequel le lien texte est présent;",
-                                "Le contenu du titre (balise `<hx>`) précédent le lien texte;",
-                                "Le contenu de la ou les cellule(s) d'en-tête de tableau (balise(s) `<th>`) associée(s) à la cellule de donnée (balise `<td>`) dans laquelle le lien texte est présent;",
-                                "Le contenu de la cellule de donnée (balise `<td>`) dans laquelle le lien texte est présent;"
+                                "Le contenu de la phrase dans laquelle le lien texte est présent ;",
+                                "Le contenu du paragraphe (balise `<p>`) dans lequel le lien texte est présent ;",
+                                "Le contenu de l'item de liste (balise `<li>`) ou le contenu d'un item de liste parent (balise `<li>`) dans lequel le lien texte est présent ;",
+                                "Le contenu du titre (balise `<hx>`) précédent le lien texte ;",
+                                "Le contenu de la ou les cellule(s) d'en-tête de tableau (balise(s) `<th>`) associée(s) à la cellule de donnée (balise `<td>`) dans laquelle le lien texte est présent ;",
+                                "Le contenu de la cellule de donnée (balise `<td>`) dans laquelle le lien texte est présent."
                             ]
                         },
-                        "Note 1 : l'un des 6 contextes de lien combiné à l'[intitulé du lien](#intitule-du-lien) doit permettre de comprendre la fonction et la destination du lien.",
-                        "Note 2 : RGAA considère que des liens particuliers comme des liens de type `mailto` (qui génère un lien sous la forme d'une adresse email cliquable) sont suffisamment explicites et ne requièrent pas de signaler que l'action consiste à envoyer un email. L'attention des auteurs est appelée sur le fait que cette règle générale peut être adaptée au contexte, par exemple si la page contient plusieurs adresses email cliquables affectées de comportements différents (envoyer un email via le client de messagerie pour l'une, accéder à un formulaire pour l'autre) il peut être nécessaire de donner des informations complémentaires sur l'action du lien afin de différencier leurs comportements."
+                        "Note 1 : l'un des 6 contextes de lien combiné à l'[intitulé du lien](#intitule-ou-nom-accessible-de-lien) doit permettre de comprendre la fonction et la destination du lien.",
+                        "Note 2 : RGAA considére qu'une adresse e-mail de type `xxx@xxx.yyy` est un texte de lien suffisant pour comprendre la fonction du lien et ne requiert pas de signaler plus explicitement l’action."
                     ]
                 },
                 {
                     "dt": "Contraste",
                     "dd": [
-                        "Opposition marquée entre la luminosité d'une couleur de premier plan et d'une couleur d'arrière-plan. Le rapport de contraste est basé sur la différence de luminosité relative entre l'arrière-plan et le premier plan selon la règle : (L1 + 0,05) / (L2 + 0,05) où L1 est la luminosité relative la plus claire et L2 la luminosité relative la plus sombre. La luminosité est calculée selon la formule suivante : L = 0,2126 * R + 0,7152 * G + 0,0722 * B. Où R, G et B sont définis par :",
+                        "Opposition marquée entre la luminosité d'une couleur de premier plan et d'une couleur d'arrière-plan. Le rapport de contraste est basé sur la différence de luminance relative entre l'arrière-plan et le premier plan selon la règle : (L1 + 0,05) / (L2 + 0,05) où L1 est la luminance relative la plus claire et L2 la luminance relative la plus sombre. La luminosité est calculée selon la formule suivante : L = 0,2126 * R + 0,7152 * G + 0,0722 * B. Où R, G et B sont définis par :",
                         {
                             "ul": [
-                                "Si R<sub>sRGB</sub> <= 0,03928 alors R = R<sub>sRGB</sub>/12,92 sinon R = ((R<sub>sRGB</sub>+0,055)/1,055) ^ 2,4;",
-                                "Si G<sub>sRGB</sub> <= 0,03928 alors G = G<sub>sRGB</sub>/12,92 sinon G = ((G<sub>sRGB</sub>+0,055)/1,055) ^ 2,4;",
-                                "Si B<sub>sRGB</sub> <= 0,03928 alors B = B<sub>sRGB</sub>/12.92 sinon B = ((B<sub>sRGB</sub>+0,055)/1,055) ^ 2,4;"
+                                "Si R<sub>sRGB</sub> <= 0,03928 alors R = R<sub>sRGB</sub>/12,92 sinon R = ((R<sub>sRGB</sub>+0,055)/1,055) ^ 2,4 ;",
+                                "Si G<sub>sRGB</sub> <= 0,03928 alors G = G<sub>sRGB</sub>/12,92 sinon G = ((G<sub>sRGB</sub>+0,055)/1,055) ^ 2,4 ;",
+                                "Si B<sub>sRGB</sub> <= 0,03928 alors B = B<sub>sRGB</sub>/12.92 sinon B = ((B<sub>sRGB</sub>+0,055)/1,055) ^ 2,4."
                             ]
                         },
                         "et R<sub>sRGB</sub>, G<sub>sRGB</sub> et B<sub>sRGB</sub> sont définis par :",
                         {
                             "ul": [
-                                "R<sub>sRGB</sub> = R8bit/255;",
-                                "G<sub>sRGB</sub> = G8bit/255;",
+                                "R<sub>sRGB</sub> = R8bit/255 ;",
+                                "G<sub>sRGB</sub> = G8bit/255 ;",
                                 "B<sub>sRGB</sub> = B8bit/255."
                             ]
                         },
-                        "Le caractère « ^ » est l'opérateur exponentiel.",
+                        "Le caractère « ^ » est l'opérateur de puissance.",
                         "Note : la mesure de contraste concerne le texte, le texte en image, le texte et le texte en image dans les animations, le texte de sous-titrage et le texte incrusté dans les vidéos. Pour le texte et le texte en image dans les animations, le texte de sous-titrage et le texte incrusté dans les vidéos, la taille de la police doit être mesurée par rapport à la taille d'affichage par défaut (telle qu'affichée). Les textes présents dans les éléments d'une image ou d'une vidéo (par exemple un écriteau, une affiche etc.) ne sont pas concernés.",
                         "Source : [Procédure de calcul de contraste des WCAG (en anglais)](https://www.w3.org/WAI/WCAG21/Techniques/general/G18#procedure)."
                     ]
@@ -542,10 +512,8 @@
                                 "Liste des fonctionnalités obligatoires de contrôle de la consultation :",
                                 {
                                     "ul": [
-                                        "Liste des fonctionnalités obligatoires de contrôle de la consultation :",
-                                        "L'objet multimédia doit toujours avoir les fonctionnalités suivantes, au minimum : lecture, pause ou stop;",
-                                        "Si l'objet multimédia a du son, il doit avoir une fonctionnalité d'activation / désactivation du son;",
-                                        "Si l'objet multimédia a des sous-titres, il doit avoir une fonctionnalité de contrôle de l'apparition/disparition des sous-titres;",
+                                        "L'objet multimédia doit toujours avoir les fonctionnalités suivantes, au minimum : lecture, pause ou stop ;",
+                                        "Si l'objet multimédia a du son, il doit avoir une fonctionnalité d'activation / désactivation du son ;",
                                         "Si l'objet multimédia a une audiodescription, il doit avoir une fonctionnalité de contrôle de l'apparition/disparition de l'audiodescription."
                                     ]
                                 },
@@ -565,12 +533,12 @@
                 {
                     "dt": "Couleur d'arrière-plan contiguë et couleur contiguë",
                     "dd": [
-                        "Couleur d'arrière-plan contiguë : couleur d'arrière-plan directement en contact avec le bord extérieur du composant d'interface ou de l'élément graphique.",
+                        "Couleur d'arrière-plan contiguë : couleur d'arrière-plan directement en contact avec le bord extérieur du composant d'interface ou de l'[élément graphique](element-graphique).",
                         "Exemples :",
                         {
                             "ul": [
-                                "Pour un bouton blanc avec une bordure bleue sur un fond blanc, le fond blanc à l'extérieur de la bordure bleu correspond à la couleur d'arrière-plan contiguë;",
-                                "Pour un bouton rouge sur fond blanc, le fond blanc à l'extérieur du rouge correspond à la couleur d'arrière-plan contiguë;",
+                                "Pour un bouton blanc avec une bordure bleue sur un fond blanc, le fond blanc à l'extérieur de la bordure bleue correspond à la couleur d'arrière-plan contiguë ;",
+                                "Pour un bouton rouge sur fond blanc, le fond blanc à l'extérieur du rouge correspond à la couleur d'arrière-plan contiguë ;",
                                 "Pour un bouton blanc avec une bordure verte qui devient noire à la prise de focus et au survol, le fond blanc à l'extérieur de la bordure verte de l'état par défaut et de la bordure noire de l'état au survol et au focus correspond à la couleur d'arrière-plan contiguë."
                             ]
                         },
@@ -590,9 +558,9 @@
                         "Contenu associé à une image en complément de son alternative textuelle afin de décrire en totalité l'information véhiculée par l'image. La description détaillée peut être associée à l'image via :",
                         {
                             "ul": [
-                                "Un attribut `longdesc` qui contient l'adresse d'une page ou d'un emplacement dans la page contenant la description détaillée;",
-                                "Une référence à une description détaillée adjacente à l'image dans l'alternative textuelle;",
-                                "Un [lien ou un bouton adjacent](#lien-ou-bouton-adjacent) qui permet d'accéder à la description détaillée dans la page ou dans une autre page;",
+                                "Un attribut `longdesc` qui contient l'adresse d'une page ou d'un emplacement dans la page contenant la description détaillée ;",
+                                "Une référence à une description détaillée adjacente à l'image dans l'alternative textuelle ;",
+                                "Un [lien ou un bouton adjacent](#lien-ou-bouton-adjacent) qui permet d'accéder à la description détaillée dans la page ou dans une autre page ;",
                                 "Un ou plusieurs passages de texte identifiés par un id et liés par un attribut WAI-ARIA `aria-describedby` sur le modèle `aria-describedby=\"ID1 ID2 ID3…\"`."
                             ]
                         },
@@ -622,7 +590,7 @@
                 {
                     "dt": "En-tête de colonne ou de ligne",
                     "dd": [
-                        "Contenu d'une cellule dans un tableau de données (la première cellule d'une colonne ou d'une ligne, généralement) qui sert d'intitulé pour la totalité ou une partie des cellules de la colonne ou de la ligne. Une colonne ou une ligne peut contenir plusieurs en-têtes (en-tête intermédiaire). Lorsque les en-têtes s'appliquent à l'ensemble d'une ligne ou d'une colonne ils peuvent être structurés avec une balise `<th>` ou une balise pourvue d'un attribut WAI-ARIA `role=\"rowheader\"` ou `\"columnheader\"`. Dans le cas contraire seul une balise `<th>` peut être utilisée.",
+                        "Contenu d'une cellule dans un tableau de données (la première cellule d'une colonne ou d'une ligne, généralement) qui sert d'intitulé pour la totalité ou une partie des cellules de la colonne ou de la ligne. Une colonne ou une ligne peut contenir plusieurs en-têtes (en-tête intermédiaire). Lorsque les en-têtes s'appliquent à l'ensemble d'une ligne ou d'une colonne, ils peuvent être structurés avec une balise `<th>` ou une balise pourvue d'un attribut WAI-ARIA `role=\"rowheader\"` ou `role=\"columnheader\"`. Dans le cas contraire, seule une balise `<th>` peut être utilisée.",
                         "Note : seule la balise `<th>` étant totalement supportée par l'ensemble des technologies d'assistance, il est fortement recommandé de privilégier cette solution lors de la mise en oeuvre afin d'éviter de nombreuses vérifications dans les différentes combinaisons prévues dans l’environnement de test (ou « base de référence »)."
                     ]
                 },
@@ -632,10 +600,10 @@
                         "Tout environnement dans lequel l'accès à l'information, les technologies, les conditions d'utilisation et le profil des utilisateurs peuvent être connus et maîtrisés. Les principaux éléments dont la maîtrise est essentielle sont :",
                         {
                             "ul": [
-                                "Le type et la version des navigateurs;",
-                                "Les technologies supportées, leur version et leur activation (JavaScript, WAI-ARIA, Flash, Silverlight…);",
-                                "Les technologies d'assistance et tout dispositif utilisé de manière spécifique par les utilisateurs handicapés;",
-                                "Les systèmes d'exploitation et les APIs d'accessibilité supportées;",
+                                "Le type et la version des navigateurs ;",
+                                "Les technologies supportées, leur version et leur activation (JavaScript, WAI-ARIA, Flash, Silverlight…) ;",
+                                "Les technologies d'assistance et tout dispositif utilisé de manière spécifique par les utilisateurs handicapés ;",
+                                "Les systèmes d'exploitation et les APIs d'accessibilité supportées ;",
                                 "La formation des utilisateurs de technologies d'assistance à l'utilisation de tout dispositif particulier (interface, application en ligne…)."
                             ]
                         },
@@ -648,23 +616,23 @@
                         "Texte à proximité du champ de formulaire permettant d'en connaître la nature, le type ou le format des informations attendues. L'étiquette peut être associée au champ de formulaire de plusieurs manières :",
                         {
                             "ul": [
-                                "Par l'utilisation d'une balise `<label>`;",
-                                "Par l'utilisation de l'attribut WAI-ARIA `aria-label`;",
-                                "Par l'utilisation d'une liaison entre le texte et le champ par l'attribut WAI-ARIA `aria-labelledby`;",
+                                "Par l'utilisation d'une balise `<label>` ;",
+                                "Par l'utilisation de l'attribut WAI-ARIA `aria-label` ;",
+                                "Par l'utilisation d'une liaison entre le texte et le champ par l'attribut WAI-ARIA `aria-labelledby` ;",
                                 "Par l'utilisation de l'attribut `title`."
                             ]
                         },
                         "Note importante : lorsque plusieurs de ces techniques sont présentes sur un même champ, le calcul du « nom accessible », c'est-à-dire ce qui sera restitué, obéit à un ordre strict :",
                         {
                             "ol": [
-                                "`aria-labelledby`;",
-                                "Sinon `aria-label`;",
-                                "Sinon `<label>`;",
+                                "`aria-labelledby` ;",
+                                "Sinon `aria-label` ;",
+                                "Sinon `<label>` ;",
                                 "Sinon `title`."
                             ]
                         },
                         "Cet ordre doit être utilisé pour l'évaluation de la pertinence de l'étiquette ([critère 11.2](#crit-11-2)). Par exemple, même dans le cas de la présence d'un `<label>`, c'est le passage de texte référencé par `aria-labelledby` qui doit être pris en compte.",
-                        "Référence : [Accessible name and description calculation](http://www.w3.org/TR/html-aam-1.0/#accessible-name-and-description-calculation).",
+                        "Référence : [Accessible name and description calculation](https://www.w3.org/TR/html-aam-1.0/#accessible-name-and-description-computation).",
                         "Note importante au sujet de l'utilisation de `placeholder` : lorsque l'attribut `placeholder` est présent, il est susceptible d'être restitué à la place de l'attribut `title`. Par conséquent, lorsque ces deux attributs `title` et `placeholder` sont présents, ils doivent être identiques.",
                         "Note au sujet des étiquettes liées par `aria-labelledby` : Il s'agit d'un ou de plusieurs passages de texte identifiés par des `id` et liés par `aria-labelledby` sur le modèle suivant : `aria-labelledby=\"ID1 ID2 ID3…\"`. Pour assurer une compatibilité maximum avec les agents utilisateurs, notamment Internet Explorer 11, il est recommandé d'implémenter un `tabindex=\"-1\"` sur les passages de textes qui ne sont pas des éléments interactifs (bouton, liens, éléments de formulaires, etc.).",
                         "Note : l'attribut `aria-label` ne peut pas être utilisé pour indiquer le caractère obligatoire d'un champ."
@@ -711,35 +679,14 @@
             "section": "I",
             "dl": [
                 {
-                    "dt": "Indication de format obligatoire",
-                    "dd": [
-                        "Indication textuelle ou graphique (icône) permettant à l'utilisateur de savoir que la saisie d'un champ est obligatoire préalablement à la saisie.",
-                        "Note : Dans le cas où cette indication n'est pas réalisée de manière textuelle explicite (icône, *, !,...) l'explication de la signification de cette indication doit être visible et dans l'ordre du code source se situer avant la première utilisation de l'indication."
-                    ]
-                },
-                {
-                    "dt": "Indication du type de données et/ou de format",
-                    "dd": [
-                        "Indication textuelle permettant à l'utilisateur de savoir quel est le type de donnée et/ou le format de saisie requis par un champ obligatoire, préalablement à son renseignement.",
-                        "Exemples :",
-                        {
-                            "ul": [
-                                "Courriel (format : vous@domaine.com);",
-                                "Code postal (format : 00000);",
-                                "Date (format : JJ/MM/AAAA)."
-                            ]
-                        }
-                    ]
-                },
-                {
                     "dt": "Image de décoration",
                     "dd": [
                         "Image n'ayant aucune fonction et ne véhiculant aucune information particulière par rapport au contenu auquel elle est associée. Exemples :",
                         {
                             "ul": [
-                                "Une image précédant chaque item d'une liste;",
-                                "Une image servant à caler la mise en page;",
-                                "Une image de coin arrondie pour habiller un bloc d'information;",
+                                "Une image précédant chaque item d'une liste ;",
+                                "Une image servant à caler la mise en page ;",
+                                "Une image de coin arrondie pour habiller un bloc d'information ;",
                                 "Une image d'illustration n'apportant aucune information nécessaire à la compréhension du texte auquel elle est associée."
                             ]
                         },
@@ -760,7 +707,7 @@
                         "Note 2 : lorsqu'un bouton de formulaire, inséré avec l'élément `<button>`, ne contient qu'une image (balise `<img>`, `<object>`, `<embed>`, `<canvas>` ou `<svg>`), l'alternative de l'image est l'intitulé du bouton. Deux cas peuvent se présenter :",
                         {
                             "ul": [
-                                "Le bouton est contrôlé par son type, par exemple, le type `submit` ou `reset`, et fait partie d'un formulaire. Dans ce cas, le bouton image doit être évalué avec la thématique « Formulaires »;",
+                                "Le bouton est contrôlé par son type, par exemple, le type `submit` ou `reset`, et fait partie d'un formulaire. Dans ce cas, le bouton image doit être évalué avec la thématique « Formulaires » ;",
                                 "Le bouton est contrôlé par un dispositif JavaScript. Dans ce cas, le bouton image doit être évalué avec la thématique « Scripts »."
                             ]
                         }
@@ -771,7 +718,7 @@
                     "dd": [
                         {
                             "ul": [
-                                "Image réactive côté client (attribut `usemap`) : image divisée en zones cliquables ou neutres (attribut `nohref`);",
+                                "Image réactive côté client (attribut `usemap`) : image divisée en zones cliquables ou neutres (attribut `nohref`) ;",
                                 "Image réactive côté serveur (attribut `ismap`) : image pour laquelle le navigateur transmet au serveur les coordonnées du pointeur, chaque jeu de coordonnées correspondant à une ressource (page web). L'image réactive côté serveur est extrêmement rare."
                             ]
                         },
@@ -804,17 +751,38 @@
                     ]
                 },
                 {
+                    "dt": "Indication de champ obligatoire",
+                    "dd": [
+                        "Indication textuelle ou graphique (icône) permettant à l'utilisateur de savoir que la saisie d'un champ est obligatoire préalablement à la saisie.",
+                        "Note : Dans le cas où cette indication n'est pas réalisée de manière textuelle explicite (icône, \"*\", \"!\", etc.), l'explication de la signification de cette indication doit se situer, visuellement et dans l'ordre du code source, avant la première utilisation de l'indication."
+                    ]
+                },
+                {
                     "dt": "Indication donnée par la forme, la taille ou la position",
                     "dd": [
                         "Il peut s'agir, par exemple :",
                         {
                             "ul": [
-                                "De la présence d'un marqueur visuel, pour indiquer la page active dans un menu de navigation (indication donnée par la position);",
-                                "D'une mise en avant-plan pour indiquer un onglet actif (indication donnée par la forme);",
+                                "De la présence d'un marqueur visuel, pour indiquer la page active dans un menu de navigation (indication donnée par la position) ;",
+                                "D'une mise en avant-plan pour indiquer un onglet actif (indication donnée par la forme) ;",
                                 "D'une modification de la taille de police dans un nuage de tags (indication donnée par la taille)."
                             ]
                         },
                         "Ou de tout autre effet graphique similaire."
+                    ]
+                },
+                {
+                    "dt": "Indication du type de données et/ou de format",
+                    "dd": [
+                        "Indication textuelle permettant à l'utilisateur de savoir quel est le type de donnée et/ou le format de saisie requis par un champ obligatoire, préalablement à son renseignement.",
+                        "Exemples :",
+                        {
+                            "ul": [
+                                "Courriel (format : vous@domaine.com) ;",
+                                "Code postal (format : 00000) ;",
+                                "Date (format : JJ/MM/AAAA)."
+                            ]
+                        }
                     ]
                 },
                 {
@@ -825,8 +793,8 @@
                         "Les moyens de transmettre une information autrement que par la couleur peuvent être :",
                         {
                             "ul": [
-                                "Une indication textuelle visible;",
-                                "Un moyen faisant intervenir du graphisme (pictogramme, image de fond, forme, style de bordure différent, etc) et par le biais d'un complément au niveau du code (`aria-label`, `title`, texte masqué, `aria-current`, etc.);",
+                                "Une indication textuelle visible ;",
+                                "Un moyen faisant intervenir du graphisme (pictogramme, image de fond, forme, style de bordure différent, etc) et par le biais d'un complément au niveau du code (`aria-label`, `title`, texte masqué, `aria-current`, etc.) ;",
                                 "Un autre style typographique (gras, italique, taille de texte, autre police, etc) et par le biais d'un complément au niveau du code (`aria-label`, `title`, texte masqué, `aria-current`, etc.)."
                             ]
                         }
@@ -839,16 +807,16 @@
                         "Dans le cas d'un lien HTML, le « nom accessible » est obtenu selon l'ordre suivant :",
                         {
                             "ul": [
-                                "Passage de texte associé par l'attribut WAI-ARIA `aria-labelledby`;",
-                                "Sinon, contenu de l'attribut WAI-ARIA `aria-label`;",
-                                "Sinon, contenu du lien;",
+                                "Passage de texte associé par l'attribut WAI-ARIA `aria-labelledby` ;",
+                                "Sinon, contenu de l'attribut WAI-ARIA `aria-label` ;",
+                                "Sinon, contenu du lien ;",
                                 "Sinon, contenu de l'attribut `title`."
                             ]
                         },
                         "Cet ordre doit être utilisé pour déterminer ce qui constitue l'intitulé du lien. Par exemple :",
                         {
                             "ul": [
-                                "En cas de présence conjointe d'un attribut WAI-ARIA `aria-label` et d'un attribut WAI-ARIA `aria-labelledby`, c'est le passage de texte référencé par l'attribut WAI-ARIA `aria-labelledby` qui doit être considéré comme l'intitulé;",
+                                "En cas de présence conjointe d'un attribut WAI-ARIA `aria-label` et d'un attribut WAI-ARIA `aria-labelledby`, c'est le passage de texte référencé par l'attribut WAI-ARIA `aria-labelledby` qui doit être considéré comme l'intitulé ;",
                                 "En cas de présence conjointe d'un attribut WAI-ARIA `aria-label` et d'un contenu dans le lien, c'est le contenu de l'attribut WAI-ARIA `aria-label` qui doit être considéré comme l'intitulé."
                             ]
                         },
@@ -858,7 +826,7 @@
                         "En HTML, le « nom accessible » correspond au texte constitué à partir :",
                         {
                             "ul": [
-                                "Du texte contenu dans le lien;",
+                                "Du texte contenu dans le lien ;",
                                 "Du texte contenu dans les éléments enfants du lien."
                             ]
                         },
@@ -866,9 +834,9 @@
                         "En HTML, le « nom accessible » correspond au texte constitué à partir de l'alternative textuelle d'une ou plusieurs images dans le lien du type :",
                         {
                             "ul": [
-                                "Image (balise `<img>` ou balise ayant l'attribut WAI-ARIA `role=\"img\"`);",
-                                "Image objet (balise `<object>`);",
-                                "Image bitmap (balise `<canvas>`);",
+                                "Image (balise `<img>` ou balise ayant l'attribut WAI-ARIA `role=\"img\"`) ;",
+                                "Image objet (balise `<object>`) ;",
+                                "Image bitmap (balise `<canvas>`) ;",
                                 "Image vectorielle (balise `<svg>`)."
                             ]
                         },
@@ -876,39 +844,39 @@
                         "En HTML, le « nom accessible » correspond au texte constitué à partir de l'ensemble :",
                         {
                             "ul": [
-                                "Du texte contenu dans le lien;",
-                                "Du texte contenu dans les éléments enfant du lien;",
+                                "Du texte contenu dans le lien ;",
+                                "Du texte contenu dans les éléments enfant du lien ;",
                                 "Du contenu de l'alternative textuelle de la ou des images comprises dans le lien."
                             ]
                         },
                         "Dans le cas d'un lien SVG (version 1.1), le « nom accessible » est obtenu comme suit :",
                         {
                             "ul": [
-                                "Passage de texte associé par l'attribut WAI-ARIA `aria-labelledby`;",
-                                "Sinon, contenu de l'attribut WAI-ARIA `aria-label`;",
-                                "Sinon, contenu de l'élément `<title>` enfant direct du lien;",
-                                "Sinon, contenu de l'attribut `x-link:title`;",
+                                "Passage de texte associé par l'attribut WAI-ARIA `aria-labelledby` ;",
+                                "Sinon, contenu de l'attribut WAI-ARIA `aria-label` ;",
+                                "Sinon, contenu de l'élément `<title>` enfant direct du lien ;",
+                                "Sinon, contenu de l'attribut `xlink:title` ;",
                                 "Sinon, contenu texte d'un ou plusieurs éléments `<text>`."
                             ]
                         },
-                        "Il faut cependant être vigilant car cet algorithme de calcul n'est pas encore pris en compte et effectif au sein des différents lecteurs d'écran. A ce jour, le support est disponible avec VoiceOver, mais incomplet ou lacunaire avec JAWS et NVDA. Si bien que le plus petit dénominateur commun sur lequel il est possible de se reposer pour fournir un intitulé au lien est l'élément `<text>`.",
+                        "Il faut cependant être vigilant car cet algorithme de calcul n'est pas encore pris en compte et effectif au sein des différents lecteurs d'écran. À ce jour, le support est disponible avec VoiceOver, mais incomplet ou lacunaire avec JAWS et NVDA. Si bien que le plus petit dénominateur commun sur lequel il est possible de se reposer pour fournir un intitulé au lien est l'élément `<text>`.",
                         "Note 1 : un intitulé de lien sera considéré comme non-explicite dans le cas où le « nom accessible » ne reprend pas l'[intitulé visible](#intitule-visible) du lien.",
                         "Note 2 : en raison de la configuration possible des aides techniques permettant de forcer la restitution du « nom accessible » issu du contenu de l'attribut `title` au détriment du « nom accessible » issu du contenu du lien. Un intitulé de lien sera considéré comme non-explicite dans le cas où le lien possède un attribut `title` dont la valeur ne reprendrait pas au moins le « nom accessible » issu du contenu du lien.",
                         "Note 3 : dans le cas de la présence de plusieurs liens ayant une destination différente dont le « nom accessible » est identique. L'intitulé de lien seul sera considéré comme non-explicite si le contexte de lien ne permet pas de les différencier.",
-                        "Note 4 : lorsqu'un lien ne comporte aucun contenu (à l'exception des ancres), il sera non conforme au regard du [critère 10.2](#crit-10-2) et du [critère 6.4](#crit-6-4).",
-                        "Note 5 : bien que le calcul du nom accessible d’un lien tienne compte de contenus texte générés en CSS via les pseudo-éléments `::before` et `::after`, cette pratique ne doit pas être utilisée car elle constitue une non conformité au critère 1.3.1 des WCAG 2.1 (cf. [F87](https://www.w3.org/WAI/WCAG21/Techniques/failures/F87))."
+                        "Note 4 : lorsqu'un lien ne comporte aucun contenu, il sera non conforme au regard du [critère 10.2](#crit-10-2) et du [critère 6.2](#crit-6-2).",
+                        "Note 5 : bien que le calcul du nom accessible d’un lien tienne compte de contenus texte générés en CSS via les pseudo-éléments `::before` et `::after`, cette pratique ne doit pas être utilisée, car elle constitue une non-conformité au critère 1.3.1 des WCAG 2.1 (cf. [F87](https://www.w3.org/WAI/WCAG21/Techniques/failures/F87))."
                     ]
                 },
                 {
                     "dt": "Intitulé visible",
                     "dd": [
                         "Texte affiché faisant office d'intitulé visible à l'écran au sein d'un bouton ou d'un lien.",
-                        "Texte affiché faisant office d'étiquette pour un champ formulaire.",
+                        "Texte affiché faisant office d'[étiquette](#etiquette-de-champ-de-formulaire) pour un champ formulaire.",
                         "Ce texte peut être constitué de texte ou d'une image contenant du texte."
                     ]
                 },
                 {
-                    "dt": "Items de même nature des listes de choix",
+                    "dt": "Items de même nature d'une liste de choix",
                     "dd": [
                         "Dans une liste déroulante (balise `<select>`), ensemble d'items (balises `<option>`) pouvant être regroupés par leur nature. Le regroupement vise à identifier les items devant être traités comme un ensemble (par exemple, une liste de départements regroupés par régions)."
                     ]
@@ -921,15 +889,15 @@
                 {
                     "dt": "Landmarks",
                     "dd": [
-                        "WAI-ARIA propose des rôles permettant d'indiquer les zones principales (régions) du document. Ces rôles sont très profitables aux utilisateurs de lecteurs d'écran notamment, mais également aux utilisateurs de la navigation au clavier qui peuvent ainsi bénéficier de fonctionnalités de navigation rapide dans la structure du document.",
+                        "WAI-ARIA propose des rôles permettant d'indiquer les zones principales (régions) du document. Ces rôles sont très profitables aux utilisateurs de lecteurs d'écran notamment, mais également aux utilisateurs de la navigation au clavier qui peuvent ainsi bénéficier de fonctionnalités de navigation rapide dans la [structure du document](#structure-du-document).",
                         "Les rôles doivent être définis dans le document en fonction de la nature de la zone :",
                         {
                             "ul": [
-                                "La zone d'[en-tête](#en-tete) doit avoir un attribut WAI-ARIA `role=\"banner\"`;",
-                                "Le [menu de navigation](#menu-de-navigation) principal doit avoir un attribut WAI-ARIA `role=\"navigation\"`;",
-                                "La zone de [contenu principal](#contenu-principal) doit avoir un attribut WAI-ARIA `role=\"main\"`;",
-                                "La zone de [pied de page](#pied-de-page) doit avoir un attribut WAI-ARIA `role=\"contentinfo\"`;",
-                                "La zone de [moteur de recherche](#moteur-de-recherche) sur le site doit avoir un attribut WAI-ARIA `role=\"search\"`."
+                                "La zone d'[en-tête](#zone-d-en-tete) doit avoir un attribut WAI-ARIA `role=\"banner\"` ;",
+                                "Le [menu de navigation](#menu-et-barre-de-navigation) principal doit avoir un attribut WAI-ARIA `role=\"navigation\"` ;",
+                                "La zone de [contenu principal](#zone-de-contenu-principal) doit avoir un attribut WAI-ARIA `role=\"main\"` ;",
+                                "La zone de [pied de page](#zone-de-pied-de-page) doit avoir un attribut WAI-ARIA `role=\"contentinfo\"` ;",
+                                "La zone de [moteur de recherche](#moteur-de-recherche-interne-a-un-site-web) sur le site doit avoir un attribut WAI-ARIA `role=\"search\"`."
                             ]
                         },
                         "Note 1 : Si la plupart des lecteurs d'écran mettent à disposition ces fonctionnalités, les navigateurs n'ont pas encore proposé de fonctionnalité de navigation dédiée pour les utilisateurs qui ne peuvent pas utiliser la souris. La mise en place des liens d'évitement reste donc à privilégier par rapport aux landmarks.",
@@ -942,10 +910,10 @@
                         "Indication de la langue de traitement principale du document qui peut être présente sur l'élément racine `html` ou sur chaque élément de la page concerné via les attributs `lang` et/ou `xml:lang` selon le schéma suivant :",
                         {
                             "ul": [
-                                "Pour HTML jusqu'à la version 4.01 : attribut `lang` obligatoire, attribut `xml:lang` non supporté;",
-                                "Pour XHTML 1.0 servi en `\"text/html\"` : attribut `lang` et `xml:lang` obligatoires;",
-                                "Pour XHTML 1.0 servi en `\"application/xhtml+xml\"` : attribut `xml:lang` obligatoire, attribut `lang` recommandé;",
-                                "Pour XHTML 1.1 : attribut `xml:lang` obligatoire, attribut `lang` non supporté;",
+                                "Pour HTML jusqu'à la version 4.01 : attribut `lang` obligatoire, attribut `xml:lang` non supporté ;",
+                                "Pour XHTML 1.0 servi en `\"text/html\"` : attribut `lang` et `xml:lang` obligatoires ;",
+                                "Pour XHTML 1.0 servi en `\"application/xhtml+xml\"` : attribut `xml:lang` obligatoire, attribut `lang` recommandé ;",
+                                "Pour XHTML 1.1 : attribut `xml:lang` obligatoire, attribut `lang` non supporté ;",
                                 "Pour HTML5 : attribut `lang` obligatoire."
                             ]
                         }
@@ -971,7 +939,7 @@
                     "dt": "Légende",
                     "dd": [
                         "HTML propose un dispositif permettant de titrer les groupes de champs de même nature par l'intermédiaire des éléments `<fieldset>` et `<legend>`.",
-                        "Il est également possible de créer des regroupements avec le rôle WAI-ARIA `group` et un passage de texte, faisant office de légende, liée par l'attribut WAI-ARIA `aria-labelledby` ou implémentée par l'intermédiaire d'un attribut WAI-ARIA `aria-label`.",
+                        "Il est également possible de créer des regroupements avec le rôle WAI-ARIA `group` et un passage de texte, faisant office de légende, lié par l'attribut WAI-ARIA `aria-labelledby` ou fourni par un attribut WAI-ARIA `aria-label`.",
                         "Note 1 : Les regroupements de champs peuvent utiliser d'autres méthodes qui associent l'information du regroupement directement dans l'étiquette du champ. Par exemple, par l'intermédiaire d'un attribut `title`, d'un attribut WAI-ARIA `aria-label`, d'une liaison `aria-labelledby` faisant office d'étiquette ou encore par l'attribut WAI-ARIA `aria-describedby` associant un texte complémentaire. Dans ce cas, le regroupement de champs devient inutile puisque les labels sont suffisamment pertinents.",
                         "Note 2 : Lorsque le formulaire est constitué d'un seul bloc d'informations de même nature (l'identité et l'adresse de l'utilisateur, par exemple) ou d'un champ unique (un moteur de recherche, par exemple), le regroupement des champs n'est pas obligatoire."
                     ]
@@ -985,7 +953,7 @@
                         "Une image sans légende peut définir :",
                         {
                             "ul": [
-                                "Une image qui n'est pas insérée dans un élément `figure`;",
+                                "Une image qui n'est pas insérée dans un élément `figure` ;",
                                 "Une image insérée dans un élément `figure` sans élément `figcaption`."
                             ]
                         },
@@ -999,7 +967,7 @@
                         "En HTML :",
                         {
                             "ul": [
-                                "Balise `<a>` possédant un attribut `href`;",
+                                "Balise `<a>` possédant un attribut `href` ;",
                                 "Balise possédant un attribut WAI-ARIA `role=\"link\"` et dont l'action de navigation est prise en charge par un script."
                             ]
                         },
@@ -1023,10 +991,10 @@
                         "En HTML, [lien](#lien) contenant à la fois du texte et un ou plusieurs enfants de type image :",
                         {
                             "ul": [
-                                "Image (balise `<img>` ou balise ayant l'attribut WAI-ARIA `role=\"img\"`);",
-                                "Zone cliquable (balise `<area>`) possédant un attribut `href`;",
-                                "Image objet (balise `<object>`);",
-                                "Image bitmap (balise `<canvas>`);",
+                                "Image (balise `<img>` ou balise ayant l'attribut WAI-ARIA `role=\"img\"`) ;",
+                                "Zone cliquable (balise `<area>`) possédant un attribut `href` ;",
+                                "Image objet (balise `<object>`) ;",
+                                "Image bitmap (balise `<canvas>`) ;",
                                 "Image vectorielle (balise `<svg>`)."
                             ]
                         },
@@ -1037,7 +1005,7 @@
                 {
                     "dt": "Lien dont la nature n'est pas évidente",
                     "dd": [
-                        "Lien qui peut être confondu avec un texte normal lorsqu'il est signalé uniquement par la couleur par certains types d'utilisateurs ne percevant pas ou mal les couleurs. Par exemple, dans ce texte \"Nouvelle grève à la SNCF\", si le mot \"grève\" est un lien signalé uniquement par la couleur, sa nature peut être ignorée par les utilisateurs ne percevant pas la couleur et accédant au contenu CSS activé. En revanche, dans ce texte \"Nouvelle grève à la SNCF, lire la suite\" si \"lire la suite\" est un lien, un utilisateur ne percevant pas les couleurs n'aura pas de problème pour en comprendre la nature.",
+                        "Lien qui peut être confondu avec un texte normal lorsqu'il est signalé uniquement par la couleur par certains types d'utilisateurs ne percevant pas ou mal les couleurs. Par exemple, dans ce texte \"Nouvelle grève à la SNCF\", si le mot \"grève\" est un lien signalé uniquement par la couleur, sa nature peut être ignorée par les utilisateurs ne percevant pas la couleur et accédant au contenu CSS activé.",
                         "Note : \"signalés uniquement par la couleur\" signifie que le lien n'est accompagné d'aucun marqueur visuel (icône, soulignement, bordure…). En conséquence un lien de la même couleur que le texte environnant est concerné par ce critère."
                     ]
                 },
@@ -1047,10 +1015,10 @@
                         "En HTML, [lien](#lien) contenant uniquement un ou plusieurs enfants de type image :",
                         {
                             "ul": [
-                                "Image (balise `<img>` ou balise ayant l'attribut WAI-ARIA `role=\"img\"`);",
-                                "Zone cliquable (balise `<area>`) possédant un attribut `href`;",
-                                "Image objet (balise `<object>`);",
-                                "Image bitmap (balise `<canvas>`);",
+                                "Image (balise `<img>` ou balise ayant l'attribut WAI-ARIA `role=\"img\"`) ;",
+                                "Zone cliquable (balise `<area>`) possédant un attribut `href` ;",
+                                "Image objet (balise `<object>`) ;",
+                                "Image bitmap (balise `<canvas>`) ;",
                                 "Image vectorielle (balise `<svg>`)."
                             ]
                         }
@@ -1062,9 +1030,9 @@
                         "En HTML, [lien](#lien) ne contenant aucun élément enfant de type :",
                         {
                             "ul": [
-                                "Image (balise `<img>` ou balise ayant l'attribut WAI-ARIA `role=\"img\"`);",
-                                "Image objet (balise `<object>`);",
-                                "Image bitmap (balise `<canvas>`);",
+                                "Image (balise `<img>` ou balise ayant l'attribut WAI-ARIA `role=\"img\"`) ;",
+                                "Image objet (balise `<object>`) ;",
+                                "Image bitmap (balise `<canvas>`) ;",
                                 "Image vectorielle (balise `<svg>`)."
                             ]
                         }
@@ -1074,15 +1042,8 @@
                     "dt": "Liens d'évitement ou d'accès rapide",
                     "dd": [
                         "Liens dont la fonction est de permettre de naviguer à l'intérieur de la page (lien d'évitement, lien d'accès au formulaire de recherche ou au menu…). Ces liens peuvent soit permettre d'accéder à une zone de la page (lien d'accès rapide) ou de sauter une zone dans la page (lien d'évitement).",
-                        "Note 1 : Un lien d'évitement ou d'accès rapide dont l'activation ne permettrait pas de reprendre la lecture et la navigation clavier à partir de la cible du lien lors de l'utilisation des navigateurs et des aides techniques retenus dans l’environnement de test (ou « base de référence ») de l'audit serait considéré comme non conforme.",
+                        "Note 1 : Un lien d'évitement ou d'accès rapide fonctionnel est un lien dont l'activation permet de reprendre la lecture et la navigation clavier à partir de la cible du lien lors de l'utilisation des navigateurs et des aides techniques retenus dans l’environnement de test (ou « base de référence ») de l'audit.",
                         "Note 2 : les liens d'évitements ou d'accès rapide doivent être situés à la même place dans la présentation et dans le même ordre relatif dans le code source afin de satisfaire au [critère 12.2](#crit-12-2)."
-                    ]
-                },
-                {
-                    "dt": "Liens identiques",
-                    "dd": [
-                        "Deux liens sont dits identiques quand le lien x (intitulé du lien seul, contenu de l'attribut title ou contexte du lien) est égal au lien y. Cette définition s'applique à tous les types de liens : lien texte, lien image (les liens ont alors la même image) et lien composite.",
-                        "Attention : des liens avec des intitulés identiques mais des titres de liens différents ou des contextes de liens différents ne sont pas identiques (exemple : `<a href=\"lien_bar.html\" title=\"cliquer ici pour télécharger la barre d'outils\">cliquer ici</a>` et `<a href=\"lien_doc.html\" title=\"cliquer ici pour télécharger le document\">cliquer ici</a>`)."
                     ]
                 },
                 {
@@ -1092,10 +1053,10 @@
                         "Dans le cas d'un lien SVG (version 1.1), le « nom accessible » est obtenu comme suit :",
                         {
                             "ul": [
-                                "Passage de texte associé par l'attribut WAI-ARIA `aria-labelledby`;",
-                                "Sinon, contenu de l'attribut WAI-ARIA `aria-label`;",
-                                "Sinon, contenu de l'élément `<title>` enfant direct du lien;",
-                                "Sinon, contenu de l'attribut `x-link:title`;",
+                                "Passage de texte associé par l'attribut WAI-ARIA `aria-labelledby` ;",
+                                "Sinon, contenu de l'attribut WAI-ARIA `aria-label` ;",
+                                "Sinon, contenu de l'élément `<title>` enfant direct du lien ;",
+                                "Sinon, contenu de l'attribut `xlink:title` ;",
                                 "Sinon, contenu texte d'un ou plusieurs éléments `<text>`."
                             ]
                         },
@@ -1105,22 +1066,22 @@
                 {
                     "dt": "Listes",
                     "dd": [
-                        "Suite d'éléments pouvant être regroupés sous la forme d'une liste structurée ordonnée, non ordonnée ou de définition. Par exemple la suite des liens d'un menu de navigation est une liste de liens non ordonnée, les différentes étapes d'une procédure est une liste d'éléments ordonnés, le couple terme/description d'un glossaire est une liste de description. En HTML, les listes utilisent les balises suivantes :",
+                        "Suite d'éléments pouvant être regroupés sous la forme d'une liste structurée ordonnée, non ordonnée ou de définition. Par exemple la suite des liens d'un menu de navigation est une liste de liens non ordonnée, les différentes étapes d'une procédure sont une liste d'éléments ordonnés, le couple terme/description d'un glossaire est une liste de description. En HTML, les listes utilisent les balises suivantes :",
                         {
                             "ul": [
-                                "Liste ordonnée : balises `<ol>` et `<li>` (chaque élément de la liste est affecté d'un marqueur indexé);",
-                                "Liste non ordonnée : balises `<ul>` et `<li>` (chaque élément de la liste est affecté d'un marqueur non-indexé;",
+                                "Liste ordonnée : balises `<ol>` et `<li>` (chaque élément de la liste est affecté d'un marqueur indexé) ;",
+                                "Liste non ordonnée : balises `<ul>` et `<li>` (chaque élément de la liste est affecté d'un marqueur non-indexé ;",
                                 "Liste de description : balises `<dl>`, `<dt>` (terme à décrire) et `<dd>` (description)."
                             ]
                         },
                         "Note 1 : En HTML5, la balise `<dl>` ne représente plus seulement une liste de définition, mais de manière générique toute liste de description qui peut comprendre comme groupe de termes-descriptions des noms et des définitions, des questions et réponses, des catégories et des sujets, etc.",
-                        "Note 2 : Il est également possible de structurer les listes à l'aides des attributs WAI-ARIA `role=\"list\"` et `role=\"listitem\"` pour les listes ordonnées et non ordonnées.",
-                        "Note 3 : la notion de « regroupées visuellement sous forme de liste » se caractérise par :",
+                        "Note 2 : Il est également possible de structurer les listes à l'aide des attributs WAI-ARIA `role=\"list\"` et `role=\"listitem\"` pour les listes ordonnées et non ordonnées.",
+                        "Note 3 : la notion de « regroupés visuellement sous forme de liste » se caractérise par :",
                         {
                             "ul": [
-                                "La présence d’un marqueur visuel permettant de faire comprendre qu’il s’agit d’une liste non ordonnée par exemple -, •, *, etc.;",
-                                "La présence d’un marqueur visuel permettant de faire comprendre qu’il s’agit d’une liste ordonnée par exemple un chiffre, une lettre grecque, etc.;",
-                                "La présence d’une série d’éléments se suivant visuellement les uns les autres, avec une forme visuelle, une nature et un fonctionnement identique, mais sans avoir directement de marqueur visuel de liste (non ordonnée ou ordonnée), comme par exemple un menu de navigation."
+                                "La présence d’un marqueur visuel permettant de faire comprendre qu’il s’agit d’une liste non ordonnée par exemple -, •, *, etc. ;",
+                                "La présence d’un marqueur visuel permettant de faire comprendre qu’il s’agit d’une liste ordonnée par exemple un chiffre, une lettre grecque, etc. ;",
+                                "La présence d’une série d’éléments se suivant visuellement les uns les autres, avec une forme visuelle, une nature et un fonctionnement identique, mais sans avoir directement de marqueur visuel de liste (non ordonnée ou ordonnée), par exemple un menu de navigation."
                             ]
                         },
                         "Attention cependant toutes les listes ne nécessitent pas obligatoirement une structure de liste, par exemple une série de termes séparés par une virgule."
@@ -1132,58 +1093,58 @@
                         "[La liste des valeurs](https://www.w3.org/TR/WCAG21/#input-purposes) disponibles est fournie par la spécification WCAG 2.1 :",
                         {
                             "ul": [
-                                "`name` - Nom complet;",
-                                "`honorific-prefix` - Abréviation, civilité ou titre;",
-                                "`given-name` - Prénom;",
-                                "`additional-name` - Prénoms additionnels;",
-                                "`family-name` - Nom de famille;",
-                                "`honorific-suffix` - Suffixe honorifique;",
-                                "`nickname` - Surnom, diminutif;",
-                                "`organization-title` - Fonction, intitulé de poste;",
-                                "`username` - Nom d'utilisateur;",
-                                "`new-password` - Nouveau mot de passe (par exemple, lors de la création d'un compte ou d'un changement de mot de passe)",
-                                "`current-password` - Mot de passe actuel pour le compte identifié par le champ username (par exemple, lors d'une connexion)",
-                                "`organization` - Nom de l'organisation correspondant à la personne, à l'adresse ou à l'information de contact dans les autres champs associés avec ce champ",
-                                "`street-address` - Adresse postale (multiligne, nouvelles lignes conservées)",
-                                "`address-line1` - Adresse postale (une ligne par champ, ligne 1)",
-                                "`address-line2` - Adresse postale (une ligne par champ, ligne 2)",
-                                "`address-line3` - Adresse postale (une ligne par champ, ligne 3)",
-                                "`address-level4` - Le niveau administratif le plus détaillé, pour les adresses pourvues de quatre niveaux administratifs",
-                                "`address-level3` - Le troisième niveau administratif, pour les adresses pourvues d'au moins trois niveaux administratifs",
-                                "`address-level2` - Le deuxième niveau administratif, pour les adresses pourvues d'au moins deux niveaux administratifs",
-                                "`address-level1` - Le plus large niveau administratif d'une adresse, c'est-à-dire la province dans laquelle se trouve la localité",
-                                "`country` - Code pays",
-                                "`country-name` - Nom de pays",
-                                "`postal-code` - Code postal, code CEDEX (si le CEDEX est présent, ajouter \"CEDEX\", et ce qui le suit doit être ajouté dans le champ address-level2)",
-                                "`cc-name` - Nom complet figurant sur le moyen de paiement",
-                                "`cc-given-name` - Prénom figurant sur le moyen de paiement",
-                                "`cc-additional-name` - Prénoms additionnels figurant sur le moyen de paiement cc-family-name - Nom de famille figurant sur le moyen de paiement",
-                                "`cc-number` - Code identifiant le moyen de paiement (e.g., un numéro de carte bancaire)",
-                                "`cc-exp` - Date d'expiration du moyen de paiement",
-                                "`cc-exp-month` - Le mois de la date d'expiration du moyen de paiement",
-                                "`cc-exp-year` - L'année de la date d'expiration du moyen de paiement",
-                                "`cc-csc` - Code de sécurité du moyen de paiement (also known as the card security code (CSC), card validation code (CVC), card verification value (CVV), signature panel code (SPC), credit card ID (CCID), etc)",
-                                "`cc-type` - Type de moyen de paiement (e.g. Visa)",
-                                "`transaction-currency` - La devise qui a la préférence de l'utilisateur lors d'une transaction",
-                                "`transaction-amount` - Le montant qui a la préférence de l'utilisateur lors d'une transaction (e.g., en réponse à une enchère ou à un prix soldé)",
-                                "`language` - Langage préféré",
-                                "`bday` - Date d'anniversaire",
-                                "`bday-day` - Le jour de la date d'anniversaire",
-                                "`bday-month` - Le mois de la date d'anniversaire",
-                                "`bday-year` - L'année de la date d'anniversaire",
-                                "`sex` - Identité sexuelle",
-                                "`url` - Page d'accueil ou une autre page Web correspondant à l'organisation, la personne, l'adresse ou à l'information de contact dans les autres champs associés avec ce champ",
-                                "`photo` - Photographie, icone ou une autre image correspondant à l'organisation, la personne, l'adresse ou à l'information de contact dans les autres champs associés avec ce champ",
-                                "`tel` - Numéro de téléphone complet, y compris le code pays",
-                                "`tel-country-code` - Code pays du numéro de téléphone",
-                                "`tel-national` - Numéro de téléphone sans la partie code pays, avec un préfixe interne au pays, s'il y a lieu.",
-                                "`tel-area-code` - Indicatif régional du numéro de téléphone, avec un préfixe interne au pays, s'il y a lieu.",
-                                "`tel-local` - Numéro de téléphone sans la partie code pays ni l'indicatif régional.",
-                                "`tel-local-prefix` - La première partie du composant du numéro de téléphone qui suit l'indicatif régional, lorsque ce composant est scindé en deux parties",
-                                "`tel-local-suffix` - La seconde partie du composant du numéro de téléphone qui suit l'indicatif régional, lorsque ce composant est scindé en deux parties",
-                                "`tel-extension` - Numéro de téléphone d'un poste interne",
-                                "`email` - Adresse électronique",
-                                "`impp` - URL correspondant d'un protocole de messagerie instantanée (par exemple, `\"aim:goim?screenname=example\"` ou `\"xmpp:fred@example.net\"`)"
+                                "`name` - Nom complet ;",
+                                "`honorific-prefix` - Abréviation, civilité ou titre ;",
+                                "`given-name` - Prénom ;",
+                                "`additional-name` - Prénoms additionnels ;",
+                                "`family-name` - Nom de famille ;",
+                                "`honorific-suffix` - Suffixe honorifique ;",
+                                "`nickname` - Surnom, diminutif ;",
+                                "`organization-title` - Fonction, intitulé de poste ;",
+                                "`username` - Nom d'utilisateur ;",
+                                "`new-password` - Nouveau mot de passe (par exemple, lors de la création d'un compte ou d'un changement de mot de passe) ;",
+                                "`current-password` - Mot de passe actuel pour le compte identifié par le champ username (par exemple, lors d'une connexion) ;",
+                                "`organization` - Nom de l'organisation correspondant à la personne, à l'adresse ou à l'information de contact dans les autres champs associés avec ce champ ;",
+                                "`street-address` - Adresse postale (multiligne, nouvelles lignes conservées) ;",
+                                "`address-line1` - Adresse postale (une ligne par champ, ligne 1) ;",
+                                "`address-line2` - Adresse postale (une ligne par champ, ligne 2) ;",
+                                "`address-line3` - Adresse postale (une ligne par champ, ligne 3) ;",
+                                "`address-level4` - Le niveau administratif le plus détaillé, pour les adresses pourvues de quatre niveaux administratifs ;",
+                                "`address-level3` - Le troisième niveau administratif, pour les adresses pourvues d'au moins trois niveaux administratifs ;",
+                                "`address-level2` - Le deuxième niveau administratif, pour les adresses pourvues d'au moins deux niveaux administratifs ;",
+                                "`address-level1` - Le plus large niveau administratif d'une adresse, c'est-à-dire la province dans laquelle se trouve la localité ;",
+                                "`country` - Code pays ;",
+                                "`country-name` - Nom de pays ;",
+                                "`postal-code` - Code postal, code CEDEX (si le CEDEX est présent, ajouter \"CEDEX\", et ce qui le suit doit être ajouté dans le champ address-level2) ;",
+                                "`cc-name` - Nom complet figurant sur le moyen de paiement ;",
+                                "`cc-given-name` - Prénom figurant sur le moyen de paiement ;",
+                                "`cc-additional-name` - Prénoms additionnels figurant sur le moyen de paiement cc-family-name - Nom de famille figurant sur le moyen de paiement ;",
+                                "`cc-number` - Code identifiant le moyen de paiement (e.g., un numéro de carte bancaire) ;",
+                                "`cc-exp` - Date d'expiration du moyen de paiement ;",
+                                "`cc-exp-month` - Le mois de la date d'expiration du moyen de paiement ;",
+                                "`cc-exp-year` - L'année de la date d'expiration du moyen de paiement ;",
+                                "`cc-csc` - Code de sécurité du moyen de paiement (also known as the card security code (CSC), card validation code (CVC), card verification value (CVV), signature panel code (SPC), credit card ID (CCID), etc.) ;",
+                                "`cc-type` - Type de moyen de paiement (e.g. Visa) ;",
+                                "`transaction-currency` - La devise qui a la préférence de l'utilisateur lors d'une transaction ;",
+                                "`transaction-amount` - Le montant qui a la préférence de l'utilisateur lors d'une transaction (e.g., en réponse à une enchère ou à un prix soldé) ;",
+                                "`language` - Langage préféré ;",
+                                "`bday` - Date d'anniversaire ;",
+                                "`bday-day` - Le jour de la date d'anniversaire ;",
+                                "`bday-month` - Le mois de la date d'anniversaire ;",
+                                "`bday-year` - L'année de la date d'anniversaire ;",
+                                "`sex` - Identité sexuelle ;",
+                                "`url` - Page d'accueil ou une autre page Web correspondant à l'organisation, la personne, l'adresse ou à l'information de contact dans les autres champs associés avec ce champ ;",
+                                "`photo` - Photographie, icone ou une autre image correspondant à l'organisation, la personne, l'adresse ou à l'information de contact dans les autres champs associés avec ce champ ;",
+                                "`tel` - Numéro de téléphone complet, y compris le code pays ;",
+                                "`tel-country-code` - Code pays du numéro de téléphone ;",
+                                "`tel-national` - Numéro de téléphone sans la partie code pays, avec un préfixe interne au pays, s'il y a lieu ;",
+                                "`tel-area-code` - Indicatif régional du numéro de téléphone, avec un préfixe interne au pays, s'il y a lieu ;",
+                                "`tel-local` - Numéro de téléphone sans la partie code pays ni l'indicatif régional ;",
+                                "`tel-local-prefix` - La première partie du composant du numéro de téléphone qui suit l'indicatif régional, lorsque ce composant est scindé en deux parties ;",
+                                "`tel-local-suffix` - La seconde partie du composant du numéro de téléphone qui suit l'indicatif régional, lorsque ce composant est scindé en deux parties ;",
+                                "`tel-extension` - Numéro de téléphone d'un poste interne ;",
+                                "`email` - Adresse électronique ;",
+                                "`impp` - URL correspondant d'un protocole de messagerie instantanée (par exemple, `\"aim:goim?screenname=example\"` ou `\"xmpp:fred@example.net\"`)."
                             ]
                         }
                     ]
@@ -1202,33 +1163,33 @@
                 {
                     "dt": "Mécanisme qui permet d'afficher un rapport de contraste conforme",
                     "dd": [
-                        "Composant d’interface dont l’activation permet de modifier l’apparence du site ou de la page de manière à afficher les contenus avec un ratio de contraste suffisant. Le design de ce composant d’interface devra être conforme au [critère 3.2](#crit-3-2) et au [critère 3.3](#crit-3-3) sans avoir recours lui-même à un mécanisme permettant d’afficher un rapport de contraste conforme."
+                        "Composant d’interface dont l’activation permet de modifier l’apparence du site ou de la page de manière à afficher les contenus avec un ratio de contraste suffisant. Le design de ce composant d’interface devra être conforme au [critère 3.2](#crit-3-2) et au [critère 3.3](#crit-3-3) sans avoir recours lui-même à un mécanisme permettant d’afficher un rapport de contraste conforme. Ce mécanisme doit conserver à l'identique les contenus et les fonctionnalités du site ou de la page qu'il modifie."
                     ]
                 },
                 {
                     "dt": "Média non temporel",
                     "dd": [
-                        "Contenu qui ne se déroule pas dans le temps, consultable via un plugin (Flash, Java, Silverlight…) ou via les éléments `svg` et `canvas` ; par exemple, une carte interactive en Flash, une application Flash ou Java, un diaporama sont des médias non temporels. Un média non temporel peut contenir des médias temporels (un lecteur Flash qui propose une liste de vidéos à consulter, par exemple).",
+                        "Contenu qui ne se déroule pas dans le temps, consultable via un plugin (Flash, Java, Silverlight…) ou via les éléments `svg` et `canvas` ; par exemple, une carte interactive en Flash, une application Flash ou Java, un diaporama sont des médias non temporels. Un média non temporel peut contenir des médias temporels (un lecteur Flash qui propose une liste de vidéos à consulter, par exemple).",
                         "Note : l'utilisation du paramètre `wmode` pour un objet Flash avec les valeurs `\"transparent\"` et `\"opaque\"` invalide de fait le [critère 4.12](#crit-4-12). En effet, l'utilisation de ces valeurs a pour conséquence que l'animation Flash vue du côté des utilisateurs de lecteur d'écran est invisible."
                     ]
                 },
                 {
                     "dt": "Média temporel (type son, vidéo et synchronisé)",
                     "dd": [
-                        "Média temporel seulement audio : contenu sonore (Wav, Mp3…);",
-                        "Média temporel seulement vidéo : images ou photos en mouvement ou en séquence;",
+                        "Média temporel seulement audio : contenu sonore (Wav, Mp3…) ;",
+                        "Média temporel seulement vidéo : images ou photos en mouvement ou en séquence ;",
                         "Média temporel synchronisé : flux audio ou vidéo synchronisé avec un autre format pour présenter de l'information et/ou comportant des composants temporels interactifs. Un média temporel peut être consulté de 2 manières différentes :",
                         {
                             "ul": [
-                                "Fichier à télécharger consultable avec un logiciel externe à la page web;",
+                                "Fichier à télécharger consultable avec un logiciel externe à la page web ;",
                                 "Contenu embarqué dans la page web et consultable dans la page web via :",
                                 {
                                     "ul": [
-                                        "Un plugin (par exemple une vidéo diffusée par un lecteur Flash);",
-                                        "L'élément `<video>` (par exemple une vidéo);",
-                                        "L'élément `<audio>` (par exemple un podcast);",
-                                        "L'élément `<svg>` (par exemple un dessin animé vectoriel);",
-                                        "L'élément `<canvas>` (par exemple un dessin animé en image bitmap);",
+                                        "Un plugin (par exemple une vidéo diffusée par un lecteur Flash) ;",
+                                        "L'élément `<video>` (par exemple une vidéo) ;",
+                                        "L'élément `<audio>` (par exemple un podcast) ;",
+                                        "L'élément `<svg>` (par exemple un dessin animé vectoriel) ;",
+                                        "L'élément `<canvas>` (par exemple un dessin animé en image bitmap) ;",
                                         "L'élément `<bgsound>` pour diffuser un arrière-plan sonore à la page web."
                                     ]
                                 }
@@ -1247,9 +1208,9 @@
                         "Un message de statut peut informer sur :",
                         {
                             "ul": [
-                                "Le succès ou le résultat d'une action;",
-                                "L'état occupé d'une application;",
-                                "L'état de progression d'un processus;",
+                                "Le succès ou le résultat d'une action ;",
+                                "L'état occupé d'une application ;",
+                                "L'état de progression d'un processus ;",
                                 "L'existence d'erreur."
                             ]
                         }
@@ -1265,7 +1226,7 @@
                 {
                     "dt": "Moteur de recherche (interne à un site web)",
                     "dd": [
-                        "Zone contenant le moteur de recherche permettant d'effectuer des recherches sur les contenus de l'ensemble du site.",
+                        "Zone donnant accès directement (formulaire) ou indirectement (élément d'interface donnant accès au formulaire) au moteur de recherche qui permet d'effectuer des recherches sur les contenus de l'ensemble du site.",
                         "Note : Attention à ne pas confondre cette zone de recherche, unique dans le site, avec tout autre moteur de recherche permettant par exemple de faire des recherches sur une partie restreinte du site : un catalogue, les offres sur une section marchés publics…",
                         "Voir la définition technique de zone d'en-tête fournie par WAI-ARIA [`search` (role)](https://www.w3.org/TR/wai-aria-1.1/#search)."
                     ]
@@ -1278,7 +1239,7 @@
                         "Note 1 : compte tenu du manque de support de certaines propriétés et de certains rôles WAI-ARIA et de la grande variabilité des situations dans lesquelles un composant JavaScript peut être proposé, il est possible d'adapter des motifs de conception à des contextes ou des utilisations particulières. Dans ce cas, le motif de conception adapté doit :",
                         {
                             "ul": [
-                                "Respecter la structure générale : par exemple un ensemble de panneaux (rôle WAI-ARIA `tabpanel`) d'un système d'onglets est forcément lié à un ensemble d'onglets (rôle WAI-ARIA `tablist`);",
+                                "Respecter la structure générale : par exemple un ensemble de panneaux (rôle WAI-ARIA `tabpanel`) d'un système d'onglets est forcément lié à un ensemble d'onglets (rôle WAI-ARIA `tablist`) ;",
                                 "Utiliser en remplacement d'un rôle ou d'une propriété WAI-ARIA mal supporté, un rôle ou une propriété WAI-ARIA équivalent, offrant un comportement et une restitution similaire."
                             ]
                         },
@@ -1308,12 +1269,6 @@
                         "Page dédiée présentant l'arborescence d'un site web, généralement sous forme de listes de liens organisées en rubriques et sous-rubriques donnant accès à l'ensemble des pages du site.",
                         "Note 1 : les liens du plan du site peuvent être constitués de balises `<a>` ou de balises `<area>`.",
                         "Note 2 : il n'est pas nécessaire que le plan du site contienne les liens vers toutes les pages du site, en revanche il est nécessaire qu'à partir du plan du site, l'utilisateur puisse atteindre l'ensemble des pages du site."
-                    ]
-                },
-                {
-                    "dt": "Passage de texte associé au tableau de données",
-                    "dd": [
-                        "Texte dans une balise `<caption>` ou dans une balise associée au tableau de données via l'attribut WAI-ARIA `aria-labelledby`."
                     ]
                 },
                 {
@@ -1350,14 +1305,14 @@
                         "La prise de focus est l'état renvoyé par un élément qui reçoit l'attention suite à une action de l'utilisateur. Il y a trois moyens en HTML de donner le focus à un élément :",
                         {
                             "ul": [
-                                "En activant l'élément par un dispositif de pointage (exemple : souris);",
-                                "En atteignant l'élément par la touche tabulation ou majuscule + tabulation;",
+                                "En activant l'élément par un dispositif de pointage (exemple : souris) ;",
+                                "En atteignant l'élément par la touche tabulation ou majuscule + tabulation ;",
                                 "En activant l'élément par un raccourci clavier (`accesskey`)."
                             ]
                         },
-                        "Certains éléments reçoivent naturellement le focus, par exemple : `<a href>`, `<area href>`, `<button>`, `<input>`, `<object>`, `<select>`, `<label>`, `<legend>`, `<optgroup>`, `<option>` et `<textarea>`. Le comportement de l'élément, lors de la prise de focus, dépend de sa nature ; un lien, par exemple, devra être activé après la prise de focus (sauf utilisation de script). En revanche, un élément de formulaire, comme `<textarea>`, devra autoriser la saisie suite à la prise de focus. Les éléments <label> et <legend> ne reçoivent la prise de focus que via le pointeur souris. Pour l'élément `<label>`, le comportement attendu est de transférer la prise de focus sur l'élément qui lui est associé.",
+                        "Certains éléments reçoivent naturellement le focus, par exemple : `<a href>`, `<area href>`, `<button>`, `<input>`, `<object>`, `<select>`, `<label>`, `<legend>`, `<optgroup>`, `<option>` et `<textarea>`. Le comportement de l'élément, lors de la prise de focus, dépend de sa nature ; un lien, par exemple, devra être activé après la prise de focus (sauf utilisation de script). En revanche, un élément de formulaire, comme `<textarea>`, devra autoriser la saisie suite à la prise de focus. Les éléments `<label>` et `<legend>` ne reçoivent la prise de focus que via le pointeur souris. Pour l'élément `<label>`, le comportement attendu est de transférer la prise de focus sur l'élément qui lui est associé.",
                         "Note 1 : la spécification WAI-ARIA étend le rôle attribué à l'attribut `tabindex` en définissant que tout élément HTML peut acquérir la possibilité de recevoir le focus en lui attribuant la valeur `tabindex=\"0\"`. En revanche, aucun comportement n'est attribué via la seule présence de `tabindex`. De même, la valeur `tabindex=\"-1\"` lorsqu'elle est utilisée sur un élément recevant naturellement le focus retire l'élément qui en est affecté du plan de tabulation en inhibant sa capacité à signaler la « prise de focus ». L'utilisation de `tabindex`, conformément à la spécification WAI-ARIA, peut valider certains tests relatifs à la gestion du focus de tabulation, notamment.",
-                        "Note 2 : l'indication visuelle du focus du navigateur ne doit pas être pas supprimée ou dégradée sauf si un style du focus défini par l'auteur est visible et suffisamment contrasté au regard du [critère 3.3](#crit-3-3)."
+                        "Note 2 : l'indication visuelle du focus du navigateur ne doit pas être supprimée ou dégradée sauf si un style du focus défini par l'auteur est visible et suffisamment contrasté au regard du [critère 3.3](#crit-3-3)."
                     ]
                 },
                 {
@@ -1382,7 +1337,7 @@
                     "dt": "Raccourci clavier",
                     "dd": [
                         "Un moyen de déclencher une action associée à un composant de l'interface utilisateur en appuyant sur une ou plusieurs touches.",
-                        "Note : les “<span lang=\"en\">Access keys<span>” (attribut HTML `accesskey`) sont bien des raccourcis clavier, mais ils ne sont pas concernés par le [critère 12.15](#crit-12-15) dans la mesure où leur activation nécessite déjà l'usage de touches de modification (variables suivant les navigateurs)."
+                        "Note : les “<span lang=\"en\">Access keys</span>” (attribut HTML `accesskey`) sont bien des raccourcis clavier, mais ils ne sont pas concernés par le [critère 12.10](#crit-12-10) dans la mesure où leur activation nécessite déjà l'usage de touches de modification (variables suivant les navigateurs)."
                     ]
                 },
                 {
@@ -1397,11 +1352,11 @@
                         "Le code source doit respecter les règles suivantes en accord avec la déclaration de type de document utilisée dans la page :",
                         {
                             "ul": [
-                                "Pas de balise ouvrante ou fermante sans < ou > (exemple d'erreur : `li>toto`);",
-                                "pas de balise fermante avec / manquant (exemple d'erreur : `<li>toto<li>`);",
-                                "pas de valeur d'attribut avec des \" ou ' manquant (exemple d'erreur : `alt=\"toto`);",
-                                "pas de valeurs multiple d'attribut séparées par un espace sans \" ou ' (exemple d'erreur : `alt=bonjour toto`);",
-                                "pas d'espace manquant entre les attributs (exemple : alt=\"toto\"title=\"toto\");",
+                                "Pas de balise ouvrante ou fermante sans < ou > (exemple d'erreur : `li>toto`) ;",
+                                "pas de balise fermante avec / manquant (exemple d'erreur : `<li>toto<li>`) ;",
+                                "pas de valeur d'attribut avec des \" ou ' manquant (exemple d'erreur : `alt=\"toto`) ;",
+                                "pas de valeurs multiples d'attribut séparées par un espace sans \" ou ' (exemple d'erreur : `alt=bonjour toto`) ;",
+                                "pas d'espace manquant entre les attributs (exemple : alt=\"toto\"title=\"toto\") ;",
                                 "pas de balise fermante manquante pour les éléments qui en exigent une (exemple d'erreur : `<object>` sans `</object>`)."
                             ]
                         }
@@ -1417,9 +1372,9 @@
                     "dt": "Correctement restitué (par les technologies d'assistance)",
                     "dd": [
                         "Lorsqu'un critère, un test ou une condition de test demande de vérifier la restitution d'un dispositif, il faut s'assurer que ladite restitution est compatible avec l'accessibilité.",
-                        "Le test consiste à vérifier que la restitution est pertinente pour au moins une des combinaisons de l’ environnement de test (ou « base de référence ») utilisé pour déclarer qu'un élément, un dispositif ou une alternative est « compatible avec l'accessibilité ».",
-                        "Par exemple : le [test 1.3.7](#test-1-3-7) demande de vérifier que l'alternative d'une image porteuse d'information vectorielle est correctement restituée.",
-                        "On procède alors à un test avec NVDA (dernière version) et Firefox, JAWS (version précédente) et IE9+, et Voice Over (dernière version) et Safari.",
+                        "Le test consiste à vérifier que la restitution est pertinente pour au moins une des combinaisons de l'environnement de test (ou « base de référence ») utilisé pour déclarer qu'un élément, un dispositif ou une alternative est « compatible avec l'accessibilité ».",
+                        "Par exemple : le [test 1.3.8](#test-1-3-8) demande de vérifier que l'alternative d'une image bitmap (balise `<canvas>`) porteuse d'information est correctement restituée.",
+                        "On procède alors à un test avec les outils de l'environnement de test défini pour le site.",
                         "Si on constate que l'alternative est correctement restituée, le test est validé."
                     ]
                 },
@@ -1449,7 +1404,7 @@
                         "Indique le sens de lecture du document ou d'un passage de texte via l'attribut `dir`, `dir=\"ltr\"`, par exemple. Les deux valeurs reconnues sont :",
                         {
                             "ul": [
-                                "`ltr` (<span lang=\"en\">left to right</span>) indique un sens de lecture de gauche à droite;",
+                                "`ltr` (<span lang=\"en\">left to right</span>) indique un sens de lecture de gauche à droite ;",
                                 "`rtl` (<span lang=\"en\">right to left</span>) indique un sens de lecture de droite à gauche."
                                 ]
                         },
@@ -1468,15 +1423,15 @@
                     "dd": [
                         {
                             "ul": [
-                                "Reliées par des liens web;",
-                                "Appartenant au même nom de domaine (ex : references.modernisation.gouv.fr);",
+                                "Reliées par des liens web ;",
+                                "Appartenant au même nom de domaine (ex : references.modernisation.gouv.fr) ;",
                                 "Qui constituent un ensemble cohérent du point de vue de l'utilisateur."
                             ]
                         },
-                        "Cas particulier des pages web d'un sous-domaine; un sous-domaine peut :",
+                        "Cas particulier des pages web d'un sous-domaine ; un sous-domaine peut :",
                         {
                             "ul": [
-                                "Soit appartenir au site web attaché au nom de domaine, si l'utilisateur en a une perception cohérente avec les autres pages du site web (par exemple : même structure, même navigation…);",
+                                "Soit appartenir au site web attaché au nom de domaine, si l'utilisateur en a une perception cohérente avec les autres pages du site web (par exemple : même structure, même navigation…) ;",
                                 "Soit ne pas appartenir au site web attaché au nom de domaine (par exemple : différents blogs en sous-domaine d'un nom de domaine et sans relation les uns avec les autres)."
                             ]
                         }
@@ -1502,9 +1457,9 @@
                         "Tout procédé permettant une navigation dans le site ou dans une page, les systèmes de navigation retenus sont :",
                         {
                             "ul": [
-                                "Menu de navigation principal;",
-                                "Table des matières;",
-                                "Plan du site;",
+                                "Menu de navigation principal ;",
+                                "Table des matières ;",
+                                "Plan du site ;",
                                 "Moteur de recherche."
                             ]
                         }
@@ -1529,9 +1484,9 @@
                         "Dans la mesure où il est bien correctement restitué et associé par les technologies d'assistance au tableau de données, le titre associé peut être :",
                         {
                             "ul": [
-                                "Dans une balise `<caption>`;",
-                                "Dans un attribut `title`;",
-                                "Dans un attribut WAI-ARIA `aria-label`;",
+                                "Dans une balise `<caption>` ;",
+                                "Dans un attribut `title` ;",
+                                "Dans un attribut WAI-ARIA `aria-label` ;",
                                 "Dans une balise associée au tableau de données via un attribut WAI-ARIA `aria-labelledby` sur le tableau."
                             ]
                         },
@@ -1567,8 +1522,8 @@
                     "dt": "Titre",
                     "dd": [
                         "Élément HTML (balise `h`) à 6 niveaux de hiérarchie (de `h1` pour le titre le plus important à `h6` pour le moins important) ou élément HTML ayant les attributs WAI-ARIA `role=\"heading\"` et `aria-level` permettant de structurer l'information d'un contenu web.",
-                        "La hiérarchie entre les titres doit être respectée dans une page web et les degrés de titre ne peuvent pas être sautés (un titre `h3` ne peut pas venir directement après un titre `h1`, par exemple). Par contre, la hiérarchie ne doit pas obligatoirement débuter par un `h1`. Même si cet usage n'est pas encouragé, il est considéré comme conforme de débuter la hiérarchie des titres d'une page par un autre niveau que le niveau 1.",
-                        "Note : les titres cachés via CSS sont considérés comme présents et valident le [critère 9.1](#crit-9-1)."
+                        "Assurer une stricte hiérarchie entre les titres d’une page web est une bonne pratique, mais la présence de sauts hiérarchiques n’invalide pas le critère tant que cette hiérarchie plus lâche reste cohérente (un titre `<h3>` peut ainsi venir directement après un titre `<h1>`, par exemple). La hiérarchie de titres ne doit pas obligatoirement contenir un titre `<h1>`. Même si ces pratiques ne sont pas encouragées, elles n’invalident pas le critère.",
+                        "Note : les titres visuellement cachés via CSS sont considérés comme présents et valident le [critère 9.1](#crit-9-1)."
                     ]
                 },
                 {
@@ -1592,7 +1547,7 @@
                         "Contenu textuel associé à un média temporel par la technique appropriée (texte codé en HTML ou dans un fichier texte qui se trouve dans la même page ou consultable suivant un lien). Ce contenu donne accès à l'utilisateur (de manière indépendante de la consultation de l'objet multimédia) à :",
                         {
                             "ul": [
-                                "La totalité de ce qui y est exprimé oralement;",
+                                "La totalité de ce qui y est exprimé oralement ;",
                                 "Toutes les informations descriptives nécessaires à une compréhension équivalente de l'action."
                             ]
                         },
@@ -1612,12 +1567,12 @@
                         "Indication concernant le type et le format des données attendus lors de la saisie d'un champ de formulaire. Par exemple :",
                         {
                             "ul": [
-                                "Date (jj/mm/aaa);",
-                                "Montant en euros;",
+                                "Date (jj/mm/aaaa) ;",
+                                "Montant en euros ;",
                                 "Code postal (5 chiffres : ex. 75001)."
                             ]
                         },
-                        "Note importante : lorsque le type de champ de formulaire propose un masque de saisie, comme par exemple les champs date ou time, l'indication de format n'est pas nécessaire."
+                        "Note importante : lorsque le type de champ de formulaire propose un masque de saisie, par exemple les champs date ou time, l'indication de format n'est pas nécessaire."
                     ]
                 }
             ]
@@ -1628,7 +1583,7 @@
                 {
                     "dt": "Uniquement à des fins de présentation",
                     "dd": [
-                        "Uniquement à des fins de présentation : utilisation de balises HTML pour une finalité différente de celle prévue dans les spécifications (au regard du type de document déclaré). Exemples : utilisation des balises `h` à seule fin de créer un effet typographique ; utilisation de la balise `<blockquote>` à seule fin de mettre un paragraphe en retrait, etc.",
+                        "Uniquement à des fins de présentation : utilisation de balises HTML pour une finalité différente de celle prévue dans les spécifications (au regard du type de document déclaré). Exemples : utilisation des balises `h` à seule fin de créer un effet typographique ; utilisation de la balise `<blockquote>` à seule fin de mettre un paragraphe en retrait, etc.",
                         "Note 1 : l'utilisation d'éléments `<div>` ou `<span>` ou plusieurs `<br>` pour créer visuellement un paragraphe est considérée comme non conforme et invalide le critère.",
                         "Exemple :",
                         "`<div>`",
@@ -1637,19 +1592,11 @@
                         "`<br>`",
                         "`à l'aide de plusieurs balises <br>`",
                         "`</div>`",
-                        "Note 2 : WAI-ARIA propose un rôle `presentation` permettant de supprimer la sémantique d'un élément, par exemple `<h1 role=\"presentation\">Titre</h1>`. Dans ce cas, le texte sera correctement restitué mais son rôle de titre ne le sera plus. L'utilisation du rôle `presentation` peut être requise lorsque l'on utilise un motif de conception WAI-ARIA.",
-                        "Le rôle WAI-ARIA `presentation` peut être également utilisé pour supprimer la sémantique d'un élément lorsque ce dernier est utilisé uniquement à des fins de présentation, par exemple `<blockquote role=\"presentation\">` aura le même effet qu'une absence d'élément <blockquote>.",
+                        "Note 2 : WAI-ARIA propose un rôle `presentation` permettant de supprimer la sémantique d'un élément, par exemple `<h1 role=\"presentation\">Titre</h1>`. Dans ce cas, le texte sera correctement restitué mais son rôle de titre ne le sera plus. L'utilisation du rôle `presentation` peut être requise lorsque l'on utilise un [motif de conception](#motif-de-conception) WAI-ARIA.",
+                        "Le rôle WAI-ARIA `presentation` peut être également utilisé pour supprimer la sémantique d'un élément lorsque ce dernier est utilisé uniquement à des fins de présentation, par exemple `<blockquote role=\"presentation\">` aura le même effet qu'une absence d'élément `<blockquote>`.",
                         "Même si cette utilisation est fortement déconseillée (dans le cas de technologie d'assistance qui n'implémenteraient pas WAI-ARIA par exemple) elle peut être considérée comme conforme à WCAG. En revanche l'utilisation d'un rôle WAI-ARIA `presentation` sur un élément dont la nature (par exemple la sémantique) est essentielle à la compréhension du contenu est une violation des règles WCAG (particulièrement de l'échec [F92](https://www.w3.org/WAI/WCAG21/Techniques/failures/F92)) et invalide le critère."
                     ]
-                },
-                {
-                    "dt": "URL",
-                    "dd": [
-                        "Adresse permettant d'accéder aux ressources du World Wide Web : document HTML, Pages web, image, son…",
-                        "Note : dans le référentiel RGAA, la notion d'URL est utilisée à la place de URI (chaîne de caractères compacte identifiant une ressource)."
-                    ]
                 }
-                
             ]
         },
         {
@@ -1661,9 +1608,9 @@
                         "Les documents en téléchargement dont les types de format sont reconnus compatibles avec l'accessibilité doivent être rendus accessibles soit directement soit par l'intermédiaire d'une version accessible ou d'une version en HTML. Les formats de document dont la compatibilité est reconnue sont :",
                         {
                             "ul": [
-                                "Microsoft Office (Word 2003, OOXML);",
-                                "Open Office Org (ODF);",
-                                "Adobe PDF;",
+                                "Microsoft Office (Word 2003, OOXML) ;",
+                                "Open Office Org (ODF) ;",
+                                "Adobe PDF ;",
                                 "Epub/Daisy."
                             ]
                         },
@@ -1693,7 +1640,7 @@
                 {
                     "dt": "Zone cliquable",
                     "dd": [
-                        "Région d'une image réactive à laquelle une action a été associée ; par exemple, le déclenchement d'un événement en cliquant sur un lien (pour une zone cliquable côté client : balise `<area>` avec l'attribut `href`). Les balises `<area>` sont contenues dans la balise `<map>`.",
+                        "Région d'une image réactive à laquelle une action a été associée ; par exemple, le déclenchement d'un événement en cliquant sur un lien (pour une zone cliquable côté client : balise `<area>` avec l'attribut `href`). Les balises `<area>` sont contenues dans la balise `<map>`.",
                         "Pour les images réactives côté serveur, les coordonnées sont détenues sur le serveur."
                     ]
                 },
@@ -1727,7 +1674,7 @@
                         "Région d'une image réactive à laquelle aucune action n'est associée. Une zone non cliquable côté client est contenue dans une balise `<area>` :",
                         {
                             "ul": [
-                                "Avec l'attribut `nohref` lorsque le code HTML de la page n'est pas du HTML5;",
+                                "Avec l'attribut `nohref` lorsque le code HTML de la page n'est pas du HTML5 ;",
                                 "Sans attribut `href` en HTML5."
                             ]
                         },
