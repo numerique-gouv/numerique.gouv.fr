@@ -164,6 +164,9 @@ header {
 
 #fil-ariane {
   font-size: smaller;
+  ol li {
+    display: contents;
+  }
 
   @include breakpoint(medium down) {
     padding-left: 1rem;
