@@ -1,9 +1,9 @@
 ---
-title: Notes de révision - RGAA
-permalink: "/publications/rgaa-accessibilite/notes-revision/"
+title: Notes de révision du RGAA 3 2017 vers RGAA 4 - RGAA
+permalink: "/publications/rgaa-accessibilite/notes-revision-rgaa3-rgaa4/"
 menu:
-  title: Notes de révision
-  weight: 70
+  title: Notes de révision du RGAA 3 2017 vers RGAA 4
+  weight: 53
 layout: rgaa-accessibilite
 ---
 
@@ -20,43 +20,13 @@ layout: rgaa-accessibilite
 
 <h3>Résumé des modifications notables</h3>
 <p>De nombreux critères et tests ont été modifiés afin que le référentiel technique reste le plus fidèle possible à ce que proposent les critères WCAG 2.1.</p>
-<p>Les critères RGAA de niveau triple A (AAA) ont été retirés du référentiel, étant donné que la directive européenne ne tient pas compte elle-même des critères WCAG triple A qu'elle rappelle juste en annexe technique.</p>
-<p>Pour information et rappel, voici la liste traduite en français des critères de succès triple A (AAA) des WCAG 2.1 figurant dans cette annexe. Cette traduction a été effectuée pour répondre aux besoins techniques immédiats. En cas de divergence d’interprétation, veuillez vous référer à la traduction officielle de l’AFNOR.</p>
-<ol>
-<li>Média temporel. 1.2.6 - Langue des signes (préenregistrée)</li>
-<li>Média temporel. 1.2.7 - Audiodescription étendue (préenregistrée)</li>
-<li>Média temporel. 1.2.8 - Version de remplacement pour un média temporel (préenregistré)</li>
-<li>Média temporel. 1.2.9 - Seulement audio (en direct)</li>
-<li>Adaptable. 1.3.6 - Identify purpose (Identification de l’objet)</li>
-<li>Distinguable. 1.4.6 - Contraste (amélioré)</li>
-<li>Distinguable. 1.4.7 - Arrière-plan sonore de faible volume ou absent</li>
-<li>Distinguable. 1.4.8 - Présentation visuelle</li>
-<li>Distinguable. 1.4.9 - Texte sous forme d’image (sans exception)</li>
-<li>Accessibilité au clavier. 2.1.3 - Clavier (sans exception)</li>
-<li>Délai suffisant. 2.2.3 - Pas de délai d’exécution</li>
-<li>Délai suffisant. 2.2.4 - Interruptions</li>
-<li>Délai suffisant. 2.2.5 - Nouvelle authentification</li>
-<li>Délai suffisant. 2.2.6 - Timeouts (Dépassements du temps imparti)</li>
-<li>Crises et réactions physiques. 2.3.2 - Trois flashs</li>
-<li>Crises et réactions physiques. 2.3.3 - Animation from Interactions (Animation résultant des interactions)</li>
-<li>Navigable. 2.4.8 - Localisation</li>
-<li>Navigable. 2.4.9 - Fonction du lien (lien uniquement)</li>
-<li>Navigable. 2.4.10 - En-têtes de section</li>
-<li>Input modalities (Modalités de saisie). 2.5.5 - Target Size (Taille de la cible)</li>
-<li>Input modalities (Modalités de saisie). 2.5.6 - Concurrent Input Mechanisms (Mécanismes de saisie concurrents)</li>
-<li>Lisible. 3.1.3 - Mots rares</li>
-<li>Lisible. 3.1.4 - Abréviations</li>
-<li>Lisible. 3.1.5 - Niveau de lecture</li>
-<li>Lisible. 3.1.6 - Prononciation</li>
-<li>Prévisible. 3.2.5 - Changement à la demande</li>
-<li>Assistance à la saisie. 3.3.5 - Aide</li>
-<li>Assistance à la saisie. 3.3.6 - Prévention des erreurs (toutes)</li>
-</ol>
+<p>Les critères RGAA de niveau triple A (AAA) ont été retirés du référentiel, étant donné que la directive européenne ne tient pas compte elle-même des critères WCAG triple A qu'elle rappelle juste en annexe technique</a>.</p>
+<p>Pour information et rappel, une traduction a été effectuée pour répondre aux besoins techniques immédiats : <a href="/publications/rgaa-accessibilite/annexe-aaa/">Annexe – Critères de succès triple A (AAA) des WCAG 2.1</a>.</p>
 
 <h3>Modifications générales sur tout ou partie des documents</h3>
 <ul>
 <li>Suppression des niveaux RGAA.</li>
-<li>Supression de la référence aux principes WCAG.</li>
+<li>Suppression de la référence aux principes WCAG.</li>
 <li>La mention "ARIA" a été systématiquement remplacée par "WAI-ARIA".</li>
 <li>La mention "propriété" WAI-ARIA a été remplacée par "attribut".</li>
 <li>Lorsqu'il est fait mention d'une balise ou d'un élément HTML, l'entité en question est délimitée par des chevrons ouvrant et fermant.</li>
