@@ -13,33 +13,33 @@ chapeau-text: 'La DINUM proposera prochainement un catalogue de solutions et d�
   peuvent d’ores et déjà demander le référencement de leur outil dans ce futur catalogue.**'
 une:
   image: "/uploads/page-services-LABEL_fille.png"
+
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+
+  a.lien-encadre {
+  color: #0A4D7F;
+  text-decoration: none;
+  }
+  a.lien-encadre:hover {
+  color: #0A4D7F;
+  text-decoration: underline;
+  }
 layout: rgaa
 ---
 
-<style>
-.button {
-background-color: #0d5c98;
-border: 1px solid white;
-color: white;
-padding: 10px 10px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-style: normal;
-font-size: 20px;
-margin: 4px 2px;
-cursor: pointer;
-}
-
-a.lien-encadre {
-color: #0A4D7F;
-text-decoration: none;
-}
-a.lien-encadre:hover {
-color: #0A4D7F;
-text-decoration: underline;
-}
-</style>
 
 ## Améliorer les services publics grâce à des solutions numériques
 
