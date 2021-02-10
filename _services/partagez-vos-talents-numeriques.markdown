@@ -166,7 +166,7 @@ Selon leurs besoins, la nature des missions proposées par les administrations p
 
 Chaque mission répondant à un **besoin ponctuel**, elle est **délimitée dans le temps**. La durée comme la fréquence sont variables d’une mission à l’autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
-<p class="lien-important"><a href="#missions">Découvrir les missions proposées</a></p>
+<p class="lien-important"><b><a href="#missions">Découvrir les missions proposées</a></b></p>
 
 ### **Comment contribuer ?**
 
@@ -185,12 +185,12 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 ### **Que se passe-t-il après mon inscription ?**
 
 <ol>
-<li><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra dans les meilleurs délais.
+<li class="margin-bottom-1"><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra dans les meilleurs délais.
 <br>
-<b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.<br></li>
-<li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.<br></li>
-<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Assurez-vous simplement de l’accord de votre supérieur hiérarchique, nécessaire avant de démarrer toute mission.<br></li>
-<li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li></ol>
+<b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.<br><br></li>
+<li class="margin-bottom-1"><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.<br><br></li>
+<li class="margin-bottom-1"><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Assurez-vous simplement de l’accord de votre supérieur hiérarchique, nécessaire avant de démarrer toute mission.<br></li>
+<li class="margin-bottom-2"><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li></ol>
 <br>
 <br>
 
