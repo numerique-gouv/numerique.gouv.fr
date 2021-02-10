@@ -296,7 +296,7 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 <li class="margin-bottom-1"><b>Nous échangeons</b> si besoin ensemble pour finaliser votre fiche mission et la publions sur cette page.</li>
 <li class="margin-bottom-1"><b>Les agents intéressés peuvent y répondre</b> directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel ou via un outil collaboratif, ainsi que les profils des agents volontaires pour participer au dispositif d’une manière générale.</li>
 <li class="margin-bottom-1"><b>Vous êtes partants pour collaborer ensemble ?</b> Assurez-vous simplement que l’agent a bien obtenu l'accord de son supérieur hiérarchique, avant le démarrage la mission.</li>
-<li"><b>La mission peut commencer !</b></li></ol>
+<li><b>La mission peut commencer !</b></li></ol>
 <br>
 
 <div class="text-center">
