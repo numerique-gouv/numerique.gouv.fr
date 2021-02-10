@@ -39,7 +39,7 @@ style: |-
   text-decoration: underline;
   }
 
-  hr {
+  hr.interieur {
    margin-top: 6em;
    margin-bottom: 7em;
   }
@@ -206,7 +206,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <div class="text-center"><p class="text-center"><a href="#missions">
 <i class="fas fa-angle-down icon-arrow-down"></i></a></p></div>
 
-<hr>
+<hr class="interieur">
 
 <figure class='image-left' style='width: 10%;'>
 <img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;" alt="" id="missions"/></figure>## **Les missions proposées**
@@ -255,7 +255,8 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 
 <p class="lien-important"><b><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Cette mission m'intéresse : je propose mes talents - Lien externe">Cette mission m'intéresse : je propose mes talents</a></b></p>
 
-<hr>
+
+<hr class="interieur">
 
 <figure class="image-left" style="width: 10%;">
 <img src="/uploads/comment_ca_marche_administrations.svg" alt="" id="comment-ca-marche-admin"/></figure><h2><b>Comment ça marche pour les administrations ?</b></h2>
@@ -291,16 +292,11 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 ### **Quelles sont les étapes ?**
 
 <ol>
-<li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...).</li>
-<br>
-<li><b>Vous saisissez</b> votre demande via <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" title="notre formulaire en ligne - Lien externe">notre formulaire en ligne</a>.</li>
-<br>
-<li><b>Nous échangeons</b> si besoin ensemble pour finaliser votre fiche mission et la publions sur cette page.</li>
-<br>
-<li><b>Les agents intéressés peuvent y répondre</b> directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel ou via un outil collaboratif, ainsi que les profils des agents volontaires pour participer au dispositif d’une manière générale.</li>
-<br>
-<li><b>Vous êtes partants pour collaborer ensemble ?</b> Assurez-vous simplement que l’agent a bien obtenu l'accord de son supérieur hiérarchique, avant le démarrage la mission.</li>
-<br>
+<li><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...).<br><br></li>
+<li><b>Vous saisissez</b> votre demande via <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" title="notre formulaire en ligne - Lien externe">notre formulaire en ligne</a>.<br><br></li>
+<li><b>Nous échangeons</b> si besoin ensemble pour finaliser votre fiche mission et la publions sur cette page.<br><br></li>
+<li><b>Les agents intéressés peuvent y répondre</b> directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel ou via un outil collaboratif, ainsi que les profils des agents volontaires pour participer au dispositif d’une manière générale.<br><br></li>
+<li><b>Vous êtes partants pour collaborer ensemble ?</b> Assurez-vous simplement que l’agent a bien obtenu l'accord de son supérieur hiérarchique, avant le démarrage la mission.<br><br></li>
 <li><b>La mission peut commencer !</b></li></ol>
 <br>
 
