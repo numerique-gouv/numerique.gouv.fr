@@ -255,7 +255,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <li><b>Localisation :</b> à distance ou en télétravail</li>
 <li><b><a href="/uploads/2020_08_24_Fiches_COVID%2019_Faciliter%20la%20veille%20scientifique%20.pdf" title="Détails de la mission - pdf, 64 ko">Détails de la mission (pdf - 64 ko)</a></b></li></ul>
 
-> <p class="lien-important"><b><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Cette mission m'intéresse : je propose mes talents - Lien externe">Cette mission m'intéresse : je propose mes talents</a></b></p>
+<p class="lien-important"><b><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Cette mission m'intéresse : je propose mes talents - Lien externe">Cette mission m'intéresse : je propose mes talents</a></b></p>
 <br>
 
 <br>
