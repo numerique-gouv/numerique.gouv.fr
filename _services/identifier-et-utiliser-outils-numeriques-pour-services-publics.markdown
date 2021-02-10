@@ -13,7 +13,6 @@ chapeau-text: 'La DINUM proposera prochainement un catalogue de solutions et d�
   peuvent d’ores et déjà demander le référencement de leur outil dans ce futur catalogue.**'
 une:
   image: "/uploads/page-services-LABEL_fille.png"
-
 style: |-
   .button {
   background-color: #0d5c98;
@@ -39,7 +38,6 @@ style: |-
   }
 layout: rgaa
 ---
-
 
 ## Améliorer les services publics grâce à des solutions numériques
 
