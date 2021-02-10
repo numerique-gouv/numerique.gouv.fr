@@ -40,8 +40,8 @@ style: |-
   }
 
   hr {
-   margin-top: 5em;
-   margin-bottom: 5em;
+   margin-top: 6em;
+   margin-bottom: 7em;
   }
 layout: rgaa
 ---
@@ -206,14 +206,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <div class="text-center"><p class="text-center"><a href="#missions">
 <i class="fas fa-angle-down icon-arrow-down"></i></a></p></div>
 
-<br>
-<br>
-
 <hr>
-
-<br>
-<br>
-<br>
 
 <figure class='image-left' style='width: 10%;'>
 <img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;" alt="" id="missions"/></figure>## **Les missions proposées**
@@ -262,7 +255,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 
 <p class="lien-important"><b><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Cette mission m'intéresse : je propose mes talents - Lien externe">Cette mission m'intéresse : je propose mes talents</a></b></p>
 
-<hr style="margin-top-5 margin-bottom-5">
+<hr>
 
 <figure class="image-left" style="width: 10%;">
 <img src="/uploads/comment_ca_marche_administrations.svg" alt="" id="comment-ca-marche-admin"/></figure><h2><b>Comment ça marche pour les administrations ?</b></h2>
