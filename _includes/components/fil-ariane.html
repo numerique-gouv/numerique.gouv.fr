@@ -12,23 +12,25 @@
 {% endif %}
 {% if crumbs.size > 1 %}
   <nav class="default-text-padding margin-vertical-1 h6" id="fil-ariane" role="navigation" aria-label="Fil d'Ariane">
-    <a href="/">Accueil</a>
-    {% for crumb in crumbs offset: 1 %}
-      {% if forloop.last %}
-      > {{ page.title }}
-      {% else %}
-      >
-      {% capture lien %}
-        {% assign crumb_limit = forloop.index | plus: 1 %}
-        {% for crumb in crumbs limit: crumb_limit %}
-          {{ crumb | append: '/' | replace: 'é','e'}}
-        {% endfor %}
-      {% endcapture %}
-      {% assign lien_formate = lien | remove: ' ' | strip_newlines %}
-      <a href="{{ lien_formate }}">
-      {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}
-      </a>
-      {% endif %}
-    {% endfor %}
+    <ol>
+      <li><a href="/">Accueil</a></li>
+      {% for crumb in crumbs offset: 1 %}
+        {% if forloop.last %}
+        > {{ page.title }}
+        {% else %}
+        >
+        {% capture lien %}
+          {% assign crumb_limit = forloop.index | plus: 1 %}
+          {% for crumb in crumbs limit: crumb_limit %}
+            {{ crumb | append: '/' | replace: 'é','e'}}
+          {% endfor %}
+        {% endcapture %}
+        {% assign lien_formate = lien | remove: ' ' | strip_newlines %}
+        <li><a href="{{ lien_formate }}">
+        {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}
+        </a></li>
+        {% endif %}
+      {% endfor %}
+    </ol>
   </nav>
 {% endif %}

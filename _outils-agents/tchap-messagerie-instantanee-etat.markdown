@@ -16,8 +16,9 @@ une-ou-diaporama:
 layout: rgaa
 ---
 
-<iframe width="480" height="270" title="Vidéo Dailymotion" class='text-center' src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
-
+<div class="conteneur-iframe seize-neuvieme">
+<iframe title="Vidéo Dailymotion" class='text-center' src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
+</div>
 <br>
 
 <figure class='image-left' style='width: 6%;'><img src="/uploads/chat.png" alt=""></figure>## Communiquez efficacement
