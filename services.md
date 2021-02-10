@@ -11,7 +11,7 @@ publications:
   une-ou-diaporama:
   - image: "/uploads/RUBRIQUE_FRANCE-RELANCE_1480x1000.jpg"
 - title: Identifier et utiliser des outils performants pour les services publics numériques
-  url: "/services/identifier-et-utiliser-des-outils-performants-pour-les-services-publics-numeriques/"
+  url: "/services/identifier-et-utiliser-outils-numeriques-pour-services-publics/"
   une-ou-diaporama:
   - image: "/uploads/page-services-LABEL_rubrique.png"
 - title: Conseil et accompagnement au cadrage et pilotage de projets numériques
