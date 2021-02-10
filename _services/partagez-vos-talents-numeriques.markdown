@@ -38,6 +38,11 @@ style: |-
   color: #0A4D7F;
   text-decoration: underline;
   }
+
+  hr {
+   margin-top: 5em;
+   margin-bottom: 5em;
+  }
 layout: rgaa
 ---
 
