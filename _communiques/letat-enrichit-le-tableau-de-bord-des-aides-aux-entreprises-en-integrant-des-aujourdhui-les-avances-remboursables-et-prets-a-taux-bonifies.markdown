@@ -9,6 +9,8 @@ tags:
 - tableau de bord aides aux entreprises
 - Etalab
 - Données
+une-ou-diaporama:
+- image: "/uploads/2021_02_11_Tableau-de-bord_article_1600x860.jpg"
 contact-presse:
   name: Floriane Beaudron
   tel:
