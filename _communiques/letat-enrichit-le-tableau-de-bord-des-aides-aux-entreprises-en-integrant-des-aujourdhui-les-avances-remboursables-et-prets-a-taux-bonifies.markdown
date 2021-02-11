@@ -1,7 +1,7 @@
 ---
 title: L’État enrichit le tableau de bord des aides aux entreprises en intégrant dès
   aujourd'hui les avances remboursables et prêts à taux bonifiés
-date: 2021-02-11 10:42:00 +01:00
+date: 2021-02-11 15:10:00 +01:00
 categories:
 - Communiqué de presse
 tags:
@@ -9,6 +9,8 @@ tags:
 - tableau de bord aides aux entreprises
 - Etalab
 - Données
+une-ou-diaporama:
+- image: "/uploads/2021_02_11_Tableau-de-bord_article_1600x860.jpg"
 contact-presse:
   name: Floriane Beaudron
   tel:
