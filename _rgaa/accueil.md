@@ -18,9 +18,9 @@ La **version 4 du RGAA** a été arrêtée conjointement par la ministre chargé
 * Consulter la version HTML du référentiel
   * [Obligations d’accessibilité](/publications/rgaa-accessibilite/obligations/)
   * Méthode technique
-    * [Introduction](/publications/rgaa-accessibilite/methode/)
-    * [Critères et tests](/publications/rgaa-accessibilite/methode/criteres/)
-    * [Glossaire](/publications/rgaa-accessibilite/methode/glossaire/)
-    * [Environnement de test](/publications/rgaa-accessibilite/methode/environnement/)
-    * [Références](/publications/rgaa-accessibilite/methode/reference/)
-    * [Licence](/publications/rgaa-accessibilite/methode/licence/)
+    * [Introduction](/publications/rgaa-accessibilite/methode-rgaa/)
+    * [Critères et tests](/publications/rgaa-accessibilite/methode-rgaa/criteres/)
+    * [Glossaire](/publications/rgaa-accessibilite/methode-rgaa/glossaire/)
+    * [Environnement de test](/publications/rgaa-accessibilite/methode-rgaa/environnement/)
+    * [Références](/publications/rgaa-accessibilite/methode-rgaa/reference/)
+    * [Licence](/publications/rgaa-accessibilite/methode-rgaa/licence/)

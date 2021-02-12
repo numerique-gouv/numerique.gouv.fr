@@ -1,6 +1,6 @@
 ---
 title: Méthodologie de test - RGAA
-permalink: "/publications/rgaa-accessibilite/methodologie-test/"
+permalink: "/publications/rgaa-accessibilite/documentation-rgaa/methodologie-test/"
 menu:
   title: Méthodologie de test
   weight: 51
@@ -9,7 +9,9 @@ layout: rgaa-accessibilite
 
 ### Introduction
 
-Ce document a été établi dans le cadre des ressources venant accompagner la prise en main de la version 4 du référentiel général d'amélioration de l'accessibilité (RGAA 4).
+Ce document a été établi dans le cadre des ressources venant accompagner la prise en main de la version 4.0 du référentiel général d'amélioration de l'accessibilité (RGAA 4).
+
+À noter qu'une mise à jour prochaine sera publiée pour la version RGAA 4.1.
 
 Il est destiné à toute personne soucieuse de vérifier la conformité d'un contenu web au RGAA 4. Il s'agit d'une méthodologie de tests documentant les étapes permettant de vérifier si un critère du RGAA 4 est conforme ou non. Cette méthodologie est donc à utiliser en complément du référentiel technique du RGAA et ne peut être utilisée seule. Elle ne dispense donc pas d'une lecture approfondie du référentiel technique, ni d'une formation au RGAA.
 
@@ -21,7 +23,7 @@ Une liste d'outils est aussi proposée pour aider à la réalisation des tests ;
 
 L'outil le plus utile reste l'inspecteur de code que propose chaque navigateur. Il permet de rechercher facilement les éléments et les attributs requis pour un examen par un test d'accessibilité.
 
-Les aides techniques listées dans l’environnement de test retenu constituent un second ensemble d'outils indispensables (voir la rubrique [Environnement de test](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/environnement/#contenu)) ; ils sont, en effet, requis pour s'assurer d'une restitution correcte de contenus accessibles (les alternatives aux images, les intitulés de lien, les titres de tableau, ...) dans le cas notamment où l'examen du code seul ne suffirait pas.
+Les aides techniques listées dans l’environnement de test retenu constituent un second ensemble d'outils indispensables (voir la rubrique [Environnement de test](/publications/rgaa-accessibilite/methode-rgaa/environnement/#contenu)) ; ils sont, en effet, requis pour s'assurer d'une restitution correcte de contenus accessibles (les alternatives aux images, les intitulés de lien, les titres de tableau, ...) dans le cas notamment où l'examen du code seul ne suffirait pas.
 
 D'autres outils sont disponibles pour aider à la recherche des éléments de contenu ; ils se présentent souvent comme des extensions au navigateur et permettent d'explorer un ou plusieurs aspects d'un test d'accessibilité.
 
