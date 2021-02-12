@@ -1,6 +1,6 @@
 ---
 title: Notes de révision du RGAA 3 2017 vers RGAA 4 - RGAA
-permalink: "/publications/rgaa-accessibilite/notes-revision-rgaa3-rgaa4/"
+permalink: "/publications/rgaa-accessibilite/documentation-rgaa/notes-revision-rgaa3-rgaa4.0/"
 menu:
   title: Notes de révision du RGAA 3 2017 vers RGAA 4
   weight: 53
@@ -1915,14 +1915,14 @@ Création pour tenir compte des balises pourvues des rôles <code>columnheader</
 
 <h3>Modification du critère 6.1</h3>
 <p>
-Ajout du lien vers l’entrée de glossaire "<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#lien">Lien</a>".
+Ajout du lien vers l’entrée de glossaire "<a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#lien">Lien</a>".
 </p>
 
 <h4>Ancien critère 6.1</h4>
 <p>Critère 6.1 [A] Chaque lien est-il explicite (hors cas particuliers) ?</p>
 
 <h4>Nouveau critère 6.1</h4>
-<p>Critère 6.1 Chaque <a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#lien">lien</a> est-il explicite (hors cas particuliers) ?</p>
+<p>Critère 6.1 Chaque <a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#lien">lien</a> est-il explicite (hors cas particuliers) ?</p>
 
 
 <h3>Modification des cas particuliers 6.1 et 6.3</h3>
@@ -2011,7 +2011,7 @@ Précision concernant le contexte du lien qui doit être additionné à l’inti
 
 <h3>Création du test 6.1.4</h3>
 <p>
-Prise en compte du lien SVG, voir l’entrée de glossaire "<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#lien">Lien</a>".
+Prise en compte du lien SVG, voir l’entrée de glossaire "<a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#lien">Lien</a>".
 </p>
 
 <h4>Nouveau test 6.1.4</h4>
@@ -2060,7 +2060,7 @@ Le critère 6.4 est couvert par la nouvelle définition d’intitulé de lien do
 
 <h3>Modification du critère 6.5</h3>
 <p>
-Ajout du lien vers l’entrée de glossaire "<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#lien">Lien</a>".
+Ajout du lien vers l’entrée de glossaire "<a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#lien">Lien</a>".
 </p>
 <p>
 Pour tenir compte de la suppression des critères 6.2, 6.3 et 6.4, le critère 6.5 est renuméroté en 6.2.
@@ -2070,12 +2070,12 @@ Pour tenir compte de la suppression des critères 6.2, 6.3 et 6.4, le critère 6
 <p>Critère 6.5 [A] Dans chaque page web, chaque lien, à l'exception des ancres, a-t-il un intitulé ?</p>
 
 <h4>Nouveau critère 6.2</h4>
-<p>Critère 6.2 Dans chaque page web, chaque <a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#lien">lien</a>, à l'exception des ancres, a-t-il un intitulé ?</p>
+<p>Critère 6.2 Dans chaque page web, chaque <a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#lien">lien</a>, à l'exception des ancres, a-t-il un intitulé ?</p>
 
 
 <h3>Modification du test 6.5.1</h3>
 <p>
-Prise en compte de l’entrée de glossaire "<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#lien">Lien</a>".
+Prise en compte de l’entrée de glossaire "<a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#lien">Lien</a>".
 </p>
 <p>
 Renumérotation du test 6.5.1 en test 6.2.1.
@@ -3147,7 +3147,7 @@ Référence directe à la balise <code>&lt;label&gt;</code> car les autres techn
 
 <h3>Modification du test 11.2.4</h3>
 <p>
-Remplacement de "étiquette" par la nouvelle entrée de glossaire "<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#passage-de-texte">Passage de texte</a>".
+Remplacement de "étiquette" par la nouvelle entrée de glossaire "<a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#passage-de-texte">Passage de texte</a>".
 </p>
 
 <h4>Ancien test 11.2.4</h4>
