@@ -1,6 +1,6 @@
 ---
 title: Notes de révision du RGAA 4.0 vers RGAA 4.1 - RGAA
-permalink: "/publications/rgaa-accessibilite/erratum/"
+permalink: "/publications/rgaa-accessibilite/documentation-rgaa/notes-revision-rgaa4.0-rgaa4.1/"
 menu:
   title: Notes de révision du RGAA 4.0 vers RGAA 4.1
   weight: 54
@@ -638,6 +638,12 @@ Modification de la note 2 (issue #44) :
 est remplacée par :
 
 "Note 2 : Si cela ne gêne pas le fonctionnement de ce type de cadre, il est possible de les rendre indisponibles aux technologies d'assistance en utilisant l'attribut WAI-ARIA `aria-hidden="true"`. Dans ce cas le [critère 2.1](#crit-2-1) et le [critère 2.2](#crit-2-2) seront non applicables."
+
+### Version accessible (pour un document en téléchargement)
+
+Suppression de la phrase faisant référence à un document obsolescent (RGAA 3) présent sur un site désormais fermé (retour interne) :
+
+"Les contenus doivent être conformes à la liste des critères Documents Bureautiques en téléchargement (format ODT, 74 kilo-octets)."
 
 ### URL
 

@@ -22,19 +22,19 @@
                             <li style="list-style: none;">
                             <ul>
                                 {% for subLi in li.first[1] %}
-                                  <li>{{ subLi | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}</li>
+                                  <li>{{ subLi | replace: "(#crit", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#test" | markdownify }}</li>
                                 {% endfor %}
                             </ul>
                             </li>
                             {% else %}
-                            <li>{{ li | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}</li>
+                            <li>{{ li | replace: "(#crit", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#test" | markdownify }}</li>
                             {% endif %}
                         
                         {% endfor %}
                         
                     </ul>
                     {% else %}
-                        {{ dd | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}
+                        {{ dd | replace: "(#crit", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#test" | markdownify }}
                     {% endif %}
                 {% endfor %}
             </dd>
