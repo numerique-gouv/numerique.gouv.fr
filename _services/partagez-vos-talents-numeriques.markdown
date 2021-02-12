@@ -114,10 +114,10 @@ Expérimentation du dispositif « Partagez vos talents numériques »</b></p>
 Directeurs ministériels du numérique</li>
 <li>DITP</li>
 <li>DGAFP</li></ul></p>
+</div>
+</div>
+</div>
 <br>
-</div>
-</div>
-</div>
 <br>
 <br>
 
