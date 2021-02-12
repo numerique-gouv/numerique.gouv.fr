@@ -71,24 +71,9 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
   -->
 
 <div class="encadre noir">
-<h4> Et aussi, dans d'autres administrations…</h4>
-<p><a id="offresministères"></a>
-Zoom sur quelques postes dans le numérique public :</p>
-<br>
-<b>Direction générale des finances publiques (DGFiP)</b>
->
-> * <b>[Chef de projet / chargé de mission - Mission France Recouvrement F/H](https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064 "Chef de projet / chargé de mission F/H - Lien externe")</b>
-> <br>Cadre/Catégorie A
-> <br>Poste basé à Montreuil (93)
-> <br>
-> <br>
->
-> <b>Ministère de l'économie, des finances et de la relance</b>
-> <br>Direction générale des entreprises (DGE)
->
-> * <b>[Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H](https://place-emploi-public.gouv.fr/offre-emploi/administrateur-systemes--devops---peren---sen-peren-148-hf-reference-MEF_2021-3469 "Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H - Lien externe")</b>
-> <br>Cadre/Catégorie A
-> <br>
-> <br>
-> 
-{: .noir .encadre}
+<h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministères"></a></h3>
+<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> <p><strong>Direction générale des finances publiques (DGFiP)</strong></p> 
+<ul><li class="margin-bottom-1"><strong><a href="https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064" title="Chef de projet / chargé de mission F/H - Lien externe">Chef de projet / chargé de mission - Mission France Recouvrement F/H</a></strong><br>Cadre/Catégorie A <br>Poste basé à Montreuil (93)</li></ul> 
+<p><strong>Ministère de l’économie, des finances et de la relance</strong><br>Direction générale des entreprises (DGE)</p> 
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/administrateur-systemes--devops---peren---sen-peren-148-hf-reference-MEF_2021-3469" title="Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H - Lien externe">Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H</a></strong> <br>Cadre/Catégorie A</li></ul>
+</div>
