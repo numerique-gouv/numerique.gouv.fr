@@ -2,7 +2,7 @@
 title: 'Design public – Meetup #3'
 date: 2020-01-09 10:37:00 +01:00
 categories:
-- Meetup
+- Rencontre
 tags:
 - UX design
 - Designers d'Intérêt Général
