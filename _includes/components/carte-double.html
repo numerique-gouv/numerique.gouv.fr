@@ -9,7 +9,8 @@
           <a
             {% if carte-double.redirection %}
             href="{{carte-double.redirection}}" title="{{ carte-double.title }} - lien externe"
-            {% else if carte-double.redirection-interne %}
+            {% endif %}
+            {% if carte-double.redirection-interne %}
             href="{{carte-double.redirection-interne}}" title="{{ carte-double.title }}"
             {% else %}
             href="{{ carte-double.url}}"
