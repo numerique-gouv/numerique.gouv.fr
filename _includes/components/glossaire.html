@@ -1,5 +1,5 @@
 <div id="glossaire">
-    <nav role="navigation" aria-label="Sommaire du glossaire">
+    <nav aria-label="Sommaire du glossaire">
     {% for sections in site.data.rgaa.glossaire.glossary %}
         <a href="#{{ sections.section }}">{{ sections.section }}</a>
     {% endfor %}
@@ -15,9 +15,9 @@
                 {% for dd in dl.dd %}
                     {% if dd.first %}
                     <ul>
-                        
+
                         {% for li in dd.first[1] %}
-                        
+
                             {% if li.first %}
                             <li style="list-style: none;">
                             <ul>
@@ -29,9 +29,9 @@
                             {% else %}
                             <li>{{ li | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}</li>
                             {% endif %}
-                        
+
                         {% endfor %}
-                        
+
                     </ul>
                     {% else %}
                         {{ dd | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | markdownify }}

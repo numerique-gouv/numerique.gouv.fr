@@ -11,7 +11,7 @@
 <script>
   $(document).foundation();
 </script>
-<script type="text/javascript">
+<script >
   {% for item in site.data.imports %}
     {% if item.for == 'all' or item.for contains page.title %}
       var {{ item.name }} = document.createElement('script');
