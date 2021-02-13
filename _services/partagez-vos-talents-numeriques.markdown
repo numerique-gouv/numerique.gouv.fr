@@ -15,18 +15,46 @@ chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numéri
 une:
   image: "/uploads/Partagez-talents_produits-services.png"
 affiche-fleche: true
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+
+  a.lien-encadre {
+  color: #0A4D7F;
+  text-decoration: none;
+  }
+  a.lien-encadre:hover {
+  color: #0A4D7F;
+  text-decoration: underline;
+  }
+
+  hr.interieur {
+   margin-top: 6em;
+   margin-bottom: 7em;
+  }
 layout: rgaa
 ---
 
 <div class="exergue"><figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure><h2>Je suis agent de l’État</h2>
-<p>Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <br><a class="lien-encadre" href="#missions"><b>Découvrez les missions</b></a>.
+<p>Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <br><a class="lien-encadre" href="#missions"><b>> Découvrez les missions</b></a>.
 <br>Si aucune de celles disponibles pour le moment ne vous intéresse, rejoignez simplement le vivier.</p>
 <br>
 <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button" title="Proposer mes compétences - Lien externe">Proposer mes compétences</a>
 <br>
 <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
 </div>
-
+<br>
 <div class="exergue"><figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure><h2>Je suis une administration</h2>
 <p>Besoin d'un appui ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? D'un renfort dans la gestion de crise Covid-19 actuelle ?</p>
 
@@ -86,10 +114,10 @@ DGAFP du 2 mai 2019 portant sur le plan d’actions pour la filière numérique 
 Directeurs ministériels du numérique</li>
 <li>DITP</li>
 <li>DGAFP</li></ul>
+</div>
+</div>
+</div>
 <br>
-</div>
-</div>
-</div>
 <br>
 <br>
 
@@ -138,7 +166,7 @@ Selon leurs besoins, la nature des missions proposées par les administrations p
 
 Chaque mission répondant à un **besoin ponctuel**, elle est **délimitée dans le temps**. La durée comme la fréquence sont variables d’une mission à l’autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
-<p class="lien-important"><a href="#missions">Découvrir les missions proposées</a></p>
+<p class="lien-important"><b><a href="#missions">Découvrir les missions proposées</a></b></p>
 
 ### **Comment contribuer ?**
 
@@ -157,13 +185,12 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 ### **Que se passe-t-il après mon inscription ?**
 
 <ol>
-<li><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra dans les meilleurs délais.
+<li class="margin-bottom-1"><b>Si vous avez répondu à une mission,</b> le responsable de mission vous répondra dans les meilleurs délais.
 <br>
-<b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.<br></li>
-<li><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.<br></li>
-<li><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Assurez-vous simplement de l’accord de votre supérieur hiérarchique, nécessaire avant de démarrer toute mission.<br></li>
-<li><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li></ol>
-<br>
+<b>Si vous avez rejoint le vivier</b> sans répondre à une mission en particulier, nous communiquons votre profil à la communauté des responsables de missions (aucun élément vous concernant ne sera publié en ligne). L'un d'eux pourra ainsi vous contacter ultérieurement s'il identifie une mission correspondant à votre expertise.</li>
+<li class="margin-bottom-1"><b>Le responsable de mission vous propose d'échanger ensemble</b> si vos compétences l’intéressent.</li>
+<li class="margin-bottom-1"><b>Vous êtes tous les deux partants pour travailler ensemble ?</b> Assurez-vous simplement de l’accord de votre supérieur hiérarchique, nécessaire avant de démarrer toute mission.</li>
+<li class="margin-bottom-2"><b>C'est parti !</b> Vous commencez la mission selon les modalités prévues.</li></ol>
 <br>
 
 <div class="text-center">
@@ -178,14 +205,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <div class="text-center"><p class="text-center"><a href="#missions">
 <i class="fas fa-angle-down icon-arrow-down"></i></a></p></div>
 
-<br>
-<br>
-
-<hr>
-
-<br>
-<br>
-<br>
+<hr class="interieur">
 
 <figure class='image-left' style='width: 10%;'>
 <img src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg" style="margin-top: -20px;" alt="" id="missions"/></figure>## **Les missions proposées**
@@ -232,22 +252,13 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <li><b>Localisation :</b> à distance ou en télétravail</li>
 <li><b><a href="/uploads/2020_08_24_Fiches_COVID%2019_Faciliter%20la%20veille%20scientifique%20.pdf" title="Détails de la mission - pdf, 64 ko">Détails de la mission (pdf - 64 ko)</a></b></li></ul>
 
-> <p class="lien-important"><b><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Cette mission m'intéresse : je propose mes talents - Lien externe">Cette mission m'intéresse : je propose mes talents</a></b></p>
-<br>
+<p class="lien-important"><b><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Cette mission m'intéresse : je propose mes talents - Lien externe">Cette mission m'intéresse : je propose mes talents</a></b></p>
 
-<br>
-<br>
-<br>
-<br>
 
-<hr>
+<hr class="interieur">
 
-<br>
-<br>
-<br>
-
-<figure class='image-left' style='width: 10%;'>
-<img src="/uploads/comment_ca_marche_administrations.svg" alt="" id="comment-ca-marche-admin"/></figure>## **Comment ça marche pour les administrations ?**
+<figure class="image-left" style="width: 10%;">
+<img src="/uploads/comment_ca_marche_administrations.svg" alt="" id="comment-ca-marche-admin"/></figure><h2><b>Comment ça marche pour les administrations ?</b></h2>
 
 ### **Qu'est-ce que c'est ?**
 
