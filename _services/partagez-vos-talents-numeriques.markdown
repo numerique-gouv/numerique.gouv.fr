@@ -46,7 +46,6 @@ style: |-
 layout: rgaa
 ---
 
-
 <div class="exergue"><figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure><h2>Je suis agent de l’État</h2>
 <p>Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <br><a class="lien-encadre" href="#missions"><b>> Découvrez les missions</b></a>.
 <br>Si aucune de celles disponibles pour le moment ne vous intéresse, rejoignez simplement le vivier.</p>
@@ -92,13 +91,28 @@ layout: rgaa
 
 Le dispositif *Partagez vos talents numériques !* et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
 [Consultez la note du DINUM cadrant le dispositif (pdf - 625 Ko)](/uploads/Note-DINUM_partagez-vos-talents-numeriques.pdf "Consultez la note du DINUM cadrant le dispositif - pdf, 625 Ko"), validée par les ministères.
-<div class="accordion no-bullet" data-accordion data-allow-all-closed="true">
-<div class="accordion-item" data-accordion-item>
-<a href="#" class="accordion-title">Version accessible de la note</a>
-<div class="accordion-content" data-tab-content >
+<script>
+function myFunction(id) {
+  let x = document.getElementById(id);
+  let button = document.getElementById("accordion-button");
+  if (x.className.indexOf("show") == -1) {
+    x.className += " show";
+    button.className += " is-active"
+  } else {
+    x.className = x.className.replace(" show", "");
+    button.className = button.className.replace(" is-active", "");
+  }
+}
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="accordion-item">
+<button onclick="myFunction('note')" id="accordion-button" class="accordion-title" aria-controls="note" aria-expanded="false">Version accessible de la note</button>
+<div class="accordion-content" id="note" style="display: none;">
 <p><b>NOTE à l’attention des secrétaires généraux
 Expérimentation du dispositif « Partagez vos talents numériques »</b></p>
-<p>Le dispositif « Partagez vos talents numériques » s’inscrit dans le cadre de la mission TALENTS du programme TECH.GOUV de la DINUM, qui vise à attirer, fidéliser et valoriser les talents du numérique. Il concrétise une des actions prioritaires de la circulaire DINSIC-DGAFP du 2 mai 2019 portant sur le plan d’actions pour la filière numérique et des systèmes d’information et de communication (CPAF1913085C).</p>
+<p>Le dispositif « Partagez vos talents numériques » s’inscrit dans le cadre de la mission TALENTS du programme TECH.GOUV de la DINUM, qui vise à attirer, fidéliser et valoriser les talents du numérique. Il concrétise une des actions prioritaires de la circulaire DINSIC-
+DGAFP du 2 mai 2019 portant sur le plan d’actions pour la filière numérique et des systèmes d’information et de communication (CPAF1913085C).</p>
 <p>Son objet est de permettre à un agent de l’État disposant d’expertises numériques, dit « talent numérique », de mettre ponctuellement ses compétences au service d’un autre service de l’État, sans impact sur sa position administrative et sa rémunération. Un système de mesure et de compensation (crédit virtuel) sera instauré au bénéfice des structures qui emploient ces agents, et qui facilitent ainsi l’accès de ces agents à ce dispositif. Une valorisation virtuelle (distinctions, diplômes virtuels, mise en avant) sera également mise en place au profit des agents volontaires concernés.</p>
 <p>Avec ce projet, la DINUM veut développer et encourager une culture d’entre-aide interministérielle, profitable à la réussite des projets numériques. En effet le développement de nouvelles modalités de travail, plus transversales et coopératives, est un levier puissant pour atteindre notre objectif commun d’accélération de la transformation du service public. Il permettrait également de renforcer l’attractivité de l’État-employeur dans le domaine du numérique.</p>
 <p>À compter de mai 2020, le dispositif sera expérimenté selon les orientations validées par les directions du numérique ministérielles (DNUM) lors de la réunion de suivi du programme TECH.GOUV du 6 février 2020. À cette occasion, les DNUM ont donné leur accord pour que les agents qui le souhaitent se recensent dans le dispositif expérimental. L’accord sur le démarrage effectif d’une mission reste bien entendu à la main de l’employeur du talent, en fonction des nécessités de service. Dans les circonstances de crise sanitaire majeure que nous vivons, j’ai choisi de maintenir ce calendrier car les besoins d’entraide et de coopération s’avèrent, pour certains ministères, particulièrement critiques et je serais heureux que ce dispositif puisse contribuer à y répondre au mieux.</p>
@@ -109,11 +123,11 @@ Expérimentation du dispositif « Partagez vos talents numériques »</b></p>
 <br>Directeur interministériel du numérique
 <br>(Signature de Nadi Bou Hanna)</p>
 
-<p>Copie :
+<p>Copie :</p>
 <ul><li>Cabinets (Premier-Ministre, MACP, SENUM)
 Directeurs ministériels du numérique</li>
 <li>DITP</li>
-<li>DGAFP</li></ul></p>
+<li>DGAFP</li></ul>
 </div>
 </div>
 </div>
@@ -301,9 +315,4 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 
 <div class="text-center">
 <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" title="Proposer une mission - Lien externe" class="button">Proposer une mission</a></div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div id="list-bottom"></div>
+

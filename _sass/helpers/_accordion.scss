@@ -2,4 +2,10 @@
   width: 100%;
   text-align: left;
   cursor: pointer;
+  &::before {
+    content: '+';
+  }
+  &.is-active::before {
+    content: '\2013';
+  }
 }

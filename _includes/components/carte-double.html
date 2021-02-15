@@ -7,10 +7,12 @@
       <div class="padding-2">
         <h3 class="h4 font-bold margin-0">
           <a
-            {% if carte-double.redirection %}
-            href="{{carte-double.redirection}}" title="{{ carte-double.title }} - lien externe"
-            {% else if carte-double.redirection-interne %}
-            href="{{carte-double.redirection-interne}}" title="{{ carte-double.title }}"
+            {% if carte-double.redirection-interne or carte-double.redirection %}
+              {% if carte-double.redirection %}
+              href="{{carte-double.redirection}}" title="{{ carte-double.title }} - lien externe"
+              {% else %}
+              href="{{carte-double.redirection-interne}}" title="{{ carte-double.title }}"
+              {% endif %}
             {% else %}
             href="{{ carte-double.url}}"
             {% endif %}

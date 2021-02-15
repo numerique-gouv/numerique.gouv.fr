@@ -45,24 +45,27 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <br>
 <br>
 
-<div class="text-center">
-<a href="/uploads/organigramme_DINUM.pdf" class="button">Consulter l'organigramme (pdf - 106 Ko)</a></div>
+<div class="text-center"><a href="/uploads/organigramme_DINUM.pdf" class="button">Consulter l'organigramme (pdf - 106 Ko)</a></div>
 
 <script>
 function myFunction(id) {
-  var x = document.getElementById(id);
+  let x = document.getElementById(id);
+  let button = document.getElementById("accordion-button");
+
   if (x.className.indexOf("show") == -1) {
     x.className += " show";
+    button.className += " is-active"
   } else {
     x.className = x.className.replace(" show", "");
+    button.className = button.className.replace(" is-active", "");
   }
 }
 </script>
 
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
 <div class="accordion-item">
-<button onclick="myFunction('organigramme')" class="accordion-title" aria-controls="organigramme" aria-expanded="false">Version accessible de l'organigramme</button>
-<div class="accordion-content" data-tab-content="" id="organigramme" aria-labelledby="organigramme-label" aria-hidden="true" style="display: none;">
+<button onclick="myFunction('organigramme')" id="accordion-button" class="accordion-title" aria-controls="organigramme" aria-expanded="false">Version accessible de l'organigramme</button>
+<div class="accordion-content" id="organigramme" style="display: none;">
 <p><b>Sont rattachés à la direction&nbsp;:</b> le programme TECH.GOUV, le département Infrastructures et Services Opérés (ISO), le département Etalab (cycle de vie de la donnée), le département Performance des Services Numériques (PSN), ainsi que le secrétariat général.</p>
 <p>Chacun est divisé en missions ou pôles. En voici le détail, avec le nom des responsables.</p>
 <br>

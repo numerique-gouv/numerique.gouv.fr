@@ -5,13 +5,14 @@
     <div class="padding-2">
       <h3 class="h4 font-bold margin-0">
         <a
-          {% if carte.redirection %}
-          href="{{carte.redirection}}" title="{{ carte.title }} - lien externe"
-          {% endif %}
-          {% if carte.redirection-interne %}
-          href="{{carte.redirection-interne}}" title="{{ carte.title }}"
+          {% if carte.redirection-interne or carte.redirection %}
+            {% if carte.redirection %}
+            href="{{carte.redirection}}" title="{{ carte.title }} - lien externe"
+            {% else %}
+            href="{{carte.redirection-interne}}" title="{{ carte.title }}"
+            {% endif %}
           {% else %}
-          href="{{ carte.url}}"
+            href="{{ carte.url}}"
           {% endif %}
           class="black-link card-actu-link">
         {{ carte.title }}
