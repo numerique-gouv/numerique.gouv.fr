@@ -95,7 +95,6 @@ Le dispositif *Partagez vos talents numériques !* et ses modalités d’expéri
 function myFunction(id) {
   let x = document.getElementById(id);
   let button = document.getElementById("accordion-button");
-
   if (x.className.indexOf("show") == -1) {
     x.className += " show";
     button.className += " is-active"
