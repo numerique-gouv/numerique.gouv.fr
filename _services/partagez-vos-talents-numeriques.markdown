@@ -91,10 +91,25 @@ layout: rgaa
 
 Le dispositif *Partagez vos talents numériques !* et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
 [Consultez la note du DINUM cadrant le dispositif (pdf - 625 Ko)](/uploads/Note-DINUM_partagez-vos-talents-numeriques.pdf "Consultez la note du DINUM cadrant le dispositif - pdf, 625 Ko"), validée par les ministères.
-<div class="accordion no-bullet" data-accordion data-allow-all-closed="true">
-<div class="accordion-item" data-accordion-item>
-<a href="#" class="accordion-title">Version accessible de la note</a>
-<div class="accordion-content" data-tab-content >
+<script>
+function myFunction(id) {
+  let x = document.getElementById(id);
+  let button = document.getElementById("accordion-button");
+
+  if (x.className.indexOf("show") == -1) {
+    x.className += " show";
+    button.className += " is-active"
+  } else {
+    x.className = x.className.replace(" show", "");
+    button.className = button.className.replace(" is-active", "");
+  }
+}
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="accordion-item">
+<button onclick="myFunction('note')" id="accordion-button" class="accordion-title" aria-controls="note" aria-expanded="false">Version accessible de la note</button>
+<div class="accordion-content" id="note" style="display: none;">
 <p><b>NOTE à l’attention des secrétaires généraux
 Expérimentation du dispositif « Partagez vos talents numériques »</b></p>
 <p>Le dispositif « Partagez vos talents numériques » s’inscrit dans le cadre de la mission TALENTS du programme TECH.GOUV de la DINUM, qui vise à attirer, fidéliser et valoriser les talents du numérique. Il concrétise une des actions prioritaires de la circulaire DINSIC-
