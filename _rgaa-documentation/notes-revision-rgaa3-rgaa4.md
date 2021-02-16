@@ -1,9 +1,9 @@
 ---
-title: Notes de révision - RGAA
-permalink: "/publications/rgaa-accessibilite/notes-revision/"
+title: Notes de révision du RGAA 3 2017 vers RGAA 4 - RGAA
+permalink: "/publications/rgaa-accessibilite/documentation-rgaa/notes-revision-rgaa3-rgaa4.0/"
 menu:
-  title: Notes de révision
-  weight: 70
+  title: Notes de révision du RGAA 3 2017 vers RGAA 4
+  weight: 53
 layout: rgaa-accessibilite
 ---
 
@@ -20,43 +20,13 @@ layout: rgaa-accessibilite
 
 <h3>Résumé des modifications notables</h3>
 <p>De nombreux critères et tests ont été modifiés afin que le référentiel technique reste le plus fidèle possible à ce que proposent les critères WCAG 2.1.</p>
-<p>Les critères RGAA de niveau triple A (AAA) ont été retirés du référentiel, étant donné que la directive européenne ne tient pas compte elle-même des critères WCAG triple A qu'elle rappelle juste en annexe technique.</p>
-<p>Pour information et rappel, voici la liste traduite en français des critères de succès triple A (AAA) des WCAG 2.1 figurant dans cette annexe. Cette traduction a été effectuée pour répondre aux besoins techniques immédiats. En cas de divergence d’interprétation, veuillez vous référer à la traduction officielle de l’AFNOR.</p>
-<ol>
-<li>Média temporel. 1.2.6 - Langue des signes (préenregistrée)</li>
-<li>Média temporel. 1.2.7 - Audiodescription étendue (préenregistrée)</li>
-<li>Média temporel. 1.2.8 - Version de remplacement pour un média temporel (préenregistré)</li>
-<li>Média temporel. 1.2.9 - Seulement audio (en direct)</li>
-<li>Adaptable. 1.3.6 - Identify purpose (Identification de l’objet)</li>
-<li>Distinguable. 1.4.6 - Contraste (amélioré)</li>
-<li>Distinguable. 1.4.7 - Arrière-plan sonore de faible volume ou absent</li>
-<li>Distinguable. 1.4.8 - Présentation visuelle</li>
-<li>Distinguable. 1.4.9 - Texte sous forme d’image (sans exception)</li>
-<li>Accessibilité au clavier. 2.1.3 - Clavier (sans exception)</li>
-<li>Délai suffisant. 2.2.3 - Pas de délai d’exécution</li>
-<li>Délai suffisant. 2.2.4 - Interruptions</li>
-<li>Délai suffisant. 2.2.5 - Nouvelle authentification</li>
-<li>Délai suffisant. 2.2.6 - Timeouts (Dépassements du temps imparti)</li>
-<li>Crises et réactions physiques. 2.3.2 - Trois flashs</li>
-<li>Crises et réactions physiques. 2.3.3 - Animation from Interactions (Animation résultant des interactions)</li>
-<li>Navigable. 2.4.8 - Localisation</li>
-<li>Navigable. 2.4.9 - Fonction du lien (lien uniquement)</li>
-<li>Navigable. 2.4.10 - En-têtes de section</li>
-<li>Input modalities (Modalités de saisie). 2.5.5 - Target Size (Taille de la cible)</li>
-<li>Input modalities (Modalités de saisie). 2.5.6 - Concurrent Input Mechanisms (Mécanismes de saisie concurrents)</li>
-<li>Lisible. 3.1.3 - Mots rares</li>
-<li>Lisible. 3.1.4 - Abréviations</li>
-<li>Lisible. 3.1.5 - Niveau de lecture</li>
-<li>Lisible. 3.1.6 - Prononciation</li>
-<li>Prévisible. 3.2.5 - Changement à la demande</li>
-<li>Assistance à la saisie. 3.3.5 - Aide</li>
-<li>Assistance à la saisie. 3.3.6 - Prévention des erreurs (toutes)</li>
-</ol>
+<p>Les critères RGAA de niveau triple A (AAA) ont été retirés du référentiel, étant donné que la directive européenne ne tient pas compte elle-même des critères WCAG triple A qu'elle rappelle juste en annexe technique</a>.</p>
+<p>Pour information et rappel, une traduction a été effectuée pour répondre aux besoins techniques immédiats : <a href="/publications/rgaa-accessibilite/annexe-aaa/">Annexe – Critères de succès triple A (AAA) des WCAG 2.1</a>.</p>
 
 <h3>Modifications générales sur tout ou partie des documents</h3>
 <ul>
 <li>Suppression des niveaux RGAA.</li>
-<li>Supression de la référence aux principes WCAG.</li>
+<li>Suppression de la référence aux principes WCAG.</li>
 <li>La mention "ARIA" a été systématiquement remplacée par "WAI-ARIA".</li>
 <li>La mention "propriété" WAI-ARIA a été remplacée par "attribut".</li>
 <li>Lorsqu'il est fait mention d'une balise ou d'un élément HTML, l'entité en question est délimitée par des chevrons ouvrant et fermant.</li>
@@ -1945,14 +1915,14 @@ Création pour tenir compte des balises pourvues des rôles <code>columnheader</
 
 <h3>Modification du critère 6.1</h3>
 <p>
-Ajout du lien vers l’entrée de glossaire "<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#lien">Lien</a>".
+Ajout du lien vers l’entrée de glossaire "<a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#lien">Lien</a>".
 </p>
 
 <h4>Ancien critère 6.1</h4>
 <p>Critère 6.1 [A] Chaque lien est-il explicite (hors cas particuliers) ?</p>
 
 <h4>Nouveau critère 6.1</h4>
-<p>Critère 6.1 Chaque <a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#lien">lien</a> est-il explicite (hors cas particuliers) ?</p>
+<p>Critère 6.1 Chaque <a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#lien">lien</a> est-il explicite (hors cas particuliers) ?</p>
 
 
 <h3>Modification des cas particuliers 6.1 et 6.3</h3>
@@ -2041,7 +2011,7 @@ Précision concernant le contexte du lien qui doit être additionné à l’inti
 
 <h3>Création du test 6.1.4</h3>
 <p>
-Prise en compte du lien SVG, voir l’entrée de glossaire "<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#lien">Lien</a>".
+Prise en compte du lien SVG, voir l’entrée de glossaire "<a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#lien">Lien</a>".
 </p>
 
 <h4>Nouveau test 6.1.4</h4>
@@ -2090,7 +2060,7 @@ Le critère 6.4 est couvert par la nouvelle définition d’intitulé de lien do
 
 <h3>Modification du critère 6.5</h3>
 <p>
-Ajout du lien vers l’entrée de glossaire "<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#lien">Lien</a>".
+Ajout du lien vers l’entrée de glossaire "<a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#lien">Lien</a>".
 </p>
 <p>
 Pour tenir compte de la suppression des critères 6.2, 6.3 et 6.4, le critère 6.5 est renuméroté en 6.2.
@@ -2100,12 +2070,12 @@ Pour tenir compte de la suppression des critères 6.2, 6.3 et 6.4, le critère 6
 <p>Critère 6.5 [A] Dans chaque page web, chaque lien, à l'exception des ancres, a-t-il un intitulé ?</p>
 
 <h4>Nouveau critère 6.2</h4>
-<p>Critère 6.2 Dans chaque page web, chaque <a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#lien">lien</a>, à l'exception des ancres, a-t-il un intitulé ?</p>
+<p>Critère 6.2 Dans chaque page web, chaque <a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#lien">lien</a>, à l'exception des ancres, a-t-il un intitulé ?</p>
 
 
 <h3>Modification du test 6.5.1</h3>
 <p>
-Prise en compte de l’entrée de glossaire "<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#lien">Lien</a>".
+Prise en compte de l’entrée de glossaire "<a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#lien">Lien</a>".
 </p>
 <p>
 Renumérotation du test 6.5.1 en test 6.2.1.
@@ -3177,7 +3147,7 @@ Référence directe à la balise <code>&lt;label&gt;</code> car les autres techn
 
 <h3>Modification du test 11.2.4</h3>
 <p>
-Remplacement de "étiquette" par la nouvelle entrée de glossaire "<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/glossaire/#passage-de-texte">Passage de texte</a>".
+Remplacement de "étiquette" par la nouvelle entrée de glossaire "<a href="/publications/rgaa-accessibilite/methode-rgaa/glossaire/#passage-de-texte">Passage de texte</a>".
 </p>
 
 <h4>Ancien test 11.2.4</h4>

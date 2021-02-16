@@ -47,28 +47,26 @@
             {% endfor %}
 
         <article id="crit-{{ topics.number }}-{{ criteria.criterium.number }}" data-level="{{ critLevel }}" class="is-visible">
-            <h4 class="critere">Critère {{ topics.number }}.{{ criteria.criterium.number }}. {{ criteria.criterium.title | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify  | remove: '<p>' | remove: '</p>' }}<button type="button" class="is-closed"><span class="show-for-sr">"Afficher les tests du critère {{ topics.number }}.{{ criteria.criterium.number }}"</span><svg aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 24 24"><path d="M24 9h-9v-9h-6v9h-9v6h9v9h6v-9h9z"/></svg></button></h4>
+            <h4 class="critere">Critère {{ topics.number }}.{{ criteria.criterium.number }}. {{ criteria.criterium.title | replace: "(#", "(/publications/rgaa-accessibilite/methode-rgaa/glossaire/#" | markdownify  | remove: '<p>' | remove: '</p>' }}<button type="button" class="is-closed"><span class="show-for-sr">"Afficher les tests du critère {{ topics.number }}.{{ criteria.criterium.number }}"</span><svg aria-hidden="true" focusable="false" width="20" height="20" viewBox="0 0 24 24"><path d="M24 9h-9v-9h-6v9h-9v6h9v9h6v-9h9z"/></svg></button></h4>
                 <ul class="tests is-hidden">
                     {% assign testNum = 1 %}
                     {% for test in criteria.criterium.tests %}
-                        {% if test[1].first %}
                         <li id="test-{{ topics.number }}-{{ criteria.criterium.number }}-{{ testNum }}">
-                            <span class="test">Test {{ topics.number }}.{{ criteria.criterium.number }}.{{ test.first }}</span> : {{ test[1].first | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}
+                            <span class="test">Test {{ topics.number }}.{{ criteria.criterium.number }}.{{ test.first }}</span> : {{ test[1].first | replace: "(#", "(/publications/rgaa-accessibilite/methode-rgaa/glossaire/#" | markdownify }}
+                            {% if test[1].size > 1 %}
                             <ul>
                                 {% for condition in test[1] %}
                                     {% unless condition == test[1].first %}
-                                        <li>{{ condition | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}</li>
+                                        <li>{{ condition | replace: "(#", "(/publications/rgaa-accessibilite/methode-rgaa/glossaire/#" | markdownify }}</li>
                                     {% endunless %}
                                 {% endfor %}
                             </ul>
+                            {% endif %}
                         </li>
-                        {% else %}
-                        <li id="test-{{ topics.number }}-{{ criteria.criterium.number }}-{{ testNum }}"><span class="test">Test {{ topics.number }}.{{ criteria.criterium.number }}.{{ test.first }}</span> : {{ test[1] | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}</li>
-                        {% endif %}
                         {% assign testNum = testNum | plus: 1 %}
                     {% endfor %}
                 </ul>
-            <aside class="is-hidden">
+            <div class="aside is-hidden">
                 {% if criteria.criterium.particularCases %}
                     <h5>Cas particuliers</h5>
                     {% for cp in criteria.criterium.particularCases %}
@@ -78,16 +76,16 @@
                                 {% if li.first %}
                                 <ul>
                                     {% for subLi in li.first[1] %}
-                                    <li>{{ subLi | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}</li>
+                                    <li>{{ subLi | replace: "(#crit", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#test" | replace: "(#", "(/publications/rgaa-accessibilite/methode-rgaa/glossaire/#" | markdownify }}</li>
                                     {% endfor %}
                                 </ul>
                                 {% else %}
-                                <li>{{ li | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}</li>
+                                <li>{{ li | replace: "(#crit", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#test" | replace: "(#", "(/publications/rgaa-accessibilite/methode-rgaa/glossaire/#" | markdownify }}</li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
                         {% else %}
-                            {{ cp | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}
+                            {{ cp | replace: "(#crit", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#test" | replace: "(#", "(/publications/rgaa-accessibilite/methode-rgaa/glossaire/#" | markdownify }}
                         {% endif %}
                     {% endfor %}
                 {% endif %}
@@ -100,22 +98,22 @@
                                 {% if li.first %}
                                 <ul>
                                     {% for subLi in li.first[1] %}
-                                    <li>{{ subLi | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}</li>
+                                    <li>{{ subLi | replace: "(#crit", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#test" | replace: "(#", "(/publications/rgaa-accessibilite/methode-rgaa/glossaire/#" | markdownify }}</li>
                                     {% endfor %}
                                 </ul>
                                 {% else %}
-                                <li>{{ li | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}</li>
+                                <li>{{ li | replace: "(#crit", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#test" | replace: "(#", "(/publications/rgaa-accessibilite/methode-rgaa/glossaire/#" | markdownify }}</li>
                                 {% endif %}
                             {% endfor %}
                         </ul>
                         {% else %}
-                            {{ nt | replace: "(#crit", "(/publications/rgaa-accessibilite/methode/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode/criteres/#test" | replace: "(#", "(/publications/rgaa-accessibilite/methode/glossaire/#" | markdownify }}
+                            {{ nt | replace: "(#crit", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#crit" | replace: "(#test", "(/publications/rgaa-accessibilite/methode-rgaa/criteres/#test" | replace: "(#", "(/publications/rgaa-accessibilite/methode-rgaa/glossaire/#" | markdownify }}
                         {% endif %}
                     {% endfor %}
                 {% endif %}
                 <h5>Correspondances WCAG 2.1</h5>
                 <ul><li><span>Critère(s) de succès WCAG 2.1 : </span>
-                    <span>
+                    <span lang="en">
                          {% assign level = "" %}
                          {% for sc in criteria.criterium.references[0].wcag %}
                              {% assign splitSc = sc | split: " " %}
@@ -172,7 +170,7 @@
                  <h5>Correspondances EN 301 549 V2.1.2 (2018-08)</h5>
                  <ul>
                     {% for sc in criteria.criterium.references[0].wcag %}
-                    <li>
+                    <li lang="en">
                         {% if sc == criteria.criterium.references[0].wcag.last %}
                             {{ sc }}.
                         {% else %}
@@ -181,7 +179,7 @@
                     </li>
                     {% endfor %}
                 </ul>
-            </aside>
+            </div>
         </article>
         {% endfor %}
         <a class="back-to-topics" href="#topics-list">Retour à la liste des thématiques</a>

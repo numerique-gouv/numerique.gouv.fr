@@ -13,6 +13,9 @@ collections:
     title: Communiqués
     output: true
     permalink: "/espace-presse/:title/"
+  rgaa-documentation:
+    title: Documentation RGAA
+    output: true
   evenements:
     title: Evénements
     output: true
@@ -20,7 +23,7 @@ collections:
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
-  methode:
+  rgaa-methode:
     title: Méthode technique
     output: true
   outils-agents:
@@ -184,7 +187,7 @@ algolia:
   - md
   - markdown
   files_to_exclude:
-  - _rgaa/notes-revision.md
+  - _rgaa-documentation/notes-revision-rgaa3-rgaa4.md
   - _pages/index.md
   - _pages/algolia.md
   - _pages/espace-presse.md

@@ -1,6 +1,6 @@
 ---
 title: Glossaire - RGAA
-permalink: "/publications/rgaa-accessibilite/methode/glossaire/"
+permalink: "/publications/rgaa-accessibilite/methode-rgaa/glossaire/"
 menu:
   title: Glossaire
   weight: 33
