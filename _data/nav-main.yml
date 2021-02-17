@@ -1,5 +1,5 @@
-- link: La DINSIC
-  url: /dinsic
+- link: La DINUM
+  url: /dinum
 
 - link: Actualités
   url: /actualites
@@ -7,10 +7,14 @@
 - link: Agenda
   url: /agenda
 
-- link: Espace presse
-  url: /espace-presse
-
 - link: Publications
   url: /publications
 
+- link: Services
+  url: /services
 
+- link: Outils agents
+  url: /outils-agents
+
+- link: Recrutement
+  url: /rejoignez-nous

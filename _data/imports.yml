@@ -82,4 +82,6 @@
   link: vendors~contact.js
   for: Nous contacter
 
-
+- name: RGAA
+  link: rgaa.js
+  for: Critères et tests - RGAA

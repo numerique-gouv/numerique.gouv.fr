@@ -13,7 +13,7 @@
 
 a {
   color: $turquoise;
-  &:hover {
+  &:hover, &:focus {
     color: $turquoise;
     text-decoration: underline;
   }
@@ -93,6 +93,7 @@ a {
 
 .partager {
   margin: 1rem;
+  text-decoration: none;
   ul {
     list-style: none;
     margin: 0 auto;
@@ -115,3 +116,18 @@ a {
   }
 }
 
+.active-link {
+  background: $light-gray;
+}
+
+.block-link {
+  position: relative;
+  a::after {
+    position: absolute;
+    content: "";
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+}

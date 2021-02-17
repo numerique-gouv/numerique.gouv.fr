@@ -2,7 +2,6 @@
 title: 'Loi pour une République numérique : parution du décret fixant les catégories
   de données diffusables sans anonymisation'
 date: 2018-12-12 12:05:00 +01:00
-published: false
 categories:
 - Communiqué de presse
 tags:
@@ -24,7 +23,7 @@ contact-presse:
   - 06.84.72.02.00
   email: rachel.wadoux@modernisation.gouv.fr
 files:
-- lien: "/uploads/CP_decret_fixant_les_categories_de_donnees_diffusables_sans_anonymisation.pdf"
+- file: "/uploads/CP_decret_fixant_les_categories_de_donnees_diffusables_sans_anonymisation.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
@@ -40,7 +39,7 @@ Sont concernés :
 *  Les conditions d’organisation et d’exercice des activités sportives ;
 *  Le répertoire national des élus ;
 *  Les registres des chambres d’hôtes et gîtes ; 
-*  La base des permis de construire ; 
+*  La base des permis de construire.
 
 Dès à présent, les administrations sont donc libres de communiquer ces données sans avoir à les anonymiser au préalable ; un pas de plus pour la **transparence de l’administration.** Le périmètre des données considérées comme essentielles à l’information légitime des citoyens français s’élargit, et par là même, **le potentiel de création de services numériques innovants grâce aux données.**
   

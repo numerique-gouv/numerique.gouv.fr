@@ -1,5 +1,5 @@
 ---
-title: 'Entrepreneur·e d’Intérêt Général : découvrez la 3e promotion !'
+title: 'Entrepreneur d’Intérêt Général : découvrez la 3e promotion !'
 date: 2018-12-07 14:48:00 +01:00
 categories:
 - Article
@@ -18,3 +18,5 @@ auteur: Etalab.gouv.fr
 redirection: https://www.etalab.gouv.fr/entrepreneur%c2%b7e-dinteret-general-vous-presente-sa-3eme-promotion/
 ---
 
+> [Lire la suite sur Etalab.gouv.fr](https://www.etalab.gouv.fr/entrepreneur%c2%b7e-dinteret-general-vous-presente-sa-3eme-promotion/)
+{: .lien-important}

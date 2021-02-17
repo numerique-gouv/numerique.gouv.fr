@@ -1,28 +1,30 @@
 {% assign carte = include.data %}
 
 <div class="cell grid-y carte height-100">
-  <a
-    {% if carte.redirection %}
-      href="{{carte.redirection}}" target="_blank"
-    {% else %}
-      href="{{ carte.url}}"
-    {% endif %}
-     class="card-actu black-link">
-    {% if carte.une-ou-diaporama[0] %}
-    <div class="object-fit__image-container index-image-container">
-      <img class="object-fit__featured-image" alt="{{ carte.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ carte.une-ou-diaporama[0].image }}">
-    </div>
-    {% endif %}
+  <div class="card-actu simple-card block-link">
     <div class="padding-2">
-      <p class="h4 font-bold margin-0">{{ carte.title }}
+      <h3 class="h4 font-bold margin-0">
+        <a
+          {% if carte.redirection-interne or carte.redirection %}
+            {% if carte.redirection %}
+            href="{{carte.redirection}}" title="{{ carte.title }} - lien externe"
+            {% else %}
+            href="{{carte.redirection-interne}}" title="{{ carte.title }}"
+            {% endif %}
+          {% else %}
+            href="{{ carte.url}}"
+          {% endif %}
+          class="black-link card-actu-link">
+        {{ carte.title }}
+        </a>
         {% if carte.redirection %}
-        <img class="picto-external-link" src="/assets/img/pictogrammes/icon-lien.png" alt="pictogramme lien externe">
-        {% endif %}</p>
+        <img class="picto-external-link" src="/assets/img/pictogrammes/icon-lien.png" alt="">
+        {% endif %}</h3>
       {% if carte.categories %}
-      <span class="h6 date display-inline">{{ carte.categories.last }} | </span>
+      <p class="h6 date display-inline">{{ carte.categories.last }} | </p>
       {% endif %}
       {% if carte.date %}
-      <span class="h6 date display-inline-block">{% include helpers/date.html date=carte.date %}</span>
+      <p class="h6 date display-inline-block">{% include helpers/date.html date=carte.date %}</p>
       {% endif %}
       <p>
         {% if carte.chapeau-text %}
@@ -32,6 +34,11 @@
         {% endif %}
       </p>
     </div>
-  </a>
+    {% if carte.une-ou-diaporama[0] %}
+    <div class="object-fit__image-container index-image-container carte-image">
+      <img class="object-fit__featured-image" alt="{{ carte.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ carte.une-ou-diaporama[0].image }}">
+    </div>
+    {% endif %}
+  </div>
   <hr class="blue-hr margin-top-auto">
 </div>

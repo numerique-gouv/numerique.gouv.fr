@@ -2,6 +2,7 @@
 title: Lancement d'un espace en ligne pour recenser les difficultés des TPE/PME avec
   les plateformes de vente en ligne
 date: 2018-10-31 11:55:00 +01:00
+published: false
 categories:
 - Appel à contributions
 is_une: true
