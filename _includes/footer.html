@@ -1,5 +1,5 @@
-<footer id="footer" role="contentinfo">
-  <nav>
+<footer id="footer">
+  <div class="nav">
     <div class="grid-x grid-margin-x padding-2">
       <div class="large-4 medium-12 small-12 ">
         <p class="p">{{ site.title }}</p>
@@ -10,13 +10,9 @@
           <li><a class="text-uppercase" href="{{ item.url }}">{{ item.link }}</a></li>
           {% endfor %}
         </ul>
-        <br>
-        <ul class="no-bullet conformity">
-          <li>Accessibilité : non conforme</li>
-        </ul>
       </div>
       <div class="cell large-2 medium-6 small-12 grid-y">
-        <a href="/plan-du-site"><p class="h5 gray-link-footer mb-1">Plan du site</p></a>
+        <a href="/plan-du-site"><p class="h5 gray-link-footer mb-1" role="heading" aria-level="2">Plan du site</p></a>
         <ul class="no-bullet">
           {% for item in site.data.liens-footer.plan-du-site %}
           <li><a href="{{ item.url }}">{{ item.link }}</a></li>
@@ -24,27 +20,27 @@
         </ul>
       </div>
       <div class="cell large-3 medium-6 small-12 grid-y">
-        <p class="h5 mb-1">Nos univers</p>
+        <p class="h5 mb-1" role="heading" aria-level="2">Nos univers</p>
         <ul class="no-bullet">
           {% for item in site.data.liens-footer.sites-references %}
-          <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+          <li><a href="{{ item.url }}" title="{{ item.link }} - lien externe">{{ item.link }}</a></li>
           {% endfor %}
         </ul>
       </div>
       <div class="cell large-3 medium-6 small-12 grid-y">
         <div class="row">
-          <p class="h5 mb-1">Nos services aux usagers</p>
+          <p class="h5 mb-1" role="heading" aria-level="2">Nos services aux usagers</p>
           <ul class="no-bullet">
             {% for item in site.data.liens-footer.services-usagers %}
-            <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+            <li><a href="{{ item.url }}" title="{{ item.link }} - lien externe">{{ item.link }}</a></li>
             {% endfor %}
           </ul>
         </div>
         <div class="row mt-1">
-          <p class="h5 mb-1">Outils pour les agents publics</p>
+          <p class="h5 mb-1" role="heading" aria-level="2">Outils pour les agents publics</p>
           <ul class="no-bullet">
             {% for item in site.data.liens-footer.outils-pour-les-agents %}
-            <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+            <li><a href="{{ item.url }}" title="{{ item.link }} - lien externe">{{ item.link }}</a></li>
             {% endfor %}
           </ul>
         </div>
@@ -57,12 +53,12 @@
         <ul id="site-public" class="no-bullet">
           <li class="float-left">Les sites publics :</li>
           {% for item in site.data.nav-sites-publics %}
-          <li class="float-left"><a href="{{ item.url }}">{{ item.link }}</a></li>
+          <li class="float-left"><a href="{{ item.url }}" title="{{ item.link }} - lien externe">{{ item.link }}</a></li>
           {% endfor %}
         </ul>
       </div>
     </div>
-  </nav>
+  </div>
 </footer>
 {% include scripts.html %}
 

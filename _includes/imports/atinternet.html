@@ -1,0 +1,11 @@
+<script  src="//tag.aticdn.net/615183/smarttag.js"></script>
+<script >
+  let pageTitle = "{{page.title}}";
+  if (pageTitle === 'Numerique.gouv.fr') {
+    pageTitle = 'Accueil'
+  }
+  let ATTag = new ATInternet.Tracker.Tag();
+  ATTag.page.send({
+    name: pageTitle
+  })
+</script>

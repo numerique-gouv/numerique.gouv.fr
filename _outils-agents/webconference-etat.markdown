@@ -8,7 +8,7 @@ tags:
 - ETNA
 - environnement de travail numérique de l'agent
 - Outils pour les agents
-date_de_modification: 28 mai 2020
+date_de_modification: 1er décembre 2020
 chapeau-text: L’État met à la disposition de tous ses agents un service de webconférence
   interministériel pour favoriser la coopération des équipes et le travail à distance.
 une:
@@ -16,6 +16,20 @@ une:
 layout: rgaa
 ---
 
+<style>
+.button {
+background-color: #0d5c98;
+border: 1px solid white;
+color: white;
+padding: 10px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-style: normal;
+margin: 4px 2px;
+cursor: pointer;
+}
+</style>
 <br>
 
 <figure class='image-left' style='width: 7%;'>
@@ -67,7 +81,7 @@ d’utiliser la webconférence de l’État
 > Pour utiliser l’outil de webconférence de l’État, il vous suffit de disposer du matériel suivant :
 >
 > * un ordinateur connecté à Internet (et au RIE si vous devez créer le salon),
-> * un navigateur web : Edge Chromium, Chromium ou Google Chrome. Si aucun n’est disponible sur votre poste de travail, vous pouvez télécharger et installer [notre package Chromium dédié](https://webconf.numerique.gouv.fr/telechargement/Webconf_Etat_V1.3_webconf.exe), en toute autonomie (sauf cas exceptionnels), sans l’intervention d’un administrateur,
+> * un navigateur web : Microsoft Edge (Chromium), Chromium ou Google Chrome. Si aucun n’est disponible sur votre poste de travail, vous pouvez télécharger et installer [notre package Chromium dédié](https://webconf.numerique.gouv.fr/telechargement/Webconf_Etat_V1.3_webconf.exe), en toute autonomie (sauf cas exceptionnels), sans l’intervention d’un administrateur,
 > * une webcam,
 > * un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
 >
@@ -80,15 +94,25 @@ d’utiliser la webconférence de l’État
 </a>
 {: .text-center}
 
-> [Accédez au service de webconférence de l’État](https://webconf.numerique.gouv.fr/)
+<div align="center">
+<a href="https://webconf.numerique.gouv.fr/" class="button"><b>Accédez au service de webconférence de l’État</b></a>
+</div>
+<br>
+<br>
+
+Pour parer aux besoins massifs en outils de webconférences pendant la crise, la DINUM a déployé une solution additionnelle, accessible sur tout poste non connecté au réseau interministériel de l’État (sauf exception).
+> [Accédez au service de webconférence additionnel](https://webconf-add.numerique.gouv.fr/)
 {: .lien-important}
-
-<br>
-<br>
-*La webconférence de l’État est un service interministériel opéré par le ministère de la Transition écologique et solidaire. Il a été réalisé dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d'accélération de la transformation numérique du service public, piloté par la direction interministérielle du numérique (DINUM).*
-
-*La solution s’appuie sur le logiciel libre [Jitsi](https://jitsi.org/).*
 <br>
 <br>
 
-**Lire aussi :** [Webconférence : quels outils pour les agents de l’État pendant la crise Covid-19 ?](/outils-agents/organiser-webconference-outils-agents-etat/)
+*La webconférence de l’État est un service interministériel opéré par le ministère de la Transition écologique. Il a été réalisé dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d'accélération de la transformation numérique du service public, piloté par la direction interministérielle du numérique (DINUM).*
+
+*Les solutions de webconférence de l’État et de webconf additionnelle s’appuient sur le logiciel libre [Jitsi](https://jitsi.org/).*
+<br>
+<br>
+
+**Lire aussi :**
+
+* [Webconférence : quels outils pour les agents de l’État pendant la crise Covid-19 ?](/outils-agents/organiser-webconference-outils-agents-etat/)
+* [Audioconférence de l’État](/outils-agents/audioconference-etat/)

@@ -13,6 +13,9 @@ collections:
     title: Communiqués
     output: true
     permalink: "/espace-presse/:title/"
+  rgaa-documentation:
+    title: Documentation RGAA
+    output: true
   evenements:
     title: Evénements
     output: true

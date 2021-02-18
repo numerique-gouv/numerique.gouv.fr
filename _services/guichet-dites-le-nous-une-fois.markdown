@@ -4,7 +4,8 @@ title: Guichet Dites-le-nous une fois - Accompagnement pour la circulation et l�
 date: 2019-12-19 14:35:00 +01:00
 tags:
 - offre de services
-- dites-le-nous-une fois
+- Dites-le-nous une fois
+date_de_modification: 10 novembre 2020
 chapeau-text: |-
   **Un service public numérique plus simple pour tous les usagers ?**
 
@@ -12,18 +13,23 @@ chapeau-text: |-
   automatique de données via des API.
 
   **Pour en accélérer l’application, la DINUM propose une offre d’accompagnement sur-mesure aux administrations, dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/).**
-une-ou-diaporama:
-- image: "/uploads/guichet-dlnuf-une.png"
 une:
   image: "/uploads/guichet-dlnuf-une.png"
+une-ou-diaporama:
+- image: "/uploads/guichet-dlnuf-une.png"
 layout: rgaa
 ---
+
+**Découvrez en 1'45 le principe Dites-le-nous une fois et l'accompagnement proposé par la DINUM :**
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/k7cJDWnimRuU7fwpByr" width="100%" height="100%" allowfullscreen > </iframe> </div>
+<br>
+<br>
 
 <figure class='image-left' style='width: 10%;'>
 <img src="/uploads/picto-accompagnement.png"/>
 </figure>## Notre accompagnement
 {: .margin-bottom-1}
-Vous êtes concernés par la production et l’exploitation de données administratives ? L’appui des experts de la DINUM couvre ces 3 volets.
+Vous êtes un service de l’État ou une collectivité territoriale, concerné par la production et l’exploitation de données administratives ? L’appui des experts de la DINUM couvre ces 3 volets :
 
 ### Le cadre légal
 {: .margin-bottom-1 .margin-top-3}
@@ -62,9 +68,7 @@ ouvertes
   * [**Geo.api.gouv.fr**](https://geo.api.gouv.fr/) : les données géographiques
 <br>
 
-* SignUp, un dispositif permettant de s’assurer que seules les
-administrations habilitées seront en mesure d’exploiter les
-données fournies.
+* Data Pass, un dispositif permettant de s’assurer que seules les administrations habilitées seront en mesure d’exploiter les données fournies.
 <br>
 <br>
 

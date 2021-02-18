@@ -2,14 +2,15 @@
 title: 'Design public – Meetup #1'
 date: 2019-10-08 16:37:00 +02:00
 categories:
-- Meetup
+- Rencontre
 tags:
 - UX design
 - Entrepreneur d'Intérêt Général
 - Beta.gouv.fr
 - Startups d'Etat
-chapeau-text: Rendez-vous le 17 octobre au premier meetup Design Public organisé par
-  des designers travaillant au sein de projets de la fonction publique.
+chapeau-text: Rendez-vous le 17 octobre au premier <span lang="en">meetup</span> Design
+  Public organisé par des designers travaillant au sein de projets de la fonction
+  publique.
 une-ou-diaporama:
 - image: "/uploads/designer_public_meetup_1.jpeg"
 event_start_date: 2019-10-17 18:30:00 +02:00
@@ -26,11 +27,11 @@ champs_informations:
     nécessaire de le télécharger sur votre smartphone.
 ---
 
-La direction interministérielle du numérique (DINSIC) et [Le Laptop](https://www.lelaptop.com/) ont le plaisir de vous convier au premier meetup Design Public organisé par des designers, travaillant au sein de projets de la fonction publique.
+La direction interministérielle du numérique (DINSIC) et [Le Laptop](https://www.lelaptop.com/) ont le plaisir de vous convier au premier <span lang="en">meetup</span> Design Public organisé par des designers, travaillant au sein de projets de la fonction publique.
 
-Ce meetup est un moment d'échange, pour partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15 min par projet). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une petite heure. Pensez à ramener un petit quelque chose à boire ou à grignoter.
+Ce <span lang="en">meetup</span> est un moment d'échange, pour partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15 min par projet). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une petite heure. Pensez à ramener un petit quelque chose à boire ou à grignoter.
 
-Ce premier meetup sera axé sur les services numériques. Les projets présentés seront les suivants :
+Ce premier <span lang="en">meetup</span> sera axé sur les services numériques. Les projets présentés seront les suivants :
 
 * **Défi [Gobelins](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/gobelins.html) :** Créer un outil didactique pour rendre accessibles les objets historiques du Mobilier National, par Laurie Chapotte (défi [Entrepreneurs d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/index.html) 2018)
 * **Design sprint sur le projet [DataJust](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/datajust.html) :** Garantir un traitement égalitaire et juste des demandes d’indemnisation de préjudices corporels, par Elise Lalique (défi [Entrepreneurs d’Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/index.html))

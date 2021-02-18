@@ -34,10 +34,22 @@ publications:
   url: "/publications/principes-reussite-grands-projets-si-etat/"
   une-ou-diaporama:
   - image: "/uploads/9%20Principes%20cl%C3%A9%20de%20r%C3%A9ussite%20des%20grands%20projets%20SI.JPG"
-- title: Les principes de mutualisation du SI de L’État
+- title: Les principes de mutualisation du SI de l’État
   url: "/publications/principes-mutualisation-si-etat/"
   une-ou-diaporama:
   - image: "/uploads/principes-mutualisation-si.JPG"
+- title: Programme DCANT
+  url: "/publications/programme-dcant/"
+  une-ou-diaporama:
+  - image: "/uploads/2020_12_16_Publications_1188x802_DCANT.jpg"
+- title: Référentiel général de sécurité (RGS)
+  url: "/publications/referentiel-general-de-securite/"
+  une-ou-diaporama:
+  - image: "/uploads/2020_12_16_Publications_1188x802_Se%CC%81curite%CC%81.jpg"
+- title: Référentiel général d'interopérabilité (RGI)
+  url: "/publications/interoperabilite"
+  une-ou-diaporama:
+  - image: "/uploads/2020_12_16_Publications_1188x802_Inte%CC%81rope%CC%81rabilite%CC%81.jpg"
 layout: publications
 ---
 

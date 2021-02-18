@@ -124,7 +124,7 @@ header {
   input[type=text] {
     width: 100px;
     box-sizing: border-box;
-    border: 2px solid #ccc;
+    border: 2px solid $accessible-interface-gray;
     border-radius: 4px;
     font-size: 16px;
     padding: 12px 20px 12px 20px;
@@ -164,6 +164,9 @@ header {
 
 #fil-ariane {
   font-size: smaller;
+  ol li {
+    display: contents;
+  }
 
   @include breakpoint(medium down) {
     padding-left: 1rem;
@@ -181,7 +184,7 @@ h3 {
 
 footer {
   background-color: $black;
-  nav {
+  .nav {
     max-width: 75rem;
     margin-right: auto;
     margin-left: auto;
@@ -291,4 +294,36 @@ footer {
 
 .iframe {
   min-height: 500px;
+}
+
+.medium-dark-gray {
+  color: $medium-dark-gray !important;
+}
+
+.ais-search-box--reset svg {
+  fill: $accessible-interface-gray;
+}
+
+.conteneur-iframe {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
+.seize-neuvieme {
+  padding-top: 56.25%;
+}
+
+.quatre-tiers {
+  padding-top: 75%;
+}
+
+.conteneur-iframe iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
 }

@@ -2,7 +2,7 @@
 title: 'Design public – Meetup #3'
 date: 2020-01-09 10:37:00 +01:00
 categories:
-- Meetup
+- Rencontre
 tags:
 - UX design
 - Designers d'Intérêt Général
@@ -21,21 +21,23 @@ champs_informations:
 - intitule: Modalités
   contenu: " Inscription obligatoire et gratuite"
   lien: https://www.eventbrite.fr/e/billets-design-public-meetup-3-88477270899
+  title: Inscription obligatoire et gratuite - Lien externe menant vers la page d'inscription
+    - Nouvelle fenêtre
 - intitule: Précisions
   contenu: Votre billet vous sera demandé à l'entrée le jour du meetup. Il est donc
     nécessaire de le télécharger sur votre smartphone.
 ---
 
-La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 3e meetup Design public organisé par des designers travaillant sur des projets de la fonction publique.
+La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 3e <span lang="en">meetup</span> Design public organisé par des designers travaillant sur des projets de la fonction publique.
 
-Ce meetup est un moment d'échanges, pour restituer des travaux et partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15 minutes chacun). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une heure... et plus si affinités !
+Ce <span lang="en">meetup</span> est un moment d'échanges, pour restituer des travaux et partager des expériences avec des praticiens du design. Nous présenterons 4 projets (15 minutes chacun). Ensuite, nous aurons l'occasion d’échanger tous ensemble de manière informelle autour d’un verre pendant une heure... et plus si affinités !
 
-### Au programme
-Thème de ce 3e meetup : **solidarités et gestion de l'urgence**. 
-Les designers, issus du programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/), présenteront les projets suivants :
+## Au programme
+Thème de ce 3e <span lang="en">meetup</span> : **solidarités et gestion de l'urgence**. 
+Les designers, issus du programme [Entrepreneurs d'Intérêt Général](https://entrepreneur-interet-general.etalab.gouv.fr/ "Entrepreneurs d'Intérêt Général - lien externe"), présenteront les projets suivants :
 
-* **[Résorption bidonvilles](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/resorption-bidonvilles.html)** : Connaître, partager et agir pour résorber les bidonvilles en France, par [Laure Dubuc](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/laure-dubuc.html)
-* **[Vigicr'UX](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/vigicrux.html)** : Mieux informer les citoyens sur les risques de crues, par [Flavien Colsenet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/flavien-colsenet.html)
-* **[Plateforme Handicap](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/plateforme-handicap.html)** : Simplifier le parcours des familles dont les enfants sont en situation de handicap, par [Sofia Boulaarab](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/sofia-boulaarab.html) et [Pierre Charreau](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/pierre-charreau.html)
-* **[App 112](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/app-112.html)** : Aider à sauver des vies en situation d'urgence, par [Julien Dubedout](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/julien-dubedout.html)
+* **[Résorption bidonvilles](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/resorption-bidonvilles.html "Résorption bidonvilles - Lien externe")** : Connaître, partager et agir pour résorber les bidonvilles en France, par [Laure Dubuc](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/laure-dubuc.html "Laure Dubuc - Lien externe")
+* **[Vigicr'UX](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/vigicrux.html "Vigicr'UX - Lien externe")** : Mieux informer les citoyens sur les risques de crues, par [Flavien Colsenet](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/flavien-colsenet.html "Flavien Colsenet - Lien externe")
+* **[Plateforme Handicap](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/plateforme-handicap.html "Plateforme Handicap - Lien externe")** : Simplifier le parcours des familles dont les enfants sont en situation de handicap, par [Sofia Boulaarab](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/sofia-boulaarab.html "Sofia Boulaarab - Lien externe") et [Pierre Charreau](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/pierre-charreau.html "Pierre Charreau - Lien externe")
+* **[App 112](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/app-112.html "App 112 - Lien externe")** : Aider à sauver des vies en situation d'urgence, par [Julien Dubedout](https://entrepreneur-interet-general.etalab.gouv.fr/communaute/2019/julien-dubedout.html "Julien Dubedout - Lien externe")
 

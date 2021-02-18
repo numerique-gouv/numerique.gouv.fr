@@ -9,22 +9,23 @@ layout: default
   <section class="max-width-60 padding-vertical-2" >
     {{ content | markdownify }}
     <form class="" id="contact-form">
-      <div id="message" class="text-center hide"></div>
+      <p class="required-fields"><span class="required">*</span> Champs obligatoires</p>
+      <p id="message" role="status" class="text-center hide"></p>
 
-      <label for="form-name"> Vos prénom et nom </label>
-      <input id="form-name" type="text" name="name">
+      <label for="name"> Vos prénom et nom </label>
+      <input id="name" type="text" name="name" autocomplete="name">
 
-      <label for="form-email"> Votre email<span class="required">*</span> <span>(nomprenom@domaine.com)</span></label>
-      <input required id="form-email" type="email" name="from">
+      <label for="email"> Votre email<span class="required">*</span> <span>(exemple : marie.dupond@domaine.com)</span></label>
+      <input required id="email" type="email" name="email" autocomplete="email" aria-invalid="false">
 
-      <label for="form-objet"> Objet<span class="required">*</span> </label>
-      <input required id="form-objet" type="text" name="subject">
+      <label for="object"> Objet<span class="required">*</span> </label>
+      <input required id="object" type="text" name="subject" aria-invalid="false">
 
-      <label for="form-message"> Votre message<span class="required">*</span> </label>
-      <textarea required id="form-message"  name="text" rows="5"></textarea>
+      <label for="text"> Votre message<span class="required">*</span> </label>
+      <textarea required id="text"  name="text" rows="5" aria-invalid="false"></textarea>
 
-      <div class="required-fields"><span class="required">*</span> Champs obligatoires</div>
-      <button class="button" id="btn-send-mail" type="submit">Envoyer</button>
+      <button class="button" id="btn-send-mail" type="submit" title="Envoyer votre message">Envoyer</button>
     </form>
   </section>
 </section>
+

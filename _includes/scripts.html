@@ -1,4 +1,5 @@
 <script src="/assets/js/sources/jquery.min.js"></script>
+<script src="/assets/js/sources/jquery.validate.min.js"></script>
 <script src="/assets/js/sources/what-input.min.js"></script>
 <script src="/assets/js/sources/foundation.min.js"></script>
 <script src="/assets/js/sources/moment.min.js"></script>
@@ -10,7 +11,7 @@
 <script>
   $(document).foundation();
 </script>
-<script type="text/javascript">
+<script >
   {% for item in site.data.imports %}
     {% if item.for == 'all' or item.for contains page.title %}
       var {{ item.name }} = document.createElement('script');

@@ -1,3 +1,8 @@
+.tag-select {
+  &.selected {
+    background-color: #ececec;
+  }
+}
 #evenement {
   .event-category {
     font-size: 1.3rem;
