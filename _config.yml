@@ -44,7 +44,7 @@ collections:
     title: RGAA
     output: true
   rgaa-methode:
-    title: Méthode technique  
+    title: Méthode technique
     output: true
   rgaa-documentation:
     title: Documentation RGAA
@@ -63,24 +63,24 @@ defaults:
   values:
     layout: page-fille
     is_une: true
-    categories: 
-    chapeau-text: 
+    categories:
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
-    auteur: 
+    - image:
+      legende:
+      alternative-textuelle:
+    auteur:
 - scope:
     path: ''
     type: communiques
   values:
     layout: communique
-    categories: 
-    chapeau-text: 
+    categories:
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
+    - image:
+      legende:
+      alternative-textuelle:
     contact-presse:
       name: Rachel Wadoux
       tel:
@@ -88,57 +88,57 @@ defaults:
       - 06.84.72.02.00
       email: rachel.wadoux@modernisation.gouv.fr
     files:
-    - file: 
-      nom: 
+    - file:
+      nom:
 - scope:
     path: ''
     type: outils-agents
   values:
-    date_de_modification: 
-    chapeau-text: 
+    date_de_modification:
+    chapeau-text:
     une:
-      image: 
+      image:
 - scope:
     path: ''
     type: publications
   values:
-    date_de_modification: 
-    chapeau-text: 
+    date_de_modification:
+    chapeau-text:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
+    - image:
+      legende:
+      alternative-textuelle:
 - scope:
     path: ''
     type: services
   values:
-    date_de_modification: 
-    chapeau-text: 
+    date_de_modification:
+    chapeau-text:
     une:
-      image: 
+      image:
 - scope:
     path: ''
     type: evenements
   values:
     layout: evenement
-    chapeau-text: 
-    categorie: 
+    chapeau-text:
+    categorie:
     une-ou-diaporama:
-    - image: 
-      legende: 
-      alternative-textuelle: 
-    event_start_date: 
-    event_end_date: 
-    lieu: 
-    adresse: 
+    - image:
+      legende:
+      alternative-textuelle:
+    event_start_date:
+    event_end_date:
+    lieu:
+    adresse:
     afficher_la_carte: true
     acces:
-    - type: 
+    - type:
       lignes:
-      - nom: 
+      - nom:
     champs_informations:
-    - intitule: 
-      contenu: 
+    - intitule:
+      contenu:
 url: https://www.numerique.gouv.fr
 categories:
 - main

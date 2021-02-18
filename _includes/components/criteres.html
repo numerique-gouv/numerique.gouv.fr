@@ -40,7 +40,7 @@
                 {% capture level %}{{ level }}{% endcapture %}
                 {% assign levelSize = level | size %}
                 {% assign levelSize = levelSize | minus: 2 %}
-                {% assign level = level | slice: 1, levelSize %} 
+                {% assign level = level | slice: 1, levelSize %}
                 {% if critLevel == "" or critLevel == "AA" %}
                     {% assign critLevel = level %}
                 {% endif %}
@@ -128,7 +128,7 @@
                              {% if sc == criteria.criterium.references[0].wcag.last %}
                                  <a href="https://www.w3.org/TR/WCAG21/#{{ slug | slugify }}">{{ scwcag }}</a>.
                              {% else %}
-                                 <a href="https://www.w3.org/TR/WCAG21/#{{ slug | slugify }}">{{ scwcag }}</a>, 
+                                 <a href="https://www.w3.org/TR/WCAG21/#{{ slug | slugify }}">{{ scwcag }}</a>,
                              {% endif %}
                          {% endfor %}
                     </span>
@@ -160,7 +160,7 @@
                              {% if technique == criteria.criterium.references[1].techniques.last %}
                                  <a href="https://www.w3.org/WAI/WCAG21/Techniques/{{ path }}/{{ technique }}">{{ technique }}</a>.
                              {% else %}
-                                 <a href="https://www.w3.org/WAI/WCAG21/Techniques/{{ path }}/{{ technique }}">{{ technique }}</a>, 
+                                 <a href="https://www.w3.org/WAI/WCAG21/Techniques/{{ path }}/{{ technique }}">{{ technique }}</a>,
                              {% endif %}
                          {% endfor %}
                     </span>
@@ -174,7 +174,7 @@
                         {% if sc == criteria.criterium.references[0].wcag.last %}
                             {{ sc }}.
                         {% else %}
-                            {{ sc }}, 
+                            {{ sc }},
                         {% endif %}
                     </li>
                     {% endfor %}
