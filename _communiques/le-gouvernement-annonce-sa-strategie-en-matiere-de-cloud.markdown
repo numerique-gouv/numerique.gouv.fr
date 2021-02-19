@@ -6,7 +6,7 @@ categories:
 tags:
 - Cloud
 files:
-- lien: "/uploads/CP_Cloud_de_l'Etat_04072018.pdf"
+- file: "/uploads/CP_Cloud_de_l'Etat_04072018.pdf"
   nom: Télécharger le communiqué de presse
 une-ou-diaporama:
 - image: "/uploads/cloud1.jpg"

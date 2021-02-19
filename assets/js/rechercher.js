@@ -20,4 +20,8 @@ instantsearch_builder.addWidget(stats, statsConf);
 
 instantsearch_builder.start();
 
-
+$('.ais-search-box--reset').click( function() {
+  let element = document.getElementById("search-input")
+  element.value = ''
+  element.focus()
+})

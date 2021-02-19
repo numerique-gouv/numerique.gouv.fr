@@ -25,6 +25,7 @@ $icon-list: (
   behance #33abdb,
   skype #00AFF0,
   github #333333,
+  dailymotion #f8f8f8,
   flickr #333333,
   rdio #0086CD,
   evernote #aaca62,
@@ -72,7 +73,7 @@ $icon-list: (
 }
 
 // Icon background
-.social__icon {
+.social__icon, .nav .social__icon {
   font-size: 1.4em;
   color: $black;
   float: left;

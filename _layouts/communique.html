@@ -5,11 +5,12 @@ layout: default
 <div class="page-fille gray-background">
   <article class="article">
     {% include article.html %}
-    {% for file in page.files %}
+    {% for fichier in page.files %}
     <div class="text-center margin-top-2 padding-bottom-2 font-bold">
-      <a target="_blank" class="blue-link" id="fileSize-{{ file.lien }}-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ file.lien }}">
+      <a target="_blank" class="blue-link" id="fileSize-{{ fichier.file }}-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ fichier.file }}"
+         onclick="return tag.click.send({elem:this, name:'{{fichier.file}}', type:'téléchargement'});">
         <span class="fas fa-download margin-horizontal-1"></span>
-        <span class="pdf">{{ file.nom }} (PDF</span>
+        <span class="pdf">{{ fichier.nom }} (PDF </span>
       </a>
     </div>
     {% endfor %}
@@ -43,3 +44,7 @@ layout: default
     </div>
   </article>
 </div>
+
+<script >
+  var tag = new ATInternet.Tracker.Tag();
+</script>

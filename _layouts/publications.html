@@ -4,11 +4,16 @@ layout: page-mere
 
 <div class="gray-background padding-bottom-2">
   {% include components/titre-page-mere.html titre=page.title %}
+  {% if page.chapeau-text %}
+    <div class="grid-container lead chapeau page-mere">
+      {{ page.chapeau-text }}
+    </div>
+  {% endif %}
   <div class="grid-container">
     <div class="grid-x grid-margin-x">
       {% for publication in page.publications %}
       <div class="margin-top-1 cell large-4 medium-4 small-12">
-        {% include components/carte.html data=publication %}
+        {% include components/carte-simple.html data=publication %}
       </div>
       {% endfor %}
     </div>

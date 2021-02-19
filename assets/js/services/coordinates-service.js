@@ -10,7 +10,7 @@ export class CoordinatesServices {
       })
   };
   getURLFromAddress(address) {
-    const url = API_BASE_URL + '?q=' +address.replace(/ /g,'+');
+    const url = API_BASE_URL + '?q=' +address.replace(/\r|\n|\s/g,'+');
     return url;
   }
 };

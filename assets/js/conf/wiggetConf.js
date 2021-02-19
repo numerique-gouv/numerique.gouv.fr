@@ -21,9 +21,27 @@ const menuSelectConf = {
   }
 };
 
+const refinementListEventConf = {
+  container: '#categories',
+  attributeName: 'categories',
+  sortBy: ["count:desc","name:asc"],
+  operator: 'or',
+  templates: {
+    item: function (data) {
+      const template_builder = new Template_builder(data);
+      return template_builder.get_template_categories()
+    },
+  },
+  cssClasses: {
+    list: "flex-container wrap-container",
+    item: "padding-bottom-1"
+  },
+};
+
 const refinementListConf = {
   container: '#tags',
   attributeName: 'tags',
+  sortBy: ["count:desc","name:asc"],
   operator: 'or',
   templates: {
     item: function (data) {
@@ -68,7 +86,7 @@ const infiniteHitsConfEvent = {
       const template_builder = new Template_builder(hit);
       return template_builder.get_template_event();
     },
-    empty: "Nous n'avons rien trouvé pour la recherche : <em>\"{{query}}\"</em>",
+    empty: "<p>Aucun événement n'est renseigné pour ces dates.</p>",
   },
   showMoreLabel: "Voir plus de résultats",
   cssClasses: {
@@ -81,7 +99,8 @@ const infiniteHitsConfEvent = {
 const searchBoxConf =  {
   container: '#search-input',
   poweredBy: false,
-  magnifier: false
+  magnifier: false,
+  autofocus: false
 };
 
 const statsConf =  {
@@ -103,4 +122,4 @@ const eventSearch = {
   loadingIndicator: false
 }
 
-export {configureConf, menuSelectConf, refinementListConf, infiniteHitsConf, searchBoxConf, infiniteHitsConfEvent, statsConf, multiSelect, eventSearch};
+export {configureConf, menuSelectConf, refinementListEventConf, refinementListConf, infiniteHitsConf, searchBoxConf, infiniteHitsConfEvent, statsConf, multiSelect, eventSearch};

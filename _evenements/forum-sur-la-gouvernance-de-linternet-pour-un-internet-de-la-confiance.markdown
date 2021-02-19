@@ -13,8 +13,7 @@ chapeau-text: 'Paris abrite, du 12 au 14 novembre 2018, la treizième édition d
   présenter la politique d''open data de la France.**'
 une-ou-diaporama:
 - image: "/uploads/header-bonlogo.jpg"
-  alternative-textuelle: The Internet of Trust - Internet Governance Forum - 12-14
-    novembre 2018
+  alternative-textuelle: 
 event_start_date: 2018-11-12 00:00:00 +01:00
 event_end_date: 2018-11-14 00:00:00 +01:00
 lieu: Unesco

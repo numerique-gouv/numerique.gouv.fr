@@ -77,8 +77,8 @@ Toute la journée, venez découvrir les services numériques développés par l'
 
 
 > Il n’y a jamais eu de meilleur moment pour rendre les services publics plus accessibles et plus abordables en utilisant de nouvelles solutions technologiques. Le Sommet des GovTech est une occasion unique pour les agents publics, les intellectuels, les innovateurs et les investisseurs de se rencontrer, d’échanger et de discuter de l'avenir de l’action publique et de la démocratie. Nous avons hâte de les accueillir tous à Paris.
-> {: .citation}
+{: .citation}
 > Emmanuel Macron, Président de la République française
-> {: .auteur-citation}
+{: .auteur-citation}
 
 Ce Forum s’inscrit dans une séquence de grands événements internationaux organisés à Paris sur le digital, la **Paris Digital week**, avec [Le Forum de Paris sur la paix](/agenda/paris-digital-week/) (du 11 au 13 novembre) et le [Forum pour une Gouvernance de l’Internet](/agenda/forum-sur-la-gouvernance-de-linternet-pour-un-internet-de-la-confiance/)

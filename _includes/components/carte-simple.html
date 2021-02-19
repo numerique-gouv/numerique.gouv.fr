@@ -1,0 +1,17 @@
+{% assign carte = include.data %}
+
+<div class="cell grid-y carte height-100">
+  <div class="card-actu block-link">
+    {% if carte.une-ou-diaporama[0] %}
+    <div class="object-fit__image-container index-image-container">
+      <img class="object-fit__featured-image" alt="{{ carte.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ carte.une-ou-diaporama[0].image }}">
+    </div>
+    {% endif %}
+    <div class="padding-2">
+      <h2 class="h4 font-bold margin-0">
+        <a href="{{ carte.url}}" class="black-link">{{ carte.title }}</a>
+      </h2>
+    </div>
+  </div>
+  <hr class="blue-hr margin-top-auto">
+</div>

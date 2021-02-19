@@ -1,0 +1,23 @@
+<script src="/assets/js/sources/jquery.min.js"></script>
+<script src="/assets/js/sources/jquery.validate.min.js"></script>
+<script src="/assets/js/sources/what-input.min.js"></script>
+<script src="/assets/js/sources/foundation.min.js"></script>
+<script src="/assets/js/sources/moment.min.js"></script>
+<script src="/assets/js/sources/locale/fr.js"></script>
+<script>
+  moment.locale('fr');  // Set the default/global locale
+</script>
+
+<script>
+  $(document).foundation();
+</script>
+<script >
+  {% for item in site.data.imports %}
+    {% if item.for == 'all' or item.for contains page.title %}
+      var {{ item.name }} = document.createElement('script');
+      {{ item.name }}.src = '/assets/js/{{ item.link }}';
+      document.body.appendChild({{ item.name }});
+    {% endif %}
+  {% endfor %}
+</script>
+<script src="/assets/js/sources/daterangepicker.js"></script>

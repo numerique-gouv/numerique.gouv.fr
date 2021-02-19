@@ -1,5 +1,6 @@
 ---
 title: numerique.gouv.fr
+url: https://dev.numerique.gouv.fr
 algolia:
   index_name: jekyll-dinsic-dev
 ---

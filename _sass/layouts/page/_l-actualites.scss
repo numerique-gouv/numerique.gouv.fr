@@ -3,12 +3,6 @@
 // --------------------------------------------------
 
 .picto-external-link {
-  display: none;
+  display: inline;
   height: 20px;
-}
-
-.card-actu:hover {
-  .picto-external-link {
-    display: inline;
-  }
 }

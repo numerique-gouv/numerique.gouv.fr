@@ -1,11 +1,11 @@
 {% if page.layout == 'evenement' %}
-  <div class="event-category text-center">|  {{ page.categories[0] }}  |</div>
+  <p class="event-category text-center margin-bottom-0">|  {{ page.categories[0] }}  |</p>
 {% endif %}
 
 <h1 class="font-bold text-center margin-0">{{ page.title }}</h1>
 
 {% if page.sous-titre %}
-  <div class="h2 text-center">{{ page.sous-titre }}</div>
+  <p class="h2 text-center">{{ page.sous-titre }}</p>
 {% endif %}
 
 {% unless page.layout == 'evenement' %}
@@ -13,27 +13,33 @@
 {% endunless %}
 
 {% if page.chapeau-text %}
-<div class="lead chapeau">
+<div class="lead chapeau margin-bottom-0">
   {{ page.chapeau-text | markdownify }}
 </div>
 {% endif %}
 
-<div class="meta text-center">
+<p class="meta text-center margin-bottom-0">
   {% if page.collection == 'communiques'  %}
     <span class="date"> {{ page.categories.last }}</span>
     <span class="meta"> | </span>
   {% endif %}
 
   {% unless page.event_start_date %}
-    <span class="date ">{% include helpers/date.html date=page.date %}</span>
+    <time class="date">{% include helpers/date.html date=page.date %}</time>
   {% endunless %}
+
+  {% if page.date_de_modification %}
+    <span class="meta"> - </span>
+    <time class="date">mis à jour le {{ page.date_de_modification }}</time>
+  {% endif %}
 
   {% if page.auteur and page.date %}
     <span class="meta"> | </span>
   {% endif %}
 
+
   {% if page.auteur %}
     <span class="auteur ">{{ page.auteur }}</span>
   {% endif %}
-</div>
+</p>
 {% include components/partager.html %}

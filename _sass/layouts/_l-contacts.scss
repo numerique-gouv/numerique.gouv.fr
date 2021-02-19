@@ -16,3 +16,21 @@
   background-color: #db756b;
   color: white;
 }
+.required {
+  color: #e42124;
+}
+.required-fields {
+  text-align: right;
+}
+
+[type='text'], [type='password'], [type='date'], [type='datetime'], [type='datetime-local'], [type='month'],
+[type='week'], [type='email'], [type='number'], [type='search'], [type='tel'], [type='time'], [type='url'],
+[type='color'], textarea {
+  border-color: $accessible-interface-gray;
+}
+
+.error {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: #af0202;
+}

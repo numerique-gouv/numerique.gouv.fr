@@ -10,7 +10,7 @@ moment.locale('fr');
 import { agenda_routing_conf } from "./conf/routing-conf";
 import { Instantsearch_factory } from "./instant-search/instantsearch-factory";
 import { Instantsearch_builder } from "./instant-search/instantsearch-builder";
-import { configureConf, refinementListConf, infiniteHitsConfEvent, multiSelect, eventSearch } from "./conf/wiggetConf";
+import { configureConf, refinementListEventConf, infiniteHitsConfEvent, eventSearch } from "./conf/wiggetConf";
 
 const searchClient = algoliasearch('OCGRURLBFM','4acb079286ac50d2c359cdc0bf0af4d7');
 const indexName = process.env.ALGOLIA_INDEX;
@@ -19,14 +19,13 @@ const instantsearch_builder = new Instantsearch_builder(search);
 
 const datePicker = connectRange(
   (options, isFirstRendering) => {
-    if (!isFirstRendering) return;
-    let start_date = moment().startOf('day');
+    if (!isFirstRendering) ;
+    let start_date = moment();
     let end_date = moment().add(1, 'year');
     const { refine } = options;
-    refine ([start_date.unix(), end_date.unix()]);
-
+    refine ([start_date.unix(), end_date.unix()])
     const datepickerOptions = {
-      format: 'dd MM yyyy',
+      format: 'dd/mm/yyyy',
       disableDblClickSelection: true,
       leftArrow:'<<',
       rightArrow:'>>',
@@ -38,12 +37,17 @@ const datePicker = connectRange(
     $('#datepickerEnd').fdatepicker(datepickerOptions);
 
     $('#datepickerStart, #datepickerEnd').change( function() {
-      start_date = moment($('#datepickerStart').val(), "DD MMM YYYY", 'fr')
-      end_date = moment($('#datepickerEnd').val(), "DD MMM YYYY", 'fr')
+      start_date = moment($('#datepickerStart').val(), "DD/MM/YYYY", 'fr')
+      end_date = moment($('#datepickerEnd').val(), "DD/MM/YYYY", 'fr')
       refine ([start_date.unix(), end_date.unix()]);
     })
   }
-);
+)
+
+$('#datepickerStart, #datepickerEnd').each( function() {
+  $('#datepickerStart').val(moment().format("Do/MM/YYYY"))
+  $('#datepickerEnd').val(moment().add(1, 'year').format("Do/MM/YYYY"))
+})
 
 instantsearch_builder.addWidget(datePicker, {
   attributeName: 'dates'
@@ -51,9 +55,7 @@ instantsearch_builder.addWidget(datePicker, {
 
 instantsearch_builder.addWidget(configure,configureConf("événements"));
 
-instantsearch_builder.addWidget(refinementList,refinementListConf);
-
-instantsearch_builder.addWidget(refinementList,multiSelect);
+instantsearch_builder.addWidget(refinementList,refinementListEventConf);
 
 instantsearch_builder.addWidget(infiniteHits, infiniteHitsConfEvent);
 

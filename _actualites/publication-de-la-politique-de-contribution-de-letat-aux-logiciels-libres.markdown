@@ -12,7 +12,7 @@ chapeau-text: Comment ouvrir ses codes sources ? Quelle licence choisir ? Commen
   un agent public peut-il contribuer à un logiciel libre existant ?
 une-ou-diaporama:
 - image: "/uploads/logiciels_libres4.jpg"
-  alternative-textuelle: bureau vide
+  alternative-textuelle: 
 auteur: Depuis Etalab.gouv.fr
 ---
 
@@ -37,4 +37,4 @@ La DINSIC souhaite ainsi faciliter l’ouverture des codes sources publics et re
 Ce document est publié sur Github sous la [licence Ouverte 2.0](https://github.com/DISIC/politique-de-contribution-open-source/raw/master/LICENSE.pdf){: target="_blank"} (pdf).
 
 > [**Consulter la politique de contribution de l’Etat aux logiciels libres de la DINSIC** ](https://www.numerique.gouv.fr/publications/politique-logiciel-libre/){: target="_blank"}
-{: .lien-important} 
+{: .lien-important}

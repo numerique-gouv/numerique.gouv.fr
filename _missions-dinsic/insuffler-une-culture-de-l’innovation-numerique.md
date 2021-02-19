@@ -1,5 +1,6 @@
 ---
 title: Insuffler une culture de l’innovation numérique
+published: false
 ordre: 4
 icon: Insuffler_une_culture_de_linnovation_numerique.svg
 encadre:

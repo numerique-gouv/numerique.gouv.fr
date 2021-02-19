@@ -1,0 +1,49 @@
+plan-du-site:
+  - link: La DINUM
+    url: /dinum
+  - link: Actualités
+    url: /actualites
+  - link: Agenda
+    url: /agenda
+  - link: Publications
+    url: /publications
+  - link: Services
+    url: /services
+  - link: Outils agents
+    url: /outils-agents
+  - link: Rejoignez-nous
+    url: /rejoignez-nous
+  - link: Espace presse
+    url: /espace-presse
+
+sites-references:
+  - link: etalab.gouv.fr
+    url: https://www.etalab.gouv.fr/
+  - link: data.gouv.fr
+    url: https://data.gouv.fr/
+  - link: beta.gouv.fr
+    url: https://beta.gouv.fr/
+  - link: design.numerique.gouv.fr
+    url: https://design.numerique.gouv.fr
+  - link: api.gouv.fr
+    url: https://api.gouv.fr
+
+outils-pour-les-agents:
+  - link: Messagerie instantanée Tchap
+    url: https://www.tchap.gouv.fr/
+  - link: Webconférence de l'État
+    url: https://webconf.numerique.gouv.fr/
+  - link: Audioconférence de l'État
+    url: https://audioconf.numerique.gouv.fr/
+  - link: Osmose
+    url: https://osmose.numerique.gouv.fr/
+  - link: Resana
+    url: https://resana.numerique.gouv.fr/
+    
+services-usagers:
+  - link: franceconnect.gouv.fr
+    url: https://franceconnect.gouv.fr
+  - link: demarches-simplifiees.fr
+    url: https://demarches-simplifiees.fr
+  - link: observatoire.numerique.gouv.fr
+    url: https://observatoire.numerique.gouv.fr

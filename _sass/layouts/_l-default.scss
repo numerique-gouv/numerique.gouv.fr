@@ -3,13 +3,13 @@
 // --------------------------------------------------
 
 .no-js {
-  @include breakpoint(small only) {
+  @include breakpoint(medium down) {
     .top-bar {
       display: none;
     }
   }
 
-  @include breakpoint(medium) {
+  @include breakpoint(large) {
     .title-bar {
       display: none;
     }
@@ -32,24 +32,23 @@ header {
   }
 }
 .marianne {
-  height: 3rem;
+  height: 115px;
   max-width: 100%;
-  @include breakpoint(small only) {
-    height: 1rem;
+  @include breakpoint(medium down) {
+    height: 66px;
   }
 }
 #nav-dinsic {
   display: flex;
+  flex-direction: column;
   width: 100%;
-  flex-flow: row wrap;
   border-bottom: 2px solid $light-gray;
   @include breakpoint(small only) {
     background-color: $white;
     top:0;
   }
   #nav-titre {
-    flex-basis:min-content;
-    padding: 0.9rem;
+    padding: 30px 30px 15px 30px;
     h1, a {
       margin: 0;
       padding: 0;
@@ -62,10 +61,21 @@ header {
         font-weight: normal;
       }
     }
+    .titre-site {
+      margin-left: 50px;
+      font-size: 28px;
+      @include breakpoint(medium down) {
+        font-size: 19px;
+      }
+      @media screen and (max-width: 376px) {
+        margin-left: 20px;
+        font-size: 16px;
+      }
+    }
   }
   #nav-content {
     flex: 1;
-    padding: 1rem;
+    padding: 0 1rem 1rem 2.5rem;
     * {
       margin: 0;
     }
@@ -90,14 +100,73 @@ header {
       color: $bleue;
       font-size: 1.5rem;
     }
+    @media screen and (max-width: 39.99875em) {
+      .top-bar {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
   }
-  #rechercher{
+  .top-bar-left {
+    flex: 0 1 auto;
+  }
+  .top-bar {
+    justify-content: flex-start;
+  }
+  #submit-search-bar, #display-search {
+    cursor: pointer;
+  }
+  #rechercher {
     display: flex;
+    flex: 1 1 auto;
+    justify-content: flex-end;
+  }
+  input[type=text] {
+    width: 100px;
+    box-sizing: border-box;
+    border: 2px solid $accessible-interface-gray;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 12px 20px 12px 20px;
+    -webkit-transition: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;
+  }
+
+  input[type=text]:focus {
+    width: 100%;
+    max-width: 30%;
+    border: 2px solid $bleue;
+    z-index: 200;
+    position: absolute;
+    right: 3.5rem;
+  }
+
+  input[type=text]:hover {
+    border: 2px solid $bleue;
+    transition: width 0.4s ease-in-out;
+    -webkit-transition: width 0.4s ease-in-out;
+  }
+
+  @media screen and (max-width: 39.99875em) {
+    input[type=text]:focus {
+      width: 100%;
+      max-width: 100%;
+      border: 2px solid $bleue;
+      z-index: 200;
+      position: relative;
+      right: 0rem;
+    }
+    #rechercher {
+      margin-left: 1rem;
+    }
   }
 }
 
 #fil-ariane {
   font-size: smaller;
+  ol li {
+    display: contents;
+  }
 
   @include breakpoint(medium down) {
     padding-left: 1rem;
@@ -108,10 +177,14 @@ h1 {
   margin: 0;
 }
 
+h3 {
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+}
 
 footer {
   background-color: $black;
-  nav {
+  .nav {
     max-width: 75rem;
     margin-right: auto;
     margin-left: auto;
@@ -137,10 +210,13 @@ footer {
   .gray-link-footer {
     color: $medium-gray;
   }
+  .conformity {
+    font-size: smaller;
+  }
 }
 
 .default-text-padding {
-  padding-left: 3rem;
+  padding-left: 3.5rem;
   padding-right: 3rem;
   @include breakpoint(medium down) {
     padding-left: 1rem;
@@ -206,3 +282,48 @@ footer {
   right: 1rem;
 }
 
+.search-card {
+  .content {
+    display: flex;
+    flex-direction: column;
+    .category {
+      order: -1;
+    }
+  }
+}
+
+.iframe {
+  min-height: 500px;
+}
+
+.medium-dark-gray {
+  color: $medium-dark-gray !important;
+}
+
+.ais-search-box--reset svg {
+  fill: $accessible-interface-gray;
+}
+
+.conteneur-iframe {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
+.seize-neuvieme {
+  padding-top: 56.25%;
+}
+
+.quatre-tiers {
+  padding-top: 75%;
+}
+
+.conteneur-iframe iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}

@@ -8,7 +8,7 @@ categories:
 tags:
 - FranceConnect
 files:
-- lien: "/uploads/CP_FranceConnect.pdf"
+- file: "/uploads/CP_FranceConnect.pdf"
   nom: Télécharger le communiqué de presse
 chapeau-text: 'Le périmètre FranceConnect s’enrichit : jusqu’ici destiné à faciliter
   l’accès des particuliers aux services publics en ligne, un arrêté publié ce jour

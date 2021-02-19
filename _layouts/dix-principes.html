@@ -2,19 +2,26 @@
 layout: default
 ---
 
+{{ page.une-ou-diaporama.image }}
 <div id="dinsic-page" class="post gray-background ">
   <div class="object-fit__image-container">
-    <img class="object-fit__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
+    <img class="object-fit__featured-image image-de-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ page.une-ou-diaporama[0].image }}">
   </div>
   <a id="content" tabindex="-1"></a>
   <article>
     <section class="cell white-container padding-large-5 padding-medium-1" >
       {% include components/titre-page-fille.html %}
+      {% if page.content != blank %}
+    <div class="white-container cell grid-x">
+      <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        {{ page.content }}
+      </section>
+    </div>
+    {% endif %}
       <div class="h2 text-center">
         {{ page.subtitle }}
       </div>
-    </section>
-
+</section>
     <div class="cell grid-x">
       <div id="list" class="cell white-container">
         {% for principe in page.principes %}
@@ -31,14 +38,25 @@ layout: default
         {% endfor %}
       </div>
     </div>
+    {% if page.content-bottom != blank %}
+    <div class="white-container cell grid-x">
+      <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        {{ page.content-bottom }}
+      </section>
+    </div>
+    {% endif %}
+    {% for fichier in page.files %}
     <div class="text-center margin-top-2 padding-bottom-2 font-bold">
-      <a target="_blank" class="blue-link" id="fileSize-{{ post.url | replace: ' ', '' }}" href="{{base}}{{ page.file }}">
+      <a target="_blank" class="blue-link" id="fileSize-{{ fichier.file }}-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ fichier.file }}"
+         onclick="return tag.click.send({elem:this, name:'{{fichier.file}}', type:'téléchargement'});">
         <span class="fas fa-download margin-horizontal-1"></span>
-        <span class="pdf">Télécharger la version imprimable des 10 principes (PDF</span>
+        <span class="pdf">{{ fichier.nom }} (PDF </span>
       </a>
     </div>
+    {% endfor %}
   </article>
 </div>
 
-
-
+<script >
+  var tag = new ATInternet.Tracker.Tag();
+</script>
