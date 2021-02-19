@@ -108,7 +108,7 @@ function myFunction(id) {
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
 <div class="accordion-item">
 <button onclick="myFunction('note')" id="accordion-button" class="accordion-title" aria-controls="note" aria-expanded="false">Version accessible de la note</button>
-<div class="accordion-content" id="note" style="display: none;">
+<div class="accordion-content" id="note">
 <p><b>NOTE à l’attention des secrétaires généraux
 Expérimentation du dispositif « Partagez vos talents numériques »</b></p>
 <p>Le dispositif « Partagez vos talents numériques » s’inscrit dans le cadre de la mission TALENTS du programme TECH.GOUV de la DINUM, qui vise à attirer, fidéliser et valoriser les talents du numérique. Il concrétise une des actions prioritaires de la circulaire DINSIC-
