@@ -105,17 +105,14 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 <p><a href="https://apps.apple.com/fr/app/tchap/id1446253779"><img src="/uploads/appstore.png" class='image-center' style='width: 30%;' alt="Télécharger l'application sur l'App Store - Lien externe"></figure></a></p>
 
 ### Et en version web
-
 {: .text-center .margin-bottom-0}
 [sur tchap.gouv.fr](https://tchap.gouv.fr/ "sur tchap.gouv.fr - Lien externe")
 {: .text-center}
 <p><a href="https://tchap.gouv.fr/"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png" alt="tchap.gouv.fr - Lien externe"></figure></a></p>
 
-> <br>
-> **Vous souhaitez faire la promotion de Tchap au sein de votre administration ?**
-> <br>
-> Vous pouvez utiliser la vidéo présente en haut de cette page pour vos sites Intranet et lettres internes en l'embarquant directement [depuis notre chaîne Dailymotion](https://dai.ly/k6fDaH7umhtmnavFIcf "Accéder à la page de cette vidéo, sur notre chaîne Dailymotion - Lien externe"). Nous pouvons aussi vous fournir le fichier vidéo pour que vous puissiez la diffuser par exemple sur les écrans dans les espaces communs de votre administration ; pour cela, envoyez un courriel au service communication de la DINUM à [communication.dinum@modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr "Envoyer un courriel à communication.dinum@modernisation.gouv.fr").
-> {: .noir .encadre}
+<div class="encadre noir">
+<p class="margin-top-3"><strong>Vous souhaitez faire la promotion de Tchap au sein de votre administration ?</strong>
+<p>Vous pouvez utiliser la vidéo présente en haut de cette page pour vos sites Intranet et lettres internes en l’embarquant directement <a href="https://dai.ly/k6fDaH7umhtmnavFIcf" title="Accéder à la page de cette vidéo, sur notre chaîne Dailymotion - Lien externe">depuis notre chaîne Dailymotion</a>. Nous pouvons aussi vous fournir le fichier vidéo pour que vous puissiez la diffuser par exemple sur les écrans dans les espaces communs de votre administration&nbsp;; pour cela, envoyez un courriel au service communication de la DINUM à <a href="mailto:communication.dinum@modernisation.gouv.fr" title="Envoyer un courriel à communication.dinum@modernisation.gouv.fr">communication.dinum@modernisation.gouv.fr</a>.</p></div>
 
 *Tchap est un service interministériel créé et opéré par la direction interministérielle du numérique (DINUM), dans le cadre de **[TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public.* <br>
 *Tchap s’appuie sur un **logiciel open source** (\[Riot\](https://about.riot.im/ "Riot - Lien externe)) et un standard ouvert ([Matrix](https://matrix.org/ "Matrix - Lien externe")).*
