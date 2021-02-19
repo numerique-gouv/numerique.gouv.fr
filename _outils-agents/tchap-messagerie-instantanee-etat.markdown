@@ -101,9 +101,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 
 ### Et en version web
 {: .text-center .margin-bottom-0}
-[sur tchap.gouv.fr](https://tchap.gouv.fr/ "sur tchap.gouv.fr - Lien externe")
-{: .text-center}
-<p><a href="https://tchap.gouv.fr/"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png" alt="tchap.gouv.fr - Lien externe"></figure></a></p>
+<p style="text-align:center"><a href="https://tchap.gouv.fr/">sur tchap.gouv.fr<img src="/uploads/monitor.png" class='image-center' style='width: 10%;' alt="tchap.gouv.fr - Lien externe"></a></p>
 
 <div class="encadre noir">
 <p class="margin-top-3"><strong>Vous souhaitez faire la promotion de Tchap au sein de votre administration ?</strong></p>
