@@ -84,15 +84,11 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 <br>
 
 ## 4 atouts de Tchap
-
 {: .text-center .margin-bottom-1 .margin-top-3}
 
 * **Une solution de confiance,** opérée par l’État, avec un haut niveau de **confidentialité** des échanges privés
-
 * Un **annuaire** intégré des utilisateurs de l’application
-
 * **Des salons publics** sur vos centres d’intérêt professionnels
-
 * Une utilisation simultanée possible sur **plusieurs appareils** (smartphones, ordinateur, tablette…)
   <br>
   <br>
@@ -101,8 +97,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 {: .text-center .margin-bottom-1 .margin-top-3}
 
 <p><a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a"><img src="/uploads/googleplay.png" class="image-center" style="width: 30%;" alt="Télécharger l'application sur Google play - Lien externe"></a></p>
-<br>
-<p><a href="https://apps.apple.com/fr/app/tchap/id1446253779"><img src="/uploads/appstore.png" class='image-center' style='width: 30%;' alt="Télécharger l'application sur l'App Store - Lien externe"></figure></a></p>
+<p><a href="https://apps.apple.com/fr/app/tchap/id1446253779"><img src="/uploads/appstore.png" class='image-center' style='width: 30%;' alt="Télécharger l'application sur l'App Store - Lien externe"></a></p>
 
 ### Et en version web
 {: .text-center .margin-bottom-0}
