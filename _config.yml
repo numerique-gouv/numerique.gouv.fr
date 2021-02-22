@@ -2,6 +2,9 @@
 title: numerique.gouv.fr
 timezone: Europe/Paris
 collections:
+  panda:
+    title: Accompagnement à la circulation des données
+    output: false
   actualites:
     title: Actualités
     output: true
@@ -17,6 +20,9 @@ collections:
   missions-dinsic:
     title: Les missions de la Dinsic
     output: false
+  methode:
+    title: Méthode technique
+    output: true
   pages:
     title: Pages
     output: true
@@ -26,10 +32,17 @@ collections:
   posts:
     title: Posts
     output: true
+  produits-services:
+    title: Produits et services
+    output: true
+    permalink: "/produits-services/:title/"
   publications:
     title: Publication
     output: true
-    permalink: "/publication/:title/"
+    permalink: "/publications/:title/"
+  rgaa:
+    title: RGAA
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -51,7 +64,6 @@ defaults:
     path: ''
     type: communiques
   values:
-    file: uploads/exemple.pdf
     layout: communique
     categories: 
     chapeau-text: 
@@ -65,6 +77,29 @@ defaults:
       - 01.71.21.11.98
       - 06.84.72.02.00
       email: rachel.wadoux@modernisation.gouv.fr
+    files:
+    - file: 
+      nom: 
+- scope:
+    path: ''
+    type: publications
+  values:
+    date_de_modification: 
+    chapeau-text: 
+    une-ou-diaporama:
+    - image: 
+      legende: 
+      alternative-textuelle: 
+- scope:
+    path: ''
+    type: produits-services
+  values:
+    date_de_modification: 
+    chapeau-text: 
+    une-ou-diaporama:
+    - image: 
+      legende: 
+      alternative-textuelle: 
 - scope:
     path: ''
     type: evenements
@@ -99,9 +134,10 @@ plugins:
 - jekyll-sitemap
 - jekyll-algolia
 include:
-- ".htaccess"
+- ".well-known"
 - _pages
 exclude:
+- "/vendor/"
 - "/scripts/"
 - ".DS_Store"
 - ".circleci/"
@@ -138,6 +174,7 @@ algolia:
   - md
   - markdown
   files_to_exclude:
+  - _rgaa/notes-revision.md
   - _pages/index.md
   - _pages/algolia.md
   - _pages/espace-presse.md

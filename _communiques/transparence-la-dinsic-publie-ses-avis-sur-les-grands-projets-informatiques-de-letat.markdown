@@ -8,7 +8,7 @@ tags:
 - SI
 - Transparence
 files:
-- lien: "/uploads/CP_avis_conformes_DINSIC_24_04_2018.pdf"
+- file: "/uploads/CP_avis_conformes_DINSIC_24_04_2018.pdf"
   nom: Télécharger le communiqué de presse
 chapeau-text: "**La direction interministérielle du numérique et du système d’information
   et de communication de l’Etat (DINSIC)** publie aujourd’hui l’ensemble des avis

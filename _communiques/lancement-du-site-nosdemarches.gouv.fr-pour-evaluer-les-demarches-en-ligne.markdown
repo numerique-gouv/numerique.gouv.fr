@@ -6,7 +6,7 @@ categories:
 tags:
 - Démarches administratives
 files:
-- lien: "/uploads/cp_nosdemarches_02_07_2018.pdf"
+- file: "/uploads/cp_nosdemarches_02_07_2018.pdf"
   nom: Télécharger le communiqué de presse
 une-ou-diaporama:
 - image: "/uploads/nos%20demarches.png"

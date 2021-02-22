@@ -11,7 +11,7 @@ tags:
 - Gouvernement ouvert
 - Transparence
 files:
-- lien: "/uploads/CP_PAN_OGP_03_04_2018_VFF_numerique.docx"
+- file: "/uploads/CP_PAN_OGP_03_04_2018_VFF_numerique.docx"
   nom: Télécharger le communiqué de presse
 chapeau-text: "**Dans le cadre du Partenariat pour un gouvernement ouvert (PGO), le
   Gouvernement et l’Assemblée nationale publient aujourd’hui, pour la première fois

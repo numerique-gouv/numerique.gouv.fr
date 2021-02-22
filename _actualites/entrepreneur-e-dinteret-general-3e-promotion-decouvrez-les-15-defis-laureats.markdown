@@ -1,5 +1,5 @@
 ---
-title: 'Entrepreneur·e d’intérêt général, 3e promotion : découvrez les 15 défis lauréats'
+title: 'Entrepreneur d’intérêt général, 3e promotion : découvrez les 15 défis lauréats'
 date: 2018-07-20 11:12:00 +02:00
 categories:
 - Article
@@ -16,11 +16,11 @@ une-ou-diaporama:
 auteur: Depuis Etalab.gouv.fr
 ---
 
-*Créé en octobre 2016, le programme « Entrepreneur·e d’Intérêt Général » (EIG) vise à accélérer la transition numérique de l’État en recrutant des innovateurs aux expertises numériques variées (développement, design, science des données, agilité) pour travailler sur des défis d’amélioration du service public proposés par les administrations. Ce dispositif fait partie du Programme d’investissements d’avenir (PIA) piloté par le Secrétariat général pour l’investissement (SGPI).*
+*Créé en octobre 2016, le programme « Entrepreneur d’Intérêt Général » (EIG) vise à accélérer la transition numérique de l’État en recrutant des innovateurs aux expertises numériques variées (développement, design, science des données, agilité) pour travailler sur des défis d’amélioration du service public proposés par les administrations. Ce dispositif fait partie du Programme d’investissements d’avenir (PIA) piloté par le Secrétariat général pour l’investissement (SGPI).*
 <br>
 ## Un jury pour sélectionner les meilleurs défis de transformation numérique au service de l’intérêt général
 
-Le 4 juillet 2018, les administrations candidates au programme Entrepreneur.e d’intérêt général (EIG) et présélectionnées par les équipes de la DINSIC ont été invitées à présenter leurs défis d’intérêt général devant un jury composé de personnalités du numérique et d’agents publics (voir [la composition du jury](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-3eme-promotion-42-defis-deposes-par-les-administrations-un-jury-mixte-pour-les-selectionner){: target="_blank"}). L’objectif : en 20 minutes et sous forme de « pitch », convaincre des personnalités aux profils variés (administration, recherche, entrepreneuriat, société civile) que son projet est techniquement intéressant et qu’il a le potentiel d’améliorer le quotidien de ses futurs utilisateurs.
+Le 4 juillet 2018, les administrations candidates au programme Entrepreneur d’intérêt général (EIG) et présélectionnées par les équipes de la DINSIC ont été invitées à présenter leurs défis d’intérêt général devant un jury composé de personnalités du numérique et d’agents publics (voir [la composition du jury](https://www.etalab.gouv.fr/entrepreneur-e-dinteret-general-3eme-promotion-42-defis-deposes-par-les-administrations-un-jury-mixte-pour-les-selectionner){: target="_blank"}). L’objectif : en 20 minutes et sous forme de « pitch », convaincre des personnalités aux profils variés (administration, recherche, entrepreneuriat, société civile) que son projet est techniquement intéressant et qu’il a le potentiel d’améliorer le quotidien de ses futurs utilisateurs.
 
 En tant qu’acteurs reconnus de la communauté numérique d’intérêt général, les membres du jury ont pu mettre à profit leurs diverses expertises pour évaluer la capacité des porteurs de défi à accueillir des EIG dans les meilleurs conditions, adapter leur feuille de route, et surtout à faire partie d’un collectif d’innovateurs publics qui partage des méthodes, des outils et devient pionnier de l’ouverture des données et des codes sources.
 
@@ -105,6 +105,6 @@ Afin de relever ces défis, l’équipe EIG prépare d’ores et déjà la suite
 
 **Informations et contact :**
 
-* [le site officiel des Entrepreneur·e d'Intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr){:target="_blank"}
+* [le site officiel des Entrepreneur d'Intérêt général](https://entrepreneur-interet-general.etalab.gouv.fr){:target="_blank"}
 
 * [entrepreneur-interet-general@data.gouv.fr](mailto:entrepreneur-interet-general@data.gouv.fr)

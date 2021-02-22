@@ -16,15 +16,15 @@ layout: default
         </div>
       </div>
       <!--<button type="button" class="button show-for-small-only">Ouvrir le sommaire</button>-->
-      <div class="grid-x">
+      <div class="grid-x" id="contenu">
         <div class="margin-bottom-3 padding-left-2 cell large-2 small-12 reveal-for-medium sommaire">
           <h2>Sommaire</h2>
           <nav>
             <ul class="vertical menu">
               {% assign items = site.politique-logiciel-libre | sort: 'menu.weight' %}
               {% for item in items %}
-              <li>
-                <a href="{{ item.permalink }}">{{ item.menu.title }}</a>
+              <li class="pl-04 {% if item.menu.title == page.menu.title %} active-link {% endif %}">
+                <a href="{{ item.permalink }}#contenu">{{ item.menu.title }}</a>
               </li>
               {% endfor %}
             </ul>
@@ -41,7 +41,7 @@ layout: default
           </div>
         </div>
         <div class="margin-bottom-3 large-offset-3 cell large-8 small-12">
-          <a target="_blank" href="https://disic.github.io/politique-de-contribution-open-source/en/">Go to English version</a>
+          <a target="_blank" href="https://disic.github.io/politique-de-contribution-open-source/introduction.en">Go to English version</a>
         </div>
       </div>
     </div>
