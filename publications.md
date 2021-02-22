@@ -5,6 +5,14 @@ une:
   image: "/assets/img/main/image_liste_actualites_2.jpg"
   alternative-textuelle: les actualites
 publications:
+- title: 'TECH.GOUV : Stratégie et feuille de route 2019-2021'
+  url: "/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/"
+  une-ou-diaporama:
+  - image: "/uploads/Publication_TECHGOUV.jpg"
+- title: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
+  url: "/publications/rgaa-accessibilite/"
+  une-ou-diaporama:
+  - image: "/uploads/RGAA_Ouv-Publications.jpg"
 - title: 'Projets informatiques de l''État : les avis conformes émis par la DINSIC'
   url: "/publications/avis-conformes"
   une-ou-diaporama:
@@ -31,4 +39,9 @@ publications:
   - image: "/uploads/principes-mutualisation-si.JPG"
 layout: publications
 ---
+
+<!-- - title: Accompagnement à la circulation des données -->
+<!--   url: "/publications/accompagnement-circulation-donnees" -->
+<!--   une-ou-diaporama: -->
+<!--   - image: "/uploads/null-und-eins-001.jpg" -->
 

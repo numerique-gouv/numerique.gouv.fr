@@ -10,6 +10,7 @@ tags:
 - informatique
 - panorama des grands projets SI
 - transparence
+- Panorama des grands projets numériques de l'État
 position: 1
 chapeau-text: 'La DINSIC passe à nouveau en revue les grands projets du système d’information
   de l’Etat et rend public ce panorama, comme tous les quatre mois. Au menu : 56 chantiers
@@ -35,10 +36,11 @@ Ainsi par exemple l’harmonisation de la délivrance des visas sur le plan euro
 
 Le panorama met aussi en exergue les efforts de l’Etat en matière de dépenses informatiques : les projets mutualisés se multiplient – 20 des 56 chantiers actuels, soit 1 sur 3, ont une portée interministérielle – avec à la clé des économies substantielles. Plusieurs projets de cette édition enregistrent des prévisions à la baisse grâce à des renégociations d’offres fournisseurs et des mises en commun de développements entre projets. La logique de partage, impulsée par la DINSIC, continue de s’intensifier.
 
-![panorama_juillet2018.png](/uploads/panorama_juillet2018.png){:height="88" width="200"}{: .align-center}
+![panorama_juillet2018.png](/uploads/panorama_juillet2018.png){:height="88" width="200"}
+{: .text-center}
 
-[Consulter la 6e édition du panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
-{: .text-align-center .lien-important}
+> [Consulter la 6e édition du panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
+{: .lien-important}
 
 
 Crédit photo : everythingpossible - Fotolia

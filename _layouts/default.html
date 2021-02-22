@@ -3,13 +3,14 @@ layout: compress
 ---
 
 <!doctype html>
-<html class="no-js" lang="{{ site.language }}">
-  {% include imports/head.html %}
+<html class="no-js" lang="{{ site.language }}" prefix="og: http://ogp.me/ns#">
+  {% include head.html %}
   <body>
 
     {% include header.html %}
 
     <main id="main" role="main">
+      {{ page.image }}
       {% capture hide %}
       {% assign content = content | split: '<pre' %}
 

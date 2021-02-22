@@ -5,7 +5,7 @@ published: false
 categories:
 - Communiqué de presse
 files:
-- lien: "/uploads/CP_messagerie_instantanee_Etat.pdf"
+- file: "/uploads/CP_messagerie_instantanee_Etat.pdf"
   nom: Télécharger le communiqué de presse
 chapeau-text: 'D’ici l’été 2018, l’État disposera de sa propre messagerie instantanée,
   alternative aux applications WhatsApp et Telegram. '

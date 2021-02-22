@@ -9,7 +9,6 @@ tags:
 - collectivités
 - dcant
 - administration numérique
-- programme
 position: 7
 chapeau-text: 'L’État et les associations d’élus publient aujourd’hui leur programme
   de développement concerté de l’administration numérique territoriale (DCANT) 2018-2020.

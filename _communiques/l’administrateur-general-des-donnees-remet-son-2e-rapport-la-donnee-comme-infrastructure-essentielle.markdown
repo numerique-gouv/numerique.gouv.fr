@@ -8,7 +8,7 @@ tags:
 - Données ouvertes
 - Administrateur général des données
 files:
-- lien: "/uploads/cp_rapport_agd_2018-04-10.pdf"
+- file: "/uploads/cp_rapport_agd_2018-04-10.pdf"
   nom: Télécharger le communiqué de presse
 chapeau-text: L’administrateur général des données (AGD), Henri Verdier, a remis ce
   mardi 10 avril son rapport 2016-2017, intitulé « La donnée comme infrastructure

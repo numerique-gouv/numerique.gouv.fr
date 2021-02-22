@@ -66,9 +66,11 @@ layout: default
       <p>
         <span class="font-bold">{{ champ.intitule }} : </span>
         {% if champ.lien %}
-        <a class="white-link" target="_blank" href="{{ champ.lien }}">{{ champ.contenu }}</a>
+          <a class="white-link" target="_blank" href="{{ champ.lien }}">{{ champ.contenu }}</a>
+        {% elsif champ.mailto %}
+          <a class="white-link" target="_blank" href="mailto:{{ champ.mailto }}">{{ champ.contenu }}</a>
         {% else %}
-        {{ champ.contenu }}
+          {{ champ.contenu }}
         {% endif %}
       </p>
       {% endfor %}

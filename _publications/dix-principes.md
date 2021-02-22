@@ -1,12 +1,11 @@
 ---
 title: Les 10 principes d'une démarche en ligne exemplaire
 permalink: "/publications/dix-principes/"
+position: 5
 subtitle: Une démarche en ligne exemplaire...
-une:
-  image: "/assets/img/main/image_DINSIC.jpg"
+une-ou-diaporama:
+- image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: ordinateur portable
-file: "/uploads/10_principes_demarches-en-ligne.pdf"
-layout: dix-principes
 principes:
 - principe: 
   order: 1
@@ -120,9 +119,18 @@ principes:
 - principe: 
   order: 10
   title: "... s’améliore en continu"
-  content-text: |-
+  content-text: |
     La démarche en ligne **évolue régulièrement en prenant en compte l’avis des usagers** (enquête annuelle, tests utilisateurs, réclamations…), **des agents et des partenaires**, ainsi que les statistiques d’utilisation.
 
     **Les réclamations sont analysées et traitées** comme des signaux prioritaires.
+files:
+- file: "/uploads/10_principes_demarches-en-ligne.pdf"
+  nom: Version imprimable des 10 principes
+- file: "/uploads/Affiche-10-principes_HD.PDF"
+  nom: Affiche des 10 principes (HD)
+- file: "/uploads/10_principes_description-textuelle.pdf"
+  nom: Description textuelle de l'affiche
+layout: dix-principes
 ---
 
+[> En savoir plus sur les 10 principes et leur élaboration](https://numerique.gouv.fr/actualites/la-dinsic-publie-les-10-principes-dune-demarche-en-ligne-exemplaire/ "En savoir plus sur les 10 principes et leur élaboration")

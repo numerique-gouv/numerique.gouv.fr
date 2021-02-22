@@ -25,7 +25,7 @@ class Git {
         repo.mergePullRequest(pullRequestNumber)
       })
       .catch((error) => {
-        alert("Il y a eu une erreur lors du déploiement : " + error.message);
+        alert("Il y a eu une erreur lors du déploiement, verifier qu'il est en cours : https://circleci.com/gh/dinsic-gouv/site-dinsic/tree/production")
       });
   }
 }

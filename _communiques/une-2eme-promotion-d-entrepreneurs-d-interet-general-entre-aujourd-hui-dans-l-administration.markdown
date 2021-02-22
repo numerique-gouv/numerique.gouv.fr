@@ -15,7 +15,7 @@ une-ou-diaporama:
 - image: "/uploads/Une_2e_promotion_dEIGentre_dans_ladministration.png"
   alternative-textuelle: Une seconde génération d'entrepreneur
 files:
-- lien: "/uploads/CP_Entrepreneurs_interet_general_16012018.pdf"
+- file: "/uploads/CP_Entrepreneurs_interet_general_16012018.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
