@@ -20,6 +20,6 @@ Toujours plus connu et utilisé, FranceConnect de nouveau plébiscité dans le d
 
 Déjà, en 2019, ce baromètre de l'Acsel faisait apparaître FranceConnect comme un vecteur de réassurance pour les Français : 65% lui accordaient déjà leur confiance, vs 33% pour Facebook Connect ou Google Sign-in :
 
-![capture-barometre-acsel-2019-franceconnect.png](/uploads/capture-barometre-acsel-2019-franceconnect.png ")
+![capture-barometre-acsel-2019-franceconnect.png](/uploads/capture-barometre-acsel-2019-franceconnect.png "L’État plébiscité pour le service FranceConnect. 65% font confiance à FranceConnect vs 33% font confiance à Facebook Connect ou Google Sign-in")
 
 <div class="lien-important"><a href="https://www.acsel.eu/wp-content/uploads/2021/02/Barometre-Confiance-nume%CC%81rique-Synth%C3%A8se-des-r%C3%A9sultats.pdf">Découvrez tous les résultats du baromètre 2020 (pdf)</a></div>
