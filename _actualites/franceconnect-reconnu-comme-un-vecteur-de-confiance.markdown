@@ -1,6 +1,8 @@
 ---
 title: FranceConnect reconnu comme un vecteur de confiance
 date: 2021-02-23 12:41:00 +01:00
+categories:
+- Brève
 tags:
 - FranceConnect
 - Identité numérique
