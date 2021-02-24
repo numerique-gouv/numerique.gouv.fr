@@ -11,6 +11,19 @@ tags:
 - TECH.GOUV
 chapeau-text: La DINUM publie les résultats du baromètre numérique de l’agent 2020,
   qui recueille l’avis des agents de l’État sur leur environnement numérique de travail.
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
 
 Que pensent les agents de l’État de leur environnement de travail numérique ? En sont-ils satisfaits ? Quels en sont, pour eux, les points positifs et à améliorer ?
@@ -55,7 +68,7 @@ Les résultats de cette édition du BNA appellent notamment les administrations 
 
 **Le prochain baromètre numérique de l’agent sera mené au cours de l’été 2021.**
 
-Consulter les résultats du BNA 2020 (pdf – 1,7 Mo)
+<p><a href="" class="button">Consulter les résultats du BNA 2020 (pdf – 8 Mo)</a></p>
 
 > ### Administrations : le plan France Relance vous aide à améliorer l’environnement de travail numérique de vos agents
 > 
