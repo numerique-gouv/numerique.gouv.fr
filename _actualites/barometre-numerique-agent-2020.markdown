@@ -72,22 +72,4 @@ Les résultats de cette édition du BNA appellent notamment les administrations 
 
 > Retrouvez également les données brutes du BNA 2020 sur data.gouv.fr
 
-> ### Administrations : le plan France Relance vous aide à améliorer l’environnement de travail numérique de vos agents
-> {: .margin-bottom-1 .h4}
-> Dans le cadre du volet Transformation numérique de l’État et des territoires, le plan de relance mis en place par le Gouvernement peut vous aider à financer des projets en ce sens. 
- **Cinq guichets « Sac à dos numérique de l’agent public », pilotés par la DINUM, sont proposés :**
-> 
-> * Augmenter les débits réseau ([SNAP1](https://france-relance.transformation.gouv.fr/93da-augmenter-les-debits-reseau "SNAP1 - Lien externe"))
-> 
-> * Simplifier l’authentification des agents grâce à AgentConnect ([SNAP2](https://france-relance.transformation.gouv.fr/953d-simplifier-lauthentification-des-agents-grace "SNAP2 - Lien externe"))
-> 
-> * Rendre les terminaux numériques des agents et les infrastructures plus propices au travail en mobilité ([SNAP3](https://france-relance.transformation.gouv.fr/074d-rendre-les-terminaux-numeriques-des-agents-et "SNAP3 - Lien externe"))
-> 
-> * Développer des outils de communication et de collaboration pour les agents ([SNAP4](https://france-relance.transformation.gouv.fr/b8f4-developper-des-outils-de-communication-et-de- "SNAP4 - Lien externe"))
-> 
-> * Accompagner l’appropriation des méthodes de travail numériques au sein des équipes ([SNAP5](https://france-relance.transformation.gouv.fr/b07b-accompagner-lappropriation-des-methodes-de-tr "SNAP5 - Lien externe"))
-> 
-> En parallèle, **un guichet du volet « Innovation et transformation numérique »** peut permettre de généraliser sur plusieurs territoires une innovation numérique locale ([ITN3](https://france-relance.transformation.gouv.fr/fb0c-generaliser-sur-plusieurs-territoires-une-inn "ITN3 - Lien externe")) portant sur l’environnement de travail de l’agent.
-> 
-> **> [En savoir plus et postuler](https://france-relance.transformation.gouv.fr/ "En savoir plus et postuler - Lien externe")**
-{: .encadre .noir}
+<div class="encadre noir"><h3 class="margin-bottom-1 h4">Administrations&nbsp;: le plan France Relance vous aide à améliorer l’environnement de travail numérique de vos agents</h3><p>Dans le cadre du volet Transformation numérique de l’État et des territoires, le plan de relance mis en place par le Gouvernement peut vous aider à financer des projets en ce sens. <strong>Cinq guichets «&nbsp;Sac à dos numérique de l’agent public&nbsp;», pilotés par la DINUM, sont proposés&nbsp;:</strong></p> <ul> <li> <p>Augmenter les débits réseau (<a href="https://france-relance.transformation.gouv.fr/93da-augmenter-les-debits-reseau" title="SNAP1 - Lien externe">SNAP1</a>)</p> </li> <li> <p>Simplifier l’authentification des agents grâce à AgentConnect (<a href="https://france-relance.transformation.gouv.fr/953d-simplifier-lauthentification-des-agents-grace" title="SNAP2 - Lien externe">SNAP2</a>)</p> </li> <li> <p>Rendre les terminaux numériques des agents et les infrastructures plus propices au travail en mobilité (<a href="https://france-relance.transformation.gouv.fr/074d-rendre-les-terminaux-numeriques-des-agents-et" title="SNAP3 - Lien externe">SNAP3</a>)</p> </li> <li> <p>Développer des outils de communication et de collaboration pour les agents (<a href="https://france-relance.transformation.gouv.fr/b8f4-developper-des-outils-de-communication-et-de-" title="SNAP4 - Lien externe">SNAP4</a>)</p> </li> <li> <p>Accompagner l’appropriation des méthodes de travail numériques au sein des équipes (<a href="https://france-relance.transformation.gouv.fr/b07b-accompagner-lappropriation-des-methodes-de-tr" title="SNAP5 - Lien externe">SNAP5</a>)</p> </li> </ul> <p>En parallèle, <strong>un guichet du volet «&nbsp;Innovation et transformation numérique&nbsp;»</strong> peut permettre de généraliser sur plusieurs territoires une innovation numérique locale (<a href="https://france-relance.transformation.gouv.fr/fb0c-generaliser-sur-plusieurs-territoires-une-inn" title="ITN3 - Lien externe">ITN3</a>) portant sur l’environnement de travail de l’agent.</p> <p><strong>&gt; <a href="https://france-relance.transformation.gouv.fr/" title="En savoir plus et postuler - Lien externe">En savoir plus et postuler</a></strong></p></div>
