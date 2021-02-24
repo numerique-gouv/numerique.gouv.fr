@@ -1,0 +1,51 @@
+---
+title: 'Baromètre numérique de l’agent 2020 : des agents de plus en plus satisfaits
+  de leur environnement de travail numérique'
+date: 2021-02-24 12:24:00 +01:00
+chapeau-text: La DINUM publie les résultats du baromètre numérique de l’agent 2020,
+  qui recueille l’avis des agents de l’État sur leur environnement numérique de travail.
+---
+
+Que pensent les agents de l’État de leur environnement de travail numérique ? En sont-ils satisfaits ? Quels en sont, pour eux, les points positifs et à améliorer ?
+
+Depuis 2019, en lien avec les équipes numériques ministérielles, la DINUM opère le baromètre numérique de l’agent (BNA) dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) : une fois par an, l’ensemble des agents de l’État (administrations centrales et déconcentrées, hors fonction hospitalière et enseignement) est invité à exprimer son avis quant à ses équipements, ses outils numériques professionnels et aux services associés (assistance, formation…).
+
+Les résultats de ce baromètre permettent de **confirmer les progrès réalisés**, d’**identifier les axes d’amélioration**, et de **suivre en continu**, d’une année sur l’autre, **les effets des actions** menées tant au niveau des ministères qu’en interministériel.
+
+Avec près de 73 000 répondants, l’édition 2020, conduite en septembre, permet ainsi de tirer des enseignements sur les actions engagées depuis la première édition pour améliorer l’environnement numérique de travail des agents. Elle prend place dans le contexte particulier, en lien avec la crise sanitaire que nous connaissons, d’un présent et d’un avenir professionnels qui donne notamment une part plus importante au travail à distance. Les résultats 2020 montrent que l’État a su s’adapter face à la situation et trouver des solutions pour satisfaire les besoins numériques de ses agents.
+
+## Une satisfaction en hausse
+
+**La satisfaction des agents affiche une progression sur l’ensemble des composantes de l’environnement numérique de travail :** en matière d’équipement informatique (72% satisfaits, +6 pts par rapport à 2019), de capacité à se connecter (62% satisfaits, +2 pts) et de services d’assistance, largement sollicités depuis le premier confinement début 2020 (76% satisfaits, +10 pts).
+
+**Ces évolutions positives sont soulignées par une excellente appréhension de l’environnement numérique de travail, **également en hausse,** **avec** **9 agents sur 10 déclarant bien le maîtriser (91%, +4 pts).
+
+## Les agents se disent mieux équipés pour le travail à distance
+
+**Le baromètre 2020 met également en lumière les efforts menés par les administrations en matière d’équipements nomades depuis 2019, signe qu’elles ont su en accélérer le déploiement pour répondre dans l’urgence aux confinements et au télétravail massif des agents. On enregistre ainsi un recul des postes de travail fixes et une hausse de la dotation en ordinateurs portables : la moitié des agents (50%, +10 pts) déclarent être équipés en ordinateurs portables.
+
+**Les marges d’amélioration se situent au niveau de la qualité de l’équipement** avec près de 2 agents sur 5 qui considèrent que l’équipement fourni par l’administration (ordinateur fixe ou ordinateur portable, tablette, smartphone) est globalement moins performant que leur équipement personnel.
+
+La dotation en téléphonie mobile reste encore limitée depuis 2019 et concerne un quart des agents.
+
+Deux tiers des agents (68%) estiment que leur environnement de travail leur permet de travailler à distance, dont 26% estiment être équipés pour assurer un travail « complet » à distance.
+
+Par ailleurs, hors période de crise liée au Covid-19, **le télétravail concerne plus d’un agent sur 3, dans des proportions variées :** 37% des agents déclarent le pratiquer au moins une fois par an.
+
+Si les conditions du travail à distance sont meilleures en administrations centrales, des efforts restent à mener pour les agents en administrations déconcentrées, en matière d’équipements nomades notamment.
+
+## Le besoin de perfectionner les usages demeure
+
+**Les applications fournies par les ministères et les outils interministériels** (travail collaboratif, partage de fichiers…) **continuent également de progresser dans les usages** avec un taux de satisfaction de 71% bien que 2 agents sur 3 considèrent que les obligations de sécurité peuvent freiner leurs activités, plus particulièrement en situation de travail à distance.
+
+Enfin, **si les agents se sentent de plus en plus à l’aise avec les outils numériques, près d’un sur deux** (47%, -12 pts) **souhaiterait se perfectionner dans leurs pratiques et usages** à travers une formation ou un accompagnement. Au-delà des outils bureautiques, le besoin se fait particulièrement sentir sur des pratiques en lien avec le travail à distance (outils collaboratifs et outils de visioconférences).
+
+## Des moyens de travail à distance à renforcer
+
+Les résultats de cette édition du BNA appellent notamment les administrations centrales et déconcentrées à **renforcer les moyens du travail à distance** par le déploiement de postes de travail nativement mobiles et plus ouverts (matériels et logiciels). Ces évolutions sont l’opportunité d’**une plus grande flexibilité du travail à distance :** à domicile, tiers-lieux, bureaux à la demande au sein d’administrations etc.
+
+**Ces axes pourront être soutenus par les fonds « Sac à dos numérique de l’agent public » et « Innovation et transformation numérique » du plan France Relance** afin d’engager ou d’accélérer les actions décidées.
+
+**Le prochain baromètre numérique de l’agent sera mené au cours de l’été 2021.**
+
+Consulter les résultats du BNA 2020 (pdf – 1,7 Mo)
