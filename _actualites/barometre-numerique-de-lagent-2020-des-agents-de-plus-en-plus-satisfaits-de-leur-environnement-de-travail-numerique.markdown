@@ -2,6 +2,13 @@
 title: 'Baromètre numérique de l’agent 2020 : des agents de plus en plus satisfaits
   de leur environnement de travail numérique'
 date: 2021-02-24 12:24:00 +01:00
+categories:
+- Article
+tags:
+- Baromètre numérique de l'agent
+- Environnement de travail numérique
+- FranceRelance
+- TECH.GOUV
 chapeau-text: La DINUM publie les résultats du baromètre numérique de l’agent 2020,
   qui recueille l’avis des agents de l’État sur leur environnement numérique de travail.
 ---
@@ -16,13 +23,13 @@ Avec près de 73 000 répondants, l’édition 2020, conduite en septembre, perm
 
 ## Une satisfaction en hausse
 
-**La satisfaction des agents affiche une progression sur l’ensemble des composantes de l’environnement numérique de travail :** en matière d’équipement informatique (72% satisfaits, +6 pts par rapport à 2019), de capacité à se connecter (62% satisfaits, +2 pts) et de services d’assistance, largement sollicités depuis le premier confinement début 2020 (76% satisfaits, +10 pts).
+**La satisfaction des agents affiche une progression sur l’ensemble des composantes de l’environnement numérique de travail :** en matière d’équipement informatique (72% satisfaits, \+6 pts par rapport à 2019), de capacité à se connecter (62% satisfaits, \+2 pts) et de services d’assistance, largement sollicités depuis le premier confinement début 2020 (76% satisfaits, \+10 pts).
 
-**Ces évolutions positives sont soulignées par une excellente appréhension de l’environnement numérique de travail, **également en hausse,** **avec** **9 agents sur 10 déclarant bien le maîtriser (91%, +4 pts).
+\*\*Ces évolutions positives sont soulignées par une excellente appréhension de l’environnement numérique de travail, **également en hausse,** **avec** \*\*9 agents sur 10 déclarant bien le maîtriser (91%, \+4 pts).
 
 ## Les agents se disent mieux équipés pour le travail à distance
 
-**Le baromètre 2020 met également en lumière les efforts menés par les administrations en matière d’équipements nomades depuis 2019, signe qu’elles ont su en accélérer le déploiement pour répondre dans l’urgence aux confinements et au télétravail massif des agents. On enregistre ainsi un recul des postes de travail fixes et une hausse de la dotation en ordinateurs portables : la moitié des agents (50%, +10 pts) déclarent être équipés en ordinateurs portables.
+\*\*Le baromètre 2020 met également en lumière les efforts menés par les administrations en matière d’équipements nomades depuis 2019, signe qu’elles ont su en accélérer le déploiement pour répondre dans l’urgence aux confinements et au télétravail massif des agents. On enregistre ainsi un recul des postes de travail fixes et une hausse de la dotation en ordinateurs portables : la moitié des agents (50%, \+10 pts) déclarent être équipés en ordinateurs portables.
 
 **Les marges d’amélioration se situent au niveau de la qualité de l’équipement** avec près de 2 agents sur 5 qui considèrent que l’équipement fourni par l’administration (ordinateur fixe ou ordinateur portable, tablette, smartphone) est globalement moins performant que leur équipement personnel.
 
@@ -49,3 +56,23 @@ Les résultats de cette édition du BNA appellent notamment les administrations 
 **Le prochain baromètre numérique de l’agent sera mené au cours de l’été 2021.**
 
 Consulter les résultats du BNA 2020 (pdf – 1,7 Mo)
+
+> ### Administrations : le plan France Relance vous aide à améliorer l’environnement de travail numérique de vos agents
+> 
+> Dans le cadre du volet Transformation numérique de l’État et des territoires, le plan de relance mis en place par le Gouvernement peut vous aider à financer des projets en ce sens. 
+ **Cinq guichets « Sac à dos numérique de l’agent public », pilotés par la DINUM, sont proposés :**
+> 
+> * Augmenter les débits réseau ([SNAP1](https://france-relance.transformation.gouv.fr/93da-augmenter-les-debits-reseau "SNAP1 - Lien externe"))
+> 
+> * Simplifier l’authentification des agents grâce à AgentConnect ([SNAP2](https://france-relance.transformation.gouv.fr/953d-simplifier-lauthentification-des-agents-grace "SNAP2 - Lien externe"))
+> 
+> * Rendre les terminaux numériques des agents et les infrastructures plus propices au travail en mobilité ([SNAP3](https://france-relance.transformation.gouv.fr/074d-rendre-les-terminaux-numeriques-des-agents-et "SNAP3 - Lien externe"))
+> 
+> * Développer des outils de communication et de collaboration pour les agents ([SNAP4](https://france-relance.transformation.gouv.fr/b8f4-developper-des-outils-de-communication-et-de- "SNAP4 - Lien externe"))
+> 
+> * Accompagner l’appropriation des méthodes de travail numériques au sein des équipes ([SNAP5](https://france-relance.transformation.gouv.fr/b07b-accompagner-lappropriation-des-methodes-de-tr "SNAP5 - Lien externe"))
+> 
+> En parallèle, **un guichet du volet « Innovation et transformation numérique »** peut permettre de généraliser sur plusieurs territoires une innovation numérique locale ([ITN3](https://france-relance.transformation.gouv.fr/fb0c-generaliser-sur-plusieurs-territoires-une-inn "ITN3 - Lien externe")) portant sur l’environnement de travail de l’agent.
+> 
+> **> [En savoir plus et postuler](https://france-relance.transformation.gouv.fr/ "En savoir plus et postuler - Lien externe")**
+{: .encadre .noir}
