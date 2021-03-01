@@ -27,7 +27,7 @@ contact-presse:
 files:
 - nom: 'Télécharger le communiqué de presse '
   Key: 
-  File: "/uploads/CP_EIG5_%C3%89TAT_RECRUTE_50_TALENTS_NUM%C3%89RIQUE_POUR_ACCL%C3%89RER_SA_TRANSFORMATION.pdf"
+  File: "/uploads/CP_EIG5_ETAT_RECRUTE_50_TALENTS_DU_NUMERIQUE_POUR_ACCLERER_SA_TRANSFORMATION.pdf"
 ---
 
 Développeuses, développeurs, data scientists, designers et juristes du numérique, ayant une appétence pour les données et un grand sens de l’intérêt général, sont invités à candidater en ligne dès aujourd’hui. Parmi les critères de sélection : leurs compétences techniques, leur esprit d’initiative leur capacité à s’adapter (travail en équipe, rapidité d’exécution…) et leur engouement pour améliorer l’action publique et la vie des citoyens.
