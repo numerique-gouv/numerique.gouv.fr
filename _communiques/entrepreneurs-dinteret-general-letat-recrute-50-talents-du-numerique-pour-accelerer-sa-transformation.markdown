@@ -1,7 +1,7 @@
 ---
 title: 'Entrepreneurs d''intérêt général : l’État recrute 50 talents du numérique
   pour accélérer sa transformation !'
-date: 2021-03-01 12:41:00 +01:00
+date: 2021-03-01 12:55:00 +01:00
 categories:
 - Communiqué de presse
 tags:
