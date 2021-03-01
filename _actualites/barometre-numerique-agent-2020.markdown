@@ -2,6 +2,7 @@
 title: 'Baromètre numérique de l’agent 2020 : des agents de plus en plus satisfaits
   de leur environnement de travail numérique'
 date: 2021-02-24 12:24:00 +01:00
+published: false
 categories:
 - Article
 tags:
