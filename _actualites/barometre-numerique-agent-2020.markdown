@@ -11,6 +11,8 @@ tags:
 - TECH.GOUV
 chapeau-text: La DINUM publie les résultats du baromètre numérique de l’agent 2020,
   qui recueille l’avis des agents de l’État sur leur environnement numérique de travail.
+une-ou-diaporama:
+- image: "/uploads/BNA_2020_Une.jpg"
 style: |-
   .button {
   background-color: #0d5c98;
