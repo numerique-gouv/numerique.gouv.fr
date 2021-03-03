@@ -2,6 +2,8 @@
 title: 'France Relance : Le volet « Développer l’utilisation de la donnée dans votre
   administration » finance 18 projets'
 date: 2021-03-03 12:04:00 +01:00
+une-ou-diaporama:
+- image: "/uploads/2020_10_27_FRANCE-RELANCE_1600x860.jpg"
 ---
 
 Dans le cadre du plan de relance numérique, Etalab, au sein de la DINUM, porte le volet « Développer l’utilisation de la donnée dans votre administration » donnant aux administrations la possibilité d’obtenir un cofinancements de projets autour du pilotage public par la donnée, de l’échange de données entre administrations, de l’exploitation de données ou de l’ouverture des données. Un premier appel à projets s’est clôturé à la fin de l’année 2020. Cet appel a été plébiscité puisque 69 dossiers ont été déposés, par 30 administrations différentes, réparties dans 12 ministères. Parmi les dossiers déposés, 18 ont été sélectionnés pour recevoir un cofinancement.
@@ -14,7 +16,7 @@ Les cas d’usage sont variés : amélioration du service public par une mise en
 
 Les administrations et leurs projets sélectionnés sont les suivants :
 
-Plateforme d’échange, de collecte ou de visualisation intelligente des données
+### Plateforme d’échange, de collecte ou de visualisation intelligente des données
 
 * MINISTÈRE DES ARMÉES - ANAIS : Hub d’échange de données maritimes
 
@@ -28,49 +30,49 @@ Plateforme d’échange, de collecte ou de visualisation intelligente des donné
 
 * DIRECTION GÉNÉRALE DES INFRASTRUCTURES DES TRANSPORTS ET DE LA MER - Observatoire du covoiturage au quotidien - Suivre l’évolution des pratiques et d’évaluer l’impact des mesures prises afin d’adapter les politiques publiques de covoiturage
 
-* DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR - Cycle de vie de la donnée “intervention d’urgence”. Améliorer l’efficacité des interventions d’urgence de la gendarmerie
+* DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR - Cycle de vie de la donnée « intervention d’urgence ». Améliorer l’efficacité des interventions d’urgence de la gendarmerie
 
 * GRAND PORT MARITIME DU HAVRE - Projet SMARTRAFIC : mise en place d’un hyperviseur - Partager les données de trafics routiers, ferroviaires et fluviaux
 
-* AGENCE CENTRALE DES ORGANISMES DE SECURITE SOCIALE - Industrialisation et enrichissement du Tableau de Bord Crise COVID pour le suivi des recouvrements
+* AGENCE CENTRALE DES ORGANISMES DE SÉCURITÉ SOCIALE - Industrialisation et enrichissement du tableau de bord Crise COVID pour le suivi des recouvrements
 
-* SECRETARIAT GENERAL DES MINISTERES CHARGES DES AFFAIRES SOCIALES - BCE (Base de connaissance des entreprises) - Piloter par la donnée les relations avec les entreprise
+* SECRÉTARIAT GÉNÉRAL DES MINISTÈRES CHARGÉS DES AFFAIRES SOCIALES - BCE (Base de connaissance des entreprises) - Piloter par la donnée les relations avec les entreprise
 
-**Développement d’API**
+### Développement d’API
 
-* MINISTERE DE L’ECONOMIE DES FINANCES ET DE LA RELANCE - Dossier Numérique de l’Agent : Déploiement de la Fiche Interministérielle de Synthèse Individuelle et portage dans l’ENSAP - Faciliter le parcours des agents publics
+* MINISTERE DE L’ÉCONOMIE DES FINANCES ET DE LA RELANCE - Dossier Numérique de l’Agent : Déploiement de la Fiche Interministérielle de Synthèse Individuelle et portage dans l’ENSAP - Faciliter le parcours des agents publics
 
-* AGENCE POUR L’INFORMATIQUE FINANCIERE DE L’ETAT - Chorus – API demandes d’achats - Améliorer le délai d’approvisionnement des services ministériels en réduisant le temps de traitement de leurs demandes d’achats.
+* AGENCE POUR L’INFORMATIQUE FINANCIERE DE L’ÉTAT - Chorus – API demandes d’achats - Améliorer le délai d’approvisionnement des services ministériels en réduisant le temps de traitement de leurs demandes d’achats.
 
-* MINISTERE DE L EDUCATION NATIONALE, DE LA JEUNESSE ET DES SPORTS - Projet SUPDATA – Mise en place du service StatutEtudiant. Construire un référentiel national et actualisé des inscriptions en cours dans une formation du supérieur
+* MINISTERE DE L'ÉDUCATION NATIONALE, DE LA JEUNESSE ET DES SPORTS - Projet SUPDATA – Mise en place du service StatutÉtudiant. Construire un référentiel national et actualisé des inscriptions en cours dans une formation du supérieur
 
 * CAISSE NATIONALE D’ASSURANCE VIEILLESSE DES TRAVAILLEURS SALARIES - API Sécu - Exposer des données issues des organismes de la Sphère Sociale afin de faciliter les échanges et améliorer les services rendus aux citoyens
+### 
+Exploitation des données / Data Sciences
 
-**Exploitation des données / Data Sciences**
+* ÉCOLE NATIONALE DE VOILE ET DES SPORTS NAUTIQUES - Les data sciences au service de la lutte contre les noyades et les accidents en loisirs nautiques.
 
-* ECOLE NATIONALE DE VOILE ET DES SPORTS NAUTIQUES - Les data sciences au service de la lutte contre les noyades et les accidents en loisirs nautiques.
+### Montée en qualité et automatisation de la collecte des données
 
-**Montée en qualité et automatisation de la collecte des données**
-
-* SECRETARIAT GENERAL DU MINISTERE DE LA CULTURE - SIMARA - Plate-forme de transcription d’inventaires manuscrits du XVIIIe au XXe siècle grâce à l’intelligence artificielle.
+* SECRÉTARIAT GENERAL DU MINISTERE DE LA CULTURE - SIMARA - Plate-forme de transcription d’inventaires manuscrits du XVIIIe au XXe siècle grâce à l’intelligence artificielle.
 
 * MOBILIER NATIONAL ET MANUFACTURES NATIONALES DES GOBELINS DE BEAUVAIS ET DE LA SAVONNERIE - Numériser les collections textiles historiques du Mobilier national / Informatiser une collection
 
-* SERVICE HYDROGRAPHIQUE ET OCEANOGRAPHIQUE DE LA MARINE - Transformation numérique du système de production des publications nautiques
+* SERVICE HYDROGRAPHIQUE ET OCÉANOGRAPHIQUE DE LA MARINE - Transformation numérique du système de production des publications nautiques
 
-**Catalogue de données**
+### Catalogue de données
 
-* SECRETARIAT GENERAL DU MINISTERE DE LA CULTURE - Data.Culture.Catalogue : une cartographie dynamique et partagée des données du ministère de la Culture
+* SECRÉTARIAT GÉNÉRAL DU MINISTERE DE LA CULTURE - Data.Culture.Catalogue : une cartographie dynamique et partagée des données du ministère de la Culture
 
-**Un jury pluridisciplinaire pour croiser les regards sur les dossiers**
+## Un jury pluridisciplinaire pour croiser les regards sur les dossiers
 
-Suite à l’examen des équipes de la DINUM et de la DITP, 33 dossiers sur les 69 déposés ont été présélectionnés pour être auditionnés devant un jury d’experts (entrepreneurs, chercheurs, acteurs publics) spécialisés dans la donnée et dans la transformation numérique.
+Suite à l’examen par les équipes de la DINUM et de la DITP, 33 dossiers sur les 69 déposés ont été présélectionnés et leurs administrations porteuses auditionnées devant un jury d’experts (entrepreneurs, chercheurs, acteurs publics) spécialisés dans la donnée et la transformation numérique.
 
-Les 15 membres du jury ont sélectionné les 18 projets lauréats en prenant en compte les bénéfices potentiels pour l’administration lauréate et pour les autres administrations ou l’action publique en général, la pertinence technique et la crédibilité du projet, la pérennité du projet, l’adéquation du budget présenté.
+Les 15 membres du jury ont retenu 18 projets, en prenant en compte les bénéfices potentiels pour l’administration lauréate et pour les autres administrations ou l’action publique en général, la pertinence technique et la crédibilité du projet, la pérennité du projet, l’adéquation du budget présenté.
 
-**Les prochaines étapes**
+## Les prochaines étapes
 
-Le volet “Développer l’utilisation de la donnée dans votre administration” de France Relance offre aux administrations des possibilités de cofinancements de leurs projets tout au long de l’année 2021:
+Le volet « Développer l’utilisation de la donnée dans votre administration » de France Relance offre aux administrations des possibilités de cofinancements de leurs projets tout au long de l’année 2021 :
 
 * Un guichet en continu sur l’année 2021 pour les projets de moins de 100 000 euros ouvre le 1er février 2021
 
@@ -78,7 +80,7 @@ Le volet “Développer l’utilisation de la donnée dans votre administration�
 
 * Un troisième appel à projets sera ouvert au second trimestre 2021
 
-**Composition du jury**
+## Composition du jury
 
 Un grand merci aux experts de la donnée et de la transformation publique ayant accepté de consacrer une journée entière à auditionner les projets présélectionnés.
 
@@ -116,12 +118,12 @@ Voici la composition du jury:
 
 * Nadi Bou Hanna – Directeur interministériel du numérique
 
-**Et ensuite ?**
+## Et ensuite ?
 
-Dans le cadre du dispositif France Relance, deux autres appels à projets seront organisés au deuxième et quatrième trimestre 2021 sur le thème “Développer l’utilisation de la donnée dans votre administration”.
+Dans le cadre du dispositif France Relance, **deux autres appels à projets seront organisés au deuxième et quatrième trimestre 2021 sur le thème « Développer l’utilisation de la donnée dans votre administration ».**
 
-Par ailleurs, un guichet dédié aux projets de faible ampleur destinés à développer l'amélioration continue des pratiques dans le domaine de la donnée a été lancé le 1er février.
+Par ailleurs, **un guichet dédié aux projets de faible ampleur destinés à développer l'amélioration continue des pratiques dans le domaine de la donnée a été lancé le 1er février dernier.**
 
-Enfin, un fonds de « transformation numérique des collectivités territoriales » a été lancé le 25 janvier dernier afin de développer un **[meilleur usage des données pour nos territoires](https://france-relance.transformation.gouv.fr/dbbc-developper-lutilisation-de-la-donnee-dans-vot/)** (intelligence artificielle, open data, archivage, tableaux de bord de pilotage des politiques publiques locales) qui sera ouvert jusqu’au 28 mai 2021.
+Enfin, un fonds de « transformation numérique des collectivités territoriales » est ouvert depuis fin janvier et jusqu’au 28 mai 2021 afin de développer un **[meilleur usage des données pour nos territoires](https://france-relance.transformation.gouv.fr/dbbc-developper-lutilisation-de-la-donnee-dans-vot/)** (intelligence artificielle, open data, archivage, tableaux de bord de pilotage des politiques publiques locales).
 
-Pour en savoir plus sur le thème “Développer l’utilisation de la donnée dans votre administration” dans le cadre de France Relance : [https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot)
+Pour en savoir plus sur le thème « Développer l’utilisation de la donnée dans votre administration » dans le cadre de France Relance : [https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot)
