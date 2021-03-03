@@ -68,7 +68,7 @@ Exploitation des données / Data Sciences
 
 Suite à l’examen par les équipes de la DINUM et de la DITP, 33 dossiers sur les 69 déposés ont été présélectionnés et leurs administrations porteuses auditionnées devant un jury d’experts (entrepreneurs, chercheurs, acteurs publics) spécialisés dans la donnée et la transformation numérique.
 
-Les 15 membres du jury ont retenu 18 projets, en prenant en compte les bénéfices potentiels pour l’administration lauréate et pour les autres administrations ou l’action publique en général, la pertinence technique et la crédibilité du projet, la pérennité du projet, l’adéquation du budget présenté.
+Les membres du jury ont retenu 18 projets, en prenant en compte les bénéfices potentiels pour l’administration lauréate et pour les autres administrations ou l’action publique en général, la pertinence technique et la crédibilité du projet, la pérennité du projet, l’adéquation du budget présenté.
 
 ## Les prochaines étapes
 
@@ -82,40 +82,25 @@ Le volet « Développer l’utilisation de la donnée dans votre administration 
 
 ## Composition du jury
 
-Un grand merci aux experts de la donnée et de la transformation publique ayant accepté de consacrer une journée entière à auditionner les projets présélectionnés.
+15 experts de la donnée et de la transformation publique et numérique ont auditionné les projets présélectionnés, pendant une journée entière. Merci à eux et elles pour leur investissement !
 
 Voici la composition du jury:
 
 * Florence Gomez : Rapporteur au Comité interministériel de restructuration industrielle (CIRI) – Direction générale du Trésor
-
 * Mathilde Bras : Directrice opérationnelle – Fing
-
 * Fabien Antoine : Directeur de projet - stratégie data au Ministère de la Justice
-
 * Stéphane Trainel : Administrateur ministériel des données des ministères économiques et financiers
-
 * Romain Talès : Responsable du pôle donnée chez Direction interministérielle du numérique
-
 * Thomas Cottinet : Directeur de l’ECOLAB at Ministère de l’Environnement
-
 * Laure Lucchesi : Directrice d’Etalab
-
 * Delphine Le : Lead data scientist à Ministère de l’Économie et des Finances
-
-* Nicolas Amar : Coordinnateur de la stratégie nationale IA à Ministère de l’Économie et des Finances
-
+* Nicolas Amar : Coordonnateur de la stratégie nationale IA à Ministère de l’Économie et des Finances
 * Kim Montalibet – Data scientist au Lab IA d’Etalab
-
 * Christophe Costes : Directeur de projets chez Direction Interministérielle de la Transformation Publique
-
 * Ioana Manolescu : Directrice scientifique du Lab IA Etalab / chercheuse INRIA
-
 * Bertrand Pailhès : Directeur des technologies et de l’innovation à la CNIL
-
 * Eglantine Schmitt : Chef de produit à Citio
-
 * Paul-Antoine Chevalier : Responsable du Lab IA d’Etatab
-
 * Nadi Bou Hanna – Directeur interministériel du numérique
 
 ## Et ensuite ?
