@@ -37,8 +37,8 @@ Créée par la direction interministérielle du numérique (DINUM) sous l’égi
 
 
 **Si vous voulez en savoir plus :** 
-[Connectez-vous sur transport.data.gouv.fr](https://transport.data.gouv.fr/)
-[Inscrivez-vous à l’évènement en ligne de passation le 5 mars de 9h à 10h30](https://www.eventbrite.fr/e/billets-webinaire-de-passation-de-transportdatagouvfr-138746353077)
+* [Connectez-vous sur transport.data.gouv.fr](https://transport.data.gouv.fr/)
+* [Inscrivez-vous à l’évènement en ligne de passation le 5 mars de 9h à 10h30](https://www.eventbrite.fr/e/billets-webinaire-de-passation-de-transportdatagouvfr-138746353077)
 
 
 **Contact presse de Jean-Baptiste Djebbari, ministre délégué auprès de la ministre de la Transition écologique, chargé des Transports:**
