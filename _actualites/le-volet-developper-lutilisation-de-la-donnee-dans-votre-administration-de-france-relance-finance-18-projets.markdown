@@ -20,17 +20,13 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 
 ### Plateforme d’échange, de collecte ou de visualisation intelligente des données
 
-* MINISTÈRE DES ARMÉES 
-ANAIS : Hub d’échange de données maritimes
+<ul><li><p><b>ANAIS</b><br>Hub d’échange de données maritimes<br>– MINISTÈRE DES ARMÉES</p></li>
 
-* MINISTÈRE DE LA TRANSITION ÉCOLOGIQUE
-Accélérer et passer à l’échelle les projets de valorisation de données
+<li><p><b>Accélérer et passer à l’échelle</b> les projets de valorisation de données<br>– MINISTÈRE DE LA TRANSITION ÉCOLOGIQUE</p></li>
 
-* DIRECTION GÉNÉRALE DE L’ÉNERGIE ET DU CLIMAT
-Potentiel : Faciliter le parcours des producteurs d’énergies renouvelables électriques
+<li><p><b>Potentiel</b><br>Faciliter le parcours des producteurs d’énergies renouvelables électriques<br>– DIRECTION GÉNÉRALE DE L’ÉNERGIE ET DU CLIMAT</p></li>
 
-* DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR
-DataMin 360 : collecter, analyser, visualiser les données financières
+<li><p><b>DataMin 360</b><br>Collecter, analyser, visualiser les données financières<br>– DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR</p></li></ul>
 
 ## Projets de pilotage par la donnée
 
@@ -42,7 +38,7 @@ DataMin 360 : collecter, analyser, visualiser les données financières
 
 <li><p><b>Projet SMARTRAFIC</b><br>Mise en place d’un hyperviseur - Partage des données de trafics routiers, ferroviaires et fluviaux<br>– GRAND PORT MARITIME DU HAVRE</p></li> 
 
-<li><p><b>Industrialisation et enrichissement</b> du tableau de bord Crise COVID pour le suivi des recouvrements<br>AGENCE CENTRALE DES ORGANISMES DE SÉCURITÉ SOCIALE</p></li>
+<li><p><b>Industrialisation et enrichissement</b> du tableau de bord Crise COVID pour le suivi des recouvrements<br>– AGENCE CENTRALE DES ORGANISMES DE SÉCURITÉ SOCIALE</p></li>
 
 <li><p><b>Base de connaissance des entreprises (BCE)</b>
 <br>Piloter par la donnée les relations avec les entreprise
