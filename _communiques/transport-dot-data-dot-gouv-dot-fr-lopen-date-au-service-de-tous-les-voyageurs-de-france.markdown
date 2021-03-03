@@ -1,7 +1,7 @@
 ---
 title: 'Transport.data.gouv.fr : l''open data au service de tous les voyageurs de
   France'
-date: 2021-03-03 13:05:00 +01:00
+date: 2021-03-03 13:13:00 +01:00
 categories:
 - Communiqué de presse
 tags:
@@ -36,7 +36,7 @@ Avec transport.data.gouv.fr, le ministère chargé des Transports se dote d’un
 Créée par la direction interministérielle du numérique (DINUM) sous l’égide du ministère de la Transformation et de la Fonction publiques, la plateforme transport.data.gouv.fr a été construite avec la direction générale des infrastructures, des transports et de la mer (DGITM) du ministère de la Transition écologique et solidaire et le concours de toutes les collectivités qui, par la production de données, contribuent à élargir les offres de transport en ligne.
 
 
-**Si vous voulez en savoir plus :** 
+**Si vous voulez en savoir plus :**  
 * [Connectez-vous sur transport.data.gouv.fr](https://transport.data.gouv.fr/)
 * [Inscrivez-vous à l’évènement en ligne de passation le 5 mars de 9h à 10h30](https://www.eventbrite.fr/e/billets-webinaire-de-passation-de-transportdatagouvfr-138746353077)
 
