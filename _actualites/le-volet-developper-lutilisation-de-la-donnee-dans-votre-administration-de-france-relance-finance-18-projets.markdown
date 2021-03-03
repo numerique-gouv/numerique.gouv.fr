@@ -18,7 +18,7 @@ Les cas d’usage sont variés : amélioration du service public par une mise en
 
 Les administrations et leurs projets sélectionnés sont les suivants :
 
-### Plateforme d’échange, de collecte ou de visualisation intelligente des données
+<h3> Plateformes d’échange, de collecte ou de visualisation intelligente des données</h3>
 
 <ul><li><p><b>ANAIS</b><br>Hub d’échange de données maritimes<br>– MINISTÈRE DES ARMÉES</p></li>
 
@@ -28,13 +28,13 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 
 <li><p><b>DataMin 360</b><br>Collecter, analyser, visualiser les données financières<br>– DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR</p></li></ul>
 
-## Projets de pilotage par la donnée
+<h3>Projets de pilotage par la donnée</h3>
 
 <ul><li><p><b>Observatoire du covoiturage au quotidien</b>
 <br>Suivre l’évolution des pratiques et d’évaluer l’impact des mesures prises afin d’adapter les politiques publiques de covoiturage
-<br>– DIRECTION GÉNÉRALE DES INFRASTRUCTURES DES TRANSPORTS ET DE LA MER<p></li>
+<br>– DIRECTION GÉNÉRALE DES INFRASTRUCTURES DES TRANSPORTS ET DE LA MER</p></li>
 
-<li><p><b>Cycle de vie de la donnée «&nbsp;intervention d’urgence&nbsp;».</b> <br>Améliorer l’efficacité des interventions d’urgence de la gendarmerie <br>– DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR</p></li> 
+<li><p><b>Cycle de vie de la donnée «&nbsp;intervention d’urgence&nbsp;».</b> <br>Améliorer l’efficacité des interventions d’urgence de la gendarmerie<br>– DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR</p></li> 
 
 <li><p><b>Projet SMARTRAFIC</b><br>Mise en place d’un hyperviseur - Partage des données de trafics routiers, ferroviaires et fluviaux<br>– GRAND PORT MARITIME DU HAVRE</p></li> 
 
@@ -44,9 +44,9 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 <br>Piloter par la donnée les relations avec les entreprise
 <br>– SECRÉTARIAT GÉNÉRAL DES MINISTÈRES CHARGÉS DES AFFAIRES SOCIALES</p></li></ul>
 
-### Développement d’API
+<h3>Développement d’API</h3>
 
-<ul><li><p><b>Dossier Numérique de l’Agent</b><br>Déploiement de la Fiche Interministérielle de Synthèse Individuelle et portage dans l’ENSAP - Faciliter le parcours des agents publics<br>MINISTÈRE DE L’ÉCONOMIE DES FINANCES ET DE LA RELANCE </p></li>
+<ul><li><p><b>Dossier numérique de l’agent</b><br>Déploiement de la Fiche Interministérielle de Synthèse Individuelle et portage dans l’ENSAP - Faciliter le parcours des agents publics<br>– MINISTÈRE DE L’ÉCONOMIE DES FINANCES ET DE LA RELANCE</p></li>
 
 <li><p><b>Chorus – API demandes d’achats</b>
 <br>Améliorer le délai d’approvisionnement des services ministériels en réduisant le temps de traitement de leurs demandes d’achats.<br>– AGENCE POUR L’INFORMATIQUE FINANCIÈRE DE L’ÉTAT</p></li>
@@ -55,23 +55,23 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 
 <li><p><b>API Sécu</b><br>Exposer des données issues des organismes de la Sphère Sociale afin de faciliter les échanges et améliorer les services rendus aux citoyens<br>– CAISSE NATIONALE D’ASSURANCE VIEILLESSE DES TRAVAILLEURS SALARIÉS</p></li></ul>
 
-### Exploitation des données / Data Sciences
+<h3>Exploitation des données / Data Sciences</h3>
 
 <ul><li><p><b>Les data sciences au service de la lutte contre les noyades et les accidents en loisirs nautiques.</b><br>– ÉCOLE NATIONALE DE VOILE ET DES SPORTS NAUTIQUES</p></li></ul>
 
-### Montée en qualité et automatisation de la collecte des données
+<h3>Montée en qualité et automatisation de la collecte des données</h3>
 
-<ul><li><p><b>SIMARA</b><br>Plate-forme de transcription d’inventaires manuscrits du XVIIIe au XXe siècle grâce à l’intelligence artificielle.<br>– SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE</p></li>
+<ul><li><p><b>SIMARA</b><br>Plateforme de transcription d’inventaires manuscrits du XVIIIe au XXe siècle grâce à l’intelligence artificielle.<br>– SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE</p></li>
 
-<li><p><b>Numériser les collections textiles historiques du Mobilier national - Informatiser une collection</b><br>– MOBILIER NATIONAL ET MANUFACTURES NATIONALES DES GOBELINS DE BEAUVAIS ET DE LA SAVONNERIE</p></li>
+<li><p><b>Numériser les collections textiles historiques<b> du Mobilier national - Informatiser une collection<br>– MOBILIER NATIONAL ET MANUFACTURES NATIONALES DES GOBELINS DE BEAUVAIS ET DE LA SAVONNERIE</p></li>
 
 <li><p><b>Transformation numérique du système de production des publications nautiques</b><br>– SERVICE HYDROGRAPHIQUE ET OCÉANOGRAPHIQUE DE LA MARINE</p></li></ul>
 
-### Catalogue de données
+<h3>Catalogue de données</h3>
 
-<ul><li><p><b>Data.Culture.Catalogue</b><br>Une cartographie dynamique et partagée des données du ministère de la Culture<br>- SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE</p></li></ul>
+<ul><li><p><b>Data.Culture.Catalogue</b><br>Une cartographie dynamique et partagée des données du ministère de la Culture<br>– SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE</p></li></ul>
 
-## Un jury pluridisciplinaire pour croiser les regards sur les dossiers
+<h2>Un jury pluridisciplinaire pour croiser les regards sur les dossiers</h2>
 
 Suite à l’examen par les équipes de la DINUM et de la DITP, 33 dossiers sur les 69 déposés ont été présélectionnés et leurs administrations porteuses auditionnées devant un jury d’experts (entrepreneurs, chercheurs, acteurs publics) spécialisés dans la donnée et la transformation numérique.
 
