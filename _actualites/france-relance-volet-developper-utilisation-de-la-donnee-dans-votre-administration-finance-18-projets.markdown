@@ -2,6 +2,11 @@
 title: 'France Relance : Le volet « Développer l’utilisation de la donnée dans votre
   administration » finance 18 projets'
 date: 2021-03-03 12:04:00 +01:00
+categories:
+- Article
+tags:
+- Ouverture des données publiques
+- France Relance
 une-ou-diaporama:
 - image: "/uploads/2020_10_27_FRANCE-RELANCE_1600x860.jpg"
 ---
