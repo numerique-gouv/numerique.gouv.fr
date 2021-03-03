@@ -63,7 +63,7 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 
 <ul><li><p><b>SIMARA</b><br>Plateforme de transcription d’inventaires manuscrits du XVIIIe au XXe siècle grâce à l’intelligence artificielle.<br>– SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE</p></li>
 
-<li><p><b>Numériser les collections textiles historiques<b> du Mobilier national - Informatiser une collection<br>– MOBILIER NATIONAL ET MANUFACTURES NATIONALES DES GOBELINS DE BEAUVAIS ET DE LA SAVONNERIE</p></li>
+<li><p><b>Numériser les collections textiles historiques</b> du Mobilier national - Informatiser une collection<br>– MOBILIER NATIONAL ET MANUFACTURES NATIONALES DES GOBELINS DE BEAUVAIS ET DE LA SAVONNERIE</p></li>
 
 <li><p><b>Transformation numérique du système de production des publications nautiques</b><br>– SERVICE HYDROGRAPHIQUE ET OCÉANOGRAPHIQUE DE LA MARINE</p></li></ul>
 
