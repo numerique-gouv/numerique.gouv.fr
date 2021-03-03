@@ -93,22 +93,22 @@ Le volet « Développer l’utilisation de la donnée dans votre administration 
 
 Voici la composition du jury:
 
-* Florence Gomez : Rapporteur au Comité interministériel de restructuration industrielle (CIRI) – Direction générale du Trésor
-* Mathilde Bras : Directrice opérationnelle – Fing
-* Fabien Antoine : Directeur de projet - stratégie data au Ministère de la Justice
-* Stéphane Trainel : Administrateur ministériel des données des ministères économiques et financiers
-* Romain Talès : Responsable du pôle donnée chez Direction interministérielle du numérique
-* Thomas Cottinet : Directeur de l’ECOLAB at Ministère de l’Environnement
-* Laure Lucchesi : Directrice d’Etalab
-* Delphine Le : Lead data scientist à Ministère de l’Économie et des Finances
-* Nicolas Amar : Coordonnateur de la stratégie nationale IA à Ministère de l’Économie et des Finances
-* Kim Montalibet – Data scientist au Lab IA d’Etalab
-* Christophe Costes : Directeur de projets chez Direction Interministérielle de la Transformation Publique
-* Ioana Manolescu : Directrice scientifique du Lab IA Etalab / chercheuse INRIA
-* Bertrand Pailhès : Directeur des technologies et de l’innovation à la CNIL
-* Eglantine Schmitt : Chef de produit à Citio
-* Paul-Antoine Chevalier : Responsable du Lab IA d’Etatab
-* Nadi Bou Hanna – Directeur interministériel du numérique
+* **Florence Gomez :** Rapporteur au Comité interministériel de restructuration industrielle (CIRI) – Direction générale du Trésor
+* **Mathilde Bras :** Directrice opérationnelle – Fing
+* **Fabien Antoine :** Directeur de projet - stratégie data au Ministère de la Justice
+* **Stéphane Trainel :** Administrateur ministériel des données des ministères économiques et financiers
+* **Romain Talès :** Responsable du pôle Donnée chez direction interministérielle du numérique
+* **Thomas Cottinet :** Directeur de l’ECOLAB au Ministère de l’Environnement
+* **Laure Lucchesi :** Directrice d’Etalab, à la DINUM
+* **Delphine Le :** Lead data scientist au Ministère de l’Économie et des Finances
+* **Nicolas Amar :** Coordonnateur de la stratégie nationale IA au Ministère de l’Économie et des Finances
+* **Kim Montalibet :** Data scientist au Lab IA d’Etalab, à la DINUM
+* **Christophe Costes :** Directeur de projets chez Direction interministérielle de la transformation publique (DITP)
+* **Ioana Manolescu :** Directrice scientifique du Lab IA Etalab / chercheuse INRIA
+* **Bertrand Pailhès :** Directeur des technologies et de l’innovation à la CNIL
+* **Eglantine Schmitt :** Chef de produit à Citio
+* **Paul-Antoine Chevalier :** Responsable du Lab IA d’Etatab
+* **Nadi Bou Hanna :** Directeur interministériel du numérique
 
 ## Et ensuite ?
 
