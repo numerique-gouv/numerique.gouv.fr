@@ -22,7 +22,7 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 
 <ul><li><p><b>ANAIS</b><br>Hub d’échange de données maritimes<br>– MINISTÈRE DES ARMÉES</p></li>
 
-<li><p><b>Accélérer et passer à l’échelle</b> les projets de valorisation de données<br>– MINISTÈRE DE LA TRANSITION ÉCOLOGIQUE</p></li>
+<li><p><b>Accélérer et passer à l’échelle les projets de valorisation de données</b><br>– MINISTÈRE DE LA TRANSITION ÉCOLOGIQUE</p></li>
 
 <li><p><b>Potentiel</b><br>Faciliter le parcours des producteurs d’énergies renouvelables électriques<br>– DIRECTION GÉNÉRALE DE L’ÉNERGIE ET DU CLIMAT</p></li>
 
@@ -34,14 +34,14 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 <br>Suivre l’évolution des pratiques et d’évaluer l’impact des mesures prises afin d’adapter les politiques publiques de covoiturage
 <br>– DIRECTION GÉNÉRALE DES INFRASTRUCTURES DES TRANSPORTS ET DE LA MER</p></li>
 
-<li><p><b>Cycle de vie de la donnée «&nbsp;intervention d’urgence&nbsp;».</b> <br>Améliorer l’efficacité des interventions d’urgence de la gendarmerie<br>– DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR</p></li> 
+<li><p><b>Cycle de vie de la donnée «&nbsp;intervention d’urgence&nbsp;»</b> <br>Améliorer l’efficacité des interventions d’urgence de la gendarmerie<br>– DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR</p></li> 
 
 <li><p><b>Projet SMARTRAFIC</b><br>Mise en place d’un hyperviseur - Partage des données de trafics routiers, ferroviaires et fluviaux<br>– GRAND PORT MARITIME DU HAVRE</p></li> 
 
-<li><p><b>Industrialisation et enrichissement</b> du tableau de bord Crise COVID pour le suivi des recouvrements<br>– AGENCE CENTRALE DES ORGANISMES DE SÉCURITÉ SOCIALE</p></li>
+<li><p><b>Industrialisation et enrichissement du tableau de bord Crise COVID pour le suivi des recouvrements</b><br>– AGENCE CENTRALE DES ORGANISMES DE SÉCURITÉ SOCIALE</p></li>
 
 <li><p><b>Base de connaissance des entreprises (BCE)</b>
-<br>Piloter par la donnée les relations avec les entreprise
+<br>Piloter par la donnée les relations avec les entreprises
 <br>– SECRÉTARIAT GÉNÉRAL DES MINISTÈRES CHARGÉS DES AFFAIRES SOCIALES</p></li></ul>
 
 <h3>Développement d’API</h3>
@@ -63,7 +63,7 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 
 <ul><li><p><b>SIMARA</b><br>Plateforme de transcription d’inventaires manuscrits du XVIIIe au XXe siècle grâce à l’intelligence artificielle.<br>– SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE</p></li>
 
-<li><p><b>Numériser les collections textiles historiques</b> du Mobilier national - Informatiser une collection<br>– MOBILIER NATIONAL ET MANUFACTURES NATIONALES DES GOBELINS DE BEAUVAIS ET DE LA SAVONNERIE</p></li>
+<li><p><b>Numériser les collections textiles historiques du Mobilier national - Informatiser une collection</b><br>– MOBILIER NATIONAL ET MANUFACTURES NATIONALES DES GOBELINS DE BEAUVAIS ET DE LA SAVONNERIE</p></li>
 
 <li><p><b>Transformation numérique du système de production des publications nautiques</b><br>– SERVICE HYDROGRAPHIQUE ET OCÉANOGRAPHIQUE DE LA MARINE</p></li></ul>
 
@@ -79,36 +79,39 @@ Les membres du jury ont retenu 18 projets, en prenant en compte les bénéfices 
 
 ## Les prochaines étapes
 
-Le volet « Développer l’utilisation de la donnée dans votre administration » de France Relance offre aux administrations des possibilités de cofinancements de leurs projets tout au long de l’année 2021 :
+Le volet « Développer l’utilisation de la donnée dans votre administration » du plan France Relance, qui offre aux administrations des possibilités de cofinancement de leurs projets, se poursuit tout au long de l’année 2021 :
 
-* Un guichet en continu sur l’année 2021 pour les projets de moins de 100 000 euros ouvre le 1er février 2021
+* **Un guichet en continu** sur l’année 2021 pour les projets de moins de 100 000 euros est ouvert depuis le 1er février 2021
 
-* Un deuxième appel à projets sera ouvert au second trimestre 2021
+* **Un deuxième appel à projets** sera ouvert au second trimestre 2021
 
-* Un troisième appel à projets sera ouvert au second trimestre 2021
+* **Un troisième appel à projets** sera ouvert au second trimestre 2021
 
-## Composition du jury
+[**> Toutes les infos sur francerelance.transformation.gouv.fr**](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot "Toutes les infos sur francerelance.transformation.gouv.fr - Lien externe")
 
-15 experts de la donnée et de la transformation publique et numérique ont auditionné les projets présélectionnés, pendant une journée entière. Merci à eux et elles pour leur investissement !
-
-Voici la composition du jury:
-
-* **Florence Gomez :** Rapporteur au Comité interministériel de restructuration industrielle (CIRI) – Direction générale du Trésor
-* **Mathilde Bras :** Directrice opérationnelle – Fing
-* **Fabien Antoine :** Directeur de projet - stratégie data au Ministère de la Justice
-* **Stéphane Trainel :** Administrateur ministériel des données des ministères économiques et financiers
-* **Romain Talès :** Responsable du pôle Donnée chez direction interministérielle du numérique
-* **Thomas Cottinet :** Directeur de l’ECOLAB au Ministère de l’Environnement
-* **Laure Lucchesi :** Directrice d’Etalab, à la DINUM
-* **Delphine Le :** Lead data scientist au Ministère de l’Économie et des Finances
-* **Nicolas Amar :** Coordonnateur de la stratégie nationale IA au Ministère de l’Économie et des Finances
-* **Kim Montalibet :** Data scientist au Lab IA d’Etalab, à la DINUM
-* **Christophe Costes :** Directeur de projets chez Direction interministérielle de la transformation publique (DITP)
-* **Ioana Manolescu :** Directrice scientifique du Lab IA Etalab / chercheuse INRIA
-* **Bertrand Pailhès :** Directeur des technologies et de l’innovation à la CNIL
-* **Eglantine Schmitt :** Chef de produit à Citio
-* **Paul-Antoine Chevalier :** Responsable du Lab IA d’Etatab
-* **Nadi Bou Hanna :** Directeur interministériel du numérique
+> ### Composition du jury
+>
+>15 experts de la donnée et de la transformation publique et numérique ont auditionné les projets présélectionnés, pendant une journée entière. Merci à eux et elles pour leur investissement !
+>
+>Voici la composition du jury:
+>
+>* **Florence Gomez :** Rapporteur au Comité interministériel de restructuration industrielle (CIRI) – Direction générale du Trésor
+>* **Mathilde Bras :** Directrice opérationnelle – Fing
+>* **Fabien Antoine :** Directeur de projet - stratégie data au Ministère de la Justice
+>* **Stéphane Trainel :** Administrateur ministériel des données des ministères économiques et financiers
+>* **Romain Talès :** Responsable du pôle Donnée chez direction interministérielle du numérique
+>* **Thomas Cottinet :** Directeur de l’ECOLAB au Ministère de l’Environnement
+>* **Laure Lucchesi :** Directrice d’Etalab, à la DINUM
+>* **Delphine Le :** Lead data scientist au Ministère de l’Économie et des Finances
+>* **Nicolas Amar :** Coordonnateur de la stratégie nationale IA au Ministère de l’Économie et des Finances
+>* **Kim Montalibet :** Data scientist au Lab IA d’Etalab, à la DINUM
+>* **Christophe Costes :** Directeur de projets chez Direction interministérielle de la transformation publique (DITP)
+>* **Ioana Manolescu :** Directrice scientifique du Lab IA Etalab / chercheuse INRIA
+>* **Bertrand Pailhès :** Directeur des technologies et de l’innovation à la CNIL
+>* **Eglantine Schmitt :** Chef de produit à Citio
+>* **Paul-Antoine Chevalier :** Responsable du Lab IA d’Etatab
+>* **Nadi Bou Hanna :** Directeur interministériel du numérique
+{: .encadre .noir}
 
 ## Et ensuite ?
 
