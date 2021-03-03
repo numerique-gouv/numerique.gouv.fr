@@ -50,33 +50,30 @@ DataMin 360 : collecter, analyser, visualiser les données financières
 
 ### Développement d’API
 
-* **MINISTÈRE DE L’ÉCONOMIE DES FINANCES ET DE LA RELANCE **
-Dossier Numérique de l’Agent : Déploiement de la Fiche Interministérielle de Synthèse Individuelle et portage dans l’ENSAP - Faciliter le parcours des agents publics
+<ul><li><p><b>Dossier Numérique de l’Agent</b><br>Déploiement de la Fiche Interministérielle de Synthèse Individuelle et portage dans l’ENSAP - Faciliter le parcours des agents publics<br>MINISTÈRE DE L’ÉCONOMIE DES FINANCES ET DE LA RELANCE </p></li>
 
-* **AGENCE POUR L’INFORMATIQUE FINANCIÈRE DE L’ÉTAT**
-Chorus – API demandes d’achats - Améliorer le délai d’approvisionnement des services ministériels en réduisant le temps de traitement de leurs demandes d’achats.
+<li><p><b>Chorus – API demandes d’achats</b>
+<br>Améliorer le délai d’approvisionnement des services ministériels en réduisant le temps de traitement de leurs demandes d’achats.<br>– AGENCE POUR L’INFORMATIQUE FINANCIÈRE DE L’ÉTAT</p></li>
 
-* MINISTÈRE DE L'ÉDUCATION NATIONALE, DE LA JEUNESSE ET DES SPORTS 
-Projet SUPDATA – Mise en place du service StatutÉtudiant. Construire un référentiel national et actualisé des inscriptions en cours dans une formation du supérieur
+<li><p><b>Projet SUPDATA</b><br>Mise en place du service StatutÉtudiant. Construire un référentiel national et actualisé des inscriptions en cours dans une formation du supérieur<br>– MINISTÈRE DE L'ÉDUCATION NATIONALE, DE LA JEUNESSE ET DES SPORTS </p></li>
 
-* CAISSE NATIONALE D’ASSURANCE VIEILLESSE DES TRAVAILLEURS SALARIÉS 
-API Sécu - Exposer des données issues des organismes de la Sphère Sociale afin de faciliter les échanges et améliorer les services rendus aux citoyens</ul>
+<li><p><b>API Sécu</b><br>Exposer des données issues des organismes de la Sphère Sociale afin de faciliter les échanges et améliorer les services rendus aux citoyens<br>– CAISSE NATIONALE D’ASSURANCE VIEILLESSE DES TRAVAILLEURS SALARIÉS</p></li></ul>
 
 ### Exploitation des données / Data Sciences
 
-<ul><li><p><b>Les data sciences au service de la lutte contre les noyades et les accidents en loisirs nautiques.</b><br>- ÉCOLE NATIONALE DE VOILE ET DES SPORTS NAUTIQUES</p></li></ul>
+<ul><li><p><b>Les data sciences au service de la lutte contre les noyades et les accidents en loisirs nautiques.</b><br>– ÉCOLE NATIONALE DE VOILE ET DES SPORTS NAUTIQUES</p></li></ul>
 
 ### Montée en qualité et automatisation de la collecte des données
 
-<ul><li><p><b>SIMARA</b><br>Plate-forme de transcription d’inventaires manuscrits du XVIIIe au XXe siècle grâce à l’intelligence artificielle.<br>- SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE</p></li>
+<ul><li><p><b>SIMARA</b><br>Plate-forme de transcription d’inventaires manuscrits du XVIIIe au XXe siècle grâce à l’intelligence artificielle.<br>– SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE</p></li>
 
-* MOBILIER NATIONAL ET MANUFACTURES NATIONALES DES GOBELINS DE BEAUVAIS ET DE LA SAVONNERIE - Numériser les collections textiles historiques du Mobilier national / Informatiser une collection
+<li><p><b>Numériser les collections textiles historiques du Mobilier national - Informatiser une collection</b><br>– MOBILIER NATIONAL ET MANUFACTURES NATIONALES DES GOBELINS DE BEAUVAIS ET DE LA SAVONNERIE</p></li>
 
-* SERVICE HYDROGRAPHIQUE ET OCÉANOGRAPHIQUE DE LA MARINE - Transformation numérique du système de production des publications nautiques</ul>
+<li><p><b>Transformation numérique du système de production des publications nautiques</b><br>– SERVICE HYDROGRAPHIQUE ET OCÉANOGRAPHIQUE DE LA MARINE</p></li></ul>
 
 ### Catalogue de données
 
-<ul><li><p><b>Data.Culture.Catalogue<b><br>Une cartographie dynamique et partagée des données du ministère de la Culture<br>- SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE</p></li></ul>
+<ul><li><p><b>Data.Culture.Catalogue</b><br>Une cartographie dynamique et partagée des données du ministère de la Culture<br>- SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE</p></li></ul>
 
 ## Un jury pluridisciplinaire pour croiser les regards sur les dossiers
 
