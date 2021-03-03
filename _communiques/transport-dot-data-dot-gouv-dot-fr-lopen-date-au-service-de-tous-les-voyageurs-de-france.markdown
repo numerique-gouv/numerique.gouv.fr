@@ -18,6 +18,9 @@ chapeau-text: "**Faciliter les déplacements de tous les usagers, c’est la pro
   (DINUM) pour le compte du ministère chargé des Transports, la plateforme rejoint
   début mars la direction générale des infrastructures, des transports et de la mer
   (DGITM).**"
+une-ou-diaporama:
+- image: "/uploads/https%20_cdn.evbuc.com_images_124430761_188264286179_1_original.20210128-113006.jpg"
+  alternative-textuelle: transport.data.gouv.fr
 contact-presse:
   name: Floriane Beaudron
   tel:
