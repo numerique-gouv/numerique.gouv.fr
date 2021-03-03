@@ -40,11 +40,13 @@ DataMin 360 : collecter, analyser, visualiser les données financières
 
 <li><p><b>Cycle de vie de la donnée «&nbsp;intervention d’urgence&nbsp;».</b> <br>Améliorer l’efficacité des interventions d’urgence de la gendarmerie <br>– DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR</p></li> 
 
-<li> <p><b>Projet SMARTRAFIC&nbsp;</b> <br>Mise en place d’un hyperviseur - Partage des données de trafics routiers, ferroviaires et fluviaux<br>– GRAND PORT MARITIME DU HAVRE</p> 
+<li><p><b>Projet SMARTRAFIC</b><br>Mise en place d’un hyperviseur - Partage des données de trafics routiers, ferroviaires et fluviaux<br>– GRAND PORT MARITIME DU HAVRE</p></li> 
 
-* – AGENCE CENTRALE DES ORGANISMES DE SÉCURITÉ SOCIALE - Industrialisation et enrichissement du tableau de bord Crise COVID pour le suivi des recouvrements
+<li><p><b>Industrialisation et enrichissement</b> du tableau de bord Crise COVID pour le suivi des recouvrements<br>AGENCE CENTRALE DES ORGANISMES DE SÉCURITÉ SOCIALE</p></li>
 
-* – SECRÉTARIAT GÉNÉRAL DES MINISTÈRES CHARGÉS DES AFFAIRES SOCIALES - BCE (Base de connaissance des entreprises) - Piloter par la donnée les relations avec les entreprise
+<li><p><b>Base de connaissance des entreprises (BCE)</b>
+<br>Piloter par la donnée les relations avec les entreprise
+<br>– SECRÉTARIAT GÉNÉRAL DES MINISTÈRES CHARGÉS DES AFFAIRES SOCIALES</p></li></ul>
 
 ### Développement d’API
 
@@ -58,23 +60,23 @@ Chorus – API demandes d’achats - Améliorer le délai d’approvisionnement 
 Projet SUPDATA – Mise en place du service StatutÉtudiant. Construire un référentiel national et actualisé des inscriptions en cours dans une formation du supérieur
 
 * CAISSE NATIONALE D’ASSURANCE VIEILLESSE DES TRAVAILLEURS SALARIÉS 
-API Sécu - Exposer des données issues des organismes de la Sphère Sociale afin de faciliter les échanges et améliorer les services rendus aux citoyens
+API Sécu - Exposer des données issues des organismes de la Sphère Sociale afin de faciliter les échanges et améliorer les services rendus aux citoyens</ul>
 
 ### Exploitation des données / Data Sciences
 
-* ÉCOLE NATIONALE DE VOILE ET DES SPORTS NAUTIQUES - Les data sciences au service de la lutte contre les noyades et les accidents en loisirs nautiques.
+<ul><li><p><b>Les data sciences au service de la lutte contre les noyades et les accidents en loisirs nautiques.</b><br>- ÉCOLE NATIONALE DE VOILE ET DES SPORTS NAUTIQUES</p></li></ul>
 
 ### Montée en qualité et automatisation de la collecte des données
 
-* SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE - SIMARA - Plate-forme de transcription d’inventaires manuscrits du XVIIIe au XXe siècle grâce à l’intelligence artificielle.
+<ul><li><p><b>SIMARA</b><br>Plate-forme de transcription d’inventaires manuscrits du XVIIIe au XXe siècle grâce à l’intelligence artificielle.<br>- SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE</p></li>
 
 * MOBILIER NATIONAL ET MANUFACTURES NATIONALES DES GOBELINS DE BEAUVAIS ET DE LA SAVONNERIE - Numériser les collections textiles historiques du Mobilier national / Informatiser une collection
 
-* SERVICE HYDROGRAPHIQUE ET OCÉANOGRAPHIQUE DE LA MARINE - Transformation numérique du système de production des publications nautiques
+* SERVICE HYDROGRAPHIQUE ET OCÉANOGRAPHIQUE DE LA MARINE - Transformation numérique du système de production des publications nautiques</ul>
 
 ### Catalogue de données
 
-* SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE - Data.Culture.Catalogue : une cartographie dynamique et partagée des données du ministère de la Culture
+<ul><li><p><b>Data.Culture.Catalogue<b><br>Une cartographie dynamique et partagée des données du ministère de la Culture<br>- SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE</p></li></ul>
 
 ## Un jury pluridisciplinaire pour croiser les regards sur les dossiers
 
