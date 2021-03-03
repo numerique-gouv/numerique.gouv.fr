@@ -1,35 +1,34 @@
 ---
-title: Le volet "Développer l’utilisation de la donnée dans votre administration"
-  de France Relance finance 18 projets
+title: 'France Relance : Le volet « Développer l’utilisation de la donnée dans votre
+  administration » finance 18 projets'
 date: 2021-03-03 12:04:00 +01:00
-published: false
 ---
 
-Dans le cadre du plan de relance numérique, Etalab porte le volet “Développer l’utilisation de la donnée dans votre administration” donnant aux administrations la possibilité d’obtenir un cofinancements de projets autour du pilotage public par la donnée, de l’échange de données entre administrations, de l’exploitation de données ou de l’ouverture des données. Une premier appel à projets s’est clôturé à la fin de l’année 2020. Cet appel a été très plébiscité puisque 69 dossiers ont été déposés, par 30 administrations différentes réparties dans 12 ministères. Parmi les dossiers déposés, 18 ont été sélectionnés pour recevoir un co-financement.
+Dans le cadre du plan de relance numérique, Etalab, au sein de la DINUM, porte le volet « Développer l’utilisation de la donnée dans votre administration » donnant aux administrations la possibilité d’obtenir un cofinancements de projets autour du pilotage public par la donnée, de l’échange de données entre administrations, de l’exploitation de données ou de l’ouverture des données. Un premier appel à projets s’est clôturé à la fin de l’année 2020. Cet appel a été plébiscité puisque 69 dossiers ont été déposés, par 30 administrations différentes, réparties dans 12 ministères. Parmi les dossiers déposés, 18 ont été sélectionnés pour recevoir un cofinancement.
 
-**Liste des projets sélectionnés**
+## Les projets sélectionnés
 
 Les projets retenus couvrent une grande diversité de politiques publiques et concernent à la fois des administrations centrales et des services déconcentrés.
 
-Les cas d’usage sont variés: amélioration du service public par une mise en circulation des données entre administrations via le développement d’API, meilleur pilotage de politiques publiques grâce à l’exploitation et la visualisation de données, automatisation du processus de collecte des données pour les rendre systématiquement disponibles et exploitables, plateformes de collecte d’échanges et de partage de données.
+Les cas d’usage sont variés : amélioration du service public par une mise en circulation des données entre administrations via le développement d’API, meilleur pilotage de politiques publiques grâce à l’exploitation et la visualisation de données, automatisation du processus de collecte des données pour les rendre systématiquement disponibles et exploitables, plateformes de collecte d’échanges et de partage de données.
 
 Les administrations et leurs projets sélectionnés sont les suivants :
 
-**Plateforme d’échange, de collecte ou de visualisation intelligente des données**
+Plateforme d’échange, de collecte ou de visualisation intelligente des données
 
-* MINISTERE DES ARMEES - ANAIS : Hub d’échange de données maritimes
+* MINISTÈRE DES ARMÉES - ANAIS : Hub d’échange de données maritimes
 
-* MINISTERE DE LA TRANSITION ECOLOGIQUE - Accélérer et passer à l’échelle les projets de valorisation de données
+* MINISTÈRE DE LA TRANSITION ÉCOLOGIQUE - Accélérer et passer à l’échelle les projets de valorisation de données
 
-* DIRECTION GENERALE DE L’ENERGIE ET DU CLIMAT - Potentiel : Faciliter le parcours des producteurs d’énergies renouvelables électriques
+* DIRECTION GÉNÉRALE DE L’ÉNERGIE ET DU CLIMAT - Potentiel : Faciliter le parcours des producteurs d’énergies renouvelables électriques
 
-* DIRECTION DU NUMERIQUE DU MINISTERE DE L’INTERIEUR- DataMin 360 : collecter, analyser, visualiser les données financières
+* DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR- DataMin 360 : collecter, analyser, visualiser les données financières
 
-**Projets de pilotage par la donnée**
+## Projets de pilotage par la donnée
 
-* DIRECTION GENERALE DES INFRASTRUCTURES DES TRANSPORTS ET DE LA MER - Observatoire du covoiturage au quotidien - Suivre l’évolution des pratiques et d’évaluer l’impact des mesures prises afin d’adapter les politiques publiques de covoiturage
+* DIRECTION GÉNÉRALE DES INFRASTRUCTURES DES TRANSPORTS ET DE LA MER - Observatoire du covoiturage au quotidien - Suivre l’évolution des pratiques et d’évaluer l’impact des mesures prises afin d’adapter les politiques publiques de covoiturage
 
-* DIRECTION DU NUMERIQUE DU MINISTERE DE L’INTERIEUR - Cycle de vie de la donnée “intervention d’urgence”. Améliorer l’efficacité des interventions d’urgence de la gendarmerie
+* DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR - Cycle de vie de la donnée “intervention d’urgence”. Améliorer l’efficacité des interventions d’urgence de la gendarmerie
 
 * GRAND PORT MARITIME DU HAVRE - Projet SMARTRAFIC : mise en place d’un hyperviseur - Partager les données de trafics routiers, ferroviaires et fluviaux
 
