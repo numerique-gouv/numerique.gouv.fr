@@ -6,7 +6,9 @@ une-ou-diaporama:
 - image: "/uploads/2020_10_27_FRANCE-RELANCE_1600x860.jpg"
 ---
 
-Dans le cadre du plan de relance numérique, Etalab, au sein de la DINUM, porte le volet « Développer l’utilisation de la donnée dans votre administration » donnant aux administrations la possibilité d’obtenir un cofinancements de projets autour du pilotage public par la donnée, de l’échange de données entre administrations, de l’exploitation de données ou de l’ouverture des données. Un premier appel à projets s’est clôturé à la fin de l’année 2020. Cet appel a été plébiscité puisque 69 dossiers ont été déposés, par 30 administrations différentes, réparties dans 12 ministères. Parmi les dossiers déposés, 18 ont été sélectionnés pour recevoir un cofinancement.
+Dans le cadre du plan de relance numérique, Etalab, au sein de la DINUM, porte le volet « Développer l’utilisation de la donnée dans votre administration » donnant aux administrations la possibilité d’obtenir un cofinancement pour leurs projets autour du pilotage public par la donnée, de l’échange de données entre administrations, de l’exploitation de données ou de l’ouverture des données. 
+
+Un premier appel à projets s’est clôturé à la fin de l’année 2020. Cet appel a été plébiscité, avec 69 dossiers déposés par 30 administrations différentes, réparties dans 12 ministères. Parmi ces dossiers déposés, 18 ont été sélectionnés pour recevoir un cofinancement.
 
 ## Les projets sélectionnés
 
@@ -18,21 +20,28 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 
 ### Plateforme d’échange, de collecte ou de visualisation intelligente des données
 
-* MINISTÈRE DES ARMÉES - ANAIS : Hub d’échange de données maritimes
+* MINISTÈRE DES ARMÉES 
+ANAIS : Hub d’échange de données maritimes
 
-* MINISTÈRE DE LA TRANSITION ÉCOLOGIQUE - Accélérer et passer à l’échelle les projets de valorisation de données
+* MINISTÈRE DE LA TRANSITION ÉCOLOGIQUE
+Accélérer et passer à l’échelle les projets de valorisation de données
 
-* DIRECTION GÉNÉRALE DE L’ÉNERGIE ET DU CLIMAT - Potentiel : Faciliter le parcours des producteurs d’énergies renouvelables électriques
+* DIRECTION GÉNÉRALE DE L’ÉNERGIE ET DU CLIMAT
+Potentiel : Faciliter le parcours des producteurs d’énergies renouvelables électriques
 
-* DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR- DataMin 360 : collecter, analyser, visualiser les données financières
+* DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR
+DataMin 360 : collecter, analyser, visualiser les données financières
 
 ## Projets de pilotage par la donnée
 
-* DIRECTION GÉNÉRALE DES INFRASTRUCTURES DES TRANSPORTS ET DE LA MER - Observatoire du covoiturage au quotidien - Suivre l’évolution des pratiques et d’évaluer l’impact des mesures prises afin d’adapter les politiques publiques de covoiturage
+* Observatoire du covoiturage au quotidien - Suivre l’évolution des pratiques et d’évaluer l’impact des mesures prises afin d’adapter les politiques publiques de covoiturage
+Par DIRECTION GÉNÉRALE DES INFRASTRUCTURES DES TRANSPORTS ET DE LA MER
 
-* DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR - Cycle de vie de la donnée « intervention d’urgence ». Améliorer l’efficacité des interventions d’urgence de la gendarmerie
+* Cycle de vie de la donnée « intervention d’urgence ». Améliorer l’efficacité des interventions d’urgence de la gendarmerie
+Par DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR
 
-* GRAND PORT MARITIME DU HAVRE - Projet SMARTRAFIC : mise en place d’un hyperviseur - Partager les données de trafics routiers, ferroviaires et fluviaux
+* GRAND PORT MARITIME DU HAVRE
+Projet SMARTRAFIC : mise en place d’un hyperviseur - Partager les données de trafics routiers, ferroviaires et fluviaux
 
 * AGENCE CENTRALE DES ORGANISMES DE SÉCURITÉ SOCIALE - Industrialisation et enrichissement du tableau de bord Crise COVID pour le suivi des recouvrements
 
@@ -40,21 +49,25 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 
 ### Développement d’API
 
-* MINISTERE DE L’ÉCONOMIE DES FINANCES ET DE LA RELANCE - Dossier Numérique de l’Agent : Déploiement de la Fiche Interministérielle de Synthèse Individuelle et portage dans l’ENSAP - Faciliter le parcours des agents publics
+* **MINISTÈRE DE L’ÉCONOMIE DES FINANCES ET DE LA RELANCE **
+Dossier Numérique de l’Agent : Déploiement de la Fiche Interministérielle de Synthèse Individuelle et portage dans l’ENSAP - Faciliter le parcours des agents publics
 
-* AGENCE POUR L’INFORMATIQUE FINANCIERE DE L’ÉTAT - Chorus – API demandes d’achats - Améliorer le délai d’approvisionnement des services ministériels en réduisant le temps de traitement de leurs demandes d’achats.
+* **AGENCE POUR L’INFORMATIQUE FINANCIÈRE DE L’ÉTAT**
+Chorus – API demandes d’achats - Améliorer le délai d’approvisionnement des services ministériels en réduisant le temps de traitement de leurs demandes d’achats.
 
-* MINISTERE DE L'ÉDUCATION NATIONALE, DE LA JEUNESSE ET DES SPORTS - Projet SUPDATA – Mise en place du service StatutÉtudiant. Construire un référentiel national et actualisé des inscriptions en cours dans une formation du supérieur
+* MINISTÈRE DE L'ÉDUCATION NATIONALE, DE LA JEUNESSE ET DES SPORTS 
+Projet SUPDATA – Mise en place du service StatutÉtudiant. Construire un référentiel national et actualisé des inscriptions en cours dans une formation du supérieur
 
-* CAISSE NATIONALE D’ASSURANCE VIEILLESSE DES TRAVAILLEURS SALARIES - API Sécu - Exposer des données issues des organismes de la Sphère Sociale afin de faciliter les échanges et améliorer les services rendus aux citoyens
-### 
-Exploitation des données / Data Sciences
+* CAISSE NATIONALE D’ASSURANCE VIEILLESSE DES TRAVAILLEURS SALARIÉS 
+API Sécu - Exposer des données issues des organismes de la Sphère Sociale afin de faciliter les échanges et améliorer les services rendus aux citoyens
+
+### Exploitation des données / Data Sciences
 
 * ÉCOLE NATIONALE DE VOILE ET DES SPORTS NAUTIQUES - Les data sciences au service de la lutte contre les noyades et les accidents en loisirs nautiques.
 
 ### Montée en qualité et automatisation de la collecte des données
 
-* SECRÉTARIAT GENERAL DU MINISTERE DE LA CULTURE - SIMARA - Plate-forme de transcription d’inventaires manuscrits du XVIIIe au XXe siècle grâce à l’intelligence artificielle.
+* SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE - SIMARA - Plate-forme de transcription d’inventaires manuscrits du XVIIIe au XXe siècle grâce à l’intelligence artificielle.
 
 * MOBILIER NATIONAL ET MANUFACTURES NATIONALES DES GOBELINS DE BEAUVAIS ET DE LA SAVONNERIE - Numériser les collections textiles historiques du Mobilier national / Informatiser une collection
 
@@ -62,7 +75,7 @@ Exploitation des données / Data Sciences
 
 ### Catalogue de données
 
-* SECRÉTARIAT GÉNÉRAL DU MINISTERE DE LA CULTURE - Data.Culture.Catalogue : une cartographie dynamique et partagée des données du ministère de la Culture
+* SECRÉTARIAT GÉNÉRAL DU MINISTÈRE DE LA CULTURE - Data.Culture.Catalogue : une cartographie dynamique et partagée des données du ministère de la Culture
 
 ## Un jury pluridisciplinaire pour croiser les regards sur les dossiers
 
