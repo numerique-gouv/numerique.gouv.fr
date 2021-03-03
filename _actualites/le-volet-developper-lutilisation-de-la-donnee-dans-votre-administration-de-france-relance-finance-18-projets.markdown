@@ -34,18 +34,17 @@ DataMin 360 : collecter, analyser, visualiser les données financières
 
 ## Projets de pilotage par la donnée
 
-* Observatoire du covoiturage au quotidien - Suivre l’évolution des pratiques et d’évaluer l’impact des mesures prises afin d’adapter les politiques publiques de covoiturage
-Par DIRECTION GÉNÉRALE DES INFRASTRUCTURES DES TRANSPORTS ET DE LA MER
+<ul><li><p><b>Observatoire du covoiturage au quotidien</b>
+<br>Suivre l’évolution des pratiques et d’évaluer l’impact des mesures prises afin d’adapter les politiques publiques de covoiturage
+<br>– DIRECTION GÉNÉRALE DES INFRASTRUCTURES DES TRANSPORTS ET DE LA MER<p></li>
 
-* Cycle de vie de la donnée « intervention d’urgence ». Améliorer l’efficacité des interventions d’urgence de la gendarmerie
-Par DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR
+<li><p><b>Cycle de vie de la donnée «&nbsp;intervention d’urgence&nbsp;».</b> <br>Améliorer l’efficacité des interventions d’urgence de la gendarmerie <br>– DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR</p></li> 
 
-* GRAND PORT MARITIME DU HAVRE
-Projet SMARTRAFIC : mise en place d’un hyperviseur - Partager les données de trafics routiers, ferroviaires et fluviaux
+<li> <p><b>Projet SMARTRAFIC&nbsp;</b> <br>Mise en place d’un hyperviseur - Partage des données de trafics routiers, ferroviaires et fluviaux<br>– GRAND PORT MARITIME DU HAVRE</p> 
 
-* AGENCE CENTRALE DES ORGANISMES DE SÉCURITÉ SOCIALE - Industrialisation et enrichissement du tableau de bord Crise COVID pour le suivi des recouvrements
+* – AGENCE CENTRALE DES ORGANISMES DE SÉCURITÉ SOCIALE - Industrialisation et enrichissement du tableau de bord Crise COVID pour le suivi des recouvrements
 
-* SECRÉTARIAT GÉNÉRAL DES MINISTÈRES CHARGÉS DES AFFAIRES SOCIALES - BCE (Base de connaissance des entreprises) - Piloter par la donnée les relations avec les entreprise
+* – SECRÉTARIAT GÉNÉRAL DES MINISTÈRES CHARGÉS DES AFFAIRES SOCIALES - BCE (Base de connaissance des entreprises) - Piloter par la donnée les relations avec les entreprise
 
 ### Développement d’API
 
