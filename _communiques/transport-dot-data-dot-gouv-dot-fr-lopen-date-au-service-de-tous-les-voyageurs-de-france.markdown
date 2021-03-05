@@ -19,7 +19,7 @@ chapeau-text: "**Faciliter les déplacements de tous les usagers, c’est la pro
   début mars la direction générale des infrastructures, des transports et de la mer
   (DGITM).**"
 une-ou-diaporama:
-- image: "/uploads/https%20_cdn.evbuc.com_images_124430761_188264286179_1_original.20210128-113006.jpg"
+- image: "/uploads/2021_03_04_Transport_1600x860.jpg"
   alternative-textuelle: transport.data.gouv.fr
 contact-presse:
   name: Floriane Beaudron
