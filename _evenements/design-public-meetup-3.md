@@ -24,8 +24,8 @@ champs_informations:
   title: Inscription obligatoire et gratuite - Lien externe menant vers la page d'inscription
     - Nouvelle fenêtre
 - intitule: Précisions
-  contenu: Votre billet vous sera demandé à l'entrée le jour du meetup. Il est donc
-    nécessaire de le télécharger sur votre smartphone.
+  contenu: Votre billet vous sera demandé à l'entrée le jour du <span lang="en">meetup</span>.
+    Il est donc nécessaire de le télécharger sur votre smartphone.
 ---
 
 La direction interministérielle du numérique (DINUM) a le plaisir de vous convier au 3e <span lang="en">meetup</span> Design public organisé par des designers travaillant sur des projets de la fonction publique.
