@@ -1,5 +1,5 @@
 ---
-title: 'France Relance : découvrez les 18 projets financés par le volet « Développer
+title: 'France Relance : découvrez les 17 projets financés par le volet « Développer
   l’utilisation de la donnée dans votre administration »'
 date: 2021-03-03 12:04:00 +01:00
 categories:
@@ -15,7 +15,7 @@ une-ou-diaporama:
 
 Dans le cadre du plan de relance numérique, Etalab, au sein de la DINUM, porte le volet « Développer l’utilisation de la donnée dans votre administration » donnant aux administrations la possibilité d’obtenir un cofinancement pour leurs projets autour du pilotage public par la donnée, de l’échange de données entre administrations, de l’exploitation de données ou de l’ouverture des données. 
 
-Un premier appel à projets s’est clôturé à la fin de l’année 2020. Cet appel a été plébiscité, avec 69 dossiers déposés par 30 administrations différentes, réparties dans 12 ministères. Parmi ces dossiers déposés, 18 ont été sélectionnés pour recevoir un cofinancement.
+Un premier appel à projets s’est clôturé à la fin de l’année 2020. Cet appel a été plébiscité, avec 69 dossiers déposés par 30 administrations différentes, réparties dans 12 ministères. Parmi ces dossiers déposés, 17 ont été sélectionnés pour recevoir un cofinancement.
 
 ## Les projets sélectionnés
 
@@ -28,8 +28,6 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 <h3> Plateformes d’échange, de collecte ou de visualisation intelligente des données</h3>
 
 <ul><li><p><b>ANAIS</b><br>Hub d’échange de données maritimes<br>– MINISTÈRE DES ARMÉES</p></li>
-
-<li><p><b>Accélérer et passer à l’échelle les projets de valorisation de données</b><br>– MINISTÈRE DE LA TRANSITION ÉCOLOGIQUE</p></li>
 
 <li><p><b>Potentiel</b><br>Faciliter le parcours des producteurs d’énergies renouvelables électriques<br>– DIRECTION GÉNÉRALE DE L’ÉNERGIE ET DU CLIMAT</p></li>
 
@@ -84,7 +82,7 @@ Ces projets lauréats sont issus d'un processus de sélection en plusieurs étap
 
 Les administrations porteuses ont ensuite été auditionnées part un jury d’experts (entrepreneurs, chercheurs, acteurs publics) spécialisés dans la donnée, la transformation publique et numérique (voir la liste plus bas).
 
-Les membres du jury ont analysé chaque projet au regard de différents critères : les bénéfices potentiels pour l’administration lauréate elle-même et pour les autres administrations ou l’action publique en général, la pertinence technique et la crédibilité du projet, sa pérennité, l’adéquation du budget présenté. Les 18 projets lauréats listés ci-dessous ont finalement été choisis pour recevoir un cofinancement.
+Les membres du jury ont analysé chaque projet au regard de différents critères : les bénéfices potentiels pour l’administration lauréate elle-même et pour les autres administrations ou l’action publique en général, la pertinence technique et la crédibilité du projet, sa pérennité, l’adéquation du budget présenté. Les 17 projets lauréats listés ci-dessous ont finalement été choisis pour recevoir un cofinancement.
 
 ## Et ensuite ?
 
