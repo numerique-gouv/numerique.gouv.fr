@@ -16,12 +16,12 @@ $('#contact-form').submit(function(event) {
     .then(function (response) {
       $('input').val('')
       $('textarea').val('')
+      $('#message').removeClass('hide').addClass('green-message').html('Votre message a bien été envoyé')
     })
     .catch(function (error) {
       $('#message').removeClass('hide').addClass('red-message').html("Une erreur est survenue, votre message n'a pu être envoyé")
     });
 });
-
 
 $("#contact-form").validate(
   {
@@ -45,7 +45,6 @@ $("#contact-form").validate(
         })
         validator.errorList[0].element.focus()
       } else {
-        $('#message').removeClass('hide').addClass('green-message').html('Votre message a bien été envoyé')
       }
     }
   }
