@@ -1,20 +1,20 @@
-<nav id="nav-dinsic">
+<div id="nav-dinsic">
   <div id="nav-titre">
     {% include components/titre-site.html %}
   </div>
   <div id="nav-content">
-    <div class="title-bar" data-responsive-toggle="responsive-menu" role="dialog">
-      <div class="title-bar-right" data-hide-for="large">
+    <div class="title-bar" data-responsive-toggle="responsive-menu">
+      <nav class="title-bar-right" role="navigation" data-hide-for="large">
         <button id="hamburger-button" class="hamburger hamburger--collapse" type="button" data-toggle="responsive-menu" >
           <span class="hamburger-box">
             <span class="hamburger-inner"></span>
           </span>
           <span class="off-screen">Ouvrir le menu</span>
         </button>
-      </div>
+      </nav>
     </div>
-    <div class="top-bar" id="responsive-menu" data-animate="slide-in-left slide-out-left">
-      <div class="top-bar-left">
+    <div class="top-bar" role="dialog" aria-modal="true" tabindex="-1" id="responsive-menu" data-animate="slide-in-left slide-out-left">
+      <nav class="top-bar-left">
         <a id="nav" tabindex="-1"></a>
         <ul class="vertical medium-horizontal dropdown menu">
           {% for item in site.data.nav-main %}
@@ -23,7 +23,7 @@
           </li>
           {% endfor %}
         </ul>
-      </div>
+      </nav>
       {% if page.title != "Rechercher" %}
       <form id="rechercher" action="/rechercher" class="search-form top-bar-right" method="get" role="search">
         <label for="input-rechercher" class="off-screen">Rechercher dans le site {{ site.title }}</label>
@@ -36,4 +36,4 @@
       {% endif %}
     </div>
   </div>
-</nav>
+</div>
