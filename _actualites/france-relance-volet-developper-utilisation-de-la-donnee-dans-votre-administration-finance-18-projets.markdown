@@ -45,7 +45,7 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 
 <li><p><b>Industrialisation et enrichissement du tableau de bord Crise COVID pour le suivi des recouvrements</b><br>– AGENCE CENTRALE DES ORGANISMES DE SÉCURITÉ SOCIALE</p></li>
 
-<li><p><b>Base de connaissance des entreprises (BCE)</b>
+<li><p><b>Base commune des entreprises (BCE)</b>
 <br>Piloter par la donnée les relations avec les entreprises
 <br>– SECRÉTARIAT GÉNÉRAL DES MINISTÈRES CHARGÉS DES AFFAIRES SOCIALES</p></li></ul>
 
