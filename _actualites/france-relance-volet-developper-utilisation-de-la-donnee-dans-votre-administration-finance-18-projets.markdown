@@ -7,6 +7,8 @@ categories:
 tags:
 - Ouverture des données publiques
 - France Relance
+- Données publiques
+- Etalab
 une-ou-diaporama:
 - image: "/uploads/2020_10_27_FRANCE-RELANCE_1600x860.jpg"
 ---
