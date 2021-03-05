@@ -25,7 +25,8 @@ contact-presse:
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
 files:
-- nom: 'Télécharger le communiqué de presse '
+- file: "/uploads/CP_EIG5_ETAT_RECRUTE_50_TALENTS_DU_NUMERIQUE_POUR_ACCLERER_SA_TRANSFORMATION-30579e.pdf"
+  nom: 'Télécharger le communiqué de presse '
   Key: 
   File: "/uploads/CP_EIG5_ETAT_RECRUTE_50_TALENTS_DU_NUMERIQUE_POUR_ACCLERER_SA_TRANSFORMATION.pdf"
 ---
