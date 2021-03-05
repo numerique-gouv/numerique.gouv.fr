@@ -1,6 +1,6 @@
 ---
-title: 'France Relance : Le volet « Développer l’utilisation de la donnée dans votre
-  administration » finance 18 projets'
+title: 'France Relance : découvrez les 18 projets financés par le volet « Développer
+  l’utilisation de la donnée dans votre administration »'
 date: 2021-03-03 12:04:00 +01:00
 categories:
 - Article
@@ -45,7 +45,7 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 
 <li><p><b>Industrialisation et enrichissement du tableau de bord Crise COVID pour le suivi des recouvrements</b><br>– AGENCE CENTRALE DES ORGANISMES DE SÉCURITÉ SOCIALE</p></li>
 
-<li><p><b>Base commune des entreprises (BCE)</b>
+<li><p><b>Base de connaissance des entreprises (BCE)</b>
 <br>Piloter par la donnée les relations avec les entreprises
 <br>– SECRÉTARIAT GÉNÉRAL DES MINISTÈRES CHARGÉS DES AFFAIRES SOCIALES</p></li></ul>
 
@@ -90,11 +90,12 @@ Ouvert aux administrations centrales et déconcentrées ainsi qu'aux opérateurs
 
 * **Un deuxième appel à projets** sera ouvert au deuxième trimestre 2021
 
-* **Un troisième appel à projets** sera ouvert au second trimestre 2021
+* **Un troisième appel à projets** sera ouvert au quatrième trimestre 2021
 
 * **Un guichet en continu** sur l’année 2021 pour les projets de moins de 100&nbsp;000&nbsp;euros est ouvert depuis le 1er février 2021
 
 [**> Toutes les infos sur francerelance.transformation.gouv.fr**](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot "Toutes les infos sur francerelance.transformation.gouv.fr - Lien externe")
+<br>
 <br>
 
 **Les collectivités territoriales** quant à elles peuvent solliciter le fonds du plan France Relance dédié à leur transformation numérique, ouvert depuis fin janvier, pour cofinancer leurs projets visant à développer un meilleur usage des données pour nos territoires (intelligence artificielle, open data, archivage, tableaux de bord de pilotage des politiques publiques locales). Cet appel à projets est ouvert jusqu’au 28 mai 2021.
@@ -102,6 +103,6 @@ Ouvert aux administrations centrales et déconcentrées ainsi qu'aux opérateurs
 
 Au-delà des projets liés à la donnée, **le fonds Transformation numérique de l’État et des territoires du plan France Relance,** doté de 88 millions d'euros, aide à financer de nombreux types de projets destinés à simplifier les services publics en ligne et transformer l’action publique avec le numérique. 
 
-<div class="lien-important"><p><a href="https://france-relance.transformation.gouv.fr/">Découvrir le fonds <br>« Transformation numérique de l’État et des territoires »</a></p></div>
+<div class="lien-important"><p><a href="https://france-relance.transformation.gouv.fr/" title="Découvrir le fonds Transformation numérique de l’État et des territoires - Lien externe">Découvrir le fonds <br>« Transformation numérique de l’État et des territoires »</a></p></div>
 
-<div class="encadre noir"><h3>Composition du jury</h3><p>15 experts de la donnée et de la transformation publique et numérique ont auditionné les projets présélectionnés, pendant une journée entière. Merci à eux et elles pour leur investissement&nbsp;!</p> <p>Voici la composition du jury:</p> <ul> <li><b>Florence Gomez&nbsp;:</b> Rapporteur au Comité interministériel de restructuration industrielle (CIRI) – Direction générale du Trésor</li> <li><b>Mathilde Bras&nbsp;:</b> Directrice opérationnelle – Fing</li> <li><b>Fabien Antoine&nbsp;:</b> Directeur de projet - stratégie data au Ministère de la Justice</li> <li><b>Stéphane Trainel&nbsp;:</b> Administrateur ministériel des données des ministères économiques et financiers</li> <li><b>Romain Talès&nbsp;:</b> Responsable du pôle Donnée chez direction interministérielle du numérique</li> <li><b>Thomas Cottinet&nbsp;:</b> Directeur de l’ECOLAB au Ministère de l’Environnement</li> <li><b>Laure Lucchesi&nbsp;:</b> Directrice d’Etalab, à la DINUM</li> <li><b>Delphine Le&nbsp;:</b> Lead data scientist au Ministère de l’Économie et des Finances</li> <li><b>Nicolas Amar&nbsp;:</b> Coordonnateur de la stratégie nationale IA au Ministère de l’Économie et des Finances</li> <li><b>Kim Montalibet&nbsp;:</b> Data scientist au Lab IA d’Etalab, à la DINUM</li> <li><b>Christophe Costes&nbsp;:</b> Directeur de projets chez Direction interministérielle de la transformation publique (DITP)</li> <li><b>Ioana Manolescu&nbsp;:</b> Directrice scientifique du Lab IA Etalab / chercheuse INRIA</li> <li><b>Bertrand Pailhès&nbsp;:</b> Directeur des technologies et de l’innovation à la CNIL</li> <li><b>Eglantine Schmitt&nbsp;:</b> Chef de produit à Citio</li> <li><b>Paul-Antoine Chevalier&nbsp;:</b> Responsable du Lab IA d’Etatab</li> <li><b>Nadi Bou Hanna&nbsp;:</b> Directeur interministériel du numérique</li></ul></div>
+<div class="encadre noir"><h3>Composition du jury</h3><p>16 experts de la donnée et de la transformation publique et numérique ont auditionné les projets présélectionnés, pendant une journée entière. Merci à eux et elles pour leur investissement&nbsp;!</p> <p>Voici la composition du jury :</p> <ul><li><b>Florence Gomez&nbsp;:</b> Rapporteur au Comité interministériel de restructuration industrielle (CIRI) – Direction générale du Trésor</li> <li><b>Mathilde Bras&nbsp;:</b> Directrice opérationnelle – Fing</li> <li><b>Fabien Antoine&nbsp;:</b> Directeur de projet - stratégie data au Ministère de la Justice</li> <li><b>Stéphane Trainel&nbsp;:</b> Administrateur ministériel des données des ministères économiques et financiers</li> <li><b>Romain Talès&nbsp;:</b> Responsable du pôle Donnée chez direction interministérielle du numérique</li> <li><b>Thomas Cottinet&nbsp;:</b> Directeur de l’ECOLAB au Ministère de l’Environnement</li> <li><b>Laure Lucchesi&nbsp;:</b> Directrice d’Etalab, à la DINUM</li> <li><b>Delphine Le&nbsp;:</b> Lead data scientist au Ministère de l’Économie et des Finances</li> <li><b>Nicolas Amar&nbsp;:</b> Coordonnateur de la stratégie nationale IA au Ministère de l’Économie et des Finances</li> <li><b>Kim Montalibet&nbsp;:</b> Data scientist au Lab IA d’Etalab, à la DINUM</li> <li><b>Christophe Costes&nbsp;:</b> Directeur de projets chez Direction interministérielle de la transformation publique (DITP)</li> <li><b>Ioana Manolescu&nbsp;:</b> Directrice scientifique du Lab IA Etalab / chercheuse INRIA</li> <li><b>Bertrand Pailhès&nbsp;:</b> Directeur des technologies et de l’innovation à la CNIL</li> <li><b>Eglantine Schmitt&nbsp;:</b> Chef de produit à Citio</li> <li><b>Paul-Antoine Chevalier&nbsp;:</b> Responsable du Lab IA d’Etatab</li> <li><b>Nadi Bou Hanna&nbsp;:</b> Directeur interministériel du numérique</li></ul></div>
