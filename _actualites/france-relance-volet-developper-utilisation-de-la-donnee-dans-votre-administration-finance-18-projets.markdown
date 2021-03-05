@@ -90,7 +90,7 @@ Ouvert aux administrations centrales et déconcentrées ainsi qu'aux opérateurs
 
 * **Un deuxième appel à projets** sera ouvert au deuxième trimestre 2021
 
-* **Un troisième appel à projets** sera ouvert au second trimestre 2021
+* **Un troisième appel à projets** sera ouvert au quatrième trimestre 2021
 
 * **Un guichet en continu** sur l’année 2021 pour les projets de moins de 100&nbsp;000&nbsp;euros est ouvert depuis le 1er février 2021
 
