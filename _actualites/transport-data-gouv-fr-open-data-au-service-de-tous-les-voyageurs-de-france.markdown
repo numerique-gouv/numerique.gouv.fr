@@ -2,7 +2,6 @@
 title: 'Transport.data.gouv.fr : l''open data au service de tous les voyageurs de
   France'
 date: 2021-03-03 14:26:00 +01:00
-published: false
 categories:
 - Communiqué de presse
 tags:
@@ -22,9 +21,8 @@ chapeau-text: Faciliter les déplacements de tous les usagers, c’est la promes
   début mars la direction générale des infrastructures, des transports et de la mer
   (DGITM).
 une-ou-diaporama:
-- image: "/uploads/https%20_cdn.evbuc.com_images_124430761_188264286179_1_original.20210128-113006.jpg"
+- image: "/uploads/2021_03_04_Transport_1600x860.jpg"
 redirection-interne: https://www.numerique.gouv.fr/espace-presse/transport-dot-data-dot-gouv-dot-fr-lopen-date-au-service-de-tous-les-voyageurs-de-france/
 ---
 
-> [Lire la suite dans notre espace presse](/espace-presse/transport-dot-data-dot-gouv-dot-fr-lopen-date-au-service-de-tous-les-voyageurs-de-france/)
-{: .lien-important}
+<div class="lien-important"><a href="/espace-presse/transport-dot-data-dot-gouv-dot-fr-lopen-date-au-service-de-tous-les-voyageurs-de-france/>Lire la suite dans notre espace presse</a></div>
