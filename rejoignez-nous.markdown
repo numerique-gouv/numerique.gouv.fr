@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 15 février  2021
+date_de_modification: 8 mars  2021
 layout: page-annexe
 ---
 
@@ -27,6 +27,31 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Directeur/Directrice de projet SI - Messagerie instantanée de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-si---messagerie-instantanee-de-l-tat-hf-reference-2021-554178/ "Directeur/Directrice de projet SI - Messagerie instantanée de l'État H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Directeur/Directrice technique sac à dos numérique de l'agent public (SNAP) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-technique-sac-a-dos-numerique-de-l-agent-public-snap-hf-reference-2021-557191/ "Directeur/Directrice technique sac à dos numérique de l'agent public (SNAP) H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Directeur/Directrice de projet SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-557878/ "Directeur/Directrice de projet SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet---architecte-technique--services-d-acces-internet-hf-reference-2021-557169/ "Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Ingénieur/Ingénieure sécurité réseau (SOC du réseau interministériel de l'État) 3 postes à pourvoir H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat--3-postes-a-pourvoir-hf-reference-2021-557187/ "Ingénieur/Ingénieure sécurité réseau (SOC du réseau interministériel de l'État) 3 postes à pourvoir H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>Poste basé en Ille et Vilaine (35)
+<br>
+
+* **[Chargé/Chargée de mission « numérique et territoires » H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission--numerique-et-territoires--hf-reference-2021-559724/ "Chargé/Chargée de mission « numérique et territoires » H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Chef/Cheffe du pôle Hypervision (NOC/SOC) du réseau interministériel de l’État (RIE)](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-du-pole-hypervision-nocsoc-du-reseau-interministeriel-de-l-etat-rie-hf-reference-2021-545525 "Chef/Cheffe du pôle Hypervision (NOC/SOC) du réseau interministériel de l’État (RIE) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>Poste basé en Ille et Vilaine (35)
@@ -42,14 +67,6 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 <br>
 
 * **[Directeur/directrice de projet - Sécurisation et conseil sur les grands projets SI de l’État](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet---securisation-et-conseil-sur-les-grands-projets-si-de-l-etat-hf-reference-2020-514691 "Directeur/directrice de projet - Sécurisation et conseil sur les grands projets SI de l’État - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Juriste droit numérique et administratif H/F](https://place-emploi-public.gouv.fr/offre-emploi/juriste-droit-numerique-et-administratif-hf-reference-2021-537264 "Juriste droit numérique et administratif H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Designer UX / UI - F/H](https://place-emploi-public.gouv.fr/offre-emploi/designer-ux--ui-hf-reference-2021-536479 "Designer UX / UI - F/H - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
