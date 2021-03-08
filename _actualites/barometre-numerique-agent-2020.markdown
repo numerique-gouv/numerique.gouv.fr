@@ -2,7 +2,6 @@
 title: 'Baromètre numérique de l’agent 2020 : des agents de plus en plus satisfaits
   de leur environnement de travail numérique'
 date: 2021-02-24 12:24:00 +01:00
-published: false
 categories:
 - Article
 tags:
@@ -73,6 +72,6 @@ Les résultats de cette édition du BNA appellent notamment les administrations 
 
 <p align="center"><a href="" class="button">Consulter les résultats du BNA 2020 (pdf – 8&nbsp;Mo)</a></p>
 
-> Retrouvez également les données brutes du BNA 2020 sur data.gouv.fr
+[> Retrouvez également les données brutes du BNA 2020 sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/barometre-numerique-de-lagent-resultats-2020/ "Retrouvez également les données brutes du BNA 2020 sur data.gouv.fr - Lien externe")
 
 <div class="encadre noir"><h3 class="margin-bottom-1 h4">Administrations&nbsp;: le plan France Relance vous aide à améliorer l’environnement de travail numérique de vos agents</h3><p>Dans le cadre du volet Transformation numérique de l’État et des territoires, le plan de relance mis en place par le Gouvernement peut vous aider à financer des projets en ce sens.</p><p><b>Cinq guichets «&nbsp;Sac à dos numérique de l’agent public&nbsp;», pilotés par la DINUM, sont proposés&nbsp;:</b></p> <ul> <li> <p>Augmenter les débits réseau (<a href="https://france-relance.transformation.gouv.fr/93da-augmenter-les-debits-reseau" title="SNAP1 - Lien externe">SNAP1</a>)</p> </li> <li> <p>Simplifier l’authentification des agents grâce à AgentConnect (<a href="https://france-relance.transformation.gouv.fr/953d-simplifier-lauthentification-des-agents-grace" title="SNAP2 - Lien externe">SNAP2</a>)</p> </li> <li> <p>Rendre les terminaux numériques des agents et les infrastructures plus propices au travail en mobilité (<a href="https://france-relance.transformation.gouv.fr/074d-rendre-les-terminaux-numeriques-des-agents-et" title="SNAP3 - Lien externe">SNAP3</a>)</p> </li> <li> <p>Développer des outils de communication et de collaboration pour les agents (<a href="https://france-relance.transformation.gouv.fr/b8f4-developper-des-outils-de-communication-et-de-" title="SNAP4 - Lien externe">SNAP4</a>)</p></li><li><p>Accompagner l’appropriation des méthodes de travail numériques au sein des équipes (<a href="https://france-relance.transformation.gouv.fr/b07b-accompagner-lappropriation-des-methodes-de-tr" title="SNAP5 - Lien externe">SNAP5</a>)</p></li></ul><p>En parallèle, <b>un guichet du volet «&nbsp;Innovation et transformation numérique&nbsp;»</b> peut permettre de généraliser sur plusieurs territoires une innovation numérique locale (<a href="https://france-relance.transformation.gouv.fr/fb0c-generaliser-sur-plusieurs-territoires-une-inn" title="ITN3 - Lien externe">ITN3</a>) portant sur l’environnement de travail de l’agent.</p><p><b>&gt; <a href="https://france-relance.transformation.gouv.fr/" title="En savoir plus et postuler - Lien externe">En savoir plus et postuler</a></b></p></div>
