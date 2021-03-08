@@ -70,7 +70,7 @@ Les résultats de cette édition du BNA appellent notamment les administrations 
 
 **Le prochain baromètre numérique de l’agent sera mené au cours de l’été 2021.**
 
-<p align="center"><a href="" class="button">Consulter les résultats du BNA 2020 (pdf – 8&nbsp;Mo)</a></p>
+<p align="center"><a href="/uploads/Barometre-numerique-agent-2020.pdf" class="button">Consulter les résultats du BNA 2020 (pdf – 400&nbsp;ko)</a></p>
 
 [> Retrouvez également les données brutes du BNA 2020 sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/barometre-numerique-de-lagent-resultats-2020/ "Retrouvez également les données brutes du BNA 2020 sur data.gouv.fr - Lien externe")
 
