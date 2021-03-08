@@ -52,26 +52,9 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chef/Cheffe du pôle Hypervision (NOC/SOC) du réseau interministériel de l’État (RIE)](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-du-pole-hypervision-nocsoc-du-reseau-interministeriel-de-l-etat-rie-hf-reference-2021-545525 "Chef/Cheffe du pôle Hypervision (NOC/SOC) du réseau interministériel de l’État (RIE) - Lien externe")**
-<br>Cadre/Catégorie A
-<br>Poste basé en Ille et Vilaine (35)
-<br>
-
-* **[Responsable de la Sécurité des Systèmes d'Informations F/H](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-fh-reference-2020-430437 "Responsable de la Sécurité des Systèmes d'Informations F/H - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Ingénieur sécurité réseau (SOC du réseau interministériel de l'État) F/H](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat-hf-reference-2021-541790 "Ingénieur sécurité réseau (SOC du réseau interministériel de l'État) F/H - Lien externe")**
 <br>Cadre/Catégorie A
 <br>Poste basé en Ille et Vilaine (35)
-<br>
-
-* **[Directeur/directrice de projet - Sécurisation et conseil sur les grands projets SI de l’État](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet---securisation-et-conseil-sur-les-grands-projets-si-de-l-etat-hf-reference-2020-514691 "Directeur/directrice de projet - Sécurisation et conseil sur les grands projets SI de l’État - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Développeuse / Développeur](https://place-emploi-public.gouv.fr/offre-emploi/developpeur--developpeuse-reference-2020-470032 "Développeur / Développeuse - Lien externe")**
-<br>Cadre/Catégorie A
 <br>
 
 
@@ -89,9 +72,7 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 
 <div class="encadre noir">
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministères"></a></h3>
-<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> <p><strong> Direction générale des douanes et droits indirects (DGDDI)</strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/dgddi---sous-directeur-en-charge-des-systemes-d-information-et-de-telecommunication---hf-reference-2021-544558/" title="Sous-directeur en charge des systèmes d'information et de télécommunication F/H - Lien externe">Sous-directeur en charge des systèmes d'information et de télécommunication F/H</a></strong><br>Cadre supérieur/Catégorie A+ <br>Poste basé en Seine Saint-Denis (93)</li></ul> 
-<p><strong>Direction générale des finances publiques (DGFiP)</strong></p> 
+<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> <p><strong>Direction générale des finances publiques (DGFiP)</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064" title="Chef de projet / chargé de mission F/H - Lien externe">Chef de projet / chargé de mission - Mission France Recouvrement F/H</a></strong><br>Cadre/Catégorie A <br>Poste basé à Montreuil (93)</li></ul> 
 <p><strong>Ministère de l’économie, des finances et de la relance</strong><br>Direction générale des entreprises (DGE)</p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/administrateur-systemes--devops---peren---sen-peren-148-hf-reference-MEF_2021-3469" title="Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H - Lien externe">Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H</a></strong> <br>Cadre/Catégorie A</li></ul>
