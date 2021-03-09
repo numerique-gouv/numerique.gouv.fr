@@ -35,7 +35,7 @@ Modification de la première condition du test 1.1.6 (issue #56) :
 
 est remplacée par :
 
-"La balise `<object>` possède une [alternative textuelle](#alternative-textuelle-image) et un attribut `role="img"`"
+"La balise `<object>` possède une [alternative textuelle](#alternative-textuelle-image) et un attribut `role='img'`"
 
 Modification de la première condition du test 1.1.7 (issue #56) :
 
@@ -43,7 +43,7 @@ Modification de la première condition du test 1.1.7 (issue #56) :
 
 est remplacée par :
 
-"La balise `<embed>` possède une [alternative textuelle](#alternative-textuelle-image) et un attribut `role="img"`"
+"La balise `<embed>` possède une [alternative textuelle](#alternative-textuelle-image) et un attribut `role='img'`"
 
 Modification de la première condition du test 1.1.8 (issue #56) :
 
@@ -51,7 +51,7 @@ Modification de la première condition du test 1.1.8 (issue #56) :
 
 est remplacée par :
 
-"La balise `<canvas>` possède une [alternative textuelle](#alternative-textuelle-image) et un attribut `role="img"`"
+"La balise `<canvas>` possède une [alternative textuelle](#alternative-textuelle-image) et un attribut `role='img'`"
 
 ### Critère 1.3
 
@@ -123,11 +123,11 @@ Ajout du test 5.6.4 manquant concernant la restriction de l'usage des attributs 
 
 Ajout de la référence à l'attribut `summary` dans la première condition du test 5.8.1 (issue #67) :
 
-"Le tableau de mise en forme (balise `<table>`) ne contient pas de balises `<caption>`, `<th>`, `<thead>`, `<tfoot>`, `<colgroup>` ou de balises ayant un attribut WAI-ARIA `role="rowheader"`, `role="columnheader"`."
+"Le tableau de mise en forme (balise `<table>`) ne contient pas de balises `<caption>`, `<th>`, `<thead>`, `<tfoot>`, `<colgroup>` ou de balises ayant un attribut WAI-ARIA `role='rowheader'`, `role='columnheader'`."
 
 est remplacé par :
 
-"Le tableau de mise en forme (balise `<table>`) n'a pas d'attribut `summary` (sinon vide) et ne contient pas de balises `<caption>`, `<th>`, `<thead>`, `<tfoot>`, `<colgroup>` ou de balises ayant un attribut WAI-ARIA `role="rowheader"`, `role="columnheader"`."
+"Le tableau de mise en forme (balise `<table>`) n'a pas d'attribut `summary` (sinon vide) et ne contient pas de balises `<caption>`, `<th>`, `<thead>`, `<tfoot>`, `<colgroup>` ou de balises ayant un attribut WAI-ARIA `role='rowheader'`, `role='columnheader'`."
 
 ### Critère 6.1
 
@@ -265,14 +265,14 @@ est remplacée par :
 
 Modification de la formulation des conditions du test 11.10.4, car c'est un doublon des conditions du test 11.10.2 (retour interne) :
 
-"Les champs obligatoires ayant l'attribut `aria-invalid="true"` vérifient-ils une de ces conditions ?
+"Les champs obligatoires ayant l'attribut `aria-invalid='true'` vérifient-ils une de ces conditions ?
 
 * Une [indication de champ obligatoire](#indication-de-champ-obligatoire) est visible et située dans l'étiquette associée au champ.
 * Une [indication de champ obligatoire](#indication-de-champ-obligatoire) est visible et située dans le [passage de texte](#passage-de-texte-lie-par-aria-labelledby-ou-aria-describedby) associé au champ."
 
 est remplacée par :
 
-"Les champs obligatoires ayant l'attribut `aria-invalid="true"` vérifient-ils une de ces conditions ?
+"Les champs obligatoires ayant l'attribut `aria-invalid='true'` vérifient-ils une de ces conditions ?
 
 * Le message d'erreur indiquant le caractère invalide de la saisie est visible et situé dans l'étiquette associée au champ.
 * Le message d'erreur indiquant le caractère invalide de la saisie est visible et situé dans le [passage de texte](#passage-de-texte-lie-par-aria-labelledby-ou-aria-describedby) associé au champ."
@@ -283,7 +283,7 @@ Ajout d'un cas d'usage dans une note technique (issue #2) :
 
 * Un message précise visuellement en haut de formulaire que "tous les champs sont obligatoires sauf ceux indiqués comme étant facultatifs" ;
 * Une mention "facultatif" est présente visuellement dans le libellé des champs facultatifs ou dans la légende d'un groupe de champs facultatifs ;
-* Un attribut `required` ou `aria-required="true"` reste associé à chaque champ qui n'est pas concerné par ce caractère facultatif."
+* Un attribut `required` ou `aria-required='true'` reste associé à chaque champ qui n'est pas concerné par ce caractère facultatif."
 
 Modification de la formulation du cas particulier pour tenir compte du test 11.10.2 :
 
@@ -633,11 +633,11 @@ est remplacée par :
 
 Modification de la note 2 (issue #44) :
 
-"Note 2 : Si cela ne gêne pas le fonctionnement de ce type de cadre, il est possible de les rendre indisponibles aux technologies d'assistance en utilisant l'attribut WAI-ARIA `aria-hidden="true"`. Dans ce cas le [critère 2.2](#crit-2-2) sera non applicable."
+"Note 2 : Si cela ne gêne pas le fonctionnement de ce type de cadre, il est possible de les rendre indisponibles aux technologies d'assistance en utilisant l'attribut WAI-ARIA `aria-hidden='true'`. Dans ce cas le [critère 2.2](#crit-2-2) sera non applicable."
 
 est remplacée par :
 
-"Note 2 : Si cela ne gêne pas le fonctionnement de ce type de cadre, il est possible de les rendre indisponibles aux technologies d'assistance en utilisant l'attribut WAI-ARIA `aria-hidden="true"`. Dans ce cas le [critère 2.1](#crit-2-1) et le [critère 2.2](#crit-2-2) seront non applicables."
+"Note 2 : Si cela ne gêne pas le fonctionnement de ce type de cadre, il est possible de les rendre indisponibles aux technologies d'assistance en utilisant l'attribut WAI-ARIA `aria-hidden='true'`. Dans ce cas le [critère 2.1](#crit-2-1) et le [critère 2.2](#crit-2-2) seront non applicables."
 
 ### Version accessible (pour un document en téléchargement)
 
