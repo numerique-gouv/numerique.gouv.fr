@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 8 mars  2021
+date_de_modification: 10 mars  2021
 layout: page-annexe
 ---
 
@@ -72,7 +72,9 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 
 <div class="encadre noir">
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministères"></a></h3>
-<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> <p><strong>Direction générale des finances publiques (DGFiP)</strong></p> 
+<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> <p><strong> Secrétariat Général de la Défense et de la Sécurité Nationale (SGDSN)</strong></p> 
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-maitrise-d-ouvrage-2-postes-reference-2021-557102/" title="Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H - Lien externe">Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H</a></strong><br>Cadre/Catégorie A</li></ul> 
+<p><strong>Direction générale des finances publiques (DGFiP)</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064" title="Chef de projet / chargé de mission F/H - Lien externe">Chef de projet / chargé de mission - Mission France Recouvrement F/H</a></strong><br>Cadre/Catégorie A <br>Poste basé à Montreuil (93)</li></ul> 
 <p><strong>Ministère de l’économie, des finances et de la relance</strong><br>Direction générale des entreprises (DGE)</p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/administrateur-systemes--devops---peren---sen-peren-148-hf-reference-MEF_2021-3469" title="Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H - Lien externe">Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H</a></strong> <br>Cadre/Catégorie A</li></ul>
