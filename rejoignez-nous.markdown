@@ -27,6 +27,16 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Développeur/Développeuse chargé-e d'hypervision réseau et sécurité](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe")**
+<br>Cadre/Catégorie A
+<br>Poste basé en Ille et Vilaine (35)
+<br>
+
+* **[Développeur/Développeuse chargé-e d'hypervision réseau et sécurité](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite-hf-reference-2021-572929/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe")**
+<br>Cadre/Catégorie B
+<br>Poste basé en Ille et Vilaine (35)
+<br>
+
 * **[Chargé/Chargée de la gouvernance SSI du Réseau Interministériel de l'État (RIE)](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-gouvernance-ssi-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-572756/ "Chargé/Chargée de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
