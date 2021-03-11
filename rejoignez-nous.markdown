@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 10 mars  2021
+date_de_modification: 11 mars 2021
 layout: page-annexe
 ---
 
@@ -26,6 +26,10 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 {: .margin-top-4 .margin-bottom-0 .h3}
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
+
+* **[Chargé/Chargée de la gouvernance SSI du Réseau Interministériel de l'État (RIE)](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-si---messagerie-instantanee-de-l-tat-hf-reference-2021-554178/ "Chargé/Chargée de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
 
 * **[Directeur/Directrice de projet SI - Messagerie instantanée de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-si---messagerie-instantanee-de-l-tat-hf-reference-2021-554178/ "Directeur/Directrice de projet SI - Messagerie instantanée de l'État H/F - Lien externe")**
 <br>Cadre/Catégorie A
