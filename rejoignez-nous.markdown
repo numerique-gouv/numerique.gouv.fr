@@ -27,7 +27,7 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Chargé/Chargée de la gouvernance SSI du Réseau Interministériel de l'État (RIE)](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-si---messagerie-instantanee-de-l-tat-hf-reference-2021-554178/ "Chargé/Chargée de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - Lien externe")**
+* **[Chargé/Chargée de la gouvernance SSI du Réseau Interministériel de l'État (RIE)](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-gouvernance-ssi-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-572756/ "Chargé/Chargée de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
