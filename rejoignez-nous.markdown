@@ -28,12 +28,7 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 {: .margin-bottom-1}
 
 * **[Développeur/Développeuse chargé-e d'hypervision réseau et sécurité](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe")**
-<br>Cadre/Catégorie A
-<br>Poste basé en Ille et Vilaine (35)
-<br>
-
-* **[Développeur/Développeuse chargé-e d'hypervision réseau et sécurité](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite-hf-reference-2021-572929/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe")**
-<br>Cadre/Catégorie B
+<br>[Cadre/Catégorie A](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe") ou [Catégorie B](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite-hf-reference-2021-572929/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe") selon profil 
 <br>Poste basé en Ille et Vilaine (35)
 <br>
 
