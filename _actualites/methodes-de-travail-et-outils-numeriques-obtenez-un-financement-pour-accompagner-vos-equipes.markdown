@@ -30,7 +30,9 @@ Les outils numériques offrent de nouvelles opportunités pour collaborer et com
 
 Vous êtes une administration de l’État – centrale ou déconcentrée – ou un opérateur et avez un projet en ce sens ? Ce volet du plan de relance vous est destiné, quelle que soit votre taille, que vous soyez une grande direction ou une équipe d’une vingtaine de personnes. 
 
-<p align="center"><a href="https://france-relance.transformation.gouv.fr/b07b-accompagner-lappropriation-des-methodes-de-tr" class="button" title="Demandez un financement via notre guichet dédié - Lien externe">Demandez un financement via notre guichet dédié</a></p>
+Sollicitez le guichet dédié de la direction interministérielle du numérique (DINUM) pour demander un financement et bénéficier d’une assistance à la constitution de votre dossier. 
+
+<p align="center"><a href="https://france-relance.transformation.gouv.fr/b07b-accompagner-lappropriation-des-methodes-de-tr" class="button" title="Demandez un financement - Lien externe">Demandez un financement</a></p>
 
 
 <div class="lien-important"><p><a href="https://france-relance.transformation.gouv.fr/">Découvrez aussi tous les appels à projets et guichets du fonds « Transformation numérique de l’État et des territoires »</a></p></div>  
