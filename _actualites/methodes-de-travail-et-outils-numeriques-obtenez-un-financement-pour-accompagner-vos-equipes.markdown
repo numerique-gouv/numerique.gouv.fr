@@ -7,6 +7,8 @@ categories:
 tags:
 - France Relance
 - Appels à projets
+- Outils numériques pour les agents
+- Outils collaboratifs
 une-ou-diaporama:
 - image: "/uploads/SNAP5_Une.jpg"
 style: |-
@@ -28,7 +30,7 @@ Les outils numériques offrent de nouvelles opportunités pour collaborer et com
 
 **Le plan France Relance peut financer, jusqu’à 75% du coût total,** vos projets visant à accompagner vos équipes et managers à la mise en place de méthodes de travail utilisant des outils numériques de collaboration et communication.
 
-Vous êtes une administration de l’État – centrale ou déconcentrée – ou un opérateur et avez un projet en ce sens ? Ce volet du plan de relance vous est destiné, quelle que soit votre taille, que vous soyez une grande direction ou une équipe d’une vingtaine de personnes. 
+**Vous êtes une administration de l’État – centrale ou déconcentrée – ou un opérateur et avez un projet en ce sens ?** Ce volet du plan de relance vous est destiné, quelle que soit votre taille, que vous soyez une grande direction ou une équipe d’une vingtaine de personnes. 
 
 Sollicitez le guichet dédié de la direction interministérielle du numérique (DINUM) pour demander un financement et bénéficier d’une assistance à la constitution de votre dossier. 
 
@@ -36,8 +38,3 @@ Sollicitez le guichet dédié de la direction interministérielle du numérique 
 
 
 <div class="lien-important"><p><a href="https://france-relance.transformation.gouv.fr/">Découvrez aussi tous les appels à projets et guichets du fonds « Transformation numérique de l’État et des territoires »</a></p></div>  
-
-<div class="encadre noir"><h2 class="h3">Un exemple de projet financé ?</h2>
-<br><p><strong>Accompagner aux nouvelles formes de travail et de management dues au télétravail</strong>
-<br>– GENDARMERIE NATIONALE</p>
-<p>Dans le cadre du télétravail massif généré par la crise sanitaire, la Gendarmerie nationale souhaite accompagner ses personnels dans cette nouvelle organisation du travail qui s'appuient principalement sur l'utilisation d'outils numériques. Le financement obtenu dans le cadre du plan de relance lui permettra de mettre en place des formations à ces pratiques pour ses agents, et au management à distance pour les cadres de son administration centrale et de ses états-majors régionaux (services déconcentrés).</p></div> 
