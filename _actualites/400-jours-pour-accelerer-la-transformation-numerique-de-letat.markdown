@@ -14,4 +14,4 @@ auteur: transformation.gouv.fr
 redirection: https://www.transformation.gouv.fr/la-ministre/actualite/400-jours-pour-accelerer-la-transformation-numerique-de-letat
 ---
 
-<div class="lien-important"><a href="https://www.transformation.gouv.fr/la-ministre/actualite/400-jours-pour-accelerer-la-transformation-numerique-de-letat "Lire la suite sur transformation.gouv.fr - lien externe">Lire la suite sur transformation.gouv.fr</a></div>
+<div class="lien-important"><a href="https://www.transformation.gouv.fr/la-ministre/actualite/400-jours-pour-accelerer-la-transformation-numerique-de-letat"  title="Lire la suite sur transformation.gouv.fr - lien externe">Lire la suite sur transformation.gouv.fr</a></div>
