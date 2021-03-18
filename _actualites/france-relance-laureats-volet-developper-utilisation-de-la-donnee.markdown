@@ -31,7 +31,9 @@ Les administrations et leurs projets sélectionnés sont les suivants :
 
 <li><p><b>Potentiel</b><br>Faciliter le parcours des producteurs d’énergies renouvelables électriques<br>– DIRECTION GÉNÉRALE DE L’ÉNERGIE ET DU CLIMAT</p></li>
 
-<li><p><b>DataMin 360</b><br>Collecter, analyser, visualiser les données financières<br>– DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR</p></li></ul>
+<li><p><b>DataMin 360</b><br>Collecter, analyser, visualiser les données financières<br>– DIRECTION DU NUMÉRIQUE DU MINISTÈRE DE L’INTÉRIEUR</p></li>
+
+<li><p><b>Accélérer et passer à l’échelle les projets de valorisation de données</b><br>- MINISTÈRE DE LA TRANSITION ÉCOLOGIQUE/p></li></ul>
 
 <h3>Projets de pilotage par la donnée</h3>
 
