@@ -11,7 +11,7 @@ tags:
 - Etalab
 une-ou-diaporama:
 - image: "/uploads/2020_10_27_FRANCE-RELANCE_1600x860.jpg"
-date_de_modification: 18 mars 2021
+date_de_modification: 22 mars 2021
 ---
 
 Dans le cadre du plan de relance numérique, Etalab, au sein de la DINUM, porte le volet « Développer l’utilisation de la donnée dans votre administration » donnant aux administrations la possibilité d’obtenir un cofinancement pour leurs projets autour du pilotage public par la donnée, de l’échange de données entre administrations, de l’exploitation de données ou de l’ouverture des données. 
