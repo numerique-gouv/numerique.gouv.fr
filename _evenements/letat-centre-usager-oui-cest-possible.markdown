@@ -11,6 +11,19 @@ chapeau-text: À l’occasion de la clôture de la saison 2020 du [Commando UX](
   (DINUM) organise un événement pour rendre compte des travaux menés par cette première
   promotion, et animer 3 regards croisés autour des enjeux du design numérique au
   sein de l'État.
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 event_start_date: 2021-04-06 18:00:00 +02:00
 event_end_date: 2021-04-08 18:00:00 +02:00
 afficher_la_carte: false
@@ -20,10 +33,11 @@ champs_informations:
   lien: https://framaforms.org/letat-centre-usager-oui-cest-possible-1613408477
 ---
 
-## **3 soirées à ne pas manquer.**
+## 3 soirées à ne pas manquer
 
-Les **6, 7 et 8 avril, venez échanger avec l'équipe du pôle Desing des services numériques de la DINUM à partir de 18h**. Cet événement est ouvert à tous et sera diffusé en direct sur notre chaine YouTube en 100% accessible (langue des signes française et transcription).
+Les **6, 7 et 8 avril, venez échanger avec l'équipe du pôle Design des services numériques de la DINUM à partir de 18h**. Cet événement est ouvert à tous et sera diffusé en direct sur notre chaine YouTube en 100% accessible (langue des signes française et transcription).
 
-[**## Consulter le programme en ligne**](https://design.numerique.gouv.fr/articles/2021-03-21-evenement-design/)
+<p align="center"><a href="https://design.numerique.gouv.fr/articles/2021-03-21-evenement-design/" class="button" title="Consulter le programme en ligne - Lien externe">Consulter le programme en ligne</a></p>
 
-*Un événement 100 % accessible (transcription : sous-titrage et langue des signes française (LSF))*
+
+*Un événement 100 % accessible (transcription : sous-titrage et langue des signes française, LSF)*
