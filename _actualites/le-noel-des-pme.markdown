@@ -13,7 +13,7 @@ chapeau-text: Vous êtes une PME, vous faites de l’e-commerce responsable, vou
   jusqu’au 15 décembre pour être référencée au Noël des PME.
 une-ou-diaporama:
 - image: "/uploads/noel-pme.png"
-  alternative-textuelle:
+  alternative-textuelle: 
 auteur: Secrétariat d'État chargé du Numérique
 redirection: https://secretariat-etat.numerique.gouv.fr/noel-pme
 ---

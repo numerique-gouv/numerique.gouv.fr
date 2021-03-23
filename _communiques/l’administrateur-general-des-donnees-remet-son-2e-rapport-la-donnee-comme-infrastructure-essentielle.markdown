@@ -16,7 +16,7 @@ chapeau-text: L’administrateur général des données (AGD), Henri Verdier, a 
   Mounir Mahjoubi.
 une-ou-diaporama:
 - image: "/uploads/remiserapportagd.png"
-  alternative-textuelle:
+  alternative-textuelle: 
 ---
 
 Dans son rapport, l'administrateur général des données dresse un état des lieux des pratiques des administrations en

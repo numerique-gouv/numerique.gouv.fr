@@ -12,7 +12,7 @@ chapeau-text: Comment ouvrir ses codes sources ? Quelle licence choisir ? Commen
   un agent public peut-il contribuer à un logiciel libre existant ?
 une-ou-diaporama:
 - image: "/uploads/logiciels_libres4.jpg"
-  alternative-textuelle:
+  alternative-textuelle: 
 auteur: Depuis Etalab.gouv.fr
 ---
 

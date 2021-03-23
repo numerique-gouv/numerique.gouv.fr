@@ -15,11 +15,11 @@ chapeau-text: Le programme [« Entrepreneurs d'intérêt général »](http://ww
   2018.  Vous êtes datascientist, dévelopeur.euse, designer et souhaitez travailler
   avec des jeux de données publiques inédits ? Candidatez !
 une-ou-diaporama:
-- image:
-  legende:
-  alternative-textuelle:
-- legende:
-  alternative-textuelle:
+- image: 
+  legende: 
+  alternative-textuelle: 
+- legende: 
+  alternative-textuelle: 
 auteur: Archives
 ---
 

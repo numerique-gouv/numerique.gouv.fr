@@ -14,7 +14,7 @@ chapeau-text: Améliorer l’expérience utilisateurs des services publics en li
   pour former la 1re promotion. **21 designers** sont recherchés !
 une-ou-diaporama:
 - image: "/uploads/20190403_Article_lancement_DIG-2d1de7.jpg"
-  légende:
+  légende: 
 files:
 - file: "/uploads/CP_DIG_appel%20a%20candidatures-a69534.pdf"
   nom: Télécharger le communiqué de presse
