@@ -5,7 +5,7 @@
   <div id="nav-content">
     <div class="title-bar" data-responsive-toggle="responsive-menu">
       <nav class="title-bar-right" role="navigation" data-hide-for="large">
-        <button id="hamburger-button" class="hamburger hamburger--collapse" type="button" data-toggle="responsive-menu" >
+        <button id="hamburger-button" class="hamburger hamburger--collapse" aria-expanded="false" type="button" data-toggle="responsive-menu" aria-controls="responsive-menu" >
           <span class="hamburger-box">
             <span class="hamburger-inner"></span>
           </span>
@@ -13,8 +13,8 @@
         </button>
       </nav>
     </div>
-    <div class="top-bar" role="dialog" aria-modal="true" tabindex="-1" id="responsive-menu" data-animate="slide-in-left slide-out-left">
-      <nav class="top-bar-left">
+    <div class="top-bar" id="responsive-menu" data-animate="slide-in-left slide-out-left">
+      <nav class="top-bar-left" role="navigation">
         <a id="nav" tabindex="-1"></a>
         <ul class="vertical medium-horizontal dropdown menu">
           {% for item in site.data.nav-main %}
