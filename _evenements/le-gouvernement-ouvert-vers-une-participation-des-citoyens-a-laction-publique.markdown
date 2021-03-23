@@ -15,7 +15,7 @@ adresse: 5 rue de la Croix Nivert , 75015 Paris
 champs_informations:
 - intitule: 'Horaires : '
   contenu: '18h00 - 21h00 '
-  lien:
+  lien: 
 - intitule: Modalités
   contenu: 'Inscription en ligne '
   lien: https://bit.ly/2v75crQ

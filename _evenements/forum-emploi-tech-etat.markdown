@@ -36,7 +36,7 @@ champs_informations:
 - intitule: Pour participer au forum virtuel
   contenu: Inscriptions et prises de rendez-vous en ligne jusqu’au 12 décembre
   lien: https://app.seekube.com/forum-emploi-tech-etat
-Field name:
+Field name: 
 ---
 
 ### Plus de 350 postes à pourvoir

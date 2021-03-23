@@ -5,7 +5,7 @@ categories:
 - Article
 une-ou-diaporama:
 - image: "/uploads/Capture-bilan.png"
-  alternative-textuelle:
+  alternative-textuelle: 
 ---
 
 La direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) conduit un important chantier interministériel visant à assurer la qualité, la modernité et l’efficacité du système d’information (SI) de l’État tout en le mettant **au service du développement des nouveaux usages et de la transformation des métiers des administrations.**
