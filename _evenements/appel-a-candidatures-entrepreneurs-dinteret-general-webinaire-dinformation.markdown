@@ -1,6 +1,6 @@
 ---
 title: 'Appel à candidatures Entrepreneurs d''Intérêt Général : webinaire d''information'
-date: 2021-03-23 12:48:00 +01:00
+date: 2021-03-23 13:47:00 +01:00
 categories:
 - webinaire d'information
 tags:
@@ -22,6 +22,7 @@ event_end_date: 2021-03-30 15:00:00 +02:00
 afficher_la_carte: false
 champs_informations:
 - intitule: Inscription obligatoire
+  contenu: 
   lien: https://app.livestorm.co/dinum-12/aac-eig5-webinaire-info-2
 - intitule: 
   contenu: 
