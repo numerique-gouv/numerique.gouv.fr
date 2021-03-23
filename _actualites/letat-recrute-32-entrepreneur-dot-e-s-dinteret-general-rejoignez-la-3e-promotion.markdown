@@ -14,7 +14,7 @@ chapeau-text: Vous êtes développeur•euse, designer•euse ou data scientist,
   promotion du programme Entrepreneur•e d’Intérêt Général !
 une-ou-diaporama:
 - image: "/uploads/EIG3-candidature-ok.png"
-  alternative-textuelle: 
+  alternative-textuelle:
 auteur: Depuis Etalab.gouv.fr
 ---
 
@@ -24,7 +24,7 @@ consiste à recruter pour 10 mois des professionnels aux expertises numériques 
 Le programme EIG lance aujourd’hui un appel à candidature pour recruter les 32 entrepreneurs qui formeront la 3e promotion à partir de janvier 2019.
 
 > [Accéder à l’appel à candidature, ouvert jusqu’au 15 octobre 2018](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html){: target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 ## Être entrepreneur d’intérêt général : relever des défis techniques à fort impact pour le service public et les citoyens
 
@@ -75,7 +75,7 @@ Pour les relever, EIG et mentors seront accompagnés par [une équipe dédiée a
 * [PolyGraphe](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2019/polygraphe.html){:target="_blank"} : détecter les faux avis pour garantir la confiance sur Internet, Direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF), Ministère de l’Economie
 
 >  Pour déposer votre candidature, rendez-vous jusqu’au 15 octobre sur [l’espace de candidature du programme.](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 ## Prochaines étapes : session d’information le 3 octobre et jury de sélection en novembre
 

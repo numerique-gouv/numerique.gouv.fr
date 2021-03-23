@@ -49,7 +49,7 @@ Par ailleurs, la DINUM conseille de ne pas utiliser l’application Zoom ou d’
 
 > <br>
 > Vous utilisez l'une de ces solutions ? **Faites-nous part de vos retours via [ce questionnaire en ligne](https://dinum.evalandgo.com/s/?id=JTk3biU5OWwlOUMlQUE=&a=JTk2byU5NmglOUUlQUI=)**
-{: .encadre}
+{: .encadre role="presentation" }
 
 ATTENTION : Ces options sont valables pendant la crise liée au Covid-19. L’outil des agents de l’État par défaut est la [webconférence de l’État](https://webconf.numerique.gouv.fr), la possibilité d’utilisation ou non des autres outils après la crise n’est pas garantie et fera l’objet d’une réévaluation.
 [**> En savoir plus sur la webconférence de l’État**](/outils-agents/webconference-etat/)

@@ -18,4 +18,4 @@ auteur: Secrétariat d'État chargé du Numérique
 ---
 
 > [Lire l'article](https://secretariat-etat.numerique.gouv.fr/confiance-numerique/mounir-mahjoubi-tpe-pme-francaises-difficult%C3%A9s-vente-ligne-signalement){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }

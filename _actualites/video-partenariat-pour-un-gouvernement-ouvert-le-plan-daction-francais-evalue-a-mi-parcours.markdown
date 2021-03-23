@@ -43,4 +43,4 @@ La totalité des engagements pris par les administrations françaises est aujour
 * [code source](https://framagit.org/etalab/suivi-plan-ogp-2015-2017/blob/master/fr/README.md){:target="_blank"}
 
 > [Lire aussi le bilan des contributions sur le blog d'Etalab](https://www.etalab.gouv.fr/pgo-publication-du-rapport-detape-du-plan-daction-national-2015-2017){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }

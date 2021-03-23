@@ -32,11 +32,11 @@ Le pays qui préside le comité directeur a pour missions :
 * d’organiser et d’accueillir le sommet bisannuel, et au moins trois réunions du comité directeur par an.
 
 > #### Qu'est-ce que le Partenariat pour un Gouvernement ouvert (PGO) ?
-> 
+>
 > * Le Partenariat pour un gouvernement ouvert (ou Open Government Partnership), initiative multilatérale créée en 2011, rassemble aujourd'hui 65 pays et de nombreuses organisations non-gouvernementales qui coopèrent pour promouvoir :
 > * la transparence de l’action publique ;
 > * la participation citoyenne à l’élaboration des politiques publiques ;
 > * la responsabilité des acteurs publics et leur devoir de rendre des comptes ;
 > * l'utilisation des solutions numériques pour atteindre ces objectifs et stimuler l’innovation démocratique.
-{: .encadre}
+{: .encadre role="presentation" }
 

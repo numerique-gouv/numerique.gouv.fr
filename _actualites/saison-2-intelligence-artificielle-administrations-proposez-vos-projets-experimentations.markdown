@@ -24,7 +24,7 @@ Nouveauté de ce 2e appel à manifestation d’intérêt : les **projets techniq
 > <br>Cet appel à manifestation d’intérêt est lancé par la direction interministérielle du numérique et du système d’information et de communication de l’État (DINSIC) et la direction interministérielle de la transformation publique (DITP), dans le cadre du **laboratoire d’intelligence artificielle** piloté par la DINSIC.
 > <br>
 > <figure class='image-right' style='width: 20%;' margin-bottom='10' margin-top='3'><img src="/uploads/logo_investirlavenir_rvb.png" alt="Logo Investir l'avenir"/></figure>Inscrit dans [**la stratégie nationale en IA**](https://www.aiforhumanity.fr/ "la stratégie nationale en IA - Nouvelle fenêtre"){:target="_blank"} annoncée par le président de la République il y a un an et annoncé en octobre dernier, ce laboratoire est financé par le **fonds « Transition numérique de l’État et modernisation de l'action publique » du programme d’investissements d’avenir** (PIA) piloté par le secrétariat général pour l’investissement (SGPI). Il sera présenté plus en détails dans quelques semaines.
-{: .encadre}
+{: .encadre role="presentation" }
 
 ## Pertinence, impact, valeur ajoutée… Comment seront choisis les projets ?
 
@@ -49,7 +49,7 @@ L’accompagnement des projets débutera **en septembre 2019.**
 {: .text-center}
 
 > [Déposez votre projet d'IA](http://www.demarches-simplifiees.fr/commencer/ami-intelligence-artificielle "Déposez votre projet d'IA - Nouvelle fenêtre"){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 Pour toute question complémentaire, contactez l'équipe de l'appel à manifestation d'intérêt IA à l’adresse : [equipe-ami-ia@data.gouv.fr](mailto:equipe-ami-ia@data.gouv.fr)
 
@@ -59,5 +59,5 @@ Pour toute question complémentaire, contactez l'équipe de l'appel à manifesta
 > La DINSIC et la DITP organisent une réunion d'information à destination des administrations **le 16 avril 2019 à 14h00** au **20 avenue de Ségur, Paris 7e**.
 >
 > > [Inscrivez-vous !](https://www.eventbrite.fr/e/billets-reunion-dinformation-ami-ia-experimenter-lia-dans-ladministration-59687455787 "Inscrivez-vous - Nouvelle fenêtre"){:target="_blank"}
-> {: .lien-important}
+> {: .lien-important role="presentation" }
 {: .exergue}

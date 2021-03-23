@@ -20,4 +20,4 @@ redirection: https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acc
 ---
 
 > [Lire la suite sur beta.gouv.fr](https://blog.beta.gouv.fr/dinsic/2019/10/01/postulez-au-fonds-d-acceleration-des-startups-d-etat-2eme-edition/)
-{: .lien-important}
+{: .lien-important role="presentation" }

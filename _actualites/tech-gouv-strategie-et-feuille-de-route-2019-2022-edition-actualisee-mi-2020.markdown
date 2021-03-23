@@ -20,4 +20,4 @@ une-ou-diaporama:
 ---
 
 > [Lire la suite](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021)
-{: .lien-important}
+{: .lien-important role="presentation" }

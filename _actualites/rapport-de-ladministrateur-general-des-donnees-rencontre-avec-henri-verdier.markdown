@@ -18,7 +18,7 @@ une-ou-diaporama:
 - image: "/uploads/bandeau-article-henri-verdier-def_0.jpg"
 ---
 
-### Après un an en tant qu’administrateur général des données, quel état des lieux dressez-vous de la production, la circulation et l’utilisation des données de l’État ? 
+### Après un an en tant qu’administrateur général des données, quel état des lieux dressez-vous de la production, la circulation et l’utilisation des données de l’État ?
 
 **HENRI VERDIER.** Il y a une longue histoire des relations entre l'Etat et les données, et l'Etat a bien souvent joué un rôle moteur dans le développement de nouvelles méthodes tout comme dans la production de grands référentiels. On aurait du mal à imaginer la France d'aujourd'hui sans les données de l'INSEE, de Météo France ou de l'IGN, pour ne citer qu'elles.
 
@@ -27,14 +27,14 @@ Ce qui change aujourd'hui, pour l'Etat comme pour tous les acteurs économiques 
 
 *Il faut que l'Etat apprenne à organiser ses données pour permettre toutes les utilisations possibles.*
 
- 
+
 
 Comme toute grande institution, **il faut que l'Etat apprenne à organiser ses données pour en permettre toutes les utilisations possibles,** tout en garantissant la sécurité nécessaire instaurée par les différents secrets légaux (vie privée, bien entendu, mais aussi secret industriel et commercial, sécurité nationale, etc.).
 
 En quelques années, des progrès notables ont été réalisés sur cette question importante. Mais la **« révolution de la donnée » avance rapidement, et il y a encore de nombreuses choses à faire pour en tirer tout le potentiel.**
 
- 
-*La "circulation des données", ce n'est pas l'ouverture totale. C'est la recherche d'un optimum.* 
+
+*La "circulation des données", ce n'est pas l'ouverture totale. C'est la recherche d'un optimum.*
 
 
 ### Au cours de vos premières expérimentations, quels principaux freins avez-vous constatés au bon usage de ces données ?
@@ -56,13 +56,13 @@ La deuxième difficulté est l'abandon d'une forme de contrôle sur notre inform
 **HV.** Effectivement. Le plus important, sans doute, pour faire avancer la pratique des datasciences est d'en prouver la valeur pour l'Etat et d’en diffuser largement la maîtrise. Le pari est **qu'au fur et à mesure de la banalisation de ces méthodes, les principes de bonne gouvernance de la donnée paraîtront évidents.**
 
 En effet, **de très nombreuses dimensions de l'action publique peuvent - vont - être substantiellement améliorées grâce à l'utilisation de ces données et de ces outils. Mieux prédire de grands phénomènes** (épidémies, tensions sur le marché de l'emploi…), **mieux comprendre des événements plus individuels** (cambriolages, accidents de la route, fraude fiscale…), piloter des politiques en temps réel, allouer ses ressources avec pertinence... Toutes ces possibilités - et bien d'autres - sont ouvertes avec des moyens très modérés, pourvu que les données soient accessibles et que quelques compétences rares soient intégrées au sein de l'Etat.
- 
+
 
 > ### Les datasciences, qu’est-ce que c’est ?
 >
 >Les datasciences – ou sciences de la donnée – sont une nouvelle discipline visant à extraire des données des informations utiles et à concevoir de nouveaux usages, de nouveaux services. Elles s’appuient pour cela sur un ensemble de méthodes, alliant statistiques, mathématiques, informatique et visualisation des données.
-{: .encadre}
- 
+{: .encadre role="presentation" }
+
 
 ### À quelles problématiques avez-vous appliqué les datasciences, et pour quels résultats ?
 
@@ -81,9 +81,9 @@ HV. Le rapport formule plusieurs recommandations et cette ambition va être l'un
 Les autres recommandations visent à engager les réformes nécessaires en adoptant le plus souvent possible les approches ouvertes et contributives qui font le succès des stratégies « open data » : organiser avec les administrations volontaires le recensement des données disponibles selon une logique ouverte, construire avec la CNIL et les administrations un « pack de conformité » définissant un ensemble de bonnes pratiques de traitement de données potentiellement à caractère personnel, muscler les méthodes d'anonymisation de fichiers disponibles dans l'Etat, mettre les différentes initiatives en réseau pour qu'elles partagent leurs bonnes pratiques. Ces premières mesures permettraient de faire entrer profondément la question des données dans la palette des outils au service de la transformation de l’action publique.
 
 
-> [Télécharger le rapport 2015 de l'administrateur général des données sur la gouvernance de la donnée](https://www.modernisation.gouv.fr/sites/default/files/rapport_agd_decembre2015.pdf) 
-{: .lien-important} 
- 
+> [Télécharger le rapport 2015 de l'administrateur général des données sur la gouvernance de la donnée](https://www.modernisation.gouv.fr/sites/default/files/rapport_agd_decembre2015.pdf)
+{: .lien-important role="presentation" }
+
 
 
 

@@ -32,7 +32,7 @@ Les principes de redevabilité, de transparence et de participation énoncés da
 * **Art. 6**. La Loi est l'expression de la volonté générale. Tous les Citoyens ont droit de concourir personnellement, ou par leurs Représentants, à sa formation.
 * **Art. 14**. Tous les Citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée.
 * **Art. 15**. La Société a le droit de demander compte à tout Agent public de son administration.
-{: .encadre}
+{: .encadre role="presentation" }
 
 #### Quatre principes déclinés dans des plans d'actions nationaux
 Les 69 Etats membres du PGO adhèrent à quatre grands principes : la transparence de l'action publique, la participation citoyenne, l'intégrité de l'administration et l'utilisation des technologies numériques. Ils s'engagent, en outre, à les traduire dans des plans d'actions établis pour une durée de deux ans.
@@ -56,7 +56,7 @@ Les initiatives de coproduction législative ne sont pas propres à la France, m
 
 La place accordée à la participation citoyenne est un marqueur du modèle français de gouvernement ouvert. Tous les Etats membres du PGO ne lui accordent pas la même importance. Le Royaume-Uni, par exemple, se focalise davantage sur la transparence.
 
-#### L'open data porte un mode de transformation 
+#### L'open data porte un mode de transformation
 <figure class='image-left' style='width: 40%; margin-right: 10px;'>
 <img src="/uploads/laurelucchesi-500px.png"/>
 </figure>
@@ -71,5 +71,5 @@ Dans une logique de gouvernement ouvert, l'action publique gagnerait à s'appuye
 Le suivi du premier plan d'action français fera l'objet d'une évaluation à mi-parcours cet été. Les huit pays fondateurs du PGO (Afrique du Sud, Brésil, États-Unis, Indonésie, Mexique, Norvège, Philippines et Royaume-Uni) en sont, pour leur part, à leur deuxième ou troisième version. Partie avec un temps de retard, la France s’est engagée avec ambition dans le PGO et y a vite pris des responsabilités croissantes. Par rapport à d’autres pays où l’Etat est plus décentralisé, l’ouverture de l’action publique en France peut permettre d’opérer une mutation de grande ampleur.
 
 > [Consulter le plan d'action national 2015-2017](https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/pgo_plan_action_france_2015-2017_fr.pdf){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 

@@ -13,7 +13,7 @@ chapeau-text: Le Premier ministre avait lancé en mai dernier une mission portan
   au centre), auditeur à la Cour des Comptes, a remis son rapport le 8 décembre 2015.
 une-ou-diaporama:
 - image: "/uploads/rapport-fouilleron_une.jpg"
-Key: 
+Key:
 ---
 
 **Près de 20 millions d’euros :** c’est le montant des dépenses publiques consacré en 2014 à l’achat de données entre administrations. La mission confiée par le Premier ministre en mai 2015 à Antoine Fouilleron, auditeur à la Cour des Comptes, avait pour but d’établir **une cartographie de ces transactions financières, d’analyser les mécanismes susceptibles de s’y substituer**, et d’explorer les solutions  de nature à **simplifier les échanges de données entre administrations.**
@@ -38,4 +38,4 @@ Les freins à la circulation des données au sein du secteur public ne sont pour
 Des démarches concrètes seront engagées **pour faciliter et normaliser les échanges de données** et accroître la communication entre administrations, appuyées par le secrétariat général pour la modernisation de l’action publique (SGMAP) et l’administrateur général des données.
 
 > [Télécharger le rapport  "Les échanges de données réalisés à titre onéreux entre les administrations"](https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/rapport_echanges-donnees-entre-administrations.pdf){:target="_blank"}
-{: .lien-important }
+{: .lien-important role="presentation"  }

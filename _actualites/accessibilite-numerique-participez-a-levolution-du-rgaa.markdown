@@ -24,7 +24,7 @@ Présentation de l’information, couleurs, tableaux, formulaires… Les critèr
 {: .text-center}
 
 > [Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/ "Accéder à la plateforme de consultation dédiée à l’évolution du RGAA - Nouvelle fenêtre"){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 > #### L’accessibilité et le RGAA en bref
 >
@@ -69,7 +69,7 @@ Cette consultation s’adresse principalement aux **concepteurs et développeurs
 Un groupe de travail collaboratif est animé par la DINSIC sur une plateforme web :
 
 > [Accéder à la plateforme de consultation dédiée à l’évolution du RGAA](http://evolution-rgaa.numerique.gouv.fr/ "Accéder à la plateforme de consultation dédiée à l’évolution du RGAA - Nouvelle fenêtre"){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 La DINSIC y publie régulièrement **jusqu'à fin mai** des **propositions d'ajouts, de modifications ou de suppression de critères et de tests**. Les thèmes traités respectent l'organisation du RGAA : images, cadres, couleurs, tableaux, liens, formulaires, navigation, etc.
 
@@ -80,8 +80,8 @@ Pour participer au groupe de travail en ligne, il est nécessaire de s'identifie
 A l'issue des discussions par thèmes et par critères, la DINSIC publiera la nouvelle version du RGAA pour relecture globale. Cette 2e consultation aura lieu durant le mois de juin sur la même plateforme.
 
 > #### Le saviez-vous ?
-> 
+>
 > * [Plus de 40 ressources et outils](http://references.modernisation.gouv.fr/ressources "Plus de 40 ressources et outils - Nouvelle fenêtre"){:target="_blank"} associés au RGAA, réalisés par la DINSIC, facilitent la mise en œuvre de l’accessibilité numérique
 > * Les critères d’accessibilité obligatoires sont intégrés dans la [checklist Pidila](https://pidila.gitlab.io/checklist-pidila/ "checklist Pidila - Nouvelle fenêtre"){:target="_blank"} qui permet de vérifier la qualité des interfaces et des projets web au fur et à mesure du développement
 > * Les objectifs de qualité que doivent viser les démarches en ligne sont présentés dans [les 10 principes d'une démarche exemplaire](https://www.numerique.gouv.fr/publications/dix-principes/ "les 10 principes d'une démarche exemplaire").
-{: .encadre}
+{: .encadre role="presentation" }

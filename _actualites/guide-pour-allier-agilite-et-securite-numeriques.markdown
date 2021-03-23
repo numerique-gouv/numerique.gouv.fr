@@ -15,7 +15,7 @@ chapeau-text: Vous développez des services numériques en mode agile ? Leur sé
   aujourd’hui dans un guide ouvert à tous.
 une-ou-diaporama:
 - image: "/uploads/guide_agilite-et-securite-numeriques_une.png"
-  alternative-textuelle: 
+  alternative-textuelle:
 ---
 
 Fournir un service de qualité à l’utilisateur, à moindre coût, qui réponde à ses besoins tout en le protégeant des fraudes, cyberattaques et autres vols de données personnelles. C’est en intégrant au plus tôt dans le développement les principes de l’agilité et de sécurité numériques que cet objectif peut être tenu.
@@ -30,8 +30,8 @@ Si la méthode a été prioritairement élaborée pour des administrations, elle
 {: .text-center}
 
 > [Télécharger le guide Agilité & sécurité numériques - Méthode et outils à l'usage des équipes projet](/uploads/guide_agilite-et-securite-numeriques.pdf) (pdf - 3,10 Mo)
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 > ## Participez à l’évolution du guide
 Déjà enrichie après une phase d’appel à commentaires, la présente version du guide ne constitue encore qu’un point de départ. Appliquez à votre tour la méthodologie proposée, telle quelle ou en l’adaptant, et faites-nous part de vos retours d’expérience et suggestions à [securite-agile@beta.gouv.fr](mailto:securite-agile@beta.gouv.fr). Comme toute équipe agile, nous nous engageons à tenir compte des enseignements du terrain.
-{: .encadre}
+{: .encadre role="presentation" }

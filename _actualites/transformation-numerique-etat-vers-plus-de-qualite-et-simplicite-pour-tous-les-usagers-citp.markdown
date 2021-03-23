@@ -32,7 +32,7 @@ Un nouveau point d’étape qui accorde une large place au volet numérique port
 
 > Nous avons repensé la dématérialisation des services publics à partir de l’expérience des usagers et fait de l’accompagnement dans leurs démarches une priorité.
 {: .citation}
-> **Cédric O** 
+> **Cédric O**
 > <br>Secrétaire d’État chargé du Numérique
 {: .auteur-citation}
 {: .margin-bottom-0}
@@ -85,4 +85,4 @@ Un laboratoire – **le lab IA** – installé au sein de la DINUM soutient des 
 [![Retrouvez le détail des mesures du 4e CITP (pdf - 1,4 Mo)](/uploads/capture-dp-citp4-200.png){: width="100px" height="141px"}](/uploads/dossier_de_presse-4eme_comite_interministeriel_de_la_transformation_publique.pdf)
 {: .text-center}
 > [Retrouvez le détail des mesures du 4e CITP (pdf - 1,4 Mo)](/uploads/dossier_de_presse-4eme_comite_interministeriel_de_la_transformation_publique.pdf)
-{: .lien-important}
+{: .lien-important role="presentation" }

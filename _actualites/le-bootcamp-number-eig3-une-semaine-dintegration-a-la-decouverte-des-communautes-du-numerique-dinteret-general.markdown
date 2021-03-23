@@ -21,4 +21,4 @@ redirection: https://www.etalab.gouv.fr/eig3-une-semaine-dintegration-a-la-decou
 ---
 
 > [Lire la suite sur etalab.gouv.fr](https://www.etalab.gouv.fr/eig3-une-semaine-dintegration-a-la-decouverte-des-communautes-du-numerique-dinteret-general)
-{: .lien-important}
+{: .lien-important role="presentation" }

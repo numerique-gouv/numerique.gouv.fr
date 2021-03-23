@@ -21,4 +21,4 @@ redirection: https://blog.beta.gouv.fr/dinsic/2020/10/12/decouvrez-les-laureats-
 ---
 
 > [Lire la suite sur beta.gouv.fr](https://blog.beta.gouv.fr/dinsic/2020/10/12/decouvrez-les-laureats-du-fast-5-candidatez-au-fast-6/)
-{: .lien-important}
+{: .lien-important role="presentation" }

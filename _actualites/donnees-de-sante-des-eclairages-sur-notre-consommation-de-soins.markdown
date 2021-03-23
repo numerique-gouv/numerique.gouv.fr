@@ -22,7 +22,7 @@ une-ou-diaporama:
 
 Ces fichiers - [prochainement publiés en données ouvertes sur data.gouv.fr ](https://www.data.gouv.fr/fr/organizations/caisse-nationale-de-l-assurance-maladie-des-travailleurs-salaries/){: target="_blank"} sous le nom de « Open Damir » - constituent une ressource massive de données, équivalant à plus de 1,5 milliard de lignes csv (un format informatique ouvert). C’est la première fois qu’un hackathon propose autant de données publiques en France. Elles ont été requêtées, analysées, traitées, croisées par les 80 participants du hackathon, issus d’horizons divers : organismes publics du secteur médical, entreprises, assureurs, start-ups…
 
- 
+
 
 ### Analyse des données de santé : les premiers enseignements
 
@@ -32,10 +32,10 @@ La start-up Withings s’est quant à elle penchée sur [l’influence des modes
 
 Une autre équipe de développeurs a travaillé sur **l’anonymisation des données**, une problématique essentielle en ce qui concerne les données de santé. Elle a tenté de la « craquer », pour vérifier qu’il n’y avait aucun risque de ré-identification directe ou indirecte des personnes concernées.  Elle complétait des tests préalables à l’ouverture des données de santé effectués par la CNAMTS. Pour cette équipe, l’échec a été un succès : aucune ré-identification n’a été possible.
 
- 
+
 
 
 >### Le hackathon ou comment réutiliser des données ouvertes pour produire du service
 >
 >Un hackathon permet de faire travailler ensemble et de manière collaborative, pendant une ou deux journées, des personnes dotées de compétences techniques (programmateurs, datascientists…) et des experts métiers sur un sujet précis ou autour de ressources particulières. Des hackathons – ou open data camps - sont régulièrement organisés par la mission Etalab de manière à anticiper ou à accompagner l’ouverture de données publiques sur le portail [data.gouv.fr](https://www.data.gouv.fr/fr/){: target="_blank"} . Des données sont mises à la disposition des participants afin qu’ils produisent des visualisations de données (« dataviz »), des analyses et des applications. A la suite d’un hackathon, les données sont généralement ouvertes à tous, publiées sur data.gouv.fr.
-{: .encadre}
+{: .encadre role="presentation" }

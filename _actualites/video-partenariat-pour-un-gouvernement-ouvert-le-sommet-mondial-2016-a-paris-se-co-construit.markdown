@@ -20,4 +20,4 @@ une-ou-diaporama:
 Tout citoyen est invité à contribuer au programme en proposant des événements, jusqu'au 20 juillet, via la [plateforme en ligne ogpsummit.org](https://ogpsummit.org/){:target="_blank"}.
 
 > [Proposer une session](https://ogpsummit.org/){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }

@@ -20,4 +20,4 @@ redirection: https://www.etalab.gouv.fr/programme-entrepreneurs-dinteret-general
 ---
 
 > [Consulter les défis de la quatrième promotion](https://www.etalab.gouv.fr/programme-entrepreneurs-dinteret-general-decouvrez-les-17-defis-de-la-quatrieme-promotion)
-{: .lien-important}
+{: .lien-important role="presentation" }

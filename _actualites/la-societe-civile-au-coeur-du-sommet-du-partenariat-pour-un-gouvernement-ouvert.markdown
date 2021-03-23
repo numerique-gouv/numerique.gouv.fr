@@ -15,7 +15,7 @@ une-ou-diaporama:
 - image: "/uploads/societe-civile-ogp_une.jpg"
 ---
 
-Dans le grand hall du Palais d'Iéna régnait début décembre une effervescence inhabituelle. Plusieurs milliers de visiteurs s’y sont réunis à l'occasion du Sommet mondial du Partenariat pour un gouvernement ouvert (PGO). Des espaces de démonstration, de travail et d'échanges (un hackathon nocturne s'est tenu le jeudi) ont été aménagés ainsi qu'un studio multimédia. 
+Dans le grand hall du Palais d'Iéna régnait début décembre une effervescence inhabituelle. Plusieurs milliers de visiteurs s’y sont réunis à l'occasion du Sommet mondial du Partenariat pour un gouvernement ouvert (PGO). Des espaces de démonstration, de travail et d'échanges (un hackathon nocturne s'est tenu le jeudi) ont été aménagés ainsi qu'un studio multimédia.
 
 <figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/place-to-do-ogp.jpg"/>
 </figure>**Le QG médias des citoyens a organisé une série de débats et de rencontres en marge des conférences et ateliers du programme officiel, qui se déroulaient dans les salles attenantes.** Au micro se sont succédés des membres de collectifs citoyens, des acteurs de la civic tech, des chercheurs, des politiques, des blogueurs et des journalistes. Ils ont débattu des grands thèmes du moment, n'hésitant pas à s'emparer de questions sensibles.
@@ -34,14 +34,14 @@ Ces associations sont elles-mêmes confrontées à la nécessité d’inclure de
 En revanche, l'initiative [« My building doesn't recycle »](http://mybuildingdoesntrecycle.com/){:target="_blank"} a débouché sur une loi qui oblige les immeubles comptant au moins cinq appartements à mettre en place des services de recyclage. Les outils numériques proposés par les civc tech outillent les communautés et permettent de toucher des profils nouveaux, qui ne se rendent pas forcément aux réunions publiques.
 
 > #### Utopies numériques
-> 
+>
 > Entre numérique et démocratie, c'est une longue histoire dont les civic tech constituent le dernier prolongement. David Prothais, de la start up [Eclectic Experience](http://www.eclectic-experience.net/){:target="_blank"}, la retrace en trois grandes étapes.
 > * Avec la cybernétique, dans les années 50, est apparu le rêve de machines à gouverner. Cette vision fonctionnaliste et rationaliste avait omis un paramètre essentiel : la politique est avant tout une affaire de choix faits par des hommes.
 > <br>
 > * Vingt ans plus tard, des réseaux de télévision locale aux Etats-Unis retransmettaient des séances de conseils municipaux permettant de s'affranchir des contraintes spatio-temporelles. Le mouvement s'est essoufflé.
-> <br> 
+> <br>
 > * L'avènement d'Internet dans les années 90 a fait naître le concept de cyber démocratie, une forme d'horizontalité et de gouvernance partagée. Aujourd’hui, de nouveaux équilibres sont à définir afin de garantir cette gouvernance distribuée et d’ouvrir Internet à tous les acteurs.
-{: .encadre}
+{: .encadre role="presentation" }
 
 #### Le quatrième pouvoir œuvre pour la démocratie
 
@@ -49,8 +49,8 @@ La presse et les médias n'échappent au mouvement de défiance qui touche les i
 L'ICIJ (International Consortium for Investigate Journalism) a mis à leur disposition les documents, une plate-forme d'échange et des outils pour fouiller les textes afin d'identifier des relations entre des sociétés et des personnes. Après la publication d'articles en avril dernier dans le monde entier, quelque 6 000 personnes font aujourd'hui l'objet d'enquêtes ou de poursuites. Une première victoire. *« Il faudra du temps pour changer les législations et intenter des procès »*, ajoute Cécile Schilis-Galego d'ICIJ.
 
 > #### CFI promeut une culture de l'open data
-> 
+>
 W Dans le cadre du programme [Open data médias](http://www.cfi.fr/fr/projet/opendata-medias){:target="_blank"}, l'agence de coopération médias du ministère des Affaires étrangères et du développement international CFI a convié 50 journalistes et acteurs de la société civile de quinze pays d'Afrique, du Moyen-Orient et d'Asie du Sud-Est, à participer au sommet du PGO. Lors d’ateliers de préparation, ils avaient été préalablement formés à la collecte et la réutilisation des données ouvertes. Durant le Sommet, ils ont pu approfondir leurs échanges et développer des outils afin de pousser leurs pays à adhérer au Partenariat pour un gouvernement ouvert et accélérer les réformes en la matière.
 > <br>
 > [Voir la restitution de CFI lors de la cérémonie de clôture](https://www.youtube.com/watch?v=toJaj0K9KXM&feature=youtu.be&t=15834){:target="_blank"}
-{: .encadre}
+{: .encadre role="presentation" }

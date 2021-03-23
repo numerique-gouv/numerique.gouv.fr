@@ -14,7 +14,7 @@ La 4e édition du panorama piloté par la « DSI de l’Etat » passe en revue *
 Un nouveau chantier fait son entrée dans le tableau de bord : **la modernisation des centres d’information et de commandement (MCIC2) de la police nationale**, lancée début 2015. Avec un budget prévisionnel de 30,8 millions d’euros sur près de six ans et demi de travaux, le projet vise à doter ces centres d’un outil moderne pour gérer de façon optimale les urgences, les interventions et les ressources sur le terrain, en tirant profit des fonctionnalités offertes par la révolution numérique : remontée d’information via les réseaux sociaux, les médias en ligne, réception de photos, vidéos, utilisation de la mobilité…
 
 Achevé en octobre dernier, le projet d’**offre d’infrastructure de gestion de clés (IGC)** des ministères économiques et financiers est quant à lui le neuvième à sortir du panorama. Cette offre permet de délivrer des certificats électroniques garantissant la sécurité des données et échanges numériques, conformément aux normes du référentiel général de sécurité (RGS) et européen (e-IDAS). Après presque trois années de travaux, le coût total du chantier se révèle inférieur de 25% au budget initialement prévu.
- 
+
 
 
 ### Une tendance à la stabilité
@@ -31,18 +31,18 @@ Dans les mois à venir, plusieurs projets doivent se terminer et sortir du panor
 1. **Le réseau interministériel de l’Etat (RIE)**, qui remplace progressivement les différents réseaux exploités par les 17 ministères.
 Les gains de cette infrastructure partagée ? Une seule maintenance, une seule gestion de la sécurité et surtout un seul canal pour échanger des données entre ministères. Opéré par un service à compétence nationale rattaché à la DINSIC, au sein du SGMAP, ce projet emblématique de la modernisation du SI de l’Etat achèvera son déploiement fin 2017 (consulter le [rapport d’activité 2016 du RIE](https://www.modernisation.gouv.fr/documentation/publications/rapport-activite-2016-reseau-interministeriel-etat){: target="_blank"}
 ).
- 
+
 2. Le projet **Alpha** de système d’information unique pour la gestion des achats du ministère des Armées.*
 Lancé opérationnellement en avril 2015, il vise à harmoniser et simplifier les processus achats de l’ensemble des entités du ministère, et contribuera à sa performance en termes de coûts et de qualité.
- 
+
 3. **Chorus Portail Pro 2017** (CPP2017), chantier majeur permettant de mettre en œuvre la facturation électronique, qui devient obligatoire par étapes entre 2017 et 2020 pour les fournisseurs de l’État, des collectivités territoriales et des établissements publics.
 Depuis janvier 2017, le portail unique sécurisé [Chorus Pro](https://chorus-pro.gouv.fr/cpp/utilisateur?execution=e1s1https://chorus-pro.gouv.fr/cpp/utilisateur?execution=e1s1){: target="_blank"}
  permet déjà le dépôt, la réception et la transmission des factures électroniques. A terme, plus d’un million de fournisseurs de la sphère publique pourront accéder à ce service.
- 
+
 4. La seconde version du portail interministériel de la correspondance diplomatique (**Diplomatie v2**), piloté par le ministère de l’Europe et des Affaires étrangères.
 Via une architecture modernisée, ce réseau social professionnel au cœur de métier du Quai d’Orsay offre d’ores et déjà, une meilleure ergonomie à ses milliers d’utilisateurs dans le monde entier.
 
- 
+
 
 Autre point notable, le portail [france-visas.gouv.fr](https://france-visas.gouv.fr/){: target="_blank"} a ouvert en version béta début octobre permettant ainsi la modernisation de la gestion des demandes de visas dans le monde entier avec six premières langues et de mieux lutter contre la fraude.
 
@@ -56,4 +56,4 @@ Rendu public pour la première fois en novembre 2016, le panorama des grands pro
 >Conçu à l’origine pour le gouvernement, ce panorama est avant tout un outil de pilotage interne permettant de suivre et sécuriser les grands projets SI de l’Etat. Son ouverture au public offre une vision détaillée des grandes transformations informatiques en œuvre au sein de l’Etat.
 ><br>
 >[En savoir plus](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){: target="_blank"}{: .lien-important }
-{: .encadre}
+{: .encadre role="presentation" }

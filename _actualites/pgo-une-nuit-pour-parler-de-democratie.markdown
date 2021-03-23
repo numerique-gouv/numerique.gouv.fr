@@ -18,7 +18,7 @@ une-ou-diaporama:
 Révolution numérique et démocratie, pouvoir d’agir et intelligence collective, renouveau de l’éducation : trois thématiques au cœur du débat de cette nuit riche en idées. La soirée a été introduite par Timothy Garton Ash, professeur en études européennes à l'université d'Oxford. Découvrez une partie des échanges qui ont fait vibrer cette soirée.
 > <br>
 > **La nuit de la démocratie** a été modérée par Julien Letailleur, avatar de la participation citoyenne sur la plateforme Toguna permettant aux citoyens de prendre part au débat. Au total, 70 propositions et 2 000 votes ont été comptabilisés sur la plateforme. Les participants ont proposé des axes de programme pour une éventuelle candidature de Julien Letailleur pour représenter la société civile au sein du Comité directeur de l’OGP.
-{: .encadre}
+{: .encadre role="presentation" }
 
 #### La démocratie et la révolution numérique
 
@@ -45,7 +45,7 @@ Pour Nigel Shalbolt, les nouvelles technologies évoluent sans cesse et garantir
 > <br>
 > **Joël de Rosnay, prospectiviste :**<br>
 « Alors la conversation dont tu parles Henry, c’est très important mais la conversation n’est pas porteuse de pouvoir. Les réseaux sociaux ont un sentiment diffus du pouvoir mais qui ne s’exerce par réellement. La  question fondamentale c’est, comme tu le dis, la désinformation, les mensonges sont la règle d’or de beaucoup de ces réseaux qui s’amplifie… Un mensonge répété fini par devenir une vérité…Il faut que la décision collective puisse être doublée d’une évaluation collective ».
-{: .encadre}
+{: .encadre role="presentation" }
 <figure class='image-centre' style='width: 80%;'>
 <img src="/uploads/nuit-democratie-pgo-verdier.jpg"/></figure>
 {: .text-center}
@@ -76,4 +76,4 @@ Pour Sandra Laugier, la démocratie n’est plus une question institutionnelle, 
 > <br>
 **La soirée s’est poursuivie** autour de la problématique du renouvellement de la l’éducation. Jérémy Lachal, directeur at Bibliothèques Sans Frontières, Navi Radjou, auteur intervenant et stratégiste, et François Taddei, biologiste au centre de recherches interdisciplinaires, sont intervenus sur cette troisième et dernière partie de la nuit de la démocratie.<br>
 > [Regarder les interventions sur ce thème](https://www.youtube.com/watch?v=3RhHtl2uQvs&feature=youtu.be&t=8217){:target="_blank"}
-{: .encadre}
+{: .encadre role="presentation" }

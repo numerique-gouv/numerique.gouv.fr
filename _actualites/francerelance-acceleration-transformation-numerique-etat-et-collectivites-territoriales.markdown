@@ -23,4 +23,4 @@ redirection: https://www.transformation.gouv.fr/la-ministre/actualite/francerela
 ---
 
 > [Lire la suite sur transformation.gouv.fr](https://www.transformation.gouv.fr/la-ministre/actualite/francerelance-acceleration-de-la-transformation-numerique-de-letat-et-des)
-{: .lien-important}
+{: .lien-important role="presentation" }

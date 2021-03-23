@@ -21,7 +21,7 @@ L’observatoire de la qualité des services publics numériques  est à la fois
 [![Consulter l'observatoire de la qualité des services numériques](/uploads/capture-observatoire-oct2019-851502.png){: width="200px" height="165px" }](https://observatoire.numerique.gouv.fr/)
 {: .text-center}
 > **[Consulter l’observatoire](https://observatoire.numerique.gouv.fr/)**
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 
 ### Un nouveau critère de qualité suivi
@@ -38,11 +38,11 @@ Comment calcule-t-on cet indicateur ? On mesure l’effort demandé à l’usage
 
 C’est bien là tout l’enjeu de l’observatoire : identifier les démarches et points à améliorer en priorité. Sur la base des résultats de l’observatoire, la DINUM repère les administrations et projets à accompagner spécifiquement. Elle renforce pour cela ses capacités de conseil et d’appui en matière de design des services publics numériques. Elle met également à leur disposition un guichet « Dites-le-nous une fois » et une offre d’appui associée afin de les aider dans la mise en œuvre de ce principe.
 
-De premiers travaux d’amélioration sont en cours dans les administrations porteuses des démarches en ligne. Par exemple, l’agence nationale des titres sécurisés (ANTS), qui gère notamment les procédures d’immatriculation des véhicules, a entrepris une démarche davantage centrée sur l’utilisateur afin de concevoir les prochaines versions, à travers notamment des tests usagers réalisés cet été. 
+De premiers travaux d’amélioration sont en cours dans les administrations porteuses des démarches en ligne. Par exemple, l’agence nationale des titres sécurisés (ANTS), qui gère notamment les procédures d’immatriculation des véhicules, a entrepris une démarche davantage centrée sur l’utilisateur afin de concevoir les prochaines versions, à travers notamment des tests usagers réalisés cet été.
 
 > En rendant public cet observatoire, le Gouvernement tient à faire état de l’avancée de la dématérialisation des services publics en toute transparence. Beaucoup reste à faire pour être à la hauteur des attentes de nos concitoyens mais je tiens à saluer l’engagement de tous les services de l’État qui, en lien avec la DINUM, engagent un travail colossal qui a pour seul objectif de simplifier et faciliter les démarches des usagers.
 {: .citation}
-> **Cédric O** 
+> **Cédric O**
 > <br>Secrétaire d’État chargé du Numérique
 {: .auteur-citation}
 
@@ -50,4 +50,4 @@ Rendez-vous au prochain trimestre pour la prochaine édition de l’observatoire
 
 <br>
 > **[Consulter l’observatoire](https://observatoire.numerique.gouv.fr/)**
-{: .lien-important}
+{: .lien-important role="presentation" }

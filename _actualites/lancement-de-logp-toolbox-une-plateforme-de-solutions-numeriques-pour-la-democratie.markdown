@@ -27,24 +27,24 @@ Les 7, 8, et 9 décembre 2016, la France a accueilli à Paris le Sommet du Parte
 
 [Plusieurs événements](https://fr.2016.ogpsummit.org/the-open-government-toolbox/){:target="_blank"} ont jalonné la construction de l' [OGP toolbox](https://ogptoolbox.org/fr/){:target="_blank"} tout au long de l’année 2016 en France et à l’international, allant de la définition des structures de la plateforme aux propositions de logiciels ou de services concrets, ou encore aux collaborations internationales autour d’outils numériques. Ces sprints de contribution ont été organisés depuis le lancement de la démarche de coconstruction du Sommet en avril, pour permettre aux agents de l’administration, aux représentants de la société civile, aux entreprises, aux start-ups et aux membres de la communauté civic tech de concevoir ensemble ce commun numérique.
 
-#### La plateforme OGP toolbox c’est quoi ? 
+#### La plateforme OGP toolbox c’est quoi ?
 
 L’OGP toolbox est une plateforme collaborative. Elle référence les outils numériques (logiciels et services) qui permettent de consulter, mobiliser, exercer un contrôle citoyen, participer au débat public, coconstruire des budgets, etc. En développant ce catalogue mondial, la mission Etalab du SGMAP et l’ensemble de la communauté réunie proposent  d’outiller administrations et organisations de la société civile pour mettre en œuvre des démarches numériques d’Open government.
 
 Après une série d’événements contributifs, organisés entre avril et décembre 2016 en France et à l’international, la plateforme OGP toolbox a été présentée le 7 décembre 2016 à l’Elysée. Elle contient plus de 1 230 outils, près de 180 cas d’usage et référence plus de 500 organisations. Ces outils permettent de développer la démocratie au-delà de l’isoloir, qu’il s’agisse de budgets participatifs (comme ceux menés par les villes de [Paris](https://budgetparticipatif.paris.fr/bp/){:target="_blank"} et de [Madrid](https://decide.madrid.es/){:target="_blank"}), de la contribution à des élections plus ouvertes et transparentes (avec des plateformes comme [voxe.org](www.voxe.org){:target="_blank"}, [laprimaire.org](https://laprimaire.org/){:target="_blank"}, [#MaVoix](https://laprimaire.org/){:target="_blank"}) ou encore, de développer les consultations publiques en ligne (comme celle autour du [projet de Loi pour une République numérique](https://www.republique-numerique.fr/){:target="_blank"}, ou plus récemment celle sur la stratégie numérique de l’[Agence française de développement](https://consultation-numerique.afd.fr/){:target="_blank"}.
 
-#### Le hackathon OGP toolbox : 70 projets développés durant le sommet 
+#### Le hackathon OGP toolbox : 70 projets développés durant le sommet
 <figure class='image-centre' style='width: 100%; margin-right: 10px;margin-leftt: 10px;'><img src="/uploads/hackathon-ogp.jpg"/></figure>
 {: .text-center}
 
 Le hackathon OGP toolbox, a été initié au Palais de l’Elysée le 7 décembre et a été ouvert en continu au palais d’Iéna les 8 et 9 décembre. Pendant le Sommet, les communautés du gouvernement ouvert (administrations, porteurs de projets associatifs, collectifs de développeurs) ont participé à son enrichissement : en référençant de nouveaux outils, en partageant des cas d’usages, en développant de nouvelles fonctionnalités, en déclinant des plateformes existantes pour d’autres pays. Plus de 500 participants se sont réunis et 70 projets ont été développés. Ce hackathon, temps fort du Sommet a permis de dessiner un trait d’union entre des écosystèmes parfois éloignés.
 
-> <br> 
+> <br>
 *Hackathon* : Evènement d’une ou deux journées pendant lequel des développeurs se réunissent pour travailler ensemble sur des ressources ouvertes et en proposer des réutilisations concrètes.
-{: .encadre}
+{: .encadre role="presentation" }
 
 Ce sont les collaborations techniques à long terme entre administrations et organisations de la société civile de différents pays qui ont apporté les contributions les plus significatives à l’OGP toolbox et qui ont, à ce titre, été encouragées par les organisateurs lors de ces trois jours de travail.
- 
+
 #### Zoom sur quatre projets développés lors du sommet
 
 **Un modèle ouvert** : OpenFisca
