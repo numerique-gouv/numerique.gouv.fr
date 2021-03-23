@@ -29,9 +29,12 @@ event_end_date: 2021-04-08 18:00:00 +02:00
 afficher_la_carte: false
 champs_informations:
 - intitule: Modalités
-  contenu: 'sur YouTube '
+  contenu: inscription conseillée
   lien: https://framaforms.org/letat-centre-usager-oui-cest-possible-1613408477
-  Key: https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw
+- intitule: A suivre en direct
+  contenu: 'sur YouTube '
+  lien: https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw
+Field name: 
 ---
 
 ## 3 soirées à ne pas manquer
