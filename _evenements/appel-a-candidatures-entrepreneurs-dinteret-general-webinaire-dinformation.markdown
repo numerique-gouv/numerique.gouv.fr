@@ -21,8 +21,8 @@ event_start_date: 2021-03-30 14:00:00 +02:00
 event_end_date: 2021-03-30 15:00:00 +02:00
 afficher_la_carte: false
 champs_informations:
-- intitule: Inscription obligatoire
-  contenu: 
+- intitule: Modalités
+  contenu: inscription obligatoire
   lien: https://app.livestorm.co/dinum-12/aac-eig5-webinaire-info-2
 - intitule: 
   contenu: 
