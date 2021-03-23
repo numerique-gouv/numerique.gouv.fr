@@ -36,4 +36,3 @@ Pour préparer vos questions, vous pouvez consulter [la page dédiée aux candid
 
 Questions et informations : eig@data.gouv.fr
 
-[Consulter l'appel à candidatures](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html)
