@@ -38,12 +38,13 @@ layout: default
     <h2 class="font-bold text-center margin-bottom-3 ">{{ page.titre-twitter }}</h2>
     <div class="grid-container">
       <div class="grid-x grid-margin-x">
-        {% for twitter in page.twitters %}
-        <div class="cell large-4 medium-6 small-12">
-          {% include components/twitter.html nbTweet=twitter.nbTweets address=twitter.address %}
+        <div class="cell large-4 medium-6 small-12" id="twitter-dinum">
+        <div class="cell large-4 medium-6 small-12" id="twitter-betagouv">
         </div>
-        {% endfor %}
+        <div class="cell large-4 medium-6 small-12" id="twitter-etalab">
+        </div>
       </div>
     </div>
   </section>
 </div>
+<script async src="https://platform.twitter.com/widgets.js"></script>
