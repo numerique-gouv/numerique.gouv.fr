@@ -1,6 +1,6 @@
 ---
 title: L'État centré usager ? Oui, c'est possible !
-date: 2021-03-23 18:44:00 +01:00
+date: 2021-03-23 18:48:00 +01:00
 categories:
 - Webinaire
 tags:
