@@ -27,7 +27,7 @@ layout: rgaa-accessibilite
 <ul>
 <li>Suppression des niveaux RGAA.</li>
 <li>Suppression de la référence aux principes WCAG.</li>
-<li>La mention "ARIA" a été systématiquement remplacée par "WAI-ARIA".</li>
+<li>La mention &quot;ARIA&quot; a été systématiquement remplacée par &quot;WAI-ARIA&quot;.</li>
 <li>La mention "propriété" WAI-ARIA a été remplacée par "attribut".</li>
 <li>Lorsqu'il est fait mention d'une balise ou d'un élément HTML, l'entité en question est délimitée par des chevrons ouvrant et fermant.</li>
 <li>Les notes techniques et les cas particuliers sont désormais directement associés au critère dont ils relèvent.</li>
