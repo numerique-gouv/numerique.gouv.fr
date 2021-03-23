@@ -28,12 +28,15 @@ event_start_date: 2021-04-06 18:00:00 +02:00
 event_end_date: 2021-04-08 18:00:00 +02:00
 afficher_la_carte: false
 champs_informations:
-- intitule: Modalités
-  contenu: inscription conseillée
-  lien: https://framaforms.org/letat-centre-usager-oui-cest-possible-1613408477
+- intitule: 3 dates à retenir
+  contenu: 6, 7, 8 avril 2021
+  lien: 
 - intitule: A suivre en direct
   contenu: 'sur YouTube '
   lien: https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw
+- intitule: Modalités
+  contenu: inscription conseillée
+  lien: https://framaforms.org/letat-centre-usager-oui-cest-possible-1613408477
 Field name: 
 ---
 
