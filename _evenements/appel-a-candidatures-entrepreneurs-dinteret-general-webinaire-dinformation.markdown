@@ -35,4 +35,3 @@ A cette occasion, l'équipe de coordination du programme organise deux webinaire
 Pour préparer vos questions, vous pouvez consulter [la page dédiée aux candidatures en ligne.](https://entrepreneur-interet-general.etalab.gouv.fr/candidature-eig.html)
 
 Questions et informations : eig@data.gouv.fr
-
