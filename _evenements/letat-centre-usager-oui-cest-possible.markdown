@@ -25,3 +25,5 @@ champs_informations:
 Les **6, 7 et 8 avril, venez échanger avec l'équipe du pôle Desing des services numériques de la DINUM à partir de 18h**. Cet événement est ouvert à tous et sera diffusé en direct sur notre chaine YouTube en 100% accessible (langue des signes française et transcription).
 
 [**## Consulter le programme en ligne**](https://design.numerique.gouv.fr/articles/2021-03-21-evenement-design/)
+
+*Un événement 100 % accessible (transcription : sous-titrage et langue des signes française (LSF))*
