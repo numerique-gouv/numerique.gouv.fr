@@ -55,7 +55,7 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
             <td headers="cookies-techniques data1">Algolia</td>
             <td headers="cookies-techniques data2">algoliasearch-client-js</td>
             <td headers="cookies-techniques data3">Permet d’afficher les résultats de recherche dans le moteur de recherche interne au site, et d’afficher les listes de contenus dans les rubriques du site</td>
-            <td headers="cookies-techniques data4"></td>
+            <td headers="cookies-techniques data4">Persistant</td>
         </tr>
     </tbody>
     <thead>
@@ -67,14 +67,14 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
         <tr>
             <td headers="cookies-mesure data1">Matomo</td>
             <td headers="cookies-mesure data2">_pk_id#</td>
-            <td headers="cookies-mesure data3">Permet de stocker votre identifiant unique de visite (sans donnée personnelle) via Matomo</td>
-            <td headers="cookies-mesure data4">13 mois </td>
+            <td headers="cookies-mesure data3">Permet de stocker votre identifiant unique de visite via Matomo</td>
+            <td headers="cookies-mesure data4">13 mois</td>
         </tr>
         <tr>
             <td headers="cookies-mesure data1">Matomo</td>
             <td headers="cookies-mesure data2">piwik_ignore</td>
-            <td headers="cookies-mesure data3">Permet d'ignorer la mesure d'audience via Matomo</td>
-            <td headers="cookies-mesure data4"></td>
+            <td headers="cookies-mesure data3">Permet de mémoriser votre choix d'ignorer la mesure d'audience via Matomo</td>
+            <td headers="cookies-mesure data4">2 ans</td>
         </tr>
         <tr>
             <td headers="cookies-mesure data1">Matomo</td>
@@ -85,7 +85,7 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
         <tr>
             <td headers="cookies-mesure data1">AT Internet</td>
             <td headers="cookies-mesure data2">atuserid</td>
-            <td headers="cookies-mesure data3">Permet de stocker votre identifiant unique de visite (sans donnée personnelle) via AT Internet</td>
+            <td headers="cookies-mesure data3">Permet de stocker votre identifiant unique de visite via AT Internet</td>
             <td headers="cookies-mesure data4">13 mois</td>
         </tr>
         <tr>
