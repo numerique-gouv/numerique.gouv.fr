@@ -1,6 +1,6 @@
 ---
 title: Pôle emploi intègre désormais FranceConnect
-date: 2021-03-23 14:47:00 +01:00
+date: 2021-03-24 14:47:00 +01:00
 categories:
 - Brève
 tags:
