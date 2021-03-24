@@ -4,7 +4,6 @@ permalink: "/donnees-personnelles/"
 position: 7
 layout: page-annexe
 ---
-
 La DINUM s'engage à ce que la collecte et le traitement de données personnelles effectués sur numerique.gouv.fr soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
 ## Exercer vos droits
