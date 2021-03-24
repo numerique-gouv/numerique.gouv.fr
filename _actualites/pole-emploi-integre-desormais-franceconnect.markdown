@@ -1,7 +1,6 @@
 ---
 title: Pôle emploi intègre désormais FranceConnect
 date: 2021-03-23 14:47:00 +01:00
-published: false
 categories:
 - Brève
 tags:
@@ -17,7 +16,7 @@ Les demandeurs d’emploi peuvent désormais se connecter à leur espace personn
 
 ## Bientôt des services plus sensibles accessibles via FranceConnect
 
-FranceConnect va pouvoir prochainement embarquer des services demandant une sécurité renforcée. Ce « FranceConnect+ » pourra par exemple donner accès à des services en ligne de santé, de banques, d'envoi en recommandé électronique... Une simplification de plus pour les Français qui n’auront plus à se déplacer à un guichet pour ce type de démarches, tout en les réalisant de façon sécurisée, et l’assurance, pour l’administration, que la personne est bien authentifiée. 
+Et l'expansion se poursuit. FranceConnect est dès à présent en capacité de répondre aux attentes de services nécessitant une sécurité renforcée. Ce « FranceConnect+ » pourra par exemple donner accès à des services en ligne de santé, de banques, d'envoi en recommandé électronique... Une simplification de plus pour les Français qui n’auront plus à se déplacer à un guichet pour ce type de démarches, tout en les réalisant de façon sécurisée, et l’assurance, pour l’administration, que la personne est bien authentifiée. 
 
 Cette évolution est rendue possible par l’obtention fin 2020 d’une qualification de l’agence nationale de la sécurité des systèmes d’information (ANSSI), qui garantit la conformité de FranceConnect aux exigences des niveaux de garantie substantiels et élevés, tels que définis par le règlement européen eIDAS.
 
