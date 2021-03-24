@@ -1,5 +1,5 @@
 ---
-title: Données personnelles
+title: Données personnelles et cookies
 permalink: "/donnees-personnelles-cookies/"
 position: 7
 layout: page-annexe
