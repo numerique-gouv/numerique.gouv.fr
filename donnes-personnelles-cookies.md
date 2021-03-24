@@ -1,6 +1,6 @@
 ---
 title: Données personnelles
-permalink: "/donnees-personnelles/"
+permalink: "/donnees-personnelles-cookies/"
 position: 7
 layout: page-annexe
 ---
