@@ -1,3 +1,10 @@
+---
+title: Données personnelles
+permalink: "/donnees-personnelles/"
+position: 7
+layout: page-annexe
+---
+
 La DINUM s'engage à ce que la collecte et le traitement de données personnelles effectués sur numerique.gouv.fr soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
 ## Exercer vos droits
@@ -26,11 +33,78 @@ Sur numerique.gouv.fr, nous utilisons différents cookies pour améliorer votre 
 Ces cookies permettent au site de fonctionner correctement et de manière optimale. Conformément à la loi, ces cookies étant nécessaires au bon fonctionnement du site, ils ne sont pas paramétrables sur notre site. Mais nous vous rassurons : ils ne prélèvent aucune donnée personnelle n’est prélevée, vous n’êtes aucunement identifiable personnellement. Si toutefois vous souhaitiez bloquer ces cookies, il reste possible de le faire depuis les paramètres de votre navigateur, cependant votre expérience utilisateur risquerait alors d’être dégradée.
 Le tableau ci-dessous détaille les cookies en question, avec leur nom technique.
 
-====TABLEAU====
+<table>
+    <thead>
+        <tr>
+            <th colspan="4" scope="col" id="cookies-techniques">Cookies techniques</th>
+        </tr>
+        <tr>
+            <th scope="col" id="data1" headers="cookies-techniques">Cookie lié au service :</th>
+            <th scope="col" id="data2" headers="cookies-techniques">Nom technique  du cookie</th>
+            <th scope="col" id="data3" headers="cookies-techniques">Finalité</th>
+            <th scope="col" id="data4" headers="cookies-techniques">Durée de conservation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td headers="cookies-techniques data1">Tarte au citron</td>
+            <td headers="cookies-techniques data2">Tarteaucitron</td>
+            <td headers="cookies-techniques data3">Sauvegarde vos choix en matière de consentement des cookies. </td>
+            <td headers="cookies-techniques data4">6 mois</td>
+        </tr>
+        <tr>
+            <td headers="cookies-techniques data1">Algolia</td>
+            <td headers="cookies-techniques data2">algoliasearch-client-js</td>
+            <td headers="cookies-techniques data3">Permet d’afficher les résultats de recherche dans le moteur de recherche interne au site, et d’afficher les listes de contenus dans les rubriques du site</td>
+            <td headers="cookies-techniques data4"></td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th colspan="4" scope="col" id="cookies-mesure">Cookies de mesure d’audience</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td headers="cookies-mesure data1">Matomo</td>
+            <td headers="cookies-mesure data2">_pk_id#</td>
+            <td headers="cookies-mesure data3">Permet de stocker votre identifiant unique de visite (sans donnée personnelle) via Matomo</td>
+            <td headers="cookies-mesure data4">13 mois </td>
+        </tr>
+        <tr>
+            <td headers="cookies-mesure data1">Matomo</td>
+            <td headers="cookies-mesure data2">piwik_ignore</td>
+            <td headers="cookies-mesure data3">Permet d'ignorer la mesure d'audience via Matomo</td>
+            <td headers="cookies-mesure data4"></td>
+        </tr>
+        <tr>
+            <td headers="cookies-mesure data1">Matomo</td>
+            <td headers="cookies-mesure data2">_pk_ses#</td>
+            <td headers="cookies-mesure data3">Permet de stocker temporairement vos données de visite via Matomo</td>
+            <td headers="cookies-mesure data4">30 minutes</td>
+        </tr>
+        <tr>
+            <td headers="cookies-mesure data1">AT Internet</td>
+            <td headers="cookies-mesure data2">atuserid</td>
+            <td headers="cookies-mesure data3">Permet de stocker votre identifiant unique de visite (sans donnée personnelle) via AT Internet</td>
+            <td headers="cookies-mesure data4">13 mois</td>
+        </tr>
+        <tr>
+            <td headers="cookies-mesure data1">AT Internet</td>
+            <td headers="cookies-mesure data2">hit.xiti</td>
+            <td headers="cookies-mesure data3">Permet de mesurer l’audience du site via AT Internet</td>
+            <td headers="cookies-mesure data4">13 mois</td>
+        </tr>
+    </tbody>
+</table>
 
 Malgré leur caractère nécessaire au fonctionnement du site, vous avez la possibilité de vous opposer spécifiquement au dépôt de cookies de mesure d’audience Matomo et AT Internet :
-====ici Module opt-out pour Matomo====
-====ici Module opt-out pour AT Internet====
+
+* Matomo :
+  <iframe style="border: 0; height: 200px; width: 600px;" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr&fontSize=1rem&fontFamily=%22Open%20Sans%22"></iframe>
+
+* AT Internet :
+  [https://www.xiti.com/fr/optout.aspx](https://www.xiti.com/fr/optout.aspx)
 
 #### Cookies tiers, destinés à fournir des contenus du site
 {: .margin-top-2 .margin-bottom-1}
