@@ -140,4 +140,7 @@ a {
 #tarteaucitronManager {
   color: white;
   cursor: pointer;
+  &:hover {
+    text-decoration: underline;
+  }
 }
