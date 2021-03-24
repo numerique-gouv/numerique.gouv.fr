@@ -1,8 +1,8 @@
 ---
 title: 'Appel à candidatures Entrepreneurs d''Intérêt Général : webinaire d''information'
-date: 2021-03-23 14:39:00 +01:00
+date: 2021-03-24 12:02:00 +01:00
 categories:
-- webinaire d'information
+- Webinaire d'information
 tags:
 - tech
 - EIG
