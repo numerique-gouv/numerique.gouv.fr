@@ -60,7 +60,9 @@ Parmi ces actions : l’ouverture en décembre prochain par la DINUM d’**un gu
 
 En ce sens, le Gouvernement s’engage à **mieux détecter et accompagner les usagers en difficulté avec les outils numériques**. Bientôt, ils pourront compter sur **Aidants Connect**, créé par la mission Société numérique avec l’appui de la DINUM, via Beta.gouv.fr. Ce dispositif proposera un accompagnement humain et un outil basé sur le mécanisme d’identification [FranceConnect](https://www.franceconnect.gouv.fr/) afin que des tiers professionnels puissent réaliser leurs démarches administratives en ligne pour eux, en toute sécurité et légalité.
 
-<iframe frameborder="0" width="680" height="383" src="https://www.dailymotion.com/embed/video/x7obr5q" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x7obr5q" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 <br>
 <br>
 

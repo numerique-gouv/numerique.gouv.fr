@@ -15,7 +15,9 @@ chapeau-text: |
 auteur: Archives
 ---
 
-<iframe frameborder="0" width="550" height="310" src="https://www.dailymotion.com/embed/video/x28xl4z" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x28xl4z" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 <br>
 <br>

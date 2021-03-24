@@ -9,9 +9,27 @@
 
 .twitter {
   position: relative;
+  min-height: 250px;
   .tacTwitterTimelines {
     position: absolute;
     right: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .tac_activate .tac_float {
+    background: #4e4e4e!important;
+    button {
+      background: #034FA1;
+    }
+  }
+}
+
+.conteneur-iframe {
+  position: relative;
+  min-height: 250px;
+  .dailymotion_player, .youtube_player {
+    position: absolute;
+    top: 0;
     width: 100%;
     height: 100%;
   }

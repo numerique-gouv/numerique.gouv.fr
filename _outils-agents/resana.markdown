@@ -15,7 +15,9 @@ une:
 layout: rgaa
 ---
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" title="Vidéo Dailymotion" src="https://www.dailymotion.com/embed/video/x7y68yv" width="480" height="270" allowfullscreen > </iframe> </div>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x7y68yv" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 <br>
 <br>
 
@@ -72,7 +74,7 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 
 
 > #### Comment rejoindre Resana ?
-> 
+>
 > Pour créer votre compte en tant qu’agent de l’État ou d'un établissement public, faites-en la demande en envoyant un courriel à : <a href="mailto:resana.contact@modernisation.gouv.fr?subject=Demande de création de compte sur Resana&amp;body=Bonjour, je souhaite rejoindre la plateforme collaborative Resana dans le cadre de XXXX">resana.contact@modernisation.gouv.fr</a>
 {: .noir .encadre}
 

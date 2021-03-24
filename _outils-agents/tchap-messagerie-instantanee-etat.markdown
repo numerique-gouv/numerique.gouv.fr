@@ -17,7 +17,7 @@ layout: rgaa
 ---
 
 <div class="conteneur-iframe seize-neuvieme">
-<iframe title="Vidéo Dailymotion" class='text-center' src="https://www.dailymotion.com/embed/video/x7qn13j" allowfullscreen allow="autoplay"></iframe>
+<div class="dailymotion_player" width="100%" height="100%" videoID="x7qn13j" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
 </div>
 <br>
 

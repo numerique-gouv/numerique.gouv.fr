@@ -19,4 +19,6 @@ une-ou-diaporama:
 - image: "/uploads/une_video.jpg"
 ---
 
-<iframe frameborder="0" width="680" height="370" src="https://www.dailymotion.com/embed/video/x561dnl" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x561dnl" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
