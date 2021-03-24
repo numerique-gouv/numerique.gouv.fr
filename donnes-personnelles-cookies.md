@@ -99,7 +99,7 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
 
 Malgré leur caractère nécessaire au fonctionnement du site, vous avez la possibilité de vous opposer spécifiquement au dépôt de cookies de mesure d’audience Matomo et AT Internet :
 
-* Matomo :
+* Matomo : <br/>
   <iframe style="border: 0; height: 200px; width: 600px;" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr&fontSize=1rem&fontFamily=%22Open%20Sans%22"></iframe>
 
 * AT Internet :
