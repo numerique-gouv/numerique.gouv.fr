@@ -28,8 +28,8 @@ Un « cookie » est un petit fichier texte transmis par un site web sur lequel v
 ### Les cookies et autres traceurs utilisés sur numerique.gouv.fr
 Sur numerique.gouv.fr, nous utilisons différents cookies pour améliorer votre expérience et nos services.
 
-#### Cookies strictement nécessaires au fonctionnement du site
 
+#### Cookies strictement nécessaires au fonctionnement du site
 Ces cookies permettent au site de fonctionner correctement et de manière optimale. Conformément à la loi, ces cookies étant nécessaires au bon fonctionnement du site, ils ne sont pas paramétrables sur notre site. Mais nous vous rassurons : ils ne prélèvent aucune donnée personnelle n’est prélevée, vous n’êtes aucunement identifiable personnellement. Si toutefois vous souhaitiez bloquer ces cookies, il reste possible de le faire depuis les paramètres de votre navigateur, cependant votre expérience utilisateur risquerait alors d’être dégradée.
 Le tableau ci-dessous détaille les cookies en question, avec leur nom technique.
 
@@ -39,8 +39,8 @@ Malgré leur caractère nécessaire au fonctionnement du site, vous avez la poss
 ====ici Module opt-out pour Matomo====
 ====ici Module opt-out pour AT Internet====
 
-#### Cookies tiers, destinés à fournir des contenus du site
 
+#### Cookies tiers, destinés à fournir des contenus du site
 Le site de la DINUM s’appuie sur des services proposés par des sites tiers pour vous fournir certains contenus et fonctionnalités spécifiques :
 
 * des vidéos (Dailymotion, Youtube…)
@@ -48,8 +48,8 @@ Le site de la DINUM s’appuie sur des services proposés par des sites tiers po
 
 Ces fonctionnalités utilisent des cookies tiers directement déposés par ces services, uniquement si vous les acceptez. Lors de votre première visite sur numerique.gouv.fr, ces fonctionnalités et contenus sont masqués et vous avez la possibilité de les autoriser spécifiquement, aux endroits où ils apparaissent. Vous pouvez aussi à tout moment vous informer et paramétrer vos cookies en vous rendant sur la page Gérer mes cookies accessible en bas de chaque page du site.
 
-#### Moyens d’opposition au dépôt des cookies via votre navigateur
 
+#### Moyens d’opposition au dépôt des cookies via votre navigateur
 Vous pouvez à tout moment choisir de désactiver l’ensemble des cookies, même ceux nécessaires au fonctionnement du site. Cependant votre expérience utilisateur risque d’être dégradée. Si vous souhaitez désactiver uniquement les cookies non indispensables au fonctionnement du site, utilisez notre outil de gestion des cookies.
 
 Voici les procédures pour bloquer toute création de cookies à partir des options de votre navigateur :
