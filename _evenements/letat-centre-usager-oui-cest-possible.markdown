@@ -44,7 +44,7 @@ Field name:
 
 En septembre 2020, nous avons lancé le [Commando UX](https://design.numerique.gouv.fr/commando-ux/) : 15 designers, développeuses et développeurs recrutés au sein de notre équipe et déployés pendant 7 mois dans les administrations. Leur objectif : améliorer l'expérience utilisateur et l'accessibilité numérique de 10 des [250 démarches administratives les plus utilisées](https://observatoire.numerique.gouv.fr) par les Français.
 
-* Le titre de cet événement s'inspire d'un terme de design : le « design centré utilisateur », soit prendre en compte les besoins des utilisateurs à chaque étape du processus de développement d'un produit ou service. Ce titre, c'est un défi lancé à nos administrations car dans le domaine du numérique, l'État a encore beaucoup de chemin à parcourir pour produire des services compréhensibles, utilisables et souhaitables.
+(*) Le titre de cet événement s'inspire d'un terme de design : le « design centré utilisateur », soit prendre en compte les besoins des utilisateurs à chaque étape du processus de développement d'un produit ou service. Ce titre, c'est un défi lancé à nos administrations car dans le domaine du numérique, l'État a encore beaucoup de chemin à parcourir pour produire des services compréhensibles, utilisables et souhaitables.
 
 ## 3 soirées à ne pas manquer
 
