@@ -15,7 +15,9 @@ une-ou-diaporama:
 - image: "/uploads/video_pgo.jpg"
 ---
 
-<iframe frameborder="0" width="680" height="370" src="https://www.dailymotion.com/embed/video/x48osup" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x48osup" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 Tout citoyen est invité à contribuer au programme en proposant des événements, jusqu'au 20 juillet, via la [plateforme en ligne ogpsummit.org](https://ogpsummit.org/){:target="_blank"}.
 

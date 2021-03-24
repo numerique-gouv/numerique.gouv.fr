@@ -21,7 +21,10 @@ layout: rgaa
 ---
 
 **Découvrez en 1'45 le principe Dites-le-nous une fois et l'accompagnement proposé par la DINUM :**
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/k7cJDWnimRuU7fwpByr" width="100%" height="100%" allowfullscreen > </iframe> </div>
+
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="k7cJDWnimRuU7fwpByr" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 <br>
 <br>
 
@@ -132,11 +135,11 @@ de recourir à l’offre de service de la DINUM
 
 **2.** **Un accompagnement personnalisé** au plus près de vos métiers
 
-**3.** **C’est gratuit !** 
+**3.** **C’est gratuit !**
 
 > ## Comment nous solliciter ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
-> 
+>
 > **Par courriel**
 > {: .bleue .margin-0}
 > Adressez votre demande [par courriel](mailto:dlnuf@api.gouv.fr) en précisant le contexte et votre besoin.

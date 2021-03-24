@@ -19,4 +19,6 @@ une-ou-diaporama:
 - image: "/uploads/opendatacamp_une.jpg"
 ---
 
-<iframe frameborder="0" width="680" height="370" src="https://www.dailymotion.com/embed/video/x2mqygb" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x2mqygb" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>

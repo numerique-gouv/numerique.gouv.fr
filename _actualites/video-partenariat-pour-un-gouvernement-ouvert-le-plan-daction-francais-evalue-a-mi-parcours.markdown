@@ -27,7 +27,9 @@ Ce suivi est piloté par [Etalab](http://www.etalab.gouv.fr/){:target="_blank"},
 
 **Laure LUCCHESI**, cheffe de la mission Etalab, et **Mathilde Bras**, chargée de mission Gouvernement ouvert au sein d’Etalab, **expliquent la méthode de suivi française et son originalité** :<br>
 
-<iframe frameborder="0" width="680" height="370" src="https://www.dailymotion.com/embed/video/x4lpew3" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x4lpew3" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 <br>
 <br>
 #### Où en est la mise en œuvre du plan d’action français ?
