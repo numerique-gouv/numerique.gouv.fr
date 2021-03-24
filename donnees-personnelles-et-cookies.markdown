@@ -55,11 +55,7 @@ Vous pouvez à tout moment choisir de désactiver l’ensemble des cookies, mêm
 Voici les procédures pour bloquer toute création de cookies à partir des options de votre navigateur :
 
 * [Firefox](https://support.mozilla.org/fr/kb/activer-desactiver-cookies "Firefox - Lien externe")
-
 * [Chrome](https://support.google.com/chrome/answer/95647?hl=fr "Chrome - Lien externe")
-
 * [Explorer](http://windows.microsoft.com/fr-FR/internet-explorer/delete-manage-cookies#ie=ie-9 "Explorer - Lien externe")
-
 * [Safari](http://support.apple.com/kb/PH17191?viewlocale=fr_FR "Safari - Lien externe")
-
 * [Opera](http://help.opera.com/Windows/10.20/fr/cookies.html "Opera - Lien externe")
