@@ -17,7 +17,7 @@ date_de_modification: 26 mars 2021
 
 Les demandeurs d’emploi peuvent désormais se connecter à leur espace personnel Pôle emploi via FranceConnect. 7 millions d’utilisateurs sont concernés. L’outil, créé et opéré par la DINUM, facilite ainsi leur connexion, en toute sécurité, en leur permettant d’utiliser l’identifiant et le mot de passe de leur choix parmi les comptes proposés : impots.gouv.fr, ameli.fr, l’Identité Numérique La Poste, MobileConnect et moi ou msa.fr. 
 
-Depuis fin février, le bouton FranceConnect simplifie aussi la vie des parents employeurs d'une assistante maternelle ou d'une garde d'enfants à domicile. Les 800 000 utilisateurs du site [Pajemploi](https://www.pajemploi.urssaf.fr) ont en effet la possibilité de l'utiliser pour se connecter et effectuer leurs démarches. Ce service des Urssaf a déjà enregistré plus de 15 500 connexions via FranceConnect. 
+Depuis fin février, le bouton FranceConnect simplifie aussi la vie des parents employeurs d'une assistante maternelle ou d'une garde d'enfants à domicile. Les 800 000 utilisateurs du site [Pajemploi](https://www.pajemploi.urssaf.fr) ont en effet la possibilité de l'utiliser pour se connecter à leur espace personnel et effectuer leurs démarches. Ce service des Urssaf a déjà enregistré plus de 15 500 connexions via FranceConnect. 
 
 Tous deux suivis dans [l'observatoire des 250 démarches phares de l’État](https://observatoire.numerique.gouv.fr/observatoire/),
 [Pole-emploi.fr](https://www.pole-emploi.fr/accueil/ "Pole-emploi.fr - Lien externe") et Pajemploi rejoignent ainsi les 900 services en ligne accessibles via FranceConnect, adopté à ce jour par 21 millions d’utilisateurs. La CAF devrait leur emboîter le pas à l’été 2021.
