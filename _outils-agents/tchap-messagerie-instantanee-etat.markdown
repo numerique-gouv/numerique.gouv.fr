@@ -60,7 +60,7 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 </figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
 {: .margin-bottom-1}
 **Tout agent de l’État** peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un correspondant extérieur à l’État à un salon spécifique. 
-> [Consulter notre guide utilisateur (pdf, 350 ko)](https://www.etalab.gouv.fr/acc-eig5)
+> [Consulter notre guide utilisateur (pdf, 350 ko)](/uploads/tchap-prise-en-main.pdf)
 {: .lien-important role="presentation"}
 [Consulter la version accessible du guide (docx, 21 ko)](/uploads/tchap-prise-en-main-agents-version-accessible.docx).
 
