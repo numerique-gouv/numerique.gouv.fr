@@ -17,15 +17,15 @@ date_de_modification: 26 mars 2021
 
 Les demandeurs d’emploi peuvent désormais se connecter à leur espace personnel Pôle emploi via FranceConnect. 7 millions d’utilisateurs sont concernés. L’outil, créé et opéré par la DINUM, facilite ainsi leur connexion, en toute sécurité, en leur permettant d’utiliser l’identifiant et le mot de passe de leur choix parmi les comptes proposés : impots.gouv.fr, ameli.fr, l’Identité Numérique La Poste, MobileConnect et moi ou msa.fr. 
 
-Depuis fin février, le bouton FranceConnect simplifie aussi la vie des parents employeurs d'une assistante maternelle ou d'une garde d'enfants à domicile. Les 800&nbsp;000 utilisateurs du site [Pajemploi](https://www.pajemploi.urssaf.fr) ont en effet la possibilité de l'utiliser pour se connecter à leur espace personnel et effectuer leurs démarches. En un mois, le service des Urssaf a déjà enregistré plus de 15&nbsp;500 connexions via FranceConnect. 
+Depuis fin février, le bouton FranceConnect simplifie aussi la vie des parents employeurs d'une assistante maternelle ou d'une garde d'enfants à domicile. Les 800&nbsp;000 utilisateurs du site [Pajemploi](https://www.pajemploi.urssaf.fr "Pajemploi - Lien externe") ont en effet la possibilité de l'utiliser pour se connecter à leur espace personnel et effectuer leurs démarches. En un mois, le service des Urssaf a déjà enregistré plus de 15&nbsp;500 connexions via FranceConnect. 
 
-Tous deux suivis dans [l'observatoire des 250 démarches phares de l’État](https://observatoire.numerique.gouv.fr/observatoire/),
+Tous deux suivis dans [l'observatoire des 250 démarches phares de l’État](https://observatoire.numerique.gouv.fr/observatoire/ "l'observatoire des 250 démarches phares de l’État - Lien externe"),
 [Pole-emploi.fr](https://www.pole-emploi.fr/accueil/ "Pole-emploi.fr - Lien externe") et Pajemploi rejoignent ainsi les 900 services en ligne accessibles via FranceConnect, adopté à ce jour par 21 millions d’utilisateurs. La CAF devrait leur emboîter le pas à l’été 2021.
 
 ## Bientôt des services plus sensibles accessibles via FranceConnect
 
 L'expansion se poursuit. FranceConnect est dès à présent en capacité de répondre aux attentes de services nécessitant une sécurité renforcée. Ce « FranceConnect+ » pourra par exemple donner accès à des services en ligne de santé, de banques, d'envoi en recommandé électronique... Une simplification de plus pour les Français qui n’auront plus à se déplacer à un guichet pour ce type de démarches, tout en les réalisant de façon sécurisée, et l’assurance, pour l’administration, que la personne est bien authentifiée. 
 
-Cette évolution est rendue possible par l’obtention fin 2020 d’une qualification de l’agence nationale de la sécurité des systèmes d’information (ANSSI), qui garantit la conformité de FranceConnect aux exigences des niveaux de garantie substantiels et élevés, tels que définis par le règlement européen eIDAS.
+Cette évolution est rendue possible par l’obtention fin 2020 [d’une qualification](https://www.ssi.gouv.fr/uploads/liste-produits-et-services-qualifies.pdf "d’une qualification - Lien externe - pdf, 434 Ko") de l’agence nationale de la sécurité des systèmes d’information (ANSSI), qui garantit la conformité de FranceConnect aux exigences des niveaux de garantie substantiels et élevés, tels que définis par le règlement européen eIDAS.
 
 FranceConnect+ sera lancé en mai 2021.
