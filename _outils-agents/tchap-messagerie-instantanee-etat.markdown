@@ -53,7 +53,7 @@ Conçu spécifiquement pour les agents publics, Tchap offre des fonctionnalités
 
 Les salons de discussion publics couvrent **vos centres d’intérêt professionnels** (mais pas que !), avec des thématiques transverses communes à tous les ministères comme l’innovation publique, la cybersécurité, l’emploi public… mais aussi des salons dédiés à des communautés (BlueHats, beta.gouv.fr, DesignGouv…). **Un répertoire des salons publics** vous permet de trouver celui qui vous intéresse. Vous n’y trouvez pas votre bonheur ? Il vous suffit de créer votre propre salon.
 <div class="lien-important margin-bottom-0"> <p class="text-center margin-bottom-0"><a href="/uploads/tchap-prise-en-main.pdf">Consulter notre guide utilisateur (pdf, 350 ko)</a></p> </div>
-<p class="text-center margin-top-0" style="margin-top: 0px"><a href="/uploads/tchap-prise-en-main-agents-version-accessible.docx">(version accessible du guide - docx, 21 ko)</a></p>
+<p class="text-center margin-top-0" style="margin-top: 0px"><a href="/uploads/tchap-prise-en-main-version-accessible.docx">(version accessible du guide - docx, 21 ko)</a></p>
 <br>
 <br>
 
