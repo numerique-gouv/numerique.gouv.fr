@@ -12,7 +12,7 @@ chapeau-text: Ces deux services publics en ligne, parmi les plus utilisés par l
   plus sensibles, grâce à une sécurité renforcée.
 une-ou-diaporama:
 - image: "/uploads/FranceConnect_Pole-emploi_Une.jpg"
-date_modification: 26 mars 2021
+date_de_modification: 26 mars 2021
 ---
 
 Les demandeurs d’emploi peuvent désormais se connecter à leur espace personnel Pôle emploi via FranceConnect. 7 millions d’utilisateurs sont concernés. L’outil, créé et opéré par la DINUM, facilite ainsi leur connexion, en toute sécurité, en leur permettant d’utiliser l’identifiant et le mot de passe de leur choix parmi les comptes proposés : impots.gouv.fr, ameli.fr, l’Identité Numérique La Poste, MobileConnect et moi ou msa.fr. 
