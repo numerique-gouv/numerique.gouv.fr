@@ -61,7 +61,7 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 {: .margin-bottom-1}
 **Tout agent de l’État** peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un correspondant extérieur à l’État à un salon spécifique. 
 
-Les **parlementaires et agents des parlements** ont également accès à la messagerie depuis mai 2020. [Consulter le guide utilisateur dédié - pdf, 860 ko](/uploads/tchap-prise-en-main_parlementaires.pdf) (disponible également en [version accessible - docx, 21 ko](/uploads/tchap-prise-en-main-agents-version-accessible.docx)).
+Les **parlementaires et agents des parlements** ont également accès à la messagerie depuis mai 2020. [Consulter le guide utilisateur dédié - pdf, 860 ko](/uploads/tchap-prise-en-main_parlementaires.pdf) (disponible également en [version accessible - docx, 21 ko](/uploads/tchap-prise-en-main-parlementaires-version-accessible.docx)).
 
 Tchap est ouvert en expérimentation dans plusieurs **collectivités territoriales** depuis février 2020. Vous souhaitez rejoindre l’expérimentation et proposer Tchap aux agents de votre collectivité ? Contactez [tchap.dinum@modernisation.gouv.fr](mailto:tchap.dinum@modernisation.gouv.fr) pour plus d’information. Une convention devra être établie et signée par la direction générale des services, téléchargez pour cela le modèle de convention en format [Word (37 Ko)](/uploads/CONVENTION-DE-SERVICE-TCHAP.DOCX "Télécharger le modèle de convention au format Word - 37 Ko") ou [Open Office/odt (22 Ko)](/uploads/CONVENTION-DE-SERVICE-TCHAP.odt "Télécharger le modèle de convention au format Open Office/Odt - 22 Ko").
 
