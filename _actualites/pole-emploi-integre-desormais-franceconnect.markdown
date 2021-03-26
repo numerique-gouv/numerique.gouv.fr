@@ -6,35 +6,20 @@ categories:
 tags:
 - FranceConnect
 - Identité numérique
+chapeau-text: Ces deux services publics en ligne, parmi les plus utilisés par les
+  Français, sont aujourd'hui accessibles via FranceConnect. En parallèle, le fédérateur
+  d'identités proposé par l’État peut dorénavant être intégré sur des sites de démarches
+  plus sensibles, grâce à une sécurité renforcée.
 une-ou-diaporama:
 - image: "/uploads/FranceConnect_Pole-emploi_Une.jpg"
 ---
 
 Les demandeurs d’emploi peuvent désormais se connecter à leur espace personnel Pôle emploi via FranceConnect. 7 millions d’utilisateurs sont concernés. L’outil, créé et opéré par la DINUM, facilite ainsi leur connexion, en toute sécurité, en leur permettant d’utiliser l’identifiant et le mot de passe de leur choix parmi les comptes proposés : impots.gouv.fr, ameli.fr, l’Identité Numérique La Poste, MobileConnect et moi ou msa.fr. 
 
-Depuis fin février, le bouton FranceConnect simplifie aussi la vie des 800 000 parents employeurs d'une assistante maternelle ou d'une garde d'enfants à domicile, utilisateurs de [Pajemploi](https://www.pajemploi.urssaf.fr). 
-. Les 800 000 utilisateurs du site [Pajemploi](https://www.pajemploi.urssaf.fr) ont la possibilité de se connecter avec le bouton FranceConnect pour effectuer leurs démarches.
+Depuis fin février, le bouton FranceConnect simplifie aussi la vie des parents employeurs d'une assistante maternelle ou d'une garde d'enfants à domicile. Les 800 000 utilisateurs du site [Pajemploi](https://www.pajemploi.urssaf.fr) ont en effet la possibilité de l'utiliser pour se connecter et effectuer leurs démarches. Ce service des Urssaf a déjà enregistré plus de 15 500 connexions via FranceConnect. 
 
- liées  l'emploi d'une assistante maternelle ou d'une garde d'enfants à domicile. Ce service des Urssaf a déjà enregistré plus de 15 500 connexions via FranceConnect. 
-
-est aussi déployé sur le site Pajemploi, et simplifie ainsi l'accès des 800 000 parents employeurs à leurs démarches : ils peuvent au
-
-simplifie aussi la connexion des 
-
-les 800 000 parents employeurs 
-
-le site [Pajemploi](https://www.pajemploi.urssaf.fr) intègre lui aussi le bouton FranceConnect. Les 800 000 parents employeurs utilisateurs du
-peuvent aussi se connecter grâce au bouton FranceConnect pour y effectuer leurs démarches liées à l'emploi d'une assistante maternelle ou d'une garde d'enfants à domicile. Ce service des Urssaf a déjà enregistré plus de 15 500 connexions via FranceConnect. 
-
-employeurs peuvent aussi se connecter grâce au bouton FranceConnect pour effectuer leurs démarches liées à l'emploi d'une assistante maternelle ou d'une garde d'enfants à domicile.
-, utilisateurs 
-FranceConnect simplifie aussi la connexion au site 
-pour ses 800 000 parents utilisateurs, qui emploient
-es formalités des 
-le bouton FranceConnect est aussi proposé sur le site  qui permet à ses 800 000 utilisateurs 
-parents employeurs d'une assistante maternelle ou d'une garde d'enfants à domicile utilisateurs de ce service des Urssaf. Plus de 15 500 connexions via FranceConnect ont déjà été enregistrées.
-
-[Pole-emploi.fr](https://www.pole-emploi.fr/accueil/ "Pole-emploi.fr - Lien externe") et Pajemploi rejoignent ainsi les 900 services en ligne accessibles via FranceConnect, déjà adopté par 21 millions d’utilisateurs. La CAF devrait leur emboîter le pas à l’été 2021.
+Tous deux suivis dans [l'observatoire des 250 démarches phares de l’État](https://observatoire.numerique.gouv.fr/observatoire/),
+[Pole-emploi.fr](https://www.pole-emploi.fr/accueil/ "Pole-emploi.fr - Lien externe") et Pajemploi rejoignent ainsi les 900 services en ligne accessibles via FranceConnect, adopté à ce jour par 21 millions d’utilisateurs. La CAF devrait leur emboîter le pas à l’été 2021.
 
 ## Bientôt des services plus sensibles accessibles via FranceConnect
 
