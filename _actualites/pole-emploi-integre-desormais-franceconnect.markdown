@@ -2,7 +2,7 @@
 title: Pôle emploi et Pajemploi intègrent désormais FranceConnect
 date: 2021-03-24 14:47:00 +01:00
 categories:
-- Brève
+- Article
 tags:
 - FranceConnect
 - Identité numérique
@@ -12,6 +12,7 @@ chapeau-text: Ces deux services publics en ligne, parmi les plus utilisés par l
   plus sensibles, grâce à une sécurité renforcée.
 une-ou-diaporama:
 - image: "/uploads/FranceConnect_Pole-emploi_Une.jpg"
+date_modification: 26 mars 2021
 ---
 
 Les demandeurs d’emploi peuvent désormais se connecter à leur espace personnel Pôle emploi via FranceConnect. 7 millions d’utilisateurs sont concernés. L’outil, créé et opéré par la DINUM, facilite ainsi leur connexion, en toute sécurité, en leur permettant d’utiliser l’identifiant et le mot de passe de leur choix parmi les comptes proposés : impots.gouv.fr, ameli.fr, l’Identité Numérique La Poste, MobileConnect et moi ou msa.fr. 
