@@ -1,5 +1,5 @@
 ---
-title: Pôle emploi intègre désormais FranceConnect
+title: Pôle emploi et Pajemploi intègrent désormais FranceConnect
 date: 2021-03-24 14:47:00 +01:00
 categories:
 - Brève
@@ -12,6 +12,14 @@ une-ou-diaporama:
 
 Les demandeurs d’emploi peuvent désormais se connecter à leur espace personnel Pôle emploi via FranceConnect. 7 millions d’utilisateurs sont concernés. L’outil, créé et opéré par la DINUM, facilite ainsi leur connexion, en toute sécurité, en leur permettant d’utiliser l’identifiant et le mot de passe de leur choix parmi les comptes proposés : impots.gouv.fr, ameli.fr, l’Identité Numérique La Poste, MobileConnect et moi ou msa.fr. 
 
+Depuis la mi-mars, les parents employeurs d'une assistante maternelle ou d'une garde d'enfants à domicile peuvent aussi se connecter à leur espace personnel, sur Pajemploi, grâce au bouton FranceConnect. 
+utilisateurs de Pajemploi
+800 000 parents employeurs utilisateurs de Pajemploi - qui emploient une assistante maternelle agréée ou une garde d'enfants à domicile utilisateurs de Pajemploi peuvent aussi se connecter à leur espace personnel 
+
+) utilisateurs
+[Pajemploi](https://www.pajemploi.urssaf.fr) a également intégré le bouton FranceConnect. Les parents employeurs d'assistante maternelle agréée ou de garde d'enfants à domicile
+Ce service des Urssaf 
+Les 800 000 parents employeurs qui font garder leur(s) enfant(s) par une assistante maternelle agréée ou une garde d’enfants à domicile ont désormais la possibilité de se connecter à leur espace Pajemploi avec FranceConnect pour remplir toutes leurs formalités administratives. Plus de 15 500 connexions au service ont été enregistrées.
 [Pole-emploi.fr](https://www.pole-emploi.fr/accueil/ "Pole-emploi.fr - Lien externe") rejoint ainsi les 900 services en ligne accessibles via FranceConnect, déjà adopté par 21 millions d’utilisateurs. La CAF devrait lui emboîter le pas à l’été 2021.
 
 ## Bientôt des services plus sensibles accessibles via FranceConnect
