@@ -22,4 +22,4 @@ redirection: https://www.etalab.gouv.fr/acc-eig5
 ---
 
 > [Lire la suite sur etalab.gouv.fr](https://www.etalab.gouv.fr/acc-eig5)
-{: .lien-important}
+{: .lien-important role="presentation"}
