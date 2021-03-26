@@ -6,9 +6,9 @@ tags:
 - Messagerie instantanée
 - Outils pour les agents
 - ETNA
-date_de_modification: 11 janvier 2021
-chapeau-text: Pour leurs échanges à distance, les agents publics peuvent compter sur
-  Tchap, la messagerie instantanée conçue pour eux, opérée par l’État.
+date_de_modification: 26 mars 2021
+chapeau-text: Pour leurs discussions à distance, les agents publics peuvent compter
+  sur Tchap, la messagerie instantanée conçue pour eux, opérée par l’État.
 une:
   image: "/uploads/1635x345_Visuel_Tchap.jpg"
 une-ou-diaporama:
@@ -61,10 +61,11 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 {: .margin-bottom-1}
 **Tout agent de l’État** peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un correspondant extérieur à l’État à un salon spécifique. 
 > [Consulter notre guide utilisateur (pdf, 350 ko)](/uploads/tchap-prise-en-main.pdf)
-{: .lien-important role="presentation"}
-[Consulter la version accessible du guide (docx, 21 ko)](/uploads/tchap-prise-en-main-agents-version-accessible.docx).
+{: .lien-important .margin-bottom-1}
+> [Télécharger la version accessible du guide (docx, 21 ko)](/uploads/tchap-prise-en-main-agents-version-accessible.docx).
+{: .text-center}
 
-Les **parlementaires et agents des parlements** ont également accès à la messagerie depuis mai 2020. [Consulter le guide utilisateur dédié - pdf, 860 ko](/uploads/tchap-prise-en-main_parlementaires.pdf). Disponible également en [version accessible (docx, 21 ko)](/uploads/tchap-prise-en-main-agents-version-accessible.docx).
+Les **parlementaires et agents des parlements** ont également accès à la messagerie depuis mai 2020. [Consulter le guide utilisateur dédié - pdf, 860 ko](/uploads/tchap-prise-en-main_parlementaires.pdf) (disponible également en [version accessible (docx, 21 ko)](/uploads/tchap-prise-en-main-agents-version-accessible.docx)).
 
 Tchap est ouvert en expérimentation dans plusieurs **collectivités territoriales** depuis février 2020. Vous souhaitez rejoindre l’expérimentation et proposer Tchap aux agents de votre collectivité ? Contactez [tchap.dinum@modernisation.gouv.fr](mailto:tchap.dinum@modernisation.gouv.fr) pour plus d’information. Une convention devra être établie et signée par la direction générale des services, téléchargez pour cela le modèle de convention en format [Word (37 Ko)](/uploads/CONVENTION-DE-SERVICE-TCHAP.DOCX "Télécharger le modèle de convention au format Word - 37 Ko") ou [Open Office/odt (22 Ko)](/uploads/CONVENTION-DE-SERVICE-TCHAP.odt "Télécharger le modèle de convention au format Open Office/Odt - 22 Ko").
 
