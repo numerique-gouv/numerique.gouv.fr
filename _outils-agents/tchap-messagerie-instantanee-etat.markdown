@@ -60,10 +60,9 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 </figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
 {: .margin-bottom-1}
 **Tout agent de l’État** peut créer librement son compte Tchap à partir de son adresse courriel professionnelle, depuis l’appli mobile ou la version web. Au besoin, il peut inviter par courriel un correspondant extérieur à l’État à un salon spécifique. 
-> [Consulter notre guide utilisateur (pdf, 350 ko)](/uploads/tchap-prise-en-main.pdf)
-{: .lien-important .margin-bottom-1}
-> [Télécharger la version accessible du guide (docx, 21 ko)](/uploads/tchap-prise-en-main-agents-version-accessible.docx).
-{: .text-center}
+
+<div class="lien-important margin-bottom-0"> <p class="text-center margin-bottom-0"><a href="/uploads/tchap-prise-en-main.pdf">Consulter notre guide utilisateur (pdf, 350 ko)</a></p> </div>
+<p class="text-center margin-top-0" style="margin-top: 0px"><a href="/uploads/tchap-prise-en-main-agents-version-accessible.docx">(version accessible du guide - docx, 21 ko)</a></p>
 
 Les **parlementaires et agents des parlements** ont également accès à la messagerie depuis mai 2020. [Consulter le guide utilisateur dédié - pdf, 860 ko](/uploads/tchap-prise-en-main_parlementaires.pdf) (disponible également en [version accessible (docx, 21 ko)](/uploads/tchap-prise-en-main-agents-version-accessible.docx)).
 
