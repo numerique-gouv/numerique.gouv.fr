@@ -9,7 +9,7 @@ tags:
 chapeau-text: 'À l’occasion de la clôture de la saison 1 du Commando UX, l’équipe
   Design des services numériques de la direction interministérielle du numérique (DINUM)
   organise un événement sur trois soirées et trois thématiques : la recherche utilisateur,
-  l''inclusion et l''accessibilité, et l''art de gouverner.'
+  l''inclusion et l''accessibilité, et l’art de piloter.'
 une-ou-diaporama:
 - image: "/uploads/bg-numerique.jpg"
   alternative-textuelle: 'L''État centré usager ? Oui, c''est possible ! '
