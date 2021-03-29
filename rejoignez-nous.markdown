@@ -10,7 +10,7 @@ layout: page-annexe
 
 **Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINUM !**
 
-Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de postes de haut niveau dans le numérique au sein des ministères.
+Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de postes de haut niveau dans le numérique au sein des ministères.
 <br>
 <br>
 
@@ -75,7 +75,7 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
   -->
 
 <div class="encadre noir">
-<h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministères"></a></h3>
+<h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> <p><strong> Secrétariat Général de la Défense et de la Sécurité Nationale (SGDSN)</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-maitrise-d-ouvrage-2-postes-reference-2021-557102/" title="Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H - Lien externe">Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H</a></strong><br>Cadre/Catégorie A</li></ul> 
 <p><strong>Direction générale des finances publiques (DGFiP)</strong></p> 
