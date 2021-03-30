@@ -14,6 +14,7 @@ chapeau-text: 'Pendant une dizaine de jours, Henri Verdier, directeur d’Etalab
   respectives en matière d''open data et de réutilisations des données publiques.
   Découvrez leur interview croisée en vidéo.'
 ---
+
 <div class="conteneur-iframe seize-neuvieme">
 <div class="dailymotion_player" width="100%" height="100%" videoID="x2u6lex" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
 </div>
