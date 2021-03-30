@@ -16,7 +16,7 @@ chapeau-text: 'L’État et les associations d’élus publient aujourd’hui le
   des services publics numériques territoriaux fluides et performants.'
 une-ou-diaporama:
 - image: "/uploads/DCANT.jpg"
-  alternative-textuelle:
+  alternative-textuelle: 
 ---
 
 **Une nouvelle manière de travailler entre État et collectivités**
