@@ -62,7 +62,7 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
 </table>
 
 
-<table>
+<table style="margin-right:50px">
     <thead>
         <tr>
             <th colspan="4" scope="col" id="cookies-mesure"><div style="text-transform: uppercase;">Cookies de mesure d’audience</div></th>
