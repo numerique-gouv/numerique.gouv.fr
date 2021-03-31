@@ -88,9 +88,9 @@ L’échantillon des pages du site ayant fait l’objet d’une vérification de
 
 ## Retour d’information et contact
 {: .margin-top-2 .margin-bottom-1}
-Il est important de rappeler qu’en vertu de l’article 11 de la loi de février 2005 :
-<blockquote class="citation" style="margin-bottom: 20px; margin-top: 0px"><p>La personne handicapée a droit à la compensation des conséquences de son handicap, quels que soient l’origine et la nature de sa déficience, son âge ou son mode de vie.</p></blockquote>
-
+<p style="margin-bottom: 0px">Il est important de rappeler qu’en vertu de l’article 11 de la loi de février 2005 :
+<blockquote class="citation" style="margin-bottom: 25px; margin-top: 0px"><p>La personne handicapée a droit à la compensation des conséquences de son handicap, quels que soient l’origine et la nature de sa déficience, son âge ou son mode de vie.</p></blockquote>
+</p>
 La DINUM s'engage à prendre les moyens nécessaires afin de donner accès, dans un délai raisonnable, aux informations et fonctionnalités recherchées par la personne handicapée, que le contenu fasse l'objet d'une dérogation ou non.
 
 La DINUM invite les personnes qui rencontreraient des difficultés à la contacter  par courriel à [communication.dinum@modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr) afin qu’une assistance puisse être apportée (alternative accessible, information et contenu donnés sous une autre forme).
