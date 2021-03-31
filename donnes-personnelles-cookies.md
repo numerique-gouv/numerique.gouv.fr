@@ -157,4 +157,4 @@ Voici les procédures pour bloquer toute création de cookies à partir des opti
 
 
 
-<p align="center"><button class="button" id="tarteaucitronManager" style="margin-top:20px">Gérer mes cookies</button></p>
+<p align="center"><button class="button" id="tarteaucitronManager" type="button" style="margin-top:20px">Gérer mes cookies</button></p>
