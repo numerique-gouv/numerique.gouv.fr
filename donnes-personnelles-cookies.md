@@ -157,4 +157,4 @@ Voici les procédures pour bloquer toute création de cookies à partir des opti
 
 <p align="center"><a href="/uploads/Barometre-numerique-agent-2020.pdf" class="button" id="tarteaucitronManager">Consulter les résultats du BNA 2020 (pdf – 400&nbsp;ko)</a></p>
 
-<button class="button" id="tarteaucitronManager">Gérer mes cookies</button>
+<p align="center"><button class="button" id="tarteaucitronManager" style="margin-top:20px">Gérer mes cookies</button></p>
