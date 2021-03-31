@@ -41,7 +41,7 @@ Des balises <span lang="en">Blockquote</span>  apparaissent, elles sont la trans
 
 #### Contenus non soumis à l’obligation d’accessibilité
 ##### Contenus tiers
-{: .margin-top-2 .margin-bottom-1}
+{: .margin-top-0 .margin-bottom-1}
 * Le fil d’actualité Twitter sur la page d’Accueil
 * L’affichage de plus de résultats et le système de filtres sur les pages Recherche, Actualités et Agenda (Algolia – des échanges sont en cours avec l’éditeur pour tenter d’optimiser ces points)
 * Player vidéo (<span lang="en">Dailymotion, Youtube</span>)
@@ -86,6 +86,7 @@ L’échantillon des pages du site ayant fait l’objet d’une vérification de
 16. [Recrutement](https://www.numerique.gouv.fr/rejoignez-nous/)
 
 ## Retour d’information et contact
+{: .margin-top-2 .margin-bottom-1}
 Il est important de rappeler qu’en vertu de l’article 11 de la loi de février 2005 :
 « la personne handicapée a droit à la compensation des conséquences de son handicap, quels que soient l’origine et la nature de sa déficience, son âge ou son mode de vie. »
 
@@ -94,6 +95,7 @@ La DINUM s'engage à prendre les moyens nécessaires afin de donner accès, dans
 La DINUM invite les personnes qui rencontreraient des difficultés à la contacter  par courriel à [communication.dinum@modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr) afin qu’une assistance puisse être apportée (alternative accessible, information et contenu donnés sous une autre forme).
 
 ## Voies de recours
+{: .margin-top-2 .margin-bottom-1}
 Si vous constatez un défaut d'accessibilité vous empêchant d'accéder à un contenu ou une fonctionnalité du site, que vous nous le signalez et que vous ne parvenez pas à obtenir une réponse de notre part, vous êtes en droit de faire parvenir vos doléances ou une demande de saisine au Défenseur des droits.
 
 Plusieurs moyens sont à votre disposition :
