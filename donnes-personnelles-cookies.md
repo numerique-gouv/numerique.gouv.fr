@@ -39,7 +39,7 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
             <th colspan="4" scope="col" id="cookies-techniques">Cookies techniques</th>
         </tr>
         <tr>
-            <th scope="col" id="data1" headers="cookies-techniques">Cookie lié au service :</th>
+            <th scope="col" id="data1" headers="cookies-techniques">Cookie lié au service :</th>
             <th scope="col" id="data2" headers="cookies-techniques">Nom technique  du cookie</th>
             <th scope="col" id="data3" headers="cookies-techniques">Finalité</th>
             <th scope="col" id="data4" headers="cookies-techniques">Durée de conservation</th>
@@ -49,7 +49,7 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
         <tr>
             <td headers="cookies-techniques data1">Tarte au citron</td>
             <td headers="cookies-techniques data2">Tarteaucitron</td>
-            <td headers="cookies-techniques data3">Sauvegarde vos choix en matière de consentement des cookies. </td>
+            <td headers="cookies-techniques data3">Sauvegarde vos choix en matière de consentement des cookies. </td>
             <td headers="cookies-techniques data4">6 mois</td>
         </tr>
         <tr>
@@ -59,9 +59,19 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
             <td headers="cookies-techniques data4">Persistant</td>
         </tr>
     </tbody>
+</table>
+
+
+<table>
     <thead>
         <tr>
             <th colspan="4" scope="col" id="cookies-mesure">Cookies de mesure d’audience</th>
+        </tr>
+        <tr>
+            <th scope="col" id="data1" headers=" cookies-mesure ">Cookie lié au service :</th>
+            <th scope="col" id="data2" headers=" cookies-mesure ">Nom technique  du cookie</th>
+            <th scope="col" id="data3" headers=" cookies-mesure ">Finalité</th>
+            <th scope="col" id="data4" headers=" cookies-mesure ">Durée de conservation</th>
         </tr>
     </thead>
     <tbody>
@@ -100,10 +110,10 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
 
 Malgré leur caractère nécessaire au fonctionnement du site, vous avez la possibilité de vous opposer spécifiquement au dépôt de cookies de mesure d’audience Matomo et AT Internet :
 
-* Matomo : <br/>
+* Matomo : <br/>
   <iframe style="border: 0; height: 200px; width: 600px;" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr&fontSize=1rem&fontFamily=%22Open%20Sans%22"></iframe>
 
-* AT Internet :
+* AT Internet :
   [https://www.xiti.com/fr/optout.aspx](https://www.xiti.com/fr/optout.aspx)
 
 #### Cookies tiers, destinés à fournir des contenus du site
