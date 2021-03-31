@@ -2,6 +2,19 @@
 title: Données personnelles et cookies
 permalink: "/donnees-personnelles-cookies/"
 position: 7
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 layout: page-annexe
 ---
 
@@ -141,3 +154,7 @@ Voici les procédures pour bloquer toute création de cookies à partir des opti
 * [Explorer](http://windows.microsoft.com/fr-FR/internet-explorer/delete-manage-cookies#ie=ie-9 "Explorer - Lien externe")
 * [Safari](http://support.apple.com/kb/PH17191?viewlocale=fr_FR "Safari - Lien externe")
 * [Opera](http://help.opera.com/Windows/10.20/fr/cookies.html "Opera - Lien externe")
+
+<p align="center"><a href="/uploads/Barometre-numerique-agent-2020.pdf" class="button" id="tarteaucitronManager">Consulter les résultats du BNA 2020 (pdf – 400&nbsp;ko)</a></p>
+
+<button class="button" id="tarteaucitronManager">Gérer mes cookies</button>
