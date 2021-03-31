@@ -90,7 +90,7 @@ L’échantillon des pages du site ayant fait l’objet d’une vérification de
 {: .margin-top-2 .margin-bottom-1}
 Il est important de rappeler qu’en vertu de l’article 11 de la loi de février 2005 :
 
-<blockquote><p>« la personne handicapée a droit à la compensation des conséquences de son handicap, quels que soient l’origine et la nature de sa déficience, son âge ou son mode de vie. »</p></blockquote>
+<blockquote class="citation"><p>« la personne handicapée a droit à la compensation des conséquences de son handicap, quels que soient l’origine et la nature de sa déficience, son âge ou son mode de vie. »</p></blockquote>
 
 La DINUM s'engage à prendre les moyens nécessaires afin de donner accès, dans un délai raisonnable, aux informations et fonctionnalités recherchées par la personne handicapée, que le contenu fasse l'objet d'une dérogation ou non.
 
