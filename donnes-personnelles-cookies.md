@@ -36,7 +36,7 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
 <table>
     <thead>
         <tr>
-            <th colspan="4" scope="col" id="cookies-techniques">Cookies techniques</th>
+            <th colspan="4" scope="col" id="cookies-techniques"><div style="text-transform: uppercase;">Cookies techniques</div></th>
         </tr>
         <tr>
             <th scope="col" id="data1" headers="cookies-techniques">Cookie lié au service :</th>
