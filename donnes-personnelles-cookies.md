@@ -30,8 +30,8 @@ Sur numerique.gouv.fr, nous utilisons différents cookies pour améliorer votre 
 
 #### Cookies strictement nécessaires au fonctionnement du site
 {: .margin-top-2 .margin-bottom-1}
-Ces cookies permettent au site de fonctionner correctement et de manière optimale. Conformément à la loi, ces cookies étant nécessaires au bon fonctionnement du site, ils ne sont pas paramétrables sur notre site. Mais nous vous rassurons : ils ne prélèvent aucune donnée personnelle n’est prélevée, vous n’êtes aucunement identifiable personnellement. Si toutefois vous souhaitiez bloquer ces cookies, il reste possible de le faire depuis les paramètres de votre navigateur, cependant votre expérience utilisateur risquerait alors d’être dégradée.
-Le tableau ci-dessous détaille les cookies en question, avec leur nom technique.
+Ces cookies permettent au site de fonctionner correctement et de manière optimale. Conformément à la loi, ces cookies étant nécessaires au bon fonctionnement du site, ils ne sont pas paramétrables sur notre site. Si toutefois vous souhaitiez bloquer ces cookies, il reste possible de le faire depuis les paramètres de votre navigateur, cependant votre expérience utilisateur risquerait alors d’être dégradée.
+Le tableau ci-dessous détaille les cookies de ce type qui peuvent être déposés, avec leur nom technique.
 
 <table>
     <thead>
