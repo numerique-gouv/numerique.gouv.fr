@@ -30,13 +30,13 @@ Sur numerique.gouv.fr, nous utilisons différents cookies pour améliorer votre 
 
 #### Cookies strictement nécessaires au fonctionnement du site
 {: .margin-top-2 .margin-bottom-1}
-Ces cookies permettent au site de fonctionner correctement et de manière optimale. Conformément à la loi, ces cookies étant nécessaires au bon fonctionnement du site, ils ne sont pas paramétrables sur notre site. Mais nous vous rassurons : ils ne prélèvent aucune donnée personnelle n’est prélevée, vous n’êtes aucunement identifiable personnellement. Si toutefois vous souhaitiez bloquer ces cookies, il reste possible de le faire depuis les paramètres de votre navigateur, cependant votre expérience utilisateur risquerait alors d’être dégradée.
-Le tableau ci-dessous détaille les cookies en question, avec leur nom technique.
+Ces cookies permettent au site de fonctionner correctement et de manière optimale. Conformément à la loi, ces cookies étant nécessaires au bon fonctionnement du site, ils ne sont pas paramétrables sur notre site. Si toutefois vous souhaitiez bloquer ces cookies, il reste possible de le faire depuis les paramètres de votre navigateur, cependant votre expérience utilisateur risquerait alors d’être dégradée.
+Le tableau ci-dessous détaille les cookies de ce type qui peuvent être déposés, avec leur nom technique.
 
-<table>
+<table style="margin-bottom:50px">
     <thead>
         <tr>
-            <th colspan="4" scope="col" id="cookies-techniques">Cookies techniques</th>
+            <th colspan="4" scope="col" id="cookies-techniques"><div style="text-transform: uppercase;">Cookies techniques</div></th>
         </tr>
         <tr>
             <th scope="col" id="data1" headers="cookies-techniques">Cookie lié au service :</th>
@@ -62,10 +62,10 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
 </table>
 
 
-<table>
+<table style="margin-bottom:50px">
     <thead>
         <tr>
-            <th colspan="4" scope="col" id="cookies-mesure">Cookies de mesure d’audience</th>
+            <th colspan="4" scope="col" id="cookies-mesure"><div style="text-transform: uppercase;">Cookies de mesure d’audience</div></th>
         </tr>
         <tr>
             <th scope="col" id="data1" headers=" cookies-mesure ">Cookie lié au service :</th>
@@ -77,7 +77,7 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
     <tbody>
         <tr>
             <td headers="cookies-mesure data1">Matomo</td>
-            <td headers="cookies-mesure data2">_pk_id</td>
+            <td headers="cookies-mesure data2">_pk_id#</td>
             <td headers="cookies-mesure data3">Permet de stocker votre identifiant unique de visite via Matomo</td>
             <td headers="cookies-mesure data4">13 mois</td>
         </tr>
@@ -89,15 +89,9 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
         </tr>
         <tr>
             <td headers="cookies-mesure data1">Matomo</td>
-            <td headers="cookies-mesure data2">_pk_ses, _pk_cvar, _pk_hsr</td>
-            <td headers="cookies-mesure data3">Permettent de stocker temporairement vos données de visite via Matomo</td>
+            <td headers="cookies-mesure data2">_pk_ses#</td>
+            <td headers="cookies-mesure data3">Permet de stocker temporairement vos données de visite via Matomo</td>
             <td headers="cookies-mesure data4">30 minutes</td>
-        </tr>
-        <tr>
-            <td headers="cookies-mesure data1">Matomo</td>
-            <td headers="cookies-mesure data2">_pk_testcookie</td>
-            <td headers="cookies-mesure data3">Permet de vérifier si votre navigateur autorise les cookies</td>
-            <td headers="cookies-mesure data4">Suppression immédiate</td>
         </tr>
         <tr>
             <td headers="cookies-mesure data1">AT Internet</td>
@@ -109,6 +103,12 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
             <td headers="cookies-mesure data1">AT Internet</td>
             <td headers="cookies-mesure data2">hit.xiti</td>
             <td headers="cookies-mesure data3">Permet de mesurer l’audience du site via AT Internet</td>
+            <td headers="cookies-mesure data4">13 mois</td>
+        </tr>
+        <tr>
+            <td headers="cookies-mesure data1">AT Internet</td>
+            <td headers="cookies-mesure data2">atauthority</td>
+            <td headers="cookies-mesure data3">Permet de garder en mémoire le mode privacy visiteur (si vous avez expressément refusé que votre navigation soit suivie)</td>
             <td headers="cookies-mesure data4">13 mois</td>
         </tr>
     </tbody>
