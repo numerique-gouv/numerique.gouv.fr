@@ -40,6 +40,7 @@ Le CMS génère parfois automatiquement quelques balises paragraphes vides super
 Des balises <span lang="en">Blockquote</span>  apparaissent, elles sont la transcription html automatique des balises markdown « > » (permettant  des mises en forme, à l’image des div), langage largement utilisé pour l’édition de ce site, et privilégié par le CMS utilisé. L’ajout d’un « role="presentation" » ou une réécriture en html ont été effectués chaque fois que possible. Une automatisation est en cours d’étude. Des balises <span lang="en">blockquote</span> subsistent à ce jour.
 
 #### Contenus non soumis à l’obligation d’accessibilité
+{: .margin-top-2 .margin-bottom-0}
 ##### Contenus tiers
 {: .margin-top-0 .margin-bottom-1}
 * Le fil d’actualité Twitter sur la page d’Accueil
@@ -57,7 +58,7 @@ Cette déclaration a été établie le 26 mars 2021.
 * Ruby
 * Jekyll
 
-#### Technologies d’assistance et outils utilisés pour vérifier l’accessibilité
+#### Technologies d’assistance et outils utilisés pour vérifier l’accessibilité :
 {: .margin-top-2 .margin-bottom-1}
 * NVDA
 * <span lang="en">JAWS</span>
