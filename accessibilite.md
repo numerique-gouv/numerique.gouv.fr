@@ -28,20 +28,51 @@ L’audit de conformité finalisé le 26 mars 2021 par la société Access42 ré
 1. [Accueil](https://www.numerique.gouv.fr/)
 2. [Mentions légales](/mentions-legales/) 	
 3. [Accessibilité](/accessibilite/)
-[Nous contacter](https://www.numerique.gouv.fr/contact/)
-[Plan du site](https://www.numerique.gouv.fr/plan-du-site/)
-[Recherche](https://www.numerique.gouv.fr/rechercher/?query=projet)
-[La DINUM](https://www.numerique.gouv.fr/dinum/)
-[Actualités](https://www.numerique.gouv.fr/actualites/)
-[Actualité « Lancement de Vis mon job... » ](https://www.numerique.gouv.fr/actualites/lancement-de-vis-mon-job-des-etudiants-a-la-rencontre-des-professionnels-du-numerique-de-letat/)
-[Agenda](https://www.numerique.gouv.fr/agenda/)
-[Page agenda « Design public - Meetup #3 »](https://www.numerique.gouv.fr/agenda/design-public-meetup-3/)
-[Publications](https://www.numerique.gouv.fr/publications/)
-[Publication « RGAA 4 »](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/criteres/)
-[Service « Partagez vos talents numériques »](https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/)	
-[Outil agent « Tchap »](https://www.numerique.gouv.fr/outils-agents/tchap-messagerie-instantanee-etat/)
-[Recrutement](https://www.numerique.gouv.fr/rejoignez-nous/)
+4. [Nous contacter](https://www.numerique.gouv.fr/contact/)
+5. [Plan du site](https://www.numerique.gouv.fr/plan-du-site/)
+6. [Recherche](https://www.numerique.gouv.fr/rechercher/?query=projet)
+7. [La DINUM](https://www.numerique.gouv.fr/dinum/)
+8. [Actualités](https://www.numerique.gouv.fr/actualites/)
+9. [Actualité « Lancement de Vis mon job... » ](https://www.numerique.gouv.fr/actualites/lancement-de-vis-mon-job-des-etudiants-a-la-rencontre-des-professionnels-du-numerique-de-letat/)
+10. [Agenda](https://www.numerique.gouv.fr/agenda/)
+11. [Page agenda « Design public - <span lang="en">Meetup</span> #3 »](https://www.numerique.gouv.fr/agenda/design-public-meetup-3/)
+12. [Publications](https://www.numerique.gouv.fr/publications/)
+13. [Publication « RGAA 4 »](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/methode/criteres/)
+14. [Service « Partagez vos talents numériques »](https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/)	
+15. [Outil agent « Tchap »](https://www.numerique.gouv.fr/outils-agents/tchap-messagerie-instantanee-etat/)
+16. [Recrutement](https://www.numerique.gouv.fr/rejoignez-nous/)
 
+#### Contenus non accessibles
+Malgré le travail de mise en accessibilité effectué, certains contenus, listés ci-dessous, ne peuvent être rendus à 100% accessibles pour les raisons suivantes.
+
+##### Dérogations pour charge disproportionnée
+Certains contenus anglais ne peuvent pas être signalés comme tels (par exemple « <span lang="en">meetup</span> ») à certains endroits (titres), car le code HTML est alors visible dans le <span lang="en">title</span> de la page. La correction de ce point nécessiterait des travaux correctifs importants pour un impact utilisateur ici assez faible.
+
+Le CMS génère parfois automatiquement quelques balises paragraphes vides superflues. Après des essais infructueux, il a été conclu que corriger ce point ne pourrait être réalisé aisément.
+Des balises <span lang="en">Blockquote</span>  apparaissent, elles sont la transcription html automatique des balises markdown « > » (permettant  des mises en forme, à l’image des div), langage largement utilisé pour l’édition de ce site, et privilégié par le CMS utilisé. L’ajout d’un « role="presentation" » ou une réécriture en html ont été effectués chaque fois que possible. Une automatisation est en cours d’étude. Des balises <span lang="en">blockquote</span> subsistent à ce jour.
+
+##### Contenus non soumis à l’obligation d’accessibilité
+Contenus tiers
+* Le fil d’actualité Twitter sur la page d’Accueil
+* L’affichage de plus de résultats et le système de filtres sur les pages Recherche, Actualités et Agenda (Algolia – des échanges sont en cours avec l’éditeur pour tenter d’optimiser ces points)
+* Player vidéo (Dailymotion, Youtube)
+
+### Établissement de cette déclaration d’accessibilité
+Cette déclaration a été établie le 26 mars 2021. 
+
+#### Technologies utilisées pour la réalisation du site :
+* HTML5
+* CSS
+* JavaScript
+* Ruby
+* Jekyll
+
+#### Technologies d’assistance et outils utilisés pour vérifier l’accessibilité
+* NVDA
+* JAWS
+* VoiceOver
+
+La vérification de l’accessibilité est le résultat de tests manuels, assistés par des outils (feuilles CSS dédiés, extensions HeadingsMaps et WebDeveloper Toolbar, Color Contrast Analyser).
 
 
 ## Amélioration et contact
