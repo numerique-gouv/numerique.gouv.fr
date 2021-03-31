@@ -2,6 +2,7 @@
 title: Accessibilité
 permalink: "/accessibilite/"
 position: 8
+date-de-modification: 31 mars 2021
 layout: page-annexe
 ---
 
@@ -55,7 +56,7 @@ Des balises <span lang="en">Blockquote</span>  apparaissent, elles sont la trans
 Contenus tiers
 * Le fil d’actualité Twitter sur la page d’Accueil
 * L’affichage de plus de résultats et le système de filtres sur les pages Recherche, Actualités et Agenda (Algolia – des échanges sont en cours avec l’éditeur pour tenter d’optimiser ces points)
-* Player vidéo (Dailymotion, Youtube)
+* Player vidéo (<span lang="en">Dailymotion, Youtube</span>)
 
 ### Établissement de cette déclaration d’accessibilité
 Cette déclaration a été établie le 26 mars 2021. 
@@ -69,24 +70,26 @@ Cette déclaration a été établie le 26 mars 2021.
 
 #### Technologies d’assistance et outils utilisés pour vérifier l’accessibilité
 * NVDA
-* JAWS
-* VoiceOver
+* <span lang="en">JAWS</span>
+* <span lang="en">VoiceOver</span>
 
-La vérification de l’accessibilité est le résultat de tests manuels, assistés par des outils (feuilles CSS dédiés, extensions HeadingsMaps et WebDeveloper Toolbar, Color Contrast Analyser).
-
-
-## Amélioration et contact
-Vous pouvez nous aider à améliorer l'accessibilité du site en nous signalant les problèmes éventuels que vous rencontrez. Pour ce faire, envoyez-nous un courriel à communication.dinum@modernisation.gouv.fr.
-
-## Défenseur des droits
-Si vous nous avez signalé un défaut d'accessibilité qui vous empêche d'accéder à un contenu ou à un des services de numerique.gouv.fr et que vous n'avez pas obtenu de réponse satisfaisante, vous êtes en droit de faire part de vos doléances et de saisir le Défenseur des droits avec une des méthodes suivantes :
-
-* Écrire un message au Défenseur des droits via [ce formulaire de contact](https://formulaire.defenseurdesdroits.fr/)
-* Contacter le [délégué du Défenseur des droits dans votre région](https://www.defenseurdesdroits.fr/saisir/delegues)
-* Envoyer un courrier par la poste (gratuit, ne pas mettre de timbre)
-<br>Défenseur des droits
-<br>Libre réponse 71120
-<br>75342 Paris CEDEX 07
+La vérification de l’accessibilité est le résultat de tests manuels, assistés par des outils (feuilles CSS dédiés, extensions <span lang="en">HeadingsMaps</span> et <span lang="en">WebDeveloper Toolbar, Color Contrast Analyser</span>).
 
 
-Cette déclaration a été mise à jour le 17 décembre 2020.
+## Retour d’information et contact
+Il est important de rappeler qu’en vertu de l’article 11 de la loi de février 2005 :
+« la personne handicapée a droit à la compensation des conséquences de son handicap, quels que soient l’origine et la nature de sa déficience, son âge ou son mode de vie. »
+
+La DINUM s'engage à prendre les moyens nécessaires afin de donner accès, dans un délai raisonnable, aux informations et fonctionnalités recherchées par la personne handicapée, que le contenu fasse l'objet d'une dérogation ou non.
+
+La DINUM invite les personnes qui rencontreraient des difficultés à la contacter  par courriel à [communication.dinum@modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr) afin qu’une assistance puisse être apportée (alternative accessible, information et contenu donnés sous une autre forme).
+
+## Voies de recours
+Si vous constatez un défaut d'accessibilité vous empêchant d'accéder à un contenu ou une fonctionnalité du site, que vous nous le signalez et que vous ne parvenez pas à obtenir une réponse de notre part, vous êtes en droit de faire parvenir vos doléances ou une demande de saisine au Défenseur des droits.
+
+Plusieurs moyens sont à votre disposition :
+* [un formulaire de contact](https://formulaire.defenseurdesdroits.fr/defenseur/code/afficher.php?ETAPE=informations) ;
+* [la liste du ou des délégués de votre région](http://www.defenseurdesdroits.fr/office/) avec leurs informations de contact direct ;
+* un numéro de téléphone : 09 69 39 00 00 ;
+* une adresse postale (courrier gratuit, sans affranchissement) : Le Défenseur des droits - Libre réponse 71120 - 75342 Paris CEDEX 07.
+
