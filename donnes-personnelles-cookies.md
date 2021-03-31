@@ -65,7 +65,7 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
 <table>
     <thead>
         <tr>
-            <th colspan="4" scope="col" id="cookies-mesure">Cookies de mesure d’audience</th>
+            <th colspan="4" scope="col" id="cookies-mesure"><div style="text-transform: uppercase;">Cookies de mesure d’audience</div></th>
         </tr>
         <tr>
             <th scope="col" id="data1" headers=" cookies-mesure ">Cookie lié au service :</th>
