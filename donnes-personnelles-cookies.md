@@ -155,6 +155,6 @@ Voici les procédures pour bloquer toute création de cookies à partir des opti
 * [Safari](http://support.apple.com/kb/PH17191?viewlocale=fr_FR "Safari - Lien externe")
 * [Opera](http://help.opera.com/Windows/10.20/fr/cookies.html "Opera - Lien externe")
 
-<p align="center"><a href="/uploads/Barometre-numerique-agent-2020.pdf" class="button" id="tarteaucitronManager">Consulter les résultats du BNA 2020 (pdf – 400&nbsp;ko)</a></p>
+
 
 <p align="center"><button class="button" id="tarteaucitronManager" style="margin-top:20px">Gérer mes cookies</button></p>
