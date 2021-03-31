@@ -117,10 +117,9 @@ Le tableau ci-dessous détaille les cookies de ce type qui peuvent être dépos�
 Malgré leur caractère nécessaire au fonctionnement du site, vous avez la possibilité de vous opposer spécifiquement au dépôt de cookies de mesure d’audience Matomo et AT Internet :
 
 * Matomo : <br/>
-  <iframe style="border: 0; height: 200px; width: 600px;" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr&fontSize=1rem&fontFamily=%22Open%20Sans%22"></iframe>
+  <iframe style="border: 0; height: 150px; width: 600px;" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr&fontSize=1rem&fontFamily=%22Open%20Sans%22"></iframe>
 
-* AT Internet :
-  [https://www.xiti.com/fr/optout.aspx](https://www.xiti.com/fr/optout.aspx)
+* [AT Internet](https://www.xiti.com/fr/optout.aspx "AT Internet - Lien externe")
 
 #### Cookies tiers, destinés à fournir des contenus du site
 {: .margin-top-2 .margin-bottom-1}
