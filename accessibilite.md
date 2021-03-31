@@ -8,6 +8,7 @@ layout: page-annexe
 
 ## Déclaration d'accessibilité
 La direction interministérielle du numérique (DINUM) s’engage à rendre ses sites internet accessibles conformément à l’article 47 de la loi n° 2005-102 du 11 février 2005.
+
 La présente déclaration d’accessibilité s’applique au site numerique.gouv.fr.
 
 ### Schéma pluriannuel et plan annuel de la DINUM
@@ -31,13 +32,16 @@ L’audit de conformité finalisé le 26 mars 2021 par la société Access42 ré
 Malgré le travail de mise en accessibilité effectué, certains contenus, listés ci-dessous, ne peuvent être rendus à 100% accessibles pour les raisons suivantes.
 
 #### Dérogations pour charge disproportionnée
+{: .margin-top-2 .margin-bottom-1}
 Certains contenus anglais ne peuvent pas être signalés comme tels (par exemple « <span lang="en">meetup</span> ») à certains endroits (titres), car le code HTML est alors visible dans le <span lang="en">title</span> de la page. La correction de ce point nécessiterait des travaux correctifs importants pour un impact utilisateur ici assez faible.
 
 Le CMS génère parfois automatiquement quelques balises paragraphes vides superflues. Après des essais infructueux, il a été conclu que corriger ce point ne pourrait être réalisé aisément.
+
 Des balises <span lang="en">Blockquote</span>  apparaissent, elles sont la transcription html automatique des balises markdown « > » (permettant  des mises en forme, à l’image des div), langage largement utilisé pour l’édition de ce site, et privilégié par le CMS utilisé. L’ajout d’un « role="presentation" » ou une réécriture en html ont été effectués chaque fois que possible. Une automatisation est en cours d’étude. Des balises <span lang="en">blockquote</span> subsistent à ce jour.
 
 #### Contenus non soumis à l’obligation d’accessibilité
 ##### Contenus tiers
+{: .margin-top-2 .margin-bottom-1}
 * Le fil d’actualité Twitter sur la page d’Accueil
 * L’affichage de plus de résultats et le système de filtres sur les pages Recherche, Actualités et Agenda (Algolia – des échanges sont en cours avec l’éditeur pour tenter d’optimiser ces points)
 * Player vidéo (<span lang="en">Dailymotion, Youtube</span>)
@@ -46,6 +50,7 @@ Des balises <span lang="en">Blockquote</span>  apparaissent, elles sont la trans
 Cette déclaration a été établie le 26 mars 2021. 
 
 #### Technologies utilisées pour la réalisation du site :
+{: .margin-top-2 .margin-bottom-1}
 * HTML5
 * CSS
 * JavaScript
@@ -53,6 +58,7 @@ Cette déclaration a été établie le 26 mars 2021.
 * Jekyll
 
 #### Technologies d’assistance et outils utilisés pour vérifier l’accessibilité
+{: .margin-top-2 .margin-bottom-1}
 * NVDA
 * <span lang="en">JAWS</span>
 * <span lang="en">VoiceOver</span>
@@ -60,6 +66,7 @@ Cette déclaration a été établie le 26 mars 2021.
 La vérification de l’accessibilité est le résultat de tests manuels, assistés par des outils (feuilles CSS dédiés, extensions <span lang="en">HeadingsMaps</span> et <span lang="en">WebDeveloper Toolbar, Color Contrast Analyser</span>).
 
 #### Pages du site ayant fait l’objet de la vérification de conformité
+{: .margin-top-2 .margin-bottom-1}
 L’échantillon des pages du site ayant fait l’objet d’une vérification de conformité est le suivant :
 1. [Accueil](https://www.numerique.gouv.fr/)
 2. [Mentions légales](/mentions-legales/) 	
