@@ -29,6 +29,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 * **[Chef/Cheffe de projet Résilience RIE - équipements d'extrémité (Box résiliente)](https://place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-resilience-rie---equipements-d-extremite-box-resiliente-hf-reference-2021-590345/ "Chef/Cheffe de projet Résilience RIE - équipements d'extrémité (Box résiliente) - Lien externe")**
 <br>Cadre/Catégorie A
+<br>Poste basé à Paris ou Lyon
 <br>
 
 * **[Chargé/Chargée de la relation clients – Sites réseau complexes](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-relation-clients--sites-reseau-complexes-reference-2021-572778/ "Chargé/Chargée de la relation clients – Sites réseau complexes - Lien externe")**
