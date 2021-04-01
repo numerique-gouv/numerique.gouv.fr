@@ -25,16 +25,16 @@ Piloté par la direction interministérielle du numérique et du système d’in
 [> Lire l’arrêté portant création du RGAA v4 paru ce samedi 21 septembre](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039120412&categorieLien=id)
 
 > [Consulter le RGAA v4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 > ### Une élaboration collective
 >
 > Orchestrée par la DINSIC, la révision du référentiel s’est faite de façon collaborative : pendant plusieurs mois, une consultation en ligne a réuni experts et professionnels du web et de l’accessibilité autour de propositions d’ajouts, de modifications ou de suppression de critères et de tests. Les participants ont pu voter, commenter, débattre, et publier leurs propres propositions.
-> Cette première mouture a ensuite été soumise à une [consultation publique en ligne](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/), en juin 2019, avant d’être consolidée en fonction des retours. 
+> Cette première mouture a ensuite été soumise à une [consultation publique en ligne](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/), en juin 2019, avant d’être consolidée en fonction des retours.
 > <br>
 > <br>
 > [> En savoir plus sur la méthode d’élaboration de cette v4](https://numerique.gouv.fr/actualites/accessibilite-numerique-participez-a-levolution-du-rgaa/)
-{: .encadre}
+{: .encadre role="presentation" }
 
 ### Une mise à jour nécessaire
 
@@ -57,30 +57,30 @@ Une dérogation est possible pour certains contenus précis dont la mise aux nor
 
 ### Plus de clarté
 
-Pour cette nouvelle version du RGAA, les contenus du référentiel ont été restructurés et, pour plus de clarté, rassemblés en un seul document. De par son caractère règlementaire, cette v4 se concentre sur les obligations et les **critères obligatoires** d’accessibilité auxquels sont soumis les services numériques. 
+Pour cette nouvelle version du RGAA, les contenus du référentiel ont été restructurés et, pour plus de clarté, rassemblés en un seul document. De par son caractère règlementaire, cette v4 se concentre sur les obligations et les **critères obligatoires** d’accessibilité auxquels sont soumis les services numériques.
 
 Néanmoins, il est non seulement possible mais aussi souhaitable, pour une inclusion toujours plus forte, d’aller au-delà de ces exigences légales. Afin d’encourager les éditeurs de services numériques en ce sens, la DINSIC publiera dans les semaines qui viennent **un document séparé listant les critères non obligatoires** issus des normes internationales.
 
 > [Consulter le RGAA v4](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)
-{: .lien-important}
+{: .lien-important role="presentation" }
 
-> ### Que contient le RGAA v4 ? 
+> ### Que contient le RGAA v4 ?
 > Le RGAA est un **document opérationnel** et réglementaire destiné aux administrations et à certains acteurs privés, qui permet de connaître les obligations d’accessibilité et de vérifier leur bonne mise en pratique.
 > Il est constitué de deux parties :
 > <br>
 > <br>
 > * les **obligations à respecter.** Cette première partie s’adresse aux décideurs, juristes, managers, responsables de la politique du handicap, ainsi qu’à tous les professionnels du web et de l’accessibilité.
-> * la **liste des critères de contrôle et des tests,** qui permettent de vérifier la conformité d’une page web avec la norme de référence. Ce 2e volet s’adresse aux auditeurs RGAA internes ou prestataires externes. 
-{: .encadre}
+> * la **liste des critères de contrôle et des tests,** qui permettent de vérifier la conformité d’une page web avec la norme de référence. Ce 2e volet s’adresse aux auditeurs RGAA internes ou prestataires externes.
+{: .encadre role="presentation" }
 
 ## Le RGAA en 3 questions
 {: .text-center}
 
-#### **Vos services numériques sont-ils soumis aux obligations d’accessibilité ?** 
+#### **Vos services numériques sont-ils soumis aux obligations d’accessibilité ?**
 
 Jusqu’à ce jour, le RGAA s’appliquait aux administrations d’État et aux collectivités territoriales. La nouvelle version s’étend désormais aux organismes privés chargés d’une mission de service public ou d’intérêt général, ainsi qu’à toute entreprise réalisant un chiffre d’affaires annuel en France de 250 millions d’euros et plus.
 
-#### **Quels supports sont concernés ?** 
+#### **Quels supports sont concernés ?**
 
 Ces organismes publics et privés doivent mettre aux normes d’accessibilité leurs supports numériques de tout type : sites **internet** (d’information ou de services),  sites **intranet et extranet, progiciels, applications mobiles et mobilier urbain numérique** (comme les distributeurs de titres de transport).
 
@@ -102,15 +102,15 @@ Ces organismes publics et privés doivent mettre aux normes d’accessibilité l
 
 <br>
 
-> ### Mettre en pratique l’accessibilité numérique au quotidien 
+> ### Mettre en pratique l’accessibilité numérique au quotidien
 >
 > Le RGAA est un document de référence indispensable mais il n’a pas vocation à être utilisé directement par les équipes en charge de projets web et services numériques. Pour elles, voici quelques leviers pour les aider à mettre en œuvre et améliorer la prise en compte de l’accessibilité au quotidien :
 > <br>
 > * S’assurer que les graphistes web, UX et UI designers, les développeurs ainsi que les producteurs de contenus sont formés à l’accessibilité numérique et fabriquent des **interfaces et contenus accessibles.**
-> * **Sensibiliser les parties prenantes** aux enjeux de l’accessibilité numérique, en vous inspirant par exemple [des démonstrations d’accessibilité web et mobile,](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html) organisées par la DINSIC et ses Entrepreneurs d’intérêt général. 
+> * **Sensibiliser les parties prenantes** aux enjeux de l’accessibilité numérique, en vous inspirant par exemple [des démonstrations d’accessibilité web et mobile,](https://entrepreneur-interet-general.etalab.gouv.fr/blog/2019/08/30/demonstrations-accessibilite-numerique.html) organisées par la DINSIC et ses Entrepreneurs d’intérêt général.
 > * **Intégrer des personnes handicapées** dans les tests usagers.
-> * **Utiliser [la checklist Pidila,](https://pidila.gitlab.io/checklist-pidila/)** qui regroupe les critères des différents référentiels (elle sera mise à jour d’ici mi-octobre avec ceux du RGAA v4) et bonnes pratiques du web, très pratique pour gérer et vérifier la qualité de vos sites. Un outil mis à disposition par la direction de l’information légale et administrative (DILA). 
+> * **Utiliser [la checklist Pidila,](https://pidila.gitlab.io/checklist-pidila/)** qui regroupe les critères des différents référentiels (elle sera mise à jour d’ici mi-octobre avec ceux du RGAA v4) et bonnes pratiques du web, très pratique pour gérer et vérifier la qualité de vos sites. Un outil mis à disposition par la direction de l’information légale et administrative (DILA).
 > * **Appliquer et diffuser les [10 principes d’une démarche en ligne exemplaire](https://www.numerique.gouv.fr/publications/dix-principes/)** publiés par la DINSIC.
 > * **Faire appel à des experts en accessibilité** à certaines étapes du projet par exemple pour contrôler un prototype ou des maquettes graphiques, le livrable d’un prestataire, le code html et bien sûr pour réaliser ou actualiser l’audit RGAA nécessaire à la déclaration d’accessibilité que vous devez publier en ligne.
-{: .encadre}
- 
+{: .encadre role="presentation" }
+

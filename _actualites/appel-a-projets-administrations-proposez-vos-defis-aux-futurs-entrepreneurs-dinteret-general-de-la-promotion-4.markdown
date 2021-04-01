@@ -22,4 +22,4 @@ redirection: https://www.etalab.gouv.fr/appel-a-projets-administrations-proposez
 ---
 
 > [Consulter l'appel à projets](https://www.etalab.gouv.fr/appel-a-projets-administrations-proposez-vos-defis-aux-futurs-entrepreneurs-dinteret-general-de-la-promotion-4)
-{: .lien-important}
+{: .lien-important role="presentation" }

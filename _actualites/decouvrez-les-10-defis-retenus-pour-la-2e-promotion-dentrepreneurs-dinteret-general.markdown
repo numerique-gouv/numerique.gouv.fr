@@ -42,49 +42,49 @@ Au total, 10 défis sur les 30 auditionnés ont retenu l’attention des membres
 > #### Liste des défis sélectionnés et leurs administrations d’accueil :
 > * **Les sciences de la donnée au service de la prévention des accidents maritimes**<br>
 Ministère de la Transition Écologique et Solidaire, direction des affaires maritimes
-> 
+>
 > * **Préfiguration d’une cellule d’exploitation inter-direction du Système national des données de santé**<br>
 Ministère des Solidarités et de la Santé, ministère du Travail, direction de la recherche, des études, de l’évaluation et des statistiques
-> 
+>
 > * **Développement d’outils d’indexation et de présentation au service du patrimoine matériel et immatériel du Mobilier national**<br>
 Ministère de la Culture, direction générale de la création artistique, service à compétence nationale du mobilier national
-> 
+>
 > * **Modèle prédictif des interventions de secours aux personnels**<br>
 Ministère de l’Intérieur, mission de coordination et d’appui à la valorisation des données
-> 
+>
 > * **FRIIM : Faciliter la Réutilisation et l’Interfaçage des Informations Maritimes de balisage**<br>
 Ministère des Armées, service hydrographique et océanographique de la marine
-> 
+>
 > * **Signaux faibles : détecter en amont les entreprises en situation de difficultés pour mieux les accompagner**<br>
 Ministère de l’Economie, direction générale des entreprises et Direccte Bourgogne-Franche-Comté
-> 
+>
 > * **Aide à la lutte contre le blanchiment des capitaux et le financement du terrorisme à partir de données hétérogènes**<br>
 Ministère de l’Action et des Comptes publics, service à compétence nationale Tracfin
->  
+>
 > * **Banque de l’innovation territoriale : une plateforme web pour faire vivre l’écosystème de l’innovation sociale dans les territoires**<br>
 Commissariat général à l’égalité des territoires
-> 
+>
 > * **Mettre en œuvre des techniques de big data pour réaliser l’évaluation, la sélection et l’échantillonnage des données publiques non structurées**<br>
 Secrétariat général auprès des ministères sociaux, services interministériels des archives de France
-> 
+>
 > * **Brigade numérique : mise en place d’une plateforme web de la gendarmerie et des applications mobiles**<br>
 Direction générale de la gendarmerie nationale (DGGN), mission numérique de la gendarmerie nationale (MNGN)
-{: .encadre}
+{: .encadre role="presentation" }
 
 Les membres du jury ont été particulièrement attentifs aux défis ayant un fort potentiel de transformation, d’ouverture et d’entrepreneuriat. Plusieurs nouveautés apportées à la [2e vague du programme Entrepreneurs d’intérêt général](https://www.modernisation.gouv.fr/home/administrations-lancez-vos-defis-a-la-prochaine-promotion-dentrepreneurs-dinteret-general){:target="_blank"} ont appuyé les appréciations du jury : les défis accueilleront plusieurs entrepreneurs (2 ou 3) aux compétences complémentaires, et les administrations d’accueil devront s’impliquer directement dans le projet via une équipe pluridisciplinaire composée d’EIG, d’agents métiers et DSI.
 
 > [(Re)découvrir la première promotion des entrepreneurs d’intérêt général](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-louverture-des-donnees-dans-les-administrations/decouvrez-la-1re-promotion-des-entrepreneurs-dinteret-general){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 #### Prochaine étape : un appel à candidatures pour recruter les futurs EIG
 
 Le processus de recrutement des EIG sera lancé en septembre 2017 via un appel à candidatures public, pour une intégration des 22 entrepreneurs d’intérêt général dans leur administration dès janvier 2018 pour une durée de 10 mois.
 
- 
 
 
 
 
 
 
- 
+
+

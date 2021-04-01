@@ -65,7 +65,7 @@ function myFunction(id) {
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
 <div class="accordion-item">
 <button onclick="myFunction('organigramme')" id="accordion-button" class="accordion-title" aria-controls="organigramme" aria-expanded="false">Version accessible de l'organigramme</button>
-<div class="accordion-content" id="organigramme" style="display: none;">
+<div class="accordion-content" id="organigramme">
 <p><b>Sont rattachés à la direction&nbsp;:</b> le programme TECH.GOUV, le département Infrastructures et Services Opérés (ISO), le département Etalab (cycle de vie de la donnée), le département Performance des Services Numériques (PSN), ainsi que le secrétariat général.</p>
 <p>Chacun est divisé en missions ou pôles. En voici le détail, avec le nom des responsables.</p>
 <br>

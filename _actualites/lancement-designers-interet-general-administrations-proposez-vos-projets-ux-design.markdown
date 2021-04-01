@@ -30,7 +30,7 @@ Le concept vous rappelle quelque chose ? Rien d’étonnant : il reprend la rece
 > ### Vous êtes expert UX et souhaitez devenir designer d’intérêt général ?
 >
 > Encore un peu de patience ! L’appel à candidatures sera lancé **début avril 2019,** après sélection des projets proposés par les administrations. Les candidats retenus par le jury seront recrutés **en CDD, de 6 à 12 mois à compter de juin 2019, pour un salaire mensuel de 3500 euros net**.
-{: .encadre}
+{: .encadre role="presentation" }
 
 ## Des projets à fort impact en termes d’UX
 
@@ -39,7 +39,7 @@ Les administrations disposent de 3 semaines, **du 12 mars au 2 avril 2019** à 1
 Une fois les **projets lauréats sélectionnés début avril**, un **appel à candidatures** sera lancé afin de recruter la première promotion de designers d’intérêt général. Leur salaire sera **entièrement pris en charge** dans le cadre du programme d’investissement d’avenir (voir conditions plus bas), piloté par le secrétariat général pour l’investissement (SGPI), et le collectif animé par la DINSIC.
 
 > [Déposez votre projet Designers d’Intérêt Général](https://www.demarches-simplifiees.fr/commencer/appel-a-projets-pour-integrer-experts-ux "Déposez votre projet Designers d’Intérêt Général - Nouvelle fenêtre"){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 
 ## **Designers d’Intérêt Général en 3 questions-réponses**
@@ -69,10 +69,10 @@ Les projets peuvent être présentés par une **administration d’État** (mini
 Pour en bénéficier également, les autres administrations peuvent faire porter leur projet administrativement par un ministère, via une convention. Sans cela, elles doivent prévoir leur propre mode de financement (autofinancement par exemple).
 
 > [Consultez le cahier des charges complet](/uploads/aap_designers-interet-general_cahier-des-charges.pdf)
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 > [Déposez votre projet Designers d’Intérêt Général](https://www.demarches-simplifiees.fr/commencer/appel-a-projets-pour-integrer-experts-ux "Déposez votre projet Designers d’Intérêt Général - Nouvelle fenêtre"){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 
 <br>

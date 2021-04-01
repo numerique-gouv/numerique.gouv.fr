@@ -38,6 +38,6 @@ Autre progrès notable de l’année 2014 : **la mise à disposition, en novembr
 **« Maintenant, le plus important c'est ce que la société et l'Etat lui-même vont maintenant faire avec ces données, au service de la démocratie, de l'innovation et de l'efficacité de l'action publique »** conclut Henri Verdier.
 
 > [Voir tous les résultats de l'Open Data Index](https://index.okfn.org/){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 > [Découvrir les résultats de la France en détails](https://index.okfn.org/place/france/){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }

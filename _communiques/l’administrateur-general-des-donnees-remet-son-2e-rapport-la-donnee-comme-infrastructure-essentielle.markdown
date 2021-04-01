@@ -43,4 +43,4 @@ concrétisent déjà certaines de ces recommandations.
 >La donnée est devenue un outil un outil indispensable à la transformation de l’action publique. Placé sous l’autorité du Premier ministre, l’administrateur général des données (AGD), a pour rôle de créer les conditions pour que l’État maîtrise ses données, les utilise à bon escient, les partage et en exploite toute la richesse dans le pilotage de ses politiques publiques.
 Henri Verdier, directeur interministériel du numérique et du système d’information et de communication de l’État, occupe cette fonction depuis sa création en 2014.
 ![Timeline]({{ base.url }}/uploads/timeline-rapport-2.jpg)
-{: .encadre}
+{: .encadre role="presentation" }

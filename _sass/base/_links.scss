@@ -118,6 +118,7 @@ a {
 
 .active-link {
   background: $light-gray;
+  font-weight: bold;
 }
 
 .block-link {
@@ -129,5 +130,17 @@ a {
     bottom: 0;
     left: 0;
     right: 0;
+  }
+}
+
+.twitter-timeline {
+  height: 100%;
+}
+
+#tarteaucitronManager {
+  color: white;
+  cursor: pointer;
+  &:hover {
+    text-decoration: underline;
   }
 }

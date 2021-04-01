@@ -142,22 +142,22 @@ Les lauréats seront choisis selon les critères suivants :
 Les résultats définitifs seront annoncés le 17 mai 2019. La 1re promotion de designers d’intérêt général intégrera l’administration à partir de juin 2019.
 
 > [Consultez le règlement de l'appel à candidatures (pdf - 571 ko)](/uploads/designers-interet-general_reglement-candidature.pdf)
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 > [**Candidatez jusqu'au 10 mai, 17h !**](https://www.demarches-simplifiees.fr/commencer/candidature_designer_interet_general)
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 > ## Calendrier :
-> 
+>
 > * **11 avril – 10 mai 2019 à 17h :** appel à candidatures en ligne et présélection des candidats
-> 
+>
 > * **15 mai 2019 :** audition par le jury des candidats présélectionnés
-> 
+>
 > * **17 mai 2019 :** annonce des lauréats
-> 
+>
 > * **À partir de juin 2019 :** prise de poste des designers d’intérêt général (pour une durée de 6 à 12 mois)
-> 
-{: .encadre}
+>
+{: .encadre role="presentation" }
 
 <figure class='image-left' style='width: 15%;'><img src="/uploads/logo_investirlavenir_rvb.png" alt="Logo Investir l'avenir"/></figure>
 *Imaginé et piloté par la DINSIC, le programme Designers d’Intérêt Général est financé par le fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissements d’avenir (PIA) piloté par le secrétariat général pour l’investissement (SGPI).*

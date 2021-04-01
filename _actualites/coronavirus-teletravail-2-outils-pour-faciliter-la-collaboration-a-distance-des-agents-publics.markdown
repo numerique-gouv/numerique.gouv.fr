@@ -73,7 +73,7 @@ Lorsque la vidéo n’est pas nécessaire, **préférez l’audioconférence** q
 </a>
 {: .text-center}
 > [**Accéder à webconf.numerique.gouv.fr**](https://webconf.numerique.gouv.fr/)
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 > ## 5 bonnes pratiques
 > {: .margin-bottom-0}

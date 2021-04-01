@@ -31,7 +31,7 @@ Trouver l’information est la première difficulté à laquelle sont confronté
 
 En parallèle, nous continuons à faire évoluer notre moteur. Il va s’enrichir de **fonctions collaboratives pour simplifier le transfert et le partage de résultats de recherche** entre collègues. L’autre axe d’évolution consiste à **améliorer la pertinence des résultats** en donnant les moyens aux utilisateurs de signaler ceux qui ne correspondent pas exactement à la requête. Chacun pourra ainsi éduquer le moteur. L’idée est simple, sa mise en œuvre un peu plus délicate.
 
- 
+
 
 > ### Dataconnexions 6, c'est en ce moment !
 >
@@ -41,4 +41,4 @@ publiques. La 6e édition du concours est en cours, et se clôturera par une jou
 ](https://www.etalab.gouv.fr/decouvrez-les-finalistes-du-concours->dataconnexions-6){:target="_blank"}
 >* [Consultez le programme](https://www.etalab.gouv.fr/ceremonie-de-remise-des-prix-dataconnexions-6-reservez-votre-place){:target="_blank"} de la journée événement du 2 février, à Toulouse
 >* [Réservez votre place (gratuit)](https://www.eventbrite.fr/e/billets-concours-dataconnexions-6-finale-ceremonie-19573273187){:target="_blank"} pour la finale et la remise des prix
-{: .encadre}
+{: .encadre role="presentation" }

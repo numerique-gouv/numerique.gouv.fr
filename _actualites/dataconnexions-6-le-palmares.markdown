@@ -98,4 +98,4 @@ RdvPasseport.fr est le **premier moteur de recherche de rendez-vous en ligne pou
 >* **Romain Pigenel** (Service d’information du gouvernement)
 >* **Samantha Jerulsalmy** (Elaia Partners)
 >* **Tony Marchand** (DigitalPlace)
-{: .encadre}
+{: .encadre role="presentation" }

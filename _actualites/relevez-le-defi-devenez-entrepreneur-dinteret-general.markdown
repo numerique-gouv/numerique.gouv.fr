@@ -33,11 +33,11 @@ Découvrez le programme et déposez votre candidature avant le 27 octobre sur le
 Nous recherchons 27 personnes aux compétences numériques avérées pour répondre aux défis suivants :
 <br>
 
-* [PrédiSauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/donneesauvetagemaritime.html){:target="_blank"} : **développer des algorithmes prédictifs pour prévenir les accidents maritimes**<br> 
+* [PrédiSauvetage](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/donneesauvetagemaritime.html){:target="_blank"} : **développer des algorithmes prédictifs pour prévenir les accidents maritimes**<br>
 Ministère de la Transition Écologique et Solidaire, direction des affaires maritimes
 <br>
 
-* [Lab Santé](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/labsante.html){:target="_blank"} : **participer à la création d'une cellule d'exploitation des données de santé pour améliorer la santé des Français** 
+* [Lab Santé](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/labsante.html){:target="_blank"} : **participer à la création d'une cellule d'exploitation des données de santé pour améliorer la santé des Français**
 Ministère des Solidarités et de la Santé<br>
 Ministère du Travail, direction de la recherche, des études, de l’évaluation et des statistiques (DREES)
 <br>
@@ -46,7 +46,7 @@ Ministère du Travail, direction de la recherche, des études, de l’évaluatio
 Ministère de la Culture, direction générale de la création artistique, service à compétence nationale du Mobilier national
 <br>
 
-* [Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/previsecours.html){:target="_blank"} : **créer des modèles prédictifs pour aider les sapeurs-pompiers à intervenir plus efficacement**<br> 
+* [Prévisecours](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/previsecours.html){:target="_blank"} : **créer des modèles prédictifs pour aider les sapeurs-pompiers à intervenir plus efficacement**<br>
 Ministère de l’Intérieur, mission de coordination et d’appui à la valorisation des données
 <br>
 
@@ -84,22 +84,22 @@ Ministère de l’Éducation nationale, direction du numérique pour l’éducat
 <br>
 * [dataESR*](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2018/dataesr.html){:target="_blank"} : **développer une plateforme d’aide à l’analyse des données pour éclairer les décisions publiques**<br>
 Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation
- 
+
 Pour assurer la bonne réussite de votre mission, vous serez accompagné par un mentor opérationnel (impliqué dans votre travail quotidien) et suivi par un mentor stratégique (positionné à un haut niveau dans l’administration).
 Vous  disposerez d'un accès exclusif à des sources de données publiques.
 Vous vous réunirez toutes les deux semaines pour des sessions collectives de partage d’expériences et de suivi de projet.
 
 Vous souhaitez contribuer à la résolution de l’un de ces défis et rejoindre la deuxième promotion ?
- 
+
 > [Déposez votre candidature en ligne](https://entrepreneur-interet-general.etalab.gouv.fr/){:target="_blank"}avant le 27 octobre 2017 !
-{: .lien-important}
-**Une question ?** 
+{: .lien-important role="presentation" }
+**Une question ?**
 Adressez-la à entrepreneur-interet-general@data.gouv.fr
 
 **Vous débuterez vos missions en janvier 2018, avec un mot d’ordre : améliorer le service public !**
 <br>
 > #### Jury et critères de sélection
-> 
+>
 > Dès réception des dossiers de candidatures, la mission Etalab du SGMAP effectuera une pré-sélection. Un jury composé des mentors des administrations d’accueil et d’experts du numérique sélectionnera ensuite les 27 lauréats, à l'issue de deux session d’auditions qui auront lieu les 14 et 15 novembre 2017.
 > <br>
 > Les candidats seront évalués sur les critères suivants :
@@ -121,14 +121,14 @@ Tous les postes sont basés à Paris, à l’exception des défis baliseNAV et S
 > <br>
 > * Rendez-vous le 10 octobre de 16h30 à 19h pour échanger avec les administrations d’accueil (à compléter)
 > * Écrivez à : entrepreneur-interet-general@data.gouv.fr
-> 
+>
 > #### Calendrier
 > * **Du 27 septembre au 27 octobre 2017** : Appel à candidatures
 > * **Début décembre 2017** : Annonce des 27 lauréats
-> 
+>
 > * **14 et 15 novembre 2017** : Entretien avec le jury pour les finalistes
 > * **2 janvier au 31 octobre 2018** : Contrats des lauréats au sein des administration d'accueil
-{: .encadre}
+{: .encadre role="presentation" }
 
 *Défi financé par le ministère d'accueil.
 

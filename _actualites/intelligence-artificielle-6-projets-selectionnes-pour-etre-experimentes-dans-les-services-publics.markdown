@@ -46,7 +46,7 @@ Parmi ceux-ci, **6 ont été sélectionnés** par un jury d’experts.
 > * Tâches moins répétitives
 > * Concentration sur les tâches à valeur ajoutée
 > * Économies
-{: .encadre }
+{: .encadre role="presentation" }
 
 ## Les 6 projets lauréats
 {: .text-center .margin-3 }
@@ -205,7 +205,7 @@ Une compréhension naturelle du langage et une synthèse vocale améliorée à f
 > pour déterminer si le proof of concept a fait ses preuves et a vocation à être déployé.
 >
 > **Des experts** (instituts de recherche, associations, prestataires privés) **en données, IA et impact du numérique sur les métiers seront mobilisés pour conduire l’accompagnement**. En plus de l’accompagnement, la DITP et la DINSIC favoriseront les échanges entre les acteurs participant à l’AMI, les rencontres avec des acteurs publics déjà avancés sur des projets d’intelligence artificielle, et avec des acteurs spécialisés sur le sujet dans le domaine de la recherche et de l’industrie.
-{: .encadre .noir }
+{: .encadre role="presentation" .noir }
 
 **Lire aussi :**
 * sur le blog d'Etalab : [Intelligence Artificielle : 6 projets lauréats de l’appel à manifestation d’intérêt IA !](https://www.etalab.gouv.fr/intelligence-artificielle-decouvrez-les-6-projets-laureats-de-lappel-a-manifestation-dinteret-ia){: target="_blank" }

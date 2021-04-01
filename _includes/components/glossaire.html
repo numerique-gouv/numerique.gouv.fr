@@ -1,5 +1,5 @@
 <div id="glossaire">
-    <nav aria-label="Sommaire du glossaire">
+    <nav aria-label="Sommaire du glossaire" role="navigation">
     {% for sections in site.data.rgaa.glossaire.glossary %}
         <a href="#{{ sections.section }}">{{ sections.section }}</a>
     {% endfor %}

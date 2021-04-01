@@ -22,12 +22,12 @@ La mission de l'administrateur général des données conduira donc à améliore
 
 Son rôle consiste également à stimuler l'appropriation par l'Etat des méthodes de l'analyse prédictive et des stratégies fondées sur la donnée. Les nouveaux outils numériques et les données massives désormais accessibles permettent de mieux définir une politique publique et d'en améliorer le pilotage et l'efficacité ; les exemples en sont de plus en plus nombreux, en France et à travers le monde.
 
- 
+
 
 
 #### *La fonction d'administrateur général des données permet de tirer tout le potentiel du SGMAP, en associant différentes dimensions de la transformation numérique de l'Etat.*
 
- 
+
 
 ### Qu’apporte cette fonction à la démarche d’ouverture des données publiques en France ?
 
@@ -36,7 +36,7 @@ Son rôle consiste également à stimuler l'appropriation par l'Etat des méthod
 C'est aussi une fonction qui permet de tirer tout le potentiel du SGMAP, en associant différentes dimensions de la transformation numérique de l'Etat : la stratégie technologique des systèmes d'information, l'innovation de service, l'évaluation des politiques publiques. Dans toutes ces composantes, la maîtrise des données, la maîtrise des nouvelles approches comme le big data, la connaissance des nouvelles méthodes de travail sur les données sont de plus en plus centrales.
 
 La démarche d'open data française, pour sa part, s'enrichira considérablement de ces compétences. Elle a déjà bénéficié du fait d'être adossée à une véritable culture du développement opérationnel, qui a permis la conception rapide du nouveau data.gouv.fr mais aussi le développement de projets comme openfisca.fr. Elle a également bénéficié d'une culture du travail avec les écosystèmes, qui a fait naître un projet comme BANO, la base d’adresses nationale ouverte. Enfin, elle va continuer de s’enrichir en s'appuyant sur des équipes qui utiliseront elles-mêmes les données et seront plus affutées encore quand il s'agira de rechercher des données importantes ou de travailler à leur mise en forme.
- 
+
 
 #### *La France est - à ma connaissance - le premier pays à créer cette fonction au niveau d'un Etat. Quelles seront vos priorités en tant qu’administrateur général des données dans les mois à venir ?*
 
@@ -44,7 +44,7 @@ Henri Verdier. Nous allons prendre le temps d'élaborer une stratégie d'ensembl
 
 Néanmoins, sans attendre la stratégie définitive, nous allons immédiatement commencer à faire émerger de nouvelles problématiques et de nouvelles données en provenance des administrations, et à bâtir de nouvelles relations entre ces administrations et les talents disponibles dans l'écosystème des startups et dans le monde académique. Nous allons également créer très rapidement une petite cellule de « datascientists » qui se penchera sur différents problèmes d'évaluation ou de pilotage des politiques publiques.
 
- 
+
 
 > [A lire aussi : [Dossier de presse] La France se dote d'un administrateur général des données](https://www.modernisation.gouv.fr/node/82859){: target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }

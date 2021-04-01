@@ -21,7 +21,7 @@ files:
 file: "/uploads/CP_DIG_appel_a_candidatures.pdf"
 ---
 
-Un **jury mixte** composé d’experts UX issus du privé et du public évaluera les candidats selon : 
+Un **jury mixte** composé d’experts UX issus du privé et du public évaluera les candidats selon :
 
 * leurs compétences : design de service, design UX, design UI, etc. ;
 * leur dynamisme, leur vision et capacité à mener à bien des projets ;
@@ -33,15 +33,15 @@ Les candidats peuvent postuler dès aujourd’hui, jusqu’au **10 mai 2019 à 1
 Le **programme Designers d’Intérêt Général** est financé par le Fonds **« Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissements d’avenir (PIA)**.
 
 
-> <br> 
+> <br>
 > **Calendrier :**
-> * 11 avril – 10 mai 2019 à 17h : appel à candidatures 
-> * 15 mai 2019 : jury de sélection 
+> * 11 avril – 10 mai 2019 à 17h : appel à candidatures
+> * 15 mai 2019 : jury de sélection
 > * 17 mai 2019 : annonce des lauréats
 > * A partir de juin 2019 : prise de poste des designers d’intérêt général
-{: .encadre}
+{: .encadre role="presentation" }
 
-**Au programme de cette 1re promotion :** 
+**Au programme de cette 1re promotion :**
 <br>
 * **Améliorer la communication et la collaboration des 1,2 million d’agents de l’Éducation nationale grâce à des outils numériques**<br>
 *Ministère de l’Éducation nationale et de la Jeunesse*

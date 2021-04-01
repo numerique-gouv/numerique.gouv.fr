@@ -17,6 +17,8 @@ une-ou-diaporama:
 
 ## MPS VU PAR SES UTILISATEURS
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x2jundw" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x2jundw" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 ![sgmap-1anmps.jpg](/uploads/sgmap-1anmps.jpg)

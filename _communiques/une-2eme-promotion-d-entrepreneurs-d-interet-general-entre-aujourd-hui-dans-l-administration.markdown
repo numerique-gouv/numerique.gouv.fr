@@ -35,7 +35,7 @@ Découvrez en détail [les défis et les profils de la 2ème promotion EIG](http
 > * Une équipe de 2 à 3 entrepreneur·e·s d’intérêt général par défi, encadré par un mentor opérationnel et suivi par un mentor stratégique au sein des administrations d’accueil
 > * Des sessions de mentoring animées par Etalab
 > * Une ouverture à l'écosystème numérique
-{: .encadre}
+{: .encadre role="presentation" }
 
 
 Le programme « Entrepreneur.e d’intérêt général » est  financé par le fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’Investissements d’Avenir. Il est porté par la **Présidence de la République**, soutenu par **Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre chargé du numérique,** et piloté par la mission **Etalab** au sein de la **direction interministérielle du numérique et du système d'information et de communication de l'État (DINSIC).**

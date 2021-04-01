@@ -32,7 +32,7 @@ Un nouveau point d’étape qui accorde une large place au volet numérique port
 
 > Nous avons repensé la dématérialisation des services publics à partir de l’expérience des usagers et fait de l’accompagnement dans leurs démarches une priorité.
 {: .citation}
-> **Cédric O** 
+> **Cédric O**
 > <br>Secrétaire d’État chargé du Numérique
 {: .auteur-citation}
 {: .margin-bottom-0}
@@ -60,7 +60,9 @@ Parmi ces actions : l’ouverture en décembre prochain par la DINUM d’**un gu
 
 En ce sens, le Gouvernement s’engage à **mieux détecter et accompagner les usagers en difficulté avec les outils numériques**. Bientôt, ils pourront compter sur **Aidants Connect**, créé par la mission Société numérique avec l’appui de la DINUM, via Beta.gouv.fr. Ce dispositif proposera un accompagnement humain et un outil basé sur le mécanisme d’identification [FranceConnect](https://www.franceconnect.gouv.fr/) afin que des tiers professionnels puissent réaliser leurs démarches administratives en ligne pour eux, en toute sécurité et légalité.
 
-<iframe frameborder="0" width="680" height="383" src="https://www.dailymotion.com/embed/video/x7obr5q" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x7obr5q" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 <br>
 <br>
 
@@ -85,4 +87,4 @@ Un laboratoire – **le lab IA** – installé au sein de la DINUM soutient des 
 [![Retrouvez le détail des mesures du 4e CITP (pdf - 1,4 Mo)](/uploads/capture-dp-citp4-200.png){: width="100px" height="141px"}](/uploads/dossier_de_presse-4eme_comite_interministeriel_de_la_transformation_publique.pdf)
 {: .text-center}
 > [Retrouvez le détail des mesures du 4e CITP (pdf - 1,4 Mo)](/uploads/dossier_de_presse-4eme_comite_interministeriel_de_la_transformation_publique.pdf)
-{: .lien-important}
+{: .lien-important role="presentation" }

@@ -39,7 +39,7 @@ Le panorama met aussi en exergue les efforts de l’Etat en matière de dépense
 ![panorama_juillet2018.png](/uploads/panorama_juillet2018.png){:height="88" width="200"}
 {: .text-center}
 > [Consulter la 6e édition du panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 
 Crédit photo : everythingpossible - Fotolia

@@ -11,7 +11,7 @@
   {% assign crumbs = crumbs_string | strip_newlines | split: '::' %}
 {% endif %}
 {% if crumbs.size > 1 %}
-  <nav class="default-text-padding margin-vertical-1 h6" id="fil-ariane" aria-label="Fil d'Ariane">
+  <nav class="default-text-padding margin-vertical-1 h6" id="fil-ariane" aria-label="Fil d'Ariane" role="navigation">
     <ol>
       <li><a href="/">Accueil</a></li>
       {% for crumb in crumbs offset: 1 %}

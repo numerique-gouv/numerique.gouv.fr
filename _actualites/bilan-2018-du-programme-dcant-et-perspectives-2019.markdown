@@ -46,7 +46,7 @@ L’équipe du programme DCANT a aussi réalisé des **webinaires interactifs et
 > Huit séances ont été réalisées depuis septembre 2018, à raison d’un webinaire en moyenne par semaine, abordant à chaque fois un thème différent, notamment : l’open data, le RGPD, les Startups d’État (Mes aides, API particulier) ou l’outil de dématérialisation demarches-simplifiees.fr. Chaque séance est ensuite diffusée en ligne sur la chaîne Dailymotion de la DINSIC. Avec plus de 4 000 vues et près de 300 heures de visionnage, le franc succès de cette initiative encourage les partenaires à la poursuivre en 2019 !
 > <br><br>
 > [**> Visionner les webinaires DCANT**](https://www.dailymotion.com/playlist/x5s9yi "Visionner les webinaires DCANT-Nouvelle fenêtre"){:target="_blank"}
-{: .encadre}
+{: .encadre role="presentation" }
 
 ### Objectifs : pérenniser et innover !
 {: .margin-top-2 .margin-bottom-1}
@@ -65,4 +65,4 @@ Constituée de 14 actions, dont 10 auront vocation à pérenniser et accélérer
 {: .text-center}
 
 > [Consulter le bilan DCANT du 2nd semestre 2018 et la feuille de route du 1er semestre 2019](/uploads/DCANT_bilan-perspectives_1er-semestre2019.pdf "Consulter le bilan du 1er semestre 2018 et la feuille de route du 1er semestre 2019 - pdf")(pdf - 2,2Mo)
-{: .lien-important }
+{: .lien-important role="presentation"  }

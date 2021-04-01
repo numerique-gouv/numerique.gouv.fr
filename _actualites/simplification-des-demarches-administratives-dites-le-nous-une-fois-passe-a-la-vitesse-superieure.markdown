@@ -25,25 +25,25 @@ Publié le 20 janvier 2019 au Journal officiel, le **décret « relatif aux éch
 
 Le décret organise les conditions d’échange d’informations entre administrations et précise les domaines et les procédures concernées.
 
-**Pour les particuliers, sont concernées les procédures relevant :** 
+**Pour les particuliers, sont concernées les procédures relevant :**
 * de l’emploi, du chômage, de l’identité (état civil)
 * de la santé et de la solidarité (aides sociales, handicap, perte d'autonomie, retraite, sécurité sociale, etc.)
 
-**Pour les entreprises, sont concernées les procédures relevant :** 
-* de réglementations particulières (en matière d'agriculture et de forêt, de bâtiments et de travaux publics…) 
-* des aides publiques 
-* de la création, cessation, modification, reprise et transmission de l’entreprise 
-* de la fiscalité 
-* de la gestion des ressources humaines et la formation professionnelle * de la législation sur les baux commerciaux et professionnels 
-* de la comptabilité, le financement et l’assurance de l’entreprise 
-* des marchés publics (pour ce qui concerne la constitution du dossier de candidature) 
+**Pour les entreprises, sont concernées les procédures relevant :**
+* de réglementations particulières (en matière d'agriculture et de forêt, de bâtiments et de travaux publics…)
+* des aides publiques
+* de la création, cessation, modification, reprise et transmission de l’entreprise
+* de la fiscalité
+* de la gestion des ressources humaines et la formation professionnelle * de la législation sur les baux commerciaux et professionnels
+* de la comptabilité, le financement et l’assurance de l’entreprise
+* des marchés publics (pour ce qui concerne la constitution du dossier de candidature)
 * de la règlementation en matière commerciale
 
-L’administration sera tenue d'informer l’usager sur ces échanges en lui indiquant les informations qui lui sont nécessaires pour traiter sa démarche, les informations qu’elle se procure auprès d’autres administrations et d’assurer la traçabilité des échanges jusqu’à 36 mois suivant la démarche. 
+L’administration sera tenue d'informer l’usager sur ces échanges en lui indiquant les informations qui lui sont nécessaires pour traiter sa démarche, les informations qu’elle se procure auprès d’autres administrations et d’assurer la traçabilité des échanges jusqu’à 36 mois suivant la démarche.
 
-Pour organiser l’ensemble de ces échanges d’informations, les administrations pourront s’appuyer sur le **[catalogue d’API, opéré par la DINSIC](https://api.gouv.fr/){:target="_blank"},** qui permettent l’échange d’informations entre administrations en toute sécurité. 
+Pour organiser l’ensemble de ces échanges d’informations, les administrations pourront s’appuyer sur le **[catalogue d’API, opéré par la DINSIC](https://api.gouv.fr/){:target="_blank"},** qui permettent l’échange d’informations entre administrations en toute sécurité.
 
-#### Réduire le nombre d’informations et de pièces justificatives demandées aux usagers 
+#### Réduire le nombre d’informations et de pièces justificatives demandées aux usagers
 
 Un deuxième décret fixe quant à lui la **« liste des pièces justificatives que le public n'est plus tenu de produire à l'appui des procédures administratives »** dès lors que les échanges organisés par le premier décret sont effectifs. Ainsi, dans le cadre des procédures de marchés publics et de demandes d’aides publique, les entreprises et organismes à but non lucratif, ne seront plus tenus de transmettre un certain nombre de pièces telles que :
 * l’attestation de régularité fiscale délivrée par la direction générale des finances publiques
@@ -61,7 +61,7 @@ Y participeront, les collectivités territoriales de plus de 3 500 habitants, le
 
 
 [Consultez le décret du 18 janvier 2019 relatif aux échanges d'informations et de données entre administrations dans le cadre des démarches administratives](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038029589&dateTexte=&categorieLien=id){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 [Consultez le décret du 18 janvier 2019 fixant la liste des pièces justificatives que le public n'est plus tenu de produire](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000038029642&dateTexte=&categorieLien=id){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }

@@ -14,15 +14,14 @@ $('#contact-form').submit(function(event) {
 
   axios.post('https://' + url + '/api/mail', params)
     .then(function (response) {
-      $('#message').removeClass('hide').addClass('green-message').html('Votre message a bien été envoyé')
       $('input').val('')
       $('textarea').val('')
+      $('#message').removeClass('hide').addClass('green-message').html('Votre message a bien été envoyé')
     })
     .catch(function (error) {
       $('#message').removeClass('hide').addClass('red-message').html("Une erreur est survenue, votre message n'a pu être envoyé")
     });
 });
-
 
 $("#contact-form").validate(
   {
@@ -31,6 +30,7 @@ $("#contact-form").validate(
       subject: "Saisissez un sujet pour votre message",
       text: "Saisissez le contenu de votre message"
     },
+    errorElement: "p",
     invalidHandler: function(event, validator) {
       $('input').css('border-color', 'gray')
       $('textarea').css('border-color', 'gray')
@@ -38,12 +38,13 @@ $("#contact-form").validate(
       var errors = validator.numberOfInvalids();
       if (errors) {
         validator.errorList.forEach(function(item){
+          console.log(item)
           let element = $(item.element)
           element.attr('aria-invalid', 'true')
           element.css('border-color', '#af0202')
         })
+        validator.errorList[0].element.focus()
       } else {
-
       }
     }
   }

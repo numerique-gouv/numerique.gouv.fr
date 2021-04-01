@@ -19,4 +19,4 @@ redirection: https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-num
 ---
 
 > [Lire la suite sur beta.gouv.fr](https://blog.beta.gouv.fr/dinsic/2020/11/10/nous-recrutons-une-brigade-numerique/)
-{: .lien-important}
+{: .lien-important role="presentation" }

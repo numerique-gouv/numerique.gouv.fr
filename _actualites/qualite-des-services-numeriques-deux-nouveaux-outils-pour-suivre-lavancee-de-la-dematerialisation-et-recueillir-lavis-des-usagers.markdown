@@ -27,7 +27,7 @@ Où en est la dématérialisation des démarches de l’État ? Sont-elles de qu
 [![Observatoire de la qualité des services numériques](/uploads/capture-observatoire-300.png){: width="200px" height="120px" }](https://observatoire.numerique.gouv.fr/)
 {: .text-center}
 > [Consulter l’observatoire de la qualité des services numériques](https://observatoire.numerique.gouv.fr/)
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 Le tableau de bord de l'observatoire est également [disponible en open data sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/observatoire-de-la-dematerialisation-de-qualite-tableau-de-bord-des-demarches-phares-de-letat/).
 
@@ -39,7 +39,7 @@ Y sont passées en revue **les 250 démarches phares de l’État**, c’est-à-
 > <br>
 > **Objectif 2022 : 100%**
 {: .text-center}
-{: .encadre}
+{: .encadre role="presentation" }
 <br>
 
 ### **L’avis des citoyens sur les démarches en ligne**
@@ -47,7 +47,7 @@ Y sont passées en revue **les 250 démarches phares de l’État**, c’est-à-
 Cet indice de satisfaction provient d’un deuxième dispositif que vient également de mettre en place la DINSIC : [**le bouton « Je donne mon avis »**](https://observatoire.numerique.gouv.fr/Aide/Donner%20son%20avis). Placé à la fin d'une démarche administrative en ligne, ce bouton permettra à chaque usager de donner son avis sur celle-ci. Le déploiement commence et va s’intensifier dans les mois à venir pour couvrir les 250 démarches phares de l’État.
 
 > [En savoir plus sur MonAvis](https://observatoire.numerique.gouv.fr/Aide/Donner%20son%20avis){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement en expérimentation à la Caf du Gard qui, lui, permettra aux usagers de partager leur expérience avec les services publics, tous canaux confondus.
 
@@ -58,15 +58,15 @@ Ce dispositif est complémentaire avec le site voxusagers.gouv.fr actuellement e
 > <br>
 > <br>
 > **Comment implémenter le bouton MonAvis ?** C’est très simple :
-> 
+>
 > **1.** Créez votre compte sur [observatoire.numerique.gouv.fr](https://observatoire.numerique.gouv.fr/login/XWiki/XWikiLogin?xredirect=%2FXWiki%2FXWikiRegister)
-> 
+>
 > **2.** Grâce au moteur de recherche, trouvez la démarche pour laquelle vous souhaitez créer le bouton
-> 
+>
 > **3.** Sur la page de votre démarche, déclarez-vous « porteur de cette démarche »
-> 
+>
 > **4.** Récupérez le code du bouton en allant dans l’onglet « Code à intégrer ». Cliquez sur le bouton « Générer le code », copiez le code puis collez-le dans la démarche.
-{: .encadre}
+{: .encadre role="presentation" }
 
 
 
@@ -76,21 +76,21 @@ Les résultats de l'ensemble de ces mesures permettront à l’État et aux admi
 
 Lancés dans le cadre du [3e comité interministériel de la transformation publique](https://www.gouvernement.fr/transformation-publique-le-gouvernement-tient-ses-engagements) (CITP), qui s’est tenu le 20 juin 2019 sous la présidence du Premier ministre, l'observatoire comme MonAvis répondent à la volonté du Gouvernement de s’assurer que **les services numériques simplifient effectivement la vie des Français et ne laissent personne au bord du chemin**. Cet objectif de mettre le numérique au service des usagers est au cœur du [**programme TECH.GOUV**](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/) d’accélération de la transformation numérique du service public.
 
- 
+
 > J’ai la conviction que le numérique est un formidable atout pour les Français, encore faut-il que ce progrès soit partagé par tous. Nous sommes dans une démarche humble, transparente et ambitieuse. Lorsque nous décidons de rendre public l’état d’avancement des démarches en ligne, il ne s’agit pas de désigner les bons et les mauvais élèves mais au contraire de mesurer le chemin parcouru, de mobiliser les administrations et de construire avec les Français les services publics de demain.
 {: .citation}
-> **Cédric O** 
+> **Cédric O**
 > <br>Secrétaire d’État chargé du Numérique
 {: .auteur-citation}
-{: .margin-top-0 .margin-bottom-1} 
+{: .margin-top-0 .margin-bottom-1}
 À la demande du Premier ministre, le secrétaire d’État a annoncé qu’il rencontrerait l’ensemble des membres du Gouvernement pour étudier, ministère par ministère, les actions à mettre en œuvre pour améliorer la qualité du service public en ligne.
 <br>
 <br>
 
 [![Consulter le bilan et les perspectives du 3e CITP](/uploads/couv-doc-citp-3-280contour.jpg){: width="100px" height="140px"}](https://www.gouvernement.fr/sites/default/files/document/document/2019/06/dossier_-_bilan_et_perspectives_du_3eme_comite_interministeriel_de_la_transformation_publique_-_20.06.2019.pdf)
 {: .text-center}
-> [Consulter le bilan et les perspectives du 3e CITP](https://www.gouvernement.fr/sites/default/files/document/document/2019/06/dossier_-_bilan_et_perspectives_du_3eme_comite_interministeriel_de_la_transformation_publique_-_20.06.2019.pdf)(pdf, 560 ko) 
-{: .lien-important}
+> [Consulter le bilan et les perspectives du 3e CITP](https://www.gouvernement.fr/sites/default/files/document/document/2019/06/dossier_-_bilan_et_perspectives_du_3eme_comite_interministeriel_de_la_transformation_publique_-_20.06.2019.pdf)(pdf, 560 ko)
+{: .lien-important role="presentation" }
 <br>
 <br>
 

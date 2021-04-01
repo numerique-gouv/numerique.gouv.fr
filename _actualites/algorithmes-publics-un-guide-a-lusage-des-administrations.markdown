@@ -16,4 +16,4 @@ redirection: https://www.etalab.gouv.fr/algorithmes-publics-etalab-publie-un-gui
 ---
 
 > [Lire la suite sur etalab.gouv.fr](https://www.etalab.gouv.fr/algorithmes-publics-etalab-publie-un-guide-a-lusage-des-administrations)
-{: .lien-important}
+{: .lien-important role="presentation" }

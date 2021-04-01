@@ -34,12 +34,12 @@ Alors que débute tout juste l’élaboration de son [plan d’action national](
 La passation aura lieu à New York en septembre prochain, en présence du Secrétaire d’Etat Thierry Mandon.
 
 > [Retrouvez tous les résultats de l’élection au comité directeur du PGO](https://www.opengovpartnership.org/about/steering-committee/steering-committee-2014-rotation-results){:target="_blank"} (en anglais).
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 > #### Qu'est-ce que le Partenariat pour un gouvernement ouvert (PGO) ?
-> 
+>
 > Lancé en septembre 2011 par 8 pays fondateurs, le Partenariat pour le Gouvernement ouvert (PGO) ou Open Government Partnership (OGP) est une initiative internationale, qui s’attache à promouvoir la transparence et l’intégrité des gouvernements, et l’utilisation des nouvelles technologies, en particulier d’Internet, pour faciliter cette ouverture. Le Partenariat regroupe aujourd'hui 64 pays membres, dont la France.
-{: .encadre}
+{: .encadre role="presentation" }
 
 
 

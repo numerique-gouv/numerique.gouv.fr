@@ -34,8 +34,8 @@ $( document ).on( 'keydown', function ( e ) {
 function toogleMenu() {
   if(!button.hasClass(activatedClass)) {
     Foundation.Motion.animateIn(menu, "slide-in-left", function () {
-      main.addClass(grayClass);
       button.addClass(activatedClass);
+      button.attr("aria-expanded","true");
     });
   } else {
     closeMenu();
@@ -46,7 +46,7 @@ function closeMenu() {
   if(button.hasClass(activatedClass)) {
     Foundation.Motion.animateOut(menu,"slide-out-left",function () {
       button.removeClass(activatedClass);
-      main.removeClass(grayClass);
+      button.attr("aria-expanded","false");
     });
   }
 }

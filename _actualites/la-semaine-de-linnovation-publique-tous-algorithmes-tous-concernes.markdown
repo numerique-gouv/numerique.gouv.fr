@@ -30,7 +30,7 @@ Elle intervenait samedi 19 novembre à la table ronde « Demain, tous algorithm�
 ><br>
 > **Définition** : série d'instructions qui impliquent des calculs à partir de données pour aboutir à un résultat. <br>
 > **Usages** : optimisation du calcul du prix d'un billet d'avion ou de train à partir d'un système de « yield management », réservation d'une voiture avec chauffeur ou proposition de co-voiturage, recommandation de films ou de livres en ligne, référencement par les moteurs de recherche, filtrage de contenus sur les réseaux sociaux, mais aussi calcul du montant de l'impôt sur le revenu ou du montant d'un crédit impôt recherche...
-{: .encadre}
+{: .encadre role="presentation" }
 
 #### Les travers des mécanismes de filtrage
 La secrétaire d'Etat a notamment dénoncé les risques que font peser les mécanismes de filtrage des réseaux sociaux, alimentés en continu par les actions et les préférences exprimées par les internautes. A force, ils finissent par enfermer dans des mondes informationnels et unidirectionnels, sans possibilité d'être contredits par d'autres visions. De ce fait, ils encouragent, par exemple, les phénomènes de radicalisation.
@@ -43,7 +43,7 @@ La secrétaire d'Etat a notamment dénoncé les risques que font peser les méca
 En attendant, les algorithmes ne contribuent pas seulement à façonner des opinions, leurs impacts économiques s'avèrent considérables. Le poids des plateformes de Google ou d'Amazon est tel qu'une modification des modes de calcul utilisés pour le référencement peut affecter significativement les chiffres d'affaires d'entreprises. « L'algorithme devient un mode de gouvernance », a affirmé Henri Verdier. Pour Axelle Lemaire, il doit être appréhendé comme un objet politique et interrogé sur ses usages et son fonctionnement.
 
 Dès lors, les réflexions ne peuvent être abandonnées aux sociétés privées. « Il faut se prémunir contre cette vision que les entreprises et les technologies vont sauver le monde », a ajouté Gilles Babinet (photo ci-contre). Les intervenants de la table ronde se sont accordés sur les vertus de l'indispensable débat public pour sensibiliser la société dans son ensemble et, en particulier les politiques, aux enjeux des algorithmes et de l'intelligence artificielle qui démultiplie leur potentiel.
- 
+
 #### Le code à l'école pour rendre les citoyens plus autonomes
 <figure class='image-centre' style='width: 100%;'><img src="/uploads/tousalgo_une2.png"/></figure>
 {: .text-center}<br>
@@ -51,7 +51,7 @@ Dès lors, les réflexions ne peuvent être abandonnées aux sociétés privées
 Loin de s'offusquer de la polémique récente autour du traitement automatisé de l'admission post-bac (APB), Axelle Lemaire l'a jugée au contraire salutaire : « elle a permis au grand public de réaliser l'enjeu à l'intérieur de la machine algorithmique ». Elle a également vanté les bienfaits de l'ouverture des algorithmes, comme ce fut le cas en début d'année pour le calculateur de l'impôt sur le revenu de Bercy.
 
 Cette politique d'ouverture, déjà mise en œuvre avec l'open data, fait toutefois surgir de nouveaux défis. Elle suppose une montée en compétence de l'ensemble de la société. L'apprentissage du code à l'école s'inscrit dans cette logique qui vise à outiller les citoyens en leur donnant les moyens de s'emparer de ces sujets et d'exercer leurs prérogatives. Et pourquoi pas prévoir la co-construction d'algorithmes avec les citoyens ! Des premières initiatives vont dans ce sens.
- 
+
 #### S'inspirer des concepts du logiciel libre
 La forme que doit prendre la publication des algorithmes suscite des débats au sein de la communauté informatique. Il y a, d'un côté, les partisans de la mise à disposition du seul code et, de l'autre, ceux qui prônent le partage d'explications de texte pour rendre le code intelligible, même s'ils risquent d'introduire des biais de lecture.
 
@@ -76,10 +76,10 @@ Autre avancée de la loi : la portabilité des données. Elle vise à permettre 
 Pour les autres cas, les administrations sont tenues de publier en ligne les règles définissant les principaux traitements algorithmiques utilisés dans l'accomplissement de leurs missions lorsqu'ils fondent des décisions individuelles.
 > <br>
 > Cette obligation de la loi pour une République numérique ne s'impose pas aux sociétés privées.
-{: .encadre}
- 
-#### Des principes fondamentaux toujours d'actualité 
+{: .encadre role="presentation" }
+
+#### Des principes fondamentaux toujours d'actualité
 
 Les évolutions législatives trouvent leur inspiration dans les fondamentaux des différentes conventions des droits de l'homme : respect des libertés fondamentales, droit à la vie privée, transparence de l'information publique… Axelle Lemaire a insisté sur le fait que*« ces principes sont toujours applicables aujourd’hui à l'environnement numérique »*. <br>
 > [(Re)voir l'intégralité de la table ronde en vidéo (à partir de la 20')](https://www.dailymotion.com/video/x52onf2){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }

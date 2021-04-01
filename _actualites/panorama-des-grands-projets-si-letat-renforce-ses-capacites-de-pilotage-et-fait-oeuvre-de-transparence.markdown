@@ -28,8 +28,8 @@ Outre la liste des grands projets en cours ou en cadrage, le panorama propose de
 Cet outil inédit a été conçu à la demande du Premier ministre ([circulaire du 20 janvier 2015](http://circulaires.legifrance.gouv.fr/pdf/2015/01/cir_39141.pdf){: target="_blank"}) en collaboration étroite avec l’ensemble des ministères. Il est le fruit de plusieurs mois de travail avec ces derniers, depuis le prototypage d’un cadre commun, la collecte des données, jusqu’à l’élaboration de ce panorama public.
 
 > [Consulter le panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
-{: .lien-important}
- 
+{: .lien-important role="presentation" }
+
 ## Les données clés de 57 projets publiées en ligne ##
 
 Tout citoyen dispose d'une vue sur les principaux efforts consentis par l'Etat pour moderniser son système d’information et engager une transformation numérique. Il a accès aux informations détaillées sur chacun des grands projets qui ont été retenus dans cette première édition du panorama. <i>« Sa publication sert les principes de transparence et de redevabilité et renforce les relations avec les fournisseurs, éditeurs et sociétés de services Elle contribue aussi à améliorer l'efficacité de l'action de l’Etat »</i>, souligne Henri Verdier, DSI de l’Etat.
@@ -43,7 +43,7 @@ Le panorama inclut en priorité les projets qui requièrent un suivi particulier
 Il intègre notamment tous les nouveaux projets dont le coût estimé global (prenant en compte la construction de la solution ainsi que deux années de maintenance) dépasse 9 M€. Les projets répondant à cette caractéristique sont par ailleurs soumis au DINSIC pour avis conforme à l’issue de leur phase de cadrage, et peuvent à cette occasion faire l’objet de recommandations partagées avec les cabinets ministériels.
 
 Au quotidien, le panorama facilite la priorisation commune des actions de la DINSIC avec les ministères concernés : appui à un projet présentant des risques de dérapage, formation des directeurs de projets, partage de méthodes structurantes, appui à l’étude de la valeur du projet selon la méthode d’analyse et de remontée de la valeur ([Mareva 2](http://modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-son-systeme-dinformation/un-nouveau-mareva-pour-mieux-calculer-la-valeur-des-projets-informatiques-de-l-administration){: target="_blank"}), mise en relation de personnes confrontées à de mêmes enjeux, notamment dans le cadre de la [communauté des directeurs de projet](http://www.modernisation.gouv.fr/ladministration-change-avec-le-numerique/par-son-systeme-dinformation/les-directeurs-de-projet-une-communaute-strategique-pour-la-dsi-de-letat){: target="_blank"}, partage interministériel de solutions.
- 
+
 ## Un levier pour les équipes de pilotage du SI des ministères ##
 
 La visibilité du panorama valorise les initiatives numériques de l’État et les équipes qui en ont la charge. La communication au cabinet du Premier ministre de l'état d'avancement des grands projets et leur publication constituent des leviers pour organiser et structurer la chaîne de collecte d'informations et ainsi les prises de décisions.

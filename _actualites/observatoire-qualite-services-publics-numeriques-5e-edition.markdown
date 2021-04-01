@@ -15,22 +15,20 @@ chapeau-text: 'L’observatoire de la qualité des services publics numériques,
   2020. '
 une-ou-diaporama:
 - image: "/uploads/observatoire_aout_2020-fc0cfc.png"
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
-
-<style>
-.button {
-background-color: #0d5c98;
-border: 1px solid white;
-color: white;
-padding: 10px 10px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-style: normal;
-margin: 4px 2px;
-cursor: pointer;
-}
-</style>
 
 <p align="center"><a href="https://observatoire.numerique.gouv.fr/observatoire/"><img src="/uploads/observatoire_aout_2020.png" width="200" style="border:1px solid gray" align="center" alt="Consulter l’observatoire"/></a>
 <br>
