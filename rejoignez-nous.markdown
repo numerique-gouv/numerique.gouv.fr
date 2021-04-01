@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 19 mars 2021
+date_de_modification: 1 avril 2021
 layout: page-annexe
 ---
 
@@ -27,6 +27,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Chef/Cheffe de projet Résilience RIE - équipements d'extrémité (Box résiliente)](https://place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-resilience-rie---equipements-d-extremite-box-resiliente-hf-reference-2021-590345/ "Chef/Cheffe de projet Résilience RIE - équipements d'extrémité (Box résiliente) - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Chargé/Chargée de la relation clients – Sites réseau complexes](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-relation-clients--sites-reseau-complexes-reference-2021-572778/ "Chargé/Chargée de la relation clients – Sites réseau complexes - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -44,10 +48,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Directeur/Directrice de projet SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-557878/ "Directeur/Directrice de projet SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet---architecte-technique--services-d-acces-internet-hf-reference-2021-557169/ "Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -55,10 +55,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 * **[Ingénieur/Ingénieure sécurité réseau (SOC du réseau interministériel de l'État) 3 postes à pourvoir H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat--3-postes-a-pourvoir-hf-reference-2021-557187/ "Ingénieur/Ingénieure sécurité réseau (SOC du réseau interministériel de l'État) 3 postes à pourvoir H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>Poste basé en Ille et Vilaine (35)
-<br>
-
-* **[Chargé/Chargée de mission « numérique et territoires » H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission--numerique-et-territoires--hf-reference-2021-559724/ "Chargé/Chargée de mission « numérique et territoires » H/F - Lien externe")**
-<br>Cadre/Catégorie A
 <br>
 
 
