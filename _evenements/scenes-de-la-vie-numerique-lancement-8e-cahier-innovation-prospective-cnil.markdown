@@ -15,13 +15,13 @@ une-ou-diaporama:
 - image: "/uploads/Cahier%20IP8%20-%20Sc%C3%A8nes%20de%20la%20vie%20num%C3%A9rique_visuel-ETALAB.PNG"
   alternative-textuelle: Scènes de la vie numérique
 event_start_date: 2021-04-13 09:00:00 +02:00
-event_end_date: 2021-04-13 10:30:00 +02:00
 champs_informations:
+- intitule: Horaires
+  contenu: 9h-10h30
 - intitule: Modalités
-  contenu: Gratuit
-- intitule: Inscription obligatoire
+  contenu: Inscription gratuite et obligatoire
   lien: 'https://app.livestorm.co/dinum-12/linc-ip8?type=detailed '
-- intitule: Plus d'information
+- contenu: Plus d'information
   lien: 'https://linc.cnil.fr/fr/scenes-de-la-vie-numerique-le-linc-organise-un-evenement-de-lancement-de-son-nouveau-cahier-ip8 '
 ---
 
