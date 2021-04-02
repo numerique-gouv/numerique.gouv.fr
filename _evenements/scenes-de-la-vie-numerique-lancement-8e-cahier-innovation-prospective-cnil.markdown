@@ -21,7 +21,8 @@ champs_informations:
 - intitule: Modalités
   contenu: Inscription gratuite et obligatoire
   lien: 'https://app.livestorm.co/dinum-12/linc-ip8?type=detailed '
-- contenu: Plus d'information
+- intitule: Plus d'information
+  contenu: ICI
   lien: 'https://linc.cnil.fr/fr/scenes-de-la-vie-numerique-le-linc-organise-un-evenement-de-lancement-de-son-nouveau-cahier-ip8 '
 ---
 
