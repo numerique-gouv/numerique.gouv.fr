@@ -22,11 +22,11 @@ Il s’accompagne de plans d’action annuels qui détaillent les opérations pr
 * [Consulter le plan annuel d’accessibilité 2020 (pdf - 1 Mo)](/uploads/DINUM_PlanAnnuel_2020.pdf)
 
 ### État de conformité
-Le site numerique.gouv.fr est **totalement conforme au référentiel général d’amélioration de l’accessibilité**, [RGAA version 4.0](/publications/rgaa-accessibilite/).
+Le site numerique.gouv.fr est **totalement conforme au référentiel général d’amélioration de l’accessibilité**, [RGAA version 4.1](/publications/rgaa-accessibilite/).
 Voir section « Résultats des tests ».
 
 ### Résultats des tests
-L’audit de conformité finalisé le 26 mars 2021 par la société Access42 révèle que le site est conforme à 100% au RGAA version 4.0. 
+L’audit de conformité finalisé le 26 mars 2021 par la société Access42 révèle que le site est conforme à 100% au RGAA version 4.1. 
 
 ### Contenus non accessibles
 Malgré le travail de mise en accessibilité effectué, certains contenus, listés ci-dessous, ne peuvent être rendus à 100% accessibles pour les raisons suivantes.
