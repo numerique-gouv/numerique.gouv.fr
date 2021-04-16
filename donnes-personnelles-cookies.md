@@ -2,8 +2,22 @@
 title: Données personnelles et cookies
 permalink: "/donnees-personnelles-cookies/"
 position: 7
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 layout: page-annexe
 ---
+
 La DINUM s'engage à ce que la collecte et le traitement de données personnelles effectués sur numerique.gouv.fr soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
 
 ## Exercer vos droits
@@ -29,16 +43,16 @@ Sur numerique.gouv.fr, nous utilisons différents cookies pour améliorer votre 
 
 #### Cookies strictement nécessaires au fonctionnement du site
 {: .margin-top-2 .margin-bottom-1}
-Ces cookies permettent au site de fonctionner correctement et de manière optimale. Conformément à la loi, ces cookies étant nécessaires au bon fonctionnement du site, ils ne sont pas paramétrables sur notre site. Mais nous vous rassurons : ils ne prélèvent aucune donnée personnelle n’est prélevée, vous n’êtes aucunement identifiable personnellement. Si toutefois vous souhaitiez bloquer ces cookies, il reste possible de le faire depuis les paramètres de votre navigateur, cependant votre expérience utilisateur risquerait alors d’être dégradée.
-Le tableau ci-dessous détaille les cookies en question, avec leur nom technique.
+Ces cookies permettent au site de fonctionner correctement et de manière optimale. Conformément à la loi, ces cookies étant nécessaires au bon fonctionnement du site, ils ne sont pas paramétrables sur notre site. Si toutefois vous souhaitiez bloquer ces cookies, il reste possible de le faire depuis les paramètres de votre navigateur, cependant votre expérience utilisateur risquerait alors d’être dégradée.
+Le tableau ci-dessous détaille les cookies de ce type qui peuvent être déposés, avec leur nom technique.
 
-<table>
+<table style="margin-bottom:50px">
     <thead>
         <tr>
-            <th colspan="4" scope="col" id="cookies-techniques">Cookies techniques</th>
+            <th colspan="4" scope="col" id="cookies-techniques"><div style="text-transform: uppercase;">Cookies techniques</div></th>
         </tr>
         <tr>
-            <th scope="col" id="data1" headers="cookies-techniques">Cookie lié au service :</th>
+            <th scope="col" id="data1" headers="cookies-techniques">Cookie lié au service :</th>
             <th scope="col" id="data2" headers="cookies-techniques">Nom technique  du cookie</th>
             <th scope="col" id="data3" headers="cookies-techniques">Finalité</th>
             <th scope="col" id="data4" headers="cookies-techniques">Durée de conservation</th>
@@ -48,7 +62,7 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
         <tr>
             <td headers="cookies-techniques data1">Tarte au citron</td>
             <td headers="cookies-techniques data2">Tarteaucitron</td>
-            <td headers="cookies-techniques data3">Sauvegarde vos choix en matière de consentement des cookies. </td>
+            <td headers="cookies-techniques data3">Sauvegarde vos choix en matière de consentement des cookies. </td>
             <td headers="cookies-techniques data4">6 mois</td>
         </tr>
         <tr>
@@ -58,9 +72,19 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
             <td headers="cookies-techniques data4">Persistant</td>
         </tr>
     </tbody>
+</table>
+
+
+<table style="margin-bottom:50px">
     <thead>
         <tr>
-            <th colspan="4" scope="col" id="cookies-mesure">Cookies de mesure d’audience</th>
+            <th colspan="4" scope="col" id="cookies-mesure"><div style="text-transform: uppercase;">Cookies de mesure d’audience</div></th>
+        </tr>
+        <tr>
+            <th scope="col" id="data1" headers=" cookies-mesure ">Cookie lié au service :</th>
+            <th scope="col" id="data2" headers=" cookies-mesure ">Nom technique  du cookie</th>
+            <th scope="col" id="data3" headers=" cookies-mesure ">Finalité</th>
+            <th scope="col" id="data4" headers=" cookies-mesure ">Durée de conservation</th>
         </tr>
     </thead>
     <tbody>
@@ -94,16 +118,21 @@ Le tableau ci-dessous détaille les cookies en question, avec leur nom technique
             <td headers="cookies-mesure data3">Permet de mesurer l’audience du site via AT Internet</td>
             <td headers="cookies-mesure data4">13 mois</td>
         </tr>
+        <tr>
+            <td headers="cookies-mesure data1">AT Internet</td>
+            <td headers="cookies-mesure data2">atauthority</td>
+            <td headers="cookies-mesure data3">Permet de garder en mémoire le mode privacy visiteur (si vous avez expressément refusé que votre navigation soit suivie)</td>
+            <td headers="cookies-mesure data4">13 mois</td>
+        </tr>
     </tbody>
 </table>
 
 Malgré leur caractère nécessaire au fonctionnement du site, vous avez la possibilité de vous opposer spécifiquement au dépôt de cookies de mesure d’audience Matomo et AT Internet :
 
-* Matomo : <br/>
-  <iframe style="border: 0; height: 200px; width: 600px;" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr&fontSize=1rem&fontFamily=%22Open%20Sans%22"></iframe>
+* Matomo : <br/>
+  <iframe style="border: 0; height: 150px; width: 600px;" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr&fontSize=1rem&fontFamily=%22Open%20Sans%22"></iframe>
 
-* AT Internet :
-  [https://www.xiti.com/fr/optout.aspx](https://www.xiti.com/fr/optout.aspx)
+* [AT Internet](https://www.xiti.com/fr/optout.aspx "AT Internet - Lien externe")
 
 #### Cookies tiers, destinés à fournir des contenus du site
 {: .margin-top-2 .margin-bottom-1}
@@ -125,3 +154,7 @@ Voici les procédures pour bloquer toute création de cookies à partir des opti
 * [Explorer](http://windows.microsoft.com/fr-FR/internet-explorer/delete-manage-cookies#ie=ie-9 "Explorer - Lien externe")
 * [Safari](http://support.apple.com/kb/PH17191?viewlocale=fr_FR "Safari - Lien externe")
 * [Opera](http://help.opera.com/Windows/10.20/fr/cookies.html "Opera - Lien externe")
+
+
+
+<p align="center"><button class="button" id="tarteaucitronManager" type="button" style="margin-top:20px">Gérer mes cookies</button></p>

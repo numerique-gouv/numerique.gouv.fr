@@ -26,7 +26,18 @@
 
   {% include imports/tarte-au-citron.html %}
   {% include imports/matomo.html %}
-  {% include imports/atinternet.html %}
+  <script src="https://tag.aticdn.net/615183/smarttag.js"></script>
+  <script>
+  let pageTitle = "{{page.title}}";
+  if (pageTitle === 'Numerique.gouv.fr') {
+    pageTitle = 'Accueil'
+  }
+  let ATTag = new ATInternet.Tracker.Tag();
+  ATTag.page.send({
+    name: pageTitle
+  });
+  tag.privacy.setVisitorMode('cnil', 'exempt');
+  </script>
 
   {% include imports/favicon.html %}
   {% include imports/stylesheets.html %}
