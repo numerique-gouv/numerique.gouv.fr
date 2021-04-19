@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 8 avril 2021
+date_de_modification: 19 avril 2021
 layout: page-annexe
 ---
 
@@ -27,13 +27,21 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Chargé/Chargée de mission de coordination Europe et international](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-de-coordination-europe-et-international-hf-reference-2021-598136/ "Chargé/Chargée de mission de coordination Europe et international - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Directeur/Directrice de projet sac à dos numérique sécurisé de l'agent public (SNAP Secure)](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-sac-a-dos-numerique-securise-de-l-agent-public-snap-secure-hf-reference-2021-600496/ "Directeur/Directrice de projet sac à dos numérique sécurisé de l'agent public (SNAP Secure) - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé/Chargée de mission design des services numériques](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-design-des-services-numeriques-hf-reference-2021-597346/ "Chargé/Chargée de mission design des services numériques - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Chef/Cheffe de projet Résilience RIE - équipements d'extrémité (Box résiliente)](https://place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-resilience-rie---equipements-d-extremite-box-resiliente-hf-reference-2021-590345/ "Chef/Cheffe de projet Résilience RIE - équipements d'extrémité (Box résiliente) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>Poste basé à Paris ou Lyon
-<br>
-
-* **[Chargé/Chargée de la relation clients – Sites réseau complexes](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-relation-clients--sites-reseau-complexes-reference-2021-572778/ "Chargé/Chargée de la relation clients – Sites réseau complexes - Lien externe")**
-<br>Cadre/Catégorie A
 <br>
 
 * **[Développeur/Développeuse chargé-e d'hypervision réseau et sécurité](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe")**
