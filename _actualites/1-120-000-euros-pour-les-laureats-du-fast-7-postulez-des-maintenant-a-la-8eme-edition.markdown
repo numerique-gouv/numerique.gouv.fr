@@ -7,7 +7,7 @@ categories:
 tags:
 - FAST
 chapeau-text: Le programme beta.gouv.fr, porté par la direction interministérielle
-  du numérique (DINUM) lance son 8ème appel à candidatures du Fonds d’Accélération
+  du numérique (DINUM), lance son 8e appel à candidatures du Fonds d’Accélération
   des Startups d’État et de Territoires (FAST).
 une-ou-diaporama:
 - image: "/uploads/2021_04_09_1600x860_FAST_Visuel_31_mai.jpg"
