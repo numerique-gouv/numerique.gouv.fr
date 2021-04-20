@@ -12,7 +12,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) est en cha
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 8 février 2021
+date_de_modification: 20 avril 2021
 layout: dinsic
 ---
 
@@ -45,7 +45,8 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <br>
 <br>
 
-<div class="text-center"><a href="/uploads/organigramme_DINUM.pdf" class="button">Consulter l'organigramme (pdf - 106 Ko)</a></div>
+
+<div class="text-center"><a href="/uploads/organigramme_DINUM.PDF" class="button">Consulter l'organigramme (pdf - 98 Ko)</a></div>
 
 <script>
 function myFunction(id) {
@@ -76,15 +77,15 @@ function myFunction(id) {
     <li><b>Mission DATA&nbsp;:</b> Romain Talès</li>
     <li><b>Mission INFRA&nbsp;:</b> Paul-Emmanuel Caillard</li>
     <li><b>Mission PILOT&nbsp;:</b> Xavier Albouy</li>
-    <li><b>Mission TALENTS&nbsp;:</b> Charlotte Cador</li>
+    <li><b>Mission TALENTS</b></li>
     <li><b>Mission BETA&nbsp;:</b> Florian Delezenne</li>
     <li><b>Mission TRANSFO&nbsp;:</b> Patrick Ruestchmann</li>
   </ul><br></li>
 
 <li><b>Département ISO (Infrastructures et Services Opérés)</b>&nbsp;: Guy Duplaquet. Adjoint&nbsp;: Louis Di Benedetto
   <ul>
-    <li><b>Pôle RIE</b></li>
-    <li><b>Pôle Hypervision&nbsp;:</b> Franck Davy</li>
+    <li><b>Pôle RIE&nbsp;:</b> Philippe Levillain</li>
+    <li><b>Pôle Hypervision</b></li>
     <li><b>Pôle Production&nbsp;:</b> Gilles Corbi</li>
     <li><b>Pôle Pilotage de la Qualité et des Partenariats&nbsp;:</b> Louis Di Benedetto</li>
   </ul><br></li>
