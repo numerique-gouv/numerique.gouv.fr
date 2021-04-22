@@ -1170,7 +1170,7 @@
                     "dt": "Média non temporel",
                     "dd": [
                         "Contenu qui ne se déroule pas dans le temps, consultable via un plugin (Flash, Java, Silverlight…) ou via les éléments `svg` et `canvas` ; par exemple, une carte interactive en Flash, une application Flash ou Java, un diaporama sont des médias non temporels. Un média non temporel peut contenir des médias temporels (un lecteur Flash qui propose une liste de vidéos à consulter, par exemple).",
-                        "Note : l'utilisation du paramètre `wmode` pour un objet Flash avec les valeurs `\"transparent\"` et `\"opaque\"` invalide de fait le [critère 4.13](#crit-4-13). En effet, l'utilisation de ces valeurs a pour conséquence que l'animation Flash vue du côté des utilisateurs de lecteur d'écran est invisible."
+                        "Note : l'utilisation du paramètre `wmode` pour un objet Flash avec les valeurs `\"transparent\"` et `\"opaque\"` invalide de fait le [critère 4.12](#crit-4-12). En effet, l'utilisation de ces valeurs a pour conséquence que l'animation Flash vue du côté des utilisateurs de lecteur d'écran est invisible."
                     ]
                 },
                 {
@@ -1196,7 +1196,7 @@
                             ]
                         },
                         "Un média temporel peut être diffusé en temps réel ou être proposé en lecture de manière asynchrone (média pré-enregistré).",
-                        "Note 1 : l'utilisation du paramètre wmode pour un objet Flash avec les valeurs `\"transparent\"` et `\"opaque\"` invalide de fait le [critère 4.13](#crit-4-13). En effet, l'utilisation de ces valeurs a pour conséquence que l'animation Flash vue du côté des utilisateurs de lecteur d'écran est invisible.",
+                        "Note 1 : l'utilisation du paramètre wmode pour un objet Flash avec les valeurs `\"transparent\"` et `\"opaque\"` invalide de fait le [critère 4.11](#crit-4-11). En effet, l'utilisation de ces valeurs a pour conséquence que l'animation Flash vue du côté des utilisateurs de lecteur d'écran est invisible.",
                         "Note 2 : les gif animés, les animations d'images réalisées par JavaScript ou CSS ne sont pas considérés comme étant des médias temporels.",
                         "Note 3 : l'élément `<bgsound>` est spécifique à Internet Explorer et ne devrait pas être utilisé."
                     ]
@@ -1277,6 +1277,13 @@
                         "Il s'agit d'un ou de plusieurs passages de texte identifiés par des `id` dont la valeur est unique dans la page et associés à un élément (champ de formulaire, bouton, etc. ) par les attributs WAI-ARIA `aria-labelledby` ou `aria-describedby` sur le modèle suivant : `aria-labelledby=\"ID1 ID2 ID3…\"` où la valeur de l'attribut utilisé est égale à la liste des valeurs d'attributs `id` des passages de texte à associer présents dans la page.",
                         "Note 1 : pour assurer une compatibilité maximum avec les agents utilisateurs, notamment Internet Explorer 11, il est recommandé d'implémenter un `tabindex=\"-1\"` sur les passages de textes qui ne sont pas des éléments interactifs (bouton, liens, éléments de formulaires, etc.). ",
                         "Note 2 : la valeur des attributs WAI-ARIA `aria-labelledby` ou `aria-describedby` ne doivent pas créer de référence récursive (A référence B qui référence A) ou traversante (A qui référence B qui référence C)."
+                    ]
+                },
+                {
+                    "dt": "Pertinence (information autrement que par la couleur)",
+                    "dd": [
+                        "Le moyen pour récupérer une information autrement que par la couleur doit être accessible à tous. Par exemple, dans le cas d'une liste d'articles dont les articles en jaune sont en promotion, l'utilisation de texte caché via CSS est un moyen de récupérer l'information « en promotion », mais il n'est pas pertinent car cette information restera cachée à l'utilisateur qui visualise la page CSS activée.",
+                        "Note : l'utilisation d'une balise d'emphase (`<strong>` ou `<em>`) comme autre moyen pour récupérer une information donnée par la couleur permet de valider le critère même si ces éléments ne sont généralement pas supportés par les technologies d'assistance, particulièrement les lecteurs d'écran."
                     ]
                 },
                 {
@@ -1405,6 +1412,13 @@
                     ]
                 },
                 {
+                    "dt": "Si nécessaire (texte visible en complément de l'attribut aria-label ou aria-labelledby)",
+                    "dd": [
+                        "Les attributs WAI-ARIA `aria-label` et `aria-labelledby` peuvent être utilisées pour créer une étiquette de champ de formulaire. L'étiquette ainsi créée restera invisible ce qui permet de résoudre beaucoup de cas où un label visible n'est pas souhaité.",
+                        "En revanche cela crée un risque potentiel pour certains utilisateurs et il peut être nécessaire qu'un texte visible et accolé au champ vienne compléter le dispositif proposé par l'attribut WAI-ARIA `aria-label` ou `aria-labelledby`."
+                    ]
+                },
+                {
                     "dt": "Site web : ensemble de toutes les pages web",
                     "dd": [
                         {
@@ -1518,7 +1532,7 @@
                         "Contenu de l'attribut `title` de la balise `<iframe>` ou `<frame>` permettant de connaître la nature du contenu diffusé via le cadre lorsque l'utilisateur navigue de cadre en cadre ou affiche la liste des cadres de la page par exemple.",
                         "Note 1 : Certains cadres servent uniquement à des opérations techniques tels que des traitements applicatifs destinés à préparer ou piloter des contenus affichés dans la page comme les cadres utilisés par certains réseaux sociaux comme Facebook par exemple.",
                         "Si ces cadres sont dépourvus de titre de cadre fournis par le service distant, ou si les titres de cadres sont jugés non pertinents, des mentions génériques peuvent être utilisées, par exemple `title=\"contenus techniques Facebook\"`.",
-                        "Note 2 : Si cela ne gêne pas le fonctionnement de ce type de cadre, il est possible de les rendre indisponibles aux technologies d'assistance en utilisant l'attribut WAI-ARIA `aria-hidden=\"true\"`. Dans ce cas le [critère 2.1](#crit-2-1) et le [critère 2.2](#crit-2-2) seront non applicables."
+                        "Note 2 : Si cela ne gêne pas le fonctionnement de ce type de cadre, il est possible de les rendre indisponibles aux technologies d'assistance en utilisant l'attribut WAI-ARIA `aria-hidden=\"true\"`. Dans ce cas le [critère 2.2](#crit-2-2) sera non applicable."
                     ]
                 },
                 {
