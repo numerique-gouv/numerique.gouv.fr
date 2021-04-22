@@ -535,8 +535,6 @@ est remplacée par :
 
 "Lien qui peut être confondu avec un texte normal lorsqu'il est signalé uniquement par la couleur par certains types d'utilisateurs ne percevant pas ou mal les couleurs. Par exemple, dans ce texte "Nouvelle grève à la SNCF", si le mot "grève" est un lien signalé uniquement par la couleur, sa nature peut être ignorée par les utilisateurs ne percevant pas la couleur et accédant au contenu CSS activé."
 
-"En revanche, dans ce texte " Nouvelle grève à la SNCF, lire la suite" si "lire la suite" est un lien, un utilisateur ne percevant pas les couleurs n'aura pas de problème pour en comprendre la nature."
-
 ### Liens d'évitement ou d'accès rapide
 
 Modification de la note 1 pour préciser le caractère fonctionnel du lien (issue #19) :
@@ -553,13 +551,33 @@ Suppression de l'entrée, car le critère qui mentionnait cette expression a ét
 
 ### Mécanisme qui permet d'afficher un rapport de contraste conforme
 
-Modification de l'entrée de glossaire (issue #40 et issue #72):
+Modification de l'entrée de glossaire (issue #40 et issue #72) :
 
 "Composant d'interface dont l'activation permet de modifier l'apparence du site ou de la page de manière à afficher les contenus avec un ratio de contraste suffisant. Le design de ce composant d'interface devra être conforme au [critère 3.2](#crit-3-2) et au [critère 3.3](#crit-3-3) sans avoir recours lui-même à un mécanisme permettant d'afficher un rapport de contraste conforme."
 
 est remplacée par :
 
 "Composant d'interface dont l'activation permet de modifier l'apparence du site ou de la page de manière à afficher les contenus avec un ratio de contraste suffisant. Le design de ce composant d'interface devra être conforme au [critère 3.2](#crit-3-2) et au [critère 3.3](#crit-3-3) sans avoir recours lui-même à un mécanisme permettant d'afficher un rapport de contraste conforme. Ce mécanisme doit conserver à l'identique les contenus et les fonctionnalités du site ou de la page qu'il modifie."
+
+### Média non temporel
+
+Modification de l'entrée de glossaire (issue #6) :
+
+"Note : l'utilisation du paramètre `wmode` pour un objet Flash avec les valeurs `\"transparent\"` et `\"opaque\"` invalide de fait le [critère 4.12](#crit-4-12). En effet, l'utilisation de ces valeurs a pour conséquence que l'animation Flash vue du côté des utilisateurs de lecteur d'écran est invisible."
+
+est remplacée par :
+
+"Note : l'utilisation du paramètre `wmode` pour un objet Flash avec les valeurs `\"transparent\"` et `\"opaque\"` invalide de fait le [critère 4.13](#crit-4-13). En effet, l'utilisation de ces valeurs a pour conséquence que l'animation Flash vue du côté des utilisateurs de lecteur d'écran est invisible."
+
+### Média temporel (type son, vidéo et synchronisé)
+
+Modification de l'entrée de glossaire (issue #6) :
+
+"Note 1 : l'utilisation du paramètre wmode pour un objet Flash avec les valeurs `\"transparent\"` et `\"opaque\"` invalide de fait le [critère 4.11](#crit-4-11). En effet, l'utilisation de ces valeurs a pour conséquence que l'animation Flash vue du côté des utilisateurs de lecteur d'écran est invisible."
+
+est remplacée par :
+
+"Note 1 : l'utilisation du paramètre wmode pour un objet Flash avec les valeurs `\"transparent\"` et `\"opaque\"` invalide de fait le [critère 4.13](#crit-4-13). En effet, l'utilisation de ces valeurs a pour conséquence que l'animation Flash vue du côté des utilisateurs de lecteur d'écran est invisible."
 
 ### Moteur de recherche (interne à un site web)
 
