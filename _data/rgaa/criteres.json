@@ -1284,6 +1284,9 @@
                                 "Pour chaque [tableau de données complexe](#tableau-de-donnees-complexe), un [résumé](#resume-de-tableau) est-il disponible ?"
                             ]
                         },
+                        "technicalNote": [
+                            "La spécification HTML propose plusieurs [méthodes pour lier un résumé à un tableau](https://html.spec.whatwg.org/multipage/tables.html#table-descriptions-techniques) (tableau lié à un passage de texte avec l’attribut `aria-describedby`, tableau groupé dans un élément `figure` avec un résumé présent dans un élément `figcaption` ou un élément `p`, résumé présent dans un élément `details` contenu dans l’élément `caption`). Ces méthodes n’ont pas un support suffisant pour être utilisées actuellement."
+                        ],
                         "references": [
                             {
                                 "wcag": [
@@ -3179,14 +3182,14 @@
                             }
                         ],
                         "particularCases": [
-                            "Le test 11.10.1 sera considéré comme non applicable lorsque le formulaire comporte un seul [champ de formulaire](#champ-de-saisie-de-formulaire) ou qu'il indique les champs optionnels de manière :",
+                            "Le test 11.10.1 et le test 11.10.2 seront considérés comme non applicables lorsque le formulaire comporte un seul [champ de formulaire](#champ-de-saisie-de-formulaire) ou qu'il indique les champs optionnels de manière :",
                             {
                                 "ul": [
                                     "Visible ;",
                                     "Dans la balise `<label>` ou dans la [légende](#legende) associée au champ."
                                 ]
                             },
-                            "Dans le cas où l'ensemble des champs d'un formulaire sont obligatoires, le test 11.10.1 reste applicable."
+                            "Dans le cas où l'ensemble des champs d'un formulaire sont obligatoires, les tests 11.10.1 et 11.10.2 restent applicables."
                         ],
                         "references": [
                             {
