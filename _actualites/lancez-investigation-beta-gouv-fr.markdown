@@ -45,7 +45,7 @@ Au terme de cet accompagnement, nous réaliserons avec vous **une synthèse clai
 <br>
 
 > **[Soumettez votre problématique jusqu'au 30 octobre\* !](mailto:investigations@beta.gouv.fr)**
-{: .lien-important}
+{: .lien-important role="presentation" }
 {: .margin-bottom-0}
 <div align="center">Nous traiterons toutes les demandes au fil de l’eau</div>
 <br>

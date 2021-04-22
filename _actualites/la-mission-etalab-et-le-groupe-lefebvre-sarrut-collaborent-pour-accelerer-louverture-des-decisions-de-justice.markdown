@@ -18,4 +18,4 @@ redirection: https://www.etalab.gouv.fr/la-mission-etalab-et-le-groupe-lefebvre-
 ---
 
 > [Lire l'article sur le blog d'Etalab](https://www.etalab.gouv.fr/la-mission-etalab-et-le-groupe-lefebvre-sarrut-collaborent-accelerer-louverture-des-decisions-de-justice)
-{: .lien-important}
+{: .lien-important role="presentation" }

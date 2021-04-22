@@ -41,7 +41,7 @@ La **direction interministérielle du numérique** lance cette communauté à l'
 * **9h15 - 10h :** Accueil café
 
 * **10h - 10h45 :** Lightning talks et démonstrations 
-<br>Avec Marc Chanteux - réseau national de télécommunications pour la technologie l'enseignement et la recherche (RENATER)
+<br>Avec Marc Chantreux - réseau national de télécommunications pour la technologie l'enseignement et la recherche (RENATER)
 <br>Anael Beaugnon - agence nationale de la sécurité des systèmes d'information (ANSSI)
 <br>Erwan Le Gall - ministère de l’Éducation nationale
 

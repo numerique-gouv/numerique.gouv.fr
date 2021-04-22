@@ -20,4 +20,4 @@ redirection: https://www.etalab.gouv.fr/le-programme-entrepreneurs-dinteret-gene
 ---
 
 > [Lire la suite sur etalab.gouv.fr](https://www.etalab.gouv.fr/le-programme-entrepreneurs-dinteret-general-presente-sa-quatrieme-promotion)
-{: .lien-important}
+{: .lien-important role="presentation" }

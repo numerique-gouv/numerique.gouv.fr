@@ -47,7 +47,7 @@ La journée s’est organisée autour de 4 ateliers :
 <br>
 <br>
 > [Découvrez le détail des résultats des ateliers et continuez à contribuer sur le forum d'Etalab](https://www.modernisation.gouv.fr/home/forum.etalab.gouv.fr/t/restitution-des-travaux-et-productions-du-bar-camp-dedie-a-la-transparence-de-la-commande-publique/1182){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 Les résultats concrets et activables des différents groupes de travail ont été salués par Laure de la Bretèche, secrétaire générale pour la modernisation de l’action publique, et ont été repris dans plusieurs articles de presse (voir [Localtis.info](http://breizhsmallbusinessact.fr/wp-content/uploads/2016/03/Localtis.info-17mai2016-Open-data-_-la-Bretagne-principal-initiateur-du-futur-r%C3%A9f%C3%A9rentiel-national-des-donn%C3%A9es-essentielles-de-march%C3%A9s-publics.pdf){:target="_blank"}, [AchatPublic.info](http://breizhsmallbusinessact.fr/wp-content/uploads/2016/03/Localtis.info-17mai2016-Open-data-_-la-Bretagne-principal-initiateur-du-futur-r%C3%A9f%C3%A9rentiel-national-des-donn%C3%A9es-essentielles-de-march%C3%A9s-publics.pdf){:target="_blank"}, [Le Télégramme](http://breizhsmallbusinessact.fr/wp-content/uploads/2012/04/LeT%C3%A9l%C3%A9gramme-6mai2016.pdf){:target="_blank"}, [LeMoniteur.fr](http://breizhsmallbusinessact.fr/wp-content/uploads/2016/03/LeMoniteur-10mai2016-La-Bretagne-teste-la-commande-publique-2.0.pdf){:target="_blank"} et la [Gazette des Communes](http://breizhsmallbusinessact.fr/wp-content/uploads/2016/03/Lagazette.fr-12mai2016-Quand-l%E2%80%99ouverture-des-donn%C3%A9es-augmente-la-commande-publique.pdf){:target="_blank"}.
 

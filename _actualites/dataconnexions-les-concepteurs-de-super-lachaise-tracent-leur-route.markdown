@@ -15,7 +15,7 @@ une-ou-diaporama:
 
 Ils sont d’ores et déjà plusieurs milliers à avoir téléchargé Super Lachaise sur leur iPhone pour se repérer dans les dédales du cimetière du Père-Lachaise et accéder aux biographies des personnalités qui y ont élu demeure. L’application, **qui agrège des données de Wikipedia, Wikimedia Commons et OpenStreetMap**, devrait voir son audience bondir dès que les versions en langue anglaise et pour Android seront achevées. Ses trois concepteurs font le point sur un projet instructif à de multiples égards.
 
- 
+
 
 ### Qu’est-ce que le projet Super Lachaise vous a apporté à chacun d’entre vous ?
 
@@ -35,7 +35,7 @@ Ils sont d’ores et déjà plusieurs milliers à avoir téléchargé Super Lach
 <figure class='image-right' style='width: 40%; margin-left: 10px;'><img src="/uploads/capture-ecran-appmobile.png"/></figure> **MLM.** Oui, nous avons déjà apporté des améliorations en termes **d’automatisation des mises à jour** et d’autres sont à venir. Chaque semaine, **un logiciel interroge Wikipedia, Wikimedia Commons et OpenStreetMap, rapatrie dans une base les données qui concernent le Père-Lachaise et les lie entre elles de façon cohérente.** Actuellement, je travaille sur la mise à jour de l’application iOS pour qu’elle bénéficie en permanence de la version actualisée de la base de données. Nous travaillons également **au développement d’une version anglaise** de Super Lachaise. Ce n’est pas si difficile car Wikipedia est très bien conçu avec des liens vers les versions d’articles en anglais.
 
 **LLM.** Une version pour Android de Super Lachaise est également en cours de développement. Par ailleurs, une de nos priorités pour l’année 2016 est **d’établir des partenariats avec la Mairie de Paris** pour mettre en avant notre application au Père Lachaise. **Elle est open source** et correspond à la politique de la ville. Se pose toutefois la question de son téléchargement. Les touristes étrangers ayant généralement désactivé leurs forfaits données, il faudrait qu’ils aient accès à des bornes Wi-Fi. Ce sont des sujets à discuter.
- 
+
 
 ### Super Lachaise est-elle amenée à être répliquée ?
 
@@ -50,4 +50,4 @@ publiques. La 6e édition du concours est en cours, et se clôturera par une jou
 ](https://www.etalab.gouv.fr/decouvrez-les-finalistes-du-concours->dataconnexions-6){:target="_blank"}
 >* [Consultez le programme](https://www.etalab.gouv.fr/ceremonie-de-remise-des-prix-dataconnexions-6-reservez-votre-place){:target="_blank"} de la journée événement du 2 février, à Toulouse
 >* [Réservez votre place (gratuit)](https://www.eventbrite.fr/e/billets-concours-dataconnexions-6-finale-ceremonie-19573273187){:target="_blank"} pour la finale et la remise des prix
-{: .encadre}
+{: .encadre role="presentation" }

@@ -16,42 +16,58 @@ une-ou-diaporama:
 - image: "/uploads/eig1_mentor_bilan.jpg"
 ---
 
-### Une première promotion qui a fait bouger les lignes 
+### Une première promotion qui a fait bouger les lignes
 
 Leurs profils : développeurs, datascientists et chercheurs. Depuis 9 mois, ces jeunes talents du numérique aux compétences pointues travaillent à résoudre leurs défis grâce aux données, accompagnés par leurs mentors. En images, découvrez les outils qu’ils ont développés au sein de leurs administrations d’accueil et le retour de leurs mentors sur ce partenariat inédit.
 <br>
 <br>
 Réduire la fraude aux permis de conduire grâce à un outil de croisement de données, défi relevé pour Martin Gross, entrepreneur d’intérêt général, et son mentor Daniel Ansellem, ministère de l’Intérieur.
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z3a0" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x64z3a0" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 Améliorer la sécurité routière avec un outil cartographique interactif, défi relevé pour Tristram Gräbener et Francis Chabouis, entrepreneurs d’intérêt général, et leur mentor Daniel Ansellem, ministère de l’Intérieur.
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z28u" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x64z28u" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 Améliorer les contrôles fiscaux pour limiter les risques de fraude, défi relevé pour Marion Paclot, entrepreneure d’intérêt général, et son mentor Philippe Schall, ministère de l’Economie et des Finances.
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z39u" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x64z39u" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 Repérer les populations en situation de vulnérabilité grâce aux images satellites, défi relevé pour Etienne David, entrepreneur d’intérêt général, et son mentor Antoine Chèvre, Agence Française de Développement (AFD).
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z39y" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x64z39y" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 Nettoyer et optimiser les données du ministère de l’Enseignement supérieur, de la Recherche et de l'Innovation, défis relevés pour Laurent Dupont et Léo Bouloc, entrepreneurs d’intérêt général, et leurs mentors Emmanuel Weisenburger et Yann Caradec.
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z39w" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x64z39w" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 Construire un site participatif pour valoriser le patrimoine des orgues, défi relevé pour Bastien Guerry, entrepreneur d’intérêt général, et sa mentor Judith Kagan, ministère de la Culture
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z39q" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x64z39q" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 Analyser les parcours de soin grâce à une application informatique, défi relevé pour Sébastien Cossin, entrepreneur d’intérêt général, et son mentor Didier Hève, ministère des Solidarités et de la Santé
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z39z" allowfullscreen allow="autoplay"></iframe> 
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x64z39z" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 Faciliter l’accès aux rapports de la Cour des comptes grâce à une API, défi relevé pour Frédéric Bardolle, entrepreneur d’intérêt général à la Cour des comptes et Adnène Trojette, qui a accompagné la 1re promotion EIG au Liberté Living-lab
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x64z39x" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x64z39x" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 L’aventure Entrepreneur.e d’intérêt général vous tente ?
 

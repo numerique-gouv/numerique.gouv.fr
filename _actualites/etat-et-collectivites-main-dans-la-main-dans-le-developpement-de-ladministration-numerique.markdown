@@ -28,8 +28,8 @@ Une feuille de route sur deux ans, des axes stratégiques prioritaires, des reco
 > **Le programme repose sur le besoin d’une gouvernance partagée entre l’État et les collectivités autour des grands projets qui impactent l’administration numérique territoriale.**
 {: .citation .bleu}
 > Laure de la Bretèche, secrétaire générale pour la modernisation de l’action publique
-{: .auteur-citation .bleu} 
-Ce programme entend faire converger la stratégie de transformation numérique des collectivités territoriales avec celle de l’État et de ses différents projets [État plateforme](https://www.modernisation.gouv.fr/home/etat-plateforme-tribune-marzin){:target="_blank"}, gouvernement ouvert, open data, choc de simplification…). 
+{: .auteur-citation .bleu}
+Ce programme entend faire converger la stratégie de transformation numérique des collectivités territoriales avec celle de l’État et de ses différents projets [État plateforme](https://www.modernisation.gouv.fr/home/etat-plateforme-tribune-marzin){:target="_blank"}, gouvernement ouvert, open data, choc de simplification…).
 
 #### Simplifier les échanges entre collectivités et État
 <figure class='image-right' style='width: 40%; margin-left: 10px;'>
@@ -37,7 +37,7 @@ Ce programme entend faire converger la stratégie de transformation numérique d
 </figure>
 Au cœur du programme DcANT, dix recommandations opérationnelles. Les unes sont atteignables très rapidement, les autres, plus structurantes, s’inscrivent dans le moyen terme. Toutes s’articulent autour de plusieurs axes stratégiques. Premier d’entre eux : l’efficience des relations inter-administrations. « Les échanges entre l’État et les collectivités doivent être simplifiés », explique Céline Faivre (photo), adjointe à la cheffe du département Administration numérique en charge du programme DcANT au sein du SGMAP. « L’une des recommandations du programme insiste sur la mise en place d’un mécanisme mutualisé d'identification et d'authentification des agents et des élus, en s’appuyant sur des annuaires et des bases tiers partagés. Ce système permettrait aux collectivités d’échanger avec l’Etat et d’accéder à ses applications informatiques de façon simplifiée et sécurisée. » La construction d’un France Connect Agents fait d’ailleurs l’objet de travaux associant le Ministère de l’Intérieur, de la Justice, la DGFiP et 9 collectivités territoriales.
 
-#### Homogénéiser l’administration aux yeux de l’usager 
+#### Homogénéiser l’administration aux yeux de l’usager
 Un autre axe majeur du programme concerne l’usager (particuliers, entreprises, associations), et sa relation unifiée avec le service public. « Le citoyen est un usager commun à plusieurs administrations. Dès lors, notre ambition est de lui proposer des services publics numériques fondés sur une stratégie commune, notamment à travers l’Etat plateforme et ["Dites-le-nous une fois »](http://www.modernisation.gouv.fr/les-services-publics-se-simplifient-et-innovent/par-des-simplifications-pour-les-entreprises/dites-le-nous-une-fois-un-programme-pour-simplifier-la-vie-des-entreprises){:target="_blank"}, précise pour sa part Laure de la Bretèche (photo), secrétaire générale pour la modernisation de l’action publique.
 
 Côté entreprise, le programme mettra l’accent sur la dématérialisation totale des procédures de passation des marchés publics et la généralisation de [Marché public simplifié](https://www.modernisation.gouv.fr/home/marche-public-simplifie){:target="_blank}. C’est d’ailleurs là une recommandation à part entière copilotée avec la direction des affaires juridiques de Bercy. « Les expérimentations envisagées contribueront à faciliter la mise en œuvre du plan national de dématérialisation des marchés publics », précise Céline Faivre.
@@ -54,9 +54,9 @@ Cette première vague de recommandations (dont la mise en œuvre s’étend jusq
 
 > #### Un cercle de confiance bâti entre l’État et les collectivités
 > La gouvernance du programme DcANT s’appuie sur une concertation au sein de l'Instance Nationale Partenariale (INP) et de l’instance du Dialogue national des territoires (DNT). Les décisions sont prises à l'issue d'un processus législatif et réglementaire validé conjointement par l'Etat et les collectivités.
-> 
+>
 > Les acteurs publics locaux seront soutenus et accompagnés par un réseau d’ambassadeurs territoriaux du programme DcANT. Réseau chargé de mobiliser les partenaires clefs (institut national des études territoriales, centre national de la fonction publique territoriale, syndicat national des directeurs généraux des collectivités territoriales, syndicat national des secrétaires de mairies, association des directeurs généraux de France et association de promotion du cadre d'emplois des administrateurs territoriaux), de décliner les partenariats nationaux à l’échelle locale ou d’identifier les groupes d’experts territoriaux.
-{: .encadre}
+{: .encadre role="presentation" }
 
 [Mise à jour du 02/03/2018]
 
@@ -69,6 +69,6 @@ Cette première vague de recommandations (dont la mise en œuvre s’étend jusq
 **Volet 3** : Définition de scenarii de mise en œuvre de systèmes d'archivage électronique (SAE) dans les territoires adaptés aux besoins des collectivités pour faciliter l’émergence de projets d’archivage électronique et leur montée en charge
 
 [Consulter l'étude portant sur l'archivage électronique dans les territoires](https://www.modernisation.gouv.fr/etudes-et-referentiels/etudes/etude-sur-le-developpement-de-larchivage-electronique-dans-les-territoires){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 

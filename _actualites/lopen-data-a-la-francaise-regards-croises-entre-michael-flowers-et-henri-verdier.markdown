@@ -15,6 +15,8 @@ chapeau-text: 'Pendant une dizaine de jours, Henri Verdier, directeur d’Etalab
   Découvrez leur interview croisée en vidéo.'
 ---
 
-<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x2u6lex" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x2u6lex" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 [Suivez l'action de l'administrateur général des données sur son blog](https://agd.data.gouv.fr/){: target="_blank"}

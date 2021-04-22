@@ -20,4 +20,4 @@ redirection: https://www.etalab.gouv.fr/ce-que-nous-avons-appris-avec-dvf
 ---
 
 > [Lire l'article sur le blog d'Etalab](https://www.etalab.gouv.fr/ce-que-nous-avons-appris-avec-dvf)
-{: .lien-important}
+{: .lien-important role="presentation" }

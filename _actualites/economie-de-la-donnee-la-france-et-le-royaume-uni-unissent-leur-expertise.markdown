@@ -23,7 +23,7 @@ Les données – privées et publiques – constituent un **levier considérable
 
 **Des personnalités qualifiées issues des secteurs public et privé ainsi que du monde académique**, représentatives des enjeux en matière d’économie de la donnée, ont été associées à la réflexion de part et d’autre de la collaboration.
 
-#### Des recommandations concrètes 
+#### Des recommandations concrètes
 <figure class='image-right' style='width: 40%; margin-left: 10px;'><img src="/uploads/taskforce_3.jpg"/></figure>Les travaux ont débuté en novembre, à Londres, en marge du [Sommet ODI](https://theodi.org/panel-discussions/odi-summit-and-awards-2016){:target="_blank"}, où les bases de l’organisation de la collaboration ont été posées. Ils se sont poursuivis le **15 décembre à Paris, à Cap Digital**, pour échanger sur les contenus du rapport final en cours d’élaboration.
 
 Ce rapport formulera des **recommandations concrètes pour accélérer le développement de l’économie de la donnée dans les deux pays**. Il identifiera des **opportunités de collaboration entre acteurs publics ou privés**, favorisant l’exploitation des données par les entreprises, notamment par les startups et les PME, ainsi que la modernisation de l’Etat à travers le développement de services publics basés sur la donnée. La taskforce proposera aussi des travaux à conduire aux niveaux européen ou mondial.
@@ -31,8 +31,8 @@ Ce rapport formulera des **recommandations concrètes pour accélérer le dével
 Le rapport sera remis à l'été 2016 aux gouvernements français et britannique.
 
 > <br>
-> #### Les membres de la taskforce 
-> <figure class='image-right' style='width: 50%; margin-left: 10px;'><img src="/uploads/taskforce_4.jpg"/></figure> 
+> #### Les membres de la taskforce
+> <figure class='image-right' style='width: 50%; margin-left: 10px;'><img src="/uploads/taskforce_4.jpg"/></figure>
 > **Co-présidents :**
 > * Henri Verdier, SGMAP (France)
 > * Sir Nigel Shadbolt, Open Data Institute (Royaume-Uni)
@@ -55,4 +55,4 @@ Le rapport sera remis à l'été 2016 aux gouvernements français et britannique
 > * Paula Forteza, Etalab (France)
 > * Vicki Brown, Digital Economy Unit (Royaume-Uni)
 > * Paul Driver, Digital Economy Unit (Royaume-Uni)
-{: .encadre} 
+{: .encadre role="presentation" }

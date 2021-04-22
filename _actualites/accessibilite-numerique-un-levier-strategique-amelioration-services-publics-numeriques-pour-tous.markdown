@@ -30,7 +30,7 @@ L’[Observatoire](https://observatoire.numerique.gouv.fr/) de la qualité des d
 
 Indicateur majeur de la qualité, la satisfaction des usagers est suivie dans l’Observatoire grâce au bouton « Je donne mon avis » installé à la fin des démarches. Aujourd’hui plus de 350 000 avis d’usagers ont été recueillis ces 6 derniers mois, et permettent aux administrations de prioriser les améliorations à apporter aux services. Le déploiement du bouton « Je donne mon avis » sur l’ensemble des démarches de l’Observatoire se poursuit, et devra être complet d’ici le 31 mars 2020.
 
-> 
+>
 > <br>
 > <br>
 > **Un nouveau critère de qualité fait son apparition dans la 3e édition de l’Observatoire : l’accessibilité numérique pour les personnes en situation de handicap.** Ce nouveau critère et sa mesure permettront de prioriser les actions nécessaires pour améliorer la qualité des démarches sur le plan de l’accessibilité numérique.
@@ -42,10 +42,10 @@ Indicateur majeur de la qualité, la satisfaction des usagers est suivie dans l�
 > L’ensemble des administrations doit intensifier la mise en accessibilité des services publics numériques, sous l’impulsion du Secrétaire d’État chargé du Numérique, et avec le soutien des équipes de la DINUM.
 > <br>
 > <br>
-{: .encadre}
+{: .encadre role="presentation" }
 
 > **[Consulter l’observatoire, édition janvier 2020](https://observatoire.numerique.gouv.fr/observatoire/)**
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 #### Renforcement du pôle Design des services numérique pour accélérer la mise en accessibilité des administrations
 
@@ -71,4 +71,4 @@ Dès le printemps 2020, nous inviterons les usagers à signaler sur voxusagers.g
 La DINUM poursuit son action d’amélioration de la qualité de l’expérience des services numériques, pour une meilleure prise en compte de tous les usagers, notamment des personnes en situation de handicap pour permettre à tous l’accès aux services publics numériques. Le numérique doit simplifier la relation des usagers avec l'administration. Il doit nous libérer et nous donner plus de temps pour mieux accompagner ceux qui en ont le plus besoin.
 
 > **[Consulter l’observatoire, édition janvier 2020](https://observatoire.numerique.gouv.fr/observatoire/)**
-{: .lien-important}
+{: .lien-important role="presentation" }

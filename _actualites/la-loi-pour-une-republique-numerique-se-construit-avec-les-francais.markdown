@@ -13,11 +13,11 @@ une-ou-diaporama:
 C’est une première en France et en Europe : un projet de loi est ouvert aux contributions des citoyens. Depuis samedi 26 septembre et pendant 3 semaines, tout Français peut consulter le projet de loi pour une République numérique, et surtout y contribuer pour l’enrichir et le perfectionner. Les internautes peuvent également voter pour les propositions qu’ils jugent utiles.
 
 > [Pour participer, rendez-vous sur republique-numerique.fr](https://www.republique-numerique.fr/){:target="_blank"}
-{: .lien-important}  
+{: .lien-important role="presentation" }
 
 Les contributions seront ensuite instruites par le Gouvernement, et pourront être intégrées au projet de loi. Les modifications apportées au texte à l’issue de la consultation seront clairement affichées, pour plus de transparence et faciliter le suivi des propositions des différents contributeurs.
 
- 
+
 
 ### Transparence et participation
 
@@ -29,7 +29,7 @@ L’enjeu est de taille :
 La consultation des citoyens sur les projets de loi ou en amont de leur préparation peut permettre de bâtir une décision publique et une législation efficaces et de revitaliser la démocratie. »
 – Plan d’action national 2015-2017 pour une action publique transparente et collaborative
 
- 
+
 
 ### Le fruit de l’intelligence collective
 
@@ -44,6 +44,6 @@ Nous voulons que ce texte de loi soit, plus encore, le fruit de l’intelligence
 Les Français ont jusqu’au dimanche 18 octobre pour contribuer au projet de loi pour une République numérique.
 
 > [Participez sur republique-numerique.fr](Les Français ont jusqu’au dimanche 18 octobre pour contribuer au projet de loi pour une République numérique.){:target="_blank"}
- 
+
 
 

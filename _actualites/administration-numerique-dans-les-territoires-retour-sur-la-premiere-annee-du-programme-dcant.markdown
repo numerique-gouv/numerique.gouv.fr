@@ -20,7 +20,7 @@ de développement concerté de l’administration numérique territoriale (DCANT
 
 Après un an de mise en œuvre, à mi-parcours, l’heure est au premier bilan. Fin septembre dernier, la commission d’orientation stratégique (COS) a ainsi permis de dresser un bilan des travaux et d’orienter ceux des mois à venir. Réunissant les directeurs généraux d’associations d’élus, les représentants d’administrations centrales, ceux des structures de coopération territoriale et des organismes engagés dans l’élaboration et la mise en œuvre du programme, cette COS a également été l’occasion de réaffirmer l’engagement de l’Etat en faveur de la transformation numérique de l’action publique et sa volonté de la conduire en concertation avec les collectivités territoriales, sur un ensemble de recommandations opérationnelles.
 
- 
+
 
 **France Connect agent, dématérialisation des marchés publics, archivage électronique... : Les avancées 2016**
 
@@ -30,18 +30,18 @@ A la suite de l'appel à projets du programme d'investissements d'avenir (PIA) �
 
 Concernant la télétransmission des actes au contrôle de légalité, une nouvelle version de la convention-type a été produite dans le cadre du [programme @ctes ](https://www.collectivites-locales.gouv.fr/actes-0){:target="_blank"} afin de supprimer les obstacles à la transmission de certains actes au contrôle de légalité.
 
-15 partenaires ont lancé, en janvier 2016, une préfiguration nationale en vue de la dématérialisation, de bout en bout, des marchés publics. Cette phase vise à déterminer de manière opérationnelle les conditions techniques, organisationnelles et financières de la collecte et de la publication des données des marchés. 
+15 partenaires ont lancé, en janvier 2016, une préfiguration nationale en vue de la dématérialisation, de bout en bout, des marchés publics. Cette phase vise à déterminer de manière opérationnelle les conditions techniques, organisationnelles et financières de la collecte et de la publication des données des marchés.
 
 En matière d’archivage électronique, des travaux menés avec les associations de collectivités ont permis de préparer une étude sur les conditions de portage, de financement et de mise en œuvre de systèmes d’archivage électronique territoriaux afin d’en favoriser le développement dans les territoires.
 
- 
+
 
 
 >### La mobilisation des acteurs à l'origine du programme
 >
 >Piloté par le secrétariat général pour la modernisation de l’action publique (SGMAP), le programme de développement concerté de l’administration numérique territoriale (DcANT) découle de la création, en 2011, d’une instance nationale partenariale (INP) portée par l’Etat et les collectivités territoriales et elle-même animée par le SGMAP. Initialement dédiée à l’information des associations, elle est aujourd’hui devenue un lieu d’échange et de coconstruction autour des sujets numériques. L’INP entrant dans une logique opérationnelle, elle s’est engagée dès 2014 dans la construction partagée du programme DCANT. Celui-ci a pour objectif, dans une logique de mutualisation des initiatives, de faire converger la stratégie de l’Etat en faveur de la transformation numérique (Etat Plateforme, gouvernement ouvert, open data, simplification…) et les stratégies des collectivités territoriales de transition numérique.
-{: .encadre}
- 
+{: .encadre role="presentation" }
+
 
 #### Les échanges se multiplient
 
@@ -51,9 +51,9 @@ Au cours de l’année 2016, associations de collectivités territoriales et min
 *  le référentiel général d'interopérabilité (RGI) et son projet d’arrêté d’application ;
 * le projet de décret d’application de la loi relative à la liberté de la création, à l’architecture et au patrimoine ;
 * les projets d’arrêtés relatifs aux fonctionnalités et exigences minimales des profils d’acheteur et à la publication des données essentielles des marchés publics en application de la réforme du droit de la commande publique ;
-* les perspectives d’application réglementaire de la loi Modernisation de la justice du 21e siècle. 
+* les perspectives d’application réglementaire de la loi Modernisation de la justice du 21e siècle.
 
- 
+
 
 Les projets de décrets d’application de la loi République numérique y sont aussi l’objet d’échanges.
 <br>
@@ -67,7 +67,7 @@ La recommandation transverse relative à **l’accompagnement et à la sensibili
 
 Au 1er trimestre 2017, le bilan du « proof of concept » (POC) **FranceConnect Agent** porté par le ministère de l’Intérieur, aujourd’hui en cours, marquera une étape importante dans la mise en œuvre de la recommandation portant sur la simplification des modes d’échanges inter-administrations.
 
-Les préfigurations lancées concernant **le « tout dématérialisation » de la commande publique**, afin d’anticiper la généralisation de la réponse électronique aux marchés publics au 1er octobre 2018 se poursuivent. Une attention forte sera portée à la capacité d’essaimage des acheteurs publics préfigurateurs auprès de leur territoire, concernant le volet simplification (Marché public simplifié - MPS, API Entreprise) et dématérialisation. S’agissant du volet transparence, le programme DcANT pourra capitaliser sur le partenariat pour un gouvernement ouvert et poursuivre le suivi de la préfiguration de ce volet à travers notamment les expérimentations menées en Bretagne et Bourgogne Franche-Comté concernant l’ouverture des données de marché public. 
+Les préfigurations lancées concernant **le « tout dématérialisation » de la commande publique**, afin d’anticiper la généralisation de la réponse électronique aux marchés publics au 1er octobre 2018 se poursuivent. Une attention forte sera portée à la capacité d’essaimage des acheteurs publics préfigurateurs auprès de leur territoire, concernant le volet simplification (Marché public simplifié - MPS, API Entreprise) et dématérialisation. S’agissant du volet transparence, le programme DcANT pourra capitaliser sur le partenariat pour un gouvernement ouvert et poursuivre le suivi de la préfiguration de ce volet à travers notamment les expérimentations menées en Bretagne et Bourgogne Franche-Comté concernant l’ouverture des données de marché public.
 
 >> [Lire aussi Pour une commande publique simplifiée et dématérialisée : les territoires lancent la préfiguration
 ](https://www.modernisation.gouv.fr/home/commande-publique-simplifiee-dematerialisee-territoires-lancent-prefiguration){:target="_blank"}
@@ -76,13 +76,13 @@ Les préfigurations lancées concernant **le « tout dématérialisation » de l
 
 >> [Consulter l'étude portant sur l'archivage électronique dans les territoires](https://www.modernisation.gouv.fr/etudes-et-referentiels/etudes/etude-sur-le-developpement-de-larchivage-electronique-dans-les-territoires){:target="_blank"}
 
- 
+
 
 Enfin, les travaux concernant le développement de l’écosystème numérique des territoires se poursuivent à travers les réflexions engagées par les associations de collectivités locales. Une mise en perspective de la stratégie Etat plateforme à travers l’approche des collectivités locales pourrait contribuer à enrichir cette réflexion.
 
- 
 
- 
+
+
 
 
 Vous souhaitez rejoindre la communauté constituée en faveur du développement de l’administration numérique territoriale et contribuer activement à la mise en œuvre opérationnelle des recommandations ?

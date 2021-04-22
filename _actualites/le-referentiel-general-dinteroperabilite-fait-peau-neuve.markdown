@@ -22,9 +22,9 @@ une-ou-diaporama:
 C'est un lifting en profondeur dont bénéficie le [référentiel général d'interopérabilité](http://references.modernisation.gouv.fr/interoperabilite){:target"_blank"} (RGI). La deuxième version, qui succède à celle de 2009, a été publiée au Journal Officiel du vendredi 22 avril 2016. Document technique de référence destiné aux spécialistes des systèmes d'information, le RGI, porté par le secrétariat général à la modernisation de l'action publique (SGMAP), préconise un ensemble de normes et de standards en vue de fluidifier les échanges au sein de de la sphère publique et avec les usagers.
 
 > #### L'interopérabilité technique : définition
-> 
+>
 > L'interopérabilité est la capacité que possède un produit ou un système, dont les interfaces sont intégralement connues, à fonctionner avec d'autres produits ou systèmes existants ou futurs et ce sans restriction d'accès ou de mise en œuvre.
-{: .encadre}
+{: .encadre role="presentation" }
 
 A l'heure de l'[Etat Plateforme](http://etatplateforme.modernisation.gouv.fr/){:target"_blank"} et des services composites associant des ressources d'origines diverses, le rôle du RGI, dont le développement a été piloté au sein du SGMAP par la DINSIC (direction interministérielle du numérique et du système d’information et de communication), est plus que jamais essentiel.
 

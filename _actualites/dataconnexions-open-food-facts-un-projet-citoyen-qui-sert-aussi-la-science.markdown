@@ -32,7 +32,7 @@ Ce prix a aussi eu le mérite de susciter l'intérêt de chercheurs qui s'appuie
 
 Sur ce même thème, le ministère de la Santé britannique vient de lancer une grande campagne de sensibilisation baptisée Sugar Smart. Le consommateur scanne un produit depuis une application mobile et obtient en retour la quantité de sucres qu'il contient. Nous allons contacter cette administration pour lui proposer notre base qui contient déjà 3 000 références locales. L'un de nos défis, auquel nous avons commencé à répondre, vise à donner une dimension plus internationale au projet.
 
-###Vous suivez d'autres pistes d'évolution ? 
+###Vous suivez d'autres pistes d'évolution ?
 
 <figure class='image-left' style='width: 40%; margin-right: 10px;'><img src="/uploads/off_abcd.jpg"/></figure> **SG.** Oui, elles sont nombreuses. Nous cherchons à retracer de manière simple l'évolution de la composition d'un même produit au fil du temps. Pour certains d'entre eux, nous disposons d'un historique de trois ans. C'est une mine d'informations qui peut être mise à profit pour vérifier les discours des industriels concernant la diminution des taux de sucre, sel, etc.
 
@@ -47,4 +47,4 @@ publiques. La 6e édition du concours est en cours, et se clôturera par une jou
 ](https://www.etalab.gouv.fr/decouvrez-les-finalistes-du-concours->dataconnexions-6){:target="_blank"}
 >* [Consultez le programme](https://www.etalab.gouv.fr/ceremonie-de-remise-des-prix-dataconnexions-6-reservez-votre-place){:target="_blank"} de la journée événement du 2 février, à Toulouse
 >* [Réservez votre place (gratuit)](https://www.eventbrite.fr/e/billets-concours-dataconnexions-6-finale-ceremonie-19573273187){:target="_blank"} pour la finale et la remise des prix
-{: .encadre}
+{: .encadre role="presentation" }

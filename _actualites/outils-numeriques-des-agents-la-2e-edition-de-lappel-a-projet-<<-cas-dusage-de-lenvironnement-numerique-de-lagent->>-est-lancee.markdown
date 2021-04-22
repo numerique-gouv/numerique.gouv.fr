@@ -22,27 +22,27 @@ une-ou-diaporama:
 
 #### S’appuyer sur les pratiques des agents
 
-Identifier les **outils numériques** dont les agents ont besoin pour **collaborer** avec tout leur écosystème et **travailler en mobilité** : c’est l’objectif de l’appel à projet « Cas d’usages de l’environnement de travail numérique de l’agent (ETNA) », financé par le fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissement d’avenir (PIA) piloté par le SGPI. 
+Identifier les **outils numériques** dont les agents ont besoin pour **collaborer** avec tout leur écosystème et **travailler en mobilité** : c’est l’objectif de l’appel à projet « Cas d’usages de l’environnement de travail numérique de l’agent (ETNA) », financé par le fonds « Transition numérique de l’État et modernisation de l’action publique » du Programme d’investissement d’avenir (PIA) piloté par le SGPI.
 
-Jusqu’au **6 septembre 2019 inclus**, cette deuxième édition invite les administrations et les opérateurs à **faire remonter leurs cas d’usage** issus du terrain, à partir desquels seront prototypées des solutions numériques. 
+Jusqu’au **6 septembre 2019 inclus**, cette deuxième édition invite les administrations et les opérateurs à **faire remonter leurs cas d’usage** issus du terrain, à partir desquels seront prototypées des solutions numériques.
 
-> 
+>
 > #### Le programme Environnement de travail numérique de l’agent (ETNA)
 > Cet appel à projets s’inscrit plus globalement dans le cadre du programme Environnement de travail numérique de l’agent (ETNA) piloté par la DINSIC dans le cadre de [TECH.GOUV](https://numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/){:target="_blank"}. Il vise à simplifier la vie des agents et transformer leurs outils de travail avec le numérique. Parmi les réalisations concrètes du programme, la réalisation d’une boîte à outils numériques dédiés à l’agent et qui intègre d’ores et déjà la messagerie instantanée [Tchap](https://numerique.gouv.fr/espace-presse/lancement-de-tchap-la-messagerie-instantanee-des-agents-de-letat/){:target="_blank"}
-{: .encadre}
+{: .encadre role="presentation" }
 
 #### Outils collaboratifs et travail en mobilité
 
-L’évolution des modes de travail (collaboration, télétravail, mobilité…) nécessite **l’adaptation des outils** dont disposent les agents publics pour mener à bien leur mission. **S’inspirer directement de leurs pratiques** courantes pour prototyper ces nouveaux outils garantit d’apporter une réponse pertinente à leurs besoins concrets. 
+L’évolution des modes de travail (collaboration, télétravail, mobilité…) nécessite **l’adaptation des outils** dont disposent les agents publics pour mener à bien leur mission. **S’inspirer directement de leurs pratiques** courantes pour prototyper ces nouveaux outils garantit d’apporter une réponse pertinente à leurs besoins concrets.
 
 Les propositions attendues relèvent de 2 axes :
 <br>
-* **Le travail collaboratif** : les outils de stockage, de traitement de texte, messagerie, messagerie instantanée, grâce auxquels l’agent pourra travailler en collaboration avec l’ensemble de ses interlocuteurs, dans l’État mais aussi à l’extérieur (prestataires, opérateurs …). 
-* **Le travail en mobilité et à distance** : les outils qui permettent aux agents d’accéder à leurs documents de manière sécurisée à distance. 
+* **Le travail collaboratif** : les outils de stockage, de traitement de texte, messagerie, messagerie instantanée, grâce auxquels l’agent pourra travailler en collaboration avec l’ensemble de ses interlocuteurs, dans l’État mais aussi à l’extérieur (prestataires, opérateurs …).
+* **Le travail en mobilité et à distance** : les outils qui permettent aux agents d’accéder à leurs documents de manière sécurisée à distance.
 
-Il est possible de proposer des solutions déjà éprouvées au sein d’une administration, ou alors de faire remonter un irritant, pour lequel une solution numérique pourra être développée. 
+Il est possible de proposer des solutions déjà éprouvées au sein d’une administration, ou alors de faire remonter un irritant, pour lequel une solution numérique pourra être développée.
 
-Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, sélectionnera les projets les plus prometteurs en termes d’impact sur l’amélioration de l’environnement de travail de l’agent. Les lauréats pourront bénéficier d’un financement à hauteur de 100% pour le développement et l’expérimentation de leur solution. 
+Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, sélectionnera les projets les plus prometteurs en termes d’impact sur l’amélioration de l’environnement de travail de l’agent. Les lauréats pourront bénéficier d’un financement à hauteur de 100% pour le développement et l’expérimentation de leur solution.
 <br>
 <br>
 <figure class='image-center' style='width: 15%;'>
@@ -50,11 +50,11 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 </figure>
 
 > [Consultez le cahier des charges - pdf, 860 ko](/uploads/PIA-ETNA-2_Cahier-des-charges-et-reglement_aap.pdf)
-{: .lien-important}
+{: .lien-important role="presentation" }
 > [Déposez votre candidature jusqu'au 6 septembre 2019 inclus](https://www.demarches-simplifiees.fr/commencer/pia-etna-sept2019){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }
 <br>
-**Calendrier :** 
+**Calendrier :**
 * **6 septembre 2019 à minuit :** clôture des candidatures
 * **Fin septembre :** jury
 * **Début octobre :** annonce des lauréats
@@ -78,12 +78,12 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > <br>
 > <br>
 > Pour vous inscrire, écrivez-nous à [etna.dinsic@modernisation.gouv.fr](mailto:etna.dinsic@modernisation.gouv.fr).
-{: .encadre}
+{: .encadre role="presentation" }
 
 
 > #### **Les 10 projets lauréats du premier appel à projets**
 > <br>
-> En mars 2019, la [première édition de l’appel à projets « Cas d’usage de l’environnement de travail numérique de l’agent (ETNA) »](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/) invitait les administrations à faire remonter des cas d’usages. Sur les 25 proposés par les administrations, voici les **10 projets** sélectionnés par le jury composé d’experts issus du public et du privé : 
+> En mars 2019, la [première édition de l’appel à projets « Cas d’usage de l’environnement de travail numérique de l’agent (ETNA) »](https://numerique.gouv.fr/actualites/outils-numeriques-agent-administrations-appel-a-projets/) invitait les administrations à faire remonter des cas d’usages. Sur les 25 proposés par les administrations, voici les **10 projets** sélectionnés par le jury composé d’experts issus du public et du privé :
 > <br>
 > <br>
 > * **DRIVE : créer un espace d’hébergement de fichiers et d’édition en ligne**<br>
@@ -133,9 +133,9 @@ Fin septembre 2019, un jury mixte, composé d’experts du privé et du public, 
 > <br>
 > * **ETN du futur, Expérimenter un lieu de collaboration numérique interministérielle**<br>
 > *Préfecture de région Ile-de-France*<br>
-> Il permettra aux agents de collaborer dans un même lieu équipé de nouveaux outils numériques, et par la suite de développer de nouveaux modes de travail plus collaboratifs et nomades. 
+> Il permettra aux agents de collaborer dans un même lieu équipé de nouveaux outils numériques, et par la suite de développer de nouveaux modes de travail plus collaboratifs et nomades.
 > <br>
 > <br>
 > Pour chacun de ces projets, les prototypes seront réalisés jusqu’à **mi-décembre 2019**.
 > <br>
-{: .encadre}
+{: .encadre role="presentation" }

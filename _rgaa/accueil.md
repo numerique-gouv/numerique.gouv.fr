@@ -1,5 +1,5 @@
 ---
-title: Accueil - RGAA 
+title: Accueil - RGAA
 permalink: "/publications/rgaa-accessibilite/"
 menu:
   title: Accueil

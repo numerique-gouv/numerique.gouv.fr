@@ -24,7 +24,7 @@ En quoi la conduite de ce projet d’archivage sera-t-elle agile ? La réponse e
 
 #### Aligné sur les priorités de la DSI de l’État
 
-Rappelons que cet ancrage de Vitam dans l’agilité traduit la volonté de la DINSIC – la DSI de l’État - de privilégier des chantiers informatiques de petite taille, s’échelonnant sur des délais relativement courts. L’objectif : 
+Rappelons que cet ancrage de Vitam dans l’agilité traduit la volonté de la DINSIC – la DSI de l’État - de privilégier des chantiers informatiques de petite taille, s’échelonnant sur des délais relativement courts. L’objectif :
 se prémunir des retards, et produire des livrables qui restent alignés sur les besoins initiaux. La DINSIC préconise ainsi des approches agiles basées sur un enchaînement de cycles courts (quelques semaines) à l’issue desquels des contrôles réguliers permettent de vérifier le fonctionnement et l’ergonomie du produit. Résultat : nul besoin d’attendre la livraison finale pour corriger le tir en cas d’éventuels dysfonctionnements.
 
 Ces itérations associent les différents profils concernés par le projet : responsable produit, développeurs et utilisateurs. En testant les fonctions et la qualité des livrables, l’utilisateur final participe donc activement à l’orientation et aux développements du produit.
@@ -54,8 +54,8 @@ L’association d’un développement en mode agile avec une phase d’industria
 >* **Mi-2017** : finalisation de la première version de production
 >* **Mi-2018** : finalisation de la seconde version de production
 >* **Mi-2019** : finalisation de la troisième version de production
-{: .encadre}
+{: .encadre role="presentation" }
 
- 
+
 
 

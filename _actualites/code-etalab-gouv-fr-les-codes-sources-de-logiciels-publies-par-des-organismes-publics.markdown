@@ -18,4 +18,4 @@ redirection: https://www.etalab.gouv.fr/code-etalab-gouv-fr-les-codes-sources-de
 ---
 
 > [Lire la suite](https://www.etalab.gouv.fr/code-etalab-gouv-fr-les-codes-sources-de-logiciels-publies-par-des-organismes-publics)
-{: .lien-important}
+{: .lien-important role="presentation" }

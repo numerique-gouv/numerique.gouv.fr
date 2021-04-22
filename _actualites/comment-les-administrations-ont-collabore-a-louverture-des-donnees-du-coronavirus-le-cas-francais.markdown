@@ -23,4 +23,4 @@ redirection: https://www.etalab.gouv.fr/comment-les-administrations-ont-collabor
 ---
 
 > [Lire la suite sur Etalab.gouv.fr](https://www.etalab.gouv.fr/comment-les-administrations-ont-collabore-a-louverture-des-donnees-du-coronavirus-le-cas-francais/)
-{: .lien-important}
+{: .lien-important role="presentation" }

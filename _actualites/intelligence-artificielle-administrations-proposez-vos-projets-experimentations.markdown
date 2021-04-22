@@ -21,11 +21,11 @@ Classification automatique d’images, reconnaissance d’entités nommées dans
 > #### L’intelligence artificielle déjà utilisée dans l’administration
 >
 > A titre d’exemple, la Caisse nationale d’assurance maladie (CNAM), en collaboration avec le centre de mathématiques appliquées de l’école polytechnique, utilise des algorithmes pour détecter automatiquement les effets secondaires des traitements pharmacologiques en analysant les données du SNIIRAM (dépenses d’assurance maladie). Pôle Emploi, en partenariat avec Etalab et l’incubateur de startups d’État, a développé La Bonne Boîte, un service en ligne qui permet de réaliser des candidatures spontanées ciblées sur les entreprises qui ont une forte probabilité d’embauche.
-{: .encadre}
+{: .encadre role="presentation" }
 
 Pour initier ce mouvement, la DINSIC et la direction interministérielle de la transformation publique (DITP) lancent un appel à manifestation d’intérêt pour expérimenter l’usage des technologies d’intelligence artificielle dans les administrations. Les lauréats bénéficieront d’un accompagnement d’une durée de 10 mois sur les aspects techniques et organisationnels.
 
->Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’intelligence artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir aux citoyens un service public plus performant et proche de leurs besoins. » 
+>Avec cette expérimentation, nous montrons que l’État aussi est prêt à se saisir du potentiel de l’intelligence artificielle pour transformer l’administration en profondeur et libérer la créativité de ses agents, afin d’offrir aux citoyens un service public plus performant et proche de leurs besoins. »
 {: .citation}
 >Mounir Mahjoubi, secrétaire d’État auprès du Premier ministre, chargé du numérique.
 {: .auteur-citation}

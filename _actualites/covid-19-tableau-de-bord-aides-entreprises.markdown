@@ -77,4 +77,4 @@ Le rapport des administrations aux données doit être véritablement repensé �
 </a>
 {: .text-center}
 > **[Accéder au tableau de bord interactif](https://www.economie.gouv.fr/covid19-soutien-entreprises/aides-versees-fonds-solidarite)**
-{: .lien-important}
+{: .lien-important role="presentation" }

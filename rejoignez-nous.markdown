@@ -4,13 +4,13 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 15 février  2021
+date_de_modification: 8 avril 2021
 layout: page-annexe
 ---
 
 **Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINUM !**
 
-Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de postes de haut niveau dans le numérique au sein des ministères.
+Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de postes de haut niveau dans le numérique au sein des ministères.
 <br>
 <br>
 
@@ -27,34 +27,35 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Chef/Cheffe du pôle Hypervision (NOC/SOC) du réseau interministériel de l’État (RIE)](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-du-pole-hypervision-nocsoc-du-reseau-interministeriel-de-l-etat-rie-hf-reference-2021-545525 "Chef/Cheffe du pôle Hypervision (NOC/SOC) du réseau interministériel de l’État (RIE) - Lien externe")**
+* **[Chef/Cheffe de projet Résilience RIE - équipements d'extrémité (Box résiliente)](https://place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-resilience-rie---equipements-d-extremite-box-resiliente-hf-reference-2021-590345/ "Chef/Cheffe de projet Résilience RIE - équipements d'extrémité (Box résiliente) - Lien externe")**
 <br>Cadre/Catégorie A
+<br>Poste basé à Paris ou Lyon
+<br>
+
+* **[Chargé/Chargée de la relation clients – Sites réseau complexes](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-relation-clients--sites-reseau-complexes-reference-2021-572778/ "Chargé/Chargée de la relation clients – Sites réseau complexes - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Développeur/Développeuse chargé-e d'hypervision réseau et sécurité](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe")**
+<br>[Cadre/Catégorie A](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe") ou [Catégorie B](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite-hf-reference-2021-572929/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe") selon profil 
 <br>Poste basé en Ille et Vilaine (35)
 <br>
 
-* **[Responsable de la Sécurité des Systèmes d'Informations F/H](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-fh-reference-2020-430437 "Responsable de la Sécurité des Systèmes d'Informations F/H - Lien externe")**
+* **[Chargé/Chargée de la gouvernance SSI du Réseau Interministériel de l'État (RIE)](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-gouvernance-ssi-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-572756/ "Chargé/Chargée de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Ingénieur sécurité réseau (SOC du réseau interministériel de l'État) F/H](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat-hf-reference-2021-541790 "Ingénieur sécurité réseau (SOC du réseau interministériel de l'État) F/H - Lien externe")**
+* **[Directeur/Directrice technique sac à dos numérique de l'agent public (SNAP) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-technique-sac-a-dos-numerique-de-l-agent-public-snap-hf-reference-2021-557191/ "Directeur/Directrice technique sac à dos numérique de l'agent public (SNAP) H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet---architecte-technique--services-d-acces-internet-hf-reference-2021-557169/ "Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Ingénieur/Ingénieure sécurité réseau (SOC du réseau interministériel de l'État) 3 postes à pourvoir H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat--3-postes-a-pourvoir-hf-reference-2021-557187/ "Ingénieur/Ingénieure sécurité réseau (SOC du réseau interministériel de l'État) 3 postes à pourvoir H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>Poste basé en Ille et Vilaine (35)
-<br>
-
-* **[Directeur/directrice de projet - Sécurisation et conseil sur les grands projets SI de l’État](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet---securisation-et-conseil-sur-les-grands-projets-si-de-l-etat-hf-reference-2020-514691 "Directeur/directrice de projet - Sécurisation et conseil sur les grands projets SI de l’État - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Juriste droit numérique et administratif H/F](https://place-emploi-public.gouv.fr/offre-emploi/juriste-droit-numerique-et-administratif-hf-reference-2021-537264 "Juriste droit numérique et administratif H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Designer UX / UI - F/H](https://place-emploi-public.gouv.fr/offre-emploi/designer-ux--ui-hf-reference-2021-536479 "Designer UX / UI - F/H - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Développeuse / Développeur](https://place-emploi-public.gouv.fr/offre-emploi/developpeur--developpeuse-reference-2020-470032 "Développeur / Développeuse - Lien externe")**
-<br>Cadre/Catégorie A
 <br>
 
 
@@ -71,11 +72,16 @@ Retrouvez aussi [en bas de cette page](#offresminist%C3%A8res) une sélection de
   -->
 
 <div class="encadre noir">
-<h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministères"></a></h3>
-<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> <p><strong> Direction générale des douanes et droits indirects (DGDDI)</strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/dgddi---sous-directeur-en-charge-des-systemes-d-information-et-de-telecommunication---hf-reference-2021-544558/" title="Sous-directeur en charge des systèmes d'information et de télécommunication F/H - Lien externe">Sous-directeur en charge des systèmes d'information et de télécommunication F/H</a></strong><br>Cadre supérieur/Catégorie A+ <br>Poste basé en Seine Saint-Denis (93)</li></ul> 
+<h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
+<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> <p><strong> Ministère de l'Agriculture et de l'Alimentation</strong></p> 
+<ul><li class="margin-bottom-1"><strong><a href="/uploads/2021-04-01_Fiche-poste_SNum_ASN_Chef-de%CC%81partement.pdf" title="Chef/Cheffe du département Applicatifs et Services Numériques - pdf (53 Ko)">Chef/Cheffe du département Applicatifs et Services Numériques</a></strong><br>Cadre supérieur/Catégorie A+</li></ul>
+<ul><li class="margin-bottom-1"><strong><a href="/uploads/2021-04-01_Fiche-poste_SNum_PHI_Chef-de%CC%81partement.pdf" title="Chef/Cheffe du département plateformes, hébergement, infrastructures (PHI) - pdf (55 Ko)">Chef/Cheffe du département plateformes, hébergement, infrastructures (PHI)</a></strong><br>Cadre supérieur/Catégorie A+ <br>Poste basé à Toulouse (31)</li></ul> 
+<p><strong> Secrétariat Général de la Défense et de la Sécurité Nationale (SGDSN)</strong></p> 
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-maitrise-d-ouvrage-2-postes-reference-2021-557102/" title="Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H - Lien externe">Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H</a></strong><br>Cadre/Catégorie A</li></ul> 
 <p><strong>Direction générale des finances publiques (DGFiP)</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064" title="Chef de projet / chargé de mission F/H - Lien externe">Chef de projet / chargé de mission - Mission France Recouvrement F/H</a></strong><br>Cadre/Catégorie A <br>Poste basé à Montreuil (93)</li></ul> 
 <p><strong>Ministère de l’économie, des finances et de la relance</strong><br>Direction générale des entreprises (DGE)</p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/administrateur-systemes--devops---peren---sen-peren-148-hf-reference-MEF_2021-3469" title="Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H - Lien externe">Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H</a></strong> <br>Cadre/Catégorie A</li></ul>
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/administrateur-systemes--devops---peren---sen-peren-148-hf-reference-MEF_2021-3469" title="Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H - Lien externe">Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H</a></strong>
+<br>Cadre/Catégorie A</li></ul><p>Direction Générale des Douanes et Droits Indirects</p> 
+<ul><li class="margin-bottom-1"><strong><a href="https://passerelles.economie.gouv.fr/offre-de-emploi/emploi-dgddi-dg-si2-chef-de-projet-deploiement-d-application-mobile-cat-a-h-f_2452.aspx" title="Chef de projet déploiement d'application mobile F/H - Lien externe">Chef de projet déploiement d'application mobile F/H</a></strong><br>Cadre/Catégorie A <br>Poste basé à Montreuil (93)</li></ul> 
 </div>

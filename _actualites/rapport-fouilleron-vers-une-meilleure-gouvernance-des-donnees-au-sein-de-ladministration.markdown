@@ -38,4 +38,4 @@ Les freins à la circulation des données au sein du secteur public ne sont pour
 Des démarches concrètes seront engagées **pour faciliter et normaliser les échanges de données** et accroître la communication entre administrations, appuyées par le secrétariat général pour la modernisation de l’action publique (SGMAP) et l’administrateur général des données.
 
 > [Télécharger le rapport  "Les échanges de données réalisés à titre onéreux entre les administrations"](https://www.modernisation.gouv.fr/sites/default/files/fichiers-attaches/rapport_echanges-donnees-entre-administrations.pdf){:target="_blank"}
-{: .lien-important }
+{: .lien-important role="presentation"  }

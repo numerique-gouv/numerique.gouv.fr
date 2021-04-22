@@ -24,4 +24,4 @@ gestion de projets, support métier, data sciences, cybersécurité, webdévelop
 
 > [Informations et inscription au concours
 ](https://www.interieur.gouv.fr/A-votre-service/Le-ministere-recrute/Filiere-systemes-d-information-et-de-communication/Les-recrutements/Ingenieur-des-systemes-d-information-et-de-communication/Les-recrutements-ouverts/Concours-externe-d-ingenieur-des-SIC-2019 "Informations et inscription au concours"){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }

@@ -23,7 +23,7 @@ Cette 9e édition passe en revue **47 projets**, dont **12 à portée interminis
 [![Consulter la 9e édition du panorama](/uploads/capture_panorama-oct2019_500.png){: width="200px" height="93px" }](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
 {: .text-center}
 > [Consulter la 9e édition du panorama](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/)
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 Vous pouvez également consulter l’ensemble des données de cette édition et des précédentes en open data sur la plateforme [**data.gouv.fr**](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/)
 
@@ -44,6 +44,6 @@ Autre projet entrant : **numérique en détention (NED)**, l’un des chantiers 
 Depuis sa création, ce panorama permet à la DINUM de suivre de près les évolutions des grands SI de l’État, d’en détecter les éventuelles dérives et de proposer le cas échéant des actions correctives. Dans le cadre de [TECH.GOUV, le programme d’accélération de la transformation numérique du service public](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/), la DINUM va désormais plus loin en proposant à l’ensemble des ministères **une offre de conseil en cadrage et pilotage de projets SI**. Objectif : les accompagner le plus en amont possible, et pendant la mise en œuvre en cas de points de difficultés, afin d’anticiper et de limiter plus encore les risques de dérives.
 
 > <br>**Vous êtes directeur d’administration ou chef de service, et votre équipe est amenée à conduire un projet numérique ?** Vous pouvez contacter la direction de la DINUM [**par courriel**](mailto:sec-directeur.dinum@modernisation.gouv.fr) en précisant le contexte de votre demande et votre besoin. Un expert prendra contact avec vous afin de définir le dispositif d’appui le plus pertinent.
-> 
+>
 > [**> En savoir + sur l'offre de conseil (pdf - 1 Mo)**](/uploads/Plaquette_offre_de_conseil-pilotage.pdf)
 {: .noir .encadre}

@@ -21,7 +21,7 @@ De nouveaux projets intègrent le tableau de bord, notamment :
 
 
 
-#### Géoportail   
+#### Géoportail
 
 La plateforme [geoportail.gouv.fr](https://www.geoportail.gouv.fr/){:target="_blank"}, gérée par l’IGN, facilite l’accès à l’information géographique de référence, c’est-à-dire officielle, fiable et complète. Refondue entièrement en 2016, elle permet notamment de visualiser en 2D et en 3D les fonds cartographiques et photographiques, d’y superposer de nombreuses données publiques géolocalisées, de créer ses propres cartes et de les partager. En constante évolution, la plateforme propose également une offre de services aux particuliers comme aux organismes publics et aux professionnels.
 
@@ -37,7 +37,7 @@ L’ensemble des données, de cette édition et des précédentes, est égalemen
 ](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){:target="_blank"}
 
 > [Consulter les données du panorama des grands projets SI de l'Etat](https://www.data.gouv.fr/fr/datasets/panorama-des-grands-projets-si-de-letat-1/){:target="_blank"}
-{: .lien-important }
+{: .lien-important role="presentation"  }
 
 > ### Un panorama pour suivre les grands projets du SI de l’État
 >
@@ -49,4 +49,4 @@ L’ensemble des données, de cette édition et des précédentes, est égalemen
 ><br>
 >
 >[En savoir plus](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/panorama-des-grands-projets-si-de-letat){:target="_blank"}
-{: .encadre}
+{: .encadre role="presentation" }

@@ -15,7 +15,9 @@ chapeau-text: |
 auteur: Archives
 ---
 
-<iframe frameborder="0" width="550" height="310" src="https://www.dailymotion.com/embed/video/x28xl4z" allowfullscreen allow="autoplay"></iframe>
+<div class="conteneur-iframe seize-neuvieme">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x28xl4z" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div>
 
 <br>
 <br>
@@ -33,15 +35,15 @@ Le dispositif MPS est ouvert aux candidatures avec co-traitants. MPS gère les m
 * **La confiance a priori**
 En déposant une offre sur une place partenaire MPS, les entreprises fournissent une attestation sur l’honneur qui se substitue à la production de pièces justificatives.
 
-> 
-> 
+>
+>
 > **Enjeu**
 > * simplifier les candidatures aux 300 000 marchés publics publiés chaque année
-> 
+>
 > **Gain de temps et économies à la clé pour les entreprises**
 > * 2 heures par marché de gain de temps pour l’entreprise
 > * 60 millions d'euros d'économies par an pour les entreprises, sur les 300 000 marchés publics annuels
-{: .encadre}
+{: .encadre role="presentation" }
 
 #### MPS pour les places de marchés publics
 Un service qui permet aux places d’amplifier leur stratégie de dématérialisation et d’offrir une fonction innovante à leur utilisateur : "répondez avec votre SIRET".
@@ -99,10 +101,10 @@ QUALIBAT : attestation professionnelle QUALIBAT
 
 
 [Pour en savoir plus sur les marchés en cours, les partenaires du dispositif MPS et accéder à de l’information complémentaire : mps.apientreprise.fr](https://mps.apientreprise.fr/){:target="_blank"}
-{: .lien-important]
+{: .lien-important role="presentation" ]
 
 [Plaquette de présentation Marché public simplifié (pdf 373.23Ko)](/uploads/plaquette_mps.pdf)
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 
 

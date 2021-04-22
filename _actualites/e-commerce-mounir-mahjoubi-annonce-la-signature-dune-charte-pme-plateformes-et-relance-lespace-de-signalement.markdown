@@ -16,7 +16,7 @@ auteur: Secrétariat d'État chargé du Numérique
 ---
 
 ### Signature de la charte « e-commerce »
-{: .margin-top-2 .margin-bottom-1} 
+{: .margin-top-2 .margin-bottom-1}
 Cette charte signée entre représentants des PME et plateformes a vocation à traiter les problématiques récurrentes et à établir le cadre d’un dialogue plus fluide entre les acteurs. Elle a été co-construite avec l’Etat, les plateformes, la FEVAD et la CPME à l’issue d’une période de recensement des difficultés rencontrées par les PME et sera signée le mardi 26 mars 2019.
 
 Les engagements s’articulent autour de trois axes :
@@ -35,6 +35,6 @@ Cette plateforme doit permettre d’assurer le suivi de l’application de la ch
 
 Cette plateformes constituera ainsi un « baromètre » de la loyauté et de la transparence des relations PME-plateformes, y compris au-delà du seul secteur de l’e-commerce. Les signalements permettront en outre un recours fluidifié à la médiation.
 
-Le formulaire de signalement est mis à disposition des entreprises confrontées à ces problématiques : 
+Le formulaire de signalement est mis à disposition des entreprises confrontées à ces problématiques :
 > [Accéder au formulaire de signalement](https://www.demarches-simplifiees.fr/commencer/consultation-plateformes "Accéder au formulaire de signalement - Nouvelle fenêtre"){:target="_blank"}
-{: .lien-important}
+{: .lien-important role="presentation" }

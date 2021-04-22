@@ -21,4 +21,4 @@ redirection: https://blog.beta.gouv.fr/dinsic/2020/04/23/fast4/
 ---
 
 > [Lire la suite sur Beta.gouv.fr](https://blog.beta.gouv.fr/dinsic/2020/04/23/fast4/)
-{: .lien-important}
+{: .lien-important role="presentation" }

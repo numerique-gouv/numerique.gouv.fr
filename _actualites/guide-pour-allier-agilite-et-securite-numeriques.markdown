@@ -30,8 +30,8 @@ Si la méthode a été prioritairement élaborée pour des administrations, elle
 {: .text-center}
 
 > [Télécharger le guide Agilité & sécurité numériques - Méthode et outils à l'usage des équipes projet](/uploads/guide_agilite-et-securite-numeriques.pdf) (pdf - 3,10 Mo)
-{: .lien-important}
+{: .lien-important role="presentation" }
 
 > ## Participez à l’évolution du guide
 Déjà enrichie après une phase d’appel à commentaires, la présente version du guide ne constitue encore qu’un point de départ. Appliquez à votre tour la méthodologie proposée, telle quelle ou en l’adaptant, et faites-nous part de vos retours d’expérience et suggestions à [securite-agile@beta.gouv.fr](mailto:securite-agile@beta.gouv.fr). Comme toute équipe agile, nous nous engageons à tenir compte des enseignements du terrain.
-{: .encadre}
+{: .encadre role="presentation" }
