@@ -1,7 +1,7 @@
 ---
 title: 'France Relance : lancement accéléré de l’observatoire du covoiturage grâce
   au dispositif innovation et transformation numérique de l’État'
-date: 2021-04-26 09:47:00 +02:00
+date: 2021-04-26 16:20:00 +02:00
 categories:
 - Communiqué de presse
 tags:
