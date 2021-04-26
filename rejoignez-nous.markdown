@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 19 avril 2021
+date_de_modification: 26 avril 2021
 layout: page-annexe
 ---
 
@@ -53,10 +53,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Directeur/Directrice technique sac à dos numérique de l'agent public (SNAP) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-technique-sac-a-dos-numerique-de-l-agent-public-snap-hf-reference-2021-557191/ "Directeur/Directrice technique sac à dos numérique de l'agent public (SNAP) H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet---architecte-technique--services-d-acces-internet-hf-reference-2021-557169/ "Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -81,10 +77,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 <div class="encadre noir">
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
-<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> <p><strong> Ministère de l'Agriculture et de l'Alimentation</strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="/uploads/2021-04-01_Fiche-poste_SNum_ASN_Chef-de%CC%81partement.pdf" title="Chef/Cheffe du département Applicatifs et Services Numériques - pdf (53 Ko)">Chef/Cheffe du département Applicatifs et Services Numériques</a></strong><br>Cadre supérieur/Catégorie A+</li></ul>
-<ul><li class="margin-bottom-1"><strong><a href="/uploads/2021-04-01_Fiche-poste_SNum_PHI_Chef-de%CC%81partement.pdf" title="Chef/Cheffe du département plateformes, hébergement, infrastructures (PHI) - pdf (55 Ko)">Chef/Cheffe du département plateformes, hébergement, infrastructures (PHI)</a></strong><br>Cadre supérieur/Catégorie A+ <br>Poste basé à Toulouse (31)</li></ul> 
-<p><strong> Secrétariat Général de la Défense et de la Sécurité Nationale (SGDSN)</strong></p> 
+<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p>  <p><strong> Secrétariat Général de la Défense et de la Sécurité Nationale (SGDSN)</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-maitrise-d-ouvrage-2-postes-reference-2021-557102/" title="Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H - Lien externe">Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H</a></strong><br>Cadre/Catégorie A</li></ul> 
 <p><strong>Direction générale des finances publiques (DGFiP)</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064" title="Chef de projet / chargé de mission F/H - Lien externe">Chef de projet / chargé de mission - Mission France Recouvrement F/H</a></strong><br>Cadre/Catégorie A <br>Poste basé à Montreuil (93)</li></ul> 
