@@ -1,24 +1,23 @@
 ---
 title: 'France Relance : lancement accéléré de l’observatoire du covoiturage grâce
   au dispositif innovation et transformation numérique de l’État'
-date: 2021-04-26 09:47:00 +02:00
+date: 2021-04-26 16:20:00 +02:00
 categories:
 - Communiqué de presse
 tags:
 - FranceRelance
 - transport.data.gouv.fr
 - observatoire
-chapeau-text: "**La stratégie de la donnée de l’État consiste à simplifier les  formalités
-  \ administratives, appuyer la prise de décision et créer  des  services  numériques
-  innovants en accélérant la circulation des données. En se saisissant de la puissance
-  de la donnée, l’observatoire national du covoiturage au quotidien s’attache à suivre
-  l’évolution des pratiques et évaluer l’impact des mesures actuelles pour adapter
-  les politiques publiques de covoiturage. Lauréat du premier appel à projets incitant
-  le développement de l’utilisation de la donnée par l’administration inscrit dans
-  le plan France Relance, ce projet va bénéficier d’un soutien financier à hauteur
-  de 75% accélérant concrètement son lancement. Les administrations souhaitant faire
-  de même sont invitées à candidater au second appel à projets dès aujourd’hui et
-  jusqu’au 21 mai 2021.**"
+chapeau-text: La stratégie de la donnée de l’État consiste à **simplifier les  formalités  administratives,
+  appuyer la prise de décision et créer des services  numériques innovants en accélérant
+  la circulation des données**. En se saisissant de la puissance de la donnée, **l’observatoire
+  national du covoiturage au quotidien** s’attache à suivre l’évolution des pratiques
+  et évaluer l’impact des mesures actuelles pour adapter les politiques publiques
+  de covoiturage. **Lauréat du premier appel à projets incitant le développement de
+  l’utilisation de la donnée par l’administration inscrit dans le plan France Relance,
+  ce projet va bénéficier d’un soutien financier à hauteur de 75% accélérant concrètement
+  son lancement**. Les administrations souhaitant faire de même sont invitées à **candidater
+  au second appel à projets dès aujourd’hui et jusqu’au 21 mai 2021.**
 une-ou-diaporama:
 - image: "/uploads/2021_04_26_FRANCE-RELANCE_OBSERVATOIRE_1600x860.jpg"
   alternative-textuelle: |-
@@ -31,7 +30,7 @@ contact-presse:
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
 files:
-- file: "/uploads/CP_FRANCE_RELANCE_APPEL_A_PROJETS_ITN5_DONNEES.PDF"
+- file: "/uploads/CP_FRANCE_RELANCE_APPEL_A_PROJETS_ITN5_DONNEES-784df2.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
@@ -45,7 +44,7 @@ Inscrit dans le volet innovation et transformation numérique de France Relance,
 * [Consulter l'appel à projets ](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot)
 * [En savoir plus sur France Relance](https://france-relance.transformation.gouv.fr/)
 
-*Lancée dans le cadre du programme beta.gouv.fr de la direction interministérielle du numérique (DINUM) sous l’égide du ministère de la Transformation et de la Fonction publiques, les plateformes Registre de preuve de covoiturage et l’observatoire sont portées par la direction générale des infrastructures, des transports et de la mer (DGITM) du ministère chargé des Transports et le concours de toutes les collectivités qui, par la production de données, contribuent améliorer les politiques publiques en matière de transports plus responsables.*
+*Lancées dans le cadre du programme beta.gouv.fr de la direction interministérielle du numérique (DINUM) sous l’égide du ministère de la Transformation et de la Fonction publiques, les plateformes Registre de preuve de covoiturage et l’observatoire sont portées par la direction générale des infrastructures, des transports et de la mer (DGITM) du ministère chargé des Transports et le concours de toutes les collectivités qui, par la production de données, contribuent améliorer les politiques publiques en matière de transports plus responsables.*
 
 **Contact presse de Jean-Baptiste Djebbari, ministre délégué auprès de la ministre de la Transition écologique, chargé des Transports:**
 Tél : 01 40 81 77 57
