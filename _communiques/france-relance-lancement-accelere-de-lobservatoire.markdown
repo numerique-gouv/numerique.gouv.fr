@@ -45,7 +45,7 @@ Inscrit dans le volet innovation et transformation numérique de France Relance,
 * [Consulter l'appel à projets ](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot)
 * [En savoir plus sur France Relance](https://france-relance.transformation.gouv.fr/)
 
-*Lancée dans le cadre du programme beta.gouv.fr de la direction interministérielle du numérique (DINUM) sous l’égide du ministère de la Transformation et de la Fonction publiques, les plateformes Registre de preuve de covoiturage et l’observatoire sont portées par la direction générale des infrastructures, des transports et de la mer (DGITM) du ministère chargé des Transports et le concours de toutes les collectivités qui, par la production de données, contribuent améliorer les politiques publiques en matière de transports plus responsables.*
+*Lancées dans le cadre du programme beta.gouv.fr de la direction interministérielle du numérique (DINUM) sous l’égide du ministère de la Transformation et de la Fonction publiques, les plateformes Registre de preuve de covoiturage et l’observatoire sont portées par la direction générale des infrastructures, des transports et de la mer (DGITM) du ministère chargé des Transports et le concours de toutes les collectivités qui, par la production de données, contribuent améliorer les politiques publiques en matière de transports plus responsables.*
 
 **Contact presse de Jean-Baptiste Djebbari, ministre délégué auprès de la ministre de la Transition écologique, chargé des Transports:**
 Tél : 01 40 81 77 57
