@@ -48,16 +48,16 @@ Cette circulaire vient ainsi renouveler l’ambition de la France en la matière
 
 Sous l’autorité de la ministre de la Transformation et de la Fonction publiques, la direction interministérielle du numérique (DINUM) est elle-même pleinement mobilisée pour accompagner la mise en œuvre de cette ambition. A travers notamment son département [Etalab](https://www.etalab.gouv.fr/ "Etalab - Lien externe"), elle œuvre déjà à l’ouverture, la circulation et l’exploitation des données publiques, des algorithmes et des codes sources produits par les administrations, et favorise le recours au logiciel libre.
 
-**La DINUM met à leur disposition des plateformes interministérielles comme [data.gouv.fr](https://data.gouv.fr "data.gouv.fr - Lien externe") et [api.gouv.fr](https://api.gouv.fr "api.gouv.fr - Lien externe")** sur lesquelles les administrations doivent référencer leurs données pour en favoriser la réutilisation et le partage. La montée en gamme de ces portails va se poursuivre et des standards de qualité et d’interopérabilité seront définis pour toutes les données qui y sont exposées.
+* **La DINUM met à leur disposition des plateformes interministérielles comme [data.gouv.fr](https://data.gouv.fr "data.gouv.fr - Lien externe") et [api.gouv.fr](https://api.gouv.fr "api.gouv.fr - Lien externe")** sur lesquelles les administrations doivent référencer leurs données pour en favoriser la réutilisation et le partage. La montée en gamme de ces portails va se poursuivre et des standards de qualité et d’interopérabilité seront définis pour toutes les données qui y sont exposées.
 
-**Les administrations peuvent saisir le [guichet Dites-le-nous une fois](https://www.numerique.gouv.fr/services/guichet-dites-le-nous-une-fois/)** de la DINUM pour bénéficier d’un accompagnement sur-mesure à la mise en place de l’automatisation du partage de données entre administrations, et ainsi simplifier le service à l’usager.
+* **Les administrations peuvent saisir le [guichet Dites-le-nous une fois](https://www.numerique.gouv.fr/services/guichet-dites-le-nous-une-fois/)** de la DINUM pour bénéficier d’un accompagnement sur-mesure à la mise en place de l’automatisation du partage de données entre administrations, et ainsi simplifier le service à l’usager.
 
-**Un guichet dédié au pilotage des politiques publiques par la donnée** est également proposé. Il propose aux décideurs publics un appui expert pour tirer tout le potentiel de la donnée pour concevoir, déployer et suivre la mise en œuvre des politiques publiques.
+* **Un guichet dédié au pilotage des politiques publiques par la donnée** est également proposé. Il propose aux décideurs publics un appui expert pour tirer tout le potentiel de la donnée pour concevoir, déployer et suivre la mise en œuvre des politiques publiques.
 Pour plus d’informations, contactez [piloter-par-la-donnee@data.gouv.fr](mailto:piloter-par-la-donnee@data.gouv.fr).
 
 Plus largement, la circulaire précise que la DINUM peut être saisie par toute personne morale de droit public, de toute question portant sur la circulation des données, pour accélérer le partage de données entre administrations.
 
-**Enfin, la DINUM publie un tableau permettant de suivre et de rendre compte de l’ouverture des données, codes sources et API publics,** pour l’ensemble des ministères, inscrite dans leurs feuilles de route, tel que prévu par [l’engagement 6 du CITP du 5 février 2021](https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp "l’engagement 6 du CITP du 5 février 2021 - Lien externe").
+* **Enfin, la DINUM publie un tableau permettant de suivre et de rendre compte de l’ouverture des données, codes sources et API publics,** pour l’ensemble des ministères, inscrite dans leurs feuilles de route, tel que prévu par [l’engagement 6 du CITP du 5 février 2021](https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp "l’engagement 6 du CITP du 5 février 2021 - Lien externe").
 
 > Consulter le tableau de suivi (pdf)
 
