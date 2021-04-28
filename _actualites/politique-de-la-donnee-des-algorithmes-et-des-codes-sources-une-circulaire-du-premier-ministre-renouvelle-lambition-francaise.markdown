@@ -37,7 +37,7 @@ Dans la lignée de son engagement pris lors du <a href="https://www.gouvernement
 <p align="center"><a href="XXXXXXXXX" class="button">Lire la circulaire</a></p>
 
 
-## Le rôle stratégique des données publiques, de leur ouverture et réutilisation
+<h2 class="margin-bottom-1 h3"> Le rôle stratégique des données publiques, de leur ouverture et réutilisation</h2>
 
 Le Premier ministre rappelle à cette occasion toute l’importance que revêtent l’ouverture et la réutilisation des données publiques, encore prouvée dans la crise sanitaire sans précédent que nous traversons : utiles aux décideurs publics comme aux citoyens, elles servent à la fois le pilotage et l’efficacité de l’action publique, une meilleure évaluation des politiques publiques, la transparence et le suivi de l’action gouvernementale, le débat démocratique…
 
@@ -45,7 +45,7 @@ Si la France s’est placée à l’avant-garde en la matière, se dotant dès 2
 
 Cette circulaire vient ainsi renouveler l’ambition de la France en la matière et permettre l’accélération de sa mise en œuvre.
 
-## La DINUM accompagne les administrations
+<h2 class="margin-bottom-1 h3">La DINUM accompagne les administrations</h2>
 
 Sous l’autorité de la ministre de la Transformation et de la Fonction publiques, la direction interministérielle du numérique (DINUM) est elle-même pleinement mobilisée pour accompagner la mise en œuvre de cette ambition. A travers notamment son département [Etalab](https://www.etalab.gouv.fr/ "Etalab - Lien externe"), elle œuvre déjà à l’ouverture, la circulation et l’exploitation des données publiques, des algorithmes et des codes sources produits par les administrations, et favorise le recours au logiciel libre.
 
