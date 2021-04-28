@@ -10,7 +10,7 @@ tags:
 - France Relance
 - Codes sources
 - Algorithmes
-chapeau-text: A travers une circulaire du Premier ministre, le Gouvernement renouvelle
+chapeau-text: À travers une circulaire du Premier ministre, le Gouvernement renouvelle
   son ambition en matière de politique de la donnée, des algorithmes et des codes
   sources publics, et invite chaque ministère et préfet de Région à mener des actions
   concrètes.
@@ -30,6 +30,7 @@ style: |-
 ---
 
 <div class="citation">La politique de la donnée doit constituer une priorité de l’État dans ses relations avec tous ses partenaires, notamment les collectivités territoriales et les acteurs privés. »</div>
+
 Le Premier ministre a adressé ce message fort à l’ensemble des ministres, ministres délégués, secrétaires d’État et préfets de Région, dans une circulaire signée le 27 avril 2021.
 Dans la lignée de son engagement pris lors du [comité interministériel de la transformation publique du 5 février 2021](https://www.gouvernement.fr/partage/12086-dossier-de-presse-comite-interministeriel-de-la-transformation-publique "comité interministériel de la transformation publique du 5 février 2021 - Lien externe"), il enjoint chacun à mettre en œuvre cette ambition à travers des actions concrètes.
 
@@ -50,7 +51,7 @@ Sous l’autorité de la ministre de la Transformation et de la Fonction publiqu
 
 * **La DINUM met à leur disposition des plateformes interministérielles comme [data.gouv.fr](https://data.gouv.fr "data.gouv.fr - Lien externe") et [api.gouv.fr](https://api.gouv.fr "api.gouv.fr - Lien externe")** sur lesquelles les administrations doivent référencer leurs données pour en favoriser la réutilisation et le partage. La montée en gamme de ces portails va se poursuivre et des standards de qualité et d’interopérabilité seront définis pour toutes les données qui y sont exposées.
 
-* **Les administrations peuvent saisir le [guichet Dites-le-nous une fois](https://www.numerique.gouv.fr/services/guichet-dites-le-nous-une-fois/)** de la DINUM pour bénéficier d’un accompagnement sur-mesure à la mise en place de l’automatisation du partage de données entre administrations, et ainsi simplifier le service à l’usager.
+* **Les administrations peuvent saisir le [guichet Dites-le-nous une fois](https://www.numerique.gouv.fr/services/guichet-dites-le-nous-une-fois/)** de la DINUM, mis en place dans le cadre de TECH.GOUV, pour bénéficier d’un accompagnement sur-mesure à la mise en place de l’automatisation du partage de données entre administrations, et ainsi simplifier le service à l’usager.
 
 * **Un guichet dédié au pilotage des politiques publiques par la donnée** est également proposé. Il propose aux décideurs publics un appui expert pour tirer tout le potentiel de la donnée pour concevoir, déployer et suivre la mise en œuvre des politiques publiques.
 Pour plus d’informations, contactez [piloter-par-la-donnee@data.gouv.fr](mailto:piloter-par-la-donnee@data.gouv.fr).
@@ -59,15 +60,15 @@ Plus largement, la circulaire précise que la DINUM peut être saisie par toute 
 
 * **Enfin, la DINUM publie un tableau permettant de suivre et de rendre compte de l’ouverture des données, codes sources et API publics,** pour l’ensemble des ministères, inscrite dans leurs feuilles de route, tel que prévu par [l’engagement 6 du CITP du 5 février 2021](https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp "l’engagement 6 du CITP du 5 février 2021 - Lien externe").
 
-<p align="center"><a href="XXXXXXXXX" class="button">Consulter le tableau de suivi (pdf)</p>
+<p align="center"><a href="XXXXXXXXX" class="button">Consulter le tableau de suivi (pdf)</a></p>
 
 <div class="encadre noir"><h3 class="margin-bottom-1 h4">Avec France Relance, développez l’utilisation de la donnée dans votre administration !</h3>
 <p>Piloté par la DINUM sous l’égide de la ministre de la Transformation et de la Fonction publiques Amélie de Montchalin, le fonds Transformation numérique de l’État et des territoires du plan France Relance peut vous aider à financer des projets ayant vocation à développer l’usage de la donnée dans votre administration.</p>
 <p>Les projets peuvent porter sur le recours à l’intelligence artificielle, l’ouverture ou l’amélioration de la qualité des données, l’automatisation des échanges de données, (API, cycle de vie de la donnée, RPA…), l’archivage des données, des tableaux de bord de pilotage des politiques publiques…</p>
 <br>
 <ul><li><b>Vous êtes un service de l’État, central ou déconcentré, ou un opérateur ?</b> Un appel à projets vous est destiné, proposez votre projet jusqu’au 21 mai.
-<br><a href="https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot" alt="En savoir plus et postuler - Lien externe"> > En savoir plus et postuler</a></li> 
+<br><a href="https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot" title="="En savoir plus et postuler - Lien externe"> > En savoir plus et postuler</a></li> 
 <br>
 <ul><li><b>Vous êtes une collectivité territoriale ?</b> Un appel à projets vous est destiné, proposez votre projet jusqu’au 28 mai.
-<br><a href="https://france-relance.transformation.gouv.fr/dbbc-developper-lutilisation-de-la-donnee-dans-vot/" alt="En savoir plus et postuler - Lien externe"> > En savoir plus et postuler</a></li></ul>
+<br><a href="https://france-relance.transformation.gouv.fr/dbbc-developper-lutilisation-de-la-donnee-dans-vot/" title="En savoir plus et postuler - Lien externe"> > En savoir plus et postuler</a></li></ul>
 </div>
