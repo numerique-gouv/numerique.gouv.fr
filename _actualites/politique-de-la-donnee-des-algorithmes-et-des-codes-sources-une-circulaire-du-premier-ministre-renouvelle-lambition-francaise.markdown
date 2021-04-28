@@ -3,24 +3,38 @@ title: 'Politique de la donnée, des algorithmes et des codes sources : une circ
   du Premier ministre renouvelle l’ambition française'
 date: 2021-04-28 18:20:00 +02:00
 categories:
+- Article
+tags:
 - Ouverture des données publiques
 - Etalab
 - France Relance
 - Codes sources
 - Algorithmes
-tags:
-- Article
 chapeau-text: A travers une circulaire du Premier ministre, le Gouvernement renouvelle
   son ambition en matière de politique de la donnée, des algorithmes et des codes
   sources publics, et invite chaque ministère et préfet de Région à mener des actions
   concrètes.
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
 
 « La politique de la donnée doit constituer une priorité de l’État dans ses relations avec tous ses partenaires, notamment les collectivités territoriales et les acteurs privés. »
 Le Premier ministre a adressé ce message fort à l’ensemble des ministres, ministres délégués, secrétaires d’État et préfets de Région, dans une circulaire signée le 27 avril 2021.
 Dans la lignée de son engagement pris lors du [comité interministériel de la transformation publique du 5 février 2021](https://www.gouvernement.fr/partage/12086-dossier-de-presse-comite-interministeriel-de-la-transformation-publique "comité interministériel de la transformation publique du 5 février 2021 - Lien externe"), il enjoint chacun à mettre en œuvre cette ambition à travers des actions concrètes.
 
-> Lire la circulaire
+<p align="center"><a href="XXXXXXXXX" class="button">Lire la circulaire</a></p>
+
 
 ## Le rôle stratégique des données publiques, de leur ouverture et réutilisation
 
@@ -47,13 +61,13 @@ Plus largement, la circulaire précise que la DINUM peut être saisie par toute 
 
 > Consulter le tableau de suivi (pdf)
 
-Avec France Relance, développez l’utilisation de la donnée dans votre administration !
-Piloté par la DINUM sous l’égide de la ministre de la Transformation et de la Fonction publiques Amélie de Montchalin, le fonds Transformation numérique de l’État et des territoires du plan France Relance peut vous aider à financer des projets ayant vocation à développer l’usage de la donnée dans votre administration.
-Les projets peuvent porter sur le recours à l’intelligence artificielle, l’ouverture ou l’amélioration de la qualité des données, l’automatisation des échanges de données, (API, cycle de vie de la donnée, RPA…), l’archivage des données, des tableaux de bord de pilotage des politiques publiques…
-
-Vous êtes un service de l’État, central ou déconcentré, ou un opérateur ? Un appel à projets vous est destiné, proposez votre projet jusqu’au 21 mai. 
-> En savoir plus et postuler
-
-Vous êtes une collectivité territoriale ? Un appel à projets vous est destiné, proposez votre projet jusqu’au 28 mai.
-> En savoir plus et postuler
-
+<div class="encadre noir"><h3 class="margin-bottom-1 h4">Avec France Relance, développez l’utilisation de la donnée dans votre administration !</h3>
+<p>Piloté par la DINUM sous l’égide de la ministre de la Transformation et de la Fonction publiques Amélie de Montchalin, le fonds Transformation numérique de l’État et des territoires du plan France Relance peut vous aider à financer des projets ayant vocation à développer l’usage de la donnée dans votre administration.</p>
+<p>Les projets peuvent porter sur le recours à l’intelligence artificielle, l’ouverture ou l’amélioration de la qualité des données, l’automatisation des échanges de données, (API, cycle de vie de la donnée, RPA…), l’archivage des données, des tableaux de bord de pilotage des politiques publiques…</p>
+<br>
+<ul><li>**Vous êtes un service de l’État, central ou déconcentré, ou un opérateur ?** Un appel à projets vous est destiné, proposez votre projet jusqu’au 21 mai.
+<br>[> En savoir plus et postuler](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot)</li> 
+<br>
+<ul><li>**Vous êtes une collectivité territoriale ?** Un appel à projets vous est destiné, proposez votre projet jusqu’au 28 mai.
+<br>[> En savoir plus et postuler](https://france-relance.transformation.gouv.fr/dbbc-developper-lutilisation-de-la-donnee-dans-vot/)</li></ul>
+</div>
