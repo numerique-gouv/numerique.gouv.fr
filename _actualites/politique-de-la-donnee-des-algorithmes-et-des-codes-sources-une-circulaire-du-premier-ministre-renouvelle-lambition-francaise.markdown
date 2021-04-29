@@ -14,6 +14,8 @@ chapeau-text: À travers une circulaire du Premier ministre, le Gouvernement ren
   son ambition en matière de politique de la donnée, des algorithmes et des codes
   sources publics, et invite chaque ministère et préfet de Région à mener des actions
   concrètes.
+une-ou-diaporama:
+- image: "/uploads/circulaire-pm-politique-donnee_1600x860.jpg"
 style: |-
   .button {
   background-color: #0d5c98;
