@@ -56,8 +56,6 @@ Sous l’autorité de la ministre de la Transformation et de la Fonction publiqu
 * **Un guichet dédié au pilotage des politiques publiques par la donnée** est également proposé. Il propose aux décideurs publics un appui expert pour tirer tout le potentiel de la donnée pour concevoir, déployer et suivre la mise en œuvre des politiques publiques.
 Pour plus d’informations, contactez [piloter-par-la-donnee@data.gouv.fr](mailto:piloter-par-la-donnee@data.gouv.fr).
 
-Plus largement, la circulaire précise que la DINUM peut être saisie par toute personne morale de droit public, de toute question portant sur la circulation des données, pour accélérer le partage de données entre administrations.
-
 * **Enfin, la DINUM publie un tableau permettant de suivre et de rendre compte de l’ouverture des données, codes sources et API publics,** pour l’ensemble des ministères, inscrite dans leurs feuilles de route, tel que prévu par [l’engagement 6 du CITP du 5 février 2021](https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp "l’engagement 6 du CITP du 5 février 2021 - Lien externe").
 
 <p align="center"><a href="XXXXXXXXX" class="button">Consulter le tableau de suivi (pdf)</a></p>
