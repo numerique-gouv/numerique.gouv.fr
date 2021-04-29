@@ -32,8 +32,7 @@ style: |-
 ---
 
 <div class="margin-top-0 citation"><p>La politique de la donnée doit constituer une priorité de l’État dans ses relations avec tous ses partenaires, notamment les collectivités territoriales et les acteurs privés.</p></div>
-<br>
-<p>Le Premier ministre a adressé ce message fort à l’ensemble des ministres, ministres délégués, secrétaires d’État et préfets de Région, dans une circulaire signée le 27 avril 2021. Dans la lignée de son engagement pris lors du <a href="https://www.gouvernement.fr/partage/12086-dossier-de-presse-comite-interministeriel-de-la-transformation-publique" title="comité interministériel de la transformation publique du 5 février 2021 - Lien externe">comité interministériel de la transformation publique du 5 février 2021</a>, il enjoint chacun à mettre en œuvre cette ambition à travers des actions concrètes.</p>
+<p><br>Le Premier ministre a adressé ce message fort à l’ensemble des ministres, ministres délégués, secrétaires d’État et préfets de Région, dans une circulaire signée le 27 avril 2021. Dans la lignée de son engagement pris lors du <a href="https://www.gouvernement.fr/partage/12086-dossier-de-presse-comite-interministeriel-de-la-transformation-publique" title="comité interministériel de la transformation publique du 5 février 2021 - Lien externe">comité interministériel de la transformation publique du 5 février 2021</a>, il enjoint chacun à mettre en œuvre cette ambition à travers des actions concrètes.</p>
 
 <p align="center"><a href="https://www.legifrance.gouv.fr/circulaire/id/45162" class="button">Lire la circulaire</a></p>
 
