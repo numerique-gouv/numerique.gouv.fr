@@ -36,7 +36,7 @@ style: |-
 <br><p>Le Premier ministre a adressé ce message fort à l’ensemble des ministres, ministres délégués, secrétaires d’État et préfets de Région, dans une circulaire signée le 27 avril 2021.
 Dans la lignée de son engagement pris lors du <a href="https://www.gouvernement.fr/partage/12086-dossier-de-presse-comite-interministeriel-de-la-transformation-publique" title="comité interministériel de la transformation publique du 5 février 2021 - Lien externe">comité interministériel de la transformation publique du 5 février 2021</a>, il enjoint chacun à mettre en œuvre cette ambition à travers des actions concrètes.</p>
 
-<p align="center"><a href="XXXXXXXXX" class="button">Lire la circulaire</a></p>
+<p align="center"><a href="https://www.legifrance.gouv.fr/circulaire/id/45162" class="button">Lire la circulaire</a></p>
 
 
 <h2 class="margin-bottom-1 h3"> Le rôle stratégique des données publiques, de leur ouverture et réutilisation</h2>
