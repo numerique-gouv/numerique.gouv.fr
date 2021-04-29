@@ -67,7 +67,7 @@ Plus largement, la circulaire précise que la DINUM peut être saisie par toute 
 <p>Les projets peuvent porter sur le recours à l’intelligence artificielle, l’ouverture ou l’amélioration de la qualité des données, l’automatisation des échanges de données, (API, cycle de vie de la donnée, RPA…), l’archivage des données, des tableaux de bord de pilotage des politiques publiques…</p>
 <br>
 <ul><li><b>Vous êtes un service de l’État, central ou déconcentré, ou un opérateur ?</b> Un appel à projets vous est destiné, proposez votre projet jusqu’au 21 mai.
-<br><a href="https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot" title="="En savoir plus et postuler - Lien externe"> > En savoir plus et postuler</a></li> 
+<br><a href="https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot" title="En savoir plus et postuler - Lien externe"> > En savoir plus et postuler</a></li> 
 <br>
 <ul><li><b>Vous êtes une collectivité territoriale ?</b> Un appel à projets vous est destiné, proposez votre projet jusqu’au 28 mai.
 <br><a href="https://france-relance.transformation.gouv.fr/dbbc-developper-lutilisation-de-la-donnee-dans-vot/" title="En savoir plus et postuler - Lien externe"> > En savoir plus et postuler</a></li></ul>
