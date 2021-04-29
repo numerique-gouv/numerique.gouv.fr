@@ -1,7 +1,7 @@
 ---
 title: 'Politique de la donnée, des algorithmes et des codes sources : une circulaire
   du Premier ministre renouvelle l’ambition française'
-date: 2021-04-28 18:20:00 +02:00
+date: 2021-04-29 13:20:00 +02:00
 categories:
 - Article
 tags:
