@@ -58,7 +58,7 @@ Pour plus d’informations, contactez [piloter-par-la-donnee@data.gouv.fr](mailt
 
 * **Enfin, la DINUM publie un tableau permettant de suivre et de rendre compte de l’ouverture des données, codes sources et API publics,** pour l’ensemble des ministères, inscrite dans leurs feuilles de route, tel que prévu par [l’engagement 6 du CITP du 5 février 2021](https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp "l’engagement 6 du CITP du 5 février 2021 - Lien externe").
 
-<p align="center"><a href="XXXXXXXXX" class="button">Consulter le tableau de suivi (pdf)</a></p>
+<p align="center"><a href="/uploads/Suivi_annonces_ouverture-donnees.pdf" class="button">Consulter le tableau de suivi (pdf)</a></p>
 
 <div class="encadre noir"><h3 class="margin-bottom-1 h4">Avec France Relance, développez l’utilisation de la donnée dans votre administration !</h3>
 <p>Piloté par la DINUM sous l’autorité de la ministre de la Transformation et de la Fonction publiques Amélie de Montchalin, <a href="https://www.numerique.gouv.fr/services/francerelance-transformation-numerique-etat-et-territoires/" title="le fonds Transformation numérique de l’État et des territoires du plan France Relance - Lien externe">le fonds Transformation numérique de l’État et des territoires du plan France Relance</a> peut vous aider à financer des projets ayant vocation à développer l’usage de la donnée dans votre administration.</p>
