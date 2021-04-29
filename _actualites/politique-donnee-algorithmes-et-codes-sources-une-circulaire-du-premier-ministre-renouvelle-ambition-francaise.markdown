@@ -56,7 +56,7 @@ Sous l’autorité de la ministre de la Transformation et de la Fonction publiqu
 * **Un guichet dédié au pilotage des politiques publiques par la donnée** est également proposé. Il propose aux décideurs publics un appui expert pour tirer tout le potentiel de la donnée pour concevoir, déployer et suivre la mise en œuvre des politiques publiques.
 Pour plus d’informations, contactez [piloter-par-la-donnee@data.gouv.fr](mailto:piloter-par-la-donnee@data.gouv.fr).
 
-* **Un pôle dédié à l’animation et à la promotion interministérielles en matière de logiciel libre et de communs numériques** sera prochainement mis en place au sein de la DINUM.
+* **Une mission dédiée à l’animation et à la promotion interministérielles en matière de logiciel libre et de communs numériques** sera prochainement mise en place au sein de la DINUM.
 
 * **Enfin, la DINUM publie un tableau permettant de suivre et de rendre compte de l’ouverture de 63 nouveaux jeux de données, codes sources et API publics,** pour l’ensemble des ministères, en application de [l’engagement 6 du CITP du 5 février 2021](https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp "l’engagement 6 du CITP du 5 février 2021 - Lien externe").
 
