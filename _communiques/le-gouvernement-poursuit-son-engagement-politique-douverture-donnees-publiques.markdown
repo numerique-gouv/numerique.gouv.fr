@@ -6,11 +6,11 @@ categories:
 - Communiqué de presse
 tags:
 - Données
-chapeau-text: Amélie de Montchalin,  ministre de la Transformation et de la Fonction
+chapeau-text: "**Amélie de Montchalin,  ministre de la Transformation et de la Fonction
   publiques, en charge de l’ouverture des données publiques, annonce aujourd’hui la
   mise en ligne sur numerique.gouv.fr d’une nouvelle liste de 63 jeux de données,
   interfaces de partage de données et codes sources qui seront ouverts en 2021 et
-  2022 par le Gouvernement, avec un calendrier de déploiement trimestriel.
+  2022 par le Gouvernement, avec un calendrier de déploiement trimestriel.**"
 une-ou-diaporama:
 - image: "/uploads/circulaire-pm-politique-donnee_1600x860-13aacc.jpg"
 contact-presse:
@@ -20,7 +20,7 @@ contact-presse:
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
 files:
-- file: "/uploads/CP_GOUVERNEMENT_POURSUIT_OUVERTURE_DONNE%CC%81ES_PUBLIQUES_63_NOUVEAUX_JEUX_D/pdf"
+- file: "/uploads/CP_GOUVERNEMENT_POURSUIT_OUVERTURE_DONNEEES_PUBLIQUES_63_NOUVEAUX_JEUX.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
