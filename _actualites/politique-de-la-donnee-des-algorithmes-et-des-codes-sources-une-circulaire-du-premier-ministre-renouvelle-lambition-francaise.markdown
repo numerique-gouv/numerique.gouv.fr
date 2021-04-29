@@ -43,7 +43,7 @@ Dans la lignée de son engagement pris lors du <a href="https://www.gouvernement
 
 Le Premier ministre rappelle à cette occasion toute l’importance que revêtent l’ouverture et la réutilisation des données publiques, encore prouvée dans la crise sanitaire sans précédent que nous traversons : utiles aux décideurs publics comme aux citoyens, elles servent à la fois le pilotage et l’efficacité de l’action publique, une meilleure évaluation des politiques publiques, la transparence et le suivi de l’action gouvernementale, le débat démocratique…
 
-Si la France s’est placée à l’avant-garde en la matière, se dotant dès 2015 d’un cadre légal très ambitieux, réaffirmé par la loi pour une République numérique, il reste nécessaire de redoubler nos efforts, dans un contexte de transformation numérique croissante de nos sociétés. Le député Éric Bothorel l’a souligné dans [son rapport](https://www.gouvernement.fr/partage/11979-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources "son rapport - Lien externe") remis au Premier ministre en décembre dernier.
+La France s’est placée à l’avant-garde en la matière et se situe depuis plusieurs années aux trois premières places des principaux baromètres internationaux. Il reste nécessaire de redoubler nos efforts, dans un contexte de transformation numérique croissante de nos sociétés. Le député Éric Bothorel l’a souligné dans [son rapport](https://www.gouvernement.fr/partage/11979-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources "son rapport - Lien externe") remis au Premier ministre en décembre dernier.
 
 Cette circulaire vient ainsi renouveler l’ambition de la France en la matière et permettre l’accélération de sa mise en œuvre.
 
@@ -69,6 +69,6 @@ Pour plus d’informations, contactez [piloter-par-la-donnee@data.gouv.fr](mailt
 <ul><li><b>Vous êtes un service de l’État, central ou déconcentré, ou un opérateur ?</b> Un appel à projets vous est destiné, proposez votre projet jusqu’au 21 mai.
 <br><a href="https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot" title="En savoir plus et postuler - Lien externe"> > En savoir plus et postuler</a></li> 
 <br>
-<ul><li><b>Vous êtes une collectivité territoriale ?</b> Un appel à projets vous est destiné, proposez votre projet jusqu’au 28 mai.
+<li><b>Vous êtes une collectivité territoriale ?</b> Un appel à projets vous est destiné, proposez votre projet jusqu’au 28 mai.
 <br><a href="https://france-relance.transformation.gouv.fr/dbbc-developper-lutilisation-de-la-donnee-dans-vot/" title="En savoir plus et postuler - Lien externe"> > En savoir plus et postuler</a></li></ul>
 </div>
