@@ -20,7 +20,7 @@ contact-presse:
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
 files:
-- file: "/uploads/CP_GOUVERNEMENT_POURSUIT_OUVERTURE_DONNE%CC%81ES_PUBLIQUES_63_NOUVEAUX_JEUX_D/pdf"
+- file: "/uploads/CP_GOUVERNEMENT_POURSUIT_OUVERTURE_DONNEEES_PUBLIQUES_63_NOUVEAUX_JEUX.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
