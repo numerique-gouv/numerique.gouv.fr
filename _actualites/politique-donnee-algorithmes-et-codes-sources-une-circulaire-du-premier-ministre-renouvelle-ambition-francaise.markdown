@@ -58,7 +58,7 @@ Pour plus d’informations, contactez [piloter-par-la-donnee@data.gouv.fr](mailt
 
 * **Une mission dédiée à l’animation et à la promotion interministérielles en matière de logiciel libre et de communs numériques** sera prochainement mise en place au sein de la DINUM.
 
-* **Enfin, la DINUM publie un tableau permettant de suivre et de rendre compte de l’ouverture de 63 nouveaux jeux de données, codes sources et API publics,** pour l’ensemble des ministères, en application de [l’engagement 6 du CITP du 5 février 2021](https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp "l’engagement 6 du CITP du 5 février 2021 - Lien externe").
+* **Enfin, la DINUM publie un tableau permettant de suivre et de rendre compte de l’ouverture de 63 nouveaux jeux de données, codes sources et API publics,** pour l’ensemble des ministères, en application de [l’engagement 6 du CITP du 5 février 2021](https://www.modernisation.gouv.fr/transformation-publique/comites-interministeriels-de-la-transformation-publique/article-citp "l’engagement 6 du CITP du 5 février 2021 - Lien externe"). Parmi ceux-ci, des politiques publiques essentielles sont concernées, comme la carte scolaire des collèges ou le code source de FranceConnect.
 
 <p align="center"><a href="/uploads/Suivi_annonces_ouverture-donnees.pdf" class="button">Consulter le tableau de suivi (pdf - 100 Ko)</a></p>
 
@@ -72,3 +72,5 @@ Pour plus d’informations, contactez [piloter-par-la-donnee@data.gouv.fr](mailt
 <li><b>Vous êtes une collectivité territoriale ?</b> Un appel à projets vous est destiné, proposez votre projet jusqu’au 28 mai.
 <br><a href="https://france-relance.transformation.gouv.fr/dbbc-developper-lutilisation-de-la-donnee-dans-vot/" title="En savoir plus et postuler - Lien externe"> > En savoir plus et postuler</a></li></ul>
 </div>
+
+**Lire aussi le communiqué de presse** [Le gouvernement poursuit son engagement pour une politique ambitieuse d’ouverture des données publiques en publiant 63 nouveaux jeux de données](/espace-presse/le-gouvernement-poursuit-son-engagement-politique-douverture-donnees-publiques/).
