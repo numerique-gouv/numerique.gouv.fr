@@ -27,6 +27,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Responsable d'un portefeuille de Startups d'État - H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-d-un-portefeuille-de-startups-d-tat-hf-reference-2021-614429/ "Responsable d'un portefeuille de Startups d'État - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Chargé/Chargée de mission de coordination Europe et international](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-de-coordination-europe-et-international-hf-reference-2021-598136/ "Chargé/Chargée de mission de coordination Europe et international - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -37,11 +41,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 * **[Chargé/Chargée de mission design des services numériques](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-design-des-services-numeriques-hf-reference-2021-597346/ "Chargé/Chargée de mission design des services numériques - Lien externe")**
 <br>Cadre/Catégorie A
-<br>
-
-* **[Chef/Cheffe de projet Résilience RIE - équipements d'extrémité (Box résiliente)](https://place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet-resilience-rie---equipements-d-extremite-box-resiliente-hf-reference-2021-590345/ "Chef/Cheffe de projet Résilience RIE - équipements d'extrémité (Box résiliente) - Lien externe")**
-<br>Cadre/Catégorie A
-<br>Poste basé à Paris ou Lyon
 <br>
 
 * **[Développeur/Développeuse chargé-e d'hypervision réseau et sécurité](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe")**
@@ -83,6 +82,5 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <ul><li class="margin-bottom-1"><strong><a href="https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064" title="Chef de projet / chargé de mission F/H - Lien externe">Chef de projet / chargé de mission - Mission France Recouvrement F/H</a></strong><br>Cadre/Catégorie A <br>Poste basé à Montreuil (93)</li></ul> 
 <p><strong>Ministère de l’économie, des finances et de la relance</strong><br>Direction générale des entreprises (DGE)</p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/administrateur-systemes--devops---peren---sen-peren-148-hf-reference-MEF_2021-3469" title="Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H - Lien externe">Administrateur systèmes / DevOps - (PEREN) - SEN-PEREN-148 F/H</a></strong>
-<br>Cadre/Catégorie A</li></ul><p>Direction Générale des Douanes et Droits Indirects</p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://passerelles.economie.gouv.fr/offre-de-emploi/emploi-dgddi-dg-si2-chef-de-projet-deploiement-d-application-mobile-cat-a-h-f_2452.aspx" title="Chef de projet déploiement d'application mobile F/H - Lien externe">Chef de projet déploiement d'application mobile F/H</a></strong><br>Cadre/Catégorie A <br>Poste basé à Montreuil (93)</li></ul> 
+<br>Cadre/Catégorie A</li></ul> 
 </div>
