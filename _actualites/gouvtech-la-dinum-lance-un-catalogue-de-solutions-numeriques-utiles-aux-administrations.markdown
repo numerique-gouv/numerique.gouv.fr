@@ -40,7 +40,7 @@ En favorisant cette identification, l’ambition est grande : contribuer à prod
 
 ## Trouver la solution qui répond le mieux à son besoin
 
-Lancé dans sa première version ce 12 mai 2021, le catalogue compte déjà plus de 200 solutions, grâce à un appel à référencement lancé en janvier.
+Lancé dans sa première version ce 17 mai 2021, le catalogue compte déjà plus de 200 solutions, grâce à un appel à référencement lancé en janvier.
 
 Destiné à l’ensemble du secteur public – État, collectivités territoriales, fonction publique hospitalière, opérateurs…, il leur offre une liste de solutions numériques « sur étagère », couvrant de nombreux champs et besoins : intelligence artificielle, big data, gamification, cybersécurité, bureautique, collaboration, IoT, 5G, relations usagers… Les filtres proposés permettent d’affiner la recherche, et de faciliter le passage à l’action, en indiquant les éventuelles centrales d’achats, comme l’UGAP, qui référencent déjà la solution.
 
