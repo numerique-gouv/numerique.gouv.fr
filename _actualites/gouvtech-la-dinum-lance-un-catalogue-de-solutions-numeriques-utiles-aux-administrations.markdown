@@ -2,7 +2,6 @@
 title: 'GouvTech : la DINUM lance un catalogue de solutions numériques utiles aux
   administrations'
 date: 2021-05-10 14:07:00 +02:00
-published: false
 categories:
 - Article
 tags:
