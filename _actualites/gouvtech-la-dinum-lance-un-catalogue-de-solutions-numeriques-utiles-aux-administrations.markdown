@@ -62,7 +62,7 @@ La mission LABEL lancera également une offre de services associée : toute admi
 
 A moyen terme, l’objectif est d’aller encore plus loin : à horizon 2022, un processus de labellisation par un tiers sera mis en place afin de renforcer l’objectivité des analyses.
 
-**[> Accéder au catalogue GouvTech](https://catalogue.numerique.gouv.fr)**
+<p align="center"><a href="https://catalogue.numerique.gouv.fr" class="button" title="Accéder au catalogue GouvTech - Lien externe">Accéder au catalogue GouvTech</a></p>
 
 <div class="encadre noir"><h3 class="margin-bottom-1 h4">France Relance : financez vos projets utilisant les technologies émergentes pour améliorer le service public !</h3><p>Informatique quantique, virtualisation, 5G, biomimétisme, intelligence artificielle… En parallèle de ce catalogue, le plan FranceRelance aide les administrations à innover grâce aux technologies émergentes, en finançant leurs projets jusqu’à 48 000€.</p><p>Ce guichet du plan France Relance est ouvert aux administrations d’Etat, centrales et déconcentrées, aux laboratoires de recherche et aux opérateurs ministériels.</p><p>Vous êtes une entreprise et proposez une telle technologie émergente ? Proposez votre solution à une administration qu’elle pourrait intéresser et lancer ensemble une expérimentation. Elle pourra obtenir un financement pour son projet.</p><br><p><a href="https://france-relance.transformation.gouv.fr/c471-utiliser-des-technologies-emergentes-pour-ame" title="En savoir plus - Lien externe">> En savoir plus</a></p>
 </div>
