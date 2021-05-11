@@ -30,7 +30,7 @@ Ce sujet animera le débat du premier Café de la Transfo à l’occasion duquel
 
 ## Programme détaillé
 
-**Temps 1 – Propos liminaire de Nadi Bou Hanna,** Directeur interministériel du numérique 
-**Temps 2 – La parole aux acteurs de la transformation numérique :** interventions de la DGGN, du MTE et du MEFR 
-**Temps 3 – L’œil des experts :** Talents Numériques (Mission Talent de la DINUM) et Administration du futur (DITP) 
-**Temps 4 –** Questions / Réponses
+* **Temps 1 – Propos liminaire de Nadi Bou Hanna,** Directeur interministériel du numérique 
+* **Temps 2 – La parole aux acteurs de la transformation numérique :** interventions de la DGGN, du MTE et du MEFR 
+* **Temps 3 – L’œil des experts :** Talents Numériques (Mission Talent de la DINUM) et Administration du futur (DITP) 
+* **Temps 4 –** Questions / Réponses
