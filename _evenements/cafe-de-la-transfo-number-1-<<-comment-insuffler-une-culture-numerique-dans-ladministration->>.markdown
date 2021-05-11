@@ -2,6 +2,7 @@
 title: 'Café de la Transfo #1 - « Comment insuffler une culture numérique dans l’administration
   ? »'
 date: 2021-05-11 15:20:00 +02:00
+published: false
 categories:
 - Webinaire
 tags:
