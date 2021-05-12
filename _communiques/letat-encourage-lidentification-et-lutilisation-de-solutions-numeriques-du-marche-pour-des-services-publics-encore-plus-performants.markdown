@@ -2,6 +2,7 @@
 title: L’état encourage l’identification et l’utilisation de solutions numériques
   du marché pour des services publics encore plus performants
 date: 2021-05-12 14:46:00 +02:00
+published: false
 categories:
 - Communiqué de presse
 chapeau-text: Pour améliorer l’efficacité de ses services publics et répondre aux
@@ -39,6 +40,6 @@ Depuis juillet 2020, la direction interministérielle du numérique soutenue par
 
 Inscrit dans le volet Innovation et Transformation Numérique de France Relance, le dispositif «Utiliser des technologies émergentes pour améliorer le service public » offre aux administrations centrales, déconcentrées, laboratoires de recherche publics, ou opérateurs ministériels souhaitant créer de nouveaux services ou moderniser leurs méthodes de travail, la possibilité de bénéficier d’une subvention jusqu’à 48000 euros* pour des projets ou expérimentations capables de produire des résultats dans un délai de 3 mois maximum à compter de la date de dépôt du dossier.Parmi les principaux critères de sélection: l’organisation et la gouvernance du projet, les moyens mobilisés pour assurer sa réussite, la rapidité de résultats, l’impact réel ou estimé, sa capacité d’industrialisation et de passage à l’échelle.
 
-* : [En savoir plus sur le dispositif «Utiliser des technologies émergentes pour améliorer le service public» ](https://france-relance.transformation.gouv.fr/c471-utiliser-des-technologies-emergentes-pour-ame)
+*: [En savoir plus sur le dispositif «Utiliser des technologies émergentes pour améliorer le service public» ](https://france-relance.transformation.gouv.fr/c471-utiliser-des-technologies-emergentes-pour-ame)
 
 *Ces dispositifs sont portés par la direction interministérielle du numérique (DINUM) qui intervient sous l’autorité de la ministre de la Transformation et de la Fonction publiques.*
