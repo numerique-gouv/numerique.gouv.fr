@@ -2,23 +2,27 @@
 title: 'Café de la Transfo #1 - « Comment insuffler une culture numérique dans l’administration
   ? »'
 date: 2021-05-11 15:20:00 +02:00
+published: false
 categories:
 - Webinaire
+- Rencontre
 tags:
 - Café de la Transfo
 chapeau-text: |-
-  Décideuses et décideurs publics, concernés par les grands enjeux du numérique de l’État, vous souhaitez rejoindre une communauté interministérielle pour régulièrement échanger sur le thème de la transformation ? Participez au Café de la Transfo !
+  **Décideuses et décideurs publics, concernés par les grands enjeux du numérique de l’État, vous souhaitez rejoindre une communauté interministérielle pour régulièrement échanger sur le thème de la transformation ?** Participez au Café de la Transfo !
 
-  L’équipe TRANSFO de la DINUM lance la 1ère édition du Café de la Transfo ayant pour thème « Comment insuffler une culture numérique dans l’administration ? »
+  L’équipe TRANSFO de la DINUM lance la 1ère édition du Café de la Transfo ayant pour thème **« Comment insuffler une culture numérique dans l’administration ? »**
 une-ou-diaporama:
 - image: "/uploads/Visuel_Agenda_caf%C3%A9-de-la-transfo.jpg"
   alternative-textuelle: Café de la transformation
 event_start_date: 2021-06-02 16:30:00 +02:00
+lieu: En ligne via Livestorm
 champs_informations:
 - intitule: Horaires
   contenu: 16h30-18h
 - intitule: Modalités
-  contenu: Inscription obligatoire
+  contenu: Inscription obligatoire avec une adresse professionnelle issue de la fonction
+    publique
   lien: 'https://www.eventbrite.fr/e/billets-comment-insuffler-une-culture-numerique-dans-ladministration-154409923237 '
 - intitule: 'Accessibilité '
   contenu: Evénement accessible avec la transcription LSF
