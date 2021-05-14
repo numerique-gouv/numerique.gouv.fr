@@ -18,6 +18,8 @@ chapeau-text: Pour améliorer l’efficacité de ses services publics et répond
   pour améliorer l’efficacité de leurs politiques publiques, l’État a mis en place
   un [dispositif dédié](https://france-relance.transformation.gouv.fr/c471-utiliser-des-technologies-emergentes-pour-ame)
   dans le cadre de France Relance et les incite à candidater dès aujourd’hui.
+une-ou-diaporama:
+- image: "/uploads/2021_05_10_LABEL_1600x860.jpg"
 contact-presse:
   name: Floriane Beaudron
   tel:
