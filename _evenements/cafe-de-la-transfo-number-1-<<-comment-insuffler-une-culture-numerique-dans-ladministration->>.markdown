@@ -2,36 +2,46 @@
 title: 'Café de la Transfo #1 - « Comment insuffler une culture numérique dans l’administration
   ? »'
 date: 2021-05-11 15:20:00 +02:00
-published: false
 categories:
 - Webinaire
 tags:
 - Café de la Transfo
-chapeau-text: Le Café de la Transfo est un événement organisé par le programme TECH.GOUV
-  ayant pour objectifs la mobilisation de l'intelligence collective et la diffusion
-  de bonnes pratiques en matière de transformation numérique. Cet événement est destiné
-  à l’ensemble des décideurs publics qui se sentent concernés par les grands enjeux
-  du numérique. Il se veut être une place de partage collaboratif de bonnes pratiques
-  par et pour les administrations.
+chapeau-text: |-
+  Décideuses et décideurs publics, concernés par les grands enjeux du numérique de l’État, vous souhaitez rejoindre une communauté interministérielle pour régulièrement échanger sur le thème de la transformation ? Participez au Café de la Transfo !
+
+  L’équipe TRANSFO de la DINUM lance la 1ère édition du Café de la Transfo ayant pour thème « Comment insuffler une culture numérique dans l’administration ? »
+une-ou-diaporama:
+- image: "/uploads/Visuel_Agenda_caf%C3%A9-de-la-transfo.jpg"
+  alternative-textuelle: Café de la transformation
 event_start_date: 2021-06-02 16:30:00 +02:00
 champs_informations:
 - intitule: Horaires
   contenu: 16h30-18h
 - intitule: Modalités
   contenu: Inscription obligatoire
+  lien: 'https://www.eventbrite.fr/e/billets-comment-insuffler-une-culture-numerique-dans-ladministration-154409923237 '
+- intitule: 'Accessibilité '
+  contenu: Evénement accessible avec la transcription LSF
 ---
 
-L’équipe Transformation numérique de l’État de la DINUM est heureuse de vous convier à la première édition du Café de la Transfo qui aura lieu le 2 juin 2021 de 16h30 à 18h.
+Pour réussir ses ambitieux projets de transformation numérique au service des agents et des citoyens, l’État s’attache à renforcer sa filière numérique dans tous ses corps de métiers et administrations. Réaffirmé par le volet numérique de France Relance, il investit désormais massivement dans l’acculturation de tous ses agents aux nouvelles méthodes de travail et de collaboration permettant de rendre un service public plus simple, plus inclusif, plus juste, pour tous les Français.
 
-Dans un contexte de numérisation, le service public se transforme et, avec lui, les cultures professionnelles et les métiers. Cette transformation ne se limite aujourd’hui plus aux filières numériques mais concerne tous les métiers de l’Administration. C’est la raison pour laquelle deux volets du Plan de Relance Numérique sont consacrés au renforcement de la filière numérique de l’État et à l’acculturation de tous les Agents aux nouvelles méthodes de travail et de collaboration. 
+Le 2 juin prochain, le ministère de la Transition écologique, la direction générale de la gendarmerie nationale (DGGN) et le ministère de l'Économie, des Finances et de la Relance, avec l’appui de la direction interministérielle de la transformation publique (DITP) et de la mission TALENTS de la DINUM, exposeront leur stratégie et leur vision pour accélérer le déploiement de la culture numérique de leur administration, en particulier dans le cadre du volet numérique de France Relance.
 
-Ce constat induit alors une réflexion sur la culture numérique au sein de l’Administration ainsi que sur les moyens de la développer, toujours au service des Agents et des citoyens. 
+[https://www.eventbrite.fr/e/billets-comment-insuffler-une-culture-numerique-dans-ladministration-154409923237](https://www.eventbrite.fr/e/billets-comment-insuffler-une-culture-numerique-dans-ladministration-154409923237)
 
-Ce sujet animera le débat du premier Café de la Transfo à l’occasion duquel nous aurons le plaisir de recevoir des acteurs clés de la transformation numérique de la Direction Générale de la Gendarmerie Nationale, du Ministère de la Transition écologique et du Ministère de l’Economie, des Finances et de la Relance. Nos invités exposeront leur stratégie et leur vision pour accélérer le déploiement de la culture numérique au sein de leur administration, en particulier dans le contexte des projets mis en œuvre dans le cadre du Plan de Relance Numérique.
+*Cet événement, organisé dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/), a pour objectif la mobilisation de l'intelligence collective et la diffusion de bonnes pratiques en matière de transformation numérique. **Il est exclusivement destiné à l’ensemble des décideurs publics qui se sentent concernés par les grands enjeux du numérique.** Il se veut être un lieu de partage et d’échanges collaboratifs réguliers.*
+
+*Un événement accessible avec la transcription LSF.*
+
+[En savoir plus sur la mission TRANSFO](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/)
 
 ## Programme détaillé
 
-* **Temps 1 – Propos liminaire de Nadi Bou Hanna,** Directeur interministériel du numérique 
-* **Temps 2 – La parole aux acteurs de la transformation numérique :** interventions de la DGGN, du MTE et du MEFR 
-* **Temps 3 – L’œil des experts :** Talents Numériques (Mission Talent de la DINUM) et Administration du futur (DITP) 
+* **Temps 1 – Propos liminaire de Nadi Bou Hanna,** Directeur interministériel du numérique
+
+* **Temps 2 – La parole aux acteurs de la transformation numérique :** interventions du ministère de la Transition écologique, de la direction générale de la gendarmerie nationale (DGGN) et du ministère de l'Économie, des Finances et de la Relance
+
+* **Temps 3 – L’œil des experts :** avec la direction interministérielle de la transformation publique (DITP) pour Administration du futur et la mission TALENTS de la DINUM
+
 * **Temps 4 –** Questions / Réponses
