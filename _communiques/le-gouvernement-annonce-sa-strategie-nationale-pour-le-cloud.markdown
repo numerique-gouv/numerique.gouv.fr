@@ -1,6 +1,6 @@
 ---
 title: Le gouvernement annonce sa stratégie nationale pour le Cloud
-date: 2021-05-17 18:34:00 +02:00
+date: 2021-05-17 18:57:00 +02:00
 categories:
 - Dossier de presse
 tags:
