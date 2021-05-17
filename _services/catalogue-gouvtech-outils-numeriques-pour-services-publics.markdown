@@ -93,15 +93,7 @@ Vous pouvez demander le référencement d’un outil ou d’une solution numéri
 <br>
 <br>
 
-### **Quelles solutions peuvent être référencées ?**
-{: .margin-bottom-1 .h4}
-Le catalogue GouvTech référencera les solutions numériques, qu’elles soient :
-
-* sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (*on-premises*),
-* propriétaires ou open source,
-* issues de la société civile (entreprises et associations) ou de l’administration,
-* déjà utilisées par une ou plusieurs administrations ou non.
-<br>
+<h3 class="margin-bottom-1 h4"><strong>Quelles solutions peuvent être référencées&nbsp;?</strong></h3> <p>Le catalogue GouvTech référencera les solutions numériques, qu’elles soient&nbsp;:</p> <ul> <li>sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (<span lang="en"><em>on-premises</em></span>),</li> <li>propriétaires ou open source,</li> <li>issues de la société civile (entreprises et associations) ou de l’administration,</li> <li>déjà utilisées par une ou plusieurs administrations ou non.</li> </ul>
 <br>
 
 ### **Quels sont les critères d’évaluation des solutions ?**
@@ -110,23 +102,9 @@ Chaque solution référencée pourra être autoévaluée sur la base de critère
 
 Fruit de la consultation d’experts du numérique et des utilisateurs, les critères d’autoévaluation ont été définis sur la base d’aspects techniques spécifiques au secteur public. Les critères regroupent plusieurs thématiques :
 
-* **Numérique responsable** : éco-conception, empreinte environnementale, accessibilité numérique ([RGAA](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)), etc.
+<ul> <li> <p><strong>Numérique responsable</strong>&nbsp;: éco-conception, empreinte environnementale, accessibilité numérique (<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/">RGAA</a>), etc.</p> </li> <li> <p><strong>Conception et innovation</strong>&nbsp;: évaluation du niveau de co-conception de la solution (implication des utilisateurs et des retours d’usage), transparence (algorithme et code source publiés), partenariat/expérimentation «&nbsp;achat innovant&nbsp;», etc.</p> </li> <li> <p><strong>Sécurité</strong>&nbsp;: évaluation des risques, suivi des mises à jour, compatibilité avec des sondes de type Nagios, indépendance des composants avec par exemple une version de base de données, sécurité dès la conception (<span lang="en"><em>security by design</em></span>), etc. <br> <br>Pour les solutions en mode SaaS, des critères spécifiques relatifs à la prise en compte du risque&nbsp;: sécurité physique du centre de données, localisation de l’hébergement des données, gestion des sauvegardes, audit de sécurité, etc.</p> </li> <li> <p><strong>Données</strong>&nbsp;: documentation des données, données exportables sous des formats exploitables, utilisation d’API, existence de fonctions natives de suppression de données et d’archivage, procédures de réversibilité, existence d’une analyse d’impact relative à la protection des données (AIPD), etc. Les critères relatifs aux données personnelles sont issus du RGPD&nbsp;: cartographie des données, gestion du consentement, durée de conservation, droit à l’oubli, protection de la vie privée dès la conception (<em>privacy by design</em>), etc.</p> </li> <li> <p><strong>Conformité aux exigences du secteur public</strong>&nbsp;: respect de certaines normes et réglementations (<a href="/publications/referentiel-general-de-securite/">RGS</a>, HDS…), interfaçage avec des outils standardisés (FranceConnect et API FranceConnectées, <a href="https://api.gouv.fr/les-api/api-particulier" title="API Particulier - Lien externe">API Particulier</a>, <a href="https://api.gouv.fr/les-api/api-entreprise" title="API Entreprise - Lien externe">API Entreprise</a>, autre <a href="https://api.gouv.fr/" title="API du secteur public - Lien externe">API du secteur public</a> etc.), respect des règles de l’archivage légal.</p> </li> <li> <p><strong>Open source</strong>&nbsp;: mode de licences, utilisation de formats ouverts, référencement au sein du <a href="https://sill.etalab.gouv.fr/" title="Socle interministériel des logiciels libres - Lien externe">socle interministériel des logiciels libres</a> (SILL), etc.</p> </li> </ul>
 
-* **Conception et innovation** : évaluation du niveau de co-conception de la solution (implication des utilisateurs et des retours d’usage), transparence (algorithme et code source publiés), partenariat/expérimentation « achat innovant », etc.
-
-* **Sécurité** : évaluation des risques, suivi des mises à jour, compatibilité avec des sondes de type Nagios, indépendance des composants avec par exemple une version de base de données, sécurité dès la conception (*security by design*), etc.
-<br>
-<br>Pour les solutions en mode SaaS, des critères spécifiques relatifs à la prise en compte du risque : sécurité physique du centre de données, localisation de l’hébergement des données, gestion des sauvegardes, audit de sécurité, etc.
-
-* **Données** : documentation des données, données exportables sous des formats exploitables, utilisation d’API, existence de fonctions natives de suppression de données et d’archivage, procédures de réversibilité, existence d’une analyse d'impact relative à la protection des données (AIPD), etc.
-Les critères relatifs aux données personnelles sont issus du RGPD : cartographie des données, gestion du consentement, durée de conservation, droit à l’oubli, protection de la vie privée dès la conception (*privacy by design*), etc.
-
-* **Conformité aux exigences du secteur public** : respect de certaines normes et réglementations ([RGS](/publications/referentiel-general-de-securite/), HDS…), interfaçage avec des outils standardisés (FranceConnect et API FranceConnectées, [API Particulier](https://api.gouv.fr/les-api/api-particulier "API Particulier - Lien externe"), [API Entreprise](https://api.gouv.fr/les-api/api-entreprise "API Entreprise - Lien externe"), autre [API du secteur public](https://api.gouv.fr/ "API du secteur public - Lien externe") etc.), respect des règles de l'archivage légal.
-
-* **Open source** : mode de licences, utilisation de formats ouverts, référencement au sein du [socle interministériel des logiciels libres](https://sill.etalab.gouv.fr/ "Socle interministériel des logiciels libres  - Lien externe") (SILL), etc.
-
-Les données saisies dans vos réponses pourront être rendues publiques. 
-<br>
+<p>Les données saisies dans vos réponses pourront être rendues publiques.</p>
 <br>
 
 **Comment signaler une erreur dans la description d'un produit ?**
