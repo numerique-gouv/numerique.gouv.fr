@@ -93,14 +93,7 @@ Vous pouvez demander le référencement d’un outil ou d’une solution numéri
 <br>
 <br>
 
-### **Quelles solutions peuvent être référencées ?**
-{: .margin-bottom-1 .h4}
-Le catalogue GouvTech référencera les solutions numériques, qu’elles soient :
-
-* sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (*on-premises*),
-* propriétaires ou open source,
-* issues de la société civile (entreprises et associations) ou de l’administration,
-* déjà utilisées par une ou plusieurs administrations ou non.
+<h3 class="margin-bottom-1 h4"><strong>Quelles solutions peuvent être référencées&nbsp;?</strong></h3> <p>Le catalogue GouvTech référencera les solutions numériques, qu’elles soient&nbsp;:</p> <ul> <li>sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (<span lang="en"><em>on-premises</em></span>),</li> <li>propriétaires ou open source,</li> <li>issues de la société civile (entreprises et associations) ou de l’administration,</li> <li>déjà utilisées par une ou plusieurs administrations ou non. <br> <br></li> </ul>
 <br>
 <br>
 
@@ -114,9 +107,7 @@ Fruit de la consultation d’experts du numérique et des utilisateurs, les crit
 
 * **Conception et innovation** : évaluation du niveau de co-conception de la solution (implication des utilisateurs et des retours d’usage), transparence (algorithme et code source publiés), partenariat/expérimentation « achat innovant », etc.
 
-* **Sécurité** : évaluation des risques, suivi des mises à jour, compatibilité avec des sondes de type Nagios, indépendance des composants avec par exemple une version de base de données, sécurité dès la conception (*security by design*), etc.
-<br>
-<br>Pour les solutions en mode SaaS, des critères spécifiques relatifs à la prise en compte du risque : sécurité physique du centre de données, localisation de l’hébergement des données, gestion des sauvegardes, audit de sécurité, etc.
+<p><strong>Sécurité</strong>&nbsp;: évaluation des risques, suivi des mises à jour, compatibilité avec des sondes de type Nagios, indépendance des composants avec par exemple une version de base de données, sécurité dès la conception (<span lang="en"><em>security by design</em></span>), etc. <br> <br>Pour les solutions en mode SaaS, des critères spécifiques relatifs à la prise en compte du risque&nbsp;: sécurité physique du centre de données, localisation de l’hébergement des données, gestion des sauvegardes, audit de sécurité, etc.</p>
 
 * **Données** : documentation des données, données exportables sous des formats exploitables, utilisation d’API, existence de fonctions natives de suppression de données et d’archivage, procédures de réversibilité, existence d’une analyse d'impact relative à la protection des données (AIPD), etc.
 Les critères relatifs aux données personnelles sont issus du RGPD : cartographie des données, gestion du consentement, durée de conservation, droit à l’oubli, protection de la vie privée dès la conception (*privacy by design*), etc.
