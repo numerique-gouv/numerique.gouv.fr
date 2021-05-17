@@ -54,7 +54,7 @@ Mis en place dans le cadre du programme [TECH.GOUV](https://www.numerique.gouv.f
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite connaître les solutions répondant à mon besoin
 > {: .margin-bottom-1 .h3}
-> Vous êtes un acteur public et avez besoin d’un outil numérique particulier pour créer ou améliorer un service public ? Vous souhaitez identifier des produits adéquats de qualité et savoir s’ils répondent à vos enjeux et besoins ? 
+> Vous êtes un acteur public et avez besoin d’un outil numérique particulier pour créer ou améliorer un service public ? Vous souhaitez identifier des produits adéquats et savoir s’ils répondent à vos enjeux et besoins ? 
 >
 > <a href="https://catalogue.numerique.gouv.fr/" class="button" title="Consulter le catalogue - Lien externe">Consulter le catalogue</a>
 {: .exergue}
