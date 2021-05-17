@@ -1,7 +1,7 @@
 ---
 title: L’état encourage l’identification et l’utilisation de solutions numériques
   du marché pour des services publics encore plus performants
-date: 2021-05-17 13:02:00 +02:00
+date: 2021-05-17 13:05:00 +02:00
 categories:
 - Communiqué de presse
 chapeau-text: Pour améliorer l’efficacité de ses services publics et répondre aux
@@ -32,7 +32,7 @@ files:
 
 Avec le catalogue GouvTech, l’État appelle les fournisseurs (public, privé, association…) de logiciels et services numériques à s’engager dans cette démarche de référencement pour favoriser le recours de toutes les administrations à ces solutions existantes les plus pertinentes pour leurs besoins. En plus d’assurer la mutualisation des communs numériques entre la société civile et l’État, l’objectif assumé est ainsi de faciliter l’identification, la sélection de solutions et de gagner en efficience. Pour les fournisseurs, l’opportunité du catalogue revêt un double objectif : accroître la notoriété de leur solution en intégrant une communauté et contribuer à l’amélioration des services publics.
 
-Concrètement, dès septembre, après le référencement de leur solution [en ligne](https://www.numerique.gouv.fr/services/identifier-et-utiliser-outils-numeriques-pour-services-publics/), les fournisseurs seront ensuite incités à l’autoévaluer selon près de 70 critères, définis par toutes les parties prenantes associées à la mission LABEL, permettant de rendre visible le niveau de conformité de la solution par rapport aux attentes du secteur public. Parmi les critères: la responsabilité numérique, la conception, la sécurité, l’ouverture des données…. Les acteurs publics utilisant ces solutions et outils pourront quant à eux bénéficier dès septembre d’une plateforme leur offrant la possibilité d’échanger sur l’utilisation d’une solution, d’accéder aux fiches produits détaillées ou à la liste des critères d’autoévaluation.
+Concrètement, dès septembre, après le référencement de leur solution [en ligne](https://www.numerique.gouv.fr/services/catalogue-gouvtech-outils-numeriques-pour-services-publics/), les fournisseurs seront ensuite incités à l’autoévaluer selon près de 70 critères, définis par toutes les parties prenantes associées à la mission LABEL, permettant de rendre visible le niveau de conformité de la solution par rapport aux attentes du secteur public. Parmi les critères: la responsabilité numérique, la conception, la sécurité, l’ouverture des données…. Les acteurs publics utilisant ces solutions et outils pourront quant à eux bénéficier dès septembre d’une plateforme leur offrant la possibilité d’échanger sur l’utilisation d’une solution, d’accéder aux fiches produits détaillées ou à la liste des critères d’autoévaluation.
 
 Depuis juillet 2020, la direction interministérielle du numérique soutenue par la ministre de la Transformation et de la Fonction Publiques, instaure cette démarche de référencement pour évaluer les attentes des acteurs publics en matière d’outils et services numériques et définir des règles de référencement permettant aujourd’hui de mettre à leur disposition le catalogue GouvTech et d’encourager son usage. Pour 2022, l’ambition est d’installer une procédure de labellisation par un tiers que les fournisseurs pourront solliciter pour renforcer l’objectivité des indicateurs jugeant leur solution (autoévaluation, avis des autres utilisateurs).
 
