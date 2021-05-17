@@ -52,9 +52,11 @@ Destiné à l’ensemble du secteur public – État, collectivités territorial
 
 ## De nouveaux services prévus cet automne
 
-« L’un des principes du catalogue, c’est la neutralité », précise Sabine Guillaume. Toutes les solutions sont traitées à égalité, quels qu’en soient l’émetteur et le type. Y sont présentées des solutions issues du secteur privé comme public, des solutions open source ou propriétaires… « Le panel est très large de façon à ce que le choix soit le plus ouvert possible. »
+« L’un des principes du catalogue, c’est la neutralité », précise Sabine Guillaume. Toutes les solutions sont traitées à égalité, quels qu’en soient l’émetteur et le type. Y sont présentées des solutions issues du secteur privé comme public, des solutions propriétaires ou open source… « Le panel est très large de façon à ce que le choix soit le plus ouvert possible. »
 
-Pour leur permettre un choix éclairé, une procédure d’autoévaluation des solutions par les fournisseurs sera lancée à l’automne 2021. Une liste de près de 70 critères a été établie à travers une démarche collaborative de plusieurs mois associant des experts du numérique dans diverses spécialités, comme la CNIL, puis confrontée au terrain auprès d’entreprises fournisseurs de solutions et d’administrations futures utilisatrices.
+Chaque produit est décrit et détaillé par le fournisseur de solution lui-même. Si une erreur est détectée dans une description, toute personne peut le signaler à la DINUM en écrivant à [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr), qui prendra contact avec l’éditeur.
+
+Pour permettre un choix plus éclairé encore, une procédure d’autoévaluation des solutions par les fournisseurs sera lancée à l’automne 2021. Une liste de près de 70 critères a été établie à travers une démarche collaborative de plusieurs mois associant des experts du numérique dans diverses spécialités, comme la CNIL, puis confrontée au terrain auprès d’entreprises fournisseurs de solutions et d’administrations futures utilisatrices.
 
 Chaque fournisseur pourra ainsi évaluer sa solution selon des points d’attention importants pour les services publics et ainsi en renforcer la confiance : accessibilité numérique, sécurité, éco-conception, gestion des données, respect du RGPD, open source, innovation, interfaçage avec FranceConnect et les API publiques…
 
