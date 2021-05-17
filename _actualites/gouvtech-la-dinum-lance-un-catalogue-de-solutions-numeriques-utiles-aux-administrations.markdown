@@ -1,13 +1,14 @@
 ---
 title: 'GouvTech : la DINUM lance un catalogue de solutions numériques utiles aux
   administrations'
-date: 2021-05-10 14:07:00 +02:00
+date: 2021-05-17 02:07:00 +02:00
 categories:
 - Article
 tags:
 - GouvTech
-- FranceRelance
 - TECH.GOUV
+- mission LABEL
+- FranceRelance
 chapeau-text: 'Pour les aider à identifier et utiliser des outils et solutions numériques
   utiles aux services publics, la direction interministérielle du numérique (DINUM)
   lance le catalogue GouvTech à destination des administrations. Plus de 200 solutions
