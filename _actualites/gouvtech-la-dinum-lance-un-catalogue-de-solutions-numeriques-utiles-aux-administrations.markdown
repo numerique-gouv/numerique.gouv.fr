@@ -14,7 +14,7 @@ chapeau-text: 'Pour les aider à identifier et utiliser des outils et solutions 
   lance le catalogue GouvTech à destination des administrations. Plus de 200 solutions
   numériques, couvrant de nombreux champs, y sont d’ores et déjà référencées. '
 une-ou-diaporama:
-- image: "/uploads/2021_05_10_LABEL_1600x860.png"
+- image: "/uploads/2021_05_10_LABEL_1600x860-1402b3.png"
 style: |-
   .button {
   background-color: #0d5c98;
