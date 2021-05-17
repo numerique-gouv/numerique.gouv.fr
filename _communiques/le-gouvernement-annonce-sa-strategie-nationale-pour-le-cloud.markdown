@@ -28,8 +28,8 @@ Au fur et à mesure de la numérisation de nos sociétés, le Cloud a investi to
 
 Dans les années à venir, le Cloud sera donc l’une des briques essentielles des innovations dans de nombreux secteurs. Une part croissante de nos services numériques s’appuie désormais sur le Cloud. Or ce marché du Cloud est dominé par des acteurs internationaux dont certains sont soumis à des lois à portée extraterritoriale qui pourraient exposer les données des citoyens, des administrations et des entreprises françaises à un risque de transport hors de l’Union européenne.
 
-Compte tenu de ce triple enjeu, transformation, compétitivité et souveraineté, **le Gouvernement a décidé la mise en œuvre d’une stratégie nationale portant sur les technologies Cloud, en cohérence avec les initiatives européennes en la matière.** 
-Cette stratégie s’articule autour de 3 piliers que sont **le label Cloud de confiance, la politique « Cloud au centre » des administrations et enfin une politique industrielle mise en œuvre dans le prolongement de France Relance**. 
+Compte tenu de ce triple enjeu, transformation, compétitivité et souveraineté, **le Gouvernement a décidé la mise en œuvre d’une stratégie nationale portant sur les technologies Cloud**, en cohérence avec les initiatives européennes en la matière. 
+Cette stratégie s’articule autour de 3 piliers que sont **le label Cloud de confiance**, **la politique « Cloud au centre » des administrations** et enfin **une politique industrielle mise en œuvre dans le prolongement de France Relance**. 
 Notre but est clair : **protéger toujours mieux les données des entreprises, des administrations et des citoyens français tout en affirmant notre souveraineté.**
 
 
