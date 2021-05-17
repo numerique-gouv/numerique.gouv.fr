@@ -1,6 +1,5 @@
 ---
-title: Identifier et utiliser des outils numériques performants pour les services
-  publics
+title: 'Catalogue GouvTech : des outils numériques pour les services publics'
 date: 2021-01-15 09:20:00 +01:00
 tags:
 - Services
