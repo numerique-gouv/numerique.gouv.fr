@@ -7,6 +7,7 @@ tags:
 - Outils numériques
 - GouvTech
 - TECH.GOUV
+date_de_modification: 17 mai 2021
 chapeau-text: 'La DINUM  propose un catalogue de solutions et d’outils numériques,
   à l’usage des administrations : le catalogue GouvTech. Objectif : favoriser le recours
   pour les services publics à des outils numériques qui peuvent leur être utiles,
@@ -81,9 +82,9 @@ Au travers de la communauté LABEL, des rencontres seront organisées pour mettr
 ### **Que contient le catalogue GouvTech ?**
 {: .margin-bottom-1 .h4}
 Le catalogue GouvTech recense des outils et solutions numériques qui peuvent être utiles aux services publics, proposés par des entreprises privées, des administrations, des associations… 
-Chaque solution y est présentée à travers une fiche descriptive, élaborée par le fournisseur de solution lui-même, qui a la possibilité de l’autoévaluer au regard de critères prédéfinis. 
+Chaque solution y est présentée à travers une fiche descriptive, élaborée par le fournisseur de solution lui-même, qui aura à partir de l'automne 2021 la possibilité de l’autoévaluer au regard de critères prédéfinis. 
 Leur publication n’engage pas l’avis de la DINUM quant à la fiabilité des informations qui y sont portées ou la qualité des solutions. 
-Une plateforme complémentaire dédiée aux administrations est en construction pour leur permettre notamment de partager leurs retours d’utilisation sur les solutions référencées. 
+Une plateforme complémentaire dédiée aux administrations sera mise à leur disposition pour leur permettre notamment de partager leurs retours d’utilisation sur les solutions référencées. 
  en envoyant un courriel à [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr).
 <br>
 <br>
