@@ -1,7 +1,7 @@
 ---
 title: L’état encourage l’identification et l’utilisation de solutions numériques
   du marché pour des services publics encore plus performants
-date: 2021-05-17 13:05:00 +02:00
+date: 2021-05-17 13:09:00 +02:00
 categories:
 - Communiqué de presse
 chapeau-text: Pour améliorer l’efficacité de ses services publics et répondre aux
