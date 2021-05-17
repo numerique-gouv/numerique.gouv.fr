@@ -1,5 +1,5 @@
 ---
-title: L’état encourage l’identification et l’utilisation de solutions numériques
+title: L’État encourage l’identification et l’utilisation de solutions numériques
   du marché pour des services publics encore plus performants
 date: 2021-05-17 13:09:00 +02:00
 categories:
