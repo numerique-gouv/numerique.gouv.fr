@@ -97,7 +97,7 @@ Vous pouvez demander le référencement d’un outil ou d’une solution numéri
 Le catalogue GouvTech référencera les solutions numériques, qu’elles soient :
 
 * sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (*on-premises*),
-* propriétaires, open source ou utilisant des briques open source,
+* propriétaires ou open source,
 * issues de la société civile (entreprises et associations) ou de l’administration,
 * déjà utilisées par une ou plusieurs administrations ou non.
 <br>
