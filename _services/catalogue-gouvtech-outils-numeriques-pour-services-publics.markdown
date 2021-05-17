@@ -107,7 +107,6 @@ Fruit de la consultation d’experts du numérique et des utilisateurs, les crit
 
 <p>Les données saisies dans vos réponses pourront être rendues publiques.</p>
 <br>
-<br>
 
 **Comment signaler une erreur dans la description d'un produit ?**
 {: .margin-bottom-1 .h4}
