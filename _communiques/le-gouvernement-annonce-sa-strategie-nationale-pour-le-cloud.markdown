@@ -31,7 +31,7 @@ Dans les années à venir, le Cloud sera donc l’une des briques essentielles d
 Compte tenu de ce triple enjeu, transformation, compétitivité et souveraineté, **le Gouvernement a décidé la mise en œuvre d’une stratégie nationale portant sur les technologies Cloud**, en cohérence avec les initiatives européennes en la matière. 
 Cette stratégie s’articule autour de 3 piliers que sont **le label Cloud de confiance**, **la politique « Cloud au centre » des administrations** et enfin **une politique industrielle mise en œuvre dans le prolongement de France Relance**. 
 Notre but est clair : **protéger toujours mieux les données des entreprises, des administrations et des citoyens français tout en affirmant notre souveraineté.**
-
+ 
  
 Bruno Le Maire, ministre de l’Économie, des Finances et de la Relance.
 
