@@ -14,4 +14,4 @@ une-ou-diaporama:
 redirection-interne: "/espace-presse/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/"
 ---
 
-<div class="lien-important"><a href="/espace-presse/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/">Lire la suite dans notre espace presse</a></div>
+<div class="lien-important"><p><a href="/espace-presse/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/">Lire la suite dans notre espace presse</a></p></div>
