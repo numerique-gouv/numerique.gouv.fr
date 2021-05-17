@@ -5,6 +5,8 @@ tags:
 - Services
 - offre de services
 - Outils numériques
+- GouvTech
+- TECH.GOUV
 chapeau-text: 'La DINUM  propose un catalogue de solutions et d’outils numériques,
   à l’usage des administrations : le catalogue GouvTech. Objectif : favoriser le recours
   pour les services publics à des outils numériques qui peuvent leur être utiles,
