@@ -11,6 +11,7 @@ chapeau-text: Ce lundi 17 mai, les ministres Bruno Le Maire, Amélie de Montchal
   en cohérence avec les initiatives européennes en la matière.
 une-ou-diaporama:
 - image: "/uploads/cloud1-3dad88.jpg"
+redirection-interne: "/espace-presse/espace-presse/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/"
 ---
 
-<div class="lien-important"><a href="/espace-presse/espace-presse/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/>Lire la suite dans notre espace presse</a></div>
+<div class="lien-important"><a href="/espace-presse/espace-presse/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/">Lire la suite dans notre espace presse</a></div>
