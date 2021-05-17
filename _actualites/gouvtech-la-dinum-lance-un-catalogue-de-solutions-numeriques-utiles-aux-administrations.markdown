@@ -53,7 +53,7 @@ Destiné à l’ensemble du secteur public – État, collectivités territorial
 
 « L’un des principes du catalogue, c’est la neutralité », précise Sabine Guillaume. Toutes les solutions sont traitées à égalité, quels qu’en soient l’émetteur et le type. Y sont présentées des solutions issues du secteur privé comme public, des solutions propriétaires ou open source… « Le panel est très large de façon à ce que le choix soit le plus ouvert possible. »
 
-Chaque produit est décrit et détaillé par le fournisseur de solution lui-même. Si une erreur est détectée dans une description, toute personne peut le signaler à la DINUM en écrivant à [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr), qui prendra contact avec l’éditeur.
+Chaque produit est présenté et détaillé par le fournisseur de solution lui-même. Si une anomalie est détectée dans une description, toute personne peut le signaler à la DINUM en écrivant à [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr), qui prendra contact avec le fournisseur de solution.
 
 Pour permettre un choix plus éclairé encore, une procédure d’autoévaluation des solutions par les fournisseurs sera lancée à l’automne 2021. Une liste de près de 70 critères a été établie à travers une démarche collaborative de plusieurs mois associant des experts du numérique dans diverses spécialités, comme la CNIL, puis confrontée au terrain auprès d’entreprises fournisseurs de solutions et d’administrations futures utilisatrices.
 
