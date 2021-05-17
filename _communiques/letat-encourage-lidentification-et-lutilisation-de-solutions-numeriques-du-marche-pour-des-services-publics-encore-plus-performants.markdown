@@ -1,8 +1,7 @@
 ---
 title: L’état encourage l’identification et l’utilisation de solutions numériques
   du marché pour des services publics encore plus performants
-date: 2021-05-12 14:46:00 +02:00
-published: false
+date: 2021-05-17 13:02:00 +02:00
 categories:
 - Communiqué de presse
 chapeau-text: Pour améliorer l’efficacité de ses services publics et répondre aux
@@ -27,7 +26,7 @@ contact-presse:
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
 files:
-- file: "/uploads/CP_ETAT_ENCOURAGE_SOLUTIONS_NUMERIQUES_POUR_DES_SERVICES_PUBLICS.pdf"
+- file: "/uploads/CP_ETAT_ENCOURAGE_SOLUTIONS_NUMERIQUES_POUR_DES_SERVICES_PUBLICS_PERFORMANTS.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
