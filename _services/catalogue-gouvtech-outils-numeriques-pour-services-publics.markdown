@@ -108,7 +108,7 @@ Le catalogue GouvTech référencera les solutions numériques, qu’elles soient
 
 ### **Quels sont les critères d’évaluation des solutions ?**
 {: .margin-bottom-1 .h4}
-Chaque solution référencée peut être autoévaluée sur la base de critères afin de mettre en avant son niveau de conformité par rapport aux attentes du secteur public.
+Chaque solution référencée pourra être autoévaluée sur la base de critères afin de mettre en avant son niveau de conformité par rapport aux attentes du secteur public.
 
 Fruit de la consultation d’experts du numérique et des utilisateurs, les critères d’autoévaluation ont été définis sur la base d’aspects techniques spécifiques au secteur public. Les critères regroupent plusieurs thématiques :
 
