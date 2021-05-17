@@ -20,7 +20,7 @@ files:
   nom: 'Consulter et télécharger le dossier de presse '
 ---
 
-La crise sanitaire actuelle a mis en évidence la caractère essentiel des outils numérique pour la résilience de notre société. Les organisations publiques comme privées ont accéléré fortement leur numérisation pour maintenir leur activité et proposer de nouveaux services. La plupart de ces services existent aujourd’hui grâce aux technologies d’informatique en nuage qui permettent d’héberger et de traiter les données des entreprises, des administrations et des citoyens. 
+La crise sanitaire actuelle a mis en évidence la caractère essentiel des outils numériques pour la résilience de notre société. Les organisations publiques comme privées ont accéléré fortement leur numérisation pour maintenir leur activité et proposer de nouveaux services. La plupart de ces services existent aujourd’hui grâce aux technologies d’informatique en nuage qui permettent d’héberger et de traiter les données des entreprises, des administrations et des citoyens. 
 
 **Le Cloud représente trois enjeux majeurs pour la France : la transformation de nos entreprises et de nos administrations, la souveraineté numérique et la compétitivité économique.**
 
