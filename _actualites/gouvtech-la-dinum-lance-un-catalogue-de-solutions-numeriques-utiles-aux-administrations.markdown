@@ -1,20 +1,20 @@
 ---
 title: 'GouvTech : la DINUM lance un catalogue de solutions numériques utiles aux
   administrations'
-date: 2021-05-10 14:07:00 +02:00
-published: false
+date: 2021-05-17 02:07:00 +02:00
 categories:
 - Article
 tags:
 - GouvTech
-- FranceRelance
 - TECH.GOUV
+- mission LABEL
+- FranceRelance
 chapeau-text: 'Pour les aider à identifier et utiliser des outils et solutions numériques
   utiles aux services publics, la direction interministérielle du numérique (DINUM)
   lance le catalogue GouvTech à destination des administrations. Plus de 200 solutions
   numériques, couvrant de nombreux champs, y sont d’ores et déjà référencées. '
 une-ou-diaporama:
-- image: "/uploads/2021_05_10_LABEL_1600x860.png"
+- image: "/uploads/catalogue-gouvtech-actu_1600x860.png"
 style: |-
   .button {
   background-color: #0d5c98;
@@ -51,9 +51,11 @@ Destiné à l’ensemble du secteur public – État, collectivités territorial
 
 ## De nouveaux services prévus cet automne
 
-« L’un des principes du catalogue, c’est la neutralité », précise Sabine Guillaume. Toutes les solutions sont traitées à égalité, quels qu’en soient l’émetteur et le type. Y sont présentées des solutions issues du secteur privé comme public, des solutions open source ou propriétaires… « Le panel est très large de façon à ce que le choix soit le plus ouvert possible. »
+« L’un des principes du catalogue, c’est la neutralité », précise Sabine Guillaume. Toutes les solutions sont traitées à égalité, quels qu’en soient l’émetteur et le type. Y sont présentées des solutions issues du secteur privé comme public, des solutions propriétaires ou open source… « Le panel est très large de façon à ce que le choix soit le plus ouvert possible. »
 
-Pour leur permettre un choix éclairé, une procédure d’autoévaluation des solutions par les fournisseurs sera lancée à l’automne 2021. Une liste de près de 70 critères a été établie à travers une démarche collaborative de plusieurs mois associant des experts du numérique dans diverses spécialités, comme la CNIL, puis confrontée au terrain auprès d’entreprises fournisseurs de solutions et d’administrations futures utilisatrices.
+Chaque produit est présenté et détaillé par le fournisseur de solution lui-même. Si une anomalie est détectée dans une description, toute personne peut le signaler à la DINUM en écrivant à [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr), qui prendra contact avec le fournisseur de solution.
+
+Pour permettre un choix plus éclairé encore, une procédure d’autoévaluation des solutions par les fournisseurs sera lancée à l’automne 2021. Une liste de près de 70 critères a été établie à travers une démarche collaborative de plusieurs mois associant des experts du numérique dans diverses spécialités, comme la CNIL, puis confrontée au terrain auprès d’entreprises fournisseurs de solutions et d’administrations futures utilisatrices.
 
 Chaque fournisseur pourra ainsi évaluer sa solution selon des points d’attention importants pour les services publics et ainsi en renforcer la confiance : accessibilité numérique, sécurité, éco-conception, gestion des données, respect du RGPD, open source, innovation, interfaçage avec FranceConnect et les API publiques…
 
