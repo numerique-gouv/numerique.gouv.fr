@@ -1,9 +1,14 @@
 ---
-title: L’état encourage l’identification et l’utilisation de solutions numériques
+title: L’État encourage l’identification et l’utilisation de solutions numériques
   du marché pour des services publics encore plus performants
-date: 2021-05-17 13:09:00 +02:00
+date: 2021-05-17 14:09:00 +02:00
 categories:
 - Communiqué de presse
+tags:
+- Innovation
+- catalogue GouvTech
+- mission LABEL
+- programme TECH.GOUV
 chapeau-text: Pour améliorer l’efficacité de ses services publics et répondre aux
   besoins des citoyens, entreprises et agents publics, l’État se saisit de la puissance
   offerte par le numérique en s’appuyant sur les solutions et outils disponibles sur
