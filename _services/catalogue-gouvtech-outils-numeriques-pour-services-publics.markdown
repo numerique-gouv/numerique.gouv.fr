@@ -56,8 +56,7 @@ Mis en place dans le cadre du programme [TECH.GOUV](https://www.numerique.gouv.f
 
 > <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite connaître les solutions répondant à mon besoin
 > {: .margin-bottom-1 .h3}
-> Vous êtes un acteur public et avez besoin d’un outil numérique particulier pour créer ou améliorer un service public ? Vous souhaitez identifier des produits adéquats et savoir s’ils répondent à vos enjeux et besoins ?
-Un catalogue sera prochainement constitué à partir des solutions référencées. 
+> Vous êtes un acteur public et avez besoin d’un outil numérique particulier pour créer ou améliorer un service public ? Vous souhaitez identifier des produits adéquats de qualité et savoir s’ils répondent à vos enjeux et besoins ? 
 >
 > <a href="https://catalogue.numerique.gouv.fr/" class="button" title="Consulter le catalogue - Lien externe">Consulter le catalogue</a>
 {: .exergue}
@@ -65,7 +64,7 @@ Un catalogue sera prochainement constitué à partir des solutions référencée
 > <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite référencer ma solution
 > {: .margin-bottom-1 .h3}
 >
-> Vous êtes une entreprise, une association ou une administration. Vous avez développé un produit numérique qui pourrait être utile aux services publics ? Vous souhaitez contribuer à leur amélioration ?
+> Vous êtes une entreprise, une association ou une administration. Vous avez développé un produit numérique qui pourrait être utile aux services publics ? Vous souhaitez contribuer à leur amélioration ? 
 > <br>Soumettez la demande de référencement de votre solution dans le catalogue via notre formulaire en ligne. Nous prendrons ensuite contact avec vous.
 >
 > <a href="https://www.demarches-simplifiees.fr/commencer/demande-de-referencement-au-catalogue-label" class="button" title="Soumettre ma solution - Lien externe">Soumettre ma solution</a>
@@ -75,7 +74,7 @@ Un catalogue sera prochainement constitué à partir des solutions référencée
 <br>
 <br>
 
-Au travers de la communauté LABEL, des rencontres seront organisées pour mettre en relation l’écosystème numérique et les administrations. Ces évènements permettront de promouvoir des thématiques d’innovation, de nouveaux cas d’usages, les outils associés et de mettre en avant les *success stories* de projets numériques d’acteurs publics. Plus d’infos prochainement.
+Au travers d’une communauté, des rencontres seront organisées pour mettre en relation l’écosystème numérique et les administrations. Ces évènements permettront de promouvoir des thématiques d’innovation, de nouveaux cas d’usages, les outils associés et de mettre en avant les <i><span lang="en">success stories</span></i> de projets numériques d’acteurs publics. Plus d’infos prochainement.
 
 ## **Foire aux questions**
 {: .text-center .margin-top-3}
