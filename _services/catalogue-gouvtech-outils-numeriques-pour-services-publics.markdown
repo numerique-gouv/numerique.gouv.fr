@@ -128,4 +128,9 @@ Les données saisies dans vos réponses pourront être rendues publiques.
 <br>
 <br>
 
+**Que faire si je remarque une erreur dans la description d'un produit ?**
+{: .margin-bottom-1 .h4}
+Chaque produit est décrit et détaillé par l’éditeur lui-même. Toute anomalie détectée sur une fiche peut être signalée à l’adresse [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr). La DINUM prendra alors contact avec l’éditeur.
+
+
 *Ce service est proposé par la DINUM dans le cadre de la mission LABEL du programme [TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique du service public.*
