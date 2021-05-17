@@ -28,7 +28,6 @@ style: |-
   margin: 4px 2px;
   cursor: pointer;
   }
-date_de_modification: 17 mai 2021
 ---
 
 L’idée du catalogue GouvTech est partie d’un constat : « Aujourd’hui, quand un acteur public a besoin d’un outil numérique pour un projet, il est confronté soit à un foisonnement d’offres – dans le cas d’un projet "classique", par exemple un besoin de logiciel finances ou RH – parmi lesquelles il n’est pas facile de se retrouver, soit au contraire à des difficultés à identifier des produits qui pourraient le satisfaire, en remplissant les conditions techniques exigées par le secteur public », explique Sabine Guillaume, cheffe de la mission LABEL du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), au sein de la DINUM. Le catalogue GouvTech vient répondre à cette problématique.
