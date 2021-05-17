@@ -95,7 +95,6 @@ Vous pouvez demander le référencement d’un outil ou d’une solution numéri
 
 <h3 class="margin-bottom-1 h4"><strong>Quelles solutions peuvent être référencées&nbsp;?</strong></h3> <p>Le catalogue GouvTech référencera les solutions numériques, qu’elles soient&nbsp;:</p> <ul> <li>sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (<span lang="en"><em>on-premises</em></span>),</li> <li>propriétaires ou open source,</li> <li>issues de la société civile (entreprises et associations) ou de l’administration,</li> <li>déjà utilisées par une ou plusieurs administrations ou non.</li> </ul>
 <br>
-<br>
 
 ### **Quels sont les critères d’évaluation des solutions ?**
 {: .margin-bottom-1 .h4}
