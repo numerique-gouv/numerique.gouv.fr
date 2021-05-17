@@ -42,8 +42,6 @@ style: |-
 layout: rgaa
 ---
 
-## Améliorer les services publics grâce à des solutions numériques
-
 Mis en place dans le cadre du programme [TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), le catalogue GouvTech recense des logiciels et services numériques à destination des administrations – de l’État comme territoriales – et vise à :
 
 * favoriser la création de services publics numériques performants et leur amélioration,
