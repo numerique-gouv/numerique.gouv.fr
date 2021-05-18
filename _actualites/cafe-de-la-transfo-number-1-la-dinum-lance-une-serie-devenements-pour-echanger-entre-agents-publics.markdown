@@ -3,7 +3,7 @@ title: 'Café de la Transfo #1 : la DINUM lance une série d’événements pour
   entre agents publics'
 date: 2021-04-28 08:27:00 +02:00
 categories:
-- Brève
+- Événement
 tags:
 - Café de Transfo
 - TECH.GOUV
@@ -14,9 +14,7 @@ chapeau-text: Décideuses et décideurs publics, concernés par les grands enjeu
   de la Transfo lancé par l’équipe TRANSFO du programme TECH.GOUV de la DINUM.
 une-ou-diaporama:
 - image: "/uploads/2021_05_Visuel_Actu_caf%C3%A9-de-la-transfo.jpg"
+redirection-interne: "/agenda/cafe-de-la-transfo-number-1-comment-insuffler-une-culture-numerique-dans-ladministration/"
 ---
 
-Le premier événement se tiendra le 2 juin prochain et aura pour thème **« Comment insuffler une culture numérique dans l’administration ? »**.
-
-
-<p align="center"><a href="https://www.numerique.gouv.fr/agenda/cafe-de-la-transfo-number-1-comment-insuffler-une-culture-numerique-dans-ladministration/" class="button">En savoir plus et s'inscrire</a></p>
+<div class="lien-important"><p><a href="/agenda/cafe-de-la-transfo-number-1-comment-insuffler-une-culture-numerique-dans-ladministration/">En savoir plus et s'inscrire</a></p></div>
