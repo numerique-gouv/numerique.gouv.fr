@@ -43,7 +43,7 @@ Le Premier ministre rappelle à cette occasion toute l’importance que revêten
 
 La France s’est placée à l’avant-garde en la matière et se situe depuis plusieurs années aux trois premières places des principaux baromètres internationaux. Il reste nécessaire de redoubler nos efforts, dans un contexte de transformation numérique croissante de nos sociétés. Le député Éric Bothorel l’a souligné dans [son rapport](https://www.gouvernement.fr/partage/11979-rapport-sur-la-politique-publique-de-la-donnee-des-algorithmes-et-des-codes-sources "son rapport - Lien externe") remis au Premier ministre en décembre dernier.
 
-Cette circulaire vient ainsi renouveler l’ambition de la France en la matière et permettre l’accélération de sa mise en œuvre.
+Cette circulaire vient ainsi renouveler l’ambition de la France en la matière et permettre l’accélération de sa mise en œuvre en s’appuyant sur des administrateurs ministériels des données dont la liste est publiée sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees/). Nommés par les ministères à la demande du Premier ministre, ils seront chargés d'élaborer la stratégie des différents ministères en matière de données, d'algorithmes et de codes sources et de coordonner les différentes parties prenantes. 
 
 <h2 class="margin-bottom-1 h3">La DINUM accompagne les administrations</h2>
 
