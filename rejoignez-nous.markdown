@@ -64,9 +64,9 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 <div class="encadre noir">
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
-<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p>  <p><strong> Direction des technologies et de l’innovation (DTI)</strong></p> 
+<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p>  <p><strong> Direction des technologies et de l’innovation (DTI) - CNIL</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://www.cnil.fr/fr/offre-demploi/cheffe-de-projet-maitrise-doeuvre-si-au-service-de-linformatique-interne-hf" title="Chef de projet maîtrise d'oeuvre SI au service de l'informatique interne - F/H - Lien externe">Chef de projet maîtrise d'oeuvre SI au service de l'informatique interne - F/H</a></strong><br>Cadre/Catégorie A</li></ul>
-<p><strong> Direction économie, marchés et numérique (DEN)</strong></p> 
+<p><strong> Direction économie, marchés et numérique (DEN) - ARCEP</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/cheffe-de-l-unite-analyse-economique-et-intelligence-numerique-reference-2021-621708/" title="Chef de l'unité Analyse économique et intelligence numérique - F/H - Lien externe">Chef de l'unité Analyse économique et intelligence numérique - F/H</a></strong><br>Cadre/Catégorie A</li></ul>
 <p><strong> Secrétariat Général de la Défense et de la Sécurité Nationale (SGDSN)</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-maitrise-d-ouvrage-2-postes-reference-2021-557102/" title="Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H - Lien externe">Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H</a></strong><br>Cadre/Catégorie A</li></ul> 
