@@ -9,6 +9,9 @@ collections:
     title: Actualités
     output: true
     permalink: "/actualites/:title/"
+  cloud-test:
+    title: Cloud-test
+    output: true
   communiques:
     title: Communiqués
     output: true
