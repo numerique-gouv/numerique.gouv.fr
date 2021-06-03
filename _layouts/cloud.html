@@ -9,7 +9,7 @@ layout: default
       <div class=grid-x>
         <h1 class="cell text-center padding-vertical-3  blue-gradient-underline font-bold">Cloud</h1>
         <div class="lead chapeau cell large-8 large-offset-2 medium-10 medium-offset-1 small-12 small-offset-0">
-          {{ site.data.politique-logiciel-libre.chapeau | markdownify }}
+          {{ site.data.cloud.chapeau | markdownify }}
         </div>
         <div class="cell margin-bottom-2">
           {% include components/partager.html %}
@@ -21,7 +21,7 @@ layout: default
           <h2>Sommaire</h2>
           <nav>
             <ul class="vertical menu">
-              {% assign items = site.politique-logiciel-libre | sort: 'menu.weight' %}
+              {% assign items = site.cloud | sort: 'menu.weight' %}
               {% for item in items %}
               <li class="pl-04 {% if item.menu.title == page.menu.title %} active-link {% endif %}">
                 <a href="{{ item.permalink }}#contenu" {% if item.menu.title == page.menu.title %} title="{{ item.menu.title }}, page active" {% endif %}>{{ item.menu.title }}</a>
@@ -40,9 +40,9 @@ layout: default
             {{ content | markdownify | smartify }}
           </div>
         </div>
-        <div class="margin-bottom-3 large-offset-3 cell large-8 small-12">
+        <!--<div class="margin-bottom-3 large-offset-3 cell large-8 small-12">
           <a target="_blank" href="https://disic.github.io/politique-de-contribution-open-source/introduction.en">Go to English version</a>
-        </div>
+        </div>-->
       </div>
     </div>
   </section>
