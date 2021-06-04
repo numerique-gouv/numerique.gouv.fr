@@ -1,6 +1,9 @@
 ---
-title: Introduction
-date: 2021-06-03 10:59:00 +02:00
+title: Cloud
+permalink: "/services/cloud"
+menu:
+  title: Introduction
+  weight: 10
 layout: cloud
 ---
 
