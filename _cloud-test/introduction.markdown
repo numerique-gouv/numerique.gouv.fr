@@ -1,6 +1,7 @@
 ---
 title: Introduction
 date: 2021-06-03 10:59:00 +02:00
+layout: cloud
 ---
 
 ## Une offre qui s’adapte aux besoins des acteurs publics
