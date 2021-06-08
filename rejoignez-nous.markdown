@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 31 mai 2021
+date_de_modification: 8 juin 2021
 layout: page-annexe
 ---
 
@@ -27,17 +27,17 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Responsable d'un portefeuille de Startups d'État - H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-d-un-portefeuille-de-startups-d-tat-hf-reference-2021-614429/ "Responsable d'un portefeuille de Startups d'État - H/F - Lien externe")**
+* **[Chargé/Chargée de développement du Lab IA](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-developpement-du-lab-ia-hf-reference-2021-635272/ "Chargé/Chargée de développement du Lab IA - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé/Chargée de mission logiciels libres](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-logiciels-libres-hf-reference-2021-635259/ "Chargé/Chargée de mission logiciels libres - H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
 * **[Développeur/Développeuse chargé-e d'hypervision réseau et sécurité](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe")**
 <br>[Cadre/Catégorie A](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe") ou [Catégorie B](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite-hf-reference-2021-572929/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe") selon profil 
 <br>Poste basé en Ille et Vilaine (35)
-<br>
-
-* **[Chargé/Chargée de la gouvernance SSI du Réseau Interministériel de l'État (RIE)](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-gouvernance-ssi-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-572756/ "Chargé/Chargée de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - Lien externe")**
-<br>Cadre/Catégorie A
 <br>
 
 * **[Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet---architecte-technique--services-d-acces-internet-hf-reference-2021-557169/ "Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F - Lien externe")**
