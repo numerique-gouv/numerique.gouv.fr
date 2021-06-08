@@ -1,6 +1,7 @@
 ---
 title: Cloud
 permalink: "/services/cloud"
+published: false
 menu:
   title: Introduction
   weight: 10
