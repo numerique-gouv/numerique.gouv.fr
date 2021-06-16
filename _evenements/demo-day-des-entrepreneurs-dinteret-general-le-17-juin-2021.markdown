@@ -1,6 +1,11 @@
 ---
 title: Demo Day des Entrepreneurs d’intérêt général le 17 juin 2021
 date: 2021-06-16 09:47:00 +02:00
+categories:
+- Webinaire
+tags:
+- EIG
+- Demo Day
 chapeau-text: 'La 4ème promotion du programme Entrepreneurs d’intérêt général vous
   convie à son Demo Day Virtuel le 17 juin 2021, à partir de 14h. Au programme : deux
   tables-rondes et une exposition virtuelle. Venez à notre vernissage 100% numérique
