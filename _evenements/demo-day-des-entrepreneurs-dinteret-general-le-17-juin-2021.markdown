@@ -50,7 +50,7 @@ Introduction de Nadi Bou Hanna, directeur de la DINUM (Direction interministéri
 
 * **[LABEL](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/label.html "https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/label.html"), Cour de cassation** - Romain Glé (designer) et Claire Herbin (mentor)
 * **[Monitorfish](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/monitorfish.html "https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/monitorfish.html"), Centre nationale de surveillance des pêches** - Adeline Célier (designer), Vincent Chéry (data-scientist) et Céline Guillou (mentor)
-* **[France Transition](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/france-transition.html "https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/france-transition.html"), Commissariat général au développement durable **- Cédric Merouani (développeur)
+* **[France Transition](https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/france-transition.html "https://entrepreneur-interet-general.etalab.gouv.fr/defis/2020/france-transition.html"), Commissariat général au développement durable** - Cédric Merouani (développeur)
 
 
 **16h : Exposition des 17 défis**
