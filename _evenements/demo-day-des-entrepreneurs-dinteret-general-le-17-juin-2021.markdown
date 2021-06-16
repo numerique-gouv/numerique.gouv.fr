@@ -27,7 +27,7 @@ champs_informations:
   contenu: 14h - 17h
 ---
 
-## Au programme le 17 juin 2021
+## Au programme le 17 juin 2021 !
 
 **14h : Table-ronde internationale**
 
