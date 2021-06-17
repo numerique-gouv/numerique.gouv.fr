@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 8 juin 2021
+date_de_modification: 17 juin 2021
 layout: page-annexe
 ---
 
@@ -35,11 +35,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Développeur/Développeuse chargé-e d'hypervision réseau et sécurité](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe")**
-<br>[Cadre/Catégorie A](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe") ou [Catégorie B](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite-hf-reference-2021-572929/ "Développeur/Développeuse chargé-e d'hypervision réseau et sécurité - Lien externe") selon profil 
-<br>Poste basé en Ille et Vilaine (35)
-<br>
-
 * **[Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet---architecte-technique--services-d-acces-internet-hf-reference-2021-557169/ "Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -64,7 +59,9 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 <div class="encadre noir">
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
-<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p>  <p><strong> Direction des technologies et de l’innovation (DTI) - CNIL</strong></p> 
+<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p>  <p><strong> Pôle emploi</strong></p> 
+<ul><li class="margin-bottom-1"><strong><a href="/uploads/Directeur-trice_maitrise_trajectoires_mise_en_oeuvre.pdf" title="Directeur/Directrice de la direction maîtrise des trajectoires et de la mise en œuvre des projets métier - H/F (PDF – 450&nbsp;ko)">Directeur/Directrice de la direction maîtrise des trajectoires et de la mise en œuvre des projets métier - H/F (PDF - 450&nbsp;ko)</a></strong><br>Cadre supérieur/Catégorie A+</li></ul>
+<p><strong> Direction des technologies et de l’innovation (DTI) - CNIL</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://www.cnil.fr/fr/offre-demploi/cheffe-de-projet-maitrise-doeuvre-si-au-service-de-linformatique-interne-hf" title="Chef de projet maîtrise d'oeuvre SI au service de l'informatique interne - F/H - Lien externe">Chef de projet maîtrise d'oeuvre SI au service de l'informatique interne - F/H</a></strong><br>Cadre/Catégorie A</li></ul>
 <p><strong> Direction économie, marchés et numérique (DEN) - ARCEP</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/cheffe-de-l-unite-analyse-economique-et-intelligence-numerique-reference-2021-621708/" title="Chef de l'unité Analyse économique et intelligence numérique - F/H - Lien externe">Chef de l'unité Analyse économique et intelligence numérique - F/H</a></strong><br>Cadre/Catégorie A</li></ul>
