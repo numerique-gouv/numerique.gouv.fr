@@ -75,7 +75,7 @@ style: |-
 layout: rgaa
 ---
 
-<p align="center" style="margin-bottom: 20px"><a href="http://www.webinaire.numerique.gouv.fr/" class="button" title="Accéder au webinaire - Lien externe">Accéder au webinaire</a></p>
+<p align="center" style="margin-bottom: 40px"><a href="http://www.webinaire.numerique.gouv.fr/" class="button" title="Accéder au webinaire - Lien externe">Accéder au webinaire</a></p>
 
 ## Pour tous vos séminaires en ligne
 {: .margin-bottom-1}
