@@ -54,7 +54,7 @@ style: |
 layout: rgaa
 ---
 
-<p align="center" style="margin-bottom: 40px"><a href="http://www.webinaire.numerique.gouv.fr/" class="button" title="Accéder au webinaire - Lien externe">Accéder au webinaire</a></p>
+<p align="center" style="margin-bottom: 40px"><a href="http://www.webinaire.numerique.gouv.fr/" class="button" title="Accéder au Webinaire de l'État - Lien externe">Accéder au Webinaire de l'État</a></p>
 
 ## Pour tous vos séminaires en ligne
 
