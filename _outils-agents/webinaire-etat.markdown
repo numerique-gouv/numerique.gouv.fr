@@ -44,12 +44,11 @@ style: |-
   }
 
   .wrapper > * {
-    background-color: #444;
-    color: #fff;
     border-radius: 5px;
     padding: 20px;
-    font-size: 150%;
+    font-size: 100%;
     margin-bottom: 10px;
+  text-align: center;
   }
 
   .elementor-icon {
