@@ -108,8 +108,6 @@ Sans créer de compte, il est aussi possible de créer un salon de webinaire à 
 {: .margin-bottom-1}
 
 <div class="wrapper">
-  <header class="header">My header</header>
-  
   <div class="panel"><b>Vidéo</b>
 <br>Organiser des séminaires, formations, conférences, ateliers… en vidéo
 </div>
@@ -122,3 +120,4 @@ Sans créer de compte, il est aussi possible de créer un salon de webinaire à 
   <div class="panel">Panel H</div>
   <div class="panel">Panel I</div>
   <div class="panel">Panel J</div>
+</div>
