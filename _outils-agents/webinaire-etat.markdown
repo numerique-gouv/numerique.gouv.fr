@@ -132,17 +132,16 @@ Votre domaine de messagerie n’est pas reconnu ? Faites-en la demande en nous �
 
 <div class="noir encadre"> <figure class="image-center" style="width: 8%;"><img src="/uploads/outils.png"></figure> <h2 class="text-center margin-bottom-1 margin-top-0" id="les-caractéristiques-en-bref">Les caractéristiques en bref</h2> <ul> <li><strong>Création d’un webinaire réservée aux agents de l’État</strong></li> <li><strong>Jusqu’à 350 participants simultanés,</strong> internes ou externes à l’administration</li> <li><strong>Configuration sur mesure ou par défaut </strong> selon les besoins et le type d’événements</li> <li>Accessible facilement <strong>depuis votre navigateur sur ordinateur</strong>(Edge, Chrome ou Chromium recommandés), <strong>mobile ou tablette</strong></li> <li><strong>Nombreuses fonctionnalités </strong> de présentation et de collaboration</li> <li><strong>Solution de confiance</strong>, proposée par l’État, hébergée en France</li> </ul> </div>
 <br><br>
-<div align="center"> <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Accéder au Webinaire de l'État</b></a> </div>
+<div align="center" style="margin-bottom: 40px"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Accéder au Webinaire de l'État</b></a> </div>
 
 *Le Webinaire de l’État est un service interministériel opéré par le ministère de l’Éducation nationale, de la Jeunesse et des Sports, mis à la disposition de l’ensemble des ministères par la DINUM, dans le cadre du programme **[TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)** d’accélération de la transformation numérique du service public.
 <br>La solution s’appuie sur le logiciel libre [BigBlueButton](https://bigbluebutton.org/ "BigBlueButton - Lien externe"), référencé dans [le socle interministériel des logiciels libres](https://sill.etalab.gouv.fr/fr/software?id=196 "le socle interministériel des logiciels libres - Lien externe") (SILL), et hébergée par l’entreprise française Scaleway via l’[offre de Cloud externe](https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html "offre de Cloud externe - lien externe") dédiée aux services publics.*
+<br>
+<br>
 
 **Découvrir aussi :**
-
 * [Webconférence de l’État (Webconf)](/outils-agents/webconference-etat/)
-
 * [Webconférence : quels outils pour les agents de l’État pendant la crise Covid-19 ?](/outils-agents/organiser-webconference-outils-agents-etat/)
-
 * [Audioconférence de l’État (Audioconf](/outils-agents/audioconference-etat/)
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><g xmlns="http://www.w3.org/2000/svg"><path d="m482 25h-452c-16.542 0-30 13.458-30 30v298c0 16.542 13.458 30 30 30h147v74h-81c-8.284 0-15 6.716-15 15s6.716 15 15 15h320c8.284 0 15-6.716 15-15s-6.716-15-15-15h-81v-74h147c16.542 0 30-13.458 30-30v-298c0-16.542-13.458-30-30-30zm-177 432h-98v-74h98zm177-104c-13.157 0-441.456 0-452 0v-298h452c.019 304.472.1 298 0 298z" fill="#0f4d9d" data-original="#000000" style="" class=""></path></g></g></svg>
