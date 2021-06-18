@@ -3,6 +3,8 @@ title: Webinaire de l’État
 date: 2021-06-15 16:54:00 +02:00
 chapeau-text: Un service dédié aux agents de l'État pour leurs séminaires en ligne,
   formations, présentations, conférences virtuelles, jusqu’à 350 participants.
+une:
+  image: "/uploads/Webinaire_outils-agents-pagefille_1635x345.png"
 style: |-
   .button {
   background-color: #0d5c98;
