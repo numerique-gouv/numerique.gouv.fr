@@ -71,7 +71,7 @@ Le Webinaire de l'État offre à tous ses agents une solution complète et puiss
 * Comités en grand nombre
 * …
 
-L’outil vient en complément de la [Webconférence de l’État (webconf)](https://www.numerique.gouv.fr/outils-agents/webconference-etat/ "Webconférence de l’État (webconf) - Lien externe"), destinée aux réunions en ligne en plus petit comité, jusqu’à 20 personnes.
+L’outil vient en complément de la [Webconférence de l’État](https://www.numerique.gouv.fr/outils-agents/webconference-etat/ "Webconférence de l’État - Lien externe") (webconf), destinée aux réunions en ligne en plus petit comité, jusqu’à 20 personnes.
 <br>
 <br>
 
