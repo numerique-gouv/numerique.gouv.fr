@@ -72,6 +72,7 @@ style: |-
       -webkit-box-sizing: border-box;
       box-sizing: border-box;
   }
+layout: rgaa
 ---
 
 <p align="center"><a href="http://www.webinaire.numerique.gouv.fr/" class="button" title="Accéder au webinaire - Lien externe">Accéder au webinaire</a></p>
@@ -109,8 +110,8 @@ Sans créer de compte, il est aussi possible de créer un salon de webinaire à 
 <div class="wrapper">
   <header class="header">My header</header>
   
-  <div class="panel"><p><b>Vidéo</b><
-Organiser des séminaires, formations, conférences, ateliers… en vidéo
+  <div class="panel"><b>Vidéo</b>
+<br>Organiser des séminaires, formations, conférences, ateliers… en vidéo
 </div>
   <div class="panel">Panel B</div>
   <div class="panel">Panel C</div>
