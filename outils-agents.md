@@ -7,11 +7,15 @@ une:
   image: "/uploads/outils_agents_rubrique.png"
   alternative-textuelle: 
 publications:
-- title: Audioconférence de l’État
+- title: Webinaire de l’État (Webinaire)
+  url: "/outils-agents/webinaire-etat/"
+  une-ou-diaporama:
+  - image: "/uploads/Webinaire_outils-agents_rubrique_740x500.jpg"
+- title: Audioconférence de l’État (Audioconf)
   url: "/outils-agents/audioconference-etat/"
   une-ou-diaporama:
   - image: "/uploads/740x500_audioconference-rubrique.jpg"
-- title: 'Webconférence de l’État '
+- title: Webconférence de l’État (Webconf)
   url: "/outils-agents/webconference-etat/"
   une-ou-diaporama:
   - image: "/uploads/webconf-rubrique-produits-et-service.png"
