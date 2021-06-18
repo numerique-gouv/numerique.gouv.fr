@@ -110,13 +110,26 @@ Sans créer de compte, il est aussi possible de créer un salon de webinaire à 
   <div class="panel"><b>Vidéo</b>
 <br>Organiser des séminaires, formations, conférences, ateliers… en vidéo
 </div>
-  <div class="panel">Panel B</div>
-  <div class="panel">Panel C</div>
-  <div class="panel">Panel D</div>
-  <div class="panel">Panel E</div>
-  <div class="panel">Panel F</div>
-  <div class="panel">Panel G</div>
-  <div class="panel">Panel H</div>
-  <div class="panel">Panel I</div>
-  <div class="panel">Panel J</div>
+  <div class="panel"><b>Audio</b>
+<br>Communiquer avec un son haute qualité. 
+<br>Rejoindre l’audio par téléphone si besoin</div>
+  <div class="panel"><b>Enregistrement</b>
+<br>Enregistrer vos webinaires, et partager la rediffusion</div>
+  <div class="panel"><b>Présentation</b>
+<br>Diffuser vos présentations et les annoter en direct</div>
+  <div class="panel"><b>Upload de documents</b>
+<br>Téléverser votre support de présentation (pdf, texte, image, présentation…) et le proposer en téléchargement aux participants</div>
+  <div class="panel"><b>Partage d’écran</b>
+<br>Diffuser une fenêtre ou tout l’écran de votre ordinateur : site web, application…</div>
+  <div class="panel"><b>Discussion en ligne</b>
+<br>Envoyer des messages en privé ou en discussion publique</div>
+  <div class="panel"><b>Notes partagées</b>
+<br>Prendre des notes et éditer le contenu en groupe, en simultané</div>
+  <div class="panel"><b>Notes partagées</b>
+<br>Prendre des notes et éditer le contenu en groupe, en simultané</div>
+  <div class="panel"><b>Tableau blanc multi-utilisateurs</b>
+<br>Annoter et dessiner en direct sur une présentation ou un écran blanc, pour l’organisateur seul ou à plusieurs</div>
+  <div class="panel"><b>Sondage</b><br>Réaliser rapidement un sondage, soumettre un point au vote à tout moment</div>
+  <div class="panel"><b>Main levée</b><br>Lever la main pour intervenir, poser une question, sans interrompre l’animateur</div>
+  <div class="panel"><b>Diffusion de vidéos</b><br>Diffuser une vidéo depuis n’importe quelle plateforme vidéo en ligne</div>
 </div>
