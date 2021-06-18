@@ -77,7 +77,7 @@ layout: rgaa
 
 ## Pour tous vos séminaires en ligne
 {: .margin-bottom-1}
-La plateforme Webinaire offre à tous les agents de l’État une solution complète et puissante, adaptée à de nombreux types d’événements en ligne, jusqu’à 350 participants :
+La plateforme Webinaire de l'État offre à tous ses agents une solution complète et puissante, adaptée à de nombreux types d’événements en ligne, jusqu’à 350 participants :
 
 * Séminaire
 * Formation, classe virtuelle
@@ -89,16 +89,16 @@ La plateforme Webinaire offre à tous les agents de l’État une solution compl
 * Comités en grand nombre
 * …
 
-L’outil vient en complément de [Webconf, la solution de  webconférence de l’État](https://www.numerique.gouv.fr/outils-agents/webconference-etat/ "Webconf, la solution de  webconférence de l’État - Lien externe"), destinée aux réunions en ligne en plus petit comité, jusqu’à 20 personnes.
+L’outil vient en complément de la [Webconférence de l’État (webconf)](https://www.numerique.gouv.fr/outils-agents/webconference-etat/ "Webconférence de l’État (webconf) - Lien externe"), destinée aux réunions en ligne en plus petit comité, jusqu’à 20 personnes.
 
 ## Un outil complet, puissant et facile d’utilisation
 {: .margin-bottom-1}
 
-Basé sur le logiciel libre réputé BigBlueButton, Webinaire inclut des **fonctionnalités classiques - **vidéo, audio (joignable si besoin par téléphone), diffusion de présentation, partage d’écran - **associées à des** **fonctions de collaboration avancées** : discussion publique et privée, annotation de présentation, rédaction de notes partagées, sondage, tableau blanc multi-utilisateurs…
+Basé sur le logiciel libre réputé BigBlueButton, Webinaire inclut des **fonctionnalités classiques** - vidéo, audio (joignable si besoin par téléphone), diffusion de présentation, partage d’écran - associées à des **fonctions de collaboration avancées** : discussion publique et privée, annotation de présentation, rédaction de notes partagées, sondage, tableau blanc multi-utilisateurs…
 
 Avec **un son et une image de haute qualité**, il permet de réunir **jusqu’à 350 participants** autour d’un animateur en vidéo, ou plusieurs dizaines de participants pour autant de personnes en vidéo, selon le type d’événement souhaité.
 
-En se créant un compte, l’organisateur peut **préparer et paramétrer finement son webinaire** **en amont** : mettre en place une salle d’attente, gérer les droits des participants, désactiver les micros, caméras ou discussions privées, uploader tous les fichiers utiles, programmer l’enregistrement vidéo du webinaire, etc.
+En se créant un compte, l’organisateur peut **préparer et paramétrer finement son webinaire en amont** : mettre en place une salle d’attente, gérer les droits des participants, désactiver les micros, caméras ou discussions privées, uploader tous les fichiers utiles, programmer l’enregistrement vidéo du webinaire, etc.
 
 Sans créer de compte, il est aussi possible de créer un salon de webinaire à la volée, avec des fonctionnalités plus limitées.
 
