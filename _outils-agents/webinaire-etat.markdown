@@ -44,8 +44,7 @@ style: |-
   }
 
   .wrapper > * {
-    border-radius: 5px;
-    padding: 20px;
+    padding: 10px;
     font-size: 100%;
     margin-bottom: 10px;
   text-align: center;
@@ -123,8 +122,6 @@ Sans créer de compte, il est aussi possible de créer un salon de webinaire à 
 <br>Diffuser une fenêtre ou tout l’écran de votre ordinateur : site web, application…</div>
   <div class="panel"><b>Discussion en ligne</b>
 <br>Envoyer des messages en privé ou en discussion publique</div>
-  <div class="panel"><b>Notes partagées</b>
-<br>Prendre des notes et éditer le contenu en groupe, en simultané</div>
   <div class="panel"><b>Notes partagées</b>
 <br>Prendre des notes et éditer le contenu en groupe, en simultané</div>
   <div class="panel"><b>Tableau blanc multi-utilisateurs</b>
