@@ -1,7 +1,6 @@
 ---
 title: Webinaire de l’État
 date: 2021-06-15 16:54:00 +02:00
-published: false
 chapeau-text: Un service dédié aux agents de l'État pour leurs séminaires en ligne,
   formations, présentations, conférences virtuelles, jusqu’à 350 participants.
 style: |-
@@ -24,9 +23,6 @@ style: |-
     display: grid;
     grid-gap: 10px;
   }
-
-
-  /* no grid support? */
 
   .wrapper {
     display: flex;
@@ -54,6 +50,27 @@ style: |-
     padding: 20px;
     font-size: 150%;
     margin-bottom: 10px;
+  }
+
+  .elementor-icon {
+      display: inline-block;
+      line-height: 1;
+      -webkit-transition: all .3s;
+      -o-transition: all .3s;
+      transition: all .3s;
+      color: #818a91;
+      font-size: 50px;
+      text-align: center;
+  }
+
+  .elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon {
+      color: var( --e-global-color-primary );
+      border-color: var( --e-global-color-primary );
+  }
+
+  .elementor *, .elementor ::after, .elementor ::before {
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
   }
 ---
 
@@ -92,7 +109,9 @@ Sans créer de compte, il est aussi possible de créer un salon de webinaire à 
 <div class="wrapper">
   <header class="header">My header</header>
   
-  <div class="panel">Panel A</div>
+  <div class="panel"><p><b>Vidéo</b><
+Organiser des séminaires, formations, conférences, ateliers… en vidéo
+</div>
   <div class="panel">Panel B</div>
   <div class="panel">Panel C</div>
   <div class="panel">Panel D</div>
