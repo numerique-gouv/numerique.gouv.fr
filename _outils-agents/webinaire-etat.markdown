@@ -116,6 +116,17 @@ Sans créer de compte, il est aussi possible de créer un salon de webinaire à 
 <div class="panel"><b>Main levée</b><br>Lever la main pour intervenir, poser une question, sans interrompre l’animateur</div>
 <div class="panel"><b>Diffusion de vidéos</b><br>Diffuser une vidéo depuis n’importe quelle plateforme vidéo en ligne</div>
 </div>
+<br>
+<br>
+
+<figure class='image-left' style='width: 6%;'>
+<img src="/uploads/group-bleu.png"/>
+</figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
+{: .margin-bottom-1}
+**Tout agent de l’État peut créer librement un salon de webinaire** à partir de son adresse courriel professionnelle. Il lui suffit ensuite d'inviter via le lien fourni les animateurs et les participants, qu’ils soient de l’administration ou de l’extérieur (partenaires, prestataires, entreprises, citoyens…).
+<br>
+<br>
+
 
 <div class="noir encadre"> <figure class="image-center" style="width: 8%;"><img src="/uploads/outils.png"></figure> <h2 class="text-center margin-bottom-1 margin-top-0" id="les-caractéristiques-en-bref">Les caractéristiques en bref</h2> <ul> <li><strong>Création d’un webinaire réservée aux agents de l’État</strong></li> <li><strong>Jusqu’à 350 participants simultanés,</strong> internes ou externes à l’administration</li> <li><strong>Configuration sur mesure ou par défaut </strong> selon les besoins et le type d’événements</li> <li>Accessible facilement <strong>depuis votre navigateur sur ordinateur</strong>(Edge, Chrome ou Chromium recommandés), <strong>mobile ou tablette</strong></li> <li><strong>Nombreuses fonctionnalités </strong> de présentation et de collaboration</li> <li><strong>Solution de confiance</strong>, proposée par l’État, hébergée en France</li> </ul> </div>
 <br><br>
