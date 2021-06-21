@@ -111,5 +111,6 @@ Nul besoin de préciser l’horaire de votre conférence téléphonique, le pont
 <br>
 
 **Découvrir aussi :**
-* [Webconférence de l’État](/outils-agents/webconference-etat/)
+* [Webconférence de l’État (Webconf)](/outils-agents/webconference-etat/)
 * [Webconférence : quels outils pour les agents de l’État pendant la crise Covid-19 ?](/outils-agents/organiser-webconference-outils-agents-etat/)
+* [Webinaire de l’État](/outils-agents/webinaire-etat)
