@@ -7,7 +7,7 @@ une:
   image: "/uploads/outils_agents_rubrique.png"
   alternative-textuelle: 
 publications:
-- title: Webinaire de l’État (Webinaire)
+- title: Webinaire de l’État
   url: "/outils-agents/webinaire-etat/"
   une-ou-diaporama:
   - image: "/uploads/Webinaire_outils-agents_rubrique_740x500.jpg"
