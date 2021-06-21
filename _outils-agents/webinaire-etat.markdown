@@ -1,6 +1,9 @@
 ---
-title: Webinaire de l’État
-date: 2021-06-15 16:54:00 +02:00
+title: Webinaire de l’État (Webinaire)
+date: 2021-06-21 04:54:00 +02:00
+tags:
+- Outils pour les agents
+- Travail collaboratif
 chapeau-text: Un service dédié aux agents de l'État pour leurs séminaires en ligne,
   formations, présentations, conférences virtuelles, jusqu’à 350 participants.
 une:
