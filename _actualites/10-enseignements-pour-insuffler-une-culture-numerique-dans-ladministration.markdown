@@ -12,9 +12,7 @@ chapeau-text: Le 2 juin dernier, la direction interministérielle du numérique 
 
 <ol><h2><li>Inclure le numérique dans le socle de compétences de tous les agents publics</li></h2>
 
-<figure class='image-left' style='width: 50%;'>
-<img src="/uploads/CafeTransfo1-800px.png"/>
-</figure>Le numérique se développe rapidement et est une composante incontournable de l’action des agents publics. À travers son plan stratégique de transformation « Gend 20.24 », la direction générale de la Gendarmerie nationale (DGGN) prépare les gendarmes à l’impact du numérique sur leurs missions, notamment en les formant à l’intelligence artificielle grâce à un MOOC co-construit avec l’Institut Montaigne, ou en formant son corps d’encadrants au travail et au management en mode « hybride ».
+Le numérique se développe rapidement et est une composante incontournable de l’action des agents publics. À travers son plan stratégique de transformation « Gend 20.24 », la direction générale de la Gendarmerie nationale (DGGN) prépare les gendarmes à l’impact du numérique sur leurs missions, notamment en les formant à l’intelligence artificielle grâce à un MOOC co-construit avec l’Institut Montaigne, ou en formant son corps d’encadrants au travail et au management en mode « hybride ».
 
 À ce titre, la direction interministérielle de la transformation publique (DITP) a évoqué les travaux menés autour du travail en mode hybride et de l’insertion de nouveaux outils dans le quotidien des équipes, en tenant compte du volet humain et de la transformation des pratiques de travail que cela implique. Elle propose ainsi un **[guide sur le travail en mode hybride](https://www.modernisation.gouv.fr/home/guide-teletravail-et-presentiel)** ainsi qu’un **[guide sur les nouvelles pratiques de travail](https://www.modernisation.gouv.fr/actualites/recueil-sur-les-nouvelles-pratiques-de-travail-animation-du-collectif-transversalite-renforcement-de-lefficacite-initier-un-changement-durable-dans-la-fonction-publique)**.
 
@@ -66,7 +64,9 @@ Les projets concrets pour insuffler une culture numérique au sein de l’admini
 
 <div class="noir encadre">
 <h2>La mission Transfo en bref</h2>
-<p>Les Cafés Transfo sont organisés et animés par la mission Transfo de la direction interministérielle du numérique.
+<figure class='image-center'>
+<img src="/uploads/CafeTransfo1-800px.png"/>
+<figcaption>Fadila Leturcq et Marion Loustric de la mission Transfo, lors du Café Transfo #1 avec Charles-Antoine Thomas de la DGGN</figcaption></figure><p>Les Cafés Transfo sont organisés et animés par la mission Transfo de la direction interministérielle du numérique.
 [La mission Transformation numérique de l'Etat](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/) du programme TECH.GOUV propose une offre de conseil en stratégie numérique. Ses équipes interviennent particulièrement auprès des directions métiers afin d’identifier les potentiels d’amélioration et de simplification par le numérique et de permettre aux administrations d’en tirer profit dans leurs politiques publiques.
 
 La mission s’appuie également sur des activités visant à mesurer la qualité des services publics numériques à travers l’Observatoire du Top 250 des démarches en ligne, à les améliorer grâce au chantier Administration proactive et évalue régulièrement l’environnement de travail numérique des agents publics au travers du Baromètre Numérique de l’Agent.
