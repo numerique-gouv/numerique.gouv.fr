@@ -144,7 +144,7 @@ Annoter ou dessiner sur une présentation ou un écran blanc, seul ou à plusieu
 {: .margin-bottom-1}
 **Tout agent de l’État peut créer librement un salon de webinaire** à partir de son adresse courriel professionnelle. Il lui suffit ensuite d'inviter via le lien fourni les animateurs et les participants, qu’ils soient de l’administration ou de l’extérieur (partenaires, prestataires, entreprises, citoyens…).
 
-Votre domaine de messagerie n’est pas reconnu ? Faites-en la demande en nous écrivant à <a title="Envoyer un courriel à contact@webinaire.modernisation.gouv.fr" href="mailto:contact@webinaire.modernisation.gouv.fr">contact@webinaire.modernisation.gouv.fr</a>.
+Votre domaine de messagerie n’est pas reconnu ? Faites-en la demande en nous écrivant à <a title="Envoyer un courriel à contact@webinaire.numerique.gouv.fr" href="mailto:contact@webinaire.numerique.gouv.fr">contact@webinaire.numerique.gouv.fr</a>.
 
 *Pour utiliser moins de bande passante et profiter du service dans les meilleures conditions, avec beaucoup de participants, nous recommandons de vous connecter hors VPN.*
 
