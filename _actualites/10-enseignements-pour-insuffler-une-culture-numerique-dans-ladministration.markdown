@@ -13,7 +13,7 @@ chapeau-text: Le 2 juin dernier, la direction interministérielle du numérique 
 ## 1. Inclure le numérique dans le socle de compétences de tous les agents publics
 
 <figure class='image-left' style='width: 50%;'>
-<img src="/uploads/swiss-army-knife_bleu.png"/>
+<img src="/uploads/CafeTransfo1-800px.png"/>
 </figure>Le numérique se développe rapidement et est une composante incontournable de l’action des agents publics. À travers son plan stratégique de transformation « Gend 20.24 », la direction générale de la Gendarmerie nationale (DGGN) prépare les gendarmes à l’impact du numérique sur leurs missions, notamment en les formant à l’intelligence artificielle grâce à un MOOC co-construit avec l’Institut Montaigne, ou en formant son corps d’encadrants au travail et au management en mode « hybride ».
 
 À ce titre, la direction interministérielle de la transformation publique (DITP) a évoqué les travaux menés autour du travail en mode hybride et de l’insertion de nouveaux outils dans le quotidien des équipes, en tenant compte du volet humain et de la transformation des pratiques de travail que cela implique. Elle propose ainsi un **[guide sur le travail en mode hybride](https://www.modernisation.gouv.fr/home/guide-teletravail-et-presentiel)** ainsi qu’un **[guide sur les nouvelles pratiques de travail](https://www.modernisation.gouv.fr/actualites/recueil-sur-les-nouvelles-pratiques-de-travail-animation-du-collectif-transversalite-renforcement-de-lefficacite-initier-un-changement-durable-dans-la-fonction-publique)**.
