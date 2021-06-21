@@ -126,7 +126,7 @@ Envoyer des messages en privé ou en discussion publique</div>
 Prendre des notes et éditer le contenu en groupe, en simultané</div>
 <div class="panel"><figure class='image-center' style='width: 27%;'>
 <img src="/uploads/Tableau_blanc_multi_utilisateurs.svg"/></figure><div class="titre-fonctionnalite">Tableau blanc multi-utilisateurs</div>
-Annoter ou dessiner en direct sur une présentation ou un écran blanc, seul ou à plusieurs</div>
+Annoter ou dessiner sur une présentation ou un écran blanc, seul ou à plusieurs</div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Sondage.svg"/></figure><div class="titre-fonctionnalite">Sondage</div>Réaliser rapidement un sondage, soumettre un point au vote à tout moment</div>
 <div class="panel"><figure class='image-center' style='width: 19%;'>
