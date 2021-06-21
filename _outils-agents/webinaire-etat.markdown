@@ -5,7 +5,7 @@ chapeau-text: Un service dédié aux agents de l'État pour leurs séminaires en
   formations, présentations, conférences virtuelles, jusqu’à 350 participants.
 une:
   image: "/uploads/Webinaire_outils-agents-pagefille_1635x345.png"
-style: |
+style: |-
   .button {
   background-color: #0d5c98;
   border: 1px solid white;
@@ -51,6 +51,12 @@ style: |
     margin-bottom: 10px;
   text-align: center;
   }
+
+
+  .titre-fonctionnalite {
+    color: #095D9C;
+    font-weight: bold;
+  }
 layout: rgaa
 ---
 
@@ -91,10 +97,10 @@ Sans créer de compte, il est aussi possible de créer un salon de webinaire à 
 {: .margin-bottom-1}
 
 <div class="wrapper">
-<div class="panel"><b>Vidéo</b>
+<div class="panel"><p style="color:#FF0000"<b>Vidéo</b>
 <br>Organiser des séminaires, formations, conférences, ateliers… en vidéo
 </div>
-<div class="panel"><b>Audio</b>
+<div class="panel"><div class="titre-fonctionnalite"><b>Audio</b></div>
 <br>Communiquer avec un son haute qualité.
 <br>Rejoindre l’audio par téléphone si besoin</div>
 <div class="panel"><b>Enregistrement</b>
@@ -142,7 +148,3 @@ Votre domaine de messagerie n’est pas reconnu ? Faites-en la demande en nous �
 * [Webconférence de l’État (Webconf)](/outils-agents/webconference-etat/)
 * [Webconférence : quels outils pour les agents de l’État pendant la crise Covid-19 ?](/outils-agents/organiser-webconference-outils-agents-etat/)
 * [Audioconférence de l’État (Audioconf](/outils-agents/audioconference-etat/)
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><g xmlns="http://www.w3.org/2000/svg"><path d="m482 25h-452c-16.542 0-30 13.458-30 30v298c0 16.542 13.458 30 30 30h147v74h-81c-8.284 0-15 6.716-15 15s6.716 15 15 15h320c8.284 0 15-6.716 15-15s-6.716-15-15-15h-81v-74h147c16.542 0 30-13.458 30-30v-298c0-16.542-13.458-30-30-30zm-177 432h-98v-74h98zm177-104c-13.157 0-441.456 0-452 0v-298h452c.019 304.472.1 298 0 298z" fill="#0f4d9d" data-original="#000000" style="" class=""></path></g></g></svg>
-<g><g xmlns="http://www.w3.org/2000/svg"><path d="m482 25h-452c-16.542 0-30 13.458-30 30v298c0 16.542 13.458 30 30 30h147v74h-81c-8.284 0-15 6.716-15 15s6.716 15 15 15h320c8.284 0 15-6.716 15-15s-6.716-15-15-15h-81v-74h147c16.542 0 30-13.458 30-30v-298c0-16.542-13.458-30-30-30zm-177 432h-98v-74h98zm177-104c-13.157 0-441.456 0-452 0v-298h452c.019 304.472.1 298 0 298z" fill="#0f4d9d" data-original="#000000" style="" class=""></path></g></g>
-<g xmlns="http://www.w3.org/2000/svg"><path d="m482 25h-452c-16.542 0-30 13.458-30 30v298c0 16.542 13.458 30 30 30h147v74h-81c-8.284 0-15 6.716-15 15s6.716 15 15 15h320c8.284 0 15-6.716 15-15s-6.716-15-15-15h-81v-74h147c16.542 0 30-13.458 30-30v-298c0-16.542-13.458-30-30-30zm-177 432h-98v-74h98zm177-104c-13.157 0-441.456 0-452 0v-298h452c.019 304.472.1 298 0 298z" fill="#0f4d9d" data-original="#000000" style="" class=""></path></g></g></svg>
