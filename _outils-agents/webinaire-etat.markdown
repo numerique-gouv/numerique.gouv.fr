@@ -114,7 +114,7 @@ Diffuser vos présentations et les annoter en direct</div>
 Enregistrer vos webinaires, et partager la rediffusion</div>
 <div class="panel"><figure class='image-center' style='width: 24%;'>
 <img src="/uploads/Upload_de_documents.svg"/></figure><div class="titre-fonctionnalite">Upload de documents</div>
-Téléverser votre support de présentation (pdf, texte, image, présentation…) et le proposer en téléchargement aux participants</div>
+Téléverser vos supports de présentation et les proposer en téléchargement aux participants</div>
 <div class="panel"><figure class='image-center' style='width: 27%;'>
 <img src="/uploads/Partage_decran.svg"/></figure><div class="titre-fonctionnalite">Partage d’écran</div>
 Diffuser une fenêtre ou tout l’écran de votre ordinateur : site web, application…</div>
