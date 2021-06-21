@@ -97,7 +97,9 @@ Sans créer de compte, il est aussi possible de créer un salon de webinaire à 
 {: .margin-bottom-1}
 
 <div class="wrapper">
-<div class="panel"><div class="titre-fonctionnalite">Vidéo</div>
+<div class="panel"><figure class='image-center' style='width: 6%;'>
+<img src="/uploads/Video.svg"/>
+</figure><div class="titre-fonctionnalite">Vidéo</div>
 Organiser des séminaires, formations, conférences, ateliers… en vidéo
 </div>
 <div class="panel"><div class="titre-fonctionnalite">Audio</div>
