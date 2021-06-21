@@ -86,7 +86,7 @@ L’outil vient en complément de la [Webconférence de l’État](https://www.n
 ## Un outil complet, puissant et facile d’utilisation
 {: .margin-bottom-1}
 
-Basé sur le logiciel libre réputé BigBlueButton, Webinaire inclut des **fonctionnalités classiques** - vidéo, audio (joignable si besoin par téléphone), diffusion de présentation, partage d’écran - associées à des **fonctions de collaboration avancées** : discussion publique et privée, annotation de présentation, rédaction de notes partagées, sondage, tableau blanc multi-utilisateurs…
+Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État inclut des **fonctionnalités classiques** - vidéo, audio (joignable si besoin par téléphone), diffusion de présentation, partage d’écran - associées à des **fonctions de collaboration avancées** : discussion publique et privée, annotation de présentation, rédaction de notes partagées, sondage, tableau blanc multi-utilisateurs…
 
 Avec **un son et une image de haute qualité**, il permet de réunir **jusqu’à 350 participants** autour d’un animateur en vidéo, ou plusieurs dizaines de participants pour autant de personnes en vidéo, selon le type d’événement souhaité.
 
