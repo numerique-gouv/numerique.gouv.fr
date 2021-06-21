@@ -1,8 +1,6 @@
 ---
 title: Webconférence de l’État
 date: 2020-01-10 10:56:00 +01:00
-categories:
-- Produits
 tags:
 - Services numériques pour les agents
 - ETNA
@@ -36,7 +34,7 @@ cursor: pointer;
 <img src="/uploads/swiss-army-knife_bleu.png"/>
 </figure>## Un outil interactif polyvalent
 {: .margin-bottom-1}
-Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations, des formations ou des webinaires** ? Le service de webconférence **[webconf.numerique.gouv.fr](https://webconf.numerique.gouv.fr)** vous permet de faire tout cela !
+Vous avez besoin d’**organiser à distance des réunions, des conférences, des présentations** ? Le service de webconférence **[webconf.numerique.gouv.fr](https://webconf.numerique.gouv.fr)** vous permet de faire tout cela !
 
 Les participants peuvent :
 
@@ -115,4 +113,5 @@ Pour parer aux besoins massifs en outils de webconférences pendant la crise, la
 **Lire aussi :**
 
 * [Webconférence : quels outils pour les agents de l’État pendant la crise Covid-19 ?](/outils-agents/organiser-webconference-outils-agents-etat/)
+* [Webinaire de l’État](/outils-agents/webinaire-etat)
 * [Audioconférence de l’État](/outils-agents/audioconference-etat/)
