@@ -1,5 +1,5 @@
 ---
-title: Webinaire de l’État (Webinaire)
+title: Webinaire de l’État
 date: 2021-06-21 04:54:00 +02:00
 tags:
 - Outils pour les agents
