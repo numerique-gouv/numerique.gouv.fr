@@ -97,29 +97,29 @@ Sans créer de compte, il est aussi possible de créer un salon de webinaire à 
 {: .margin-bottom-1}
 
 <div class="wrapper">
-<div class="panel"><p style="color:#FF0000"<b>Vidéo</b>
-<br>Organiser des séminaires, formations, conférences, ateliers… en vidéo
+<div class="panel"><div class="titre-fonctionnalite">Vidéo</div>
+Organiser des séminaires, formations, conférences, ateliers… en vidéo
 </div>
-<div class="panel"><div class="titre-fonctionnalite"><b>Audio</b></div>
-<br>Communiquer avec un son haute qualité.
+<div class="panel"><div class="titre-fonctionnalite">Audio</div>
+Communiquer avec un son haute qualité.
 <br>Rejoindre l’audio par téléphone si besoin</div>
-<div class="panel"><b>Enregistrement</b>
-<br>Enregistrer vos webinaires, et partager la rediffusion</div>
-<div class="panel"><b>Présentation</b>
-<br>Diffuser vos présentations et les annoter en direct</div>
-<div class="panel"><b>Upload de documents</b>
-<br>Téléverser votre support de présentation (pdf, texte, image, présentation…) et le proposer en téléchargement aux participants</div>
-<div class="panel"><b>Partage d’écran</b>
-<br>Diffuser une fenêtre ou tout l’écran de votre ordinateur : site web, application…</div>
-<div class="panel"><b>Discussion en ligne</b>
-<br>Envoyer des messages en privé ou en discussion publique</div>
-<div class="panel"><b>Notes partagées</b>
-<br>Prendre des notes et éditer le contenu en groupe, en simultané</div>
-<div class="panel"><b>Tableau blanc multi-utilisateurs</b>
-<br>Annoter et dessiner en direct sur une présentation ou un écran blanc, pour l’organisateur seul ou à plusieurs</div>
-<div class="panel"><b>Sondage</b><br>Réaliser rapidement un sondage, soumettre un point au vote à tout moment</div>
-<div class="panel"><b>Main levée</b><br>Lever la main pour intervenir, poser une question, sans interrompre l’animateur</div>
-<div class="panel"><b>Diffusion de vidéos</b><br>Diffuser une vidéo depuis n’importe quelle plateforme vidéo en ligne</div>
+<div class="panel"><div class="titre-fonctionnalite">Enregistrement</div>
+Enregistrer vos webinaires, et partager la rediffusion</div>
+<div class="panel"><div class="titre-fonctionnalite">Présentation</div>
+Diffuser vos présentations et les annoter en direct</div>
+<div class="panel"><div class="titre-fonctionnalite">Upload de documents</div>
+Téléverser votre support de présentation (pdf, texte, image, présentation…) et le proposer en téléchargement aux participants</div>
+<div class="panel"><div class="titre-fonctionnalite">Partage d’écran</div>
+Diffuser une fenêtre ou tout l’écran de votre ordinateur : site web, application…</div>
+<div class="panel"><div class="titre-fonctionnalite">Discussion en ligne</div>
+Envoyer des messages en privé ou en discussion publique</div>
+<div class="panel"><div class="titre-fonctionnalite">Notes partagées</div>
+Prendre des notes et éditer le contenu en groupe, en simultané</div>
+<div class="panel"><div class="titre-fonctionnalite">Tableau blanc multi-utilisateurs</div>
+Annoter et dessiner en direct sur une présentation ou un écran blanc, pour l’organisateur seul ou à plusieurs</div>
+<div class="panel"><div class="titre-fonctionnalite">Sondage</div>Réaliser rapidement un sondage, soumettre un point au vote à tout moment</div>
+<div class="panel"><div class="titre-fonctionnalite">Main levée</div><br>Lever la main pour intervenir, poser une question, sans interrompre l’animateur</div>
+<div class="panel"><div class="titre-fonctionnalite">Diffusion de vidéos</div>Diffuser une vidéo depuis n’importe quelle plateforme vidéo en ligne</div>
 </div>
 <br>
 <br>
@@ -135,7 +135,7 @@ Votre domaine de messagerie n’est pas reconnu ? Faites-en la demande en nous �
 *Pour utiliser moins de bande passante et profiter du service dans les meilleures conditions, avec beaucoup de participants, nous recommandons de vous connecter hors VPN.*
 
 
-<div class="noir encadre"> <figure class="image-center" style="width: 8%;"><img src="/uploads/outils.png"></figure> <h2 class="text-center margin-bottom-1 margin-top-0" id="les-caractéristiques-en-bref">Les caractéristiques en bref</h2> <ul> <li><strong>Création d’un webinaire réservée aux agents de l’État</strong></li> <li><strong>Jusqu’à 350 participants simultanés,</strong> internes ou externes à l’administration</li> <li><strong>Configuration sur mesure ou par défaut </strong> selon les besoins et le type d’événements</li> <li>Accessible facilement <strong>depuis votre navigateur sur ordinateur</strong>(Edge, Chrome ou Chromium recommandés), <strong>mobile ou tablette</strong></li> <li><strong>Nombreuses fonctionnalités </strong> de présentation et de collaboration</li> <li><strong>Solution de confiance</strong>, proposée par l’État, hébergée en France</li> </ul> </div>
+<div class="noir encadre"> <figure class="image-center" style="width: 8%;"><img src="/uploads/outils.png"></figure> <h2 class="text-center margin-bottom-1 margin-top-0" id="les-caractéristiques-en-bref">Les caractéristiques en bref</h2> <ul> <li><strong>Création d’un webinaire réservée aux agents de l’État</strong></li> <li><strong>Jusqu’à 350 participants simultanés,</strong> internes ou externes à l’administration</li> <li><strong>Configuration sur mesure ou par défaut </strong> selon les besoins et le type d’événements</li> <li>Accessible facilement <strong>depuis votre navigateur sur ordinateur</strong>*, <strong>mobile ou tablette</strong> <i>(*Edge, Chrome ou Chromium recommandés)</i></li> <li><strong>Nombreuses fonctionnalités </strong> de présentation et de collaboration</li> <li><strong>Solution de confiance</strong>, proposée par l’État, hébergée en France</li> </ul> </div>
 <br><br>
 <div align="center" style="margin-bottom: 40px"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Accéder au Webinaire de l'État</b></a> </div>
 
