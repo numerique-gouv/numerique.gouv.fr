@@ -63,8 +63,8 @@ ATTENTION : Ces options sont valables pendant la crise liée au Covid-19. L’ou
 
 **Découvrir aussi :**
 * [Webconférence de l’État](/outils-agents/webconference-etat/)
+* [Webinaire de l’État](/outils-agents/webinaire-etat)
 * [Audioconférence de l’État](/outils-agents/audioconference-etat/)
-* [Osmose, la plateforme des communautés professionnelles de l’État](/outils-agents/osmose/)
 <br>
 <br>
 
