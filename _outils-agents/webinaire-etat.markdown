@@ -137,9 +137,7 @@ Annoter ou dessiner sur une présentation ou un écran blanc, seul ou à plusieu
 <br>
 <br>
 
-<figure class='image-left' style='width: 6%;'>
-<img src="/uploads/group-bleu.png"/>
-</figure>## Ouvert aux agents de l’État et à leurs interlocuteurs
+## Ouvert aux agents de l’État et à leurs interlocuteurs
 {: .margin-bottom-1}
 **Tout agent de l’État peut créer librement un salon de webinaire** à partir de son adresse courriel professionnelle. Il lui suffit ensuite d'inviter via le lien fourni les animateurs et les participants, qu’ils soient de l’administration ou de l’extérieur (partenaires, prestataires, entreprises, citoyens…).
 
