@@ -57,11 +57,15 @@ La culture numérique est l’affaire de tous : il est donc important d’inform
 ## 10. Saisir l’opportunité de la Relance pour lancer des projets !
 
 Les projets concrets pour insuffler une culture numérique au sein de l’administration qui ont été présentés au cours du 1er Café Transfo ont tous été financés par le plan France Relance, au titre des guichets « [Accompagner l’appropriation des méthodes de travail numériques au sein des équipes (SNAP5)](https://france-relance.transformation.gouv.fr/b07b-accompagner-lappropriation-des-methodes-de-tr "Accompagner l’appropriation des méthodes de travail numériques au sein des équipes (SNAP5) - Lien externe") » et « [Développer l’employabilité des agents publics dans la filière numérique (ITN4)](https://france-relance.transformation.gouv.fr/508d-developper-lemployabilite-des-agents-publics- "Développer l’employabilité des agents publics dans la filière numérique (ITN4) - Lien externe") ». Un moyen d’accélérer votre transformation et d’acculturer au mieux vos agents !
+<br>
 
-Une idée de thème pour les prochains Cafés Transfo ? [Partagez-la ici](https://app.klaxoon.com/join/YHTYNWA "Partagez-la ici - Lien externe")
+**Une idée de thème pour les prochains Cafés Transfo ?** 
+<div class="lien-important"><p><a href="https://app.klaxoon.com/join/YHTYNWA" alt="Partagez-la ici - Lien externe">Partagez-la ici</a></p>
 
 
-
+<div class="noir encadre">
+<h2>La mission Transfo en bref</h2>
+<p>Les Cafés Transfo sont organisés et animés par la mission Transfo de la direction interministérielle du numérique.
 [La mission Transformation numérique de l'Etat](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/) du programme TECH.GOUV propose une offre de conseil en stratégie numérique. Ses équipes interviennent particulièrement auprès des directions métiers afin d’identifier les potentiels d’amélioration et de simplification par le numérique et de permettre aux administrations d’en tirer profit dans leurs politiques publiques.
 
 La mission s’appuie également sur des activités visant à mesurer la qualité des services publics numériques à travers l’Observatoire du Top 250 des démarches en ligne, à les améliorer grâce au chantier Administration proactive et évalue régulièrement l’environnement de travail numérique des agents publics au travers du Baromètre Numérique de l’Agent.
@@ -72,4 +76,4 @@ Contactez l’équipe TRANSFO dans le cadre de vos stratégies numériques et vo
 
 Contact : [transfo.dinum@modernisation.gouv.fr](mailto:transfo.dinum@modernisation.gouv.fr)
 
-*Les Cafés Transfo sont un événement, organisé dans le cadre du programme TECH.GOUV, et ont pour objectifs la mobilisation de l'intelligence collective et la diffusion de bonnes pratiques en matière de transformation numérique. Ils sont exclusivement destiné aux décideurs publics qui se sentent concernés par les grands enjeux du numérique et se veulent être un lieu de partage et d’échanges collaboratifs réguliers. La prochaine édition se tiendra à la rentrée 2021 !*
+*Les Cafés Transfo sont un événement organisé dans le cadre du programme TECH.GOUV, et ont pour objectifs la mobilisation de l'intelligence collective et la diffusion de bonnes pratiques en matière de transformation numérique. Ils sont exclusivement destiné aux décideurs publics qui se sentent concernés par les grands enjeux du numérique et se veulent être un lieu de partage et d’échanges collaboratifs réguliers. La prochaine édition se tiendra à la rentrée 2021 !*
