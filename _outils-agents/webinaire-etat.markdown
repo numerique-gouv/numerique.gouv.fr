@@ -102,16 +102,14 @@ Sans créer de compte, il est aussi possible de créer un salon de webinaire à 
 </figure><div class="titre-fonctionnalite">Vidéo</div>
 Organiser des séminaires, formations, conférences, ateliers… en vidéo
 </div>
-<div class="panel"><figure class='image-center' style='width: 3%;'>
-<img src="/uploads/Video.svg"/>
-</figure><figure class='image-center' style='width: 6%;'>
-<img src="/uploads/Audio.png"/><div class="titre-fonctionnalite">Audio</div>
+<div class="panel"><figure class='image-center'>
+<img src="/uploads/Audio.png"/></figure><div class="titre-fonctionnalite">Audio</div>
 Communiquer avec un son haute qualité.
 <br>Rejoindre l’audio par téléphone si besoin</div>
-<div class="panel"><div class="titre-fonctionnalite">Enregistrement</div>
-Enregistrer vos webinaires, et partager la rediffusion</div>
 <div class="panel"><div class="titre-fonctionnalite">Présentation</div>
 Diffuser vos présentations et les annoter en direct</div>
+<div class="panel"><div class="titre-fonctionnalite">Enregistrement</div>
+Enregistrer vos webinaires, et partager la rediffusion</div>
 <div class="panel"><div class="titre-fonctionnalite">Upload de documents</div>
 Téléverser votre support de présentation (pdf, texte, image, présentation…) et le proposer en téléchargement aux participants</div>
 <div class="panel"><div class="titre-fonctionnalite">Partage d’écran</div>
