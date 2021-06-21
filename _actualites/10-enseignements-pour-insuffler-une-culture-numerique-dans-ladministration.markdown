@@ -59,7 +59,7 @@ La culture numérique est l’affaire de tous : il est donc important d’inform
 Les projets concrets pour insuffler une culture numérique au sein de l’administration qui ont été présentés au cours du 1er Café Transfo ont tous été financés par le plan France Relance, au titre des guichets « [Accompagner l’appropriation des méthodes de travail numériques au sein des équipes (SNAP5)](https://france-relance.transformation.gouv.fr/b07b-accompagner-lappropriation-des-methodes-de-tr "Accompagner l’appropriation des méthodes de travail numériques au sein des équipes (SNAP5) - Lien externe") » et « [Développer l’employabilité des agents publics dans la filière numérique (ITN4)](https://france-relance.transformation.gouv.fr/508d-developper-lemployabilite-des-agents-publics- "Développer l’employabilité des agents publics dans la filière numérique (ITN4) - Lien externe") ». Un moyen d’accélérer votre transformation et d’acculturer au mieux vos agents !
 <br>
 
-<div class="text-center">Une idée de thème pour les prochains Cafés Transfo ?</div> 
+<div class="text-center"><b>Une idée de thème pour les prochains Cafés Transfo ?</b></div> 
 <div class="lien-important"><p><a href="https://app.klaxoon.com/join/YHTYNWA" alt="Partagez-la ici - Lien externe">Partagez-la ici</a></p></div>
 
 
