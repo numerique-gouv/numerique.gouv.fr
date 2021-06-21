@@ -1,7 +1,9 @@
 ---
 title: 10 enseignements pour insuffler une culture numérique dans l’administration
   !
-date: 2021-06-21 15:28:00 +02:00
+date: 2021-06-21 03:28:00 +02:00
+categories:
+- Article
 chapeau-text: Le 2 juin dernier, la direction interministérielle du numérique a organisé
   le premier Café Transfo sur le thème « Comment insuffler une culture numérique dans
   l’administration ? ». Voici les 10 enseignements tirés des témoignages des différents
@@ -12,7 +14,7 @@ chapeau-text: Le 2 juin dernier, la direction interministérielle du numérique 
 
 Le numérique se développe rapidement et est une composante incontournable de l’action des agents publics. A travers son plan stratégique de transformation « Gend 20.24 », la direction générale de la Gendarmerie nationale (DGGN) prépare les gendarmes à l’impact du numérique sur leurs missions en les formant à l’intelligence artificielle grâce à un MOOC co-construit avec l’Institut Montaigne par exemple, ou en formant son corps d’encadrants au travail et au management en mode « hybride ».
 
-À ce titre, la Direction interministérielle de la Transformation publique (DITP) a pu évoquer les travaux menés autour du travail en mode hybride et de l’insertion de nouveaux outils dans le quotidien des équipes, en tenant compte du volet humain et de la transformation des pratiques de travail que cela implique. Elle propose ainsi un [guide sur le travail en mode hybride](https://www.modernisation.gouv.fr/home/guide-teletravail-et-presentiel) ainsi qu’un [guide sur les nouvelles pratiques de travail](https://www.modernisation.gouv.fr/actualites/recueil-sur-les-nouvelles-pratiques-de-travail-animation-du-collectif-transversalite-renforcement-de-lefficacite-initier-un-changement-durable-dans-la-fonction-publique).
+À ce titre, la direction interministérielle de la transformation publique (DITP) a pu évoquer les travaux menés autour du travail en mode hybride et de l’insertion de nouveaux outils dans le quotidien des équipes, en tenant compte du volet humain et de la transformation des pratiques de travail que cela implique. Elle propose ainsi un [guide sur le travail en mode hybride](https://www.modernisation.gouv.fr/home/guide-teletravail-et-presentiel) ainsi qu’un [guide sur les nouvelles pratiques de travail](https://www.modernisation.gouv.fr/actualites/recueil-sur-les-nouvelles-pratiques-de-travail-animation-du-collectif-transversalite-renforcement-de-lefficacite-initier-un-changement-durable-dans-la-fonction-publique).
 
 ## 2. Engager un partenariat long terme entre les directions du numérique, les directions des ressources humaines et les directions métiers
 
