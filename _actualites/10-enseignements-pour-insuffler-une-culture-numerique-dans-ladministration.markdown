@@ -9,9 +9,9 @@ tags:
 - Café Transfo
 - Transformation numérique
 chapeau-text: Le 2 juin dernier, la direction interministérielle du numérique a organisé
-  le premier Café Transfo sur le thème « Comment insuffler une culture numérique dans
-  l’administration ? ». Voici les 10 enseignements tirés des témoignages des différents
-  intervenants.
+  le [premier Café Transfo](/agenda/cafe-transfo-numero-1-comment-insuffler-une-culture-numerique-dans-ladministration/)
+  sur le thème « Comment insuffler une culture numérique dans l’administration ? ».
+  Voici les 10 enseignements tirés des témoignages des différents intervenants.
 une-ou-diaporama:
 - image: "/uploads/Culture_Transfo_1600x860.png"
 ---
