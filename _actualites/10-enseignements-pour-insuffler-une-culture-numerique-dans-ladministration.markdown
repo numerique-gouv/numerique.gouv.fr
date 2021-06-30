@@ -12,7 +12,13 @@ chapeau-text: Le 2 juin dernier, la direction interministérielle du numérique 
   le premier Café Transfo sur le thème « Comment insuffler une culture numérique dans
   l’administration ? ». Voici les 10 enseignements tirés des témoignages des différents
   intervenants.
+une-ou-diaporama:
+- image: "/uploads/Culture_Transfo_1600x860.png"
 ---
+
+<figure class='image-center'>
+<img src="/uploads/CafeTransfo1-800px.png"/>
+<figcaption>Fadila Leturcq et Marion Loustric de la mission Transfo, lors du Café Transfo #1, avec Charles-Antoine Thomas de la DGGN</figcaption></figure>
 
 <ol><h2><li>Inclure le numérique dans le socle de compétences de tous les agents publics</li></h2>
 
@@ -68,12 +74,10 @@ Les projets concrets pour insuffler une culture numérique au sein de l’admini
 
 <div class="noir encadre">
 <h2>La mission Transfo en bref</h2>
-<figure class='image-center'>
-<img src="/uploads/CafeTransfo1-800px.png"/>
-<figcaption>Fadila Leturcq et Marion Loustric de la mission Transfo, lors du Café Transfo #1 avec Charles-Antoine Thomas de la DGGN</figcaption></figure><p>Les Cafés Transfo sont organisés et animés par la mission Transfo de la direction interministérielle du numérique.
-[La mission Transformation numérique de l'Etat](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/) du programme TECH.GOUV propose une offre de conseil en stratégie numérique. Ses équipes interviennent particulièrement auprès des directions métiers afin d’identifier les potentiels d’amélioration et de simplification par le numérique et de permettre aux administrations d’en tirer profit dans leurs politiques publiques.
+<p>Les Cafés Transfo sont organisés et animés par la mission Transfo de la direction interministérielle du numérique.
+La mission Transformation numérique de l’État du programme TECH.GOUV propose [une offre de conseil en stratégie numérique](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/). Ses équipes interviennent particulièrement auprès des directions métiers des ministères afin d’identifier les potentiels d’amélioration et de simplification par le numérique et de permettre aux administrations d’en tirer profit dans leurs politiques publiques.
 
-La mission s’appuie également sur des activités visant à mesurer la qualité des services publics numériques à travers l’Observatoire du Top 250 des démarches en ligne, à les améliorer grâce au chantier Administration proactive et évalue régulièrement l’environnement de travail numérique des agents publics au travers du Baromètre Numérique de l’Agent.
+La mission s’appuie également sur des activités visant à mesurer la qualité des services publics numériques à travers l’<a href="https://observatoire.numerique.gouv.fr/">Observatoire de la qualité des démarches en ligne</a>, à les améliorer grâce au chantier Administration proactive et évalue régulièrement l’environnement de travail numérique des agents publics au travers du <a href="/actualites/barometre-numerique-agent-2020/">Baromètre numérique de l’agent</a>.
 
 Enfin, dans le cadre du plan de relance, la mission assure le pilotage opérationnel du Fonds Innovation et Transformation numériques et des guichets dédiés à la transformation numérique des écosystèmes (ITN2) et aux méthodes de travail numériques (SNAP5).
 
