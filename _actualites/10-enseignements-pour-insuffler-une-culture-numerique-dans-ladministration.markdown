@@ -19,9 +19,9 @@ une-ou-diaporama:
 <ol><h2><li>Inclure le numérique dans le socle de compétences de tous les agents publics</li></h2>
 
 Le numérique se développe rapidement et est une composante incontournable de l’action des agents publics. À travers son plan stratégique de transformation « Gend 20.24 », la direction générale de la Gendarmerie nationale (DGGN) prépare les gendarmes à l’impact du numérique sur leurs missions, notamment en les formant à l’intelligence artificielle grâce à un MOOC co-construit avec l’Institut Montaigne, ou en formant son corps d’encadrants au travail et au management en mode « hybride ».
-<figure class='image-center'>
+<figure class='image-center' style='width: 80%;'>
 <img src="/uploads/CafeTransfo1-800px.png"/>
-<figcaption>Charles-Antoine Thomas de la DGGN lors du Café Transfo #1, aux côtés de Fadila Leturcq et Marion Loustric de la mission Transfo de la DINUM</figcaption></figure>
+<figcaption>Charles-Antoine Thomas, directeur de la transformation RH à la DGGN, lors du Café Transfo #1, aux côtés de Fadila Leturcq et Marion Loustric de la mission Transfo de la DINUM</figcaption></figure>
 À ce titre, la direction interministérielle de la transformation publique (DITP) a évoqué les travaux menés autour du travail en mode hybride et de l’insertion de nouveaux outils dans le quotidien des équipes, en tenant compte du volet humain et de la transformation des pratiques de travail que cela implique. Elle propose un <a href="https://www.modernisation.gouv.fr/home/guide-teletravail-et-presentiel" alt="guide sur le travail en mode hybride - Lien externe">guide sur le travail en mode hybride</a> ainsi qu’un <a href="https://www.modernisation.gouv.fr/actualites/recueil-sur-les-nouvelles-pratiques-de-travail-animation-du-collectif-transversalite-renforcement-de-lefficacite-initier-un-changement-durable-dans-la-fonction-publique">guide sur les nouvelles pratiques de travail" alt="guide sur les nouvelles pratiques de travail - Lien externe"</a>.
 
 <h2><li>Engager un partenariat long terme entre les directions du numérique, les directions des ressources humaines et les directions métiers</li></h2>
