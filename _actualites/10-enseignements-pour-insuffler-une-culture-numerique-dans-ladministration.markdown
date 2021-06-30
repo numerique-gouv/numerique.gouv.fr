@@ -45,9 +45,9 @@ Le numérique se développe rapidement et est une composante incontournable de l
 
 <h2><li>Anticiper l’évolution des métiers, que ceux-ci soit issus de la filière numérique ou qu’ils en soient éloignés</li></h2>
 
-Le numérique impacte les missions de tous les agents. Le ministère de la Transition écologique a donc engagé une Gestion prévisionnelle des emplois et des compétences (GPEC) pour <b>identifier les compétences de demain des métiers impactés par le numérique</b> et ainsi orienter les parcours professionnels des agents. La direction générale de la Gendarmerie nationale s’appuie notamment sur le numérique en lançant un chantier Zéro papier (numérisation, signature électronique, GED, etc.) afin de dégager du temps de travail aux gendarmes et de l’orienter vers une meilleure prise en charge des agents et des usagers.
+<p>Le numérique impacte les missions de tous les agents. Le ministère de la Transition écologique a donc engagé une Gestion prévisionnelle des emplois et des compétences (GPEC) pour <b>identifier les compétences de demain des métiers impactés par le numérique</b> et ainsi orienter les parcours professionnels des agents. La direction générale de la Gendarmerie nationale s’appuie notamment sur le numérique en lançant un chantier Zéro papier (numérisation, signature électronique, GED, etc.) afin de dégager du temps de travail aux gendarmes et de l’orienter vers une meilleure prise en charge des agents et des usagers.</p>
 
-Consultez <b><a href="https://www.modernisation.gouv.fr/etudes-et-referentiels/numerique-et-transformation-des-metiers-publics-quelles-perspectives-0" alt="l’étude de la DITP sur la transformation numérique des métiers - lien externe">l’étude de la DITP sur la transformation numérique des métiers</a></b> et informez-vous auprès de la DITP sur l’accélérateur Administration Zéro papier !
+<p>Consultez <b><a href="https://www.modernisation.gouv.fr/etudes-et-referentiels/numerique-et-transformation-des-metiers-publics-quelles-perspectives-0" alt="l’étude de la DITP sur la transformation numérique des métiers - lien externe">l’étude de la DITP sur la transformation numérique des métiers</a></b> et informez-vous auprès de la DITP sur l’accélérateur Administration Zéro papier !</p>
 
 <h2><li>Impliquer les cadres dirigeants et les managers</li></h2>
 
