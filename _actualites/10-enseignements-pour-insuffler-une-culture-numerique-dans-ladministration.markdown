@@ -95,7 +95,7 @@ La culture numérique est l’affaire de tous : il est donc important d’<b>inf
 
 <p style="margin-bottom:15px;">Enfin, dans le cadre du plan de relance, la mission assure le pilotage opérationnel du Fonds Innovation et Transformation numériques et des guichets dédiés à la transformation numérique des écosystèmes (ITN2) et aux méthodes de travail numériques (SNAP5).</p>
 
-<div align="center" style="margin-bottom: 40px"><p>Vous avez besoin d'un appui, de conseil, dans le cadre de vos stratégies numériques ? Vous souhaitez lancer un projet numérique de relance ?</p> 
+<div align="center" style="margin-bottom: 40px"><p><b>Vous avez besoin d'un appui, de conseil, dans le cadre de vos stratégies numériques ? Vous souhaitez lancer un projet numérique de relance ?</b></p> 
 <a href="mailto:transfo.dinum@modernisation.gouv.fr" alt="Contactez-nous à transfo.dinum@modernisation.gouv.fr - Ouvre une messagerie électronique" class="button">Contactez-nous à transfo.dinum@modernisation.gouv.fr</a></div>
 <br></div>
 <br>
