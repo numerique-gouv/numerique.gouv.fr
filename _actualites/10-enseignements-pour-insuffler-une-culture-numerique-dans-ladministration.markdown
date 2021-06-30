@@ -2,7 +2,6 @@
 title: 10 enseignements pour insuffler une culture numérique dans l’administration
   !
 date: 2021-06-21 03:28:00 +02:00
-published: false
 categories:
 - Article
 chapeau-text: Le 2 juin dernier, la direction interministérielle du numérique a organisé
