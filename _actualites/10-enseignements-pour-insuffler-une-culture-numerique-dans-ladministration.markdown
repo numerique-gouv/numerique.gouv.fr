@@ -73,7 +73,7 @@ La culture numérique est l’affaire de tous : il est donc important d’<b>inf
 <div class="noir encadre">
 <h2>La mission Transfo accompagne votre transformation numérique</h2>
 <figure class='image-center' style='width: 80%;'>
-<img src="/uploads/CafeTransfo1-800px.png"/>![equipe-mission-transfo.jpg](/uploads/equipe-mission-transfo.jpg)
+<img src="/uploads/equipe-mission-transfo.jpg"/>
 <figcaption>L'équipe Transfo de la DINUM, de gauche à droite : Patrick Ruestchmann, Valentine Roux, Marion Loustric et Fadila Leturcq</figcaption></figure><p>Les <a href="/agenda/cafe-transfo-numero-1-comment-insuffler-une-culture-numerique-dans-ladministration/">Cafés Transfo</a> sont organisés et animés par la mission Transfo de la direction interministérielle du numérique.
 <br>La mission Transformation numérique de l’État du <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">programme TECH.GOUV</a> propose <a href="https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/" alt="une offre de conseil en stratégie numérique - Lien externe">une offre de conseil en stratégie numérique</a> sur mesure aux cadres dirigeants de l’État. Ses équipes interviennent particulièrement auprès des directions métiers afin d’identifier les potentiels d’amélioration et de simplification par le numérique et de permettre aux administrations d’en tirer tout le profit dans leurs politiques publiques.</p>
 
