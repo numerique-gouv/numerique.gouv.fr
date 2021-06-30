@@ -4,6 +4,10 @@ title: 10 enseignements pour insuffler une culture numérique dans l’administr
 date: 2021-06-21 03:28:00 +02:00
 categories:
 - Article
+tags:
+- TECH.GOUV
+- Café Transfo
+- Transformation numérique
 chapeau-text: Le 2 juin dernier, la direction interministérielle du numérique a organisé
   le premier Café Transfo sur le thème « Comment insuffler une culture numérique dans
   l’administration ? ». Voici les 10 enseignements tirés des témoignages des différents
