@@ -68,7 +68,7 @@ L’organisation d’ateliers et de <span lang="en">showrooms</span> pour partag
 
 <h2><li>Suivre et mesurer la transformation numérique</li></h2>
 
-Qu’il s’agisse de <b>tableaux de bord</b> pour observer et rendre compte de l’évolution des plans de transformation numérique comme au ministère de la Transition écologique ou de <b><span lang="en">mapping</span> des acteurs clés</b> à engager dans les différents projets menés pour insuffler une culture numérique auprès des agents comme à la direction générale de la Gendarmerie nationale, les outils sont nombreux et nécessaires pour s’assurer des impacts des stratégies mises en œuvre.
+Qu’il s’agisse de <b>tableaux de bord</b> pour observer et rendre compte de l’évolution des plans de transformation numérique comme au ministère de la Transition écologique ou de <b><span lang="en">mapping</span></b> des acteurs clés à engager dans les différents projets menés pour insuffler une culture numérique auprès des agents comme à la direction générale de la Gendarmerie nationale, les outils sont nombreux et nécessaires pour s’assurer des impacts des stratégies mises en œuvre.
 
 <h2><li>Communiquer</li></h2>
 
