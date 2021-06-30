@@ -81,7 +81,7 @@ La culture numérique est l’affaire de tous : il est donc important d’<b>inf
 
 <p>Enfin, dans le cadre du plan de relance, la mission assure le pilotage opérationnel du Fonds Innovation et Transformation numériques et des guichets dédiés à la transformation numérique des écosystèmes (ITN2) et aux méthodes de travail numériques (SNAP5).</p>
 
-<p>Contactez l’équipe TRANSFO dans le cadre de vos stratégies numériques et vos projets de relance ! Écrivez-nous à l'adresse <a href="mailto:transfo.dinum@modernisation.gouv.fr">transfo.dinum@modernisation.gouv.fr</a></p>
+<p>Vous avez besoin d'un appui, de conseil, dans le cadre de vos stratégies numériques ? Vous souhaitez lancer un projet numérique de relance ? Contactez-nous à l'adresse <a href="mailto:transfo.dinum@modernisation.gouv.fr">transfo.dinum@modernisation.gouv.fr</a></p>
 </div>
 <br>
 <i>Les Cafés Transfo sont un événement organisé dans le cadre du <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">programme TECH.GOUV</a>, et ont pour objectifs la mobilisation de l'intelligence collective et la diffusion de bonnes pratiques en matière de transformation numérique. Ils sont exclusivement destiné aux décideurs publics qui se sentent concernés par les grands enjeux du numérique et se veulent être un lieu de partage et d’échanges collaboratifs réguliers. La prochaine édition se tiendra à la rentrée 2021 !</i>
