@@ -76,7 +76,10 @@ La culture numérique est l’affaire de tous : il est donc important d’<b>inf
 <img src="/uploads/equipe-mission-transfo.jpg"/>
 <figcaption>L'équipe Transfo de la DINUM, de gauche à droite : Patrick Ruestchmann, Valentine Roux, Marion Loustric et Fadila Leturcq</figcaption></figure><p>Les <a href="/agenda/cafe-transfo-numero-1-comment-insuffler-une-culture-numerique-dans-ladministration/">Cafés Transfo</a> sont organisés et animés par la mission Transfo de la direction interministérielle du numérique.
 <br>La mission Transformation numérique de l’État du <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">programme TECH.GOUV</a> propose <a href="https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/" alt="une offre de conseil en stratégie numérique - Lien externe">une offre de conseil en stratégie numérique</a> sur mesure aux cadres dirigeants de l’État. Ses équipes interviennent particulièrement auprès des directions métiers afin d’identifier les potentiels d’amélioration et de simplification par le numérique et de permettre aux administrations d’en tirer tout le profit dans leurs politiques publiques.</p>
-
+<h2>La mission Transfo accompagne votre transformation numérique</h2>
+<figure class='image-center' style='width: 80%;'>
+<img src="/uploads/equipe-mission-transfo-pano.jpg"/>
+<figcaption>L'équipe Transfo de la DINUM, de gauche à droite : Patrick Ruestchmann, Valentine Roux, Marion Loustric et Fadila Leturcq</figcaption></figure><p>Les <a href="/agenda/cafe-transfo-numero-1-comment-insuffler-une-culture-numerique-dans-ladministration/">Cafés Transfo</a>
 <p>La mission s’appuie également sur des activités visant à mesurer la qualité des services publics numériques à travers l’<a href="https://observatoire.numerique.gouv.fr/">Observatoire de la qualité des démarches en ligne</a>, à les améliorer grâce au chantier Administration proactive et évalue régulièrement l’environnement de travail numérique des agents publics au travers du <a href="/actualites/barometre-numerique-agent-2020/">Baromètre numérique de l’agent</a>.</p>
 
 <p>Enfin, dans le cadre du plan de relance, la mission assure le pilotage opérationnel du Fonds Innovation et Transformation numériques et des guichets dédiés à la transformation numérique des écosystèmes (ITN2) et aux méthodes de travail numériques (SNAP5).</p>
