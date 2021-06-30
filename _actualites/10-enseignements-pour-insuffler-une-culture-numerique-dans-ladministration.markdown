@@ -14,6 +14,19 @@ chapeau-text: Le 2 juin dernier, la direction interministérielle du numérique 
   Voici les 10 enseignements tirés des témoignages des différents intervenants.
 une-ou-diaporama:
 - image: "/uploads/Culture_Transfo_1600x860.png"
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
 
 <ol><h2><li>Inclure le numérique dans le socle de compétences de tous les agents publics</li></h2>
@@ -81,7 +94,8 @@ La culture numérique est l’affaire de tous : il est donc important d’<b>inf
 
 <p>Enfin, dans le cadre du plan de relance, la mission assure le pilotage opérationnel du Fonds Innovation et Transformation numériques et des guichets dédiés à la transformation numérique des écosystèmes (ITN2) et aux méthodes de travail numériques (SNAP5).</p>
 
-<p>Vous avez besoin d'un appui, de conseil, dans le cadre de vos stratégies numériques ? Vous souhaitez lancer un projet numérique de relance ? Contactez-nous à l'adresse <a href="mailto:transfo.dinum@modernisation.gouv.fr">transfo.dinum@modernisation.gouv.fr</a></p>
+<p>Vous avez besoin d'un appui, de conseil, dans le cadre de vos stratégies numériques ? Vous souhaitez lancer un projet numérique de relance ?</p> 
+<a href="mailto:transfo.dinum@modernisation.gouv.fr" alt="Contactez-nous à transfo.dinum@modernisation.gouv.fr - Ouvre une messagerie électronique" class="button">Contactez-nous à transfo.dinum@modernisation.gouv.fr</a>
 </div>
 <br>
 <i>Les Cafés Transfo sont un événement organisé dans le cadre du <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">programme TECH.GOUV</a>, et ont pour objectifs la mobilisation de l'intelligence collective et la diffusion de bonnes pratiques en matière de transformation numérique. Ils sont exclusivement destiné aux décideurs publics qui se sentent concernés par les grands enjeux du numérique et se veulent être un lieu de partage et d’échanges collaboratifs réguliers. La prochaine édition se tiendra à la rentrée 2021 !</i>
