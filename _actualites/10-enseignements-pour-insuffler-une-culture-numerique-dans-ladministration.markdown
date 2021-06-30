@@ -28,7 +28,7 @@ Le numérique se développe rapidement et est une composante incontournable de l
 
 Les services numériques doivent être conçus main dans la main avec les directions métiers et le développement des compétences des agents ne peut se faire sans une collaboration étroite avec les directions des ressources humaines. Des logiques de partenariats transverses, qu’incarnent très bien le ministère de la Transition écologique en organisant des périodes d’immersion des agents issus des directions métiers au sein de La Fabrique numérique, l’incubateur du ministère, pour développer leur culture « produit » et en co-construisant des parcours de formation avec la direction des ressources humaines.
 
-Cet engagement est soutenu par la [Mission Talents](https://www.numerique.gouv.fr/services/partagez-vos-talents-numeriques/) de la direction interministérielle du numérique.
+Cet engagement est soutenu par la Mission Talents de la direction interministérielle du numérique.
 
 <h2><li>Anticiper l’évolution des métiers, que ceux-ci soit issus de la filière numérique ou qu’ils en soient éloignés</li></h2>
 
@@ -62,7 +62,7 @@ La culture numérique est l’affaire de tous : il est donc important d’inform
 
 <h2><li>Saisir l’opportunité de la Relance pour lancer des projets !</li></h2>
 
-Les projets concrets pour insuffler une culture numérique au sein de l’administration qui ont été présentés au cours du 1er Café Transfo ont tous été financés par le plan France Relance, au titre des guichets « [Accompagner l’appropriation des méthodes de travail numériques au sein des équipes (SNAP5)](https://france-relance.transformation.gouv.fr/b07b-accompagner-lappropriation-des-methodes-de-tr "Accompagner l’appropriation des méthodes de travail numériques au sein des équipes (SNAP5) - Lien externe") » et « [Développer l’employabilité des agents publics dans la filière numérique (ITN4)](https://france-relance.transformation.gouv.fr/508d-developper-lemployabilite-des-agents-publics- "Développer l’employabilité des agents publics dans la filière numérique (ITN4) - Lien externe") ». Un moyen d’accélérer votre transformation et d’acculturer au mieux vos agents !
+Les projets concrets pour insuffler une culture numérique au sein de l’administration qui ont été présentés au cours du 1er Café Transfo ont tous été financés par le plan France Relance, au titre des guichets <a href="https://france-relance.transformation.gouv.fr/b07b-accompagner-lappropriation-des-methodes-de-tr" alt="Accompagner l’appropriation des méthodes de travail numériques au sein des équipes (SNAP5) - Lien externe">« Accompagner l’appropriation des méthodes de travail numériques au sein des équipes » (SNAP5) </a> et <a href="https://france-relance.transformation.gouv.fr/508d-developper-lemployabilite-des-agents-publics-" alt="Développer l’employabilité des agents publics dans la filière numérique (ITN4) - Lien externe">« Développer l’employabilité des agents publics dans la filière numérique (ITN4) »</a>. Un moyen d’accélérer votre transformation et d’acculturer au mieux vos agents !
 <br>
 </ol>
 
