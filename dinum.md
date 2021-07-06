@@ -76,8 +76,8 @@ function myFunction(id) {
     <li><b>Mission IDNUM&nbsp;:</b> Christine Balian</li>
     <li><b>Mission DATA&nbsp;:</b> Romain Talès</li>
     <li><b>Mission INFRA&nbsp;:</b> Paul-Emmanuel Caillard</li>
-    <li><b>Mission PILOT&nbsp;:</b> Xavier Albouy</li>
-    <li><b>Mission TALENTS</b></li>
+    <li><b>Mission PILOT&nbsp;:</b> Virginie Rozière</li>
+    <li><b>Mission TALENTS&nbsp;:</b> Soraya Saa</li>
     <li><b>Mission BETA&nbsp;:</b> Florian Delezenne</li>
     <li><b>Mission TRANSFO&nbsp;:</b> Patrick Ruestchmann</li>
   </ul><br></li>
@@ -94,13 +94,14 @@ function myFunction(id) {
   <ul>
     <li><b>Pôle Droit et Société&nbsp;:</b> Perica Sucevic</li>
     <li><b>Pôle Exploitation des Données&nbsp;:</b> Paul-Antoine Chevalier</li>
-    <li><b>Pôle Accompagnement et Communautés&nbsp;:</b> Soizic Pénicaud</li>
     <li><b>Pôle Ouverture et Partage des Données&nbsp;:</b> Romain Talès</li>
+    <li><b>Pôle Logiciels Libres</b></li>
   </ul><br></li>
 
 <li><b>Département Performance des services numériques (PSN)&nbsp;:</b> Florent Tournois.
   <ul>
-    <li><b>Pôle Conseil et maîtrise des risques</b></li>
+    <li><b>Pôle Opération, Production et Soutien</b></li>
+    <li><b>Pôle Conseil et maîtrise des risques&nbsp;:</b> Virginie Rozière</li>
     <li><b>Pôle Produits numériques partagés&nbsp;:</b> Jean-Louis Barthelémy</li>
     <li><b>Pôle Architecture et sécurité&nbsp;:</b> Mohsen Souissi</li>
     <li><b>Pôle Design des services numériques&nbsp;:</b> Marine Boudeau</li>
