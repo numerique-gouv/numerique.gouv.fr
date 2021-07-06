@@ -4,7 +4,7 @@ $('#contact-form').submit(function(event) {
   event.preventDefault();
 
   const params = {
-    from: $("input[name='from']").val(),
+    from: $("input[name='email']").val(),
     name: $("input[name='name']").val(),
     subject: $("input[name='subject']").val(),
     category: $("select[name='category']").val(),
