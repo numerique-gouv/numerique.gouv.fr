@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 18 juin 2021
+date_de_modification: 6 juillet 2021
 layout: page-annexe
 ---
 
@@ -27,6 +27,22 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Directeur/Directrice de projet SI - Messagerie collaborative de l'État et annuaire MAIA H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-si---messagerie-collaborative-de-l-tat-et-annuaire-maia-hf-reference-2021-649350/ "Directeur/Directrice de projet SI - Messagerie collaborative de l'État et annuaire MAIA H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Ingénieur-e réseau - Chargé-e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres-hf-reference-2021-649375/ "Ingénieur-e réseau - Chargé-e de relations ministères H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Ingénieur-e réseau - Résilience sites locaux H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---resilience-sites-locaux-hf-reference-2021-649316/ "Ingénieur-e réseau - Résilience sites locaux H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Responsable de la sécurité des systèmes d'informations (RSSI) H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-rssi-hf-reference-2021-649321/ "Responsable de la sécurité des systèmes d'informations (RSSI) H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Chargé/Chargée de développement du Lab IA](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-developpement-du-lab-ia-hf-reference-2021-635272/ "Chargé/Chargée de développement du Lab IA - H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -34,16 +50,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 * **[Chargé/Chargée de mission logiciels libres](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-logiciels-libres-hf-reference-2021-635259/ "Chargé/Chargée de mission logiciels libres - H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
-
-* **[Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet---architecte-technique--services-d-acces-internet-hf-reference-2021-557169/ "Chef/Cheffe de projet - Architecte technique / Services d'accès internet H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Ingénieur/Ingénieure sécurité réseau (SOC du réseau interministériel de l'État) 3 postes à pourvoir H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat--3-postes-a-pourvoir-hf-reference-2021-557187/ "Ingénieur/Ingénieure sécurité réseau (SOC du réseau interministériel de l'État) 3 postes à pourvoir H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>Poste basé en Ille et Vilaine (35)
-<br>
-
 
 
 
@@ -59,14 +65,8 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 <div class="encadre noir">
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
-<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p>  <p><strong> Pôle emploi</strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="/uploads/Directeur_maitrise_trajectoires_mise_en_oeuvre_H-F.pdf" title="Directeur/Directrice de la direction maîtrise des trajectoires et de la mise en œuvre des projets métier - H/F (PDF – 452&nbsp;ko)">Directeur/Directrice de la direction maîtrise des trajectoires et de la mise en œuvre des projets métier - H/F (PDF - 452&nbsp;ko)</a></strong><br>Cadre supérieur/Catégorie A+</li></ul>
-<p><strong> Direction des technologies et de l’innovation (DTI) - CNIL</strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://www.cnil.fr/fr/offre-demploi/cheffe-de-projet-maitrise-doeuvre-si-au-service-de-linformatique-interne-hf" title="Chef de projet maîtrise d'oeuvre SI au service de l'informatique interne - F/H - Lien externe">Chef de projet maîtrise d'oeuvre SI au service de l'informatique interne - F/H</a></strong><br>Cadre/Catégorie A</li></ul>
-<p><strong> Direction économie, marchés et numérique (DEN) - ARCEP</strong></p> 
+<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p>  <p><strong> Direction économie, marchés et numérique (DEN) - ARCEP</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/cheffe-de-l-unite-analyse-economique-et-intelligence-numerique-reference-2021-621708/" title="Chef de l'unité Analyse économique et intelligence numérique - F/H - Lien externe">Chef de l'unité Analyse économique et intelligence numérique - F/H</a></strong><br>Cadre/Catégorie A</li></ul>
 <p><strong> Secrétariat Général de la Défense et de la Sécurité Nationale (SGDSN)</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-maitrise-d-ouvrage-2-postes-reference-2021-557102/" title="Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H - Lien externe">Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H</a></strong><br>Cadre/Catégorie A</li></ul> 
-<p><strong>Direction générale des finances publiques (DGFiP)</strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://www.place-emploi-public.gouv.fr/offre-emploi/cheffe-de-projet--charge-e-de-mission-reference-2020-473064" title="Chef de projet / chargé de mission F/H - Lien externe">Chef de projet / chargé de mission - Mission France Recouvrement F/H</a></strong><br>Cadre/Catégorie A <br>Poste basé à Montreuil (93)</li></ul> 
 </div>
