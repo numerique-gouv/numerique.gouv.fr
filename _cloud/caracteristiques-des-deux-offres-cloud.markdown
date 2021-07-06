@@ -2,7 +2,6 @@
 title: Caractéristiques des deux offres Cloud
 date: 2021-06-04 14:17:00 +02:00
 permalink: "/cloud/caracteristiques"
-published: false
 menu:
   title: Caractéristiques en bref
 layout: cloud
