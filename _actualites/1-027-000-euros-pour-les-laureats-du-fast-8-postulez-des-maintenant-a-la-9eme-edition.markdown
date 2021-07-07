@@ -13,7 +13,7 @@ chapeau-text: |-
 
   Depuis sa création fin 2019, il a permis de soutenir la croissance de 32 Startups d’État et de Territoires et l’émergence de 3 incubateurs ministériels. La liste des lauréats est disponible ici.
 une-ou-diaporama:
-- image: "/uploads/2021_06_29_1200x675_fast_13sept_visuel_twitter.jpg"
+- image: "/uploads/2021_07_06_800x430_FAST_Visuel_13_septembre-1bd318.png"
 auteur: beta.gouv.fr
 redirection: https://blog.beta.gouv.fr/dinsic/2021/06/30/découvrez-les-lauréats-du-fast-8-et-postulez-au-fast-9/
 ---
