@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 6 juillet 2021
+date_de_modification: 7 juillet 2021
 layout: page-annexe
 ---
 
@@ -26,6 +26,26 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 {: .margin-top-4 .margin-bottom-0 .h3}
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
+
+* **[Architecte DevOps - H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-devops-hf-reference-2021-657670/ "Architecte DevOps - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé-e de communication interne - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-communication-interne-hf-reference-2021-657684/ "Chargé-e de communication interne - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé-e des opérations - Programme Entrepreneurs d'intérêt général (EIG) - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-des-operations---programme-entrepreneurs-d-interet-general-eig-hf-reference-2021-654786/ "Chargé-e des opérations - Programme Entrepreneurs d'intérêt général (EIG) - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Lead data scientist pour le Lab IA - H/F](https://place-emploi-public.gouv.fr/offre-emploi/lead-data-scientist-pour-le-lab-ia-hf-reference-2021-654686/ "Lead data scientist pour le Lab IA - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Architecte de systèmes d'information – 2 POSTES CDD 3ANS - H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-de-systemes-d-information--2-postes-cdd-3ans-reference-2021-620625/ "Architecte de systèmes d'information – 2 POSTES CDD 3ANS - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
 
 * **[Directeur/Directrice de projet SI - Messagerie collaborative de l'État et annuaire MAIA H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-si---messagerie-collaborative-de-l-tat-et-annuaire-maia-hf-reference-2021-649350/ "Directeur/Directrice de projet SI - Messagerie collaborative de l'État et annuaire MAIA H/F - Lien externe")**
 <br>Cadre/Catégorie A
