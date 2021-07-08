@@ -1,7 +1,7 @@
 ---
 title: Le Cloud externe
 date: 2021-07-08 11:25:00 +02:00
-permalink: "/services/cloud/"
+permalink: "/services/cloud/cloud-externe/"
 menu:
   title: Le Cloud externe
   weight: 40

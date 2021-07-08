@@ -1,6 +1,7 @@
 ---
 title: Cloud interne
 date: 2021-07-08 17:39:00 +02:00
+permalink: "/services/cloud/cloud-interne/"
 menu:
   title: Le Cloud interne
   weight: 50
