@@ -1,6 +1,22 @@
 ---
 title: Cloud interne
 date: 2021-07-08 17:39:00 +02:00
+menu:
+  title: Le Cloud interne
+  weight: 50
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
 
 **Le Cloud interne dédié aux services de l’État**
@@ -23,3 +39,9 @@ Offre une garantie de localisation du stockage, du traitement, de l’administra
 **RIE et Internet**
 Dispose de zones dédiées permettant d’être exposé soit au RIE, et ainsi de profiter d’un niveau de résilience élevé, soit à Internet.
 
+
+*Les caractéristiques de l’offre sont susceptibles d’évoluer au cours du temps.*
+
+
+
+<div align="center" style="margin-bottom: 40px"><b>Pour plus d’informations sur les modalités d’accès à cette offre ?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div>
