@@ -25,7 +25,7 @@ layout: cloud
 
 Mise à la disposition des ministères, des collectivités territoriales et de l’ensemble de la sphère publique, l’offre de Cloud externe leur donne accès aux catalogues de services des principaux fournisseurs de Cloud français et mondiaux.
 
-Accessible facilement via l’UGAP et issue de la collaboration avec la direction des achats de l’État (DAE) et la DINUM, cette offre comporte une variété de services d’infrastructure et de plateforme (IaaS et PaaS) et vous permet de choisir la solution qui vous convient le mieux.
+Accessible facilement via l’UGAP et issue de la collaboration avec la direction des achats de l’État (DAE) et la la direction interministérielle du numérique (DINUM), cette offre comporte une variété de services d’infrastructure et de plateforme (IaaS et PaaS) et vous permet de choisir la solution qui vous convient le mieux.
 
 Composé notamment d’offres qualifiées SecNumCloud, immunes contre toute loi extraterritoriale, et disposant de la certification HDS (Hébergeur de Données de Santé), le marché Cloud externe propose ainsi un large éventail de solutions et de garanties pour répondre à vos enjeux de sécurité.
 
