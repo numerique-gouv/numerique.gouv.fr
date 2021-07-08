@@ -4,7 +4,7 @@ date: 2021-07-08 11:25:00 +02:00
 permalink: "/services/cloud/"
 menu:
   title: Le Cloud externe
-  weight: 50
+  weight: 40
 style: |-
   .button {
   background-color: #0d5c98;
