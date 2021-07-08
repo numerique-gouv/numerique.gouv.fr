@@ -5,6 +5,7 @@ permalink: "/cloud/caracteristiques"
 position: 1
 menu:
   title: Caractéristiques en bref
+  weight: 20
 layout: cloud
 ---
 
