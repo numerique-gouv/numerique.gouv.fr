@@ -9,14 +9,14 @@ menu:
 layout: cloud
 ---
 
-Quelle offre Cloud choisir ? Laquelle correspond le mieux à votre besoin, à votre produit ?
+Quelle offre Cloud correspond le mieux à votre besoin, à votre produit ?
 Nous avons résumé dans le tableau ci-dessous les caractéristiques principales de chacune des offres de cloud. Parmi ces critères, la compatibilité avec des données sensibles ou personnelles, et le caractère essentiel du service rendu par le produit sont les facteurs indispensables à prendre en compte. Vous trouverez sous le tableau le détail des caractéristiques présentées dans le tableau.
 
-## Tableau des caractéristiques des offres Cloud
+### Tableau des caractéristiques des offres Cloud
 
 
 
-## Détails des caractéristiques
+### Détails des caractéristiques
 
 **Catalogue de services :** Les offres de Cloud externe, issue des catalogues de services des principaux acteurs des marchés français, européen et mondial, propose une plus grande diversité d’infrastructure, de plateformes et de services innovants que les offres de Cloud interne.
 
