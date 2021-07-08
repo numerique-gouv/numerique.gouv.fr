@@ -20,7 +20,7 @@ L’adoption du Cloud doit permettre de faciliter la maîtrise de la chaîne de 
 
 L’inscription durable du virage vers le Cloud poursuit un objectif principal : répondre aux attentes légitimes des Français d’exemplarité de l’État en matière de **protection de leurs données** ainsi qu’en terme de garantie de la **continuité du service public**, deux prérequis à leur confiance dans le service public numérique.
 
-## La nouvelle doctrine Cloud au centre
+## La doctrine Cloud au centre
 Avec cette doctrine, le Cloud devient la méthode d’hébergement par défaut pour les services numériques de l’État, pour tout nouveau produit numérique et pour les produits connaissant une évolution substantielle. Les recrutements et les programmes de formation continue destinés aux agents publics dans la filière économique comporteront un volet Cloud.
 
 Les services numériques des administrations seront hébergés sur l’un des deux cloud interministériels internes de l’État ou sur les offres de Cloud proposées par les industriels satisfaisant des critères stricts de sécurité.
