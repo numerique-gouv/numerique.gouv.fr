@@ -1,7 +1,7 @@
 ---
 title: Caractéristiques des deux offres Cloud
 date: 2021-06-04 14:17:00 +02:00
-permalink: services/cloud/caracteristiques
+permalink: "/services/cloud/caracteristiques"
 position: 1
 menu:
   title: Caractéristiques en bref
