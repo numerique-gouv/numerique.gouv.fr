@@ -5,12 +5,25 @@ permalink: "/services/cloud/"
 menu:
   title: Le Cloud externe
   weight: 50
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 layout: cloud
 ---
 
 **Le Cloud pour l’ensemble des acteurs publics**
 
-Mise à la disposition des ministères, des collectivités territoriales et de l’ensemble de la sphère publique, l’offre de Cloud externe leur donne accès aux catalogues de services des principaux fournisseurs de Cloud français et mondiaux. 
+Mise à la disposition des ministères, des collectivités territoriales et de l’ensemble de la sphère publique, l’offre de Cloud externe leur donne accès aux catalogues de services des principaux fournisseurs de Cloud français et mondiaux.
 
 Accessible facilement via l’UGAP et issue de la collaboration avec la direction des achats de l’État (DAE) et la DINUM, cette offre comporte une variété de services d’infrastructure et de plateforme (IaaS et PaaS) et vous permet de choisir la solution qui vous convient le mieux.
 
@@ -38,7 +51,6 @@ Dispose d'une large gamme de services communs et innovants afin de répondre à 
 
 Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits.
 
-*Certaines de ces caractéristiques sont disponibles uniquement auprès de certains fournisseurs. Les caractéristiques de l’offre sont susceptibles d’évoluer au cours du temps, ainsi que la composition du panel d’offres présentées au sein du marché Cloud externe.* \
- \
+*Certaines de ces caractéristiques sont disponibles uniquement auprès de certains fournisseurs. Les caractéristiques de l’offre sont susceptibles d’évoluer au cours du temps, ainsi que la composition du panel d’offres présentées au sein du marché Cloud externe.*
 
-**> [Découvrir l’offre de Cloud externe](https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html)**
+<div align="center" style="margin-bottom: 40px"><a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Accéder l’offre de Cloud externe</b></a></div>
