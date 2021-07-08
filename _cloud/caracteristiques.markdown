@@ -18,7 +18,7 @@ Nous avons résumé dans le tableau ci-dessous les caractéristiques principales
 
 ## Détails des caractéristiques
 
-**Catalogue de services : **Les offres de Cloud externe, issue des catalogues de services des principaux acteurs des marchés français, européen et mondial, propose une plus grande diversité d’infrastructure, de plateformes et de services innovants que les offres de Cloud interne.
+**Catalogue de services :** Les offres de Cloud externe, issue des catalogues de services des principaux acteurs des marchés français, européen et mondial, propose une plus grande diversité d’infrastructure, de plateformes et de services innovants que les offres de Cloud interne.
 
 **Modèles économiques :** Le Cloud offre une grande variété de tarification. Paiement à l’usage, instances à coût marginal, prix réduits en contrepartie d’une longue durée d’engagement : chaque fournisseur a ses propres caractéristiques qu’il convient d’analyser en détail pour optimiser sa facture, le Cloud externe offrant la plus grande diversité.
 
