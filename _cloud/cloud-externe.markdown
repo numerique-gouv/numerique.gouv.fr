@@ -1,7 +1,10 @@
 ---
-title: Cloud externe
+title: Le Cloud externe
 date: 2021-07-08 11:25:00 +02:00
 permalink: "/services/cloud/"
+menu:
+  title: Le Cloud externe
+  weight: 50
 layout: cloud
 ---
 
