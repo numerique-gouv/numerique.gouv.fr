@@ -1,11 +1,11 @@
 ---
 title: 'Cloud au centre : la stratégie de l''État'
 date: 2021-07-08 16:42:00 +02:00
-permalink: "/services/cloud/doctrine/"
+permalink: "/services/cloud/strategie/"
 layout: cloud
 ---
 
-Avec [l’adoption de la doctrine « Cloud au centre »](https://www.numerique.gouv.fr/espace-presse/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/) en mai 2021, **le Gouvernement a fait du Cloud le choix d’hébergement par défaut** pour tout nouveau projet numérique au sein de l’État, permettant ainsi d’accélérer la transformation publique au bénéfice des usagers et dans le strict respect de la cybersécurité et de la protection des données des citoyens et des entreprises.
+Avec [l’adoption de la doctrine « Cloud au centre »](https://www.numerique.gouv.fr/espace-presse/le-gouvernement-annonce-sa-strategie-nationale-pour-le-cloud/) en mai 2021, **le Gouvernement fait du Cloud le choix d’hébergement par défaut** pour tout nouveau projet numérique au sein de l’État, permettant ainsi d’accélérer la transformation publique au bénéfice des usagers et dans le strict respect de la cybersécurité et de la protection des données des citoyens et des entreprises.
 
 L’État doit **mobiliser les meilleures pratiques et innovations numériques** pour répondre aux enjeux d’amélioration du service public. Le [doctrine d’utilisation de l’informatique en nuage par l’État de novembre 2018](/espace-presse/le-gouvernement-annonce-sa-strategie-en-matiere-de-cloud/) faisait du Cloud un levier prioritaire de la transformation numérique de l’État et a permis d’obtenir des résultats tangibles :
 
