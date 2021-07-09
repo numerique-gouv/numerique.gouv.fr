@@ -29,26 +29,21 @@ layout: cloud
 
 Composé notamment d’offres qualifiées **SecNumCloud**, immunes contre toute loi extraterritoriale, et disposant de la **certification HDS** (Hébergeur de Données de Santé), le marché Cloud externe propose ainsi un large éventail de solutions et de garanties pour répondre à vos enjeux de sécurité.
 
-**Les caractéristiques du Cloud externe**
+### Les caractéristiques du Cloud externe
 
 **SecNumCloud**
-
 Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. [> Retrouvez la liste des fournisseurs qualifiés SecNumCloud.](https://www.ssi.gouv.fr/administration/qualifications/prestataires-de-services-de-confiance-qualifies/prestataires-de-service-dinformatique-en-nuage-secnumcloud/)
 
 **Droit applicable**
-
 Offre une possibilité de localisation du stockage, du traitement, de l’administration et de la supervision dans l’Union Européenne. Dispose de fournisseurs exempts de toutes législations imposant le transfert de données personnelles hors Union Européenne.
 
 **Localisation France ou UE**
-
 Offre une possibilité de localisation du stockage, du traitement, de l’administration et de la supervision dans l’Union Européenne.
 
 **Richesse du catalogue**
-
 Dispose d'une large gamme de services communs et innovants afin de répondre à l'ensemble des besoins de la sphère publique
 
 **Appairage direct**
-
 Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits.
 
 *Certaines de ces caractéristiques sont disponibles uniquement auprès de certains fournisseurs des offres de Cloud externe de confiance. Les caractéristiques de l’offre sont susceptibles d’évoluer au cours du temps, ainsi que la composition du panel d’offres présentées au sein du marché Cloud externe.*
