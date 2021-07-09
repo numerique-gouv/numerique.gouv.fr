@@ -23,7 +23,7 @@ style: |2-
   .wrapper {
     display: grid;
     margin: 0 auto;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-auto-rows: minmax(150px, auto);
   }
 
@@ -90,8 +90,8 @@ Ce critère permet d’accéder à des fournisseurs non assujettis à ces régle
 <div class="wrapper">
 <div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
 <img src="/uploads/Video.svg"/>
-</figure><div class="titre-critere">Vidéo</div>
-Organiser des séminaires, formations, conférences, ateliers… en vidéo
+</figure><div class="titre-critere">Catalogue de services</div>
+Les offres de Cloud externe, issue des catalogues de services des principaux acteurs des marchés français, européen et mondial, propose une plus grande diversité d’infrastructure, de plateformes et de services innovants que les offres de Cloud interne.
 </div>
 <div class="panel"><figure class='image-center' style='width: 18%;'>
 <img src="/uploads/Audio.svg"/></figure><div class="titre-critere">Audio</div>
