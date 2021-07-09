@@ -8,7 +8,7 @@ menu:
 layout: cloud
 ---
 
-## Une offre qui s’adapte aux besoins des acteurs publics
+### Une offre qui s’adapte aux besoins des acteurs publics
 Afin de développer l’usage du Cloud par les administrations, les établissements publics et les collectivités territoriales, l’État a défini une stratégie répondant aux différents enjeux de souveraineté numérique et de maîtrise des données.
 
 Cette stratégie, issue initialement de [la circulaire sur l’utilisation de l’informatique en nuage par l’État du 8 novembre 2018](https://numerique.gouv.fr/actualites/decouvrez-la-doctrine-dutilisation-de-linformatique-en-nuage-par-ladministration/), a été complétée avec la doctrine Cloud au centre de mai 2021 faisant du Cloud le mode d'hébergement par défaut pour les nouveaux projets. Cette doctrine se décline en deux offres qui se distinguent par la richesse des catalogues de services et différentes modalités de disponibilité, de réversibilité et de protection de vos données.
