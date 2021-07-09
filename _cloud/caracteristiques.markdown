@@ -6,6 +6,46 @@ position: 1
 menu:
   title: Quelle offre Cloud choisir ?
   weight: 30
+style: |2-
+
+  .wrapper {
+    max-width: 940px;
+    margin: 0 20px;
+    display: grid;
+    grid-gap: 10px;
+  }
+
+  .wrapper {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .wrapper {
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-auto-rows: minmax(150px, auto);
+  }
+
+  .panel {
+    /* needed for the flex layout*/
+    margin-left: 5px;
+    margin-right: 5px;
+    flex: 1 1 200px;
+  }
+
+  .wrapper > * {
+    padding: 10px;
+    font-size: 100%;
+    margin-bottom: 10px;
+  text-align: center;
+  }
+
+
+  .titre-critere {
+    color: #095D9C;
+    font-weight: bold;
+  }
 layout: cloud
 ---
 
@@ -44,3 +84,44 @@ Ce critère permet d’accéder à des fournisseurs non assujettis à ces régle
 **Exposition possible :** L’offre de Cloud interne est construite sur une double infrastructure comprenant deux zones distinctes : l’une exposée sur le RIE et l’autre sur internet. L’offre de Cloud externe est exposée uniquement sur internet.
 
 **Accès à l’espace d’administration :** L’accès à l’espace d’administration des ressources du Cloud interne est possible à travers le Réseau Interministériel de l’État (RIE). Les ressources du Cloud externe sont administrables depuis les plateformes des fournisseurs de services Cloud, depuis l’accès internet du RIE ou depuis internet.
+
+
+
+<div class="wrapper">
+<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
+<img src="/uploads/Video.svg"/>
+</figure><div class="titre-critere">Vidéo</div>
+Organiser des séminaires, formations, conférences, ateliers… en vidéo
+</div>
+<div class="panel"><figure class='image-center' style='width: 18%;'>
+<img src="/uploads/Audio.svg"/></figure><div class="titre-critere">Audio</div>
+Communiquer avec un son haute qualité.
+<br>Rejoindre l’audio par téléphone si besoin</div>
+<div class="panel"><figure class='image-center' style='width: 30%;'>
+<img src="/uploads/Presentation.svg"/></figure><div class="titre-critere">Présentation</div>
+Diffuser vos présentations et les annoter en direct</div>
+<div class="panel"><figure class='image-center' style='width: 25%;'>
+<img src="/uploads/Enregistrement.svg"/></figure><div class="titre-critere">Enregistrement</div>
+Enregistrer vos webinaires, et partager la rediffusion</div>
+<div class="panel"><figure class='image-center' style='width: 24%;'>
+<img src="/uploads/Upload_de_documents.svg"/></figure><div class="titre-critere">Upload de documents</div>
+Téléverser vos supports de présentation et les proposer en téléchargement aux participants</div>
+<div class="panel"><figure class='image-center' style='width: 27%;'>
+<img src="/uploads/Partage_decran.svg"/></figure><div class="titre-critere">Partage d’écran</div>
+Diffuser une fenêtre ou tout l’écran de votre ordinateur : site web, application…</div>
+<div class="panel"><figure class='image-center' style='width: 30%;'>
+<img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-critere">Discussion en ligne</div>
+Envoyer des messages en privé ou en discussion publique</div>
+<div class="panel"><figure class='image-center' style='width: 25%;'>
+<img src="/uploads/Notes_partagees.svg"/></figure><div class="titre-critere">Notes partagées</div>
+Prendre des notes et éditer le contenu en groupe, en simultané</div>
+<div class="panel"><figure class='image-center' style='width: 27%;'>
+<img src="/uploads/Tableau_blanc_multi_utilisateurs.svg"/></figure><div class="titre-critere">Tableau blanc multi-utilisateurs</div>
+Annoter ou dessiner sur une présentation ou un écran blanc, seul ou à plusieurs</div>
+<div class="panel"><figure class='image-center' style='width: 30%;'>
+<img src="/uploads/Sondage.svg"/></figure><div class="titre-critere">Sondage</div>Réaliser rapidement un sondage, soumettre un point au vote à tout moment</div>
+<div class="panel"><figure class='image-center' style='width: 19%;'>
+<img src="/uploads/Main_levee.svg"/></figure><div class="titre-critere">Main levée</div>Lever la main pour intervenir, poser une question, sans interrompre l’animateur</div>
+<div class="panel"><figure class='image-center' style='width: 35%;'>
+<img src="/uploads/Diffusion_de_videos.svg"/></figure><div class="titre-critere">Diffusion de vidéos</div>Diffuser une vidéo depuis n’importe quelle plateforme vidéo en ligne</div>
+</div>
