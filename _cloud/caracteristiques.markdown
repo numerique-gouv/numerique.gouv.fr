@@ -74,7 +74,7 @@ Les services essentiels de l’État se caractérisent par un fort besoin de dis
 <div class="panel"><figure class='image-center' style='width: 24%;'>
 <img src="/uploads/Upload_de_documents.svg"/></figure><div class="titre-critere">Compatibilité données personnelles </div>
 Collecter et traiter des données personnelles au sens du RGPD implique de prendre des mesures pour garantir une utilisation de ces données respectueuses de la vie privée des personnes concernées. En ce sens, l’hébergement des données personnelles sur les deux offres est possible mais relève de la responsabilité de l’administration propriétaire du service et de sa mise en conformité aux règles de protection de données.
-<a href="http://www.cnil.fr/" alt="Consulter cnil.fr - Lien externe">Consulter cnil.fr</a> pour plus d’informations sur les méthodes, outils et documents de référence disponibles pour engager votre démarche de conformité RGPD.
+<br>Consulter <a href="http://www.cnil.fr/" alt="le site de la CNIL - Lien externe">le site de la CNIL</a> pour plus d’informations sur les méthodes, outils et documents de référence disponibles pour engager votre démarche de conformité RGPD.
 <br>Pour les données personnelles dont la confidentialité ou l’intégrité est particulièrement sensible, se référer au critère « compatibilité données sensibles » ci-dessus.
 </div>
 <div class="panel"><figure class='image-center' style='width: 27%;'>
