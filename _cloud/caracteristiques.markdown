@@ -92,7 +92,7 @@ Le référentiel SecNumCloud, utilisé dans le cadre de la qualification de pres
 <br>La recherche de conformité au référentiel SecNumCloud n’exclut ni l’application de la législation et de la réglementation nationale, ni l’application des règles générales de sécurité imposées à chaque organisme.
 </div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-critere">Droit exclusivement applicable</div>
+<img src="/uploads/Droit.svg"/></figure><div class="titre-critere">Droit exclusivement applicable</div>
 Certains fournisseurs de Cloud externe sont soumis à une législation d’un pays hors Union européenne imposant le transfert des données à caractère personnel aux autorités publiques (ex. Cloud Act). 
 <br>Ce critère permet d’accéder à des fournisseurs non assujettis à ces réglementations.
 </div>
