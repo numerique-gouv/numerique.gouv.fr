@@ -72,8 +72,11 @@ L’utilisation du Cloud externe générique pour des données particulièrement
 <img src="/uploads/Services_essentiels.svg"/></figure><div class="titre-critere">Compatibilité services essentiels</div>
 Les services essentiels de l’État se caractérisent par un fort besoin de disponibilité, quelles que soient les circonstances. Pour la garantie de disponibilité dans des circonstances normales, le choix pourra s’opérer en fonction des niveaux de service constatés des différentes offres des Cloud interne et Cloud externe ainsi que du niveau de résilience de chacun des services. Par ailleurs, l’État n’ayant que des garanties limitées sur les changements de stratégie des opérateurs du Cloud externe, les services essentiels qui y seraient hébergés mériteraient de faire l’objet d’une analyse de risques et des possibilités de bascules vers des solutions de repli.</div>
 <div class="panel"><figure class='image-center' style='width: 24%;'>
-<img src="/uploads/Upload_de_documents.svg"/></figure><div class="titre-critere">Upload de documents</div>
-Téléverser vos supports de présentation et les proposer en téléchargement aux participants</div>
+<img src="/uploads/Upload_de_documents.svg"/></figure><div class="titre-critere">Compatibilité données personnelles </div>
+Collecter et traiter des données personnelles au sens du RGPD implique de prendre des mesures pour garantir une utilisation de ces données respectueuses de la vie privée des personnes concernées. En ce sens, l’hébergement des données personnelles sur les deux offres est possible mais relève de la responsabilité de l’administration propriétaire du service et de sa mise en conformité aux règles de protection de données.
+<a href="http://www.cnil.fr/" alt="Consulter cnil.fr - Lien externe">Consulter cnil.fr</a> pour plus d’informations sur les méthodes, outils et documents de référence disponibles pour engager votre démarche de conformité RGPD.
+<br>Pour les données personnelles dont la confidentialité ou l’intégrité est particulièrement sensible, se référer au critère « compatibilité données sensibles » ci-dessus.
+</div>
 <div class="panel"><figure class='image-center' style='width: 27%;'>
 <img src="/uploads/Partage_decran.svg"/></figure><div class="titre-critere">Partage d’écran</div>
 Diffuser une fenêtre ou tout l’écran de votre ordinateur : site web, application…</div>
