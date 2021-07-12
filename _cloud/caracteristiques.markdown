@@ -38,7 +38,6 @@ style: |2-
     padding: 10px;
     font-size: 100%;
     margin-bottom: 10px;
-  text-align: center;
   }
 
 
@@ -70,7 +69,7 @@ Le Cloud offre une grande variété de tarification. Paiement à l’usage, inst
 L’utilisation du Cloud externe générique pour des données particulièrement confidentielles ou dont l’intégrité est importante est a priori déconseillée. Si cette offre est néanmoins envisagée, son utilisation devra faire l’objet d’une analyse de risque approfondie et de mesures complémentaires de protection adaptées. L'offre de Cloud externe de confiance peut être préconisée comme alternative à l'utilisation de l'offre de Cloud interne pour ce type de données.</div>
 <div class="panel"><figure class='image-center' style='width: 25%;'>
 <img src="/uploads/Services_essentiels.svg"/></figure><div class="titre-critere">Compatibilité services essentiels</div>
-Les services essentiels de l’État se caractérisent par un fort besoin de disponibilité, quelles que soient les circonstances. Pour la garantie de disponibilité dans des circonstances normales, le choix pourra s’opérer en fonction des niveaux de service constatés des différentes offres des Cloud interne et Cloud externe ainsi que du niveau de résilience de chacun des services. Par ailleurs, l’État n’ayant que des garanties limitées sur les changements de stratégie des opérateurs du Cloud externe, les services essentiels qui y seraient hébergés mériteraient de faire l’objet d’une analyse de risques et des possibilités de bascules vers des solutions de repli.</div>
+Les services essentiels de l’État se caractérisent par un fort besoin de disponibilité, quelles que soient les circonstances. Pour la garantie de disponibilité dans des circonstances normales, le choix peut s’opérer en fonction des niveaux de service constatés des différentes offres des Cloud interne et Cloud externe ainsi que du niveau de résilience de chacun des services. <br>Par ailleurs, l’État n’ayant que des garanties limitées sur les changements de stratégie des opérateurs du Cloud externe, les services essentiels qui y seraient hébergés mériteraient de faire l’objet d’une analyse de risques et des possibilités de bascules vers des solutions de repli.</div>
 <div class="panel"><figure class='image-center' style='width: 24%;'>
 <img src="/uploads/Donnees_personnelles.svg"/></figure><div class="titre-critere">Compatibilité données personnelles </div>
 Collecter et traiter des données personnelles au sens du RGPD implique de prendre des mesures pour garantir une utilisation de ces données respectueuses de la vie privée des personnes concernées. En ce sens, l’hébergement des données personnelles sur les deux offres est possible mais relève de la responsabilité de l’administration propriétaire du service et de sa mise en conformité aux règles de protection de données.
@@ -84,8 +83,10 @@ L’offre de Cloud externe intègre plusieurs fournisseurs de services Cloud dis
 <img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-critere">Discussion en ligne</div>
 Envoyer des messages en privé ou en discussion publique</div>
 <div class="panel"><figure class='image-center' style='width: 25%;'>
-<img src="/uploads/Notes_partagees.svg"/></figure><div class="titre-critere">Notes partagées</div>
-Prendre des notes et éditer le contenu en groupe, en simultané</div>
+<img src="/uploads/Notes_partagees.svg"/></figure><div class="titre-critere">Qualification SecNumCloud</div>
+Le référentiel SecNumCloud, utilisé dans le cadre de la qualification de prestataires de Cloud délivrée par l’ANSSI, décrit le socle minimal de garanties sur les compétences de fournisseur de services Cloud et de son personnel. La conformité du service à ce référentiel permet d’apprécier la qualité de la prestation et la confiance qu’il est possible de lui accorder.
+<br>La recherche de conformité au référentiel SecNumCloud n’exclut ni l’application de la législation et de la réglementation nationale, ni l’application des règles générales de sécurité imposées à chaque organisme.
+</div>
 <div class="panel"><figure class='image-center' style='width: 27%;'>
 <img src="/uploads/Tableau_blanc_multi_utilisateurs.svg"/></figure><div class="titre-critere">Tableau blanc multi-utilisateurs</div>
 Annoter ou dessiner sur une présentation ou un écran blanc, seul ou à plusieurs</div>
