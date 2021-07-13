@@ -47,7 +47,7 @@ style: |-
   .main-timeline .timeline-content:before,
   .main-timeline .timeline-content:after{
       content: '';
-      background: #FF6326;
+      background: #078280;
       height: 100%;
       width: 15px;
       position: absolute;
@@ -67,7 +67,7 @@ style: |-
   .main-timeline .timeline-content:hover{ text-decoration: none; }
   .main-timeline .timeline-icon{
       color: #fff;
-      background: #FF6326;
+      background: #078280;
       font-size: 45px;
       text-align: center;
       line-height: 108px;
@@ -87,7 +87,7 @@ style: |-
       align-items: center;
   }
   .main-timeline .title{
-      color: #FF6326;
+      color: #078280;
       font-size: 22px;
       font-weight: 700;
       margin: 0 0 7px 0;
@@ -184,7 +184,7 @@ style: |-
       padding-left: 5px;
   }
   .fond-orange > strong {
-      background: #FF6326
+      background: #078280
   }
   .fond-bleu > strong {
       background: #00b9f2
@@ -308,24 +308,6 @@ TEST 2
 <h3 class="title">Richesse du catalogue</h3>
 <p class="description">Dispose d’une large gamme de services communs et innovants afin de répondre à l’ensemble des besoins de la sphère publique
 </p>
-</div>
-</div>
-<div class="timeline">
-<div class="timeline-content">
-<div class="timeline-icon">
-<img src="/uploads/conseil-strategie-transformation-numerique/Etape-4-blanc-2.png" alt="Etape 4" />
-</div>
-<h3 class="title">Appairage direct</h3>
-<p class="description">Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits</p>
-</div>
-</div>
-<div class="timeline">
-<div class="timeline-content">
-<div class="timeline-icon">
-<img src="/uploads/conseil-strategie-transformation-numerique/Etape-4-blanc-2.png" alt="Etape 4" />
-</div>
-<h3 class="title">Appairage direct</h3>
-<p class="description">Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits</p>
 </div>
 </div>
 <div class="timeline">
