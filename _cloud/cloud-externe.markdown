@@ -5,7 +5,7 @@ permalink: "/services/cloud/cloud-externe/"
 menu:
   title: Le Cloud externe
   weight: 40
-style: |
+style: |-
   .button {
   background-color: #0d5c98;
   border: 1px solid white;
@@ -72,7 +72,6 @@ style: |
       color: #16BCB0;
       font-size: 20px;
       font-weight: 500;
-      text-transform: uppercase;
       letter-spacing: 0.5px;
       margin: 0 0 5px;
   }
@@ -118,6 +117,198 @@ style: |
           left: 10px;
           top: -90px;
       }
+  }
+
+
+  TEST 2
+
+  .main-timeline{
+      font-family: "Open Sans", Arial, sans-serif;
+      position: relative;
+  }
+  .main-timeline:after{
+      content: '';
+      display: block;
+      clear: both;
+  }
+  .main-timeline .timeline{
+      width: 60%;
+      padding: 0 0 0 10px;
+      margin: 0 30px 20px 0;
+      float: left;
+      position: relative;
+      z-index: 1;
+  }
+  .main-timeline .timeline-content{
+      color: #333;
+      background-color: #f5f5f5;
+      min-height: 150px;
+      padding: 20px 70px 20px 15px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+      display: block;
+  }
+  .main-timeline .timeline-content:before,
+  .main-timeline .timeline-content:after{
+      content: '';
+      background: #FF6326;
+      height: 100%;
+      width: 15px;
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: -1;
+  }
+  .main-timeline .timeline-content:after{
+      height: 150px;
+      width: 150px;
+      border-radius: 50%;
+      transform: translateY(-50%);
+      top: 50%;
+      left: auto;
+      right: -75px;
+  }
+  .main-timeline .timeline-content:hover{ text-decoration: none; }
+  .main-timeline .timeline-icon{
+      color: #fff;
+      background: #FF6326;
+      font-size: 45px;
+      text-align: center;
+      line-height: 108px;
+      height: 105px;
+      width: 105px;
+      border-radius: 50%;
+      box-shadow: 0 0 0 8px #fff;
+      transform: translateY(-50%);
+      position: absolute;
+      top: 50%;
+      right: -52px;
+  }
+  .main-timeline .timeline-icon {
+      padding: 1rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .main-timeline .title{
+      color: #FF6326;
+      font-size: 22px;
+      font-weight: 700;
+      text-transform: uppercase;
+      margin: 0 0 7px 0;
+  }
+  .main-timeline .description{
+      font-size: 14px;
+      margin: 0;
+  }
+  .main-timeline .timeline:nth-child(even){
+      float: right;
+      padding: 0 10px 0 0;
+      margin: 0 0 20px 30px;
+  }
+  .main-timeline .timeline:nth-child(even) .timeline-content{ padding: 20px 15px 20px 70px; }
+  .main-timeline .timeline:nth-child(even) .timeline-content:before{
+      left: auto;
+      right: 0;
+  }
+  .main-timeline .timeline:nth-child(even) .timeline-content:after{
+      right: auto;
+      left: -75px;
+  }
+  .main-timeline .timeline:nth-child(even) .timeline-icon{
+      right: auto;
+      left: -52px;
+  }
+  .main-timeline .timeline:nth-child(4n+2) .timeline-content:before,
+  .main-timeline .timeline:nth-child(4n+2) .timeline-content:after,
+  .main-timeline .timeline:nth-child(4n+2) .timeline-icon{
+      background: #008198;
+  }
+  .main-timeline .timeline:nth-child(4n+2) .title{ color: #008198; }
+  .main-timeline .timeline:nth-child(4n+3) .timeline-content:before,
+  .main-timeline .timeline:nth-child(4n+3) .timeline-content:after,
+  .main-timeline .timeline:nth-child(4n+3) .timeline-icon{
+      background: #154A84;
+  }
+  .main-timeline .timeline:nth-child(4n+3) .title{ color: #154A84; }
+  .main-timeline .timeline:nth-child(4n+4) .timeline-content:before,
+  .main-timeline .timeline:nth-child(4n+4) .timeline-content:after,
+  .main-timeline .timeline:nth-child(4n+4) .timeline-icon{
+      background: #FE4954;
+  }
+  .main-timeline .timeline:nth-child(4n+4) .title{ color: #FE4954; }
+  @media screen and (max-width:767px){
+      .main-timeline .timeline,
+      .main-timeline .timeline:nth-child(even){
+          width: 100%;
+          padding: 0 75px 0 30px;
+          margin: 0 0 20px;
+      }
+      .main-timeline .timeline:nth-child(even){ padding: 0 30px 0 75px; }
+      .main-timeline .timeline .timeline-content:after{ right: 0; }
+      .main-timeline .timeline:nth-child(even) .timeline-content:after{ left: 0; }
+      .main-timeline .timeline .timeline-icon{ right: 20px; }
+      .main-timeline .timeline:nth-child(even) .timeline-icon{ left: 20px; }
+  }
+  @media screen and (max-width:567px){
+      .main-timeline .timeline{ padding: 0 35px 0 10px; }
+      .main-timeline .timeline:nth-child(even){ padding: 0 10px 0 30px; }
+      .main-timeline .timeline .timeline-content{ padding: 30px 50px 30px 20px; }
+      .main-timeline .timeline:nth-child(even) .timeline-content{ padding: 30px 20px 30px 50px; }
+      .main-timeline .timeline .timeline-content:after{
+          height: 80px;
+          width: 80px;
+          right: 0;
+      }
+      .main-timeline .timeline:nth-child(even) .timeline-content:after{ left: 0; }
+      .main-timeline .timeline .timeline-icon{
+          font-size: 30px;
+          line-height: 50px;
+          height: 50px;
+          width: 50px;
+          box-shadow: 0 0 0 5px #fff;
+          right: 20px;
+          right: 15px;
+          padding: 5px;
+      }
+      .main-timeline .timeline:nth-child(even) .timeline-icon{
+          left: 15px;
+          padding: 5px;
+      }
+      .main-timeline .title{ font-size: 18px; }
+  }
+  .titre-couleur > strong {
+      color: #fff;
+      padding-right: 5px;
+      padding-left: 5px;
+  }
+  .fond-orange > strong {
+      background: #FF6326
+  }
+  .fond-bleu > strong {
+      background: #00b9f2
+  }
+  .fond-rouge > strong {
+      background: #ff3333
+  }
+  .fond-vert > strong {
+      background: #36adb4
+  }
+
+  .bonnes-raisons {
+    margin: auto;
+    display: flex;
+    align-items: center;
+  }
+
+  .bonnes-raisons > div {
+    margin: auto;
+  }
+
+  .bonnes-raisons > div > .raison {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 25px 0;
   }
 layout: cloud
 ---
@@ -177,4 +368,55 @@ Offre la possibilité d’établir une connexion entre votre réseau et celui du
             </div>
         </div>
     </div>
+</div>
+
+
+TEST 2
+
+## Les caractéristiques du Cloud externe
+{: .margin-bottom-2}
+<div class="row">
+<div class="col-md-12">
+<div class="main-timeline">
+<div class="timeline">
+<div class="timeline-content">
+<div class="timeline-icon">
+<img src="/uploads/conseil-strategie-transformation-numerique/Etape-1-blanc-2.png" alt="Etape 1" />
+</div>
+<h3 class="title">SecNumCloud</h3>
+<p class="description">Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. > Retrouvez la liste des fournisseurs qualifiées SecNumCloud
+</p>
+</div>
+</div>
+<div class="timeline">
+<div class="timeline-content">
+<div class="timeline-icon">
+<img src="/uploads/conseil-strategie-transformation-numerique/Etape-2-blanc-2.png" alt="Etape 2" />
+</div>
+<h3 class="title">Droit applicable</h3>
+<p class="description">Dispose de fournisseurs exempts de toutes législations imposant le transfert de données personnelles hors Union européenne
+</p>
+</div>
+</div>
+<div class="timeline">
+<div class="timeline-content">
+<div class="timeline-icon">
+<img src="/uploads/conseil-strategie-transformation-numerique/Etape-3-blanc-2.png" alt="Etape 3" />
+</div>
+<h3 class="title">Richesse du catalogue</h3>
+<p class="description">Dispose d’une large gamme de services communs et innovants afin de répondre à l’ensemble des besoins de la sphère publique
+</p>
+</div>
+</div>
+<div class="timeline">
+<div class="timeline-content">
+<div class="timeline-icon">
+<img src="/uploads/conseil-strategie-transformation-numerique/Etape-4-blanc-2.png" alt="Etape 4" />
+</div>
+<h3 class="title">Appairage direct</h3>
+<p class="description">Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits</p>
+</div>
+</div>
+</div>
+</div>
 </div>
