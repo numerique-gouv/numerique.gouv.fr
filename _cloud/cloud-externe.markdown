@@ -90,7 +90,6 @@ style: |-
       color: #FF6326;
       font-size: 22px;
       font-weight: 700;
-      text-transform: uppercase;
       margin: 0 0 7px 0;
   }
   .main-timeline .description{
