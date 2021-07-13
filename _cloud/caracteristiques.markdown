@@ -90,12 +90,12 @@ Certains fournisseurs de Cloud externe sont soumis à une législation d’un pa
 <br>Ce critère permet d’accéder à des fournisseurs non assujettis à ces réglementations.
 </div>
 <div class="panel"><figure class='image-center' style='width: 27%;'>
-<img src="/uploads/Haute_resilience.svg"/></figure><div class="titre-critere">Haute résilience</div>
+<img src="/uploads/Resilience.svg"/></figure><div class="titre-critere">Haute résilience</div>
 Les deux offres Cloud proposent à minima une région d’hébergement comprenant deux zones de disponibilité. En outre, le Cloud externe offre des services plus résilients et des infrastructures profitant d’une distribution sur un nombre de sites ou de régions plus élevé. De même, l’offre de Cloud interne offre aux ministères une connectivité plus résiliente par leur exposition sur le RIE.</div>
 <div class="panel"><figure class='image-center' style='width: 15%;'>
 <img src="/uploads/Localisation_des_donnees.svg"/></figure><div class="titre-critere">Localisation des données</div>Le Cloud interne permet d’héberger des données en France métropolitaine, le Cloud externe de confiance offre des zones d’hébergement en France pouvant s’étendre en Union Européenne, et le Cloud externe générique dispose d’une plus grande variété de zone d’hébergement permettant d’étendre votre système d’information en France, en Union Européenne ou dans le monde. Il est de la responsabilité du bénéficiaire de vérifier que la localisation de ses données est conforme aux contraintes réglementaires applicables.</div>
 <div class="panel"><figure class='image-center' style='width: 15%;'>
-<img src="/uploads/Expositions_possibles.svg"/></figure><div class="titre-critere">Exposition possible</div>L’offre de Cloud interne est construite sur une double infrastructure comprenant deux zones distinctes : l’une exposée sur le réseau interministériel de l'État (RIE) et l’autre sur internet. L’offre de Cloud externe est exposée uniquement sur internet.</div>
-<div class="panel"><figure class='image-center' style='width: 35%;'>
+<img src="/uploads/Expositions_possibles.svg"/></figure><div class="titre-critere">Expositions possibles</div>L’offre de Cloud interne est construite sur une double infrastructure comprenant deux zones distinctes : l’une exposée sur le réseau interministériel de l'État (RIE) et l’autre sur internet. L’offre de Cloud externe est exposée uniquement sur internet.</div>
+<div class="panel"><figure class='image-center' style='width: 16%;'>
 <img src="/uploads/Acces_a_lespace_dadministration.svg"/></figure><div class="titre-critere">Accès à l’espace d’administration</div>L’accès à l’espace d’administration des ressources du Cloud interne est possible à travers le réseau interministériel de l’État (RIE). Les ressources du Cloud externe sont administrables depuis les plateformes des fournisseurs de services Cloud, depuis l’accès internet du RIE ou depuis internet.</div>
 </div>
