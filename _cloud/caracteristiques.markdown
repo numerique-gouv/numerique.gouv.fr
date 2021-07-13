@@ -80,7 +80,7 @@ Collecter et traiter des données personnelles au sens du RGPD implique de prend
 <img src="/uploads/Certification_HDS.svg"/></figure><div class="titre-critere">Certification HDS</div>
 L’offre de Cloud externe intègre plusieurs fournisseurs de services Cloud disposant de l’agrément HDS (Hébergeur de Données de Santé).</div>
 <div class="panel"><figure style='width: 11%;'>
-<img src="/uploads/Donnees_personnelles.svg"/></figure><div class="titre-critere">Qualification SecNumCloud</div>
+<img src="/uploads/Secnumcloud.svg"/></figure><div class="titre-critere">Qualification SecNumCloud</div>
 Le référentiel SecNumCloud, utilisé dans le cadre de la qualification de prestataires de Cloud délivrée par l’ANSSI, décrit le socle minimal de garanties sur les compétences de fournisseur de services Cloud et de son personnel. La conformité du service à ce référentiel permet d’apprécier la qualité de la prestation et la confiance qu’il est possible de lui accorder.
 <br>La recherche de conformité au référentiel SecNumCloud n’exclut ni l’application de la législation et de la réglementation nationale, ni l’application des règles générales de sécurité imposées à chaque organisme.
 </div>
