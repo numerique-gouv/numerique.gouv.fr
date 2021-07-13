@@ -11,9 +11,8 @@ date_de_modification: 13 juillet 2021
 chapeau-text: 'La DINUM  propose un catalogue de solutions et d’outils numériques,
   à l’usage des administrations : le catalogue GouvTech. Objectif : favoriser le recours
   pour les services publics à des outils numériques qui peuvent leur être utiles,
-  qu’ils soient issus de la société civile ou d’administrations. Les fournisseurs
-  de solutions quant à eux peuvent demander le référencement de leur outil dans ce
-  catalogue.'
+  qu’ils soient issus d''entreprises ou d''associations. Les fournisseurs de solutions
+  quant à eux peuvent demander le référencement de leur outil dans ce catalogue.'
 une:
   image: "/uploads/page-services-LABEL_fille.png"
 style: |-
