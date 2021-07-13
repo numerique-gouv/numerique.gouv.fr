@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 7 juillet 2021
+date_de_modification: 13 juillet 2021
 layout: page-annexe
 ---
 
@@ -60,14 +60,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Responsable de la sécurité des systèmes d'informations (RSSI) H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-rssi-hf-reference-2021-649321/ "Responsable de la sécurité des systèmes d'informations (RSSI) H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé/Chargée de développement du Lab IA](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-developpement-du-lab-ia-hf-reference-2021-635272/ "Chargé/Chargée de développement du Lab IA - H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé/Chargée de mission logiciels libres](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-logiciels-libres-hf-reference-2021-635259/ "Chargé/Chargée de mission logiciels libres - H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 

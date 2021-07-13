@@ -7,13 +7,12 @@ tags:
 - Outils numériques
 - GouvTech
 - TECH.GOUV
-date_de_modification: 17 mai 2021
+date_de_modification: 13 juillet 2021
 chapeau-text: 'La DINUM  propose un catalogue de solutions et d’outils numériques,
   à l’usage des administrations : le catalogue GouvTech. Objectif : favoriser le recours
   pour les services publics à des outils numériques qui peuvent leur être utiles,
-  qu’ils soient issus de la société civile ou d’administrations. Les fournisseurs
-  de solutions quant à eux peuvent demander le référencement de leur outil dans ce
-  catalogue.'
+  qu’ils soient issus d''entreprises ou d''associations. Les fournisseurs de solutions
+  quant à eux peuvent demander le référencement de leur outil dans ce catalogue.'
 une:
   image: "/uploads/page-services-LABEL_fille.png"
 style: |-
@@ -62,7 +61,7 @@ Mis en place dans le cadre du programme [TECH.GOUV](https://www.numerique.gouv.f
 > <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite référencer ma solution
 > {: .margin-bottom-1 .h3}
 >
-> Vous êtes une entreprise, une association ou une administration. Vous avez développé un produit numérique qui pourrait être utile aux services publics ? Vous souhaitez contribuer à leur amélioration ? 
+> Vous êtes une entreprise ou une association. Vous avez développé un produit numérique qui pourrait être utile aux services publics ? Vous souhaitez contribuer à leur amélioration ? 
 > <br>Soumettez la demande de référencement de votre solution dans le catalogue via notre formulaire en ligne. Nous prendrons ensuite contact avec vous.
 >
 > <a href="https://www.demarches-simplifiees.fr/commencer/demande-de-referencement-au-catalogue-label" class="button" title="Soumettre ma solution - Lien externe">Soumettre ma solution</a>
@@ -78,7 +77,7 @@ Au travers d’une communauté, des rencontres seront organisées pour mettre en
 {: .text-center .margin-top-3}
 ### **Que contient le catalogue GouvTech ?**
 {: .margin-bottom-1 .h4}
-Le catalogue GouvTech recense des outils et solutions numériques qui peuvent être utiles aux services publics, proposés par des entreprises privées, des administrations, des associations… 
+Le catalogue GouvTech recense des outils et solutions numériques qui peuvent être utiles aux services publics, proposés par des entreprises privées, des associations… 
 Chaque solution y est présentée à travers une fiche descriptive, élaborée par le fournisseur de solution lui-même, qui aura à partir de l'automne 2021 la possibilité de l’autoévaluer au regard de critères prédéfinis.
 
 Leur publication n’engage pas l’avis de la DINUM quant à la fiabilité des informations qui y sont portées ou la qualité des solutions.
@@ -89,11 +88,11 @@ Une plateforme complémentaire dédiée aux administrations sera mise à leur di
 
 ### **Qui peut faire référencer un outil numérique ?**
 {: .margin-bottom-1 .h4}
-Vous pouvez demander le référencement d’un outil ou d’une solution numérique que vous soyez une entreprise (startup, TPE, PME…), une association ou une administration.
+Vous pouvez demander le référencement d’un outil ou d’une solution numérique que vous soyez une entreprise (startup, TPE, PME…) ou une association.
 <br>
 <br>
 
-<h3 class="margin-bottom-1 h4"><strong>Quelles solutions peuvent être référencées&nbsp;?</strong></h3> <p>Le catalogue GouvTech référencera les solutions numériques, qu’elles soient&nbsp;:</p> <ul> <li>sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (<span lang="en"><em>on-premises</em></span>),</li> <li>propriétaires ou open source,</li> <li>issues de la société civile (entreprises et associations) ou de l’administration,</li> <li>déjà utilisées par une ou plusieurs administrations ou non.</li> </ul>
+<h3 class="margin-bottom-1 h4"><strong>Quelles solutions peuvent être référencées&nbsp;?</strong></h3> <p>Le catalogue GouvTech référencera les solutions numériques, qu’elles soient&nbsp;:</p> <ul> <li>sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (<span lang="en"><em>on-premises</em></span>),</li> <li>propriétaires ou logiciels libres,</li> <li>issues de la société civile  - entreprises ou associations,</li> <li>déjà utilisées par une ou plusieurs administrations ou non.</li> </ul>
 <br>
 
 ### **Quels sont les critères d’évaluation des solutions ?**
@@ -102,7 +101,7 @@ Chaque solution référencée pourra être autoévaluée sur la base de critère
 
 Fruit de la consultation d’experts du numérique et des utilisateurs, les critères d’autoévaluation ont été définis sur la base d’aspects techniques spécifiques au secteur public. Les critères regroupent plusieurs thématiques :
 
-<ul> <li> <p><strong>Numérique responsable</strong>&nbsp;: éco-conception, empreinte environnementale, accessibilité numérique (<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/">RGAA</a>), etc.</p> </li> <li> <p><strong>Conception et innovation</strong>&nbsp;: évaluation du niveau de co-conception de la solution (implication des utilisateurs et des retours d’usage), transparence (algorithme et code source publiés), partenariat/expérimentation «&nbsp;achat innovant&nbsp;», etc.</p> </li> <li> <p><strong>Sécurité</strong>&nbsp;: évaluation des risques, suivi des mises à jour, compatibilité avec des sondes de type Nagios, indépendance des composants avec par exemple une version de base de données, sécurité dès la conception (<span lang="en"><em>security by design</em></span>), etc. <br> <br>Pour les solutions en mode SaaS, des critères spécifiques relatifs à la prise en compte du risque&nbsp;: sécurité physique du centre de données, localisation de l’hébergement des données, gestion des sauvegardes, audit de sécurité, etc.</p> </li> <li> <p><strong>Données</strong>&nbsp;: documentation des données, données exportables sous des formats exploitables, utilisation d’API, existence de fonctions natives de suppression de données et d’archivage, procédures de réversibilité, existence d’une analyse d’impact relative à la protection des données (AIPD), etc. Les critères relatifs aux données personnelles sont issus du RGPD&nbsp;: cartographie des données, gestion du consentement, durée de conservation, droit à l’oubli, protection de la vie privée dès la conception (<em>privacy by design</em>), etc.</p> </li> <li> <p><strong>Conformité aux exigences du secteur public</strong>&nbsp;: respect de certaines normes et réglementations (<a href="/publications/referentiel-general-de-securite/">RGS</a>, HDS…), interfaçage avec des outils standardisés (FranceConnect et API FranceConnectées, <a href="https://api.gouv.fr/les-api/api-particulier" title="API Particulier - Lien externe">API Particulier</a>, <a href="https://api.gouv.fr/les-api/api-entreprise" title="API Entreprise - Lien externe">API Entreprise</a>, autre <a href="https://api.gouv.fr/" title="API du secteur public - Lien externe">API du secteur public</a> etc.), respect des règles de l’archivage légal.</p> </li> <li> <p><strong>Open source</strong>&nbsp;: mode de licences, utilisation de formats ouverts, référencement au sein du <a href="https://sill.etalab.gouv.fr/" title="Socle interministériel des logiciels libres - Lien externe">socle interministériel des logiciels libres</a> (SILL), etc.</p> </li> </ul>
+<ul> <li> <p><strong>Numérique responsable</strong>&nbsp;: éco-conception, empreinte environnementale, accessibilité numérique (<a href="https://www.numerique.gouv.fr/publications/rgaa-accessibilite/">RGAA</a>), etc.</p> </li> <li> <p><strong>Conception et innovation</strong>&nbsp;: évaluation du niveau de co-conception de la solution (implication des utilisateurs et des retours d’usage), transparence (algorithme et code source publiés), partenariat/expérimentation «&nbsp;achat innovant&nbsp;», etc.</p> </li> <li> <p><strong>Sécurité</strong>&nbsp;: évaluation des risques, suivi des mises à jour, compatibilité avec des sondes de type Nagios, indépendance des composants avec par exemple une version de base de données, sécurité dès la conception (<span lang="en"><em>security by design</em></span>), etc. <br> <br>Pour les solutions en mode SaaS, des critères spécifiques relatifs à la prise en compte du risque&nbsp;: sécurité physique du centre de données, localisation de l’hébergement des données, gestion des sauvegardes, audit de sécurité, etc.</p> </li> <li> <p><strong>Données</strong>&nbsp;: documentation des données, données exportables sous des formats exploitables, utilisation d’API, existence de fonctions natives de suppression de données et d’archivage, procédures de réversibilité, etc. Les critères relatifs aux données personnelles sont issus du RGPD&nbsp;: cartographie des données, gestion du consentement, durée de conservation, droit à l’oubli, protection de la vie privée dès la conception (<em>privacy by design</em>), etc.</p> </li> <li> <p><strong>Conformité aux exigences du secteur public</strong>&nbsp;: respect de certaines normes et réglementations (<a href="/publications/referentiel-general-de-securite/">RGS</a>, HDS…), interfaçage avec des outils standardisés (FranceConnect, AgentConnect et API FranceConnectées, <a href="https://api.gouv.fr/les-api/api-particulier" title="API Particulier - Lien externe">API Particulier</a>, <a href="https://api.gouv.fr/les-api/api-entreprise" title="API Entreprise - Lien externe">API Entreprise</a>, autre <a href="https://api.gouv.fr/" title="API du secteur public - Lien externe">API du secteur public</a> etc.), respect des règles de l’archivage légal.</p> </li> <li> <p><strong>Logiciel libre</strong>&nbsp;: mode de licences, utilisation de formats ouverts, référencement au sein du <a href="https://sill.etalab.gouv.fr/" title="Socle interministériel des logiciels libres - Lien externe">socle interministériel des logiciels libres</a> (SILL), etc.</p> </li> </ul>
 
 <p>Les données saisies dans vos réponses pourront être rendues publiques.</p>
 <br>
