@@ -56,12 +56,12 @@ Nous avons résumé dans le tableau ci-dessous les caractéristiques principales
 
 ### Détails des critères de choix
 <div class="wrapper">
-<div class="panel"><figure class='image-center-left' style='width: 15%; margin-top:28px'>
+<div class="panel"><figure class='image-center-left' style='width: 15%;'>
 <img src="/uploads/Catalogue_de_services.svg"/>
 </figure><div class="titre-critere">Catalogue de services</div>
 Les offres de Cloud externe, issue des catalogues de services des principaux acteurs des marchés français, européen et mondial, propose une plus grande diversité d’infrastructure, de plateformes et de services innovants que les offres de Cloud interne.
 </div>
-<div class="panel"><figure class="image-center-left" style="width: 15%; margin-bottom: 25px">
+<div class="panel"><figure class="image-center-left" style="width: 13%; margin-bottom: 5px">
 <img src="/uploads/Modeles_economiques.svg"/></figure><div class="titre-critere">Modèles économiques</div>
 Le Cloud offre une grande variété de tarification. Paiement à l’usage, instances à coût marginal, prix réduits en contrepartie d’une longue durée d’engagement : chaque fournisseur a ses propres caractéristiques qu’il convient d’analyser en détail pour optimiser sa facture, le Cloud externe offrant la plus grande diversité.</div>
 <div class="panel"><figure class='image-center-left' style='width: 15%;'>
