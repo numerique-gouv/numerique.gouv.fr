@@ -1,5 +1,5 @@
 ---
-title: Cloud interne
+title: Le Cloud interne
 date: 2021-07-08 17:39:00 +02:00
 permalink: "/services/cloud/cloud-interne/"
 menu:
@@ -18,9 +18,10 @@ style: |-
   margin: 4px 2px;
   cursor: pointer;
   }
+layout: cloud
 ---
 
-**Le Cloud interne dédié aux services de l’État**
+**Dédié aux services sensibles de l’État**
 
 L’offre de Cloud interne permet à l’État de bénéficier d’un Cloud souverain avec des infrastructures internes basées sur des ressources OpenStack.
 Accessible via des interfaces simplifiant l’usage à l’échelle interministérielle, cette infrastructure permet à l’ensemble des ministères d’accueillir des données, des traitements et des applications sensibles, et de répondre à des besoins régaliens d’infrastructures numériques adaptées aux exigences d’internalisation des données et de sécurité des systèmes d’information.
