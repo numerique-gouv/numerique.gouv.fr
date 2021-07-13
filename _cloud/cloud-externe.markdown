@@ -117,21 +117,27 @@ style: |-
   .main-timeline .timeline:nth-child(4n+2) .timeline-content:before,
   .main-timeline .timeline:nth-child(4n+2) .timeline-content:after,
   .main-timeline .timeline:nth-child(4n+2) .timeline-icon{
-      background: #008198;
+      background: #144392;
   }
-  .main-timeline .timeline:nth-child(4n+2) .title{ color: #008198; }
+  .main-timeline .timeline:nth-child(4n+2) .title{ color: #144392; }
   .main-timeline .timeline:nth-child(4n+3) .timeline-content:before,
   .main-timeline .timeline:nth-child(4n+3) .timeline-content:after,
   .main-timeline .timeline:nth-child(4n+3) .timeline-icon{
-      background: #154A84;
+      background: #ca4f16;
   }
-  .main-timeline .timeline:nth-child(4n+3) .title{ color: #154A84; }
+  .main-timeline .timeline:nth-child(4n+3) .title{ color: #ca4f16; }
   .main-timeline .timeline:nth-child(4n+4) .timeline-content:before,
   .main-timeline .timeline:nth-child(4n+4) .timeline-content:after,
   .main-timeline .timeline:nth-child(4n+4) .timeline-icon{
-      background: #FE4954;
+      background: #5b6fb3;
   }
-  .main-timeline .timeline:nth-child(4n+4) .title{ color: #FE4954; }
+  .main-timeline .timeline:nth-child(4n+4) .title{ color: #5b6fb3; }
+  .main-timeline .timeline:nth-child(4n+5) .timeline-content:before,
+  .main-timeline .timeline:nth-child(4n+5) .timeline-content:after,
+  .main-timeline .timeline:nth-child(4n+5) .timeline-icon{
+      background: #e22724;
+  }
+  .main-timeline .timeline:nth-child(4n+5) .title{ color: #e22724; }
   @media screen and (max-width:767px){
       .main-timeline .timeline,
       .main-timeline .timeline:nth-child(even){
@@ -280,7 +286,7 @@ TEST 2
 <img src="/uploads/conseil-strategie-transformation-numerique/Etape-1-blanc-2.png" alt="Etape 1" />
 </div>
 <h3 class="title">SecNumCloud</h3>
-<p class="description">Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. > Retrouvez la liste des fournisseurs qualifiées SecNumCloud
+<p class="description">Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href="https://www.ssi.gouv.fr/administration/qualifications/prestataires-de-services-de-confiance-qualifies/prestataires-de-service-dinformatique-en-nuage-secnumcloud/">> Retrouvez la liste des fournisseurs qualifiées SecNumCloud</a>
 </p>
 </div>
 </div>
@@ -302,6 +308,24 @@ TEST 2
 <h3 class="title">Richesse du catalogue</h3>
 <p class="description">Dispose d’une large gamme de services communs et innovants afin de répondre à l’ensemble des besoins de la sphère publique
 </p>
+</div>
+</div>
+<div class="timeline">
+<div class="timeline-content">
+<div class="timeline-icon">
+<img src="/uploads/conseil-strategie-transformation-numerique/Etape-4-blanc-2.png" alt="Etape 4" />
+</div>
+<h3 class="title">Appairage direct</h3>
+<p class="description">Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits</p>
+</div>
+</div>
+<div class="timeline">
+<div class="timeline-content">
+<div class="timeline-icon">
+<img src="/uploads/conseil-strategie-transformation-numerique/Etape-4-blanc-2.png" alt="Etape 4" />
+</div>
+<h3 class="title">Appairage direct</h3>
+<p class="description">Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits</p>
 </div>
 </div>
 <div class="timeline">
