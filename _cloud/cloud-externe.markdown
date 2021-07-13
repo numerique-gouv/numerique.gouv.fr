@@ -287,7 +287,7 @@ TEST 2
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<img src="/uploads/conseil-strategie-transformation-numerique/Etape-2-blanc-2.png" alt="Etape 2" />
+<figure style='width: 18%;'><img src="/uploads/Droit.svg" alt="" /></figure>
 </div>
 <h3 class="title">Droit applicable</h3>
 <p class="description">Dispose de fournisseurs exempts de toutes législations imposant le transfert de données personnelles hors Union européenne
