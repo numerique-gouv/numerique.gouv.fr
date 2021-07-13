@@ -142,8 +142,8 @@ Le référentiel SecNumCloud, utilisé dans le cadre de la qualification de pres
 Certains fournisseurs de Cloud externe sont soumis à une législation d’un pays hors Union européenne imposant le transfert des données à caractère personnel aux autorités publiques (ex. Cloud Act). 
 <br>Ce critère permet d’accéder à des fournisseurs non assujettis à ces réglementations.
 </div>
-<div class="panel"><figure class='image-center' style='width: 27%;'>
-<img src="/uploads/Haute_resilience.svg"/></figure><div class="titre-critere">Haute résilience</div>
+<div class="panel"><figure class='image-center' style='width: 15%;'>
+<img src="/uploads/Resilience.svg"/></figure><div class="titre-critere">Haute résilience</div>
 Les deux offres Cloud proposent à minima une région d’hébergement comprenant deux zones de disponibilité. En outre, le Cloud externe offre des services plus résilients et des infrastructures profitant d’une distribution sur un nombre de sites ou de régions plus élevé. De même, l’offre de Cloud interne offre aux ministères une connectivité plus résiliente par leur exposition sur le RIE.</div>
 <div class="panel"><figure class='image-center' style='width: 15%;'>
 <img src="/uploads/Localisation_des_donnees.svg"/></figure><div class="titre-critere">Localisation des données</div>Le Cloud interne permet d’héberger des données en France métropolitaine, le Cloud externe de confiance offre des zones d’hébergement en France pouvant s’étendre en Union Européenne, et le Cloud externe générique dispose d’une plus grande variété de zone d’hébergement permettant d’étendre votre système d’information en France, en Union Européenne ou dans le monde. Il est de la responsabilité du bénéficiaire de vérifier que la localisation de ses données est conforme aux contraintes réglementaires applicables.</div>
