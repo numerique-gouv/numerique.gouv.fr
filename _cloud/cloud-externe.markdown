@@ -286,7 +286,7 @@ TEST 2
 <img src="/uploads/conseil-strategie-transformation-numerique/Etape-1-blanc-2.png" alt="Etape 1" />
 </div>
 <h3 class="title">SecNumCloud</h3>
-<p class="description">Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href="https://www.ssi.gouv.fr/administration/qualifications/prestataires-de-services-de-confiance-qualifies/prestataires-de-service-dinformatique-en-nuage-secnumcloud/">> Retrouvez la liste des fournisseurs qualifiées SecNumCloud</a>
+<p class="description">Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href="https://www.ssi.gouv.fr/administration/qualifications/prestataires-de-services-de-confiance-qualifies/prestataires-de-service-dinformatique-en-nuage-secnumcloud/">> Retrouvez la liste des fournisseurs qualifiés SecNumCloud</a>
 </p>
 </div>
 </div>
