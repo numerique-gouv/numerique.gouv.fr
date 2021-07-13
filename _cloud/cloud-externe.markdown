@@ -5,7 +5,7 @@ permalink: "/services/cloud/cloud-externe/"
 menu:
   title: Le Cloud externe
   weight: 40
-style: |-
+style: |
   .button {
   background-color: #0d5c98;
   border: 1px solid white;
@@ -18,10 +18,111 @@ style: |-
   margin: 4px 2px;
   cursor: pointer;
   }
+
+
+
+  .main-timeline{ font-family: 'Poppins', sans-serif; }
+  .main-timeline:after{
+      content: '';
+      display: block;
+      clear: both;
+  }
+  .main-timeline .timeline{
+      width: 50%;
+      padding: 20px 0 0;
+      margin: 0 0 20px 5px;
+      float: right;
+  }
+  .main-timeline .timeline-content{
+      color: #000;
+      min-height: 125px;
+      padding: 0 20px 20px 85px;
+      display: block;
+      position: relative;
+      z-index: 1;
+  }
+  .main-timeline .timeline-content:hover{ text-decoration: none; }
+  .main-timeline .timeline-icon{
+      color: #fff;
+      font-size: 20px;
+      text-align: center;
+      line-height: 100px;
+      height: 100px;
+      width: 100px;
+      box-shadow: 0 0 5px #d1d1d1 inset,
+      0 0 5px #d1d1d1;
+      border-radius: 10px;
+      position: absolute;
+      left: -50px;
+      top: 0;
+  }
+  .main-timeline .timeline-icon
+  .main-timeline .timeline-icon:before{
+      content: '';
+      background-color: #16BCB0;
+      height: 80%;
+      width: 80%;
+      border-radius: 50%;
+      transform: translateX(-50%) translateY(-50%);
+      position: absolute;
+      left: 50%;
+      top: 50%;
+  }
+  .main-timeline .title{
+      color: #16BCB0;
+      font-size: 20px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      margin: 0 0 5px;
+  }
+  .main-timeline .description{
+      color: #777;
+      font-size: 13px;
+      letter-spacing: 1px;
+      margin: 0;
+  }
+  .main-timeline .timeline:nth-child(even){
+      margin: 0 5px 20px 0;
+      float: left;
+  }
+  .main-timeline .timeline:nth-child(even) .timeline-content{ padding: 0 85px 20px 20px; }
+  .main-timeline .timeline:nth-child(even) .timeline-icon{
+      left: auto;
+      right: -50px;
+  }
+  .main-timeline .timeline:nth-child(4n+2) .timeline-icon:before{ background-color: #FDAA20; }
+  .main-timeline .timeline:nth-child(4n+2) .title{ color: #FDAA20; }
+  .main-timeline .timeline:nth-child(4n+3) .timeline-icon:before{ background-color: #994577; }
+  .main-timeline .timeline:nth-child(4n+3) .title{ color: #994577; }
+  .main-timeline .timeline:nth-child(4n+4) .timeline-icon:before{ background-color: #F2544B; }
+  .main-timeline .timeline:nth-child(4n+4) .title{ color: #F2544B; }
+  @media screen and (max-width:767px){
+      .main-timeline .timeline,
+      .main-timeline .timeline:nth-child(even){
+          width: 100%;
+          margin: 0 0 35px 0;
+          padding: 100px 0 0;
+      }
+      .main-timeline .timeline-content,
+      .main-timeline .timeline:nth-child(even) .timeline-content{
+          min-height: auto;
+          padding: 0;
+      }
+      .main-timeline .timeline-icon,
+      .main-timeline .timeline:nth-child(even) .timeline-icon{
+          font-size: 30px;
+          line-height: 70px;
+          height: 70px;
+          width: 70px;
+          left: 10px;
+          top: -90px;
+      }
+  }
 layout: cloud
 ---
 
-**Le Cloud pour l’ensemble des acteurs publics**
+<h4 style="margin-top:-20px">Pour l’ensemble des acteurs publics</h4>
 
 **Mise à la disposition des ministères, des collectivités territoriales et de l’ensemble de la sphère publique,** l’offre de Cloud externe leur donne accès aux catalogues de services des principaux fournisseurs de Cloud français et mondiaux.
 
@@ -49,3 +150,31 @@ Offre la possibilité d’établir une connexion entre votre réseau et celui du
 *Certaines de ces caractéristiques sont disponibles uniquement auprès de certains fournisseurs des offres de Cloud externe de confiance. Les caractéristiques de l’offre sont susceptibles d’évoluer au cours du temps, ainsi que la composition du panel d’offres présentées au sein du marché Cloud externe.*
 
 <div align="center" style="margin-bottom: 40px"><a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Accéder l’offre de Cloud externe</b></a></div>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="main-timeline">
+                <div class="timeline">
+                    <a href="#" class="timeline-content">
+                        <div class="timeline-icon"><p>SecNumCloud</p></div>
+                        <h3 class="title">Web Designing</h3>
+                        <p class="description">
+                            Offre un niveau de confiance acceptable vis-à-vis du référentiel SecNumCloud.
+                        </p>
+                    </a>
+                </div>
+                <div class="timeline">
+                    <a href="#" class="timeline-content">
+                        <div class="timeline-icon"><i class="fa fa-rocket"></i></div>
+                        <h3 class="title">Web Development</h3>
+                        <p class="description">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer males uada tellus lorem, et condimentum neque commodo Integer males uada tellus lorem, et condimentum neque commodo
+                        </p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
