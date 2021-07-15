@@ -2,7 +2,6 @@
 title: 'Cloud au centre : la stratégie de l''État'
 date: 2021-07-08 16:42:00 +02:00
 permalink: "/services/cloud/strategie/"
-published: false
 menu:
   title: La stratégie de l'État
   weight: 20
