@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 13 juillet 2021
+date_de_modification: 15 juillet 2021
 layout: page-annexe
 ---
 
@@ -63,6 +63,9 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
+* **[Apprenti-e chargé-e de communication externe](https://www.pass.fonction-publique.gouv.fr/offre/apprenti-e-charge-e-de-communication-externe "Apprenti-e chargé-e de communication externe - Lien externe")**
+<br>Apprentissage
+<br>
 
 
 <!--
