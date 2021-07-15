@@ -2,7 +2,7 @@
 title: Introduction
 date: 2021-06-02 18:05:00 +02:00
 permalink: "/services/cloud/"
-published: false
+published: true
 layout: cloud
 ---
 
