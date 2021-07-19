@@ -5,7 +5,7 @@ permalink: "/services/cloud/cloud-commercial/"
 menu:
   title: Le Cloud commercial
   weight: 60
-style: |-
+style: |
   .button {
   background-color: #0d5c98;
   border: 1px solid white;
@@ -175,6 +175,44 @@ style: |-
   .fond-vert > strong {
       background: #36adb4
   }
+
+  .wrapper {
+    max-width: 940px;
+    margin: 0 20px;
+    display: grid;
+    grid-gap: 10px;
+  }
+
+  .wrapper {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .wrapper {
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-auto-rows: minmax(150px, auto);
+  }
+
+  .panel {
+    /* needed for the flex layout*/
+    margin-left: 5px;
+    margin-right: 5px;
+    flex: 1 1 200px;
+  }
+
+  .wrapper > * {
+    padding: 10px;
+    font-size: 100%;
+    margin-bottom: 10px;
+  }
+
+
+  .titre-caracteristique {
+    color: #095D9C;
+    font-weight: bold;
+  }
 layout: cloud
 ---
 
@@ -273,27 +311,27 @@ TEST 3
 <div class="wrapper">
 <div class="panel"><figure style='width: 14%;'>
 <img src="/uploads/Catalogue_de_services.svg"/>
-</figure><div class="titre-critere">SecNumCloud</div>
+</figure><div class="titre-caracteristique">SecNumCloud</div>
 Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href="https://ssi.gouv.fr/secnumcloud">> Retrouvez la liste des fournisseurs qualifiées SecNumCloud</a>
 </div>
 <div class="panel"><figure style='width: 14%;'>
 <img src="/uploads/Catalogue_de_services.svg"/>
-</figure><div class="titre-critere">Localisation France ou UE</div>
+</figure><div class="titre-caracteristique">Localisation France ou UE</div>
 Offre une possibilité de localisation du stockage, du traitement, de l’administration et de la supervision dans l’Union européenne.
 </div>
 <div class="panel"><figure style='width: 14%;'>
 <img src="/uploads/Catalogue_de_services.svg"/>
-</figure><div class="titre-critere">Droit applicable</div>
+</figure><div class="titre-caracteristique">Droit applicable</div>
 Dispose de fournisseurs exempts de toutes législations imposant le transfert de données personnelles hors Union européenne.
 </div>
 <div class="panel"><figure style='width: 14%;'>
 <img src="/uploads/Catalogue_de_services.svg"/>
-</figure><div class="titre-critere">Richesse du catalogue </div>
+</figure><div class="titre-caracteristique">Richesse du catalogue </div>
 Dispose d’une large gamme de services communs et innovants afin de répondre à l’ensemble des besoins de la sphère publique.
 </div>
 <div class="panel"><figure style='width: 14%;'>
 <img src="/uploads/Catalogue_de_services.svg"/>
-</figure><div class="titre-critere">Appairage direct</div>
+</figure><div class="titre-caracteristique">Appairage direct</div>
 Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits.
 </div>
 </div>
