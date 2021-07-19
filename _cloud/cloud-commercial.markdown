@@ -187,7 +187,7 @@ Accessible facilement via l’UGAP et issue d’une collaboration avec la direct
 Le marché Cloud commercial propose ainsi un large éventail de solutions et de garanties pour répondre à vos enjeux de sécurité.
 
 
-### Les caractéristiques du Cloud externe
+<h3 style="margin-bottom:20px">> Les caractéristiques du Cloud externe</h3>
 
 <div class="row">
 <div class="col-md-12">
@@ -243,7 +243,7 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 </div>
 </div>
 </div>
-<div align="center" style="margin-bottom: 40px"><a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Accéder l’offre de Cloud externe</b></a></div>
+<div align="center" style="margin-top: 30px"><a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Accéder l’offre de Cloud externe</b></a></div>
 
 
 
