@@ -44,26 +44,6 @@ style: |-
       box-shadow: 0 0 15px rgba(0,0,0,0.2);
       display: block;
   }
-  .main-timeline .timeline-content:before,
-  .main-timeline .timeline-content:after{
-      content: '';
-      background: #078280;
-      height: 100%;
-      width: 15px;
-      position: absolute;
-      left: 0;
-      top: 0;
-      z-index: -1;
-  }
-  .main-timeline .timeline-content:after{
-      height: 150px;
-      width: 150px;
-      border-radius: 50%;
-      transform: translateY(-50%);
-      top: 50%;
-      left: auto;
-      right: -75px;
-  }
   .main-timeline .timeline-content:hover{ text-decoration: none; }
   .main-timeline .timeline-icon{
       color: #fff;
