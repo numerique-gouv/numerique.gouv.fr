@@ -3,7 +3,7 @@ title: Le Cloud commercial
 date: 2021-07-08 11:25:00 +02:00
 permalink: "/services/cloud/cloud-commercial/"
 menu:
-  title: Le Cloud externe
+  title: Le Cloud commercial
   weight: 40
 style: |-
   .button {
@@ -117,21 +117,27 @@ style: |-
   .main-timeline .timeline:nth-child(4n+2) .timeline-content:before,
   .main-timeline .timeline:nth-child(4n+2) .timeline-content:after,
   .main-timeline .timeline:nth-child(4n+2) .timeline-icon{
-      background: #008198;
+      background: #5b6fb3;
   }
-  .main-timeline .timeline:nth-child(4n+2) .title{ color: #008198; }
+  .main-timeline .timeline:nth-child(4n+2) .title{ color: #5b6fb3; }
   .main-timeline .timeline:nth-child(4n+3) .timeline-content:before,
   .main-timeline .timeline:nth-child(4n+3) .timeline-content:after,
   .main-timeline .timeline:nth-child(4n+3) .timeline-icon{
-      background: #154A84;
+      background: #144392;
   }
-  .main-timeline .timeline:nth-child(4n+3) .title{ color: #154A84; }
+  .main-timeline .timeline:nth-child(4n+3) .title{ color: #144392; }
   .main-timeline .timeline:nth-child(4n+4) .timeline-content:before,
   .main-timeline .timeline:nth-child(4n+4) .timeline-content:after,
   .main-timeline .timeline:nth-child(4n+4) .timeline-icon{
-      background: #FE4954;
+      background: #e22724;
   }
-  .main-timeline .timeline:nth-child(4n+4) .title{ color: #FE4954; }
+  .main-timeline .timeline:nth-child(4n+4) .title{ color: #e22724; }
+  .main-timeline .timeline:nth-child(4n+4) .timeline-content:before,
+  .main-timeline .timeline:nth-child(4n+4) .timeline-content:after,
+  .main-timeline .timeline:nth-child(4n+4) .timeline-icon{
+      background: #ca4f16;
+  }
+  .main-timeline .timeline:nth-child(4n+4) .title{ color: #ca4f16; }
   @media screen and (max-width:767px){
       .main-timeline .timeline,
       .main-timeline .timeline:nth-child(even){
@@ -227,7 +233,7 @@ Offre la possibilité d’établir une connexion entre votre réseau et celui du
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<img src="/uploads/conseil-strategie-transformation-numerique/Etape-1-blanc-2.png" alt="Etape 1" />
+<img src="/uploads/Secnumcloud_blanc.svg" alt="" />
 </div>
 <h3 class="title">SecNumCloud</h3>
 <p class="description">Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href="https://ssi.gouv.fr/secnumcloud">> Retrouvez la liste des fournisseurs qualifiées SecNumCloud</a>
@@ -247,7 +253,7 @@ Offre la possibilité d’établir une connexion entre votre réseau et celui du
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<img src="/uploads/conseil-strategie-transformation-numerique/Etape-3-blanc-2.png" alt="Etape 3" />
+<img src="/uploads/Droit_applicable_blanc.svg" alt="" />
 </div>
 <h3 class="title">Droit applicable</h3>
 <p class="description">Dispose de fournisseurs exempts de toutes législations imposant le transfert de données personnelles hors Union européenne.
@@ -257,7 +263,7 @@ Offre la possibilité d’établir une connexion entre votre réseau et celui du
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<img src="/uploads/conseil-strategie-transformation-numerique/Etape-4-blanc-2.png" alt="Etape 4" />
+<img src="/uploads/Richesse_du_catalogue_blanc.svg" alt="" />
 </div>
 <h3 class="title">Richesse du catalogue</h3>
 <p class="description">Dispose d’une large gamme de services communs et innovants afin de répondre à l’ensemble des besoins de la sphère publique.</p>
@@ -266,7 +272,7 @@ Offre la possibilité d’établir une connexion entre votre réseau et celui du
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<img src="/uploads/conseil-strategie-transformation-numerique/Etape-4-blanc-2.png" alt="Etape 4" />
+<img src="/uploads/Appairage_blanc.svg" alt="" />
 </div>
 <h3 class="title">Appairage direct</h3>
 <p class="description">Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits.</p>
