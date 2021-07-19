@@ -3,6 +3,9 @@ title: test
 date: 2021-07-19 14:41:00 +02:00
 permalink: services/cloud/test/
 style: 
+menu:
+  title: test
+  weight: 80
 layout: cloud
 ---
 
