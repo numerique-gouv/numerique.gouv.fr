@@ -5,7 +5,7 @@ permalink: services/cloud/test/
 style: 
 menu:
   title: test
-  weight: 80
+  weight: 70
 layout: cloud
 ---
 
