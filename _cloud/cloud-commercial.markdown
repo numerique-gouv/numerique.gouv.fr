@@ -227,6 +227,8 @@ Offre la possibilité d’établir une connexion entre votre réseau et celui du
 
 <div align="center" style="margin-bottom: 40px"><a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Accéder l’offre de Cloud externe</b></a></div>
 
+### Les caractéristiques du Cloud externe
+
 <div class="row">
 <div class="col-md-12">
 <div class="main-timeline">
