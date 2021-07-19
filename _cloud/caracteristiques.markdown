@@ -5,7 +5,7 @@ permalink: "/services/cloud/caracteristiques/"
 position: 1
 menu:
   title: Quelle offre Cloud choisir ?
-  weight: 30
+  weight: 40
 style: |2
 
   .wrapper {
