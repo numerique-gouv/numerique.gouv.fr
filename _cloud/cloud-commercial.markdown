@@ -267,3 +267,33 @@ Dispose d'une large gamme de services communs et innovants afin de répondre à 
 Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits.
 
 *Certaines de ces caractéristiques sont disponibles uniquement auprès de certains fournisseurs des offres de Cloud externe de confiance. Les caractéristiques de l’offre sont susceptibles d’évoluer au cours du temps, ainsi que la composition du panel d’offres présentées au sein du marché Cloud externe.*
+
+
+TEST 3
+<div class="wrapper">
+<div class="panel"><figure style='width: 14%;'>
+<img src="/uploads/Catalogue_de_services.svg"/>
+</figure><div class="titre-critere">SecNumCloud</div>
+Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href="https://ssi.gouv.fr/secnumcloud">> Retrouvez la liste des fournisseurs qualifiées SecNumCloud</a>
+</div>
+<div class="panel"><figure style='width: 14%;'>
+<img src="/uploads/Catalogue_de_services.svg"/>
+</figure><div class="titre-critere">Localisation France ou UE</div>
+Offre une possibilité de localisation du stockage, du traitement, de l’administration et de la supervision dans l’Union européenne.
+</div>
+<div class="panel"><figure style='width: 14%;'>
+<img src="/uploads/Catalogue_de_services.svg"/>
+</figure><div class="titre-critere">Droit applicable</div>
+Dispose de fournisseurs exempts de toutes législations imposant le transfert de données personnelles hors Union européenne.
+</div>
+<div class="panel"><figure style='width: 14%;'>
+<img src="/uploads/Catalogue_de_services.svg"/>
+</figure><div class="titre-critere">Richesse du catalogue </div>
+Dispose d’une large gamme de services communs et innovants afin de répondre à l’ensemble des besoins de la sphère publique.
+</div>
+<div class="panel"><figure style='width: 14%;'>
+<img src="/uploads/Catalogue_de_services.svg"/>
+</figure><div class="titre-critere">Appairage direct</div>
+Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits.
+</div>
+</div>
