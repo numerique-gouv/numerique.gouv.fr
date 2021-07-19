@@ -21,7 +21,7 @@ Tout projet relevant d'offres cloud commerciales devra comporter des conditions 
 
 L’adéquation avec les règles de <a href="https://www.data-infrastructure.eu">GAIA-X</a> (<span lang="en"><i><a href="https://www.data-infrastructure.eu/GAIAX/Redaktion/EN/Publications/gaia-x-policy-rules-and-architecture-of-standards.pdf?__blob=publicationFile&v=5" alt="GAIA-X: Policy Rules and Architecture of Standards">GAIA-X: Policy Rules and Architecture of Standards</a></span>), notamment d’interopérabilité et de portabilité, devra également être recherchée dans la mesure du possible.
 
-**Règle 5**
+<h5 style="text-align:center;">Règle 5</h5>
 Tout projet numérique ayant recours au cloud doit respecter les meilleures pratiques en matière de résilience, et reposer a minima sur des services déployés dans plusieurs zones géographiques pour assurer, selon le niveau de criticité, la continuité ou la reprise d’activité dans les meilleures conditions. L’offre cloud mobilisée doit offrir des garanties satisfaisantes en matière de mise à jour de ses composants pouvant être affectés par des failles de sécurité ainsi que de transparence et de réactivité en cas de compromission. En outre, lorsqu’elle envisage de retenir une offre cloud commerciale, l’administration doit prendre les mesures nécessaires de détection et d’isolation liées à la prévention de la propagation d’une compromission de sécurité.
 
 
