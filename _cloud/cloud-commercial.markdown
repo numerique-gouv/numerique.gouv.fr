@@ -309,18 +309,17 @@ Offre la possibilité d’établir une connexion entre votre réseau et celui du
 
 TEST 3
 <div class="wrapper">
-<div class="panel"><figure style='width: 14%;'>
-<img src="/uploads/Catalogue_de_services.svg"/>
+<div class="panel"><figure style='width: 11%;'>
+<img src="/uploads/Secnumcloud.svg"/>
 </figure><div class="titre-caracteristique">SecNumCloud</div>
 Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href="https://ssi.gouv.fr/secnumcloud">> Retrouvez la liste des fournisseurs qualifiées SecNumCloud</a>
 </div>
-<div class="panel"><figure style='width: 14%;'>
-<img src="/uploads/Catalogue_de_services.svg"/>
-</figure><div class="titre-caracteristique">Localisation France ou UE</div>
+<div class="panel"><figure style='width: 12%;'>
+<img src="/uploads/Localisation_des_donnees.svg"/></figure><div class="titre-caracteristique">Localisation France ou UE</div>
 Offre une possibilité de localisation du stockage, du traitement, de l’administration et de la supervision dans l’Union européenne.
 </div>
 <div class="panel"><figure style='width: 14%;'>
-<img src="/uploads/Catalogue_de_services.svg"/>
+<img src="/uploads/Droit.svg"/>
 </figure><div class="titre-caracteristique">Droit applicable</div>
 Dispose de fournisseurs exempts de toutes législations imposant le transfert de données personnelles hors Union européenne.
 </div>
