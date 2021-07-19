@@ -4,7 +4,7 @@ date: 2021-07-08 11:25:00 +02:00
 permalink: "/services/cloud/cloud-commercial/"
 menu:
   title: Le Cloud commercial
-  weight: 70
+  weight: 60
 style: |-
   .button {
   background-color: #0d5c98;
