@@ -1,6 +1,6 @@
 ---
-title: Cloud
-permalink: "/services/cloud"
+title: Le Cloud pour les administrations
+permalink: "/services/cloud/"
 position: 0
 menu:
   title: Introduction
