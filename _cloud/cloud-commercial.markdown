@@ -38,7 +38,6 @@ style: |
   }
   .main-timeline .timeline-content{
       color: #333;
-      background-color: #f5f5f5;
       min-height: 150px;
       padding: 20px 70px 20px 15px;
       box-shadow: 0 0 15px rgba(0,0,0,0.2);
@@ -51,14 +50,14 @@ style: |
       font-size: 45px;
       text-align: center;
       line-height: 108px;
-      height: 105px;
-      width: 105px;
+      height: 70px;
+      width: 70px;
       border-radius: 50%;
       box-shadow: 0 0 0 8px #fff;
       transform: translateY(-50%);
       position: absolute;
       top: 50%;
-      right: -52px;
+      right: -35px;
   }
   .main-timeline .timeline-icon {
       padding: 1rem;
@@ -69,11 +68,16 @@ style: |
   .main-timeline .title{
       color: #078280;
       font-size: 22px;
-      font-weight: 700;
+      font-weight: 500;
       margin: 0 0 7px 0;
   }
   .main-timeline .description{
       font-size: 14px;
+      margin: 0;
+  }
+  .main-timeline .description-gauche{
+      font-size: 14px;
+      text-align: right;
       margin: 0;
   }
   .main-timeline .timeline:nth-child(even){
@@ -92,7 +96,7 @@ style: |
   }
   .main-timeline .timeline:nth-child(even) .timeline-icon{
       right: auto;
-      left: -52px;
+      left: -35px;
   }
   .main-timeline .timeline:nth-child(4n+2) .timeline-content:before,
   .main-timeline .timeline:nth-child(4n+2) .timeline-content:after,
@@ -236,7 +240,7 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 <img src="/uploads/Secnumcloud_blanc.svg" alt="" />
 </div>
 <h3 class="title">SecNumCloud</h3>
-<p class="description">Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href="https://ssi.gouv.fr/secnumcloud">> Retrouvez la liste des fournisseurs qualifiées SecNumCloud</a>
+<p class="description-gauche">Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href="https://ssi.gouv.fr/secnumcloud">> Retrouvez la liste des fournisseurs qualifiées SecNumCloud</a>
 </p>
 </div>
 </div>
@@ -256,7 +260,7 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 <img src="/uploads/Droit_applicable_blanc.svg" alt="" />
 </div>
 <h3 class="title">Droit applicable</h3>
-<p class="description">Dispose de fournisseurs exempts de toutes législations imposant le transfert de données personnelles hors Union européenne.
+<p class="description-gauche">Dispose de fournisseurs exempts de toutes législations imposant le transfert de données personnelles hors Union européenne.
 </p>
 </div>
 </div>
@@ -275,7 +279,7 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 <img src="/uploads/Appairage_blanc.svg" alt="" />
 </div>
 <h3 class="title">Appairage direct</h3>
-<p class="description">Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits.</p>
+<p class="description-gauche">Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits.</p>
 </div>
 </div>
 </div>
