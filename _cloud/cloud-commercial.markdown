@@ -116,19 +116,19 @@ style: |
   .main-timeline .timeline:nth-child(4n+3) .timeline-icon{
       background: #144392;
   }
-  .main-timeline .timeline:nth-child(4n+3) .title{ color: #144392; }
+  .main-timeline .timeline:nth-child(4n+3) .title-gauche{ color: #144392; }
   .main-timeline .timeline:nth-child(4n+4) .timeline-content:before,
   .main-timeline .timeline:nth-child(4n+4) .timeline-content:after,
   .main-timeline .timeline:nth-child(4n+4) .timeline-icon{
       background: #e22724;
   }
   .main-timeline .timeline:nth-child(4n+4) .title{ color: #e22724; }
-  .main-timeline .timeline:nth-child(4n+4) .timeline-content:before,
-  .main-timeline .timeline:nth-child(4n+4) .timeline-content:after,
-  .main-timeline .timeline:nth-child(4n+4) .timeline-icon{
+  .main-timeline .timeline:nth-child(4n+5) .timeline-content:before,
+  .main-timeline .timeline:nth-child(4n+5) .timeline-content:after,
+  .main-timeline .timeline:nth-child(4n+5) .timeline-icon{
       background: #ca4f16;
   }
-  .main-timeline .timeline:nth-child(4n+4) .title{ color: #ca4f16; }
+  .main-timeline .timeline:nth-child(4n+5) .title{ color: #ca4f16; }
   @media screen and (max-width:767px){
       .main-timeline .timeline,
       .main-timeline .timeline:nth-child(even){
