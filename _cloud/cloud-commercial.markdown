@@ -128,7 +128,7 @@ style: |
   .main-timeline .timeline:nth-child(4n+5) .timeline-icon{
       background: #ca4f16;
   }
-  .main-timeline .timeline:nth-child(4n+5) .title{ color: #ca4f16; }
+  .main-timeline .timeline:nth-child(4n+5) .title-gauche{ color: #ca4f16; }
   @media screen and (max-width:767px){
       .main-timeline .timeline,
       .main-timeline .timeline:nth-child(even){
