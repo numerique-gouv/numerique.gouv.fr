@@ -37,7 +37,7 @@ Ce cloud interne se décline en deux offres :
 
 **- PI,** opérée par le ministère de l’Intérieur, adapté à l’hébergement de données sensibles jusqu’au niveau Diffusion restreinte.
 
-<div align="center" style="margin-bottom: 40px"><b>Pour plus d’informations sur les modalités d’accès à cette offre ?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div>
+<div align="center" style="margin-bottom: 40px"><b>Vous souhaitez recourir au Cloud interne ? Obtenir plus d’infos sur les modalités d’accès ?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div>
 
 <h3 style="margin-bottom:40px; margin-top:30px">Les caractéristiques du Cloud interne</h3>
 
@@ -86,26 +86,4 @@ Ce cloud interne se décline en deux offres :
 </div>
 </div>
 </div>
-<div align="center" style="margin-top: 30px"><a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" class="button" alt="Accéder l’offre de Cloud commercial - lien externe"><b>Accéder l’offre de Cloud commercial</b></a></div>
-
-### Les caractéristiques du Cloud interne
-
-**SecNumCloud**
-
-Offre d’un niveau de confiance jugé acceptable vis-à-vis du référentiel SecNumCloud (non soumis à la qualification)
-
-**OpenStack**
-
-Assure une maîtrise complète de l’infrastructure par l’État et un niveau important de portabilité et de réversibilité.
-
-**Localisation France**
-
-Offre une garantie de localisation du stockage, du traitement, de l’administration et de la supervision en France.
-
-**RIE et Internet**
-
-Dispose de zones dédiées permettant d’être exposé soit au RIE, et ainsi de profiter d’un niveau de résilience élevé, soit à Internet.
-
-*Les caractéristiques de l’offre sont susceptibles d’évoluer au cours du temps.*
-
-<div align="center" style="margin-bottom: 40px"><b>Pour plus d’informations sur les modalités d’accès à cette offre ?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div>
+<div align="center" style="margin-bottom: 40px"><b>Vous souhaitez recourir au Cloud interne ? Obtenir plus d’infos sur les modalités d’accès ?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div>
