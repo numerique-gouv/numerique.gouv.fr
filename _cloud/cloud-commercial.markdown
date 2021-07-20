@@ -236,7 +236,7 @@ Accessible facilement via l’UGAP et issue d’une collaboration avec la direct
 Le marché Cloud commercial propose ainsi un large éventail de solutions et de garanties pour répondre à vos enjeux de sécurité.
 
 
-<h3 style="margin-bottom:40px; margin-top:30px">Les caractéristiques du Cloud externe</h3>
+<h3 style="margin-bottom:40px; margin-top:30px">Les caractéristiques du Cloud commercial</h3>
 
 <div class="row">
 <div class="col-md-12">
