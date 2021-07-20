@@ -243,7 +243,6 @@ Ces deux offres sont accessibles et manipulables directement via API.
 
 * **PI,** opérée par le ministère de l’Intérieur, adapté à l’hébergement de données sensibles jusqu’au niveau Diffusion restreinte.
 
-
 <h3 style="margin-bottom:40px; margin-top:30px">Les caractéristiques du Cloud interne</h3>
 
 <div class="row">
@@ -292,3 +291,37 @@ Ces deux offres sont accessibles et manipulables directement via API.
 </div>
 </div>
 <div align="center" style="margin-bottom: 40px; margin-top: 60px;"><b>Vous souhaitez recourir au Cloud interne ? Obtenir plus d’infos sur les modalités d’accès ?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div>
+
+**Le Cloud Nubo**
+
+Opérée par la DGFiP pour l’ensemble des ministères, l’offre Cloud Nubo est destinée à accueillir des services, données et traitements sensibles de l’État, hors Diffusion restreinte.
+
+À fin mars 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis sur un total de 2000 machines virtuelles.
+
+- **Socle technique** : Nubo est une offre de service orientée IaaS, basée sur la version communautaire OpenStack, en lien avec la fondation OpenStack, avec une montée de version majeure régulière.
+
+- **Modèle de résilience** : Les infrastructures de Nubo sont déployées sur 2 sites en Ile-de-France (Noisiel et Bussy-Saint-Georges). Chaque site dispose de 2 régions indépendantes (une région exposée RIE, et une région pour l’exposition Internet) permettant aux bénéficiaires d’organiser une résilience multi-sites pour les projets nécessitant un haut niveau de disponibilité.
+
+- **Catalogue de services** : Le catalogue de services de Nubo, orienté IaaS, propose des services Cloud communs (ressources de calcul, de stockage et de réseau) exposés en self-service via des API, et facturés suivant un mode de consommation à l’usage et un tarif garanti par une convention DINUM.
+
+- **Niveau de service / Support** : Nubo s’engage sur une disponibilité de 98% pour chaque région, et un délai de prise en compte du support en 4h sur une plage horaire de 8h – 20h en jours ouvrés. Un projet nécessitant un niveau de disponibilité supérieur doit se déployer sur 2 régions.
+
+- **Accompagnement** : Nubo met à disposition une équipe d’accompagnement, différents modes de communication (formulaires, adresse courriel dédiée, flux rss, salon Tchap), ainsi qu’un portail proposant des informations (actualités, nouveautés, interventions programmées), de la documentation, des outils web (portail de service, suivi de la consommation, niveaux de service, FAQ, suivi des demandes), et une bibliothèque logicielle, contenant des programmes prêts à l’emploi à destination des projets.
+
+> [En savoir plus sur l’offre Nubo](file:///C:\\Users\\TPradere\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Outlook\\KT2QUJAB\\En%20savoir%20plus%20sur%20l'offre%20Nubo) (lien accessible depuis le réseau interministériel de l’État).
+
+**Le Cloud PI**
+
+Dédié aux services de l’État, opéré par le ministère de l’Intérieur, le Cloud PI offre la particularité de pouvoir héberger des produits manipulant des données de type diffusion restreinte (DR). L’offre de services du Cloud PI est orientée infrastructure à la demande, directement disponible via un portail ou des API.
+
+À fin mars 2021, l’offre Cloud PI héberge plus de xxxx produits répartis sur 8 000 machines virtuelles.
+
+- **Socle technique** : L’offre PI est basée sur une distribution OpenStack HPE Helion, qui sera remplacée d’ici à la fin 2022 ; la migration de l’une à l’autre sera assurée.
+
+- **Modèle de résilience** : Les infrastructures de PI sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 3 « availability zones » (AZ) indépendantes, et permet d’avoir une exposition internet ou RIE.
+
+- **Catalogue de services **: PI propose un catalogue de services orientés IaaS (Compute, Stockage, Réseau notamment).
+
+- **Niveau de service / Support **: PI s’engage sur contrat de service avec un niveau de disponibilité de 98% à 99,9% en fonction des composants (portail, puissance informatique, API OpenStack), et un support en 24h/24 – 7j/7
+
+- **Accompagnement **: PI propose un portail, avec de la documentation en ligne à destination des projets.
