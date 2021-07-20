@@ -71,6 +71,13 @@ style: |
       font-weight: 500;
       margin: 0 0 7px 0;
   }
+  .main-timeline .title-gauche{
+      color: #078280;
+      font-size: 22px;
+      font-weight: 500;
+      margin: 0 0 7px 0;
+      text-align: right;
+  }
   .main-timeline .description{
       font-size: 14px;
       margin: 0;
@@ -239,7 +246,7 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 <div class="timeline-icon">
 <img src="/uploads/Secnumcloud_blanc.svg" alt="" />
 </div>
-<h3 class="title">SecNumCloud</h3>
+<h3 class="title-gauche">SecNumCloud</h3>
 <p class="description-gauche">Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href="https://ssi.gouv.fr/secnumcloud">> Retrouvez la liste des fournisseurs qualifiées SecNumCloud</a>
 </p>
 </div>
@@ -259,7 +266,7 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 <div class="timeline-icon">
 <img src="/uploads/Droit_applicable_blanc.svg" alt="" />
 </div>
-<h3 class="title">Droit applicable</h3>
+<h3 class="title-gauche">Droit applicable</h3>
 <p class="description-gauche">Dispose de fournisseurs exempts de toutes législations imposant le transfert de données personnelles hors Union européenne.
 </p>
 </div>
@@ -278,7 +285,7 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 <div class="timeline-icon">
 <img src="/uploads/Appairage_blanc.svg" alt="" />
 </div>
-<h3 class="title">Appairage direct</h3>
+<h3 class="title-gauche">Appairage direct</h3>
 <p class="description-gauche">Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits.</p>
 </div>
 </div>
