@@ -1,10 +1,11 @@
 ---
 title: Le Cloud pour les administrations
-permalink: "/services/cloud/"
+permalink: "/services/cloudold/"
+published: false
 position: 0
 menu:
-  title: Introduction
-  weight: 10
+  title: 
+  weight: 
 layout: cloud
 ---
 
