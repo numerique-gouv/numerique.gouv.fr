@@ -307,7 +307,7 @@ Opérée par la DGFiP pour l’ensemble des ministères, l’offre Cloud Nubo es
 
 * **Accompagnement** : Nubo met à disposition une équipe d’accompagnement, différents modes de communication (formulaires, adresse courriel dédiée, flux rss, salon Tchap), ainsi qu’un portail proposant des informations (actualités, nouveautés, interventions programmées), de la documentation, des outils web (portail de service, suivi de la consommation, niveaux de service, FAQ, suivi des demandes), et une bibliothèque logicielle, contenant des programmes prêts à l’emploi à destination des projets.
 
-<div align="center"><div class="lien-important"><p style="margin-bottom: 0px"><a href="https://portailnubo.dgfip.finances.rie.gouv.fr">En savoir plus sur l’offre Nubo</a></p></div>(lien accessible depuis le réseau interministériel de l’État).</div>
+<div align="center"><div class="lien-important"><p style="margin-bottom: 0px"><a href="https://portailnubo.dgfip.finances.rie.gouv.fr" title="En savoir plus sur l’offre Nubo - Lien externe">En savoir plus sur l’offre Nubo</a></p></div>(lien accessible depuis le réseau interministériel de l’État).</div>
 
 <h3 style="margin-top:40px">Le Cloud PI</h3>
 Dédié aux services de l’État, opéré par le ministère de l’Intérieur, le Cloud PI offre la particularité de pouvoir héberger des produits manipulant des données de type diffusion restreinte (DR). L’offre de services du Cloud PI est orientée infrastructure à la demande, directement disponible via un portail ou des API.
