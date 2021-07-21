@@ -5,6 +5,19 @@ permalink: "/services/cloud/doctrine/"
 menu:
   title: La doctrine de l'État
   weight: 20
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 layout: cloud
 ---
 
@@ -32,3 +45,5 @@ Notamment, chaque produit numérique manipulant des **données sensibles**, qu�
 Le passage au Cloud est également une occasion de **renforcer la résilience des produits numériques des administrations**, au service de la continuité du service public. Les administrations peuvent donc dès à présent s’appuyer sur une diversité de technologies, de fournisseurs et d’infrastructures pour préparer des **plans de continuité et de reprise d’activité** pouvant être activés en cas d’incident.
 
 **Avec « Cloud au centre », l’État se dote d’une doctrine complète, engageant résolument les administrations sur la voie d’une transformation numérique de qualité tout en renforçant la souveraineté de l’État et la protection des données des Français.**
+
+<div align="center" style="margin-top: 30px"><a href="https://www.legifrance.gouv.fr/circulaire/id/45205" class="button" alt="Lire la doctrine Cloud au centre et la circulaire du Premier ministre - Lien externe"><b>Lire la doctrine Cloud au centre et la circulaire du Premier ministre</b></a></div>
