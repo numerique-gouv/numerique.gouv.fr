@@ -16,7 +16,7 @@ layout: cloud
 L’adoption du cloud est une transformation majeure et, comme dans tout processus de cette nature, la description de la cible importe moins que la réflexion accompagnant des modifications culturelles, l’acquisition de nouveaux savoir-faire et l’adaptation des modes de fonctionnement.
 Plutôt que de prescrire « où aller ? » ou « comment y aller ? », nous préférerons donner quelques pistes pour expliquer « par quoi commencer ? » - qui encouragent la réflexion avec de bonnes questions à se poser qui mériteront à un moment ou un autre, de trouver une réponse.
 
-<ol><div align="center"><h4><li>Définir ses enjeux et choisir ses objectifs</li></h4></div></ol>
+<ol><div align="center"><h4><b><li>Définir ses enjeux et choisir ses objectifs</li></b></h4></div></ol>
 <p>Cette étape cruciale doit être traitée au plus haut niveau afin que les objectifs et orientations retenus soient soutenus par la chaîne hiérarchique :</p>
 <ul><li>En quoi l’adoption du Cloud computing est-elle associée aux enjeux de modernisation de l’organisation – et pas seulement des activités informatiques ?</li>
 <li>Quels sont les domaines clés dans lesquels la poursuite de cet objectif d’excellence impose d’investir ? Le Cloud computing en fait-il partie ? Qu’en est-il pour la partie infrastructure ? Et sur la manière dont le service est rendu (DevOps, mode produit…) ?</li>
@@ -60,6 +60,6 @@ Toutes ces mutations ne sont pas à envisager au premier jour de la démarche d�
 <p>Le choix des pilotes doit respecter plusieurs critères : l’environnement doit être représentatif en termes de taille et de standards techniques et offrir la garantie de pouvoir pousser l’expérience jusqu’à la production (ce qui le distinguera de la preuve de concept). Concernant la représentativité, il est important de noter que les standards de sécurité ne doivent pas être dégradés. La sécurité dans le cloud, qui impose des mesures spécifiques et une attention particulière de la part des équipes de développement, ne peut être « remise à plus tard ».</p>
 <p>Enfin, les enseignements qui en seront tirés doivent être de portée générale. </p>
 
-<p><b>Une fois les premiers pas réalisés, comme pour toute transformation, reste le principal : entrer dans un processus itératif d’essais, d’expérimentation, d’apprentissage, d’erreurs… qui constituent le cœur et l’objectif du processus d’adoption du <span lang="en">Cloud computing</span>.<b></p>
+<p><b>Une fois les premiers pas réalisés, comme pour toute transformation, reste le principal : entrer dans un processus itératif d’essais, d’expérimentation, d’apprentissage, d’erreurs… qui constituent le cœur et l’objectif du processus d’adoption du <span lang="en">Cloud computing</span>.</b></p>
 
 
