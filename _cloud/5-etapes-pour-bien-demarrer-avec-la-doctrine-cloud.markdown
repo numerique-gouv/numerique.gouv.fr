@@ -24,14 +24,14 @@ Plutôt que de prescrire « où aller ? » ou « comment y aller ? », nous pré
 <li>Quelle trajectoire et quel pilotage de la transformation : en visant la conversion d’une proportion des effectifs ou des fonctions de l’organisation, ou au contraire d’un pourcentage des actifs techniques, applications ou serveurs ?</li>
 <li>Quelle gouvernance de transformation, et quelle implication de la hiérarchie ?</li></ul>
 
-<ol start="2"><div align="center"><h4><b><li><li>Établir le champ du possible</li></b></h4></div></ol>
-Il s’agit de décider du type de Cloud le plus adapté à son application à partir d’une cartographie exhaustive de son SI et des contraintes s’y appliquant : applications métier avec un équivalent en SaaS, contraintes réglementaires et de sécurité, flux inter-applications, licences logicielles, contrats d’hébergement et d’infogérance – sans que cette liste soit limitative.
-Il en ressort une matrice d’emploi qui indique pour chaque segment de son système d’information le socle qui lui est permis.
+<ol start="2"><div align="center"><h4><b><li>Établir le champ du possible</li></b></h4></div></ol>
+<p>Il s’agit de décider du type de Cloud le plus adapté à son application à partir d’une cartographie exhaustive de son SI et des contraintes s’y appliquant : applications métier avec un équivalent en SaaS, contraintes réglementaires et de sécurité, flux inter-applications, licences logicielles, contrats d’hébergement et d’infogérance – sans que cette liste soit limitative.</p>
+<p>Il en ressort une matrice d’emploi qui indique pour chaque segment de son système d’information le socle qui lui est permis.</p>
 
-Quelques exemples :
+<p>Quelques exemples :
 <ul><li><b>Une application avec des données sensibles et essentielle au service rendu</b> sera conservée sur le Cloud interne ou sur un Cloud commercial de confiance (SecNumCloud), hors de portée du droit extra-européen et conforme au RGPD ;</li>
 <li>Une application essentielle au service rendu avec des données non sensibles sera hébergée sur un Cloud commercial avec une redondance sur deux régions et l’étude préalable contiendra une analyse des risques ;</li>
-<li><b>Les activités des Startups d’État sans données sensibles, ou avec des données sensibles mais au stade du prototype,</b> seront hébergées sur le Cloud de leur choix. Le jour où elles passent à l’échelle, la bascule sur un hébergeur conforme à sa sensibilité devient requise.</li></ul>
+<li><b>Les activités des Startups d’État sans données sensibles, ou avec des données sensibles mais au stade du prototype,</b> seront hébergées sur le Cloud de leur choix. Le jour où elles passent à l’échelle, la bascule sur un hébergeur conforme à sa sensibilité devient requise.</li></ul></p>
 
 <p>Il faut également quantifier le volet économique de cette transformation, qui même si elle est associée à des objectifs stratégiques de modernisation, ne doit pas être à l’origine d’une dérive incontrôlée de la dépense. En ce sens, le suivi fin des dépenses de bureautique des administrations, qui constituent encore un volet majeur de leur budget informatique, ne doit pas donner lieu à une nouvelle approche qui aggraverait sensiblement cette dépense, sous couvert de modernité et sous la pression des fournisseurs.</p>
 
@@ -39,7 +39,7 @@ Quelques exemples :
 <p>L'informatique en nuage correspond à un nouveau mode de consommation de ressources techniques : il impose une transformation profonde du fonctionnement de la direction du numérique et l’adaptation d’un certain nombre de règles techniques jugées hier indispensables.
 Toutes ces mutations ne sont pas à envisager au premier jour de la démarche d’adoption, mais certaines sont à considérer comme des prérequis, pas seulement pour laisser entrevoir l’accès aux bénéfices liés au fonctionnement selon les principes du <span lang="en">« Cloud native »</span> mais également pour ne pas compromettre le fonctionnement du SI.</p>
 
-Quelques exemples :
+<p>Quelques exemples :</p>
 <ul><li><b>Gouvernance de la dépense :</b> le commissionnement de nouvelles ressources pouvant être engagées par les chaînes automatisées, une dérive de coût peut survenir du fait d’une mauvaise appréciation ou d’une erreur. Des garde-fous doivent être prévus comme l’étiquetage systématique des ressources et le paramétrage de seuils d’alertes – tout comme doit être permis l’engagement de ressources par les équipes opérationnelles dans des limites données ;</li>
 <li><b>Sécurité :</b> l’implémentation de la sécurité repose pour partie sur la sécurisation de composants a priori, et pour partie sur une implémentation par les équipes de développement. Ces travaux préalables tout comme la mise en place de contrôles continus de conformité et le raccordement au SOC doivent être réalisés ;</li>
 <li><b>Réseau :</b> un nouveau composant du SI développé dans un Cloud commercial peut engager des flux importants sur la connexion internet partagée qui, dépourvue de bande passante garantie, sera associée à des risques de contention et de baisse de performance. La question du raccordement au Cloud via un lien dédié et supervisé sera également posée dès le démarrage ;</li>
