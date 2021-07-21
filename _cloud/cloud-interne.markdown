@@ -295,7 +295,7 @@ Ces deux offres sont accessibles et manipulables directement via API.
 <h3 style="margin-top:40px">Le Cloud Nubo</h3>
 Opérée par la DGFiP pour l’ensemble des ministères, l’offre Cloud Nubo est destinée à accueillir des services, données et traitements sensibles de l’État, hors Diffusion restreinte.
 
-À fin mars 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis sur un total de 2000 machines virtuelles.
+À fin mars 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis sur un total de 2&nbsp;000 machines virtuelles.
 
 * **Socle technique** : Nubo est une offre de service orientée IaaS, basée sur la version communautaire OpenStack, en lien avec la fondation OpenStack, avec une montée de version majeure régulière.
 
@@ -312,14 +312,14 @@ Opérée par la DGFiP pour l’ensemble des ministères, l’offre Cloud Nubo es
 <h3 style="margin-top:40px">Le Cloud PI</h3>
 Dédié aux services de l’État, opéré par le ministère de l’Intérieur, le Cloud PI offre la particularité de pouvoir héberger des produits manipulant des données de type diffusion restreinte (DR). L’offre de services du Cloud PI est orientée infrastructure à la demande, directement disponible via un portail ou des API.
 
-À fin mars 2021, l’offre Cloud PI héberge plus de xxxx produits répartis sur 8 000 machines virtuelles.
+À fin juillet 2021, le Cloud PI compte plus de 8 000 machines virtuelles.
 
 * **Socle technique** : L’offre PI est basée sur une distribution OpenStack HPE Helion, qui sera remplacée d’ici à la fin 2022 ; la migration de l’une à l’autre sera assurée.
 
-* **Modèle de résilience** : Les infrastructures de PI sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 3 « availability zones » (AZ) indépendantes, et permet d’avoir une exposition internet ou RIE.
+* **Modèle de résilience** : Les infrastructures de PI sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 3 <span lang="en">« availability zones »</span> (AZ) indépendantes, et permet d’avoir une exposition internet ou RIE.
 
 * **Catalogue de services** : PI propose un catalogue de services orientés IaaS (Compute, Stockage, Réseau notamment).
 
-* **Niveau de service / Support** : PI s’engage sur contrat de service avec un niveau de disponibilité de 98% à 99,9% en fonction des composants (portail, puissance informatique, API OpenStack), et un support en 24h/24 – 7j/7
+* **Niveau de service / Support** : PI s’engage sur un contrat de service avec un niveau de disponibilité de 98% à 99,9% en fonction des composants (portail, puissance informatique, API OpenStack), et un support en 24h/24 – 7j/7
 
 * **Accompagnement** : PI propose un portail, avec de la documentation en ligne à destination des projets.
