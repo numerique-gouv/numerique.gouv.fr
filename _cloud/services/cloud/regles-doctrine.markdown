@@ -2,7 +2,6 @@
 title: Les règles de la doctrine
 date: 2021-07-19 14:16:00 +02:00
 permalink: "/services/cloud/regles-doctrine/"
-published: false
 menu:
   title: Les règles de la doctrine
   weight: 30
