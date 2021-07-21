@@ -5,6 +5,8 @@ permalink: "/services/cloud/regles-doctrine/"
 menu:
   title: Les règles de la doctrine
   weight: 30
+une:
+  image: "/uploads/cloud_page_fille.png"
 layout: cloud
 ---
 
