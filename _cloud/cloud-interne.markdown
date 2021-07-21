@@ -261,7 +261,7 @@ Ces deux offres sont accessibles et manipulables directement via API.
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<img src="/uploads/conseil-strategie-transformation-numerique/Etape-2-blanc-2.png" alt="Etape 2" />
+<img src="/uploads/Localisation-france_blanc.svg" alt="" />
 </div>
 <h3 class="title">Localisation France</h3>
 <p class="description">Offre une garantie de localisation du stockage, du traitement, de l’administration et de la supervision en France.
