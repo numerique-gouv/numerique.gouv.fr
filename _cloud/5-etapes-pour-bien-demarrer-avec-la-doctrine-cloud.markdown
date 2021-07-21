@@ -5,6 +5,8 @@ permalink: "/services/cloud/demarrer/"
 menu:
   title: Par où commencer ?
   weight: 40
+une:
+  image: "/uploads/cloud_page_fille.png"
 layout: cloud
 ---
 
