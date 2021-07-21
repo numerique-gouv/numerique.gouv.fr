@@ -45,6 +45,8 @@ style: |2
     color: #095D9C;
     font-weight: bold;
   }
+une:
+  image: "/uploads/cloud_page_fille.png"
 layout: cloud
 ---
 
