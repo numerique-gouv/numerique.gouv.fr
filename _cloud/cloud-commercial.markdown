@@ -239,7 +239,7 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 
 * **Cloud commercial de confiance :** offres disposant de la qualification ANSSI SecNumCloud et de l’immunité contre toute réglementation extraterritoriale. Elles proposent des garanties équivalentes à celles du Cloud interne, pour les données sensibles et services essentiels (hors diffusion restreinte), tout en étant cette fois ouvertes à l’ensemble des administrations.
 
-* **Cloud externe générique :** donne accès aux offres grand public et ainsi aux dernières innovations des leaders mondiaux de services Cloud. Elles sont adaptées à l’hébergement de données non sensibles et aux services non essentiels au fonctionnement des administrations.
+* **Cloud commercial générique :** donne accès aux offres grand public et ainsi aux dernières innovations des leaders mondiaux de services Cloud. Elles sont adaptées à l’hébergement de données non sensibles et aux services non essentiels au fonctionnement des administrations.
 
 <h3 style="margin-bottom:40px; margin-top:50px">Les caractéristiques du Cloud commercial</h3>
 
