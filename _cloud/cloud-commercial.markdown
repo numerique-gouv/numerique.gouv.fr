@@ -295,5 +295,5 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 </div>
 </div>
 </div>
-<div align="center" style="margin-top: 30px"><a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" class="button" title="Accéder l’offre de Cloud commercial - lien externe"><b>Accéder l’offre de Cloud commercial sur ugap.fr</b></a></div>
+<div align="center" style="margin-top: 30px"><a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" class="button" title="Accéder à l’offre de Cloud commercial - lien externe"><b>Accéder à l’offre de Cloud commercial sur ugap.fr</b></a></div>
 
