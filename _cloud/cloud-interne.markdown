@@ -295,7 +295,7 @@ Ces deux offres sont accessibles et manipulables directement via API.
 <h3 style="margin-top:40px">Le Cloud Nubo</h3>
 Opérée par la DGFiP pour l’ensemble des ministères, l’offre Cloud Nubo est destinée à accueillir des services, données et traitements sensibles de l’État, hors Diffusion restreinte.
 
-À fin mars 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis sur un total de 2&nbsp;000 machines virtuelles.
+Fin juillet 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis sur un total de 2&nbsp;000 machines virtuelles.
 
 * **Socle technique** : Nubo est une offre de service orientée IaaS, basée sur la version communautaire OpenStack, en lien avec la fondation OpenStack, avec une montée de version majeure régulière.
 
