@@ -18,6 +18,8 @@ style: |-
   margin: 4px 2px;
   cursor: pointer;
   }
+une:
+  image: "/uploads/cloud_page_fille.png"
 layout: cloud
 ---
 
