@@ -239,7 +239,7 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 
 * **Cloud externe générique :** donne accès aux offres grand public et ainsi aux dernières innovations des leaders mondiaux de services Cloud. Elles sont adaptées à l’hébergement de données non sensibles et aux services non essentiels au fonctionnement des administrations.
 
-<h3 style="margin-bottom:40px; margin-top:30px">Les caractéristiques du Cloud commercial</h3>
+<h3 style="margin-bottom:40px; margin-top:50px">Les caractéristiques du Cloud commercial</h3>
 
 <div class="row">
 <div class="col-md-12">
