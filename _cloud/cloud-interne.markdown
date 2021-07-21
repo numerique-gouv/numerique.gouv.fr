@@ -282,7 +282,7 @@ Ces deux offres sont accessibles et manipulables directement via API.
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<img src="/uploads/Richesse_du_catalogue_blanc.svg" alt="" />
+<img src="/uploads/Internet_blanc.svg" alt="" />
 </div>
 <h3 class="title">RIE et Internet</h3>
 <p class="description">Dispose de zones dédiées permettant d’être exposé soit au réseau interministériel de l’État (RIE), et ainsi de profiter d’un niveau de résilience élevé, soit à Internet.</p>
