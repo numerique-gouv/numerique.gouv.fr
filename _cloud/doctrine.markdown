@@ -46,4 +46,4 @@ Le passage au Cloud est également une occasion de **renforcer la résilience de
 
 **Avec « Cloud au centre », l’État se dote d’une doctrine complète, engageant résolument les administrations sur la voie d’une transformation numérique de qualité tout en renforçant la souveraineté de l’État et la protection des données des Français.**
 
-<div align="center" style="margin-top: 30px"><a href="https://www.legifrance.gouv.fr/circulaire/id/45205" class="button" alt="Lire la doctrine Cloud au centre et la circulaire du Premier ministre - Lien externe"><b>Lire la doctrine Cloud au centre et la circulaire du Premier ministre</b></a></div>
+<div align="center" style="margin-top: 30px"><a href="https://www.legifrance.gouv.fr/circulaire/id/45205" class="button" title="Lire la doctrine Cloud au centre et la circulaire du Premier ministre - Lien externe"><b>Lire la doctrine Cloud au centre et la circulaire</b></a></div>
