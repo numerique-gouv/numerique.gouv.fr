@@ -26,4 +26,3 @@ Pour faciliter le recours au Cloud, l’État met à la disposition des acteurs 
 <ul> <li> <p style="margin-top:1rem; margin-bottom:1rem;"><strong>Cloud commercial de confiance&nbsp;:</strong> offres disposant de la qualification ANSSI SecNumCloud et de l’immunité contre toute réglementation extraterritoriale. Elles proposent des garanties de protection pour les données sensibles et services essentiels (hors diffusion restreinte), et sont adaptées à un grand nombre de projets des administrations publiques.</p> </li> 
 <li> <p><strong>Cloud externe générique&nbsp;:</strong> donne accès aux offres grand public et ainsi aux dernières innovations des leaders mondiaux de services Cloud. Elles sont adaptées à l’hébergement de données non sensibles et aux services non essentiels au fonctionnement des administrations.</p> </li> </ul> 
 </div>
-</div>
