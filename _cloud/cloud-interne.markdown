@@ -292,23 +292,24 @@ Ces deux offres sont accessibles et manipulables directement via API.
 </div>
 <div align="center" style="margin-bottom: 40px; margin-top: 60px;"><b>Vous souhaitez recourir au Cloud interne ? Obtenir plus d’infos sur les modalités d’accès ?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div>
 
-**Le Cloud Nubo**
+<h3 style="margin-bottom:40px; margin-top:30px">Le Cloud Nubo</h3>
 
 Opérée par la DGFiP pour l’ensemble des ministères, l’offre Cloud Nubo est destinée à accueillir des services, données et traitements sensibles de l’État, hors Diffusion restreinte.
 
 À fin mars 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis sur un total de 2000 machines virtuelles.
 
-- **Socle technique** : Nubo est une offre de service orientée IaaS, basée sur la version communautaire OpenStack, en lien avec la fondation OpenStack, avec une montée de version majeure régulière.
+* **Socle technique** : Nubo est une offre de service orientée IaaS, basée sur la version communautaire OpenStack, en lien avec la fondation OpenStack, avec une montée de version majeure régulière.
 
-- **Modèle de résilience** : Les infrastructures de Nubo sont déployées sur 2 sites en Ile-de-France (Noisiel et Bussy-Saint-Georges). Chaque site dispose de 2 régions indépendantes (une région exposée RIE, et une région pour l’exposition Internet) permettant aux bénéficiaires d’organiser une résilience multi-sites pour les projets nécessitant un haut niveau de disponibilité.
+* **Modèle de résilience** : Les infrastructures de Nubo sont déployées sur 2 sites en Ile-de-France (Noisiel et Bussy-Saint-Georges). Chaque site dispose de 2 régions indépendantes (une région exposée RIE, et une région pour l’exposition Internet) permettant aux bénéficiaires d’organiser une résilience multi-sites pour les projets nécessitant un haut niveau de disponibilité.
 
-- **Catalogue de services** : Le catalogue de services de Nubo, orienté IaaS, propose des services Cloud communs (ressources de calcul, de stockage et de réseau) exposés en self-service via des API, et facturés suivant un mode de consommation à l’usage et un tarif garanti par une convention DINUM.
+* **Catalogue de services** : Le catalogue de services de Nubo, orienté IaaS, propose des services Cloud communs (ressources de calcul, de stockage et de réseau) exposés en self-service via des API, et facturés suivant un mode de consommation à l’usage et un tarif garanti par une convention DINUM.
 
-- **Niveau de service / Support** : Nubo s’engage sur une disponibilité de 98% pour chaque région, et un délai de prise en compte du support en 4h sur une plage horaire de 8h – 20h en jours ouvrés. Un projet nécessitant un niveau de disponibilité supérieur doit se déployer sur 2 régions.
+* **Niveau de service / Support** : Nubo s’engage sur une disponibilité de 98% pour chaque région, et un délai de prise en compte du support en 4h sur une plage horaire de 8h – 20h en jours ouvrés. Un projet nécessitant un niveau de disponibilité supérieur doit se déployer sur 2 régions.
 
-- **Accompagnement** : Nubo met à disposition une équipe d’accompagnement, différents modes de communication (formulaires, adresse courriel dédiée, flux rss, salon Tchap), ainsi qu’un portail proposant des informations (actualités, nouveautés, interventions programmées), de la documentation, des outils web (portail de service, suivi de la consommation, niveaux de service, FAQ, suivi des demandes), et une bibliothèque logicielle, contenant des programmes prêts à l’emploi à destination des projets.
+* **Accompagnement** : Nubo met à disposition une équipe d’accompagnement, différents modes de communication (formulaires, adresse courriel dédiée, flux rss, salon Tchap), ainsi qu’un portail proposant des informations (actualités, nouveautés, interventions programmées), de la documentation, des outils web (portail de service, suivi de la consommation, niveaux de service, FAQ, suivi des demandes), et une bibliothèque logicielle, contenant des programmes prêts à l’emploi à destination des projets.
 
-> [En savoir plus sur l’offre Nubo](file:///C:\\Users\\TPradere\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Outlook\\KT2QUJAB\\En%20savoir%20plus%20sur%20l'offre%20Nubo) (lien accessible depuis le réseau interministériel de l’État).
+<div align="center"><div class="lien-important"><a href="https://portailnubo.dgfip.finances.rie.gouv.fr">En savoir plus sur l’offre Nubo</a></div>
+<br>(lien accessible depuis le réseau interministériel de l’État).</div>
 
 **Le Cloud PI**
 
