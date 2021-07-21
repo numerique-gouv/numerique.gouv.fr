@@ -25,7 +25,7 @@ publications:
 - title: Panorama des grands projets numériques de l'État
   url: "/publications/panorama-grands-projets-si"
   une-ou-diaporama:
-  - image: "/uploads/panorama-grands-projets-numeriques_rub.png"
+  - image: "/uploads/capture-panorama-juillet2021.png"
 - title: Politique de contribution aux logiciels libres de l’État
   url: "/publications/politique-logiciel-libre"
   une-ou-diaporama:

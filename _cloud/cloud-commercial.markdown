@@ -1,11 +1,11 @@
 ---
-title: Le Cloud interne
-date: 2021-07-08 17:39:00 +02:00
-permalink: "/services/cloud/cloud-interne/"
+title: Le Cloud commercial
+date: 2021-07-08 11:25:00 +02:00
+permalink: "/services/cloud/cloud-commercial/"
 published: false
 menu:
-  title: Le Cloud interne
-  weight: 50
+  title: Le Cloud commercial
+  weight: 60
 style: |
   .button {
   background-color: #0d5c98;
@@ -228,23 +228,19 @@ style: |
 layout: cloud
 ---
 
-<h4 style="margin-top:-20px">Dédié aux services sensibles de l’État</h4>
+<h4 style="margin-top:-20px">Pour l’ensemble des acteurs publics</h4>
 
-Réservé aux administrations d’État, le Cloud interne a vocation à héberger leurs services numériques, traitements et données sensibles, à l’image du Cloud de confiance qui, lui, est ouvert à l’ensemble des administrations.
+Mise à disposition des ministères, des collectivités territoriales et de l’ensemble de la sphère publique, l’offre de **Cloud commercial** donne accès aux catalogues de services des principaux fournisseurs de Cloud français et mondiaux.
 
-L’offre de Cloud interne, interministérielle, permet de bénéficier d’un Cloud souverain maîtrisé et opéré par des agents de l’État, hébergé dans les centres de production informatique de l’État et reposant sur les technologies open source OpenStack.
+Accessible facilement via l’UGAP et issue d’une collaboration avec la direction des achats de l’État (DAE) et la direction interministérielle du numérique (DINUM), cette offre rend accessible une variété de services d’infrastructure et de plateforme (IaaS et PaaS) et permet de choisir la solution la mieux adaptée à vos besoins.
 
-Ces infrastructures sont aptes à recevoir des produits en cours de développement tout comme des produits en production avec des besoins de haute disponibilité.
+Le marché Cloud commercial propose ainsi un large éventail de solutions et de garanties pour répondre à vos enjeux de sécurité.
 
-Ces deux offres sont accessibles et manipulables directement via API.
+* **Cloud commercial de confiance :** offres disposant de la qualification ANSSI SecNumCloud et de l’immunité contre toute réglementation extraterritoriale. Elles proposent des garanties équivalentes à celles du Cloud interne, pour les données sensibles et services essentiels (hors diffusion restreinte), tout en étant cette fois ouvertes à l’ensemble des administrations.
 
-**Ce cloud interne se décline en deux offres :**
+* **Cloud externe générique :** donne accès aux offres grand public et ainsi aux dernières innovations des leaders mondiaux de services Cloud. Elles sont adaptées à l’hébergement de données non sensibles et aux services non essentiels au fonctionnement des administrations.
 
-* **Nubo,** opérée par la DGFiP, adapté à l’hébergement de données sensibles,
-
-* **PI,** opérée par le ministère de l’Intérieur, adapté à l’hébergement de données sensibles jusqu’au niveau Diffusion restreinte.
-
-<h3 style="margin-bottom:40px; margin-top:30px">Les caractéristiques du Cloud interne</h3>
+<h3 style="margin-bottom:40px; margin-top:30px">Les caractéristiques du Cloud commercial</h3>
 
 <div class="row">
 <div class="col-md-12">
@@ -255,72 +251,50 @@ Ces deux offres sont accessibles et manipulables directement via API.
 <img src="/uploads/Secnumcloud_blanc.svg" alt="" />
 </div>
 <h3 class="title-gauche">SecNumCloud</h3>
-<p class="description-gauche">Offre d’un niveau de confiance jugé acceptable vis-à-vis du référentiel SecNumCloud (non soumis à la qualification).
+<p class="description-gauche">Offre des garanties relatives au prestataire, à son personnel, à la localisation des données et de leur traitement au sein de l’UE ainsi qu’au droit applicable à ces données. <a href="https://ssi.gouv.fr/secnumcloud">> Retrouvez la liste des fournisseurs qualifiées SecNumCloud</a>
 </p>
 </div>
 </div>
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<img src="/uploads/Localisation-france_blanc.svg" alt="" />
+<img src="/uploads/Localisation_des_donnees_blanc.svg" alt="" />
 </div>
-<h3 class="title">Localisation France</h3>
-<p class="description">Offre une garantie de localisation du stockage, du traitement, de l’administration et de la supervision en France.
+<h3 class="title">Localisation France ou UE</h3>
+<p class="description">Offre une possibilité de localisation du stockage, du traitement, de l’administration et de la supervision dans l’Union européenne.
 </p>
 </div>
 </div>
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<img src="/uploads/OpenStack.svg" alt="" />
+<img src="/uploads/Droit_applicable_blanc.svg" alt="" />
 </div>
-<h3 class="title-gauche">OpenStack</h3>
-<p class="description-gauche">Assure une maîtrise complète de l’infrastructure par l’État et un niveau important de portabilité et de réversibilité.
+<h3 class="title-gauche">Droit applicable</h3>
+<p class="description-gauche">Dispose de fournisseurs exempts de toutes législations imposant le transfert de données personnelles hors Union européenne.
 </p>
 </div>
 </div>
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<img src="/uploads/Internet_blanc.svg" alt="" />
+<img src="/uploads/Richesse_du_catalogue_blanc.svg" alt="" />
 </div>
-<h3 class="title">RIE et Internet</h3>
-<p class="description">Dispose de zones dédiées permettant d’être exposé soit au réseau interministériel de l’État (RIE), et ainsi de profiter d’un niveau de résilience élevé, soit à Internet.</p>
-</div>
-</div>
+<h3 class="title">Richesse du catalogue</h3>
+<p class="description">Dispose d’une large gamme de services communs et innovants afin de répondre à l’ensemble des besoins de la sphère publique.</p>
 </div>
 </div>
+<div class="timeline">
+<div class="timeline-content">
+<div class="timeline-icon">
+<img src="/uploads/Appairage_blanc.svg" alt="" />
 </div>
-<div align="center" style="margin-bottom: 40px; margin-top: 60px;"><b>Vous souhaitez recourir au Cloud interne ? Obtenir plus d’infos sur les modalités d’accès ?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div>
+<h3 class="title-gauche">Appairage direct</h3>
+<p class="description-gauche">Offre la possibilité d’établir une connexion entre votre réseau et celui du fournisseur afin de bénéficier de meilleures performances et de coûts de données sortantes réduits.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div align="center" style="margin-top: 30px"><a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" class="button" alt="Accéder l’offre de Cloud commercial - lien externe"><b>Accéder l’offre de Cloud commercial sur ugap.fr</b></a></div>
 
-<h3 style="margin-top:40px">Le Cloud Nubo</h3>
-Opérée par la DGFiP pour l’ensemble des ministères, l’offre Cloud Nubo est destinée à accueillir des services, données et traitements sensibles de l’État, hors Diffusion restreinte.
-
-À fin mars 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis sur un total de 2000 machines virtuelles.
-
-* **Socle technique** : Nubo est une offre de service orientée IaaS, basée sur la version communautaire OpenStack, en lien avec la fondation OpenStack, avec une montée de version majeure régulière.
-
-* **Modèle de résilience** : Les infrastructures de Nubo sont déployées sur 2 sites en Ile-de-France (Noisiel et Bussy-Saint-Georges). Chaque site dispose de 2 régions indépendantes (une région exposée RIE, et une région pour l’exposition Internet) permettant aux bénéficiaires d’organiser une résilience multi-sites pour les projets nécessitant un haut niveau de disponibilité.
-
-* **Catalogue de services** : Le catalogue de services de Nubo, orienté IaaS, propose des services Cloud communs (ressources de calcul, de stockage et de réseau) exposés en self-service via des API, et facturés suivant un mode de consommation à l’usage et un tarif garanti par une convention DINUM.
-
-* **Niveau de service / Support** : Nubo s’engage sur une disponibilité de 98% pour chaque région, et un délai de prise en compte du support en 4h sur une plage horaire de 8h – 20h en jours ouvrés. Un projet nécessitant un niveau de disponibilité supérieur doit se déployer sur 2 régions.
-
-* **Accompagnement** : Nubo met à disposition une équipe d’accompagnement, différents modes de communication (formulaires, adresse courriel dédiée, flux rss, salon Tchap), ainsi qu’un portail proposant des informations (actualités, nouveautés, interventions programmées), de la documentation, des outils web (portail de service, suivi de la consommation, niveaux de service, FAQ, suivi des demandes), et une bibliothèque logicielle, contenant des programmes prêts à l’emploi à destination des projets.
-
-<div align="center"><div class="lien-important"><p style="margin-bottom: 0px"><a href="https://portailnubo.dgfip.finances.rie.gouv.fr">En savoir plus sur l’offre Nubo</a></p></div>(lien accessible depuis le réseau interministériel de l’État).</div>
-
-<h3 style="margin-top:40px">Le Cloud PI</h3>
-Dédié aux services de l’État, opéré par le ministère de l’Intérieur, le Cloud PI offre la particularité de pouvoir héberger des produits manipulant des données de type diffusion restreinte (DR). L’offre de services du Cloud PI est orientée infrastructure à la demande, directement disponible via un portail ou des API.
-
-À fin mars 2021, l’offre Cloud PI héberge plus de xxxx produits répartis sur 8 000 machines virtuelles.
-
-* **Socle technique** : L’offre PI est basée sur une distribution OpenStack HPE Helion, qui sera remplacée d’ici à la fin 2022 ; la migration de l’une à l’autre sera assurée.
-
-* **Modèle de résilience** : Les infrastructures de PI sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 3 « availability zones » (AZ) indépendantes, et permet d’avoir une exposition internet ou RIE.
-
-* **Catalogue de services** : PI propose un catalogue de services orientés IaaS (Compute, Stockage, Réseau notamment).
-
-* **Niveau de service / Support** : PI s’engage sur contrat de service avec un niveau de disponibilité de 98% à 99,9% en fonction des composants (portail, puissance informatique, API OpenStack), et un support en 24h/24 – 7j/7
-
-* **Accompagnement** : PI propose un portail, avec de la documentation en ligne à destination des projets.

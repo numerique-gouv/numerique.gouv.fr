@@ -8,7 +8,7 @@ files:
 - file: "/uploads/Referentiel_General_Interoperabilite_V1.pdf"
   nom: Référentiel général d’interopérabilité V1
 une:
-  image: "/uploads/2020_12_14_Bandeau_Page-fille_Inte%CC%81rope%CC%81rabilite%CC%81_1480x1000.jpg"
+  image: "/uploads/Bandeau_Page-fille_Interoperabilite_1480x1000.jpg"
 layout: rgaa
 ---
 
