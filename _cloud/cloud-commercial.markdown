@@ -2,10 +2,9 @@
 title: Le Cloud commercial
 date: 2021-07-08 11:25:00 +02:00
 permalink: "/services/cloud/cloud-commercial/"
-published: false
 menu:
   title: Le Cloud commercial
-  weight: 60
+  weight: 70
 style: |
   .button {
   background-color: #0d5c98;
@@ -225,6 +224,8 @@ style: |
     color: #095D9C;
     font-weight: bold;
   }
+une:
+  image: "/uploads/cloud_page_fille.png"
 layout: cloud
 ---
 
@@ -240,7 +241,7 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 
 * **Cloud externe générique :** donne accès aux offres grand public et ainsi aux dernières innovations des leaders mondiaux de services Cloud. Elles sont adaptées à l’hébergement de données non sensibles et aux services non essentiels au fonctionnement des administrations.
 
-<h3 style="margin-bottom:40px; margin-top:30px">Les caractéristiques du Cloud commercial</h3>
+<h3 style="margin-bottom:40px; margin-top:50px">Les caractéristiques du Cloud commercial</h3>
 
 <div class="row">
 <div class="col-md-12">
@@ -296,5 +297,5 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 </div>
 </div>
 </div>
-<div align="center" style="margin-top: 30px"><a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" class="button" alt="Accéder l’offre de Cloud commercial - lien externe"><b>Accéder l’offre de Cloud commercial sur ugap.fr</b></a></div>
+<div align="center" style="margin-top: 30px"><a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" class="button" title="Accéder à l’offre de Cloud commercial - lien externe"><b>Accéder à l’offre de Cloud commercial sur ugap.fr</b></a></div>
 

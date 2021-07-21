@@ -33,4 +33,4 @@ changer pour : {: .text-center .padding-vertical-3}
 <div class="responsive-embed iframe">
   <iframe class="no-border" title="Panorama des grands projets numériques de l’État" src="https://disic.github.io/panorama/" allowfullscreen></iframe>
 </div>
-<p class="margin-top-3 margin-left-3">Télécharger les données en format tableur : <a href="https://www.data.gouv.fr/fr/datasets/r/b2f8a9c2-1368-443f-a2e6-b5f7353d48c0" title="fichier ods (35 Ko) - Lien externe">fichier ods (35 Ko)</a>, <a href="https://www.data.gouv.fr/fr/datasets/r/a6548843-1c8d-4430-9c3e-8626ca19990e" title="fichier xls (45 Ko) - Lien externe">fichier xls - 45 Ko</a></p>
+<p class="margin-top-3 margin-left-3">Télécharger les données en format tableur : <a href="https://www.data.gouv.fr/fr/datasets/r/b2f8a9c2-1368-443f-a2e6-b5f7353d48c0" title="fichier ods (35 Ko) - Lien externe">fichier ods (35 Ko)</a>  -  <a href="https://www.data.gouv.fr/fr/datasets/r/a6548843-1c8d-4430-9c3e-8626ca19990e" title="fichier xls (45 Ko) - Lien externe">fichier xls - 45 Ko</a></p>

@@ -14,6 +14,10 @@ publications:
   url: "/services/catalogue-gouvtech-outils-numeriques-pour-services-publics/"
   une-ou-diaporama:
   - image: "/uploads/page-services-LABEL_rubrique.png"
+- title: Le Cloud pour les administrations
+  url: "/services/cloud/"
+  une-ou-diaporama:
+  - image: "/uploads/Cloud_rubrique.png"
 - title: Conseil et accompagnement au cadrage et pilotage de projets numériques
   url: "/services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/"
   une-ou-diaporama:

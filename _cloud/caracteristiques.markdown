@@ -1,12 +1,11 @@
 ---
 title: Quelle offre Cloud choisir ?
 date: 2021-06-04 14:17:00 +02:00
-permalink: "/services/cloud/caracteristiques/"
-published: false
+permalink: "/services/cloud/choisir/"
 position: 1
 menu:
   title: Quelle offre Cloud choisir ?
-  weight: 40
+  weight: 50
 style: |2
 
   .wrapper {
@@ -46,6 +45,8 @@ style: |2
     color: #095D9C;
     font-weight: bold;
   }
+une:
+  image: "/uploads/cloud_page_fille.png"
 layout: cloud
 ---
 
@@ -55,7 +56,10 @@ Nous avons résumé dans le tableau ci-dessous les caractéristiques principales
 
 
 ### Caractéristiques des offres Cloud
-![Tableau-offres-Cloud.png](/uploads/Tableau-offres-Cloud.png)
+<img src="/uploads/Tableau-offres-Cloud.png" alt=""/>
+<br>
+<a href="/uploads/Tableau-offres-Cloud.pdf">Télécharger la version accessible du tableau (pdf - 46 Ko)</a>
+
 
 ### Détails des caractéristiques des deux offres Cloud
 <div class="wrapper">
@@ -69,7 +73,7 @@ Les offres de Cloud commercial, issue des catalogues de services des principaux 
 Le Cloud offre une grande variété de tarification. Paiement à l’usage, instances à coût marginal, prix réduits en contrepartie d’une longue durée d’engagement : chaque fournisseur a ses propres caractéristiques qu’il convient d’analyser en détail pour optimiser sa facture, le Cloud commercial offrant la plus grande diversité.</div>
 <div class="panel"><figure style='width: 12%;'>
 <img src="/uploads/Donnees_sensibles.svg"/></figure><div class="titre-critere">Compatibilité données sensibles</div>
-L’utilisation du Cloud commercial générique pour des données particulièrement confidentielles ou dont l’intégrité est importante est a priori déconseillée. Si cette offre est néanmoins envisagée, son utilisation devra faire l’objet d’une analyse de risque approfondie et de mesures complémentaires de protection adaptées. L'offre de Cloud commercial de confiance peut être préconisée comme alternative à l'utilisation de l'offre de Cloud interne pour ce type de données.</div>
+À ce jour, seuls le Cloud interne et le Cloud commercial de confiance doivent être utilisés dans le cas d’un produit traitant des données sensibles, c’est-à-dire des données particulièrement confidentielles ou dont l’intégrité est importante, qu’elles relèvent du champ des données personnelles des citoyens français, des données économiques relatives aux entreprises françaises, ou d’applications métiers relatives aux agents publics de l’État.</div>
 <div class="panel"><figure style='width: 12%;'>
 <img src="/uploads/Services_essentiels.svg"/></figure><div class="titre-critere">Compatibilité services essentiels</div>
 Les services essentiels de l’État se caractérisent par un fort besoin de disponibilité, quelles que soient les circonstances. Pour la garantie de disponibilité dans des circonstances normales, le choix peut s’opérer en fonction des niveaux de service constatés des différentes offres des Cloud interne et Cloud commercial ainsi que du niveau de résilience de chacun des services. <br>Par ailleurs, l’État n’ayant que des garanties limitées sur les changements de stratégie des opérateurs du Cloud commercial, les services essentiels qui y seraient hébergés mériteraient de faire l’objet d’une analyse de risques et des possibilités de bascules vers des solutions de repli.</div>
