@@ -255,7 +255,7 @@ Ces deux offres sont accessibles et manipulables directement via API.
 <img src="/uploads/Secnumcloud_blanc.svg" alt="" />
 </div>
 <h3 class="title-gauche">SecNumCloud</h3>
-<p class="description-gauche">Offre d’un niveau de confiance jugé acceptable vis-à-vis du référentiel SecNumCloud (non soumis à la qualification).</a>
+<p class="description-gauche">Offre d’un niveau de confiance jugé acceptable vis-à-vis du référentiel SecNumCloud (non soumis à la qualification).
 </p>
 </div>
 </div>
