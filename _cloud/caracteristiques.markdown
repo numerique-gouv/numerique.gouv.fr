@@ -1,11 +1,11 @@
 ---
 title: Quelle offre Cloud choisir ?
 date: 2021-06-04 14:17:00 +02:00
-permalink: "/services/cloud/caracteristiques/"
+permalink: "/services/cloud/choisir/"
 position: 1
 menu:
   title: Quelle offre Cloud choisir ?
-  weight: 40
+  weight: 50
 style: |2
 
   .wrapper {
