@@ -5,6 +5,8 @@ permalink: "/services/cloud/"
 menu:
   title: Introduction
   weight: 10
+une:
+  image: "/uploads/cloud_page_fille.png"
 layout: cloud
 ---
 
