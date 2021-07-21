@@ -257,7 +257,7 @@ Le marché Cloud commercial propose ainsi un large éventail de solutions et de 
 <div class="timeline">
 <div class="timeline-content">
 <div class="timeline-icon">
-<img src="/uploads/conseil-strategie-transformation-numerique/Etape-2-blanc-2.png" alt="Etape 2" />
+<img src="/uploads/Localisation_des_donnees_blanc.svg" alt="" />
 </div>
 <h3 class="title">Localisation France ou UE</h3>
 <p class="description">Offre une possibilité de localisation du stockage, du traitement, de l’administration et de la supervision dans l’Union européenne.
