@@ -290,7 +290,7 @@ Ces deux offres sont accessibles et manipulables directement via API.
 </div>
 </div>
 </div>
-<div align="center" style="margin-bottom: 40px; margin-top: 60px;"><b>Vous souhaitez recourir au Cloud interne ? Obtenir plus d’infos sur les modalités d’accès ?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div>
+<div align="center" style="margin-bottom: 40px; margin-top: 60px;"><b>Vous souhaitez recourir au Cloud interne ? Obtenir plus d’infos sur les modalités d’accès ?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" title="Contactez-nous à infonuage.dinum@modernisation.gouv.fr - Ouvre une messagerie courriel"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div>
 
 <h3 style="margin-top:40px">Le Cloud Nubo</h3>
 Opérée par la DGFiP pour l’ensemble des ministères, l’offre Cloud Nubo est destinée à accueillir des services, données et traitements sensibles de l’État, hors Diffusion restreinte.
