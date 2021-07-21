@@ -292,8 +292,7 @@ Ces deux offres sont accessibles et manipulables directement via API.
 </div>
 <div align="center" style="margin-bottom: 40px; margin-top: 60px;"><b>Vous souhaitez recourir au Cloud interne ? Obtenir plus d’infos sur les modalités d’accès ?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" alt="Accéder l’offre de Cloud externe - lien externe"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div>
 
-<h3 style="margin-bottom:40px; margin-top:30px">Le Cloud Nubo</h3>
-
+<h3 style="margin-top:40px">Le Cloud Nubo</h3>
 Opérée par la DGFiP pour l’ensemble des ministères, l’offre Cloud Nubo est destinée à accueillir des services, données et traitements sensibles de l’État, hors Diffusion restreinte.
 
 À fin mars 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis sur un total de 2000 machines virtuelles.
@@ -311,18 +310,17 @@ Opérée par la DGFiP pour l’ensemble des ministères, l’offre Cloud Nubo es
 <div align="center"><div class="lien-important"><a href="https://portailnubo.dgfip.finances.rie.gouv.fr">En savoir plus sur l’offre Nubo</a></div>
 <br>(lien accessible depuis le réseau interministériel de l’État).</div>
 
-**Le Cloud PI**
-
+<h3 style="margin-top:40px">Le Cloud PI</h3>
 Dédié aux services de l’État, opéré par le ministère de l’Intérieur, le Cloud PI offre la particularité de pouvoir héberger des produits manipulant des données de type diffusion restreinte (DR). L’offre de services du Cloud PI est orientée infrastructure à la demande, directement disponible via un portail ou des API.
 
 À fin mars 2021, l’offre Cloud PI héberge plus de xxxx produits répartis sur 8 000 machines virtuelles.
 
-- **Socle technique** : L’offre PI est basée sur une distribution OpenStack HPE Helion, qui sera remplacée d’ici à la fin 2022 ; la migration de l’une à l’autre sera assurée.
+* **Socle technique** : L’offre PI est basée sur une distribution OpenStack HPE Helion, qui sera remplacée d’ici à la fin 2022 ; la migration de l’une à l’autre sera assurée.
 
-- **Modèle de résilience** : Les infrastructures de PI sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 3 « availability zones » (AZ) indépendantes, et permet d’avoir une exposition internet ou RIE.
+* **Modèle de résilience** : Les infrastructures de PI sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 3 « availability zones » (AZ) indépendantes, et permet d’avoir une exposition internet ou RIE.
 
-- **Catalogue de services **: PI propose un catalogue de services orientés IaaS (Compute, Stockage, Réseau notamment).
+* **Catalogue de services** : PI propose un catalogue de services orientés IaaS (Compute, Stockage, Réseau notamment).
 
-- **Niveau de service / Support **: PI s’engage sur contrat de service avec un niveau de disponibilité de 98% à 99,9% en fonction des composants (portail, puissance informatique, API OpenStack), et un support en 24h/24 – 7j/7
+* **Niveau de service / Support** : PI s’engage sur contrat de service avec un niveau de disponibilité de 98% à 99,9% en fonction des composants (portail, puissance informatique, API OpenStack), et un support en 24h/24 – 7j/7
 
-- **Accompagnement **: PI propose un portail, avec de la documentation en ligne à destination des projets.
+* **Accompagnement** : PI propose un portail, avec de la documentation en ligne à destination des projets.
