@@ -54,7 +54,7 @@ Nous avons résumé dans le tableau ci-dessous les caractéristiques principales
 
 
 ### Caractéristiques des offres Cloud
-![Tableau-offres-Cloud.png](/uploads/Tableau-offres-Cloud.png)
+<img src="/uploads/Tableau-offres-Cloud.png" alt=""/>
 <br>
 <a href="/uploads/Tableau-offres-Cloud.pdf">Télécharger la version accessible du tableau (pdf - 46 Ko)</a>
 
