@@ -12,17 +12,17 @@ chapeau-text: |-
   La DINUM vous propose une offre de conseil et d’appui
   pour vous aider à bien cadrer vos projets et à réduire
   les risques de dérives et de perte de valeur dans leur
-  mise en oeuvre. Inscrite dans le cadre du [programme
+  mise en œuvre. Inscrite dans le cadre du [programme
   TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/), cette offre s’adresse principalement
   aux directeurs d’administrations et chefs de service.
 
   **Notre conviction : c’est en intervenant le plus en
   amont possible à vos côtés, dans un rôle d’appui, que
   nous assurerons la réussite des projets numériques.**
-une-ou-diaporama:
-- image: "/uploads/offre-PI2_transpa-une.png"
 une:
   image: "/uploads/offre-PI2_transpa-une.png"
+une-ou-diaporama:
+- image: "/uploads/offre-PI2_transpa-une.png"
 layout: rgaa
 ---
 
