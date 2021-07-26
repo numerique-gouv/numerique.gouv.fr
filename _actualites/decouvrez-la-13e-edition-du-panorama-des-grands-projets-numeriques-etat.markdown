@@ -1,13 +1,20 @@
 ---
 title: Découvrez la 13e édition du panorama des grands projets numériques de l’État
-date: 2021-07-22 10:47:00 +02:00
+date: 2021-07-26 10:47:00 +02:00
 categories:
-- Brève
+- Publication
 tags:
 - Panorama des grands projets numériques de l'État
 - Sécurisation
 une-ou-diaporama:
 - image: "/uploads/PANORAMA-13e-edition.png"
+  alternative-textuelle: |
+    49 projets suivis,
+    3 projets interministériels,
+    1,88 milliard d'euros de coûts complets estimés (hors projets en cadrage ou en révision de trajectoire),
+    6,5 années de durée moyenne,
+    21,6% : taux d'écart calendaire moyen,
+    19,3% : taux d'écart budgétaire moyen
 style: |-
   .button {
   background-color: #0d5c98;
