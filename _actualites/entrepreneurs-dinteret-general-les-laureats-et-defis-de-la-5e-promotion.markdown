@@ -18,4 +18,4 @@ redirection: https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-laureats-
 
 C’est **aux côtés de ces agents publics, au cœur de leurs administrations **respectives, que les 39 EIG relèveront** 16 défis**.
 
-<div class="lien-important"><p><a href="https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-laureats-et-defis-de-la-5eme-promotion/>Lire la suite sur etalab.gouv.fr</a></p></div>
+<div class="lien-important"><p><a href="https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-laureats-et-defis-de-la-5eme-promotion/" title="Lire la suite sur etalab.gouv.fr - lien externe">Lire la suite sur etalab.gouv.fr</a></p></div>
