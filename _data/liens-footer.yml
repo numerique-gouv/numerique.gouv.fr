@@ -35,6 +35,8 @@ outils-pour-les-agents:
     url: https://www.tchap.gouv.fr/
   - link: Webconférence de l'État
     url: https://webconf.numerique.gouv.fr/
+  - link: Webinaire de l'État
+    url: https://webinaire.numerique.gouv.fr/
   - link: Audioconférence de l'État
     url: https://audioconf.numerique.gouv.fr/
   - link: Osmose
