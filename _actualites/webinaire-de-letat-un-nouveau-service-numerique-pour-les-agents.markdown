@@ -11,4 +11,4 @@ une-ou-diaporama:
 redirection-interne: https://www.numerique.gouv.fr/outils-agents/webinaire-etat/
 ---
 
-<div class="lien-important"><p><a href="/outils-agents/webinaire-etat/>Lire la suite</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/outils-agents/webinaire-etat/>Lire la suite</a></p></div>
