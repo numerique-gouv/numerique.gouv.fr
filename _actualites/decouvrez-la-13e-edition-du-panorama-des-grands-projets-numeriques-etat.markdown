@@ -29,7 +29,7 @@ La DINUM publie le 13e édition du panorama qui, chaque semestre, recense et dé
 <p><ul><li><b>49</b> grands projets numériques suivis</li>
 <li><b>2,35 milliards d'euros</b> de coûts complets estimés</li>
 <li><b>1/4 du portefeuille</b> renouvelé</li>
-<li><b>Des taux d'écart au plus bas</li></ul></p></div>
+<li><b>Des taux d'écart au plus bas</b></li></ul></p></div>
 
 **13 nouveaux projets majeurs** seront désormais suivis dans notre tableau de bord, parmi lesquels l'espace numérique de santé, le réseau radio du futur, ou encore le système de gestion de l'identité numérique. Plusieurs projets de **dématérialisation** et ayant trait à la **donnée** font également leur entrée.
 
