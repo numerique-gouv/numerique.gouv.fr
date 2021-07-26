@@ -15,7 +15,7 @@ style: |-
   margin: 4px 2px;
   cursor: pointer;
   }
-layout: actualites
+layout: page-fille
 ---
 
 Chaque semestre, la DINUM publie et actualise un panorama qui recense et décrit les projets informatiques au sein de l’État les plus stratégiques ou sensibles, notamment tous ceux dont le coût dépasse 9 M€. 
