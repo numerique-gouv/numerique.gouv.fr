@@ -26,10 +26,10 @@ style: |-
 La DINUM publie le 13e édition du panorama qui, chaque semestre, recense et décrit les projets informatiques au sein de l’État les plus stratégiques ou sensibles, notamment tous ceux dont le coût dépasse 9 M€.
 
 <div class="noir encadre"><h2 class="h3">La 13e édition en bref :</h2>
-<p><ul><li>49 projets suivis</li>
-<li>2,35 milliards d'euros de coûts complets estimés</li>
-<li>1/4 du portefeuille renouvelé</li>
-<li>Des taux de dérives au plus bas</li></ul></p></div>
+<p><ul><li><b>49</b> projets suivis</li>
+<li><b>2,35 milliards d'euros</b> de coûts complets estimés</li>
+<li><b>1/4 du portefeuille</b> renouvelé</li>
+<li><b>Des taux de dérives au plus bas</b></li></ul></p></div>
 
 **13 nouveaux projets majeurs** seront désormais suivis dans notre tableau de bord, parmi lesquels l'espace numérique de santé, le réseau radio du futur, ou encore le système de gestion de l'identité numérique. Plusieurs projets de **dématérialisation** et ayant trait à la **donnée** font également leur entrée.
 
