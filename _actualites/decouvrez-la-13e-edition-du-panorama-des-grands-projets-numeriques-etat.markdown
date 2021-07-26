@@ -43,7 +43,7 @@ La DINUM publie le 13e édition du panorama qui, chaque semestre, recense et dé
 <li>Estimation budgétaire</li>
 <li>Choix techno</li>
 <li>Gouvernance de projet</li>
-<li>problématiques juridiques</li>
+<li>Problématiques juridiques</li>
 <li>Partage d'expériences...</li></ul></p>
 <br>
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/">(Re)découvrez notre offre d'appui et de conseil</a></p></div>
