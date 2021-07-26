@@ -37,7 +37,7 @@ La DINUM publie le 13e édition du panorama qui, chaque semestre, recense et dé
 21,6% de glissement calendaire moyen (-3 points). Cette réussite est le fruit d'une coopération renforcée avec les experts de la DINUM et d'une meilleure prise en compte des bonnes pratiques de pilotage. Bravo à tous les ministères !
 
 <div class="noir encadre"><h2 class="h3">Notre offre de conseil</h2><p>La DINUM continue d'<b>accompagner les ministères au cadrage et au pilotage de leurs projets numériques</b>, pour toujours plus de sécurisation, dans le cadre du <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">programme TECH.GOUV</a>.</p>
-<p>De nombreux volets sont couverts :
+<p>De nombreux volets sont couverts, notamment :
 <ul><li>Méthodologie</li>
 <li>Mesure de valeur</li>
 <li>Estimation budgétaire</li>
