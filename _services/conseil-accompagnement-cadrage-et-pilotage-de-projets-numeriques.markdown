@@ -13,7 +13,7 @@ chapeau-text: |-
   pour vous aider à bien cadrer vos projets et à réduire
   les risques de dérives et de perte de valeur dans leur
   mise en œuvre. Inscrite dans le cadre du [programme
-  TECH.GOUV](https://www.numerique.gouv.fr/publication/tech-gouv-strategie-et-feuille-de-route-2019-2021/), cette offre s’adresse principalement
+  TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), cette offre s’adresse principalement
   aux directeurs d’administrations et chefs de service.
 
   **Notre conviction : c’est en intervenant le plus en
