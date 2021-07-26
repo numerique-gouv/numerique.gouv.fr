@@ -25,4 +25,4 @@ une-ou-diaporama:
 redirection-interne: https://www.numerique.gouv.fr/espace-presse/transport-dot-data-dot-gouv-dot-fr-lopen-date-au-service-de-tous-les-voyageurs-de-france/
 ---
 
-<div class="lien-important"><p><a href="/espace-presse/transport-dot-data-dot-gouv-dot-fr-lopen-date-au-service-de-tous-les-voyageurs-de-france/>Lire la suite dans notre espace presse</a></p></div>
+<div class="lien-important"><p><a href="https://numerique.gouv.fr/espace-presse/transport-dot-data-dot-gouv-dot-fr-lopen-date-au-service-de-tous-les-voyageurs-de-france/">Lire la suite dans notre espace presse</a></p></div>
