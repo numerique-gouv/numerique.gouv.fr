@@ -1,6 +1,6 @@
 ---
 title: Découvrez la 13e édition du panorama des grands projets numériques de l’État
-date: 2021-07-22 10:47:00 +02:00
+date: 2021-07-26 10:47:00 +02:00
 categories:
 - Publication
 tags:
