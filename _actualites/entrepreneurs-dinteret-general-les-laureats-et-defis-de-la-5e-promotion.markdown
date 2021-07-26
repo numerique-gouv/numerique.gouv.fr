@@ -1,6 +1,8 @@
 ---
 title: 'Entrepreneurs d’intérêt général : les lauréats et défis de la 5e promotion'
 date: 2021-07-26 14:51:00 +02:00
+categories:
+- Article
 tags:
 - Etalab
 - Entrepreneurs d'Intérêt Général
