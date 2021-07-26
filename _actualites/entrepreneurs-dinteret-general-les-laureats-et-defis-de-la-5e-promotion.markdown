@@ -7,7 +7,7 @@ tags:
 - Etalab
 - Entrepreneurs d'Intérêt Général
 une-ou-diaporama:
-- image: "/uploads/Linkedin_annoncePromo51-1024x535.jpg"
+- image: "/uploads/Linkedin_annoncePromo5.jpg"
 auteur: etalab.gouv.fr
 redirection: https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-laureats-et-defis-de-la-5eme-promotion
 ---
