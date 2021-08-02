@@ -5,10 +5,8 @@ categories:
 - Dossier
 tags:
 - Cloud
-chapeau-text: 'Nous lançons un espace dédié pour vous accompagner dans l''adoption
-  de la culture Cloud. Au menu : tout savoir sur la doctrine Cloud de l''État, 5 étapes
-  pour bien démarrer, découvrir les offres Cloud à votre disposition, quelle offre
-  choisir pour votre besoin...'
+chapeau-text: Passez au Cloud pour accélérer votre transformation numérique ! Retrouvez
+  notre espace dédié pour vous accompagner dans l'adoption de la culture Cloud.
 une-ou-diaporama:
 - image: "/uploads/Cloud_rubrique.png"
 redirection-interne: services/cloud/
