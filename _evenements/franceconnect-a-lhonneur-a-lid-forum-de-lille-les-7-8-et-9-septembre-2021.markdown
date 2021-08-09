@@ -14,8 +14,8 @@ une-ou-diaporama:
 - image: "/uploads/2021_08_08_ID-FORUM_AGENDA2.png"
   alternative-textuelle: "ID FORUM\n7, 8 et 9 septembre 2021 \nLille Grand Palais\nAvec
     la participation de France Connect"
-event_start_date: 0007-08-31 23:09:21 +00:09
-event_end_date: 0009-08-31 23:09:21 +00:09
+event_start_date: 2021-09-07 00:00:00 +02:00
+event_end_date: 2021-09-09 00:00:00 +02:00
 lieu: Lille Grand Palais
 adresse: 1 boulevard des Cités Unies 59777 Lille – Euralille
 champs_informations:
