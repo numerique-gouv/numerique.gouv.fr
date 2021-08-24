@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 15 juillet 2021
+date_de_modification: 24 aout 2021
 layout: page-annexe
 ---
 
@@ -27,23 +27,27 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Architecte DevOps - H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-devops-hf-reference-2021-657670/ "Architecte DevOps - H/F - Lien externe")**
+* **[Chargé-e de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-gouvernance-ssi-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-572756/ "Chargé-e de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé-e de communication externe - CDD 1 an renouvelable - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-communication-externe---cdd-1-an-renouvelable-hf-reference-2021-691715/ "Chargé-e de communication externe - CDD 1 an renouvelable - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Développeur/développeuse chargé-e d'hypervision réseau et sécurité - H/F](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/développeuse chargé-e d'hypervision réseau et sécurité - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Ingénieur-e réseau - Référent supervision du réseau interministériel de l'État (RIE) - H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---referent-supervision-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-639727/ "Ingénieur-e réseau - Référent supervision du réseau interministériel de l'État (RIE) - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé-e de la relation clients – Sites réseau complexes - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-relation-clients--sites-reseau-complexes-reference-2021-572778/ "Chargé-e de la relation clients – Sites réseau complexes - H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
 * **[Chargé-e de communication interne - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-communication-interne-hf-reference-2021-657684/ "Chargé-e de communication interne - H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé-e des opérations - Programme Entrepreneurs d'intérêt général (EIG) - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-des-operations---programme-entrepreneurs-d-interet-general-eig-hf-reference-2021-654786/ "Chargé-e des opérations - Programme Entrepreneurs d'intérêt général (EIG) - H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Lead data scientist pour le Lab IA - H/F](https://place-emploi-public.gouv.fr/offre-emploi/lead-data-scientist-pour-le-lab-ia-hf-reference-2021-654686/ "Lead data scientist pour le Lab IA - H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Architecte de systèmes d'information – 2 POSTES CDD 3ANS - H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-de-systemes-d-information--2-postes-cdd-3ans-reference-2021-620625/ "Architecte de systèmes d'information – 2 POSTES CDD 3ANS - H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
@@ -55,16 +59,8 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Ingénieur-e réseau - Résilience sites locaux H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---resilience-sites-locaux-hf-reference-2021-649316/ "Ingénieur-e réseau - Résilience sites locaux H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Responsable de la sécurité des systèmes d'informations (RSSI) H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-rssi-hf-reference-2021-649321/ "Responsable de la sécurité des systèmes d'informations (RSSI) H/F - Lien externe")**
 <br>Cadre/Catégorie A
-<br>
-
-* **[Apprenti-e chargé-e de communication externe](https://www.pass.fonction-publique.gouv.fr/offre/apprenti-e-charge-e-de-communication-externe "Apprenti-e chargé-e de communication externe - Lien externe")**
-<br>Apprentissage
 <br>
 
 
