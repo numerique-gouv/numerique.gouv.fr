@@ -47,6 +47,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
+* **[Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) - H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat--hf-reference-2021-557187/ "Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Chargé-e de communication interne - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-communication-interne-hf-reference-2021-657684/ "Chargé-e de communication interne - H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
