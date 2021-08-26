@@ -23,8 +23,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 16h à 17h30
 - intitule: Modalités
-  contenu: Inscription obligatoire avec une adresse professionnelle issue de la fonction
-    publique
+  contenu: Informations pour l'inscription à venir prochainement
   lien: 
 ---
 
@@ -34,9 +33,11 @@ En se numérisant, l’administration a à cœur de simplifier la vie des citoye
 
 Cet échange sera par ailleurs l’occasion d’évoquer le projet d’Administration Proactive - piloté par la DINUM - qui porte l’ambition d’inverser - en particulier pour les jeunes - la logique administrative habituelle bien connue des français : plutôt qu’attendre l’usager au guichet, l’administration peut, à partir des informations dont elle dispose, anticiper ses besoins et ses obligations. 
 
-<p align="center"><a href="https://www.eventbrite.fr/e/billets-comment-insuffler-une-culture-numerique-dans-ladministration-154409923237" class="button">S'inscrire à l'événement</a></p>
-
 [En savoir plus sur la mission TRANSFO](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/)
+
+## Intervenants
+
+*Information à venir prochainement.*
 
 ## Programme détaillé
 
