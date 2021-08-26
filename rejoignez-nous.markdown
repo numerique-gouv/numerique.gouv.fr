@@ -55,10 +55,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Directeur/Directrice de projet SI - Messagerie collaborative de l'État et annuaire MAIA H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-si---messagerie-collaborative-de-l-tat-et-annuaire-maia-hf-reference-2021-649350/ "Directeur/Directrice de projet SI - Messagerie collaborative de l'État et annuaire MAIA H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Ingénieur-e réseau - Chargé-e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres-hf-reference-2021-649375/ "Ingénieur-e réseau - Chargé-e de relations ministères H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
