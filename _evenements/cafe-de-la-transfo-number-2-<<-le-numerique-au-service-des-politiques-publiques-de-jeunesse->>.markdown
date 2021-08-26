@@ -37,7 +37,7 @@ Cet échange sera par ailleurs l’occasion d’évoquer le projet d’Administr
 
 ## Intervenants
 
-*Information à venir prochainement.*
+*Informations à venir prochainement.*
 
 ## Programme détaillé
 
