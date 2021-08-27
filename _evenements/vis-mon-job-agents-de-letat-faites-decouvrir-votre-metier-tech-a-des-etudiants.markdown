@@ -26,20 +26,17 @@ Tout au long de cette journée, vous pourrez échanger librement avec l’étudi
 
 ## Les métiers recherchés
 
-Tous les métiers du numérique au sein de l’administration sont acceptés !
-
-Quelques exemples (liste non exhaustive) : data scientist, officier sécurité, architecte technique, chef de projets IT, analyste, développeur, administrateur systèmes et réseaux…
+Tous les métiers du numérique au sein de l’administration sont acceptés et en voici quelques exemples : data scientist, officier sécurité, architecte technique, chef de projets IT, analyste, développeur, administrateur systèmes et réseaux…
 
 [En savoir plus](/actualites/vis-mon-job-agents-de-letat-faites-decouvrir-votre-metier-tech-a-des-etudiants/)
 
+*A noter : l’opération a lieu le 17 novembre 2021. Si vous n’étiez plus disponible à cette date, vous pourrez convenir d’une autre date proche de celle-ci en accord avec votre binôme étudiant.*
 
 ## Comment cela se passe ?
 
 1. **Vous vous inscrivez** en tant qu’ambassadeur, ambassadrice à travers [notre formulaire dédié](https://sgmap.sphinxdeclic.com/d/s/l0tjrd)
 2. **Nous vous confirmons** votre inscription et vous proposons un coaching d’1h de pour préparer au mieux cette journée et répondre à vos questions
 3. **Nous réalisons les « matchs »** entre ambassadeurs volontaires et étudiants, selon les intérêts et souhaits de ces derniers (métier, situation géographique, administration…) et **transmettons à chacun les informations** sur leur binôme
-4. **Le jour J, vous accueillez** au sein de votre administration l’étudiant ou étudiante en question pour une immersion à vos côtés
-
-*A noter : l’opération a lieu le 17 novembre 2021. Si vous n’étiez plus disponible à cette date précise, vous pourrez convenir d’une autre date proche de celle-ci en accord avec votre binôme étudiant.*
+4. **Le jour J, vous accueillez** au sein de votre administration l’étudiant ou étudiante en question pour une immersion à vos côtés.
 
 Contacts et informations ambassadeurs : [talents.numeriques@modernisation.gouv.fr](mailto:talents.numeriques@modernisation.gouv.fr)
