@@ -15,7 +15,7 @@ chapeau-text: La DINUM, en collaboration avec les ministères des Armées et de 
 une-ou-diaporama:
 - image: "/uploads/Visuel_Agenda_vis-mon-job.png"
   alternative-textuelle: 'Vis mon job '
-event_start_date: 2017-11-01 00:00:00 +01:00
+event_start_date: 2021-11-17 00:00:00 +01:00
 ---
 
 **Vous travaillez dans la tech au sein d’un service de l’Etat en administration centrale ou service déconcentré ? Le temps d’un jour, faites découvrir votre quotidien à un/e étudiant/e et devenez ainsi ambassadeur/ambassadrice des métiers du numérique de l’État ! Inscrivez-vous dès maintenant.**
