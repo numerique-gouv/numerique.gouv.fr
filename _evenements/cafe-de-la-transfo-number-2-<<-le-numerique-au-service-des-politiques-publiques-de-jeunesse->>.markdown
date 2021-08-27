@@ -32,6 +32,10 @@ champs_informations:
 
 En se numérisant, l’administration a à cœur de simplifier la vie des citoyens et de rendre leur relation avec l’administration plus fluide. Dans cette optique, les premiers contacts des jeunes avec l’administration se doivent d’être exemplaires a fortiori à des moments de la vie où les démarches administratives à réaliser sont nombreuses et hétérogènes : inscriptions en études, choix d’orientation, demandes de bourses, recherche de logement etc. C’est pour cette raison que de nombreux acteurs se coordonnent pour apporter plus de fluidité et de lisibilité au parcours du jeune - de son entrée au collège jusqu’à son premier emploi - et mieux piloter les politiques publiques de jeunesse grâce au numérique. Ce sujet animera le débat du second Café Transfo, à l’occasion duquel nous aurons le plaisir de recevoir des acteurs clés du parcours numérique des jeunes.
 
+
+<p align="center"><a href="https://www.eventbrite.fr/e/billets-le-numerique-au-service-des-politiques-publiques-de-jeunesse-168711525715" class="button">S'inscrire à l'événement</a></p>
+
+
 Cet échange sera par ailleurs l’occasion d’évoquer le projet d’Administration Proactive - piloté par la DINUM - qui porte l’ambition d’inverser - en particulier pour les jeunes - la logique administrative habituelle bien connue des Français : plutôt qu’attendre l’usager au guichet, l’administration peut, à partir des informations dont elle dispose, anticiper ses besoins et ses obligations. 
 
 [En savoir plus sur la mission TRANSFO](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/)
