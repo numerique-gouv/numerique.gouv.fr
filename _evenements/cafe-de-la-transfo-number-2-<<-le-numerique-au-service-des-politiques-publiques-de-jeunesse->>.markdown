@@ -7,8 +7,7 @@ categories:
 - Table ronde
 tags:
 - Café Transfo
-chapeau-text: Le Café Transfo est un événement organisé par le programme [programme
-  TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/)
+chapeau-text: Le Café Transfo est un événement organisé par le [programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/)
   ayant pour objectifs la mobilisation de l'intelligence collective et la diffusion
   de bonnes pratiques en matière de transformation numérique. Cet événement est destiné
   à l’ensemble des décideurs publics qui se sentent concernés par les grands enjeux
