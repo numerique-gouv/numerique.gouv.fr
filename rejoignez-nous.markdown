@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 24 aout 2021
+date_de_modification: 30 aout 2021
 layout: page-annexe
 ---
 
@@ -26,6 +26,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 {: .margin-top-4 .margin-bottom-0 .h3}
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
+
+* **[Chargé-e de mission administration proactive et transformation numérique de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-administration-proactive-et-transformation-numerique-de-l-tat-hf-reference-2021-687301/ "Chargé-e de mission administration proactive et transformation numérique de l'État - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
 
 * **[Chargé-e de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-gouvernance-ssi-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-572756/ "Chargé-e de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - H/F - Lien externe")**
 <br>Cadre/Catégorie A
@@ -52,10 +56,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Chargé-e de communication interne - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-communication-interne-hf-reference-2021-657684/ "Chargé-e de communication interne - H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Directeur/Directrice de projet SI - Messagerie collaborative de l'État et annuaire MAIA H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-si---messagerie-collaborative-de-l-tat-et-annuaire-maia-hf-reference-2021-649350/ "Directeur/Directrice de projet SI - Messagerie collaborative de l'État et annuaire MAIA H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
