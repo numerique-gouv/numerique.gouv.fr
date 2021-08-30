@@ -29,9 +29,7 @@ une-ou-diaporama:
 
 Cette journée aura lieu **le 17 novembre**
 
-## 4 bonnes raisons de devenir ambassadeur/ambassadrice Vis mon job :
-
-Pour vous, c’est l’occasion de :
+## 4 bonnes raisons pour vous de devenir ambassadeur/ambassadrice Vis mon job :
 
 * **transmettre votre passion et votre savoir**
 * **faire connaître et valoriser** votre métier, vos projets, votre administration, votre parcours, vos fiertés,
