@@ -27,6 +27,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Chargé-e de mission administration proactive et transformation numérique de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-administration-proactive-et-transformation-numerique-de-l-tat-hf-reference-2021-687301/ "Chargé-e de mission administration proactive et transformation numérique de l'État - H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Chargé-e de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-gouvernance-ssi-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-572756/ "Chargé-e de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
