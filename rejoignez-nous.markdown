@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 30 aout 2021
+date_de_modification: 2 septembre 2021
 layout: page-annexe
 ---
 
@@ -39,19 +39,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Développeur/développeuse chargé-e d'hypervision réseau et sécurité - H/F](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-charge-e-d-hypervision-reseau-et-securite--hf-reference-2021-572915/ "Développeur/développeuse chargé-e d'hypervision réseau et sécurité - H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Ingénieur-e réseau - Référent supervision du réseau interministériel de l'État (RIE) - H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---referent-supervision-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-639727/ "Ingénieur-e réseau - Référent supervision du réseau interministériel de l'État (RIE) - H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé-e de la relation clients – Sites réseau complexes - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-relation-clients--sites-reseau-complexes-reference-2021-572778/ "Chargé-e de la relation clients – Sites réseau complexes - H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) - H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat--hf-reference-2021-557187/ "Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) - H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
@@ -66,7 +54,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 * **[Responsable de la sécurité des systèmes d'informations (RSSI) H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-rssi-hf-reference-2021-649321/ "Responsable de la sécurité des systèmes d'informations (RSSI) H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
-
 
 <!--
 > ### Talents du numérique : l’État recrute !

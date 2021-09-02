@@ -243,7 +243,7 @@ Ces deux offres sont accessibles et manipulables directement via API.
 
 * **Nubo,** opérée par la DGFiP, adapté à l’hébergement de données sensibles,
 
-* **PI,** opérée par le ministère de l’Intérieur, adapté à l’hébergement de données sensibles jusqu’au niveau Diffusion restreinte.
+* **π,** opérée par le ministère de l’Intérieur, adapté à l’hébergement de données sensibles jusqu’au niveau Diffusion restreinte.
 
 <h3 style="margin-bottom:40px; margin-top:50px">Les caractéristiques du Cloud interne</h3>
 
@@ -310,20 +310,20 @@ Fin juillet 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis s
 
 <div align="center"><div class="lien-important"><p style="margin-bottom: 0px"><a href="https://portailnubo.dgfip.finances.rie.gouv.fr" title="En savoir plus sur l’offre Nubo - Lien externe">En savoir plus sur l’offre Nubo</a></p></div>(lien accessible depuis le réseau interministériel de l’État).</div>
 
-<h3 style="margin-top:40px">Le Cloud PI</h3>
-Dédié aux services de l’État, opéré par le ministère de l’Intérieur, le Cloud PI offre la particularité de pouvoir héberger des produits manipulant des données de type diffusion restreinte (DR). L’offre de services du Cloud PI est orientée infrastructure à la demande, directement disponible via un portail ou des API.
+<h3 style="margin-top:40px">Cloud π</h3>
+Dédié aux services de l’État, opéré par le ministère de l’Intérieur, Cloud π offre la particularité de pouvoir héberger des produits manipulant des données de type diffusion restreinte (DR). L’offre de services du Cloud π est orientée infrastructure à la demande, directement disponible via un portail ou des API.
 
-À fin juillet 2021, le Cloud PI compte plus de 8 000 machines virtuelles.
+À fin juillet 2021, Cloud π compte plus de 8 000 machines virtuelles.
 
-* **Socle technique** : L’offre PI est basée sur une distribution OpenStack HPE Helion, qui sera remplacée d’ici à la fin 2022 ; la migration de l’une à l’autre sera assurée.
+* **Socle technique** : L’offre π est basée sur une distribution OpenStack HPE Helion, qui sera remplacée d’ici à la fin 2022 ; la migration de l’une à l’autre sera assurée.
 
-* **Modèle de résilience** : Les infrastructures de PI sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 3 <span lang="en">« availability zones »</span> (AZ) indépendantes, et permet d’avoir une exposition internet ou RIE.
+* **Modèle de résilience** : Les infrastructures de π sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 3 <span lang="en">« availability zones »</span> (AZ) indépendantes, et permet d’avoir une exposition internet ou RIE.
 
-* **Catalogue de services** : PI propose un catalogue de services orientés IaaS (Compute, Stockage, Réseau notamment).
+* **Catalogue de services** : π propose un catalogue de services orientés IaaS (Compute, Stockage, Réseau notamment).
 
-* **Niveau de service / Support** : PI s’engage sur un contrat de service avec un niveau de disponibilité de 98% à 99,9% en fonction des composants (portail, puissance informatique, API OpenStack), et un support en 24h/24 – 7j/7
+* **Niveau de service / Support** : π s’engage sur un contrat de service avec un niveau de disponibilité de 98% à 99,9% en fonction des composants (portail, puissance informatique, API OpenStack), et un support en 24h/24 – 7j/7
 
-* **Accompagnement** : PI propose un portail, avec de la documentation en ligne à destination des projets.
+* **Accompagnement** : π propose un portail, avec de la documentation en ligne à destination des projets.
 
 
 <div class="encadre"><div style="margin-bottom: 40px; margin-top: 60px;" align="center"><b>Vous souhaitez recourir au Cloud interne&nbsp;? Obtenir plus d’infos sur les modalités d’accès&nbsp;?</b><a href="mailto:infonuage.dinum@modernisation.gouv.fr" class="button" title="Contactez-nous à infonuage.dinum@modernisation.gouv.fr - Ouvre une messagerie courriel"><b>Contactez-nous à infonuage.dinum@modernisation.gouv.fr</b></a></div></div>

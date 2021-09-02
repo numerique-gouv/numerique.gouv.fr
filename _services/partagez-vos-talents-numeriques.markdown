@@ -7,7 +7,7 @@ tags:
 - Talents numériques
 - Partagez vos talents numériques !
 - Agents de l'État
-date_de_modification: 25 août 2020
+date_de_modification: 2 septembre 2021
 chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numériques
   !* met en relation des agents de l’État désireux de mettre leurs compétences ponctuellement
   au service d'autres administrations, et les services de l’État ayant un besoin d'expertise
@@ -46,22 +46,27 @@ style: |-
 layout: rgaa
 ---
 
-<div class="exergue"><figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure><h2>Je suis agent de l’État</h2>
-<p>Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement. <br><a class="lien-encadre" href="#missions"><b>> Découvrez les missions</b></a>.
+> <figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure><h2>Je suis agent de l’État</h2>
+> <p>Travaillant dans la tech, vous souhaitez contribuer à un projet ou produit numériques d'une autre administration ? Mettez ponctuellement vos talents au service de l'une des missions proposées actuellement.
+> <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button" title="Proposer mes compétences - Lien externe">Proposer mes compétences</a>
+> <br>
+> <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
+{: .exergue}
+
+<!--
+<br><a class="lien-encadre" href="#missions"><b>> Découvrez les missions</b></a>.
 <br>Si aucune de celles disponibles pour le moment ne vous intéresse, rejoignez simplement le vivier.</p>
 <br>
-<a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button" title="Proposer mes compétences - Lien externe">Proposer mes compétences</a>
-<br>
-<a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
-</div>
-<br>
+  -->
+
+<!--
 <div class="exergue"><figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure><h2>Je suis une administration</h2>
 <p>Besoin d'un appui ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? D'un renfort dans la gestion de crise Covid-19 actuelle ?</p>
-
 <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" class="button" title="Proposer une mission - Lien externe">Proposer une mission</a>
 <br>
 <a class="lien-encadre" href="#comment-ca-marche-admin"><i>Comment ça marche ?</i></a>
 </div>
+  -->
 
 <br>
 <br>
@@ -75,11 +80,15 @@ layout: rgaa
 <span class="h5 text-center">Comment ça marche pour les agents ?</span>
 <span class="button">Voir plus</span>
 </a>
+
+<!--
 <a href="#missions"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="" src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg">
 <span class="h5 text-center">Missions proposées</span>
 <span class="button">Voir plus</span>
 </a>
+  -->
+
 <a href="#comment-ca-marche-admin"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="" src="/uploads/comment_ca_marche_administrations.svg">
 <span class="h5 text-center">Comment ça marche pour les administrations ?</span>
@@ -89,6 +98,8 @@ layout: rgaa
 </section>
 <div id="list-top"></div>
 
+<br>
+<br>
 Le dispositif *Partagez vos talents numériques !* et ses modalités d’expérimentation ont été présentées aux directions ministérielles du numérique (DNUM) en février 2020.
 [Consultez la note du DINUM cadrant le dispositif (pdf - 625 Ko)](/uploads/Note-DINUM_partagez-vos-talents-numeriques.pdf "Consultez la note du DINUM cadrant le dispositif - pdf, 625 Ko"), validée par les ministères.
 <script>
@@ -131,7 +142,6 @@ Directeurs ministériels du numérique</li>
 </div>
 </div>
 </div>
-<br>
 <br>
 <br>
 
@@ -180,7 +190,9 @@ Selon leurs besoins, la nature des missions proposées par les administrations p
 
 Chaque mission répondant à un **besoin ponctuel**, elle est **délimitée dans le temps**. La durée comme la fréquence sont variables d’une mission à l’autre, de quelques heures en une fois à plusieurs jours sur plusieurs mois.
 
+<!--
 <p class="lien-important"><b><a href="#missions">Découvrir les missions proposées</a></b></p>
+  -->
 
 ### **Comment contribuer ?**
 
@@ -215,6 +227,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <br>
 <br>
 
+<!--
 <div class="text-center"><a href="#missions"><b>Voir les missions</b></a></div>
 <div class="text-center"><p class="text-center"><a href="#missions">
 <i class="fas fa-angle-down icon-arrow-down"></i></a></p></div>
@@ -267,7 +280,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <li><b><a href="/uploads/2020_08_24_Fiches_COVID%2019_Faciliter%20la%20veille%20scientifique%20.pdf" title="Détails de la mission - pdf, 64 ko">Détails de la mission (pdf - 64 ko)</a></b></li></ul>
 
 <p class="lien-important"><b><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Cette mission m'intéresse : je propose mes talents - Lien externe">Cette mission m'intéresse : je propose mes talents</a></b></p>
-
+  -->
 
 <hr class="interieur">
 
@@ -306,13 +319,16 @@ En fonction de vos besoins, vous pouvez proposer des missions de différentes na
 
 <ol>
 <li class="margin-bottom-1"><b>Vous définissez</b> votre besoin (nature de la mission, compétences recherchées, durée et période...).</li>
+<!--
 <li class="margin-bottom-1"><b>Vous saisissez</b> votre demande via <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" title="notre formulaire en ligne - Lien externe">notre formulaire en ligne</a>.</li>
+  -->
 <li class="margin-bottom-1"><b>Nous échangeons</b> si besoin ensemble pour finaliser votre fiche mission et la publions sur cette page.</li>
 <li class="margin-bottom-1"><b>Les agents intéressés peuvent y répondre</b> directement via un formulaire dédié, vous recevrez alors leur profil et coordonnées par courriel ou via un outil collaboratif, ainsi que les profils des agents volontaires pour participer au dispositif d’une manière générale.</li>
 <li class="margin-bottom-1"><b>Vous êtes partants pour collaborer ensemble ?</b> Assurez-vous simplement que l’agent a bien obtenu l'accord de son supérieur hiérarchique, avant le démarrage la mission.</li>
 <li><b>La mission peut commencer !</b></li></ol>
 <br>
 
+<!--
 <div class="text-center">
 <a href="https://sgmap.sphinxdeclic.com/d/s/b5osl9" title="Proposer une mission - Lien externe" class="button">Proposer une mission</a></div>
-
+  -->
