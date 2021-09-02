@@ -56,7 +56,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 
-<!--
 > ### Talents du numérique : l’État recrute !
 > <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
 > <br>Vous êtes développeur, chef de projet numérique, ingénieur, architecte SI, technicien support... ? Venez créer le service public de demain !
@@ -64,7 +63,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 > <br>[> Inscrivez-vous jusqu'au 27 nov, 14h](https://numerique.gouv.fr/agenda/forum-emploi-tech-etat-2020)
 > <br>
 {: .noir .encadre}
-  -->
+
 
 <div class="encadre noir">
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
