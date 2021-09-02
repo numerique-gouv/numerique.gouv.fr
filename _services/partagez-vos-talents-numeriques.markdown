@@ -81,11 +81,13 @@ layout: rgaa
 <span class="h5 text-center">Comment ça marche pour les agents ?</span>
 <span class="button">Voir plus</span>
 </a>
+<!--
 <a href="#missions"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="" src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg">
 <span class="h5 text-center">Missions proposées</span>
 <span class="button">Voir plus</span>
 </a>
+  -->
 <a href="#comment-ca-marche-admin"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="" src="/uploads/comment_ca_marche_administrations.svg">
 <span class="h5 text-center">Comment ça marche pour les administrations ?</span>
