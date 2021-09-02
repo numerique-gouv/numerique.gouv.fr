@@ -56,11 +56,11 @@ layout: rgaa
 <br>
   -->
 
-<div
+
 <a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" class="button" title="Proposer mes compétences - Lien externe">Proposer mes compétences</a>
 <br>
 <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
-</div>
+
 
 <br>
 <!--
