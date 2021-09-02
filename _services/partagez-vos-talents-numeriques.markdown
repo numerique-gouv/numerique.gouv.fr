@@ -7,7 +7,7 @@ tags:
 - Talents numériques
 - Partagez vos talents numériques !
 - Agents de l'État
-date_de_modification: 25 août 2020
+date_de_modification: 25 août 2021
 chapeau-text: Proposé par la DINUM, le dispositif *Partagez vos talents numériques
   !* met en relation des agents de l’État désireux de mettre leurs compétences ponctuellement
   au service d'autres administrations, et les services de l’État ayant un besoin d'expertise
