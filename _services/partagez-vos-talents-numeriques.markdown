@@ -144,7 +144,6 @@ Directeurs ministériels du numérique</li>
 </div>
 <br>
 <br>
-<br>
 
 <figure class='image-left' style='width: 10%;'>
 <img src="/uploads/comment_ca_marche_agents.svg" style="margin-top: -15px;" alt="" id="comment-ca-marche-agents"/></figure>## **Comment ça marche pour les agents ?**
@@ -228,6 +227,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <br>
 <br>
 
+<!--
 <div class="text-center"><a href="#missions"><b>Voir les missions</b></a></div>
 <div class="text-center"><p class="text-center"><a href="#missions">
 <i class="fas fa-angle-down icon-arrow-down"></i></a></p></div>
@@ -280,7 +280,7 @@ Vous souhaitez simplement <b>en savoir plus</b> sur le dispositif ou sur une mis
 <li><b><a href="/uploads/2020_08_24_Fiches_COVID%2019_Faciliter%20la%20veille%20scientifique%20.pdf" title="Détails de la mission - pdf, 64 ko">Détails de la mission (pdf - 64 ko)</a></b></li></ul>
 
 <p class="lien-important"><b><a href="https://sgmap.sphinxdeclic.com/d/s/ou9lrs" title="Cette mission m'intéresse : je propose mes talents - Lien externe">Cette mission m'intéresse : je propose mes talents</a></b></p>
-
+  -->
 
 <hr class="interieur">
 
