@@ -57,7 +57,9 @@ layout: rgaa
 <br>
 <a class="lien-encadre" href="#comment-ca-marche-agents"><i>Comment ça marche ?</i></a>
 </div>
+
 <br>
+<!--
 <div class="exergue"><figure class='image-left' style='width: 4%; margin-top: 0.7rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure><h2>Je suis une administration</h2>
 <p>Besoin d'un appui ponctuel sur un projet, un produit numériques ? D'une compétence ou expertise pointue supplémentaire, technique ou transverse (achat, juridique...) en lien avec le numérique ? D'un renfort dans la gestion de crise Covid-19 actuelle ?</p>
 
@@ -65,6 +67,7 @@ layout: rgaa
 <br>
 <a class="lien-encadre" href="#comment-ca-marche-admin"><i>Comment ça marche ?</i></a>
 </div>
+  -->
 
 <br>
 <br>
