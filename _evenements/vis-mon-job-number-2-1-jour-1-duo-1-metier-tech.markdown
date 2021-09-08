@@ -54,11 +54,9 @@ Viens passer **une journée en immersion auprès d’un ou une expert/e de la te
 <br>
 <br>
 
-
 <figure class='image-left' style='width: 7%;'><img src="/uploads/IMAGE2-5704c3.png"/></figure>Accompagner pendant une journée un/une expert/e du numérique d’un ministère
 <br>
 <br>
-
 
 <figure class='image-left' style='width: 7%;'><img src="/uploads/IMAGE3.png"/></figure>Découvrir la diversité des missions et la capacité d’innovation de l’État dans sa transformation numérique
 <br>
