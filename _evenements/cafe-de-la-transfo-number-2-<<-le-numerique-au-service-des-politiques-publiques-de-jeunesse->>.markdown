@@ -30,19 +30,20 @@ champs_informations:
 
 **L’équipe Transformation numérique de l’État de la DINUM est heureuse de vous convier à la seconde édition du Café de la Transfo qui aura lieu le 12 octobre 2021 de 16h30 à 18h.**
 
-En se numérisant, l’administration a à cœur de simplifier la vie des citoyens et de rendre leur relation avec l’administration plus fluide. Dans cette optique, les premiers contacts des jeunes avec l’administration se doivent d’être exemplaires a fortiori à des moments de la vie où les démarches administratives à réaliser sont nombreuses et hétérogènes : inscriptions en études, choix d’orientation, demandes de bourses, recherche de logement etc. C’est pour cette raison que de nombreux acteurs se coordonnent pour apporter plus de fluidité et de lisibilité au parcours du jeune - de son entrée au collège jusqu’à son premier emploi - et mieux piloter les politiques publiques de jeunesse grâce au numérique. Ce sujet animera le débat du second Café Transfo, à l’occasion duquel nous aurons le plaisir de recevoir des acteurs clés du parcours numérique des jeunes.
+En se numérisant, l’administration a à cœur de simplifier la vie des citoyens et de rendre leur relation avec l’administration plus fluide. Dans cette optique, les premiers contacts des jeunes avec l’administration se doivent d’être les plus simples possible a fortiori à des moments de la vie où les démarches administratives à réaliser sont nombreuses et hétérogènes : inscriptions en études, choix d’orientation, demandes de bourses, recherche de logement etc. C’est pour cette raison que de nombreux acteurs se coordonnent pour apporter plus de fluidité et de lisibilité au parcours du jeune - de son entrée au collège jusqu’à son premier emploi - et mieux piloter les politiques publiques de jeunesse grâce au numérique. Ce sujet animera le débat du second Café Transfo, à l’occasion duquel nous aurons le plaisir de recevoir des acteurs clés du parcours numérique des jeunes.
 
 
 <p align="center"><a href="https://www.eventbrite.fr/e/billets-le-numerique-au-service-des-politiques-publiques-de-jeunesse-168711525715" class="button">S'inscrire à l'événement</a></p>
 
 
-Cet échange sera par ailleurs l’occasion d’évoquer le projet d’Administration Proactive - piloté par la DINUM - qui porte l’ambition d’inverser - en particulier pour les jeunes - la logique administrative habituelle bien connue des Français : plutôt qu’attendre l’usager au guichet, l’administration peut, à partir des informations dont elle dispose, anticiper ses besoins et ses obligations. 
-
 [En savoir plus sur la mission TRANSFO](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/)
 
 ## Intervenants
 
-*Informations à venir prochainement.*
+* Clément CADORET, Directeur des projets - Centre National des Œuvres Universitaires et Scolaires (CNOUS)
+* Guillaume HOUZEL, Directeur de Programme pour la Mission interministérielle pour l’apprentissage - Ministère du Travail, de l’Emploi et de l’Insertion
+* Jean-Marc MERRIAUX, Délégué ministériel aux compétences du 21ème siècle - Ministère de l’Éducation nationale, de la Jeunesse et des Sports
+
 
 ## Programme détaillé
 

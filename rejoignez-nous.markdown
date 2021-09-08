@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 2 septembre 2021
+date_de_modification: 8 septembre 2021
 layout: page-annexe
 ---
 
@@ -35,10 +35,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé-e de communication externe - CDD 1 an renouvelable - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-communication-externe---cdd-1-an-renouvelable-hf-reference-2021-691715/ "Chargé-e de communication externe - CDD 1 an renouvelable - H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Ingénieur-e réseau - Référent supervision du réseau interministériel de l'État (RIE) - H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---referent-supervision-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-639727/ "Ingénieur-e réseau - Référent supervision du réseau interministériel de l'État (RIE) - H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -48,10 +44,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Ingénieur-e réseau - Chargé-e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres-hf-reference-2021-649375/ "Ingénieur-e réseau - Chargé-e de relations ministères H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Responsable de la sécurité des systèmes d'informations (RSSI) H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-securite-des-systemes-d-informations-rssi-hf-reference-2021-649321/ "Responsable de la sécurité des systèmes d'informations (RSSI) H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
