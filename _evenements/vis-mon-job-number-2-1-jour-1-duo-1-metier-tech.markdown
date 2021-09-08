@@ -14,7 +14,7 @@ une-ou-diaporama:
 event_start_date: 2021-11-17 08:00:00 +01:00
 ---
 
-**Étudiant/e en préparation d’un Bac\+2 à Bac\+5 dans un cursus numérique, **en école ou en université, **l’État te propose une expérience inédite !**
+**Étudiant/e en préparation d’un Bac\+2 à Bac\+5 dans un cursus numérique,** en école ou en université, **l’État te propose une expérience inédite !**
 
 Le temps d’une journée, le 17 novembre 2021, pousse les portes d’un ministère et rencontre l’un de ses experts du numérique de l’État.
 
