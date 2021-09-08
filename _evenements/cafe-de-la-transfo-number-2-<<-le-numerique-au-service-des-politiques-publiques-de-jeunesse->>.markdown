@@ -40,9 +40,9 @@ En se numérisant, l’administration a à cœur de simplifier la vie des citoye
 
 ## Intervenants
 
-* Clément CADORET, Directeur des projets | Centre National des Œuvres Universitaires et Scolaires (CNOUS)
-* Guillaume HOUZEL, Directeur de Programme pour la Mission interministérielle pour l’apprentissage | Ministère du Travail, de l’Emploi et de l’Insertion
-* Jean-Marc MERRIAUX, Délégué ministériel aux compétences du 21ème siècle | Ministère de l’Éducation nationale, de la Jeunesse et des Sports
+* Clément CADORET, Directeur des projets - Centre National des Œuvres Universitaires et Scolaires (CNOUS)
+* Guillaume HOUZEL, Directeur de Programme pour la Mission interministérielle pour l’apprentissage - Ministère du Travail, de l’Emploi et de l’Insertion
+* Jean-Marc MERRIAUX, Délégué ministériel aux compétences du 21ème siècle - Ministère de l’Éducation nationale, de la Jeunesse et des Sports
 
 
 ## Programme détaillé
