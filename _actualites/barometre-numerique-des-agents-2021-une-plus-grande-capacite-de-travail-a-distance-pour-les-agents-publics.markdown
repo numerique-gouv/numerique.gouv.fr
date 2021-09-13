@@ -67,8 +67,8 @@ Les agents souhaitent être accompagnés en priorité, et comme l’an dernier, 
 En matière de services de formation et d’accompagnement, les dispositifs d’apprentissage à distance comme les tutoriels vidéo (31%) et les MOOCs (27%) sont plébiscités, particulièrement par les agents des administrations centrales. Enfin, un tiers des agents (31%) souhaitent disposer d’accompagnement et de parcours de formation personnalisés.
 
 Cette dernière édition du BNA appelle donc les ministères à poursuivre le déploiement de moyens pour permettre aux agents publics de s’adapter aux nouveaux modes de travail, tout en investissant dans les services et dispositifs de formation pour accompagner le changement. Elle met également en lumière la nécessité, pour les administrations, de s’appuyer sur l’offre interministérielle SNAP et des opportunités du [Plan de relance numérique](https://france-relance.transformation.gouv.fr/static/20201029_Plan-de-relance-transformation-numerique-de-l-Etat-et-des-Territoires_Livret-des-themes.pdf) portés par la DINUM afin d’améliorer la connectivité des agents, leur offrir un environnement de travail numérique intégré ou encore les former aux nouvelles méthodes de travail numériques.
-
-
+<br>
+<br>
 
 <p align="center"><a href="/uploads/Barometre_Numerique_Agent_2021.pdf" class="button">Consulter les résultats du BNA 2021 (pdf – 1 608&nbsp;ko)</a></p>
 
