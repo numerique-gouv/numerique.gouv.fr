@@ -149,8 +149,7 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
   <br>
 
 
-![Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021  (pdf - 1 Mo)](/uploads/capture-plaquette-TECH-couv.png)
-{: .text-center}
+<p class="text-center"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></p>
 
 > [Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021  (pdf - 1 Mo)](/uploads/Plaquette_TechGouv_mi2021.PDF)
 {: .lien-important}
