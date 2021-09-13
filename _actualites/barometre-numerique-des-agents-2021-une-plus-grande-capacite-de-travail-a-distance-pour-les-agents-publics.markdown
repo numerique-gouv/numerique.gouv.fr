@@ -1,7 +1,7 @@
 ---
 title: 'Baromètre numérique des agents 2021 : une plus grande capacité de travail
   à distance pour les agents publics'
-date: 2021-09-14 09:54:00 +02:00
+date: 2021-09-13 09:54:00 +02:00
 categories:
 - Article
 tags:

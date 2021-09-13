@@ -1,6 +1,6 @@
 ---
 title: 'TECH.GOUV : Stratégie et feuille de route 2019-2022 : édition actualisée mi-2021'
-date: 2021-09-14 11:45:00 +02:00
+date: 2021-09-13 11:45:00 +02:00
 categories:
 - Publication
 tags:
