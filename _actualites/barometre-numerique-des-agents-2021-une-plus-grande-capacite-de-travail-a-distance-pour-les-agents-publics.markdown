@@ -29,7 +29,7 @@ style: |-
   }
 ---
 
-**Après deux premières éditions, la DINUM et les DNUM ministérielles renouvellent le Baromètre numérique de l’agent (BNA).** La consultation auprès des agents issus de 12 ministères et des services du Premier ministre (administrations centrales et déconcentrées, hors fonction hospitalière et enseignement) s’est tenue en juin 2021 et a été menée sur 4 thématiques qui constituent leur environnement de travail numérique : l’équipement, les outils et applications, la connectivité et les réseaux, le support et la formation.
+**Après deux premières éditions, la DINUM, avec les DNUM ministérielles, renouvellent le Baromètre numérique de l’agent (BNA).** Menée en juin 2021, la consultation auprès des agents issus de 12 ministères et des services du Premier ministre (administrations centrales et déconcentrées, hors fonction hospitalière et enseignement) a porté sur 4 thématiques liées à leur environnement de travail numérique : l’équipement, les outils et applications, la connectivité et les réseaux, le support et la formation.
 
 Pour cette édition 2021, la participation à l’enquête BNA est en hausse avec 108 313 répondants, soit un taux de réponse de 18% (14% en 2020). Les résultats obtenus révèlent les efforts menés par les différents ministères pour améliorer l’environnement de travail numérique des agents et l’adapter aux nouveaux modes de travail, dans un contexte de crise sanitaire.
 
@@ -70,6 +70,6 @@ Cette dernière édition du BNA appelle donc les ministères à poursuivre le d�
 <br>
 <br>
 
-<p align="center"><a href="/uploads/Barometre_Numerique_Agent_2021.pdf" class="button">Consulter les résultats du BNA 2021 (pdf – 1 608&nbsp;ko)</a></p>
+<p align="center"><a href="/uploads/Barometre_Numerique_Agent_2021.pdf" class="button">Consulter les résultats du BNA 2021 (pdf – 1,6&nbsp;Mo)</a></p>
 
 [> Retrouvez également les données brutes du BNA 2021 sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/barometre-numerique-de-lagent-resultats-2021/ "Retrouvez également les données brutes du BNA 2021 sur data.gouv.fr - Lien externe")
