@@ -1,5 +1,5 @@
 ---
-title: 'TECH.GOUV : nouvelle actualisation mi-2021 de la feuille de route'
+title: 'TECH.GOUV : nouvelle actualisation de la feuille de route à mi-2021'
 date: 2021-09-13 11:45:00 +02:00
 categories:
 - Publication
