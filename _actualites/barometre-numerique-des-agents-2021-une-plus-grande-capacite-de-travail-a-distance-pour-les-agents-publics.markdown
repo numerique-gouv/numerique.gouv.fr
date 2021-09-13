@@ -14,11 +14,24 @@ chapeau-text: La DINUM publie les résultats de l’édition 2021 du baromètre 
   numérique de travail.
 une-ou-diaporama:
 - image: "/uploads/BNA_2020_Une.jpg"
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
 
-**Après deux premières éditions, la DINUM renouvelle le Baromètre numérique de l’agent (BNA). **La consultation auprès des agents issus de 12 ministères et des services du Premier ministre (administrations centrales et déconcentrées, hors fonction hospitalière et enseignement) s’est tenue en juin 2021 et a été menée sur 4 thématiques qui constituent leur environnement de travail numérique : l’équipement, les outils et applications, la connectivité et les réseaux, le support et la formation.
+**Après deux premières éditions, la DINUM renouvelle le Baromètre numérique de l’agent (BNA).** La consultation auprès des agents issus de 12 ministères et des services du Premier ministre (administrations centrales et déconcentrées, hors fonction hospitalière et enseignement) s’est tenue en juin 2021 et a été menée sur 4 thématiques qui constituent leur environnement de travail numérique : l’équipement, les outils et applications, la connectivité et les réseaux, le support et la formation.
 
-Pour cette édition 2021, la participation à l’enquête BNA est en hausse avec 108 313 répondants, soit un taux de réponse de 18%** **(14% en 2020). Les résultats obtenus révèlent les efforts menés par les différents ministères pour améliorer l’environnement de travail numérique des agents et l’adapter aux nouveaux modes de travail, dans un contexte de crise sanitaire.
+Pour cette édition 2021, la participation à l’enquête BNA est en hausse avec 108 313 répondants, soit un taux de réponse de 18% (14% en 2020). Les résultats obtenus révèlent les efforts menés par les différents ministères pour améliorer l’environnement de travail numérique des agents et l’adapter aux nouveaux modes de travail, dans un contexte de crise sanitaire.
 
 ## Plus de 3 agents sur 4 en capacité de travailler à distance
 
@@ -36,7 +49,7 @@ La satisfaction des agents reste stable et est particulièrement marquée lorsqu
 
 La satisfaction en matière d’outils et applications mis à leur disposition progresse également avec 72% des agents déclarant en être satisfaits (\+1 pt). Une appréciation positive à laquelle le déploiement de la nouvelle offre interministérielle (SNAP), opérée par la DINUM, contribue en mettant à disposition des agents un bouquet d’applications et d’outils :
 
-* l’application de messagerie instantanée [Tchap](https://webinaire.numerique.gouv.fr/home) qui a connu son embellie avec le premier confinement et qui compte plus de 250 000 utilisateurs ;
+* l’application de messagerie instantanée [Tchap](https://www.tchap.gouv.fr/#/welcome) qui a connu son embellie avec le premier confinement et qui compte plus de 250 000 utilisateurs ;
 * les outils de communication à distance d’autre part tels que l’[AudioConf de l’État](https://audioconf.numerique.gouv.fr/), la [WebConférence de l’État](https://webconf.numerique.gouv.fr/) ou encore le récent [Webinaire de l’État](https://webinaire.numerique.gouv.fr/home) ;
 * les outils de travail collaboratif et les plateformes de communautés professionnelles comme [Osmose](https://osmose.numerique.gouv.fr) ou [Résana](https://resana.numerique.gouv.fr) ;
 * les dispositifs d’accès sécurisé aux réseaux interministériels et ministériels comme les VPNs qui se sont massivement déployés avec la crise.
@@ -54,6 +67,8 @@ Les agents souhaitent être accompagnés en priorité, et comme l’an dernier, 
 En matière de services de formation et d’accompagnement, les dispositifs d’apprentissage à distance comme les tutoriels vidéo (31%) et les MOOCs (27%) sont plébiscités, particulièrement par les agents des administrations centrales. Enfin, un tiers des agents (31%) souhaitent disposer d’accompagnement et de parcours de formation personnalisés.
 
 Cette dernière édition du BNA appelle donc les ministères à poursuivre le déploiement de moyens pour permettre aux agents publics de s’adapter aux nouveaux modes de travail, tout en investissant dans les services et dispositifs de formation pour accompagner le changement. Elle met également en lumière la nécessité, pour les administrations, de s’appuyer sur l’offre interministérielle SNAP et des opportunités du [Plan de relance numérique](https://france-relance.transformation.gouv.fr/static/20201029_Plan-de-relance-transformation-numerique-de-l-Etat-et-des-Territoires_Livret-des-themes.pdf) portés par la DINUM afin d’améliorer la connectivité des agents, leur offrir un environnement de travail numérique intégré ou encore les former aux nouvelles méthodes de travail numériques.
+
+
 
 <p align="center"><a href="/uploads/Barometre_Numerique_Agent_2021.pdf" class="button">Consulter les résultats du BNA 2021 (pdf – 1 608&nbsp;ko)</a></p>
 
