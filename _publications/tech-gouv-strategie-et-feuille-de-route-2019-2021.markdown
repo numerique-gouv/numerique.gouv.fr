@@ -33,11 +33,14 @@ style: |
 layout: rgaa
 ---
 
-<div align="center" style="margin-bottom: 40px"><a href="/uploads/Plaquette_TechGouv_mi2021.PDF" class="button"><b>Lire la stratégie et feuille de route TECH.GOUV – édition mi-2021 (pdf - 1 Mo)</b></a></div>
+<p class="text-center"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></p>
+
+> [Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021  (pdf - 1 Mo)](/uploads/Plaquette_TechGouv_mi2021.PDF)
+{: .lien-important}
+
 
 
 ## ÉDITO
-
 
 > **Pour améliorer et simplifier l’action publique pour tous les Français, dans tous les territoires, nous devons nous appuyer sur un État numérique plus performant.** La crise sanitaire sans précédent rend plus que jamais nécessaire l’accélération de la numérisation des services publics qui est une priorité du Président de la République et du Gouvernement depuis 2017.
 > <br>
