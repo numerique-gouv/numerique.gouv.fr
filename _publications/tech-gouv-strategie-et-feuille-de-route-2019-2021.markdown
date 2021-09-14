@@ -17,11 +17,29 @@ une-ou-diaporama:
 une:
   image: "/uploads/Publication_TECHGOUV_une.jpg"
   alternative-textuelle: 
+style: |
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 layout: rgaa
 ---
 
-## ÉDITO
+<p class="text-center"><a href="/uploads/Plaquette_TechGouv_mi2021.PDF"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></a></p>
 
+<div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/Plaquette_TechGouv_mi2021.PDF">Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)</a></p> </div>
+
+
+
+<h2 style="margin-bottom:0">ÉDITO</h2>
 
 > **Pour améliorer et simplifier l’action publique pour tous les Français, dans tous les territoires, nous devons nous appuyer sur un État numérique plus performant.** La crise sanitaire sans précédent rend plus que jamais nécessaire l’accélération de la numérisation des services publics qui est une priorité du Président de la République et du Gouvernement depuis 2017.
 > <br>
@@ -43,7 +61,7 @@ qualité pour les Français et les agents publics, une plus grande ouverture et 
 > <br> Ministre de la Transformation et de la Fonction publiques
 {: .auteur-citation}
 
-## TECH.GOUV : Les technologies numériques au service des citoyens et des agents publics
+### TECH.GOUV : Les technologies numériques au service des citoyens et des agents publics
 
 
 > Avec TECH.GOUV, l’État s’est doté d’un programme ambitieux pour accélérer la transformation numérique du service public.
@@ -149,10 +167,6 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
   <br>
 
 
-<p class="text-center"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></p>
+<p class="text-center"><a href="/uploads/Plaquette_TechGouv_mi2021.PDF"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></a></p>
+<div class="lien-important" style="margin-bottom:40px"> <p><a href="/uploads/Plaquette_TechGouv_mi2021.PDF">Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)</a></p> </div>
 
-> [Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021  (pdf - 1 Mo)](/uploads/Plaquette_TechGouv_mi2021.PDF)
-{: .lien-important}
-
-<br>
-<br>
