@@ -33,7 +33,7 @@ style: |
 layout: rgaa
 ---
 
-<p class="text-center"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></p>
+<p class="text-center"><a href="/uploads/Plaquette_TechGouv_mi2021.PDF"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></a></p>
 
 > [Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021  (pdf - 1 Mo)](/uploads/Plaquette_TechGouv_mi2021.PDF)
 {: .lien-important}
@@ -168,7 +168,7 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
   <br>
 
 
-<p class="text-center"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></p>
+<p class="text-center"><a href="/uploads/Plaquette_TechGouv_mi2021.PDF"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></a></p>
 
 > [Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021  (pdf - 1 Mo)](/uploads/Plaquette_TechGouv_mi2021.PDF)
 {: .lien-important}
