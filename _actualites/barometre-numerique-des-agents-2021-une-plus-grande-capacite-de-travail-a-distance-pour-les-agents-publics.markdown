@@ -29,7 +29,7 @@ style: |-
   }
 ---
 
-<p>Pour la 3<sup>e</sup> année consécutive, la DINUM, avec les DNUM ministérielles, renouvelle le Baromètre numérique de l’agent (BNA). Menée en juin 2021, la consultation auprès des agents issus de 12 ministères et des services du Premier ministre (administrations centrales et déconcentrées, hors fonction publique hospitalière et enseignement) a porté sur 4 thématiques liées à leur environnement de travail numérique : l’équipement, les outils et applications, la connectivité et les réseaux, le support et la formation.</p>
+<p>Pour la 3<sup>e</sup> année consécutive, la DINUM, avec les DNUM ministérielles, renouvelle le baromètre numérique de l’agent (BNA). Menée en juin 2021, la consultation auprès des agents issus de 12 ministères et des services du Premier ministre (administrations centrales et déconcentrées, hors fonction publique hospitalière et enseignement) a porté sur 4 thématiques liées à leur environnement de travail numérique : l’équipement, les outils et applications, la connectivité et les réseaux, le support et la formation.</p>
 
 Pour cette édition 2021, la participation à l’enquête BNA est en hausse avec 108 313 répondants, soit un taux de réponse de 18% (14% en 2020). **Les résultats obtenus révèlent les efforts menés par les différents ministères pour améliorer l’environnement de travail numérique des agents et l’adapter aux nouveaux modes de travail, dans un contexte de crise sanitaire.**
 
