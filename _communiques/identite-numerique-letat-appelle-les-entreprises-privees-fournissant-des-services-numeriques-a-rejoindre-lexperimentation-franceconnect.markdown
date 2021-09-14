@@ -37,7 +37,7 @@ Depuis 2016, le déploiement de FranceConnect se poursuit avec l’intégration 
 * [En savoir plus sur FranceConnect](https://franceconnect.gouv.fr/#intro)
 * [En savoir plus sur l’expérimentation de FranceConnect](https://franceconnect.gouv.fr/partenaires) 
 
-> « Pour les entreprises fournissant des services numeriques qui intègrent FranceConnect, c’est l’opportunité de gagner en efficience en déléguant la gestion de l’identité numérique à un tiers de confiance tout en gagnant en visibilité et en améliorant l’accès à leurs services numériques pour garantir à leurs utilisateurs la sécurité des données personnelles ».  **Christine Balian, directrice du programme FranceConnect.**
+« Pour les entreprises fournissant des services numeriques qui intègrent FranceConnect, c’est l’opportunité de gagner en efficience en déléguant la gestion de l’identité numérique à un tiers de confiance tout en gagnant en visibilité et en améliorant l’accès à leurs services numériques pour garantir à leurs utilisateurs la sécurité des données personnelles ».  **Christine Balian, directrice du programme FranceConnect.**
 
 
 Créé en 2016 et opéré par la direction interministérielle du numérique (DINUM) dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), sous l’autorité de la ministre de la Transformation et de la Fonction publiques, FranceConnect permet à tout utilisateur ayant déjà un compte impots.gouv.fr, Ameli, de la mutualité sociale agricole (MSA), une identité numérique de La Poste ou Mobile Connect et Moi, de se connecter à plus de 960 services en ligne, sans créer de nouvel identifiant et en s’appuyant sur un compte vérifié parmi les fournisseurs d’identité publics et privés.
