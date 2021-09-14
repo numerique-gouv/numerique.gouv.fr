@@ -1,7 +1,7 @@
 ---
 title: 'Baromètre numérique des agents 2021 : une plus grande capacité de travail
   à distance pour les agents publics'
-date: 2021-09-13 09:54:00 +02:00
+date: 2021-09-14 09:54:00 +02:00
 categories:
 - Article
 tags:
@@ -75,6 +75,8 @@ Cette nouvelle édition du BNA appelle donc les ministères à **poursuivre le d
 <p align="center"><a href="/uploads/Barometre_Numerique_Agent_2021.pdf" class="button">Consulter les résultats du BNA 2021 (pdf – 1,6&nbsp;Mo)</a></p>
 
 [> Retrouvez également les données brutes du BNA 2021 sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/barometre-numerique-de-lagent-resultats-2021/ "Retrouvez également les données brutes du BNA 2021 sur data.gouv.fr - Lien externe")
+<br>
+<br>
 
 **À (re)lire :**
 * [Baromètre numérique de l’agent 2020 : des agents de plus en plus satisfaits de leur environnement de travail numérique](/actualites/barometre-numerique-agent-2020/)
