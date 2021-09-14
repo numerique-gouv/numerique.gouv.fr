@@ -33,7 +33,7 @@ style: |
 layout: rgaa
 ---
 
-<p class="text-center" style="margin-bottom:0"><a href="/uploads/Plaquette_TechGouv_mi2021.PDF"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></a></p>
+<p class="text-center"><a href="/uploads/Plaquette_TechGouv_mi2021.PDF"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></a></p>
 
 <div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/Plaquette_TechGouv_mi2021.PDF">Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)</a></p> </div>
 
@@ -61,7 +61,7 @@ qualité pour les Français et les agents publics, une plus grande ouverture et 
 > <br> Ministre de la Transformation et de la Fonction publiques
 {: .auteur-citation}
 
-## TECH.GOUV : Les technologies numériques au service des citoyens et des agents publics
+### TECH.GOUV : Les technologies numériques au service des citoyens et des agents publics
 
 
 > Avec TECH.GOUV, l’État s’est doté d’un programme ambitieux pour accélérer la transformation numérique du service public.
