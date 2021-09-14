@@ -17,8 +17,24 @@ une-ou-diaporama:
 une:
   image: "/uploads/Publication_TECHGOUV_une.jpg"
   alternative-textuelle: 
+style: |
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 layout: rgaa
 ---
+
+<div align="center" style="margin-bottom: 40px"><a href="/uploads/Plaquette_TechGouv_mi2021.PDF" class="button"><b>Lire la stratégie et feuille de route TECH.GOUV – édition mi-2021 (pdf - 1 Mo)</b></a></div>
+
 
 ## ÉDITO
 
