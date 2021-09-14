@@ -1,18 +1,17 @@
 ---
-title: 'TECH.GOUV : Stratégie et feuille de route 2019-2022 : édition actualisée mi-2020'
+title: 'TECH.GOUV : Stratégie et feuille de route 2019-2022 - édition actualisée mi-2021'
 date: 2019-04-16 00:00:00 +02:00
 tags:
 - TECH.GOUV
 - transformation numérique
 - qualité des services numériques
 position: 0
-date_de_modification: 31 août 2020
+date_de_modification: 14 septembre 2021
 chapeau-text: Lancé par l’État en avril 2019, le programme TECH.GOUV, piloté par la
   DINUM avec l’appui de tous les ministères, vise à accélérer la transformation numérique
-  du service public. Un an après, les premiers résultats concrets ont été obtenus.
-  Découvrez l’édition actualisée mi-2020 de la stratégie et de la feuille de route
-  2019-2022, comprenant 6 enjeux, 8 missions et 38 projets dont 5 sont désormais achevés
-  et 3 nouveaux font leur entrée.
+  du service public. Découvrez l’édition actualisée mi-2021 de la stratégie et de
+  la feuille de route 2019-2022, comprenant 6 enjeux, 8 missions et 43 projets dont
+  9 sont désormais achevés, 1 le sera fin 2021 et 5 nouveaux font leur entrée.
 une-ou-diaporama:
 - image: "/uploads/Publication_TECHGOUV_une.jpg"
 une:
@@ -24,16 +23,20 @@ layout: rgaa
 ## ÉDITO
 
 
-> Le programme TECH.GOUV a été lancé en 2019 par la direction interministérielle du numérique pour permettre à l’État d’accélérer sa transformation numérique. Cet objectif est au cœur de la feuille de route du nouveau ministère de la transformation et de la fonction publiques voulu par le Président de la République et le Premier ministre.
+> **Pour améliorer et simplifier l’action publique pour tous les Français, dans tous les territoires, nous devons nous appuyer sur un État numérique plus performant.** La crise sanitaire sans précédent rend plus que jamais nécessaire l’accélération de la numérisation des services publics qui est une priorité du Président de la République et du Gouvernement depuis 2017.
 > <br>
 > <br>
-> **Pour rendre l’action publique plus proche, plus efficace, plus simple et plus juste pour tous les Français, dans tous les territoires, nous devons nous appuyer sur un État numérique plus actif.** Après cette crise sans précédent, nous ne devons pas reconstruire notre État à l’identique, nous devons le moderniser. **Nous ne pourrons le faire sans tirer parti de toutes les opportunités offertes par le numérique.**
+> **La transformation numérique des services publics est donc au cœur de la feuille de route du ministère de la Transformation et de la Fonction publiques que j’ai présentée le 4 mars dernier.** Cette transformation numérique doit poursuivre trois ambitions majeures : **des services publics numériques et des outils de meilleure
+qualité pour les Français et les agents publics, une plus grande ouverture et transparence de l’action publique grâce au numérique,** et enfin **une souveraineté numérique renforcée.**
 > <br>
 > <br>
-> **Je me réjouis donc de constater les premiers progrès obtenus par le programme TECH.GOUV dans de nombreux domaines ces derniers mois :** la réussite de FranceConnect, qui simplifie l’accès aux démarches administratives pour plus de 17 millions de Français ; les commandos UX, qui mettent le citoyen au cœur des projets numériques ; le lancement de nouveaux outils et plateformes qui ont permis à des centaines de milliers d’agents de continuer à travailler à distance pendant la crise sanitaire ; et la transparence sur les résultats, avec l’observatoire de la qualité de la dématérialisation et le panorama des grands projets, qui aident l’État à mieux piloter ses actions de modernisation et en rendre compte aux Français.
+> Le programme TECH.GOUV a été lancé en 2019 par la direction interministérielle du numérique pour accélérer la transformation numérique de l’État. Je me réjouis de constater les premiers progrès obtenus dans de nombreux domaines, deux ans après son lancement : **la réussite de FranceConnect,** qui simplifie l’accès aux démarches administratives pour plus de 28 millions de Français ; **le déploiement de nouveaux outils numériques** qui ont permis à des centaines de milliers d’agents de continuer à travailler à distance pendant la crise sanitaire ; **le lancement des commandos d’amélioration de l’expérience utilisateur** qui mettent le citoyen au cœur des projets numériques publics ; **le lancement d’outils pour rendre le numérique public plus écoresponsable** ; et **la transparence sur les résultats,** avec l’observatoire de la qualité des démarches en ligne et le panorama des grands projets numériques de l’État qui aident l’État à mieux piloter ses actions de modernisation et à en rendre compte aux Français.
 > <br>
 > <br>
-> **Ces actions devront être poursuivies et amplifiées dans le cadre du plan de relance, qui doit servir tous les Français. Je m’assurerai personnellement de l’avancement et de l’appropriation par les autres administrations du programme TECH.GOUV dans ce contexte, car il est un réservoir d’initiatives et d’idées dans lequel le gouvernement compte puiser pour accélérer la transformation de l’État et obtenir rapidement les résultats nécessaires.**
+> Notre ambition de transformation repose sur les agents publics en administrations centrales, dans les services déconcentrés et les opérateurs qui sont mobilisés au quotidien pour améliorer le numérique de l’État. À cet égard, je suis particulièrement attentive aux actions en faveur de **l’attractivité** et de la **diversité dans le recrutement des experts du numérique de l’État**. Ils témoignent de la capacité de l’État à être à l’avant-garde dans le numérique.
+> <br>
+> <br>
+> **Depuis un an, le Gouvernement a accéléré les efforts de numérisation de l’administration grâce aux moyens du plan France Relance. Cet effort sans précédent doit permettre de rendre concrète cette transformation numérique de l’État dans le quotidien des Français.**
 {: .citation}
 
 > **Amélie de Montchalin**
@@ -43,22 +46,25 @@ layout: rgaa
 ## TECH.GOUV : Les technologies numériques au service des citoyens et des agents publics
 
 
-> **Avec TECH.GOUV, l’État s’est doté d’un programme ambitieux pour accélérer la transformation numérique du service public.**
+> Avec TECH.GOUV, l’État s’est doté d’un programme ambitieux pour accélérer la transformation numérique du service public.
 > <br>
 > <br>
 > Cette stratégie répond à six enjeux clairement identifiés **— simplification, inclusion, attractivité, maîtrise, économies, alliances —** qui doivent mobiliser l’ensemble des parties prenantes à un service public de qualité, à savoir l’État, les collectivités territoriales et leurs opérateurs.
 > <br>
 > <br>
-> Il s’agit de concevoir et mettre en œuvre des projets numériques réalistes et utiles, en phase avec les attentes et les besoins des citoyens, des entreprises et des agents publics. **Ces projets doivent permettre de développer de nouveaux usages et méthodes de travail, et de développer la résilience de l’action publique en situation de crise tout en s’assurant que les moins à l’aise avec le numérique continuent à bénéficier des services publics.**
+> Il s’agit de concevoir et mettre en oeuvre des projets numériques réalistes et utiles, en phase avec les attentes et les besoins des citoyens, des entreprises et des agents publics. **Ces projets doivent permettre d’inventer de nouveaux usages, de développer la résilience de l’action publique en situation de crise et d’accompagner les nouvelles organisations du travail au sein de l’État tout en s’assurant que les citoyens les moins à l’aise avec le numérique continuent à bénéficier des services publics.**
 > <br>
 > <br>
-> Les contraintes sont nombreuses : budgétaire bien évidemment ; technique, car l’État doit recouvrer une meilleure maîtrise de son environnement numérique ; humaine enfin, car la guerre des compétences fait rage dans les métiers dont nous avons besoin pour réaliser notre feuille de route. Pour les surmonter, les directions numériques des ministères ont allié leurs forces et travaillé de concert pour un lancement réussi de TECH.GOUV.
+> Les contraintes sont nombreuses : budgétaire bien évidemment ; technique, car l’État doit recouvrer une meilleure maîtrise de son environnement numérique ; humaine enfin, car la guerre des compétences fait rage dans les métiers dont nous avons besoin pour réaliser notre feuille de route. Pour les surmonter, les directions numériques des ministères ont allié leurs forces et travaillé de concert pour lancer et conduire TECH.GOUV.
 > <br>
 > <br>
-> **Ce premier anniversaire du programme donne l’occasion d’un bilan qui consacre quelques réussites notables et clarifie le chemin restant à parcourir, d’autant que la crise sanitaire a complexifié l’exécution du programme, tout en imposant de nouveaux chantiers prioritaires.**
+> **Ce deuxième anniversaire du programme donne l’occasion d’un nouveau bilan qui consacre des réussites notables et clarifie le chemin restant à parcourir, alors que la crise sanitaire a à la fois renforcé les attentes et imposé de nouveaux chantiers prioritaires.**
 > <br>
 > <br>
-> TECH.GOUV est un défi pour tous les promoteurs de la transformation numérique de l’État. Ce bilan donne du sens au travail quotidien de nombreux agents experts du numérique et de l’espoir à tous ceux qui se disaient « Nous n’y arriverons jamais ». Il est l’occasion de **replacer la France dans le peloton de tête des États numériques et de renforcer le lien avec les citoyens.**
+> TECH.GOUV est un défi pour tous les promoteurs de la transformation numérique
+de l’État. Ce bilan donne du sens au travail quotidien de nombreux agents experts du
+numérique et de l’espoir à tous ceux qui se disaient « Nous n’y arriverons jamais ».
+Il est l’occasion de **replacer la France dans le peloton de tête des États numériques et de renforcer le lien avec les citoyens.**
 {: .citation}
 
 > **Nadi Bou Hanna**
@@ -70,7 +76,7 @@ layout: rgaa
 
 Les technologies numériques permettent aux organisations de répondre aux nouvelles attentes de leurs clients et de leurs employés. Augmenter le service public grâce au numérique, c’est faire en sorte que l’État se saisisse des opportunités du numérique pour rapprocher l’administration des citoyens, des entreprises et de ses propres agents, pour mieux les servir.
 
-<figure class='image-center' style='width: 70%;'><img src="/uploads/2020_12_08_Les-6-enjeux.jpg" alt="TECH.GOUV : le programme d'accélération de la transformation numérique de l'État. Pour les citoyens, entreprises et agents publics. Enjeux : simplification, inclusion, attractivité, maîtrise, économies, alliances"/></figure>
+<figure class='image-center' style='width: 70%;'><img src="/uploads/2019_04_16_Les-6-enjeux.png" alt="TECH.GOUV : le programme d'accélération de la transformation numérique de l'État. Pour les citoyens, entreprises et agents publics. Enjeux : simplification, inclusion, attractivité, maîtrise, économies, alliances"/></figure>
 <br>
 <figure class='image-left' style='width: 7%;'><img src="/uploads/tech-gouv-picto-simplification.png"/></figure>### Simplification
 {: .margin-top-2 .margin-bottom-1}
@@ -117,13 +123,13 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 
 {: .margin-top-2 .margin-bottom-1}
 
-* **LABEL :** labelliser des solutions et des outils numériques de qualité pour faciliter leur emploi par les porteurs de projets publics
+* **LABEL :** labelliser les solutions et outils numériques recommandés pour les administrations
 
-* **IDNUM :** construire une identification unifiée pour accéder aux services en ligne, pour les citoyens, les entreprises et les agents publics
+* **IDNUM :** construire une identification unifiée pour les services en ligne
 
 * **DATA :** exploiter tout le potentiel des données au service des politiques publiques
 
-* **INFRA :** construire et opérer des infrastructures et des services numériques mutualisés (réseau, cloud, outils de travail)
+* **INFRA :** construire et opérer des infrastructures et des services numériques mutualisés
   <br>
   <br>
 
@@ -142,10 +148,10 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
   <br>
   <br>
 
-![Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2020  (pdf - 2 Mo)](/uploads/capture-plaquette-TECH-couv.png)
-{: .text-center}
 
-> [Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2020  (pdf - 2 Mo)](/uploads/20200827_Plaquette_Techgouv_DINUM.pdf)
+<p class="text-center"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></p>
+
+> [Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021  (pdf - 1 Mo)](/uploads/Plaquette_TechGouv_mi2021.PDF)
 {: .lien-important}
 
 <br>
