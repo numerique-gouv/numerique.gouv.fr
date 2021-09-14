@@ -33,14 +33,13 @@ style: |
 layout: rgaa
 ---
 
-<p class="text-center"><a href="/uploads/Plaquette_TechGouv_mi2021.PDF"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></a></p>
+<p class="text-center" style="margin-bottom:0"><a href="/uploads/Plaquette_TechGouv_mi2021.PDF"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></a></p>
 
-> [Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021  (pdf - 1 Mo)](/uploads/Plaquette_TechGouv_mi2021.PDF)
-{: .lien-important}
-
+<div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/Plaquette_TechGouv_mi2021.PDF">Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)</a></p> </div>
 
 
-## ÉDITO
+
+<h2 style="margin-bottom:0">ÉDITO</h2>
 
 > **Pour améliorer et simplifier l’action publique pour tous les Français, dans tous les territoires, nous devons nous appuyer sur un État numérique plus performant.** La crise sanitaire sans précédent rend plus que jamais nécessaire l’accélération de la numérisation des services publics qui est une priorité du Président de la République et du Gouvernement depuis 2017.
 > <br>
@@ -169,9 +168,5 @@ La mise en place de partenariats ouverts et d’alliances avec des acteurs publi
 
 
 <p class="text-center"><a href="/uploads/Plaquette_TechGouv_mi2021.PDF"><img alt="Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)" src="/uploads/capture-plaquette-TECH-couv.png" style="border:solid 1px #464646"></a></p>
+<div class="lien-important" style="margin-bottom:40px"> <p><a href="/uploads/Plaquette_TechGouv_mi2021.PDF">Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021 (pdf - 1 Mo)</a></p> </div>
 
-> [Consulter la stratégie et la feuille de route 2019-2022 de TECH.GOUV – édition actualisée mi-2021  (pdf - 1 Mo)](/uploads/Plaquette_TechGouv_mi2021.PDF)
-{: .lien-important}
-
-<br>
-<br>
