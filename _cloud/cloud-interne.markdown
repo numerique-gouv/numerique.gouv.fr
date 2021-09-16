@@ -241,9 +241,9 @@ Ces deux offres sont accessibles et manipulables directement via API.
 
 **Ce cloud interne se décline en deux offres :**
 
-* **Nubo,** opérée par la DGFiP, adapté à l’hébergement de données sensibles,
+* **Nubo,** opérée par la DGFiP, adaptée à l’hébergement de données sensibles,
 
-* **π (Pi),** opérée par le ministère de l’Intérieur, adapté à l’hébergement de données sensibles jusqu’au niveau Diffusion restreinte.
+* **π (Pi),** opérée par le ministère de l’Intérieur, adaptée à l’hébergement de données sensibles jusqu’au niveau Diffusion restreinte.
 
 <h3 style="margin-bottom:40px; margin-top:50px">Les caractéristiques du Cloud interne</h3>
 
