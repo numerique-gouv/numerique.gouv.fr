@@ -241,9 +241,9 @@ Ces deux offres sont accessibles et manipulables directement via API.
 
 **Ce cloud interne se décline en deux offres :**
 
-* **Nubo,** opérée par la DGFiP, adapté à l’hébergement de données sensibles,
+* **Nubo,** opérée par la DGFiP, adaptée à l’hébergement de données sensibles,
 
-* **π,** opérée par le ministère de l’Intérieur, adapté à l’hébergement de données sensibles jusqu’au niveau Diffusion restreinte.
+* **π (Pi),** opérée par le ministère de l’Intérieur, adaptée à l’hébergement de données sensibles jusqu’au niveau Diffusion restreinte.
 
 <h3 style="margin-bottom:40px; margin-top:50px">Les caractéristiques du Cloud interne</h3>
 
@@ -310,7 +310,7 @@ Fin juillet 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis s
 
 <div align="center"><div class="lien-important"><p style="margin-bottom: 0px"><a href="https://portailnubo.dgfip.finances.rie.gouv.fr" title="En savoir plus sur l’offre Nubo - Lien externe">En savoir plus sur l’offre Nubo</a></p></div>(lien accessible depuis le réseau interministériel de l’État).</div>
 
-<h3 style="margin-top:40px">Cloud π</h3>
+<h3 style="margin-top:40px">Cloud π (Pi)</h3>
 Dédié aux services de l’État, opéré par le ministère de l’Intérieur, Cloud π offre la particularité de pouvoir héberger des produits manipulant des données de type diffusion restreinte (DR). L’offre de services du Cloud π est orientée infrastructure à la demande, directement disponible via un portail ou des API.
 
 À fin juillet 2021, Cloud π compte plus de 8 000 machines virtuelles.
