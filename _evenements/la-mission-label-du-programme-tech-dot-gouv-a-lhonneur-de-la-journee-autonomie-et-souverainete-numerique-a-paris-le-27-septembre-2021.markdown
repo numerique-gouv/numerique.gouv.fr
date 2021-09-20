@@ -1,7 +1,7 @@
 ---
 title: La mission LABEL du programme TECH.GOUV à l'honneur de la Journée Autonomie
   et souveraineté numérique à Paris le 27 septembre 2021
-date: 2021-09-20 15:29:00 +02:00
+date: 2021-09-20 15:49:00 +02:00
 categories:
 - mission LABEL
 - Souveraineté
