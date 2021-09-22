@@ -15,13 +15,13 @@ En quatre mois, chaque ministère a ainsi élaboré, en lien avec ses services d
 
 Un cadre interministériel d’administration de la donnée, des algorithmes et des codes sources a en outre été élaboré par l’administrateur général des données, au sein de la DINUM : il définit la vision et la doctrine d’ensemble dans laquelle ces chantiers doivent s’inscrire et rappelle l’offre de service interministérielle proposée en appui des ministères.
 
-Une gouvernance interministérielle en place
+## Une gouvernance interministérielle en place
 
 Conformément à la circulaire, des administrateurs ministériels des données (AMD) ont été nommés dans tous les ministères au 15 mai 2021.
 
 Le directeur interministériel du numérique, en sa qualité d’administrateur général des données, algorithmes et codes sources, assure la coordination de ce réseau, en s’appuyant sur le département Etalab. Il réunit ainsi chaque semestre sous sa présidence les AMD à l’occasion d’un comité interministériel de l’administration de la donnée (CIAD), dont la première session s’est tenue le 24 juin 2021. 
  
-1er CIAD le 24 juin 2021 clôturé par Amélie de Montchalin
+   1er CIAD le 24 juin 2021 clôturé par Amélie de Montchalin
 
 Chaque administrateur ministériel des données (AMD) a lui-même constitué et animera un réseau de correspondants au sein des directions métier de son périmètre : les feuilles de route détaillent chacune les modalités de gouvernance mises en place. 
 Les différents ministères ont ainsi engagé, chacun à leur rythme, les évolutions organisationnelles nécessaires afin de favoriser les synergies entre les services, notamment entre directions du numérique et services de statistiques ministériels.
@@ -32,7 +32,8 @@ Des actions couvrant tout le cycle de vie de la donnée, de l’ouverture au par
 
 La mise à disposition de données publiques en open data est un axe fort de nombreuses feuilles de route ministérielles. Parmi les nouvelles ouvertures de données annoncées, on trouve entre autres les données de décisions de justice qui ouvriront des perspectives d’amélioration de la qualité des pratiques juridictionnelles et de leur caractère prévisionnel, les données relatives à la fréquentation des lieux culturels en France, les données de la délinquance (crime, délit et contravention aux niveaux local départemental et régional) ou encore les données relatives aux effectifs des populations animales en déclin.
 
-Gage d’efficacité de l’action publique, le partage des données entre administrations habilitées est placé au cœur des feuilles de route, soutenu par des stratégies d’APIfication, priorisées à l’aune des cas d’usages identifiés par les différents ministères. De cette façon, les ministères contribuent à la mise en œuvre du principe « Dites-le-nous une fois » en permettant aux administrations de simplifier les démarches en ligne, dans la continuité des ambitions et résultats affichés lors des derniers comités interministériels pour la transformation publique (CITP). 
+Gage d’efficacité de l’action publique, le partage des données entre administrations habilitées est placé au cœur des feuilles de route, soutenu par des stratégies d’APIfication, priorisées à l’aune des cas d’usages identifiés par les différents ministères. De cette façon, les ministères contribuent à la mise en œuvre du principe « Dites-le-nous une fois » en permettant aux administrations de simplifier les démarches en ligne, dans la continuité des ambitions et résultats affichés lors des derniers comités interministériels pour la transformation publique (CITP).
+
 Pour maximiser l’impact de ces ouvertures, les ministères identifient les données et API les plus porteuses de valeur pour les usagers en se focalisant en priorité sur les 250 démarches phares de l’État suivies dans l’observatoire de la qualité des services publics numériques.
 
 Recenser les données détenues et produites par chaque ministère
@@ -44,9 +45,7 @@ De même, les ministères démontrent une ambition importante dans le développe
 
 Afin de mener à bien ces différents projets d’ouverture, de partage et d’exploitation de données, les ministères s’appuieront sur les ressources interministérielles mises à disposition par la DINUM, permettant de faciliter l’exposition des données (data.gouv.fr, api.gouv.fr), comme la sécurisation et l’exposition des API (PISTE), ou la gestion des accès (Data Pass).
 
-Renforcer l’ouverture des algorithmes publics 
-
-
+## Renforcer l’ouverture des algorithmes publics 
 Les feuilles de routes ministérielles traitent également des algorithmes publics, de leur ouverture et redevabilité. 
 Alors que les administrations s’appuient de plus en plus sur des traitements algorithmiques pour/dans…., plusieurs ministères s’engagent à nommer des référents dédiés qui auront pour rôles de…... Plusieurs feuilles de route comportent la réalisation d’un inventaire des algorithmes utilisés par le ministère, tel que prévu par le code des relations entre le public et l’administration (CRPA). 
 
@@ -54,8 +53,7 @@ Le ministère de la Transformation et de la Fonction publiques prend de son côt
 
 La DINUM les aidera dans la prise en main des outils existants, comme un modèle d’inventaire qu’elle a élaboré, et leur fournira des nouveaux supports d’accompagnement. Elle met en place et animera un groupe de travail dédié aux algorithmes publics au sein du réseau des administrateurs ministériels des données, algorithmes et codes sources. 
 
-Développer le recours aux logiciels libres dans l’administration, l’ouverture et le partage des codes sources
-
+## Développer le recours aux logiciels libres dans l’administration, l’ouverture et le partage des codes sources
 
 Comme le prévoyait la circulaire d’avril 2021, la DINUM constitue un pôle Logiciels libres, au sein de son département Etalab, afin d’en assurer l’animation et la promotion interministérielles. 
 Le pôle élabore puis mettra en œuvre, avec le soutien des ministères, un plan d'action dédié au logiciel libre et aux communs numériques. 
@@ -77,7 +75,7 @@ Dans toutes les feuilles de route comme à l’échelle interministérielle, des
 Plusieurs actions portent également sur les enjeux de recrutement, d’attractivité et de fidélisation des profils tech adéquats. Les ministères prévoient notamment des actions en faveur de leur attractivité, cartographient les compétences dont ils disposent et anticipent leurs futurs besoins dans le but de développer de véritables pôles de compétences.
 Ces enjeux étant partagés par l’ensemble des ministères, un appui interministériel renforcé sera élaboré par la DINUM et la DGAFP autour de ces questions feuille de route MTFP). 
 
-2.	Une dynamique d’amélioration continue
+## Une dynamique d’amélioration continue
 
 L’élaboration et la publication des feuilles de route ministérielles marquent une première étape. Certaines actions nécessiteront des travaux complémentaires, afin notamment d’en préciser la déclinaison opérationnelle et les indicateurs de suivi. 
 
@@ -89,7 +87,7 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
  
 > Découvrir le guichet Développer l’utilisation de la donnée dans votre administration (IA, décisionnel, échange de données, open data, archivage)
 
-3.	Une charte d’engagement pour faciliter l’accès des chercheurs aux données des administrations
+## Une charte d’engagement pour faciliter l’accès des chercheurs aux données des administrations
 
 Conformément à la circulaire du 27 avril, une charte d’accès à la donnée des administrations pour les chercheurs a été élaborée conjointement par le ministère de la Transformation et de la Fonction publiques et le ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation. 
 Alors que l’accès et la réutilisation des données publiques sont encadrés par le Code des relations entre le public et l’administration (CRPA) et sur le régime d’accès anticipé aux archives prévues par le code du patrimoine (L. 213-3), cette Charte présente les engagements additionnels pris par les administrations afin de faciliter l’accès des chercheurs tant aux données publiques (communicables à tous, ou « open data ») qu’à celles couvertes par des secrets protégés par loi.
