@@ -36,7 +36,7 @@ Gage d’efficacité de l’action publique, le partage des données entre admin
 
 Pour maximiser l’impact de ces ouvertures, les ministères identifient les données et API les plus porteuses de valeur pour les usagers en se focalisant en priorité sur les 250 démarches phares de l’État suivies dans l’observatoire de la qualité des services publics numériques.
 
-Recenser les données détenues et produites par chaque ministère
+## Recenser les données détenues et produites par chaque ministère
 En appui de ces actions de partage et d’ouverture, de nombreuses feuilles de route intègrent la création de catalogues des données que chaque administration détient. Ces catalogues ont vocation à être partagés avec d’autres organisations afin de faciliter les collaborations et le partage des données. Les différentes initiatives de catalogage en interministériel seront coordonnées afin de favoriser l'interopérabilité des catalogues.
 
 En complément, les feuilles de route des ministères prévoient des actions visant à renforcer l’exploitation et la valorisation des données qu’ils détiennent et produisent. Elles passent notamment par le développement d’outils permettant la visualisation de données ou l’exploration de nouveaux cas d’usages liés à l’intelligence artificielle, comme le ciblage de profils à risque pour lutter efficacement contre la fraude. 
