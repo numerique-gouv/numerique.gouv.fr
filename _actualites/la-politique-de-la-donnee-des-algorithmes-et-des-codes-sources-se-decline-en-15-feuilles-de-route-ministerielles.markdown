@@ -28,7 +28,7 @@ Les différents ministères ont ainsi engagé, chacun à leur rythme, les évolu
 
  Les administrateurs ministériels des Données (AMD) au 15 mai 2021
 
-Des actions couvrant tout le cycle de vie de la donnée, de l’ouverture au partage entre acteurs habilités et à l’exploitation par les datasciences et l’intelligence artificielle
+## Des actions couvrant tout le cycle de vie de la donnée
 
 La mise à disposition de données publiques en open data est un axe fort de nombreuses feuilles de route ministérielles. Parmi les nouvelles ouvertures de données annoncées, on trouve entre autres les données de décisions de justice qui ouvriront des perspectives d’amélioration de la qualité des pratiques juridictionnelles et de leur caractère prévisionnel, les données relatives à la fréquentation des lieux culturels en France, les données de la délinquance (crime, délit et contravention aux niveaux local départemental et régional) ou encore les données relatives aux effectifs des populations animales en déclin.
 
