@@ -4,11 +4,11 @@ title: La politique de la donnée, des algorithmes et des codes sources se décl
 date: 2021-09-22 18:30:00 +02:00
 ---
 
-A travers 15 feuilles de route, une ambitieuse politique de la donnée qui se déploie dans tous les ministères
+## A travers 15 feuilles de route, une ambitieuse politique de la donnée qui se déploie dans tous les ministères
 
 Le 27 avril 2021, le Premier ministre a renouvelé l’ambition du Gouvernement en matière d'exploitation, d'ouverture et de circulation des données, des algorithmes et des codes sources publics en adressant à tous les ministres et préfets de région une circulaire dédiée, sous l’impulsion de la ministre de la Transformation et de la Fonction publiques.
 
-Lire notre article : Politique de la donnée, des algorithmes et des codes sources : une circulaire du Premier ministre renouvelle l’ambition française
+**Lire notre article :** Politique de la donnée, des algorithmes et des codes sources : une circulaire du Premier ministre renouvelle l’ambition française
 
 En quatre mois, chaque ministère a ainsi élaboré, en lien avec ses services déconcentrés et ses opérateurs  et avec l’appui du département Etalab de la direction interministérielle du numérique, sa propre feuille de route sur deux à trois ans. Chacune présente les ambitions et enjeux de politiques publiques liés à la donnée, aux algorithmes et aux codes sources publics, les actions prioritaires concrètes à lancer et la gouvernance mise en place pour en assurer la mise en œuvre. 
 
@@ -70,7 +70,8 @@ Des actions dédiées figurent dans les feuilles de route de chaque ministère. 
 
 La plupart des ministères souhaitent participer activement à la communauté BlueHats, pilotée par la DINUM, qui rassemble déjà des experts techniques du sujet.
 > Vous êtes agent public, intéressé par les logiciels libres ? Rejoignez la communauté Blue Hats !
-1.	Développer les compétences et le capital humain, une priorité 
+
+## Développer les compétences et le capital humain, une priorité 
 
 Dans toutes les feuilles de route comme à l’échelle interministérielle, des actions destinées à acculturer et renforcer l’expertise des agents sur les problématiques liées à la donnée, aux algorithmes et aux codes sources sont identifiées : événements de sensibilisation et journées thématiques, programmes de formation, animation de réseaux d’experts, partage de compétences et bonnes pratiques, sensibilisation des cadres dirigeants au potentiel de la donnée… 
 Plusieurs actions portent également sur les enjeux de recrutement, d’attractivité et de fidélisation des profils tech adéquats. Les ministères prévoient notamment des actions en faveur de leur attractivité, cartographient les compétences dont ils disposent et anticipent leurs futurs besoins dans le but de développer de véritables pôles de compétences.
