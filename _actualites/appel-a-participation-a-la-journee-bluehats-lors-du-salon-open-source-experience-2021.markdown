@@ -1,6 +1,7 @@
 ---
 title: Appel A Participation A La Journee Bluehats Lors Du Salon Open Source Experience
   2021
+published: false
 ---
 
 Suite au succès des journées #BlueHats organisées lors des salons Paris Open Source Summit de 2018 et 2019, la DINUM vous invite à une journée de partage d'expérience autour des logiciels libres dans l'administration publique. Vous êtes tous les bienvenus : agents publics, citoyens, associations, entreprises, profils techniques et non-techniques. 
