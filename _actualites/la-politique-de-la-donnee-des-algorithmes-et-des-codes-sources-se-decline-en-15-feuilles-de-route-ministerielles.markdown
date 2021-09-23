@@ -56,13 +56,13 @@ Pour maximiser l’impact de ces ouvertures, les ministères identifient les don
 
 ## **Recenser, exploiter et valoriser les données détenues et produites par chaque ministère**
 
-En appui de ces actions de partage et d’ouverture, de nombreuses feuilles de route intègrent l’élaboration de **catalogues des données **que chaque administration publique produit et détient. Ces catalogues ont vocation à être partagés avec d’autres organisations afin de faciliter les collaborations et le partage des données. Les différentes initiatives de catalogage en interministériel seront coordonnées par la DINUM afin de favoriser l'interopérabilité des catalogues.
+En appui de ces actions de partage et d’ouverture, de nombreuses feuilles de route intègrent l’élaboration de **catalogues des données** que chaque administration publique produit et détient. Ces catalogues ont vocation à être partagés avec d’autres organisations afin de faciliter les collaborations et le partage des données. Les différentes initiatives de catalogage en interministériel seront coordonnées par la DINUM afin de favoriser l'interopérabilité des catalogues.
 
 Les feuilles de route des ministères prévoient également des actions visant à renforcer **l’exploitation et la valorisation des données** qu’ils détiennent et produisent. Des outils seront notamment développés pour visualiser les données ou explorer de nouveaux cas d’usages liés à l’intelligence artificielle, comme le ciblage de profils à risque pour lutter efficacement contre la fraude.
 
 De même, les ministères démontrent une ambition importante dans le développement de **hubs sectoriels de données** ([Health Data Hub](https://www.health-data-hub.fr/), [AgDataHub](https://agdatahub.eu/), Labor Data Hub, Education Data hub, etc.) permettant d’assurer **la bonne circulation de données en accès restreint** à un ensemble d’acteurs dûment habilités dans le cadre de leur mission. La DINUM animera un groupe de travail dédié au sein du réseau des administrateurs ministériels de données, qui viendra nourrir une doctrine interministérielle en la matière.
 
-Afin de mener à bien ces différents projets d’ouverture, de partage et d’exploitation de données, les ministères s’appuieront sur les ressources interministérielles mises à disposition par la DINUM, permettant de faciliter **l’exposition des données et des API ([data.gouv.fr](https://www.data.gouv.fr/fr/), [api.gouv.fr](https://api.gouv.fr/)), **comme la sécurisation des **API** (PISTE), ou la gestion des accès (**Data Pass**).
+Afin de mener à bien ces différents projets d’ouverture, de partage et d’exploitation de données, les ministères s’appuieront sur les ressources interministérielles mises à disposition par la DINUM, permettant de faciliter **l’exposition des données et des API** ([data.gouv.fr](https://www.data.gouv.fr/fr/), [api.gouv.fr](https://api.gouv.fr/)), comme **la sécurisation des API** (PISTE), ou **la gestion des accès** (**Data Pass**).
 
 ## Renforcer l’ouverture des algorithmes publics
 
@@ -72,13 +72,13 @@ Alors que les administrations s’appuient de plus en plus sur des traitements a
 
 Le ministère de la Transformation et de la Fonction publiques prend de son côté des engagements en interministériel. Il charge notamment la DINUM, déjà mobilisée à leur côté sur le sujet, de poursuivre **l’accompagnement des ministères dans la mise en œuvre de ces actions en matière d’algorithmes**.
 
-La DINUM les aidera notamment dans la prise en main des outils existants, comme un modèle d’inventaire qu’elle a élaboré, et leur fournira des nouveaux supports d’accompagnement. Elle met en place et animera un **groupe de travail dédié aux algorithmes publics **au sein du réseau des administrateurs ministériels des données, algorithmes et codes sources.
+La DINUM les aidera notamment dans la prise en main des outils existants, comme un modèle d’inventaire qu’elle a élaboré, et leur fournira des nouveaux supports d’accompagnement. Elle met en place et animera un **groupe de travail dédié aux algorithmes publics** au sein du réseau des administrateurs ministériels des données, algorithmes et codes sources.
 
-## **Développer le recours aux logiciels libres dans l’administration, l’ouverture et le partage des codes sources**
+## Développer le recours aux logiciels libres dans l’administration, l’ouverture et le partage des codes sources
 
-Comme le prévoyait la circulaire d’avril 2021, la DINUM constitue un pôle Logiciels libres, au sein de son département Etalab, afin d’en assurer l’animation et la promotion interministérielles.
+Comme le prévoyait la circulaire d’avril 2021, la DINUM constitue un pôle Logiciels libres au sein de son département Etalab, afin d’en assurer l’animation et la promotion interministérielles.
 
-Le pôle élabore puis mettra en œuvre, avec le soutien des ministères, un **plan d'action dédié au logiciel libre et aux communs numériques**.
+Le pôle élabore puis mettra en œuvre, avec le soutien des ministères, un **plan d'action dédié aux logiciels libres et aux communs numériques**.
 
 Celui poursuivra trois objectifs : systématiser la publication des codes sources du secteur public sous licence libre, développer le recours aux logiciels libres dans l'administration et s'appuyer sur l'open source pour attirer des talents du numérique vers les missions de service public.
 
@@ -86,15 +86,15 @@ Les missions Label et Talents de la DINUM apportent leur concours sur ces deux d
 
 Action majeure sur le sujet : les codes sources publiés par l'administration seront systématiquement référencés et présentés sur une future plateforme, **code.gouv.fr**, en cours de construction au sein de la DINUM.
 
-Le [socle interministériel de logiciels libres](https://sill.etalab.gouv.fr) et le [catalogue GouvTech](https://catalogue.numerique.gouv.fr) aideront l'administration à faire le choix raisonné d'utiliser des logiciels libres, en l'aidant à identifier des solutions et à en mesurer la pertinence.
+Le [socle interministériel de logiciels libres](https://sill.etalab.gouv.fr) et le [catalogue GouvTech](https://catalogue.numerique.gouv.fr) permettront à l'administration de faire le choix raisonné d'utiliser des logiciels libres, en l'aidant à identifier des solutions et à en mesurer la pertinence.
 
 Afin de suivre ce plan d'action dans la durée, la DINUM mettra en place **des structures de dialogue et d'engagement** avec les acteurs associatifs et professionnels de l'open source, mettant ainsi à profit la richesse des points de vue et la complémentarité des expertises.
 
-Des actions dédiées figurent également dans les feuilles de route de chaque ministère. À titre d’exemples, le ministère en charge de l’Éducation nationale s'engage à créer un **Open Source Programme Office **qui aura pour rôle de…, le ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation à ce que les choix logiciels des établissements sous sa tutelle tiennent compte du Socle interministériel de logiciels libres. Le ministère des Solidarités et de la Santé favorisera la contribution de ses agents au logiciel libre, et le ministère de la Transformation et de la Fonction publiques à ouvrir le code source stratégique de FranceConnect.
+Des actions dédiées figurent également dans les feuilles de route de chaque ministère. À titre d’exemples, le ministère en charge de l’Éducation nationale s'engage à créer un **Open Source Program Office** qui aura pour rôle de mettre en œuvre l’ensemble de ses actions logiciels libres ; de son côté, le ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation s'engage à ce que les choix logiciels des établissements sous sa tutelle tiennent compte du Socle interministériel de logiciels libres. Le ministère des Solidarités et de la Santé favorisera la contribution de ses agents au logiciel libre, et le ministère de la Transformation et de la Fonction publiques à ouvrir le code source stratégique de FranceConnect.
 
-La plupart des ministères participeront activement à la communauté **BlueHats**, pilotée par la DINUM, qui rassemble déjà des experts techniques du sujet.
+La plupart des ministères participeront activement à la communauté **BlueHats**, animée par la DINUM, qui rassemble déjà de nombreux experts techniques du sujet.
 
-**> Vous êtes agent public, intéressé par les logiciels libres ? Rejoignez la communauté Blue Hats !**
+**> Vous êtes agent public, intéressé par les logiciels libres ? [Inscrivez-vous à la lettre d’infos BlueHats](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio "Inscrivez-vous à la lettre d’infos BlueHats - Lien externe"). Et pour plus d’infos [contactez-nous à logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr "contactez-nous à logiciels-libres@data.gouv.fr - Ouvre une messagerie courriel")
 
 ## Développer les compétences et le capital humain, une priorité
 
