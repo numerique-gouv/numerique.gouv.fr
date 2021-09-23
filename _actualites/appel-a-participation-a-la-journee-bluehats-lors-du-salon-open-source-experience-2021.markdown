@@ -1,31 +1,6 @@
 ---
-title: 'Appel à participation à la journée #BlueHats lors du salon Open Source Experience 2021'
-date: 2021-09-23 12:26:00 +02:00
-categories:
-- Article
-tags:
-- BlueHats
-- Logiciels libres
-- TECH.GOUV
-chapeau-text: La communauté #BlueHats vous donne rendez-vous le 9
-	Novembre 2021 au salon Open Source Experience pour une journée dédiée
-	au partage d'expertise autour des logiciels libres dans
-	l'administration publique.
-une-ou-diaporama:
-- image: "/uploads/bluehats-osx.png"
-style: |-
-  .button {
-  background-color: #0d5c98;
-  border: 1px solid white;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-style: normal;
-  margin: 4px 2px;
-  cursor: pointer;
-  }
+title: Appel A Participation A La Journee Bluehats Lors Du Salon Open Source Experience
+  2021
 ---
 
 Suite au succès des journées #BlueHats organisées lors des salons Paris Open Source Summit de 2018 et 2019, la DINUM vous invite à une journée de partage d'expérience autour des logiciels libres dans l'administration publique. Vous êtes tous les bienvenus : agents publics, citoyens, associations, entreprises, profils techniques et non-techniques. 
