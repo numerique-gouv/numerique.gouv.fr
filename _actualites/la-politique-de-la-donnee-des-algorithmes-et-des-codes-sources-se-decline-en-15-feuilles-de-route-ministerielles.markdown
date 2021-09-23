@@ -98,13 +98,13 @@ La plupart des ministères participeront activement à la communauté **BlueHats
 
 ## Développer les compétences et le capital humain, une priorité
 
-Dans toutes les feuilles de route comme à l’échelle interministérielle, des actions destinées à **acculturer et renforcer l’expertise **des agents sur les problématiques liées à la donnée, aux algorithmes et aux codes sources sont identifiées : événements de sensibilisation et journées thématiques, programmes de formation, animation de réseaux d’experts, partage de compétences et bonnes pratiques, sensibilisation des **cadres dirigeants** au potentiel de la donnée…
+Dans toutes les feuilles de route comme à l’échelle interministérielle, des actions destinées à **acculturer et renforcer l’expertise des agents** sur les problématiques liées à la donnée, aux algorithmes et aux codes sources sont identifiées : événements de sensibilisation et journées thématiques, programmes de formation, animation de réseaux d’experts, partage de compétences et bonnes pratiques, sensibilisation des **cadres dirigeants** au potentiel de la donnée…
 
 Plusieurs actions portent également sur les enjeux de **recrutement et de fidélisation des profils tech adéquats**. Les ministères prévoient notamment des actions en faveur de leur attractivité, cartographient les compétences dont ils disposent et anticipent leurs futurs besoins dans le but de développer de véritables pôles de compétences.
 
 Ces enjeux étant partagés par l’ensemble des ministères, un **appui interministériel renforcé sera élaboré par la DINUM et la DGAFP autour de ces questions** (action XX de la feuille de route du ministère de la Transformation et de la Fonction publiques).
 
-Sur ce volet, la feuille de route du ministère de la Transformation et de la Fonction publiques s’est nourri des conclusions et recommandations du rapport **Évaluation des besoins de l’État en compétences et expertises en matière de donnée. **Coréalisé par l’INSEE et la DINUM, ce rapport est le fruit d’une mission conduite de février à juin 2021, couplant 80 auditions et une enquête auprès des administrations de l’État.
+Sur ce volet, la feuille de route du ministère de la Transformation et de la Fonction publiques s’est nourri des conclusions et recommandations du rapport **Évaluation des besoins de l’État en compétences et expertises en matière de donnée**. Coréalisé par l’INSEE et la DINUM, ce rapport est le fruit d’une mission conduite de février à juin 2021, couplant 80 auditions et une enquête auprès des administrations de l’État.
 
 ## Une dynamique d’amélioration continue
 
@@ -112,8 +112,8 @@ L’élaboration et la publication des feuilles de route ministérielles marquen
 
 Ces feuilles de route feront **l’objet de mises à jour**, permettant également **d’associer plus largement les parties prenantes** internes (métiers, services déconcentrés, opérateurs sous tutelle…) ainsi que la **société civile**. Plusieurs ministères proposent des modalités de dialogue avec les communautés de réutilisateurs et permettant de les impliquer dans la gouvernance mise en place à travers notamment des comités consultatifs.
 
-Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispositifs de financement proposés par l’État, à commencer par le plan **France Relance, **opéré par la DINUM pour le compte du ministère de la Transformation et de la Fonction publiques.
+Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispositifs de financement proposés par l’État, à commencer par le plan **France Relance,** opéré par la DINUM pour le compte du ministère de la Transformation et de la Fonction publiques.
 
-[> Solliciter le guichet Développer l’utilisation de la donnée dans votre administration (IA, décisionnel, échange de données, open data, archivage)](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot)
+[> Solliciter le guichet Développer l’utilisation de la donnée dans votre administration (IA, décisionnel, échange de données, open data, archivage)](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot "Solliciter le guichet Développer l’utilisation de la donnée dans votre administration (IA, décisionnel, échange de données, open data, archivage) - Lien externe")
 
 **> Consulter les 15 feuilles de route ministérielles**
