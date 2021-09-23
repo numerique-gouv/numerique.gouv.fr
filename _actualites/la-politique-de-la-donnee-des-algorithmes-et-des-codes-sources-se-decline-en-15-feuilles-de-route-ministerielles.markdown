@@ -2,6 +2,8 @@
 title: La politique de la donnée, des algorithmes et des codes sources se décline
   en 15 feuilles de route ministérielles
 date: 2021-09-22 18:30:00 +02:00
+categories:
+- Article
 tags:
 - Etalab
 - Donnée
@@ -21,7 +23,7 @@ chapeau-text: En avril dernier, le Gouvernement renouvelait sa politique ambitie
 
 Le 27 avril 2021, le Premier ministre a renouvelé l’ambition du Gouvernement en matière d'exploitation, d'ouverture et de circulation des données, des algorithmes et des codes sources publics en adressant à tous les ministres et préfets de région une **[circulaire](https://www.legifrance.gouv.fr/circulaire/id/45162) dédiée, sous l’impulsion de la ministre de la Transformation et de la Fonction publiques.**
 
-**Lire notre article : **[Politique de la donnée, des algorithmes et des codes sources : une circulaire du Premier ministre renouvelle l’ambition française](https://www.numerique.gouv.fr/actualites/politique-donnee-algorithmes-et-codes-sources-une-circulaire-du-premier-ministre-renouvelle-ambition-francaise/)\
+**Lire notre article :** [Politique de la donnée, des algorithmes et des codes sources : une circulaire du Premier ministre renouvelle l’ambition française](https://www.numerique.gouv.fr/actualites/politique-donnee-algorithmes-et-codes-sources-une-circulaire-du-premier-ministre-renouvelle-ambition-francaise/)
 {:.margin-left-3}
 
 En quatre mois, chaque ministère a ainsi élaboré, en lien avec ses services déconcentrés et ses opérateurs et avec l’appui du département Etalab de la direction interministérielle du numérique, **sa propre feuille de route sur deux à trois ans.** Chacune présente les ambitions et enjeux de politiques publiques liés à la donnée, aux algorithmes et aux codes sources publics, les actions prioritaires concrètes à lancer et la gouvernance mise en place pour en assurer la mise en œuvre.
@@ -30,7 +32,7 @@ Un **cadre interministériel d’administration de la donnée, des algorithmes e
 
 ## Une gouvernance interministérielle en place
 
-Conformément à la circulaire, **des administrateurs ministériels des données (AMD) ont été nommés dans tous les ministères **au 15 mai 2021.
+Conformément à la circulaire, **des administrateurs ministériels des données (AMD) ont été nommés dans tous les ministères** au 15 mai 2021.
 
 Le directeur interministériel du numérique, en sa qualité d’**administrateur général des données**, algorithmes et codes sources, assure la coordination de ce **réseau**, en s’appuyant sur le département Etalab. Chaque semestre, il réunit sous sa présidence les AMD à l’occasion d’un **comité interministériel de l’administration de la donnée (CIAD), **dont la première session s’est tenue le 24 juin 2021.
 
