@@ -155,3 +155,4 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
 [> Solliciter le guichet Développer l’utilisation de la donnée dans votre administration (IA, décisionnel, échange de données, open data, archivage)](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot "Solliciter le guichet Développer l’utilisation de la donnée dans votre administration (IA, décisionnel, échange de données, open data, archivage) - Lien externe")
 
 **> Consulter les 15 feuilles de route ministérielles**
+
