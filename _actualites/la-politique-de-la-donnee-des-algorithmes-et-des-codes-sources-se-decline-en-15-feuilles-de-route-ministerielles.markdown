@@ -35,10 +35,11 @@ Conformément à la circulaire, **des administrateurs ministériels des données
 
 <blockquote class="twitter-tweet"><p lang="fr" dir="ltr">"La donnée pr produire un meilleur service public, transformer en profondeur, piloter par les résultats" <br>🚀<a href="https://twitter.com/AdeMontchalin?ref_src=twsrc%5Etfw">@AdeMontchalin</a> clôture le 1er Conseil Interministériel des Administrateurs de la Donnée, qui réunit les 18 AMD <a href="https://t.co/j72YjsV1lG">https://t.co/j72YjsV1lG</a> sous la présidence de l'AGDAC <a href="https://twitter.com/_DINUM?ref_src=twsrc%5Etfw">@_DINUM</a> <a href="https://t.co/cWxp8AM34U">pic.twitter.com/cWxp8AM34U</a></p>— Etalab (@Etalab) <a href="https://twitter.com/Etalab/status/1408046595401191431?ref_src=twsrc%5Etfw">June 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-*1er CIAD le 24 juin 2021 clôturé par Amélie de Montchalin*
+<div class="text-center"><p><i>1er CIAD le 24 juin 2021 clôturé par Amélie de Montchalin</i></p></div>
 
 Chaque AMDAC a lui-même constitué et animera **un réseau de correspondants** au sein des directions métier de son périmètre : les feuilles de route détaillent chacune les modalités de gouvernance mises en place.
 
+<div class="text-center">
 ![liste-amdac.png](/uploads/liste-amdac.png)
 
 <script>
@@ -83,7 +84,8 @@ button.className = button.className.replace(" is-active", "");
 </div>
 </div>
 
-*Les administrateurs ministériels des données (AMD) au 15 mai 2021*
+<div class="text-center"><p><i>Les administrateurs ministériels des données, des algorithmes et des codes sources (AMDAC) au 15 mai 2021</i></p></div>
+
 
 ## Des actions couvrant tout le cycle de vie de la donnée
 
