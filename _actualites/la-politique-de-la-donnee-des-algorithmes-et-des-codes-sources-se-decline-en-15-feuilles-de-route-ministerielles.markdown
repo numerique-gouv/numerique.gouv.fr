@@ -54,7 +54,7 @@ Gage d’efficacité de l’action publique, le **partage des données** entre a
 
 Pour maximiser l’impact de ces ouvertures, les ministères identifient les données et API les plus porteuses de valeur pour les usagers en se focalisant en priorité sur les 250 démarches phares de l’État suivies dans l’observatoire de la qualité des services publics numériques.\
 
-## **Recenser, exploiter et valoriser les données détenues et produites par chaque ministère**
+## Recenser, exploiter et valoriser les données détenues et produites par chaque ministère
 
 En appui de ces actions de partage et d’ouverture, de nombreuses feuilles de route intègrent l’élaboration de **catalogues des données** que chaque administration publique produit et détient. Ces catalogues ont vocation à être partagés avec d’autres organisations afin de faciliter les collaborations et le partage des données. Les différentes initiatives de catalogage en interministériel seront coordonnées par la DINUM afin de favoriser l'interopérabilité des catalogues.
 
