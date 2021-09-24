@@ -40,7 +40,9 @@ Conformément à la circulaire, **des administrateurs ministériels des données
 
 Chaque AMDAC a lui-même constitué et animera **un réseau de correspondants** au sein des directions métier de son périmètre : les feuilles de route détaillent chacune les modalités de gouvernance mises en place.
 
+<div class="text-center"><p><h3>Les administrateurs ministériels des données, des algorithmes et des codes sources (AMDAC), au 15 mai 2021</h3></p></div>
 <div class="text-center"><img src="/uploads/liste-amdac-mai2021.png"></div>
+<div class="text-center"><img src="/uploads/liste-amdac_mai2021.png"></div>
 
 <script>
 function myFunction(id) {
@@ -84,7 +86,6 @@ button.className = button.className.replace(" is-active", "");
 </div>
 </div>
 
-<div class="text-center"><p><i>Les administrateurs ministériels des données, des algorithmes et des codes sources (AMDAC) au 15 mai 2021</i></p></div>
 
 
 ## Des actions couvrant tout le cycle de vie de la donnée
