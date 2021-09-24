@@ -129,17 +129,17 @@ Des actions dédiées figurent également dans les feuilles de route de chaque m
 
 La plupart des ministères continueront à encourager leurs agents à participer activement à la communauté **BlueHats**, animée par la DINUM, qui rassemble déjà de nombreux experts du sujet.
 
-\*\*> Vous êtes agent public, intéressé par les logiciels libres ? [Inscrivez-vous à la lettre d’infos BlueHats](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio "Inscrivez-vous à la lettre d’infos BlueHats - Lien externe"). Et pour plus d’infos [contactez-nous à logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr "contactez-nous à logiciels-libres@data.gouv.fr - Ouvre une messagerie courriel")\*\*
+**> Vous êtes agent public, intéressé par les logiciels libres ? [Inscrivez-vous à la lettre d’infos BlueHats](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio "Inscrivez-vous à la lettre d’infos BlueHats - Lien externe"). Et pour plus d’infos [contactez-nous à logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr "contactez-nous à logiciels-libres@data.gouv.fr - Ouvre une messagerie courriel")**
 
 ## Développer les compétences et le capital humain, une priorité
 
-Dans toutes les feuilles de route comme à l’échelle interministérielle, des actions destinées à **acculturer et renforcer l’expertise **des agents sur les problématiques liées à la donnée, aux algorithmes et aux codes sources sont identifiées : événements de sensibilisation et journées thématiques, programmes de formation, animation de réseaux d’experts, partage de compétences et bonnes pratiques, sensibilisation des **cadres dirigeants** au potentiel de la donnée…
+Dans toutes les feuilles de route comme à l’échelle interministérielle, des actions destinées à **acculturer et renforcer l’expertise des agents** sur les problématiques liées à la donnée, aux algorithmes et aux codes sources sont identifiées : événements de sensibilisation et journées thématiques, programmes de formation, animation de réseaux d’experts, partage de compétences et bonnes pratiques, sensibilisation des **cadres dirigeants** au potentiel de la donnée…
 
 Plusieurs actions portent également sur les enjeux de **recrutement et de fidélisation des profils tech adéquats**. Les ministères prévoient notamment des actions en faveur de leur attractivité, cartographient les compétences dont ils disposent et anticipent leurs futurs besoins dans le but de développer de véritables pôles de compétences.
 
 Ces enjeux étant partagés par l’ensemble des ministères, un **appui interministériel renforcé sera élaboré par la DINUM et la DGAFP autour de ces questions**.
 
-Sur ce volet, la feuille de route du ministère de la Transformation et de la Fonction publiques s’est nourri des conclusions et recommandations du rapport **Évaluation des besoins de l’État en compétences et expertises en matière de donnée. **Coréalisé par l’INSEE et la DINUM, ce rapport est le fruit d’une mission conduite de février à juin 2021, couplant 80 auditions et une enquête auprès des administrations de l’État.
+Sur ce volet, la feuille de route du ministère de la Transformation et de la Fonction publiques s’est nourri des conclusions et recommandations du rapport **Évaluation des besoins de l’État en compétences et expertises en matière de donnée.** Coréalisé par l’INSEE et la DINUM, ce rapport est le fruit d’une mission conduite de février à juin 2021, couplant 80 auditions et une enquête auprès des administrations de l’État.
 
 ## Une dynamique d’amélioration continue
 
