@@ -115,7 +115,7 @@ Les feuilles de routes ministérielles traitent également des algorithmes publi
 
 Alors que les administrations s’appuient de plus en plus sur des traitements algorithmiques pour prendre des décisions individuelles, plusieurs ministères s’engagent à nommer des **référents dédiés**. Plusieurs feuilles de route comportent la réalisation d**’un inventaire** des algorithmes utilisés par le ministère, tel que prévu par le code des relations entre le public et l’administration (CRPA).
 
-Le ministère de la Transformation et de la Fonction publiques prend de son côté des engagements en interministériel. Il charge notamment la DINUM, déjà mobilisée à leur côté sur le sujet, de poursuivre **l’accompagnement des ministères dans la mise en œuvre de ces actions en matière d’algorithmes, **notamment en leur fournissant des outils et une aide à la prise en main.\
+Le ministère de la Transformation et de la Fonction publiques prend de son côté des engagements en interministériel. Il charge notamment la DINUM, déjà mobilisée à leur côté sur le sujet, de poursuivre **l’accompagnement des ministères dans la mise en œuvre de ces actions en matière d’algorithmes,** notamment en leur fournissant des outils et une aide à la prise en main.
 
 ## Développer le recours aux logiciels libres dans l’administration, l’ouverture et le partage des codes sources
 
@@ -129,7 +129,7 @@ Le [socle interministériel de logiciels libres](https://sill.etalab.gouv.fr) et
 
 Afin de suivre ce plan d'action dans la durée, la DINUM mettra en place **des structures de dialogue et d'engagement** avec les acteurs associatifs et professionnels de l'open source, mettant ainsi à profit la richesse des points de vue et la complémentarité des expertises.
 
-Des actions dédiées figurent également dans les feuilles de route de chaque ministère. À titre d’exemples, le ministère en charge de l’Éducation nationale s'engage à créer un **Open Source Program Office **qui aura pour rôle de mettre en œuvre l’ensemble des actions logiciels libres pour l’éducation ; de son côté, le ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation s’engage à ce que les choix logiciels des établissements sous sa tutelle tiennent compte du Socle interministériel de logiciels libres. Le ministère des Solidarités et de la Santé favorisera la contribution de ses agents au logiciel libre, et le ministère de la Transformation et de la Fonction publiques ouvrira le code source stratégique de FranceConnect.
+Des actions dédiées figurent également dans les feuilles de route de chaque ministère. À titre d’exemples, le ministère en charge de l’Éducation nationale s'engage à créer un **Open Source Program Office** qui aura pour rôle de mettre en œuvre l’ensemble des actions logiciels libres pour l’éducation ; de son côté, le ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation s’engage à ce que les choix logiciels des établissements sous sa tutelle tiennent compte du Socle interministériel de logiciels libres. Le ministère des Solidarités et de la Santé favorisera la contribution de ses agents au logiciel libre, et le ministère de la Transformation et de la Fonction publiques ouvrira le code source stratégique de FranceConnect.
 
 La plupart des ministères continueront à encourager leurs agents à participer activement à la communauté **BlueHats**, animée par la DINUM, qui rassemble déjà de nombreux experts du sujet.
 
