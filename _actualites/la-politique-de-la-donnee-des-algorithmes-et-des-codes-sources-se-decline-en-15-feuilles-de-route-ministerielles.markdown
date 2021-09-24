@@ -41,6 +41,48 @@ Chaque AMDAC a lui-même constitué et animera **un réseau de correspondants** 
 
 ![liste-amdac.png](/uploads/liste-amdac.png)
 
+<script>
+function myFunction(id) {
+let x = document.getElementById(id);
+let button = document.getElementById("accordion-button");
+
+if (x.className.indexOf("show") == -1) {
+x.className += " show";
+button.className += " is-active"
+} else {
+x.className = x.className.replace(" show", "");
+button.className = button.className.replace(" is-active", "");
+}
+}
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="accordion-item">
+<button onclick="myFunction('organigramme')" id="accordion-button" class="accordion-title" aria-controls="Liste des AMDAC" aria-expanded="false">Version accessible de la liste des AMDAC</button>
+<div class="accordion-content" id="Liste des AMDAC">
+<ul><li><b>Samuel HEUZE</b> - Services du Premier ministre - amd@pm.gouv.fr</li>
+<li><b>Fabien FIESCHI</b> Ministère de l’Europe et des Affaires étrangères - amd.dnum@diplomatie.gouv.fr </li>
+<li><b>Thomas LESUEUR</b> - Ministère de la Transition écologique et ministère de la Mer - amd@developpement-durable.gouv.fr</li>
+<li><b>Jean-Yves CAPUL</b> - Ministère de l’Éducation nationale, de la Jeunesse et des Sports - amd@education.gouv.fr</li>
+<li><b>Stéphane TRAINEL</b> - Ministère de l’Économie, des Finances et de la Relance - amd@finances.gouv.fr</li>
+<li><b>Lionel PLOQUIN</b> - Direction générale des Finances publiques
+- administrateur.donnees@dgfip.finances.gouv.fr</li>
+<li><b>Nicolas FOURNIER</b> - Ministère des Armées - dgnum-amd.resp.fct@intradef.gouv.fr</li>
+<li><b>Jérôme LETIER</b> - Ministère de l’Intérieur et ministère des Outre-mer - amd@interieur.gouv.fr</li>
+<li><b>Hélène BRISSET</b> - Ministère du Travail, de l‘Emploi et de l’Insertion - amd@travail.gouv.fr</li>
+<li><b>Pierre-Louis ROLLE</b> - Ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales - amd@cohesion-territoires.gouv.fr
+</li>
+<li><b>Anne-Florence CANTON</b> - Ministère de la Justice - admin.donnees@justice.gouv.fr</li>
+<li><b>Romain DELASSUS</b> - Ministère de la Culture - amd@culture.gouv.fr</li>
+<li><b>Fabrice LENGLART</b> - Ministère des Solidarités et de la Santé - amd@sante.gouv.fr</li>
+<li><b>Isabelle BLANC</b> - Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - amdac@recherche.gouv.fr</li>
+<li><b>Laurent WALCH</b> - Ministère l’Agriculture et de l’Alimentation - amd@agriculture.gouv.fr</li>
+<li><b>Laure LUCCHESI</b> - Ministère de la Transformation et de la Fonction publiques - amd@modernisation.gouv.fr</li>
+</ul>
+</div>
+</div>
+</div>
+
 *Les administrateurs ministériels des données (AMD) au 15 mai 2021*
 
 ## Des actions couvrant tout le cycle de vie de la donnée
