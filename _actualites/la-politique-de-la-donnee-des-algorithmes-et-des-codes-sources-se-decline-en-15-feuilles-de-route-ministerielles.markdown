@@ -40,7 +40,7 @@ Conformément à la circulaire, **des administrateurs ministériels des données
 
 Chaque AMDAC a lui-même constitué et animera **un réseau de correspondants** au sein des directions métier de son périmètre : les feuilles de route détaillent chacune les modalités de gouvernance mises en place.
 
-<div class="text-center"><img src="/uploads/liste-amdac.png"></div>
+<div class="text-center"><img src="/uploads/liste-amdac-mai2021.png"></div>
 
 <script>
 function myFunction(id) {
