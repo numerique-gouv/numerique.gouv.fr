@@ -153,7 +153,6 @@ L’élaboration et la publication des feuilles de route ministérielles marquen
 Ces feuilles de route feront **l’objet de mises à jour**, permettant également **d’associer plus largement les parties prenantes** internes (métiers, services déconcentrés, opérateurs sous tutelle…) ainsi que la **société civile**. Plusieurs ministères proposent des modalités de dialogue avec les communautés de réutilisateurs et permettant de les impliquer plus largement dans la gouvernance mise en place à travers notamment des comités consultatifs.
 
 Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispositifs de financement proposés par l’État, à commencer par le plan **France Relance,** opéré par la DINUM pour le compte du ministère de la Transformation et de la Fonction publiques.
-
 [> Solliciter le guichet Développer l’utilisation de la donnée dans votre administration (IA, décisionnel, échange de données, open data, archivage)](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot "Solliciter le guichet Développer l’utilisation de la donnée dans votre administration (IA, décisionnel, échange de données, open data, archivage) - Lien externe")
 
 **> Consulter les 15 feuilles de route ministérielles**
