@@ -33,14 +33,14 @@ Un **[cadre interministériel d’administration de la donnée, des algorithmes 
 
 Conformément à la circulaire, **des administrateurs ministériels des données, des algorithmes et des codes sources (AMDAC) ont été nommés dans tous les ministères** au 15 mai 2021.
 
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">"La donnée pr produire un meilleur service public, transformer en profondeur, piloter par les résultats" <br>🚀<a href="https://twitter.com/AdeMontchalin?ref_src=twsrc%5Etfw">@AdeMontchalin</a> clôture le 1er Conseil Interministériel des Administrateurs de la Donnée, qui réunit les 18 AMD <a href="https://t.co/j72YjsV1lG">https://t.co/j72YjsV1lG</a> sous la présidence de l'AGDAC <a href="https://twitter.com/_DINUM?ref_src=twsrc%5Etfw">@_DINUM</a> <a href="https://t.co/cWxp8AM34U">pic.twitter.com/cWxp8AM34U</a></p>— Etalab (@Etalab) <a href="https://twitter.com/Etalab/status/1408046595401191431?ref_src=twsrc%5Etfw">June 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="text-center"><blockquote class="twitter-tweet tw-align-center"><p lang="fr" dir="ltr">"La donnée pr produire un meilleur service public, transformer en profondeur, piloter par les résultats" <br>🚀<a href="https://twitter.com/AdeMontchalin?ref_src=twsrc%5Etfw">@AdeMontchalin</a> clôture le 1er Conseil Interministériel des Administrateurs de la Donnée, qui réunit les 18 AMD <a href="https://t.co/j72YjsV1lG">https://t.co/j72YjsV1lG</a> sous la présidence de l'AGDAC <a href="https://twitter.com/_DINUM?ref_src=twsrc%5Etfw">@_DINUM</a> <a href="https://t.co/cWxp8AM34U">pic.twitter.com/cWxp8AM34U</a></p>— Etalab (@Etalab) <a href="https://twitter.com/Etalab/status/1408046595401191431?ref_src=twsrc%5Etfw">June 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 <div class="text-center"><p><i>1er CIAD le 24 juin 2021 clôturé par Amélie de Montchalin</i></p></div>
 
 
 Chaque AMDAC a lui-même constitué et animera **un réseau de correspondants** au sein des directions métier de son périmètre : les feuilles de route détaillent chacune les modalités de gouvernance mises en place.
 
-<div class="text-center"><p><h3 class="h4">Les administrateurs ministériels des données, des algorithmes et des codes sources (AMDAC), au 15 mai 2021</h3></p></div>
+<div class="text-center"><p><h3 class="h4">Les administrateurs ministériels des données, des algorithmes et des codes sources (AMDAC), au 15 mai 2021 :</h3></p></div>
 <div class="text-center"><img src="/uploads/liste-amdac-mai2021.png"></div>
 <div class="text-center"><img src="/uploads/liste-amdac_mai2021.png"></div>
 
