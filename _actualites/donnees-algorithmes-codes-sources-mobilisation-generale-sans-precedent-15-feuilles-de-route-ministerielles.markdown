@@ -18,6 +18,8 @@ chapeau-text: 'À l''appel du Premier ministre, sous l''impulsion de la ministre
   ambitieux de 2 à 3 ans, avec l’appui de la DINUM. Amélie de Montchalin les a dévoilées
   ce lundi 27 septembre 2021. Découvrez les grands axes et actions majeures de ces
   15 feuilles de route ministérielles.'
+une-ou-diaporama:
+- image: "/uploads/feuilles-route-data-une-article.png"
 ---
 
 Le 27 avril 2021, le Premier ministre a renouvelé l’ambition du Gouvernement en matière d'exploitation, d'ouverture et de circulation des données, des algorithmes et des codes sources publics en adressant à tous les ministres et préfets de région une **[circulaire](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire - Lien externe") dédiée, sous l’impulsion de la ministre de la Transformation et de la Fonction publiques.**
