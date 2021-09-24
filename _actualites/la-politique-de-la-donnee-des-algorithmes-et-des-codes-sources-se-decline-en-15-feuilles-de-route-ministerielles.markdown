@@ -37,10 +37,10 @@ Conformément à la circulaire, **des administrateurs ministériels des données
 
 <div class="text-center"><p><i>1er CIAD le 24 juin 2021 clôturé par Amélie de Montchalin</i></p></div>
 
+
 Chaque AMDAC a lui-même constitué et animera **un réseau de correspondants** au sein des directions métier de son périmètre : les feuilles de route détaillent chacune les modalités de gouvernance mises en place.
 
-<div class="text-center">
-![liste-amdac.png](/uploads/liste-amdac.png)
+<div class="text-center"><img src="/uploads/liste-amdac.png"></div>
 
 <script>
 function myFunction(id) {
@@ -97,13 +97,13 @@ Pour maximiser l’impact de ces actions, les ministères identifient les donné
 
 ## Recenser, exploiter et valoriser les données détenues et produites par chaque ministère
 
-De nombreuses feuilles de route intègrent l’élaboration de **catalogues des données **que chaque administration publique produit et détient. Ces catalogues ont vocation à être partagés avec d’autres organisations afin de faciliter les collaborations et le partage des données. Les différentes initiatives de catalogage en interministériel seront coordonnées par la DINUM afin de favoriser l'interopérabilité des catalogues.
+De nombreuses feuilles de route intègrent l’élaboration de **catalogues des données** que chaque administration publique produit et détient. Ces catalogues ont vocation à être partagés avec d’autres organisations afin de faciliter les collaborations et le partage des données. Les différentes initiatives de catalogage en interministériel seront coordonnées par la DINUM afin de favoriser l'interopérabilité des catalogues.
 
 Les feuilles de route des ministères prévoient également des actions visant à renforcer **l’exploitation et la valorisation des données** qu’ils détiennent et produisent. Des outils seront notamment développés pour visualiser les données ou explorer de nouveaux cas d’usages liés à l’intelligence artificielle, comme le ciblage de profils à risque pour lutter efficacement contre la fraude.
 
 De même, les ministères démontrent une ambition importante dans le développement de **hubs sectoriels de données existants** ([Health Data Hub ](https://www.health-data-hub.fr/) et [AgDataHub](https://agdatahub.eu/)) ou à venir (Labor Data Hub, Education Data hub, etc.) permettant d’assurer **la bonne circulation de données en accès restreint** à un ensemble d’acteurs dûment habilités dans le cadre de leur mission. La DINUM animera un groupe de travail dédié au sein du réseau des administrateurs ministériels de données, qui viendra nourrir une doctrine interministérielle en la matière.
 
-Afin de mener à bien ces différents projets d’ouverture, de partage et d’exploitation de données, les ministères s’appuieront sur les ressources interministérielles mises à disposition par la DINUM. Ils pourront notamment compter sur des outils permettant de faciliter **l’exposition des données et des API** ([data.gouv.fr](https://www.data.gouv.fr/fr/), [api.gouv.fr](https://api.gouv.fr/))**, **de gérer les droits d’accès associés (**[Data Pass](https://datapass.api.gouv.fr)**) ou encore de distribuer de façon sécurisée les données par **API,** à travers des plateformes de gestion des API (API management).
+Afin de mener à bien ces différents projets d’ouverture, de partage et d’exploitation de données, les ministères s’appuieront sur les ressources interministérielles mises à disposition par la DINUM. Ils pourront notamment compter sur des outils permettant de faciliter **l’exposition des données et des API** ([data.gouv.fr](https://www.data.gouv.fr/fr/ "data.gouv.fr - Lien externe"), [api.gouv.fr](https://api.gouv.fr/)), de **gérer les droits d’accès associés** ([Data Pass](https://datapass.api.gouv.fr "DataPass - Lien externe")) ou encore de **distribuer de façon sécurisée les données par API**, à travers des plateformes de gestion des API (API management).
 
 ## Renforcer l’ouverture des algorithmes publics
 
