@@ -52,7 +52,7 @@ La **mise à disposition de données publiques en open data** est un axe fort de
 
 Gage d’efficacité de l’action publique, le **partage des données** entre administrations habilitées est placé au cœur des feuilles de route, soutenu par des **stratégies d’APIfication,** priorisées à l’aune des cas d’usages identifiés par les différents ministères. De cette façon, les ministères contribuent à la mise en œuvre du principe « ***Dites-le-nous une fois*** » en permettant aux administrations de simplifier les démarches en ligne grâce au partage des données et justificatifs nécessaires aux dossiers des usagers, dans la continuité des ambitions et résultats affichés lors des derniers comités interministériels pour la transformation publique (CITP).
 
-Pour maximiser l’impact de ces ouvertures, les ministères identifient les données et API les plus porteuses de valeur pour les usagers en se focalisant en priorité sur les 250 démarches phares de l’État suivies dans l’observatoire de la qualité des services publics numériques.\
+Pour maximiser l’impact de ces ouvertures, les ministères identifient les données et API les plus porteuses de valeur pour les usagers en se focalisant en priorité sur les 250 démarches phares de l’État suivies dans l’observatoire de la qualité des services publics numériques.
 
 ## Recenser, exploiter et valoriser les données détenues et produites par chaque ministère
 
