@@ -64,7 +64,7 @@ button.className = button.className.replace(" is-active", "");
 <button onclick="myFunction('Liste des AMDAC')" id="accordion-button" class="accordion-title" aria-controls="Liste des AMDAC" aria-expanded="false">Version accessible de la liste des AMDAC</button>
 <div class="accordion-content" id="Liste des AMDAC">
 <ul><li><b>Samuel HEUZE</b> - Services du Premier ministre - amd@pm.gouv.fr</li>
-<li><b>Fabien FIESCHI</b> Ministère de l’Europe et des Affaires étrangères - amd.dnum@diplomatie.gouv.fr </li>
+<li><b>Fabien FIESCHI</b> - Ministère de l’Europe et des Affaires étrangères - amd.dnum@diplomatie.gouv.fr </li>
 <li><b>Thomas LESUEUR</b> - Ministère de la Transition écologique et ministère de la Mer - amd@developpement-durable.gouv.fr</li>
 <li><b>Jean-Yves CAPUL</b> - Ministère de l’Éducation nationale, de la Jeunesse et des Sports - amd@education.gouv.fr</li>
 <li><b>Stéphane TRAINEL</b> - Ministère de l’Économie, des Finances et de la Relance - amd@finances.gouv.fr</li>
