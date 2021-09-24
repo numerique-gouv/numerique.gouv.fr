@@ -63,24 +63,24 @@ button.className = button.className.replace(" is-active", "");
 <div class="accordion-item">
 <button onclick="myFunction('Liste des AMDAC')" id="accordion-button" class="accordion-title" aria-controls="Liste des AMDAC" aria-expanded="false">Version accessible de la liste des AMDAC</button>
 <div class="accordion-content" id="Liste des AMDAC">
-<ul><li><b>Samuel HEUZE</b> - Services du Premier ministre - amd@pm.gouv.fr</li>
-<li><b>Fabien FIESCHI</b> - Ministère de l’Europe et des Affaires étrangères - amd.dnum@diplomatie.gouv.fr </li>
-<li><b>Thomas LESUEUR</b> - Ministère de la Transition écologique et ministère de la Mer - amd@developpement-durable.gouv.fr</li>
-<li><b>Jean-Yves CAPUL</b> - Ministère de l’Éducation nationale, de la Jeunesse et des Sports - amd@education.gouv.fr</li>
-<li><b>Stéphane TRAINEL</b> - Ministère de l’Économie, des Finances et de la Relance - amd@finances.gouv.fr</li>
+<ul><li><b>Samuel HEUZE</b> - Services du Premier ministre - <a href="mailto:amd@pm.gouv.fr">amd@pm.gouv.fr</a></li>
+<li><b>Fabien FIESCHI</b> - Ministère de l’Europe et des Affaires étrangères - <a href="mailto:amd.dnum@diplomatie.gouv.fr">amd.dnum@diplomatie.gouv.fr</a></li>
+<li><b>Thomas LESUEUR</b> - Ministère de la Transition écologique et ministère de la Mer - <a href="mailto:amd@developpement-durable.gouv.fr">amd@developpement-durable.gouv.fr</a></li>
+<li><b>Jean-Yves CAPUL</b> - Ministère de l’Éducation nationale, de la Jeunesse et des Sports - <a href="mailto:amd@education.gouv.fr">amd@education.gouv.fr</a></li>
+<li><b>Stéphane TRAINEL</b> - Ministère de l’Économie, des Finances et de la Relance - <a href="mailto:amd@finances.gouv.fr">amd@finances.gouv.fr</a></li>
 <li><b>Lionel PLOQUIN</b> - Direction générale des Finances publiques
-- administrateur.donnees@dgfip.finances.gouv.fr</li>
-<li><b>Nicolas FOURNIER</b> - Ministère des Armées - dgnum-amd.resp.fct@intradef.gouv.fr</li>
-<li><b>Jérôme LETIER</b> - Ministère de l’Intérieur et ministère des Outre-mer - amd@interieur.gouv.fr</li>
-<li><b>Hélène BRISSET</b> - Ministère du Travail, de l‘Emploi et de l’Insertion - amd@travail.gouv.fr</li>
-<li><b>Pierre-Louis ROLLE</b> - Ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales - amd@cohesion-territoires.gouv.fr
+- <a href="mailto:administrateur.donnees@dgfip.finances.gouv.fr">administrateur.donnees@dgfip.finances.gouv.fr</a></li>
+<li><b>Nicolas FOURNIER</b> - Ministère des Armées - <a href="mailto:dgnum-amd.resp.fct@intradef.gouv.fr">dgnum-amd.resp.fct@intradef.gouv.fr</a></li>
+<li><b>Jérôme LETIER</b> - Ministère de l'Intérieur et ministère des Outre-mer - <a href="mailto:amd@interieur.gouv.fr">amd@interieur.gouv.fr</a></li>
+<li><b>Hélène BRISSET</b> - Ministère du Travail, de l'Emploi et de l’Insertion - <a href="mailto:amd@travail.gouv.fr">amd@travail.gouv.fr</a></li>
+<li><b>Pierre-Louis ROLLE</b> - Ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales - <a href="mailto:amd@cohesion-territoires.gouv.fr">amd@cohesion-territoires.gouv.fr</a>
 </li>
-<li><b>Anne-Florence CANTON</b> - Ministère de la Justice - admin.donnees@justice.gouv.fr</li>
-<li><b>Romain DELASSUS</b> - Ministère de la Culture - amd@culture.gouv.fr</li>
-<li><b>Fabrice LENGLART</b> - Ministère des Solidarités et de la Santé - amd@sante.gouv.fr</li>
-<li><b>Isabelle BLANC</b> - Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - amdac@recherche.gouv.fr</li>
-<li><b>Laurent WALCH</b> - Ministère l’Agriculture et de l’Alimentation - amd@agriculture.gouv.fr</li>
-<li><b>Laure LUCCHESI</b> - Ministère de la Transformation et de la Fonction publiques - amd@modernisation.gouv.fr</li>
+<li><b>Anne-Florence CANTON</b> - Ministère de la Justice - <a href="mailto:admin.donnees@justice.gouv.fr">admin.donnees@justice.gouv.fr</a></li>
+<li><b>Romain DELASSUS</b> - Ministère de la Culture - <a href="mailto:amd@culture.gouv.fr">amd@culture.gouv.fr</a></li>
+<li><b>Fabrice LENGLART</b> - Ministère des Solidarités et de la Santé - <a href="mailto:amd@sante.gouv.fr">amd@sante.gouv.fr</a></li>
+<li><b>Isabelle BLANC</b> - Ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation - <a href="mailto:amdac@recherche.gouv.fr">amdac@recherche.gouv.fr</a></li>
+<li><b>Laurent WALCH</b> - Ministère l’Agriculture et de l’Alimentation - <a href="mailto:amd@agriculture.gouv.fr">amd@agriculture.gouv.fr</a></li>
+<li><b>Laure LUCCHESI</b> - Ministère de la Transformation et de la Fonction publiques - <a href="mailto:amd@modernisation.gouv.fr">amd@modernisation.gouv.fr</a></li>
 </ul>
 </div>
 </div>
