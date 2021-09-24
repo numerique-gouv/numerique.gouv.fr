@@ -59,7 +59,7 @@ button.className = button.className.replace(" is-active", "");
 
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
 <div class="accordion-item">
-<button onclick="myFunction('organigramme')" id="accordion-button" class="accordion-title" aria-controls="Liste des AMDAC" aria-expanded="false">Version accessible de la liste des AMDAC</button>
+<button onclick="myFunction('Liste des AMDAC')" id="accordion-button" class="accordion-title" aria-controls="Liste des AMDAC" aria-expanded="false">Version accessible de la liste des AMDAC</button>
 <div class="accordion-content" id="Liste des AMDAC">
 <ul><li><b>Samuel HEUZE</b> - Services du Premier ministre - amd@pm.gouv.fr</li>
 <li><b>Fabien FIESCHI</b> Ministère de l’Europe et des Affaires étrangères - amd.dnum@diplomatie.gouv.fr </li>
