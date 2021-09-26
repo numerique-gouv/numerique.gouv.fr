@@ -154,6 +154,94 @@ Ces feuilles de route feront **l’objet de mises à jour**, permettant égaleme
 
 Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispositifs de financement proposés par l’État, à commencer par le plan **France Relance,** opéré par la DINUM pour le compte du ministère de la Transformation et de la Fonction publiques.
 [> Solliciter le guichet Développer l’utilisation de la donnée dans votre administration (IA, décisionnel, échange de données, open data, archivage)](https://france-relance.transformation.gouv.fr/96c0-developper-lutilisation-de-la-donnee-dans-vot "Solliciter le guichet Développer l’utilisation de la donnée dans votre administration (IA, décisionnel, échange de données, open data, archivage) - Lien externe")
+<br>
+<br>
 
-**> Consulter les 15 feuilles de route ministérielles**
+<div align="center"><h2><b>Consulter les 15 feuilles de route ministérielles</b></h2></div>
 
+<div class="wrapper">
+  <div class="panel">
+    <div class="titre-document">Vidéo</div>
+    Feuille de route du ministère de l'Agriculture
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <div class="titre-document">Audio</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <div class="titre-document">Présentation</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <div class="titre-document">Enregistrement</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <div class="titre-document">Upload de documents</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <div class="titre-document">Partage d’écran</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 30%;'>
+      <img src="/uploads/Discussion_en_ligne.svg" /></figure>
+    <div class="titre-document">Discussion en ligne</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <div class="titre-document">Notes partagées</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <div class="titre-document">Tableau blanc multi-utilisateurs</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <div class="titre-document">Sondage</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 19%;'>
+      <img src="/uploads/Main_levee.svg" /></figure>
+    <div class="titre-document">Main levée</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <div class="titre-document">Diffusion de vidéos</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 30%; margin-top:28px'>
+      <img src="/uploads/Video.svg" />
+    </figure>
+    <div class="titre-document">Vidéo</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <div class="titre-document">Vidéo</div>
+    Feuille de route du ministère d
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <div class="titre-document">Vidéo</div>
+    Feuille de route du ministère 
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+</div>
+<br>
+<br>
