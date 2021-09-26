@@ -20,6 +20,17 @@ chapeau-text: 'À l''appel du Premier ministre, sous l''impulsion de la ministre
   15 feuilles de route ministérielles.'
 une-ou-diaporama:
 - image: "/uploads/feuilles-route-data-une-article.png"
+style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
+  10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
+  normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
+  \ margin: 0 20px;\n  display: grid;\n  grid-gap: 10px;\n}\n\n.wrapper {\n  display:
+  flex;\n  flex-wrap: wrap;\n}\n\n.wrapper {\n  display: grid;\n  margin: 0 auto;\n
+  \ grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));\n  grid-auto-rows:
+  minmax(150px, auto);\n}\n\n.panel {\n  margin-left: 5px;\n  margin-right: 5px;\n
+  \ flex: 1 1 200px;\n}\n\n.wrapper > * {\n  padding: 10px;\n  font-size: 100%;\n
+  \ margin-bottom: 10px;\ntext-align: center;\nbackground-color: #f9f8f6;\n\tborder-bottom:
+  4px solid #000091;\n}\n\n\n.titre-document {\n  color: #095D9C;\n  font-weight:
+  bold;\n}"
 ---
 
 Le 27 avril 2021, le Premier ministre a renouvelé l’ambition du Gouvernement en matière d'exploitation, d'ouverture et de circulation des données, des algorithmes et des codes sources publics en adressant à tous les ministres et préfets de région une **[circulaire](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire - Lien externe") dédiée, sous l’impulsion de la ministre de la Transformation et de la Fonction publiques.**
@@ -191,8 +202,6 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
     <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
   </div>
   <div class="panel">
-    <figure class='image-center' style='width: 30%;'>
-      <img src="/uploads/Discussion_en_ligne.svg" /></figure>
     <div class="titre-document">Discussion en ligne</div>
     Feuille de route du ministère
     <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
@@ -213,8 +222,6 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
     <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
   </div>
   <div class="panel">
-    <figure class='image-center' style='width: 19%;'>
-      <img src="/uploads/Main_levee.svg" /></figure>
     <div class="titre-document">Main levée</div>
     Feuille de route du ministère
     <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
@@ -225,16 +232,13 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
     <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
   </div>
   <div class="panel">
-    <figure class='image-center' style='width: 30%; margin-top:28px'>
-      <img src="/uploads/Video.svg" />
-    </figure>
     <div class="titre-document">Vidéo</div>
     Feuille de route du ministère
     <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
   </div>
   <div class="panel">
     <div class="titre-document">Vidéo</div>
-    Feuille de route du ministère d
+    Feuille de route du ministère 
     <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
   </div>
   <div class="panel">
@@ -245,3 +249,4 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
 </div>
 <br>
 <br>
+
