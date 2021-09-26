@@ -61,7 +61,7 @@ style: |-
 <img src="/uploads/Video.svg"/>
 </figure><div class="titre-fonctionnalite">Vidéo</div>
 Organiser des séminaires, formations, conférences, ateliers… en vidéo
-</div>
+<a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a> </div>
 <div class="panel"><figure class='image-center' style='width: 18%;'>
 <img src="/uploads/Audio.svg"/></figure><div class="titre-fonctionnalite">Audio</div>
 Communiquer avec un son haute qualité.
