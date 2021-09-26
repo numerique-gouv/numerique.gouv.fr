@@ -173,75 +173,75 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
 <div class="wrapper">
   <div class="panel">
     Feuille de route du ministère de l’Agriculture et de l’Alimentation
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère des Armées
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route de la Cohésion des territoires et des Relations avec les collectivités territoriales
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de la Culture
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Économie, des Finances et de la Relance
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Éducation nationale, de la Jeunesse et des Sports
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Europe et des Affaires étrangères
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Intérieur
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de la Justice
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de la Mer
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère des Outre-mer
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère des Solidarités et de la Santé
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de la Transformation et de la Fonction publiques
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de la Transition écologique
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère du Travail, de l'Emploi et de l'Insertion
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route des services du Premier ministre
-    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
 </div>
 <br>
