@@ -15,42 +15,115 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 ---
 
 <div class="wrapper">
-<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
-<img src="/uploads/Video.svg"/>
-</figure><div class="titre-document">Vidéo</div>
-Organiser des séminaires, formations, conférences, ateliers… en vidéo
-<a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a> </div>
-<div class="panel"><figure class='image-center' style='width: 18%;'>
-<img src="/uploads/Audio.svg"/></figure><div class="titre-document">Audio</div>
-Communiquer avec un son haute qualité.
-<br>Rejoindre l’audio par téléphone si besoin</div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Presentation.svg"/></figure><div class="titre-document">Présentation</div>
-Diffuser vos présentations et les annoter en direct</div>
-<div class="panel"><figure class='image-center' style='width: 25%;'>
-<img src="/uploads/Enregistrement.svg"/></figure><div class="titre-document">Enregistrement</div>
-Enregistrer vos webinaires, et partager la rediffusion</div>
-<div class="panel"><figure class='image-center' style='width: 24%;'>
-<img src="/uploads/Upload_de_documents.svg"/></figure><div class="titre-document">Upload de documents</div>
-Téléverser vos supports de présentation et les proposer en téléchargement aux participants</div>
-<div class="panel"><figure class='image-center' style='width: 27%;'>
-<img src="/uploads/Partage_decran.svg"/></figure><div class="titre-document">Partage d’écran</div>
-Diffuser une fenêtre ou tout l’écran de votre ordinateur : site web, application…</div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-document">Discussion en ligne</div>
-Envoyer des messages en privé ou en discussion publique</div>
-<div class="panel"><figure class='image-center' style='width: 25%;'>
-<img src="/uploads/Notes_partagees.svg"/></figure><div class="titre-document">Notes partagées</div>
-Prendre des notes et éditer le contenu en groupe, en simultané</div>
-<div class="panel"><figure class='image-center' style='width: 27%;'>
-<img src="/uploads/Tableau_blanc_multi_utilisateurs.svg"/></figure><div class="titre-document">Tableau blanc multi-utilisateurs</div>
-Annoter ou dessiner sur une présentation ou un écran blanc, seul ou à plusieurs</div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Sondage.svg"/></figure><div class="titre-document">Sondage</div>Réaliser rapidement un sondage, soumettre un point au vote à tout moment</div>
-<div class="panel"><figure class='image-center' style='width: 19%;'>
-<img src="/uploads/Main_levee.svg"/></figure><div class="titre-fonctionnalite">Main levée</div>Lever la main pour intervenir, poser une question, sans interrompre l’animateur</div>
-<div class="panel"><figure class='image-center' style='width: 35%;'>
-<img src="/uploads/Diffusion_de_videos.svg"/></figure><div class="titre-fonctionnalite">Diffusion de vidéos</div>Diffuser une vidéo depuis n’importe quelle plateforme vidéo en ligne</div>
+  <div class="panel">
+    <figure class='image-center' style='width: 30%; margin-top:28px'>
+      <img src="/uploads/Video.svg" />
+    </figure>
+    <div class="titre-document">Vidéo</div>
+    Feuille de route du ministère de l'Agriculture
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 18%;'>
+      <img src="/uploads/Audio.svg" /></figure>
+    <div class="titre-document">Audio</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 30%;'>
+      <img src="/uploads/Presentation.svg" /></figure>
+    <div class="titre-document">Présentation</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 25%;'>
+      <img src="/uploads/Enregistrement.svg" /></figure>
+    <div class="titre-document">Enregistrement</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 24%;'>
+      <img src="/uploads/Upload_de_documents.svg" /></figure>
+    <div class="titre-document">Upload de documents</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 27%;'>
+      <img src="/uploads/Partage_decran.svg" /></figure>
+    <div class="titre-document">Partage d’écran</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 30%;'>
+      <img src="/uploads/Discussion_en_ligne.svg" /></figure>
+    <div class="titre-document">Discussion en ligne</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 25%;'>
+      <img src="/uploads/Notes_partagees.svg" /></figure>
+    <div class="titre-document">Notes partagées</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 27%;'>
+      <img src="/uploads/Tableau_blanc_multi_utilisateurs.svg" /></figure>
+    <div class="titre-document">Tableau blanc multi-utilisateurs</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 30%;'>
+      <img src="/uploads/Sondage.svg" /></figure>
+    <div class="titre-document">Sondage</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 19%;'>
+      <img src="/uploads/Main_levee.svg" /></figure>
+    <div class="titre-document">Main levée</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 35%;'>
+      <img src="/uploads/Diffusion_de_videos.svg" /></figure>
+    <div class="titre-document">Diffusion de vidéos</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 30%; margin-top:28px'>
+      <img src="/uploads/Video.svg" />
+    </figure>
+    <div class="titre-document">Vidéo</div>
+    Feuille de route du ministère
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 30%; margin-top:28px'>
+      <img src="/uploads/Video.svg" />
+    </figure>
+    <div class="titre-document">Vidéo</div>
+    Feuille de route du ministère d
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
+  <div class="panel">
+    <figure class='image-center' style='width: 30%; margin-top:28px'>
+      <img src="/uploads/Video.svg" />
+    </figure>
+    <div class="titre-document">Vidéo</div>
+    Feuille de route du ministère 
+    <a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a>
+  </div>
 </div>
 <br>
 <br>
