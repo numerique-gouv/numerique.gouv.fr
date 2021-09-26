@@ -168,7 +168,7 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
 <br>
 <br>
 
-<div align="center"><h2><b>Consulter les 15 feuilles de route ministérielles</b></h2></div>
+<div align="center"><h2><b>Les 15 feuilles de route ministérielles en matière de données, algorithmes et codes sources</b></h2></div>
 
 <div class="wrapper">
   <div class="panel">
