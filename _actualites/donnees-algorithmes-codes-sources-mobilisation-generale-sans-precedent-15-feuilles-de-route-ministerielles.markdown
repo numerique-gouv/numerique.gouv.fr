@@ -27,10 +27,10 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   flex;\n  flex-wrap: wrap;\n}\n\n.wrapper {\n  display: grid;\n  margin: 0 auto;\n
   \ grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));\n  grid-auto-rows:
   minmax(150px, auto);\n}\n\n.panel {\n  margin-left: 5px;\n  margin-right: 5px;\n
-  \ flex: 1 1 200px;\n}\n\n.wrapper > * {\n  padding: 10px;\n  font-size: 100%;\n
-  \ margin-bottom: 10px;\ntext-align: center;\nbackground-color: #f9f8f6;\n\tborder-bottom:
-  4px solid #000091;\n}\n\n\n.titre-document {\n  color: #095D9C;\n  font-weight:
-  bold;\n}"
+  \ flex: 1 1 200px;\ndisplay: inline-grid;\nalign-content: end;\n}\n\n.wrapper >
+  * {\n  padding: 10px;\n  font-size: 100%;\n  margin-bottom: 10px;\ntext-align: center;\nbackground-color:
+  #f9f8f6;\n\tborder-bottom: 4px solid #000091;\n}\n\n\n.titre-document {\n  color:
+  #095D9C;\n  font-weight: bold;\n}"
 ---
 
 Le 27 avril 2021, le Premier ministre a renouvelé l’ambition du Gouvernement en matière d'exploitation, d'ouverture et de circulation des données, des algorithmes et des codes sources publics en adressant à tous les ministres et préfets de région une **[circulaire](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire - Lien externe") dédiée, sous l’impulsion de la ministre de la Transformation et de la Fonction publiques.**
