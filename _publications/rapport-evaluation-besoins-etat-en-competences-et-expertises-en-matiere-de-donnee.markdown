@@ -20,7 +20,7 @@ style: |-
 layout: rgaa
 ---
 
-<div align="center"><a href="/uploads/RAPPORT-besoins-competences-donnee.pdf" class="button"><b>Télécharger</b></a></div>
+<div align="center"><a href="/uploads/RAPPORT-besoins-competences-donnee.pdf" class="button"><b>Télécharger le rapport (pdf, 1,2 Mo)</b></a></div>
 
 2021 s’est démarquée comme une année inégalée en matière de politique publique de la donnée : démonstration « grand public » de l’utilité de l’open data et du pilotage par la donnée à l’aune de la crise sanitaire, ambition gouvernementale renouvelée par [la circulaire du Premier ministre du 27 avril 2021](https://www.legifrance.gouv.fr/circulaire/id/45162), élaboration d’une feuille de route et mise en place d’ [Administrateurs des données](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees/) dans chaque ministère, multiplication [des projets d’amélioration des services publics par la donnée](https://www.numerique.gouv.fr/actualites/france-relance-laureats-volet-developper-utilisation-de-la-donnee/) dans toutes les administrations…
 
