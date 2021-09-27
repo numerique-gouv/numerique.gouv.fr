@@ -125,7 +125,7 @@ Afin de mener à bien ces différents projets d’ouverture, de partage et d’e
 
 Les feuilles de routes ministérielles traitent également des algorithmes publics, de leur ouverture et de la façon dont ils sont mis en œuvre.
 
-Alors que les administrations s’appuient de plus en plus sur des traitements algorithmiques pour prendre des décisions individuelles, plusieurs ministères s’engagent à nommer des **référents dédiés**. Plusieurs feuilles de route comportent la réalisation d\*\*’un inventaire\*\* des algorithmes utilisés par le ministère, tel que prévu par le code des relations entre le public et l’administration (CRPA).
+Alors que les administrations s’appuient de plus en plus sur des traitements algorithmiques pour prendre des décisions individuelles, plusieurs ministères s’engagent à nommer des **référents dédiés**. Plusieurs feuilles de route comportent la réalisation d’un **inventaire** des algorithmes utilisés par le ministère, tel que prévu par le code des relations entre le public et l’administration (CRPA).
 
 Le ministère de la Transformation et de la Fonction publiques prend de son côté des engagements en interministériel. Il charge notamment la DINUM, déjà mobilisée à leur côté sur le sujet, de poursuivre **l’accompagnement des ministères dans la mise en œuvre de ces actions en matière d’algorithmes,** notamment en leur fournissant des outils et une aide à la prise en main.
 
