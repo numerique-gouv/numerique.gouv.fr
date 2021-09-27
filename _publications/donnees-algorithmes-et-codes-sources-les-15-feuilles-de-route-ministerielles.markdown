@@ -21,6 +21,10 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 
 <div class="wrapper">
   <div class="panel">
+    Feuille de route du ministère de la Transformation et de la Fonction publiques, contenant des actions en interministériel
+    <div align="center"><a href="/uploads/feuillederoute_MTFP.pdf" class="button"><b>Télécharger</b></a></div>
+  </div>
+  <div class="panel">
     Feuille de route du ministère de l’Agriculture et de l’Alimentation
     <div align="center"><a href="/uploads/feuillederoute_maa.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
@@ -38,7 +42,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Économie, des Finances et de la Relance
-    <div align="center"><a href="/uploads/feuillederoute_mctrct.pdf" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_mefr.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Éducation nationale, de la Jeunesse et des Sports
@@ -67,10 +71,6 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   <div class="panel">
     Feuille de route du ministère des Solidarités et de la Santé
     <div align="center"><a href="/uploads/feuillederoute_mss.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    Feuille de route du ministère de la Transformation et de la Fonction publiques
-    <div align="center"><a href="/uploads/feuillederoute_MTFP.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère du Travail, de l'Emploi et de l'Insertion
