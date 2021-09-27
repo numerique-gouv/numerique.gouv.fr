@@ -125,13 +125,13 @@ Afin de mener à bien ces différents projets d’ouverture, de partage et d’e
 
 Les feuilles de routes ministérielles traitent également des algorithmes publics, de leur ouverture et de la façon dont ils sont mis en œuvre.
 
-Alors que les administrations s’appuient de plus en plus sur des traitements algorithmiques pour prendre des décisions individuelles, plusieurs ministères s’engagent à nommer des **référents dédiés**. Plusieurs feuilles de route comportent la réalisation d\*\*’un inventaire\*\* des algorithmes utilisés par le ministère, tel que prévu par le code des relations entre le public et l’administration (CRPA).
+Alors que les administrations s’appuient de plus en plus sur des traitements algorithmiques pour prendre des décisions individuelles, plusieurs ministères s’engagent à nommer des **référents dédiés**. Plusieurs feuilles de route comportent la réalisation d’un **inventaire** des algorithmes utilisés par le ministère, tel que prévu par le code des relations entre le public et l’administration (CRPA).
 
 Le ministère de la Transformation et de la Fonction publiques prend de son côté des engagements en interministériel. Il charge notamment la DINUM, déjà mobilisée à leur côté sur le sujet, de poursuivre **l’accompagnement des ministères dans la mise en œuvre de ces actions en matière d’algorithmes,** notamment en leur fournissant des outils et une aide à la prise en main.
 
 ## Développer le recours aux logiciels libres dans l’administration, l’ouverture et le partage des codes sources
 
-Comme le prévoyait la circulaire d’avril 2021, sous l'autorité du ministère de la Transformation et e la Fonction publiques, la DINUM animera les actions interministérielles en matière de logiciels libres et de communs numériques. La ministre présentera son plan en la matière sous peu.
+Comme le prévoyait la circulaire d’avril 2021, sous l'autorité du ministère de la Transformation et de la Fonction publiques, la DINUM animera les actions interministérielles en matière de logiciels libres et de communs numériques. La ministre présentera son plan en la matière sous peu.
 
 Des actions dédiées figurent également dans les feuilles de route de chaque ministère. À titre d’exemples, le ministère en charge de l’Éducation nationale s'engage à créer un **Open Source Program Office** qui aura pour rôle de mettre en œuvre l’ensemble des actions logiciels libres pour l’éducation ; de son côté, le ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation s’engage à ce que les choix logiciels des établissements sous sa tutelle tiennent compte du Socle interministériel de logiciels libres. Le ministère des Solidarités et de la Santé favorisera la contribution de ses agents au logiciel libre, et le ministère de la Transformation et de la Fonction publiques ouvrira le code source stratégique de FranceConnect.
 
