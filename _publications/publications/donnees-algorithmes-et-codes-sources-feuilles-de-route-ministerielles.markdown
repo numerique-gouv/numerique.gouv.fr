@@ -3,9 +3,7 @@ title: 'Données, algorithmes et codes sources : les 15 feuilles de route minist
 date: 2021-09-27 10:25:00 +02:00
 chapeau-text: |-
   À l'appel du Premier ministre, sous l'impulsion de la ministre de la Transformation et de la Fonction publiques, dans un cadre interministériel partagé, chaque ministère a défini sa stratégie en matière de données, d'algorithmes et de codes sources, et l'a déclinée en un plan d'actions concrètes sur 2 à 3 ans. Découvrez ces 15 feuilles de route ministérielles.
-  **[> Lire notre article](/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/)**
-une-ou-diaporama:
-- image: "/uploads/2021_09_26_1635x345_Bandeau-Publication_FEUILLE-DE-ROUTE-MTFP.png"
+  <br>**[> Lire notre article](/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/)**
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -17,9 +15,13 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   * {\n  padding: 10px;\n  font-size: 100%;\n  margin-bottom: 10px;\ntext-align: center;\nbackground-color:
   #f9f8f6;\n\tborder-bottom: 4px solid #000091;\n}\n\n\n.titre-document {\n  color:
   #095D9C;\n  font-weight: bold;\n}"
+une:
+  image: "/uploads/2021_09_26_1635x345_Bandeau-Publication_FEUILLE-DE-ROUTE-MTFP.png"
 layout: rgaa
 ---
 
+<br>
+<br>
 <div class="wrapper">
   <div class="panel">
     <b>Feuille de route du ministère de la Transformation et de la Fonction publiques,</b> contenant des actions en interministériel<br>(pdf, 1 Mo)
