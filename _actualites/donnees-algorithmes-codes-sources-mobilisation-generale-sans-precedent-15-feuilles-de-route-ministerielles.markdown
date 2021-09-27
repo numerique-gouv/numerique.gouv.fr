@@ -172,15 +172,19 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
 
 <div class="wrapper">
   <div class="panel">
-    Feuille de route du ministère de l’Agriculture et de l’Alimentation
+    Feuille de route du ministère de la Transformation et de la Fonction publiques, contenant des actions en interministériel
+    <div align="center"><a href="/uploads/feuillederoute_MTFP.pdf" class="button"><b>Télécharger</b></a></div>
+  </div>
+  <div class="panel">
+    <b>Feuille de route du ministère de l’Agriculture et de l’Alimentation</b><br>(pdf, 6 Mo)
     <div align="center"><a href="/uploads/feuillederoute_maa.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère des Armées
+    <b>Feuille de route du ministère des Armées</b><br>(pdf, 4 Mo)
     <div align="center"><a href="/uploads/feuillederoute_minarm.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route de la Cohésion des territoires et des Relations avec les collectivités territoriales
+    <b>Feuille de route de la Cohésion des territoires et des Relations avec les collectivités territoriales</b><br>(pdf, 5 Mo)
     <div align="center"><a href="/uploads/feuillederoute_mctrct.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
@@ -189,7 +193,7 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Économie, des Finances et de la Relance
-    <div align="center"><a href="/uploads/feuillederoute_mctrct.pdf" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_mefr.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Éducation nationale, de la Jeunesse et des Sports
@@ -198,10 +202,6 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
   <div class="panel">
     Feuille de route du ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation
     <div align="center"><a href="/uploads/feuillederoute_mesri.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    Feuille de route du ministère
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Europe et des Affaires étrangères
@@ -213,7 +213,7 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
   </div>
   <div class="panel">
     Feuille de route du ministère de la Justice
-    <div align="center"><a href=/uploads/feuillederoute_mi.pdf" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href=/uploads/feuillederoute_mj.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de la Transition écologique, du ministère de la Cohésion des territoires et des relations avec les collectivités territoriales, et du ministère de la Mer
@@ -222,10 +222,6 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
   <div class="panel">
     Feuille de route du ministère des Solidarités et de la Santé
     <div align="center"><a href="/uploads/feuillederoute_mss.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    Feuille de route du ministère de la Transformation et de la Fonction publiques
-    <div align="center"><a href="/uploads/feuillederoute_MTFP.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère du Travail, de l'Emploi et de l'Insertion
