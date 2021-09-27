@@ -1,7 +1,6 @@
 ---
-title: |-
-  Rapport : Évaluation des besoins de l’État en compétences et expertises
-  en matière de donnée
+title: 'Rapport : Évaluation des besoins de l’État en compétences et expertises en
+  matière de donnée'
 date: 2021-09-24 20:08:00 +02:00
 style: |-
   .button {
