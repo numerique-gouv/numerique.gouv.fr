@@ -14,6 +14,15 @@ publications:
   url: "/publications/rgaa-accessibilite/"
   une-ou-diaporama:
   - image: "/uploads/RGAA_Ouv-Publications.jpg"
+- title: 'Données, algorithmes et codes sources : les 15 feuilles de route ministérielles'
+  url: "/publications/donnees-algorithmes-et-codes-sources-feuilles-de-route-ministerielles/"
+  une-ou-diaporama:
+  - image: "/uploads/feuille-route-donnees-rub-publications.png"
+- title: 'Rapport : Évaluation des besoins de l’État en compétences et expertises
+    en matière de donnée'
+  url: "/publications/rapport-evaluation-besoins-etat-en-competences-et-expertises-en-matiere-de-donnee/"
+  une-ou-diaporama:
+  - image: "/uploads/2021_09_27_740x500_Publication_INSEE.png"
 - title: 'Projets informatiques de l''État : les avis conformes émis par la DINUM'
   url: "/publications/avis-conformes"
   une-ou-diaporama:
