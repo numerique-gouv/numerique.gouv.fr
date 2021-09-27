@@ -33,6 +33,8 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   #095D9C;\n  font-weight: bold;\n}"
 ---
 
+<a class="lien-encadre" href="#feuilles-de-route">Accéder aux 15 feuilles de route</a>
+
 Le 27 avril 2021, le Premier ministre a renouvelé l’ambition du Gouvernement en matière d'exploitation, d'ouverture et de circulation des données, des algorithmes et des codes sources publics en adressant à tous les ministres et préfets de région une **[circulaire](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire - Lien externe") dédiée, sous l’impulsion de la ministre de la Transformation et de la Fonction publiques.**
 
 **Lire notre article :** [Politique de la donnée, des algorithmes et des codes sources : une circulaire du Premier ministre renouvelle l’ambition française](https://www.numerique.gouv.fr/actualites/politique-donnee-algorithmes-et-codes-sources-une-circulaire-du-premier-ministre-renouvelle-ambition-francaise/)
@@ -168,7 +170,7 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
 <br>
 <br>
 
-<div align="center"><h2><b>Les 15 feuilles de route ministérielles en matière de données, algorithmes et codes sources</b></h2></div>
+<div align="center"><h2 id="feuilles-de-route"><b>Les 15 feuilles de route ministérielles en matière de données, algorithmes et codes sources</b></h2></div>
 
 <div class="wrapper">
   <div class="panel">
