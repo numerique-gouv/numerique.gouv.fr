@@ -88,4 +88,5 @@ layout: rgaa
 <br>
 
 <br>
-<div class="lien-important"><p><b><a href="/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/">Lire notre article</a></b></p></div>
+**Lire notre article :**
+* [Données, algorithmes et codes sources : une mobilisation générale sans précédent, à travers 15 feuilles de route ministérielles](/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/)
