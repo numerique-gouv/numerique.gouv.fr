@@ -17,6 +17,7 @@ style: |-
   margin: 4px 2px;
   cursor: pointer;
   }
+layout: rgaa
 ---
 
 <div align="center"><a href="/uploads/RAPPORT-besoins-competences-donnee.pdf" class="button"><b>Télécharger</b></a></div>
