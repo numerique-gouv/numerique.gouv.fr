@@ -213,10 +213,10 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
   </div>
   <div class="panel">
     <b>Feuille de route du ministère de la Justice</b><br>(pdf, 4 Mo)
-    <div align="center"><a href=/uploads/feuillederoute_mj.pdf" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_mj.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    <b>Feuille de route du ministère de la Transition écologique, du ministère de la Cohésion des territoires et des relations avec les collectivités territoriales, et du ministère de la Mer</b><br>(pdf, 1 Mo)
+    <b>Feuille de route des ministères de la Transition écologique,  de la Cohésion des territoires et de la Mer</b><br>(pdf, 1 Mo)
     <div align="center"><a href="/uploads/feuillederoute_mte_mer.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
