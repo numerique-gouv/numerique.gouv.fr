@@ -189,7 +189,7 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Économie, des Finances et de la Relance
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_mctrct.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Éducation nationale, de la Jeunesse et des Sports
