@@ -173,19 +173,19 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
 <div class="wrapper">
   <div class="panel">
     Feuille de route du ministère de l’Agriculture et de l’Alimentation
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_maa.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère des Armées
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_minarm.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route de la Cohésion des territoires et des Relations avec les collectivités territoriales
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_mctrct.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de la Culture
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_mc.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Économie, des Finances et de la Relance
@@ -193,11 +193,11 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Éducation nationale, de la Jeunesse et des Sports
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_menjs.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_mesri.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère
@@ -205,43 +205,35 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Europe et des Affaires étrangères
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_meae.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de l'Intérieur
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_mi.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de la Justice
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href=/uploads/feuillederoute_mi.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère de la Mer
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    Feuille de route du ministère des Outre-mer
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    Feuille de route du ministère de la Transition écologique, du ministère de la Cohésion des territoires et des relations avec les collectivités territoriales, et du ministère de la Mer
+    <div align="center"><a href="/uploads/feuillederoute_mte_mer.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère des Solidarités et de la Santé
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_mss.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de la Transformation et de la Fonction publiques
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    Feuille de route du ministère de la Transition écologique
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_MTFP.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère du Travail, de l'Emploi et de l'Insertion
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_MTEI.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route des services du Premier ministre
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href="/uploads/feuillederoute_spm.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
 </div>
 <br>
