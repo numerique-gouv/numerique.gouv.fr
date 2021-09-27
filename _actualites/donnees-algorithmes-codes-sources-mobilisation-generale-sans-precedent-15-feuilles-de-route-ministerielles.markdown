@@ -224,7 +224,7 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
     <div align="center"><a href="/uploads/feuillederoute_mss.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-   <b>Feuille de route du ministère du Travail, de l'Emploi et de l'Insertion</b>
+   <b>Feuille de route du ministère du Travail, de l'Emploi et de l'Insertion</b><br>(pdf, 2 Mo)
     <div align="center"><a href="/uploads/feuillederoute_MTEI.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
