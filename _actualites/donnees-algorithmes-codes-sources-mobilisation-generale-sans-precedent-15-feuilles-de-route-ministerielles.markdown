@@ -131,7 +131,7 @@ Le ministère de la Transformation et de la Fonction publiques prend de son côt
 
 ## Développer le recours aux logiciels libres dans l’administration, l’ouverture et le partage des codes sources
 
-Comme le prévoyait la circulaire d’avril 2021, le MTFP animera les actions interministérielles en matière de logiciels libres et de communs numériques. La ministre de la transformation et de la fonction publiques présentera son plan en la matière sous peu.
+Comme le prévoyait la circulaire d’avril 2021, sous l'autorité du ministère de la Transformation et e la Fonction publiques, la DINUM animera les actions interministérielles en matière de logiciels libres et de communs numériques. La ministre présentera son plan en la matière sous peu.
 
 Des actions dédiées figurent également dans les feuilles de route de chaque ministère. À titre d’exemples, le ministère en charge de l’Éducation nationale s'engage à créer un **Open Source Program Office **qui aura pour rôle de mettre en œuvre l’ensemble des actions logiciels libres pour l’éducation ; de son côté, le ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation s’engage à ce que les choix logiciels des établissements sous sa tutelle tiennent compte du Socle interministériel de logiciels libres. Le ministère des Solidarités et de la Santé favorisera la contribution de ses agents au logiciel libre, et le ministère de la Transformation et de la Fonction publiques ouvrira le code source stratégique de FranceConnect.
 
