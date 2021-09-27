@@ -10,6 +10,8 @@ chapeau-text: |-
   Dans ce contexte de place croissante de la donnée dans les stratégies, organisations et recrutements publics, il est apparu indispensable de disposer d’une évaluation qualitative et quantitative des besoins de compétences et d’expertise en la matière, ainsi que des réponses à y apporter à court et moyen terme.
 
   À la demande du directeur interministériel du numérique (DINUM) et du directeur général de l’Institut de la statistique et des études économiques (INSEE), une mission a été conduite entre février et juin 2021 par une équipe conjointe réunissant des représentants des deux administrations, et leur rapport est aujourd’hui rendu public.
+une-ou-diaporama:
+- image: "/uploads/2021_09_27_800x430_ACTUS_INSEE.png"
 redirection-interne: "/publications/rapport-evaluation-besoins-etat-en-competences-et-expertises-en-matiere-de-donnee/"
 ---
 
