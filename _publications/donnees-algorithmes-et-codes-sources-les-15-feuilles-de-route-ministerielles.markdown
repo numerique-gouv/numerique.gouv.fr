@@ -49,10 +49,6 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
     <div align="center"><a href="/uploads/feuillederoute_mesri.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère
-    <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
     Feuille de route du ministère de l'Europe et des Affaires étrangères
     <div align="center"><a href="/uploads/feuillederoute_meae.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
@@ -62,7 +58,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   </div>
   <div class="panel">
     Feuille de route du ministère de la Justice
-    <div align="center"><a href=/uploads/feuillederoute_mi.pdf" class="button"><b>Télécharger</b></a></div>
+    <div align="center"><a href=/uploads/feuillederoute_mj.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
     Feuille de route du ministère de la Transition écologique, du ministère de la Cohésion des territoires et des relations avec les collectivités territoriales, et du ministère de la Mer
