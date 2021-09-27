@@ -172,7 +172,7 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
 
 <div class="wrapper">
   <div class="panel">
-    Feuille de route du ministère de la Transformation et de la Fonction publiques, contenant des actions en interministériel
+    <b>Feuille de route du ministère de la Transformation et de la Fonction publiques,</b> contenant des actions en interministériel<br>(pdf, 1 Mo)
     <div align="center"><a href="/uploads/feuillederoute_MTFP.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
@@ -188,47 +188,47 @@ Les ministères peuvent d’ores et déjà s’appuyer sur les différents dispo
     <div align="center"><a href="/uploads/feuillederoute_mctrct.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère de la Culture
+    <b>Feuille de route du ministère de la Culture</b><br>(pdf, 640 ko)
     <div align="center"><a href="/uploads/feuillederoute_mc.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère de l'Économie, des Finances et de la Relance
+    <b>Feuille de route du ministère de l'Économie, des Finances et de la Relance</b><br>(pdf, 640 ko)
     <div align="center"><a href="/uploads/feuillederoute_mefr.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère de l'Éducation nationale, de la Jeunesse et des Sports
+    <b>Feuille de route du ministère de l'Éducation nationale, de la Jeunesse et des Sports</b><br>(pdf, 1,5 Mo)
     <div align="center"><a href="/uploads/feuillederoute_menjs.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation
+   <b>Feuille de route du ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation</b><br>(pdf, 825 ko)
     <div align="center"><a href="/uploads/feuillederoute_mesri.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère de l'Europe et des Affaires étrangères
+    <b>Feuille de route du ministère de l'Europe et des Affaires étrangères</b><br>(pdf, 8 Mo)
     <div align="center"><a href="/uploads/feuillederoute_meae.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère de l'Intérieur
+    <b>Feuille de route du ministère de l'Intérieur</b><br>(pdf, 620 ko)
     <div align="center"><a href="/uploads/feuillederoute_mi.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère de la Justice
+    <b>Feuille de route du ministère de la Justice</b><br>(pdf, 4 Mo)
     <div align="center"><a href=/uploads/feuillederoute_mj.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère de la Transition écologique, du ministère de la Cohésion des territoires et des relations avec les collectivités territoriales, et du ministère de la Mer
+    <b>Feuille de route du ministère de la Transition écologique, du ministère de la Cohésion des territoires et des relations avec les collectivités territoriales, et du ministère de la Mer</b><br>(pdf, 1 Mo)
     <div align="center"><a href="/uploads/feuillederoute_mte_mer.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère des Solidarités et de la Santé
+    <b>Feuille de route du ministère des Solidarités et de la Santé</b><br>(pdf, 1 Mo)
     <div align="center"><a href="/uploads/feuillederoute_mss.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route du ministère du Travail, de l'Emploi et de l'Insertion
+   <b>Feuille de route du ministère du Travail, de l'Emploi et de l'Insertion</b>
     <div align="center"><a href="/uploads/feuillederoute_MTEI.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route des services du Premier ministre
+    <b>Feuille de route des services du Premier ministre</b><br>(pdf, 1 Mo)
     <div align="center"><a href="/uploads/feuillederoute_spm.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
 </div>
