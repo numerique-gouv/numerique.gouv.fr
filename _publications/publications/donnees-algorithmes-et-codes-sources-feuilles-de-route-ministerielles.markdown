@@ -88,4 +88,4 @@ layout: rgaa
 <br>
 
 <br>
-<div class="lien-important"><p><b><a href="/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/"  title="Lire la suite">Lire la suite</a></b></p></div>
+<div class="lien-important"><p><b><a href="/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/">Lire la suite</a></b></p></div>
