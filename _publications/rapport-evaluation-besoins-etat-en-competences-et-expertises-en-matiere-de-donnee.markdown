@@ -3,7 +3,7 @@ title: 'Rapport : Évaluation des besoins de l’État en compétences et expert
   matière de donnée'
 date: 2021-09-24 20:08:00 +02:00
 une-ou-diaporama:
-- image: "/uploads/2021_09_27_1635x345_Bandeau-Publication_INSEE.png"
+- image: "/uploads/Bandeau-Publication_rapport-INSEE-dinum.png"
 style: |-
   .button {
   background-color: #0d5c98;
