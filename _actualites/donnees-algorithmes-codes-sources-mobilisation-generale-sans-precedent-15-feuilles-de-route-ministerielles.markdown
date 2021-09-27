@@ -1,7 +1,7 @@
 ---
 title: 'Données, algorithmes et codes sources : une mobilisation générale sans précédent,
   à travers 15 feuilles de route ministérielles'
-date: 2021-09-22 18:30:00 +02:00
+date: 2021-09-27 06:30:00 +02:00
 categories:
 - Article
 tags:
