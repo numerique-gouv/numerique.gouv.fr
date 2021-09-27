@@ -148,7 +148,7 @@ Plusieurs actions portent également sur les enjeux de **recrutement et de fidé
 
 Ces enjeux étant partagés par l’ensemble des ministères, un **appui interministériel renforcé sera élaboré par la DINUM et la DGAFP autour de ces questions**.
 
-Sur ce volet, la feuille de route du ministère de la Transformation et de la Fonction publiques s’est nourri des conclusions et recommandations du **[rapport Évaluation des besoins de l’État en compétences et expertises en matière de donnée](numerique.gouv.fr/publications/rapport-evaluation-besoins-etat-en-competences-et-expertises-en-matiere-de-donnee/)**. Coréalisé par l’INSEE et la DINUM, ce rapport est le fruit d’une mission conduite de février à juin 2021, couplant 80 auditions et une enquête auprès des administrations de l’État.
+Sur ce volet, la feuille de route du ministère de la Transformation et de la Fonction publiques s’est nourri des conclusions et recommandations du **[rapport Évaluation des besoins de l’État en compétences et expertises en matière de donnée](https://numerique.gouv.fr/publications/rapport-evaluation-besoins-etat-en-competences-et-expertises-en-matiere-de-donnee/)**. Coréalisé par l’INSEE et la DINUM, ce rapport est le fruit d’une mission conduite de février à juin 2021, couplant 80 auditions et une enquête auprès des administrations de l’État.
 
 ## Une dynamique d’amélioration continue
 
