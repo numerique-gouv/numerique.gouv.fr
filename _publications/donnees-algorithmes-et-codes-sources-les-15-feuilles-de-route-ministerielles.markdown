@@ -26,7 +26,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
     <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
-    Feuille de route de la Cohésion des territoires et des Relations avec les collectivités territoriales
+    Feuille de route du ministère de la Cohésion des territoires et des Relations avec les collectivités territoriales
     <div align="center"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
