@@ -17,6 +17,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   * {\n  padding: 10px;\n  font-size: 100%;\n  margin-bottom: 10px;\ntext-align: center;\nbackground-color:
   #f9f8f6;\n\tborder-bottom: 4px solid #000091;\n}\n\n\n.titre-document {\n  color:
   #095D9C;\n  font-weight: bold;\n}"
+layout: rgaa
 ---
 
 <div class="wrapper">
