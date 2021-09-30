@@ -15,9 +15,8 @@ chapeau-text: 'À la demande du Premier ministre, une mobilisation sans précéd
   codes sources : de concert, dans un cadre interministériel partagé, avec l’appui
   de la DINUM, chacun a défini sa stratégie en la matière et l''a déclinée en un plan
   d''actions concrètes sur un calendrier ambitieux de 2 à 3 ans. La ministre de la
-  Transformation et de la Fonction publiques a dévoilées ces 15 feuilles de route
-  ministérielles le lundi 27 septembre 2021. Découvrez-en les grands axes et actions
-  majeures.'
+  Transformation et de la Fonction publiques a dévoilé ces 15 feuilles de route ministérielles
+  le lundi 27 septembre 2021. Découvrez-en les grands axes et actions majeures.'
 une-ou-diaporama:
 - image: "/uploads/feuilles-route-data-une-article.png"
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
