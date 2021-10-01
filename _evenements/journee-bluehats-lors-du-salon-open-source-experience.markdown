@@ -54,7 +54,7 @@ Chaque présentation doit tenir dans un format court de 7 à 15 minutes.
 
 Proposez vos sujets de présentations courtes à l'adresse [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr). Décrivez-le en quelques lignes et précisez votre administration de rattachement, le sujet abordé et le public ciblé.
 
-<div align="center"  style="margin-bottom: 20px" class="button"><a href="mailto:logiciels-libres@data.gouv.fr"><b>Proposer une intervention</b><br>(ouvre un courriel)</a></div>
+<div align="center"  style="margin-bottom: 20px"><a href="mailto:logiciels-libres@data.gouv.fr" class="button"><b>Proposer une intervention</b><br>(ouvre un courriel)</a></div>
 
 <h2 class="h3">Vous souhaitez assister aux présentations ?</h2>
 
