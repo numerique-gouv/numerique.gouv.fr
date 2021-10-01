@@ -5,6 +5,15 @@ chapeau-text: La communauté BlueHats vous donne rendez-vous le 9 novembre 2021 
   salon Open Source Experience, à Paris, pour une journée dédiée au partage d'expérience
   autour des logiciels libres dans l'administration publique.
 event_start_date: 2021-11-09 00:00:00 +01:00
+lieu: Palais des congrès - Paris
+adresse: Palais des congrès, 2 place de la porte Maillot, 75017 Paris
+champs_informations:
+- intitule: Proposer une intervention
+  contenu: Par courriel
+  lien: mailto:logiciels-libres@data.gouv.fr
+- intitule: S'inscrire
+  contenu: à l'Open Source Experience
+  lien: https://www.opensource-experience.com/
 style: |-
   .button {
   background-color: #0d5c98;
@@ -46,6 +55,11 @@ Proposez vos sujets de présentations courtes à l'adresse [logiciels-libres@dat
 
 Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
 
+
+## Programme
+Le programme est en cours de construction grâce à vos contributions. 
+Nous publions le programme au fil de l'eau :
+<div class="lien-important"><p><a href="https://github.com/blue-hats/journee-bluehats-osx-2021/"  title="Consulter le programme">Consulter le programme</a></p></div>
 
 <div class="noir encadre"><h3>La communauté Blue hats</h3>
 <p>Les Blue hats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="gazette - Lien externe">gazette</a>.</p>
