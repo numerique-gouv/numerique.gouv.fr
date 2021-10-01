@@ -1,10 +1,23 @@
 ---
-title: Journée BlueHats lors du salon Open Source Experience
+title: 'Journée BlueHats lors du salon Open Source Experience : contribuez !'
 date: 2021-10-01 10:44:00 +02:00
 chapeau-text: La communauté BlueHats vous donne rendez-vous le 9 novembre 2021 au
   salon Open Source Experience, à Paris, pour une journée dédiée au partage d'expérience
   autour des logiciels libres dans l'administration publique.
 event_start_date: 2021-11-09 00:00:00 +01:00
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
 
 Suite au succès des journées BlueHats organisées lors des salons *Paris Open Source Summit* 2018 et 2019, la direction interministérielle du numérique (DINUM) vous invite à une journée de partage d'expérience autour des logiciels libres dans l'administration publique dans le cadre de l’Open Source Experience !
@@ -27,7 +40,7 @@ Proposez vos sujets de présentations courtes à l'adresse [logiciels-libres@dat
 
 <div align="center"  style="margin-bottom: 20px"><a href="mailto:logiciels-libres@data.gouv.fr"><b>Proposer une intervention</b><br>(ouvre un courriel)</a></div>
 
-## **Vous souhaitez assister aux présentations ?**
+## Vous souhaitez assister aux présentations ?
 
 [Inscrivez-vous gratuitement au salon Open Source Experience](https://www.opensource-experience.com/ "Inscrivez-vous gratuitement au salon Open Source Experience - Lien externe") et retrouvez-nous le 9 novembre en salle 223M… ou en suivant les chapeaux bleus.
 
@@ -35,13 +48,11 @@ Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr](mailto:logi
 
 
 <div class="noir encadre"><h3>La communauté Blue hats</h3>
-<p>Les Blue hats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une [gazette](https://disic.github.io/gazette-bluehats/ "gazette - Lien externe").</p>
-
-<p>Pour recevoir l’actualité de la communauté et être informé des prochaines actions :
-<ul><li><a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="Inscrivez-vous à la gazette Bluehats ! - Lien externe">Inscrivez-vous à la gazette BlueHats</a></li></ul>
-<br>
-<br>Pour discuter sur le thème du logiciel libre dans l’administration :
-<ul><li><a href="https://www.tchap.gouv.fr/#/room/%23BlueHats21LW8XE:agent.dinum.tchap.gouv.fr" alt="Retrouvez les BlueHats dans le salon dédié sur Tchap - Lien externe">Retrouvez les BlueHats dans le salon dédié sur Tchap,</a> la messagerie instantanée de l’État (réservé aux agents publics ou sur invitation)</p></li></ul></div>
+<p>Les Blue hats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="gazette - Lien externe">gazette</a>.</p>
+<br><p>Pour recevoir l’actualité de la communauté et être informé des prochaines actions :
+</p><ul><li><a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="Inscrivez-vous à la gazette Bluehats ! - Lien externe">Inscrivez-vous à la gazette BlueHats</a></li></ul><p></p>
+<p>Pour discuter sur le thème du logiciel libre dans l’administration :
+</p><ul><li><a href="https://www.tchap.gouv.fr/#/room/%23BlueHats21LW8XE:agent.dinum.tchap.gouv.fr" alt="Retrouvez les BlueHats dans le salon dédié sur Tchap - Lien externe">Retrouvez les BlueHats dans le salon dédié sur Tchap,</a> la messagerie instantanée de l’État (réservé aux agents publics ou sur invitation)<p></p></li></ul></div>
 
 **À lire aussi :**
 * [Retour sur la journée BlueHats de 2019](https://www.numerique.gouv.fr/agenda/journee-bluehats-dinum-paris-open-source-summit-2019/)
