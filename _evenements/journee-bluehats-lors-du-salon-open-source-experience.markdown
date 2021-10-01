@@ -16,7 +16,7 @@ champs_informations:
   contenu: Par courriel
   lien: mailto:logiciels-libres@data.gouv.fr
 - intitule: S'inscrire
-  contenu: à l'Open Source Experience
+  contenu: à l'Open Source Experience (gratuit)
   lien: https://www.opensource-experience.com/
 - intitule: Consulter
   contenu: " le programme"
@@ -62,6 +62,7 @@ Proposez vos sujets de présentations courtes à l'adresse [logiciels-libres@dat
 
 Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
 
+<div class="lien-important"><p><a href="https://www.opensource-experience.com/"  title="S'inscrire">S'inscrire</a></p></div>
 
 ## Programme
 Le programme est en cours de construction grâce à vos contributions. 
