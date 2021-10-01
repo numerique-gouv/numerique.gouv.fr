@@ -1,9 +1,13 @@
 ---
 title: 'Journée BlueHats lors du salon Open Source Experience : contribuez !'
 date: 2021-10-01 10:44:00 +02:00
+categories:
+- Salon
 chapeau-text: La communauté BlueHats vous donne rendez-vous le 9 novembre 2021 au
   salon Open Source Experience, à Paris, pour une journée dédiée au partage d'expérience
   autour des logiciels libres dans l'administration publique.
+une-ou-diaporama:
+- image: "/uploads/2021_10_01_Opensource-Experience_BlueHats_AGENDA.png"
 event_start_date: 2021-11-09 00:00:00 +01:00
 lieu: Palais des congrès - Paris
 adresse: Palais des congrès, 2 place de la porte Maillot, 75017 Paris
@@ -38,7 +42,7 @@ Vous êtes toutes et tous les bienvenus : agents publics, citoyens, associations
 
 Cette journée est l'occasion de découvrir les avancées du logiciel libre dans l'administration, notamment suite au bond de numérisation suscité par la crise sanitaire. Au programme, des retours d'expérience sous forme de présentations courtes (*lightning talks*) autour de logiciels libres développés et/ou utilisés dans la sphère publique.
 
-## Vous êtes un agent public et vous souhaitez intervenir ?
+<h2 class="h3">Vous êtes un agent public et vous souhaitez intervenir ?</h2>
 
 Agents publics, le programme de cette journée BlueHats se construit avec vous.
 
@@ -50,9 +54,9 @@ Chaque présentation doit tenir dans un format court de 7 à 15 minutes.
 
 Proposez vos sujets de présentations courtes à l'adresse [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr). Décrivez-le en quelques lignes et précisez votre administration de rattachement, le sujet abordé et le public ciblé.
 
-<div align="center"  style="margin-bottom: 20px"><a href="mailto:logiciels-libres@data.gouv.fr"><b>Proposer une intervention</b><br>(ouvre un courriel)</a></div>
+<div align="center"  style="margin-bottom: 20px" class="button"><a href="mailto:logiciels-libres@data.gouv.fr"><b>Proposer une intervention</b><br>(ouvre un courriel)</a></div>
 
-## Vous souhaitez assister aux présentations ?
+<h2 class="h3">Vous souhaitez assister aux présentations ?</h2>
 
 [Inscrivez-vous gratuitement au salon Open Source Experience](https://www.opensource-experience.com/ "Inscrivez-vous gratuitement au salon Open Source Experience - Lien externe") et retrouvez-nous le 9 novembre en salle 223M… ou en suivant les chapeaux bleus.
 
