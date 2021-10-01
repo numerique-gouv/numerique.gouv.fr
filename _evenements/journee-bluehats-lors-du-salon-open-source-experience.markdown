@@ -14,6 +14,9 @@ champs_informations:
 - intitule: S'inscrire
   contenu: à l'Open Source Experience
   lien: https://www.opensource-experience.com/
+- intitule: Consulter
+  contenu: " le programme"
+  lien: https://github.com/blue-hats/journee-bluehats-osx-2021/
 style: |-
   .button {
   background-color: #0d5c98;
