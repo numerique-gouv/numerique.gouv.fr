@@ -21,7 +21,7 @@ lieu: Le Lieu de la transformation publique et en ligne
 adresse: 77 Av. de Ségur, 75015 Paris
 champs_informations:
 - intitule: Horaires
-  contenu: 16h à 17h30
+  contenu: 16h30 à 18h
 - intitule: Modalités
   contenu: Inscription obligatoire avec une adresse professionnelle issue de la fonction
     publique
