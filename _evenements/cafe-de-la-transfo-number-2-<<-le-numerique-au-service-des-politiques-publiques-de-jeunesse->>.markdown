@@ -1,6 +1,5 @@
 ---
-title: 'Café de la Transfo #2 - «  Le numérique au service des politiques publiques
-  de jeunesse  »'
+title: 'Café Transfo #2 - Le numérique au service des politiques publiques de jeunesse'
 date: 2021-08-26 13:11:00 +02:00
 categories:
 - Rencontre
