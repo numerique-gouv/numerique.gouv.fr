@@ -33,7 +33,6 @@ Si FranceConnect se taille une place de choix dans les habitudes numériques des
 Une enquête Ifop réalisée en avril 2021 auprès de 1000 personnes a montré que 83% des utilisateurs sont convaincus par la facilité d’utilisation du service.
 
 FranceConnect est également reconnu comme un vecteur de réassurance pour les usagers, qui sont 65% à lui faire confiance selon [le baromètre 2021 de l’Acsel](https://www.acsel.eu/barometre-de-la-confiance-des-francais-dans-le-numerique-crise-sanitaire-quel-impact-sur-la-confiance-numerique-les-resultats/ "le baromètre 2021 de l’Acsel - Lien externe").
-<a href="https://www.acsel.eu/barometre-de-la-confiance-des-francais-dans-le-numerique-crise-sanitaire-quel-impact-sur-la-confiance-numerique-les-resultats/" alt="le baromètre 2021 de l’Acsel - Lien externe">le baromètre 2021 de l’Acsel</a>
 
 ## 1000 services FranceConnectés, publics et privés
 
