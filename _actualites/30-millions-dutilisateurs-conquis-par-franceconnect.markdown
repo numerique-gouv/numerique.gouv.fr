@@ -1,10 +1,17 @@
 ---
 title: 30 millions d’utilisateurs conquis par FranceConnect !
 date: 2021-10-07 11:52:00 +02:00
+categories:
+- Article
+tags:
+- FranceConnect
+- Identité numérique
 chapeau-text: 'FranceConnect facilite désormais l’accès aux démarches en ligne de
   plus de 30 millions de Français. Services numériques de l’État, de collectivités
   ou du secteur privé : le fédérateur d’identités mis en place par l’État est la clé
   d’entrée vers plus de 1000 démarches du quotidien, et poursuit son accélération.'
+une-ou-diaporama:
+- image: "/uploads/France-Connect-30M_Actu-Une.png"
 ---
 
 FranceConnect est le service d’identification en ligne proposé par l’État, créé et opéré par la direction interministérielle du numérique (DINUM), sous l’autorité de la ministre de la Transformation et de la Fonction publiques.
@@ -34,7 +41,7 @@ Le nombre de services en ligne FranceConnectés continue lui aussi de progresser
 
 Le 30 septembre 2021, le courtier en assurances Cbp [s’est d’ailleurs vu décerner le Trophée d’Or de la relation clients](https://www.cbp.fr/blog/actualites/cbp-laureat-des-trophees-de-lassurance-2021/ "s’est d’ailleurs vu décerner le Trophée d’Or de la relation clients - Lien externe") dans le cadre des [Trophées de l’assurance 2021](https://lestropheesassurance.com "Trophées de l’assurance 2021 - Lien externe"), pour avoir mis en place FranceConnect en partenariat avec la DINUM et l’Assurance maladie : le service garantit l’identité de l’assuré et facilite le recueil de données auprès d’Ameli, optimisant ainsi le parcours client.
 
-<div class="encadre noir"><h3>Administration ou entreprise, vous proposez une démarche en ligne ? Intégrez gratuitement FranceConnect !</h3><a href="https://franceconnect.gouv.fr/partenaires" alt="En savoir plus - Lien externe">> En savoir plus</a></div>
+<div class="encadre noir"><h3 class="h4">Administration ou entreprise, vous proposez une démarche en ligne ? Intégrez gratuitement FranceConnect !</h3><p><a href="https://franceconnect.gouv.fr/partenaires" alt="En savoir plus - Lien externe">> En savoir plus</a></p></div>
 
 ## FranceConnect+, pour des usages encore plus sécurisés
 
