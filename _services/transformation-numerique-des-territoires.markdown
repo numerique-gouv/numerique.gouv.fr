@@ -1,6 +1,8 @@
 ---
 title: Transformation numérique des territoires
 date: 2021-10-07 16:14:00 +02:00
+permalink: "/services/transformation-numerique-des-territoires/"
+published: false
 chapeau-text: 'Lancé en mai 2021 par la ministre de la Transformation et de la Fonction
   publiques et la ministre de la Cohésion des territoires et des Relations avec les
   collectivités territoriales, le programme Transformation numérique des territoires
@@ -8,6 +10,23 @@ chapeau-text: 'Lancé en mai 2021 par la ministre de la Transformation et de la 
   d’administration numérique. Il prend la suite du programme DCANT (développement
   concerté de l’administration numérique territoriale) pour une durée de 3 ans, jusqu''en
   2024. '
+une:
+  image: "/uploads/2020_12_14_Bandeau_Page-fille_DCANT_1480x1000.jpg"
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+layout: rgaa
 ---
 
 Le programme Transformation numérique des territoires permet de passer d’une logique de partage des bonnes pratiques à une logique d’ambitions communes et de résultats, d’usages pensés avec les parties prenantes et d’investissements collectifs pour
