@@ -45,7 +45,7 @@ Le 30 septembre 2021, le courtier en assurances Cbp [s’est d’ailleurs vu dé
 
 ## FranceConnect+, pour des usages encore plus sécurisés
 
-De nouveaux usages de FranceConnect peuvent également se développer. Grâce à [une qualification obtenue auprès de l’ANSSI](https://www.ssi.gouv.fr/uploads/liste-produits-et-services-qualifies.pdf "une qualification obtenue auprès de l’ANSSI - Lien externe") début 2021, FranceConnect est désormais habilité à intégrer des identités de niveau substantiel ou élevé au sens du règlement européen eIDAS, c’est-à-dire des identités encore plus sécurisées, pour des démarches plus sensibles.
+De nouveaux usages de FranceConnect peuvent également se développer. Grâce à [une qualification obtenue auprès de l’ANSSI](https://www.ssi.gouv.fr/uploads/liste-produits-et-services-qualifies.pdf "une qualification obtenue auprès de l’ANSSI - Lien externe") début 2021, FranceConnect est désormais habilité à intégrer des identités de niveau substantiel ou élevé au sens du règlement européen eIDAS, c’est-à-dire **des identités encore plus sécurisées, pour des démarches plus sensibles.**
 
 « Avec **FranceConnect+,** l’idée est de pouvoir intégrer des services en ligne qui éviteront au citoyen d’avoir à se déplacer pour effectuer une démarche, pour prouver son identité, explique Christine Balian. Il permet aussi de donner accès à des services qui traitent des données sensibles, de santé par exemple. »
 
