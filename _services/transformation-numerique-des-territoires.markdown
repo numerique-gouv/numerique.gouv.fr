@@ -2,7 +2,6 @@
 title: Transformation numérique des territoires
 date: 2021-10-07 16:14:00 +02:00
 permalink: "/services/transformation-numerique-des-territoires/"
-published: false
 chapeau-text: 'Lancé en mai 2021 par la ministre de la Transformation et de la Fonction
   publiques et la ministre de la Cohésion des territoires et des Relations avec les
   collectivités territoriales, le programme Transformation numérique des territoires
