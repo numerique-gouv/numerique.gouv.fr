@@ -24,7 +24,7 @@ Le nombre de connexions mensuelles moyen a quasiment doublé en un an : de 10 mi
 
 Et c’est là la deuxième bonne nouvelle : non seulement les Français sont de plus en plus nombreux à utiliser FranceConnect, mais ils y ont aussi recours **de plus en plus souvent.** Ils étaient 8 millions fin 2020 à l’utiliser plus de 4 fois par an, ils sont maintenant 12 millions, à fin septembre 2021.
 
-<div class="citation">« FranceConnect s’est vraiment installé dans le paysage de l’identité numérique française »</div>
+<div class="citation"><p>« FranceConnect s’est vraiment installé dans le paysage de l’identité numérique française. »</p></div>
 <div class="auteur-citation">conclut Christine Balian, cheffe de la mission IDNUM au sein de la DINUM</div>
 
 ## Une simplicité d’utilisation plébiscitée
