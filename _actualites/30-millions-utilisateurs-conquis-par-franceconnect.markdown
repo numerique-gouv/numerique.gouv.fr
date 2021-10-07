@@ -41,7 +41,7 @@ Le nombre de services en ligne FranceConnectés continue lui aussi de progresser
 
 Le 30 septembre 2021, le courtier en assurances Cbp [s’est d’ailleurs vu décerner le Trophée d’Or de la relation clients](https://www.cbp.fr/blog/actualites/cbp-laureat-des-trophees-de-lassurance-2021/ "s’est d’ailleurs vu décerner le Trophée d’Or de la relation clients - Lien externe") dans le cadre des [Trophées de l’assurance 2021](https://lestropheesassurance.com "Trophées de l’assurance 2021 - Lien externe"), pour avoir mis en place FranceConnect en partenariat avec la DINUM et l’Assurance maladie : le service garantit l’identité de l’assuré et facilite le recueil de données auprès d’Ameli, optimisant ainsi le parcours client.
 
-<div class="encadre noir"><h3 class="h4">Administration ou entreprise, vous proposez une démarche en ligne ? Intégrez gratuitement FranceConnect !</h3><p><a href="https://franceconnect.gouv.fr/partenaires" alt="En savoir plus - Lien externe">> En savoir plus</a></p></div>
+<div class="encadre noir"><h3 class="h4">Administration ou entreprise, vous proposez une démarche en ligne ? Intégrez gratuitement FranceConnect !</h3><div align="center"><a href="https://franceconnect.gouv.fr/partenaires" class="button" alt="En savoir plus - Lien externe">En savoir plus</a></p></div>
 
 ## FranceConnect+, pour des usages encore plus sécurisés
 
