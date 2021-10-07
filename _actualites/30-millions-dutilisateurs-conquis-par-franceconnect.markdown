@@ -19,7 +19,7 @@ Et c’est là la deuxième bonne nouvelle : non seulement les Français sont de
 
 **« FranceConnect s’est vraiment installé dans le paysage de l’identité numérique française »**, conclut Christine Balian, cheffe de la mission IDNUM au sein de la DINUM.
 
-## **Une simplicité d’utilisation plébiscitée**
+## Une simplicité d’utilisation plébiscitée
 
 Si FranceConnect se taille une place de choix dans les habitudes numériques des Français, c’est principalement pour la simplicité que leur offre le service : il leur permet de se connecter [à plus de 1000 services en ligne](https://franceconnect.gouv.fr/nos-services "à plus de 1000 services en ligne - Lien externe") en utilisant toujours les mêmes identifiant et mot de passe, parmi ceux proposés (Ameli, impots.gouv.fr, l’Identité Numérique La Poste, MobileConnect et moi ou msa.fr), sans avoir à créer chaque fois de nouveau compte. Il leur simplifie aussi les démarches : en se connectant via FranceConnect, certaines données sont préremplies, avec leur autorisation.
 
@@ -34,12 +34,8 @@ Le nombre de services en ligne FranceConnectés continue lui aussi de progresser
 
 Le 30 septembre 2021, le courtier en assurances Cbp [s’est d’ailleurs vu décerner le Trophée d’Or de la relation clients](https://www.cbp.fr/blog/actualites/cbp-laureat-des-trophees-de-lassurance-2021/ "s’est d’ailleurs vu décerner le Trophée d’Or de la relation clients - Lien externe") dans le cadre des [Trophées de l’assurance 2021](https://lestropheesassurance.com "Trophées de l’assurance 2021 - Lien externe"), pour avoir mis en place FranceConnect en partenariat avec la DINUM et l’Assurance maladie : le service garantit l’identité de l’assuré et facilite le recueil de données auprès d’Ameli, optimisant ainsi le parcours client.
 
-**[Encadré]**
+<div class="encadre noir"><h3>Administration ou entreprise, vous proposez une démarche en ligne ? Intégrez gratuitement FranceConnect !</h3><a href="https://franceconnect.gouv.fr/partenaires" alt="En savoir plus - Lien externe">> En savoir plus</a></div>
 
-**Administration ou entreprise, vous proposez une démarche en ligne ? Intégrez gratuitement FranceConnect !**
-
-[> En savoir plus](https://franceconnect.gouv.fr/partenaires)
- - Lien externe"
 ## FranceConnect+, pour des usages encore plus sécurisés
 
 De nouveaux usages de FranceConnect peuvent également se développer. Grâce à [une qualification obtenue auprès de l’ANSSI](https://www.ssi.gouv.fr/uploads/liste-produits-et-services-qualifies.pdf "une qualification obtenue auprès de l’ANSSI - Lien externe") début 2021, FranceConnect+ est désormais habilité à intégrer des identités de niveau substantiel ou élevé au sens du règlement européen eIDAS, c’est-à-dire des identités encore plus sécurisées, pour des démarches plus sensibles.
