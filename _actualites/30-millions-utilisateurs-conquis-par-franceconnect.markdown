@@ -33,7 +33,7 @@ Si FranceConnect se taille une place de choix dans les habitudes numériques des
 
 Une enquête Ifop réalisée en avril 2021 auprès de 1000 personnes a montré que **83% des utilisateurs sont convaincus par la facilité d’utilisation** du service.
 
-FranceConnect est également reconnu comme **un vecteur de réassurance **pour les usagers, qui sont 65% à lui faire confiance selon [le baromètre 2021 de l’Acsel](https://www.acsel.eu/barometre-de-la-confiance-des-francais-dans-le-numerique-crise-sanitaire-quel-impact-sur-la-confiance-numerique-les-resultats/ "le baromètre 2021 de l’Acsel - Lien externe").
+FranceConnect est également reconnu comme **un vecteur de réassurance** pour les usagers, qui sont 65% à lui faire confiance selon [le baromètre 2021 de l’Acsel](https://www.acsel.eu/barometre-de-la-confiance-des-francais-dans-le-numerique-crise-sanitaire-quel-impact-sur-la-confiance-numerique-les-resultats/ "le baromètre 2021 de l’Acsel - Lien externe").
 
 ## 1000 services FranceConnectés, publics et privés
 
@@ -47,6 +47,6 @@ Le 30 septembre 2021, le courtier en assurances Cbp [s’est d’ailleurs vu dé
 
 De nouveaux usages de FranceConnect peuvent également se développer. Grâce à [une qualification obtenue auprès de l’ANSSI](https://www.ssi.gouv.fr/uploads/liste-produits-et-services-qualifies.pdf "une qualification obtenue auprès de l’ANSSI - Lien externe") début 2021, FranceConnect est désormais habilité à intégrer des identités de niveau substantiel ou élevé au sens du règlement européen eIDAS, c’est-à-dire des identités encore plus sécurisées, pour des démarches plus sensibles.
 
-**« Avec FranceConnect+, l’idée est de pouvoir intégrer des services en ligne qui éviteront au citoyen d’avoir à se déplacer pour effectuer une démarche, pour prouver son identité,** explique Christine Balian. **Il permet aussi de donner accès à des services qui traitent des données sensibles, de santé par exemple. »**
+« Avec **FranceConnect+,** l’idée est de pouvoir intégrer des services en ligne qui éviteront au citoyen d’avoir à se déplacer pour effectuer une démarche, pour prouver son identité, explique Christine Balian. Il permet aussi de donner accès à des services qui traitent des données sensibles, de santé par exemple. »
 
 La DINUM travaille ainsi actuellement à l’intégration de FranceConnect+ pour les services de l’AP-HP ou encore pour l’espace numérique de santé. À suivre !
