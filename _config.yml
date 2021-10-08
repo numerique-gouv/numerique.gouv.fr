@@ -53,6 +53,9 @@ collections:
     title: Services
     output: true
     permalink: "/services/:title/"
+  tnt:
+    title: TNT
+    output: true
   uploads:
     title: Uploads
     output: true
