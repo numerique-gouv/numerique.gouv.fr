@@ -22,7 +22,7 @@ contact-presse:
   email: floriane.beaudron@modernisation.gouv.fr
 files:
 - file: "/uploads/DP_Le_Gouvernement_soutient_la_transformation_numerique_des_collectivites_territoriales.pdf"
-  nom: Consulter et télécharger l’intégralité du dossier de presse
+  nom: Télécharger l’intégralité du dossier de presse
 ---
 
 ## ÉDITO
@@ -46,4 +46,4 @@ D’autres projets de simplification communs avec les collectivités territorial
 
 ## Pour un numérique public, au service de tous les Français, dans tous les territoires
 
-* Consulter les annonces portant sur **le fonds de 88 millions d’euros pour accélérer la transformation numérique des collectivités territoriales inscrit dans le plan France Relance** et sur **le nouveau programme commun État – collectivités pour l’administration numérique Transformation Numérique des Territoires (TNT)**.
+* Consulter dans le dossier de presse ci-dessous les annonces portant sur **le fonds de 88 millions d’euros pour accélérer la transformation numérique des collectivités territoriales inscrit dans le plan France Relance** et sur **le nouveau programme commun État – collectivités pour l’administration numérique Transformation Numérique des Territoires (TNT)**.
