@@ -10,8 +10,6 @@ tags:
 - Programme TNT
 - Transformation Numérique des Territoires
 - programme TECH.GOUV
-- DITP
-- ANCT
 une-ou-diaporama:
 - image: "/uploads/index.jpg"
 contact-presse:
