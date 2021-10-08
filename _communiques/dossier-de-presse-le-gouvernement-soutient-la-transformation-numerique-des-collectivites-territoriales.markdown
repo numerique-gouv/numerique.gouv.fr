@@ -27,7 +27,7 @@ files:
 
 ## ÉDITO
 
-> La relance est une occasion inédite de transformer en profondeur notre pays. Nous devons utiliser le numérique pour rendre les services publics plus accessibles et plus simples pour les citoyens, au plus près de leurs usages du quotidien.
+La relance est une occasion inédite de transformer en profondeur notre pays. Nous devons utiliser le numérique pour rendre les services publics plus accessibles et plus simples pour les citoyens, au plus près de leurs usages du quotidien.
 
 Les collectivités, comme l’État, doivent relever le défi de cette transformation en profondeur. L’État se tient à leur côté. Le Gouvernement a ainsi annoncé en janvier un investissement inédit de 88 millions d’euros destiné à accompagner et accélérer la transformation numérique des collectivités territoriales. Cet engagement du Gouvernement en faveur des territoires vise à soutenir des projets numériques dont l’impact est concret dans la vie des citoyens, pour faciliter leurs démarches administratives locales, pour les faire davantage participer à la vie des territoires, et pour faciliter et simplifier au quotidien l’exercice des missions des élus et des agents des collectivités territoriales. Neuf mois après la mise en place de ce fonds, près de 40 millions d’euros ont déjà été attribués à des projets partout en France, dans des collectivités de
 toute taille. Nous sommes heureuses de cette mobilisation forte des porteurs de projets qui témoigne de leur dynamisme et de leur ambition. Ce sont des projets concrets de simplification des démarches comme l’inscription en crèche ou à la cantine scolaire, des projets de portails en ligne ou encore des projets
