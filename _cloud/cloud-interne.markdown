@@ -300,7 +300,7 @@ Fin juillet 2021, l’offre Cloud Nubo héberge plus de 100 produits répartis s
 
 * **Socle technique** : Nubo est une offre de service orientée IaaS, basée sur la version communautaire OpenStack, en lien avec la fondation OpenStack, avec une montée de version majeure régulière.
 
-* **Modèle de résilience** : Les infrastructures de Nubo sont déployées sur 2 sites en Ile-de-France (Noisiel et Bussy-Saint-Georges). Chaque site dispose de 2 régions indépendantes (une région exposée RIE, et une région pour l’exposition Internet) permettant aux bénéficiaires d’organiser une résilience multi-sites pour les projets nécessitant un haut niveau de disponibilité.
+* **Modèle de résilience** : Les infrastructures de Nubo sont déployées sur 2 sites en Ile-de-France. Chaque site dispose de 2 régions indépendantes (une région exposée RIE, et une région pour l’exposition Internet) permettant aux bénéficiaires d’organiser une résilience multi-sites pour les projets nécessitant un haut niveau de disponibilité.
 
 * **Catalogue de services** : Le catalogue de services de Nubo, orienté IaaS, propose des services Cloud communs (ressources de calcul, de stockage et de réseau) exposés en self-service via des API, et facturés suivant un mode de consommation à l’usage et un tarif garanti par une convention DINUM.
 
