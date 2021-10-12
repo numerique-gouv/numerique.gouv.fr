@@ -26,7 +26,7 @@ contact-presse:
   - '06 10 60 41 19 '
   email: floriane.beaudron@modernisation.gouv.fr
 files:
-- file: "/uploads/DP_Le_Gouvernement_soutient_la_transformation_numerique_des_collectivites_territoriales.pdf"
+- file: "/uploads/DP_Le_Gouvernement_soutient_la_transformation_numerique_des_collectivites_territoriales.pdf.pdf"
   nom: Consulter et télécharger l’intégralité du dossier de presse
 ---
 
