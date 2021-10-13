@@ -42,12 +42,10 @@ ministeres:
   titre: Services du Premier ministre
 - annees:
   - avis:
-    - description: Le projet KIOSQUES concerne les kiosques de pré-enregistrement
-        biométriques des voyageurs
+    - description: Projet de kiosques de pré-enregistrement biométriques des voyageurs
       file: "/uploads/KIOSQUES_art3.pdf"
       titre: KIOSQUES
-    - description: 'Le projet SGIN est le projet du système de gestion de l’identité
-        numérique '
+    - description: Projet du système de gestion de l’identité numérique
       file: "/uploads/SGIN_art3.pdf"
       titre: SGIN
     date-annee: 2020
