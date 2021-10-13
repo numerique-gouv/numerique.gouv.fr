@@ -72,7 +72,7 @@ Seul un agent de l’État ou d'un établissement public de l’État peut deman
 > <br>[Visionnez la démonstration vidéo](https://dai.ly/x7u6p1z) réalisée par nos équipes pour animer une communauté en ligne sur Osmose et bien utiliser l'outil.
 > <br>
 > 
-> Pour toute question contactez [contact@osmose.numerique.gouv.fr](contact@osmose.numerique.gouv.fr).
+> Pour toute question écrivez-nous à [contact@osmose.numerique.gouv.fr](mailto:contact@osmose.numerique.gouv.fr).
 {: .noir .encadre}
 
 <br>
