@@ -4,7 +4,7 @@ title: 'Projets informatiques de l’État : retrouvez l''ensemble des avis conf
 date: 2018-04-24 15:47:00 +02:00
 permalink: "/publications/avis-conformes/"
 position: 2
-date_de_modification: 9 décembre 2020
+date_de_modification: 13 octobre 2021
 chapeau-text: La direction interministérielle du numérique (DINUM) publie ses avis
   conformes sur les grands projets du système d'information et de communication de
   l’État.
@@ -41,6 +41,16 @@ ministeres:
   image: "/assets/img/avis-conformes/premierministre-matignon_ok_0.jpg"
   titre: Services du Premier ministre
 - annees:
+  - avis:
+    - description: 'Le projet SGIN est le projet du système de gestion de l’identité
+        numérique '
+      file: "/uploads/SGIN_art3.pdf"
+      titre: SGIN
+    - description: Le projet KIOSQUES concerne les kiosques de pré-enregistrement
+        biométriques des voyageurs
+      file: "/uploads/KIOSQUES_art3.pdf"
+      titre: KIOSQUES
+    date-annee: 2020
   - avis:
     - description: Nouveau logiciel de rédaction et de pilotage des procédures de
         la police nationale
@@ -97,6 +107,12 @@ ministeres:
   image: "/assets/img/avis-conformes/ministeredeinterieur1_ok_0.jpg"
   titre: Ministère de l'Intérieur
 - annees:
+  - avis:
+    - description: Programme de dématérialisation de l’application du droit des sols,
+        dit Démat ADS
+      file: "/uploads/Demat_ADS_art3.pdf"
+      titre: Démat ADS
+    date-annee: 2021
   - avis:
     - description: Moderniser les fonctions supports du CEREMA afin de gagner en efficience,
         en qualité de service rendu et en productivité
@@ -162,6 +178,11 @@ ministeres:
   titre: Ministère de l'Europe et des Affaires étrangères
 - annees:
   - avis:
+    - description: Système d’information des indemnités des militaires
+      file: "/uploads/Source_solde_II_art3.pdf"
+      titre: Source Solde II
+    date-annee: 2020
+  - avis:
     - description: Mise en place d’une plateforme numérique d’appel au soutien
       file: "/uploads/EUREKA_Art_3.PDF"
       titre: EUREKA
@@ -206,6 +227,12 @@ ministeres:
   titre: Ministère des Armées
 - annees:
   - avis:
+    - description: Le Health Data Hub est une plateforme sécurisée pour des projets
+        d’intérêt public de santé sur des données pseudonymisées
+      file: "/uploads/Health_data_hub_art3.pdf"
+      titre: 'Health Data Hub '
+    date-annee: 2020
+  - avis:
     - description: CPA
       file: "/uploads/cpa_art_3.pdf"
       titre: Compte personnel d'activité
@@ -234,6 +261,17 @@ ministeres:
   titre: 'Ministère des Solidarités et de la Santé, Ministère du Travail, de l’Emploi
     et de l’Insertion '
 - annees:
+  - avis:
+    - description: Plateforme des données de la douane
+      file: "/uploads/Developpement_donnee_douane_art3.pdf"
+      titre: Développement de la donnée en douane (3D)
+    date-annee: 2021
+  - avis:
+    - description: Espace de stockage mutualisé des données de la DGFiP, et gestion
+        industrialisée des interfaces
+      file: "/uploads/Datalake_art3.pdf"
+      titre: DATALAKE
+    date-annee: 2020
   - avis:
     - description: Offrir un nouveau service pour les usagers propriétaires de biens
         immobiliers depuis leur portail fiscal afin qu'ils puissent établir leur déclaration
@@ -356,6 +394,6 @@ C'est l'une des missions assignées à la DINUM (ex-DINSIC) : sécuriser les gra
 
 L'avis est accompagné, le cas échéant, de recommandations mettant en avant les axes d'améliorations à prendre en compte pour le bon déroulement du projet. Tous les projets déclarés conformes sont ensuite suivis dans le [panorama des grands projets du SI de l’État](https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/) que la DINUM publie depuis novembre 2016.
 
-Dans une volonté de transparence et d’ouverture, et dans la continuité de la loi pour une République numérique, la liste de ces avis sera régulièrement mise à jour. Les avis des projets classifiés ne sont pas publiés et ceux de projets faisant l’objet de procédures d’appel d’offre à venir le seront en différé. Retrouvez également sur [data.gouv.fr l'intégralité des documents](https://www.data.gouv.fr/fr/datasets/publication-des-avis-dinsic-articles-3-et-7/) (avis + annexes) en formats .odt et .pdf.
+Dans une volonté de transparence et d’ouverture, et dans la continuité de la loi pour une République numérique, la liste de ces avis sera régulièrement mise à jour. Les avis des projets classifiés ne sont pas publiés et ceux de projets faisant l’objet de procédures d’appel d’offre à venir le seront en différé. Retrouvez également sur [data.gouv.fr l'intégralité des documents](https://www.data.gouv.fr/fr/datasets/publication-des-avis-dinsic-articles-3-et-7/ "data.gouv.fr l'intégralité des documents - Lien externe") (avis + annexes) en formats .odt et .pdf.
 
 <p id="note1"><sup>(1)</sup> <i>Précédemment au titre de l'article 7 du <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023619023&categorieLien=cid">décret n°2011-193</a> puis de l'article 3 du <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029337021">décret n°2014-879</a></i>
