@@ -6,8 +6,8 @@ categories:
 tags:
 - FAST
 - beta.gouv.fr
-chapeau-text: Le programme beta.gouv.fr, porté par la Direction Interministérielle
-  du Numérique lance son 10ème appel à candidatures du Fonds d’Accélération des Startups
+chapeau-text: Le programme beta.gouv.fr, porté par la direction interministérielle
+  du numérique lance son 10e appel à candidatures du Fonds d’Accélération des Startups
   d’État et de Territoires (FAST).
 une-ou-diaporama:
 - image: "/uploads/FAST_10_Visuel_5novembre.png"
