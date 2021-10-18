@@ -12,6 +12,7 @@ chapeau-text: Le programme beta.gouv.fr, porté par la direction interministéri
 une-ou-diaporama:
 - image: "/uploads/FAST_Visuel_8novembre.png"
 auteur: beta.gouv.fr
+redirection: https://blog.beta.gouv.fr/dinsic/2021/10/07/d%C3%A9couvrez-les-laur%C3%A9ats-du-fast-9-et-postulez-au-fast-10/
 ---
 
 <div class="lien-important"><p><a href="https://blog.beta.gouv.fr/dinsic/2021/10/07/d%C3%A9couvrez-les-laur%C3%A9ats-du-fast-9-et-postulez-au-fast-10/"  title="Lire la suite sur blog.beta.gouv.fr - lien externe">Lire la suite sur blog.beta.gouv.fr</a></p></div>
