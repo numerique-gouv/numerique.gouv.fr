@@ -71,7 +71,6 @@ Une plateforme complémentaire dédiée aux administrations sera mise à leur di
 <br>
 
 ### **Qui peut faire référencer un outil numérique ?**
-
 {: .margin-bottom-1 .h4}
 Vous pouvez demander le référencement d’un outil ou d’une solution numérique que vous soyez une entreprise (startup, TPE, PME…) ou une association.
 <br>
@@ -82,13 +81,11 @@ Il ne référence pas les matériels, équipement et services télécom, systèm
 <br>
 
 ### **En quoi consiste l’autoévaluation d’une solution ?**
-
 {: .margin-bottom-1 .h4}
 Chaque solution référencée peut être autoévaluée par son éditeur afin de mettre en avant son niveau de conformité par rapport aux attentes du secteur public. Le fruit de ces autoévaluations sera rendu public.
 Toute personne détectant une anomalie dans ces évaluations peut le signaler à la DINUM en écrivant à [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr).
 
 ### **Quels sont les critères d’autoévaluation des solutions ?**
-
 {: .margin-bottom-1 .h4}
 Issus de la consultation d’experts du numérique et de futurs utilisateurs du catalogue, les critères d’autoévaluation ont été définis au regard d’attentes pouvant être génériques ou bien spécifiques au secteur public. Les critères regroupent plusieurs thématiques :
 
