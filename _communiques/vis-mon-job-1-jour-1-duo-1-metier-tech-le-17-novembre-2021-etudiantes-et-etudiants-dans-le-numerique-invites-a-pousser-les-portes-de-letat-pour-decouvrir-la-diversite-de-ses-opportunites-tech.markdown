@@ -20,6 +20,12 @@ chapeau-text: "**Le 17 novembre 2021 à travers toute la France, l’État réit
   prometteurs qu’indispensables à la transformation de l’État.**"
 une-ou-diaporama:
 - image: "/uploads/a51503ec-78c5-45a5-bee9-dc19e1c335ab-fccfa7.jpg"
+contact-presse:
+  name: Floriane Beaudron
+  tel:
+  - 01.71.21.12.50
+  - 06.10.60.41.19
+  email: floriane.beaudron@modernisation.gouv.fr
 ---
 
 ## Attirer des talents du numérique : la priorité de l’État dans tous les territoires
