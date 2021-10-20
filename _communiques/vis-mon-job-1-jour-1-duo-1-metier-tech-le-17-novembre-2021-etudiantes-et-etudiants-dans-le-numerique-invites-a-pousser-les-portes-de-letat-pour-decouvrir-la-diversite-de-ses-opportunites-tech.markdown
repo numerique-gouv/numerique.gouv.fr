@@ -9,15 +9,15 @@ tags:
 - RH
 - Numérique
 - Vis mon job
-chapeau-text: "**Le 17 novembre 2021 à travers toute la France, l’État réitère pour
+chapeau-text: 'Le 17 novembre 2021 à travers toute la France, l’État réitère pour
   la seconde fois en interministériel l’opération « Vis mon job » qui permettra à
   de jeunes et futurs talents du numérique de vivre une expérience inédite d’immersion
   aux côtés d’agents de l’État spécialisés dans la tech. Le principe : les étudiantes
-  et étudiants, en préparation d’un Bac\\+2 à Bac\\+5 dans le numérique et volontaires
+  et étudiants, en préparation d’un Bac\+2 à Bac\+5 dans le numérique et volontaires
   pour participer à cette opération sont invités à se faire connaître pour former,
   avec un agent de l’État, un duo afin de découvrir les opportunités professionnelles
   que proposent les administrations centrales et territoriales dans des domaines aussi
-  prometteurs qu’indispensables à la transformation de l’État.**"
+  prometteurs qu’indispensables à la transformation de l’État.'
 une-ou-diaporama:
 - image: "/uploads/a51503ec-78c5-45a5-bee9-dc19e1c335ab-fccfa7.jpg"
 contact-presse:
@@ -26,6 +26,8 @@ contact-presse:
   - 01.71.21.12.50
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
+files:
+- file: "/uploads/CP_Vis_mon_Job_1_jour_1_duo_1_metier_tech-fef604.pdf"
 ---
 
 ## Attirer des talents du numérique : la priorité de l’État dans tous les territoires
