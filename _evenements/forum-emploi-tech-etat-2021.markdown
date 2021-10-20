@@ -12,8 +12,8 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) organise l
   Paris le 16 décembre. L’occasion de faire se rencontrer recruteurs du secteur public
   (ministères, collectivités territoriales…) et candidats professionnels du numérique,
   issus du secteur public ou du privé. Le Forum sera rythmé par des conférences et
-  un jobdating 100% en ligne, des ateliers et rencontres en présentiel. Inscriptions
-  à partir du 8 novembre !'
+  un jobdating 100% en ligne, des ateliers et rencontres en présentiel. **Inscriptions
+  à partir du 8 novembre !**'
 une-ou-diaporama:
 - image: "/uploads/2021_10_19_VISUEL_AGENDA_FORUM_RECRUTEMENT.png"
 event_start_date: 2021-12-16 09:00:00 +01:00
