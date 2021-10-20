@@ -16,15 +16,15 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) organise l
 
 ## Plus de 300 postes à pouvoir chaque année
 
-Vous êtes un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique et vous souhaitez faire évoluer votre carrière ?
-Vous êtes un professionnel du numérique et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
-Vous êtes étudiants ou jeune diplômé d’une école du numérique et curieux des opportunités professionnelles offertes par l’État ?
+Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
+Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
+Vous êtes étudiants ou** jeune diplômé d’une école du numérique** et curieux des opportunités professionnelles offertes par l’État ?
 
 > **Créez le service public de demain et rencontrez les recruteurs de l’État en ligne et/ou à Paris !**
 
-*\[Le forum virtuel du 3 au 15 décembre 2021 en ligne\]*
+*\[Le forum virtuel du 3 au 15 décembre 2021 à Paris\]*
 
-Vous souhaitez participer à cet événement unique mais vous n’êtes pas à Paris le 16 décembre, vous souhaitez consulter les offres d’emploi dans toute la France, assister aux conférences et au jobdating ? Participez au forum virtuel ! Créez votre profil sur notre plateforme en ligne (insérer le lien https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211) et déposez-y votre CV.
+Vous souhaitez participer à cet événement unique mais vous n’êtes pas à Paris le 16 décembre, vous souhaitez consulter les offres d’emploi dans toute la France, assister aux conférences et au jobdating ? Participez au forum virtuel ! Créez votre profil sur[ notre plateforme en ligne ](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)et déposez-y votre CV.
 
 Au programme :
 
@@ -35,3 +35,24 @@ Au programme :
 · Des **échanges et entretiens** avec les recruteurs par téléphone ou par visio-conférence.
 
 Pour participer au forum virtuel, rien de plus simple : **du 8 novembre au 2 décembre à 14h** : **inscrivez-vous**, découvrez les différentes offres et prenez rendez-vous en quelques clics avec les recruteurs.
+
+*\[Le forum physique le 16 décembre 2021 à Paris\]*
+
+Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**, issues de la fonction publique d’État et de collectivités territoriales, proposant plus de 250 postes à pourvoir en région et en Île-de-France.
+
+· Des **espaces d’échanges **seront mis en place pour prolonger en toute confidentialité votre discussion avec un recruteur.
+
+· Au cours de cette journée seront aussi proposés **des ateliers** de développement professionnel (sur inscription et le jour J selon les places disponibles).
+
+Comment participer au forum physique ? **Du 8 novembre au 16 décembre inclus : inscrivez-vous en ligne** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
+
+## **Infos pratiques**
+
+**Date et horaires : **jeudi 16 décembre de 9h à 18h
+
+**Lieu : **La grande Crypte, 69 rue Boissière, 75016 PARIS
+
+**Comment y aller : **Par le métro** **Stations Boissière, Victor-Hugo ou Trocadéro Par le RER A, Charles de Gaulle-Étoile 
+
+\
+**Modalités **: entrée gratuite avec inscription obligatoire préalable ou sur place (QR Code à présenter à l’accueil) et pass sanitaire à présenter à l’extérieur aux agents de sécurité, capacité du lieu de 700 personnes.
