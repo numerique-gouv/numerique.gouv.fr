@@ -1,0 +1,37 @@
+---
+title: Le Forum de l’emploi tech de l’tat 2021
+date: 2021-10-20 16:29:00 +02:00
+tags:
+- Emploi
+- RH
+- Tech
+chapeau-text: 'La direction interministérielle du numérique (DINUM) organise la 5ème
+  édition du Forum de l’emploi tech de l’Etat : en ligne du 3 au 15 décembre et à
+  Paris le 16 décembre. L’occasion de faire se rencontrer recruteurs du secteur public
+  (ministères, collectivités territoriales…) et candidats professionnels du numérique,
+  issus du secteur public ou du privé. Le Forum sera rythmé par des conférences et
+  un jobdating 100% en ligne, des ateliers et rencontres en présentiel. Inscriptions
+  à partir du 8 novembre !'
+---
+
+## Plus de 300 postes à pouvoir chaque année
+
+Vous êtes un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique et vous souhaitez faire évoluer votre carrière ?
+Vous êtes un professionnel du numérique et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
+Vous êtes étudiants ou jeune diplômé d’une école du numérique et curieux des opportunités professionnelles offertes par l’État ?
+
+> **Créez le service public de demain et rencontrez les recruteurs de l’État en ligne et/ou à Paris !**
+
+*\[Le forum virtuel du 3 au 15 décembre 2021 en ligne\]*
+
+Vous souhaitez participer à cet événement unique mais vous n’êtes pas à Paris le 16 décembre, vous souhaitez consulter les offres d’emploi dans toute la France, assister aux conférences et au jobdating ? Participez au forum virtuel ! Créez votre profil sur notre plateforme en ligne (insérer le lien https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211) et déposez-y votre CV.
+
+Au programme :
+
+· Des **conférences tech** (plus d’infos et programme à venir) pour explorer la culture tech de l’Etat et du service public ;
+
+· Des **présentations de recruteurs** permettant de mieux connaitre des administrations proposant des offres ;
+
+· Des **échanges et entretiens** avec les recruteurs par téléphone ou par visio-conférence.
+
+Pour participer au forum virtuel, rien de plus simple : **du 8 novembre au 2 décembre à 14h** : **inscrivez-vous**, découvrez les différentes offres et prenez rendez-vous en quelques clics avec les recruteurs.
