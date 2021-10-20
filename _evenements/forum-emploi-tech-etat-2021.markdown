@@ -16,7 +16,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) organise l
   à partir du 8 novembre !**'
 une-ou-diaporama:
 - image: "/uploads/2021_10_19_VISUEL_AGENDA_FORUM_RECRUTEMENT.png"
-event_start_date: 2021-12-16 09:00:00 +01:00
+event_start_date: 2021-12-03 09:00:00 +01:00
 event_end_date: 2021-12-16 18:00:00 +01:00
 lieu: La grande Crypte
 adresse: 69 rue Boissière, 75016 PARIS
