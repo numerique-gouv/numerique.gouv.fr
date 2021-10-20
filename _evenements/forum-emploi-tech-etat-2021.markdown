@@ -1,6 +1,8 @@
 ---
 title: Le Forum de l’emploi tech de l’État 2021
 date: 2021-10-20 16:29:00 +02:00
+categories:
+- Forum emploi
 tags:
 - Emploi
 - RH
@@ -14,8 +16,15 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) organise l
   à partir du 8 novembre !'
 une-ou-diaporama:
 - image: "/uploads/2021_10_19_VISUEL_AGENDA_FORUM_RECRUTEMENT.png"
-event_start_date: 2021-12-03 00:00:00 +01:00
-event_end_date: 2021-12-16 00:00:00 +01:00
+event_start_date: 2021-12-16 09:00:00 +01:00
+event_end_date: 2021-12-16 18:00:00 +01:00
+lieu: La grande Crypte
+adresse: 69 rue Boissière, 75016 PARIS
+champs_informations:
+- intitule: Modalités
+  contenu: Entrée gratuite avec inscription obligatoire préalable ou sur place (QR
+    Code à présenter à l’accueil) et pass sanitaire à présenter à l’extérieur aux
+    agents de sécurité, capacité du lieu de 700 personnes.
 ---
 
 ## Plus de 300 postes à pouvoir chaque année
