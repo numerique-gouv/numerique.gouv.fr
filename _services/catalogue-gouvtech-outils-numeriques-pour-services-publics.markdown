@@ -79,11 +79,14 @@ Vous pouvez demander le référencement d’un outil ou d’une solution numéri
 <h3 class="margin-bottom-1 h4"><strong>Quelles solutions peuvent être référencées ?</strong></h3> <p>Le catalogue GouvTech référence les solutions numériques, qu’elles soient :</p> <ul> <li>sous la forme d’un service en ligne (mode SaaS) ou de logiciel sur site (<span lang="en"><em>on-premises</em></span>),</li> <li>propriétaires ou logiciels libres,</li> <li>issues de la société civile  - entreprises ou associations,</li> <li>déjà utilisées par une ou plusieurs administrations ou non.</li> </ul>
 Il ne référence pas les matériels, équipement et services télécom, systèmes d’exploitation (y compris les offres desktop-as-a-service), les services d’hébergement d’applications informatiques (y compris encapsulés dans des services PaaS).
 <br>
+<br>
 
 ### **En quoi consiste l’autoévaluation d’une solution ?**
 {: .margin-bottom-1 .h4}
 Chaque solution référencée peut être autoévaluée par son éditeur afin de mettre en avant son niveau de conformité par rapport aux attentes du secteur public. Le fruit de ces autoévaluations sera rendu public.
 Toute personne détectant une anomalie dans ces évaluations peut le signaler à la DINUM en écrivant à [label.dinum@modernisation.gouv.fr](mailto:label.dinum@modernisation.gouv.fr).
+<br>
+<br>
 
 ### **Quels sont les critères d’autoévaluation des solutions ?**
 {: .margin-bottom-1 .h4}
