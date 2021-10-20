@@ -46,7 +46,7 @@ Data scientists, chefs de projet IT, architectes techniques, concepteurs-dévelo
 
 Les étudiants participants à l’opération Vis mon Job seront également invités au Forum de l’emploi tech de l’État afin d’explorer encore plus la culture tech dans l’État, assister aux conférences tech et aux présentations de recruteurs en ligne et rencontrer d’autres étudiants et ambassadeurs et participer aux ateliers de développement professionnel à Paris.
 
-Inscription dès le 8 novembre * [En savoir plus](https://www.numerique.gouv.fr/agenda/forum-emploi-tech-etat-2021/)
+Inscription dès le 8 novembre [> En savoir plus](https://www.numerique.gouv.fr/agenda/forum-emploi-tech-etat-2021/)
 
 <div class="citation"><p>Pour réussir la transformation numérique de l’État, nous avons besoin de faire venir plus de talents du numérique dans les administrations. Je me réjouis donc de cette initiative permettant à des étudiants de découvrir les métiers passionnants du service public et j’espère qu’elle créera des vocations.</p></div>
 
