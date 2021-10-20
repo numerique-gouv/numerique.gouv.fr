@@ -13,6 +13,10 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) organise l
   issus du secteur public ou du privé. Le Forum sera rythmé par des conférences et
   un jobdating 100% en ligne, des ateliers et rencontres en présentiel. Inscriptions
   à partir du 8 novembre !'
+une-ou-diaporama:
+- image: "/uploads/2021_10_19_VISUEL_AGENDA_FORUM_RECRUTEMENT.png"
+event_start_date: 2021-12-03 00:00:00 +01:00
+event_end_date: 2021-12-16 00:00:00 +01:00
 ---
 
 ## Plus de 300 postes à pouvoir chaque année
