@@ -44,11 +44,8 @@ layout: rgaa
 Mis en place dans le cadre du programme [TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), le catalogue GouvTech recense des logiciels et services numériques à destination des administrations – de l’État comme territoriales – et vise à :
 
 * favoriser la création de services publics numériques performants et leur amélioration,
-
 * faciliter l’identification et le choix de solutions numériques pertinentes,
-
 * permettre le partage d’expérience et la mutualisation d’outils entre administrations,
-
 * apporter des éléments d’appréciation quant aux attentes des acteurs publics.
   <br>
   <br>
@@ -60,18 +57,9 @@ Mis en place dans le cadre du programme [TECH.GOUV](https://www.numerique.gouv.f
 > <a href="https://catalogue.numerique.gouv.fr/" class="button" title="Consulter le catalogue - Lien externe">Consulter le catalogue</a>
 > {: .exergue}
 
-> <figure class='image-left' style='width: 4%; margin-top: 0.4rem;'><img src="/uploads/fleche-droite.png" alt=""/></figure>## Je souhaite référencer ma solution
-> {: .margin-bottom-1 .h3}
->
-> Vous êtes une entreprise ou une association. Vous avez développé un produit numérique qui pourrait être utile aux services publics ? Vous souhaitez contribuer à leur amélioration ?
-> <br>Soumettez la demande de référencement de votre solution dans le catalogue via notre formulaire en ligne. Vous pourrez aussi l’autoévaluer pour en montrer les atouts. Nous prendrons ensuite contact avec vous.
->
+<div class="exergue" style="margin-bottom: 20px"> <figure class="image-left" style="width: 4%; margin-top: 0.4rem;"><img src="/uploads/fleche-droite.png" alt=""></figure> <h2 class="margin-bottom-1 h3" id="je-souhaite-connaître-les-solutions-répondant-à-mon-besoin">Je souhaite connaître les solutions répondant à mon besoin</h2> <p>Vous êtes un acteur public et avez besoin d’un outil numérique particulier pour créer ou améliorer un service public&nbsp;? Vous souhaitez identifier des produits adéquats et savoir s’ils répondent à vos enjeux et besoins&nbsp;?</p> <p><a href="https://catalogue.numerique.gouv.fr/" class="button" title="Consulter le catalogue - Lien externe">Consulter le catalogue</a></p> </div>
 > <a href="https://mon.catalogue.numerique.gouv.fr/" class="button" title="Soumettre ma solution - Lien externe">Soumettre ma solution</a>
-> <br>
-> <i>Pour toute question, écrivez à la mission LABEL par courriel à <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr">label.dinum@modernisation.gouv.fr</a>.</i>
-> {: .exergue}
-> <br>
-> <br>
+<div class="exergue"> <figure class="image-left" style="width: 4%; margin-top: 0.4rem;"><img src="/uploads/fleche-droite.png" alt=""></figure> <h2 class="margin-bottom-1 h3" id="je-souhaite-référencer-ma-solution">Je souhaite référencer ma solution</h2> <p>Vous êtes une entreprise ou une association. Vous avez développé un produit numérique qui pourrait être utile aux services publics&nbsp;? Vous souhaitez contribuer à leur amélioration&nbsp;? <br>Soumettez la demande de référencement de votre solution dans le catalogue via notre formulaire en ligne. Nous prendrons ensuite contact avec vous.</p> <p><a href="https://www.demarches-simplifiees.fr/commencer/demande-de-referencement-au-catalogue-label" class="button" title="Soumettre ma solution - Lien externe">Soumettre ma solution</a> <br> <i>Pour toute question, écrivez à la mission LABEL par courriel à <a class="lien-encadre" href="mailto:label.dinum@modernisation.gouv.fr">label.dinum@modernisation.gouv.fr</a>.</i></p> </div>
 
 Au travers d’une communauté, des rencontres seront organisées pour mettre en relation l’écosystème numérique et les administrations. Ces évènements permettront de promouvoir des thématiques d’innovation, de nouveaux cas d’usages, les outils associés et de mettre en avant les <i><span lang="en">success stories</span></i> de projets numériques d’acteurs publics. Plus d’infos prochainement.
 
