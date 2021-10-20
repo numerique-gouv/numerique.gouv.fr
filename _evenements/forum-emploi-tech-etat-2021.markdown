@@ -41,11 +41,11 @@ Vous souhaitez participer à cet événement unique mais vous n’êtes pas à P
 
 Au programme :
 
-· Des **conférences tech** (plus d’infos et programme à venir) pour explorer la culture tech de l’Etat et du service public ;
+* Des **conférences tech** (plus d’infos et programme à venir) pour explorer la culture tech de l’Etat et du service public ;
 
-· Des **présentations de recruteurs** permettant de mieux connaitre des administrations proposant des offres ;
+* Des **présentations de recruteurs** permettant de mieux connaitre des administrations proposant des offres ;
 
-· Des **échanges et entretiens** avec les recruteurs par téléphone ou par visio-conférence.
+* Des **échanges et entretiens** avec les recruteurs par téléphone ou par visio-conférence.
 
 Pour participer au forum virtuel, rien de plus simple : **du 8 novembre au 2 décembre à 14h** : **inscrivez-vous**, découvrez les différentes offres et prenez rendez-vous en quelques clics avec les recruteurs.
 
@@ -53,8 +53,8 @@ Pour participer au forum virtuel, rien de plus simple : **du 8 novembre au 2 dé
 
 Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**, issues de la fonction publique d’État et de collectivités territoriales, proposant plus de 250 postes à pourvoir en région et en Île-de-France.
 
-· Des **espaces d’échanges** seront mis en place pour prolonger en toute confidentialité votre discussion avec un recruteur.
+* Des **espaces d’échanges** seront mis en place pour prolonger en toute confidentialité votre discussion avec un recruteur.
 
-· Au cours de cette journée seront aussi proposés **des ateliers** de développement professionnel (sur inscription et le jour J selon les places disponibles).
+* Au cours de cette journée seront aussi proposés **des ateliers** de développement professionnel (sur inscription et le jour J selon les places disponibles).
 
 Comment participer au forum physique ? **Du 8 novembre au 16 décembre inclus : inscrivez-vous en ligne** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
