@@ -23,7 +23,7 @@ Ces communautés d’échanges, centrées par thématique, se rassembleront rég
 
 #### Comment rejoindre ces communautés ?
 * **Vous disposez déjà d'un compte sur la plateforme Osmose ?** 
-Connectez-vous, cliquez sur le lien de la communauté ci-dessous qui vous intéresse puis sur le bouton "Je m'inscris"
+Connectez-vous, cliquez sur le lien de la communauté ci-dessous qui vous intéresse puis sur le bouton « Je m'inscris »
 * **Vous ne disposez pas de compte Osmose ?** Contactez [infonuage.dinum@modernisation.gouv.fr](mailto:infonuage.dinum@modernisation.gouv.fr) pour demander la création de votre compte.
 
 **Des thématiques vous sont chères et vous souhaitez les aborder ?** Nous vous invitons à répondre [à ce sondage](https://framadate.org/Oi2XFHyKwMxx3RDY "à ce sondage - Lien externe") pour voter !
