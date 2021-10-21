@@ -9,6 +9,7 @@ tags:
 - RH
 - Numérique
 - Vis mon job
+- Forum de l'emploi tech de l'État
 chapeau-text: 'Le 17 novembre 2021 à travers toute la France, l’État réitère pour
   la seconde fois en interministériel l’opération « Vis mon job » qui permettra à
   de jeunes et futurs talents du numérique de vivre une expérience inédite d’immersion
@@ -28,6 +29,7 @@ contact-presse:
   email: floriane.beaudron@modernisation.gouv.fr
 files:
 - file: "/uploads/CP_Vis_mon_Job_1_jour_1_duo_1_metier_tech-fef604.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 ## Attirer des talents du numérique : la priorité de l’État dans tous les territoires
