@@ -5,6 +5,8 @@ permalink: "/services/tnt/france-relance/"
 menu:
   title: France Relance
   weight: 40
+une:
+  image: "/uploads/TNT_Bandeau_Page-fille.png"
 layout: tnt
 ---
 
