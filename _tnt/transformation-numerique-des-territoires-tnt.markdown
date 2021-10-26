@@ -15,7 +15,7 @@ Le programme Transformation numérique des territoires (TNT) s’inscrit dans un
 À l’heure où 80 % des Français ont comme premier contact avec une administration, un site internet ou une application mobile pour effectuer leurs démarches administratives, la transformation numérique de l’action publique dans tous les territoires est, en effet, devenue un enjeu social et politique majeur.
 
 
-## Les objectifs clés
+### Les objectifs clés
 En s’appuyant sur les réussites identifiées du précédent programme, les recommandations formulées par les partenaires territoriaux et les opportunités offertes par le fonds « Transformation numérique des collectivités territoriales » du plan France Relance, le nouveau programme TNT a pour ambition de répondre à 3 objectifs majeurs :
 1. **Rassembler tous les acteurs publics de l’État et des associations d’élus** en bénéficiant d’un portage politique fort permettant de renforcer les liens entre l’État et les territoires.
 2. **S’engager dans une perspective de résultats** en consacrant le temps et les ressources mobilisés par les parties prenantes à ce programme à la mise en œuvre de solutions numériques concrètes et visibles par les citoyens et les agents publics.
