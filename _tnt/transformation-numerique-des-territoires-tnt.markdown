@@ -20,3 +20,8 @@ En s’appuyant sur les réussites identifiées du précédent programme, les re
 1. **Rassembler tous les acteurs publics de l’État et des associations d’élus** en bénéficiant d’un portage politique fort permettant de renforcer les liens entre l’État et les territoires.
 2. **S’engager dans une perspective de résultats** en consacrant le temps et les ressources mobilisés par les parties prenantes à ce programme à la mise en œuvre de solutions numériques concrètes et visibles par les citoyens et les agents publics.
 3. **Accroître la notoriété du fonds « Transformation numérique des collectivités territoriales » du plan France Relance**, encourageant ainsi les collectivités à se saisir des opportunités proposées.
+
+**Pour contacter l’équipe TNT :** [tnt.dinum@modernisation.gouv.fr](mailto:tnt.dinum@modernisation.gouv.fr)
+**Pour suivre l’actualité du programme :**
+* Suivez le fil Twitter du programme TNT
+* Abonnez-vous à sa lettre d’informations
