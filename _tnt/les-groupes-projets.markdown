@@ -15,6 +15,11 @@ style: |-
   margin: 4px 2px;
   cursor: pointer;
   }
+menu:
+  title: Groupes projets
+  weight: 30
+une:
+  image: "/uploads/TNT_Bandeau_Page-fille.png"
 layout: tnt
 ---
 
