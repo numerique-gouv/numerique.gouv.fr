@@ -2,6 +2,7 @@
 title: Transformation numérique des territoires (TNT)
 date: 2021-10-08 09:58:00 +02:00
 permalink: "/services/tnt/"
+published: false
 menu:
   title: Le programme
   weight: 10
