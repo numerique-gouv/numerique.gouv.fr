@@ -21,6 +21,6 @@ Vous êtes un département, une collectivité ou un regroupement de collectivit�
 * la coopération avec vos partenaires et usagers grâce au numérique ;
 * l’intégration de FranceConnect ou d’une API nationale (issue du catalogue api.gouv.fr) pour simplifier les démarches en ligne de vos usagers.
 
-**> Proposez votre projet jusqu’au 22 novembre 2021 à minuit **(cliquez sur la thématique qui vous intéresse ci-dessus)
+**> Proposez votre projet jusqu’au 22 novembre 2021 à minuit** (cliquez sur la thématique qui vous intéresse ci-dessus)
 
-<div class="lien-important">Découvrez l’ensemble des appels à projets et guichets de ce fonds France Relance</div>
+<div class="lien-important"><a href="https://france-relance.transformation.gouv.fr/fonds-collectivites">Découvrez l’ensemble des appels à projets et guichets de ce fonds France Relance</a></div>
