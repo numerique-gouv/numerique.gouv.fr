@@ -33,11 +33,11 @@ Malgré le travail de mise en accessibilité effectué, certains contenus, list�
 
 #### Dérogations pour charge disproportionnée
 {: .margin-top-2 .margin-bottom-1}
-Certains contenus anglais ne peuvent pas être signalés comme tels (par exemple « <span lang="en">meetup</span> ») à certains endroits (titres), car le code HTML est alors visible dans le <span lang="en">title</span> de la page. La correction de ce point nécessiterait des travaux correctifs importants pour un impact utilisateur ici assez faible.
+Certains termes anglais ne peuvent pas être signalés comme tels (par exemple « <span lang="en">meetup</span> ») à certains endroits comme les titres, car le code HTML est alors visible dans le <span lang="en">title</span> de la page. La correction de ce point nécessiterait des travaux correctifs importants pour un impact utilisateur ici assez faible.
 
 Le CMS génère parfois automatiquement quelques balises paragraphes vides superflues. Après des essais infructueux, il a été conclu que corriger ce point ne pourrait être réalisé aisément.
 
-Des balises <span lang="en">Blockquote</span>  apparaissent, elles sont la transcription html automatique des balises markdown « > » (permettant  des mises en forme, à l’image des div), langage largement utilisé pour l’édition de ce site, et privilégié par le CMS utilisé. L’ajout d’un « role="presentation" » ou une réécriture en html ont été effectués chaque fois que possible. Une automatisation est en cours d’étude. Des balises <span lang="en">blockquote</span> subsistent à ce jour.
+Des balises <span lang="en">Blockquote</span>  apparaissent, elles sont la transcription html automatique des balises markdown « > » (permettant  des mises en forme, à l’image des div), langage largement utilisé pour l’édition de ce site, et privilégié par le CMS utilisé. L’ajout d’un « role="presentation" » ou une réécriture en html ont été effectués chaque fois que possible. Une automatisation est en cours d’étude. Des balises <span lang="en">blockquote</span> subsistent à ce jour sur les anciens contenus.
 
 #### Contenus non soumis à l’obligation d’accessibilité
 {: .margin-top-2 .margin-bottom-0}
