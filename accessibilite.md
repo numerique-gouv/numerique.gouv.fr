@@ -39,12 +39,14 @@ Le CMS génère parfois automatiquement quelques balises paragraphes vides super
 
 Des balises <span lang="en">Blockquote</span>  apparaissent, elles sont la transcription html automatique des balises markdown « > » (permettant  des mises en forme, à l’image des div), langage largement utilisé pour l’édition de ce site, et privilégié par le CMS utilisé. L’ajout d’un « role="presentation" » ou une réécriture en html ont été effectués chaque fois que possible. Une automatisation est en cours d’étude. Des balises <span lang="en">blockquote</span> subsistent à ce jour sur les anciens contenus.
 
+Sur les pages Recherche, Actualités et Agenda, l’affichage de plus de résultats et le système de filtres présentent des erreurs d'accessibilité (contrastes de couleurs, intitulé du bouton en anglais, gestion du focus). Des essais de correction et de surcharge du comportement par défaut ont été menés sans succès, car la fonctionnalité repose sur un service externe non modifiable.  
+
+
 #### Contenus non soumis à l’obligation d’accessibilité
 {: .margin-top-2 .margin-bottom-0}
 ##### Contenus tiers
 {: .margin-top-0 .margin-bottom-1}
 * Le fil d’actualité Twitter sur la page d’Accueil
-* L’affichage de plus de résultats et le système de filtres sur les pages Recherche, Actualités et Agenda (Algolia – des échanges sont en cours avec l’éditeur pour tenter d’optimiser ces points)
 * Player vidéo (<span lang="en">Dailymotion, Youtube</span>)
 
 ### Établissement de cette déclaration d’accessibilité
