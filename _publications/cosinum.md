@@ -41,4 +41,4 @@ ministeres:
 layout: avis-conformes
 ---
 
-Présidé  par  la  secrétaire  générale  du  Gouvernement  (SGG)  et  animé  par  le  directeur  interministériel  du  numérique  (DINUM),  le  COSINUM  réunit  les secrétaires généraux de tous les ministères et des directeurs du budget  (DB),  de  la  transformation  publique  (DITP),  de  l’administration  et  de  la  fonction  publique  (DGAFP),  des  achats  de  l’État  (DAE)  et  de  la  sécurité  des  systèmes d’information (ANSSI).
+Présidé par la secrétaire générale du Gouvernement (SGG) et animé par le directeur interministériel du numérique (DINUM), le COSINUM réunit les secrétaires généraux de tous les ministères et des directeurs du budget (DB), de la transformation publique (DITP), de l’administration et de la fonction publique (DGAFP), des achats de l’État (DAE) et de la sécurité des systèmes d’information (ANSSI).
