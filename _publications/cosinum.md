@@ -1,13 +1,13 @@
 ---
-title: Les fiches des conseils des systèmes d’information et de communication (CSIC)
-permalink: "/publications/fiches-csic/"
-chapeau-text: Le conseil des systèmes d’information et de communication (CSIC) constitue
-  l’instance de gouvernance stratégique du SI de l’Etat. Il est présidé par le directeur
-  interministériel du numérique et du système d’information et de communication de
-  l’Etat (DINSIC). Le CSIC est consulté sur la définition et la mise en œuvre du cadre
-  stratégique commun du système d’information de l’Etat. Le DINSIC soumet au conseil,
-  au travers des fiches CSIC, les évolutions des documents de référence ou les nouveaux
-  cadres ou normes techniques et dresse le bilan des contrats de progrès.
+title: Les comités d'orientation stratégique interministériel du numérique (COSINUM)
+permalink: "/publications/cosinum/"
+chapeau-text: Le COSINUM est l'instance interministérielle stratégique en matière
+  de numérique de l’État. Deux fois par an, il en définit les grandes orientations,
+  ainsi que les  moyens humains et budgétaires à mobiliser. Il prend connaissance
+  de l’avancement des  missions et de la progression des indicateurs  de  pilotage
+  du [programme TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/),
+  décide des inflexions nécessaires, et soumet ses conclusions au Gouvernement. Retrouvez
+  ici les comptes-rendus de ces comités.
 une:
   image: "/uploads/fiches-csic_fille.png"
   alternative-textuel: 
@@ -70,4 +70,4 @@ ministeres:
 layout: avis-conformes
 ---
 
-*Le CSIC est composé des secrétaires généraux des ministères, du directeur des services administratifs et financiers des services du Premier ministre, du directeur général des SIC du ministère de la défense, du directeur du budget, du directeur général de l’administration et de la fonction publique, du directeur du service des achats de l’Etat, et du directeur de l’agence nationale de sécurité du système d’information.*
+Présidé  par  la  secrétaire  générale  du  Gouvernement  (SGG)  et  animé  par  le  directeur  interministériel  du  numérique  (DINUM),  le  COSINUM  réunit  les secrétaires généraux de tous les ministères et des directeurs du budget  (DB),  de  la  transformation  publique  (DITP),  de  l’administration  et  de  la  fonction  publique  (DGAFP),  des  achats  de  l’État  (DAE)  et  de  la  sécurité  des  systèmes d’information (ANSSI).
