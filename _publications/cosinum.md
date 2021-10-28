@@ -16,27 +16,13 @@ ministeres:
   - avis:
     - description: 
       file: "/uploads/CR_COSINUM_decembre2020.pdf"
-      titre: Cloud (« informatique en nuage »)
+      titre: Compte-rendu du COSINUM du 3 décembre 2020
   titre: Décembre 2020
 - annees:
   - avis:
     - description: 
       file: "/uploads/CR_COSINUM_mai2020.pdf"
-      titre: Echanges sur les constats et les propositions majeures du rapport IGF
-        « Les systèmes d’information de l’Etat et leur transformation »
-  - avis:
-    - description: 
-      file: "/uploads/20180517-CSIC-Point_03-Lignes_Strategiques_du_SI_de_l_Etat.pdf"
-      titre: Lignes stratégiques du système d’information de l’Etat
-  - avis:
-    - description: 
-      file: "/uploads/20180517-CSIC-Point_04-Transformation_des_fonctions_numeriques.pdf"
-      titre: Transformation des fonctions numériques et informatiques dans l’Etat
-  - avis:
-    - description: 
-      file: "/uploads/20180517-CSIC-Point_05-TMSI-MIE.PDF"
-      titre: Téléphonie mobile sécurisée interministérielle et messagerie instantanée
-        de l’Etat
+      titre: Compte-rendu du COSINUM du 28 mai 2020
   titre: Mai 2020
 layout: avis-conformes
 ---
