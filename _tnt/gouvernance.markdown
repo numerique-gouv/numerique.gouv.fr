@@ -16,8 +16,27 @@ Présidé par la ministre de la Transformation et de la Fonction publiques qui a
 
 Dans le cadre de France Relance, il assure le pilotage stratégique de l’enveloppe « Transformation numérique des collectivités territoriales » et définit à cet effet les axes prioritaires qui nécessitent d’être soutenus, analyse les indicateurs territoriaux et financiers de consommation des crédits et peut se prononcer sur les montants attribués.
 
-Les membres du comité d’orientation politique :
-XXXXXXXXXXXXXXXXXX
+#### Les membres du comité d’orientation politique :
+**Côté État :**
+* Ministre de la Transformation et de la Fonction publiques
+* Ministre de la Cohésion des territoires et des Relations avec les collectivités territoriales
+* Direction interministérielle du numérique (DINUM)
+* Direction interministérielle de la transformation publique (DITP)
+* Agence nationale de la cohésion des territoires (ANCT)
+
+**Côté collectivités territoriales :**
+* Association des Maires de France (AMF)
+* Assemblée des Départements de France (ADF)
+* Association des Communautés de France (AdCf)
+* France Urbaine
+* Villes de France
+* Association des Maires Ruraux de France (AMRF)
+* Association des Petites Villes de France (APVF)
+* Declic
+* Fédération nationale des collectivités concédantes et régies (FNCCR)
+* Les Interconnectés
+* Avicca (Association des villes et collectivités pour les communications électroniques et l'audiovisuel)
+
 
 ### Un comité de coordination
 Composé de la direction interministérielle du numérique (DINUM), de l’agence nationale de la cohésion des territoires (ANCT), des représentants des principales associations représentatives des collectivités territoriales et des responsables de chaque « groupe projet », ce comité est en charge de l’animation et se réunit trimestriellement. Sous l’autorité du ministère de la Transformation et de la Fonction publiques, la direction interministérielle du numérique assure la direction opérationnelle du programme.
