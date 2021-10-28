@@ -7,7 +7,7 @@ chapeau-text: Le COSINUM est l'instance interministérielle stratégique en mati
   de l’avancement des  missions et de la progression des indicateurs  de  pilotage
   du [programme TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/),
   décide des inflexions nécessaires, et soumet ses conclusions au Gouvernement. Retrouvez
-  ici les comptes-rendus de ces comités.
+  ici les comptes-rendus de ces comités, et prochainement les fiches associées.
 une:
   image: "/uploads/cosinum_pagefille.png"
   alternative-textuel: 
