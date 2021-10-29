@@ -38,3 +38,9 @@ Inverser la logique administrative et aller-vers l’usager pour l’informer de
 En présentiel au Lieu de la Transformation Publique (77 av. de Ségur Paris 15e) pour agents, citoyens et spécifiquement les étudiants en recherche d’un premier emploi ou des jeunes actifs.
 
 [Plus d'informations et inscriptions](https://www.eventbrite.fr/e/billets-atelier-de-reflexion-sur-laccompagnement-des-jeunes-vers-la-vie-active-200197745847?aff=ebdsoporgprofile)
+
+**[Le 10/11 de 10h à 11h30] [Atelier] [Baromètre Numérique de l’Agent]** *Environnement numérique de travail des agents publics : quelles évolutions ?*
+
+Depuis 2019, la Direction interministérielle du numérique (DINUM) déploie le « Baromètre numérique de l’agent » (BNA), l’enquête qui recueille l’avis des agents de l’État sur leur environnement numérique de travail. Cette initiative permet aux administrations centrales et services déconcentrés, d’évaluer la maitrise et la satisfaction qu’ont les agents de leur environnement de travail. Quels enseignements tirons-nous ? Comment l’environnement numérique de travail des agents s’est-il amélioré ? Quelles sont les marges d’amélioration et quelles bonnes pratiques pouvons-nous partager, ensemble, pour le faire évoluer ? 
+
+[Plus d'informations et inscriptions](https://www.eventbrite.fr/e/billets-environnement-numerique-de-travail-des-agents-quelles-evolutions-199693838647)
