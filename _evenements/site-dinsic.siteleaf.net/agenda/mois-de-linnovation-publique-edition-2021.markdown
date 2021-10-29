@@ -45,6 +45,12 @@ Depuis 2019, la Direction interministérielle du numérique (DINUM) déploie le 
 
 [Plus d'informations et inscriptions](https://www.eventbrite.fr/e/billets-environnement-numerique-de-travail-des-agents-quelles-evolutions-199693838647)
 
+**[Le 18/11 de 10h à 12h] [Formation]** *Services publics en ligne : formez-vous à l'accessibilité !*
+
+Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et Le numérique doit permettre d’améliorer la relation entre les citoyens et l’administration à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages. Pour que les administrations prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bonnes personnes, nous proposons une formation Accessibilité.
+
+[Programme et inscriptions](https://design.numerique.gouv.fr/formations/accessibilite/)
+
 **[Le 24/11 de 10h à 11h30] [Atelier] [Programme TNT] [Relance des Territoires]** *Collectivités territoriales : la DINUM et l'ANCT vous présentent leurs outils pour accélérer vos projets de transformation numérique*
 
 Vous êtes une collectivité territoriale et souhaitez lancer ou accélérer des projets de transformation numérique (donnée, démarches en ligne, nouveaux services numériques, etc.) ? Ou identifier des leviers de transformation numérique de vos politiques publiques, en découvrant des projets mis en œuvre dans d’autres collectivités et obtenir leurs retours d’expérience ? Vous souhaitez en savoir plus sur les moyens mis en œuvre par la DINUM et l’ANCT pour soutenir et accélérer vos projets ?
@@ -57,6 +63,9 @@ Cet atelier est l’occasion de vous présenter différents outils opérationnel
 **[Du 24/11 de 10h30 à 12h30] [Table ronde]** *Travail en mode hybride, et maintenant ?*
 
 Le télétravail s’installe désormais de façon pérenne dans les organisations et invite les collectifs à s’organiser en mode hybride, à distance et sur site : quelle nouvelle organisation du travail induite ? Quelle transformation des pratiques de travail ? Quels défis attendent les organisations ? L’événement se tiendra sous forme d’une table ronde regroupant des praticiens menant ou ayant menés des transformations des modes et pratiques de travail. 
+
+[Plus d'informations](https://www.modernisation.gouv.fr/mois-de-linnovation-publique/travail-en-mode-hybride-et-maintenant)
+
 **
 [Le 25/11 de 9h à 17h30] [Journée Portes Ouvertes]** *A la découverte de la mission Transfo de la DINUM*
 
@@ -71,3 +80,8 @@ Le programme souhaite soutenir davantage de projets portés au sein des collecti
 
 [Plus d'informations et inscriptions](https://bo-modernisation2021.bercy.actimage.net/mois-de-linnovation-publique/les-entrepreneurs-dinteret-general-vous-aident-porter-un-projet)
 
+**[Le 30/11 de 10h à 12h] [Formation]** *Services publics en ligne : formez-vous au design !*
+
+Le numérique doit permettre d’améliorer la relation entre les citoyens et l’administration à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages. Pour que les administrations prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bonnes personnes, nous proposons une formation Design.
+
+[Programme et inscriptions](https://design.numerique.gouv.fr/formations/design/)
