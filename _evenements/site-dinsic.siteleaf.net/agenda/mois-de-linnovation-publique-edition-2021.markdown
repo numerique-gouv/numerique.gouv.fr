@@ -53,3 +53,21 @@ Cet atelier est l’occasion de vous présenter différents outils opérationnel
 
 * [Découvrir le programme ](https://bo-modernisation2021.bercy.actimage.net/mois-de-linnovation-publique/collectivites-territoriales-la-dinum-et-lanct-vous-presentent-leurs)
 * [Inscriptions](https://framaforms.org/mois-de-linnovation-publique-dinum-anct-1634713931)
+
+**[Du 24/11 de 10h30 à 12h30] [Table ronde]** *Travail en mode hybride, et maintenant ?*
+
+Le télétravail s’installe désormais de façon pérenne dans les organisations et invite les collectifs à s’organiser en mode hybride, à distance et sur site : quelle nouvelle organisation du travail induite ? Quelle transformation des pratiques de travail ? Quels défis attendent les organisations ? L’événement se tiendra sous forme d’une table ronde regroupant des praticiens menant ou ayant menés des transformations des modes et pratiques de travail. 
+**
+[Le 25/11 de 9h à 17h30] [Journée Portes Ouvertes]** *A la découverte de la mission Transfo de la DINUM*
+
+Vous souhaitez être éclairé ou orienté sur les sujets relatifs au numérique pour vous aider à transformer votre organisation (données, démarches en ligne, innovation, produits numériques, etc.) ? Vous souhaitez en savoir plus sur les moyens d’actions de la DINUM pour accélérer le déploiement de vos politiques publiques grâce au numérique ? Nous vous proposons une journée Portes ouvertes sur le site de Ségur, afin de rencontrer l’équipe Transfo, découvrir ses missions et partager vos grands enjeux de transformation numérique.
+
+[Agents, inscription obligatoire](https://www.eventbrite.fr/e/billets-portes-ouvertes-a-la-decouverte-de-la-mission-transfo-de-la-dinum-199703196637)
+
+**[Le 25/11 de 14h à 15h] [Appel à projets]** *Les entrepreneurs d’intérêt général vous aident à porter un projet d’innovation numérique dans votre territoire*
+
+Le programme Entrepreneurs d’intérêt général lancera mi-janvier 2022 son prochain appel à projets à destination des administrations publiques sur tous les territoires, désireuses de mener un projet numérique innovant. 
+Le programme souhaite soutenir davantage de projets portés au sein des collectivités territoriales et services déconcentrés de l’Etat. Participez au webinaire pour découvrir le programme et échanger autour de cet appel à projets. 
+
+[Plus d'informations et inscriptions](https://bo-modernisation2021.bercy.actimage.net/mois-de-linnovation-publique/les-entrepreneurs-dinteret-general-vous-aident-porter-un-projet)
+
