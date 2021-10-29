@@ -21,3 +21,20 @@ champs_informations:
 A l’occasion de [l’édition 2021 du mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-de-linnovation-publique) organisée par la DITP, les équipes de la DINUM vous propose une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, table ronde, retours d’expériences, appel à projets, offres d’accompagnements et webinaires.
 
 A vos agendas : calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique
+
+**
+[Le 03/11 de 14h à 18h] [Serious Games] ** *Des Serious Games pour la réflexion, la coopération et l'apprentissage*
+
+Vous avez besoin de solutions à un problème ? Rencontrez des auteurs et débattez de vos idées pour contribuer à traiter par le jeu votre problème. Venez découvrir des jeux, rencontrez les auteurs et le retour d’expériences de la direction de l'Ecole de Guerre.
+
+Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique | 77 Av. de Ségur 75015 Paris 
+
+[Programme et inscriptions](https://www.eventbrite.fr/e/billets-des-serious-games-pour-la-reflexion-la-cooperation-et-lapprentissage-196951596527)
+
+**[Le 08/11 de 14h à 16h] [Atelier]** *Comment l’administration peut-elle aider proactivement les jeunes dans leur entrée dans la vie active ?*
+
+Inverser la logique administrative et aller-vers l’usager pour l’informer de ses droits : c’est le cadre du programme administration proactive qui mobilise de nombreuses administration. Sur la base des travaux d’investigation de la DINUM, nous chercherons à identifier, avec les jeunes mobilisés pour l’atelier, les moments de leur parcours d’entrée dans la vie active où ils auraient eu le plus besoin d’un soutien proactif de l’administration. 
+
+En présentiel au Lieu de la Transformation Publique (77 av. de Ségur Paris 15e) pour agents, citoyens et spécifiquement les étudiants en recherche d’un premier emploi ou des jeunes actifs.
+
+[Plus d'informations et inscriptions](https://www.eventbrite.fr/e/billets-atelier-de-reflexion-sur-laccompagnement-des-jeunes-vers-la-vie-active-200197745847?aff=ebdsoporgprofile)
