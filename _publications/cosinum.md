@@ -1,6 +1,7 @@
 ---
 title: Les comités d'orientation stratégique interministériels du numérique (COSINUM)
 permalink: "/publications/cosinum/"
+published: false
 chapeau-text: Le COSINUM est l'instance interministérielle stratégique en matière
   de numérique de l’État. Deux fois par an, il en définit les grandes orientations,
   ainsi que les  moyens humains et budgétaires à mobiliser. Il prend connaissance
