@@ -32,7 +32,7 @@ Tous les « groupes projets » sont ouverts aux agents ou élus de collectivité
 * **Objectif :** Donner aux collectivités une visibilité sur les chantiers à venir en termes de dématérialisation et améliorer la prise en compte de leurs conséquences.
 * **Copilotes :** la direction interministérielle du numérique et l’association Déclic.
 
-<a href="https://airtable.com/shreNhI841LrZpUyF" class="button">S’inscrire pour participer à ce groupe projet</a></p>
+<p><a href="https://airtable.com/shreNhI841LrZpUyF" class="button">S’inscrire pour participer à ce groupe projet</a></p>
 
 #### Groupe projet 2 : Sensibilisation des élus et cadres dirigeants des collectivités
 * **Objectif :** Construire une offre de sensibilisation, d’acculturation et de formation portant sur les enjeux de la transformation numérique à destination des élus et des cadres dirigeants des collectivités.
