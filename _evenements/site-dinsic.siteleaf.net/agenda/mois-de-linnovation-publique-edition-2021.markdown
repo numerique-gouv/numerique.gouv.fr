@@ -57,7 +57,7 @@ Depuis 2019, la Direction interministérielle du numérique (DINUM) déploie le 
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et Le numérique doit permettre d’améliorer la relation entre les citoyens et l’administration à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages. Pour que les administrations prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bonnes personnes, nous proposons une formation Accessibilité.
 
-<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-environnement-numerique-de-travail-des-agents-quelles-evolutions-199693838647">Programme et inscriptions</a></p></div>
+<div class="lien-important"><p><a href="https://design.numerique.gouv.fr/formations/accessibilite/">Programme et inscriptions</a></p></div>
 
 
 <p style="margin-top: 30px"><b>[Le mercredi 24/11 de 10h à 11h30] [Atelier] [Transformation Numérique des Territoires]</b> <i>Collectivités territoriales : la DINUM et l'ANCT vous présentent leurs outils pour accélérer vos projets de transformation numérique</i></p>
