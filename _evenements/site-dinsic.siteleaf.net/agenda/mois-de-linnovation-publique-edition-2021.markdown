@@ -13,6 +13,7 @@ une-ou-diaporama:
 - image: "/uploads/2021_11_02_Visuel_Agenda_MIP.png"
 event_start_date: 2021-11-02 00:00:00 +01:00
 event_end_date: 2021-11-30 00:00:00 +01:00
+lieu: En ligne et en présentiel
 champs_informations:
 - intitule: Programme
   contenu: Détail du mois de l'innovation publique
