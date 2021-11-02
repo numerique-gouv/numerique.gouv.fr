@@ -47,10 +47,6 @@ publications:
   url: "/publications/principes-mutualisation-si-etat/"
   une-ou-diaporama:
   - image: "/uploads/principes-mutualisation-si.JPG"
-- title: Programme DCANT
-  url: "/publications/programme-dcant/"
-  une-ou-diaporama:
-  - image: "/uploads/2020_12_16_Publications_1188x802_DCANT.jpg"
 - title: Référentiel général de sécurité (RGS)
   url: "/publications/referentiel-general-de-securite/"
   une-ou-diaporama:
