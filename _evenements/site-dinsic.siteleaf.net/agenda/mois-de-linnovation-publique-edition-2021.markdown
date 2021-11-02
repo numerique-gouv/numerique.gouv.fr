@@ -35,7 +35,7 @@ Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu 
 
 Inverser la logique administrative et aller-vers l’usager pour l’informer de ses droits : c’est le cadre du programme administration proactive qui mobilise de nombreuses administration. Sur la base des travaux d’investigation de la DINUM, nous chercherons à identifier, avec les jeunes mobilisés pour l’atelier, les moments de leur parcours d’entrée dans la vie active où ils auraient eu le plus besoin d’un soutien proactif de l’administration. 
 
-En présentiel au Lieu de la Transformation Publique (77 av. de Ségur Paris 15e) pour agents, citoyens et spécifiquement les étudiants en recherche d’un premier emploi ou des jeunes actifs.
+En présentiel au Lieu de la transformation publique pour agents, citoyens et spécifiquement les étudiants en recherche d’un premier emploi ou des jeunes actifs | 77 Av. de Ségur 75015 Paris 
 
 [Plus d'informations et inscriptions](https://www.eventbrite.fr/e/billets-atelier-de-reflexion-sur-laccompagnement-des-jeunes-vers-la-vie-active-200197745847?aff=ebdsoporgprofile)
 
