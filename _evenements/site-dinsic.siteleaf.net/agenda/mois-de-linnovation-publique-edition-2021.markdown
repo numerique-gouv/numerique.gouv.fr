@@ -23,8 +23,7 @@ A l’occasion de [l’édition 2021 du mois de l’innovation publique](https:/
 
 A vos agendas : calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique
 
-**
-[Le 03/11 de 14h à 18h] [Serious Games] ** *Des Serious Games pour la réflexion, la coopération et l'apprentissage*
+**[Le 03/11 de 14h à 18h] [Serious Games] ** *Des Serious Games pour la réflexion, la coopération et l'apprentissage*
 
 Vous avez besoin de solutions à un problème ? Rencontrez des auteurs et débattez de vos idées pour contribuer à traiter par le jeu votre problème. Venez découvrir des jeux, rencontrez les auteurs et le retour d’expériences de la direction de l'Ecole de Guerre.
 
@@ -65,10 +64,9 @@ Cet atelier est l’occasion de vous présenter différents outils opérationnel
 
 Le télétravail s’installe désormais de façon pérenne dans les organisations et invite les collectifs à s’organiser en mode hybride, à distance et sur site : quelle nouvelle organisation du travail induite ? Quelle transformation des pratiques de travail ? Quels défis attendent les organisations ? L’événement se tiendra sous forme d’une table ronde regroupant des praticiens menant ou ayant menés des transformations des modes et pratiques de travail. 
 
-[Plus d'informations](https://www.modernisation.gouv.fr/mois-de-linnovation-publique/travail-en-mode-hybride-et-maintenant)
+[Plus d'informations et inscriptions](https://www.modernisation.gouv.fr/mois-de-linnovation-publique/travail-en-mode-hybride-et-maintenant)
 
-**
-[Le 25/11 de 9h à 17h30] [Journée Portes Ouvertes]** *A la découverte de la mission Transfo de la DINUM*
+**[Le 25/11 de 9h à 17h30] [Journée Portes Ouvertes]** *A la découverte de la mission Transfo de la DINUM*
 
 Vous souhaitez être éclairé ou orienté sur les sujets relatifs au numérique pour vous aider à transformer votre organisation (données, démarches en ligne, innovation, produits numériques, etc.) ? Vous souhaitez en savoir plus sur les moyens d’actions de la DINUM pour accélérer le déploiement de vos politiques publiques grâce au numérique ? Nous vous proposons une journée Portes ouvertes sur le site de Ségur, afin de rencontrer l’équipe Transfo, découvrir ses missions et partager vos grands enjeux de transformation numérique.
 
