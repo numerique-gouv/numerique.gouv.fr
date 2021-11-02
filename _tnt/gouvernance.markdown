@@ -7,7 +7,7 @@ menu:
   weight: 20
 une:
   image: "/uploads/TNT_Bandeau_Page-fille.png"
-style: |
+style: |+
   .partenaires-collterr {
     margin: auto;
     display: flex;
@@ -15,9 +15,7 @@ style: |
     justify-content: space-around; flex-wrap: wrap;
     gap: 10px 20px;
   }
-  .partenaires-collterr >div {
-  flex : 0 0 25%;
-  }
+
 layout: tnt
 ---
 
