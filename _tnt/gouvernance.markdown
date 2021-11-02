@@ -15,6 +15,9 @@ style: |
     justify-content: space-around; flex-wrap: wrap;
     gap: 10px 20px;
   }
+  .partenaires-collterr >div {
+  flex : 0 0 25%;
+  }
 layout: tnt
 ---
 
@@ -36,11 +39,11 @@ Dans le cadre de France Relance, il assure le pilotage stratégique de l’envel
 <div class="partenaires-collterr">
   <div><img src="/uploads/Logo_AMF.jpg" alt="Association des Maires de France (AMF)" width="180" align="middle"></div>
   <div><img src="/uploads/Logo_ADF.jpg" alt="Assemblée des Départements de France (ADF)" width="100" align="middle"></div>
-  <div><img src="/uploads/Log_AdCF.jpg" alt="Association des Communautés de France (AdCf)" width="80" align="middle"></div>
+  <div><img src="/uploads/Log_AdCF.jpg" alt="Association des Communautés de France (AdCf)" width="120" align="middle"></div>
   <div><img src="/uploads/Logo_France-Urbaine.jpg" alt="France Urbaine" width="130" align="middle"></div>
   <div><img src="/uploads/Logo_Ville-de-france.jpg" alt="Villes de France" width="110" align="middle"></div>
   <div><img src="/uploads/Logo_AMRF.jpg" alt="Association des Maires Ruraux de France (AMRF)" width="130" align="middle"></div>
-  <div><img src="/uploads/Logo_APVF.jpg" alt="Association des Petites Villes de France (APVF)" width="130" align="middle"></div>
+  <div><img src="/uploads/Logo_APVF.jpg" alt="Association des Petites Villes de France (APVF)" width="100" align="middle"></div>
   <div><img src="/uploads/Logo_Declic.png" alt="Declic" width="120" align="middle"></div>
   <div><img src="/uploads/Logo_FNCCR.jpg" alt="Fédération nationale des collectivités concédantes et régies (FNCCR) - Services publics locaux de l'énergie, de l'eau, de l'environnement et des e-communications" width="120" align="middle"></div>
   <div><img src="/uploads/Logo_lesInterconnectes.png" alt="Les Interconnectés" width="170" align="middle"></div>
