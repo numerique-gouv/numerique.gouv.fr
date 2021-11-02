@@ -32,17 +32,6 @@ Dans le cadre de France Relance, il assure le pilotage stratégique de l’envel
 * Agence nationale de la cohésion des territoires (ANCT)
 
 **Côté collectivités territoriales :**
-* Association des Maires de France (AMF)
-* Assemblée des Départements de France (ADF)
-* Association des Communautés de France (AdCf)
-* France Urbaine
-* Villes de France
-* Association des Maires Ruraux de France (AMRF)
-* Association des Petites Villes de France (APVF)
-* Declic
-* Fédération nationale des collectivités concédantes et régies (FNCCR)
-* Les Interconnectés
-* Avicca (Association des villes et collectivités pour les communications électroniques et l'audiovisuel)
 
 <div class="partenaires-collterr">
   <div><img src="/uploads/Logo_AMF.jpg" alt="Association des Maires de France (AMF)" width="180" align="middle"></div>
