@@ -43,7 +43,7 @@ Inverser la logique administrative et aller-vers l’usager pour l’informer de
 * Pour les agents, citoyens et spécifiquement les étudiants en recherche d’un premier emploi ou des jeunes actifs 
 * 77 Av. de Ségur 75015 Paris 
 
-<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-des-serious-games-pour-la-reflexion-la-cooperation-et-lapprentissage-196951596527">Plus d'informations et inscriptions</a></p></div>
+<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-atelier-de-reflexion-sur-laccompagnement-des-jeunes-vers-la-vie-active-200197745847?aff=ebdsoporgprofile">Plus d'informations et inscriptions</a></p></div>
 
 
 <p style="margin-top: 30px"><b>[Le mercredi 10/11 de 10h à 11h30] [Atelier]</b> <i>[Baromètre Numérique de l’Agent] Environnement numérique de travail des agents publics : quelles évolutions ?</i></p>
