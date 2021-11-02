@@ -29,7 +29,8 @@ A l’occasion de [l’édition 2021 du mois de l’innovation publique](https:/
 
 Vous avez besoin de solutions à un problème ? Rencontrez des auteurs et débattez de vos idées pour contribuer à traiter par le jeu votre problème. Venez découvrir des jeux, rencontrez les auteurs et le retour d’expériences de la direction de l'Ecole de Guerre.
 
-Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique | 77 Av. de Ségur 75015 Paris 
+* Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
+* 77 Av. de Ségur 75015 Paris 
 
 [Programme et inscriptions](https://www.eventbrite.fr/e/billets-des-serious-games-pour-la-reflexion-la-cooperation-et-lapprentissage-196951596527)
 
@@ -38,7 +39,9 @@ Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu 
 
 Inverser la logique administrative et aller-vers l’usager pour l’informer de ses droits : c’est le cadre du programme administration proactive qui mobilise de nombreuses administration. Sur la base des travaux d’investigation de la DINUM, nous chercherons à identifier, avec les jeunes mobilisés pour l’atelier, les moments de leur parcours d’entrée dans la vie active où ils auraient eu le plus besoin d’un soutien proactif de l’administration. 
 
-En présentiel au Lieu de la transformation publique pour agents, citoyens et spécifiquement les étudiants en recherche d’un premier emploi ou des jeunes actifs | 77 Av. de Ségur 75015 Paris 
+* En présentiel au Lieu de la transformation publique 
+* Agents, citoyens et spécifiquement les étudiants en recherche d’un premier emploi ou des jeunes actifs 
+* 77 Av. de Ségur 75015 Paris 
 
 [Plus d'informations et inscriptions](https://www.eventbrite.fr/e/billets-atelier-de-reflexion-sur-laccompagnement-des-jeunes-vers-la-vie-active-200197745847?aff=ebdsoporgprofile)
 
@@ -70,6 +73,9 @@ Cet atelier est l’occasion de vous présenter différents outils opérationnel
 <p style="margin-top: 30px"><b>[Du 24/11 de 10h30 à 12h30] [Table ronde]</b> <i>Travail en mode hybride, et maintenant ?</i></p>
 
 Le télétravail s’installe désormais de façon pérenne dans les organisations et invite les collectifs à s’organiser en mode hybride, à distance et sur site : quelle nouvelle organisation du travail induite ? Quelle transformation des pratiques de travail ? Quels défis attendent les organisations ? L’événement se tiendra sous forme d’une table ronde regroupant des praticiens menant ou ayant menés des transformations des modes et pratiques de travail. 
+
+* Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
+* 77 Av. de Ségur 75015 Paris 
 
 [Plus d'informations et inscriptions](https://www.modernisation.gouv.fr/mois-de-linnovation-publique/travail-en-mode-hybride-et-maintenant)
 
