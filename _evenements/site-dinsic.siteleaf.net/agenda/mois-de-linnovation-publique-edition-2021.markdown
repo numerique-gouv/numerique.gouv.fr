@@ -10,6 +10,8 @@ chapeau-text: Du 2 au 30 novembre 2021, participez au mois de l’innovation pub
   organisée par la DITP. A cette occasion les équipes de la DINUM propose une série
   d’évènements en ligne et en présentiel !
 categorie: Mois de l'innovation publique
+une-ou-diaporama:
+- image: "/uploads/2021_11_02_Visuel_Agenda_MIP.png"
 event_start_date: 2021-11-02 00:00:00 +01:00
 event_end_date: 2021-11-30 00:00:00 +01:00
 champs_informations:
