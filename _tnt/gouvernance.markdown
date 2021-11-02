@@ -2,7 +2,6 @@
 title: Gouvernance
 date: 2021-10-08 10:03:00 +02:00
 permalink: "/services/tnt/gouvernance/"
-published: false
 menu:
   title: Gouvernance
   weight: 20
