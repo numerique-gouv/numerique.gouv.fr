@@ -23,7 +23,7 @@ A l’occasion de [l’édition 2021 du mois de l’innovation publique](https:/
 
 A vos agendas : calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique
 
-**[Le 03/11 de 14h à 18h] [Serious Games] ** *Des Serious Games pour la réflexion, la coopération et l'apprentissage*
+**[Le 03/11 de 14h à 18h] [Serious Games]** *Des Serious Games pour la réflexion, la coopération et l'apprentissage*
 
 Vous avez besoin de solutions à un problème ? Rencontrez des auteurs et débattez de vos idées pour contribuer à traiter par le jeu votre problème. Venez découvrir des jeux, rencontrez les auteurs et le retour d’expériences de la direction de l'Ecole de Guerre.
 
