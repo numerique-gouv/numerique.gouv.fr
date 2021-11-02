@@ -2,8 +2,6 @@
 title: 'Rapport : Évaluation des besoins de l’État en compétences et expertises en
   matière de donnée'
 date: 2021-09-24 20:08:00 +02:00
-une-ou-diaporama:
-- image: "/uploads/2021_09_27_1635x345_Bandeau-Publication_INSEE.png"
 style: |-
   .button {
   background-color: #0d5c98;
@@ -17,16 +15,18 @@ style: |-
   margin: 4px 2px;
   cursor: pointer;
   }
+une:
+  image: "/uploads/Bandeau-Publication_rapport-INSEE-dinum.png"
 layout: rgaa
 ---
 
-<div align="center"><a href="/uploads/RAPPORT-besoins-competences-donnee.pdf" class="button"><b>Télécharger</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/RAPPORT-besoins-competences-donnee.pdf" class="button"><b>Télécharger le rapport (pdf, 1,2 Mo)</b></a></div>
 
-2021 s’est démarquée comme une année inégalée en matière de politique publique de la donnée : démonstration « grand public » de l’utilité de l’open data et du pilotage par la donnée à l’aune de la crise sanitaire, ambition gouvernementale renouvelée par [la circulaire du Premier ministre du 27 avril 2021](https://www.legifrance.gouv.fr/circulaire/id/45162), élaboration d’une feuille de route et mise en place d’ [Administrateurs des données](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees/) dans chaque ministère, multiplication [des projets d’amélioration des services publics par la donnée](https://www.numerique.gouv.fr/actualites/france-relance-laureats-volet-developper-utilisation-de-la-donnee/) dans toutes les administrations…
+2021 s’est démarquée comme une année inégalée en matière de politique publique de la donnée : utilité de l’open data et du pilotage par la donnée à l’aune de la crise sanitaire, ambition gouvernementale renouvelée par [la circulaire du Premier ministre du 27 avril 2021](https://www.legifrance.gouv.fr/circulaire/id/45162), élaboration d’une feuille de route et mise en place d’[administrateurs des données, des algorithmes et des codes sources (AMDAC)](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees/) dans chaque ministère, multiplication [des projets d’amélioration des services publics par la donnée](https://www.numerique.gouv.fr/actualites/france-relance-laureats-volet-developper-utilisation-de-la-donnee/) dans toutes les administrations… **La ministre de la Transformation et de la Fonction publiques a présenté le 27 septembre 2021 [les quinze feuilles de route ministérielles en matière de données publiques](numerique.gouv.fr/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/).**
 
 Dans ce contexte de place croissante de la donnée dans les stratégies, organisations et recrutements publics, il est apparu indispensable de disposer d’une évaluation qualitative et quantitative des besoins de compétences et d’expertise en la matière, ainsi que des réponses à y apporter à court et moyen terme.
 
-**À la demande du directeur interministériel du numérique (DINUM) et du directeur général de l’Institut de la statistique et des études économiques (INSEE), une mission a été conduite** entre février et juin 2021 par une **équipe conjointe** réunissant des représentants des deux administrations, et leur rapport est aujourd’hui **rendu public.**
+**Une mission a été conduite** entre février et juin 2021 par une **équipe conjointe** réunissant des représentants de la direction interministérielle du numérique (DINUM) et du directeur général de l’Institut de la statistique et des études économiques (INSEE). Leur rapport, remis à la ministre de la Transformation et de la Fonction publiques, est aujourd’hui **rendu public.**
 
 Les résultats de ces travaux viennent alimenter directement la feuille de route ministérielle en matière de données, algorithmes et codes sources du ministère de la transformation et de la fonction publiques : une série des recommandations ont d’ores et déjà été intégrées au plan d’action. Ce rapport nourrira par ailleurs la mission relative aux corps techniques lancée par le Premier ministre.
 

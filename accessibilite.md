@@ -33,18 +33,20 @@ Malgré le travail de mise en accessibilité effectué, certains contenus, list�
 
 #### Dérogations pour charge disproportionnée
 {: .margin-top-2 .margin-bottom-1}
-Certains contenus anglais ne peuvent pas être signalés comme tels (par exemple « <span lang="en">meetup</span> ») à certains endroits (titres), car le code HTML est alors visible dans le <span lang="en">title</span> de la page. La correction de ce point nécessiterait des travaux correctifs importants pour un impact utilisateur ici assez faible.
+Certains termes anglais ne peuvent pas être signalés comme tels (par exemple « <span lang="en">meetup</span> ») à certains endroits comme les titres, car le code html est alors visible dans le <span lang="en">title</span> de la page. La correction de ce point nécessiterait des travaux correctifs importants pour un impact utilisateur ici assez faible.
 
-Le CMS génère parfois automatiquement quelques balises paragraphes vides superflues. Après des essais infructueux, il a été conclu que corriger ce point ne pourrait être réalisé aisément.
+Le CMS génère parfois automatiquement quelques balises paragraphes vides superflues. Après des essais infructueux, il a été conclu que corriger ce point ne pourrait être réalisé aisément pour un impact utilisateur très faible, le contenu restant accessible et compréhensible.
 
-Des balises <span lang="en">Blockquote</span>  apparaissent, elles sont la transcription html automatique des balises markdown « > » (permettant  des mises en forme, à l’image des div), langage largement utilisé pour l’édition de ce site, et privilégié par le CMS utilisé. L’ajout d’un « role="presentation" » ou une réécriture en html ont été effectués chaque fois que possible. Une automatisation est en cours d’étude. Des balises <span lang="en">blockquote</span> subsistent à ce jour.
+Des balises <span lang="en">blockquote</span>  apparaissent, elles sont la transcription html automatique des balises markdown « > » (permettant des mises en forme, à l’image des div en html), langage largement utilisé pour l’édition de ce site, et privilégié par le CMS utilisé. L’ajout d’un « role="presentation" » ou une réécriture en html ont été effectués chaque fois que possible. Une automatisation est en cours d’étude. Des balises <span lang="en">blockquote</span> subsistent à ce jour sur les anciens contenus.
+
+Sur les pages Recherche, Actualités et Agenda, l’affichage de plus de résultats et le système de filtres présentent des erreurs d'un point de vue accessibilité (contrastes de couleurs, intitulé du bouton en anglais, gestion du focus). Des essais de correction et de surcharge du comportement par défaut ont été menés sans succès, car la fonctionnalité repose sur un service externe non modifiable.  
+
 
 #### Contenus non soumis à l’obligation d’accessibilité
 {: .margin-top-2 .margin-bottom-0}
 ##### Contenus tiers
 {: .margin-top-0 .margin-bottom-1}
 * Le fil d’actualité Twitter sur la page d’Accueil
-* L’affichage de plus de résultats et le système de filtres sur les pages Recherche, Actualités et Agenda (Algolia – des échanges sont en cours avec l’éditeur pour tenter d’optimiser ces points)
 * Player vidéo (<span lang="en">Dailymotion, Youtube</span>)
 
 ### Établissement de cette déclaration d’accessibilité

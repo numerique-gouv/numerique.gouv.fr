@@ -57,7 +57,7 @@ Seul un agent de l’État ou d'un établissement public de l’État peut deman
 
 > #### Comment créer une communauté sur Osmose ?
 > 
-> Contactez <a href="mailto:osmose.dinum@modernisation.gouv.fr?subject=Demande de création de communauté sur Osmose">osmose.dinum@modernisation.gouv.fr</a>.
+> Contactez <a href="mailto:contact@osmose.numerique.gouv.fr?subject=Demande de création de communauté sur Osmose">contact@osmose.numerique.gouv.fr</a>.
 > <br>	
 > 
 > #### Comment rejoindre une communauté sur Osmose ?
@@ -72,7 +72,7 @@ Seul un agent de l’État ou d'un établissement public de l’État peut deman
 > <br>[Visionnez la démonstration vidéo](https://dai.ly/x7u6p1z) réalisée par nos équipes pour animer une communauté en ligne sur Osmose et bien utiliser l'outil.
 > <br>
 > 
-> Pour toute question contactez [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr).
+> Pour toute question écrivez-nous à [contact@osmose.numerique.gouv.fr](mailto:contact@osmose.numerique.gouv.fr).
 {: .noir .encadre}
 
 <br>
@@ -84,6 +84,6 @@ Seul un agent de l’État ou d'un établissement public de l’État peut deman
 {: .lien-important}
 
 <br>
-*À noter : Le point de contact [osmose.dinum@modernisation.gouv.fr](mailto:osmose.dinum@modernisation.gouv.fr) est mis à disposition et opéré par la DINUM dans le cadre de l’ouverture en urgence du service liée à la crise du covid-19 et au télétravail massif,  le mode d’inscription et de support est amené à évoluer en s’appuyant sur un réseau d’administrateurs au sein des directions du numérique ministérielles (DNUM) et des DSI des administrations concernées.*
+*À noter : Le point de contact [contact@osmose.numerique.gouv.fr](mailto:contact@osmose.numerique.gouv.fr) est mis à disposition et opéré par la DINUM en complément des points de contact des directions du numérique ministérielles (DNUM).*
 
 *Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur [**Jalios**](https://www.jalios.com) (données hébergées en France).*
