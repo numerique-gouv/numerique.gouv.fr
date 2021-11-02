@@ -7,6 +7,13 @@ menu:
   weight: 20
 une:
   image: "/uploads/TNT_Bandeau_Page-fille.png"
+style: |
+  .partenaires-collterr {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around; flex-wrap: wrap;
+  }
 layout: tnt
 ---
 
@@ -35,6 +42,19 @@ Dans le cadre de France Relance, il assure le pilotage stratégique de l’envel
 * Fédération nationale des collectivités concédantes et régies (FNCCR)
 * Les Interconnectés
 * Avicca (Association des villes et collectivités pour les communications électroniques et l'audiovisuel)
+
+<div class="partenaires-collterr">
+  <div><img src="https://numerique.gouv.fr/uploads/Logo_AMF.jpg" alt="1" width="100" align="middle"></div>
+  <div><img src="https://numerique.gouv.fr/uploads/Logo_ADF.jpg" alt="1" width="70" align="middle"></div>
+  <div><img src="https://numerique.gouv.fr/uploads/Log_AdCF.jpg" alt="1" width="80" align="middle"></div>
+    <div><img src="https://numerique.gouv.fr/uploads/Logo_France-Urbaine.jpg" alt="1" width="80" align="middle"></div>
+        <div><img src="https://numerique.gouv.fr/uploads/Logo_Ville-de-france.jpg" alt="1" width="80" align="middle"></div>
+                <div><img src="https://numerique.gouv.fr/uploads/Logo_AMRF.jpg" alt="1" width="80" align="middle"></div>
+                                <div><img src="https://numerique.gouv.fr/uploads/Logo_AMRF.jpg" alt="1" width="80" align="middle"></div>
+                           <div><img src="https://numerique.gouv.fr/uploads/Logo_APVF.jpg" alt="1" width="80" align="middle"></div>
+                           <div><img src="https://numerique.gouv.fr/uploads/Logo_Declic.png" alt="1" width="80" align="middle"></div>           <div><img src="https://numerique.gouv.fr/uploads/Logo_FNCCR.jpg" alt="1" width="80" align="middle"></div>
+                           <div><img src="https://numerique.gouv.fr/uploads/Logo_lesInterconnectes.png" alt="1" width="80" align="middle"></div><div><img src="https://numerique.gouv.fr/uploads/Logo_AVICCA.jpg" alt="1" width="80" align="middle"></div>
+</div>
 
 
 ### Un comité de coordination
