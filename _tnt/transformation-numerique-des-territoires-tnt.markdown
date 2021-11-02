@@ -22,6 +22,8 @@ En s’appuyant sur les réussites identifiées du précédent programme, les re
 3. **Accroître la notoriété du fonds « Transformation numérique des collectivités territoriales » du plan France Relance**, encourageant ainsi les collectivités à se saisir des opportunités proposées.
 
 **Pour contacter l’équipe TNT :** [tnt.dinum@modernisation.gouv.fr](mailto:tnt.dinum@modernisation.gouv.fr)
-**Pour suivre l’actualité du programme :**
-* Suivez le fil Twitter du programme TNT
-* Abonnez-vous à sa lettre d’informations
+
+<div class="encadre noir"><p><b>Pour suivre l’actualité du programme :</b>
+<ul><li><a href="https://twitter.com/Programme__TNT">Suivez le fil Twitter du programme TNT</a></li>
+<li><a href="https://twitter.us18.list-manage.com/subscribe?u=995bcff48d7e506101c167107&id=18818b1a25">Abonnez-vous à sa lettre d’informations</a></li></ul></p>
+</div>
