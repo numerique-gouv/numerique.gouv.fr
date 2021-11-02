@@ -48,7 +48,7 @@ Inverser la logique administrative et aller-vers l’usager pour l’informer de
 
 <p style="margin-top: 30px"><b>[Le mercredi 10/11 de 10h à 11h30] [Atelier]</b> <i>[Baromètre Numérique de l’Agent] Environnement numérique de travail des agents publics : quelles évolutions ?</i></p>
 
-Depuis 2019, la Direction interministérielle du numérique (DINUM) déploie le « Baromètre numérique de l’agent » (BNA), l’enquête qui recueille l’avis des agents de l’État sur leur environnement numérique de travail. Cette initiative permet aux administrations centrales et services déconcentrés, d’évaluer la maitrise et la satisfaction qu’ont les agents de leur environnement de travail. Quels enseignements tirons-nous ? Comment l’environnement numérique de travail des agents s’est-il amélioré ? Quelles sont les marges d’amélioration et quelles bonnes pratiques pouvons-nous partager, ensemble, pour le faire évoluer ? 
+Depuis 2019, la Direction interministérielle du numérique (DINUM) déploie le « Baromètre numérique de l’agent » (BNA), l’enquête qui recueille l’avis des agents de l’État sur leur environnement numérique de travail. Cette initiative permet aux administrations centrales et services déconcentrés, d’évaluer la maîtrise et la satisfaction qu’ont les agents de leur environnement de travail. Quels enseignements tirons-nous ? Comment l’environnement numérique de travail des agents s’est-il amélioré ? Quelles sont les marges d’amélioration et quelles bonnes pratiques pouvons-nous partager, ensemble, pour le faire évoluer ? 
 
 <div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-environnement-numerique-de-travail-des-agents-quelles-evolutions-199693838647">Plus d'informations et inscriptions</a></p></div>
 
