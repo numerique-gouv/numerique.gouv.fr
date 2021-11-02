@@ -13,6 +13,7 @@ style: |
     display: flex;
     align-items: center;
     justify-content: space-around; flex-wrap: wrap;
+    gap: 10px 20px;
   }
 layout: tnt
 ---
