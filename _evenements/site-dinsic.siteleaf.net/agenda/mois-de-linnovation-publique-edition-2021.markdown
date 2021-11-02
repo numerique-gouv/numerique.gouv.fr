@@ -43,14 +43,14 @@ Inverser la logique administrative et aller-vers l’usager pour l’informer de
 * Pour les agents, citoyens et spécifiquement les étudiants en recherche d’un premier emploi ou des jeunes actifs 
 * 77 Av. de Ségur 75015 Paris 
 
-<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-des-serious-games-pour-la-reflexion-la-cooperation-et-lapprentissage-196951596527">Programme et inscriptions</a></p></div>
+<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-des-serious-games-pour-la-reflexion-la-cooperation-et-lapprentissage-196951596527">Plus d'informations et inscriptions</a></p></div>
 
 
 <p style="margin-top: 30px"><b>[Le mercredi 10/11 de 10h à 11h30] [Atelier]</b> <i>[Baromètre Numérique de l’Agent] Environnement numérique de travail des agents publics : quelles évolutions ?</i></p>
 
 Depuis 2019, la Direction interministérielle du numérique (DINUM) déploie le « Baromètre numérique de l’agent » (BNA), l’enquête qui recueille l’avis des agents de l’État sur leur environnement numérique de travail. Cette initiative permet aux administrations centrales et services déconcentrés, d’évaluer la maitrise et la satisfaction qu’ont les agents de leur environnement de travail. Quels enseignements tirons-nous ? Comment l’environnement numérique de travail des agents s’est-il amélioré ? Quelles sont les marges d’amélioration et quelles bonnes pratiques pouvons-nous partager, ensemble, pour le faire évoluer ? 
 
-<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-environnement-numerique-de-travail-des-agents-quelles-evolutions-199693838647">Programme et inscriptions</a></p></div>
+<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-environnement-numerique-de-travail-des-agents-quelles-evolutions-199693838647">Plus d'informations et inscriptions</a></p></div>
 
 
 <p style="margin-top: 30px"><b>[Le jeudi 18/11 de 10h à 12h] [Formation]</b> <i>Services publics en ligne : formez-vous à l'accessibilité !</i></p>
@@ -77,7 +77,7 @@ Le télétravail s’installe désormais de façon pérenne dans les organisatio
 * Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 Av. de Ségur 75015 Paris 
 
-<div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/travail-en-mode-hybride-et-maintenant">Programme et inscriptions</a></p></div> 
+<div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/travail-en-mode-hybride-et-maintenant">Plus d'informations et inscriptions</a></p></div> 
 
 
 <p style="margin-top: 30px"><b>[Le jeudi 25/11 de 9h à 17h30] [Journée Portes Ouvertes]</b> <i>A la découverte de la mission Transfo de la DINUM</i></p>
