@@ -32,7 +32,7 @@ Vous avez besoin de solutions à un problème ? Rencontrez des auteurs et débat
 * Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 Av. de Ségur 75015 Paris 
 
-[Programme et inscriptions](https://www.eventbrite.fr/e/billets-des-serious-games-pour-la-reflexion-la-cooperation-et-lapprentissage-196951596527)
+<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-des-serious-games-pour-la-reflexion-la-cooperation-et-lapprentissage-196951596527">Programme et inscriptions</a></p></div>
 
 
 <p style="margin-top: 30px"><b>[Le lundi 08/11 de 14h à 16h] [Atelier]</b> <i>Comment l’administration peut-elle aider proactivement les jeunes dans leur entrée dans la vie active ?</i></p>
@@ -43,21 +43,21 @@ Inverser la logique administrative et aller-vers l’usager pour l’informer de
 * Pour les agents, citoyens et spécifiquement les étudiants en recherche d’un premier emploi ou des jeunes actifs 
 * 77 Av. de Ségur 75015 Paris 
 
-[Plus d'informations et inscriptions](https://www.eventbrite.fr/e/billets-atelier-de-reflexion-sur-laccompagnement-des-jeunes-vers-la-vie-active-200197745847?aff=ebdsoporgprofile)
+<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-des-serious-games-pour-la-reflexion-la-cooperation-et-lapprentissage-196951596527">Programme et inscriptions</a></p></div>
 
 
 <p style="margin-top: 30px"><b>[Le mercredi 10/11 de 10h à 11h30] [Atelier]</b> <i>[Baromètre Numérique de l’Agent] Environnement numérique de travail des agents publics : quelles évolutions ?</i></p>
 
 Depuis 2019, la Direction interministérielle du numérique (DINUM) déploie le « Baromètre numérique de l’agent » (BNA), l’enquête qui recueille l’avis des agents de l’État sur leur environnement numérique de travail. Cette initiative permet aux administrations centrales et services déconcentrés, d’évaluer la maitrise et la satisfaction qu’ont les agents de leur environnement de travail. Quels enseignements tirons-nous ? Comment l’environnement numérique de travail des agents s’est-il amélioré ? Quelles sont les marges d’amélioration et quelles bonnes pratiques pouvons-nous partager, ensemble, pour le faire évoluer ? 
 
-[Plus d'informations et inscriptions](https://www.eventbrite.fr/e/billets-environnement-numerique-de-travail-des-agents-quelles-evolutions-199693838647)
+<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-environnement-numerique-de-travail-des-agents-quelles-evolutions-199693838647">Programme et inscriptions</a></p></div>
 
 
 <p style="margin-top: 30px"><b>[Le jeudi 18/11 de 10h à 12h] [Formation]</b> <i>Services publics en ligne : formez-vous à l'accessibilité !</i></p>
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et Le numérique doit permettre d’améliorer la relation entre les citoyens et l’administration à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages. Pour que les administrations prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bonnes personnes, nous proposons une formation Accessibilité.
 
-[Programme et inscriptions](https://design.numerique.gouv.fr/formations/accessibilite/)
+<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-environnement-numerique-de-travail-des-agents-quelles-evolutions-199693838647">Programme et inscriptions</a></p></div>
 
 
 <p style="margin-top: 30px"><b>[Le mercredi 24/11 de 10h à 11h30] [Atelier] [Transformation Numérique des Territoires]</b> <i>Collectivités territoriales : la DINUM et l'ANCT vous présentent leurs outils pour accélérer vos projets de transformation numérique</i></p>
@@ -77,14 +77,14 @@ Le télétravail s’installe désormais de façon pérenne dans les organisatio
 * Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 Av. de Ségur 75015 Paris 
 
-[Plus d'informations et inscriptions](https://www.modernisation.gouv.fr/mois-de-linnovation-publique/travail-en-mode-hybride-et-maintenant)
+<div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/travail-en-mode-hybride-et-maintenant">Programme et inscriptions</a></p></div> 
 
 
 <p style="margin-top: 30px"><b>[Le jeudi 25/11 de 9h à 17h30] [Journée Portes Ouvertes]</b> <i>A la découverte de la mission Transfo de la DINUM</i></p>
 
 Vous souhaitez être éclairé ou orienté sur les sujets relatifs au numérique pour vous aider à transformer votre organisation (données, démarches en ligne, innovation, produits numériques, etc.) ? Vous souhaitez en savoir plus sur les moyens d’actions de la DINUM pour accélérer le déploiement de vos politiques publiques grâce au numérique ? Nous vous proposons une journée Portes ouvertes sur le site de Ségur, afin de rencontrer l’équipe Transfo, découvrir ses missions et partager vos grands enjeux de transformation numérique.
 
-[Agents, inscription obligatoire](https://www.eventbrite.fr/e/billets-portes-ouvertes-a-la-decouverte-de-la-mission-transfo-de-la-dinum-199703196637)
+<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-portes-ouvertes-a-la-decouverte-de-la-mission-transfo-de-la-dinum-199703196637">Agents, inscription obligatoire</a></p></div> 
 
 
 <p style="margin-top: 30px"><b>[Le jeudi 25/11 de 14h à 15h] [Appel à projets]</b> <i>Les entrepreneurs d’intérêt général vous aident à porter un projet d’innovation numérique dans votre territoire</i></p>
@@ -92,11 +92,11 @@ Vous souhaitez être éclairé ou orienté sur les sujets relatifs au numérique
 Le programme Entrepreneurs d’intérêt général lancera mi-janvier 2022 son prochain appel à projets à destination des administrations publiques sur tous les territoires, désireuses de mener un projet numérique innovant. 
 Le programme souhaite soutenir davantage de projets portés au sein des collectivités territoriales et services déconcentrés de l’Etat. Participez au webinaire pour découvrir le programme et échanger autour de cet appel à projets. 
 
-[Plus d'informations et inscriptions](https://www.modernisation.gouv.fr/mois-de-linnovation-publique/les-entrepreneurs-dinteret-general-vous-aident-porter-un-projet)
+<div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/les-entrepreneurs-dinteret-general-vous-aident-porter-un-projet">Plus d'informations et inscriptions</a></p></div>
 
 
 <p style="margin-top: 30px"><b>[Le mardi 30/11 de 10h à 12h] [Formation]</b> <i>Services publics en ligne : formez-vous au design !</i></p>
 
 Le numérique doit permettre d’améliorer la relation entre les citoyens et l’administration à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages. Pour que les administrations prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bonnes personnes, nous proposons une formation Design.
 
-[Programme et inscriptions](https://design.numerique.gouv.fr/formations/design/)
+<div class="lien-important"><p><a href="https://design.numerique.gouv.fr/formations/design/">Programme et inscriptions</a></p></div>
