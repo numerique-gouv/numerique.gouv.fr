@@ -44,17 +44,19 @@ Dans le cadre de France Relance, il assure le pilotage stratégique de l’envel
 * Avicca (Association des villes et collectivités pour les communications électroniques et l'audiovisuel)
 
 <div class="partenaires-collterr">
-  <div><img src="https://numerique.gouv.fr/uploads/Logo_AMF.jpg" alt="1" width="100" align="middle"></div>
-  <div><img src="https://numerique.gouv.fr/uploads/Logo_ADF.jpg" alt="1" width="70" align="middle"></div>
-  <div><img src="https://numerique.gouv.fr/uploads/Log_AdCF.jpg" alt="1" width="80" align="middle"></div>
-    <div><img src="https://numerique.gouv.fr/uploads/Logo_France-Urbaine.jpg" alt="1" width="80" align="middle"></div>
-        <div><img src="https://numerique.gouv.fr/uploads/Logo_Ville-de-france.jpg" alt="1" width="80" align="middle"></div>
-                <div><img src="https://numerique.gouv.fr/uploads/Logo_AMRF.jpg" alt="1" width="80" align="middle"></div>
-                                <div><img src="https://numerique.gouv.fr/uploads/Logo_AMRF.jpg" alt="1" width="80" align="middle"></div>
-                           <div><img src="https://numerique.gouv.fr/uploads/Logo_APVF.jpg" alt="1" width="80" align="middle"></div>
-                           <div><img src="https://numerique.gouv.fr/uploads/Logo_Declic.png" alt="1" width="80" align="middle"></div>           <div><img src="https://numerique.gouv.fr/uploads/Logo_FNCCR.jpg" alt="1" width="80" align="middle"></div>
-                           <div><img src="https://numerique.gouv.fr/uploads/Logo_lesInterconnectes.png" alt="1" width="80" align="middle"></div><div><img src="https://numerique.gouv.fr/uploads/Logo_AVICCA.jpg" alt="1" width="80" align="middle"></div>
+  <div><img src="/uploads/Logo_AMF.jpg" alt="Association des Maires de France (AMF)" width="100" align="middle"></div>
+  <div><img src="/uploads/Logo_ADF.jpg" alt="Assemblée des Départements de France (ADF)" width="70" align="middle"></div>
+  <div><img src="/uploads/Log_AdCF.jpg" alt="Association des Communautés de France (AdCf)" width="80" align="middle"></div>
+  <div><img src="/uploads/Logo_France-Urbaine.jpg" alt="France Urbaine" width="80" align="middle"></div>
+  <div><img src="/uploads/Logo_Ville-de-france.jpg" alt="Villes de France" width="80" align="middle"></div>
+  <div><img src="/uploads/Logo_AMRF.jpg" alt="Association des Maires Ruraux de France (AMRF)" width="80" align="middle"></div>
+  <div><img src="/uploads/Logo_APVF.jpg" alt="Association des Petites Villes de France (APVF)" width="80" align="middle"></div>
+  <div><img src="/uploads/Logo_Declic.png" alt="Declic" width="80" align="middle"></div>
+  <div><img src="/uploads/Logo_FNCCR.jpg" alt="Fédération nationale des collectivités concédantes et régies (FNCCR) - Services publics locaux de l'énergie, de l'eau, de l'environnement et des e-communications" width="80" align="middle"></div>
+  <div><img src="/uploads/Logo_lesInterconnectes.png" alt="Les Interconnectés" width="80" align="middle"></div>
+  <div><img src="/uploads/Logo_AVICCA.jpg" alt="Avicca (Association des villes et collectivités pour les communications électroniques et l’audiovisuel)" width="80" align="middle"></div>
 </div>
+
 
 
 ### Un comité de coordination
