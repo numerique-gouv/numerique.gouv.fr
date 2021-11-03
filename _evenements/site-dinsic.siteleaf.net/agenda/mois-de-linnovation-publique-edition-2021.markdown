@@ -20,7 +20,7 @@ champs_informations:
   lien: https://www.modernisation.gouv.fr/mois-de-linnovation-publique/programme
 ---
 
-À l’occasion de [l’édition 2021 du mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-de-linnovation-publique) organisée par la DITP, les équipes de la DINUM vous propose une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, table ronde, retours d’expériences, appel à projets, offres d’accompagnements et webinaires.
+À l’occasion de [l’édition 2021 du mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-de-linnovation-publique) organisée par la DITP, les équipes de la DINUM vous proposent une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, table ronde, retours d’expériences, appel à projets, offres d’accompagnements et webinaires.
 
 <p style="margin-bottom: 30px">À vos agendas : calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique</p>
 
