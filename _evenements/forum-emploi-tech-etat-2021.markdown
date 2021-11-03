@@ -15,7 +15,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) organise l
   un jobdating, des ateliers et rencontres en ligne et en présentiel. **Inscriptions
   à partir du 8 novembre !**'
 une-ou-diaporama:
-- image: "/uploads/2021_10_19_VISUEL_AGENDA_FORUM_RECRUTEMENT.png"
+- image: "/uploads/2021_11_03_VISUEL_AGENDA_FORUM_RECRUTEMENT.png"
 event_start_date: 2021-11-29 09:00:00 +01:00
 event_end_date: 2021-12-16 18:00:00 +01:00
 lieu: La grande Crypte
