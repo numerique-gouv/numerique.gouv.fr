@@ -1,33 +1,5 @@
 ---
-title: "Plan d'action logiciels libres et communs numériques"
-date: 2021-11-10 17:00:00 +02:00
-tags:
-- TECH.GOUV
-- transformation numérique
-- logiciels libres
-- communs numériques
-position: 0
-date_de_modification: 10 novembre 2021
-chapeau-text: "Lancé par l’État en novembre 2021, le plan d'action logiciels libres et communs numériques contribue à la transformation numérique du service public avec trois objectifs : mieux connaître et utiliser les logiciels libres et les communs numériques dans l'administration, développer et accompagner l'ouverture des codes sources du secteur public, s'appuyer sur les logiciels libres et open source pour renforcer l'attractivité de l'Etat-employeur auprès des talents du numérique.
-une-ou-diaporama:
-- image: "/uploads/logiciel_libre.png"
-une:
-  image: "/uploads/logiciel_libre.png"
-  alternative-textuelle: Image pour le plan d'action logiciels libres et communs numériques
-style: |
-  .button {
-  background-color: #0d5c98;
-  border: 1px solid white;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-style: normal;
-  margin: 4px 2px;
-  cursor: pointer;
-  }
-layout: rgaa
+title: Plan Action Logiciels Libres Communs Numeriques
 ---
 
 Le plan d’action « logiciels libres et communs numériques » a été conçu à la suite de la publication de la circulaire data n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
