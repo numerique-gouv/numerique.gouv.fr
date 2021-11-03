@@ -74,6 +74,7 @@ Cet atelier est l’occasion de vous présenter différents outils opérationnel
 
 Le télétravail s’installe désormais de façon pérenne dans les organisations et invite les collectifs à s’organiser en mode hybride, à distance et sur site : quelle nouvelle organisation du travail induite ? Quelle transformation des pratiques de travail ? Quels défis attendent les organisations ? L’événement se tiendra sous forme d’une table ronde regroupant des praticiens menant ou ayant menés des transformations des modes et pratiques de travail. 
 
+* Table ronde aux formats distanciel et présentiel
 * Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 Av. de Ségur 75015 Paris 
 
