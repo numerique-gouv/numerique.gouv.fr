@@ -31,10 +31,6 @@ publications:
   url: "/publications/dix-principes"
   une-ou-diaporama:
   - image: "/uploads/Fotolia_48485657_M.JPG"
-- title: Plan d'action logiciels libres et communs numériques
-  url: "/publications/plan-action-logiciels-libres-communs-numeriques"
-  une-ou-diaporama:
-  - image: "/uploads/logiciel_libre.png"
 - title: Panorama des grands projets numériques de l'État
   url: "/publications/panorama-grands-projets-si"
   une-ou-diaporama:
