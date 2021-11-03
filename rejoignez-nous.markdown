@@ -43,7 +43,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A Lyon (69), France
 <br>
 
-* **[Intrapreneur/Intrapreneuse en charge de la messagerie instantanée de l'État - Tchap H/F](https://place-emploi-public.gouv.fr/offre-emploi/intrapreneurintrapreneuse-en-charge-de-la-messagerie-instantanee-de-l-tat---tchap-hf-reference-2021-723293/"Intrapreneur/Intrapreneuse en charge de la messagerie instantanée de l'État - Tchap H/F - Lien externe")**
+* **[Intrapreneur/Intrapreneuse en charge de la messagerie instantanée de l'État - Tchap H/F](https://place-emploi-public.gouv.fr/offre-emploi/intrapreneurintrapreneuse-en-charge-de-la-messagerie-instantanee-de-l-tat---tchap-hf-reference-2021-723293/ "Intrapreneur/Intrapreneuse en charge de la messagerie instantanée de l'État - Tchap H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
