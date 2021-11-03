@@ -31,6 +31,25 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
+* **[Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat-hf-reference-2021-732177/ "Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+<br>Ille et Vilaine (35), France
+<br>
+
+* **[Data scientist senior pour le Lab IA H/F](https://place-emploi-public.gouv.fr/offre-emploi/data-scientist-senior-pour-le-lab-ia-hf-reference-2021-732157/ "Data scientist senior pour le Lab IA H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Architecte technique Résilience RIE – Boucle optique H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-technique-resilience-rie--boucle-optique-hf-reference-2021-728069/ "Architecte technique Résilience RIE – Boucle optique H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+<br>Lyon (69), France
+<br>
+
+* **[Intrapreneur/Intrapreneuse en charge de la messagerie instantanée de l'État - Tchap H/F](https://place-emploi-public.gouv.fr/offre-emploi/intrapreneurintrapreneuse-en-charge-de-la-messagerie-instantanee-de-l-tat---tchap-hf-reference-2021-723293/"Intrapreneur/Intrapreneuse en charge de la messagerie instantanée de l'État - Tchap H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
 
 <!--
 > ### Talents du numérique : l’État recrute !
