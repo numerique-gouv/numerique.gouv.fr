@@ -1,0 +1,73 @@
+---
+title: "Plan d'action logiciels libres et communs numériques"
+date: 2021-11-10 17:00:00 +02:00
+tags:
+- TECH.GOUV
+- transformation numérique
+- logiciels libres
+- communs numériques
+position: 0
+date_de_modification: 10 novembre 2021
+chapeau-text: "Lancé par l’État en novembre 2021, le plan d'action logiciels libres et communs numériques contribue à la transformation numérique du service public avec trois objectifs : mieux connaître et utiliser les logiciels libres et les communs numériques dans l'administration, développer et accompagner l'ouverture des codes sources du secteur public, s'appuyer sur les logiciels libres et open source pour renforcer l'attractivité de l'Etat-employeur auprès des talents du numérique.
+une-ou-diaporama:
+- image: "/uploads/logiciel_libre.png"
+une:
+  image: "/uploads/logiciel_libre.png"
+  alternative-textuelle: Image pour le plan d'action logiciels libres et communs numériques
+style: |
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
+layout: rgaa
+---
+
+Le plan d’action « logiciels libres et communs numériques » a été conçu à la suite de la publication de la circulaire data n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
+
+Il est piloté au sein de la DINUM par un nouveau « pôle d’expertise logiciels libres », constitué au sein du département Etalab.
+
+Ses objectifs sont de mieux utiliser les logiciels libres et les communs numériques dans l’administration, de développer et d’accompagner l’ouverture de ses codes sources et de s’appuyer sur l’open source pour renforcer son attractivité auprès des talents du numérique.
+
+Les actions sont conjointement portées par le pôle d’expertise logiciels libres et les missions LABEL et TALENTS du programme Tech.Gouv. D’autres initiatives portées par la DINUM peuvent également y contribuer ponctuellement (notamment les missions BETA et PILOT).  Le plan et l’avancée de sa mise en œuvre seront publiés sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr).
+
+# Mieux utiliser les logiciels libres et les communs numériques (via la mission LABEL)
+
+1. Référencer des solutions open source et des Entreprises du Numérique Libre de confiance ([catalogue.numerique.gouv.fr](https://catalogue.numerique.gouv.fr)).
+
+2. Référencer les logiciels libres et les communs numériques significativement utilisés dans l'administration et y développer l'échange d'expertise interne ([sill.etalab.gouv.fr](https://sill.etalab.gouv.fr)), en incluant ces actions :
+
+  - Mettre en avant des bibliothèques open source significativement utilisées.
+  - Réutiliser des codes sources développés par d’autres administrations.
+  - Favoriser et accompagner la contribution de l’administration aux codes open source et aux communs numériques qu’elle utilise.
+  - Mener une veille sur les communs numériques logiciels et non logiciels pour détecter des opportunités d’y recourir et d’y contribuer.
+
+3. Faciliter l'accès au marché de support logiciels libres.
+
+# Développer et accompagner l’ouverture des codes sources (via le pôle logiciels libres d’Etalab)
+
+1. Accompagner les administrations dans l'ouverture de leurs codes sources. Aider les
+administrations à mobiliser leurs écosystèmes autour des codes sources publiés.
+
+2. Développer la plateforme [code.gouv.fr](https://code.gouv.fr) :
+
+  - Référencer les codes et les bibliothèques publiés par des administrations.
+  - Valoriser les codes sources ayant un fort potentiel de réutilisation ; construire un inventaire des codes source non publiés mais susceptibles d’être réutilisés.
+  - Mettre en avant les contributions de l’administration à l’écosystème des logiciels libres (solutions et bibliothèques).
+
+3. Animer la communauté des relais interministériels sur le sujet de la publication des codes sources ; maintenir les guides d’ouverture logicielle ; porter les partenariats utiles à l’ouverture logicielle.
+
+# S’appuyer sur l’open source pour renforcer l’attractivité de l’État auprès des talents du numériques (via la mission TALENTS)
+
+1. Animer le réseau d’échange d’information et d’expertise BlueHats ; publier sa lettre d’information.
+
+2. Valoriser les agents contribuant à des logiciels libres ; organiser un événement annuel de « sprint open source » fédérateur.
+
+3. Attirer des experts de l’open source dans l’administration en lien avec les autres actions de la mission TALENTS, notamment en les référençant dans le vivier des talents du numérique.
