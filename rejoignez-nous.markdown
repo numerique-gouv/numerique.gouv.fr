@@ -60,6 +60,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <div class="encadre noir">
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
+<p><strong> Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) </strong></p> 
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/coordinateur-sectoriel-telecoms-hf-reference-2021-736102/" title="Coordinateur sectoriel télécoms H/F - Lien externe">Coordinateur sectoriel télécoms H/F</a></strong><br>Cadre/Catégorie A</li></ul> 
+</div>
+
 <p><strong> Secrétariat Général de la Défense et de la Sécurité Nationale (SGDSN)</strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-maitrise-d-ouvrage-2-postes-reference-2021-557102/" title="Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H - Lien externe">Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H</a></strong><br>Cadre/Catégorie A</li></ul> 
 </div>
