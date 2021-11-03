@@ -51,7 +51,7 @@ Pour participer au forum virtuel, rien de plus simple : **du 8 novembre au 2 dé
 
 ### Le forum physique le 16 décembre 2021 à Paris
 
-Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**, issues de la fonction publique d’État et de collectivités territoriales, proposant plus de 250 postes à pourvoir en région et en Île-de-France.
+Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**, issues de la fonction publique d’État et de collectivités territoriales, proposant plus de 300 postes à pourvoir en région et en Île-de-France.
 
 * Des **espaces d’échanges** seront mis en place pour prolonger en toute confidentialité votre discussion avec un recruteur.
 
