@@ -8,15 +8,15 @@ tags:
 - RH
 - Tech
 chapeau-text: 'La direction interministérielle du numérique (DINUM) organise la 5ème
-  édition du Forum de l’emploi tech de l’Etat : en ligne du 3 au 15 décembre et à
-  Paris le 16 décembre. L’occasion de faire se rencontrer recruteurs du secteur public
-  (ministères, collectivités territoriales…) et candidats professionnels du numérique,
-  issus du secteur public ou du privé. Le Forum sera rythmé par des conférences, un
-  jobdating, des ateliers et rencontres en ligne et en présentiel. **Inscriptions
+  édition du Forum de l’emploi tech de l’Etat : en ligne du 29 novembre au 15 décembre
+  et à Paris le 16 décembre. L’occasion de faire se rencontrer recruteurs du secteur
+  public (ministères, collectivités territoriales…) et candidats professionnels du
+  numérique, issus du secteur public ou du privé. Le Forum sera rythmé par des conférences,
+  un jobdating, des ateliers et rencontres en ligne et en présentiel. **Inscriptions
   à partir du 8 novembre !**'
 une-ou-diaporama:
 - image: "/uploads/2021_10_19_VISUEL_AGENDA_FORUM_RECRUTEMENT.png"
-event_start_date: 2021-12-03 09:00:00 +01:00
+event_start_date: 2021-11-29 09:00:00 +01:00
 event_end_date: 2021-12-16 18:00:00 +01:00
 lieu: La grande Crypte
 adresse: 69 rue Boissière, 75016 PARIS
@@ -35,7 +35,7 @@ Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et cur
 
 <div class="encadre noir"><p style="margin-top: 20px"><b>Créez le service public de demain et rencontrez les recruteurs de l’État en ligne et/ou à Paris !</b></p></div>
 
-### Le forum virtuel du 3 au 15 décembre 2021 en ligne
+### Le forum virtuel du 29 novembre au 15 décembre 2021 en ligne
 
 Vous souhaitez participer à cet événement unique mais vous n’êtes pas à Paris le 16 décembre, vous souhaitez consulter les offres d’emploi dans toute la France, assister aux conférences et au jobdating ? Participez au forum virtuel ! Créez votre profil sur[ notre plateforme en ligne ](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)et déposez-y votre CV.
 
