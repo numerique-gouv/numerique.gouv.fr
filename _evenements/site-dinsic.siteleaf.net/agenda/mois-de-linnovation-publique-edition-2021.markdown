@@ -80,7 +80,7 @@ Le télétravail s’installe désormais de façon pérenne dans les organisatio
 <div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/travail-en-mode-hybride-et-maintenant">Plus d'informations et inscriptions</a></p></div> 
 
 
-<p style="margin-top: 30px"><b>[Le jeudi 25/11 de 9h à 17h30] [Journée Portes Ouvertes]</b> <i>A la découverte de la mission Transfo de la DINUM</i></p>
+<p style="margin-top: 30px"><b>[Le jeudi 25/11 de 9h à 17h30] [Journée Portes Ouvertes]</b> <i>À la découverte de la mission Transfo de la DINUM</i></p>
 
 Vous souhaitez être éclairé ou orienté sur les sujets relatifs au numérique pour vous aider à transformer votre organisation (données, démarches en ligne, innovation, produits numériques, etc.) ? Vous souhaitez en savoir plus sur les moyens d’actions de la DINUM pour accélérer le déploiement de vos politiques publiques grâce au numérique ? Nous proposons à vous, agents publics, une journée Portes ouvertes sur le site de Ségur, afin de rencontrer l’équipe Transfo, découvrir ses missions et partager vos grands enjeux de transformation numérique.
 
