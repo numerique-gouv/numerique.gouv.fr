@@ -6,7 +6,7 @@ categories:
 tags:
 - innovation publique
 chapeau-text: Du 2 au 30 novembre 2021, participez au mois de l’innovation publique
-  organisée par la DITP. À cette occasion les équipes de la DINUM propose une série
+  organisée par la DITP. À cette occasion les équipes de la DINUM proposent une série
   d’évènements en ligne et en présentiel !
 categorie: Mois de l'innovation publique
 une-ou-diaporama:
