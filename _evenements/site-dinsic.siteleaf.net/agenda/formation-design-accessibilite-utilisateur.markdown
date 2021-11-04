@@ -1,5 +1,5 @@
 ---
-title: Musclez vos connaissances en design, accessibilité et recherche utilisateur
+title: Les formations de DesignGouv en design, accessibilité et recherche utilisateur
 date: 2021-11-04 14:20:00 +01:00
 chapeau-text: |-
   Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
