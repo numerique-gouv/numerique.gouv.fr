@@ -1,7 +1,17 @@
 ---
 title: Les formations de DesignGouv en design, accessibilité et recherche utilisateur
 date: 2021-11-04 14:20:00 +01:00
+categories:
+- Formation
+tags:
+- Formation
+- Design
+- accessibilité
+- recherche
+- utilisateur
 chapeau-text: |-
+  ## Musclez vos connaissances en design, accessibilité et recherche utilisateur
+
   Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
 
   Pour que les administrations se posent les bonnes questions aux bons moments, pour qu'elles prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bons interlocuteurs, nous vous proposons trois formations gratuites indispensables :
