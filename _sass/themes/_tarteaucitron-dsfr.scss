@@ -281,6 +281,7 @@ body #tarteaucitronRoot div#tarteaucitronAlertBig {
 /*** Texte du bandeau ***/
 #tarteaucitronDisclaimerAlert {
   margin-bottom: 2rem;
+  font-size: 16px !important;
 }
 
 
@@ -692,16 +693,7 @@ body #tarteaucitronRoot div#tarteaucitronAlertBig {
   left: .375rem;
   opacity: 0;
 }
-//#tarteaucitronRoot .tarteaucitronAllow:not(.tarteaucitronCTAButton)::after,
-//#tarteaucitronRoot .tarteaucitronAllow:not(.tarteaucitronCTAButton)::after,
-//#tarteaucitronRoot .tarteaucitronAllow:not(.tarteaucitronCTAButton)::after,
-//#tarteaucitronRoot .tarteaucitronAllow:not(.tarteaucitronCTAButton)::after, {
-//  left: -0.35rem;
-//}
-//#tarteaucitronRoot .tarteaucitronDeny:not(.tarteaucitronCTAButton):hover::after,
-//#tarteaucitronRoot .tarteaucitronDeny:not(.tarteaucitronCTAButton):active::after {
-//  left: -0.35rem;
-//}
+
 #tarteaucitronRoot .tarteaucitronIsAllowed .tarteaucitronAllow::after {
   opacity: 1;
 }
