@@ -1,4 +1,5 @@
-<script type="text/javascript" src="https://tarteaucitron.io/load.js?domain=numerique.gouv.fr&uuid=a86d8ff1c4c8d37ead14ceacf67ab509a1ebb18f"></script><script>
+<script type="text/javascript" src="https://tarteaucitron.io/load.js?domain=numerique.gouv.fr&uuid=a86d8ff1c4c8d37ead14ceacf67ab509a1ebb18f"></script>
+<script>
   (tarteaucitron.job = tarteaucitron.job || []).push('dailymotion');
   (tarteaucitron.job = tarteaucitron.job || []).push('youtube');
   (tarteaucitron.job = tarteaucitron.job || []).push('twittertimeline');
@@ -8,7 +9,7 @@
     "name": "Twitter",
     "needConsent": true,
     "cookies": ['personalization_id'],
-    "readmoreLink": "",
+    "readmoreLink": "/custom_read_more", // If you want to change readmore link
     "js": function () {
       "use strict";
       !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
@@ -19,6 +20,7 @@
     },
     "fallback": function () {
       "use strict";
+      // Quand l'utilisateur refuse les cookies ou qu'il ne les a pas encore accepté
     }
   };
 
