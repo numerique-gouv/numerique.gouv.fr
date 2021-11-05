@@ -1,6 +1,11 @@
 ---
 title: 'DesignGouv : la formation à l''accessibilité (gratuite) !'
 date: 2021-11-05 11:50:00 +01:00
+categories:
+- Formation
+tags:
+- Formation
+- accessibilité
 chapeau-text: |-
   Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
 
