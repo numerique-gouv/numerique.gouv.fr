@@ -42,7 +42,7 @@ Au programme :
 
 * Des **méthodes et outils**
 
-Pour participer à cette matinée d'échanges, rien de plus simple. Il vous suffit de vous inscrire gratuitement et d'assister à 
+Pour participer, rien de plus simple. Il vous suffit de vous inscrire gratuitement et d'assister à la formation en ligne directement sur la chaîne YouTube de DesignGouv le jour J.
 
 ### 2 autres formations proposées
 
