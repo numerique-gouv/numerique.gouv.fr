@@ -26,20 +26,20 @@ Vous êtes **agents de la  fonction publique ou prestataires impliqués dans la 
 
 Au programme :
 
-* **Immersion**
+* Une **immersion**
 
-* **Un peu d'histoire**
+* Un peu**d'histoire**
 
-* **Démonstration**
+* Une **démonstration**
 
-* **Définition et dispositif légal**
+* Des **définitions** et un **dispositif légal**
 
-* **Prévalence du handicap**
+* Une **prévalence du handicap**
 
-* **Le Référentiel général d'amélioration de l'accessibilité** (RGAA)
+* Le **Référentiel général d'amélioration de l'accessibilité** (RGAA)
 
-* **Méthodes et outils**
+* Des **méthodes et outils**
 
 N'oubliez pas, deux autres formations vous sont proposées : [design](https://design.numerique.gouv.fr/formations/accessibilite/) et [recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) (formulaires distincts). Ces formations auront lieu en direct sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) (avec transcription par vélotypie) et en différé si vous n'êtes pas disponibles à ces dates.
 
-Elles s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Gratuit et opérationnel, [inscrivez-vous](https://design.numerique.gouv.fr/formations/accessibilite/) !
+Elles s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Gratuit et opérationnel, [inscrivez-vous](https://design.numerique.gouv.fr/formations/accessibilite/) dès maintenant !
