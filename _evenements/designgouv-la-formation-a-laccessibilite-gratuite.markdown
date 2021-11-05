@@ -15,7 +15,6 @@ chapeau-text: |-
 une-ou-diaporama:
 - image: "/uploads/designGouv.png"
 event_start_date: 2021-11-18 10:12:00 +01:00
-event_end_date: 2021-11-18 00:00:00 +01:00
 afficher_la_carte: false
 ---
 
