@@ -51,4 +51,4 @@ Pour participer, rien de plus simple. Il vous suffit de vous inscrire gratuiteme
 
 N'oubliez pas, deux autres formations vous sont proposées : [design](https://design.numerique.gouv.fr/formations/accessibilite/) et [recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) (formulaires distincts). Elles auront également lieu en direct sur la chaîne YouTube de DesignGouv (avec transcription par vélotypie) et en différé si vous n'êtes pas disponibles à ces dates.
 
-Ces formations s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Gratuit et opérationnel, inscrivez-vous dès maintenant !
+Ces formations s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Important, gratuit, ludique et opérationnel, inscrivez-vous dès maintenant !
