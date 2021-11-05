@@ -20,9 +20,11 @@ event_end_date: 2021-11-18 00:00:00 +01:00
 
 ## La formation à l'accessibilité
 
-Vous êtes **agents de la  fonction publique ou prestataires impliqués dans la conception des démarches administratives numériques ?** La formation à l’accessibilité a pour objectifs de vous permettre **d’approprier les concepts de l’accessibilité d’un point de vue historique et juridique,** de vous faire **connaitre les obligations et d’identifier les rôles et responsabilités ;** de vous **organiser et disposer d’une boîte à outils…**
+Le jeudi 18 novembre de 10h à 12h, en visio sur la chaîne YouTube de DesignGouv, venez participer à une matinée d’échanges : pourquoi et comment bien prendre en compte les personnes en situation de handicap dans la conception de services publiques numériques.
 
 <div class="encadre noir"><p style="margin-top: 20px"><b>Enrichissez vos connaissances en design, accessibilité et recherche utilisateur à travers trois formations gratuites en ligne !</b></p></div>
+
+Vous êtes **agents de la  fonction publique ou prestataires impliqués dans la conception des démarches administratives numériques ?** La formation à l’accessibilité a pour objectifs de vous permettre **d’approprier les concepts de l’accessibilité d’un point de vue historique et juridique,** de vous faire **connaitre les obligations et d’identifier les rôles et responsabilités ;** de vous **organiser et disposer d’une boîte à outils…**
 
 Au programme :
 
@@ -40,6 +42,9 @@ Au programme :
 
 * Des **méthodes et outils**
 
+Pour participer à cette matinée d'échanges, rien de plus simple. Il vous suffit de vous inscrire gratuitement et d'assister à 
+
+### 2 autres formations proposées
 
 N'oubliez pas, deux autres formations vous sont proposées : [design](https://design.numerique.gouv.fr/formations/accessibilite/) et [recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) (formulaires distincts). Elles auront lieu en direct sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) (avec transcription par vélotypie) et en différé si vous n'êtes pas disponibles à ces dates.
 
