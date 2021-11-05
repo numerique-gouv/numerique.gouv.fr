@@ -33,18 +33,15 @@ champs_informations:
 - intitule: Formation à l'accessibilité
   contenu: 'Pourquoi et comment bien prendre en compte les personnes en situation
     de handicap dans la conception de services publiques numériques. '
-  date: 2021-11-18 10:00:00 +01:00
   lien: https://design.numerique.gouv.fr/formations/accessibilite/
 - intitule: Formation au design
   contenu: 'Connaître les principes du design centré sur les besoins des usagers et
     des citoyens (UX) et les moyens de leur mise en œuvre pour la conception de services
     publiques numériques. '
-  date: 2010-03-30 11:00:00 +02:00
   lien: https://design.numerique.gouv.fr/formations/design/
 - intitule: Formation à la recherche utilisateur
   contenu: 'Pour éviter que les usagers et citoyens soient perdus dans vos services
     publics en ligne, lancez les recherches ! '
-  date: 2021-12-09 10:00:00 +01:00
   lien: https://design.numerique.gouv.fr/formations/recherche-utilisateur/
 ---
 
