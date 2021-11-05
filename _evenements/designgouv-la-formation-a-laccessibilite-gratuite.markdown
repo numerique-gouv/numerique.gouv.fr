@@ -11,7 +11,7 @@ tags:
 chapeau-text: |-
   Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
 
-  Pour que les administrations se posent les bonnes questions aux bons moments, pour qu'elles prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bons interlocuteurs, le pôle **Design des services numériques** de la Direction interministérielle du numérique (DINUM) propose **trois formations gratuites indispensables : la formation accessibilité, la formation design, et la formation recherche utilisateur.**
+  Pour que les administrations se posent les bonnes questions et qu'elles prennent les bonnes décisions en utilisant les bonnes méthodes et les bons outils, le pôle **Design des services numériques** de la Direction interministérielle du numérique (DINUM) propose **trois formations gratuites indispensables : la formation accessibilité, la formation design, et la formation recherche utilisateur.**
 une-ou-diaporama:
 - image: "/uploads/designGouv.png"
 event_start_date: 2021-11-18 10:12:00 +01:00
