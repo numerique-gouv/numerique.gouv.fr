@@ -25,6 +25,7 @@ style: |2
     margin: 4px 2px;
     cursor: pointer;
     }
+layout: rgaa
 ---
 
 Le plan d’action « logiciels libres et communs numériques » a été conçu à la suite de la publication de la [circulaire data](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire data - Lien externe") du Premier ministre n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
