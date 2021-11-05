@@ -22,7 +22,7 @@ event_end_date: 2021-11-18 00:00:00 +01:00
 
 Vous êtes **agents de la  fonction publique ou prestataires impliqués dans la conception des démarches administratives numériques ?** La formation à l’accessibilité a pour objectifs de vous permettre **d’approprier les concepts de l’accessibilité d’un point de vue historique et juridique,** de vous faire **connaitre les obligations et d’identifier les rôles et responsabilités ;** de vous **organiser et disposer d’une boîte à outils…**
 
-<div class="encadre noir"><p style="margin-top: 20px"><b>Venez muscler vos connaissances en design, accessibilité et recherche utilisateur à travers 3 formations gratuites !</b></p></div>
+<div class="encadre noir"><p style="margin-top: 20px"><b>Enrichissez vos connaissances en design, accessibilité et recherche utilisateur à travers trois formations gratuites en ligne !</b></p></div>
 
 Au programme :
 
@@ -39,7 +39,6 @@ Au programme :
 * **Le Référentiel général d'amélioration de l'accessibilité** (RGAA)
 
 * **Méthodes et outils**
-
 
 N'oubliez pas, deux autres formations vous sont proposées : [design](https://design.numerique.gouv.fr/formations/accessibilite/) et [recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) (formulaires distincts). Ces formations auront lieu en direct sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) (avec transcription par vélotypie) et en différé si vous n'êtes pas disponibles à ces dates.
 
