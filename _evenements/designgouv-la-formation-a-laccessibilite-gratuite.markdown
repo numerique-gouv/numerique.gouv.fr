@@ -33,3 +33,10 @@ Au programme :
 * **Prévalence du handicap**
 * **Le Référentiel général d'amélioration de l'accessibilité** (RGAA)
 * **Méthodes et outils**
+
+
+N'oubliez pas, deux autres formations vous sont proposées : [design](https://design.numerique.gouv.fr/formations/accessibilite/) et [recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) (formulaires distincts). Ces formations auront lieu en direct sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) (avec transcription par vélotypie) et en différé si vous n'êtes pas disponibles à ces dates.
+
+Elles s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Promis, en les suivant, vous saurez quoi faire, comment et pourquoi !
+
+C'est important, c'est gratuit, c'est ludique, c'est opérationnel et, franchement, c'est bien fait donc [inscrivez-vous](https://design.numerique.gouv.fr/formations/accessibilite/) au plus vite, on vous attend !
