@@ -21,8 +21,6 @@ une-ou-diaporama:
     handicap.
 event_start_date:
 - 2021-11-18 10:00:00 +01:00
-- 2021-11-30 10:00:00 +01:00
-- 2021-12-09 10:00:00 +01:00
 lieu: En visio sur la chaîne YouTube de DesignGouv
 acces:
 - type: 
