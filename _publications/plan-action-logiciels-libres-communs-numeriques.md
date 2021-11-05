@@ -1,5 +1,6 @@
 ---
 title: Plan d'action logiciels libres et communs numériques
+published: false
 tags:
 - TECH.GOUV
 - Logiciels libres
@@ -36,7 +37,7 @@ Ses objectifs sont de mieux utiliser les logiciels libres et les communs numéri
 
 Les actions sont conjointement portées par le pôle d’expertise logiciels libres et les missions LABEL et TALENTS du [programme TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/). D’autres initiatives portées par la DINUM peuvent également y contribuer ponctuellement (notamment les missions BETA et PILOT). Le plan et l’avancée de sa mise en œuvre seront publiés sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr "communs.numerique.gouv.fr - Lien externe").
 
-<h2 class="h3" style="margin-bottom: 0px; margin-top: 30px;">Mieux utiliser les logiciels libres et les communs numériques</h2>
+<h2 class="h3" style="margin-bottom: 0px; margin-top: 40px;">Mieux utiliser les logiciels libres et les communs numériques</h2>
 <p style="margin-top: 0px;">(via la mission LABEL de la DINUM)</p>
 <ol>
   <li>
@@ -54,7 +55,7 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
 </ol>
 <ol start="3">  <li><b>Faciliter l’accès au marché</b> de support logiciels libres</li>
 </ol>
-<h2 class="h3" style="margin-bottom: 0px; margin-top: 30px;">Développer et accompagner l’ouverture des codes sources</h2>
+<h2 class="h3" style="margin-bottom: 0px; margin-top: 40px;">Développer et accompagner l’ouverture des codes sources</h2>
 <p style="margin-top: 0px;">(via le pôle logiciels libres d’Etalab, au sein de la DINUM)</p>
 <ol>
   <li>
@@ -71,14 +72,14 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
 <ol start="3">
   <li><b>Animer la communauté des relais interministériels</b> sur le sujet de la publication des codes sources&nbsp;; maintenir les guides d’ouverture logicielle&nbsp;; porter les partenariats utiles à l’ouverture logicielle.</li>
 </ol>
-<h2 class="h3" style="margin-bottom: 0px; margin-top: 30px;">S’appuyer sur l’open source pour renforcer l’attractivité de l’État auprès des talents du numériques</h2>
+<h2 class="h3" style="margin-bottom: 0px; margin-top: 40px;">S’appuyer sur l’open source pour renforcer l’attractivité de l’État auprès des talents du numériques</h2>
 <p style="margin-top: 0px;">(via la mission TALENTS de la DINUM)</p>
 <ol>
   <li>
     <p><b>Animer le réseau d’échange d’information</b> et d’expertise BlueHats&nbsp;; publier sa lettre d’information.</p>
   </li>
   <li>
-    <p>Valoriser les agents contribuant à des logiciels libres&nbsp;; organiser un événement annuel de «&nbsp;sprint open source&nbsp;» fédérateur.</p>
+    <p><b>Valoriser les agents</b> contribuant à des logiciels libres&nbsp;; organiser un événement annuel de «&nbsp;sprint open source&nbsp;» fédérateur.</p>
   </li>
   <li>
-    <p>Attirer des experts de l’open source dans l’administration en lien avec les autres actions de la mission TALENTS, notamment en les référençant dans le vivier des talents du numérique.</p>
+    <p><b>Attirer des experts</b> de l’open source dans l’administration en lien avec les autres actions de la mission TALENTS, notamment en les référençant dans le vivier des talents du numérique.</p>
