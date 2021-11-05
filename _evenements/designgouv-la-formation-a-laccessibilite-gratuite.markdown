@@ -20,7 +20,7 @@ event_end_date: 2021-11-18 00:00:00 +01:00
 
 ## La formation à l'accessibilité
 
-Vous êtes **agents de la  fonction publique ou prestataires impliqués dans la conception des démarches administratives numériques ?** La formation à l’accessibilité a pour objectifs de vous permettre **d’approprier les concepts de l’accessibilité d’un point de vue historique et juridique, de vous faire connaitre les obligations et d’identifier les rôles et responsabilités ; de vous organiser et disposer d’une boîte à outils…**
+Vous êtes **agents de la  fonction publique ou prestataires impliqués dans la conception des démarches administratives numériques ?** La formation à l’accessibilité a pour objectifs de vous permettre **d’approprier les concepts de l’accessibilité d’un point de vue historique et juridique,** de vous faire **connaitre les obligations et d’identifier les rôles et responsabilités ;** de vous **organiser et disposer d’une boîte à outils…**
 
 <div class="encadre noir"><p style="margin-top: 20px"><b>Venez muscler vos connaissances en design, accessibilité et recherche utilisateur à travers 3 formations gratuites !</b></p></div>
 
