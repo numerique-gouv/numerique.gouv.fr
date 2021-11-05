@@ -20,7 +20,7 @@ event_end_date: 2021-11-18 00:00:00 +01:00
 
 ## La formation à l'accessibilité
 
-Le jeudi 18 novembre de 10h à 12h, en visio sur la chaîne YouTube de DesignGouv, venez participer à une matinée d’échanges : pourquoi et comment bien prendre en compte les personnes en situation de handicap dans la conception de services publiques numériques.
+Le **jeudi 18 novembre de 10h à 12h, en visio sur la chaîne YouTube de DesignGouv,** venez participer à une matinée d’échanges : pourquoi et comment bien prendre en compte les personnes en situation de handicap dans la conception de services publiques numériques.
 
 <div class="encadre noir"><p style="margin-top: 20px"><b>Enrichissez vos connaissances en design, accessibilité et recherche utilisateur à travers trois formations gratuites en ligne !</b></p></div>
 
