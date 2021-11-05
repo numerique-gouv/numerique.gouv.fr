@@ -28,7 +28,7 @@ Au programme :
 
 * Une **immersion**
 
-* Un peu**d'histoire**
+* Un peu **d'histoire**
 
 * Une **démonstration**
 
