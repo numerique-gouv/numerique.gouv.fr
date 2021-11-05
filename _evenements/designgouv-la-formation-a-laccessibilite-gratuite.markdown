@@ -23,8 +23,6 @@ afficher_la_carte: false
 
 Le **jeudi 18 novembre de 10h à 12h, en visio sur la chaîne YouTube de DesignGouv,** venez participer à une matinée d’échanges : pourquoi et comment bien prendre en compte les personnes en situation de handicap dans la conception de services publiques numériques.
 
-<div class="encadre noir"><p style="margin-top: 20px"><b>Enrichissez vos connaissances en design, accessibilité et recherche utilisateur à travers trois formations gratuites en ligne !</b></p></div>
-
 Vous êtes **agents de la  fonction publique ou prestataires impliqués dans la conception des démarches administratives numériques ?** La formation à l’accessibilité a pour objectifs de vous permettre **d’approprier les concepts de l’accessibilité d’un point de vue historique et juridique,** de vous faire **connaitre les obligations et d’identifier les rôles et responsabilités ;** de vous **organiser et disposer d’une boîte à outils…**
 
 Au programme :
@@ -41,9 +39,9 @@ Au programme :
 
 * Le **Référentiel général d'amélioration de l'accessibilité** (RGAA)
 
-* Des **méthodes et outils**
+* Des **méthodes** et des **outils**
 
-Pour participer, rien de plus simple. Il vous suffit de vous inscrire gratuitement [ici](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le jour J.
+Pour participer, rien de plus simple. Il vous suffit de vous inscrire gratuitement [ici](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J.
 
 ### 2 autres formations proposées : design et recherche utilisateur
 
