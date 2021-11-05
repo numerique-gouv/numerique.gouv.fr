@@ -40,10 +40,10 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
 <p style="margin-top: 0px;">(via la mission LABEL de la DINUM)</p>
 <ol>
   <li>
-    <p>Référencer des solutions open source et des entreprises du numérique libre de confiance (dans <a href="https://catalogue.numerique.gouv.fr" title="catalogue.numerique.gouv.fr - Lien externe">le catalogue GouvTech</a>).</p>
+    <p><b>Référencer des solutions open source et des entreprises</b> du numérique libre de confiance (dans <a href="https://catalogue.numerique.gouv.fr" title="catalogue.numerique.gouv.fr - Lien externe">le catalogue GouvTech</a>).</p>
   </li>
   <li>
-    <p>Référencer les logiciels libres et les communs numériques significativement utilisés dans l’administration et y développer l’échange d’expertise interne (dans le <a href="https://sill.etalab.gouv.fr">socle interministériel de logiciels libres - SILL</a>), en incluant ces actions&nbsp;:</p>
+    <p><b>Référencer les logiciels libres et les communs numériques</b> significativement utilisés dans l’administration et y développer l’échange d’expertise interne (dans le <a href="https://sill.etalab.gouv.fr">socle interministériel de logiciels libres - SILL</a>), en incluant ces actions&nbsp;:</p>
   </li>
 <ul>
   <li>Mettre en avant des bibliothèques open source significativement utilisées&nbsp;;</li>
@@ -52,16 +52,16 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
   <li>Mener une veille sur les communs numériques logiciels et non logiciels pour détecter des opportunités d’y recourir et d’y contribuer.</li>
 </ul>
 </ol>
-<ol start="3">  <li>Faciliter l’accès au marché de support logiciels libres</li>
+<ol start="3">  <li><b>Faciliter l’accès au marché</b> de support logiciels libres</li>
 </ol>
 <h2 class="h3" style="margin-bottom: 0px; margin-top: 30px;">Développer et accompagner l’ouverture des codes sources</h2>
 <p style="margin-top: 0px;">(via le pôle logiciels libres d’Etalab, au sein de la DINUM)</p>
 <ol>
   <li>
-    <p>Accompagner les administrations dans l’ouverture de leurs codes sources. Aider les administrations à mobiliser leurs écosystèmes autour des codes sources publiés.</p>
+    <p><b>Accompagner les administrations</b> dans l’ouverture de leurs codes sources. Aider les administrations à mobiliser leurs écosystèmes autour des codes sources publiés.</p>
   </li>
   <li>
-    <p>Développer la plateforme <a href="https://code.gouv.fr" title="code.gouv.fr - Lien externe">code.gouv.fr</a>&nbsp;:</p>
+    <p><b>Développer la plateforme <a href="https://code.gouv.fr" title="code.gouv.fr - Lien externe">code.gouv.fr</a>&nbsp;:</b></p>
   </li>
 <ul>
   <li>Référencer les codes et les bibliothèques publiés par des administrations.</li>
@@ -69,13 +69,13 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
   <li>Mettre en avant les contributions de l’administration à l’écosystème des logiciels libres (solutions et bibliothèques).</li>
 </ul></ol>
 <ol start="3">
-  <li>Animer la communauté des relais interministériels sur le sujet de la publication des codes sources&nbsp;; maintenir les guides d’ouverture logicielle&nbsp;; porter les partenariats utiles à l’ouverture logicielle.</li>
+  <li><b>Animer la communauté des relais interministériels</b> sur le sujet de la publication des codes sources&nbsp;; maintenir les guides d’ouverture logicielle&nbsp;; porter les partenariats utiles à l’ouverture logicielle.</li>
 </ol>
 <h2 class="h3" style="margin-bottom: 0px; margin-top: 30px;">S’appuyer sur l’open source pour renforcer l’attractivité de l’État auprès des talents du numériques</h2>
 <p style="margin-top: 0px;">(via la mission TALENTS de la DINUM)</p>
 <ol>
   <li>
-    <p>Animer le réseau d’échange d’information et d’expertise BlueHats&nbsp;; publier sa lettre d’information.</p>
+    <p><b>Animer le réseau d’échange d’information</b> et d’expertise BlueHats&nbsp;; publier sa lettre d’information.</p>
   </li>
   <li>
     <p>Valoriser les agents contribuant à des logiciels libres&nbsp;; organiser un événement annuel de «&nbsp;sprint open source&nbsp;» fédérateur.</p>
