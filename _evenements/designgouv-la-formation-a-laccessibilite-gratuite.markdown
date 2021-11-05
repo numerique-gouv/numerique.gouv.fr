@@ -42,9 +42,9 @@ Au programme :
 
 * Des **méthodes et outils**
 
-Pour participer, rien de plus simple. Il vous suffit de vous inscrire gratuitement et d'assister à la formation en ligne directement sur la chaîne YouTube de DesignGouv le jour J.
+Pour participer, rien de plus simple. Il vous suffit de vous inscrire gratuitement [ici](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur la chaîne YouTube de DesignGouv le jour J.
 
-### 2 autres formations proposées
+### 2 autres formations proposées : design et recherche utilisateur
 
 N'oubliez pas, deux autres formations vous sont proposées : [design](https://design.numerique.gouv.fr/formations/accessibilite/) et [recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) (formulaires distincts). Elles auront lieu en direct sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) (avec transcription par vélotypie) et en différé si vous n'êtes pas disponibles à ces dates.
 
