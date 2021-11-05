@@ -23,7 +23,7 @@ afficher_la_carte: false
 
 <div class="encadre noir"><p style="margin-top: 20px"><b>Pourquoi et comment bien prendre en compte les personnes en situation de handicap dans la conception de services publiques numériques ?</b></p></div>
 
-Vous êtes **agents de la fonction publique ou prestataires impliqués dans la conception des démarches administratives numériques ? Le jeudi 18 novembre de 10h à 12h,** venez participer à une matinée d’échanges **en visio sur la chaîne YouTube de DesignGouv !**
+Vous êtes **un agents de la fonction publique ou prestataires impliqués dans la conception des démarches administratives numériques ? Le jeudi 18 novembre de 10h à 12h,** venez participer à une matinée d’échanges **en visio sur la chaîne YouTube de DesignGouv !**
 
 La formation à l’accessibilité vise plusieurs objectifs : **s'approprier les concepts de l’accessibilité d’un point de vue historique et juridique, connaitre les obligations et d’identifier les rôles et responsabilités ; et organiser et disposer d’une boîte à outils…**
 
