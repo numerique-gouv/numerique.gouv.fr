@@ -36,8 +36,8 @@ Ses objectifs sont de mieux utiliser les logiciels libres et les communs numéri
 
 Les actions sont conjointement portées par le pôle d’expertise logiciels libres et les missions LABEL et TALENTS du [programme TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/). D’autres initiatives portées par la DINUM peuvent également y contribuer ponctuellement (notamment les missions BETA et PILOT). Le plan et l’avancée de sa mise en œuvre seront publiés sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr "communs.numerique.gouv.fr - Lien externe").
 
-<h2 class="h3" style="margin-bottom: 0px;">Mieux utiliser les logiciels libres et les communs numériques</h2>
-<p style="margin-top: 0px;"><b>(via la mission LABEL de la DINUM)</b></p>
+<h2 class="h3" style="margin-bottom: 0px; margin-top: 30px;">Mieux utiliser les logiciels libres et les communs numériques</h2>
+<p style="margin-top: 0px;">(via la mission LABEL de la DINUM)</p>
 <ol>
   <li>
     <p>Référencer des solutions open source et des entreprises du numérique libre de confiance (dans <a href="https://catalogue.numerique.gouv.fr" title="catalogue.numerique.gouv.fr - Lien externe">le catalogue GouvTech</a>).</p>
@@ -54,8 +54,8 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
 </ol>
 <ol start="3">  <li>Faciliter l’accès au marché de support logiciels libres</li>
 </ol>
-<h2 class="h3" style="margin-bottom: 0px;">Développer et accompagner l’ouverture des codes sources</h2>
-<p style="margin-top: 0px;"><b>(via le pôle logiciels libres d’Etalab, au sein de la DINUM)</b></p>
+<h2 class="h3" style="margin-bottom: 0px; margin-top: 30px;">Développer et accompagner l’ouverture des codes sources</h2>
+<p style="margin-top: 0px;">(via le pôle logiciels libres d’Etalab, au sein de la DINUM)</p>
 <ol>
   <li>
     <p>Accompagner les administrations dans l’ouverture de leurs codes sources. Aider les administrations à mobiliser leurs écosystèmes autour des codes sources publiés.</p>
@@ -71,8 +71,8 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
 <ol start="3">
   <li>Animer la communauté des relais interministériels sur le sujet de la publication des codes sources&nbsp;; maintenir les guides d’ouverture logicielle&nbsp;; porter les partenariats utiles à l’ouverture logicielle.</li>
 </ol>
-<h2 class="h3" style="margin-bottom: 0px;">S’appuyer sur l’open source pour renforcer l’attractivité de l’État auprès des talents du numériques</h2>
-<p style="margin-top: 0px;"><b>(via la mission TALENTS de la DINUM)</b></p>
+<h2 class="h3" style="margin-bottom: 0px; margin-top: 30px;">S’appuyer sur l’open source pour renforcer l’attractivité de l’État auprès des talents du numériques</h2>
+<p style="margin-top: 0px;">(via la mission TALENTS de la DINUM)</p>
 <ol>
   <li>
     <p>Animer le réseau d’échange d’information et d’expertise BlueHats&nbsp;; publier sa lettre d’information.</p>
