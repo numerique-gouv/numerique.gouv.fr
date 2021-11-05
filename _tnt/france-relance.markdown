@@ -2,7 +2,6 @@
 title: France Relance
 date: 2021-10-26 14:43:00 +02:00
 permalink: "/services/tnt/france-relance/"
-published: false
 menu:
   title: France Relance
   weight: 40
@@ -17,11 +16,11 @@ Dans le cadre du plan de relance, le Gouvernement a lancé un fonds dédié à l
 La DINUM pilote l’axe dédié aux projets numériques mutualisés ou d’ampleur. 
 
 Vous êtes un département, une collectivité ou un regroupement de collectivités couvrant une population de plus de 300 000 habitants, obtenez un financement pour vos projets portant sur : 
-* la dématérialisation des services aux usagers (création ou amélioration d’une démarche en ligne) ;
-* un meilleur usage des données pour nos territoires ;
-* la coopération avec vos partenaires et usagers grâce au numérique ;
-* l’intégration de FranceConnect ou d’une API nationale (issue du catalogue api.gouv.fr) pour simplifier les démarches en ligne de vos usagers.
+* [la dématérialisation des services aux usagers](https://france-relance.transformation.gouv.fr/b78b-ameliorer-lexperience-usager-dans-une-demarch/) (création ou amélioration d’une démarche en ligne) ;
+* [un meilleur usage des données pour nos territoires](https://france-relance.transformation.gouv.fr/dbbc-developper-lutilisation-de-la-donnee-dans-vot/) ;
+* [la coopération avec vos partenaires et usagers grâce au numérique](https://france-relance.transformation.gouv.fr/7fa8-developper-la-collaboration-avec-vos-ecosyste/) ;
+* [l’intégration de FranceConnect ou d’une API nationale](https://france-relance.transformation.gouv.fr/e13a-deployer-franceconnect-et-utiliser-les-api-na/) (issue du catalogue api.gouv.fr) pour simplifier les démarches en ligne de vos usagers.
 
 **> Proposez votre projet jusqu’au 22 novembre 2021 à minuit** (cliquez sur la thématique qui vous intéresse ci-dessus)
 
-<div class="lien-important"><a href="https://france-relance.transformation.gouv.fr/fonds-collectivites">Découvrez l’ensemble des appels à projets et guichets de ce fonds France Relance</a></div>
+<div class="lien-important"><p><a href="https://france-relance.transformation.gouv.fr/fonds-collectivites">Découvrez l’ensemble des appels à projets et guichets de ce fonds France Relance</a></p></div>

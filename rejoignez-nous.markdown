@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 8 septembre 2021
+date_de_modification: 4 novembre 2021
 layout: page-annexe
 ---
 
@@ -27,23 +27,23 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Chargé-e de mission administration proactive et transformation numérique de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-administration-proactive-et-transformation-numerique-de-l-tat-hf-reference-2021-687301/ "Chargé-e de mission administration proactive et transformation numérique de l'État - H/F - Lien externe")**
+* **[Architecte DevOps H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-devops-hf-reference-2021-699666/ "Architecte DevOps H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé-e de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-la-gouvernance-ssi-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-572756/ "Chargé-e de la gouvernance SSI du Réseau Interministériel de l'État (RIE) - H/F - Lien externe")**
+* **[Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat-hf-reference-2021-732177/ "Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) H/F - Lien externe")**
+<br>Cadre/Catégorie A - Ille et Vilaine (35), France
+<br>
+
+* **[Data scientist senior pour le Lab IA H/F](https://place-emploi-public.gouv.fr/offre-emploi/data-scientist-senior-pour-le-lab-ia-hf-reference-2021-732157/ "Data scientist senior pour le Lab IA H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Ingénieur-e réseau - Référent supervision du réseau interministériel de l'État (RIE) - H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---referent-supervision-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2021-639727/ "Ingénieur-e réseau - Référent supervision du réseau interministériel de l'État (RIE) - H/F - Lien externe")**
-<br>Cadre/Catégorie A
+* **[Architecte technique Résilience RIE – Boucle optique H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-technique-resilience-rie--boucle-optique-hf-reference-2021-728069/ "Architecte technique Résilience RIE – Boucle optique H/F - Lien externe")**
+<br>Cadre/Catégorie A - Lyon (69), France
 <br>
 
-* **[Chargé-e de communication interne - H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-communication-interne-hf-reference-2021-657684/ "Chargé-e de communication interne - H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Ingénieur-e réseau - Chargé-e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres-hf-reference-2021-649375/ "Ingénieur-e réseau - Chargé-e de relations ministères H/F - Lien externe")**
+* **[Intrapreneur/Intrapreneuse en charge de la messagerie instantanée de l'État - Tchap H/F](https://place-emploi-public.gouv.fr/offre-emploi/intrapreneurintrapreneuse-en-charge-de-la-messagerie-instantanee-de-l-tat---tchap-hf-reference-2021-723293/ "Intrapreneur/Intrapreneuse en charge de la messagerie instantanée de l'État - Tchap H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
@@ -59,8 +59,20 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 <div class="encadre noir">
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
-<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p>  <p><strong> Direction économie, marchés et numérique (DEN) - ARCEP</strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/cheffe-de-l-unite-analyse-economique-et-intelligence-numerique-reference-2021-621708/" title="Chef de l'unité Analyse économique et intelligence numérique - F/H - Lien externe">Chef de l'unité Analyse économique et intelligence numérique - F/H</a></strong><br>Cadre/Catégorie A</li></ul>
-<p><strong> Secrétariat Général de la Défense et de la Sécurité Nationale (SGDSN)</strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-maitrise-d-ouvrage-2-postes-reference-2021-557102/" title="Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H - Lien externe">Chef de projet Maîtrise d'Ouvrage (2 postes) - GIC - F/H</a></strong><br>Cadre/Catégorie A</li></ul> 
+<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
+<p><strong> Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) </strong></p> 
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/coordinateur-sectoriel-telecoms-hf-reference-2021-736102/" title="Coordinateur sectoriel télécoms H/F - Lien externe">Coordinateur sectoriel télécoms H/F</a></strong><br>Cadre/Catégorie A</li></ul>
+
+<p><strong> Service d'Information du Gouvernement (SIG)  </strong></p> 
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-numerique--gouvernance-et-animation-reseau-hf-reference-2021-733250/" title="Chargé de mission numérique – gouvernance et animation réseau H/F - Lien externe">Chargé de mission numérique – gouvernance et animation réseau H/F</a></strong><br>Cadre/Catégorie A</li></ul> 
+
+<p><strong> Groupement interministériel de contrôle (GIC)    </strong></p> 
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-maitrise-d-ouvrage-en-systemes-d-information-et-en-projets-de-surete---gic-reference-2021-593962/" title="Chef de projet Maîtrise d'Ouvrage en systèmes d'information et en projets de sûreté - GIC - Lien externe">Chef de projet Maîtrise d'Ouvrage en systèmes d'information et en projets de sûreté - GIC - H/F</a></strong><br>Cadre/Catégorie A</li></ul> 
+
+<p><strong> Direction de l'Information Légale et Administrative (DILA) </strong></p> 
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-moe--atelier-de-construction-legistique--hf-reference-2021-730155/" title="Chef de projet MOE « Atelier de construction légistique » H/F - Lien externe">Chef de projet MOE « Atelier de construction légistique » H/F</a></strong><br>Cadre/Catégorie A</li></ul> 
+
+<p><strong> Division des systèmes d'information (DSI)   </strong></p> 
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-de-production-systeme-et-applicatif-hf-hf-reference-2021-721151/" title="Ingénieur de production système et applicatif H/F - Lien externe">Ingénieur de production système et applicatif H/F</a></strong><br>Cadre/Catégorie A</li></ul> 
+
 </div>
