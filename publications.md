@@ -35,10 +35,6 @@ publications:
   url: "/publications/panorama-grands-projets-si"
   une-ou-diaporama:
   - image: "/uploads/capture-panorama-juillet2021.png"
-- title: Politique de contribution aux logiciels libres de l’État
-  url: "/publications/politique-logiciel-libre"
-  une-ou-diaporama:
-  - image: "/uploads/logiciel_libre.png"
 - title: Les 9 principes clés de réussite des grands projets SI de l’État
   url: "/publications/principes-reussite-grands-projets-si-etat/"
   une-ou-diaporama:
@@ -47,10 +43,6 @@ publications:
   url: "/publications/principes-mutualisation-si-etat/"
   une-ou-diaporama:
   - image: "/uploads/principes-mutualisation-si.JPG"
-- title: Programme DCANT
-  url: "/publications/programme-dcant/"
-  une-ou-diaporama:
-  - image: "/uploads/2020_12_16_Publications_1188x802_DCANT.jpg"
 - title: Référentiel général de sécurité (RGS)
   url: "/publications/referentiel-general-de-securite/"
   une-ou-diaporama:

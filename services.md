@@ -31,6 +31,10 @@ publications:
   url: "/services/guichet-dites-le-nous-une-fois/"
   une-ou-diaporama:
   - image: "/uploads/guichet-dlnuf-hub.png"
+- title: Transformation numérique des territoires
+  url: "/services/tnt/"
+  une-ou-diaporama:
+  - image: "/uploads/TNT_Rub_Services-5e8b1c.png"
 - title: Partagez vos talents numériques !
   url: "/services/partagez-vos-talents-numeriques/"
   une-ou-diaporama:

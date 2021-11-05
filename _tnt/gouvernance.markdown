@@ -2,12 +2,20 @@
 title: Gouvernance
 date: 2021-10-08 10:03:00 +02:00
 permalink: "/services/tnt/gouvernance/"
-published: false
 menu:
   title: Gouvernance
   weight: 20
 une:
   image: "/uploads/TNT_Bandeau_Page-fille.png"
+style: |+
+  .partenaires-collterr {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around; flex-wrap: wrap;
+    gap: 10px 20px;
+  }
+
 layout: tnt
 ---
 
@@ -25,17 +33,21 @@ Dans le cadre de France Relance, il assure le pilotage stratégique de l’envel
 * Agence nationale de la cohésion des territoires (ANCT)
 
 **Côté collectivités territoriales :**
-* Association des Maires de France (AMF)
-* Assemblée des Départements de France (ADF)
-* Association des Communautés de France (AdCf)
-* France Urbaine
-* Villes de France
-* Association des Maires Ruraux de France (AMRF)
-* Association des Petites Villes de France (APVF)
-* Declic
-* Fédération nationale des collectivités concédantes et régies (FNCCR)
-* Les Interconnectés
-* Avicca (Association des villes et collectivités pour les communications électroniques et l'audiovisuel)
+
+<div class="partenaires-collterr">
+  <div><a href="https://www.amf.asso.fr/" alt="AMF - Lien externe"><img src="/uploads/Logo_AMF.jpg" alt="Association des Maires de France (AMF)" width="180" align="middle"></a></div>
+  <div><a href="http://www.departements.fr/" alt="ADF - Lien externe"><img src="/uploads/Logo_ADF.jpg" alt="Assemblée des Départements de France (ADF)" width="100" align="middle"></a></div>
+  <div><a href="https://www.adcf.org/" alt="AdCF - Lien externe"><img src="/uploads/Log_AdCF.jpg" alt="Association des Communautés de France (AdCf)" width="120" align="middle"></a></div>
+  <div><a href="https://franceurbaine.org/" alt="France urbaine - Lien externe"><img src="/uploads/Logo_France-Urbaine.jpg" alt="France Urbaine" width="130" align="middle"></a></div>
+  <div><a href="https://www.villesdefrance.fr/" alt="Villes de France - Lien externe"><img src="/uploads/Logo_Ville-de-france.jpg" alt="Villes de France" width="110" align="middle"></a></div>
+  <div><a href="https://www.amrf.fr/" alt="AMRF - Lien externe"><img src="/uploads/Logo_AMRF.jpg" alt="Association des Maires Ruraux de France (AMRF)" width="130" align="middle"></a></div>
+  <div><a href="https://www.apvf.asso.fr/" alt="APVF - Lien externe"><img src="/uploads/Logo_APVF.jpg" alt="Association des Petites Villes de France (APVF)" width="100" align="middle"></a></div>
+  <div><a href="https://www.asso-declic.fr/" alt="Déclic - Lien externe"><img src="/uploads/Logo_Declic.png" alt="Declic" width="120" align="middle"></a></div>
+  <div><a href="https://www.fnccr.asso.fr/" alt="FNCCR - Lien externe"><img src="/uploads/Logo_FNCCR.jpg" alt="Fédération nationale des collectivités concédantes et régies (FNCCR) - Services publics locaux de l'énergie, de l'eau, de l'environnement et des e-communications" width="120" align="middle"></a></div>
+  <div><a href="https://www.interconnectes.com/" alt="Les interconnectés - Liens externe"><img src="/uploads/Logo_lesInterconnectes.png" alt="Les Interconnectés" width="170" align="middle"></a></div>
+  <div><a href="https://www.avicca.org/" alt="Avicca - Lien externe"><img src="/uploads/Logo_AVICCA.jpg" alt="Avicca (Association des villes et collectivités pour les communications électroniques et l’audiovisuel)" width="140" align="middle"></a></div>
+</div>
+
 
 
 ### Un comité de coordination
