@@ -6,6 +6,8 @@ categories:
 tags:
 - Formation
 - accessibilité
+- Tech
+- Numérique
 chapeau-text: |-
   Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
 
