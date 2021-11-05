@@ -47,7 +47,7 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
 * Favoriser et accompagner la contribution de l’administration aux codes open source et aux communs numériques qu’elle utilise ;
 * Mener une veille sur les communs numériques logiciels et non logiciels pour détecter des opportunités d’y recourir et d’y contribuer.
 
-3. Faciliter l'accès au marché de support logiciels libres.
+3. Faciliter l'accès au marché de support logiciels libres
 
 ## Développer et accompagner l’ouverture des codes sources (via le pôle logiciels libres d’Etalab, au sein de la DINUM)
 
