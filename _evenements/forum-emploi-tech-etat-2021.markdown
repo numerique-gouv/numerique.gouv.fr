@@ -41,7 +41,7 @@ Vous souhaitez participer à cet événement unique mais vous n’êtes pas à P
 
 Au programme :
 
-* Des **conférences tech** du 29 novembre au 2 décembre, pour explorer la culture tech de l’État, au gré de conférences en ligne de 30 à 60 minutes chacune.
+* Des **conférences tech** du 29 novembre au 2 décembre, pour explorer la culture tech de l’État, au gré de conférences en ligne de 30 à 60 minutes chacune :
 
 * **Le virage cloud dans l'Etat**
 Lundi 29 novembre 2021, 17h-17h30
@@ -77,7 +77,35 @@ Jeudi 2 décembre, 17h30-18h
 Jeudi 2 décembre, 18h-18h30 
 
 
-* Des **présentations de recruteurs** permettant de mieux connaitre des administrations proposant des offres ;
+* Des **présentations de recruteurs** du 3 au 15 décembre, permettant de mieux connaitre des administrations proposant des offres. Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune :
+
+* **Auditeur des systèmes d’information à la CNIL : la sécurité des données, enjeu clé du RGPD** 
+vendredi 3 décembre, 17h00-17h30
+
+* **La Direction de l’information légale et administrative : présentation, projets et opportunités**
+lundi 6 décembre, 17h00-17h30
+
+* **Un métier Data, un projet au Ministère des armées** 
+mardi 7 décembre, 17h00-17h30
+
+* **Quels sont les métiers Tech du ministère de l’Europe et des Affaires étrangères ?** 
+mercredi 8 décembre, 17h00-17h30
+
+* **Le numérique au service de l’Université (ASSAS)** 
+jeudi 9 décembre, 17h00-17h30
+
+* **La direction générale des finances publiques (DGFIP) : focus sur la DTNUM**
+vendredi 10 décembre, 17h00-17h30
+
+* **L'Agence de Mutualisation des Universités et Établissements : présentation, projets et opportunités**
+lundi 13 décembre, 17h30-18h00
+
+* **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle**
+mardi 14 décembre, 17h30-18h00
+
+* **Le programme Entrepreneurs d’intérêt général : la transformation numérique au cœur des administrations**
+mercredi 15 décembre, 16h00-16h30
+
 
 * Des **échanges et entretiens** avec les recruteurs par téléphone ou par visio-conférence.
 
