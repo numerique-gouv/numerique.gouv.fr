@@ -41,7 +41,7 @@ Vous souhaitez participer à cet événement unique mais vous n’êtes pas à P
 
 Au programme :
 
-* Des **conférences tech** du 29 novembre au 2 décembre, pour explorer la culture tech de l’État, au gré de conférences en ligne de 30 à 60 minutes chacune
+* Des **conférences tech** du 29 novembre au 2 décembre, pour explorer la culture tech de l’État.
 
 * Des **échanges et entretiens** avec les recruteurs par téléphone ou par visio-conférence.
 
@@ -54,31 +54,6 @@ Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**
 * Des **espaces d’échanges** seront mis en place pour prolonger en toute confidentialité votre discussion avec un recruteur.
 
 * Au cours de cette journée seront aussi proposés **des ateliers** de développement professionnel (sur inscription et le jour J selon les places disponibles).
-
-Participez à ces ateliers ludiques centrés sur le développement personnel et professionnel. Nombre de places **limité entre 12 et 16 personnes** par atelier. **Réservez rapidement !**
-
-* **Se présenter avec l'Elevator Pitch**
-de 10h à 11h, de 14h à 15h ou de 16h à 17h
-
-> Cet atelier permet à chaque participant de s’approprier la méthode pour construire un elevator pitch efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.
-
-•	Capter l'attention avec le Storytelling
-•	de 11h à 12h, de 15h à 16h ou de 17h à 18h
-Au cours de cet atelier, les participants font connaissance avec les techniques clés utilisées dans les histoires à fort impact, ils se les approprient pour repérer, dans leur parcours professionnel, les différents éléments qui peuvent constituer l’arc narratif de leur histoire professionnelle. Ils ont la possibilité de commencer à construire leur récit.
-•	Décryptage de l'offre et préparation entretien
-•	de 10h à 11h, de 14h à 15h ou de 16h à 17h
-Un offre d'emploi intègre une mine d'informations sur le poste que vous rêvez de décrocher !!  En tant que candidat, votre première mission sera d'en extraire les éléments les plus importants afin d'anticiper le schéma de sélection du recruteur et optimiser vos chances de réussite. Dans cet atelier, nous analyserons point par point les grandes séquences d'une offre d'emploi et nous dénicherons tous les messages qui s'y dissimulent. A l'issue de cette phase exploratoire nous construirons le schéma de questionnement de votre entretien avec un seul objectif : Garder le contrôle et franchir cette étape avec brio !
-•	Postures de candidat sur les réseaux sociaux
-•	de 11h à 12h, de 15h à 16h ou de 17h à 18h
-En 2021, nous ne pouvons que constater l'influence croissante de LinkediN sur les comportements des recruteurs mais aussi des candidats. Bien au-delà du CV, votre vitrine professionnelle sera votre atout majeur dans la quête de votre job de rêve. Dans cet atelier, nous vous aiderons à renforcer votre attractivité candidat grâce une présence maitrisée sur cet outil incontournable. Outre les fondamentaux, vous apprendrez à y communiquer sur vos expertises, vos expériences, vos réalisations...
-Comment s'y prendre ? quelles sont les meilleures pratiques actuelles ? Ce sera l'occasion d'échanger dans le cadre de cet atelier collaboratif. 
-•	L'ikigaï ou comment donner du sens à son projet 
-•	de 10h à 11h, de 14h à 15h ou de 16h à 17h
-L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa raison d’être professionnelle et/ou personnelle en croisant sa réflexion notamment autour de 4 axes. En ce sens, il constitue un outil d'introspection essentiel lors d'un (re)positionnement professionnel ; il répond aussi à la quête de sens au travail. Néanmoins, plus qu'un simple outil, l'ikigaï est une véritable philosophie de vie à laquelle les participants vont également être initiés pendant l'atelier.
-•	Réussir une mobilité en prenant conscience de ses ressources
-•	de 11h à 12h, de 15h à 16h ou de 17h à 18h
-Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.
-
 
 Comment participer au forum physique ? **Du 8 novembre au 16 décembre inclus : [inscrivez-vous en ligne](https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db)** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
 
@@ -122,7 +97,10 @@ Jeudi 2 décembre, 17h30-18h
 * **Développement en mode produits et innovations managériales**
 Jeudi 2 décembre, 18h-18h30 
 
-* Des **présentations de recruteurs** du 3 au 15 décembre, permettant de mieux connaitre des administrations proposant des offres. Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune :
+### Des **présentations de recruteurs** 
+*du 3 au 15 décembre*
+
+Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune :
 
 * **Auditeur des systèmes d’information à la CNIL : la sécurité des données, enjeu clé du RGPD** 
 vendredi 3 décembre, 17h00-17h30
@@ -150,3 +128,30 @@ mardi 14 décembre, 17h30-18h00
 
 * **Le programme Entrepreneurs d’intérêt général : la transformation numérique au cœur des administrations**
 mercredi 15 décembre, 16h00-16h30
+
+Ateliers
+Le 16 décembre à Paris
+
+Participez à ces ateliers ludiques centrés sur le développement personnel et professionnel. Nombre de places **limité entre 12 et 16 personnes** par atelier. **Réservez rapidement !**
+
+* **Se présenter avec l'Elevator Pitch**
+de 10h à 11h, de 14h à 15h ou de 16h à 17h
+
+> Cet atelier permet à chaque participant de s’approprier la méthode pour construire un elevator pitch efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.
+
+•	Capter l'attention avec le Storytelling
+•	de 11h à 12h, de 15h à 16h ou de 17h à 18h
+Au cours de cet atelier, les participants font connaissance avec les techniques clés utilisées dans les histoires à fort impact, ils se les approprient pour repérer, dans leur parcours professionnel, les différents éléments qui peuvent constituer l’arc narratif de leur histoire professionnelle. Ils ont la possibilité de commencer à construire leur récit.
+•	Décryptage de l'offre et préparation entretien
+•	de 10h à 11h, de 14h à 15h ou de 16h à 17h
+Un offre d'emploi intègre une mine d'informations sur le poste que vous rêvez de décrocher !!  En tant que candidat, votre première mission sera d'en extraire les éléments les plus importants afin d'anticiper le schéma de sélection du recruteur et optimiser vos chances de réussite. Dans cet atelier, nous analyserons point par point les grandes séquences d'une offre d'emploi et nous dénicherons tous les messages qui s'y dissimulent. A l'issue de cette phase exploratoire nous construirons le schéma de questionnement de votre entretien avec un seul objectif : Garder le contrôle et franchir cette étape avec brio !
+•	Postures de candidat sur les réseaux sociaux
+•	de 11h à 12h, de 15h à 16h ou de 17h à 18h
+En 2021, nous ne pouvons que constater l'influence croissante de LinkediN sur les comportements des recruteurs mais aussi des candidats. Bien au-delà du CV, votre vitrine professionnelle sera votre atout majeur dans la quête de votre job de rêve. Dans cet atelier, nous vous aiderons à renforcer votre attractivité candidat grâce une présence maitrisée sur cet outil incontournable. Outre les fondamentaux, vous apprendrez à y communiquer sur vos expertises, vos expériences, vos réalisations...
+Comment s'y prendre ? quelles sont les meilleures pratiques actuelles ? Ce sera l'occasion d'échanger dans le cadre de cet atelier collaboratif. 
+•	L'ikigaï ou comment donner du sens à son projet 
+•	de 10h à 11h, de 14h à 15h ou de 16h à 17h
+L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa raison d’être professionnelle et/ou personnelle en croisant sa réflexion notamment autour de 4 axes. En ce sens, il constitue un outil d'introspection essentiel lors d'un (re)positionnement professionnel ; il répond aussi à la quête de sens au travail. Néanmoins, plus qu'un simple outil, l'ikigaï est une véritable philosophie de vie à laquelle les participants vont également être initiés pendant l'atelier.
+•	Réussir une mobilité en prenant conscience de ses ressources
+•	de 11h à 12h, de 15h à 16h ou de 17h à 18h
+Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.
