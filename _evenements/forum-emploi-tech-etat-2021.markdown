@@ -69,7 +69,7 @@ Comment participer au forum physique ? **Du 8 novembre au 16 décembre inclus : 
 <br>Jusqu’au 16 décembre 2021
 </div>
 
-## Programme complet
+<div align="center"><h3>Programme complet</h3></div>
 
 #### **Conférences tech**
 *Du 29 novembre au 2 décembre*
