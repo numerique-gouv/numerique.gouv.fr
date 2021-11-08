@@ -158,7 +158,7 @@ Comment s'y prendre ? quelles sont les meilleures pratiques actuelles ? Ce sera 
 * **L'ikigaï ou comment donner du sens à son projet**
 de 10h à 11h, de 14h à 15h ou de 16h à 17h
 
-L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa raison d’être professionnelle et/ou personnelle en croisant sa réflexion notamment autour de 4 axes. En ce sens, il constitue un outil d'introspection essentiel lors d'un (re)positionnement professionnel ; il répond aussi à la quête de sens au travail. Néanmoins, plus qu'un simple outil, l'ikigaï est une véritable philosophie de vie à laquelle les participants vont également être initiés pendant l'atelier.
+> L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa raison d’être professionnelle et/ou personnelle en croisant sa réflexion notamment autour de 4 axes. En ce sens, il constitue un outil d'introspection essentiel lors d'un (re)positionnement professionnel ; il répond aussi à la quête de sens au travail. Néanmoins, plus qu'un simple outil, l'ikigaï est une véritable philosophie de vie à laquelle les participants vont également être initiés pendant l'atelier.
 
 * **Réussir une mobilité en prenant conscience de ses ressources**
 de 11h à 12h, de 15h à 16h ou de 17h à 18h
