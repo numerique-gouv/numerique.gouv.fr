@@ -57,4 +57,4 @@ Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**
 
 * Au cours de cette journée seront aussi proposés **des ateliers** de développement professionnel (sur inscription et le jour J selon les places disponibles).
 
-Comment participer au forum physique ? **Du 8 novembre au 16 décembre inclus : inscrivez-vous en ligne** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
+Comment participer au forum physique ? **Du 8 novembre au 16 décembre inclus : [inscrivez-vous en ligne](https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db)** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
