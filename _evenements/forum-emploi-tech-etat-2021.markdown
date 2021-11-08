@@ -41,7 +41,41 @@ Vous souhaitez participer à cet événement unique mais vous n’êtes pas à P
 
 Au programme :
 
-* Des **conférences tech** (plus d’infos et programme à venir) pour explorer la culture tech de l’Etat et du service public ;
+* Des **conférences tech** du 29 novembre au 2 décembre, pour explorer la culture tech de l’État, au gré de conférences en ligne de 30 à 60 minutes chacune.
+
+* **Le virage cloud dans l'Etat**
+Lundi 29 novembre 2021, 17h-17h30
+
+* **Vers un numérique écoresponsable dans l’administration publique**
+Lundi 29 novembre 2021, 17h30-18h
+
+* **Le réseau interministériel de l’État, enjeux et perspectives**
+Lundi 29 novembre 2021, 18h-18h30
+
+* **Comment le numérique a transformé l’action publique ? Focus sur le programme TECH.GOUV**
+Mardi 30 novembre, 17h-17h30
+
+* **Comment l’Etat attire les talents du numérique**
+Mardi 30 novembre, 17h30-18h
+
+* **La dématérialisation des procédures de bout en bout, et si on en faisait plus et plus vite ?** 
+Mardi 30 novembre, 18h-18h30
+
+* **La culture d’innovation au sein de l’État** 
+Mercredi 1er décembre, 17h-18h
+
+* **Le logiciel libre dans l'Etat** 
+Mercredi 1er décembre, 18h-18h30
+
+* **Le numérique au service de la transformation des politiques publiques**
+Jeudi 2 décembre, 17h-17h30
+
+* **Datascience et open data : au cœur de la transformation numérique de l’Etat**
+Jeudi 2 décembre, 17h30-18h
+
+* **Développement en mode produits et innovations managériales**
+Jeudi 2 décembre, 18h-18h30 
+
 
 * Des **présentations de recruteurs** permettant de mieux connaitre des administrations proposant des offres ;
 
