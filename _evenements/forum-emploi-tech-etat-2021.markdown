@@ -41,71 +41,7 @@ Vous souhaitez participer à cet événement unique mais vous n’êtes pas à P
 
 Au programme :
 
-* Des **conférences tech** du 29 novembre au 2 décembre, pour explorer la culture tech de l’État, au gré de conférences en ligne de 30 à 60 minutes chacune :
-
-* **Le virage cloud dans l'Etat**
-Lundi 29 novembre 2021, 17h-17h30
-
-* **Vers un numérique écoresponsable dans l’administration publique**
-Lundi 29 novembre 2021, 17h30-18h
-
-* **Le réseau interministériel de l’État, enjeux et perspectives**
-Lundi 29 novembre 2021, 18h-18h30
-
-* **Comment le numérique a transformé l’action publique ? Focus sur le programme TECH.GOUV**
-Mardi 30 novembre, 17h-17h30
-
-* **Comment l’Etat attire les talents du numérique**
-Mardi 30 novembre, 17h30-18h
-
-* **La dématérialisation des procédures de bout en bout, et si on en faisait plus et plus vite ?** 
-Mardi 30 novembre, 18h-18h30
-
-* **La culture d’innovation au sein de l’État** 
-Mercredi 1er décembre, 17h-18h
-
-* **Le logiciel libre dans l'Etat** 
-Mercredi 1er décembre, 18h-18h30
-
-* **Le numérique au service de la transformation des politiques publiques**
-Jeudi 2 décembre, 17h-17h30
-
-* **Datascience et open data : au cœur de la transformation numérique de l’Etat**
-Jeudi 2 décembre, 17h30-18h
-
-* **Développement en mode produits et innovations managériales**
-Jeudi 2 décembre, 18h-18h30 
-
-
-* Des **présentations de recruteurs** du 3 au 15 décembre, permettant de mieux connaitre des administrations proposant des offres. Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune :
-
-* **Auditeur des systèmes d’information à la CNIL : la sécurité des données, enjeu clé du RGPD** 
-vendredi 3 décembre, 17h00-17h30
-
-* **La Direction de l’information légale et administrative : présentation, projets et opportunités**
-lundi 6 décembre, 17h00-17h30
-
-* **Un métier Data, un projet au Ministère des armées** 
-mardi 7 décembre, 17h00-17h30
-
-* **Quels sont les métiers Tech du ministère de l’Europe et des Affaires étrangères ?** 
-mercredi 8 décembre, 17h00-17h30
-
-* **Le numérique au service de l’Université (ASSAS)** 
-jeudi 9 décembre, 17h00-17h30
-
-* **La direction générale des finances publiques (DGFIP) : focus sur la DTNUM**
-vendredi 10 décembre, 17h00-17h30
-
-* **L'Agence de Mutualisation des Universités et Établissements : présentation, projets et opportunités**
-lundi 13 décembre, 17h30-18h00
-
-* **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle**
-mardi 14 décembre, 17h30-18h00
-
-* **Le programme Entrepreneurs d’intérêt général : la transformation numérique au cœur des administrations**
-mercredi 15 décembre, 16h00-16h30
-
+* Des **conférences tech** du 29 novembre au 2 décembre, pour explorer la culture tech de l’État, au gré de conférences en ligne de 30 à 60 minutes chacune
 
 * Des **échanges et entretiens** avec les recruteurs par téléphone ou par visio-conférence.
 
@@ -145,3 +81,72 @@ Cet atelier pratique a pour objectif de permettre au participant de prendre cons
 
 
 Comment participer au forum physique ? **Du 8 novembre au 16 décembre inclus : [inscrivez-vous en ligne](https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db)** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
+
+## Programme complet
+
+### Conférences tech
+*Du 29 novembre au 2 décembre*
+
+Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à 60 minutes chacune.
+
+* **Le virage cloud dans l'Etat**
+Lundi 29 novembre 2021, 17h-17h30
+
+* **Vers un numérique écoresponsable dans l’administration publique**
+Lundi 29 novembre 2021, 17h30-18h
+
+* **Le réseau interministériel de l’État, enjeux et perspectives**
+Lundi 29 novembre 2021, 18h-18h30
+
+* **Comment le numérique a transformé l’action publique ? Focus sur le programme TECH.GOUV**
+Mardi 30 novembre, 17h-17h30
+
+* **Comment l’Etat attire les talents du numérique**
+Mardi 30 novembre, 17h30-18h
+
+* **La dématérialisation des procédures de bout en bout, et si on en faisait plus et plus vite ?** 
+Mardi 30 novembre, 18h-18h30
+
+* **La culture d’innovation au sein de l’État** 
+Mercredi 1er décembre, 17h-18h
+
+* **Le logiciel libre dans l'Etat** 
+Mercredi 1er décembre, 18h-18h30
+
+* **Le numérique au service de la transformation des politiques publiques**
+Jeudi 2 décembre, 17h-17h30
+
+* **Datascience et open data : au cœur de la transformation numérique de l’Etat**
+Jeudi 2 décembre, 17h30-18h
+
+* **Développement en mode produits et innovations managériales**
+Jeudi 2 décembre, 18h-18h30 
+
+* Des **présentations de recruteurs** du 3 au 15 décembre, permettant de mieux connaitre des administrations proposant des offres. Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune :
+
+* **Auditeur des systèmes d’information à la CNIL : la sécurité des données, enjeu clé du RGPD** 
+vendredi 3 décembre, 17h00-17h30
+
+* **La Direction de l’information légale et administrative : présentation, projets et opportunités**
+lundi 6 décembre, 17h00-17h30
+
+* **Un métier Data, un projet au Ministère des armées** 
+mardi 7 décembre, 17h00-17h30
+
+* **Quels sont les métiers Tech du ministère de l’Europe et des Affaires étrangères ?** 
+mercredi 8 décembre, 17h00-17h30
+
+* **Le numérique au service de l’Université (ASSAS)** 
+jeudi 9 décembre, 17h00-17h30
+
+* **La direction générale des finances publiques (DGFIP) : focus sur la DTNUM**
+vendredi 10 décembre, 17h00-17h30
+
+* **L'Agence de Mutualisation des Universités et Établissements : présentation, projets et opportunités**
+lundi 13 décembre, 17h30-18h00
+
+* **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle**
+mardi 14 décembre, 17h30-18h00
+
+* **Le programme Entrepreneurs d’intérêt général : la transformation numérique au cœur des administrations**
+mercredi 15 décembre, 16h00-16h30
