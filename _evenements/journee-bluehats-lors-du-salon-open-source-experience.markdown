@@ -100,9 +100,6 @@ Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr](mailto:logi
   * Présentation de la suite éditoriale [Scenari](https://scenari.software/fr/) et cas d’application dans l’enseignement supérieur, Sandrine Dewez (Le cnam)
   * À la découverte de la forge [SourceHut](https://sourcehut.org/), Bastien Guerry (Etalab)
 
-Le programme est en cours de construction grâce à vos contributions.
-Nous publions le programme au fil de l'eau :
-<div class="lien-important"><p><a href="https://github.com/blue-hats/journee-bluehats-osx-2021/"  title="Consulter le programme">Consulter le programme</a></p></div>
 
 <div class="noir encadre"><h3>La communauté Blue hats</h3>
 <p>Les Blue hats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="gazette - Lien externe">gazette</a>.</p>
