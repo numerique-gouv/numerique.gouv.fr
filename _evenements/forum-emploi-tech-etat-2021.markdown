@@ -33,7 +33,12 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
 Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et curieux des opportunités professionnelles offertes par l’État ?
 
-<div class="encadre noir"><p style="margin-top: 20px"><b>Créez le service public de demain et rencontrez les recruteurs de l’État en ligne et/ou à Paris !</b></p></div>
+> {: .text-center}
+>
+> ### **Créez le service public de demain et rencontrez les recruteurs de l’État en ligne et/ou à Paris !**
+>
+> {: .margin-top-1 .text-center}
+{: .encadre role="presentation" }
 
 ### Le forum virtuel du 29 novembre au 15 décembre 2021 en ligne
 
