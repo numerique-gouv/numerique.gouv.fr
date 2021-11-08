@@ -1,6 +1,5 @@
 ---
 title: Plan d’action logiciels libres et communs numériques
-published: false
 tags:
 - TECH.GOUV
 - Logiciels libres
