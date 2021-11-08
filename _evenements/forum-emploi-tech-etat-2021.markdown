@@ -162,13 +162,13 @@ de 11h à 12h, de 15h à 16h ou de 17h à 18h
 * **Décryptage de l'offre et préparation entretien**
 de 10h à 11h, de 14h à 15h ou de 16h à 17h
 
-> Un offre d'emploi intègre une mine d'informations sur le poste que vous rêvez de décrocher !!  En tant que candidat, votre première mission sera d'en extraire les éléments les plus importants afin d'anticiper le schéma de sélection du recruteur et optimiser vos chances de réussite. Dans cet atelier, nous analyserons point par point les grandes séquences d'une offre d'emploi et nous dénicherons tous les messages qui s'y dissimulent. A l'issue de cette phase exploratoire nous construirons le schéma de questionnement de votre entretien avec un seul objectif : Garder le contrôle et franchir cette étape avec brio !
+> Une offre d'emploi intègre une mine d'informations sur le poste que vous rêvez de décrocher !  En tant que candidat, votre première mission sera d'en extraire les éléments les plus importants afin d'anticiper le schéma de sélection du recruteur et d'optimiser vos chances de réussite. Dans cet atelier, nous analyserons point par point les grandes séquences d'une offre d'emploi et nous dénicherons tous les messages qui s'y dissimulent. A l'issue de cette phase exploratoire, nous construirons le schéma de questionnement de votre entretien avec un seul objectif : garder le contrôle et franchir cette étape avec brio !
 
 * **Postures de candidat sur les réseaux sociaux**
 de 11h à 12h, de 15h à 16h ou de 17h à 18h
 
-> En 2021, nous ne pouvons que constater l'influence croissante de LinkediN sur les comportements des recruteurs mais aussi des candidats. Bien au-delà du CV, votre vitrine professionnelle sera votre atout majeur dans la quête de votre job de rêve. Dans cet atelier, nous vous aiderons à renforcer votre attractivité candidat grâce une présence maitrisée sur cet outil incontournable. Outre les fondamentaux, vous apprendrez à y communiquer sur vos expertises, vos expériences, vos réalisations...
-Comment s'y prendre ? quelles sont les meilleures pratiques actuelles ? Ce sera l'occasion d'échanger dans le cadre de cet atelier collaboratif. 
+> En 2021, nous ne pouvons que constater l'influence croissante de LinkedIn sur les comportements des recruteurs mais aussi des candidats. Bien au-delà du CV, votre vitrine professionnelle sera votre atout majeur dans la quête de votre job de rêve. Dans cet atelier, nous vous aiderons à renforcer votre attractivité candidat grâce une présence maîtrisée sur cet outil incontournable. Outre les fondamentaux, vous apprendrez à y communiquer sur vos expertises, vos expériences, vos réalisations...
+Comment s'y prendre ? Quelles sont les meilleures pratiques actuelles ? Ce sera l'occasion d'échanger dans le cadre de cet atelier collaboratif. 
 
 * **L'ikigaï ou comment donner du sens à son projet**
 de 10h à 11h, de 14h à 15h ou de 16h à 17h
