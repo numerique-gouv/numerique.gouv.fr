@@ -35,7 +35,7 @@ Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et cur
 
 > {: .text-center}
 >
-> ### **Créez le service public de demain et rencontrez les recruteurs de l’État en ligne et/ou à Paris !**
+> #### **Créez le service public de demain et rencontrez les recruteurs de l’État en ligne et/ou à Paris !**
 >
 > {: .margin-top-1 .text-center}
 {: .encadre role="presentation" }
