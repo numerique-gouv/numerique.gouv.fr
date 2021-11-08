@@ -59,7 +59,7 @@ Comment participer au forum physique ? **Du 8 novembre au 16 décembre inclus : 
 
 ## Programme complet
 
-### Conférences tech
+### **Conférences tech**
 *Du 29 novembre au 2 décembre*
 
 Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à 60 minutes chacune.
@@ -97,7 +97,7 @@ Jeudi 2 décembre, 17h30-18h
 * **Développement en mode produits et innovations managériales**
 Jeudi 2 décembre, 18h-18h30 
 
-### Des **présentations de recruteurs** 
+### **Des présentations de recruteurs**
 *du 3 au 15 décembre*
 
 Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune :
@@ -129,8 +129,8 @@ mardi 14 décembre, 17h30-18h00
 * **Le programme Entrepreneurs d’intérêt général : la transformation numérique au cœur des administrations**
 mercredi 15 décembre, 16h00-16h30
 
-Ateliers
-Le 16 décembre à Paris
+### **Ateliers**
+*Le 16 décembre à Paris*
 
 Participez à ces ateliers ludiques centrés sur le développement personnel et professionnel. Nombre de places **limité entre 12 et 16 personnes** par atelier. **Réservez rapidement !**
 
