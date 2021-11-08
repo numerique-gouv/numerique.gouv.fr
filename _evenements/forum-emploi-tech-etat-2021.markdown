@@ -48,9 +48,11 @@ Au programme :
 Pour participer au forum virtuel, rien de plus simple : **du 8 novembre au 2 décembre à 14h** : **[inscrivez-vous](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)**, découvrez les différentes offres et prenez rendez-vous en quelques clics avec les recruteurs.
 
 <div align="center">
-<a href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211"><b>S'inscrire au Forum virtuel</b></a>
-<br>Jusqu’au 2 décembre 2021, 14h
+<a 
+href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="button"><b>S'inscrire au Forum virtuel</b></a>
+<br>Jusqu’au 2 décembre 2021
 </div>
+
 
 ### Le forum physique le 16 décembre 2021 à Paris
 
@@ -140,8 +142,9 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
 <br>mercredi 15 décembre, 16h00-16h30
 
 <div align="center">
-<a href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211"><b>S'inscrire au Forum virtuel</b></a>
-<br>Jusqu’au 2 décembre 2021, 14h
+<a 
+href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="button"><b>S'inscrire au Forum virtuel</b></a>
+<br>Jusqu’au 2 décembre 2021
 </div>
 
 #### **Ateliers**
