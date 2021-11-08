@@ -47,6 +47,11 @@ Au programme :
 
 Pour participer au forum virtuel, rien de plus simple : **du 8 novembre au 2 décembre à 14h** : **[inscrivez-vous](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)**, découvrez les différentes offres et prenez rendez-vous en quelques clics avec les recruteurs.
 
+<div align="center">
+<a href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211"><b>S'inscrire au Forum virtuel</b></a>
+<br>Jusqu’au 2 décembre 2021, 14h
+</div>
+
 ### Le forum physique le 16 décembre 2021 à Paris
 
 Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**, issues de la fonction publique d’État et de collectivités territoriales, proposant plus de 300 postes à pourvoir en région et en Île-de-France.
@@ -56,6 +61,11 @@ Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**
 * Au cours de cette journée seront aussi proposés **des ateliers** de développement professionnel (sur inscription et le jour J selon les places disponibles).
 
 Comment participer au forum physique ? **Du 8 novembre au 16 décembre inclus : [inscrivez-vous en ligne](https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db)** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
+
+<div align="center">
+<a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum physique</b></a>
+<br>Jusqu’au 16 décembre 2021
+</div>
 
 ## Programme complet
 
@@ -131,7 +141,7 @@ mercredi 15 décembre, 16h00-16h30
 
 <div align="center">
 <a href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211"><b>S'inscrire au Forum virtuel</b></a>
-<br>Jusqu’au 2 décembre 2021
+<br>Jusqu’au 2 décembre 2021, 14h
 </div>
 
 #### **Ateliers**
