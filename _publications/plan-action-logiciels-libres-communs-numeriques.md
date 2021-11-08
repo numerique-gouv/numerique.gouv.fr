@@ -1,5 +1,6 @@
 ---
 title: Plan d’action logiciels libres et communs numériques
+published: false
 tags:
 - TECH.GOUV
 - Logiciels libres
@@ -29,8 +30,10 @@ layout: rgaa
 ---
 
 Le plan d’action « logiciels libres et communs numériques » a été conçu à la suite de la publication de la [circulaire data](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire data - Lien externe") du Premier ministre n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
+**Lire notre article :** [Données, algorithmes et codes sources : une mobilisation générale sans précédent, à travers 15 feuilles de route ministérielles](/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/)
+{:.margin-left-3}
 
-Il est piloté au sein de la DINUM par un nouveau « pôle d’expertise logiciels libres », constitué au sein du département [Etalab](https://www.etalab.gouv.fr/ "Etalab - Lien externe").
+Ce plan d'action est piloté au sein de la DINUM par un nouveau « pôle d’expertise logiciels libres », constitué au sein du département [Etalab](https://www.etalab.gouv.fr/ "Etalab - Lien externe").
 
 Ses objectifs sont de mieux connaître et utiliser les logiciels libres et les communs numériques dans l’administration, de développer et d’accompagner la libération et l’ouverture de ses codes sources et de s’appuyer sur les logiciels libres et open source pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique, notamment en valorisant les contributions publiques aux projets et communautés concernés.
 
