@@ -24,17 +24,6 @@ champs_informations:
 
 <p style="margin-bottom: 30px">À vos agendas : calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique</p>
 
-
-**[Le mercredi 03/11 de 14h à 18h] [Serious Games]** *Des Serious Games pour la réflexion, la coopération et l'apprentissage*
-
-Vous avez besoin de solutions à un problème ? Rencontrez des auteurs et débattez de vos idées pour contribuer à traiter par le jeu votre problème. Venez découvrir des jeux, rencontrez les auteurs et le retour d’expériences de la direction de l'Ecole de Guerre.
-
-* Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
-* 77 Av. de Ségur 75015 Paris 
-
-<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-des-serious-games-pour-la-reflexion-la-cooperation-et-lapprentissage-196951596527">Programme et inscriptions</a></p></div>
-
-
 <p style="margin-top: 30px"><b>[Le lundi 08/11 de 14h à 16h] [Atelier]</b> <i>Comment l’administration peut-elle aider proactivement les jeunes dans leur entrée dans la vie active ?</i></p>
 
 Inverser la logique administrative et aller-vers l’usager pour l’informer de ses droits : c’est le cadre du programme administration proactive qui mobilise de nombreuses administration. Sur la base des travaux d’investigation de la DINUM, nous chercherons à identifier, avec les jeunes mobilisés pour l’atelier, les moments de leur parcours d’entrée dans la vie active où ils auraient eu le plus besoin d’un soutien proactif de l’administration. 
