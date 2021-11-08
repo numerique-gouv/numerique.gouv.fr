@@ -1,5 +1,5 @@
 ---
-title: 'Journée BlueHats lors du salon Open Source Experience : contribuez !'
+title: Journée BlueHats lors du salon Open Source Experience
 date: 2021-10-01 10:44:00 +02:00
 categories:
 - Salon
@@ -65,9 +65,41 @@ Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr](mailto:logi
 <div class="lien-important"><p><a href="https://www.opensource-experience.com/"  title="S'inscrire">S'inscrire</a></p></div>
 
 ## Programme
-Le programme est en cours de construction grâce à vos contributions. 
-Nous publions le programme au fil de l'eau :
-<div class="lien-important"><p><a href="https://github.com/blue-hats/journee-bluehats-osx-2021/"  title="Consulter le programme">Consulter le programme</a></p></div>
+
+* **9h-9h30** : *Café de bienvenue et installation*
+
+* **9h30-10h30** : *Présentations courtes du matin*
+
+  * Déploiement et intégration de [RocketChat](https://sill.etalab.gouv.fr/fr/software?id=124) à l’Université de Lorraine : Benjamin Seclier
+  * Présentation d’[Esup-Pod](https://sill.etalab.gouv.fr/fr/software?id=210) par Nicolas Can (en visio)
+  * [Le projet PLUME](https://github.com/blue-hats/journee-bluehats-osx-2021/blob/main/details/plume.org) et les services rendus à la Communauté de la recherche, Teresa Gomez-Diaz
+
+* **11h-12h** : Table ronde sur les catalogues publiés par la DINUM
+  * [Le catalogue GouvTech](https://catalogue.numerique.gouv.fr/) de la mission LABEL, Sabine Guillaume (DINUM)
+  * Le [Socle interministériel de logiciels libres](https://sill.etalab.gouv.fr/fr/software), Bastien Guerry (DINUM)
+
+* **12h-13h30** : *Temps libre*
+  * **13h30-14h45** : *Premières présentations courtes de l’après-midi*
+  * Utiliser [OmegaT](https://omegat.org/) pour préparer les traducteurs à la résilience, Jean-Christophe Helary
+  * [Onyxia](https://github.com/InseeFrLab/onyxia): présentation de la plateforme par Frédéric Comte (INSEE)
+  * [Keycloakify](https://sill.etalab.gouv.fr/fr/software?id=227): Des pages de connexions belles, fonctionnelles et bien intégrées, par Joseph Garrone (INSEE)
+  * Logiciels et ressources éducatives libres, Alexis Kauffmann
+  * Utilisation du logiciel libre [LemonLDAP::NG](https://sill.etalab.gouv.fr/fr/software?id=77) pour les SSO, Jeremie Fabre (Gendarmerie nationale)
+  * [Multi](https://hackmd.io/@jailbreak/multi) : une nouvelle coopérative pour le numérique libre d’intérêt général, [Julien Paris](https://twitter.com/jparis_py) et [Johan Richer](https://twitter.com/JohanRicher)
+
+* **14h45-15h** : *Pause*
+* **15h-16h15** : *Deuxièmes présentations courtes de l’après-midi*
+  * [Démarches simplifiées](https://sill.etalab.gouv.fr/fr/software?id=205) par la [DINUM](https://www.numerique.gouv.fr/) Philippe Vrignaud
+  * Le logiciel libre à l’Agence de Mutualisation des Universités et établissements, David Rongeat
+  * Démarches simplifiées par l’Adullact, Pascal kuczynski
+  * Open source, numérique et environnement, par la mission Green Tech, Dinum, Richard Hanna
+  * [Framadate](https://framadate.org/) : améliorer design et accessibilité, par le [pôle Design des services numériques](https://design.numerique.gouv.fr/) de la [DINUM](https://numerique.gouv.fr/), Thomas Bonamy et Erwan le Gall
+
+* **16h15-16h30** : *Pause*
+* **16h30-17h30** : *Dernières présentations et discussion ouverte*
+  * Présentation de la suite éditoriale [Scenari](https://scenari.software/fr/) et cas d’application dans l’enseignement supérieur, Sandrine Dewez (Le cnam)
+  * À la découverte de la forge [SourceHut](https://sourcehut.org/), Bastien Guerry (Etalab)
+
 
 <div class="noir encadre"><h3>La communauté Blue hats</h3>
 <p>Les Blue hats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="gazette - Lien externe">gazette</a>.</p>
@@ -77,5 +109,7 @@ Nous publions le programme au fil de l'eau :
 </p><ul><li><a href="https://www.tchap.gouv.fr/#/room/%23BlueHats21LW8XE:agent.dinum.tchap.gouv.fr" alt="Retrouvez les BlueHats dans le salon dédié sur Tchap - Lien externe">Retrouvez les BlueHats dans le salon dédié sur Tchap,</a> la messagerie instantanée de l’État (réservé aux agents publics ou sur invitation)<p></p></li></ul></div>
 
 **À lire aussi :**
+
 * [Retour sur la journée BlueHats de 2019](https://www.numerique.gouv.fr/agenda/journee-bluehats-dinum-paris-open-source-summit-2019/)
+
 * [Lancement de la communauté BlueHats de 2018](https://www.numerique.gouv.fr/actualites/la-communaute-blue-hats-hackers-dinteret-general-est-lancee-rejoignez-nous/)
