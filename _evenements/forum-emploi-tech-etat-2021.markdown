@@ -129,6 +129,11 @@ mardi 14 décembre, 17h30-18h00
 * **Le programme Entrepreneurs d’intérêt général : la transformation numérique au cœur des administrations**
 mercredi 15 décembre, 16h00-16h30
 
+<div align="center">
+<a href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211"><b>S'inscrire au Forum virtuel</b></a>
+<br>Jusqu’au 2 décembre 2021
+</div>
+
 #### **Ateliers**
 *Le 16 décembre à Paris*
 
@@ -164,3 +169,8 @@ de 10h à 11h, de 14h à 15h ou de 16h à 17h
 de 11h à 12h, de 15h à 16h ou de 17h à 18h
 
 > Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.
+
+<div align="center">
+<a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum physique</b></a>
+<br>Jusqu’au 16 décembre 2021
+</div>
