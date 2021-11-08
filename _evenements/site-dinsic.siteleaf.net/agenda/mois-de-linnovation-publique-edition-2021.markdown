@@ -24,7 +24,13 @@ champs_informations:
 
 <p style="margin-bottom: 30px">À vos agendas : calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique</p>
 
-<p style="margin-top: 30px"><b>[Le lundi 08/11 de 14h à 16h] [Atelier]</b> <i>Comment l’administration peut-elle aider proactivement les jeunes dans leur entrée dans la vie active ?</i></p>
+<p style="margin-top: 30px"><b>[Le mercredi 10/11 de 10h à 11h30] [Atelier]</b> <i>[Baromètre Numérique de l’Agent] Environnement numérique de travail des agents publics : quelles évolutions ?</i></p>
+
+Depuis 2019, la Direction interministérielle du numérique (DINUM) déploie le « Baromètre numérique de l’agent » (BNA), l’enquête qui recueille l’avis des agents de l’État sur leur environnement numérique de travail. Cette initiative permet aux administrations centrales et services déconcentrés, d’évaluer la maîtrise et la satisfaction qu’ont les agents de leur environnement de travail. Quels enseignements tirons-nous ? Comment l’environnement numérique de travail des agents s’est-il amélioré ? Quelles sont les marges d’amélioration et quelles bonnes pratiques pouvons-nous partager, ensemble, pour le faire évoluer ? 
+
+<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-environnement-numerique-de-travail-des-agents-quelles-evolutions-199693838647">Plus d'informations et inscriptions</a></p></div>
+
+<p style="margin-top: 30px"><b>[Le lundi 15/11 de 18h à 20h] [Atelier]</b> <i>Comment l’administration peut-elle aider proactivement les jeunes dans leur entrée dans la vie active ?</i></p>
 
 Inverser la logique administrative et aller-vers l’usager pour l’informer de ses droits : c’est le cadre du programme administration proactive qui mobilise de nombreuses administration. Sur la base des travaux d’investigation de la DINUM, nous chercherons à identifier, avec les jeunes mobilisés pour l’atelier, les moments de leur parcours d’entrée dans la vie active où ils auraient eu le plus besoin d’un soutien proactif de l’administration. 
 
@@ -33,14 +39,6 @@ Inverser la logique administrative et aller-vers l’usager pour l’informer de
 * 77 Av. de Ségur 75015 Paris 
 
 <div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-atelier-de-reflexion-sur-laccompagnement-des-jeunes-vers-la-vie-active-200197745847?aff=ebdsoporgprofile">Plus d'informations et inscriptions</a></p></div>
-
-
-<p style="margin-top: 30px"><b>[Le mercredi 10/11 de 10h à 11h30] [Atelier]</b> <i>[Baromètre Numérique de l’Agent] Environnement numérique de travail des agents publics : quelles évolutions ?</i></p>
-
-Depuis 2019, la Direction interministérielle du numérique (DINUM) déploie le « Baromètre numérique de l’agent » (BNA), l’enquête qui recueille l’avis des agents de l’État sur leur environnement numérique de travail. Cette initiative permet aux administrations centrales et services déconcentrés, d’évaluer la maîtrise et la satisfaction qu’ont les agents de leur environnement de travail. Quels enseignements tirons-nous ? Comment l’environnement numérique de travail des agents s’est-il amélioré ? Quelles sont les marges d’amélioration et quelles bonnes pratiques pouvons-nous partager, ensemble, pour le faire évoluer ? 
-
-<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-environnement-numerique-de-travail-des-agents-quelles-evolutions-199693838647">Plus d'informations et inscriptions</a></p></div>
-
 
 <p style="margin-top: 30px"><b>[Le jeudi 18/11 de 10h à 12h] [Formation]</b> <i>Services publics en ligne : formez-vous à l'accessibilité !</i></p>
 
