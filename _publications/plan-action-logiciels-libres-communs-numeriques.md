@@ -5,7 +5,12 @@ tags:
 - TECH.GOUV
 - Logiciels libres
 - communs numériques
-chapeau-text: 'Lancé par l’État en novembre 2021, le plan d’action logiciels libres  et communs numériques contribue à la transformation numérique du service public avec trois objectifs : mieux connaître et utiliser les logiciels libres et les communs numériques dans l’administration, développer et accompagner l’ouverture des codessources du secteur public, s’appuyer sur les logiciels libres et open source pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique.'
+chapeau-text: 'Lancé par l’État en novembre 2021, le plan d’action logiciels libres  et
+  communs numériques contribue à la transformation numérique du service public avec
+  trois objectifs : mieux connaître et utiliser les logiciels libres et les communs
+  numériques dans l’administration, développer et accompagner l’ouverture des codessources
+  du secteur public, s’appuyer sur les logiciels libres et open source pour renforcer
+  l’attractivité de l’État-employeur auprès des talents du numérique.'
 une-ou-diaporama:
 - image: "/uploads/logiciel_libre.png"
 style: |2
