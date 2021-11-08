@@ -117,7 +117,7 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à
 #### **Des présentations de recruteurs**
 *du 3 au 15 décembre*
 
-Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune :
+Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune.
 
 * **Auditeur des systèmes d’information à la CNIL : la sécurité des données, enjeu clé du RGPD** 
 <br>vendredi 3 décembre, 17h00-17h30
