@@ -34,12 +34,12 @@ champs_informations:
     agents de sécurité, capacité du lieu de 700 personnes.
 - intitule: Forum en ligne
   contenu: du 29 novembre au 15 décembre
-- intitule: "-->"
+- intitule: 
   lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
   contenu: 'Inscription gratuite jusqu''au 2 décembre '
 - intitule: Forum à Paris
   contenu: le 16 décembre
-- intitule: "-->"
+- intitule: 
   lien: https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db
   contenu: Inscription gratuite jusqu'au 16 décembre
 ---
