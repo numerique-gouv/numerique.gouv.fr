@@ -77,7 +77,7 @@ Comment participer au forum physique ? **Du 8 novembre au 16 décembre inclus : 
 <div align="center"><h3>Programme complet</h3></div>
 
 #### **Conférences tech**
-*Du 29 novembre au 2 décembre*
+***Du 29 novembre au 2 décembre***
 
 Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à 60 minutes chacune.
 
@@ -115,7 +115,7 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à
 <br>Jeudi 2 décembre, 18h-18h30 
 
 #### **Des présentations de recruteurs**
-*du 3 au 15 décembre*
+***du 3 au 15 décembre***
 
 Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune.
 
@@ -125,7 +125,7 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
 * **La Direction de l’information légale et administrative : présentation, projets et opportunités**
 <br>lundi 6 décembre, 17h00-17h30
 
-* **Un métier Data, un projet au Ministère des armées** 
+* **Un métier Data, un projet au ministère des Armées** 
 <br>mardi 7 décembre, 17h00-17h30
 
 * **Quels sont les métiers Tech du ministère de l’Europe et des Affaires étrangères ?** 
