@@ -20,6 +20,7 @@ event_start_date: 2021-11-29 09:00:00 +01:00
 event_end_date: 2021-12-16 18:00:00 +01:00
 lieu: La Grande Crypte
 adresse: 69 rue Boissière, 75016 PARIS
+afficher_la_carte: true
 champs_informations:
 - intitule: Comment y aller ?
   contenu: |-
