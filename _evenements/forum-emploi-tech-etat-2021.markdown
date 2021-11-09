@@ -8,7 +8,7 @@ tags:
 - RH
 - Tech
 chapeau-text: 'La direction interministérielle du numérique (DINUM) organise la 5ème
-  édition du Forum de l’emploi tech de l’Etat : en ligne du 29 novembre au 15 décembre
+  édition du Forum de l’emploi tech de l’État : en ligne du 29 novembre au 15 décembre
   et à Paris le 16 décembre. L’occasion de faire se rencontrer recruteurs du secteur
   public (ministères, collectivités territoriales…) et candidats professionnels du
   numérique, issus du secteur public ou du privé. Le Forum sera rythmé par des conférences,
@@ -81,7 +81,7 @@ Comment participer au forum physique ? **Du 8 novembre au 16 décembre inclus : 
 
 Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à 60 minutes chacune.
 
-* **Le virage cloud dans l'Etat**
+* **Le virage cloud dans l'État**
 <br>Lundi 29 novembre 2021, 17h-17h30
 
 * **Vers un numérique écoresponsable dans l’administration publique**
@@ -93,7 +93,7 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à
 * **Comment le numérique a transformé l’action publique ? Focus sur le programme TECH.GOUV**
 <br>Mardi 30 novembre, 17h-17h30
 
-* **Comment l’Etat attire les talents du numérique**
+* **Comment l’État attire les talents du numérique**
 <br>Mardi 30 novembre, 17h30-18h
 
 * **La dématérialisation des procédures de bout en bout, et si on en faisait plus et plus vite ?** 
@@ -102,13 +102,13 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à
 * **La culture d’innovation au sein de l’État** 
 <br>Mercredi 1er décembre, 17h-18h
 
-* **Le logiciel libre dans l'Etat** 
+* **Le logiciel libre dans l'État** 
 <br>Mercredi 1er décembre, 18h-18h30
 
 * **Le numérique au service de la transformation des politiques publiques**
 <br>Jeudi 2 décembre, 17h-17h30
 
-* **Datascience et open data : au cœur de la transformation numérique de l’Etat**
+* **Datascience et open data : au cœur de la transformation numérique de l’État**
 <br>Jeudi 2 décembre, 17h30-18h
 
 * **Développement en mode produits et innovations managériales**
