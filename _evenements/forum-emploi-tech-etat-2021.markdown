@@ -54,7 +54,7 @@ Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et cur
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3">
 <h2 class="text-center font-bold">Au menu</h2>
 <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
-<a href="#comment-ca-marche-agents"  class="cell nav-section grid-y medium-6 large-4 black-link">
+<a href="#forum-en-ligne"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="" src="/uploads/comment_ca_marche_agents.svg">
 <span class="h5 text-center">Forum en ligne</span>
 <span class="button">Voir le programme</span>
@@ -84,7 +84,7 @@ Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et cur
 > {: .margin-top-1 .text-center}
 {: .encadre role="presentation" }
 
-### Le Forum en ligne du 29 novembre au 15 décembre 2021 en ligne
+<h3 id="forum-en-ligne">Le Forum en ligne du 29 novembre au 15 décembre 2021 en ligne</h3>
 
 Vous souhaitez participer à cet événement unique mais vous n’êtes pas à Paris le 16 décembre, vous souhaitez consulter les offres d’emploi dans toute la France, assister aux conférences et au jobdating ? Participez au Forum en ligne ! Créez votre profil sur[ notre plateforme en ligne ](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)et déposez-y votre CV.
 
