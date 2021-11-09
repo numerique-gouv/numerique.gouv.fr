@@ -50,15 +50,38 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
 Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et curieux des opportunités professionnelles offertes par l’État ?
 
+<br>
+<br>
+
 <div id="lien-fleche"></div>
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3">
 <h2 class="text-center font-bold">Au menu</h2>
 <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
-<a href="#Forum-en-ligne"  class="cell nav-section grid-y medium-6 large-4 black-link">
+<a href="#comment-ca-marche-agents"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="" src="/uploads/comment_ca_marche_agents.svg">
 <span class="h5 text-center">Comment ça marche pour les agents ?</span>
 <span class="button">Voir plus</span>
 </a>
+
+<!--
+<a href="#missions"  class="cell nav-section grid-y medium-6 large-4 black-link">
+<img alt="" src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg">
+<span class="h5 text-center">Missions proposées</span>
+<span class="button">Voir plus</span>
+</a>
+  -->
+
+<a href="#comment-ca-marche-admin"  class="cell nav-section grid-y medium-6 large-4 black-link">
+<img alt="" src="/uploads/comment_ca_marche_administrations.svg">
+<span class="h5 text-center">Comment ça marche pour les administrations ?</span>
+<span class="button">Voir plus</span>
+</a>
+</nav>
+</section>
+<div id="list-top"></div>
+
+<br>
+<br>
 
 
 > {: .text-center}
