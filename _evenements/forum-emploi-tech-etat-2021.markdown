@@ -21,10 +21,8 @@ event_end_date: 2021-12-16 18:00:00 +01:00
 lieu: La Grande Crypte
 adresse: 69 rue Boissière, 75016 PARIS
 champs_informations:
-- intitule: Modalités
-  contenu: Entrée gratuite avec inscription obligatoire préalable ou sur place (QR
-    Code à présenter à l’accueil) et pass sanitaire à présenter à l’extérieur aux
-    agents de sécurité, capacité du lieu de 700 personnes.
+- intitule: Inscription
+  contenu: jusqu'au 16 décembre
 ---
 
 ## Plus de 300 postes à pourvoir chaque année
