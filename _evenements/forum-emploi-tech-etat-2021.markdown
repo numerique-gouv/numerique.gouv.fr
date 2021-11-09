@@ -30,9 +30,8 @@ champs_informations:
 - intitule: Horaires
   contenu: 9h - 18h
 - intitule: Modalités
-  contenu: Entrée gratuite avec inscription obligatoire préalable ou sur place (QR
-    Code à présenter à l’accueil) et pass sanitaire à présenter à l’extérieur aux
-    agents de sécurité, capacité du lieu de 700 personnes.
+  contenu: Entrée gratuite avec inscription obligatoire (QR Code à présenter à l’accueil).
+    Pass sanitaire et masque requis.
 - intitule: Forum en ligne
   contenu: du 29 novembre au 15 décembre
 - intitule: 
