@@ -223,7 +223,6 @@ Comment s'y prendre ? Quelles sont les meilleures pratiques actuelles ? Ce sera 
 <br>
 * **Réussir une mobilité en prenant conscience de ses ressources**
 <br>de 11h à 12h, de 15h à 16h ou de 17h à 18h
-
 <br>Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.
 
 <div align="center">
