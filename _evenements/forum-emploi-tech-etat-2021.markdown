@@ -143,7 +143,7 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
 * **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle**
 <br>mardi 14 décembre, 17h30-18h00
 
-* **Le programme Entrepreneurs d’intérêt général : la transformation numérique au cœur des administrations**
+* **Le programme Entrepreneurs d’intérêt général (EIG) : la transformation numérique au cœur des administrations**
 <br>mercredi 15 décembre, 16h00-16h30
 
 <div align="center">
