@@ -51,7 +51,7 @@ Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et cur
 <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
 <a href="#forum-en-ligne"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="" src="/uploads/comment_ca_marche_agents.svg">
-<span class="h5 text-center">Forum en ligne</span>
+<span class="h4 text-center">Forum en ligne</span>
 <span class="button">Voir le programme</span>
 </a>
 
@@ -65,7 +65,7 @@ Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et cur
 
 <a href="#comment-ca-marche-admin"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="" src="/uploads/comment_ca_marche_administrations.svg">
-<span class="h5 text-center">Forum à Paris</span>
+<span class="h4 text-center">Forum à Paris</span>
 <span class="button">Voir le programme</span>
 </a>
 </nav>
