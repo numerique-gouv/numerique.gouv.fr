@@ -48,6 +48,12 @@ Au programme :
 
 * Des **échanges et entretiens** avec les recruteurs par téléphone ou par visio-conférence.
 
+<div align="center">
+<a 
+href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="button"><b>S'inscrire au Forum en ligne</b></a>
+<br>Jusqu’au 2 décembre 2021
+</div>
+
 <div align="center"><h3>Programme complet du Forum en ligne</h3></div>
 
 #### **Conférences tech**
@@ -119,12 +125,6 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
 
 * **Le programme Entrepreneurs d’intérêt général (EIG) : la transformation numérique au cœur des administrations**
 <br>mercredi 15 décembre, 16h00-16h30
-
-<div align="center">
-<a 
-href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="button"><b>S'inscrire au Forum en ligne</b></a>
-<br>Jusqu’au 2 décembre 2021
-</div>
 
 Pour participer au forum en ligne, rien de plus simple : **du 8 novembre au 2 décembre à 14h** : **[inscrivez-vous](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)**, découvrez les différentes offres et prenez rendez-vous en quelques clics avec les recruteurs.
 
