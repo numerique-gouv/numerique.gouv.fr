@@ -54,7 +54,7 @@ Pour participer au forum virtuel, rien de plus simple : **du 8 novembre au 2 dé
 
 <div align="center">
 <a 
-href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="button"><b>S'inscrire au Forum virtuel</b></a>
+href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="button"><b>S'inscrire au Forum en ligne</b></a>
 <br>Jusqu’au 2 décembre 2021
 </div>
 
@@ -70,7 +70,7 @@ Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**
 Comment participer au forum physique ? **Du 8 novembre au 16 décembre inclus : [inscrivez-vous en ligne](https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db)** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
 
 <div align="center">
-<a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum physique</b></a>
+<a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum à Paris</b></a>
 <br>Jusqu’au 16 décembre 2021
 </div>
 
@@ -148,7 +148,7 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
 
 <div align="center">
 <a 
-href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="button"><b>S'inscrire au Forum virtuel</b></a>
+href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="button"><b>S'inscrire au Forum en ligne</b></a>
 <br>Jusqu’au 2 décembre 2021
 </div>
 
@@ -189,6 +189,6 @@ Comment s'y prendre ? Quelles sont les meilleures pratiques actuelles ? Ce sera 
 > Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.
 
 <div align="center">
-<a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum physique</b></a>
+<a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum à Paris</b></a>
 <br>Jusqu’au 16 décembre 2021
 </div>
