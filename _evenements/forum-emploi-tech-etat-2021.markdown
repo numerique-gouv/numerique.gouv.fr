@@ -49,13 +49,13 @@ Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et cur
 <h2 class="text-center font-bold">Au menu</h2>
 <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
 <a href="#forum-en-ligne"  class="cell nav-section grid-y medium-6 large-4 black-link">
-<img alt="" src="/uploads/comment_ca_marche_agents.svg">
+<img alt="" src="/uploads/forum_virutel.svg">
 <span class="h4 text-center">Forum en ligne</span>
 <span class="button">Voir le programme</span>
 </a>
 
 <a href="#forum-paris"  class="cell nav-section grid-y medium-6 large-4 black-link">
-<img alt="" src="/uploads/comment_ca_marche_administrations.svg">
+<img alt="" src="/uploads/[forum_paris.svg](/uploads/forum_paris.svg)">
 <span class="h4 text-center">Forum à Paris</span>
 <span class="button">Voir le programme</span>
 </a>
