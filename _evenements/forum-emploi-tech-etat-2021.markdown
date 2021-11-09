@@ -61,7 +61,7 @@ Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et cur
 </a>
 
 <!--
-<a href="#missions"  class="cell nav-section grid-y medium-6 large-4 black-link">
+<a href="#forum-paris"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="" src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg">
 <span class="h5 text-center">Missions proposées</span>
 <span class="button">Voir le programme</span>
@@ -181,7 +181,7 @@ href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="butto
 </div>
 
 
-### Le Forum à Paris le 16 décembre 2021 à Paris
+<h3 id="forum-en-ligne">### Le Forum à Paris le 16 décembre 2021 à Paris</h3>
 
 Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**, issues de la fonction publique d’État et de collectivités territoriales, proposant plus de 300 postes à pourvoir en région et en Île-de-France.
 
