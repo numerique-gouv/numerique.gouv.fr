@@ -27,7 +27,7 @@ champs_informations:
     agents de sécurité, capacité du lieu de 700 personnes.
 ---
 
-## Plus de 300 postes à pouvoir chaque année
+## Plus de 300 postes à pourvoir chaque année
 
 Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
 Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
