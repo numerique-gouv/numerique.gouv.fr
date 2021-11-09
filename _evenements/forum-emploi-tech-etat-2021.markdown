@@ -157,7 +157,7 @@ href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="butto
 
 Participez à ces ateliers ludiques centrés sur le développement personnel et professionnel. Nombre de places **limité entre 12 et 16 personnes** par atelier. **Réservez rapidement !**
 
-* **Se présenter avec l'Elevator Pitch**
+* **Se présenter avec « l'Elevator Pitch »**
 <br>de 10h à 11h, de 14h à 15h ou de 16h à 17h
 
 > Cet atelier permet à chaque participant de s’approprier la méthode pour construire un elevator pitch efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.
