@@ -18,7 +18,7 @@ une-ou-diaporama:
 - image: "/uploads/2021_11_03_VISUEL_AGENDA_FORUM_RECRUTEMENT-c8e24b.png"
 event_start_date: 2021-11-29 09:00:00 +01:00
 event_end_date: 2021-12-16 18:00:00 +01:00
-lieu: La grande Crypte
+lieu: La Grande Crypte
 adresse: 69 rue Boissière, 75016 PARIS
 champs_informations:
 - intitule: Modalités
