@@ -21,8 +21,9 @@ event_end_date: 2021-12-16 18:00:00 +01:00
 lieu: La Grande Crypte
 adresse: 69 rue Boissière, 75016 PARIS
 acces:
-- type: Forum en ligne
-  lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
+- type: Forum en ligne, inscription jusqu'au 2 décembre
+  lien:
+  - nom: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
 champs_informations:
 - intitule: Comment y aller ?
   contenu: |-
