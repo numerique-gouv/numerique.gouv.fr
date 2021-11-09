@@ -153,7 +153,7 @@ href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="butto
 </div>
 
 #### **Ateliers**
-*Le 16 décembre à Paris*
+***Le 16 décembre à Paris***
 
 Participez à ces ateliers ludiques centrés sur le développement personnel et professionnel. Nombre de places **limité entre 12 et 16 personnes** par atelier. **Réservez rapidement !**
 
