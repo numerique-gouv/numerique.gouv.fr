@@ -137,7 +137,7 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
 * **La direction générale des finances publiques (DGFiP) : focus sur la DTNUM**
 <br>vendredi 10 décembre, 17h00-17h30
 
-* **L'Agence de Mutualisation des Universités et Établissements (AMUE) : présentation, projets et opportunités**
+* **L'agence de mutualisation des universités et établissements (AMUE) : présentation, projets et opportunités**
 <br>lundi 13 décembre, 17h30-18h00
 
 * **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle**
