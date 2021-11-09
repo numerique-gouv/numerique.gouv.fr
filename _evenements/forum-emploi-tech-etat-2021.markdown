@@ -35,15 +35,12 @@ champs_informations:
   contenu: Entrée gratuite avec inscription obligatoire (QR Code à présenter à l’accueil).
     Pass sanitaire et masque requis.
 - intitule: Forum en ligne
-  contenu: du 29/11 au 15/12
-- intitule: 
+  contenu: Inscription jusqu'au 02 décembre
   lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
-  contenu: Inscription jusqu'au 02/12
+- 
 - intitule: Forum à Paris
-  contenu: le 16/12
-- intitule: 
+  contenu: Inscription jusqu'au 16 décembre
   lien: https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db
-  contenu: Inscription jusqu'au 16/12
 ---
 
 ## Plus de 300 postes à pourvoir chaque année
