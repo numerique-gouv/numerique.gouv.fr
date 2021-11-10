@@ -37,6 +37,9 @@ champs_informations:
 - intitule: Forum à Paris
   contenu: Inscription jusqu'au 16 décembre
   lien: https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db
+- intitule: 
+  contenu: 
+  lien: 
 - intitule: Forum en ligne
   contenu: Inscription jusqu'au 2 décembre
   lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
