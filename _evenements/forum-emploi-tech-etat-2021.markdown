@@ -134,31 +134,31 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à
 Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune.
 
 * **Auditeur des systèmes d’information à la CNIL : la sécurité des données, enjeu clé du RGPD** 
-<br>vendredi 3 décembre, 17h00-17h30
+<br>Vendredi 3 décembre, 17h00-17h30
 
 * **La Direction de l’information légale et administrative : présentation, projets et opportunités**
-<br>lundi 6 décembre, 17h00-17h30
+<br>Lundi 6 décembre, 17h00-17h30
 
 * **Un métier Data, un projet au ministère des Armées** 
-<br>mardi 7 décembre, 17h00-17h30
+<br>Mardi 7 décembre, 17h00-17h30
 
 * **Quels sont les métiers tech du ministère de l’Europe et des Affaires étrangères ?** 
-<br>mercredi 8 décembre, 17h00-17h30
+<br>Mercredi 8 décembre, 17h00-17h30
 
 * **Le numérique au service de l’Université (ASSAS)** 
-<br>jeudi 9 décembre, 17h00-17h30
+<br>Jeudi 9 décembre, 17h00-17h30
 
 * **La direction générale des finances publiques (DGFiP) : focus sur la DTNUM**
-<br>vendredi 10 décembre, 17h00-17h30
+<br>Vendredi 10 décembre, 17h00-17h30
 
 * **L'agence de mutualisation des universités et établissements (AMUE) : présentation, projets et opportunités**
-<br>lundi 13 décembre, 17h30-18h00
+<br>Lundi 13 décembre, 17h30-18h00
 
 * **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle**
-<br>mardi 14 décembre, 17h30-18h00
+<br>Mardi 14 décembre, 17h30-18h00
 
 * **Le programme Entrepreneurs d’intérêt général (EIG) : la transformation numérique au cœur des administrations**
-<br>mercredi 15 décembre, 16h00-16h30
+<br>Mercredi 15 décembre, 16h00-16h30
 
 Pour participer au Forum en ligne, rien de plus simple : **jusqu'au 2 décembre à 14h**, **[inscrivez-vous](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)**, découvrez les différentes offres et prenez rendez-vous en quelques clics avec les recruteurs.
 
@@ -199,32 +199,32 @@ Participez à ces ateliers ludiques centrés sur le développement personnel et 
 Cet atelier permet à chaque participant de s’approprier la méthode pour construire un <span lang="en">elevator pitch »</span> efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.</li>
 
 <ul><li style="margin-bottom: 40px"><b><span lang="en">Capter l'attention avec le Storytelling</span></b>
-<br>de 11h à 12h, de 15h à 16h ou de 17h à 18h
+<br>De 11h à 12h, de 15h à 16h ou de 17h à 18h
 <br>
 <br>
 Au cours de cet atelier, les participants font connaissance avec les techniques clés utilisées dans les histoires à fort impact, ils se les approprient pour repérer, dans leur parcours professionnel, les différents éléments qui peuvent constituer l’arc narratif de leur histoire professionnelle. Ils ont la possibilité de commencer à construire leur récit.</li>
 <br>
 <br>
 <ul><li style="margin-bottom: 40px"><b><span lang="en">Décryptage de l'offre et préparation entretien</span></b>
-<br>de 10h à 11h, de 14h à 15h ou de 16h à 17h
+<br>De 10h à 11h, de 14h à 15h ou de 16h à 17h
 <br>
 <br>Une offre d'emploi intègre une mine d'informations sur le poste que vous rêvez de décrocher ! En tant que candidat, votre première mission sera d'en extraire les éléments les plus importants afin d'anticiper le schéma de sélection du recruteur et d'optimiser vos chances de réussite. Dans cet atelier, nous analyserons point par point les grandes séquences d'une offre d'emploi et nous dénicherons tous les messages qui s'y dissimulent. A l'issue de cette phase exploratoire, nous construirons le schéma de questionnement de votre entretien avec un seul objectif : garder le contrôle et franchir cette étape avec brio !</li>
 <br>
 <br>
 <ul><li style="margin-bottom: 40px"><b><span lang="en">Postures de candidat sur les réseaux sociaux</span></b>
-<br>de 11h à 12h, de 15h à 16h ou de 17h à 18h
+<br>De 11h à 12h, de 15h à 16h ou de 17h à 18h
 <br><br>En 2021, nous ne pouvons que constater l'influence croissante de LinkedIn sur les comportements des recruteurs mais aussi des candidats. Bien au-delà du CV, votre vitrine professionnelle sera votre atout majeur dans la quête de votre job de rêve. Dans cet atelier, nous vous aiderons à renforcer votre attractivité candidat grâce une présence maîtrisée sur cet outil incontournable. Outre les fondamentaux, vous apprendrez à y communiquer sur vos expertises, vos expériences, vos réalisations...
 Comment s'y prendre ? Quelles sont les meilleures pratiques actuelles ? Ce sera l'occasion d'échanger dans le cadre de cet atelier collaboratif.</li> 
 <br>
 <br>
 <ul><li style="margin-bottom: 40px"><b><span lang="en">L'ikigaï ou comment donner du sens à son projet</span></b>
-<br>de 10h à 11h, de 14h à 15h ou de 16h à 17h
+<br>De 10h à 11h, de 14h à 15h ou de 16h à 17h
 <br>
 <br>L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa raison d’être professionnelle et/ou personnelle en croisant sa réflexion notamment autour de 4 axes. En ce sens, il constitue un outil d'introspection essentiel lors d'un (re)positionnement professionnel ; il répond aussi à la quête de sens au travail. Néanmoins, plus qu'un simple outil, l'ikigaï est une véritable philosophie de vie à laquelle les participants vont également être initiés pendant l'atelier.</li>
 <br>
 <br>
 <ul><li style="margin-bottom: 40px"><b><span lang="en">Réussir une mobilité en prenant conscience de ses ressources</span></b>
-<br>de 11h à 12h, de 15h à 16h ou de 17h à 18h
+<br>De 11h à 12h, de 15h à 16h ou de 17h à 18h
 <br>
 <br>Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.</li>
 <br>
