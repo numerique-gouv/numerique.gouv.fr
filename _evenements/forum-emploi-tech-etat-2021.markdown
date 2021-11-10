@@ -131,7 +131,7 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à
 <br>Jeudi 2 décembre, 18h-18h30 
 
 #### **Des présentations de recruteurs**
-***du 3 au 15 décembre***
+***Du 3 au 15 décembre***
 
 Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune.
 
