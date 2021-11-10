@@ -26,7 +26,7 @@ acces:
 champs_informations:
 - intitule: Comment y aller ?
   contenu: |-
-    Métro Ligne 6 : Boissière – Ligne 2 : Victor-Hugo – Ligne 9 : Trocadéro
+    M°6 Boissière – M°2 Victor-Hugo – M°9 Trocadéro
 
     RER A  : Charles de Gaulle-Étoile
 - intitule: Horaires
