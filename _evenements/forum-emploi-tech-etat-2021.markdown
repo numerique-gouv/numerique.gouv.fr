@@ -235,3 +235,5 @@ Cet atelier pratique a pour objectif de permettre au participant de prendre cons
 <a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum à Paris</b></a>
 <br>Jusqu’au 16 décembre 2021
 </div>
+<br> 
+<br>
