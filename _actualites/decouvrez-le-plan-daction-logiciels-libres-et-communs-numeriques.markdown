@@ -1,6 +1,8 @@
 ---
 title: Découvrez le plan d'action logiciels libres et communs numériques
 date: 2021-11-10 16:50:00 +01:00
+categories:
+- Publication
 chapeau-text: 'Le plan d’action « logiciels libres et communs numériques » a été conçu
   par le ministère de la Transformation et de la Fonction publiques à la suite de
   la publication de la circulaire data du Premier ministre, et vise à soutenir la
