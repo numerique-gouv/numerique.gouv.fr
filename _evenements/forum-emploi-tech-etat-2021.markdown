@@ -142,7 +142,7 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
 * **Un métier Data, un projet au ministère des Armées** 
 <br>mardi 7 décembre, 17h00-17h30
 
-* **Quels sont les métiers Tech du ministère de l’Europe et des Affaires étrangères ?** 
+* **Quels sont les métiers tech du ministère de l’Europe et des Affaires étrangères ?** 
 <br>mercredi 8 décembre, 17h00-17h30
 
 * **Le numérique au service de l’Université (ASSAS)** 
