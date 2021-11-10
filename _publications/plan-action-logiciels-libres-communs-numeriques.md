@@ -12,7 +12,7 @@ chapeau-text: 'Lancé par l’État en novembre 2021, le plan d’action logicie
   public, s’appuyer sur les logiciels libres et open source pour renforcer l’attractivité
   de l’État-employeur auprès des talents du numérique.'
 une-ou-diaporama:
-- image: "/uploads/logiciel_libre.png"
+- image: "/uploads/2021_11_09_1635x345_Bandeau-Publications_logiciels-libres.png"
 style: |2
     .button {
     background-color: #0d5c98;
