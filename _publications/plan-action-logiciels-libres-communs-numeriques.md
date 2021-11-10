@@ -6,11 +6,11 @@ tags:
 - Logiciels libres
 - communs numériques
 chapeau-text: 'Lancé par l’État en novembre 2021, le plan d’action logiciels libres
-  et communs numériques contribue à la transformation numérique du service public
-  avec trois objectifs : mieux connaître et utiliser les logiciels libres et les communs
-  numériques dans l’administration, développer et accompagner l’ouverture des codes
-  sources du secteur public, s’appuyer sur les logiciels libres et open source pour
-  renforcer l’attractivité de l’État-employeur auprès des talents du numérique.'
+  contribue à la transformation numérique du service public avec trois objectifs :
+  mieux connaître et utiliser les logiciels libres et les communs numériques dans
+  l’administration, développer et accompagner l’ouverture des codes sources du secteur
+  public, s’appuyer sur les logiciels libres et open source pour renforcer l’attractivité
+  de l’État-employeur auprès des talents du numérique.'
 une-ou-diaporama:
 - image: "/uploads/logiciel_libre.png"
 style: |2
@@ -29,11 +29,11 @@ style: |2
 layout: rgaa
 ---
 
-Le plan d’action « logiciels libres et communs numériques » a été conçu à la suite de la publication de la [circulaire data](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire data - Lien externe") du Premier ministre n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
+Le plan d’action « logiciels libres et communs numériques » a été conçu par le ministère de la Transformation et de la Fonction publiques à la suite de la publication de la [circulaire data](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire data - Lien externe") du Premier ministre n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
 **Lire notre article :** [Données, algorithmes et codes sources : une mobilisation générale sans précédent, à travers 15 feuilles de route ministérielles](/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/)
 {:.margin-left-3}
 
-Ce plan d'action est piloté au sein de la DINUM par un nouveau « pôle d’expertise logiciels libres », constitué au sein du département [Etalab](https://www.etalab.gouv.fr/ "Etalab - Lien externe").
+Ce plan d'action est piloté par un nouveau « pôle d’expertise logiciels libres », constitué au sein du département [Etalab](https://www.etalab.gouv.fr/ "Etalab - Lien externe") de la DINUM.
 
 Ses objectifs sont de mieux connaître et utiliser les logiciels libres et les communs numériques dans l’administration, de développer et d’accompagner la libération et l’ouverture de ses codes sources et de s’appuyer sur les logiciels libres et open source pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique, notamment en valorisant les contributions publiques aux projets et communautés concernés.
 
@@ -76,7 +76,7 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
 <ol start="3">
   <li><b>Animer la communauté des relais interministériels</b> sur le sujet de la publication des codes sources&nbsp;; maintenir les guides d’ouverture logicielle&nbsp;; porter les partenariats utiles à l’ouverture logicielle.</li>
 </ol>
-<h2 class="h3" style="margin-bottom: 0px; margin-top: 40px;">S’appuyer sur les logiciels libres et open source et sur les communs numériques pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique</h2>
+<h2 class="h3" style="margin-bottom: 0px; margin-top: 40px;">S’appuyer sur les logiciels libres et open source et les communs numériques pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique</h2>
 <p style="margin-top: 0px;">(via la mission TALENTS de la DINUM)</p>
 <ol>
   <li>
