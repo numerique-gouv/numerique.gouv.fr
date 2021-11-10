@@ -12,8 +12,8 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) organise l
   et à Paris le 16 décembre. L’occasion de faire se rencontrer recruteurs du secteur
   public (ministères, collectivités territoriales…) et candidats professionnels du
   numérique, issus du secteur public ou du privé. Le Forum sera rythmé par des conférences,
-  un jobdating, des ateliers et rencontres en ligne et en présentiel. **Inscriptions
-  à partir du 8 novembre !**'
+  un jobdating, des ateliers et rencontres en ligne et en présentiel. **Les inscriptions
+  sont ouvertes !**'
 une-ou-diaporama:
 - image: "/uploads/2021_11_03_VISUEL_AGENDA_FORUM_RECRUTEMENT-c8e24b.png"
 event_start_date: 2021-11-29 09:00:00 +01:00
@@ -53,18 +53,17 @@ Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et cur
 <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
 <a href="#forum-en-ligne"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="" src="/uploads/forum_virutel.svg">
-<span class="h4 text-center">Forum en ligne</span>
+<span class="h4 text-center">**Forum en ligne**</span>
 <span class="button">Voir le programme</span>
 </a>
 
 <a href="#forum-paris"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="" src="/uploads/forum_paris.svg">
-<span class="h4 text-center">Forum à Paris</span>
+<span class="h4 text-center">**Forum à Paris**</span>
 <span class="button">Voir le programme</span>
 </a>
 </nav>
 </section>
-
 > {: .text-center}
 >
 > #### **Créez le service public de demain et rencontrez les recruteurs de l’État en ligne et/ou à Paris !**
