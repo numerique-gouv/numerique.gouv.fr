@@ -1,6 +1,5 @@
 ---
 title: Plan d’action logiciels libres et communs numériques
-published: false
 tags:
 - TECH.GOUV
 - Logiciels libres
@@ -26,10 +25,13 @@ style: |2
     margin: 4px 2px;
     cursor: pointer;
     }
+une:
+  image: "/uploads/2021_11_09_1635x345_Bandeau-Publications_logiciels-libres.png"
 layout: rgaa
 ---
 
 Le plan d’action « logiciels libres et communs numériques » a été conçu par le ministère de la Transformation et de la Fonction publiques à la suite de la publication de la [circulaire data](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire data - Lien externe") du Premier ministre n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
+
 **Lire notre article :** [Données, algorithmes et codes sources : une mobilisation générale sans précédent, à travers 15 feuilles de route ministérielles](/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/)
 {:.margin-left-3}
 
@@ -86,8 +88,8 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
     <p><b>Valoriser les agents et les chercheurs</b> contribuant à des logiciels libres ou à des communs numériques&nbsp;; organiser un événement annuel de «&nbsp;sprint du libre et de l’open source&nbsp;» fédérateur.</p>
   </li>
   <li>
-    <p><b>Attirer des experts</b> du libre,de l’open source et des communs numériques dans l’administration en lien avec les autres actions de la mission TALENTS, notamment en les référençant dans le vivier des talents du numérique.</p>
+    <p><b>Attirer des experts</b> du libre,de l’open source et des communs numériques dans l’administration en lien avec les autres actions de la mission TALENTS, notamment en les référençant dans le vivier des talents du numérique.</p></li></ol>
 <br>
 <br>
 
-**Pour plus d'infos et suivre la mise en œuvre du plan d'action, rendez-vous sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr)**
+<div class="lien-important"><p><a href="https://communs.numerique.gouv.fr" alt="Pour plus d'infos et suivre la mise en œuvre du plan d'action, rendez-vous sur communs.numerique.gouv.fr - Lien externe">Pour plus d'infos et suivre la mise en œuvre du plan d'action, rendez-vous sur communs.numerique.gouv.fr</a></p></div>
