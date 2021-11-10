@@ -205,7 +205,7 @@ Cet atelier permet à chaque participant de s’approprier la méthode pour cons
 <br>
 <br>
 Au cours de cet atelier, les participants font connaissance avec les techniques clés utilisées dans les histoires à fort impact, ils se les approprient pour repérer, dans leur parcours professionnel, les différents éléments qui peuvent constituer l’arc narratif de leur histoire professionnelle. Ils ont la possibilité de commencer à construire leur récit.</li>
-<br>
+
 <li style="margin-bottom: 40px"><b><span lang="en">Décryptage de l'offre et préparation entretien</span></b>
 <br>De 10h à 11h, de 14h à 15h ou de 16h à 17h
 <br>
