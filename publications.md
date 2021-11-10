@@ -18,6 +18,10 @@ publications:
   url: "/publications/donnees-algorithmes-et-codes-sources-feuilles-de-route-ministerielles/"
   une-ou-diaporama:
   - image: "/uploads/feuille-route-donnees-rub-publications.png"
+- title: Plan d’action logiciels libres et communs numériques
+  url: "/publications/plan-action-logiciels-libres-communs-numeriques/"
+  une-ou-diaporama:
+  - image: "/uploads/2021_11_09_Rub_Publications_plan-action-logiciels-libres.png"
 - title: 'Rapport : Évaluation des besoins de l’État en compétences et expertises
     en matière de donnée'
   url: "/publications/rapport-evaluation-besoins-etat-en-competences-et-expertises-en-matiere-de-donnee/"
