@@ -53,7 +53,7 @@ Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et cur
 <nav data-smooth-scroll class="grid-x grid-margin-x align-center">
 <a href="#forum-en-ligne"  class="cell nav-section grid-y medium-6 large-4 black-link">
 <img alt="" src="/uploads/forum_virutel.svg">
-<span class="h4 text-center"><b>Forum en ligne<b/></span>
+<span class="h4 text-center"><b>Forum en ligne</b></span>
 <span class="button">Voir le programme</span>
 </a>
 
