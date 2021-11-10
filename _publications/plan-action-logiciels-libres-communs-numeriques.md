@@ -87,3 +87,7 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
   </li>
   <li>
     <p><b>Attirer des experts</b> du libre,de l’open source et des communs numériques dans l’administration en lien avec les autres actions de la mission TALENTS, notamment en les référençant dans le vivier des talents du numérique.</p>
+<br>
+<br>
+
+**Pour plus d'infos et suivre la mise en œuvre du plan d'action, rendez-vous sur [communs.numerique.gouv.fr](https://communs.numerique.gouv.fr)**
