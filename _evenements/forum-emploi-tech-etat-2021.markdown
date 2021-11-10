@@ -37,7 +37,6 @@ champs_informations:
 - intitule: Forum à Paris
   contenu: Inscription jusqu'au 16 décembre
   lien: https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db
-- intitule: 
 - intitule: Forum en ligne
   contenu: Inscription jusqu'au 2 décembre
   lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
@@ -236,6 +235,3 @@ Cet atelier pratique a pour objectif de permettre au participant de prendre cons
 <a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum à Paris</b></a>
 <br>Jusqu’au 16 décembre 2021
 </div>
-<br>
-<br>
-<br>
