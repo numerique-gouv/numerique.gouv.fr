@@ -191,13 +191,12 @@ Comment participer au Forum à Paris ? **Du 8 novembre au 16 décembre inclus : 
 
 Participez à ces ateliers ludiques centrés sur le développement personnel et professionnel. Nombre de places **limité entre 12 et 16 personnes** par atelier. **Réservez rapidement !**
 
-* <b><span lang="en">Se présenter avec « l'elevator pitch »</span></b>
+<ul><li style="margin-bottom: 40px"><b><span lang="en">Se présenter avec « l'elevator pitch »</span></b>
 <br>de 10h à 11h, de 14h à 15h ou de 16h à 17h
 <br>
 <br>
-Cet atelier permet à chaque participant de s’approprier la méthode pour construire un <span lang="en">elevator pitch »</span> efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.
-<br>
-<br>
+Cet atelier permet à chaque participant de s’approprier la méthode pour construire un <span lang="en">elevator pitch »</span> efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.</li>
+
 * **Capter l'attention avec le Storytelling**
 <br>de 11h à 12h, de 15h à 16h ou de 17h à 18h
 <br>
