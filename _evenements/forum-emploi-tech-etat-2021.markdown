@@ -193,8 +193,9 @@ Participez à ces ateliers ludiques centrés sur le développement personnel et 
 
 * <b><span lang="en">Se présenter avec « l'elevator pitch »</span></b>
 <br>de 10h à 11h, de 14h à 15h ou de 16h à 17h
-
-<div class="margina"> margin 30px </div>Cet atelier permet à chaque participant de s’approprier la méthode pour construire un <span lang="en">elevator pitch »</span> efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.<div class="marginb"> margin 20px</div>
+<br>
+<br>
+Cet atelier permet à chaque participant de s’approprier la méthode pour construire un <span lang="en">elevator pitch »</span> efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.
 <br>
 <br>
 * **Capter l'attention avec le Storytelling**
