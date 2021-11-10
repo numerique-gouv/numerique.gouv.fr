@@ -29,11 +29,11 @@ style: |2
 layout: rgaa
 ---
 
-Le plan d’action « logiciels libres et communs numériques » a été conçu à la suite de la publication de la [circulaire data](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire data - Lien externe") du Premier ministre n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
+Le plan d’action « logiciels libres et communs numériques » a été conçu par le ministère de la Transformation et de la Fonction publiques à la suite de la publication de la [circulaire data](https://www.legifrance.gouv.fr/circulaire/id/45162 "circulaire data - Lien externe") du Premier ministre n°6264/SG du 27 avril 2021, et vise à soutenir la transformation numérique de l’État.
 **Lire notre article :** [Données, algorithmes et codes sources : une mobilisation générale sans précédent, à travers 15 feuilles de route ministérielles](/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/)
 {:.margin-left-3}
 
-Ce plan d'action est piloté au sein de la DINUM par un nouveau « pôle d’expertise logiciels libres », constitué au sein du département [Etalab](https://www.etalab.gouv.fr/ "Etalab - Lien externe").
+Ce plan d'action est piloté par un nouveau « pôle d’expertise logiciels libres », constitué au sein du département [Etalab](https://www.etalab.gouv.fr/ "Etalab - Lien externe") de la DINUM.
 
 Ses objectifs sont de mieux connaître et utiliser les logiciels libres dans l’administration, de développer et d’accompagner la libération et l’ouverture de ses codes sources et de s’appuyer sur les logiciels libres et open source pour renforcer l’attractivité de l’État-employeur auprès des talents du numérique, notamment en valorisant les contributions publiques aux projets et communautés concernés.
 
@@ -71,7 +71,7 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
 <ul>
   <li>Référencer les codes et les bibliothèques publiés par des administrations.</li>
   <li>Valoriser les codes sources ayant un fort potentiel de réutilisation&nbsp;; construire un inventaire des codes source non publiés mais susceptibles d’être réutilisés.</li>
-  <li>Mettre en avant les contributions de l’administration à l’écosystème des logiciels libres (solutions et bibliothèques).</li>
+  <li>Mettre en avant les contributions de l’administration à l’écosystème des logiciels libres (solutions et bibliothèques) et des communs numériques.</li>
 </ul></ol>
 <ol start="3">
   <li><b>Animer la communauté des relais interministériels</b> sur le sujet de la publication des codes sources&nbsp;; maintenir les guides d’ouverture logicielle&nbsp;; porter les partenariats utiles à l’ouverture logicielle.</li>
