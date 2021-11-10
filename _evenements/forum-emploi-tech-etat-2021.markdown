@@ -224,7 +224,7 @@ Comment s'y prendre ? Quelles sont les meilleures pratiques actuelles ? Ce sera 
 <br>
 <br>
 L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa raison d’être professionnelle et/ou personnelle en croisant sa réflexion notamment autour de 4 axes. En ce sens, il constitue un outil d'introspection essentiel lors d'un (re)positionnement professionnel ; il répond aussi à la quête de sens au travail. Néanmoins, plus qu'un simple outil, l'ikigaï est une véritable philosophie de vie à laquelle les participants vont également être initiés pendant l'atelier.</li>
-<br>
+
 <li style="margin-bottom: 40px"><b><span lang="en">Réussir une mobilité en prenant conscience de ses ressources</span></b>
 <br>De 11h à 12h, de 15h à 16h ou de 17h à 18h
 <br>
