@@ -18,7 +18,7 @@ chapeau-text: Amélie de Montchalin ministre de la Transformation et de la Fonct
   Territoires (TNT).
 une-ou-diaporama:
 - image: "/uploads/index-ea65f4.jpg"
-redirection-interne: espace-presse/dossier-de-presse-le-gouvernement-soutient-la-transformation-numerique-des-collectivites-territoriales/
+redirection-interne: "/espace-presse/dossier-de-presse-le-gouvernement-soutient-la-transformation-numerique-des-collectivites-territoriales/"
 ---
 
 <div class="lien-important"><p><a href="/espace-presse/dossier-de-presse-le-gouvernement-soutient-la-transformation-numerique-des-collectivites-territoriales/">Lire la suite dans notre espace presse</a></p></div>
