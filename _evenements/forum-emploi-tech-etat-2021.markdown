@@ -64,6 +64,7 @@ Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et cur
 </a>
 </nav>
 </section>
+
 > {: .text-center}
 >
 > #### **Créez le service public de demain et rencontrez les recruteurs de l’État en ligne et/ou à Paris !**
