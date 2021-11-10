@@ -88,7 +88,7 @@ href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="butto
 <br>Jusqu’au 2 décembre 2021
 </div>
 
-<div align="center"><h3>Programme complet du Forum en ligne</h3></div>
+<div align="center"><h4>Programme du Forum en ligne</h4></div>
 
 #### **Conférences tech**
 ***Du 29 novembre au 2 décembre***
@@ -183,6 +183,8 @@ Comment participer au Forum à Paris ? **Du 8 novembre au 16 décembre inclus : 
 <a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum à Paris</b></a>
 <br>Jusqu’au 16 décembre 2021
 </div>
+
+<div align="center"><h4>Programme du Forum à Paris</h4></div>
 
 #### **Ateliers**
 ***Le 16 décembre à Paris***
