@@ -92,4 +92,4 @@ Les actions sont conjointement portées par le pôle d’expertise logiciels lib
 <br>
 <br>
 
-<div class="lien-important"><p><a href="https://communs.numerique.gouv.fr">Pour plus d'infos et suivre la mise en œuvre du plan d'action, rendez-vous sur communs.numerique.gouv.fr</a></p></div>
+<div class="lien-important"><p><a href="https://communs.numerique.gouv.fr" alt="Pour plus d'infos et suivre la mise en œuvre du plan d'action, rendez-vous sur communs.numerique.gouv.fr - Lien externe">Pour plus d'infos et suivre la mise en œuvre du plan d'action, rendez-vous sur communs.numerique.gouv.fr</a></p></div>
