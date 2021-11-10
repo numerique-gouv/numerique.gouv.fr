@@ -25,6 +25,8 @@ style: |2
     margin: 4px 2px;
     cursor: pointer;
     }
+une:
+  image: "/uploads/2021_11_09_1635x345_Bandeau-Publications_logiciels-libres.png"
 layout: rgaa
 ---
 
