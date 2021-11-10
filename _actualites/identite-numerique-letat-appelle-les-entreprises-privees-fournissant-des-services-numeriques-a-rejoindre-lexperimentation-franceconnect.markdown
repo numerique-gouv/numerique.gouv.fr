@@ -15,7 +15,7 @@ chapeau-text: La direction interministérielle du numérique, sous l’autorité
   des administrations.
 une-ou-diaporama:
 - image: "/uploads/2021_06_30_FC_1600x860_V3-82633a.png"
-redirection-interne: espace-presse/identite-numerique-letat-appelle-les-entreprises-privees-fournissant-des-services-numeriques-a-rejoindre-lexperimentation-franceconnect/
+redirection-interne: "/espace-presse/identite-numerique-letat-appelle-les-entreprises-privees-fournissant-des-services-numeriques-a-rejoindre-lexperimentation-franceconnect/"
 ---
 
 <div class="lien-important"><p><a href="/espace-presse/identite-numerique-letat-appelle-les-entreprises-privees-fournissant-des-services-numeriques-a-rejoindre-lexperimentation-franceconnect/">Lire la suite dans notre espace presse</a></p></div>
