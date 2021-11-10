@@ -48,7 +48,7 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 
 Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
 
-Vous êtes étudiants ou **jeune diplômé d’une école du numérique** et curieux des opportunités professionnelles offertes par l’État ?
+Vous êtes étudiant ou **jeune diplômé d’une école du numérique** et curieux des opportunités professionnelles offertes par l’État ?
 
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3">
 <h2 class="text-center font-bold">Au menu</h2>
