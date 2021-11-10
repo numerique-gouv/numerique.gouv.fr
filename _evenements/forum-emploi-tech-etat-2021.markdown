@@ -193,7 +193,7 @@ Comment participer au Forum à Paris ? **Jusqu'au 16 décembre inclus : [inscriv
 ***Le 16 décembre à Paris***
 
 Participez à ces ateliers ludiques centrés sur le développement personnel et professionnel. Nombre de places **limité entre 12 et 16 personnes** par atelier. **Réservez rapidement !**
-<br>
+
 <ul><li style="margin-bottom: 40px"><b><span lang="en">Se présenter avec « l'elevator pitch »</span></b>
 <br>De 10h à 11h, de 14h à 15h ou de 16h à 17h
 <br>
