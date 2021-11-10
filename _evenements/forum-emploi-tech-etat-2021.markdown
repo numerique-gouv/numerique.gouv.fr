@@ -34,12 +34,12 @@ champs_informations:
 - intitule: Modalités
   contenu: Entrée gratuite avec inscription obligatoire (QR Code à présenter à l’accueil).
     Pass sanitaire et masque requis.
-- intitule: Forum en ligne
-  contenu: Inscription jusqu'au 02 décembre
-  lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
 - intitule: Forum à Paris
   contenu: Inscription jusqu'au 16 décembre
   lien: https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db
+- intitule: Forum en ligne
+  contenu: Inscription jusqu'au 2 décembre
+  lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
 ---
 
 ## Plus de 300 postes à pourvoir chaque année
@@ -160,15 +160,16 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
 * **Le programme Entrepreneurs d’intérêt général (EIG) : la transformation numérique au cœur des administrations**
 <br>mercredi 15 décembre, 16h00-16h30
 
-Pour participer au Forum en ligne, rien de plus simple : **du 8 novembre au 2 décembre à 14h** : **[inscrivez-vous](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)**, découvrez les différentes offres et prenez rendez-vous en quelques clics avec les recruteurs.
+Pour participer au Forum en ligne, rien de plus simple : **jusqu'au 2 décembre à 14h**, **[inscrivez-vous](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)**, découvrez les différentes offres et prenez rendez-vous en quelques clics avec les recruteurs.
 
 <div align="center">
 <a 
 href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="button"><b>S'inscrire au Forum en ligne</b></a>
 <br>Jusqu’au 2 décembre 2021
 </div>
-
-
+<br>
+<br>
+<br>
 <h3 id="forum-paris">Le Forum à Paris le 16 décembre 2021 à Paris</h3>
 
 Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**, issues de la fonction publique d’État et de collectivités territoriales, proposant plus de 300 postes à pourvoir en région et en Île-de-France.
@@ -177,7 +178,7 @@ Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**
 
 * Au cours de cette journée seront aussi proposés **des ateliers** de développement professionnel (sur inscription et le jour J selon les places disponibles).
 
-Comment participer au Forum à Paris ? **Du 8 novembre au 16 décembre inclus : [inscrivez-vous en ligne](https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db)** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
+Comment participer au Forum à Paris ? **Jusqu'au 16 décembre inclus : [inscrivez-vous en ligne](https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db)** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
 
 <div align="center">
 <a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum à Paris</b></a>
@@ -197,35 +198,35 @@ Participez à ces ateliers ludiques centrés sur le développement personnel et 
 <br>
 Cet atelier permet à chaque participant de s’approprier la méthode pour construire un <span lang="en">elevator pitch »</span> efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.</li>
 
-* **Capter l'attention avec le Storytelling**
+<ul><li style="margin-bottom: 40px"><b><span lang="en">Capter l'attention avec le Storytelling</span></b>
 <br>de 11h à 12h, de 15h à 16h ou de 17h à 18h
 <br>
 <br>
-Au cours de cet atelier, les participants font connaissance avec les techniques clés utilisées dans les histoires à fort impact, ils se les approprient pour repérer, dans leur parcours professionnel, les différents éléments qui peuvent constituer l’arc narratif de leur histoire professionnelle. Ils ont la possibilité de commencer à construire leur récit.
+Au cours de cet atelier, les participants font connaissance avec les techniques clés utilisées dans les histoires à fort impact, ils se les approprient pour repérer, dans leur parcours professionnel, les différents éléments qui peuvent constituer l’arc narratif de leur histoire professionnelle. Ils ont la possibilité de commencer à construire leur récit.</li>
 <br>
 <br>
-* **Décryptage de l'offre et préparation entretien**
+<ul><li style="margin-bottom: 40px"><b><span lang="en">Décryptage de l'offre et préparation entretien</span></b>
 <br>de 10h à 11h, de 14h à 15h ou de 16h à 17h
 <br>
-<br>Une offre d'emploi intègre une mine d'informations sur le poste que vous rêvez de décrocher ! En tant que candidat, votre première mission sera d'en extraire les éléments les plus importants afin d'anticiper le schéma de sélection du recruteur et d'optimiser vos chances de réussite. Dans cet atelier, nous analyserons point par point les grandes séquences d'une offre d'emploi et nous dénicherons tous les messages qui s'y dissimulent. A l'issue de cette phase exploratoire, nous construirons le schéma de questionnement de votre entretien avec un seul objectif : garder le contrôle et franchir cette étape avec brio !
+<br>Une offre d'emploi intègre une mine d'informations sur le poste que vous rêvez de décrocher ! En tant que candidat, votre première mission sera d'en extraire les éléments les plus importants afin d'anticiper le schéma de sélection du recruteur et d'optimiser vos chances de réussite. Dans cet atelier, nous analyserons point par point les grandes séquences d'une offre d'emploi et nous dénicherons tous les messages qui s'y dissimulent. A l'issue de cette phase exploratoire, nous construirons le schéma de questionnement de votre entretien avec un seul objectif : garder le contrôle et franchir cette étape avec brio !</li>
 <br>
 <br>
-* **Postures de candidat sur les réseaux sociaux**
+<ul><li style="margin-bottom: 40px"><b><span lang="en">Postures de candidat sur les réseaux sociaux</span></b>
 <br>de 11h à 12h, de 15h à 16h ou de 17h à 18h
 <br><br>En 2021, nous ne pouvons que constater l'influence croissante de LinkedIn sur les comportements des recruteurs mais aussi des candidats. Bien au-delà du CV, votre vitrine professionnelle sera votre atout majeur dans la quête de votre job de rêve. Dans cet atelier, nous vous aiderons à renforcer votre attractivité candidat grâce une présence maîtrisée sur cet outil incontournable. Outre les fondamentaux, vous apprendrez à y communiquer sur vos expertises, vos expériences, vos réalisations...
-Comment s'y prendre ? Quelles sont les meilleures pratiques actuelles ? Ce sera l'occasion d'échanger dans le cadre de cet atelier collaboratif. 
+Comment s'y prendre ? Quelles sont les meilleures pratiques actuelles ? Ce sera l'occasion d'échanger dans le cadre de cet atelier collaboratif.</li> 
 <br>
 <br>
-* **L'ikigaï ou comment donner du sens à son projet**
+<ul><li style="margin-bottom: 40px"><b><span lang="en">L'ikigaï ou comment donner du sens à son projet</span></b>
 <br>de 10h à 11h, de 14h à 15h ou de 16h à 17h
 <br>
-<br>L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa raison d’être professionnelle et/ou personnelle en croisant sa réflexion notamment autour de 4 axes. En ce sens, il constitue un outil d'introspection essentiel lors d'un (re)positionnement professionnel ; il répond aussi à la quête de sens au travail. Néanmoins, plus qu'un simple outil, l'ikigaï est une véritable philosophie de vie à laquelle les participants vont également être initiés pendant l'atelier.
+<br>L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa raison d’être professionnelle et/ou personnelle en croisant sa réflexion notamment autour de 4 axes. En ce sens, il constitue un outil d'introspection essentiel lors d'un (re)positionnement professionnel ; il répond aussi à la quête de sens au travail. Néanmoins, plus qu'un simple outil, l'ikigaï est une véritable philosophie de vie à laquelle les participants vont également être initiés pendant l'atelier.</li>
 <br>
 <br>
-* **Réussir une mobilité en prenant conscience de ses ressources**
+<ul><li style="margin-bottom: 40px"><b><span lang="en">Réussir une mobilité en prenant conscience de ses ressources</span></b>
 <br>de 11h à 12h, de 15h à 16h ou de 17h à 18h
 <br>
-<br>Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.
+<br>Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.</li>
 <br>
 
 <div align="center">
