@@ -1,6 +1,8 @@
 ---
 title: 'DesignGouv : formation au design'
 date: 2021-11-15 16:49:00 +01:00
+categories:
+- Formation
 tags:
 - Formation
 - Design
@@ -10,6 +12,19 @@ chapeau-text: 'Connaître les principes du design centré sur les besoins des us
   publics numériques : le pôle **Design des services numériques** de la direction
   interministérielle du numérique (DINUM) propose une **formation gratuite au design,
   le mardi 30 novembre, de 10h à 12h.**'
+une-ou-diaporama:
+- image: "/uploads/designGouv-796c88.png"
+event_start_date: 2021-11-30 10:00:00 +01:00
+lieu: En ligne sur la chaîne YouTube de DesignGouv
+champs_informations:
+- intitule: '3 dates à retenir '
+  contenu: 18 et 30 novembre,  9 décembre 2021
+- intitule: 'A suivre en direct '
+  contenu: sur YouTube
+- intitule: Horaires
+  contenu: 10h - 12h
+- intitule: 'Modalités '
+  contenu: 'Inscriptions gratuites '
 ---
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
