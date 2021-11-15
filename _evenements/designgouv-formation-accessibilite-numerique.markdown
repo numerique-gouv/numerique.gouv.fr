@@ -35,7 +35,7 @@ Pour que les administrations se posent les bonnes questions et prennent les bonn
 
 ## Pour qui ?
 
-Vous êtes **un agent de la fonction publique ou un prestataire impliqué dans la conception des démarches administratives numériques ? Le jeudi 18 novembre de 10h à 12h,** venez participer à une matinée d’échanges **en visio sur la chaîne YouTube de DesignGouv !**
+**Vous êtes agent de la fonction publique ou prestataire impliqué dans la conception des démarches administratives numériques ? Le jeudi 18 novembre de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv !**
 
 ## Objectifs
 * S'approprier les concepts de l'accessibilité d'un point de vue historique et juridique
@@ -54,7 +54,7 @@ Vous êtes **un agent de la fonction publique ou un prestataire impliqué dans l
 
 Pour participer, rien de plus simple. Il vous suffit de vous inscrire gratuitement [ici](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
 
-### 2 autres formations à ne pas manquer : design et recherche utilisateur
+## 2 autres formations à ne pas manquer : design et recherche utilisateur
 
 **Enrichissez vos connaissances en design, accessibilité et recherche utilisateur à travers trois formations gratuites en ligne !**
 
