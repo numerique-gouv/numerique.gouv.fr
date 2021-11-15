@@ -64,10 +64,15 @@ Pour que les administrations se posent les bonnes questions et prennent les bonn
 
 Rien de plus simple. Il vous suffit de [vous inscrire](https://design.numerique.gouv.fr/formations/accessibilite/) gratuitement et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
 
-## 2 autres formations à ne pas manquer : design et recherche utilisateur
+> {: .text-center}
+>
+> ### 2 autres formations à ne pas manquer : design et recherche utilisateur
 
 **Enrichissez vos connaissances en design, accessibilité et recherche utilisateur avec au total trois formations gratuites en ligne !**
 
 N'oubliez pas qu'en plus de la formation à l'accessibilité, deux autres vous sont aussi proposées : [design](https://design.numerique.gouv.fr/formations/design/) et [recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) (formulaires distincts). Elles auront également lieu en direct sur la chaîne YouTube de DesignGouv et en différé.
 
 Ces formations s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Inscrivez-vous dès maintenant pour une formation gratuite, ludique et opérationnelle !
+>
+> {: .margin-top-1 .text-center}
+{: .encadre role="presentation" }
