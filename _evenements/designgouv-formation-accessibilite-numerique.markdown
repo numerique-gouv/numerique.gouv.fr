@@ -16,13 +16,11 @@ chapeau-text: 'Pourquoi et comment bien prendre en compte les personnes en situa
 une-ou-diaporama:
 - image: "/uploads/designGouv.png"
 event_start_date: 2021-11-18 10:00:00 +01:00
-lieu: En ligne sur la chaîne YouTube de DesignGouv
+lieu: 'Événement 100% en ligne : en direct sur la chaîne YouTube de DesignGouv'
 afficher_la_carte: false
 champs_informations:
-- intitule: '3 dates à retenir '
-  contenu: 18 et 30 novembre,  9 décembre 2021
-- intitule: 'A suivre en direct '
-  contenu: sur YouTube
+- intitule: Date
+  contenu: mardi 18 novembre 2021
 - intitule: Horaires
   contenu: 10h - 12h
 - intitule: 'Modalités '
