@@ -31,11 +31,18 @@ champs_informations:
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
 
-Pour que les administrations se posent les bonnes questions et prennent les bonnes décisions en utilisant les bonnes méthodes et les bons outils, le pôle **Design des services numériques** de la Direction interministérielle du numérique (DINUM) propose **trois formations gratuites indispensables : une formation à l'accessibilité** le 18 novembre (ci-dessous), **une formation au design** le 30 novembre, et **une formation à la recherche utilisateur** le 9 décembre.
+Pour que les administrations se posent les bonnes questions et prennent les bonnes décisions en utilisant les bonnes méthodes et les bons outils, le pôle **Design des services numériques** de la direction interministérielle du numérique (DINUM) propose **trois formations gratuites indispensables : une formation à l'accessibilité** le 18 novembre (ci-dessous), **une formation au design** le 30 novembre, et **une formation à la recherche utilisateur** le 9 décembre.
+
+> {: .text-center}
+>
+> #### **Le jeudi 18 novembre de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv !**
+>
+> {: .margin-top-1 .text-center}
+{: .encadre role="presentation" }
 
 ## Pour qui ?
 
-Vous êtes **agent de la fonction publique ou prestataire impliqué dans la conception des démarches administratives numériques ? Le jeudi 18 novembre de 10h à 12h,** venez participer à une matinée d’échanges **en visio sur la chaîne YouTube de DesignGouv !**
+**Agents de la fonction publique ou prestataire impliqué dans la conception des démarches administratives numériques.**
 
 ## Objectifs
 
@@ -53,7 +60,9 @@ Vous êtes **agent de la fonction publique ou prestataire impliqué dans la conc
 * **Référentiel général d'amélioration de l'accessibilité** (RGAA)
 * **Méthodes** et **outils**
 
-Pour participer, rien de plus simple. Il vous suffit de vous inscrire gratuitement [ici](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
+## Pour participer 
+
+Rien de plus simple. Il vous suffit de [vous inscrire](https://design.numerique.gouv.fr/formations/accessibilite/) gratuitement et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
 
 ## 2 autres formations à ne pas manquer : design et recherche utilisateur
 
