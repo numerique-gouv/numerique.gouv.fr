@@ -11,11 +11,11 @@ tags:
 chapeau-text: 'Pourquoi et comment bien prendre en compte les personnes en situation
   de handicap dans la conception de services publics numériques : le pôle **Design
   des services numériques** de la direction interministérielle du numérique (DINUM)
-  propose une formation gratuite à l''accessibilité numérique, le jeudi 18 novembre,
-  de 10h à 12h.'
+  propose une **formation gratuite à l''accessibilité numérique, le jeudi 18 novembre,
+  de 10h à 12h.**'
 une-ou-diaporama:
 - image: "/uploads/designGouv.png"
-event_start_date: 2021-11-18 10:12:00 +01:00
+event_start_date: 2021-11-18 10:00:00 +01:00
 afficher_la_carte: false
 ---
 
