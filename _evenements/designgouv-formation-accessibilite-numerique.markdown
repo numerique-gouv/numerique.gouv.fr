@@ -32,7 +32,7 @@ Vous êtes **un agent de la fonction publique ou un prestataire impliqué dans l
     * Connaître les obligations, identifier les rôles et responsabilités
     * S'organiser et disposer d'une boîte à outils
 
-Au programme :
+## Au programme
 
 * **Immersion**
 * Un peu **d'histoire**
