@@ -39,11 +39,11 @@ Le mardi 30 novembre de 10h à 12h,** venez participer à une matinée d’écha
 
 ## Objectifs
 
-* Connaitre les principes fondamentaux et les définitions
-* Découvrir les bénéfices de cette approche
-* Mettre en œuvre les méthodes dans la conception et l'amélioration des démarches administratives numériques
-* Identifier les rôles et responsabilités
-* Disposer d'une boite à outils et d'un carnet de contacts
+* Connaitre les **principes fondamentaux et les définitions**
+* Découvrir les **bénéfices de cette approche**
+* Mettre en œuvre les **méthodes dans la conception** et **l'amélioration des démarches administratives numériques**
+* Identifier les **rôles et responsabilités**
+* Disposer d'une **boite à outils** et d'un **carnet de contacts**
 
 ## Au programme
 
