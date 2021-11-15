@@ -40,25 +40,17 @@ Vous êtes **agent de la fonction publique ou prestataire impliqué dans la conc
 ## Objectifs
 
 * S'approprier les concepts de l'accessibilité d'un point de vue historique et juridique
-
 * Connaître les obligations, identifier les rôles et responsabilités
-
 * S'organiser et disposer d'une boîte à outils
 
 ## Au programme
 
 * **Immersion**
-
 * Un peu **d'histoire**
-
 * **Démonstration**
-
 * **Définitions** et **dispositif légal**
-
 * **Prévalence du handicap**
-
 * **Référentiel général d'amélioration de l'accessibilité** (RGAA)
-
 * **Méthodes** et **outils**
 
 Pour participer, rien de plus simple. Il vous suffit de vous inscrire gratuitement [ici](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
