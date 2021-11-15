@@ -35,7 +35,7 @@ Pour que les administrations se posent les bonnes questions et prennent les bonn
 
 ## Pour qui ?
 
-**Vous êtes agent de la fonction publique ou prestataire impliqué dans la conception des démarches administratives numériques ? Le jeudi 18 novembre de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv !**
+Vous êtes **agent de la fonction publique ou prestataire impliqué dans la conception des démarches administratives numériques ? Le jeudi 18 novembre de 10h à 12h,** venez participer à une matinée d’échanges **en visio sur la chaîne YouTube de DesignGouv !**
 
 ## Objectifs
 
