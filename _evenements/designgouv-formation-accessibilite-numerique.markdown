@@ -17,14 +17,14 @@ chapeau-text: 'Pourquoi et comment bien prendre en compte les personnes en situa
 une-ou-diaporama:
 - image: "/uploads/designGouv.png"
 event_start_date: 2021-11-18 10:00:00 +01:00
-lieu: En ligne sur la chaîne Youtube de DesignGouv
+lieu: En ligne sur la chaîne YouTube de DesignGouv
 afficher_la_carte: false
 champs_informations:
-- intitule: '3 dates à retenir : '
-  contenu: 'le 18 et le 30 novembre, et le 9 décembre '
-- intitule: 'A suivre en direct :'
+- intitule: '3 dates à retenir '
+  contenu: 'les 18 et 30 novembre, et le 9 décembre '
+- intitule: 'A suivre en direct '
   contenu: sur YouTube
-- intitule: 'Modalités :'
+- intitule: 'Modalités '
   contenu: 'Inscriptions gratuites '
 ---
 
@@ -53,7 +53,7 @@ Vous êtes **un agent de la fonction publique ou un prestataire impliqué dans l
 
 Pour participer, rien de plus simple. Il vous suffit de vous inscrire gratuitement [ici](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
 
-### 2 autres formations proposées : design et recherche utilisateur
+### 2 autres formations à ne pas manquer : design et recherche utilisateur
 
 **Enrichissez vos connaissances en design, accessibilité et recherche utilisateur à travers trois formations gratuites en ligne !**
 
