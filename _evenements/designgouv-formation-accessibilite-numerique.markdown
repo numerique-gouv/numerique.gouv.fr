@@ -17,7 +17,15 @@ chapeau-text: 'Pourquoi et comment bien prendre en compte les personnes en situa
 une-ou-diaporama:
 - image: "/uploads/designGouv.png"
 event_start_date: 2021-11-18 10:00:00 +01:00
+lieu: En ligne sur la chaîne Youtube de DesignGouv
 afficher_la_carte: false
+champs_informations:
+- intitule: '3 dates à retenir : '
+  contenu: 'le 18 et le 30 novembre, et le 9 décembre '
+- intitule: 'A suivre en direct :'
+  contenu: sur YouTube
+- intitule: 'Modalités :'
+  contenu: 'Inscriptions gratuites '
 ---
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
