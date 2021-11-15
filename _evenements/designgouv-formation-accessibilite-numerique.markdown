@@ -1,6 +1,7 @@
 ---
 title: 'DesignGouv : formation à l''accessibilité numérique'
 date: 2021-11-05 11:30:00 +01:00
+published: false
 categories:
 - Formation
 tags:
