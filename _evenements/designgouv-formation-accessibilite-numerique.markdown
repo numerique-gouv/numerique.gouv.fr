@@ -29,9 +29,9 @@ Pour que les administrations se posent les bonnes questions et prennent les bonn
 Vous êtes **un agent de la fonction publique ou un prestataire impliqué dans la conception des démarches administratives numériques ? Le jeudi 18 novembre de 10h à 12h,** venez participer à une matinée d’échanges **en visio sur la chaîne YouTube de DesignGouv !**
 
 ## Objectifs
-   * S'approprier les concepts de l'accessibilité d'un point de vue historique et juridique
-    * Connaître les obligations, identifier les rôles et responsabilités
-    * S'organiser et disposer d'une boîte à outils
+* S'approprier les concepts de l'accessibilité d'un point de vue historique et juridique
+* Connaître les obligations, identifier les rôles et responsabilités
+* S'organiser et disposer d'une boîte à outils
 
 ## Au programme
 
