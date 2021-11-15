@@ -25,10 +25,12 @@ Pour que les administrations se posent les bonnes questions et prennent les bonn
 
 ## Pour qui ?
 
-Vous êtes **un agent de la fonction publique ou prestataires impliqués dans la conception des démarches administratives numériques ? Le jeudi 18 novembre de 10h à 12h,** venez participer à une matinée d’échanges **en visio sur la chaîne YouTube de DesignGouv !**
+Vous êtes **un agent de la fonction publique ou un prestataire impliqué dans la conception des démarches administratives numériques ? Le jeudi 18 novembre de 10h à 12h,** venez participer à une matinée d’échanges **en visio sur la chaîne YouTube de DesignGouv !**
 
 ## Objectifs
-La formation à l’accessibilité vise à plusieurs objectifs : **s'approprier les concepts de l’accessibilité d’un point de vue historique et juridique, connaitre les obligations et d’identifier les rôles et responsabilités ; organiser et disposer d’une boîte à outils…**
+   * S'approprier les concepts de l'accessibilité d'un point de vue historique et juridique
+    * Connaître les obligations, identifier les rôles et responsabilités
+    * S'organiser et disposer d'une boîte à outils
 
 Au programme :
 
@@ -48,4 +50,4 @@ Pour participer, rien de plus simple. Il vous suffit de vous inscrire gratuiteme
 
 N'oubliez pas qu'en plus de la formation accessibilité, deux autres vous sont aussi proposées : [design](https://design.numerique.gouv.fr/formations/accessibilite/) et [recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) (formulaires distincts). Elles auront également lieu en direct sur la chaîne YouTube de DesignGouv (avec transcription par vélotypie) et en différé si vous n'êtes pas disponible à ces dates.
 
-Ces formations s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Gratuit, ludique et opérationnel, inscrivez-vous dès maintenant !
+Ces formations s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Inscrivez-vous dès maintenant pour une formation gratuite, ludique et opérationnelle !
