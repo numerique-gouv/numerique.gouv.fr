@@ -67,15 +67,15 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 ## Pour participer 
 
-Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
+Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera également accessible en différé si vous n'êtes pas disponible à cette date.
 
 > {: .text-center}
 >
 > ### 3 autres formations à ne pas manquer : design, recherche utilisateur et écoconception
 >
-> N'oubliez pas qu'en plus de la formation à l'accessibilité numérique, trois autres vous sont proposées : [la formation design](https://design.numerique.gouv.fr/formations/design/), [la formation recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) et [la formation écoconception](https://design.numerique.gouv.fr/formations/ecoconception/) (formulaires distincts). Elles auront également lieu en direct sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) et en différé.
+> N'oubliez pas qu'en plus de la formation à l'accessibilité numérique, trois autres vous sont proposées : [la formation design](https://design.numerique.gouv.fr/formations/design/), [la formation recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) et [la formation écoconception](https://design.numerique.gouv.fr/formations/ecoconception/) (via des formulaires d'inscription distincts). Elles auront également lieu en direct sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) et en différé.
 > 
-> Ces formations s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Inscrivez-vous dès maintenant pour une formation gratuite, ludique et indispensable !
+> Ces formations s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Inscrivez-vous dès maintenant pour une formation gratuite et indispensable !
 >
 > {: .margin-top-1 .text-center}
 {: .encadre role="presentation" }
