@@ -16,20 +16,20 @@ chapeau-text: 'Pourquoi et comment bien prendre en compte les personnes en situa
 une-ou-diaporama:
 - image: "/uploads/designGouv.png"
 event_start_date: 2021-11-18 10:00:00 +01:00
-lieu: 'Événement 100% en ligne : en direct sur la chaîne YouTube de DesignGouv'
+lieu: 'Événement 100% en ligne : en direct sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured)'
 afficher_la_carte: false
 champs_informations:
 - intitule: Date
-  contenu: mardi 18 novembre 2021
+  contenu: Mardi 18 novembre 2021
 - intitule: Horaires
   contenu: 10h - 12h
 - intitule: 'Modalités '
-  contenu: 'Inscriptions gratuites '
+  contenu: "[Inscription gratuite](https://design.numerique.gouv.fr/formations/accessibilite/)"
 ---
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
 
-Pour que les administrations se posent les bonnes questions et prennent les bonnes décisions en utilisant les bonnes méthodes et les bons outils, le pôle **Design des services numériques** de la direction interministérielle du numérique (DINUM) propose **trois formations gratuites indispensables : une formation à l'accessibilité** le 18 novembre (ci-dessous), **une formation au design** le 30 novembre, et **une formation à la recherche utilisateur** le 9 décembre.
+Pour que les administrations se posent les bonnes questions aux bons moments, pour qu'elles prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bons interlocuteurs, le pôle **Design des services numériques** de la direction interministérielle du numérique (DINUM) propose **trois formations gratuites indispensables : une formation à l'accessibilité** le 18 novembre (ci-dessous), **une formation au design** le 30 novembre, et **une formation à la recherche utilisateur** le 9 décembre.
 
 > {: .text-center}
 >
