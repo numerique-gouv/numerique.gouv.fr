@@ -1,5 +1,5 @@
 ---
-title: 'DesignGouv : formation au design'
+title: 'DesignGouv : formation au design numérique'
 date: 2021-11-15 16:49:00 +01:00
 categories:
 - Formation
@@ -29,7 +29,7 @@ champs_informations:
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
 
-Pour que les administrations se posent les bonnes questions et prennent les bonnes décisions en utilisant les bonnes méthodes et les bons outils, le pôle **Design des services numériques** de la direction interministérielle du numérique (DINUM) propose **trois formations gratuites indispensables : une formation à l'accessibilité** le 18 novembre, **une formation au design** le 30 novembre (ci-dessous), et **une formation à la recherche utilisateur** le 9 décembre.
+Pour que les administrations se posent les bonnes questions aux bons moments, pour qu'elles prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bons interlocuteurs, le pôle **Design des services numériques** de la direction interministérielle du numérique (DINUM) propose **quatre formations gratuites indispensables : une formation à l'accessibilité** le 18 novembre, **une formation au design** le 30 novembre (ci-dessous), et **une formation à la recherche utilisateur** le 9 décembre.
 
 ## Pour qui ?
 
