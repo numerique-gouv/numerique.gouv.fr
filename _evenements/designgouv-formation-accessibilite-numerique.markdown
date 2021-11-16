@@ -73,7 +73,7 @@ Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://desi
 >
 > ### 3 autres formations à ne pas manquer : design, recherche utilisateur et écoconception
 >
-> N'oubliez pas qu'en plus de la formation accessibilité, trois autres vous sont proposées : [la formation design](https://design.numerique.gouv.fr/formations/design/), [la formation recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) et [la formation écoconception](https://design.numerique.gouv.fr/formations/ecoconception/) (via des formulaires d'inscription distincts). Elles auront également lieu en direct sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) et en différé.
+> N'oubliez pas qu'en plus de la formation accessibilité, trois autres vous sont proposées : [la formation design](https://design.numerique.gouv.fr/formations/design/), [la formation recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) et [la formation écoconception](https://design.numerique.gouv.fr/formations/ecoconception/) (via des formulaires d'inscription distincts). Elles auront également lieu sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) en direct et en différé.
 > 
 > Ces formations s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Inscrivez-vous dès maintenant pour une formation gratuite et indispensable !
 >
