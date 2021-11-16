@@ -40,7 +40,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 > {: .text-center}
 >
-> #### **Le jeudi 18 novembre de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv !**
+> #### Le jeudi 18 novembre de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv !
 >
 > {: .margin-top-1 .text-center}
 {: .encadre role="presentation" }
