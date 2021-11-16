@@ -29,10 +29,10 @@ champs_informations:
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
 
 Pour que les administrations se posent les bonnes questions aux bons moments, pour qu'elles prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bons interlocuteurs, le pôle **Design des services numériques** de la direction interministérielle du numérique (DINUM) propose **quatre formations gratuites indispensables** : 
-* **[une formation à l'accessibilité numérique](https://design.numerique.gouv.fr/formations/accessibilite/)** le 18 novembre, 
-* **[une formation au design numérique](https://design.numerique.gouv.fr/formations/design/)** le 30 novembre (ci-dessous), 
+* **[une formation à l'accessibilité numérique](https://design.numerique.gouv.fr/formations/accessibilite/)** le 18 novembre 
+* **[une formation au design numérique](https://design.numerique.gouv.fr/formations/design/)** le 30 novembre (ci-dessous) 
 * **[une formation à la recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/)** le 9 décembre 
-* **[une formation à l'écoconception](https://design.numerique.gouv.fr/formations/ecoconception/)** le 16 décembre.
+* **[une formation à l'écoconception](https://design.numerique.gouv.fr/formations/ecoconception/)** le 16 décembre
 
 > {: .text-center}
 >
