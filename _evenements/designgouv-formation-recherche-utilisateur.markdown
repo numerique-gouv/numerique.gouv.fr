@@ -12,6 +12,18 @@ chapeau-text: Pour éviter que les usagers et citoyens soient perdus dans vos se
   publics en ligne, lancez les recherches ! Le pôle **Design des services numériques**
   de la direction interministérielle du numérique (DINUM) propose une **formation
   gratuite à la recherche utilisateur, le jeudi 9 décembre, de 10h à 12h.**
+une-ou-diaporama:
+- image: "/uploads/designGouv-796c88.png"
+event_start_date: 2021-12-09 10:00:00 +01:00
+lieu: 'Evénement 100% en ligne : en direct sur la chaîne YouTube de DesignGouv'
+champs_informations:
+- intitule: Date
+  contenu: Jeudi 9 décembre 2021
+- intitule: Horaires
+  contenu: 10h - 12h
+- intitule: Modalités
+  contenu: Inscription gratuite
+  lien: "(https://design.numerique.gouv.fr/formations/recherche-utilisateur/)"
 ---
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
