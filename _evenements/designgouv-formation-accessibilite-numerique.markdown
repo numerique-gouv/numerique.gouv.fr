@@ -19,7 +19,7 @@ event_start_date: 2021-11-18 10:00:00 +01:00
 lieu: 'Événement 100% en ligne : en direct sur la chaîne YouTube de DesignGouv'
 afficher_la_carte: false
 acces:
-- lien: https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured
+- lien: 
 champs_informations:
 - intitule: Date
   contenu: Jeudi 18 novembre 2021
