@@ -14,7 +14,7 @@ chapeau-text: 'Pourquoi et comment bien prendre en compte les personnes en situa
   propose une **formation gratuite à l''accessibilité numérique, le jeudi 18 novembre,
   de 10h à 12h.**'
 une-ou-diaporama:
-- image: "/uploads/designGouv.png"
+- image: "/uploads/designgouvb.png"
 event_start_date: 2021-11-18 10:00:00 +01:00
 lieu: 'Événement 100% en ligne : en direct sur la chaîne YouTube de DesignGouv'
 afficher_la_carte: false
