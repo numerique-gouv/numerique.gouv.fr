@@ -46,28 +46,28 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 ## Objectifs
 
-* Connaitre les **principes fondamentaux et les définitions**
-* Découvrir les **bénéfices de cette approche**
-* Mettre en œuvre les **méthodes dans la conception** et **l'amélioration des démarches administratives numériques**
-* Identifier les **rôles et responsabilités**
-* Disposer d'une **boite à outils** et d'un **carnet de contacts**
+* Connaitre les principes fondamentaux et les définitions
+* Découvrir les bénéfices de cette approche
+* Mettre en œuvre les méthodes dans la conception et l'amélioration des démarches administratives numériques
+* Identifier les rôles et responsabilités
+* Disposer d'une boite à outils et d'un carnet de contacts
 
 ## Au programme
 
-* Qu'est-ce que le design centré usager ? Objectifs, principes et définitions
-* Les résultats de sa mise en œuvre
-* Comment intégrer le design dans la conception des démarches numériques ?
-* La recherche utilisateur
-* Utiliser le système de design de l'État
-* L'accessibilité et le design
-* Quels rôles et quelle organisation
-* Les interlocuteurs et outils pour la mise en œuvre
+* Objectifs, principes et définitions du design centré usager
+* Résultats de sa mise en œuvre
+* Intégration du design dans la conception des démarches numériques
+* Recherche utilisateur
+* Utilisation du système de design de l'État
+* Accessibilité et design
+* Rôles et organisation
+* Interlocuteurs et outils pour la mise en œuvre
 
 ## Pour participer 
 
-Rien de plus simple. Il vous suffit de [vous inscrire](https://design.numerique.gouv.fr/formations/design/) gratuitement et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
+Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/design/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
 
-## 2 autres formations à ne pas manquer : accessibilité et recherche utilisateur
+## 3 autres formations à ne pas manquer : accessibilité, recherche utilisateur et écoconception
 
 **Enrichissez vos connaissances en design, accessibilité et recherche utilisateur avec au total trois formations gratuites en ligne !**
 
