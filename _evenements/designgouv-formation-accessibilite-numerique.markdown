@@ -29,7 +29,7 @@ champs_informations:
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
 
-Pour que les administrations se posent les bonnes questions aux bons moments, pour qu'elles prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bons interlocuteurs, le pôle **Design des services numériques** de la direction interministérielle du numérique (DINUM) propose **trois formations gratuites indispensables : une formation à l'accessibilité** le 18 novembre (ci-dessous), **une formation au design** le 30 novembre, et **une formation à la recherche utilisateur** le 9 décembre.
+Pour que les administrations se posent les bonnes questions aux bons moments, pour qu'elles prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bons interlocuteurs, le pôle **Design des services numériques** de la direction interministérielle du numérique (DINUM) propose **quatre formations gratuites indispensables : une formation à l'accessibilité** le 18 novembre (ci-dessous), **une formation au design** le 30 novembre, **une formation à la recherche utilisateur** le 9 décembre et **une formation à l'écoconception** le 16 décembre.
 
 > {: .text-center}
 >
@@ -66,12 +66,12 @@ Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://desi
 
 > {: .text-center}
 >
-> ### 2 autres formations à ne pas manquer : design et recherche utilisateur
+> ### 3 autres formations à ne pas manquer : design, recherche utilisateur et écoconception
 >
 > 
->**Enrichissez vos connaissances en design, accessibilité et recherche utilisateur avec au total trois formations gratuites en ligne !**
+>**Enrichissez vos connaissances en design, accessibilité, recherche utilisateur et écoconception avec au total 4 formations gratuites en ligne !**
 >
->N'oubliez pas qu'en plus de la formation à l'accessibilité, deux autres vous sont aussi proposées : [la formation design](https://design.numerique.gouv.fr/formations/design/) et [la formation recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) (formulaires distincts). Elles auront également lieu en direct sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) et en différé.
+>N'oubliez pas qu'en plus de la formation à l'accessibilité, trois autres vous sont aussi proposées : [la formation design](https://design.numerique.gouv.fr/formations/design/), [la formation recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) (formulaires distincts) et [la formation écoconception](https://design.numerique.gouv.fr/formations/ecoconception/). Elles auront également lieu en direct sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) et en différé.
 > 
 >Ces formations s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Inscrivez-vous dès maintenant pour une formation gratuite, ludique et opérationnelle !
 >
