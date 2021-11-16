@@ -62,7 +62,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 ## Pour participer 
 
-Rien de plus simple. Il vous suffit de [vous inscrire](https://design.numerique.gouv.fr/formations/accessibilite/) gratuitement et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
+Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
 
 > {: .text-center}
 >
