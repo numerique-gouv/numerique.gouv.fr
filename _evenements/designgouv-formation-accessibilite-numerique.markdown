@@ -16,7 +16,7 @@ chapeau-text: 'Pourquoi et comment bien prendre en compte les personnes en situa
 une-ou-diaporama:
 - image: "/uploads/designGouv.png"
 event_start_date: 2021-11-18 10:00:00 +01:00
-lieu: 'Événement 100% en ligne : en direct sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured)'
+lieu: 'Événement 100% en ligne : en direct sur [la chaîne YouTube de DesignGouv]'
 afficher_la_carte: false
 champs_informations:
 - intitule: Date
@@ -24,7 +24,8 @@ champs_informations:
 - intitule: Horaires
   contenu: 10h - 12h
 - intitule: 'Modalités '
-  contenu: "[Inscription gratuite](https://design.numerique.gouv.fr/formations/accessibilite/)"
+  contenu: Inscription gratuite
+  lien: "(https://design.numerique.gouv.fr/formations/accessibilite/)"
 ---
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
