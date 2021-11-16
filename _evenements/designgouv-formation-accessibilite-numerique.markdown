@@ -20,7 +20,7 @@ lieu: 'Événement 100% en ligne : en direct sur [la chaîne YouTube de DesignGo
 afficher_la_carte: false
 champs_informations:
 - intitule: Date
-  contenu: Mardi 18 novembre 2021
+  contenu: Jeudi 18 novembre 2021
 - intitule: Horaires
   contenu: 10h - 12h
 - intitule: 'Modalités '
