@@ -69,7 +69,7 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 * Invitation simple et illimitée des **partenaires hors État**
 * Gestion et sécurisation des **versions de fichiers**
 * **Aide à l’utilisation** (guide utilisateur, tutoriels en ligne, [webinaires de prise en main](https://webinaire-resana.interstis.fr/public/ "webinaires  de prise en main - Lien externe"), RESANA académie…)
-* **Liens directs vers des outils utiles :** webconférence de l’État, Tchap la messagerie instantanée de l’État
+* **Liens directs vers des outils utiles :** Webconférence de l’État, Tchap la messagerie instantanée de l’État
 <br>
 <br>
 
