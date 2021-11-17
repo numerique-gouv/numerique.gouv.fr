@@ -60,11 +60,4 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
 
-> {: .text-center}
->
-> ### 3 autres formations à ne pas manquer
->
-> N'oubliez pas qu'en plus de la formation recherche utilisateur, trois autres vous sont proposées gratuitement : [accessibilité](https://design.numerique.gouv.fr/formations/accessibilite/), [design](https://design.numerique.gouv.fr/formations/design/) et [écoconception](https://design.numerique.gouv.fr/formations/ecoconception/). Inscrivez-vous dès maintenant (formulaires distincts) !
->
-> {: .margin-top-1 .text-center}
-{: .encadre .noir role="presentation" }
+<div class="encadre noir"> <h3>3 autres formations à ne pas manquer</h3> <p>N’oubliez pas qu’en plus de la formation recherche utilisateur, trois autres vous sont proposées gratuitement&nbsp;: <a href="https://design.numerique.gouv.fr/formations/accessibilite/">accessibilité</a>, <a href="https://design.numerique.gouv.fr/formations/design/">design</a> et <a href="https://design.numerique.gouv.fr/formations/ecoconception/">écoconception</a>. Inscrivez-vous dès maintenant (formulaires distincts)&nbsp;!</p> </div>
