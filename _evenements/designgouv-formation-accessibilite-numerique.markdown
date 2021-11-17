@@ -5,9 +5,9 @@ categories:
 - Formation
 tags:
 - Formation
-- accessibilité
 - Tech
 - Numérique
+- Accessibilité
 chapeau-text: 'Pourquoi et comment bien prendre en compte les personnes en situation
   de handicap dans la conception de services publics numériques : le pôle **Design
   des services numériques** de la direction interministérielle du numérique (DINUM)
@@ -65,7 +65,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Pour participer</h3>
 
-Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera également accessible en différé si vous n'êtes pas disponible à cette date.
+Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/watch?v=_5zIrh-LDto&feature=youtu.be) le Jour J (avec transcription par vélotypie). Elle sera également accessible en différé si vous n'êtes pas disponible à cette date.
 
 > {: .text-center}
 >
