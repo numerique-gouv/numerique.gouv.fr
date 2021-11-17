@@ -1,6 +1,8 @@
 ---
 title: 'DesignGouv : formation à l''écoconception'
 date: 2021-11-16 11:58:00 +01:00
+categories:
+- Formation
 chapeau-text: 'Pourquoi et comment écoconcevoir des services publics numériques :
   le pôle **Design des services numériques** de la direction interministérielle du
   numérique (DINUM) propose une **formation gratuite à l''écoconception, le jeudi
@@ -54,13 +56,6 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Pour participer</h3> 
 
-Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/ecoconception/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
+Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/ecoconception/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
 
-> {: .text-center}
->
-> ### 3 autres formations à ne pas manquer
->
-> N'oubliez pas qu'en plus de la formation écoconception, trois autres vous sont proposées gratuitement : [accessibilité](https://design.numerique.gouv.fr/formations/accessibilite/), [design](https://design.numerique.gouv.fr/formations/design/) et [recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/). Inscrivez-vous dès maintenant (formulaires distincts) !
->
-> {: .margin-top-1 .text-center}
-{: .encadre .noir role="presentation" }
+<div class="encadre noir"> <h3>3 autres formations à ne pas manquer</h3> <p>N’oubliez pas qu’en plus de la formation écoconception, trois autres vous sont proposées gratuitement&nbsp;: <a href="https://design.numerique.gouv.fr/formations/accessibilite/">accessibilité</a>, <a href="https://design.numerique.gouv.fr/formations/design/">design</a> et <a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/">recherche utilisateur</a>. Inscrivez-vous dès maintenant (formulaires distincts)&nbsp;!</p> </div>
