@@ -54,7 +54,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **Qu'est-ce que la recherche utilisateur ?**
 * **Pourquoi faire de la recherche utilisateur ?**
 * **Quand et comment faire de la recherche utilisateur ?**
-* **Les outils à votre disposition**
+* **Outils à disposition**
 
 <h3 class="h2">Pour participer</h3>
 
