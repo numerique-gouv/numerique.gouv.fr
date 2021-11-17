@@ -17,14 +17,18 @@ plan-du-site:
     url: /espace-presse
 
 sites-references:
+  - link: beta.gouv.fr
+    url: https://beta.gouv.fr/
   - link: etalab.gouv.fr
     url: https://www.etalab.gouv.fr/
   - link: data.gouv.fr
     url: https://data.gouv.fr/
   - link: api.gouv.fr
     url: https://api.gouv.fr
-  - link: beta.gouv.fr
-    url: https://beta.gouv.fr/
+  - link: code.gouv.fr
+    url: https://code.gouv.fr
+  - link: communs.numerique.gouv.fr
+    url: https://communs.numerique.gouv.fr/
   - link: design.numerique.gouv.fr
     url: https://design.numerique.gouv.fr
   - link: ecoresponsable.numerique.gouv.fr 
