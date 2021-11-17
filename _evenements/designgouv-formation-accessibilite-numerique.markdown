@@ -16,11 +16,13 @@ chapeau-text: 'Pourquoi et comment bien prendre en compte les personnes en situa
 une-ou-diaporama:
 - image: "/uploads/designGouv-796c88.png"
 event_start_date: 2021-11-18 10:00:00 +01:00
-lieu: 'Événement 100% en ligne : en direct sur la chaîne YouTube de DesignGouv'
 afficher_la_carte: false
 acces:
 - lien: 
 champs_informations:
+- intitule: Événement 100% en ligne
+  contenu: en direct sur la chaîne YouTube de DesignGouv
+  lien: https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured
 - intitule: Date
   contenu: Jeudi 18 novembre 2021
 - intitule: Horaires
@@ -38,24 +40,27 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **[une formation à la recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/)** le jeudi 9 décembre 
 * **[une formation à l'écoconception](https://design.numerique.gouv.fr/formations/ecoconception/)** le jeudi 16 décembre
 
+<h2 class="text-center font-bold">Formation à l'accessibilité numérique</h2>
+<p class="text-center">Le jeudi 18 novembre de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv !</p>
+
 > {: .text-center}
 >
-> #### Le jeudi 18 novembre de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv !
+> Le jeudi 18 novembre de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv !
 >
 > {: .margin-top-1 .text-center}
 {: .encadre role="presentation" }
 
-## Pour qui ?
+<h3 class="h2">Pour qui ?</h3>
 
-**Agents de la fonction publique ou prestataire impliqué dans la conception des démarches administratives numériques.**
+**Agents** de la fonction publique ou **prestataires impliqués dans la conception des démarches administratives numériques.**
 
-## Objectifs
+<h3 class="h2">Objectifs</h3>
 
 * S'approprier les concepts de l'accessibilité d'un point de vue historique et juridique
 * Connaître les obligations, identifier les rôles et responsabilités
 * S'organiser et disposer d'une boîte à outils
 
-## Au programme
+<h3 class="h2">Au programme</h3>
 
 * **Immersion**
 * Un peu **d'histoire**
@@ -65,7 +70,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **Référentiel général d'amélioration de l'accessibilité** (RGAA)
 * **Méthodes** et **outils**
 
-## Pour participer 
+<h3 class="h2">Pour participer</h3>
 
 Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/accessibilite/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le Jour J (avec transcription par vélotypie). Elle sera également accessible en différé si vous n'êtes pas disponible à cette date.
 
@@ -78,4 +83,4 @@ Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://desi
 > Ces formations s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Inscrivez-vous dès maintenant pour une formation gratuite et indispensable !
 >
 > {: .margin-top-1 .text-center}
-{: .encadre role="presentation" }
+{: .encadre .noir role="presentation" }
