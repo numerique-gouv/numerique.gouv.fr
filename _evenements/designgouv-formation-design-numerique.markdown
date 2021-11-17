@@ -36,7 +36,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **[une formation à la recherche utilisateur](https://www.numerique.gouv.fr/agenda/designgouv-formation-recherche-utilisateur/)** le 9 décembre 
 * **[une formation à l'écoconception](https://www.numerique.gouv.fr/agenda/designgouv-formation-ecoconception/)** le 16 décembre
 
-<h2 class="text-center">Formation à l'accessibilité numérique</h2>
+<h2 class="text-center">Formation au design numérique</h2>
 <div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 30 novembre de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv&nbsp;!</p> </div>
 
 <h3 class="h2">Pour qui ?</h3>
