@@ -36,9 +36,9 @@ Le numérique doit avant tout nous permettre d’améliorer la relation entre le
 
 Pour que les administrations se posent les bonnes questions aux bons moments, pour qu'elles prennent les bonnes décisions avec les bonnes méthodes et les bons outils, et qu'elles travaillent avec les bons interlocuteurs, le pôle **Design des services numériques** de la direction interministérielle du numérique (DINUM) propose **quatre formations gratuites indispensables** : 
 * **une formation à l'accessibilité numérique** le jeudi 18 novembre (ci-dessous) 
-* **[une formation au design numérique](https://preprod.numerique.gouv.fr/agenda/designgouv-formation-design-numerique/)** le mardi 30 novembre 
-* **[une formation à la recherche utilisateur](https://preprod.numerique.gouv.fr/agenda/designgouv-formation-recherche-utilisateur/)** le jeudi 9 décembre 
-* **[une formation à l'écoconception](https://preprod.numerique.gouv.fr/agenda/designgouv-formation-ecoconception/)** le jeudi 16 décembre
+* **[une formation au design numérique](https://www.numerique.gouv.fr/agenda/designgouv-formation-design-numerique/)** le mardi 30 novembre 
+* **[une formation à la recherche utilisateur](https://www.numerique.gouv.fr/agenda/designgouv-formation-recherche-utilisateur/)** le jeudi 9 décembre 
+* **[une formation à l'écoconception](https://www.numerique.gouv.fr/agenda/designgouv-formation-ecoconception/)** le jeudi 16 décembre
 
 <h2 class="text-center">Formation à l'accessibilité numérique</h2>
 <div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le jeudi 18 novembre de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv&nbsp;!</p> </div>
