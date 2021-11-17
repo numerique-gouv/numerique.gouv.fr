@@ -21,7 +21,7 @@ acces:
 - lien: 
 champs_informations:
 - intitule: Événement 100% en ligne
-  contenu: en direct sur la chaîne YouTube de DesignGouv
+  contenu: en direct (et en différé) sur la chaîne YouTube de DesignGouv
   lien: https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured
 - intitule: Date
   contenu: Jeudi 18 novembre 2021
@@ -69,11 +69,9 @@ Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://desi
 
 > {: .text-center}
 >
-> ### 3 autres formations à ne pas manquer : design, recherche utilisateur et écoconception
+> ### 3 autres formations à ne pas manquer
 >
-> N'oubliez pas qu'en plus de la formation accessibilité, trois autres vous sont proposées : [la formation design](https://design.numerique.gouv.fr/formations/design/), [la formation recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) et [la formation écoconception](https://design.numerique.gouv.fr/formations/ecoconception/) (via des formulaires d'inscription distincts). Elles auront également lieu sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured), en direct et en différé.
-> 
-> Ces formations s'adressent à toutes les personnes qui travaillent sur des services publics en ligne. Inscrivez-vous dès maintenant pour une formation gratuite et indispensable !
+> N'oubliez pas qu'en plus de la formation accessibilité, trois autres vous sont proposées gratuitement : [design](https://design.numerique.gouv.fr/formations/design/), [recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) et [écoconception](https://design.numerique.gouv.fr/formations/ecoconception/) (via des formulaires d'inscription distincts).
 >
 > {: .margin-top-1 .text-center}
 {: .encadre .noir role="presentation" }
