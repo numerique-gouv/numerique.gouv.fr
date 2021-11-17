@@ -6,7 +6,7 @@ tags:
 - plateforme collaborative
 - Resana
 - ETNA
-date_de_modification: 18 décembre 2020
+date_de_modification: 17 novembre 2021
 chapeau-text: |-
   Déjà plus de 115 000 utilisateurs !
   Destinée aux agents de l’État, la plateforme collaborative Resana leur offre un espace numérique complet pour faciliter le stockage, le partage et la coédition de documents, mais aussi le travail en équipe et en mode projet, y compris en mobilité.
@@ -65,7 +65,7 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 * **Simple d’utilisation** et intuitif
 * **Création d’un espace de travail en 30 secondes**
 * **Synchronisation des fichiers** et dossiers directement vers son poste de travail
-* Accessible à tout moment depuis **différents appareils** (sur ordinateur via navigateur ; sur smartphone et tablette via apps dédiées), en **mobilité**, en **télétravail**
+* Accessible à tout moment depuis **différents appareils** (sur ordinateur via navigateur ; sur smartphone et tablette Android via [app dédiée](https://play.google.com/store/apps/details?id=com.resana.mobile_android "app dédiée - Lien externe")), en **mobilité**, en **télétravail**
 * Invitation simple et illimitée des **partenaires hors État**
 * Gestion et sécurisation des **versions de fichiers**
 * **Aide à l’utilisation** (guide utilisateur, tutoriels en ligne, [webinaires de prise en main](https://webinaire-resana.interstis.fr/public/ "webinaires  de prise en main - Lien externe"), RESANA académie…)
@@ -87,12 +87,14 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 [sur resana.numerique.gouv.fr](https://resana.numerique.gouv.fr/)
 {: .text-center .noir}
 <a href="https://resana.numerique.gouv.fr/" alt="Tchap version web"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png"></figure></a>
-<a href="https://play.google.com/store/apps/details?id=com.ionicframework.resana2377483&hl=fr" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png"></figure></a>
+<a href="https://play.google.com/store/apps/details?id=com.resana.mobile_android" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png"></figure></a>
+<!-- 
 <a href="https://apps.apple.com/fr/app/resana/id1443845334" alt="Télécharger l'application sur l'Appstore"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png"></figure></a>
+-->
 
 <br>
 <br>
 
-*Resana est un service interministériel opéré par le SGAR Nouvelle-Aquitaine. Il a été réalisé dans le cadre de **[TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public, piloté par la direction interministérielle du numérique (DINUM).*
+*Resana est un service interministériel opéré par la direction interministérielle du numérique (DINUM). Il a été réalisé dans le cadre de **[TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public, piloté par la DINUM.*
 
 *Resana s’appuie sur un logiciel édité par la société [InterStis](https://interstis.fr/).* <br>
