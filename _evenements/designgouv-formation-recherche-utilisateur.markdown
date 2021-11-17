@@ -18,7 +18,7 @@ event_start_date: 2021-12-09 10:00:00 +01:00
 champs_informations:
 - intitule: Événement 100% en ligne
   contenu: en direct (et en différé) sur la chaîne YouTube de DesignGouv
-  lien: https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured
+  lien: https://youtu.be/0V-WIpVtPCg
 - intitule: Date
   contenu: Jeudi 9 décembre 2021
 - intitule: Horaires
@@ -32,7 +32,7 @@ Le numérique doit avant tout nous permettre d’améliorer la relation entre le
 
 Pour que les administrations se posent les bonnes questions aux bons moments, pour qu'elles prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bons interlocuteurs, le pôle **Design des services numériques** de la direction interministérielle du numérique (DINUM) propose **quatre formations gratuites indispensables** : 
 * **[une formation à l'accessibilité numérique](https://www.numerique.gouv.fr/agenda/designgouv-formation-accessibilite-numerique/)** le 18 novembre 
-* **[une formation au design numérique](https://www.numerique.gouv.fr/agenda/designgouv-formation-design-numerique/)** le 30 novembre 
+* **[une formation au design](https://www.numerique.gouv.fr/agenda/designgouv-formation-design/)** le 30 novembre 
 * **une formation à la recherche utilisateur** le 9 décembre (ci-dessous)
 * **[une formation à l'écoconception](https://www.numerique.gouv.fr/agenda/designgouv-formation-ecoconception/)** le 16 décembre
 
