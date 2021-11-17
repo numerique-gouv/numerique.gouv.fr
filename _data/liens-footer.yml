@@ -29,6 +29,8 @@ sites-references:
     url: https://design.numerique.gouv.fr
   - link: ecoresponsable.numerique.gouv.fr 
     url: https://ecoresponsable.numerique.gouv.fr
+  - link: code.gouv.fr
+    url: https://code.gouv.fr
 
 outils-pour-les-agents:
   - link: Messagerie instantanée Tchap
