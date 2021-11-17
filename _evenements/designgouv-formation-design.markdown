@@ -45,11 +45,11 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Objectifs</h3>
 
-* Connaitre les principes fondamentaux et les définitions
+* Connaître les principes fondamentaux et les définitions
 * Découvrir les bénéfices de cette approche
 * Mettre en œuvre les méthodes dans la conception et l'amélioration des démarches administratives numériques
 * Identifier les rôles et responsabilités
-* Disposer d'une boite à outils et d'un carnet de contacts
+* Disposer d'une boîte à outils et d'un carnet de contacts
 
 <h3 class="h2">Au programme</h3>
 
