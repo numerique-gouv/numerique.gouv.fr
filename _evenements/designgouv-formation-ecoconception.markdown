@@ -61,6 +61,6 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Pour participer</h3> 
 
-Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/ecoconception/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/channel/UCMH9lC8dSlRVRfb0LoKuJZw/featured) le jour J (avec transcription par vélotypie). Elle sera aussi accessible en différé si vous n'êtes pas disponible à cette date.
+Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/ecoconception/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/watch?v=qaPFSK-Jbxg) le jour J (avec transcription par vélotypie). Elle sera aussi accessible en différé si vous n'êtes pas disponible à cette date.
 
 <div class="encadre noir"> <h3>3 autres formations à ne pas manquer</h3> <p>N’oubliez pas qu’en plus de la formation écoconception, trois autres vous sont proposées gratuitement&nbsp;: <a href="https://design.numerique.gouv.fr/formations/accessibilite/">accessibilité</a>, <a href="https://design.numerique.gouv.fr/formations/design/">design</a> et <a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/">recherche utilisateur</a>. Inscrivez-vous dès maintenant (formulaires distincts)&nbsp;!</p> </div>
