@@ -67,6 +67,13 @@ Le télétravail s’installe désormais de façon pérenne dans les organisatio
 
 <div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/travail-en-mode-hybride-et-maintenant">Plus d'informations et inscriptions</a></p></div> 
 
+<p style="margin-top: 30px"><b>[Le jeudi 24/11 de 16h à 17h] [Webinaire]</b> <i>Open data et territoires, quel accompagnement pour les collectivités locales ? </i></p>
+
+Vous êtes une collectivité territoriale et souhaitez ouvrir vos données ? Dans le cadre du Mois de l'innovation publique, venez découvrir l'offre d'accompagnement et les outils mis à disposition de la Direction interministérielle du numérique et d'OpenDataFrance.
+
+L'équipe open data de la ville d'Issy-les-Moulineaux partagera également son expérience.
+
+<div class="lien-important"><p><a href="https://app.livestorm.co/dinum-12/open-data-quel-accompagnement-pour-les-collectivites-locales?type=detailed">Plus d'informations et inscriptions</a></p></div> 
 
 <p style="margin-top: 30px"><b>[Le jeudi 25/11 de 9h à 17h30] [Journée Portes Ouvertes]</b> <i>À la découverte de la mission Transfo de la DINUM</i></p>
 
