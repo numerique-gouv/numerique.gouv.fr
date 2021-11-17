@@ -85,6 +85,11 @@ Le programme souhaite soutenir davantage de projets portés au sein des collecti
 
 <div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/les-entrepreneurs-dinteret-general-vous-aident-porter-un-projet">Plus d'informations et inscriptions</a></p></div>
 
+<p style="margin-top: 30px"><b>[Le jeudi 25/11 de 17h à 18h] [Webinaire]</b> <i>Numérique écoresponsable </i></p>
+
+Le numérique s’est imposé massivement dans toutes nos activités quotidiennes et fait tourner l'économie mondiale. Cependant, le numérique est responsable aujourd'hui directement de 4% des émissions de gaz à effet de serre. Le numérique repose aussi sur une extraction intense de ressources naturelles pour produire toute l'infrastructure sur laquelle il repose et nos terminaux utilisateurs. Nous présenterons les travaux entamés au sein de l’administration publique en vue de réduire son empreinte environnementale du numérique.
+
+<div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/mois-de-linnovation-publique-numerique-ecoresponsable">Programme et inscriptions</a></p></div>
 
 <p style="margin-top: 30px"><b>[Le mardi 30/11 de 10h à 12h] [Formation]</b> <i>Services publics en ligne : formez-vous au design !</i></p>
 
