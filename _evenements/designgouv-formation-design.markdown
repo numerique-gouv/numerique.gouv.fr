@@ -13,7 +13,7 @@ chapeau-text: 'Connaître les principes du design centré sur les besoins des us
   interministérielle du numérique (DINUM) propose une **formation gratuite au design,
   le mardi 30 novembre, de 10h à 12h.**'
 une-ou-diaporama:
-- image: "/uploads/designGouv-796c88.png"
+- image: "/uploads/Event-design.png"
 event_start_date: 2021-11-30 10:00:00 +01:00
 champs_informations:
 - intitule: Événement 100% en ligne
