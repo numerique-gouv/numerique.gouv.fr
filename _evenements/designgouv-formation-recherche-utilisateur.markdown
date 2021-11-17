@@ -13,7 +13,7 @@ chapeau-text: Pour éviter que les usagers et citoyens soient perdus dans vos se
   de la direction interministérielle du numérique (DINUM) propose une **formation
   gratuite à la recherche utilisateur, le jeudi 9 décembre, de 10h à 12h.**
 une-ou-diaporama:
-- image: "/uploads/designGouv-796c88.png"
+- image: "/uploads/Event-recherche.png"
 event_start_date: 2021-12-09 10:00:00 +01:00
 champs_informations:
 - intitule: Événement 100% en ligne
