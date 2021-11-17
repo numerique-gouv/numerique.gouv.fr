@@ -71,7 +71,7 @@ Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://desi
 >
 > ### 3 autres formations à ne pas manquer
 >
-> N'oubliez pas qu'en plus de la formation accessibilité, trois autres vous sont proposées gratuitement : [design](https://design.numerique.gouv.fr/formations/design/), [recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) et [écoconception](https://design.numerique.gouv.fr/formations/ecoconception/) (via des formulaires d'inscription distincts).
+> N'oubliez pas qu'en plus de la formation accessibilité, trois autres vous sont proposées gratuitement : [design](https://design.numerique.gouv.fr/formations/design/), [recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/) et [écoconception](https://design.numerique.gouv.fr/formations/ecoconception/). Inscrivez-vous dès maintenant (formulaires distincts) !
 >
 > {: .margin-top-1 .text-center}
 {: .encadre .noir role="presentation" }
