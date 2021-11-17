@@ -25,7 +25,7 @@ champs_informations:
   contenu: 10h - 12h
 - intitule: Modalités
   contenu: Inscription gratuite
-  lien: "(https://design.numerique.gouv.fr/formations/recherche-utilisateur/)"
+  lien: https://design.numerique.gouv.fr/formations/recherche-utilisateur/
 ---
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
