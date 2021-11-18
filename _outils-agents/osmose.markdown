@@ -74,8 +74,7 @@ Seul un agent de l’État ou d'un établissement public de l’État peut deman
 > <br>
 >
 > Pour toute question écrivez-nous à [contact@osmose.numerique.gouv.fr](mailto:contact@osmose.numerique.gouv.fr).
-> {: .noir .encadre}
-
+{: .noir .encadre}
 <br>
 
 <a href="https://osmose.numerique.gouv.fr/"><img src="/uploads/capture-osmose-home2.png" width="400" alt="Accéder à Osmose"/>
@@ -83,9 +82,9 @@ Seul un agent de l’État ou d'un établissement public de l’État peut deman
 {: .text-center}
 
 > **[Accéder à Osmose](https://osmose.numerique.gouv.fr/)**
-> {: .lien-important}
-
+{: .lien-important}
 <br>
+
 *À noter : Le point de contact [contact@osmose.numerique.gouv.fr](mailto:contact@osmose.numerique.gouv.fr) est mis à disposition et opéré par la DINUM en complément des points de contact des directions du numérique ministérielles (DNUM).*
 
 *Osmose est un service proposé par la DINUM, basé sur la solution SaaS Jplatform de l’éditeur **[Jalios](https://www.jalios.com)** (données hébergées en France).*
