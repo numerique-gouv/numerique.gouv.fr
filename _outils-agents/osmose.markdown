@@ -21,6 +21,7 @@ layout: rgaa
 </div>
 
 <br>
+<br>
 
 <figure class='image-left' style='width: 7%;'>
 <img src="/uploads/swiss-army-knife_bleu.png"/>
