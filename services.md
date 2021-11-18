@@ -35,10 +35,6 @@ publications:
   url: "/services/tnt/"
   une-ou-diaporama:
   - image: "/uploads/TNT_Rub_Services-5e8b1c.png"
-- title: Partagez vos talents numériques !
-  url: "/services/partagez-vos-talents-numeriques/"
-  une-ou-diaporama:
-  - image: "/uploads/Partagez-talents_rub.png"
 - title: Soumettre un grand projet numérique au DINUM pour avis
   url: "/services/soumettre-un-grand-projet-numerique-au-dinum-pour-avis/"
   une-ou-diaporama:
