@@ -82,7 +82,6 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 {: .text-center .margin-bottom-1 .margin-top-3}
 
 #### Sur ordinateur
-
 {: .text-center .margin-bottom-0}
 [sur resana.numerique.gouv.fr](https://resana.numerique.gouv.fr/)
 {: .text-center .noir}
@@ -91,7 +90,6 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 <!--
 <a href="https://apps.apple.com/fr/app/resana/id1443845334" alt="Télécharger l'application sur l'Appstore"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png"></figure></a>
 -->
-
 <br>
 <br>
 
