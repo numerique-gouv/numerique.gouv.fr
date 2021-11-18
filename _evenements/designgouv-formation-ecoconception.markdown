@@ -19,7 +19,7 @@ champs_informations:
 - intitule: Événement 100% en ligne
   contenu: en direct (et en différé) sur la chaîne YouTube de DesignGouv
   lien: https://youtu.be/qaPFSK-Jbxg
-- intitule: 'Date '
+- intitule: Date
   contenu: Jeudi 16 décembre 2021
 - intitule: Horaires
   contenu: 10h - 12h

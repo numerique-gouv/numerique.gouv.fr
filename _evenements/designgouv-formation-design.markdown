@@ -23,7 +23,7 @@ champs_informations:
   contenu: Mardi 30 novembre 2021
 - intitule: Horaires
   contenu: 10h - 12h
-- intitule: 'Modalités '
+- intitule: Modalités
   contenu: 'Inscription gratuite '
   lien: https://design.numerique.gouv.fr/formations/design/
 ---
@@ -64,6 +64,6 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Pour participer</h3>
 
-Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/design/) et d'assister à la formation en ligne directement sur [https://www.youtube.com/watch?v=QjGzdw4OSO8) le Jour J (avec transcription par vélotypie). Elle sera aussi disponible en différé si vous n'êtes pas disponible à cette date.
+Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/design/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/watch?v=QjGzdw4OSO8) le Jour J (avec transcription par vélotypie). Elle sera aussi accessible en différé si vous n'êtes pas disponible à cette date.
 
 <div class="encadre noir"> <h3>3 autres formations à ne pas manquer</h3> <p>N’oubliez pas qu’en plus de la formation design, trois autres vous sont proposées gratuitement&nbsp;: <a href="https://design.numerique.gouv.fr/formations/accessibilite/">accessibilité</a>, <a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/">recherche utilisateur</a> et <a href="https://design.numerique.gouv.fr/formations/ecoconception/">écoconception</a>. Inscrivez-vous dès maintenant (formulaires distincts)&nbsp;!</p> </div>
