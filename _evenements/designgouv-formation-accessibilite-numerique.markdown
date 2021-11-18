@@ -27,7 +27,7 @@ champs_informations:
   contenu: Jeudi 18 novembre 2021
 - intitule: Horaires
   contenu: 10h - 12h
-- intitule: 'Modalités '
+- intitule: Modalités
   contenu: Inscription gratuite
   lien: https://design.numerique.gouv.fr/formations/accessibilite/
 ---
