@@ -51,13 +51,7 @@ Ainsi engagé à attirer la future génération de spécialistes, le 5 novembre 
 
 **Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques**
 
-
-
-
 *Ces événements portés par le ministère de la Transformation et de la Fonction publiques s’inscrivent dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique du service public conduit par la direction interministérielle du numérique (DINUM).*
-
-
-
 
 **LE FORUM DE L’EMPLOI TECH DE L’ÉTAT EN BREF :**
 

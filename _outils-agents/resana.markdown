@@ -45,19 +45,12 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 {: .margin-bottom-1}
 
 * **Stockage et partage de fichiers** (jusqu’à 2 Go par fichier)
-
 * **Import d’arborescences de fichiers**
-
 * **Coédition en ligne** de documents textes, tableurs et présentations (OnlyOffice et Collabora)
-
 * **Planification de tâches** (kanban) et de projets (Gantt)
-
 * **Agenda partagé**
-
 * **Messagerie instantanée** intégrée
-
 * **Questionnaires, votes en ligne et sondages**
-
 * **Publication de contenus** (texte, photo, vidéo...)
   <br>
   <br>
@@ -69,21 +62,13 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 {: .margin-bottom-2}
 
 * **Confidentialité des échanges** (chiffrement des données, hébergement en France)
-
 * **Simple d’utilisation** et intuitif
-
 * **Création d’un espace de travail en 30 secondes**
-
 * **Synchronisation des fichiers** et dossiers directement vers son poste de travail
-
 * Accessible à tout moment depuis **différents appareils** (sur ordinateur via navigateur ; sur smartphone et tablette Android via [app dédiée](https://play.google.com/store/apps/details?id=com.resana.mobile_android "app dédiée - Lien externe")), en **mobilité**, en **télétravail**
-
 * Invitation simple et illimitée des **partenaires hors État**
-
 * Gestion et sécurisation des **versions de fichiers**
-
 * **Aide à l’utilisation** (guide utilisateur, tutoriels en ligne, [webinaires de prise en main](https://webinaire-resana.interstis.fr/public/ "webinaires  de prise en main - Lien externe"), RESANA académie…)
-
 * **Liens directs vers des outils utiles :** Webconférence de l’État, Tchap la messagerie instantanée de l’État
   <br>
   <br>
