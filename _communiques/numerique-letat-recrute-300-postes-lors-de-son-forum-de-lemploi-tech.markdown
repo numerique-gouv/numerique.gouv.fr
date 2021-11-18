@@ -1,5 +1,5 @@
 ---
-title: 'Numérique : l’état recrute 300 postes lors de son forum de l’emploi tech'
+title: 'Numérique : l’État recrute 300 postes lors de son forum de l’emploi tech'
 date: 2021-11-18 11:07:00 +01:00
 categories:
 - Communiqué de presse
@@ -8,7 +8,7 @@ tags:
 - recrutement
 - talents tech
 - Vis mon job
-chapeau-text: Pour réussir sa transformation et garantir sa souveraineté numérique,
+chapeau-text: "**Pour réussir sa transformation et garantir sa souveraineté numérique,
   l’État s’emploie à réinternaliser et renforcer une partie des fonctions stratégiques
   du numérique en attirant au sein de ses administrations centrales et territoriales
   des talents de la tech aux compétences et aux parcours variés. En compétition avec
@@ -16,7 +16,7 @@ chapeau-text: Pour réussir sa transformation et garantir sa souveraineté numé
   de ces talents, l’État s’investit à être identifié comme un des employeurs phares
   de la tech. La direction interministérielle du numérique, sous l’autorité du  ministère
   de la Transformation et de la Fonction publiques, organise le Forum de l’emploi
-  Tech de l’État du 29 novembre au 15 décembre en ligne et le 16 décembre à Paris.
+  Tech de l’État du 29 novembre au 15 décembre en ligne et le 16 décembre à Paris.**"
 une-ou-diaporama:
 - image: "/uploads/2021_11_03_VISUEL_AGENDA_FORUM_RECRUTEMENT-773b9b.png"
 contact-presse:
