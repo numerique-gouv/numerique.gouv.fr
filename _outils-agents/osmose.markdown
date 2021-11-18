@@ -19,7 +19,6 @@ layout: rgaa
 <div class="conteneur-iframe seize-neuvieme">
 <div class="dailymotion_player" width="100%" height="100%" videoID="x85nruz" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
 </div>
-
 <br>
 <br>
 
@@ -39,19 +38,12 @@ Animez vos communautés autour d’une pratique, d’un projet, d’une équipe,
 Avec Osmose, vous pouvez :
 
 * **Créer un espace collaboratif dédié à une communauté professionnelle**, privé ou public, et y inviter des participants internes et externes à l’État (partenaires, prestataires, experts…)
-
 * **Partager des contenus et fichiers** : documents bureautiques, vidéos, images, liens, veille…
-
 * **Coéditer des documents**
-
 * **Publier des contenus** sous différentes formes : post sur un blog dédié (pour informer de l’actualité de votre communauté par ex), FAQ ou wiki (pour diffuser un compte-rendu de réunion par ex)
-
 * **Discuter :** poser une question, proposer une idée, lancer une discussion, et **interagir** (commenter, voter, recommander...)
-
 * **Gérer, suivre et attribuer des tâches** (type kanban)
-
 * **Planifier des réunions** (sondage de dates et invitations, partage de supports associés…) avec export possible dans son agenda professionnel (Outlook, Thunderbird…)
-
 * Et bien d’autres fonctionnalités : sondages, enquêtes…
   <br>
   <br>
