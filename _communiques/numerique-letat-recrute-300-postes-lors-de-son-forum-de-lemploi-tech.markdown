@@ -7,7 +7,6 @@ tags:
 - Forum de l'emploi tech de l'État
 - recrutement
 - talents tech
-- Vis mon job
 chapeau-text: "**Pour réussir sa transformation et garantir sa souveraineté numérique,
   l’État s’emploie à réinternaliser et renforcer une partie des fonctions stratégiques
   du numérique en attirant au sein de ses administrations centrales et territoriales
