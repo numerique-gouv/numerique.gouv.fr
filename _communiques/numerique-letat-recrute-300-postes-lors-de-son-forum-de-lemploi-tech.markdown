@@ -19,6 +19,12 @@ chapeau-text: Pour réussir sa transformation et garantir sa souveraineté numé
   Tech de l’État du 29 novembre au 15 décembre en ligne et le 16 décembre à Paris.
 une-ou-diaporama:
 - image: "/uploads/2021_11_03_VISUEL_AGENDA_FORUM_RECRUTEMENT-773b9b.png"
+contact-presse:
+  name: Floriane Beaudron
+  tel:
+  - '01 71 21 12 50 '
+  - 06.10.60.41.19
+  email: floriane.beaudron@modernisation.gouv.fr
 files:
 - file: "/uploads/CP_NUMERIQUE_L_ETAT_RECRUTE.pdf"
   nom: Télécharger le communiqué de presse
