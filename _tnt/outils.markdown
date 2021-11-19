@@ -46,13 +46,16 @@ Toute direction ministérielle pilotant un chantier de transformation numérique
 
 
 
-Télécharger la version pdf
+<a href="/uploads/agenda_de_la_transformation_numerique_des_collectivites_territoriales_2018_2024.pdf">Télécharger l'agenda en version pdf (pdf, 200 ko)</a>
+<br>
+<br>
 
 ### Sensibilisation des élus et cadres dirigeants des collectivités
 Co-piloté conjointement par France Urbaine, Villes de France et l'Agence Nationale de la Cohésion des Territoires (ANCT), le groupe projet 2 « Sensibilisation des élus et cadres dirigeants des collectivités » a pour objectif de construire une offre de sensibilisation et/ou de formation des élus territoriaux aux enjeux de la transformation numérique.
 Afin de sonder la perception du numérique par les élus, les possibilités de formation déjà existantes, et identifier la thématique liée au numérique qui suscite le plus leur intérêt en vue d'une action de sensibilisation, une enquête en ligne a été diffusée.
 Celle-ci se clôturera le 24 novembre 2021.
-
+<br>
+<br>
 
 ### Accompagnement des collectivités au déploiement de Démat. ADS
 Dans le cadre du programme Démat.ADS (dématérialisation des autorisations d’urbanisme), à compter du 1er janvier 2022 : 
