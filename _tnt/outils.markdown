@@ -16,8 +16,8 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   minmax(150px, auto);\n}\n\n.panel {\n  margin-left: 5px;\n  margin-right: 5px;\n
   \ flex: 1 1 200px;\ndisplay: inline-grid;\nalign-content: end;\n}\n\n.wrapper >
   * {\n  padding: 10px;\n  font-size: 100%;\n  margin-bottom: 10px;\ntext-align: center;\nbackground-color:
-  #f9f8f6;\n\tborder-bottom: 4px solid #000091;\n}\n\n\n.titre-document {\n  color:
-  #095D9C;\n  font-weight: bold;\n}"
+  #f9f8f6;\n\tborder-bottom: 4px solid #000091;\n}\n\n.panel-center{\n  justify-content:
+  center;\n}\n\n.titre-document {\n  color: #095D9C;\n  font-weight: bold;\n}"
 layout: tnt
 ---
 
@@ -37,7 +37,7 @@ Toute direction ministérielle pilotant un chantier de transformation numérique
 
 
 <div class="wrapper">
-<div class="panel">
+<div class="panel-center">
 <p class="text-center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-" title="Accéder à l'Agenda de la transformation numérique des collectivités territoriales (2018-2024) - Lien externe"><img src="/uploads/capture-agenda-transfonum-collterr_250.jpg" style="border:solid 1px #dedede;" width="250" alt="Accéder à l'Agenda de la transformation numérique des collectivités territoriales (2018-2024) - Lien externe"></a></p>
 <b>Agenda de la transformation numérique des collectivités territoriales (2018-2024)</b>
 <div align="center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-" class="button"><b>Accéder à l'agenda</b></a></div>
