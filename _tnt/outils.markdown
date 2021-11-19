@@ -55,10 +55,11 @@ Dans cette perspective, et afin d’accompagner au mieux les collectivités dans
 
 Pour obtenir des compléments d’informations sur ces travaux ou accéder à toute documentation utile, rejoignez [l’espace Osmose du groupe projet « Accompagnement des collectivités au déploiement de Démat. ADS »](https://osmose.numerique.gouv.fr/jcms/c_2074992/demat-ads-permis-de-construire-en-ligne).
 
-<div align="center"><h2 id="feuilles-de-route"><b>Les 15 feuilles de route ministérielles en matière de données, algorithmes et codes sources</b></h2></div>
+<div align="center"><h4 id="feuilles-de-route"><b>Vos outils</b></h4></div>
 
 <div class="wrapper">
 <div class="panel">
+<p class="text-center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" title="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border-color:#dedede" height="100" hspace="3" vspace="25" width="100" alt="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"></a></p>
 <b>Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations<br>(pdf, 600 ko)
 <div align="center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" class="button"><b>Télécharger</b></a></div>
 </div>
