@@ -31,6 +31,21 @@ Toute direction ministérielle pilotant un chantier de transformation numérique
 
 <div align="center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-" class="button">Accéder à l'agenda</a></div>
 
+
+
+
+
+
+<div class="wrapper">
+<div class="panel">
+<p class="text-center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-" title="Accéder à l'Agenda de la transformation numérique des collectivités territoriales (2018-2024) - Lien externe"><img src="/uploads/capture-agenda-transfonum-collterr_250.jpg" style="border:solid 1px #dedede;" width="250" alt="Accéder à l'Agenda de la transformation numérique des collectivités territoriales (2018-2024) - Lien externe"></a></p>
+<b>Agenda de la transformation numérique des collectivités territoriales (2018-2024)</b>
+<div align="center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-" class="button"><b>Accéder à l'agenda</b></a></div>
+</div>
+</div>
+
+
+
 Télécharger la version pdf
 
 ### Sensibilisation des élus et cadres dirigeants des collectivités
@@ -45,13 +60,6 @@ Dans le cadre du programme Démat.ADS (dématérialisation des autorisations d�
 * Toutes les communes sont tenues de recevoir des saisines par voie électronique.
 
 Dans cette perspective, et afin d’accompagner au mieux les collectivités dans le déploiement de ce chantier, le groupe projet 3 « Accompagnement des collectivités au déploiement de Démat. ADS », co-piloté conjointement par l’Association des Maires de France (AMF) et la direction générale de l'Aménagement, du Logement et de la Nature (DGALN) du ministère de la Transition écologique et solidaire, a produit une série de documents pédagogiques d’outillage juridique et de communication. Ils ont vocation à être librement utilisés par les collectivités qui peuvent les adapter à leurs besoins. 
-
-**Vos outils**
-* [**Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme**](/uploads/Guide-pratique_mise-en-place_SVE.pdf)
-
-* [**Guide pratique en marque blanche sur la saisine par voie électronique (SVE) à destination des usagers**](/uploads/Guide-pratique_SVE_usagers.odp)
-
-* [**Flyer de communication sur la saisine par voie électronique (SVE) à destination des usagers**](/uploads/Flyer_SVE_usagers.pptx)
 
 Pour obtenir des compléments d’informations sur ces travaux ou accéder à toute documentation utile, rejoignez [l’espace Osmose du groupe projet « Accompagnement des collectivités au déploiement de Démat. ADS »](https://osmose.numerique.gouv.fr/jcms/c_2074992/demat-ads-permis-de-construire-en-ligne).
 
