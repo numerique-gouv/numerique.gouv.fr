@@ -69,7 +69,7 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 <div align="center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" class="button"><b>Télécharger</b></a></div>
 </div>
 <div class="panel">
-<a href="/uploads/Flyer_SVE_usagers.pptx" title="Télécharger le Flyer de communication sur la saisine par voie électronique (SVE) à destination des usagers (pptx, 600 ko)"><img src="/uploads/couv-flyer-com-sve-usagers.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Flyer de communication sur la saisine par voie électronique (SVE) à destination des usagers (pptx, 600 ko)"></a></p>
+<p class="text-center"><a href="/uploads/Flyer_SVE_usagers.pptx" title="Télécharger le Flyer de communication sur la saisine par voie électronique (SVE) à destination des usagers (pptx, 600 ko)"><img src="/uploads/couv-flyer-com-sve-usagers.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Flyer de communication sur la saisine par voie électronique (SVE) à destination des usagers (pptx, 600 ko)"></a></p>
 <b>Flyer de communication sur la saisine par voie électronique (SVE)</b>à destination des usagers<br>(pptx, 600 ko)
 <div align="center"><a href="/uploads/Flyer_SVE_usagers.pptx" class="button"><b>Télécharger</b></a></div>
 </div>
