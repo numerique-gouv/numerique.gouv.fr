@@ -40,12 +40,23 @@ Inverser la logique administrative et aller-vers l’usager pour l’informer de
 
 <div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-atelier-de-reflexion-sur-laccompagnement-des-jeunes-vers-la-vie-active-200197745847?aff=ebdsoporgprofile">Plus d'informations et inscriptions</a></p></div>
 
+<p style="margin-top: 30px"><b>[Le mercredi 17/11 de 17h à 17h30] [Webinaire]</b> <i>Simplifier les démarches des citoyens et le quotidien des agents grâce aux API</i></p>
+
+Les API "pour les nuls". Tout savoir sur les API, leur utilité et l'offre de service de la DINUM pour accompagner les administrations qui souhaitent exposer ou consommer des données.
+
+<div class="lien-important"><p><a href="https://app.livestorm.co/dinum-12/simplifier-demarches-api-mois-innovation?type=detailed">Programme et inscriptions</a></p></div>
+
 <p style="margin-top: 30px"><b>[Le jeudi 18/11 de 10h à 12h] [Formation]</b> <i>Services publics en ligne : formez-vous à l'accessibilité !</i></p>
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et Le numérique doit permettre d’améliorer la relation entre les citoyens et l’administration à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages. Pour que les administrations prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bonnes personnes, nous proposons une formation Accessibilité.
 
 <div class="lien-important"><p><a href="https://design.numerique.gouv.fr/formations/accessibilite/">Programme et inscriptions</a></p></div>
 
+<p style="margin-top: 30px"><b>[Le lundi 22/11 de 17h à 17h30] [Webinaire]</b> <i>Simplifier les démarches des citoyens et le quotidien des agents grâce aux API</i></p>
+
+Discussion au comptoir de la donnée : les territoires témoignent de leur utilisation des API pour simplifier le quotidien des français ! Les territoires prennent la parole pour nous raconter leur expérience des API et ce que cela a changé pour eux et leur usagers au quotidien.
+
+<div class="lien-important"><p><a href="https://app.livestorm.co/dinum-12/simplifier-demarches-api-mois-innovation?type=detailed">Programme et inscriptions</a></p></div>
 
 <p style="margin-top: 30px"><b>[Le mercredi 24/11 de 10h à 11h30] [Atelier] [Transformation Numérique des Territoires]</b> <i>Collectivités territoriales : la DINUM et l'ANCT vous présentent leurs outils pour accélérer vos projets de transformation numérique</i></p>
 
@@ -97,6 +108,12 @@ Le programme souhaite soutenir davantage de projets portés au sein des collecti
 Le numérique s’est imposé massivement dans toutes nos activités quotidiennes et fait tourner l'économie mondiale. Cependant, le numérique est responsable aujourd'hui directement de 4% des émissions de gaz à effet de serre. Le numérique repose aussi sur une extraction intense de ressources naturelles pour produire toute l'infrastructure sur laquelle il repose et nos terminaux utilisateurs. Nous présenterons les travaux entamés au sein de l’administration publique en vue de réduire son empreinte environnementale du numérique.
 
 <div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/mois-de-linnovation-publique-numerique-ecoresponsable">Programme et inscriptions</a></p></div>
+
+<p style="margin-top: 30px"><b>[Le vendredi 26/11 de 11h à 11h30] [Webinaire]</b> <i>Simplifier les démarches des citoyens et le quotidien des agents grâce aux API</i></p>
+
+Discussion au comptoir de la donnée : l'API Crit'air, un exemple d'exposition et d'utilisation des données par API. L'équipe du service de délivrance des certificats de qualité de l'air revient sur leur expérience d'exposition et de consommation des données pour améliorer leur action.
+
+<div class="lien-important"><p><a href="https://app.livestorm.co/dinum-12/simplifier-demarches-api-mois-innovation?type=detailed">Programme et inscriptions</a></p></div>
 
 <p style="margin-top: 30px"><b>[Le mardi 30/11 de 10h à 12h] [Formation]</b> <i>Services publics en ligne : formez-vous au design !</i></p>
 
