@@ -52,12 +52,6 @@ Le numérique doit avant tout nous permettre d’améliorer la relation entre le
 
 <div class="lien-important"><p><a href="https://design.numerique.gouv.fr/formations/accessibilite/">Programme et inscriptions</a></p></div>
 
-<p style="margin-top: 30px"><b>[Le lundi 22/11 de 17h à 17h30] [Webinaire]</b> <i>Simplifier les démarches des citoyens et le quotidien des agents grâce aux API</i></p>
-
-Discussion au comptoir de la donnée : les territoires témoignent de leur utilisation des API pour simplifier le quotidien des français ! Les territoires prennent la parole pour nous raconter leur expérience des API et ce que cela a changé pour eux et leur usagers au quotidien.
-
-<div class="lien-important"><p><a href="https://app.livestorm.co/dinum-12/simplifier-demarches-api-mois-innovation?type=detailed">Programme et inscriptions</a></p></div>
-
 <p style="margin-top: 30px"><b>[Le mercredi 24/11 de 10h à 11h30] [Atelier] [Transformation Numérique des Territoires]</b> <i>Collectivités territoriales : la DINUM et l'ANCT vous présentent leurs outils pour accélérer vos projets de transformation numérique</i></p>
 
 Vous êtes une collectivité territoriale et souhaitez lancer ou accélérer des projets de transformation numérique (donnée, démarches en ligne, nouveaux services numériques, etc.) ? Ou identifier des leviers de transformation numérique de vos politiques publiques, en découvrant des projets mis en œuvre dans d’autres collectivités et obtenir leurs retours d’expérience ? Vous souhaitez en savoir plus sur les moyens mis en œuvre par la DINUM et l’ANCT pour soutenir et accélérer vos projets ?
