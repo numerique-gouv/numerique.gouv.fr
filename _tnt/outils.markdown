@@ -10,10 +10,9 @@ une:
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n\n.wrapper {\n  max-width: 940px;\n
-  \ margin: 0 20px;\n  display: grid;\n  grid-gap: 10px;\n}\n\n.wrapper {\n  display:
-  flex;\n  flex-wrap: wrap;\n}\n\n.wrapper {\n  display: grid;\n  margin: 0 auto;\n
-  \ grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));\n  grid-auto-rows:
-  minmax(150px, auto);\n}\n\n.panel {\n  margin-left: 5px;\n  margin-right: 5px;\n
+  \ margin: 0 auto;\n  display: grid;\n  grid-gap: 10px;\n  grid-template-columns:
+  repeat(auto-fill, minmax(200px, 1fr));\n  grid-auto-rows: minmax(150px, auto);\n
+  \ flex-wrap: wrap;\n}\n\n\n.panel {\n  margin-left: 5px;\n  margin-right: 5px;\n
   \ flex: 1 1 200px;\ndisplay: inline-grid;\nalign-content: end;\n}\n\n.wrapper >
   * {\n  padding: 10px;\n  font-size: 100%;\n  margin-bottom: 10px;\ntext-align: center;\nbackground-color:
   #f9f8f6;\n\tborder-bottom: 4px solid #000091;\n}\n\n.panel-center{\n  justify-content:
@@ -43,7 +42,8 @@ Toute direction ministérielle pilotant un chantier de transformation numérique
 <div align="center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-" class="button"><b>Accéder à l'agenda</b></a></div>
 </div>
 </div>
-
+<br>
+<br>
 
 
 <a href="/uploads/agenda_de_la_transformation_numerique_des_collectivites_territoriales_2018_2024.pdf">Télécharger l'agenda en version pdf (pdf, 200 ko)</a>
