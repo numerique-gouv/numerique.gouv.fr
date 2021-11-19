@@ -59,62 +59,14 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 <div class="wrapper">
 <div class="panel">
 <b>Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations<br>(pdf, 600 ko)
-<div align="center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" class="button"><b>Télécharger</b></a></div>
+<div align="center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" class="button"><b>Télécharger</b></a></div>
 </div>
 <div class="panel">
 <b>Guide pratique en marque blanche sur la saisine par voie électronique (SVE)</b> à destination des usagers<br>(odp, 600 ko)
 <div align="center"><a href="/uploads/feuillederoute_maa.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
 <div class="panel">
-<b>Feuille de route du ministère des Armées</b><br>(pdf, 4 Mo)
-<div align="center"><a href="/uploads/feuillederoute_minarm.pdf" class="button"><b>Télécharger</b></a></div>
-</div>
-<div class="panel">
-<b>Feuille de route de la Cohésion des territoires et des Relations avec les collectivités territoriales</b><br>(pdf, 5 Mo)
-<div align="center"><a href="/uploads/feuillederoute_mctrct.pdf" class="button"><b>Télécharger</b></a></div>
-</div>
-<div class="panel">
-<b>Feuille de route du ministère de la Culture</b><br>(pdf, 640 ko)
-<div align="center"><a href="/uploads/feuillederoute_mc.pdf" class="button"><b>Télécharger</b></a></div>
-</div>
-<div class="panel">
-<b>Feuille de route du ministère de l'Économie, des Finances et de la Relance</b><br>(pdf, 640 ko)
-<div align="center"><a href="/uploads/feuillederoute_mefr.pdf" class="button"><b>Télécharger</b></a></div>
-</div>
-<div class="panel">
-<b>Feuille de route du ministère de l'Éducation nationale, de la Jeunesse et des Sports</b><br>(pdf, 1,5 Mo)
-<div align="center"><a href="/uploads/feuillederoute_menjs.pdf" class="button"><b>Télécharger</b></a></div>
-</div>
-<div class="panel">
-<b>Feuille de route du ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation</b><br>(pdf, 825 ko)
-<div align="center"><a href="/uploads/feuillederoute_mesri.pdf" class="button"><b>Télécharger</b></a></div>
-</div>
-<div class="panel">
-<b>Feuille de route du ministère de l'Europe et des Affaires étrangères</b><br>(pdf, 8 Mo)
-<div align="center"><a href="/uploads/feuillederoute_meae.pdf" class="button"><b>Télécharger</b></a></div>
-</div>
-<div class="panel">
-<b>Feuille de route du ministère de l'Intérieur</b><br>(pdf, 620 ko)
-<div align="center"><a href="/uploads/feuillederoute_mi.pdf" class="button"><b>Télécharger</b></a></div>
-</div>
-<div class="panel">
-<b>Feuille de route du ministère de la Justice</b><br>(pdf, 4 Mo)
-<div align="center"><a href="/uploads/feuillederoute_mj.pdf" class="button"><b>Télécharger</b></a></div>
-</div>
-<div class="panel">
-<b>Feuille de route des ministères de la Transition écologique,  de la Cohésion des territoires et de la Mer</b><br>(pdf, 1 Mo)
-<div align="center"><a href="/uploads/feuillederoute_mte_mer.pdf" class="button"><b>Télécharger</b></a></div>
-</div>
-<div class="panel">
-<b>Feuille de route du ministère des Solidarités et de la Santé</b><br>(pdf, 1 Mo)
-<div align="center"><a href="/uploads/feuillederoute_mss.pdf" class="button"><b>Télécharger</b></a></div>
-</div>
-<div class="panel">
-<b>Feuille de route du ministère du Travail, de l'Emploi et de l'Insertion</b><br>(pdf, 2 Mo)
-<div align="center"><a href="/uploads/feuillederoute_MTEI.pdf" class="button"><b>Télécharger</b></a></div>
-</div>
-<div class="panel">
-<b>Feuille de route des services du Premier ministre</b><br>(pdf, 1 Mo)
-<div align="center"><a href="/uploads/feuillederoute_spm.pdf" class="button"><b>Télécharger</b></a></div>
+<b>Flyer de communication sur la saisine par voie électronique (SVE)</b>à destination des usagers<br>(pptx, 600 ko)
+<div align="center"><a href="/uploads/Flyer_SVE_usagers.pptx" class="button"><b>Télécharger</b></a></div>
 </div>
 </div>
