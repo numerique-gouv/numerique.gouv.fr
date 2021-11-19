@@ -1,6 +1,7 @@
 ---
 title: Outils
 date: 2021-11-19 14:11:00 +01:00
+permalink: "/services/tnt/outils/"
 menu:
   title: Outils
   weight: 40
