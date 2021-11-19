@@ -27,13 +27,8 @@ Issu du groupe projet 1, cet agenda a pour ambition de donner aux collectivités
 L’agenda a une visée évolutive et sera alimenté régulièrement.
 
 Toute direction ministérielle pilotant un chantier de transformation numérique touchant les collectivités territoriales, peut solliciter le programme TNT afin d’en faire renseigner les jalons et obligations à l’adresse des collectivités.
-
-<div align="center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-" class="button">Accéder à l'agenda</a></div>
-
-
-
-
-
+<br>
+<br>
 
 <div class="wrapper">
 <div class="panel-center">
@@ -43,10 +38,9 @@ Toute direction ministérielle pilotant un chantier de transformation numérique
 </div>
 </div>
 <br>
-<br>
 
 
-<a href="/uploads/agenda_de_la_transformation_numerique_des_collectivites_territoriales_2018_2024.pdf">Télécharger l'agenda en version pdf (pdf, 200 ko)</a>
+<a href="/uploads/agenda_de_la_transformation_numerique_des_collectivites_territoriales_2018_2024.pdf">> Télécharger l'agenda en version pdf (pdf, 200 ko)</a>
 <br>
 <br>
 
@@ -66,13 +60,13 @@ Dans cette perspective, et afin d’accompagner au mieux les collectivités dans
 
 Pour obtenir des compléments d’informations sur ces travaux ou accéder à toute documentation utile, rejoignez [l’espace Osmose du groupe projet « Accompagnement des collectivités au déploiement de Démat. ADS »](https://osmose.numerique.gouv.fr/jcms/c_2074992/demat-ads-permis-de-construire-en-ligne).
 
-<div align="center"><h4 id="feuilles-de-route"><b>Vos outils</b></h4></div>
+<div align="center"><h4><b>Vos outils</b></h4></div>
 
 <div class="wrapper">
 <div class="panel">
-<p class="text-center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" title="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"></a></p>
+<p class="text-center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" title="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"></a></p>
 <b>Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations<br>(pdf, 600 ko)
-<div align="center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" class="button"><b>Télécharger</b></a></div>
+<div align="center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
 <div class="panel">
 <p class="text-center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" title="Télécharger le Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des usagers (odp, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE-usagers.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des usagers (odp, 600 ko)"></a></p>
