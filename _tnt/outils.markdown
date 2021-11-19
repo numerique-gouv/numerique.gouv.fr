@@ -29,7 +29,7 @@ L’agenda a une visée évolutive et sera alimenté régulièrement.
 
 Toute direction ministérielle pilotant un chantier de transformation numérique touchant les collectivités territoriales, peut solliciter le programme TNT afin d’en faire renseigner les jalons et obligations à l’adresse des collectivités.
 
-Accéder à l'agenda
+<a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-" class="button">Accéder à l'agenda</a>
 
 Télécharger la version pdf
 
