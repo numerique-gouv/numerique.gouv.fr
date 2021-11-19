@@ -62,7 +62,7 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 <div align="center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
 <div class="panel">
-<b>Feuille de route du ministère de l’Agriculture et de l’Alimentation</b><br>(pdf, 6 Mo)
+<b>Guide pratique en marque blanche sur la saisine par voie électronique (SVE)</b> à destination des usagers<br>(odp, 600 ko)
 <div align="center"><a href="/uploads/feuillederoute_maa.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
 <div class="panel">
