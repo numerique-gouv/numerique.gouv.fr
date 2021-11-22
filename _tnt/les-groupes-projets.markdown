@@ -31,21 +31,21 @@ Tous les « groupes projets » sont ouverts aux agents ou élus de collectivité
 #### Groupe projet 1 : Agenda de transformation numérique des collectivités
 * **Objectif :** Donner aux collectivités une visibilité sur les chantiers à venir en termes de dématérialisation et améliorer la prise en compte de leurs conséquences.
 * **Copilotes :** la direction interministérielle du numérique et l’association Déclic.
-* **Livrables et outils produits** : à découvrir dans [notre rubrique Outils](https://www.numerique.gouv.fr/services/tnt/outils/#contenu)
+* **Livrables et outils produits** : à découvrir dans [notre rubrique Outils](/services/tnt/outils/#livrables-agenda)
 
 <p><a href="https://airtable.com/shreNhI841LrZpUyF" class="button">S’inscrire pour participer à ce groupe projet</a></p>
 
 #### Groupe projet 2 : Sensibilisation des élus et cadres dirigeants des collectivités
 * **Objectif :** Construire une offre de sensibilisation, d’acculturation et de formation portant sur les enjeux de la transformation numérique à destination des élus et des cadres dirigeants des collectivités.
 * **Copilotes :** l’Agence nationale de la cohésion des territoires (ANCT), France urbaine, l’Assemblée des Communautés de France (AdCF) et Villes de France.
-* **Livrables et outils produits** : à découvrir dans [notre rubrique Outils](https://www.numerique.gouv.fr/services/tnt/outils/#contenu)
+* **Livrables et outils produits** : à découvrir dans [notre rubrique Outils](/services/tnt/outils/#livrables-sensibilisation)
 
 <p><a href="https://airtable.com/shrZdPoeKxSBKQRTt" class="button">S’inscrire pour participer à ce groupe projet</a></p>
 
 #### Groupe projet 3 : Accompagnement à la dématérialisation des demandes d’urbanisme
 * **Objectif :** Suivre le déploiement du programme et accompagner les collectivités à la mise en œuvre de Démat.ADS, les dématérialisations des autorisations d’urbanisme.
 * **Copilotes :** la direction générale de l’aménagement, du logement et de la nature (DGALN), le ministère de la Transition écologique (MTE) et l’Association des Maires de France (AMF).
-* **Livrables et outils produits** : à découvrir dans [notre rubrique Outils](https://www.numerique.gouv.fr/services/tnt/outils/#contenu)
+* **Livrables et outils produits** : à découvrir dans [notre rubrique Outils](/services/tnt/outils/#livrables-ads)
 
 <p><a href="https://airtable.com/shrGulbiPIH49ToMg" class="button">S’inscrire pour participer à ce groupe projet</a></p>
 <br>
