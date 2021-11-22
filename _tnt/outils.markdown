@@ -22,7 +22,7 @@ layout: tnt
 
 ### Agenda de la transformation numérique des collectivités territoriales (2018-2024)
 
-Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités une visibilité sur les chantiers de transformation numérique de l’État les impactant et leur permettre ainsi de mieux en anticiper les obligations et opportunités liées. 
+Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités une visibilité sur les chantiers de transformation numérique les impactant et leur permettre ainsi de mieux en anticiper les obligations et opportunités liées. 
 
 L’agenda a une visée évolutive et sera alimenté régulièrement.
 
