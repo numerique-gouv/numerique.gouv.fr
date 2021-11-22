@@ -30,7 +30,7 @@ La DINUM pilote l’axe dédié aux projets numériques mutualisés ou d’ample
 
 Vous êtes une collectivité ou une structure de mutualisation et vous souhaitez intégrer le bouton France Connect et les API nationales (issue du catalogue [api.gouv.fr](https://api.gouv.fr)) pour simplifier les démarches en ligne de vos usagers ? Vous êtes éligible à un ticket forfaitaire de 5 000 € par projet ?
 
-<a href="https://france-relance.transformation.gouv.fr/e13a-deployer-franceconnect-et-utiliser-les-api-na/" class="button">Déposez votre demande jusqu’au 30 septembre 2022</a></p>
+<p align="center"><a href="https://france-relance.transformation.gouv.fr/e13a-deployer-franceconnect-et-utiliser-les-api-na/" class="button">Déposez votre demande jusqu’au 30 septembre 2022</a></p>
 <br>
 
 <div class="lien-important"><p><a href="https://france-relance.transformation.gouv.fr/fonds-collectivites">Découvrez l’ensemble des appels à projets et guichets de ce fonds France Relance</a></p></div>
