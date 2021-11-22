@@ -60,7 +60,7 @@ Dans le cadre du programme Démat.ADS (dématérialisation des autorisations d�
 
 Dans cette perspective, et afin d’accompagner au mieux les collectivités dans le déploiement de ce chantier, le groupe projet 3 « Accompagnement des collectivités au déploiement de Démat. ADS » a produit une série de documents pédagogiques d’outillage juridique et de communication. Ils ont vocation à être librement utilisés par les collectivités qui peuvent les adapter à leurs besoins. 
 
-Pour obtenir des compléments d’informations sur ces travaux ou accéder à toute documentation utile, rejoignez [l’espace Osmose du groupe projet « Accompagnement des collectivités au déploiement de Démat. ADS »](https://osmose.numerique.gouv.fr/jcms/c_2074992/demat-ads-permis-de-construire-en-ligne) ou [demandez votre inscription au groupe](https://airtable.com/shrGulbiPIH49ToMg).
+Pour obtenir des compléments d’informations sur ces travaux ou accéder à toute documentation utile, accédez [l’espace Osmose du groupe projet « Accompagnement des collectivités au déploiement de Démat. ADS »](https://osmose.numerique.gouv.fr/jcms/c_2074992/demat-ads-permis-de-construire-en-ligne) ou [demandez à le rejoindre](https://airtable.com/shrGulbiPIH49ToMg).
 
 <div align="center"><h4><b>Vos outils</b></h4></div>
 
