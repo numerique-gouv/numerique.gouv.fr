@@ -32,14 +32,13 @@ Vous êtes une direction ministérielle et pilotez un chantier de transformation
 
 <div class="wrapper">
 <div class="panel-center">
-<p class="text-center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-" title="Accéder à l'Agenda de la transformation numérique des collectivités territoriales (2018-2024) - Lien externe"><img src="/uploads/capture-agenda-transfonum-collterr_250.jpg" style="border:solid 1px #dedede;" width="250" alt="Accéder à l'Agenda de la transformation numérique des collectivités territoriales (2018-2024) - Lien externe"></a></p>
+<p class="text-center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-?style=0" title="Accéder à l'Agenda de la transformation numérique des collectivités territoriales (2018-2024) - Lien externe"><img src="/uploads/capture-agenda-transfonum-collterr_250.jpg" style="border:solid 1px #dedede;" width="250" alt="Accéder à l'Agenda de la transformation numérique des collectivités territoriales (2018-2024) - Lien externe"></a></p>
 <b>Agenda de la transformation numérique des collectivités territoriales (2018-2024)</b>
 <div align="center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-" class="button"><b>Accéder à l'agenda</b></a></div>
 </div>
 </div>
 <br>
 
-<iframe src="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-?style=0" width="100%" height="7953" frameborder="0"><a href="https://www.preceden.com" target="_top">Preceden Timeline Maker</a></iframe>
 
 <a href="/uploads/agenda_de_la_transformation_numerique_des_collectivites_territoriales_2018_2024.pdf">> Télécharger l'agenda en version pdf (pdf, 200 ko)</a>
 <br>
