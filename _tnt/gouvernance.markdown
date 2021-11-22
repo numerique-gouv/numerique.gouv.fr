@@ -20,7 +20,7 @@ layout: tnt
 ---
 
 ### Un comité d’orientation politique 
-<img src="/uploads/copol_TNT_20211122.jpeg" align="middle">
+<img src="/uploads/copol_TNT_20211122.jpeg" style="margin-right: 10px" width="300px" align="left" alt="">
 Présidé par la ministre de la Transformation et de la Fonction publiques qui associe la ministre de la Cohésion des territoires et des Relations avec les collectivités territoriales, ce comité biannuel assure le pilotage à haut niveau du programme TNT avec les dirigeants des principales associations représentatives des collectivités territoriales. Le comité d’orientation politique définit les grands objectifs et valide une feuille de route.
 
 Dans le cadre de France Relance, il assure le pilotage stratégique de l’enveloppe « Transformation numérique des collectivités territoriales » et définit à cet effet les axes prioritaires qui nécessitent d’être soutenus, analyse les indicateurs territoriaux et financiers de consommation des crédits et peut se prononcer sur les montants attribués.
