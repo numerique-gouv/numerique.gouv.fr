@@ -46,7 +46,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <br>
 
 
-<div class="text-center"><a href="/uploads/organigramme_DINUM.PDF" class="button">Consulter l'organigramme (pdf - 98 Ko)</a></div>
+<div class="text-center"><a href="/uploads/organigramme_DINUM.pdf" class="button">Consulter l'organigramme (pdf - 98 Ko)</a></div>
 
 <script>
 function myFunction(id) {
