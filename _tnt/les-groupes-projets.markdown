@@ -45,3 +45,8 @@ Tous les « groupes projets » sont ouverts aux agents ou élus de collectivité
 * **Copilotes :** la direction générale de l’aménagement, du logement et de la nature (DGALN), le ministère de la Transition écologique (MTE) et l’Association des Maires de France (AMF).
 
 <p><a href="https://airtable.com/shrGulbiPIH49ToMg" class="button">S’inscrire pour participer à ce groupe projet</a></p>
+<br>
+<br>
+
+<div class="lien-important"><p><a href="/services/tnt/outils/#contenu">Découvrez les premiers livrables de ces groupes projets et outils produits</a></p>
+
