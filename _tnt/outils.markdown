@@ -49,7 +49,7 @@ Le groupe projet 2, dédié à la sensibilisation des élus et cadres dirigeants
 
 Les résultats permettront de construire l’offre de sensibilisation et/ou de formation la plus adaptée.
 
-**Vous êtes un élu territorial ? [Répondez à l’enquête](https://framaforms.org/etude-sur-la-sensibilisation-au-numerique-a-destination-des-elus-locaux-1634572242) (jusqu’au 24 novembre 2021).**
+**Vous êtes un élu territorial ? [Répondez à l’enquête](https://framaforms.org/etude-sur-la-sensibilisation-au-numerique-a-destination-des-elus-locaux-1634572242)** (jusqu’au 24 novembre 2021).
 <br>
 <br>
 
