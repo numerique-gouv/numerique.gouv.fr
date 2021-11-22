@@ -39,6 +39,7 @@ Vous êtes une direction ministérielle et pilotez un chantier de transformation
 </div>
 <br>
 
+<iframe src="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-?style=0" width="100%" height="7953" frameborder="0"><a href="https://www.preceden.com" target="_top">Preceden Timeline Maker</a></iframe>
 
 <a href="/uploads/agenda_de_la_transformation_numerique_des_collectivites_territoriales_2018_2024.pdf">> Télécharger l'agenda en version pdf (pdf, 200 ko)</a>
 <br>
