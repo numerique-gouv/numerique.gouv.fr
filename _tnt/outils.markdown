@@ -22,11 +22,11 @@ layout: tnt
 
 ### Agenda de la transformation numérique des collectivités territoriales (2018-2024)
 
-Issu du groupe projet 1, cet agenda a pour ambition de donner aux collectivités une visibilité sur les chantiers de transformation numérique les impactant et leur permettre ainsi de mieux en anticiper les obligations et opportunités liées. 
+Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités une visibilité sur les chantiers de transformation numérique les impactant et leur permettre ainsi de mieux en anticiper les obligations et opportunités liées. 
 
 L’agenda a une visée évolutive et sera alimenté régulièrement.
 
-Toute direction ministérielle pilotant un chantier de transformation numérique touchant les collectivités territoriales, peut solliciter le programme TNT afin d’en faire renseigner les jalons et obligations à l’adresse des collectivités.
+Vous êtes une direction ministérielle et pilotez un chantier de transformation numérique qui aura un impact pour les collectivités territoriales ? Faites-le ajouter dans cet agenda pour le porter à leur connaissance, en renseigner les jalons et obligations à l’adresse des collectivités. Pour cela, contactez le programme TNT à [tnt.dinum@modernisation.gouv.fr](mailto:tnt.dinum@modernisation.gouv.fr).
 <br>
 <br>
 
@@ -45,9 +45,11 @@ Toute direction ministérielle pilotant un chantier de transformation numérique
 <br>
 
 ### Sensibilisation des élus et cadres dirigeants des collectivités
-Co-piloté conjointement par France Urbaine, Villes de France et l'Agence Nationale de la Cohésion des Territoires (ANCT), le groupe projet 2 « Sensibilisation des élus et cadres dirigeants des collectivités » a pour objectif de construire une offre de sensibilisation et/ou de formation des élus territoriaux aux enjeux de la transformation numérique.
-Afin de sonder la perception du numérique par les élus, les possibilités de formation déjà existantes, et identifier la thématique liée au numérique qui suscite le plus leur intérêt en vue d'une action de sensibilisation, une enquête en ligne a été diffusée.
-Celle-ci se clôturera le 24 novembre 2021.
+Le groupe projet 2, dédié à la sensibilisation des élus et cadres dirigeants des collectivités aux enjeux de la transformation numérique, a conçu et diffusé auprès des élus une enquête afin de sonder leur perception du numérique, les possibilités de formation déjà existantes, et d’identifier la thématique liée au numérique qui suscite le plus leur intérêt.
+
+Les résultats permettront de construire l’offre de sensibilisation et/ou de formation la plus adaptée.
+
+**Vous êtes un élu territorial ? [Répondez à l’enquête](https://framaforms.org/etude-sur-la-sensibilisation-au-numerique-a-destination-des-elus-locaux-1634572242) (jusqu’au 24 novembre 2021).**
 <br>
 <br>
 
@@ -56,7 +58,7 @@ Dans le cadre du programme Démat.ADS (dématérialisation des autorisations d�
 * Les communes de plus de 3 500 habitants sont tenues de recevoir et d’instruire sous forme dématérialisée les demandes d’autorisation d’urbanisme ; 
 * Toutes les communes sont tenues de recevoir des saisines par voie électronique.
 
-Dans cette perspective, et afin d’accompagner au mieux les collectivités dans le déploiement de ce chantier, le groupe projet 3 « Accompagnement des collectivités au déploiement de Démat. ADS », co-piloté conjointement par l’Association des Maires de France (AMF) et la direction générale de l'Aménagement, du Logement et de la Nature (DGALN) du ministère de la Transition écologique et solidaire, a produit une série de documents pédagogiques d’outillage juridique et de communication. Ils ont vocation à être librement utilisés par les collectivités qui peuvent les adapter à leurs besoins. 
+Dans cette perspective, et afin d’accompagner au mieux les collectivités dans le déploiement de ce chantier, le groupe projet 3 « Accompagnement des collectivités au déploiement de Démat. ADS » a produit une série de documents pédagogiques d’outillage juridique et de communication. Ils ont vocation à être librement utilisés par les collectivités qui peuvent les adapter à leurs besoins. 
 
 Pour obtenir des compléments d’informations sur ces travaux ou accéder à toute documentation utile, rejoignez [l’espace Osmose du groupe projet « Accompagnement des collectivités au déploiement de Démat. ADS »](https://osmose.numerique.gouv.fr/jcms/c_2074992/demat-ads-permis-de-construire-en-ligne).
 
