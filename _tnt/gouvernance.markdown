@@ -26,6 +26,7 @@ layout: tnt
 <p><strong>Côté État&nbsp;:</strong></p>
 <img src="/uploads/copol_TNT_20211122.jpeg" alt="" style="margin-left: 10px; margin-bottom: 20px" width="300px" align="right">
 <ul><li>Ministre de la Transformation et de la Fonction publiques</li> <li>Ministre de la Cohésion des territoires et des Relations avec les collectivités territoriales</li> <li>Direction interministérielle du numérique (DINUM)</li> <li>Direction interministérielle de la transformation publique (DITP)</li> <li>Agence nationale de la cohésion des territoires (ANCT)</li> </ul> 
+<br>
 
 **Côté collectivités territoriales :**
 
