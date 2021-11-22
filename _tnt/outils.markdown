@@ -20,7 +20,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 layout: tnt
 ---
 
-### Agenda de la transformation numérique des collectivités territoriales (2018-2024)
+<h3 id="livrables-agenda">Agenda de la transformation numérique des collectivités territoriales (2018-2024)</h3>
 
 Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités une visibilité sur les chantiers de transformation numérique les impactant et leur permettre ainsi de mieux en anticiper les obligations et opportunités liées. 
 
@@ -44,7 +44,7 @@ Vous êtes une direction ministérielle et pilotez un chantier de transformation
 <br>
 <br>
 
-### Sensibilisation des élus et cadres dirigeants des collectivités
+<h3 id="livrables-sensibilisation">Sensibilisation des élus et cadres dirigeants des collectivités</h3>
 Le groupe projet 2, dédié à la sensibilisation des élus et cadres dirigeants des collectivités aux enjeux de la transformation numérique, a conçu et diffusé auprès des élus une enquête afin de sonder leur perception du numérique, les possibilités de formation déjà existantes, et d’identifier la thématique liée au numérique qui suscite le plus leur intérêt.
 
 Les résultats permettront de construire l’offre de sensibilisation et/ou de formation la plus adaptée.
@@ -53,7 +53,7 @@ Les résultats permettront de construire l’offre de sensibilisation et/ou de f
 <br>
 <br>
 
-### Accompagnement des collectivités au déploiement de Démat. ADS
+<h3 id="livrables-ads">Accompagnement des collectivités au déploiement de Démat. ADS</h3>
 Dans le cadre du programme Démat.ADS (dématérialisation des autorisations d’urbanisme), à compter du 1er janvier 2022 : 
 * Les communes de plus de 3 500 habitants sont tenues de recevoir et d’instruire sous forme dématérialisée les demandes d’autorisation d’urbanisme ; 
 * Toutes les communes sont tenues de recevoir des saisines par voie électronique.
