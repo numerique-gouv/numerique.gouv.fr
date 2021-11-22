@@ -32,9 +32,9 @@ Vous êtes une direction ministérielle et pilotez un chantier de transformation
 
 <div class="wrapper">
 <div class="panel-center">
-<p class="text-center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-" title="Accéder à l'Agenda de la transformation numérique des collectivités territoriales (2018-2024) - Lien externe"><img src="/uploads/capture-agenda-transfonum-collterr_250.jpg" style="border:solid 1px #dedede;" width="250" alt="Accéder à l'Agenda de la transformation numérique des collectivités territoriales (2018-2024) - Lien externe"></a></p>
+<p class="text-center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-?style=0" title="Accéder à l'Agenda de la transformation numérique des collectivités territoriales (2018-2024) - Lien externe"><img src="/uploads/capture-agenda-transfonum-collterr_250.jpg" style="border:solid 1px #dedede;" width="250" alt="Accéder à l'Agenda de la transformation numérique des collectivités territoriales (2018-2024) - Lien externe"></a></p>
 <b>Agenda de la transformation numérique des collectivités territoriales (2018-2024)</b>
-<div align="center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-" class="button"><b>Accéder à l'agenda</b></a></div>
+<div align="center"><a href="https://www.preceden.com/timelines/785499-agenda-de-la-transformation-num-rique-des-collectivit-s-territoriales--2018-2024-?style=0" class="button"><b>Accéder à l'agenda</b></a></div>
 </div>
 </div>
 <br>
@@ -49,7 +49,7 @@ Le groupe projet 2, dédié à la sensibilisation des élus et cadres dirigeants
 
 Les résultats permettront de construire l’offre de sensibilisation et/ou de formation la plus adaptée.
 
-**Vous êtes un élu territorial ? [Répondez à l’enquête](https://framaforms.org/etude-sur-la-sensibilisation-au-numerique-a-destination-des-elus-locaux-1634572242)** (jusqu’au 24 novembre 2021).
+**Vous êtes un élu territorial ? [Répondez à l’enquête](https://framaforms.org/etude-sur-la-sensibilisation-au-numerique-a-destination-des-elus-locaux-1634572242)** (jusqu’au 8 décembre 2021).
 <br>
 <br>
 
