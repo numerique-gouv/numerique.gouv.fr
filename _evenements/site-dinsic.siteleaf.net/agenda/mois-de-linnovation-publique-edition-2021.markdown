@@ -85,7 +85,7 @@ L'équipe open data de la ville d'Issy-les-Moulineaux partagera également son e
 Vous souhaitez être éclairé ou orienté sur les sujets relatifs au numérique pour vous aider à transformer votre organisation (données, démarches en ligne, innovation, produits numériques, etc.) ? Vous souhaitez en savoir plus sur les moyens d’actions de la DINUM pour accélérer le déploiement de vos politiques publiques grâce au numérique ? Nous proposons à vous, agents publics, une journée Portes ouvertes sur le site de Ségur, afin de rencontrer l’équipe Transfo, découvrir ses missions et partager vos grands enjeux de transformation numérique.
 
 * Entrée libre gratuite / Accessible aux personnes à mobilité réduite à l'ensemble Fontenoy-Ségur
-* 20 Av. de Ségur 75015 Paris
+* 20 Av. de Ségur 75007 Paris
 
 <div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-portes-ouvertes-a-la-decouverte-de-la-mission-transfo-de-la-dinum-199703196637">Plus d'informations et inscriptions</a></p></div> 
 
