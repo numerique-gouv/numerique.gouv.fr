@@ -1,6 +1,7 @@
 ---
 title: "Qualité des démarches en ligne : \nretour sur la 10e édition de l’Observatoire"
 date: 2021-11-23 09:41:00 +01:00
+published: false
 categories:
 - Article
 tags:
@@ -27,23 +28,23 @@ une-ou-diaporama:
 
 L’engagement du président de la République et du Gouvernement est presque atteint. Sur **l’objectif initial de 250** démarches administratives du quotidien réalisables en ligne pour 2022, **213** le sont déjà.
 
-Cette 10e édition souligne l’amélioration de l’expérience usager de ces démarche : **65% d’entre elles obtiennent une note satisfaction supérieure ou égale à 7/10**. Dans une démarche d’amélioration continue des services en ligne de l’État, laisser ses retours n’a jamais été aussi simple : **82%** des démarches sont désormais équipées du bouton **« Je donne mon avis »** en fin de démarche.
+Cette 10e édition souligne l’amélioration de l’expérience usager de ces démarches : **65% d’entre elles obtiennent une note de satisfaction supérieure ou égale à 7/10**. Dans une démarche d’amélioration continue des services en ligne de l’État, laisser ses retours n’a jamais été aussi simple : **82%** des démarches sont désormais équipées du bouton **« Je donne mon avis »** en fin de démarche.
 
 ## Des démarches toujours plus inclusives
 
 Pour faciliter la vie de tous ses usagers, les services numériques de l’État ont amélioré l’accessibilité de ces services en ligne :
 
-* Plus de **20%** des démarches sont désormais accessibles aux personnes en situation de handicap, c’est 5 points de plus par rapport à l’édition précédente
+* Plus de **20%** des démarches sont désormais accessibles aux personnes en situation de handicap, c’est 5 points de plus par rapport à l’édition précédente.
 
 * **63%** des démarches proposent deux moyens de contact facilement accessibles, l’assistance aux usagers progresse ainsi de 9 points.
 
-* **76%** des démarches sont équipées de FranceConnect [(qui a déjà convaincu plus de 32 millions de Français)](https://www.numerique.gouv.fr/actualites/30-millions-utilisateurs-conquis-par-franceconnect/)
+* **76%** des démarches sont équipées de FranceConnect [(qui a déjà convaincu plus de 32 millions de Français)](https://www.numerique.gouv.fr/actualites/30-millions-utilisateurs-conquis-par-franceconnect/).
 
-* **79%** des démarches sont désormais optimisées sur mobile
+* **79%** des démarches sont désormais optimisées sur mobile.
 
-## FranceRelance soutient l’amélioration de l’expérience usager
+## France Relance soutient l’amélioration de l’expérience usager
 
-Pour soutenir et accélérer une dématérialisation de qualité des démarches phares de l’État, le Gouvernement met à la disposition des administrations publiques des cofinancements via le plan FranceRelance, à travers [un appel à projets dédié (ITN 1).](https://france-relance.transformation.gouv.fr/61a2-ameliorer-lexperience-usager-dans-une-demarch)
+Pour soutenir et accélérer une dématérialisation de qualité des démarches phares de l’État, le Gouvernement met à la disposition des administrations publiques des cofinancements via le plan France Relance, à travers [un appel à projets dédié (ITN 1).](https://france-relance.transformation.gouv.fr/61a2-ameliorer-lexperience-usager-dans-une-demarch)
 
 <div class="noir encadre">
 <h4>Leurs projets ont été cofinancés :</h4>
