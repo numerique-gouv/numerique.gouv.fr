@@ -44,4 +44,4 @@ Pour soutenir et accélérer une dématérialisation de qualité des démarches 
 
 Vous êtes une administration porteuse d'une des démarches en ligne les plus utilisées par les Français ? Bénéficiez de [l'accompagnement des experts du pôle Design des services numériques](https://design.numerique.gouv.fr/articles/2021-08-20-appui-experts/) pour accélérer l'amélioration de son expérience. Pour cela, écrivez à experts@design.numerique.gouv.fr
 
-Rendez-vous en janvier 2022 pour la 11e édition !
+align="center"><a Rendez-vous en janvier 2022 pour la 11e édition !align="center"</a>
