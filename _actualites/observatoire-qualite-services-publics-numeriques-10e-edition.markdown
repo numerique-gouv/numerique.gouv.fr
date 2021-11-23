@@ -8,6 +8,8 @@ chapeau-text: 'L’[Observatoire de la qualité des démarches en ligne](https:/
   plus utilisées par les Français afin de les améliorer d’ici à 2022. Cette 10e édition
   (octobre 2021) met en lumière les avancées en matière de dématérialisation et d’inclusion
   numérique de ces démarches. '
+une-ou-diaporama:
+- image: "/uploads/Une10e.png"
 ---
 
 <p align="center"><a href="https://observatoire.numerique.gouv.fr/observatoire/"><img src="![Obs10e.png](/uploads/Obs10e.png)" width="200" style="border:1px solid gray" align="center" alt="Consulter l’observatoire"/></a>
