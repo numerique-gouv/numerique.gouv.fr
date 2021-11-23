@@ -56,4 +56,4 @@ La CNAV a développé l’accès en ligne à l’âge de départ à la retraite,
 
 Vous êtes une administration porteuse d'une des démarches en ligne les plus utilisées par les Français ? Bénéficiez de [l'accompagnement des experts du pôle Design des services numériques](https://design.numerique.gouv.fr/articles/2021-08-20-appui-experts/) pour accélérer l'amélioration de son expérience. Pour cela, écrivez à experts@design.numerique.gouv.fr
 
-<p align="center"><a Rendez-vous en janvier 2022 pour la 11e édition !/></a>
+<p align="center"> Rendez-vous en janvier 2022 pour la 11e édition !
