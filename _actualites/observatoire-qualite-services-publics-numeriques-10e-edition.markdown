@@ -18,7 +18,7 @@ une-ou-diaporama:
 - image: "/uploads/Une10e.png"
 ---
 
-<p align="center"><a href="https://observatoire.numerique.gouv.fr/observatoire/"><img src="/uploads/Obs10e-cea466.png" width="200" style="border:1px solid gray" align="center" alt="Consulter l’observatoire"/></a>
+<p align="center"><a href="https://observatoire.numerique.gouv.fr/observatoire/"><img src="/uploads/observatoire_aout_2020-0b1413.png" width="200" style="border:1px solid gray" align="center" alt="Consulter l’observatoire"/></a>
 <br>
 <br>
 <a href="https://observatoire.numerique.gouv.fr/observatoire/" class="button">Consulter l’observatoire</a></p>
