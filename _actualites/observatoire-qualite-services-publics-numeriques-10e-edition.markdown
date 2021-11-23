@@ -36,7 +36,12 @@ Pour soutenir et accélérer une dématérialisation de qualité des démarches 
 
 <div class="noir encadre">
 <h4>Leurs projets ont été cofinancés :</h4> 
-<p>La Caisse nationale d’assurance vieillesse (CNAV), la direction générale des finances publiques (DGFiP) ou encore la direction générale de l’administration et de la fonction publique (DGAFP) ont répondu à l’appel à projets ! La CNAV a développé l’accès en ligne à l’âge de départ à la retraite, et a amélioré l’accès au support et la performance des démarches.   La DGFiP a été soutenue pour rendre accessibles ses démarches phares en ligne : déclarer ses revenus, gérer son prélèvement à la source, payer ses impôts, déclarer la TVA, acheter un timbre fiscal, payer les amendes routières. La DGAFP a quant à elle, rendu l’espace candidat de la PEP conforme au RGAA à 100%, et donc intégralement accessible aux personnes en situation de handicap.</p> 
+<p>La Caisse nationale d’assurance vieillesse (CNAV), la direction générale des finances publiques (DGFiP) ou encore la direction générale de l’administration et de la fonction publique (DGAFP) ont répondu à l’appel à projets ! La CNAV a développé l’accès en ligne à l’âge de départ à la retraite, et a amélioré l’accès au support et la performance des démarches.   La DGFiP a été soutenue pour rendre accessibles ses démarches phares en ligne : déclarer ses revenus, gérer son prélèvement à la source, payer ses impôts, déclarer la TVA, acheter un timbre fiscal, payer les amendes routières. La DGAFP a quant à elle, rendu l’espace candidat de la [PEP](https://place-emploi-public.gouv.fr/) conforme au RGAA à 100%, et donc intégralement accessible aux personnes en situation de handicap.</p> 
 </ul> 
 </div>
 
+## Vous avez aussi une démarche à améliorer ? Mobilisez les experts DesignGouv 
+
+Vous êtes une administration porteuse d'une des démarches en ligne les plus utilisées par les Français ? Bénéficiez de [l'accompagnement des experts du pôle Design des services numériques](https://design.numerique.gouv.fr/articles/2021-08-20-appui-experts/) pour accélérer l'amélioration de son expérience. Pour cela, écrivez à experts@design.numerique.gouv.fr
+
+Rendez-vous en janvier 2022 pour la 11e édition !
