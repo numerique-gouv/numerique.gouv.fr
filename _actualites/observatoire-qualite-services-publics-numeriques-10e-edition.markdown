@@ -27,10 +27,10 @@ Cette 10e édition souligne l’amélioration de l’expérience usager de ces d
 
 Pour faciliter la vie de tous ses usagers, les services numériques de l’État ont amélioré l’accessibilité de ces services en ligne :
 
-* Plus de 20% des démarches sont désormais accessibles aux personnes en situation de handicap, c’est 5 points de plus par rapport à l’édition précédente
-* 63% des démarches proposent deux moyens de contact facilement accessibles, l’assistance aux usagers progresse ainsi de 9 points.
-* 76% des démarches sont équipées de FranceConnect [(qui a déjà convaincu plus de 32 millions de Français)](https://www.numerique.gouv.fr/actualites/30-millions-utilisateurs-conquis-par-franceconnect/)
-* 79% des démarches sont désormais optimisées sur mobile
+* Plus de **20%** des démarches sont désormais accessibles aux personnes en situation de handicap, c’est 5 points de plus par rapport à l’édition précédente
+* **63%** des démarches proposent deux moyens de contact facilement accessibles, l’assistance aux usagers progresse ainsi de 9 points.
+* **76%** des démarches sont équipées de FranceConnect [(qui a déjà convaincu plus de 32 millions de Français)](https://www.numerique.gouv.fr/actualites/30-millions-utilisateurs-conquis-par-franceconnect/)
+* **79%** des démarches sont désormais optimisées sur mobile
 
 ## FranceRelance soutient l’amélioration de l’expérience usager
 
@@ -46,4 +46,4 @@ Pour soutenir et accélérer une dématérialisation de qualité des démarches 
 
 Vous êtes une administration porteuse d'une des démarches en ligne les plus utilisées par les Français ? Bénéficiez de [l'accompagnement des experts du pôle Design des services numériques](https://design.numerique.gouv.fr/articles/2021-08-20-appui-experts/) pour accélérer l'amélioration de son expérience. Pour cela, écrivez à experts@design.numerique.gouv.fr
 
-align="center"><a Rendez-vous en janvier 2022 pour la 11e édition !align="center"</a>
+Rendez-vous en janvier 2022 pour la 11e édition !
