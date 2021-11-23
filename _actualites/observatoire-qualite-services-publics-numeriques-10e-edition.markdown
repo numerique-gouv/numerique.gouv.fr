@@ -1,6 +1,12 @@
 ---
 title: "Qualité des démarches en ligne : \nretour sur la 10e édition de l’Observatoire"
 date: 2021-11-23 09:41:00 +01:00
+categories:
+- Article
+tags:
+- Observatoire
+- Dématerialisation
+- Qualité des services publics numériques
 chapeau-text: 'L’[Observatoire de la qualité des démarches en ligne](https://observatoire.numerique.gouv.fr/observatoire/)
   s’inscrit dans [TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/),
   le programme d’accélération de la transformation numérique du service public piloté
