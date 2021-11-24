@@ -71,5 +71,5 @@ Tous les « groupes projets » sont ouverts aux agents ou élus de collectivité
 <br>
 <br>
 
-<div class="lien-important"><p><a href="/services/tnt/outils/#contenu">Découvrez les premiers livrables de ces groupes projets et outils produits</a></p>
+<div class="lien-important"><p><a href="/services/tnt/outils/#contenu">Découvrez les premiers livrables des groupes projets et outils produits</a></p>
 
