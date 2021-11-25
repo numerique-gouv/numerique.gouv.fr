@@ -2,6 +2,10 @@
 title: 'Journée mondiale du climat : l''impact des bonnes pratiques numériques écoresponsables
   au sein des organisations'
 date: 2021-11-25 12:45:00 +01:00
+categories:
+- Évènement
+tags:
+- Évènement
 chapeau-text: À l’occasion de la journée mondiale du climat, la mission interministérielle
   Numérique écoresponsable vous propose un moment d’échange suite à la publication
   de « [L'impact des bonnes pratiques numériques écoresponsables au sein des organisations](https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/)
@@ -24,7 +28,7 @@ Le numérique s’est imposé massivement dans toutes nos activités quotidienne
 
 Quelles actions au travail ont le plus d’impact pour réduire les effets négatifs du numérique ? Sensibiliser les individus en promouvant les éco-gestes est une première étape. Cependant, quel est l’impact réel de ces éco-gestes individuels dans un cadre professionnel ? Quelles sont les bonnes pratiques à mettre en œuvre à l’échelle de l’organisation ? Comment prioriser les bonnes pratiques ?
 
-Nous tentons de répondre à ces questions, dans le cadre de la mission interministérielle numérique écoresponsable, avec le Ministère de la Transition écologique, la Direction interministérielle du numérique et l’ADEME, accompagnés par MIR, Maison de l’Informatique Responsable, à travers une série d’infographies où nous avons exploré quelques usages courants et quelques bonnes pratiques, ainsi que les sources bibliographiques et les hypothèses qui nous ont permis de les quantifier.
+Nous tentons de répondre à ces questions, dans le cadre de la mission interministérielle numérique écoresponsable, avec le Ministère de la Transition écologique, la Direction interministérielle du numérique et l’ADEME, accompagnés par la Maison de l’Informatique Responsable (MIR), à travers une série d’infographies où nous avons exploré quelques usages courants et quelques bonnes pratiques, ainsi que les sources bibliographiques et les hypothèses qui nous ont permis de les quantifier.
 
 **Programme :**
 * La mission interministérielle Numérique écoresponsable
