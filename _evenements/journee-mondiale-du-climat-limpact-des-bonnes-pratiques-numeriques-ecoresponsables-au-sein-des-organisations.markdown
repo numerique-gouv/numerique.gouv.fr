@@ -3,9 +3,10 @@ title: 'Journée mondiale du climat : l''impact des bonnes pratiques numériques
   au sein des organisations'
 date: 2021-11-25 12:45:00 +01:00
 categories:
-- Évènement
+- Webinaire
 tags:
-- Évènement
+- Numérique écoresponsable
+- TECH.GOUV
 chapeau-text: À l’occasion de la journée mondiale du climat, la mission interministérielle
   Numérique écoresponsable, copilotée par la direction interministérielle du numérique
   et le ministère de la Transition écologique, vous invite à un moment d’échange suite
