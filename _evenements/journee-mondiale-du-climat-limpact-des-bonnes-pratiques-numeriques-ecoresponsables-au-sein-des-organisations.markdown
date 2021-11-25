@@ -14,7 +14,6 @@ chapeau-text: À l’occasion de la journée mondiale du climat, la mission inte
 une-ou-diaporama:
 - image: "/uploads/JourneeClimat.png"
 event_start_date: 2021-12-08 09:00:00 +01:00
-event_end_date: 2021-12-08 10:00:00 +01:00
 afficher_la_carte: false
 acces:
 - lien: 
