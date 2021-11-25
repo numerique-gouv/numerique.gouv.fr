@@ -7,9 +7,11 @@ categories:
 tags:
 - Évènement
 chapeau-text: À l’occasion de la journée mondiale du climat, la mission interministérielle
-  Numérique écoresponsable vous propose un moment d’échange suite à la publication
-  de « [L'impact des bonnes pratiques numériques écoresponsables au sein des organisations](https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/)
-  », une proposition de quantification et de priorisation des bonnes pratiques numériques
+  Numérique écoresponsable, copilotée par la direction interministérielle du numérique
+  et le ministère de la Transition écologique, vous invite à un moment d’échange suite
+  à la publication de « [L'impact des bonnes pratiques numériques écoresponsables
+  au sein des organisations (https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/)
+  » qui propose une quantification et une priorisation des bonnes pratiques numériques
   au travail.
 une-ou-diaporama:
 - image: "/uploads/JourneeClimat.png"
