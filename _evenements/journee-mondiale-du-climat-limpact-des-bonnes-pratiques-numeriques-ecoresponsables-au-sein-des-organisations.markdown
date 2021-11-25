@@ -35,7 +35,7 @@ Nous tentons de répondre à ces questions, dans le cadre de la mission intermin
 
 **Programme :**
 * La mission interministérielle Numérique écoresponsable
-* La publication « L'impact des bonnes pratiques numériques écoresponsables au sein des organisations »
+* La publication [« L'impact des bonnes pratiques numériques écoresponsables au sein des organisations »](https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/)
 * Questions
 
 **Intervenants :**
