@@ -19,6 +19,9 @@ afficher_la_carte: false
 acces:
 - lien: 
 champs_informations:
+- intitule: Webinaire
+  contenu: Rejoignez-le ici
+  lien: https://webinaire.numerique.gouv.fr/meeting/signin/2825/creator/10/hash/442dde94317f38624e4920ad9c945437fbdbf76c
 - intitule: Plus d'infos
   contenu: L'impact des bonnes pratiques numériques écoresponsables au sein des organisations
   lien: https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/
