@@ -7,6 +7,8 @@ chapeau-text: À l’occasion de la journée mondiale du climat, la mission inte
   de « [L'impact des bonnes pratiques numériques écoresponsables au sein des organisations](https://ecoresponsable.numerique.gouv.fr/publications/impact-bonnes-pratiques/)
   », une proposition de quantification et de priorisation des bonnes pratiques numériques
   au travail.
+une-ou-diaporama:
+- image: "/uploads/impact-bonnes-pratiques.png"
 event_start_date: 2021-12-08 09:00:00 +01:00
 event_end_date: 2021-12-08 10:00:00 +01:00
 lieu: Webinaire
