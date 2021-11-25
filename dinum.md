@@ -100,7 +100,6 @@ function myFunction(id) {
 
 <li><b>Département Performance des services numériques (PSN)&nbsp;:</b> Florent Tournois.
   <ul>
-    <li><b>Pôle Opération, Production et Soutien</b></li>
     <li><b>Pôle Conseil et maîtrise des risques&nbsp;:</b> Virginie Rozière</li>
     <li><b>Pôle Produits numériques partagés&nbsp;:</b> Jean-Louis Barthelémy</li>
     <li><b>Pôle Architecture et sécurité&nbsp;:</b> Mohsen Souissi</li>
