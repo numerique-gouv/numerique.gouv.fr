@@ -33,9 +33,9 @@ Quelles actions au travail ont le plus d’impact pour réduire les effets néga
 Nous tentons de répondre à ces questions, dans le cadre de la mission interministérielle numérique écoresponsable, avec le Ministère de la Transition écologique, la Direction interministérielle du numérique et l’Agence de l'environnement et de la maîtrise de l'énergie (ADEME), accompagnés par la Maison de l’Informatique Responsable (MIR), à travers une série d’infographies où nous avons exploré quelques usages courants et quelques bonnes pratiques, ainsi que les sources bibliographiques et les hypothèses qui nous ont permis de les quantifier.
 
 **Programme :**
-* La mission interministérielle Numérique écoresponsable
-* La publication [« L'impact des bonnes pratiques numériques écoresponsables au sein des organisations »](https://ecoresponsable.numerique.gouv.fr/docs/2021/impact-bonnes-pratiques-numeriques-ecoresponsables.pdf)
-* Questions
+* Présentation de la mission interministérielle Numérique écoresponsable
+* Présentation de la publication [« L'impact des bonnes pratiques numériques écoresponsables au sein des organisations »](https://ecoresponsable.numerique.gouv.fr/docs/2021/impact-bonnes-pratiques-numeriques-ecoresponsables.pdf)
+* Questions/Réponses
 
 **Intervenants :**
 * **Bela Loto**, MIR Conseil et Formation,
