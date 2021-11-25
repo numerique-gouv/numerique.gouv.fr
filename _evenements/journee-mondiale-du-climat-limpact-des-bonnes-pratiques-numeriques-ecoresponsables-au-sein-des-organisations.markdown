@@ -13,6 +13,9 @@ event_start_date: 2021-12-08 09:00:00 +01:00
 event_end_date: 2021-12-08 10:00:00 +01:00
 lieu: Webinaire
 adresse: https://webinaire.numerique.gouv.fr/meeting/signin/2825/creator/10/hash/442dde94317f38624e4920ad9c945437fbdbf76c
+afficher_la_carte: false
+acces:
+- lien: https://webinaire.numerique.gouv.fr/meeting/signin/2825/creator/10/hash/442dde94317f38624e4920ad9c945437fbdbf76c
 champs_informations:
 - intitule: Plus d'infos
   contenu: L'impact des bonnes pratiques numériques écoresponsables au sein des organisations
