@@ -31,7 +31,7 @@ Le numérique s’est imposé massivement dans toutes nos activités quotidienne
 
 Quelles actions au travail ont le plus d’impact pour réduire les effets négatifs du numérique ? Sensibiliser les individus en promouvant les éco-gestes est une première étape. Cependant, quel est l’impact réel de ces éco-gestes individuels dans un cadre professionnel ? Quelles sont les bonnes pratiques à mettre en œuvre à l’échelle de l’organisation ? Comment prioriser les bonnes pratiques ?
 
-Nous tentons de répondre à ces questions, dans le cadre de la mission interministérielle numérique écoresponsable, avec le Ministère de la Transition écologique, la Direction interministérielle du numérique et l’ADEME, accompagnés par la Maison de l’Informatique Responsable (MIR), à travers une série d’infographies où nous avons exploré quelques usages courants et quelques bonnes pratiques, ainsi que les sources bibliographiques et les hypothèses qui nous ont permis de les quantifier.
+Nous tentons de répondre à ces questions, dans le cadre de la mission interministérielle numérique écoresponsable, avec le Ministère de la Transition écologique, la Direction interministérielle du numérique et l’Agence de l'environnement et de la maîtrise de l'énergie (ADEME), accompagnés par la Maison de l’Informatique Responsable (MIR), à travers une série d’infographies où nous avons exploré quelques usages courants et quelques bonnes pratiques, ainsi que les sources bibliographiques et les hypothèses qui nous ont permis de les quantifier.
 
 **Programme :**
 * La mission interministérielle Numérique écoresponsable
