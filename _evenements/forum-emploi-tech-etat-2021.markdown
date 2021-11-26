@@ -42,7 +42,7 @@ champs_informations:
   lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
 ---
 
-## Plus de 400 postes à pourvoir cette année
+## Encore plus de 300 postes à pourvoir cette année
 
 Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
 
@@ -174,7 +174,7 @@ href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="butto
 <br>
 <h3 id="forum-paris">Le Forum à Paris le 16 décembre 2021 à Paris</h3>
 
-Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**, issues de la fonction publique d’État et de collectivités territoriales, proposant plus de 400 postes à pourvoir en région et en Île-de-France.
+Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**, issues de la fonction publique d’État et de collectivités territoriales, proposant plus de 300 postes à pourvoir en région et en Île-de-France.
 
 * Des **espaces d’échanges** seront mis en place pour prolonger en toute confidentialité votre discussion avec un recruteur.
 
