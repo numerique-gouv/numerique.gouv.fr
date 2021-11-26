@@ -42,7 +42,7 @@ champs_informations:
   lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
 ---
 
-## Encore plus de 300 postes à pourvoir cette année
+## Plus de 400 postes à pourvoir
 
 Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
 
