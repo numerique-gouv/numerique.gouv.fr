@@ -130,10 +130,10 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à
 * **Développement en mode produits et innovations managériales**
 <br>Jeudi 2 décembre, 18h-18h30 
 
-#### **Des conférences avec les recruteurs**
+#### **Des présentations des recruteurs**
 ***Du 3 au 15 décembre***
 
-Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune.
+Quelques-unes des administrations qui recrutent se présentent, sous la forme de webconférences, en 30 minutes chacune.
 
 * **Auditeur des systèmes d’information à la CNIL : la sécurité des données, enjeu clé du RGPD** 
 <br>Vendredi 3 décembre, 17h00-17h30
@@ -165,7 +165,7 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
 Pour participer à ces présentations des recruteurs : **[créez votre compte sur la plateforme dédiée au forum en ligne](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)**, rendez-vous dans l'onglet Conférences et inscrivez-vous à celles qui vous intéressent ! Vous pouvez vous inscrire jusqu'au jour J de la présentation.
 <br>
 
-#### Des rendez-vous avec les recruteurs
+#### **Des rendez-vous avec les recruteurs**
 Notre plateforme en ligne vous permet de découvrir les administrations qui recrutent ainsi que toutes les opportunités qu'elles proposent actuellement, dans le cadre du Forum.
 
 L'un des postes vous intéresse ? Vous voulez en savoir plus ? Prenez rendez-vous avec le recruteur, directement depuis la plateforme, pour un échange personnel voire un entretien avec lui, par téléphone ou en visio ! 
