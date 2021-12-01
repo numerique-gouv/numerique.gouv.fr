@@ -12,7 +12,7 @@ layout: cloud
 
 Dans le cadre du volet numérique du plan de relance, jusqu’à 75% de votre projet de migration vers le Cloud peut être financé à travers le guichet dédié [« Migrer vos applications vers un Cloud de confiance »](https://france-relance.transformation.gouv.fr/d25b-migration-cloud-au-centre-itn9) (ITN9).
 
-Ce dispositif a pour objectif d’aider les administrations de l’État (centrales et déconcentrées) et les opérateurs de l’État à lancer leurs projets de bascule d’applications existantes vers des infrastructures Cloud de confiance ([cloud interne interministériel](https://www.numerique.gouv.fr/services/cloud/cloud-interne/#contenu) ou [cloud commercial de confiance](https://www.numerique.gouv.fr/services/cloud/cloud-commercial/#contenu) qualifiés SecNumCloud et immune au droit extra-communautaire), avec mise en service avant fin 2022. 
+Ce dispositif a pour objectif d’aider les administrations de l’État centrales et opérateurs de l’État à lancer leurs projets de bascule d’applications existantes vers des infrastructures Cloud de confiance ([cloud interne interministériel](https://www.numerique.gouv.fr/services/cloud/cloud-interne/#contenu) ou [cloud commercial de confiance](https://www.numerique.gouv.fr/services/cloud/cloud-commercial/#contenu) qualifiés SecNumCloud et immune au droit extra-communautaire), avec mise en service avant fin 2022. 
 
 **Ce guichet peut être sollicité pour trois types d’opérations :**
 <br>
@@ -21,5 +21,5 @@ Ce dispositif a pour objectif d’aider les administrations de l’État (centra
 * La **migration d’applications existantes vers une plateforme d’hébergement** parmi les offres de cloud interne interministériel ou de cloud commercial de confiance (exemple : applications actuellement hébergées sur les infrastructures conventionnelles de l’administration) ;
 <br>
 * L’élargissement, la montée en qualité ou la montée en performance des offres de Cloud interne interministériel, **dès lors qu’elles s’inscrivent dans le cadre d’au moins un projet client bien identifié porté par un ministère** autre que celui qui porte l’offre d’hébergement Cloud. 
-
+<br>
 <div align="center"><a href="https://france-relance.transformation.gouv.fr/d25b-migration-cloud-au-centre-itn9" class="button"><b>Demandez un financement France Relance</b></a></div>
