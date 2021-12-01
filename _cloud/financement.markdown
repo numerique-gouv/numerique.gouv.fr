@@ -1,12 +1,14 @@
 ---
 title: France Relance au service du Cloud
 date: 2021-11-05 11:03:00 +01:00
+permalink: "/services/cloud/financement/"
 published: false
 menu:
   title: Financement
   weight: 80
 une:
   image: "/uploads/bandeau-site-1024x300.png"
+layout: cloud
 ---
 
 Dans le cadre du volet numérique du plan de relance, jusqu’à 75% de votre projet de migration vers le Cloud peut être financé à travers le guichet dédié [« Migrer vos applications vers un Cloud de confiance »](https://france-relance.transformation.gouv.fr/d25b-migration-cloud-au-centre-itn9) (ITN9).
