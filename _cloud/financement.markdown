@@ -6,7 +6,7 @@ menu:
   title: Financement
   weight: 90
 une:
-  image: "/uploads/bandeau-site-1024x300.png"
+  image: "/uploads/cloud_page_fille.png"
 layout: cloud
 ---
 
