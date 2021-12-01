@@ -162,7 +162,14 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
 * **Le programme Entrepreneurs d’intérêt général (EIG) : la transformation numérique au cœur des administrations**
 <br>Mercredi 15 décembre, 16h00-16h30
 
-Pour faire connaissance avec les recruteurs, rien de plus simple : **jusqu'au 15 décembre**, **[inscrivez-vous](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)**, et découvrez en quelques clics les conférences des administrations qui recrutent.
+Pour participer à ces présentations des recruteurs : **[créez votre compte sur la plateforme dédiée au forum en ligne](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)**, rendez-vous dans l'onglet Conférences et inscrivez-vous à celles qui vous intéressent !
+<br>
+
+#### Des rendez-vous avec les recruteurs
+Notre plateforme en ligne vous permet de découvrir les administrations qui recrutent ainsi que toutes les opportunités qu'elles proposent actuellement, dans le cadre du Forum.
+
+L'un des postes vous intéresse ? Vous voulez en savoir plus ? Prenez rendez-vous avec le recruteur, directement depuis la plateforme, pour un échange personnel voire un entretien avec lui, par téléphone ou en visio ! 
+Attention, vous avez jusqu'au 2 décembre uniquement pour prendre rendez-vous.
 
 <div align="center">
 <a 
