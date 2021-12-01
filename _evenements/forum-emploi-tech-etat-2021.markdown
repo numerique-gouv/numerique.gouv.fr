@@ -156,7 +156,7 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
 * **L'agence de mutualisation des universités et établissements (AMUE) : présentation, projets et opportunités**
 <br>Lundi 13 décembre, 17h30-18h00
 
-* **La sous-direction des Technologies de l'Intérieur: l'informatique de tous les jours et la réponse opérationnelle**
+* **La sous-direction des Technologies de l'Intérieur : l'informatique de tous les jours et la réponse opérationnelle**
 <br>Mardi 14 décembre, 17h30-18h00
 
 * **Le programme Entrepreneurs d’intérêt général (EIG) : la transformation numérique au cœur des administrations**
