@@ -40,4 +40,4 @@ Cette liste s’enrichira dans les prochains mois, en s’appuyant sur les deman
 
 **L’État invite par ailleurs les collectivités territoriales à participer à ce projet** et à proposer dans leurs démarches en ligne le recours à Mon FranceConnect. Les premières à le faire seront les villes de Créteil, Issy-les-Moulineaux, Saint-Ouen et Evry-Courcouronnes.
 
-*L’expérimentation de **« Mon FranceConnect »** est encadrée par le Décret n° 2021-1538 du 29 novembre 2021 relatif à l'expérimentation du téléservice dénommé « Mon FranceConnect », disponible sur Légifrance.*
+*L’expérimentation de « Mon FranceConnect » est encadrée par le Décret n° 2021-1538 du 29 novembre 2021 relatif à l'expérimentation du téléservice dénommé « Mon FranceConnect », disponible sur Légifrance.*
