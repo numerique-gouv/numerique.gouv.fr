@@ -2,11 +2,11 @@
 title: 'Lancement de l’expérimentation de Mon FranceConnect : l’État accélère la simplification
   des démarches administratives'
 date: 2021-12-01 09:36:00 +01:00
-chapeau-text: La ministre de la Transformation et de la Fonction publiques lance aujourd’hui
-  le service en ligne [Mon FranceConnect](https://mon.franceconnect.gouv.fr/), qui
-  permet aux citoyens de disposer facilement de justificatifs administratifs à jour
-  pour réaliser leurs démarches, de consulter leur situation auprès des administrations,
-  et de rectifier leurs données si nécessaire.
+chapeau-text: "**La ministre de la Transformation et de la Fonction publiques lance
+  aujourd’hui le service en ligne [Mon FranceConnect](https://mon.franceconnect.gouv.fr/),
+  qui permet aux citoyens de disposer facilement de justificatifs administratifs à
+  jour pour réaliser leurs démarches, de consulter leur situation auprès des administrations,
+  et de rectifier leurs données si nécessaire.**"
 contact-presse:
   name: Floriane Beaudron
   tel:
