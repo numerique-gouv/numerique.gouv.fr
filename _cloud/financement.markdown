@@ -2,10 +2,9 @@
 title: France Relance au service du Cloud
 date: 2021-11-05 11:03:00 +01:00
 permalink: "/services/cloud/financement/"
-published: false
 menu:
   title: Financement
-  weight: 80
+  weight: 90
 une:
   image: "/uploads/bandeau-site-1024x300.png"
 layout: cloud
