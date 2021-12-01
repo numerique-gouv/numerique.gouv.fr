@@ -130,7 +130,7 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à
 * **Développement en mode produits et innovations managériales**
 <br>Jeudi 2 décembre, 18h-18h30 
 
-#### **Des présentations de recruteurs**
+#### **Des conférences avec les recruteurs**
 ***Du 3 au 15 décembre***
 
 Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 minutes chacune.
@@ -156,13 +156,13 @@ Quelques-unes des administrations qui recrutent se présentent, en visio, en 30 
 * **L'agence de mutualisation des universités et établissements (AMUE) : présentation, projets et opportunités**
 <br>Lundi 13 décembre, 17h30-18h00
 
-* **La sous-direction des Technologies de l'Intérieur : l'informatique de tous les jours et la réponse opérationnelle**
+* **Sous-direction des technologies de la préfecture de Police : informatique et réponse opérationnelle de Paris : l'informatique de tous les jours et la réponse opérationnelle**
 <br>Mardi 14 décembre, 17h30-18h00
 
 * **Le programme Entrepreneurs d’intérêt général (EIG) : la transformation numérique au cœur des administrations**
 <br>Mercredi 15 décembre, 16h00-16h30
 
-Pour participer au Forum en ligne, rien de plus simple : **jusqu'au 2 décembre à 14h**, **[inscrivez-vous](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)**, découvrez les différentes offres et prenez rendez-vous en quelques clics avec les recruteurs.
+Pour vous inscrire aux conférences recruteurs, rien de plus simple : **jusqu'au 15 décembre**, **[inscrivez-vous](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)**, découvrez en quelques clics les administrations recruteuses.
 
 <div align="center">
 <a 
