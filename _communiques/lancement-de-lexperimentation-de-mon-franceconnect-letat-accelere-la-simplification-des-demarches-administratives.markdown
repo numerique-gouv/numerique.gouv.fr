@@ -11,6 +11,8 @@ chapeau-text: "**La ministre de la Transformation et de la Fonction publiques la
   qui permet aux citoyens de disposer facilement de justificatifs administratifs à
   jour pour réaliser leurs démarches, de consulter leur situation auprès des administrations,
   et de rectifier leurs données si nécessaire.**"
+une-ou-diaporama:
+- image: "/uploads/2021_12_01_800x430_Mon-FC.png"
 contact-presse:
   name: Floriane Beaudron
   tel:
