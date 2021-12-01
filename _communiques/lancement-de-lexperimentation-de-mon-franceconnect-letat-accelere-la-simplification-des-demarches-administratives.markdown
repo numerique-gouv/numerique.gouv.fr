@@ -2,6 +2,10 @@
 title: 'Lancement de l’expérimentation de Mon FranceConnect : l’État accélère la simplification
   des démarches administratives'
 date: 2021-12-01 09:36:00 +01:00
+categories:
+- Communiqué de presse
+tags:
+- MonFranceConnect
 chapeau-text: "**La ministre de la Transformation et de la Fonction publiques lance
   aujourd’hui le service en ligne [Mon FranceConnect](https://mon.franceconnect.gouv.fr/),
   qui permet aux citoyens de disposer facilement de justificatifs administratifs à
