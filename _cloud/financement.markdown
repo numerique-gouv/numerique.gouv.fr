@@ -22,4 +22,4 @@ Ce dispositif a pour objectif d’aider les administrations de l’État (centra
 <br>
 * L’élargissement, la montée en qualité ou la montée en performance des offres de Cloud interne interministériel, **dès lors qu’elles s’inscrivent dans le cadre d’au moins un projet client bien identifié porté par un ministère** autre que celui qui porte l’offre d’hébergement Cloud. 
 
-<div align="center">[Demandez un financement France Relance](https://france-relance.transformation.gouv.fr/d25b-migration-cloud-au-centre-itn9)</div>
+<div align="center">[Demandez un financement France Relance]<a href=https://france-relance.transformation.gouv.fr/d25b-migration-cloud-au-centre-itn9</a></div>
