@@ -33,3 +33,11 @@ Il est ingénieur en chef des Mines, diplômé de l’École Polytechnique et de
 Il démarre sa carrière au sein de l’État et prend en charge la transformation numérique des Douanes avant de diriger les systèmes d’information du ministère des Affaires étrangères.
 
 Entrepreneur à partir de 2007, il fonde Adminext, cabinet de conseil en stratégie numérique, et 6Tzen, éditeur logiciel de dématérialisation du service public. Il crée Workibox en 2017 pour simplifier la vie administrative et la gestion des TPE et PME. 
+
+Biography
+
+Nadi Bou Hanna is the Director of the French Interministerial Digital Directorate (DINUM). 
+
+He began his career within the French administration, where he was in charge of the digital transformation of Customs, before becoming Head of Information Systems of the Ministry of Foreign Affairs. He became an entrepreneur in 2007 and founded “Adminext” (a digital strategy consulting firm) and “6Tzen” (a digital public service software publisher). In 2017, he created “Workibox” to simplify the administrative life and management of very small businesses and small and medium enterprises (SMEs).  
+
+He is a chief engineer from the “École des Mines”, as well as an “École Polytechnique” and “Télécom Paris” graduate.
