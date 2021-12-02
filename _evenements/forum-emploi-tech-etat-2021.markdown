@@ -156,7 +156,7 @@ Quelques-unes des administrations qui recrutent se présentent, sous la forme de
 * **L'agence de mutualisation des universités et établissements (AMUE) : présentation, projets et opportunités**
 <br>Lundi 13 décembre, 17h30-18h00
 
-* **Sous-direction des technologies de la préfecture de Police : informatique et réponse opérationnelle de Paris : l'informatique de tous les jours et la réponse opérationnelle**
+* **Sous-direction des technologies de la préfecture de Police : informatique et réponse opérationnelle**
 <br>Mardi 14 décembre, 17h30-18h00
 
 * **Le programme Entrepreneurs d’intérêt général (EIG) : la transformation numérique au cœur des administrations**
