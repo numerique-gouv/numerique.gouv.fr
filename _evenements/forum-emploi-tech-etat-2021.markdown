@@ -127,7 +127,7 @@ Explorez la culture tech de l’État, au gré de conférences en ligne de 30 à
 * **Datascience et open data : au cœur de la transformation numérique de l’État**
 <br>Jeudi 2 décembre, 17h30-18h
 
-* **Développement en mode produits et innovations managériales**
+* **La transformation publique avec les Startups d'Etat et la culture produit**
 <br>Jeudi 2 décembre, 18h-18h30 
 
 #### **Des présentations des recruteurs**
