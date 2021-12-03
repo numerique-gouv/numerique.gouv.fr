@@ -40,7 +40,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Développeur full-stack API Entreprise H/F](https://place-emploi-public.gouv.fr/offre-emploi/developpeur-full-stack-api-entreprise-hf-reference-2021-700472/ "Ingénieur-e sécurité réseau (Développeur full-stack API Entreprise H/F - Lien externe")**
-<br>Cadre/Catégorie A - Ille et Vilaine (35), France
+<br>Cadre/Catégorie A
 <br>
 
 * **[Data scientist senior pour le Lab IA H/F](https://place-emploi-public.gouv.fr/offre-emploi/data-scientist-senior-pour-le-lab-ia-hf-reference-2021-732157/ "Data scientist senior pour le Lab IA H/F - Lien externe")**
