@@ -27,11 +27,19 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Architecte DevOps H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-devops-hf-reference-2021-699666/ "Architecte DevOps H/F - Lien externe")**
+* **[Chef/Cheffe de projet « Dites-le-nous une fois adresse » H/F](https://place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet--dites-le-nous-une-fois-adresse--hf-reference-2021-765176/ "Chef/Cheffe de projet « Dites-le-nous une fois adresse » H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat-hf-reference-2021-732177/ "Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) H/F - Lien externe")**
+* **[Responsable de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-produits-numeriques-cdd-3-ans-renouvelable-une-fois-hf-reference-2021-765146/ "Responsable de produits numériques H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé-e de mission « observatoire de la qualité des démarches en ligne » H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission--observatoire-de-la-qualite-des-demarches-en-ligne--hf-reference-2021-765161/ "Chargé-e de mission « observatoire de la qualité des démarches en ligne » H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Développeur full-stack API Entreprise H/F](https://place-emploi-public.gouv.fr/offre-emploi/developpeur-full-stack-api-entreprise-hf-reference-2021-700472/ "Ingénieur-e sécurité réseau (Développeur full-stack API Entreprise H/F - Lien externe")**
 <br>Cadre/Catégorie A - Ille et Vilaine (35), France
 <br>
 
@@ -39,11 +47,11 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Architecte technique Résilience RIE – Boucle optique H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-technique-resilience-rie--boucle-optique-hf-reference-2021-728069/ "Architecte technique Résilience RIE – Boucle optique H/F - Lien externe")**
+* **[Directeur/directrice de projet-Sécurisation et conseil sur les grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-et-conseil-sur-les-grands-projets-si-de-l-tat--cdd-3anshf-reference-2021-673191/"Directeur/directrice de projet-Sécurisation et conseil sur les grands projets SI de l'État H/F - Lien externe")**
 <br>Cadre/Catégorie A - Lyon (69), France
 <br>
 
-* **[Intrapreneur/Intrapreneuse en charge de la messagerie instantanée de l'État - Tchap H/F](https://place-emploi-public.gouv.fr/offre-emploi/intrapreneurintrapreneuse-en-charge-de-la-messagerie-instantanee-de-l-tat---tchap-hf-reference-2021-723293/ "Intrapreneur/Intrapreneuse en charge de la messagerie instantanée de l'État - Tchap H/F - Lien externe")**
+* **[Chargé-e de mission « open data » H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission--open-data--hf-reference-2021-748284/"Chargé-e de mission « open data » H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
