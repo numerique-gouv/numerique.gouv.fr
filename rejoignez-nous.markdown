@@ -51,7 +51,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A - Lyon (69), France
 <br>
 
-* **[Chargé-e de mission « open data » H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission--open-data--hf-reference-2021-748284/"Chargé-e de mission « open data » H/F - Lien externe")**
+* **[Chargé-e de mission « open data » H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission--open-data--hf-reference-2021-748284/ "Chargé-e de mission « open data » H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
