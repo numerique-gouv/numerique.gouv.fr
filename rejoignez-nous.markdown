@@ -47,7 +47,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Directeur/directrice de projet-Sécurisation et conseil sur les grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-et-conseil-sur-les-grands-projets-si-de-l-tat--cdd-3anshf-reference-2021-673191/ "Directeur/directrice de projet-Sécurisation et conseil sur les grands projets SI de l'État H/F - Lien externe")**
+* **[Directeur/directrice de projet - Sécurisation et conseil sur les grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-et-conseil-sur-les-grands-projets-si-de-l-tat--cdd-3anshf-reference-2021-673191/ "Directeur/directrice de projet-Sécurisation et conseil sur les grands projets SI de l'État H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
