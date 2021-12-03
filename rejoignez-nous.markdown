@@ -32,7 +32,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Responsable de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-produits-numeriques-cdd-3-ans-renouvelable-une-fois-hf-reference-2021-765146/ "Responsable de produits numériques H/F - Lien externe")**
-<br>Cadre/Catégorie A
+<br>Cadre/Catégorie A - Ille et Vilaine (35), France
 <br>
 
 * **[Chargé-e de mission « observatoire de la qualité des démarches en ligne » H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission--observatoire-de-la-qualite-des-demarches-en-ligne--hf-reference-2021-765161/ "Chargé-e de mission « observatoire de la qualité des démarches en ligne » H/F - Lien externe")**
