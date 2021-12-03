@@ -51,6 +51,8 @@ outils-pour-les-agents:
 services-usagers:
   - link: franceconnect.gouv.fr
     url: https://franceconnect.gouv.fr
+  - link: mon.franceconnect.gouv.fr (bêta)
+    url: https://mon.franceconnect.gouv.fr
   - link: demarches-simplifiees.fr
     url: https://demarches-simplifiees.fr
   - link: observatoire.numerique.gouv.fr
