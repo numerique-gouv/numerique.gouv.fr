@@ -48,7 +48,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Directeur/directrice de projet-Sécurisation et conseil sur les grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-et-conseil-sur-les-grands-projets-si-de-l-tat--cdd-3anshf-reference-2021-673191/ "Directeur/directrice de projet-Sécurisation et conseil sur les grands projets SI de l'État H/F - Lien externe")**
-<br>Cadre/Catégorie A - Lyon (69), France
+<br>Cadre/Catégorie A
 <br>
 
 * **[Chargé-e de mission « open data » H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission--open-data--hf-reference-2021-748284/ "Chargé-e de mission « open data » H/F - Lien externe")**
