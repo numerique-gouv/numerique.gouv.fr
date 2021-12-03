@@ -63,16 +63,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <p><strong> Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) </strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/coordinateur-sectoriel-telecoms-hf-reference-2021-736102/" title="Coordinateur sectoriel télécoms H/F - Lien externe">Coordinateur sectoriel télécoms H/F</a></strong><br>Cadre/Catégorie A</li></ul>
 
-<p><strong> Service d'Information du Gouvernement (SIG)  </strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-numerique--gouvernance-et-animation-reseau-hf-reference-2021-733250/" title="Chargé de mission numérique – gouvernance et animation réseau H/F - Lien externe">Chargé de mission numérique – gouvernance et animation réseau H/F</a></strong><br>Cadre/Catégorie A</li></ul> 
-
 <p><strong> Groupement interministériel de contrôle (GIC)    </strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-maitrise-d-ouvrage-en-systemes-d-information-et-en-projets-de-surete---gic-reference-2021-593962/" title="Chef de projet Maîtrise d'Ouvrage en systèmes d'information et en projets de sûreté - GIC - Lien externe">Chef de projet Maîtrise d'Ouvrage en systèmes d'information et en projets de sûreté - GIC - H/F</a></strong><br>Cadre/Catégorie A</li></ul> 
-
-<p><strong> Direction de l'Information Légale et Administrative (DILA) </strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-moe--atelier-de-construction-legistique--hf-reference-2021-730155/" title="Chef de projet MOE « Atelier de construction légistique » H/F - Lien externe">Chef de projet MOE « Atelier de construction légistique » H/F</a></strong><br>Cadre/Catégorie A</li></ul> 
-
-<p><strong> Division des systèmes d'information (DSI)   </strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-de-production-systeme-et-applicatif-hf-hf-reference-2021-721151/" title="Ingénieur de production système et applicatif H/F - Lien externe">Ingénieur de production système et applicatif H/F</a></strong><br>Cadre/Catégorie A</li></ul> 
 
 </div>
