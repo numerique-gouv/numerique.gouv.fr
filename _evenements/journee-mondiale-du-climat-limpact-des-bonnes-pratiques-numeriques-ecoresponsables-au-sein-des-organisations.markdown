@@ -25,7 +25,7 @@ champs_informations:
   contenu: De 9h à 10h
   lien: 
 - intitule: Webinaire
-  contenu: Connectez-vous ici le 8/12h à 9h
+  contenu: Connectez-vous ici le 8/12 à 9h
   lien: https://webinaire.numerique.gouv.fr/meeting/signin/2825/creator/10/hash/442dde94317f38624e4920ad9c945437fbdbf76c
 - intitule: Plus d'infos
   contenu: L'impact des bonnes pratiques numériques écoresponsables au sein des organisations
