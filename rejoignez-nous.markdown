@@ -27,6 +27,20 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+
+<div class="encadre noir"><h4>Talents du numérique : l’État recrute !</h4>
+<figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
+<br>Nous recherchons pour notre mission beta.gouv.fr 15 expert/es du #numérique pour former la nouvelle Brigade : au sein d'une équipe pluridisciplinaire, construisez les services publics numériques prioritaires de l’État !
+<br>15 profils recherchés :
+<ul><li>6 développeurs et développeuses senior, expérimenté/es et junior</li>
+<li>4 chargé/es de déploiement senior et junior</li>
+<li>3 coachs au profil d'entrepreneur/entrepreneuse du numérique et/ou affaires publiques</li>
+<li>1 chargé/e de communication</li>
+<li>1 UX designer</li></ul>
+<br>
+<br><a href="https://beta.gouv.fr/rejoindre-la-brigade">> En savoir plus sur la Brigade</a>
+<div class="lien-important"><a href="https://beta.gouv.fr/rejoindre-la-brigade/offres">Découvrez les offres et postulez jusqu'au 20 décembre 2021 inclus</div></div>
+
 * **[Chef/Cheffe de projet « Dites-le-nous une fois adresse » H/F](https://place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet--dites-le-nous-une-fois-adresse--hf-reference-2021-765176/ "Chef/Cheffe de projet « Dites-le-nous une fois adresse » H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
