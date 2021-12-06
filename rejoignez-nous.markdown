@@ -43,19 +43,19 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 <div class="encadre noir"><h4>Rejoignez la Brigade !</h4>
 <figure class='image-center' style='width: 70%;'><img src="/uploads/visuel-brigade-recrutement.png" alt=""/></figure>
-<br>Nous recherchons pour notre mission <a href="https://beta.gouv.fr" title="beta.gouv.fr - Lien externe">beta.gouv</a> <b>15 expert/es du numérique</b> pour former la nouvelle Brigade : au sein d'une équipe pluridisciplinaire, construisez les services publics numériques prioritaires de l’État !
-<br>15 profils recherchés :
+<p>Nous recherchons pour notre mission <a href="https://beta.gouv.fr" title="beta.gouv.fr - Lien externe">beta.gouv</a> <b>15 expert/es du numérique</b> pour former la nouvelle Brigade : au sein d'une équipe pluridisciplinaire, construisez les services publics numériques prioritaires de l’État !</p>
+<p><br><b>15 profils recherchés :</b>
 <ul><li>6 développeurs et développeuses senior, expérimenté/es et junior</li>
 <li>4 chargé/es de déploiement senior et junior</li>
 <li>3 coachs au profil d'entrepreneur/entrepreneuse du numérique et/ou affaires publiques</li>
 <li>1 chargé/e de communication</li>
-<li>1 UX designer</li></ul>
-<p>Conditions :
+<li>1 UX designer</li></ul></p>
+<p><b>Conditions :</b>
 <ul><li>CDD de 2 ans jusqu'au 31 décembre 2023
 <li>Salaire de 3 500 euros net pour des profils ayant moins de 5 ans d'expérience, 4 000 euros net entre 5 et 9 ans d'expérience, et sur dossier pour 10 ans et plus
 <li>Télétravail possible, travail sur site au choix dans nos locaux à Paris, Rennes ou Lyon</li></ul></p>
 <p><a href="https://beta.gouv.fr/rejoindre-la-brigade" title="En savoir plus sur la Brigade - Lien externe">> En savoir plus sur la Brigade et découvrir les offres</a><br></p>
-<div align="center"><p><a href="https://beta.gouv.fr/rejoindre-la-brigade/offres" class="button">Postulez</a></p>
+<br><div align="center"><p><a href="https://beta.gouv.fr/rejoindre-la-brigade/offres" class="button">Postulez</a></p>
 <p>Jusqu'au 20 décembre 2021 inclus</p></div></div>
 <br>
 <br>
