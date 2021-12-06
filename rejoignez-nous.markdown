@@ -39,7 +39,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <li>1 UX designer</li></ul>
 <br>
 <br><a href="https://beta.gouv.fr/rejoindre-la-brigade">> En savoir plus sur la Brigade</a>
-<div class="lien-important"><a href="https://beta.gouv.fr/rejoindre-la-brigade/offres">Découvrez les offres et postulez jusqu'au 20 décembre 2021 inclus</div></div>
+<div class="lien-important"><a href="https://beta.gouv.fr/rejoindre-la-brigade/offres">Découvrez les offres et postulez jusqu'au 20 décembre 2021 inclus</a></div></div>
 
 * **[Chef/Cheffe de projet « Dites-le-nous une fois adresse » H/F](https://place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet--dites-le-nous-une-fois-adresse--hf-reference-2021-765176/ "Chef/Cheffe de projet « Dites-le-nous une fois adresse » H/F - Lien externe")**
 <br>Cadre/Catégorie A
