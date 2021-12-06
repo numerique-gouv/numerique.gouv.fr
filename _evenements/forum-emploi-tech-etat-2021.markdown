@@ -86,7 +86,7 @@ Au programme :
 
 <div align="center">
 <a 
-href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="button"><b>S'inscrire au Forum en ligne</b></a>
+href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="button" title="S'inscrire au Forum en ligne - Lien externe"><b>S'inscrire au Forum en ligne</b></a>
 <br>Jusqu’au 2 décembre 2021
 </div>
 
