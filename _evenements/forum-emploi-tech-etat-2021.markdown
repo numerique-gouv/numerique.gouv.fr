@@ -74,7 +74,7 @@ Vous êtes étudiant ou **jeune diplômé d’une école du numérique** et curi
 > {: .margin-top-1 .text-center}
 {: .encadre role="presentation" }
 
-<h3 id="forum-en-ligne">Le Forum en ligne du 29 novembre au 15 décembre 2021 en ligne</h3>
+<h3 id="forum-en-ligne">Le Forum en ligne du 29 novembre au 15 décembre 2021</h3>
 
 Vous souhaitez participer à cet événement unique mais vous n’êtes pas à Paris le 16 décembre, vous souhaitez consulter les offres d’emploi dans toute la France, assister aux conférences et au jobdating ? Participez au Forum en ligne ! Créez votre profil sur[ notre plateforme en ligne ](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211)et déposez-y votre CV.
 
@@ -179,7 +179,7 @@ href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="butto
 <br>
 <br>
 <br>
-<h3 id="forum-paris">Le Forum à Paris le 16 décembre 2021 à Paris</h3>
+<h3 id="forum-paris">Le Forum à Paris le 16 décembre 2021</h3>
 
 Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**, issues de la fonction publique d’État et de collectivités territoriales, proposant plus de 400 postes à pourvoir en région et en Île-de-France.
 
@@ -190,7 +190,7 @@ Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**
 Comment participer au Forum à Paris ? **Jusqu'au 16 décembre inclus : [inscrivez-vous en ligne](https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db)** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
 
 <div align="center">
-<a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum à Paris</b></a>
+<a href="" class="button"><b>S'inscrire au Forum à Paris</b></a>
 <br>Jusqu’au 16 décembre 2021
 </div>
 
@@ -239,7 +239,7 @@ L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa rais
 Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.</li></ul>
 
 <div align="center">
-<a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum à Paris</b></a>
+<a href=""><b>S'inscrire au Forum à Paris</b></a>
 <br>Jusqu’au 16 décembre 2021
 </div>
 <br> 
