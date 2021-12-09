@@ -168,7 +168,7 @@ href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211" class="butto
 <br>
 <br>
 <br>
-<h3 id="forum-paris">Le Forum à Paris le 16 décembre 2021 à Paris</h3>
+<h3 id="forum-paris">Le Forum à Paris le 16 décembre 2021</h3>
 
 Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**, issues de la fonction publique d’État et de collectivités territoriales, proposant plus de 400 postes à pourvoir en région et en Île-de-France.
 
