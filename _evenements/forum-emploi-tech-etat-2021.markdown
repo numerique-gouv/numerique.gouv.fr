@@ -24,8 +24,19 @@ acces:
 - lien:
   - Key: 
 champs_informations:
+- intitule: Comment y aller ?
+  contenu: |-
+    M°6 Boissière – M°2 Victor-Hugo – M°9 Trocadéro
+
+    RER A  : Charles de Gaulle-Étoile
 - intitule: Horaires
-  contenu: 10h - 18h
+  contenu: 9h - 18h
+- intitule: Modalités
+  contenu: Entrée gratuite avec inscription obligatoire (QR Code à présenter à l’accueil).
+    Pass sanitaire et masque requis.
+- intitule: Forum à Paris
+  contenu: Inscription jusqu'au 16 décembre
+  lien: https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db
 - intitule: Forum en ligne
   contenu: Inscription jusqu'au 2 décembre
   lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
