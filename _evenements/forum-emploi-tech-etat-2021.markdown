@@ -25,18 +25,9 @@ acces:
   - Key: 
 champs_informations:
 - intitule: Comment y aller ?
-  contenu: |-
-    M°6 Boissière – M°2 Victor-Hugo – M°9 Trocadéro
-
-    RER A  : Charles de Gaulle-Étoile
+  contenu: 
 - intitule: Horaires
-  contenu: 9h - 18h
-- intitule: Modalités
-  contenu: Entrée gratuite avec inscription obligatoire (QR Code à présenter à l’accueil).
-    Pass sanitaire et masque requis.
-- intitule: Forum à Paris
-  contenu: Inscription jusqu'au 16 décembre
-  lien: https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db
+  contenu: 10h - 18h
 - intitule: Forum en ligne
   contenu: Inscription jusqu'au 2 décembre
   lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
@@ -190,7 +181,7 @@ Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**
 Comment participer au Forum à Paris ? **Jusqu'au 16 décembre inclus : [inscrivez-vous en ligne](https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db)** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
 
 <div align="center">
-<a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum à Paris</b></a>
+<a href="" class="button"><b>S'inscrire au Forum à Paris</b></a>
 <br>Jusqu’au 16 décembre 2021
 </div>
 
@@ -239,7 +230,7 @@ L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa rais
 Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.</li></ul>
 
 <div align="center">
-<a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire au Forum à Paris</b></a>
+<a href=""><b>S'inscrire au Forum à Paris</b></a>
 <br>Jusqu’au 16 décembre 2021
 </div>
 <br> 
