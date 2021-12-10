@@ -79,6 +79,46 @@ Elle assure ainsi la conception, la gestion et l’évolution des services essen
 
 Travailler à la DSI du Conseil d’État c’est faciliter l’accès au juge administratif pour les citoyens, avocats, associations et entreprises par des outils numériques rapides et sécurisés. C’est aussi améliorer les outils de travail numériques de plus de 4 000 personnes qui travaillent dans les juridictions administratives pour instruire et juger les recours en justice.
 
+Chiffres clés :
+* Budget annuel : 12 millions d’€
+* 60 agents
+* 6 000 postes de travail répartis sur 53 sites
+* 650 serveurs virtuels ou physiques
+
+
+<h4><b>Direction interministérielle du numérique (DINUM)</b></h4>
+À la DINUM, nous sommes près de 200 agents. Notre objectif ? Construire un service public performant et humain grâce au numérique. Pour cela, nous accompagnons les ministères dans leur transformation numérique, nous développons des services publics numériques simples et accessibles pour les citoyens (ex : FranceConnect) et des outils de travail plus performants pour les agents (ex : Tchap).
+
+Ses missions consistent notamment à : 
+* Moderniser le système d’information de l’État 
+* Accompagner les administrations dans l’usage des data sciences et de l’intelligence artificielle
+* Ouvrir les données publiques et les rendre accessibles à tous 
+* Améliorer la qualité et l'accessibilité des services publics numériques
+* Outiller les agents pour le travail à distance et collaboratif 
+
+Chiffres clés :
+* 40% de femmes
+* 60% d'hommes
+* 74% d’agents contractuels
+* 26% de fonctionnaires
+
+
+<h4><b>Ministère des Armées</b></h4>
+L’ambition numérique du ministère des Armées est de répondre à trois objectifs stratégiques majeurs :
+* Garantir l’efficacité opérationnelle et la maîtrise de l’information sur les théâtres d’opérations ;
+* Renforcer l’efficience des soutiens (humains, matériels, financiers…) et faciliter le quotidien des personnels ;
+* Améliorer la relation au citoyen et l’attractivité du ministère.
+
+C’est une transformation au service de tous pour renforcer la performance opérationnelle de nos armées, mais aussi pour faciliter le quotidien, partout et tout le temps. Concrètement, cela se traduit notamment par :
+* de nouveaux services et applications numériques développés à destination des agents et de leurs familles ;
+* des applications et processus métiers pour faciliter et simplifier le travail quotidien des agents ;
+* des démarches administratives dématérialisées pour les usagers du ministère.
+
+Chiffres clés :
+* Plus de 1 500 systèmes d’informations et de communication,
+* Un budget annuel de près de 2,5 milliards d’euros
+* Des technologies qui servent les administrations et les forces, en France comme à l’étranger
+
 
 <h4><b>Ministère de l’Europe et des Affaires étrangères</b></h4>
 La direction du numérique du ministère de l’Europe et des Affaires étrangères est chargée des systèmes d’information (conception, intégration, exploitation), de la sécurité des informations confidentielles, de la continuité des services en toutes circonstances, de l’environnement de travail bureautique et de communication, du développement de services aux utilisateurs partout dans le monde.
@@ -87,18 +127,28 @@ Sa raison d‘être est d’offrir un environnement numérique de travail fiable
 
 
 <h4><b>Ministère de l’Économie, des Finances et de la Relance</b></h4>
-La sous-direction de l’informatique (SDI) du ministère de l’Économie, des Finances et de la Relance est une entité numérique qui intervient au profit de 10 000 utilisateurs des directions et services des ministères économiques et financiers.  
-
+La sous-direction de l’informatique (SDI) du ministère de l’Économie, des Finances et de la Relance est une entité numérique qui intervient au profit de 10 000 utilisateurs des directions et services des ministères économiques et financiers. 
+ 
 Constituée de 220 agents, la SDI conçoit et met en œuvre la politique de développement des technologies de l'information, de l'informatique et du travail en réseau. Elle apporte également aux utilisateurs conseil et expertise pour l'analyse des besoins et la définition des solutions adaptées (organisationnelles et techniques).
+
+Chiffres clés :
+* 220 agents
+* 63% d'hommes et 37% de femmes
+* Budget : environ 30 millions d’euros
+* 2 salles informatiques, 1250 serveurs dont 700 virtuels/800 To, 400 informaticiens, 10 000 PC, 2 500 téléphones et + de 200 applications.
 
 
 <h4><b>Ministère de la Justice</b></h4>
-Le service du numérique (SNUM) du Ministère de la justice est un acteur incontournable dans l’évolution des méthodes de travail du Ministère dans un objectif de simplification et de dématérialisation des procédures judiciaires au bénéfice des acteurs de la Justice et des citoyens.
+Le service du numérique (SNUM) du ministère de la Justice est un acteur incontournable dans l’évolution des méthodes de travail du ministère dans un objectif de simplification et de dématérialisation des procédures judiciaires au bénéfice des acteurs de la Justice et des citoyens.
    
 Ses missions sont de :
 * Favoriser l’accessibilité à des services réactifs et adaptés en proposant des outils et une infrastructure adéquate dans un souci de sécurité, de fiabilité et de rapidité.
 * Accompagner les directions métiers dans l’évolution de leurs pratiques numériques, au service de la Justice, au quotidien.
 * Concevoir et livrer des produits de qualité et facile d’utilisation.
+
+Chiffres clés :
+* 880 millions d’euros de budget informatique pour le Ministère de la Justice entre 2018-2022, dont 530 Millions d’euros alloués au plan de transformation numérique.
+* 200 agents répartis dans 9 départements informatiques de télécommunications
 
 
 <h4><b>Université Paris 2 Panthéon-Assas</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
