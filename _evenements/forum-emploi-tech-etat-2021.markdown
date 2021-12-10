@@ -87,6 +87,19 @@ Connectez-vous simplement le jour J au lien qui sera très prochainement fourni 
 
 N’hésitez pas, on vous attend !
 
+Les recruteurs présents :
+* Agence de services et de paiements (ASP)
+* Conseil d’État
+* Direction interministérielle du numérique (DINUM)
+* Ministère des Armées
+* Ministère de l’Europe et des Affaires étrangères
+* Ministère de l’Économie, des Finances et de la Relance
+* Ministère de la Justice
+* Université Paris 2 Panthéon-Assas / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
+* Université de Paris – Paris Sciences & Lettres
+
+La liste continue de s'étoffer !
+
 
 #### **Ateliers** [COMPLET]
 
