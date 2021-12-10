@@ -13,9 +13,9 @@ chapeau-text: |-
 
   *Prévue initialement en présentiel à Paris, cette Journée spéciale du Forum de l'emploi tech de l’État est rebasculée en 100% virtuel en raison des conditions sanitaires, pour la santé et la sécurité de tous.*
 event_start_date: 2021-12-16 00:00:00 +01:00
-event_end_date: 2021-12-16 00:00:00 +01:00
 champs_informations:
-- intitule: 100% en ligne
+- intitule: 'Modalités '
+  contenu: 100% en ligne, accès libre et gratuit
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
