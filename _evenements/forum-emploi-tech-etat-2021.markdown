@@ -137,7 +137,7 @@ Inscriptions aux ateliers closes
 </div>
 <br>
 <br>
-<h3 id="forum-en-ligne">[Inscriptions closes] Le Forum en ligne du 29 novembre au 15 décembre 2021</h3>
+<h3 id="forum-en-ligne">Le Forum en ligne du 29 novembre au 15 décembre 2021 [Inscriptions closes]</h3>
 
 Vous souhaitez participer à cet événement unique, consulter les offres d’emploi dans toute la France, assister aux conférences et au jobdating ? Participez au Forum en ligne ! Créez votre profil sur [notre plateforme en ligne](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211) et déposez-y votre CV.
 
