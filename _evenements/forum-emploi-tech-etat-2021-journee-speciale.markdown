@@ -1,6 +1,16 @@
 ---
 title: Forum de l'emploi tech de l’État 2021 - Journée spéciale
 date: 2021-12-10 15:01:00 +01:00
+categories:
+- Forum emploi
+tags:
+- RH
+- Tech
+- Emploi
+event_start_date: 2021-12-16 00:00:00 +01:00
+event_end_date: 2021-12-16 00:00:00 +01:00
+champs_informations:
+- intitule: 100% en ligne
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
