@@ -43,9 +43,8 @@ Vous êtes étudiant ou **jeune diplômé d’une école du numérique** et curi
 > {: .text-center}
 >
 > #### **Créez le service public de demain et rencontrez les recruteurs et expert/es du numérique de l’État en ligne !**
->
 > {: .margin-top-1 .text-center}
-> {: .encadre role="presentation" }
+{: .encadre role="presentation" }
 
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3"> 
 <h2 class="text-center font-bold">Au menu</h2> 
