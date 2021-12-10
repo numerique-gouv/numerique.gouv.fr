@@ -159,7 +159,7 @@ L'Université Paris 2 Panthéon-Assas réunit plusieurs sites agréablement situ
 Dans cet environnement accueillant, à taille humaine, votre poste vous permettra de travailler à l'interface directe entre 18 000 étudiants et 1 000 personnels enseignants et administratifs.
 
 
-<h4><b>Université de Paris – Paris Sciences & Lettres</b></h4>
+<h4><b>Université de Paris</b>(ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
 
 Ancrée au cœur de la capitale, l’Université de Paris figure parmi les établissements français et internationaux les plus prestigieux grâce à sa recherche de très haut niveau, ses formations supérieures d’excellence, son soutien à l’innovation et sa participation active à la construction de l’espace européen de la recherche et de la formation.
 
@@ -204,7 +204,7 @@ La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'in
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
-<b>Université de Paris – Université Paris Sciences & Lettres</b>
+<b>Université de Paris</b>
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3219/creator/178/hash/551368ef3fdefacda170f8d38decc08a6923aef0" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 </div>
