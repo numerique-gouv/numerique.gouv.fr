@@ -36,6 +36,12 @@ La liste continue de s'étoffer !
 
 **Comment participer ?**
 **Accès libre, sans inscription.** 
+* Choisissez dans la liste ci-dessous le recruteur ou les recruteurs qui vous intéressent
+* Le 16 décembre, à partir de 9h et jusqu'à 18h, connectez-vous à son stand virtuel : cliquez sur le bouton "Accéder au stand virtuel", saisissez votre prénom, votre prénom et nom ou un pseudo, et rejoignez le webinaire.
+
+
+Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webinaire de l’État](https://webinaire.numerique.gouv.fr/faq).
+
 Connectez-vous simplement le jour J aux salons virtuels qui vous intéressent via les liens qui seront fournis sur cette page.
 
 <div class="wrapper">
