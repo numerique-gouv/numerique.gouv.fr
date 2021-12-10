@@ -7,39 +7,29 @@ tags:
 - Emploi
 - RH
 - Tech
-chapeau-text: 'La direction interministérielle du numérique (DINUM) organise la 5e
-  édition du Forum de l’emploi tech de l’État : en ligne du 29 novembre au 15 décembre
-  et une Journée spéciale le 16 décembre. L’occasion de faire se rencontrer recruteurs
-  du secteur public (ministères, collectivités territoriales…) et candidats professionnels
-  du numérique, issus du secteur public ou du privé. Le Forum sera rythmé par des
-  conférences, un jobdating, des ateliers et rencontres en ligne et en présentiel.
-  <br>**Les inscriptions sont ouvertes !**'
+chapeau-text: |-
+  La direction interministérielle du numérique (DINUM) organise la 5e édition du Forum de l’emploi tech de l’État : en ligne du 29 novembre au 15 décembre et une Journée spéciale le 16 décembre. L’occasion de faire se rencontrer recruteurs du secteur public (ministères, collectivités territoriales…) et candidat/es professionnel/les du numérique, issus du secteur public ou du privé. Le Forum sera rythmé par des conférences, un jobdating, des ateliers et des rencontres en ligne.
+
+  \*\*Important :\*\* en raison de l'évolution de la situation sanitaire, pour la santé et la sécurité de tous, la journée du 16 décembre, prévue initialement à Paris, est adaptée pour un format 100% en ligne. Nous aurons tout autant  de plaisir à vous recevoir !
 une-ou-diaporama:
 - image: "/uploads/1200x600_Visuel%20Agenda%20FETE-V2.png"
 event_start_date: 2021-11-29 09:00:00 +01:00
 event_end_date: 2021-12-16 18:00:00 +01:00
-lieu: La Grande Crypte
-adresse: 69 rue Boissière, 75016 PARIS
+lieu: 100% En ligne
+afficher_la_carte: false
 acces:
 - lien:
   - Key: 
 champs_informations:
-- intitule: Comment y aller ?
-  contenu: |-
-    M°6 Boissière – M°2 Victor-Hugo – M°9 Trocadéro
-
-    RER A  : Charles de Gaulle-Étoile
 - intitule: Horaires
   contenu: 9h - 18h
 - intitule: Modalités
-  contenu: Entrée gratuite avec inscription obligatoire (QR Code à présenter à l’accueil).
-    Pass sanitaire et masque requis.
-- intitule: Forum à Paris
-  contenu: Inscription jusqu'au 16 décembre
-  lien: https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db
-- intitule: Forum en ligne
-  contenu: Inscription jusqu'au 2 décembre
-  lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211
+  contenu: Gratuit, ouvert à toutes et tous, 100% en ligne
+- intitule: Journée spéciale du 16 décembre
+  contenu: Aucune inscription nécessaire, connectez-vous le jour J aux liens qui seront
+    prochainement disponibles sur cette page
+- intitule: Forum en ligne du 29 novembre au 15 décembre
+  contenu: Inscriptions closes
 ---
 
 ## Plus de 400 postes à pourvoir
