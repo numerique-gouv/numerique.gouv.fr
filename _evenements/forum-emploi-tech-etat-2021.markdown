@@ -71,20 +71,30 @@ Vous êtes étudiant ou **jeune diplômé d’une école du numérique** et curi
 
 <h3 id="forum-paris">Journée spéciale en ligne le jeudi 16 décembre 2021</h3>
 
-Il regroupera **plus de 30 services recruteurs dans plus de 25 administrations**, issues de la fonction publique d’État et de collectivités territoriales, proposant plus de 400 postes à pourvoir en région et en Île-de-France.
+Nouvelles circonstances, nouveau format ! Le Forum de l’emploi tech de l’État ss'adapte aux conditions sanitaires pour la santé et la sécurité de tous.
 
-* Des **espaces d’échanges** seront mis en place pour prolonger en toute confidentialité votre discussion avec un recruteur.
+La journée initialement prévue en présentiel à Paris passe ainsi en format 100% en ligne. 
 
-* Au cours de cette journée seront aussi proposés **des ateliers** de développement professionnel (sur inscription et le jour J selon les places disponibles).
+Au programme :
 
-Comment participer au Forum à Paris ? **Jusqu'au 16 décembre inclus : [inscrivez-vous en ligne](https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db)** et recevez votre QR code d’entrée. Le 16 décembre : émargez et partez à la rencontre des recruteurs.
+* Des **stands virtuels** pour rencontrer les recruteurs.
 
-<div align="center">
-<a href="" class="button"><b>S'inscrire au Forum à Paris</b></a>
-<br>Jusqu’au 16 décembre 2021
-</div>
+* **Des ateliers** de développement professionnel (sur inscription - COMPLET).
 
-<div align="center"><h4>Programme du Forum à Paris</h4></div>
+
+
+<div align="center"><h4>Programme de la Journée spéciale du 16 décembre, 100% en ligne</h4></div>
+
+#### **Stands virtuels**
+Retrouvez chacun de nos services employeurs sur son stand virtuel jeudi 16 décembre prochain, de 9h à 18h. 
+
+Plus de 10 recruteurs de l'État dans le domaine du numérique seront là, en visio, pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !
+
+**Accès libre, sans inscription.** 
+Connectez-vous simplement le jour J au lien qui sera très prochainement fourni sur cette page.
+
+N’hésitez pas, on vous attend !
+
 
 #### **Ateliers**
 
@@ -149,7 +159,7 @@ Au programme :
 <br>Inscriptions closes
 </div>
 
-<div align="center"><h4>Programme du Forum en ligne</h4></div>
+<div align="center"><h4>Programme du Forum en ligne, du 29 novembre au 15 décembre</h4></div>
 
 #### **Conférences tech**
 
@@ -235,6 +245,7 @@ Attention, vous avez jusqu'au 2 décembre uniquement pour prendre rendez-vous.
 
 <div align="center">
 <br>Inscriptions closes
+Mais vous pouvez encore participer à la <a href="#forum-paris">Journée spéciale du 16 décembre</a> !
 </div>
 <br>
 <br>
