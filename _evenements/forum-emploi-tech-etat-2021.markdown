@@ -8,9 +8,11 @@ tags:
 - RH
 - Tech
 chapeau-text: |-
-  La direction interministérielle du numérique (DINUM) organise la 5e édition du Forum de l’emploi tech de l’État : en ligne du 29 novembre au 15 décembre et une Journée spéciale le 16 décembre. L’occasion de faire se rencontrer recruteurs du secteur public (ministères, collectivités territoriales…) et candidat/es professionnel/les du numérique, issus du secteur public ou du privé. Le Forum sera rythmé par des conférences, un jobdating, des ateliers et des rencontres en ligne.
+  La direction interministérielle du numérique (DINUM) organise la 5e édition du Forum de l’emploi tech de l’État : en ligne du 29 novembre au 15 décembre et [une Journée spéciale le 16 décembre](/agenda/forum-emploi-tech-etat-2021-journee-speciale/). L’occasion de faire se rencontrer recruteurs du secteur public (ministères, collectivités territoriales…) et candidat/es professionnel/les du numérique, issus du secteur public ou du privé. Le Forum sera rythmé par des conférences, un jobdating, des ateliers et des rencontres en ligne.
 
   **Important :** en raison de l'évolution de la situation sanitaire, pour la santé et la sécurité de tous, la journée du 16 décembre, prévue initialement à Paris, est adaptée pour un format 100% en ligne. Nous aurons tout autant  de plaisir à vous recevoir !
+
+  <div class="lien-important"><p><a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/">Découvrez notre page dédiée à la Journée spéciale du 16 décembre, 100 % en ligne !</a></p></div>
 une-ou-diaporama:
 - image: "/uploads/1200x600_Visuel%20Agenda%20FETE-en%20ligne_v2-3.png"
 event_start_date: 2021-11-29 09:00:00 +01:00
@@ -65,7 +67,7 @@ La journée initialement prévue en présentiel à Paris passe ainsi en format 1
 
 **Au programme :**
 
-* Des **stands virtuels** pour rencontrer les recruteurs.
+* Des **stands virtuels** pour rencontrer les recruteurs. 
 
 * **Des ateliers** de développement professionnel (sur inscription - COMPLET).
 <br>
@@ -96,7 +98,7 @@ Les recruteurs présents :
 La liste continue de s'étoffer !
 
 **Comment participer ?**
-**Accès libre, sans inscription.** 
+**Accès libre et gratuit, sans inscription.** 
 Connectez-vous simplement le jour J aux salons virtuels qui vous intéressent via les liens qui seront fournis sur cette page.
 
 N’hésitez pas, on vous attend !
