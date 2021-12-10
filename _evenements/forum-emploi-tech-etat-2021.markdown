@@ -73,16 +73,6 @@ La journée initialement prévue en présentiel à Paris passe ainsi en format 1
 <br>
 <br>
 
-
-<div align="center"><h4>Programme de la Journée spéciale du 16 décembre, 100% en ligne</h4></div>
-
-#### **Stands virtuels**
-***Le 16 décembre, en ligne***
-
-Retrouvez chacun de nos services employeurs sur son stand virtuel jeudi 16 décembre prochain, de 9h à 18h. 
-
-Plus de 10 recruteurs de l'État dans le domaine du numérique seront là, en visio, pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !
-
 <p align="center"><a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/" class="button">Tout savoir sur les stands virtuels</a></p>
 <br>
 <br>
