@@ -49,7 +49,7 @@ Des [ateliers de développement professionnel](/agenda/forum-emploi-tech-etat-20
 <h3 id="comment-participer"><b>Comment participer ?</b></h3>
 **Accès libre et gratuit, sans inscription.**
 * Choisissez dans la liste ci-dessous le recruteur ou les recruteurs qui vous intéressent
-* Le jour J, jeudi 16 décembre 2021, à partir de 9h et jusqu'à 18h, connectez-vous à son stand virtuel : cliquez sur le bouton « Accéder au stand virtuel », une page de connexion s'ouvre, saisissez votre nom et rejoignez le webinaire.
+* Le jour J, jeudi 16 décembre 2021, à partir de 9h et jusqu'à 18h, à l'heure que vous souhaitez, connectez-vous à son stand virtuel : cliquez sur le bouton « Accéder au stand virtuel », une page de connexion s'ouvre, saisissez votre nom et rejoignez le webinaire.
 * Au moment de la connexion ou une fois connecté/e, vous choisissez d'activer ou non votre caméra
 
 Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webinaire de l’État](https://webinaire.numerique.gouv.fr/faq).
@@ -190,6 +190,8 @@ La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'in
 <br>
 
 <div align="center"><h2 id="stands-virtuels"><b>Les stands virtuels des recruteurs</b></h2></div>
+
+Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son stand virtuel le jour J, jeudi 16 décembre 2021, quand vous le souhaitez, de 9h à 18h.
 
 <div class="wrapper">
 <div class="panel">
