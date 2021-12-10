@@ -76,6 +76,7 @@ Depuis plus de 50 ans, l’Agence de services et de paiement met en œuvre des p
 En la choisissant, comme plus de 2 000 agents dans toute la France vous participerez à la transformation numérique de l’action publique, au service des citoyens avec 80 métiers tournés vers l’innovation et la satisfaction des usagers : chef de projet, développeur, data scientist…
 
 
+
 <h4><b>Conseil d’État</b></h4>
 Depuis plusieurs années, la direction des systèmes d’information (DSI) du Conseil d’État conduit la transformation numérique de la justice administrative pour qu’elle soit plus proche du citoyen.
 
@@ -88,6 +89,7 @@ Chiffres clés :
 * 60 agents
 * 6 000 postes de travail répartis sur 53 sites
 * 650 serveurs virtuels ou physiques
+
 
 
 <h4><b>Direction interministérielle du numérique (DINUM)</b></h4>
@@ -107,6 +109,7 @@ Chiffres clés :
 * 26% de fonctionnaires
 
 
+
 <h4><b>Ministère des Armées</b></h4>
 L’ambition numérique du ministère des Armées est de répondre à trois objectifs stratégiques majeurs :
 * Garantir l’efficacité opérationnelle et la maîtrise de l’information sur les théâtres d’opérations ;
@@ -124,10 +127,12 @@ Chiffres clés :
 * Des technologies qui servent les administrations et les forces, en France comme à l’étranger
 
 
+
 <h4><b>Ministère de l’Europe et des Affaires étrangères</b></h4>
 La direction du numérique du ministère de l’Europe et des Affaires étrangères est chargée des systèmes d’information (conception, intégration, exploitation), de la sécurité des informations confidentielles, de la continuité des services en toutes circonstances, de l’environnement de travail bureautique et de communication, du développement de services aux utilisateurs partout dans le monde.
 
 Sa raison d‘être est d’offrir un environnement numérique de travail fiable, performant et protégé aux 14 000 agents du ministère de l’Europe et des Affaires étrangères, en France et dans le monde, au service du 3e réseau diplomatique mondial.
+
 
 
 <h4><b>Ministère de l’Économie, des Finances et de la Relance</b></h4>
@@ -140,6 +145,7 @@ Chiffres clés :
 * 63% d'hommes et 37% de femmes
 * Budget : environ 30 millions d’euros
 * 2 salles informatiques, 1250 serveurs dont 700 virtuels/800 To, 400 informaticiens, 10 000 PC, 2 500 téléphones et + de 200 applications.
+
 
 
 <h4><b>Ministère de la Justice</b></h4>
@@ -163,7 +169,8 @@ L'Université Paris 2 Panthéon-Assas réunit plusieurs sites agréablement situ
 Dans cet environnement accueillant, à taille humaine, votre poste vous permettra de travailler à l'interface directe entre 18 000 étudiants et 1 000 personnels enseignants et administratifs.
 
 
-<h4><b>Université de Paris</b>(ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
+
+<h4><b>Université de Paris</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
 
 Ancrée au cœur de la capitale, l’Université de Paris figure parmi les établissements français et internationaux les plus prestigieux grâce à sa recherche de très haut niveau, ses formations supérieures d’excellence, son soutien à l’innovation et sa participation active à la construction de l’espace européen de la recherche et de la formation.
 
