@@ -54,7 +54,8 @@ Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webin
 <hr>
 <br>
 
-<nav data-smooth-scroll="" class="grid-x grid-margin-x align-center"> <!-- <a href="#comment-participer" class="cell nav-section grid-y medium-6 large-4 black-link"><span class="h5 text-center">Comment participer&nbsp;?</span> --> <span class="button">Voir plus</span> </a><a href="#presentation-recruteurs" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/comment_ca_marche_administrations.svg"> <span class="h5 text-center">Présentation des recruteurs</span> <span class="button">Voir plus</span> </a><a href="#stands-virtuels" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/forum_virutel.svg"> <span class="h5 text-center">Accéder aux stands virtuels</span> <span class="button">Voir plus</span> </a> </nav>
+<h2 class="text-center font-bold">Au menu</h2>
+<nav data-smooth-scroll="" class="grid-x grid-margin-x align-center"> <!-- <a href="#comment-participer" class="cell nav-section grid-y medium-6 large-4 black-link"><span class="h5 text-center">Comment participer&nbsp;?</span> <span class="button">Voir plus</span> </a> --> <a href="#presentation-recruteurs" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/comment_ca_marche_administrations.svg"> <span class="h5 text-center">Présentation des recruteurs</span> <span class="button">Voir plus</span> </a><a href="#stands-virtuels" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/forum_virutel.svg"> <span class="h5 text-center">Accéder aux stands virtuels</span> <span class="button">Voir plus</span> </a> </nav>
 
 <div align="center"><h2 id="presentation-recruteurs"><b>Présentation des recruteurs</b></h2></div>
 Les recruteurs présents :
