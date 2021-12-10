@@ -88,7 +88,7 @@ Connectez-vous simplement le jour J au lien qui sera très prochainement fourni 
 N’hésitez pas, on vous attend !
 
 
-#### **Ateliers**
+#### **Ateliers** [COMPLET]
 
 ***Le 16 décembre, en ligne***
 
