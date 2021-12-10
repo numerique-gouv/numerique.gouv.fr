@@ -40,6 +40,8 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 Retrouvez chaque administration recruteuse sur son stand virtuel jeudi 16 décembre 2021, de 9h à 18h. 
 
 Plus de 10 recruteurs de l'État dans le domaine du numérique, en visio, seront là pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !
+
+Des [ateliers de développement professionnel](/agenda/forum-emploi-tech-etat-2021/#forum-16dec) sont également organisés au cours de cette journée du 16 décembre, malheureusement tous déjà complets.
 <br>
 <br>
 
