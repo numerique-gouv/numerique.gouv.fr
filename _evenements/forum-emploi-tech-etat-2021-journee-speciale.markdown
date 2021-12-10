@@ -24,7 +24,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   #095D9C;\n  font-weight: bold;\n}"
 ---
 
-<div align="center"><h2 id="feuilles-de-route"><b>Les stands virtuels des recruteurs</b></h2></div>
+<h3><b>Les recruteurs</b></h3>
 
 Retrouvez chacun de nos services employeurs sur son stand virtuel jeudi 16 décembre prochain, de 9h à 18h. 
 
@@ -44,15 +44,16 @@ Les recruteurs présents :
 
 La liste continue de s'étoffer !
 
-**Comment participer ?**
-**Accès libre, sans inscription.** 
+<h3><b>Comment participer ?</b></h3>
+**Accès libre, sans inscription.**
 * Choisissez dans la liste ci-dessous le recruteur ou les recruteurs qui vous intéressent
-* Le 16 décembre, à partir de 9h et jusqu'à 18h, connectez-vous à son stand virtuel : cliquez sur le bouton "Accéder au stand virtuel", saisissez votre prénom, votre prénom et nom ou un pseudo, et rejoignez le webinaire.
+* Le jour J, jeudi 16 décembre, à partir de 9h et jusqu'à 18h, connectez-vous à son stand virtuel : cliquez sur le bouton "Accéder au stand virtuel", une page de connexion s'ouvre, saisissez votre prénom, vos prénom et nom ou un pseudo, et rejoignez le webinaire.
 
 
 Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webinaire de l’État](https://webinaire.numerique.gouv.fr/faq).
 
-Connectez-vous simplement le jour J aux salons virtuels qui vous intéressent via les liens qui seront fournis sur cette page.
+
+<div align="center"><h2><b>Les stands virtuels des recruteurs</b></h2></div>
 
 <div class="wrapper">
 <div class="panel">
