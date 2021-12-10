@@ -9,11 +9,11 @@ tags:
 - Tech
 chapeau-text: 'La direction interministérielle du numérique (DINUM) organise la 5e
   édition du Forum de l’emploi tech de l’État : en ligne du 29 novembre au 15 décembre
-  et à Paris le 16 décembre. L’occasion de faire se rencontrer recruteurs du secteur
-  public (ministères, collectivités territoriales…) et candidats professionnels du
-  numérique, issus du secteur public ou du privé. Le Forum sera rythmé par des conférences,
-  un jobdating, des ateliers et rencontres en ligne et en présentiel. <br>**Les inscriptions
-  sont ouvertes !**'
+  et une Journée spéciale le 16 décembre. L’occasion de faire se rencontrer recruteurs
+  du secteur public (ministères, collectivités territoriales…) et candidats professionnels
+  du numérique, issus du secteur public ou du privé. Le Forum sera rythmé par des
+  conférences, un jobdating, des ateliers et rencontres en ligne et en présentiel.
+  <br>**Les inscriptions sont ouvertes !**'
 une-ou-diaporama:
 - image: "/uploads/1200x600_Visuel%20Agenda%20FETE-V2.png"
 event_start_date: 2021-11-29 09:00:00 +01:00
@@ -60,7 +60,7 @@ Vous êtes étudiant ou **jeune diplômé d’une école du numérique** et curi
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3"> 
 <h2 class="text-center font-bold">Au menu</h2> 
 <nav data-smooth-scroll="" class="grid-x grid-margin-x align-center" id="y6sg7r-smooth-scroll" data-o="byw8cz-o"> 
-<a href="#forum-paris" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/forum_paris.svg"> <span class="h4 text-center" style="margin-bottom: 1rem"><b>Journée spéciale en ligne</b></span>
+<a href="#forum-paris" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/Journee-speciale.svg"> <span class="h4 text-center" style="margin-bottom: 1rem"><b>Journée spéciale en ligne</b></span>
 <span class="p text-center" style="margin-bottom: 1rem">Jeudi 16 décembre</span> <span class="button" style="margin-top: 4">Voir le programme</span> </a> 
 <a href="#forum-en-ligne" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/forum_virutel.svg"> 
 <span class="h4 text-center" style="margin-bottom: 1rem"><b>Forum en ligne</b></span><span class="p text-center" style="margin-bottom: 1rem">Du 29 novembre au 15 décembre</span> 
