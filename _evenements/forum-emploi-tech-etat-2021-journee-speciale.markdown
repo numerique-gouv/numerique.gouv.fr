@@ -50,10 +50,11 @@ Les recruteurs présents :
 * Ministère de l’Économie, des Finances et de la Relance
 * Ministère de la Justice
 * Université Paris 2 Panthéon-Assas / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
-* Université de Paris – Paris Sciences & Lettres
+* Université de Paris / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
 * ...
 
 La liste continue de s'étoffer !
+
 
 <h3 id="comment-participer"><b>Comment participer ?</b></h3>
 **Accès libre, sans inscription.**
