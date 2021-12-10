@@ -8,10 +8,10 @@ tags:
 - Tech
 - Emploi
 chapeau-text: |-
-  Le 16 décembre, de 9h à 18h, retrouvez plusieurs administrations de l’État qui recrutent dans le domaine du numérique !
+  Le 16 décembre, de 9h à 18h, retrouvez plusieurs administrations de l’État qui recrutent dans le domaine du numérique pour une Journée spéciale du [Forum de l'emploi tech de l’État](/agenda/forum-emploi-tech-etat-2021/) !
   Vous êtes professionnel/le dans la tech ? Vous êtes à la recherche de nouvelles opportunités ? Venez créer le service public de demain ! Que vous travailliez actuellement dans le secteur privé ou public, ce rendez-vous est fait pour vous.
 
-  *Prévue initialement en présentiel à Paris, cette Journée spéciale du Forum de l'emploi tech de l’État est rebasculée en 100% virtuel en raison des conditions sanitaires, pour la santé et la sécurité de tous.*
+  *Prévue initialement en présentiel à Paris, cette Journée spéciale du [Forum de l'emploi tech de l’État](/agenda/forum-emploi-tech-etat-2021/) est rebasculée en 100% virtuel en raison des conditions sanitaires, pour la santé et la sécurité de tous.*
 event_start_date: 2021-12-16 00:00:00 +01:00
 champs_informations:
 - intitule: 'Modalités '
@@ -32,6 +32,8 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   #095D9C;\n  font-weight: bold;\n}\n\n.ouverture {\n  margin-top: 0;\n  color: #095D9C;\n
   \ font-size: 0.8rem;\n}"
 ---
+
+<nav data-smooth-scroll="" class="grid-x grid-margin-x align-center"> <a href="#comment-ca-marche-agents" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/comment_ca_marche_agents.svg"> <span class="h5 text-center">Comment ça marche pour les agents&nbsp;?</span> <span class="button">Voir plus</span> </a><a href="#comment-ca-marche-agents" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/comment_ca_marche_agents.svg"> <span class="h5 text-center">Comment ça marche pour les agents&nbsp;?</span> <span class="button">Voir plus</span> </a> <!-- <a href="#missions" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/assets/img/pictogrammes/Insuffler_une_culture_de_linnovation_numerique.svg"> <span class="h5 text-center">Missions proposées</span> <span class="button">Voir plus</span> </a> --> <a href="#comment-ca-marche-admin" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/comment_ca_marche_administrations.svg"> <span class="h5 text-center">Comment ça marche pour les administrations&nbsp;?</span> <span class="button">Voir plus</span> </a> </nav>
 
 <h3><b>Les recruteurs</b></h3>
 
