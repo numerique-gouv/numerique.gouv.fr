@@ -248,7 +248,7 @@ Attention, vous avez jusqu'au 2 décembre uniquement pour prendre rendez-vous.
 
 <div align="center">
 <br>Inscriptions closes
-Mais vous pouvez encore participer à la <a href="#forum-paris">Journée spéciale du 16 décembre</a> !
+<br>Mais vous pouvez encore participer à la <a href="#forum-paris">Journée spéciale du 16 décembre</a> !
 </div>
 <br>
 <br>
