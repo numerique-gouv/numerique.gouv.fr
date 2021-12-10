@@ -150,8 +150,7 @@ Cet atelier pratique a pour objectif de permettre au participant de prendre cons
 Inscriptions aux ateliers closes
 <br><br>Mais vous pouvez encore participer à la Journée spéciale du 16 décembre ! Pas besoin de vous inscrire, connectez-vous le jour J aux salons en ligne de votre choix
 </div>
-<br>
-<br>
+<br><hr>
 <h3 id="forum-en-ligne"><b>Forum en ligne</b> <br>du 29 novembre au 15 décembre 2021 <br>[Inscriptions closes]</h3>
 
 Vous souhaitez participer à cet événement unique, consulter les offres d’emploi dans toute la France, assister aux conférences et au jobdating ? Participez au Forum en ligne ! Créez votre profil sur [notre plateforme en ligne](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211) et déposez-y votre CV.
