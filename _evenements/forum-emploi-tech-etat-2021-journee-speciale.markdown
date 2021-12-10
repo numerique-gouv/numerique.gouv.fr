@@ -7,6 +7,11 @@ tags:
 - RH
 - Tech
 - Emploi
+chapeau-text: |-
+  Le 16 décembre, de 9h à 18h, retrouvez plusieurs administrations de l’État qui recrutent dans le domaine du numérique !
+  Vous êtes professionnel/le dans la tech ? Vous êtes à la recherche de nouvelles opportunités ? Venez créer le service public de demain ! Que vous travailliez actuellement dans le secteur privé ou public, ce rendez-vous est fait pour vous.
+
+  *Prévue initialement en présentiel à Paris, cette Journée spéciale du Forum de l'emploi tech de l’État est rebasculée en 100% virtuel en raison des conditions sanitaires, pour la santé et la sécurité de tous.*
 event_start_date: 2021-12-16 00:00:00 +01:00
 event_end_date: 2021-12-16 00:00:00 +01:00
 champs_informations:
@@ -68,12 +73,6 @@ Depuis plusieurs années, la direction des systèmes d’information (DSI) du Co
 Elle assure ainsi la conception, la gestion et l’évolution des services essentiels au fonctionnement de la justice administrative, aujourd’hui totalement dématérialisés.
 
 Travailler à la DSI du Conseil d’État c’est faciliter l’accès au juge administratif pour les citoyens, avocats, associations et entreprises par des outils numériques rapides et sécurisés. C’est aussi améliorer les outils de travail numériques de plus de 4 000 personnes qui travaillent dans les juridictions administratives pour instruire et juger les recours en justice.
-
-
-
-* Direction interministérielle du numérique (DINUM)
-
-* Ministère des Armées
 
 
 <h4><b>Ministère de l’Europe et des Affaires étrangères</b></h4>
