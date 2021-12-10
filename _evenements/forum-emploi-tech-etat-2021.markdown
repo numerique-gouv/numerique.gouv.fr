@@ -83,25 +83,7 @@ Retrouvez chacun de nos services employeurs sur son stand virtuel jeudi 16 déce
 
 Plus de 10 recruteurs de l'État dans le domaine du numérique seront là, en visio, pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !
 
-Les recruteurs présents :
-* Agence de services et de paiements (ASP)
-* Conseil d’État
-* Direction interministérielle du numérique (DINUM)
-* Ministère des Armées
-* Ministère de l’Europe et des Affaires étrangères
-* Ministère de l’Économie, des Finances et de la Relance
-* Ministère de la Justice
-* Université Paris 2 Panthéon-Assas / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
-* Université de Paris – Paris Sciences & Lettres
-* ...
-
-La liste continue de s'étoffer !
-
-**Comment participer ?**
-**Accès libre et gratuit, sans inscription.** 
-Connectez-vous simplement le jour J aux salons virtuels qui vous intéressent via les liens qui seront fournis sur cette page.
-
-N’hésitez pas, on vous attend !
+<p align="center"><a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/" class="button">Tout savoir sur les stands virtuels</a></p>
 <br>
 <br>
 
