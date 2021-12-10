@@ -53,49 +53,6 @@ La liste continue de s'étoffer !
 Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webinaire de l’État](https://webinaire.numerique.gouv.fr/faq).
 
 
-<div align="center"><h2><b>Les stands virtuels des recruteurs</b></h2></div>
-
-<div class="wrapper">
-<div class="panel">
-<b>Agence de services et de paiements (ASP)</b> 
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3202/creator/178/hash/89da5780277ee46377ed06b4094e83c0b7fe9c57" class="button"><b>Accéder au stand virtuel</b></a></div>
-</div>
-<div class="panel">
-<b>Conseil d’État</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3200/creator/178/hash/66fba25e7e90ba58b9f3d8835304a024de3ca054" class="button"><b>Accéder au stand virtuel</b></a></div>
-</div>
-<div class="panel">
-<b>Direction interministérielle du numérique (DINUM)</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a></div>
-</div>
-<div class="panel">
-<b>Ministère des Armées</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3217/creator/178/hash/48a20cb67c79468e8e72c3d98d7ca0b119c9685a" class="button"><b>Accéder au stand virtuel</b></a></div>
-</div>
-<div class="panel">
-<b>Ministère de l’Europe et des Affaires étrangères</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3203/creator/178/hash/8f72105ec3479c5d2be112fe87d7e793b70dc3bb" class="button"><b>Accéder au stand virtuel</b></a></div>
-</div>
-<div class="panel">
-<b>Ministère de l’Économie, des Finances et de la Relance</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3198/creator/178/hash/36020366410f5954aa9ce928f33dea9d42bb61ba" class="button"><b>Accéder au stand virtuel</b></a></div>
-</div>
-<div class="panel">
-<b>Ministère de la Justice</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3199/creator/178/hash/96e8cf6763674af9e9b0a1a6121fab39c37cb2ac" class="button"><b>Accéder au stand virtuel</b></a></div>
-</div>
-<div class="panel">
-<b>Université Paris 2 Panthéon-Assas</b><br>Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button"><b>Accéder au stand virtuel</b></a></div>
-</div>
-<div class="panel">
-<b>Université de Paris – Paris Sciences & Lettres</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3219/creator/178/hash/551368ef3fdefacda170f8d38decc08a6923aef0" class="button"><b>Accéder au stand virtuel</b></a></div>
-</div>
-</div>
-<br>
-<br>
-
 
 <div align="center"><h2><b>Présentation des recruteurs</b></h2></div>
 <h4><b>Agence de services et de paiements (ASP)</b></h4>
@@ -154,3 +111,47 @@ Ancrée au cœur de la capitale, l’Université de Paris figure parmi les étab
 Rejoindre Université de Paris c’est faire le choix de l’exigence et de l’engagement au service de valeurs fortes ; celles du service public, de la rigueur scientifique et intellectuelle mais aussi de la curiosité et de l’ouverture aux autres et au monde.
 
 La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'intervention nécessite des compétences et des ressources dans tous les domaines de l'informatique et du numérique. Des projets riches et captivants vous attendent !
+
+
+<div align="center"><h2><b>Les stands virtuels des recruteurs</b></h2></div>
+
+<div class="wrapper">
+<div class="panel">
+<b>Agence de services et de paiements (ASP)</b> 
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3202/creator/178/hash/89da5780277ee46377ed06b4094e83c0b7fe9c57" class="button"><b>Accéder au stand virtuel</b></a></div>
+</div>
+<div class="panel">
+<b>Conseil d’État</b>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3200/creator/178/hash/66fba25e7e90ba58b9f3d8835304a024de3ca054" class="button"><b>Accéder au stand virtuel</b></a></div>
+</div>
+<div class="panel">
+<b>Direction interministérielle du numérique (DINUM)</b>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a></div>
+</div>
+<div class="panel">
+<b>Ministère des Armées</b>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3217/creator/178/hash/48a20cb67c79468e8e72c3d98d7ca0b119c9685a" class="button"><b>Accéder au stand virtuel</b></a></div>
+</div>
+<div class="panel">
+<b>Ministère de l’Europe et des Affaires étrangères</b>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3203/creator/178/hash/8f72105ec3479c5d2be112fe87d7e793b70dc3bb" class="button"><b>Accéder au stand virtuel</b></a></div>
+</div>
+<div class="panel">
+<b>Ministère de l’Économie, des Finances et de la Relance</b>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3198/creator/178/hash/36020366410f5954aa9ce928f33dea9d42bb61ba" class="button"><b>Accéder au stand virtuel</b></a></div>
+</div>
+<div class="panel">
+<b>Ministère de la Justice</b>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3199/creator/178/hash/96e8cf6763674af9e9b0a1a6121fab39c37cb2ac" class="button"><b>Accéder au stand virtuel</b></a></div>
+</div>
+<div class="panel">
+<b>Université Paris 2 Panthéon-Assas</b><br>Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button"><b>Accéder au stand virtuel</b></a></div>
+</div>
+<div class="panel">
+<b>Université de Paris – Université Paris Sciences & Lettres</b>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3219/creator/178/hash/551368ef3fdefacda170f8d38decc08a6923aef0" class="button"><b>Accéder au stand virtuel</b></a></div>
+</div>
+</div>
+<br>
+<br>
