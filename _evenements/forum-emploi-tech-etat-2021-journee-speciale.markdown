@@ -21,7 +21,8 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   \ flex: 1 1 200px;\ndisplay: inline-grid;\nalign-content: end;\n}\n\n.wrapper >
   * {\n  padding: 10px;\n  font-size: 100%;\n  margin-bottom: 10px;\ntext-align: center;\nbackground-color:
   #f9f8f6;\n\tborder-bottom: 4px solid #000091;\n}\n\n\n.titre-document {\n  color:
-  #095D9C;\n  font-weight: bold;\n}"
+  #095D9C;\n  font-weight: bold;\n}\n\n.ouverture {\n  margin-top: 0;\n  color: #095D9C;\n
+  \ font-size: 0.8rem;\n}"
 ---
 
 <h3><b>Les recruteurs</b></h3>
@@ -118,39 +119,39 @@ La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'in
 <div class="wrapper">
 <div class="panel">
 <b>Agence de services et de paiements (ASP)</b> 
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3202/creator/178/hash/89da5780277ee46377ed06b4094e83c0b7fe9c57" class="button"><b>Accéder au stand virtuel</b></a></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3202/creator/178/hash/89da5780277ee46377ed06b4094e83c0b7fe9c57" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
 <b>Conseil d’État</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3200/creator/178/hash/66fba25e7e90ba58b9f3d8835304a024de3ca054" class="button"><b>Accéder au stand virtuel</b></a></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3200/creator/178/hash/66fba25e7e90ba58b9f3d8835304a024de3ca054" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
 <b>Direction interministérielle du numérique (DINUM)</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
 <b>Ministère des Armées</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3217/creator/178/hash/48a20cb67c79468e8e72c3d98d7ca0b119c9685a" class="button"><b>Accéder au stand virtuel</b></a></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3217/creator/178/hash/48a20cb67c79468e8e72c3d98d7ca0b119c9685a" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
 <b>Ministère de l’Europe et des Affaires étrangères</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3203/creator/178/hash/8f72105ec3479c5d2be112fe87d7e793b70dc3bb" class="button"><b>Accéder au stand virtuel</b></a></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3203/creator/178/hash/8f72105ec3479c5d2be112fe87d7e793b70dc3bb" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
 <b>Ministère de l’Économie, des Finances et de la Relance</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3198/creator/178/hash/36020366410f5954aa9ce928f33dea9d42bb61ba" class="button"><b>Accéder au stand virtuel</b></a></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3198/creator/178/hash/36020366410f5954aa9ce928f33dea9d42bb61ba" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
 <b>Ministère de la Justice</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3199/creator/178/hash/96e8cf6763674af9e9b0a1a6121fab39c37cb2ac" class="button"><b>Accéder au stand virtuel</b></a></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3199/creator/178/hash/96e8cf6763674af9e9b0a1a6121fab39c37cb2ac" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
-<b>Université Paris 2 Panthéon-Assas</b><br>Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button"><b>Accéder au stand virtuel</b></a></div>
+<b>Université Paris 2 Panthéon-Assas</b>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
 <b>Université de Paris – Université Paris Sciences & Lettres</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3219/creator/178/hash/551368ef3fdefacda170f8d38decc08a6923aef0" class="button"><b>Accéder au stand virtuel</b></a></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3219/creator/178/hash/551368ef3fdefacda170f8d38decc08a6923aef0" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 </div>
 <br>
