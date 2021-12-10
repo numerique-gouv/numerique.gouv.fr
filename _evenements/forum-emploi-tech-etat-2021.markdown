@@ -59,7 +59,7 @@ Vous êtes étudiant ou **jeune diplômé d’une école du numérique** et curi
 
 <h3 id="forum-16dec"><b>Journée spéciale en ligne</b><br> jeudi 16 décembre 2021</h3>
 
-Nouvelles circonstances, nouveau format ! Le Forum de l’emploi tech de l’État ss'adapte aux conditions sanitaires pour la santé et la sécurité de tous.
+Nouvelles circonstances, nouveau format ! Le Forum de l’emploi tech de l’État s'adapte aux conditions sanitaires pour la santé et la sécurité de tous.
 
 La journée initialement prévue en présentiel à Paris passe ainsi en format 100% en ligne. 
 
