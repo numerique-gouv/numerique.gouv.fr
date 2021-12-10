@@ -54,7 +54,8 @@ Les recruteurs présents :
 * ...
 
 La liste continue de s'étoffer !
-
+<hr>
+<br>
 
 <h3 id="comment-participer"><b>Comment participer ?</b></h3>
 **Accès libre, sans inscription.**
