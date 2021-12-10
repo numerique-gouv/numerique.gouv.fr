@@ -133,7 +133,7 @@ Cet atelier pratique a pour objectif de permettre au participant de prendre cons
 
 <div align="center">
 Inscriptions aux ateliers closes
-<br>Mais vous pouvez encore participer à la Journée spéciale du 16 décembre ! Pas besoin de vous inscrire, connectez-vous le jour J aux salons en ligne de votre choix
+<br><br>Mais vous pouvez encore participer à la Journée spéciale du 16 décembre ! Pas besoin de vous inscrire, connectez-vous le jour J aux salons en ligne de votre choix
 </div>
 <br>
 <br>
