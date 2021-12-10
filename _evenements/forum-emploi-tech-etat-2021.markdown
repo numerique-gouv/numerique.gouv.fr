@@ -81,11 +81,6 @@ Retrouvez chacun de nos services employeurs sur son stand virtuel jeudi 16 déce
 
 Plus de 10 recruteurs de l'État dans le domaine du numérique seront là, en visio, pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !
 
-**Accès libre, sans inscription.** 
-Connectez-vous simplement le jour J au lien qui sera très prochainement fourni sur cette page.
-
-N’hésitez pas, on vous attend !
-
 Les recruteurs présents :
 * Agence de services et de paiements (ASP)
 * Conseil d’État
@@ -98,7 +93,13 @@ Les recruteurs présents :
 * Université de Paris – Paris Sciences & Lettres
 * ...
 
-**La liste continue de s'étoffer !**
+La liste continue de s'étoffer !
+
+**Comment participer ?**
+**Accès libre, sans inscription.** 
+Connectez-vous simplement le jour J aux salons virtuels qui vous intéressent via les liens qui seront fournis sur cette page.
+
+N’hésitez pas, on vous attend !
 <br>
 <br>
 
