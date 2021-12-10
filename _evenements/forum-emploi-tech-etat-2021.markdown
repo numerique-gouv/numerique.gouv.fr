@@ -147,10 +147,8 @@ L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa rais
 Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.</li></ul>
 
 <div align="center">
-Inscriptions aux ateliers closes
-<br><br>Mais vous pouvez encore participer à la Journée spéciale du 16 décembre ! Pas besoin de vous inscrire, connectez-vous le jour J aux salons en ligne de votre choix
-</div>
-<br><hr>
+<p> Inscriptions aux ateliers closes <br><br>Mais vous pouvez encore participer à la Journée spéciale du 16 décembre&nbsp;! Pas besoin de vous inscrire, connectez-vous le jour J aux salons en ligne de votre choix </p><br><hr></div>
+
 <h3 id="forum-en-ligne"><b>Forum en ligne</b> <br>du 29 novembre au 15 décembre 2021 <br>[Inscriptions closes]</h3>
 
 Vous souhaitez participer à cet événement unique, consulter les offres d’emploi dans toute la France, assister aux conférences et au jobdating ? Participez au Forum en ligne ! Créez votre profil sur [notre plateforme en ligne](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211) et déposez-y votre CV.
