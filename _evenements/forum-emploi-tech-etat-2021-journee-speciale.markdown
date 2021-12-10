@@ -15,7 +15,10 @@ chapeau-text: |-
 event_start_date: 2021-12-16 00:00:00 +01:00
 champs_informations:
 - intitule: 'Modalités '
-  contenu: 100% en ligne, accès libre et gratuit
+  contenu: 100% en ligne, accès libre et gratuit, sans inscription préalable
+- intitule: Pour se connecter
+  contenu: retrouvez les liens de connexion à chaque stand virtuel de recruteur plus
+    haut dans cette page
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
