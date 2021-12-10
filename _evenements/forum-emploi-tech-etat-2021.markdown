@@ -57,7 +57,7 @@ Vous êtes étudiant ou **jeune diplômé d’une école du numérique** et curi
 
 
 
-<h3 id="forum-paris">Journée spéciale en ligne le jeudi 16 décembre 2021</h3>
+<h3 id="forum-paris"><b>Journée spéciale en ligne</b><br> jeudi 16 décembre 2021</h3>
 
 Nouvelles circonstances, nouveau format ! Le Forum de l’emploi tech de l’État ss'adapte aux conditions sanitaires pour la santé et la sécurité de tous.
 
@@ -151,7 +151,7 @@ Inscriptions aux ateliers closes
 </div>
 <br>
 <br>
-<h3 id="forum-en-ligne"><b>Le Forum en ligne du 29 novembre au 15 décembre 2021</b> [Inscriptions closes]</h3>
+<h3 id="forum-en-ligne"><b>Forum en ligne</b> <br>du 29 novembre au 15 décembre 2021 <br>[Inscriptions closes]</h3>
 
 Vous souhaitez participer à cet événement unique, consulter les offres d’emploi dans toute la France, assister aux conférences et au jobdating ? Participez au Forum en ligne ! Créez votre profil sur [notre plateforme en ligne](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211) et déposez-y votre CV.
 
