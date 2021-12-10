@@ -96,7 +96,7 @@ Les recruteurs présents :
 * Ministère de la Justice
 * Université Paris 2 Panthéon-Assas / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
 * Université de Paris – Paris Sciences & Lettres
-*...
+* ...
 
 **La liste continue de s'étoffer !**
 <br>
