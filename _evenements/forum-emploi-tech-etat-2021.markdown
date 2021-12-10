@@ -64,12 +64,13 @@ Nouvelles circonstances, nouveau format ! Le Forum de l’emploi tech de l’Ét
 
 La journée initialement prévue en présentiel à Paris passe ainsi en format 100% en ligne. 
 
-Au programme :
+**Au programme :**
 
 * Des **stands virtuels** pour rencontrer les recruteurs.
 
 * **Des ateliers** de développement professionnel (sur inscription - COMPLET).
-
+<br>
+<br>
 
 
 <div align="center"><h4>Programme de la Journée spéciale du 16 décembre, 100% en ligne</h4></div>
