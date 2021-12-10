@@ -76,6 +76,8 @@ La journée initialement prévue en présentiel à Paris passe ainsi en format 1
 <div align="center"><h4>Programme de la Journée spéciale du 16 décembre, 100% en ligne</h4></div>
 
 #### **Stands virtuels**
+***Le 16 décembre, en ligne***
+
 Retrouvez chacun de nos services employeurs sur son stand virtuel jeudi 16 décembre prochain, de 9h à 18h. 
 
 Plus de 10 recruteurs de l'État dans le domaine du numérique seront là, en visio, pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !
@@ -145,9 +147,6 @@ Au programme :
 
 * Des **échanges et entretiens** avec les recruteurs par téléphone ou par visio-conférence.
 
-<div align="center">
-<br>Inscriptions closes
-</div>
 
 <div align="center"><h4>Programme du Forum en ligne, du 29 novembre au 15 décembre</h4></div>
 
