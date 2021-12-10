@@ -33,14 +33,28 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   \ font-size: 0.8rem;\n}"
 ---
 
-<nav data-smooth-scroll="" class="grid-x grid-margin-x align-center"> <a href="#comment-participer" class="cell nav-section grid-y medium-6 large-4 black-link"><span class="h5 text-center">Comment participer&nbsp;?</span> <span class="button">Voir plus</span> </a><a href="#presentation-recruteurs" class="cell nav-section grid-y medium-6 large-4 black-link"> <!--<img alt="" src="/uploads/comment_ca_marche_administrations.svg"> --> <span class="h5 text-center">Présentation des recruteurs</span> <span class="button">Voir plus</span> </a><a href="#stands-virtuels" class="cell nav-section grid-y medium-6 large-4 black-link"> <!-- <img alt="" src="/uploads/forum_virutel.svg">  --> <span class="h5 text-center">Accéder aux stands virtuels</span> <span class="button">Voir plus</span> </a> </nav>
-
-<h3><b>Les recruteurs</b></h3>
+<h3><b>En bref</b></h3>
 
 Retrouvez chaque administration recruteuse sur son stand virtuel jeudi 16 décembre prochain, de 9h à 18h. 
 
 Plus de 10 recruteurs de l'État dans le domaine du numérique, en visio, seront là pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !
+<br>
+<br>
 
+<nav data-smooth-scroll="" class="grid-x grid-margin-x align-center"> <a href="#comment-participer" class="cell nav-section grid-y medium-6 large-4 black-link"><span class="h5 text-center">Comment participer&nbsp;?</span> <span class="button">Voir plus</span> </a><a href="#presentation-recruteurs" class="cell nav-section grid-y medium-6 large-4 black-link"> <!--<img alt="" src="/uploads/comment_ca_marche_administrations.svg"> --> <span class="h5 text-center">Présentation des recruteurs</span> <span class="button">Voir plus</span> </a><a href="#stands-virtuels" class="cell nav-section grid-y medium-6 large-4 black-link"> <!-- <img alt="" src="/uploads/forum_virutel.svg">  --> <span class="h5 text-center">Accéder aux stands virtuels</span> <span class="button">Voir plus</span> </a> </nav>
+
+
+<h3 id="comment-participer"><b>Comment participer ?</b></h3>
+**Accès libre, sans inscription.**
+* Choisissez dans la liste ci-dessous le recruteur ou les recruteurs qui vous intéressent
+* Le jour J, jeudi 16 décembre 2021, à partir de 9h et jusqu'à 18h, connectez-vous à son stand virtuel : cliquez sur le bouton "Accéder au stand virtuel", une page de connexion s'ouvre, saisissez votre nom et rejoignez le webinaire.
+
+
+Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webinaire de l’État](https://webinaire.numerique.gouv.fr/faq).
+<hr>
+<br>
+
+<div align="center"><h2 id="presentation-recruteurs"><b>Présentation des recruteurs</b></h2></div>
 Les recruteurs présents :
 * Agence de services et de paiements (ASP)
 * Conseil d’État
@@ -54,20 +68,8 @@ Les recruteurs présents :
 * ...
 
 La liste continue de s'étoffer !
-<hr>
-<br>
-
-<h3 id="comment-participer"><b>Comment participer ?</b></h3>
-**Accès libre, sans inscription.**
-* Choisissez dans la liste ci-dessous le recruteur ou les recruteurs qui vous intéressent
-* Le jour J, jeudi 16 décembre 2021, à partir de 9h et jusqu'à 18h, connectez-vous à son stand virtuel : cliquez sur le bouton "Accéder au stand virtuel", une page de connexion s'ouvre, saisissez votre nom et rejoignez le webinaire.
 
 
-Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webinaire de l’État](https://webinaire.numerique.gouv.fr/faq).
-
-
-
-<div align="center"><h2 id="presentation-recruteurs"><b>Présentation des recruteurs</b></h2></div>
 <h4><b>Agence de services et de paiements (ASP)</b></h4>
 Depuis plus de 50 ans, l’Agence de services et de paiement met en œuvre des politiques publiques européennes, nationales et locales au cœur des territoires. En 2020, elle a versé  40 milliards d’euros d’aides publiques à 18 millions de bénéficiaires (agriculteurs, entreprises, jeunes…) a géré 200 dispositifs: activité partielle, bonus écologique, chèque énergie, contrats aidés, service civique…
 
@@ -168,7 +170,8 @@ Ancrée au cœur de la capitale, l’Université de Paris figure parmi les étab
 Rejoindre Université de Paris c’est faire le choix de l’exigence et de l’engagement au service de valeurs fortes ; celles du service public, de la rigueur scientifique et intellectuelle mais aussi de la curiosité et de l’ouverture aux autres et au monde.
 
 La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'intervention nécessite des compétences et des ressources dans tous les domaines de l'informatique et du numérique. Des projets riches et captivants vous attendent !
-
+<hr>
+<br>
 
 <div align="center"><h2 id="stands-virtuels"><b>Les stands virtuels des recruteurs</b></h2></div>
 
