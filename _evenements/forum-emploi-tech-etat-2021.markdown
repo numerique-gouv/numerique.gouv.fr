@@ -9,6 +9,7 @@ tags:
 - Tech
 chapeau-text: |-
   La direction interministérielle du numérique (DINUM) organise la 5e édition du Forum de l’emploi tech de l’État : en ligne du 29 novembre au 15 décembre et une Journée spéciale le 16 décembre. L’occasion de faire se rencontrer recruteurs du secteur public (ministères, collectivités territoriales…) et candidat/es professionnel/les du numérique, issus du secteur public ou du privé. Le Forum sera rythmé par des conférences, un jobdating, des ateliers et des rencontres en ligne.
+
   **Important :** en raison de l'évolution de la situation sanitaire, pour la santé et la sécurité de tous, la journée du 16 décembre, prévue initialement à Paris, est adaptée pour un format 100% en ligne. Nous aurons tout autant  de plaisir à vous recevoir !
 une-ou-diaporama:
 - image: "/uploads/1200x600_Visuel%20Agenda%20FETE-en%20ligne_v2-3.png"
