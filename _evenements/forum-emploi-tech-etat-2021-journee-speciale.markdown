@@ -12,6 +12,8 @@ chapeau-text: |-
   Vous êtes professionnel/le dans la tech ? Vous êtes à la recherche de nouvelles opportunités ? Venez créer le service public de demain ! Que vous travailliez actuellement dans le secteur privé ou public, ce rendez-vous est fait pour vous.
 
   *Prévue initialement en présentiel à Paris, cette Journée spéciale du [Forum de l'emploi tech de l’État](/agenda/forum-emploi-tech-etat-2021/) est rebasculée en 100% virtuel en raison des conditions sanitaires, pour la santé et la sécurité de tous.*
+une-ou-diaporama:
+- image: "/uploads/Article%20Forum.png"
 event_start_date: 2021-12-16 00:00:00 +01:00
 champs_informations:
 - intitule: 'Modalités '
