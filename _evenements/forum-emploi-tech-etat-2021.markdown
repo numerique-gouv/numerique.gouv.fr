@@ -220,7 +220,7 @@ Attention, vous avez jusqu'au 2 décembre uniquement pour prendre rendez-vous.
 
 <div align="center">
 <br>Inscriptions closes
-<br>Mais vous pouvez encore participer à la <a href="#forum-16dec">Journée spéciale du 16 décembre</a> !
+<br>Mais vous pouvez encore participer à la <a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/">Journée spéciale du 16 décembre</a> !
 </div>
 <br>
 <br>
