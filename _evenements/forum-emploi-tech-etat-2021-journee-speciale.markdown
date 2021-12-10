@@ -160,7 +160,7 @@ Ses missions sont de :
 * Concevoir et livrer des produits de qualité et facile d’utilisation.
 
 Chiffres clés :
-* 880 millions d’euros de budget informatique pour le Ministère de la Justice entre 2018-2022, dont 530 Millions d’euros alloués au plan de transformation numérique.
+* 880 millions d’euros de budget informatique pour le ministère de la Justice entre 2018-2022, dont 530 millions d’euros alloués au plan de transformation numérique.
 * 200 agents répartis dans 9 départements informatiques de télécommunications
 
 
