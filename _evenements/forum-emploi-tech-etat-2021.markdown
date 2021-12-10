@@ -50,7 +50,7 @@ Vous êtes étudiant ou **jeune diplômé d’une école du numérique** et curi
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3"> 
 <h2 class="text-center font-bold">Au menu</h2> 
 <nav data-smooth-scroll="" class="grid-x grid-margin-x align-center" id="y6sg7r-smooth-scroll" data-o="byw8cz-o"> 
-<a href="#forum-16dec" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/Journee-speciale.svg"> <span class="h4 text-center" style="margin-bottom: 1rem"><b>Journée spéciale en ligne</b></span>
+<a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/Journee-speciale.svg"> <span class="h4 text-center" style="margin-bottom: 1rem"><b>Journée spéciale en ligne</b></span>
 <span class="p text-center" style="margin-bottom: 1rem">Jeudi 16 décembre</span> <span class="button" style="margin-top: 4">Voir le programme</span> </a> 
 <a href="#forum-en-ligne" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/forum_virutel.svg"> 
 <span class="h4 text-center" style="margin-bottom: 1rem"><b>Forum en ligne</b></span><span class="p text-center" style="margin-bottom: 1rem">Du 29 novembre au 15 décembre</span> 
