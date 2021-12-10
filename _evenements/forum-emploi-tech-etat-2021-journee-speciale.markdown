@@ -58,7 +58,7 @@ La liste continue de s'étoffer !
 <h3 id="comment-participer"><b>Comment participer ?</b></h3>
 **Accès libre, sans inscription.**
 * Choisissez dans la liste ci-dessous le recruteur ou les recruteurs qui vous intéressent
-* Le jour J, jeudi 16 décembre 2021, à partir de 9h et jusqu'à 18h, connectez-vous à son stand virtuel : cliquez sur le bouton "Accéder au stand virtuel", une page de connexion s'ouvre, saisissez votre prénom, vos prénom et nom ou un pseudo, et rejoignez le webinaire.
+* Le jour J, jeudi 16 décembre 2021, à partir de 9h et jusqu'à 18h, connectez-vous à son stand virtuel : cliquez sur le bouton "Accéder au stand virtuel", une page de connexion s'ouvre, saisissez votre nom et rejoignez le webinaire.
 
 
 Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webinaire de l’État](https://webinaire.numerique.gouv.fr/faq).
