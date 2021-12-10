@@ -35,7 +35,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 
 <h3><b>En bref</b></h3>
 
-Retrouvez chaque administration recruteuse sur son stand virtuel jeudi 16 décembre prochain, de 9h à 18h. 
+Retrouvez chaque administration recruteuse sur son stand virtuel jeudi 16 décembre 2021, de 9h à 18h. 
 
 Plus de 10 recruteurs de l'État dans le domaine du numérique, en visio, seront là pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !
 <br>
@@ -51,6 +51,8 @@ Plus de 10 recruteurs de l'État dans le domaine du numérique, en visio, seront
 
 
 Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webinaire de l’État](https://webinaire.numerique.gouv.fr/faq).
+<br>
+<br>
 <hr>
 <br>
 
@@ -177,6 +179,8 @@ Ancrée au cœur de la capitale, l’Université de Paris figure parmi les étab
 Rejoindre Université de Paris c’est faire le choix de l’exigence et de l’engagement au service de valeurs fortes ; celles du service public, de la rigueur scientifique et intellectuelle mais aussi de la curiosité et de l’ouverture aux autres et au monde.
 
 La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'intervention nécessite des compétences et des ressources dans tous les domaines de l'informatique et du numérique. Des projets riches et captivants vous attendent !
+<br>
+<br>
 <hr>
 <br>
 
