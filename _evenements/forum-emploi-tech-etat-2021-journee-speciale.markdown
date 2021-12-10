@@ -26,9 +26,9 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 
 <h3><b>Les recruteurs</b></h3>
 
-Retrouvez chacun de nos services employeurs sur son stand virtuel jeudi 16 décembre prochain, de 9h à 18h. 
+Retrouvez chaque administration recruteuse sur son stand virtuel jeudi 16 décembre prochain, de 9h à 18h. 
 
-Plus de 10 recruteurs de l'État dans le domaine du numérique seront là, en visio, pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !
+Plus de 10 recruteurs de l'État dans le domaine du numérique, en visio, seront là pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !
 
 Les recruteurs présents :
 * Agence de services et de paiements (ASP)
@@ -47,7 +47,7 @@ La liste continue de s'étoffer !
 <h3><b>Comment participer ?</b></h3>
 **Accès libre, sans inscription.**
 * Choisissez dans la liste ci-dessous le recruteur ou les recruteurs qui vous intéressent
-* Le jour J, jeudi 16 décembre, à partir de 9h et jusqu'à 18h, connectez-vous à son stand virtuel : cliquez sur le bouton "Accéder au stand virtuel", une page de connexion s'ouvre, saisissez votre prénom, vos prénom et nom ou un pseudo, et rejoignez le webinaire.
+* Le jour J, jeudi 16 décembre 2021, à partir de 9h et jusqu'à 18h, connectez-vous à son stand virtuel : cliquez sur le bouton "Accéder au stand virtuel", une page de connexion s'ouvre, saisissez votre prénom, vos prénom et nom ou un pseudo, et rejoignez le webinaire.
 
 
 Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webinaire de l’État](https://webinaire.numerique.gouv.fr/faq).
@@ -95,3 +95,49 @@ Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webin
 </div>
 <br>
 <br>
+
+
+<div align="center"><h2><b>Présentation des recruteurs</b></h2></div>
+* **Agence de services et de paiements (ASP)**
+Depuis plus de 50 ans, l’Agence de services et de paiement met en œuvre des politiques publiques européennes, nationales et locales au cœur des territoires. En 2020, elle a versé  40 milliards d’euros d’aides publiques à 18 millions de bénéficiaires (agriculteurs, entreprises, jeunes…) a géré 200 dispositifs: activité partielle, bonus écologique, chèque énergie, contrats aidés, service civique…
+
+En la choisissant, comme plus de 2 000 agents dans toute la France vous participerez à la transformation numérique de l’action publique, au service des citoyens avec 80 métiers tournés vers l’innovation et la satisfaction des usagers : chef de projet, développeur, data scientist…
+
+
+* **Conseil d’État**
+Depuis plusieurs années, la direction des systèmes d’information (DSI) du Conseil d’État conduit la transformation numérique de la justice administrative pour qu’elle soit plus proche du citoyen.
+
+Elle assure ainsi la conception, la gestion et l’évolution des services essentiels au fonctionnement de la justice administrative, aujourd’hui totalement dématérialisés.
+
+Travailler à la DSI du Conseil d’État c’est faciliter l’accès au juge administratif pour les citoyens, avocats, associations et entreprises par des outils numériques rapides et sécurisés. C’est aussi améliorer les outils de travail numériques de plus de 4 000 personnes qui travaillent dans les juridictions administratives pour instruire et juger les recours en justice.
+
+
+
+* Direction interministérielle du numérique (DINUM)
+
+* Ministère des Armées
+
+
+<h3>Ministère de l’Europe et des Affaires étrangères</h3>
+La direction du numérique du ministère de l’Europe et des Affaires étrangères est chargée des systèmes d’information (conception, intégration, exploitation), de la sécurité des informations confidentielles, de la continuité des services en toutes circonstances, de l’environnement de travail bureautique et de communication, du développement de services aux utilisateurs partout dans le monde.
+
+Sa raison d‘être est d’offrir un environnement numérique de travail fiable, performant et protégé aux 14 000 agents du ministère de l’Europe et des Affaires étrangères, en France et dans le monde, au service du 3e réseau diplomatique mondial.
+
+
+<h4>Ministère de l’Économie, des Finances et de la Relance</h4>
+La sous-direction de l’informatique (SDI) du ministère de l’Économie, des Finances et de la Relance est une entité numérique qui intervient au profit de 10 000 utilisateurs des directions et services des ministères économiques et financiers.  
+
+Constituée de 220 agents, la SDI conçoit et met en œuvre la politique de développement des technologies de l'information, de l'informatique et du travail en réseau. Elle apporte également aux utilisateurs conseil et expertise pour l'analyse des besoins et la définition des solutions adaptées (organisationnelles et techniques).
+
+
+* Ministère de la Justice
+Le service du numérique (SNUM) du Ministère de la justice est un acteur incontournable dans l’évolution des méthodes de travail du Ministère dans un objectif de simplification et de dématérialisation des procédures judiciaires au bénéfice des acteurs de la Justice et des citoyens.
+   
+Ses missions sont de :
+* Favoriser l’accessibilité à des services réactifs et adaptés en proposant des outils et une infrastructure adéquate dans un souci de sécurité, de fiabilité et de rapidité.
+* Accompagner les directions métiers dans l’évolution de leurs pratiques numériques, au service de la Justice, au quotidien.
+* Concevoir et livrer des produits de qualité et facile d’utilisation.
+
+
+* Université Paris 2 Panthéon-Assas / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
+* Université de Paris – Paris Sciences & Lettres
