@@ -102,10 +102,10 @@ L’Université Paris 2 Panthéon-Assas, héritière directe de la Faculté de d
 
 L'Université Paris 2 Panthéon-Assas réunit plusieurs sites agréablement situés. Depuis la Direction de l'Université, située place du Panthéon, il suffit de traverser le jardin du Luxembourg pour rejoindre le Centre Assas, à deux pas de Montparnasse et de Vavin, où se trouve **la Direction des systèmes d'information**. 
 
-Dans cet environnement accueillant, à taille humaine, votre poste vous permettra de travailler à l'interface directe entre 18.000 étudiants et 1.000 personnels enseignants et administratifs.
+Dans cet environnement accueillant, à taille humaine, votre poste vous permettra de travailler à l'interface directe entre 18 000 étudiants et 1 000 personnels enseignants et administratifs.
 
 
-<h4>Université de Paris – Paris Sciences & Lettres</h4>
+<h4><b>Université de Paris – Paris Sciences & Lettres</b></h4>
 
 Ancrée au cœur de la capitale, l’Université de Paris figure parmi les établissements français et internationaux les plus prestigieux grâce à sa recherche de très haut niveau, ses formations supérieures d’excellence, son soutien à l’innovation et sa participation active à la construction de l’espace européen de la recherche et de la formation.
 
