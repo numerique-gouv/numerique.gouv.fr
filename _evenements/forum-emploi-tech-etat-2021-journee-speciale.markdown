@@ -33,7 +33,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   \ font-size: 0.8rem;\n}"
 ---
 
-<nav data-smooth-scroll="" class="grid-x grid-margin-x align-center"> <a href="#comment-participer" class="cell nav-section grid-y medium-6 large-4 black-link"><span class="h5 text-center">Comment participer&nbsp;?</span> <span class="button">Voir plus</span> </a><a href="#presentation-recruteurs" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/comment_ca_marche_administrations.svg"> <span class="h5 text-center">Présentation des recruteurs</span> <span class="button">Voir plus</span> </a><a href="#stands-virtuels" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/forum_virutel.svg"> <span class="h5 text-center">Accéder aux stands virtuels</span> <span class="button">Voir plus</span> </a> </nav>
+<nav data-smooth-scroll="" class="grid-x grid-margin-x align-center"> <a href="#comment-participer" class="cell nav-section grid-y medium-6 large-4 black-link"><span class="h5 text-center">Comment participer&nbsp;?</span> <span class="button">Voir plus</span> </a><a href="#presentation-recruteurs" class="cell nav-section grid-y medium-6 large-4 black-link"> <!--<img alt="" src="/uploads/comment_ca_marche_administrations.svg"> --> <span class="h5 text-center">Présentation des recruteurs</span> <span class="button">Voir plus</span> </a><a href="#stands-virtuels" class="cell nav-section grid-y medium-6 large-4 black-link"> <!-- <img alt="" src="/uploads/forum_virutel.svg">  --> <span class="h5 text-center">Accéder aux stands virtuels</span> <span class="button">Voir plus</span> </a> </nav>
 
 <h3><b>Les recruteurs</b></h3>
 
