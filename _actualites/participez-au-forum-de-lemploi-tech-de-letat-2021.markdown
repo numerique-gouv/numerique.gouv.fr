@@ -7,7 +7,7 @@ chapeau-text: 'Plus de 300 postes dans le numérique au sein du secteur public �
   au 5e Forum de l’emploi tech de l’État, organisé par la DINUM : du 29 novembre au
   15 décembre en ligne et le 16 décembre à Paris.'
 une-ou-diaporama:
-- image: "/uploads/2021_11_03_VISUEL_AGENDA_FORUM_RECRUTEMENT-c8e24b.png"
+- image: "/uploads/1200x600_Visuel%20Agenda%20FETE-en%20ligne_v2-3.png"
 redirection-interne: "/agenda/forum-emploi-tech-etat-2021"
 ---
 
