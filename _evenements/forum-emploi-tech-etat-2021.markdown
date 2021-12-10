@@ -48,7 +48,7 @@ Vous êtes étudiant ou **jeune diplômé d’une école du numérique** et curi
 <section id="menu-talents" class="cell white-container padding-horizontal-1 padding-bottom-3"> 
 <h2 class="text-center font-bold">Au menu</h2> 
 <nav data-smooth-scroll="" class="grid-x grid-margin-x align-center" id="y6sg7r-smooth-scroll" data-o="byw8cz-o"> 
-<a href="#forum-paris" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/Journee-speciale.svg"> <span class="h4 text-center" style="margin-bottom: 1rem"><b>Journée spéciale en ligne</b></span>
+<a href="#forum-16dec" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/Journee-speciale.svg"> <span class="h4 text-center" style="margin-bottom: 1rem"><b>Journée spéciale en ligne</b></span>
 <span class="p text-center" style="margin-bottom: 1rem">Jeudi 16 décembre</span> <span class="button" style="margin-top: 4">Voir le programme</span> </a> 
 <a href="#forum-en-ligne" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/forum_virutel.svg"> 
 <span class="h4 text-center" style="margin-bottom: 1rem"><b>Forum en ligne</b></span><span class="p text-center" style="margin-bottom: 1rem">Du 29 novembre au 15 décembre</span> 
@@ -57,9 +57,9 @@ Vous êtes étudiant ou **jeune diplômé d’une école du numérique** et curi
 
 
 
-<h3 id="forum-paris"><b>Journée spéciale en ligne</b><br> jeudi 16 décembre 2021</h3>
+<h3 id="forum-16dec"><b>Journée spéciale en ligne</b><br> jeudi 16 décembre 2021</h3>
 
-Nouvelles circonstances, nouveau format ! Le Forum de l’emploi tech de l’État ss'adapte aux conditions sanitaires pour la santé et la sécurité de tous.
+Nouvelles circonstances, nouveau format ! Le Forum de l’emploi tech de l’État s'adapte aux conditions sanitaires pour la santé et la sécurité de tous.
 
 La journée initialement prévue en présentiel à Paris passe ainsi en format 100% en ligne. 
 
@@ -81,11 +81,6 @@ Retrouvez chacun de nos services employeurs sur son stand virtuel jeudi 16 déce
 
 Plus de 10 recruteurs de l'État dans le domaine du numérique seront là, en visio, pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !
 
-**Accès libre, sans inscription.** 
-Connectez-vous simplement le jour J au lien qui sera très prochainement fourni sur cette page.
-
-N’hésitez pas, on vous attend !
-
 Les recruteurs présents :
 * Agence de services et de paiements (ASP)
 * Conseil d’État
@@ -98,7 +93,13 @@ Les recruteurs présents :
 * Université de Paris – Paris Sciences & Lettres
 * ...
 
-**La liste continue de s'étoffer !**
+La liste continue de s'étoffer !
+
+**Comment participer ?**
+**Accès libre, sans inscription.** 
+Connectez-vous simplement le jour J aux salons virtuels qui vous intéressent via les liens qui seront fournis sur cette page.
+
+N’hésitez pas, on vous attend !
 <br>
 <br>
 
@@ -146,11 +147,8 @@ L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa rais
 Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.</li></ul>
 
 <div align="center">
-Inscriptions aux ateliers closes
-<br><br>Mais vous pouvez encore participer à la Journée spéciale du 16 décembre ! Pas besoin de vous inscrire, connectez-vous le jour J aux salons en ligne de votre choix
-</div>
-<br>
-<br>
+<p> Inscriptions aux ateliers closes <br><br>Mais vous pouvez encore participer à la Journée spéciale du 16 décembre&nbsp;! Pas besoin de vous inscrire, connectez-vous le jour J aux salons en ligne de votre choix </p><br><hr></div>
+
 <h3 id="forum-en-ligne"><b>Forum en ligne</b> <br>du 29 novembre au 15 décembre 2021 <br>[Inscriptions closes]</h3>
 
 Vous souhaitez participer à cet événement unique, consulter les offres d’emploi dans toute la France, assister aux conférences et au jobdating ? Participez au Forum en ligne ! Créez votre profil sur [notre plateforme en ligne](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211) et déposez-y votre CV.
@@ -248,7 +246,7 @@ Attention, vous avez jusqu'au 2 décembre uniquement pour prendre rendez-vous.
 
 <div align="center">
 <br>Inscriptions closes
-<br>Mais vous pouvez encore participer à la <a href="#forum-paris">Journée spéciale du 16 décembre</a> !
+<br>Mais vous pouvez encore participer à la <a href="#forum-16dec">Journée spéciale du 16 décembre</a> !
 </div>
 <br>
 <br>
