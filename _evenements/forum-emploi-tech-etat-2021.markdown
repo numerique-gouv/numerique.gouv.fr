@@ -9,6 +9,7 @@ tags:
 - Tech
 chapeau-text: |-
   La direction interministérielle du numérique (DINUM) organise la 5e édition du Forum de l’emploi tech de l’État : en ligne du 29 novembre au 15 décembre et une Journée spéciale le 16 décembre. L’occasion de faire se rencontrer recruteurs du secteur public (ministères, collectivités territoriales…) et candidat/es professionnel/les du numérique, issus du secteur public ou du privé. Le Forum sera rythmé par des conférences, un jobdating, des ateliers et des rencontres en ligne.
+
   **Important :** en raison de l'évolution de la situation sanitaire, pour la santé et la sécurité de tous, la journée du 16 décembre, prévue initialement à Paris, est adaptée pour un format 100% en ligne. Nous aurons tout autant  de plaisir à vous recevoir !
 une-ou-diaporama:
 - image: "/uploads/1200x600_Visuel%20Agenda%20FETE-en%20ligne_v2-3.png"
@@ -56,7 +57,7 @@ Vous êtes étudiant ou **jeune diplômé d’une école du numérique** et curi
 
 
 
-<h3 id="forum-paris">Journée spéciale en ligne le jeudi 16 décembre 2021</h3>
+<h3 id="forum-paris"><b>Journée spéciale en ligne</b><br> jeudi 16 décembre 2021</h3>
 
 Nouvelles circonstances, nouveau format ! Le Forum de l’emploi tech de l’État ss'adapte aux conditions sanitaires pour la santé et la sécurité de tous.
 
@@ -95,9 +96,11 @@ Les recruteurs présents :
 * Ministère de la Justice
 * Université Paris 2 Panthéon-Assas / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
 * Université de Paris – Paris Sciences & Lettres
+*...
 
-La liste continue de s'étoffer !
-
+**La liste continue de s'étoffer !**
+<br>
+<br>
 
 #### **Ateliers** [COMPLET]
 
@@ -148,7 +151,7 @@ Inscriptions aux ateliers closes
 </div>
 <br>
 <br>
-<h3 id="forum-en-ligne"><b>Le Forum en ligne du 29 novembre au 15 décembre 2021</b> [Inscriptions closes]</h3>
+<h3 id="forum-en-ligne"><b>Forum en ligne</b> <br>du 29 novembre au 15 décembre 2021 <br>[Inscriptions closes]</h3>
 
 Vous souhaitez participer à cet événement unique, consulter les offres d’emploi dans toute la France, assister aux conférences et au jobdating ? Participez au Forum en ligne ! Créez votre profil sur [notre plateforme en ligne](https://app.seekube.com/forum-de-lemploi-tech-de-letat-20211) et déposez-y votre CV.
 
@@ -245,7 +248,7 @@ Attention, vous avez jusqu'au 2 décembre uniquement pour prendre rendez-vous.
 
 <div align="center">
 <br>Inscriptions closes
-Mais vous pouvez encore participer à la <a href="#forum-paris">Journée spéciale du 16 décembre</a> !
+<br>Mais vous pouvez encore participer à la <a href="#forum-paris">Journée spéciale du 16 décembre</a> !
 </div>
 <br>
 <br>
