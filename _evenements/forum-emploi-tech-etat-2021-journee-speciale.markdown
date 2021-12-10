@@ -85,7 +85,7 @@ Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webin
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3199/creator/178/hash/96e8cf6763674af9e9b0a1a6121fab39c37cb2ac" class="button"><b>Accéder au stand virtuel</b></a></div>
 </div>
 <div class="panel">
-<b>Université Paris 2 Panthéon-Assas / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation</b>
+<b>Université Paris 2 Panthéon-Assas</b><br>Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button"><b>Accéder au stand virtuel</b></a></div>
 </div>
 <div class="panel">
@@ -98,13 +98,13 @@ Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webin
 
 
 <div align="center"><h2><b>Présentation des recruteurs</b></h2></div>
-* **Agence de services et de paiements (ASP)**
+<h4><b>Agence de services et de paiements (ASP)</b></h4>
 Depuis plus de 50 ans, l’Agence de services et de paiement met en œuvre des politiques publiques européennes, nationales et locales au cœur des territoires. En 2020, elle a versé  40 milliards d’euros d’aides publiques à 18 millions de bénéficiaires (agriculteurs, entreprises, jeunes…) a géré 200 dispositifs: activité partielle, bonus écologique, chèque énergie, contrats aidés, service civique…
 
 En la choisissant, comme plus de 2 000 agents dans toute la France vous participerez à la transformation numérique de l’action publique, au service des citoyens avec 80 métiers tournés vers l’innovation et la satisfaction des usagers : chef de projet, développeur, data scientist…
 
 
-* **Conseil d’État**
+<h4><b>Conseil d’État</b></h4>
 Depuis plusieurs années, la direction des systèmes d’information (DSI) du Conseil d’État conduit la transformation numérique de la justice administrative pour qu’elle soit plus proche du citoyen.
 
 Elle assure ainsi la conception, la gestion et l’évolution des services essentiels au fonctionnement de la justice administrative, aujourd’hui totalement dématérialisés.
@@ -118,19 +118,19 @@ Travailler à la DSI du Conseil d’État c’est faciliter l’accès au juge a
 * Ministère des Armées
 
 
-<h3>Ministère de l’Europe et des Affaires étrangères</h3>
+<h4><b>Ministère de l’Europe et des Affaires étrangères</b></h4>
 La direction du numérique du ministère de l’Europe et des Affaires étrangères est chargée des systèmes d’information (conception, intégration, exploitation), de la sécurité des informations confidentielles, de la continuité des services en toutes circonstances, de l’environnement de travail bureautique et de communication, du développement de services aux utilisateurs partout dans le monde.
 
 Sa raison d‘être est d’offrir un environnement numérique de travail fiable, performant et protégé aux 14 000 agents du ministère de l’Europe et des Affaires étrangères, en France et dans le monde, au service du 3e réseau diplomatique mondial.
 
 
-<h4>Ministère de l’Économie, des Finances et de la Relance</h4>
+<h4><b>Ministère de l’Économie, des Finances et de la Relance</b></h4>
 La sous-direction de l’informatique (SDI) du ministère de l’Économie, des Finances et de la Relance est une entité numérique qui intervient au profit de 10 000 utilisateurs des directions et services des ministères économiques et financiers.  
 
 Constituée de 220 agents, la SDI conçoit et met en œuvre la politique de développement des technologies de l'information, de l'informatique et du travail en réseau. Elle apporte également aux utilisateurs conseil et expertise pour l'analyse des besoins et la définition des solutions adaptées (organisationnelles et techniques).
 
 
-* Ministère de la Justice
+<h4><b>Ministère de la Justice</b></h4>
 Le service du numérique (SNUM) du Ministère de la justice est un acteur incontournable dans l’évolution des méthodes de travail du Ministère dans un objectif de simplification et de dématérialisation des procédures judiciaires au bénéfice des acteurs de la Justice et des citoyens.
    
 Ses missions sont de :
@@ -139,5 +139,18 @@ Ses missions sont de :
 * Concevoir et livrer des produits de qualité et facile d’utilisation.
 
 
-* Université Paris 2 Panthéon-Assas / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
-* Université de Paris – Paris Sciences & Lettres
+<h4><b>Université Paris 2 Panthéon-Assas</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
+L’Université Paris 2 Panthéon-Assas, héritière directe de la Faculté de droit et des sciences économiques de Paris, bénéficie d'un enseignement et d'une recherche toujours novateurs et au plus haut niveau. Elle fait vivre et évoluer le droit, en complémentarité avec les sciences économiques et de gestion, la science politique, et les sciences de l’information et de la communication.
+
+L'Université Paris 2 Panthéon-Assas réunit plusieurs sites agréablement situés. Depuis la Direction de l'Université, située place du Panthéon, il suffit de traverser le jardin du Luxembourg pour rejoindre le Centre Assas, à deux pas de Montparnasse et de Vavin, où se trouve **la Direction des systèmes d'information**. 
+
+Dans cet environnement accueillant, à taille humaine, votre poste vous permettra de travailler à l'interface directe entre 18.000 étudiants et 1.000 personnels enseignants et administratifs.
+
+
+<h4>Université de Paris – Paris Sciences & Lettres</h4>
+
+Ancrée au cœur de la capitale, l’Université de Paris figure parmi les établissements français et internationaux les plus prestigieux grâce à sa recherche de très haut niveau, ses formations supérieures d’excellence, son soutien à l’innovation et sa participation active à la construction de l’espace européen de la recherche et de la formation.
+
+Rejoindre Université de Paris c’est faire le choix de l’exigence et de l’engagement au service de valeurs fortes ; celles du service public, de la rigueur scientifique et intellectuelle mais aussi de la curiosité et de l’ouverture aux autres et au monde.
+
+La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'intervention nécessite des compétences et des ressources dans tous les domaines de l'informatique et du numérique. Des projets riches et captivants vous attendent !
