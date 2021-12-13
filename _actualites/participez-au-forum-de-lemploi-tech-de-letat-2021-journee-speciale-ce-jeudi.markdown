@@ -12,6 +12,7 @@ chapeau-text: Jeudi 16 décembre, de 9h à 18h, retrouvez plusieurs administrati
   est fait pour vous.
 une-ou-diaporama:
 - image: "/uploads/Article%20Forum.png"
+redirection-interne: "/agenda/forum-emploi-tech-etat-2021-journee-speciale/"
 ---
 
 <div class="lien-important"><p><a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/"  title="Lire la suite">Lire la suite</a></p></div>
