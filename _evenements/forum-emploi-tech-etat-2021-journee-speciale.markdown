@@ -102,6 +102,8 @@ Chiffres clés :
 * 37 ans d’âge moyen
 * 28 % de femmes
 
+<p align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3273/creator/178/hash/88b0342805c65210399efc1302e4c7a1228eddd3" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
+
 <h4><b>Conseil d’État</b></h4>
 ![ConseilEtat.jpeg](/uploads/ConseilEtat.jpeg)
 Depuis plusieurs années, la direction des systèmes d’information (DSI) du Conseil d’État conduit la transformation numérique de la justice administrative pour qu’elle soit plus proche du citoyen.
@@ -116,7 +118,7 @@ Chiffres clés :
 * 6 000 postes de travail répartis sur 53 sites
 * 650 serveurs virtuels ou physiques
 
-
+<p align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3273/creator/178/hash/88b0342805c65210399efc1302e4c7a1228eddd3" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Direction interministérielle du numérique (DINUM)</b></h4>
 ![logo-dinum.jpg](/uploads/logo-dinum.jpg)
@@ -135,7 +137,7 @@ Chiffres clés :
 * 74% d’agents contractuels
 * 26% de fonctionnaires
 
-
+<p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Ministère des Armées</b></h4>
 ![MINARM.jpeg](/uploads/MINARM.jpeg)
@@ -154,7 +156,7 @@ Chiffres clés :
 * Un budget annuel de près de 2,5 milliards d’euros
 * Des technologies qui servent les administrations et les forces, en France comme à l’étranger
 
-
+<p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3217/creator/178/hash/48a20cb67c79468e8e72c3d98d7ca0b119c9685a" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Ministère de l’Europe et des Affaires étrangères</b></h4>
 ![Min Europe Aff Etrangeres logo.png](/uploads/Min%20Europe%20Aff%20Etrangeres%20logo.png)
@@ -162,7 +164,7 @@ La direction du numérique du ministère de l’Europe et des Affaires étrangè
 
 Sa raison d‘être est d’offrir un environnement numérique de travail fiable, performant et protégé aux 14 000 agents du ministère de l’Europe et des Affaires étrangères, en France et dans le monde, au service du 3e réseau diplomatique mondial.
 
-
+<p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3203/creator/178/hash/8f72105ec3479c5d2be112fe87d7e793b70dc3bb" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Ministère de l’Économie, des Finances et de la Relance</b></h4>
 ![LOGO-MESRI.png](/uploads/LOGO-MESRI.png)
@@ -176,7 +178,7 @@ Chiffres clés :
 * Budget : environ 30 millions d’euros
 * 2 salles informatiques, 1250 serveurs dont 700 virtuels/800 To, 400 informaticiens, 10 000 PC, 2 500 téléphones et + de 200 applications.
 
-
+<p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3198/creator/178/hash/36020366410f5954aa9ce928f33dea9d42bb61ba" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Ministère de la Justice</b></h4>
 ![Ministère_de_la_Justice logo.png](/uploads/Minist%C3%A8re_de_la_Justice%20logo.png)
@@ -191,6 +193,7 @@ Chiffres clés :
 * 880 millions d’euros de budget informatique pour le ministère de la Justice entre 2018-2022, dont 530 millions d’euros alloués au plan de transformation numérique.
 * 200 agents répartis dans 9 départements informatiques de télécommunications
 
+<p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3199/creator/178/hash/96e8cf6763674af9e9b0a1a6121fab39c37cb2ac" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Université Paris 2 Panthéon-Assas</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
 ![640px-Université_Panthéon-Assas_logo.png](/uploads/640px-Universit%C3%A9_Panth%C3%A9on-Assas_logo.png)
@@ -200,7 +203,7 @@ L'Université Paris 2 Panthéon-Assas réunit plusieurs sites agréablement situ
 
 Dans cet environnement accueillant, à taille humaine, votre poste vous permettra de travailler à l'interface directe entre 18 000 étudiants et 1 000 personnels enseignants et administratifs.
 
-
+<p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Université de Paris</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
 ![LOGO-MESRI-f7c9db.png](/uploads/LOGO-MESRI-f7c9db.png)
@@ -209,6 +212,8 @@ Ancrée au cœur de la capitale, l’Université de Paris figure parmi les étab
 Rejoindre Université de Paris c’est faire le choix de l’exigence et de l’engagement au service de valeurs fortes ; celles du service public, de la rigueur scientifique et intellectuelle mais aussi de la curiosité et de l’ouverture aux autres et au monde.
 
 La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'intervention nécessite des compétences et des ressources dans tous les domaines de l'informatique et du numérique. Des projets riches et captivants vous attendent !
+
+<p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3219/creator/178/hash/551368ef3fdefacda170f8d38decc08a6923aef0" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 <br>
 <br>
 <hr>
