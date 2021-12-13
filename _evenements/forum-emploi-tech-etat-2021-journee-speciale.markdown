@@ -79,7 +79,7 @@ La liste continue de s'étoffer !
 
 
 <h4><b>Agence de services et de paiements (ASP)</b></h4>
-![ASP.jpg](/uploads/ASP.jpg)
+<img src="/uploads/ASP.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
 Depuis plus de 50 ans, l’Agence de services et de paiement met en œuvre des politiques publiques européennes, nationales et locales au cœur des territoires. En 2020, elle a versé  40 milliards d’euros d’aides publiques à 18 millions de bénéficiaires (agriculteurs, entreprises, jeunes…) a géré 200 dispositifs: activité partielle, bonus écologique, chèque énergie, contrats aidés, service civique…
 
 En la choisissant, comme plus de 2 000 agents dans toute la France vous participerez à la transformation numérique de l’action publique, au service des citoyens avec 80 métiers tournés vers l’innovation et la satisfaction des usagers : chef de projet, développeur, data scientist…
@@ -87,7 +87,7 @@ En la choisissant, comme plus de 2 000 agents dans toute la France vous particip
 <p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3202/creator/178/hash/89da5780277ee46377ed06b4094e83c0b7fe9c57" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Agence nationale de la sécurité des systèmes d'information (ANSSI)</b></h4>
-![ANSSI.png](/uploads/ANSSI.png)
+<img src="/uploads/ANSSI.png" alt="" style="margin-right: 10px" width="20%" align="left">
 L’agence nationale de la sécurité des systèmes d’information (ANSSI) est l’autorité nationale en matière de cybersécurité et cyberdéfense, chargée d’accompagner et de sécuriser le développement du numérique en France.
 Au quotidien, les 573 agents de l’ANSSI mènent trois missions principales, que sont :
 * La prévention : éviter le succès des attaques informatiques en élevant le niveau de cybersécurité en France et en détectant les attaques rapidement ;
@@ -140,7 +140,7 @@ Chiffres clés :
 <p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Ministère des Armées</b></h4>
-![MINARM.jpeg](/uploads/MINARM.jpeg)
+<img src="/uploads/MINARM.jpeg" alt="" style="margin-right: 10px" width="20%" align="left">
 L’ambition numérique du ministère des Armées est de répondre à trois objectifs stratégiques majeurs :
 * Garantir l’efficacité opérationnelle et la maîtrise de l’information sur les théâtres d’opérations ;
 * Renforcer l’efficience des soutiens (humains, matériels, financiers…) et faciliter le quotidien des personnels ;
