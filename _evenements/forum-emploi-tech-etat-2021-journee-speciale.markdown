@@ -121,7 +121,7 @@ Chiffres clés :
 <p align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3273/creator/178/hash/88b0342805c65210399efc1302e4c7a1228eddd3" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Direction interministérielle du numérique (DINUM)</b></h4>
-<img src="/uploads/logo-dinum.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
+<img src="/uploads/logo-dinum.jpg" alt="" style="margin-right: 10px" width="35%" align="left">
 À la DINUM, nous sommes près de 200 agents. Notre objectif ? Construire un service public performant et humain grâce au numérique. Pour cela, nous accompagnons les ministères dans leur transformation numérique, nous développons des services publics numériques simples et accessibles pour les citoyens (ex : FranceConnect) et des outils de travail plus performants pour les agents (ex : Tchap).
 
 Ses missions consistent notamment à : 
