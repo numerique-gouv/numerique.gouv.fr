@@ -84,6 +84,8 @@ Depuis plus de 50 ans, l’Agence de services et de paiement met en œuvre des p
 
 En la choisissant, comme plus de 2 000 agents dans toute la France vous participerez à la transformation numérique de l’action publique, au service des citoyens avec 80 métiers tournés vers l’innovation et la satisfaction des usagers : chef de projet, développeur, data scientist…
 
+<p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3202/creator/178/hash/89da5780277ee46377ed06b4094e83c0b7fe9c57" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
+
 <h4><b>Agence nationale de la sécurité des systèmes d'information (ANSSI)</b></h4>
 ![ANSSI.png](/uploads/ANSSI.png)
 L’agence nationale de la sécurité des systèmes d’information (ANSSI) est l’autorité nationale en matière de cybersécurité et cyberdéfense, chargée d’accompagner et de sécuriser le développement du numérique en France.
