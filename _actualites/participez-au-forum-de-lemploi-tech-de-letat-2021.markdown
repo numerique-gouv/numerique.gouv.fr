@@ -1,6 +1,6 @@
 ---
 title: Participez au Forum de l’emploi tech de l’État 2021 !
-date: 2021-11-10 15:00:00 +01:00
+date: 2021-10-04 15:00:00 +02:00
 categories:
 - Événement
 chapeau-text: 'Plus de 300 postes dans le numérique au sein du secteur public à retrouver
