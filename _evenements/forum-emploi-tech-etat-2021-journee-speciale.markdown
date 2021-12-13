@@ -159,7 +159,7 @@ Chiffres clés :
 <p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3217/creator/178/hash/48a20cb67c79468e8e72c3d98d7ca0b119c9685a" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Ministère de l’Europe et des Affaires étrangères</b></h4>
-![Min Europe Aff Etrangeres logo.png](/uploads/Min%20Europe%20Aff%20Etrangeres%20logo.png)
+<img src="/uploads/Min%20Europe%20Aff%20Etrangeres%20logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
 La direction du numérique du ministère de l’Europe et des Affaires étrangères est chargée des systèmes d’information (conception, intégration, exploitation), de la sécurité des informations confidentielles, de la continuité des services en toutes circonstances, de l’environnement de travail bureautique et de communication, du développement de services aux utilisateurs partout dans le monde.
 
 Sa raison d‘être est d’offrir un environnement numérique de travail fiable, performant et protégé aux 14 000 agents du ministère de l’Europe et des Affaires étrangères, en France et dans le monde, au service du 3e réseau diplomatique mondial.
@@ -167,7 +167,7 @@ Sa raison d‘être est d’offrir un environnement numérique de travail fiable
 <p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3203/creator/178/hash/8f72105ec3479c5d2be112fe87d7e793b70dc3bb" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Ministère de l’Économie, des Finances et de la Relance</b></h4>
-![LOGO-MESRI.png](/uploads/LOGO-MESRI.png)
+<img src="/uploads/LOGO-MESRI.png" alt="" style="margin-right: 10px" width="20%" align="left">
 La sous-direction de l’informatique (SDI) du ministère de l’Économie, des Finances et de la Relance est une entité numérique qui intervient au profit de 10 000 utilisateurs des directions et services des ministères économiques et financiers. 
  
 Constituée de 220 agents, la SDI conçoit et met en œuvre la politique de développement des technologies de l'information, de l'informatique et du travail en réseau. Elle apporte également aux utilisateurs conseil et expertise pour l'analyse des besoins et la définition des solutions adaptées (organisationnelles et techniques).
@@ -181,7 +181,7 @@ Chiffres clés :
 <p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3198/creator/178/hash/36020366410f5954aa9ce928f33dea9d42bb61ba" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Ministère de la Justice</b></h4>
-![Ministère_de_la_Justice logo.png](/uploads/Minist%C3%A8re_de_la_Justice%20logo.png)
+<img src="/uploads/Minist%C3%A8re_de_la_Justice%20logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
 Le service du numérique (SNUM) du ministère de la Justice est un acteur incontournable dans l’évolution des méthodes de travail du ministère dans un objectif de simplification et de dématérialisation des procédures judiciaires au bénéfice des acteurs de la Justice et des citoyens.
    
 Ses missions sont de :
@@ -196,7 +196,7 @@ Chiffres clés :
 <p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3199/creator/178/hash/96e8cf6763674af9e9b0a1a6121fab39c37cb2ac" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Université Paris 2 Panthéon-Assas</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
-![640px-Université_Panthéon-Assas_logo.png](/uploads/640px-Universit%C3%A9_Panth%C3%A9on-Assas_logo.png)
+<img src="/uploads/640px-Universit%C3%A9_Panth%C3%A9on-Assas_logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
 L’Université Paris 2 Panthéon-Assas, héritière directe de la Faculté de droit et des sciences économiques de Paris, bénéficie d'un enseignement et d'une recherche toujours novateurs et au plus haut niveau. Elle fait vivre et évoluer le droit, en complémentarité avec les sciences économiques et de gestion, la science politique, et les sciences de l’information et de la communication.
 
 L'Université Paris 2 Panthéon-Assas réunit plusieurs sites agréablement situés. Depuis la Direction de l'Université, située place du Panthéon, il suffit de traverser le jardin du Luxembourg pour rejoindre le Centre Assas, à deux pas de Montparnasse et de Vavin, où se trouve **la Direction des systèmes d'information**. 
@@ -206,7 +206,7 @@ Dans cet environnement accueillant, à taille humaine, votre poste vous permettr
 <p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Université de Paris</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
-![LOGO-MESRI-f7c9db.png](/uploads/LOGO-MESRI-f7c9db.png)
+<img src="/uploads/LOGO-MESRI-f7c9db.png" alt="" style="margin-right: 10px" width="20%" align="left">
 Ancrée au cœur de la capitale, l’Université de Paris figure parmi les établissements français et internationaux les plus prestigieux grâce à sa recherche de très haut niveau, ses formations supérieures d’excellence, son soutien à l’innovation et sa participation active à la construction de l’espace européen de la recherche et de la formation.
 
 Rejoindre Université de Paris c’est faire le choix de l’exigence et de l’engagement au service de valeurs fortes ; celles du service public, de la rigueur scientifique et intellectuelle mais aussi de la curiosité et de l’ouverture aux autres et au monde.
