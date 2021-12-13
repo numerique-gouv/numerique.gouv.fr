@@ -84,7 +84,7 @@ Depuis plus de 50 ans, l’Agence de services et de paiement met en œuvre des p
 
 En la choisissant, comme plus de 2 000 agents dans toute la France vous participerez à la transformation numérique de l’action publique, au service des citoyens avec 80 métiers tournés vers l’innovation et la satisfaction des usagers : chef de projet, développeur, data scientist…
 
-<p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3202/creator/178/hash/89da5780277ee46377ed06b4094e83c0b7fe9c57" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3202/creator/178/hash/89da5780277ee46377ed06b4094e83c0b7fe9c57" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 
 <h4><b>Agence nationale de la sécurité des systèmes d'information (ANSSI)</b></h4>
 <img src="/uploads/ANSSI.png" alt="" style="margin-right: 10px" width="20%" align="left">
@@ -206,7 +206,7 @@ Dans cet environnement accueillant, à taille humaine, votre poste vous permettr
 <p align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button">Accéder au stand virtuel, ouverture le 16 décembre à 9h</a></p>
 
 <h4><b>Université de Paris</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
-<img src="/uploads/LOGO-MESRI-f7c9db.png" alt="" style="margin-right: 10px" width="20%" align="left">
+<img src="/uploads/R.3561b241cf13d794e48c1fb3ab13748c.jpeg" alt="" style="margin-right: 10px" width="20%" align="left">
 Ancrée au cœur de la capitale, l’Université de Paris figure parmi les établissements français et internationaux les plus prestigieux grâce à sa recherche de très haut niveau, ses formations supérieures d’excellence, son soutien à l’innovation et sa participation active à la construction de l’espace européen de la recherche et de la formation.
 
 Rejoindre Université de Paris c’est faire le choix de l’exigence et de l’engagement au service de valeurs fortes ; celles du service public, de la rigueur scientifique et intellectuelle mais aussi de la curiosité et de l’ouverture aux autres et au monde.
