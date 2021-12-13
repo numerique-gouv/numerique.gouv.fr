@@ -64,6 +64,7 @@ Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webin
 <div align="center"><h2 id="presentation-recruteurs"><b>Présentation des recruteurs</b></h2></div>
 Les recruteurs présents :
 * Agence de services et de paiements (ASP)
+* Agence nationale de la sécurité des systèmes d'information (ANSSI)
 * Conseil d’État
 * Direction interministérielle du numérique (DINUM)
 * Ministère des Armées
@@ -82,7 +83,20 @@ Depuis plus de 50 ans, l’Agence de services et de paiement met en œuvre des p
 
 En la choisissant, comme plus de 2 000 agents dans toute la France vous participerez à la transformation numérique de l’action publique, au service des citoyens avec 80 métiers tournés vers l’innovation et la satisfaction des usagers : chef de projet, développeur, data scientist…
 
+<h4><b>Agence nationale de la sécurité des systèmes d'information (ANSSI)</b></h4>
+L’agence nationale de la sécurité des systèmes d’information (ANSSI) est l’autorité nationale en matière de cybersécurité et cyberdéfense, chargée d’accompagner et de sécuriser le développement du numérique en France.
+Au quotidien, les 573 agents de l’ANSSI mènent trois missions principales, que sont :
+* La prévention : éviter le succès des attaques informatiques en élevant le niveau de cybersécurité en France et en détectant les attaques rapidement ;
+* L’information et la sensibilisation: faire prendre conscience des risques numériques et diffuser aux différents publics (expert, particulier, dirigeant d’entreprise) les bonnes pratiques à adopter ;
+* La défense : intervenir pour stopper une attaque contre les systèmes d’un bénéficiaire, ou d’une victime autre lorsque la situation le nécessite, et accompagner la reconstruction des SI – rôle de cyberpompiers.
 
+Chiffres clés :
+* 573 agents
+* 81 % de contractuels
+* 12 % de fonctionnaires
+* 7 % de militaires
+* 37 ans d’âge moyen
+* 28 % de femmes
 
 <h4><b>Conseil d’État</b></h4>
 Depuis plusieurs années, la direction des systèmes d’information (DSI) du Conseil d’État conduit la transformation numérique de la justice administrative pour qu’elle soit plus proche du citoyen.
