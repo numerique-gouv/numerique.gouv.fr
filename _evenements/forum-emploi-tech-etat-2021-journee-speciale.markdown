@@ -79,11 +79,13 @@ La liste continue de s'étoffer !
 
 
 <h4><b>Agence de services et de paiements (ASP)</b></h4>
+![ASP.jpg](/uploads/ASP.jpg)
 Depuis plus de 50 ans, l’Agence de services et de paiement met en œuvre des politiques publiques européennes, nationales et locales au cœur des territoires. En 2020, elle a versé  40 milliards d’euros d’aides publiques à 18 millions de bénéficiaires (agriculteurs, entreprises, jeunes…) a géré 200 dispositifs: activité partielle, bonus écologique, chèque énergie, contrats aidés, service civique…
 
 En la choisissant, comme plus de 2 000 agents dans toute la France vous participerez à la transformation numérique de l’action publique, au service des citoyens avec 80 métiers tournés vers l’innovation et la satisfaction des usagers : chef de projet, développeur, data scientist…
 
 <h4><b>Agence nationale de la sécurité des systèmes d'information (ANSSI)</b></h4>
+![ANSSI.png](/uploads/ANSSI.png)
 L’agence nationale de la sécurité des systèmes d’information (ANSSI) est l’autorité nationale en matière de cybersécurité et cyberdéfense, chargée d’accompagner et de sécuriser le développement du numérique en France.
 Au quotidien, les 573 agents de l’ANSSI mènent trois missions principales, que sont :
 * La prévention : éviter le succès des attaques informatiques en élevant le niveau de cybersécurité en France et en détectant les attaques rapidement ;
@@ -99,6 +101,7 @@ Chiffres clés :
 * 28 % de femmes
 
 <h4><b>Conseil d’État</b></h4>
+![ConseilEtat.jpeg](/uploads/ConseilEtat.jpeg)
 Depuis plusieurs années, la direction des systèmes d’information (DSI) du Conseil d’État conduit la transformation numérique de la justice administrative pour qu’elle soit plus proche du citoyen.
 
 Elle assure ainsi la conception, la gestion et l’évolution des services essentiels au fonctionnement de la justice administrative, aujourd’hui totalement dématérialisés.
@@ -114,6 +117,7 @@ Chiffres clés :
 
 
 <h4><b>Direction interministérielle du numérique (DINUM)</b></h4>
+![logo-dinum.jpg](/uploads/logo-dinum.jpg)
 À la DINUM, nous sommes près de 200 agents. Notre objectif ? Construire un service public performant et humain grâce au numérique. Pour cela, nous accompagnons les ministères dans leur transformation numérique, nous développons des services publics numériques simples et accessibles pour les citoyens (ex : FranceConnect) et des outils de travail plus performants pour les agents (ex : Tchap).
 
 Ses missions consistent notamment à : 
@@ -132,6 +136,7 @@ Chiffres clés :
 
 
 <h4><b>Ministère des Armées</b></h4>
+![MINARM.jpeg](/uploads/MINARM.jpeg)
 L’ambition numérique du ministère des Armées est de répondre à trois objectifs stratégiques majeurs :
 * Garantir l’efficacité opérationnelle et la maîtrise de l’information sur les théâtres d’opérations ;
 * Renforcer l’efficience des soutiens (humains, matériels, financiers…) et faciliter le quotidien des personnels ;
@@ -150,6 +155,7 @@ Chiffres clés :
 
 
 <h4><b>Ministère de l’Europe et des Affaires étrangères</b></h4>
+![Min Europe Aff Etrangeres logo.png](/uploads/Min%20Europe%20Aff%20Etrangeres%20logo.png)
 La direction du numérique du ministère de l’Europe et des Affaires étrangères est chargée des systèmes d’information (conception, intégration, exploitation), de la sécurité des informations confidentielles, de la continuité des services en toutes circonstances, de l’environnement de travail bureautique et de communication, du développement de services aux utilisateurs partout dans le monde.
 
 Sa raison d‘être est d’offrir un environnement numérique de travail fiable, performant et protégé aux 14 000 agents du ministère de l’Europe et des Affaires étrangères, en France et dans le monde, au service du 3e réseau diplomatique mondial.
@@ -157,6 +163,7 @@ Sa raison d‘être est d’offrir un environnement numérique de travail fiable
 
 
 <h4><b>Ministère de l’Économie, des Finances et de la Relance</b></h4>
+![LOGO-MESRI.png](/uploads/LOGO-MESRI.png)
 La sous-direction de l’informatique (SDI) du ministère de l’Économie, des Finances et de la Relance est une entité numérique qui intervient au profit de 10 000 utilisateurs des directions et services des ministères économiques et financiers. 
  
 Constituée de 220 agents, la SDI conçoit et met en œuvre la politique de développement des technologies de l'information, de l'informatique et du travail en réseau. Elle apporte également aux utilisateurs conseil et expertise pour l'analyse des besoins et la définition des solutions adaptées (organisationnelles et techniques).
@@ -170,6 +177,7 @@ Chiffres clés :
 
 
 <h4><b>Ministère de la Justice</b></h4>
+![Ministère_de_la_Justice logo.png](/uploads/Minist%C3%A8re_de_la_Justice%20logo.png)
 Le service du numérique (SNUM) du ministère de la Justice est un acteur incontournable dans l’évolution des méthodes de travail du ministère dans un objectif de simplification et de dématérialisation des procédures judiciaires au bénéfice des acteurs de la Justice et des citoyens.
    
 Ses missions sont de :
@@ -183,6 +191,7 @@ Chiffres clés :
 
 
 <h4><b>Université Paris 2 Panthéon-Assas</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
+![640px-Université_Panthéon-Assas_logo.png](/uploads/640px-Universit%C3%A9_Panth%C3%A9on-Assas_logo.png)
 L’Université Paris 2 Panthéon-Assas, héritière directe de la Faculté de droit et des sciences économiques de Paris, bénéficie d'un enseignement et d'une recherche toujours novateurs et au plus haut niveau. Elle fait vivre et évoluer le droit, en complémentarité avec les sciences économiques et de gestion, la science politique, et les sciences de l’information et de la communication.
 
 L'Université Paris 2 Panthéon-Assas réunit plusieurs sites agréablement situés. Depuis la Direction de l'Université, située place du Panthéon, il suffit de traverser le jardin du Luxembourg pour rejoindre le Centre Assas, à deux pas de Montparnasse et de Vavin, où se trouve **la Direction des systèmes d'information**. 
@@ -192,7 +201,7 @@ Dans cet environnement accueillant, à taille humaine, votre poste vous permettr
 
 
 <h4><b>Université de Paris</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
-
+![LOGO-MESRI-f7c9db.png](/uploads/LOGO-MESRI-f7c9db.png)
 Ancrée au cœur de la capitale, l’Université de Paris figure parmi les établissements français et internationaux les plus prestigieux grâce à sa recherche de très haut niveau, ses formations supérieures d’excellence, son soutien à l’innovation et sa participation active à la construction de l’espace européen de la recherche et de la formation.
 
 Rejoindre Université de Paris c’est faire le choix de l’exigence et de l’engagement au service de valeurs fortes ; celles du service public, de la rigueur scientifique et intellectuelle mais aussi de la curiosité et de l’ouverture aux autres et au monde.
@@ -211,6 +220,10 @@ Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son s
 <div class="panel">
 <b>Agence de services et de paiements (ASP)</b> 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3202/creator/178/hash/89da5780277ee46377ed06b4094e83c0b7fe9c57" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+</div>
+<div class="panel">
+<b>Agence nationale de la sécurité des systèmes d’information (ANSSI)</b> 
+<div align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3273/creator/178/hash/88b0342805c65210399efc1302e4c7a1228eddd3" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
 <b>Conseil d’État</b>
