@@ -67,7 +67,6 @@ Les recruteurs présents :
 * Agence nationale de la sécurité des systèmes d'information (ANSSI)
 * Conseil d’État
 * Direction interministérielle du numérique (DINUM)
-* Ministère des Armées
 * Ministère de l’Europe et des Affaires étrangères
 * Ministère de l’Économie, des Finances et de la Relance
 * Ministère de la Justice
@@ -138,25 +137,6 @@ Chiffres clés :
 * 26% de fonctionnaires
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
-
-<h4><b>Ministère des Armées</b></h4>
-<img src="/uploads/MINARM.jpeg" alt="" style="margin-right: 10px" width="20%" align="left">
-L’ambition numérique du ministère des Armées est de répondre à trois objectifs stratégiques majeurs :
-* Garantir l’efficacité opérationnelle et la maîtrise de l’information sur les théâtres d’opérations ;
-* Renforcer l’efficience des soutiens (humains, matériels, financiers…) et faciliter le quotidien des personnels ;
-* Améliorer la relation au citoyen et l’attractivité du ministère.
-
-C’est une transformation au service de tous pour renforcer la performance opérationnelle de nos armées, mais aussi pour faciliter le quotidien, partout et tout le temps. Concrètement, cela se traduit notamment par :
-* de nouveaux services et applications numériques développés à destination des agents et de leurs familles ;
-* des applications et processus métiers pour faciliter et simplifier le travail quotidien des agents ;
-* des démarches administratives dématérialisées pour les usagers du ministère.
-
-Chiffres clés :
-* Plus de 1 500 systèmes d’informations et de communication,
-* Un budget annuel de près de 2,5 milliards d’euros
-* Des technologies qui servent les administrations et les forces, en France comme à l’étranger
-
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3217/creator/178/hash/48a20cb67c79468e8e72c3d98d7ca0b119c9685a" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 
 <h4><b>Ministère de l’Europe et des Affaires étrangères</b></h4>
 <img src="/uploads/Min%20Europe%20Aff%20Etrangeres%20logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
