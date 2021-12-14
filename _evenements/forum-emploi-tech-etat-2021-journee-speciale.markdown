@@ -222,10 +222,6 @@ Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son s
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
-<b>Ministère des Armées</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3217/creator/178/hash/48a20cb67c79468e8e72c3d98d7ca0b119c9685a" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
-</div>
-<div class="panel">
 <b>Ministère de l’Europe et des Affaires étrangères</b>
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3203/creator/178/hash/8f72105ec3479c5d2be112fe87d7e793b70dc3bb" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
