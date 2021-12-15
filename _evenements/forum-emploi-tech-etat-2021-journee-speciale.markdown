@@ -44,7 +44,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 <ul><li><b>Des stands virtuels</b>
 <br>Retrouvez chaque administration recruteuse sur son stand virtuel jeudi 16 décembre 2021, de 9h à 18h. 
 <br>
-<br>9 recruteurs de l'État dans le domaine du numérique, en visio, seront là pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !<br><br></li></ul>
+<br>9 recruteurs de l'État dans le domaine du numérique, en visio, seront là pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !<br><br></li>
 
 <li><b>Des ateliers de développement professionnel</b>
 Des <a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/#ateliers">ateliers de développement professionnel</a> sont également organisés au cours de cette journée du 16 décembre, 100% en ligne, sur inscription.</li></ul>
@@ -87,6 +87,8 @@ Des <a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/#ateliers">ate
 <li>Ministère de la Justice</li>
 <li>Préfecture de Police de Paris</li>
 <li>Université de Paris / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation</li></ul>
+<br>
+<br>
 
 <h4><b>Agence de services et de paiements (ASP)</b></h4>
 <img src="/uploads/ASP.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
@@ -95,6 +97,8 @@ Depuis plus de 50 ans, l’Agence de services et de paiement met en œuvre des p
 En la choisissant, comme plus de 2 000 agents dans toute la France vous participerez à la transformation numérique de l’action publique, au service des citoyens avec 80 métiers tournés vers l’innovation et la satisfaction des usagers : chef de projet, développeur, data scientist…
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3202/creator/178/hash/89da5780277ee46377ed06b4094e83c0b7fe9c57" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Agence nationale de la sécurité des systèmes d'information (ANSSI)</b></h4>
 <img src="/uploads/ANSSI.png" alt="" style="margin-right: 10px" width="20%" align="left">
@@ -113,6 +117,8 @@ En la choisissant, comme plus de 2 000 agents dans toute la France vous particip
 <li>28 % de femmes</li></ul></p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3273/creator/178/hash/88b0342805c65210399efc1302e4c7a1228eddd3" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Conseil d’État</b></h4>
 <img src="/uploads/ConseilEtat.jpeg" alt="" style="margin-right: 10px" width="20%" align="left">
@@ -129,6 +135,8 @@ En la choisissant, comme plus de 2 000 agents dans toute la France vous particip
 <li>650 serveurs virtuels ou physiques</li></ul></p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3200/creator/178/hash/66fba25e7e90ba58b9f3d8835304a024de3ca054" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Direction interministérielle du numérique (DINUM)</b></h4>
 <img src="/uploads/logo-dinum.jpg" alt="" style="margin-right: 10px" width="35%" align="left">
@@ -148,6 +156,8 @@ En la choisissant, comme plus de 2 000 agents dans toute la France vous particip
 <li>26% de fonctionnaires</li></ul></p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 10h</p></div>
+<br>
+<br>
 
 <h4><b>Ministère de l’Europe et des Affaires étrangères</b></h4>
 <img src="/uploads/Min%20Europe%20Aff%20Etrangeres%20logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
@@ -156,6 +166,8 @@ En la choisissant, comme plus de 2 000 agents dans toute la France vous particip
 <p>Sa raison d‘être est d’offrir un environnement numérique de travail fiable, performant et protégé aux 14 000 agents du ministère de l’Europe et des Affaires étrangères, en France et dans le monde, au service du 3e réseau diplomatique mondial.</p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3203/creator/178/hash/8f72105ec3479c5d2be112fe87d7e793b70dc3bb" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Ministère de l’Économie, des Finances et de la Relance</b></h4>
 <img src="/uploads/LOGO-MESRI.png" alt="" style="margin-right: 10px" width="20%" align="left">
@@ -170,17 +182,19 @@ En la choisissant, comme plus de 2 000 agents dans toute la France vous particip
 <li>2 salles informatiques, 1250 serveurs dont 700 virtuels/800 To, 400 informaticiens, 10 000 PC, 2 500 téléphones et + de 200 applications.</li></ul>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3198/creator/178/hash/36020366410f5954aa9ce928f33dea9d42bb61ba" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Ministère de la Justice</b></h4>
 <img src="/uploads/Minist%C3%A8re_de_la_Justice%20logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
 <p>Le service du numérique (SNUM) du ministère de la Justice est un acteur incontournable dans l’évolution des méthodes de travail du ministère dans un objectif de simplification et de dématérialisation des procédures judiciaires au bénéfice des acteurs de la Justice et des citoyens.</p>
    
-Ses missions sont de :
+<p>Ses missions sont de :</p>
 <ul><li>Favoriser l’accessibilité à des services réactifs et adaptés en proposant des outils et une infrastructure adéquate dans un souci de sécurité, de fiabilité et de rapidité.</li>
 <li>Accompagner les directions métiers dans l’évolution de leurs pratiques numériques, au service de la Justice, au quotidien.</li>
 <li>Concevoir et livrer des produits de qualité et facile d’utilisation.</li></ul>
 
-Chiffres clés :
+<p>Chiffres clés :</p>
 <ul><li>880 millions d’euros de budget informatique pour le ministère de la Justice entre 2018-2022, dont 530 millions d’euros alloués au plan de transformation numérique.</li>
 <li>200 agents répartis dans 9 départements informatiques de télécommunications</li></ul>
 
@@ -195,6 +209,8 @@ Chiffres clés :
 <p>Elle s’attache également à apporter un service public de qualité aux citoyens dans les nombreux domaines qui lui incombent, comme la délivrance des titres administratifs, la gestion de la circulation et du stationnement ou la protection des consommateurs. Elle remplit enfin des missions d’expertise sans équivalent à travers sa police technique et scientifique, son institut médico-légal, son infirmerie psychiatrique ou son laboratoire central.</p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3319/creator/178/hash/2c8eae83b86d27f51d8a04fec323b8fc01f31b61" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Université de Paris</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
 <img src="/uploads/R.3561b241cf13d794e48c1fb3ab13748c.jpeg" alt="" style="margin-right: 10px" width="20%" align="left">
@@ -205,7 +221,6 @@ Chiffres clés :
 <p>La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'intervention nécessite des compétences et des ressources dans tous les domaines de l'informatique et du numérique. Des projets riches et captivants vous attendent !</p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3219/creator/178/hash/551368ef3fdefacda170f8d38decc08a6923aef0" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
-
 <br>
 <br>
 <hr>
@@ -214,6 +229,8 @@ Chiffres clés :
 <div align="center"><h2 id="stands-virtuels"><b>Les stands virtuels des recruteurs</b></h2></div>
 Pour participer aux stands virtuels, pas besoin de vous inscrire !
 Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son stand virtuel le jour J, jeudi 16 décembre 2021, quand vous le souhaitez, de 9h à 18h.
+<br>
+<br>
 
 <div class="wrapper">
 <div class="panel">
