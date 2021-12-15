@@ -69,16 +69,16 @@ Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webin
 <a href="#ateliers" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/forum_virutel.svg"> <span class="h5 text-center">Ateliers</span> <span class="button">Voir plus</span> </a> </nav> 
 
 <div align="center"><h2 id="presentation-recruteurs"><b>Présentation des recruteurs</b></h2></div>
-Les recruteurs présents :
-* Agence de services et de paiements (ASP)
-* Agence nationale de la sécurité des systèmes d'information (ANSSI)
-* Conseil d’État
-* Direction interministérielle du numérique (DINUM)
-* Ministère de l’Europe et des Affaires étrangères
-* Ministère de l’Économie, des Finances et de la Relance
-* Ministère de la Justice
-* Préfecture de Police de Paris
-* Université de Paris / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
+<p>Les recruteurs présents :</p>
+<ul><li>Agence de services et de paiements (ASP)</li>
+<li>Agence nationale de la sécurité des systèmes d'information (ANSSI)</li>
+<li>Conseil d’État</li>
+<li>Direction interministérielle du numérique (DINUM)</li>
+<li>Ministère de l’Europe et des Affaires étrangères</li>
+<li>Ministère de l’Économie, des Finances et de la Relance</li>
+<li>Ministère de la Justice</li>
+<li>Préfecture de Police de Paris</li>
+<li>Université de Paris / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation</li></ul>
 
 <h4><b>Agence de services et de paiements (ASP)</b></h4>
 <img src="/uploads/ASP.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
