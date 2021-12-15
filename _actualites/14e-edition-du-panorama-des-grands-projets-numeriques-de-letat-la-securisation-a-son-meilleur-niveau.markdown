@@ -5,7 +5,7 @@ date: 2021-12-15 10:36:00 +01:00
 categories:
 - Publication
 tags:
-- Panorama des grands projets numérique de l'Etat
+- Panorama des grands projets numériques de l'État
 - Sécurisation
 chapeau-text: Chaque semestre, la DINUM publie un état des lieux des projets informatiques
   majeurs de l’État, notamment tous ceux dont le coût dépasse 9 M€. Cette 14e édition
