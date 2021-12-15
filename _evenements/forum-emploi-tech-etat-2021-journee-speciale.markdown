@@ -63,7 +63,7 @@ Des <a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/#ateliers">ate
 <h3 id="comment-participer"><b>Comment participer aux ateliers ?</b></h3>
 <p><b>Gratuit, sur inscription.</b></p>
 <ul><li>Choisissez dans la liste ci-dessous l'atelier qui vous intéresse</li>
-<li>Inscrivez-vous via le bouton en bas de la liste
+<li>Inscrivez-vous via le bouton en bas de la liste</li>
 <li>Le jour J, jeudi 16 décembre 2021, à l'heure de votre atelier, connectez-vous au lien fourni lors de votre inscription.</li></ul>
 
 <p>Pour connaître les recommandations techniques, rendez-vous sur <a href="https://webinaire.numerique.gouv.fr/faq" title="la FAQ du webinaire de l’État">la FAQ du webinaire de l’État</a>.
