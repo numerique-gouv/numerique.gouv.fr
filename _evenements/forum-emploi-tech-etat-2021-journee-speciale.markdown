@@ -249,7 +249,7 @@ Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son s
 <br>
 <hr>
 <br>
-<h4 id="ateliers"><b>Ateliers</b>
+<h4 id="ateliers"><b>Ateliers</b></h4>
 
 ***Le 16 décembre, en ligne***
 
