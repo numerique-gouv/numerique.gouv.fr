@@ -27,7 +27,7 @@ une-ou-diaporama:
 ## Une sécurisation au plus fort 
 Voilà 4 éditions consécutives du panorama que les taux de dérive des grands projets numériques de l’État, tant calendaire que budgétaire, ne cessent de baisser. Ce 14e panorama enregistre ainsi des taux inédits, au plus bas depuis sa première publication fin 2016, pour la première fois depuis cinq ans tous deux sous la barre des 20% : 13,5% de glissement budgétaire moyen (-14,9 points par rapport à novembre 2020) et 15,4% de glissement calendaire moyen (-9,2 points). En deux ans, les progrès accomplis correspondent à des dépenses évitées d’environ 600 M€.
 
-## Une coopération renforcée qui porte ses fruits 
+### Une coopération renforcée qui porte ses fruits 
 Ces excellents résultats sont pour l’essentiel le fruit des efforts collectifs des ministères, avec l’appui de la DINUM, entrepris depuis 2 ans pour renforcer le pilotage des grands projets, réduire leur taille et positionner des jalons intermédiaires permettant de détecter d’éventuelles défaillances le plus tôt possible.
 
 C’est aussi le succès d’un changement de paradigme : depuis le programme d’accélération de la transformation numérique du service public [TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), la DINUM a complété son action historique d’audit par une offre de conseil, qui intervient en amont pour cadrer les projets, mais aussi au cours des projets pour rectifier leur trajectoire avant que l’administration n’en perde définitivement le contrôle. Ainsi mieux cadrés dès le début, mieux pilotés, les projets partent et restent sur de bons rails et les risques de dérives sont réduits.
