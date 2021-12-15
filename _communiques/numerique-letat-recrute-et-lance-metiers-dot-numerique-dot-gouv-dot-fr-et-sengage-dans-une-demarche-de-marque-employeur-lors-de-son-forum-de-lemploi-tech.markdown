@@ -1,5 +1,5 @@
 ---
-title: 'Numérique : l’état recrute et lance metiers.numerique.gouv.fr et s’engage
+title: 'Numérique : l’État recrute et lance metiers.numerique.gouv.fr et s’engage
   dans une démarche de marque employeur lors de son forum de l’emploi tech'
 date: 2021-12-15 14:06:00 +01:00
 categories:
