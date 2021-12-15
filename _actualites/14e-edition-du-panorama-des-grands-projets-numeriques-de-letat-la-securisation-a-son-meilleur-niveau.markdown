@@ -49,7 +49,7 @@ Avec 31 millions d’utilisateurs dont 10 millions qui l’utilisent plus de 4 f
 ## 5 grands projets numériques entrants
 5 nouveaux projets majeurs font leur entrée et seront désormais suivis dans notre tableau de bord : **France Sésame** (mise en place d’un point de contact unique aux frontières), **la refonte du système d’immatriculation des véhicules** (SIV), **Procédure pénale numérique** (PPN), **Intelligence emploi** (outil de soutien à l’accompagnement des demandeurs d’emploi) et **Géoplateforme** (plateforme nationale des données géographiques souveraines).
 
-**Dont 3 grands projets impactant la vie quotidienne des citoyens**
+## Dont 3 grands projets impactant la vie quotidienne des citoyens
 
 * Le **système d’immatriculation des véhicules** (SIV) est un outil stratégique de l’État au cœur de plusieurs politiques publiques (sécurité routière, fiscalité, environnement, luttes contre la délinquance et la fraude). Porté par le ministère de l’Intérieur, ce système héberge un parc roulant de plus de 45 millions de véhicules, et près de 31 millions d’opérations liées à l'immatriculation par an. **La refonte du SIV** vise à améliorer sa résilience et sa sécurité, et à développer un outil modulaire pour mieux répondre aux exigences législatives et réglementaires, et aux besoins des particuliers comme des professionnels de l'automobile. 
 
