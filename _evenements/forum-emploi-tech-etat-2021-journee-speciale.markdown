@@ -276,15 +276,15 @@ Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son s
 <br>
 <h4 id="ateliers"><b>Ateliers</b></h4>
 
-***Le 16 décembre, en ligne***
+<p><b><i>Le 16 décembre, en ligne</i></b></p>
 
-Participez à ces ateliers ludiques centrés sur le développement personnel et professionnel. Nombre de places **limité à 25 personnes** par atelier. **Réservez rapidement !**
+<p>Participez à ces ateliers ludiques centrés sur le développement personnel et professionnel. Nombre de places <b>limité à 25 personnes</b> par atelier. <b>Réservez rapidement !</b>
 
-<ul><li style="margin-bottom: 40px"><b><span lang="en">Se présenter avec « l'elevator pitch »</span></b>
+<ul><li style="margin-bottom: 40px"><b><span lang="en">Se présenter avec «&nbsp;l'elevator pitch&nbsp;»</span></b>
 <br>De 9h30 à 11h, de 14h à 15h30
 <br>
 <br>
-Cet atelier permet à chaque participant de s’approprier la méthode pour construire un <span lang="en">elevator pitch »</span> efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.</li>
+Cet atelier permet à chaque participant de s’approprier la méthode pour construire un <span lang="en">«&nbsp;elevator pitch&nbsp;»</span> efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.</li>
 
 <li style="margin-bottom: 40px"><b><span lang="en">Capter l'attention avec le Storytelling</span></b>
 <br>De 11h30 à 13h, de 16h à 17h30
