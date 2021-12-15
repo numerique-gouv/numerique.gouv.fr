@@ -267,38 +267,38 @@ Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son s
 
 Participez à ces ateliers ludiques centrés sur le développement personnel et professionnel. Nombre de places **limité à 25 personnes** par atelier. **Réservez rapidement !**
 
-<ul><li style="margin-bottom: 40px"><b><span lang="en">[Complet] Se présenter avec « l'elevator pitch »</span></b>
+<ul><li style="margin-bottom: 40px"><b><span lang="en">Se présenter avec « l'elevator pitch »</span></b>
 <br>De 9h30 à 11h, de 14h à 15h30
 <br>
 <br>
 Cet atelier permet à chaque participant de s’approprier la méthode pour construire un <span lang="en">elevator pitch »</span> efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.</li>
 
-<li style="margin-bottom: 40px"><b><span lang="en">[Complet] Capter l'attention avec le Storytelling</span></b>
+<li style="margin-bottom: 40px"><b><span lang="en">Capter l'attention avec le Storytelling</span></b>
 <br>De 11h30 à 13h, de 16h à 17h30
 <br>
 <br>
 Au cours de cet atelier, les participants font connaissance avec les techniques clés utilisées dans les histoires à fort impact, ils se les approprient pour repérer, dans leur parcours professionnel, les différents éléments qui peuvent constituer l’arc narratif de leur histoire professionnelle. Ils ont la possibilité de commencer à construire leur récit.</li>
 
-<li style="margin-bottom: 40px"><b><span lang="en">[Complet] Décryptage de l'offre et préparation entretien</span></b>
+<li style="margin-bottom: 40px"><b><span lang="en">Décryptage de l'offre et préparation entretien</span></b>
 <br>De 12h à 13h, de 17h à 18h
 <br>
 <br>
 Une offre d'emploi intègre une mine d'informations sur le poste que vous rêvez de décrocher ! En tant que candidat, votre première mission sera d'en extraire les éléments les plus importants afin d'anticiper le schéma de sélection du recruteur et d'optimiser vos chances de réussite. Dans cet atelier, nous analyserons point par point les grandes séquences d'une offre d'emploi et nous dénicherons tous les messages qui s'y dissimulent. A l'issue de cette phase exploratoire, nous construirons le schéma de questionnement de votre entretien avec un seul objectif : garder le contrôle et franchir cette étape avec brio !</li>
 
-<li style="margin-bottom: 40px"><b><span lang="en">[Complet] Postures de candidat sur les réseaux sociaux</span></b>
+<li style="margin-bottom: 40px"><b><span lang="en">Postures de candidat sur les réseaux sociaux</span></b>
 <br>De 13h à 14h, de 17h à 19h
 <br>
 <br>
 En 2021, nous ne pouvons que constater l'influence croissante de LinkedIn sur les comportements des recruteurs mais aussi des candidats. Bien au-delà du CV, votre vitrine professionnelle sera votre atout majeur dans la quête de votre job de rêve. Dans cet atelier, nous vous aiderons à renforcer votre attractivité candidat grâce une présence maîtrisée sur cet outil incontournable. Outre les fondamentaux, vous apprendrez à y communiquer sur vos expertises, vos expériences, vos réalisations...
 Comment s'y prendre ? Quelles sont les meilleures pratiques actuelles ? Ce sera l'occasion d'échanger dans le cadre de cet atelier collaboratif.</li>
 
-<li style="margin-bottom: 40px"><b><span lang="en">[Complet] L'ikigaï ou comment donner du sens à son projet</span></b>
+<li style="margin-bottom: 40px"><b><span lang="en">L'ikigaï ou comment donner du sens à son projet</span></b>
 <br>De 9h30 à 11h, de 14h à 15h30
 <br>
 <br>
 L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa raison d’être professionnelle et/ou personnelle en croisant sa réflexion notamment autour de 4 axes. En ce sens, il constitue un outil d'introspection essentiel lors d'un (re)positionnement professionnel ; il répond aussi à la quête de sens au travail. Néanmoins, plus qu'un simple outil, l'ikigaï est une véritable philosophie de vie à laquelle les participants vont également être initiés pendant l'atelier.</li>
 
-<li style="margin-bottom: 40px"><b><span lang="en">[Complet] Réussir une mobilité en prenant conscience de ses ressources</span></b>
+<li style="margin-bottom: 40px"><b><span lang="en">Réussir une mobilité en prenant conscience de ses ressources</span></b>
 <br>De 11h30 à 13h, de 16h à 17h30
 <br>
 <br>
