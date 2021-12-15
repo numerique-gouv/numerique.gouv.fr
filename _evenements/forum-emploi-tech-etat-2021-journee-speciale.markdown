@@ -53,12 +53,20 @@ Des <a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/#ateliers">ate
 
 
 <h3 id="comment-participer"><b>Comment participer aux stands virtuels ?</b></h3>
-**Accès libre et gratuit, sans inscription.**
-* Choisissez dans la liste ci-dessous le recruteur ou les recruteurs qui vous intéressent
-* Le jour J, jeudi 16 décembre 2021, à partir de 9h et jusqu'à 18h, à l'heure que vous souhaitez, connectez-vous à son stand virtuel : cliquez sur le bouton « Accéder au stand virtuel », une page de connexion s'ouvre, saisissez votre nom et rejoignez le webinaire.
-* Au moment de la connexion ou une fois connecté/e, vous choisissez d'activer ou non votre caméra
+<p><b>Accès libre et gratuit, sans inscription.</b></p>
+<ul><li>Choisissez dans la liste ci-dessous le recruteur ou les recruteurs qui vous intéressent</li>
+<li>Le jour J, jeudi 16 décembre 2021, à partir de 9h et jusqu'à 18h, à l'heure que vous souhaitez, connectez-vous à son stand virtuel : cliquez sur le bouton « Accéder au stand virtuel », une page de connexion s'ouvre, saisissez votre nom et rejoignez le webinaire.</li>
+<li>Au moment de la connexion ou une fois connecté/e, vous choisissez d'activer ou non votre caméra</li></ul>
 
-Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webinaire de l’État](https://webinaire.numerique.gouv.fr/faq).
+<p>Pour connaître les recommandations techniques, rendez-vous sur <a href="https://webinaire.numerique.gouv.fr/faq" title="la FAQ du webinaire de l’État">la FAQ du webinaire de l’État</a>.
+
+<h3 id="comment-participer"><b>Comment participer aux ateliers ?</b></h3>
+<p><b>Gratuit, sur inscription.</b></p>
+<ul><li>Choisissez dans la liste ci-dessous l'atelier qui vous intéresse</li>
+<li>Inscrivez-vous via le bouton en bas de la liste
+<li>Le jour J, jeudi 16 décembre 2021, à l'heure de votre atelier, connectez-vous au lien fourni lors de votre inscription.</li></ul>
+
+<p>Pour connaître les recommandations techniques, rendez-vous sur <a href="https://webinaire.numerique.gouv.fr/faq" title="la FAQ du webinaire de l’État">la FAQ du webinaire de l’État</a>.
 <br>
 <br>
 <hr>
