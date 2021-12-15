@@ -1,0 +1,25 @@
+---
+title: '14e édition du panorama des grands projets numériques de l’État : la sécurisation
+  à son meilleur niveau'
+date: 2021-12-15 10:36:00 +01:00
+chapeau-text: Chaque semestre, la DINUM publie un état des lieux des projets informatiques
+  majeurs de l’État, notamment tous ceux dont le coût dépasse 9 M€. Cette 14e édition
+  du panorama des grands projets numériques de l’État enregistre les plus bas taux
+  de glissements depuis la première édition.
+---
+
+Une sécurisation au plus fort 
+Voilà 4 éditions consécutives du panorama que les taux de dérive des grands projets numériques de l’État, tant calendaire que budgétaire, ne cessent de baisser. Ce 14e panorama enregistre ainsi des taux inédits, au plus bas depuis sa première publication fin 2016, pour la première fois depuis cinq ans tous deux sous la barre des 20% : 13,5% de glissement budgétaire moyen (-14,9 points par rapport à novembre 2020) et 15,4% de glissement calendaire moyen (-9,2 points). En deux ans, les progrès accomplis correspondent à des dépenses évitées d’environ 600 M€.
+
+Une coopération renforcée qui porte ses fruits 
+Ces excellents résultats sont pour l’essentiel le fruit des efforts collectifs des ministères, avec l’appui de la DINUM, entrepris depuis 2 ans pour renforcer le pilotage des grands projets, réduire leur taille et positionner des jalons intermédiaires permettant de détecter d’éventuelles défaillances le plus tôt possible.
+
+C’est aussi le succès d’un changement de paradigme : depuis le programme d’accélération de la transformation numérique du service public TECH.GOUV, la DINUM a complété son action historique d’audit par une offre de conseil, qui intervient en amont pour cadrer les projets, mais aussi au cours des projets pour rectifier leur trajectoire avant que l’administration n’en perde définitivement le contrôle. Ainsi mieux cadrés dès le début, mieux pilotés, les projets partent et restent sur de bons rails et les risques de dérives sont réduits.
+
+(Re)découvrez notre offre de conseil au cadrage et pilotage de projets numériques
+
+<div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">La 14e édition en bref :</h2>
+<p><ul><li><b>50</b> grands projets numériques suivis</li>
+<li><b>2,62 milliards d'euros</b> de coûts complets estimés</li>
+<li><b>4 projets sortants et 5 projets entrants</b> renouvelé</li>
+<li><b>Des taux d'écart au plus bas</b></li></ul></p></div>
