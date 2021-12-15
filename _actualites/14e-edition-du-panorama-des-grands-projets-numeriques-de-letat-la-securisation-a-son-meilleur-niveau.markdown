@@ -25,7 +25,8 @@ Ces excellents résultats sont pour l’essentiel le fruit des efforts collectif
 
 C’est aussi le succès d’un changement de paradigme : depuis le programme d’accélération de la transformation numérique du service public [TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), la DINUM a complété son action historique d’audit par une offre de conseil, qui intervient en amont pour cadrer les projets, mais aussi au cours des projets pour rectifier leur trajectoire avant que l’administration n’en perde définitivement le contrôle. Ainsi mieux cadrés dès le début, mieux pilotés, les projets partent et restent sur de bons rails et les risques de dérives sont réduits.
 
-<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/">(Re)découvrez notre offre de conseil au cadrage et pilotage de projets numériques</a></p></div>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/">(Re)découvrez notre offre de conseil au cadrage 
+<br>et pilotage de projets numériques</a></p></div>
 
 <div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">La 14e édition en bref :</h2>
 <p><ul><li><b>50</b> grands projets numériques suivis</li>
