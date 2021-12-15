@@ -1,6 +1,6 @@
 ---
 title: Panorama des grands projets numériques de l’État
-date: 2020-11-16 15:58:00 +01:00
+date: 2021-12-15 01:58:00 +01:00
 permalink: "/publications/panorama-grands-projets-si/"
 tags:
 - Panorama des grands projets numériques de l'État
@@ -8,7 +8,7 @@ tags:
 - Informatique
 position: 6
 chapeau-text: |-
-  Édition de juillet 2020
+  Édition de novembre 2021
   La DINUM publie chaque trimestre le panorama des grands projets numériques de l’État. Il recense et décrit les projets informatiques au sein de l’État les plus stratégiques ou sensibles, notamment tous ceux dont le coût dépasse 9 M€ (détails dans la FAQ). Ce suivi régulier permet à la DINUM de proposer des actions de sécurisation et de nouvelles trajectoires à certains projets, dans une approche centrée utilisateurs, afin de fournir des solutions numériques performantes, correspondant aux usages et besoins de l’utilisateur.
 layout: default
 ---
@@ -20,7 +20,7 @@ layout: default
 changer pour : {: .text-center .padding-vertical-3} 
 -->
 
-> Édition de juillet 2021
+> Édition de novembre 2021
 > 
 > La DINUM publie chaque semestre le panorama des grands projets numériques de l’État. Il recense et décrit les projets informatiques au sein de l’État les plus stratégiques ou sensibles, notamment tous ceux dont le coût dépasse 9 M€ (détails dans la FAQ). Ce suivi régulier permet à la DINUM de proposer des actions de sécurisation et de nouvelles trajectoires à certains projets, dans une approche centrée utilisateurs, afin de fournir des solutions numériques performantes, correspondant aux usages et besoins de l’utilisateur.
 > 
@@ -33,4 +33,4 @@ changer pour : {: .text-center .padding-vertical-3}
 <div class="responsive-embed iframe">
   <iframe class="no-border" title="Panorama des grands projets numériques de l’État" src="https://disic.github.io/panorama/" allowfullscreen></iframe>
 </div>
-<p class="margin-top-3 margin-left-3">Télécharger les données en format tableur : <a href="https://www.data.gouv.fr/fr/datasets/r/b2f8a9c2-1368-443f-a2e6-b5f7353d48c0" title="fichier ods (35 Ko) - Lien externe">fichier ods (35 Ko)</a>  -  <a href="https://www.data.gouv.fr/fr/datasets/r/a6548843-1c8d-4430-9c3e-8626ca19990e" title="fichier xls (45 Ko) - Lien externe">fichier xls - 45 Ko</a></p>
+<p class="margin-top-3 margin-left-3">Télécharger les données en format tableur : <a href="https://www.data.gouv.fr/fr/datasets/r/d4b2eeb6-4c3e-4b0b-8d12-4cfd642597db" title="fichier ods (34 Ko) - Lien externe">fichier ods (34 Ko)</a>  -  <a href="https://www.data.gouv.fr/fr/datasets/r/c1d77aa2-115c-495e-9751-1630833218d5" title="fichier xls (45 Ko) - Lien externe">fichier xls - 45 Ko</a></p>

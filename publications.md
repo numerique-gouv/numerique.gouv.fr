@@ -38,7 +38,7 @@ publications:
 - title: Panorama des grands projets numériques de l'État
   url: "/publications/panorama-grands-projets-si"
   une-ou-diaporama:
-  - image: "/uploads/capture-panorama-juillet2021.png"
+  - image: "/uploads/capture-panorama-nov2021-rub.png"
 - title: Les 9 principes clés de réussite des grands projets SI de l’État
   url: "/publications/principes-reussite-grands-projets-si-etat/"
   une-ou-diaporama:
