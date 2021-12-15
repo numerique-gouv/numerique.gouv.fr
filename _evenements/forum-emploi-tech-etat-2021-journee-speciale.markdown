@@ -41,13 +41,13 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 
 <h3><b>En bref</b></h3>
 
-<ul><li><b>Des stands virtuels</b></li>
-Retrouvez chaque administration recruteuse sur son stand virtuel jeudi 16 décembre 2021, de 9h à 18h. 
+<ul><li><b>Des stands virtuels</b>
+<br>Retrouvez chaque administration recruteuse sur son stand virtuel jeudi 16 décembre 2021, de 9h à 18h. 
 <br>
-<br>9 recruteurs de l'État dans le domaine du numérique, en visio, seront là pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !<br><br>
+<br>9 recruteurs de l'État dans le domaine du numérique, en visio, seront là pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !<br><br></li></ul>
 
-<li><b>Des ateliers de développement professionnel</b></li>
-Des <a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/#ateliers">ateliers de développement professionnel</a> sont également organisés au cours de cette journée du 16 décembre, 100% en ligne, sur inscription.
+<li><b>Des ateliers de développement professionnel</b>
+Des <a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/#ateliers">ateliers de développement professionnel</a> sont également organisés au cours de cette journée du 16 décembre, 100% en ligne, sur inscription.</li></ul>
 <br>
 <br>
 
@@ -98,56 +98,56 @@ En la choisissant, comme plus de 2 000 agents dans toute la France vous particip
 
 <h4><b>Agence nationale de la sécurité des systèmes d'information (ANSSI)</b></h4>
 <img src="/uploads/ANSSI.png" alt="" style="margin-right: 10px" width="20%" align="left">
-L’agence nationale de la sécurité des systèmes d’information (ANSSI) est l’autorité nationale en matière de cybersécurité et cyberdéfense, chargée d’accompagner et de sécuriser le développement du numérique en France.
-Au quotidien, les 573 agents de l’ANSSI mènent trois missions principales, que sont :
-* La prévention : éviter le succès des attaques informatiques en élevant le niveau de cybersécurité en France et en détectant les attaques rapidement ;
-* L’information et la sensibilisation: faire prendre conscience des risques numériques et diffuser aux différents publics (expert, particulier, dirigeant d’entreprise) les bonnes pratiques à adopter ;
-* La défense : intervenir pour stopper une attaque contre les systèmes d’un bénéficiaire, ou d’une victime autre lorsque la situation le nécessite, et accompagner la reconstruction des SI – rôle de cyberpompiers.
+<p>L’agence nationale de la sécurité des systèmes d’information (ANSSI) est l’autorité nationale en matière de cybersécurité et cyberdéfense, chargée d’accompagner et de sécuriser le développement du numérique en France.</p>
+<p>Au quotidien, les 573 agents de l’ANSSI mènent trois missions principales, que sont :
+<ul><li>La prévention : éviter le succès des attaques informatiques en élevant le niveau de cybersécurité en France et en détectant les attaques rapidement ;</li>
+<li>L’information et la sensibilisation: faire prendre conscience des risques numériques et diffuser aux différents publics (expert, particulier, dirigeant d’entreprise) les bonnes pratiques à adopter ;</li>
+<li>La défense : intervenir pour stopper une attaque contre les systèmes d’un bénéficiaire, ou d’une victime autre lorsque la situation le nécessite, et accompagner la reconstruction des SI – rôle de cyberpompiers.</li></ul></p>
 
-Chiffres clés :
-* 573 agents
-* 81 % de contractuels
-* 12 % de fonctionnaires
-* 7 % de militaires
-* 37 ans d’âge moyen
-* 28 % de femmes
+<p>Chiffres clés :
+<li>573 agents</li>
+<li>81 % de contractuels</li>
+<li>12 % de fonctionnaires</li>
+<li>7 % de militaires</li>
+<li>37 ans d’âge moyen</li>
+<li>28 % de femmes</li></ul></p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3273/creator/178/hash/88b0342805c65210399efc1302e4c7a1228eddd3" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 
 <h4><b>Conseil d’État</b></h4>
 <img src="/uploads/ConseilEtat.jpeg" alt="" style="margin-right: 10px" width="20%" align="left">
-Depuis plusieurs années, la direction des systèmes d’information (DSI) du Conseil d’État conduit la transformation numérique de la justice administrative pour qu’elle soit plus proche du citoyen.
+<p>Depuis plusieurs années, la direction des systèmes d’information (DSI) du Conseil d’État conduit la transformation numérique de la justice administrative pour qu’elle soit plus proche du citoyen.</p>
 
-Elle assure ainsi la conception, la gestion et l’évolution des services essentiels au fonctionnement de la justice administrative, aujourd’hui totalement dématérialisés.
+<p>Elle assure ainsi la conception, la gestion et l’évolution des services essentiels au fonctionnement de la justice administrative, aujourd’hui totalement dématérialisés.</p>
 
-Travailler à la DSI du Conseil d’État c’est faciliter l’accès au juge administratif pour les citoyens, avocats, associations et entreprises par des outils numériques rapides et sécurisés. C’est aussi améliorer les outils de travail numériques de plus de 4 000 personnes qui travaillent dans les juridictions administratives pour instruire et juger les recours en justice.
+<p>Travailler à la DSI du Conseil d’État c’est faciliter l’accès au juge administratif pour les citoyens, avocats, associations et entreprises par des outils numériques rapides et sécurisés. C’est aussi améliorer les outils de travail numériques de plus de 4 000 personnes qui travaillent dans les juridictions administratives pour instruire et juger les recours en justice.</p>
 
-Chiffres clés :
-* Budget annuel : 12 millions d’€
-* 60 agents
-* 6 000 postes de travail répartis sur 53 sites
-* 650 serveurs virtuels ou physiques
+<p>Chiffres clés :
+<ul><li>Budget annuel : 12 millions d’€</li>
+<li>60 agents</li>
+<li>6 000 postes de travail répartis sur 53 sites</li>
+<li>650 serveurs virtuels ou physiques</li></ul></p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3200/creator/178/hash/66fba25e7e90ba58b9f3d8835304a024de3ca054" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 
 <h4><b>Direction interministérielle du numérique (DINUM)</b></h4>
 <img src="/uploads/logo-dinum.jpg" alt="" style="margin-right: 10px" width="35%" align="left">
-À la DINUM, nous sommes près de 200 agents. Notre objectif ? Construire un service public performant et humain grâce au numérique. Pour cela, nous accompagnons les ministères dans leur transformation numérique, nous développons des services publics numériques simples et accessibles pour les citoyens (ex : FranceConnect) et des outils de travail plus performants pour les agents (ex : Tchap).
+<p>À la DINUM, nous sommes près de 200 agents. Notre objectif ? Construire un service public performant et humain grâce au numérique. Pour cela, nous accompagnons les ministères dans leur transformation numérique, nous développons des services publics numériques simples et accessibles pour les citoyens (ex : FranceConnect) et des outils de travail plus performants pour les agents (ex : Tchap).</p>
 
-Ses missions consistent notamment à : 
-* Moderniser le système d’information de l’État 
-* Accompagner les administrations dans l’usage des data sciences et de l’intelligence artificielle
-* Ouvrir les données publiques et les rendre accessibles à tous 
-* Améliorer la qualité et l'accessibilité des services publics numériques
-* Outiller les agents pour le travail à distance et collaboratif 
+<p>Ses missions consistent notamment à : </p>
+<li>Moderniser le système d’information de l’État</li> 
+<li>Accompagner les administrations dans l’usage des data sciences et de l’intelligence artificielle</li>
+<li>Ouvrir les données publiques et les rendre accessibles à tous </li>
+<li>Améliorer la qualité et l'accessibilité des services publics numériques</li>
+<li>Outiller les agents pour le travail à distance et collaboratif </li></ul>
 
-Chiffres clés :
-* 40% de femmes
-* 60% d'hommes
-* 74% d’agents contractuels
-* 26% de fonctionnaires
+<p>Chiffres clés :
+<li>40% de femmes</li>
+<li>60% d'hommes</li>
+<li>74% d’agents contractuels</li>
+<li>26% de fonctionnaires</li></ul></p>
 
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 10h</p></div>
 
 <h4><b>Ministère de l’Europe et des Affaires étrangères</b></h4>
 <img src="/uploads/Min%20Europe%20Aff%20Etrangeres%20logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
