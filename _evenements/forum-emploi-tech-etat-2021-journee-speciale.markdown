@@ -42,12 +42,12 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 <h3><b>En bref</b></h3>
 
 <ul><li><b>Des stands virtuels</b></li>
-<br>Retrouvez chaque administration recruteuse sur son stand virtuel jeudi 16 décembre 2021, de 9h à 18h. 
+Retrouvez chaque administration recruteuse sur son stand virtuel jeudi 16 décembre 2021, de 9h à 18h. 
 <br>
-<br>8 recruteurs de l'État dans le domaine du numérique, en visio, seront là pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !</li>
+<br>9 recruteurs de l'État dans le domaine du numérique, en visio, seront là pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !<br><br></li>
 
 <li><b>Des ateliers de déceloppement professionnel</b></li>
-<br>Des [ateliers de développement professionnel](/agenda/forum-emploi-tech-etat-2021-journee-speciale/#ateliers) sont également organisés au cours de cette journée du 16 décembre, 100% en ligne, sur inscription.
+Des <a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/#ateliers">ateliers de développement professionnel</a> sont également organisés au cours de cette journée du 16 décembre, 100% en ligne, sur inscription.
 <br>
 <br>
 
