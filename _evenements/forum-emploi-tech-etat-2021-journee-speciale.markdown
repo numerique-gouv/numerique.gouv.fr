@@ -304,7 +304,7 @@ L'ikigaï est un concept japonais, très en vogue, qui permet de trouver sa rais
 <br>
 Cet atelier pratique a pour objectif de permettre au participant de prendre conscience de son parcours, ses compétences, ses centres d’intérêts professionnels, de mettre du sens dans son parcours professionnel et d’entamer des premières réflexions pour amorcer un projet de mobilité. L'arbre de vie est un outil d’introspection  personnelle et professionnelle qui contribue à donner une vision plus claire, plus objective et plus positive de son avenir professionnel. C’est aussi un puissant activateur de confiance en soi.</li></ul>
 
-<p align="center"><a href=https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button">Inscrivez-vous !</a></p>
+<div align="center" style="margin-top: 30px"><a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire aux ateliers</b></a> </div>
 
 <div align="center">
 <p> Pour participer à la Journée spéciale du 16 décembre, pas besoin de vous inscrire ! Connectez-vous le jour J aux salons en ligne de votre choix </p><br><hr></div>
