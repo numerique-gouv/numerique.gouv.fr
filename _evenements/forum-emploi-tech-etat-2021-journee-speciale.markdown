@@ -17,10 +17,14 @@ une-ou-diaporama:
 event_start_date: 2021-12-16 00:00:00 +01:00
 champs_informations:
 - intitule: 'Modalités '
+- intitule: Stands virtuels
   contenu: 100% en ligne, accès libre et gratuit, sans inscription préalable
-- intitule: Pour se connecter
+- intitule: Pour se connecter aux stands virtuels
   contenu: retrouvez les liens de connexion à chaque stand virtuel de recruteur plus
     haut dans cette page
+- intitule: Ateliers de développement professionnel
+  contenu: 100% en ligne, gratuit, sur inscription
+  lien: https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -37,46 +41,54 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 
 <h3><b>En bref</b></h3>
 
-Retrouvez chaque administration recruteuse sur son stand virtuel jeudi 16 décembre 2021, de 9h à 18h. 
+<ul><li><b>Des stands virtuels</b>
+<br>Retrouvez chaque administration recruteuse sur son stand virtuel jeudi 16 décembre 2021, de 9h à 18h. 
+<br>
+<br>9 recruteurs de l'État dans le domaine du numérique, en visio, seront là pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !<br><br></li>
 
-Plus de 10 recruteurs de l'État dans le domaine du numérique, en visio, seront là pour vous rencontrer, vous présenter leurs services, leurs métiers, leurs projets et surtout les emplois qu’ils proposent. Et répondre à toutes vos questions !
-
-Des [ateliers de développement professionnel](/agenda/forum-emploi-tech-etat-2021/#forum-16dec) sont également organisés au cours de cette journée du 16 décembre, malheureusement tous déjà complets.
+<li><b>Des ateliers de développement professionnel</b>
+Des <a href="/agenda/forum-emploi-tech-etat-2021-journee-speciale/#ateliers">ateliers de développement professionnel</a> sont également organisés au cours de cette journée du 16 décembre, 100% en ligne, sur inscription.</li></ul>
 <br>
 <br>
 
 
-<h3 id="comment-participer"><b>Comment participer ?</b></h3>
-**Accès libre et gratuit, sans inscription.**
-* Choisissez dans la liste ci-dessous le recruteur ou les recruteurs qui vous intéressent
-* Le jour J, jeudi 16 décembre 2021, à partir de 9h et jusqu'à 18h, à l'heure que vous souhaitez, connectez-vous à son stand virtuel : cliquez sur le bouton « Accéder au stand virtuel », une page de connexion s'ouvre, saisissez votre nom et rejoignez le webinaire.
-* Au moment de la connexion ou une fois connecté/e, vous choisissez d'activer ou non votre caméra
+<h3 id="comment-participer"><b>Comment participer aux stands virtuels ?</b></h3>
+<p><b>Accès libre et gratuit, sans inscription.</b></p>
+<ul><li>Choisissez dans la liste ci-dessous le recruteur ou les recruteurs qui vous intéressent</li>
+<li>Le jour J, jeudi 16 décembre 2021, à partir de 9h et jusqu'à 18h, à l'heure que vous souhaitez, connectez-vous à son stand virtuel : cliquez sur le bouton « Accéder au stand virtuel », une page de connexion s'ouvre, saisissez votre nom et rejoignez le webinaire.</li>
+<li>Au moment de la connexion ou une fois connecté/e, vous choisissez d'activer ou non votre caméra</li></ul>
+<br>
+<p>Pour connaître les recommandations techniques, rendez-vous sur <a href="https://webinaire.numerique.gouv.fr/faq" title="la FAQ du webinaire de l’État">la FAQ du webinaire de l’État</a>.</p>
 
-Pour connaître les recommandations techniques, rendez-vous sur [la FAQ du webinaire de l’État](https://webinaire.numerique.gouv.fr/faq).
+<h3 id="comment-participer"><b>Comment participer aux ateliers ?</b></h3>
+<p><b>Gratuit, sur inscription.</b></p>
+<ul><li>Choisissez dans la liste ci-dessous l'atelier qui vous intéresse</li>
+<li>Inscrivez-vous via le bouton en bas de la liste</li>
+<li>Le jour J, jeudi 16 décembre 2021, à l'heure de votre atelier, connectez-vous au lien fourni lors de votre inscription.</li></ul>
+<br>
+<p>Pour connaître les recommandations techniques, rendez-vous sur <a href="https://webinaire.numerique.gouv.fr/faq" title="la FAQ du webinaire de l’État">la FAQ du webinaire de l’État</a>.</p>
 <br>
 <br>
 <hr>
 <br>
 
 <h2 class="text-center font-bold">Au menu</h2>
-<nav data-smooth-scroll="" class="grid-x grid-margin-x align-center"> <!-- <a href="#comment-participer" class="cell nav-section grid-y medium-6 large-4 black-link"><span class="h5 text-center">Comment participer&nbsp;?</span> <span class="button">Voir plus</span> </a> --> <a href="#presentation-recruteurs" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/comment_ca_marche_administrations.svg"> <span class="h5 text-center">Présentation des recruteurs</span> <span class="button">Voir plus</span> </a><a href="#stands-virtuels" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/forum_virutel.svg"> <span class="h5 text-center">Accéder aux stands virtuels</span> <span class="button">Voir plus</span> </a> </nav> 
+<nav data-smooth-scroll="" class="grid-x grid-margin-x align-center">
+<a href="#presentation-recruteurs" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/comment_ca_marche_administrations.svg"> <span class="h5 text-center">Présentation des recruteurs</span> <span class="button">Voir plus</span> </a><a href="#stands-virtuels" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/forum_virutel.svg"> <span class="h5 text-center">Accéder aux stands virtuels</span> <span class="button">Voir plus</span> </a><a href="#ateliers" class="cell nav-section grid-y medium-6 large-4 black-link"> <img alt="" src="/uploads/forum_virutel.svg"> <span class="h5 text-center">Ateliers</span> <span class="button">Voir plus</span> </a> </nav> 
 
 <div align="center"><h2 id="presentation-recruteurs"><b>Présentation des recruteurs</b></h2></div>
-Les recruteurs présents :
-* Agence de services et de paiements (ASP)
-* Agence nationale de la sécurité des systèmes d'information (ANSSI)
-* Conseil d’État
-* Direction interministérielle du numérique (DINUM)
-* Ministère de l’Europe et des Affaires étrangères
-* Ministère de l’Économie, des Finances et de la Relance
-* Ministère de la Justice
-* Préfecture de Police de Paris
-* Université Paris 2 Panthéon-Assas / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
-* Université de Paris / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
-* ...
-
-La liste continue de s'étoffer !
-
+<p>Les recruteurs présents :</p>
+<ul><li>Agence de services et de paiements (ASP)</li>
+<li>Agence nationale de la sécurité des systèmes d'information (ANSSI)</li>
+<li>Conseil d’État</li>
+<li>Direction interministérielle du numérique (DINUM)</li>
+<li>Ministère de l’Europe et des Affaires étrangères</li>
+<li>Ministère de l’Économie, des Finances et de la Relance</li>
+<li>Ministère de la Justice</li>
+<li>Préfecture de Police de Paris</li>
+<li>Université de Paris / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation</li></ul>
+<br>
+<br>
 
 <h4><b>Agence de services et de paiements (ASP)</b></h4>
 <img src="/uploads/ASP.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
@@ -85,135 +97,140 @@ Depuis plus de 50 ans, l’Agence de services et de paiement met en œuvre des p
 En la choisissant, comme plus de 2 000 agents dans toute la France vous participerez à la transformation numérique de l’action publique, au service des citoyens avec 80 métiers tournés vers l’innovation et la satisfaction des usagers : chef de projet, développeur, data scientist…
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3202/creator/178/hash/89da5780277ee46377ed06b4094e83c0b7fe9c57" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Agence nationale de la sécurité des systèmes d'information (ANSSI)</b></h4>
 <img src="/uploads/ANSSI.png" alt="" style="margin-right: 10px" width="20%" align="left">
-L’agence nationale de la sécurité des systèmes d’information (ANSSI) est l’autorité nationale en matière de cybersécurité et cyberdéfense, chargée d’accompagner et de sécuriser le développement du numérique en France.
-Au quotidien, les 573 agents de l’ANSSI mènent trois missions principales, que sont :
-* La prévention : éviter le succès des attaques informatiques en élevant le niveau de cybersécurité en France et en détectant les attaques rapidement ;
-* L’information et la sensibilisation: faire prendre conscience des risques numériques et diffuser aux différents publics (expert, particulier, dirigeant d’entreprise) les bonnes pratiques à adopter ;
-* La défense : intervenir pour stopper une attaque contre les systèmes d’un bénéficiaire, ou d’une victime autre lorsque la situation le nécessite, et accompagner la reconstruction des SI – rôle de cyberpompiers.
+<p>L’agence nationale de la sécurité des systèmes d’information (ANSSI) est l’autorité nationale en matière de cybersécurité et cyberdéfense, chargée d’accompagner et de sécuriser le développement du numérique en France.</p>
+<p>Au quotidien, les 573 agents de l’ANSSI mènent trois missions principales, que sont :
+<ul><li>La prévention : éviter le succès des attaques informatiques en élevant le niveau de cybersécurité en France et en détectant les attaques rapidement ;</li>
+<li>L’information et la sensibilisation: faire prendre conscience des risques numériques et diffuser aux différents publics (expert, particulier, dirigeant d’entreprise) les bonnes pratiques à adopter ;</li>
+<li>La défense : intervenir pour stopper une attaque contre les systèmes d’un bénéficiaire, ou d’une victime autre lorsque la situation le nécessite, et accompagner la reconstruction des SI – rôle de cyberpompiers.</li></ul></p>
 
-Chiffres clés :
-* 573 agents
-* 81 % de contractuels
-* 12 % de fonctionnaires
-* 7 % de militaires
-* 37 ans d’âge moyen
-* 28 % de femmes
+<p>Chiffres clés :
+<ul><li>573 agents</li>
+<li>81 % de contractuels</li>
+<li>12 % de fonctionnaires</li>
+<li>7 % de militaires</li>
+<li>37 ans d’âge moyen</li>
+<li>28 % de femmes</li></ul></p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3273/creator/178/hash/88b0342805c65210399efc1302e4c7a1228eddd3" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Conseil d’État</b></h4>
 <img src="/uploads/ConseilEtat.jpeg" alt="" style="margin-right: 10px" width="20%" align="left">
-Depuis plusieurs années, la direction des systèmes d’information (DSI) du Conseil d’État conduit la transformation numérique de la justice administrative pour qu’elle soit plus proche du citoyen.
+<p>Depuis plusieurs années, la direction des systèmes d’information (DSI) du Conseil d’État conduit la transformation numérique de la justice administrative pour qu’elle soit plus proche du citoyen.</p>
 
-Elle assure ainsi la conception, la gestion et l’évolution des services essentiels au fonctionnement de la justice administrative, aujourd’hui totalement dématérialisés.
+<p>Elle assure ainsi la conception, la gestion et l’évolution des services essentiels au fonctionnement de la justice administrative, aujourd’hui totalement dématérialisés.</p>
 
-Travailler à la DSI du Conseil d’État c’est faciliter l’accès au juge administratif pour les citoyens, avocats, associations et entreprises par des outils numériques rapides et sécurisés. C’est aussi améliorer les outils de travail numériques de plus de 4 000 personnes qui travaillent dans les juridictions administratives pour instruire et juger les recours en justice.
+<p>Travailler à la DSI du Conseil d’État c’est faciliter l’accès au juge administratif pour les citoyens, avocats, associations et entreprises par des outils numériques rapides et sécurisés. C’est aussi améliorer les outils de travail numériques de plus de 4 000 personnes qui travaillent dans les juridictions administratives pour instruire et juger les recours en justice.</p>
 
-Chiffres clés :
-* Budget annuel : 12 millions d’€
-* 60 agents
-* 6 000 postes de travail répartis sur 53 sites
-* 650 serveurs virtuels ou physiques
+<p>Chiffres clés :
+<ul><li>Budget annuel : 12 millions d’€</li>
+<li>60 agents</li>
+<li>6 000 postes de travail répartis sur 53 sites</li>
+<li>650 serveurs virtuels ou physiques</li></ul></p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3200/creator/178/hash/66fba25e7e90ba58b9f3d8835304a024de3ca054" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Direction interministérielle du numérique (DINUM)</b></h4>
 <img src="/uploads/logo-dinum.jpg" alt="" style="margin-right: 10px" width="35%" align="left">
-À la DINUM, nous sommes près de 200 agents. Notre objectif ? Construire un service public performant et humain grâce au numérique. Pour cela, nous accompagnons les ministères dans leur transformation numérique, nous développons des services publics numériques simples et accessibles pour les citoyens (ex : FranceConnect) et des outils de travail plus performants pour les agents (ex : Tchap).
+<p>À la DINUM, nous sommes près de 200 agents. Notre objectif ? Construire un service public performant et humain grâce au numérique. Pour cela, nous accompagnons les ministères dans leur transformation numérique, nous développons des services publics numériques simples et accessibles pour les citoyens (ex : FranceConnect) et des outils de travail plus performants pour les agents (ex : Tchap).</p>
 
-Ses missions consistent notamment à : 
-* Moderniser le système d’information de l’État 
-* Accompagner les administrations dans l’usage des data sciences et de l’intelligence artificielle
-* Ouvrir les données publiques et les rendre accessibles à tous 
-* Améliorer la qualité et l'accessibilité des services publics numériques
-* Outiller les agents pour le travail à distance et collaboratif 
+<p>Ses missions consistent notamment à : </p>
+<ul><li>Moderniser le système d’information de l’État</li> 
+<li>Accompagner les administrations dans l’usage des data sciences et de l’intelligence artificielle</li>
+<li>Ouvrir les données publiques et les rendre accessibles à tous </li>
+<li>Améliorer la qualité et l'accessibilité des services publics numériques</li>
+<li>Outiller les agents pour le travail à distance et collaboratif </li></ul>
 
-Chiffres clés :
-* 40% de femmes
-* 60% d'hommes
-* 74% d’agents contractuels
-* 26% de fonctionnaires
+<p>Chiffres clés :
+<ul><li>40% de femmes</li>
+<li>60% d'hommes</li>
+<li>74% d’agents contractuels</li>
+<li>26% de fonctionnaires</li></ul></p>
 
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 10h</p></div>
+<br>
+<br>
 
 <h4><b>Ministère de l’Europe et des Affaires étrangères</b></h4>
 <img src="/uploads/Min%20Europe%20Aff%20Etrangeres%20logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
-La direction du numérique du ministère de l’Europe et des Affaires étrangères est chargée des systèmes d’information (conception, intégration, exploitation), de la sécurité des informations confidentielles, de la continuité des services en toutes circonstances, de l’environnement de travail bureautique et de communication, du développement de services aux utilisateurs partout dans le monde.
+<p>La direction du numérique du ministère de l’Europe et des Affaires étrangères est chargée des systèmes d’information (conception, intégration, exploitation), de la sécurité des informations confidentielles, de la continuité des services en toutes circonstances, de l’environnement de travail bureautique et de communication, du développement de services aux utilisateurs partout dans le monde.</p>
 
-Sa raison d‘être est d’offrir un environnement numérique de travail fiable, performant et protégé aux 14 000 agents du ministère de l’Europe et des Affaires étrangères, en France et dans le monde, au service du 3e réseau diplomatique mondial.
+<p>Sa raison d‘être est d’offrir un environnement numérique de travail fiable, performant et protégé aux 14 000 agents du ministère de l’Europe et des Affaires étrangères, en France et dans le monde, au service du 3e réseau diplomatique mondial.</p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3203/creator/178/hash/8f72105ec3479c5d2be112fe87d7e793b70dc3bb" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Ministère de l’Économie, des Finances et de la Relance</b></h4>
 <img src="/uploads/LOGO-MESRI.png" alt="" style="margin-right: 10px" width="20%" align="left">
-La sous-direction de l’informatique (SDI) du ministère de l’Économie, des Finances et de la Relance est une entité numérique qui intervient au profit de 10 000 utilisateurs des directions et services des ministères économiques et financiers. 
+<p>La sous-direction de l’informatique (SDI) du ministère de l’Économie, des Finances et de la Relance est une entité numérique qui intervient au profit de 10 000 utilisateurs des directions et services des ministères économiques et financiers. </p>
  
-Constituée de 220 agents, la SDI conçoit et met en œuvre la politique de développement des technologies de l'information, de l'informatique et du travail en réseau. Elle apporte également aux utilisateurs conseil et expertise pour l'analyse des besoins et la définition des solutions adaptées (organisationnelles et techniques).
+<p>Constituée de 220 agents, la SDI conçoit et met en œuvre la politique de développement des technologies de l'information, de l'informatique et du travail en réseau. Elle apporte également aux utilisateurs conseil et expertise pour l'analyse des besoins et la définition des solutions adaptées (organisationnelles et techniques).</p>
 
-Chiffres clés :
-* 220 agents
-* 63% d'hommes et 37% de femmes
-* Budget : environ 30 millions d’euros
-* 2 salles informatiques, 1250 serveurs dont 700 virtuels/800 To, 400 informaticiens, 10 000 PC, 2 500 téléphones et + de 200 applications.
+<p>Chiffres clés :</p>
+<ul><li>220 agents</li>
+<li>63% d'hommes et 37% de femmes</li>
+<li>Budget : environ 30 millions d’euros</li>
+<li>2 salles informatiques, 1250 serveurs dont 700 virtuels/800 To, 400 informaticiens, 10 000 PC, 2 500 téléphones et + de 200 applications.</li></ul>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3198/creator/178/hash/36020366410f5954aa9ce928f33dea9d42bb61ba" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Ministère de la Justice</b></h4>
 <img src="/uploads/Minist%C3%A8re_de_la_Justice%20logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
-Le service du numérique (SNUM) du ministère de la Justice est un acteur incontournable dans l’évolution des méthodes de travail du ministère dans un objectif de simplification et de dématérialisation des procédures judiciaires au bénéfice des acteurs de la Justice et des citoyens.
+<p>Le service du numérique (SNUM) du ministère de la Justice est un acteur incontournable dans l’évolution des méthodes de travail du ministère dans un objectif de simplification et de dématérialisation des procédures judiciaires au bénéfice des acteurs de la Justice et des citoyens.</p>
    
-Ses missions sont de :
-* Favoriser l’accessibilité à des services réactifs et adaptés en proposant des outils et une infrastructure adéquate dans un souci de sécurité, de fiabilité et de rapidité.
-* Accompagner les directions métiers dans l’évolution de leurs pratiques numériques, au service de la Justice, au quotidien.
-* Concevoir et livrer des produits de qualité et facile d’utilisation.
+<p>Ses missions sont de :</p>
+<ul><li>Favoriser l’accessibilité à des services réactifs et adaptés en proposant des outils et une infrastructure adéquate dans un souci de sécurité, de fiabilité et de rapidité.</li>
+<li>Accompagner les directions métiers dans l’évolution de leurs pratiques numériques, au service de la Justice, au quotidien.</li>
+<li>Concevoir et livrer des produits de qualité et facile d’utilisation.</li></ul>
 
-Chiffres clés :
-* 880 millions d’euros de budget informatique pour le ministère de la Justice entre 2018-2022, dont 530 millions d’euros alloués au plan de transformation numérique.
-* 200 agents répartis dans 9 départements informatiques de télécommunications
+<p>Chiffres clés :</p>
+<ul><li>880 millions d’euros de budget informatique pour le ministère de la Justice entre 2018-2022, dont 530 millions d’euros alloués au plan de transformation numérique.</li>
+<li>200 agents répartis dans 9 départements informatiques de télécommunications</li></ul>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3199/creator/178/hash/96e8cf6763674af9e9b0a1a6121fab39c37cb2ac" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 
 <h4><b>Préfecture de Police de Paris</b></h4>
 <img src="/uploads/351px-Logo_de_la_Pr%C3%A9fecture_de_Police_de_Paris_(2020).png" alt="" style="margin-right: 10px" width="20%" align="left">
-Depuis sa création en 1800, la préfecture de police, dont le siège se trouve à Paris, au cœur de l’Île de la Cité, est une administration unique en France. Force humaine, force opérationnelle, force d’innovation et de modernisation, elle met depuis deux siècles ses multiples compétences au service de la population.
+<p>Depuis sa création en 1800, la préfecture de police, dont le siège se trouve à Paris, au cœur de l’Île de la Cité, est une administration unique en France. Force humaine, force opérationnelle, force d’innovation et de modernisation, elle met depuis deux siècles ses multiples compétences au service de la population.</p>
 
-La préfecture de police doit prévenir et lutter contre une multitude de dangers : délinquance, troubles à l’ordre public, catastrophes naturelles ou technologiques, risques urbains, routiers ou sanitaires, terrorisme, etc.
+<p>La préfecture de police doit prévenir et lutter contre une multitude de dangers : délinquance, troubles à l’ordre public, catastrophes naturelles ou technologiques, risques urbains, routiers ou sanitaires, terrorisme, etc.</p>
 
-Elle s’attache également à apporter un service public de qualité aux citoyens dans les nombreux domaines qui lui incombent, comme la délivrance des titres administratifs, la gestion de la circulation et du stationnement ou la protection des consommateurs. Elle remplit enfin des missions d’expertise sans équivalent à travers sa police technique et scientifique, son institut médico-légal, son infirmerie psychiatrique ou son laboratoire central.
+<p>Elle s’attache également à apporter un service public de qualité aux citoyens dans les nombreux domaines qui lui incombent, comme la délivrance des titres administratifs, la gestion de la circulation et du stationnement ou la protection des consommateurs. Elle remplit enfin des missions d’expertise sans équivalent à travers sa police technique et scientifique, son institut médico-légal, son infirmerie psychiatrique ou son laboratoire central.</p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3319/creator/178/hash/2c8eae83b86d27f51d8a04fec323b8fc01f31b61" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
-
-<h4><b>Université Paris 2 Panthéon-Assas</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
-<img src="/uploads/640px-Universit%C3%A9_Panth%C3%A9on-Assas_logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
-L’Université Paris 2 Panthéon-Assas, héritière directe de la Faculté de droit et des sciences économiques de Paris, bénéficie d'un enseignement et d'une recherche toujours novateurs et au plus haut niveau. Elle fait vivre et évoluer le droit, en complémentarité avec les sciences économiques et de gestion, la science politique, et les sciences de l’information et de la communication.
-
-L'Université Paris 2 Panthéon-Assas réunit plusieurs sites agréablement situés. Depuis la Direction de l'Université, située place du Panthéon, il suffit de traverser le jardin du Luxembourg pour rejoindre le Centre Assas, à deux pas de Montparnasse et de Vavin, où se trouve **la Direction des systèmes d'information**. 
-
-Dans cet environnement accueillant, à taille humaine, votre poste vous permettra de travailler à l'interface directe entre 18 000 étudiants et 1 000 personnels enseignants et administratifs.
-
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Université de Paris</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
 <img src="/uploads/R.3561b241cf13d794e48c1fb3ab13748c.jpeg" alt="" style="margin-right: 10px" width="20%" align="left">
-Ancrée au cœur de la capitale, l’Université de Paris figure parmi les établissements français et internationaux les plus prestigieux grâce à sa recherche de très haut niveau, ses formations supérieures d’excellence, son soutien à l’innovation et sa participation active à la construction de l’espace européen de la recherche et de la formation.
+<p>Ancrée au cœur de la capitale, l’Université de Paris figure parmi les établissements français et internationaux les plus prestigieux grâce à sa recherche de très haut niveau, ses formations supérieures d’excellence, son soutien à l’innovation et sa participation active à la construction de l’espace européen de la recherche et de la formation.</p>
 
-Rejoindre Université de Paris c’est faire le choix de l’exigence et de l’engagement au service de valeurs fortes ; celles du service public, de la rigueur scientifique et intellectuelle mais aussi de la curiosité et de l’ouverture aux autres et au monde.
+<p>Rejoindre Université de Paris c’est faire le choix de l’exigence et de l’engagement au service de valeurs fortes ; celles du service public, de la rigueur scientifique et intellectuelle mais aussi de la curiosité et de l’ouverture aux autres et au monde.</p>
 
-La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'intervention nécessite des compétences et des ressources dans tous les domaines de l'informatique et du numérique. Des projets riches et captivants vous attendent !
+<p>La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'intervention nécessite des compétences et des ressources dans tous les domaines de l'informatique et du numérique. Des projets riches et captivants vous attendent !</p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3219/creator/178/hash/551368ef3fdefacda170f8d38decc08a6923aef0" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
-
 <br>
 <br>
 <hr>
 <br>
 
 <div align="center"><h2 id="stands-virtuels"><b>Les stands virtuels des recruteurs</b></h2></div>
-
+Pour participer aux stands virtuels, pas besoin de vous inscrire !
 Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son stand virtuel le jour J, jeudi 16 décembre 2021, quand vous le souhaitez, de 9h à 18h.
+<br>
+<br>
 
 <div class="wrapper">
 <div class="panel">
@@ -230,7 +247,7 @@ Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son s
 </div>
 <div class="panel">
 <b>Direction interministérielle du numérique (DINUM)</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 10h</p></div>
 </div>
 <div class="panel">
 <b>Ministère de l’Europe et des Affaires étrangères</b>
@@ -249,10 +266,6 @@ Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son s
 <div align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3319/creator/178/hash/2c8eae83b86d27f51d8a04fec323b8fc01f31b61" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
-<b>Université Paris 2 Panthéon-Assas</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
-</div>
-<div class="panel">
 <b>Université de Paris</b>
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3219/creator/178/hash/551368ef3fdefacda170f8d38decc08a6923aef0" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
@@ -261,17 +274,17 @@ Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son s
 <br>
 <hr>
 <br>
-#### **Ateliers**
+<h4 id="ateliers"><b>Ateliers</b></h4>
 
-***Le 16 décembre, en ligne***
+<p><b><i>Le 16 décembre, en ligne</i></b></p>
 
-Participez à ces ateliers ludiques centrés sur le développement personnel et professionnel. Nombre de places **limité à 25 personnes** par atelier. **Réservez rapidement !**
+<p>Participez à ces ateliers ludiques centrés sur le développement personnel et professionnel. Nombre de places <b>limité à 25 personnes</b> par atelier. <b>Réservez rapidement !</b>
 
-<ul><li style="margin-bottom: 40px"><b><span lang="en">Se présenter avec « l'elevator pitch »</span></b>
+<ul><li style="margin-bottom: 40px"><b><span lang="en">Se présenter avec «&nbsp;l'elevator pitch&nbsp;»</span></b>
 <br>De 9h30 à 11h, de 14h à 15h30
 <br>
 <br>
-Cet atelier permet à chaque participant de s’approprier la méthode pour construire un <span lang="en">elevator pitch »</span> efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.</li>
+Cet atelier permet à chaque participant de s’approprier la méthode pour construire un <span lang="en">«&nbsp;elevator pitch&nbsp;»</span> efficace, de personnaliser son propre pitch en utilisant différentes techniques et donne la possibilité de le tester auprès des autres participants.</li>
 
 <li style="margin-bottom: 40px"><b><span lang="en">Capter l'attention avec le Storytelling</span></b>
 <br>De 11h30 à 13h, de 16h à 17h30
@@ -306,5 +319,3 @@ Cet atelier pratique a pour objectif de permettre au participant de prendre cons
 
 <div align="center" style="margin-top: 30px"><a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire aux ateliers</b></a> </div>
 
-<div align="center">
-<p> Pour participer à la Journée spéciale du 16 décembre, pas besoin de vous inscrire ! Connectez-vous le jour J aux salons en ligne de votre choix </p><br><hr></div>
