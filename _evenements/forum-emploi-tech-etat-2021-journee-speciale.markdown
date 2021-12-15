@@ -72,10 +72,6 @@ Les recruteurs présents :
 * Ministère de la Justice
 * Préfecture de Police de Paris
 * Université de Paris / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
-* ...
-
-La liste continue de s'étoffer !
-
 
 <h4><b>Agence de services et de paiements (ASP)</b></h4>
 <img src="/uploads/ASP.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
