@@ -242,7 +242,7 @@ Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son s
 <br>
 <hr>
 <br>
-#### **Ateliers**
+<h4 id="forum-16dec"><b>Ateliers</b>
 
 ***Le 16 décembre, en ligne***
 
