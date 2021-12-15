@@ -105,7 +105,7 @@ En la choisissant, comme plus de 2 000 agents dans toute la France vous particip
 <li>La défense : intervenir pour stopper une attaque contre les systèmes d’un bénéficiaire, ou d’une victime autre lorsque la situation le nécessite, et accompagner la reconstruction des SI – rôle de cyberpompiers.</li></ul></p>
 
 <p>Chiffres clés :
-<li>573 agents</li>
+<ul><li>573 agents</li>
 <li>81 % de contractuels</li>
 <li>12 % de fonctionnaires</li>
 <li>7 % de militaires</li>
@@ -135,14 +135,14 @@ En la choisissant, comme plus de 2 000 agents dans toute la France vous particip
 <p>À la DINUM, nous sommes près de 200 agents. Notre objectif ? Construire un service public performant et humain grâce au numérique. Pour cela, nous accompagnons les ministères dans leur transformation numérique, nous développons des services publics numériques simples et accessibles pour les citoyens (ex : FranceConnect) et des outils de travail plus performants pour les agents (ex : Tchap).</p>
 
 <p>Ses missions consistent notamment à : </p>
-<li>Moderniser le système d’information de l’État</li> 
+<ul><li>Moderniser le système d’information de l’État</li> 
 <li>Accompagner les administrations dans l’usage des data sciences et de l’intelligence artificielle</li>
 <li>Ouvrir les données publiques et les rendre accessibles à tous </li>
 <li>Améliorer la qualité et l'accessibilité des services publics numériques</li>
 <li>Outiller les agents pour le travail à distance et collaboratif </li></ul>
 
 <p>Chiffres clés :
-<li>40% de femmes</li>
+<ul><li>40% de femmes</li>
 <li>60% d'hommes</li>
 <li>74% d’agents contractuels</li>
 <li>26% de fonctionnaires</li></ul></p>
@@ -151,58 +151,58 @@ En la choisissant, comme plus de 2 000 agents dans toute la France vous particip
 
 <h4><b>Ministère de l’Europe et des Affaires étrangères</b></h4>
 <img src="/uploads/Min%20Europe%20Aff%20Etrangeres%20logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
-La direction du numérique du ministère de l’Europe et des Affaires étrangères est chargée des systèmes d’information (conception, intégration, exploitation), de la sécurité des informations confidentielles, de la continuité des services en toutes circonstances, de l’environnement de travail bureautique et de communication, du développement de services aux utilisateurs partout dans le monde.
+<p>La direction du numérique du ministère de l’Europe et des Affaires étrangères est chargée des systèmes d’information (conception, intégration, exploitation), de la sécurité des informations confidentielles, de la continuité des services en toutes circonstances, de l’environnement de travail bureautique et de communication, du développement de services aux utilisateurs partout dans le monde.</p>
 
-Sa raison d‘être est d’offrir un environnement numérique de travail fiable, performant et protégé aux 14 000 agents du ministère de l’Europe et des Affaires étrangères, en France et dans le monde, au service du 3e réseau diplomatique mondial.
+<p>Sa raison d‘être est d’offrir un environnement numérique de travail fiable, performant et protégé aux 14 000 agents du ministère de l’Europe et des Affaires étrangères, en France et dans le monde, au service du 3e réseau diplomatique mondial.</p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3203/creator/178/hash/8f72105ec3479c5d2be112fe87d7e793b70dc3bb" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 
 <h4><b>Ministère de l’Économie, des Finances et de la Relance</b></h4>
 <img src="/uploads/LOGO-MESRI.png" alt="" style="margin-right: 10px" width="20%" align="left">
-La sous-direction de l’informatique (SDI) du ministère de l’Économie, des Finances et de la Relance est une entité numérique qui intervient au profit de 10 000 utilisateurs des directions et services des ministères économiques et financiers. 
+<p>La sous-direction de l’informatique (SDI) du ministère de l’Économie, des Finances et de la Relance est une entité numérique qui intervient au profit de 10 000 utilisateurs des directions et services des ministères économiques et financiers. </p>
  
-Constituée de 220 agents, la SDI conçoit et met en œuvre la politique de développement des technologies de l'information, de l'informatique et du travail en réseau. Elle apporte également aux utilisateurs conseil et expertise pour l'analyse des besoins et la définition des solutions adaptées (organisationnelles et techniques).
+<p>Constituée de 220 agents, la SDI conçoit et met en œuvre la politique de développement des technologies de l'information, de l'informatique et du travail en réseau. Elle apporte également aux utilisateurs conseil et expertise pour l'analyse des besoins et la définition des solutions adaptées (organisationnelles et techniques).</p>
 
-Chiffres clés :
-* 220 agents
-* 63% d'hommes et 37% de femmes
-* Budget : environ 30 millions d’euros
-* 2 salles informatiques, 1250 serveurs dont 700 virtuels/800 To, 400 informaticiens, 10 000 PC, 2 500 téléphones et + de 200 applications.
+<p>Chiffres clés :</p>
+<ul><li>220 agents</li>
+<li>63% d'hommes et 37% de femmes</li>
+<li>Budget : environ 30 millions d’euros</li>
+<li>2 salles informatiques, 1250 serveurs dont 700 virtuels/800 To, 400 informaticiens, 10 000 PC, 2 500 téléphones et + de 200 applications.</li></ul>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3198/creator/178/hash/36020366410f5954aa9ce928f33dea9d42bb61ba" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 
 <h4><b>Ministère de la Justice</b></h4>
 <img src="/uploads/Minist%C3%A8re_de_la_Justice%20logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
-Le service du numérique (SNUM) du ministère de la Justice est un acteur incontournable dans l’évolution des méthodes de travail du ministère dans un objectif de simplification et de dématérialisation des procédures judiciaires au bénéfice des acteurs de la Justice et des citoyens.
+<p>Le service du numérique (SNUM) du ministère de la Justice est un acteur incontournable dans l’évolution des méthodes de travail du ministère dans un objectif de simplification et de dématérialisation des procédures judiciaires au bénéfice des acteurs de la Justice et des citoyens.</p>
    
 Ses missions sont de :
-* Favoriser l’accessibilité à des services réactifs et adaptés en proposant des outils et une infrastructure adéquate dans un souci de sécurité, de fiabilité et de rapidité.
-* Accompagner les directions métiers dans l’évolution de leurs pratiques numériques, au service de la Justice, au quotidien.
-* Concevoir et livrer des produits de qualité et facile d’utilisation.
+<ul><li>Favoriser l’accessibilité à des services réactifs et adaptés en proposant des outils et une infrastructure adéquate dans un souci de sécurité, de fiabilité et de rapidité.</li>
+<li>Accompagner les directions métiers dans l’évolution de leurs pratiques numériques, au service de la Justice, au quotidien.</li>
+<li>Concevoir et livrer des produits de qualité et facile d’utilisation.</li></ul>
 
 Chiffres clés :
-* 880 millions d’euros de budget informatique pour le ministère de la Justice entre 2018-2022, dont 530 millions d’euros alloués au plan de transformation numérique.
-* 200 agents répartis dans 9 départements informatiques de télécommunications
+<ul><li>880 millions d’euros de budget informatique pour le ministère de la Justice entre 2018-2022, dont 530 millions d’euros alloués au plan de transformation numérique.</li>
+<li>200 agents répartis dans 9 départements informatiques de télécommunications</li></ul>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3199/creator/178/hash/96e8cf6763674af9e9b0a1a6121fab39c37cb2ac" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 
 <h4><b>Préfecture de Police de Paris</b></h4>
 <img src="/uploads/351px-Logo_de_la_Pr%C3%A9fecture_de_Police_de_Paris_(2020).png" alt="" style="margin-right: 10px" width="20%" align="left">
-Depuis sa création en 1800, la préfecture de police, dont le siège se trouve à Paris, au cœur de l’Île de la Cité, est une administration unique en France. Force humaine, force opérationnelle, force d’innovation et de modernisation, elle met depuis deux siècles ses multiples compétences au service de la population.
+<p>Depuis sa création en 1800, la préfecture de police, dont le siège se trouve à Paris, au cœur de l’Île de la Cité, est une administration unique en France. Force humaine, force opérationnelle, force d’innovation et de modernisation, elle met depuis deux siècles ses multiples compétences au service de la population.</p>
 
-La préfecture de police doit prévenir et lutter contre une multitude de dangers : délinquance, troubles à l’ordre public, catastrophes naturelles ou technologiques, risques urbains, routiers ou sanitaires, terrorisme, etc.
+<p>La préfecture de police doit prévenir et lutter contre une multitude de dangers : délinquance, troubles à l’ordre public, catastrophes naturelles ou technologiques, risques urbains, routiers ou sanitaires, terrorisme, etc.</p>
 
-Elle s’attache également à apporter un service public de qualité aux citoyens dans les nombreux domaines qui lui incombent, comme la délivrance des titres administratifs, la gestion de la circulation et du stationnement ou la protection des consommateurs. Elle remplit enfin des missions d’expertise sans équivalent à travers sa police technique et scientifique, son institut médico-légal, son infirmerie psychiatrique ou son laboratoire central.
+<p>Elle s’attache également à apporter un service public de qualité aux citoyens dans les nombreux domaines qui lui incombent, comme la délivrance des titres administratifs, la gestion de la circulation et du stationnement ou la protection des consommateurs. Elle remplit enfin des missions d’expertise sans équivalent à travers sa police technique et scientifique, son institut médico-légal, son infirmerie psychiatrique ou son laboratoire central.</p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3319/creator/178/hash/2c8eae83b86d27f51d8a04fec323b8fc01f31b61" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 
 <h4><b>Université de Paris</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
 <img src="/uploads/R.3561b241cf13d794e48c1fb3ab13748c.jpeg" alt="" style="margin-right: 10px" width="20%" align="left">
-Ancrée au cœur de la capitale, l’Université de Paris figure parmi les établissements français et internationaux les plus prestigieux grâce à sa recherche de très haut niveau, ses formations supérieures d’excellence, son soutien à l’innovation et sa participation active à la construction de l’espace européen de la recherche et de la formation.
+<p>Ancrée au cœur de la capitale, l’Université de Paris figure parmi les établissements français et internationaux les plus prestigieux grâce à sa recherche de très haut niveau, ses formations supérieures d’excellence, son soutien à l’innovation et sa participation active à la construction de l’espace européen de la recherche et de la formation.</p>
 
-Rejoindre Université de Paris c’est faire le choix de l’exigence et de l’engagement au service de valeurs fortes ; celles du service public, de la rigueur scientifique et intellectuelle mais aussi de la curiosité et de l’ouverture aux autres et au monde.
+<p>Rejoindre Université de Paris c’est faire le choix de l’exigence et de l’engagement au service de valeurs fortes ; celles du service public, de la rigueur scientifique et intellectuelle mais aussi de la curiosité et de l’ouverture aux autres et au monde.</p>
 
-La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'intervention nécessite des compétences et des ressources dans tous les domaines de l'informatique et du numérique. Des projets riches et captivants vous attendent !
+<p>La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'intervention nécessite des compétences et des ressources dans tous les domaines de l'informatique et du numérique. Des projets riches et captivants vous attendent !</p>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3219/creator/178/hash/551368ef3fdefacda170f8d38decc08a6923aef0" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 
