@@ -71,7 +71,6 @@ Les recruteurs présents :
 * Ministère de l’Économie, des Finances et de la Relance
 * Ministère de la Justice
 * Préfecture de Police de Paris
-* Université Paris 2 Panthéon-Assas / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
 * Université de Paris / Ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation
 * ...
 
@@ -186,16 +185,6 @@ Elle s’attache également à apporter un service public de qualité aux citoye
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3319/creator/178/hash/2c8eae83b86d27f51d8a04fec323b8fc01f31b61" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 
-<h4><b>Université Paris 2 Panthéon-Assas</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
-<img src="/uploads/640px-Universit%C3%A9_Panth%C3%A9on-Assas_logo.png" alt="" style="margin-right: 10px" width="20%" align="left">
-L’Université Paris 2 Panthéon-Assas, héritière directe de la Faculté de droit et des sciences économiques de Paris, bénéficie d'un enseignement et d'une recherche toujours novateurs et au plus haut niveau. Elle fait vivre et évoluer le droit, en complémentarité avec les sciences économiques et de gestion, la science politique, et les sciences de l’information et de la communication.
-
-L'Université Paris 2 Panthéon-Assas réunit plusieurs sites agréablement situés. Depuis la Direction de l'Université, située place du Panthéon, il suffit de traverser le jardin du Luxembourg pour rejoindre le Centre Assas, à deux pas de Montparnasse et de Vavin, où se trouve **la Direction des systèmes d'information**. 
-
-Dans cet environnement accueillant, à taille humaine, votre poste vous permettra de travailler à l'interface directe entre 18 000 étudiants et 1 000 personnels enseignants et administratifs.
-
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
-
 <h4><b>Université de Paris</b> (ministère de l'Enseignement supérieur, de la Recherche et de l'Innovation)</h4>
 <img src="/uploads/R.3561b241cf13d794e48c1fb3ab13748c.jpeg" alt="" style="margin-right: 10px" width="20%" align="left">
 Ancrée au cœur de la capitale, l’Université de Paris figure parmi les établissements français et internationaux les plus prestigieux grâce à sa recherche de très haut niveau, ses formations supérieures d’excellence, son soutien à l’innovation et sa participation active à la construction de l’espace européen de la recherche et de la formation.
@@ -247,10 +236,6 @@ Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son s
 <div class="panel">
 <b>Préfecture de Police de Paris</b>
 <div align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3319/creator/178/hash/2c8eae83b86d27f51d8a04fec323b8fc01f31b61" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
-</div>
-<div class="panel">
-<b>Université Paris 2 Panthéon-Assas</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
 <b>Université de Paris</b>
