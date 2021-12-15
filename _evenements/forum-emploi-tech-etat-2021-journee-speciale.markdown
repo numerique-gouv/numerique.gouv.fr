@@ -21,6 +21,10 @@ champs_informations:
 - intitule: Pour se connecter
   contenu: retrouvez les liens de connexion à chaque stand virtuel de recruteur plus
     haut dans cette page
+- intitule: Stands virtuels
+  contenu: 100% en ligne, accès libre et gratuit, sans inscription préalable
+- intitule: Ateliers de développement professionnel
+  contenu: Sur inscription
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -197,7 +201,7 @@ La pluralité de nos acteurs, de nos sites géographiques et des nos champs d'in
 <br>
 
 <div align="center"><h2 id="stands-virtuels"><b>Les stands virtuels des recruteurs</b></h2></div>
-
+Pour participer aux stands virtuels, pas besoin de vous inscrire !
 Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son stand virtuel le jour J, jeudi 16 décembre 2021, quand vous le souhaitez, de 9h à 18h.
 
 <div class="wrapper">
@@ -215,7 +219,7 @@ Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son s
 </div>
 <div class="panel">
 <b>Direction interministérielle du numérique (DINUM)</b>
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3216/creator/178/hash/0694fa80a532d295d5444fce0782ad802bafa4e8" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 10h</p></div>
 </div>
 <div class="panel">
 <b>Ministère de l’Europe et des Affaires étrangères</b>
@@ -287,5 +291,3 @@ Cet atelier pratique a pour objectif de permettre au participant de prendre cons
 
 <div align="center" style="margin-top: 30px"><a href="https://event.bienvenue.pro/webcheckin/64b5b043dda07a04fc28a8e9b9fde0db" class="button"><b>S'inscrire aux ateliers</b></a> </div>
 
-<div align="center">
-<p> Pour participer à la Journée spéciale du 16 décembre, pas besoin de vous inscrire ! Connectez-vous le jour J aux salons en ligne de votre choix </p><br><hr></div>
