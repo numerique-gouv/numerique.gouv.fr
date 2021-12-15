@@ -197,6 +197,8 @@ En la choisissant, comme plus de 2 000 agents dans toute la France vous particip
 <li>200 agents répartis dans 9 départements informatiques de télécommunications</li></ul>
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3199/creator/178/hash/96e8cf6763674af9e9b0a1a6121fab39c37cb2ac" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+<br>
+<br>
 
 <h4><b>Préfecture de Police de Paris</b></h4>
 <img src="/uploads/351px-Logo_de_la_Pr%C3%A9fecture_de_Police_de_Paris_(2020).png" alt="" style="margin-right: 10px" width="20%" align="left">
