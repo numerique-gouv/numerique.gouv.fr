@@ -38,7 +38,7 @@ C’est aussi le succès d’un changement de paradigme : depuis le programme d�
 <div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">La 14e édition en bref :</h2>
 <p><ul><li><b>50</b> grands projets numériques suivis</li>
 <li><b>2,62 milliards d'euros</b> de coûts complets estimés</li>
-<li><b>4 projets sortants et 5 projets entrants</b> renouvelé</li>
+<li><b>4 projets sortants et 5 projets entrants</b></li>
 <li><b>Des taux d'écart au plus bas</b></li></ul></p></div>
 
 ## FranceConnect prend son envol
