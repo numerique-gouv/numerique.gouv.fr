@@ -36,6 +36,6 @@ Avec metiers.numerique.gouv.fr, les talents de la tech ont désormais la possibi
 
 **Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques**
 
-[**FORUM DE L’EMPLOI TECH DE L’ÉTAT: PLUS DE 400 POSTES À POURVOIR JUSQU’AU 16/12 !**](https://www.numerique.gouv.fr/agenda/forum-emploi-tech-etat-2021/)
+[**FORUM DE L’EMPLOI TECH DE L’ÉTAT: PLUS DE 400 POSTES À POURVOIR JUSQU’AU 16/12 !**](https://www.numerique.gouv.fr/espace-presse/numerique-letat-recrute-300-postes-lors-de-son-forum-de-lemploi-tech/)
 
 Jusqu’au 16/12 inclus, Data scientists, UX designers, architectes techniques, urbanistes SI, concepteurs-développeurs, DSI, responsables de la cybersécurité… jeunes diplômés, salariés dans la tech et agents publics, sont invités à participer gratuitement à la cinquième édition du Forum de l’emploi tech de l’État. Depuis le lancement de la 5ème édition, le 29 novembre en ligne, plus de 1 700 candidats se sont inscrits, 400 mises en relation ont été confirmées entre un recruteur et un candidat et 300 candidats ont postulé à des offres d’emploi. 
