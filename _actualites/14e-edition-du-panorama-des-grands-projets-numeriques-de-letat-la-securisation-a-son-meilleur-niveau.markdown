@@ -13,6 +13,13 @@ chapeau-text: Chaque semestre, la DINUM publie un état des lieux des projets in
   de glissements depuis la première édition.
 une-ou-diaporama:
 - image: "/uploads/UnePanorama.png"
+  alternative-textuelle: |-
+    50 projets suivis,
+    5 projets interministériels,
+    2,62 milliard d'euros de coûts complets estimés (hors projets en cadrage ou en révision de trajectoire),
+    6,1 années de durée moyenne,
+    15,4% : taux d'écart calendaire moyen,
+    13,5% : taux d'écart budgétaire moyen
 ---
 
 <div align="center" style="margin-top: 30px"><a href="https://www.numerique.gouv.fr/publications/panorama-grands-projets-si/" class="button"><b>Consulter le panorama</b></a> </div>
