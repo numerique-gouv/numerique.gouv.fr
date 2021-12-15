@@ -2,19 +2,18 @@
 title: 'Numérique : l’État recrute et lance metiers.numerique.gouv.fr et s’engage
   dans une démarche de marque employeur lors de son Forum de l’emploi tech'
 date: 2021-12-15 14:06:00 +01:00
-published: false
 categories:
 - Communiqué de presse
 tags:
 - recrutement
 - talents tech
 chapeau-text: 'Amélie de Montchalin, la ministre de la Transformation et de la Fonction
-  publiques annonce le lancement du site metiers.numerique.gouv.fr lors du Forum de
-  l’emploi Tech de l’État organisé pour la 5ème année consécutive par la direction
-  interministérielle du numérique, lors duquel 400 postes sont à pourvoir. L’objectif
-  : muscler la notoriété des opportunités tech de l’État et être identifié comme un
-  des employeurs phares du numérique pour réussir sa transformation et garantir sa
-  souveraineté numérique.'
+  publiques annonce le lancement du site [metiers.numerique.gouv.fr](https://metiers.numerique.gouv.fr/)
+  lors du Forum de l’emploi Tech de l’État organisé pour la 5ème année consécutive
+  par la direction interministérielle du numérique, lors duquel 400 postes sont à
+  pourvoir. L’objectif : muscler la notoriété des opportunités tech de l’État et être
+  identifié comme un des employeurs phares du numérique pour réussir sa transformation
+  et garantir sa souveraineté numérique.'
 une-ou-diaporama:
 - image: "/uploads/Une%20Site%20m%C3%A9tiers.png"
 contact-presse:
