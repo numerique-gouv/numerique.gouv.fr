@@ -245,6 +245,10 @@ Choisissez le ou les recruteurs qui vous intéressent et connectez-vous à son s
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3199/creator/178/hash/96e8cf6763674af9e9b0a1a6121fab39c37cb2ac" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
 <div class="panel">
+<b>Préfecture de Police de Paris</b>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr/meeting/signin/3319/creator/178/hash/2c8eae83b86d27f51d8a04fec323b8fc01f31b61" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
+</div>
+<div class="panel">
 <b>Université Paris 2 Panthéon-Assas</b>
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/3218/creator/178/hash/57173596cbf1c49d026a0359d1dd7cb851e18b16" class="button"><b>Accéder au stand virtuel</b></a><p class="ouverture">Ouverture le 16 décembre à 9h</p></div>
 </div>
