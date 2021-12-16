@@ -17,6 +17,7 @@ une-ou-diaporama:
 event_start_date: 2021-12-16 00:00:00 +01:00
 champs_informations:
 - intitule: 'Modalités '
+  contenu: 
 - intitule: Stands virtuels
   contenu: 100% en ligne, accès libre et gratuit, sans inscription préalable
 - intitule: Pour se connecter aux stands virtuels
@@ -299,7 +300,7 @@ Au cours de cet atelier, les participants font connaissance avec les techniques 
 Une offre d'emploi intègre une mine d'informations sur le poste que vous rêvez de décrocher ! En tant que candidat, votre première mission sera d'en extraire les éléments les plus importants afin d'anticiper le schéma de sélection du recruteur et d'optimiser vos chances de réussite. Dans cet atelier, nous analyserons point par point les grandes séquences d'une offre d'emploi et nous dénicherons tous les messages qui s'y dissimulent. A l'issue de cette phase exploratoire, nous construirons le schéma de questionnement de votre entretien avec un seul objectif : garder le contrôle et franchir cette étape avec brio !</li>
 
 <li style="margin-bottom: 40px"><b><span lang="en">Postures de candidat sur les réseaux sociaux</span></b>
-<br>De 13h à 14h, de 17h à 19h
+<br>De 13h à 14h, de 18h à 19h
 <br>
 <br>
 En 2021, nous ne pouvons que constater l'influence croissante de LinkedIn sur les comportements des recruteurs mais aussi des candidats. Bien au-delà du CV, votre vitrine professionnelle sera votre atout majeur dans la quête de votre job de rêve. Dans cet atelier, nous vous aiderons à renforcer votre attractivité candidat grâce une présence maîtrisée sur cet outil incontournable. Outre les fondamentaux, vous apprendrez à y communiquer sur vos expertises, vos expériences, vos réalisations...
