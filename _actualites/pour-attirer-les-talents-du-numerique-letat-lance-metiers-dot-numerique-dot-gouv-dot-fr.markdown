@@ -10,6 +10,9 @@ chapeau-text: 'Sur un marché de l’emploi numérique fortement concurrentiel e
   à travers un nouveau site dédié : [metiers.numerique.gouv.fr](https://metiers.numerique.gouv.fr/)'
 une-ou-diaporama:
 - image: "/uploads/Une%20Site%20m%C3%A9tiers-f53f28.png"
+  alternative-textuelle: |-
+    L’Etat Numérique : Des projets à découvrir, des missions à pourvoir !
+    Découvrez les projets numériques au sein des ministères et entités numériques, rencontrez des acteurs et co-construisons ensemble l‘Etat Numérique de demain !
 ---
 
 ## Attirer les talents du numérique
