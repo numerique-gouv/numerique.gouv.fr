@@ -29,10 +29,10 @@ La grande nouveauté est d’**offrir une visibilité à chaque entité du numé
 Chaque structure recruteuse dispose de sa propre vitrine pour mettre en avant auprès des candidats potentiels **ses missions, ses métiers, ses atouts, ses valeurs, ses projets phares, son organisation, des témoignages de ses agents**… Et ses offres d’emploi.
 
 ## Sur metiers.numerique.gouv.fr, les talents de la tech peuvent ainsi désormais : 
-* Faire la connaissance des entités numériques de l’État,
-* Découvrir la diversité des métiers et des projets du numérique de l’État,
-* Consulter les offres d’emploi tech actuellement proposées au sein de ces institutions, 
-* Déposer une candidature spontanée. 
+* faire la connaissance des entités numériques de l’État,
+* découvrir la diversité des métiers et des projets du numérique de l’État,
+* consulter les offres d’emploi tech actuellement proposées au sein de ces institutions, 
+* déposer une candidature spontanée. 
 
 Pour son lancement, [21 services recruteurs](https://metiers.numerique.gouv.fr/institutions) y sont présentés et proposent quelque [200 offres d’emploi](https://metiers.numerique.gouv.fr/emplois).
 
