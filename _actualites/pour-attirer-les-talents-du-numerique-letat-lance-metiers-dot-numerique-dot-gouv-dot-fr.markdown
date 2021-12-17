@@ -2,6 +2,9 @@
 title: 'Metiers.numerique.gouv.fr : une vitrine pour attirer les talents du numérique
   au sein de l’État'
 date: 2021-12-17 12:39:00 +01:00
+tags:
+- Recrutement
+- Talents numériques
 chapeau-text: 'Sur un marché de l’emploi numérique fortement concurrentiel et en tension,
   l’État muscle sa notoriété et son attractivité en tant qu’employeur dans la tech
   à travers un nouveau site dédié : [metiers.numerique.gouv.fr](https://metiers.numerique.gouv.fr/)'
