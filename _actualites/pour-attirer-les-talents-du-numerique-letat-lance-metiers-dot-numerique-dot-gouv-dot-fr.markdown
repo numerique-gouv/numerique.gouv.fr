@@ -31,7 +31,7 @@ Réalisée par la direction interministérielle du numérique (DINUM), la platef
 
 L’État présente de nombreux atouts spécifiques, parfois insoupçonnés, à faire valoir auprès des professionnel/les du numérique. Les métiers proposés sont très variés et nombreux, les projets d’envergure, avec une finalité pour l’intérêt général qui donne du sens à son travail au quotidien, souvent des budgets inédits dans le privé…
 
-*« L’idée de ce site est de rendre visibles ces atouts auprès des professionnel/les du numérique pour leur donner l’idée et l’envie de rejoindre l’État »* précise Soraya Saa, cheffe de la mission Talents au sein de la DINUM, qui porte le projet. *« C’est la première fois que les entités du numérique de l’État disposent d’un espace virtuel pérenne dédié à l’emploi dans le domaine de la tech. »*
+*« L’idée de ce site est de rendre visibles ces atouts auprès des professionnel/les du numérique pour leur donner l’idée et l’envie de rejoindre l’État »,* précise Soraya Saa, cheffe de la mission Talents au sein de la DINUM, qui porte le projet. *« C’est la première fois que les entités du numérique de l’État disposent d’un espace virtuel pérenne dédié à l’emploi dans le domaine de la tech. »*
 
 ## Mettre en relation recruteurs de l’État et talents du numérique
 La grande nouveauté est d’**offrir une visibilité à chaque entité du numérique public, dans sa maille la plus fine** (la direction du numérique d’un ministère, une sous-direction du SI d’un service de l’État, le service informatique de telle administration…).
