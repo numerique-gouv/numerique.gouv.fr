@@ -33,4 +33,15 @@ Chaque structure recruteuse dispose de sa propre vitrine pour mettre en avant au
 
 Pour son lancement, [21 services recruteurs](https://metiers.numerique.gouv.fr/institutions) y sont présentés et proposent quelque [200 offres d’emploi](https://metiers.numerique.gouv.fr/emplois).
 
+<div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">Rejoignez metiers.numerique.gouv.fr ! </h2>
+<p><ul>Vous êtes une entité numérique du secteur public ? Vous recrutez ? Pour créer votre page vitrine et déposer vos offres d’emploi, contactez notre mission Talents à [metiers-tech.dinum@modernisation.gouv.fr](mailto:metiers-tech.dinum@modernisation.gouv.fr)</ul></p></div>
 
+Lancé en mode beta, développé par les équipes de beta.gouv dans la logique des Startups d’Etat, le site a vocation à s’améliorer et s’étoffer en continu, en prenant en compte les retours des utilisateurs. Avec un leitmotiv : continuer à en augmenter l’impact et aider toujours mieux les professionnels du numérique à rejoindre l’Etat, et les recruteurs publics à trouver leur perle rare.
+
+<div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">L’État numérique : des projets à découvrir, des missions à pourvoir !</h2>
+<p><ul>Professionnel/les du numérique : data scientist, architecte technique, chef de projets IT, concepteur-développeur, scrum master, administrateur systèmes et réseaux… 
+Découvrez les opportunités, les projets numériques au sein des ministères et entités numériques publiques, ensemble coconstruisons l’État Numérique de demain !</ul></p></div>
+
+Faites votre choix parmi 21 administrations et près de 200 offres d’emplois.
+
+<div align="center" style="margin-top: 30px"><a href="https://metiers.numerique.gouv.fr/" class="button"><b>Découvrir les recruteurs et offres d'emplois</b></a> </div>
