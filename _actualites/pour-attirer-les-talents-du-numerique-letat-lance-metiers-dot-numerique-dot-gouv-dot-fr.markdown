@@ -47,13 +47,13 @@ Chaque structure recruteuse dispose de sa propre vitrine pour mettre en avant au
 Pour son lancement, **[21 services recruteurs](https://metiers.numerique.gouv.fr/institutions)** y sont présentés et proposent quelque **[200 offres d’emploi](https://metiers.numerique.gouv.fr/emplois "200 offres d'emploi - Lien externe")**.
 
 <div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">Rejoignez metiers.numerique.gouv.fr ! </h2>
-<p>Vous êtes une entité numérique du secteur public ? Vous recrutez ? Pour créer votre page vitrine et déposer vos offres d’emploi, contactez notre équipe à <a href="mailto:contact@metiers.numerique.gouv.fr">contact@metiers.numerique.gouv.fr</a></p></div>
+<p><b>Vous êtes une entité numérique du secteur public ? Vous recrutez ?</b> Pour créer votre page vitrine et déposer vos offres d’emploi, contactez notre équipe à <a href="mailto:contact@metiers.numerique.gouv.fr">contact@metiers.numerique.gouv.fr</a></p></div>
 
 Lancé en mode beta, développé par les équipes de beta.gouv dans la logique des Startups d’État, le site a vocation à s’améliorer et s’étoffer en continu, en prenant en compte les retours des utilisateurs. Avec un leitmotiv : continuer à en augmenter l’impact et aider toujours mieux les professionnels du numérique à rejoindre l’État, et les recruteurs publics à trouver leur perle rare.
 
 <div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">L’État numérique : des projets à découvrir, des missions à pourvoir !</h2>
-<p>Professionnel/les du numérique : data scientist, architecte technique, chef de projets IT, concepteur-développeur, scrum master, administrateur systèmes et réseaux… 
-Découvrez les opportunités, les projets numériques au sein des ministères et entités numériques publiques, ensemble coconstruisons l’État Numérique de demain !
+<p><b>Professionnel/les du numérique :</b> data scientist, architecte technique, chef de projets IT, concepteur-développeur, scrum master, administrateur systèmes et réseaux… 
+<br>Découvrez les opportunités, les projets numériques au sein des ministères et entités numériques publiques, ensemble coconstruisons l’État Numérique de demain !
 
 <div align="center" style="margin-top: 30px"><b>Faites votre choix parmi 21 administrations et près de 200 offres d’emplois.</b></div>
 
