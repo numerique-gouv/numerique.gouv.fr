@@ -17,7 +17,7 @@ une-ou-diaporama:
     Découvrez les projets numériques au sein des ministères et entités numériques, rencontrez des acteurs et co-construisons ensemble l‘Etat Numérique de demain !
 ---
 
-## Attirer les talents du numérique
+## Attirer les professionnel/les du numérique
 Dans le secteur du numérique, la guerre des talents fait rage. Facteur clé de la réussite de sa transformation numérique, l’État doit parvenir à sortir son épingle du jeu afin d’attirer et fidéliser les meilleurs professionnel/les de la tech. 
 
 Pour relever ce défi, l’État dispose d’un nouvel instrument : le site [metiers.numerique.gouv.fr](https://metiers.numerique.gouv.fr/ "metiers.numerique.gouv.fr - Lien externe").
