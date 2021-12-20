@@ -47,7 +47,7 @@ Le CNOUS a présenté au [plan France Relance](https://france-relance.transforma
 <br>Cela passe par l’animation de réseaux d’usagers d’une part, et des écoutes usagers régulières d’autre part. 
 La [mission interministérielle pour l’apprentissage ](https://mission-apprentissage.gitbook.io/general/la-mission-apprentissage/la-demarche-mise-en-oeuvre)sollicite des utilisateurs (jeunes, CFA, entreprises, autres administrations ou opérateurs) lors de ses sprints bimensuels et appelle à maintenir un contact régulier avec les usagers. 
 Des outils sont à la disposition des administrations pour adopter cette démarche d’amélioration continue des services numériques proposés aux étudiants, comme ceux proposés par la DINUM : le [bouton « Je donne mon avis »](https://observatoire.numerique.gouv.fr/Aide/Int%C3%A9gration du bouton MonAvis) à intégrer aux démarches en ligne, ou encore [l’observatoire de la qualité des démarches en ligne](https://observatoire.numerique.gouv.fr/) qui permet d’évaluer la qualité de ces dernières. 
-
+<br>
 <br>Les administrations doivent ainsi considérer davantage les jeunes comme des parties prenantes de leurs projets numériques et chercher à déployer des services numériques en phase avec les leurs attentes en **anticipant leurs besoins et en s’adaptant.**
 
 ## 2. Anticiper,  grâce aux données, les attentes des jeunes dans leurs parcours usagers
