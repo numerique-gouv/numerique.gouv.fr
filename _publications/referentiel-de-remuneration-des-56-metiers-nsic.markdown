@@ -10,6 +10,11 @@ chapeau-text: |-
   Cette nouvelle version du référentiel a été élaborée conjointement par la DINUM, la DGAFP et la DB.
 une-ou-diaporama:
 - image: "/uploads/pexels-kaboompics-com-6336.jpg"
+  legende: 
+  alternative-textuelle: 
+- file: "/uploads/20211215_Courrier%20sign%C3%A9_DB_DGAFP_DINUM_r%C3%A9f%C3%A9rentiel%20r%C3%A9mun%C3%A9ration%20NSIC-9a42c6.PDF"
+  nom: Référentiel de rémunération des 56 métiers de la filière numérique et des systèmes
+    d'information et communication
 ---
 
 <div class="panel">
