@@ -31,11 +31,11 @@ Les politiques publiques de jeunesse s’opèrent dans un contexte de **superpos
 
 En tant que bénéficiaires de ces multiples politiques publiques, les jeunes sont mis au cœur de la création et de l’amélioration des services à leur destination. Trois axes principaux en ce sens dégagent :
 
-* ### Associer les usagers aux différents moments de conception d’un service, du cadrage jusqu’au déploiement
+* ### **Associer les usagers aux différents moments de conception d’un service**, du cadrage jusqu’au déploiement
 Pour cela, il s’agit d’abord de permettre aux administrations de travailler ensemble à la conception de parcours cohérents pour les jeunes concernés par la politique publique ciblée. 
 C’est pourquoi la [Mission Transformation numérique de l’Etat](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/) de la DINUM a accompagné le ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI) dans sa réflexion et sa stratégie autour du [parcours de l’étudiant](https://twitter.com/_DINUM/status/1337326033473777665?s=20) de l’inscription sur Parcoursup aux premières heures de cours.
 
-* ### Savoir répondre à leurs attentes, même les plus immédiates. 
+* ### **Savoir répondre à leurs attentes, même les plus immédiates.** 
 **La transformation des modalités de réponse du service public à cette population caractéristique des jeunes est également une façon d’améliorer leur satisfaction vis-à-vis de l’administration.**
 Le CNOUS a présenté au [plan France Relance](https://france-relance.transformation.gouv.fr/) la mise en place de solutions de callbot et de chatbot basées sur une technologie d’intelligence artificielle, dans une démarche d’amélioration de la relation étudiante et d’efficacité opérationnelle. Ce projet, financé par le fonds [Innovation et Transformation numériques](https://france-relance.transformation.gouv.fr/d088-mettre-en-uvre-une-reforme-prioritaire-du-gou), permet de répondre aux irritants relatifs aux temps de traitement et à la qualité des réponses apportées par le CNOUS sur les dossiers de bourse des étudiants par exemple.
 
@@ -75,5 +75,6 @@ L’animation de l’écosystème implique également de **mobiliser la sociét�
 <h2>Nous sommes à votre écoute !</h2>
 
 <div align="center" style="margin-bottom: 40px"><p><b>Les Cafés Transfo sont une initiative de la mission Transformation numérique de l’Etat de la direction interministérielle du numérique (DINUM). Vous souhaitez participer à la communauté des Cafés Transfo ? Vous avez une question sur l’amélioration de politique publique par le numérique ?</b></p>
+<br>
 <a href="mailto:transfo.dinum@modernisation.gouv.fr" alt="Contactez-nous à transfo.dinum@modernisation.gouv.fr - Ouvre une messagerie électronique" class="button">Contactez-notre mission à transfo.dinum@modernisation.gouv.fr</a></div>
 <br></div>
