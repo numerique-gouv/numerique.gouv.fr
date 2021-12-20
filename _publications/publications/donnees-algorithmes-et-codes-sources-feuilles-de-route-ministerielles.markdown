@@ -1,6 +1,7 @@
 ---
 title: 'Données, algorithmes et codes sources : les 15 feuilles de route ministérielles'
 date: 2021-09-27 10:25:00 +02:00
+position: 7
 chapeau-text: |-
   À la demande du Premier ministre, sous l'impulsion de la ministre de la Transformation et de la Fonction publiques, chaque ministère a défini sa stratégie en matière de données, d'algorithmes et de codes sources, dans un cadre interministériel partagé, et l'a déclinée en un plan d'actions concrètes sur 2 à 3 ans. Découvrez ces 15 feuilles de route ministérielles.
   <br>**[> Lire notre article](/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/)**

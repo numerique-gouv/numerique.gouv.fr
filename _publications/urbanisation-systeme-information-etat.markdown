@@ -2,6 +2,7 @@
 title: Urbanisation du système d'information de l’État
 date: 2016-01-12 12:04:00 +01:00
 published: false
+position: 5
 date_de_modification: 18 décembre 2020
 une:
   image: "/uploads/2020_12_14_Bandeau_Page-fille_Ubranisation_1480x1000.jpg"

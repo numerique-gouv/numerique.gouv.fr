@@ -2,7 +2,7 @@
 title: Les 9 principes clés de réussite des grands projets SI de l’État
 date: 2018-11-13 11:44:00 +01:00
 permalink: "/publications/principes-reussite-grands-projets-si-etat/"
-position: 3
+position: 15
 chapeau-text: Proximité avec les usagers, droit à l'erreur, méthodes agiles... La
   DINUM détaille les 9 principes qui doivent guider les projets informatiques dans
   l'administration.

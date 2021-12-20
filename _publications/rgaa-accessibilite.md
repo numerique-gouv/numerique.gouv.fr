@@ -7,7 +7,7 @@ categories:
 tags:
 - RGAA
 - accessibilité
-position: 1
+position: 12
 date_de_modification: 19 octobre 2020
 chapeau-text: Piloté par la direction interministérielle du numérique (DINUM), le
   **référentiel général d'amélioration de l'accessibilité** (RGAA, anciennement référentiel

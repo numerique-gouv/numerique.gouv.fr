@@ -5,7 +5,7 @@ tags:
 - TECH.GOUV
 - transformation numérique
 - qualité des services numériques
-position: 0
+position: 11
 date_de_modification: 14 septembre 2021
 chapeau-text: Lancé par l’État en avril 2019, le programme TECH.GOUV, piloté par la
   DINUM avec l’appui de tous les ministères, vise à accélérer la transformation numérique
