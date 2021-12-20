@@ -1,6 +1,12 @@
 ---
 title: Référentiel de rémunération des 56 métiers NSIC
 date: 2015-12-20 11:01:00 +01:00
+chapeau-text: |-
+  Expérimenté en 2019 sur 15 métiers en tension, ce référentiel a été étendu aux 56 métiers de la filière numérique de l’Etat.
+
+  Son objectif est d’améliorer l’attractivité de l’Etat en facilitant le recrutement de contractuels et en prenant en compte l’expertise et les compétences détenues par les candidats, sans considération de leur niveau de diplôme.
+
+  Cette nouvelle version du référentiel a été élaborée conjointement par la DINUM, la DGAFP et la DB.
 une-ou-diaporama:
 - image: "/uploads/pexels-kaboompics-com-6336.jpg"
 ---
