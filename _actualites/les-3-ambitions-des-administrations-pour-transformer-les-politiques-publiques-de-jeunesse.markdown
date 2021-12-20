@@ -36,15 +36,15 @@ Les politiques publiques de jeunesse s’opèrent dans un contexte de **superpos
 En tant que bénéficiaires de ces multiples politiques publiques, les jeunes sont mis au cœur de la création et de l’amélioration des services à leur destination. Trois axes principaux en ce sens dégagent :
 
 * ### **Associer les usagers aux différents moments de conception d’un service**, du cadrage jusqu’au déploiement
-Pour cela, il s’agit d’abord de permettre aux administrations de travailler ensemble à la conception de parcours cohérents pour les jeunes concernés par la politique publique ciblée. 
+<br>Pour cela, il s’agit d’abord de permettre aux administrations de travailler ensemble à la conception de parcours cohérents pour les jeunes concernés par la politique publique ciblée. 
 C’est pourquoi la [Mission Transformation numérique de l’Etat](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/) de la DINUM a accompagné le ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation (MESRI) dans sa réflexion et sa stratégie autour du [parcours de l’étudiant](https://twitter.com/_DINUM/status/1337326033473777665?s=20) de l’inscription sur Parcoursup aux premières heures de cours.
 
 * ### **Savoir répondre à leurs attentes, même les plus immédiates.** 
-**La transformation des modalités de réponse du service public à cette population caractéristique des jeunes est également une façon d’améliorer leur satisfaction vis-à-vis de l’administration.**
+<br>**La transformation des modalités de réponse du service public à cette population caractéristique des jeunes est également une façon d’améliorer leur satisfaction vis-à-vis de l’administration.**
 Le CNOUS a présenté au [plan France Relance](https://france-relance.transformation.gouv.fr/) la mise en place de solutions de callbot et de chatbot basées sur une technologie d’intelligence artificielle, dans une démarche d’amélioration de la relation étudiante et d’efficacité opérationnelle. Ce projet, financé par le fonds [Innovation et Transformation numériques](https://france-relance.transformation.gouv.fr/d088-mettre-en-uvre-une-reforme-prioritaire-du-gou), permet de répondre aux irritants relatifs aux temps de traitement et à la qualité des réponses apportées par le CNOUS sur les dossiers de bourse des étudiants par exemple.
 
 * ### **Être proche des usagers et les associer pour une amélioration continue des services.**
- Cela passe par l’animation de réseaux d’usagers d’une part, et des écoutes usagers régulières d’autre part. 
+<br>Cela passe par l’animation de réseaux d’usagers d’une part, et des écoutes usagers régulières d’autre part. 
 La [mission interministérielle pour l’apprentissage ](https://mission-apprentissage.gitbook.io/general/la-mission-apprentissage/la-demarche-mise-en-oeuvre)sollicite des utilisateurs (jeunes, CFA, entreprises, autres administrations ou opérateurs) lors de ses sprints bimensuels et appelle à maintenir un contact régulier avec les usagers. 
 Des outils sont à la disposition des administrations pour adopter cette démarche d’amélioration continue des services numériques proposés aux étudiants, comme ceux proposés par la DINUM : le [bouton « Je donne mon avis »](https://observatoire.numerique.gouv.fr/Aide/Int%C3%A9gration du bouton MonAvis) à intégrer aux démarches en ligne, ou encore [l’observatoire de la qualité des démarches en ligne](https://observatoire.numerique.gouv.fr/) qui permet d’évaluer la qualité de ces dernières. 
 
