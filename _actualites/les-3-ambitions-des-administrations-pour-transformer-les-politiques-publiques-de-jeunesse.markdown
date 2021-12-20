@@ -74,7 +74,7 @@ L’animation de l’écosystème implique également de **mobiliser la sociét�
 <div class="noir encadre">
 <h2>Nous sommes à votre écoute !</h2>
 
-<div align="center" style="margin-bottom: 40px"><p><b>Les Cafés Transfo sont une initiative de la mission Transformation numérique de l’Etat de la direction interministérielle du numérique (DINUM). Vous souhaitez participer à la communauté des Cafés Transfo ? Vous avez une question sur l’amélioration de politique publique par le numérique ?</b></p>
+<div align="center" style="margin-bottom: 40px"><p>Les Cafés Transfo sont une initiative de la mission Transformation numérique de l’Etat de la direction interministérielle du numérique (DINUM). Vous souhaitez participer à la communauté des Cafés Transfo ? Vous avez une question sur l’amélioration de politique publique par le numérique ?</p>
 <br>
 <a href="mailto:transfo.dinum@modernisation.gouv.fr" alt="Contactez-nous à transfo.dinum@modernisation.gouv.fr - Ouvre une messagerie électronique" class="button">Contactez-notre mission à transfo.dinum@modernisation.gouv.fr</a></div>
 <br></div>
