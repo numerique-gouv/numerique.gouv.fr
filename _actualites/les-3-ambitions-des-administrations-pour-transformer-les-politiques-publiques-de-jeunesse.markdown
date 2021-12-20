@@ -25,6 +25,10 @@ L’administration ainsi que ses opérateurs portent différents types de politi
 * **Des services publics d’urgence**, enfin, qui nécessitent la réactivité des administrations.
 C’est le cas, par exemple, de la réponse à des problématiques de santé mentale comme la création du service en ligne « [Santé Psy Etudiant](https://santepsy.etudiant.gouv.fr/) » mis en place en urgence pour les étudiants durant la crise sanitaire par la brigade d’intervention numérique de la DINUM, au sein de [Beta.gouv](https://beta.gouv.fr/), et le ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation, ou encore la réponse à des questions de précarité avec la mise en place du [repas à 1€](https://www.enseignementsup-recherche.gouv.fr/cid156629/www.enseignementsup-recherche.gouv.fr/cid156629/un-repas-a-un-euro-pour-tous-les-etudiants-dans-tous-les-crous.html) pour les étudiants boursiers puis non boursiers en moins d’une semaine par le CNOUS durant la même période. 
 
+<figure class='image-center' style='width: 80%;'>
+<img src="/uploads/FBgs2JOXMAEhvWQ.jpeg"/>
+<figcaption>Charles-Antoine Thomas, directeur de la transformation RH à la DGGN, lors du Café Transfo #1, aux côtés de Fadila Leturcq et Marion Loustric de la mission Transfo de la DINUM</figcaption></figure>
+
 ## 1. Penser systématiquement l’usager comme étant au cœur de l’action publique et de la délivrance de services numériques
 
 Les politiques publiques de jeunesse s’opèrent dans un contexte de **superposition de moments de vie** au cours desquels plusieurs acteurs publics interviennent : elles sont **intrinsèquement interministérielles et trans-sectorielles**. Elles appellent ainsi à la coordination et à la collaboration de tous (administrations entre administrations, administrations et opérateurs, collectivités, société civile, acteurs économiques, etc.) afin d’apporter une réponse pertinente aux attentes, invariables comme immédiates, des usagers.
