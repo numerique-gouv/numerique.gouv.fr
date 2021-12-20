@@ -1,6 +1,7 @@
 ---
 title: Référentiel de rémunération des 56 métiers NSIC
 date: 2021-12-20 11:01:00 +01:00
+published: false
 position: 14
 chapeau-text: |-
   Expérimenté en 2019 sur 15 métiers en tension, ce référentiel a été étendu aux 56 métiers de la filière numérique de l’Etat.
