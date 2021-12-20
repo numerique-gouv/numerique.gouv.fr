@@ -71,8 +71,9 @@ L’animation des écosystèmes **commence au sein même des administrations** :
 
 L’animation de l’écosystème implique également de **mobiliser la société civile et les corps intermédiaires (associations, ESS, etc.)**. Au sein de l’Association de la Fondation Étudiante pour la Ville (AFEV), l’exemple de la mise en œuvre de dispositifs no-code permettant d’autonomiser les jeunes dans la création de leurs services illustre bien ce propos : les associations constituent **un vivier d’usagers et une source d’innovation** à prendre en compte en amont de projets : dans ce cas précis, **l’administration doit avoir confiance en sa jeunesse pour trouver les solutions**. 
 
+<div class="noir encadre">
+<h2>Nous sommes à votre écoute !</h2>
 
-[Encadré]
-Les Cafés Transfo sont une initiative de la mission Transformation numérique de l’Etat de la direction interministérielle du numérique (DINUM).
-Nous sommes à votre écoute !  Vous souhaitez participer à la communauté des Cafés Transfo ? Vous avez une question sur l’amélioration de politique publique par le numérique ? Contactez notre mission à : transfo.dinum@modernisation.gouv.fr
-
+<div align="center" style="margin-bottom: 40px"><p><b>Les Cafés Transfo sont une initiative de la mission Transformation numérique de l’Etat de la direction interministérielle du numérique (DINUM). Vous souhaitez participer à la communauté des Cafés Transfo ? Vous avez une question sur l’amélioration de politique publique par le numérique ?</b></p>
+<a href="mailto:transfo.dinum@modernisation.gouv.fr" alt="Contactez-nous à transfo.dinum@modernisation.gouv.fr - Ouvre une messagerie électronique" class="button">Contactez-notre mission à transfo.dinum@modernisation.gouv.fr</a></div>
+<br></div>
