@@ -26,7 +26,6 @@ Le Conseil de l’Union européenne, qu’on appelle aussi « Conseil des minist
 <div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">Quel fonctionnement ?</h2>
 <p>Concrètement, les ministres présideront dix domaines d’activité ou formations du Conseil de l’UE : affaires générales ; affaires économiques et financières ; justice et affaires intérieures ; emploi, politique sociale, santé et consommateurs ; compétitivité (marché intérieur, industrie, recherche et espace) ; transport, télécommunications et énergie ; agriculture et pêche ; environnement ; éducation, jeunesse, culture et sport; commerce. Par exception, le Conseil des affaires étrangères est présidé par le Haut représentant de l’Union pour les affaires étrangères et la politique de sécurité, actuellement Josep Borrell.</p></div>
 <br>
-<br>
 Le Conseil détient également des compétences en matière budgétaire : il arrête et modifie le budget européen avec le Parlement. Enfin, le Conseil adopte certaines décisions, ainsi que des recommandations non contraignantes, conclut les accords internationaux de l’Union et nomme les membres de certaines institutions (Cour des comptes, Comité économique et social européen, Comité des régions). Les délibérations et les votes du Conseil sur des actes législatifs sont publics.
 
 ## Dans quel cadre s’inscrit la présidence française du Conseil de l’Union européenne (PFUE) ?
