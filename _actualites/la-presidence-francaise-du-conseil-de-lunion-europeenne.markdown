@@ -43,10 +43,10 @@ Le Conseil détient également des compétences en matière budgétaire : il arr
 
 La DINUM organise notamment deux événements dans le cadre de la PFUE :
 <br>
-<b>Intitulé de l’événement</b>
+* <b>Intitulé de l’événement</b>
 <br>Le 10 janvier 2022, à Paris
 
-<b>Intitulé de l’événement</b>
+* <b>Intitulé de l’événement</b>
 <br>Le JJ MOIS 2022, à Paris
 
 ### Suivez la présidence française du Conseil de l’Union européenne
