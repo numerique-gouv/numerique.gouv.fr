@@ -14,7 +14,8 @@ une-ou-diaporama:
 ### Une présidence tournante
 
 <img src="/uploads/logo_fr-presite.svg" alt="" style="margin-right: 10px" width="40%" align="center">
- ©PFUE 
+
+©PFUE 
 
 Chaque État membre assure, par rotation, la présidence du Conseil de l’Union européenne pendant six mois. **Du 1er janvier au 30 juin 2022, c’est la France qui présidera le Conseil de l’UE.** La présidence du Conseil organise les réunions, élabore des compromis, rend des conclusions et veille à la cohérence et à la continuité du processus de décision. Elle veille à une bonne coopération entre tous les États membres et assure les relations du Conseil avec les institutions européennes, notamment la Commission et le Parlement européen.
 
