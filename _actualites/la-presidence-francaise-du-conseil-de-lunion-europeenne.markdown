@@ -40,10 +40,8 @@ Le Conseil détient également des compétences en matière budgétaire : il arr
 <div class="noir encadre">
 <h2>Près de 400 événements</h2>
 
-<div align="center" style="margin-bottom: 40px"><p>Au total, près de 400 événements prévus en France et au sein de l’UE rythmeront la présidence: des réunions politiques, une programmation culturelle et des événements citoyens ouverts à toutes et à tous.</p>
+<div align="center" style="margin-bottom: 40px"><p>Au total, près de 400 événements prévus en France et au sein de l’UE rythmeront la présidence: des réunions politiques, une programmation culturelle et des événements citoyens ouverts à toutes et à tous.</p></div>
 <br>
-</div>
-
 ## Comment la DINUM participe-t-elle à la PFUE ?
 
 La DINUM organise notamment deux événements dans le cadre de la PFUE :
@@ -71,10 +69,8 @@ Retrouvez toutes les informations sur la présidence française du Conseil de l�
 <div align="center" style="margin-bottom: 40px"><p>
 * le **Conseil européen** qui réunit les chefs d’État et de gouvernement des États membres et définit les orientations et les priorités politiques générales de l'Union européenne. Son président actuel est Charles Michel.
 * le **Conseil de l’Europe**, qui est une organisation intergouvernementale constituée de 47 États membres. Créée en 1949, elle a vocation à promouvoir le développement des droits de l’Homme, la démocratie et l’État de droit. Son siège est à Strasbourg et sa secrétaire générale est Marija Pejčinović Burić.
-Au total, près de 400 événements prévus en France et au sein de l’UE rythmeront la présidence: des réunions politiques, une programmation culturelle et des événements citoyens ouverts à toutes et à tous.</p>
+Au total, près de 400 événements prévus en France et au sein de l’UE rythmeront la présidence: des réunions politiques, une programmation culturelle et des événements citoyens ouverts à toutes et à tous.</p></div>
 <br>
-</div>
-
 Plus d’informations :
 * [touteleurope.eu](https://www.touteleurope.eu/)
 * [consilium.europa.eu](https://www.consilium.europa.eu/fr/council-eu/)
