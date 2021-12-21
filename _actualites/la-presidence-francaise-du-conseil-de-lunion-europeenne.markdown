@@ -39,7 +39,7 @@ Le Conseil détient également des compétences en matière budgétaire : il arr
 
 <div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">Près de 400 événements</h2>
 <p>Au total, près de 400 événements prévus en France et au sein de l’UE rythmeront la présidence: des réunions politiques, une programmation culturelle et des événements citoyens ouverts à toutes et à tous.</p></div>
-<br>
+
 ## Comment la DINUM participe-t-elle à la PFUE ?
 
 La DINUM organise notamment deux événements dans le cadre de la PFUE :
