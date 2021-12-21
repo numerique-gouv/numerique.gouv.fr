@@ -13,7 +13,7 @@ une-ou-diaporama:
 
 ### Une présidence tournante
 
-<div align="center"><img src="/uploads/logo_fr-presite.svg" alt="" style="margin-right: 10px" width="40%" align="center">
+<img src="/uploads/logo_fr-presite.svg" alt="" style="margin-right: 10px" width="20%" align="center">
 
 ©PFUE 
 
@@ -71,5 +71,5 @@ Retrouvez toutes les informations sur la présidence française du Conseil de l�
 Au total, près de 400 événements prévus en France et au sein de l’UE rythmeront la présidence: des réunions politiques, une programmation culturelle et des événements citoyens ouverts à toutes et à tous.</p></div>
 <br>
 Plus d’informations :
-* <a href="https://www.touteleurope.eu/">touteleurope.eu</a>
-* <a href="https://www.consilium.europa.eu/fr/council-eu/">consilium.europa.eu</a>
+<li> <a href="https://www.touteleurope.eu/">touteleurope.eu</a>
+<li> <a href="https://www.consilium.europa.eu/fr/council-eu/">consilium.europa.eu</a>
