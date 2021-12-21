@@ -1,6 +1,8 @@
 ---
 title: La présidence française du Conseil de l’Union européenne
 date: 2021-12-21 10:00:00 +01:00
+categories:
+- Article
 chapeau-text: |-
   Pour la première fois depuis 14 ans, la France prendra la présidence du Conseil de l’Union européenne (UE) le 1er janvier 2022. Comment fonctionne la présidence du Conseil de l’UE et quel sera le rôle de la France dans ce cadre ?
 
