@@ -71,4 +71,6 @@ Retrouvez toutes les informations sur la présidence française du Conseil de l�
 
 <div align="center" style="margin-top: 30px"><a href="https://www.consilium.europa.eu/fr/council-eu/" class="button"><b>consilium.europa.eu</b></a> </div>
 
-Plus d’informations : <ul><li> <a href="https://www.touteleurope.eu/">touteleurope.eu</a></li> <li> <a href="https://www.consilium.europa.eu/fr/council-eu/">consilium.europa.eu</a></li>
+Plus d’informations : 
+* <a href="https://www.touteleurope.eu/">touteleurope.eu</a>
+* <a href="https://www.consilium.europa.eu/fr/council-eu/">consilium.europa.eu</a></li>
