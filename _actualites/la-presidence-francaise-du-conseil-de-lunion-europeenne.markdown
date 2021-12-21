@@ -13,7 +13,7 @@ une-ou-diaporama:
 
 ### Une présidence tournante
 
-<img src="/uploads/logo_fr-presite.svg" alt="" style="margin-right: 10px" width="40%" align="center">
+<div align="center"><img src="/uploads/logo_fr-presite.svg" alt="" style="margin-right: 10px" width="40%" align="center">
 
 ©PFUE 
 
