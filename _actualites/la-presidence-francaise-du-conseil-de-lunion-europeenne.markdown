@@ -72,5 +72,5 @@ Retrouvez toutes les informations sur la présidence française du Conseil de l�
 Au total, près de 400 événements prévus en France et au sein de l’UE rythmeront la présidence: des réunions politiques, une programmation culturelle et des événements citoyens ouverts à toutes et à tous.</p></div>
 <br>
 Plus d’informations :
-* <a href="https://www.touteleurope.eu/">touteleurope.eu</a>[touteleurope.eu]
-* <a href="https://www.consilium.europa.eu/fr/council-eu/</a>[consilium.europa.eu]
+* <a href="https://www.touteleurope.eu/">touteleurope.eu</a>
+* <a href="https://www.consilium.europa.eu/fr/council-eu/">consilium.europa.eu</a>
