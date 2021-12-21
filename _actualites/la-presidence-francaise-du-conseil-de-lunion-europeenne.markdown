@@ -37,10 +37,8 @@ Le Conseil détient également des compétences en matière budgétaire : il arr
 
 **La PFUE s’articule avec le programme du «trio» des présidences**, dans lequel la France inscrit son action. Ce système, qui existe depuis 2009, permet de fixer des objectifs à long terme et de définir les grands thèmes qui seront traités pendant une période de 18 mois. Après la présidence slovène, la France entamera un nouveau cycle et travaillera en trio avec la République tchèque au second semestre 2022 et la Suède au premier semestre 2023.
 
-<div class="noir encadre">
-<h2>Près de 400 événements</h2>
-
-<div align="center" style="margin-bottom: 40px"><p>Au total, près de 400 événements prévus en France et au sein de l’UE rythmeront la présidence: des réunions politiques, une programmation culturelle et des événements citoyens ouverts à toutes et à tous.</p></div>
+<div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">Près de 400 événements</h2>
+<p>Au total, près de 400 événements prévus en France et au sein de l’UE rythmeront la présidence: des réunions politiques, une programmation culturelle et des événements citoyens ouverts à toutes et à tous.</p></div>
 <br>
 ## Comment la DINUM participe-t-elle à la PFUE ?
 
