@@ -5,6 +5,8 @@ chapeau-text: |-
   Pour la première fois depuis 14 ans, la France prendra la présidence du Conseil de l’Union européenne (UE) le 1er janvier 2022. Comment fonctionne la présidence du Conseil de l’UE et quel sera le rôle de la France dans ce cadre ?
 
   Découvrez également comment la direction interministérielle du numérique participe à son niveau.
+une-ou-diaporama:
+- image: "/uploads/banniere-pfue-2022-97141.jpg"
 ---
 
 ## En quoi consiste la présidence du Conseil de l’Union européenne ?
