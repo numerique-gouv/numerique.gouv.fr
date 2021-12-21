@@ -43,10 +43,11 @@ Le Conseil détient également des compétences en matière budgétaire : il arr
 ## Comment la DINUM participe-t-elle à la PFUE ?
 
 La DINUM organise notamment deux événements dans le cadre de la PFUE :
-*** Intitulé de l’événement**
+<br>
+*<b>Intitulé de l’événement</b>
 Le 10 janvier 2022, à Paris
 
-*** Intitulé de l’événement**
+*<b>Intitulé de l’événement</b>
 Le JJ MOIS 2022, à Paris
 
 ### Suivez la présidence française du Conseil de l’Union européenne
@@ -67,5 +68,5 @@ Retrouvez toutes les informations sur la présidence française du Conseil de l�
 
 <br>
 Plus d’informations :
-<li> <a href="https://www.touteleurope.eu/">touteleurope.eu</a>
-<li> <a href="https://www.consilium.europa.eu/fr/council-eu/">consilium.europa.eu</a>
+<li> <a href="https://www.touteleurope.eu/">touteleurope.eu</a></li>
+<li> <a href="https://www.consilium.europa.eu/fr/council-eu/">consilium.europa.eu</a></li>
