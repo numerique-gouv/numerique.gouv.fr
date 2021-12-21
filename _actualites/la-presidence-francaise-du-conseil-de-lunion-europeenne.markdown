@@ -67,9 +67,9 @@ Retrouvez toutes les informations sur la présidence française du Conseil de l�
 
 <div align="center" style="margin-top: 30px"><b>Plus d'informations.</b></div>
 
-<div align="center" style="margin-top: 30px"><a href="https://www.touteleurope.eu/" class="button"><b>touteleurope.eu</b></a> </div></p></div>
+<div align="center" style="margin-top: 30px"><a href="https://www.touteleurope.eu/" class="button"><b>touteleurope.eu</b></a> </div>
 
-<div align="center" style="margin-top: 30px"><a href="https://www.consilium.europa.eu/fr/council-eu/" class="button"><b>consilium.europa.eu</b></a> </div></p></div>
+<div align="center" style="margin-top: 30px"><a href="https://www.consilium.europa.eu/fr/council-eu/" class="button"><b>consilium.europa.eu</b></a> </div>
 
 <div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">Le Conseil de l’UE ne doit pas être confondu avec :</h2>
 <p><ul><li>le <b>Conseil européen</b> qui réunit les chefs d’État et de gouvernement des États membres et définit les orientations et les priorités politiques générales de l'Union européenne. Son président actuel est Charles Michel.</li>
