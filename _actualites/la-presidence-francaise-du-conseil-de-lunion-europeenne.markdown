@@ -64,3 +64,5 @@ Retrouvez toutes les informations sur la présidence française du Conseil de l�
 <div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">Le Conseil de l’UE ne doit pas être confondu avec :</h2>
 <p><ul><li>le <b>Conseil européen</b> qui réunit les chefs d’État et de gouvernement des États membres et définit les orientations et les priorités politiques générales de l'Union européenne. Son président actuel est Charles Michel.</li>
 <li>le <b>Conseil de l’Europe</b>, qui est une organisation intergouvernementale constituée de 47 États membres. Créée en 1949, elle a vocation à promouvoir le développement des droits de l’Homme, la démocratie et l’État de droit. Son siège est à Strasbourg et sa secrétaire générale est Marija Pejčinović Burić.</li>
+
+Plus d’informations : <ul><li> <a href="https://www.touteleurope.eu/">touteleurope.eu</a></li> <li> <a href="https://www.consilium.europa.eu/fr/council-eu/">consilium.europa.eu</a></li>
