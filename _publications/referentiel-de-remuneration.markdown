@@ -3,7 +3,6 @@ title: Référentiel de rémunération des 56 métiers de la filière numérique
   d'information et communication
 date: 2021-12-20 11:01:00 +01:00
 permalink: "/publications/referentiel-de-remuneration/ "
-published: false
 position: 14
 chapeau-text: "Le référentiel de rémunération a pour but d’améliorer l’attractivité
   de l’Etat en facilitant le recrutement de contractuels et en prenant en compte l’expertise
@@ -21,6 +20,9 @@ file:
   title: Télécharger le référentiel de rémunération
 layout: referentiel
 ---
+
+<br>
+<br>
 
 Afin d'opérer sa transformation numérique, l'Etat doit pouvoir s'appuyer sur des profils aguerris dans un secteur où les compétences évoluent rapidement et sont rares. Il est fondamental de renforcer l'attractivité des rémunérations des métiers SIC et de réduire le différentiel avec le secteur privé.
 
