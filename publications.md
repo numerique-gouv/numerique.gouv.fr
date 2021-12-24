@@ -55,7 +55,7 @@ publications:
   url: "/publications/interoperabilite"
   une-ou-diaporama:
   - image: "/uploads/Publications_rubrique_1188x802_Interoperabilite.jpg"
-- title: Rémunération des 56 métiers NSIC
+- title: Référentiel de rémunération des 56 métiers NSIC
   url: publications/referentiel-de-remuneration-des-56-metiers-nsic/
   une-ou-diaporama:
   - image: "/uploads/pexels-kaboompics-com-6336-f3316a.jpg"
