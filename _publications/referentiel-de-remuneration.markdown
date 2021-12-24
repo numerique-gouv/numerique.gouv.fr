@@ -11,11 +11,11 @@ chapeau-text: "Le référentiel de rémunération a pour but d’améliorer l’
   élargie a été élaborée par la Direction interministérielle du numérique (DINUM),
   la Direction générale de l’administration et des finances publiques (DGAFP) et la
   Direction du budget (DB)."
-une-ou-diaporama:
-- image: "/uploads/pexels-kaboompics-com-6336.jpg"
-  legende: 
-  alternative-textuelle: 
-- file: "/uploads/20211215_Courrier%20sign%C3%A9_DB_DGAFP_DINUM_r%C3%A9f%C3%A9rentiel%20r%C3%A9mun%C3%A9ration%20NSIC-e9d329.PDF"
+une:
+  image: "/uploads/pexels-kaboompics-com-6336-e068c6.jpg"
+  alternative-textuel: 
+file:
+  file: "/uploads/20211215_Courrier%20sign%C3%A9_DB_DGAFP_DINUM_r%C3%A9f%C3%A9rentiel%20r%C3%A9mun%C3%A9ration%20NSIC-65b916.PDF"
   title: Télécharger le référentiel de rémunération
 layout: referentiel
 ---
