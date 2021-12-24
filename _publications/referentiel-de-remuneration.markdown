@@ -17,7 +17,7 @@ une:
   alternative-textuel: 
 file:
   file: "/uploads/20211215_Courrier%20sign%C3%A9_DB_DGAFP_DINUM_r%C3%A9f%C3%A9rentiel%20r%C3%A9mun%C3%A9ration%20NSIC-65b916.PDF"
-  title: Télécharger le référentiel de rémunération
+  nom: Télécharger le référentiel de rémunération
 layout: referentiel
 ---
 
