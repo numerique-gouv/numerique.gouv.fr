@@ -26,7 +26,7 @@ Ce référentiel de rémunération élargi aux 56 métiers NSIC, identifiés en 
 <p><ul><li><b>56</b> métiers NSIC référencés</li>
 <li>Des salaires attractifs allant de <b>32 000 € à 102 000 €.</li>
 <li><b>4 projets sortants et 5 projets entrants</b></li>
-<li><b>3 seuils selon l’expérience : - 5 ans / - 10 ans / + 10 ans</b></li></p></div>
+<li><b>3 seuils selon l’expérience : - 5 ans / - 10 ans / + 10 ans</b></li></ul></p></div>
 
 Il s'agit d'une approche qualitative « sur mesure » qui vise :
 
