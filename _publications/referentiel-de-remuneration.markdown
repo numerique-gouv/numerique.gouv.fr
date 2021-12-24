@@ -16,6 +16,8 @@ une:
 layout: liste-detaillee
 ---
 
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/20211215_Courrier%20sign%C3%A9_DB_DGAFP_DINUM_r%C3%A9f%C3%A9rentiel%20r%C3%A9mun%C3%A9ration%20NSIC-796281.PDF" class="button"><b>Télécharger le référentiel (PDF, 450 Ko)</b></a></div>
+
 Afin d'opérer sa transformation numérique, l'Etat doit pouvoir s'appuyer sur des profils aguerris dans un secteur où les compétences évoluent rapidement et sont rares. Il est fondamental de renforcer l'attractivité des rémunérations des métiers SIC et de réduire le différentiel avec le secteur privé.
 
 Ce référentiel de rémunération élargi aux 56 métiers NSIC, identifiés en lien avec l'actualisation de cette liste au sein du nouveau répertoire des métiers des trois fonctions publiques (RMFP), cible le recrutement des contractuels et le renouvellement des contrats au sein de la fonction publique d'Etat.
@@ -24,7 +26,7 @@ Ce référentiel de rémunération élargi aux 56 métiers NSIC, identifiés en 
 <p><ul><li><b>56</b> métiers NSIC référencés</li>
 <li>Des salaires attractifs allant de <b>32 000 € à 102 000 €.</li>
 <li><b>4 projets sortants et 5 projets entrants</b></li>
-<li><b>3 seuils selon l’expérience : - 5 ans / - 10 ans / + 10 ans</b></li></div>
+<li><b>3 seuils selon l’expérience : - 5 ans / - 10 ans / + 10 ans</b></li></p></div>
 
 Il s'agit d'une approche qualitative « sur mesure » qui vise :
 
