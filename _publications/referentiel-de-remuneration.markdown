@@ -13,6 +13,10 @@ chapeau-text: "Le référentiel de rémunération a pour but d’améliorer l’
   Direction du budget (DB)."
 une-ou-diaporama:
 - image: "/uploads/pexels-kaboompics-com-6336.jpg"
+  legende: 
+  alternative-textuelle: 
+- file: "/uploads/20211215_Courrier%20sign%C3%A9_DB_DGAFP_DINUM_r%C3%A9f%C3%A9rentiel%20r%C3%A9mun%C3%A9ration%20NSIC-e9d329.PDF"
+  title: Télécharger le référentiel de rémunération
 layout: referentiel
 ---
 
@@ -34,3 +38,5 @@ Il s'agit d'une approche qualitative « sur mesure » qui vise :
 Ce référentiel est applicable à compter de la publication de la présente note.
 
 Un premier bilan de la mise en œuvre de ce nouveau référentiel sera réalisé en juin prochain. Durant la première année de mise en œuvre, les gestionnaires transmettront pour information les contrats pris en application de ce référentiel aux CBCM. A l'issue de cette première année, un retour d'expérience sera organisé afin d'en observer les impacts.
+
+<br> <br> <div class="panel"> <b>Rémunération des 56 métiers de la filière numérique et des systèmes d'information et communication</b> <div align="center"><a [20211215_Courrier signé_DB_DGAFP_DINUM_référentiel rémunération NSIC.PDF](/uploads/20211215_Courrier%20sign%C3%A9_DB_DGAFP_DINUM_r%C3%A9f%C3%A9rentiel%20r%C3%A9mun%C3%A9ration%20NSIC.PDF)class="button"><b>Accéder au référentiel</b></a><p </div>
