@@ -2,6 +2,7 @@
 title: Référentiel de rémunération des 56 métiers de la filière numérique et des systèmes
   d'information et communication
 date: 2021-12-20 11:01:00 +01:00
+permalink: "/publications/referentiel-de-remuneration/ "
 published: false
 position: 14
 chapeau-text: "Le référentiel de rémunération a pour but d’améliorer l’attractivité
