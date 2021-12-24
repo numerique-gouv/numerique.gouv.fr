@@ -27,7 +27,7 @@ Ce référentiel de rémunération élargi aux 56 métiers NSIC, identifiés en 
 <p><ul><li><b>56</b> métiers NSIC référencés</li>
 <li>Des salaires attractifs allant de <b>32 000 € à 102 000 €.</li>
 <li><b>4 projets sortants et 5 projets entrants</b></li>
-<li><b>3 seuils selon l’expérience : - 5 ans / - 10 ans / + 10 ans</b></li></ul></p></div>
+<li><b>3 seuils selon l’expérience : - 5 ans / - 10 ans / + 10 ans</b></li>
 
 Il s'agit d'une approche qualitative « sur mesure » qui vise :
 
@@ -37,5 +37,3 @@ Il s'agit d'une approche qualitative « sur mesure » qui vise :
 Ce référentiel est applicable à compter de la publication de la présente note.
 
 Un premier bilan de la mise en œuvre de ce nouveau référentiel sera réalisé en juin prochain. Durant la première année de mise en œuvre, les gestionnaires transmettront pour information les contrats pris en application de ce référentiel aux CBCM. A l'issue de cette première année, un retour d'expérience sera organisé afin d'en observer les impacts.
-
-<br> <br> <div class="panel"> <b>Rémunération des 56 métiers de la filière numérique et des systèmes d'information et communication</b> <div align="center"><a [20211215_Courrier signé_DB_DGAFP_DINUM_référentiel rémunération NSIC.PDF](/uploads/20211215_Courrier%20sign%C3%A9_DB_DGAFP_DINUM_r%C3%A9f%C3%A9rentiel%20r%C3%A9mun%C3%A9ration%20NSIC.PDF)class="button"><b>Accéder au référentiel</b></a><p </div>
