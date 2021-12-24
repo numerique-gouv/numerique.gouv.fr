@@ -23,7 +23,7 @@ Afin d'opérer sa transformation numérique, l'Etat doit pouvoir s'appuyer sur d
 Ce référentiel de rémunération élargi aux 56 métiers NSIC, identifiés en lien avec l'actualisation de cette liste au sein du nouveau répertoire des métiers des trois fonctions publiques (RMFP), cible le recrutement des contractuels et le renouvellement des contrats au sein de la fonction publique d'Etat.
 
 <div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">La 14e édition en bref :</h2>
-<p><ul><li><b>5-</b> métiers NSIC référencés</li>
+<p><ul><li><b>56</b> métiers NSIC référencés</li>
 <li>Des salairas attractifs de <b>32 000 € à 102 000 €</b></li>
 <li><b>3 seuils selon l’expérience :</b>- 5 ans / - 10 ans / + 10 ans</li></ul></p></div>
 
@@ -32,7 +32,7 @@ Il s'agit d'une approche qualitative « sur mesure » qui vise :
 * A recruter des profils du numérique intéressants au prix du marché, et, d'autre part, à responsabiliser les recruteurs dans cette facilitation. 
 * Fluidifier les recrutements et renouvellements des contrats sur l'ensemble des métiers de la filière en supprimant les demandes de visa préalable aux contrôleurs budgétaires et comptables ministériels (CBCM) au-dessous de certains seuils.
 
-Ce référentiel est applicable à compter de la publication de la présente note.
+**Ce référentiel est applicable à compter de la publication de la présente note.**
 
 Un premier bilan de la mise en œuvre de ce nouveau référentiel sera réalisé en juin prochain. Durant la première année de mise en œuvre, les gestionnaires transmettront pour information les contrats pris en application de ce référentiel aux CBCM. A l'issue de cette première année, un retour d'expérience sera organisé afin d'en observer les impacts.
 
