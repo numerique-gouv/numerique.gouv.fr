@@ -13,7 +13,6 @@ chapeau-text: "Le référentiel de rémunération a pour but d’améliorer l’
   Direction du budget (DB)."
 une:
   image: "/uploads/pexels-kaboompics-com-6336-e068c6.jpg"
-  alternative-textuel: 
 file:
   file: "/uploads/20211215_Courrier%20sign%C3%A9_DB_DGAFP_DINUM_r%C3%A9f%C3%A9rentiel%20r%C3%A9mun%C3%A9ration%20NSIC-65b916.PDF"
   nom: Télécharger le référentiel de rémunération
