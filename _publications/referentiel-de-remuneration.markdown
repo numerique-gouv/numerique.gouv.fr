@@ -4,14 +4,6 @@ title: Référentiel de rémunération des 56 métiers de la filière numérique
 date: 2021-12-20 11:01:00 +01:00
 permalink: "/publications/referentiel-de-remuneration/ "
 position: 14
-chapeau-text: "Le référentiel de rémunération a pour but d’améliorer l’attractivité
-  de l’Etat en facilitant le recrutement de contractuels et en prenant en compte l’expertise
-  et les compétences détenues par les candidats, sans considération de leur niveau
-  de diplôme. \n\nExpérimenté en 2019 sur 15 métiers en tension, ce référentiel a
-  été étendu aux 56 métiers de la filière numérique de l’Etat. Cette nouvelle version
-  élargie a été élaborée par la Direction interministérielle du numérique (DINUM),
-  la Direction générale de l’administration et des finances publiques (DGAFP) et la
-  Direction du budget (DB)."
 une:
   image: "/uploads/pexels-kaboompics-com-6336-e068c6.jpg"
   alternative-textuel: 
@@ -20,6 +12,10 @@ file:
   title: Télécharger le référentiel de rémunération
 layout: referentiel
 ---
+
+Le référentiel de rémunération a pour but d’améliorer l’attractivité de l’Etat en facilitant le recrutement de contractuels et en prenant en compte l’expertise et les compétences détenues par les candidats, sans considération de leur niveau de diplôme. 
+
+Expérimenté en 2019 sur 15 métiers en tension, ce référentiel a été étendu aux 56 métiers de la filière numérique de l’Etat. Cette nouvelle version élargie a été élaborée par la Direction interministérielle du numérique (DINUM), la Direction générale de l’administration et des finances publiques (DGAFP) et la Direction du budget (DB).
 
 <br>
 <br>
