@@ -19,6 +19,7 @@ une-ou-diaporama:
 - file: "/uploads/20211215_Courrier%20sign%C3%A9_DB_DGAFP_DINUM_r%C3%A9f%C3%A9rentiel%20r%C3%A9mun%C3%A9ration%20NSIC-9a42c6.PDF"
   nom: Télécharger le référentiel de rémunération des 56 métiers de la filière numérique
     et des systèmes d'information et communication
+layout: publications
 ---
 
 Afin d'opérer sa transformation numérique, l'Etat doit pouvoir s'appuyer sur des profils aguerris dans un secteur où les compétences évoluent rapidement et sont rares. Il est fondamental de renforcer l'attractivité des rémunérations des métiers SIC et de réduire le différentiel avec le secteur privé.
