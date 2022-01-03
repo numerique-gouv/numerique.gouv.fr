@@ -12,7 +12,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) est en cha
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 25 novembre  2021
+date_de_modification: 3 janvier 2022
 layout: dinsic
 ---
 
@@ -85,7 +85,7 @@ function myFunction(id) {
 <li><b>Département ISO (Infrastructures et Services Opérés)</b>&nbsp;: Guy Duplaquet. Adjoint&nbsp;: Louis Di Benedetto
   <ul>
     <li><b>Pôle RIE&nbsp;:</b> Philippe Levillain</li>
-    <li><b>Pôle Hypervision</b></li>
+    <li><b>Pôle Hypervision&nbsp;:</b> Cédric Gibert</li>
     <li><b>Pôle Production&nbsp;:</b> Gilles Corbi</li>
     <li><b>Pôle Pilotage de la Qualité et des Partenariats&nbsp;:</b> Louis Di Benedetto</li>
   </ul><br></li>
