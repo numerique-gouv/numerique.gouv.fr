@@ -55,11 +55,6 @@ publications:
   url: "/publications/interoperabilite"
   une-ou-diaporama:
   - image: "/uploads/Publications_rubrique_1188x802_Interoperabilite.jpg"
-- title: Référentiel de rémunération des 56 métiers de la filière numérique et des
-    systèmes d'information et communication
-  url: "/publications/referentiel-de-remuneration/"
-  une-ou-diaporama:
-  - image: "/uploads/pexels-kaboompics-com-6336-f3316a.jpg"
 layout: publications
 ---
 
