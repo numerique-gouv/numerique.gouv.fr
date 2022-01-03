@@ -1,6 +1,7 @@
 ---
 title: Référentiel général de sécurité (RGS)
 date: 2016-01-12 10:49:00 +01:00
+position: 6
 date_de_modification: 17 décembre 2020
 une:
   image: "/uploads/2020_12_14_Bandeau_Page-fille_S%C3%A9curit%C3%A9_1480x1000.jpg"

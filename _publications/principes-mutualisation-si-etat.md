@@ -2,7 +2,7 @@
 title: Les principes de mutualisation du SI de l’État
 date: 2018-11-26 14:31:00 +01:00
 permalink: "/publications/principes-mutualisation-si-etat/"
-position: 7
+position: 18
 chapeau-text: La mutualisation interministérielle de composants et services au sein
   du système d’information et de communication de l’État a le potentiel d’améliorer
   le service rendu aux citoyens et aux agents tout en limitant les coûts. La mise

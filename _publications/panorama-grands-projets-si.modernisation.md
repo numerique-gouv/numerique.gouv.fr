@@ -6,7 +6,7 @@ tags:
 - Panorama des grands projets numériques de l'État
 - Sécurisation
 - Informatique
-position: 6
+position: 17
 chapeau-text: |-
   Édition de novembre 2021
   La DINUM publie chaque trimestre le panorama des grands projets numériques de l’État. Il recense et décrit les projets informatiques au sein de l’État les plus stratégiques ou sensibles, notamment tous ceux dont le coût dépasse 9 M€ (détails dans la FAQ). Ce suivi régulier permet à la DINUM de proposer des actions de sécurisation et de nouvelles trajectoires à certains projets, dans une approche centrée utilisateurs, afin de fournir des solutions numériques performantes, correspondant aux usages et besoins de l’utilisateur.

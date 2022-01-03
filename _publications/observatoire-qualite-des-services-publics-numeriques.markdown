@@ -7,6 +7,7 @@ tags:
 - observatoire
 - design
 - qualité des services publics numériques
+position: 2
 chapeau-text: Le gouvernement s’est donné comme objectif de rendre accessibles sur
   internet l'ensemble des démarches administratives d'ici à 2022. Plutôt qu'une dématérialisation
   à marche forcée, l'accent est mis avant tout sur la qualité et la simplicité d’utilisation
