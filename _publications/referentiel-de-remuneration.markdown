@@ -34,9 +34,9 @@ Cette nouvelle version élargie a été élaborée conjointement par la directio
 
 Cette approche qualitative « sur mesure » vise à :
 
-*recruter des profils du numérique intéressants au prix du marché, et à responsabiliser les recruteurs dans cette facilitation ;
-*mieux prendre en compte l’expertise et les compétences détenues par les candidats ;
-*fluidifier les recrutements et renouvellements des contrats sur l'ensemble des métiers de la filière, en simplifiant les procédures en-dessous des seuils de rémunération établis.
+* recruter des profils du numérique intéressants au prix du marché, et à responsabiliser les recruteurs dans cette facilitation ;
+* mieux prendre en compte l’expertise et les compétences détenues par les candidats ;
+* fluidifier les recrutements et renouvellements des contrats sur l'ensemble des métiers de la filière, en simplifiant les procédures en-dessous des seuils de rémunération établis.
 
 **Ce référentiel se substitue aux référentiels ministériels sur le champ de ces 56 métiers, et est applicable dès à présent par l’ensemble des services de ressources humaines et services budgétaires de l’État.**
 
