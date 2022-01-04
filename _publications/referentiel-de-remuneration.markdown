@@ -7,7 +7,7 @@ chapeau-text: "**Applicable à l’ensemble des administrations d’État, ce r�
   définit des valeurs de salaires pour les agents contractuels sur l'ensemble des
   métiers de la filière numérique, en-dessous desquelles le contrôle budgétaire est
   supprimé et la procédure ainsi simplifiée. Objectifs : renforcer l’attractivité
-  de l’État et faciliter le recrutement et renouvellement des profils experts.**"
+  de l’État et faciliter le recrutement et le renouvellement des profils experts.**"
 une:
   image: "/uploads/pexels-kaboompics-com-6336-e068c6.jpg"
 layout: liste-detaillee
@@ -31,5 +31,14 @@ Cette nouvelle version élargie a été élaborée conjointement par la directio
 <li>Des seuils de salaires attractifs allant de 32 000 € à 102 000 € bruts annuels</li>
 <li>Applicables aux agents contractuels de l’État, lors du recrutement et renouvellement de contrat</li>
 <li>3 seuils selon l’expérience :- 5 ans / - 10 ans / + 10 ans</li></ul></p></div>
+
+Cette approche qualitative « sur mesure » vise à :
+
+*recruter des profils du numérique intéressants au prix du marché, et à responsabiliser les recruteurs dans cette facilitation ;
+*mieux prendre en compte l’expertise et les compétences détenues par les candidats ;
+*fluidifier les recrutements et renouvellements des contrats sur l'ensemble des métiers de la filière, en simplifiant les procédures en-dessous des seuils de rémunération établis.
+
+**Ce référentiel se substitue aux référentiels ministériels sur le champ de ces 56 métiers, et est applicable dès à présent par l’ensemble des services de ressources humaines et services budgétaires de l’État.**
+
 
 
