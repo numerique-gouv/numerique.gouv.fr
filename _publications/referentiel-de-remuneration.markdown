@@ -40,5 +40,7 @@ Cette approche qualitative « sur mesure » vise à :
 
 **Ce référentiel se substitue aux référentiels ministériels sur le champ de ces 56 métiers, et est applicable dès à présent par l’ensemble des services de ressources humaines et services budgétaires de l’État.**
 
+Un premier bilan de la mise en œuvre de ce nouveau référentiel sera réalisé en juin 2022. Durant la première année de mise en œuvre, les gestionnaires transmettront pour information les contrats pris en application de ce référentiel aux CBCM. À l'issue de cette première année, un retour d'expérience sera organisé afin d'en observer les impacts.
+
 
 
