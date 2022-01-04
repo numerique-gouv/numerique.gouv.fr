@@ -30,7 +30,7 @@ Cette nouvelle version élargie a été élaborée conjointement par la directio
 <p><ul><li>56 métiers du numérique et des SIC</li>
 <li>Des seuils de salaires attractifs allant de 32 000 € à 102 000 € bruts annuels</li>
 <li>Applicables aux agents contractuels de l’État, lors du recrutement et renouvellement de contrat</li>
-<li>3 seuils selon l’expérience :- 5 ans / - 10 ans / + 10 ans</li></ul></p></div>
+<li>3 seuils selon l’expérience : - 5 ans / - 10 ans / + 10 ans</li></ul></p></div>
 
 Cette approche qualitative « sur mesure » vise à :
 
