@@ -3,45 +3,29 @@ title: Référentiel de rémunération des 56 métiers de la filière numérique
   d'information et communication
 date: 2021-12-20 11:01:00 +01:00
 position: 14
-chapeau-text: "**Applicable à l’ensemble des administrations d’État, ce référentiel
-  définit des valeurs de salaires pour les agents contractuels sur l'ensemble des
-  métiers de la filière numérique, en-dessous desquelles le contrôle budgétaire est
-  supprimé et la procédure ainsi simplifiée. Objectifs : renforcer l’attractivité
-  de l’État et faciliter le recrutement et le renouvellement des profils experts.**"
+chapeau-text: Applicable à l’ensemble des administrations d’État, ce référentiel définit
+  des valeurs de salaires sur l'ensemble des métiers de la filière numérique, en-dessous
+  desquelles le contrôle budgétaire est supprimé et la procédure ainsi simplifiée
+  dans le cadre du recrutement et du renouvellement d’agents contractuels.
+une-ou-diaporama:
+- image: "/uploads/20220105_Publication_740x500_Referentiel_de_remuneration_V2.png"
 une:
   image: "/uploads/pexels-kaboompics-com-6336-e068c6.jpg"
 layout: liste-detaillee
 ---
 
-Afin d'opérer sa transformation numérique, l'État doit pouvoir s'appuyer sur des profils aguerris dans un secteur où les compétences évoluent rapidement et sont rares. Pour recruter les bons profils, il est fondamental de renforcer l'attractivité des rémunérations des métiers NSIC et de réduire le différentiel avec le secteur privé.
+Afin d'opérer sa transformation numérique, l'État doit pouvoir s'appuyer sur des profils aguerris dans un secteur où les compétences évoluent rapidement et sont rares.
 
-**Un référentiel de rémunération** a été établi à cet effet. 
+Dans le but de fluidifier les recrutements de ces profils et les renouvellements des contrats, en simplifiant les procédures concernées, un référentiel de rémunération a été établi au bénéfice des services de l’État.
+
 **Il s’applique aux agents contractuels au sein de la fonction publique d’État travaillant dans le domaine, lors de leur recrutement, comme de leur renouvellement de contrat.**
 
-Expérimenté avec succès en 2019 sur 15 métiers en tension, ce référentiel a été étendu aux **56 métiers de la filière numérique de l’État.**
+**Le référentiel fixe des seuils de salaires** pour les 56 métiers identifiés, selon 3 niveaux d’expérience, **en-dessous desquels le contrôle budgétaire de l’employeur n’est pas requis**.
 
-**Le référentiel fixe des seuils de salaires,** selon 3 niveaux d’expérience, en-dessous desquels le contrôle budgétaire de l’employeur n’est pas requis. 
+Ces seuils, correspondant à des montants de salaires communément observés sur le marché de l’emploi, **ne représentent pas des salaires minimums, moyens ou maximums**. C’est le recruteur qui établit le montant de rémunération adapté en prenant également en compte le contexte, le niveau de complexité et de responsabilité du poste, l’expertise et les compétences du candidat ou de l’agent, la durée et qualité de son expérience…
 
-Ces seuils, correspondant à des montants de salaires communément observés sur le marché de l’emploi, ne représentent pas des salaires minimums, moyens ou maximums. C’est le recruteur qui établit le montant de rémunération adapté en prenant également en compte le contexte, le niveau de complexité et de responsabilité du poste, l’expertise et les compétences du candidat ou de l’agent, la durée et qualité de son expérience…
+Ce référentiel a été élaboré conjointement par la direction interministérielle du numérique (DINUM), à travers sa mission Talents, la direction générale de l’administration et des finances publiques (DGAFP) et la direction du budget (DB), en lien avec les acteurs RH et SI de la filière numérique.
 
-Cette nouvelle version élargie a été élaborée conjointement par la direction interministérielle du numérique (DINUM), à travers sa mission Talents, la direction générale de l’administration et des finances publiques (DGAFP) et la direction du budget (DB), en lien avec les acteurs RH et SI de la filière numérique.
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/note-referentiel-remuneration-filiere-numerique.pdf" class="button"><b>Télécharger la note et le référentiel</b></a></div>
 
-<div class="noir encadre" style="margin-bottom:30px;"><h2 class="h3">La référentiel en bref :</h2>
-<p><ul><li>56 métiers du numérique et des SIC</li>
-<li>Des seuils de salaires attractifs allant de 32 000 € à 102 000 € bruts annuels</li>
-<li>Applicables aux agents contractuels de l’État, lors du recrutement et renouvellement de contrat</li>
-<li>3 seuils selon l’expérience : - 5 ans / - 10 ans / + 10 ans</li></ul></p></div>
-
-Cette approche qualitative « sur mesure » vise à :
-
-* recruter des profils du numérique intéressants au prix du marché, et à responsabiliser les recruteurs dans cette facilitation ;
-* mieux prendre en compte l’expertise et les compétences détenues par les candidats ;
-* fluidifier les recrutements et renouvellements des contrats sur l'ensemble des métiers de la filière, en simplifiant les procédures en-dessous des seuils de rémunération établis.
-
-
-**Ce référentiel se substitue aux référentiels ministériels sur le champ de ces 56 métiers, et est applicable dès à présent par l’ensemble des services de ressources humaines et services budgétaires de l’État.**
-
-Un premier bilan de la mise en œuvre de ce nouveau référentiel sera réalisé en juin 2022. Durant la première année de mise en œuvre, les gestionnaires transmettront pour information les contrats pris en application de ce référentiel aux CBCM. À l'issue de cette première année, un retour d'expérience sera organisé afin d'en observer les impacts.
-
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/note-referentiel-remunerations-metiers-NSIC.PDF" class="button"><b>Télécharger la note et le référentiel</b></a></div>
-
+[> Retrouvez également les données du tableau sur data.gouv.fr en format csv](https://www.data.gouv.fr/fr/datasets/referentiel-de-remuneration-des-56-metiers-de-la-filiere-numerique-et-des-systemes-dinformation-et-communication/)
