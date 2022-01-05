@@ -2,6 +2,8 @@
 title: Les 3 ambitions des administrations pour transformer les politiques publiques
   de jeunesse
 date: 2021-12-20 09:54:00 +01:00
+categories:
+- Article
 chapeau-text: "Le 12 octobre 2021, la DINUM organisait la [2e édition](https://www.numerique.gouv.fr/agenda/cafe-de-la-transfo-number-2-le-numerique-au-service-des-politiques-publiques-de-jeunesse/)
   du Café Transfo **« Le numérique au service des politiques publiques de jeunesse
   »** : un moment d’échanges mettant en lumière les actions menées par les administrations,
