@@ -8,7 +8,7 @@ chapeau-text: Applicable à l’ensemble des administrations d’État, ce réf�
   desquelles le contrôle budgétaire est supprimé et la procédure ainsi simplifiée
   dans le cadre du recrutement et du renouvellement d’agents contractuels.
 une:
-  image: "/uploads/20220105_Publication_740x500_Referentiel_de_remuneration_V2.png"
+  image: "/uploads/20220105_Bandeau_1635x345_Referentiel_de_remuneration_V2.png"
 layout: rgaa
 ---
 
