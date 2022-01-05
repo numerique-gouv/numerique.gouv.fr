@@ -7,10 +7,8 @@ chapeau-text: Applicable à l’ensemble des administrations d’État, ce réf�
   des valeurs de salaires sur l'ensemble des métiers de la filière numérique, en-dessous
   desquelles le contrôle budgétaire est supprimé et la procédure ainsi simplifiée
   dans le cadre du recrutement et du renouvellement d’agents contractuels.
-une-ou-diaporama:
-- image: "/uploads/20220105_Publication_740x500_Referentiel_de_remuneration_V2.png"
 une:
-  image: "/uploads/pexels-kaboompics-com-6336-e068c6.jpg"
+  image: "/uploads/20220105_Publication_740x500_Referentiel_de_remuneration_V2.png"
 layout: liste-detaillee
 ---
 
