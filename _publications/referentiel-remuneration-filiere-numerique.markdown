@@ -1,7 +1,7 @@
 ---
 title: Référentiel de rémunération des 56 métiers de la filière numérique et des systèmes
   d'information et communication
-date: 2021-12-20 11:01:00 +01:00
+date: 2022-01-05 11:01:00 +01:00
 position: 14
 chapeau-text: Applicable à l’ensemble des administrations d’État, ce référentiel définit
   des valeurs de salaires sur l'ensemble des métiers de la filière numérique, en-dessous
