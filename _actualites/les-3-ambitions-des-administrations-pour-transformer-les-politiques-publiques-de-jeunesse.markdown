@@ -29,7 +29,7 @@ C’est le cas, par exemple, de la réponse à des problématiques de santé men
 
 <figure class='image-center' style='width: 80%;'>
 <img src="/uploads/FBgs2JOXMAEhvWQ.jpeg"/>
-<figcaption>Guillaume Houzel, Directeur de Programme pour la Mission interministérielle pour l’apprentissage - Ministère du Travail, de l’Emploi et de l’Insertion, Jean-Marc MERRIAUX, Délégué ministériel aux compétences du 21ème siècle - Ministère de l’Éducation nationale, de la Jeunesse et des Sports, Clément CADORET, Directeur des projets - Centre National des Œuvres Universitaires et Scolaires (CNOUS), aux côtés de Patrick Ruestchmann, Fadila Leturcq et Marion Loustric de la mission Transfo de la DINUM</figcaption></figure>
+<figcaption>Guillaume Houzel, chef de la mission interministérielle pour l’apprentissage - Ministère du Travail, de l’Emploi et de l’Insertion, Jean-Marc MERRIAUX, Délégué ministériel aux compétences du 21ème siècle - Ministère de l’Éducation nationale, de la Jeunesse et des Sports, Clément CADORET, Directeur des projets - Centre National des Œuvres Universitaires et Scolaires (CNOUS), aux côtés de Patrick Ruestchmann, Fadila Leturcq et Marion Loustric de la mission Transfo de la DINUM</figcaption></figure>
 
 ## 1. Penser systématiquement l’usager comme étant au cœur de l’action publique et de la délivrance de services numériques
 
@@ -80,7 +80,7 @@ L’animation de l’écosystème implique également de **mobiliser la sociét�
 <div class="noir encadre">
 <h2>Nous sommes à votre écoute !</h2>
 
-<div align="center" style="margin-bottom: 40px"><p>Les Cafés Transfo sont une initiative de la mission Transformation numérique de l’Etat de la direction interministérielle du numérique (DINUM). Vous souhaitez participer à la communauté des Cafés Transfo ? Vous avez une question sur l’amélioration de politique publique par le numérique ?</p>
+<div align="center" style="margin-bottom: 40px"><p>Les Cafés Transfo sont une initiative de la mission Transformation numérique de l’État de la direction interministérielle du numérique (DINUM). Vous souhaitez participer à la communauté des Cafés Transfo ? Vous avez une question sur l’amélioration de politique publique par le numérique ?</p>
 <br>
 <a href="mailto:transfo.dinum@modernisation.gouv.fr" alt="Contactez-nous à transfo.dinum@modernisation.gouv.fr - Ouvre une messagerie électronique" class="button">Contactez-notre mission à transfo.dinum@modernisation.gouv.fr</a></div>
 <br></div>
