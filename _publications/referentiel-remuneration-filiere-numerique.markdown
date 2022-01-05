@@ -9,7 +9,7 @@ chapeau-text: Applicable à l’ensemble des administrations d’État, ce réf�
   dans le cadre du recrutement et du renouvellement d’agents contractuels.
 une:
   image: "/uploads/20220105_Publication_740x500_Referentiel_de_remuneration_V2.png"
-layout: liste-detaillee
+layout: rgaa
 ---
 
 Afin d'opérer sa transformation numérique, l'État doit pouvoir s'appuyer sur des profils aguerris dans un secteur où les compétences évoluent rapidement et sont rares.
