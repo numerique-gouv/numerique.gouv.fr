@@ -29,7 +29,7 @@ C’est le cas, par exemple, de la réponse à des problématiques de santé men
 
 <figure class='image-center' style='width: 80%;'>
 <img src="/uploads/FBgs2JOXMAEhvWQ.jpeg"/>
-<figcaption>Guillaume Houzel, chef de la mission interministérielle pour l’apprentissage - Ministère du Travail, de l’Emploi et de l’Insertion, Jean-Marc Merriaux, Délégué ministériel aux compétences du 21ème siècle - Ministère de l’Éducation nationale, de la Jeunesse et des Sports, Clément Cadoret, Directeur des projets - Centre National des Œuvres Universitaires et Scolaires (CNOUS), aux côtés de Patrick Ruestchmann, Fadila Leturcq et Marion Loustric de la mission Transfo de la DINUM</figcaption></figure>
+<figcaption>Guillaume Houzel, chef de la mission interministérielle pour l’apprentissage - Ministère du Travail, de l’Emploi et de l’Insertion, Jean-Marc Merriaux, délégué ministériel aux compétences du 21e siècle - Ministère de l’Éducation nationale, de la Jeunesse et des Sports, Clément Cadoret, directeur des projets - Centre National des Œuvres Universitaires et Scolaires (CNOUS), aux côtés de Patrick Ruestchmann, Fadila Leturcq et Marion Loustric de la mission Transfo de la DINUM</figcaption></figure>
 
 ## 1. Penser systématiquement l’usager comme étant au cœur de l’action publique et de la délivrance de services numériques
 
