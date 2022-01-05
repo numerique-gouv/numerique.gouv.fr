@@ -39,6 +39,11 @@ publications:
   url: "/publications/panorama-grands-projets-si"
   une-ou-diaporama:
   - image: "/uploads/capture-panorama-nov2021-rub.png"
+- title: Référentiel de rémunération des 56 métiers de la filière numérique et des
+    systèmes d'information et communication
+  url: "/publications/referentiel-remuneration-filiere-numerique/"
+  une-ou-diaporama:
+  - image: "/uploads/20220105_Bandeau_1635x345_Referentiel_de_remuneration_V2.png"
 - title: Les 9 principes clés de réussite des grands projets SI de l’État
   url: "/publications/principes-reussite-grands-projets-si-etat/"
   une-ou-diaporama:
