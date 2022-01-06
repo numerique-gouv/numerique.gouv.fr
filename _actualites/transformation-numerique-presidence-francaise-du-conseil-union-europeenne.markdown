@@ -24,6 +24,7 @@ Parmi eux, 2 événements aborderont le thème de la transformation numérique d
 **Le 10 janvier 2022, à Paris**
 
 Concours de pitchs autour des solutions tech pour les Gouvernements.
+
 13 équipes européennes porteuses d'une solution innovante au service de la transformation numérique des États et des administrations viennent défendre leur projet devant un jury d'experts européens sous forme de pitch.
 
 À l'issue de la compétition, les équipes lauréates présenteront leurs projets aux 27 ministres réunis le 10 février à Strasbourg dans le cadre de la réunion du Réseau européen des administrations publiques (European Public Administration Network – EUPAN).
