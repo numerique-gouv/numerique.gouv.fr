@@ -70,8 +70,8 @@ Le Conseil détient également des compétences en matière budgétaire : il arr
 <ul><li><b>le Conseil européen</b> qui réunit les chefs d’État et de gouvernement des États membres et définit les orientations et les priorités politiques générales de l'Union européenne. Son président actuel est Charles Michel.</li>
 <li><b>le Conseil de l’Europe,</b> qui est une organisation intergouvernementale constituée de 47 États membres. Créée en 1949, elle a vocation à promouvoir le développement des droits de l’Homme, la démocratie et l’État de droit. Son siège est à Strasbourg et sa secrétaire générale est Marija Pejčinović Burić.</li></ul>
 <p>Plus d’informations :
-<ul><li>www.touteleurope.eu</li>
-<li>www.consilium.europa.eu/fr/council-eu/</li></ul>
+<ul><li><a href="https://www.touteleurope.eu">www.touteleurope.eu</a></li>
+<li><a href="https://www.consilium.europa.eu/fr/council-eu/">www.consilium.europa.eu/fr/council-eu/</li></ul>
 </p></div>
 
 ### Suivez la présidence française du Conseil de l’Union européenne
