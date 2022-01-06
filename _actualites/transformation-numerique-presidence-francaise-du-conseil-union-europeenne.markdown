@@ -19,7 +19,7 @@ Au total, près de 400 événements prévus en France et au sein de l’Union eu
 
 Parmi eux, 2 événements aborderont le thème de la transformation numérique des États.
 
-### Tech for Government : pitch session
+<h3><span lang="en">Tech for Government : pitch session</span></h3>
 
 **Le 10 janvier 2022, à Paris**
 <img src="/uploads/2022_01_06_800x430_ACTU_PFUE_pitch-session.png" alt="" style="margin-right: 20px" width="50%" align="left">
