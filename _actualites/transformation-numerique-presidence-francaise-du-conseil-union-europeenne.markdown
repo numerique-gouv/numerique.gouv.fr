@@ -50,7 +50,7 @@ Organisée au sein du nouvel Institut national du service public, cette réunion
 
 Chaque État membre assure, par rotation, la présidence du Conseil de l’Union européenne pendant six mois. **Du 1er janvier au 30 juin 2022, c’est la France qui présidera le Conseil de l’UE.** La présidence du Conseil organise les réunions, élabore des compromis, rend des conclusions et veille à la cohérence et à la continuité du processus de décision. Elle veille à une bonne coopération entre tous les États membres et assure les relations du Conseil avec les institutions européennes, notamment la Commission et le Parlement européen.
 
-## Qu’est-ce que le Conseil de l’Union européenne?
+<h2 style="margin-top: 70px">En quoi consiste la présidence du Conseil de l’Union européenne&nbsp;?</h2>
 
 Le Conseil de l’Union européenne, qu’on appelle aussi « Conseil des ministres de l’Union européenne » ou « Conseil », réunit les ministres des États membres de l’Union européenne par domaine d’activité. Il est, avec le Parlement européen, le co-législateur de l’Union européenne.
 
