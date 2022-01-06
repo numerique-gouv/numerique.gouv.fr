@@ -67,13 +67,6 @@ Le Conseil détient également des compétences en matière budgétaire : il arr
 
 **La PFUE s’articule avec le programme du « trio » des présidences**, dans lequel la France inscrit son action. Ce système, qui existe depuis 2009, permet de fixer des objectifs à long terme et de définir les grands thèmes qui seront traités pendant une période de 18 mois. Après la présidence slovène, la France entamera un nouveau cycle et travaillera en trio avec la République tchèque au second semestre 2022 et la Suède au premier semestre 2023.
 
-<div class="noir encadre" style="margin-bottom:30px;"><h3 class="h4">Le Conseil de l’UE ne doit pas être confondu avec :</h2>
-<ul><li><b>le Conseil européen</b> qui réunit les chefs d’État et de gouvernement des États membres et définit les orientations et les priorités politiques générales de l'Union européenne. Son président actuel est Charles Michel.</li>
-<li><b>le Conseil de l’Europe,</b> qui est une organisation intergouvernementale constituée de 47 États membres. Créée en 1949, elle a vocation à promouvoir le développement des droits de l’Homme, la démocratie et l’État de droit. Son siège est à Strasbourg et sa secrétaire générale est Marija Pejčinović Burić.</li></ul>
-<p>Plus d’informations :
-<ul><li><a href="https://www.touteleurope.eu">www.touteleurope.eu</a></li>
-<li><a href="https://www.consilium.europa.eu/fr/council-eu/">www.consilium.europa.eu/fr/council-eu/</li></ul>
-</p></div>
 
 ### Suivez la présidence française du Conseil de l’Union européenne
 
@@ -88,9 +81,9 @@ Retrouvez toutes les informations sur la présidence française du Conseil de l�
 * [Flickr](https://www.flickr.com/photos/francediplomatie/albums/)
 
 <div class="noir encadre" style="margin-bottom:30px;"><h3 class="h4">Le Conseil de l’UE ne doit pas être confondu avec :</h3>
-<p><ul><li>le <b>Conseil européen</b> qui réunit les chefs d’État et de gouvernement des États membres et définit les orientations et les priorités politiques générales de l'Union européenne. Son président actuel est Charles Michel.</li>
-<li>le <b>Conseil de l’Europe</b>, qui est une organisation intergouvernementale constituée de 47 États membres. Créée en 1949, elle a vocation à promouvoir le développement des droits de l’Homme, la démocratie et l’État de droit. Son siège est à Strasbourg et sa secrétaire générale est Marija Pejčinović Burić.</li></ul></p></div>
-
-Plus d’informations :
-* <a href="https://www.touteleurope.eu/">touteleurope.eu</a>
-* <a href="https://www.consilium.europa.eu/fr/council-eu/">consilium.europa.eu</a>
+<ul><li><b>le Conseil européen</b> qui réunit les chefs d’État et de gouvernement des États membres et définit les orientations et les priorités politiques générales de l'Union européenne. Son président actuel est Charles Michel.</li>
+<li><b>le Conseil de l’Europe,</b> qui est une organisation intergouvernementale constituée de 47 États membres. Créée en 1949, elle a vocation à promouvoir le développement des droits de l’Homme, la démocratie et l’État de droit. Son siège est à Strasbourg et sa secrétaire générale est Marija Pejčinović Burić.</li></ul>
+<p>Plus d’informations :
+<ul><li><a href="https://www.touteleurope.eu">www.touteleurope.eu</a></li>
+<li><a href="https://www.consilium.europa.eu/fr/council-eu/">www.consilium.europa.eu/fr/council-eu/</li></ul>
+</p></div>
