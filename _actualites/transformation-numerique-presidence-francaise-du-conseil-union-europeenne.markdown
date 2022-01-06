@@ -73,17 +73,17 @@ Le Conseil détient également des compétences en matière budgétaire : il arr
 Retrouvez toutes les informations sur la présidence française du Conseil de l’Union européenne sur le site officiel et les réseaux sociaux de la présidence :
 
 * site internet : [europe2022.fr](https://presidence-francaise.consilium.europa.eu/)
-* [Facebook](https://www.facebook.com/Europe2022FR)
-* [Instagram](https://www.instagram.com/europe2022fr/)
-* [LinkedIn](https://www.linkedin.com/company/europe2022fr/)
-* [Twitter](https://twitter.com/Europe2022FR)
-* [Youtube](https://www.youtube.com/c/francediplomatie)
-* [Flickr](https://www.flickr.com/photos/francediplomatie/albums/)
+* [Facebook](https://www.facebook.com/Europe2022FR "Facebook - lien externe")
+* [Instagram](https://www.instagram.com/europe2022fr/ "Instagram  - lien externe")
+* [LinkedIn](https://www.linkedin.com/company/europe2022fr/ "Linkedin - lien externe")
+* [Twitter](https://twitter.com/Europe2022FR "Twitter - lien externe")
+* [Youtube](https://www.youtube.com/c/francediplomatie "Youtube - lien externe")
+* [Flickr](https://www.flickr.com/photos/francediplomatie/albums/ "Flickr - lien externe")
 
 <div class="noir encadre" style="margin-bottom:30px;"><h3 class="h4">Le Conseil de l’UE ne doit pas être confondu avec :</h3>
 <ul><li><b>le Conseil européen</b> qui réunit les chefs d’État et de gouvernement des États membres et définit les orientations et les priorités politiques générales de l'Union européenne. Son président actuel est Charles Michel.</li>
 <li><b>le Conseil de l’Europe,</b> qui est une organisation intergouvernementale constituée de 47 États membres. Créée en 1949, elle a vocation à promouvoir le développement des droits de l’Homme, la démocratie et l’État de droit. Son siège est à Strasbourg et sa secrétaire générale est Marija Pejčinović Burić.</li></ul>
 <p>Plus d’informations :
-<ul><li><a href="https://www.touteleurope.eu">www.touteleurope.eu</a></li>
-<li><a href="https://www.consilium.europa.eu/fr/council-eu/">www.consilium.europa.eu/fr/council-eu/</a></li></ul>
+<ul><li><a href="https://www.touteleurope.eu" alt="www.touteleurope.eu - lien externe">www.touteleurope.eu</a></li>
+<li><a href="https://www.consilium.europa.eu/fr/council-eu/" alt="www.consilium.europa.eu/fr/council-eu/ - lien externe">www.consilium.europa.eu/fr/council-eu/</a></li></ul>
 </p></div>
