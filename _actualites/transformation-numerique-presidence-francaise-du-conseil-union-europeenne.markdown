@@ -22,7 +22,7 @@ Parmi eux, 2 événements aborderont le thème de la transformation numérique d
 ### Tech for Government : pitch session
 
 **Le 10 janvier 2022, à Paris**
-
+<img src="/uploads/2022_01_06_800x430_ACTU_PFUE_pitch-session.png" alt="" style="margin-right: 20px" width="50%" align="left">
 Concours de pitchs autour des solutions tech pour les Gouvernements.
 
 13 équipes européennes porteuses d'une solution innovante au service de la transformation numérique des États et des administrations viennent défendre leur projet devant un jury d'experts européens sous forme de pitch.
