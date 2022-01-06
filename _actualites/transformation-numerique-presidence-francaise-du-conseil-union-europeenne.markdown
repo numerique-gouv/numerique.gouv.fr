@@ -1,7 +1,7 @@
 ---
 title: La transformation numérique des États à la Présidence française du Conseil
   de l’Union européenne
-date: 2021-12-21 10:00:00 +01:00
+date: 2022-01-06 10:00:00 +01:00
 categories:
 - Article
 chapeau-text: Pour la première fois depuis 14 ans, la France a pris la présidence
