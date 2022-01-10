@@ -66,7 +66,6 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 * **Confidentialité des échanges** (chiffrement des données, hébergement en France)
 * **Simple d’utilisation** et intuitif
 * **Création d’un espace de travail en 30 secondes**
-* **Synchronisation des fichiers** et dossiers directement vers son poste de travail
 * Accessible à tout moment depuis **différents appareils** (sur ordinateur via navigateur ; sur smartphone et tablette Android via [app dédiée](https://play.google.com/store/apps/details?id=com.resana.mobile_android "app dédiée - Lien externe")), en **mobilité**, en **télétravail**
 * Invitation simple et illimitée des **partenaires hors État**
 * Gestion et sécurisation des **versions de fichiers**
