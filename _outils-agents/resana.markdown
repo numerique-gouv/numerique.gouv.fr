@@ -6,10 +6,10 @@ tags:
 - plateforme collaborative
 - Resana
 - ETNA
-date_de_modification: 17 novembre 2021
+date_de_modification: 10 janvier 2022
 chapeau-text: |-
-  Déjà plus de 115 000 utilisateurs !
-  Destinée aux agents de l’État, la plateforme collaborative Resana leur offre un espace numérique complet pour faciliter le stockage, le partage et la coédition de documents, mais aussi le travail en équipe et en mode projet, y compris en mobilité.
+  Déjà plus de 127 000 utilisateurs !
+  Destinée aux agents de l’État, la plateforme collaborative Resana leur offre un espace numérique complet pour faciliter le stockage, le partage et la coédition de documents, mais aussi le travail en équipe et en mode projet, y compris en mobilité grâce à une application dédiée.
 une:
   image: "/uploads/Resana_1635x345.jpg"
 layout: rgaa
@@ -23,9 +23,12 @@ layout: rgaa
 
 <figure class='image-left' style='width: 8%;'>
 <img src="/uploads/picto-ordi.png"/>
-</figure>### Un espace numérique et des outils collaboratifs pour vos groupes de travail et groupes projets
+</figure>### Un espace numérique sécurisé et des outils collaboratifs pour vos groupes de travail et groupes projets
 {: .margin-bottom-1}
 Resana est une **plateforme collaborative** autour du **partage et stockage de documents**, très simple à prendre en main.
+
+Resana est homologuée au titre du [référentiel général de sécurité](https://www.numerique.gouv.fr/publications/referentiel-general-de-securite/) (RGS).
+
 <br>
 <br>
 <br>
@@ -68,6 +71,7 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 * Accessible à tout moment depuis **différents appareils** (sur ordinateur via navigateur ; sur smartphone et tablette Android via [app dédiée](https://play.google.com/store/apps/details?id=com.resana.mobile_android "app dédiée - Lien externe")), en **mobilité**, en **télétravail**
 * Invitation simple et illimitée des **partenaires hors État**
 * Gestion et sécurisation des **versions de fichiers**
+* **Solution sécurisée**, homologuée au titre du référentiel général de sécurité (RGS)
 * **Aide à l’utilisation** (guide utilisateur, tutoriels en ligne, [webinaires de prise en main](https://webinaire-resana.interstis.fr/public/ "webinaires  de prise en main - Lien externe"), RESANA académie…)
 * **Liens directs vers des outils utiles :** Webconférence de l’État, Tchap la messagerie instantanée de l’État
   <br>
@@ -75,7 +79,7 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 
 > #### Comment rejoindre Resana ?
 >
-> Pour créer votre compte en tant qu’agent de l’État ou d'un établissement public, faites-en la demande en envoyant un courriel à : <a href="mailto:resana.contact@modernisation.gouv.fr">resana.contact@modernisation.gouv.fr</a>
+> Pour créer votre compte en tant qu’agent de l’État ou d'un établissement public, faites-en la demande en envoyant un courriel à : <a href="mailto:contact@resana.numerique.gouv.fr">contact@resana.numerique.gouv.fr</a>
 {: .noir .encadre}
 
 ## Accéder à Resana
