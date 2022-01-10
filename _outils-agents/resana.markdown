@@ -28,7 +28,6 @@ layout: rgaa
 Resana est une **plateforme collaborative** autour du **partage et stockage de documents**, très simple à prendre en main.
 
 Resana est homologuée au titre du [référentiel général de sécurité](https://www.numerique.gouv.fr/publications/referentiel-general-de-securite/) (RGS).
-
 <br>
 <br>
 <br>
