@@ -66,7 +66,6 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 * **Confidentialité des échanges** (chiffrement des données, hébergement en France)
 * **Simple d’utilisation** et intuitif
 * **Création d’un espace de travail en 30 secondes**
-* **Synchronisation des fichiers** et dossiers directement vers son poste de travail
 * Accessible à tout moment depuis **différents appareils** (sur ordinateur via navigateur ; sur smartphone et tablette Android via [app dédiée](https://play.google.com/store/apps/details?id=com.resana.mobile_android "app dédiée - Lien externe")), en **mobilité**, en **télétravail**
 * Invitation simple et illimitée des **partenaires hors État**
 * Gestion et sécurisation des **versions de fichiers**
@@ -98,4 +97,6 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 
 *Resana est un service interministériel opéré par la direction interministérielle du numérique (DINUM). Il a été réalisé dans le cadre de **[TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public, piloté par la DINUM.*
 
-*Resana s’appuie sur un logiciel édité par la société [InterStis](https://interstis.fr/).* <br>
+*Resana s’appuie sur un logiciel édité par la société [InterStis](https://interstis.fr/).*
+
+*Développé initialement par le SGAR Nouvelle-Aquitaine, Resana a bénéficié d’un financement dans le cadre du [plan France Relance](https://france-relance.transformation.gouv.fr/ "https://france-relance.transformation.gouv.fr/ - Lien externe") pour son déploiement à l’échelle nationale et sa mise à disposition de l’ensemble des agents de l’État.*
