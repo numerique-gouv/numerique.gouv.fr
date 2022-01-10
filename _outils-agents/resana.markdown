@@ -71,6 +71,7 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 * Accessible à tout moment depuis **différents appareils** (sur ordinateur via navigateur ; sur smartphone et tablette Android via [app dédiée](https://play.google.com/store/apps/details?id=com.resana.mobile_android "app dédiée - Lien externe")), en **mobilité**, en **télétravail**
 * Invitation simple et illimitée des **partenaires hors État**
 * Gestion et sécurisation des **versions de fichiers**
+* **Solution sécurisée**, homologuée au titre du référentiel général de sécurité (RGS)
 * **Aide à l’utilisation** (guide utilisateur, tutoriels en ligne, [webinaires de prise en main](https://webinaire-resana.interstis.fr/public/ "webinaires  de prise en main - Lien externe"), RESANA académie…)
 * **Liens directs vers des outils utiles :** Webconférence de l’État, Tchap la messagerie instantanée de l’État
   <br>
