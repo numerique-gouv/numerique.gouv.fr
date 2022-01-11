@@ -23,7 +23,7 @@ Parmi eux, 2 événements aborderont le thème de la transformation numérique d
 
 <p><b>Le 10 janvier 2022, à Paris</b></p>
 
-<img src="/uploads/2022_01_06_800x430_ACTU_PFUE_pitch-session.png" alt="" style="margin-right: 20px" width="50%" align="left">
+<img src="/uploads/2022_01_11_800x430_ACTUS_PFUE.png" alt="" style="margin-right: 20px" width="50%" align="left">
 
 Concours de pitchs autour des solutions tech pour les Gouvernements.
 
@@ -42,8 +42,6 @@ Cet évènement, d'un format inédit, permettra de valoriser la coopération ent
 Organisée au sein du nouvel Institut national du service public, cette réunion permettra aux ministres européens chargés de la transformation et de la fonction publiques d'aborder les enjeux communs aux administrations publiques du XXIe siècle : la transformation numérique, la transparence et l'ouverture des administrations publiques, les nouvelles organisations de travail, et la mobilité européenne des fonctionnaires.
 
 *Un événement piloté par la DGAFP pour le compte du ministère de la Transformation et de la Fonction publiques, auquel la DINUM participera*
-
-## En quoi consiste la présidence du Conseil de l’Union européenne ?
 
 ### Une présidence tournante
 
