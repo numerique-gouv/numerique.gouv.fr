@@ -43,8 +43,6 @@ Organisée au sein du nouvel Institut national du service public, cette réunion
 
 *Un événement piloté par la DGAFP pour le compte du ministère de la Transformation et de la Fonction publiques, auquel la DINUM participera*
 
-## En quoi consiste la présidence du Conseil de l’Union européenne ?
-
 ### Une présidence tournante
 
 <img src="/uploads/logo_fr-presite.svg" alt="" style="margin-right: 20px" width="20%" align="left">
