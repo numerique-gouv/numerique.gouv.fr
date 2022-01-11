@@ -23,7 +23,7 @@ Parmi eux, 2 événements aborderont le thème de la transformation numérique d
 
 <p><b>Le 10 janvier 2022, à Paris</b></p>
 
-<img src="/uploads/2022_01_06_800x430_ACTU_PFUE_pitch-session.png" alt="" style="margin-right: 20px" width="50%" align="left">
+<img src="/uploads/2022_01_11_800x430_ACTUS_PFUE.png" alt="" style="margin-right: 20px" width="50%" align="left">
 
 Concours de pitchs autour des solutions tech pour les Gouvernements.
 
