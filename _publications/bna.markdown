@@ -1,7 +1,8 @@
 ---
-title: Baromètre numérique de l'agent 2022
+title: TEST Baromètre numérique de l'agent 2022
 date: 2022-01-12 10:53:00 +01:00
 permalink: "/bna/"
+published: false
 chapeau-text: Vous êtes agent de l’État ? Participez à l’enquête sur votre environnement
   de travail numérique.
 une-ou-diaporama:
