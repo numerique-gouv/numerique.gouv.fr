@@ -114,5 +114,5 @@ function myFunction(id) {
 </div>
 
 
-[> Télécharger la note d’organisation (pdf - 100 Ko)](/uploads/2022-01-12-Organigramme%20DINUM.PDF
-"Télécharger la note d’organisation - pdf, 100 Ko")
+[> Télécharger la note d’organisation (pdf - 250 Ko)](/uploads/note_organisation_DINUM_20200301-d030a7.pdf)
+"Télécharger la note d’organisation - pdf, 250 Ko")
