@@ -46,7 +46,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <br>
 
 
-<div class="text-center"><a href="/uploads/organigramme_DINUM.pdf" class="button">Consulter l'organigramme (pdf - 98 Ko)</a></div>
+<div class="text-center"><a href="/uploads/2022-01-12-Organigramme%20DINUM.PDF/" class="button">Consulter l'organigramme (pdf - 100 Ko)</a></div>
 
 <script>
 function myFunction(id) {
@@ -107,11 +107,12 @@ function myFunction(id) {
   </ul><br></li>
 
 <li><b>Le secrétariat général&nbsp;:</b> Catherine Ferréol</li>
-<li><b>La direction&nbsp;:</b> Nadi Bou Hanna. Adjoint&nbsp;: Xavier Albouy</li>
+<li><b>La direction par intérim&nbsp;:</b> Xavier Albouy</li>
 </ul>
 </div>
 </div>
 </div>
 
 
-[> Télécharger la note d’organisation (pdf - 250 Ko)](/uploads/note_organisation_DINUM_20200301.pdf "Télécharger la note d’organisation - pdf, 250 Ko")
+[> Télécharger la note d’organisation (pdf - 100 Ko)](/uploads/2022-01-12-Organigramme%20DINUM.PDF
+"Télécharger la note d’organisation - pdf, 100 Ko")
