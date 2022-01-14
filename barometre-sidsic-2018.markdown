@@ -1,6 +1,7 @@
 ---
 title: Baromètre SIDSIC 2018
 date: 2018-10-24 12:24:00 +02:00
+published: false
 layout: page-annexe
 ---
 
