@@ -16,7 +16,7 @@ layout: ressources-presse
 ## Xavier Albouy, directeur interministériel du numérique par intérim
 ### Photographie
 
-<img src="/uploads/2022_Xavier%20ALBOUY_directeur%20interminist%C3%A9riel%20du%20num%C3%A9rique%20par%20interim-web.png" alt="" style="margin-right: 20px" width="20%" 
+<img src="/uploads/2022_Xavier%20ALBOUY_directeur%20interminist%C3%A9riel%20du%20num%C3%A9rique%20par%20interim-web.png" alt="" style="margin-right: 20px" width="20%" align="left">
 <br>
 <br>
 
