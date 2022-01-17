@@ -106,7 +106,7 @@ function myFunction(id) {
   </ul><br></li>
 
 <li><b>Le secrétariat général&nbsp;:</b> Catherine Ferréol</li>
-<li><b>La direction;:</b> Xavier Albouy (par intérim)</li>
+<li><b>La direction:</b> Xavier Albouy (par intérim)</li>
 </ul>
 </div>
 </div>
