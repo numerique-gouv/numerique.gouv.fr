@@ -45,15 +45,19 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Directeur/Directrice de projet « accompagnement des initiatives citoyennes d'intérêt général » H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet--accompagnement-des-initiatives-citoyennes-d-interet-general--cdd-2-ans-reference-2021-769744/ "Directeur/Directrice de projet « accompagnement des initiatives citoyennes d'intérêt général » - Lien externe")**
+<br>Cadre/Catégorie A
 <br>
 
 * **[Responsable produit procuration et options de FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-produit-procuration-et-options-de-franceconnect-cdd-3-ans-renouvelable-une-fois-hf-reference-2021-773007/ "Responsable produit procuration et options de FranceConnect - Lien externe")**
+<br>Cadre/Catégorie A
 <br>
 
 * **[Chargé-e de mission communication, relations presse et événementiel H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-communication-relations-presse-et-evenementiel-cdd-de-6-mois-hf-reference-2022-793421/ "Chargé-e de mission communication, relations presse et événementiel - Lien externe")**
+<br>Cadre/Catégorie A
 <br>
 
 * **[Chargé-e de support produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-support-produits-numeriques-hf-reference-2022-793482/ "Chargé-e de support produits numériques - Lien externe")**
+<br>Cadre/Catégorie A
 <br>
 
 <!--
