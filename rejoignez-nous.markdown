@@ -40,32 +40,8 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Chef/Cheffe de projet « Dites-le-nous une fois adresse » H/F](https://place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet--dites-le-nous-une-fois-adresse--hf-reference-2021-765176/ "Chef/Cheffe de projet « Dites-le-nous une fois adresse » H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Responsable de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-produits-numeriques-cdd-3-ans-renouvelable-une-fois-hf-reference-2021-765146/ "Responsable de produits numériques H/F - Lien externe")**
 <br>Cadre/Catégorie A - Saint-Jacques-de-la-Lande (35), France
-<br>
-
-* **[Chargé-e de mission « observatoire de la qualité des démarches en ligne » H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission--observatoire-de-la-qualite-des-demarches-en-ligne--hf-reference-2021-765161/ "Chargé-e de mission « observatoire de la qualité des démarches en ligne » H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Développeur full-stack API Entreprise H/F](https://place-emploi-public.gouv.fr/offre-emploi/developpeur-full-stack-api-entreprise-hf-reference-2021-700472/ "Ingénieur-e sécurité réseau (Développeur full-stack API Entreprise H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Data scientist senior pour le Lab IA H/F](https://place-emploi-public.gouv.fr/offre-emploi/data-scientist-senior-pour-le-lab-ia-hf-reference-2021-732157/ "Data scientist senior pour le Lab IA H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Directeur/directrice de projet - Sécurisation et conseil sur les grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-et-conseil-sur-les-grands-projets-si-de-l-tat--cdd-3anshf-reference-2021-673191/ "Directeur/directrice de projet-Sécurisation et conseil sur les grands projets SI de l'État H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé-e de mission « open data » H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission--open-data--hf-reference-2021-748284/ "Chargé-e de mission « open data » H/F - Lien externe")**
-<br>Cadre/Catégorie A
 <br>
 
 <!--
