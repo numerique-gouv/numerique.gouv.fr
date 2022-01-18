@@ -76,7 +76,4 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <p><strong> Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) </strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/coordinateur-sectoriel-telecoms-hf-reference-2021-736102/" title="Coordinateur sectoriel télécoms H/F - Lien externe">Coordinateur sectoriel télécoms H/F</a></strong><br>Cadre/Catégorie A</li></ul>
 
-<p><strong> Groupement interministériel de contrôle (GIC)    </strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-maitrise-d-ouvrage-en-systemes-d-information-et-en-projets-de-surete---gic-reference-2021-593962/" title="Chef de projet Maîtrise d'Ouvrage en systèmes d'information et en projets de sûreté - GIC - Lien externe">Chef de projet Maîtrise d'Ouvrage en systèmes d'information et en projets de sûreté - GIC - H/F</a></strong><br>Cadre/Catégorie A</li></ul> 
-
 </div>
