@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 6 décembre 2021
+date_de_modification: 17 janvier 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -40,31 +40,23 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Chef/Cheffe de projet « Dites-le-nous une fois adresse » H/F](https://place-emploi-public.gouv.fr/offre-emploi/chefcheffe-de-projet--dites-le-nous-une-fois-adresse--hf-reference-2021-765176/ "Chef/Cheffe de projet « Dites-le-nous une fois adresse » H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Responsable de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-produits-numeriques-cdd-3-ans-renouvelable-une-fois-hf-reference-2021-765146/ "Responsable de produits numériques H/F - Lien externe")**
 <br>Cadre/Catégorie A - Saint-Jacques-de-la-Lande (35), France
 <br>
 
-* **[Chargé-e de mission « observatoire de la qualité des démarches en ligne » H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission--observatoire-de-la-qualite-des-demarches-en-ligne--hf-reference-2021-765161/ "Chargé-e de mission « observatoire de la qualité des démarches en ligne » H/F - Lien externe")**
+* **[Directeur/Directrice de projet « accompagnement des initiatives citoyennes d'intérêt général » H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet--accompagnement-des-initiatives-citoyennes-d-interet-general--cdd-2-ans-reference-2021-769744/ "Directeur/Directrice de projet « accompagnement des initiatives citoyennes d'intérêt général » - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Développeur full-stack API Entreprise H/F](https://place-emploi-public.gouv.fr/offre-emploi/developpeur-full-stack-api-entreprise-hf-reference-2021-700472/ "Ingénieur-e sécurité réseau (Développeur full-stack API Entreprise H/F - Lien externe")**
+* **[Responsable produit procuration et options de FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-produit-procuration-et-options-de-franceconnect-cdd-3-ans-renouvelable-une-fois-hf-reference-2021-773007/ "Responsable produit procuration et options de FranceConnect - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Data scientist senior pour le Lab IA H/F](https://place-emploi-public.gouv.fr/offre-emploi/data-scientist-senior-pour-le-lab-ia-hf-reference-2021-732157/ "Data scientist senior pour le Lab IA H/F - Lien externe")**
+* **[Chargé-e de mission communication, relations presse et événementiel H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-communication-relations-presse-et-evenementiel-cdd-de-6-mois-hf-reference-2022-793421/ "Chargé-e de mission communication, relations presse et événementiel - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Directeur/directrice de projet - Sécurisation et conseil sur les grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-et-conseil-sur-les-grands-projets-si-de-l-tat--cdd-3anshf-reference-2021-673191/ "Directeur/directrice de projet-Sécurisation et conseil sur les grands projets SI de l'État H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé-e de mission « open data » H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission--open-data--hf-reference-2021-748284/ "Chargé-e de mission « open data » H/F - Lien externe")**
+* **[Chargé-e de support produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-support-produits-numeriques-hf-reference-2022-793482/ "Chargé-e de support produits numériques - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
