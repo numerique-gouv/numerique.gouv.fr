@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 17 janvier 2022
+date_de_modification: 18 janvier 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -75,8 +75,5 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
 <p><strong> Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) </strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/coordinateur-sectoriel-telecoms-hf-reference-2021-736102/" title="Coordinateur sectoriel télécoms H/F - Lien externe">Coordinateur sectoriel télécoms H/F</a></strong><br>Cadre/Catégorie A</li></ul>
-
-<p><strong> Groupement interministériel de contrôle (GIC)    </strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/chef-de-projet-maitrise-d-ouvrage-en-systemes-d-information-et-en-projets-de-surete---gic-reference-2021-593962/" title="Chef de projet Maîtrise d'Ouvrage en systèmes d'information et en projets de sûreté - GIC - Lien externe">Chef de projet Maîtrise d'Ouvrage en systèmes d'information et en projets de sûreté - GIC - H/F</a></strong><br>Cadre/Catégorie A</li></ul> 
 
 </div>
