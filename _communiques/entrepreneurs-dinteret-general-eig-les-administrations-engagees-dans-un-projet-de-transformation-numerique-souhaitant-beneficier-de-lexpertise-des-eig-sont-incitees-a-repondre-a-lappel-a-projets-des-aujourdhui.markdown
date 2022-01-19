@@ -4,6 +4,8 @@ title: 'Entrepreneurs d’Intérêt Général (EIG) : les administrations engag�
   sont incitées à répondre à l’appel à projets dès aujourd’hui'
 date: 2022-01-19 12:36:00 +01:00
 published: false
+categories:
+- Communiqué de presse
 chapeau-text: 'Transformer l’administration de l’intérieur à l’aide du numérique et
   des données pour créer le service public de demain, c’est la promesse du programme
   Entrepreneurs d’intérêt général (EIG). Pour y parvenir, l’État recrute des talents
@@ -11,6 +13,14 @@ chapeau-text: 'Transformer l’administration de l’intérieur à l’aide du n
   ses administrations, des méthodes plus entrepreneuriales et innovantes au bénéfice
   de tous les Français. A cet effet, l’État incite ses administrations à répondre
   à l’appel à projets lancé aujourd’hui et jusqu’au 18 mars 2022. '
+contact-presse:
+  name: Floriane Beaudron
+  tel:
+  - '01 71 21 12 50 '
+  - 06.10.60.41.19
+  email: floriane.beaudron@modernisation.gouv.fr
+files:
+- nom: Télécharger le communiqué de presse
 ---
 
 Toutes les administrations centrales, déconcentrées et opérateurs de l’État ayant la volonté de s’engager dans un projet numérique innovant et bénéficier de l’appui des experts qui composeront la promotion n°6 du programme EIG sont invitées à soumettre leur projet dès aujourd’hui. 
