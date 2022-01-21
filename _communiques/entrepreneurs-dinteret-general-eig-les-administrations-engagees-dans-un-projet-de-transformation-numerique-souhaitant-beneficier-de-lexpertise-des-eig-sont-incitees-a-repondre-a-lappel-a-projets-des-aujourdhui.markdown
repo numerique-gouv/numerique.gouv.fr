@@ -13,7 +13,7 @@ chapeau-text: Transformer l’administration de l’intérieur à l’aide du nu
   de tous les Français. A cet effet, l’État incite ses administrations à répondre
   à l’appel à projets lancé aujourd’hui et jusqu’au 18 mars 2022.
 une-ou-diaporama:
-- image: "/uploads/AAP-6e_Dinum-A.jpg"
+- image: "/uploads/2022_01_21_CP-EIG_800x430.jpg"
   alternative-textuelle: |-
     6e appel à projets du programme Entrepreneurs d'intérêt général :
     Administrations, proposez vos projets numériques à partir du 24 janvier.
