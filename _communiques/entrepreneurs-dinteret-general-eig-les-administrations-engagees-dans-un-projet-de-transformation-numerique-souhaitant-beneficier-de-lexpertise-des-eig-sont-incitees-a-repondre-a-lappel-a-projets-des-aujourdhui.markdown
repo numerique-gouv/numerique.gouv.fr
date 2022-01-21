@@ -67,4 +67,4 @@ Le programme EIG est porté par le département Etalab de la direction intermini
 * Du 4 avril au 6 mai : pré-sélection des candidats au programme ; 
 Du 6 au 10 juin : jury de sélection des candidats ;
 
-* Le 12 septembre 2022 : arrivée des EIG et démarrage de la promotion EIG 6.
+* Le 12 septembre : arrivée des EIG et démarrage de la promotion EIG 6.
