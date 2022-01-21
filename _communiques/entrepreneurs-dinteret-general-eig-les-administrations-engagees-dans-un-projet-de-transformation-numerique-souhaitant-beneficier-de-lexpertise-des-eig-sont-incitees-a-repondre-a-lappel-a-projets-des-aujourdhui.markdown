@@ -31,9 +31,9 @@ files:
 
 Toutes les administrations centrales, déconcentrées et opérateurs de l’État ayant la volonté de s’engager dans un projet numérique innovant et bénéficier de l’appui des experts qui composeront la promotion n°6 du programme EIG sont invités à soumettre leur projet dès aujourd’hui. 
 
-Parmi les critères de sélection : l’impact réel ou potentiel pour les usagers, le caractère entrepreneurial du projet, le degré de portage hiérarchique de l’autorité soutenant le projet, les capacités de transformation numérique de l’administration porteuse du projet et les opportunités d’ouverture du projet (démarche d’innovation ouverte et de partage des communs numériques). Les candidatures des administrations engagées dans une stratégie numérique mature seront particulièrement appréciées. 
+**Parmi les critères de sélection :** l’impact réel ou potentiel pour les usagers, le caractère entrepreneurial du projet, le degré de portage hiérarchique de l’autorité soutenant le projet, les capacités de transformation numérique de l’administration porteuse du projet et les opportunités d’ouverture du projet (démarche d’innovation ouverte et de partage des communs numériques). Les candidatures des administrations engagées dans une stratégie numérique mature seront particulièrement appréciées. 
 
-La direction interministérielle du numérique assure le recrutement, finance 20 000€ par talent recruté aux administrations éligibles à un cofinancement (la rémunération d’un talent étant fixée entre 3 500€ et 4 000€ nets mensuels pendant 10 mois) et organise des sessions d’accompagnement (ateliers-conférences, expéditions apprenantes et coaching personnalisé) dédiées aux administrations et à leurs EIG.
+La direction interministérielle du numérique assure **le recrutement**, finance 20 000€ par talent recruté aux administrations éligibles à **un cofinancement** (la rémunération d’un talent étant fixée entre 3 500€ et 4 000€ nets mensuels pendant 10 mois) et organise **des sessions d’accompagnement** (ateliers-conférences, expéditions apprenantes et coaching personnalisé) dédiées aux administrations et à leurs EIG.
 
 En septembre 2022, les administrations retenues accueilleront, par équipe de 2 ou 3, les développeurs, data scientists, data engineers, designers ou juristes du numérique sélectionnés qui composeront la promotion EIG 6. Ils auront pour mission d’améliorer concrètement la transformation numérique du service public en 10 mois. Dès le 7 mars, ces talents seront invités à répondre à l’appel à candidatures ouvert jusqu’au 3 avril 2022.
 
@@ -56,7 +56,7 @@ Le programme EIG est porté par le département Etalab de la direction intermini
 * Près de 500 candidats en 2021 pour 38 postes.
 
 - **Dates 2022 à retenir la promotion 6 :
-o Du 24 janvier au 18 mars: appel à projets auprès des administrations ;
+<br>o Du 24 janvier au 18 mars: appel à projets auprès des administrations ;
 <li><b>Du 21 au 25 mars : pré-sélection des projets des administrations ; 
 <li><b>Les 31 mars et 1er avril : jury de sélection de projets ;</b>
 <br>o Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; 
