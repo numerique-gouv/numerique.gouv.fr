@@ -63,9 +63,9 @@ Le programme EIG est porté par le département Etalab de la direction intermini
 <b>o Du 24 janvier au 18 mars: appel à projets auprès des administrations ;</b>
 <li><b>Du 21 au 25 mars : pré-sélection des projets des administrations ;</b> 
 <li><b>Les 31 mars et 1er avril : jury de sélection de projets ;</b>
-
-o Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; 
+<br>
+<br>o Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; 
 <li>Du 4 avril au 6 mai : pré-sélection des candidats au programme ; 
 <li>Du 6 au 10 juin : jury de sélection des candidats ;
-
+<br>
 <br>o Le 12 septembre 2022 : arrivée des EIG et démarrage de la promotion EIG 6.
