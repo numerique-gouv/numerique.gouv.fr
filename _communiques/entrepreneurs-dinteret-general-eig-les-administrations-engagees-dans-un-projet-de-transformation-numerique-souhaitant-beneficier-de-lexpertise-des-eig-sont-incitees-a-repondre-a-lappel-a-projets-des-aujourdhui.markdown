@@ -40,6 +40,7 @@ En septembre 2022, les administrations retenues accueilleront, par équipe de 2 
 [En savoir plus sur le programme EIG](https://eig.etalab.gouv.fr/) | [Consulter la plaquette de l’appel à projets 2022](https://eig.etalab.gouv.fr/participer/administrations/)
 
 *« Avec EIG, l’État se dote de talents de la tech pour réussir ses grands projets de transformation, garantir sa souveraineté numérique et créer le service public demain. J’incite toutes les administrations de l’État souhaitant bénéficier de ces expertises de haut niveau à candidater au programme EIG, c’est une opportunité inédite et je me réjouis du lancement de cette nouvelle promotion ».*
+
 **Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques**
 
 Le programme EIG est porté par le département Etalab de la direction interministérielle du numérique (DINUM) sous l’autorité d’Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques. 
@@ -54,11 +55,11 @@ Le programme EIG est porté par le département Etalab de la direction intermini
 * Plus de 172 talents recrutés dont 64% décident de rester dans le secteur public après leur expérience EIG ;
 * Près de 500 candidats en 2021 pour 38 postes.
 
-*** Dates 2022 à retenir la promotion 6 :
+<li><b> Dates 2022 à retenir la promotion 6 :
 o Du 24 janvier au 18 mars: appel à projets auprès des administrations ;
-- Du 21 au 25 mars : pré-sélection des projets des administrations ; 
-- Les 31 mars et 1er avril : jury de sélection de projets ;**
-o Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; 
-- Du 4 avril au 6 mai : pré-sélection des candidats au programme ; 
-- Du 6 au 10 juin : jury de sélection des candidats ; 
+Du 21 au 25 mars : pré-sélection des projets des administrations ; 
+Les 31 mars et 1er avril : jury de sélection de projets ;</b>
+<br>o Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; 
+  Du 4 avril au 6 mai : pré-sélection des candidats au programme ; 
+  Du 6 au 10 juin : jury de sélection des candidats ; 
 o Le 12 septembre 2022 : arrivée des EIG et démarrage de la promotion EIG 6.
