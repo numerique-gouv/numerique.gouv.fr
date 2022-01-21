@@ -58,7 +58,7 @@ Le programme EIG est porté par le département Etalab de la direction intermini
 * Plus de 172 talents recrutés dont 64% décident de rester dans le secteur public après leur expérience EIG ;
 * Près de 500 candidats en 2021 pour 38 postes.
 
-<b><li>Du 24 janvier au 18 mars: appel à projets auprès des administrations ;
+<b><li>Du 24 janvier au 18 mars: appel à projets auprès des administrations ;</li>
 <li>Du 21 au 25 mars : pré-sélection des projets des administrations ; 
 <li>Les 31 mars et 1er avril : jury de sélection de projets ;</b>
 
