@@ -29,7 +29,7 @@ files:
   nom: Télécharger le communiqué de presse
 ---
 
-**Toutes les administrations centrales, déconcentrées et opérateurs de l’État ayant la volonté de s’engager dans un projet numérique innovant et bénéficier de l’appui des experts qui composeront la promotion n°6 du programme EIG sont invités à soumettre leur projet dès aujourd’hui. **
+**Toutes les administrations centrales, déconcentrées et opérateurs de l’État ayant la volonté de s’engager dans un projet numérique innovant et bénéficier de l’appui des experts qui composeront la promotion n°6 du programme EIG sont invités à soumettre leur projet dès aujourd’hui.**
 
 Parmi les critères de sélection : l’impact réel ou potentiel pour les usagers, le caractère entrepreneurial du projet, le degré de portage hiérarchique de l’autorité soutenant le projet, les capacités de transformation numérique de l’administration porteuse du projet et les opportunités d’ouverture du projet (démarche d’innovation ouverte et de partage des communs numériques). Les candidatures des administrations engagées dans une stratégie numérique mature seront particulièrement appréciées. 
 
