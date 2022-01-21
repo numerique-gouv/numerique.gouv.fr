@@ -2,7 +2,7 @@
 title: 'Entrepreneurs d’Intérêt Général (EIG) : les administrations engagées dans
   un projet de transformation numérique souhaitant bénéficier de l’expertise des EIG
   sont incitées à répondre à l’appel à projets dès aujourd’hui'
-date: 2022-01-19 12:36:00 +01:00
+date: 2022-01-21 12:36:00 +01:00
 categories:
 - Communiqué de presse
 chapeau-text: Transformer l’administration de l’intérieur à l’aide du numérique et
@@ -37,11 +37,12 @@ La direction interministérielle du numérique assure **le recrutement**, financ
 
 En septembre 2022, les administrations retenues accueilleront, par équipe de 2 ou 3, les développeurs, data scientists, data engineers, designers ou juristes du numérique sélectionnés qui composeront la promotion EIG 6. Ils auront pour mission d’améliorer concrètement la transformation numérique du service public en 10 mois. Dès le 7 mars, ces talents seront invités à répondre à l’appel à candidatures ouvert jusqu’au 3 avril 2022.
 
-[En savoir plus sur le programme EIG](https://eig.etalab.gouv.fr/) | [Consulter la plaquette de l’appel à projets 2022](https://eig.etalab.gouv.fr/participer/administrations/)
+* [En savoir plus sur le programme EIG](https://eig.etalab.gouv.fr/)
+* [Consulter la plaquette de l’appel à projets 2022](https://eig.etalab.gouv.fr/participer/administrations/)
 
-*« Avec EIG, l’État se dote de talents de la tech pour réussir ses grands projets de transformation, garantir sa souveraineté numérique et créer le service public demain. J’incite toutes les administrations de l’État souhaitant bénéficier de ces expertises de haut niveau à candidater au programme EIG, c’est une opportunité inédite et je me réjouis du lancement de cette nouvelle promotion ».*
+<div class="citation"><p>Avec EIG, l’État se dote de talents de la tech pour réussir ses grands projets de transformation, garantir sa souveraineté numérique et créer le service public demain. J’incite toutes les administrations de l’État souhaitant bénéficier de ces expertises de haut niveau à candidater au programme EIG, c’est une opportunité inédite et je me réjouis du lancement de cette nouvelle promotion.</p></div>
 
-**Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques**
+<div class="auteur-citation">Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques</div>
 
 Le programme EIG est porté par le département Etalab de la direction interministérielle du numérique (DINUM) sous l’autorité d’Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques. 
 
