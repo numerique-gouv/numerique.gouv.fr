@@ -47,7 +47,8 @@ En septembre 2022, les administrations retenues accueilleront, par équipe de 2 
 Le programme EIG est porté par le département Etalab de la direction interministérielle du numérique (DINUM) sous l’autorité d’Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques. 
 
 *Des photos et contacts pour témoignages peuvent être transmis sur demande.*
-
+<br>
+<br>
 **ENTREPRENEURS D’INTÉRÊT GÉNÉRAL EN BREF :**
 
 * 6ème année consécutive ;
