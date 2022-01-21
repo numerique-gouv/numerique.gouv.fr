@@ -50,22 +50,21 @@ Le programme EIG est porté par le département Etalab de la direction intermini
 <br>
 <br>
 <br>
-**ENTREPRENEURS D’INTÉRÊT GÉNÉRAL EN BREF :**
+**ENTREPRENEURS D’INTÉRÊT GÉNÉRAL EN BREF ET DATES 2022 À RETENIR LA 6e PROMOTION :**
 
 * 6ème année consécutive ;
 * 87 projets accompagnés (comme [Signaux Faibles](https://eig.etalab.gouv.fr/defis/signaux-faibles/), [Prédisauvetage](https://eig.etalab.gouv.fr/defis/predisauvetage/), [Open Justice](https://eig.etalab.gouv.fr/defis/open-justice/) ou encore [Réfugiés.info](https://eig.etalab.gouv.fr/defis/karfur/)) dont 90% perdurent ensuite dans les administrations qui les ont menés ; 
 * 80 administrations impactées, parmi elles : ministères de la Justice, de la Culture et de l’Intérieur, Haute Autorité de Santé, Museum d’Histoire naturelle, Cour des comptes, commissariat général au développement durable… ;
 * Plus de 172 talents recrutés dont 64% décident de rester dans le secteur public après leur expérience EIG ;
 * Près de 500 candidats en 2021 pour 38 postes.
-
-<b>- Dates 2022 à retenir pour EIG 6 :</b>
-
-<b>o Du 24 janvier au 18 mars: appel à projets auprès des administrations ;</b>
-<li><b>Du 21 au 25 mars : pré-sélection des projets des administrations ;</b> 
-<li><b>Les 31 mars et 1er avril : jury de sélection de projets ;</b>
 <br>
-<br>o Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; 
+<b>
+* Du 24 janvier au 18 mars: appel à projets auprès des administrations ;
+* Du 21 au 25 mars : pré-sélection des projets des administrations ; 
+* Les 31 mars et 1er avril : jury de sélection de projets ;</b>
+<br>
+* Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; 
 <li>Du 4 avril au 6 mai : pré-sélection des candidats au programme ; 
-<li>Du 6 au 10 juin : jury de sélection des candidats ;
+Du 6 au 10 juin : jury de sélection des candidats ;
 <br>
-<br>o Le 12 septembre 2022 : arrivée des EIG et démarrage de la promotion EIG 6.
+* Le 12 septembre 2022 : arrivée des EIG et démarrage de la promotion EIG 6.
