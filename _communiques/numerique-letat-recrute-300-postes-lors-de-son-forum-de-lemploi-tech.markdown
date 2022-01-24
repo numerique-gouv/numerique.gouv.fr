@@ -36,15 +36,15 @@ L’État réitère son forum de l’emploi dédié au numérique pour faire con
 * **Forum en ligne du 29 au 15/12 :** conférences sur la culture tech de l’État et du service public, job dating et présentations de recruteurs ;
 * **Forum à Paris le 16/12 :** espace d’échanges et ateliers de développement, avec la participation de la ministre de la Transformation et de la Fonction publiques, Amélie de Montchalin.
 
-« J'ai participé au Forum de l’emploi tech de l’État en 2019 en tant que recruteur et en 2020 en tant que candidat. Ce que j’ai le plus apprécié ? Le jobdating, exercice exigeant mais très efficace, il permet au recruteur de faire découvrir des opportunités d’emploi et d’identifier de futurs collaborateurs ; et au candidat d’échanger avec plusieurs recruteurs et de développer son réseau voire de transformer ses échanges en opportunité d’emploi, et c’est ce qui m’a permis de décrocher mon poste actuel ». 
+<div class="citation"><p>J'ai participé au Forum de l’emploi tech de l’État en 2019 en tant que recruteur et en 2020 en tant que candidat. Ce que j’ai le plus apprécié ? Le jobdating, exercice exigeant mais très efficace, il permet au recruteur de faire découvrir des opportunités d’emploi et d’identifier de futurs collaborateurs ; et au candidat d’échanger avec plusieurs recruteurs et de développer son réseau voire de transformer ses échanges en opportunité d’emploi, et c’est ce qui m’a permis de décrocher mon poste actuel.</p></div>
 
-**Patrick Amarelis sous-directeur adjoint au directeur du numérique, ministère de l’Intérieur.**
+<div class="auteur-citation">Patrick Amarelis sous-directeur adjoint au directeur du numérique, ministère de l’Intérieur.</div>
 
 [En savoir plus et consulter le programme complet](https://www.numerique.gouv.fr/agenda/forum-emploi-tech-etat-2021/) (inscription obligatoire et dates d’inscription limitées !) 
 
-« L’État a besoin de recruter les meilleurs talents du numérique pour conduire ses projets numériques au service des Français. Ce sont plus de 300 offres d’emploi qui sont ouvertes pour venir servir l’intérêt général au sein des administrations. Disposer de compétences numériques de haut niveau au sein de l’État est un enjeu majeur de souveraineté. » 
+<div class="citation"><p>L’État a besoin de recruter les meilleurs talents du numérique pour conduire ses projets numériques au service des Français. Ce sont plus de 300 offres d’emploi qui sont ouvertes pour venir servir l’intérêt général au sein des administrations. Disposer de compétences numériques de haut niveau au sein de l’État est un enjeu majeur de souveraineté.</p></div>
 
-**Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques**
+<div class="auteur-citation">Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques</div>
 
 *Ces initiatives sont portées par le ministère de la Transformation et de la Fonction publiques et s’inscrivent dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) d’accélération de la transformation numérique du service public conduit en son sein par la direction interministérielle du numérique (DINUM).*
 
