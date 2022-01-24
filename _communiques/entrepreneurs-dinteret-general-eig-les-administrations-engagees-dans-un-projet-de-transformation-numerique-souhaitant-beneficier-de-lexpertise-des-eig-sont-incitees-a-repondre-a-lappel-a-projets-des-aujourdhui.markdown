@@ -5,6 +5,10 @@ title: 'Entrepreneurs d’Intérêt Général (EIG) : les administrations engag�
 date: 2022-01-24 14:00:00 +01:00
 categories:
 - Communiqué de presse
+tags:
+- entrepreneur.e d’intérêt général
+- Etalab
+- Données
 chapeau-text: Transformer l’administration de l’intérieur à l’aide du numérique et
   des données pour créer le service public de demain, c’est la promesse du programme
   Entrepreneurs d’intérêt général (EIG). Pour y parvenir, l’État recrute des talents
