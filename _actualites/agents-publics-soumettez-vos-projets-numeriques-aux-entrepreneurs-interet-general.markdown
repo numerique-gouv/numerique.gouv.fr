@@ -14,6 +14,9 @@ chapeau-text: Entrepreneurs d’intérêt général (EIG), programme d’Etalab 
   jusqu’au 18 mars 2022. Visitez le site du programme EIG pour postuler.
 une-ou-diaporama:
 - image: "/uploads/2022_01_21_CP-EIG_800x430-39e32f.jpg"
+  alternative-textuelle: |-
+    6e appel à projets du programme Entrepreneurs d'intérêt général : Administrations, proposez vos projets numériques jusqu'au 18 mars.
+    Informations sur eig.etalab.gouv.fr
 auteur: https://www.etalab.gouv.fr/
 redirection: https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2
 ---

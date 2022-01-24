@@ -15,8 +15,7 @@ chapeau-text: Transformer l’administration de l’intérieur à l’aide du nu
 une-ou-diaporama:
 - image: "/uploads/2022_01_21_CP-EIG_800x430.jpg"
   alternative-textuelle: |-
-    6e appel à projets du programme Entrepreneurs d'intérêt général :
-    Administrations, proposez vos projets numériques à partir du 24 janvier.
+    6e appel à projets du programme Entrepreneurs d'intérêt général : Administrations, proposez vos projets numériques jusqu'au 18 mars.
     Informations sur eig.etalab.gouv.fr
 contact-presse:
   name: Floriane Beaudron
