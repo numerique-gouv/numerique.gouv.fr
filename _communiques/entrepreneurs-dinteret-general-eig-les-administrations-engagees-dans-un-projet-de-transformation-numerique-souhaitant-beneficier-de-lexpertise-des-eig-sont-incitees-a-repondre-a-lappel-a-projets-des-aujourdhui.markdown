@@ -2,7 +2,7 @@
 title: 'Entrepreneurs d’Intérêt Général (EIG) : les administrations engagées dans
   un projet de transformation numérique souhaitant bénéficier de l’expertise des EIG
   sont incitées à répondre à l’appel à projets dès aujourd’hui'
-date: 2022-01-21 12:36:00 +01:00
+date: 2022-01-24 14:00:00 +01:00
 categories:
 - Communiqué de presse
 chapeau-text: Transformer l’administration de l’intérieur à l’aide du numérique et
