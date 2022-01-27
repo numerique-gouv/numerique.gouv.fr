@@ -61,8 +61,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Formatrice</h3>
 
-**Camille Rozier**
-Cheffe de projet simplification et sciences comportementales à la Direction interministérielle de la transformation publique (DITP) 
+**Camille Rozier**, cheffe de projet simplification et sciences comportementales à la Direction interministérielle de la transformation publique (DITP) 
 
 <h3 class="h2">Pour participer</h3>
 
