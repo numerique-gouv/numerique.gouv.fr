@@ -54,10 +54,10 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Au programme</h3>
 
-* **Enjeux** de simplification de l'information
+* **Enjeux de simplification** de l'information
 * **Comment** le cerveau **traite** l'information
 * **Principes de conception** d'une information adaptée
-* **Méthodologie** de simplification centrée usager
+* **Méthodologie de simplification** centrée usager
 * **Conclusion**
 
 
@@ -65,4 +65,4 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/simplification-information/) et d'assister à la formation en ligne directement sur [la chaîne YouTube de DesignGouv](https://www.youtube.com/watch?v=7scX1FO_FQM) le Jour J (avec transcription par vélotypie). Elle sera aussi accessible en différé si vous n'êtes pas disponible à cette date.
 
-<div class="encadre noir"> <h3>3 autres formations à ne pas manquer</h3> <p>N’oubliez pas qu’en plus de la formation simplification de l'information aux usagers, quatre autres vous sont proposées gratuitement&nbsp;: <a href="https://design.numerique.gouv.fr/formations/accessibilite/">accessibilité</a>, <a href="https://design.numerique.gouv.fr/formations/design/">design</a>, <a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/">recherche utilisateur</a> et <a href="https://design.numerique.gouv.fr/formations/ecoconception/">écoconception</a>. Inscrivez-vous dès maintenant (formulaires distincts)&nbsp;!</p> </div>
+<div class="encadre noir"> <h3>4 autres formations à ne pas manquer</h3> <p>N’oubliez pas qu’en plus de la formation simplification de l'information aux usagers, quatre autres vous sont proposées gratuitement&nbsp;: <a href="https://design.numerique.gouv.fr/formations/accessibilite/">accessibilité</a>, <a href="https://design.numerique.gouv.fr/formations/design/">design</a>, <a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/">recherche utilisateur</a> et <a href="https://design.numerique.gouv.fr/formations/ecoconception/">écoconception</a>. Inscrivez-vous dès maintenant (formulaires distincts)&nbsp;!</p> </div>
