@@ -51,7 +51,6 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * Connaître les principes de simplification
 * Appliquer une méthodologie de simplification centrée usager
 
-
 <h3 class="h2">Au programme</h3>
 
 * **Enjeux de simplification** de l'information
@@ -60,6 +59,10 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **Méthodologie de simplification** centrée usager
 * **Conclusion**
 
+<h3 class="h2">Formatrice</h3>
+
+**Camille Rozier**
+Cheffe de projet simplification et sciences comportementales à la Direction interministérielle de la transformation publique (DITP) 
 
 <h3 class="h2">Pour participer</h3>
 
