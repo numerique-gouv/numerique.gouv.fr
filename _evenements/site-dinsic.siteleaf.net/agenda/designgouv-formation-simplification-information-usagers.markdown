@@ -38,7 +38,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **une formation à la simplification de l'information aux usagers** le 17 février (ci-dessous)
 
 <h2 class="text-center">Formation à la simplification de l'information aux usagers</h2>
-<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le jeudi 17 février de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv&nbsp;!</p> </div>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le jeudi 17 février de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv, animée par Camille Rozier, Cheffe de projet Simplification & Sciences Comportementales à la Direction interministérielle de la transformation publique (DITP)&nbsp;!</p> </div>
 
 <h3 class="h2">Pour qui ?</h3>
 
