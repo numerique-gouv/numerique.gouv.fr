@@ -31,11 +31,11 @@ champs_informations:
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
 
 Pour que les administrations se posent les bonnes questions aux bons moments, pour qu'elles prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bons interlocuteurs, le pôle [**Design des services numériques**](https://design.numerique.gouv.fr/ "Design des services numériques - Lien externe") de la direction interministérielle du numérique (DINUM) propose **cinq formations gratuites indispensables** : 
-* **[une formation à l'accessibilité numérique](https://www.numerique.gouv.fr/agenda/designgouv-formation-accessibilite-numerique/)** le 18 novembre 
-* **[une formation au design](https://www.numerique.gouv.fr/agenda/designgouv-formation-design/)** le 30 novembre 
-* **[une formation à la recherche utilisateur](https://www.numerique.gouv.fr/agenda/designgouv-formation-recherche-utilisateur/)** le 9 décembre 
-* **[une formation à l'écoconception](https://www.numerique.gouv.fr/agenda/designgouv-formation-ecoconception/)** le 16 décembre
-* **une formation à la simplification de l'information aux usagers** le 17 février (ci-dessous)
+* **[une formation à l'accessibilité numérique](https://www.numerique.gouv.fr/agenda/designgouv-formation-accessibilite-numerique/)** le 18 novembre 2021
+* **[une formation au design](https://www.numerique.gouv.fr/agenda/designgouv-formation-design/)** le 30 novembre 2021
+* **[une formation à la recherche utilisateur](https://www.numerique.gouv.fr/agenda/designgouv-formation-recherche-utilisateur/)** le 9 décembre 2021
+* **[une formation à l'écoconception](https://www.numerique.gouv.fr/agenda/designgouv-formation-ecoconception/)** le 16 décembre 2021
+* **une formation à la simplification de l'information aux usagers** le 17 février 2022 (ci-dessous)
 
 <h2 class="text-center">Formation à la simplification de l'information aux usagers</h2>
 <div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le jeudi 17 février de 10h à 12h, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv&nbsp;!</p> </div>
