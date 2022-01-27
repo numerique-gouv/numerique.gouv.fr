@@ -12,7 +12,7 @@ tags:
 chapeau-text: 'Pourquoi et comment employer un langage simple et clair pour nos services
   publics, en explorant les subtilités du fonctionnement de notre cerveau  : le pôle
   **Design des services numériques** de la direction interministérielle du numérique
-  (DINUM) propose une nouvelle **formation gratuite à la sipmplification de l''information
+  (DINUM) propose une nouvelle **formation gratuite à la simplification de l''information
   aux usagers, le jeudi 17 février, de 10h à 12h.**'
 event_start_date: 2022-02-17 10:00:00 +01:00
 champs_informations:
