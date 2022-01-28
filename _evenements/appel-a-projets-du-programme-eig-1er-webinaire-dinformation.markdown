@@ -12,6 +12,7 @@ categorie: Webinaire d'information
 une-ou-diaporama:
 - image: "/uploads/2022_01_28_Article-EIG_800x430.png"
 event_start_date: 2022-02-03 13:45:00 +01:00
+event_end_date: 2022-02-03 14:45:00 +01:00
 lieu: Webinaire de l’Etat
 champs_informations:
 - intitule: Horaires
@@ -36,14 +37,14 @@ Le programme Entrepreneurs d’intérêt général a lancé ce lundi 24 janvier 
 Venez découvrir le programme et échanger autour de notre appel à projets :
 
 **Déroulé :**
-Temps 1. 13h45 – 14h05 : présentation du programme et de l’appel à projets
-Temps 2. 14h20 – 14h40 : témoignage d’Alexandre Thomas et d’Antoine Mazières du défi [CyberImpact](https://eig.etalab.gouv.fr/defis/cyberimp-ct/)
-Temps 3. 14h40 – 15h : questions / réponses
+* **13h45 – 14h05 :** présentation du programme et de l’appel à projets
+* **14h20 – 14h40 :** témoignage d’Alexandre Thomas et d’Antoine Mazières du défi [CyberImpact](https://eig.etalab.gouv.fr/defis/cyberimp-ct/)
+* **14h40 – 15h :** questions / réponses
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb"><b>Accéder au wébinaire d'information</b></a><p class="ouverture">Ouverture le 3 février à 13h45</p></div>
 
 <div class="lien-important"><p><a href="https://eig.etalab.gouv.fr/participer/administrations/proposer/">En savoir plus et répondre à l'appel à projets</a></p></div>
 
-Consultez notre site Internet dédié : https://eig.etalab.gouv.fr/
-Nous organisons d’autres moments pour échanger sur l’appel à projets, en webinaire le 17 février et le février).
-Questions et informations : mailto:eig@data.gouv.fr
+* Consultez notre site Internet dédié : https://eig.etalab.gouv.fr/
+* Nous organisons d’autres moments pour échanger sur l’appel à projets, en webinaire le 17 février et le février).
+* Questions et informations : mailto:eig@data.gouv.fr
