@@ -29,7 +29,7 @@ champs_informations:
   lien: https://eig.etalab.gouv.fr/participer/administrations/
 ---
 
-Le programme Entrepreneurs d’intérêt général a lancé ce lundi 24 janvier son sixième appel à projets à destination de toutes les administrations publiques, désireuses de mener des projets numériques innovants.
+Le programme **Entrepreneurs d’intérêt général** a lancé ce lundi 24 janvier son sixième appel à projets à destination de toutes les administrations publiques, désireuses de mener des projets numériques innovants.
 
 * Si vous êtes agent d’une collectivité territoriale ou d’un service déconcentré de l’Etat ;
 
@@ -39,7 +39,7 @@ Le programme Entrepreneurs d’intérêt général a lancé ce lundi 24 janvier 
 
 * Surtout, si vous voulez développer des projets numériques qui répondent aux besoins de vos usagers.
 
-Venez découvrir le programme et échanger autour de notre appel à projets **le 3 février prochain.**
+Venez découvrir le programme et échanger autour de notre appel à projets **le 3 février** prochain.
 
 **Déroulé :**
 <br>
@@ -53,4 +53,4 @@ Venez découvrir le programme et échanger autour de notre appel à projets **le
 * *Pas disponible le 3/02 ?* Participez au webinaire du 17 février (lien de la page agenda à venir).
 * *Questions et informations :* [eig@data.gouv.fr](mailto:eig@data.gouv.fr)
 
-<div class="lien-important"><p><a href="https://eig.etalab.gouv.fr/participer/administrations/proposer/">En savoir plus et répondre à l'appel à projets</a></p></div>
+<div class="lien-important"><p><a href="https://eig.etalab.gouv.fr/participer/administrations/proposer/">En savoir plus et répondre à l'appel à projets jusqu'au 18 mars</a></p></div>
