@@ -1,6 +1,10 @@
 ---
 title: Appel à projets du programme EIG - 3ème webinaire d'information
 date: 2022-01-28 15:06:00 +01:00
+categories:
+- Webinaire d'information
+tags:
+- Entrepreneur d'Intérêt Général
 chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intérêt général
   (EIG) et de son 6ème appel à projets, au cours de laquelle interviendront Gilles
   Gonon et Maud Galametz du défi [SMASH](https://eig.etalab.gouv.fr/defis/smash/)  (Direction
@@ -9,6 +13,17 @@ chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intér�
 categorie: Webinaire d'information
 une-ou-diaporama:
 - image: "/uploads/2022_01_28_Article-EIG_800x430.png"
+event_start_date: 2022-02-17 13:45:00 +01:00
+lieu: 'Événement 100% en ligne sous forme de webinaire '
+champs_informations:
+- intitule: Horaires
+  contenu: 13h45 - 14h45
+- intitule: Modalités
+  contenu: Connectez-vous ici le 17/02
+  lien: https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb
+- intitule: Plus d'informations sur le programme EIG
+  contenu: eig.etalab.gouv.fr
+  lien: https://eig.etalab.gouv.fr/
 ---
 
 Le programme **Entrepreneurs d’intérêt général** a lancé ce lundi 24 janvier [son sixième appel à projets](https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2) à destination de toutes les administrations publiques, désireuses de mener des projets numériques innovants.
