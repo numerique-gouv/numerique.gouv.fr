@@ -31,13 +31,11 @@ champs_informations:
 
 Le programme **Entrepreneurs d’intérêt général** a lancé ce lundi 24 janvier [son sixième appel à projets](https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2) à destination de toutes les administrations publiques, désireuses de mener des projets numériques innovants.
 
-* Si vous êtes agent d’une collectivité territoriale ou d’un service déconcentré de l’Etat ;
-
 * Si vous devez mener un projet numérique innovant, ou si vous avez identifié un nouveau service à développer ;
 
 * Si vous êtes passionnés par le numérique ou souhaitez accueillir de nouveaux talents pour faire passer le cap numérique à vos équipes ;
 
-* Surtout, si vous voulez développer des projets numériques qui répondent aux besoins de vos usagers.
+* Surtout, si vous voulez développer des projets numériques qui répondent aux besoins de vos usagers et/ou de vos agents.
 
 Venez découvrir le programme et échanger autour de notre appel à projets **le 3 février** prochain.
 
