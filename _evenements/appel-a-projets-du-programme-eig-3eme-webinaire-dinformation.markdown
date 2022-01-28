@@ -1,5 +1,5 @@
 ---
-title: Appel à projets du programme EIG - 3ème webinaire d'information
+title: Appel à projets du programme EIG - 3e webinaire d'information
 date: 2022-01-28 15:06:00 +01:00
 categories:
 - Webinaire d'information
@@ -36,7 +36,7 @@ Le programme **Entrepreneurs d’intérêt général** a lancé ce lundi 24 janv
 
 * Si vous êtes passionnés par le numérique ou souhaitez accueillir de nouveaux talents pour faire passer le cap numérique à vos équipes ;
 
-* Surtout, si vous voulez développer des projets numériques qui répondent aux besoins de vos usagers.
+* Surtout, si vous voulez développer des projets numériques qui répondent aux besoins de vos usagers et/ou de vos agents.
 
 Venez découvrir le programme et échanger autour de notre appel à projets **le 17 février** prochain.
 
