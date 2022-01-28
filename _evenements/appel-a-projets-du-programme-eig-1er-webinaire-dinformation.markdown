@@ -34,7 +34,7 @@ Le programme Entrepreneurs d’intérêt général a lancé ce lundi 24 janvier 
 
 * Surtout, si vous voulez développer des projets numériques qui répondent aux besoins de vos usagers.
 
-Venez découvrir le programme et échanger autour de notre appel à projets :
+Venez découvrir le programme et échanger autour de notre appel à projets le 3 février prochain.
 
 **Déroulé :**
 <br>
