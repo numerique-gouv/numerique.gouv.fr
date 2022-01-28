@@ -8,6 +8,9 @@ chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intér�
   Thomas et Antoine Mazières du défi [CyberImpact](https://eig.etalab.gouv.fr/defis/cyberimp-ct/)
   (Direction générale de la gendarmerie nationale (DGGN)). La session se clôturera
   par un échange de questions-réponses.
+categorie: Webinaire d'information
+une-ou-diaporama:
+- image: "/uploads/2022_01_28_Article-EIG_800x430.png"
 event_start_date: 2022-02-03 13:45:00 +01:00
 event_end_date: 2022-02-03 14:45:00 +01:00
 lieu: Webinaire de l’Etat
