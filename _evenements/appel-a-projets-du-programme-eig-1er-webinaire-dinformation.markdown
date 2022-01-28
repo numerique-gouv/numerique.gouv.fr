@@ -37,6 +37,7 @@ Le programme Entrepreneurs d’intérêt général a lancé ce lundi 24 janvier 
 Venez découvrir le programme et échanger autour de notre appel à projets :
 
 **Déroulé :**
+<br>
 * **13h45 – 14h05 :** présentation du programme et de l’appel à projets
 * **14h20 – 14h40 :** témoignage d’Alexandre Thomas et d’Antoine Mazières du défi [CyberImpact](https://eig.etalab.gouv.fr/defis/cyberimp-ct/)
 * **14h40 – 15h :** questions / réponses
