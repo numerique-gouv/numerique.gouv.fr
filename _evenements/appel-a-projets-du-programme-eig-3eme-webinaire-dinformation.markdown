@@ -28,3 +28,4 @@ Venez découvrir le programme et échanger autour de notre appel à projets **le
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb" class="button"><b>Accéder au webinaire d'information</b></a><p class="ouverture">Ouverture le 17 février à 13h45</p></div>
 
+<div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>N’hésitez pas à consulter notre site internet dédié : [eig.etalab.gouv.fr](https://eig.etalab.gouv.fr/participer/administrations/). Pour toutes questions et informations supplémentaires : [eig@data.gouv.fr](mailto:eig@data.gouv.fr)&nbsp;.</p> </div>
