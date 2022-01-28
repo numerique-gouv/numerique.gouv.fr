@@ -20,7 +20,7 @@ Le programme **Entrepreneurs d’intérêt général** a lancé ce lundi 24 janv
 
 Venez découvrir le programme et échanger autour de notre appel à projets **le 17 février** prochain.
 
-<h3 class="h2">**Déroulé :**</h3>
+<h3 class="h2">Déroulé :</h3>
 <br>
 * **13h45 – 14h05 :** présentation du programme et de l’appel à projets
 * **14h20 – 14h40 :** témoignages
