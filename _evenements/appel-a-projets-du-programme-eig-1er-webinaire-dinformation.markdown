@@ -12,7 +12,6 @@ categorie: Webinaire d'information
 une-ou-diaporama:
 - image: "/uploads/2022_01_28_Article-EIG_800x430.png"
 event_start_date: 2022-02-03 13:45:00 +01:00
-event_end_date: 2022-02-03 14:45:00 +01:00
 lieu: Webinaire de l’Etat
 champs_informations:
 - intitule: Horaires
