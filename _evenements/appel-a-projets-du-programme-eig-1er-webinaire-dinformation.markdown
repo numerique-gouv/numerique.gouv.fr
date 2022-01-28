@@ -42,7 +42,7 @@ Venez découvrir le programme et échanger autour de notre appel à projets :
 * **14h20 – 14h40 :** témoignage d’Alexandre Thomas et d’Antoine Mazières du défi [CyberImpact](https://eig.etalab.gouv.fr/defis/cyberimp-ct/)
 * **14h40 – 15h :** questions / réponses
 
-<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb"><b>Accéder au wébinaire d'information</b></a><p class="ouverture">Ouverture le 3 février à 13h45</p></div>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb" class="button"><b>Accéder au wébinaire d'information</b></a><p class="ouverture">Ouverture le 3 février à 13h45</p></div>
 
 <div class="lien-important"><p><a href="https://eig.etalab.gouv.fr/participer/administrations/proposer/">En savoir plus et répondre à l'appel à projets</a></p></div>
 
