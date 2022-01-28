@@ -1,6 +1,5 @@
 ---
-title: Appel à projets du programme EIG – 1er webinaire d’information pour déposer
-  un dossier réussi
+title: Appel à projets du programme EIG – 1er webinaire d’information
 date: 2022-01-28 10:50:00 +01:00
 categories:
 - Webinaire d'information
