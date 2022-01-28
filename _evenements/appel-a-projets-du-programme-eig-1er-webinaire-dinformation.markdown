@@ -20,7 +20,7 @@ champs_informations:
   contenu: Entrée libre
   lien: https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb
 - intitule: Plus d'informations
-  contenu: sur eig.etalab.gouv.fr
+  contenu: eig.etalab.gouv.fr
   lien: https://eig.etalab.gouv.fr/participer/administrations/
 ---
 
@@ -48,4 +48,4 @@ Venez découvrir le programme et échanger autour de notre appel à projets **le
 
 * *Consultez notre site Internet dédié :* [eig.etalab.gouv.fr](https://eig.etalab.gouv.fr/)
 * *Pas disponible le 3/02 ?* Participez au webinaire du 17 février (lien de la page agenda à venir).
-* Questions et informations : [eig@data.gouv.fr](mailto:eig@data.gouv.fr)
+* *Questions et informations :* [eig@data.gouv.fr](mailto:eig@data.gouv.fr)
