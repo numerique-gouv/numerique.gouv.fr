@@ -22,9 +22,8 @@ champs_informations:
 - intitule: Horaires
   contenu: 13h45 - 14h45
 - intitule: Modalités
-  contenu: Connectez-vous ici le 17/02
-  lien: https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb
-- intitule: Plus d'informations sur le programme EIG
+  contenu: Entrée libre et gratuite
+- intitule: Plus d'informations
   contenu: eig.etalab.gouv.fr
   lien: https://eig.etalab.gouv.fr/
 ---
