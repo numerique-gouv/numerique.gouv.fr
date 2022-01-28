@@ -12,7 +12,6 @@ categorie: Webinaire d'information
 une-ou-diaporama:
 - image: "/uploads/2022_01_28_Article-EIG_800x430.png"
 event_start_date: 2022-02-03 13:45:00 +01:00
-event_end_date: 2022-02-03 14:45:00 +01:00
 lieu: Webinaire de l’Etat
 champs_informations:
 - intitule: Horaires
@@ -47,6 +46,6 @@ Venez découvrir le programme et échanger autour de notre appel à projets le 3
 
 <div class="lien-important"><p><a href="https://eig.etalab.gouv.fr/participer/administrations/proposer/">En savoir plus et répondre à l'appel à projets</a></p></div>
 
-* Consultez notre site Internet dédié : [eig.etalab.gouv.fr](https://eig.etalab.gouv.fr/)
-* Nous organisons d’autres moments pour échanger sur l’appel à projets, en webinaire le 17 février et le février).
+* *Consultez notre site Internet dédié :* [eig.etalab.gouv.fr](https://eig.etalab.gouv.fr/)
+* *Pas disponible le 3/02 ?* Participez au webinaire du 17 février (lien de la page agenda à venir).
 * Questions et informations : [eig@data.gouv.fr](mailto:eig@data.gouv.fr)
