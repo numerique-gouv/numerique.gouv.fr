@@ -2,7 +2,7 @@
 title: Appel à projets du programme EIG – 1er webinaire d’information
 date: 2022-01-28 10:50:00 +01:00
 categories:
-- Réunion d'information
+- Webinaire d'information
 chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intérêt général
   et de son 6ème appel à projets, au cours de laquelle seront interviewés Alexandre
   Thomas et Antoine Mazières du défi [CyberImpact](https://eig.etalab.gouv.fr/defis/cyberimp-ct/)
