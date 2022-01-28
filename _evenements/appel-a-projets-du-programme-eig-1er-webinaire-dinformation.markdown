@@ -46,6 +46,6 @@ Venez découvrir le programme et échanger autour de notre appel à projets :
 
 <div class="lien-important"><p><a href="https://eig.etalab.gouv.fr/participer/administrations/proposer/">En savoir plus et répondre à l'appel à projets</a></p></div>
 
-* Consultez notre site Internet dédié : https://eig.etalab.gouv.fr/
+* Consultez notre site Internet dédié : [eig.etalab.gouv.fr](https://eig.etalab.gouv.fr/)
 * Nous organisons d’autres moments pour échanger sur l’appel à projets, en webinaire le 17 février et le février).
 * Questions et informations : [eig@data.gouv.fr](mailto:eig@data.gouv.fr)
