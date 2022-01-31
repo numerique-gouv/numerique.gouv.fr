@@ -47,7 +47,7 @@ Venez découvrir le programme et échanger autour de notre appel à projets **le
 
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb" class="button"><b>Accéder au webinaire d'information</b></a><p class="ouverture">Ouverture le 3 février à 13h45</p></div>
 
-* *Pas disponible le 3/02 ?* [Participez au webinaire du 17 février de 13h45 à 14h45.](https://numerique.gouv.fr/agenda/appel-a-projets-du-programme-eig-3eme-webinaire-dinformation/)
+* *Pas disponible le 3/02 ?* [Participez au webinaire du 17 février de 13h45 à 14h45.](https://numerique.gouv.fr/agenda/appel-a-projets-du-programme-eig-2eme-webinaire-dinformation/)
 
 <div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>N’hésitez pas à consulter le nouveau <a href="https://eig.etalab.gouv.fr/">site internet d’EIG</a> et à jeter un coup d’œil sur les <a href="https://www.dailymotion.com/playlist/x75m45">projets réalisés l’an passé</a>. Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez écrire à 
 <a href="mailto:eig@data.gouv.fr ">eig@data.gouv.fr</a>.</p> </div>
