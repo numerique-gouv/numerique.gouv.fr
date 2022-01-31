@@ -4,10 +4,10 @@ date: 2022-01-28 15:06:00 +01:00
 categories:
 - Webinaire d'information
 tags:
-- Entrepreneur d'Intérêt Général
+- Entrepreneurs d'Intérêt Général
 - innovation publique
 - Appel à projets
-- EIG
+- Etalab
 chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intérêt général
   (EIG), de son 6ème appel à projets, et des témoignages d'EIG. La session se clôturera
   par un échange de questions-réponses.
