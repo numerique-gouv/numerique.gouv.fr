@@ -1,5 +1,5 @@
 ---
-title: Appel à projets du programme EIG - 3e webinaire d'information
+title: Appel à projets du programme EIG - webinaire d'information
 date: 2022-01-28 15:06:00 +01:00
 categories:
 - Webinaire d'information
