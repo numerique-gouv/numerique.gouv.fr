@@ -40,7 +40,7 @@ Le programme **Entrepreneurs d’intérêt général** a lancé ce lundi 24 janv
 Venez découvrir le programme et échanger autour de notre appel à projets **le 3 février** prochain.
 
 <h3 class="h2">Déroulé :</h3>
-<br>
+
 * **13h45 – 14h05 :** présentation du programme et de l’appel à projets
 * **14h05 – 14h25 :** témoignage d’Alexandre Thomas, data engineer, et d’Antoine Mazières, data scientist, tous deux Entrepreneurs d’Intérêt Général  du défi [CyberImpact](https://eig.etalab.gouv.fr/defis/cyberimp-ct/) au sein de la Direction générale de la gendarmerie nationale.
 * **14h25 – 14h45 :** questions / réponses
