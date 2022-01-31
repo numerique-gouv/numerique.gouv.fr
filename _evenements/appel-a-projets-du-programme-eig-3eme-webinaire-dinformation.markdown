@@ -9,10 +9,8 @@ tags:
 - Appel à projets
 - EIG
 chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intérêt général
-  (EIG) et de son 6ème appel à projets, au cours de laquelle interviendront Gilles
-  Gonon et Maud Galametz du défi [SMASH](https://eig.etalab.gouv.fr/defis/smash/)  (Direction
-  de la Recherche, des Études, de l’Évaluation et des Statistiques (DREES)). La session
-  se clôturera par un échange de questions-réponses.
+  (EIG), de son 6ème appel à projets, et des témoignages d'EIG. La session se clôturera
+  par un échange de questions-réponses.
 categorie: Webinaire d'information
 une-ou-diaporama:
 - image: "/uploads/2022_01_28_Article-EIG_800x430.png"
@@ -42,7 +40,7 @@ Venez découvrir le programme et échanger autour de notre appel à projets **le
 <h3 class="h2">Déroulé :</h3>
 
 * **13h45 – 14h05 :** présentation du programme et de l’appel à projets
-* **14h20 – 14h40 :** témoignages
+* **14h20 – 14h40 :** témoignages d’EIG (intervenants à venir)
 * **14h40 – 15h :** questions / réponses
 <br>
 <br>
