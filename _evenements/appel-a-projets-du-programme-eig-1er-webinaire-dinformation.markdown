@@ -15,7 +15,14 @@ chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intér�
   par un échange de questions-réponses.
 categorie: Webinaire d'information
 une-ou-diaporama:
-- image: "/uploads/2022_01_28_Article-EIG_800x430.png"
+- image: "/uploads/2022_02_01_800x430_EIG-Webinaire-3-fevrier-2022_Agenda.jpg"
+  alternative-textuelle: |-
+    6e appel à projets du programme Entrepreneurs d'intérêt général
+
+    Webinaire d'information
+    Le 3 février 2022, de 13h45 à 14h45
+
+    - République française
 event_start_date: 2022-02-03 13:45:00 +01:00
 lieu: 'Evénement 100% en ligne sous forme de webinaire '
 champs_informations:
