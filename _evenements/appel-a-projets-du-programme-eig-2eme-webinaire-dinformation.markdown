@@ -9,8 +9,9 @@ tags:
 - Appel à projets
 - Etalab
 chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intérêt général
-  (EIG), de son 6ème appel à projets, et des témoignages d'EIG. La session se clôturera
-  par un échange de questions-réponses.
+  (EIG), de son 6ème appel à projets, au cours de laquelle interviendront des porteurs
+  de projets et des EIG data scientists. La session se clôturera par un échange de
+  questions-réponses.
 categorie: Webinaire d'information
 une-ou-diaporama:
 - image: "/uploads/2022_02_01_800x430_EIG-Webinaire-17-fevrier-2022_Agenda.jpg"
