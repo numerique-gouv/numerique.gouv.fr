@@ -48,7 +48,10 @@ Venez découvrir le programme et échanger autour de notre appel à projets **le
 <h3 class="h2">Déroulé :</h3>
 
 * **13h45 – 14h05 :** présentation du programme et de l’appel à projets
-* **14h05 – 14h25 :** témoignages d’EIG (intervenants à venir)
+* **14h05 – 14h25 :** témoignages :
+       * Colonel Romuald DE LA CRUZ, porteur du défi EIG [CyberImpact](https://eig.etalab.gouv.fr/defis/cyberimp-ct/) au sein de la Gendarmerie nationale, un projet destiné à harmoniser les données des interfaces numériques de la Gendarmerie nationale ;
+       * Jehanne Richet, porteuse du défi [SMASH](https://eig.etalab.gouv.fr/defis/smash/) au sein de la DREES, au ministère des Solidarités et de la Santé, projet visant à anticiper les dépenses en personnel des hôpitaux ;
+       * Gilles Gonon et Maud Galamtez, data scientists, tous deux Entrepreneurs d’intérêt général du projet [SMASH](https://eig.etalab.gouv.fr/defis/smash/)
 * **14h25 – 14h45 :** questions / réponses
 <br>
 <br>
