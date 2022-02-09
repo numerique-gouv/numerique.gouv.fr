@@ -40,10 +40,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Responsable de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-produits-numeriques-cdd-3-ans-renouvelable-une-fois-hf-reference-2021-765146/ "Responsable de produits numériques H/F - Lien externe")**
-<br>Cadre/Catégorie A - Saint-Jacques-de-la-Lande (35), France
-<br>
-
 * **[Ingénieur-e réseau - Chargé-e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres----cdd-3ans-renouvelable-hf-reference-2022-808713/ "Ingénieur-e réseau - Chargé-e de relations ministères - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
