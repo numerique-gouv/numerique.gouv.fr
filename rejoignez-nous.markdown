@@ -44,11 +44,11 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A - Saint-Jacques-de-la-Lande (35), France
 <br>
 
-* **[Directeur/Directrice de projet « accompagnement des initiatives citoyennes d'intérêt général » H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-de-projet--accompagnement-des-initiatives-citoyennes-d-interet-general--cdd-2-ans-reference-2021-769744/ "Directeur/Directrice de projet « accompagnement des initiatives citoyennes d'intérêt général » - Lien externe")**
+* **[Ingénieur-e réseau - Chargé-e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres----cdd-3ans-renouvelable-hf-reference-2022-808713/ "Ingénieur-e réseau - Chargé-e de relations ministères - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Responsable produit procuration et options de FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-produit-procuration-et-options-de-franceconnect-cdd-3-ans-renouvelable-une-fois-hf-reference-2021-773007/ "Responsable produit procuration et options de FranceConnect - Lien externe")**
+* **[Chef-fe de projet - Architecte technique / Services d'accès internet H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet---architecte-technique--services-d-acces-internet-hf-reference-2021-770921/ "Chef-fe de projet - Architecte technique / Services d'accès internet H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
