@@ -11,6 +11,7 @@ chapeau-text: Pour la première fois depuis 14 ans, la France a pris la préside
   les États membres autour de la transformation numérique des administrations.
 une-ou-diaporama:
 - image: "/uploads/banniere-pfue-2022-97141.jpg"
+date_de_modification: 10 février 2022
 ---
 
 ## Des événements autour de la transformation numérique des États
