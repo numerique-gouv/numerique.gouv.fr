@@ -11,6 +11,7 @@ chapeau-text: Pour la première fois depuis 14 ans, la France a pris la préside
   les États membres autour de la transformation numérique des administrations.
 une-ou-diaporama:
 - image: "/uploads/banniere-pfue-2022-97141.jpg"
+date_de_modification: 10 février 2022
 ---
 
 ## Des événements autour de la transformation numérique des États
@@ -29,7 +30,7 @@ Concours de pitchs autour des solutions tech pour les Gouvernements.
 
 13 équipes européennes porteuses d'une solution innovante au service de la transformation numérique des États et des administrations viennent défendre leur projet devant un jury d'experts européens sous forme de pitch.
 
-À l'issue de la compétition, les équipes lauréates présenteront leurs projets aux 27 ministres réunis le 10 février à Strasbourg dans le cadre de la réunion du Réseau européen des administrations publiques (European Public Administration Network – EUPAN).
+À l'issue de la compétition, les équipes lauréates présenteront leurs projets aux 27 ministres réunis le 17 mars à Strasbourg dans le cadre de la réunion du Réseau européen des administrations publiques (European Public Administration Network – EUPAN).
 
 Cet évènement, d'un format inédit, permettra de valoriser la coopération entre administrations européennes sur le thème de la transformation numérique du secteur public et de donner de la visibilité à des produits numériques concrets, d'intérêt européen, ayant un fort potentiel de réplicabilité.
 
@@ -37,7 +38,7 @@ Cet évènement, d'un format inédit, permettra de valoriser la coopération ent
 
 ### Conférence des ministres européens en charge de la transformation et de la fonction publiques
 
-**Le 10 février 2022, à Strasbourg**
+**Le 17 mars 2022, à Strasbourg**
 
 Organisée au sein du nouvel Institut national du service public, cette réunion permettra aux ministres européens chargés de la transformation et de la fonction publiques d'aborder les enjeux communs aux administrations publiques du XXIe siècle : la transformation numérique, la transparence et l'ouverture des administrations publiques, les nouvelles organisations de travail, et la mobilité européenne des fonctionnaires.
 
