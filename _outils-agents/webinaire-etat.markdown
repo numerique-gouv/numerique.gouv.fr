@@ -63,7 +63,7 @@ style: |-
 layout: rgaa
 ---
 
-<div align="center" style="margin-bottom: 40px"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Accéder au Webinaire de l'État</b></a> </div>
+<div align="center" style="margin-bottom: 40px"><a href="https://webinaire.numerique.gouv.fr/" class="button" alt="Accéder au Webinaire de l'État - Lien externe"><b>Accéder au Webinaire de l'État</b></a> </div>
 
 ## Pour tous vos séminaires en ligne
 {: .margin-bottom-1}
