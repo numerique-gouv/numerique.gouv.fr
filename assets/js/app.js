@@ -101,3 +101,5 @@ $( window ).on( "load", function() {
     $('.ais-infinite-hits--item').last().find('a').focus()
   })
 })
+
+document.getElementById('#tarteaucitronAlertBig').hide()

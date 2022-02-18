@@ -16,6 +16,9 @@ ressources-presse:
   titre: Ressources presse
   pictogramme: "/assets/img/pictogrammes/ressources_presse.svg"
   contenu: Logos, biographies, photos...
+infos-presse:
+  titre: Infos presse
+  pictogramme: "/assets/img/pictogrammes/ressources_presse.svg"
 layout: espace-presse
 ---
 
