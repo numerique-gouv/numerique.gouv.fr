@@ -27,17 +27,16 @@ layout: page-annexe
 <div align="center" style="margin-bottom: 20px"><a href="/espace-presse/" class="button"><b>Retrouvez tous nos communiqués et dossiers de presse</b></a> </div>
 
 <div align="center" style="margin-bottom: 40px"><a href="mailto:floriane.beaudron@modernisation.gouv.fr?subject=Demande d’inscription au listing presse de la DINUM&body=Bonjour, je souhaite être référencé dans le listing presse de la direction interministérielle du numérique et recevoir toutes les actualités presse et invitations. Je suis [FONCTION] pour [MEDIA(s)] et m’intéresse particulièrement aux sujets suivants : [SUJET 1, SUJET 2, SUJET 3...]. Cordialement,
-" class="button">Demandez à recevoir nos infos presse</a>
+" class="button">Demandez à recevoir nos infos presse</a></div>
 
 <h2>Autres contacts presse</h2>
-<p>Si vous cherchez à contacter :</p> 
-<ul><li><b>le service presse de la ministre de la Transformation et de la Fonction publiques, Amélie de Montchalin,</b> nous vous invitons à contacter :
+<ul><li><b>Service presse de la ministre de la Transformation et de la Fonction publiques, Amélie de Montchalin :</b>
 <br><a href="mailto:presse@transformation.gouv.fr">presse@transformation.gouv.fr</a>
 <br>01 53 18 42 68</li>
 
-<li><b>le service presse du secrétaire d’État chargé de la transition numérique et des communications électroniques, Cédric O,</b> nous vous invitons à contacter :
+<li><b>Service presse du secrétaire d’État chargé de la transition numérique et des communications électroniques, Cédric O :</b>
 <br><a href="mailto:presse@numerique.gouv.fr">presse@numerique.gouv.fr</a>
-<br>01 53 18 43 10</li>
+<br>01 53 18 43 10</li></ul>
 <br>
 <br>
 
