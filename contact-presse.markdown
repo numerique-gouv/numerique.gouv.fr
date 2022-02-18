@@ -14,7 +14,7 @@ style: |-
   font-style: normal;
   margin: 4px 2px;
   cursor: pointer;
-  line-height: 2em;
+  line-height: 1.2em;
   }
 layout: page-annexe
 ---
