@@ -23,6 +23,7 @@ layout: page-annexe
 <p>Notre responsable presse est à votre disposition pour répondre à toute demande d’informations et d’interviews concernant les sujets de la direction interministérielle du numérique (DINUM) :</p>
 
 <div align="center"><p><b>Floriane Beaudron</b>
+<br>Responsable presse DINUM
 <br>01.71.21.12.50 - 06.10.60.41.19
 <br><a href="mailto:floriane.beaudron@modernisation.gouv.fr">floriane.beaudron@modernisation.gouv.fr</a></p></div>
 <div align="center" style="margin-bottom: 20px"><a href="/espace-presse/" class="button"><b>Retrouvez tous nos communiqués <br>et dossiers de presse</b></a> </div>
