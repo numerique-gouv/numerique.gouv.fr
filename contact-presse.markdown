@@ -2,6 +2,19 @@
 title: Contact presse
 date: 2022-02-18 10:36:00 +01:00
 permalink: "/espace-presse/contact-presse"
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 layout: page-annexe
 ---
 
@@ -12,10 +25,15 @@ Notre responsable presse est à votre disposition pour répondre à toute demand
 <a href="mailto:floriane.beaudron@modernisation.gouv.fr">floriane.beaudron@modernisation.gouv.fr</a>
 
 
-Si vous cherchez à contacter **le service presse du ministère de la Transformation et de la Fonction publiques,** nous vous invitons à contacter :
-presse@transformation.gouv.fr 
+Si vous cherchez à contacter <b>le service presse de la ministre de la Transformation et de la Fonction publiques, Amélie de Montchalin,</b> nous vous invitons à contacter :
+<a href="mailto:presse@transformation.gouv.fr">presse@transformation.gouv.fr</a>
 01 53 18 42 68
 
-Si vous cherchez à contacter le service presse du secrétaire d’État chargé du Numérique, Cédric O, nous vous invitons à contacter :
-presse@numerique.gouv.fr 
+Si vous cherchez à contacter <b>le service presse du secrétaire d’État chargé de la transition numérique et des communications électroniques, Cédric O,</b> nous vous invitons à contacter :
+<a href="mailto:presse@numerique.gouv.fr">presse@numerique.gouv.fr</a>
 01 53 18 43 10
+
+<div align="center" style="margin-bottom: 20px"><a href="/espace-presse/" class="button"><b>Retrouvez tous nos communiqués et dossiers de presse</b></a> </div>
+
+<div align="center" style="margin-bottom: 40px"><a href="mailto:floriane.beaudron@modernisation.gouv.fr?suject=Demande d’inscription au listing presse de la DINUM&body=Bonjour, je souhaite être référencé dans le listing presse de la direction interministérielle du numérique et recevoir toutes les actualités presse et invitations. Je suis [FONCTION] pour [MEDIA(s)] et m’intéresse particulièrement aux sujets suivants : [SUJET 1, SUJET 2, SUJET 3...]. Cordialement,
+">Demander à recevoir nos infos presse</a>
