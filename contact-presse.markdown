@@ -20,9 +20,9 @@ layout: page-annexe
 
 <p>Notre responsable presse est à votre disposition pour répondre à toute demande d’informations et d’interviews concernant les sujets de la direction interministérielle du numérique (DINUM) :</p>
 
-<p><b>Floriane Beaudron</b>
+<div align="center><p><b>Floriane Beaudron</b>
 <br>01.71.21.12.50 - 06.10.60.41.19
-<br><a href="mailto:floriane.beaudron@modernisation.gouv.fr">floriane.beaudron@modernisation.gouv.fr</a></p>
+<br><a href="mailto:floriane.beaudron@modernisation.gouv.fr">floriane.beaudron@modernisation.gouv.fr</a></p></div>
 
 
 <p>Si vous cherchez à contacter <b>le service presse de la ministre de la Transformation et de la Fonction publiques, Amélie de Montchalin,</b> nous vous invitons à contacter :
