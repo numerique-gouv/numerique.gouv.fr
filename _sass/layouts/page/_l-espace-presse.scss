@@ -2,12 +2,20 @@
 // Layout Espace presse
 // --------------------------------------------------
 
-#contact-presse , #ressources-presse {
+.bloc-presse {
   padding: 1rem;
+  color: $white!important;
+  background: linear-gradient(90deg, $bleue-degrade-1 50%, $bleue-degrade-2);
+  margin-right: 1rem;
+  text-align: center;
   img {
-    display: block;
-    height: 4rem;
-    margin: 0 auto 1rem auto;
+    display: initial;
+    height: 3rem;
+    margin-right: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  h2 {
+    display: contents;
   }
   h2, p {
     text-align: center;
@@ -21,15 +29,8 @@
     margin-bottom: 1rem;
   }
 }
-#contact-presse {
-  color: $white!important;
-  background: linear-gradient(90deg, $bleue-degrade-1 50%, $bleue-degrade-2);
-  margin-bottom: 2rem;
+
+#infos-presse {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
-
-#ressources-presse {
-  color: $white!important;
-  background: $bleue;
-}
-
-
