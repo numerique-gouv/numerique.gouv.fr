@@ -21,7 +21,7 @@ style: |-
     display: flex;
     flex-direction: row;
     justify-content: center;
-    column-gap: 20px;
+    column-gap: 40px;
   }
 layout: page-annexe
 ---
