@@ -25,7 +25,7 @@ layout: page-annexe
 <div align="center"><p><b>Floriane Beaudron</b>
 <br>01.71.21.12.50 - 06.10.60.41.19
 <br><a href="mailto:floriane.beaudron@modernisation.gouv.fr">floriane.beaudron@modernisation.gouv.fr</a></p></div>
-<div align="center" style="margin-bottom: 20px"><a href="/espace-presse/" class="button"><b>Retrouvez tous nos communiqués et dossiers de presse</b></a> </div>
+<div align="center" style="margin-bottom: 20px"><a href="/espace-presse/" class="button"><b>Retrouvez tous nos communiqués <br>et dossiers de presse</b></a> </div>
 
 <div align="center" style="margin-bottom: 40px"><a href="mailto:floriane.beaudron@modernisation.gouv.fr?subject=Demande d’inscription au listing presse de la DINUM&body=Bonjour, je souhaite être référencé dans le listing presse de la direction interministérielle du numérique et recevoir toutes les actualités presse et invitations. Je suis [FONCTION] pour [MEDIA(s)] et m’intéresse particulièrement aux sujets suivants : [SUJET 1, SUJET 2, SUJET 3...]. Cordialement,
 " class="button">Demandez à recevoir nos infos presse</a></div>
