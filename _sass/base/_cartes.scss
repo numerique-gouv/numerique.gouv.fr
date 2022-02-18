@@ -44,7 +44,10 @@
     }
   }
 }
-//div#tarteaucitronRoot.tarteaucitronBeforeVisible:before,
-//div#tarteaucitronAlertBig {
-//  display:none!important;
-//}
+#tarteaucitronAlertBig {
+  display:none!important;
+}
+
+.tarteaucitronBeforeVisible #tarteaucitronAlertBig {
+  display:none!important;
+}

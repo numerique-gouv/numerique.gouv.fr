@@ -1,69 +1,13 @@
 ---
-title: Webinaire de l’État
-date: 2021-06-21 04:54:00 +02:00
-tags:
-- Outils pour les agents
-- Travail collaboratif
-chapeau-text: Un service dédié aux agents de l'État pour leurs séminaires en ligne,
-  formations, présentations, conférences virtuelles, jusqu’à 350 participants.
-une:
-  image: "/uploads/Webinaire_outils-agents-pagefille_1635x345.png"
-style: |-
-  .button {
-  background-color: #0d5c98;
-  border: 1px solid white;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-style: normal;
-  margin: 4px 2px;
-  cursor: pointer;
-  }
-
-  .wrapper {
-    max-width: 940px;
-    margin: 0 20px;
-    display: grid;
-    grid-gap: 10px;
-  }
-
-  .wrapper {
-    display: flex;
-    flex-wrap: wrap;
-  }
-
-  .wrapper {
-    display: grid;
-    margin: 0 auto;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    grid-auto-rows: minmax(150px, auto);
-  }
-
-  .panel {
-    /* needed for the flex layout*/
-    margin-left: 5px;
-    margin-right: 5px;
-    flex: 1 1 200px;
-  }
-
-  .wrapper > * {
-    padding: 10px;
-    font-size: 100%;
-    margin-bottom: 10px;
-  text-align: center;
-  }
-
-
-  .titre-fonctionnalite {
-    color: #095D9C;
-    font-weight: bold;
-  }
-layout: rgaa
+title: France transfert
+date: 2022-02-16 16:03:00 +01:00
+published: false
+chapeau-text: Un service interministériel pour envoyer et recevoir des fichiers volumineux,
+  simplement et en toute sécurité, entre agents de l’État, mais aussi avec les usagers,
+  partenaires et prestataires.
 ---
 
-<div align="center" style="margin-bottom: 40px"><a href="https://webinaire.numerique.gouv.fr/" class="button" alt="Accéder au Webinaire de l'État - Lien externe"><b>Accéder au Webinaire de l'État</b></a> </div>
+<div align="center" style="margin-bottom: 40px"><a href="https://francetransfert.culture.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
 
 ## Pour tous vos séminaires en ligne
 {: .margin-bottom-1}
