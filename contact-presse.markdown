@@ -18,18 +18,25 @@ style: |-
 layout: page-annexe
 ---
 
+<h2>Service presse de la DINUM</h2>
 <p>Notre responsable presse est à votre disposition pour répondre à toute demande d’informations et d’interviews concernant les sujets de la direction interministérielle du numérique (DINUM) :</p>
 
-<div style="text-align: center">
-  <p><b>Floriane Beaudron</b>
-  <br>01.71.21.12.50 - 06.10.60.41.19
-  <br><a href='mailto:floriane.beaudron@modernisation.gouv.fr'>floriane.beaudron@modernisation.gouv.fr</a>
-  </p>
-</div>
+<div align="center"><p><b>Floriane Beaudron</b>
+<br>01.71.21.12.50 - 06.10.60.41.19
+<br><a href="mailto:floriane.beaudron@modernisation.gouv.fr">floriane.beaudron@modernisation.gouv.fr</a></p></div>
 
+<h2>Autres contacts presse</h2>
+<p>Si vous cherchez à contacter :</p> 
+<ul><li><b>le service presse de la ministre de la Transformation et de la Fonction publiques, Amélie de Montchalin,</b> nous vous invitons à contacter :
+<br><a href="mailto:presse@transformation.gouv.fr">presse@transformation.gouv.fr</a>
+<br>01 53 18 42 68</li>
+
+<li><b>le service presse du secrétaire d’État chargé de la transition numérique et des communications électroniques, Cédric O,</b> nous vous invitons à contacter :
+<br><a href="mailto:presse@numerique.gouv.fr">presse@numerique.gouv.fr</a>
+<br>01 53 18 43 10</li>
 
 <p>Si vous cherchez à contacter <b>le service presse de la ministre de la Transformation et de la Fonction publiques, Amélie de Montchalin,</b> nous vous invitons à contacter :
-<br><a href='mailto:presse@transformation.gouv.fr'>presse@transformation.gouv.fr</a>
+<br><a href="mailto:presse@transformation.gouv.fr">presse@transformation.gouv.fr</a>
 <br>01 53 18 42 68</p>
 
 <p>Si vous cherchez à contacter <b>le service presse du secrétaire d’État chargé de la transition numérique et des communications électroniques, Cédric O,</b> nous vous invitons à contacter :
