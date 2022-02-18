@@ -35,7 +35,7 @@ layout: page-annexe
 </aside>
 <aside><div align="center" style="margin-bottom: 20px"><a href="/espace-presse/" class="button"><b>Retrouvez tous nos communiqués <br>et dossiers de presse</b></a> </div>
 
-<div align="center" style="margin-bottom: 40px"><a href="mailto:floriane.beaudron@modernisation.gouv.fr?subject=Demande d’inscription au listing presse de la DINUM&body=Bonjour,%0D%0AJe souhaite être référencé dans le listing presse de la direction interministérielle du numérique et recevoir toutes les actualités presse et invitations.%0D%0AJe suis [FONCTION] pour [MEDIA(s)] et m’intéresse particulièrement aux sujets suivants : [SUJET 1, SUJET 2, SUJET 3...].%0D%0ACordialement,%0D%0A[Prénom NOM - Coordonnées courriel et téléphonique]" class="button"><b>Demandez à recevoir nos infos presse</b></a></div></aside></div>
+<div align="center" style="margin-bottom: 40px"><a href="mailto:floriane.beaudron@modernisation.gouv.fr?subject=Demande d’inscription au listing presse de la DINUM&body=Bonjour,%0D%0AJe souhaite être référencé dans le listing presse de la direction interministérielle du numérique et recevoir toutes les actualités presse et invitations.%0D%0AJe suis [FONCTION] pour [MEDIA(s)] et m’intéresse particulièrement aux sujets suivants : [SUJET 1, SUJET 2, SUJET 3...].%0D%0ACordialement,%0D%0A[Prénom NOM - Coordonnées courriel et téléphonique]" class="button" alt="Demandez à recevoir nos infos presse - Ouvre une messagerie courriel avec destinataire, objet et corps du message préremplis"><b>Demandez à recevoir nos infos presse</b></a></div></aside></div>
 
 
 <h2>Autres contacts presse</h2>
