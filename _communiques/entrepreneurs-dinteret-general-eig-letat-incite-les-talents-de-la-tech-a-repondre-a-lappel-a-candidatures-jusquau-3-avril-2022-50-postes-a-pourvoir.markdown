@@ -3,6 +3,12 @@ title: 'Entrepreneurs d’Intérêt Général (EIG) : l’État incite les talen
   à répondre à l’appel à candidatures jusqu’au 3 avril 2022, 50 postes à pourvoir.'
 date: 2022-02-21 16:23:00 +01:00
 published: false
+categories:
+- Communiqué de presse
+tags:
+- entrepreneur.e d’intérêt général
+- Etalab
+- Données
 chapeau-text: Créer le service public de demain et transformer l’administration de
   l’intérieur en s’appuyant sur le numérique et les données, c’est la promesse du
   programme Entrepreneurs d’intérêt général (EIG) qui lance aujourd’hui et jusqu’au
@@ -12,7 +18,7 @@ chapeau-text: Créer le service public de demain et transformer l’administrati
 contact-presse:
   name: Floriane Beaudron
   tel:
-  - 01.71.20.12.50
+  - 01.71.21.12.50
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
 files:
@@ -34,3 +40,32 @@ S’inscrire aux webinaires de présentation le JJ mois et le JJ mois 2022 | Con
 TEXTE A VENIR :
 Pour cette sixième promotion, le programme EIG s’enrichit de l’expérience acquise [texte manquant].  
 
+<div class="citation"><p>L’attractivité et la gestion des compétences est un des facteurs cruciaux de réussite pour les grands projets numériques publics et je suis fière d’annoncer le lancement de l’appel à candidatures EIG n°6. Talents du numérique, faîtes le choix du service public  et venez construire la France de demain !</p></div>
+
+<div class="auteur-citation">Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques</div>
+
+Le programme EIG est porté par le département Etalab de la direction interministérielle du numérique (DINUM) sous l’autorité d’Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques. 
+
+*Des photos et contacts pour témoignages peuvent être transmis sur demande.*
+
+<br>
+<br>
+<br>
+**ENTREPRENEURS D’INTÉRÊT GÉNÉRAL EN BREF :**
+
+* 6ème année consécutive ;
+* 87 projets accompagnés (comme [Signaux Faibles](https://eig.etalab.gouv.fr/defis/signaux-faibles/), [Prédisauvetage](https://eig.etalab.gouv.fr/defis/predisauvetage/), [Open Justice](https://eig.etalab.gouv.fr/defis/open-justice/) ou encore [Réfugiés.info](https://eig.etalab.gouv.fr/defis/karfur/)) dont 90% perdurent ensuite dans les administrations qui les ont menés ; 
+* 80 administrations impactées, parmi elles : ministères de la Justice, de la Culture et de l’Intérieur, Haute Autorité de Santé, Museum d’Histoire naturelle, Cour des comptes, commissariat général au développement durable… ;
+* Plus de 172 talents recrutés dont 64% décident de rester dans le secteur public après leur expérience EIG ;
+* Près de 500 candidats en 2021 pour 38 postes.
+
+**DATES 2022 À RETENIR POUR LA 6e PROMOTION :**
+
+<li><b>Du 24 janvier au 18 mars: appel à projets auprès des administrations ;
+<li>Du 21 au 25 mars : pré-sélection des projets des administrations ;</li>
+<li>Les 31 mars et 1er avril : jury de sélection de projets ;</li></b>
+
+**<br><li>Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; 
+<li>Du 4 avril au 6 mai : pré-sélection des candidats au programme ; 
+<li>Du 6 au 10 juin : jury de sélection des candidats ;
+<li>Le 12 septembre : arrivée des EIG et démarrage de la promotion EIG 6.**
