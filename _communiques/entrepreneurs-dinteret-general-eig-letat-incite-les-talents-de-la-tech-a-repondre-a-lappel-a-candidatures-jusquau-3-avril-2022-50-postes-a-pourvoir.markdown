@@ -30,7 +30,7 @@ Réaffirmée par la ministre de la Transformation et de la Fonction publiques le
 Tous les talents de la tech souhaitant s’engager pendant 10 mois, au sein d’administrations investies à développer des méthodes entrepreneuriales et innovantes, peuvent candidater. Parmi les métiers les plus recherchés : 
 
 EN ATTENTE DE MODIFICATION
-- développeurs, data scientists, designers. Ils seront sélectionnés selon leurs compétences techniques, leur esprit d’initiative, leur capacité à s’adapter (travail en équipe, rapidité d’exécution…) et leur engouement pour améliorer l’action publique et la vie des citoyens.-
+développeurs, data scientists, designers. Ils seront sélectionnés selon leurs compétences techniques, leur esprit d’initiative, leur capacité à s’adapter (travail en équipe, rapidité d’exécution…) et leur engouement pour améliorer l’action publique et la vie des citoyens.-
 
 Les candidats présélectionnés choisiront par ordre d’importance les défis qu’ils souhaitent relever pendant 10 mois. Après un entretien, les candidats retenus intégreront en septembre 2022, par équipes pluridisciplinaires de 2 ou 3, leurs administrations d’accueil respectives pour y travailler en étroite collaboration avec des agents publics issus de celles-ci et bénéficieront toute l’année de sessions d’accompagnement organisés par l’équipe EIG d’Etalab (ateliers-conférences, expéditions apprenantes et coaching personnalisé). L'immersion de 10 mois revêt un double objectif : concevoir une solution viable permettant de répondre aux problèmes de politiques publiques tout en diffusant des approches plus entrepreneuriales et innovantes. Les candidatures retenues déboucheront sur des contrats à durée déterminée, rémunérés 3 500 ou 4 000€ nets par mois selon l’expérience.
 
@@ -61,11 +61,11 @@ Le programme EIG est porté par le département Etalab de la direction intermini
 
 **DATES 2022 À RETENIR POUR LA 6e PROMOTION :**
 
-<li><b>Du 24 janvier au 18 mars: appel à projets auprès des administrations ;
+<li>Du 24 janvier au 18 mars: appel à projets auprès des administrations ;
 <li>Du 21 au 25 mars : pré-sélection des projets des administrations ;</li>
-<li>Les 31 mars et 1er avril : jury de sélection de projets ;</li></b>
+<li>Les 31 mars et 1er avril : jury de sélection de projets ;</li>
 
-<br><li>**Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; **
+<br><li><b>**Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; **
 <li>Du 4 avril au 6 mai : pré-sélection des candidats au programme ; 
 <li>Du 6 au 10 juin : jury de sélection des candidats ;
-<li>Le 12 septembre : arrivée des EIG et démarrage de la promotion EIG 6.
+<li>Le 12 septembre : arrivée des EIG et démarrage de la promotion EIG 6.</b>
