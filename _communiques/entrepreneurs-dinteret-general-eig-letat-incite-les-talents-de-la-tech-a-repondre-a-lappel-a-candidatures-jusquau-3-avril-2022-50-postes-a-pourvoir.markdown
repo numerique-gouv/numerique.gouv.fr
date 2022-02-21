@@ -2,6 +2,7 @@
 title: 'Entrepreneurs d’Intérêt Général (EIG) : l’État incite les talents de la tech
   à répondre à l’appel à candidatures jusqu’au 3 avril 2022, 50 postes à pourvoir.'
 date: 2022-02-21 16:23:00 +01:00
+published: false
 categories:
 - Communiqué de presse
 tags:
