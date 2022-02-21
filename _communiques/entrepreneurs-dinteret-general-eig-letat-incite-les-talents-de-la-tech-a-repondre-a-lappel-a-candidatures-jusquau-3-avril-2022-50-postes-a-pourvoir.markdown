@@ -1,7 +1,7 @@
 ---
 title: 'Entrepreneurs d’Intérêt Général (EIG) : l’État incite les talents de la tech
   à répondre à l’appel à candidatures jusqu’au 3 avril 2022, 50 postes à pourvoir.'
-date: 2022-03-07 16:23:00 +01:00
+date: 2022-02-21 16:23:00 +01:00
 published: false
 chapeau-text: Créer le service public de demain et transformer l’administration de
   l’intérieur en s’appuyant sur le numérique et les données, c’est la promesse du
@@ -18,4 +18,19 @@ contact-presse:
 files:
 - nom: Télécharger le communiqué de presse
 ---
+
+Réaffirmée par la ministre de la Transformation et de la Fonction publiques le 7 février à l’occasion des travaux portant sur la marque employeur, **la stratégie de l’État est d’attirer et de recruter les agents publics de demain**, en particulier dans le secteur en tension de la tech où il s’investit à être identifié comme un des employeurs phares afin de réussir sa transformation et garantir sa souveraineté numérique.
+
+Tous les talents de la tech souhaitant s’engager pendant 10 mois, au sein d’administrations investies à développer des méthodes entrepreneuriales et innovantes, peuvent candidater. Parmi les métiers les plus recherchés : 
+
+EN ATTENTE DE MODIFICATION
+- développeurs, data scientists, designers. Ils seront sélectionnés selon leurs compétences techniques, leur esprit d’initiative, leur capacité à s’adapter (travail en équipe, rapidité d’exécution…) et leur engouement pour améliorer l’action publique et la vie des citoyens.-
+
+Les candidats présélectionnés choisiront par ordre d’importance les défis qu’ils souhaitent relever pendant 10 mois. Après un entretien, les candidats retenus intégreront en septembre 2022, par équipes pluridisciplinaires de 2 ou 3, leurs administrations d’accueil respectives pour y travailler en étroite collaboration avec des agents publics issus de celles-ci et bénéficieront toute l’année de sessions d’accompagnement organisés par l’équipe EIG d’Etalab (ateliers-conférences, expéditions apprenantes et coaching personnalisé). L'immersion de 10 mois revêt un double objectif : concevoir une solution viable permettant de répondre aux problèmes de politiques publiques tout en diffusant des approches plus entrepreneuriales et innovantes. Les candidatures retenues déboucheront sur des contrats à durée déterminée, rémunérés 3 500 ou 4 000€ nets par mois selon l’expérience.
+
+LIENS A VENIR :
+S’inscrire aux webinaires de présentation le JJ mois et le JJ mois 2022 | Consulter l'appel à candidatures
+
+TEXTE A VENIR :
+Pour cette sixième promotion, le programme EIG s’enrichit de l’expérience acquise [texte manquant].  
 
