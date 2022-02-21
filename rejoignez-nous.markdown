@@ -48,14 +48,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé-e de mission communication, relations presse et événementiel H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-communication-relations-presse-et-evenementiel-cdd-de-6-mois-hf-reference-2022-793421/ "Chargé-e de mission communication, relations presse et événementiel - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé-e de support produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-support-produits-numeriques-hf-reference-2022-793482/ "Chargé-e de support produits numériques - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 <!--
 > ### Talents du numérique : l’État recrute !
 > <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
