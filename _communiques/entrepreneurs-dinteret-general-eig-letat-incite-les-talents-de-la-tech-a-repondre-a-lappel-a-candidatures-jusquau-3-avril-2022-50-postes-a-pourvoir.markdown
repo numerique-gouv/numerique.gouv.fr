@@ -2,13 +2,13 @@
 title: 'Entrepreneurs d’Intérêt Général (EIG) : l’État incite les talents de la tech
   à répondre à l’appel à candidatures jusqu’au 3 avril 2022, 50 postes à pourvoir.'
 date: 2022-02-21 16:23:00 +01:00
-published: false
 categories:
 - Communiqué de presse
 tags:
 - entrepreneur.e d’intérêt général
-- Etalab
-- Données
+- EIG
+- talents tech
+- recrutement
 chapeau-text: Créer le service public de demain et transformer l’administration de
   l’intérieur en s’appuyant sur le numérique et les données, c’est la promesse du
   programme Entrepreneurs d’intérêt général (EIG) qui lance aujourd’hui et jusqu’au
@@ -65,7 +65,7 @@ Le programme EIG est porté par le département Etalab de la direction intermini
 <li>Du 21 au 25 mars : pré-sélection des projets des administrations ;</li>
 <li>Les 31 mars et 1er avril : jury de sélection de projets ;</li></b>
 
-**<br><li>Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; 
+<br><li>**Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; **
 <li>Du 4 avril au 6 mai : pré-sélection des candidats au programme ; 
 <li>Du 6 au 10 juin : jury de sélection des candidats ;
-<li>Le 12 septembre : arrivée des EIG et démarrage de la promotion EIG 6.**
+<li>Le 12 septembre : arrivée des EIG et démarrage de la promotion EIG 6.
