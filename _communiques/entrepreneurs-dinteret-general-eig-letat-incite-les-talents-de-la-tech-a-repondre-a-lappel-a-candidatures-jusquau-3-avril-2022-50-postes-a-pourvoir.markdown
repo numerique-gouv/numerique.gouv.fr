@@ -47,7 +47,6 @@ Le programme EIG est porté par le département Etalab de la direction intermini
 
 <br>
 <br>
-<br>
 **ENTREPRENEURS D’INTÉRÊT GÉNÉRAL EN BREF :**
 
 * 6ème année consécutive ;
