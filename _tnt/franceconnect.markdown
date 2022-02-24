@@ -2,6 +2,7 @@
 title: FranceConnect
 date: 2022-02-24 12:08:00 +01:00
 permalink: "/services/tnt/franceconnect"
+layout: tnt
 ---
 
 ### Facilitez les démarches de vos usagers grâce à FranceConnect et au partage de données
@@ -72,8 +73,8 @@ Dans le cadre du plan FranceRelance, l’État vous aide financièrement à mett
 
 **> Informations et modalités sur** [france-relance.transformation.gouv.fr/fonds-collectivites](https://france-relance.transformation.gouv.fr/fonds-collectivites) (Guichet : [Déployer FranceConnect et utiliser les API nationales](https://france-relance.transformation.gouv.fr/e13a-deployer-franceconnect-et-utiliser-les-api-na/))
 
-
-**Contacts**
-Vous avez une question ? Vous pouvez contacter :
-* Pour FranceConnect : [support.partenaires@franceconnect.gouv.fr ](mailto:support.partenaires@franceconnect.gouv.fr)
-* Pour les API : [contact@api.gouv.fr](mailto:contact@api.gouv.fr)
+<div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><strong><b>Contacts
+Vous avez une question ? Vous pouvez contacter :</b>
+<li>Pour FranceConnect : [support.partenaires@franceconnect.gouv.fr ](mailto:support.partenaires@franceconnect.gouv.fr)
+<li>Pour les API : [contact@api.gouv.fr](mailto:contact@api.gouv.fr)</li></ul><p></p>
+</div>
