@@ -15,7 +15,6 @@ FranceConnect est la solution proposée par l’État pour faciliter l’accès 
 * **240 M** de connexions en 2021 (x2 par rapport à 2020)
 * **1 200** services numériques publics et privés raccordés
 
-
 **FranceConnect, c’est quoi ?**
 
 Proposé par l’État, FranceConnect est **un outil d’identification et d’authentification en ligne** des utilisateurs, leur permettant d’accéder à leurs démarches en ligne **facilement et en toute sécurité.**
@@ -79,3 +78,7 @@ Vous avez une question ? Vous pouvez contacter :</b>
 <li>Pour FranceConnect : [support.partenaires@franceconnect.gouv.fr ](mailto:support.partenaires@franceconnect.gouv.fr)
 <li>Pour les API : [contact@api.gouv.fr](mailto:contact@api.gouv.fr)</li></ul><p></p>
 </div>
+
+<p class="text-center"><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF"><img alt="Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)" src="//uploads/CapturePlaquetteFCTNT.PNG" style="border:solid 1px #464646"></a></p>
+
+<div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF">Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)</a></p> </div>
