@@ -2,6 +2,9 @@
 title: FranceConnect
 date: 2022-02-24 12:08:00 +01:00
 permalink: "/services/tnt/franceconnect"
+menu:
+  title: FranceConnect
+  weight: 10
 layout: tnt
 ---
 
