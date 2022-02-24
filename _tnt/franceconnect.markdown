@@ -5,7 +5,8 @@ permalink: "/services/tnt/franceconnect"
 layout: tnt
 ---
 
-### Facilitez les démarches de vos usagers grâce à FranceConnect et au partage de données
+## Facilitez les démarches de vos usagers 
+### grâce à FranceConnect et au partage de données
 
 FranceConnect est la solution proposée par l’État pour faciliter l’accès aux services en ligne. 
 
@@ -21,8 +22,8 @@ Proposé par l’État, FranceConnect est **un outil d’identification et d’a
 
 Concrètement, il permet à l’utilisateur de **se connecter à un service numérique sans se créer de nouveaux identifiants**, en utilisant un compte existant parmi ceux proposés (impots.gouv.fr, Ameli, l’Identité Numérique La Poste, MobileConnect et moi et la msa.fr). 
 
-### 5 bonnes raisons 
-de recourir à FranceConnect
+## 5 bonnes raisons 
+### de recourir à FranceConnect
 
 <u>Pour vos usagers</u> :
 * Simplifier leurs parcours et les formulaires à compléter
@@ -43,16 +44,16 @@ Pour toutes celles qui nécessitent de se créer un compte/espace personnel ou d
 
 > Plus d’informations sur [franceconnect.gouv.fr/partenaires](https://franceconnect.gouv.fr/partenaires)
 
-### Supprimez les pièces justificatives 
-grâce à la récupération directe de données (via API)
+## Supprimez les pièces justificatives 
+### grâce à la récupération directe de données (via API)
 
 Utiliser FranceConnect pour vos démarches vous permet également de supprimer les pièces justificatives et de préremplir certains formulaires de vos services en ligne.
 
 Il vous suffit pour cela d’utiliser les « API » mises à votre disposition, des interfaces informatiques qui récupèreront automatiquement les données dont vous avez besoin, directement auprès des administrations qui les détiennent : revenu fiscal de référence, statut étudiant ou demandeur d’emploi, allocataire RSA et bien d’autres. 
 
 
-### 4 bonnes raisons 
-d’utiliser ces « API FranceConnectées »
+## 4 bonnes raisons 
+### d’utiliser ces « API FranceConnectées »
 
 <u>Pour vos usagers</u>
 * Simplifier leurs démarches grâce à la suppression des pièces justificatives et au préremplissage de formulaires
