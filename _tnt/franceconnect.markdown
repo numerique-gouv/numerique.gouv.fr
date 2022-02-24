@@ -86,9 +86,9 @@ Dans le cadre du plan FranceRelance, l’État vous aide financièrement à mett
 
 **> Informations et modalités sur** [france-relance.transformation.gouv.fr/fonds-collectivites](https://france-relance.transformation.gouv.fr/fonds-collectivites) (Guichet : [Déployer FranceConnect et utiliser les API nationales](https://france-relance.transformation.gouv.fr/e13a-deployer-franceconnect-et-utiliser-les-api-na/))
 
-<div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><strong><b>### Contacts
+<div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><strong><b>Contacts
 <br>Vous avez une question ? Vous pouvez contacter :</b>
-<li>Pour FranceConnect : <a href="mailto:support.partenaires@franceconnect.gouv.fr">support.partenaires@franceconnect.gouv.fr</a></li>
+<br><li>Pour FranceConnect : <a href="mailto:support.partenaires@franceconnect.gouv.fr">support.partenaires@franceconnect.gouv.fr</a></li>
 <li>Pour les API : <a href="mailto:contact@api.gouv.fr">contact@api.gouv.fr</a></li></li><p></p></div>
 
 <p class="text-center"><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF"><img alt="Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)" src="/uploads/CapturePlaquetteFCTNT.PNG"style="
