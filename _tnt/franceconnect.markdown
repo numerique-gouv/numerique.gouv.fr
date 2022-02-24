@@ -17,7 +17,7 @@ style: |-
   }
 menu:
   title: FranceConnect
-  weight: 30
+  weight: 60
 une:
   image: "/uploads/TNT_Bandeau_Page-fille.png"
 layout: tnt
