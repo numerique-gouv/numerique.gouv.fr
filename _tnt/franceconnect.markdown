@@ -91,6 +91,8 @@ Dans le cadre du plan FranceRelance, l’État vous aide financièrement à mett
 <br><li>Pour FranceConnect : <a href="mailto:support.partenaires@franceconnect.gouv.fr">support.partenaires@franceconnect.gouv.fr</a></li>
 <li>Pour les API : <a href="mailto:contact@api.gouv.fr">contact@api.gouv.fr</a></li><p></p>
 
+<br>
+
 <p class="text-center"><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF"><img alt="Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)" src="/uploads/CapturePlaquetteFCTNT.PNG"
 style="border:solid 1px #464646"></a></p>
 
