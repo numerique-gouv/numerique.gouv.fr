@@ -7,6 +7,19 @@ menu:
   weight: 10
 une:
   image: "/uploads/TNT_Bandeau_Page-fille.png"
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 layout: tnt
 ---
 
