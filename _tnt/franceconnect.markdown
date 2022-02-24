@@ -59,7 +59,7 @@ Pour toutes celles qui nécessitent de se créer un compte/espace personnel ou d
 * Inscriptions : cantine scolaire, activités culturelles et sportives, bibliothèque, piscine…
 * Participation aux dispositifs de démocratie participative  
 
-> Plus d’informations sur [franceconnect.gouv.fr/partenaires](https://franceconnect.gouv.fr/partenaires)
+**> Plus d’informations sur [franceconnect.gouv.fr/partenaires](https://franceconnect.gouv.fr/partenaires)**
 
 ## Supprimez les pièces justificatives 
 grâce à la récupération directe de données (via API)
