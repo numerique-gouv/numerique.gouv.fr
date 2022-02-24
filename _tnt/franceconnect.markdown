@@ -5,6 +5,8 @@ permalink: "/services/tnt/franceconnect"
 menu:
   title: FranceConnect
   weight: 10
+une:
+  image: "/uploads/TNT_Bandeau_Page-fille.png"
 layout: tnt
 ---
 
