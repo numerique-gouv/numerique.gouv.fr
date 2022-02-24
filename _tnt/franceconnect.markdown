@@ -22,12 +22,12 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
 ### 5 bonnes raisons 
 de recourir à FranceConnect
 
-Pour vos usagers :
+<u>Pour vos usagers</u> :
 * Simplifier leurs parcours et les formulaires à compléter
 * Faciliter l’accès aux services en ligne de votre collectivité en leur évitant de créer de nouveaux identifiants à retenir
 * Leur proposer un outil simple, sécurisé et respectueux de leurs données personnelles, auquel ils sont habitués
 
-Pour votre collectivité :
+<u>Pour votre collectivité</u> :
 * Disposer d’un outil clé en main, simple et rapide à implémenter, pour sécuriser et fluidifier l’accès à vos services en ligne
 * Vous assurer de l’identité et des coordonnées de l’usager grâce à des données vérifiées
 
@@ -41,7 +41,7 @@ Pour toutes celles qui nécessitent de se créer un compte/espace personnel ou d
 
 > Plus d’informations sur [franceconnect.gouv.fr/partenaires](https://franceconnect.gouv.fr/partenaires)
 
-Supprimez les pièces justificatives 
+### Supprimez les pièces justificatives 
 grâce à la récupération directe de données (via API)
 
 Utiliser FranceConnect pour vos démarches vous permet également de supprimer les pièces justificatives et de préremplir certains formulaires de vos services en ligne.
@@ -52,13 +52,26 @@ Il vous suffit pour cela d’utiliser les « API » mises à votre disposition, 
 ### 4 bonnes raisons 
 d’utiliser ces « API FranceConnectées »
 
-Pour vos usagers
+<u>Pour vos usagers</u>
 * Simplifier leurs démarches grâce à la suppression des pièces justificatives et au préremplissage de formulaires
 * Accélérer le délai de traitement de leurs dossiers
 
-Pour votre collectivité
+<u>Pour votre collectivité</u>
 * Automatiser l’instruction des dossiers 
 * Disposer d’informations 100% fiables car récupérées directement à la source 
 
 **> Plus d’informations sur [api.gouv.fr/guides/api-franceconnectees](https://api.gouv.fr/guides/api-franceconnectees)**
 
+### Jusqu’à 10 000€ d’aide financière
+
+Dans le cadre du plan FranceRelance, l’État vous aide financièrement à mettre en place ces solutions pour votre collectivité :
+5 000€ pour installer FranceConnect 
+5 000€ pour raccorder vos démarches aux API nationales
+
+> Informations et modalités sur [france-relance.transformation.gouv.fr/fonds-collectivites](https://france-relance.transformation.gouv.fr/fonds-collectivites) (Guichet : [Déployer FranceConnect et utiliser les API nationales](https://france-relance.transformation.gouv.fr/e13a-deployer-franceconnect-et-utiliser-les-api-na/))
+
+
+Contacts
+Vous avez une question ? Vous pouvez contacter :
+* Pour FranceConnect : [support.partenaires@franceconnect.gouv.fr ](mailto:support.partenaires@franceconnect.gouv.fr)
+* Pour les API : [contact@api.gouv.fr](mailto:contact@api.gouv.fr)
