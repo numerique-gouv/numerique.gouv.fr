@@ -41,3 +41,24 @@ Pour toutes celles qui nécessitent de se créer un compte/espace personnel ou d
 
 > Plus d’informations sur [franceconnect.gouv.fr/partenaires](https://franceconnect.gouv.fr/partenaires)
 
+Supprimez les pièces justificatives 
+grâce à la récupération directe de données (via API)
+
+Utiliser FranceConnect pour vos démarches vous permet également de supprimer les pièces justificatives et de préremplir certains formulaires de vos services en ligne.
+
+Il vous suffit pour cela d’utiliser les « API » mises à votre disposition, des interfaces informatiques qui récupèreront automatiquement les données dont vous avez besoin, directement auprès des administrations qui les détiennent : revenu fiscal de référence, statut étudiant ou demandeur d’emploi, allocataire RSA et bien d’autres. 
+
+
+### 4 bonnes raisons 
+d’utiliser ces « API FranceConnectées »
+
+Pour vos usagers
+* Simplifier leurs démarches grâce à la suppression des pièces justificatives et au préremplissage de formulaires
+* Accélérer le délai de traitement de leurs dossiers
+
+Pour votre collectivité
+* Automatiser l’instruction des dossiers 
+* Disposer d’informations 100% fiables car récupérées directement à la source 
+
+**> Plus d’informations sur [api.gouv.fr/guides/api-franceconnectees](https://api.gouv.fr/guides/api-franceconnectees)**
+
