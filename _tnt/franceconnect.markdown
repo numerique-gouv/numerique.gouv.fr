@@ -24,7 +24,7 @@ layout: tnt
 ---
 
 ## Facilitez les démarches de vos usagers 
-### grâce à FranceConnect et au partage de données
+grâce à FranceConnect et au partage de données
 
 FranceConnect est la solution proposée par l’État pour faciliter l’accès aux services en ligne. 
 
@@ -40,7 +40,7 @@ Proposé par l’État, FranceConnect est **un outil d’identification et d’a
 Concrètement, il permet à l’utilisateur de **se connecter à un service numérique sans se créer de nouveaux identifiants**, en utilisant un compte existant parmi ceux proposés (impots.gouv.fr, Ameli, l’Identité Numérique La Poste, MobileConnect et moi et la msa.fr). 
 
 ## 5 bonnes raisons 
-### de recourir à FranceConnect
+de recourir à FranceConnect
 
 <u>Pour vos usagers</u> :
 * Simplifier leurs parcours et les formulaires à compléter
@@ -62,7 +62,7 @@ Pour toutes celles qui nécessitent de se créer un compte/espace personnel ou d
 > Plus d’informations sur [franceconnect.gouv.fr/partenaires](https://franceconnect.gouv.fr/partenaires)
 
 ## Supprimez les pièces justificatives 
-### grâce à la récupération directe de données (via API)
+grâce à la récupération directe de données (via API)
 
 Utiliser FranceConnect pour vos démarches vous permet également de supprimer les pièces justificatives et de préremplir certains formulaires de vos services en ligne.
 
@@ -70,7 +70,7 @@ Il vous suffit pour cela d’utiliser les « API » mises à votre disposition, 
 
 
 ## 4 bonnes raisons 
-### d’utiliser ces « API FranceConnectées »
+d’utiliser ces « API FranceConnectées »
 
 <u>Pour vos usagers</u>
 * Simplifier leurs démarches grâce à la suppression des pièces justificatives et au préremplissage de formulaires
@@ -92,7 +92,7 @@ Dans le cadre du plan FranceRelance, l’État vous aide financièrement à mett
 **> Informations et modalités sur** [france-relance.transformation.gouv.fr/fonds-collectivites](https://france-relance.transformation.gouv.fr/fonds-collectivites) (Guichet : [Déployer FranceConnect et utiliser les API nationales](https://france-relance.transformation.gouv.fr/e13a-deployer-franceconnect-et-utiliser-les-api-na/))
 
 <div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><strong><b>Contacts
-Vous avez une question ? Vous pouvez contacter :</b>
+<br>Vous avez une question ? Vous pouvez contacter :</b>
 <li>Pour FranceConnect : [support.partenaires@franceconnect.gouv.fr ](mailto:support.partenaires@franceconnect.gouv.fr)
 <li>Pour les API : [contact@api.gouv.fr](mailto:contact@api.gouv.fr)</li></ul><p></p>
 </div>
