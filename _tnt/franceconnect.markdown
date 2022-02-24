@@ -2,11 +2,6 @@
 title: FranceConnect
 date: 2022-02-24 12:08:00 +01:00
 permalink: "/services/tnt/franceconnect"
-menu:
-  title: FranceConnect
-  weight: 10
-une:
-  image: "/uploads/TNT_Bandeau_Page-fille.png"
 style: |-
   .button {
   background-color: #0d5c98;
@@ -20,6 +15,11 @@ style: |-
   margin: 4px 2px;
   cursor: pointer;
   }
+menu:
+  title: FranceConnect
+  weight: 30
+une:
+  image: "/uploads/TNT_Bandeau_Page-fille.png"
 layout: tnt
 ---
 
