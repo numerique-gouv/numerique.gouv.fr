@@ -13,7 +13,7 @@ chapeau-text: 'À travers son programme [Transformation numérique des territoir
 une-ou-diaporama:
 - image: "/uploads/interconnectes2022_HD.jpg"
 event_start_date: 2022-03-02 00:00:00 +01:00
-event_end_date: 2022-02-03 00:00:00 +01:00
+event_end_date: 2022-03-03 00:00:00 +01:00
 lieu: Cités des Congrès
 adresse: " 5 rue de Valmy, Nantes"
 acces:
@@ -29,12 +29,12 @@ champs_informations:
   contenu: lacite-nantes.fr
   lien: 'https://lacite-nantes.fr/infos-pratiques/acces-cite.html '
 - intitule: Modalités
-  contenu: "Inscription obligatoire \n%0D%0A Gratuite pour les collectivités membres
-    du réseau des interconnectés\n\\n Payante pour les autres structures, avec un
-    tarif secteur public à hauteur de 150€ TTC et un tarif entreprise à 200€ TTC\n\\n
-    Pass vaccinal obligatoire"
-- intitule: Pour vous inscrire
-  contenu: rendez-vous sur forum.interconnectes.fr
+  contenu: Inscription obligatoire    –    Gratuite pour les collectivités membres
+    du réseau des interconnectés     –    Payante pour les autres structures, avec
+    un tarif secteur public à hauteur de 150€ TTC et un tarif entreprise à 200€ TTC    –    Pass
+    vaccinal obligatoire
+- intitule: Inscrivez-vous sur
+  contenu: forum.interconnectes.fr
   lien: https://forum.interconnectes.fr/
 ---
 
@@ -61,7 +61,7 @@ Atelier animé par :
 * Maria Cotora, cheffe de programme TNT au sein de la DINUM
 
 📆 Mercredi 2 mars, de 17h à 17h30
-📍 B - Salle GH    
+<br>📍 B - Salle GH    
 
 
 
