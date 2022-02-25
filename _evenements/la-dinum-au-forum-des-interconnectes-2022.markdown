@@ -68,6 +68,8 @@ Atelier animé par :
 ### Le Comité de coordination du programme TNT
 Le Comité de coordination du programme TNT aura également lieu lors du Forum. Il regroupe la direction interministérielle du numérique (DINUM), l’agence nationale de la cohésion des territoires (ANCT), des représentants des principales associations représentatives des collectivités territoriales et des responsables des différents groupes projets du programme.  
 
+
 #### Plus d’infos :
 * Sur le Forum des interconnectés : [forum@interconnectes.com](mailto:forum@interconnectes.com)
 * Sur le programme TNT et notre participation au Forum des Interconnectés : [tnt.dinum@modernisation.gouv.fr](mailto:tnt.dinum@modernisation.gouv.fr)
+[numerique.gouv.fr/services/tnt](https://numerique.gouv.fr/services/tnt)
