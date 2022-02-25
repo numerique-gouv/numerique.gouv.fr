@@ -29,18 +29,13 @@ champs_informations:
   contenu: lacite-nantes.fr
   lien: 'https://lacite-nantes.fr/infos-pratiques/acces-cite.html '
 - intitule: Modalités
-  contenu: "Inscription obligatoire \nGratuite pour les collectivités membres du réseau
-    des interconnectés\nPayante pour les autres structures, avec un tarif secteur
-    public à hauteur de 150€ TTC et un tarif entreprise à 200€ TTC\nPass vaccinal
-    obligatoire"
+  contenu: "Inscription obligatoire \n%0D%0A Gratuite pour les collectivités membres
+    du réseau des interconnectés\n\\n Payante pour les autres structures, avec un
+    tarif secteur public à hauteur de 150€ TTC et un tarif entreprise à 200€ TTC\n\\n
+    Pass vaccinal obligatoire"
 - intitule: Pour vous inscrire
   contenu: rendez-vous sur forum.interconnectes.fr
   lien: https://forum.interconnectes.fr/
-- intitule: 'Plus d’infos
-
-'
-  contenu: ", ou directement le programme TNT : tnt.dinum@modernisation.gouv.fr"
-  lien: tnt.dinum@modernisation.gouv.fr
 ---
 
 Rendez-vous incontournable du numérique et des territoires, le Forum des Interconnectés est l’occasion d’échanger sur les solutions et innovations utiles pour les territoires en matière de dématérialisation, inclusion, data, ville intelligente et responsable. 
@@ -49,24 +44,24 @@ Pendant deux jours, conférences, ateliers et espaces d’exposition seront l’
 
 <div class="lien-important"><a href="https://forum.interconnectes.fr/programme?utf8=%E2%9C%93&q=">Découvrez le programme complet et les intervenants</a></div>
 
-# Retrouvez-nous au Forum des Interconnectés 2022 !
+## Retrouvez-nous au Forum des Interconnectés 2022 !
 
 Partenaire du réseau des territoires innovants, la DINUM sera présente à ce rendez-vous incontournable du numérique et des territoires à travers : 	
 
-## Un espace d’exposition
+### Un espace d’exposition
 Venez nous rencontrer et échanger sur notre espace d'exposition, sur toute la durée du Forum.
 Avec : présentation des dispositifs du programme TNT dédié aux territoires et des services accessibles aux collectivités pour accompagner leur transformation numérique.
 
-## un atelier « Simplifiez et sécurisez vos démarches en ligne grâce à FranceConnect et aux API »
+### Un atelier « Simplifiez et sécurisez vos démarches en ligne grâce à FranceConnect et aux API »
 * animé par  Vincent Mazalaigue, chef de projet « Dites-le-nous-une-fois » à la DINUM, Emmanuel Vivé, directeur de l’association Declic et Maria Cotora, cheffe de programme TNT au sein de la DINUM
 * 📆 : mercredi 2 mars, de 17h à 17h30 
 * 📍 B - Salle GH    
 
 Cet atelier sera l’occasion de présenter les avantages de l’utilisation de FranceConnect et des API pour la simplification et la sécurisation des démarches en ligne des collectivités, au bénéfice des agents comme des usagers. Mais aussi de présenter les dispositifs d’accompagnement, notamment financiers, accessibles aux collectivités territoriales pour les accompagner dans l’intégration de ces solutions. 
 
-## Le Comité de coordination du programme TNT
+### Le Comité de coordination du programme TNT
 Le Comité de coordination du programme TNT aura également lieu lors du Forum. Il regroupe la direction interministérielle du numérique (DINUM), l’agence nationale de la cohésion des territoires (ANCT), des représentants des principales associations représentatives des collectivités territoriales et des responsables des différents groupes projets du programme.  
 
-### Plus d’infos :
-* Sur le Forum des interconnectés : forum@interconnectes.com
-* Sur le programme TNT et notre participation au Forum des Interconnectés : [mailto:tnt.dinum@modernisation.gouv.fr](tnt.dinum@modernisation.gouv.fr)
+#### Plus d’infos :
+* Sur le Forum des interconnectés : [forum@interconnectes.com](mailto:forum@interconnectes.com)
+* Sur le programme TNT et notre participation au Forum des Interconnectés : [tnt.dinum@modernisation.gouv.fr](mailto:tnt.dinum@modernisation.gouv.fr)
