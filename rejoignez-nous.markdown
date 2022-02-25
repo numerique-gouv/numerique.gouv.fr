@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 10 février 2022
+date_de_modification: 21 février 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -45,14 +45,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Chef-fe de projet - Architecte technique / Services d'accès internet H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet---architecte-technique--services-d-acces-internet-hf-reference-2021-770921/ "Chef-fe de projet - Architecte technique / Services d'accès internet H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé-e de mission communication, relations presse et événementiel H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-communication-relations-presse-et-evenementiel-cdd-de-6-mois-hf-reference-2022-793421/ "Chargé-e de mission communication, relations presse et événementiel - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé-e de support produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-support-produits-numeriques-hf-reference-2022-793482/ "Chargé-e de support produits numériques - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
