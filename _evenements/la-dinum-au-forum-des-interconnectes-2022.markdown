@@ -53,11 +53,17 @@ Venez nous rencontrer et échanger sur notre espace d'exposition, sur toute la d
 Avec : présentation des dispositifs du programme TNT dédié aux territoires et des services accessibles aux collectivités pour accompagner leur transformation numérique.
 
 ### Un atelier « Simplifiez et sécurisez vos démarches en ligne grâce à FranceConnect et aux API »
-* animé par  Vincent Mazalaigue, chef de projet « Dites-le-nous-une-fois » à la DINUM, Emmanuel Vivé, directeur de l’association Declic et Maria Cotora, cheffe de programme TNT au sein de la DINUM
-* 📆 : mercredi 2 mars, de 17h à 17h30 
-* 📍 B - Salle GH    
-
 Cet atelier sera l’occasion de présenter les avantages de l’utilisation de FranceConnect et des API pour la simplification et la sécurisation des démarches en ligne des collectivités, au bénéfice des agents comme des usagers. Mais aussi de présenter les dispositifs d’accompagnement, notamment financiers, accessibles aux collectivités territoriales pour les accompagner dans l’intégration de ces solutions. 
+
+Atelier animé par : 
+* Vincent Mazalaigue, chef de projet « Dites-le-nous-une-fois » à la DINUM, 
+* Emmanuel Vivé, directeur de l’association Declic
+* Maria Cotora, cheffe de programme TNT au sein de la DINUM
+
+📆 Mercredi 2 mars, de 17h à 17h30 
+📍 B - Salle GH    
+
+
 
 ### Le Comité de coordination du programme TNT
 Le Comité de coordination du programme TNT aura également lieu lors du Forum. Il regroupe la direction interministérielle du numérique (DINUM), l’agence nationale de la cohésion des territoires (ANCT), des représentants des principales associations représentatives des collectivités territoriales et des responsables des différents groupes projets du programme.  
