@@ -1,5 +1,5 @@
 ---
-title: La DINUM au Forum des Interconnectés
+title: La DINUM au Forum des Interconnectés 2022
 date: 2022-02-25 10:15:00 +01:00
 categories:
 - Forum
@@ -11,7 +11,7 @@ chapeau-text: 'À travers son programme [Transformation numérique des territoir
   sur notre espace d''exposition et lors de notre atelier dédié à la simplification
   et la sécurisation des démarches en ligne grâce à FranceConnect et aux API. '
 une-ou-diaporama:
-- image: "/uploads/interconnectes2022.jpg"
+- image: "/uploads/interconnectes2022_HD.jpg"
 event_start_date: 2022-03-02 00:00:00 +01:00
 event_end_date: 2022-02-03 00:00:00 +01:00
 lieu: Cités des Congrès
