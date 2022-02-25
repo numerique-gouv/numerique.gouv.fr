@@ -60,7 +60,7 @@ Atelier animé par :
 * Emmanuel Vivé, directeur de l’association Declic
 * Maria Cotora, cheffe de programme TNT au sein de la DINUM
 
-📆 Mercredi 2 mars, de 17h à 17h30 
+📆 Mercredi 2 mars, de 17h à 17h30
 📍 B - Salle GH    
 
 
