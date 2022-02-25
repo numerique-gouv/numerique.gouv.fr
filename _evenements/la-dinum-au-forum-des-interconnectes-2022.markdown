@@ -42,7 +42,7 @@ Rendez-vous incontournable du numérique et des territoires, le Forum des Interc
 
 Pendant deux jours, conférences, ateliers et espaces d’exposition seront l’occasion d’aborder, avec les élus et agents des collectivités territoriales, opérateurs publics de services numériques, experts et startups, les enjeux de la transformation numérique pour les territoires. 
 
-<div class="lien-important"><a href="https://forum.interconnectes.fr/programme?utf8=%E2%9C%93&q=">Découvrez le programme complet et les intervenants</a></div>
+<a href="https://forum.interconnectes.fr/programme?utf8=%E2%9C%93&q=">Découvrez le programme complet et les intervenants</a>
 
 ## Retrouvez-nous au Forum des Interconnectés 2022 !
 
