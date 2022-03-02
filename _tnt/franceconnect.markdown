@@ -84,7 +84,7 @@ Dans le cadre du plan France Relance, l’État vous aide financièrement à met
 +
 **5 000€** pour raccorder vos démarches aux API nationales
 
-**> Informations et modalités sur** [france-relance.transformation.gouv.fr/fonds-collectivites](https://france-relance.transformation.gouv.fr/fonds-collectivites) (Guichet : [Déployer FranceConnect et utiliser les API nationales](https://france-relance.transformation.gouv.fr/e13a-deployer-franceconnect-et-utiliser-les-api-na/))
+<div class="lien-important"><p><a href="https://france-relance.transformation.gouv.fr/fonds-collectivites">Informations et modalités sur france-relance.transformation.gouv.fr</a> <br>(Guichet : <a href="https://france-relance.transformation.gouv.fr/e13a-deployer-franceconnect-et-utiliser-les-api-na/">Déployer FranceConnect et utiliser les API nationales</a></p>)</div>
 
 <div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><strong>Vous avez une question ?</strong>
 <br>Vous pouvez contacter :
