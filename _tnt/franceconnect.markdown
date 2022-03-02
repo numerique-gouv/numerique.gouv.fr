@@ -2,7 +2,6 @@
 title: FranceConnect
 date: 2022-02-24 12:08:00 +01:00
 permalink: "/services/tnt/franceconnect/"
-published: false
 style: |-
   .button {
   background-color: #0d5c98;
