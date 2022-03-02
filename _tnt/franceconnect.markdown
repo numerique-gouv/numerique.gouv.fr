@@ -53,7 +53,48 @@ FranceConnect est la solution proposée par l’État pour faciliter l’accès 
 
 Proposé par l’État, FranceConnect est **un outil d’identification et d’authentification en ligne** des utilisateurs, leur permettant d’accéder à leurs démarches en ligne **facilement et en toute sécurité.**
 
-Concrètement, il permet à l’utilisateur de **se connecter à un service numérique sans se créer de nouveaux identifiants**, en utilisant un compte existant parmi ceux proposés (impots.gouv.fr, Ameli, l’Identité Numérique La Poste, MobileConnect et moi et la msa.fr). 
+Concrètement, il permet à l’utilisateur de **se connecter à un service numérique sans se créer de nouveaux identifiants**, en utilisant un compte existant parmi ceux proposés (impots.gouv.fr, Ameli, l’Identité Numérique La Poste, MobileConnect et moi, et msa.fr). 
+
+
+<h2 class="text-center margin-bottom-0 margin-top-3"><span style="text-transform:uppercase;">5 bonnes raisons</h2>
+<br><p style="text-center">recourir à FranceConnect</p>
+
+<div class="bonnes-raisons">
+    <div >
+<p><b>Pour vos usagers :</b></p>
+      <div class="raison">
+        <img src="/uploads/1-6cb735.png" alt="1" width="80" align="middle">
+        <div>
+          <strong>Faciliter l’accès</strong> aux services en ligne de votre collectivité en leur évitant de créer de nouveaux identifiants à retenir
+        </div>
+      </div>
+      <div class="raison">
+        <img src="/uploads/2-cb3c82.png" alt="2" width="80" align="middle" />
+        <div>
+            <strong>Simplifier leurs parcours et les formulaires</strong> à compléter
+        </div>
+      </div>
+      <div class="raison">
+        <img src="/uploads/3-560a28.png" alt="3" width="80" align="middle" />
+        <div>
+            <strong>Leur proposer un outil simple, sécurisé et respectueux</strong><br> de leurs données personnelles, auquel ils sont habitués
+        </div>
+      </div>
+      <div class="raison">
+        <img src="/uploads/4-8043b4.png" alt="4" width="80" align="middle" />
+<p><b>Pour votre collectivité :</b></p>
+        <div>
+            <strong>Disposer d’un outil clé en main, simple et rapide à implémenter, </strong> <br>pour sécuriser et fluidifier l’accès à vos services en ligne
+        </div>
+      </div>
+      <div class="raison">
+        <img src="/uploads/4-8043b4.png" alt="4" width="80" align="middle" />
+        <div>
+            <strong>Vous assurer de l’identité et des coordonnées</strong> <br>de l’usager grâce à des données vérifiées
+        </div>
+      </div>
+    </div>
+
 
 ### 5 bonnes raisons de recourir à FranceConnect
 
@@ -113,41 +154,4 @@ Dans le cadre du plan France Relance, l’État vous aide financièrement à met
 style="border:solid 1px #464646"></a></p>
 
 <div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF">Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)</a></p> </div>
-
-<h2 class="text-center margin-bottom-0 margin-top-3"> 4 BONNES RAISONS</h2>
-<br><p style="text-center">de recourir à l’offre de conseil en stratégie numérique de la DINUM</p>
-
-<div class="bonnes-raisons">
-    <div >
-      <div class="raison">
-        <img src="/uploads/1-6cb735.png" alt="1" width="80" align="middle">
-        <div>
-          <strong>Faciliter l’accès</strong> aux services en ligne de votre collectivité en leur évitant de créer de nouveaux identifiants à retenir
-        </div>
-      </div>
-      <div class="raison">
-        <img src="/uploads/2-cb3c82.png" alt="2" width="80" align="middle" />
-        <div>
-            <strong>Simplifier leurs parcours et les formulaires</strong> à compléter
-        </div>
-      </div>
-      <div class="raison">
-        <img src="/uploads/3-560a28.png" alt="3" width="80" align="middle" />
-        <div>
-            <strong>Leur proposer un outil simple, sécurisé et respectueux</strong><br> de leurs données personnelles, auquel ils sont habitués
-        </div>
-      </div>
-      <div class="raison">
-        <img src="/uploads/4-8043b4.png" alt="4" width="80" align="middle" />
-        <div>
-            <strong>Disposer d’un outil clé en main, simple et rapide à implémenter, </strong> <br>pour sécuriser et fluidifier l’accès à vos services en ligne
-        </div>
-      </div>
-      <div class="raison">
-        <img src="/uploads/4-8043b4.png" alt="4" width="80" align="middle" />
-        <div>
-            <strong>Vous assurer de l’identité et des coordonnées</strong> <br>de l’usager grâce à des données vérifiées
-        </div>
-      </div>
-    </div>
   </div>
