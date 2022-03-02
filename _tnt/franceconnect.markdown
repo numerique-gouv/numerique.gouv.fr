@@ -23,7 +23,7 @@ une:
 layout: tnt
 ---
 
-### Facilitez les démarches de vos usagers grâce à FranceConnect et au partage de données
+### Collectivités territoriales : facilitez les démarches de vos usagers grâce à FranceConnect et au partage de données
 
 FranceConnect est la solution proposée par l’État pour faciliter l’accès aux services en ligne. 
 
@@ -57,7 +57,7 @@ Pour toutes celles qui nécessitent de se créer un compte/espace personnel ou d
 * Inscriptions : cantine scolaire, activités culturelles et sportives, bibliothèque, piscine…
 * Participation aux dispositifs de démocratie participative  
 
-**> Plus d’informations sur [franceconnect.gouv.fr/partenaires](https://franceconnect.gouv.fr/partenaires)**
+<div class="lien-important"><p><a href="https://franceconnect.gouv.fr/partenaires" alt="Plus d’informations sur franceconnect.gouv.fr/partenaires - Lien externe">Plus d’informations sur franceconnect.gouv.fr/partenaires</a></p></div>
 
 ## Supprimez les pièces justificatives grâce à la récupération directe de données (via API)
 
@@ -75,7 +75,7 @@ Il vous suffit pour cela d’utiliser les « API » mises à votre disposition, 
 * Automatiser l’instruction des dossiers 
 * Disposer d’informations 100% fiables car récupérées directement à la source 
 
-**> Plus d’informations sur [api.gouv.fr/guides/api-franceconnectees](https://api.gouv.fr/guides/api-franceconnectees)**
+<div class="lien-important"><p><a href="https://api.gouv.fr/guides/api-franceconnectees" alt="Plus d'informations sur api.gouv.fr/guides/api-franceconnectees - Lien externe">Plus d'informations sur api.gouv.fr/guides/api-franceconnectees</a></p></div>
 
 ### Jusqu’à 10 000€ d’aide financière
 
