@@ -15,6 +15,23 @@ style: |-
   margin: 4px 2px;
   cursor: pointer;
   }
+
+  .bonnes-raisons {
+    margin: auto;
+    display: flex;
+    align-items: center;
+  }
+
+  .bonnes-raisons > div {
+    margin: auto;
+  }
+
+  .bonnes-raisons > div > .raison {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 25px 0;
+  }
 menu:
   title: FranceConnect
   weight: 60
@@ -59,7 +76,7 @@ Pour toutes celles qui nécessitent de se créer un compte/espace personnel ou d
 
 <div class="lien-important"><p><a href="https://franceconnect.gouv.fr/partenaires" alt="Plus d’informations sur franceconnect.gouv.fr/partenaires - Lien externe">Plus d’informations sur franceconnect.gouv.fr/partenaires</a></p></div>
 
-## Supprimez les pièces justificatives grâce à la récupération directe de données (via API)
+<h2 style="margin-top: 20px">Supprimez les pièces justificatives grâce à la récupération directe de données (via API)</h2>
 
 Utiliser FranceConnect pour vos démarches vous permet également de supprimer les pièces justificatives et de préremplir certains formulaires de vos services en ligne.
 
