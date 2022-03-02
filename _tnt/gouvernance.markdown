@@ -31,7 +31,7 @@ layout: tnt
 **Côté collectivités territoriales :**
 
 <div class="partenaires-collterr">
-  <div><a href="https://www.amf.asso.fr/" alt="AMF - Lien externe"><img src="/uploads/Logo_AMF.jpg" alt="Association des Maires de France (AMF)" width="180" align="middle"></a></div>
+  <div><a href="https://www.amf.asso.fr/" alt="AMF - Lien externe"><img src="/uploads/logo_AMF.png" alt="Association des Maires de France et des présidents d'intercommunalité (AMF)" width="180" align="middle"></a></div>
   <div><a href="http://www.departements.fr/" alt="ADF - Lien externe"><img src="/uploads/Logo_ADF.jpg" alt="Assemblée des Départements de France (ADF)" width="100" align="middle"></a></div>
   <div><a href="https://www.adcf.org/" alt="AdCF - Lien externe"><img src="/uploads/Log_AdCF.jpg" alt="Association des Communautés de France (AdCf)" width="120" align="middle"></a></div>
   <div><a href="https://franceurbaine.org/" alt="France urbaine - Lien externe"><img src="/uploads/Logo_France-Urbaine.jpg" alt="France Urbaine" width="130" align="middle"></a></div>
