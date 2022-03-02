@@ -114,7 +114,7 @@ style="border:solid 1px #464646"></a></p>
 
 <div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF">Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)</a></p> </div>
 
-<h2 class="text-center margin-bottom-0 margin-top-3"> 4 BONNES RAISONS
+<h2 class="text-center margin-bottom-0 margin-top-3"> 4 BONNES RAISONS</h2>
 <br><p style=text-center">de recourir à l’offre de conseil en stratégie numérique de la DINUM</p>
 
 <div class="bonnes-raisons">
