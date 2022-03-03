@@ -57,7 +57,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
 
 
 <h2 class="text-center margin-bottom-0 margin-top-3"><span style="text-transform:uppercase;">5 bonnes raisons</span></h2>
-<br><p style="text-center">de recourir à FranceConnect</p>
+<p style="text-center">de recourir à FranceConnect</p>
 
 <div class="bonnes-raisons">
     <div >
@@ -145,7 +145,7 @@ Il vous suffit pour cela d’utiliser les « API » mises à votre disposition, 
         </div>
       </div>
       <div class="raison">
-        <img src="/uploads/Assurer_identite.svg" alt="4" width="60" align="middle" />
+        <img src="/uploads/Assurer_identite.svg" alt="" width="60" align="middle" />
         <div>
             <strong>Vous assurer de l’identité et des coordonnées</strong> <br>de l’usager grâce à des données vérifiées
         </div>
