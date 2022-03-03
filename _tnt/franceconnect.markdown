@@ -63,32 +63,32 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
     <div >
 <p><b>Pour vos usagers :</b></p>
       <div class="raison">
-        <img src="/uploads/Faciliter_lacces.svg" alt="" style="margin-right: 10px" width="40" align="middle">
+        <img src="/uploads/Faciliter_lacces.svg" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
           <strong>Faciliter l’accès</strong> aux services en ligne de votre collectivité en leur évitant de créer de nouveaux identifiants à retenir
         </div>
       </div>
       <div class="raison">
-        <img src="/uploads/Simplifier.svg" alt="" style="margin-right: 10px" width="40" align="middle">
+        <img src="/uploads/Simplifier.svg" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
             <strong>Simplifier leurs parcours et les formulaires</strong> à compléter
         </div>
       </div>
       <div class="raison">
-        <img src="/uploads/Outil_securiser.svg" alt="" style="margin-right: 10px" width="40" align="middle">
+        <img src="/uploads/Outil_securiser.svg" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
             <strong>Leur proposer un outil simple, sécurisé et respectueux</strong><br> de leurs données personnelles, auquel ils sont habitués
         </div>
       </div>
 <p><b>Pour votre collectivité :</b></p>
       <div class="raison">
-        <img src="/uploads/Outil_cle.svg" alt="" alt="" style="margin-right: 10px" width="40" align="middle">
+        <img src="/uploads/Outil_cle.svg" alt="" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
             <strong>Disposer d’un outil clé en main, simple et rapide à implémenter, </strong> <br>pour sécuriser et fluidifier l’accès à vos services en ligne
         </div>
       </div>
       <div class="raison">
-        <img src="/uploads/Assurer_identite.svg" alt="" style="margin-right: 10px" width="40" align="middle">
+        <img src="/uploads/Assurer_identite.svg" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
             <strong>Vous assurer de l’identité et des coordonnées</strong> <br>de l’usager grâce à des données vérifiées
         </div>
@@ -121,26 +121,26 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
     <div >
 <p><b>Pour vos usagers :</b></p>
       <div class="raison">
-        <img src="/uploads/Simplifier_demarches.svg" alt="" style="margin-right: 10px" width="40" align="middle">
+        <img src="/uploads/Simplifier_demarches.svg" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
           <strong>Simplifier leurs démarches</strong> grâce à la suppression des pièces justificatives et au préremplissage de formulaires
         </div>
       </div>
       <div class="raison">
-        <img src="/uploads/Accelerer_delais.svg" alt="" alt="" style="margin-right: 10px" width="40" align="middle">
+        <img src="/uploads/Accelerer_delais.svg" alt="" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
             <strong>Accélérer le délai de traitement </strong>de leurs dossiers
         </div>
       </div>
 <p><b>Pour votre collectivité :</b></p>
       <div class="raison">
-        <img src="/uploads/Automatiser.svg" alt="" alt="" style="margin-right: 10px" width="40" align="middle">
+        <img src="/uploads/Automatiser.svg" alt="" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
             <strong>Automatiser</strong> l’instruction des dossiers 
         </div>
       </div>
       <div class="raison">
-        <img src="/uploads/Disposer_dinformations.svg" alt="" style="margin-right: 10px" width="40" align="middle">
+        <img src="/uploads/Disposer_dinformations.svg" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
             <strong> Disposer d’informations 100% fiables</strong> car récupérées directement à la source
         </div>
