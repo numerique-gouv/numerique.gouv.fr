@@ -140,7 +140,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
         </div>
       </div>
       <div class="raison">
-        <img src="/uploads/Disposer_dinformations.svg" alt="" width="60" align="middle" />
+        <img src="/uploads/Disposer_dinformations.svg" alt="" style="margin-right: 10px" width="40" align="middle">
         <div>
             <strong> Disposer d’informations 100% fiables</strong> car récupérées directement à la source
         </div>
@@ -156,16 +156,17 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
 <ul><li><b>5 000€</b> pour installer FranceConnect</li> 
 <p>+</p>
 <li><b>5 000€</b> pour raccorder vos démarches aux API nationales</li></ul> 
+<br>
 
 <div class="lien-important"><p><a href="https://france-relance.transformation.gouv.fr/fonds-collectivites">Informations et modalités sur france-relance.transformation.gouv.fr</a> <br>(Guichet : <a href="https://france-relance.transformation.gouv.fr/e13a-deployer-franceconnect-et-utiliser-les-api-na/">Déployer FranceConnect et utiliser les API nationales</a>)</p></div>
 
 <div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><strong>Vous avez une question ?</strong>
-<br>Vous pouvez contacter :
-<br><ul><li>Pour FranceConnect : <a href="mailto:support.partenaires@franceconnect.gouv.fr">support.partenaires@franceconnect.gouv.fr</a></li>
+<br>Vous pouvez contacter :</p>
+<ul><li>Pour FranceConnect : <a href="mailto:support.partenaires@franceconnect.gouv.fr">support.partenaires@franceconnect.gouv.fr</a></li>
 <li>Pour les API : <a href="mailto:contact@api.gouv.fr">contact@api.gouv.fr</a></li></ul>
 </div>
 
 <p class="text-center"><figure class='image-center' style='width: 30%;'><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF"><img alt="Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)" src="/uploads/CapturePlaquetteFCTNT.PNG"
 style="border:solid 1px #464646"></a></p>
 
-<div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF">Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)</a></p> </div>
+<div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF">Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)</a></p> 
