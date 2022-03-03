@@ -94,6 +94,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
         </div>
       </div>
     </div>
+</div>
 
 
 ### Pour quelles démarches utiliser FranceConnect ?
