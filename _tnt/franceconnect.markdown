@@ -97,21 +97,21 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
 </div>
 
 
-### Pour quelles démarches utiliser FranceConnect ?
+<h3>Pour quelles démarches utiliser FranceConnect ?</h3>
 
-Pour toutes celles qui nécessitent de se créer un compte/espace personnel ou de se connecter, exemples : 
-* Accès aux espaces et comptes Famille
-* Demandes d’autorisation d’urbanisme
-* Inscriptions : cantine scolaire, activités culturelles et sportives, bibliothèque, piscine…
-* Participation aux dispositifs de démocratie participative  
+<p>Pour toutes celles qui nécessitent de se créer un compte/espace personnel ou de se connecter, exemples :
+<ul><li>Accès aux espaces et comptes Famille</li>
+<li>Demandes d’autorisation d’urbanisme</li>
+<li>Inscriptions : cantine scolaire, activités culturelles et sportives, bibliothèque, piscine…</li>
+<li>Participation aux dispositifs de démocratie participative</li></ul></p>  
 
 <div class="lien-important"><p><a href="https://franceconnect.gouv.fr/partenaires" alt="Plus d’informations sur franceconnect.gouv.fr/partenaires - Lien externe">Plus d’informations sur franceconnect.gouv.fr/partenaires</a></p></div>
 
 <h2 style="margin-top: 20px">Supprimez les pièces justificatives grâce à la récupération directe de données (via API)</h2>
 
-Utiliser FranceConnect pour vos démarches vous permet également de supprimer les pièces justificatives et de préremplir certains formulaires de vos services en ligne.
+<p>Utiliser FranceConnect pour vos démarches vous permet également de supprimer les pièces justificatives et de préremplir certains formulaires de vos services en ligne.</p>
 
-Il vous suffit pour cela d’utiliser les « API » mises à votre disposition, des interfaces informatiques qui récupèreront automatiquement les données dont vous avez besoin, directement auprès des administrations qui les détiennent : revenu fiscal de référence, statut étudiant ou demandeur d’emploi, allocataire RSA et bien d’autres. 
+<p>Il vous suffit pour cela d’utiliser les « API » mises à votre disposition, des interfaces informatiques qui récupèreront automatiquement les données dont vous avez besoin, directement auprès des administrations qui les détiennent : revenu fiscal de référence, statut étudiant ou demandeur d’emploi, allocataire RSA et bien d’autres.</p> 
 
 
 <h2 class="text-center margin-bottom-0 margin-top-3"><span style="text-transform:uppercase;">4 bonnes raisons</span></h2>
