@@ -126,46 +126,34 @@ Il vous suffit pour cela d’utiliser les « API » mises à votre disposition, 
         </div>
       </div>
       <div class="raison">
-        <img src="uploads/Simplifier.svg" alt="" width="60" align="middle" />
+        <img src="/uploads/Accelerer_delais.svg" alt="" width="60" align="middle" />
         <div>
             <strong>Accélérer le délai de traitement </strong>de leurs dossiers
         </div>
       </div>
 <p><b>Pour votre collectivité :</b></p>
       <div class="raison">
-        <img src="/uploads/Outil_cle.svg" alt="" width="60" align="middle" />
+        <img src="/uploads/Automatiser.svg" alt="" width="60" align="middle" />
         <div>
             <strong>Automatiser</strong> l’instruction des dossiers 
         </div>
       </div>
       <div class="raison">
-        <img src="/uploads/Assurer_identite.svg" alt="" width="60" align="middle" />
+        <img src="/uploads/Disposer_dinformations.svg" alt="" width="60" align="middle" />
         <div>
             <strong> Disposer d’informations 100% fiables</strong> car récupérées directement à la source
         </div>
       </div>
     </div>
 
-
-
-### 4 bonnes raisons d’utiliser ces « API FranceConnectées »
-
-**Pour vos usagers**
-* Simplifier leurs démarches grâce à la suppression des pièces justificatives et au préremplissage de formulaires
-* Accélérer le délai de traitement de leurs dossiers
-
-**Pour votre collectivité**
-* Automatiser l’instruction des dossiers 
-* Disposer d’informations 100% fiables car récupérées directement à la source 
-
 <div class="lien-important"><p><a href="https://api.gouv.fr/guides/api-franceconnectees" alt="Plus d'informations sur api.gouv.fr/guides/api-franceconnectees - Lien externe">Plus d'informations sur api.gouv.fr/guides/api-franceconnectees</a></p></div>
 
-### Jusqu’à 10 000€ d’aide financière
+<h3>Jusqu’à 10 000€ d’aide financière</h3>
 
-Dans le cadre du plan France Relance, l’État vous aide financièrement à mettre en place ces solutions pour votre collectivité :
-**5 000€** pour installer FranceConnect 
-+
-**5 000€** pour raccorder vos démarches aux API nationales
+<p>Dans le cadre du plan France Relance, l’État vous aide financièrement à mettre en place ces solutions pour votre collectivité :</p>
+<ul><li><b>5 000€</b> pour installer FranceConnect</li> 
+<p>+</p>
+<li><b>5 000€</b> pour raccorder vos démarches aux API nationales</li></ul> 
 
 <div class="lien-important"><p><a href="https://france-relance.transformation.gouv.fr/fonds-collectivites">Informations et modalités sur france-relance.transformation.gouv.fr</a> <br>(Guichet : <a href="https://france-relance.transformation.gouv.fr/e13a-deployer-franceconnect-et-utiliser-les-api-na/">Déployer FranceConnect et utiliser les API nationales</a>)</p></div>
 
@@ -180,18 +168,3 @@ style="border:solid 1px #464646"></a></p>
 
 <div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF">Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)</a></p> </div>
   </div>
-
-
-
-
-
-### 5 bonnes raisons de recourir à FranceConnect
-
-**Pour vos usagers :**
-* Simplifier leurs parcours et les formulaires à compléter
-* Faciliter l’accès aux services en ligne de votre collectivité en leur évitant de créer de nouveaux identifiants à retenir
-* Leur proposer un outil simple, sécurisé et respectueux de leurs données personnelles, auquel ils sont habitués
-
-**Pour votre collectivité :**
-* Disposer d’un outil clé en main, simple et rapide à implémenter, pour sécuriser et fluidifier l’accès à vos services en ligne
-* Vous assurer de l’identité et des coordonnées de l’usager grâce à des données vérifiées
