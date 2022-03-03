@@ -57,7 +57,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
 
 
 <h2 class="text-center margin-bottom-0 margin-top-3"><span style="text-transform:uppercase;">5 bonnes raisons</span></h2>
-<br><p style="text-center">recourir à FranceConnect</p>
+<br><p style="text-center">de recourir à FranceConnect</p>
 
 <div class="bonnes-raisons">
     <div >
@@ -96,17 +96,6 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
     </div>
 
 
-### 5 bonnes raisons de recourir à FranceConnect
-
-**Pour vos usagers :**
-* Simplifier leurs parcours et les formulaires à compléter
-* Faciliter l’accès aux services en ligne de votre collectivité en leur évitant de créer de nouveaux identifiants à retenir
-* Leur proposer un outil simple, sécurisé et respectueux de leurs données personnelles, auquel ils sont habitués
-
-**Pour votre collectivité :**
-* Disposer d’un outil clé en main, simple et rapide à implémenter, pour sécuriser et fluidifier l’accès à vos services en ligne
-* Vous assurer de l’identité et des coordonnées de l’usager grâce à des données vérifiées
-
 ### Pour quelles démarches utiliser FranceConnect ?
 
 Pour toutes celles qui nécessitent de se créer un compte/espace personnel ou de se connecter, exemples : 
@@ -122,6 +111,48 @@ Pour toutes celles qui nécessitent de se créer un compte/espace personnel ou d
 Utiliser FranceConnect pour vos démarches vous permet également de supprimer les pièces justificatives et de préremplir certains formulaires de vos services en ligne.
 
 Il vous suffit pour cela d’utiliser les « API » mises à votre disposition, des interfaces informatiques qui récupèreront automatiquement les données dont vous avez besoin, directement auprès des administrations qui les détiennent : revenu fiscal de référence, statut étudiant ou demandeur d’emploi, allocataire RSA et bien d’autres. 
+
+
+<h2 class="text-center margin-bottom-0 margin-top-3"><span style="text-transform:uppercase;">4 bonnes raisons</span></h2>
+<br><p style="text-center">d’utiliser ces « API FranceConnectées »</p>
+
+<div class="bonnes-raisons">
+    <div >
+<p><b>Pour vos usagers :</b></p>
+      <div class="raison">
+        <img src="/uploads/Faciliter_lacces.svg" alt="" width="60" align="middle">
+        <div>
+          <strong>Simplifier leurs démarches</strong> grâce à la suppression des pièces justificatives et au préremplissage de formulaires
+        </div>
+      </div>
+      <div class="raison">
+        <img src="uploads/Simplifier.svg" alt="" width="60" align="middle" />
+        <div>
+            <strong>Simplifier leurs parcours et les formulaires</strong> à compléter
+        </div>
+      </div>
+      <div class="raison">
+        <img src="/uploads/Outil_securiser.svg" alt="" width="60" align="middle" />
+        <div>
+            <strong>Leur proposer un outil simple, sécurisé et respectueux</strong><br> de leurs données personnelles, auquel ils sont habitués
+        </div>
+      </div>
+<p><b>Pour votre collectivité :</b></p>
+      <div class="raison">
+        <img src="/uploads/Outil_cle.svg" alt="" width="60" align="middle" />
+        <div>
+            <strong>Disposer d’un outil clé en main, simple et rapide à implémenter, </strong> <br>pour sécuriser et fluidifier l’accès à vos services en ligne
+        </div>
+      </div>
+      <div class="raison">
+        <img src="/uploads/Assurer_identite.svg" alt="4" width="60" align="middle" />
+        <div>
+            <strong>Vous assurer de l’identité et des coordonnées</strong> <br>de l’usager grâce à des données vérifiées
+        </div>
+      </div>
+    </div>
+
+
 
 ### 4 bonnes raisons d’utiliser ces « API FranceConnectées »
 
@@ -155,3 +186,18 @@ style="border:solid 1px #464646"></a></p>
 
 <div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF">Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)</a></p> </div>
   </div>
+
+
+
+
+
+### 5 bonnes raisons de recourir à FranceConnect
+
+**Pour vos usagers :**
+* Simplifier leurs parcours et les formulaires à compléter
+* Faciliter l’accès aux services en ligne de votre collectivité en leur évitant de créer de nouveaux identifiants à retenir
+* Leur proposer un outil simple, sécurisé et respectueux de leurs données personnelles, auquel ils sont habitués
+
+**Pour votre collectivité :**
+* Disposer d’un outil clé en main, simple et rapide à implémenter, pour sécuriser et fluidifier l’accès à vos services en ligne
+* Vous assurer de l’identité et des coordonnées de l’usager grâce à des données vérifiées
