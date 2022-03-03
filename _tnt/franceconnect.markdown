@@ -61,7 +61,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
 
 <div class="bonnes-raisons">
     <div >
-<p><b>Pour vos usagers :</b></p>
+<h4>Pour vos usagers :</h4>
       <div class="raison">
         <img src="/uploads/Faciliter_lacces.svg" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
@@ -80,7 +80,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
             <strong>Leur proposer un outil simple, sécurisé et respectueux</strong><br> de leurs données personnelles, auquel ils sont habitués
         </div>
       </div>
-<p><b>Pour votre collectivité :</b></p>
+<h4>Pour votre collectivité :</h4>
       <div class="raison">
         <img src="/uploads/Outil_cle.svg" alt="" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
@@ -119,7 +119,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
 
 <div class="bonnes-raisons">
     <div >
-<p><b>Pour vos usagers :</b></p>
+<h4>Pour vos usagers :</h4>
       <div class="raison">
         <img src="/uploads/Simplifier_demarches.svg" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
