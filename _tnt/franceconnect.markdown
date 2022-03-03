@@ -69,7 +69,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
         </div>
       </div>
       <div class="raison">
-        <img src="uploads/Simplifier.svg" alt="" style="margin-right: 10px" width="40" align="middle">
+        <img src="/uploads/Simplifier.svg" alt="" style="margin-right: 10px" width="40" align="middle">
         <div>
             <strong>Simplifier leurs parcours et les formulaires</strong> à compléter
         </div>
