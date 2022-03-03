@@ -57,7 +57,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
 
 
 <h2 class="text-center margin-bottom-0 margin-top-3"><span style="text-transform:uppercase;">5 bonnes raisons</span></h2>
-<p style="text-center">de recourir à FranceConnect</p>
+<p class="text-center">de recourir à FranceConnect</p>
 
 <div class="bonnes-raisons">
     <div >
@@ -115,7 +115,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
 
 
 <h2 class="text-center margin-bottom-0 margin-top-3"><span style="text-transform:uppercase;">4 bonnes raisons</span></h2>
-<br><p style="text-center">d’utiliser ces « API FranceConnectées »</p>
+<p class="text-center">d’utiliser ces « API FranceConnectées »</p>
 
 <div class="bonnes-raisons">
     <div >
