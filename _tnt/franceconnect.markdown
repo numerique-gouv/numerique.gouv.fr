@@ -49,11 +49,11 @@ FranceConnect est la solution proposée par l’État pour faciliter l’accès 
 * **240 M** de connexions en 2021 (x2 par rapport à 2020)
 * **1 200** services numériques publics et privés raccordés
 
-## FranceConnect, c’est quoi ?
+<h2 style="margin-top: 40px">FranceConnect, c’est quoi ?</h2>
 
-Proposé par l’État, FranceConnect est **un outil d’identification et d’authentification en ligne** des utilisateurs, leur permettant d’accéder à leurs démarches en ligne **facilement et en toute sécurité.**
+<p>Proposé par l’État, FranceConnect est <b>un outil d’identification et d’authentification en ligne</b> des utilisateurs, leur permettant d’accéder à leurs démarches en ligne <b>facilement et en toute sécurité.</b></p>
 
-Concrètement, il permet à l’utilisateur de **se connecter à un service numérique sans se créer de nouveaux identifiants**, en utilisant un compte existant parmi ceux proposés (impots.gouv.fr, Ameli, l’Identité Numérique La Poste, MobileConnect et moi, et msa.fr). 
+<p>Concrètement, il permet à l’utilisateur de <b>se connecter à un service numérique sans se créer de nouveaux identifiants</b>, en utilisant un compte existant parmi ceux proposés (impots.gouv.fr, Ameli, l’Identité Numérique La Poste, MobileConnect et moi, et msa.fr).</p>
 
 
 <h2 class="text-center margin-bottom-0 margin-top-3"><span style="text-transform:uppercase;">5 bonnes raisons</span></h2>
