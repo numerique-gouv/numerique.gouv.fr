@@ -154,7 +154,7 @@ FranceConnect est la solution proposée par l’État pour faciliter l’accès 
 
 <p>Dans le cadre du plan France Relance, l’État vous aide financièrement à mettre en place ces solutions pour votre collectivité :</p>
 <ul><li><b>5 000€</b> pour installer FranceConnect</li> 
-<p>+</p>
+<p style="margin-top: 10px"><b>+</b></p>
 <li><b>5 000€</b> pour raccorder vos démarches aux API nationales</li></ul> 
 <br>
 
