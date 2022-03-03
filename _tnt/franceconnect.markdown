@@ -56,7 +56,7 @@ Proposé par l’État, FranceConnect est **un outil d’identification et d’a
 Concrètement, il permet à l’utilisateur de **se connecter à un service numérique sans se créer de nouveaux identifiants**, en utilisant un compte existant parmi ceux proposés (impots.gouv.fr, Ameli, l’Identité Numérique La Poste, MobileConnect et moi, et msa.fr). 
 
 
-<h2 class="text-center margin-bottom-0 margin-top-3"><span style="text-transform:uppercase;">5 bonnes raisons</h2>
+<h2 class="text-center margin-bottom-0 margin-top-3"><span style="text-transform:uppercase;">5 bonnes raisons</span></h2>
 <br><p style="text-center">recourir à FranceConnect</p>
 
 <div class="bonnes-raisons">
