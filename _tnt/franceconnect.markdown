@@ -132,7 +132,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
             <strong>Accélérer le délai de traitement </strong>de leurs dossiers
         </div>
       </div>
-<p><b>Pour votre collectivité :</b></p>
+<h4>Pour votre collectivité :</h4>
       <div class="raison">
         <img src="/uploads/Automatiser.svg" alt="" alt="" style="margin-right: 10px" width="30" align="middle">
         <div>
