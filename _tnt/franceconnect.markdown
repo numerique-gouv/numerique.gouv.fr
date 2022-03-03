@@ -107,7 +107,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
 
 <div class="lien-important"><p><a href="https://franceconnect.gouv.fr/partenaires" alt="Plus d’informations sur franceconnect.gouv.fr/partenaires - Lien externe">Plus d’informations sur franceconnect.gouv.fr/partenaires</a></p></div>
 
-<h2 style="margin-top: 20px">Supprimez les pièces justificatives grâce à la récupération directe de données (via API)</h2>
+<h2 style="margin-top: 40px">Supprimez les pièces justificatives grâce à la récupération directe de données (via API)</h2>
 
 <p>Utiliser FranceConnect pour vos démarches vous permet également de supprimer les pièces justificatives et de préremplir certains formulaires de vos services en ligne.</p>
 
