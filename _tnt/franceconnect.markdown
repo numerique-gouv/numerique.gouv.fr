@@ -146,6 +146,7 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
         </div>
       </div>
     </div>
+    </div>
 
 <div class="lien-important"><p><a href="https://api.gouv.fr/guides/api-franceconnectees" alt="Plus d'informations sur api.gouv.fr/guides/api-franceconnectees - Lien externe">Plus d'informations sur api.gouv.fr/guides/api-franceconnectees</a></p></div>
 
