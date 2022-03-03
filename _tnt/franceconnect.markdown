@@ -63,32 +63,32 @@ Concrètement, il permet à l’utilisateur de **se connecter à un service num�
     <div >
 <p><b>Pour vos usagers :</b></p>
       <div class="raison">
-        <img src="/uploads/1-6cb735.png" alt="1" width="80" align="middle">
+        <img src="/uploads/Faciliter_lacces.svg" alt="" width="60" align="middle">
         <div>
           <strong>Faciliter l’accès</strong> aux services en ligne de votre collectivité en leur évitant de créer de nouveaux identifiants à retenir
         </div>
       </div>
       <div class="raison">
-        <img src="/uploads/2-cb3c82.png" alt="2" width="80" align="middle" />
+        <img src="uploads/Simplifier.svg" alt="" width="60" align="middle" />
         <div>
             <strong>Simplifier leurs parcours et les formulaires</strong> à compléter
         </div>
       </div>
       <div class="raison">
-        <img src="/uploads/3-560a28.png" alt="3" width="80" align="middle" />
+        <img src="/uploads/Outil_securiser.svg" alt="" width="60" align="middle" />
         <div>
             <strong>Leur proposer un outil simple, sécurisé et respectueux</strong><br> de leurs données personnelles, auquel ils sont habitués
         </div>
       </div>
-      <div class="raison">
-        <img src="/uploads/4-8043b4.png" alt="4" width="80" align="middle" />
 <p><b>Pour votre collectivité :</b></p>
+      <div class="raison">
+        <img src="/uploads/Outil_cle.svg" alt="" width="60" align="middle" />
         <div>
             <strong>Disposer d’un outil clé en main, simple et rapide à implémenter, </strong> <br>pour sécuriser et fluidifier l’accès à vos services en ligne
         </div>
       </div>
       <div class="raison">
-        <img src="/uploads/4-8043b4.png" alt="4" width="80" align="middle" />
+        <img src="/uploads/Assurer_identite.svg" alt="4" width="60" align="middle" />
         <div>
             <strong>Vous assurer de l’identité et des coordonnées</strong> <br>de l’usager grâce à des données vérifiées
         </div>
