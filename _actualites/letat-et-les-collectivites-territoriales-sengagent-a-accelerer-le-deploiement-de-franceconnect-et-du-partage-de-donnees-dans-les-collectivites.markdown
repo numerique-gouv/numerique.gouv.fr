@@ -2,12 +2,31 @@
 title: L’État et les collectivités territoriales s’engagent à accélérer le déploiement
   de FranceConnect et du partage de données dans les collectivités !
 date: 2022-03-04 17:31:00 +01:00
+categories:
+- Article
+tags:
+- FranceConnect
+- Identité numérique
+- Transformation numérique des territoires
 chapeau-text: "Ce lundi 7 mars, la ministre de la Transformation et de la Fonction
   publiques, Amélie de Montchalin, et les associations représentatives des élus des
   collectivités territoriales ont signé une charte d’engagement pour accélérer le
   déploiement de FranceConnect et la récupération automatisée de données dans les
   collectivités. \nL’État et les associations d’élus invitent désormais les éditeurs
   de solutions informatiques à y souscrire.\n"
+style: |
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
 
 Plébiscité par plus de 34 millions d’utilisateurs, FranceConnect est un outil majeur de simplification administrative dans le quotidien des Français.
@@ -33,9 +52,10 @@ De leur côté, les associations d’élus des collectivités s’engagent à pr
 
 Enfin, les éditeurs de solutions informatiques pour les collectivités sont invités à rejoindre cette mobilisation en souscrivant également à cette charte. Ils s’y engageront à généraliser l’intégration de FranceConnect et les API de récupération de données dans leurs offres, et à proposer à leurs collectivités clientes de déployer FranceConnect sans surcoût par rapport à la même solution sans FranceConnect. 
 
-<p class="text-center"><figure class="image-center" style="width: 15%;"><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF"><img alt="Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)" src="/uploads/CapturePlaquetteFCTNT.PNG" style="border:solid 1px #464646"></a></figure>
 
-<div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF" alt="Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)">Télécharger la plaquette FranceConnect et API (pdf - 3,8 Mo)</a></p>
+<div align="center">
+<a href="/uploads/Charte_engagement_FranceConnect-API.pdf" class="button" alt="Consulter la charte d'engagement (pdf, 330ko)"><b>Consulter la charte d'engagement (pdf, 330ko)</b></a>
+</div>
 
 <div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><h4>Vous êtes une collectivité ? Facilitez les démarches de vos usagers grâce à FranceConnect et au partage de données !</h4>
 <p>Découvrez l’intérêt pour vos usagers et pour votre collectivité de déployer FranceConnect et comment bénéficier d’une aide financière jusqu’à 10 000€ dans le cadre du plan France Relance.</p>
