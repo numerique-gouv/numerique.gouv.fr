@@ -166,7 +166,7 @@ FranceConnect est la solution proposée par l’État pour faciliter l’accès 
 <li>Pour les API : <a href="mailto:contact@api.gouv.fr">contact@api.gouv.fr</a></li></ul>
 </div>
 
-<p class="text-center"><figure class="image-center" style="width: 15%;"><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF"><img alt="Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)" src="/uploads/CapturePlaquetteFCTNT.PNG" style="border:solid 1px #464646"></a></figure>
+<p class="text-center"><figure class="image-center" style="width: 15%;"><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF"><img alt="Consulter la plaquette FranceConnect et APIcharte d'engagement (pdf - 3,8 Mo)" src="/uploads/CapturePlaquetteFCTNT.PNG" style="border:solid 1px #464646"></a></figure>
 
 <div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF" alt="Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)">Télécharger la plaquette FranceConnect et API (pdf - 3,8 Mo)</a></p>
 
