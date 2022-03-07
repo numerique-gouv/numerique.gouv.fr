@@ -168,11 +168,11 @@ FranceConnect est la solution proposée par l’État pour faciliter l’accès 
 
 <p class="text-center"><figure class="image-center" style="width: 15%;"><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF"><img alt="Consulter la plaquette FranceConnect et APIcharte d'engagement (pdf - 3,8 Mo)" src="/uploads/CapturePlaquetteFCTNT.PNG" style="border:solid 1px #464646"></a></figure>
 
-<div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF" alt="Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)">Télécharger la plaquette FranceConnect et API (pdf - 3,8 Mo)</a></p>
+<div class="lien-important" style="margin-bottom:30px"> <p><a href="/uploads/2022_02_24_Plaquette_FranceConnect-et-API_BAT.PDF" alt="Consulter la plaquette FranceConnect et API (pdf - 3,8 Mo)">Télécharger la plaquette FranceConnect et API (pdf - 3,8 Mo)</a></p></div>
 
 
 <div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><strong>État et collectivités s'engagent</strong>
 <p>La ministre de la Transformation et de la Fonction publiques, Amélie de Montchalin, et les associations représentatives des élus des collectivités territoriales ont signé en mars 2022 une charte d’engagement pour accélérer le déploiement de FranceConnect et la récupération automatisée de données pour les services numériques des collectivités. Les éditeurs de logiciels sont invités à y souscrire également.</p>
-<a href="/uploads/Charte_engagement_FranceConnect-API.pdf" alt="Consulter la charte d'engagement (pdf, 330ko)">> Consulter la charte d'engagement (pdf, 330ko)</a>
-<a href="">> Lire notre article</a>
+<p><a href="/uploads/Charte_engagement_FranceConnect-API.pdf" alt="Consulter la charte d'engagement (pdf, 330ko)">> Consulter la charte d'engagement (pdf, 330ko)</a>
+<a href="/actualites/letat-et-les-collectivites-territoriales-sengagent-a-accelerer-le-deploiement-de-franceconnect-et-du-partage-de-donnees-dans-les-collectivites/">> Lire notre article</a></p>
 </div>
