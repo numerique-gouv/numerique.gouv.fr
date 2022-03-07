@@ -10,6 +10,10 @@ tags:
 - EIG
 - Entrepreneur d'Intérêt Général
 - Appel à candidatures
+chapeau-text: Notre programme Entrepreneurs d’intérêt général ouvre son 6e appel à
+  candidatures, jusqu'au 3 avril 2022. Le programme recherche jusqu’à 50 expert/es
+  data, développement, design et droit du numérique. En équipe, ils viendront contribuer
+  pendant 10 mois à l’amélioration du service public en immersion dans une administration.
 une-ou-diaporama:
 - image: "/uploads/AAC-6e_LN-post-1024x535.jpg"
   alternative-textuelle: |-
