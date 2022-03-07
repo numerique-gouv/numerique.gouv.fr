@@ -8,12 +8,13 @@ tags:
 - FranceConnect
 - Identité numérique
 - Transformation numérique des territoires
-chapeau-text: "Ce lundi 7 mars, la ministre de la Transformation et de la Fonction
-  publiques, Amélie de Montchalin, et les associations représentatives des élus des
-  collectivités territoriales ont signé une charte d’engagement pour accélérer le
-  déploiement de FranceConnect et la récupération automatisée de données dans les
-  collectivités. \nL’État et les associations d’élus invitent désormais les éditeurs
-  de solutions informatiques à y souscrire.\n"
+chapeau-text: "L’État et les collectivités territoriales s'engagent pour simplifier
+  encore les démarches administratives en ligne des Français à l'échelle locale. Ensemble,
+  ce lundi 7 mars, la ministre de la Transformation et de la Fonction publiques, Amélie
+  de Montchalin, et les associations représentatives des élus des collectivités territoriales
+  ont signé une charte visant à accélérer le déploiement de FranceConnect et la récupération
+  automatisée de données entre administrations. \nLes éditeurs de solutions informatiques
+  sont invités à y souscrire à leur tour.\n"
 style: |
   .button {
   background-color: #0d5c98;
