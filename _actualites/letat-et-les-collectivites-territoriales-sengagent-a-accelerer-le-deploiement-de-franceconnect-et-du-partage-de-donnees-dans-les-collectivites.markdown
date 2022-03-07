@@ -16,6 +16,8 @@ chapeau-text: "L’État et les collectivités territoriales s'engagent pour sim
   ont signé une charte visant à accélérer le déploiement de FranceConnect et la récupération
   automatisée de données entre administrations. \nLes éditeurs de solutions informatiques
   sont invités à y souscrire à leur tour.\n"
+une-ou-diaporama:
+- image: "/uploads/AdM_dourdan_charte_FC_API.jpeg"
 style: |
   .button {
   background-color: #0d5c98;
