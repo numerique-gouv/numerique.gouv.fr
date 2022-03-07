@@ -13,23 +13,21 @@ chapeau-text: Pour faciliter les échanges à distance, à plusieurs, l’État 
   quel téléphone.
 une:
   image: "/uploads/1635x345_Visuel_audioconf.jpg"
+style: |
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 layout: rgaa
 ---
-
-<style>
-.button {
-background-color: #0d5c98;
-border: 1px solid white;
-color: white;
-padding: 10px 10px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-style: normal;
-margin: 4px 2px;
-cursor: pointer;
-}
-</style>
 
 <br>
 <div align="center">

@@ -18,5 +18,5 @@ auteur: etalab.gouv.fr
 redirection: https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general
 ---
 
-> [Lire la suite sur beta.gouv.fr](https://blog.beta.gouv.fr/dinsic/2020/11/10/nous-recrutons-une-brigade-numerique/)
+> [Lire la suite sur etalab.gouv.fr](https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general)
 {: .lien-important role="presentation" }
