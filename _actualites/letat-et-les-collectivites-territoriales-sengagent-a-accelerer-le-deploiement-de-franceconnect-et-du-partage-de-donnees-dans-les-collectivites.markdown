@@ -8,6 +8,7 @@ tags:
 - FranceConnect
 - Identité numérique
 - Transformation numérique des territoires
+- Partage de données
 chapeau-text: "L’État et les collectivités territoriales s'engagent pour simplifier
   encore les démarches administratives en ligne des Français à l'échelle locale. Ensemble,
   ce lundi 7 mars, la ministre de la Transformation et de la Fonction publiques, Amélie
@@ -59,7 +60,7 @@ Cette charte prend place dans le cadre du [programme Transformation numérique d
 <a href="/uploads/Charte_engagement_FranceConnect-API.pdf" class="button" alt="Consulter la charte d'engagement (pdf, 330ko)"><b>Consulter la charte d'engagement (pdf, 330ko)</b></a>
 </div>
 
-<div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><h4>Vous êtes une collectivité ? Facilitez les démarches de vos usagers grâce à FranceConnect et au partage de données !</h4>
+<div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><h4>Vous êtes une collectivité ? Facilitez les démarches de vos usagers grâce à FranceConnect et au partage de données !</h4></p>
 <p>Découvrez l’intérêt pour vos usagers et pour votre collectivité de déployer FranceConnect et comment bénéficier d’une aide financière jusqu’à 10 000€ dans le cadre du plan France Relance.</p>
 <a href="/services/tnt/franceconnect/">> En savoir plus </a>
 </div>
