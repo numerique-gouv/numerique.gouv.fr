@@ -41,4 +41,4 @@ Les éditeurs de logiciels, pour les collectivités, seront invités à prendre 
 
 Enfin, cette initiative sera renforcée par la loi du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale (3DS) qui accélère fortement le partage de données entre administrations. 
 
-
+* **[En savoir plus](https://numerique.gouv.fr/actualites/letat-et-les-collectivites-territoriales-sengagent-a-accelerer-le-deploiement-de-franceconnect-et-du-partage-de-donnees-dans-les-collectivites/).**
