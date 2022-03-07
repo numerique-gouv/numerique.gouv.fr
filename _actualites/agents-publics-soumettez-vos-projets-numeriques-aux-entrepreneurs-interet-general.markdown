@@ -17,8 +17,8 @@ une-ou-diaporama:
   alternative-textuelle: |-
     6e appel à projets du programme Entrepreneurs d'intérêt général : Administrations, proposez vos projets numériques jusqu'au 18 mars.
     Informations sur eig.etalab.gouv.fr
-auteur: https://www.etalab.gouv.fr/
+auteur: etalab.gouv.fr
 redirection: https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2
 ---
 
-<div class="lien-important"><p><a href="https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2</a></p></div>
+<div class="lien-important"><p><a href="https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2">Lire la suite</a></p></div>
