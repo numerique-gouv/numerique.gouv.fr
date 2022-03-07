@@ -41,7 +41,7 @@ Les candidats présélectionnés choisiront par ordre d’importance les défis 
 
 Pour cette sixième promotion, le programme EIG s’enrichit de l’expérience acquise et poursuit ses efforts pour encore plus d’inclusion et de diversité. Une attention particulière sera donc portée aux talents issus de formations ou de trajectoires professionnelles variées incitant par exemple des talents autodidactes ou issus d’une reconversion à candidater. Pour favoriser ces profils, les critères de sélection ainsi que le règlement de l’appel à candidatures ont été redéfinis.
 
-> « Pour réussir la transformation numérique de l’État et proposer des services publics en ligne de qualité pour les Français, nous avons besoin d’expertises numériques. Je suis fière d’annoncer le lancement de l’appel à candidatures EIG n°6. Talents du numérique, faîtes le choix du service public et de l’intérêt général. Venez construire la France de demain ! ». 
+> **« Pour réussir la transformation numérique de l’État et proposer des services publics en ligne de qualité pour les Français, nous avons besoin d’expertises numériques. Je suis fière d’annoncer le lancement de l’appel à candidatures EIG n°6. Talents du numérique, faîtes le choix du service public et de l’intérêt général. Venez construire la France de demain ! »**.
 Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques
 
 
@@ -51,7 +51,7 @@ Le programme EIG est porté par le département Etalab de la direction intermini
 Des photos et contacts pour témoignages peuvent être transmis sur demande.
 
 
-**ENTREPRENEURS D’INTÉRÊT GÉNÉRAL EN BREF : **
+**ENTREPRENEURS D’INTÉRÊT GÉNÉRAL EN BREF :**
 * 6ème année consécutive ;
 * 87 projets accompagnés (comme [Signaux Faibles](https://eig.etalab.gouv.fr/defis/signaux-faibles/), [Prédisauvetage](https://eig.etalab.gouv.fr/defis/predisauvetage/), [Open Justice](https://eig.etalab.gouv.fr/defis/open-justice/) ou encore [Réfugiés.info](https://eig.etalab.gouv.fr/defis/karfur/)) dont 90% perdurent ensuite dans les administrations qui les ont menés ; 
 * 80 administrations impactées, parmi elles : ministères de la Justice, de la Culture et de l’Intérieur, Haute Autorité de Santé, Museum d’Histoire naturelle, Cour des comptes, commissariat général au développement durable… ;
@@ -62,7 +62,7 @@ Des photos et contacts pour témoignages peuvent être transmis sur demande.
 * Du 24 janvier au 18 mars: appel à projets auprès des administrations ;
 * Du 21 au 25 mars : pré-sélection des projets des administrations ; 
 * Les 31 mars et 1er avril : jury de sélection de projets ;
-* Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ; 
-* Du 4 avril au 6 mai : pré-sélection des candidats au programme ; 
-* Du 7 au 13 juin : jury de sélection des candidats ; 
-* Le 12 septembre : arrivée des EIG et démarrage de la promotion EIG 6.
+* **Du 7 mars au 3 avril : appel à candidatures auprès des talents de la tech ;** 
+* **Du 4 avril au 6 mai : pré-sélection des candidats au programme ;** 
+* **Du 7 au 13 juin : jury de sélection des candidats ;** 
+* **Le 12 septembre : arrivée des EIG et démarrage de la promotion EIG 6.**
