@@ -64,5 +64,5 @@ Cette charte prend place dans le cadre du [programme Transformation numérique d
 
 <div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><h4>Vous êtes une collectivité ? Facilitez les démarches de vos usagers grâce à FranceConnect et au partage de données !</h4></p>
 <p>Découvrez l’intérêt pour vos usagers et pour votre collectivité de déployer FranceConnect et comment bénéficier d’une aide financière jusqu’à 10 000€ dans le cadre du plan France Relance.</p>
-<a href="/services/tnt/franceconnect/">> En savoir plus </a>
+<p><a href="/services/tnt/franceconnect/">> En savoir plus </a></p>
 </div>
