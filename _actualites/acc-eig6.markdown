@@ -2,7 +2,6 @@
 title: 'L’État recherche des profils du numérique : rejoignez les Entrepreneurs d’intérêt
   général'
 date: 2022-03-07 16:49:00 +01:00
-published: false
 categories:
 - Appel à candidatures
 tags:
