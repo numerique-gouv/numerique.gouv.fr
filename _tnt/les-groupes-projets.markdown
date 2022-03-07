@@ -55,6 +55,9 @@ Tous les « groupes projets » sont ouverts aux agents ou élus de collectivité
 
 <p><a href="https://airtable.com/shr17t7ZxzA4aSeJK" class="button">S’inscrire pour participer à ce groupe projet</a></p>
 
+État et associations d'élus s'engagent dans l'accélération du déploiement de FranceConnect et des API FranceConnectées à travers [une charte (pdf, 330ko)](/uploads/Charte_engagement_FranceConnect-API.pdf "une charte (pdf, 330ko) - Ouvre un pdf") à laquelle les éditeurs de logiciels sont invités à se joindre.
+[> Lire notre article](/actualites/letat-et-les-collectivites-territoriales-sengagent-a-accelerer-le-deploiement-de-franceconnect-et-du-partage-de-donnees-dans-les-collectivites/)
+
 
 #### Groupe projet 5 : Catalogue des dispositifs d’aides/de formation aux collectivités sur la cybersécurité 
 * **Objectif :** Formaliser un catalogue des ressources sur la cybersécurité disponible auprès des collectivités territoriales (élus, décideurs territoriaux et agents)
