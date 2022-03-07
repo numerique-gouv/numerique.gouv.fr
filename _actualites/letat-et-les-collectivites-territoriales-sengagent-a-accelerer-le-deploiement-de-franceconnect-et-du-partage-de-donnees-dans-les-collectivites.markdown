@@ -1,7 +1,7 @@
 ---
 title: L’État et les collectivités territoriales s’engagent à accélérer le déploiement
   de FranceConnect et du partage de données dans les collectivités !
-date: 2022-03-04 17:31:00 +01:00
+date: 2022-03-07 17:46:00 +01:00
 categories:
 - Article
 tags:
