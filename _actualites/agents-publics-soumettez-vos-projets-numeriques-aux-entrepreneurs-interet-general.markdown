@@ -21,4 +21,4 @@ auteur: etalab.gouv.fr
 redirection: https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2
 ---
 
-<div class="lien-important"><p><a href="https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2">Lire la suite</a></p></div>
+<div class="lien-important"><p><a href="https://www.etalab.gouv.fr/agents-publics-soumettez-vos-projets-numeriques-aux-entrepreneurs-dinteret-general-2" alt="Lire la suite - Lien externe">Lire la suite</a></p></div>
