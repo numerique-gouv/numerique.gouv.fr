@@ -18,6 +18,8 @@ chapeau-text: 'Le Gouvernement, afin de ne pas demander sans cesse aux Français
   de FranceConnect, déjà utilisé par plus de 34 millions de Français, dans tous les
   territoires cette année en visant plus de 5 000 collectivités raccordées d’ici fin
   2022. '
+une-ou-diaporama:
+- image: "/uploads/AdM_dourdan_charte_FC_API.jpeg"
 files:
 - file: "/uploads/CP_LE_GOUVERNEMENT_ET_LES_ASSOCIATIONS_D_ELUS_LOCAUX_S_ENGAGENT.pdf"
   nom: Télécharger le communiqué de presse
