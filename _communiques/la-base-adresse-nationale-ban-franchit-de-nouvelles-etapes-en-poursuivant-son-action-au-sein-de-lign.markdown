@@ -55,8 +55,6 @@ En savoir plus : [data.gouv.fr/fr/datasets/base-adresse-nationale](https://www.d
 
 <img src="/uploads/Logo%20IGN.png" alt="" style="margin-right: 10px" width="20%" align="center">
 
-<img src="/uploads/LogoIGN.png" alt="" style="margin-right: 10px" width="20%" align="center">
-
 **À propos de l’IGN**
 <br>L’Institut national de l’information géographique et forestière (IGN) est un établissement public placé sous la tutelle des ministères chargés de l’écologie et de la forêt. Sa vocation est de produire et diffuser des données (open data) et des représentations (cartes en ligne et papier, géovisualisation) de référence relatives à la connaissance du territoire national et des forêts françaises ainsi que de leur évolution. À travers son école d’ingénieur, ENSG-Géomatique, et à ses équipes de recherche, l’institut cultive un potentiel d’innovation de haut niveau dans de multiples domaines (géodésie, forêt, photogrammétrie, intelligence artificielle, analyse spatiale, visualisation 3D, etc.). 
 <br>
