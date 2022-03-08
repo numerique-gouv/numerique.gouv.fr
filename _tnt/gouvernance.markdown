@@ -39,7 +39,7 @@ layout: tnt
   <div><a href="https://www.amrf.fr/" alt="AMRF - Lien externe"><img src="/uploads/Logo_AMRF.jpg" alt="Association des Maires Ruraux de France (AMRF)" width="130" align="middle"></a></div>
   <div><a href="https://www.apvf.asso.fr/" alt="APVF - Lien externe"><img src="/uploads/Logo_APVF.jpg" alt="Association des Petites Villes de France (APVF)" width="100" align="middle"></a></div>
   <div><a href="https://www.asso-declic.fr/" alt="Déclic - Lien externe"><img src="/uploads/Logo_Declic.png" alt="Declic" width="120" align="middle"></a></div>
-  <div><a href="https://www.fnccr.asso.fr/" alt="FNCCR - Lien externe"><img src="/uploads/Logo_FNCCR.jpg" alt="Fédération nationale des collectivités concédantes et régies (FNCCR) - Services publics locaux de l'énergie, de l'eau, de l'environnement et des e-communications" width="120" align="middle"></a></div>
+  <div><a href="https://www.fnccr.asso.fr/" alt="FNCCR - Lien externe"><img src="/uploads/LOGO_FNCCR_2020.jpg" alt="Fédération nationale des collectivités concédantes et régies (FNCCR) - Services publics locaux de l'énergie, de l'eau, de l'environnement et des e-communications" width="120" align="middle"></a></div>
   <div><a href="https://www.interconnectes.com/" alt="Les interconnectés - Liens externe"><img src="/uploads/Logo_lesInterconnectes.png" alt="Les Interconnectés" width="170" align="middle"></a></div>
   <div><a href="https://www.avicca.org/" alt="Avicca - Lien externe"><img src="/uploads/Logo_AVICCA.jpg" alt="Avicca (Association des villes et collectivités pour les communications électroniques et l’audiovisuel)" width="140" align="middle"></a></div>
 </div>
