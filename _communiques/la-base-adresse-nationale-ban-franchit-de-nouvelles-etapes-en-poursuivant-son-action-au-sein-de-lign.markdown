@@ -16,7 +16,7 @@ chapeau-text: 'Référentiel national partagé des positions géographiques de p
   interministérielle du numérique (DINUM) et l’agence nationale de la cohésion des
   territoires (ANCT) engagées dans le projet depuis 2019. '
 une-ou-diaporama:
-- image: "/uploads/adresse-data.gouv.png"
+- image: "/uploads/adresse-data.gouv-2.png"
   alternative-textuelle: Capture écran du site national des adresses
 contact-presse:
   name: Floriane Beaudron
