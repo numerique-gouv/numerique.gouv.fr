@@ -25,7 +25,8 @@ contact-presse:
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP%20BAN_Dinum_Anct_IGN.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 ### Un service essentiel dans la vie quotidienne des français 
