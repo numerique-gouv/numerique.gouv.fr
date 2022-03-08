@@ -1,7 +1,7 @@
 ---
 title: La base adresse nationale (BAN) franchit de nouvelles étapes en poursuivant
   son action au sein de l’IGN
-date: 2022-03-08 14:48:00 +01:00
+date: 2022-03-07 14:48:00 +01:00
 categories:
 - Communiqué de presse
 tags:
@@ -15,6 +15,9 @@ chapeau-text: 'Référentiel national partagé des positions géographiques de p
   la BAN est désormais transférée à l’IGN qui poursuit sa collaboration avec la direction
   interministérielle du numérique (DINUM) et l’agence nationale de la cohésion des
   territoires (ANCT) engagées dans le projet depuis 2019. '
+une-ou-diaporama:
+- image: "/uploads/adresse-data.gouv.png"
+  alternative-textuelle: Capture écran du site national des adresses
 contact-presse:
   name: Floriane Beaudron
   tel:
