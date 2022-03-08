@@ -1,7 +1,7 @@
 ---
 title: La base adresse nationale (BAN) franchit de nouvelles étapes en poursuivant
   son action au sein de l’IGN
-date: 2022-03-14 14:48:00 +01:00
+date: 2022-03-08 14:48:00 +01:00
 chapeau-text: 'Référentiel national partagé des positions géographiques de plus de
   25 millions d’adresses sur le territoire français, la Base Adresse Nationale (BAN)
   est la base de données ouverte d’adresses officiellement reconnue par l’administration.
