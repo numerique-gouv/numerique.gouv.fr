@@ -48,6 +48,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
+* **[Architecte Système / DevOps H/F](https://beta.gouv.fr/recrutement/2022/03/01/tchap-devops.html "Architecte Système / DevOps H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>Paris ou Lyon
+
 <!--
 > ### Talents du numérique : l’État recrute !
 > <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
