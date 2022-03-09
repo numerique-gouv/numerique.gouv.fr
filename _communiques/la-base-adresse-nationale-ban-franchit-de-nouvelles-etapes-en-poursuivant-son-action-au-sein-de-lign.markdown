@@ -58,7 +58,7 @@ En savoir plus : [data.gouv.fr/fr/datasets/base-adresse-nationale](https://www.d
 **À propos de l’IGN**
 <br>L’Institut national de l’information géographique et forestière (IGN) est un établissement public placé sous la tutelle des ministères chargés de l’écologie et de la forêt. Sa vocation est de produire et diffuser des données (open data) et des représentations (cartes en ligne et papier, géovisualisation) de référence relatives à la connaissance du territoire national et des forêts françaises ainsi que de leur évolution. À travers son école d’ingénieur, ENSG-Géomatique, et à ses équipes de recherche, l’institut cultive un potentiel d’innovation de haut niveau dans de multiples domaines (géodésie, forêt, photogrammétrie, intelligence artificielle, analyse spatiale, visualisation 3D, etc.). 
 <br>
-<br><li>En savoir plus : [ign.fr](https://www.ign.fr/)</li>
+* En savoir plus : [ign.fr](https://www.ign.fr/)
 
 <img src="/uploads/Logo%20DINUM.png" alt="" style="margin-right: 10px" width="20%" align="center">
 
@@ -67,7 +67,7 @@ En savoir plus : [data.gouv.fr/fr/datasets/base-adresse-nationale](https://www.d
 Elle pilote, avec l’appui des ministères, le programme TECH.GOUV d’accélération de la transformation numérique du service public ainsi que la mise en œuvre du volet Transformation numérique de l’État et des territoires du plan France Relance.
 La DINUM est un service du Premier ministre qui intervient sous l’autorité de la ministre de la Transformation et de la Fonction publiques.
 <br> 
-<br><li> En savoir plus : [numerique.gouv.fr](https://www.numerique.gouv.fr/)</li>
+* En savoir plus : [numerique.gouv.fr](https://www.numerique.gouv.fr/)
 
 <img src="/uploads/Logo%20ANCT.png" alt="" style="margin-right: 10px" width="20%" align="center">
 
@@ -75,4 +75,4 @@ La DINUM est un service du Premier ministre qui intervient sous l’autorité de
 <br>Créée au 1er janvier 2020, l’Agence nationale de la cohésion des territoires (ANCT) est un nouveau partenaire pour les collectivités locales qu’elle accompagne dans leurs projets de territoire. Elle anime des pactes territoriaux et des programmes nationaux comme France Services, Action cœur de ville, Petites Villes de demain, France Très Haut Débit… 
 L’ANCT développe également une offre de services sur mesure en matière d’ingénierie de projet, avec une approche « cousue main » pour répondre au plus près de leurs besoins spécifiques et locaux.
 <br>
-<br><li>En savoir plus : [agence-cohesion-territoires.gouv.fr](https://agence-cohesion-territoires.gouv.fr/)</li>
+* En savoir plus : [agence-cohesion-territoires.gouv.fr](https://agence-cohesion-territoires.gouv.fr/)
