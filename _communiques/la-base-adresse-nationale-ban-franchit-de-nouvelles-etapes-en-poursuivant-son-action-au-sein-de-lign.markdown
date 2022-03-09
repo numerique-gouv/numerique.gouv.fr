@@ -18,7 +18,7 @@ chapeau-text: 'Référentiel national partagé des positions géographiques de p
   territoires (ANCT) engagées dans le projet depuis 2019. '
 une-ou-diaporama:
 - image: "/uploads/adresse-data.gouv-3.png"
-  alternative-textuelle: Capture écran du site national des adresses
+  alternative-textuelle: Capture écran du site de la Base d'Adresse Nationale
 contact-presse:
   name: Floriane Beaudron
   tel:
