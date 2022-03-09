@@ -52,7 +52,7 @@ L’IGN, l’ANCT, et la DINUM collaborent pour garantir une phase de convergenc
 En savoir plus : [data.gouv.fr/fr/datasets/base-adresse-nationale](https://www.data.gouv.fr/fr/datasets/base-adresse-nationale/)
 
 (1) Services départementaux d’incendie et de secours 
-(2) Loi relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale 
+<br>(2) Loi relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale 
 
 <img src="/uploads/Logo%20IGN.png" alt="" style="margin-right: 10px" width="20%" align="center">
 
