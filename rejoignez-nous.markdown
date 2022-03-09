@@ -40,15 +40,15 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Ingénieur-e réseau - Chargé-e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres----cdd-3ans-renouvelable-hf-reference-2022-808713/ "Ingénieur-e réseau - Chargé-e de relations ministères - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Architecte Système / DevOps H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-systeme--devops-hf-cdd3ans-reference-2022-825703/ "Architecte Système / DevOps H/F - Lien externe")**
 <br>Cadre/Catégorie A, sur Paris ou Lyon
 <br>
 
 * **[Gestionnaire administratif, budgétaire et financier H/F](https://place-emploi-public.gouv.fr/offre-emploi/gestionnaire-administratif-budgetaire-et-financier-hf-reference-2022-822934/ "Gestionnaire administratif, budgétaire et financier H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Ingénieur-e réseau - Chargé-e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres----cdd-3ans-renouvelable-hf-reference-2022-808713/ "Ingénieur-e réseau - Chargé-e de relations ministères - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
