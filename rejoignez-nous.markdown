@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '08 mars 2022'
+date_de_modification: '09 mars 2022'
 style: |-
   .button {
   background-color: #0d5c98;
@@ -46,6 +46,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 * **[Chargé-e de mission production sites sensibles du réseau interministériel de l'Etat (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-production-sites-sensibles-du-reseau-interministeriel-de-l-etat-rie-hf-reference-2022-835281/ "Chargé-e de mission production sites sensibles du réseau interministériel de l'Etat (RIE) H/F - Lien externe")**
 <br>Cadre/Catégorie A
+<br>
+
+* **[Architecte Système / DevOps H/F](https://beta.gouv.fr/recrutement/2022/03/01/tchap-devops.html "Architecte Système / DevOps H/F - Lien externe")**
+<br>Cadre/Catégorie A, sur Paris ou Lyon
 <br>
 
 <!--
