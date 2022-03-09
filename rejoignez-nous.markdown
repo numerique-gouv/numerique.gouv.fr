@@ -44,12 +44,20 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé-e de mission production sites sensibles du réseau interministériel de l'Etat (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-production-sites-sensibles-du-reseau-interministeriel-de-l-etat-rie-hf-reference-2022-835281/ "Chargé-e de mission production sites sensibles du réseau interministériel de l'Etat (RIE) H/F - Lien externe")**
+* **[Architecte Système / DevOps H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-systeme--devops-hf-cdd3ans-reference-2022-825703/ "Architecte Système / DevOps H/F - Lien externe")**
+<br>Cadre/Catégorie A, sur Paris ou Lyon
+<br>
+
+* **[Gestionnaire administratif, budgétaire et financier H/F](https://place-emploi-public.gouv.fr/offre-emploi/gestionnaire-administratif-budgetaire-et-financier-hf-reference-2022-822934/ "Gestionnaire administratif, budgétaire et financier H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Architecte Système / DevOps H/F](https://beta.gouv.fr/recrutement/2022/03/01/tchap-devops.html "Architecte Système / DevOps H/F - Lien externe")**
-<br>Cadre/Catégorie A, sur Paris ou Lyon
+* **[Chef-fe de projet « outils numériques des agents publics » H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--outils-numeriques-des-agents-publics-cdd-3-ans-renouvelable-une-fois-hf-reference-2022-819145/ "Chef-fe de projet « outils numériques des agents publics » H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé-e de mission production sites sensibles du réseau interministériel de l'Etat (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-production-sites-sensibles-du-reseau-interministeriel-de-l-etat-rie-hf-reference-2022-835281/ "Chargé-e de mission production sites sensibles du réseau interministériel de l'Etat (RIE) H/F - Lien externe")**
+<br>Cadre/Catégorie A
 <br>
 
 <!--
