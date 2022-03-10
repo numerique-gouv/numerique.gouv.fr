@@ -9,10 +9,10 @@ tags:
 - EIG
 - Entrepreneurs d'Intérêt Général
 - Emploi
-chapeau-text: Ce premier webinaire de l’appel à candidatures, en date du 17 mars,
-  portera sur les métiers de développeuse/développeur, data scientist et data engineer
-  dans le programme EIG. Il accueillera le témoignage d’Elisabeth Fainstein, développeuse
-  de la promotion 4 et coach Tech du programme.
+chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intérêt général
+  (EIG) et de son 6ème appel à candidatures, au cours de laquelle interviendra Elisabeth
+  Fainstein, développeuse de la promotion 4 et coach Tech du programme. La session
+  se clôturera par un échange de questions-réponses.
 categorie: Webinaire d'information
 event_start_date: 2022-03-17 13:45:00 +01:00
 lieu: Evénement 100% en ligne sous forme de webinaire
@@ -37,7 +37,7 @@ Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidatur
 
 ### Déroulé :
 * **13h45 – 14h :** présentation du programme EIG et de la procédure de candidature 
-* **14h – 14h30 :** témoignage d'Elisabeth Fainstein, coach Tech sur le thème des métiers du développement et de la donnée
+* **14h – 14h30 :** témoignage d'Elisabeth Fainstein, coach Tech des métiers du développement et de la donnée du programme EIG
 * **14h30 – 14h45 :** questions et réponses
 
 <br>
