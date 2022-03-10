@@ -37,7 +37,7 @@ Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidatur
 
 ### Déroulé :
 * **13h45 – 14h :** présentation du programme EIG et de la procédure de candidature 
-* **14h - 14h30** témoignage et/ou interview de notre coach Tech sur le thème des métiers du développement et de la donnée dans le programme 
+* **14h - 14h30** témoignage d'Elisabeth Fainstein, notre coach Tech sur le thème des métiers du développement et de la donnée
 * **14h30 - 14h45** questions et réponses
 
 <br>
