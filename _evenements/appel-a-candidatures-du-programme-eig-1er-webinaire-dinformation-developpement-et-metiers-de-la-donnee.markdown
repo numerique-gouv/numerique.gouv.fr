@@ -33,10 +33,10 @@ champs_informations:
 
 Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidature à notre engagement en faveur des logiciels libres et communs numériques – le programme n’aura plus aucun secret pour vous.
 
-Le webinaire se déroulera en trois temps :
-**[13h45-14h]** Présentation du programme EIG et de la procédure de candidature 
-**[14h-14h30]** Témoignage et/ou interview de notre coach Tech sur le thème des métiers du développement et de la donnée dans le programme 
-**[14h30-14h45]** Questions et réponses
+### Déroulé :
+* **13h45 – 14h :** présentation du programme EIG et de la procédure de candidature 
+* **14h - 14h30** témoignage et/ou interview de notre coach Tech sur le thème des métiers du développement et de la donnée dans le programme 
+* **14h30 - 14h45** questions et réponses
 
 <br>
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e" class="button"><b>Accéder au webinaire d'information</b></a><p class="ouverture">Ouverture le 17 mars à 13h45</p></div>
