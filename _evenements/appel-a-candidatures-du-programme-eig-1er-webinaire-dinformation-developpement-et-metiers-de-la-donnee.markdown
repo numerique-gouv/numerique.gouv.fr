@@ -29,6 +29,8 @@ champs_informations:
 
 ### Appel à candidatures du programme EIG : participez à notre premier webinaire d’information !
 
+Le programme **Entrepreneurs d’intérêt général** a lancé ce lundi 7 mars [son sixième appel à candidatures](https://www.etalab.gouv.fr/letat-recherche-des-profils-du-numerique-rejoignez-les-entrepreneurs-dinteret-general/) à destination des professionnels du numérique.
+
 *Data scientists, data engineers, développeurs et développeuses : vous hésitez encore à postuler au programme Entrepreneurs d'Intérêt Général ?*
 
 Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidature à notre engagement en faveur des logiciels libres et communs numériques – le programme n’aura plus aucun secret pour vous.
@@ -44,5 +46,4 @@ Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidatur
 <div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>N’hésitez pas à consulter le nouveau <a href="https://eig.etalab.gouv.fr/">site internet d’EIG</a> et à jeter un coup d’œil sur les <a href="https://www.dailymotion.com/playlist/x75m45">projets réalisés l’an passé</a>. Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez écrire à 
 <a href="mailto:eig@data.gouv.fr ">eig@data.gouv.fr</a>.</p> </div>
 
-
-<div class="lien-important"><p><a href="https://eig.etalab.gouv.fr/participer/candidats/">En savoir plus et répondre à l'appel à candidature jusqu'au 3 avril</a></p></div>
+<div class="lien-important"><p><a href="https://eig.etalab.gouv.fr/participer/candidats/">En savoir plus et répondre à l'appel à candidatures jusqu'au 3 avril</a></p></div>
