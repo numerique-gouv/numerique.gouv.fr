@@ -37,8 +37,8 @@ Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidatur
 
 ### Déroulé :
 * **13h45 – 14h :** présentation du programme EIG et de la procédure de candidature 
-* **14h - 14h30** témoignage d'Elisabeth Fainstein, coach Tech sur le thème des métiers du développement et de la donnée
-* **14h30 - 14h45** questions et réponses
+* **14h – 14h30 :** témoignage d'Elisabeth Fainstein, coach Tech sur le thème des métiers du développement et de la donnée
+* **14h30 – 14h45 :** questions et réponses
 
 <br>
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e" class="button"><b>Accéder au webinaire d'information</b></a><p class="ouverture">Ouverture le 17 mars à 13h45</p></div>
