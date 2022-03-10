@@ -9,10 +9,10 @@ tags:
 - EIG
 - Entrepreneurs d'Intérêt Général
 - Emploi
-chapeau-text: Ce deuxième webinaire de l’appel à candidatures, en date du 24 mars,
-  portera sur les métiers de designer et de juriste du numérique au sein du programme
-  EIG. Il accueillera le témoignage de Frédérique Doman, coach design du programme,
-  ainsi que d’une entrepreneure d'intérêt général juriste du numérique.
+chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intérêt général
+  (EIG) et de son 6ème appel à candidatures, au cours de laquelle interviendront Frédérique
+  Doman, coach design du programme et une entrepreneure d'intérêt général, juriste
+  du numérique. La session se clôturera par un échange de questions-réponses.
 categorie: Webinaire d'information
 event_start_date: 2022-03-24 13:45:00 +01:00
 lieu: Evénement 100% en ligne sous forme de webinaire
@@ -43,13 +43,8 @@ Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidatur
 <br>
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e" class="button"><b>Accéder au webinaire d'information</b></a><p class="ouverture">Ouverture le 24 mars à 13h45</p></div>
 <br>
-<br>
 ***Vous êtes spécialisé dans le développement de la donnée ?*** 
 * [Ce webinaire est fait pour vous !](https://www.numerique.gouv.fr/agenda/appel-a-candidatures-du-programme-eig-webinaire-dinformation-developpement-et-metiers-de-la-donnee/ "Ce webinaire est fait pour vous ! - lien externe")
-
-<li><a href="https://www.numerique.gouv.fr/agenda/appel-a-candidatures-du-programme-eig-webinaire-dinformation-developpement-et-metiers-de-la-donnee/" alt="Ce webinaire est fait pour vous ! - lien externe">Ce webinaire est fait pour vous !</a></li>
-
-<br><li> [Ce webinaire est fait pour vous !](https://www.numerique.gouv.fr/agenda/appel-a-candidatures-du-programme-eig-webinaire-dinformation-developpement-et-metiers-de-la-donnee/)
 
 <div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>N’hésitez pas à consulter le nouveau <a href="https://eig.etalab.gouv.fr/">site internet d’EIG</a> et à jeter un coup d’œil sur les <a href="https://www.dailymotion.com/playlist/x75m45">projets réalisés l’an passé</a>. Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez écrire à 
 <a href="mailto:eig@data.gouv.fr ">eig@data.gouv.fr</a>.</p> </div>
