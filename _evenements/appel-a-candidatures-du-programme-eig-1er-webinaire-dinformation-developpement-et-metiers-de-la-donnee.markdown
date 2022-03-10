@@ -13,6 +13,7 @@ chapeau-text: Ce premier webinaire de l’appel à candidatures, en date du 17 m
   portera sur les métiers de développeuse/développeur, data scientist et data engineer
   dans le programme EIG. Il accueillera le témoignage d’Elisabeth Fainstein, développeuse
   de la promotion 4 et coach Tech du programme.
+categorie: Webinaire d'information
 event_start_date: 2022-03-17 13:45:00 +01:00
 lieu: Evénement 100% en ligne sous forme de webinaire
 champs_informations:
