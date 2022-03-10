@@ -45,9 +45,11 @@ Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidatur
 <br>
 <br>
 ***Vous êtes spécialisé dans le développement de la donnée ?*** 
-<br><li> [Ce webinaire est fait pour vous !](https://www.numerique.gouv.fr/agenda/appel-a-candidatures-du-programme-eig-webinaire-dinformation-developpement-et-metiers-de-la-donnee/)
+* [Ce webinaire est fait pour vous !](https://www.numerique.gouv.fr/agenda/appel-a-candidatures-du-programme-eig-webinaire-dinformation-developpement-et-metiers-de-la-donnee/ "Ce webinaire est fait pour vous ! - lien externe")
 
 <li><a href="https://www.numerique.gouv.fr/agenda/appel-a-candidatures-du-programme-eig-webinaire-dinformation-developpement-et-metiers-de-la-donnee/" alt="Ce webinaire est fait pour vous ! - lien externe">Ce webinaire est fait pour vous !</a></li>
+
+<br><li> [Ce webinaire est fait pour vous !](https://www.numerique.gouv.fr/agenda/appel-a-candidatures-du-programme-eig-webinaire-dinformation-developpement-et-metiers-de-la-donnee/)
 
 <div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>N’hésitez pas à consulter le nouveau <a href="https://eig.etalab.gouv.fr/">site internet d’EIG</a> et à jeter un coup d’œil sur les <a href="https://www.dailymotion.com/playlist/x75m45">projets réalisés l’an passé</a>. Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez écrire à 
 <a href="mailto:eig@data.gouv.fr ">eig@data.gouv.fr</a>.</p> </div>
