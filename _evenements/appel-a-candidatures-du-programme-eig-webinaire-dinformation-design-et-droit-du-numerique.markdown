@@ -9,10 +9,10 @@ tags:
 - EIG
 - Entrepreneurs d'Intérêt Général
 - Emploi
-chapeau-text: 'Ce deuxième webinaire de l’appel à candidatures, en date du 24 mars,
+chapeau-text: Ce deuxième webinaire de l’appel à candidatures, en date du 24 mars,
   portera sur les métiers de designer et de juriste du numérique au sein du programme
   EIG. Il accueillera le témoignage de Frédérique Doman, coach design du programme,
-  ainsi que d’une EIG juriste du numérique. '
+  ainsi que d’une entrepreneure d'intérêt général juriste du numérique.
 categorie: Webinaire d'information
 event_start_date: 2022-03-24 13:45:00 +01:00
 lieu: Evénement 100% en ligne sous forme de webinaire
@@ -37,7 +37,7 @@ Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidatur
 
 ### Déroulé :
 * **13h45 – 14h :** présentation du programme EIG et de la procédure de candidature 
-* **14h - 14h30** témoignage de Frédérique Doman, coach design et d'une entrepreneuse, juriste du numérique.
+* **14h - 14h30** témoignage de Frédérique Doman, coach design et d'une entrepreneuse d'intérêt général, juriste du numérique.
 * **14h30 - 14h45** questions et réponses
 
 <br>
