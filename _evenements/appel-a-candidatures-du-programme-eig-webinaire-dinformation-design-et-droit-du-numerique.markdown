@@ -43,7 +43,8 @@ Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidatur
 <br>
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e" class="button"><b>Accéder au webinaire d'information</b></a><p class="ouverture">Ouverture le 24 mars à 13h45</p></div>
 
-Vous êtes spécialisé dans le développement de la donnée ? Ce webinaire est fait pour vous !
+*Vous êtes spécialisé dans le développement de la donnée ?* 
+<br>[Ce webinaire est fait pour vous !](https://www.numerique.gouv.fr/agenda/appel-a-candidatures-du-programme-eig-webinaire-dinformation-developpement-et-metiers-de-la-donnee/)
 
 https://www.numerique.gouv.fr/agenda/appel-a-candidatures-du-programme-eig-webinaire-dinformation-developpement-et-metiers-de-la-donnee/
 
