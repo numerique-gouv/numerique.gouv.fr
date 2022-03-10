@@ -37,8 +37,11 @@ Le webinaire se déroulera en trois temps :
 **[14h-14h30]** Témoignage et/ou interview de notre coach Tech sur le thème des métiers du développement et de la donnée dans le programme 
 **[14h30-14h45]** Questions et réponses
 
-[Infos pratiques]
-Dates et horaires : Le 17 mars 2022 de 13h45 à 14h45. 
-Lieu [nom du lieu et adresse exacte] : https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e
-Modalités : Entrée libre 
-Plus d’infos [lien vers le site de l’événement par ex.] : Postulez au programme sur notre site web : https://eig.etalab.gouv.fr/participer/candidats/
+<br>
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e" class="button"><b>Accéder au webinaire d'information</b></a><p class="ouverture">Ouverture le 17 mars à 13h45</p></div>
+
+<div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>N’hésitez pas à consulter le nouveau <a href="https://eig.etalab.gouv.fr/">site internet d’EIG</a> et à jeter un coup d’œil sur les <a href="https://www.dailymotion.com/playlist/x75m45">projets réalisés l’an passé</a>. Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez écrire à 
+<a href="mailto:eig@data.gouv.fr ">eig@data.gouv.fr</a>.</p> </div>
+
+
+<div class="lien-important"><p><a href="https://eig.etalab.gouv.fr/participer/candidats/">En savoir plus et répondre à l'appel à candidature jusqu'au 3 avril</a></p></div>
