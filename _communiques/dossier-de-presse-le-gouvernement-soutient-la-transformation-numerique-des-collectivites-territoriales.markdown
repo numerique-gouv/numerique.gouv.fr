@@ -1,6 +1,5 @@
 ---
-title: 'Dossier de presse : Le Gouvernement soutient la transformation numérique
-  des collectivités territoriales'
+title: Le Gouvernement soutient la transformation numérique des collectivités territoriales
 date: 2021-10-08 16:39:00 +02:00
 categories:
 - Dossier de presse
