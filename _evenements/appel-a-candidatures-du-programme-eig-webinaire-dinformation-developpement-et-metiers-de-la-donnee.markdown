@@ -14,10 +14,10 @@ chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intér�
   se clôturera par un échange de questions-réponses.
 categorie: Webinaire d'information
 une-ou-diaporama:
-- image: "/uploads/AAP-6e_signature-mail.jpg"
+- image: "/uploads/2022_03_11_1200x675_EIG-Webinaire_Developpement-et-metiers_twitter.jpg"
   alternative-textuelle: "Devenez Entrepreneurs d'intérêt général, l'Etat recrute
-    ! \nTalents du numérique, postulez jusqu'au 3 avril pour rejoindre notre 6e promotion.
-    eig.etalab.gouv.fr"
+    ! \nDéveloppement et métiers de la donnée\nWebinaire d'information :\nLe 17 mars
+    de 13h45 à 14h45"
 event_start_date: 2022-03-17 13:45:00 +01:00
 lieu: Evénement 100% en ligne sous forme de webinaire
 champs_informations:
