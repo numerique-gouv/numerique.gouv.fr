@@ -27,7 +27,7 @@ champs_informations:
   lien: https://eig.etalab.gouv.fr/
 ---
 
-### Appel à candidatures du programme EIG : participez à notre première webinaire d’information !
+### Appel à candidatures du programme EIG : participez à notre webinaire d’information !
 
 Le programme **Entrepreneurs d’intérêt général** a lancé ce lundi 7 mars [son sixième appel à candidatures](https://www.etalab.gouv.fr/letat-recherche-des-profils-du-numerique-rejoignez-les-entrepreneurs-dinteret-general/) à destination des professionnels du numérique.
 
