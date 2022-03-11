@@ -1,12 +1,14 @@
 ---
 title: La base adresse nationale (BAN) franchit de nouvelles étapes en poursuivant
   son action au sein de l’IGN
-date: 2022-03-07 14:48:00 +01:00
-published: false
+date: 2022-03-14 14:48:00 +01:00
 categories:
 - Communiqué de presse
 tags:
-- territoires
+- Etalab
+- Base adresse nationale
+- IGN
+- ANCT
 chapeau-text: 'Référentiel national partagé des positions géographiques de plus de
   25 millions d’adresses sur le territoire français, la Base Adresse Nationale (BAN)
   est la base de données ouverte d’adresses officiellement reconnue par l’administration.
@@ -45,16 +47,17 @@ L’IGN, l’ANCT, et la DINUM collaborent pour garantir une phase de convergenc
 
 <img src="/uploads/BAN.PNG" alt="" style="margin-right: 10px" width="20%" align="center">
 
+
 *La Base Adresse Nationale est l’une des neuf bases de données du service public des données de référence. Elle est la base de données ouverte d’adresses officiellement reconnue par l’administration. Service numérique d’usage partagé et infrastructure socle sur laquelle sont adossées de nombreuses politiques publiques, elle fait partie du système d’information et de communication de l’État et est à ce titre placée sous la responsabilité du Premier ministre. Le ministère de la Transformation et de la Fonction publiques soutient ce projet à hauteur de 774 K€ dans le cadre de France Relance.* 
 
 **La BAN est disponible en licence ouverte Etalab 2.0 pour toute utilisation depuis le 1er janvier 2020 sur adresse.data.gouv.fr**
 
 En savoir plus : [data.gouv.fr/fr/datasets/base-adresse-nationale](https://www.data.gouv.fr/fr/datasets/base-adresse-nationale/)
 
-(1) Services départementaux d’incendie et de secours 
-<br>(2) Loi relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale 
+(1) Services départementaux d’incendie et de secours (2) Loi relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale 
 
 <img src="/uploads/Logo%20IGN.png" alt="" style="margin-right: 10px" width="20%" align="center">
+
 
 **À propos de l’IGN**
 <br>L’Institut national de l’information géographique et forestière (IGN) est un établissement public placé sous la tutelle des ministères chargés de l’écologie et de la forêt. Sa vocation est de produire et diffuser des données (open data) et des représentations (cartes en ligne et papier, géovisualisation) de référence relatives à la connaissance du territoire national et des forêts françaises ainsi que de leur évolution. À travers son école d’ingénieur, ENSG-Géomatique, et à ses équipes de recherche, l’institut cultive un potentiel d’innovation de haut niveau dans de multiples domaines (géodésie, forêt, photogrammétrie, intelligence artificielle, analyse spatiale, visualisation 3D, etc.). 
