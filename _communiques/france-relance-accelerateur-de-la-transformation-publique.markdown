@@ -13,7 +13,7 @@ chapeau-text: Amélie de Montchalin, ministre de la Transformation et de la Fonc
   publique, améliorer les outils de travail des agents publics et accélérer la transformation
   et l'innovation numériques dans tous les territoires.
 une-ou-diaporama:
-- image: "/uploads/2022_03_11_MTFP_DP.PNG"
+- image: "/uploads/2022_03_11_DP_FR.PNG"
   alternative-textuelle: Amélie de Montchalin, ministre de la Transformation et de
     la Fonction publiques présente, à Rennes le 11 mars 2022, les avancées de France
     Relance, au service de la transformation numérique de l'État et des collectivités
