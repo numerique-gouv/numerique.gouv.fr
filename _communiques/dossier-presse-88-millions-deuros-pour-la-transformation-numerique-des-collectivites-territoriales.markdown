@@ -1,6 +1,5 @@
 ---
-title: 'Dossier de presse : 88 millions d’euros pour la transformation numérique des
-  collectivités territoriales'
+title: 88 millions d’euros pour la transformation numérique des collectivités territoriales
 date: 2021-01-25 12:18:00 +01:00
 categories:
 - Dossier de presse
