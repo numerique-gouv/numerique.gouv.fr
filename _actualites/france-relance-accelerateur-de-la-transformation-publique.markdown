@@ -1,6 +1,11 @@
 ---
 title: 'France Relance : accélérateur de la transformation publique'
 date: 2022-03-11 13:03:00 +01:00
+categories:
+- Communiqué de presse
+tags:
+- France Relance
+- transformation publique
 chapeau-text: 'Ce 11 mars 2022 à Rennes, Amélie de Montchalin, ministre de la Transformation
   et de la Fonction publiques présente les avancées de France Relance au service de
   la transformation numérique de l’État et des collectivités territoriales. '
