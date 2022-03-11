@@ -16,7 +16,7 @@ categorie: Webinaire d'information
 une-ou-diaporama:
 - image: "/uploads/2022_03_11_1200x675_EIG-Webinaire_Design-et-droit-du-numerique_twitter.jpg"
   alternative-textuelle: "Devenez Entrepreneurs d'intérêt général, l'Etat recrute
-    ! \nDesign et droit du numérique\nWebinaire d'information :\nLe 17 mars de 13h45
+    ! \nDesign et droit du numérique\nWebinaire d'information :\nLe 24 mars de 13h45
     à 14h45"
 event_start_date: 2022-03-24 13:45:00 +01:00
 lieu: Evénement 100% en ligne sous forme de webinaire
