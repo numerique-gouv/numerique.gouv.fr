@@ -1,7 +1,6 @@
 ---
 title: 'Appel à candidatures du programme EIG : design et droit du numérique'
 date: 2022-03-10 17:42:00 +01:00
-published: false
 categories:
 - Webinaire d'information
 tags:
@@ -14,6 +13,11 @@ chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intér�
   Doman, coach design du programme et d'une juriste du numérique, entrepreneuse d'intérêt
   général. La session se clôturera par un échange de questions-réponses.
 categorie: Webinaire d'information
+une-ou-diaporama:
+- image: "/uploads/AAP-6e_signature-mail-f6beca.jpg"
+  alternative-textuelle: "Devenez Entrepreneurs d'intérêt général, l'Etat recrute
+    ! \nTalents du numérique, postulez jusqu'au 3 avril pour rejoindre notre 6e promotion.
+    eig.etalab.gouv.fr"
 event_start_date: 2022-03-24 13:45:00 +01:00
 lieu: Evénement 100% en ligne sous forme de webinaire
 champs_informations:
@@ -43,7 +47,7 @@ Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidatur
 <br>
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e" class="button"><b>Accéder au webinaire d'information</b></a><p class="ouverture">Ouverture le 24 mars à 13h45</p></div>
 <br>
-***Vous êtes spécialisé dans le développement de la donnée ?*** 
+***Vous êtes spécialisé-e dans le développement de la donnée ?*** 
 * [Ce webinaire est fait pour vous !](https://www.numerique.gouv.fr/agenda/appel-a-candidatures-du-programme-eig-webinaire-dinformation-developpement-et-metiers-de-la-donnee/ "Ce webinaire est fait pour vous ! - lien externe")
 
 <div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>N’hésitez pas à consulter le nouveau <a href="https://eig.etalab.gouv.fr/">site internet d’EIG</a> et à jeter un coup d’œil sur les <a href="https://www.dailymotion.com/playlist/x75m45">projets réalisés l’an passé</a>. Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez écrire à 
