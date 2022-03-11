@@ -7,7 +7,7 @@ tags:
 - France Relance
 - Transformation publique
 chapeau-text: 'Amélie de Montchalin, ministre de la Transformation et de la Fonction
-  publiques présente, à Rennes le 11 mars 2022, les avancées de France Relance, au
+  publiques présente, à Rennes le 11 mars 2022, les avancées de France Relance au
   service de la transformation numérique de l''État et des collectivités territoriales
   pour faciliter la vie usagers, renforcer la transparence et l’efficacité de l''action
   publique, améliorer les outils de travail des agents publics et accélérer la transformation
