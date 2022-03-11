@@ -1,6 +1,5 @@
 ---
-title: 'Appel à candidatures du programme EIG - webinaire d''information : développement
-  et métiers de la donnée'
+title: 'Appel à candidatures du programme EIG : développement et métiers de la donnée'
 date: 2022-03-10 17:13:00 +01:00
 categories:
 - Webinaire d'information
@@ -43,8 +42,8 @@ Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidatur
 <br>
 <div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/5475/creator/1253/hash/018fcbe9305dfc8b6b411243a1f808fc816ede1e" class="button"><b>Accéder au webinaire d'information</b></a><p class="ouverture">Ouverture le 17 mars à 13h45</p></div>
 <br>
-***Vous êtes spécialisé dans le design ou le droit numérique ?***
-* [Ce webinaire est fait pour vous !](https://www.numerique.gouv.fr/agenda/appel-a-candidatures-du-programme-eig-webinaire-dinformation-design-et-droit-du-numerique/ "Ce webinaire est fait pour vous ! - lien externe")
+***Vous êtes spécialisé-e dans le design ou le droit numérique ?***
+* [Ce webinaire est fait pour vous !](https://www.numerique.gouv.fr/agenda/appel-a-candidatures-du-programme-eig-webinaire-dinformation-design-et-droit-du-numerique/)
 
 <div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>N’hésitez pas à consulter le nouveau <a href="https://eig.etalab.gouv.fr/">site internet d’EIG</a> et à jeter un coup d’œil sur les <a href="https://www.dailymotion.com/playlist/x75m45">projets réalisés l’an passé</a>. Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez écrire à 
 <a href="mailto:eig@data.gouv.fr ">eig@data.gouv.fr</a>.</p> </div>
