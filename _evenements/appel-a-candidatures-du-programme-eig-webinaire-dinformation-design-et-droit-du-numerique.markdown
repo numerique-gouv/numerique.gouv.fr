@@ -1,7 +1,7 @@
 ---
-title: 'Appel à candidatures du programme EIG - webinaire d''information : design
-  et droit du numérique'
+title: 'Appel à candidatures du programme EIG : design et droit du numérique'
 date: 2022-03-10 17:42:00 +01:00
+published: false
 categories:
 - Webinaire d'information
 tags:

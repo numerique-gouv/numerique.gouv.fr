@@ -1,6 +1,7 @@
 ---
 title: 'Appel à candidatures du programme EIG : développement et métiers de la donnée'
 date: 2022-03-10 17:13:00 +01:00
+published: false
 categories:
 - Webinaire d'information
 tags:
