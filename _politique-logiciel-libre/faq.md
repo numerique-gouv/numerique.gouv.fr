@@ -49,7 +49,7 @@ Vous pouvez contacter l'adresse électronique de contact proposée dans la polit
 
 ### « Comment choisir parmi les différentes licences proposées ? »
 
-Voir [Ouverture / Autorisation par défaut de contribuer à des projets sous licence FSF ou OSI](ouverture#autorisation-par-défaut-de-contribuer-à-des-projets-sous-licence-fsf-ou-osi) et [Ouverture / Autorisation par défaut de contribuer un nouveau projet avec les licences du décret](ouverture#autorisation-par-défaut-de-contribuer-un-nouveau-projet-avec-les-licences-du-décret).
+Voir [Ouverture / Autorisation par défaut de contribuer à des projets sous licence FSF ou OSI](../ouverture#autorisation-par-défaut-de-contribuer-à-des-projets-sous-licence-fsf-ou-osi) et [Ouverture / Autorisation par défaut de contribuer un nouveau projet avec les licences du décret](../ouverture#autorisation-par-défaut-de-contribuer-un-nouveau-projet-avec-les-licences-du-décret).
 
 N'hésitez pas à revenir vers nous en utilisant l'adresse de contact pour toute question ou conseil.
 
