@@ -58,9 +58,9 @@ Enfin, trois événements thématiques seront organisés d’ici l’été pour 
 initiatives d’intérêt général candidates ayant candidaté à l’accélérateur, autour des 
 principaux thèmes couverts par les dossiers reçus : Santé et Solidarités (55 dossiers), 
 Education, Jeunesse et Sports (41 dossiers), Transition écologique (37 dossiers).
-Amélie de MONTCHALIN déclare : "Comme le Président de la République, je crois à 
-l’étincelle de la rencontre entre l’organisation de l’administration, la liberté et la créativité 
-entrepreneuriale pour « augmenter » le service public de demain de l’excellence des initiatives des citoyens de notre pays. Je suis particulièrement heureuse que cette alchimie 
-ait parfaitement fonctionné dès la première promotion de l’Accélérateur, sélectionnée en 
+
+<div class="citation"><p>Comme le Président de la République, je crois à l’étincelle de la rencontre entre l’organisation de l’administration, la liberté et la créativité entrepreneuriale pour « augmenter » le service public de demain de l’excellence des initiatives des citoyens de notre pays. Je suis particulièrement heureuse que cette alchimie ait parfaitement fonctionné dès la première promotion de l’Accélérateur, sélectionnée en 
 plein accord par agents publics et citoyens. Le service public de demain, c’est eux, et c’est 
-vous aussi ! »
+vous aussi !</p></div>
+
+<div class="auteur-citation">Amélie de Montchalin, ministre de la Transformation et de la Fonction publiques</div>
