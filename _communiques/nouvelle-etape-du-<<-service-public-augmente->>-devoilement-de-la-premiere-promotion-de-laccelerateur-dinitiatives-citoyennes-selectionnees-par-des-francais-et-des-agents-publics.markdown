@@ -7,7 +7,7 @@ categories:
 - Communiqué de presse
 tags:
 - Transformation publique
-chapeau-text: "Amélie de MONTCHALIN, ministre de la Transformation et de la Fonction
+chapeau-text: "Amélie de Montchalin, ministre de la Transformation et de la Fonction
   publiques, a présenté aujourd’hui neuf premiers projets d’intérêt général constituant
   la première promotion de l’accélérateur d’initiatives citoyennes. Ils \nont été
   sélectionnés par un jury de 15 citoyens parmi les 187 candidatures reçues, et seront
@@ -33,7 +33,7 @@ associations ou des entreprises qui contribuent au bien commun, afin de construi
 
 La ministre de la transformation et de la fonction publiques a lancé cet accélérateur le 17 
 décembre 2021 au siège de la Croix-Rouge française. Elle a invité les porteurs d’initiatives 
-qui souhaitent agir pour le bien commun à proposer leurs projets sur http://citoyens.transformation.gouv.fr/. 
+qui souhaitent agir pour le bien commun à proposer leurs projets sur [citoyens.transformation.gouv.fr](http://citoyens.transformation.gouv.fr/)
 
 Ce premier appel à candidature s’est clôturé fin janvier 2022, avec un mode de sélection inédit, croisé entre citoyens et agents publics. Les 187 projets déposés ont été examinés par un panel de 15 citoyens pendant deux jours de travail au début du mois de février. 
 Une trentaine d’agents publics ont ensuite été mobilisés pour juger de la qualité technique et opérationnelle des projets.
@@ -68,7 +68,7 @@ de la démocratie et à la délibération démocratique.
 Ces initiatives seront accélérées par l’Etat pendant trois mois. Ce soutien prendra la forme d’accompagnement en ingénierie notamment technique et juridique, de facilitation de l’accès à des ressources publiques comme des données, d’aide à la stratégie de croissance 
 des projets ou encore de soutien financier. 
 
-Amélie de MONTCHALIN a également annoncé à cette occasion le lancement prochain d’une seconde promotion avec un appel à candidature ouvert à l’été pour un démarrage 
+Amélie de Montchalin a également annoncé à cette occasion le lancement prochain d’une seconde promotion avec un appel à candidature ouvert à l’été pour un démarrage 
 en septembre 2022. 
 
 Enfin, trois événements thématiques seront organisés d’ici l’été pour réunir les autres 
