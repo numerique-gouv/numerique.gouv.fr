@@ -8,10 +8,10 @@ categories:
 tags:
 - Transformation publique
 chapeau-text: "Amélie de MONTCHALIN, ministre de la Transformation et de la Fonction
-  publiques, a présenté aujourd’hui neuf premiers projets d’intérêt général \nconstituant
+  publiques, a présenté aujourd’hui neuf premiers projets d’intérêt général constituant
   la première promotion de l’accélérateur d’initiatives citoyennes. Ils \nont été
-  sélectionnés par un jury de 15 citoyens parmi les 187 candidatures reçues, \net
-  seront accompagnés pendant 3 mois dans leur développement."
+  sélectionnés par un jury de 15 citoyens parmi les 187 candidatures reçues, et seront
+  accompagnés pendant 3 mois dans leur développement."
 ---
 
 Lors de son allocution en ouverture du sommet mondial du Partenariat pour un Gouvernement ouvert le 15 décembre 2021, le Président de la République a annoncé la 
