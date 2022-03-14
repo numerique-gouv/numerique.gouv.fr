@@ -3,6 +3,10 @@ title: "Nouvelle étape du « service public augmenté » : dévoilement de la \
   promotion de l’Accélérateur d’initiatives citoyennes sélectionnées par des Français
   et des agents publics"
 date: 2022-03-14 18:00:00 +01:00
+categories:
+- Communiqué de presse
+tags:
+- Transformation publique
 chapeau-text: "Amélie de MONTCHALIN, ministre de la Transformation et de la Fonction
   publiques, a présenté aujourd’hui neuf premiers projets d’intérêt général \nconstituant
   la première promotion de l’accélérateur d’initiatives citoyennes. Ils \nont été
