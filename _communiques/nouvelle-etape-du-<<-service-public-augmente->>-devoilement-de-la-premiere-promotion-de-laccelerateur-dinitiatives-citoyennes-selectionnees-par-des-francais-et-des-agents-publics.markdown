@@ -12,6 +12,19 @@ chapeau-text: "Amélie de MONTCHALIN, ministre de la Transformation et de la Fon
   la première promotion de l’accélérateur d’initiatives citoyennes. Ils \nont été
   sélectionnés par un jury de 15 citoyens parmi les 187 candidatures reçues, et seront
   accompagnés pendant 3 mois dans leur développement."
+une-ou-diaporama:
+- image: "/uploads/FNko_3JWYAA6WwF.jpg"
+  alternative-textuelle: |-
+    Accélérateur d'initiatives citoyennes
+    Le service public augmenté
+
+    Lancement de la 1ère promotion par la ministre de la Transformation et de la Fonction publiques
+
+    Rendez-vous le 14 mars 2022 à 16h30 pour une diffusion en direct sur Twitter @AdeMontchalin
+
+    - Direction interministérielle du numérique
+    - Etalab
+    - Direction interministérielle de la transformation publique
 ---
 
 Lors de son allocution en ouverture du sommet mondial du Partenariat pour un Gouvernement ouvert le 15 décembre 2021, le Président de la République a annoncé la 
