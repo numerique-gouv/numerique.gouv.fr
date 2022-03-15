@@ -25,6 +25,9 @@ une-ou-diaporama:
     - Direction interministérielle du numérique
     - Etalab
     - Direction interministérielle de la transformation publique
+files:
+- file: "/uploads/CP_NOUVELLE_ETAPE_SERVICE_PUBLIC_AUGMENTE.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Lors de son allocution en ouverture du sommet mondial du Partenariat pour un Gouvernement ouvert le 15 décembre 2021, le Président de la République a annoncé la 
