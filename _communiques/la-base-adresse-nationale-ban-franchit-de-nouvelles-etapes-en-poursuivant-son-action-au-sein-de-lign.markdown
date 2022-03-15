@@ -2,7 +2,6 @@
 title: La base adresse nationale (BAN) franchit de nouvelles étapes en poursuivant
   son action au sein de l’IGN
 date: 2022-03-15 13:20:00 +01:00
-published: false
 categories:
 - Communiqué de presse
 tags:
