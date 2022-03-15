@@ -39,7 +39,7 @@ Depuis peu, la loi « 3DS »(2) confirme que les communes, responsables de la cr
  
 L’IGN, l’ANCT, et la DINUM collaborent pour garantir une phase de convergence douce vers la BAN unique de référence. Parmi les chantiers engagés : l’ANCT est garante de l’animation auprès des collectivités, pour les accompagner dans la mise en œuvre de la loi 3DS et la création de leurs adresses. L’IGN cesse les mises à jour de ses outils et bases historiques - la base de données « BD Adresse » et le site « Guichet Adresse » - et implique ses équipes dans l’administration de la BAN. Le contenu du Guichet Adresse migre progressivement vers la BAN et Mes Adresses sera désormais l’outil de référence de création d’adresses par les communes. Les développeurs de la BAN de la DINUM intègrent l’IGN pour accompagner le transfert des outils et la mise en place des évolutions. Des ateliers « Adresse-lab » de co-construction viennent renforcer ce dispositif dès mars. Enfin le déploiement associera les grands acteurs nationaux en articulation avec le CNIG. 
 
-<img src="/uploads/BAN.png" alt="" style="margin-right: 10px" width="30%" align="center">
+<img src="/uploads/BAN.png" alt="" style="margin-right: 10px" width="50%" align="center">
 
 
 *La Base Adresse Nationale est l’une des neuf bases de données du service public des données de référence. Elle est la base de données ouverte d’adresses officiellement reconnue par l’administration. Service numérique d’usage partagé et infrastructure socle sur laquelle sont adossées de nombreuses politiques publiques, elle fait partie du système d’information et de communication de l’État et est à ce titre placée sous la responsabilité du Premier ministre. Le ministère de la Transformation et de la Fonction publiques soutient ce projet à hauteur de 774 K€ dans le cadre de France Relance.* 
@@ -50,26 +50,27 @@ En savoir plus : [data.gouv.fr/fr/datasets/base-adresse-nationale](https://www.d
 
 (1) Services départementaux d’incendie et de secours (2) Loi relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale 
 
-<img src="/uploads/Logo%20IGN.png" alt="" style="margin-right: 10px" width="20%" align="center">
-
 
 **À propos de l’IGN**
+<br><img src="/uploads/Logo%20IGN.png" alt="" style="margin-right: 10px" width="20%" align="center">
+
+
 <br>L’Institut national de l’information géographique et forestière (IGN) est un établissement public placé sous la tutelle des ministères chargés de l’écologie et de la forêt. Sa vocation est de produire et diffuser des données (open data) et des représentations (cartes en ligne et papier, géovisualisation) de référence relatives à la connaissance du territoire national et des forêts françaises ainsi que de leur évolution. À travers son école d’ingénieur, ENSG-Géomatique, et à ses équipes de recherche, l’institut cultive un potentiel d’innovation de haut niveau dans de multiples domaines (géodésie, forêt, photogrammétrie, intelligence artificielle, analyse spatiale, visualisation 3D, etc.). 
 <br>
 * En savoir plus : [ign.fr](https://www.ign.fr/)
 
-<img src="/uploads/Logo%20DINUM.png" alt="" style="margin-right: 10px" width="20%" align="center">
 
 **À propos de la DINUM**
+<br><img src="/uploads/Logo%20DINUM.png" alt="" style="margin-right: 10px" width="40%" align="center">
 <br>La direction interministérielle du numérique (DINUM) est en charge de la transformation numérique de l’État au bénéfice du citoyen comme de l’agent, sous tous ses aspects : modernisation du système d’information de l’État, qualité des services publics numériques, création de services innovants pour les citoyens, outils numériques de travail collaboratif pour les agents. 
 Elle pilote, avec l’appui des ministères, le programme TECH.GOUV d’accélération de la transformation numérique du service public ainsi que la mise en œuvre du volet Transformation numérique de l’État et des territoires du plan France Relance.
 La DINUM est un service du Premier ministre qui intervient sous l’autorité de la ministre de la Transformation et de la Fonction publiques.
 <br> 
 * En savoir plus : [numerique.gouv.fr](https://www.numerique.gouv.fr/)
 
-<img src="/uploads/Logo%20ANCT.png" alt="" style="margin-right: 10px" width="20%" align="center">
 
 **À propos de l’ANCT**
+<br><img src="/uploads/Logo%20ANCT.png" alt="" style="margin-right: 10px" width="20%" align="center">
 <br>Créée au 1er janvier 2020, l’Agence nationale de la cohésion des territoires (ANCT) est un nouveau partenaire pour les collectivités locales qu’elle accompagne dans leurs projets de territoire. Elle anime des pactes territoriaux et des programmes nationaux comme France Services, Action cœur de ville, Petites Villes de demain, France Très Haut Débit… 
 L’ANCT développe également une offre de services sur mesure en matière d’ingénierie de projet, avec une approche « cousue main » pour répondre au plus près de leurs besoins spécifiques et locaux.
 <br>
