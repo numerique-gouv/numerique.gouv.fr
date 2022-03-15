@@ -1,7 +1,7 @@
 ---
 title: La base adresse nationale (BAN) franchit de nouvelles étapes en poursuivant
   son action au sein de l’IGN
-date: 2022-03-11 13:20:00 +01:00
+date: 2022-03-15 13:20:00 +01:00
 published: false
 categories:
 - Communiqué de presse
@@ -23,7 +23,7 @@ une-ou-diaporama:
 - image: "/uploads/adresse-data.gouv-3.png"
   alternative-textuelle: Visuel du site de la Base d'Adresse Nationale.
 files:
-- file: "/uploads/CP_BASE_ADRESSE_NATIONALE_DINUM_ANCT_IGN.pdf"
+- file: "/uploads/CP_BASE_ADRESSE_NATIONALE_DINUM_ANCT_IGN-c48f83.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
