@@ -34,7 +34,7 @@ style: |-
   .wrapper {
     display: grid;
     margin: 0 auto;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
     grid-auto-rows: minmax(150px, auto);
   }
 
@@ -141,7 +141,7 @@ Dédié aux envois entre agents de l’État ou entre agents de l’État et usa
 </div>
 <div class="panel"><figure class='image-center' style='width: 18%;'>
 <img src="/uploads/Audio.svg"/></figure><div class="titre-fonctionnalite">Jusqu'à 100 destinataires</div>
-Envoyez vos fichiers à plusieurs destinataires en une seule opération, et même à une liste de contacts
+Envoyez vos fichiers à plusieurs destinataires en une seule opération, et même à une liste de contacts</div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sur tous vos appareils</div>
 Disponible sur ordinateur, mobile et tablette
