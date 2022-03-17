@@ -1,7 +1,7 @@
 ---
 title: On parle de nous
 date: 2022-03-17 17:38:00 +01:00
-permalink: "/onparledenous"
+permalink: "/onparledenous/"
 Field name: 
 layout: page-annexe
 ---
