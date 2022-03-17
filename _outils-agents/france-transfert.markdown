@@ -147,15 +147,9 @@ Envoyez vos fichiers à plusieurs destinataires en une seule opération, et mêm
 Disponible sur ordinateur, mobile et tablette
 </div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sur tous vos appareils</div>
-Disponible sur ordinateur, mobile et tablette
-</div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Transfert par courriel ou lien</div>
 Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même
 </div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même</div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Conservation jusqu’à 1 mois</div>
 Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)
