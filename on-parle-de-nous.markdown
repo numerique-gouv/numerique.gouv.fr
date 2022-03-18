@@ -9,7 +9,7 @@ style: "\ndate {\n  font-size: 0.875em; \n  font-weight: bold;\n  display: block
 layout: page-annexe
 ---
 
-<p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits... Ainsi que nos contributions à diverses publications.</p>
+<p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
 <titre><a href="https://www.cio-online.com/actualites/lire-un-referentiel-unique-pour-l-ecoresponsabilite-numerique-de-a-a-z-14030.html" title="Un référentiel unique pour l'écoresponsabilité numérique de A à Z - Lien externe">Un référentiel unique pour l’écoresponsabilité numérique de A à Z</a></titre>
 <date>17 mars 2022</date>
