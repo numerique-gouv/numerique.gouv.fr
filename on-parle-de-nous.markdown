@@ -26,7 +26,7 @@ layout: page-annexe
 <media>La Gazette des Communes</media>
 
 
-<titre><a href="https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N19__Les_veilles_fevrier_2022.pdf" title="Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ? - Lien externe - Ouvre un pdf">Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ?</a></titre>
+<titre><a href="https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N19__Les_veilles_fevrier_2022.pdf" title="Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ? - Lien externe - Ouvre un pdf">Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ? (pdf - 4 Mo)</a></titre>
 <date>Février 2022</date>
 <p class="margin-0">Dans : La collection numérique - Les Veilles #19
 <br>Éditeur : L'Agence de mutualisation des universités et établissements (AMUE)</p>
