@@ -23,23 +23,13 @@ Retrouvez ici une sélection des articles de presse parlant de nous, notre actio
 <h2 class="h5 margin-0"><a href="https://www.cio-online.com/actualites/lire-un-referentiel-unique-pour-l-ecoresponsabilite-numerique-de-a-a-z-14030.html" title="Allocataires du RSA : des outils numériques au profit de l’insertion - Lien externe">Allocataires du RSA : des outils numériques au profit de l’insertion</a></h2>
 <p class="margin-top-0 margin-bottom-5"><i>cio-online.com</i></p>
 
-
-**Mars 2022**
-### [Développer des services publics numériques qui donnent confiance et qui font confiance](https://www.cairn.info/revue-informations-sociales-2022-1.htm)
-Dans : Services publics, services numériques
-Revue : Informations sociales 2022/1 (n° 205)
-Éditeur : Caisse nationale d'allocations familiales
-cairn.info
-
 <p class="margin-0"><strong>3 mars 2022</strong></p>
 <h2 class="h5 margin-0">Allocataires du RSA : des outils numériques au profit de l’insertion</h2>
 <p class="margin-0"><a href="https://www.lagazettedescommunes.com/793536/allocataires-du-rsa-des-outils-numeriques-au-profit-de-linsertion/" title="Allocataires du RSA : des outils numériques au profit de l’insertion - Lien externe"><i>La Gazette des Communes</i></a></p>
 
-**3 mars 2022**
-[Allocataires du RSA : des outils numériques au profit de l’insertion ](https://www.lagazettedescommunes.com/793536/allocataires-du-rsa-des-outils-numeriques-au-profit-de-linsertion/)
-La Gazette des Communes
+<p class="margin-0"><strong>Mars 2022</strong></p>
+<h2 class="h5 margin-0"><a href="https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N19__Les_veilles_fevrier_2022.pdf" title="Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ? - Lien externe - Ouvre un pdf">Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ?</a></h2>
+<p class="margin-top-0 margin-bottom-3">Dans : La collection numérique
+<br>Revue : Informations sociales 2022/1 (n° 205)
+<br>Éditeur : L'Agence de mutualisation des universités et établissements (AMUE)<br><i>AMUE</i></p>
 
-https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N19__Les_veilles_fevrier_2022.pdf
-Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ?
-Dans : La collection numérique
-Éditeur : L'Agence de mutualisation des universités et établissements (AMUE)
