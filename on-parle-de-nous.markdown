@@ -10,7 +10,7 @@ layout: page-annexe
 
 <p class="margin-0"><strong>17 Mars 2022</strong></p>
 <h2 class="h5 margin-0"><a href="https://www.cio-online.com/actualites/lire-un-referentiel-unique-pour-l-ecoresponsabilite-numerique-de-a-a-z-14030.html" title="Un référentiel unique pour l'écoresponsabilité numérique de A à Z - Lien externe">Un référentiel unique pour l’écoresponsabilité numérique de A à Z</a></h2>
-<p class="margin-top-0 margin-bottom-5"><i>cio-online.com</i></p>
+<p class="margin-top-0 margin-bottom-3"><i>cio-online.com</i></p>
 
 <p class="margin-0"><strong>Mars 2022</strong></p>
 <h2 class="h5 margin-0"><a href="https://www.cairn.info/revue-informations-sociales-2022-1.htm" title="Développer des services publics numériques qui donnent confiance et qui font confiance - Lien externe">Développer des services publics numériques qui donnent confiance et qui font confiance</a></h2>
