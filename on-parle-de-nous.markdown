@@ -3,12 +3,13 @@ title: On parle de nous
 date: 2022-03-17 17:38:00 +01:00
 permalink: "/onparledenous/"
 Field name: 
+style: "\ndate {\n  font-size: 0.875em; \n}"
 layout: page-annexe
 ---
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits... Ainsi que nos contributions à diverses publications.</p>
 
-<p class="margin-0"><strong>17 Mars 2022</strong></p>
+<p class="date margin-0"><strong>17 mars 2022</strong></p>
 <h2 class="h5 margin-0"><a href="https://www.cio-online.com/actualites/lire-un-referentiel-unique-pour-l-ecoresponsabilite-numerique-de-a-a-z-14030.html" title="Un référentiel unique pour l'écoresponsabilité numérique de A à Z - Lien externe">Un référentiel unique pour l’écoresponsabilité numérique de A à Z</a></h2>
 <p class="margin-top-0 margin-bottom-3"><i>cio-online.com</i></p>
 
