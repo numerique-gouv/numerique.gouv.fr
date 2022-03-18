@@ -113,15 +113,16 @@ Si vous le souhaitez :
 ### Pour envoyer un pli
 Très simple et intuitif, le service vous permet d’effectuer un envoi en quelques minutes.
 
-* Rendez-vous sur francetransfert.numerique.gouv.fr ou ouvrez l’application mobile
-* Ajoutez vos fichiers ou dossiers via l’explorateur de fichiers ou déposez-les directement. Jusqu’à 2Go par fichier et 20 Go en tout.
-* Choisissez le mode d’envoi : par courriel directement aux destinataires ou par lien
-* Remplissez les quelques champs. Seuls champs obligatoires : courriels de l’expéditeur et destinataire.
-L’expéditeur ou le destinataire doit impérativement être agent de l’État, aucune démarche à faire pour le prouver : l’adresse mail est reconnue automatiquement.
-* Personnalisez si vous le souhaitez le délai de conservation (jusqu’à 3 mois) et ajoutez un mot de passe
-* Renseignez le code de vérification envoyé sur votre adresse courriel
-* Terminé !
-Si vous avez choisi l’envoi par courriel, vos destinataires reçoivent le lien de téléchargement par courriel, et, séparément, 
+* **Rendez-vous sur francetransfert.numerique.gouv.fr** ou ouvrez l’application mobile
+* **Ajoutez vos fichiers ou dossiers** via l’explorateur de fichiers ou déposez-les directement
+* **Choisissez le mode d’envoi :** par courriel directement aux destinataires ou par lien
+* **Saisissez les courriels** de l’expéditeur et du ou des destinataire(s)
+* **Personnalisez** si vous le souhaitez le délai de conservation (jusqu’à 3 mois) et le mot de passe du pli
+* **Renseignez le code de vérification** envoyé sur votre adresse courriel
+* **Terminé !**
+
+Si vous avez choisi l’envoi par courriel, vos destinataires reçoivent directement le lien de téléchargement par courriel, et, séparément, le mot de passe. 
+Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du pli, à transmettre vous-même à qui vous le souhaitez.
 
 
 
