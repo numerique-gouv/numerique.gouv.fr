@@ -130,9 +130,9 @@ Chaque fichier est analysé par un anti-virus.
 Très simple et intuitif, le service vous permet d’effectuer un envoi en quelques minutes.
 
 * **Rendez-vous sur francetransfert.numerique.gouv.fr** ou ouvrez l’application mobile
-* **Ajoutez vos fichiers ou dossiers** via l’explorateur de fichiers ou déposez-les directement
-* **Choisissez le mode d’envoi :** par courriel directement aux destinataires ou par lien
-* **Saisissez les courriels** de l’expéditeur et du ou des destinataire(s), et si vous le souhaitez ajoutez un objet et un message
+* **Ajoutez vos fichiers ou dossiers** via l’explorateur de fichiers ou déposez-les
+* **Choisissez le mode d’envoi :** par courriel directement aux destinataires ou via un lien à partager
+* **Saisissez les courriels** de l’expéditeur et du ou des destinataire(s). En option, ajoutez un objet et un message
 * **Personnalisez** si vous le souhaitez la durée de conservation (1j à 3 mois - par défaut 30j) et le mot de passe du pli
 * **Renseignez le code de vérification** envoyé sur votre adresse courriel
 * **Terminé !**
