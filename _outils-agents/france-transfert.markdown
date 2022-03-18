@@ -2,6 +2,7 @@
 title: France transfert
 date: 2022-02-16 16:03:00 +01:00
 permalink: "/outils-agents/france-transfert/"
+published: false
 chapeau-text: Un service interministériel d’envoi de fichiers volumineux, simple et
   sécurisé, jusqu’à 20 Go, entre agents de l’État, mais aussi avec les usagers, partenaires
   et prestataires.
@@ -75,58 +76,6 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <br>
 <br>
 
-<div class="wrapper">
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Pratique</div>
-Envoyez et recevez des fichiers ou dossiers jusqu’à 20 Go (2 Go max par fichier)
-<br>Disponible sur ordinateur et sur mobile
-<br>Possibilité d’envoyer à une liste de contacts, jusqu’à 100 destinataires
-<br>Fichiers conservés par défaut pendant 1 mois
-<br>Recevez une notification lorsqu’un destinataire télécharge votre pli
-</div>
-<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
-<img src="/uploads/Video.svg"/>
-</figure><div class="titre-fonctionnalite">Simple</div>
-<b>Service intuitif</b>, simple d’utilisation. 
-<br>Effectuez un envoi en moins de 5 minutes.
-</div>
-<div class="panel"><figure class='image-center' style='width: 18%;'>
-<img src="/uploads/Audio.svg"/></figure><div class="titre-fonctionnalite">Sécurisé</div>
-Protection des plis par mot de passe (personnalisable)
-<br>Analyse anti-virus
-<br>Hébergement sur un Cloud français
-<br>Service homologué RGS (référentiel général de sécurité)</div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Personnalisable</div>
-Si vous le souhaitez :
-<br>Ajoutez un message à votre envoi
-<br>Choisissez le mot de passe de votre pli
-<br>Modifiez la durée de conservation…
-<br>Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même
-</div>
-</div>
-<br>
-<br>
-
-## Comment ça marche ?
-{: .margin-bottom-1}
-### Pour envoyer un pli
-Très simple et intuitif, le service vous permet d’effectuer un envoi en quelques minutes.
-
-* **Rendez-vous sur francetransfert.numerique.gouv.fr** ou ouvrez l’application mobile
-* **Ajoutez vos fichiers ou dossiers** via l’explorateur de fichiers ou déposez-les directement
-* **Choisissez le mode d’envoi :** par courriel directement aux destinataires ou par lien
-* **Saisissez les courriels** de l’expéditeur et du ou des destinataire(s)
-* **Personnalisez** si vous le souhaitez le délai de conservation (jusqu’à 3 mois) et le mot de passe du pli
-* **Renseignez le code de vérification** envoyé sur votre adresse courriel
-* **Terminé !**
-
-Si vous avez choisi l’envoi par courriel, vos destinataires reçoivent directement le lien de téléchargement par courriel, et, séparément, le mot de passe. 
-Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du pli, à transmettre vous-même à qui vous le souhaitez.
-
-
-
-
 
 
 <div class="wrapper">
@@ -162,6 +111,35 @@ Chaque fichier est analysé par un anti-virus.
 </div>
 <br>
 <br>
+
+
+
+
+
+
+
+## Comment ça marche ?
+{: .margin-bottom-1}
+### Pour envoyer un pli
+Très simple et intuitif, le service vous permet d’effectuer un envoi en quelques minutes.
+
+* **Rendez-vous sur francetransfert.numerique.gouv.fr** ou ouvrez l’application mobile
+* **Ajoutez vos fichiers ou dossiers** via l’explorateur de fichiers ou déposez-les directement
+* **Choisissez le mode d’envoi :** par courriel directement aux destinataires ou par lien
+* **Saisissez les courriels** de l’expéditeur et du ou des destinataire(s), et si vous le souhaitez ajoutez un objet et un message
+* **Personnalisez** si vous le souhaitez la durée de conservation (1j à 3 mois - par défaut 30j) et le mot de passe du pli
+* **Renseignez le code de vérification** envoyé sur votre adresse courriel
+* **Terminé !**
+
+Si vous avez choisi l’envoi par courriel, vos destinataires reçoivent directement le lien de téléchargement par courriel, et, séparément, le mot de passe. 
+
+Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du pli, à transmettre vous-même à qui vous le souhaitez.
+
+
+
+
+
+
 
 
 
@@ -263,3 +241,39 @@ Votre domaine de messagerie n’est pas reconnu ? Faites-en la demande en nous �
 * [Webconférence de l’État (Webconf)](/outils-agents/webconference-etat/)
 * [Webinaire de l'État](/outils-agents/webinaire-etat/)
 * [Audioconférence de l’État (Audioconf)](/outils-agents/audioconference-etat/)
+
+
+
+
+<div class="wrapper">
+<div class="panel"><figure class='image-center' style='width: 30%;'>
+<img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Pratique</div>
+Envoyez et recevez des fichiers ou dossiers jusqu’à 20 Go (2 Go max par fichier)
+<br>Disponible sur ordinateur et sur mobile
+<br>Possibilité d’envoyer à une liste de contacts, jusqu’à 100 destinataires
+<br>Fichiers conservés par défaut pendant 1 mois
+<br>Recevez une notification lorsqu’un destinataire télécharge votre pli
+</div>
+<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
+<img src="/uploads/Video.svg"/>
+</figure><div class="titre-fonctionnalite">Simple</div>
+<b>Service intuitif</b>, simple d’utilisation. 
+<br>Effectuez un envoi en moins de 5 minutes.
+</div>
+<div class="panel"><figure class='image-center' style='width: 18%;'>
+<img src="/uploads/Audio.svg"/></figure><div class="titre-fonctionnalite">Sécurisé</div>
+Protection des plis par mot de passe (personnalisable)
+<br>Analyse anti-virus
+<br>Hébergement sur un Cloud français
+<br>Service homologué RGS (référentiel général de sécurité)</div>
+<div class="panel"><figure class='image-center' style='width: 30%;'>
+<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Personnalisable</div>
+Si vous le souhaitez :
+<br>Ajoutez un message à votre envoi
+<br>Choisissez le mot de passe de votre pli
+<br>Modifiez la durée de conservation…
+<br>Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même
+</div>
+</div>
+<br>
+<br>
