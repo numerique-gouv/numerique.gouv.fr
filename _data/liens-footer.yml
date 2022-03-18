@@ -13,6 +13,8 @@ plan-du-site:
     url: /outils-agents
   - link: Rejoignez-nous
     url: /rejoignez-nous
+  - link: On parle de nous
+    url: /onparledenous
   - link: Espace presse
     url: /espace-presse
 
