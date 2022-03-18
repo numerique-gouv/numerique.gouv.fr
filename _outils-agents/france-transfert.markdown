@@ -49,15 +49,11 @@ style: |-
     padding: 10px;
     font-size: 100%;
     margin-bottom: 10px;
-  text-align: center;
+    text-align: center;
   }
 
-  .panel-atouts {
-    /* needed for the flex layout*/
-    margin-left: 5px;
-    margin-right: 5px;
-    flex: 1 1 200px;
-    font-size: 0,875em;
+  .atout {
+    font-size: 0.875em;
   }
 
   .titre-fonctionnalite {
@@ -164,13 +160,13 @@ Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État incl
 {: .margin-bottom-1}
 
 <div class="wrapper">
-<div class="panel-atouts"><figure class='image-center' style='width: 30%;'>
+<div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Pratique</div>
-Envoyez et recevez des fichiers ou dossiers jusqu’à 20 Go (2 Go max par fichier)
+<div class="atout">Envoyez et recevez des fichiers ou dossiers jusqu’à 20 Go (2 Go max par fichier)
 <br>Disponible sur ordinateur et sur mobile
 <br>Possibilité d’envoyer à une liste de contacts, jusqu’à 100 destinataires
 <br>Fichiers conservés par défaut pendant 1 mois
-<br>Recevez une notification lorsqu’un destinataire télécharge votre pli
+<br>Recevez une notification lorsqu’un destinataire télécharge votre pli</div>
 </div>
 <div class="panel-atouts"><figure class='image-center' style='width: 30%; margin-top:28px'>
 <img src="/uploads/Video.svg"/>
