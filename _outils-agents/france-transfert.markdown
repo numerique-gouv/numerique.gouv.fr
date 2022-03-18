@@ -162,31 +162,26 @@ Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État incl
 <div class="wrapper">
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Pratique</div>
-<div class="atout">Envoyez et recevez des fichiers ou dossiers jusqu’à 20 Go (2 Go max par fichier)
-<br>Disponible sur ordinateur et sur mobile
-<br>Possibilité d’envoyer à une liste de contacts, jusqu’à 100 destinataires
-<br>Fichiers conservés par défaut pendant 1 mois
-<br>Recevez une notification lorsqu’un destinataire télécharge votre pli</div>
+<div class="atout" style="text-align: left"><ul><li>Envoyez et recevez des fichiers ou dossiers jusqu’à 20 Go (2 Go max par fichier)</li><li>Disponible sur ordinateur et sur mobile</li><li>Possibilité d’envoyer à une liste de contacts, jusqu’à 100 destinataires</li><li>Fichiers conservés par défaut pendant 1 mois</li><li>Recevez une notification lorsqu’un destinataire télécharge votre pli</li></ul></div>
 </div>
-<div class="panel-atouts"><figure class='image-center' style='width: 30%; margin-top:28px'>
+<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
 <img src="/uploads/Video.svg"/>
 </figure><div class="titre-fonctionnalite">Simple</div>
-<b>Service intuitif</b>, simple d’utilisation. 
-<br>Effectuez un envoi en moins de 5 minutes.
+<div class="atout" style="text-align: left"><ul><li><b>Service intuitif</b>, simple d’utilisation.</li>
+<li>Effectuez un envoi en moins de 5 minutes.</li></ul></div>
 </div>
-<div class="panel-atouts"><figure class='image-center' style='width: 18%;'>
+<div class="panel"><figure class='image-center' style='width: 18%;'>
 <img src="/uploads/Audio.svg"/></figure><div class="titre-fonctionnalite">Sécurisé</div>
-Protection des plis par mot de passe (personnalisable)
-<br>Analyse anti-virus
-<br>Hébergement sur un Cloud français
-<br>Service homologué RGS (référentiel général de sécurité)</div>
+<div class="atout" style="text-align: left"><ul><li>Protection des plis par mot de passe (personnalisable)</li>
+<li>Analyse anti-virus</li>
+<li>Hébergement sur un Cloud français</li>
+<li>Service homologué RGS (référentiel général de sécurité)</li></ul></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Personnalisable</div>
-Si vous le souhaitez :
-<br>Ajoutez un message à votre envoi
-<br>Choisissez le mot de passe de votre pli
-<br>Modifiez la durée de conservation…
-<br>Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même
+<div class="atout" style="text-align: left">Si vous le souhaitez : <ul><li>Ajoutez un message à votre envoi</li>
+<li>Choisissez le mot de passe de votre pli</li>
+<li>Modifiez la durée de conservation…</li>
+<li>Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même</li></ul>
 </div>
 </div>
 <br>
