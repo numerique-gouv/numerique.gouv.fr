@@ -2,6 +2,7 @@
 title: France transfert
 date: 2022-02-16 16:03:00 +01:00
 permalink: "/outils-agents/france-transfert/"
+published: false
 chapeau-text: Un service interministériel d’envoi de fichiers volumineux, simple et
   sécurisé, jusqu’à 20 Go, entre agents de l’État, mais aussi avec les usagers, partenaires
   et prestataires.
@@ -156,7 +157,7 @@ Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État incl
 <br>
 <br>
 
-## Créez votre webinaire sur mesure
+## Les atouts de France transfert
 {: .margin-bottom-1}
 
 <div class="wrapper">
@@ -191,15 +192,15 @@ Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État incl
 <br><br>
 <div align="center" style="margin-bottom: 40px"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Accéder au Webinaire de l'État</b></a> </div>
 
-*Conçu et opéré par le ministère de la Culture, France transfert est mis à la disposition de l’ensemble des agents de l’État par la DINUM. Il s'insère ainsi dans le sac à dos numérique de l’agent (SNAP), dans le cadre du programme [TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)** d’accélération de la transformation numérique du service public.*
-<br>La solution est hébergée sur un Cloud français via l’[offre de Cloud externe](https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html "offre de Cloud externe - lien externe") dédiée aux services publics.*
+<p><i>Conçu et opéré par le ministère de la Culture, France transfert est mis à la disposition de l’ensemble des agents de l’État par la DINUM. Il s'insère ainsi dans le sac à dos numérique de l’agent (SNAP), dans le cadre du programme <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">TECH.GOUV</a> d’accélération de la transformation numérique du service public.
+<br>La solution est hébergée sur un Cloud français via l’<a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" title="offre de Cloud externe - lien externe">offre de Cloud externe</a> dédiée aux services publics.</i></p>
 <br>
 <br>
 
-**Découvrir aussi :**
-* [Webconférence de l’État (Webconf)](/outils-agents/webconference-etat/)
-* [Webinaire de l'État](/outils-agents/webinaire-etat/)
-* [Audioconférence de l’État (Audioconf)](/outils-agents/audioconference-etat/)
+<p><b>Découvrir aussi :</b>
+<ul><li><a href="/outils-agents/webconference-etat/">Webconférence de l’État (Webconf)</a></li>
+<li><a href="/outils-agents/webinaire-etat/">Webinaire de l'État</a></li>
+<li><a href="/outils-agents/audioconference-etat/">Audioconférence de l’État (Audioconf)</a></li></ul></p>
 
 
 
