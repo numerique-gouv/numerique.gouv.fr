@@ -187,34 +187,6 @@ Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État incl
 <br>
 <br>
 
-<div class="panel"><figure class='image-center' style='width: 25%;'>
-<img src="/uploads/Enregistrement.svg"/></figure><div class="titre-fonctionnalite">Enregistrement</div>
-Enregistrer vos webinaires, et partager la rediffusion</div>
-<div class="panel"><figure class='image-center' style='width: 24%;'>
-<img src="/uploads/Upload_de_documents.svg"/></figure><div class="titre-fonctionnalite">Upload de documents</div>
-Téléverser vos supports de présentation et les proposer en téléchargement aux participants</div>
-<div class="panel"><figure class='image-center' style='width: 27%;'>
-<img src="/uploads/Partage_decran.svg"/></figure><div class="titre-fonctionnalite">Partage d’écran</div>
-Diffuser une fenêtre ou tout l’écran de votre ordinateur : site web, application…</div>
-
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Discussion en ligne</div>
-Envoyer des messages en privé ou en discussion publique</div>
-<div class="panel"><figure class='image-center' style='width: 25%;'>
-<img src="/uploads/Notes_partagees.svg"/></figure><div class="titre-fonctionnalite">Notes partagées</div>
-Prendre des notes et éditer le contenu en groupe, en simultané</div>
-<div class="panel"><figure class='image-center' style='width: 27%;'>
-<img src="/uploads/Tableau_blanc_multi_utilisateurs.svg"/></figure><div class="titre-fonctionnalite">Tableau blanc multi-utilisateurs</div>
-Annoter ou dessiner sur une présentation ou un écran blanc, seul ou à plusieurs</div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Sondage.svg"/></figure><div class="titre-fonctionnalite">Sondage</div>Réaliser rapidement un sondage, soumettre un point au vote à tout moment</div>
-<div class="panel"><figure class='image-center' style='width: 19%;'>
-<img src="/uploads/Main_levee.svg"/></figure><div class="titre-fonctionnalite">Main levée</div>Lever la main pour intervenir, poser une question, sans interrompre l’animateur</div>
-<div class="panel"><figure class='image-center' style='width: 35%;'>
-<img src="/uploads/Diffusion_de_videos.svg"/></figure><div class="titre-fonctionnalite">Diffusion de vidéos</div>Diffuser une vidéo depuis n’importe quelle plateforme vidéo en ligne</div>
-</div>
-<br>
-<br>
 
 ## Ouvert aux agents de l’État et à leurs interlocuteurs
 {: .margin-bottom-1}
