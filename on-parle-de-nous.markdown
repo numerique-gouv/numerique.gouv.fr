@@ -4,8 +4,8 @@ date: 2022-03-17 17:38:00 +01:00
 permalink: "/onparledenous/"
 Field name: 
 style: "\ndate {\n  font-size: 0.875em; \n  font-weight: bold;\n  display: block\n}\n\ntitre
-  \ {\n  font-size:1.1em;\n  font-weight: bold;\n  margin: 0px;\n  display: block\n}\n\nmedia
-  \  {\n  font-style: italic;  \n  margin-bottom: 3px;\n  display: block\n}"
+  \ {\n  font-size:1.1em;\n  font-weight: bold;\n  margin-top: 3;\n  display: block\n}\n\nmedia
+  \  {\n  font-style: italic;  \n  margin-bottom: 3;\n  display: block\n}"
 layout: page-annexe
 ---
 
