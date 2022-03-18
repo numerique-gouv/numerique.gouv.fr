@@ -72,8 +72,6 @@ layout: rgaa
 La plateforme France transfert vous permet de partager des fichiers non sensibles très simplement entre agents et avec vos usagers et partenaires. 
 
 Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents de l’État.
-
-*Conçu et opéré par le ministère de la Culture, France transfert est proposé en interministériel à l’ensemble des agents de l’État par la DINUM et s'insère ainsi dans le sac à dos numérique de l’agent (SNAP), dans le cadre du programme TECH.GOUV.*
 <br>
 <br>
 
@@ -255,12 +253,12 @@ Votre domaine de messagerie n’est pas reconnu ? Faites-en la demande en nous �
 <br><br>
 <div align="center" style="margin-bottom: 40px"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Accéder au Webinaire de l'État</b></a> </div>
 
-*Le Webinaire de l’État est un service interministériel opéré par le ministère de l’Éducation nationale, de la Jeunesse et des Sports, mis à la disposition de l’ensemble des ministères par la DINUM, dans le cadre du programme **[TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)** d’accélération de la transformation numérique du service public.
-<br>La solution s’appuie sur le logiciel libre [BigBlueButton](https://bigbluebutton.org/ "BigBlueButton - Lien externe"), référencé dans [le socle interministériel des logiciels libres](https://sill.etalab.gouv.fr/fr/software?id=196 "le socle interministériel des logiciels libres - Lien externe") (SILL), et hébergée par l’entreprise française Scaleway via l’[offre de Cloud externe](https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html "offre de Cloud externe - lien externe") dédiée aux services publics.*
+*Conçu et opéré par le ministère de la Culture, France transfert est mis à la disposition de l’ensemble des agents de l’État par la DINUM. Il s'insère ainsi dans le sac à dos numérique de l’agent (SNAP), dans le cadre du programme [TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)** d’accélération de la transformation numérique du service public.*
+<br>La solution est hébergée sur un Cloud français via l’[offre de Cloud externe](https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html "offre de Cloud externe - lien externe") dédiée aux services publics.*
 <br>
 <br>
 
 **Découvrir aussi :**
 * [Webconférence de l’État (Webconf)](/outils-agents/webconference-etat/)
-* [Webconférence : quels outils pour les agents de l’État pendant la crise Covid-19 ?](/outils-agents/organiser-webconference-outils-agents-etat/)
+* [Webinaire de l'État](/outils-agents/webinaire-etat/)
 * [Audioconférence de l’État (Audioconf)](/outils-agents/audioconference-etat/)
