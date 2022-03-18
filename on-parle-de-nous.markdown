@@ -4,7 +4,8 @@ date: 2022-03-17 17:38:00 +01:00
 permalink: "/onparledenous/"
 Field name: 
 style: "\ndate {\n  font-size: 0.875em; \n  font-weight: bold;\n}\n\ntitre  {\n  font-size:1.1em;\n
-  \ font-weight: bold;\n  margin: 0px\n}"
+  \ font-weight: bold;\n  margin: 0px;\n}\n\nmedia   {\n  font-style: italic;  \n
+  \ margin-bottom: 3px;\n}"
 layout: page-annexe
 ---
 
@@ -12,7 +13,7 @@ layout: page-annexe
 
 <titre><a href="https://www.cio-online.com/actualites/lire-un-referentiel-unique-pour-l-ecoresponsabilite-numerique-de-a-a-z-14030.html" title="Un référentiel unique pour l'écoresponsabilité numérique de A à Z - Lien externe">Un référentiel unique pour l’écoresponsabilité numérique de A à Z</a></titre>
 <date>17 mars 2022</date>
-<p class="margin-top-0 margin-bottom-3"><i>cio-online.com</i></p>
+<media>cio-online.com</media>
 
 <h2 class="h5 margin-0"><a href="https://www.cairn.info/revue-informations-sociales-2022-1.htm" title="Développer des services publics numériques qui donnent confiance et qui font confiance - Lien externe">Développer des services publics numériques qui donnent confiance et qui font confiance</a></h2>
 <date>Mars 2022</date>
