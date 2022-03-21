@@ -182,10 +182,16 @@ Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État incl
 <li>Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même</li></ul>
 </div>
 </div>
+</div>
 <br>
 <br>
 
-<div class="noir encadre"> <figure class="image-center" style="width: 8%;"><img src="/uploads/outils.png"></figure> <h2 class="text-center margin-bottom-1 margin-top-0" id="les-caractéristiques-en-bref">Les caractéristiques en bref</h2> <ul> <li><strong>Création d’un webinaire réservée aux agents de l’État</strong></li> <li><strong>Jusqu’à 350 participants simultanés,</strong> internes ou externes à l’administration</li> <li><strong>Configuration sur mesure ou par défaut </strong> selon les besoins et le type d’événements</li> <li>Accessible facilement <strong>depuis votre navigateur sur ordinateur</strong>*, <strong>mobile ou tablette</strong> <i>(*Edge, Chrome ou Chromium recommandés)</i></li> <li><strong>Nombreuses fonctionnalités </strong> de présentation et de collaboration</li> <li><strong>Solution de confiance</strong>, proposée par l’État, hébergée en France</li> </ul> </div>
+<div class="noir encadre"> <figure class="image-center" style="width: 8%;"><img src="/uploads/outils.png"></figure> <h2 class="text-center margin-bottom-1 margin-top-0" id="les-caractéristiques-en-bref">Les caractéristiques en bref</h2> 
+<ul> <li><strong>Création d’un webinaire réservée aux agents de l’État</strong></li> 
+<li><strong>Jusqu’à 350 participants simultanés,</strong> internes ou externes à l’administration</li> 
+<li><strong>Configuration sur mesure ou par défaut </strong> selon les besoins et le type d’événements</li> 
+<li>Accessible facilement <strong>depuis votre navigateur sur ordinateur</strong>, <strong>mobile ou tablette</strong> <i>(Edge, Chrome ou Chromium recommandés)</i></li> <li><strong>Nombreuses fonctionnalités </strong> de présentation et de collaboration</li> 
+<li><strong>Solution de confiance</strong>, proposée par l’État, hébergée en France</li> </ul> </div>
 <br><br>
 <div align="center" style="margin-bottom: 40px"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Accéder au Webinaire de l'État</b></a> </div>
 
