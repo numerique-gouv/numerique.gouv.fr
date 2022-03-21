@@ -170,7 +170,7 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 ## Les atouts de France transfert
 {: .margin-bottom-1}
 
-<div class="noir encadre"> <div class="wrapper">
+<div class="wrapper">
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Pratique</div>
 <div class="atout" style="text-align: left"><ul><li>Envoyez et recevez des fichiers ou dossiers <b>jusqu’à 20 Go</b> (2 Go max par fichier)</li><li><b>Disponible sur ordinateur et sur mobile</b></li>
@@ -195,7 +195,6 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 <li><b>Choisissez le mot de passe</b> de votre pli</li>
 <li><b>Modifiez la durée de conservation</b> (1j à 3 mois - par défaut 30j)</li>
 <li>Envoyez directement le pli <b>par courriel</b> aux destinataires, ou faites-vous envoyer <b>un lien</b> que vous transmettrez vous-même</li></ul>
-</div>
 </div>
 </div>
 <br>
