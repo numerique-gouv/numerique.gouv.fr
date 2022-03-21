@@ -98,21 +98,21 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 Envoyez vos fichiers à plusieurs destinataires en une seule opération, et même à une liste de contacts</div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sur tous vos appareils</div>
-Disponible sur ordinateur, mobile et tablette
-</div>
+<div class="fonctionnalite">Disponible sur ordinateur, mobile et tablette
+</div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Transfert par courriel ou lien</div>
-Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même
+<div class="fonctionnalite">Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même</div>
 </div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Conservation jusqu’à 1 mois</div>
-Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)</div>
+<div class="fonctionnalite">Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)</div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
-Chaque fichier est analysé par un anti-virus.
+<div class="fonctionnalite">Chaque fichier est analysé par un anti-virus.
 <br>Envoi protégé par un mot de passe.
 <br>Service homologué RGS (référentiel général de sécurité)
-</div>
+</div></div>
 </div>
 <br>
 <br>
