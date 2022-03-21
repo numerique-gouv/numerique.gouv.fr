@@ -131,23 +131,6 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 
 
 
-
-
-
-
-
-
-
-
-
-
-## Un outil complet, puissant et facile d’utilisation
-{: .margin-bottom-1}
-
-Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État inclut des **fonctionnalités classiques** - vidéo, audio (joignable si besoin par téléphone), diffusion de présentation, partage d’écran - associées à des **fonctions de collaboration avancées** : discussion publique et privée, annotation de présentation, rédaction de notes partagées, sondage, tableau blanc multi-utilisateurs…
-<br>
-<br>
-
 ## Les atouts de France transfert
 {: .margin-bottom-1}
 
@@ -181,6 +164,44 @@ Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État incl
 </div>
 <br>
 <br>
+
+
+
+## Les atouts de France transfert
+{: .margin-bottom-1}
+
+<div class="noir encadre"> <div class="wrapper">
+<div class="panel"><figure class='image-center' style='width: 30%;'>
+<img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Pratique</div>
+<div class="atout" style="text-align: left"><ul><li>Envoyez et recevez des fichiers ou dossiers <b>jusqu’à 20 Go</b> (2 Go max par fichier)</li><li><b>Disponible sur ordinateur et sur mobile</b></li>
+<li>Accessible depuis votre ordinateur professionnel, <b>sans besoin de vous déconnecter</b> du réseau de l’État</li>
+<li>Possibilité d’envoyer à une liste de contacts, <b>jusqu’à 100 destinataires</b></li><li>Fichiers conservés par défaut pendant 1 mois</li><li><b>Recevez une notification</b> lorsqu’un destinataire télécharge votre pli</li></ul></div>
+</div>
+<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
+<img src="/uploads/Video.svg"/>
+</figure><div class="titre-fonctionnalite">Simple</div>
+<div class="atout" style="text-align: left"><ul><li><b>Service intuitif</b>, simple d’utilisation.</li>
+<li>Effectuez un envoi <b>en moins de 5 minutes</b>.</li></ul></div>
+</div>
+<div class="panel"><figure class='image-center' style='width: 18%;'>
+<img src="/uploads/Audio.svg"/></figure><div class="titre-fonctionnalite">Sécurisé</div>
+<div class="atout" style="text-align: left"><ul><li>Protection des plis par <b>mot de passe</b> (personnalisable)</li>
+<li><b>Analyse anti-virus</b></li>
+<li>Hébergement sur un <b>Cloud français</b></li>
+<li>Service <b>homologué RGS</b> (référentiel général de sécurité)</li></ul></div></div>
+<div class="panel"><figure class='image-center' style='width: 30%;'>
+<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Personnalisable</div>
+<div class="atout" style="text-align: left">Si vous le souhaitez : <ul><li>Ajoutez <b>un objet et un message</b> à votre envoi</li>
+<li><b>Choisissez le mot de passe</b> de votre pli</li>
+<li><b>Modifiez la durée de conservation</b> (1j à 3 mois - par défaut 30j)</li>
+<li>Envoyez directement le pli <b>par courriel</b> aux destinataires, ou faites-vous envoyer <b>un lien</b> que vous transmettrez vous-même</li></ul>
+</div>
+</div>
+</div>
+</div>
+<br>
+<br>
+
 
 <div class="noir encadre"> <figure class="image-center" style="width: 8%;"><img src="/uploads/outils.png"></figure> <h2 class="text-center margin-bottom-1 margin-top-0" id="les-caractéristiques-en-bref">Les caractéristiques en bref</h2> 
 <ul> <li><strong>Création d’un webinaire réservée aux agents de l’État</strong></li> 
