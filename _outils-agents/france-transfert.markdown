@@ -66,13 +66,11 @@ layout: rgaa
 * Un usager doit vous faire parvenir des pièces justificatives qui ne passent pas par courriel ?
 * Votre prestataire doit rapidement vous transmettre des documents volumineux ?
 
-La plateforme France transfert vous permet de partager des fichiers non sensibles très simplement entre agents et avec vos usagers et partenaires. 
+La plateforme France transfert vous permet de partager des fichiers non sensibles très simplement entre agents et avec vos usagers et partenaires.
 
 Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents de l’État.
 <br>
 <br>
-
-
 
 <div class="wrapper">
 <div class="panel"><figure class='image-center' style='width: 30%;'>
@@ -106,14 +104,9 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <br>
 <br>
 
-
-
-
-
-
-
 ## Comment ça marche ?
 {: .margin-bottom-1}
+
 ### Pour envoyer un pli
 Très simple et intuitif, le service vous permet d’effectuer un envoi en quelques minutes.
 
@@ -125,11 +118,9 @@ Très simple et intuitif, le service vous permet d’effectuer un envoi en quelq
 * **Renseignez le code de vérification** envoyé sur votre adresse courriel
 * **Terminé !**
 
-Si vous avez choisi l’envoi par courriel, vos destinataires reçoivent directement le lien de téléchargement par courriel, et, séparément, le mot de passe. 
+Si vous avez choisi l’envoi par courriel, vos destinataires reçoivent directement le lien de téléchargement par courriel, et, séparément, le mot de passe.
 
 Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du pli, à transmettre vous-même à qui vous le souhaitez.
-
-
 
 ## Les atouts de France transfert
 {: .margin-bottom-1}
@@ -138,7 +129,7 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Pratique</div>
 <div class="atout" style="text-align: left"><ul><li>Envoyez et recevez des fichiers ou dossiers <b>jusqu’à 20 Go</b> (2 Go max par fichier)</li><li><b>Disponible sur ordinateur et sur mobile</b></li>
-<li><b>Accessible depuis votre ordinateur professionnel, <b>sans besoin de vous déconnecter</b> du réseau de l’État</li>
+<li>Accessible depuis votre ordinateur professionnel, <b>sans besoin de vous déconnecter</b> du réseau de l’État</li>
 <li>Possibilité d’envoyer à une liste de contacts, <b>jusqu’à 100 destinataires</b></li><li>Fichiers conservés par défaut pendant 1 mois</li><li><b>Recevez une notification</b> lorsqu’un destinataire télécharge votre pli</li></ul></div>
 </div>
 <div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
@@ -164,8 +155,6 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 </div>
 <br>
 <br>
-
-
 
 ## Les atouts de France transfert
 {: .margin-bottom-1}
@@ -200,12 +189,11 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 <br>
 <br>
 
-
-<div class="noir encadre"> <figure class="image-center" style="width: 8%;"><img src="/uploads/outils.png"></figure> <h2 class="text-center margin-bottom-1 margin-top-0" id="les-caractéristiques-en-bref">Les caractéristiques en bref</h2> 
-<ul> <li><strong>Création d’un webinaire réservée aux agents de l’État</strong></li> 
-<li><strong>Jusqu’à 350 participants simultanés,</strong> internes ou externes à l’administration</li> 
-<li><strong>Configuration sur mesure ou par défaut </strong> selon les besoins et le type d’événements</li> 
-<li>Accessible facilement <strong>depuis votre navigateur sur ordinateur</strong>, <strong>mobile ou tablette</strong> <i>(Edge, Chrome ou Chromium recommandés)</i></li> <li><strong>Nombreuses fonctionnalités </strong> de présentation et de collaboration</li> 
+<div class="noir encadre"> <figure class="image-center" style="width: 8%;"><img src="/uploads/outils.png"></figure> <h2 class="text-center margin-bottom-1 margin-top-0" id="les-caractéristiques-en-bref">Les caractéristiques en bref</h2>
+<ul> <li><strong>Création d’un webinaire réservée aux agents de l’État</strong></li>
+<li><strong>Jusqu’à 350 participants simultanés,</strong> internes ou externes à l’administration</li>
+<li><strong>Configuration sur mesure ou par défaut </strong> selon les besoins et le type d’événements</li>
+<li>Accessible facilement <strong>depuis votre navigateur sur ordinateur</strong>, <strong>mobile ou tablette</strong> <i>(Edge, Chrome ou Chromium recommandés)</i></li> <li><strong>Nombreuses fonctionnalités </strong> de présentation et de collaboration</li>
 <li><strong>Solution de confiance</strong>, proposée par l’État, hébergée en France</li> </ul> </div>
 <br><br>
 <div align="center" style="margin-bottom: 40px"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Accéder au Webinaire de l'État</b></a> </div>
