@@ -60,6 +60,11 @@ style: |-
     color: #095D9C;
     font-weight: bold;
   }
+
+
+  .fonctionnalite {
+    font-size: 0.875em;
+  }
 layout: rgaa
 ---
 
@@ -86,7 +91,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 Envoyez et recevez des fichiers ou dossiers jusqu’à 20 Go (2 Go max par fichier)</div>
 <div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'><img src="/uploads/Video.svg"/></figure>
 <div class="titre-fonctionnalite">De et vers des agents de l’État</div>
-Dédié aux envois entre agents de l’État ou entre agents de l’État et usagers, prestataires, partenaires, internes ou externes… 
+<div class="fonctionnalite">Dédié aux envois entre agents de l’État ou entre agents de l’État et usagers, prestataires, partenaires, internes ou externes…</div>
 </div>
 <div class="panel"><figure class='image-center' style='width: 18%;'>
 <img src="/uploads/Audio.svg"/></figure><div class="titre-fonctionnalite">Jusqu'à 100 destinataires</div>
