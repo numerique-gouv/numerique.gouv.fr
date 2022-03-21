@@ -183,7 +183,7 @@ Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État incl
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Personnalisable</div>
 <div class="atout" style="text-align: left">Si vous le souhaitez : <ul><li>Ajoutez un message à votre envoi</li>
 <li>Choisissez le mot de passe de votre pli</li>
-<li>Modifiez la durée de conservation…</li>
+<li>Modifiez la durée de conservation(1j à 3 mois - par défaut 30j)</li>
 <li>Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même</li></ul>
 </div>
 </div>
