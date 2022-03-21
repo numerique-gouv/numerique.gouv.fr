@@ -21,25 +21,14 @@ style: |-
 
   .wrapper {
     max-width: 940px;
-    margin: 0 20px;
+    margin: 0 auto;
     display: grid;
     grid-gap: 10px;
-  }
-
-  .wrapper {
-    display: flex;
-    flex-wrap: wrap;
-  }
-
-  .wrapper {
-    display: grid;
-    margin: 0 auto;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     grid-auto-rows: minmax(150px, auto);
   }
 
   .panel {
-    /* needed for the flex layout*/
     margin-left: 5px;
     margin-right: 5px;
     flex: 1 1 200px;
@@ -91,7 +80,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <div class="fonctionnalite">Envoyez et recevez des fichiers ou dossiers jusqu’à 20 Go (2 Go max par fichier)</div></div>
 <div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'><img src="/uploads/Video.svg"/></figure>
 <div class="titre-fonctionnalite">De et vers des agents de l’État</div>
-<div class="fonctionnalite">Dédié aux envois entre agents de l’État ou entre agents de l’État et usagers, prestataires, partenaires, internes ou externes…</div>
+<div class="fonctionnalite">Dédié aux envois entre agents de l’État ou entre agents de l’État et usagers, prestataires, partenaires, internes ou externes (dans les 2 sens)…</div>
 </div>
 <div class="panel"><figure class='image-center' style='width: 18%;'>
 <img src="/uploads/Audio.svg"/></figure><div class="titre-fonctionnalite">Jusqu'à 100 destinataires</div>
@@ -165,7 +154,9 @@ Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État incl
 <div class="wrapper">
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Pratique</div>
-<div class="atout" style="text-align: left"><ul><li>Envoyez et recevez des fichiers ou dossiers <b>jusqu’à 20 Go</b> (2 Go max par fichier)</li><li><b>Disponible sur ordinateur et sur mobile</b></li><li>Possibilité d’envoyer à une liste de contacts, <b>jusqu’à 100 destinataires</b></li><li>Fichiers conservés par défaut pendant 1 mois</li><li><b>Recevez une notification</b> lorsqu’un destinataire télécharge votre pli</li></ul></div>
+<div class="atout" style="text-align: left"><ul><li>Envoyez et recevez des fichiers ou dossiers <b>jusqu’à 20 Go</b> (2 Go max par fichier)</li><li><b>Disponible sur ordinateur et sur mobile</b></li>
+<li><b>Accessible depuis votre ordinateur professionnel, <b>sans besoin de vous déconnecter</b> du réseau de l’État</li>
+<li>Possibilité d’envoyer à une liste de contacts, <b>jusqu’à 100 destinataires</b></li><li>Fichiers conservés par défaut pendant 1 mois</li><li><b>Recevez une notification</b> lorsqu’un destinataire télécharge votre pli</li></ul></div>
 </div>
 <div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
 <img src="/uploads/Video.svg"/>
