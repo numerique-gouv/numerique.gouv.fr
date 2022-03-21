@@ -198,7 +198,6 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 </div>
 </div>
 </div>
-</div>
 <br>
 <br>
 
