@@ -200,39 +200,3 @@ Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État incl
 <ul><li><a href="/outils-agents/webconference-etat/">Webconférence de l’État (Webconf)</a></li>
 <li><a href="/outils-agents/webinaire-etat/">Webinaire de l'État</a></li>
 <li><a href="/outils-agents/audioconference-etat/">Audioconférence de l’État (Audioconf)</a></li></ul></p>
-
-
-
-
-<div class="wrapper">
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Pratique</div>
-Envoyez et recevez des fichiers ou dossiers jusqu’à 20 Go (2 Go max par fichier)
-<br>Disponible sur ordinateur et sur mobile
-<br>Possibilité d’envoyer à une liste de contacts, jusqu’à 100 destinataires
-<br>Fichiers conservés par défaut pendant 1 mois
-<br>Recevez une notification lorsqu’un destinataire télécharge votre pli
-</div>
-<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
-<img src="/uploads/Video.svg"/>
-</figure><div class="titre-fonctionnalite">Simple</div>
-<b>Service intuitif</b>, simple d’utilisation. 
-<br>Effectuez un envoi en moins de 5 minutes.
-</div>
-<div class="panel"><figure class='image-center' style='width: 18%;'>
-<img src="/uploads/Audio.svg"/></figure><div class="titre-fonctionnalite">Sécurisé</div>
-Protection des plis par mot de passe (personnalisable)
-<br>Analyse anti-virus
-<br>Hébergement sur un Cloud français
-<br>Service homologué RGS (référentiel général de sécurité)</div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Personnalisable</div>
-Si vous le souhaitez :
-<br>Ajoutez un message à votre envoi
-<br>Choisissez le mot de passe de votre pli
-<br>Modifiez la durée de conservation…
-<br>Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même
-</div>
-</div>
-<br>
-<br>
