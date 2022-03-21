@@ -84,9 +84,8 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Envoi et réception de fichiers volumineux</div>
 Envoyez et recevez des fichiers ou dossiers jusqu’à 20 Go (2 Go max par fichier)</div>
-<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
-<img src="/uploads/Video.svg"/>
-</figure><div class="titre-fonctionnalite">De et vers des agents de l’État</div>
+<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'><img src="/uploads/Video.svg"/></figure>
+<div class="titre-fonctionnalite">De et vers des agents de l’État</div>
 Dédié aux envois entre agents de l’État ou entre agents de l’État et usagers, prestataires, partenaires, internes ou externes… 
 </div>
 <div class="panel"><figure class='image-center' style='width: 18%;'>
@@ -102,8 +101,7 @@ Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoye
 </div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Conservation jusqu’à 1 mois</div>
-Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)
-</div>
+Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)</div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
 Chaque fichier est analysé par un anti-virus.
@@ -175,7 +173,7 @@ Basé sur le logiciel libre réputé BigBlueButton, le Webinaire de l'État incl
 <div class="atout" style="text-align: left"><ul><li>Protection des plis par mot de passe (personnalisable)</li>
 <li>Analyse anti-virus</li>
 <li>Hébergement sur un Cloud français</li>
-<li>Service homologué RGS (référentiel général de sécurité)</li></ul></div>
+<li>Service homologué RGS (référentiel général de sécurité)</li></ul></div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Personnalisable</div>
 <div class="atout" style="text-align: left">Si vous le souhaitez : <ul><li>Ajoutez un message à votre envoi</li>
