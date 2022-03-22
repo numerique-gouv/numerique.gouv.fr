@@ -9,7 +9,7 @@ style: "\ndate {\n  font-size: 0.875em; \n  font-weight: bold;\n  display: block
 layout: page-annexe
 ---
 
-<p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits... Ainsi que nos contributions à diverses publications.</p>
+<p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
 <titre><a href="https://www.cio-online.com/actualites/lire-un-referentiel-unique-pour-l-ecoresponsabilite-numerique-de-a-a-z-14030.html" title="Un référentiel unique pour l'écoresponsabilité numérique de A à Z - Lien externe">Un référentiel unique pour l’écoresponsabilité numérique de A à Z</a></titre>
 <date>17 mars 2022</date>
@@ -26,7 +26,7 @@ layout: page-annexe
 <media>La Gazette des Communes</media>
 
 
-<titre><a href="https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N19__Les_veilles_fevrier_2022.pdf" title="Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ? - Lien externe - Ouvre un pdf">Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ?</a></titre>
+<titre><a href="https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N19__Les_veilles_fevrier_2022.pdf" title="Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ? - Lien externe - Ouvre un pdf">Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ? (pdf - 4 Mo)</a></titre>
 <date>Février 2022</date>
 <p class="margin-0">Dans : La collection numérique - Les Veilles #19
 <br>Éditeur : L'Agence de mutualisation des universités et établissements (AMUE)</p>
