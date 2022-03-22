@@ -136,6 +136,6 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 <br>
 
 <p><b>Découvrir aussi :</b>
-<ul><li><a href="/outils-agents/webconference-etat/">Webconférence de l’État (Webconf)</a></li>
-<li><a href="/outils-agents/webinaire-etat/">Webinaire de l'État</a></li>
+<ul><li><a href="/outils-agents/webinaire-etat/">Webinaire de l'État</a></li>
+<li><a href="/outils-agents/webconference-etat/">Webconférence de l’État (Webconf)</a></li>
 <li><a href="/outils-agents/audioconference-etat/">Audioconférence de l’État (Audioconf)</a></li></ul></p>
