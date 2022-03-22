@@ -83,7 +83,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 </div>
 <div class="panel"><figure class='image-center' style='width: 18%;'>
 <img src="/uploads/Audio.svg"/></figure><div class="titre-fonctionnalite">Jusqu'à 100 destinataires</div>
-<div class="fonctionnalite">Envoyez vos fichiers à plusieurs destinataires en une seule opération, et même via une <b>liste de contacts</b></div></div>
+<div class="fonctionnalite">Envoyez vos fichiers à plusieurs destinataires <b>en une seule opération</b>, et même via une <b>liste de contacts</b></div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sur tous vos appareils</div>
 <div class="fonctionnalite">Disponible sur <b>ordinateur, mobile et tablette</b>
@@ -105,7 +105,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <img src="/uploads/Video.svg"/>
 </figure><div class="titre-fonctionnalite">Simplicité</div>
 <div class="atout" style="text-align: left"><ul><li><b>Service intuitif</b>, simple d’utilisation.</li>
-<li>Effectuez un envoi <b>en moins de 5 minutes</b>.</li></ul></div></div>
+<li>Effectuez un envoi <b>en moins de 2 minutes</b>.</li></ul></div></div>
 </div>
 <br>
 <br>
@@ -119,9 +119,9 @@ Très simple et intuitif, le service vous permet d’effectuer un envoi en quelq
 * **Rendez-vous sur [francetransfert.numerique.gouv.fr](https://francetransfert.numerique.gouv.fr "francetransfert.numerique.gouv.fr - lien externe")** ou ouvrez l’application mobile
 * **Ajoutez vos fichiers ou dossiers** via l’explorateur de fichiers ou glissez et déposez-les
 * **Choisissez le mode d’envoi :** par courriel directement aux destinataires ou via un lien à partager
-* **Saisissez les courriels** de l’expéditeur et du ou des destinataire(s). En option, ajoutez un objet et un message
+* **Renseignez les courriels** de l’expéditeur et du ou des destinataire(s). En option, ajoutez un objet et un message
 * **Personnalisez** si vous le souhaitez la durée de conservation (1j à 3 mois - par défaut 30j) et le mot de passe du pli
-* **Renseignez le code de vérification** envoyé sur votre adresse courriel
+* **Saisissez le code de vérification** envoyé sur votre adresse courriel
 * **Terminé !**
 
 Si vous avez choisi l’envoi par courriel, vos destinataires reçoivent directement le lien de téléchargement par courriel, et, séparément, le mot de passe.
