@@ -97,10 +97,15 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <div class="fonctionnalite">Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)</div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
-<div class="fonctionnalite">Analyse anti-virus de chaque fichier.
-<br>Pli protégé par mot de passe.
-<br>Service homologué RGS (référentiel général de sécurité).
+<div class="fonctionnalite"><ul><li>Analyse anti-virus de chaque fichier</li>
+<li>Pli protégé par mot de passe</li>
+<li>Service homologué RGS (référentiel général de sécurité).</li></ul>
 </div></div>
+<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
+<img src="/uploads/Video.svg"/>
+</figure><div class="titre-fonctionnalite">Simple</div>
+<div class="atout" style="text-align: left"><ul><li><b>Service intuitif</b>, simple d’utilisation.</li>
+<li>Effectuez un envoi <b>en moins de 5 minutes</b>.</li></ul></div></div>
 </div>
 <br>
 <br>
@@ -111,7 +116,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 ### Pour envoyer un pli
 Très simple et intuitif, le service vous permet d’effectuer un envoi en quelques minutes.
 
-* **Rendez-vous sur francetransfert.numerique.gouv.fr** ou ouvrez l’application mobile
+* **Rendez-vous sur [francetransfert.numerique.gouv.fr](https://francetransfert.numerique.gouv.fr "francetransfert.numerique.gouv.fr - lien externe")** ou ouvrez l’application mobile
 * **Ajoutez vos fichiers ou dossiers** via l’explorateur de fichiers ou glissez et déposez-les
 * **Choisissez le mode d’envoi :** par courriel directement aux destinataires ou via un lien à partager
 * **Saisissez les courriels** de l’expéditeur et du ou des destinataire(s). En option, ajoutez un objet et un message
