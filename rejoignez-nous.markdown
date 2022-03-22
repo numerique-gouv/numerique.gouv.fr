@@ -40,6 +40,18 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Développeur/Développeuse au sein de la Brigade d'Intervention Numérique H/F](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-au-sein-de-la-brigade-d-intervention-numerique---cdd-20-mois-hf-reference-2022-850923/ "Développeur/Développeuse au sein de la Brigade d'Intervention Numérique H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Designer UX/UI H/F](https://place-emploi-public.gouv.fr/offre-emploi/designer-uxui---cdd-de-20-mois-hf-reference-2022-850892/ "Designer UX/UI - CDD de 20 mois H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Product Owner H/F](https://place-emploi-public.gouv.fr/offre-emploi/product-owner-hf-reference-2022-850905/ "Product Owner H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Tchap, mission Beta - Architecte Système / DevOps H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-systeme--devops-hf-cdd3ans-reference-2022-825703/ "Architecte Système / DevOps H/F - Lien externe")**
 <br>Cadre/Catégorie A, sur Paris ou Lyon
 <br>

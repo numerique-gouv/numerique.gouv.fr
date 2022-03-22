@@ -2,6 +2,7 @@
 title: France transfert
 date: 2022-02-16 16:03:00 +01:00
 permalink: "/outils-agents/france-transfert/"
+published: false
 chapeau-text: Un service interministériel d’envoi de fichiers volumineux, simple et
   sécurisé, jusqu’à 20 Go, entre agents de l’État, mais aussi avec les usagers, partenaires
   et prestataires.
@@ -127,7 +128,7 @@ Si vous avez choisi l’envoi par courriel, vos destinataires reçoivent directe
 Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du pli, à transmettre vous-même à qui vous le souhaitez.
 <br>
 <br>
-<p>Pour plus d'informations, rendez-vous sur <a href="https://francetransfert.numerique.gouv.fr/faq "la FAQ - Lien externe" title="la FAQ">la FAQ</a> de l’outil.</p>
+<p>Pour plus d'informations, rendez-vous sur <a href="https://francetransfert.numerique.gouv.fr/faq" title="la FAQ - Lien externe">la FAQ</a> de l’outil.</p>
 <br>
 <br>
 <div align="center" style="margin-bottom: 80px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
