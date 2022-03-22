@@ -87,13 +87,13 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sur tous vos appareils</div>
 <div class="fonctionnalite">Disponible sur ordinateur, mobile et tablette
-</div></div>
+<br>Accessible depuis votre ordinateur professionnel, sans vous déconnecter du réseau de l’État</div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Transfert par courriel ou lien</div>
 <div class="fonctionnalite">Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même</div>
 </div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Conservation jusqu’à 1 mois</div>
+<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Téléchargeables pendant 1 mois</div>
 <div class="fonctionnalite">Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)</div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
@@ -130,7 +130,7 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Pratique</div>
 <div class="atout" style="text-align: left"><ul><li>Envoyez et recevez des fichiers ou dossiers <b>jusqu’à 20 Go</b> (2 Go max par fichier)</li><li><b>Disponible sur ordinateur et sur mobile</b></li>
-<li>Accessible depuis votre ordinateur professionnel, <b>sans besoin de vous déconnecter</b> du réseau de l’État</li>
+<li>Accessible depuis votre ordinateur professionnel, <b>sans vous déconnecter</b> du réseau de l’État</li>
 <li>Possibilité d’envoyer à une liste de contacts, <b>jusqu’à 100 destinataires</b></li><li>Fichiers conservés par défaut pendant 1 mois</li><li><b>Recevez une notification</b> lorsqu’un destinataire télécharge votre pli</li></ul></div>
 </div>
 <div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
