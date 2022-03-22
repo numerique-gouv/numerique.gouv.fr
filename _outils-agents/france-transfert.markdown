@@ -85,7 +85,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <div class="fonctionnalite">Envoyez vos fichiers à plusieurs destinataires <b>en une seule opération</b>, et même via une <b>liste de contacts</b></div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sur tous vos appareils</div>
-<div class="fonctionnalite" style="text-align: left">Disponible sur <b>ordinateur, mobile et tablette</b>Accessible depuis votre ordinateur professionnel, <b>sans vous déconnecter du réseau de l’État</b></ul></div></div>
+<div class="fonctionnalite" style="text-align: left">Disponible sur <b>ordinateur, mobile et tablette</b><br>Accessible depuis votre ordinateur professionnel, <b>sans vous déconnecter du réseau de l’État</b></div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Transfert par courriel ou lien</div>
 <div class="fonctionnalite"><b>Envoyez directement le pli par courriel</b> aux destinataires, ou <b>faites-vous envoyer un lien</b> que vous transmettrez vous-même</div>
