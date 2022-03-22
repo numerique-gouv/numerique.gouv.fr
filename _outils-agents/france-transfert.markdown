@@ -102,8 +102,8 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
 <img src="/uploads/Video.svg"/>
 </figure><div class="titre-fonctionnalite">Simplicité</div>
-<div class="atout" style="text-align: left"><ul><li><b>Service intuitif</b>, simple d’utilisation.</li>
-<li>Effectuez un envoi <b>en moins de 2 minutes</b>.</li></ul></div></div>
+<div class="atout" style="text-align: left"><b>Service intuitif</b>, simple d’utilisation.</li>
+Effectuez un envoi <b>en moins de 2 minutes</b>.</div></div>
 </div>
 <br>
 <br>
