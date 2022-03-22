@@ -90,7 +90,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <br>Accessible depuis votre ordinateur professionnel, <b>sans vous déconnecter du réseau de l’État</b></div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Transfert par courriel ou lien</div>
-<div class="fonctionnalite">Envoyez directement le pli <b>par courriel</b> aux destinataires, ou faites-vous envoyer <b>un lien</b> que vous transmettrez vous-même</div>
+<div class="fonctionnalite"><b>Envoyez directement le pli par courriel</b> aux destinataires, ou <b>faites-vous envoyer un lien</b> que vous transmettrez vous-même</div>
 </div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Téléchargeables pendant 1 mois</div>
