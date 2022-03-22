@@ -83,27 +83,27 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 </div>
 <div class="panel"><figure class='image-center' style='width: 18%;'>
 <img src="/uploads/Audio.svg"/></figure><div class="titre-fonctionnalite">Jusqu'à 100 destinataires</div>
-<div class="fonctionnalite">Envoyez vos fichiers à plusieurs destinataires en une seule opération, et même à une liste de contacts</div></div>
+<div class="fonctionnalite">Envoyez vos fichiers à plusieurs destinataires en une seule opération, et même via une <b>liste de contacts</b></div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sur tous vos appareils</div>
-<div class="fonctionnalite">Disponible sur ordinateur, mobile et tablette
-<br>Accessible depuis votre ordinateur professionnel, sans vous déconnecter du réseau de l’État</div></div>
+<div class="fonctionnalite">Disponible sur <b>ordinateur, mobile et tablette</b>
+<br>Accessible depuis votre ordinateur professionnel, <b>sans vous déconnecter du réseau de l’État</b></div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Transfert par courriel ou lien</div>
-<div class="fonctionnalite">Envoyez directement le pli par courriel aux destinataires, ou faites-vous envoyer un lien que vous transmettrez vous-même</div>
+<div class="fonctionnalite">Envoyez directement le pli <b>par courriel</b> aux destinataires, ou faites-vous envoyer <b>un lien</b> que vous transmettrez vous-même</div>
 </div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Téléchargeables pendant 1 mois</div>
 <div class="fonctionnalite">Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)</div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
-<div class="fonctionnalite"><ul><li>Analyse anti-virus de chaque fichier</li>
-<li>Pli protégé par mot de passe</li>
-<li>Service homologué RGS (référentiel général de sécurité).</li></ul>
+<div class="fonctionnalite"><ul><li><b>Analyse anti-virus</b> de chaque fichier</li>
+<li><b>Pli protégé</b> par mot de passe</li>
+<li>Service <b>homologué RGS</b> (référentiel général de sécurité).</li></ul>
 </div></div>
 <div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
 <img src="/uploads/Video.svg"/>
-</figure><div class="titre-fonctionnalite">Simple</div>
+</figure><div class="titre-fonctionnalite">Simplicité</div>
 <div class="atout" style="text-align: left"><ul><li><b>Service intuitif</b>, simple d’utilisation.</li>
 <li>Effectuez un envoi <b>en moins de 5 minutes</b>.</li></ul></div></div>
 </div>
