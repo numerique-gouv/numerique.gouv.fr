@@ -164,7 +164,7 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 <li>Accessible facilement <strong>depuis votre navigateur sur ordinateur</strong>, <strong>mobile ou tablette</strong> <i>(Edge, Chrome ou Chromium recommandés)</i></li> <li><strong>Nombreuses fonctionnalités </strong> de présentation et de collaboration</li>
 <li><strong>Solution de confiance</strong>, proposée par l’État, hébergée en France</li> </ul> </div>
 <br><br>
-<div align="center" style="margin-bottom: 40px"><a href="https://webinaire.numerique.gouv.fr/" class="button"><b>Accéder au Webinaire de l'État</b></a> </div>
+<div align="center" style="margin-bottom: 40px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
 
 <p><i>Conçu et opéré par le ministère de la Culture, France transfert est mis à la disposition de l’ensemble des agents de l’État par la DINUM. Il s'insère ainsi dans le sac à dos numérique de l’agent (SNAP), dans le cadre du programme <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">TECH.GOUV</a> d’accélération de la transformation numérique du service public.
 <br>La solution est hébergée sur un Cloud français via l’<a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" title="offre de Cloud externe - lien externe">offre de Cloud externe</a> dédiée aux services publics.</i></p>
