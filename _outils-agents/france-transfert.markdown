@@ -96,7 +96,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
 <div class="fonctionnalite" style="text-align: left"><b>Analyse anti-virus</b> de chaque fichier
-<br><b>Pli protégé</b> par mot de passe
+<br><b>Pli protégé</b> par mot de passe (personnalisable)
 <br>Service <b>homologué RGS</b> (référentiel général de sécurité).
 <br>Hébergé <b>en France</b></div></div>
 <div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
