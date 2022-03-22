@@ -127,7 +127,9 @@ Si vous avez choisi l’envoi par courriel, vos destinataires reçoivent directe
 Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du pli, à transmettre vous-même à qui vous le souhaitez.
 <br>
 <br>
-
+<p>Pour plus d'informations, rendez-vous sur [la FAQ](https://francetransfert.numerique.gouv.fr/faq "la FAQ - Lien externe") de l’outil.</p>
+<br>
+<br>
 <div align="center" style="margin-bottom: 80px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
 
 <p><i>Conçu et opéré par le ministère de la Culture, France transfert est mis à la disposition de l’ensemble des agents de l’État par la direction interministérielle du numérique (DINUM). Il s'insère ainsi dans le sac à dos numérique de l’agent (SNAP), dans le cadre du programme <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">TECH.GOUV</a> d’accélération de la transformation numérique du service public.
