@@ -41,7 +41,7 @@ Venez poser vos questions à nos expert(e)s métier. Du formulaire de candidatur
 
 ### Déroulé :
 * **13h45 – 14h :** présentation du programme EIG et de la procédure de candidature 
-* **14h – 14h30 :** témoignage de Frédérique Doman, coach design, et de Laurine Bois, une entrepreneuse d'intérêt général et juriste du numérique.
+* **14h – 14h30 :** témoignage de Frédérique Doman, coach design, et de Laurine Bois, entrepreneuse d'intérêt général et juriste du numérique.
 * **14h30 – 14h45 :** questions et réponses
 
 <br>
