@@ -10,8 +10,8 @@ tags:
 - Emploi
 chapeau-text: Retrouvez une présentation du programme Entrepreneurs d’intérêt général
   (EIG) et de son 6ème appel à candidatures, au cours de laquelle interviendront Frédérique
-  Doman, coach design du programme et d'une juriste du numérique, entrepreneuse d'intérêt
-  général. La session se clôturera par un échange de questions-réponses.
+  Doman, coach design du programme et Laurine Bois, juriste du numérique, entrepreneuse
+  d'intérêt général. La session se clôturera par un échange de questions-réponses.
 categorie: Webinaire d'information
 une-ou-diaporama:
 - image: "/uploads/2022_03_11_1200x675_EIG-Webinaire_Design-et-droit-du-numerique_twitter.jpg"
