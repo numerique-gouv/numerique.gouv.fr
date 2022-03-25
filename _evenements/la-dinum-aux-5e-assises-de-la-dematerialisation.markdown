@@ -34,7 +34,7 @@ champs_informations:
 * Repenser les procédures quand « digitaliser » ne suffit pas et ce, en toute sécurité (gestion des données, archivage, cyber sécurité)
 * Anticiper les conséquences environnementales de la dématérialisation
 
-### Lors de cet événement, des représentants de la DINUM interviendront à : 
+Lors de cet événement, des représentants de la DINUM participeront à des tables rondes animées par la rédaction de la Gazette des communes :
 
 * **9h30 – 10h45 :** Table ronde **« Quels outils développer pour une dématérialisation de qualité »** avec Patrick Ruestchmann, chef de la mission [Transformation numérique de l'Etat](https://www.numerique.gouv.fr/services/tnt/) (DINUM) 
 * **11h30 – 12h45 :** Table ronde **« Enjeux et défis de la souveraineté numérique des collectivités »** avec Christine Balian, directrice du programme FranceConnect et de la mission IDNUM du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) (DINUM)
