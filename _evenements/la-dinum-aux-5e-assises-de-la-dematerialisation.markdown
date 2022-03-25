@@ -15,7 +15,6 @@ une-ou-diaporama:
     5e assises de la dématérialisation
     31 mai 2022 - 100% digital, live et replay
 event_start_date: 2022-05-31 09:00:00 +02:00
-event_end_date: 2022-05-31 17:15:00 +02:00
 champs_informations:
 - intitule: Modalités
   contenu: inscription obligatoire
