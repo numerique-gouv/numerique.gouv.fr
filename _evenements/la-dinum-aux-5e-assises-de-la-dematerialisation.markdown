@@ -16,5 +16,9 @@ une-ou-diaporama:
     31 mai 2022 - 100% digital, live et replay
 event_start_date: 2022-05-31 09:00:00 +02:00
 event_end_date: 2022-05-31 17:15:00 +02:00
+champs_informations:
+- intitule: Modalités
+  contenu: inscription obligatoire
+  lien: https://evenements.infopro-digital.com/gazette-des-communes/evenement-assises-de-la-dematerialisation-2022-p-15142#/
 ---
 
