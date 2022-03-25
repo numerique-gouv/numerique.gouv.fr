@@ -27,10 +27,6 @@ champs_informations:
   lien: 
 ---
 
-<div class="citation"><p>Lutter contre la fracture numérique est à la fois une question de pur accès aux droits et aux services publics désormais numérisés mais aussi de compréhension du monde dans lequel nous vivons.</p></div>
-
-<div class="auteur-citation">Cédric O, Secrétaire d'Etat chargé de la Transition numérique et des Communications électroniques.</div>
-
 ### Les objectifs de la 5e édition des Assises de la dématérialisation : 
 * Faire le point sur l’objectif « Full Démat’ » 2022
 * Poursuivre la transformation digitale des services publics tant aux bénéfices des agents que des usagers
