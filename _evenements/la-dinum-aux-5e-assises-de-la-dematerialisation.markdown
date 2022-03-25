@@ -22,3 +22,18 @@ champs_informations:
   lien: https://evenements.infopro-digital.com/gazette-des-communes/evenement-assises-de-la-dematerialisation-2022-p-15142#/
 ---
 
+### Les objectifs de la 5e édition des Assises de la dématérialisation : 
+* Faire le point sur l’objectif « Full Démat’ » 2022
+* Poursuivre la transformation digitale des services publics tant aux bénéfices des agents que des usagers
+* Appréhender les enjeux et solutions relatifs à la qualité et à l’accessibilité des services publics dématérialisés (accès aux droits, relations agents-usagers, etc.)
+* Repenser les procédures quand « digitaliser » ne suffit pas et ce, en toute sécurité (gestion des données, archivage, cyber sécurité)
+* Anticiper les conséquences environnementales de la dématérialisation
+
+Lors de cet événement, des représentants de la DINUM participeront à des tables rondes animées par la rédaction de la Gazette des communes : 
+
+### Déroulé :
+* **9h30 – 10h45 :** Table ronde « Quels outils développer pour une dématérialisation de qualité » avec Patrick Ruestchmann, chef de la mission Transformation numérique de l'Etat (DINUM) 
+* **11h30 – 12h45 :** Table ronde « Enjeux et défis de la souveraineté numérique des collectivités » avec Christine Balian, directrice du programme FranceConnect et de la mission IDNUM du programme TECH.GOUV (DINUM)
+* **15h15 – 15h45 :** Conférence Focus – « Accessibilité « design » d’inclusion: ce qu’il reste à faire par les collectivités » avec Marine Boudeau, cheffe du pôle design des services numériques et haute-fonctionnaire au handicap et à l’inclusion (DINUM)
+
+Découvrez le programme complet des Assises de la dématérialisation organisées par la Gazette des Communes.
