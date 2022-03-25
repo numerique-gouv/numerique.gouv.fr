@@ -43,6 +43,3 @@ Lors de cet événement, des représentants de la DINUM participeront à des tab
 <div align="center"><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-assises-de-la-dematerialisation-2022-p-15142#/" class="button"><b>S'inscrire au webinaire</b></a><p class="ouverture">100% digital, live et replay</p></div>
 
 <div class="lien-important"><p><a href="https://evenements.infopro-digital.com/mediatheque/pdf/7/3/9/000102937.pdf">Téléchargez le programme complet des Assises de la dématérialisation organisées par la Gazette des Communes.</a></p></div>
-
-<div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>N'hésitez pas à jeter un coup d’œil sur <a href="https://www.lagazettedescommunes.com/dossiers/4emes-assises-de-la-dematerialisation-la-transformation-numerique-des-services-publics-accelere/"> l'édition précédente</a>. Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez contacter
-<a href="https://evenements.infopro-digital.com/gazette-des-communes/contact#/">la Gazette des Communes </a>.</p> </div>
