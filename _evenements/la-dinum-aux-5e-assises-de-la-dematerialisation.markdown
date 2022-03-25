@@ -19,6 +19,12 @@ champs_informations:
 - intitule: Modalités
   contenu: inscription obligatoire
   lien: https://evenements.infopro-digital.com/gazette-des-communes/evenement-assises-de-la-dematerialisation-2022-p-15142#/
+- intitule: Tarifs
+  contenu: |-
+    Collectivité < 40 000 habitants 590 € HT / Participant
+    Collectivité > 40 000 habitants 790 € HT / Participant
+    Entreprises publiques et privées, établissements publics 990 € HT / Participant
+  lien: 
 ---
 
 ### Les objectifs de la 5e édition des Assises de la dématérialisation : 
