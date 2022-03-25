@@ -20,11 +20,10 @@ champs_informations:
   contenu: inscription obligatoire
   lien: https://evenements.infopro-digital.com/gazette-des-communes/evenement-assises-de-la-dematerialisation-2022-p-15142#/
 - intitule: Tarifs
-  contenu: "Collectivité < 40 000 habitants 590 € HT –\nCollectivité > 40 000 habitants
-    790 € HT –\nEntreprises publiques et privées, établissements publics 990 € HT\n\nInscrivez-vous
-    à plusieurs pour bénéficier de tarifs réduits : \n-5% sur chaque inscription dès
-    le 2e inscrit\n-10% sur chaque inscription dès le 3e inscrit \n-15% sur chaque
-    inscription dès le 4e inscrit"
+  contenu: |-
+    Collectivité < 40 000 habitants 590 € HT –
+    Collectivité > 40 000 habitants 790 € HT –
+    Entreprises publiques et privées, établissements publics 990 € HT
   lien: 
 ---
 
@@ -49,5 +48,4 @@ champs_informations:
 
 <div class="lien-important"><p><a href="https://evenements.infopro-digital.com/mediatheque/pdf/7/3/9/000102937.pdf">Téléchargez le programme complet des Assises de la dématérialisation organisées par la Gazette des Communes.</a></p></div>
 
-<div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>Plus d’infos sur la Gazette des Communes<a href="https://evenements.infopro-digital.com/gazette-des-communes/contact#/</a> et à jeter un coup d’œil sur l'édition <a href="https://www.lagazettedescommunes.com/dossiers/4emes-assises-de-la-dematerialisation-la-transformation-numerique-des-services-publics-accelere/"> précédente</a>. Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez écrire à 
-<a href="mailto:eig@data.gouv.fr ">eig@data.gouv.fr</a>.</p> </div>
+<div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>Plus d’infos sur la Gazette des Communes <a href="https://evenements.infopro-digital.com/gazette-des-communes/contact#/</a> N'hésitez pas à jeter un coup d’œil sur <a href="https://www.lagazettedescommunes.com/dossiers/4emes-assises-de-la-dematerialisation-la-transformation-numerique-des-services-publics-accelere/"> l'édition précédente</a>.</p> </div>
