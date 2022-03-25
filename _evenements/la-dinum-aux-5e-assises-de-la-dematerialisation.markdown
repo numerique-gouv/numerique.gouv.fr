@@ -37,7 +37,9 @@ champs_informations:
 Lors de cet événement, des représentants de la DINUM participeront à des tables rondes animées par la rédaction de la Gazette des communes :
 
 * **9h30 – 10h45 :** Table ronde **« Quels outils développer pour une dématérialisation de qualité »** avec Patrick Ruestchmann, chef de la mission [Transformation numérique de l'Etat](https://www.numerique.gouv.fr/services/tnt/) (DINUM) 
+
 * **11h30 – 12h45 :** Table ronde **« Enjeux et défis de la souveraineté numérique des collectivités »** avec Christine Balian, directrice du programme FranceConnect et de la mission IDNUM du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) (DINUM)
+
 * **15h15 – 15h45 :** Conférence Focus – **« Accessibilité « design » d’inclusion : ce qu’il reste à faire par les collectivités »** avec Marine Boudeau, cheffe du [pôle design des services numériques et haute-fonctionnaire au handicap et à l’inclusion](https://design.numerique.gouv.fr/) (DINUM)
 
 <div align="center"><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-assises-de-la-dematerialisation-2022-p-15142#/" class="button"><b>S'inscrire au webinaire</b></a><p class="ouverture">100% digital, live et replay</p></div>
