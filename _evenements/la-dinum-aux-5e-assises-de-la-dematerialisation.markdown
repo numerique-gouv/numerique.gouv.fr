@@ -1,6 +1,7 @@
 ---
 title: La DINUM aux 5e Assises de la dématérialisation
 date: 2022-03-25 14:39:00 +01:00
+published: false
 categories:
 - Webinaire
 chapeau-text: À travers la présentation de plusieurs de ses programmes, la DINUM participera
