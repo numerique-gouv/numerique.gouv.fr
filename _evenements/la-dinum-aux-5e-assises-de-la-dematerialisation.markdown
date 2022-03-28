@@ -10,10 +10,10 @@ chapeau-text: À travers la présentation de plusieurs de ses programmes, la DIN
   dématérialisés aux besoins des usagers.
 categorie: Webinaire
 une-ou-diaporama:
-- image: "/uploads/2022_03_25_VISUEL_ASSISES_DEMATERIALISATION.PNG"
+- image: "/uploads/2022_03_28_VISUEL_ASSISES_DEMATERIALISATION.png"
   alternative-textuelle: |-
     5e assises de la dématérialisation
-    31 mai 2022 - 100% digital, live et replay
+    31 mai 2022 - webinaire
 event_start_date: 2022-05-31 09:00:00 +02:00
 champs_informations:
 - intitule: Modalités
