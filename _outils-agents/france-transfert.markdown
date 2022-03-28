@@ -94,7 +94,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <img src="/uploads/Calendrier.svg"/></figure><div class="titre-fonctionnalite">Téléchargeables pendant 1 mois</div>
 <div class="fonctionnalite">Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)</div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
+<img src="/uploads/Securite-2.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
 <div class="fonctionnalite" style="text-align: left"><b>Analyse anti-virus</b> de chaque fichier
 <br><b>Pli protégé</b> par mot de passe (personnalisable)
 <br>Service <b>homologué RGS</b> (référentiel général de sécurité).
