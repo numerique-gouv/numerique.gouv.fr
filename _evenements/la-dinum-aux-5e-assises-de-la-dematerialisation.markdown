@@ -21,9 +21,9 @@ champs_informations:
   lien: https://evenements.infopro-digital.com/gazette-des-communes/evenement-assises-de-la-dematerialisation-2022-p-15142#/
 - intitule: Tarifs
   contenu: |-
-    Collectivité < 40 000 habitants 590 € HT –
-    Collectivité > 40 000 habitants 790 € HT –
-    Entreprises publiques et privées, établissements publics 990 € HT
+    Collectivité < 20 000 habitants 690 € HT –
+    Collectivité > 20 000 habitants 890 € HT –
+    Entreprises publiques et privées, établissements publics 1090 € HT
   lien: 
 ---
 
