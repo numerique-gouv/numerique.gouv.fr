@@ -5,6 +5,8 @@ permalink: "/outils-agents/france-transfert/"
 chapeau-text: Un service interministériel d’envoi de fichiers volumineux, simple et
   sécurisé, jusqu’à 20 Go, entre agents de l’État, mais aussi avec les usagers, partenaires
   et prestataires.
+une-ou-diaporama:
+  image: "/uploads/2022_03_28_France-Transfert_1635x345.png"
 style: |-
   .button {
   background-color: #0d5c98;
