@@ -2,6 +2,7 @@
 title: France transfert
 date: 2022-02-16 16:03:00 +01:00
 permalink: "/outils-agents/france-transfert/"
+published: false
 chapeau-text: Un service interministériel d’envoi de fichiers volumineux, simple et
   sécurisé, jusqu’à 20 Go, entre agents de l’État, mais aussi avec les usagers, partenaires
   et prestataires.
