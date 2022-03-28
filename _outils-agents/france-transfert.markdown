@@ -93,13 +93,13 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <div class="panel"><figure class='image-center' style="width: 20%; margin-bottom: 15px;">
 <img src="/uploads/Calendrier.svg"/></figure><div class="titre-fonctionnalite">Téléchargeables pendant 1 mois</div>
 <div class="fonctionnalite">Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)</div></div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
+<div class="panel"><figure class='image-center' style='width: 25%;'>
 <img src="/uploads/Securite-2.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
 <div class="fonctionnalite" style="text-align: left"><b>Analyse anti-virus</b> de chaque fichier
 <br><b>Pli protégé</b> par mot de passe (personnalisable)
 <br>Service <b>homologué RGS</b> (référentiel général de sécurité).
 <br>Hébergé <b>en France</b></div></div>
-<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
+<div class="panel"><figure class='image-center' style="width: 25%;">
 <img src="/uploads/Simplicite-2.svg"/>
 </figure><div class="titre-fonctionnalite">Simplicité</div>
 <div class="atout" style="text-align: left"><b>Service intuitif</b>, simple d’utilisation.
