@@ -31,7 +31,7 @@ Afin de poursuivre la transformation numérique des collectivités, La Gazette d
 Assises de la dématérialisation !
 
 ### Les objectifs de cette 5e édition : 
-<br>
+
 * Faire le point sur l’objectif « Full Démat’ » 2022
 * Poursuivre la transformation digitale des services publics tant aux bénéfices des agents que des usagers
 * Appréhender les enjeux et solutions relatifs à la qualité et à l’accessibilité des services publics dématérialisés (accès aux droits, relations agents-usagers, etc.)
@@ -39,7 +39,7 @@ Assises de la dématérialisation !
 * Anticiper les conséquences environnementales de la dématérialisation
 
 ### Lors de cet événement, des représentants de la DINUM participeront à des tables rondes :
-<br>
+
 * **9h30 – 10h45 :** Table ronde **« Quels outils développer pour une dématérialisation de qualité »** avec Patrick Ruestchmann, chef de la mission [Transformation numérique de l'Etat](https://www.numerique.gouv.fr/services/tnt/) (DINUM) 
 
 * **11h30 – 12h45 :** Table ronde **« Enjeux et défis de la souveraineté numérique des collectivités »** avec Christine Balian, directrice du programme FranceConnect et de la mission IDNUM du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/) (DINUM)
