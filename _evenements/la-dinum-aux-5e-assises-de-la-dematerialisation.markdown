@@ -41,5 +41,5 @@ Entre décryptages, partages de bonnes pratiques et retours d’expériences, l�
 * **15h15 – 15h45 :** Conférence Focus – **« Accessibilité « design » d’inclusion : ce qu’il reste à faire par les collectivités »** avec Marine Boudeau, cheffe du [pôle design des services numériques et haute-fonctionnaire au handicap et à l’inclusion](https://design.numerique.gouv.fr/) (DINUM)
 
 <div align="center"><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-assises-de-la-dematerialisation-2022-p-15142#/" class="button"><b>S'inscrire au webinaire</b></a></div>
-
+<br>
 <div class="lien-important"><p><a href="/uploads/pap7Plaquette%20Assises%20de%20la%20d%C3%A9mat%C3%A9rialisation.pdf">Téléchargez le programme complet des Assises de la dématérialisation organisées par La Gazette des communes.</a></p></div>
