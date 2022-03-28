@@ -100,7 +100,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <br>Service <b>homologué RGS</b> (référentiel général de sécurité).
 <br>Hébergé <b>en France</b></div></div>
 <div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
-<img src="/uploads/Video.svg"/>
+<img src="/uploads/Simplicite-2.svg"/>
 </figure><div class="titre-fonctionnalite">Simplicité</div>
 <div class="atout" style="text-align: left"><b>Service intuitif</b>, simple d’utilisation.
 Effectuez un envoi <b>en moins de 2 minutes</b>.</div></div>
