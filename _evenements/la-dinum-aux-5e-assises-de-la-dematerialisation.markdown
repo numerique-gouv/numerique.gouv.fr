@@ -30,13 +30,7 @@ champs_informations:
 Afin de poursuivre la transformation numérique des collectivités, La Gazette des communes vous propose, pour la cinquième année, un événement majeur et incontournable pour les collectivités et les entreprises : les
 Assises de la dématérialisation !
 
-### Les objectifs de cette 5e édition : 
-
-* Faire le point sur l’objectif « Full Démat’ » 2022
-* Poursuivre la transformation digitale des services publics tant aux bénéfices des agents que des usagers
-* Appréhender les enjeux et solutions relatifs à la qualité et à l’accessibilité des services publics dématérialisés (accès aux droits, relations agents-usagers, etc.)
-* Repenser les procédures quand « digitaliser » ne suffit pas et ce, en toute sécurité (gestion des données, archivage, cyber sécurité)
-* Anticiper les conséquences environnementales de la dématérialisation
+Entre décryptages, partages de bonnes pratiques et retours d’expériences, l’objectif de cette nouvelle édition des Assises de la dématérialisation est de donner aux décideurs territoriaux les clés pour poursuivre la transformation digitale de leurs organisations tout en favorisant une meilleure accessibilité des procédures.
 
 ### Lors de cet événement, des représentants de la DINUM participeront à des tables rondes :
 
@@ -46,6 +40,6 @@ Assises de la dématérialisation !
 
 * **15h15 – 15h45 :** Conférence Focus – **« Accessibilité « design » d’inclusion : ce qu’il reste à faire par les collectivités »** avec Marine Boudeau, cheffe du [pôle design des services numériques et haute-fonctionnaire au handicap et à l’inclusion](https://design.numerique.gouv.fr/) (DINUM)
 
-<div align="center"><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-assises-de-la-dematerialisation-2022-p-15142#/" class="button"><b>S'inscrire au webinaire</b></a><p class="ouverture">100% digital, live et replay</p></div>
+<div align="center"><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-assises-de-la-dematerialisation-2022-p-15142#/" class="button"><b>S'inscrire au webinaire</b></a></div>
 
 <div class="lien-important"><p><a href="/uploads/pap7Plaquette%20Assises%20de%20la%20d%C3%A9mat%C3%A9rialisation.pdf">Téléchargez le programme complet des Assises de la dématérialisation organisées par La Gazette des communes.</a></p></div>
