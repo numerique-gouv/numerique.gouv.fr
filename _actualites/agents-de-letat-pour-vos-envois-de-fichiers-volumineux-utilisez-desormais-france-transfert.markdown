@@ -2,6 +2,7 @@
 title: 'Agents de l’État : pour vos envois de fichiers volumineux, utilisez désormais
   France transfert'
 date: 2022-03-25 16:30:00 +01:00
+published: false
 chapeau-text: 'L’État lance son propre outil en ligne de transfert de fichiers volumineux,
   jusqu’à 20 Go, destiné à ses agents. '
 style: |-
