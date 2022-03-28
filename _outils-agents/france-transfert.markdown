@@ -76,7 +76,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <div class="panel"><figure class='image-center' style='width: 30%;'>
 <img src="/uploads/Transfert.svg"/></figure><div class="titre-fonctionnalite">Envoi et réception de fichiers volumineux</div>
 <div class="fonctionnalite">Envoyez et recevez des fichiers ou dossiers <b>jusqu’à 20 Go</b> (2 Go max par fichier)</div></div>
-<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'><img src="/uploads/Silhouettes-3.svg"/></figure>
+<div class="panel"><figure class='image-center' style='width: 30%; margin-bottom: 0px;'><img src="/uploads/Silhouettes-3.svg"/></figure>
 <div class="titre-fonctionnalite">De la part ou à destination des agents de l’État</div>
 <div class="fonctionnalite">Dédié aux envois entre agents de l’État ou entre agents de l’État et usagers, prestataires, partenaires, internes ou externes (dans les 2 sens)…</div>
 </div>
