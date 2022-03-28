@@ -90,7 +90,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <img src="/uploads/Transfert-courrier-3.svg"/></figure><div class="titre-fonctionnalite">Transfert par courriel ou lien</div>
 <div class="fonctionnalite"><b>Envoyez directement le pli par courriel</b> aux destinataires, ou <b>faites-vous envoyer un lien</b> que vous transmettrez vous-même</div>
 </div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
+<div class="panel"><figure class='image-center' style="width: 20%; margin-bottom: 15px;">
 <img src="/uploads/Calendrier.svg"/></figure><div class="titre-fonctionnalite">Téléchargeables pendant 1 mois</div>
 <div class="fonctionnalite">Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)</div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;'>
