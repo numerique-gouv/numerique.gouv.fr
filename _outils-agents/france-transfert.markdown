@@ -6,6 +6,8 @@ published: false
 chapeau-text: Un service interministériel d’envoi de fichiers volumineux, simple et
   sécurisé, jusqu’à 20 Go, entre agents de l’État, mais aussi avec les usagers, partenaires
   et prestataires.
+une-ou-diaporama:
+  image: "/uploads/2022_03_28_France-Transfert_1635x345.png"
 style: |-
   .button {
   background-color: #0d5c98;
@@ -74,34 +76,34 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <br>
 
 <div class="wrapper">
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Discussion_en_ligne.svg"/></figure><div class="titre-fonctionnalite">Envoi et réception de fichiers volumineux</div>
+<div class="panel"><figure class='image-center' style='width: 25%;'>
+<img src="/uploads/Transfert.svg"/></figure><div class="titre-fonctionnalite">Envoi et réception de fichiers volumineux</div>
 <div class="fonctionnalite">Envoyez et recevez des fichiers ou dossiers <b>jusqu’à 20 Go</b> (2 Go max par fichier)</div></div>
-<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'><img src="/uploads/Video.svg"/></figure>
+<div class="panel"><figure class='image-center' style='width: 30%; margin-bottom: 0px;'><img src="/uploads/Silhouettes-3.svg"/></figure>
 <div class="titre-fonctionnalite">De la part ou à destination des agents de l’État</div>
 <div class="fonctionnalite">Dédié aux envois entre agents de l’État ou entre agents de l’État et usagers, prestataires, partenaires, internes ou externes (dans les 2 sens)…</div>
 </div>
 <div class="panel"><figure class='image-center' style='width: 18%;'>
-<img src="/uploads/Audio.svg"/></figure><div class="titre-fonctionnalite">Jusqu'à 100 destinataires</div>
+<img src="/uploads/Destinataires.svg"/></figure><div class="titre-fonctionnalite">Jusqu'à 100 destinataires</div>
 <div class="fonctionnalite">Envoyez vos fichiers à plusieurs destinataires <b>en une seule opération</b>, et même via une <b>liste de contacts</b></div></div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sur tous vos appareils</div>
+<div class="panel"><figure class='image-center' style='width: 30%;  margin-bottom: 0px; margin-top: 0px;'>
+<img src="/uploads/Sur-tous-appareils.svg"/></figure><div class="titre-fonctionnalite">Sur tous vos appareils</div>
 <div class="fonctionnalite" style="text-align: left">Disponible sur <b>ordinateur, mobile et tablette</b><br>Accessible depuis votre ordinateur professionnel, <b>sans vous déconnecter du réseau de l’État</b></div></div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Transfert par courriel ou lien</div>
+<div class="panel"><figure class='image-center' style='width: 25%; margin-bottom: 0px;'>
+<img src="/uploads/Transfert-courrier-3.svg"/></figure><div class="titre-fonctionnalite">Transfert par courriel ou lien</div>
 <div class="fonctionnalite"><b>Envoyez directement le pli par courriel</b> aux destinataires, ou <b>faites-vous envoyer un lien</b> que vous transmettrez vous-même</div>
 </div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Téléchargeables pendant 1 mois</div>
+<div class="panel"><figure class='image-center' style="width: 20%; margin-bottom: 15px;">
+<img src="/uploads/Calendrier.svg"/></figure><div class="titre-fonctionnalite">Téléchargeables pendant 1 mois</div>
 <div class="fonctionnalite">Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)</div></div>
-<div class="panel"><figure class='image-center' style='width: 30%;'>
-<img src="/uploads/Presentation.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
+<div class="panel"><figure class='image-center' style='width: 25%;'>
+<img src="/uploads/Securite-2.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
 <div class="fonctionnalite" style="text-align: left"><b>Analyse anti-virus</b> de chaque fichier
 <br><b>Pli protégé</b> par mot de passe (personnalisable)
 <br>Service <b>homologué RGS</b> (référentiel général de sécurité).
 <br>Hébergé <b>en France</b></div></div>
-<div class="panel"><figure class='image-center' style='width: 30%; margin-top:28px'>
-<img src="/uploads/Video.svg"/>
+<div class="panel"><figure class='image-center' style="width: 25%;">
+<img src="/uploads/Simplicite-2.svg"/>
 </figure><div class="titre-fonctionnalite">Simplicité</div>
 <div class="atout" style="text-align: left"><b>Service intuitif</b>, simple d’utilisation.
 Effectuez un envoi <b>en moins de 2 minutes</b>.</div></div>
