@@ -6,8 +6,6 @@ chapeau-text: Un service interministériel d’envoi de fichiers volumineux, sim
   sécurisé, jusqu’à 20 Go, entre agents de l’État, mais aussi avec les usagers, partenaires
   et prestataires.
 une:
-  image: "/uploads/2022_03_28_VISUEL_ASSISES_DEMATERIALISATION.png"
-une-ou-diaporama:
   image: "/uploads/2022_03_28_France-Transfert_1635x345.png"
 style: |-
   .button {
