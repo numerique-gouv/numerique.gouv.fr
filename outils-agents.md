@@ -36,6 +36,10 @@ publications:
   url: "/outils-agents/organiser-webconference-outils-agents-etat/"
   une-ou-diaporama:
   - image: "/uploads/outils_webconference-rub.png"
+- title: France tranfert
+  url: "/outils-agents/france-transfert/"
+  une-ou-diaporama:
+  - image: "/uploads/2022_03_28_France-transfert-2_740x500.png"
 layout: publications
 ---
 
