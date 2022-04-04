@@ -50,9 +50,9 @@ Ce nouvel outil vient enrichir le sac à dos numérique de l’agent public (SNA
 <div class="lien-important"><p><a href="/outils-agents/france-transfert/"> En savoir plus sur France transfert</a></p></div>
 <div align="center" style="margin-bottom: 40px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
 
-### 3 questions à
-## Benoît Dardelet,
-**Directeur de projets à la DNUM du ministère de l’Europe et des Affaires étrangères (MEAE)**
+<h3>3 questions à</h3>
+<h2 style="margin-top: 20px; margin-bottom: 10px;">Benoît Dardelet,</h2>
+<b>Directeur de projets à la DNUM du ministère de l’Europe et des Affaires étrangères (MEAE)</b>
 
 #### Le ministère des Affaires étrangères est le premier à avoir adopté France transfert massivement. À quels besoins l’outil répond-il ?
 Nous avions identifié, à travers le baromètre numérique de l’agent 2021, le besoin de nos agents d’un outil d’envoi de fichiers volumineux au moment où notre application interne devenait obsolète. Avec presque 200 sites dispersés à travers le monde, les relations au quotidien au sein de notre ministère nécessitent des partages de documents et d’informations locales dans des quantités de plus en plus astronomiques et de natures très variées suivant les contextes.
