@@ -128,7 +128,11 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 <p>Pour plus d'informations, rendez-vous sur <a href="https://francetransfert.numerique.gouv.fr/faq" title="la FAQ - Lien externe">la FAQ</a> de l’outil.</p>
 <br>
 <br>
-<div align="center" style="margin-bottom: 80px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
+
+<p align="center" style="margin-bottom: 80px"><a href="https://francetransfert.numerique.gouv.fr/"><img src="/uploads/Capture_ecran_france-transfert.png" width="200" style="border:1px solid gray" align="center" alt="Accéder à France transfert - Lien externe"/></a>
+<br>
+<br>
+<div align="center"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
 
 <p><i>Conçu et opéré par le ministère de la Culture, France transfert est mis à la disposition de l’ensemble des agents de l’État par la direction interministérielle du numérique (DINUM). Il s'insère ainsi dans le sac à dos numérique de l’agent (SNAP), dans le cadre du programme <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">TECH.GOUV</a> d’accélération de la transformation numérique du service public.
 <br>La solution est hébergée sur un Cloud français via l’<a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" title="offre de Cloud commercial de confiance - Lien externe">offre de Cloud commercial de confiance</a> dédiée aux services publics.</i></p>
