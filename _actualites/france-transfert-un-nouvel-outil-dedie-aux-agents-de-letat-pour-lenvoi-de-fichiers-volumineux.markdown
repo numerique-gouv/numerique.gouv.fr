@@ -28,7 +28,7 @@ Simple mais puissant : l’outil permet d’envoyer un pli jusqu’à 100 destin
 <br>Votre prestataire doit rapidement vous transmettre des documents lourds ?</p>
 
 <p><a href="/outils-agents/france-transfert/">> En savoir plus sur France transfert</a>
-<br><a href="https://francetransfert.numerique.gouv.fr/">> Accéder au service</a></p>
+<br><a href="https://francetransfert.numerique.gouv.fr/">> Accéder au service</a></p></div>
 
 ## Un produit qui se construit autour des besoins des utilisateurs
 
