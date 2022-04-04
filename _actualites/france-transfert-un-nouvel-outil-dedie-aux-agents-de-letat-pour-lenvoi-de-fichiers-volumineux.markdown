@@ -37,7 +37,7 @@ Simple mais puissant : l’outil permet d’envoyer un pli **jusqu’à 100 dest
 
 La direction du numérique du ministère de la Culture a ainsi élaboré un premier prototype dès juillet 2020.
 
-Dès ses prémices, la direction interministérielle du numérique (DINUM) a aidé la solution à émerger et accompagné et soutenu sa création, dans l’objectif d’en faire une solution interministérielle, à la disposition de tous les agents de l’État. Le projet a bénéficié tout d’abord d’une aide financière du programme d’investissements d’avenir, puis du plan France Relance au titre du [guichet SNAP 4](https://france-relance.transformation.gouv.fr/b8f4-developper-des-outils-de-communication-et-de- "guichet SNAP 4 - Lien externe").
+Dès ses prémices, la direction interministérielle du numérique (DINUM) a aidé la solution à émerger et accompagné et soutenu sa création, dans l’objectif d’en faire une solution interministérielle, à la disposition de tous les agents de l’État. Le projet a bénéficié tout d’abord d’une aide financière du programme d’investissements d’avenir, puis du [plan France Relance](https://france-relance.transformation.gouv.fr/ "plan France Relance - Lien externe") au titre du [guichet SNAP 4](https://france-relance.transformation.gouv.fr/b8f4-developper-des-outils-de-communication-et-de- "guichet SNAP 4 - Lien externe").
 
 ## En amélioration continue
 
