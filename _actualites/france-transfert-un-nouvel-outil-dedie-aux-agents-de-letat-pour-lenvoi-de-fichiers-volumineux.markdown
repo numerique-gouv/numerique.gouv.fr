@@ -25,7 +25,7 @@ Simple mais puissant : l’outil permet d’envoyer un pli jusqu’à 100 destin
 
 <div class="encadre noir" style="margin-bottom:40px"><h4 style="margin-top: 40px;">Agent de l’État :</h4><p>Vous souhaitez envoyer des fichiers volumineux ? <br>Un usager doit vous faire parvenir des pièces justificatives qui ne passent pas par courriel ? <br>Votre prestataire doit rapidement vous transmettre des documents lourds ?</p>
 
-<p style="margin-top: 20px;><a href="/outils-agents/france-transfert/">> En savoir plus sur France transfert</a>
+<p style="margin-top: 20px;"><a href="/outils-agents/france-transfert/">> En savoir plus sur France transfert</a>
 <br><a href="https://francetransfert.numerique.gouv.fr/" alt="Accéder au service - Lien externe">> Accéder au service</a></p></div>
 
 ## Un produit qui se construit autour des besoins des utilisateurs
