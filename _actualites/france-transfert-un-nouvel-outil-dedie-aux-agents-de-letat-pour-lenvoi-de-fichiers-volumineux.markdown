@@ -10,7 +10,7 @@ tags:
 chapeau-text: 'L’État lance son propre outil en ligne de transfert de fichiers volumineux,
   jusqu’à 20 Go, destiné à ses agents.  '
 une-ou-diaporama:
-- image: "/uploads/2022_04_01_800x430_France-transfert3.png"
+- image: "/uploads/2022_04_04_800x430_France-transfert_article.png"
 ---
 
 <div align="center" style="margin-bottom: 40px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
@@ -52,7 +52,7 @@ Ce nouvel outil vient enrichir le sac à dos numérique de l’agent public (SNA
 <b>Directeur de projets à la DNUM du ministère de l’Europe et des Affaires étrangères (MEAE)</b>
 
 #### **Le ministère des Affaires étrangères est le premier à avoir adopté France transfert massivement. À quels besoins l’outil répond-il ?**
-**Benoît Dardelet –** Nous avions identifié, à travers le baromètre numérique de l’agent 2021, le besoin de nos agents d’un outil d’envoi de fichiers volumineux au moment où notre application interne devenait obsolète. Avec presque 200 sites dispersés à travers le monde, les relations au quotidien au sein de notre ministère nécessitent des partages de documents et d’informations locales dans des quantités de plus en plus astronomiques et de natures très variées suivant les contextes.
+<figure class='image-left' style='width: 15%;'><img src="/uploads/Photo_MEAE-Benoit-Dardelet_crop.jpg"/></figure>**Benoît Dardelet –** Nous avions identifié, à travers le baromètre numérique de l’agent 2021, le besoin de nos agents d’un outil d’envoi de fichiers volumineux au moment où notre application interne devenait obsolète. Avec presque 200 sites dispersés à travers le monde, les relations au quotidien au sein de notre ministère nécessitent des partages de documents et d’informations locales dans des quantités de plus en plus astronomiques et de natures très variées suivant les contextes.
 
 Un besoin qui s’est accéléré et amplifié avec la crise sanitaire et les derniers événements géostratégiques. La création de ce service interministériel tombait à point nommé.
 
