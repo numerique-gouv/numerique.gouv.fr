@@ -49,3 +49,24 @@ Ce nouvel outil vient enrichir le sac à dos numérique de l’agent public (SNA
 
 <div class="lien-important"><p><a href="/outils-agents/france-transfert/"> En savoir plus sur France transfert</a></p></div>
 <div align="center" style="margin-bottom: 40px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
+
+### 3 questions à
+## Benoît Dardelet,
+**Directeur de projets à la DNUM du ministère de l’Europe et des Affaires étrangères (MEAE)**
+
+#### Le ministère des Affaires étrangères est le premier à avoir adopté France transfert massivement. À quels besoins l’outil répond-il ?
+Nous avions identifié, à travers le baromètre numérique de l’agent 2021, le besoin de nos agents d’un outil d’envoi de fichiers volumineux au moment où notre application interne devenait obsolète. Avec presque 200 sites dispersés à travers le monde, les relations au quotidien au sein de notre ministère nécessitent des partages de documents et d’informations locales dans des quantités de plus en plus astronomiques et de natures très variées suivant les contextes.
+
+Un besoin qui s’est accéléré et amplifié avec la crise sanitaire et les derniers événements géostratégiques. La création de ce service interministériel tombait à point nommé.
+
+#### Votre ministère a choisi de faire de France transfert son outil officiel d’envoi de fichiers volumineux. Pour quelles raisons ?
+Nous gérons en permanence des situations de crise de par le monde, nous avons besoin d’outils performants que nous pouvons utiliser en toutes circonstances, nous n’avons pas le temps de questionner leur fiabilité. Ils doivent être fonctionnels, point.
+
+En matière de transfert de documents, nous avons deux exigences principales : il faut que cela arrive rapidement, et cela sans être altéré. Ce que nous recevons doit être à 100% conforme à ce qui a été envoyé de tous les points du globe. Et France transfert a parfaitement répondu à ces attentes.
+
+Autres atouts pour nous : France transfert offre une grande capacité de transfert – jusqu’à 20 Go actuellement, soit bien plus que notre ancien outil ; c’est adapté aux appareils et usages actuels, quelle que soit la taille de l’écran, sur ordinateur, téléphone, tablette… ; et surtout l’outil utilise des protocoles modernes qui permettent de l’utiliser au sein du réseau sécurisé qui est le nôtre et en extérieur avec nos partenaires.
+
+#### Comment s’est passée l’appropriation de France transfert par vos agents ?
+Nous avons procédé en plusieurs étapes. Le ministère s’est porté volontaire il y a bientôt un an pour tester France transfert, alors en version beta. Nous avons commencé par l’utiliser à petite échelle, en situation réelle, avec un noyau de volontaires ; puis fin février 2022, nous l’avons progressivement étendu à davantage de sites. Ce qui m’intéressait était de m’assurer que le service fonctionnait bien partout dans le monde, dans toutes les configurations possibles, chaque site ayant des réalités bien différentes – débit Internet, langues, contexte géopolitique…
+
+L’équipe produit actuelle s’est révélée extrêmement efficace et réactive pour adapter le service et le faire évoluer au gré de nos remarques et contraintes spécifiques, que nous lui faisions remonter au fil de l’eau. Depuis mars 2022, nous avons annoncé à l’ensemble de nos 13 000 agents que France transfert devenait la solution d’envoi de fichiers volumineux officielle par défaut. La bascule s’est faite très rapidement et très souplement. Nous sommes aujourd’hui certainement le plus gros consommateur du service et nous avons des utilisateurs heureux !
