@@ -23,9 +23,7 @@ Très simple d’utilisation, il leur permet de partager, en toute sécurité, d
 
 Simple mais puissant : l’outil permet d’envoyer un pli jusqu’à 100 destinataires, avec possibilité d’importer une liste de contacts, et de personnaliser le transfert (mot de passe, objet et message, modalité d’envoi par courriel ou par lien, durée de conservation, etc.).
 
-<div class="encadre noir" style="margin-bottom:40px"><h4 style="margin-top: 40px;">Agent de l’État :</h4><p>Vous souhaitez envoyer des fichiers volumineux ? <br>Un usager doit vous faire parvenir des pièces justificatives qui ne passent pas par courriel ? <br>Votre prestataire doit rapidement vous transmettre des documents lourds ?</p>vous souhaitez envoyer des fichiers volumineux ?
-<br>Un usager doit vous faire parvenir des pièces justificatives qui ne passent pas par courriel ?
-<br>Votre prestataire doit rapidement vous transmettre des documents lourds ?</p>
+<div class="encadre noir" style="margin-bottom:40px"><h4 style="margin-top: 40px;">Agent de l’État :</h4><p>Vous souhaitez envoyer des fichiers volumineux ? <br>Un usager doit vous faire parvenir des pièces justificatives qui ne passent pas par courriel ? <br>Votre prestataire doit rapidement vous transmettre des documents lourds ?</p>
 
 <p style="margin-top: 20px;><a href="/outils-agents/france-transfert/">> En savoir plus sur France transfert</a>
 <br><a href="https://francetransfert.numerique.gouv.fr/" alt="Accéder au service - Lien externe">> Accéder au service</a></p></div>
