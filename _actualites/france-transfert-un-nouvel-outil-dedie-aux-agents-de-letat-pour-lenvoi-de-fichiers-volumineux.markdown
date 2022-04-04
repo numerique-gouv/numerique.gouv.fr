@@ -22,11 +22,11 @@ Très simple d’utilisation, il leur permet de partager, en toute sécurité, d
 
 Simple mais puissant : l’outil permet d’envoyer un pli jusqu’à 100 destinataires, avec possibilité d’importer une liste de contacts, et de personnaliser le transfert (mot de passe, objet et message, modalité d’envoi par courriel ou par lien, durée de conservation, etc.).
 
-<div class="encadre noir" style="margin-bottom:40px"><p>Agent de l’État, vous souhaitez envoyer des fichiers volumineux ?
+<div class="encadre noir" style="margin-bottom:40px"><h4 style="margin-top: 40px;">Agent de l’État :</h4><p>Vous souhaitez envoyer des fichiers volumineux&nbsp;? <br>Un usager doit vous faire parvenir des pièces justificatives qui ne passent pas par courriel&nbsp;? <br>Votre prestataire doit rapidement vous transmettre des documents lourds&nbsp;?</p>vous souhaitez envoyer des fichiers volumineux ?
 <br>Un usager doit vous faire parvenir des pièces justificatives qui ne passent pas par courriel ?
 <br>Votre prestataire doit rapidement vous transmettre des documents lourds ?</p>
 
-<p><a href="/outils-agents/france-transfert/">> En savoir plus sur France transfert</a>
+<p style="margin-top: 20px;><a href="/outils-agents/france-transfert/">> En savoir plus sur France transfert</a>
 <br><a href="https://francetransfert.numerique.gouv.fr/">> Accéder au service</a></p></div>
 
 ## Un produit qui se construit autour des besoins des utilisateurs
@@ -52,7 +52,7 @@ Ce nouvel outil vient enrichir le sac à dos numérique de l’agent public (SNA
 <b>Directeur de projets à la DNUM du ministère de l’Europe et des Affaires étrangères (MEAE)</b>
 
 #### **Le ministère des Affaires étrangères est le premier à avoir adopté France transfert massivement. À quels besoins l’outil répond-il ?**
-<figure class='image-left' style='width: 15%;'><img src="/uploads/Photo_MEAE-Benoit-Dardelet_crop.jpg"/></figure>**Benoît Dardelet –** Nous avions identifié, à travers le baromètre numérique de l’agent 2021, le besoin de nos agents d’un outil d’envoi de fichiers volumineux au moment où notre application interne devenait obsolète. Avec presque 200 sites dispersés à travers le monde, les relations au quotidien au sein de notre ministère nécessitent des partages de documents et d’informations locales dans des quantités de plus en plus astronomiques et de natures très variées suivant les contextes.
+<figure class='image-left' style='width: 30%;'><img src="/uploads/Photo_MEAE-Benoit-Dardelet_crop.jpg"/></figure>**Benoît Dardelet –** Nous avions identifié, à travers le baromètre numérique de l’agent 2021, le besoin de nos agents d’un outil d’envoi de fichiers volumineux au moment où notre application interne devenait obsolète. Avec presque 200 sites dispersés à travers le monde, les relations au quotidien au sein de notre ministère nécessitent des partages de documents et d’informations locales dans des quantités de plus en plus astronomiques et de natures très variées suivant les contextes.
 
 Un besoin qui s’est accéléré et amplifié avec la crise sanitaire et les derniers événements géostratégiques. La création de ce service interministériel tombait à point nommé.
 
