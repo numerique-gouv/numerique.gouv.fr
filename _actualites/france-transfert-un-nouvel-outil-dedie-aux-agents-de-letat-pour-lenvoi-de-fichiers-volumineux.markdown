@@ -16,7 +16,6 @@ une-ou-diaporama:
 <div align="center" style="margin-bottom: 40px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
 
 ## Un outil simple et puissant
-
 Pour leurs envois de fichiers, jusqu’à 20 Go (2 Go max par fichier), les agents de l’État peuvent désormais compter sur un outil créé et opéré par l’État : France transfert.
 
 Très simple d’utilisation, il leur permet de partager, en toute sécurité, des fichiers et dossiers entre agents de l’État, mais aussi avec tous leurs interlocuteurs extérieurs (usagers, partenaires, prestataires…), dans les deux sens. Le seul prérequis est que l’expéditeur ou le(s) destinataire(s) soit agent de l’État (la vérification se fait via l’adresse courriel professionnelle).
@@ -31,7 +30,6 @@ Simple mais puissant : l’outil permet d’envoyer un pli jusqu’à 100 destin
 <br><a href="https://francetransfert.numerique.gouv.fr/">> Accéder au service</a></p></div>
 
 ## Un produit qui se construit autour des besoins des utilisateurs
-
 À l’origine de la création de France transfert : le ministère de la Culture.
 « Le besoin d’un outil de ce type a émergé du terrain en 2018 de nos directions régionales des affaires culturelles, explique Estelle Cheng, responsable produit au sein de la direction du numérique du ministère de la Culture. Leurs usagers devaient régulièrement leur transmettre, pour leurs démarches, des pièces lourdes comme des plans et images d’architecture, qui ne passaient pas par courriel. À l’ère de la dématérialisation, la transmission en ligne devenait nécessaire, et la pandémie n’a fait qu’accélérer et renforcer le besoin d’un outil numérique de transfert solide et fiable. »
 
@@ -40,7 +38,6 @@ La direction du numérique du ministère de la Culture a ainsi élaboré un prem
 Dès ses prémices, la direction interministérielle du numérique (DINUM) a aidé la solution à émerger et accompagné et soutenu sa création, dans l’objectif d’en faire une solution interministérielle, à la disposition de tous les agents de l’État. Le projet a bénéficié tout d’abord d’une aide financière du programme d’investissements d’avenir, puis du plan France Relance au titre du [guichet SNAP 4](https://france-relance.transformation.gouv.fr/b8f4-developper-des-outils-de-communication-et-de-).
 
 ## En amélioration continue
-
 Après 2 ans de travaux et de tests avec de premiers ministères pilotes (lire notre interview ci-dessous), le service est aujourd’hui déployé auprès de l’ensemble des agents de l’État, de tous les ministères. Ces deux derniers mois, France transfert a enregistré pas moins de 10 500 envois et 15 000 téléchargements.
 
 À l’écoute des retours utilisateurs, la solution continue à évoluer et s’améliorer en continu.
