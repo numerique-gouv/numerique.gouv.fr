@@ -108,7 +108,7 @@ Seul prérequis : le destinataire OU l’expéditeur doit être un agent de l’
 
 ## Comment ça marche ?
 {: .margin-bottom-1}
-
+<figure class='image-center' style='width: 80%;'><img src="/uploads/Capture_ecran_france-transfert.png"/></figure>
 ### Pour envoyer un pli
 Très simple et intuitif, le service vous permet d’effectuer un envoi en quelques minutes.
 
