@@ -41,11 +41,11 @@ Dès ses prémices, la direction interministérielle du numérique (DINUM) a aid
 
 ## En amélioration continue
 
-Après 2 ans de travaux et de tests avec de premiers ministères pilotes (lire notre interview ci-dessous), le service est aujourd’hui déployé auprès de l’ensemble des agents de l’État, de tous les ministères. Ces deux derniers mois, France transfert a enregistré pas moins de 10 500 envois et 15 000 téléchargements.
+Après 2 ans de travaux et de tests avec de premiers ministères pilotes (lire notre interview ci-dessous), le service est aujourd’hui **déployé auprès de l’ensemble des agents de l’État, de tous les ministères**. Ces deux derniers mois, France transfert a enregistré pas moins de **10 500 envois** et **15 000 téléchargements**.
 
 À l’écoute des retours utilisateurs, la solution continue à évoluer et s’améliorer en continu.
 
-Ce nouvel outil vient enrichir le sac à dos numérique de l’agent public (SNAP), qui compte déjà plusieurs outils de travail collaboratif : [Webinaire de l’État](/outils-agents/webinaire-etat/), [Webconf](https://www.numerique.gouv.fr/outils-agents/webconference-etat/), [Audioconf](/outils-agents/audioconference-etat/), la messagerie instantanée [Tchap](/outils-agents/tchap-messagerie-instantanee-etat/), les plateformes collaboratives [Osmose](/outils-agents/osmose/) et [Resana](/outils-agents/resana/).
+Ce nouvel outil vient enrichir **le sac à dos numérique de l’agent public** (SNAP), mis en œuvre dans le cadre de [TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), qui compte déjà plusieurs outils de travail collaboratif : [Webinaire de l’État](/outils-agents/webinaire-etat/), [Webconf](https://www.numerique.gouv.fr/outils-agents/webconference-etat/), [Audioconf](/outils-agents/audioconference-etat/), la messagerie instantanée [Tchap](/outils-agents/tchap-messagerie-instantanee-etat/), les plateformes collaboratives [Osmose](/outils-agents/osmose/) et [Resana](/outils-agents/resana/).
 
 <div class="lien-important"><p><a href="/outils-agents/france-transfert/"> En savoir plus sur France transfert</a></p></div>
 <div align="center" style="margin-bottom: 40px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
