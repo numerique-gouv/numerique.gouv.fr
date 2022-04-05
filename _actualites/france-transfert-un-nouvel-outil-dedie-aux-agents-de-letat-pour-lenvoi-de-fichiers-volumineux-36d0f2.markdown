@@ -1,0 +1,39 @@
+---
+title: 'France transfert : un nouvel outil dédié aux agents de l’État pour l’envoi
+  de fichiers volumineux'
+date: 2022-04-05 17:34:00 +02:00
+---
+
+## Un outil simple et puissant
+
+Pour leurs envois de fichiers, **jusqu’à 20 Go** (2 Go max par fichier), les agents de l’État peuvent désormais compter sur un outil **créé et opéré par l’État** : France transfert.
+
+Très simple d’utilisation, il leur permet de partager, en toute sécurité, des fichiers et dossiers **entre agents de l’État**, mais aussi **avec tous leurs interlocuteurs extérieurs** (usagers, partenaires, prestataires…), dans les deux sens. Le seul prérequis est que l’expéditeur ou le(s) destinataire(s) soit agent de l’État (la vérification se fait via l’adresse courriel professionnelle).
+
+Simple mais puissant : l’outil permet d’envoyer un pli **jusqu’à 100 destinataires**, avec possibilité d’importer une liste de contacts, et de **personnaliser** le transfert (mot de passe, objet et message, modalité d’envoi par courriel ou par lien, durée de conservation, etc.).
+
+<div class="encadre noir" style="margin-bottom:40px"><h4 style="margin-top: 40px;">Agent de l’État :</h4><p>Vous souhaitez envoyer des fichiers volumineux ? <br>Un usager doit vous faire parvenir des pièces justificatives qui ne passent pas par courriel ? <br>Votre prestataire doit rapidement vous transmettre des documents lourds ?</p>
+
+<p style="margin-top: 20px;"><a href="/outils-agents/france-transfert/">> En savoir plus sur France transfert</a>
+<br><a href="https://francetransfert.numerique.gouv.fr/" alt="Accéder au service - Lien externe">> Accéder au service</a></p></div>
+
+## Un produit qui se construit autour des besoins des utilisateurs
+
+À l’origine de la création de France transfert : le ministère de la Culture.
+
+*« Le besoin d’un outil de ce type a **émergé du terrain** en 2018 de nos directions régionales des affaires culturelles,* explique Estelle Cheng, responsable produit au sein de la direction du numérique du ministère de la Culture. *Leurs usagers devaient régulièrement leur transmettre, pour leurs démarches, des pièces lourdes comme des plans et images d’architecture, qui ne passaient pas par courriel. À l’ère de la dématérialisation, la transmission en ligne devenait nécessaire, et la pandémie n’a fait qu’accélérer et renforcer le besoin d’un outil numérique de transfert solide et fiable. »*
+
+La direction du numérique du ministère de la Culture a ainsi élaboré **un premier prototype** dès juillet 2020.
+
+Dès ses prémices, la direction interministérielle du numérique (DINUM) a **aidé la solution à émerger** et **accompagné et soutenu** sa création, dans l’objectif d’**en faire une solution interministérielle**, à la disposition de tous les agents de l’État. Le projet a bénéficié tout d’abord d’une aide financière du programme d’investissements d’avenir, puis du [**plan France Relance**](https://france-relance.transformation.gouv.fr/ "plan France Relance - Lien externe") au titre du [guichet SNAP 4](https://france-relance.transformation.gouv.fr/b8f4-developper-des-outils-de-communication-et-de- "guichet SNAP 4 - Lien externe").
+
+## En amélioration continue
+
+Après 2 ans de travaux et de tests avec de premiers ministères pilotes (lire notre interview ci-dessous), le service est aujourd’hui **déployé auprès de l’ensemble des agents de l’État, de tous les ministères**. Ces deux derniers mois, France transfert a enregistré pas moins de **10 500 envois** et **15 000 téléchargements**.
+
+À l’écoute des retours utilisateurs, la solution **continue à évoluer et s’améliorer au fil de l'eau**.
+
+Ce nouvel outil vient enrichir **le sac à dos numérique de l’agent public** (SNAP), mis en œuvre dans le cadre de [TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), qui compte déjà plusieurs outils de travail collaboratif : [Webinaire de l’État](/outils-agents/webinaire-etat/), [Webconf](https://www.numerique.gouv.fr/outils-agents/webconference-etat/), [Audioconf](/outils-agents/audioconference-etat/), la messagerie instantanée [Tchap](/outils-agents/tchap-messagerie-instantanee-etat/), les plateformes collaboratives [Osmose](/outils-agents/osmose/) et [Resana](/outils-agents/resana/).
+
+<div class="lien-important"><p><a href="/outils-agents/france-transfert/"> En savoir plus sur France transfert</a></p></div>
+<div align="center" style="margin-bottom: 40px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
