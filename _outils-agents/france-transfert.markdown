@@ -62,7 +62,6 @@ layout: rgaa
 
 ## Envoyez facilement des fichiers, en toute sécurité
 {: .margin-bottom-1}
-
 * Agent de l’État, vous souhaitez envoyer des fichiers lourds ?
 * Un usager doit vous faire parvenir des pièces justificatives qui ne passent pas par courriel ?
 * Votre prestataire doit rapidement vous transmettre des documents volumineux ?
@@ -96,7 +95,7 @@ Seul prérequis : le destinataire OU l’expéditeur doit être un agent de l’
 <div class="fonctionnalite">Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)</div></div>
 <div class="panel"><figure class='image-center' style='width: 25%;'>
 <img src="/uploads/Securite-2.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
-<div class="fonctionnalite" style="text-align: left"><p><ul><li><b>Analyse anti-virus</b> de chaque fichier</li> <li><b>Pli protégé</b> par mot de passe (personnalisable)</li> <li>Service <b>homologué RGS</b> (référentiel général de sécurité)</li> <li>Hébergé <b>en France</b> sur un Cloud  qualifié <b>SecNumCloud</b></li></ul></p></div></div>
+<div class="fonctionnalite" style="text-align: left"><p><ul><li><b>Analyse anti-virus</b> de chaque fichier</li> <li><b>Pli protégé</b> par mot de passe (personnalisable)</li> <li>Service <b>homologué RGS</b> (référentiel général de sécurité)</li> <li>Hébergé <b>en France</b> sur un Cloud  qualifié <b>SecNumCloud</b> par l’ANSSI</li></ul></p></div></div>
 <div class="panel"><figure class='image-center' style="width: 25%;">
 <img src="/uploads/Simplicite-2.svg"/>
 </figure><div class="titre-fonctionnalite">Simplicité</div>
@@ -112,7 +111,7 @@ Seul prérequis : le destinataire OU l’expéditeur doit être un agent de l’
 ### Pour envoyer un pli
 Très simple et intuitif, le service vous permet d’effectuer un envoi en quelques minutes.
 
-* **Rendez-vous sur [francetransfert.numerique.gouv.fr](https://francetransfert.numerique.gouv.fr "francetransfert.numerique.gouv.fr - Lien externe")** ou ouvrez l’application mobile
+* **Rendez-vous sur [francetransfert.numerique.gouv.fr](https://francetransfert.numerique.gouv.fr "francetransfert.numerique.gouv.fr - Lien externe")** ou ouvrez l’application mobile (pour l’installer connectez-vous depuis le navigateur de votre mobile à [francetransfert.numerique.gouv.fr](https://francetransfert.numerique.gouv.fr "francetransfert.numerique.gouv.fr - Lien externe"))
 * **Ajoutez vos fichiers ou dossiers** via l’explorateur de fichiers ou glissez et déposez-les
 * **Choisissez le mode d’envoi :** par courriel directement aux destinataires ou via un lien à partager
 * **Renseignez les courriels** de l’expéditeur et du ou des destinataire(s). En option, ajoutez un objet et un message
@@ -130,12 +129,10 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 <br>
 
 <p align="center"><a href="https://francetransfert.numerique.gouv.fr/"><img src="/uploads/Capture_ecran_france-transfert.png" width="200" style="border:1px solid gray" align="center" alt="Accéder à France transfert - Lien externe"/></a>
-<br>
-<br>
 <div align="center" style="margin-bottom: 80px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a></div>
 
 <p><i>Conçu et opéré par le ministère de la Culture, France transfert est mis à la disposition de l’ensemble des agents de l’État par la direction interministérielle du numérique (DINUM). Il s'insère ainsi dans le sac à dos numérique de l’agent (SNAP), dans le cadre du programme <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">TECH.GOUV</a> d’accélération de la transformation numérique du service public.
-<br>La solution est hébergée sur un Cloud français via l’<a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" title="offre de Cloud commercial de confiance - Lien externe">offre de Cloud commercial de confiance</a> dédiée aux services publics.</i></p>
+<br>La solution est hébergée sur un Cloud français via l’<a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" title="offre de Cloud commercial de confiance - Lien externe">offre de Cloud commercial de confiance</a>, qualifié SecNumCloud, dédiée aux services publics.</i></p>
 <br>
 <br>
 
