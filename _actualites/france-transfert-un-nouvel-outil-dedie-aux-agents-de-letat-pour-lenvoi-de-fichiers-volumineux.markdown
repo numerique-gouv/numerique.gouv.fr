@@ -41,6 +41,8 @@ Dès ses prémices, la direction interministérielle du numérique (DINUM) a **a
 
 Après 2 ans de travaux et de tests avec de premiers ministères pilotes ([lire notre interview ci-dessous](#3-questions-a)), le service est aujourd’hui **déployé auprès de l’ensemble des agents de l’État, de tous les ministères**. Ces deux derniers mois, France transfert a enregistré pas moins de **10 500 envois** et **15 000 téléchargements**.
 
+Le ministère de l'Europe et des Affaires étrangères a d'ores et déjà décidé de faire de France transfert l'outil officiel par défaut pour ses 13 700 agents. [Lire son témoignage](#3-questions-a).
+
 À l’écoute des retours utilisateurs, la solution **continue à évoluer et s’améliorer au fil de l'eau**.
 
 Ce nouvel outil vient enrichir **le sac à dos numérique de l’agent public** (SNAP), mis en œuvre dans le cadre de [TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), qui compte déjà plusieurs outils de travail collaboratif : [Webinaire de l’État](/outils-agents/webinaire-etat/), [Webconf](https://www.numerique.gouv.fr/outils-agents/webconference-etat/), [Audioconf](/outils-agents/audioconference-etat/), la messagerie instantanée [Tchap](/outils-agents/tchap-messagerie-instantanee-etat/), les plateformes collaboratives [Osmose](/outils-agents/osmose/) et [Resana](/outils-agents/resana/).
