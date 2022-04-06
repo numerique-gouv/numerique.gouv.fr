@@ -2,6 +2,7 @@
 title: 'France transfert : un nouvel outil dédié aux agents de l’État pour l’envoi
   de fichiers volumineux'
 date: 2022-04-04 09:59:00 +02:00
+published: false
 categories:
 - Article
 - Interview
