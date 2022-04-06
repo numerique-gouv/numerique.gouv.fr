@@ -7,6 +7,10 @@ une:
   image: "/uploads/outils_agents_rubrique.png"
   alternative-textuelle: 
 publications:
+- title: France tranfert
+  url: "/outils-agents/france-transfert/"
+  une-ou-diaporama:
+  - image: "/uploads/2022_03_30_France-transfert-2_740x500.png"
 - title: Webinaire de l’État
   url: "/outils-agents/webinaire-etat/"
   une-ou-diaporama:

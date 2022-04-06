@@ -2,12 +2,10 @@
 title: France transfert
 date: 2022-02-16 16:03:00 +01:00
 permalink: "/outils-agents/france-transfert/"
-published: false
 chapeau-text: Un service interministériel d’envoi de fichiers volumineux, simple et
-  sécurisé, jusqu’à 20 Go, entre agents de l’État, mais aussi avec les usagers, partenaires
-  et prestataires.
-une-ou-diaporama:
-  image: "/uploads/2022_03_28_France-Transfert_1635x345.png"
+  sécurisé, entre agents de l’État, mais aussi avec les usagers, partenaires et prestataires.
+une:
+  image: "/uploads/2022_03_30_France-Transfert-2_1635x345.png"
 style: |-
   .button {
   background-color: #0d5c98;
@@ -64,14 +62,13 @@ layout: rgaa
 
 ## Envoyez facilement des fichiers, en toute sécurité
 {: .margin-bottom-1}
-
 * Agent de l’État, vous souhaitez envoyer des fichiers lourds ?
 * Un usager doit vous faire parvenir des pièces justificatives qui ne passent pas par courriel ?
 * Votre prestataire doit rapidement vous transmettre des documents volumineux ?
 
-La plateforme France transfert vous permet de partager des fichiers non sensibles très simplement entre agents et avec vos usagers et partenaires.
+Développé et opéré par l’État, le service en ligne France transfert vous permet de partager des fichiers non sensibles très simplement entre agents et avec vos usagers et partenaires.
 
-Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents de l’État.
+Seul prérequis : le destinataire OU l’expéditeur doit être un agent de l’État.
 <br>
 <br>
 
@@ -88,7 +85,7 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <div class="fonctionnalite">Envoyez vos fichiers à plusieurs destinataires <b>en une seule opération</b>, et même via une <b>liste de contacts</b></div></div>
 <div class="panel"><figure class='image-center' style='width: 30%;  margin-bottom: 0px; margin-top: 0px;'>
 <img src="/uploads/Sur-tous-appareils.svg"/></figure><div class="titre-fonctionnalite">Sur tous vos appareils</div>
-<div class="fonctionnalite" style="text-align: left">Disponible sur <b>ordinateur, mobile et tablette</b><br>Accessible depuis votre ordinateur professionnel, <b>sans vous déconnecter du réseau de l’État</b></div></div>
+<div class="fonctionnalite" style="text-align: left"><p><ul><li>Disponible sur <b>ordinateur, mobile et tablette</b></li><li>Accessible depuis votre ordinateur professionnel, <b>sans vous déconnecter du réseau de l’État</b></li></ul></p></div></div>
 <div class="panel"><figure class='image-center' style='width: 25%; margin-bottom: 0px;'>
 <img src="/uploads/Transfert-courrier-3.svg"/></figure><div class="titre-fonctionnalite">Transfert par courriel ou lien</div>
 <div class="fonctionnalite"><b>Envoyez directement le pli par courriel</b> aux destinataires, ou <b>faites-vous envoyer un lien</b> que vous transmettrez vous-même</div>
@@ -98,26 +95,23 @@ Seul prérequis : l’expéditeur OU le(s) destinataire(s) doivent être agents 
 <div class="fonctionnalite">Fichiers conservés par défaut pendant 30 jours (personnalisable de 1j à 3 mois)</div></div>
 <div class="panel"><figure class='image-center' style='width: 25%;'>
 <img src="/uploads/Securite-2.svg"/></figure><div class="titre-fonctionnalite">Sécurité</div>
-<div class="fonctionnalite" style="text-align: left"><b>Analyse anti-virus</b> de chaque fichier
-<br><b>Pli protégé</b> par mot de passe (personnalisable)
-<br>Service <b>homologué RGS</b> (référentiel général de sécurité).
-<br>Hébergé <b>en France</b></div></div>
+<div class="fonctionnalite" style="text-align: left"><p><ul><li><b>Analyse anti-virus</b> de chaque fichier</li> <li><b>Pli protégé</b> par mot de passe (personnalisable)</li> <li>Service <b>homologué RGS</b> (référentiel général de sécurité)</li> <li>Hébergé <b>en France</b> sur un Cloud  qualifié <b>SecNumCloud</b> par l’ANSSI</li></ul></p></div></div>
 <div class="panel"><figure class='image-center' style="width: 25%;">
 <img src="/uploads/Simplicite-2.svg"/>
 </figure><div class="titre-fonctionnalite">Simplicité</div>
-<div class="atout" style="text-align: left"><b>Service intuitif</b>, simple d’utilisation.
-Effectuez un envoi <b>en moins de 2 minutes</b>.</div></div>
+<div class="atout" style="text-align: left"><p><ul><li><b>Service intuitif</b>, simple d’utilisation</li>
+<li>Effectuez un envoi <b>en moins de 2 minutes</b>.</li></ul></p></div></div>
 </div>
 <br>
 <br>
 
 ## Comment ça marche ?
 {: .margin-bottom-1}
-
+<figure class="image-center" style="width: 100%; border:1px solid gray;"><img src="/uploads/Capture_ecran_france-transfert.png" alt="Capture écran de la page d'accueil de francetransfert.numerique.gouv.fr"/></figure>
 ### Pour envoyer un pli
 Très simple et intuitif, le service vous permet d’effectuer un envoi en quelques minutes.
 
-* **Rendez-vous sur [francetransfert.numerique.gouv.fr](https://francetransfert.numerique.gouv.fr "francetransfert.numerique.gouv.fr - lien externe")** ou ouvrez l’application mobile
+* **Rendez-vous sur [francetransfert.numerique.gouv.fr](https://francetransfert.numerique.gouv.fr "francetransfert.numerique.gouv.fr - Lien externe")** ou ouvrez l’application mobile (pour l’installer connectez-vous depuis le navigateur de votre mobile à [francetransfert.numerique.gouv.fr](https://francetransfert.numerique.gouv.fr "francetransfert.numerique.gouv.fr - Lien externe"))
 * **Ajoutez vos fichiers ou dossiers** via l’explorateur de fichiers ou glissez et déposez-les
 * **Choisissez le mode d’envoi :** par courriel directement aux destinataires ou via un lien à partager
 * **Renseignez les courriels** de l’expéditeur et du ou des destinataire(s). En option, ajoutez un objet et un message
@@ -133,10 +127,12 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 <p>Pour plus d'informations, rendez-vous sur <a href="https://francetransfert.numerique.gouv.fr/faq" title="la FAQ - Lien externe">la FAQ</a> de l’outil.</p>
 <br>
 <br>
-<div align="center" style="margin-bottom: 80px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
+
+<p align="center"><a href="https://francetransfert.numerique.gouv.fr/"><img src="/uploads/Capture_ecran_france-transfert.png" width="200" style="border:1px solid gray" align="center" alt="Accéder à France transfert - Lien externe"/></a>
+<div align="center" style="margin-bottom: 80px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a></div>
 
 <p><i>Conçu et opéré par le ministère de la Culture, France transfert est mis à la disposition de l’ensemble des agents de l’État par la direction interministérielle du numérique (DINUM). Il s'insère ainsi dans le sac à dos numérique de l’agent (SNAP), dans le cadre du programme <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">TECH.GOUV</a> d’accélération de la transformation numérique du service public.
-<br>La solution est hébergée sur un Cloud français via l’<a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" title="offre de Cloud externe - lien externe">offre de Cloud externe</a> dédiée aux services publics.</i></p>
+<br>La solution est hébergée sur un Cloud français via l’<a href="https://www.ugap.fr/catalogue-marche-public/services-dinformatique-en-nuage-cloud-externe_103007.html" title="offre de Cloud commercial de confiance - Lien externe">offre de Cloud commercial de confiance</a>, qualifié SecNumCloud, dédiée aux services publics.</i></p>
 <br>
 <br>
 
