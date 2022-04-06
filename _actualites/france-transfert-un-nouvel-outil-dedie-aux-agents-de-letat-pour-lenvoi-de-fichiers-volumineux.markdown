@@ -39,7 +39,7 @@ Dès ses prémices, la direction interministérielle du numérique (DINUM) a **a
 
 ## En amélioration continue
 
-Après 2 ans de travaux et de tests avec de premiers ministères pilotes (lire notre interview ci-dessous), le service est aujourd’hui **déployé auprès de l’ensemble des agents de l’État, de tous les ministères**. Ces deux derniers mois, France transfert a enregistré pas moins de **10 500 envois** et **15 000 téléchargements**.
+Après 2 ans de travaux et de tests avec de premiers ministères pilotes ([lire notre interview ci-dessous](#3-questions-a)), le service est aujourd’hui **déployé auprès de l’ensemble des agents de l’État, de tous les ministères**. Ces deux derniers mois, France transfert a enregistré pas moins de **10 500 envois** et **15 000 téléchargements**.
 
 À l’écoute des retours utilisateurs, la solution **continue à évoluer et s’améliorer au fil de l'eau**.
 
@@ -48,7 +48,7 @@ Ce nouvel outil vient enrichir **le sac à dos numérique de l’agent public** 
 <div class="lien-important"><p><a href="/outils-agents/france-transfert/"> En savoir plus sur France transfert</a></p></div>
 <div align="center" style="margin-bottom: 40px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
 
-<h3>3 questions à</h3>
+<h3 id="3-questions-a">3 questions à</h3>
 <h2 style="margin-top: 20px; margin-bottom: 10px;">Benoît Dardelet,</h2>
 <b>Directeur de projets à la DNUM du ministère de l’Europe et des Affaires étrangères (MEAE)</b>
 
