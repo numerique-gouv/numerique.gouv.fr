@@ -533,7 +533,7 @@
                 {
                     "dt": "Couleur d'arrière-plan contiguë et couleur contiguë",
                     "dd": [
-                        "Couleur d'arrière-plan contiguë : couleur d'arrière-plan directement en contact avec le bord extérieur du composant d'interface ou de l'[élément graphique](element-graphique).",
+                        "Couleur d'arrière-plan contiguë : couleur d'arrière-plan directement en contact avec le bord extérieur du composant d'interface ou de l'[élément graphique](#element-graphique).",
                         "Exemples :",
                         {
                             "ul": [
