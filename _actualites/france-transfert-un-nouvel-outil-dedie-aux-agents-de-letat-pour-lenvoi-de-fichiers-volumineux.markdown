@@ -14,7 +14,7 @@ une-ou-diaporama:
 - image: "/uploads/2022_04_07_800x430_France-transfert.png"
 ---
 
-## Un outil simple et puissant
+<h2 style="margin-top: 0">Un outil simple et puissant</h2>
 
 Pour leurs envois de fichiers, **jusqu’à 20 Go** (2 Go max par fichier), les agents de l’État peuvent désormais compter sur un outil **créé et opéré par l’État** : France transfert.
 
