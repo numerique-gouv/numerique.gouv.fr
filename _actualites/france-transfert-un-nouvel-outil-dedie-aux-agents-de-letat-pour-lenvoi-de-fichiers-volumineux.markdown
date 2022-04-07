@@ -12,7 +12,7 @@ tags:
 chapeau-text: 'L’État lance son propre outil en ligne de transfert de fichiers volumineux,
   jusqu’à 20 Go, destiné à ses agents.  '
 une-ou-diaporama:
-- image: "/uploads/2022_04_04_800x430_France-transfert_article.png"
+- image: "/uploads/2022_04_07_800x430_France-transfert.png"
 ---
 
 ## Un outil simple et puissant
