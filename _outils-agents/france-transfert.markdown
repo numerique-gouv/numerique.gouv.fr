@@ -143,4 +143,4 @@ Si vous avez choisi l'envoi par lien, vous recevez le lien et le mot de passe du
 <li><a href="/outils-agents/tchap-messagerie-instantanee-etat/">Tchap, la messagerie instantanée de confiance de l’État</a></li>
 <li><a href="/outils-agents/osmose/">Osmose, plateforme des communautés professionnelles de l’État</a></li>
 <li><a href="/outils-agents/resana/">Resana, plateforme collaborative pour vos groupes de travail</a></li>
-</ul></p>
+</ul><br>Le code source de France transfert sera publié dans les prochains mois.</p>
