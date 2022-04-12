@@ -2,6 +2,11 @@
 title: 'France transfert : l’État lance un service interministériel d’envoi de fichiers
   volumineux, simple et sécurisé.'
 date: 2022-04-12 14:13:00 +02:00
+categories:
+- Communiqué de presse
+tags:
+- Outils numériques
+- France transfert
 chapeau-text: Garantir l’envoi de fichiers volumineux de manière simple et sécurisée,
   entre agents de l’État ou avec des interlocuteurs extérieurs, c’est la promesse
   de France transfert lancé aujourd’hui pour tous les ministères. L’État enrichit
@@ -11,6 +16,8 @@ chapeau-text: Garantir l’envoi de fichiers volumineux de manière simple et s�
   le ministère de la Culture en collaboration avec la direction interministérielle
   du numérique (DINUM), France transfert est désormais mis à la disposition de l’ensemble
   des agents de l’État par le ministère de la Transformation et de la Fonction publiques.
+une-ou-diaporama:
+- image: "/uploads/2022_04_07_800x430_France-transfert.png"
 ---
 
 Proposé aux agents de l’État, aux usagers, aux partenaires ou aux prestataires extérieurs (issus des secteurs publics, privés ou associatifs), France transfert est accessible en ligne pour des échanges de fichiers avec des agents de l’État. Ce service interministériel offre la possibilité de partager des fichiers non sensibles et volumineux avec un maximum de 100 destinataires, sans nécessité de connexion à un compte, garantissant un envoi simple et rapide. Parmi les autres fonctionnalités : la personnalisation de la durée d’activation du lien du pli ou encore la possibilité de récupérer des fichiers grâce à un lien ou par email. La solution est hébergée sur une offre de cloud français bénéficiant de la qualification « SecNumCloud » de l’ANSSI, proposée dans le cadre de la stratégie Cloud au centre de l’État.
