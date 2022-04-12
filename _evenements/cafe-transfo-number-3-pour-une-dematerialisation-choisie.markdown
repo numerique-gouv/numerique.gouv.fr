@@ -42,11 +42,11 @@ Nous vous proposons à cet effet, une table ronde pour établir le bilan des ini
 
 ## Intervenants
 
-* **Daniel AGACINSKI**, Délégué général à la médiation | Défenseur des droits
-* **Marine BOUDEAU**, Cheffe du pôle Design des services numériques et Haute-fonctionnaire au handicap et à l’inclusion | Direction interministérielle du numérique (DINUM)
-* **Isabelle SUSSET**, Cheffe du bureau des minimas sociaux | Direction générale de la
+* **Daniel AGACINSKI**, Délégué général à la médiation / Défenseur des droits
+* **Marine BOUDEAU**, Cheffe du pôle Design des services numériques et Haute-fonctionnaire au handicap et à l’inclusion / Direction interministérielle du numérique (DINUM)
+* **Isabelle SUSSET**, Cheffe du bureau des minimas sociaux / Direction générale de la
 cohésion sociale (DGCS)
-* **Valérie NOUVEL**, Vice-Présidente en charge de la transition et de l’adaptation au changement climatique | Conseil départemental de la Manche et Vice-Présidente de la Commission numérique | Assemblée des départements de France (ADF)
+* **Valérie NOUVEL**, Vice-Présidente en charge de la transition et de l’adaptation au changement climatique / Conseil départemental de la Manche et Vice-Présidente de la Commission numérique / Assemblée des départements de France (ADF)
 * **Pierre-Louis ROLLE**, Directeur des programmes Société Numérique, Agence Nationale de Cohésion des Territoires (ANCT)
 
 ## Programme détaillé
