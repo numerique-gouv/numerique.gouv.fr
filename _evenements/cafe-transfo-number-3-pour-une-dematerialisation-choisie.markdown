@@ -38,6 +38,8 @@ Nous vous proposons à cet effet, une table ronde pour établir le bilan des ini
 
 <p align="center"><a href="https://www.eventbrite.fr/e/billets-le-numerique-au-service-des-politiques-publiques-de-jeunesse-168711525715" class="button">S'inscrire à l'événement</a></p>
 
+[En savoir plus sur la mission TRANSFO](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/)
+
 ## Intervenants
 
 * **Daniel AGACINSKI**, Délégué général à la médiation | Défenseur des droits
