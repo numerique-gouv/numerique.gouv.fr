@@ -1,7 +1,6 @@
 ---
 title: 'Café Transfo #3 - Pour une dématérialisation choisie'
 date: 2022-04-12 10:33:00 +02:00
-published: false
 categories:
 - Rencontre
 - Table ronde
