@@ -38,13 +38,15 @@ Nous vous proposons à cet effet, une table ronde pour établir le bilan des ini
 
 <p align="center"><a href="https://www.eventbrite.fr/e/billets-le-numerique-au-service-des-politiques-publiques-de-jeunesse-168711525715" class="button">S'inscrire à l'événement</a></p>
 
+[En savoir plus sur la mission TRANSFO](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/)
+
 ## Intervenants
 
-* **Daniel AGACINSKI**, Délégué général à la médiation | Défenseur des droits
-* **Marine BOUDEAU**, Cheffe du pôle Design des services numériques et Haute-fonctionnaire au handicap et à l’inclusion | Direction interministérielle du numérique (DINUM)
-* **Isabelle SUSSET**, Cheffe du bureau des minimas sociaux | Direction générale de la
+* **Daniel AGACINSKI**, Délégué général à la médiation / Défenseur des droits
+* **Marine BOUDEAU**, Cheffe du pôle Design des services numériques et Haute-fonctionnaire au handicap et à l’inclusion / Direction interministérielle du numérique (DINUM)
+* **Isabelle SUSSET**, Cheffe du bureau des minimas sociaux / Direction générale de la
 cohésion sociale (DGCS)
-* **Valérie NOUVEL**, Vice-Présidente en charge de la transition et de l’adaptation au changement climatique | Conseil départemental de la Manche et Vice-Présidente de la Commission numérique | Assemblée des départements de France (ADF)
+* **Valérie NOUVEL**, Vice-Présidente en charge de la transition et de l’adaptation au changement climatique / Conseil départemental de la Manche et Vice-Présidente de la Commission numérique / Assemblée des départements de France (ADF)
 * **Pierre-Louis ROLLE**, Directeur des programmes Société Numérique, Agence Nationale de Cohésion des Territoires (ANCT)
 
 ## Programme détaillé
