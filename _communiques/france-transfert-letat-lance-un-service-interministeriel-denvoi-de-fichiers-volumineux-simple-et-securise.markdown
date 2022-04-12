@@ -33,5 +33,5 @@ Les premiers travaux portant sur France transfert ont été initiés en juillet 
 
 Lauréat de France Relance dans le cadre du guichet [« Développer des outils de communication et de collaboration pour les agents »](https://france-relance.transformation.gouv.fr/b8f4-developper-des-outils-de-communication-et-de-) opéré par la DINUM, il a bénéficié d’un soutien financier représentant plus de 70% du coût total du projet assurant notamment la création de contenu pédagogique et son déploiement auprès des agents de l’État.
 
-[Accéder à France transfert](https://francetransfert.numerique.gouv.fr/upload)
-[Consulter les outils mis à disposition des agents de l’État](https://www.numerique.gouv.fr/outils-agents/)
+<br>[Accéder à France transfert](https://francetransfert.numerique.gouv.fr/upload)
+<br>[Consulter les outils mis à disposition des agents de l’État](https://www.numerique.gouv.fr/outils-agents/)
