@@ -19,7 +19,7 @@ chapeau-text: Garantir l’envoi de fichiers volumineux de manière simple et s�
 une-ou-diaporama:
 - image: "/uploads/2022_04_07_800x430_France-transfert.png"
 files:
-- file: "/uploads/CP_LANCEMENT_FRANCE_TRANSFERT_SERVICE_INTERMINISTERIEL_ENVOI_FICHIERS_VO/pdf"
+- file: "/uploads/CP_LANCEMENT_FRANCE_TRANSFERT_SERVICE_INTERMINISTERIEL.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
