@@ -37,11 +37,11 @@ Nous vous proposons à cet effet, une **table ronde** pour établir le bilan des
 
 <p align="center"><a href="https://www.eventbrite.fr/e/billets-le-numerique-au-service-des-politiques-publiques-de-jeunesse-168711525715" class="button">S'inscrire à l'événement</a></p>
 
-[En savoir plus sur la mission TRANSFO](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/)
+[En savoir plus sur la mission Transformation numérique de l’État](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/)
 
 ## Intervenants
 
-* **Daniel AGACINSKI**, Délégué général à la médiation / Défenseur des droits
+* **Daniel AGACINSKI**, délégué général à la médiation / Défenseur des droits
 
 * **Marine BOUDEAU**, cheffe du pôle Design des services numériques et Haute-fonctionnaire au handicap et à l’inclusion / Direction interministérielle du numérique (DINUM)
 
@@ -50,11 +50,11 @@ Nous vous proposons à cet effet, une **table ronde** pour établir le bilan des
 
 * **Valérie NOUVEL**, vice-présidente en charge de la transition et de l’adaptation au changement climatique / Conseil départemental de la Manche et vice-présidente de la Commission numérique / Assemblée des départements de France (ADF)
 
-* **Pierre-Louis ROLLE**, Directeur des programmes Société numérique, Agence nationale de cohésion des territoires (ANCT)
+* **Pierre-Louis ROLLE**, directeur des programmes Société numérique, Agence nationale de cohésion des territoires (ANCT)
 
 ## Programme détaillé
 
-* **Temps 1 – Propos liminaires \[5 minutes\]** par Patrick Ruestchmann, chef de la mission Transformation numérique de l’État
+* **Temps 1 – Propos liminaires \[5 minutes\]** par Patrick Ruestchmann, chef de la mission Transformation numérique de l’État 
 
 * **Temps 2 – Table Ronde \[40 minutes\] :** À l’heure du bilan sur les initiatives lancées par l’État pour accompagner la dématérialisation et pallier la fracture numérique, quels sont les dispositifs qui fonctionnent, ceux en perte de vitesse et ceux qui manquent encore à l’appel ? Quelles sont les initiatives portées par les administrations ? Comment assurer une dématérialisation pour l’ensemble du territoire, sans distinction ?
 
