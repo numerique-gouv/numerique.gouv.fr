@@ -6,12 +6,11 @@ categories:
 - Table ronde
 tags:
 - Café Transfo
-chapeau-text: La mission Transformation numérique de l’État de la DINUM vous propose
-  un nouveau Café Transfo pour établir les initiatives portées par l’État, afin d’avancer
-  vers une dématérialisation des services en ligne, apporter un regard sur les dispositifs
-  vertueux et ceux qui manquent encore à l’appel. Une réflexion collective sera ensuite
-  engagée pour dessiner les contours d’une dématérialisation souhaitable et choisie,
-  répondant aux besoins des usagers.
+chapeau-text: 'Comment mettre en œuvre une dématérialisation choisie, qui ne laisse
+  personne au bord du chemin et réponde aux besoins des usagers ? La mission Transformation
+  numérique de l’État de la DINUM vous propose de mener une réflexion collective autour
+  de ce thème lors d’un nouveau Café Transfo, lundi 25 avril, à Paris et en ligne.
+  Une table ronde sera suivie d’un débat et d’échanges avec le public. '
 une-ou-diaporama:
 - image: "/uploads/2021_05_31_Caf%C3%A9-de-la-Transfo_1600x860-2.jpg"
   alternative-textuelle: Café Transfo
@@ -29,11 +28,11 @@ champs_informations:
 
 **L’équipe Transformation numérique de l’État de la DINUM est heureuse de vous convier à la troisième édition du Café Transfo qui aura lieu le 25 avril 2022 de 16h30 à 18h.**
 
-**La dématérialisation des services en ligne simplifie l’accès à l’administration**, apporte une **meilleure qualité de service** à de nombreux usagers et permet de **pallier le recul croissant des guichets et lieux d’accueil physiques** sur le territoire. Elle est aussi, pour les agents publics, synonyme d’une meilleure gestion des relations avec les usagers.
+**La dématérialisation des services publics simplifie l’accès à l’administration**, apporte une **meilleure qualité de service** à de nombreux usagers et permet de **pallier le recul croissant des guichets et lieux d’accueil physiques** sur le territoire. Elle est aussi, pour les agents publics, synonyme d’une meilleure gestion des relations avec les usagers.
 
-Pour autant, elle a également contribué à **modifier la relation entre l’administration et les usagers**. Source d’inquiétude pour certains, vecteur de renfort des inégalités pour d’autres, la dématérialisation des services en ligne reste un chantier **mettant en lumière la fracture numérique et l’éloignement d’une partie de la population**, de leurs droits, et des services publics.
+Pour autant, elle a également contribué à **modifier la relation entre l’administration et les usagers**. Source d’inquiétude pour certains, vecteur de renfort des inégalités pour d’autres, la dématérialisation des services publics reste un chantier **mettant en lumière la fracture numérique et l’éloignement d’une partie de la population**, de leurs droits, et des services publics.
 
-Nous vous proposons à cet effet, une **table ronde** pour établir le bilan des initiatives portées par l’État **afin d’avancer vers une dématérialisation des services en ligne** ne laissant personne sur le bord de la route, apporter un regard objectif sur les dispositifs vertueux et ceux qui manquent encore à l’appel. Nous vous proposerons également une **réflexion collective** pour nous interroger et **dessiner les contours d’une dématérialisation souhaitable et choisie**, répondant aux besoins des usagers.
+Nous vous proposons à cet effet, une **table ronde** pour établir le bilan des initiatives portées par l’État **afin d’avancer vers une dématérialisation des services publics** ne laissant personne sur le bord de la route, apporter un regard objectif sur les dispositifs vertueux et ceux qui manquent encore à l’appel. Nous vous proposerons également une **réflexion collective** pour nous interroger et **dessiner les contours d’une dématérialisation souhaitable et choisie**, répondant aux besoins des usagers.
 
 <p align="center"><a href="https://www.eventbrite.fr/e/billets-cafe-transfo-3-pour-une-dematerialisation-choisie-319358759647" class="button">S'inscrire à l'événement</a></p>
 
