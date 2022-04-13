@@ -54,7 +54,7 @@ Nous vous proposons à cet effet, une **table ronde** pour établir le bilan des
 
 ## Programme détaillé
 
-* **Temps 1 – Propos liminaires \[5 minutes\]** par Patrick Ruestchmann, chef de la mission Transformation numérique de l’État 
+* **Temps 1 – Propos liminaires \[5 minutes\]** par Patrick Ruestchmann, chef de la mission Transformation numérique de l’État de la DINUM
 
 * **Temps 2 – Table Ronde \[40 minutes\] :** À l’heure du bilan sur les initiatives lancées par l’État pour accompagner la dématérialisation et pallier la fracture numérique, quels sont les dispositifs qui fonctionnent, ceux en perte de vitesse et ceux qui manquent encore à l’appel ? Quelles sont les initiatives portées par les administrations ? Comment assurer une dématérialisation pour l’ensemble du territoire, sans distinction ?
 
