@@ -63,5 +63,5 @@ Nous vous proposons à cet effet, une **table ronde** pour établir le bilan des
 * **Temps 4 – Questions/Réponses et échanges avec le public \[\~20 minutes\]**
 
 <div class="encadre noir" style="margin-bottom:40px">
-
+<br>
 <p>Le Café Transfo est un événement organisé par <a href="https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/" la mission Transformation numérique de l'État</a> ayant pour objectifs la mobilisation de l'intelligence collective et la diffusion de bonnes pratiques en matière de transformation numérique. Cet événement est destiné à l’ensemble des décideurs publics qui se sentent concernés par les grands enjeux du numérique. Il se veut être une place de partage collaboratif de bonnes pratiques par et pour les administrations.</p>
