@@ -43,7 +43,7 @@ Nous vous proposons à cet effet, une **table ronde** pour établir le bilan des
 
 * **Daniel AGACINSKI**, délégué général à la médiation / Défenseur des droits
 
-* **Marine BOUDEAU**, cheffe du pôle Design des services numériques et Haute-fonctionnaire au handicap et à l’inclusion / Direction interministérielle du numérique (DINUM)
+* **Marine BOUDEAU**, cheffe du pôle design des services numériques et haute-fonctionnaire au handicap et à l’inclusion / Direction interministérielle du numérique (DINUM)
 
 * **Isabelle SUSSET**, cheffe du bureau des minimas sociaux / Direction générale de la
   cohésion sociale (DGCS)
