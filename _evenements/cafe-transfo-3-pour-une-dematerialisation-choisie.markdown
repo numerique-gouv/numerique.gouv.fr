@@ -6,12 +6,12 @@ categories:
 - Table ronde
 tags:
 - Café Transfo
-chapeau-text: Le Café Transfo est un événement organisé par le [programme TECH.GOUV](https://www.numerique.gouv.fr/actualites/tech-gouv-accelerer-la-transformation-numerique-du-service-public/)
-  ayant pour objectifs la mobilisation de l’intelligence collective et la diffusion
-  de bonnes pratiques en matière de transformation numérique. Cet événement est destiné
-  à l’ensemble des décideurs publics qui se sentent concernés par les grands enjeux
-  du numérique. Il se veut être une place de partage collaboratif de bonnes pratiques
-  par et pour les administrations.
+chapeau-text: La mission Transformation numérique de l’État de la DINUM vous propose
+  un nouveau Café Transfo pour établir les initiatives portées par l’État, afin d’avancer
+  vers une dématérialisation des services en ligne, apporter un regard sur les dispositifs
+  vertueux et ceux qui manquent encore à l’appel. Une réflexion collective sera ensuite
+  engagée pour dessiner les contours d’une dématérialisation souhaitable et choisie,
+  répondant aux besoins des usagers.
 une-ou-diaporama:
 - image: "/uploads/2021_05_31_Caf%C3%A9-de-la-Transfo_1600x860-2.jpg"
   alternative-textuelle: Café Transfo
@@ -64,4 +64,4 @@ Nous vous proposons à cet effet, une **table ronde** pour établir le bilan des
 
 <div class="encadre noir" style="margin-bottom:40px">
 <br>
-<p>Le Café Transfo est un événement organisé par href="https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/"<a> la mission Transformation numérique de l'État</a> ayant pour objectifs la mobilisation de l'intelligence collective et la diffusion de bonnes pratiques en matière de transformation numérique. Cet événement est destiné à l’ensemble des décideurs publics qui se sentent concernés par les grands enjeux du numérique. Il se veut être une place de partage collaboratif de bonnes pratiques par et pour les administrations.</p>
+<p>Le Café Transfo est un événement organisé par href="https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/"<a> la mission Transformation numérique de l'État</a> ayant pour objectifs de tirer tout le potentiel du numérique – dans toutes ses composantes– pour transformer les politiques publiques par la transformation numérique. Cet événement est destiné à l’ensemble des décideurs publics qui se sentent concernés par les grands enjeux du numérique. Il se veut être une place de partage collaboratif de bonnes pratiques par et pour les administrations.</p>
