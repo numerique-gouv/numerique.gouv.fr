@@ -35,7 +35,7 @@ Pour autant, elle a également contribué à **modifier la relation entre l’ad
 
 Nous vous proposons à cet effet, une **table ronde** pour établir le bilan des initiatives portées par l’État **afin d’avancer vers une dématérialisation des services en ligne** ne laissant personne sur le bord de la route, apporter un regard objectif sur les dispositifs vertueux et ceux qui manquent encore à l’appel. Nous vous proposerons également une **réflexion collective** pour nous interroger et **dessiner les contours d’une dématérialisation souhaitable et choisie**, répondant aux besoins des usagers.
 
-<p align="center"><a href="https://www.eventbrite.fr/e/billets-le-numerique-au-service-des-politiques-publiques-de-jeunesse-168711525715" class="button">S'inscrire à l'événement</a></p>
+<p align="center"><a href="https://www.eventbrite.fr/e/billets-cafe-transfo-3-pour-une-dematerialisation-choisie-319358759647" class="button">S'inscrire à l'événement</a></p>
 
 [En savoir plus sur la mission Transformation numérique de l’État](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/)
 
