@@ -59,7 +59,7 @@ Nous vous proposons à cet effet, une **table ronde** pour établir le bilan des
 
 * **Temps 3 – Débat \[25 minutes\] :** Faut-il continuer coûte que coûte ce processus de dématérialisation des démarches administratives ? Comment faire pour que la numérisation des services publics réponde aux besoins des usagers ? Faut-il questionner la stratégie de numérisation systématique des démarches en mesurant l’opportunité d’une numérisation et son adaptation à tous les types de publics ?
 
-* **Temps 4 – Questions/Réponses et échanges avec le public \[\~20 minutes\]**
+* **Temps 4 – \[\~20 minutes\] :** Questions/Réponses et échanges avec le public
 
 <div class="encadre noir" style="margin-bottom:40px">
 <br>
