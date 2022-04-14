@@ -32,9 +32,9 @@ champs_informations:
 
 Pour autant, elle a également contribué à **modifier la relation entre l’administration et les usagers**. Source d’inquiétude pour certains, vecteur de renfort des inégalités pour d’autres, la dématérialisation des services publics reste un chantier **mettant en lumière la fracture numérique et l’éloignement d’une partie de la population**, de leurs droits, et des services publics.
 
-Nous vous proposons à cet effet, une **table ronde** pour établir le bilan des initiatives portées par l’État **afin d’avancer vers une dématérialisation des services publics** ne laissant personne sur le bord de la route, apporter un regard objectif sur les dispositifs vertueux et ceux qui manquent encore à l’appel. Nous vous proposerons également une **réflexion collective** pour nous interroger et **dessiner les contours d’une dématérialisation souhaitable et choisie**, répondant aux besoins des usagers.
+Nous vous proposons une **table ronde**, d’une part pour établir le bilan des initiatives portées par l’État sur **la dématérialisation des services publics** et d’autre part, pour apporter un regard objectif sur les dispositifs vertueux et ceux qui manquent encore à l’appel. Les participants auront également l’opportunité de contribuer à **une réflexion collective pour dessiner les contours d’une dématérialisation souhaitable et choisie**, répondant aux besoins des usagers.
 
-<p align="center"><a href="https://www.eventbrite.fr/e/billets-cafe-transfo-3-pour-une-dematerialisation-choisie-319358759647" class="button">S'inscrire à l'événement</a></p>
+<p align="center"><a href="https://www.eventbrite.fr/e/billets-cafe-transfo-3-pour-une-dematerialisation-choisie-319358759647" class="button" alt=" S'inscrire à l'événement – Lien externe">S'inscrire à l'événement</a></p>
 
 [En savoir plus sur la mission Transformation numérique de l’État](https://www.numerique.gouv.fr/services/conseil-strategie-transformation-numerique/)
 
@@ -55,7 +55,7 @@ Nous vous proposons à cet effet, une **table ronde** pour établir le bilan des
 
 * **Temps 1 – Propos liminaires \[5 minutes\]** par Patrick Ruestchmann, chef de la mission Transformation numérique de l’État de la DINUM
 
-* **Temps 2 – Table Ronde \[40 minutes\] :** À l’heure du bilan sur les initiatives lancées par l’État pour accompagner la dématérialisation et pallier la fracture numérique, quels sont les dispositifs qui fonctionnent, ceux en perte de vitesse et ceux qui manquent encore à l’appel ? Quelles sont les initiatives portées par les administrations ? Comment assurer une dématérialisation pour l’ensemble du territoire, sans distinction ?
+* **Temps 2 – Table ronde \[40 minutes\] :** À l’heure du bilan sur les initiatives lancées par l’État pour accompagner la dématérialisation et pallier la fracture numérique, quels sont les dispositifs qui fonctionnent, ceux en perte de vitesse et ceux qui manquent encore à l’appel ? Quelles sont les initiatives portées par les administrations ? Comment assurer une dématérialisation pour l’ensemble du territoire, sans distinction ?
 
 * **Temps 3 – Débat \[25 minutes\] :** Faut-il continuer coûte que coûte ce processus de dématérialisation des démarches administratives ? Comment faire pour que la numérisation des services publics réponde aux besoins des usagers ? Faut-il questionner la stratégie de numérisation systématique des démarches en mesurant l’opportunité d’une numérisation et son adaptation à tous les types de publics ?
 
