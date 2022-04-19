@@ -47,8 +47,6 @@ Nous vous proposons une **table ronde**, d’une part pour établir le bilan des
 * **Isabelle SUSSET**, cheffe du bureau des minimas sociaux / Direction générale de la
   cohésion sociale (DGCS)
 
-* **Valérie NOUVEL**, vice-présidente en charge de la transition et de l’adaptation au changement climatique / Conseil départemental de la Manche et vice-présidente de la Commission numérique / Assemblée des départements de France (ADF)
-
 * **Pierre-Louis ROLLE**, directeur des programmes Société numérique, Agence nationale de cohésion des territoires (ANCT)
 
 ## Programme détaillé
