@@ -52,22 +52,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Tchap, mission Beta - Architecte Système / DevOps H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-systeme--devops-hf-cdd3ans-reference-2022-825703/ "Architecte Système / DevOps H/F - Lien externe")**
-<br>Cadre/Catégorie A, sur Paris ou Lyon
-<br>
-
-* **[Gestionnaire administratif, budgétaire et financier H/F](https://place-emploi-public.gouv.fr/offre-emploi/gestionnaire-administratif-budgetaire-et-financier-hf-reference-2022-822934/ "Gestionnaire administratif, budgétaire et financier H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Ingénieur-e réseau - Chargé-e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres----cdd-3ans-renouvelable-hf-reference-2022-808713/ "Ingénieur-e réseau - Chargé-e de relations ministères - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé-e de mission production sites sensibles du réseau interministériel de l'Etat (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-production-sites-sensibles-du-reseau-interministeriel-de-l-etat-rie-hf-reference-2022-835281/ "Chargé-e de mission production sites sensibles du réseau interministériel de l'Etat (RIE) H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 <!--
 > ### Talents du numérique : l’État recrute !
 > <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
