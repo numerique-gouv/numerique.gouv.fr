@@ -23,7 +23,7 @@ champs_informations:
 - intitule: Modalités
   contenu: Inscription obligatoire avec une adresse professionnelle issue de la fonction
     publique
-  lien: 
+  lien: https://www.eventbrite.fr/e/billets-cafe-transfo-3-pour-une-dematerialisation-choisie-319358759647
 ---
 
 **L’équipe Transformation numérique de l’État de la DINUM est heureuse de vous convier à la troisième édition du Café Transfo qui aura lieu le 25 avril 2022 de 16h30 à 18h.**
@@ -59,7 +59,7 @@ Nous vous proposons une **table ronde**, d’une part pour établir le bilan des
 
 * **Temps 3 – Débat \[25 minutes\] :** Faut-il continuer coûte que coûte ce processus de dématérialisation des démarches administratives ? Comment faire pour que la numérisation des services publics réponde aux besoins des usagers ? Faut-il questionner la stratégie de numérisation systématique des démarches en mesurant l’opportunité d’une numérisation et son adaptation à tous les types de publics ?
 
-* **Temps 4 – \[\~20 minutes\] :** Questions/Réponses et échanges avec le public
+* **Temps 4 – Questions/Réponses et échanges avec le public \[\~20 minutes\] :**
 
 <div class="encadre noir" style="margin-bottom:40px">
 <br>
