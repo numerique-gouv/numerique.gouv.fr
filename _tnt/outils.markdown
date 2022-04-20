@@ -26,6 +26,10 @@ Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités
 
 L’agenda a une visée évolutive et sera alimenté régulièrement.
 
+Les collectivités sont également invitées à faire part de leur avis sur chaque dispositif présenté dans l’agenda, afin de remonter leur retour d’expérience, difficultés éventuelles de mise en œuvre et améliorations constatées (du service aux usagers, des processus internes, des échanges avec les services de l’État, etc).
+
+Aidez-nous aussi à améliorer cet agenda (contenu, interface…) en répondant à [l’enquête de satisfaction dédiée](https://sgmap.sphinxdeclic.com/surveyserver/s/ifeb7o "l’enquête de satisfaction dédiée - Lien externe").
+
 Vous êtes une direction ministérielle et pilotez un chantier de transformation numérique qui aura un impact pour les collectivités territoriales ? Faites-le ajouter dans cet agenda pour le porter à leur connaissance, en renseigner les jalons et obligations à l’adresse des collectivités. Pour cela, contactez le programme TNT à [tnt.dinum@modernisation.gouv.fr](mailto:tnt.dinum@modernisation.gouv.fr).
 <br>
 <br>
