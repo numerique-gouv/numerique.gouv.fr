@@ -35,11 +35,6 @@ publications:
   url: "/outils-agents/resana/"
   une-ou-diaporama:
   - image: "/uploads/740x500_Resana.jpg"
-- title: 'Webconférence : quels outils pour les agents de l’État pendant la crise
-    Covid-19 ?'
-  url: "/outils-agents/organiser-webconference-outils-agents-etat/"
-  une-ou-diaporama:
-  - image: "/uploads/outils_webconference-rub.png"
 layout: publications
 ---
 
