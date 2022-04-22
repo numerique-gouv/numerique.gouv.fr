@@ -10,10 +10,11 @@ tags:
 - Travail à distance
 - Travail collaboratif
 date_de_modification: 1er décembre 2020
-chapeau-text: Dans cette période de crise et de télétravail massif, la DINUM a recensé
-  des outils de webconférence recommandés pour les agents de l’État, en complément
-  de la webconférence de l’État. Un tableau vous aidera à choisir la solution qui
-  répond le mieux à vos besoins. Édition actualisée en décembre 2020.
+chapeau-text: |-
+  *- Ces recommandations ont été établies durant la crise sanitaire Covid-19 en 2020 pour soutenir le recours massif à ce type d'outils. Les agents sont invités désormais à utiliser la [Webconférence de l’État](/outils-agents/webconference-etat/)
+  et le [Webinaire de l’État](/outils-agents/webinaire-etat)*
+
+  Dans cette période de crise et de télétravail massif, la DINUM a recensé des outils de webconférence recommandés pour les agents de l’État, en complément de la webconférence de l’État. Un tableau vous aidera à choisir la solution qui répond le mieux à vos besoins. Édition actualisée en décembre 2020.
 une:
   image: "/uploads/outils_webconference-fille-ed7038.png"
 layout: rgaa
