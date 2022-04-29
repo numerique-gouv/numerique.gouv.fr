@@ -44,10 +44,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Hyperviseur référent NOC H/F](https://place-emploi-public.gouv.fr/offre-emploi/hyperviseur-referent-noc-hf-reference-2022-888715/ "Hyperviseur référent NOC H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>Saint-Jacques-de-la-Lande (35)
-
 * **[Architecte en cybersécurité H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-en-cybersecurite-hf-reference-2022-861612/ "Architecte en cybersécurité H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -71,6 +67,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 * **[Responsable relations institutionnelles H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-relations-institutionnelles-hf-reference-2022-882595/ "Responsable relations institutionnelles H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
+
+* **[Hyperviseur référent NOC H/F](https://place-emploi-public.gouv.fr/offre-emploi/hyperviseur-referent-noc-hf-reference-2022-888715/ "Hyperviseur référent NOC H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>Saint-Jacques-de-la-Lande (35)
 
 <!--
 > ### Talents du numérique : l’État recrute !
