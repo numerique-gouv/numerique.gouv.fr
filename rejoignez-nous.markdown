@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 22 mars 2022
+date_de_modification: 29 avril 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -40,16 +40,36 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Développeur/Développeuse au sein de la Brigade d'Intervention Numérique H/F](https://place-emploi-public.gouv.fr/offre-emploi/developpeurdeveloppeuse-au-sein-de-la-brigade-d-intervention-numerique---cdd-20-mois-hf-reference-2022-850923/ "Développeur/Développeuse au sein de la Brigade d'Intervention Numérique H/F - Lien externe")**
+* **[Data Engineer H/F](https://place-emploi-public.gouv.fr/offre-emploi/data-engineer-hf-reference-2022-885682/ "Data Engineer H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Designer UX/UI H/F](https://place-emploi-public.gouv.fr/offre-emploi/designer-uxui---cdd-de-20-mois-hf-reference-2022-850892/ "Designer UX/UI - CDD de 20 mois H/F - Lien externe")**
+* **[Architecte en cybersécurité H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-en-cybersecurite-hf-reference-2022-861612/ "Architecte en cybersécurité H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Product Owner H/F](https://place-emploi-public.gouv.fr/offre-emploi/product-owner-hf-reference-2022-850905/ "Product Owner H/F - Lien externe")**
+* **[Chargé(e) de mission Gouvernance des données H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-gouvernance-des-donnees-hf-reference-2022-886661/ "Chargé(e) de mission Gouvernance des données H/F - Lien externe")**
 <br>Cadre/Catégorie A
+<br>
+
+* **[Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chef-fe de projet « outils numériques des agents publics » H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--outils-numeriques-des-agents-publics-cdd-3-ans-renouvelable-une-fois-hf-reference-2022-819145/ "Chef-fe de projet « outils numériques des agents publics » H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé(e) de déploiement de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-deploiement-de-produits-numeriques----cdd-de-19-mois-hf-reference-2022-880598/ "Chargé(e) de déploiement de produits numériques H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Responsable relations institutionnelles H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-relations-institutionnelles-hf-reference-2022-882595/ "Responsable relations institutionnelles H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Hyperviseur référent NOC H/F](https://place-emploi-public.gouv.fr/offre-emploi/hyperviseur-referent-noc-hf-reference-2022-888715/ "Hyperviseur référent NOC H/F - Lien externe")**
+<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35)
 <br>
 
 <!--
