@@ -52,15 +52,15 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé(e) de déploiement de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-deploiement-de-produits-numeriques----cdd-de-19-mois-hf-reference-2022-880598/ "Chargé(e) de déploiement de produits numériques H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
 * **[Chef-fe de projet « outils numériques des agents publics » H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--outils-numeriques-des-agents-publics-cdd-3-ans-renouvelable-une-fois-hf-reference-2022-819145/ "Chef-fe de projet « outils numériques des agents publics » H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé(e) de déploiement de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-deploiement-de-produits-numeriques----cdd-de-19-mois-hf-reference-2022-880598/ "Chargé(e) de déploiement de produits numériques H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
