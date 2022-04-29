@@ -69,8 +69,8 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Hyperviseur référent NOC H/F](https://place-emploi-public.gouv.fr/offre-emploi/hyperviseur-referent-noc-hf-reference-2022-888715/ "Hyperviseur référent NOC H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>Saint-Jacques-de-la-Lande (35)
+<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35)
+<br>
 
 <!--
 > ### Talents du numérique : l’État recrute !
