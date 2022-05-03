@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 29 avril 2022
+date_de_modification: 3 mai 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -62,14 +62,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 * **[Chargé(e) de déploiement de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-deploiement-de-produits-numeriques----cdd-de-19-mois-hf-reference-2022-880598/ "Chargé(e) de déploiement de produits numériques H/F - Lien externe")**
 <br>Cadre/Catégorie A
-<br>
-
-* **[Responsable relations institutionnelles H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-relations-institutionnelles-hf-reference-2022-882595/ "Responsable relations institutionnelles H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Hyperviseur référent NOC H/F](https://place-emploi-public.gouv.fr/offre-emploi/hyperviseur-referent-noc-hf-reference-2022-888715/ "Hyperviseur référent NOC H/F - Lien externe")**
-<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35)
 <br>
 
 <!--
