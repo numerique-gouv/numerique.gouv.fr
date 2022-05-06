@@ -2,6 +2,7 @@
 title: Publication du premier rapport de suivi de la Déclaration de Berlin sur la
   société numérique et une administration numérique basée sur des valeurs
 date: 2022-05-06 17:46:00 +02:00
+published: false
 categories:
 - Publication
 - Rapport
