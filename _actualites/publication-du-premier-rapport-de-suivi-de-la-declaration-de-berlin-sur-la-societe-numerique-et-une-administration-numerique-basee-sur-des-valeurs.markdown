@@ -21,4 +21,4 @@ Un an et demi plus tard, dans le contexte de la Présidence française du Consei
 
 Ce premier rapport fait état de bonnes pratiques des États membres et livre des premiers résultats pour des indicateurs soigneusement choisis à l’automne 2021. Ces indicateurs sont appelés à évoluer au cours des prochaines années, afin de refléter au mieux les actions des administrations en relation avec les plus récentes avancées technologiques.
 
-<br><a href=/uploads/20220506_Berlin_Declaration_monitoring_report_2022.pdf" alt="Rapport du suivi de la Déclaration de Berlin - Fichier PDF">> Consulter le rapport</a></p></div>
+<br><a href="/uploads/20220506_Berlin_Declaration_monitoring_report_2022.pdf" alt="Rapport du suivi de la Déclaration de Berlin - Fichier PDF">> Consulter le rapport</a></p></div>
