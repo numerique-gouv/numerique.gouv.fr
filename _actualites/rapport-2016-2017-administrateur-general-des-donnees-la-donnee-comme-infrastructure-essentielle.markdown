@@ -29,9 +29,6 @@ auteur: Depuis agd.data.gouv.fr
 
 <div class="lien-important"><p><a href="/etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf"> Consulter le rapport « La donnée comme infrastructure essentielle »</a></p></div>
 
-> [Consulter le rapport « La donnée comme infrastructure essentielle »](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
-> {: .lien-important role="presentation" }
-
 ## Un état des lieux de la politique de la donnée
 
 Dans son rapport 2016-2017, l’administrateur général des données dresse un état des lieux des pratiques des administrations en matière de production, de circulation et d’exploitation des données. Il fait mention des progrès enregistrés depuis la publication de son rapport précédent (décembre 2015), sur chacun des axes de cette politique :
