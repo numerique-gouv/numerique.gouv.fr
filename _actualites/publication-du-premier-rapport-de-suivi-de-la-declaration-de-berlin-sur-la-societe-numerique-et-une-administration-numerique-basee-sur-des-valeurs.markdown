@@ -6,6 +6,10 @@ categories:
 - Rapport
 tags:
 - administration numérique
+- PFUE
+- Union européenne
+- transformation numérique des États
+- Rapport
 chapeau-text: La Commission européenne publie le premier rapport de suivi de la Déclaration
   de Berlin. Les résultats reflètent les mesures prises par les États membres pour
   une transformation numérique des administrations plus respectueuse des valeurs démocratiques,
