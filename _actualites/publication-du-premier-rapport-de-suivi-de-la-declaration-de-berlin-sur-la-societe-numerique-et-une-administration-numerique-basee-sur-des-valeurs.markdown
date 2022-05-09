@@ -3,7 +3,6 @@ title: Publication du premier rapport de suivi de la Déclaration de Berlin sur 
   société numérique et une administration numérique basée sur des valeurs
 date: 2022-05-06 17:46:00 +02:00
 categories:
-- Publication
 - Rapport
 tags:
 - administration numérique
@@ -21,4 +20,4 @@ Un an et demi plus tard, dans le cadre de sa Présidence du Conseil de l’UE, l
 
 Ce premier rapport fait état de bonnes pratiques des États membres et livre des premiers résultats pour des indicateurs soigneusement choisis à l’automne 2021. Ces indicateurs sont appelés à évoluer au cours des prochaines années, afin de refléter au mieux les actions des administrations en relation avec les plus récentes avancées technologiques.
 
-<br><a href="/uploads/20220506_Berlin_Declaration_monitoring_report_2022.pdf" alt="Rapport du suivi de la Déclaration de Berlin - Fichier PDF">> Consulter le rapport</a>
+<div align="center" style="margin-bottom: 40px"><a href="/uploads/20220506_Berlin_Declaration_monitoring_report_2022.pdf" class="button" alt="Consulter le rapport (pdf, 3,2 Mo)"><b>Consulter le rapport (pdf, 3,2 Mo)</b></a> </div>
