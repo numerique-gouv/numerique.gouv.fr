@@ -4,6 +4,10 @@ title: La transformation numérique des États à la Présidence française du C
 date: 2022-01-06 10:00:00 +01:00
 categories:
 - Article
+tags:
+- PFUE
+- Union européenne
+- transformation numérique des États
 chapeau-text: Pour la première fois depuis 14 ans, la France a pris la présidence
   du Conseil de l’Union européenne (UE), le 1er janvier 2022. Avec le ministère de
   la Transformation et de la Fonction publiques, la direction interministérielle du
