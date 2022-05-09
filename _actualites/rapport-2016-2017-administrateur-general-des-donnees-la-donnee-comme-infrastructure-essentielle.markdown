@@ -27,7 +27,7 @@ auteur: Depuis agd.data.gouv.fr
 
 ![couv-rapport-agd-20162017.png]
 
-<div class="lien-important"><p><a href="/etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf"> Consulter le rapport « La donnée comme infrastructure essentielle »</a></p></div>
+<div class="lien-important"><p><a href="/uploads/2018/04/RapportAGD_2016-2017_web.pdf"> Consulter le rapport « La donnée comme infrastructure essentielle »</a></p></div>
 
 ## Un état des lieux de la politique de la donnée
 
