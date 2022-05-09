@@ -14,6 +14,8 @@ chapeau-text: La Commission européenne publie le premier rapport de suivi de la
   de Berlin. Les résultats reflètent les mesures prises par les États membres pour
   une transformation numérique des administrations plus respectueuse des valeurs démocratiques,
   des droits humains et de l’environnement.
+une-ou-diaporama:
+- image: "/uploads/2022_05_09_800x430_Visuel-Actus_Rapport-Berlin.jpg"
 ---
 
 Respect des droits fondamentaux et des valeurs démocratiques, inclusion numérique, participation citoyenne, technologies innovantes centrées sur l’humain, souveraineté numérique…
