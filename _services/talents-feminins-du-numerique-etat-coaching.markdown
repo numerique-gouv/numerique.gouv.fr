@@ -9,6 +9,7 @@ tags:
 chapeau-text: |-
   Et si vous vous donniez toutes les chances de réussir votre évolution professionnelle ? En 2 jours et demi, notre programme de coaching, ouvert à toutes les professionnelles du numérique au sein de l’État, vous aidera à en devenir pleinement actrice.
   Inscrivez-vous jusqu’au 30 juin 2022.
+layout: rgaa
 ---
 
 Agente de l’État, vous travaillez dans le numérique et souhaitez faire évoluer votre carrière ?
