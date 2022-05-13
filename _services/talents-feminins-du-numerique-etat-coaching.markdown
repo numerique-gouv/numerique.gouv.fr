@@ -81,13 +81,6 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
     </tr>
   </tbody>
 </table>
-	1,5 jour	1 jour
-* **Groupe 4**
-22 septembre (après-midi) - 23 septembre 2022	17 octobre 2022
-* **Groupe 5**	29 septembre (après-midi) - 30 septembre 2022	15 novembre 2022
-* **Groupe 6**	3 octobre (après-midi) - 4 octobre 2022	17 novembre 2022
-* **Groupe 7**	12 octobre (après-midi) - 13 octobre 2022	23 novembre 2022
-* **Groupe 8**	20 octobre (après-midi) - 21 octobre 2022	15 décembre 2022
 
 * **80,9%** estiment avoir identifié un changement dans leur vie professionnelle : changement de posture, gain de confiance en soi…
 * **89,4%** recommandent ce programme de coaching à d’autres femmes
