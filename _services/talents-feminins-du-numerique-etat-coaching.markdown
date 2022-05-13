@@ -34,7 +34,7 @@ Notre objectif : **vous aider à oser et vous dépasser,** dans le but de progre
 Ce dispositif est ouvert à toutes, quel que soit votre niveau de fonction ou de responsabilités. 
 Le seul prérequis est d’avoir un projet professionnel défini, viable et concret d’évolution, de mobilité ou de montée en responsabilités. Une sélection sera effectuée sur la base de ces critères.
 
-# En quoi consiste le programme ?
+<h1 class="h2">En quoi consiste le programme ?</h1>
 Sur 2 jours et demi (une session d’1,5j et une session d’1j), à Paris, en petit groupe de 6 participantes, vous serez accompagnée selon une méthode de coaching reposant sur la mise en mouvement et d’autres outils innovants visant à vous aider à déceler et faire émerger tout votre potentiel.
 
 Il ne s’agit ni d’une formation, ni d’un accompagnement de carrière.
@@ -44,7 +44,7 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 <blockquote class="citation"><p>Nos 2 coachs nous ont bousculées, taillées et polies pour nous faire découvrir les multiples facettes de la femme que nous sommes chacune et faire émerger la sculpture.&nbsp;»</p> </blockquote>
 <blockquote class="auteur-citation"> <p><strong>Une participante d'une promotion précédente</strong></p> </blockquote>
 
-# Les prochaines sessions
+<h1 class="h2">Les prochaines sessions</h1>
 <table>
   <tbody>
     <thead>
@@ -93,7 +93,7 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 * **89,4%** recommandent ce programme de coaching à d’autres femmes
 *(sur 47 participantes ayant répondu à l’enquête)*
 
-# Déposez votre candidature ! 
+<h1 class="h2">Déposez votre candidature !</h1>
 1. Renseignez la fiche d’inscription, faites-la signer à votre supérieur si vous comptez effectuer le programme pendant vos heures de travail
 2. Retournez-la par courriel à <a href="mailto:talents.numeriques@modernisation.gouv.fr>talents.numeriques@modernisation.gouv.fr</a>
 
