@@ -97,6 +97,6 @@ Le programme accueillera 30 femmes, réparties en groupes de 6, répondant aux p
 *Un programme créé en 2019 et piloté par la mission Talents de la direction interministérielle du numérique (DINUM). 71 femmes ont déjà bénéficié de cet accompagnement.*
 
 <div class="noir encadre"><h4>Envie de nouveaux défis ? 
-À la recherche d’un nouveau poste dans le numérique au sein de l’État ? 
-</h4> <p>Rendez-vous sur notre nouveau site dédié metiers.numerique.gouv.fr ! Vous y ferez la connaissance des entités du numérique de l’État  et découvrirez les offres d’emploi actuellement à pourvoir dans les ministères.
-</p> <p><a href="https://metiers.numerique.gouv.fr"> > metiers.numerique.gouv.fr</p> </div>
+<br>À la recherche d’un nouveau poste dans le numérique au sein de l’État ? 
+</h4> <p>Rendez-vous sur notre nouveau site dédié <a href="https://metiers.numerique.gouv.fr"> metiers.numerique.gouv.fr</a> ! Vous y ferez la connaissance des entités du numérique de l’État  et découvrirez les offres d’emploi actuellement à pourvoir dans les ministères.
+</p> <p><a href="https://metiers.numerique.gouv.fr"> > metiers.numerique.gouv.fr</a></p> </div>
