@@ -47,27 +47,27 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
     </tr>
     </thead>
     <tr>
-      <th>Groupe 4</td>
+      <th>Groupe 4</th>
       <td>22 septembre (après-midi) - 23 septembre 2022</td>
       <td>17 octobre 2022</td>
     </tr>
     <tr>
-      <th>Groupe 5</td>
+      <th>Groupe 5</th>
       <td>29 septembre (après-midi) - 30 septembre 2022</td>
       <td>15 novembre 2022</td>
     </tr>
     <tr>
-      <th>Groupe 6</td>
+      <th>Groupe 6</th>
       <td>3 octobre (après-midi) - 4 octobre 2022</td>
       <td>17 novembre 2022</td>
     </tr>
     <tr>
-      <th>Groupe 7</td>
+      <th>Groupe 7</th>
       <td>12 octobre (après-midi) - 13 octobre 2022</td>
       <td>23 novembre 2022</td>
     </tr>
     <tr>
-      <th>Groupe 8</td>
+      <th>Groupe 8</th>
       <td>20 octobre (après-midi) - 21 octobre 2022</td>
       <td>15 décembre 2022</td>
     </tr>
