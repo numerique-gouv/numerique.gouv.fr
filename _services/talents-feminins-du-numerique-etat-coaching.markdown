@@ -9,6 +9,14 @@ tags:
 chapeau-text: |-
   Et si vous vous donniez toutes les chances de réussir votre évolution professionnelle ? En 2 jours et demi, notre programme de coaching, ouvert à toutes les professionnelles du numérique au sein de l’État, vous aidera à en devenir pleinement actrice.
   Inscrivez-vous jusqu’au 30 juin 2022.
+style: |
+  table {
+    border: 1px solid black;
+  }
+
+  th, td {
+    border: 1px solid black;
+  }
 layout: rgaa
 ---
 
@@ -41,9 +49,9 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
   <tbody>
     <thead>
     <tr>
-      <th>Groupes</td>
-      <th>1,5 jour</td>
-      <th>1 jour</td>
+      <th>Groupes</th>
+      <th>1,5 jour</th>
+      <th>1 jour</th>
     </tr>
     </thead>
     <tr>
