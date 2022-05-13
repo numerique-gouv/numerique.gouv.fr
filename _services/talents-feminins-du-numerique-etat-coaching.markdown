@@ -36,6 +36,42 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 <blockquote class="auteur-citation"> <p><strong>Témoignage d’une participante de la promo X</strong></p> </blockquote>
 
 # Les prochaines sessions
+<table>
+  <tbody>
+    <thead>
+    <tr>
+      <th>Groupes</td>
+      <th>1,5 jour</td>
+      <th>1 jour</td>
+    </tr>
+    </thead>
+    <tr>
+      <th>Groupe 4</td>
+      <td>22 septembre (après-midi) - 23 septembre 2022</td>
+      <td>17 octobre 2022</td>
+    </tr>
+    <tr>
+      <th>Groupe 5</td>
+      <td>29 septembre (après-midi) - 30 septembre 2022</td>
+      <td>15 novembre 2022</td>
+    </tr>
+    <tr>
+      <th>Groupe 6</td>
+      <td>3 octobre (après-midi) - 4 octobre 2022</td>
+      <td>17 novembre 2022</td>
+    </tr>
+    <tr>
+      <th>Groupe 7</td>
+      <td>12 octobre (après-midi) - 13 octobre 2022</td>
+      <td>23 novembre 2022</td>
+    </tr>
+    <tr>
+      <th>Groupe 8</td>
+      <td>20 octobre (après-midi) - 21 octobre 2022</td>
+      <td>15 décembre 2022</td>
+    </tr>
+  </tbody>
+</table>
 	1,5 jour	1 jour
 * **Groupe 4**
 22 septembre (après-midi) - 23 septembre 2022	17 octobre 2022
