@@ -29,7 +29,7 @@ Notre programme « Talents féminins du numérique » vous accompagne dans votre
 Notre objectif : **vous aider à oser et vous dépasser,** dans le but de progresser professionnellement, soit par une mobilité, soit par la prise de (nouvelles) responsabilités.
 
 <blockquote class="citation"><p>Je repars avec la sensation d’être capable de prendre de risques que je n’imaginais même pas.&nbsp;»</p> </blockquote>
-<blockquote class="auteur-citation"> <p><strong>Témoignage d’une participante de la promo X</strong></p> </blockquote>
+<blockquote class="auteur-citation"> <p><strong>Une participante d'une promotion précédente</strong></p> </blockquote>
 
 Ce dispositif est ouvert à toutes, quel que soit votre niveau de fonction ou de responsabilités. 
 Le seul prérequis est d’avoir un projet professionnel défini, viable et concret d’évolution, de mobilité ou de montée en responsabilités. Une sélection sera effectuée sur la base de ces critères.
@@ -42,7 +42,7 @@ Il ne s’agit ni d’une formation, ni d’un accompagnement de carrière.
 Participer à ce programme est aussi une façon de vous mettre en réseau et rencontrer des paires elles aussi expertes du numérique.
 
 <blockquote class="citation"><p>Nos 2 coachs nous ont bousculées, taillées et polies pour nous faire découvrir les multiples facettes de la femme que nous sommes chacune et faire émerger la sculpture.&nbsp;»</p> </blockquote>
-<blockquote class="auteur-citation"> <p><strong>Témoignage d’une participante de la promo X</strong></p> </blockquote>
+<blockquote class="auteur-citation"> <p><strong>Une participante d'une promotion précédente</strong></p> </blockquote>
 
 # Les prochaines sessions
 <table>
