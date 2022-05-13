@@ -12,25 +12,27 @@ chapeau-text: |-
 ---
 
 Agente de l’État, vous travaillez dans le numérique et souhaitez faire évoluer votre carrière ?
-	Vous souhaitez monter en responsabilités ?
-	Ou changer d’emploi, vers de nouvelles fonctions, une autre administration et/ou un autre secteur géographique ?
-	Ou encore mieux prendre votre place à la suite d’une évolution professionnelle ?
+* Vous souhaitez monter en responsabilités ?
+* Ou changer d’emploi, vers de nouvelles fonctions, une autre administration et/ou un autre secteur géographique ?
+* Ou encore mieux prendre votre place à la suite d’une évolution professionnelle ?
 
 Notre programme « Talents féminins du numérique » vous accompagne dans votre projet d’évolution de carrière !
-Notre objectif : vous aider à oser et vous dépasser, dans le but de progresser professionnellement, soit par une mobilité, soit par la prise de (nouvelles) responsabilités.
+Notre objectif : **vous aider à oser et vous dépasser,** dans le but de progresser professionnellement, soit par une mobilité, soit par la prise de (nouvelles) responsabilités.
 
-« Je repars avec la sensation d’être capable de prendre de risques que je n’imaginais même pas. »
-- Témoignage d’une participante de la promo X  
+<blockquote class="citation"><p>Je repars avec la sensation d’être capable de prendre de risques que je n’imaginais même pas.&nbsp;»</p> </blockquote>
+<blockquote class="auteur-citation"> <p><strong>Témoignage d’une participante de la promo X</strong></p> </blockquote>
 
 Ce dispositif est ouvert à toutes, quel que soit votre niveau de fonction ou de responsabilités. 
 Le seul prérequis est d’avoir un projet professionnel défini, viable et concret d’évolution, de mobilité ou de montée en responsabilités. Une sélection sera effectuée sur la base de ces critères.
 
-En quoi consiste le programme ?
+# En quoi consiste le programme ?
 Sur 2 jours et demi (une session d’1,5j et une session d’1j), à Paris, en petit groupe de 6 participantes, vous serez accompagnée selon une méthode de coaching reposant sur la mise en mouvement et d’autres outils innovants visant à vous aider à déceler et faire émerger tout votre potentiel.
-Il ne s’agit ni d’une formation, ni d’un accompagnement de carrière. 
+
+Il ne s’agit ni d’une formation, ni d’un accompagnement de carrière.
+
 Participer à ce programme est aussi une façon de vous mettre en réseau et rencontrer des paires elles aussi expertes du numérique.
 
-<blockquote class="citation"><p>Nos 2 coachs nous ont bousculées, taillées et polies pour nous faire découvrir les multiples facettes de la femme que nous sommes chacune et faire émerger la sculpture. </p> </blockquote>
+<blockquote class="citation"><p>Nos 2 coachs nous ont bousculées, taillées et polies pour nous faire découvrir les multiples facettes de la femme que nous sommes chacune et faire émerger la sculpture.&nbsp;»</p> </blockquote>
 <blockquote class="auteur-citation"> <p><strong>Témoignage d’une participante de la promo X</strong></p> </blockquote>
 
 # Les prochaines sessions
