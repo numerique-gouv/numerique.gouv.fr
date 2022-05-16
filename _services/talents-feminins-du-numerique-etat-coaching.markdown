@@ -98,5 +98,5 @@ Le programme accueillera 30 femmes, réparties en groupes de 6, répondant aux p
 
 <div class="noir encadre"><h4>Envie de nouveaux défis ? 
 <br>À la recherche d’un nouveau poste dans le numérique au sein de l’État ? 
-</h4> <p>Rendez-vous sur notre nouveau site dédié <a href="https://metiers.numerique.gouv.fr"> metiers.numerique.gouv.fr</a> ! Vous y ferez la connaissance des entités du numérique de l’État  et découvrirez les offres d’emploi actuellement à pourvoir dans les ministères.
+</h4> <p>Rendez-vous sur notre nouveau site dédié <a href="https://metiers.numerique.gouv.fr"> metiers.numerique.gouv.fr</a> pour découvrir les offres d’emploi à pourvoir dans les ministères ! À venir également, des vitrines pour faire la connaissance des différentes entités du numérique de l'État et des témoignages d'agents publics.
 </p> <p><a href="https://metiers.numerique.gouv.fr"> > metiers.numerique.gouv.fr</a></p> </div>
