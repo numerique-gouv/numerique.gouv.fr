@@ -83,7 +83,7 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 
 <h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">Déposez votre candidature !</h1>
 1. Renseignez la fiche d’inscription, faites-la signer à votre supérieur si vous comptez effectuer le programme pendant vos heures de travail
-2. Retournez-la par courriel à <a href="mailto:talents.numeriques@modernisation.gouv.fr>talents.numeriques@modernisation.gouv.fr</a>
+2. Retournez-la par courriel à <a href="mailto:talents.numeriques@modernisation.gouv.fr">talents.numeriques@modernisation.gouv.fr</a>
 
 Le programme accueillera 30 femmes, réparties en groupes de 6, répondant aux prérequis et critères de sélection. N’attendez plus, les inscriptions sont ouvertes jusqu’au 30 juin 2022, dans la limite des places disponibles.
 
