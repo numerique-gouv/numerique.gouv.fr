@@ -9,14 +9,9 @@ tags:
 chapeau-text: |-
   Et si vous vous donniez toutes les chances de réussir votre évolution professionnelle ? En 2 jours et demi, notre programme de coaching, ouvert à toutes les professionnelles du numérique au sein de l’État, vous aidera à en devenir pleinement actrice.
   Inscrivez-vous jusqu’au 30 juin 2022.
-style: |
-  table {
-    border: 1px solid black;
-  }
-
-  th, td {
-    border: 1px solid black;
-  }
+une:
+  image: "/uploads/2022_05_13_Femme-numerique_1635x345.jpg"
+style: 
 layout: rgaa
 ---
 
@@ -28,23 +23,23 @@ Agente de l’État, vous travaillez dans le numérique et souhaitez faire évol
 Notre programme « Talents féminins du numérique » vous accompagne dans votre projet d’évolution de carrière !
 Notre objectif : **vous aider à oser et vous dépasser,** dans le but de progresser professionnellement, soit par une mobilité, soit par la prise de (nouvelles) responsabilités.
 
-<blockquote class="citation"><p>Je repars avec la sensation d’être capable de prendre de risques que je n’imaginais même pas.&nbsp;»</p> </blockquote>
+<blockquote class="citation"><p>Je repars avec la sensation d’être capable de prendre de risques que je n’imaginais même pas.</p> </blockquote>
 <blockquote class="auteur-citation"> <p><strong>Une participante d'une promotion précédente</strong></p> </blockquote>
 
 Ce dispositif est ouvert à toutes, quel que soit votre niveau de fonction ou de responsabilités. 
 Le seul prérequis est d’avoir un projet professionnel défini, viable et concret d’évolution, de mobilité ou de montée en responsabilités. Une sélection sera effectuée sur la base de ces critères.
 
-<h1 class="h2">En quoi consiste le programme ?</h1>
+<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">En quoi consiste le programme ?</h1>
 Sur 2 jours et demi (une session d’1,5j et une session d’1j), à Paris, en petit groupe de 6 participantes, vous serez accompagnée selon une méthode de coaching reposant sur la mise en mouvement et d’autres outils innovants visant à vous aider à déceler et faire émerger tout votre potentiel.
 
 Il ne s’agit ni d’une formation, ni d’un accompagnement de carrière.
 
 Participer à ce programme est aussi une façon de vous mettre en réseau et rencontrer des paires elles aussi expertes du numérique.
 
-<blockquote class="citation"><p>Nos 2 coachs nous ont bousculées, taillées et polies pour nous faire découvrir les multiples facettes de la femme que nous sommes chacune et faire émerger la sculpture.&nbsp;»</p> </blockquote>
+<blockquote class="citation"><p>Nos 2 coachs nous ont bousculées, taillées et polies pour nous faire découvrir les multiples facettes de la femme que nous sommes chacune et faire émerger la sculpture.</p> </blockquote>
 <blockquote class="auteur-citation"> <p><strong>Une participante d'une promotion précédente</strong></p> </blockquote>
 
-<h1 class="h2">Les prochaines sessions</h1>
+<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">Les prochaines sessions</h1>
 <table>
   <tbody>
     <thead>
@@ -81,12 +76,12 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
     </tr>
   </tbody>
 </table>
-
+<br>
 * **80,9%** estiment avoir identifié un changement dans leur vie professionnelle : changement de posture, gain de confiance en soi…
 * **89,4%** recommandent ce programme de coaching à d’autres femmes
 *(sur 47 participantes ayant répondu à l’enquête)*
 
-<h1 class="h2">Déposez votre candidature !</h1>
+<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">Déposez votre candidature !</h1>
 1. Renseignez la fiche d’inscription, faites-la signer à votre supérieur si vous comptez effectuer le programme pendant vos heures de travail
 2. Retournez-la par courriel à <a href="mailto:talents.numeriques@modernisation.gouv.fr>talents.numeriques@modernisation.gouv.fr</a>
 
