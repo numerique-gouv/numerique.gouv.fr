@@ -11,7 +11,10 @@ chapeau-text: |-
   Inscrivez-vous jusqu’au 30 juin 2022.
 une:
   image: "/uploads/2022_05_13_Femme-numerique_1635x345.jpg"
-style: 
+style: |-
+  .auteur-citation {
+    font-weight: normal !important;
+  }
 layout: rgaa
 ---
 
