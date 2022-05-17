@@ -2,6 +2,8 @@
 title: 'Agentes de l’État dans le numérique : bénéficiez d’un coaching pour évoluer
   dans votre carrière !'
 date: 2022-05-17 14:34:00 +02:00
+categories:
+- Service
 chapeau-text: Agente de l’État, vous travaillez dans le numérique et souhaitez faire
   évoluer votre carrière ? Vous souhaitez monter en responsabilités ? Ou changer d’emploi,
   vers de nouvelles fonctions, une autre administration et/ou un autre secteur géographique
