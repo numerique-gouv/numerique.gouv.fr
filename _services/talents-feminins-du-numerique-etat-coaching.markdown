@@ -80,9 +80,9 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
   </tbody>
 </table>
 <br>
-* **80,9%** estiment avoir identifié un changement dans leur vie professionnelle : changement de posture, gain de confiance en soi…
-* **89,4%** recommandent ce programme de coaching à d’autres femmes
-*(sur 47 participantes ayant répondu à l’enquête)*
+<div class="noir encadre"><p><ul><li><b>80,9%</b> estiment avoir identifié un changement dans leur vie professionnelle : changement de posture, gain de confiance en soi…</li>
+<li><b>89,4%</b> recommandent ce programme de coaching à d’autres femmes</li>
+<br><i>(sur 47 participantes ayant répondu à l’enquête)</i></p></div>
 
 <h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">Déposez votre candidature !</h1>
 1. Renseignez la fiche d’inscription, faites-la signer à votre supérieur si vous comptez effectuer le programme pendant vos heures de travail
