@@ -90,7 +90,9 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 
 Le programme accueillera 30 femmes, réparties en groupes de 6, répondant aux prérequis et critères de sélection. N’attendez plus, les inscriptions sont ouvertes jusqu’au 30 juin 2022, dans la limite des places disponibles.
 
-<div align="center"><p><a href="https://design.numerique.gouv.fr/commando-ux/" class="button">Téléchargez la fiche d’inscription</a> <br>Et envoyez-la complétée jusqu'au 30 juin 2022</p></div>
+<div align="center"><p><a href="/uploads/Fiche_inscription_Talents-feminins-numerique_2022.docx" class="button">Téléchargez la fiche d’inscription (docx, 55 ko) </a> <br>
+Disponible également <a href="/uploads/Fiche_inscription_Talents-feminins-numerique_2022.odt">au format .odt (50 ko)</a>
+<br>Et envoyez-la complétée jusqu'au 30 juin 2022</p></div>
 <br>
 
 <div class="noir encadre"><h4>Envie de nouveaux défis ? 
