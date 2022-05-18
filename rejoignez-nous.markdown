@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 3 mai 2022
+date_de_modification: 18 mai 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -44,19 +44,11 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Architecte en cybersécurité H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-en-cybersecurite-hf-reference-2022-861612/ "Architecte en cybersécurité H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Chargé(e) de mission Gouvernance des données H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-gouvernance-des-donnees-hf-reference-2022-886661/ "Chargé(e) de mission Gouvernance des données H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
 * **[Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chef-fe de projet « outils numériques des agents publics » H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--outils-numeriques-des-agents-publics-cdd-3-ans-renouvelable-une-fois-hf-reference-2022-819145/ "Chef-fe de projet « outils numériques des agents publics » H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
@@ -79,5 +71,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
 <p><strong> Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) </strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/coordinateur-sectoriel-telecoms-hf-reference-2021-736102/" title="Coordinateur sectoriel télécoms H/F - Lien externe">Coordinateur sectoriel télécoms H/F</a></strong><br>Cadre/Catégorie A</li></ul>
-
 </div>
+
+<div class="noir encadre"><h4>Sur metiers.numerique.gouv.fr, <br>découvrez les offres d'emploi dans le numérique au sein de l’État</h4> <p>Rendez-vous sur notre site dédié <a href="https://metiers.numerique.gouv.fr"> metiers.numerique.gouv.fr</a> pour consulter les offres d’emploi à pourvoir dans les ministères et déposer une candidature spontanée&nbsp;! <br>À venir également, des vitrines pour faire la connaissance des différentes entités du numérique de l'État et des témoignages d'agents publics. </p> 
+<div style="margin-bottom: 20px; margin-top: 10px;" align="center"><a href="https://metiers.numerique.gouv.fr" class="button" alt="Accéder à metiers.numerique.gouv.fr - Lien externe"><b>Accéder à metiers.numerique.gouv.fr</b></a> </div></div>
