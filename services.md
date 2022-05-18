@@ -35,6 +35,11 @@ publications:
   url: "/services/tnt/"
   une-ou-diaporama:
   - image: "/uploads/TNT_Rub_Services-5e8b1c.png"
+- title: 'Talents féminins du numérique de l’État : un programme de coaching pour
+    accompagner l’évolution de carrière'
+  url: "/talents-feminins-du-numerique-etat-coaching/"
+  une-ou-diaporama:
+  - image: "/uploads/2022_05_13_Femme-numerique_740x500.jpg"
 - title: Soumettre un grand projet numérique au DINUM pour avis
   url: "/services/soumettre-un-grand-projet-numerique-au-dinum-pour-avis/"
   une-ou-diaporama:
