@@ -79,5 +79,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
 <p><strong> Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) </strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/coordinateur-sectoriel-telecoms-hf-reference-2021-736102/" title="Coordinateur sectoriel télécoms H/F - Lien externe">Coordinateur sectoriel télécoms H/F</a></strong><br>Cadre/Catégorie A</li></ul>
-
 </div>
+
+<div class="noir encadre"><h4>Sur metiers.numerique.gouv.fr, découvrez les offres d'emploi dans le numérique au sein de l’État</h4> <p>Rendez-vous sur notre nouveau site dédié <a href="https://metiers.numerique.gouv.fr"> metiers.numerique.gouv.fr</a> pour découvrir les offres d’emploi à pourvoir dans les ministères et déposer votre candidature spontanée ! À venir également, des vitrines pour faire la connaissance des différentes entités du numérique de l'État et des témoignages d'agents publics.
+</p> <p><a href="https://metiers.numerique.gouv.fr"> > metiers.numerique.gouv.fr</a></p> </div>
