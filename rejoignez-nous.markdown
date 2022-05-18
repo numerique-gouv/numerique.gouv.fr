@@ -82,4 +82,4 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 </div>
 
 <div class="noir encadre"><h4>Sur metiers.numerique.gouv.fr, <br>découvrez les offres d'emploi dans le numérique au sein de l’État</h4> <p>Rendez-vous sur notre site dédié <a href="https://metiers.numerique.gouv.fr"> metiers.numerique.gouv.fr</a> pour consulter les offres d’emploi à pourvoir dans les ministères et déposer une candidature spontanée&nbsp;! <br>À venir également, des vitrines pour faire la connaissance des différentes entités du numérique de l'État et des témoignages d'agents publics. </p> 
-<div style="margin-bottom: 20px" align="center"><a href="https://metiers.numerique.gouv.fr" class="button" alt="Accéder à metiers.numerique.gouv.fr - Lien externe"><b>Accéder à metiers.numerique.gouv.fr</b></a> </div></div>
+<div style="margin-bottom: 20px; margin-top: 10px;" align="center"><a href="https://metiers.numerique.gouv.fr" class="button" alt="Accéder à metiers.numerique.gouv.fr - Lien externe"><b>Accéder à metiers.numerique.gouv.fr</b></a> </div></div>
