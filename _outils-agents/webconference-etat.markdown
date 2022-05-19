@@ -78,13 +78,13 @@ d’utiliser la webconférence de l’État
 
 **3. De nombreuses fonctionnalités :** audio, vidéo, tchat, partage d'écran, édition collaborative de documents…
 
-**4. Service adapté au travail à distance et en mode hybride
+**4. Service adapté au travail à distance et en mode hybride**
 
 > ### Quel matériel nécessaire ?
 >
 > Pour utiliser l’outil de webconférence de l’État, il vous suffit de disposer du matériel suivant :
 >
-> * un ordinateur/smartphone connecté à Internet pour rejoindre un salon ; ou, pour créer un salon, connecté soit au réseau interministériel de l’Etat soit à Internet (nécessitant alors vérification de votre qualité d’agent via votre adresse courriel professionnel ou AgentConnect) ,
+> * un ordinateur/smartphone connecté à Internet pour rejoindre un salon ; ou, pour créer un salon, connecté soit au réseau interministériel de l’Etat soit à Internet (nécessitant alors vérification de votre qualité d’agent via votre adresse courriel professionnel ou AgentConnect),
 > * un navigateur web : Microsoft Edge (Chromium), Chromium ou Google Chrome. Si aucun n’est disponible sur votre poste de travail, vous pouvez télécharger et installer [notre package Chromium dédié](https://webconf.numerique.gouv.fr/telechargement/Webconf_Etat_V1.3_webconf.exe), en toute autonomie (sauf cas exceptionnels), sans l’intervention d’un administrateur,
 > * une webcam,
 > * un micro et des hauts-parleurs, ou, de préférence, un casque avec micro intégré.
