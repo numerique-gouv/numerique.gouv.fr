@@ -46,7 +46,6 @@ Les participants peuvent :
 * **participer activement** en répondant à des sondages ou en réagissant en ligne  
 * **planifier à l’avance** leur réunion ou les **lancer instantanément**,
 * **inviter les participants** par mail,
-
 * …
   <br>
   <br>
