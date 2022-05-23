@@ -26,7 +26,7 @@ Agente de l’État, vous travaillez dans le numérique et souhaitez faire évol
 Notre programme « Talents féminins du numérique » vous accompagne dans votre projet d’évolution de carrière !
 Notre objectif : **vous aider à oser et vous dépasser,** dans le but de progresser professionnellement, soit par une mobilité, soit par la prise de (nouvelles) responsabilités.
 
-<blockquote class="citation"><p><b>Je repars avec la sensation d’être capable de prendre de risques que je n’imaginais même pas.</b></p> </blockquote>
+<blockquote class="citation"><p><b>Je repars avec la sensation d’être capable de prendre des risques que je n’imaginais même pas.</b></p> </blockquote>
 <blockquote class="auteur-citation"> <p>Une participante d'une promotion précédente</p> </blockquote>
 
 Ce dispositif est ouvert à toutes, quel que soit votre niveau de fonction ou de responsabilités. 
