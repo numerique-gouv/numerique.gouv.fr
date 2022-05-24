@@ -8,4 +8,7 @@ une-ou-diaporama:
 - image: "/uploads/20220523_Outils-2.png"
 ---
 
-Un tout nouveau bouton fait son apparition sur <a href="https://www.numerique.gouv.fr/outils-agents/"> les outils interministériels de travail collaboratif</a> des agents de l’État ! 
+Un tout nouveau bouton fait son apparition sur <a href="https://www.numerique.gouv.fr/outils-agents/"> les outils interministériels de travail collaboratif</a> des agents de l’État !
+<figure class='image-center' style='width: 80%;'>
+<img src="/uploads/Interface-Webinaire-outils-2.png"/>
+<figcaption>Capture d'écran montrant la pastille en situation sur le site Webinaire de l’État</figcaption></figure>
