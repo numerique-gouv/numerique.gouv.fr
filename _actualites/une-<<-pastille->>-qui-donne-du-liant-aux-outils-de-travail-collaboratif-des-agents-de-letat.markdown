@@ -30,3 +30,12 @@ Prochainement :
 * la « pastille » intégrera et centralisera les notifications de l’utilisateur connecté pour l’ensemble de ses outils.
 
 La suite collaborative des agents de l’État, et cette nouvelle pastille en particulier se construisent, avec les utilisateurs. <p><a href="https://app.evalandgo.com/form/265082/s/?id=JTk5byU5QWklOUQlQUY%3D&a=JTk2byU5NmglOUUlQUI%3D"> > Donnez votre avis, faites part de vos suggestions</a></p>
+
+<p><b>Découvrez les outils numériques de travail collaboratif des agents de l’État :</b>
+<ul><li><a href="/outils-agents/webinaire-etat/">Webinaire de l'État</a></li>
+<li><a href="/outils-agents/webconference-etat/">Webconférence de l’État (Webconf)</a></li>
+<li><a href="/outils-agents/audioconference-etat/">Audioconférence de l’État (Audioconf)</a></li>
+<li><a href="/outils-agents/tchap-messagerie-instantanee-etat/">Tchap, la messagerie instantanée de confiance de l’État</a></li>
+<li><a href="/outils-agents/osmose/">Osmose, plateforme des communautés professionnelles de l’État</a></li>
+<li><a href="/outils-agents/resana/">Resana, plateforme collaborative pour vos groupes de travail</a></li>
+</ul></p>
