@@ -12,3 +12,9 @@ Un tout nouveau bouton fait son apparition sur <a href="https://www.numerique.go
 <figure class='image-center' style='width: 80%;'>
 <img src="/uploads/Interface-Webinaire-outils-2.png"/>
 <figcaption>Capture d'écran montrant la pastille en situation sur le site Webinaire de l’État</figcaption></figure>
+
+À quoi sert cette « pastille » en forme de sac à dos ?
+En cliquant dessus, les utilisateurs peuvent désormais :
+* **naviguer facilement d’un outil interministériel à l’autre :** Webinaire, Webconf, Audioconf, Osmose, Resana, France transfert, Tchap
+* **découvrir des outils** de la suite qu’ils ne connaissent peut-être pas encore
+* **accéder rapidement aux aides** à la prise en main de chaque outil (tutoriels, formations, centres d’aides…)
