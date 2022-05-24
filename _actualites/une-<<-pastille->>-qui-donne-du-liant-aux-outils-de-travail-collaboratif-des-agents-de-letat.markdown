@@ -13,7 +13,7 @@ Un tout nouveau bouton fait son apparition sur <a href="https://www.numerique.go
 <img src="/uploads/Interface-Webinaire-outils-2.png"/>
 <figcaption>Capture d'écran montrant la pastille en situation sur le site Webinaire de l’État</figcaption></figure>
 
-À quoi sert cette « pastille » en forme de sac à dos ?
+## À quoi sert cette « pastille » en forme de sac à dos ?
 En cliquant dessus, les utilisateurs peuvent désormais :
 * **naviguer facilement d’un outil interministériel à l’autre :** Webinaire, Webconf, Audioconf, Osmose, Resana, France transfert, Tchap
 * **découvrir des outils** de la suite qu’ils ne connaissent peut-être pas encore
@@ -22,7 +22,7 @@ En cliquant dessus, les utilisateurs peuvent désormais :
 « Nous lançons une toute première version de cette "pastille" pour répondre à une problématique remontée par nos utilisateurs : les agents de l’État n’ont pas toujours connaissance de tous les outils à leur disposition, ils souhaitaient avoir une vue d’ensemble et pouvoir passer aisément de l’un à l’autre », explique Patrick Leraie, directeur du programme Sac à dos numérique de l’agent public (SNAP), au sein de la direction interministérielle du numérique (DINUM).
 Elle permet ainsi de basculer d’un bouquet de services dissociés à une suite intégrée.
 
-Et ce n’est qu’une première étape.
+## Et ce n’est qu’une première étape.
 De nouvelles fonctions s’ajouteront progressivement à ce « widget ». 
 Prochainement :
 * les agents pourront se connecter via AgentConnect, et n’auront ainsi plus besoin de se reconnecter sur chaque outil,
