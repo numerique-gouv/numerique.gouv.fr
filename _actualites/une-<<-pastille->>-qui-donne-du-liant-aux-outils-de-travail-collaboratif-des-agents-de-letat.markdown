@@ -44,4 +44,4 @@ Prochainement :
 <br>
 <br>
 
-<p><i>Coconstruit par la direction interministérielle du numérique (DINUM) et le ministère de l’Éducation nationale, de la Jeunesse et des Sports, l’outil est cofinancé dans le cadre du <a href="https://france-relance.transformation.gouv.fr/">plan France Relance</a>
+<p><i>Coconstruit par la direction interministérielle du numérique (DINUM) et le ministère de l’Éducation nationale, de la Jeunesse et des Sports, l’outil est cofinancé dans le cadre du <a href="https://france-relance.transformation.gouv.fr/">plan France Relance</a> à hauteur de 450 000€ pour son développement et sa consolidation, au titre du guichet <a href="https://france-relance.transformation.gouv.fr/b8f4-developper-des-outils-de-communication-et-de-">Développer des outils de communication et de collaboration pour les agents</a> (SNAP4).
