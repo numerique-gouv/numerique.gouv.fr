@@ -29,3 +29,4 @@ Prochainement :
 * chaque ministère pourra ajouter des raccourcis vers ses propres outils collaboratifs,
 * la « pastille » intégrera et centralisera les notifications de l’utilisateur connecté pour l’ensemble de ses outils.
 
+La suite collaborative des agents de l’État, et cette nouvelle pastille en particulier se construisent, avec les utilisateurs. <p><a href="https://app.evalandgo.com/form/265082/s/?id=JTk5byU5QWklOUQlQUY%3D&a=JTk2byU5NmglOUUlQUI%3D"> > Donnez votre avis, faites part de vos suggestions</a></p>
