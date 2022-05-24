@@ -30,6 +30,8 @@ Prochainement :
 * la « pastille » intégrera et centralisera les notifications de l’utilisateur connecté pour l’ensemble de ses outils.
 
 <p>La suite collaborative des agents de l’État, et cette nouvelle pastille en particulier se construisent, avec les utilisateurs. <a href="https://app.evalandgo.com/form/265082/s/?id=JTk5byU5QWklOUQlQUY%3D&a=JTk2byU5NmglOUUlQUI%3D"> > Donnez votre avis, faites part de vos suggestions</a></p>
+<br>
+<br>
 
 <p><b>Découvrez les outils numériques de travail collaboratif des agents de l’État :</b>
 <ul><li><a href="/outils-agents/webinaire-etat/">Webinaire de l'État</a></li>
