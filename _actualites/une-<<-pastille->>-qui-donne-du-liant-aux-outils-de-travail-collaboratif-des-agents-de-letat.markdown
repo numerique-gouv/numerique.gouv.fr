@@ -31,7 +31,6 @@ Prochainement :
 
 <p>La suite collaborative des agents de l’État, et cette nouvelle pastille en particulier se construisent, avec les utilisateurs. <a href="https://app.evalandgo.com/form/265082/s/?id=JTk5byU5QWklOUQlQUY%3D&a=JTk2byU5NmglOUUlQUI%3D"> > Donnez votre avis, faites part de vos suggestions</a></p>
 <br>
-<br>
 
 <p><b>Découvrez les outils numériques de travail collaboratif des agents de l’État :</b>
 <ul><li><a href="/outils-agents/webinaire-etat/">Webinaire de l'État</a></li>
@@ -42,7 +41,6 @@ Prochainement :
 <li><a href="/outils-agents/osmose/">Osmose, plateforme des communautés professionnelles de l’État</a></li>
 <li><a href="/outils-agents/resana/">Resana, plateforme collaborative pour vos groupes de travail</a></li>
 </ul></p>
-<br>
 <br>
 
 <p><i>Coconstruit par la direction interministérielle du numérique (DINUM) et le ministère de l’Éducation nationale, de la Jeunesse et des Sports, l’outil est cofinancé dans le cadre du <a href="https://france-relance.transformation.gouv.fr/">plan France Relance</a> à hauteur de 450 000€ pour son développement et sa consolidation, au titre du guichet <a href="https://france-relance.transformation.gouv.fr/b8f4-developper-des-outils-de-communication-et-de-">Développer des outils de communication et de collaboration pour les agents</a> (SNAP4).
