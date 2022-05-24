@@ -37,7 +37,7 @@ Prochainement :
 <li><a href="/outils-agents/webconference-etat/">Webconférence de l’État (Webconf)</a></li>
 <li><a href="/outils-agents/audioconference-etat/">Audioconférence de l’État (Audioconf)</a></li>
 <li><a href="/outils-agents/tchap-messagerie-instantanee-etat/">Tchap, la messagerie instantanée de confiance de l’État</a></li>
-<li><a href="/outils-agents/france-transfert/">France transfert</a>(envoi de fichiers volumineux)</li>
+<li><a href="/outils-agents/france-transfert/">France transfert</a> (envoi de fichiers volumineux)</li>
 <li><a href="/outils-agents/osmose/">Osmose, plateforme des communautés professionnelles de l’État</a></li>
 <li><a href="/outils-agents/resana/">Resana, plateforme collaborative pour vos groupes de travail</a></li>
 </ul></p>
