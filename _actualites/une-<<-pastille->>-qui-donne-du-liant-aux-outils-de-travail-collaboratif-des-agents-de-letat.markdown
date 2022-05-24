@@ -41,3 +41,7 @@ Prochainement :
 <li><a href="/outils-agents/osmose/">Osmose, plateforme des communautés professionnelles de l’État</a></li>
 <li><a href="/outils-agents/resana/">Resana, plateforme collaborative pour vos groupes de travail</a></li>
 </ul></p>
+<br>
+<br>
+
+<p><i>Coconstruit par la direction interministérielle du numérique (DINUM) et le ministère de l’Éducation nationale, de la Jeunesse et des Sports, l’outil est cofinancé dans le cadre du <a href="https://france-relance.transformation.gouv.fr/">plan France Relance</a>
