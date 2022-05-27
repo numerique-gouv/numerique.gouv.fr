@@ -2,6 +2,7 @@
 title: Une « pastille » qui donne du liant aux outils de travail collaboratif des
   agents de l’État
 date: 2022-05-23 11:01:00 +02:00
+published: false
 chapeau-text: 'La DINUM lance une nouvelle fonctionnalité : une « pastille » permettant
   de naviguer entre chaque outil du sac à dos numérique de l’agent public.'
 une-ou-diaporama:
