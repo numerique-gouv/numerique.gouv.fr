@@ -2,6 +2,10 @@
 title: Une « pastille » qui donne du liant aux outils de travail collaboratif des
   agents de l’État
 date: 2022-05-23 11:01:00 +02:00
+categories:
+- Article
+tags:
+- Outils numériques pour les agents
 chapeau-text: 'La DINUM lance une nouvelle fonctionnalité : une « pastille » permettant
   de naviguer entre chaque outil du sac à dos numérique de l’agent public.'
 une-ou-diaporama:
@@ -11,7 +15,7 @@ une-ou-diaporama:
 Un tout nouveau bouton fait son apparition sur <a href="https://www.numerique.gouv.fr/outils-agents/"> les outils interministériels de travail collaboratif</a> des agents de l’État !
 <figure class='image-center' style='width: 80%;'>
 <img src="/uploads/Interface-Webinaire-outils-2.png"/>
-<figcaption>Capture d'écran montrant la pastille en situation sur le site Webinaire de l’État</figcaption></figure>
+<figcaption>Capture d'écran montrant la pastille en situation</figcaption></figure>
 
 ## À quoi sert cette « pastille » en forme de sac à dos ?
 En cliquant dessus, les utilisateurs peuvent désormais :
@@ -29,7 +33,7 @@ Prochainement :
 * chaque ministère pourra ajouter des raccourcis vers ses propres outils collaboratifs,
 * la « pastille » intégrera et centralisera les notifications de l’utilisateur connecté pour l’ensemble de ses outils.
 
-<p>La suite collaborative des agents de l’État, et cette nouvelle pastille en particulier se construisent, avec les utilisateurs. <a href="https://app.evalandgo.com/form/265082/s/?id=JTk5byU5QWklOUQlQUY%3D&a=JTk2byU5NmglOUUlQUI%3D"> > Donnez votre avis, faites part de vos suggestions</a></p>
+<p>La suite collaborative des agents de l’État, et cette nouvelle pastille en particulier, se construisent avec les utilisateurs. <a href="https://app.evalandgo.com/form/265082/s/?id=JTk5byU5QWklOUQlQUY%3D&a=JTk2byU5NmglOUUlQUI%3D"> > Donnez votre avis, faites part de vos suggestions</a></p>
 <br>
 
 <p><b>Découvrez les outils numériques de travail collaboratif des agents de l’État :</b>
