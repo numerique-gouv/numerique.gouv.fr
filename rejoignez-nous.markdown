@@ -52,11 +52,11 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
+* **[Responsable du système de management de la sécurité de l'information de FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-du-systeme-de-management-de-la-securite-de-l-information-de-franceconnect-hf-reference-2022-905632/ "Responsable du système de management de la sécurité de l'information de FranceConnect H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Responsable du système de management de la sécurité de l'information de FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-du-systeme-de-management-de-la-securite-de-l-information-de-franceconnect-hf-reference-2022-905632/ "Responsable du système de management de la sécurité de l'information de FranceConnect H/F - Lien externe")**
+* **[Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
