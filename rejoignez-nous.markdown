@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 18 mai 2022
+date_de_modification: 30 mai 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -40,7 +40,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Data Engineer H/F](https://place-emploi-public.gouv.fr/offre-emploi/data-engineer-hf-reference-2022-885682/ "Data Engineer H/F - Lien externe")**
+* **[Product Owner (Mentor) H/F](https://place-emploi-public.gouv.fr/offre-emploi/product-owner-mentor-hf-reference-2022-908373/ "Product Owner (Mentor) H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
@@ -48,7 +48,15 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
+* **[Architecte-Urbaniste des systèmes d'information CDD 3 ans renouvelable H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-905624/ "Architecte-Urbaniste des systèmes d'information CDD 3 ans renouvelable H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Responsable du système de management de la sécurité de l'information de FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-du-systeme-de-management-de-la-securite-de-l-information-de-franceconnect-hf-reference-2022-905632/ "Responsable du système de management de la sécurité de l'information de FranceConnect H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
