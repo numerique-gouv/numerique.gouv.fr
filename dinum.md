@@ -12,7 +12,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) est en cha
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 17 janvier 2022
+date_de_modification: 01 juin 2022
 layout: dinsic
 ---
 
@@ -45,7 +45,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <br>
 <br>
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/organigramme_DINUM.PDF" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme_DINUM.PDF" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
 
 <script>
 function myFunction(id) {
@@ -97,7 +97,7 @@ function myFunction(id) {
     <li><b>Pôle Logiciels libres&nbsp;:</b> Bastien Guerry</li>
   </ul><br></li>
 
-<li><b>Département Performance des services numériques (PSN)&nbsp;:</b> Florent Tournois.
+<li><b>Département Performance des services numériques (PSN)&nbsp;:</b> Virginie Rozière (par intérim)
   <ul>
     <li><b>Pôle Conseil et maîtrise des risques&nbsp;:</b> Virginie Rozière</li>
     <li><b>Pôle Produits numériques partagés&nbsp;:</b> Jean-Louis Barthelémy</li>
