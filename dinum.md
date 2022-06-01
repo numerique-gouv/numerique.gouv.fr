@@ -97,7 +97,7 @@ function myFunction(id) {
     <li><b>Pôle Logiciels libres&nbsp;:</b> Bastien Guerry</li>
   </ul><br></li>
 
-<li><b>Département Performance des services numériques (PSN)&nbsp;:</b> Florent Tournois.
+<li><b>Département Performance des services numériques (PSN)&nbsp;:</b> Virginie Rozière (par intérim)
   <ul>
     <li><b>Pôle Conseil et maîtrise des risques&nbsp;:</b> Virginie Rozière</li>
     <li><b>Pôle Produits numériques partagés&nbsp;:</b> Jean-Louis Barthelémy</li>
