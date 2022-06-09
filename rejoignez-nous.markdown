@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 30 mai 2022
+date_de_modification: 9 juin 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -44,10 +44,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé(e) de mission Gouvernance des données H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-gouvernance-des-donnees-hf-reference-2022-886661/ "Chargé(e) de mission Gouvernance des données H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Architecte-Urbaniste des systèmes d'information CDD 3 ans renouvelable H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-905624/ "Architecte-Urbaniste des systèmes d'information CDD 3 ans renouvelable H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -57,10 +53,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé(e) de déploiement de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-deploiement-de-produits-numeriques----cdd-de-19-mois-hf-reference-2022-880598/ "Chargé(e) de déploiement de produits numériques H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
