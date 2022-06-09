@@ -44,6 +44,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
+* **[Chargé-e de communautés et de contributions logiciels libres H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-communautes-et-de-contributions-logiciels-libres--cdd-de-2-ans-hf-reference-2022-917709/ "Chargé-e de communautés et de contributions logiciels libres H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Architecte-Urbaniste des systèmes d'information CDD 3 ans renouvelable H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-905624/ "Architecte-Urbaniste des systèmes d'information CDD 3 ans renouvelable H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
