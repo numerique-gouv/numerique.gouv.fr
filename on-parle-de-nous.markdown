@@ -29,12 +29,14 @@ layout: page-annexe
 <date>14 avril 2022</date>
 <media>cnetfrance.fr</media>
 
-<titre><a href="https://www.bsmart.fr/video/13322-smart-tech-partie-22-avril-2022" title="La direction interministérielle du numérique (DINUM) recrute ! - Lien externe">La direction interministérielle du numérique (DINUM) recrute !</a></titre>
+<titre><a href="https://www.bfmtv.com/economie/emploi/la-direction-interministerielle-du-numerique-dinum-recrute_VN-202203280337.html" title="La direction interministérielle du numérique (DINUM) recrute ! - Lien externe">La direction interministérielle du numérique (DINUM) recrute !</a></titre>
 <date>28 mars 2022</date>
+<p class="margin-0">Dans : BFM Business avec vous
 <media>bfmtv.com</media>
 
 <titre><a href="https://www.bfmtv.com/economie/replay-emissions/tech-and-co/florian-delezenne-beta-gouv-beta-gouv-developpe-des-services-numeriques-a-fort-impact-permettant-d-ameliorer-la-vie-des-citoyens-francais-21-02_VN-202202210591.html" title="Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français - Lien externe">Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français</a></titre>
 <date>21 février 2022</date>
+<p class="margin-0">Dans : Tech & Co
 <media>bfmtv.com</media>
 
 <titre><a href="https://www.cio-online.com/actualites/lire-un-referentiel-unique-pour-l-ecoresponsabilite-numerique-de-a-a-z-14030.html" title="Un référentiel unique pour l'écoresponsabilité numérique de A à Z - Lien externe">Un référentiel unique pour l’écoresponsabilité numérique de A à Z</a></titre>
