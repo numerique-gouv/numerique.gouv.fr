@@ -17,7 +17,7 @@ layout: page-annexe
 
 <titre><a href="https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/le-debat-de-la-redaction-un-reflexe-ia-dans-les-administrations" title="“Acculturer pour développer un réflexe IA dans les administrations” - Lien externe">“Acculturer pour développer un réflexe IA dans les administrations”</a></titre>
 <date>19 mai 2022</date>
-<p class="margin-0">Dans : acteurs<b>publics</b> <i>Solutions</i>
+<p class="margin-0">Dans : acteurspublics <i>Solutions</i>
 <media>acteurspublics.fr</media>
 
 <titre><a href="https://www.bsmart.fr/video/13322-smart-tech-partie-22-avril-2022" title="La grande interview : Laure Lucchesi, Etalab - Lien externe">La grande interview : Laure Lucchesi, Etalab</a></titre>
