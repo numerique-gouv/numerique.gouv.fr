@@ -11,6 +11,34 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/articles/le-sac-a-dos-numerique-de-lagent-public-prend-forme" title="Le sac à dos numérique de l’agent public prend forme - Lien externe">Le sac à dos numérique de l’agent public prend forme</a></titre>
+<date>2 juin 2022</date>
+<media>acteurspublics.fr</media>
+
+<titre><a href="https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/le-debat-de-la-redaction-un-reflexe-ia-dans-les-administrations" title="“Acculturer pour développer un réflexe IA dans les administrations” - Lien externe">“Acculturer pour développer un réflexe IA dans les administrations”</a></titre>
+<date>19 mai 2022</date>
+<p class="margin-0">Dans : acteurspublics <i>Solutions</i>
+<media>acteurspublics.fr</media>
+
+<titre><a href="https://www.bsmart.fr/video/13322-smart-tech-partie-22-avril-2022" title="La grande interview : Laure Lucchesi, Etalab - Lien externe">La grande interview : Laure Lucchesi, Etalab</a></titre>
+<date>19 mai 2022</date>
+<p class="margin-0">Dans : SMART TECH
+<media>bsmart.fr</media>
+
+<titre><a href="https://www.bsmart.fr/video/13322-smart-tech-partie-22-avril-2022" title="France Transfer : une version française de WeTransfer pour échanger avec les services publics - Lien externe">France Transfer : une version française de WeTransfer pour échanger avec les services publics</a></titre>
+<date>14 avril 2022</date>
+<media>cnetfrance.fr</media>
+
+<titre><a href="https://www.bfmtv.com/economie/emploi/la-direction-interministerielle-du-numerique-dinum-recrute_VN-202203280337.html" title="La direction interministérielle du numérique (DINUM) recrute ! - Lien externe">La direction interministérielle du numérique (DINUM) recrute !</a></titre>
+<date>28 mars 2022</date>
+<p class="margin-0">Dans : BFM Business avec vous
+<media>bfmtv.com</media>
+
+<titre><a href="https://www.bfmtv.com/economie/replay-emissions/tech-and-co/florian-delezenne-beta-gouv-beta-gouv-developpe-des-services-numeriques-a-fort-impact-permettant-d-ameliorer-la-vie-des-citoyens-francais-21-02_VN-202202210591.html" title="Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français - Lien externe">Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français</a></titre>
+<date>21 février 2022</date>
+<p class="margin-0">Dans : Tech & Co
+<media>bfmtv.com</media>
+
 <titre><a href="https://www.cio-online.com/actualites/lire-un-referentiel-unique-pour-l-ecoresponsabilite-numerique-de-a-a-z-14030.html" title="Un référentiel unique pour l'écoresponsabilité numérique de A à Z - Lien externe">Un référentiel unique pour l’écoresponsabilité numérique de A à Z</a></titre>
 <date>17 mars 2022</date>
 <media>cio-online.com</media>
