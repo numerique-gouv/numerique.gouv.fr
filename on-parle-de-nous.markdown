@@ -25,7 +25,7 @@ layout: page-annexe
 <p class="margin-0">Dans : SMART TECH
 <media>bsmart.fr</media>
 
-<titre><a href="https://www.usine-digitale.fr/article/l-etat-presente-le-service-france-transfert-pour-securiser-les-transferts-de-fichiers-entre-agents.N1993637" title="L'Etat présente le service "France Transfert" pour sécuriser les transferts de fichiers entre agents - Lien externe">L'Etat présente le service "France Transfert" pour sécuriser les transferts de fichiers entre agents</a></titre>
+<titre><a href="https://www.usine-digitale.fr/article/l-etat-presente-le-service-france-transfert-pour-securiser-les-transferts-de-fichiers-entre-agents.N1993637" title="L'Etat présente le service France Transfert pour sécuriser les transferts de fichiers entre agents - Lien externe">L'Etat présente le service France Transfert pour sécuriser les transferts de fichiers entre agents</a></titre>
 <date>14 avril 2022</date>
 <media>usine-digitale.fr</media>
 
