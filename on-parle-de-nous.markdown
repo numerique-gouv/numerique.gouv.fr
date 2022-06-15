@@ -25,18 +25,13 @@ layout: page-annexe
 <p class="margin-0">Dans : SMART TECH
 <media>bsmart.fr</media>
 
-<titre><a href="https://www.cnetfrance.fr/news/france-transfer-une-version-francaise-de-wetransfer-pour-echanger-avec-les-services-publics-39940601.htm" title="France Transfer : une version française de WeTransfer pour échanger avec les services publics - Lien externe">France Transfer : une version française de WeTransfer pour échanger avec les services publics</a></titre>
+<titre><a href="https://www.usine-digitale.fr/article/l-etat-presente-le-service-france-transfert-pour-securiser-les-transferts-de-fichiers-entre-agents.N1993637" title="L'Etat présente le service France Transfert pour sécuriser les transferts de fichiers entre agents - Lien externe">L'Etat présente le service France Transfert pour sécuriser les transferts de fichiers entre agents</a></titre>
 <date>14 avril 2022</date>
-<media>cnetfrance.fr</media>
+<media>usine-digitale.fr</media>
 
 <titre><a href="https://www.bfmtv.com/economie/emploi/la-direction-interministerielle-du-numerique-dinum-recrute_VN-202203280337.html" title="Vidéo : La direction interministérielle du numérique (DINUM) recrute ! - Lien externe">[Vidéo] La direction interministérielle du numérique (DINUM) recrute !</a></titre>
 <date>28 mars 2022</date>
 <p class="margin-0">Dans : BFM Business avec vous
-<media>bfmtv.com</media>
-
-<titre><a href="https://www.bfmtv.com/economie/replay-emissions/tech-and-co/florian-delezenne-beta-gouv-beta-gouv-developpe-des-services-numeriques-a-fort-impact-permettant-d-ameliorer-la-vie-des-citoyens-francais-21-02_VN-202202210591.html" title="Vidéo : Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français - Lien externe">[Vidéo] Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français</a></titre>
-<date>21 février 2022</date>
-<p class="margin-0">Dans : Tech & Co
 <media>bfmtv.com</media>
 
 <titre><a href="https://www.cio-online.com/actualites/lire-un-referentiel-unique-pour-l-ecoresponsabilite-numerique-de-a-a-z-14030.html" title="Un référentiel unique pour l'écoresponsabilité numérique de A à Z - Lien externe">Un référentiel unique pour l’écoresponsabilité numérique de A à Z</a></titre>
@@ -53,6 +48,10 @@ layout: page-annexe
 <date>3 mars 2022</date>
 <media>La Gazette des Communes</media>
 
+<titre><a href="https://www.bfmtv.com/economie/replay-emissions/tech-and-co/florian-delezenne-beta-gouv-beta-gouv-developpe-des-services-numeriques-a-fort-impact-permettant-d-ameliorer-la-vie-des-citoyens-francais-21-02_VN-202202210591.html" title="Vidéo : Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français - Lien externe">[Vidéo] Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français</a></titre>
+<date>21 février 2022</date>
+<p class="margin-0">Dans : Tech & Co
+<media>bfmtv.com</media>
 
 <titre><a href="https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N19__Les_veilles_fevrier_2022.pdf" title="Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ? - Lien externe - Ouvre un pdf">Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ? (pdf - 4 Mo)</a></titre>
 <date>Février 2022</date>
