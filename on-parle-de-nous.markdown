@@ -21,11 +21,11 @@ layout: page-annexe
 <media>acteurspublics.fr</media>
 
 <titre><a href="https://www.bsmart.fr/video/13322-smart-tech-partie-22-avril-2022" title="La grande interview : Laure Lucchesi, Etalab - Lien externe">La grande interview : Laure Lucchesi, Etalab</a></titre>
-<date>19 mai 2022</date>
+<date>22 avril 2022</date>
 <p class="margin-0">Dans : SMART TECH
 <media>bsmart.fr</media>
 
-<titre><a href="https://www.bsmart.fr/video/13322-smart-tech-partie-22-avril-2022" title="France Transfer : une version française de WeTransfer pour échanger avec les services publics - Lien externe">France Transfer : une version française de WeTransfer pour échanger avec les services publics</a></titre>
+<titre><a href="https://www.cnetfrance.fr/news/france-transfer-une-version-francaise-de-wetransfer-pour-echanger-avec-les-services-publics-39940601.htm" title="France Transfer : une version française de WeTransfer pour échanger avec les services publics - Lien externe">France Transfer : une version française de WeTransfer pour échanger avec les services publics</a></titre>
 <date>14 avril 2022</date>
 <media>cnetfrance.fr</media>
 
