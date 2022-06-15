@@ -34,7 +34,7 @@ layout: page-annexe
 <p class="margin-0">Dans : BFM Business avec vous
 <media>bfmtv.com</media>
 
-<titre><a href="https://www.bfmtv.com/economie/replay-emissions/tech-and-co/florian-delezenne-beta-gouv-beta-gouv-developpe-des-services-numeriques-a-fort-impact-permettant-d-ameliorer-la-vie-des-citoyens-francais-21-02_VN-202202210591.html" title="Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français - Lien externe">Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français</a></titre>
+<titre><a href="https://www.bfmtv.com/economie/replay-emissions/tech-and-co/florian-delezenne-beta-gouv-beta-gouv-developpe-des-services-numeriques-a-fort-impact-permettant-d-ameliorer-la-vie-des-citoyens-francais-21-02_VN-202202210591.html" title="Vidéo : Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français - Lien externe">[Vidéo] Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français</a></titre>
 <date>21 février 2022</date>
 <p class="margin-0">Dans : Tech & Co
 <media>bfmtv.com</media>
