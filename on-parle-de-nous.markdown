@@ -15,12 +15,12 @@ layout: page-annexe
 <date>2 juin 2022</date>
 <media>acteurspublics.fr</media>
 
-<titre><a href="https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/le-debat-de-la-redaction-un-reflexe-ia-dans-les-administrations" title="“Acculturer pour développer un réflexe IA dans les administrations” - Lien externe">“Acculturer pour développer un réflexe IA dans les administrations”</a></titre>
+<titre><a href="https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/le-debat-de-la-redaction-un-reflexe-ia-dans-les-administrations" title="Vidéo : “Acculturer pour développer un réflexe IA dans les administrations” - Lien externe">[Vidéo] “Acculturer pour développer un réflexe IA dans les administrations”</a></titre>
 <date>19 mai 2022</date>
 <p class="margin-0">Dans : acteurspublics <i>Solutions</i>
 <media>acteurspublics.fr</media>
 
-<titre><a href="https://www.bsmart.fr/video/13322-smart-tech-partie-22-avril-2022" title="La grande interview : Laure Lucchesi, Etalab - Lien externe">La grande interview : Laure Lucchesi, Etalab</a></titre>
+<titre><a href="https://www.bsmart.fr/video/13322-smart-tech-partie-22-avril-2022" title="Vidéo : La grande interview : Laure Lucchesi, Etalab - Lien externe">[Vidéo] La grande interview : Laure Lucchesi, Etalab</a></titre>
 <date>22 avril 2022</date>
 <p class="margin-0">Dans : SMART TECH
 <media>bsmart.fr</media>
@@ -29,7 +29,7 @@ layout: page-annexe
 <date>14 avril 2022</date>
 <media>cnetfrance.fr</media>
 
-<titre><a href="https://www.bfmtv.com/economie/emploi/la-direction-interministerielle-du-numerique-dinum-recrute_VN-202203280337.html" title="La direction interministérielle du numérique (DINUM) recrute ! - Lien externe">La direction interministérielle du numérique (DINUM) recrute !</a></titre>
+<titre><a href="https://www.bfmtv.com/economie/emploi/la-direction-interministerielle-du-numerique-dinum-recrute_VN-202203280337.html" title="Vidéo : La direction interministérielle du numérique (DINUM) recrute ! - Lien externe">[Vidéo] La direction interministérielle du numérique (DINUM) recrute !</a></titre>
 <date>28 mars 2022</date>
 <p class="margin-0">Dans : BFM Business avec vous
 <media>bfmtv.com</media>
