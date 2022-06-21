@@ -13,7 +13,7 @@ Parmi la multitude d’aides publiques aux entreprises existantes, il est diffic
 
 Afin de répondre à cette problématique, le ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique et le ministère du Travail, du Plein emploi et de l’Insertion ont développé un service public réunissant plus de 12 000 conseillers chargés de la relation entreprise, dans différentes administrations, opérateurs et collectivités territoriales volontaires.
 
-Le dirigeant exprime sa demande sur le site Place des Entreprises et est rappelé par le ou les conseillers compétents pour l’aider sur son territoire. **Le conseil humain est au cœur de ce nouveau service pour permettre au chef d’entreprise de mobiliser le bon accompagnement** en fonction de ses besoins, **sur une grande variété de sujets** : recrutement, formation, organisation du travail, investissement, droit du travail, difficultés financières, appui au développement, numérique, transmission reprise, santé et sécurité au travail, transition écologique & RSE, etc. Plus de 10 000 besoins d’entreprises ont déjà donné lieu à un échange avec un conseiller depuis le lancement du service.
+Le dirigeant exprime sa demande sur <a href="https://place-des-entreprises.beta.gouv.fr/" title="le site Place des Entreprises - Lien externe">le site Place des Entreprises</a> et est rappelé par le ou les conseillers compétents pour l’aider sur son territoire. **Le conseil humain est au cœur de ce nouveau service pour permettre au chef d’entreprise de mobiliser le bon accompagnement** en fonction de ses besoins, **sur une grande variété de sujets** : recrutement, formation, organisation du travail, investissement, droit du travail, difficultés financières, appui au développement, numérique, transmission reprise, santé et sécurité au travail, transition écologique & RSE, etc. Plus de 10 000 besoins d’entreprises ont déjà donné lieu à un échange avec un conseiller depuis le lancement du service.
 
 Après une expérimentation réussie dans les Hauts-de-France, le service s’est progressivement déployé dans les autres régions, et il sera accessible en Outre-mer et en Corse dès septembre. **Il a été construit selon une méthode innovante**, celle des Startup d’État, portée par l'incubateur « beta.gouv » de la direction interministérielle du numérique (DINUM), et piloté par un intrapreneur au sein de la direction générale des entreprises (DGE).
 
@@ -23,5 +23,18 @@ Après une expérimentation réussie dans les Hauts-de-France, le service s’es
 <div class="citation">Par son ancrage sur le terrain et son approche globale, Place des Entreprises offre l’opportunité pour l’action publique de devenir un profond levier de transformation de notre tissu économique </div>
 <div class="auteur-citation">Bruno Lucas, délégué général à l’emploi et à la formation professionnelle (DGEFP)</div>
 
-<div class="citation">L’équipe à l’origine de cette initiative a su exploiter les opportunités du numérique, ses nouvelles méthodes de travail et le potentiel des données pour engager une profonde transformation de la relation entre l’État et les entreprises.*
+<div class="citation">L’équipe à l’origine de cette initiative a su exploiter les opportunités du numérique, ses nouvelles méthodes de travail et le potentiel des données pour engager une profonde transformation de la relation entre l’État et les entreprises.</div>
 <div class="auteur-citation">Xavier Albouy, directeur interministériel du numérique par intérim (DINUM)</div>
+
+<div="encadre noir"><h2>Contacts presse :</h2>
+<b>DGE</b>
+<br>presse.dge@finances.gouv.fr 
+<br>01 44 97 04 49 
+<br>
+<b>DGEFP</b>
+<br>theo.piallat@emploi.gouv.fr 
+<br>07 60 77 16 09
+<br>
+<b>DINUM</b>
+<br>claire.brisoux@modernisation.gouv.fr
+<br>06 84 89 45 95</div>
