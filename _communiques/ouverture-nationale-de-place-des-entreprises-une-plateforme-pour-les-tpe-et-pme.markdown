@@ -15,6 +15,8 @@ chapeau-text: Place des Entreprises permet aux dirigeants d’entreprise d’êt
   métropolitain.
 une-ou-diaporama:
 - image: "/uploads/capture-video-Place-des-entreprises.png"
+files:
+- file: "/uploads/CP_OUVERTURE_NATIONALE_DU_SERVICE_PLACE_DES_ENTREPRISES.pdf"
 ---
 
 Parmi la multitude d’aides publiques aux entreprises existantes, il est difficile pour les TPE et PME de trouver l’accompagnement adéquat. De nombreux dispositifs demeurent largement méconnus de leurs destinataires, et les chefs d’entreprise ne parviennent pas toujours à identifier le bon interlocuteur dans la bonne structure.
@@ -25,16 +27,16 @@ Le dirigeant exprime sa demande sur <a href="https://place-des-entreprises.beta.
 
 Après une expérimentation réussie dans les Hauts-de-France, le service s’est progressivement déployé dans les autres régions, et il sera accessible en Outre-mer et en Corse dès septembre. **Il a été construit selon une méthode innovante**, celle des Startup d’État, portée par l'incubateur « beta.gouv » de la direction interministérielle du numérique (DINUM), et piloté par un intrapreneur au sein de la direction générale des entreprises (DGE).
 
-<div class="citation">Ce nouveau service traduit la réussite d’une démarche partenariale, en vue de renforcer l’accessibilité et l’impact de l’ensemble des accompagnements existants.</div>
+<div class="citation"><p>Ce nouveau service traduit la réussite d’une démarche partenariale, en vue de renforcer l’accessibilité et l’impact de l’ensemble des accompagnements existants.</p></div>
 <div class="auteur-citation">Thomas Courbe, Directeur général des entreprises (DGE)</div>
 
-<div class="citation">Par son ancrage sur le terrain et son approche globale, Place des Entreprises offre l’opportunité pour l’action publique de devenir un profond levier de transformation de notre tissu économique </div>
+<div class="citation"><p>Par son ancrage sur le terrain et son approche globale, Place des Entreprises offre l’opportunité pour l’action publique de devenir un profond levier de transformation de notre tissu économique </p></div>
 <div class="auteur-citation">Bruno Lucas, délégué général à l’emploi et à la formation professionnelle (DGEFP)</div>
 
-<div class="citation">L’équipe à l’origine de cette initiative a su exploiter les opportunités du numérique, ses nouvelles méthodes de travail et le potentiel des données pour engager une profonde transformation de la relation entre l’État et les entreprises.</div>
+<div class="citation"><p>L’équipe à l’origine de cette initiative a su exploiter les opportunités du numérique, ses nouvelles méthodes de travail et le potentiel des données pour engager une profonde transformation de la relation entre l’État et les entreprises.</p></div>
 <div class="auteur-citation">Xavier Albouy, directeur interministériel du numérique par intérim (DINUM)</div>
 
-<div="encadre noir"><h2>Contacts presse :</h2>
+<div class="encadre noir"><h2>Contacts presse :</h2>
 <b>DGE</b>
 <br>presse.dge@finances.gouv.fr 
 <br>01 44 97 04 49 
