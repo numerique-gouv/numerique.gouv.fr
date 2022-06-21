@@ -17,6 +17,20 @@ une-ou-diaporama:
 - image: "/uploads/capture-video-Place-des-entreprises.png"
 files:
 - file: "/uploads/CP_OUVERTURE_NATIONALE_DU_SERVICE_PLACE_DES_ENTREPRISES.pdf"
+  nom: Télécharger le communiqué de presse
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
 
 Parmi la multitude d’aides publiques aux entreprises existantes, il est difficile pour les TPE et PME de trouver l’accompagnement adéquat. De nombreux dispositifs demeurent largement méconnus de leurs destinataires, et les chefs d’entreprise ne parviennent pas toujours à identifier le bon interlocuteur dans la bonne structure.
@@ -35,6 +49,8 @@ Après une expérimentation réussie dans les Hauts-de-France, le service s’es
 
 <div class="citation"><p>L’équipe à l’origine de cette initiative a su exploiter les opportunités du numérique, ses nouvelles méthodes de travail et le potentiel des données pour engager une profonde transformation de la relation entre l’État et les entreprises.</p></div>
 <div class="auteur-citation">Xavier Albouy, directeur interministériel du numérique par intérim (DINUM)</div>
+
+<div class="button">Accéder à Place des Entreprises</div>
 
 <div class="encadre noir"><h2>Contacts presse :</h2>
 <b>DGE</b>
