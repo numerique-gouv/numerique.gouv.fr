@@ -39,10 +39,10 @@ Afin de répondre à cette problématique, le ministère de l’Économie, des F
 
 Le dirigeant exprime sa demande sur <a href="https://place-des-entreprises.beta.gouv.fr/" title="le site Place des Entreprises - Lien externe">le site Place des Entreprises</a> et est rappelé par le ou les conseillers compétents pour l’aider sur son territoire. **Le conseil humain est au cœur de ce nouveau service pour permettre au chef d’entreprise de mobiliser le bon accompagnement** en fonction de ses besoins, **sur une grande variété de sujets** : recrutement, formation, organisation du travail, investissement, droit du travail, difficultés financières, appui au développement, numérique, transmission reprise, santé et sécurité au travail, transition écologique & RSE, etc. Plus de 10 000 besoins d’entreprises ont déjà donné lieu à un échange avec un conseiller depuis le lancement du service.
 
-Après une expérimentation réussie dans les Hauts-de-France, le service s’est progressivement déployé dans les autres régions, et il sera accessible en Outre-mer et en Corse dès septembre. **Il a été construit selon une méthode innovante**, celle des Startup d’État, portée par l'incubateur « beta.gouv » de la direction interministérielle du numérique (DINUM), et piloté par un intrapreneur au sein de la direction générale des entreprises (DGE).
+Après une expérimentation réussie dans les Hauts-de-France, le service s’est progressivement déployé dans les autres régions, et il sera accessible en Outre-mer et en Corse dès septembre. **Il a été construit selon une méthode innovante**, celle des Startup d’État, portée par l'incubateur [beta.gouv](http://beta.gouv.fr "http://beta.gouv.fr - Lien externe") de la direction interministérielle du numérique (DINUM), et piloté par un intrapreneur au sein de la direction générale des entreprises (DGE).
 
 <div class="citation"><p>Ce nouveau service traduit la réussite d’une démarche partenariale, en vue de renforcer l’accessibilité et l’impact de l’ensemble des accompagnements existants.</p></div>
-<div class="auteur-citation">Thomas Courbe, Directeur général des entreprises (DGE)</div>
+<div class="auteur-citation">Thomas Courbe, directeur général des entreprises (DGE)</div>
 
 <div class="citation"><p>Par son ancrage sur le terrain et son approche globale, Place des Entreprises offre l’opportunité pour l’action publique de devenir un profond levier de transformation de notre tissu économique </p></div>
 <div class="auteur-citation">Bruno Lucas, délégué général à l’emploi et à la formation professionnelle (DGEFP)</div>
