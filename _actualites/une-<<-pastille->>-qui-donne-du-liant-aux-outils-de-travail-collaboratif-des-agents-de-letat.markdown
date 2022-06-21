@@ -21,7 +21,7 @@ Un tout nouveau bouton fait son apparition sur <a href="https://www.numerique.go
 En cliquant dessus, les utilisateurs peuvent désormais :
 * **naviguer facilement d’un outil interministériel à l’autre :** Webinaire, Webconf, Audioconf, Osmose, Resana, France transfert, Tchap
 * **découvrir des outils** de la suite qu’ils ne connaissent peut-être pas encore
-* **accéder rapidement aux aides** à la prise en main de chaque outil (tutoriels, formations, centres d’aides…)
+* **accéder rapidement aux aides** à la prise en main de chaque outil (tutoriels, formations, centres d’aide…)
 
 « Nous lançons une toute première version de cette "pastille" pour répondre à une problématique remontée par nos utilisateurs : les agents de l’État n’ont pas toujours connaissance de tous les outils à leur disposition, ils souhaitaient avoir une vue d’ensemble et pouvoir passer aisément de l’un à l’autre », explique Patrick Leraie, directeur du programme Sac à dos numérique de l’agent public (SNAP), au sein de la direction interministérielle du numérique (DINUM).
 Elle permet ainsi de basculer d’un bouquet de services dissociés à une suite intégrée.
