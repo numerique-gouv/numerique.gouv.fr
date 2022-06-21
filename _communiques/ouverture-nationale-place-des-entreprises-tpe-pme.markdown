@@ -48,7 +48,7 @@ Après une expérimentation réussie dans les Hauts-de-France, le service s’es
 <div class="citation"><p>L’équipe à l’origine de cette initiative a su exploiter les opportunités du numérique, ses nouvelles méthodes de travail et le potentiel des données pour engager une profonde transformation de la relation entre l’État et les entreprises.</p></div>
 <div class="auteur-citation">Xavier Albouy, directeur interministériel du numérique par intérim (DINUM)</div>
 
-<div class="button">Accéder à Place des Entreprises</div>
+<div align="center" style="margin-bottom: 40px"><a href="https://place-des-entreprises.beta.gouv.fr/" class="button" alt="Accéder à Place des Entreprises - Lien externe"><b>Accéder à Place des Entreprises</div>
 
 <div class="encadre noir"><h2>Contacts presse :</h2>
 <b>DGE</b>
