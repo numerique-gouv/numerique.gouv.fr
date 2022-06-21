@@ -43,10 +43,8 @@ Après une expérimentation réussie dans les Hauts-de-France, le service s’es
 
 <div class="citation"><p>Ce nouveau service traduit la réussite d’une démarche partenariale, en vue de renforcer l’accessibilité et l’impact de l’ensemble des accompagnements existants.</p></div>
 <div class="auteur-citation">Thomas Courbe, directeur général des entreprises (DGE)</div>
-
 <div class="citation"><p>Par son ancrage sur le terrain et son approche globale, Place des Entreprises offre l’opportunité pour l’action publique de devenir un profond levier de transformation de notre tissu économique </p></div>
 <div class="auteur-citation">Bruno Lucas, délégué général à l’emploi et à la formation professionnelle (DGEFP)</div>
-
 <div class="citation"><p>L’équipe à l’origine de cette initiative a su exploiter les opportunités du numérique, ses nouvelles méthodes de travail et le potentiel des données pour engager une profonde transformation de la relation entre l’État et les entreprises.</p></div>
 <div class="auteur-citation">Xavier Albouy, directeur interministériel du numérique par intérim (DINUM)</div>
 
