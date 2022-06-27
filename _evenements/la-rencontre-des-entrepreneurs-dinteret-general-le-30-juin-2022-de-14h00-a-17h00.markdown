@@ -33,7 +33,7 @@ Vous faites partie de l’écosystème du numérique public ? Réservez dès à 
 
 * Le discours d’ouverture du **[directeur interministériel du numérique](https://www.numerique.gouv.fr/espace-presse/ressources-presse/)**
 
-* Des conversations croisées lors de tables rondes sur les approches d’innovation et la transformation numérique dans l’administration
+* Des conversations croisées lors de tables rondes sur **les approches d’innovation et la transformation numérique dans l’administration**
   * Le droit comme catalyseur d’innovation numérique
   * Repousser les limites de l'innovation
   * Faire collectif pour entreprendre
