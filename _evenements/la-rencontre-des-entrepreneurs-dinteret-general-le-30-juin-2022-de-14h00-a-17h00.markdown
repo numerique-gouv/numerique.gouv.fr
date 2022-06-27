@@ -18,7 +18,7 @@ champs_informations:
 - intitule: Modalités
   contenu: Inscription obligatoire
   lien: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-5eme-promotion-355020906087
-- intitule: 
+- intitule: Journalistes
   contenu: Accréditation presse
   lien: mailto:claire.brisoux@modernisation.gouv.fr
 ---
@@ -36,6 +36,7 @@ Vous faites partie de l’écosystème du numérique public ? Réservez dès à 
   * Repousser les limites de l'innovation
   * Faire collectif pour entreprendre
   * Pour un service public ouvert, accessible et intelligible
+<br>
 <br>
 * Des entrevues avec des spécialistes du numérique, sur la réalité de leurs métiers
 
