@@ -8,6 +8,9 @@ tags:
 - EIG
 chapeau-text: Découvrez les défis d'innovation publique et de transformation numérique
   relevés par la 5e promotion EIG
+event_start_date: 2022-06-30 14:00:00 +02:00
+lieu: Auditorium des Services de la Première Ministre
+adresse: 20 avenue de Ségur, 75016, Paris
 ---
 
 Après deux ans d’absence, le [programme EIG](https://eig.etalab.gouv.fr/) réunira les acteurs et actrices de l’innovation publique autour de leurs sujets communs.
