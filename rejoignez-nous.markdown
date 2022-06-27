@@ -40,6 +40,14 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Tech lead H/F](https://place-emploi-public.gouv.fr/offre-emploi/tech-lead-hf-reference-2022-931570/ "Tech lead H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Data Engineer H/F - CDD 3 ans](https://place-emploi-public.gouv.fr/offre-emploi/data-engineer-hf---cdd-3-ans-reference-2022-885682/ "Data Engineer H/F - CDD 3 ans - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Architecte-Urbaniste des systèmes d'information CDD 3 ans renouvelable H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-905624/ "Architecte-Urbaniste des systèmes d'information CDD 3 ans renouvelable H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
