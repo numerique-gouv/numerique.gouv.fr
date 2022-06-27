@@ -29,6 +29,8 @@ Vous faites partie de l’écosystème du numérique public ? Réservez dès à 
 
 ## Au programme le 30 juin 2022
 
+### Regards sur l'innovation publique
+
 * Le discours d’ouverture du **[directeur interministériel du numérique](https://www.numerique.gouv.fr/espace-presse/ressources-presse/)**
 
 * Des conversations croisées lors de tables rondes sur les approches d’innovation et la transformation numérique dans l’administration
