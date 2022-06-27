@@ -5,6 +5,7 @@ date: 2022-06-27 14:53:00 +02:00
 categories:
 - Micro-conférences et ateliers
 tags:
+- Entrepreneurs d'Intérêt Général
 - EIG
 chapeau-text: Découvrez les défis d'innovation publique et de transformation numérique
   relevés par la 5e promotion EIG
@@ -12,9 +13,13 @@ event_start_date: 2022-06-30 14:00:00 +02:00
 lieu: Auditorium des Services de la Première Ministre
 adresse: 20 avenue de Ségur, 75016, Paris
 champs_informations:
+- intitule: Modalités
+  contenu: Inscription obligatoire
+  lien: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-5eme-promotion-355020906087
 - intitule: Horaires
-  contenu: Accréditation presse
-  lien: mailto:claire.brisoux@modernisation.gouv.fr
+  contenu: 14h - 17h
+- contenu: mailto:claire.brisoux@modernisation.gouv.fr
+  lien: Accréditation presse
 ---
 
 Après deux ans d’absence, le [programme EIG](https://eig.etalab.gouv.fr/) réunira les acteurs et actrices de l’innovation publique autour de leurs sujets communs.
