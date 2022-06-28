@@ -90,6 +90,6 @@ L’animation de l’écosystème implique également de **mobiliser la sociét�
 <br></div>
 
 <br>
-<i><b>Les Cafés Transfo</b> sont un événement organisé par la DINUM dans le cadre du <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">programme TECH.GOUV</a>, et ont pour objectifs la mobilisation de l'intelligence collective et la diffusion de bonnes pratiques en matière de transformation numérique. Exclusivement destinés aux décideurs publics qui se sentent concernés par les grands enjeux du numérique, ces rendez-vous se veulent être un lieu de partage et d’échanges collaboratifs réguliers. La prochaine édition se tiendra à l'automne 2021 !</i>
+<i><b>Les Cafés Transfo</b> sont un événement organisé par la DINUM dans le cadre du <a href="/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/">programme TECH.GOUV</a>, et ont pour objectifs la mobilisation de l'intelligence collective et la diffusion de bonnes pratiques en matière de transformation numérique. Exclusivement destinés aux décideurs publics qui se sentent concernés par les grands enjeux du numérique, ces rendez-vous se veulent être un lieu de partage et d’échanges collaboratifs réguliers. La prochaine édition se tiendra au printemps 2022 !</i>
 
 **Lire aussi** [le compte-rendu du 1er Café Transfo](https://www.numerique.gouv.fr/actualites/10-enseignements-pour-insuffler-une-culture-numerique-dans-administration/)
