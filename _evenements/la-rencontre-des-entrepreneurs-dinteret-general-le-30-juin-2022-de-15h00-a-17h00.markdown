@@ -36,7 +36,7 @@ Vous faites partie de l’écosystème du numérique public ? Réservez dès à 
 
 ### **Regards sur l'innovation publique**
 
-* Le discours d’ouverture de **Stanislas Guerini**, ministre de la Transformation et de la Fonction publiques.
+* Le discours d’ouverture de **Stanislas Guerini**, ministre de la Transformation et de la Fonction publiques
 
 * Des conversations croisées lors de tables rondes sur **les approches d’innovation et la transformation numérique dans l’administration**
   * Le droit comme catalyseur d’innovation numérique
