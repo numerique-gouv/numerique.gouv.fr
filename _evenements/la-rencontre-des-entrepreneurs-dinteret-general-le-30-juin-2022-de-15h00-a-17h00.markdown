@@ -60,7 +60,7 @@ Vous faites partie de l’écosystème du numérique public ? [Réservez dès à
 
 * **16h10 – Intermède : Le métier de développeur/développeuse**, par Anne-Lise Coudry et Javier Cuadrado Manteca
 
-* **16h15 – Pitch du défi** [« Décos »](https://eig.etalab.gouv.fr/defis/decos/), porté par le Ministère de l’Intérieur
+* **16h15 – Pitch du défi** [**« Décos »**](https://eig.etalab.gouv.fr/defis/decos/), porté par le Ministère de l’Intérieur
 
 * **16h20 – Table ronde : Complémentarités - Le droit comme catalyseur d’innovation numérique**
 
