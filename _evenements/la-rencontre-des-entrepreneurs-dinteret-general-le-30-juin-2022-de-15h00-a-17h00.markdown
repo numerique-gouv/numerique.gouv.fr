@@ -2,6 +2,7 @@
 title: La rencontre des Entrepreneurs d’intérêt général le 30 juin 2022 de 15h00 à
   17h00
 date: 2022-06-27 14:53:00 +02:00
+published: false
 categories:
 - Évènement
 tags:
@@ -24,21 +25,31 @@ champs_informations:
   contenu: Inscription obligatoire
   lien: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-5eme-promotion-355020906087
 - intitule: Journalistes
-  contenu: Accréditation presse
+  contenu: Accréditation presse obligatoire
   lien: mailto:claire.brisoux@modernisation.gouv.fr
 ---
 
-Après deux ans d’absence, le [programme EIG](https://eig.etalab.gouv.fr/) réunira les acteurs et actrices de l’innovation publique autour de leurs sujets communs.
+Le [programme EIG](https://eig.etalab.gouv.fr/) réunira les acteurs et actrices de l’innovation publique autour de leurs sujets communs lors d'une rencontre avec la 5e promotion des Entrepreneurs d'intérêt général le jeudi 30 juin.
 
-Vous faites partie de l’écosystème du numérique public ? Réservez dès à présent votre place : les 200 premières inscriptions sont assurées d’assister à cet événement dans l’auditorium des Services de la Première ministre.
+Vous faites partie de l’écosystème du numérique public ? [Réservez dès à présent votre place](https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-5eme-promotion-355020906087) : les 200 premières inscriptions sont assurées d’assister à cet événement dans l’auditorium des Services de la Première ministre.
 
 ## Au programme le 30 juin 2022
 
 ### **Regards sur l'innovation publique**
 
-* Le discours d’ouverture de **Stanislas Guerini**, ministre de la Transformation et de la Fonction publiques
+* **15h** - Discours d’ouverture par **Stanislas Guerini**, ministre de la Transformation et de la Fonction publiques
 
-* Des conversations croisées lors de tables rondes sur **les approches d’innovation et la transformation numérique dans l’administration**
+* **15h15** - Présentation du programme EIG et de la rencontre des entrepreneurs d’intérêt général par Corine Waroquiers, responsable du programme
+
+* **15h20** - Pitchs de 3 défis 
+  * « Mes services Greentech », par Alexis Brissard, Charlotte Samson et Coralie Coton, porté par le Commissariat Général au Développement Durable (CGDD) 
+  * « BatID », par Elisabeth Talbourdet-Ville et Félix Veith, porté par l’Agence de la transition écologique (ADEME) 
+  * [« Green Alert »](https://www.linkedin.com/pulse/retour-sur-le-global-legal-hackathon-2022-%C3%A0-paris-geoffrey-delcroix/?originalSubdomain=fr), portée par les Entrepreneurs Alexandre Thomas, Alexis Brissard, Elisabeth Talbourdet-Ville, Félix Veith et Laurine Bois, est une application citoyenne produite au cours de la participation des EIG au Global Legal Hackaton 
+
+* **15h30** – Intermède, dans les coulisses du défi « Basegun » porté par le Ministère de l’Intérieur et par les entrepreneurs Beryl Koller et Sarah Cocher 
+
+* 15h35 – Table ronde : Convergences - (Se) dépasser pour entreprendre
+
   * Le droit comme catalyseur d’innovation numérique
   * Repousser les limites de l'innovation
   * Faire collectif pour entreprendre
