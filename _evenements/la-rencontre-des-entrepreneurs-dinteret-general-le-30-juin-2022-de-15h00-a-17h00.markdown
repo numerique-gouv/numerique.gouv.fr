@@ -1,6 +1,5 @@
 ---
-title: La rencontre des Entrepreneurs d’intérêt général (EIG) le 30 juin 2022 de 15h00
-  à 17h00
+title: La rencontre des Entrepreneurs d’intérêt général (EIG)
 date: 2022-06-27 14:53:00 +02:00
 categories:
 - Évènement
@@ -43,7 +42,7 @@ Vous faites partie de l’écosystème du numérique public ? [Réservez dès à
 * **15h20 - Pitchs de 3 défis**
   * [**« CyberImpact »**](https://eig.etalab.gouv.fr/defis/cyberimp-ct/), porté par la Direction générale de la Gendarmerie nationale (DGGN)
   * [**« BatID »**](https://eig.etalab.gouv.fr/defis/batid/), porté par l’Agence de la transition écologique (ADEME) 
-  * [**« DaSES »**](https://eig.etalab.gouv.fr/defis/dases-1/), porté par le ministère de l’Education nationale, de la jeunesse et des sports 
+  * [**« DaSES »**](https://eig.etalab.gouv.fr/defis/dases-1/), porté par le ministère de l’Education nationale, de la Jeunesse et des Sports 
 <br>
 <br>
 * **15h30 – Intermède-vidéo**, dans les coulisses du défi [**« Basegun »**](https://eig.etalab.gouv.fr/defis/basegun/) porté par le ministère de l’Intérieur
@@ -60,7 +59,7 @@ Vous faites partie de l’écosystème du numérique public ? [Réservez dès à
 
 * **16h10 – Intermède : Le métier de développeur/développeuse**, par Anne-Lise Coudry et Javier Cuadrado Manteca
 
-* **16h15 – Pitch du défi** [**« Décos »**](https://eig.etalab.gouv.fr/defis/decos/), porté par le Ministère de l’Intérieur
+* **16h15 – Pitch du défi** [**« Décos »**](https://eig.etalab.gouv.fr/defis/decos/), porté par le ministère de l’Intérieur
 
 * **16h20 – Table ronde : Complémentarités - Le droit comme catalyseur d’innovation numérique**
 
