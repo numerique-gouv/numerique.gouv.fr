@@ -11,6 +11,6 @@ Vous pouvez poser vos questions sur la liste de discussion du RGAA accessible su
 
 <div class="lien-important">
   <p>
-    <a class="lien-important" href="https://framalistes.org/sympa/subscribe/rgaa">S’inscrire à la liste de discussion RGAA</a>
+    <a class="lien-important" href="https://groupes.renater.fr/sympa/info/rgaa" title="S’inscrire à la liste de discussion RGAA - Lien externe">S’inscrire à la liste de discussion RGAA</a>
   </p>
 </div>
