@@ -41,8 +41,8 @@ Vous faites partie de l’écosystème du numérique public ? [Réservez dès à
 * **15h15** - Présentation du programme EIG et de la rencontre des entrepreneurs d’intérêt général par Corine Waroquiers, responsable du programme
 
 * **15h20** - Pitchs de 3 défis 
-  * « Mes services Greentech », par Alexis Brissard, Charlotte Samson et Coralie Coton, porté par le Commissariat Général au Développement Durable (CGDD) 
-  * « BatID », par Elisabeth Talbourdet-Ville et Félix Veith, porté par l’Agence de la transition écologique (ADEME) 
+  * [« Mes services Greentech »](https://eig.etalab.gouv.fr/defis/mes-services-greentech/), par Alexis Brissard, Charlotte Samson et Coralie Coton, porté par le Commissariat Général au Développement Durable (CGDD) 
+  * « [BatID](https://eig.etalab.gouv.fr/defis/batid/) », par Elisabeth Talbourdet-Ville et Félix Veith, porté par l’Agence de la transition écologique (ADEME) 
   * [« Green Alert »](https://www.linkedin.com/pulse/retour-sur-le-global-legal-hackathon-2022-%C3%A0-paris-geoffrey-delcroix/?originalSubdomain=fr), portée par les Entrepreneurs Alexandre Thomas, Alexis Brissard, Elisabeth Talbourdet-Ville, Félix Veith et Laurine Bois, est une application citoyenne produite au cours de la participation des EIG au Global Legal Hackaton 
 
 * **15h30** – Intermède, dans les coulisses du défi « Basegun » porté par le Ministère de l’Intérieur et par les entrepreneurs Beryl Koller et Sarah Cocher 
