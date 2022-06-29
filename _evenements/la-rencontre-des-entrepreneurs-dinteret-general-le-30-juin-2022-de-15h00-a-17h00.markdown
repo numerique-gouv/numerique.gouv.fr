@@ -1,6 +1,6 @@
 ---
-title: La rencontre des Entrepreneurs d’intérêt général le 30 juin 2022 de 15h00 à
-  17h00
+title: La rencontre des Entrepreneurs d’intérêt général (EIG) le 30 juin 2022 de 15h00
+  à 17h00
 date: 2022-06-27 14:53:00 +02:00
 categories:
 - Évènement
