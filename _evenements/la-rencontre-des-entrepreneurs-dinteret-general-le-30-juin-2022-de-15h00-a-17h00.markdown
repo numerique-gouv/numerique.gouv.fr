@@ -68,6 +68,6 @@ Vous faites partie de l’écosystème du numérique public ? [Réservez dès à
 
 * **16h35 – Table ronde : Valeurs - Pour un service public ouvert, accessible et intelligible**
 
-* **16h45 – Pitch du défi** [**« Green Alert »**](https://www.linkedin.com/pulse/retour-sur-le-global-legal-hackathon-2022-%C3%A0-paris-geoffrey-delcroix/?originalSubdomain=fr), une application citoyenne produite au cours de la participation au [Global Legal Hackaton](https://ubi-legal-innovation-team.github.io/glh-paris-2022/html/fr.html)
+* **16h50 – Pitch du défi** [**« Green Alert »**](https://www.linkedin.com/pulse/retour-sur-le-global-legal-hackathon-2022-%C3%A0-paris-geoffrey-delcroix/?originalSubdomain=fr), une application citoyenne produite au cours de la participation au [Global Legal Hackaton](https://ubi-legal-innovation-team.github.io/glh-paris-2022/html/fr.html)
 
 * **16h55 – Conclusion par Xavier Albouy**, directeur interministériel du numérique
