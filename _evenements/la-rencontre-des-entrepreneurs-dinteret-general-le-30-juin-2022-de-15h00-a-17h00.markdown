@@ -48,9 +48,10 @@ Vous faites partie de l’écosystème du numérique public ? [Réservez dès à
 
 * **15h30** – Intermède, dans les coulisses du défi « Basegun » porté par le Ministère de l’Intérieur et par les entrepreneurs Beryl Koller et Sarah Cocher 
 
-* 15h35 – Table ronde : Convergences - (Se) dépasser pour entreprendre
+* **15h35** – Table ronde : Convergences - (Se) dépasser pour entreprendre
+  * -	Le thème : l’expérience EIG résumée en peu de mots, c’est une arrivée en terre inconnue, accompagné(e) de nouveaux coéquipiers, en équipe réduite. Comment créer les conditions qui permettent à l’équipe d’entreprendre et de mener à bien son défi ? Nos expériences nous amènent à penser à de nouveaux modes de collaboration et de dépassement.
 
-  * Le droit comme catalyseur d’innovation numérique
+
   * Repousser les limites de l'innovation
   * Faire collectif pour entreprendre
   * Pour un service public ouvert, accessible et intelligible
