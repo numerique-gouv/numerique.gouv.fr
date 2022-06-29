@@ -1,8 +1,7 @@
 ---
-title: La rencontre des Entrepreneurs d’intérêt général le 30 juin 2022 de 15h00 à
-  17h00
+title: La rencontre des Entrepreneurs d’intérêt général (EIG) le 30 juin 2022 de 15h00
+  à 17h00
 date: 2022-06-27 14:53:00 +02:00
-published: false
 categories:
 - Évènement
 tags:
@@ -24,13 +23,13 @@ champs_informations:
 - intitule: Modalités
   contenu: Inscription obligatoire
   lien: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-5eme-promotion-355020906087
-- intitule: Journalistes
-  contenu: Accréditation presse obligatoire
+- intitule: Accréditations presse
+  contenu: Contacter le service presse de la DINUM
   lien: mailto:claire.brisoux@modernisation.gouv.fr
 ---
 
 Le [programme EIG](https://eig.etalab.gouv.fr/) réunira les acteurs et actrices de l’innovation publique autour de leurs sujets communs lors d'une rencontre avec la 5e promotion des Entrepreneurs d'intérêt général le jeudi 30 juin.
-
+	
 Vous faites partie de l’écosystème du numérique public ? [Réservez dès à présent votre place](https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-5eme-promotion-355020906087) : les 200 premières inscriptions sont assurées d’assister à cet événement dans l’auditorium des Services de la Première ministre.
 
 ## Déroulé de la rencontre
@@ -39,19 +38,19 @@ Vous faites partie de l’écosystème du numérique public ? [Réservez dès à
 
 * **15h - Discours d’ouverture par Stanislas Guerini**, ministre de la Transformation et de la Fonction publiques
 
-* **15h15 - Présentation du programme EIG et de la rencontre des entrepreneurs d’intérêt général par Corine Waroquiers**, responsable du programme
+* **15h15 - Présentation du programme EIG par Corine Waroquiers**, responsable du programme
 
 * **15h20 - Pitchs de 3 défis**
-  * [**« Mes services Greentech »**](https://eig.etalab.gouv.fr/defis/mes-services-greentech/), porté par le Commissariat Général au Développement Durable (CGDD) 
+  * [**« CyberImpact »**](https://eig.etalab.gouv.fr/defis/cyberimp-ct/), porté par la Direction générale de la Gendarmerie nationale (DGGN)
   * [**« BatID »**](https://eig.etalab.gouv.fr/defis/batid/), porté par l’Agence de la transition écologique (ADEME) 
-  * [**« Green Alert »**](https://www.linkedin.com/pulse/retour-sur-le-global-legal-hackathon-2022-%C3%A0-paris-geoffrey-delcroix/?originalSubdomain=fr) est une application citoyenne produite au cours de la participation au [Global Legal Hackaton](https://ubi-legal-innovation-team.github.io/glh-paris-2022/html/fr.html)
+  * [**« DaSES »**](https://eig.etalab.gouv.fr/defis/dases-1/), porté par le ministère de l’Education nationale, de la jeunesse et des sports 
 <br>
 <br>
-* **15h30 – Intermède**, dans les coulisses du défi [**« Basegun »**](https://eig.etalab.gouv.fr/defis/basegun/) porté par le Ministère de l’Intérieur
+* **15h30 – Intermède-vidéo**, dans les coulisses du défi [**« Basegun »**](https://eig.etalab.gouv.fr/defis/basegun/) porté par le ministère de l’Intérieur
 
 * **15h35 – Table ronde : Convergences - (Se) dépasser pour entreprendre**
 
-* **15h45 – Pitch du défi** [**« SMASH »**](https://eig.etalab.gouv.fr/defis/smash/), porté par la Direction de la Recherche, des Études, de l’Évaluation et des Statistiques (DREES)
+* **15h45 – Pitch du défi** [**« SMASH »**](https://eig.etalab.gouv.fr/defis/smash/), porté par la Direction de la recherche, des études, de l’évaluation et des statistiques (DREES)
 
 * **15h50 – Intermède : Le métier de designer**, par Béatrice Le Thuc et Vedran Beric
 
@@ -61,16 +60,14 @@ Vous faites partie de l’écosystème du numérique public ? [Réservez dès à
 
 * **16h10 – Intermède : Le métier de développeur/développeuse**, par Anne-Lise Coudry et Javier Cuadrado Manteca
 
-* **16h15 – Pitch du défi** [« Décos »](https://eig.etalab.gouv.fr/defis/decos/), porté par le Ministère de l’Intérieur
+* **16h15 – Pitch du défi** [**« Décos »**](https://eig.etalab.gouv.fr/defis/decos/), porté par le Ministère de l’Intérieur
 
 * **16h20 – Table ronde : Complémentarités - Le droit comme catalyseur d’innovation numérique**
 
-* **16h30 – Pitch du défi** [**« CyberImpact »**](https://eig.etalab.gouv.fr/defis/cyberimp-ct/), porté par la Direction générale de la gendarmerie nationale (DGGN)
+* **16h30 – Pitch du défi** [**« Mes services Greentech »**](https://eig.etalab.gouv.fr/defis/mes-services-greentech/), porté par le Commissariat général au développement durable (CGDD)
 
 * **16h35 – Table ronde : Valeurs - Pour un service public ouvert, accessible et intelligible**
 
-* **16h45 – Pitch du défi** [**« DaSES »**](https://eig.etalab.gouv.fr/defis/dases-1/), porté par le Ministère de l’Education nationale, de la jeunesse et des sports
+* **16h50 – Pitch du défi** [**« Green Alert »**](https://www.linkedin.com/pulse/retour-sur-le-global-legal-hackathon-2022-%C3%A0-paris-geoffrey-delcroix/?originalSubdomain=fr), une application citoyenne produite au cours de la participation au [Global Legal Hackaton](https://ubi-legal-innovation-team.github.io/glh-paris-2022/html/fr.html)
 
 * **16h55 – Conclusion par Xavier Albouy**, directeur interministériel du numérique
-
-* **17h** - Nombreuses rencontres informelles à l’occasion d’un **cocktail de clôture**
