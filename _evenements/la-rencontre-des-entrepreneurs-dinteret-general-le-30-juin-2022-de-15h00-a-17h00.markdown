@@ -50,7 +50,7 @@ Vous faites partie de l’écosystème du numérique public ? [Réservez dès à
 
 * **15h35 – Table ronde : Convergences - (Se) dépasser pour entreprendre**
 
-* **15h45 – Pitch du défi** [**« SMASH »**](https://eig.etalab.gouv.fr/defis/smash/), porté par la Direction de la Recherche, des Études, de l’Évaluation et des Statistiques (DREES)
+* **15h45 – Pitch du défi** [**« SMASH »**](https://eig.etalab.gouv.fr/defis/smash/), porté par la Direction de la recherche, des études, de l’évaluation et des statistiques (DREES)
 
 * **15h50 – Intermède : Le métier de designer**, par Béatrice Le Thuc et Vedran Beric
 
