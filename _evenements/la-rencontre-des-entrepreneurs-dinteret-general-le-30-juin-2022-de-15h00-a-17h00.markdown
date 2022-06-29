@@ -2,6 +2,7 @@
 title: La rencontre des Entrepreneurs d’intérêt général le 30 juin 2022 de 15h00 à
   17h00
 date: 2022-06-27 14:53:00 +02:00
+published: false
 categories:
 - Évènement
 tags:
@@ -41,35 +42,35 @@ Vous faites partie de l’écosystème du numérique public ? [Réservez dès à
 * **15h15 - Présentation du programme EIG et de la rencontre des entrepreneurs d’intérêt général par Corine Waroquiers**, responsable du programme
 
 * **15h20 - Pitchs de 3 défis**
-  * [**« Mes services Greentech »**](https://eig.etalab.gouv.fr/defis/mes-services-greentech/), par Alexis Brissard, Charlotte Samson et Coralie Coton, porté par le Commissariat Général au Développement Durable (CGDD) 
-  * [« BatID »](https://eig.etalab.gouv.fr/defis/batid/), par Elisabeth Talbourdet-Ville et Félix Veith, porté par l’Agence de la transition écologique (ADEME) 
-  * [« Green Alert »](https://www.linkedin.com/pulse/retour-sur-le-global-legal-hackathon-2022-%C3%A0-paris-geoffrey-delcroix/?originalSubdomain=fr), portée par les Entrepreneurs Alexandre Thomas, Alexis Brissard, Elisabeth Talbourdet-Ville, Félix Veith et Laurine Bois, est une application citoyenne produite au cours de la participation des EIG au Global Legal Hackaton 
+  * [**« Mes services Greentech »**](https://eig.etalab.gouv.fr/defis/mes-services-greentech/), porté par le Commissariat Général au Développement Durable (CGDD) 
+  * [**« BatID »**](https://eig.etalab.gouv.fr/defis/batid/), porté par l’Agence de la transition écologique (ADEME) 
+  * [**« Green Alert »**](https://www.linkedin.com/pulse/retour-sur-le-global-legal-hackathon-2022-%C3%A0-paris-geoffrey-delcroix/?originalSubdomain=fr) est une application citoyenne produite au cours de la participation au [Global Legal Hackaton](https://ubi-legal-innovation-team.github.io/glh-paris-2022/html/fr.html)
 <br>
-
-* **15h30 – Intermède**, dans les coulisses du défi « Basegun » porté par le Ministère de l’Intérieur et par les entrepreneurs Beryl Koller et Sarah Cocher 
+<br>
+* **15h30 – Intermède**, dans les coulisses du défi [**« Basegun »**](https://eig.etalab.gouv.fr/defis/basegun/) porté par le Ministère de l’Intérieur
 
 * **15h35 – Table ronde : Convergences - (Se) dépasser pour entreprendre**
 
-* **15h45 – Pitch du défi « SMASH »**, porté par la Direction de la Recherche, des Études, de l’Évaluation et des Statistiques (DREES) et par les entrepreneurs par Gilles Gonon et Maud Galametz 
+* **15h45 – Pitch du défi** [**« SMASH »**](https://eig.etalab.gouv.fr/defis/smash/), porté par la Direction de la Recherche, des Études, de l’Évaluation et des Statistiques (DREES)
 
-* **15h50 – Intermède : le métier de designer**, par Béatrice Le Thuc et Vedran Beric
+* **15h50 – Intermède : Le métier de designer**, par Béatrice Le Thuc et Vedran Beric
 
 * **15h55 – Table ronde : Divergences - Repousser les limites de l’innovation**
 
-* **16h05 – Pitch du défi « GDR Santé »**, porté par l’Agence nationale de sécurité du médicament et des produits de santé (ANSM) et par les entrepeneurs Arnaud Valladier, Jordan Munoz et Thaïs Coutinho
+* **16h05 – Pitch du défi** [**« GDR Santé »**](https://eig.etalab.gouv.fr/defis/gdr-sante/), porté par l’Agence nationale de sécurité du médicament et des produits de santé (ANSM)
 
-* **16h10 – Intermède : le métier de développeur/développeuse**, par Anne-Lise Coudry et Javier Cuadrado Manteca
+* **16h10 – Intermède : Le métier de développeur/développeuse**, par Anne-Lise Coudry et Javier Cuadrado Manteca
 
-* **16h15 – Pitch du défi « Décos »**, porté par le Ministère de l’Intérieur et par les entrepreneurs Alexandre Bastide et Emily Betham
+* **16h15 – Pitch du défi** [« Décos »](https://eig.etalab.gouv.fr/defis/decos/), porté par le Ministère de l’Intérieur
 
 * **16h20 – Table ronde : Complémentarités - Le droit comme catalyseur d’innovation numérique**
 
-* **16h30 – Pitch du défi « CyberImpact »**, porté par la Direction générale de la gendarmerie nationale (DGGN) et par les entrepreneurs Alexandre Thomas et Antoine Mazières
+* **16h30 – Pitch du défi** [**« CyberImpact »**](https://eig.etalab.gouv.fr/defis/cyberimp-ct/), porté par la Direction générale de la gendarmerie nationale (DGGN)
 
 * **16h35 – Table ronde : Valeurs - Pour un service public ouvert, accessible et intelligible**
 
-* **16h45 – Pitch du défi « DaSES »**, porté par le Ministère de l’Education nationale, de la jeunesse et des sports et par les entrepreneurs Laurine Bois, Mathieu Strabach et Perrin Grandne
+* **16h45 – Pitch du défi** [**« DaSES »**](https://eig.etalab.gouv.fr/defis/dases-1/), porté par le Ministère de l’Education nationale, de la jeunesse et des sports
 
-* **16h55 – Conclusion par Xavier Albouy**, Directeur interministériel du numérique
+* **16h55 – Conclusion par Xavier Albouy**, directeur interministériel du numérique
 
-* **17h** - Nombreuses rencontres informelles à l’occasion d’un **cocktail de clôture**.
+* **17h** - Nombreuses rencontres informelles à l’occasion d’un **cocktail de clôture**
