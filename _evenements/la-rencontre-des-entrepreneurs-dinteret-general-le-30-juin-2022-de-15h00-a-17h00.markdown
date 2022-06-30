@@ -9,13 +9,13 @@ tags:
 chapeau-text: Découvrez les défis d'innovation publique et de transformation numérique
   relevés par la 5e promotion EIG
 une-ou-diaporama:
-- image: "/uploads/2022_06_28_Innovation-publique_AGENDA.jpg"
+- image: "/uploads/2022_06_30_Innovation-publique_AGENDA.jpg"
   alternative-textuelle: Regards sur l'innovation publique. La rencontre des Entrepreneurs
     d'intérêt général. 5e promotion. Jeudi 30 juin 2022, auditorium de Ségur. Accueil
-    à 14h30, ouverture du ministre à 15h00.
+    à 14h30, ouverture par le ministre à 15h00.
 event_start_date: 2022-06-30 14:00:00 +02:00
 lieu: Auditorium des Services de la Première Ministre
-adresse: 20 avenue de Ségur, 75016, Paris
+adresse: 20 avenue de Ségur, Paris 7
 champs_informations:
 - intitule: Horaires
   contenu: 15h - 17h
@@ -69,4 +69,4 @@ Vous faites partie de l’écosystème du numérique public ? [Réservez dès à
 
 * **16h50 – Pitch du défi** [**« Green Alert »**](https://www.linkedin.com/pulse/retour-sur-le-global-legal-hackathon-2022-%C3%A0-paris-geoffrey-delcroix/?originalSubdomain=fr), une application citoyenne produite au cours de la participation au [Global Legal Hackaton](https://ubi-legal-innovation-team.github.io/glh-paris-2022/html/fr.html)
 
-* **16h55 – Conclusion par Xavier Albouy**, directeur interministériel du numérique
+* **16h55 – Conclusion par Laure Lucchesi**, directrice d'[Etalab](https://www.etalab.gouv.fr/)
