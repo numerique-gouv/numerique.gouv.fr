@@ -9,10 +9,10 @@ tags:
 chapeau-text: Découvrez les défis d'innovation publique et de transformation numérique
   relevés par la 5e promotion EIG
 une-ou-diaporama:
-- image: "/uploads/2022_06_28_Innovation-publique_AGENDA.jpg"
+- image: "/uploads/2022_06_30_Innovation-publique_AGENDA.jpg"
   alternative-textuelle: Regards sur l'innovation publique. La rencontre des Entrepreneurs
     d'intérêt général. 5e promotion. Jeudi 30 juin 2022, auditorium de Ségur. Accueil
-    à 14h30, ouverture du ministre à 15h00.
+    à 14h30, ouverture par le ministre à 15h00.
 event_start_date: 2022-06-30 14:00:00 +02:00
 lieu: Auditorium des Services de la Première Ministre
 adresse: 20 avenue de Ségur, Paris 7
