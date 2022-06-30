@@ -15,7 +15,7 @@ une-ou-diaporama:
     à 14h30, ouverture du ministre à 15h00.
 event_start_date: 2022-06-30 14:00:00 +02:00
 lieu: Auditorium des Services de la Première Ministre
-adresse: 20 avenue de Ségur, 75016, Paris
+adresse: 20 avenue de Ségur, Paris 7
 champs_informations:
 - intitule: Horaires
   contenu: 15h - 17h
