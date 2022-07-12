@@ -1,6 +1,6 @@
 ---
-title: "[Vis mon job] Agents de l’État : faites découvrir votre métier numérique à
-  des étudiants !"
+title: "[Vis mon job 2022] Agents de l’État : faites découvrir votre métier numérique
+  à des étudiants !"
 date: 2022-07-12 12:02:00 +02:00
 categories:
 - Article
@@ -46,11 +46,11 @@ Quelques exemples (liste non exhaustive) : data scientist, officier sécurité, 
 
 ## Comment cela se passe ?
 
-1. **Vous vous inscrivez** en tant qu’ambassadeur, ambassadrice à travers [notre formulaire dédié.](https://sgmap.sphinxdeclic.com/d/s/7qs2f3)
+1. **Vous vous inscrivez** en tant qu’ambassadeur, ambassadrice à travers [notre formulaire dédié.](https://sgmap.sphinxdeclic.com/d/s/7qs2f3 "notre formulaire dédié - Lien externe")
 2. **Nous vous confirmons** votre inscription et vous proposons un coaching d’1h pour préparer au mieux cette journée et répondre à vos questions.
 3. **Nous réalisons les « matchs »** entre ambassadeurs volontaires et étudiants, selon les intérêts et souhaits de ces derniers (métier, situation géographique, administration…) et **transmettons à chacun les informations** sur leur binôme.
 4. **Le jour J, vous accueillez** au sein de votre administration l’étudiant ou étudiante en question pour une immersion à vos côtés.
 
-<p align="center"><a href="https://sgmap.sphinxdeclic.com/d/s/7qs2f3" class="button">S'inscrire à l'événement</a></p>
+<p align="center"><a href="https://sgmap.sphinxdeclic.com/d/s/7qs2f3" class="button" title="S'inscrire à l'événement - Lien externe">S'inscrire à l'événement</a></p>
 
 Contact et informations ambassadeurs : [vismonjob.dinum@modernisation.gouv.fr](mailto:vismonjob.dinum@modernisation.gouv.fr)
