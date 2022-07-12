@@ -17,7 +17,6 @@ chapeau-text: La DINUM, en collaboration avec les ministères des Armées et de 
   de l’État ! Inscrivez-vous dès maintenant.
 une-ou-diaporama:
 - image: "/uploads/2020_07_24_Article_Vis_mon_job_2-66903e.png"
-  alternative-textuelle: 'Vis mon job '
 ---
 
 ## Vis mon job, c’est un programme qui permet de :
