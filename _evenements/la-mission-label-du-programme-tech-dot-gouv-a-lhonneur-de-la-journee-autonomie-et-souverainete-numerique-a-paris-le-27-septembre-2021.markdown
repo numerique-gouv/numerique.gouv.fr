@@ -18,7 +18,6 @@ une-ou-diaporama:
     2021\nParis centre de conférence Pierre Mendès-France\nAvec la participation de
     la mission LABEL"
 event_start_date: 2021-09-27 14:00:00 +02:00
-event_end_date: 2021-09-27 17:30:00 +02:00
 lieu: 'Centre de Conférences Pierre Mendès-France
 
 '

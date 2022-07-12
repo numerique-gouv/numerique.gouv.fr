@@ -17,8 +17,8 @@ une-ou-diaporama:
 - image: "/uploads/DINUM-site_1600x860-72c946-2772c7.jpg"
   alternative-textuelle: 'Entrepreneurs d''intérêt général : l’État recrute 50 talents
     du numérique pour accélérer sa transformation !'
-event_start_date: 2021-03-30 00:00:00 +02:00
-event_end_date: 2021-03-30 00:00:00 +02:00
+event_start_date: 2021-03-01 00:00:00 +01:00
+event_end_date: 2021-05-02 00:00:00 +02:00
 afficher_la_carte: false
 champs_informations:
 - intitule: Modalités

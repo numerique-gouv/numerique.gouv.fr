@@ -16,7 +16,6 @@ une-ou-diaporama:
     Entrepreneurs d'intérêt général - promotion 4
     Le Demo Day virtuel, le 17 juin 2021 à partir de 14h
 event_start_date: 2021-06-17 14:00:00 +02:00
-event_end_date: 2021-06-17 17:00:00 +02:00
 lieu: En ligne
 afficher_la_carte: false
 champs_informations:
