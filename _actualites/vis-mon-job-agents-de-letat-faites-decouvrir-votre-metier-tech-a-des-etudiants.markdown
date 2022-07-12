@@ -24,7 +24,7 @@ une-ou-diaporama:
 
 * **donner envie** aux étudiants de venir travailler dans l’administration ;
 * **faire découvrir à un/e étudiant/e un métier tech dans l’administration** et la diversité des missions numériques de l’État
-* **faire se rencontrer le temps d’une journée un/e étudiant/e intéressé(e) par les métiers du numérique et un professionnel du numérique** au sein d’une administration : ils échangent ensemble sur le métier, le numérique public, les projets phares de l’administration, l’environnement et les méthodes de travail, les technologies, leurs parcours… ;
+* **faire se rencontrer le temps d’une journée un/e étudiant/e intéressé/e par les métiers du numérique et un professionnel du numérique** au sein d’une administration : ils échangent ensemble sur le métier, le numérique public, les projets phares de l’administration, l’environnement et les méthodes de travail, les technologies, leurs parcours… ;
 * … et peut-être **mettre en contact deux futur(e)s collaborateurs/collaboratrices !**
 
 Cette journée aura lieu **le 17 novembre**
