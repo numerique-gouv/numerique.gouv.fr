@@ -42,3 +42,6 @@ Deux façons de nous transmettre vos retours sur cette version bêta :
 La fin de la version bêta est prévue à la rentrée. Plus d’informations prochainement pour le lancement officiel ! 
 
 <p align="center"><a href="https://accessibilite.numerique.gouv.fr/" class="button" title="Tester la version beta - Lien externe">Tester la version beta</a></p>
+
+**Plus d’infos sur l’accessibilité numérique et le design sur [https://design.numerique.gouv.fr/](https://design.numerique.gouv.fr/)**
+
