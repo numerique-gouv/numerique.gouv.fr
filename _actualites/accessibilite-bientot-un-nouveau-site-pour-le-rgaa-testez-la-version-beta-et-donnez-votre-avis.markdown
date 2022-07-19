@@ -2,7 +2,6 @@
 title: "[Accessibilité] Bientôt un nouveau site pour le RGAA : testez la version bêta
   et donnez votre avis !"
 date: 2022-07-19 15:40:00 +02:00
-published: false
 chapeau-text: 'La DINUM prépare un nouveau site, entièrement dédié au RGAA et à l’accessibilité
   numérique. Faites part de vos retours sur la version bêta ! '
 une-ou-diaporama:
