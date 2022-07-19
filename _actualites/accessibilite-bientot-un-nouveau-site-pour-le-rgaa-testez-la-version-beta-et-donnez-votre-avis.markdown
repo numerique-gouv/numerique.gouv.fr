@@ -17,6 +17,7 @@ Cette refonte a déjà fait l’objet d’une série de tests utilisateurs aupr�
 
 *La version bêta de ce futur site n’a pas de valeur légale. Seul le contenu présent sur [numerique.gouv.fr](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/) fait foi.* 
 
+
 ## Pourquoi un nouveau site ?
 
 Ce futur espace a pour but de faciliter :
@@ -33,7 +34,7 @@ Les contributions concernant les contenus règlementaires (obligations légales,
 ## Comment contribuer ?
 
 Deux façons de nous transmettre vos retours sur cette version bêta :
-* écrire à rgaa@design.numerique.gouv.fr
+* écrire à **rgaa@design.numerique.gouv.fr**
 * proposer des pull requests sur le dépôt [github.com/DISIC/accessibilite.numerique.gouv.fr](https://github.com/DISIC/accessibilite.numerique.gouv.fr)
 
 ## Et après ?
