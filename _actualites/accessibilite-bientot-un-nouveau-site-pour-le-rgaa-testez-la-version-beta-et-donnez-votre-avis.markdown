@@ -42,8 +42,10 @@ Deux façons de nous transmettre vos retours sur cette version bêta :
 ## Et après ?
 
 La fin de la version bêta est prévue à la rentrée. Plus d’informations prochainement pour le lancement officiel ! 
+<br>
 
 <p align="center"><a href="https://accessibilite.numerique.gouv.fr/" class="button" title="Tester la version bêta - Lien externe">Tester la version bêta</a></p>
+<br>
 
 **Plus d’infos sur l’accessibilité numérique et le design sur [https://design.numerique.gouv.fr/](https://design.numerique.gouv.fr/)**
 
@@ -53,4 +55,4 @@ La fin de la version bêta est prévue à la rentrée. Plus d’informations pro
 > La DINUM édite depuis 2009 [le référentiel général d’amélioration de l’accessibilité](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/) afin de faciliter la mise en œuvre de l’accessibilité numérique par tous les services publics, mais aussi certains services privés, qui en ont l’obligation légale. 
 À travers une méthodologie technique, fondée sur des tests et critères précis, il leur permet de rendre les contenus et services numériques compréhensibles et utilisables par tout citoyen, qu’il soit ou non en situation de handicap (visuel, auditif, moteur, trouble dys…).
 </li></ul>
-<p style="text-indent: 15px;"><i>(sur 47 participantes ayant répondu à l’enquête)</i></p></div>
+<p style="text-indent: 15px;"></p></div>
