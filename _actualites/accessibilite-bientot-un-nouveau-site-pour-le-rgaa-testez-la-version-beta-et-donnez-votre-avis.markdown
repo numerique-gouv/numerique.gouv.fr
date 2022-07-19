@@ -49,10 +49,11 @@ La fin de la version bêta est prévue à la rentrée. Plus d’informations pro
 
 **Plus d’infos sur l’accessibilité numérique et le design sur [https://design.numerique.gouv.fr/](https://design.numerique.gouv.fr/)**
 
-<div class="noir encadre"><ul style="margin-top: 20px;"><li>
-> ### Le RGAA, qu’est-ce que c’est ?</b> 
+<div class="noir encadre"><ul style="margin-top: 20px;">
+### Le RGAA, qu’est-ce que c’est ?</b> 
+<br>
 
-> La DINUM édite depuis 2009 [le référentiel général d’amélioration de l’accessibilité](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/) afin de faciliter la mise en œuvre de l’accessibilité numérique par tous les services publics, mais aussi certains services privés, qui en ont l’obligation légale. 
+La DINUM édite depuis 2009 [le référentiel général d’amélioration de l’accessibilité](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/) afin de faciliter la mise en œuvre de l’accessibilité numérique par tous les services publics, mais aussi certains services privés, qui en ont l’obligation légale. 
 À travers une méthodologie technique, fondée sur des tests et critères précis, il leur permet de rendre les contenus et services numériques compréhensibles et utilisables par tout citoyen, qu’il soit ou non en situation de handicap (visuel, auditif, moteur, trouble dys…).
-</li></ul>
+</ul>
 <p style="text-indent: 15px;"></p></div>
