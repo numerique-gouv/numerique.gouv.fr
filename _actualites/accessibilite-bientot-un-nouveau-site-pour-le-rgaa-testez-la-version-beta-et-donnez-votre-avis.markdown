@@ -5,6 +5,7 @@ date: 2022-07-19 15:40:00 +02:00
 tags:
 - RGAA
 - accessibilité numérique
+- DesignGouv
 chapeau-text: 'La DINUM prépare un nouveau site, entièrement dédié au RGAA et à l’accessibilité
   numérique. Faites part de vos retours sur la version bêta ! '
 une-ou-diaporama:
