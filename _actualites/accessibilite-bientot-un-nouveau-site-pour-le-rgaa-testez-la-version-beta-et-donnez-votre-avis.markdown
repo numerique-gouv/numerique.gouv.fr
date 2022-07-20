@@ -37,7 +37,7 @@ Les contributions concernant les contenus règlementaires (obligations légales,
 
 Deux façons de nous transmettre vos retours sur cette version bêta :
 * écrire à **rgaa@design.numerique.gouv.fr**
-* proposer des pull requests sur le dépôt [github.com/DISIC/accessibilite.numerique.gouv.fr](https://github.com/DISIC/accessibilite.numerique.gouv.fr)
+* proposer des pull requests sur le dépôt [github.com/DISIC/accessibilite.numerique.gouv.fr](https://github.com/DISIC/accessibilite.numerique.gouv.fr title="github.com/DISIC/accessibilite.numerique.gouv.fr - Lien externe")
 
 ## Et après ?
 
