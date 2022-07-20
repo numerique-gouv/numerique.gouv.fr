@@ -6,6 +6,7 @@ tags:
 - RGAA
 - accessibilité numérique
 - DesignGouv
+- design
 chapeau-text: 'La DINUM prépare un nouveau site, entièrement dédié au RGAA et à l’accessibilité
   numérique. Faites part de vos retours sur la version bêta ! '
 une-ou-diaporama:
