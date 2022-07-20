@@ -54,12 +54,13 @@ Dans son rapport 2016-2017, l’administrateur général des données dresse un 
   * Les datasciences ont été appliquées dans plusieurs domaines de l’action publique, dont la lutte contre le chômage, l’aide aux entreprises en difficulté, l’aide à la décision pour les forces de sécurité intérieure.
 
 > ## L’administrateur général des données : son rôle, ses missions
->
+> <br>
 > Fonction créée en septembre 2014 par décret, l’administrateur général des données (AGD) coordonne l’action des administrations en matière d’inventaire, de gouvernance, de production, de circulation et d’exploitation des données. Il organise, dans le respect de la protection des données personnelles et des secrets protégés par la loi, la meilleure exploitation de ces données et leur plus large circulation, notamment aux fins d’évaluation des politiques publiques, d’amélioration et de transparence de l’action publique et de stimulation de la recherche et de l’innovation. Il encourage et soutient de ce fait le développement et l’usage des pratiques des datasciences au sein de l’administration.
 > <br>
 > L’AGD remet chaque année au Premier ministre un rapport public sur l’inventaire, la gouvernance, la production, la circulation, l’exploitation des données par les administrations.
 > <br>
-> Placée sous l’autorité du Premier ministre, la fonction d’administrateur général des données est occupée aujourd’hui par Henri Verdier, directeur interministériel du numérique et du système d’information et de communication de l’Etat.
+> Placée sous l’autorité du Premier ministre, la fonction d’administrateur général des données est occupée aujourd’hui par Henri Verdier, directeur interministériel du numérique et du système d’information et de communication de l’État.
+> <br>
 > {: .encadre role="presentation" }
 
 ## Construire l’infrastructure de la donnée
@@ -82,12 +83,12 @@ Le rapport présente en conclusion la feuille de route de l’administrateur gé
 
 * **renforcer le réseau des administrateurs ministériels des données,** pour décliner la politique de la donnée (production, circulation, exploitation) au sein de chaque ministère,
 
-* **développer un pôle de compétences en intelligence artificielle,** pour faire de l’Etat l’un des premiers utilisateurs de ces outils, définir les conditions d’une utilisation éthique et responsable des algorithmes publics,
+* **développer un pôle de compétences en intelligence artificielle,** pour faire de l’État l’un des premiers utilisateurs de ces outils, définir les conditions d’une utilisation éthique et responsable des algorithmes publics,
 
 * **soutenir l’écosystème des utilisateurs de données publiques,** documenter les impacts économiques et sociaux d’une meilleure circulation de la donnée.
 
 <br>
-![couv-rapport-agd-20162017.png](/uploads/couv-rapport-agd-20162017.png)[{: width="80" style="border: solid 1px;" .image-center}](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
+[couv-rapport-agd-20162017.png](/uploads/couv-rapport-agd-20162017.png)[{: width="80" style="border: solid 1px;" .image-center}](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
 
 > [Consulter le rapport « La donnée comme infrastructure essentielle »](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
 > {: .lien-important role="presentation" }
