@@ -25,7 +25,7 @@ une-ou-diaporama:
 auteur: Depuis agd.data.gouv.fr
 ---
 
-<p class="text-center"><br> <br> <a href="/uploads/2018/04/RapportAGD_2016-2017_web.pdf" title="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)"><img src="/uploads/couv-rapport-agd-20162017-9e0add.png" alt="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)" style="width: 25%; border:1px solid gray" ></a></p>
+<p class="text-center"><br> <br> <a href="www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf" title="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)"><img src="/uploads/couv-rapport-agd-20162017-9e0add.png" alt="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)" style="width: 25%; border:1px solid gray" ></a></p>
 
 <br>
 <div class="lien-important"><p><a href="/uploads/2018/04/RapportAGD_2016-2017_web.pdf"> Consulter le rapport « La donnée comme infrastructure essentielle »</a></p></div>
