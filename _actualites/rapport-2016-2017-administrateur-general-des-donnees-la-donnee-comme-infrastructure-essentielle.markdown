@@ -25,7 +25,7 @@ une-ou-diaporama:
 auteur: Depuis agd.data.gouv.fr
 ---
 
-<p class="text-center"><br> <br> <a href="/uploads/couv-rapport-agd-20162017.png" title="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)"><img src="[couv-rapport-agd-20162017-9e0add.png](/uploads/couv-rapport-agd-20162017-9e0add.png)" alt="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)" style="width: 25%; border:1px solid gray" ></a></p>
+<p class="text-center"><br> <br> <a href="/uploads/couv-rapport-agd-20162017.png" title="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)"><img src="/uploads/couv-rapport-agd-20162017-9e0add.png" alt="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)" style="width: 25%; border:1px solid gray" ></a></p>
 
 <div class="lien-important"><p><a href="/uploads/2018/04/RapportAGD_2016-2017_web.pdf"> Consulter le rapport « La donnée comme infrastructure essentielle »</a></p></div>
 
@@ -88,7 +88,7 @@ Le rapport présente en conclusion la feuille de route de l’administrateur gé
 * **soutenir l’écosystème des utilisateurs de données publiques,** documenter les impacts économiques et sociaux d’une meilleure circulation de la donnée.
 
 <br>
-<p class="text-center"><br> <br> <a href="/uploads/couv-rapport-agd-20162017.png" title="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)"><img src="[couv-rapport-agd-20162017-9e0add.png](/uploads/couv-rapport-agd-20162017-9e0add.png)" alt="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)" style="width: 25%; border:1px solid gray" ></a></p>
+<p class="text-center"><br> <br> <a href="/uploads/couv-rapport-agd-20162017.png" title="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)"><img src="/uploads/couv-rapport-agd-20162017-9e0add.png" alt="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)" style="width: 25%; border:1px solid gray" ></a></p>
 
 <br>
 <p align="center"><a href="/uploads/2018/04/RapportAGD_2016-2017_web.pdf" class="button" title="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)">Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)</a></p>
