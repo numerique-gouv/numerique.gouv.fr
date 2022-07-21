@@ -22,6 +22,10 @@ une-ou-diaporama:
 - image: "/uploads/remise-rapportAGD.JPG"
   legende: Mounir Mahjoubi (à gauche) reçoit le rapport de l'administrateur général
     des données, Henri Verdier (à droite)
+files:
+  file: "/uploads/RapportAGD_2016-2017_web.pdf"
+  nom: Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3
+    Mo)
 auteur: Depuis agd.data.gouv.fr
 ---
 
