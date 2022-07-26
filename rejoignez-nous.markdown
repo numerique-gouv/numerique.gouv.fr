@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 15 juillet 2022
+date_de_modification: 26 juillet 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -44,23 +44,31 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Data Engineer H/F](https://place-emploi-public.gouv.fr/offre-emploi/data-engineer-hf---cdd-3-ans-reference-2022-885682/ "Data Engineer H/F - CDD 3 ans - Lien externe")**
+* **[Chargé de mission juriste H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-juriste-hf-reference-2022-938121/ "Chargé de mission juriste H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé de mission juriste H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-juriste-hf-reference-2022-938121/ "Chargé de mission juriste H/F - Lien externe")**
+* **[Chef-fe de projet : Hub d'échange de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--hub-d-echange-de-l-etat-cdd-3-ans-renouvelable-hf-reference-2022-960663/ "Chef-fe de projet : Hub d'échange de l'Etat H/F - Lien externe")**
 <br>Cadre/Catégorie A
+<br>
+
+* **[Chargé/Chargée de mission amélioration des démarches en ligne H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargechargee-de-mission-amelioration-des-demarches-en-ligne-cdd-3-ans-renouvelable-hf-reference-2022-953422/ "Chargé/Chargée de mission amélioration des démarches en ligne H/F")**
+<br>Cadre/Catégorie A Saint-Jacques-de-la-Lande (35)
 <br>
 
 * **[Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat--cdd-3-ans-renouvelable-hf-reference-2022-953441/ "Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) H/F - Lien externe")**
 <br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35)
 <br>
 
-* **[Chargé/Chargée de mission amélioration des démarches en ligne H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargechargee-de-mission-amelioration-des-demarches-en-ligne-cdd-3-ans-renouvelable-hf-reference-2022-953422/ "Chargé/Chargée de mission amélioration des démarches en ligne H/F")**
+* **[Architecte-Urbaniste des systèmes d'information CDD 3 ans renouvelable H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-905624/ "Architecte-Urbaniste des systèmes d'information H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Architecte-Urbaniste des systèmes d'information CDD 3 ans renouvelable H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-905624/ "Architecte-Urbaniste des systèmes d'information CDD 3 ans renouvelable H/F - Lien externe")**
+* **[Chargé-e d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat---cdd-3-ans-renouvela-hf-reference-2022-960797/ "Chargé-e d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé/e de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
@@ -68,7 +76,11 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé/e de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
+* **[Data Engineer H/F](https://place-emploi-public.gouv.fr/offre-emploi/data-engineer-hf---cdd-3-ans-reference-2022-885682/ "Data Engineer H/F - CDD 3 ans - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Tech lead H/F](https://place-emploi-public.gouv.fr/offre-emploi/tech-lead-hf-reference-2022-931570/ "Tech lead H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 

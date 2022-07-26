@@ -23,10 +23,28 @@ une-ou-diaporama:
   legende: Mounir Mahjoubi (à gauche) reçoit le rapport de l'administrateur général
     des données, Henri Verdier (à droite)
 auteur: Depuis agd.data.gouv.fr
+files:
+  file: "/uploads/RapportAGD_2016-2017_web.pdf"
+  nom: Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3
+    Mo)
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
 
-[couv-rapport-agd-20162017.png][(/uploads/couv-rapport-agd-20162017.png){: width="80" style="border: solid 1px;" .image-center}](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
+<p class="text-center"><br> <br> <a href="www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf" title="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)"><img src="/uploads/couv-rapport-agd-20162017-9e0add.png" alt="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)" style="width: 25%; border:1px solid gray" ></a></p>
 
+<br>
 <div class="lien-important"><p><a href="/uploads/2018/04/RapportAGD_2016-2017_web.pdf"> Consulter le rapport « La donnée comme infrastructure essentielle »</a></p></div>
 
 ## Un état des lieux de la politique de la donnée
@@ -53,16 +71,12 @@ Dans son rapport 2016-2017, l’administrateur général des données dresse un 
 
   * Les datasciences ont été appliquées dans plusieurs domaines de l’action publique, dont la lutte contre le chômage, l’aide aux entreprises en difficulté, l’aide à la décision pour les forces de sécurité intérieure.
 
-> ## L’administrateur général des données : son rôle, ses missions
-> <br>
-> Fonction créée en septembre 2014 par décret, l’administrateur général des données (AGD) coordonne l’action des administrations en matière d’inventaire, de gouvernance, de production, de circulation et d’exploitation des données. Il organise, dans le respect de la protection des données personnelles et des secrets protégés par la loi, la meilleure exploitation de ces données et leur plus large circulation, notamment aux fins d’évaluation des politiques publiques, d’amélioration et de transparence de l’action publique et de stimulation de la recherche et de l’innovation. Il encourage et soutient de ce fait le développement et l’usage des pratiques des datasciences au sein de l’administration.
-> <br>
-> L’AGD remet chaque année au Premier ministre un rapport public sur l’inventaire, la gouvernance, la production, la circulation, l’exploitation des données par les administrations.
-> <br>
-> Placée sous l’autorité du Premier ministre, la fonction d’administrateur général des données est occupée aujourd’hui par Henri Verdier, directeur interministériel du numérique et du système d’information et de communication de l’État.
-> <br>
-> {: .encadre role="presentation" }
+## L’administrateur général des données : son rôle, ses missions
 
+<div class="encadre noir" style="margin-bottom:40px"><p><br>Fonction créée en septembre 2014 par décret, l’administrateur général des données (AGD) coordonne l’action des administrations en matière d’inventaire, de gouvernance, de production, de circulation et d’exploitation des données. Il organise, dans le respect de la protection des données personnelles et des secrets protégés par la loi, la meilleure exploitation de ces données et leur plus large circulation, notamment aux fins d’évaluation des politiques publiques, d’amélioration et de transparence de l’action publique et de stimulation de la recherche et de l’innovation. Il encourage et soutient de ce fait le développement et l’usage des pratiques des datasciences au sein de l’administration.<br>L’AGD remet chaque année au Premier ministre un rapport public sur l’inventaire, la gouvernance, la production, la circulation, l’exploitation des données par les administrations. Placée sous l’autorité du Premier ministre, la fonction d’administrateur général des données est occupée aujourd’hui par Henri Verdier, directeur interministériel du numérique et du système d’information et de communication de l’État.</p>
+<p style="text-indent: 15px;"></p></div>
+
+<br>
 ## Construire l’infrastructure de la donnée
 
 Dans sa deuxième partie, le rapport de l’AGD développe l’idée et l’importance de construire une infrastructure de la donnée. Le développement d’un pays est étroitement lié à la présence d’une infrastructure performante et de qualité, qu’il s’agisse de routes, de lignes ferroviaires, de réseaux d’énergie ou de télécommunications. L’état a d’ailleurs longtemps consacré une partie importante de ses investissements à construire et maintenir ces infrastructures. Il faut aujourd’hui considérer les données comme l’une de ces infrastructures essentielles et critiques. Essentielles car, dans une économie de l’information, l’accès à la donnée de référence fiable et à jour est la condition du développement des services numériques. Critiques car il faudra s’assurer que la fourniture de ces données ne puisse être interrompue, qu’il s’agisse de défaillances involontaires ou d’actes malveillants.
@@ -88,7 +102,7 @@ Le rapport présente en conclusion la feuille de route de l’administrateur gé
 * **soutenir l’écosystème des utilisateurs de données publiques,** documenter les impacts économiques et sociaux d’une meilleure circulation de la donnée.
 
 <br>
-[couv-rapport-agd-20162017.png](/uploads/couv-rapport-agd-20162017.png)[{: width="80" style="border: solid 1px;" .image-center}](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
+<p class="text-center"><br> <br> <a href="/uploads/2018/04/RapportAGD_2016-2017_web.pdf" title="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)"><img src="/uploads/couv-rapport-agd-20162017-9e0add.png" alt="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)" style="width: 25%; border:1px solid gray" ></a></p>
 
-> [Consulter le rapport « La donnée comme infrastructure essentielle »](https://www.etalab.gouv.fr/wp-content/uploads/2018/04/RapportAGD_2016-2017_web.pdf){: target="_blank"}
-> {: .lien-important role="presentation" }
+<br>
+<p align="center"><a href="/uploads/2018/04/RapportAGD_2016-2017_web.pdf" class="button" title="Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)">Consulter le rapport « La donnée comme infrastructure essentielle » (pdf, 1,3 Mo)</a></p>

@@ -1,7 +1,7 @@
 ---
 title: "[Accessibilité] Bientôt un nouveau site pour le RGAA : testez la version bêta
   et donnez votre avis !"
-date: 2022-07-19 15:40:00 +02:00
+date: 2022-07-21 03:40:00 +02:00
 categories:
 - Article
 tags:
