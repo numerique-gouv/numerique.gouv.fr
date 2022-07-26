@@ -40,14 +40,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Tech lead H/F](https://place-emploi-public.gouv.fr/offre-emploi/tech-lead-hf-reference-2022-931570/ "Tech lead H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé de mission juriste H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-juriste-hf-reference-2022-938121/ "Chargé de mission juriste H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Chef-fe de projet : Hub d'échange de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--hub-d-echange-de-l-etat-cdd-3-ans-renouvelable-hf-reference-2022-960663/ "Chef-fe de projet : Hub d'échange de l'Etat H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -76,11 +68,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Data Engineer H/F](https://place-emploi-public.gouv.fr/offre-emploi/data-engineer-hf---cdd-3-ans-reference-2022-885682/ "Data Engineer H/F - CDD 3 ans - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Tech lead H/F](https://place-emploi-public.gouv.fr/offre-emploi/tech-lead-hf-reference-2022-931570/ "Tech lead H/F - Lien externe")**
+* **[Chargé de mission juriste H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-juriste-hf-reference-2022-938121/ "Chargé de mission juriste H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
