@@ -40,10 +40,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Tech lead H/F](https://place-emploi-public.gouv.fr/offre-emploi/tech-lead-hf-reference-2022-931570/ "Tech lead H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Chargé de mission juriste H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-juriste-hf-reference-2022-938121/ "Chargé de mission juriste H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
