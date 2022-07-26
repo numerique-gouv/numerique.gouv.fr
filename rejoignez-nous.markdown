@@ -72,14 +72,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Data Engineer H/F](https://place-emploi-public.gouv.fr/offre-emploi/data-engineer-hf---cdd-3-ans-reference-2022-885682/ "Data Engineer H/F - CDD 3 ans - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Tech lead H/F](https://place-emploi-public.gouv.fr/offre-emploi/tech-lead-hf-reference-2022-931570/ "Tech lead H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 <!--
 > ### Talents du numérique : l’État recrute !
 > <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
