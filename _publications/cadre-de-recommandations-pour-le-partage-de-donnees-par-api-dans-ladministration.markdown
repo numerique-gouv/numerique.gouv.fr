@@ -3,39 +3,41 @@ title: Cadre de recommandations pour le partage de données par API dans l’adm
 date: 2022-07-27 16:35:00 +02:00
 permalink: "/publications/reco-api/"
 position: 16
-subtitle: Une démarche en ligne exemplaire...
 une-ou-diaporama:
 - image: "/assets/img/main/image_DINSIC.jpg"
-  alternative-textuelle: 
+subtitle: Une démarche en ligne exemplaire...
 principes:
-- principe: 
+- principe: Titre principe
   order: 1
-  title: "... est facile à trouver, simple et fluide"
-  content-text: |-
-    L’usager **trouve facilement** la démarche en ligne ; elle est bien **référencée** sur les moteurs de recherche.
+  title: Découvrabilité
+  content-text: |
+    ## Catalogue de données et services disponibles
 
-    Elle est **connue** dans l’administration.
+    En complément de la description (métadonnées), les données et services publiquement accessibles sont visibles sur un catalogue exposé sur Internet, référencé sur les moteurs de recherche usuels et intelligibles (la description des API au sein du catalogue ou de l’API manager propose un contenu destiné aux opérationnels, fonctionnels comme techniques).
 
-    La démarche en ligne est simple : l’usager **s’y repère et la réalise facilement**. Il est **guidé** à chaque étape.
+    La description d’une donnée doit référencer les API qui l’exposent. L’exemple présenté ci-dessous met ainsi en évidence les ressources accessibles sur la page présentant le jeu de données « base SIREN des entreprises et de leurs établissements ».
 
-    Une fois la démarche effectuée, il est **informé de l’avancement** de son dossier, des délais de traitement, etc.
-
-    Lorsque l’usager utilise plusieurs canaux (internet, téléphone, guichet, application mobile…) pour réaliser une démarche, son parcours est **fluide et sans obstacle**.
+    **Exemples : **
+    * api.gouv.fr vise à référencer toutes les API publiques de l’État
+    * API Impôt Particulier vise à référencer la donnée fiscale des particuliers
 - principe: 
   order: 2
-  title: "... utilise un langage clair et précis"
-  content-text: |-
-    Une démarche en ligne exemplaire utilise des mots **compréhensibles par tous**.
-
-    Elle **évite le jargon** administratif, les termes juridiques, les anglicismes.
-
-    Elle n’utilise **pas de sigles** ou les développe.
-
-    Elle respecte les recommandations d’usage de la langue française.
-
-    Elle guide l’usager grâce à des **explications claires**, des **termes précis** et sans ambiguïtés.
-
-    Sans surprise, elle **annonce dès le début le nombre d’écrans à remplir, le temps estimé, les documents** ou données nécessaires et les délais d’instruction.
+  title: Accès à la donnée
+  content-text: "**À chaque API exposée correspond :**\n* Une documentation fonctionnelle
+    présentant la sémantique des données, leur qualité ainsi que leur source et leurs
+    propriétés usuelles. Elle explicite également le processus de demande d’accès
+    et l’éligibilité des réutilisateurs. Si un catalogue existe, un lien vers la description
+    de la donnée est proposé ;\n* Une documentation technique présentant les modalités
+    d’interrogation et de récupération de la donnée ; \n* Les conditions générales
+    d’utilisation précisant les conditions contractuelles d’accès à l’API.\n\nLa spécification
+    d’une API respecte les standards répandus au sein de la communauté (norme OpenAPI
+    en 2022). Cette description ne doit pas doublonner avec celle d’une donnée existante,
+    ni ne s’affranchit de la nécessité de décrire la donnée dans un catalogue de donnée
+    (principe de découvrabilité). Une API fournissant plusieurs jeux de données doit
+    être décrite une seule fois et intégrer les liens vers chaque description des
+    données fournies.\n\nLa description d’une API précise également les périodes de
+    validité de l’interface (cf. recommandations 7 & 8) et son niveau de service (cf.
+    recommandations 10 & 11).\n"
 - principe: 
   order: 3
   title: "... est officielle et ça se voit"
@@ -131,7 +133,8 @@ files:
   nom: Affiche des 10 principes (HD)
 - file: "/uploads/10_principes_description-textuelle.pdf"
   nom: Description textuelle de l'affiche
+Field name: 
 layout: dix-principes
 ---
 
-[> En savoir plus sur les 10 principes et leur élaboration](https://numerique.gouv.fr/actualites/la-dinsic-publie-les-10-principes-dune-demarche-en-ligne-exemplaire/ "En savoir plus sur les 10 principes et leur élaboration")
+[> Lire notre article pour en savoir plus sur ce cadre de recommandations et son élaboration](https://numerique.gouv.fr/actualites/****")
