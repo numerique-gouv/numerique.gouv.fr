@@ -89,44 +89,100 @@ principes:
     plusieurs équipes en parallèle au sein d’une même architecture. </p>\n"
 - principe: 
   order: 7
-  title: "... fait œuvre de transparence"
-  content-text: |-
-    Ses **statistiques d’utilisation** et les **résultats de ses enquêtes** usagers sont rendus publics.
-
-    Lorsqu’il existe des intermédiaires entre l’administration et les usagers, l’administration rend publiques les conditions pour devenir intermédiaire agréé, la liste des intermédiaires, les bonnes pratiques à respecter.
-
-    La démarche est **transparente sur les modalités de gestion des données personnelles** et l’usager peut savoir qui y a eu accès.
-
-    Si le traitement du dossier fait appel à un algorithme, l’usager en est informé et les règles sont rendues publiques.
+  title: 
+  content-text: "## Stabilité du modèle des interfaces\n### Recommandation 7\n\nLes
+    données et services sont exposés selon une interface (modalités d’appel et structuration
+    des données échangées) définie pour une période donnée. \nLes développements Agile
+    ou nécessitant une évolution prévisible seront rendus identifiables et préciseront
+    une période de validité courte de 1 à 2 mois.\n"
 - principe: 
   order: 8
-  title: "... a un pilote à bord, qui connaît les besoins des usagers"
-  content-text: |-
-    Chaque démarche en ligne est **pilotée par une personne identifiée**, qui fait le lien entre les agents et les organisations concernés.
+  title: 
+  content-text: |
+    ### Recommandation 8
 
-    Responsable de la qualité de la démarche, elle **arbitre, priorise et propose des améliorations**.
+    Ces périodes de validité de l’interface sont explicitement présentées aux réutilisateurs dans la documentation. Les modifications prévisibles s’accompagneront de l’actualisation préalable des informations descriptives intégrant des liens vers des communications et guides permettant aux réutilisateurs d’anticiper les évolutions. Les réutilisateurs pourront basculer durant une période définie et communiquée sur la version modifiée de l’interface. Durant ce laps de temps, deux interfaces cohabiteront, la version précédente dépréciée et la nouvelle version.
 
-    Cette personne **centralise et fait circuler les informations sur la démarche** : qualité, statistiques d’utilisation, réclamations, questions posées, projets d’évolution...
-
-    Pour les démarches très utilisées, elle **coordonne** les actions à conduire.
-
-    Les partenaires de la démarche **connaissent son nom** et peuvent lui signaler un problème.
+    Le détail de ces informations sera présenté en détail dans les conditions générales d’utilisation de l’API.
 - principe: 
   order: 9
-  title: "... permet un traitement et un suivi 100% numériques"
-  content-text: |-
-    Les données ou documents produits par l’usager sont adressés au service en charge du dossier **par voie numérique**, sauf exception.
-
-    **Aucune ressaisie ou impression** de document n’est nécessaire.
-
-    Le service chargé du dossier envoie **un accusé de réception numérique** à l’usager, qui est informé par voie électronique du suivi de sa démarche tout au long du traitement de son dossier.
+  title: 
+  content-text: "### Recommandation 9\n\nToute modification non rétro-compatible impose
+    un versionning en tant que version majeure et une cohabitation de l’ancien et
+    du nouveau modèle pendant une période de recouvrement. Celle-ci doit être communiquée
+    à l’avance en diffusant le nouveau contrat d’interface de l’API. À défaut d’information
+    préalable ou d’accord des réutilisateurs, la période de cohabitation sera comprise
+    entre 6 mois et 1 an.\n\nSi une évolution de la donnée interdit le maintien de
+    l’ensemble des fonctionnalités de l’API (exemple : modification d’un schéma avec
+    abandon de certaines informations), il sera indiqué quelles requêtes ou parties
+    du protocole seront maintenues. \n"
 - principe: 
   order: 10
-  title: "... s’améliore en continu"
+  title: Qualité de service
   content-text: |
-    La démarche en ligne **évolue régulièrement en prenant en compte l’avis des usagers** (enquête annuelle, tests utilisateurs, réclamations…), **des agents et des partenaires**, ainsi que les statistiques d’utilisation.
+    ## Indications sur le temps de réponse et la tenue en charge
+    ### Recommandation 10
 
-    **Les réclamations sont analysées et traitées** comme des signaux prioritaires.
+    La charge admise par une API est consultable en toute transparence par les réutilisateurs :
+    * Dans le cas d’une API authentifiée, la charge est exprimée sous forme de métriques propres à chaque réutilisateur, comme le nombre d’appels sur une période donnée par exemple ;
+    * Dans le cas d’une API non authentifiée, la charge tenable est exprimée dans son ensemble, tous réutilisateurs confondus ;
+    * Dans le cas d’une infrastructure permettant, via une API, des requêtes complexes, ou servant de nombreuses données, la charge tenable estimée indiquera les critères utilisés et le caractère estimatif de cette évaluation ;
+    * Dans le cas d’une API sujette à des fortes évolutions en fonction de la saisonnalité, le temps de réponse maximal sera précisé ainsi que les risques de rupture de service.
+- principe: 
+  order: 11
+  title: 
+  content-text: "### Recommandation 11\n\nLes temps de réponse moyens et maximaux
+    sont présentés dans la documentation de l’API. Les temps de réponse mesurés ou
+    estimés sont fournis à titre indicatif et non contractuel. Tout autre démarche
+    relève d’un d’accord entre le fournisseur d’API et les réutilisateurs en fonction
+    de leurs cas d’usages. \n"
+- principe: 
+  order: 
+  title: 
+  content-text: |
+    Transparence sur la disponibilité de l’API
+    Recommandation 12
+
+    L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel sous forme d’une URL, indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requetable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
+
+    **Exemple :**
+    Le suivi de la disponibilité des API du bouquet API Entreprise est disponible sur  [status.entreprise.api.gouv.fr](https://status.entreprise.api.gouv.fr/ "status.entreprise.api.gouv.fr - Lien externe")
+- principe: 
+  order: 12
+  title: 
+  content-text: "## Suivi des consommations des données et services\n### Recommandation
+    13\nLes consommations des API sont enregistrées pour être ensuite restituées aux
+    bénéficiaires (réutilisateur, producteur, API managers ou exploitants).\n\n\U0001F44D
+    **Bonne pratique : **les bénéficiaires ont accès à travers un portail à une restitution
+    en temps réel ou ponctuelle de ces statistiques de consommation des données ainsi
+    que celles des autres bénéficiaires.\n"
+- principe: 
+  order: 14
+  title: Curation de la donnée
+  content-text: |
+    ## Mise en place d’une boucle de retour sur la qualité des données
+    ### Recommandation 14
+    Les réutilisateurs disposent d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des données vers leur gestionnaire ou via la description des données au sein de leur catalogue d’origine. Les réutilisateurs disposent également d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des API exposées vers leur fournisseur ou via la description de l’API.
+
+    **Exemple : **
+    Le dispositif Datapass pouvant être utilisé par les API en accès restreint permet de faire un retour sur la qualité des données disponibles via celles-ci.
+- principe: 
+  order: 15
+  title: Modèle économique
+  content-text: |
+    ## Gratuité de la donnée et de l’exposition
+    ### Recommandation 15
+
+    L’accès à la donnée et aux services doit être égalitaire. Les fournisseurs de données cherchent à adapter les modalités d’accès aux besoins des réutilisateurs.
+- principe: 
+  order: 16
+  title: 
+  content-text: |
+    ### Recommandation 16
+    Les données ainsi que les API sont mises à disposition gratuitement, pour les réutilisateurs uniquement, sauf exceptions devant faire l’objet d’une justification par l’administration productrice.
+
+    **Exemple : **
+    Dans le cas où des usages nécessiteraient une qualité de service au-dessus de ce que la multitude d’utilisateurs a couramment besoin, comme par exemple une bande passante élevée pour de la donnée temps-réel volumineuse desservie sur quelques organismes, il sera possible d’organiser un système freemium avec une égalité d’accès à des APIs par défaut et des APIs faisant l’objet de redevances pour les usages les plus exigeants.
 files:
 - file: "/uploads/10_principes_demarches-en-ligne.pdf"
   nom: Version imprimable des 10 principes
