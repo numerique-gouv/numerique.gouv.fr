@@ -5,22 +5,20 @@ permalink: "/publications/reco-api/"
 position: 16
 une-ou-diaporama:
 - image: "/assets/img/main/image_DINSIC.jpg"
-subtitle: Une démarche en ligne exemplaire...
+subtitle: Accès à la donnée
 principes:
-- principe: Titre principe
-  order: 1
-  title: Découvrabilité
-  content-text: |
-    ## Catalogue de données et services disponibles
-    ### Recommandation 1
-
-    En complément de la description (métadonnées), les données et services publiquement accessibles sont visibles sur un catalogue exposé sur Internet, référencé sur les moteurs de recherche usuels et intelligibles (la description des API au sein du catalogue ou de l’API manager propose un contenu destiné aux opérationnels, fonctionnels comme techniques).
-
-    La description d’une donnée doit référencer les API qui l’exposent. L’exemple présenté ci-dessous met ainsi en évidence les ressources accessibles sur la page présentant le jeu de données « base SIREN des entreprises et de leurs établissements ».
-
-    **Exemples :**
-    * api.gouv.fr vise à référencer toutes les API publiques de l’État
-    * API Impôt Particulier vise à référencer la donnée fiscale des particuliers
+- principe: 
+  order: 
+  title: Gestion des habilitations d’accès aux API à accès restreint
+  content-text: "## Recommandation 3\n\nL’accès aux API à accès restreint se fait
+    par demande du réutilisateur (administrations, éditeurs, entreprises…).\n\nLes
+    API peuvent s’appuyer sur un mécanisme d’authentification de l’utilisateur final
+    assurant une gestion des droits au sein de la plateforme qui les fournit. Les
+    dispositifs d’authentification des citoyens, des agents ou des personnes morales
+    conçus par les pouvoirs publics pourront être utilisés, en particulier lorsque
+    le consentement de l’utilisateur est nécessaire pour faire circuler la donnée
+    : \n* Pour les personnes physiques : FranceConnect, AgentConnect et EduConnect\n*
+    Pour les personnes morales : ProConnect \n\n"
 - principe: 
   order: 2
   title: 
@@ -36,7 +34,7 @@ principes:
     doublonner avec celle d’une donnée existante, ni ne s’affranchit de la nécessité
     de décrire la donnée dans un catalogue de donnée (principe de découvrabilité).
     Une API fournissant plusieurs jeux de données doit être décrite une seule fois
-    et intégrer les liens vers chaque description des données fournies.\n\nLa description
+    et intégrer les liens vers chaque description des données fournies.\n\n\nLa description
     d’une API précise également les périodes de validité de l’interface (cf. recommandations
     7 & 8) et son niveau de service (cf. recommandations 10 & 11).\n"
 - principe: 
@@ -65,7 +63,7 @@ principes:
   content-text: "## Bac à sable d'expérimentation public\n### Recommandation 5\n\nÀ
     chaque API devrait correspondre une version « bac à sable », accessible en fonction
     du caractère des données ouvertes ou en accès restreint, exposant une version
-    fictive des données et présentant les mêmes modalités techniques d’exposition.\n\nPour
+    fictive des données et présentant les mêmes modalités techniques d’exposition.\n\n\nPour
     les API ouvertes, le bac à sable potentiel est accessible au grand public, sans
     demande préalable du réutilisateur. Pour les API à accès restreint, le bac à sable
     contenant des données fictives pourrait être accessible au réutilisateur après
@@ -76,15 +74,15 @@ principes:
   title: Exploitation des données
   content-text: "## Utilisation des standards technologiques du moment pour faciliter
     l’interopérabilité\n### Recommandation 6\n\nLes données et services sont exposés
-    selon des standards techniques communément partagés et adoptés.\n\nEn 2022, le
-    principe d’architecture et d’encodage le plus connu et pratiqué est le standard
+    selon des standards techniques communément partagés et adoptés.\n\n\nEn 2022,
+    le principe d’architecture et d’encodage le plus connu et pratiqué est le standard
     REST Json pour les API synchrones. Il est utilisé par exemple pour les spécifications
     du [standard OpenAPI](https://spec.openapis.org/oas/v3.1.0 \"standard OpenAPI
     - Lien externe\") ou [les standards  « API » de l'OGC](https://ogcapi.ogc.org
     \"les standards  « API » de l'OGC - Lien externe\"). Concernant les API asynchrones,
-    le principe AsyncAPI est le plus répandu.\n\n<p>\U0001F44D <b>Bonne pratique :</b>
-    L’approche <span lang=\"en\">« contract first »</span>, par opposition à l’approche
-    <span lang=\"en\">« code first »</span>, est recommandée dans le développement
+    le principe AsyncAPI est le plus répandu.\n\n\n<p>\U0001F44D <b>Bonne pratique
+    :</b> L’approche <span lang=\"en\">« contract first »</span>, par opposition à
+    l’approche <span lang=\"en\">« code first »</span>, est recommandée dans le développement
     de nouvelles interfaces car elle permet de les stabiliser et de faire travailler
     plusieurs équipes en parallèle au sein d’une même architecture. </p>\n"
 - principe: 
@@ -108,8 +106,8 @@ principes:
   order: 9
   title: 
   content-text: "### Recommandation 9\n\nToute modification non rétro-compatible impose
-    un versionning en tant que version majeure et une cohabitation de l’ancien et
-    du nouveau modèle pendant une période de recouvrement. Celle-ci doit être communiquée
+    un versioning en tant que version majeure et une cohabitation de l’ancien et du
+    nouveau modèle pendant une période de recouvrement. Celle-ci doit être communiquée
     à l’avance en diffusant le nouveau contrat d’interface de l’API. À défaut d’information
     préalable ou d’accord des réutilisateurs, la période de cohabitation sera comprise
     entre 6 mois et 1 an.\n\nSi une évolution de la donnée interdit le maintien de
@@ -140,10 +138,11 @@ principes:
   order: 
   title: 
   content-text: |
-    Transparence sur la disponibilité de l’API
-    Recommandation 12
+    ## Transparence sur la disponibilité de l’API
+    ### Recommandation 12
 
     L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel sous forme d’une URL, indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requetable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
+
 
     **Exemple :**
     Le suivi de la disponibilité des API du bouquet API Entreprise est disponible sur  [status.entreprise.api.gouv.fr](https://status.entreprise.api.gouv.fr/ "status.entreprise.api.gouv.fr - Lien externe")
@@ -152,7 +151,7 @@ principes:
   title: 
   content-text: "## Suivi des consommations des données et services\n### Recommandation
     13\nLes consommations des API sont enregistrées pour être ensuite restituées aux
-    bénéficiaires (réutilisateur, producteur, API managers ou exploitants).\n\n\U0001F44D
+    bénéficiaires (réutilisateur, producteur, API managers ou exploitants).\n\n\n\U0001F44D
     **Bonne pratique :** les bénéficiaires ont accès à travers un portail à une restitution
     en temps réel ou ponctuelle de ces statistiques de consommation des données ainsi
     que celles des autres bénéficiaires.\n"
@@ -164,6 +163,7 @@ principes:
     ### Recommandation 14
 
     Les réutilisateurs disposent d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des données vers leur gestionnaire ou via la description des données au sein de leur catalogue d’origine. Les réutilisateurs disposent également d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des API exposées vers leur fournisseur ou via la description de l’API.
+
 
     **Exemple :**
     Le dispositif Datapass pouvant être utilisé par les API en accès restreint permet de faire un retour sur la qualité des données disponibles via celles-ci.
@@ -182,6 +182,7 @@ principes:
     ### Recommandation 16
 
     Les données ainsi que les API sont mises à disposition gratuitement, pour les réutilisateurs uniquement, sauf exceptions devant faire l’objet d’une justification par l’administration productrice.
+
 
     **Exemple :**
     Dans le cas où des usages nécessiteraient une qualité de service au-dessus de ce que la multitude d’utilisateurs a couramment besoin, comme par exemple une bande passante élevée pour de la donnée temps-réel volumineuse desservie sur quelques organismes, il sera possible d’organiser un système freemium avec une égalité d’accès à des APIs par défaut et des APIs faisant l’objet de redevances pour les usages les plus exigeants.
