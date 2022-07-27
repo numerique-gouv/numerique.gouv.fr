@@ -5,31 +5,35 @@ permalink: "/publications/reco-api/"
 position: 16
 une-ou-diaporama:
 - image: "/assets/img/main/image_DINSIC.jpg"
-subtitle: Accès à la donnée
-principes:
+subtitle1: Découvrabilité
+principes1:
 - principe: 
   order: 
-  title: Gestion des habilitations d’accès aux API à accès restreint
-  content-text: "## Recommandation 3\n\nL’accès aux API à accès restreint se fait
-    par demande du réutilisateur (administrations, éditeurs, entreprises…).\n\nLes
-    API peuvent s’appuyer sur un mécanisme d’authentification de l’utilisateur final
-    assurant une gestion des droits au sein de la plateforme qui les fournit. Les
-    dispositifs d’authentification des citoyens, des agents ou des personnes morales
-    conçus par les pouvoirs publics pourront être utilisés, en particulier lorsque
-    le consentement de l’utilisateur est nécessaire pour faire circuler la donnée
-    : \n* Pour les personnes physiques : FranceConnect, AgentConnect et EduConnect\n*
-    Pour les personnes morales : ProConnect \n\n"
+  title: Catalogue de données et services disponibles
+  content-text: |
+    #### Recommandation 1
+
+
+    En complément de la description (métadonnées), les données et services publiquement accessibles sont visibles sur un catalogue exposé sur Internet, référencé sur les moteurs de recherche usuels et intelligibles (la description des API au sein du catalogue ou de l’API manager propose un contenu destiné aux opérationnels, fonctionnels comme techniques).
+
+
+    La description d’une donnée doit référencer les API qui l’exposent. L’exemple présenté ci-dessous met ainsi en évidence les ressources accessibles sur la page présentant le jeu de données « base SIREN des entreprises et de leurs établissements ».
+
+
+    **Exemples : **
+    * api.gouv.fr vise à référencer toutes les API publiques de l’État
+    * API Impôt Particulier vise à référencer la donnée fiscale des particuliers
 - principe: 
   order: 2
   title: 
-  content-text: "### Recommandation 2\n\n**À chaque API exposée correspond :**\n*
+  content-text: "#### Recommandation 2\n\n**À chaque API exposée correspond :**\n*
     Une documentation fonctionnelle présentant la sémantique des données, leur qualité
     ainsi que leur source et leurs propriétés usuelles. Elle explicite également le
     processus de demande d’accès et l’éligibilité des réutilisateurs. Si un catalogue
     existe, un lien vers la description de la donnée est proposé ;\n* Une documentation
     technique présentant les modalités d’interrogation et de récupération de la donnée
     ; \n* Les conditions générales d’utilisation précisant les conditions contractuelles
-    d’accès à l’API.\n\nLa spécification d’une API respecte les standards répandus
+    d’accès à l’API.\n\n\nLa spécification d’une API respecte les standards répandus
     au sein de la communauté (norme OpenAPI en 2022). Cette description ne doit pas
     doublonner avec celle d’une donnée existante, ni ne s’affranchit de la nécessité
     de décrire la donnée dans un catalogue de donnée (principe de découvrabilité).
@@ -186,6 +190,12 @@ principes:
 
     **Exemple :**
     Dans le cas où des usages nécessiteraient une qualité de service au-dessus de ce que la multitude d’utilisateurs a couramment besoin, comme par exemple une bande passante élevée pour de la donnée temps-réel volumineuse desservie sur quelques organismes, il sera possible d’organiser un système freemium avec une égalité d’accès à des APIs par défaut et des APIs faisant l’objet de redevances pour les usages les plus exigeants.
+subtitle2: Accès à la donnée
+principes2:
+- principe: 
+  order: 
+  title: 
+  content-text: 
 files:
 - file: "/uploads/10_principes_demarches-en-ligne.pdf"
   nom: Version imprimable des 10 principes
