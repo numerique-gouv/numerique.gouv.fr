@@ -57,7 +57,7 @@ Dans son rôle de coordonnateur des systèmes d’information de l’État, la D
 
 <div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme_DINUM.PDF" class="button"><b>Consulter le cadre de recommandations pour le partage de données par API  dans l’administration</b></a></div>
 
-[> Télécharger le cadre de recommandations (pdf - 580 Ko)](/uploads/note_organisation_DINUM_20200301-d030a7.pdf)
+[> Télécharger le cadre de recommandations (pdf - 580 Ko)](/uploads/DINUM_Cadre%20de%20recommandations_API_VF.pdf)
 
 [DINUM_Cadre de recommandations_API_VF.pdf](/uploads/DINUM_Cadre%20de%20recommandations_API_VF.pdf)
 
