@@ -41,11 +41,12 @@ principes1:
     et intégrer les liens vers chaque description des données fournies.\n\n\nLa description
     d’une API précise également les périodes de validité de l’interface (cf. recommandations
     7 & 8) et son niveau de service (cf. recommandations 10 & 11).\n"
+subtitle2: Accès à la donnée
+principes2:
 - principe: 
   order: 3
-  title: Accès à la donnée
-  content-text: "## Gestion des habilitations d’accès aux API à accès restreint\n###
-    Recommandation 3\n\nL’accès aux API à accès restreint se fait par demande du réutilisateur
+  title: Gestion des habilitations d’accès aux API à accès restreint
+  content-text: "####    Recommandation 3\n\nL’accès aux API à accès restreint se fait par demande du réutilisateur
     (administrations, éditeurs, entreprises…).\n\nLes API peuvent s’appuyer sur un
     mécanisme d’authentification de l’utilisateur final assurant une gestion des droits
     au sein de la plateforme qui les fournit. Les dispositifs d’authentification des
@@ -63,8 +64,8 @@ principes1:
     Si le droit d’accès n’est pas préétabli, le processus de demande se fait de la manière la plus simple possible pour le réutilisateur. Dans le cadre de demandes d’accès prévues par la loi et si le demandeur est éligible, une réponse sera transmise aux réutilisateurs dans un délai recommandé de 15 jours calendaires. Le code des relations entre le public et l’administration prévoit un délai légal maximum de 30 jours pour répondre à une demande ([article R311-13](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031370409 "article R311-13 - Lien externe")).
 - principe: 
   order: 5
-  title: 
-  content-text: "## Bac à sable d'expérimentation public\n### Recommandation 5\n\nÀ
+  title: Bac à sable d'expérimentation public
+  content-text: "#### Recommandation 5\n\nÀ
     chaque API devrait correspondre une version « bac à sable », accessible en fonction
     du caractère des données ouvertes ou en accès restreint, exposant une version
     fictive des données et présentant les mêmes modalités techniques d’exposition.\n\n\nPour
@@ -73,11 +74,13 @@ principes1:
     contenant des données fictives pourrait être accessible au réutilisateur après
     demande d’un jeton au fournisseur de données, bien que cette pratique ne soit
     pas recommandée.  \n"
+subtitle3: Exploitation des données
+principes3:
 - principe: 
   order: 6
-  title: Exploitation des données
-  content-text: "## Utilisation des standards technologiques du moment pour faciliter
-    l’interopérabilité\n### Recommandation 6\n\nLes données et services sont exposés
+  title: Utilisation des standards technologiques du moment pour faciliter
+    l’interopérabilité
+  content-text: "#### Recommandation 6\n\nLes données et services sont exposés
     selon des standards techniques communément partagés et adoptés.\n\n\nEn 2022,
     le principe d’architecture et d’encodage le plus connu et pratiqué est le standard
     REST Json pour les API synchrones. Il est utilisé par exemple pour les spécifications
@@ -91,8 +94,8 @@ principes1:
     plusieurs équipes en parallèle au sein d’une même architecture. </p>\n"
 - principe: 
   order: 7
-  title: 
-  content-text: "## Stabilité du modèle des interfaces\n### Recommandation 7\n\nLes
+  title: Stabilité du modèle des interfaces
+  content-text: "#### Recommandation 7\n\nLes
     données et services sont exposés selon une interface (modalités d’appel et structuration
     des données échangées) définie pour une période donnée. \nLes développements Agile
     ou nécessitant une évolution prévisible seront rendus identifiables et préciseront
@@ -118,11 +121,12 @@ principes1:
     l’ensemble des fonctionnalités de l’API (exemple : modification d’un schéma avec
     abandon de certaines informations), il sera indiqué quelles requêtes ou parties
     du protocole seront maintenues. \n"
+subtitle4: Qualité de service
+principes4:
 - principe: 
   order: 10
-  title: Qualité de service
+  title: Indications sur le temps de réponse et la tenue en charge
   content-text: |
-    ## Indications sur le temps de réponse et la tenue en charge
     ### Recommandation 10
 
     La charge admise par une API est consultable en toute transparence par les réutilisateurs :
@@ -140,9 +144,8 @@ principes1:
     de leurs cas d’usages. \n"
 - principe: 
   order: 
-  title: 
+  title: Transparence sur la disponibilité de l’API
   content-text: |
-    ## Transparence sur la disponibilité de l’API
     ### Recommandation 12
 
     L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel sous forme d’une URL, indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requetable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
@@ -151,7 +154,7 @@ principes1:
     **Exemple :**
     Le suivi de la disponibilité des API du bouquet API Entreprise est disponible sur  [status.entreprise.api.gouv.fr](https://status.entreprise.api.gouv.fr/ "status.entreprise.api.gouv.fr - Lien externe")
 - principe: 
-  order: 12
+  order: 13
   title: 
   content-text: "## Suivi des consommations des données et services\n### Recommandation
     13\nLes consommations des API sont enregistrées pour être ensuite restituées aux
@@ -159,11 +162,12 @@ principes1:
     **Bonne pratique :** les bénéficiaires ont accès à travers un portail à une restitution
     en temps réel ou ponctuelle de ces statistiques de consommation des données ainsi
     que celles des autres bénéficiaires.\n"
+subtitle5: Curation de la donnée
+principes5:
 - principe: 
   order: 14
-  title: Curation de la donnée
+  title: Mise en place d’une boucle de retour sur la qualité des données
   content-text: |
-    ## Mise en place d’une boucle de retour sur la qualité des données
     ### Recommandation 14
 
     Les réutilisateurs disposent d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des données vers leur gestionnaire ou via la description des données au sein de leur catalogue d’origine. Les réutilisateurs disposent également d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des API exposées vers leur fournisseur ou via la description de l’API.
@@ -171,11 +175,12 @@ principes1:
 
     **Exemple :**
     Le dispositif Datapass pouvant être utilisé par les API en accès restreint permet de faire un retour sur la qualité des données disponibles via celles-ci.
+subtitle6: Modèle économique
+principes6:
 - principe: 
   order: 15
-  title: Modèle économique
+  title: Gratuité de la donnée et de l’exposition
   content-text: |
-    ## Gratuité de la donnée et de l’exposition
     ### Recommandation 15
 
     L’accès à la donnée et aux services doit être égalitaire. Les fournisseurs de données cherchent à adapter les modalités d’accès aux besoins des réutilisateurs.
