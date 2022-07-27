@@ -1,0 +1,187 @@
+---
+layout: default
+---
+
+{{ page.une-ou-diaporama.image }}
+<div id="dinsic-page" class="post gray-background ">
+  <div class="object-fit__image-container">
+    <img class="object-fit__featured-image image-de-tete" alt="{{ page.une-ou-diaporama[0].alternative-textuelle }}" src="{{ base }}{{ page.une-ou-diaporama[0].image }}">
+  </div>
+  <a id="content" tabindex="-1"></a>
+  <article>
+    <section class="cell white-container padding-large-top-5 padding-large-horizontal-5 padding-medium-1" >
+      {% include components/titre-page-fille.html %}
+      {% if page.content != blank %}
+    <div class="white-container cell grid-x">
+      <section id="list{{ principe1.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        {{ page.content }}
+      </section>
+    </div>
+    {% endif %}
+</section>
+    <div class="cell grid-x">
+     <div class="h2 text-center">
+        {{ page.subtitle1 }}
+      </div>
+      <div id="list" class="cell white-container">
+        {% for principe1 in page.principes1 %}
+        <section id="list{{ principe1.order }}" class="principe1 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h3 class="font-bold">{{ principe.title1 }}</h3>
+          {{ principe1.content-text | markdownify }}
+
+          {% if forloop.last == false %}
+          <div class="flex-container margin-top-2">
+            <i class="fas fa-angle-down icon-arrow-down"></i>
+          </div>
+          {% endif %}
+        </section>
+        {% endfor %}
+      </div>
+    </div>
+    {% if page.content-bottom != blank %}
+    <div class="white-container cell grid-x">
+      <section id="list{{ principe2.order }}" class="principe2 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        {{ page.content-bottom }}
+      </section>
+    </div>
+        <div class="cell grid-x">
+     <div class="h2 text-center">
+        {{ page.subtitle2 }}
+      </div>
+      <div id="list" class="cell white-container">
+        {% for principe2 in page.principes2 %}
+        <section id="list{{ principe2.order }}" class="principe2 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h3 class="font-bold">{{ principe2.title2 }}</h3>
+          {{ principe2.content-text | markdownify }}
+
+          {% if forloop.last == false %}
+          <div class="flex-container margin-top-2">
+            <i class="fas fa-angle-down icon-arrow-down"></i>
+          </div>
+          {% endif %}
+        </section>
+        {% endfor %}
+      </div>
+    </div>
+    {% if page.content-bottom != blank %}
+    <div class="white-container cell grid-x">
+      <section id="list{{ principe3.order }}" class="principe3 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        {{ page.content-bottom }}
+      </section>
+    </div>
+        <div class="cell grid-x">
+     <div class="h2 text-center">
+        {{ page.subtitle3 }}
+      </div>
+      <div id="list" class="cell white-container">
+        {% for principe3 in page.principes %}
+        <section id="list{{ principe3.order }}" class="principe3 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h3 class="font-bold">{{ principe3.title }}</h3>
+          {{ principe3.content-text | markdownify }}
+
+          {% if forloop.last == false %}
+          <div class="flex-container margin-top-2">
+            <i class="fas fa-angle-down icon-arrow-down"></i>
+          </div>
+          {% endif %}
+        </section>
+        {% endfor %}
+      </div>
+    </div>
+    {% if page.content-bottom != blank %}
+    <div class="white-container cell grid-x">
+      <section id="list{{ principe4.order }}" class="principe4 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        {{ page.content-bottom }}
+      </section>
+    </div>
+        <div class="cell grid-x">
+     <div class="h2 text-center">
+        {{ page.subtitle4 }}
+      </div>
+      <div id="list" class="cell white-container">
+        {% for principe4 in page.principes %}
+        <section id="list{{ principe4.order }}" class="principe4 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h3 class="font-bold">{{ principe4.title }}</h3>
+          {{ principe4.content-text | markdownify }}
+
+          {% if forloop.last == false %}
+          <div class="flex-container margin-top-2">
+            <i class="fas fa-angle-down icon-arrow-down"></i>
+          </div>
+          {% endif %}
+        </section>
+        {% endfor %}
+      </div>
+    </div>
+    {% if page.content-bottom != blank %}
+    <div class="white-container cell grid-x">
+      <section id="list{{ principe5.order }}" class="principe5 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        {{ page.content-bottom }}
+      </section>
+    </div>
+        <div class="cell grid-x">
+     <div class="h2 text-center">
+        {{ page.subtitle5 }}
+      </div>
+      <div id="list" class="cell white-container">
+        {% for principe5 in page.principes %}
+        <section id="list{{ principe5.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h3 class="font-bold">{{ principe5.title }}</h3>
+          {{ principe5.content-text | markdownify }}
+
+          {% if forloop.last == false %}
+          <div class="flex-container margin-top-2">
+            <i class="fas fa-angle-down icon-arrow-down"></i>
+          </div>
+          {% endif %}
+        </section>
+        {% endfor %}
+      </div>
+    </div>
+    {% if page.content-bottom != blank %}
+    <div class="white-container cell grid-x">
+      <section id="list{{ principe6.order }}" class="principe6 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        {{ page.content-bottom }}
+      </section>
+    </div>
+        <div class="cell grid-x">
+     <div class="h2 text-center">
+        {{ page.subtitle6 }}
+      </div>
+      <div id="list" class="cell white-container">
+        {% for principe6 in page.principes %}
+        <section id="list{{ principe6.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h3 class="font-bold">{{ principe6.title }}</h3>
+          {{ principe.content-text | markdownify }}
+
+          {% if forloop.last == false %}
+          <div class="flex-container margin-top-2">
+            <i class="fas fa-angle-down icon-arrow-down"></i>
+          </div>
+          {% endif %}
+        </section>
+        {% endfor %}
+      </div>
+    </div>
+    {% if page.content-bottom != blank %}
+    <div class="white-container cell grid-x">
+      <section id="list{{ principe6.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        {{ page.content-bottom }}
+      </section>
+    </div>
+    {% endif %}
+    {% for fichier in page.files %}
+    <div class="text-center margin-top-2 padding-bottom-2 font-bold">
+      <a target="_blank" class="blue-link" id="fileSize-{{ fichier.file }}-{{ post.url | replace: ' ', '' }}" href="{{ base }}{{ fichier.file }}"
+         onclick="return tag.click.send({elem:this, name:'{{fichier.file}}', type:'téléchargement'});">
+        <span class="fas fa-download margin-horizontal-1"></span>
+        <span class="pdf">{{ fichier.nom }} (PDF </span>
+      </a>
+    </div>
+    {% endfor %}
+  </article>
+</div>
+
+<script >
+  var tag = new ATInternet.Tracker.Tag();
+</script>
