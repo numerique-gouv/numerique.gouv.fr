@@ -51,7 +51,8 @@ Abordant l’échange de données par API ouvertes ou en accès restreint, les 1
 
 ## Des recommandations coconstruites
 
-Dans son rôle de coordonnateur des systèmes d’information de l’État, la DINUM a établi ce cadre recommandations **en concertation avec l’ensemble des administrateurs ministériels des données, des algorithmes et des codes sources** (AMDAC), réseau animé par la DINUM, en particulier son département Etalab. Un groupe de travail resserré a tout d’abord élaboré une première liste de recommandations, soumise ensuite à l’ensemble du réseau, avant de faire l’objet d’échanges bilatéraux entre la DINUM et chaque ministère contributeur.
+Dans son rôle de coordonnateur des systèmes d’information de l’État, la DINUM a établi ce cadre recommandations **en concertation avec l’ensemble des administrateurs ministériels des données, des algorithmes et des codes sources** (AMDAC), réseau animé par la DINUM, en particulier son département Etalab. 
+<br>Un groupe de travail resserré a tout d’abord élaboré une première liste de recommandations, soumise ensuite à l’ensemble du réseau, avant de faire l’objet d’échanges bilatéraux entre la DINUM et chaque ministère contributeur.
 
 > Consulter le cadre de recommandations pour le partage de données par API  dans l’administration [lien vers page Publication contenant les recos et un lien pour téléchargement de la version pdf]
 
