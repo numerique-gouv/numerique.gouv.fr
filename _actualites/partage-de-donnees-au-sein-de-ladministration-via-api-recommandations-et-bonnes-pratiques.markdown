@@ -25,7 +25,7 @@ In fine, c’est donc simplifier les démarches en ligne des Français.
 
 ## Accompagner et structurer le développement d’API
 
-L’administrateur général des données, au sein de la DINUM, avait déjà produit en septembre 2021 [un cadre interministériel d’administration de la donnée](https://www.data.gouv.fr/fr/datasets/r/81b96712-d043-468b-aba6-8eb16ce09a2a), qui précise le cadre dans lequel les administrations doivent inscrire leur action en la matière et décrit l’offre de service mise à leur disposition.
+L’administrateur général des données, au sein de la DINUM, avait déjà produit en septembre 2021 [un cadre interministériel d’administration de la donnée](https://www.data.gouv.fr/fr/datasets/r/81b96712-d043-468b-aba6-8eb16ce09a2a)(pdf - 836 Ko), qui précise le cadre dans lequel les administrations doivent inscrire leur action en la matière et décrit l’offre de service mise à leur disposition.
 
 Ce nouveau cadre de recommandations et de bonnes pratiques vient le prolonger, cette fois sur le champ spécifique de la circulation de données par API.
 
