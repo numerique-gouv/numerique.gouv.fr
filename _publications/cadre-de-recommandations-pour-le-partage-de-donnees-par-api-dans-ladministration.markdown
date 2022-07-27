@@ -194,7 +194,7 @@ files:
 - file: "/uploads/10_principes_description-textuelle.pdf"
   nom: Description textuelle de l'affiche
 Field name: 
-layout: dix-principes
+layout: reco-api
 ---
 
 [> Lire notre article pour en savoir plus sur ce cadre de recommandations et son élaboration](https://numerique.gouv.fr/actualites/****")
