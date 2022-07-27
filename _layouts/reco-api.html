@@ -24,10 +24,10 @@ layout: default
         {{ page.subtitle1 }}
       </div>
       <div id="list" class="cell white-container">
-        {% for principe1 in page.principes1 %}
-        <section id="list{{ principe1.order }}" class="principe1 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
-          <h3 class="font-bold">{{ principe.title1 }}</h3>
-          {{ principe1.content-text | markdownify }}
+        {% for principe in page.principes1 %}
+        <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h3 class="font-bold">{{ principe.title }}</h3>
+          {{ principe.content-text | markdownify }}
 
           {% if forloop.last == false %}
           <div class="flex-container margin-top-2">
@@ -40,7 +40,7 @@ layout: default
     </div>
     {% if page.content-bottom != blank %}
     <div class="white-container cell grid-x">
-      <section id="list{{ principe2.order }}" class="principe2 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+      <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
         {{ page.content-bottom }}
       </section>
     </div>
@@ -50,8 +50,8 @@ layout: default
       </div>
       <div id="list" class="cell white-container">
         {% for principe2 in page.principes2 %}
-        <section id="list{{ principe2.order }}" class="principe2 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
-          <h3 class="font-bold">{{ principe2.title2 }}</h3>
+        <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h3 class="font-bold">{{ principe.title }}</h3>
           {{ principe2.content-text | markdownify }}
 
           {% if forloop.last == false %}
@@ -65,7 +65,7 @@ layout: default
     </div>
     {% if page.content-bottom != blank %}
     <div class="white-container cell grid-x">
-      <section id="list{{ principe3.order }}" class="principe3 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+      <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
         {{ page.content-bottom }}
       </section>
     </div>
@@ -74,10 +74,10 @@ layout: default
         {{ page.subtitle3 }}
       </div>
       <div id="list" class="cell white-container">
-        {% for principe3 in page.principes %}
-        <section id="list{{ principe3.order }}" class="principe3 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+        {% for principe in page.principes3 %}
+        <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
           <h3 class="font-bold">{{ principe3.title }}</h3>
-          {{ principe3.content-text | markdownify }}
+          {{ principe.content-text | markdownify }}
 
           {% if forloop.last == false %}
           <div class="flex-container margin-top-2">
@@ -90,7 +90,7 @@ layout: default
     </div>
     {% if page.content-bottom != blank %}
     <div class="white-container cell grid-x">
-      <section id="list{{ principe4.order }}" class="principe4 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+      <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
         {{ page.content-bottom }}
       </section>
     </div>
@@ -99,10 +99,10 @@ layout: default
         {{ page.subtitle4 }}
       </div>
       <div id="list" class="cell white-container">
-        {% for principe4 in page.principes %}
-        <section id="list{{ principe4.order }}" class="principe4 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
-          <h3 class="font-bold">{{ principe4.title }}</h3>
-          {{ principe4.content-text | markdownify }}
+        {% for principe4 in page.principes4 %}
+        <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h3 class="font-bold">{{ principe.title }}</h3>
+          {{ principe.content-text | markdownify }}
 
           {% if forloop.last == false %}
           <div class="flex-container margin-top-2">
@@ -115,18 +115,18 @@ layout: default
     </div>
     {% if page.content-bottom != blank %}
     <div class="white-container cell grid-x">
-      <section id="list{{ principe5.order }}" class="principe5 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+      <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
         {{ page.content-bottom }}
       </section>
     </div>
         <div class="cell grid-x">
      <div class="h2 text-center">
-        {{ page.subtitle5 }}
+        {{ page.subtitle }}
       </div>
       <div id="list" class="cell white-container">
-        {% for principe5 in page.principes %}
-        <section id="list{{ principe5.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
-          <h3 class="font-bold">{{ principe5.title }}</h3>
+        {% for principe in page.principes5 %}
+        <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h3 class="font-bold">{{ principe.title }}</h3>
           {{ principe5.content-text | markdownify }}
 
           {% if forloop.last == false %}
@@ -149,9 +149,9 @@ layout: default
         {{ page.subtitle6 }}
       </div>
       <div id="list" class="cell white-container">
-        {% for principe6 in page.principes %}
-        <section id="list{{ principe6.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
-          <h3 class="font-bold">{{ principe6.title }}</h3>
+        {% for principe in page.principes6 %}
+        <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+          <h3 class="font-bold">{{ principe.title }}</h3>
           {{ principe.content-text | markdownify }}
 
           {% if forloop.last == false %}
