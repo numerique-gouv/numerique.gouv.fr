@@ -54,13 +54,9 @@ Abordant l’échange de données par API ouvertes ou en accès restreint, les 1
 Dans son rôle de coordonnateur des systèmes d’information de l’État, la DINUM a établi ce cadre recommandations **en concertation avec l’ensemble des administrateurs ministériels des données, des algorithmes et des codes sources** (AMDAC), réseau animé par la DINUM, en particulier son département Etalab. 
 <br>Un groupe de travail resserré a tout d’abord élaboré une première liste de recommandations, soumise ensuite à l’ensemble du réseau, avant de faire l’objet d’échanges bilatéraux entre la DINUM et chaque ministère contributeur.
 
-> Consulter le cadre de recommandations pour le partage de données par API  dans l’administration [lien vers page Publication contenant les recos et un lien pour téléchargement de la version pdf]
-
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme_DINUM.PDF" class="button"><b>Consulter le cadre de recommandations pour le partage de données par API  dans l’administration</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="A MODIFIER" class="button"><b>Consulter le cadre de recommandations pour le partage de données par API  dans l’administration</b></a></div>
 
 [> Télécharger le cadre de recommandations (pdf - 580 Ko)](/uploads/DINUM_Cadre%20de%20recommandations_API_VF.pdf)
-
-[DINUM_Cadre de recommandations_API_VF.pdf](/uploads/DINUM_Cadre%20de%20recommandations_API_VF.pdf)
 
 <div class="encadre noir" style="margin-bottom:40px"><h4 style="margin-top: 40px;">Des réalisations concrètes du réseau des AMDAC</h4><p>À la demande du Premier ministre (lire <a href="https://www.numerique.gouv.fr/actualites/politique-donnee-algorithmes-et-codes-sources-une-circulaire-du-premier-ministre-renouvelle-ambition-francaise/" alt="numerique.gouv.fr/actualites/politique-donnee-algorithmes-et-codes-sources-une-circulaire-du-premier-ministre-renouvelle-ambition-francaise - lien interne">notre article sur la circulaire d’avril 2021</a>, chaque ministère a nommé dès mai 2021 un administrateur ministériel des données, des algorithmes et des codes sources (AMDAC). Ce réseau est depuis animé par la DINUM qui met en place des groupes de travail thématiques et en coordonne les travaux, autour des enjeux et besoins communs.  
 Ce cadre de recommandations en matière de partage de données par API en est la première réalisation collective concrète.
