@@ -13,7 +13,7 @@ layout: default
       {% include components/titre-page-fille.html %}
       {% if page.content != blank %}
     <div class="white-container cell grid-x">
-      <section id="list{{ principe1.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+      <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
         {{ page.content }}
       </section>
     </div>
@@ -76,7 +76,7 @@ layout: default
       <div id="list" class="cell white-container">
         {% for principe in page.principes3 %}
         <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
-          <h3 class="font-bold">{{ principe3.title }}</h3>
+          <h3 class="font-bold">{{ principe.title }}</h3>
           {{ principe.content-text | markdownify }}
 
           {% if forloop.last == false %}
@@ -99,7 +99,7 @@ layout: default
         {{ page.subtitle4 }}
       </div>
       <div id="list" class="cell white-container">
-        {% for principe4 in page.principes4 %}
+        {% for principe in page.principes4 %}
         <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
           <h3 class="font-bold">{{ principe.title }}</h3>
           {{ principe.content-text | markdownify }}
@@ -127,7 +127,7 @@ layout: default
         {% for principe in page.principes5 %}
         <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
           <h3 class="font-bold">{{ principe.title }}</h3>
-          {{ principe5.content-text | markdownify }}
+          {{ principe.content-text | markdownify }}
 
           {% if forloop.last == false %}
           <div class="flex-container margin-top-2">
@@ -140,7 +140,7 @@ layout: default
     </div>
     {% if page.content-bottom != blank %}
     <div class="white-container cell grid-x">
-      <section id="list{{ principe6.order }}" class="principe6 padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+      <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
         {{ page.content-bottom }}
       </section>
     </div>
@@ -165,7 +165,7 @@ layout: default
     </div>
     {% if page.content-bottom != blank %}
     <div class="white-container cell grid-x">
-      <section id="list{{ principe6.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
+      <section id="list{{ principe.order }}" class="principe padding-bottom-3 padding-large-horizontal-5 padding-medium-1 padding-large-vertical-2">
         {{ page.content-bottom }}
       </section>
     </div>
