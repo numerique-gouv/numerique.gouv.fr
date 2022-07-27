@@ -19,7 +19,7 @@ Cadre juridique favorable ([loi 3DS](https://www.legifrance.gouv.fr/dossierlegis
 
 <div class="encadre noir" style="margin-bottom:40px"><h4 style="margin-top: 40px;">Partager les données entre administrations, à quoi ça sert ?</h4><p>Développer le partage des données permet d’accélérer la mise en œuvre du principe Dites-le-nous une fois, qui consiste à ne plus demander à l’usager des pièces justificatives pour des informations qu’une autre administration détient déjà voire a elle-même produites, en se les partageant grâce à des interfaces informatiques, les API.
 In fine, c’est donc simplifier les démarches en ligne des Français.
-Exemples concrets : <a href="https://api.gouv.fr/les-api/api-particulier" alt="api.gouv.fr/les-api/api-particulier - lien externe">l'API Particulier</a> a permis de réduire de près de 3 millions le nombre de justificatifs transmis en 2021 par les citoyens, et <a href="https://api.gouv.fr/les-api/api-entreprise" alt="api.gouv.fr/les-api/api-entreprise - lien externe">l'API Entreprise</a> a permis d’éviter à 1 million d’entreprises de transmettre 25 millions de justificatifs.
+<br>Exemples concrets : <a href="https://api.gouv.fr/les-api/api-particulier" alt="api.gouv.fr/les-api/api-particulier - lien externe">l'API Particulier</a> a permis de réduire de près de 3 millions le nombre de justificatifs transmis en 2021 par les citoyens, et <a href="https://api.gouv.fr/les-api/api-entreprise" alt="api.gouv.fr/les-api/api-entreprise - lien externe">l'API Entreprise</a> a permis d’éviter à 1 million d’entreprises de transmettre 25 millions de justificatifs.
 </p>
 <p style="text-indent: 15px;"></p></div>
 
