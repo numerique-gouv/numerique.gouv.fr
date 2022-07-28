@@ -130,7 +130,7 @@ files:
   nom: Affiche des 10 principes (HD)
 - file: "/uploads/10_principes_description-textuelle.pdf"
   nom: Description textuelle de l'affiche
-layout: dix-principes
+layout: reco-api
 ---
 
 [> En savoir plus sur les 10 principes et leur élaboration](https://numerique.gouv.fr/actualites/la-dinsic-publie-les-10-principes-dune-demarche-en-ligne-exemplaire/ "En savoir plus sur les 10 principes et leur élaboration")
