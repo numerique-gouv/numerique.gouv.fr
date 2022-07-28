@@ -52,10 +52,10 @@ principes2:
   title: Gestion des habilitations d’accès aux API à accès restreint
   content-text: |-
     #### Recommandation 4
-    
+
     L’accès aux API à accès restreint se fait par demande du réutilisateur (administrations, éditeurs, entreprises…).
-    
-    
+
+
     Les API peuvent s’appuyer sur un mécanisme d’authentification de l’utilisateur final assurant une gestion des droits au sein de la plateforme qui les fournit. Les
     dispositifs d’authentification des citoyens, des agents ou des personnes morales conçus par les pouvoirs publics pourront être utilisés, en particulier lorsque
     le consentement de l’utilisateur est nécessaire pour faire circuler la donnée :
@@ -86,13 +86,13 @@ principes3:
   title: Utilisation des standards technologiques du moment pour faciliter l’interopérabilité
   content-text: |-
     #### Recommandation 6
-  
+
     Les données et services sont exposés selon des standards techniques communément partagés et adoptés.
-  
-  
+
+
     En 2022, le principe d’architecture et d’encodage le plus connu et pratiqué est le standard REST Json pour les API synchrones. Il est utilisé par exemple pour les spécifications du [standard OpenAPI](https://spec.openapis.org/oas/v3.1.0 "standard OpenAPI - Lien externe") ou [les standards « API » de l'OGC](https://ogcapi.ogc.org "les standards « API » de l'OGC - Lien externe"). Concernant les API asynchrones, le principe AsyncAPI est le plus répandu.
-    
-    
+
+
     **Bonne pratique** : L’approche <span lang="en">« contract first »</span>, par opposition à l’approche <span lang="en">« code first »</span>, est recommandée dans le développement de nouvelles interfaces car elle permet de les stabiliser et de faire travailler plusieurs équipes en parallèle au sein d’une même architecture.
 - principe: 
   order: 7
@@ -100,8 +100,8 @@ principes3:
   content-text: |-
     #### Recommandation 7
     Les données et services sont exposés selon une interface (modalités d’appel et structuration des données échangées) définie pour une période donnée.
-    
-    
+
+
     Les développements Agile ou nécessitant une évolution prévisible seront rendus identifiables et préciseront une période de validité courte de 1 à 2 mois.
 - principe: 
   order: 8
@@ -171,8 +171,8 @@ principes4:
   content-text: |-
     #### Recommandation 13
     Les consommations des API sont enregistrées pour être ensuite restituées aux bénéficiaires (réutilisateur, producteur, API managers ou exploitants).
-    
-    
+
+
     **Bonne pratique** : les bénéficiaires ont accès à travers un portail à une restitution en temps réel ou ponctuelle de
     ces statistiques de consommation des données ainsi que celles des autres bénéficiaires.
 subtitle5: Curation de la donnée
