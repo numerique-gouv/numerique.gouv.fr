@@ -52,8 +52,8 @@ Disponible **sur smartphones et tablettes Android et Apple**, ainsi que **sur or
 Conçu spécifiquement pour les agents publics, Tchap offre des fonctionnalités uniques, comme **un annuaire intégré des utilisateurs**, vous permettant par exemple de retrouver un interlocuteur dans un autre ministère.
 
 Les salons de discussion publics couvrent **vos centres d’intérêt professionnels** (mais pas que !), avec des thématiques transverses communes à tous les ministères comme l’innovation publique, la cybersécurité, l’emploi public… mais aussi des salons dédiés à des communautés (BlueHats, beta.gouv.fr, DesignGouv…). **Un répertoire des salons publics** vous permet de trouver celui qui vous intéresse. Vous n’y trouvez pas votre bonheur ? Il vous suffit de créer votre propre salon.
-<div class="lien-important"> <p class="text-center margin-bottom-0"><a href="/uploads/tchap-prise-en-main.pdf">Consulter notre guide utilisateur (pdf, 350 ko)</a></p> </div>
-<p class="text-center" style="margin-top: 0px; margin-bottom: 40px"><a href="/uploads/tchap-prise-en-main-version-accessible.docx">(version accessible du guide - docx, 21 ko)</a></p>
+<div class="lien-important"> <p class="text-center margin-bottom-0"><a href="https://tchap.beta.gouv.fr/prise-en-main">Consulter notre guide utilisateur</a></p> </div>
+<p class="text-center" style="margin-top: 0px; margin-bottom: 40px"></p>
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/group-bleu.png" alt="">
@@ -106,6 +106,11 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 *Tchap s’appuie sur un **logiciel open source** ([Riot](https://about.riot.im/ "Riot - Lien externe)) et un standard ouvert ([Matrix](https://matrix.org/ "Matrix - Lien externe")).*
 <br>
 <br>
+Pour toute sollicitation relative au déploiement de Tchap, vous pouvez contacter l'équipe à [tchap@beta.gouv.fr](mailto:tchap@beta.gouv.fr).
+
+**Tchap ne fonctionne pas normalement ?
+Vous avez besoin d'aide pour vous en servir ?**
+Le support est joignable à l'adresse [support@tchap.beta.gouv.fr](mailto:support@tchap.beta.gouv.fr).
 
 **Découvrir aussi :**
 
