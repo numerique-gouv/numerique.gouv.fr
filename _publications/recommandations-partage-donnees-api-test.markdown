@@ -273,6 +273,47 @@ principes4:
     *Exemple :*
 
     *Le suivi de la disponibilité des API du bouquet API Entreprise est disponible sur [status.entreprise.api.gouv.fr](https://status.entreprise.api.gouv.fr/ "status.entreprise.api.gouv.fr - lien externe")*
+- principe: 
+  order: 13
+  title: Suivi des consommations des données et services
+  content-text: "Les consommations des API sont enregistrées pour être ensuite restituées
+    aux bénéficiaires (réutilisateur, producteur, API managers ou exploitants).\n\n\U0001F44D
+    **Bonne pratique** : les bénéficiaires ont accès à travers un portail à une restitution
+    en temps réel ou ponctuelle de ces statistiques de consommation des données ainsi
+    que celles des autres bénéficiaires."
+subtitle5: Curation de la donnée
+principes5:
+- principe: 
+  order: 14
+  title: Mise en place d’une boucle de retour sur la qualité des données
+  content-text: |-
+    #### Recommandation 14
+
+    Les réutilisateurs disposent d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des données vers leur gestionnaire ou via la description des données au sein de leur catalogue d’origine. Les réutilisateurs disposent également d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des API exposées vers leur fournisseur ou via la description de l’API.
+
+    **Exemple :**
+
+    Le dispositif Datapass pouvant être utilisé par les API en accès restreint permet de faire un retour sur la qualité des données disponibles via celles-ci.
+subtitle6: Modèle économique
+principes6:
+- principe: 
+  order: 15
+  title: Gratuité de la donnée et de l’exposition
+  content-text: |-
+    #### Recommandation 15
+
+    L’accès à la donnée et aux services doit être égalitaire. Les fournisseurs de données cherchent à adapter les modalités d’accès aux besoins des réutilisateurs.
+- principe: 
+  order: 16
+  title: 
+  content-text: |-
+    #### Recommandation 16
+
+    Les données ainsi que les API sont mises à disposition gratuitement, pour les réutilisateurs uniquement, sauf exceptions devant faire l’objet d’une justification par l’administration productrice.
+
+    Exemple :
+
+    Dans le cas où des usages nécessiteraient une qualité de service au-dessus de ce que la multitude d’utilisateurs a couramment besoin, comme par exemple une bande passante élevée pour de la donnée temps-réel volumineuse desservie sur quelques organismes, il sera possible d’organiser un système freemium avec une égalité d’accès à des APIs par défaut et des APIs faisant l’objet de redevances pour les usages les plus exigeants.
 layout: reco-api
 ---
 
