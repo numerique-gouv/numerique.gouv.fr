@@ -45,8 +45,34 @@ subtitle2: Accès à la donnée
 principes2:
 - principe: 
   order: 
+  title: Gestion des habilitations d’accès aux API à accès restreint
+  content-text: "## Recommandation 3\n\nL’accès aux API à accès restreint se fait
+    par demande du réutilisateur (administrations, éditeurs, entreprises…).\n\nLes
+    API peuvent s’appuyer sur un mécanisme d’authentification de l’utilisateur final
+    assurant une gestion des droits au sein de la plateforme qui les fournit. Les
+    dispositifs d’authentification des citoyens, des agents ou des personnes morales
+    conçus par les pouvoirs publics pourront être utilisés, en particulier lorsque
+    le consentement de l’utilisateur est nécessaire pour faire circuler la donnée
+    : \n* Pour les personnes physiques : FranceConnect, AgentConnect et EduConnect\n*
+    Pour les personnes morales : ProConnect \n\n"
+    - principe: 
+  order: 4
   title: 
-  content-text: 
+  content-text: |
+    ### Recommandation 4
+    Si le droit d’accès n’est pas préétabli, le processus de demande se fait de la manière la plus simple possible pour le réutilisateur. Dans le cadre de demandes d’accès prévues par la loi et si le demandeur est éligible, une réponse sera transmise aux réutilisateurs dans un délai recommandé de 15 jours calendaires. Le code des relations entre le public et l’administration prévoit un délai légal maximum de 30 jours pour répondre à une demande ([article R311-13](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031370409 "article R311-13 - Lien externe")).
+- principe: 
+  order: 5
+  title: 
+  content-text: "## Bac à sable d'expérimentation public\n### Recommandation 5\n\nÀ
+    chaque API devrait correspondre une version « bac à sable », accessible en fonction
+    du caractère des données ouvertes ou en accès restreint, exposant une version
+    fictive des données et présentant les mêmes modalités techniques d’exposition.\n\n\nPour
+    les API ouvertes, le bac à sable potentiel est accessible au grand public, sans
+    demande préalable du réutilisateur. Pour les API à accès restreint, le bac à sable
+    contenant des données fictives pourrait être accessible au réutilisateur après
+    demande d’un jeton au fournisseur de données, bien que cette pratique ne soit
+    pas recommandée.  \n"
 subtitle3: Exploitation des données
 principes3:
 - principe: 
