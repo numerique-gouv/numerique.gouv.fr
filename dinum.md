@@ -92,7 +92,7 @@ function myFunction(id) {
 <li><b>Département Etalab - Cycle de vie de la donnée</b>&nbsp;: Laure Lucchesi
   <ul>
     <li><b>Pôle Droit et Société&nbsp;:</b> Perica Sucevic</li>
-    <li><b>Pôle Programmes d'innovation&nbsp;: </b> -</li>
+    <li><b>Pôle Programmes d'innovation</b></li>
     <li><b>Pôle Exploitation des Données&nbsp;:</b> Paul-Antoine Chevalier</li>
     <li><b>Pôle Ouverture et Partage des Données&nbsp;:</b> Romain Talès</li>
     <li><b>Pôle Logiciels libres&nbsp;:</b> Bastien Guerry</li>
