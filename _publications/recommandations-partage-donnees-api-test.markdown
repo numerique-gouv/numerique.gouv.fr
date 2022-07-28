@@ -1,6 +1,6 @@
 ---
 title: Les 10 principes d'une démarche en ligne exemplaire
-permalink: "/publications/recommandations-partage-donnees-api/"
+permalink: "/publications/recommandations-partage-donnees-api-test/"
 position: 20
 subtitle: Une démarche en ligne exemplaire...
 une-ou-diaporama:
