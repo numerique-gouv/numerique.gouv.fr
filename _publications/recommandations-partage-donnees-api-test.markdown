@@ -82,18 +82,18 @@ principes3:
 - principe: 
   order: 6
   title: Utilisation des standards technologiques du moment pour faciliter l’interopérabilité
-  content-text: "#### Recommandation 6\n\nLes données et services sont exposés selon
-    des standards techniques communément partagés et adoptés.\n\n\n\nEn 2022, le principe
-    d’architecture et d’encodage le plus connu et pratiqué est le standard REST Json
-    pour les API synchrones. Il est utilisé par exemple pour les spécifications du
-    [standard OpenAPI](https://spec.openapis.org/oas/v3.1.0 \"standard OpenAPI  -
-    Lien externe\") ou [les standards « API » de l'OGC](https://ogcapi.ogc.org \"les
-    standards « API » de l'OGC - Lien externe\"). Concernant les API asynchrones,
-    le principe AsyncAPI est le plus répandu.\n\n\n\n\U0001F44D **Bonne pratique**
-    : L’approche <span lang=\"en\">« contract first »</span>, par opposition à l’approche
-    <span lang=\"en\">« code first »</span>, est recommandée dans le développement
-    de nouvelles interfaces car elle permet de les stabiliser et de faire travailler
-    plusieurs équipes en parallèle au sein d’une même architecture."
+  content-text: |-
+    #### Recommandation 6
+
+    Les données et services sont exposés selon des standards techniques communément partagés et adoptés.
+
+
+
+    En 2022, le principe d’architecture et d’encodage le plus connu et pratiqué est le standard REST Json pour les API synchrones. Il est utilisé par exemple pour les spécifications du [standard OpenAPI](https://spec.openapis.org/oas/v3.1.0 "standard OpenAPI  - Lien externe") ou [les standards « API » de l'OGC](https://ogcapi.ogc.org "les standards « API » de l'OGC - Lien externe"). Concernant les API asynchrones, le principe AsyncAPI est le plus répandu.
+
+
+
+    **Bonne pratique** : L’approche <span lang="en">« contract first »</span>, par opposition à l’approche <span lang="en">« code first »</span>, est recommandée dans le développement de nouvelles interfaces car elle permet de les stabiliser et de faire travailler plusieurs équipes en parallèle au sein d’une même architecture.
 - principe: 
   order: 7
   title: Stabilité du modèle des interfaces
@@ -167,11 +167,14 @@ principes4:
 - principe: 
   order: 13
   title: Suivi des consommations des données et services
-  content-text: "#### Recommandation 13\n\nLes consommations des API sont enregistrées
-    pour être ensuite restituées aux bénéficiaires (réutilisateur, producteur, API
-    managers ou exploitants).\n\n\n\n\U0001F44D **Bonne pratique** : les bénéficiaires
-    ont accès à travers un portail à une restitution en temps réel ou ponctuelle de
-    ces statistiques de consommation des données ainsi que celles des autres bénéficiaires."
+  content-text: |-
+    #### Recommandation 13
+
+    Les consommations des API sont enregistrées pour être ensuite restituées aux bénéficiaires (réutilisateur, producteur, API managers ou exploitants).
+
+
+
+    **Bonne pratique** : les bénéficiaires ont accès à travers un portail à une restitution en temps réel ou ponctuelle de ces statistiques de consommation des données ainsi que celles des autres bénéficiaires.
 subtitle5: Curation de la donnée
 principes5:
 - principe: 
