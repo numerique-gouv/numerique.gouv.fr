@@ -1,11 +1,11 @@
 ---
-title: Les 10 principes d'une démarche en ligne exemplaire
+title: Cadre de recommandations pour le partage de données par API  dans l’administration
+  -test
 permalink: "/publications/recommandations-partage-donnees-api-test/"
 position: 20
-subtitle: Une démarche en ligne exemplaire...
 une-ou-diaporama:
 - image: "/assets/img/main/image_DINSIC.jpg"
-  alternative-textuelle: 
+subtitle: Une démarche en ligne exemplaire...
 principes:
 - principe: 
   order: 1
@@ -130,7 +130,65 @@ files:
   nom: Affiche des 10 principes (HD)
 - file: "/uploads/10_principes_description-textuelle.pdf"
   nom: Description textuelle de l'affiche
+subtitle1: Découvrabilité
+principes1:
+- principe: 
+  order: 1
+  title: Catalogue de données et services disponibles
+  content-text: |-
+    #### Recommandation 1
+    En complément de la description (métadonnées), les données et services publiquement accessibles sont visibles sur un catalogue exposé sur Internet, référencé sur les moteurs de recherche usuels et intelligibles (la description des API au sein du catalogue ou de l’API manager propose un contenu destiné aux opérationnels, fonctionnels comme techniques).
+
+    La description d’une donnée doit référencer les API qui l’exposent. L’exemple présenté ci-dessous met ainsi en évidence les ressources accessibles sur la page présentant le jeu de données « base SIREN des entreprises et de leurs établissements ».
+
+
+    **Exemples : **
+    * api.gouv.fr vise à référencer toutes les API publiques de l’État
+    * API Impôt Particulier vise à référencer la donnée fiscale des particuliers
+- principe: 
+  order: 2
+  title: 
+  content-text: |-
+    #### Recommandation 2
+
+    **À chaque API exposée correspond :**
+
+    * Une documentation fonctionnelle présentant la sémantique des données, leur qualité ainsi que leur source et leurs propriétés usuelles. Elle explicite également le processus de demande d’accès et l’éligibilité des réutilisateurs. Si un catalogue existe, un lien vers la description de la donnée est proposé ;
+    * Une documentation technique présentant les modalités d’interrogation et de récupération de la donnée ;
+    * Les conditions générales d’utilisation précisant les conditions contractuelles d’accès à l’API.
+
+
+    La spécification d’une API respecte les standards répandus au sein de la communauté (norme OpenAPI en 2022). Cette description ne doit pas doublonner avec celle d’une donnée existante, ni ne s’affranchit de la nécessité de décrire la donnée dans un catalogue de donnée (principe de découvrabilité). Une API fournissant plusieurs jeux de données doit être décrite une seule fois et intégrer les liens vers chaque description des données fournies.
+
+
+    La description d’une API précise également les périodes de validité de l’interface (cf. recommandations 7 & 8) et son niveau de service (cf. recommandations 10 & 11).
+subtitle2: Accès à la donnée
+principes2:
+- principe: 
+  order: 3
+  title: Gestion des habilitations d’accès aux API à accès restreint
+  content-text: "#### Recommandation 3\n\nL’accès aux API à accès restreint se fait
+    par demande du réutilisateur (administrations, éditeurs, entreprises…).\n\n\nLes
+    API peuvent s’appuyer sur un mécanisme d’authentification de l’utilisateur final
+    assurant une gestion des droits au sein de la plateforme qui les fournit. Les
+    dispositifs d’authentification des citoyens, des agents ou des personnes morales
+    conçus par les pouvoirs publics pourront être utilisés, en particulier lorsque
+    le consentement de l’utilisateur est nécessaire pour faire circuler la donnée
+    : \n* Pour les personnes physiques : FranceConnect, AgentConnect et EduConnect\n*
+    Pour les personnes morales : ProConnect \n"
+- principe: 
+  order: 4
+  title: 
+  content-text: |-
+    #### Recommandation 4
+
+    Si le droit d’accès n’est pas préétabli, le processus de demande se fait de la manière la plus simple possible pour le réutilisateur. Dans le cadre de demandes d’accès prévues par la loi et si le demandeur est éligible, une réponse sera transmise aux réutilisateurs dans un délai recommandé de 15 jours calendaires. Le code des relations entre le public et l’administration prévoit un délai légal maximum de 30 jours pour répondre à une demande ([article R311-13](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031370409 "article R311-13 - lien externe")).
+- principe: 
+  order: 
+  title: Bac à sable d'expérimentation public
+  content-text: 
+Field name: 
 layout: reco-api
 ---
 
-[> En savoir plus sur les 10 principes et leur élaboration](https://numerique.gouv.fr/actualites/la-dinsic-publie-les-10-principes-dune-demarche-en-ligne-exemplaire/ "En savoir plus sur les 10 principes et leur élaboration")
+> En savoir plus sur l'élaboration de ces recommandations 
