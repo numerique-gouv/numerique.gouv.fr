@@ -2,6 +2,7 @@
 title: Cadre de recommandations pour le partage de données par API  dans l’administration
   -test
 permalink: "/publications/recommandations-partage-donnees-api-test/"
+published: false
 position: 20
 une-ou-diaporama:
 - image: "/assets/img/main/image_DINSIC.jpg"
