@@ -207,6 +207,72 @@ principes3:
     lang=\"en\">« code first »</span>, est recommandée dans le développement de nouvelles
     interfaces car elle permet de les stabiliser et de faire travailler plusieurs
     équipes en parallèle au sein d’une même architecture."
+- principe: 
+  order: 7
+  title: Stabilité du modèle des interfaces
+  content-text: "#### Recommandation 7\n\nLes données et services sont exposés selon
+    une interface (modalités d’appel et structuration des données échangées) définie
+    pour une période donnée. \n\n\nLes développements Agile ou nécessitant une évolution
+    prévisible seront rendus identifiables et préciseront une période de validité
+    courte de 1 à 2 mois.\n"
+- principe: 
+  order: 8
+  title: 
+  content-text: |-
+    #### Recommandation 8
+
+    Ces périodes de validité de l’interface sont explicitement présentées aux réutilisateurs dans la documentation. Les modifications prévisibles s’accompagneront de l’actualisation préalable des informations descriptives intégrant des liens vers des communications et guides permettant aux réutilisateurs d’anticiper les évolutions. Les réutilisateurs pourront basculer durant une période définie et communiquée sur la version modifiée de l’interface. Durant ce laps de temps, deux interfaces cohabiteront, la version précédente dépréciée et la nouvelle version.
+
+
+    Le détail de ces informations sera présenté en détail dans les conditions générales d’utilisation de l’API.
+- principe: 
+  order: 9
+  title: 
+  content-text: |-
+    #### Recommandation 9
+
+    Toute modification non rétro-compatible impose un versioning en tant que version majeure et une cohabitation de l’ancien et du nouveau modèle pendant une période de recouvrement. Celle-ci doit être communiquée à l’avance en diffusant le nouveau contrat d’interface de l’API. À défaut d’information préalable ou d’accord des réutilisateurs, la période de cohabitation sera comprise entre 6 mois et 1 an.
+
+
+    Si une évolution de la donnée interdit le maintien de l’ensemble des fonctionnalités de l’API (exemple : modification d’un schéma avec abandon de certaines informations), il sera indiqué quelles requêtes ou parties du protocole seront maintenues.
+subtitle4: Qualité de service
+principes4:
+- principe: 
+  order: 10
+  title: Indications sur le temps de réponse et la tenue en charge
+  content-text: |-
+    #### Recommandation 10
+
+    La charge admise par une API est consultable en toute transparence par les réutilisateurs :
+
+    * Dans le cas d’une API authentifiée, la charge est exprimée sous forme de métriques propres à chaque réutilisateur, comme le nombre d’appels sur une période donnée par exemple ;
+
+
+    * Dans le cas d’une API non authentifiée, la charge tenable est exprimée dans son ensemble, tous réutilisateurs confondus ;
+
+
+    * Dans le cas d’une infrastructure permettant, via une API, des requêtes complexes, ou servant de nombreuses données, la charge tenable estimée indiquera les critères utilisés et le caractère estimatif de cette évaluation ;
+
+
+    * Dans le cas d’une API sujette à des fortes évolutions en fonction de la saisonnalité, le temps de réponse maximal sera précisé ainsi que les risques de rupture de service.
+- principe: 
+  order: 11
+  title: 
+  content-text: |-
+    #### Recommandation 11
+
+    Les temps de réponse moyens et maximaux sont présentés dans la documentation de l’API. Les temps de réponse mesurés ou estimés sont fournis à titre indicatif et non contractuel. Tout autre démarche relève d’un d’accord entre le fournisseur d’API et les réutilisateurs en fonction de leurs cas d’usages.
+- principe: 
+  order: 12
+  title: Transparence sur la disponibilité de l’API
+  content-text: |-
+    #### Recommandation 12
+
+    L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel sous forme d’une URL, indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requetable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
+
+    *Exemple :*
+
+    *Le suivi de la disponibilité des API du bouquet API Entreprise est disponible sur [status.entreprise.api.gouv.fr](https://status.entreprise.api.gouv.fr/ "status.entreprise.api.gouv.fr - lien externe")*
 layout: reco-api
 ---
 
