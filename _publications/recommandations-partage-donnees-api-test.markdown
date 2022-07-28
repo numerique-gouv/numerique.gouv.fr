@@ -184,10 +184,29 @@ principes2:
 
     Si le droit d’accès n’est pas préétabli, le processus de demande se fait de la manière la plus simple possible pour le réutilisateur. Dans le cadre de demandes d’accès prévues par la loi et si le demandeur est éligible, une réponse sera transmise aux réutilisateurs dans un délai recommandé de 15 jours calendaires. Le code des relations entre le public et l’administration prévoit un délai légal maximum de 30 jours pour répondre à une demande ([article R311-13](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031370409 "article R311-13 - lien externe")).
 - principe: 
-  order: 
+  order: 5
   title: Bac à sable d'expérimentation public
-  content-text: 
-Field name: 
+  content-text: |-
+    À chaque API devrait correspondre une version « bac à sable », accessible en fonction du caractère des données ouvertes ou en accès restreint, exposant une version fictive des données et présentant les mêmes modalités techniques d’exposition.
+
+
+    Pour les API ouvertes, le bac à sable potentiel est accessible au grand public, sans demande préalable du réutilisateur. Pour les API à accès restreint, le bac à sable contenant des données fictives pourrait être accessible au réutilisateur après demande d’un jeton au fournisseur de données, bien que cette pratique ne soit pas recommandée.
+subtitle3: Exploitation des données
+principes3:
+- principe: 
+  order: 6
+  title: Utilisation des standards technologiques du moment pour faciliter l’interopérabilité
+  content-text: "Les données et services sont exposés selon des standards techniques
+    communément partagés et adoptés.\n\nEn 2022, le principe d’architecture et d’encodage
+    le plus connu et pratiqué est le standard REST Json pour les API synchrones. Il
+    est utilisé par exemple pour les spécifications du [standard OpenAPI](https://spec.openapis.org/oas/v3.1.0
+    \"standard OpenAPI  - Lien externe\") ou [les standards « API » de l'OGC](https://ogcapi.ogc.org
+    \"les standards « API » de l'OGC - Lien externe\"). Concernant les API asynchrones,
+    le principe AsyncAPI est le plus répandu.\n\n\U0001F44D **Bonne pratique** : L’approche
+    <span lang=\"en\">« contract first »</span>, par opposition à l’approche <span
+    lang=\"en\">« code first »</span>, est recommandée dans le développement de nouvelles
+    interfaces car elle permet de les stabiliser et de faire travailler plusieurs
+    équipes en parallèle au sein d’une même architecture."
 layout: reco-api
 ---
 
