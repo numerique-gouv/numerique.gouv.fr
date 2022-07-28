@@ -45,7 +45,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <br>
 <br>
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme_DINUM.PDF" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme_DINUM-99a336.PDF" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
 
 <script>
 function myFunction(id) {
@@ -92,6 +92,7 @@ function myFunction(id) {
 <li><b>Département Etalab - Cycle de vie de la donnée</b>&nbsp;: Laure Lucchesi
   <ul>
     <li><b>Pôle Droit et Société&nbsp;:</b> Perica Sucevic</li>
+    <li><b>Pôle Programmes d'innovation&nbsp;: </b> -</li>
     <li><b>Pôle Exploitation des Données&nbsp;:</b> Paul-Antoine Chevalier</li>
     <li><b>Pôle Ouverture et Partage des Données&nbsp;:</b> Romain Talès</li>
     <li><b>Pôle Logiciels libres&nbsp;:</b> Bastien Guerry</li>
@@ -114,3 +115,4 @@ function myFunction(id) {
 
 
 [> Télécharger la note d’organisation (pdf - 250 Ko)](/uploads/note_organisation_DINUM_20200301-d030a7.pdf)
+
