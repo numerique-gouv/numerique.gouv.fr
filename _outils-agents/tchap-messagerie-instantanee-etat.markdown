@@ -65,7 +65,7 @@ Les **parlementaires et agents des parlements** ont également accès à la mess
 
 Tchap est ouvert en expérimentation dans plusieurs **collectivités territoriales** depuis février 2020. Vous souhaitez rejoindre l’expérimentation et proposer Tchap aux agents de votre collectivité ? Contactez [tchap.dinum@modernisation.gouv.fr](mailto:tchap.dinum@modernisation.gouv.fr) pour plus d’information. Une convention devra être établie et signée par la direction générale des services, téléchargez pour cela le modèle de convention en format [Word (37 Ko)](/uploads/CONVENTION-DE-SERVICE-TCHAP.DOCX "Télécharger le modèle de convention au format Word - 37 Ko") ou [Open Office/odt (22 Ko)](/uploads/CONVENTION-DE-SERVICE-TCHAP.odt "Télécharger le modèle de convention au format Open Office/Odt - 22 Ko").
 
-En janvier 2021, Tchap compte **200 000 utilisateurs**.
+En janvier 2021, Tchap compte **300 000 utilisateurs**.
 <br>
 <br>
 
@@ -88,7 +88,7 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
   <br>
   <br>
 
-## Rejoignez les 200 000 utilisateurs !
+## Rejoignez les 300 000 utilisateurs !
 {: .text-center .margin-bottom-1 .margin-top-3}
 
 <p><a href="https://play.google.com/store/apps/details?id=fr.gouv.tchap.a"><img src="/uploads/googleplay.png" class="image-center" style="width: 30%;" alt="Télécharger l'application sur Google play - Lien externe"></a></p>
