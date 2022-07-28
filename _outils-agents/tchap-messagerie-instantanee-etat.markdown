@@ -109,8 +109,8 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 Pour toute sollicitation relative au déploiement de Tchap, vous pouvez contacter l'équipe à [tchap@beta.gouv.fr](mailto:tchap@beta.gouv.fr).
 
 **Tchap ne fonctionne pas normalement ?
-Vous avez besoin d'aide pour vous en servir ?**
-Le support est joignable à l'adresse [support@tchap.beta.gouv.fr](mailto:support@tchap.beta.gouv.fr).
+<br>Vous avez besoin d'aide pour vous en servir ?**
+<br>Le support est joignable à l'adresse [support@tchap.beta.gouv.fr](mailto:support@tchap.beta.gouv.fr).
 
 **Découvrir aussi :**
 
