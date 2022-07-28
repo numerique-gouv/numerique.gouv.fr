@@ -1,14 +1,42 @@
 ---
 title: Cadre de recommandations pour le partage de données par API dans l’administration
 date: 2022-07-27 16:35:00 +02:00
-permalink: "/publications/reco-api/"
-position: 16
+permalink: "/publications/recommandations-api/"
+position: 20
 une-ou-diaporama:
 - image: "/assets/img/main/image_DINSIC.jpg"
-subtitle: Accès à la donnée
-principes:
 subtitle1: Découvrabilité
 principes1:
+- principe: 
+  order: 1
+  title: Catalogue de données et services disponibles
+  content-text: |
+    #### Recommandation 1
+    En complément de la description (métadonnées), les données et services publiquement accessibles sont visibles sur un catalogue exposé sur Internet, référencé sur les moteurs de recherche usuels et intelligibles (la description des API au sein du catalogue ou de l’API manager propose un contenu destiné aux opérationnels, fonctionnels comme techniques).
+    La description d’une donnée doit référencer les API qui l’exposent. L’exemple présenté ci-dessous met ainsi en évidence les ressources accessibles sur la page présentant le jeu de données « base SIREN des entreprises et de leurs établissements ».
+    **Exemples : **
+    * api.gouv.fr vise à référencer toutes les API publiques de l’État
+    * API Impôt Particulier vise à référencer la donnée fiscale des particuliers
+- principe: 
+  order: 2
+  title: 
+  content-text: "#### Recommandation 2\n\n**À chaque API exposée correspond :**\n*
+    Une documentation fonctionnelle présentant la sémantique des données, leur qualité
+    ainsi que leur source et leurs propriétés usuelles. Elle explicite également le
+    processus de demande d’accès et l’éligibilité des réutilisateurs. Si un catalogue
+    existe, un lien vers la description de la donnée est proposé ;\n* Une documentation
+    technique présentant les modalités d’interrogation et de récupération de la donnée
+    ; \n* Les conditions générales d’utilisation précisant les conditions contractuelles
+    d’accès à l’API.\n\n\nLa spécification d’une API respecte les standards répandus
+    au sein de la communauté (norme OpenAPI en 2022). Cette description ne doit pas
+    doublonner avec celle d’une donnée existante, ni ne s’affranchit de la nécessité
+    de décrire la donnée dans un catalogue de donnée (principe de découvrabilité).
+    Une API fournissant plusieurs jeux de données doit être décrite une seule fois
+    et intégrer les liens vers chaque description des données fournies.\n\n\nLa description
+    d’une API précise également les périodes de validité de l’interface (cf. recommandations
+    7 & 8) et son niveau de service (cf. recommandations 10 & 11).\n"
+subtitle2: Accès à la donnée
+principes2:
 - principe: 
   order: 
   title: Gestion des habilitations d’accès aux API à accès restreint
@@ -21,48 +49,7 @@ principes1:
     le consentement de l’utilisateur est nécessaire pour faire circuler la donnée
     : \n* Pour les personnes physiques : FranceConnect, AgentConnect et EduConnect\n*
     Pour les personnes morales : ProConnect \n\n"
-  title: Catalogue de données et services disponibles
-  content-text: |
-    #### Recommandation 1
-    En complément de la description (métadonnées), les données et services publiquement accessibles sont visibles sur un catalogue exposé sur Internet, référencé sur les moteurs de recherche usuels et intelligibles (la description des API au sein du catalogue ou de l’API manager propose un contenu destiné aux opérationnels, fonctionnels comme techniques).
-    La description d’une donnée doit référencer les API qui l’exposent. L’exemple présenté ci-dessous met ainsi en évidence les ressources accessibles sur la page présentant le jeu de données « base SIREN des entreprises et de leurs établissements ».
-    **Exemples : **
-    * api.gouv.fr vise à référencer toutes les API publiques de l’État
-    * API Impôt Particulier vise à référencer la donnée fiscale des particuliers
-- principe: 
-  order: 2
-  title: 
-  content-text: "### Recommandation 2\n\n**À chaque API exposée correspond :**\n*
-  content-text: "#### Recommandation 2\n\n**À chaque API exposée correspond :**\n*
-    Une documentation fonctionnelle présentant la sémantique des données, leur qualité
-    ainsi que leur source et leurs propriétés usuelles. Elle explicite également le
-    processus de demande d’accès et l’éligibilité des réutilisateurs. Si un catalogue
-    existe, un lien vers la description de la donnée est proposé ;\n* Une documentation
-    technique présentant les modalités d’interrogation et de récupération de la donnée
-    ; \n* Les conditions générales d’utilisation précisant les conditions contractuelles
-    d’accès à l’API.\n\nLa spécification d’une API respecte les standards répandus
-    d’accès à l’API.\n\n\nLa spécification d’une API respecte les standards répandus
-    au sein de la communauté (norme OpenAPI en 2022). Cette description ne doit pas
-    doublonner avec celle d’une donnée existante, ni ne s’affranchit de la nécessité
-    de décrire la donnée dans un catalogue de donnée (principe de découvrabilité).
-    Une API fournissant plusieurs jeux de données doit être décrite une seule fois
-    et intégrer les liens vers chaque description des données fournies.\n\n\nLa description
-    d’une API précise également les périodes de validité de l’interface (cf. recommandations
-    7 & 8) et son niveau de service (cf. recommandations 10 & 11).\n"
-- principe: 
-  order: 3
-  title: Accès à la donnée
-  content-text: "## Gestion des habilitations d’accès aux API à accès restreint\n###
-    Recommandation 3\n\nL’accès aux API à accès restreint se fait par demande du réutilisateur
-    (administrations, éditeurs, entreprises…).\n\nLes API peuvent s’appuyer sur un
-    mécanisme d’authentification de l’utilisateur final assurant une gestion des droits
-    au sein de la plateforme qui les fournit. Les dispositifs d’authentification des
-    citoyens, des agents ou des personnes morales conçus par les pouvoirs publics
-    pourront être utilisés, en particulier lorsque le consentement de l’utilisateur
-    est nécessaire pour faire circuler la donnée : \n* Pour les personnes physiques
-    : FranceConnect, AgentConnect et EduConnect\n* Pour les personnes morales : ProConnect
-    \n\n"
-- principe: 
+    - principe: 
   order: 4
   title: 
   content-text: |
@@ -80,30 +67,31 @@ principes1:
     contenant des données fictives pourrait être accessible au réutilisateur après
     demande d’un jeton au fournisseur de données, bien que cette pratique ne soit
     pas recommandée.  \n"
+subtitle3: Exploitation des données
+principes3:
 - principe: 
   order: 6
-  title: Exploitation des données
-  content-text: "## Utilisation des standards technologiques du moment pour faciliter
-    l’interopérabilité\n### Recommandation 6\n\nLes données et services sont exposés
-    selon des standards techniques communément partagés et adoptés.\n\n\nEn 2022,
-    le principe d’architecture et d’encodage le plus connu et pratiqué est le standard
-    REST Json pour les API synchrones. Il est utilisé par exemple pour les spécifications
-    du [standard OpenAPI](https://spec.openapis.org/oas/v3.1.0 \"standard OpenAPI
-    - Lien externe\") ou [les standards  « API » de l'OGC](https://ogcapi.ogc.org
-    \"les standards  « API » de l'OGC - Lien externe\"). Concernant les API asynchrones,
-    le principe AsyncAPI est le plus répandu.\n\n\n<p>\U0001F44D <b>Bonne pratique
-    :</b> L’approche <span lang=\"en\">« contract first »</span>, par opposition à
-    l’approche <span lang=\"en\">« code first »</span>, est recommandée dans le développement
-    de nouvelles interfaces car elle permet de les stabiliser et de faire travailler
-    plusieurs équipes en parallèle au sein d’une même architecture. </p>\n"
+  title: Utilisation des standards technologiques du moment pour faciliter l’interopérabilité
+  content-text: "#### Recommandation 6\n\nLes données et services sont exposés selon
+    des standards techniques communément partagés et adoptés.\n\n\nEn 2022, le principe
+    d’architecture et d’encodage le plus connu et pratiqué est le standard REST Json
+    pour les API synchrones. Il est utilisé par exemple pour les spécifications du
+    [standard OpenAPI](https://spec.openapis.org/oas/v3.1.0 \"standard OpenAPI - Lien
+    externe\") ou [les standards  « API » de l'OGC](https://ogcapi.ogc.org \"les standards
+    \ « API » de l'OGC - Lien externe\"). Concernant les API asynchrones, le principe
+    AsyncAPI est le plus répandu.\n\n\n<p>\U0001F44D <b>Bonne pratique :</b> L’approche
+    <span lang=\"en\">« contract first »</span>, par opposition à l’approche <span
+    lang=\"en\">« code first »</span>, est recommandée dans le développement de nouvelles
+    interfaces car elle permet de les stabiliser et de faire travailler plusieurs
+    équipes en parallèle au sein d’une même architecture. </p>\n"
 - principe: 
   order: 7
-  title: 
-  content-text: "## Stabilité du modèle des interfaces\n### Recommandation 7\n\nLes
-    données et services sont exposés selon une interface (modalités d’appel et structuration
-    des données échangées) définie pour une période donnée. \nLes développements Agile
-    ou nécessitant une évolution prévisible seront rendus identifiables et préciseront
-    une période de validité courte de 1 à 2 mois.\n"
+  title: Stabilité du modèle des interfaces
+  content-text: "#### Recommandation 7\n\nLes données et services sont exposés selon
+    une interface (modalités d’appel et structuration des données échangées) définie
+    pour une période donnée. \nLes développements Agile ou nécessitant une évolution
+    prévisible seront rendus identifiables et préciseront une période de validité
+    courte de 1 à 2 mois.\n"
 - principe: 
   order: 8
   title: 
@@ -123,11 +111,12 @@ principes1:
     l’ensemble des fonctionnalités de l’API (exemple : modification d’un schéma avec
     abandon de certaines informations), il sera indiqué quelles requêtes ou parties
     du protocole seront maintenues. \n"
+subtitle4: Qualité de service
+principes4:
 - principe: 
   order: 10
-  title: Qualité de service
+  title: Indications sur le temps de réponse et la tenue en charge
   content-text: |
-    ## Indications sur le temps de réponse et la tenue en charge
     ### Recommandation 10
     La charge admise par une API est consultable en toute transparence par les réutilisateurs :
     * Dans le cas d’une API authentifiée, la charge est exprimée sous forme de métriques propres à chaque réutilisateur, comme le nombre d’appels sur une période donnée par exemple ;
@@ -144,15 +133,15 @@ principes1:
     de leurs cas d’usages. \n"
 - principe: 
   order: 
-  title: 
+  title: Transparence sur la disponibilité de l’API
   content-text: |
-    ## Transparence sur la disponibilité de l’API
     ### Recommandation 12
+[> Lire notre article pour en savoir plus sur ce cadre de recommandations et son élaboration](https://numerique.gouv.fr/actualites/****")
     L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel sous forme d’une URL, indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requetable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
     **Exemple :**
     Le suivi de la disponibilité des API du bouquet API Entreprise est disponible sur  [status.entreprise.api.gouv.fr](https://status.entreprise.api.gouv.fr/ "status.entreprise.api.gouv.fr - Lien externe")
 - principe: 
-  order: 12
+  order: 13
   title: 
   content-text: "## Suivi des consommations des données et services\n### Recommandation
     13\nLes consommations des API sont enregistrées pour être ensuite restituées aux
@@ -160,20 +149,22 @@ principes1:
     **Bonne pratique :** les bénéficiaires ont accès à travers un portail à une restitution
     en temps réel ou ponctuelle de ces statistiques de consommation des données ainsi
     que celles des autres bénéficiaires.\n"
+subtitle5: Curation de la donnée
+principes5:
 - principe: 
   order: 14
-  title: Curation de la donnée
+  title: Mise en place d’une boucle de retour sur la qualité des données
   content-text: |
-    ## Mise en place d’une boucle de retour sur la qualité des données
     ### Recommandation 14
     Les réutilisateurs disposent d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des données vers leur gestionnaire ou via la description des données au sein de leur catalogue d’origine. Les réutilisateurs disposent également d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des API exposées vers leur fournisseur ou via la description de l’API.
     **Exemple :**
     Le dispositif Datapass pouvant être utilisé par les API en accès restreint permet de faire un retour sur la qualité des données disponibles via celles-ci.
+subtitle6: Modèle économique
+principes6:
 - principe: 
   order: 15
-  title: Modèle économique
+  title: Gratuité de la donnée et de l’exposition
   content-text: |
-    ## Gratuité de la donnée et de l’exposition
     ### Recommandation 15
     L’accès à la donnée et aux services doit être égalitaire. Les fournisseurs de données cherchent à adapter les modalités d’accès aux besoins des réutilisateurs.
 - principe: 
@@ -184,12 +175,6 @@ principes1:
     Les données ainsi que les API sont mises à disposition gratuitement, pour les réutilisateurs uniquement, sauf exceptions devant faire l’objet d’une justification par l’administration productrice.
     **Exemple :**
     Dans le cas où des usages nécessiteraient une qualité de service au-dessus de ce que la multitude d’utilisateurs a couramment besoin, comme par exemple une bande passante élevée pour de la donnée temps-réel volumineuse desservie sur quelques organismes, il sera possible d’organiser un système freemium avec une égalité d’accès à des APIs par défaut et des APIs faisant l’objet de redevances pour les usages les plus exigeants.
-subtitle2: Accès à la donnée
-principes2:
-- principe: 
-  order: 
-  title: 
-  content-text: 
 files:
 - file: "/uploads/10_principes_demarches-en-ligne.pdf"
   nom: Version imprimable des 10 principes
@@ -200,4 +185,3 @@ files:
 Field name: 
 layout: reco-api
 ---
-[> Lire notre article pour en savoir plus sur ce cadre de recommandations et son élaboration](https://numerique.gouv.fr/actualites/****")
