@@ -63,9 +63,9 @@ Les salons de discussion publics couvrent **vos centres d’intérêt profession
 
 Les **parlementaires et agents des parlements** ont également accès à la messagerie depuis mai 2020. [Consulter le guide utilisateur dédié - pdf, 860 ko](/uploads/tchap-prise-en-main_parlementaires.pdf) (disponible également en [version accessible - docx, 21 ko](/uploads/tchap-prise-en-main-parlementaires-version-accessible.docx)).
 
-Tchap est ouvert en expérimentation dans plusieurs **collectivités territoriales** depuis février 2020. Vous souhaitez rejoindre l’expérimentation et proposer Tchap aux agents de votre collectivité ? Contactez [tchap.dinum@modernisation.gouv.fr](mailto:tchap.dinum@modernisation.gouv.fr) pour plus d’information. Une convention devra être établie et signée par la direction générale des services, téléchargez pour cela le modèle de convention en format [Word (37 Ko)](/uploads/CONVENTION-DE-SERVICE-TCHAP.DOCX "Télécharger le modèle de convention au format Word - 37 Ko") ou [Open Office/odt (22 Ko)](/uploads/CONVENTION-DE-SERVICE-TCHAP.odt "Télécharger le modèle de convention au format Open Office/Odt - 22 Ko").
+Tchap est ouvert en expérimentation dans plusieurs **collectivités territoriales** depuis février 2020. Vous souhaitez rejoindre l’expérimentation et proposer Tchap aux agents de votre collectivité ? Contactez [tchap@beta.gouv.fr](mailto:tchap@beta.gouv.fr) pour plus d’information. Une convention devra être établie et signée par la direction générale des services, téléchargez pour cela le modèle de convention en format [Word (37 Ko)](/uploads/CONVENTION-DE-SERVICE-TCHAP.DOCX "Télécharger le modèle de convention au format Word - 37 Ko") ou [Open Office/odt (22 Ko)](/uploads/CONVENTION-DE-SERVICE-TCHAP.odt "Télécharger le modèle de convention au format Open Office/Odt - 22 Ko").
 
-En janvier 2021, Tchap compte **300 000 utilisateurs**.
+En juillet 2022, Tchap compte plus de **300 000 utilisateurs**.
 <br>
 <br>
 
@@ -98,10 +98,6 @@ Les fichiers partagés sont analysés avant leur remise au(x) destinataire(s) po
 {: .text-center .margin-bottom-0}
 <p class="text-center"><a href="https://tchap.gouv.fr/">sur tchap.gouv.fr<img src="/uploads/monitor.png" class='image-center' style='width: 10%;' alt="tchap.gouv.fr - Lien externe"></a></p>
 
-<div class="encadre noir">
-<p class="margin-top-3"><strong>Vous souhaitez faire la promotion de Tchap au sein de votre administration ?</strong></p>
-<p>Vous pouvez utiliser la vidéo présente en haut de cette page pour vos sites Intranet et lettres internes en l’embarquant directement <a href="https://dai.ly/k6fDaH7umhtmnavFIcf" title="Accéder à la page de cette vidéo, sur notre chaîne Dailymotion - Lien externe">depuis notre chaîne Dailymotion</a>. Nous pouvons aussi vous fournir le fichier vidéo pour que vous puissiez la diffuser par exemple sur les écrans dans les espaces communs de votre administration&nbsp;; pour cela, envoyez un courriel au service communication de la DINUM à <a href="mailto:communication.dinum@modernisation.gouv.fr" title="Envoyer un courriel à communication.dinum@modernisation.gouv.fr">communication.dinum@modernisation.gouv.fr</a>.</p></div>
-<br>
 *Tchap est un service interministériel créé et opéré par la direction interministérielle du numérique (DINUM), dans le cadre de **[TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public.* <br>
 *Tchap s’appuie sur un **logiciel open source** ([Riot](https://about.riot.im/ "Riot - Lien externe)) et un standard ouvert ([Matrix](https://matrix.org/ "Matrix - Lien externe")).*
 <br>
@@ -114,6 +110,6 @@ Pour toute sollicitation relative au déploiement de Tchap, vous pouvez contacte
 
 **Découvrir aussi :**
 
-* [Webconférence : quels outils pour les agents de l’État pendant la crise Covid-19 ?](/outils-agents/organiser-webconference-outils-agents-etat/)
+* [Webinaire de l’État](outils-agents/webinaire-etat/)
 
 * [Audioconférence de l’État](/outils-agents/audioconference-etat/)
