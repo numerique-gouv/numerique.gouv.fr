@@ -110,6 +110,6 @@ Pour toute sollicitation relative au déploiement de Tchap, vous pouvez contacte
 
 **Découvrir aussi :**
 
-* [Webinaire de l’État](outils-agents/webinaire-etat/)
+* [Webinaire de l’État](/outils-agents/webinaire-etat/)
 
 * [Audioconférence de l’État](/outils-agents/audioconference-etat/)
