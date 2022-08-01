@@ -26,10 +26,10 @@ principes1:
     La description d’une donnée doit référencer les API qui l’exposent. L’exemple ci-dessous présente les API disponibles pour la [« base Sirene des entreprises et de leurs établissements »](https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/ "base Sirene des entreprises et de leurs établissements - Lien externe"), sur la page correspondant à ce jeu de données sur data.gouv.fr :
     <br>
     <br>
-    <figure class='image-center' style='width: 50%;'>
+    <figure class='image-center' style='width: 75%;'>
       <img src="/uploads/capture-liste-api.png" alt="Capture de la page du jeu de données Base Sirene sur la plateforme data.gouv.fr, sur laquelle on voit la liste de 3 API disponibles pour ce jeu de données"/>
     </figure>
-    ![capture-liste-api.png]( ")
+
     **Exemples :**
     * api.gouv.fr vise à référencer toutes les API publiques de l’État
     * API Impôt Particulier vise à référencer la donnée fiscale des particuliers
