@@ -22,7 +22,8 @@ principes1:
     En complément de la description (métadonnées), les données et services publiquement accessibles sont visibles sur un catalogue exposé sur Internet, référencé sur les moteurs de recherche usuels et intelligibles (la description des API au sein du catalogue ou de l’API manager propose un contenu destiné aux opérationnels, fonctionnels comme techniques).
 
     La description d’une donnée doit référencer les API qui l’exposent. L’exemple présenté ci-dessous met ainsi en évidence les ressources accessibles sur la page présentant le jeu de données « base SIREN des entreprises et de leurs établissements ».
-
+    <br>
+    <br>
 
     **Exemples :**
     * api.gouv.fr vise à référencer toutes les API publiques de l’État
@@ -41,9 +42,9 @@ principes1:
 
 
     La spécification d’une API respecte les standards répandus au sein de la communauté (norme OpenAPI en 2022). Cette description ne doit pas doublonner avec celle d’une donnée existante, ni ne s’affranchit de la nécessité de décrire la donnée dans un catalogue de donnée (principe de découvrabilité). Une API fournissant plusieurs jeux de données doit être décrite une seule fois et intégrer les liens vers chaque description des données fournies.
-
-
-
+    <br>
+    <br>
+    <br>
     La description d’une API précise également les périodes de validité de l’interface (cf. recommandations 7 & 8) et son niveau de service (cf. recommandations 10 & 11).
 subtitle2: Accès à la donnée
 principes2:
