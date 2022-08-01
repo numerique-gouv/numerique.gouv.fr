@@ -23,10 +23,13 @@ principes1:
     <br>
     <br>
 
-    La description d’une donnée doit référencer les API qui l’exposent. L’exemple présenté ci-dessous met ainsi en évidence les ressources accessibles sur la page présentant le jeu de données « base SIREN des entreprises et de leurs établissements ».
+    La description d’une donnée doit référencer les API qui l’exposent. L’exemple présenté ci-dessous met ainsi en évidence les ressources accessibles sur la page présentant le jeu de données « base Sirene des entreprises et de leurs établissements » :
     <br>
     <br>
-
+    <figure class='image-center' style='width: 50%;'>
+      <img src="/uploads/capture-liste-api.png" alt="Capture de la page du jeu de données Base Sirene sur la plateforme data.gouv.fr, sur laquelle on voit la liste de 3 API disponibles pour ce jeu de données"/>
+    </figure>
+    ![capture-liste-api.png]( ")
     **Exemples :**
     * api.gouv.fr vise à référencer toutes les API publiques de l’État
     * API Impôt Particulier vise à référencer la donnée fiscale des particuliers
