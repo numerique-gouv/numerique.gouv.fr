@@ -2,19 +2,16 @@
 title: Cadre de recommandations pour le partage de données par API  dans l’administration
 permalink: "/publications/recommandations-partage-donnees-api/"
 position: 20
-chapeau-text: "Ce \nEn tant qu’administration, comment bien partager ses données par
-  API pour en favoriser la réutilisation ? La DINUM publie un ensemble de recommandations
-  et de bonnes pratiques établies avec le réseau des administrateurs ministériels
-  des données, des algorithmes et des codes sources."
+chapeau-text: 'Élaboré par la DINUM avec les administrateurs ministériels des données,
+  des algorithmes et des codes sources (AMDAC), ce cadre de recommandations précise
+  le cadre d’action et identifie les bonnes pratiques à poursuivre en matière d’usage
+  et d’exposition d’API par les administrations. L''objectif : favoriser le partage
+  de données entre elles et ainsi faciliter les démarches des usagers.'
 une-ou-diaporama:
 - image: "/assets/img/main/image_DINSIC.jpg"
 files:
-- file: "/uploads/10_principes_demarches-en-ligne.pdf"
-  nom: Version imprimable des 10 principes
-- file: "/uploads/Affiche-10-principes_HD.PDF"
-  nom: Affiche des 10 principes (HD)
-- file: "/uploads/10_principes_description-textuelle.pdf"
-  nom: Description textuelle de l'affiche
+- file: "/uploads/DINUM_Cadre-de-recommandations_API.pdf"
+  nom: Version imprimable du cadre de recommandations
 subtitle1: Découvrabilité
 principes1:
 - principe: 
@@ -174,8 +171,7 @@ principes4:
     Les consommations des API sont enregistrées pour être ensuite restituées aux bénéficiaires (réutilisateur, producteur, API managers ou exploitants).
 
 
-    **Bonne pratique** : les bénéficiaires ont accès à travers un portail à une restitution en temps réel ou ponctuelle de
-    ces statistiques de consommation des données ainsi que celles des autres bénéficiaires.
+    **Bonne pratique** : les bénéficiaires ont accès à travers un portail à une restitution en temps réel ou ponctuelle de ces statistiques de consommation des données ainsi que celles des autres bénéficiaires.
 subtitle5: Curation de la donnée
 principes5:
 - principe: 
@@ -214,4 +210,4 @@ principes6:
 layout: reco-api
 ---
 
-> En savoir plus sur l'élaboration de ces recommandations 
+[> En savoir plus sur l'élaboration de ces recommandations ](/actualites/partage-de-donnees-au-sein-de-ladministration-via-api-recommandations-et-bonnes-pratiques/)
