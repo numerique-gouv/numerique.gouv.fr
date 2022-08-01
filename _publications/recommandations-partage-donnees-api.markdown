@@ -1,8 +1,11 @@
 ---
 title: Cadre de recommandations pour le partage de données par API  dans l’administration
-  -test
-permalink: "/publications/recommandations-partage-donnees-api-test/"
+permalink: "/publications/recommandations-partage-donnees-api/"
 position: 20
+chapeau-text: "Ce \nEn tant qu’administration, comment bien partager ses données par
+  API pour en favoriser la réutilisation ? La DINUM publie un ensemble de recommandations
+  et de bonnes pratiques établies avec le réseau des administrateurs ministériels
+  des données, des algorithmes et des codes sources."
 une-ou-diaporama:
 - image: "/assets/img/main/image_DINSIC.jpg"
 files:
