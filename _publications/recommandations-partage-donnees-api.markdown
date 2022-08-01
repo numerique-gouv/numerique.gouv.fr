@@ -18,7 +18,7 @@ principes1:
   order: 1
   title: Catalogue de données et services disponibles
   content-text: |-
-    #### Recommandation 1
+    #### **Recommandation 1**
     En complément de la description (métadonnées), les données et services publiquement accessibles sont visibles sur un catalogue exposé sur Internet, référencé sur les moteurs de recherche usuels et intelligibles (la description des API au sein du catalogue ou de l’API manager propose un contenu destiné aux opérationnels, fonctionnels comme techniques).
 
     La description d’une donnée doit référencer les API qui l’exposent. L’exemple présenté ci-dessous met ainsi en évidence les ressources accessibles sur la page présentant le jeu de données « base SIREN des entreprises et de leurs établissements ».
@@ -31,7 +31,7 @@ principes1:
   order: 2
   title: 
   content-text: |-
-    #### Recommandation 2
+    #### **Recommandation 2**
 
     **À chaque API exposée correspond :**
 
@@ -51,7 +51,7 @@ principes2:
   order: 3
   title: Gestion des habilitations d’accès aux API à accès restreint
   content-text: |-
-    #### Recommandation 4
+    #### **Recommandation 3**
 
     L’accès aux API à accès restreint se fait par demande du réutilisateur (administrations, éditeurs, entreprises…).
 
@@ -63,14 +63,14 @@ principes2:
   order: 4
   title: 
   content-text: |-
-    #### Recommandation 4
+    #### **Recommandation 4**
 
     Si le droit d’accès n’est pas préétabli, le processus de demande se fait de la manière la plus simple possible pour le réutilisateur. Dans le cadre de demandes d’accès prévues par la loi et si le demandeur est éligible, une réponse sera transmise aux réutilisateurs dans un délai recommandé de 15 jours calendaires. Le code des relations entre le public et l’administration prévoit un délai légal maximum de 30 jours pour répondre à une demande ([article R311-13](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031370409 "article R311-13 - lien externe")).
 - principe: 
   order: 5
   title: Bac à sable d'expérimentation public
   content-text: |-
-    #### Recommandation 5
+    #### **Recommandation 5**
 
     À chaque API devrait correspondre une version « bac à sable », accessible en fonction du caractère des données ouvertes ou en accès restreint, exposant une version fictive des données et présentant les mêmes modalités techniques d’exposition.
 
@@ -83,7 +83,7 @@ principes3:
   order: 6
   title: Utilisation des standards technologiques du moment pour faciliter l’interopérabilité
   content-text: |-
-    #### Recommandation 6
+    #### **Recommandation 6**
 
     Les données et services sont exposés selon des standards techniques communément partagés et adoptés.
 
@@ -96,7 +96,7 @@ principes3:
   order: 7
   title: Stabilité du modèle des interfaces
   content-text: |-
-    #### Recommandation 7
+    #### **Recommandation 7**
     Les données et services sont exposés selon une interface (modalités d’appel et structuration des données échangées) définie pour une période donnée.
 
 
@@ -105,7 +105,7 @@ principes3:
   order: 8
   title: 
   content-text: |-
-    #### Recommandation 8
+    #### **Recommandation 8**
 
     Ces périodes de validité de l’interface sont explicitement présentées aux réutilisateurs dans la documentation. Les modifications prévisibles s’accompagneront de l’actualisation préalable des informations descriptives intégrant des liens vers des communications et guides permettant aux réutilisateurs d’anticiper les évolutions. Les réutilisateurs pourront basculer durant une période définie et communiquée sur la version modifiée de l’interface. Durant ce laps de temps, deux interfaces cohabiteront, la version précédente dépréciée et la nouvelle version.
 
@@ -116,7 +116,7 @@ principes3:
   order: 9
   title: 
   content-text: |-
-    #### Recommandation 9
+    #### **Recommandation 9**
 
     Toute modification non rétro-compatible impose un versioning en tant que version majeure et une cohabitation de l’ancien et du nouveau modèle pendant une période de recouvrement. Celle-ci doit être communiquée à l’avance en diffusant le nouveau contrat d’interface de l’API. À défaut d’information préalable ou d’accord des réutilisateurs, la période de cohabitation sera comprise entre 6 mois et 1 an.
 
@@ -129,7 +129,7 @@ principes4:
   order: 10
   title: Indications sur le temps de réponse et la tenue en charge
   content-text: |-
-    #### Recommandation 10
+    #### **Recommandation 10**
 
     La charge admise par une API est consultable en toute transparence par les réutilisateurs :
 
@@ -147,14 +147,14 @@ principes4:
   order: 11
   title: 
   content-text: |-
-    #### Recommandation 11
+    #### **Recommandation 11**
 
     Les temps de réponse moyens et maximaux sont présentés dans la documentation de l’API. Les temps de réponse mesurés ou estimés sont fournis à titre indicatif et non contractuel. Tout autre démarche relève d’un d’accord entre le fournisseur d’API et les réutilisateurs en fonction de leurs cas d’usages.
 - principe: 
   order: 12
   title: Transparence sur la disponibilité de l’API
   content-text: |-
-    #### Recommandation 12
+    #### **Recommandation 12**
 
     L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel sous forme d’une URL, indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requetable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
 
@@ -167,7 +167,7 @@ principes4:
   order: 13
   title: Suivi des consommations des données et services
   content-text: |-
-    #### Recommandation 13
+    #### **Recommandation 13**
     Les consommations des API sont enregistrées pour être ensuite restituées aux bénéficiaires (réutilisateur, producteur, API managers ou exploitants).
 
 
@@ -178,7 +178,7 @@ principes5:
   order: 14
   title: Mise en place d’une boucle de retour sur la qualité des données
   content-text: |-
-    #### Recommandation 14
+    #### **Recommandation 14**
 
     Les réutilisateurs disposent d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des données vers leur gestionnaire ou via la description des données au sein de leur catalogue d’origine. Les réutilisateurs disposent également d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des API exposées vers leur fournisseur ou via la description de l’API.
 
@@ -193,14 +193,14 @@ principes6:
   order: 15
   title: Gratuité de la donnée et de l’exposition
   content-text: |-
-    #### Recommandation 15
+    #### **Recommandation 15**
 
     L’accès à la donnée et aux services doit être égalitaire. Les fournisseurs de données cherchent à adapter les modalités d’accès aux besoins des réutilisateurs.
 - principe: 
   order: 16
   title: 
   content-text: |-
-    #### Recommandation 16
+    #### **Recommandation 16**
 
     Les données ainsi que les API sont mises à disposition gratuitement, pour les réutilisateurs uniquement, sauf exceptions devant faire l’objet d’une justification par l’administration productrice.
 
