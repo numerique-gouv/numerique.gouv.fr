@@ -56,7 +56,11 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chef/fe de projet : Hub d'échange de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--hub-d-echange-de-l-etat-cdd-3-ans-renouvelable-hf-reference-2022-960663/ "Chef-fe de projet : Hub d'échange de l'Etat H/F - Lien externe")**
+* **[Chargé/e d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat---cdd-3-ans-renouvela-hf-reference-2022-960797/ "Chargé-e d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé/e de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
@@ -72,11 +76,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé/e d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat---cdd-3-ans-renouvela-hf-reference-2022-960797/ "Chargé-e d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé/e de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
+* **[Chef/fe de projet : Hub d'échange de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--hub-d-echange-de-l-etat-cdd-3-ans-renouvelable-hf-reference-2022-960663/ "Chef-fe de projet : Hub d'échange de l'Etat H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
