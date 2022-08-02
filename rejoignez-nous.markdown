@@ -80,10 +80,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé/e de mission juriste H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-juriste-hf-reference-2022-938121/ "Chargé/e de mission juriste H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 <!--
 > ### Talents du numérique : l’État recrute !
 > <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
