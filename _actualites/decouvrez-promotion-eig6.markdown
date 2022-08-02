@@ -1,6 +1,5 @@
 ---
-title: 'Entrepreneurs d’intérêt général : découvrez la 6ème promotion du programme
-  !'
+title: 'Entrepreneurs d’intérêt général : découvrez la 6e promotion du programme !'
 date: 2022-08-02 10:57:00 +02:00
 categories:
 - Article
