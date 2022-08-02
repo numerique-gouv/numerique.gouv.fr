@@ -80,10 +80,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé/e de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Chargé/e de mission juriste H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-juriste-hf-reference-2022-938121/ "Chargé/e de mission juriste H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
