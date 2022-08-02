@@ -55,8 +55,10 @@ subtitle2: Accès à la donnée
 principes2:
 - principe: 
   order: 3
-  title: Gestion des habilitations d’accès aux API à accès restreint
+  title: 
   content-text: |-
+    <div class="h2 text-center"> Accès à la donnée </div>
+    <h3>Gestion des habilitations d’accès aux API à accès restreint</h3>
     #### **Recommandation 3**
 
     L’accès aux API à accès restreint se fait par demande du réutilisateur (administrations, éditeurs, entreprises…).
