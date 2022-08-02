@@ -9,8 +9,8 @@ tags:
 - EIG
 - Entrepreneurs d'Intérêt Général
 chapeau-text: Cinq mois après le lancement de son appel à candidatures, 300 dossiers
-  reçus et une centaine d’entretiens plus tard, notre programme Entrepreneurs d’intérêt
-  général est fier de vous présenter la composition de sa sixième promotion.
+  reçus et une centaine d’entretiens plus tard, le programme est fier de vous présenter
+  la composition de sa sixième promotion.
 une-ou-diaporama:
 - image: "/uploads/Annonce-Promo6-1024x576.jpg"
   alternative-textuelle: "Entrepreneurs d'intérêt général \nDécouvrez la 6ème promotion
