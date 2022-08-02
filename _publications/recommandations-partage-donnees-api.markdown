@@ -223,7 +223,7 @@ principes6:
     **Exemple :**
 
     Dans le cas où des usages nécessiteraient une qualité de service au-dessus de ce que la multitude d’utilisateurs a couramment besoin, comme par exemple une bande passante élevée pour de la donnée temps-réel volumineuse desservie sur quelques organismes, il sera possible d’organiser un système freemium avec une égalité d’accès à des APIs par défaut et des APIs faisant l’objet de redevances pour les usages les plus exigeants.
-layout: reco-api-1liste
+layout: reco-api
 ---
 
 [> En savoir plus sur l'élaboration de ces recommandations ](/actualites/partage-de-donnees-au-sein-de-ladministration-via-api-recommandations-et-bonnes-pratiques/)
