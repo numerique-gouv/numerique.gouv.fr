@@ -2,6 +2,12 @@
 title: 'Entrepreneurs d’intérêt général : découvrez la 6ème promotion du programme
   !'
 date: 2022-08-02 10:57:00 +02:00
+categories:
+- Article
+tags:
+- Etalab
+- EIG
+- Entrepreneurs d'Intérêt Général
 chapeau-text: Cinq mois après le lancement de son appel à candidatures, 300 dossiers
   reçus et une centaine d’entretiens plus tard, notre programme Entrepreneurs d’intérêt
   général est fier de vous présenter la composition de sa sixième promotion.
