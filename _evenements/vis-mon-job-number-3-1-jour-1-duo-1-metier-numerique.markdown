@@ -1,6 +1,7 @@
 ---
 title: 'Vis mon job #3 : 1 jour, 1 duo, 1 métier numérique'
 date: 2022-08-03 12:18:00 +02:00
+published: false
 categories:
 - Forum
 tags:
