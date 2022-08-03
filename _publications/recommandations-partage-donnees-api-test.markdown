@@ -162,7 +162,7 @@ principes:
     <h3>Transparence sur la disponibilité de l’API</h3>
     #### **Recommandation 12**
 
-    L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel sous la forme d’une URL, indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requêtable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
+    L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel via une URL indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requêtable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
     <br>
     <br>
 
