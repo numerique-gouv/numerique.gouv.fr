@@ -53,7 +53,7 @@ principes1:
     La description d’une API précise également les périodes de validité de l’interface (cf. recommandations 7 & 8) et son niveau de service (cf. recommandations 10 & 11).
 - principe: 
   order: 3
-  title:
+  title: 
   content-text: |-
     <div class="h2 text-center"> Accès à la donnée </div>
     <h3>Gestion des habilitations d’accès aux API à accès restreint</h3>
