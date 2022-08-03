@@ -1,5 +1,6 @@
 ---
 title: Cadre de recommandations pour le partage de données par API  dans l’administration
+  OLD
 permalink: "/publications/recommandations-partage-donnees-api-old/"
 published: false
 position: 20

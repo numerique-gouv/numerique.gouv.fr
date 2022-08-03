@@ -1,6 +1,6 @@
 ---
 title: Cadre de recommandations pour le partage de données par API  dans l’administration
-permalink: "/publications/recommandations-partage-donnees-api-test/"
+permalink: "/publications/recommandations-partage-donnees-api/"
 position: 21
 chapeau-text: 'Élaboré par la DINUM avec les administrateurs ministériels des données,
   des algorithmes et des codes sources (AMDAC), ce cadre de recommandations précise
@@ -216,3 +216,4 @@ principes:
 layout: reco-api-new
 ---
 
+[> En savoir plus sur l'élaboration de ces recommandations ](/actualites/partage-de-donnees-au-sein-de-ladministration-via-api-recommandations-et-bonnes-pratiques/)
