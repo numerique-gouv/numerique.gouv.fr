@@ -192,6 +192,14 @@ principes:
     **Exemple :**
 
     Le dispositif Datapass pouvant être utilisé par les API en accès restreint permet de faire un retour sur la qualité des données disponibles via celles-ci.
+- principe: 
+  order: 15
+  content-text: |-
+    <div class="h2 text-center">Modèle économique</div>
+    <h3>Gratuité de la donnée et de l’exposition</h3>
+    #### **Recommandation 15**
+
+    L’accès à la donnée et aux services doit être égalitaire. Les fournisseurs de données cherchent à adapter les modalités d’accès aux besoins des réutilisateurs.
 layout: reco-api-new
 ---
 
