@@ -12,6 +12,8 @@ chapeau-text: En tant qu’administration, comment bien partager ses données pa
   pour en favoriser la réutilisation ? La DINUM publie un ensemble de recommandations
   et de bonnes pratiques établies avec le réseau des administrateurs ministériels
   des données, des algorithmes et des codes sources.
+une-ou-diaporama:
+- image: "/uploads/2022_08_03-cadre-reco-partage-Donnees-api_Actu.png"
 ---
 
 Depuis plus d’un an, les données, algorithmes et codes sources font l’objet d’[une mobilisation sans précédent](https://www.numerique.gouv.fr/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/) au sein de l’État.
