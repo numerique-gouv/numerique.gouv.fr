@@ -2,12 +2,12 @@
 title: 'Partage de données au sein de l’administration via API : recommandations et
   bonnes pratiques'
 date: 2022-07-27 16:48:00 +02:00
-published: false
 categories:
 - Article
 tags:
 - API
-- Ouverture des données publiques
+- Partage de données
+- Données publiques
 chapeau-text: En tant qu’administration, comment bien partager ses données par API
   pour en favoriser la réutilisation ? La DINUM publie un ensemble de recommandations
   et de bonnes pratiques établies avec le réseau des administrateurs ministériels
