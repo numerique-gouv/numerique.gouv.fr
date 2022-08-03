@@ -181,3 +181,4 @@ principes:
     **Bonne pratique** : les bénéficiaires ont accès à travers un portail à une restitution en temps réel ou ponctuelle de ces statistiques de consommation des données ainsi que celles des autres bénéficiaires.
 layout: reco-api-new
 ---
+
