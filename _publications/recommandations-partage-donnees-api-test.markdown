@@ -110,7 +110,7 @@ principes:
     <br>
     <br>
 
-    Les développements agile ou nécessitant une évolution prévisible seront rendus identifiables et préciseront une période de validité courte de 1 à 2 mois.
+    Les développements agiles ou nécessitant une évolution prévisible seront rendus identifiables et préciseront une période de validité courte de 1 à 2 mois.
 - principe: 
   order: 8
   content-text: |-
@@ -155,14 +155,14 @@ principes:
   content-text: |-
     #### **Recommandation 11**
 
-    Les temps de réponse moyens et maximaux sont présentés dans la documentation de l’API. Les temps de réponse mesurés ou estimés sont fournis à titre indicatif et non contractuel. Tout autre démarche relève d’un d’accord entre le fournisseur d’API et les réutilisateurs en fonction de leurs cas d’usages.
+    Les temps de réponse moyens et maximaux sont présentés dans la documentation de l’API. Les temps de réponse mesurés ou estimés sont fournis à titre indicatif et non contractuel. Toute autre démarche relève d’un d’accord entre le fournisseur d’API et les réutilisateurs en fonction de leurs cas d’usages.
 - principe: 
   order: 12
   content-text: |-
     <h3>Transparence sur la disponibilité de l’API</h3>
     #### **Recommandation 12**
 
-    L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel sous forme d’une URL, indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requetable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
+    L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel sous la forme d’une URL, indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requêtable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
     <br>
     <br>
 
