@@ -152,3 +152,4 @@ principes:
     * Dans le cas d’une API sujette à des fortes évolutions en fonction de la saisonnalité, le temps de réponse maximal sera précisé ainsi que les risques de rupture de service.
 layout: reco-api
 ---
+
