@@ -169,6 +169,16 @@ principes:
     **Exemple :**
 
     Le suivi de la disponibilité des API du bouquet API Entreprise est disponible sur [status.entreprise.api.gouv.fr](https://status.entreprise.api.gouv.fr/ "status.entreprise.api.gouv.fr - lien externe")
+- principe: 
+  order: 13
+  content-text: |-
+     <h3>Suivi des consommations des données et services</h3>
+    #### **Recommandation 13**
+    Les consommations des API sont enregistrées pour être ensuite restituées aux bénéficiaires (réutilisateur, producteur, API managers ou exploitants).
+    <br>
+    <br>
+
+    **Bonne pratique** : les bénéficiaires ont accès à travers un portail à une restitution en temps réel ou ponctuelle de ces statistiques de consommation des données ainsi que celles des autres bénéficiaires.
 layout: reco-api-new
 ---
 
