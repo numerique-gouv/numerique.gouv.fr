@@ -1,7 +1,7 @@
 ---
 title: 'Partage de données au sein de l’administration via API : recommandations et
   bonnes pratiques'
-date: 2022-07-27 16:48:00 +02:00
+date: 2022-08-03 16:48:00 +02:00
 categories:
 - Article
 tags:
