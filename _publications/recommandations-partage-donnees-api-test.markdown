@@ -216,4 +216,6 @@ principes:
 layout: reco-api-new
 ---
 
-[> En savoir plus sur l'élaboration de ces recommandations ](/actualites/partage-de-donnees-au-sein-de-ladministration-via-api-recommandations-et-bonnes-pratiques/)
+<br>
+<br>
+<div class="lien-important"><p><a href="/actualites/partage-de-donnees-au-sein-de-ladministration-via-api-recommandations-et-bonnes-pratiques/"> En savoir plus sur l'élaboration de ces recommandations</a></p></div>
