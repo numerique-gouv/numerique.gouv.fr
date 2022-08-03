@@ -34,24 +34,6 @@ principes1:
     * api.gouv.fr vise à référencer toutes les API publiques de l’État
     * API Impôt Particulier vise à référencer la donnée fiscale des particuliers
 - principe: 
-  order: 2
-  title: 
-  content-text: |-
-    #### **Recommandation 2**
-
-    **À chaque API exposée correspond :**
-
-    * Une documentation fonctionnelle présentant la sémantique des données, leur qualité ainsi que leur source et leurs propriétés usuelles. Elle explicite également le processus de demande d’accès et l’éligibilité des réutilisateurs. Si un catalogue existe, un lien vers la description de la donnée est proposé ;
-    * Une documentation technique présentant les modalités d’interrogation et de récupération de la donnée ;
-    * Les conditions générales d’utilisation précisant les conditions contractuelles d’accès à l’API.
-
-
-    La spécification d’une API respecte les standards répandus au sein de la communauté (norme OpenAPI en 2022). Cette description ne doit pas doublonner avec celle d’une donnée existante, ni ne s’affranchit de la nécessité de décrire la donnée dans un catalogue de donnée (principe de découvrabilité). Une API fournissant plusieurs jeux de données doit être décrite une seule fois et intégrer les liens vers chaque description des données fournies.
-    <br>
-    <br>
-
-    La description d’une API précise également les périodes de validité de l’interface (cf. recommandations 7 & 8) et son niveau de service (cf. recommandations 10 & 11).
-    - principe: 
   order: 3
   title: Gestion des habilitations d’accès aux API à accès restreint
   content-text: |-
@@ -86,7 +68,6 @@ principes1:
     <br>
 
     Pour les API ouvertes, le bac à sable potentiel est accessible au grand public, sans demande préalable du réutilisateur. Pour les API à accès restreint, le bac à sable contenant des données fictives pourrait être accessible au réutilisateur après demande d’un jeton au fournisseur de données, bien que cette pratique ne soit pas recommandée.
-
 subtitle2: Accès à la donnée
 principes2:
 - principe: 
