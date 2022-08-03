@@ -40,6 +40,14 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Directeur de projets numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeur-de-projets-numeriques-deux-postes-a-pouvoircdd-3-ans-renouvelable-une-fois-hf-reference-2022-975781/ "Directeur de projets numériques H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé/e de mission Campus numérique H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-campus-numerique-cdd-3-ans-renouvelable-hf-reference-2022-975787/ "Chargé/e de mission Campus numérique H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Ingénieur/e Réseau - Chargé/e de la relation fournisseurs H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-la-relation-fournisseurs-cdd-3ans-hf-reference-2022-971729/ "Ingénieur-e Réseau - Chargé-e de la relation fournisseurs H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
