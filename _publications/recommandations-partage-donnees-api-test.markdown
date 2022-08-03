@@ -8,7 +8,7 @@ chapeau-text: 'Élaboré par la DINUM avec les administrateurs ministériels des
   et d’exposition d’API par les administrations. L''objectif : favoriser le partage
   de données entre elles et ainsi faciliter les démarches des usagers.'
 une-ou-diaporama:
-- image: "/assets/img/main/image_DINSIC.jpg"
+- image: "/uploads/20220803_Bandeau_cadre-reco-partage-Donnees-api_1635x345.png"
 files:
 - file: "/uploads/DINUM_Cadre-de-recommandations_API.pdf"
   nom: Version imprimable du cadre de recommandations
@@ -218,4 +218,4 @@ layout: reco-api-new
 
 <br>
 <br>
-<div class="lien-important"><p><a href="/actualites/partage-de-donnees-au-sein-de-ladministration-via-api-recommandations-et-bonnes-pratiques/"> En savoir plus sur l'élaboration de ces recommandations</a></p></div>
+<div class="lien-important"><p><a href="/actualites/partage-de-donnees-administration-via-api-recommandations-et-bonnes-pratiques/"> En savoir plus sur l'élaboration de ces recommandations</a></p></div>

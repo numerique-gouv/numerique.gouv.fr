@@ -41,7 +41,7 @@ Sa vocation : accompagner et structurer le développement d’API par les admini
 
 Car malgré le contexte porteur et l’augmentation du nombre d’API disponibles, le développement du partage de données entre administrations rencontre encore des freins sur le terrain.
 
-Cette situation se traduit dans [l’observatoire de la qualité des démarches en ligne](https://observatoire.numerique.gouv.fr/) : à ce jour, sur les 200 démarches numérisées les plus importantes de l’Etat, 76 demandent encore à l’usager un effort modéré voire important de saisie de données déjà connues de l’administration. 
+Cette situation se traduit dans [l’observatoire de la qualité des démarches en ligne](https://observatoire.numerique.gouv.fr/) : à ce jour, sur les 200 démarches numérisées les plus importantes de l’État, 76 demandent encore à l’usager un effort modéré voire important de saisie de données déjà connues de l’administration. 
 
 Pour étendre l’usage des API et augmenter leur impact sur la transformation de l’action publique, la DINUM a ainsi identifié le besoin d’améliorer la capacité à mettre à la disposition des réutilisateurs des données répondant à leurs usages métiers, la qualité des données transmises et la qualité de service offerte.
 
