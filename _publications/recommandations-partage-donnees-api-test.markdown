@@ -200,6 +200,19 @@ principes:
     #### **Recommandation 15**
 
     L’accès à la donnée et aux services doit être égalitaire. Les fournisseurs de données cherchent à adapter les modalités d’accès aux besoins des réutilisateurs.
+- principe: 
+  order: 16
+  title: 
+  content-text: |-
+    #### **Recommandation 16**
+
+    Les données ainsi que les API sont mises à disposition gratuitement, pour les réutilisateurs uniquement, sauf exceptions devant faire l’objet d’une justification par l’administration productrice.
+    <br>
+    <br>
+
+    **Exemple :**
+
+    Dans le cas où des usages nécessiteraient une qualité de service au-dessus de ce que la multitude d’utilisateurs a couramment besoin, comme par exemple une bande passante élevée pour de la donnée temps-réel volumineuse desservie sur quelques organismes, il sera possible d’organiser un système freemium avec une égalité d’accès à des APIs par défaut et des APIs faisant l’objet de redevances pour les usages les plus exigeants.
 layout: reco-api-new
 ---
 
