@@ -150,6 +150,69 @@ principes:
 
 
     * Dans le cas d’une API sujette à des fortes évolutions en fonction de la saisonnalité, le temps de réponse maximal sera précisé ainsi que les risques de rupture de service.
-layout: reco-api-new
----
+- principe: 
+  order: 11
+  content-text: |-
+    #### **Recommandation 11**
 
+    Les temps de réponse moyens et maximaux sont présentés dans la documentation de l’API. Les temps de réponse mesurés ou estimés sont fournis à titre indicatif et non contractuel. Tout autre démarche relève d’un d’accord entre le fournisseur d’API et les réutilisateurs en fonction de leurs cas d’usages.
+- principe: 
+  order: 12
+  title: 
+  content-text: |-
+    <h3>Transparence sur la disponibilité de l’API</h3>
+    #### **Recommandation 12**
+
+    L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel sous forme d’une URL, indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requetable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
+    <br>
+    <br>
+
+    **Exemple :**
+
+    Le suivi de la disponibilité des API du bouquet API Entreprise est disponible sur [status.entreprise.api.gouv.fr](https://status.entreprise.api.gouv.fr/ "status.entreprise.api.gouv.fr - lien externe")
+- principe: 
+  order: 13
+  content-text: |-
+     <h3>Suivi des consommations des données et services</h3>
+    #### **Recommandation 13**
+    Les consommations des API sont enregistrées pour être ensuite restituées aux bénéficiaires (réutilisateur, producteur, API managers ou exploitants).
+    <br>
+    <br>
+
+    **Bonne pratique** : les bénéficiaires ont accès à travers un portail à une restitution en temps réel ou ponctuelle de ces statistiques de consommation des données ainsi que celles des autres bénéficiaires.
+- principe: 
+  order: 14
+  content-text: |-
+    <div class="h2 text-center">Curation de la donnée</div>
+    <h3>Mise en place d’une boucle de retour sur la qualité des données</h3>
+    #### **Recommandation 14**
+
+    Les réutilisateurs disposent d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des données vers leur gestionnaire ou via la description des données au sein de leur catalogue d’origine. Les réutilisateurs disposent également d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des API exposées vers leur fournisseur ou via la description de l’API.
+    <br>
+    <br>
+    **Exemple :**
+
+    Le dispositif Datapass pouvant être utilisé par les API en accès restreint permet de faire un retour sur la qualité des données disponibles via celles-ci.
+- principe: 
+  order: 15
+  content-text: |-
+    <div class="h2 text-center">Modèle économique</div>
+    <h3>Gratuité de la donnée et de l’exposition</h3>
+    #### **Recommandation 15**
+
+    L’accès à la donnée et aux services doit être égalitaire. Les fournisseurs de données cherchent à adapter les modalités d’accès aux besoins des réutilisateurs.
+- principe: 
+  order: 16
+  title: 
+  content-text: |-
+    #### **Recommandation 16**
+
+    Les données ainsi que les API sont mises à disposition gratuitement, pour les réutilisateurs uniquement, sauf exceptions devant faire l’objet d’une justification par l’administration productrice.
+    <br>
+    <br>
+
+    **Exemple :**
+
+    Dans le cas où des usages nécessiteraient une qualité de service au-dessus de ce que la multitude d’utilisateurs a couramment besoin, comme par exemple une bande passante élevée pour de la donnée temps-réel volumineuse desservie sur quelques organismes, il sera possible d’organiser un système freemium avec une égalité d’accès à des APIs par défaut et des APIs faisant l’objet de redevances pour les usages les plus exigeants.
+layout: dix-principes
+---
