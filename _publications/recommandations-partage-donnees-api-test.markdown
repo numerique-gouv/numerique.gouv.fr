@@ -179,6 +179,19 @@ principes:
     <br>
 
     **Bonne pratique** : les bénéficiaires ont accès à travers un portail à une restitution en temps réel ou ponctuelle de ces statistiques de consommation des données ainsi que celles des autres bénéficiaires.
+- principe: 
+  order: 14
+  content-text: |-
+    <div class="h2 text-center">Curation de la donnée</div>
+    <h3>Mise en place d’une boucle de retour sur la qualité des données</h3>
+    #### **Recommandation 14**
+
+    Les réutilisateurs disposent d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des données vers leur gestionnaire ou via la description des données au sein de leur catalogue d’origine. Les réutilisateurs disposent également d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des API exposées vers leur fournisseur ou via la description de l’API.
+    <br>
+    <br>
+    **Exemple :**
+
+    Le dispositif Datapass pouvant être utilisé par les API en accès restreint permet de faire un retour sur la qualité des données disponibles via celles-ci.
 layout: reco-api-new
 ---
 
