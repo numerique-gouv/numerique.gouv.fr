@@ -150,6 +150,12 @@ principes:
 
 
     * Dans le cas d’une API sujette à des fortes évolutions en fonction de la saisonnalité, le temps de réponse maximal sera précisé ainsi que les risques de rupture de service.
+- principe: 
+  order: 11
+  content-text: |-
+    #### **Recommandation 11**
+
+    Les temps de réponse moyens et maximaux sont présentés dans la documentation de l’API. Les temps de réponse mesurés ou estimés sont fournis à titre indicatif et non contractuel. Tout autre démarche relève d’un d’accord entre le fournisseur d’API et les réutilisateurs en fonction de leurs cas d’usages.
 layout: reco-api-new
 ---
 
