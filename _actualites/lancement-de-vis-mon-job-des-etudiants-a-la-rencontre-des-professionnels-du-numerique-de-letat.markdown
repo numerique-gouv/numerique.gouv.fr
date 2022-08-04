@@ -15,6 +15,7 @@ chapeau-text: 'Dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv
   auprès d’un agent professionnel de la tech.'
 une-ou-diaporama:
 - image: "/uploads/a51503ec-78c5-45a5-bee9-dc19e1c335ab.jpg"
+date_de_modification: 3 août 2022
 ---
 
 **Attirer les talents du numérique au sein de l’État :** c’est l’une des ambitions de la mission Talents du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), piloté par la direction interministérielle du numérique (DINUM). Sur un marché de l’emploi particulièrement tendu dans le domaine de la tech, **l’État fait valoir ses spécificités et offre l’opportunité aux jeunes ou futurs talents de les découvrir.**
