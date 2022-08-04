@@ -18,9 +18,9 @@ event_start_date: 2022-11-24 08:00:00 +01:00
 
 **Étudiant/e en préparation d’un Bac\+2 à Bac\+5 dans un cursus numérique,** en école ou en université, **l’État te propose une expérience inédite !**
 
-Le 24 novembre 2022, tu auras l’opportunité de rencontrer un professionnel du numérique de l’Etat au sein d’un ministère.
+Le 24 novembre 2022, tu auras l’opportunité de rencontrer un/e professionnel/le du numérique de l’Etat au sein d’un ministère.
 
-**Tu pourras échanger avec lui et explorer son environnement de travail, les projets sur lesquels il s’implique…** Découvrir sous un nouveau jour le métier du numérique qui t’intéresse, et pour lequel l’État recrute. Et pourquoi pas, t’ouvrir les portes d’un futur emploi !
+**Tu pourras échanger avec lui/elle et explorer son environnement de travail, les projets sur lesquels il s’implique…** Découvrir sous un nouveau jour le métier du numérique qui t’intéresse, et pour lequel l’État recrute. Et pourquoi pas, t’ouvrir les portes d’un futur emploi !
 <br>
 <br>
 
