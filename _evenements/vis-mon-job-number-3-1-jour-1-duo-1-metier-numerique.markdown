@@ -18,9 +18,9 @@ event_start_date: 2022-11-24 08:00:00 +01:00
 
 **Étudiant/e en préparation d’un Bac\+2 à Bac\+5 dans un cursus numérique,** en école ou en université, **l’État te propose une expérience inédite !**
 
-Le 24 novembre 2022, tu auras l’opportunité de rencontrer un professionnel du numérique de l’Etat au sein d’un ministère.
+Le 24 novembre 2022, tu auras l’opportunité de rencontrer un/e professionnel/le du numérique de l’État au sein d’un ministère.
 
-**Tu pourras échanger avec lui et explorer son environnement de travail, les projets sur lesquels il s’implique…** Découvrir sous un nouveau jour le métier du numérique qui t’intéresse, et pour lequel l’État recrute. Et pourquoi pas, t’ouvrir les portes d’un futur emploi !
+**Tu pourras échanger avec lui/elle et explorer son environnement de travail, les projets sur lesquels il s’implique…** Découvrir sous un nouveau jour le métier du numérique qui t’intéresse, et pour lequel l’État recrute. Et pourquoi pas, t’ouvrir les portes d’un futur emploi !
 <br>
 <br>
 
@@ -44,6 +44,8 @@ Le 24 novembre 2022, tu auras l’opportunité de rencontrer un professionnel du
 * Armées
 * Intérieur
 * Éducation nationale
+* Transition écologique
+* Culture
 * Services de la Première ministre
 * Europe et Affaires étrangères
 * Direction interministérielle du numérique (DINUM)
@@ -85,7 +87,7 @@ Selon le ministère et le métier choisis, nous te proposons des missions :
 
 **Tu souhaites participer ?**
 
-Rejoins-nous et forme ton duo avec un professionnel du numérique !
+Rejoins-nous et forme ton duo avec un professionnel/e du numérique de l'État !
 <br>
 <br>
 
@@ -99,7 +101,7 @@ Attention, les places sont limitées, envoie ta demande au plus vite !
 <br>
 
 
-<p align="center"><a href="https://sgmap.sphinxdeclic.com/d/s/wnvr8p" class="button">S'inscrire à l'événement</a></p>
+<p align="center"><a href="https://www.demarches-simplifiees.fr/commencer/ vis-mon-job-2022-inscription-etudiant" class="button">S'inscrire à l'événement</a></p>
 
 <br>
 

@@ -1,7 +1,7 @@
 ---
 title: 'Lancement de Vis mon job : des étudiants à la rencontre des professionnels
   du numérique de l’État'
-date: 2020-09-09 16:49:00 +02:00
+date: 2022-07-12 16:49:00 +02:00
 categories:
 - Article
 tags:
@@ -15,6 +15,7 @@ chapeau-text: 'Dans le cadre du [programme TECH.GOUV](https://www.numerique.gouv
   auprès d’un agent professionnel de la tech.'
 une-ou-diaporama:
 - image: "/uploads/a51503ec-78c5-45a5-bee9-dc19e1c335ab.jpg"
+date_de_modification: 3 août 2022
 ---
 
 **Attirer les talents du numérique au sein de l’État :** c’est l’une des ambitions de la mission Talents du [programme TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/), piloté par la direction interministérielle du numérique (DINUM). Sur un marché de l’emploi particulièrement tendu dans le domaine de la tech, **l’État fait valoir ses spécificités et offre l’opportunité aux jeunes ou futurs talents de les découvrir.**
@@ -40,4 +41,7 @@ Rapidement, **plus de 80 agents ambassadeurs** – <span lang="en">data scientis
 
 Les étudiants viendront à leur rencontre le **5 novembre 2020.**
 
-*A votre tour, n’hésitez pas à diffuser largement [l’appel à participation](/agenda/vis-mon-job-1-jour-1-duo-1-metier-tech/) destiné aux étudiants !*
+<div class="encadre noir" style="margin-bottom:40px"><h4 style="margin-top: 40px;">Agents du numérique de l’Etat : participez à l’édition 2022 !</h4><p>Devenez ambassadeur et accueillez un/e étudiant/e le temps d’une journée, le 24 novembre.
+<ul><li><a href="https://www.numerique.gouv.fr/actualites/vis-mon-job-2022-agents-etat-faites-decouvrir-votre-metier-numerique-a-des-etudiants/" alt="Vis mon job 2022 - lien interne">En savoir plus et s’inscrire</a></li></ul>
+</p>
+<p style="text-indent: 15px;"></p></div>
