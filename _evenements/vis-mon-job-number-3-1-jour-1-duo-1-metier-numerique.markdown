@@ -44,6 +44,8 @@ Le 24 novembre 2022, tu auras l’opportunité de rencontrer un/e professionnel/
 * Armées
 * Intérieur
 * Éducation nationale
+* Transition écologique
+* Culture
 * Services de la Première ministre
 * Europe et Affaires étrangères
 * Direction interministérielle du numérique (DINUM)
