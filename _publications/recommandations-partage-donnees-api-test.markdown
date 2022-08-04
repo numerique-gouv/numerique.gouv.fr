@@ -1,5 +1,6 @@
 ---
 title: Cadre de recommandations pour le partage de données par API  dans l’administration
+date: 2022-08-04 10:04:00 +02:00
 permalink: "/publications/recommandations-partage-donnees-api/"
 position: 21
 chapeau-text: 'Élaboré par la DINUM avec les administrateurs ministériels des données,
