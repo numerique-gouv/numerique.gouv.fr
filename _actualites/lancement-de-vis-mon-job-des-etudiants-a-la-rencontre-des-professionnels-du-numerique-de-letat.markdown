@@ -1,7 +1,7 @@
 ---
 title: 'Lancement de Vis mon job : des étudiants à la rencontre des professionnels
   du numérique de l’État'
-date: 2020-09-09 16:49:00 +02:00
+date: 2022-07-12 16:49:00 +02:00
 categories:
 - Article
 tags:
