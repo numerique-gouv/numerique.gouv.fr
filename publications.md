@@ -14,6 +14,10 @@ publications:
   url: "/publications/rgaa-accessibilite/"
   une-ou-diaporama:
   - image: "/uploads/RGAA_Ouv-Publications.jpg"
+- title: Cadre de recommandations pour le partage de données par API  dans l’administration
+  url: "/publications/recommandations-partage-donnees-api/"
+  une-ou-diaporama:
+  - image: "/uploads/2022_08_03_cadre-reco-partage-Donnees-api_Rub-Publications_740x500.png"
 - title: 'Données, algorithmes et codes sources : les 15 feuilles de route ministérielles'
   url: "/publications/donnees-algorithmes-et-codes-sources-feuilles-de-route-ministerielles/"
   une-ou-diaporama:

@@ -1,17 +1,19 @@
 ---
 title: 'Partage de données au sein de l’administration via API : recommandations et
   bonnes pratiques'
-date: 2022-07-27 16:48:00 +02:00
-published: false
+date: 2022-08-04 04:48:00 +02:00
 categories:
 - Article
 tags:
 - API
-- Ouverture des données publiques
+- Partage de données
+- Données publiques
 chapeau-text: En tant qu’administration, comment bien partager ses données par API
   pour en favoriser la réutilisation ? La DINUM publie un ensemble de recommandations
   et de bonnes pratiques établies avec le réseau des administrateurs ministériels
   des données, des algorithmes et des codes sources.
+une-ou-diaporama:
+- image: "/uploads/2022_08_03-cadre-reco-partage-Donnees-api_Actu.png"
 ---
 
 Depuis plus d’un an, les données, algorithmes et codes sources font l’objet d’[une mobilisation sans précédent](https://www.numerique.gouv.fr/actualites/donnees-algorithmes-codes-sources-mobilisation-generale-sans-precedent-15-feuilles-de-route-ministerielles/) au sein de l’État.
@@ -41,7 +43,7 @@ Sa vocation : accompagner et structurer le développement d’API par les admini
 
 Car malgré le contexte porteur et l’augmentation du nombre d’API disponibles, le développement du partage de données entre administrations rencontre encore des freins sur le terrain.
 
-Cette situation se traduit dans [l’observatoire de la qualité des démarches en ligne](https://observatoire.numerique.gouv.fr/) : à ce jour, sur les 200 démarches numérisées les plus importantes de l’Etat, 76 demandent encore à l’usager un effort modéré voire important de saisie de données déjà connues de l’administration. 
+Cette situation se traduit dans [l’observatoire de la qualité des démarches en ligne](https://observatoire.numerique.gouv.fr/) : à ce jour, sur les 200 démarches numérisées les plus importantes de l’État, 76 demandent encore à l’usager un effort modéré voire important de saisie de données déjà connues de l’administration. 
 
 Pour étendre l’usage des API et augmenter leur impact sur la transformation de l’action publique, la DINUM a ainsi identifié le besoin d’améliorer la capacité à mettre à la disposition des réutilisateurs des données répondant à leurs usages métiers, la qualité des données transmises et la qualité de service offerte.
 
@@ -60,12 +62,10 @@ Abordant l’échange de données par API ouvertes ou en accès restreint, les 1
 Dans son rôle de coordonnateur des systèmes d’information de l’État, la DINUM a établi ce cadre recommandations **en concertation avec l’ensemble des administrateurs ministériels des données, des algorithmes et des codes sources** (AMDAC), réseau animé par la DINUM, en particulier son département Etalab. 
 <br>Un groupe de travail resserré a tout d’abord élaboré une première liste de recommandations, soumise ensuite à l’ensemble du réseau, avant de faire l’objet d’échanges bilatéraux entre la DINUM et chaque ministère contributeur.
 
-<div align="center" style="margin-bottom: 30px"><a href="https://www.numerique.gouv.fr/publications/reco-api/" class="button"><b>Consulter le cadre de recommandations pour le partage de données par API  dans l’administration</b></a></div>
-
-[> Télécharger le cadre de recommandations (pdf - 580 Ko)](/uploads/DINUM_Cadre%20de%20recommandations_API_VF.pdf)
+<div align="center" style="margin-bottom: 30px"><a href="/publications/recommandations-partage-donnees-api/" class="button"><b>Consulter le cadre de recommandations</b></a></div>
 
 <div class="encadre noir" style="margin-bottom:40px"><h4 style="margin-top: 40px;">Des réalisations concrètes du réseau des AMDAC</h4><p>À la demande du Premier ministre (lire <a href="https://www.numerique.gouv.fr/actualites/politique-donnee-algorithmes-et-codes-sources-une-circulaire-du-premier-ministre-renouvelle-ambition-francaise/" alt="numerique.gouv.fr/actualites/politique-donnee-algorithmes-et-codes-sources-une-circulaire-du-premier-ministre-renouvelle-ambition-francaise - lien interne">notre article sur la circulaire d’avril 2021</a>), chaque ministère a nommé dès mai 2021 un administrateur ministériel des données, des algorithmes et des codes sources (AMDAC). Ce réseau est depuis animé par la DINUM qui met en place des groupes de travail thématiques et en coordonne les travaux, autour des enjeux et besoins communs.  
 <br>Ce cadre de recommandations en matière de partage de données par API en est la première réalisation collective concrète.
-<br>À travers d’autres groupes de travail, les AMDAC contribuent aussi au développement et à l’expérimentation d’un outil interministériel de catalogage de données et collaborent à la formalisation d’une doctrine relative aux espaces communs de données, permettant de mettre à disposition des données publiques potentiellement protégées par des secrets, dans un cadre intermédiaire entre ouverture et cloisonnement des données.
+<br><br>À travers d’autres groupes de travail, les AMDAC contribuent aussi au développement et à l’expérimentation d’un outil interministériel de catalogage de données et collaborent à la formalisation d’une doctrine relative aux espaces communs de données, permettant de mettre à disposition des données publiques potentiellement protégées par des secrets, dans un cadre intermédiaire entre ouverture et cloisonnement des données.
 </p>
 <p style="text-indent: 15px;"></p></div>

@@ -1,24 +1,24 @@
 ---
 title: Cadre de recommandations pour le partage de données par API  dans l’administration
+date: 2022-08-04 10:04:00 +02:00
 permalink: "/publications/recommandations-partage-donnees-api/"
-published: false
-position: 20
+position: 21
 chapeau-text: 'Élaboré par la DINUM avec les administrateurs ministériels des données,
   des algorithmes et des codes sources (AMDAC), ce cadre de recommandations précise
   le cadre d’action et identifie les bonnes pratiques à poursuivre en matière d’usage
   et d’exposition d’API par les administrations. L''objectif : favoriser le partage
   de données entre elles et ainsi faciliter les démarches des usagers.'
 une-ou-diaporama:
-- image: "/assets/img/main/image_DINSIC.jpg"
+- image: "/uploads/20220803_Bandeau_cadre-reco-partage-Donnees-api_1635x345.png"
 files:
 - file: "/uploads/DINUM_Cadre-de-recommandations_API.pdf"
   nom: Version imprimable du cadre de recommandations
-subtitle1: Découvrabilité
-principes1:
+principes:
 - principe: 
   order: 1
-  title: Catalogue de données et services disponibles
   content-text: |-
+    <div class="h2 text-center">Découvrabilité</div>
+    <h3>Catalogue de données et services disponibles</h3>
     #### **Recommandation 1**
     En complément de la description (métadonnées), les données et services publiquement accessibles sont visibles sur un catalogue exposé sur Internet, référencé sur les moteurs de recherche usuels et intelligibles (la description des API au sein du catalogue ou de l’API manager propose un contenu destiné aux opérationnels, fonctionnels comme techniques).
     <br>
@@ -36,7 +36,6 @@ principes1:
     * API Impôt Particulier vise à référencer la donnée fiscale des particuliers
 - principe: 
   order: 2
-  title: 
   content-text: |-
     #### **Recommandation 2**
 
@@ -52,14 +51,12 @@ principes1:
     <br>
 
     La description d’une API précise également les périodes de validité de l’interface (cf. recommandations 7 & 8) et son niveau de service (cf. recommandations 10 & 11).
-subtitle2: Accès à la donnée
-principes2:
 - principe: 
   order: 3
-  title: Gestion des habilitations d’accès aux API à accès restreint
   content-text: |-
+    <div class="h2 text-center">Accès à la donnée</div>
+    <h3>Gestion des habilitations d’accès aux API à accès restreint</h3>
     #### **Recommandation 3**
-
     L’accès aux API à accès restreint se fait par demande du réutilisateur (administrations, éditeurs, entreprises…).
     <br>
     <br>
@@ -69,7 +66,6 @@ principes2:
     * Pour les personnes morales : ProConnect
 - principe: 
   order: 4
-  title: 
   content-text: |-
     #### **Recommandation 4**
 
@@ -80,8 +76,8 @@ principes2:
     Dans le cadre de demandes d’accès prévues par la loi et si le demandeur est éligible, une réponse sera transmise aux réutilisateurs dans un délai recommandé de 15 jours calendaires. Le code des relations entre le public et l’administration prévoit un délai légal maximum de 30 jours pour répondre à une demande ([article R311-13](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031370409 "article R311-13 - lien externe")).
 - principe: 
   order: 5
-  title: Bac à sable d'expérimentation public
   content-text: |-
+    <h3>Bac à sable d'expérimentation public</h3>
     #### **Recommandation 5**
 
     À chaque API devrait correspondre une version « bac à sable », accessible en fonction du caractère des données ouvertes ou en accès restreint, exposant une version fictive des données et présentant les mêmes modalités techniques d’exposition.
@@ -89,12 +85,12 @@ principes2:
     <br>
 
     Pour les API ouvertes, le bac à sable potentiel est accessible au grand public, sans demande préalable du réutilisateur. Pour les API à accès restreint, le bac à sable contenant des données fictives pourrait être accessible au réutilisateur après demande d’un jeton au fournisseur de données, bien que cette pratique ne soit pas recommandée.
-subtitle3: Exploitation des données
-principes3:
 - principe: 
   order: 6
-  title: Utilisation des standards technologiques du moment pour faciliter l’interopérabilité
+  title: 
   content-text: |-
+    <div class="h2 text-center">Exploitation des données</div>
+    <h3>Utilisation des standards technologiques du moment pour faciliter l’interopérabilité</h3>
     #### **Recommandation 6**
 
     Les données et services sont exposés selon des standards techniques communément partagés et adoptés.
@@ -108,17 +104,16 @@ principes3:
     **Bonne pratique** : L’approche <span lang="en">« contract first »</span>, par opposition à l’approche <span lang="en">« code first »</span>, est recommandée dans le développement de nouvelles interfaces car elle permet de les stabiliser et de faire travailler plusieurs équipes en parallèle au sein d’une même architecture.
 - principe: 
   order: 7
-  title: Stabilité du modèle des interfaces
   content-text: |-
+    <h3>Stabilité du modèle des interfaces</h3>
     #### **Recommandation 7**
     Les données et services sont exposés selon une interface (modalités d’appel et structuration des données échangées) définie pour une période donnée.
     <br>
     <br>
 
-    Les développements agile ou nécessitant une évolution prévisible seront rendus identifiables et préciseront une période de validité courte de 1 à 2 mois.
+    Les développements agiles ou nécessitant une évolution prévisible seront rendus identifiables et préciseront une période de validité courte de 1 à 2 mois.
 - principe: 
   order: 8
-  title: 
   content-text: |-
     #### **Recommandation 8**
 
@@ -129,7 +124,6 @@ principes3:
     Le détail de ces informations sera présenté en détail dans les conditions générales d’utilisation de l’API.
 - principe: 
   order: 9
-  title: 
   content-text: |-
     #### **Recommandation 9**
 
@@ -138,12 +132,11 @@ principes3:
     <br>
 
     Si une évolution de la donnée interdit le maintien de l’ensemble des fonctionnalités de l’API (exemple : modification d’un schéma avec abandon de certaines informations), il sera indiqué quelles requêtes ou parties du protocole seront maintenues.
-subtitle4: Qualité de service
-principes4:
 - principe: 
   order: 10
-  title: Indications sur le temps de réponse et la tenue en charge
   content-text: |-
+    <div class="h2 text-center">Qualité de service</div>
+    <h3>Indications sur le temps de réponse et la tenue en charge</h3>
     #### **Recommandation 10**
 
     La charge admise par une API est consultable en toute transparence par les réutilisateurs :
@@ -160,18 +153,17 @@ principes4:
     * Dans le cas d’une API sujette à des fortes évolutions en fonction de la saisonnalité, le temps de réponse maximal sera précisé ainsi que les risques de rupture de service.
 - principe: 
   order: 11
-  title: 
   content-text: |-
     #### **Recommandation 11**
 
-    Les temps de réponse moyens et maximaux sont présentés dans la documentation de l’API. Les temps de réponse mesurés ou estimés sont fournis à titre indicatif et non contractuel. Tout autre démarche relève d’un d’accord entre le fournisseur d’API et les réutilisateurs en fonction de leurs cas d’usages.
+    Les temps de réponse moyens et maximaux sont présentés dans la documentation de l’API. Les temps de réponse mesurés ou estimés sont fournis à titre indicatif et non contractuel. Toute autre démarche relève d’un d’accord entre le fournisseur d’API et les réutilisateurs en fonction de leurs cas d’usages.
 - principe: 
   order: 12
-  title: Transparence sur la disponibilité de l’API
   content-text: |-
+    <h3>Transparence sur la disponibilité de l’API</h3>
     #### **Recommandation 12**
 
-    L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel sous forme d’une URL, indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requetable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
+    L’état de l’API représente sa capacité à être appelée dans les conditions réelles par un réutilisateur. Il est rendu accessible aux réutilisateurs et consultable en temps réel via une URL indiquée dans la description de l’API, permettant de tester que l'API se déclare disponible et requêtable. En complément, il est souhaitable de permettre de consulter un historique entre 6 mois et une année.
     <br>
     <br>
 
@@ -180,20 +172,19 @@ principes4:
     Le suivi de la disponibilité des API du bouquet API Entreprise est disponible sur [status.entreprise.api.gouv.fr](https://status.entreprise.api.gouv.fr/ "status.entreprise.api.gouv.fr - lien externe")
 - principe: 
   order: 13
-  title: Suivi des consommations des données et services
   content-text: |-
+    <h3>Suivi des consommations des données et services</h3>
     #### **Recommandation 13**
     Les consommations des API sont enregistrées pour être ensuite restituées aux bénéficiaires (réutilisateur, producteur, API managers ou exploitants).
     <br>
     <br>
 
     **Bonne pratique** : les bénéficiaires ont accès à travers un portail à une restitution en temps réel ou ponctuelle de ces statistiques de consommation des données ainsi que celles des autres bénéficiaires.
-subtitle5: Curation de la donnée
-principes5:
 - principe: 
   order: 14
-  title: Mise en place d’une boucle de retour sur la qualité des données
   content-text: |-
+    <div class="h2 text-center">Curation de la donnée</div>
+    <h3>Mise en place d’une boucle de retour sur la qualité des données</h3>
     #### **Recommandation 14**
 
     Les réutilisateurs disposent d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des données vers leur gestionnaire ou via la description des données au sein de leur catalogue d’origine. Les réutilisateurs disposent également d’un moyen technique ou organisationnel leur permettant de faire des retours sur la qualité des API exposées vers leur fournisseur ou via la description de l’API.
@@ -202,12 +193,11 @@ principes5:
     **Exemple :**
 
     Le dispositif Datapass pouvant être utilisé par les API en accès restreint permet de faire un retour sur la qualité des données disponibles via celles-ci.
-subtitle6: Modèle économique
-principes6:
 - principe: 
   order: 15
-  title: Gratuité de la donnée et de l’exposition
   content-text: |-
+    <div class="h2 text-center">Modèle économique</div>
+    <h3>Gratuité de la donnée et de l’exposition</h3>
     #### **Recommandation 15**
 
     L’accès à la donnée et aux services doit être égalitaire. Les fournisseurs de données cherchent à adapter les modalités d’accès aux besoins des réutilisateurs.
@@ -224,7 +214,9 @@ principes6:
     **Exemple :**
 
     Dans le cas où des usages nécessiteraient une qualité de service au-dessus de ce que la multitude d’utilisateurs a couramment besoin, comme par exemple une bande passante élevée pour de la donnée temps-réel volumineuse desservie sur quelques organismes, il sera possible d’organiser un système freemium avec une égalité d’accès à des APIs par défaut et des APIs faisant l’objet de redevances pour les usages les plus exigeants.
-layout: reco-api
+layout: reco-api-new
 ---
 
-[> En savoir plus sur l'élaboration de ces recommandations ](/actualites/partage-de-donnees-au-sein-de-ladministration-via-api-recommandations-et-bonnes-pratiques/)
+<br>
+<br>
+<div class="lien-important"><p><a href="/actualites/partage-de-donnees-administration-via-api-recommandations-et-bonnes-pratiques/"> En savoir plus sur l'élaboration de ces recommandations</a></p></div>
