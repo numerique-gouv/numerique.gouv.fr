@@ -1,7 +1,6 @@
 ---
 title: 'Vis mon job #3 : 1 jour, 1 duo, 1 métier numérique'
 date: 2020-09-09 12:18:00 +02:00
-published: false
 categories:
 - Forum
 tags:
@@ -40,7 +39,7 @@ Le 24 novembre 2022, tu auras l’opportunité de rencontrer un/e professionnel/
 
 **Dans l’administration de ton choix :**
 
-* Économie, des Finances et de la Souveraineté industrielle et numérique
+* Économie et Finances
 * Armées
 * Intérieur
 * Éducation nationale
@@ -80,8 +79,8 @@ Le 24 novembre 2022, toute la journée
 
 Selon le ministère et le métier choisis, nous te proposons des missions :
 
-* en région parisienne : Paris, Noisiel, Saint-Quentin en Yvelines…
-* mais aussi à Nantes, Lille, Rennes, Lyon, Aix-en-Provence, Maubeuge…
+* en région parisienne : Paris, La Défense, Noisiel, Saint-Quentin-en-Yvelines…
+* mais aussi à Nantes, Lille, Rennes, Lyon, Aix-en-Provence, Nevers…
 <br>
 <br>
 
@@ -94,7 +93,7 @@ Rejoins-nous et forme ton duo avec un professionnel/e du numérique de l'État !
 *Les étapes :*
 
 * renseigne dans le formulaire en ligne tes souhaits et quelques infos sur toi et ton cursus,
-* nous te proposerons ton expert/e ambassadeur, en fonction de tes choix.
+* nous sélectionnerons ton expert/e ambassadeur, en fonction de tes choix.
 
 Attention, les places sont limitées, envoie ta demande au plus vite !
 <br>
