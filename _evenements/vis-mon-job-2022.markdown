@@ -26,7 +26,7 @@ Le 24 novembre 2022, tu auras l’opportunité de rencontrer un/e professionnel/
 **Découvre le métier de ton choix, par exemple :**
 
 * Data scientist
-* Chef de projets numérique
+* Chef de projet numérique
 * Officier de sécurité
 * Architecte technique
 * Concepteur-développeur
