@@ -16,7 +16,7 @@ event_start_date: 2022-11-24 08:00:00 +01:00
 champs_informations:
 - intitule: Inscription obligatoire
   contenu: s'inscrire jusqu'au 31 octobre 2022
-  Key: https://www.demarches-simplifiees.fr/commencer/vis-mon-job-2022-inscription-etudiant
+  lien: https://www.demarches-simplifiees.fr/commencer/vis-mon-job-2022-inscription-etudiant
 ---
 
 **Étudiant/e en préparation d’un Bac\+2 à Bac\+5 dans un cursus numérique,** en école ou en université, **l’État te propose une expérience inédite !**
