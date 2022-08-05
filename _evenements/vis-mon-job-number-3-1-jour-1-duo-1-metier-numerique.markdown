@@ -100,7 +100,7 @@ Attention, les places sont limitées, envoie ta demande au plus vite !
 <br>
 
 
-<p align="center"><a href="https://www.demarches-simplifiees.fr/commencer/ vis-mon-job-2022-inscription-etudiant" class="button">S'inscrire à l'événement</a></p>
+<p align="center"><a href="https://www.demarches-simplifiees.fr/commencer/vis-mon-job-2022-inscription-etudiant" class="button">S'inscrire à l'événement</a></p>
 
 <br>
 
