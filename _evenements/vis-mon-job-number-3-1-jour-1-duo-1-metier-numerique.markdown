@@ -17,9 +17,9 @@ event_start_date: 2022-11-24 08:00:00 +01:00
 
 **Étudiant/e en préparation d’un Bac\+2 à Bac\+5 dans un cursus numérique,** en école ou en université, **l’État te propose une expérience inédite !**
 
-Le 24 novembre 2022, tu auras l’opportunité de rencontrer un/e professionnel/le du numérique de l’État au sein d’un ministère.
+Le 24 novembre 2022, tu auras l’opportunité de rencontrer un/e professionnel/le du numérique de l’État au sein d’un ministère et de passer une journée complète en immersion à ses côtés.
 
-**Tu pourras échanger avec lui/elle et explorer son environnement de travail, les projets sur lesquels il s’implique…** Découvrir sous un nouveau jour le métier du numérique qui t’intéresse, et pour lequel l’État recrute. Et pourquoi pas, t’ouvrir les portes d’un futur emploi !
+**Tu pourras échanger avec lui/elle et explorer son environnement de travail, les projets sur lesquels il/elle s’implique…** Découvrir sous un nouveau jour le métier du numérique qui t’intéresse, et pour lequel l’État recrute. Et pourquoi pas, t’ouvrir les portes d’un futur emploi !
 <br>
 <br>
 
@@ -46,10 +46,10 @@ Le 24 novembre 2022, tu auras l’opportunité de rencontrer un/e professionnel/
 * Transition écologique
 * Culture
 * Services de la Première ministre
-* Europe et Affaires étrangères
 * Direction interministérielle du numérique (DINUM)
 * Solidarités et Santé
-* Enseignement Supérieur et Recherche
+* Europe et Affaires étrangères
+* Enseignement supérieur et Recherche
 * …
 <br>
 <br>
@@ -86,14 +86,14 @@ Selon le ministère et le métier choisis, nous te proposons des missions :
 
 **Tu souhaites participer ?**
 
-Rejoins-nous et forme ton duo avec un professionnel/e du numérique de l'État !
+Rejoins-nous et forme ton duo avec un/e professionnel/e du numérique de l'État !
 <br>
 <br>
 
 *Les étapes :*
 
 * renseigne dans le formulaire en ligne tes souhaits et quelques infos sur toi et ton cursus,
-* nous sélectionnerons ton expert/e ambassadeur, en fonction de tes choix.
+* nous sélectionnerons ton/ta professionnel/le ambassadeur, en fonction de tes choix.
 
 Attention, les places sont limitées, envoie ta demande au plus vite !
 <br>
