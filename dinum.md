@@ -22,7 +22,7 @@ Elle pilote, avec l'appui des ministères, **[le programme TECH.GOUV](/publicati
 
 Dans le cadre du **plan France Relance**, elle pilote la mise en œuvre du volet **[Transformation numérique de l’État et des territoires](https://france-relance.transformation.gouv.fr/ "Transformation numérique de l’État et des territoires - Lien externe")**, pour le compte du ministère de la Transformation et de la Fonction publiques.
 
-La DINUM est un service du Premier ministre, placé sous l’autorité de la **ministre de la Transformation et de la Fonction publiques**.
+La DINUM est un service du Premier ministre, placé sous l’autorité du **ministre de la Transformation et de la Fonction publiques**.
 
 Créée par [le décret du 25 octobre 2019](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039281619 "Le décret du 25 octobre 2019 - Lien externe"), elle a pris la suite de la direction interministérielle du numérique et du système d'information et de communication de l’État (DINSIC).
 <br>
