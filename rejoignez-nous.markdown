@@ -72,8 +72,8 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Ingénieur/e sécurité réseau (SOC du réseau interministériel de l'État) H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-tat--cdd-3-ans-renouvelable-hf-reference-2022-953441/ "Ingénieur-e sécurité réseau (SOC du réseau interministériel de l'État) H/F - Lien externe")**
-<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35)
+* **[Ingénieur/e réseau - Chargé/e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres--cdd-3ans-hf-reference-2022-982347/ "Ingénieur/e réseau - Chargé/e de relations ministères H/F - Lien externe")**
+<br>Cadre/Catégorie A
 <br>
 
 * **[Chargé/Chargée de mission amélioration des démarches en ligne H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargechargee-de-mission-amelioration-des-demarches-en-ligne-cdd-3-ans-renouvelable-hf-reference-2022-953422/ "Chargé/Chargée de mission amélioration des démarches en ligne H/F")**
