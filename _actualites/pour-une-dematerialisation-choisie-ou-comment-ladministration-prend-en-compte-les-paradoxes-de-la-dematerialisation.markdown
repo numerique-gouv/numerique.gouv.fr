@@ -14,7 +14,7 @@ chapeau-text: La direction interministérielle du numérique organisait son 3e C
   2022. L’occasion pour les intervenants et le public composé d’agents de l’État d’interroger
   les solutions mises en œuvre par l’administration pour accompagner la numérisation
   croissante des démarches en ligne et dessiner, collectivement, les contours d’une
-  administration numérique  plus proche des usagers et qui ne laisse personne au bord
+  administration numérique plus proche des usagers et qui ne laisse personne au bord
   du chemin. Retour sur les principaux enseignements et pistes de réflexion évoquées
   afin de limiter la fracture numérique et garantir l’égal accès de toutes et tous
   à l’ensemble des services publics.
@@ -24,7 +24,7 @@ chapeau-text: La direction interministérielle du numérique organisait son 3e C
 	
 * La **dématérialisation des démarches présente de nombreux atouts.** Elle permet de simplifier la relation entre l'usager et l'administration, évite au citoyen de se déplacer à un guichet d’accueil physique et donne accès à des services nouveaux plus efficaces et plus performants.
 
-* A MODIFIER **Le manque ou l’absence de services en ligne limite l'accès aux droits.** A MODIFIER Par exemple, à Mayotte où il n’y a pas de simulateur de droits CAF et de téléprocédure, on constate que les usagers sont moins enclins à recourir à leurs droits car ils n’en mesurent pas pleinement les bénéfices. La population se déplace vers des guichets physiques sur des longues distances en voiture. Dans ce cas, l’absence **de dématérialisation est un frein à l’accès aux droits.**
+* **Le manque ou l’absence de services en ligne limite l'accès aux droits.** A MODIFIER Par exemple, à Mayotte où il n’y a pas de simulateur de droits CAF et de téléprocédure, on constate que les usagers sont moins enclins à recourir à leurs droits car ils n’en mesurent pas pleinement les bénéfices. La population se déplace vers des guichets physiques sur des longues distances en voiture. Dans ce cas, l’absence **de dématérialisation est un frein à l’accès aux droits.**
 sur des longues distances en voiture. Dans ce cas, **l’absence de dématérialisation est un frein à l’accès aux droits.**
 
 * Pour autant, comme en témoigne [le rapport du Défenseur des droits](https://www.defenseurdesdroits.fr/fr/rapports/2022/02/rapport-dematerialisation-des-services-publics-trois-ans-apres-ou-en-est-on), la dématérialisation peut aussi entraver l’accès aux droits pour ceux qui ne réussissent pas à réaliser leurs démarches en ligne. Sont concernées, les personnes âgées mais aussi les jeunes, faussement considérés comme à l’aise avec le numérique et en partie les personnes en situation de handicap. La dématérialisation renforce ici la précarité de populations déjà vulnérables. 
