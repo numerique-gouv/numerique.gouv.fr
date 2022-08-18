@@ -89,7 +89,7 @@ De manière générale, **l’administration prend l’habitude de repenser sa r
 
 * ### Les promesses de l’administration proactive
 
-Le concept d’ « administration proactive » consiste à inverser la dynamique en ayant **une administration qui « se déplace vers » l’usager** : elle l’informe, elle anticipe une partie de ses besoins, voire elle lui attribue automatiquement une prestation. C’est une forme de lutte contre le non-recours aux droits et de réduction de la fracture numérique. Cette administration proactive et son volet social, est un programme porté par la DINUM.
+Le concept d’« administration proactive » consiste à inverser la dynamique en ayant **une administration qui « se déplace vers » l’usager** : elle l’informe, elle anticipe une partie de ses besoins, voire elle lui attribue automatiquement une prestation. C’est une forme de lutte contre le non-recours aux droits et de réduction de la fracture numérique. Cette administration proactive et son volet social, est un programme porté par la DINUM.
 
 <div class="noir encadre">
 <h2>Nous sommes à votre écoute !</h2>
