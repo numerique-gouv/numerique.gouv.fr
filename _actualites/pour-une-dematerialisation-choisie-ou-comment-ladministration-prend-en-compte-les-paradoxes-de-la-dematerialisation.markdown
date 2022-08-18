@@ -91,6 +91,8 @@ De manière générale, **l’administration prend l’habitude de repenser sa r
 
 Le concept d’« administration proactive » consiste à inverser la dynamique en ayant **une administration qui « se déplace vers » l’usager** : elle l’informe, elle anticipe une partie de ses besoins, voire elle lui attribue automatiquement une prestation. C’est une forme de lutte contre le non-recours aux droits et de réduction de la fracture numérique. Cette administration proactive et son volet social, est un programme porté par la DINUM.
 
+**Le chantier « solidarité à la source » annoncé par le Président de la République est le chantier emblématique de ce programme administration proactive.** Son objectif est que les aides sociales (RSA, prime d’activité…) auxquelles les citoyens sont éligibles leur soient versées automatiquement, sans qu’ils aient à en faire la demande. Une ambition de taille, portée notamment par la volonté d’alléger la charge des démarches en ligne pour les usagers, notamment ceux les plus vulnérables.
+
 <div class="noir encadre">
 <h2>Nous sommes à votre écoute !</h2>
 
