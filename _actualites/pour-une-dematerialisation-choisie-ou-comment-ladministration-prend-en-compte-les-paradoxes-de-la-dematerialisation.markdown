@@ -2,7 +2,6 @@
 title: Pour une dématérialisation choisie, ou comment l’administration prend en compte
   les paradoxes de la dématérialisation
 date: 2022-08-18 14:01:00 +02:00
-published: false
 categories:
 - Article
 tags:
@@ -80,7 +79,7 @@ De manière générale, **l’administration prend l’habitude de repenser sa r
 
 * La [recherche utilisateur](https://design.numerique.gouv.fr/fr/formations/recherche-utilisateur/introduction-recherche-utilisateur) est un atout précieux à ce titre. Elle consiste à placer l’utilisateur d’une démarche au centre de la conception d’un service numérique et mérite d’être davantage prise en compte dans les administrations. La DINUM et la DITP ont toutes deux les compétences et l’habitude d’aider des projets des administrations à travers la recherche utilisateur. 
 
-* Connaître la perception des usagers sur des démarches en ligne permet aux administrations de renforcer la qualité et l’accessibilité des démarches. C’est la raison d’être  de **l’Observatoire de la qualité des démarches** et l’objet du bouton [« Je donne mon avis »](https://observatoire.numerique.gouv.fr/Aide/Donner%20son%20avis) apposé en fin de démarche, mais aussi de [la plateforme Service Publics +](https://www.plus.transformation.gouv.fr/) qui permet aux citoyens de raconter leur expérience usager. 
+* Connaître la perception des usagers sur des démarches en ligne permet aux administrations de renforcer la qualité et l’accessibilité des démarches. C’est la raison d’être  de [l’Observatoire de la qualité des démarches](https://observatoire.numerique.gouv.fr/) et l’objet du bouton [« Je donne mon avis »](https://observatoire.numerique.gouv.fr/Aide/Donner%20son%20avis) apposé en fin de démarche, mais aussi de [la plateforme Service Publics +](https://www.plus.transformation.gouv.fr/) qui permet aux citoyens de raconter leur expérience usager. 
 
 * L’enjeu est maintenant de **développer les outils et ressources** proposés aux administrations pour les aider à monter en compétences en matière de design de services numériques, et ainsi augmenter drastiquement le nombre de services publics numériques de qualité et accessibles à tous. C’est justement l’une des missions du pôle [Design des services numériques](https://design.numerique.gouv.fr/) de la DINUM.
 
