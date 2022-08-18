@@ -63,7 +63,7 @@ L’association est particulièrement active dans l'accompagnement de ces popula
 
 * ### La nécessaire formation des professionnels de l’accompagnement
 
-Les échanges mettent en avant la nécessité de renforcer **la formation des professionnels qui accompagnent les usagers dans leurs démarches administratives, au sein des Maisons France Services ou dans des structures spécialisées.** Ils représentent **des appuis essentiels à la réduction de la fracture numérique.**
+Les échanges mettent en avant la nécessité de renforcer **la formation des professionnels qui accompagnent les usagers dans leurs démarches administratives, au sein des Maisons France Services ou dans des structures spécialisées. **Ils représentent **des appuis essentiels à la réduction de la fracture numérique.**
 
 **Les échanges révèlent que ces accompagnants, en lien direct avec les usagers, doivent parfois eux-mêmes être accompagnés sur leur bonne appropriation du numérique et des démarches en ligne.** Nombreux considèrent, en effet, le numérique comme un frein à leur activité dans la mesure où il limite le temps de contact et d’échange « humain » avec l’usager qui prévalait avant la dématérialisation. L’accompagnement au changement est ici à renforcer, notamment pour les travailleurs sociaux qui peuvent avoir des pratiques professionnelles ancrées que le numérique tendrait à modifier.
 
