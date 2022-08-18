@@ -19,7 +19,7 @@ chapeau-text: La direction interministérielle du numérique organisait son 3e C
   à l’ensemble des services publics.
 ---
 
-### 1. Un constat partagé : le numérique facilite autant qu’il peut exclure
+## 1. Un constat partagé : le numérique facilite autant qu’il peut exclure
 	
 * La **dématérialisation des démarches présente de nombreux atouts.** Elle permet de simplifier la relation entre l'usager et l'administration, évite au citoyen de se déplacer à un guichet d’accueil physique et donne accès à des services nouveaux plus efficaces et plus performants.
 
@@ -32,7 +32,7 @@ sur des longues distances en voiture. Dans ce cas, **l’absence de dématérial
 
 Ainsi voit-on à quel point la dématérialisation est paradoxale et nourrit **une double dynamique entre ceux qui la subissent et ceux qui la choisissent.** 
 
-### 2. L’administration agit contre les risques engendrés par la dématérialisation
+## 2. L’administration agit contre les risques engendrés par la dématérialisation
 
 La prise de conscience par les pouvoirs publics des difficultés des usagers face à l'administration numérique est réelle, particulièrement lorsque la cible est d’aller progressivement vers du « 100% numérique uniquement ». 
 
@@ -46,7 +46,7 @@ Néanmoins, cette approche omnicanale ne permet pas d’adresser les besoins de 
 
 * Avec le dispositif [Aidants Connect](https://aidantsconnect.beta.gouv.fr/), les usagers se font aider « par procuration » par un aidant professionnel dont le travail est facilité par ce dispositif qui sécurise et encadre le « faire pour le compte de ».
 
-3. L’importance de l’équipement, de la formation des professionnels de l’accompagnement et des aidants informels
+## 3. L’importance de l’équipement, de la formation des professionnels de l’accompagnement et des aidants informels
 
 Les difficultés issues de la dématérialisation peuvent être liées à un manque d’équipements numériques, mais aussi à un manque de compétences qui nécessitent un accompagnement par un professionnel ou de manière informelle. 
 
@@ -72,7 +72,7 @@ En ce sens, 4000 conseillers numériques ont été déployés dans les Maisons F
 
 Selon une étude Ipsos pour Emmaüs Connect, sur 1000 Français interrogés, 56% déclarent avoir apporté leur aide au moins une fois à un proche au cours des 12 derniers mois dans le domaine du numérique. Il ne faut donc pas sous-estimer **l’importance des aidants numériques informels dans la réduction de la fracture numérique.** En revanche, il apparaît nécessaire de les aider davantage à orienter les usagers vers des structures qui pourront les accompagner dans la durée à travers un programme pédagogique dédié, pour réussir in fine à rendre l’usager autonome dans la réalisation de ses démarches en ligne.
 
-### 4. Repenser la relation à l’usager dans l’administration numérique d’aujourd’hui et de demain
+## 4. Repenser la relation à l’usager dans l’administration numérique d’aujourd’hui et de demain
 
 * Les dispositifs actuels qui fonctionnent bien
 De manière générale, **l’administration prend l’habitude de repenser sa relation avec l’usager** en considérant le numérique et son environnement. La question de l’utilité d’une démarche, tout comme l’ajout d’une fonctionnalité ou d’une demande de justificatif, ou encore d’une formulation de texte doit être posée en permanence par les administrations. 
