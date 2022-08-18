@@ -53,7 +53,7 @@ Les difficultés issues de la dématérialisation peuvent être liées à un man
 
 * ### L’équipement numérique : prérequis indispensable
 
-**15% des Français n'ont pas accès à Internet à leur domicile, faute d'équipement, d'abonnement ou de réseau.** Penser l’accès aux équipements reste donc **un prérequis indispensable pour réduire la fracture numérique. **
+**15% des Français n'ont pas accès à Internet à leur domicile, faute d'équipement, d'abonnement ou de réseau.** Penser l’accès aux équipements reste donc **un prérequis indispensable pour réduire la fracture numérique.**
 
 * L’association [Emmaüs Connect](https://emmaus-connect.org/) propose, par exemple, des équipements reconditionnés (PC, téléphones…) ainsi que des accès 4G, des recharges téléphoniques à prix solidaire aux publics pour lesquels l’abonnement numérique demeure encore inaccessible. 
 
