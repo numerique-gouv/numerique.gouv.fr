@@ -35,9 +35,9 @@ Ainsi voit-on à quel point la dématérialisation est paradoxale et nourrit **u
 
 ## 2. L’administration agit contre les risques engendrés par la dématérialisation
 
-La prise de conscience par les pouvoirs publics des difficultés des usagers face à l'administration numérique est réelle, particulièrement lorsque la cible est d’aller progressivement vers du « 100% numérique uniquement ». 
+La **prise de conscience par les pouvoirs publics** des difficultés des usagers face à l'administration numérique est réelle, particulièrement lorsque la cible est de dématérialiser 100% des 250 démarches de l'État les plus utilisées par les Français.
 
-* En ce qui concerne le Revenu de Solidarité Active (RSA), bien qu’un quart des usagers effectuent leurs démarches sur smartphone, l’administration s’intéresse au tiers des ayant-droits qui ne veulent ou ne peuvent pas réaliser en ligne leurs démarches. 
+* En ce qui concerne le Revenu de Solidarité Active (RSA), bien qu’un quart des usagers effectue leurs démarches sur smartphone, l’administration s’intéresse au tiers des ayant-droits qui ne veulent ou ne peuvent pas réaliser en ligne leurs démarches.
 
 L’enjeu, aujourd’hui, est donc de **bâtir des services numériques adaptés pour un maximum de personnes tout en s’assurant que des alternatives omnicanales soient mises en place.**
 
