@@ -20,3 +20,7 @@ chapeau-text: La direction interministérielle du numérique organisait son 3e C
   à l’ensemble des services publics.
 ---
 
+### 1. Un constat partagé : le numérique facilite autant qu’il peut exclure
+	
+* La **dématérialisation des démarches présente de nombreux atouts**. Elle permet de simplifier la relation entre l'usager et l'administration, évite au citoyen de se déplacer à un guichet d’accueil physique et donne accès à des services nouveaux plus efficaces et plus performants.
+* A MODIFIER **Le manque ou l’absence de services en ligne limite l'accès aux droits.** A MODIFIER Par exemple, à Mayotte où il n’y a pas de simulateur de droits CAF et de téléprocédure, on constate que les usagers sont moins enclins à recourir à leurs droits car ils n’en mesurent pas pleinement les bénéfices. La population se déplace vers des guichets physiques sur des longues distances en voiture. Dans ce cas, l’absence **de dématérialisation est un frein à l’accès aux droits**.
