@@ -22,7 +22,7 @@ chapeau-text: La direction interministérielle du numérique organisait son 3e C
 
 <figure class='image-center' style='width: 80%;'>
 <img src="/uploads/IntervenantsCT3.png"/>
-<figcaption>Marine Boudeau, cheffe de pôle Design gouv de la DINUM, Isabelle Susset, cheffe du bureau des minimas sociaux - Direction générale de la cohésion sociale (DGCS), Margot Aptel, cheffe du programme Société numérique - Agence nationale de la cohésion des territoires (ANCT), Daniel Agacinski, délégué général à la médiation - Défenseur des droits et Marie Cohen-Skalli, co-directrice - Emmaüs Connect.
+<figcaption>De gauche à droite : Marine Boudeau, cheffe de pôle Design des services numérique de la DINUM, Isabelle Susset, cheffe du bureau des minimas sociaux - Direction générale de la cohésion sociale (DGCS), Margot Aptel, cheffe du programme Société numérique - Agence nationale de la cohésion des territoires (ANCT), Daniel Agacinski, délégué général à la médiation - Défenseur des droits et Marie Cohen-Skalli, co-directrice - Emmaüs Connect.
 </figcaption></figure>
 
 ## 1. Un constat partagé : le numérique facilite autant qu’il peut exclure
