@@ -52,7 +52,7 @@ Néanmoins, cette approche omnicanale ne permet pas d’adresser les besoins de 
 
 * Avec le dispositif [Aidants Connect](https://aidantsconnect.beta.gouv.fr/), les usagers se font aider « par procuration » par un aidant professionnel dont le travail est facilité par ce dispositif qui sécurise et encadre le « faire pour le compte de ».
 
-## 3. L’importance de l’équipement, de la formation des professionnels de l’accompagnement et des aidants informels
+## 3. L’importance de l’équipement, de la formation des professionnels de l’accompagnement, et des aidants informels
 
 Les difficultés issues de la dématérialisation peuvent être liées à un manque d’équipements numériques, mais aussi à un manque de compétences qui nécessitent un accompagnement par un professionnel ou de manière informelle. 
 
@@ -68,7 +68,7 @@ L’association est particulièrement active dans l'accompagnement de ces popula
 
 * ### La nécessaire formation des professionnels de l’accompagnement
 
-Les échanges mettent en avant la nécessité de renforcer **la formation des professionnels qui accompagnent les usagers dans leurs démarches administratives, au sein des Maisons France Services ou dans des structures spécialisées. **Ils représentent **des appuis essentiels à la réduction de la fracture numérique.**
+Les échanges mettent en avant la nécessité de renforcer **la formation des professionnels qui accompagnent les usagers dans leurs démarches administratives, au sein des Maisons France Services ou dans des structures spécialisées.** Ils représentent **des appuis essentiels à la réduction de la fracture numérique.**
 
 **Les échanges révèlent que ces accompagnants, en lien direct avec les usagers, doivent parfois eux-mêmes être accompagnés sur leur bonne appropriation du numérique et des démarches en ligne.** Nombreux considèrent, en effet, le numérique comme un frein à leur activité dans la mesure où il limite le temps de contact et d’échange « humain » avec l’usager qui prévalait avant la dématérialisation. L’accompagnement au changement est ici à renforcer, notamment pour les travailleurs sociaux qui peuvent avoir des pratiques professionnelles ancrées que le numérique tendrait à modifier.
 
@@ -76,7 +76,9 @@ En ce sens, 4000 conseillers numériques ont été déployés dans les Maisons F
 
 * ### Le rôle sous-estimé des aidants numériques informels
 
-Selon une étude Ipsos pour Emmaüs Connect, sur 1000 Français interrogés, 56% déclarent avoir apporté leur aide au moins une fois à un proche au cours des 12 derniers mois dans le domaine du numérique. Il ne faut donc pas sous-estimer **l’importance des aidants numériques informels dans la réduction de la fracture numérique.** En revanche, il apparaît nécessaire de les aider davantage à orienter les usagers vers des structures qui pourront les accompagner dans la durée à travers un programme pédagogique dédié, pour réussir *in fine* à rendre l’usager autonome dans la réalisation de ses démarches en ligne.
+Selon une étude Ipsos pour Emmaüs Connect, sur 1000 Français interrogés, 56% déclarent avoir apporté leur aide au moins une fois à un proche au cours des 12 derniers mois dans le domaine du numérique. Il ne faut donc pas sous-estimer **l’importance des aidants numériques informels dans la réduction de la fracture numérique.**
+
+<br>En revanche, il apparaît nécessaire de les aider davantage à orienter les usagers vers des structures qui pourront les accompagner dans la durée à travers un programme pédagogique dédié, pour réussir *in fine* à rendre l’usager autonome dans la réalisation de ses démarches en ligne.
 
 ## 4. Repenser la relation à l’usager dans l’administration numérique d’aujourd’hui et de demain
 
