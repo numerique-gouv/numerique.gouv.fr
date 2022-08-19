@@ -18,6 +18,8 @@ chapeau-text: "La direction interministérielle du numérique organisait son 3e 
   du chemin. \n<br>Retour sur les principaux enseignements et pistes de réflexion
   évoquées afin de limiter la fracture numérique et garantir l’égal accès de toutes
   et tous à l’ensemble des services publics."
+une-ou-diaporama:
+- image: "/uploads/20220819_Actus_Cafe%CC%81Transfo-V2.png"
 ---
 
 <figure class='image-center' style='width: 80%;'>
