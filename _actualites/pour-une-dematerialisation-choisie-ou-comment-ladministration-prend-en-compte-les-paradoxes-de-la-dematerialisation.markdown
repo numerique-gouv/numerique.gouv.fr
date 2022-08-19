@@ -1,7 +1,7 @@
 ---
 title: Pour une dématérialisation choisie, ou comment l’administration prend en compte
   les paradoxes de la dématérialisation
-date: 2022-08-18 14:01:00 +02:00
+date: 2022-08-19 14:01:00 +02:00
 categories:
 - Article
 tags:
