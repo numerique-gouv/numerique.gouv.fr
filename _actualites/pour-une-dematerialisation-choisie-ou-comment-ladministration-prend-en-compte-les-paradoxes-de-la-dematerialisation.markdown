@@ -18,6 +18,8 @@ chapeau-text: La direction interministérielle du numérique organisait son 3e C
   du chemin. Retour sur les principaux enseignements et pistes de réflexion évoquées
   afin de limiter la fracture numérique et garantir l’égal accès de toutes et tous
   à l’ensemble des services publics.
+une-ou-diaporama:
+- image: "/uploads/Actu-Cafe%CC%81Transfophoto.png"
 ---
 
 ## 1. Un constat partagé : le numérique facilite autant qu’il peut exclure
