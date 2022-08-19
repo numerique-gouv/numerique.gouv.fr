@@ -9,15 +9,15 @@ tags:
 - Café Transfo
 - Transformation numérique
 - Dématerialisation
-chapeau-text: La direction interministérielle du numérique organisait son 3e Café
+chapeau-text: "La direction interministérielle du numérique organisait son 3e Café
   Transfo autour de la thématique « Pour une dématérialisation choisie », fin avril
   2022. L’occasion pour les intervenants et le public composé d’agents de l’État d’interroger
   les solutions mises en œuvre par l’administration pour accompagner la numérisation
   croissante des démarches en ligne et dessiner, collectivement, les contours d’une
   administration numérique plus proche des usagers et qui ne laisse personne au bord
-  du chemin. Retour sur les principaux enseignements et pistes de réflexion évoquées
-  afin de limiter la fracture numérique et garantir l’égal accès de toutes et tous
-  à l’ensemble des services publics.
+  du chemin. \n<br>Retour sur les principaux enseignements et pistes de réflexion
+  évoquées afin de limiter la fracture numérique et garantir l’égal accès de toutes
+  et tous à l’ensemble des services publics."
 ---
 
 <figure class='image-center' style='width: 80%;'>
@@ -34,7 +34,7 @@ sur des longues distances en voiture. Dans ce cas, **l’absence de dématérial
 
 * Pour autant, comme en témoigne [le rapport du Défenseur des droits](https://www.defenseurdesdroits.fr/fr/rapports/2022/02/rapport-dematerialisation-des-services-publics-trois-ans-apres-ou-en-est-on), **la dématérialisation peut aussi entraver l’accès aux droits** pour ceux qui ne réussissent pas à réaliser leurs démarches en ligne. Sont concernées les personnes âgées mais aussi les jeunes, faussement considérés comme à l’aise avec le numérique et en partie les personnes en situation de handicap. La dématérialisation renforce ici la précarité de populations déjà vulnérables. 
 
-* En France, **13 millions de personnes se trouvent éloignées du numérique et 1 Français sur 2 estime manquer d’une compétence numérique de base**. Cette fracture numérique se retrouve surtout dans les territoires puisque 50% des non-internautes résident dans des communes de moins de 20 000 habitants. C’est le marqueur d’**un numérique qui produit une forme d’exclusion.**
+* En France, **13 millions de personnes se trouvent éloignées du numérique** et **1 Français sur 2 estime manquer d’une compétence numérique de base**. Cette fracture numérique se retrouve surtout dans les territoires puisque 50% des non-internautes résident dans des communes de moins de 20 000 habitants. C’est le marqueur d’**un numérique qui produit une forme d’exclusion.**
 
 Ainsi voit-on à quel point la dématérialisation est paradoxale et nourrit **une double dynamique entre ceux qui la subissent et ceux qui la choisissent.** 
 
@@ -42,7 +42,7 @@ Ainsi voit-on à quel point la dématérialisation est paradoxale et nourrit **u
 
 La **prise de conscience par les pouvoirs publics** des difficultés des usagers face à l'administration numérique est réelle, particulièrement lorsque la cible est de dématérialiser 100% des 250 démarches de l'État les plus utilisées par les Français.
 
-* En ce qui concerne le Revenu de Solidarité Active (RSA), bien qu’un quart des usagers effectue leurs démarches sur smartphone, l’administration s’intéresse au tiers des ayant-droits qui ne veulent ou ne peuvent pas réaliser en ligne leurs démarches.
+* En ce qui concerne le Revenu de Solidarité Active (RSA), bien qu’un quart des usagers effectuent leurs démarches sur smartphone, l’administration s’intéresse au tiers des ayant-droits qui ne veulent ou ne peuvent pas réaliser en ligne leurs démarches.
 
 L’enjeu, aujourd’hui, est donc de **bâtir des services numériques adaptés pour un maximum de personnes tout en s’assurant que des alternatives omnicanales soient mises en place.**
 
