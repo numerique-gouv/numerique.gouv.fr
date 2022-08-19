@@ -14,7 +14,7 @@ chapeau-text: "La direction interministérielle du numérique organisait son 3e 
   les solutions mises en œuvre par l’administration pour accompagner la numérisation
   croissante des démarches en ligne et dessiner, collectivement, les contours d’une
   administration numérique plus proche des usagers et qui ne laisse personne au bord
-  du chemin. \n<br>Retour sur les principaux enseignements et pistes de réflexion
+  du chemin. \n<br>\n<br>Retour sur les principaux enseignements et pistes de réflexion
   évoquées afin de limiter la fracture numérique et garantir l’égal accès de toutes
   et tous à l’ensemble des services publics."
 une-ou-diaporama:
