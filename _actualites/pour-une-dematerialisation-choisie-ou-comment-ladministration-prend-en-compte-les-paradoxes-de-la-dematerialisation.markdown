@@ -20,6 +20,11 @@ chapeau-text: La direction interministérielle du numérique organisait son 3e C
   à l’ensemble des services publics.
 ---
 
+<figure class='image-center' style='width: 80%;'>
+<img src="/uploads/IntervenantsCT3.png"/>
+<figcaption>Marine Boudeau, cheffe de pôle Design gouv de la DINUM, Isabelle Susset, cheffe du bureau des minimas sociaux - Direction générale de la cohésion sociale (DGCS), Margot Aptel, cheffe du programme Société numérique - Agence nationale de la cohésion des territoires (ANCT), Daniel Agacinski, délégué général à la médiation - Défenseur des droits et Marie Cohen-Skalli, co-directrice - Emmaüs Connect.
+</figcaption></figure>
+
 ## 1. Un constat partagé : le numérique facilite autant qu’il peut exclure
 	
 * La **dématérialisation des démarches présente de nombreux atouts.** Elle permet de simplifier la relation entre l'usager et l'administration, évite au citoyen de se déplacer à un guichet d’accueil physique et donne accès à des services nouveaux plus efficaces et plus performants.
