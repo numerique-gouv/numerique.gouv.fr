@@ -57,7 +57,7 @@ Néanmoins, cette approche omnicanale ne permet pas d’adresser les besoins de 
 
 Les difficultés issues de la dématérialisation peuvent être liées à un manque d’équipements numériques, mais aussi à un manque de compétences qui nécessitent un accompagnement par un professionnel ou de manière informelle. 
 
-* ### L’équipement numérique : prérequis indispensable
+### L’équipement numérique : prérequis indispensable
 
 **15% des Français n'ont pas accès à Internet à leur domicile, faute d'équipement, d'abonnement ou de réseau.** Penser l’accès aux équipements reste donc **un prérequis indispensable pour réduire la fracture numérique.**
 
@@ -67,7 +67,7 @@ L’association est particulièrement active dans l'accompagnement de ces popula
 
 * L’accès au numérique est différent de l’autonomie numérique, il faut éviter de mettre en distance l’usager et ainsi poursuivre son accompagnement par un agent, tout du moins lui donner la possibilité de le faire.
 
-* ### La nécessaire formation des professionnels de l’accompagnement
+### La nécessaire formation des professionnels de l’accompagnement
 
 Les échanges mettent en avant la nécessité de renforcer **la formation des professionnels qui accompagnent les usagers dans leurs démarches administratives, au sein des Maisons France Services ou dans des structures spécialisées.** Ils représentent **des appuis essentiels à la réduction de la fracture numérique.**
 
@@ -75,7 +75,7 @@ Les échanges mettent en avant la nécessité de renforcer **la formation des pr
 
 En ce sens, 4000 conseillers numériques ont été déployés dans les Maisons France Services dans le cadre du Plan de relance. Formés et rémunérés par l’agence nationale de la cohésion des territoires (ANCT), ils ont pour mission d’appuyer les usagers dans leurs démarches administratives en ligne et de les accompagner dans leur autonomie numérique. 
 
-* ### Le rôle sous-estimé des aidants numériques informels
+### Le rôle sous-estimé des aidants numériques informels
 
 Selon une étude Ipsos pour Emmaüs Connect, sur 1000 Français interrogés, 56% déclarent avoir apporté leur aide au moins une fois à un proche au cours des 12 derniers mois dans le domaine du numérique. Il ne faut donc pas sous-estimer **l’importance des aidants numériques informels dans la réduction de la fracture numérique.**
 
@@ -83,7 +83,7 @@ Selon une étude Ipsos pour Emmaüs Connect, sur 1000 Français interrogés, 56%
 
 ## 4. Repenser la relation à l’usager dans l’administration numérique d’aujourd’hui et de demain
 
-* ### Les dispositifs actuels qui fonctionnent bien
+### Les dispositifs actuels qui fonctionnent bien
 
 De manière générale, **l’administration prend l’habitude de repenser sa relation avec l’usager** en considérant le numérique et son environnement. La question de l’utilité d’une démarche, tout comme l’ajout d’une fonctionnalité ou d’une demande de justificatif, ou encore d’une formulation de texte doit être posée en permanence par les administrations. 
 
@@ -95,7 +95,7 @@ De manière générale, **l’administration prend l’habitude de repenser sa r
 
 * Le système de design de l’État (mené par le service d’information du Gouvernement), déployé depuis septembre 2021, harmonise l’ergonomie des sites de l’État et assure ainsi une meilleure lisibilité des sites étatiques pour les citoyens.
 
-* ### Les promesses de l’administration proactive
+### Les promesses de l’administration proactive
 
 Le concept d’« administration proactive » consiste à inverser la dynamique en ayant **une administration qui « se déplace vers » l’usager** : elle l’informe, elle anticipe une partie de ses besoins, voire elle lui attribue automatiquement une prestation. C’est une forme de lutte contre le non-recours aux droits et de réduction de la fracture numérique. Cette administration proactive et son volet social, est un programme porté par la DINUM.
 
