@@ -21,11 +21,6 @@ une-ou-diaporama:
 - image: "/uploads/20220819_Actus_Cafe%CC%81Transfo-V2.png"
 ---
 
-<figure class='image-center' style='width: 80%;'>
-<img src="/uploads/IntervenantsCT3.png"/>
-<figcaption>De gauche à droite : Marine Boudeau, cheffe de pôle Design des services numérique de la DINUM, Isabelle Susset, cheffe du bureau des minimas sociaux - Direction générale de la cohésion sociale (DGCS), Margot Aptel, cheffe du programme Société numérique - Agence nationale de la cohésion des territoires (ANCT), Daniel Agacinski, délégué général à la médiation - Défenseur des droits et Marie Cohen-Skalli, co-directrice - Emmaüs Connect.
-</figcaption></figure>
-
 ## 1. Un constat partagé : le numérique facilite autant qu’il peut exclure
 	
 * La **dématérialisation des démarches présente de nombreux atouts.** Elle permet de simplifier la relation entre l'usager et l'administration, évite au citoyen de se déplacer à un guichet d’accueil physique et donne accès à des services nouveaux plus efficaces et plus performants.
@@ -52,6 +47,12 @@ L’enjeu, aujourd’hui, est donc de **bâtir des services numériques adaptés
 Néanmoins, cette approche omnicanale ne permet pas d’adresser les besoins de tous les publics. Avec 17% de la population souffrant d’illectronisme, il est difficilement possible de concevoir des services utilisés de manière autonome par 100% de la population. Il y aura toujours des usagers qui auront besoin d’un accompagnement spécifique. 
 
 * Avec le dispositif [Aidants Connect](https://aidantsconnect.beta.gouv.fr/), les usagers se font aider « par procuration » par un aidant professionnel dont le travail est facilité par ce dispositif qui sécurise et encadre le « faire pour le compte de ».
+
+
+<figure class='image-center' style='width: 80%;'>
+<img src="/uploads/IntervenantsCT3.png"/>
+<figcaption>De gauche à droite : Marine Boudeau, cheffe de pôle Design des services numérique de la DINUM, Isabelle Susset, cheffe du bureau des minimas sociaux - Direction générale de la cohésion sociale (DGCS), Margot Aptel, cheffe du programme Société numérique - Agence nationale de la cohésion des territoires (ANCT), Daniel Agacinski, délégué général à la médiation - Défenseur des droits et Marie Cohen-Skalli, co-directrice - Emmaüs Connect.
+</figcaption></figure>
 
 ## 3. L’importance de l’équipement, de la formation des professionnels de l’accompagnement, et des aidants informels
 
