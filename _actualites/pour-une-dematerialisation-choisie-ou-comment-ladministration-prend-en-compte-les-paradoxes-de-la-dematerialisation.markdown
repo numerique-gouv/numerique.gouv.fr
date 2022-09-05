@@ -45,7 +45,7 @@ L’enjeu, aujourd’hui, est donc de **bâtir des services numériques adaptés
 
 * Ainsi, à l’image du [programme Services publics +](https://www.plus.transformation.gouv.fr/), on retrouve l’idée que tout usager puisse accéder à ses droits par Internet ou par un autre canal comme le téléphone ou en physique avec les [espaces France Services](https://agence-cohesion-territoires.gouv.fr/france-services-36).
  
-Néanmoins, cette approche omnicanale ne permet pas d’adresser les besoins de tous les publics. Avec 17% de la population souffrant d’illectronisme, il est difficilement possible de concevoir des services utilisés de manière autonome par 100% de la population. Il y aura toujours des usagers qui auront besoin d’un accompagnement spécifique. 
+Néanmoins, cette approche omnicanale ne permet pas d’adresser les besoins de tous les publics. Avec 17% de la population souffrant d’illectronisme, il est difficilement possible de concevoir des services utilisés de manière autonome par 100% de la population et un accompagnement spécifique demeurera nécessaire.
 
 * Avec le dispositif [Aidants Connect](https://aidantsconnect.beta.gouv.fr/), les usagers se font aider « par procuration » par un aidant professionnel dont le travail est facilité par ce dispositif qui sécurise et encadre le « faire pour le compte de ».
 
@@ -55,33 +55,33 @@ Néanmoins, cette approche omnicanale ne permet pas d’adresser les besoins de 
 <figcaption>De gauche à droite : Marine Boudeau, cheffe de pôle Design des services numérique de la DINUM, Isabelle Susset, cheffe du bureau des minimas sociaux - Direction générale de la cohésion sociale (DGCS), Margot Aptel, cheffe du programme Société numérique - Agence nationale de la cohésion des territoires (ANCT), Daniel Agacinski, délégué général à la médiation - Défenseur des droits et Marie Cohen-Skalli, co-directrice - Emmaüs Connect.
 </figcaption></figure>
 
-## 3. L’importance de l’équipement, de la formation des professionnels de l’accompagnement, et des aidants informels
+## 3. L’importance de l’équipement, de la formation des professionnels de l’accompagnement et des aidants informels
 
-Les difficultés issues de la dématérialisation peuvent être liées à un manque d’équipements numériques, mais aussi à un manque de compétences qui nécessitent un accompagnement par un professionnel ou de manière informelle. 
+Les difficultés issues de la dématérialisation peuvent apparaître liées à un manque d’équipements numériques, mais aussi à un manque de compétences qui nécessitent un accompagnement par un professionnel ou de manière informelle. 
 
-### L’équipement numérique : prérequis indispensable
+### L’équipement numérique
 
-**15% des Français n'ont pas accès à Internet à leur domicile, faute d'équipement, d'abonnement ou de réseau.** Penser l’accès aux équipements reste donc **un prérequis indispensable pour réduire la fracture numérique.**
+**15% des Français n'ont pas accès à Internet à leur domicile, faute d'équipement, d'abonnement ou de réseau.** Penser l’accès aux équipements reste donc **un prérequis pour réduire la fracture numérique, comme illustré durant le Café.**
 
 * L’association [Emmaüs Connect](https://emmaus-connect.org/) propose, par exemple, des équipements reconditionnés (PC, téléphones…) ainsi que des accès 4G, des recharges téléphoniques à prix solidaire aux publics pour lesquels l’abonnement numérique demeure encore inaccessible. 
 
 L’association est particulièrement active dans l'accompagnement de ces populations, sans pour autant « faire à la place de » et rappelle qu’il faut en moyenne 20 heures pour amener un bénéficiaire à un début d’autonomie sur l’usage de l’ordinateur/téléphone, et pour effectuer des démarches administratives en ligne. 
 
-* L’accès au numérique est différent de l’autonomie numérique, il faut éviter de mettre en distance l’usager et ainsi poursuivre son accompagnement par un agent, tout du moins lui donner la possibilité de le faire.
+* L’accès au numérique est différent de l’autonomie numérique, il cherche à éviter de mettre en distance l’usager et ainsi poursuivre son accompagnement par un agent, tout du moins lui donner la possibilité de le faire.
 
-### La nécessaire formation des professionnels de l’accompagnement
+### La formation des professionnels de l’accompagnement
 
-Les échanges mettent en avant la nécessité de renforcer **la formation des professionnels qui accompagnent les usagers dans leurs démarches administratives, au sein des Maisons France Services ou dans des structures spécialisées.** Ils représentent **des appuis essentiels à la réduction de la fracture numérique.**
+Les échanges mettent en avant l'effort continu de ** formation des professionnels qui accompagnent les usagers dans leurs démarches administratives, au sein des Maisons France Services ou dans des structures spécialisées.** Ils représentent **des appuis essentiels à la réduction de la fracture numérique.**
 
-**Les échanges révèlent que ces accompagnants, en lien direct avec les usagers, doivent parfois eux-mêmes être accompagnés sur leur bonne appropriation du numérique et des démarches en ligne.** Nombreux considèrent, en effet, le numérique comme un frein à leur activité dans la mesure où il limite le temps de contact et d’échange « humain » avec l’usager qui prévalait avant la dématérialisation. L’accompagnement au changement est ici à renforcer, notamment pour les travailleurs sociaux qui peuvent avoir des pratiques professionnelles ancrées que le numérique tendrait à modifier.
+**Les échanges révèlent que ces accompagnants, en lien direct avec les usagers, doivent parfois eux-mêmes être accompagnés sur leur bonne appropriation du numérique et des démarches en ligne.** Nombreux considèrent, en effet, le numérique comme un frein à leur activité dans la mesure où il limite le temps de contact et d’échange « humain » avec l’usager qui prévalait avant la dématérialisation. L’accompagnement au changement est une question particulièrement sensible pour les travailleurs sociaux qui peuvent avoir des pratiques professionnelles ancrées que le numérique tendrait à modifier.
 
 En ce sens, 4000 conseillers numériques ont été déployés dans les Maisons France Services dans le cadre du Plan de relance. Formés et rémunérés par l’agence nationale de la cohésion des territoires (ANCT), ils ont pour mission d’appuyer les usagers dans leurs démarches administratives en ligne et de les accompagner dans leur autonomie numérique. 
 
-### Le rôle sous-estimé des aidants numériques informels
+### Le rôle des aidants numériques informels
 
-Selon une étude Ipsos pour Emmaüs Connect, sur 1000 Français interrogés, 56% déclarent avoir apporté leur aide au moins une fois à un proche au cours des 12 derniers mois dans le domaine du numérique. Il ne faut donc pas sous-estimer **l’importance des aidants numériques informels dans la réduction de la fracture numérique.**
+Selon une étude Ipsos pour Emmaüs Connect, sur 1000 Français interrogés, 56% déclarent avoir apporté leur aide au moins une fois à un proche au cours des 12 derniers mois dans le domaine du numérique. **L’importance de l'action des aidants numériques informels dans la réduction de la fracture numérique est mise en avant.**
 
-<br>En revanche, il apparaît nécessaire de les aider davantage à orienter les usagers vers des structures qui pourront les accompagner dans la durée à travers un programme pédagogique dédié, pour réussir *in fine* à rendre l’usager autonome dans la réalisation de ses démarches en ligne.
+<br>Par ailleurs, il est mis en avant l'accompagnement de ces aidants nécessaire de les aider davantage à orienter les usagers vers des structures qui pourront les accompagner dans la durée à travers un programme pédagogique dédié, pour réussir *in fine* à rendre l’usager autonome dans la réalisation de ses démarches en ligne.
 
 ## 4. Repenser la relation à l’usager dans l’administration numérique d’aujourd’hui et de demain
 
