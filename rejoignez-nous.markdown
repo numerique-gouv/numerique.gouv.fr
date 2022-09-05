@@ -40,11 +40,11 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Ingénieur/e Réseau - Chargé/e de la relation fournisseurs H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-la-relation-fournisseurs-cdd-3ans-hf-reference-2022-971729/ "Ingénieur-e Réseau - Chargé-e de la relation fournisseurs H/F - Lien externe")**
+* **[Responsable distribution et promotion produits FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-distribution-et-promotion-produits-franceconnect-cdd-3ans-hf-reference-2022-971783/ "Responsable distribution et promotion produits FranceConnect H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Responsable distribution et promotion produits FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-distribution-et-promotion-produits-franceconnect-cdd-3ans-hf-reference-2022-971783/ "Responsable distribution et promotion produits FranceConnect H/F - Lien externe")**
+* **[Ingénieur/e Réseau - Chargé/e de la relation fournisseurs H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-la-relation-fournisseurs-cdd-3ans-hf-reference-2022-971729/ "Ingénieur-e Réseau - Chargé-e de la relation fournisseurs H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
