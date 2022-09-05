@@ -40,14 +40,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Directeur de projets numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeur-de-projets-numeriques-deux-postes-a-pouvoircdd-3-ans-renouvelable-une-fois-hf-reference-2022-975781/ "Directeur de projets numériques H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé/e de mission Campus numérique H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-campus-numerique-cdd-3-ans-renouvelable-hf-reference-2022-975787/ "Chargé/e de mission Campus numérique H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Ingénieur/e Réseau - Chargé/e de la relation fournisseurs H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-la-relation-fournisseurs-cdd-3ans-hf-reference-2022-971729/ "Ingénieur-e Réseau - Chargé-e de la relation fournisseurs H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -56,35 +48,11 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chef/fe de projet - Architecte technique / Services d'accès internet H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet---architecte-technique--services-d-acces-internet-hf-reference-2022-971755/ "Chef/fe de projet - Architecte technique / Services d'accès internet H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé/e d'hypervision réseau et sécurité du Réseau Interministériel de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat---cdd-3-ans-renouvela-hf-reference-2022-960797/ "Chargé-e d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Product owner / Chef/fe de produit de la plateforme d'emploi numérique de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/product-owner--cheffe-de-produit-de-la-plateforme-d-emploi-numerique-de-l-tat-hf-reference-2022-971770/ "Product owner / Chef/fe de produit de la plateforme d'emploi numérique de l'État H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé/e de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-882570/ "Chargé(e) de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé/Chargée de mission amélioration des démarches en ligne H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargechargee-de-mission-amelioration-des-demarches-en-ligne-cdd-3-ans-renouvelable-hf-reference-2022-953422/ "Chargé/Chargée de mission amélioration des démarches en ligne H/F")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Ingénieur/e réseau - Chargé/e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres--cdd-3ans-hf-reference-2022-982347/ "Ingénieur/e réseau - Chargé/e de relations ministères H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
 * **[Architecte-Urbaniste des systèmes d'information H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-905624/ "Architecte-Urbaniste des systèmes d'information H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chef/fe de projet : Hub d'échange de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--hub-d-echange-de-l-etat-cdd-3-ans-renouvelable-hf-reference-2022-960663/ "Chef-fe de projet : Hub d'échange de l'Etat H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
