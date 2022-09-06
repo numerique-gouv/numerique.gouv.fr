@@ -60,15 +60,15 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
+* **[Architecte-Urbaniste des systèmes d'information H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-905624/ "Architecte-Urbaniste des systèmes d'information H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Chargé/e de mission conformité RGPD H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-conformite-rgpd-hf-reference-2022-997800/ "Chargé/e de mission conformité RGPD H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
 * **[Ingénieur/e Système et réseaux H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieure-systeme-et-reseaux-hf-reference-2022-988665/ "Ingénieur/e Système et réseaux H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Architecte-Urbaniste des systèmes d'information H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-905624/ "Architecte-Urbaniste des systèmes d'information H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
