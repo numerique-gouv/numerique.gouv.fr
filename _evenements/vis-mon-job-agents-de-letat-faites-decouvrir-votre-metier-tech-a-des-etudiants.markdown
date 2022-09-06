@@ -2,7 +2,6 @@
 title: "[Vis mon job] Agents de l’État : faites découvrir votre métier tech à des
   étudiants !"
 date: 2021-08-27 12:16:00 +02:00
-published: false
 categories:
 - Forum
 tags:
