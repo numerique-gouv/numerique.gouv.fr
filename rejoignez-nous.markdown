@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 5 septembre 2022
+date_de_modification: 6 septembre 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -39,6 +39,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 {: .margin-top-4 .margin-bottom-0 .h3}
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
+
+* **[Chargé-e de mission administration proactive et transformation numérique de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-administration-proactive-et-transformation-numerique-de-l-tat-hf-reference-2022-992852/ "Chargé-e de mission administration proactive et transformation numérique de l'État H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
 
 * **[Responsable distribution et promotion produits FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-distribution-et-promotion-produits-franceconnect-cdd-3ans-hf-reference-2022-971783/ "Responsable distribution et promotion produits FranceConnect H/F - Lien externe")**
 <br>Cadre/Catégorie A
