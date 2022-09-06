@@ -44,6 +44,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
+* **[Chargé/e de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-992876/ "Chargé/e de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Responsable distribution et promotion produits FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-distribution-et-promotion-produits-franceconnect-cdd-3ans-hf-reference-2022-971783/ "Responsable distribution et promotion produits FranceConnect H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -57,6 +61,14 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Architecte-Urbaniste des systèmes d'information H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-905624/ "Architecte-Urbaniste des systèmes d'information H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé/e de mission conformité RGPD H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-conformite-rgpd-hf-reference-2022-997800/ "Chargé/e de mission conformité RGPD H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Ingénieur/e Système et réseaux H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieure-systeme-et-reseaux-hf-reference-2022-988665/ "Ingénieur/e Système et réseaux H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
