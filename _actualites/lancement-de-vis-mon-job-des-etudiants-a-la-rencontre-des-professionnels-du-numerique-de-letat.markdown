@@ -42,6 +42,6 @@ Rapidement, **plus de 80 agents ambassadeurs** – <span lang="en">data scientis
 Les étudiants viendront à leur rencontre le **5 novembre 2020.**
 
 <div class="encadre noir" style="margin-bottom:40px"><h4 style="margin-top: 40px;">Agents du numérique de l’État : participez à l’édition 2022 !</h4><p>Devenez ambassadeur et accueillez un/e étudiant/e le temps d’une journée, le 24 novembre.
-<ul><li><a href="https://www.numerique.gouv.fr/actualites/vis-mon-job-2022-agents-etat-faites-decouvrir-votre-metier-numerique-a-des-etudiants/" alt="Vis mon job 2022 - lien interne">En savoir plus et s’inscrire</a></li></ul>À votre tour, n’hésitez pas à diffuser largement <ul><li><a href="https://www.numerique.gouv.fr/agenda/vis-mon-job-2022/" alt="Vis mon job 2022 - lien interne">l’appel à participation</a></li></ul> destiné aux étudiants !
+<ul><li><a href="https://www.numerique.gouv.fr/actualites/vis-mon-job-2022-agents-etat-faites-decouvrir-votre-metier-numerique-a-des-etudiants/" alt="Vis mon job 2022 - lien interne">En savoir plus et s’inscrire</a></li></ul>À votre tour, n’hésitez pas à diffuser largement <ul><a href="https://www.numerique.gouv.fr/agenda/vis-mon-job-2022/" alt="Vis mon job 2022 - lien interne">l’appel à participation</a></ul> destiné aux étudiants !
 </p>
 <p style="text-indent: 15px;"></p></div>
