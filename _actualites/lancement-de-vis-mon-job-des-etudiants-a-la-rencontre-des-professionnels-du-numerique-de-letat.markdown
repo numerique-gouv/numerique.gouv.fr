@@ -45,3 +45,5 @@ Les étudiants viendront à leur rencontre le **5 novembre 2020.**
 <ul><li><a href="https://www.numerique.gouv.fr/actualites/vis-mon-job-2022-agents-etat-faites-decouvrir-votre-metier-numerique-a-des-etudiants/" alt="Vis mon job 2022 - lien interne">En savoir plus et s’inscrire</a></li></ul>
 </p>
 <p style="text-indent: 15px;"></p></div>
+
+À votre tour, n’hésitez pas à diffuser largement <a href="https://www.numerique.gouv.fr/agenda/vis-mon-job-2022/" alt="Vis mon job 2022 - lien interne">l’appel à participation</a> destiné aux étudiants !

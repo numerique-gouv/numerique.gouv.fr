@@ -1,7 +1,6 @@
 ---
 title: 'Vis mon job #3 : 1 jour, 1 duo, 1 métier numérique'
 date: 2022-08-05 12:18:00 +02:00
-published: false
 categories:
 - Forum
 tags:
@@ -17,7 +16,7 @@ event_start_date: 2022-11-24 08:00:00 +01:00
 champs_informations:
 - intitule: Inscription obligatoire
   contenu: s'inscrire jusqu'au 31 octobre 2022
-  lien: https://www.demarches-simplifiees.fr/commencer/vis-mon-job-2022-inscription-etudiant
+  lien: https://www.demarches-simplifiees.fr/commencer/vismonjob2022-inscription-etudiant
 ---
 
 **Étudiant/e en préparation d’un Bac\+2 à Bac\+5 dans un cursus numérique,** en école ou en université, **l’État te propose une expérience inédite !**
@@ -32,7 +31,7 @@ Le 24 novembre 2022, tu auras l’opportunité de rencontrer un/e professionnel/
 
 * Data scientist
 * Chef de projet numérique
-* Officier de sécurité
+* Expert SSI
 * Architecte technique
 * Concepteur-développeur
 * Scrum master
@@ -84,8 +83,8 @@ Le 24 novembre 2022, toute la journée
 
 Selon le ministère et le métier choisis, nous te proposons des missions :
 
-* en région parisienne : Paris, La Défense, Noisiel, Saint-Quentin-en-Yvelines…
-* mais aussi à Nantes, Lille, Rennes, Lyon, Aix-en-Provence, Nevers…
+* en région parisienne : Paris, La Défense, Noisiel, Le Kremlin-Bicêtre, Saint-Quentin-en-Yvelines, Créteil, Nemours…
+* mais aussi à Nantes, Lille, Reims, Amiens, Angers, Rennes, Lyon, Aix-en-Provence, Nevers, Colmar…
 <br>
 <br>
 
@@ -105,7 +104,7 @@ Attention, les places sont limitées, envoie ta demande au plus vite !
 <br>
 
 
-<p align="center"><a href="https://www.demarches-simplifiees.fr/commencer/vis-mon-job-2022-inscription-etudiant" class="button">S'inscrire à l'événement</a></p>
+<p align="center"><a href="https://www.demarches-simplifiees.fr/commencer/vismonjob2022-inscription-etudiant" class="button">S'inscrire à l'événement</a></p>
 
 <br>
 
