@@ -54,3 +54,6 @@ Quelques exemples (liste non exhaustive) : data scientist, officier sécurité, 
 <p align="center"><a href="https://sgmap.sphinxdeclic.com/d/s/7qs2f3" class="button" title="S'inscrire à l'événement - Lien externe">S'inscrire à l'événement</a></p>
 
 Contact et informations ambassadeurs : [vismonjob.dinum@modernisation.gouv.fr](mailto:vismonjob.dinum@modernisation.gouv.fr)
+
+<div class="encadre noir"><h4>Faites connaître l’opération aux étudiants ! </h4>
+<p>N’hésitez pas à relayer largement <a href="https://www.numerique.gouv.fr/agenda/vis-mon-job-2022/">l’appel à participation</a> destiné aux étudiants !</p> </div>
