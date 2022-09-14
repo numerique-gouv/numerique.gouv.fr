@@ -19,10 +19,10 @@ champs_informations:
 - intitule: Modalités
   contenu: Entrée libre sur présentation d'une pièce d'identité, accessible aux personnes
     en situation de handicap
-- intitule: Comment y aller ?
+- intitule: Moyens d'accès
   contenu: |-
-    Stations de métro les plus proches : Varenne (M13), Solférino (M12), Rue du Bac
-    Stations de bus les plus proches : Grenelle – Bellechasse (bus 69), Rue du Bac – René Char (bus 68), Charlotte Perriand (bus 63, 68, 83, 84, 94), Vaneau – Babylone (bus 86)
+    Métro Ligne 12 station Solférino / Ligne 13 station Varenne
+    Bus 68 station Solferino-Bellechasse
 ---
 
 En famille ou entre amis, curieux du fonctionnement de nos institutions ou férus d’architecture, vous êtes toutes et tous les bienvenus le samedi 17 et dimanche 18 septembre 2022 de 10h à 18h à l’Hôtel de Rothelin-Charolais, pour (re) découvrir le patrimoine français.
