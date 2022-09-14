@@ -1,5 +1,5 @@
 ---
-title: La DINUM aux Journées européenne du patrimoine
+title: La DINUM aux Journées européennes du patrimoine
 date: 2022-09-14 11:05:00 +02:00
 categories:
 - Évènement
