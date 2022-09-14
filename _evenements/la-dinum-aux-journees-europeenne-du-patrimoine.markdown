@@ -10,7 +10,8 @@ tags:
 - FranceConnect
 chapeau-text: Pour sa 39e édition, les Journées européennes du patrimoine auront pour
   thème le Patrimoine durable. Elles permettront de visiter des lieux de patrimoine,
-  souvent exceptionnellement ouverts pour cette occasion !
+  souvent exceptionnellement ouverts ! Pour cette occasion, rencontrez les équipes
+  de la DINUM au ministère de la Transformation et de la Fonction publiques.
 une-ou-diaporama:
 - image: "/uploads/TWITTER_POST_RIMASUU_JEP2022.jpg"
   alternative-textuelle: "Journées européennes du patrimoine \n17-18 septembre 2022"
