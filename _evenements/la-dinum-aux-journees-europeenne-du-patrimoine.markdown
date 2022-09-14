@@ -32,9 +32,7 @@ L’Hôtel de Rothelin-Charolais fut construit vers 1703-1704 pour Philippe d’
 
 Actuellement le Ministère de la Transformation et de la Fonction publiques et le Secrétariat d’État chargé de l'Économie sociale et solidaire et de la Vie associative occupent le lieu.
 
-[Programme de la visite de l’Hôtel de Rothelin-Charolais]
-
-Qui sera présent ?
+## Qui sera présent ?
 * Le ministère de la Transformation et de la Fonction Publiques 
 * FranceConnect
 * Les startups d’Etat du programme beta.gouv
