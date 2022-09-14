@@ -17,5 +17,13 @@ event_start_date: 2022-09-17 10:00:00 +02:00
 event_end_date: 2022-09-18 18:00:00 +02:00
 lieu: Hôtel de Rothelin-Charolais
 adresse: 101 rue de Grenelle
+champs_informations:
+- intitule: Modalités
+  contenu: Entrée libre sur présentation d'une pièce d'identité, accessible aux personnes
+    en situation de handicap
+- intitule: Comment y aller ?
+  contenu: |-
+    Stations de métro les plus proches : Varenne (M13), Solférino (M12), Rue du Bac
+    Stations de bus les plus proches : Grenelle – Bellechasse (bus 69), Rue du Bac – René Char (bus 68), Charlotte Perriand (bus 63, 68, 83, 84, 94), Vaneau – Babylone (bus 86)
 ---
 
