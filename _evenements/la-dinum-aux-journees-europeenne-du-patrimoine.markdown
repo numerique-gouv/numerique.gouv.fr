@@ -5,11 +5,9 @@ categories:
 - Évènement
 tags:
 - Évènement
-chapeau-text: Pour sa 39e édition, les Journées européennes du patrimoine ont pour
-  thème le patrimoine durable. Ces journées vous permettent de visiter des lieux de
-  patrimoine qui sont exceptionnellement ouverts pour cette occasion ! Vous allez
-  pouvoir en apprendre davantage sur l’histoire et ainsi être sensibilisé à l’importance
-  de sa protection et de sa valorisation.
+chapeau-text: Pour sa 39e édition, les Journées européennes du patrimoine auront pour
+  thème le Patrimoine durable. Elles permettront de visiter des lieux de patrimoine,
+  souvent exceptionnellement ouverts pour cette occasion !
 une-ou-diaporama:
 - image: "/uploads/TWITTER_POST_RIMASUU_JEP2022.jpg"
   alternative-textuelle: "Journées européennes du patrimoine \n17-18 septembre 2022"
