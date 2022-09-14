@@ -27,3 +27,20 @@ champs_informations:
     Stations de bus les plus proches : Grenelle – Bellechasse (bus 69), Rue du Bac – René Char (bus 68), Charlotte Perriand (bus 63, 68, 83, 84, 94), Vaneau – Babylone (bus 86)
 ---
 
+## Un peu d’histoire
+L’Hôtel de Rothelin-Charolais fut construit vers 1703-1704 pour Philippe d’Orléans, marquis de Rothelin (1678 1715). Ce bâtiment, caractéristique des hôtels particuliers du début du XVIIIe siècle voit le jour dans le quartier de Saint-Germain-des-Prés. En 1735, un réaménagement de l’hôtel fut orchestré par la nouvelle propriétaire, madame Louise-Anne de Bourbon-Condé, dite Mademoiselle de Charolais (1695 1758). A l’issue du temps, l’hôtel prit rapidement le nom de « Rothelin Charolais » en référence/hommage à ses deux propriétaires.
+
+Actuellement le Ministère de la Transformation et de la Fonction publiques et le Secrétariat d’État chargé de l'Économie sociale et solidaire et de la Vie associative occupent le lieu.
+
+[Programme de la visite de l’Hôtel de Rothelin-Charolais]
+
+Qui sera présent ?
+* Le ministère de la Transformation et de la Fonction Publiques 
+* FranceConnect
+* Les startups d’Etat du programme beta.gouv
+
+En savoir plus
+
+Pour ne rien rater ? N’hésitez pas à vous faire un rappel sur votre téléphone ou à noter l’évènement dans un calendrier.
+
+Venez nombreux !
