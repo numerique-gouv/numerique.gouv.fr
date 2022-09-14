@@ -20,9 +20,11 @@ event_end_date: 2022-09-18 18:00:00 +02:00
 lieu: Hôtel de Rothelin-Charolais
 adresse: 101 rue de Grenelle
 champs_informations:
+- intitule: Horaires
+  contenu: 10h - 18h
 - intitule: Modalités
-  contenu: Entrée libre de 10h à 18h sur présentation d'une pièce d'identité, accessible
-    aux personnes en situation de handicap
+  contenu: Entrée libre sur présentation d'une pièce d'identité, accessible aux personnes
+    en situation de handicap
 - intitule: Moyens d'accès
   contenu: |-
     Métro 12 station Solférino / 13 station Varenne
