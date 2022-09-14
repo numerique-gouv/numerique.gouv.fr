@@ -17,11 +17,11 @@ lieu: Hôtel de Rothelin-Charolais
 adresse: 101 rue de Grenelle
 champs_informations:
 - intitule: Modalités
-  contenu: Entrée libre sur présentation d'une pièce d'identité, accessible aux personnes
-    en situation de handicap
+  contenu: Entrée libre de 10h à 18h sur présentation d'une pièce d'identité, accessible
+    aux personnes en situation de handicap
 - intitule: Moyens d'accès
   contenu: |-
-    Métro Ligne 12 station Solférino / Ligne 13 station Varenne
+    Métro 12 station Solférino / 13 station Varenne
     Bus 68 station Solferino-Bellechasse
 ---
 
