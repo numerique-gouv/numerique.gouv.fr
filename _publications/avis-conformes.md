@@ -42,6 +42,15 @@ ministeres:
   titre: Services du Premier ministre
 - annees:
   - avis:
+    - description: Refonte du Système d’Information des Véhicules
+      file: "/uploads/Systeme_d'immatriculation_des_vehicules_SIV_art.3.PDF"
+      titre: Système d’immatriculation des véhicules (SIV)
+    - description: Projet de rénovation des infrastructures de l’Institut National
+        de la Police Scientifique
+      file: "/uploads/SMARTLAB_art.3.pdf"
+      titre: SMART LAB
+    date-annee: 2021
+  - avis:
     - description: Projet de kiosques de pré-enregistrement biométriques des voyageurs
       file: "/uploads/KIOSQUES_art3.pdf"
       titre: KIOSQUES
@@ -106,6 +115,9 @@ ministeres:
   titre: Ministère de l'Intérieur
 - annees:
   - avis:
+    - description: Création d’une plateforme nationale des données géographiques souveraines
+      file: "/uploads/Geoplateforme_art.3.pdf"
+      titre: Géoplateforme
     - description: Programme de dématérialisation de l’application du droit des sols,
         dit Démat ADS
       file: "/uploads/Demat_ADS_art3.pdf"
@@ -235,6 +247,17 @@ ministeres:
   titre: Ministère des Armées
 - annees:
   - avis:
+    - description: Référentiel métier recensant l’offre de santé et ses ressources
+        associées (structures sanitaires et médico-sociales)
+      file: "/uploads/Repertoire_national_de_loffre_et_des_ressources_en_sante_et_accompagnement_medico_social_ROR_art.3.pdf"
+      titre: Répertoire national de l’Offre et des Ressources en santé et accompagnement
+        médico-social (ROR)
+    - description: Groupement d’applications qui gère la programmation, le décisionnel,
+        la gestion de la fraude, des réclamations et de l’assistance aux utilisateurs
+      file: "/uploads/Systeme_dinformation_du_fonds_social_europeen_SIFSE_art.3.pdf"
+      titre: Système d’information du Fonds Social Européen (SI FSE)
+    date-annee: 2021
+  - avis:
     - description: Le Health Data Hub est une plateforme sécurisée pour des projets
         d’intérêt public de santé sur des données pseudonymisées
       file: "/uploads/Health_data_hub_art3.pdf"
@@ -249,12 +272,6 @@ ministeres:
       file: "/uploads/si_samu_art_3.pdf"
       titre: SI SAMU
     date-annee: 2016
-  - avis:
-    - description: 
-      file: 
-      titre: Répertoire national de l’Offre et des Ressources en santé et accompagnement
-        médico-social (ROR)
-    date-annee: 2021
   - avis:
     - description: Référentiel unifié de description de l'offre sanitaire, médico-sociale
         et sociale
@@ -347,6 +364,26 @@ ministeres:
       file: "/uploads/chorus_infra_art_7.pdf"
       titre: CHORUS INFRA
     date-annee: 2011
+  - avis:
+    - description: Refonte des systèmes de paiement
+      file: "/uploads/Recouvrement_optimise_des_creances_de_la_sphere_publique_ROCSP_art.3.pdf"
+      titre: Recouvrement optimisé des créances de la sphère publique (ROCSP)
+    - description: Traitement intégré de toutes les formalités administratives aux
+        frontières
+      file: "/uploads/FranceSesame_art.3.pdf"
+      titre: France SESAME
+    - description: Projet qui associe les informations existantes du plan cadastral
+        et des données foncières fiscales avec des données de cartographie
+      file: "/uploads/Foncier_innovant_art.3.PDF"
+      titre: Foncier Innovant
+    - description: Refonte du fichier des comptes bancaires
+      file: "/uploads/FICOBA3_art.3.pdf"
+      titre: FICOBA 3
+    - description: Projet de mises en commun des moyens informatiques entre administrations
+        (DGFIP-ACOSS-DGDDI)
+      file: "/uploads/Portail_Commun_de_Recouvrement_PCR_art.3.pdf"
+      titre: Portail Commun de Recouvrement Fiscal et Social (PCR)
+    date-annee: 2021
   image: "/assets/img/avis-conformes/ministereeconomie_ok.jpg"
   titre: Ministère de l’Économie, des Finances et de la Relance
 - annees:
