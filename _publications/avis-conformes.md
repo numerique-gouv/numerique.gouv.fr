@@ -293,6 +293,24 @@ ministeres:
     et de l’Insertion '
 - annees:
   - avis:
+    - description: Refonte des systèmes de paiement
+      file: "/uploads/Recouvrement_optimise_des_creances_de_la_sphere_publique_ROCSP_art.3.pdf"
+      titre: Recouvrement optimisé des créances de la sphère publique (ROCSP)
+    - description: Traitement intégré de toutes les formalités administratives aux
+        frontières
+      file: "/uploads/FranceSesame_art.3.pdf"
+      titre: France SESAME
+    - description: Projet qui associe les informations existantes du plan cadastral
+        et des données foncières fiscales avec des données de cartographie
+      file: "/uploads/Foncier_innovant_art.3.PDF"
+      titre: Foncier Innovant
+    - description: Refonte du fichier des comptes bancaires
+      file: "/uploads/FICOBA3_art.3.pdf"
+      titre: FICOBA 3
+    - description: Projet de mises en commun des moyens informatiques entre administrations
+        (DGFIP-ACOSS-DGDDI)
+      file: "/uploads/Portail_Commun_de_Recouvrement_PCR_art.3.pdf"
+      titre: Portail Commun de Recouvrement Fiscal et Social (PCR)
     - description: Plateforme des données de la douane
       file: "/uploads/Developpement_donnee_douane_art3.pdf"
       titre: Développement de la donnée en douane (3D)
@@ -364,26 +382,6 @@ ministeres:
       file: "/uploads/chorus_infra_art_7.pdf"
       titre: CHORUS INFRA
     date-annee: 2011
-  - avis:
-    - description: Refonte des systèmes de paiement
-      file: "/uploads/Recouvrement_optimise_des_creances_de_la_sphere_publique_ROCSP_art.3.pdf"
-      titre: Recouvrement optimisé des créances de la sphère publique (ROCSP)
-    - description: Traitement intégré de toutes les formalités administratives aux
-        frontières
-      file: "/uploads/FranceSesame_art.3.pdf"
-      titre: France SESAME
-    - description: Projet qui associe les informations existantes du plan cadastral
-        et des données foncières fiscales avec des données de cartographie
-      file: "/uploads/Foncier_innovant_art.3.PDF"
-      titre: Foncier Innovant
-    - description: Refonte du fichier des comptes bancaires
-      file: "/uploads/FICOBA3_art.3.pdf"
-      titre: FICOBA 3
-    - description: Projet de mises en commun des moyens informatiques entre administrations
-        (DGFIP-ACOSS-DGDDI)
-      file: "/uploads/Portail_Commun_de_Recouvrement_PCR_art.3.pdf"
-      titre: Portail Commun de Recouvrement Fiscal et Social (PCR)
-    date-annee: 2021
   image: "/assets/img/avis-conformes/ministereeconomie_ok.jpg"
   titre: Ministère de l’Économie, des Finances et de la Relance
 - annees:
