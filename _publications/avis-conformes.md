@@ -140,7 +140,7 @@ ministeres:
   - avis:
     - description: Programme de dématérialisation des procédures pénales
       file: "/uploads/Procedure_penale_numerique_PPN_art.3.pdf"
-      titre: 'PPN : Procédure Pénale Numérique  '
+      titre: Procédure Pénale Numérique  (PPN)
     - description: Projet de système d’information dédié au développement de la peine
         de Travail d’Intérêt Général (TIG) et le renforcement de l’insertion professionnelle
         des personnes placées sous main de justice.
@@ -249,6 +249,12 @@ ministeres:
       file: "/uploads/si_samu_art_3.pdf"
       titre: SI SAMU
     date-annee: 2016
+  - avis:
+    - description: 
+      file: 
+      titre: Répertoire national de l’Offre et des Ressources en santé et accompagnement
+        médico-social (ROR)
+    date-annee: 2021
   - avis:
     - description: Référentiel unifié de description de l'offre sanitaire, médico-sociale
         et sociale
