@@ -429,7 +429,7 @@ ministeres:
         et laboratoire de données)
       file: "/uploads/Datalake_art.3.pdf"
       titre: ASP-Datalake
-    date-annee: 
+    date-annee: 2021
   - avis:
     - description: Programme de rénovation du SI de l'enseignement agricole
       file: "/uploads/sirena_art_3.pdf"
