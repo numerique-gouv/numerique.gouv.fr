@@ -43,6 +43,6 @@ Actuellement le [ministère de la Transformation et de la Fonction publiques](ht
 
 Pendant tout le weekend, découvrez les différents lieux de travail du ministre de la Transformation et de la Fonction publiques. Ce sera aussi l'occasion de rencontrer les agents des trois directions de ce ministère : [la Direction interministérielle de la transformation publique (DITP)](https://www.modernisation.gouv.fr/), [la Direction générale de l'administration et de la fonction publique (DGAFP)](https://www.fonction-publique.gouv.fr/fonction-publique-1088) et la [Direction interministérielle du numérique (DINUM)](https://www.numerique.gouv.fr/dinum/).
 
-L’équipe de la Direction interministérielle du numérique vous présentera sa mission : créer le service public de demain avec le numérique pour améliorer concrètement la vie des Français. Vous pourrez notamment échanger avec l’équipe de [FranceConnect](https://franceconnect.gouv.fr/) et des startups d’État du [programme beta.gouv](https://beta.gouv.fr/) qui vous présenteront leurs enjeux et projets.
+L’équipe de la Direction interministérielle du numérique vous présentera sa mission : créer le service public de demain avec le numérique pour améliorer concrètement la vie des Français. Vous pourrez notamment échanger avec l’équipe de [FranceConnect](https://franceconnect.gouv.fr/), de [Démarches Simplifiées](https://www.demarches-simplifiees.fr/) et des startups d’État du [programme beta.gouv](https://beta.gouv.fr/) qui vous présenteront leurs enjeux et projets.
 
 On vous attend nombreux !
