@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 6 septembre 2022
+date_de_modification: 15 septembre 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -57,10 +57,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Ingénieur/e réseau - Chargé/e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres--cdd-3ans-hf-reference-2022-982347/ "Ingénieur/e réseau - Chargé/e de relations ministères H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Architecte-Urbaniste des systèmes d'information H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-905624/ "Architecte-Urbaniste des systèmes d'information H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
