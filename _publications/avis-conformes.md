@@ -155,7 +155,7 @@ ministeres:
       titre: Procédure Pénale Numérique  (PPN)
     - description: Projet de système d’information dédié au développement de la peine
         de Travail d’Intérêt Général (TIG) et le renforcement de l’insertion professionnelle
-        des personnes placées sous main de justice.
+        des personnes placées sous main de justice
       file: "/uploads/ATIGIP360_art.3.pdf"
       titre: 'ATIGIP360° '
     date-annee: 2021
