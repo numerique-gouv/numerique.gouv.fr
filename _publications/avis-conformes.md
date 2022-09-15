@@ -397,6 +397,11 @@ ministeres:
   titre: Ministère de la Culture
 - annees:
   - avis:
+    - description: Plateforme d’accès aux démarches administratives scolaires
+      file: "/uploads/Eduservice_art.3.pdf"
+      titre: Eduservices
+    date-annee: 2020
+  - avis:
     - description: Refonte de l'écosystème du SI en charge de la gestion des ressources
         humaines du ministère en charge de l’Éducation nationale
       file: "/uploads/sirhen_art_3.pdf"
@@ -421,6 +426,12 @@ ministeres:
   image: "/assets/img/avis-conformes/ministeredeleducationnationale_ok_0.jpg"
   titre: Ministre de l’Éducation nationale, de la Jeunesse et des Sports
 - annees:
+  - avis:
+    - description: Traitement des données graphiques via un lac de donnée (entrepôt
+        et laboratoire de données)
+      file: "/uploads/Datalake_art.3.pdf"
+      titre: ASP-Datalake
+    date-annee: 
   - avis:
     - description: Programme de rénovation du SI de l'enseignement agricole
       file: "/uploads/sirena_art_3.pdf"
