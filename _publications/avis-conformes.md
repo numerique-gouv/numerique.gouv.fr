@@ -42,6 +42,15 @@ ministeres:
   titre: Services du Premier ministre
 - annees:
   - avis:
+    - description: Refonte du Système d’Information des Véhicules
+      file: "/uploads/Systeme_d'immatriculation_des_vehicules_SIV_art.3.PDF"
+      titre: Système d’immatriculation des véhicules (SIV)
+    - description: Projet de rénovation des infrastructures de l’Institut National
+        de la Police Scientifique
+      file: "/uploads/SMARTLAB_art.3.pdf"
+      titre: SMART LAB
+    date-annee: 2021
+  - avis:
     - description: Projet de kiosques de pré-enregistrement biométriques des voyageurs
       file: "/uploads/KIOSQUES_art3.pdf"
       titre: KIOSQUES
@@ -106,6 +115,9 @@ ministeres:
   titre: Ministère de l'Intérieur
 - annees:
   - avis:
+    - description: Création d’une plateforme nationale des données géographiques souveraines
+      file: "/uploads/Geoplateforme_art.3.pdf"
+      titre: Géoplateforme
     - description: Programme de dématérialisation de l’application du droit des sols,
         dit Démat ADS
       file: "/uploads/Demat_ADS_art3.pdf"
@@ -137,6 +149,16 @@ ministeres:
   titre: Ministère de la Cohésion des territoires et des Relations avec les collectivités
     territoriales, Ministère de la Transition écologique
 - annees:
+  - avis:
+    - description: Programme de dématérialisation des procédures pénales
+      file: "/uploads/Procedure_penale_numerique_PPN_art.3.pdf"
+      titre: Procédure Pénale Numérique  (PPN)
+    - description: Projet de système d’information dédié au développement de la peine
+        de Travail d’Intérêt Général (TIG) et le renforcement de l’insertion professionnelle
+        des personnes placées sous main de justice
+      file: "/uploads/ATIGIP360_art.3.pdf"
+      titre: 'ATIGIP360° '
+    date-annee: 2021
   - avis:
     - description: Système archivistique de la justice
       file: "/uploads/PROJAE_Art_3.pdf"
@@ -225,6 +247,17 @@ ministeres:
   titre: Ministère des Armées
 - annees:
   - avis:
+    - description: Référentiel métier recensant l’offre de santé et ses ressources
+        associées (structures sanitaires et médico-sociales)
+      file: "/uploads/Repertoire_national_de_loffre_et_des_ressources_en_sante_et_accompagnement_medico_social_ROR_art.3.pdf"
+      titre: Répertoire national de l’Offre et des Ressources en santé et accompagnement
+        médico-social (ROR)
+    - description: Groupement d’applications qui gère la programmation, le décisionnel,
+        la gestion de la fraude, des réclamations et de l’assistance aux utilisateurs
+      file: "/uploads/Systeme_dinformation_du_fonds_social_europeen_SIFSE_art.3.pdf"
+      titre: Système d’information du Fonds Social Européen (SI FSE)
+    date-annee: 2021
+  - avis:
     - description: Le Health Data Hub est une plateforme sécurisée pour des projets
         d’intérêt public de santé sur des données pseudonymisées
       file: "/uploads/Health_data_hub_art3.pdf"
@@ -260,6 +293,24 @@ ministeres:
     et de l’Insertion '
 - annees:
   - avis:
+    - description: Refonte des systèmes de paiement
+      file: "/uploads/Recouvrement_optimise_des_creances_de_la_sphere_publique_ROCSP_art.3.pdf"
+      titre: Recouvrement optimisé des créances de la sphère publique (ROCSP)
+    - description: Traitement intégré de toutes les formalités administratives aux
+        frontières
+      file: "/uploads/FranceSesame_art.3.pdf"
+      titre: France SESAME
+    - description: Projet qui associe les informations existantes du plan cadastral
+        et des données foncières fiscales avec des données de cartographie
+      file: "/uploads/Foncier_innovant_art.3.PDF"
+      titre: Foncier Innovant
+    - description: Refonte du fichier des comptes bancaires
+      file: "/uploads/FICOBA3_art.3.pdf"
+      titre: FICOBA 3
+    - description: Projet de mises en commun des moyens informatiques entre administrations
+        (DGFIP-ACOSS-DGDDI)
+      file: "/uploads/Portail_Commun_de_Recouvrement_PCR_art.3.pdf"
+      titre: Portail Commun de Recouvrement Fiscal et Social (PCR)
     - description: Plateforme des données de la douane
       file: "/uploads/Developpement_donnee_douane_art3.pdf"
       titre: Développement de la donnée en douane (3D)
@@ -344,6 +395,11 @@ ministeres:
   titre: Ministère de la Culture
 - annees:
   - avis:
+    - description: Plateforme d’accès aux démarches administratives scolaires
+      file: "/uploads/Eduservice_art.3.pdf"
+      titre: Eduservices
+    date-annee: 2020
+  - avis:
     - description: Refonte de l'écosystème du SI en charge de la gestion des ressources
         humaines du ministère en charge de l’Éducation nationale
       file: "/uploads/sirhen_art_3.pdf"
@@ -368,6 +424,12 @@ ministeres:
   image: "/assets/img/avis-conformes/ministeredeleducationnationale_ok_0.jpg"
   titre: Ministre de l’Éducation nationale, de la Jeunesse et des Sports
 - annees:
+  - avis:
+    - description: Traitement des données graphiques via un lac de donnée (entrepôt
+        et laboratoire de données)
+      file: "/uploads/Datalake_art.3.pdf"
+      titre: ASP-Datalake
+    date-annee: 
   - avis:
     - description: Programme de rénovation du SI de l'enseignement agricole
       file: "/uploads/sirena_art_3.pdf"
