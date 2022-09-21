@@ -40,16 +40,16 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Chargé/e de mission administration proactive et transformation numérique de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-administration-proactive-et-transformation-numerique-de-l-tat-hf-reference-2022-992852/ "Chargé-e de mission administration proactive et transformation numérique de l'État H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-adjointe-de-projets-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2022-1010565/ "Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
 <br>Cadre/Catégorie A, Lyon (69001)
 <br>
 
 * **[Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-adjointe-de-projets-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2022-1010575/ "Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
 <br>Cadre/Catégorie A, Saint Jacques de La Lande (35136)
-<br>
-
-* **[Chargé/e de mission administration proactive et transformation numérique de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-administration-proactive-et-transformation-numerique-de-l-tat-hf-reference-2022-992852/ "Chargé-e de mission administration proactive et transformation numérique de l'État H/F - Lien externe")**
-<br>Cadre/Catégorie A
 <br>
 
 * **[Chargé/e de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-992876/ "Chargé/e de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
