@@ -40,6 +40,14 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-adjointe-de-projets-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2022-1010565/ "Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>6 quai Saint Vincent, Lyon (69001)
+
+* **[Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-adjointe-de-projets-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2022-1010575/ "Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>28, rue de la Pilate, Saint Jacques de La Lande (35136)
+
 * **[Chargé/e de mission administration proactive et transformation numérique de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-administration-proactive-et-transformation-numerique-de-l-tat-hf-reference-2022-992852/ "Chargé-e de mission administration proactive et transformation numérique de l'État H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -69,10 +77,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Directeur de projets numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeur-de-projets-numeriques-deux-postes-a-pouvoircdd-3-ans-renouvelable-une-fois-hf-reference-2022-975781/ "Directeur de projets numériques H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Ingénieur/e Système et réseaux H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieure-systeme-et-reseaux-hf-reference-2022-988665/ "Ingénieur/e Système et réseaux H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
