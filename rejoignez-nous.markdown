@@ -80,6 +80,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
+* **[Chef/fe du département Etalab H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-du-departement-etalab-hf-reference-2022-1006598/ "Chef/fe du département Etalab H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 <!--
 > ### Talents du numérique : l’État recrute !
 > <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
