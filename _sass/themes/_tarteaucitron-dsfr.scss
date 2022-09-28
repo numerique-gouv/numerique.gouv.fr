@@ -1143,3 +1143,8 @@ div#tarteaucitronRoot.tarteaucitronBeforeVisible:before,
 div#tarteaucitronAlertBig {
   display:none !important;
 }
+
+#tarteaucitronRoot {
+  position: absolute !important;
+  bottom: 0 !important;
+}

@@ -1,4 +1,5 @@
 <head>
+  {% include imports/tarte-au-citron.html %}
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -24,7 +25,6 @@
   <meta name="twitter:description" content="{{ description }}">
   <meta name="twitter:image" content="{% if page.une-ou-diaporama[0].image %}{{ site.url }}{{ page.une-ou-diaporama[0].image }}{%else%}{{ site.url }}/uploads/default.jpeg{% endif %}">
 
-  {% include imports/tarte-au-citron.html %}
   {% include imports/matomo.html %}
   <script src="https://tag.aticdn.net/615183/smarttag.js"></script>
   <script>
