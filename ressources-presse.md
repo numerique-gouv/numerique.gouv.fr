@@ -17,8 +17,6 @@ layout: ressources-presse
 ### Photographie
 
 <img src="/uploads/Stephanie%20Schaer.png" alt="" style="margin-right: 20px" width="20%" align="right">
-<br>
-<br>
 
 Télécharger le portrait de Stéphanie Schaer en HD :
 * [format jpg, en CMJN (pour un usage print - 88 Ko)](/uploads/Stephanie_Schaer_CMJN_HD.jpg) 
