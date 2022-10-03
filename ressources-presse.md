@@ -14,7 +14,7 @@ layout: ressources-presse
 ---
 
 <h2>Stéphanie Schaer, directrice interministérielle du numérique</h2>
-<img src="/uploads/Stephanie%20Schaer.png" alt="" style="margin-right: 20px" width="20%" align="right"><h3>Photographie</h3>
+<h3><img src="/uploads/Stephanie%20Schaer.png" alt="" style="margin-right: 20px" width="20%" align="right">Photographie</h3>
 Télécharger le portrait de Stéphanie Schaer en HD :
 * [format jpg, en CMJN (pour un usage print - 88 Ko)](/uploads/Stephanie_Schaer_CMJN_HD.jpg) 
 * [format png, en RVB (pour un usage web - 1,5 Mo)](/uploads/Stephanie_Schaer_RVB_HD.png)
