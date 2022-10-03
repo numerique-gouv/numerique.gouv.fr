@@ -13,16 +13,16 @@ Personnes:
 layout: ressources-presse
 ---
 
-## Xavier Albouy, directeur interministériel du numérique par intérim
+## Stéphanie Schaer, directrice interministérielle du numérique
 ### Photographie
 
-<img src="/uploads/2022_Xavier%20ALBOUY_directeur%20interminist%C3%A9riel%20du%20num%C3%A9rique%20par%20interim-web.png" alt="" style="margin-right: 20px" width="20%" align="right">
+<img src="/uploads/Stephanie%20Schaer.png" alt="" style="margin-right: 20px" width="20%" align="right">
 <br>
 <br>
 
-Télécharger le portrait de Xavier Albouy en HD :
-* [format jpg, en CMJN (pour un usage print - 21,2 Mo)](/uploads/2022_Xavier%20ALBOUY_directeur%20interminist%C3%A9riel%20du%20num%C3%A9rique%20par%20interim-print.jpg) 
-* [format png, en RVB (pour un usage web - 26,5 Mo)](/uploads/2022_Xavier%20ALBOUY_directeur%20interminist%C3%A9riel%20du%20num%C3%A9rique%20par%20interim-web-89c065.png)
+Télécharger le portrait de Stéphanie Schaer en HD :
+* [format jpg, en CMJN (pour un usage print - 88 Ko)](/uploads/Stephanie_Schaer_CMJN_HD.jpg) 
+* [format png, en RVB (pour un usage web - 1,51 Mo)](/uploads/Stephanie_Schaer_RVB_HD.png)
 <br>
 ### Biographie
 
