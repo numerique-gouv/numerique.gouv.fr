@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 23 septembre 2022
+date_de_modification: 3 octobre 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -40,10 +40,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Chargé/e de mission administration proactive et transformation numérique de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-administration-proactive-et-transformation-numerique-de-l-tat-hf-reference-2022-992852/ "Chargé-e de mission administration proactive et transformation numérique de l'État H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-adjointe-de-projets-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2022-1010565/ "Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
 <br>Cadre/Catégorie A, Lyon (69001)
 <br>
@@ -52,19 +48,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A, Saint Jacques de La Lande (35136)
 <br>
 
-* **[Chargé/e de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2022-992876/ "Chargé/e de mission - Sécurisation et conseil des grands projets SI de l'État H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Responsable distribution et promotion produits FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-distribution-et-promotion-produits-franceconnect-cdd-3ans-hf-reference-2022-971783/ "Responsable distribution et promotion produits FranceConnect H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Ingénieur/e Réseau - Chargé/e de la relation fournisseurs H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-la-relation-fournisseurs-cdd-3ans-hf-reference-2022-971729/ "Ingénieur-e Réseau - Chargé-e de la relation fournisseurs H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Ingénieur/e réseau - Chargé/e de relations ministères H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-e-reseau---charge-e-de-relations-ministeres--cdd-3ans-hf-reference-2022-982347/ "Ingénieur/e réseau - Chargé/e de relations ministères H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
@@ -73,10 +57,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 
 * **[Chargé/e de mission conformité RGPD H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-conformite-rgpd-hf-reference-2022-997800/ "Chargé/e de mission conformité RGPD H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Directeur de projets numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeur-de-projets-numeriques-deux-postes-a-pouvoircdd-3-ans-renouvelable-une-fois-hf-reference-2022-975781/ "Directeur de projets numériques H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
