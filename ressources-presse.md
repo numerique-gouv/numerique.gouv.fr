@@ -4,8 +4,8 @@ permalink: "/espace-presse/ressources-presse/"
 une-ou-diaporama:
 - image: "/assets/img/main/image_espace_presse.jpg"
 Personnes:
-- nom: Henri
-  image: "/uploads/Portrait_Henri_Verdier.JPG"
+- nom: 
+  image: 
   Key: 
 - nom: 
   image: 
