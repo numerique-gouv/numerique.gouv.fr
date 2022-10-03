@@ -108,7 +108,7 @@ function myFunction(id) {
 
 <li><b>Le secrétariat général&nbsp;:</b> Catherine Ferréol</li>
 <li><b>La direction :</b> Stéphanie Schaer </li>
-<li>Adjoint&nbsp;: Xavier Albouy</li>
+<br>Adjoint&nbsp;: Xavier Albouy
 </ul>
 </div>
 </div>
