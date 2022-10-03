@@ -12,7 +12,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) est en cha
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 28 juillet 2022
+date_de_modification: 3 octobre 2022
 layout: dinsic
 ---
 
@@ -45,7 +45,7 @@ La DINUM comprend une direction de programme, trois départements et un secréta
 <br>
 <br>
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme_DINUM.PDF" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme_DINUM.PDF" class="button"><b>Consulter l'organigramme (160 Ko)</b></a></div>
 
 <script>
 function myFunction(id) {
@@ -107,7 +107,9 @@ function myFunction(id) {
   </ul><br></li>
 
 <li><b>Le secrétariat général&nbsp;:</b> Catherine Ferréol</li>
-<li><b>La direction :</b> Xavier Albouy (par intérim)</li>
+<li><b>La direction :</b> Stéphanie Schaer. 
+Adjoint&nbsp;: Xavier Albouy</li>
+
 </ul>
 </div>
 </div>
