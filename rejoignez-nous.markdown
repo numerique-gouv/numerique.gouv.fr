@@ -40,6 +40,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Responsable d'un portefeuille de produits numériques et de l'animation de beta.gouv.fr H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-d-un-portefeuille-de-produits-numeriques-et-de-l-animation-de-betagouvfr-hf-reference-2022-1021049/ "Responsable d'un portefeuille de produits numériques et de l'animation de beta.gouv.fr H/F - Lien externe")**
+<br>Cadre/Catégorie A, Lyon (69001)
+<br>
+
 * **[Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-adjointe-de-projets-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2022-1010565/ "Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
 <br>Cadre/Catégorie A, Lyon (69001)
 <br>
@@ -52,11 +56,19 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
+* **[Responsable de portefeuille de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-cdd-2-ans-renouvelable-hf-reference-2022-1006625/ "Responsable de portefeuille de produits numériques H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Architecte-Urbaniste des systèmes d'information H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-1002102/ "Architecte-Urbaniste des systèmes d'information H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
 * **[Chargé/e de mission conformité RGPD H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-conformite-rgpd-hf-reference-2022-997800/ "Chargé/e de mission conformité RGPD H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé/e de mission développement H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-developpement-rh-hf-reference-2022-1021009/ "Chargé/e de mission développement H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
