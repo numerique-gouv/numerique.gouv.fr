@@ -15,7 +15,7 @@ chapeau-text: A l’issue d’une première phase de trois mois de collaboration
 une-ou-diaporama:
 - image: "/uploads/2022_10_05_Visuel-article-AIC_800x400.png"
 auteur: etalab.gouv.fr
-redirection: 
+redirection: https://citoyens.transformation.gouv.fr/actualite.html
 ---
 
-<div class="lien-important"><p><a href="https://www.etalab.gouv.fr/entrepreneurs-dinteret-general-decouvrez-la-6eme-promotion-du-programme/" alt="Lire la suite - Lien externe">Lire la suite</a></p></div>
+<div class="lien-important"><p><a href="https://citoyens.transformation.gouv.fr/actualite.html" alt="Lire la suite - Lien externe">Lire la suite</a></p></div>
