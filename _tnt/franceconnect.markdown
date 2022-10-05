@@ -150,16 +150,6 @@ FranceConnect est la solution proposée par l’État pour faciliter l’accès 
 
 <div class="lien-important"><p><a href="https://api.gouv.fr/guides/api-franceconnectees" alt="Plus d'informations sur api.gouv.fr/guides/api-franceconnectees - Lien externe">Plus d'informations sur api.gouv.fr/guides/api-franceconnectees</a></p></div>
 
-<h3>Jusqu’à 10 000€ d’aide financière</h3>
-
-<p>Dans le cadre du plan France Relance, l’État vous aide financièrement à mettre en place ces solutions pour votre collectivité :</p>
-<ul><li><b>5 000€</b> pour installer FranceConnect</li> 
-<p style="margin-top: 10px"><b>+</b></p>
-<li><b>5 000€</b> pour raccorder vos démarches aux API nationales</li></ul> 
-<br>
-
-<div class="lien-important"><p><a href="https://france-relance.transformation.gouv.fr/fonds-collectivites">Informations et modalités sur france-relance.transformation.gouv.fr</a> <br>(Guichet : <a href="https://france-relance.transformation.gouv.fr/e13a-deployer-franceconnect-et-utiliser-les-api-na/">Déployer FranceConnect et utiliser les API nationales</a>)</p></div>
-
 <div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><strong>Vous avez une question ?</strong>
 <br>Vous pouvez contacter :</p>
 <ul><li>Pour FranceConnect : <a href="mailto:support.partenaires@franceconnect.gouv.fr">support.partenaires@franceconnect.gouv.fr</a></li>
