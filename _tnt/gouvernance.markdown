@@ -42,9 +42,8 @@ layout: tnt
   <div><a href="https://www.fnccr.asso.fr/" alt="FNCCR - Lien externe"><img src="/uploads/LOGO_FNCCR_2020.jpg" alt="Fédération nationale des collectivités concédantes et régies (FNCCR) - Services publics locaux de l'énergie, de l'eau, de l'environnement et des e-communications" width="120" align="middle"></a></div>
   <div><a href="https://www.interconnectes.com/" alt="Les interconnectés - Liens externe"><img src="/uploads/Logo_lesInterconnectes.png" alt="Les Interconnectés" width="170" align="middle"></a></div>
   <div><a href="https://www.avicca.org/" alt="Avicca - Lien externe"><img src="/uploads/Logo_AVICCA.jpg" alt="Avicca (Association des villes et collectivités pour les communications électroniques et l’audiovisuel)" width="140" align="middle"></a></div>
+<div><a href="https://www.opendatafrance.net/" alt="OpenDataFrance - Lien externe"><img src="/uploads/open-data-france.png" alt="OpenDataFrance" width="140" align="middle"></a></div>
 </div>
-
-
 
 ### Un comité de coordination
 Composé de la direction interministérielle du numérique (DINUM), de l’agence nationale de la cohésion des territoires (ANCT), des représentants des principales associations représentatives des collectivités territoriales et des responsables de chaque « groupe projet », ce comité est en charge de l’animation et se réunit trimestriellement. Sous l’autorité du ministère de la Transformation et de la Fonction publiques, la direction interministérielle du numérique assure la direction opérationnelle du programme.
