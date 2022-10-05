@@ -162,7 +162,7 @@ FranceConnect est la solution proposée par l’État pour faciliter l’accès 
 
 
 <div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><strong>État et collectivités s'engagent</strong></p>
-<p>La ministre de la Transformation et de la Fonction publiques, Amélie de Montchalin, et les associations représentatives des élus des collectivités territoriales ont signé en mars 2022 une charte d’engagement visant à accélérer le déploiement de FranceConnect et la récupération automatisée de données pour les services numériques des collectivités. Les éditeurs de logiciels sont invités à y souscrire également.</p>
+<p>Le ministère de la Transformation et de la Fonction publiques et les associations représentatives des élus des collectivités territoriales ont signé en mars 2022 une charte d’engagement visant à accélérer le déploiement de FranceConnect et la récupération automatisée de données pour les services numériques des collectivités. Les éditeurs de logiciels sont invités à y souscrire également.</p>
 <p><a href="/uploads/Charte_engagement_FranceConnect-API.pdf" alt="Consulter la charte d'engagement (pdf, 330ko)">> Consulter la charte d'engagement (pdf, 330ko)</a>
 <br><a href="/actualites/letat-et-les-collectivites-territoriales-sengagent-a-accelerer-le-deploiement-de-franceconnect-et-du-partage-de-donnees-dans-les-collectivites/">> Lire notre article</a></p>
 </div>
