@@ -11,10 +11,10 @@ tags:
 - Transformation publique
 chapeau-text: A l’issue d’une première phase de trois mois de collaboration avec les
   projets lauréats, l’Accélérateur d’initiatives citoyennes détaille les avancées
-  du programme et les progrès réalisés
+  du programme et les progrès réalisés.
 une-ou-diaporama:
 - image: "/uploads/2022_10_05_Visuel-article-AIC_800x400.png"
-auteur: etalab.gouv.fr
+auteur: citoyens.transformation.gouv.fr
 redirection: https://citoyens.transformation.gouv.fr/actualite.html
 ---
 
