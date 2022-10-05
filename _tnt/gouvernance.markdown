@@ -20,7 +20,7 @@ layout: tnt
 ---
 
 <h3>Un comité d’orientation politique</h3> 
-<p><img src="/uploads/copol_TNT_20211122_009.jpeg" alt="" style="margin-right: 10px" width="300px" align="left">Présidé par le ministre de la Transformation et de la Fonction publiques qui associe le ministre de la Transition écologique et de la Cohésion des territoires , ce comité biannuel assure le pilotage à haut niveau du programme TNT avec les dirigeants des principales associations représentatives des collectivités territoriales. Le comité d’orientation politique définit les grands objectifs et valide une feuille de route.</p> 
+<p><img src="/uploads/copol_TNT_20211122_009.jpeg" alt="" style="margin-right: 10px" width="300px" align="left">Présidé par le ministre de la Transformation et de la Fonction publiques qui associe le ministre de la Transition écologique et de la Cohésion des territoires, ce comité biannuel assure le pilotage à haut niveau du programme TNT avec les dirigeants des principales associations représentatives des collectivités territoriales. Le comité d’orientation politique définit les grands objectifs et valide une feuille de route.</p> 
 <p>Dans le cadre de France Relance, il assure le pilotage stratégique de l’enveloppe «&nbsp;Transformation numérique des collectivités territoriales&nbsp;» et définit à cet effet les axes prioritaires qui nécessitent d’être soutenus, analyse les indicateurs territoriaux et financiers de consommation des crédits et peut se prononcer sur les montants attribués.</p> 
 <h4>Les membres du comité d’orientation politique&nbsp;:</h4> 
 <p><strong>Côté État&nbsp;:</strong></p>
