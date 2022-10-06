@@ -41,7 +41,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 {: .margin-bottom-1}
 
 * **[Responsable d'un portefeuille de produits numériques et de l'animation de beta.gouv.fr H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-d-un-portefeuille-de-produits-numeriques-et-de-l-animation-de-betagouvfr-hf-reference-2022-1021049/ "Responsable d'un portefeuille de produits numériques et de l'animation de beta.gouv.fr H/F - Lien externe")**
-<br>Cadre/Catégorie A, Lyon (69001)
+<br>Cadre/Catégorie A,
 <br>
 
 * **[Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-adjointe-de-projets-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2022-1010565/ "Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
