@@ -2,6 +2,11 @@
 title: 'Plan de sobriété énergétique : réduire les consommations de l’État liées au
   numérique'
 date: 2022-10-07 16:31:00 +02:00
+categories:
+- Brève
+tags:
+- numérique écoresponsable
+- Environnement
 ---
 
 Avec le plan de sobriété énergétique, le Gouvernement français s’est fixé l’objectif de baisser de 10% la consommation du pays en 2 ans. Aux côtés des entreprises, des citoyens et des collectivités, l’État prend lui aussi part à l’effort collectif.
