@@ -40,8 +40,6 @@ Tous les « groupes projets » sont ouverts aux agents ou élus de collectivité
 * **Copilotes :** l’Agence nationale de la cohésion des territoires (ANCT), France urbaine, l’Assemblée des Communautés de France (AdCF) et Villes de France.
 * **Livrables et outils produits** : à découvrir dans [notre rubrique Outils](/services/tnt/outils/#livrables-sensibilisation)
 
-<p><a href="https://airtable.com/shrZdPoeKxSBKQRTt" class="button">S’inscrire pour participer à ce groupe projet</a></p>
-
 #### Groupe projet 3 : Accompagnement à la dématérialisation des demandes d’urbanisme
 * **Objectif :** Suivre le déploiement du programme et accompagner les collectivités à la mise en œuvre de Démat.ADS, les dématérialisations des autorisations d’urbanisme.
 * **Copilotes :** la direction générale de l’aménagement, du logement et de la nature (DGALN), le ministère de la Transition écologique (MTE) et l’Association des Maires de France (AMF).
@@ -50,7 +48,7 @@ Tous les « groupes projets » sont ouverts aux agents ou élus de collectivité
 <p><a href="https://airtable.com/shrGulbiPIH49ToMg" class="button">S’inscrire pour participer à ce groupe projet</a></p>
 
 #### Groupe projet 4 : Accélération du déploiement de FranceConnect et des API FranceConnectées
-* **Objectifs :** Rassembler et communiquer les prérequis d’implémentation de FranceConnect et les ressources (techniques et humaines) nécessaires pour accélérer son implémentation 
+* **Objectifs :** Rassembler et communiquer les prérequis d’implémentation de FranceConnect et les ressources (techniques et humaines) nécessaires pour accélérer son implémentation.
 * **Pilote :** la direction interministérielle du numérique (DINUM).
 
 <p><a href="https://airtable.com/shr17t7ZxzA4aSeJK" class="button">S’inscrire pour participer à ce groupe projet</a></p>
@@ -60,14 +58,14 @@ Tous les « groupes projets » sont ouverts aux agents ou élus de collectivité
 
 
 #### Groupe projet 5 : Catalogue des dispositifs d’aides/de formation aux collectivités sur la cybersécurité 
-* **Objectif :** Formaliser un catalogue des ressources sur la cybersécurité disponible auprès des collectivités territoriales (élus, décideurs territoriaux et agents)
+* **Objectif :** Formaliser un catalogue des ressources sur la cybersécurité disponible auprès des collectivités territoriales (élus, décideurs territoriaux et agents).
 * **Copilotes :** AVICAA et FNCCR.
 
 <p><a href="https://airtable.com/shrfFdEXZ7RHqCjcC" class="button">S’inscrire pour participer à ce groupe projet</a></p>
 
 
 #### Groupe projet 6 : Sensibilisation des petites et moyennes collectivités sur la data
-* **Objectifs :** Mieux informer les collectivités via les associations d'élus sur les enjeux de la donnée et faire connaître l’offre existante
+* **Objectifs :** Mieux informer les collectivités via les associations d'élus sur les enjeux de la donnée et faire connaître l’offre existante.
 * **Copilotes :** OpenDataFrance, FNCCR et l'Agence nationale de la cohésion des territoires (ANCT).
 
 <p><a href="https://airtable.com/shrtmOG8shaaJ5BA0" class="button">S’inscrire pour participer à ce groupe projet</a></p>

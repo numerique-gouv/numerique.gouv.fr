@@ -20,12 +20,12 @@ layout: tnt
 ---
 
 <h3>Un comité d’orientation politique</h3> 
-<p><img src="/uploads/copol_TNT_20211122_009.jpeg" alt="" style="margin-right: 10px" width="300px" align="left">Présidé par la ministre de la Transformation et de la Fonction publiques qui associe la ministre de la Cohésion des territoires et des Relations avec les collectivités territoriales, ce comité biannuel assure le pilotage à haut niveau du programme TNT avec les dirigeants des principales associations représentatives des collectivités territoriales. Le comité d’orientation politique définit les grands objectifs et valide une feuille de route.</p> 
+<p><img src="/uploads/copol_TNT_20211122_009.jpeg" alt="" style="margin-right: 10px" width="300px" align="left">Présidé par le ministre de la Transformation et de la Fonction publiques qui associe le ministre de la Transition écologique et de la Cohésion des territoires, ce comité biannuel assure le pilotage à haut niveau du programme TNT avec les dirigeants des principales associations représentatives des collectivités territoriales. Le comité d’orientation politique définit les grands objectifs et valide une feuille de route.</p> 
 <p>Dans le cadre de France Relance, il assure le pilotage stratégique de l’enveloppe «&nbsp;Transformation numérique des collectivités territoriales&nbsp;» et définit à cet effet les axes prioritaires qui nécessitent d’être soutenus, analyse les indicateurs territoriaux et financiers de consommation des crédits et peut se prononcer sur les montants attribués.</p> 
 <h4>Les membres du comité d’orientation politique&nbsp;:</h4> 
 <p><strong>Côté État&nbsp;:</strong></p>
 <img src="/uploads/copol_TNT_20211122.jpeg" alt="" style="margin-left: 10px; margin-bottom: 20px" width="300px" align="right">
-<ul><li>Ministre de la Transformation et de la Fonction publiques</li> <li>Ministre de la Cohésion des territoires et des Relations avec les collectivités territoriales</li> <li>Direction interministérielle du numérique (DINUM)</li> <li>Direction interministérielle de la transformation publique (DITP)</li> <li>Agence nationale de la cohésion des territoires (ANCT)</li> </ul> 
+<ul><li>Ministre de la Transformation et de la Fonction publiques</li> <li>Ministre de la Transition écologique et de la Cohésion des territoires</li> <li>Direction interministérielle du numérique (DINUM)</li> <li>Direction interministérielle de la transformation publique (DITP)</li> <li>Agence nationale de la cohésion des territoires (ANCT)</li> </ul> 
 <br>
 
 **Côté collectivités territoriales :**
@@ -42,9 +42,8 @@ layout: tnt
   <div><a href="https://www.fnccr.asso.fr/" alt="FNCCR - Lien externe"><img src="/uploads/LOGO_FNCCR_2020.jpg" alt="Fédération nationale des collectivités concédantes et régies (FNCCR) - Services publics locaux de l'énergie, de l'eau, de l'environnement et des e-communications" width="120" align="middle"></a></div>
   <div><a href="https://www.interconnectes.com/" alt="Les interconnectés - Liens externe"><img src="/uploads/Logo_lesInterconnectes.png" alt="Les Interconnectés" width="170" align="middle"></a></div>
   <div><a href="https://www.avicca.org/" alt="Avicca - Lien externe"><img src="/uploads/Logo_AVICCA.jpg" alt="Avicca (Association des villes et collectivités pour les communications électroniques et l’audiovisuel)" width="140" align="middle"></a></div>
+<div><a href="https://www.opendatafrance.net/" alt="OpenDataFrance - Lien externe"><img src="/uploads/open-data-france.png" alt="OpenDataFrance" width="140" align="middle"></a></div>
 </div>
-
-
 
 ### Un comité de coordination
 Composé de la direction interministérielle du numérique (DINUM), de l’agence nationale de la cohésion des territoires (ANCT), des représentants des principales associations représentatives des collectivités territoriales et des responsables de chaque « groupe projet », ce comité est en charge de l’animation et se réunit trimestriellement. Sous l’autorité du ministère de la Transformation et de la Fonction publiques, la direction interministérielle du numérique assure la direction opérationnelle du programme.
