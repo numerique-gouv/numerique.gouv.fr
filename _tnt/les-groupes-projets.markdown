@@ -33,8 +33,6 @@ Tous les « groupes projets » sont ouverts aux agents ou élus de collectivité
 * **Copilotes :** la direction interministérielle du numérique et l’association Déclic.
 * **Livrables et outils produits** : à découvrir dans [notre rubrique Outils](/services/tnt/outils/#livrables-agenda)
 
-<p><a href="https://airtable.com/shreNhI841LrZpUyF" class="button">S’inscrire pour participer à ce groupe projet</a></p>
-
 #### Groupe projet 2 : Sensibilisation des élus et cadres dirigeants des collectivités
 * **Objectif :** Construire une offre de sensibilisation, d’acculturation et de formation portant sur les enjeux de la transformation numérique à destination des élus et des cadres dirigeants des collectivités.
 * **Copilotes :** l’Agence nationale de la cohésion des territoires (ANCT), France urbaine, l’Assemblée des Communautés de France (AdCF) et Villes de France.
@@ -45,13 +43,9 @@ Tous les « groupes projets » sont ouverts aux agents ou élus de collectivité
 * **Copilotes :** la direction générale de l’aménagement, du logement et de la nature (DGALN), le ministère de la Transition écologique (MTE) et l’Association des Maires de France (AMF).
 * **Livrables et outils produits** : à découvrir dans [notre rubrique Outils](/services/tnt/outils/#livrables-ads)
 
-<p><a href="https://airtable.com/shrGulbiPIH49ToMg" class="button">S’inscrire pour participer à ce groupe projet</a></p>
-
 #### Groupe projet 4 : Accélération du déploiement de FranceConnect et des API FranceConnectées
 * **Objectifs :** Rassembler et communiquer les prérequis d’implémentation de FranceConnect et les ressources (techniques et humaines) nécessaires pour accélérer son implémentation.
 * **Pilote :** la direction interministérielle du numérique (DINUM).
-
-<p><a href="https://airtable.com/shr17t7ZxzA4aSeJK" class="button">S’inscrire pour participer à ce groupe projet</a></p>
 
 État et associations d'élus s'engagent dans l'accélération du déploiement de FranceConnect et des API FranceConnectées à travers [une charte (pdf, 330ko)](/uploads/Charte_engagement_FranceConnect-API.pdf "une charte (pdf, 330ko) - Ouvre un pdf") à laquelle les éditeurs de logiciels sont invités à se joindre.
 [> Lire notre article](/actualites/letat-et-les-collectivites-territoriales-sengagent-a-accelerer-le-deploiement-de-franceconnect-et-du-partage-de-donnees-dans-les-collectivites/)
@@ -61,14 +55,10 @@ Tous les « groupes projets » sont ouverts aux agents ou élus de collectivité
 * **Objectif :** Formaliser un catalogue des ressources sur la cybersécurité disponible auprès des collectivités territoriales (élus, décideurs territoriaux et agents).
 * **Copilotes :** AVICAA et FNCCR.
 
-<p><a href="https://airtable.com/shrfFdEXZ7RHqCjcC" class="button">S’inscrire pour participer à ce groupe projet</a></p>
-
-
 #### Groupe projet 6 : Sensibilisation des petites et moyennes collectivités sur la data
 * **Objectifs :** Mieux informer les collectivités via les associations d'élus sur les enjeux de la donnée et faire connaître l’offre existante.
 * **Copilotes :** OpenDataFrance, FNCCR et l'Agence nationale de la cohésion des territoires (ANCT).
 
-<p><a href="https://airtable.com/shrtmOG8shaaJ5BA0" class="button">S’inscrire pour participer à ce groupe projet</a></p>
 <br>
 <br>
 
