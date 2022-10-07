@@ -38,7 +38,7 @@ En s’appuyant sur les réussites identifiées du précédent programme, les re
 
 <div style="margin-bottom: 20px; margin-top: 10px;" align="center"><a href="https://calendly.com/dinum-programme-tnt/rdv-tnt" class="button" alt="S'inscrire à un créneau - Lien externe"><b>S'inscrire à un créneau</b></a> 
 
-<br>Pour contacter l’équipe TNT&nbsp;:</strong> <a href="mailto:tnt.dinum@modernisation.gouv.fr">tnt.dinum@modernisation.gouv.fr</a></p><p><b>Pour suivre l’actualité du programme :</b>
+<br><p style="margin-top: 20px; margin-bottom: 10px;"><strong>Pour contacter l’équipe TNT&nbsp;:</strong> <a href="mailto:tnt.dinum@modernisation.gouv.fr">tnt.dinum@modernisation.gouv.fr</a></p><p><b>Pour suivre l’actualité du programme :</b>
 </p><ul><li><a href="https://twitter.com/Programme__TNT">Suivez le fil Twitter du programme TNT</a></li>
 <li><a href="https://twitter.us18.list-manage.com/subscribe?u=995bcff48d7e506101c167107&amp;id=18818b1a25">Abonnez-vous à sa lettre d’informations</a></li></ul><p></p>
 </div>
