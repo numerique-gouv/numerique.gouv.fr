@@ -33,3 +33,6 @@ En s’appuyant sur les réussites identifiées du précédent programme, les re
 </div>
 
 <i>Le programme TNT prend la suite du programme DCANT, achevé en 2020 (retrouver [le bilan 2018-2020](/uploads/bilan_dcant_2018-2020_final.pdf)).</i>
+
+<div class="noir encadre"><h4>Vous êtes une collectivité territoriale ou un service déconcentré de l’État ?</h4> <p>Vous vous interrogez sur les outils, ressources, expertises mobilisables pour accélérer la transformation numérique de votre territoire ? Afin de vous orienter, le Programme TNT est là pour vous. Des créneaux hebdomadaires, de 20 minutes, vous sont proposés pour échanger sur vos problématiques et répondre à vos interrogations. [Inscrivez-vous ici](https://calendly.com/dinum-programme-tnt/rdv-tnt). 
+</div>
