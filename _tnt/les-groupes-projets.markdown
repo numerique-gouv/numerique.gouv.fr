@@ -23,7 +23,7 @@ une:
 layout: tnt
 ---
 
-Les ministres et les associations d’élus ont décidé d’engager des « groupes projet » reposant sur les principes de : copilotage entre l’État et les collectivités et des résultats concrets et rapides. 
+Les ministres et les associations d’élus ont décidé d’engager des « groupes projets » reposant sur les principes de : copilotage entre l’État et les collectivités et des résultats concrets et rapides. 
 Tous les « groupes projets » sont ouverts aux agents ou élus de collectivités territoriales qui souhaitent participer à ces travaux.
 
 <div class="lien-important"><p><a href="https://airtable.com/shrJ1X2yRfQTkycFD">Je souhaite m’inscrire à l’espace collaboratif TNT afin de suivre l’avancement des travaux et participer aux échanges</a></p></div>
