@@ -32,4 +32,4 @@ En s’appuyant sur les réussites identifiées du précédent programme, les re
 <li><a href="https://twitter.us18.list-manage.com/subscribe?u=995bcff48d7e506101c167107&amp;id=18818b1a25">Abonnez-vous à sa lettre d’informations</a></li></ul><p></p>
 </div>
 
-*Le programme TNT prend la suite du programme DCANT, achevé en 2020 (retrouver [le bilan 2018-2020](/uploads/bilan_dcant_2018-2020_final.pdf)).*
+<i>Le programme TNT prend la suite du programme DCANT, achevé en 2020 (retrouver [le bilan 2018-2020](/uploads/bilan_dcant_2018-2020_final.pdf)).</i>
