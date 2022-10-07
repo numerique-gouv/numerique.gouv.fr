@@ -33,5 +33,3 @@ En s’appuyant sur les réussites identifiées du précédent programme, les re
 </div>
 
 *Le programme TNT prend la suite du programme DCANT, achevé en 2020 (retrouver [le bilan 2018-2020](/uploads/bilan_dcant_2018-2020_final.pdf)).*
-
-Le programme TNT prend la suite du programme DCANT, achevé en 2020 (retrouver [bilan_dcant_2018-2020_final.pdf](/uploads/bilan_dcant_2018-2020_final.pdf)).
