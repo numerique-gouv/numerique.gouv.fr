@@ -7,6 +7,8 @@ categories:
 tags:
 - numérique écoresponsable
 - Environnement
+une-ou-diaporama:
+- image: "/uploads/2022_10_07_800x430_plan-sobriete_article.jpg"
 ---
 
 Avec le plan de sobriété énergétique, le Gouvernement français s’est fixé l’objectif de baisser de 10% la consommation du pays en 2 ans. Aux côtés des entreprises, des citoyens et des collectivités, l’État prend lui aussi part à l’effort collectif.
