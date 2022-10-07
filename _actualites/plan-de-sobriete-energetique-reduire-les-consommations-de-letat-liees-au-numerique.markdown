@@ -21,7 +21,7 @@ L’ensemble des administrations d’État sont ainsi invitées à :
 * améliorer l’efficacité énergétique des centres de données (data centers) de l’État ;
 * limiter l’usage des écrans en débranchant tous les écrans non essentiels (halls, selfs...) et en les supprimant dans un second temps lorsque c’est possible.
 
-> [Retrouvez l’ensemble des engagements du Gouvernement, dans tous les secteurs](https://www.ecologie.gouv.fr/dossier-presse-plan-sobriete-energetique-mobilisation-generale "Retrouvez l’ensemble des engagements du Gouvernement, dans tous les secteurs - Lien externe")
+[> Retrouvez l’ensemble des engagements du Gouvernement, dans tous les secteurs](https://www.ecologie.gouv.fr/dossier-presse-plan-sobriete-energetique-mobilisation-generale "Retrouvez l’ensemble des engagements du Gouvernement, dans tous les secteurs - Lien externe")
 
 <div class="encadre noir" style="margin-bottom:40px"><h4 style="margin-top: 40px;">Acteurs publics, réduisez votre empreinte environnementale et énergétique liée au numérique</h4><p>Pour aider les administrations à réduire l’empreinte environnementale et énergétique de leurs activités numériques, la mission interministérielle Numérique écoresponsable (MiNumEco), copilotée par la DINUM et le ministère en charge de la Transition écologique, conçoit et propose tout un ensemble de ressources : des formations, outils, guides, référentiels, actualités, vidéos...
 </p>
