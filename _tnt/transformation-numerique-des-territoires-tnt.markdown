@@ -29,6 +29,6 @@ En s’appuyant sur les réussites identifiées du précédent programme, les re
 
 <div class="noir encadre"><h4>Vous êtes une collectivité territoriale ou un service déconcentré de l’État ?</h4> <p>Vous vous interrogez sur les outils, ressources, expertises mobilisables pour accélérer la transformation numérique de votre territoire ? Afin de vous orienter, le Programme TNT est là pour vous. Des créneaux hebdomadaires, de 20 minutes, vous sont proposés pour échanger sur vos problématiques et répondre à vos interrogations. 
 
-<div style="margin-bottom: 20px; margin-top: 10px;" align="center"><a href="https://calendly.com/dinum-programme-tnt/rdv-tnt" class="button" alt="S'inscrire à un créneau - Lien externe"><b>S'inscrire à un créneau</b></a> </div></div>
+<div style="margin-bottom: 20px; margin-top: 10px;" align="center"><a href="https://calendly.com/dinum-programme-tnt/rdv-tnt" class="button" alt="S'inscrire à un créneau - Lien externe"><b>S'inscrire à un créneau</b></a> </div>
 
 *Le programme TNT prend la suite du programme DCANT, achevé en 2020 (retrouver [le bilan 2018-2020](/uploads/bilan_dcant_2018-2020_final.pdf)).*
