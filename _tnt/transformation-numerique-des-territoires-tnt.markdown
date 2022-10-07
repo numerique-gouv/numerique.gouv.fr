@@ -21,14 +21,14 @@ En s’appuyant sur les réussites identifiées du précédent programme, les re
 2. **S’engager dans une perspective de résultats** en consacrant le temps et les ressources mobilisés par les parties prenantes à ce programme à la mise en œuvre de solutions numériques concrètes et visibles par les citoyens et les agents publics.
 3. **Accroître la notoriété du fonds « Transformation numérique des collectivités territoriales » du plan France Relance**, encourageant ainsi les collectivités à se saisir des opportunités proposées.
 
+<div class="noir encadre"><h4>Vous êtes une collectivité territoriale ou un service déconcentré de l’État ?</h4> <p>Vous vous interrogez sur les outils, ressources, expertises mobilisables pour accélérer la transformation numérique de votre territoire ? Afin de vous orienter, le Programme TNT est là pour vous. Des créneaux hebdomadaires, de 20 minutes, vous sont proposés pour échanger sur vos problématiques et répondre à vos interrogations. 
+
+<div style="margin-bottom: 20px; margin-top: 10px;" align="center"><a href="https://calendly.com/dinum-programme-tnt/rdv-tnt" class="button" alt="S'inscrire à un créneau - Lien externe"><b>S'inscrire à un créneau</b></a> </div>
+
 <div class="encadre noir" style="margin-bottom:40px"><p style="margin-top: 20px; margin-bottom: 10px;"><strong>
 <br>Pour contacter l’équipe TNT&nbsp;:</strong> <a href="mailto:tnt.dinum@modernisation.gouv.fr">tnt.dinum@modernisation.gouv.fr</a></p><p><b>Pour suivre l’actualité du programme :</b>
 </p><ul><li><a href="https://twitter.com/Programme__TNT">Suivez le fil Twitter du programme TNT</a></li>
 <li><a href="https://twitter.us18.list-manage.com/subscribe?u=995bcff48d7e506101c167107&amp;id=18818b1a25">Abonnez-vous à sa lettre d’informations</a></li></ul><p></p>
 </div>
-
-<div class="noir encadre"><h4>Vous êtes une collectivité territoriale ou un service déconcentré de l’État ?</h4> <p>Vous vous interrogez sur les outils, ressources, expertises mobilisables pour accélérer la transformation numérique de votre territoire ? Afin de vous orienter, le Programme TNT est là pour vous. Des créneaux hebdomadaires, de 20 minutes, vous sont proposés pour échanger sur vos problématiques et répondre à vos interrogations. 
-
-<div style="margin-bottom: 20px; margin-top: 10px;" align="center"><a href="https://calendly.com/dinum-programme-tnt/rdv-tnt" class="button" alt="S'inscrire à un créneau - Lien externe"><b>S'inscrire à un créneau</b></a> </div>
 
 *Le programme TNT prend la suite du programme DCANT, achevé en 2020 (retrouver [le bilan 2018-2020](/uploads/bilan_dcant_2018-2020_final.pdf)).*
