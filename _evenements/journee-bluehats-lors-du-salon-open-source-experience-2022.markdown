@@ -6,6 +6,16 @@ categories:
 chapeau-text: Pour la quatrième année, la communauté BlueHats vous donne rendez-vous
   au salon Open Source Experience, à Paris, pour une journée dédiée au partage d’expérience
   autour des logiciels libres dans l’administration publique.
+event_start_date: 2022-11-08 09:00:00 +01:00
+lieu: Palais des congrès - Paris
+adresse: Palais des congrès, 2 place de la porte Maillot, 75017 Paris
+champs_informations:
+- intitule: Agents publics ?
+  contenu: Proposer une intervention
+  lien: https://framaforms.org/appel-a-interventions-bluehats-a-osx-1664287204
+- intitule: S'inscrire
+  contenu: à l'Open Source Experience (gratuit)
+  lien: https://www.opensource-experience.com/creer-mon-badge/
 ---
 
 Suite au succès des éditions précédentes organisées lors des salons Paris Open Source Experience, la direction interministérielle du numérique (DINUM) vous invite à une journée de partage d’expérience autour des logiciels libres dans l’administration publique dans le cadre de l’édition 2022.
@@ -27,12 +37,12 @@ Proposez un sujet de présentation avant le 18 octobre 2022 en le décrivant en 
 
 <div align="center"  style="margin-bottom: 20px"><a href="https://framaforms.org/appel-a-interventions-bluehats-a-osx-1664287204" class="button"><b>Proposer une intervention</b><br>(ouvre un formulaire)</a></div>
 
-Vous souhaitez assister aux présentations ?
-Inscrivez-vous gratuitement au salon Open Source Experience et retrouvez-nous le 8 novembre en salle 252B… ou en suivant les chapeaux bleus.
+## Vous souhaitez assister aux présentations ?
+[Inscrivez-vous gratuitement au salon Open Source Experience](https://www.opensource-experience.com/creer-mon-badge/) et retrouvez-nous le 8 novembre en salle 252B… ou en suivant les chapeaux bleus.
 
-Pour toute question, écrivez-nous : logiciels-libres@data.gouv.fr 
+Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr ](mailto:logiciels-libres@data.gouv.fr)
 
-S'inscrire
+<div class="lien-important"><p><a href="https://www.opensource-experience.com/creer-mon-badge/"  title="S'inscrire">S'inscrire</a></p></div>
 
 <div class="noir encadre"><h3>La communauté Blue hats</h3>
 <p>Les Blue hats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="gazette - Lien externe">gazette</a>.</p>
