@@ -6,6 +6,10 @@ categories:
 chapeau-text: Pour la quatrième année, la communauté BlueHats vous donne rendez-vous
   au salon Open Source Experience, à Paris, pour une journée dédiée au partage d’expérience
   autour des logiciels libres dans l’administration publique.
+une-ou-diaporama:
+- image: "/uploads/2022_10_06_Opensource-Experience_BlueHats_AGENDA.png"
+  alternative-textuelle: "Open Source Experience\nJournée #BlueHats \n8 novembre 2022\nParis,
+    Palais des congrès"
 event_start_date: 2022-11-08 09:00:00 +01:00
 lieu: Palais des congrès - Paris
 adresse: Palais des congrès, 2 place de la porte Maillot, 75017 Paris
