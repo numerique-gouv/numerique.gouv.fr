@@ -28,7 +28,7 @@ Agents publics, citoyens, associations, entreprises, profils techniques et non t
 
 L’occasion pour vous de découvrir les avancées du logiciel libre dans l’administration, [les projets de la promotion 2022 2023 de notre nouveau programme BlueHats Semester of Code](https://communs.numerique.gouv.fr/bluehats/bsoc-promotion-2022/) et les retours d’expérience autour de logiciels libres développés et/ou utilisés dans la sphère publique.
 
-## Vous êtes un agent public et vous souhaitez intervenir ?
+### Vous êtes un agent public et vous souhaitez intervenir ?
 Agents publics, le programme de cette journée BlueHats se construit avec vous.
 
 Vous avez mis en place un logiciel libre dans votre administration ? Vous en avez développé un au sein de votre ministère ou collectivité ? Vous souhaitez partager votre expertise, une bonne pratique, vos travaux, vos réussites, vos difficultés, faire connaître un logiciel libre utile à vos collaborateurs ? 
@@ -41,7 +41,7 @@ Proposez un sujet de présentation avant le 18 octobre 2022 en le décrivant en 
 
 <div align="center"  style="margin-bottom: 20px"><a href="https://framaforms.org/appel-a-interventions-bluehats-a-osx-1664287204" class="button"><b>Proposer une intervention</b><br>(ouvre un formulaire)</a></div>
 
-## Vous souhaitez assister aux présentations ?
+### Vous souhaitez assister aux présentations ?
 [Inscrivez-vous gratuitement au salon Open Source Experience](https://www.opensource-experience.com/creer-mon-badge/) et retrouvez-nous le 8 novembre en salle 252B… ou en suivant les chapeaux bleus.
 
 Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr ](mailto:logiciels-libres@data.gouv.fr)
