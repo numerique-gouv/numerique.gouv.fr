@@ -57,6 +57,6 @@ Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr ](mailto:log
 
 **À lire aussi :**
 
-* [Découvrir la promotion BlueHats 2022-2023](https://communs.numerique.gouv.fr/posts/presentation-promotion-bluehats-2022/)
+* [Découvrir la promotion 2022-2023 du BlueHats Semester of code](https://communs.numerique.gouv.fr/posts/presentation-promotion-bluehats-2022/)
 
 * [Parcourir les programmes des éditions précédentes](https://communs.numerique.gouv.fr/rencontres/)
