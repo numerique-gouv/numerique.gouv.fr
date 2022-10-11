@@ -57,6 +57,6 @@ Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr ](mailto:log
 
 **À lire aussi :**
 
-* [Découvrir la promotion BlueHats 2022-2023](https://www.numerique.gouv.fr/agenda/journee-bluehats-dinum-paris-open-source-summit-2019/)
+* [Découvrir la promotion BlueHats 2022-2023](https://communs.numerique.gouv.fr/posts/presentation-promotion-bluehats-2022/)
 
 * [Parcourir les programmes des éditions précédentes](https://communs.numerique.gouv.fr/rencontres/)
