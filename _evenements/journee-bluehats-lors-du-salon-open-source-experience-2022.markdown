@@ -26,3 +26,23 @@ Chaque présentation doit tenir dans un format de 5 à 20 minutes.
 Proposez un sujet de présentation avant le 18 octobre 2022 en le décrivant en quelques lignes et en précisant votre administration de rattachement. Nous vous répondrons le 21 octobre et publierons le programme stabilisé ce même jour.
 
 <div align="center"  style="margin-bottom: 20px"><a href="https://framaforms.org/appel-a-interventions-bluehats-a-osx-1664287204" class="button"><b>Proposer une intervention</b><br>(ouvre un formulaire)</a></div>
+
+Vous souhaitez assister aux présentations ?
+Inscrivez-vous gratuitement au salon Open Source Experience et retrouvez-nous le 8 novembre en salle 252B… ou en suivant les chapeaux bleus.
+
+Pour toute question, écrivez-nous : logiciels-libres@data.gouv.fr 
+
+S'inscrire
+
+<div class="noir encadre"><h3>La communauté Blue hats</h3>
+<p>Les Blue hats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="gazette - Lien externe">gazette</a>.</p>
+<br><p>Pour recevoir l’actualité de la communauté et être informé des prochaines actions :
+</p><ul><li><a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="Inscrivez-vous à la gazette Bluehats ! - Lien externe">Inscrivez-vous à la gazette BlueHats</a></li></ul><p></p>
+<p>Pour discuter sur le thème du logiciel libre dans l’administration :
+</p><ul><li><a href="https://www.tchap.gouv.fr/#/room/%23BlueHats21LW8XE:agent.dinum.tchap.gouv.fr" alt="Retrouvez les BlueHats dans le salon dédié sur Tchap - Lien externe">Retrouvez les BlueHats dans le salon dédié sur Tchap,</a> la messagerie instantanée de l’État (réservé aux agents publics ou sur invitation)<p></p></li></ul></div>
+
+**À lire aussi :**
+
+* [Découvrir la promotion BlueHats 2022-2023](https://www.numerique.gouv.fr/agenda/journee-bluehats-dinum-paris-open-source-summit-2019/)
+
+* [Parcourir les programmes des éditions précédentes](https://communs.numerique.gouv.fr/rencontres/)
