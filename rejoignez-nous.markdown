@@ -60,10 +60,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>Cadre/Catégorie A
 <br>
 
-* **[Architecte-Urbaniste des systèmes d'information H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-urbaniste-des-systemes-d-information-cdd-3-ans-renouvelable-hf-reference-2022-1002102/ "Architecte-Urbaniste des systèmes d'information H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Chargé/e de mission Développement RH H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-developpement-rh-hf-reference-2022-1021009/ "Chargé/e de mission Développement RH H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
