@@ -23,6 +23,10 @@ sites-references:
     url: https://beta.gouv.fr/
   - link: etalab.gouv.fr
     url: https://www.etalab.gouv.fr/
+  - link: design.numerique.gouv.fr
+    url: https://design.numerique.gouv.fr
+  - link: ecoresponsable.numerique.gouv.fr 
+    url: https://ecoresponsable.numerique.gouv.fr
   - link: data.gouv.fr
     url: https://data.gouv.fr/
   - link: api.gouv.fr
@@ -31,10 +35,11 @@ sites-references:
     url: https://code.gouv.fr
   - link: communs.numerique.gouv.fr
     url: https://communs.numerique.gouv.fr/
-  - link: design.numerique.gouv.fr
-    url: https://design.numerique.gouv.fr
-  - link: ecoresponsable.numerique.gouv.fr 
-    url: https://ecoresponsable.numerique.gouv.fr
+  - link: Entrepreneurs d'intérêt général
+    url: https://eig.etalab.gouv.fr/
+  - link: Accélérateur d'initiatives citoyennes
+    url: https://citoyens.transformation.gouv.fr/
+
 
 outils-pour-les-agents:
   - link: Messagerie instantanée Tchap
@@ -49,6 +54,8 @@ outils-pour-les-agents:
     url: https://osmose.numerique.gouv.fr/
   - link: Resana
     url: https://resana.numerique.gouv.fr/
+  - link: France transfert
+    url: https://francetransfert.numerique.gouv.fr/
     
 services-usagers:
   - link: franceconnect.gouv.fr
