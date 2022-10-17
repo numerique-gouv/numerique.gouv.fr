@@ -1,6 +1,13 @@
 ---
 title: 'Numérique : les élus en parlent'
 date: 2022-10-17 13:11:00 +02:00
+permalink: "/services/tnt/elus-en-parlent/"
+menu:
+  title: Témoignages
+  weight: 60
+une:
+  image: "/uploads/TNT_Bandeau_Page-fille.png"
+layout: tnt
 ---
 
 Découvrez la transformation numérique des territoires racontée par ceux qui la portent, au sein des collectivités et structures territoriales.

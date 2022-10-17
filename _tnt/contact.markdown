@@ -4,7 +4,7 @@ date: 2022-10-17 12:23:00 +02:00
 permalink: "/services/tnt/contact/"
 menu:
   title: Contact
-  weight: 60
+  weight: 70
 une:
   image: "/uploads/TNT_Bandeau_Page-fille.png"
 style: |-
