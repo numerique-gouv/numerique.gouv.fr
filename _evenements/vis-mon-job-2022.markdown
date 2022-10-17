@@ -33,7 +33,7 @@ Le 24 novembre 2022, tu auras l’opportunité de rencontrer un/e professionnel/
 * Chef de projet numérique
 * Expert SSI
 * Architecte technique
-* Concepteur-développeur
+* Développeur
 * Scrum master
 * Administrateur systèmes et réseaux
 * Designer UX
