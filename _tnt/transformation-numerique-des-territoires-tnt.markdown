@@ -12,7 +12,7 @@ layout: tnt
 
 Le programme Transformation numérique des territoires (TNT) s’inscrit dans une logique d’ambitions communes et de résultats partagés avec les parties prenantes. C’est un programme  d’investissements collectifs pour accélérer la transformation numérique de l’action publique dans tous les territoires.
 
-À l’heure où 80 % des Français ont comme premier contact avec une administration, un site internet ou une application mobile pour effectuer leurs démarches administratives, la transformation numérique de l’action publique dans tous les territoires est, en effet, devenue un enjeu social et politique majeur.
+À l’heure où 80 % des Français ont, comme premier contact avec une administration, un site internet ou une application mobile pour effectuer leurs démarches administratives, la transformation numérique de l’action publique dans tous les territoires est, en effet, devenue un enjeu social et politique majeur.
 
 
 ### Les objectifs clés
