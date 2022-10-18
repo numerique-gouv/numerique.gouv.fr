@@ -2,6 +2,7 @@
 title: 'Numérique : les élus en parlent'
 date: 2022-10-17 13:11:00 +02:00
 permalink: "/services/tnt/elus-en-parlent/"
+published: false
 menu:
   title: Témoignages
   weight: 60
