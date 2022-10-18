@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 17 octobre 2022
+date_de_modification: 18 octobre 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -50,6 +50,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 * **[Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-adjointe-de-projets-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2022-1010575/ "Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
 <br>Cadre/Catégorie A, Saint Jacques de La Lande (35136)
+<br>
+
+* **[Conseiller(ère) auprès de la directrice interministérielle du numérique H/F](https://place-emploi-public.gouv.fr/offre-emploi/2022-1031526/ "Conseiller(ère) auprès de la directrice interministérielle du numérique H/F - Lien externe")**
+<br>Cadre/Catégorie A
 <br>
 
 * **[Responsable distribution et promotion produits FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-distribution-et-promotion-produits-franceconnect-cdd-3ans-hf-reference-2022-971783/ "Responsable distribution et promotion produits FranceConnect H/F - Lien externe")**
