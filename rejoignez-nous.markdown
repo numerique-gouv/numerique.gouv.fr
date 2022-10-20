@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 18 octobre 2022
+date_de_modification: 20 octobre 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -79,6 +79,8 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
 <p><strong> Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) </strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/coordinateur-sectoriel-telecoms-hf-reference-2021-736102/" title="Coordinateur sectoriel télécoms H/F - Lien externe">Coordinateur sectoriel télécoms H/F</a></strong><br>Cadre/Catégorie A</li></ul>
+<p><strong> Ministère de l'enseignement supérieur, de la recherche et de l'innovation </strong></p> 
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/dgesip-a-scn-parcoursup---administrateur-trice-des-systemes-d-information-reference-2022-861851/" title="Coordinateur sectoriel télécoms H/F - Lien externe">DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information H/F</a></strong><br>Cadre/Catégorie A, Labège (31370)</li></ul>
 </div>
 
 <div class="noir encadre"><h4>Sur metiers.numerique.gouv.fr, <br>découvrez les offres d'emploi dans le numérique au sein de l’État</h4> <p>Rendez-vous sur notre site dédié <a href="https://metiers.numerique.gouv.fr"> metiers.numerique.gouv.fr</a> pour consulter les offres d’emploi à pourvoir dans les ministères et déposer une candidature spontanée&nbsp;! <br>À venir également, des vitrines pour faire la connaissance des différentes entités du numérique de l'État et des témoignages d'agents publics. </p> 
