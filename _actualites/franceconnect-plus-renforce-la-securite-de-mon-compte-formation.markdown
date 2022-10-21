@@ -14,7 +14,7 @@ une-ou-diaporama:
 - image: "/uploads/800x430_actu_FC%20_MCF_72DPI.png"
 ---
 
-Pour lutter contre l’usurpation d’identités et les fraudes liées au Compte personnel de formation (CPF), l’**achat de formations **sur [moncompteformation.gouv.fr](https://www.moncompteformation.gouv.fr/ "moncompteformation.gouv.fr - Lien externe") sera sécurisé **à partir du 25 octobre 2022** grâce au service [FranceConnect+](https://franceconnect.gouv.fr/france-connect-plus "FranceConnect+ - Lien externe")**.**
+Pour lutter contre l’usurpation d’identités et les fraudes liées au Compte personnel de formation (CPF), l’**achat de formations** sur [moncompteformation.gouv.fr](https://www.moncompteformation.gouv.fr/ "moncompteformation.gouv.fr - Lien externe") sera sécurisé **à partir du 25 octobre 2022** grâce au service [FranceConnect+](https://franceconnect.gouv.fr/france-connect-plus "FranceConnect+ - Lien externe")**.**
 
 ## FranceConnect+ simplifie et sécurise l’accès à des démarches sensibles
 
@@ -46,4 +46,4 @@ Concrètement, les fraudeurs leurrent les utilisateurs en se faisant passer pour
 
 Avec L’Identité Numérique La Poste, FranceConnect+ protègera les utilisateurs en limitant les risques d’usurpation d’identité et de fraudes.
 
-[> Plus d’infos sur FranceConnect+](https://franceconnect.gouv.fr/france-connect-plus "Plus d’infos sur FranceConnect+ - Lien externe")
+[**> Plus d’infos sur FranceConnect+**](https://franceconnect.gouv.fr/france-connect-plus "Plus d’infos sur FranceConnect+ - Lien externe")
