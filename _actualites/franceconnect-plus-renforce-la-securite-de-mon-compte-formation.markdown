@@ -34,7 +34,7 @@ Une fois son Identité Numérique La Poste créée, en plus de Mon Compte Format
 
 ## Équilibre entre simplification et sécurisation
 
-Tout en apportant davantage de sécurité lorsque nécessaire, FranceConnect+ offre toujours la même promesse que FranceConnect : **simplifier l’accès à un service en ligne**. L’utilisateur se connecte sans avoir besoin de se créer un compte dédié, avec un nouveau mot de passe à retenir, et gagne du temps dans ses démarches grâce au préremplissage de formulaires.
+Tout en apportant davantage de sécurité lorsque nécessaire, FranceConnect+ offre toujours la même promesse que FranceConnect : **simplifier l’accès à un service en ligne**. L’utilisateur se connecte sans avoir besoin de se créer un compte dédié, avec un nouveau mot de passe à retenir, et gagne du temps dans ses démarches.
 
 Le passage de Mon Compte Formation sur FranceConnect+ a ainsi vocation à **maintenir le meilleur équilibre entre simplification de l’accès aux démarches, et sécurisation** de l’achat de formation.
 
