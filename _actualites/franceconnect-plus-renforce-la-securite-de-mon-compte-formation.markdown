@@ -24,7 +24,7 @@ Avec une authentification renforcée, à deux facteurs, similaire à ce que les 
 
 FranceConnect+ est d’ores et déjà utilisé depuis bientôt un an par les usagers de l’AP-HP pour accéder à leur espace patient, sur [mon.aphp.fr](https://mon.aphp.fr/ "mon.aphp.fr - Lien externe").
 
-**L’Identité Numérique La Poste, partenaire de FranceConnect+**
+## L’Identité Numérique La Poste, partenaire de FranceConnect+
 
 À ce jour, FranceConnect+ repose sur **[L’Identité Numérique La Poste](https://lidentitenumerique.laposte.fr/ "L’Identité Numérique La Poste - Lien externe")**, premier partenaire du dispositif. Pour s’authentifier avec ce service, l’utilisateur s’identifie avec son numéro de téléphone mobile, facile à connaître, reçoit une notification sur son smartphone via l’application, saisit le code secret qu’il a choisi et poursuit sa démarche en toute sécurité.
 
