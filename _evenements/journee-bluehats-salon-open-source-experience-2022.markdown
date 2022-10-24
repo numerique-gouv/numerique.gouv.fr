@@ -55,26 +55,32 @@ Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr ](mailto:log
   * Pour de la visioconférence à grande échelle avec [BigBlueButton](https://bigbluebutton.org/) par Nicolas Schont (MENJS)
   * [Esup-Pod](https://www.esup-portail.org/wiki/display/ES/Esup-Pod) : la plateforme vidéo de l'enseignement supérieur, Nicolas Can (Esup-Portail)
 <br>
+<br>
 * **10h40-11h40** : 
   * [Capytale](https://www.ac-paris.fr/capytale-un-service-web-pour-creer-et-partager-des-activites-pedagogiques-de-codage-121816) : un studio de création pour l'apprentissage de la programmation, Nicolas Poulain (MENJS)
   * Que la forge soit avec toi ! et L'[AMDAC](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees-des-algorithmes-et-des-codes-sources/)-vador contre-attaque, Alexis Kauffmann et Philippe Ajuelos (MENJS)
   * Trajectoire des [mobilités numériques ouvertes](https://smmag.fr/se-deplacer/m-linformation-voyageur/) à Grenoble, Frederick Petit (SMMAG)
+<br>
 <br>
 * **11h50-12h50** : 
   * Portage d'AWX sous Debian : cas d'usage à l'éducation nationale (PHM), Stéphane Paillet (MENJS)
   * [GROBID](https://fr.wikipedia.org/wiki/GROBID) : digérer les publications savantes, muscler les communautés scientifiques, Anne L'Hôte (MESR)
   * [GNU Guix](https://fr.wikipedia.org/wiki/GNU_Guix), vers la reproductibilité computationnelle, Simon Tournier (MESR)
 <br>
+<br>
 * **12h50-14h** : *Pause déjeuner*
+<br>
 <br>
 * **14h-15h** : 
   * [Catalogue de métadonnées en santé](https://www.health-data-hub.fr/catalogue-de-donnees) : la dynamique européenne et française, Lorien Benda (Health Data Hub)
   * Présentation de l'utilisation de [Nextcloud](https://nextcloud.com/athome/) aux Arts Décos, Olivier Bienz (Arts Décos)
 <br>
+<br>
 * **15h10-16h10** : 
   * [BlueHats Semester Of Code](https://communs.numerique.gouv.fr/posts/presentation-promotion-bluehats-2022/) : les contributions des étudiants de CentraleSupélec, Les BlueHats (DINUM/CentraleSupélec)
   * Observatoire de l'accessibilité web, quel constat un an après ? Matthieu Faure ([ADULLACT](https://adullact.org/))
   * DSI, unissons-nous ! Nicolas Vivant (Ville d’[Échirolles](https://www.echirolles.fr/))
+<br>
 <br>
 * **16h20-17h20** : 
   * Le « [Dites-le nous une fois](https://www.numerique.gouv.fr/services/guichet-dites-le-nous-une-fois/) » européen et l'open source, Jonathan J. Attia (DINUM/Etalab)
