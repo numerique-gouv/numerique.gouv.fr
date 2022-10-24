@@ -26,7 +26,6 @@ layout: page-annexe
 Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de postes de haut niveau dans le numérique au sein des ministères.
 <br>
 <br>
-
 <div class="encadre noir">
 <h3 id="tous-talents-bienvenue">À la DINUM, tous les talents sont les bienvenus !"</h3>
 <p class="margin-bottom-1">Labélisés <b>« égalité et diversité »</b>, les services de la Première ministre se mobilisent en faveur de la diversité culturelle, de l’égalité femmes hommes et du handicap.
