@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 20 octobre 2022
+date_de_modification: 24 octobre 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -27,7 +27,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 <br>
 <div class="encadre noir">
-<h3 id="tous-talents-bienvenue">À la DINUM, tous les talents sont les bienvenus !"</h3>
+<h3 id="tous-talents-bienvenue">À la DINUM, tous les talents sont les bienvenus !</h3>
 <p class="margin-bottom-1">Labélisés <b>« égalité et diversité »</b>, les services de la Première ministre se mobilisent en faveur de la diversité culturelle, de l’égalité femmes hommes et du handicap.
 
 Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seules les offres concernant notre site de Paris sont accessibles aux personnes à mobilité réduite. 
