@@ -48,6 +48,16 @@ Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr ](mailto:log
 
 <div class="lien-important"><p><a href="https://www.opensource-experience.com/creer-mon-badge/"  title="S'inscrire">S'inscrire</a></p></div>
 
+## Programme
+
+## Programme
+
+* **9h30-10h30** : *Présentations courtes du matin*
+
+  * La collaboration interministérielle autour de [Jitsi](https://www.centralesupelec.fr/fr/jitsi-box-un-boitier-opensource-pour-hybrider-lenseignement-entre-presentiel-et-distanciel) : Samuel Paccoud (FUN)
+  * Pour de la visioconférence à grande échelle avec [BigBlueButton](https://bigbluebutton.org/) par Nicolas Schont (MENJS)
+  * Esup-Pod : la plateforme vidéo de l'enseignement supérieur, Nicolas Can (Esup-Portail)
+
 <div class="noir encadre"><h3>La communauté Blue hats</h3>
 <p>Les Blue hats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="gazette - Lien externe">gazette</a>.</p>
 <br><p>Pour recevoir l’actualité de la communauté et être informé des prochaines actions :
