@@ -14,9 +14,6 @@ event_start_date: 2022-11-08 09:00:00 +01:00
 lieu: Palais des congrès - Paris
 adresse: Palais des congrès, 2 place de la porte Maillot, 75017 Paris
 champs_informations:
-- intitule: Agents publics ?
-  contenu: Proposer une intervention
-  lien: https://framaforms.org/appel-a-interventions-bluehats-a-osx-1664287204
 - intitule: S'inscrire
   contenu: à l'Open Source Experience (gratuit)
   lien: https://www.opensource-experience.com/creer-mon-badge/
