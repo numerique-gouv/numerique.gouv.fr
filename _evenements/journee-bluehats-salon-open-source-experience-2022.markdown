@@ -50,8 +50,6 @@ Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr ](mailto:log
 
 ## Programme
 
-## Programme
-
 * **9h30-10h30** :
   * La collaboration interministérielle autour de [Jitsi](https://www.centralesupelec.fr/fr/jitsi-box-un-boitier-opensource-pour-hybrider-lenseignement-entre-presentiel-et-distanciel) : Samuel Paccoud (FUN)
   * Pour de la visioconférence à grande échelle avec [BigBlueButton](https://bigbluebutton.org/) par Nicolas Schont (MENJS)
