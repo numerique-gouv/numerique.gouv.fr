@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 20 octobre 2022
+date_de_modification: 24 octobre 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -25,7 +25,12 @@ layout: page-annexe
 
 Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de postes de haut niveau dans le numérique au sein des ministères.
 <br>
-<br>
+<div class="encadre noir">
+<h3 id="tous-talents-bienvenue">À la DINUM, tous les talents sont les bienvenus !</h3>
+<p class="margin-bottom-1">Labélisés <b>« égalité et diversité »</b>, les services de la Première ministre se mobilisent en faveur de la diversité culturelle, de l’égalité femmes hommes et du handicap.
+
+Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seules les offres concernant notre site de Paris sont accessibles aux personnes à mobilité réduite. 
+</p></div>
 
 ## Comment postuler ?
 {: .margin-top-5 .margin-bottom-1 .h3}
@@ -42,14 +47,6 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 * **[Responsable d'un portefeuille de produits numériques et de l'animation de beta.gouv.fr H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-d-un-portefeuille-de-produits-numeriques-et-de-l-animation-de-betagouvfr-hf-reference-2022-1021049/ "Responsable d'un portefeuille de produits numériques et de l'animation de beta.gouv.fr H/F - Lien externe")**
 <br>Cadre/Catégorie A
-<br>
-
-* **[Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-adjointe-de-projets-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2022-1010565/ "Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
-<br>Cadre/Catégorie A, Lyon (69001)
-<br>
-
-* **[Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-adjointe-de-projets-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2022-1010575/ "Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
-<br>Cadre/Catégorie A, Saint Jacques de La Lande (35136)
 <br>
 
 * **[Conseiller(ère) auprès de la directrice interministérielle du numérique H/F](https://place-emploi-public.gouv.fr/offre-emploi/2022-1031526/ "Conseiller(ère) auprès de la directrice interministérielle du numérique H/F - Lien externe")**
