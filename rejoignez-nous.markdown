@@ -50,14 +50,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-* **[Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-adjointe-de-projets-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2022-1010565/ "Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
-<br>Cadre/Catégorie A, Lyon (69001)
-<br>
-
-* **[Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurdirectrice-adjointe-de-projets-si-du-reseau-interministeriel-de-l-tat-rie-hf-reference-2022-1010575/ "Directeur/Directrice Adjoint(e) de projets SI du réseau interministériel de l'État (RIE) H/F - Lien externe")**
-<br>Cadre/Catégorie A, Saint Jacques de La Lande (35136)
-<br>
-
 * **[Conseiller(ère) auprès de la directrice interministérielle du numérique H/F](https://place-emploi-public.gouv.fr/offre-emploi/2022-1031526/ "Conseiller(ère) auprès de la directrice interministérielle du numérique H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
