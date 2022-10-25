@@ -22,3 +22,14 @@ champs_informations:
 Chaque année, le Mois de l’innovation publique fédère près de 400 événements dans toute la France sous l’impulsion de la Direction interministérielle de la transformation publique (DITP).
 
 À l’occasion de [l’édition 2022 du mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-de-linnovation-publique), les équipes de la DINUM vous proposent une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, table ronde, retours d’expériences, appel à projets, offres d’accompagnements et webinaires.
+
+<p style="margin-bottom: 30px">À vos agendas : calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique</p>
+
+<p style="margin-top: 30px"><b>[Le lundi 07/11 de 9h30 à 16h] [Table ronde, Démo, Retex]</b> <i>Données à voir : la data au service des usagers et des décideurs publics</i></p>
+
+Notre département [Etalab](https://www.etalab.gouv.fr/), qui coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, organise une journée spéciale data au Lieu de la transformation publique pour partager méthodes, outils, solutions et projets qui transforment durablement l'action et les services publics !
+
+* Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
+* 77 Av. de Ségur 75015 Paris 
+
+<div class="lien-important"><p><a href="https://bo-modernisation2021.bercy.actimage.net/mois-de-linnovation-publique/la-data-au-service-des-usagers-et-des-decideurs-publics">Découvrir le programme</a></p></div>
