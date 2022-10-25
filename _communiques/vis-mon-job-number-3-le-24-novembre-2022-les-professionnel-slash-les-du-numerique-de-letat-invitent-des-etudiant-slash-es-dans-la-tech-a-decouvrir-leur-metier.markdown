@@ -1,6 +1,6 @@
 ---
 title: 'Vis mon Job #3 : le 24 novembre 2022 les professionnel/les du numérique de
-  l’état invitent des étudiant/es dans la tech à découvrir leur métier'
+  l’État invitent des étudiant/es dans la tech à découvrir leur métier'
 date: 2022-10-25 16:46:00 +02:00
 categories:
 - Communiqué de presse
