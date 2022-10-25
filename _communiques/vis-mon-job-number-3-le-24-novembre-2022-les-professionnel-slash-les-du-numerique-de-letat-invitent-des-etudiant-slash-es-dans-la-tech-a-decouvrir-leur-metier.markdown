@@ -16,7 +16,8 @@ une-ou-diaporama:
 - image: "/uploads/a51503ec-78c5-45a5-bee9-dc19e1c335ab-fccfa7.jpg"
   alternative-textuelle: Vis mon job
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_VIS_MON_JOB_2022_IMMERSION_DANS_LE_NUMERIQUE_DE_L_ETAT.PDF"
+  nom: Télécharger le communiqué de presse
 ---
 
 ## Attirer des talents du numérique : la priorité de l’État dans tous les territoires
