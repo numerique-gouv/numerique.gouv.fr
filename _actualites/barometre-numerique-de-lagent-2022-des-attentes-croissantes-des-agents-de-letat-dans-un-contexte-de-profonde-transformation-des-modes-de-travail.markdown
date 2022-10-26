@@ -67,7 +67,7 @@ Sur le plan de la connectivité, si la satisfaction perd un point à l’échell
 <br>
 <br>
 
-<p align="center"><a href="/uploads/BNA_2022_Rapport_interministeriel.pdf" class="button">Consulter les résultats du BNA 2022 (pdf – 1,6&nbsp;Mo)</a></p>
+<p align="center"><a href="/uploads/BNA_2022_Rapport_interministeriel.pdf" class="button">Consulter les résultats du BNA 2022 (pdf – 2,6&nbsp;Mo)</a></p>
 
 [> Consulter la version accessible (pdf - 788 Ko)](/uploads/Rapport_BNA_2022_Accessible.pdf)
 
