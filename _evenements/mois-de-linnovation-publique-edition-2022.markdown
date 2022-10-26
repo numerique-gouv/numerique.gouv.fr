@@ -29,7 +29,7 @@ Chaque année, le Mois de l’innovation publique fédère près de 400 événem
 
 Le pôle [beta.gouv](https://beta.gouv.fr/) vous accueille pour échanger sur l'innovation publique de manière ludique ! Venez les rencontrer pour jouer avec eux et tester vos connaissances sur l'écosystème, les termes, les initiatives et les solutions de ce mouvement de transformation du secteur public.
 
-* Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
+* Entrée gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 Av. de Ségur 75015 Paris 
 
 <div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-meetup-betagouvfr-4-quiz-geant-sur-linnovation-publique-449408933217">Plus d'informations et inscriptions</a></p></div>
