@@ -39,7 +39,7 @@ Mené en mars 2022, ce baromètre numérique de l’agent (BNA) a été ouvert a
 * la connectivité, 
 * le support et la formation. 
 
-En 2022, le nombre de participants au BNA est en hausse avec 128 595 réponses, soit un taux de réponse de 18,4%. **Les résultats reflètent les mutations introduites par la crise sanitaire dans les habitudes de travail des agents et dans l’utilisation qu’ils font de leur environnement numérique de travail. **
+En 2022, le nombre de participants au BNA est en hausse avec 128 595 réponses, soit un taux de réponse de 18,4%. **Les résultats reflètent les mutations introduites par la crise sanitaire dans les habitudes de travail des agents et dans l’utilisation qu’ils font de leur environnement numérique de travail.**
 
 Comme chaque année, les résultats de cette 4e édition du BNA viennent alimenter la réflexion des ministères quant à leurs actions en la matière. Ils contribuent à conforter des actions déjà engagées, qui vont se poursuivre, ou donnent de précieuses indications pour les ajuster ou en ajouter de nouvelles, et ainsi répondre toujours mieux aux besoins et attentes de leurs agents.
 
@@ -69,7 +69,7 @@ Sur le plan de la connectivité, si la satisfaction perd un point à l’échell
 
 <p align="center"><a href="/uploads/BNA_2022_Rapport_interministeriel.pdf" class="button">Consulter les résultats du BNA 2022 (pdf – 1,6&nbsp;Mo)</a></p>
 
-<p align="center">[Rapport_BNA_2022_Accessible.pdf](/uploads/Rapport_BNA_2022_Accessible.pdf)</p>
+[> Consulter la version accessible][Rapport_BNA_2022_Accessible.pdf](/uploads/Rapport_BNA_2022_Accessible.pdf))
 
 [> Retrouvez également les données brutes du BNA 2021 sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/barometre-numerique-de-lagent-resultats-2021/ "Retrouvez également les données brutes du BNA 2021 sur data.gouv.fr - Lien externe")
 <br>
