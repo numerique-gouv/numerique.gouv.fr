@@ -42,7 +42,7 @@ Notre département [Etalab](https://www.etalab.gouv.fr/), qui coordonne la conce
 
 <div class="lien-important"><p><a href="https://bo-modernisation2021.bercy.actimage.net/mois-de-linnovation-publique/la-data-au-service-des-usagers-et-des-decideurs-publics">Découvrir le programme</a></p></div>
 
-<p style="margin-top: 30px"><b>[Le mardi 15/11 de 9h30 à 17h] [Conférence et Ateliers]</b> <i>**Le Tour de France des régions, à Rennes (Bretagne)** : explorer le contenu du sac à dos numérique de l’Agent de l’Etat !</i></p>
+<p style="margin-top: 30px"><b>[Le mardi 15/11 de 9h30 à 17h] [Conférence et Ateliers]</b> <i><b>Le Tour de France des régions, à Rennes (Bretagne)</b> : explorer le contenu du sac à dos numérique de l’Agent de l’Etat !</i></p>
 
 Le pôle des produits numériques partagés et le SGAR 35  présente aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Avec un focus sur les projets numériques initiés dans la région Bretagne : le diagnostic numérique des agents de la DIRO, l’expérimentation d’usage du parapheur électronique et la nouvelle infrastructure de partage et de réutilisation de la donnée de l’État. 
 
@@ -53,10 +53,11 @@ Le pôle des produits numériques partagés et le SGAR 35  présente aux agents 
 
 <div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/tour-de-france-pnp-etape-bretagne">Inscriptions obligatoires</a></p></div>
 
-<p style="margin-top: 30px"><b>[Le mardi 22/11 de 9h30 à 17h] [Conférence et Ateliers]</b> <i>**Le Tour de France des régions, à Nantes (Pays de Loire)** : explorer le contenu du sac à dos numérique de l’Agent de l’Etat !</i></p>
+<p style="margin-top: 30px"><b>[Le mardi 22/11 de 9h30 à 17h] [Conférence et Ateliers]</b> <i><b>Le Tour de France des régions, à Nantes (Pays de Loire)</b> : explorer le contenu du sac à dos numérique de l’Agent de l’Etat !</i></p>
 
 Le pôle des produits numériques partagés présente aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Avec un focus sur les projets numériques initiés dans la région Bretagne : le diagnostic numérique des agents de la DIRO, l’expérimentation d’usage du parapheur électronique et la nouvelle infrastructure de partage et de réutilisation de la donnée de l’État. 
 
-* Matin et après-midi en présentiel à l’Espace Beaulieu - 9 bd Vincent Gache - 44200 Nantes
+* Matin et après-midi en présentiel :
+<br>à l’Espace Beaulieu - 9 bd Vincent Gache - 44200 Nantes
 
 <div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/etape-ligerienne-du-tdf-de-la-dinum">Inscriptions obligatoires</a></p></div>
