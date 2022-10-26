@@ -25,6 +25,15 @@ Chaque année, le Mois de l’innovation publique fédère près de 400 événem
 
 <p style="margin-bottom: 30px">À vos agendas : calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique</p>
 
+<p style="margin-top: 30px"><b>[Le jeudi 03/11 de 16h15 à 18h15] [Quiz]</b> <i>Qui veut gagner le quiz de l'innovation ?</i></p>
+
+Le pôle [beta.gouv](https://beta.gouv.fr/) vous accueille pour échanger sur l'innovation publique de manière ludique ! Venez les rencontrer pour jouer avec eux et tester vos connaissances sur l'écosystème, les termes, les initiatives et les solutions de ce mouvement de transformation du secteur public.
+
+* Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
+* 77 Av. de Ségur 75015 Paris 
+
+<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-meetup-betagouvfr-4-quiz-geant-sur-linnovation-publique-449408933217">Plus d'informations et inscriptions</a></p></div>
+
 <p style="margin-top: 30px"><b>[Le lundi 07/11 de 9h30 à 16h] [Table ronde, Démo, Retex]</b> <i>Données à voir : la data au service des usagers et des décideurs publics</i></p>
 
 Notre département [Etalab](https://www.etalab.gouv.fr/), qui coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, organise une journée spéciale data au Lieu de la transformation publique pour partager méthodes, outils, solutions et projets qui transforment durablement l'action et les services publics !
