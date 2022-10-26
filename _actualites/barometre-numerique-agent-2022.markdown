@@ -2,6 +2,7 @@
 title: 'Baromètre numérique de l’agent 2022 : des attentes croissantes des agents
   de l’État dans un contexte de profonde transformation des modes de travail'
 date: 2022-10-26 11:01:00 +02:00
+published: false
 categories:
 - Article
 tags:
