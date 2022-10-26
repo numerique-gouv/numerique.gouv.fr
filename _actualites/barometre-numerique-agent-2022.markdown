@@ -71,9 +71,6 @@ Sur le plan de la connectivité, si la satisfaction perd un point à l’échell
 
 <p align="center"><a href="/uploads/Rapport_BNA_2022_Accessible.pdf" >Consulter la version accessible (pdf - 788 Ko)</a></p>
 
-[> Consulter la version accessible (pdf - 788 Ko)](/uploads/Rapport_BNA_2022_Accessible.pdf)
-<br>
-<br>
 [> Retrouvez également les données brutes du BNA 2021 sur data.gouv.fr](https://www.data.gouv.fr/fr/datasets/barometre-numerique-de-lagent-resultats-2021/ "Retrouvez également les données brutes du BNA 2021 sur data.gouv.fr - Lien externe")
 <br>
 <br>
