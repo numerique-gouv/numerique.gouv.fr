@@ -18,8 +18,11 @@ lieu: En présentiel et en ligne
 champs_informations:
 - intitule: Tous les jours
   contenu: de 13h à 20h
-- intitule: Lieu
-  contenu: A Nantes
+- intitule: 'Ecole de design Nantes Atlantique '
+  contenu: 
+- intitule: Modalités
+  contenu: Inscription obligatoire
+  lien: https://www.helloasso.com/associations/les-designers-ethiques/evenements/ethics-by-design-2022
 ---
 
 ## Ethics by Design, qu’est-ce que c’est ?
