@@ -47,12 +47,10 @@ La crise sanitaire aura montré les prémices d’un monde instable. Que peut le
 ## Programme des conférences et ateliers 
 <div align="center"><i>Du 16 au 18 novembre</i></div>
 <br>
-<br>
 <div align="center"><a href="https://2022.ethicsbydesign.fr/programme" class="button"><b>Découvrir les conférences et ateliers</b></a></div>
 
 <div align="center"><a href="https://2022.ethicsbydesign.fr/conferenciers" class="button"><b>Découvrir les conférenciers
 </b></a></div>
 <br>
-<br>
 **500 places sont réservées gratuitement aux agentes et agents publics !**
-<br><div align="center" style="margin-top: 30px"><a href="https://www.helloasso.com/associations/les-designers-ethiques/evenements/ethics-by-design-2022"><b>Inscrivez-vous</b></a> </div>
+<div align="center" style="margin-top: 30px"><a href="https://www.helloasso.com/associations/les-designers-ethiques/evenements/ethics-by-design-2022"><b>Inscrivez-vous</b></a> </div>
