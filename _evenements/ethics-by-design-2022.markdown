@@ -52,5 +52,5 @@ La crise sanitaire aura montré les prémices d’un monde instable. Que peut le
 <div align="center"><a href="https://2022.ethicsbydesign.fr/conferenciers" class="button"><b>Découvrir les conférenciers
 </b></a></div>
 <br>
-**500 places sont réservées gratuitement aux agentes et agents publics !**
-<div align="center" style="margin-top: 30px"><a href="https://www.helloasso.com/associations/les-designers-ethiques/evenements/ethics-by-design-2022"><b>Inscrivez-vous</b></a> </div>
+<div align="center" style="margin-top: 30px"><b>500 places sont réservées gratuitement aux agentes et agents publics !</b></div>
+<div align="center" style="margin-top: 30px"><a href="https://www.helloasso.com/associations/les-designers-ethiques/evenements/ethics-by-design-2022"><b>Inscrivez-vous</b></a></div>
