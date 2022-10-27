@@ -13,7 +13,7 @@ chapeau-text: La DINUM publie les résultats de l’édition 2022 du baromètre 
   de l’agent, l’enquête qui recueille l’avis des agents de l’État sur leur environnement
   numérique de travail.
 une-ou-diaporama:
-- image: "/uploads/BNA_2020_Une.jpg"
+- image: "/uploads/2022_10_27_800x430_BNA_Actus.jpg"
 style: |-
   .button {
   background-color: #0d5c98;
