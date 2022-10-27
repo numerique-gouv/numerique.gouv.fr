@@ -18,10 +18,16 @@ event_end_date: 2022-12-15 00:00:00 +01:00
 lieu: En ligne du 1er au 14 décembre, en présentiel le 15 décembre à Paris
 adresse: La grande Crypte 69 rue Boissière, 75016 PARIS
 champs_informations:
+- intitule: Forum virtuel du 1er au 14 décembre
+  contenu: Inscriptions et prises de rendez-vous en ligne à partir du 9 novembre et
+    jusqu’au 30 novembre
 - intitule: 15 décembre à Paris
   contenu: De 9h à 18h
 - intitule: Modalités
-  contenu: Entrée gratuite avec inscription obligatoire
+  contenu: Inscription obligatoire gratuite en ligne à partir du 9 novembre
+- intitule: Comment y aller ?
+  contenu: 'Métro Ligne 6 : Boissière –  Ligne 2 : Victor-Hugo – Ligne 9 : Trocadéro
+    RER A : Charles de Gaulle-Étoile'
 ---
 
 <style>
