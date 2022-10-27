@@ -26,7 +26,7 @@ Chaque année, le Mois de l’innovation publique fédère près de 400 événem
 
 <p style="margin-top: 30px"><b>[Le jeudi 03/11 de 16h15 à 18h15] [Quiz]</b> <i>Qui veut gagner le quiz de l'innovation ?</i></p>
 
-Le pôle [beta.gouv](https://beta.gouv.fr/) vous accueille pour échanger sur l'innovation publique de manière ludique ! Venez les rencontrer pour jouer avec eux et tester vos connaissances sur l'écosystème, les termes, les initiatives et les solutions de ce mouvement de transformation du secteur public.
+Le pôle [beta.gouv](https://beta.gouv.fr/) vous accueille pour échanger sur l'innovation publique de manière ludique ! Venez rencontrer les équipes pour jouer avec elles et tester vos connaissances sur l'écosystème, les termes, les initiatives et les solutions de ce mouvement de transformation du secteur public.
 
 * Entrée gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 Av. de Ségur 75015 Paris 
