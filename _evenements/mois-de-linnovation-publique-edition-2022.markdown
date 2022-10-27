@@ -22,7 +22,8 @@ Chaque année, le Mois de l’innovation publique fédère près de 400 événem
 
 À l’occasion de [l’édition 2022 du mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-de-linnovation-publique), les équipes de la DINUM vous proposent une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, tables rondes, retours d’expériences, appel à projets, offres d’accompagnements et webinaires.
 
-### À vos agendas : calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique
+### À vos agendas
+*Calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique*
 
 <p style="margin-top: 30px"><b>[Le jeudi 03/11 de 16h15 à 18h15] [Quiz]</b> <i>Qui veut gagner le quiz de l'innovation ?</i></p>
 
