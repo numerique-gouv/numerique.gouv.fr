@@ -15,11 +15,12 @@ une-ou-diaporama:
 event_start_date: 2022-11-16 00:00:00 +01:00
 event_end_date: 2022-11-18 00:00:00 +01:00
 lieu: En présentiel et en ligne
+adresse: 61 Bd de la Prairie au Duc, 44200 Nantes
 champs_informations:
 - intitule: Tous les jours
   contenu: de 13h à 20h
 - intitule: 'Ecole de design Nantes Atlantique '
-  contenu: 
+  contenu: 61 Bd de la Prairie au Duc, 44200 Nantes
 - intitule: Modalités
   contenu: Inscription obligatoire
   lien: https://www.helloasso.com/associations/les-designers-ethiques/evenements/ethics-by-design-2022
