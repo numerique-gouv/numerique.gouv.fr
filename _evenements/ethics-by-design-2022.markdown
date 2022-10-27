@@ -1,6 +1,12 @@
 ---
 title: Ethics by Design 2022
 date: 2022-10-27 16:16:00 +02:00
+categories:
+- Évènement
+tags:
+- Design
+- Design public
+- design des services numériques
 chapeau-text: Cette année encore, la Direction interministérielle du numérique est
   sponsors de Ethics By Design, un événement dédié à la conception responsable et
   durable du numérique.
