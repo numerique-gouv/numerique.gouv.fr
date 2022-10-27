@@ -15,7 +15,7 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) organise l
   des ateliers et des rencontres en ligne.'
 event_start_date: 2022-12-01 00:00:00 +01:00
 event_end_date: 2022-12-15 00:00:00 +01:00
-lieu: En ligne du 29 novembre au 15 décembre, en présentiel le 16 décembre à Paris
+lieu: En ligne du 1er au 14 décembre, en présentiel le 15 décembre à Paris
 adresse: La grande Crypte 69 rue Boissière, 75016 PARIS
 champs_informations:
 - intitule: 15 décembre à Paris
