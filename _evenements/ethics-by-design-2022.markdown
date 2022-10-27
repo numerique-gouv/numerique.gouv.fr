@@ -7,9 +7,9 @@ tags:
 - Design
 - Design public
 - design des services numériques
-chapeau-text: Cette année encore, la Direction interministérielle du numérique est
-  sponsors de Ethics By Design, un événement dédié à la conception responsable et
-  durable du numérique.
+chapeau-text: Cette année encore, la Direction interministérielle du numérique (DINUM)
+  est sponsors de Ethics By Design, un événement dédié à la conception responsable
+  et durable du numérique.
 une-ou-diaporama:
 - image: "/uploads/1663245022200.jpg"
 event_start_date: 2022-11-16 00:00:00 +01:00
