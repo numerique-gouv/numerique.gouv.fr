@@ -19,7 +19,7 @@ lieu: En ligne du 1er au 14 décembre, en présentiel le 15 décembre à Paris
 adresse: La grande Crypte 69 rue Boissière, 75016 PARIS
 champs_informations:
 - intitule: Forum virtuel du 1er au 14 décembre
-  contenu: Inscriptions en ligne à partir du 9/11 au 30/11
+  contenu: Inscriptions en ligne du 9/11 au 30/11
 - intitule: 15 décembre à Paris
   contenu: De 9h à 18h
 - intitule: Modalités
