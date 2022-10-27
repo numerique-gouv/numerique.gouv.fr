@@ -24,6 +24,8 @@ champs_informations:
 - intitule: Modalités
   contenu: Inscription obligatoire
   lien: https://www.helloasso.com/associations/les-designers-ethiques/evenements/ethics-by-design-2022
+- contenu: Plus d'infos
+  lien: 'https://2022.ethicsbydesign.fr/ '
 ---
 
 ## Ethics by Design, qu’est-ce que c’est ?
