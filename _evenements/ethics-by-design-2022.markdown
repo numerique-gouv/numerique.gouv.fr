@@ -15,6 +15,11 @@ une-ou-diaporama:
 event_start_date: 2022-11-16 00:00:00 +01:00
 event_end_date: 2022-11-18 00:00:00 +01:00
 lieu: En présentiel et en ligne
+champs_informations:
+- intitule: Tous les jours
+  contenu: de 13h à 20h
+- intitule: Lieu
+  contenu: A Nantes
 ---
 
 ## Ethics by Design, qu’est-ce que c’est ?
@@ -35,14 +40,12 @@ Le design est par essence une discipline de production : elle conçoit des produ
 La crise sanitaire aura montré les prémices d’un monde instable. Que peut le design face à cela ? Comment peut-il s’adapter ou prendre sa part pour penser et adapter nos vies aux changements imprévisibles de demain ? Peut-on designer le chaos ?
 
 ## Programme des conférences et ateliers 
-*Du 16 au 18 novembre*
+<div align="center"><i>Du 16 au 18 novembre</i></div>
 
 <div align="center"><a href="https://2022.ethicsbydesign.fr/programme" class="button"><b>Découvrir les conférences et ateliers</b></a></div>
-</div>
 
 <div align="center"><a href="https://2022.ethicsbydesign.fr/conferenciers" class="button"><b>Découvrir les conférenciers
 </b></a></div>
-</div>
 
-500 places sont réservées gratuitement aux agentes et agents publics !
-<div align="center" style="margin-top: 30px"><a href="https://www.helloasso.com/associations/les-designers-ethiques/evenements/ethics-by-design-2022"><b>Inscrivez-vous</b></a> </div>
+
+500 places sont réservées gratuitement aux agentes et agents publics ! <div align="center" style="margin-top: 30px"><a href="https://www.helloasso.com/associations/les-designers-ethiques/evenements/ethics-by-design-2022"><b>Inscrivez-vous</b></a> </div>
