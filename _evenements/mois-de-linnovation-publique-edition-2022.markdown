@@ -55,7 +55,7 @@ Le pôle des produits numériques partagés et le SGAR 35  présente aux agents 
 
 <p style="margin-top: 30px"><b>[Le mardi 22/11 de 9h30 à 17h] [Conférence et Ateliers]</b> <i>Le Tour de France des régions, à Nantes (Pays de Loire) : explorer le contenu du sac à dos numérique de l’Agent de l’Etat !</i></p>
 
-Le pôle des produits numériques partagés présente aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Avec un focus sur les projets numériques initiés dans la région Bretagne : le diagnostic numérique des agents de la DIRO, l’expérimentation d’usage du parapheur électronique et la nouvelle infrastructure de partage et de réutilisation de la donnée de l’État. 
+Le pôle des produits numériques partagés présente aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Mais aussi des ateliers collaboratifs sur l’usage de ces outils pour lever les irritants exprimés par les agents, mais aussi sur les fonctionnalités avancées des plateformes collaboratives et de « démarches simplifiées » 
 
 * Matin et après-midi en présentiel :
 <br>à l’Espace Beaulieu - 9 bd Vincent Gache - 44200 Nantes
