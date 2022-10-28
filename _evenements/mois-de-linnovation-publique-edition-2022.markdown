@@ -63,11 +63,12 @@ Le pôle des produits numériques partagés présente aux agents publics les 8 p
 
 <div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/etape-ligerienne-du-tdf-de-la-dinum">Inscriptions obligatoires</a></p></div>
 
-<p style="margin-top: 30px"><b>[Le mardi 29/11 de 14h30 à 17h] [Table ronde]</b> <i>«S'inspirer des écosystèmes numériques pour transformer»</i></p>
+<p style="margin-top: 30px"><b>[Le mardi 29/11 de 14h30 à 17h] [Table ronde]</b> <i>Café Transfo #4 «S'inspirer des écosystèmes numériques pour transformer»</i></p>
 
-Le pôle des produits numériques partagés présente aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Mais aussi des ateliers collaboratifs sur l’usage de ces outils pour lever les irritants exprimés par les agents, mais aussi sur les fonctionnalités avancées des plateformes collaboratives et de « démarches simplifiées » 
+Les équipes Transformation numérique de l’État et LABEL de la DINUM  vous invitent à la quatrième édition du Café Transfo avec des acteurs clés de la transformation numérique des politiques publiques qui œuvrent de façon concertée avec leurs écosystèmes. Comment connaitre les écosystèmes numériques, notamment sourcer les entreprises privées afin de mieux transformer ? Quelles méthodes déployer, en tant que concepteur et opérateur de la transformation pour travailler avec ces écosystèmes ? 
 
-* Matin et après-midi en présentiel :
-<br>à l’Espace Beaulieu - 9 bd Vincent Gache - 44200 Nantes
+* Entrée libre gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
+* 77 Av. de Ségur 75015 Paris 
+* En ligne via la webconférence de l'État
 
-<div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/etape-ligerienne-du-tdf-de-la-dinum">Inscriptions obligatoires</a></p></div>
+<div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-cafe-transfo-4-sinspirer-des-ecosystemes-numeriques-pour-transformer-453193984407">Inscriptions obligatoires</a></p></div>
