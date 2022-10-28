@@ -25,7 +25,8 @@ Chaque année, le Mois de l’innovation publique fédère près de 400 événem
 ### À vos agendas
 *Calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique*
 
-<p style="margin-top: 30px"><b>[Le jeudi 03/11 de 16h15 à 18h15] [Quiz]</b> <i>Qui veut gagner le quiz de l'innovation ?</i></p>
+<p style="margin-top: 30px"><b>Le jeudi 03/11 de 16h15 à 18h15 
+<br>[Quiz]</b> <i>Qui veut gagner le quiz de l'innovation ?</i></p>
 
 Le pôle [beta.gouv](https://beta.gouv.fr/) vous accueille pour échanger sur l'innovation publique de manière ludique ! Venez rencontrer les équipes pour jouer avec elles et tester vos connaissances sur l'écosystème, les termes, les initiatives et les solutions de ce mouvement de transformation du secteur public.
 
@@ -34,7 +35,8 @@ Le pôle [beta.gouv](https://beta.gouv.fr/) vous accueille pour échanger sur l'
 
 <div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-meetup-betagouvfr-4-quiz-geant-sur-linnovation-publique-449408933217">Plus d'informations et inscriptions</a></p></div>
 
-<p style="margin-top: 30px"><b>[Le lundi 07/11 de 9h30 à 16h] [Table ronde, Démo, Retex]</b> <i>Données à voir : la data au service des usagers et des décideurs publics</i></p>
+<p style="margin-top: 30px"><b>Le lundi 07/11 de 9h30 à 16h
+<br>[Table ronde, Démo, Retex]</b> <i>Données à voir : la data au service des usagers et des décideurs publics</i></p>
 
 Le département [Etalab](https://www.etalab.gouv.fr/), qui coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, organise une journée spéciale data au Lieu de la transformation publique pour partager méthodes, outils, solutions et projets qui transforment durablement l'action et les services publics !
 
@@ -43,7 +45,8 @@ Le département [Etalab](https://www.etalab.gouv.fr/), qui coordonne la concepti
 
 <div class="lien-important"><p><a href="https://bo-modernisation2021.bercy.actimage.net/mois-de-linnovation-publique/la-data-au-service-des-usagers-et-des-decideurs-publics">Découvrir le programme</a></p></div>
 
-<p style="margin-top: 30px"><b>[Le mardi 15/11 de 9h30 à 17h] [Conférence et Ateliers]</b> <i>Le Tour de France des régions, à Rennes (Bretagne) : explorer le contenu du sac à dos numérique de l’Agent de l’Etat !</i></p>
+<p style="margin-top: 30px"><b>Le mardi 15/11 de 9h30 à 17h
+<br>[Conférence et Ateliers]</b> <i>Le Tour de France des régions, à Rennes (Bretagne) : explorer le contenu du sac à dos numérique de l’Agent de l’Etat !</i></p>
 
 Le pôle des produits numériques partagés et le SGAR 35  présente aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Avec un focus sur les projets numériques initiés dans la région Bretagne : le diagnostic numérique des agents de la DIRO, l’expérimentation d’usage du parapheur électronique et la nouvelle infrastructure de partage et de réutilisation de la donnée de l’État. 
 
@@ -54,7 +57,8 @@ Le pôle des produits numériques partagés et le SGAR 35  présente aux agents 
 
 <div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/tour-de-france-pnp-etape-bretagne">Inscriptions obligatoires</a></p></div>
 
-<p style="margin-top: 30px"><b>[Le mardi 22/11 de 9h30 à 17h] [Conférence et Ateliers]</b> <i>Le Tour de France des régions, à Nantes (Pays de Loire) : explorer le contenu du sac à dos numérique de l’Agent de l’Etat !</i></p>
+<p style="margin-top: 30px"><b>Le mardi 22/11 de 9h30 à 17h 
+<br>[Conférence et Ateliers]</b> <i>Le Tour de France des régions, à Nantes (Pays de Loire) : explorer le contenu du sac à dos numérique de l’Agent de l’Etat !</i></p>
 
 Le pôle des produits numériques partagés présente aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Mais aussi des ateliers collaboratifs sur l’usage de ces outils pour lever les irritants exprimés par les agents, mais aussi sur les fonctionnalités avancées des plateformes collaboratives et de « démarches simplifiées » 
 
@@ -63,7 +67,8 @@ Le pôle des produits numériques partagés présente aux agents publics les 8 p
 
 <div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/etape-ligerienne-du-tdf-de-la-dinum">Inscriptions obligatoires</a></p></div>
 
-<p style="margin-top: 30px"><b>[Le mardi 29/11 de 14h30 à 17h] [Table ronde]</b> <i>Café Transfo #4 «S'inspirer des écosystèmes numériques pour transformer»</i></p>
+<p style="margin-top: 30px"><b>Le mardi 29/11 de 14h30 à 17h 
+<br>[Table ronde]</b> <i>Café Transfo #4 «S'inspirer des écosystèmes numériques pour transformer»</i></p>
 
 Les équipes Transformation numérique de l’État et LABEL de la DINUM  vous invitent à la quatrième édition du Café Transfo pour venir découvrir des témoignages des acteurs clés de la transformation numérique des politiques publiques qui œuvrent de façon concertée avec leurs écosystèmes. Parmi les problématiques : comment connaitre les écosystèmes numériques, notamment sourcer les entreprises privées afin de mieux transformer ? Quelles méthodes déployer, en tant que concepteur et opérateur de la transformation pour travailler avec ces écosystèmes ? 
 
