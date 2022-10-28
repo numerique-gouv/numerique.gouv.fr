@@ -62,3 +62,12 @@ Le pôle des produits numériques partagés présente aux agents publics les 8 p
 <br>à l’Espace Beaulieu - 9 bd Vincent Gache - 44200 Nantes
 
 <div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/etape-ligerienne-du-tdf-de-la-dinum">Inscriptions obligatoires</a></p></div>
+
+<p style="margin-top: 30px"><b>[Le mardi 29/11 de 14h30 à 17h] [Table ronde]</b> <i>«S'inspirer des écosystèmes numériques pour transformer»</i></p>
+
+Le pôle des produits numériques partagés présente aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Mais aussi des ateliers collaboratifs sur l’usage de ces outils pour lever les irritants exprimés par les agents, mais aussi sur les fonctionnalités avancées des plateformes collaboratives et de « démarches simplifiées » 
+
+* Matin et après-midi en présentiel :
+<br>à l’Espace Beaulieu - 9 bd Vincent Gache - 44200 Nantes
+
+<div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/etape-ligerienne-du-tdf-de-la-dinum">Inscriptions obligatoires</a></p></div>
