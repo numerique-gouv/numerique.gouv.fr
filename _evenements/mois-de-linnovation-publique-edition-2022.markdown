@@ -9,6 +9,14 @@ chapeau-text: Du 2 au 30 novembre 2022, participez au mois de l’innovation pub
   organisée par la DITP. À cette occasion, les équipes de la DINUM proposent une série
   d’évènements en ligne et en présentiel !
 categorie: Mois de l'innovation publique
+une-ou-diaporama:
+- image: "/uploads/MIP2022_Visuel_AGENDA.png"
+  alternative-textuelle: |-
+    La DINUM participe au Mois de l'innovation publique avec la Direction interministérielle de la transformation publique
+    sous le thème
+    Construire avec nous l'action publique de demain, avec le numérique.
+    Du 2 au 30 novembre.
+    Découvrez le programme !
 event_start_date: 2022-11-02 00:00:00 +01:00
 event_end_date: 2022-11-30 00:00:00 +01:00
 lieu: En ligne et en présentiel
