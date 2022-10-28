@@ -14,7 +14,7 @@ event_end_date: 2022-11-30 00:00:00 +01:00
 lieu: En ligne et en présentiel
 champs_informations:
 - intitule: Programme
-  contenu: Détail du mois de l'innovation publique
+  contenu: Détails du mois de l'innovation publique
   lien: https://www.modernisation.gouv.fr/mois-de-linnovation-publique/programme
 ---
 
@@ -46,24 +46,22 @@ Le département [Etalab](https://www.etalab.gouv.fr/), qui coordonne la concepti
 <div class="lien-important"><p><a href="https://bo-modernisation2021.bercy.actimage.net/mois-de-linnovation-publique/la-data-au-service-des-usagers-et-des-decideurs-publics">Découvrir le programme</a></p></div>
 
 <p style="margin-top: 30px"><b>Le mardi 15/11 de 9h30 à 17h
-<br>[Conférence et Ateliers]</b> <i>Le Tour de France des régions, à Rennes (Bretagne) : explorer le contenu du sac à dos numérique de l’Agent de l’Etat !</i></p>
+<br>[Conférence]</b> <i>Le Tour de France des régions, à Rennes (Bretagne) : explorer le contenu du sac à dos numérique de l’Agent de l’État !</i></p>
 
-Le pôle des produits numériques partagés et le SGAR 35  présente aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Avec un focus sur les projets numériques initiés dans la région Bretagne : le diagnostic numérique des agents de la DIRO, l’expérimentation d’usage du parapheur électronique et la nouvelle infrastructure de partage et de réutilisation de la donnée de l’État. 
+Le pôle des produits numériques partagés de la DINUM et le Secrétariat Générales aux Affaires Régionales (SGAR 35) présentent aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Durant cette journée, un focus sera fait sur les projets numériques initiés dans la région Bretagne : le diagnostic numérique des agents de la DIRO, l’expérimentation d’usage du parapheur électronique et la nouvelle infrastructure de partage et de réutilisation de la donnée de l’État. 
 
 * Matin : plénière en hybride 
 <br>Préfecture de région de Bretagne, 3 rue Martenot à Rennes, salle Renée Prévert 
-* Déjeuner : Ti Lab, 5 Rue Martenot 35000 Rennes
-* Après-midi : l’eclozr Rennes, 1, rue du Général Maurice Guillaudot 35000 Rennes
+* Après-midi : l’eclozr, 1 rue du Général Maurice Guillaudot à Rennes
 
 <div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/tour-de-france-pnp-etape-bretagne">Inscriptions obligatoires</a></p></div>
 
 <p style="margin-top: 30px"><b>Le mardi 22/11 de 9h30 à 17h 
-<br>[Conférence et Ateliers]</b> <i>Le Tour de France des régions, à Nantes (Pays de Loire) : explorer le contenu du sac à dos numérique de l’Agent de l’Etat !</i></p>
+<br>[Conférence et Ateliers]</b> <i>Le Tour de France des régions, à Nantes (Pays de Loire) : explorer le contenu du sac à dos numérique de l’Agent de l’État !</i></p>
 
-Le pôle des produits numériques partagés présente aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Mais aussi des ateliers collaboratifs sur l’usage de ces outils pour lever les irritants exprimés par les agents, mais aussi sur les fonctionnalités avancées des plateformes collaboratives et de « démarches simplifiées » 
+Le pôle des produits numériques partagés présente aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Plusieurs ateliers collaboratifs sont organisés sur l’usage de ces outils pour lever les irritants exprimés par les agents, mais aussi sur les fonctionnalités avancées des plateformes collaboratives et de l'outil « démarches simplifiées » 
 
-* Matin et après-midi en présentiel :
-<br>à l’Espace Beaulieu - 9 bd Vincent Gache - 44200 Nantes
+* Espace Beaulieu, 9 bd Vincent Gache à Nantes
 
 <div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/etape-ligerienne-du-tdf-de-la-dinum">Inscriptions obligatoires</a></p></div>
 
