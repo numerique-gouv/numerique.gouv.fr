@@ -65,7 +65,7 @@ Le pôle des produits numériques partagés présente aux agents publics les 8 p
 
 <p style="margin-top: 30px"><b>[Le mardi 29/11 de 14h30 à 17h] [Table ronde]</b> <i>Café Transfo #4 «S'inspirer des écosystèmes numériques pour transformer»</i></p>
 
-Les équipes Transformation numérique de l’État et LABEL de la DINUM  vous invitent à la quatrième édition du Café Transfo avec des acteurs clés de la transformation numérique des politiques publiques qui œuvrent de façon concertée avec leurs écosystèmes. Comment connaitre les écosystèmes numériques, notamment sourcer les entreprises privées afin de mieux transformer ? Quelles méthodes déployer, en tant que concepteur et opérateur de la transformation pour travailler avec ces écosystèmes ? 
+Les équipes Transformation numérique de l’État et LABEL de la DINUM  vous invitent à la quatrième édition du Café Transfo pour venir découvrir des témoignages des acteurs clés de la transformation numérique des politiques publiques qui œuvrent de façon concertée avec leurs écosystèmes. Parmi les problématiques : comment connaitre les écosystèmes numériques, notamment sourcer les entreprises privées afin de mieux transformer ? Quelles méthodes déployer, en tant que concepteur et opérateur de la transformation pour travailler avec ces écosystèmes ? 
 
 * Entrée libre gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 Av. de Ségur 75015 Paris 
