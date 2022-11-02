@@ -1,6 +1,7 @@
 ---
 title: Le Forum de l’emploi numérique de l’État 2022
 date: 2022-10-27 16:54:00 +02:00
+published: false
 categories:
 - Forum emploi
 tags:
@@ -9,10 +10,10 @@ tags:
 - Numérique
 chapeau-text: 'La direction interministérielle du numérique (DINUM) organise la 6e
   édition du Forum de l’emploi numérique de l’État : en ligne du 1er au 14 décembre
-  et en physique le 15 décembre. L’occasion de faire se rencontrer recruteurs du secteur
+  et à Paris le 15 décembre. L’occasion de faire se rencontrer recruteurs du secteur
   public (ministères, collectivités territoriales…) et candidat/es professionnel/les
-  du numérique, issus du secteur public ou du privé. Le Forum sera rythmé par un jobdating,
-  des ateliers et des rencontres en ligne.'
+  du numérique, issus du secteur public ou du privé. Le Forum sera rythmé par un jobdating
+  en ligne, des ateliers et des rencontres avec les recruteurs.'
 event_start_date: 2022-12-01 00:00:00 +01:00
 event_end_date: 2022-12-15 00:00:00 +01:00
 lieu: En ligne du 1er au 14 décembre, en présentiel le 15 décembre à Paris
@@ -37,7 +38,6 @@ Vous êtes **jeune diplômé/e d’une école du numérique** et curieux des opp
 
 Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
 
-Participez au Forum de l’emploi numérique de l’État et créez le service public de demain !
 
 > {: .text-center}
 >
@@ -46,16 +46,16 @@ Participez au Forum de l’emploi numérique de l’État et créez le service p
 > {: .margin-top-1 .text-center}
 {: .encadre role="presentation" }
 
-**Forum virtuel  du 1er au 14 décembre**
+**Forum virtuel du 1er au 14 décembre 2022**
 
 Vous n’êtes pas à Paris le 15 décembre pour le forum physique ? Participez à notre forum virtuel ! Créez dès le 9 novembre votre profil pour découvrir nos opportunités en région et en Île-de-France. 
 
-**Forum physique le 15 décembre**
+**Forum physique à paris le 15 décembre 2022**
 
-Ce forum regroupera **plus de 20 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, proposant plus de 200 postes à pourvoir.
+Ce forum regroupera **plus de 20 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, proposant plus de 300 postes à pourvoir.
 
 Un espace de **« speed-jobbing »** sera mis en place pour vos discussions avec les recruteurs. 
 
-Au cours de cette journée seront aussi proposées **des ateliers** de développement professionnel.
+Au cours de cette journée seront aussi proposés **des ateliers de développement professionnel**.
 
 <div align="center" style="margin-top: 30px"><b>Ouverture des inscriptions le 9 novembre 2022</b></div>
