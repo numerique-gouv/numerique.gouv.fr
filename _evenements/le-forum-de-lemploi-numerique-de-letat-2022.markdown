@@ -1,7 +1,6 @@
 ---
 title: Le Forum de l’emploi numérique de l’État 2022
 date: 2022-10-27 16:54:00 +02:00
-published: false
 categories:
 - Forum emploi
 tags:
@@ -28,26 +27,13 @@ champs_informations:
 - intitule: Comment y aller ?
   contenu: 'Métro 6 : Boissière –  2 : Victor-Hugo – 9 : Trocadéro RER A : Charles
     de Gaulle-Étoile'
-style: |
-  .button {
-  background-color: #0d5c98;
-  border: 1px solid white;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-style: normal;
-  margin: 4px 2px;
-  cursor: pointer;
-  }
 ---
 
-## Plus de 200 postes à pourvoir
+## Plus de 300 postes à pourvoir
 
-Vous êtes **un professionnel du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
+Vous êtes **un/e professionnel/le du numérique** et vous souhaitez apporter votre expertise à l’administration et aux citoyens ?
 
-Vous êtes **jeune diplômé d’une école du numérique** et curieux des opportunités professionnelles offertes par l’État ?
+Vous êtes **jeune diplômé/e d’une école du numérique** et curieux des opportunités professionnelles offertes par l’État ?
 
 Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
 
