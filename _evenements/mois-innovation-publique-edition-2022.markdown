@@ -56,7 +56,7 @@ Le département [Etalab](https://www.etalab.gouv.fr/), qui coordonne la concepti
 <p style="margin-top: 30px"><b>Le mardi 15/11 de 9h30 à 17h
 <br>[Conférence]</b> <i>Le Tour de France des régions, à Rennes (Bretagne) : explorer le contenu du sac à dos numérique de l’Agent de l’État !</i></p>
 
-Le pôle des produits numériques partagés de la DINUM et le Secrétariat Générales aux Affaires Régionales (SGAR 35) présentent aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Durant cette journée, un focus sera fait sur les projets numériques initiés dans la région Bretagne : le diagnostic numérique des agents de la DIRO, l’expérimentation d’usage du parapheur électronique et la nouvelle infrastructure de partage et de réutilisation de la donnée de l’État. 
+Le pôle des produits numériques partagés de la DINUM et le Secrétariat général aux affaires régionales Bretagne (SGAR) présentent aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Durant cette journée, un focus sera fait sur les projets numériques initiés dans la région Bretagne : le diagnostic numérique des agents de la DIRO, l’expérimentation d’usage du parapheur électronique et la nouvelle infrastructure de partage et de réutilisation de la donnée de l’État. 
 
 * Matin : plénière en hybride 
 <br>Préfecture de région de Bretagne, 3 rue Martenot à Rennes, salle Renée Prévert 
