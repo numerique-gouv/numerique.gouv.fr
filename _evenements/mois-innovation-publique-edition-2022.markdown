@@ -1,13 +1,12 @@
 ---
 title: Mois de l’innovation publique édition 2022
 date: 2022-10-21 09:36:00 +02:00
-published: false
 categories:
 - Mois de l'innovation publique
 tags:
 - innovation publique
-chapeau-text: Du 2 au 30 novembre 2022, participez au mois de l’innovation publique
-  organisée par la DITP. À cette occasion, les équipes de la DINUM proposent une série
+chapeau-text: Du 2 au 30 novembre 2022, participez au Mois de l’innovation publique
+  organisé par la DITP. À cette occasion, les équipes de la DINUM proposent une série
   d’évènements en ligne et en présentiel !
 categorie: Mois de l'innovation publique
 une-ou-diaporama:
