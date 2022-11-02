@@ -34,7 +34,7 @@ Chaque année, le Mois de l’innovation publique fédère près de 400 événem
 *Calendrier des rendez-vous des équipes de la DINUM pour le Mois de l’innovation publique*
 
 <p style="margin-top: 30px"><b>Le jeudi 03/11 de 16h15 à 18h15 
-<br>[Quiz]</b> <i>Qui veut gagner le quiz de l'innovation ?</i></p>
+<br>[Quiz]</b> <i>Quiz géant sur l'innovation publique !</i></p>
 
 [beta.gouv](https://beta.gouv.fr/), le réseau des incubateurs animé par la DINUM, vous accueille pour échanger sur l'innovation publique de manière ludique ! Venez rencontrer les équipes et intrapreneurs, découvrir la démarche Startups d’État et tester vos connaissances sur l'écosystème, les termes, les initiatives et les solutions de ce mouvement de transformation du secteur public.
 
