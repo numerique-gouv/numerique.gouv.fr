@@ -27,7 +27,7 @@ champs_informations:
   lien: https://www.modernisation.gouv.fr/mois-de-linnovation-publique/programme
 ---
 
-Chaque année, le Mois de l’innovation publique fédère près de 400 événements dans toute la France sous l’impulsion de la Direction interministérielle de la transformation publique (DITP).
+Chaque année, le Mois de l’innovation publique fédère près de 400 événements dans toute la France sous l’impulsion de la direction interministérielle de la transformation publique (DITP).
 
 À l’occasion de [l’édition 2022 du mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-de-linnovation-publique), les équipes de la DINUM vous proposent une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, tables rondes, retours d’expériences, appel à projets, offres d’accompagnements et webinaires.
 
