@@ -28,13 +28,13 @@ champs_informations:
 
 Chaque année, le Mois de l’innovation publique fédère près de 400 événements dans toute la France sous l’impulsion de la direction interministérielle de la transformation publique (DITP).
 
-À l’occasion de [l’édition 2022 du mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-de-linnovation-publique), les équipes de la DINUM vous proposent une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, tables rondes, retours d’expériences, appel à projets, offres d’accompagnements et webinaires.
+À l’occasion de [l’édition 2022 du Mois de l’innovation publique](https://www.modernisation.gouv.fr/mois-de-linnovation-publique), les équipes de la DINUM vous proposent une série d’évènements en ligne accessibles à toutes et tous : ateliers participatifs, tables rondes, retours d’expériences, appel à projets, offres d’accompagnements et webinaires.
 
 ### À vos agendas
-*Calendrier des rendez-vous des équipes de la DINUM pour le mois de l’innovation publique*
+*Calendrier des rendez-vous des équipes de la DINUM pour le Mois de l’innovation publique*
 
 <p style="margin-top: 30px"><b>Le jeudi 03/11 de 16h15 à 18h15 
-<br>[Quiz]</b> <i>Qui veut gagner le quiz de l'innovation ?</i></p>
+<br>[Quiz]</b> <i>Quiz géant sur l'innovation publique !</i></p>
 
 [beta.gouv](https://beta.gouv.fr/), le réseau des incubateurs animé par la DINUM, vous accueille pour échanger sur l'innovation publique de manière ludique ! Venez rencontrer les équipes et intrapreneurs, découvrir la démarche Startups d’État et tester vos connaissances sur l'écosystème, les termes, les initiatives et les solutions de ce mouvement de transformation du secteur public.
 
@@ -79,7 +79,7 @@ Le pôle des produits numériques partagés présente aux agents publics les 8 p
 Les équipes Transformation numérique de l’État et LABEL de la DINUM  vous invitent à la quatrième édition du Café Transfo pour venir découvrir des témoignages des acteurs clés de la transformation numérique des politiques publiques qui œuvrent de façon concertée avec leurs écosystèmes. Parmi les problématiques : comment connaitre les écosystèmes numériques, notamment sourcer les entreprises privées afin de mieux transformer ? Quelles méthodes déployer, en tant que concepteur et opérateur de la transformation pour travailler avec ces écosystèmes ? 
 
 * Entrée libre gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
-* 77 Av. de Ségur 75015 Paris 
+* 77 avenue de Ségur 75015 Paris 
 * En ligne via la webconférence de l'État
 
 <div class="lien-important"><p><a href="https://www.eventbrite.fr/e/billets-cafe-transfo-4-sinspirer-des-ecosystemes-numeriques-pour-transformer-453193984407">Inscriptions obligatoires</a></p></div>

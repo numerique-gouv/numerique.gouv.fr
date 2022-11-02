@@ -28,22 +28,20 @@ champs_informations:
 - intitule: Comment y aller ?
   contenu: 'Métro 6 : Boissière –  2 : Victor-Hugo – 9 : Trocadéro RER A : Charles
     de Gaulle-Étoile'
+style: |
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
-
-<style>
-.button {
-background-color: #0d5c98;
-border: 1px solid white;
-color: white;
-padding: 10px 10px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-style: normal;
-margin: 4px 2px;
-cursor: pointer;
-}
-</style>
 
 ## Plus de 200 postes à pourvoir
 
