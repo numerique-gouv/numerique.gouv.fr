@@ -49,7 +49,7 @@ Chaque année, le Mois de l’innovation publique fédère près de 400 événem
 Le département [Etalab](https://www.etalab.gouv.fr/), qui coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, organise une journée spéciale data au Lieu de la transformation publique pour partager méthodes, outils, solutions et projets qui transforment durablement l'action et les services publics !
 
 * Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
-* 77 Av. de Ségur 75015 Paris 
+* 77 avenue de Ségur 75015 Paris 
 
 <div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/la-data-au-service-des-usagers-et-des-decideurs-publics">Découvrir le programme</a></p></div>
 
