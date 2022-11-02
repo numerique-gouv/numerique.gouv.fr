@@ -36,7 +36,7 @@ Chaque année, le Mois de l’innovation publique fédère près de 400 événem
 <p style="margin-top: 30px"><b>Le jeudi 03/11 de 16h15 à 18h15 
 <br>[Quiz]</b> <i>Qui veut gagner le quiz de l'innovation ?</i></p>
 
-Le pôle [beta.gouv](https://beta.gouv.fr/) vous accueille pour échanger sur l'innovation publique de manière ludique ! Venez rencontrer les équipes pour jouer avec elles et tester vos connaissances sur l'écosystème, les termes, les initiatives et les solutions de ce mouvement de transformation du secteur public.
+[beta.gouv](https://beta.gouv.fr/), le réseau des incubateurs animé par la DINUM, vous accueille pour échanger sur l'innovation publique de manière ludique ! Venez rencontrer les équipes et intrapreneurs, découvrir la démarche Startups d’État et tester vos connaissances sur l'écosystème, les termes, les initiatives et les solutions de ce mouvement de transformation du secteur public.
 
 * Entrée gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 avenue de Ségur 75015 Paris 
@@ -51,10 +51,10 @@ Le département [Etalab](https://www.etalab.gouv.fr/), qui coordonne la concepti
 * Entrée libre gratuite / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 Av. de Ségur 75015 Paris 
 
-<div class="lien-important"><p><a href="https://bo-modernisation2021.bercy.actimage.net/mois-de-linnovation-publique/la-data-au-service-des-usagers-et-des-decideurs-publics">Découvrir le programme</a></p></div>
+<div class="lien-important"><p><a href="https://www.modernisation.gouv.fr/mois-de-linnovation-publique/la-data-au-service-des-usagers-et-des-decideurs-publics">Découvrir le programme</a></p></div>
 
 <p style="margin-top: 30px"><b>Le mardi 15/11 de 9h30 à 17h
-<br>[Conférence]</b> <i>Le Tour de France des régions, à Rennes (Bretagne) : explorer le contenu du sac à dos numérique de l’Agent de l’État !</i></p>
+<br>[Conférence]</b> <i>Le Tour de France des régions, à Rennes (Bretagne) : explorer le contenu du sac à dos numérique de l’agent de l’État !</i></p>
 
 Le pôle des produits numériques partagés de la DINUM et le Secrétariat général aux affaires régionales Bretagne (SGAR) présentent aux agents publics les 8 produits numériques interministériels, complémentaires de l’écosystème ministériel, pour proposer des solutions concrètes aux besoins des agents dans leur quotidien professionnel. Durant cette journée, un focus sera fait sur les projets numériques initiés dans la région Bretagne : le diagnostic numérique des agents de la DIRO, l’expérimentation d’usage du parapheur électronique et la nouvelle infrastructure de partage et de réutilisation de la donnée de l’État. 
 
