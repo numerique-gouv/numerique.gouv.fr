@@ -14,12 +14,7 @@ layout: ressources-presse
 ---
 
 <h2>Stéphanie Schaer, directrice interministérielle du numérique</h2>
-<h3><img src="/uploads/Stephanie%20Schaer.png" alt="" style="margin-right: 20px" width="20%" align="right">Photographie</h3>
-Télécharger le portrait de Stéphanie Schaer en HD :
-* [format jpg, en CMJN (pour un usage print - 88 Ko)](/uploads/Stephanie_Schaer_CMJN_HD.jpg) 
-* [format png, en RVB (pour un usage web - 1,5 Mo)](/uploads/Stephanie_Schaer_RVB_HD.png)
-<br>
-### Biographie
+<h3><img src="/uploads/Stephanie%20Schaer.png" alt="" style="margin-right: 20px" width="20%" align="right">Biographie</h3>
 
 Stéphanie Schaer, ingénieure générale des Mines, est, depuis septembre 2022, la directrice interministérielle du numérique (DINUM). 
 
@@ -32,3 +27,8 @@ Elle devient plus tard directrice régionale adjointe des entreprises, de la con
 Stéphanie Schaer devient en 2019 directrice adjointe du cabinet d’Élisabeth Borne, au ministère de la Transition écologique et solidaire puis au ministère du Travail où elle sera ensuite nommée à la tête du cabinet. Lorsqu’Élisabeth Borne est nommée à Matignon en mai 2022, Stéphanie Schaer devient conseillère auprès de la Première ministre.
 
 Le 26 septembre 2022, elle est [nommée](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000046331329) à la tête de la direction interministérielle du numérique.
+
+<h3>Photographie</h3>
+**Télécharger le portrait de Stéphanie Schaer en HD :**
+* [format jpg, en CMJN (pour un usage print - 88 Ko)](/uploads/Stephanie_Schaer_CMJN_HD.jpg) 
+* [format png, en RVB (pour un usage web - 1,5 Mo)](/uploads/Stephanie_Schaer_RVB_HD.png)
