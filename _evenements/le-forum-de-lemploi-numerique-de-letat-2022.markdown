@@ -1,7 +1,6 @@
 ---
 title: Le Forum de l’emploi numérique de l’État 2022
 date: 2022-10-27 16:54:00 +02:00
-published: false
 categories:
 - Forum emploi
 tags:
@@ -14,6 +13,8 @@ chapeau-text: 'La direction interministérielle du numérique (DINUM) organise l
   public (ministères, collectivités territoriales…) et candidat/es professionnel/les
   du numérique, issus du secteur public ou du privé. Le Forum sera rythmé par un jobdating
   en ligne, des ateliers et des rencontres avec les recruteurs.'
+une-ou-diaporama:
+- image: "/uploads/2022_11_03_FEN_AGENDA.jpg"
 event_start_date: 2022-12-01 00:00:00 +01:00
 event_end_date: 2022-12-15 00:00:00 +01:00
 lieu: En ligne du 1er au 14 décembre, en présentiel le 15 décembre à Paris
