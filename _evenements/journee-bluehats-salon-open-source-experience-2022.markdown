@@ -71,8 +71,8 @@ Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr ](mailto:log
   * [Démarches simplifiées](https://www.demarches-simplifiees.fr/) : un commun numérique pas si commun ! Philippe Vrignaud (DINUM)
   * [Plan d'action logiciels libres et communs numériques](https://www.numerique.gouv.fr/publications/plan-action-logiciels-libres-communs-numeriques/) : un an plus tard par les pôles logiciels libres et LABEL de la DINUM
 
-<div class="noir encadre"><h3>La communauté Blue hats</h3>
-<p>Les Blue hats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="gazette - Lien externe">gazette</a>.</p>
+<div class="noir encadre"><h3>La communauté BlueHats</h3>
+<p>Les BlueHats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="gazette - Lien externe">gazette</a>.</p>
 <br><p>Pour recevoir l’actualité de la communauté et être informé des prochaines actions :
 </p><ul><li><a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="Inscrivez-vous à la gazette Bluehats ! - Lien externe">Inscrivez-vous à la gazette BlueHats</a></li></ul><p></p>
 <p>Pour discuter sur le thème du logiciel libre dans l’administration :
