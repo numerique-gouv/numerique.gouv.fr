@@ -35,41 +35,41 @@ Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr ](mailto:log
 ## Programme
 
 * **9h30-10h30** :
-  * La collaboration interministérielle autour de [Jitsi](https://www.centralesupelec.fr/fr/jitsi-box-un-boitier-opensource-pour-hybrider-lenseignement-entre-presentiel-et-distanciel) : Samuel Paccoud (FUN)
-  * Pour de la visioconférence à grande échelle avec [BigBlueButton](https://bigbluebutton.org/) par Nicolas Schont (MENJS)
-  * [Esup-Pod](https://www.esup-portail.org/wiki/display/ES/Esup-Pod) : la plateforme vidéo de l'enseignement supérieur, Nicolas Can (Esup-Portail)
+  * La collaboration interministérielle autour de [Jitsi](https://www.centralesupelec.fr/fr/jitsi-box-un-boitier-opensource-pour-hybrider-lenseignement-entre-presentiel-et-distanciel) : Samuel Paccoud ([FUN](https://www.fun-mooc.fr/fr/))
+  * Pour de la visioconférence à grande échelle avec [BigBlueButton](https://bigbluebutton.org/) par Nicolas Schont ([MENJS](https://www.education.gouv.fr/))
+  * [Esup-Pod](https://www.esup-portail.org/wiki/display/ES/Esup-Pod) : la plateforme vidéo de l'enseignement supérieur, Nicolas Can ([Esup-Portail](https://www.esup-portail.org/))
 <br>
 <br>
 * **10h40-11h40** : 
-  * [Capytale](https://www.ac-paris.fr/capytale-un-service-web-pour-creer-et-partager-des-activites-pedagogiques-de-codage-121816) : un studio de création pour l'apprentissage de la programmation, Nicolas Poulain (MENJS)
-  * Que la forge soit avec toi ! et L'[AMDAC](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees-des-algorithmes-et-des-codes-sources/)-vador contre-attaque, Alexis Kauffmann et Philippe Ajuelos (MENJS)
-  * Trajectoire des [mobilités numériques ouvertes](https://smmag.fr/se-deplacer/m-linformation-voyageur/) à Grenoble, Frederick Petit (SMMAG)
+  * [Capytale](https://www.ac-paris.fr/capytale-un-service-web-pour-creer-et-partager-des-activites-pedagogiques-de-codage-121816) : un studio de création pour l'apprentissage de la programmation, Nicolas Poulain ([MENJS](https://www.education.gouv.fr/))
+  * Que la forge soit avec toi ! et L'[AMDAC](https://www.data.gouv.fr/fr/datasets/liste-des-administrateurs-ministeriels-des-donnees-des-algorithmes-et-des-codes-sources/)-vador contre-attaque, Alexis Kauffmann et Philippe Ajuelos ([MENJS](https://www.education.gouv.fr/))
+  * Trajectoire des [mobilités numériques ouvertes](https://smmag.fr/se-deplacer/m-linformation-voyageur/) à Grenoble, Frederick Petit ([Grenoble Alpes Métropole](https://www.grenoblealpesmetropole.fr))
 <br>
 <br>
 * **11h50-12h50** : 
-  * Portage d'AWX sous Debian : cas d'usage à l'éducation nationale (PHM), Stéphane Paillet (MENJS)
-  * [GROBID](https://fr.wikipedia.org/wiki/GROBID) : digérer les publications savantes, muscler les communautés scientifiques, Anne L'Hôte (MESR)
-  * [GNU Guix](https://fr.wikipedia.org/wiki/GNU_Guix), vers la reproductibilité computationnelle, Simon Tournier (MESR)
+  * Portage d'AWX sous Debian : cas d'usage à l'éducation nationale (PHM), Stéphane Paillet ([MENJS](https://www.education.gouv.fr/)) et Jérémy Lal ([Debian](https://www.debian.org/))
+  * [GROBID](https://fr.wikipedia.org/wiki/GROBID) : digérer les publications savantes, muscler les communautés scientifiques, Anne L'Hôte ([MESR](https://www.enseignementsup-recherche.gouv.fr/fr))
+  * [GNU Guix](https://fr.wikipedia.org/wiki/GNU_Guix), vers la reproductibilité computationnelle, Simon Tournier ([MESR](https://www.enseignementsup-recherche.gouv.fr/fr))
 <br>
 <br>
 * **12h50-14h** : *Pause déjeuner*
 <br>
 <br>
 * **14h-15h** : 
-  * [Catalogue de métadonnées en santé](https://www.health-data-hub.fr/catalogue-de-donnees) : la dynamique européenne et française, Lorien Benda (Health Data Hub)
-  * Présentation de l'utilisation de [Nextcloud](https://nextcloud.com/athome/) aux Arts Décos, Olivier Bienz (Arts Décos)
+  * [Catalogue de métadonnées en santé](https://www.health-data-hub.fr/catalogue-de-donnees) : la dynamique européenne et française, Lorien Benda ([Health Data Hub](https://www.health-data-hub.fr))
+  * Présentation de l'utilisation de [Nextcloud](https://nextcloud.com/athome/) aux Arts Décos, Olivier Bienz ([Les Arts Décoratifs](https://madparis.fr/))
 <br>
 <br>
 * **15h10-16h10** : 
-  * [BlueHats Semester Of Code](https://communs.numerique.gouv.fr/posts/presentation-promotion-bluehats-2022/) : les contributions des étudiants de CentraleSupélec, Les BlueHats (DINUM/CentraleSupélec)
+  * [BlueHats Semester Of Code](https://communs.numerique.gouv.fr/posts/presentation-promotion-bluehats-2022/) : les contributions des étudiants de CentraleSupélec, Les BlueHats ([DINUM](https://www.numerique.gouv.fr/)/[CentraleSupélec](https://www.centralesupelec.fr/))
   * Observatoire de l'accessibilité web, quel constat un an après ? Matthieu Faure ([ADULLACT](https://adullact.org/))
   * DSI, unissons-nous ! Nicolas Vivant (Ville d’[Échirolles](https://www.echirolles.fr/))
 <br>
 <br>
 * **16h20-17h20** : 
-  * Le « [Dites-le nous une fois](https://www.numerique.gouv.fr/services/guichet-dites-le-nous-une-fois/) » européen et l'open source, Jonathan J. Attia (DINUM/Etalab)
-  * [Démarches simplifiées](https://www.demarches-simplifiees.fr/) : un commun numérique pas si commun ! Philippe Vrignaud (DINUM)
-  * [Plan d'action logiciels libres et communs numériques](https://www.numerique.gouv.fr/publications/plan-action-logiciels-libres-communs-numeriques/) : un an plus tard par les pôles logiciels libres et LABEL de la DINUM
+  * Le « [Dites-le nous une fois](https://www.numerique.gouv.fr/services/guichet-dites-le-nous-une-fois/) » européen et l'open source, Jonathan J. Attia ([DINUM](https://numerique.gouv.fr/)/[Etalab](https://etalab.gouv.fr/))
+  * [Démarches simplifiées](https://www.demarches-simplifiees.fr/) : un commun numérique pas si commun ! Philippe Vrignaud ([DINUM](https://www.numerique.gouv.fr/))
+  * [Plan d'action logiciels libres et communs numériques](https://www.numerique.gouv.fr/publications/plan-action-logiciels-libres-communs-numeriques/) : un an plus tard par le [pôle logiciels libres](https://communs.numerique.gouv.fr/) et la [mission LABEL](https://catalogue.numerique.gouv.fr/) de la [DINUM](https://numerique.gouv.fr/)
 
 <div class="noir encadre"><h3>La communauté BlueHats</h3>
 <p>Les BlueHats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="gazette - Lien externe">gazette</a>.</p>
