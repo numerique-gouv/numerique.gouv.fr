@@ -58,17 +58,21 @@ Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr ](mailto:log
 * **14h-15h** : 
   * [Catalogue de métadonnées en santé](https://www.health-data-hub.fr/catalogue-de-donnees) : la dynamique européenne et française, Lorien Benda ([Health Data Hub](https://www.health-data-hub.fr))
   * Présentation de l'utilisation de [Nextcloud](https://nextcloud.com/athome/) aux Arts Décos, Olivier Bienz ([Les Arts Décoratifs](https://madparis.fr/))
+  * [BlueHats Semester Of Code](https://communs.numerique.gouv.fr/posts/presentation-promotion-bluehats-2022/) : les contributions des étudiants de CentraleSupélec, Les BlueHats ([DINUM](https://www.numerique.gouv.fr/)/[CentraleSupélec](https://www.centralesupelec.fr/))
 <br>
 <br>
 * **15h10-16h10** : 
-  * [BlueHats Semester Of Code](https://communs.numerique.gouv.fr/posts/presentation-promotion-bluehats-2022/) : les contributions des étudiants de CentraleSupélec, Les BlueHats ([DINUM](https://www.numerique.gouv.fr/)/[CentraleSupélec](https://www.centralesupelec.fr/))
+  * Le logiciel libre au sein des agglomérations, Christophe Hugon ([Ville de Marseille](https://www.marseille.fr/))
   * Observatoire de l'accessibilité web, quel constat un an après ? Matthieu Faure ([ADULLACT](https://adullact.org/))
   * DSI, unissons-nous ! Nicolas Vivant (Ville d’[Échirolles](https://www.echirolles.fr/))
 <br>
 <br>
 * **16h20-17h20** : 
+  * Ouverture de code de l'orchestrateur DevSevOps Cloud Native au MI, Eric Tiquet, Thibault Colin et Yoann Arthaud ([DNUM MI](https://www.interieur.gouv.fr/ministere/secretariat-general/direction-du-numerique))
   * Le « [Dites-le nous une fois](https://www.numerique.gouv.fr/services/guichet-dites-le-nous-une-fois/) » européen et l'open source, Jonathan J. Attia ([DINUM](https://numerique.gouv.fr/)/[Etalab](https://etalab.gouv.fr/))
   * [Démarches simplifiées](https://www.demarches-simplifiees.fr/) : un commun numérique pas si commun ! Philippe Vrignaud ([DINUM](https://www.numerique.gouv.fr/))
+
+* **17h30-18h00** :
   * [Plan d'action logiciels libres et communs numériques](https://www.numerique.gouv.fr/publications/plan-action-logiciels-libres-communs-numeriques/) : un an plus tard par le [pôle logiciels libres](https://communs.numerique.gouv.fr/) et la [mission LABEL](https://catalogue.numerique.gouv.fr/) de la [DINUM](https://numerique.gouv.fr/)
 
 <div class="noir encadre"><h3>La communauté BlueHats</h3>
