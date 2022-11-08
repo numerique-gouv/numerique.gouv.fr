@@ -25,7 +25,7 @@ champs_informations:
 - intitule: 15 décembre à Paris
   contenu: De 9h à 18h
 - intitule: Modalités
-  contenu: Inscription obligatoire gratuite en ligne à partir du 9/11
+  contenu: Inscription obligatoire gratuite en ligne à partir du 16/11
 - intitule: Comment y aller ?
   contenu: 'Métro 6 : Boissière –  2 : Victor-Hugo – 9 : Trocadéro RER A : Charles
     de Gaulle-Étoile'
