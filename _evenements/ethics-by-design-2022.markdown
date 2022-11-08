@@ -1,6 +1,6 @@
 ---
 title: Ethics by Design 2022
-date: 2022-10-27 16:16:00 +02:00
+date: 2022-11-08 16:31:00 +01:00
 categories:
 - Évènement
 tags:
