@@ -1,6 +1,6 @@
 ---
 title: Le Forum de l’emploi numérique de l’État 2022
-date: 2022-10-27 16:54:00 +02:00
+date: 2022-11-08 16:54:00 +01:00
 categories:
 - Forum emploi
 tags:
