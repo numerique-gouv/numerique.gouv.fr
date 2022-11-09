@@ -59,4 +59,4 @@ Un espace de **« speed-jobbing »** sera mis en place pour vos discussions avec
 
 Au cours de cette journée seront aussi proposés **des ateliers de développement professionnel**.
 
-<div align="center" style="margin-top: 30px"><b>Ouverture des inscriptions le 9 novembre 2022</b></div>
+<div align="center" style="margin-top: 30px"><b>[Ouverture des inscriptions le 9 novembre 2022](https://app.seekube.com/forum-de-lemploi-tech-de-letat-2022)</b></div>
