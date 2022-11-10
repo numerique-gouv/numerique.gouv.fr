@@ -63,4 +63,6 @@ Un espace de **« speed-jobbing »** sera mis en place pour vos discussions avec
 
 Au cours de cette journée seront aussi proposés **des ateliers de développement professionnel**.
 
-> Ouverture des inscriptions au forum physique à Paris le 16 novembre 2022. 
+<br>
+
+*Ouverture des inscriptions au forum physique à Paris le 16 novembre 2022.* 
