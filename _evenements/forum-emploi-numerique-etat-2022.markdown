@@ -22,6 +22,7 @@ adresse: La grande Crypte 69 rue Boissière, 75016 PARIS
 champs_informations:
 - intitule: Forum virtuel du 1er au 14 décembre
   contenu: Inscriptions en ligne du 9/11 au 30/11
+  lien: https://app.seekube.com/forum-de-lemploi-tech-de-letat-2022
 - intitule: 15 décembre à Paris
   contenu: De 9h à 18h
 - intitule: Modalités
@@ -51,7 +52,10 @@ Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans l
 
 Vous n’êtes pas à Paris le 15 décembre pour le forum physique ? Participez à notre forum virtuel ! Créez dès le 9 novembre votre profil pour découvrir nos opportunités en région et en Île-de-France. 
 
-**Forum physique à paris le 15 décembre 2022**
+<p align="center"><a href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-2022" class="button">S'inscrire au forum en ligne </a></p>
+
+
+**Forum physique à Paris le 15 décembre 2022**
 
 Ce forum regroupera **plus de 20 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, proposant plus de 300 postes à pourvoir.
 
@@ -59,4 +63,4 @@ Un espace de **« speed-jobbing »** sera mis en place pour vos discussions avec
 
 Au cours de cette journée seront aussi proposés **des ateliers de développement professionnel**.
 
-<div align="center" style="margin-top: 30px"><b><a href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-2022" title="Ouverture des inscriptions le 9 novembre 2022 - Lien externe">Ouverture des inscriptions le 9 novembre 2022</a></b></div>
+> Ouverture des inscriptions au forum physique à Paris le 16 novembre 2022. 
