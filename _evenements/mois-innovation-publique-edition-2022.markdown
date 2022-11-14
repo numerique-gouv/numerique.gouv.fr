@@ -73,6 +73,24 @@ Le pôle des produits numériques partagés présente aux agents publics les 8 p
 
 <div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/etape-ligerienne-du-tdf-de-la-dinum">Inscriptions obligatoires</a></p></div>
 
+<p style="margin-top: 30px"><b>Le mardi 29/11 de 9h à 12h 
+<br>[Atelier participatif]</b> <i>Lancement officiel du référentiel général d'écoconception de service numérique</i></p>
+
+Depuis 2020, l’État se veut exemplaire en développant un service public écoresponsable, dont les activités numériques : achat durable, réemploi et allongement de durée de vie des équipements, écoconception de services numériques publics… Des guides, référentiels, outils, supports de sensibilisation sont publiés dans le cadre de cette démarche.
+
+Le Référentiel général d’écoconception des services numériques (RGESN) a été publié en version beta en octobre 2021. S’en est suivi une consultation publique. Sa première version est accompagné d’un outil permettant de faciliter l’évaluation d’un service numérique à l’aide du RGESN.
+
+Un atelier de prise en main du référentiel et de l’outil de diagnostic est proposé gratuitement à tous les agents publics par la mission interministérielle numérique écoresponsable (MiNumEco), copilotée par la DINUM et le ministère de la Transition écologique. 
+
+
+* Entrée libre gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
+* 77 avenue de Ségur 75015 Paris 
+* En ligne via la webconférence de l'État
+
+<div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/inscription-a-l-evenement-lancement-du-referentiel">Inscriptions obligatoires</a></p></div>
+
+----
+
 <p style="margin-top: 30px"><b>Le mardi 29/11 de 14h30 à 17h 
 <br>[Table ronde]</b> <i>Café Transfo #4 « S'inspirer des écosystèmes numériques pour transformer »</i></p>
 
