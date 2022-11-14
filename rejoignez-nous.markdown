@@ -45,19 +45,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Responsable d'un portefeuille de produits numériques et de l'animation de beta.gouv.fr H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-d-un-portefeuille-de-produits-numeriques-et-de-l-animation-de-betagouvfr-hf-reference-2022-1021049/ "Responsable d'un portefeuille de produits numériques et de l'animation de beta.gouv.fr H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Conseiller(ère) auprès de la directrice interministérielle du numérique H/F](https://place-emploi-public.gouv.fr/offre-emploi/2022-1031526/ "Conseiller(ère) auprès de la directrice interministérielle du numérique H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Responsable distribution et promotion produits FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-distribution-et-promotion-produits-franceconnect-cdd-3ans-hf-reference-2022-971783/ "Responsable distribution et promotion produits FranceConnect H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé/e de mission Développement RH H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-e-de-mission-developpement-rh-hf-reference-2022-1021009/ "Chargé/e de mission Développement RH H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
@@ -75,11 +63,9 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
 <p><strong> Présidence de la République</strong></p>
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-du-departement-de-l-exploitation-et-de-l-administration-technique--reference-2022-1024634/" title="Responsable du département de l'exploitation et de l'administration technique - Lien externe">Responsable du département de l'exploitation et de l'administration technique, F/H</a></strong><br>Cadre/Catégorie A</li></ul>
-<p><strong> Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) </strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/coordinateur-sectoriel-telecoms-hf-reference-2021-736102/" title="Coordinateur sectoriel télécoms F/H - Lien externe">Coordinateur sectoriel télécoms H/F</a></strong><br>Cadre/Catégorie A</li></ul>
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-du-departement-de-l-exploitation-et-de-l-administration-technique--reference-2022-1024634/" title="Responsable du département de l'exploitation et de l'administration technique - Lien externe">Responsable du département de l'exploitation et de l'administration technique, F/H</a></strong><br>Cadre/Catégorie A+</li></ul>
 <p><strong> Ministère de l'enseignement supérieur, de la recherche et de l'innovation </strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/dgesip-a-scn-parcoursup---administrateur-trice-des-systemes-d-information-reference-2022-861851/" title="Coordinateur sectoriel télécoms H/F - Lien externe">DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information H/F</a></strong><br>Cadre/Catégorie A, Labège (31370)</li></ul>
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/dgesip-a-scn-parcoursup---administrateur-trice-des-systemes-d-information-reference-2022-861851/" title="DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information F/H - Lien externe">DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information F/H</a></strong><br>Cadre/Catégorie A, Labège (31370)</li></ul>
 </div>
 
 <div class="noir encadre"><h4>Sur metiers.numerique.gouv.fr, <br>découvrez les offres d'emploi dans le numérique au sein de l’État</h4> <p>Rendez-vous sur notre site dédié <a href="https://metiers.numerique.gouv.fr"> metiers.numerique.gouv.fr</a> pour consulter les offres d’emploi à pourvoir dans les ministères et déposer une candidature spontanée&nbsp;! <br>À venir également, des vitrines pour faire la connaissance des différentes entités du numérique de l'État et des témoignages d'agents publics. </p> 
