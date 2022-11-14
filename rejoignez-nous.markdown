@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 24 octobre 2022
+date_de_modification: 14 novembre 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -74,8 +74,10 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <div class="encadre noir">
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
+<p><strong> Présidence de la République</strong></p>
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-du-departement-de-l-exploitation-et-de-l-administration-technique--reference-2022-1024634/" title="Responsable du département de l'exploitation et de l'administration technique - Lien externe">Responsable du département de l'exploitation et de l'administration technique, F/H</a></strong><br>Cadre/Catégorie A</li></ul>
 <p><strong> Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI) </strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/coordinateur-sectoriel-telecoms-hf-reference-2021-736102/" title="Coordinateur sectoriel télécoms H/F - Lien externe">Coordinateur sectoriel télécoms H/F</a></strong><br>Cadre/Catégorie A</li></ul>
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/coordinateur-sectoriel-telecoms-hf-reference-2021-736102/" title="Coordinateur sectoriel télécoms F/H - Lien externe">Coordinateur sectoriel télécoms H/F</a></strong><br>Cadre/Catégorie A</li></ul>
 <p><strong> Ministère de l'enseignement supérieur, de la recherche et de l'innovation </strong></p> 
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/dgesip-a-scn-parcoursup---administrateur-trice-des-systemes-d-information-reference-2022-861851/" title="Coordinateur sectoriel télécoms H/F - Lien externe">DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information H/F</a></strong><br>Cadre/Catégorie A, Labège (31370)</li></ul>
 </div>
