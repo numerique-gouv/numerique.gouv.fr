@@ -85,7 +85,6 @@ Un atelier de prise en main du référentiel et de l’outil de diagnostic est p
 
 * Entrée libre gratuite sur inscription / Accessible aux personnes à mobilité réduite au Lieu de la transformation publique 
 * 77 avenue de Ségur 75015 Paris 
-* En ligne via la webconférence de l'État
 
 <div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/inscription-a-l-evenement-lancement-du-referentiel">Inscriptions obligatoires</a></p></div>
 
