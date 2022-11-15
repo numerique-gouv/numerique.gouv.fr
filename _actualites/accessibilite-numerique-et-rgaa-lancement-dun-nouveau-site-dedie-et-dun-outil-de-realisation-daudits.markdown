@@ -11,6 +11,19 @@ tags:
 chapeau-text: 'Afin d’aller toujours plus loin dans l’accessibilité numérique des
   services publics, en facilitant sa mise en œuvre, la DINUM lance un site dédié et
   un outil en ligne de réalisation d’audits. Et bientôt, une actualisation du RGAA. '
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
 
 Plus simple, plus ergonomique, plus complet : l’accessibilité numérique bénéficie désormais d’un site à part entière, [accessibilite.numerique.gouv.fr](https://accessibilite.numerique.gouv.fr/ "accessibilite.numerique.gouv.fr - Lien externe").
@@ -57,6 +70,6 @@ L’objectif de ce RGAA actualisé sera de s’assurer que le taux de conformit�
 Ces nouveautés majeures viennent renforcer l’action de l’État en matière d’accessibilité numérique, et plus largement d’accès aux services publics pour toutes et pour tous, l’une des priorités du ministre de la Transformation et de la Fonction publics Stanislas Guerini.
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Suivez l’amélioration de l’accessibilité des 250 démarches phares de l’État</h3><p>Depuis 2019, <a href="https://observatoire.numerique.gouv.fr/" title="l’Observatoire de la qualité des démarches en ligne - lien externe">l’Observatoire de la qualité des démarches en ligne</a>, piloté par la DINUM, rend compte chaque trimestre de l’avancée de la numérisation des 250 démarches administratives de l’État les plus utilisées par les Français et de l’amélioration de leur qualité. L’un des critères permet de mesurer leur niveau d’accessibilité et d’en suivre les progrès.
-<br>Les administrations en charge de ces démarches bénéficient de [l’appui de la DINUM](https://design.numerique.gouv.fr/accompagnement/) et de cofinancements des fonds du plan France Relance.
+<br>Les administrations en charge de ces démarches bénéficient de <a href="https://design.numerique.gouv.fr/accompagnement/" title="l’appui de la DINUM - lien externe">l’appui de la DINUM</a> et de cofinancements des fonds du plan France Relance.
 <br>Ainsi, par exemple, depuis cet été, les démarches pour s'inscrire ou se réinscrire comme demandeur d'emploi auprès de Pôle emploi ou renouveler mensuellement sa situation de demandeur d’emploi ont été rendues plus accessibles aux personnes en situation de handicap.</p>
-<p><a href="https://observatoire.numerique.gouv.fr/" title="Consulter la dernière édition de l’Observatoire - Lien externe"> Consulter la dernière édition de l’Observatoire</p></div>
+<p><a href="https://observatoire.numerique.gouv.fr/" title="Consulter la dernière édition de l’Observatoire - Lien externe"> Consulter la dernière édition de l’Observatoire</a></p></div>
