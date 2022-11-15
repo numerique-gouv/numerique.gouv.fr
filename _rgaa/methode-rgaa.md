@@ -1,6 +1,7 @@
 ---
 title: Méthode technique - RGAA
 permalink: "/publications/rgaa-accessibilite/methode-rgaa/"
+published: false
 menu:
   title: Méthode technique
   weight: 30
