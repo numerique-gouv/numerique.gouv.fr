@@ -1,6 +1,7 @@
 ---
 title: Licence - RGAA
 permalink: "/publications/rgaa-accessibilite/methode-rgaa/licence/"
+published: false
 menu:
   title: Licence
   weight: 36
