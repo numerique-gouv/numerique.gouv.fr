@@ -1,6 +1,7 @@
 ---
 title: Documentation - RGAA
 permalink: "/publications/rgaa-accessibilite/documentation-rgaa/"
+published: false
 menu:
   title: Documentation RGAA
   weight: 50

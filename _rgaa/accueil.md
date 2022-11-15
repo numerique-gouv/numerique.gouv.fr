@@ -1,6 +1,7 @@
 ---
 title: Accueil - RGAA
-permalink: "/publications/rgaa-accessibilite-numerique/"
+permalink: "/publications/rgaa-accessibilite-old/"
+published: false
 menu:
   title: Accueil
   weight: 10
