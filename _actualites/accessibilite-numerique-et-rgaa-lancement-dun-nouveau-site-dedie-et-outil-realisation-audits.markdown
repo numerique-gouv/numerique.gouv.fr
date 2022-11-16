@@ -35,7 +35,10 @@ Objectifs : apporter plus de clarté pour les utilisateurs, faciliter la compré
 En un point unique, ce nouveau site centralise **toutes les informations et ressources utiles** tant aux administrations, soumises à l’obligation légale d’accessibilité numérique – responsables de produits et services en ligne, développeurs, designers… – qu’aux professionnels de l’accessibilité, auditeurs notamment.
 
 ## Le nouveau site de référence pour le RGAA, mais pas seulement
-
+<!--<figure class="image-center" style="width: 80%;"> 
+<img src="/uploads/Ara-accueil.png" alt="Capture d'écran de la page d'accueil de ara.numerique.gouv.fr" style="border:2px solid #f6f6f6">
+</figure>
+-->
 [Accessibilite.numerique.gouv.fr](https://accessibilite.numerique.gouv.fr/ "accessibilite.numerique.gouv.fr - Lien externe") héberge ainsi désormais **la version officielle du référentiel général d’accessibilité des administrations (RGAA)**, qui permet de vérifier le niveau d’accessibilité d’un site et de ses contenus, selon les normes internationales connues sous l’appellation [WCAG](https://www.w3.org/TR/WCAG21/ "WCAG - lien externe").
 
 Outre la **méthode technique** (liste des critères et des tests par thématiques, glossaire…), il contient toutes les ressources utiles : documents de références, méthodologie de test, kit d’audit, modèle de déclaration d’accessibilité…
@@ -48,9 +51,10 @@ Accessibilite.numerique.gouv.fr avait été [lancé dès le début de l’été 
 
 <div align="center" style="margin-bottom: 30px"><a href="https://accessibilite.numerique.gouv.fr" class="button"><b>Découvrir accessibilite.numerique.gouv.fr</b></a></div>
 
-
 ## Un outil d’audit en ligne inédit
-
+<figure class="image-center" style="width: 80%;"> 
+<img src="/uploads/Ara-accueil.png" alt="Capture d'écran de la page d'accueil de ara.numerique.gouv.fr" style="border:2px solid #f6f6f6">
+</figure>
 Toujours pour renforcer l’accessibilité des services en ligne, l’État lance en parallèle [Ara, un outil inédit dédié aux audits d’accessibilité numérique](https://ara.numerique.gouv.fr/ "Ara, un outil inédit dédié aux audits d’accessibilité numérique - Lien externe").
 
 Réalisé par le pôle [Design des services numériques](https://design.numerique.gouv.fr "Design des services numériques - lien externe") de la direction interministérielle du numérique (DINUM), avec le soutien financier du FIPHFP, ce nouvel outil vise à simplifier d’un côté **la réalisation d’audits** d’accessibilité par les auditeurs professionnels, et de l’autre **la compréhension et l’interprétation** des rapports d’audit par les services audités.
@@ -74,4 +78,4 @@ Ces nouveautés majeures viennent renforcer l’action de l’État en matière 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Suivez l’amélioration de l’accessibilité des 250 démarches phares de l’État</h3><p>Depuis 2019, <a href="https://observatoire.numerique.gouv.fr/" title="l’Observatoire de la qualité des démarches en ligne - lien externe">l’Observatoire de la qualité des démarches en ligne</a>, piloté par la DINUM, rend compte chaque trimestre de l’avancée de la numérisation des 250 démarches administratives de l’État les plus utilisées par les Français et de l’amélioration de leur qualité. L’un des critères permet de mesurer leur niveau d’accessibilité et d’en suivre les progrès.
 <br>Les administrations en charge de ces démarches bénéficient de <a href="https://design.numerique.gouv.fr/accompagnement/" title="l’appui de la DINUM - lien externe">l’appui de la DINUM</a> et de cofinancements des fonds du plan France Relance.
 <br>Ainsi, par exemple, depuis cet été, les démarches pour s'inscrire ou se réinscrire comme demandeur d'emploi auprès de Pôle emploi ou renouveler mensuellement sa situation de demandeur d’emploi ont été rendues plus accessibles aux personnes en situation de handicap.</p>
-<p><a href="https://observatoire.numerique.gouv.fr/" title="Consulter la dernière édition de l’Observatoire - Lien externe">> Consulter la dernière édition de l’Observatoire</a></p></div>
+<p style="margin-top: 10px"><a href="https://observatoire.numerique.gouv.fr/" title="Consulter la dernière édition de l’Observatoire - Lien externe">> Consulter la dernière édition de l’Observatoire</a></p></div>

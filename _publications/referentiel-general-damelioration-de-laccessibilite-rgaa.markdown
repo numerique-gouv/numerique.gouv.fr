@@ -10,7 +10,7 @@ tags:
 chapeau-text: "<p>L'accessibilité numérique consiste à rendre les services en ligne
   accessibles aux personnes en situation de handicap. La direction interministérielle
   du numérique (DINUM) édite le référentiel général d’amélioration de l’accessibilité
-  (RGAA) et fournit tout un ensemble de ressources et d'outils utiles.</p>"
+  (RGAA) et fournit tout un ensemble de ressources et d'outils.</p>"
 style: |-
   .button {
   background-color: #0d5c98;
