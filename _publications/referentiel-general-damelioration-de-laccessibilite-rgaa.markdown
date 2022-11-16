@@ -2,11 +2,10 @@
 title: Référentiel général d’amélioration de l’accessibilité (RGAA)
 date: 2022-11-15 19:55:00 +01:00
 permalink: "/publications/rgaa-accessibilite-numerique/"
-chapeau-text: |-
-  <p>L'accessibilité numérique consiste à rendre les services en ligne accessibles aux personnes en situation de handicap. La direction interministérielle du numérique (DINUM) édite le référentiel général d’amélioration de l’accessibilité (RGAA) et fournit tout un ensemble de ressources et d'outils utiles.</p>
-  <div class="exergue">Désormais, l'accessibilité numérique et le RGAA bénéficient d'un site entièrement dédié, plus simple, plus clair, plus complet.
-  <div style="margin-bottom: 10px; margin-top: 20px" align="center"><a href="https://accessibilite.numerique.gouv.fr" class="button" alt="Accéder à accessibilite.numerique.gouv.fr - Lien externe"><b>Accéder à accessibilite.numerique.gouv.fr</b></a> </div>
-  </div>
+chapeau-text: "<p>L'accessibilité numérique consiste à rendre les services en ligne
+  accessibles aux personnes en situation de handicap. La direction interministérielle
+  du numérique (DINUM) édite le référentiel général d’amélioration de l’accessibilité
+  (RGAA) et fournit tout un ensemble de ressources et d'outils utiles.</p>"
 style: |-
   .button {
   background-color: #0d5c98;
@@ -20,6 +19,9 @@ style: |-
   margin: 4px 2px;
   cursor: pointer;
   }
-layout: rgaa
+layout: page-sans-visuel
 ---
 
+<div class="exergue">Désormais, l'accessibilité numérique et le RGAA bénéficient d'un site entièrement dédié, plus simple, plus clair, plus complet.
+<div style="margin-bottom: 10px; margin-top: 20px" align="center"><a href="https://accessibilite.numerique.gouv.fr" class="button" alt="Accéder à accessibilite.numerique.gouv.fr - Lien externe"><b>Accéder à accessibilite.numerique.gouv.fr</b></a> </div>
+</div>
