@@ -2,7 +2,7 @@
 title: 'Accessibilité aux personnes en situation de handicap, appui téléphonique ou
   en guichet facilement identifiables, prise en compte des avis des usagers : des
   avancées notables pour rendre les démarches en ligne plus simples et accessibles.'
-date: 2022-11-15 14:21:00 +01:00
+date: 2022-11-16 15:42:00 +01:00
 categories:
 - Communiqué de presse
 tags:
