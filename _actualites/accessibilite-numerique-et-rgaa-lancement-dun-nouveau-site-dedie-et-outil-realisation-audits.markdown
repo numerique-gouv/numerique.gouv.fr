@@ -1,7 +1,7 @@
 ---
 title: 'Accessibilité numérique et RGAA : lancement d’un nouveau site dédié et d’un
   outil de réalisation d’audits'
-date: 2022-11-15 20:20:00 +01:00
+date: 2022-11-16 08:20:00 +01:00
 categories:
 - Article
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Référentiel général d’amélioration de l’accessibilité (RGAA)
-date: 2022-11-16 19:55:00 +01:00
+date: 2022-11-16 07:55:00 +01:00
 permalink: "/publications/rgaa-accessibilite-numerique/"
 tags:
 - Accessibilité
