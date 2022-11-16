@@ -36,7 +36,7 @@ En un point unique, ce nouveau site centralise **toutes les informations et ress
 
 ## Le nouveau site de référence pour le RGAA, mais pas seulement
 <figure class="image-center" style="width: 80%;"> 
-<img src="/uploads/accessibilite-numerique-gouv_accueil.png" alt="Capture d'écran de la page d'accueil de accessibilite.numerique.gouv.fr" style="border:2px solid #f6f6f6">
+<img src="/uploads/accessibilite-numerique-gouv_accueil.png" alt="Capture d'écran de la page d'accueil de accessibilite.numerique.gouv.fr" style="border:1px solid #d3d3d3">
 </figure>
 
 [Accessibilite.numerique.gouv.fr](https://accessibilite.numerique.gouv.fr/ "accessibilite.numerique.gouv.fr - Lien externe") héberge ainsi désormais **la version officielle du référentiel général d’accessibilité des administrations (RGAA)**, qui permet de vérifier le niveau d’accessibilité d’un site et de ses contenus, selon les normes internationales connues sous l’appellation [WCAG](https://www.w3.org/TR/WCAG21/ "WCAG - lien externe").
@@ -53,7 +53,7 @@ Accessibilite.numerique.gouv.fr avait été [lancé dès le début de l’été 
 
 ## Un outil d’audit en ligne inédit
 <figure class="image-center" style="width: 80%;"> 
-<img src="/uploads/Ara-accueil.png" alt="Capture d'écran de la page d'accueil de ara.numerique.gouv.fr" style="border:2px solid #f6f6f6">
+<img src="/uploads/Ara-accueil.png" alt="Capture d'écran de la page d'accueil de ara.numerique.gouv.fr" style="border:1px solid #d3d3d3">
 </figure>
 Toujours pour renforcer l’accessibilité des services en ligne, l’État lance en parallèle [Ara, un outil inédit dédié aux audits d’accessibilité numérique](https://ara.numerique.gouv.fr/ "Ara, un outil inédit dédié aux audits d’accessibilité numérique - Lien externe").
 
