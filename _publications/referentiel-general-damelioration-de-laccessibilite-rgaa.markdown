@@ -2,6 +2,11 @@
 title: Référentiel général d’amélioration de l’accessibilité (RGAA)
 date: 2022-11-15 19:55:00 +01:00
 permalink: "/publications/rgaa-accessibilite-numerique/"
+tags:
+- Accessibilité
+- Accessibilité numérique
+- Design
+- DesignGouv
 chapeau-text: "<p>L'accessibilité numérique consiste à rendre les services en ligne
   accessibles aux personnes en situation de handicap. La direction interministérielle
   du numérique (DINUM) édite le référentiel général d’amélioration de l’accessibilité
