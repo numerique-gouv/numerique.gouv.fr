@@ -27,9 +27,9 @@ files:
   nom: Télécharger le communiqué de presse
 ---
 
-**Rendre accessibles en ligne les démarches administratives les plus utilisées est essentiel pour simplifier le quotidien des Français, en permettant à chacun de réaliser ses démarches administratives à tout moment, depuis l’endroit de son choix. Mais pour que le plus grand nombre puisse en profiter, y compris des personnes plus éloignées du numérique ou en situation de handicap par exemple, il est indispensable de s’assurer de la simplicité et de la qualité de ces services. 
+**Rendre accessibles en ligne les démarches administratives les plus utilisées est essentiel pour simplifier le quotidien des Français, en permettant à chacun de réaliser ses démarches administratives à tout moment, depuis l’endroit de son choix. Mais pour que le plus grand nombre puisse en profiter, y compris des personnes plus éloignées du numérique ou en situation de handicap par exemple, il est indispensable de s’assurer de la simplicité et de la qualité de ces services.** 
 
-Cet effort, qui correspond à un engagement fort du Gouvernement en faveur de l’accès aux services publics, a déjà permis d’obtenir des avancées importantes et se poursuivra résolument en 2023.**
+**Cet effort, qui correspond à un engagement fort du Gouvernement en faveur de l’accès aux services publics, a déjà permis d’obtenir des avancées importantes et se poursuivra résolument en 2023.** 
 
 Tous les Français, y compris ceux éloignés du numérique, doivent pouvoir réaliser une démarche en ligne et disposer d’une assistance facilement identifiable en cas de difficulté ou d’incompréhension. Désormais, près de 70% des démarches administratives en ligne disposent d’au moins deux moyens de contacter une aide humaine pour se faire accompagner, une avancée au cœur des préoccupations du Gouvernement. Concrètement, un support téléphonique a par exemple récemment été mis en place pour les entreprises candidates aux marchés publics de l’État en complément des canaux d’information en ligne existants (support en ligne et FAQ).
 
