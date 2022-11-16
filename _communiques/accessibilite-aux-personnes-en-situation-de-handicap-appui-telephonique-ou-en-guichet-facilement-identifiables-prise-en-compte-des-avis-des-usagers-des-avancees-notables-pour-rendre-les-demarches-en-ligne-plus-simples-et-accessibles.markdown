@@ -23,7 +23,7 @@ contact-presse:
   - 06 10 60 41 19
   email: floriane.beaudron@modernisation.gouv.fr
 files:
-- file: "/uploads/CP_DEMATERIALISATION_OBSERVATOIRE-8312d7.pdf"
+- file: "/uploads/CP_DEMATERIALISATION_OBSERVATOIRE-3870ae.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
