@@ -1,7 +1,7 @@
 ---
 title: Stanislas Guerini nomme Marine Boudeau Haute-fonctionnaire au handicap et à
   l’inclusion au ministère de la Transformation et de la Fonction publiques
-date: 2022-11-16 15:34:00 +01:00
+date: 2022-11-16 16:03:00 +01:00
 categories:
 - Communiqué de presse
 tags:
