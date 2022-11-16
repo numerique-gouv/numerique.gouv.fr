@@ -15,8 +15,8 @@ chapeau-text: 'Dans le cadre de la semaine européenne pour l’emploi des perso
   est un pilier de la feuille du ministère, dont les équipes sont pleinement mobilisées
   en vue de la Conférence Nationale du Handicap (CNH) prévue au printemps 2023. '
 une-ou-diaporama:
-- image: "/uploads/2022_11_16_800x430_site-outil-accessibilite_ARTICLE3-7787f9.jpg"
-  alternative-textuelle: Capture écran des sites concernés par l'annonce
+- image: "/uploads/2022_11_16_800x430_DESIGN.GOUV_VISUEL_ARTICLE3.jpg"
+  alternative-textuelle: Image du nouveau pour l'accessibilité numérique !
 contact-presse:
   name: Floriane Beaudron
   tel:
