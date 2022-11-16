@@ -1,6 +1,7 @@
 ---
 title: Kit d'audit - RGAA
 permalink: "/publications/rgaa-accessibilite/kit/"
+published: false
 menu:
   title: Kit d'audit
   weight: 40

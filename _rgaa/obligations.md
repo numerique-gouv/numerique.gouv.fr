@@ -1,6 +1,7 @@
 ---
 title: Obligations d’accessibilité numérique - RGAA
 permalink: "/publications/rgaa-accessibilite/obligations/"
+published: false
 menu:
   title: Obligations d'accessibilité
   weight: 20

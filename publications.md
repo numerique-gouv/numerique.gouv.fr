@@ -10,8 +10,8 @@ publications:
   url: "/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/"
   une-ou-diaporama:
   - image: "/uploads/Publication_TECHGOUV.jpg"
-- title: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4.1
-  url: "/publications/rgaa-accessibilite/"
+- title: Référentiel général d’amélioration de l’accessibilité (RGAA)
+  url: "/publications/rgaa-accessibilite-numerique/"
   une-ou-diaporama:
   - image: "/uploads/RGAA_Ouv-Publications.jpg"
 - title: Cadre de recommandations pour le partage de données par API  dans l’administration

@@ -1,7 +1,8 @@
 ---
 title: Référentiel général d’amélioration de l’accessibilité (RGAA) version 4
 date: 2019-09-16 15:23:00 +02:00
-permalink: "/publications/rgaa-accessibilite/"
+permalink: "/publications/rgaa-accessibilite-2019/"
+published: false
 categories:
 - référentiels
 tags:

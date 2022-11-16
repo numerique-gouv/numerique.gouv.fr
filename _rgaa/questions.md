@@ -1,6 +1,7 @@
 ---
 title: Questions - RGAA
 permalink: "/publications/rgaa-accessibilite/questions/"
+published: false
 menu:
   title: Questions
   weight: 60

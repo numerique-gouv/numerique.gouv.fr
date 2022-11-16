@@ -68,4 +68,3 @@ Dans son rôle de coordonnateur des systèmes d’information de l’État, la D
 <br>Ce cadre de recommandations en matière de partage de données par API en est la première réalisation collective concrète.
 <br><br>À travers d’autres groupes de travail, les AMDAC contribuent aussi au développement et à l’expérimentation d’un outil interministériel de catalogage de données et collaborent à la formalisation d’une doctrine relative aux espaces communs de données, permettant de mettre à disposition des données publiques potentiellement protégées par des secrets, dans un cadre intermédiaire entre ouverture et cloisonnement des données.
 </p>
-<p style="text-indent: 15px;"></p></div>
