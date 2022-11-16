@@ -13,7 +13,7 @@ chapeau-text: Faire advenir une société pleinement inclusive est une priorité
   de son administration un « Haut fonctionnaire au handicap et à l’inclusion » par
   la [circulaire du 6 octobre 2022](https://www.legifrance.gouv.fr/circulaire/id/45372?origin=list).
 une-ou-diaporama:
-- image: "/uploads/mb-2021-bureau.jpg"
+- image: "/uploads/2022_11_16_800x430_MARINE-BOUDEAU_VISUEL_PRESSE.jpg"
   alternative-textuelle: Photo de Marine Boudeau
 contact-presse:
   name: Floriane Beaudron
