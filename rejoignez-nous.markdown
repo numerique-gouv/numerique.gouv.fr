@@ -46,7 +46,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 {: .margin-bottom-1}
 
 * **[Ingénieur(e) réseau H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieure-reseau-hf-reference-2022-1040856/ "Ingénieur(e) réseau H/F - Lien externe")**
-<br>Cadre/Catégorie A
+<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
 <br>
 
 * **[Chargé de mission budget H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-budget-cdd-3-ans-hf-reference-2022-1043285/ "Chargé de mission budget H/F - Lien externe")**
@@ -54,7 +54,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 
 * **[Ingénieur(e) réseau sécurité H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieure-reseau-securite-cdd-3-ans-renouvelable-hf-reference-2022-1039720/ "Ingénieur(e) réseau sécurité H/F - Lien externe")**
-<br>Cadre/Catégorie A
+<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
 <br>
 
 * **[Conseiller(ère) auprès de la directrice interministérielle du numérique H/F](https://place-emploi-public.gouv.fr/offre-emploi/2022-1031526/ "Conseiller(ère) auprès de la directrice interministérielle du numérique H/F - Lien externe")**
