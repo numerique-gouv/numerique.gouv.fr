@@ -18,7 +18,7 @@ une-ou-diaporama:
 event_start_date: 2022-12-01 00:00:00 +01:00
 event_end_date: 2022-12-15 00:00:00 +01:00
 lieu: En ligne du 1er au 14 décembre, en présentiel le 15 décembre à Paris
-adresse: La grande Crypte 69 rue Boissière, 75016 PARIS
+adresse: La Grande Crypte 69 rue Boissière, 75016 PARIS
 champs_informations:
 - intitule: Forum virtuel du 1er au 14 décembre
   contenu: Inscriptions en ligne du 9/11 au 30/11
@@ -38,7 +38,7 @@ Vous êtes **un/e professionnel/le du numérique** et vous souhaitez apporter vo
 
 Vous êtes **jeune diplômé/e d’une école du numérique** et curieux des opportunités professionnelles offertes par l’État ?
 
-Vous êtes **un agent public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
+Vous êtes **un agent/e public - contractuel ou fonctionnaire - travaillant dans le domaine du numérique** et vous souhaitez faire évoluer votre carrière ?
 
 
 > {: .text-center}
@@ -61,7 +61,7 @@ Ce forum regroupera **plus de 20 services recruteurs**, issus de la fonction pub
 
 Un espace de **« speed-jobbing »** sera mis en place pour vos discussions avec les recruteurs. 
 
-Au cours de cette journée seront aussi proposés **des ateliers de développement professionnel**.
+Au cours de cette journée seront aussi proposés **des ateliers de développement professionnel (plan prévisionnel de carrière)**.
 
 <br>
 
