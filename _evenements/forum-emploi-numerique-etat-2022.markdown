@@ -65,4 +65,4 @@ Au cours de cette journée seront aussi proposés **des ateliers de développeme
 
 <br>
 
-*Ouverture des inscriptions au forum physique à Paris le 16 novembre 2022.* 
+<p align="center"><a href="https://forum-emploi.numerique.gouv.fr/#Inscription" class="button">S'inscrire au forum physique et aux ateliers </a></p>
