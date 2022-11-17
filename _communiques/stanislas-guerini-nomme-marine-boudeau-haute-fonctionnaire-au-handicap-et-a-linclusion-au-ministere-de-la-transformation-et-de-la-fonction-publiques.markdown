@@ -6,6 +6,8 @@ categories:
 - Communiqué de presse
 tags:
 - nomination
+- handicap
+- inclusion numérique
 chapeau-text: Faire advenir une société pleinement inclusive est une priorité du gouvernement.
   La mobilisation de l’ensemble des ministères autour de cet enjeu a été rappelée
   lors du [dernier Comité Interministériel du Handicap (CIH) du 6 octobre 2022](https://handicap.gouv.fr/comite-interministeriel-du-handicap-du-6-octobre-2022).
