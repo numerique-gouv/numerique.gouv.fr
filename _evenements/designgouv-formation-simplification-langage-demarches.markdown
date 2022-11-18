@@ -1,5 +1,5 @@
 ---
-title: 'DesignGouv : formation à la simplification de l''information aux usagers'
+title: 'DesignGouv : formation à la simplification du langage des démarches'
 date: 2022-11-18 12:45:00 +01:00
 published: false
 chapeau-text: 'Pourquoi et comment employer un langage simple et clair pour nos services
@@ -33,22 +33,26 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Pour qui ?</h3>
 
-**Agents** de la fonction publique ou **prestataires impliqués dans la conception des démarches administratives numériques.** 
+**Agents** de la fonction publique impliqués dans la conception des démarches administratives numériques. En particulier les designers, rédacteurs, experts de la démarche et chefs de projet.
 
 <h3 class="h2">Objectifs</h3>
 
-* Proposer une information adaptée aux usagers
-* Prendre en compte la façon dont l’information est traitée
-* Connaître les principes de simplification
-* Appliquer une méthodologie de simplification centrée usager
+* Questionner son intuition sur ce qu’on pense simple pour l’usager
+* Adopter les bons réflexes pour évaluer la complexité de sa démarche
+* S’approprier les principes de simplification et les appliquer à sa démarche
+* Repartir avec des pistes de simplification de sa démarche
+
+Programme :
 
 <h3 class="h2">Au programme</h3>
 
-* **Enjeux de simplification** de l'information
-* **Comment** le cerveau **traite** l'information
-* **Principes de conception** d'une information adaptée
-* **Méthodologie de simplification** centrée usager
-* **Conclusion**
+* Pourquoi faut-il simplifier quand tout vous parait simple ?
+* Testez votre connaissance des principes de simplification
+* Analysez votre démarche : repérez l’information manquante, les sources d’incertitude, les mots et formulations complexes, les éléments superflus…
+* Challengez votre démarche grâce au regard des autres
+* Appliquez les principes de simplification à votre démarche
+* Réfléchissez à la façon dont vous pourriez recueillir des avis des usagers
+* Repartez avec plein d’idées pour améliorer la compréhension de votre démarche
 
 <h3 class="h2">Formatrice</h3>
 
