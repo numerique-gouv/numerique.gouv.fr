@@ -17,3 +17,12 @@ une-ou-diaporama:
 event_start_date: 2022-12-06 09:00:00 +01:00
 ---
 
+Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
+
+Pour que les administrations se posent les bonnes questions aux bons moments, pour qu'elles prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bons interlocuteurs, le pôle [**Design des services numériques**](https://design.numerique.gouv.fr/ "Design des services numériques - Lien externe") de la direction interministérielle du numérique (DINUM) propose **six formations gratuites indispensables** : 
+* **[une formation à l'accessibilité numérique](https://www.numerique.gouv.fr/agenda/designgouv-formation-accessibilite-numerique-2022/)** le 8 décembre 2022
+* **[une formation aux tests usagers](https://www.numerique.gouv.fr/agenda/designgouv-formation-tests-usagers/)** le 13 décembre 2022
+* **[une formation à l'écoconception](https://www.numerique.gouv.fr/agenda/designgouv-formation-ecoconception-2022/)** le 14 décembre 2022
+* **[une formation à la mise en accessibilité des démarches en lignes](https://www.numerique.gouv.fr/agenda/designgouv-formation-accessibilite-demarches-2022/)** le 15 décembre 2022
+* **[une formation à l'évaluation de l'accessibilité d'un site](https://www.numerique.gouv.fr/agenda/designgouv-formation-evaluation-accessibilite/)** le 10 janvier 2023
+* **une formation à la simplification de l'information aux usagers** le 6 décembre 2022 (ci-dessous)
