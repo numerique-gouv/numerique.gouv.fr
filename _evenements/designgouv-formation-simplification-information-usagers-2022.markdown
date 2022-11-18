@@ -1,6 +1,7 @@
 ---
 title: 'DesignGouv : formation à la simplification de l''information aux usagers'
 date: 2022-11-18 12:45:00 +01:00
+published: false
 chapeau-text: 'Pourquoi et comment employer un langage simple et clair pour nos services
   publics, en explorant les subtilités du fonctionnement de notre cerveau  : le pôle
   Design des services numériques de la direction interministérielle du numérique (DINUM)
