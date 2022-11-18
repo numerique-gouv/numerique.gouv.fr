@@ -11,8 +11,8 @@ tags:
 chapeau-text: 'Pourquoi et comment employer un langage simple et clair pour nos services
   publics, en explorant les subtilités du fonctionnement de notre cerveau  : le pôle
   Design des services numériques de la direction interministérielle du numérique (DINUM)
-  propose une nouvelle formation gratuite à la simplification de l’information aux
-  usagers, le mardi 6 décembre, de 9h à 12h30.'
+  propose une nouvelle formation gratuite à la simplification du langage des démarches,
+  le mardi 6 décembre, de 9h à 12h30.'
 une-ou-diaporama:
 - image: "/uploads/1_formation_simplifier%20le%20langage.png"
   alternative-textuelle: |-
@@ -37,7 +37,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **une formation à la simplification de l'information aux usagers** le 6 décembre 2022 (ci-dessous)
 
 <h2 class="text-center">Formation à la simplification de l'information aux usagers</h2>
-<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 6 décembre de 9h à 12h30, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv&nbsp;!</p> </div>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 6 décembre de 9h à 12h30, venez participer à une matinée d’échanges avec DesignGouv pour apprendre à produire des textes et des contenus plus adaptés aux usagers et faciliter leur compréhension des démarches.</p> </div>
 
 <h3 class="h2">Pour qui ?</h3>
 
@@ -49,8 +49,6 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * Adopter les bons réflexes pour évaluer la complexité de sa démarche
 * S’approprier les principes de simplification et les appliquer à sa démarche
 * Repartir avec des pistes de simplification de sa démarche
-
-Programme :
 
 <h3 class="h2">Au programme</h3>
 
@@ -79,6 +77,6 @@ Programme :
 
 <h3 class="h2">Pour participer</h3>
 
-Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/simplification-information/). Places limitées : chaque session est limitée à 16 participants. Si votre inscription est acceptée, vous vous engagez à participer.
+Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/design/atelier-simplification/). Places limitées : chaque session est limitée à 16 participants. Si votre inscription est acceptée, vous vous engagez à participer.
 
 <div class="encadre noir"> <h3>5 autres formations à ne pas manquer</h3> <p>N’oubliez pas, cinq autres formations vous sont proposées gratuitement : <a href="https://design.numerique.gouv.fr/formations/accessibilite/">accessibilité</a>, <a href="https://design.numerique.gouv.fr/formations/design/">design</a>, <a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/">recherche utilisateur</a> et <a href="https://design.numerique.gouv.fr/formations/ecoconception/">écoconception</a>.</p> </div>
