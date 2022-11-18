@@ -2,6 +2,12 @@
 title: 'DesignGouv : formation à la simplification du langage des démarches'
 date: 2022-11-18 12:45:00 +01:00
 published: false
+tags:
+- Formation
+- Simplification
+- Information
+- Usagers
+- Tech
 chapeau-text: 'Pourquoi et comment employer un langage simple et clair pour nos services
   publics, en explorant les subtilités du fonctionnement de notre cerveau  : le pôle
   Design des services numériques de la direction interministérielle du numérique (DINUM)
