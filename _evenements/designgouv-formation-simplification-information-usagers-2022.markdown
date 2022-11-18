@@ -27,3 +27,35 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **[une formation à la mise en accessibilité des démarches en lignes](https://www.numerique.gouv.fr/agenda/designgouv-formation-accessibilite-demarches-2022/)** le 15 décembre 2022
 * **[une formation à l'évaluation de l'accessibilité d'un site](https://www.numerique.gouv.fr/agenda/designgouv-formation-evaluation-accessibilite/)** le 10 janvier 2023
 * **une formation à la simplification de l'information aux usagers** le 6 décembre 2022 (ci-dessous)
+
+<h2 class="text-center">Formation à la simplification de l'information aux usagers</h2>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 6 décembre de 9h à 12h30, venez participer à une matinée d’échanges en visio sur la chaîne YouTube de DesignGouv&nbsp;!</p> </div>
+
+<h3 class="h2">Pour qui ?</h3>
+
+**Agents** de la fonction publique ou **prestataires impliqués dans la conception des démarches administratives numériques.** 
+
+<h3 class="h2">Objectifs</h3>
+
+* Proposer une information adaptée aux usagers
+* Prendre en compte la façon dont l’information est traitée
+* Connaître les principes de simplification
+* Appliquer une méthodologie de simplification centrée usager
+
+<h3 class="h2">Au programme</h3>
+
+* **Enjeux de simplification** de l'information
+* **Comment** le cerveau **traite** l'information
+* **Principes de conception** d'une information adaptée
+* **Méthodologie de simplification** centrée usager
+* **Conclusion**
+
+<h3 class="h2">Formatrice</h3>
+
+**Camille Rozier**, cheffe de projet simplification et sciences comportementales à la Direction interministérielle de la transformation publique (DITP). 
+
+<h3 class="h2">Pour participer</h3>
+
+Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/simplification-information/). Places limitées : chaque session est limitée à 16 participants. Si votre inscription est acceptée, vous vous engagez à participer.
+
+<div class="encadre noir"> <h3>5 autres formations à ne pas manquer</h3> <p>N’oubliez pas, cinq autres formations vous sont proposées gratuitement : <a href="https://design.numerique.gouv.fr/formations/accessibilite/">accessibilité</a>, <a href="https://design.numerique.gouv.fr/formations/design/">design</a>, <a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/">recherche utilisateur</a> et <a href="https://design.numerique.gouv.fr/formations/ecoconception/">écoconception</a>.</p> </div>
