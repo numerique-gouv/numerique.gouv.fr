@@ -54,6 +54,13 @@ Programme :
 * Réfléchissez à la façon dont vous pourriez recueillir des avis des usagers
 * Repartez avec plein d’idées pour améliorer la compréhension de votre démarche
 
+<h3 class="h2">Prérequis</h3>
+
+* Avoir suivi ou visionné la formation simplification de l’information aux usagers
+* Avoir visionné les vidéos des principes de simplification
+* Apporter une ou plusieurs pages web d’une démarche sur laquelle travailler
+* Apporter un ordinateur
+
 <h3 class="h2">Formatrice</h3>
 
 **Camille Rozier**, cheffe de projet simplification et sciences comportementales à la Direction interministérielle de la transformation publique (DITP). 
