@@ -16,6 +16,8 @@ une-ou-diaporama:
     Design des services numériques
     - Contenu officiel de l'Etat français
 event_start_date: 2022-12-06 09:00:00 +01:00
+lieu: Lieu de la transformation publique
+adresse: 77 avenue de Ségur, Paris 15
 ---
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
