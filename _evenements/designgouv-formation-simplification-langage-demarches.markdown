@@ -61,9 +61,13 @@ Programme :
 * Apporter une ou plusieurs pages web d’une démarche sur laquelle travailler
 * Apporter un ordinateur
 
-<h3 class="h2">Formatrice</h3>
+<h3 class="h2">Equipe de formation</h3>
 
-**Camille Rozier**, cheffe de projet simplification et sciences comportementales à la Direction interministérielle de la transformation publique (DITP). 
+**Élise Potier**, cheffe de projets simplification et sciences comportementales à la Direction interministérielle de la transformation publique (DITP).
+
+**Camille Ménart**, cheffe de projet Simplification et Sciences Comportementales à la direction interministérielle de la transformation publique (DITP).
+
+**Camille Rozier**, cheffe de projets simplification et sciences comportementales à la Direction interministérielle de la transformation publique (DITP).
 
 <h3 class="h2">Pour participer</h3>
 
