@@ -22,6 +22,8 @@ event_start_date: 2010-01-01 00:00:00 +01:00
 champs_informations:
 - intitule: Date
   contenu: Mardi 10 janvier 2023
+- intitule: Modalités
+  contenu: Inscriptions à venir
 ---
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
@@ -66,8 +68,6 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 **Yaacov Cohen**, expert accessibilité au sein de DesignGouv
 
-<h3 class="h2">Pour participer</h3>
-
-Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/accessibilite/atelier-demystifier-accessibilite/). Places limitées : chaque session est limitée à 20 participants. Si votre inscription est acceptée, vous vous engagez à participer.
+<h3 class="h2">Inscriptions à venir</h3>
 
 <div class="encadre noir"> <h3>D'autres formations à ne pas manquer</h3> <p>N’oubliez pas qu’en plus de la formation démystification, d'autres formations vous sont proposées gratuitement : <a href="https://design.numerique.gouv.fr/formations/accessibilite/">accessibilité</a>, <a href="https://design.numerique.gouv.fr/formations/design/">design</a>, <a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/">recherche utilisateur</a> et <a href="https://design.numerique.gouv.fr/formations/ecoconception/">écoconception</a>.</p> </div>
