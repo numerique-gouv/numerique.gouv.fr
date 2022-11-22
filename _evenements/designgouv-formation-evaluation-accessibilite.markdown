@@ -18,7 +18,7 @@ une-ou-diaporama:
     10 janvier 2023
     Design des services numériques
     - Contenu officiel de l'Etat français
-event_start_date: 2010-01-01 00:00:00 +01:00
+event_start_date: 2022-01-10 00:00:00 +01:00
 champs_informations:
 - intitule: Date
   contenu: Mardi 10 janvier 2023
