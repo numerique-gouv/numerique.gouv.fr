@@ -47,7 +47,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Pour qui ?</h3>
 
-**Agents** de la fonction publique dans la conception d’un service en ligne de l'État, en particulier les designers et chefs de projet.
+**Agents** de la fonction publique impliqués dans la conception d’un service en ligne de l'État, en particulier les designers et chefs de projet.
 
 <h3 class="h2">Prérequis</h3>
 
