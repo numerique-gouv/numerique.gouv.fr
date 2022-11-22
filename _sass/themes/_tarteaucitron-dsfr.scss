@@ -1139,12 +1139,20 @@ ul[style="display: block;"] .tarteaucitronLine{
   z-index: var(--focus-z-index);
 }
 
-div#tarteaucitronRoot.tarteaucitronBeforeVisible:before,
-div#tarteaucitronAlertBig {
-  display:none !important;
-}
+//div#tarteaucitronRoot.tarteaucitronBeforeVisible:before,
+//div#tarteaucitronAlertBig {
+//  display:none !important;
+//}
 
 #tarteaucitronRoot {
   position: absolute !important;
   bottom: 0 !important;
 }
+
+.tarteaucitronBeforeVisible #tarteaucitronAlertBig {
+  display: flex !important;
+}
+//
+//.tarteaucitronBeforeVisible #tarteaucitronAlertBig {
+//  display:none!important;
+//}
