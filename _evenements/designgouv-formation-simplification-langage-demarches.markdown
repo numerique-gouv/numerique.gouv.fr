@@ -72,8 +72,8 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Prérequis</h3>
 
-* Avoir suivi ou visionné la formation simplification de l’information aux usagers
-* Avoir visionné les vidéos des principes de simplification
+* Avoir suivi ou visionné [la formation simplification de l’information aux usagers](https://www.youtube.com/watch?v=7scX1FO_FQM)
+* Avoir visionné [les vidéos des principes de simplification](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs)
 * Apporter une ou plusieurs pages web d’une démarche sur laquelle travailler
 * Apporter un ordinateur
 
