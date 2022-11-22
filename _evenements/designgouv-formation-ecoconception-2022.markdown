@@ -63,7 +63,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Au programme</h3>
 
-* Les travaux de la MiNumEco
+* Les travaux de la [MiNumEco](https://ecoresponsable.numerique.gouv.fr/)
 * Les impacts environnementaux d’un service numérique
 * L’écoconception de service numérique
 * Anatomie du Référentiel d’écoconception de service numérique (RGESN)
