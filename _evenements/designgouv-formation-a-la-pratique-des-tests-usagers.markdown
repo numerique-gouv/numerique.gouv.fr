@@ -1,7 +1,6 @@
 ---
 title: 'DesignGouv : formation à la pratique des tests usagers'
 date: 2022-11-22 14:46:00 +01:00
-published: false
 tags:
 - Formation
 - Numérique
@@ -45,3 +44,43 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h2 class="text-center">Formation aux tests usagers</h2>
 <div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 13 décembre de 9h à 17h30, venez participer à une matinée d’échanges avec DesignGouv pour préparer et animer des tests avec des usagers puis analyser les résultats.</p> </div>
+
+<h3 class="h2">Pour qui ?</h3>
+
+**Agents** de la fonction publique dans la conception d’un service en ligne de l'État, en particulier les designers et chefs de projet.
+
+<h3 class="h2">Prérequis</h3>
+
+* Avoir suivi ou visionné [la formation Introduction à la recherche utilisateur](https://design.numerique.gouv.fr/formations/recherche-utilisateur/introduction-recherche-utilisateur/)
+* Un ordinateur portable avec une connexion wifi pour les ateliers pratiques
+
+<h3 class="h2">Objectifs</h3>
+
+* Découvrir les bénéfices du test usager
+* Acquérir les bonnes pratiques pour préparer, réaliser et analyser les tests
+* Connaître les bonnes postures à adopter pendant un test
+* Mettre en œuvre ces enseignements au cours d’ateliers pratiques
+
+<h3 class="h2">Au programme</h3>
+
+* Qu'est-ce qu’un test usager ? Objectifs, principes, et méthodes
+*Présentation du cas sur lequel nous allons travailler ensemble*
+* Préparer un test usager
+*Atelier : rédiger un protocole de test*
+* Conduire un test usager
+*Atelier : conduire un test usager*
+* Analyser et restituer un test usager
+*Atelier : analyser des tests*
+* Intégrer les résultats de test dans les processus de conception
+
+<h3 class="h2">Equipe de formation</h3>
+
+**Kheira Belkacem**, experte recherche utilisateur au sein de DesignGouv
+
+**Marine Dias**, experte recherche utilisateur au sein de DesignGouv
+
+<h3 class="h2">Pour participer</h3>
+
+Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/accessibilite/atelier-accessibilite-designer/). Places limitées : chaque session est limitée à 16 participants. Si votre inscription est acceptée, vous vous engagez à participer.
+
+<div class="encadre noir"> <h3>D'autres formations à ne pas manquer</h3> <p>N’oubliez pas qu’en plus de la formation aux tests usagers, d'autres vous sont proposées gratuitement : <a href="https://design.numerique.gouv.fr/formations/accessibilite/">accessibilité</a> <a href="https://design.numerique.gouv.fr/formations/design/">design</a>, <a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/">recherche utilisateur</a> et <a href="https://design.numerique.gouv.fr/formations/ecoconception/">écoconception</a>.</p> </div>
