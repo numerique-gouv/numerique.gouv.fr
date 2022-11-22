@@ -63,16 +63,16 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Au programme</h3>
 
-* Qu'est-ce qu’un test usager ? Objectifs, principes, et méthodes
-<br>*Présentation du cas sur lequel nous allons travailler ensemble*
-* Préparer un test usager
-<br>*Atelier : rédiger un protocole de test*
-* Conduire un test usager
-<br>*Atelier : conduire un test usager*
-* Analyser et restituer un test usager
-<br>*Atelier : analyser des tests*
-* Intégrer les résultats de test dans les processus de conception
+* Les travaux de la MiNumEco
+* Les impacts environnementaux d’un service numérique
+* L’écoconception de service numérique
+* Anatomie du Référentiel d’écoconception de service numérique (RGESN)
+* Auditer un service numérique grâce au RGESN
+* Mettre en œuvre le RGESN selon les métiers ou le contexte
+* Comment évaluer les impacts et mesurer les améliorations
+* Construire votre manifeste d'écoconception de service numérique
+* Découvrir les synergies possibles avec l’accessibilité numérique, la cybersécurité, la protection des données personnelles et le logiciel libre
 
 <h3 class="h2">Formateur</h3>
 
-**Kheira Belkacem**, experte recherche utilisateur au 
+**Richard Hanna**, expert numérique écoresponsable à la Direction interministérielle du numérique (DINUM) 
