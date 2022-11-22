@@ -1,6 +1,8 @@
 ---
 title: 'DesignGouv : formation à la pratique des tests usagers'
 date: 2022-11-22 14:46:00 +01:00
+categories:
+- Formation
 tags:
 - Formation
 - Numérique
@@ -11,7 +13,7 @@ chapeau-text: Comment préparer des tests usagers, adopter les bonnes postures e
   usagers, le mardi 13 décembre, de 9h à 17h30.
 une-ou-diaporama:
 - image: "/uploads/3_formation_tests%20usagers%20dans%20la%20pratique.png"
-  legende: |-
+  alternative-textuelle: |-
     Formation :
     Les tests usagers dans la pratique
     13 décembre 2022
@@ -64,13 +66,13 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 <h3 class="h2">Au programme</h3>
 
 * Qu'est-ce qu’un test usager ? Objectifs, principes, et méthodes
-*Présentation du cas sur lequel nous allons travailler ensemble*
+<br>*Présentation du cas sur lequel nous allons travailler ensemble*
 * Préparer un test usager
-*Atelier : rédiger un protocole de test*
+<br>*Atelier : rédiger un protocole de test*
 * Conduire un test usager
-*Atelier : conduire un test usager*
+<br>*Atelier : conduire un test usager*
 * Analyser et restituer un test usager
-*Atelier : analyser des tests*
+<br>*Atelier : analyser des tests*
 * Intégrer les résultats de test dans les processus de conception
 
 <h3 class="h2">Equipe de formation</h3>
