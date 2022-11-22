@@ -32,7 +32,7 @@ champs_informations:
   contenu: 10h30 - 16h30
 - intitule: Modalités
   contenu: Inscription obligatoire
-  lien: https://design.numerique.gouv.fr/formations/accessibilite/atelier-accessibilite-designer/?mtm_campaign=formations6ateliers&mtm_source=ArticleDesigngouv
+  lien: https://design.numerique.gouv.fr/formations/accessibilite/atelier-accessibilite-designer/
 ---
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
