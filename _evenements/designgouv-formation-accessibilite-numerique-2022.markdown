@@ -16,7 +16,7 @@ chapeau-text: 'Pourquoi et comment bien prendre en compte les personnes en situa
   à 16h30.'
 une-ou-diaporama:
 - image: "/uploads/2_formation_concevoir%20accessibile.png"
-  legende: |-
+  alternative-textuelle: |-
     Formation :
     Concevoir des services numériques accessibles
     8 décembre 2022
