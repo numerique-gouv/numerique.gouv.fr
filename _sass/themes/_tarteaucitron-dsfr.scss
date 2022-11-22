@@ -1149,8 +1149,8 @@ ul[style="display: block;"] .tarteaucitronLine{
   bottom: 0 !important;
 }
 
-#tarteaucitronRoot #tarteaucitronAlertBig {
-  display: flex;
+.tarteaucitronBeforeVisible #tarteaucitronAlertBig {
+  display: flex !important;
 }
 //
 //.tarteaucitronBeforeVisible #tarteaucitronAlertBig {
