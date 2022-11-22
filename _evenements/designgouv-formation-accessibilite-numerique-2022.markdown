@@ -45,3 +45,38 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **[une formation à l'évaluation de l'accessibilité d'un site](https://www.numerique.gouv.fr/agenda/designgouv-formation-evaluation-accessibilite/)** le 10 janvier 2023
 * **une formation à l'accessibilité numérique** le 8 décembre 2022 (ci-dessous)
 
+<h2 class="text-center">Formation à l'accessibilité numérique</h2>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le jeudi 8 décembre de 10h30 à 16h30, venez participer à une matinée d’échanges avec DesignGouv pour apprendre à prendre en compte l’accessibilité dans toutes les étapes de design d’un service numérique.</p> </div>
+
+<h3 class="h2">Pour qui ?</h3>
+
+**Agents** de la fonction publique impliqués dans la conception de services publics numériques. En particulier les designers et cheffes de projet.
+
+<h3 class="h2">Prérequis</h3>
+
+* avoir suivi ou visionné la formation [Introduction à l'accessibilité numérique](https://design.numerique.gouv.fr/formations/accessibilite/introduction-accessibilite-numerique/)
+
+<h3 class="h2">Objectifs</h3>
+
+* Comprendre les rôles des designers et chefs de projet dans la conception de service numérique accessible
+* Concevoir ou améliorer un service en prenant en compte l’accessibilité
+* Prioriser les actions les plus impactantes
+
+<h3 class="h2">Au programme</h3>
+
+* Mise en situation de handicap
+* Découvrir et comprendre les critères du RGAA ([le référentiel général d’amélioration de l’accessibilité](https://www.numerique.gouv.fr/publications/rgaa-accessibilite/)) à prendre en compte lors de la conception
+* Atelier : concevoir un service en prenant en compte l’accessibilité
+* Les outils et ressources à emporter
+
+<h3 class="h2">Equipe de formation</h3>
+
+**Ugo Dessertine**, lead designer au sein de DesignGouv.
+
+**Benoît Dequick**, expert accessibilité au sein de DesignGouv.
+
+<h3 class="h2">Pour participer</h3>
+
+Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/accessibilite/atelier-accessibilite-designer/). Places limitées : chaque session est limitée à 16 participants. Si votre inscription est acceptée, vous vous engagez à participer.
+
+<div class="encadre noir"> <h3>3 autres formations à ne pas manquer</h3> <p>N’oubliez pas qu’en plus de la formation accessibilité, trois autres vous sont proposées gratuitement : <a href="https://design.numerique.gouv.fr/formations/design/">design</a>, <a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/">recherche utilisateur</a> et <a href="https://design.numerique.gouv.fr/formations/ecoconception/">écoconception</a>.</p> </div>
