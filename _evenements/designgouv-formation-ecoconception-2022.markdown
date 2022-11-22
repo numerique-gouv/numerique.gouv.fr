@@ -33,3 +33,46 @@ champs_informations:
   lien: https://design.numerique.gouv.fr/formations/ecoconception/atelier-ecoconception/
 ---
 
+Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
+
+Pour que les administrations se posent les bonnes questions aux bons moments, pour qu'elles prennent les bonnes décisions avec les bonnes méthodes et les bons outils, pour qu'elles travaillent avec les bons interlocuteurs, le pôle [**Design des services numériques**](https://design.numerique.gouv.fr/ "Design des services numériques - Lien externe") de la direction interministérielle du numérique (DINUM) propose **six formations gratuites indispensables** : 
+* **[une formation à la simplification de l'information aux usagers](https://www.numerique.gouv.fr/agenda/designgouv-formation-simplification-langage-demarches/)** le 6 décembre 2022
+* **[une formation à l'accessibilité numérique](https://www.numerique.gouv.fr/agenda/designgouv-formation-accessibilite-numerique-2022/)** le 8 décembre 2022
+* **[une formation aux tests usagers](https://www.numerique.gouv.fr/agenda/designgouv-formation-a-la-pratique-des-tests-usagers/)** le 13 décembre 2022
+* **[une formation à la mise en accessibilité des démarches en lignes](https://www.numerique.gouv.fr/agenda/designgouv-formation-accessibilite-demarches-2022/)** le 15 décembre 2022
+* **[une formation à l'évaluation de l'accessibilité d'un site](https://www.numerique.gouv.fr/agenda/designgouv-formation-evaluation-accessibilite/)** le 10 janvier 2023
+* **une formation à l'écoconception** le 14 décembre 2022 (ci-dessous)
+
+<h2 class="text-center">Formation à l'écoconception</h2>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mercredi 14 décembre de 14h à 18h, venez participer à une matinée d’échanges avec DesignGouv pour mettre en œuvre une démarche d’écoconception et prendre en main le [référentiel général d’écoconception de service numérique](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) (RGESN).</p> </div>
+
+<h3 class="h2">Pour qui ?</h3>
+
+**Agents** de la fonction publique impliqués dans la conception de services publics numériques.
+
+<h3 class="h2">Prérequis</h3>
+
+* Avoir suivi ou visionné la [formation Introduction à l'écoconception](https://design.numerique.gouv.fr/formations/ecoconception/introduction-ecoconception/)
+
+<h3 class="h2">Objectifs</h3>
+
+* Comprendre quels sont les impacts environnementaux d’un service numérique et comment les réduire ou les limiter
+* Mettre en œuvre le [référentiel général d’écoconception de service](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) (RGESN)
+* Evaluer les améliorations
+* Créer un manifeste d’écoconception adapté à votre contexte projet
+
+<h3 class="h2">Au programme</h3>
+
+* Qu'est-ce qu’un test usager ? Objectifs, principes, et méthodes
+<br>*Présentation du cas sur lequel nous allons travailler ensemble*
+* Préparer un test usager
+<br>*Atelier : rédiger un protocole de test*
+* Conduire un test usager
+<br>*Atelier : conduire un test usager*
+* Analyser et restituer un test usager
+<br>*Atelier : analyser des tests*
+* Intégrer les résultats de test dans les processus de conception
+
+<h3 class="h2">Formateur</h3>
+
+**Kheira Belkacem**, experte recherche utilisateur au 
