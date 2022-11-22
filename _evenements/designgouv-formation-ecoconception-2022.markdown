@@ -75,4 +75,10 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Formateur</h3>
 
-**Richard Hanna**, expert numérique écoresponsable à la Direction interministérielle du numérique (DINUM) 
+**Richard Hanna**, expert numérique écoresponsable à la Direction interministérielle du numérique (DINUM)
+
+<h3 class="h2">Pour participer</h3>
+
+Rien de plus simple. Il vous suffit de [vous inscrire gratuitement](https://design.numerique.gouv.fr/formations/ecoconception/atelier-ecoconception/). Places limitées : chaque session est limitée à 30 participants. Si votre inscription est acceptée, vous vous engagez à participer.
+
+<div class="encadre noir"> <h3>D'autres formations à ne pas manquer</h3> <p>N’oubliez pas qu’en plus de la formation écoconception, d'autres vous sont proposées gratuitement : <a href="https://design.numerique.gouv.fr/formations/accessibilite/">accessibilité</a> <a href="https://design.numerique.gouv.fr/formations/design/">design</a> et <a href="https://design.numerique.gouv.fr/formations/recherche-utilisateur/">recherche utilisateur</a>
