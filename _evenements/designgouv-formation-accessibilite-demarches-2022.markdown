@@ -64,10 +64,10 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Au programme</h3>
 
-⚠️ Mise en évidence d’une expérience difficile pour une personne non-voyante et remontée de l’information à l’administration
-💡 Les bons réflexes à avoir en tant que chef et cheffe produit ou de projet : les marchés disponibles, l’organisation avec les prestataires, l’offre d’accompagnement de la DINUM, etc.
-🔍 L’audit d’accessibilité et le suivi des corrections : prendre le sujet à bras-le-corps en recourant aux outils de vérification à disposition
-🏆 Se sentir utile… et savourer les petites victoires !
+* Mise en évidence d’une expérience difficile pour une personne non-voyante et remontée de l’information à l’administration
+* Les bons réflexes à avoir en tant que chef et cheffe produit ou de projet : les marchés disponibles, l’organisation avec les prestataires, l’offre d’accompagnement de la DINUM, etc.
+* L’audit d’accessibilité et le suivi des corrections : prendre le sujet à bras-le-corps en recourant aux outils de vérification à disposition
+* Se sentir utile… et savourer les petites victoires !
 
 <h3 class="h2">Equipe de formation</h3>
 
