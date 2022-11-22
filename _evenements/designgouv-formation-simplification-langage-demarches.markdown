@@ -24,6 +24,16 @@ une-ou-diaporama:
 event_start_date: 2022-12-06 09:00:00 +01:00
 lieu: Lieu de la transformation publique
 adresse: 77 avenue de Ségur, Paris 15
+champs_informations:
+- intitule: Le Lieu de la transformation publique
+  contenu: 77 Av. de Ségur, 75015 Paris
+- intitule: Date
+  contenu: Mardi 6 décembre 2022
+- intitule: Horaires
+  contenu: 9h - 12h30
+- intitule: Modalités
+  contenu: Inscription obligatoire
+  lien: https://design.numerique.gouv.fr/formations/design/atelier-simplification/
 ---
 
 Le numérique doit avant tout nous permettre d’améliorer la relation entre les citoyens et l’administration, à travers des services simples, accessibles et humains. Ces services doivent s’adresser à toutes et tous, quels que soient nos particularités et nos usages.
