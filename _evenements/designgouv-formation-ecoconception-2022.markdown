@@ -43,7 +43,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **une formation à l'écoconception** le 14 décembre (ci-dessous)
 
 <h2 class="text-center">Formation à l'écoconception</h2>
-<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mercredi 14 décembre de 14h à 18h, venez participer à une matinée d’échanges avec DesignGouv pour mettre en œuvre une démarche d’écoconception et prendre en main le [référentiel général d’écoconception de service numérique](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/).</p> </div>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mercredi 14 décembre de 14h à 18h, venez participer à une matinée d’échanges avec DesignGouv pour mettre en œuvre une démarche d’écoconception et prendre en main le référentiel général d’écoconception de service numérique (RGESN).</p> </div>
 
 <h3 class="h2">Pour qui ?</h3>
 
