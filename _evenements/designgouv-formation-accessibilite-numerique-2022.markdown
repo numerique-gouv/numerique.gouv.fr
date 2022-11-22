@@ -54,7 +54,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Prérequis</h3>
 
-* avoir suivi ou visionné la formation [Introduction à l'accessibilité numérique](https://design.numerique.gouv.fr/formations/accessibilite/introduction-accessibilite-numerique/)
+* Avoir suivi ou visionné la formation [Introduction à l'accessibilité numérique](https://design.numerique.gouv.fr/formations/accessibilite/introduction-accessibilite-numerique/)
 
 <h3 class="h2">Objectifs</h3>
 
