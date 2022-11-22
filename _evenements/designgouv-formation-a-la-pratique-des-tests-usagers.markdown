@@ -42,3 +42,6 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **[une formation à la mise en accessibilité des démarches en lignes](https://www.numerique.gouv.fr/agenda/designgouv-formation-accessibilite-demarches-2022/)** le 15 décembre 2022
 * **[une formation à l'évaluation de l'accessibilité d'un site](https://www.numerique.gouv.fr/agenda/designgouv-formation-evaluation-accessibilite/)** le 10 janvier 2023
 * **une formation aux tests usagers** le 13 décembre 2022 (ci-dessous)
+
+<h2 class="text-center">Formation aux tests usagers</h2>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 13 décembre de 9h à 17h30, venez participer à une matinée d’échanges avec DesignGouv pour préparer et animer des tests avec des usagers puis analyser les résultats.</p> </div>
