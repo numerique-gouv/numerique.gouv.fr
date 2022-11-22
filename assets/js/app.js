@@ -102,4 +102,4 @@ $( window ).on( "load", function() {
   })
 })
 
-document.getElementById('#tarteaucitronAlertBig').hide()
+// document.getElementById('#tarteaucitronAlertBig').hide()
