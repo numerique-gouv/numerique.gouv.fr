@@ -39,7 +39,7 @@ En un point unique, ce nouveau site centralise **toutes les informations et ress
 <img src="/uploads/accessibilite-numerique-gouv_accueil.png" alt="Capture d'écran de la page d'accueil de accessibilite.numerique.gouv.fr" style="border:1px solid #d3d3d3">
 </figure>
 
-[Accessibilite.numerique.gouv.fr](https://accessibilite.numerique.gouv.fr/ "accessibilite.numerique.gouv.fr - Lien externe") héberge ainsi désormais **la version officielle du référentiel général d’accessibilité des administrations (RGAA)**, qui permet de vérifier le niveau d’accessibilité d’un site et de ses contenus, selon les normes internationales connues sous l’appellation [WCAG](https://www.w3.org/TR/WCAG21/ "WCAG - lien externe").
+[Accessibilite.numerique.gouv.fr](https://accessibilite.numerique.gouv.fr/ "accessibilite.numerique.gouv.fr - Lien externe") héberge ainsi désormais **la version officielle du référentiel général d’amélioration de l'accessibilité (RGAA)**, qui permet de vérifier le niveau d’accessibilité d’un site et de ses contenus, selon les normes internationales connues sous l’appellation [WCAG](https://www.w3.org/TR/WCAG21/ "WCAG - lien externe").
 
 Outre la **méthode technique** (liste des critères et des tests par thématiques, glossaire…), il contient toutes les ressources utiles : documents de références, méthodologie de test, kit d’audit, modèle de déclaration d’accessibilité…
 
