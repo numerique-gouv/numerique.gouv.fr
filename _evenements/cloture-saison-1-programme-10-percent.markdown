@@ -43,7 +43,7 @@ champs_informations:
 
 Mots d'introduction par la DINUM et l'Institut national de la statistique et des études économiques (INSEE)
 * **14h00 - 15h00 :** Pitchs des projets d'intérêt commun
-* **15h00 - 16h00 :** Table ronde « Comment attirer et fidéliser les talents de la data au sein de l’État ? ». 
+* **15h00 - 16h00 :** Table ronde *« Comment attirer et fidéliser les talents de la data au sein de l’État ? »*. 
 * **16h00 :** pot final
 
 ## 14h - Pitchs des projets d'intérêt commun
@@ -52,7 +52,8 @@ Les équipes d’experts publics de la donnée présenteront leur travail autour
 
 * **SOCRATEXT :** Une solution pour extraire des informations contenues dans des documents non directement exploitables (PDF, images, photos …) afin d’accélérer certaines tâches très chronophages lorsqu’elles sont réalisées à la main par les agents publics (par exemple, extraire les informations des tickets de caisse pour l’enquête budget des familles de l’INSEE ou bien cibler des informations précises dans des rapports médicaux de plusieurs pages).
 
-**Ministères et administrations participantes : ***ministère des Armées, ministère de l’Intérieur et des Outre-mer, Haute Autorité de Santé, INSEE, Direction interministérielle du numérique.*
+**Ministères et administrations participantes :**
+*ministère des Armées, ministère de l’Intérieur et des Outre-mer, Haute Autorité de Santé, INSEE, Direction interministérielle du numérique.*
 
 * **GOUVDOWN et SHINYGOUV :** une solution pour créer facilement des applications et des documents conformes à la charte graphique de l’État et faire gagner du temps aux agents.
 
@@ -68,7 +69,8 @@ Les équipes d’experts publics de la donnée présenteront leur travail autour
 **Ministères et administrations participantes :** *INSEE, ministère de la Santé et de la Prévention, ministère de l’Intérieur et des Outre-mer et ministère de la Transition écologique et de la Cohésion des territoires, enseignants-chercheurs*
 
 ## 15h - Table ronde 
-*Comment attirer et fidéliser les talents de la data au sein de l'Etat ? *
+
+*Comment attirer et fidéliser les talents de la data au sein de l'Etat ?*
 
 **1. Partage de bonnes pratiques issues de la sphère publique, avec :**
 * Romain Lesur, chef de la division innovation à l’INSEE, 
