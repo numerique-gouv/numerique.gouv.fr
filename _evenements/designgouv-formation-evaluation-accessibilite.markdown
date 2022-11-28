@@ -1,7 +1,6 @@
 ---
 title: 'DesignGouv : formation à l''évaluation de l''accessibilité d''un site'
 date: 2022-11-22 16:33:00 +01:00
-published: false
 categories:
 - Formation
 tags:
