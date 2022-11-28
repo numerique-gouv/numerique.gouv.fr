@@ -1,7 +1,6 @@
 ---
 title: 'DesignGouv : formation à la simplification du langage des démarches'
 date: 2022-11-18 12:45:00 +01:00
-published: false
 categories:
 - Formation
 tags:
