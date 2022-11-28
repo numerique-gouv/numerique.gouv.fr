@@ -19,12 +19,35 @@ event_end_date: 2022-12-05 16:00:00 +01:00
 lieu: Lieu de la transformation publique
 adresse: 77 avenue de Ségur, Paris 15
 champs_informations:
+- intitule: Comment y aller ?
+  contenu: 'Métro ➅ Cambronne ➇ La Motte Piquet - Grenelle ➉ Ségur '
 - intitule: Date
   contenu: Lundi 5 décembre 2022
 - intitule: Horaires
   contenu: 14h - 16h
 - intitule: Modalités
-  contenu: Inscription obligatoire
+  contenu: Entrée libre gratuite sur inscription. Accessible aux personnes à mobilité
+    réduite.
   lien: https://www.eventbrite.fr/e/billets-evenement-de-cloture-de-la-saison-1-du-programme-10-460655772817
 ---
 
+Mots d'introduction par la DINUM et l'Institut national de la statistique et des études économiques (INSEE)
+* 14h00 - 15h00 : Pitchs des projets d'intérêt commun
+* 15h00 - 16h00 : Table ronde « Comment attirer et fidéliser les talents de la data au sein de l’État ? ». 
+16h00 : pot final
+
+14h00-15h00 : Pitchs des projets d'intérêt commun
+Les équipes d’experts publics de la donnée présenteront leur travail autour de 4 projets 10% : 
+
+• SOCRATEXT : Une solution pour extraire des informations contenues dans des documents non directement exploitables (PDF, images, photos …) afin d’accélérer certaines tâches très chronophages lorsqu’elles sont réalisées à la main par les agents publics (par exemple, extraire les informations des tickets de caisse pour l’enquête budget des familles de l’INSEE ou bien cibler des informations précises dans des rapports médicaux de plusieurs pages). 
+Ministères et administrations participantes : ministère des Armées, ministère de l’Intérieur et des Outre-mer, Haute Autorité de Santé, INSEE, Direction interministérielle du numérique.
+
+* GOUVDOWN et SHINYGOUV : une solution pour créer facilement des applications et des documents conformes à la charte graphique de l’État et faire gagner du temps aux agents.
+Ministères et administrations participantes : INSEE, direction interministérielle de la transformation publique, réseau des DREAL, Direction interministérielle du numérique.
+
+* MatchSIRET : une solution pour faciliter et fiabiliser le quotidien des agents en leur donnant le moyen de remonter à l'identifiant exact d'une entreprise à partir d’informations issues du terrain (le nom commercial, la localisation ou le secteur d'activité).
+Ministères et administrations participantes : ministère du Travail, de l'Emploi et de l'Insertion, Direction interministérielle du numérique.
+
+* CARTIFLETTE : une solution pour harmoniser et associer des données géographiques issues de différents acteurs publics (INSEE, IGN, collectivités locales) à des contours géographiques normalisés via une API flexible. Ce projet sera associé à un site web, permettant ainsi de faciliter le travail des chercheurs, enseignants, administrations et médias souhaitant réaliser une carte à partir de données géographiques. 
+
+Ministères et administrations participantes : INSEE, ministère de la Santé et de la Prévention, ministère de l’Intérieur et des Outre-mer et ministère de la Transition écologique et de la Cohésion des territoires, enseignants-chercheurs
