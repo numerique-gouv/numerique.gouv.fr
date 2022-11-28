@@ -24,7 +24,6 @@ une-ou-diaporama:
     au lieu de la transformation publique.
     Etalab
 event_start_date: 2022-12-05 14:00:00 +01:00
-event_end_date: 2022-12-05 16:00:00 +01:00
 lieu: Lieu de la transformation publique
 adresse: 77 avenue de Ségur, Paris 15
 champs_informations:
