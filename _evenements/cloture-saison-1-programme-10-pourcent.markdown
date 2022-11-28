@@ -69,7 +69,7 @@ Les équipes d’experts publics de la donnée présenteront leur travail autour
 
 ## 15h - Table ronde 
 
-*Comment attirer et fidéliser les talents de la data au sein de l'Etat ?*
+*Comment attirer et fidéliser les talents de la data au sein de l'État ?*
 
 **1. Partage de bonnes pratiques issues de la sphère publique, avec :**
 * **Romain Lesur**, chef de la division innovation à l’[INSEE](https://www.insee.fr/fr/accueil), 
