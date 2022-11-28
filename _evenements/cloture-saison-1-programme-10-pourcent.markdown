@@ -65,7 +65,7 @@ Les équipes d’experts publics de la donnée présenteront leur travail autour
 
 * **CARTIFLETTE :** une solution pour harmoniser et associer des données géographiques issues de différents acteurs publics (INSEE, IGN, collectivités locales) à des contours géographiques normalisés via une API flexible. Ce projet sera associé à un site web, permettant ainsi de faciliter le travail des chercheurs, enseignants, administrations et médias souhaitant réaliser une carte à partir de données géographiques. 
 
-**Ministères et administrations participantes :** *INSEE, ministère de la Santé et de la Prévention, ministère de l’Intérieur et des Outre-mer et ministère de la Transition écologique et de la Cohésion des territoires, enseignants-chercheurs*
+**Ministères et administrations participantes :** *INSEE, ministère de la Santé et de la Prévention, ministère de l’Intérieur et des Outre-mer et ministère de la Transition écologique et de la Cohésion des territoires, enseignants-chercheurs*.
 
 ## 15h - Table ronde 
 
