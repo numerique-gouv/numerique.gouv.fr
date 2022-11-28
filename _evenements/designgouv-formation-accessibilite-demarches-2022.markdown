@@ -2,7 +2,6 @@
 title: 'DesignGouv : formation à la démystification de la mise en accessibilité des
   démarches en ligne'
 date: 2022-11-22 16:13:00 +01:00
-published: false
 categories:
 - Formation
 tags:
