@@ -7,13 +7,10 @@ tags:
 - Etalab
 - Data
 - intelligence artificielle
-chapeau-text: "La DINUM et l’INSEE ont lancé en 2022 une expérimentation visant à
-  encourager les experts de la donnée à consacrer au moins 10 % de leur temps de travail
-  à des projets d’intérêt partagé à une échelle interministérielle.\n\nCette expérimentation
-  a permis la mise en place d'une communauté d'une cinquantaine d'experts publics
-  de la donnée qui s'est mobilisée sur 4 projets d'intérêt commun autour de la data
-  et de l'IA. \n\nL'événement de clôture de la saison 1 du programme 10% se tiendra
-  le lundi 5 décembre de 14h00 à 16h00 au Lieu de la transformation publique."
+chapeau-text: |-
+  La DINUM et l’INSEE ont lancé en 2022 une expérimentation visant à encourager les experts de la donnée à consacrer au moins 10 % de leur temps de travail à des projets d’intérêt partagé à une échelle interministérielle.
+
+  Cette expérimentation a permis la mise en place d'une communauté d'une cinquantaine d'experts publics de la donnée qui s'est mobilisée sur 4 projets d'intérêt commun autour de la data et de l'IA.
 une-ou-diaporama:
 - image: "/uploads/2022_11_28_IA_visuel_Agenda.jpg"
   alternative-textuelle: |-
@@ -38,6 +35,8 @@ champs_informations:
     réduite.
   lien: https://www.eventbrite.fr/e/billets-evenement-de-cloture-de-la-saison-1-du-programme-10-460655772817
 ---
+
+L’événement de clôture de la saison 1 du programme 10% se tiendra le lundi 5 décembre de 14h00 à 16h00 au Lieu de la transformation publique.
 
 ### Déroulé de la clôture :
 
