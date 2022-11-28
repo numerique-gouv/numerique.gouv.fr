@@ -72,13 +72,13 @@ Les équipes d’experts publics de la donnée présenteront leur travail autour
 *Comment attirer et fidéliser les talents de la data au sein de l'Etat ?*
 
 **1. Partage de bonnes pratiques issues de la sphère publique, avec :**
-* **Romain Lesur**, chef de la division innovation à l’INSEE, 
-* **Stéphane Campion**, chargé des relations externes sur l’IA et la Data à Pôle Emploi, 
+* **Romain Lesur**, chef de la division innovation à l’[INSEE](https://www.insee.fr/fr/accueil), 
+* **Stéphane Campion**, chargé des relations externes sur l’IA et la Data à [Pôle Emploi](https://www.pole-emploi.fr/accueil/), 
 * **Soraya SAA**, cheffe de la mission Talents et **Sophie RAVEL**, chargée de projet attractivité à la mission Talents de la DINUM.
 
 **2. Regards croisés : initiatives issues de l’étranger, du privé et du milieu associatif :**
-* Regard de l’étranger : **Antoine Augusti**, datascientist ayant travaillé au Service numérique canadien
-* Regard du privé : **Yann Golhen**, datascientist à la MAIF
-* Regard du milieu associatif : **Théo Alves Da Costa**, Data For Good
+* Regard de l’étranger : **Antoine Augusti**, datascientist ayant travaillé au [Service numérique canadien](https://numerique.canada.ca/)
+* Regard du privé : **Yann Golhen**, datascientist à la [MAIF](https://www.maif.fr/)
+* Regard du milieu associatif : **Théo Alves Da Costa**, [Data For Good](https://dataforgood.fr/)
 
 ### 16h00 - Pot final
