@@ -1,7 +1,6 @@
 ---
 title: 'DesignGouv : formation à la pratique des tests usagers'
 date: 2022-11-22 14:46:00 +01:00
-published: false
 categories:
 - Formation
 tags:
