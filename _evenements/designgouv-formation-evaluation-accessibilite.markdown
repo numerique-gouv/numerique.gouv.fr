@@ -64,9 +64,9 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Equipe de formation</h3>
 
-**Erwan le Gall**, chargé de mission Accessibilité numérique au pôle design des services numériques de la DINUM
+* **Erwan le Gall**, chargé de mission Accessibilité numérique au pôle design des services numériques de la DINUM
 
-**Yaacov Cohen**, expert accessibilité au sein de DesignGouv
+* **Yaacov Cohen**, expert accessibilité au sein de DesignGouv
 
 <h3 class="h2">Inscriptions à venir</h3>
 
