@@ -48,6 +48,6 @@ Parmi les premiers bénéfices majeurs constatés par les porteurs de projets : 
 
 Pour sa deuxième saison, l’Accélérateur d’initiatives citoyennes renforce ses liens avec l’écosystème de l’innovation sociale et numérique d’intérêt général. Bayes impact, Data4Good, Le Liberté Living Lab et la Manufacture Docaposte X  Caisse des Dépôts (en cours de création) font désormais partie des premiers partenaires du programme.
 
-En savoir plus sur l’Accélérateur d'Initiatives Citoyennes : https://citoyens.transformation.gouv.fr/
+En savoir plus sur l’Accélérateur d'Initiatives Citoyennes : [citoyens.transformation.gouv.fr/](https://citoyens.transformation.gouv.fr/)
 
 L'Accélérateur d'Initiatives Citoyennes est un programme d'Etalab au sein de la direction interministérielle du numérique en partenariat avec la [direction interministérielle de la transformation publique](https://www.modernisation.gouv.fr/), directions intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques. Ce programme est l’un des engagements du [plan d’action de la France pour un gouvernement ouvert](https://gouvernement-ouvert.modernisation.gouv.fr/), piloté par la DITP. 
