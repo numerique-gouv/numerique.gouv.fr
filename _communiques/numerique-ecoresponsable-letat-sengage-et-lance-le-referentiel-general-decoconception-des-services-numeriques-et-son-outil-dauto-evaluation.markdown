@@ -1,6 +1,6 @@
 ---
 title: 'Numérique écoresponsable : l’État s’engage et lance le référentiel général
-  d’écoconception des services numériques et son outil d’auto-évaluation.'
+  d’écoconception des services numériques et son outil d’auto-évaluation'
 date: 2022-11-29 11:27:00 +01:00
 categories:
 - Communiqué de presse

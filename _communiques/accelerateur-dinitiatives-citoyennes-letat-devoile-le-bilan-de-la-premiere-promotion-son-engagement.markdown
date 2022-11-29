@@ -1,6 +1,6 @@
 ---
 title: 'Accélérateur d''Initiatives Citoyennes : l’État dévoile le bilan de la première
-  promotion son engagement.'
+  promotion son engagement'
 date: 2022-11-29 11:26:00 +01:00
 categories:
 - Communiqué de presse
