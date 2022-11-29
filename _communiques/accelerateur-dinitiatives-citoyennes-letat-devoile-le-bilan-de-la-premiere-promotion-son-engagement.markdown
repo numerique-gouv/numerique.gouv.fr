@@ -16,11 +16,13 @@ chapeau-text: Favoriser et soutenir les initiatives des citoyens qui relèvent d
   publique (DITP), dresse le bilan de la première promotion et poursuit son engagement
   à travers de nouveaux objectifs, dont le lancement d’une deuxième promotion.
 une-ou-diaporama:
-- alternative-textuelle: 'Accélérateur d''Initiatives Citoyennes : l’État dévoile
+- image: "/uploads/2022_11_29_VISUEL_Accelerateur_Initiatives_Citoyennes.jpg"
+  alternative-textuelle: 'Accélérateur d''Initiatives Citoyennes : l’État dévoile
     le bilan de la première promotion son engagement.'
 contact-presse:
   name: Floriane Beaudron
   tel:
+  - '01 71 21 12 50 '
   - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
   Key: 

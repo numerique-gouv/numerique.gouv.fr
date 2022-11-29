@@ -26,7 +26,8 @@ une-ou-diaporama:
 contact-presse:
   name: Floriane Beaudron
   tel:
-  - 06.10.60.41.19
+  - '01 71 21 12 50 '
+  - '06.10.60.41.19 '
   email: floriane.beaudron@modernisation.gouv.fr
 files:
 - file: "/uploads/CP_NUMERIQUE_ECORESPONSABLE_L_ETAT_LANCE_REFERENTIEL_OUTIL_DIAGNOSTIC.pdf"
