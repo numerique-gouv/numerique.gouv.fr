@@ -78,11 +78,11 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Equipe de formation</h3>
 
-**Élise Potier**, cheffe de projets simplification et sciences comportementales à la Direction interministérielle de la transformation publique (DITP)
+* **Élise Potier**, cheffe de projets simplification et sciences comportementales à la Direction interministérielle de la transformation publique (DITP)
 
-**Camille Ménart**, cheffe de projet Simplification et Sciences Comportementales à la direction interministérielle de la transformation publique (DITP)
+* **Camille Ménart**, cheffe de projet Simplification et Sciences Comportementales à la direction interministérielle de la transformation publique (DITP)
 
-**Camille Rozier**, cheffe de projets simplification et sciences comportementales à la Direction interministérielle de la transformation publique (DITP)
+* **Camille Rozier**, cheffe de projets simplification et sciences comportementales à la Direction interministérielle de la transformation publique (DITP)
 
 <h3 class="h2">Pour participer</h3>
 
