@@ -21,7 +21,8 @@ chapeau-text: Pour créer le service public de demain pour tous les Français, l
   existants et disposeront d’une méthodologie pour concevoir des services numériques
   plus responsables.
 une-ou-diaporama:
-- alternative-textuelle: 'Numérique écoresponsable : l’État s’engage et lance le référentiel
+- image: "/uploads/2022_11_29_VISUEL_Referentiel_general_ecoconception_de_services_numeriques.jpg"
+  alternative-textuelle: 'Numérique écoresponsable : l’État s’engage et lance le référentiel
     général d’écoconception des services numériques et son outil d’auto-évaluation.'
 contact-presse:
   name: Floriane Beaudron
