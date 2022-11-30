@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 29 novembre 2022
+date_de_modification: 30 novembre 2022
 style: |-
   .button {
   background-color: #0d5c98;
