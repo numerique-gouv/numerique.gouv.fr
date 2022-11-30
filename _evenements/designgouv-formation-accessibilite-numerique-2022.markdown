@@ -69,9 +69,9 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Equipe de formation</h3>
 
-**Ugo Dessertine**, lead designer au sein de DesignGouv
+* **Ugo Dessertine**, lead designer au sein de DesignGouv
 
-**Benoît Dequick**, expert accessibilité au sein de DesignGouv
+* **Benoît Dequick**, expert accessibilité au sein de DesignGouv
 
 <h3 class="h2">Pour participer</h3>
 

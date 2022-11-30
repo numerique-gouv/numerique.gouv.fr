@@ -74,7 +74,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Formateur</h3>
 
-**Richard Hanna**, expert numérique écoresponsable à la Direction interministérielle du numérique (DINUM)
+* **Richard Hanna**, expert numérique écoresponsable à la Direction interministérielle du numérique (DINUM)
 
 <h3 class="h2">Pour participer</h3>
 

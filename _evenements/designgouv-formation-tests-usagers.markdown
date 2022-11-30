@@ -74,9 +74,9 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Equipe de formation</h3>
 
-**Kheira Belkacem**, experte recherche utilisateur au sein de DesignGouv
+* **Kheira Belkacem**, experte recherche utilisateur au sein de DesignGouv
 
-**Marine Dias**, experte recherche utilisateur au sein de DesignGouv
+* **Marine Dias**, experte recherche utilisateur au sein de DesignGouv
 
 <h3 class="h2">Pour participer</h3>
 
