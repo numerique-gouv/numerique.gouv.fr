@@ -45,7 +45,19 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Chargé de mission budget H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission-budget-cdd-3-ans-hf-reference-2022-1043285/ "Chargé de mission budget H/F - Lien externe")**
+* **[Chef/fe du pôle Hypervision H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-du-pole-hypervision-cdd-de-3-ans-renouvelables-mais-un-cdi-est-envisageable-hf-reference-2022-1049263/ "Chef/fe du pôle Hypervision H/F - Lien externe")**
+<br>Cadre/Catégorie A, Saint-Jacques-de-La-Lande (35136)
+<br>
+
+* **[Chef/fe de projet : Hub d'échange de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-du-pole-hypervision-cdd-de-3-ans-renouvelables-mais-un-cdi-est-envisageable-hf-reference-2022-1049263/ "Chef/fe de projet : Hub d'échange de l'Etat H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Directeur/Directrice de projets numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeur-de-projets-numeriques--reference-2022-975781/ "Directeur/Directrice de projets numériques H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chef/fe du pôle des ressources humaines, de la logistique et de l'informatique H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeur-de-projets-numeriques--reference-2022-975781/ "Chef/fe du pôle des ressources humaines, de la logistique et de l'informatique H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
