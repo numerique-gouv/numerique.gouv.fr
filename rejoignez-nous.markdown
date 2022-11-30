@@ -49,7 +49,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A, Saint-Jacques-de-La-Lande (35136)
 <br>
 
-* **[Chef/fe de projet : Hub d'échange de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-du-pole-hypervision-cdd-de-3-ans-renouvelables-mais-un-cdi-est-envisageable-hf-reference-2022-1049263/ "Chef/fe de projet : Hub d'échange de l'Etat H/F - Lien externe")**
+* **[Chef/fe de projet : Hub d'échange de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--hub-d-echange-de-l-etat-cdd-3-ans-renouvelable-hf-reference-2022-960663/ "Chef/fe de projet : Hub d'échange de l'Etat H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
