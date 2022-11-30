@@ -57,7 +57,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chef/fe du pôle des ressources humaines, de la logistique et de l'informatique H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeur-de-projets-numeriques--reference-2022-975781/ "Chef/fe du pôle des ressources humaines, de la logistique et de l'informatique H/F - Lien externe")**
+* **[Chef/fe du pôle des ressources humaines, de la logistique et de l'informatique H/F](https://place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-des-ressources-humaines-de-la-logistique-et-de-l-informatique-hf-reference-2022-1049240/ "Chef/fe du pôle des ressources humaines, de la logistique et de l'informatique H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
