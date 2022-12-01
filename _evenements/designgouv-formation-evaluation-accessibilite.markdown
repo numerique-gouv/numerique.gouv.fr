@@ -9,7 +9,7 @@ chapeau-text: Comment détecter les principaux défauts d’accessibilité et le
   corriger par les équipes de développement sans connaître le code ? Le pôle Design
   des services numériques de la direction interministérielle du numérique (DINUM)
   propose une formation gratuite à l’évaluation de l'accessibilité d'un site, le mardi
-  10 janvier, de 14h à 17h30.
+  10 janvier.
 une-ou-diaporama:
 - image: "/uploads/6_evaluer%20l'accessibilite%20site.png"
   alternative-textuelle: |-
