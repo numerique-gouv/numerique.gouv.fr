@@ -19,7 +19,11 @@ une-ou-diaporama:
     Design des services numériques
     - Contenu officiel de l'Etat français
 event_start_date: 2023-01-10 00:00:00 +01:00
+lieu: Lieu de la transformation publique
+adresse: 77 avenue de Ségur, Paris 15
 champs_informations:
+- intitule: Comment y aller ?
+  contenu: 'Métro ➅ Cambronne ➇ La Motte Piquet - Grenelle ➉ Ségur '
 - intitule: Date
   contenu: Mardi 10 janvier 2023
 - intitule: Modalités
@@ -37,7 +41,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **une formation à l'évaluation de l'accessibilité d'un site** le 10 janvier (ci-dessous)
 
 <h2 class="text-center">Formation à la démystification de la mise en accessibilité des démarches en ligne</h2>
-<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le jeudi 15 décembre de 14h à 17h30, venez participer à une matinée d’échanges avec DesignGouv pour mettre en œuvre mettre en œuvre l’accessibilité tout au long du cycle de vie d’un projet numérique.</p> </div>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 10 janvier, venez participer à une matinée d’échanges avec DesignGouv pour détecter les principaux défauts d’accessibilité et les faire corriger par les équipes de développement sans connaître le code.</p> </div>
 
 <h3 class="h2">Pour qui ?</h3>
 

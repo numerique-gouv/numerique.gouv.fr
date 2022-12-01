@@ -24,6 +24,8 @@ event_start_date: 2022-12-15 14:00:00 +01:00
 lieu: Lieu de la transformation publique
 adresse: 77 avenue de Ségur, Paris 15
 champs_informations:
+- intitule: Comment y aller ?
+  contenu: 'Métro ➅ Cambronne ➇ La Motte Piquet - Grenelle ➉ Ségur '
 - intitule: Date
   contenu: Jeudi 15 décembre
 - intitule: Horaires
