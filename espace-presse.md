@@ -21,3 +21,4 @@ infos-presse:
   pictogramme: "/assets/img/pictogrammes/infos-presse.svg"
 layout: espace-presse
 ---
+
