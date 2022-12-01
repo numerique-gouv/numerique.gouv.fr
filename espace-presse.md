@@ -7,11 +7,11 @@ une:
 contact-presse:
   titre: Contact presse
   pictogramme: "/assets/img/pictogrammes/contact_presse.svg"
-  name: Claire Brisoux
+  name: Floriane Beaudron
   tel:
   - 01.71.21.12.50
-  - 06.84.89.45.95
-  email: claire.brisoux@modernisation.gouv.fr
+  - 06.10.60.41.19
+  email: floriane.beaudron@modernisation.gouv.fr
 ressources-presse:
   titre: Ressources presse
   pictogramme: "/assets/img/pictogrammes/ressources_presse.svg"
