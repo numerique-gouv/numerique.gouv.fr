@@ -9,8 +9,8 @@ contact-presse:
   pictogramme: "/assets/img/pictogrammes/contact_presse.svg"
   name: Floriane Beaudron
   tel:
-  - 01 71 21 12 50
-  - 06 10 60 41 19
+  - 01.71.21.12.50
+  - 06.10.60.41.19
   email: floriane.beaudron@modernisation.gouv.fr
 ressources-presse:
   titre: Ressources presse
