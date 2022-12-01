@@ -45,7 +45,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **une formation aux tests usagers** le 13 décembre (ci-dessous)
 
 <h2 class="text-center">Formation aux tests usagers</h2>
-<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 13 décembre de 9h à 17h30, venez participer à une matinée d’échanges avec DesignGouv pour préparer et animer des tests avec des usagers puis analyser les résultats.</p> </div>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 13 décembre de 9h à 17h30, venez participer à un atelier de formation avec DesignGouv pour préparer et animer des tests avec des usagers puis analyser les résultats.</p> </div>
 
 <h3 class="h2">Pour qui ?</h3>
 

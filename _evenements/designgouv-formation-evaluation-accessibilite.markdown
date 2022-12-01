@@ -41,7 +41,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **une formation à l'évaluation de l'accessibilité d'un site** le 10 janvier (ci-dessous)
 
 <h2 class="text-center">Formation à la démystification de la mise en accessibilité des démarches en ligne</h2>
-<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 10 janvier, venez participer à une matinée d’échanges avec DesignGouv pour détecter les principaux défauts d’accessibilité et les faire corriger par les équipes de développement sans connaître le code.</p> </div>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 10 janvier, venez participer à un atelier de formation avec DesignGouv pour détecter les principaux défauts d’accessibilité et les faire corriger par les équipes de développement sans connaître le code.</p> </div>
 
 <h3 class="h2">Pour qui ?</h3>
 
