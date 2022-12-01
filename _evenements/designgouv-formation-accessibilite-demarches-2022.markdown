@@ -46,7 +46,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **une formation à la mise en accessibilité des démarches en lignes** le 15 décembre (ci-dessous)
 
 <h2 class="text-center">Formation à la démystification de la mise en accessibilité des démarches en ligne</h2>
-<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le jeudi 15 décembre de 14h à 17h30, venez participer à une matinée d’échanges avec DesignGouv pour mettre en œuvre mettre en œuvre l’accessibilité tout au long du cycle de vie d’un projet numérique.</p> </div>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le jeudi 15 décembre de 14h à 17h30, venez participer à un atelier de formation avec DesignGouv pour mettre en œuvre mettre en œuvre l’accessibilité tout au long du cycle de vie d’un projet numérique.</p> </div>
 
 <h3 class="h2">Pour qui ?</h3>
 

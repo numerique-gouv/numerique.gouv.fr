@@ -47,7 +47,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **une formation à l'accessibilité numérique** le 8 décembre (ci-dessous)
 
 <h2 class="text-center">Formation à l'accessibilité numérique</h2>
-<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le jeudi 8 décembre de 10h30 à 16h30, venez participer à un un atelier de formation avec DesignGouv pour apprendre à prendre en compte l’accessibilité dans toutes les étapes de design d’un service numérique.</p> </div>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le jeudi 8 décembre de 10h30 à 16h30, venez participer à un atelier de formation avec DesignGouv pour apprendre à prendre en compte l’accessibilité dans toutes les étapes de design d’un service numérique.</p> </div>
 
 <h3 class="h2">Pour qui ?</h3>
 
