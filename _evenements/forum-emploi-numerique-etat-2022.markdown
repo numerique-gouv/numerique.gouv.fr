@@ -52,7 +52,7 @@ Vous êtes **un agent/e public - contractuel ou fonctionnaire - travaillant dans
 
 Vous n’êtes pas à Paris le 15 décembre pour le forum physique ? Participez à notre forum virtuel ! Créez dès le 9 novembre votre profil pour découvrir nos opportunités en région et en Île-de-France. 
 
-<p align="center"><a href="https://app.seekube.com/forum-de-lemploi-tech-de-letat-2022" class="button">S'inscrire au forum en ligne </a></p>
+<p align="center"><a class="button">Inscriptions closes</a></p>
 
 
 
