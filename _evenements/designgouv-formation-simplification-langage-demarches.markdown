@@ -48,7 +48,7 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **une formation à la simplification de l'information aux usagers** le 6 décembre (ci-dessous)
 
 <h2 class="text-center">Formation à la simplification de l'information aux usagers</h2>
-<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 6 décembre de 9h à 12h30, venez participer à une matinée d’échanges avec DesignGouv pour apprendre à produire des textes et des contenus plus adaptés aux usagers et faciliter leur compréhension des démarches.</p> </div>
+<div class="encadre"> <p style="margin-top: 20px; text-align:center;">Le mardi 6 décembre de 9h à 12h30, venez participer à une formation avec DesignGouv pour apprendre à produire des textes et des contenus plus adaptés aux usagers et faciliter leur compréhension des démarches.</p> </div>
 
 <h3 class="h2">Pour qui ?</h3>
 
