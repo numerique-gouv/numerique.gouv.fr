@@ -45,11 +45,11 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Pour qui ?</h3>
 
-**Agents** de la fonction publique impliqués dans une démarche en ligne, avec une priorité pour celles de l’[Observatoire de la qualité des démarches en ligne](https://observatoire.numerique.gouv.fr/), en particulier les chefs et cheffes de projet et produit.
+À venir
 
 <h3 class="h2">Prérequis</h3>
 
-* Avoir suivi ou visionné la [formation Introduction à l'accessibilité numérique](https://design.numerique.gouv.fr/formations/accessibilite/introduction-accessibilite-numerique/)
+À venir
 
 <h3 class="h2">Objectifs</h3>
 
