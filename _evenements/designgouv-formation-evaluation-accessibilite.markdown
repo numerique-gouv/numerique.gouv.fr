@@ -9,7 +9,7 @@ chapeau-text: Comment détecter les principaux défauts d’accessibilité et le
   corriger par les équipes de développement sans connaître le code ? Le pôle Design
   des services numériques de la direction interministérielle du numérique (DINUM)
   propose une formation gratuite à l’évaluation de l'accessibilité d'un site, le mardi
-  10 janvier, de 14h à 17h30.
+  10 janvier.
 une-ou-diaporama:
 - image: "/uploads/6_evaluer%20l'accessibilite%20site.png"
   alternative-textuelle: |-
@@ -45,30 +45,23 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 
 <h3 class="h2">Pour qui ?</h3>
 
-**Agents** de la fonction publique impliqués dans une démarche en ligne, avec une priorité pour celles de l’[Observatoire de la qualité des démarches en ligne](https://observatoire.numerique.gouv.fr/), en particulier les chefs et cheffes de projet et produit.
+À venir
 
 <h3 class="h2">Prérequis</h3>
 
-* Avoir suivi ou visionné la [formation Introduction à l'accessibilité numérique](https://design.numerique.gouv.fr/formations/accessibilite/introduction-accessibilite-numerique/)
+À venir
 
 <h3 class="h2">Objectifs</h3>
 
-* Mieux comprendre le travail d’un auditeur accessibilité
-* Connaître les réflexes à avoir lorsqu’un usager exprime une difficulté d’utilisation d’un service non accessible
-* Identifier qui fait quoi dans la mise en accessibilité des démarches
-* Connaître les réponses concrètes à apporter lorsqu’une démarche n’est pas encore accessible
-* Savoir comment intégrer la thématique de l’accessibilité dans les étapes d’un projet numérique
+À venir
 
 <h3 class="h2">Au programme</h3>
-
-⚠️ Mise en évidence d’une expérience difficile pour une personne non-voyante et remontée de l’information à l’administration
-💡 Les bons réflexes à avoir en tant que chef et cheffe produit ou de projet : les marchés disponibles, l’organisation avec les prestataires, l’offre d’accompagnement de la DINUM, etc.
-🔍 L’audit d’accessibilité et le suivi des corrections : prendre le sujet à bras-le-corps en recourant aux outils de vérification à disposition
-🏆 Se sentir utile… et savourer les petites victoires !
+ 
+À venir
 
 <h3 class="h2">Equipe de formation</h3>
 
-* **Erwan le Gall**, chargé de mission Accessibilité numérique au pôle design des services numériques de la DINUM
+* **Benoît Dequick**, expert design & accessibilité numérique
 
 * **Yaacov Cohen**, expert accessibilité au sein de DesignGouv
 
