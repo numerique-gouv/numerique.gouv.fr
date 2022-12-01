@@ -31,7 +31,7 @@ layout: page-annexe
 <div class="tableau-presse"><aside><div align="center"><p><b>Floriane Beaudron</b>
 <br>Responsable presse DINUM
 <br>01.71.21.12.50 - 06.10.60.41.19
-<br><a href="mailto:claire.brisoux@modernisation.gouv.fr">claire.brisoux@modernisation.gouv.fr</a></p></div>
+<br><a href="mailto:floriane.beaudron@modernisation.gouv.fr">floriane.beaudron@modernisation.gouv.fr</a></p></div>
 </aside>
 <aside><div align="center" style="margin-bottom: 20px"><a href="/espace-presse/" class="button"><b>Retrouvez tous nos communiqués <br>et dossiers de presse</b></a> </div>
 
