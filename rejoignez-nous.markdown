@@ -61,14 +61,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-<div class="encadre noir">
-<h3>Professionnel/les du numérique : l’État recrute !</h3>
-<figure class='image-center' style='width: 70%;'><img src="/uploads/FENE2022_visuel-Instagram_PARIS.jpg" alt="image d'illustration"/></figure>
-<p>Vous êtes développeur/euse, chef/fe de projet numérique, ingénieur/e, architecte SI, technicien/ne support... ? Venez créer le service public de demain !
-<br>Plus de 300 postes dans de nombreux métiers vous attendent au <b>Forum de l'emploi numérique de l’État, le 15 décembre 2022 à Paris (16e)</b>. 
-<br><a href="/agenda/forum-emploi-numerique-etat-2022/">Inscrivez-vous</a></p>
-<br>
-</div>
+<div class="encadre noir"> <figure class="image-left" style="width: 40%;"><img src="/uploads/FENE2022_visuel-Instagram_PARIS.jpg" alt="image d'illustration"></figure><h3>Professionnel/les du numérique&nbsp;: l’État recrute&nbsp;!</h3>  <p>Vous êtes développeur/euse, chef/fe de projet numérique, ingénieur/e, architecte SI, technicien/ne support...&nbsp;? Venez créer le service public de demain&nbsp;! <br>Plus de 300 postes dans de nombreux métiers vous attendent au <b>Forum de l'emploi numérique de l’État, le 15 décembre 2022 à Paris (16e)</b>. <br><a href="/agenda/forum-emploi-numerique-etat-2022/">Inscrivez-vous</a></p> <br> </div>
 
 
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
@@ -76,7 +69,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <p><strong> Présidence de la République</strong></p>
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-du-departement-de-l-exploitation-et-de-l-administration-technique--reference-2022-1024634/" title="Responsable du département de l'exploitation et de l'administration technique - Lien externe">Responsable du département de l'exploitation et de l'administration technique, F/H</a></strong><br>Cadre/Catégorie A+</li></ul>
 <p><strong> Ministère de l'enseignement supérieur, de la recherche et de l'innovation </strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/dgesip-a-scn-parcoursup---administrateur-trice-des-systemes-d-information-reference-2022-861851/" title="DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information F/H - Lien externe">DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information F/H</a></strong><br>Cadre/Catégorie A, Labège (31370)</li></ul>![FENE2022_visuel-Twitter-LinkedIn_PARIS.jpg](/uploads/FENE2022_visuel-Twitter-LinkedIn_PARIS.jpg)
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/dgesip-a-scn-parcoursup---administrateur-trice-des-systemes-d-information-reference-2022-861851/" title="DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information F/H - Lien externe">DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information F/H</a></strong><br>Cadre/Catégorie A, Labège (31370)</li></ul>
 
 <div class="noir encadre"><h4>Sur metiers.numerique.gouv.fr, <br>découvrez les offres d'emploi dans le numérique au sein de l’État</h4> <p>Rendez-vous sur notre site dédié <a href="https://metiers.numerique.gouv.fr"> metiers.numerique.gouv.fr</a> pour consulter les offres d’emploi à pourvoir dans les ministères et déposer une candidature spontanée&nbsp;! <br>À venir également, des vitrines pour faire la connaissance des différentes entités du numérique de l'État et des témoignages d'agents publics. </p> 
 <div style="margin-bottom: 20px; margin-top: 10px;" align="center"><a href="https://metiers.numerique.gouv.fr" class="button" alt="Accéder à metiers.numerique.gouv.fr - Lien externe"><b>Accéder à metiers.numerique.gouv.fr</b></a> </div></div>
