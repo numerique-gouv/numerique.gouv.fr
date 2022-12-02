@@ -61,15 +61,15 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-<!--
-> ### Talents du numérique : l’État recrute !
-> <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
-> <br>Vous êtes développeur, chef de projet numérique, ingénieur, architecte SI, technicien support... ? Venez créer le service public de demain !
-> <br>Plus de 300 postes dans de nombreux métiers vous attendent au **Forum de l'emploi tech de l’État, du 30 novembre au 9 décembre 2020**. Édition 100% en ligne.
-> <br>[> Inscrivez-vous jusqu'au 27 nov, 14h](https://numerique.gouv.fr/agenda/forum-emploi-tech-etat-2020)
-> <br>
+
+### Professionnel/les du numérique : l’État recrute !
+<figure class='image-center' style='width: 70%;'><img src="![FENE2022_visuel-Twitter-LinkedIn_PARIS.jpg](/uploads/FENE2022_visuel-Twitter-LinkedIn_PARIS.jpg)" alt=""/></figure>
+<br>Vous êtes développeur/euse, chef/fe de projet numérique, ingénieur/e, architecte SI, technicien/ne support... ? Venez créer le service public de demain !
+<br>Plus de 300 postes dans de nombreux métiers vous attendent au **Forum de l'emploi numérique de l’État, le 15 décembre 2022 à Paris (16e)**. 
+<br>[> Inscrivez-vous](https://www.numerique.gouv.fr/agenda/forum-emploi-numerique-etat-2022/)
+<br>
 {: .noir .encadre}
-  -->
+
 
 <div class="encadre noir">
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
