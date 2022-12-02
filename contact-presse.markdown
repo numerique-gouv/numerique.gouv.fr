@@ -39,13 +39,13 @@ layout: page-annexe
 
 
 <h2>Autres contacts presse</h2>
-<ul><li><b>Service presse de la ministre de la Transformation et de la Fonction publiques, Amélie de Montchalin :</b>
-<br><a href="mailto:presse@transformation.gouv.fr">presse@transformation.gouv.fr</a>
-<br>01 53 18 42 68</li>
+<ul><li><b>Service presse du ministre de la Transformation et de la Fonction publiques, Stanislas Guerini :</b>
+<br><a href="mailto:presse.mtfp@transformation.gouv.fr">presse.mtfp@transformation.gouv.fr</a>
+<br>01 53 18 42 68/ 42 76</li>
 
-<li><b>Service presse du secrétaire d’État chargé de la transition numérique et des communications électroniques, Cédric O :</b>
+<li><b>Service presse du ministre délégué chargé de la Transition numérique et des Télécommunications, Jean-Noël Barrot :</b>
 <br><a href="mailto:presse@numerique.gouv.fr">presse@numerique.gouv.fr</a>
-<br>01 53 18 43 10</li></ul>
+<br>01 53 18 43 42</li></ul>
 <br>
 <br>
 
