@@ -63,7 +63,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 
 <div class="encadre noir">
 <h3>Professionnel/les du numérique : l’État recrute !</h3>
-<figure class='image-center' style='width: 70%;'><img src="/uploads/FENE2022_visuel-Twitter-LinkedIn_PARIS.jpg" alt="image d'illustration"/></figure>
+<figure class='image-center' style='width: 70%;'><img src="/uploads/FENE2022_visuel-Instagram_PARIS.jpg" alt="image d'illustration"/></figure>
 <p>Vous êtes développeur/euse, chef/fe de projet numérique, ingénieur/e, architecte SI, technicien/ne support... ? Venez créer le service public de demain !
 <br>Plus de 300 postes dans de nombreux métiers vous attendent au <b>Forum de l'emploi numérique de l’État, le 15 décembre 2022 à Paris (16e)</b>. 
 <br><a href="/agenda/forum-emploi-numerique-etat-2022/">Inscrivez-vous</a></p>
