@@ -61,14 +61,14 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-
-### Professionnel/les du numérique : l’État recrute !
+<div class="encadre noir">
+<h3>Professionnel/les du numérique : l’État recrute !</h3>
 <figure class='image-center' style='width: 70%;'><img src="![FENE2022_visuel-Twitter-LinkedIn_PARIS.jpg](/uploads/FENE2022_visuel-Twitter-LinkedIn_PARIS.jpg)" alt=""/></figure>
-<br>Vous êtes développeur/euse, chef/fe de projet numérique, ingénieur/e, architecte SI, technicien/ne support... ? Venez créer le service public de demain !
-<br>Plus de 300 postes dans de nombreux métiers vous attendent au **Forum de l'emploi numérique de l’État, le 15 décembre 2022 à Paris (16e)**. 
-<br>[> Inscrivez-vous](https://www.numerique.gouv.fr/agenda/forum-emploi-numerique-etat-2022/)
+<p>Vous êtes développeur/euse, chef/fe de projet numérique, ingénieur/e, architecte SI, technicien/ne support... ? Venez créer le service public de demain !
+<br>Plus de 300 postes dans de nombreux métiers vous attendent au <b>Forum de l'emploi numérique de l’État, le 15 décembre 2022 à Paris (16e)</b>. 
+<br>[> Inscrivez-vous](https://www.numerique.gouv.fr/agenda/forum-emploi-numerique-etat-2022/)</p>
 <br>
-{: .noir .encadre}
+</div>
 
 
 <div class="encadre noir">
