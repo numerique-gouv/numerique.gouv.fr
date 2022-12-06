@@ -17,16 +17,14 @@ une-ou-diaporama:
 - image: "/uploads/2022_11_07_FEN_AGENDA.jpg"
 event_start_date: 2022-12-01 00:00:00 +01:00
 event_end_date: 2022-12-15 00:00:00 +01:00
-lieu: En ligne du 1er au 14 décembre, en présentiel le 15 décembre à Paris
+lieu: Forum à Paris le 15 décembre
 adresse: La Grande Crypte 69 rue Boissière, 75016 PARIS
 champs_informations:
-- intitule: Forum virtuel du 1er au 14 décembre
-  contenu: Inscriptions closes
-- intitule: 15 décembre à Paris
+- intitule: Horaires
   contenu: De 9h à 18h
 - intitule: Modalités
-  contenu: 'Inscription obligatoire gratuite '
-  lien: https://forum-emploi.numerique.gouv.fr/#Inscription
+  contenu: 'Inscription gratuite '
+  lien: https://forum-emploi.numerique.gouv.fr/
 - intitule: Comment y aller ?
   contenu: 'Métro 6 : Boissière –  2 : Victor-Hugo – 9 : Trocadéro RER A : Charles
     de Gaulle-Étoile'
@@ -48,22 +46,23 @@ Vous êtes **un agent/e public - contractuel ou fonctionnaire - travaillant dans
 > {: .margin-top-1 .text-center}
 {: .encadre role="presentation" }
 
-**Forum virtuel du 1er au 14 décembre 2022**
+## Forum virtuel, du 1er au 14 décembre 2022
 
 Vous n’êtes pas à Paris le 15 décembre pour le forum physique ? Participez à notre forum virtuel ! Créez dès le 9 novembre votre profil pour découvrir nos opportunités en région et en Île-de-France. 
 
-<p align="center"><a class="button">Inscriptions closes</a></p>
+<p align="center"><i><b>- Inscriptions closes -</b></i></p>
 
 
 
-**Forum physique à Paris le 15 décembre 2022**
+## Forum à Paris, le 15 décembre 2022
 
 Ce forum regroupera **plus de 20 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, proposant plus de 300 postes à pourvoir.
 
 Un espace de **« speed-jobbing »** sera mis en place pour vos discussions avec les recruteurs. 
 
-Au cours de cette journée seront aussi proposés **des ateliers de développement professionnel (plan prévisionnel de carrière) et des conférences**. [Découvrez le programme.](https://forum-emploi.numerique.gouv.fr/#Inscription)
+Au cours de cette journée seront aussi proposés **des ateliers de développement professionnel et des conférences**. 
+[Consultez le programme.](https://forum-emploi.numerique.gouv.fr/#Inscription)
 
 <br>
 
-<p align="center"><a href="https://forum-emploi.numerique.gouv.fr/#Inscription" class="button">S'inscrire au forum physique </a></p>
+<p align="center"><a href="https://forum-emploi.numerique.gouv.fr/" class="button">S'inscrire au Forum à Paris</a></p>
