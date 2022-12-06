@@ -17,12 +17,10 @@ une-ou-diaporama:
 - image: "/uploads/2022_11_07_FEN_AGENDA.jpg"
 event_start_date: 2022-12-01 00:00:00 +01:00
 event_end_date: 2022-12-15 00:00:00 +01:00
-lieu: En ligne du 1er au 14 décembre, en présentiel le 15 décembre à Paris
+lieu: Forum à Paris le 15 décembre
 adresse: La Grande Crypte 69 rue Boissière, 75016 PARIS
 champs_informations:
-- intitule: Forum virtuel du 1er au 14 décembre
-  contenu: Inscriptions closes
-- intitule: 15 décembre à Paris
+- intitule: Horaires
   contenu: De 9h à 18h
 - intitule: Modalités
   contenu: 'Inscription obligatoire gratuite '
