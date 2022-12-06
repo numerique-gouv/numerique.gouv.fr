@@ -23,7 +23,7 @@ champs_informations:
 - intitule: Horaires
   contenu: De 9h à 18h
 - intitule: Modalités
-  contenu: 'Inscription obligatoire gratuite '
+  contenu: 'Inscription gratuite '
   lien: https://forum-emploi.numerique.gouv.fr/
 - intitule: Comment y aller ?
   contenu: 'Métro 6 : Boissière –  2 : Victor-Hugo – 9 : Trocadéro RER A : Charles
