@@ -6,7 +6,7 @@ layout: page-annexe
 ---
 
 ## Éditeur ##
-Ce site est édité par la direction interministérielle du numérique (DINUM), un service du Premier ministre.
+Ce site est édité par la direction interministérielle du numérique (DINUM), un service du Premier ministre sous l'autorité du ministre de la Transformation et de la Fonction publiques.
  
 DINUM
 <br>20 avenue de Ségur
@@ -17,14 +17,14 @@ SIRET : 12000101100010 (secrétariat général du gouvernement)
 <br>SIREN : 120 001 011
 
 
-## Directeur de publication ##
-Pour les sujets relevant de la DINUM (transformation numérique de l’État) : Nadi Bou Hanna, directeur interministériel du numérique.
+## Directrice de publication ##
+Stéphanie Schaer, directrice interministérielle du numérique
 
 
 ## Conception et gestion du site ##
-Ce site est développé en mode agile, selon un principe d'amélioration continue. De nouvelles fonctionnalités seront ajoutées prochainement.
+Ce site est développé selon un principe d'amélioration continue.
 
-Le suivi éditorial et graphique est assuré au quotidien par la mission Communication de la DINUM, avec l'aide de la société Octo pour le volet technique.
+Le suivi éditorial et graphique est assuré au quotidien par le pôle Communication de la DINUM, avec l'aide de la société LittleBigConnection pour le volet technique.
 
 
 ## Code source du site ##
