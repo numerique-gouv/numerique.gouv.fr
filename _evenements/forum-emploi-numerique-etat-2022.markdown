@@ -48,15 +48,15 @@ Vous êtes **un agent/e public - contractuel ou fonctionnaire - travaillant dans
 > {: .margin-top-1 .text-center}
 {: .encadre role="presentation" }
 
-**Forum virtuel du 1er au 14 décembre 2022**
+## Forum virtuel, du 1er au 14 décembre 2022
 
 Vous n’êtes pas à Paris le 15 décembre pour le forum physique ? Participez à notre forum virtuel ! Créez dès le 9 novembre votre profil pour découvrir nos opportunités en région et en Île-de-France. 
 
-<p align="center"><a class="button">Inscriptions closes</a></p>
+<p align="center"><i><b>- Inscriptions closes -</b></i></p>
 
 
 
-**Forum physique à Paris le 15 décembre 2022**
+## Forum à Paris, le 15 décembre 2022
 
 Ce forum regroupera **plus de 20 services recruteurs**, issus de la fonction publique d’État et de collectivités territoriales, proposant plus de 300 postes à pourvoir.
 
@@ -66,4 +66,4 @@ Au cours de cette journée seront aussi proposés **des ateliers de développeme
 
 <br>
 
-<p align="center"><a href="https://forum-emploi.numerique.gouv.fr/#Inscription" class="button">S'inscrire au forum physique </a></p>
+<p align="center"><a href="https://forum-emploi.numerique.gouv.fr/" class="button">S'inscrire au Forum à Paris</a></p>
