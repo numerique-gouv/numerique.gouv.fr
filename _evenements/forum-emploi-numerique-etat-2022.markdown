@@ -62,7 +62,8 @@ Ce forum regroupera **plus de 20 services recruteurs**, issus de la fonction pub
 
 Un espace de **« speed-jobbing »** sera mis en place pour vos discussions avec les recruteurs. 
 
-Au cours de cette journée seront aussi proposés **des ateliers de développement professionnel (plan prévisionnel de carrière) et des conférences**. [Découvrez le programme.](https://forum-emploi.numerique.gouv.fr/#Inscription)
+Au cours de cette journée seront aussi proposés **des ateliers de développement professionnel et des conférences**. 
+[Consultez le programme.](https://forum-emploi.numerique.gouv.fr/#Inscription)
 
 <br>
 
