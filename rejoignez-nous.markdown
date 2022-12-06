@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 30 novembre 2022
+date_de_modification: 2 décembre 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -46,10 +46,10 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 {: .margin-bottom-1}
 
 * **[Chef/fe du pôle Hypervision H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-du-pole-hypervision-cdd-de-3-ans-renouvelables-mais-un-cdi-est-envisageable-hf-reference-2022-1049263/ "Chef/fe du pôle Hypervision H/F - Lien externe")**
-<br>Cadre/Catégorie A, Saint-Jacques-de-La-Lande (35136)
+<br>Cadre/Catégorie A, Saint-Jacques-de-La-Lande (35)
 <br>
 
-* **[Chef/fe de projet : Hub d'échange de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--hub-d-echange-de-l-etat-cdd-3-ans-renouvelable-hf-reference-2022-960663/ "Chef/fe de projet : Hub d'échange de l'Etat H/F - Lien externe")**
+* **[Chef/fe de projet : Hub d'échange de l’État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--hub-d-echange-de-l-etat-cdd-3-ans-renouvelable-hf-reference-2022-960663/ "Chef/fe de projet : Hub d'échange de l’État H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
@@ -61,24 +61,15 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-<!--
-> ### Talents du numérique : l’État recrute !
-> <figure class='image-center' style='width: 70%;'><img src="/uploads/Campagne_Linkedin_FETE_visuel1.jpg" alt=""/></figure>
-> <br>Vous êtes développeur, chef de projet numérique, ingénieur, architecte SI, technicien support... ? Venez créer le service public de demain !
-> <br>Plus de 300 postes dans de nombreux métiers vous attendent au **Forum de l'emploi tech de l’État, du 30 novembre au 9 décembre 2020**. Édition 100% en ligne.
-> <br>[> Inscrivez-vous jusqu'au 27 nov, 14h](https://numerique.gouv.fr/agenda/forum-emploi-tech-etat-2020)
-> <br>
-{: .noir .encadre}
-  -->
+<div class="encadre noir"> <figure class="image-left" style="width: 40%;"><a href="/agenda/forum-emploi-numerique-etat-2022/" title="Inscrivez-vous au forum de l'emploi numérique de l’État"><img src="/uploads/FENE2022_visuel-Instagram_PARIS.jpg" alt="image d'illustration"></a></figure><h3>Professionnel/les du numérique&nbsp;: l’État recrute&nbsp;!</h3>  <p>Vous êtes développeur/euse, chef/fe de projet numérique, ingénieur/e, architecte SI, technicien/ne support...&nbsp;? Venez créer le service public de demain&nbsp;! <br>Plus de 300 postes dans de nombreux métiers vous attendent au <b>Forum de l'emploi numérique de l’État, le 15 décembre 2022 à Paris (16e)</b>. <br><a href="/agenda/forum-emploi-numerique-etat-2022/">Inscrivez-vous</a></p> <br> </div>
 
-<div class="encadre noir">
+
 <h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
 <p><strong> Présidence de la République</strong></p>
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-du-departement-de-l-exploitation-et-de-l-administration-technique--reference-2022-1024634/" title="Responsable du département de l'exploitation et de l'administration technique - Lien externe">Responsable du département de l'exploitation et de l'administration technique, F/H</a></strong><br>Cadre/Catégorie A+</li></ul>
 <p><strong> Ministère de l'enseignement supérieur, de la recherche et de l'innovation </strong></p> 
-<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/dgesip-a-scn-parcoursup---administrateur-trice-des-systemes-d-information-reference-2022-861851/" title="DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information F/H - Lien externe">DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information F/H</a></strong><br>Cadre/Catégorie A, Labège (31370)</li></ul>
-</div>
+<ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/dgesip-a-scn-parcoursup---administrateur-trice-des-systemes-d-information-reference-2022-861851/" title="DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information F/H - Lien externe">DGESIP A SCN Parcoursup - Administrateur-trice des systèmes d'information F/H</a></strong><br>Cadre/Catégorie A, Labège (31)</li></ul>
 
 <div class="noir encadre"><h4>Sur metiers.numerique.gouv.fr, <br>découvrez les offres d'emploi dans le numérique au sein de l’État</h4> <p>Rendez-vous sur notre site dédié <a href="https://metiers.numerique.gouv.fr"> metiers.numerique.gouv.fr</a> pour consulter les offres d’emploi à pourvoir dans les ministères et déposer une candidature spontanée&nbsp;! <br>À venir également, des vitrines pour faire la connaissance des différentes entités du numérique de l'État et des témoignages d'agents publics. </p> 
 <div style="margin-bottom: 20px; margin-top: 10px;" align="center"><a href="https://metiers.numerique.gouv.fr" class="button" alt="Accéder à metiers.numerique.gouv.fr - Lien externe"><b>Accéder à metiers.numerique.gouv.fr</b></a> </div></div>
