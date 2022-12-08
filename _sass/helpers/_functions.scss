@@ -28,16 +28,6 @@
     }
   }
 }
-[aria-label]:hover:before,
-[aria-label]:focus:before {
-  content: "▼";
-  position: absolute;
-  top: -1em;
-  left: 50%;
-  transform: translateX(-50%); /* on centre horizontalement  */
-  font-size: 20px;
-  color: $dark-gray;
-}
 
 /* pas de contour durant le :focus */
 [aria-label]:focus {
