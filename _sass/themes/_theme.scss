@@ -141,7 +141,9 @@
 
 .image-de-tete {
   width: 100%;
-  height: 30vh;
+  @media screen and (min-width: 650px) {
+    height: 30vh;
+  }
 }
 
 .legende, img + em {
