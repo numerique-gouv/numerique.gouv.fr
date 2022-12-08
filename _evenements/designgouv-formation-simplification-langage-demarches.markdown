@@ -43,8 +43,6 @@ Pour que les administrations se posent les bonnes questions aux bons moments, po
 * **[une formation à l'accessibilité numérique](https://www.numerique.gouv.fr/agenda/designgouv-formation-accessibilite-numerique-2022/)** le 8 décembre
 * **[une formation aux tests usagers](https://www.numerique.gouv.fr/agenda/designgouv-formation-tests-usagers/)** le 13 décembre
 * **[une formation à l'écoconception](https://www.numerique.gouv.fr/agenda/designgouv-formation-ecoconception-2022/)** le 14 décembre
-* **[une formation à la mise en accessibilité des démarches en lignes](https://www.numerique.gouv.fr/agenda/designgouv-formation-accessibilite-demarches-2022/)** le 15 décembre
-* **[une formation à l'évaluation de l'accessibilité d'un site](https://www.numerique.gouv.fr/agenda/designgouv-formation-evaluation-accessibilite/)** le 10 janvier 2023
 * **une formation à la simplification de l'information aux usagers** le 6 décembre (ci-dessous)
 
 <h2 class="text-center">Formation à la simplification de l'information aux usagers</h2>
