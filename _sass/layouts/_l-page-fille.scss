@@ -17,8 +17,10 @@
       margin-top: 2rem;
       margin-bottom: 1rem;
     }
-    .image-en-tete{
-      height: 50vh;
+    @media screen and (min-width: 650px) {
+      .image-en-tete {
+        height: 50vh;
+      }
     }
   }
 }
