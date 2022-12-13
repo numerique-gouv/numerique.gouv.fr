@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 2 décembre 2022
+date_de_modification: 13 décembre 2022
 style: |-
   .button {
   background-color: #0d5c98;
@@ -45,19 +45,11 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Chef/fe du pôle Hypervision H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-du-pole-hypervision-cdd-de-3-ans-renouvelables-mais-un-cdi-est-envisageable-hf-reference-2022-1049263/ "Chef/fe du pôle Hypervision H/F - Lien externe")**
-<br>Cadre/Catégorie A, Saint-Jacques-de-La-Lande (35)
-<br>
-
 * **[Chef/fe de projet : Hub d'échange de l’État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--hub-d-echange-de-l-etat-cdd-3-ans-renouvelable-hf-reference-2022-960663/ "Chef/fe de projet : Hub d'échange de l’État H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
 * **[Directeur/Directrice de projets numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeur-de-projets-numeriques--reference-2022-975781/ "Directeur/Directrice de projets numériques H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chef/fe du pôle des ressources humaines, de la logistique et de l'informatique H/F](https://place-emploi-public.gouv.fr/offre-emploi/cheffe-du-pole-des-ressources-humaines-de-la-logistique-et-de-l-informatique-hf-reference-2022-1049240/ "Chef/fe du pôle des ressources humaines, de la logistique et de l'informatique H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
