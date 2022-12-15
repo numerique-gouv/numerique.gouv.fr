@@ -1,7 +1,7 @@
 ---
 title: 'Numérique écoresponsable : les administrations peuvent désormais s’appuyer
   sur un référentiel général d’écoconception'
-date: 2022-12-12 14:47:00 +01:00
+date: 2022-12-15 14:47:00 +01:00
 categories:
 - Article
 tags:
@@ -12,11 +12,7 @@ chapeau-text: 'La DINUM lance un référentiel général d’écoconception de s
   et un outil d’auto-évaluation, « NumÉcoDiag ». '
 une-ou-diaporama:
 - image: "/uploads/Referentiel_general_ecoconception_de_services_numeriques_Actu_Une_800.jpg"
-style: |-
-  .center {
-    text-align: center;
-   font-size: 1.2em;
-  }
+style: 
 ---
 
 La transition écologique passe aussi par la réduction de l’impact environnemental du numérique, et l’État se veut et se doit d’être exemplaire en la matière.
@@ -78,19 +74,19 @@ En permettant de concevoir des services numériques plus sobres, plus légers, m
 Si le référentiel et l’outil d’autoévaluation NumÉcoDiag sont conçus par l’État à destination des administrations, tous deux sont parfaitement utilisables par toute organisation, qu’elle soit publique, privée ou associative, souhaitant s’engager dans une démarche de numérique écoresponsable.
 
 <div class="encadre noir" style="margin-bottom:40px"><h2 style="margin-top: 40px; margin-bottom: 0">Administrations : passez à l’action</h2>
-<div class="center"><p><b>1</b></p></div><h3>Pour vos services numériques existants</h3>
+<div class="center"><p><b>1</b></p></div><h3>1<br>Pour vos services numériques existants</h3>
 <p style="margin-bottom: 0.5em"><b>Commencez par réaliser un autodiagnostic avec <a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/" title="NumÉcoDiag - Lien externe">NumÉcoDiag</a></b>, avec l’ensemble de l’équipe et des parties prenantes de votre service ou produit numérique. 
 <br>Il vous permettra de faire un état des lieux, d’identifier son niveau d’écoconception, ainsi que les actions à mener pour l’améliorer.</p>
 
 <p><b>L’idéal : passer en revue un ensemble de services</b> de votre administration et croiser les résultats afin de dégager des tendances et points d’amélioration structurels, qui peuvent toucher à l’organisation plus globale.</p>
 
-<h3>Pour vos services numériques en construction ou futurs</h3>
+<h3>2<br>Pour vos services numériques en construction ou futurs</h3>
 <p style="margin-bottom: 0.5em"><b>Saisissez-vous dès maintenant du <a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/" title="référentiel général d’écoconception de services numériques - Lien externe">référentiel général d’écoconception de services numériques</a></b> et imprégnez-vous des 79 critères avec l’ensemble des équipes impliquées.</p>
 <p>Vous réfléchissez à la création d’un service numérique ? <b>Avant toute chose, posez-vous la question de sa raison d’être</b> et de sa pertinence pour répondre à un besoin : est-il nécessaire ? Une alternative non numérique est-elle envisageable et préférable ?</p>
 
 <p style="margin-bottom: 0.5em"><b>Puis tout au long de sa conception et de son développement,</b> référez-vous au RGESN pour suivre et vérifier votre conformité à toutes les étapes du projet.</p>
 
-<h3>Formez-vous et formez vos équipes</h3>
+<h3>3<br>Formez-vous et formez vos équipes</h3>
 <p style="margin-bottom: 0.5em">La mission MiNumÉco propose des <b>formations gratuites</b> au numérique écoresponsable, ainsi qu’une sélection de formations <b>en libre accès</b>.</p>
 <p><b>D’une introduction en 10 minutes à un MOOC complet en 14 modules,</b> vous pourrez sensibiliser et former vos équipes et vous-même, comprendre les enjeux, identifier les impacts environnementaux du numérique, vous initier aux bonnes pratiques, obtenir les clés pour mettre en place un plan d’action au niveau de votre organisation…</p>
 
