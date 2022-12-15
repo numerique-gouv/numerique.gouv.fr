@@ -30,9 +30,9 @@ Le référentiel est disponible dans plusieurs formats dont une version 100% en 
 
 Le référentiel vise avant tout l’impact. Chaque critère a été soigneusement élaboré et décrit dans cette optique. Le référentiel favorise une approche transversale et l’implication de l’ensemble des métiers, au-delà des directions du numérique et DSI. 
 
-« Le principe que nous déployons est que l’écoconception de services numériques dépasse le sujet purement technique. Pour être efficace, elle doit fédérer, transcender l’organisation et s’intégrer dans une stratégie globale », explique Olivier Joviado, copilote au sein de la DINUM de la mission interministérielle Numérique écoresponsable, qui édite le référentiel. Cette approche permet ainsi d’adresser, entre autres, la problématique d’achat de matériel et services informatiques, la gestion des déchets d’équipements électriques et électroniques (D3E), le juridique, la production de contenus...
+<i>« Le principe que nous déployons est que l’écoconception de services numériques dépasse le sujet purement technique. Pour être efficace, elle doit fédérer, transcender l’organisation et s’intégrer dans une stratégie globale »,</i> explique Olivier Joviado, copilote au sein de la DINUM de la mission interministérielle Numérique écoresponsable, qui édite le référentiel. Cette approche permet ainsi d’adresser, entre autres, la problématique d’achat de matériel et services informatiques, la gestion des déchets d’équipements électriques et électroniques (D3E), le juridique, la production de contenus...
 
-Pour un impact renforcé, les actions proposées ne se limitent pas à la recherche d’optimisation, d’efficience ou de performance du service en lui-même, elles prennent en compte l’ensemble de la chaîne et du cycle de vie. « La réflexion s’élargit à l’usage des technologies, en visant, directement ou indirectement, à allonger la durée de vies des équipements numériques et à réduire la consommation de ressources informatiques et énergétiques des terminaux, des réseaux et des centres de données », précise Richard Hanna, chargé de mission MiNumÉco au sein de la DINUM.
+Pour un impact renforcé, les actions proposées ne se limitent pas à la recherche d’optimisation, d’efficience ou de performance du service en lui-même, elles prennent en compte l’ensemble de la chaîne et du cycle de vie. <i>« La réflexion s’élargit à l’usage des technologies, en visant, directement ou indirectement, à allonger la durée de vies des équipements numériques et à réduire la consommation de ressources informatiques et énergétiques des terminaux, des réseaux et des centres de données »,</i> précise Richard Hanna, chargé de mission MiNumÉco au sein de la DINUM.
 
 Un exemple concret ? Pour lutter contre l’obsolescence prématurée, un service numérique doit être consultable sur des terminaux de plus de 5 ans. C’est le critère 1.5 du référentiel.
 
@@ -63,7 +63,7 @@ En permettant de concevoir des services numériques plus sobres, plus légers, m
 
 Si le référentiel et l’outil d’autoévaluation NumÉcoDiag sont conçus par l’État à destination des administrations, tous deux sont parfaitement utilisables par toute organisation, qu’elle soit publique, privée ou associative, souhaitant s’engager dans une démarche de numérique écoresponsable.
 
-<div class="encadre noir" style="margin-bottom:40px"><h2 style="margin-top: 40px;">Administrations : passez à l’action</h2>
+<div class="encadre noir" style="margin-bottom:40px"><h2 style="margin-top: 40px; margin-bottom: 0">Administrations : passez à l’action</h2>
 <h3>Pour vos services numériques existants</h3>
 <p style="margin-bottom: 0.5em"><b>Commencez par réaliser un autodiagnostic avec <a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/" title="NumÉcoDiag - Lien externe">NumÉcoDiag</a></b>, avec l’ensemble de l’équipe et des parties prenantes de votre service ou produit numérique. 
 <br>Il vous permettra de faire un état des lieux, d’identifier son niveau d’écoconception, ainsi que les actions à mener pour l’améliorer.</p>
@@ -76,9 +76,9 @@ Si le référentiel et l’outil d’autoévaluation NumÉcoDiag sont conçus pa
 
 <p style="margin-bottom: 0.5em"><b>Puis tout au long de sa conception et de son développement,</b> référez-vous au RGESN pour suivre et vérifier votre conformité à toutes les étapes du projet.</p>
 
-<h3>Formez-vous et formez vos équipes gratuitement</h3>
-<p style="margin-bottom: 0.5em">La mission MiNumÉco propose des formations gratuites au numérique écoresponsable, ainsi qu’une sélection de formations en libre accès.
-<br>D’une introduction en 10 minutes à un MOOC complet en 14 modules, vous pourrez sensibiliser et former vos équipes et vous-même, comprendre les enjeux, identifier les impacts environnementaux du numérique, vous initier aux bonnes pratiques, obtenir les clés pour mettre en place un plan d’action au niveau de votre organisation…</p>
+<h3>Formez-vous et formez vos équipes</h3>
+<p style="margin-bottom: 0.5em">La mission MiNumÉco propose des <b>formations gratuites</b> au numérique écoresponsable, ainsi qu’une sélection de formations <b>en libre accès</b>.</p>
+<p><b>D’une introduction en 10 minutes à un MOOC complet en 14 modules,</b> vous pourrez sensibiliser et former vos équipes et vous-même, comprendre les enjeux, identifier les impacts environnementaux du numérique, vous initier aux bonnes pratiques, obtenir les clés pour mettre en place un plan d’action au niveau de votre organisation…</p>
 
 <p><a href="https://ecoresponsable.numerique.gouv.fr/formations/" title="Découvrir notre sélection de formations - Lien externe">> Découvrir notre sélection de formations</a></p>
 </div>
