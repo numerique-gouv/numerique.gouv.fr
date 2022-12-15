@@ -65,13 +65,13 @@ Si le référentiel et l’outil d’autoévaluation NumÉcoDiag sont conçus pa
 
 <div class="encadre noir" style="margin-bottom:40px"><h2 style="margin-top: 40px;">Administrations : passez à l’action</h2>
 <h3>Pour vos services numériques existants</h3>
-<p style="margin-bottom: 0.5em">Commencez par réaliser un autodiagnostic avec <a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/" title="NumÉcoDiag - Lien externe">NumÉcoDiag</a></b>, avec l’ensemble de l’équipe et des parties prenantes de votre service ou produit numérique. 
+<p style="margin-bottom: 0.5em"><b>Commencez par réaliser un autodiagnostic avec <a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/" title="NumÉcoDiag - Lien externe">NumÉcoDiag</a></b>, avec l’ensemble de l’équipe et des parties prenantes de votre service ou produit numérique. 
 <br>Il vous permettra de faire un état des lieux, d’identifier son niveau d’écoconception, ainsi que les actions à mener pour l’améliorer.</p>
 
 <p><b>L’idéal : passer en revue un ensemble de services</b> de votre administration et croiser les résultats afin de dégager des tendances et points d’amélioration structurels, qui peuvent toucher à l’organisation plus globale.</p>
 
 <h3>Pour vos services numériques en construction ou futurs</h3>
-<p style="margin-bottom: 0.5em"><b>Saisissez-vous dès maintenant du [référentiel général d’écoconception de services numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/ "référentiel général d’écoconception de services numériques - Lien externe")</b> et imprégnez-vous des 79 critères avec l’ensemble des équipes impliquées.</p>
+<p style="margin-bottom: 0.5em"><b>Saisissez-vous dès maintenant du <a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/" title="référentiel général d’écoconception de services numériques - Lien externe">référentiel général d’écoconception de services numériques</a></b> et imprégnez-vous des 79 critères avec l’ensemble des équipes impliquées.</p>
 <p>Vous réfléchissez à la création d’un service numérique ? <b>Avant toute chose, posez-vous la question de sa raison d’être</b> et de sa pertinence pour répondre à un besoin : est-il nécessaire ? Une alternative non numérique est-elle envisageable et préférable ?</p>
 
 <p style="margin-bottom: 0.5em"><b>Puis tout au long de sa conception et de son développement,</b> référez-vous au RGESN pour suivre et vérifier votre conformité à toutes les étapes du projet.</p>
