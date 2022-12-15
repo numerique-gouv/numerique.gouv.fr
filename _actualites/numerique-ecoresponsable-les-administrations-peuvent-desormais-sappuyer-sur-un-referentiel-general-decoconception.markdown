@@ -37,10 +37,9 @@ Pour un impact renforcé, les actions proposées ne se limitent pas à la recher
 Un exemple concret ? Pour lutter contre l’obsolescence prématurée, un service numérique doit être consultable sur des terminaux de plus de 5 ans. C’est le critère 1.5 du référentiel.
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Fruit d’un an de travaux collaboratifs</h3>
-<p>Le référentiel est le fruit d’un travail collectif engagé par [la mission Numérique écoresponsable](https://ecoresponsable.numerique.gouv.fr/ "la mission Numérique écoresponsable - Lien externe"), « MiNumÉco », animée par la direction interministérielle du numérique (DINUM) et le ministère de la Transition écologique et de la Cohésion des territoires, associant l’ADEME et l’Institut du Numérique Responsable.<br>
-<br>Afin de répondre au mieux aux attentes des futurs utilisateurs et d’être le plus pertinent, complet et réaliste possible, le référentiel a été coconstruit pendant 1 an avec les administrations, les entreprises, les associations et les universitaires, au gré d’une dizaine d’ateliers réunissant plus de 30 personnes.
-<br>
-<br>Il a ensuite été soumis pendant 45 jours à une consultation publique permettant de recueillir près de 300 contributions et plus de 1100 votes sur les différents critères proposés.</p></div>
+<p style="margin-bottom: 0.5em">Le référentiel est le fruit d’un travail collectif engagé par <a href="https://ecoresponsable.numerique.gouv.fr/" title="la mission Numérique écoresponsable - Lien externe">la mission Numérique écoresponsable, « MiNumÉco », animée par la direction interministérielle du numérique (DINUM) et le ministère de la Transition écologique et de la Cohésion des territoires, associant l’ADEME et l’Institut du Numérique Responsable.</p>
+<p style="margin-bottom: 0.5em">Afin de répondre au mieux aux attentes des futurs utilisateurs et d’être le plus pertinent, complet et réaliste possible, le référentiel a été coconstruit pendant 1 an avec les administrations, les entreprises, les associations et les universitaires, au gré d’une dizaine d’ateliers réunissant plus de 30 personnes.</p>
+<p style="margin-bottom: 0.5em">Il a ensuite été soumis pendant 45 jours à une consultation publique permettant de recueillir près de 300 contributions et plus de 1100 votes sur les différents critères proposés.</p></div>
 
 ## NumÉcoDiag, un outil pour faciliter l’autoévaluation
 
@@ -66,22 +65,20 @@ Si le référentiel et l’outil d’autoévaluation NumÉcoDiag sont conçus pa
 
 <div class="encadre noir" style="margin-bottom:40px"><h2 style="margin-top: 40px;">Administrations : passez à l’action</h2>
 <h3>Pour vos services numériques existants</h3>
+<p style="margin-bottom: 0.5em">Commencez par réaliser un autodiagnostic avec <a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/" title="NumÉcoDiag - Lien externe">NumÉcoDiag</a></b>, avec l’ensemble de l’équipe et des parties prenantes de votre service ou produit numérique. 
+<br>Il vous permettra de faire un état des lieux, d’identifier son niveau d’écoconception, ainsi que les actions à mener pour l’améliorer.</p>
 
-**Commencez par réaliser un autodiagnostic avec [NumÉcoDiag](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/ "NumÉcoDiag - Lien externe")**, avec l’ensemble de l’équipe et des parties prenantes de votre service ou produit numérique. 
- Il vous permettra de faire un état des lieux, d’identifier son niveau d’écoconception, ainsi que les actions à mener pour l’améliorer.
-
-**L’idéal : passer en revue un ensemble de services** de votre administration et croiser les résultats afin de dégager des tendances et points d’amélioration structurels, qui peuvent toucher à l’organisation plus globale.
+<p><b>L’idéal : passer en revue un ensemble de services</b> de votre administration et croiser les résultats afin de dégager des tendances et points d’amélioration structurels, qui peuvent toucher à l’organisation plus globale.</p>
 
 <h3>Pour vos services numériques en construction ou futurs</h3>
+<p style="margin-bottom: 0.5em"><b>Saisissez-vous dès maintenant du [référentiel général d’écoconception de services numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/ "référentiel général d’écoconception de services numériques - Lien externe")</b> et imprégnez-vous des 79 critères avec l’ensemble des équipes impliquées.</p>
+<p>Vous réfléchissez à la création d’un service numérique ? <b>Avant toute chose, posez-vous la question de sa raison d’être</b> et de sa pertinence pour répondre à un besoin : est-il nécessaire ? Une alternative non numérique est-elle envisageable et préférable ?</p>
 
-<b>Saisissez-vous dès maintenant du [référentiel général d’écoconception de services numériques](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/ "référentiel général d’écoconception de services numériques - Lien externe")</b> et imprégnez-vous des 79 critères avec l’ensemble des équipes impliquées.
-<br>Vous réfléchissez à la création d’un service numérique ? <b>Avant toute chose, posez-vous la question de sa raison d’être</b> et de sa pertinence pour répondre à un besoin : est-il nécessaire ? Une alternative non numérique est-elle envisageable et préférable ?
-
-<b>Puis tout au long de sa conception et de son développement,</b> référez-vous au RGESN pour suivre et vérifier votre conformité à toutes les étapes du projet.
+<p style="margin-bottom: 0.5em"><b>Puis tout au long de sa conception et de son développement,</b> référez-vous au RGESN pour suivre et vérifier votre conformité à toutes les étapes du projet.</p>
 
 <h3>Formez-vous et formez vos équipes gratuitement</h3>
-
-<p>La mission MiNumÉco propose des formations gratuites au numérique écoresponsable, ainsi qu’une sélection de formations en libre accès.
+<p style="margin-bottom: 0.5em">La mission MiNumÉco propose des formations gratuites au numérique écoresponsable, ainsi qu’une sélection de formations en libre accès.
 <br>D’une introduction en 10 minutes à un MOOC complet en 14 modules, vous pourrez sensibiliser et former vos équipes et vous-même, comprendre les enjeux, identifier les impacts environnementaux du numérique, vous initier aux bonnes pratiques, obtenir les clés pour mettre en place un plan d’action au niveau de votre organisation…</p>
 
-[> Découvrir notre sélection de formations](https://ecoresponsable.numerique.gouv.fr/formations/ "Découvrir notre sélection de formations - Lien externe")
+<p><a href="https://ecoresponsable.numerique.gouv.fr/formations/" title="Découvrir notre sélection de formations - Lien externe">> Découvrir notre sélection de formations</a></p>
+</div>
