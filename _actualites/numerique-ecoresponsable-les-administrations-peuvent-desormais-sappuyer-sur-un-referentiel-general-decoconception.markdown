@@ -26,6 +26,8 @@ Le document est conçu pour être opérationnel et concret : il explique pour ch
 
 Le référentiel est disponible dans plusieurs formats dont une version 100% en ligne.
 
+<div align="center" style="margin-bottom: 30px"><a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/" class="button"><b>Consulter le référentiel</b></a></div>
+
 ## L’écoconception, une stratégie globale
 
 Le référentiel vise avant tout l’impact. Chaque critère a été soigneusement élaboré et décrit dans cette optique. Le référentiel favorise une approche transversale et l’implication de l’ensemble des métiers, au-delà des directions du numérique et DSI. 
@@ -45,15 +47,17 @@ Un exemple concret ? Pour lutter contre l’obsolescence prématurée, un servic
 
 De manière à faciliter encore l’appropriation du référentiel par les administrations, un outil d’autodiagnostic est proposé en complément.
 
-NumÉcoDiag permet d’analyser soi-même, simplement, le niveau d’écoconception de son service numérique, au regard des 79 critères du référentiel.
+<a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/">NumÉcoDiag</a> permet d’analyser soi-même, simplement, le niveau d’écoconception de son service numérique, au regard des 79 critères du référentiel.
 
-Pas besoin de tableurs complexes ou de jongler entre différents documents et fenêtres. Sous la forme d’une extension web (« add-on ») à ajouter à son navigateur (Firefox, Chrome ou Edge), NumÉcoDiag est très simple à prendre en main.
+Pas besoin de tableurs complexes ou de jongler entre différents documents et fenêtres. Sous la forme d’une extension web (<span lang="en">« add-on »</span>) à ajouter à son navigateur (<a href="https://addons.mozilla.org/fr/firefox/addon/num%C3%A9codiag/">Firefox</a>, <a href="https://chrome.google.com/webstore/detail/num%C3%A9codiag/fhdeahmddgflanbgilcglipaeofmcabc?hl=fr" title="Chrome - Lien externe">Chrome</a> ou <a href="https://chrome.google.com/webstore/detail/num%C3%A9codiag/fhdeahmddgflanbgilcglipaeofmcabc?hl=fr" title="Chrome - Lien externe">Edge</a>), NumÉcoDiag est très simple à prendre en main.
 
 L’utilisateur ouvre si besoin son service numérique et affiche NumÉcoDiag en surimpression. Il y déroule les 79 critères, passe en revue son service numérique et la façon dont il a été conçu, et, sur chaque critère, en évalue la conformité et ajoute les annotations qu’il souhaite.
 
 Une fois l’autoévaluation réalisée, il obtient un score qu’il peut télécharger sous forme de badge à afficher sur son service ou dans toute communication, et peut exporter les résultats au format CSV.
 
 NumÉcoDiag va continuer à s’améliorer en fonction des retours des utilisateurs. Vous avez des remarques ? Contactez la MiNumÉco à [numerique-responsable.dinum@modernisation.gouv.fr](mailto:numerique-responsable.dinum@modernisation.gouv.fr "Ouvre une messagerie mail avec pour destinataire numerique-responsable.dinum@modernisation.gouv.fr").
+
+<div align="center" style="margin-bottom: 30px"><a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/" class="button"><b>Découvrir NumÉcoDiag</b></a></div>
 
 ## La transition écologique de l’État, une priorité
 
