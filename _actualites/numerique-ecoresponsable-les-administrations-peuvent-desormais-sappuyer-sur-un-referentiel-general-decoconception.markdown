@@ -53,7 +53,7 @@ L’utilisateur ouvre si besoin son service numérique et affiche NumÉcoDiag en
 
 Une fois l’autoévaluation réalisée, il obtient un score qu’il peut télécharger sous forme de badge à afficher sur son service ou dans toute communication, et peut exporter les résultats au format CSV.
 
-NumÉcoDiag va continuer à s’améliorer en fonction des retours des utilisateurs. Vous avez des remarques ? Contactez la MiNumÉco à [numerique-responsable.dinum@modernisation.gouv.fr](mailto:numerique-responsable.dinum@modernisation.gouv.fr).
+NumÉcoDiag va continuer à s’améliorer en fonction des retours des utilisateurs. Vous avez des remarques ? Contactez la MiNumÉco à [numerique-responsable.dinum@modernisation.gouv.fr](mailto:numerique-responsable.dinum@modernisation.gouv.fr "Ouvre une messagerie mail avec pour destinataire numerique-responsable.dinum@modernisation.gouv.fr").
 
 ## La transition écologique de l’État, une priorité
 
