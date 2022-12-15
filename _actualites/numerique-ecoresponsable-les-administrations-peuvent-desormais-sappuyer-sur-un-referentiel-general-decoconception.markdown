@@ -26,7 +26,7 @@ Le document est conçu pour être opérationnel et concret : il explique pour ch
 
 Le référentiel est disponible dans plusieurs formats dont une version 100% en ligne.
 
-<div align="center" style="margin-bottom: 30px"><a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/" class="button"><b>Consulter le référentiel</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/" class="button" title="Consulter le référentiel - Lien externe"><b>Consulter le référentiel</b></a></div>
 
 ## L’écoconception, une stratégie globale
 
@@ -57,7 +57,7 @@ Une fois l’autoévaluation réalisée, il obtient un score qu’il peut télé
 
 NumÉcoDiag va continuer à s’améliorer en fonction des retours des utilisateurs. Vous avez des remarques ? Contactez la MiNumÉco à [numerique-responsable.dinum@modernisation.gouv.fr](mailto:numerique-responsable.dinum@modernisation.gouv.fr "Ouvre une messagerie mail avec pour destinataire numerique-responsable.dinum@modernisation.gouv.fr").
 
-<div align="center" style="margin-bottom: 30px"><a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/" class="button"><b>Découvrir NumÉcoDiag</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/" class="button" title="Découvrir NumÉcoDiag - Lien externe"><b>Découvrir NumÉcoDiag</b></a></div>
 
 ## La transition écologique de l’État, une priorité
 
