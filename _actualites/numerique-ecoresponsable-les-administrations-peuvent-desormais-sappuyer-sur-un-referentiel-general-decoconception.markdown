@@ -12,6 +12,11 @@ chapeau-text: 'La DINUM lance un référentiel général d’écoconception de s
   et un outil d’auto-évaluation, « NumÉcoDiag ». '
 une-ou-diaporama:
 - image: "/uploads/Referentiel_general_ecoconception_de_services_numeriques_Actu_Une_800.jpg"
+style: |-
+  .center {
+    text-align: center;
+   font-size: 1.2em;
+  }
 ---
 
 La transition écologique passe aussi par la réduction de l’impact environnemental du numérique, et l’État se veut et se doit d’être exemplaire en la matière.
@@ -73,7 +78,7 @@ En permettant de concevoir des services numériques plus sobres, plus légers, m
 Si le référentiel et l’outil d’autoévaluation NumÉcoDiag sont conçus par l’État à destination des administrations, tous deux sont parfaitement utilisables par toute organisation, qu’elle soit publique, privée ou associative, souhaitant s’engager dans une démarche de numérique écoresponsable.
 
 <div class="encadre noir" style="margin-bottom:40px"><h2 style="margin-top: 40px; margin-bottom: 0">Administrations : passez à l’action</h2>
-<h3>Pour vos services numériques existants</h3>
+<div class="center"><p><b>1</b></p></div><h3>Pour vos services numériques existants</h3>
 <p style="margin-bottom: 0.5em"><b>Commencez par réaliser un autodiagnostic avec <a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/" title="NumÉcoDiag - Lien externe">NumÉcoDiag</a></b>, avec l’ensemble de l’équipe et des parties prenantes de votre service ou produit numérique. 
 <br>Il vous permettra de faire un état des lieux, d’identifier son niveau d’écoconception, ainsi que les actions à mener pour l’améliorer.</p>
 
