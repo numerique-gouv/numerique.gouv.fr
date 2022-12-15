@@ -10,6 +10,8 @@ tags:
 - Référentiel
 chapeau-text: 'La DINUM lance un référentiel général d’écoconception de services numériques
   et un outil d’auto-évaluation, « NumÉcoDiag ». '
+une-ou-diaporama:
+- image: "/uploads/Referentiel_general_ecoconception_de_services_numeriques_Actu_Une_800.jpg"
 ---
 
 La transition écologique passe aussi par la réduction de l’impact environnemental du numérique, et l’État se veut et se doit d’être exemplaire en la matière.
@@ -55,7 +57,7 @@ De manière à faciliter encore l’appropriation du référentiel par les admin
 
 <p>L’utilisateur ouvre si besoin son service numérique et affiche NumÉcoDiag en surimpression. Il y déroule les 79 critères, passe en revue son service numérique et la façon dont il a été conçu, et, sur chaque critère, en évalue la conformité et ajoute les annotations qu’il souhaite.</p>
 
-<figure class="image-center" style="width: 80%;"> 
+<figure class="image-center" style="width: 80%; margin-bottom: 2em"> 
 <img src="/uploads/numecodiag-resultats.jpg" alt="Capture d'écran de NumEcoDiag de la fonctionnalité affichant les résultats de l'autodiagnostic, sur laquelle on voit un diagramme et le total critères : A évaluer, Conformes, Non conformes, Non applicables, et le taux de conformité global en pourcentage" style="border:1px solid #d3d3d3"></figure>Une fois l’autoévaluation réalisée, il obtient un score qu’il peut télécharger sous forme de badge à afficher sur son service ou dans toute communication, et peut exporter les résultats au format CSV.
 
 NumÉcoDiag va continuer à s’améliorer en fonction des retours des utilisateurs. Vous avez des remarques ? Contactez la MiNumÉco à [numerique-responsable.dinum@modernisation.gouv.fr](mailto:numerique-responsable.dinum@modernisation.gouv.fr "Ouvre une messagerie mail avec pour destinataire numerique-responsable.dinum@modernisation.gouv.fr").
