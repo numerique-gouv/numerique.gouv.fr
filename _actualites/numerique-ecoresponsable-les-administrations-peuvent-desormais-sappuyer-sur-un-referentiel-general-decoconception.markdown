@@ -47,7 +47,9 @@ Un exemple concret ? Pour lutter contre l’obsolescence prématurée, un servic
 
 De manière à faciliter encore l’appropriation du référentiel par les administrations, un outil d’autodiagnostic est proposé en complément.
 
-<a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/">NumÉcoDiag</a> permet d’analyser soi-même, simplement, le niveau d’écoconception de son service numérique, au regard des 79 critères du référentiel.
+<figure class="image-center" style="width: 80%;"> 
+<img src="/uploads/numecodiag-critere.jpg" alt="Capture d'écran de NumEcoDiag sur laquelle on voit l'intitulé d'un critère, des cases à cocher A évaluer, Conforme, Non conforme, Non applicable et une zone de commentaire" style="border:1px solid #d3d3d3">
+</figure><a href="https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/numecodiag/">NumÉcoDiag</a> permet d’analyser soi-même, simplement, le niveau d’écoconception de son service numérique, au regard des 79 critères du référentiel.
 
 Pas besoin de tableurs complexes ou de jongler entre différents documents et fenêtres. Sous la forme d’une extension web (<span lang="en">« add-on »</span>) à ajouter à son navigateur (<a href="https://addons.mozilla.org/fr/firefox/addon/num%C3%A9codiag/">Firefox</a>, <a href="https://chrome.google.com/webstore/detail/num%C3%A9codiag/fhdeahmddgflanbgilcglipaeofmcabc?hl=fr" title="Chrome - Lien externe">Chrome</a> ou <a href="https://chrome.google.com/webstore/detail/num%C3%A9codiag/fhdeahmddgflanbgilcglipaeofmcabc?hl=fr" title="Chrome - Lien externe">Edge</a>), NumÉcoDiag est très simple à prendre en main.
 
