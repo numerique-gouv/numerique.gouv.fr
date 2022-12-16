@@ -61,7 +61,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-* **[Architecte technique/Services d’accès internet H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-expert-du-reseau-interministeriel-de-l-tat-hf-reference-2022-1071492/ "Architecte technique/Services d’accès internet H/F - Lien externe")**
+* **[Architecte technique/Services d’accès internet H/F](https://www.linkedin.com/jobs/view/3276823243/?refId=7wBBQhbLQEm9cxPZyy7PfA%3D%3D "Architecte technique/Services d’accès internet H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
