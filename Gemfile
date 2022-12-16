@@ -11,7 +11,8 @@ gem "tzinfo-data"
 #dependencies for algolia
 gem "pkg-config"
 
-gem "jekyll"
+gem "jekyll", '3.9.1'
+gem 'kramdown-parser-gfm'
 
 # Gem Requirements
 group :jekyll_plugins do
@@ -22,5 +23,3 @@ group :jekyll_plugins do
 end
 
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-gem "liquid-c"
-
