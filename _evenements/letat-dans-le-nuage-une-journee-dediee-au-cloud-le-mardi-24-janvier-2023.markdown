@@ -1,7 +1,6 @@
 ---
 title: 'L’État dans le nuage : une journée dédiée au Cloud le mardi 24 janvier 2023'
 date: 2022-12-16 15:23:00 +01:00
-published: false
 categories:
 - Journée d'échanges
 tags:
@@ -26,6 +25,9 @@ champs_informations:
 - intitule: Plus d'infos
   contenu: En savoir plus sur le Cloud pour les administrations
   Key: https://www.numerique.gouv.fr/services/cloud/
+- intitule: Une question ?
+  contenu: Contactez-nous
+  Key: mailto:infonuage.dinum@modernisation.gouv.fr
 ---
 
 Vous appartenez à une administration publique ? Que vous ayez un profil métier ou technique, en posture managériale ou membre d'équipe, cet évènement est fait pour vous !
