@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cimg/ruby:3.1.2-browsers
+      - image: cimg/ruby:2.7.2-browsers
     working_directory: ~/repo
     steps:
       - restore_cache:
@@ -30,7 +30,7 @@ jobs:
 
       - run:
           name: Bundle Install
-          command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+          command: gem install bundler || bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
 
       # Store bundle cache
       - save_cache:
@@ -98,7 +98,7 @@ jobs:
 
   deploy:
     docker:
-      - image: cimg/ruby:3.1.2-browsers
+      - image: cimg/ruby:2.7.2-browsers
     working_directory: ~/repo
     environment:
       - HOST_PRODUCTION: numerique.gouv.fr
@@ -134,7 +134,7 @@ jobs:
 
   test-js:
     docker:
-      - image: cimg/ruby:3.1.2-browsers
+      - image: cimg/ruby:2.7.2-browsers
     steps:
       - restore_cache:
           name: Restore Git Cache
@@ -176,7 +176,7 @@ jobs:
 
   index:
     docker:
-      - image: cimg/ruby:3.1.2-browsers
+      - image: cimg/ruby:2.7.2-browsers
     steps:
       - restore_cache:
           name: Restore Git Cache
@@ -203,7 +203,7 @@ jobs:
 
       - run:
           name: Bundle Install
-          command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+          command: gem install bundler || bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
 
       # Store bundle cache
       - save_cache:

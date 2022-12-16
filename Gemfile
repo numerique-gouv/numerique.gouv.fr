@@ -2,7 +2,7 @@ source "https://rubygems.org"
 ruby RUBY_VERSION
 
 # Ruby Requirement
-# ruby '2.2.3'
+# ruby '2.7.2'
 
 # Dependencies for Windows only
 gem "tzinfo"
