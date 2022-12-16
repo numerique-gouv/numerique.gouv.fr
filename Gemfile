@@ -9,9 +9,9 @@ gem "tzinfo"
 gem "tzinfo-data"
 
 #dependencies for algolia
-gem "pkg-config", "~> 1.1"
+gem "pkg-config"
 
-gem "jekyll", "~> 3.8"
+gem "jekyll"
 
 # Gem Requirements
 group :jekyll_plugins do

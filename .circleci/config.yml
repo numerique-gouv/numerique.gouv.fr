@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/ruby:2.3-node
+      - image: cimg/ruby:3.1.2-browsers
     working_directory: ~/repo
     steps:
       - restore_cache:
@@ -58,7 +58,7 @@ jobs:
             - node-v2-
       - run:
           name: Install Dependencies
-          command: yarn install
+          command: sudo apt-get update && sudo apt-get install -y python && yarn install
       - save_cache:
           name: Save Yarn Package Cache
           key: yarn-packages-v2-{{ .Branch }}-{{ checksum "yarn.lock" }}
@@ -98,7 +98,7 @@ jobs:
 
   deploy:
     docker:
-      - image: circleci/ruby:2.3-node
+      - image: cimg/ruby:3.1.2-browsers
     working_directory: ~/repo
     environment:
       - HOST_PRODUCTION: numerique.gouv.fr
@@ -134,7 +134,7 @@ jobs:
 
   test-js:
     docker:
-      - image: circleci/ruby:2.3-node
+      - image: cimg/ruby:3.1.2-browsers
     steps:
       - restore_cache:
           name: Restore Git Cache
@@ -160,7 +160,7 @@ jobs:
             - node-v2-{{ .Branch }}-
             - node-v2-
 
-      - run: yarn install
+      - run: sudo apt-get update && sudo apt-get install -y python && yarn install
 
       - run: mkdir ~/junit
 
@@ -176,7 +176,7 @@ jobs:
 
   index:
     docker:
-      - image: circleci/ruby:2.3-node
+      - image: cimg/ruby:3.1.2-browsers
     steps:
       - restore_cache:
           name: Restore Git Cache
@@ -231,7 +231,7 @@ jobs:
             - node-v2-
       - run:
           name: Install Dependencies
-          command: yarn install
+          command: sudo apt-get update && sudo apt-get install -y python && yarn install
       - save_cache:
           name: Save Yarn Package Cache
           key: yarn-packages-v2-{{ .Branch }}-{{ checksum "yarn.lock" }}
