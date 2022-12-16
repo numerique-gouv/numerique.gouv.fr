@@ -2,6 +2,10 @@
 title: 'L’État dans le nuage : une journée dédiée au Cloud le mardi 24 janvier 2023'
 date: 2022-12-16 15:23:00 +01:00
 published: false
+categories:
+- Journée d'échanges
+tags:
+- Cloud
 chapeau-text: |-
   Depuis la parution des circulaires relatives à la stratégie Cloud de l'État et à la doctrine d'utilisation du Cloud, la DINUM accompagne les administrations publiques dans l'adoption de cette technologie.
 
