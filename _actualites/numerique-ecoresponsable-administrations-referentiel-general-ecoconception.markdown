@@ -1,7 +1,7 @@
 ---
 title: 'Numérique écoresponsable : les administrations peuvent désormais s’appuyer
   sur un référentiel général d’écoconception'
-date: 2022-12-15 14:30:00 +01:00
+date: 2022-12-16 14:30:00 +01:00
 categories:
 - Article
 tags:
