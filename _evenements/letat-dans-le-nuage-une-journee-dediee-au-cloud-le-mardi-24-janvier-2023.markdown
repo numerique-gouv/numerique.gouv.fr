@@ -21,13 +21,13 @@ champs_informations:
   contenu: 8h30 - 17h
 - intitule: Modalités
   contenu: Evénement réservé aux agents publics, gratuit et avec inscription obligatoire.
-  Key: https://www.eventbrite.fr/e/billets-preinscription-letat-dans-le-nuage-une-journee-dediee-au-cloud-482510189967
+  lien: https://www.eventbrite.fr/e/billets-preinscription-letat-dans-le-nuage-une-journee-dediee-au-cloud-482510189967
 - intitule: Plus d'infos
   contenu: En savoir plus sur le Cloud pour les administrations
-  Key: https://www.numerique.gouv.fr/services/cloud/
+  lien: https://www.numerique.gouv.fr/services/cloud/
 - intitule: Une question ?
   contenu: Contactez-nous
-  Key: mailto:infonuage.dinum@modernisation.gouv.fr
+  lien: mailto:infonuage.dinum@modernisation.gouv.fr
 ---
 
 Vous appartenez à une administration publique ? Que vous ayez un profil métier ou technique, en posture managériale ou membre d'équipe, cet évènement est fait pour vous !
@@ -46,7 +46,7 @@ Vous appartenez à une administration publique ? Que vous ayez un profil métier
 * Ateliers participatifs.
 
 <div class="noir encadre" style="margin-bottom:30px;"><h3 class="h4">Passez au Cloud pour accélérer votre transformation numérique</h3>
-Pour faciliter le recours au Cloud, l’État met à la disposition des acteurs publics <a href="https://www.numerique.gouv.fr/services/cloud/"> deux offres de services Cloud</a>, qui se distinguent par la richesse des catalogues de services et différentes modalités de disponibilité, de réversibilité et de protection des données.
+<p>Pour faciliter le recours au Cloud, l’État met à la disposition des acteurs publics <a href="https://www.numerique.gouv.fr/services/cloud/"> deux offres de services Cloud</a>, qui se distinguent par la richesse des catalogues de services et différentes modalités de disponibilité, de réversibilité et de protection des données.
 
-Intitulée « Cloud au centre », cette doctrine fait du Cloud le prérequis pour tout nouveau projet numérique. Elle a été officialisée par le Premier ministre à travers <a href="https://www.legifrance.gouv.fr/circulaire/id/45205"> la circulaire du 5 juillet 2021</a>, sous l’impulsion de la ministre de la Transformation et de la Fonction publiques.
-</div>
+<li>Intitulée « Cloud au centre », cette doctrine fait du Cloud le prérequis pour tout nouveau projet numérique. Elle a été officialisée par le Premier ministre à travers <a href="https://www.legifrance.gouv.fr/circulaire/id/45205"> la circulaire du 5 juillet 2021</a>, sous l’impulsion de la ministre de la Transformation et de la Fonction publiques.</li>
+</p></div>
