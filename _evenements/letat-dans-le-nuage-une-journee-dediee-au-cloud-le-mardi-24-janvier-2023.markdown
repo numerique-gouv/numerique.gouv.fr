@@ -21,8 +21,11 @@ champs_informations:
 - intitule: Horaires
   contenu: 8h30 - 17h
 - intitule: Modalités
-  contenu: Inscription obligatoire
+  contenu: Evénement réservé aux agents publics, gratuit et avec inscription obligatoire.
   Key: https://www.eventbrite.fr/e/billets-preinscription-letat-dans-le-nuage-une-journee-dediee-au-cloud-482510189967
+- intitule: Plus d'infos
+  contenu: En savoir plus sur le Cloud pour les administrations
+  Key: https://www.numerique.gouv.fr/services/cloud/
 ---
 
 Vous appartenez à une administration publique ? Que vous ayez un profil métier ou technique, en posture managériale ou membre d'équipe, cet évènement est fait pour vous !
@@ -32,7 +35,7 @@ Vous appartenez à une administration publique ? Que vous ayez un profil métier
 
 * Table ronde animée par la DGFIP et le Ministère de l’intérieur : *« Quelles sont les ambitions de demain pour le Cloud interne interministériel ? »* ;
 
-* Table ronde avec Clever Cloud, platform.sh et Scalingo : *« Les solutions françaises de PaaS existent, venez les découvrir ! »*
+* Table ronde avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr) : *« Les solutions françaises de PaaS existent, venez les découvrir ! »*
 
 * Stands DGFIP, Ministère de l’intérieur, Clever Cloud, platform.sh et Scalingo : venez échanger et prendre part aux démonstrations de leurs solutions Cloud ;
 
