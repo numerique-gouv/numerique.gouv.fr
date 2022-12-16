@@ -21,7 +21,8 @@ champs_informations:
 - intitule: Horaires
   contenu: 8h30 - 17h
 - intitule: Modalités
-  contenu: Evénement réservé aux agents publics, gratuit et avec inscription obligatoire.
+  contenu: Evénement gratuit réservé aux agents publics, inscription obligatoire avant
+    le 11/01.
   lien: https://www.eventbrite.fr/e/billets-preinscription-letat-dans-le-nuage-une-journee-dediee-au-cloud-482510189967
 - intitule: Plus d'infos
   contenu: En savoir plus sur le Cloud pour les administrations
