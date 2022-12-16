@@ -39,9 +39,9 @@ jobs:
 #          paths:
 #            - vendor/bundle
 
-      - run:
-          name: change yarn cache config
-          command: yarn config set cache-folder ~/.repo/yarn-cache
+#      - run:
+#          name: change yarn cache config
+#          command: yarn config set cache-folder ~/.repo/yarn-cache
 
 #      - restore_cache:
 #          name: Restore Yarn Package Cache
