@@ -27,7 +27,7 @@
     "gulp-imagemin": "^4.1.0",
     "gulp-load-plugins": "^1.5.0",
     "gulp-modernizr": "^3.0.0",
-    "gulp-sass": "^4.0.1",
+    "gulp-sass": "4.1.1",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify": "^3.0.1",
     "hamburgers": "^0.9.3",

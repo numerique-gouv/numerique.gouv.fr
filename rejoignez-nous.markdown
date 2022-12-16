@@ -45,6 +45,14 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Ingénieur(e) réseau H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieure-reseau-hf-reference-2022-1040856/ "Ingénieur(e) réseau H/F - Lien externe")**
+<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
+<br>
+
+* **[Ingénieur(e) réseau sécurité H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieure-reseau-securite-cdd-3-ans-renouvelable-hf-reference-2022-1039720/ "Ingénieur(e) réseau sécurité H/F - Lien externe")**
+<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
+<br>
+
 * **[Chef/fe de projet : Hub d'échange de l’État H/F](https://place-emploi-public.gouv.fr/offre-emploi/chef-fe-de-projet--hub-d-echange-de-l-etat-cdd-3-ans-renouvelable-hf-reference-2022-960663/ "Chef/fe de projet : Hub d'échange de l’État H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -53,7 +61,17 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
+* **[Architecte technique/Services d’accès internet H/F](https://www.linkedin.com/jobs/view/3276823243/?refId=7wBBQhbLQEm9cxPZyy7PfA%3D%3D "Architecte technique/Services d’accès internet H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
 
+* **[Architecte expert du réseau interministériel de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-expert-du-reseau-interministeriel-de-l-tat-hf-reference-2022-1071492/ "Architecte expert du réseau interministériel de l'État H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Responsable des opérations du programme Entrepreneurs d'intérêt général H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-des-operations-du-programme-entrepreneurs-d-interet-general-hf-reference-2022-1029376/ "Responsable des opérations du programme Entrepreneurs d'intérêt général H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
 
 <div class="encadre noir"><h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
