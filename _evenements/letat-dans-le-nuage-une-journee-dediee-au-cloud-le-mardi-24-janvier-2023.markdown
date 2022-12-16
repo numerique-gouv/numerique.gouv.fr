@@ -10,6 +10,19 @@ chapeau-text: |-
   Depuis la parution des circulaires relatives à la stratégie Cloud de l'État et à la doctrine d'utilisation du Cloud, la DINUM accompagne les administrations publiques dans l'adoption de cette technologie.
 
   Dans le cadre de cet accompagnement des acteurs publics et de l’évolution des pratiques numériques, l'équipe Cloud de la DINUM a le plaisir de vous convier à une journée dédiée au Cloud !
+event_start_date: 2023-01-24 08:30:00 +01:00
+lieu: Lieu de la transformation publique
+adresse: 77 avenue de Ségur, Paris 15
+champs_informations:
+- intitule: Comment y aller ?
+  contenu: 'Métro ➅ Cambronne ➇ La Motte Piquet - Grenelle ➉ Ségur '
+- intitule: Date
+  contenu: Mardi 24 janvier
+- intitule: Horaires
+  contenu: 8h30 - 17h
+- intitule: Modalités
+  contenu: Inscription obligatoire
+  Key: https://www.eventbrite.fr/e/billets-preinscription-letat-dans-le-nuage-une-journee-dediee-au-cloud-482510189967
 ---
 
 Vous appartenez à une administration publique ? Que vous ayez un profil métier ou technique, en posture managériale ou membre d'équipe, cet évènement est fait pour vous !
