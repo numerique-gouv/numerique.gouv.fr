@@ -2,7 +2,6 @@ const browser       = require ("browser-sync");
 const yargs         = require ('yargs');
 const $             = require('gulp-load-plugins')();
 const gulp          = require('gulp');
-const sass          = require('gulp-sass');
 const COMPATIBILITY = require('../util/loadConfig').COMPATIBILITY;
 const SASS          = require('../util/loadConfig').SASS;
 const PRODUCTION = !!(yargs.argv.production);
