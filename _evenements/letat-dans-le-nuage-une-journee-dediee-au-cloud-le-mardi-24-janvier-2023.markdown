@@ -1,7 +1,6 @@
 ---
 title: 'L’État dans le nuage : une journée dédiée au Cloud le mardi 24 janvier 2023'
 date: 2022-12-16 15:23:00 +01:00
-published: false
 categories:
 - Journée d'échanges
 tags:
