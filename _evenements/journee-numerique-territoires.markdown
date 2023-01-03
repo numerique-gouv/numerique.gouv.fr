@@ -30,11 +30,11 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 *\[Programme détaillé\]*
 
-### **\[9h–10h\]** Accueil des participants
+#### **\[9h–10h\]** Accueil des participants
 
 *Accueil café / petit déjeuner*
 
-### **\[10h–12h30\]** 1ère séquence plénière : Fonds « Transformation numérique des collectivités territoriales » : quels résultats 2 ans après ? »
+#### **\[10h–12h30\]** 1ère séquence plénière : Fonds « Transformation numérique des collectivités territoriales » : quels résultats 2 ans après ? »
 
 *Quels types de projets ont été financés ? Quelles collectivités ont bénéficié des près de 88 millions € accordés ? Quelles améliorations de services pour les usagers et quels bénéfices pour les agents ?*
 
@@ -54,10 +54,12 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 Des pitchs de présentation / démonstration de projets lauréats sont également prévus.
 
-### **\[14h–16h\]** 2e séquence plénière : Table-ronde « Comment accélérer la mutualisation des produits et services numériques entre acteurs publics ? »
+#### **\[14h–16h\]** Table-ronde « Comment accélérer la mutualisation des produits et services numériques entre acteurs publics ? »
+2e séquence plénière
 
 *Le panel sera composé d’intervenants issus de l’administration centrale (DINUM, DITP, ANCT), de représentants de collectivités territoriales et de structures de mutualisation.*
 
-### **\[16h–17h30\]** Un « Forum » regroupant des stands d’équipes de la DINUM, de la DITP et de l’ANCT permettant aux participants d’échanger directement avec les équipes de différents produits et services numériques d’intérêt pour appuyer la transformation numérique des territoires (API, France Connect, Incubateur des territoires, Laboratoires d’innovation territoriale, etc.)
+#### **\[16h–17h30\]** Un « Forum » sur la transformation numérique des territoires
+*Ce forum regroupera des stands d’équipes de la DINUM, de la DITP et de l’ANCT permettant aux participants d’échanger directement avec les équipes de différents produits et services numériques d’intérêt pour appuyer la transformation numérique des territoires (API, France Connect, Incubateur des territoires, Laboratoires d’innovation territoriale, etc.)*
 
 Pour participez à notre Journée Numérique & Territoires, rendez-vous [ici. ](https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307 "https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307") Vous pourrez choisir entre une participation en présentiel ou à distance. Nous encourageons toutefois vivement une participation *in situ* afin de suivre au mieux les échanges. Le nombre de places étant limité, nous vous invitons à confirmer votre présence avant le 6 janvier 2023.
