@@ -3,12 +3,12 @@ title: Journée Numérique & Territoires
 date: 2022-12-27 11:13:00 +01:00
 categories:
 - Journée d'échanges
-chapeau-text: La Direction interministérielle du numérique (DINUM), l’Agence nationale
-  de la cohésion des territoires (ANCT) et la Direction interministérielle de la Transformation
-  Publique (DITP) vous convient à la première édition de la Journée Numérique & Territoires,
+chapeau-text: La direction interministérielle du numérique (DINUM), l’Agence nationale
+  de la cohésion des territoires (ANCT) et la direction interministérielle de la transformation
+  publique (DITP) vous convient à la première édition de la Journée Numérique & Territoires,
   le mercredi 18 janvier 2023 ! Cette première Journée, associant État et collectivités
   territoriales, valorisera les projets du fonds « Transformation numérique des collectivités
-  territoriales » du Plan France Relance.
+  territoriales » du plan France Relance.
 event_start_date: 2023-01-18 09:00:00 +01:00
 event_end_date: 2023-01-18 17:30:00 +01:00
 lieu: 'Direction interministérielle du numérique '
