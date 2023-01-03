@@ -1,7 +1,7 @@
 ---
 title: 'Feuille de route du numérique public : la DINUM s’inspire des travaux de ses
   homologues européens'
-date: 2023-01-03 15:18:00 +01:00
+date: 2023-01-03 17:18:00 +01:00
 categories:
 - Article
 tags:
@@ -21,12 +21,17 @@ L’objectif de ce premier déplacement international : s'inspirer des meilleure
 <p><a href="https://france-relance.transformation.gouv.fr/" title="En savoir plus - Lien externe">> En savoir plus</a></p></div>
 
 ## Interopérabilité, open source, identité numérique…
+
 Comme tous les six mois, cette réunion informelle des DSI européens s’est tenue sous la présidence semestrielle du Conseil de l’UE, assurée actuellement par la République tchèque, en marge d’une Conférence grand public sur l’administration numérique (<span lang="en"><a href="https://snsu.cz/en/" title="« Smooth Navigation through the online World of Public Administration 2022 » - Lien externe">« Smooth Navigation through the online World of Public Administration 2022 »</a></span>).
 
 La réunion a été l’occasion pour les États membres d’échanger sur leurs défis et leurs bonnes pratiques en matière de numérique public, en particulier sur :
+
 * **l’interopérabilité :** la proposition de règlement européen sur l’interopérabilité des services publics, dont l’un des objectifs est de doter le numérique public européen de nouvelles instances de gouvernance plus formelles ;
+
 * **l’open source :** la coopération entre pays européens en matière de solutions open source pour les administrations, dans l’optique de respecter les impératifs de souveraineté de celles-ci ;
+
 * **l’évaluation de la transformation numérique des administrations :** faire en sorte que les indicateurs et benchmarks proposés par la Commission européenne demeurent les plus pertinents et utiles ;
+
 * **l’identité et les portefeuilles numériques :** tour d’horizon des expériences et bonnes pratiques nationales en la matière, dans le contexte de la révision du règlement européen sur l’authentification électronique et les services de confiance (eIDAS 2.0).
 
 Ces premiers échanges internationaux entre la DINUM et ses homologues européens ont permis de nouer des relations qui se poursuivront dans les mois à venir.
