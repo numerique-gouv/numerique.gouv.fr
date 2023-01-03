@@ -34,25 +34,23 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 *Accueil café / petit déjeuner*
 
-### 
-
 ### **\[10h–12h30\]** 1ère séquence plénière : Fonds « Transformation numérique des collectivités territoriales » : quels résultats 2 ans après ? »
 
 *Quels types de projets ont été financés ? Quelles collectivités ont bénéficié des près de 88 millions € accordés ? Quelles améliorations de services pour les usagers et quels bénéfices pour les agents ?*
 
 **Intervenants**
 
-· Patrick Ruestchmann, Chef de la Mission Transformation numérique de l’État, Direction interministérielle du numérique (DINUM)
+* **Patrick Ruestchmann**, Chef de la Mission Transformation numérique de l’État, Direction interministérielle du numérique (DINUM)
 
-· Caroline Corbal, Directrice de la mission Incubateur des Territoires, Agence nationale de la cohésion des territoires (ANCT)
+* **Caroline Corbal**, Directrice de la mission Incubateur des Territoires, Agence nationale de la cohésion des territoires (ANCT)
 
-· Maria Cotora, Cheffe du programme Transformation numérique des Territoires, Direction interministérielle du numérique (DINUM)
+* **Maria Cotora**, Cheffe du programme Transformation numérique des Territoires, Direction interministérielle du numérique (DINUM)
 
-· Claire Orosco, Responsable du Fonds pour la Transformation de l’Action Publique, Direction interministérielle de la transformation publique (DITP)
+* **Claire Orosco**, Responsable du Fonds pour la Transformation de l’Action Publique, Direction interministérielle de la transformation publique (DITP)
 
-· Amélie Durozoy, Coordinatrice du Réseau des Laboratoires d’Innovation, Direction interministérielle de la transformation publique (DITP)
+* **Amélie Durozoy**, Coordinatrice du Réseau des Laboratoires d’Innovation, Direction interministérielle de la transformation publique (DITP)
 
-· Gwenaëlle Martinet, conseillère auprès du directeur général, cheffe de projet « France Relance », Agence nationale de la sécurité des systèmes d'information (ANSSI)
+* **Gwenaëlle Martinet**, conseillère auprès du directeur général, cheffe de projet « France Relance », Agence nationale de la sécurité des systèmes d'information (ANSSI)
 
 Des pitchs de présentation / démonstration de projets lauréats sont également prévus.
 
@@ -62,4 +60,4 @@ Des pitchs de présentation / démonstration de projets lauréats sont égalemen
 
 ### **\[16h–17h30\]** Un « Forum » regroupant des stands d’équipes de la DINUM, de la DITP et de l’ANCT permettant aux participants d’échanger directement avec les équipes de différents produits et services numériques d’intérêt pour appuyer la transformation numérique des territoires (API, France Connect, Incubateur des territoires, Laboratoires d’innovation territoriale, etc.)
 
-Pour participez à notre Journée Numérique & Territoires, rendez-vous [ici. ](https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307 "https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307") Vous pourrez choisir entre une participation en présentiel ou à distance. Nous encourageons toutefois vivement une participation in situ afin de suivre au mieux les échanges. Le nombre de places étant limité, nous vous invitons à confirmer votre présence avant le 6 janvier 2023.
+Pour participez à notre Journée Numérique & Territoires, rendez-vous [ici. ](https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307 "https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307") Vous pourrez choisir entre une participation en présentiel ou à distance. Nous encourageons toutefois vivement une participation *in situ* afin de suivre au mieux les échanges. Le nombre de places étant limité, nous vous invitons à confirmer votre présence avant le 6 janvier 2023.
