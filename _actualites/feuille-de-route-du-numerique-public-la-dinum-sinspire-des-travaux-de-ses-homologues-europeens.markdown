@@ -2,11 +2,17 @@
 title: 'Feuille de route du numérique public : la DINUM s’inspire des travaux de ses
   homologues européens'
 date: 2023-01-03 15:18:00 +01:00
+categories:
+- Article
+tags:
+- International
 chapeau-text: La directrice interministérielle du numérique Stéphanie Schaer a rencontré
   la semaine dernière ses homologues européens, à l'occasion de la réunion informelle
   des directeurs et directrices des systèmes d’information (*Chief Information Officers*
   ou CIO) des 27 États membres de l’Union européenne (UE) qui se tenait à Prague mercredi
   23 novembre 2022.
+une-ou-diaporama:
+- image: "/uploads/prague_schaer_CIO_une800.png"
 ---
 
 L’objectif de ce premier déplacement international : s'inspirer des meilleures pratiques européennes afin de nourrir la feuille de route de la direction interministérielle du numérique (DINUM), [en cours de construction](/actualites/numerique-ecoresponsable-administrations-referentiel-general-ecoconception/). Mais aussi dégager des pistes de collaborations futures en bilatérales ou multilatérales, en vue de mutualiser les efforts et les ressources en matière de numérique public pour les administrations européennes.
