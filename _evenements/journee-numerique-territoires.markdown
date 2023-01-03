@@ -9,8 +9,7 @@ chapeau-text: La direction interministérielle du numérique (DINUM), l’Agence
   le mercredi 18 janvier 2023 ! Cette première Journée, associant État et collectivités
   territoriales, valorisera les projets du fonds « Transformation numérique des collectivités
   territoriales » du plan France Relance.
-event_start_date: 2023-01-18 09:00:00 +01:00
-event_end_date: 2023-01-18 17:30:00 +01:00
+event_start_date: 2023-01-18 00:00:00 +01:00
 lieu: 'Direction interministérielle du numérique '
 adresse: 20 avenue de Ségur, 75007 Paris (présentiel) et visioconférence
 champs_informations:
