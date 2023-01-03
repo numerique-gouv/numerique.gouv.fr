@@ -1,6 +1,7 @@
 ---
 title: Journée Numérique & Territoires
 date: 2022-12-27 11:13:00 +01:00
+published: false
 categories:
 - Journée d'échanges
 chapeau-text: La direction interministérielle du numérique (DINUM), l’Agence nationale
