@@ -1,6 +1,7 @@
 ---
 title: 'TECH.GOUV : Stratégie et feuille de route 2019-2022 - édition actualisée mi-2021'
 date: 2019-04-16 00:00:00 +02:00
+published: false
 tags:
 - TECH.GOUV
 - transformation numérique
