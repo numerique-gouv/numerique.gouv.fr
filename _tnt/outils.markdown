@@ -70,7 +70,7 @@ Un guide d’utilisation vous est proposé afin de faciliter la prise en main du
 <h4>Contribuez au catalogue en ajoutant les ressources produites par votre structure </h4>
 Tous les utilisateurs du catalogue ont également la possibilité de contribuer au catalogue et à son actualisation en soumettant une ressource à référencer. 
 Vous êtes un acteur public et souhaitez référencer une ressource (guide, fiche pratique, webinaire, outil..) dans le catalogue afin qu’elle soit portée à la visibilité de toutes les collectivités territoriales ? 
-<div align="left"><a href="https://airtable.com/shrAwnPQWvIPKfVmD" class="button" title="Proposez des ressources à ajouter - Lien externe"><b>Proposez des ressources à ajouter</b></a></div>
+<div align="left"><a href="https://airtable.com/shrAwnPQWvIPKfVmD" class="button" title="Proposer des ressources à ajouter - Lien externe"><b>Proposer des ressources à ajouter</b></a></div>
 <br>
 <br>
 
