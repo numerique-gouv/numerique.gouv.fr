@@ -26,11 +26,11 @@ Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités
 
 L’agenda a une visée évolutive et sera alimenté régulièrement.
 
-Les collectivités sont également invitées à faire part de leur avis sur chaque dispositif présenté dans l’agenda, afin de remonter leur retour d’expérience, difficultés éventuelles de mise en œuvre et améliorations constatées (du service aux usagers, des processus internes, des échanges avec les services de l’État, etc).
+* Les collectivités sont également invitées à faire part de leur avis sur chaque dispositif présenté dans l’agenda, afin de remonter leur retour d’expérience, difficultés éventuelles de mise en œuvre et améliorations constatées (du service aux usagers, des processus internes, des échanges avec les services de l’État, etc).
 
-Aidez-nous aussi à améliorer cet agenda (contenu, interface…) en répondant à [l’enquête de satisfaction dédiée](https://sgmap.sphinxdeclic.com/surveyserver/s/ifeb7o "l’enquête de satisfaction dédiée - Lien externe").
+* Aidez-nous aussi à améliorer cet agenda (contenu, interface…) en répondant à [l’enquête de satisfaction dédiée](https://sgmap.sphinxdeclic.com/surveyserver/s/ifeb7o "l’enquête de satisfaction dédiée - Lien externe").
 
-Vous êtes une direction ministérielle et pilotez un chantier de transformation numérique qui aura un impact pour les collectivités territoriales ? Faites-le ajouter dans cet agenda pour le porter à leur connaissance, en renseigner les jalons et obligations à l’adresse des collectivités. Pour cela, contactez le programme TNT à [tnt.dinum@modernisation.gouv.fr](mailto:tnt.dinum@modernisation.gouv.fr).
+* Vous êtes une direction ministérielle et pilotez un chantier de transformation numérique qui aura un impact pour les collectivités territoriales ? Faites-le ajouter dans cet agenda pour le porter à leur connaissance, en renseigner les jalons et obligations à l’adresse des collectivités. Pour cela, contactez le programme TNT à [tnt.dinum@modernisation.gouv.fr](mailto:tnt.dinum@modernisation.gouv.fr).
 <br>
 <br>
 
@@ -58,18 +58,19 @@ L’objectif du catalogue est ainsi de donner à voir et faciliter l’appropria
 <div class="panel-center">
 <p class="text-center"><a href="https://airtable.com/embed/shr7lvpggEc6yry9C?backgroundColor=yellowLight&viewControls=on" title="Accéder au catalogue des ressources de sensibilisation à la cybersécurité - Lien externe"><img src="/uploads/capture-catalogue-cybersecurite.png" style="border:solid 1px #dedede;" width="250" alt="Accéder au catalogue des ressources de sensibilisation à la cybersécurité - Lien externe"></a></p>
 <b>Catalogue des ressources de sensibilisation à la cybersécurité</b>
-<div align="center"><a href="https://airtable.com/embed/shr7lvpggEc6yry9C?backgroundColor=yellowLight&viewControls=on" class="button" title="Accéder au catalogue des ressources de sensibilisation à la cybersécurité - Lien externe"><b>Accéder à l'agenda</b></a></div>
+<div align="center"><a href="https://airtable.com/embed/shr7lvpggEc6yry9C?backgroundColor=yellowLight&viewControls=on" class="button" title="Accéder au catalogue des ressources de sensibilisation à la cybersécurité - Lien externe"><b>Accéder au catalogue</b></a></div>
 </div>
 </div>
 <br>
 
-<h4>Un guide d’utilisation pour prendre en main le catalogue et l’intégrer à votre site</h4>
-Un guide d’utilisation  vous est également proposé afin de faciliter sa prise en main et vous permettre de le partager sur votre page web. 
+<h4>Guide d’utilisation pour prendre en main le catalogue et l’intégrer à votre site</h4>
+Un guide d’utilisation vous est proposé afin de faciliter la prise en main du catalogue et vous permettre de le partager facilement sur votre site web. 
+<div align="left"><a href="/uploads/guide-utilisation-catalogue-cybersecurite.pdf" class="button" title="Télécharger le guide - Lien externe"><b>Télécharger le guide (pdf, 1,6 Mo)</b></a></div>
 
 <h4>Contribuez au catalogue en ajoutant les ressources produites par votre structure </h4>
 Tous les utilisateurs du catalogue ont également la possibilité de contribuer au catalogue et à son actualisation en soumettant une ressource à référencer. 
 Vous êtes un acteur public et souhaitez référencer une ressource (guide, fiche pratique, webinaire, outil..) dans le catalogue afin qu’elle soit portée à la visibilité de toutes les collectivités territoriales ? 
-<div align="center"><a href="https://airtable.com/shrAwnPQWvIPKfVmD" class="button" title="Proposez des ressources à ajouter - Lien externe"><b>Proposez des ressources à ajouter</b></a></div>
+<div align="left"><a href="https://airtable.com/shrAwnPQWvIPKfVmD" class="button" title="Proposez des ressources à ajouter - Lien externe"><b>Proposez des ressources à ajouter</b></a></div>
 
 
 
