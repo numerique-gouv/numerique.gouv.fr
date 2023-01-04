@@ -20,8 +20,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 layout: tnt
 ---
 
-<h3 id="livrables-agenda">Agenda de la transformation numérique</h3>
-<h4>Agenda de la transformation numérique des collectivités territoriales (2018-2024)</h4>
+<h3 id="livrables-agenda">Agenda de la transformation numérique des collectivités territoriales (2018-2024)</h3>
 
 Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités une visibilité sur les chantiers de transformation numérique les impactant et leur permettre ainsi de mieux en anticiper les obligations et opportunités liées. 
 
