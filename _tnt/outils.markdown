@@ -45,7 +45,7 @@ Vous êtes une direction ministérielle et pilotez un chantier de transformation
 <br>
 
 
-<a href="/uploads/agenda_de_la_transformation_numerique_des_collectivites_territoriales_2018_2024.pdf">> Télécharger l'agenda en version pdf (pdf, 200 ko)</a>
+<a href="/uploads/AgendaTransformationNumeriqueCollTer_VersionAccessible.pdf">> Télécharger l'agenda en version accessible (pdf, 460 ko)</a>
 <br>
 <br>
 
