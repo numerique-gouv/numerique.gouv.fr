@@ -83,7 +83,7 @@ Dans cette perspective, et afin d’accompagner au mieux les collectivités dans
 
 Pour obtenir des compléments d’informations sur ces travaux ou accéder à toute documentation utile, accédez à [l’espace Osmose du groupe projet « Accompagnement des collectivités au déploiement de Démat. ADS »](https://osmose.numerique.gouv.fr/jcms/c_2074992/demat-ads-permis-de-construire-en-ligne) ou [demandez à le rejoindre](https://airtable.com/shrJ1X2yRfQTkycFD "demandez à le rejoindre - Lien externe").
 
-<div align="center"><h4><b>Vos outils</b></h4></div>
+<h4>Vos outils</h4>
 
 <div class="wrapper">
 <div class="panel">
