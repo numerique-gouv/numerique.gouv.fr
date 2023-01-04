@@ -1,7 +1,6 @@
 ---
 title: 'L’État dans le nuage : une journée dédiée au Cloud le mardi 24 janvier 2023'
 date: 2022-12-16 15:23:00 +01:00
-published: false
 categories:
 - Journée d'échanges
 tags:
@@ -37,7 +36,7 @@ Vous appartenez à une administration publique ? Que vous ayez un profil métier
 ### Au programme de cette journée :
 * Intervention de **Philippe Merle**, président du Conseil Cloud de la Commission européenne : *« Le Cloud : entre rupture et transformation »* ;
 
-* Table ronde animée par la DGFIP et le Ministère de l’intérieur : *« Quelles sont les ambitions de demain pour le Cloud interne interministériel ? »* ;
+* Table ronde animée par la DGFiP et le Ministère de l’intérieur : *« Quelles sont les ambitions de demain pour le Cloud interne interministériel ? »* ;
 
 * Table ronde avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr) : *« Les solutions françaises de PaaS existent, venez les découvrir ! »*
 
