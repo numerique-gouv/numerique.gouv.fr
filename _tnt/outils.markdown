@@ -1,9 +1,9 @@
 ---
-title: Outils
+title: Productions
 date: 2021-11-19 14:11:00 +01:00
 permalink: "/services/tnt/outils/"
 menu:
-  title: Outils
+  title: Productions
   weight: 40
 une:
   image: "/uploads/TNT_Bandeau_Page-fille.png"
@@ -26,11 +26,11 @@ Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités
 
 L’agenda a une visée évolutive et sera alimenté régulièrement.
 
-Les collectivités sont également invitées à faire part de leur avis sur chaque dispositif présenté dans l’agenda, afin de remonter leur retour d’expérience, difficultés éventuelles de mise en œuvre et améliorations constatées (du service aux usagers, des processus internes, des échanges avec les services de l’État, etc).
+* Les collectivités sont également invitées à faire part de leur avis sur chaque dispositif présenté dans l’agenda, afin de remonter leur retour d’expérience, difficultés éventuelles de mise en œuvre et améliorations constatées (du service aux usagers, des processus internes, des échanges avec les services de l’État, etc).
 
-Aidez-nous aussi à améliorer cet agenda (contenu, interface…) en répondant à [l’enquête de satisfaction dédiée](https://sgmap.sphinxdeclic.com/surveyserver/s/ifeb7o "l’enquête de satisfaction dédiée - Lien externe").
+* Aidez-nous aussi à améliorer cet agenda (contenu, interface…) en répondant à [l’enquête de satisfaction dédiée](https://sgmap.sphinxdeclic.com/surveyserver/s/ifeb7o "l’enquête de satisfaction dédiée - Lien externe").
 
-Vous êtes une direction ministérielle et pilotez un chantier de transformation numérique qui aura un impact pour les collectivités territoriales ? Faites-le ajouter dans cet agenda pour le porter à leur connaissance, en renseigner les jalons et obligations à l’adresse des collectivités. Pour cela, contactez le programme TNT à [tnt.dinum@modernisation.gouv.fr](mailto:tnt.dinum@modernisation.gouv.fr).
+* Vous êtes une direction ministérielle et pilotez un chantier de transformation numérique qui aura un impact pour les collectivités territoriales ? Faites-le ajouter dans cet agenda pour le porter à leur connaissance, en renseigner les jalons et obligations à l’adresse des collectivités. Pour cela, contactez le programme TNT à [tnt.dinum@modernisation.gouv.fr](mailto:tnt.dinum@modernisation.gouv.fr).
 <br>
 <br>
 
@@ -44,29 +44,46 @@ Vous êtes une direction ministérielle et pilotez un chantier de transformation
 <br>
 
 
-<a href="/uploads/agenda_de_la_transformation_numerique_des_collectivites_territoriales_2018_2024.pdf">> Télécharger l'agenda en version pdf (pdf, 200 ko)</a>
+<a href="/uploads/AgendaTransformationNumeriqueCollTer_VersionAccessible.pdf">> Télécharger l'agenda en version accessible (pdf, 460 ko)</a>
 <br>
 <br>
 
-<h3 id="livrables-sensibilisation">Sensibilisation des élus et cadres dirigeants des collectivités</h3>
-Le groupe projet 2, dédié à la sensibilisation des élus et cadres dirigeants des collectivités aux enjeux de la transformation numérique, a conçu et diffusé auprès des élus une enquête afin de sonder leur perception du numérique, les possibilités de formation déjà existantes, et d’identifier la thématique liée au numérique qui suscite le plus leur intérêt.
+<h3 id="cybersecurite">Cybersécurité</h3>
+<h4>Catalogue des ressources de sensibilisation à la cybersécurité</h4>
 
-Les résultats permettront de construire l’offre de sensibilisation et/ou de formation la plus adaptée.
+Issu du groupe projet 5, le catalogue des ressources dédiées à la cybersécurité référence des ressources produites par des acteurs publics permettant aux élus et agents des collectivités territoriales de comprendre les menaces numériques, savoir comment y réagir et les bonnes pratiques à adopter pour assurer sa sécurité numérique.
+L’objectif du catalogue est ainsi de donner à voir et faciliter l’appropriation de ces outils par les collectivités de toutes tailles, en permettant une recherche simplifiée selon le besoin de chaque acteur. Il n’a pas vocation à couvrir l’ensemble des champs de la cybersécurité mais constitue une base documentaire qualifiée de ressources de sensibilisation autour des enjeux de cybersécurité. 
 
-**Vous êtes un élu territorial ? [Répondez à l’enquête](https://framaforms.org/etude-sur-la-sensibilisation-au-numerique-a-destination-des-elus-locaux-1634572242)** (jusqu’au 8 décembre 2021).
+<div class="wrapper">
+<div class="panel-center">
+<p class="text-center"><a href="https://airtable.com/embed/shr7lvpggEc6yry9C?backgroundColor=yellowLight&viewControls=on" title="Accéder au catalogue des ressources de sensibilisation à la cybersécurité - Lien externe"><img src="/uploads/capture-catalogue-cybersecurite.png" style="border:solid 1px #dedede;" width="250" alt="Accéder au catalogue des ressources de sensibilisation à la cybersécurité - Lien externe"></a></p>
+<b>Catalogue des ressources de sensibilisation à la cybersécurité</b>
+<div align="center"><a href="https://airtable.com/embed/shr7lvpggEc6yry9C?backgroundColor=yellowLight&viewControls=on" class="button" title="Accéder au catalogue des ressources de sensibilisation à la cybersécurité - Lien externe"><b>Accéder au catalogue</b></a></div>
+</div>
+</div>
+<br>
+
+<h4>Guide d’utilisation pour prendre en main le catalogue et l’intégrer à votre site</h4>
+Un guide d’utilisation vous est proposé afin de faciliter la prise en main du catalogue et vous permettre de le partager facilement sur votre site web. 
+<div align="left"><a href="/uploads/guide-utilisation-catalogue-cybersecurite.pdf" class="button" title="Télécharger le guide - Lien externe"><b>Télécharger le guide (pdf, 1,6 Mo)</b></a></div>
+
+<h4>Contribuez au catalogue en ajoutant les ressources produites par votre structure </h4>
+Tous les utilisateurs du catalogue ont également la possibilité de contribuer au catalogue et à son actualisation en soumettant une ressource à référencer. 
+Vous êtes un acteur public et souhaitez référencer une ressource (guide, fiche pratique, webinaire, outil..) dans le catalogue afin qu’elle soit portée à la visibilité de toutes les collectivités territoriales ? 
+<div align="left"><a href="https://airtable.com/shrAwnPQWvIPKfVmD" class="button" title="Proposer des ressources à ajouter - Lien externe"><b>Proposer des ressources à ajouter</b></a></div>
 <br>
 <br>
 
-<h3 id="livrables-ads">Accompagnement des collectivités au déploiement de Démat. ADS</h3>
+<h3 id="livrables-ads">Dématérialisation de l’urbanisme</h3>
 Dans le cadre du programme Démat.ADS (dématérialisation des autorisations d’urbanisme), à compter du 1er janvier 2022 : 
 * Les communes de plus de 3 500 habitants sont tenues de recevoir et d’instruire sous forme dématérialisée les demandes d’autorisation d’urbanisme ; 
 * Toutes les communes sont tenues de recevoir des saisines par voie électronique.
 
 Dans cette perspective, et afin d’accompagner au mieux les collectivités dans le déploiement de ce chantier, le groupe projet 3 « Accompagnement des collectivités au déploiement de Démat. ADS » a produit une série de documents pédagogiques d’outillage juridique et de communication. Ils ont vocation à être librement utilisés par les collectivités qui peuvent les adapter à leurs besoins. 
 
-Pour obtenir des compléments d’informations sur ces travaux ou accéder à toute documentation utile, accédez à [l’espace Osmose du groupe projet « Accompagnement des collectivités au déploiement de Démat. ADS »](https://osmose.numerique.gouv.fr/jcms/c_2074992/demat-ads-permis-de-construire-en-ligne) ou [demandez à le rejoindre](https://airtable.com/shrGulbiPIH49ToMg).
+Pour obtenir des compléments d’informations sur ces travaux ou accéder à toute documentation utile, accédez à [l’espace Osmose du groupe projet « Accompagnement des collectivités au déploiement de Démat. ADS »](https://osmose.numerique.gouv.fr/jcms/c_2074992/demat-ads-permis-de-construire-en-ligne) ou [demandez à le rejoindre](https://airtable.com/shrJ1X2yRfQTkycFD "demandez à le rejoindre - Lien externe").
 
-<div align="center"><h4><b>Vos outils</b></h4></div>
+<h4>Vos outils</h4>
 
 <div class="wrapper">
 <div class="panel">
@@ -85,3 +102,15 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 <div align="center"><a href="/uploads/Flyer_SVE_usagers.pptx" class="button"><b>Télécharger</b></a></div>
 </div>
 </div>
+
+
+<!--
+<h3 id="livrables-sensibilisation">Sensibilisation des élus et cadres dirigeants des collectivités</h3>
+Le groupe projet 2, dédié à la sensibilisation des élus et cadres dirigeants des collectivités aux enjeux de la transformation numérique, a conçu et diffusé auprès des élus une enquête afin de sonder leur perception du numérique, les possibilités de formation déjà existantes, et d’identifier la thématique liée au numérique qui suscite le plus leur intérêt.
+
+Les résultats permettront de construire l’offre de sensibilisation et/ou de formation la plus adaptée.
+
+**Vous êtes un élu territorial ? [Répondez à l’enquête](https://framaforms.org/etude-sur-la-sensibilisation-au-numerique-a-destination-des-elus-locaux-1634572242)** (jusqu’au 8 décembre 2021).
+<br>
+<br>
+-->
