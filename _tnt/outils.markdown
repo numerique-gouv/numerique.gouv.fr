@@ -65,23 +65,16 @@ Vous êtes un acteur public et souhaitez référencer une ressource (guide, fich
 
 
 
-<h3 id="livrables-sensibilisation">Sensibilisation des élus et cadres dirigeants des collectivités</h3>
-Le groupe projet 2, dédié à la sensibilisation des élus et cadres dirigeants des collectivités aux enjeux de la transformation numérique, a conçu et diffusé auprès des élus une enquête afin de sonder leur perception du numérique, les possibilités de formation déjà existantes, et d’identifier la thématique liée au numérique qui suscite le plus leur intérêt.
 
-Les résultats permettront de construire l’offre de sensibilisation et/ou de formation la plus adaptée.
 
-**Vous êtes un élu territorial ? [Répondez à l’enquête](https://framaforms.org/etude-sur-la-sensibilisation-au-numerique-a-destination-des-elus-locaux-1634572242)** (jusqu’au 8 décembre 2021).
-<br>
-<br>
-
-<h3 id="livrables-ads">Accompagnement des collectivités au déploiement de Démat. ADS</h3>
+<h3 id="livrables-ads">Dématérialisation de l’urbanisme</h3>
 Dans le cadre du programme Démat.ADS (dématérialisation des autorisations d’urbanisme), à compter du 1er janvier 2022 : 
 * Les communes de plus de 3 500 habitants sont tenues de recevoir et d’instruire sous forme dématérialisée les demandes d’autorisation d’urbanisme ; 
 * Toutes les communes sont tenues de recevoir des saisines par voie électronique.
 
 Dans cette perspective, et afin d’accompagner au mieux les collectivités dans le déploiement de ce chantier, le groupe projet 3 « Accompagnement des collectivités au déploiement de Démat. ADS » a produit une série de documents pédagogiques d’outillage juridique et de communication. Ils ont vocation à être librement utilisés par les collectivités qui peuvent les adapter à leurs besoins. 
 
-Pour obtenir des compléments d’informations sur ces travaux ou accéder à toute documentation utile, accédez à [l’espace Osmose du groupe projet « Accompagnement des collectivités au déploiement de Démat. ADS »](https://osmose.numerique.gouv.fr/jcms/c_2074992/demat-ads-permis-de-construire-en-ligne) ou [demandez à le rejoindre](https://airtable.com/shrGulbiPIH49ToMg).
+Pour obtenir des compléments d’informations sur ces travaux ou accéder à toute documentation utile, accédez à [l’espace Osmose du groupe projet « Accompagnement des collectivités au déploiement de Démat. ADS »](https://osmose.numerique.gouv.fr/jcms/c_2074992/demat-ads-permis-de-construire-en-ligne) ou [demandez à le rejoindre](https://airtable.com/shrJ1X2yRfQTkycFD "demandez à le rejoindre - Lien externe").
 
 <div align="center"><h4><b>Vos outils</b></h4></div>
 
@@ -102,3 +95,15 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 <div align="center"><a href="/uploads/Flyer_SVE_usagers.pptx" class="button"><b>Télécharger</b></a></div>
 </div>
 </div>
+
+
+<!--
+<h3 id="livrables-sensibilisation">Sensibilisation des élus et cadres dirigeants des collectivités</h3>
+Le groupe projet 2, dédié à la sensibilisation des élus et cadres dirigeants des collectivités aux enjeux de la transformation numérique, a conçu et diffusé auprès des élus une enquête afin de sonder leur perception du numérique, les possibilités de formation déjà existantes, et d’identifier la thématique liée au numérique qui suscite le plus leur intérêt.
+
+Les résultats permettront de construire l’offre de sensibilisation et/ou de formation la plus adaptée.
+
+**Vous êtes un élu territorial ? [Répondez à l’enquête](https://framaforms.org/etude-sur-la-sensibilisation-au-numerique-a-destination-des-elus-locaux-1634572242)** (jusqu’au 8 décembre 2021).
+<br>
+<br>
+-->
