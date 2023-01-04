@@ -1,5 +1,5 @@
 ---
-title: Outils
+title: Productions
 date: 2021-11-19 14:11:00 +01:00
 permalink: "/services/tnt/outils/"
 menu:
@@ -20,7 +20,8 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 layout: tnt
 ---
 
-<h3 id="livrables-agenda">Agenda de la transformation numérique des collectivités territoriales (2018-2024)</h3>
+<h3 id="livrables-agenda">Agenda de la transformation numérique</h3>
+<h4>Agenda de la transformation numérique des collectivités territoriales (2018-2024)</h4>
 
 Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités une visibilité sur les chantiers de transformation numérique les impactant et leur permettre ainsi de mieux en anticiper les obligations et opportunités liées. 
 
@@ -47,6 +48,22 @@ Vous êtes une direction ministérielle et pilotez un chantier de transformation
 <a href="/uploads/agenda_de_la_transformation_numerique_des_collectivites_territoriales_2018_2024.pdf">> Télécharger l'agenda en version pdf (pdf, 200 ko)</a>
 <br>
 <br>
+
+<h3 id="cybersecurite">Cybersécurité</h3>
+<h4>Catalogue des ressources de sensibilisation à la cybersécurité</h4>
+
+Issu du groupe projet 5, le catalogue des ressources dédiées à la cybersécurité référence des ressources produites par des acteurs publics permettant aux élus et agents des collectivités territoriales de comprendre les menaces numériques, savoir comment y réagir et les bonnes pratiques à adopter pour assurer sa sécurité numérique.
+L’objectif du catalogue est ainsi de donner à voir et faciliter l’appropriation de ces outils par les collectivités de toutes tailles, en permettant une recherche simplifiée selon le besoin de chaque acteur. Il n’a pas vocation à couvrir l’ensemble des champs de la cybersécurité mais constitue une base documentaire qualifiée de ressources de sensibilisation autour des enjeux de cybersécurité. 
+
+<h4>Un guide d’utilisation pour prendre en main le catalogue et l’intégrer à votre site</h4>
+Un guide d’utilisation  vous est également proposé afin de faciliter sa prise en main et vous permettre de le partager sur votre page web. 
+
+<h4>Contribuez au catalogue en ajoutant les ressources produites par votre structure </h4>
+Tous les utilisateurs du catalogue ont également la possibilité de contribuer au catalogue et à son actualisation en soumettant une ressource à référencer. 
+Vous êtes un acteur public et souhaitez référencer une ressource (guide, fiche pratique, webinaire, outil..) dans le catalogue afin qu’elle soit portée à la visibilité de toutes les collectivités territoriales ? 
+<div align="center"><a href="https://airtable.com/shrAwnPQWvIPKfVmD" class="button" title="Proposez des ressources à ajouter - Lien externe"><b>Proposez des ressources à ajouter</b></a></div>
+
+
 
 <h3 id="livrables-sensibilisation">Sensibilisation des élus et cadres dirigeants des collectivités</h3>
 Le groupe projet 2, dédié à la sensibilisation des élus et cadres dirigeants des collectivités aux enjeux de la transformation numérique, a conçu et diffusé auprès des élus une enquête afin de sonder leur perception du numérique, les possibilités de formation déjà existantes, et d’identifier la thématique liée au numérique qui suscite le plus leur intérêt.
