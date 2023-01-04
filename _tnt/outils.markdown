@@ -54,6 +54,15 @@ Vous êtes une direction ministérielle et pilotez un chantier de transformation
 Issu du groupe projet 5, le catalogue des ressources dédiées à la cybersécurité référence des ressources produites par des acteurs publics permettant aux élus et agents des collectivités territoriales de comprendre les menaces numériques, savoir comment y réagir et les bonnes pratiques à adopter pour assurer sa sécurité numérique.
 L’objectif du catalogue est ainsi de donner à voir et faciliter l’appropriation de ces outils par les collectivités de toutes tailles, en permettant une recherche simplifiée selon le besoin de chaque acteur. Il n’a pas vocation à couvrir l’ensemble des champs de la cybersécurité mais constitue une base documentaire qualifiée de ressources de sensibilisation autour des enjeux de cybersécurité. 
 
+<div class="wrapper">
+<div class="panel-center">
+<p class="text-center"><a href="https://airtable.com/embed/shr7lvpggEc6yry9C?backgroundColor=yellowLight&viewControls=on" title="Accéder au catalogue des ressources de sensibilisation à la cybersécurité - Lien externe"><img src="/uploads/capture-catalogue-cybersecurite.png" style="border:solid 1px #dedede;" width="250" alt="Accéder au catalogue des ressources de sensibilisation à la cybersécurité - Lien externe"></a></p>
+<b>Catalogue des ressources de sensibilisation à la cybersécurité</b>
+<div align="center"><a href="https://airtable.com/embed/shr7lvpggEc6yry9C?backgroundColor=yellowLight&viewControls=on" class="button" title="Accéder au catalogue des ressources de sensibilisation à la cybersécurité - Lien externe"><b>Accéder à l'agenda</b></a></div>
+</div>
+</div>
+<br>
+
 <h4>Un guide d’utilisation pour prendre en main le catalogue et l’intégrer à votre site</h4>
 Un guide d’utilisation  vous est également proposé afin de faciliter sa prise en main et vous permettre de le partager sur votre page web. 
 
