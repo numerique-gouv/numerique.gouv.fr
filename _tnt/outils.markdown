@@ -71,10 +71,8 @@ Un guide d’utilisation vous est proposé afin de faciliter la prise en main du
 Tous les utilisateurs du catalogue ont également la possibilité de contribuer au catalogue et à son actualisation en soumettant une ressource à référencer. 
 Vous êtes un acteur public et souhaitez référencer une ressource (guide, fiche pratique, webinaire, outil..) dans le catalogue afin qu’elle soit portée à la visibilité de toutes les collectivités territoriales ? 
 <div align="left"><a href="https://airtable.com/shrAwnPQWvIPKfVmD" class="button" title="Proposez des ressources à ajouter - Lien externe"><b>Proposez des ressources à ajouter</b></a></div>
-
-
-
-
+<br>
+<br>
 
 <h3 id="livrables-ads">Dématérialisation de l’urbanisme</h3>
 Dans le cadre du programme Démat.ADS (dématérialisation des autorisations d’urbanisme), à compter du 1er janvier 2022 : 
