@@ -19,7 +19,7 @@ La [communauté « Adoption du Cloud »](https://osmose.numerique.gouv.fr/jcms/p
 <div class="encadre noir" style="margin-bottom:40px"><h4>Comment rejoindre la communauté&nbsp;?</h4> <ul> <li><strong>Vous disposez déjà d’un compte sur la plateforme Osmose&nbsp;?</strong> Connectez-vous, cliquez sur le lien de la communauté ci-dessous qui vous intéresse puis sur le bouton «&nbsp;Je m’inscris&nbsp;»</li> <li><strong>Vous ne disposez pas de compte Osmose&nbsp;?</strong> Contactez <a href="mailto:infonuage.dinum@modernisation.gouv.fr">infonuage.dinum@modernisation.gouv.fr</a> pour demander la création de votre compte.</li> </ul> <p><strong>Des thématiques vous sont chères et vous souhaitez les aborder&nbsp;?</strong> Nous vous invitons à répondre <a href="https://osmose.numerique.gouv.fr/jcms/p_5469653/fr/faites-nous-part-de-vos-idees" title="à ce sondage - Lien externe">à ce sondage</a> pour voter&nbsp;!</p> </div>
 
 #### Une communauté orientée sur plusieurs axes :
-* Répondre à vos interrogations sur la stratégie nationale pour le Cloud, les offres et accompagnement disponibles ;
+* Répondre à vos interrogations sur la stratégie nationale pour le Cloud, les offres et accompagnement disponibles
 * Vous accompagner dans la déclinaison opérationnelle de la doctrine Cloud au centre
 * Partager les dernières actualités de Cloud Nubo et π (Pi)
 Construire, collecter et partager des savoir-faire autour des sujets techniques (landing zone, architectures de référence, socles techniques, etc.) 
