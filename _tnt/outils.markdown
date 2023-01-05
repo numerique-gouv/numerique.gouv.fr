@@ -64,8 +64,7 @@ L’objectif du catalogue est ainsi de donner à voir et faciliter l’appropria
 <br>
 
 <h4>Guide d’utilisation pour prendre en main le catalogue et l’intégrer à votre site</h4>
-Un guide d’utilisation vous est proposé afin de faciliter la prise en main du catalogue et vous permettre de le partager facilement sur votre site web. 
-<div align="left"><a href="/uploads/guide-utilisation-catalogue-cybersecurite.pdf" class="button" title="Télécharger le guide - Lien externe"><b>Télécharger le guide (pdf, 1,6 Mo)</b></a></div>
+<div align="left" style="margin-bottom:4em"><a href="/uploads/guide-utilisation-catalogue-cybersecurite.pdf" class="button" title="Télécharger le guide - Lien externe"><b>Télécharger le guide (pdf, 1,6 Mo)</b></a></div>
 
 <h4>Contribuez au catalogue en ajoutant les ressources produites par votre structure </h4>
 Tous les utilisateurs du catalogue ont également la possibilité de contribuer au catalogue et à son actualisation en soumettant une ressource à référencer. 
