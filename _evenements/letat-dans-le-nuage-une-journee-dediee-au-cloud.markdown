@@ -11,7 +11,8 @@ chapeau-text: |-
   Dans le cadre de cet accompagnement des acteurs publics et de l’évolution des pratiques numériques, l'équipe Cloud de la DINUM a le plaisir de vous convier à une journée dédiée au Cloud !
 une-ou-diaporama:
 - image: "/uploads/2023_01_05_CLOUD_AGENDA.jpg"
-  legende: "L’État dans le nuage \n24 janvier 2023\nUne journée consacrée au Cloud"
+  alternative-textuelle: "L’État dans le nuage \n24 janvier 2023\nUne journée consacrée
+    au Cloud"
 event_start_date: 2023-01-24 08:30:00 +01:00
 lieu: Lieu de la transformation publique
 adresse: 77 avenue de Ségur, Paris 15
