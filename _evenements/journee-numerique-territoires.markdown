@@ -49,7 +49,7 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 * **Maria Cotora**, cheffe du programme transformation numérique des territoires, direction interministérielle du numérique (DINUM)
 
-* **Claire Orosco**, Responsable du fonds pour la transformation de l’action publique, direction interministérielle de la transformation publique (DITP)
+* **Claire Orosco**, responsable du fonds pour la transformation de l’action publique, direction interministérielle de la transformation publique (DITP)
 
 * **Amélie Durozoy**, coordinatrice du réseau des laboratoires d’innovation, direction interministérielle de la transformation publique (DITP)
 
