@@ -39,9 +39,9 @@ Vous appartenez à une administration publique ? Que vous ayez un profil métier
 ### Au programme de cette journée :
 * Intervention de **Philippe Merle**, président du Conseil Cloud de la Commission européenne : *« Le Cloud : entre rupture et transformation ».*
 
-* Table ronde animée par **la DGFiP et le ministère de l’Intérieur** : *« Quelles sont les ambitions de demain pour le Cloud interne interministériel ? ».*
+* **Table ronde** animée par la DGFiP et le ministère de l’Intérieur : *« Quelles sont les ambitions de demain pour le Cloud interne interministériel ? ».*
 
-* Table ronde avec **[Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr)** : *« Les solutions françaises de PaaS existent, venez les découvrir ! ».*
+* **Table ronde** avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr) : *« Les solutions françaises de PaaS existent, venez les découvrir ! ».*
 
 * **Stands** DGFIP, ministère de l’Intérieur, Clever Cloud, platform.sh et Scalingo : venez échanger et prendre part aux démonstrations de leurs solutions Cloud.
 
