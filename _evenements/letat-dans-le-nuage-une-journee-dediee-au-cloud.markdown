@@ -11,7 +11,8 @@ chapeau-text: |-
 
   Dans le cadre de cet accompagnement des acteurs publics et de l’évolution des pratiques numériques, l'équipe Cloud de la DINUM a le plaisir de vous convier à une journée dédiée au Cloud !
 une-ou-diaporama:
-- legende: "L’État dans le nuage \n24 janvier 2023\nUne journée consacrée au Cloud"
+- image: "/uploads/2023_01_05_CLOUD_AGENDA.jpg"
+  legende: "L’État dans le nuage \n24 janvier 2023\nUne journée consacrée au Cloud"
 event_start_date: 2023-01-24 08:30:00 +01:00
 lieu: Lieu de la transformation publique
 adresse: 77 avenue de Ségur, Paris 15
@@ -45,7 +46,7 @@ Vous appartenez à une administration publique ? Que vous ayez un profil métier
 
 * Stands DGFIP, ministère de l’Intérieur, Clever Cloud, platform.sh et Scalingo : venez échanger et prendre part aux démonstrations de leurs solutions Cloud.
 
-* Breakout sessions permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience.
+* Sessions permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience.
 
 * Ateliers participatifs.
 
