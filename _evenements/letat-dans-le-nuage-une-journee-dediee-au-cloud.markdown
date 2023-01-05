@@ -10,6 +10,10 @@ chapeau-text: |-
   Depuis la parution des circulaires relatives à la stratégie Cloud de l'État et à la doctrine d'utilisation du Cloud, la DINUM accompagne les administrations publiques dans l'adoption de cette technologie.
 
   Dans le cadre de cet accompagnement des acteurs publics et de l’évolution des pratiques numériques, l'équipe Cloud de la DINUM a le plaisir de vous convier à une journée dédiée au Cloud !
+une-ou-diaporama:
+- image: "/uploads/2023_01_05_CLOUD_AGENDA.jpg"
+  alternative-textuelle: "L’État dans le nuage \n24 janvier 2023\nUne journée consacrée
+    au Cloud"
 event_start_date: 2023-01-24 08:30:00 +01:00
 lieu: Lieu de la transformation publique
 adresse: 77 avenue de Ségur, Paris 15
@@ -37,15 +41,15 @@ Vous appartenez à une administration publique ? Que vous ayez un profil métier
 ### Au programme de cette journée :
 * Intervention de **Philippe Merle**, président du Conseil Cloud de la Commission européenne : *« Le Cloud : entre rupture et transformation »*
 
-* Table ronde animée par la DGFiP et le ministère de l’Intérieur : *« Quelles sont les ambitions de demain pour le Cloud interne interministériel ? »*
+* **Table ronde** animée par la DGFiP et le ministère de l’Intérieur : *« Quelles sont les ambitions de demain pour le Cloud interne interministériel ? »*
 
-* Table ronde avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr) : *« Les solutions françaises de PaaS existent, venez les découvrir ! »*
+* **Table ronde** avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr) : *« Les solutions françaises de PaaS existent, venez les découvrir ! »*
 
-* Stands DGFIP, ministère de l’Intérieur, Clever Cloud, platform.sh et Scalingo : venez échanger et prendre part aux démonstrations de leurs solutions Cloud
+* **Stands** DGFIP, ministère de l’Intérieur, Clever Cloud, platform.sh et Scalingo : venez échanger et prendre part aux démonstrations de leurs solutions Cloud
 
-* Breakout sessions permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience
+* **Sessions** permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience
 
-* Ateliers participatifs.
+* **Ateliers** participatifs
 
 <div class="noir encadre" style="margin-bottom:30px;"><h3 class="h4">Passez au Cloud pour accélérer votre transformation numérique</h3>
 <p>Pour faciliter le recours au Cloud, l’État met à la disposition des acteurs publics <a href="https://www.numerique.gouv.fr/services/cloud/"> deux offres de services Cloud</a>, qui se distinguent par la richesse des catalogues de services et différentes modalités de disponibilité, de réversibilité et de protection des données.
