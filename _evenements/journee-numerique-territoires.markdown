@@ -66,5 +66,5 @@ Le panel sera composé d’intervenants issus de l’administration centrale (DI
 Celui-ci regroupera des stands d’équipes de la DINUM, de la DITP et de l’ANCT permettant aux participants d’échanger directement avec les équipes de différents produits et services numériques d’intérêt pour appuyer la transformation numérique des territoires (API, France Connect, Incubateur des territoires, Laboratoires d’innovation territoriale, etc.)
 
 
-<div align="center" style="margin-bottom: 30px"><a href="https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
 <p><i>Vous pourrez choisir entre une participation en présentiel ou à distance. Nous encourageons toutefois vivement une participation  in situ afin de suivre au mieux les échanges. Le nombre de places étant limité, nous vous invitons à confirmer votre présence avant le 6 janvier 2023.</i></p>
