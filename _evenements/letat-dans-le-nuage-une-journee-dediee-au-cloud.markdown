@@ -38,17 +38,17 @@ champs_informations:
 Vous appartenez à une administration publique ? Que vous ayez un profil métier ou technique, en posture managériale ou membre d'équipe, cet évènement est fait pour vous !
 
 ### Au programme de cette journée :
-* Intervention de **Philippe Merle**, président du Conseil Cloud de la Commission européenne : *« Le Cloud : entre rupture et transformation ».*
+* Intervention de **Philippe Merle**, président du Conseil Cloud de la Commission européenne : *« Le Cloud : entre rupture et transformation »*
 
-* **Table ronde** animée par la DGFiP et le ministère de l’Intérieur : *« Quelles sont les ambitions de demain pour le Cloud interne interministériel ? ».*
+* **Table ronde** animée par la DGFiP et le ministère de l’Intérieur : *« Quelles sont les ambitions de demain pour le Cloud interne interministériel ? »*
 
-* **Table ronde** avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr) : *« Les solutions françaises de PaaS existent, venez les découvrir ! ».*
+* **Table ronde** avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr) : *« Les solutions françaises de PaaS existent, venez les découvrir ! »*
 
-* **Stands** DGFIP, ministère de l’Intérieur, Clever Cloud, platform.sh et Scalingo : venez échanger et prendre part aux démonstrations de leurs solutions Cloud.
+* **Stands** DGFIP, ministère de l’Intérieur, Clever Cloud, platform.sh et Scalingo : venez échanger et prendre part aux démonstrations de leurs solutions Cloud
 
-* **Sessions** permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience.
+* **Sessions** permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience
 
-* **Ateliers** participatifs.
+* **Ateliers** participatifs
 
 <div class="noir encadre" style="margin-bottom:30px;"><h3 class="h4">Passez au Cloud pour accélérer votre transformation numérique</h3>
 <p>Pour faciliter le recours au Cloud, l’État met à la disposition des acteurs publics <a href="https://www.numerique.gouv.fr/services/cloud/"> deux offres de services Cloud</a>, qui se distinguent par la richesse des catalogues de services et différentes modalités de disponibilité, de réversibilité et de protection des données.
