@@ -48,7 +48,7 @@ Vous appartenez à une administration publique ? Que vous ayez un profil métier
 
 * **Sessions** permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience.
 
-* Ateliers participatifs.
+* **Ateliers** participatifs.
 
 <div class="noir encadre" style="margin-bottom:30px;"><h3 class="h4">Passez au Cloud pour accélérer votre transformation numérique</h3>
 <p>Pour faciliter le recours au Cloud, l’État met à la disposition des acteurs publics <a href="https://www.numerique.gouv.fr/services/cloud/"> deux offres de services Cloud</a>, qui se distinguent par la richesse des catalogues de services et différentes modalités de disponibilité, de réversibilité et de protection des données.
