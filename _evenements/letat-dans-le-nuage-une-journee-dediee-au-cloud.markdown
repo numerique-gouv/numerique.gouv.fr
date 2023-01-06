@@ -1,7 +1,6 @@
 ---
 title: 'L’État dans le nuage : une journée dédiée au Cloud'
 date: 2022-12-16 15:23:00 +01:00
-published: false
 categories:
 - Journée d'échanges
 tags:
@@ -23,7 +22,7 @@ champs_informations:
 - intitule: Date
   contenu: Mardi 24 janvier
 - intitule: Horaires
-  contenu: 8h30 - 17h
+  contenu: 8h30 - 17h30
 - intitule: Modalités
   contenu: Evénement gratuit réservé aux agents publics, inscription obligatoire avant
     le 11/01.
@@ -38,18 +37,29 @@ champs_informations:
 
 Vous appartenez à une administration publique ? Que vous ayez un profil métier ou technique, en posture managériale ou membre d'équipe, cet évènement est fait pour vous !
 
-### Au programme de cette journée :
-* Intervention de **Philippe Merle**, président du Conseil Cloud de la Commission européenne : *« Le Cloud : entre rupture et transformation »*
+Au programme de cette journée :
 
-* **Table ronde** animée par la DGFiP et le ministère de l’Intérieur : *« Quelles sont les ambitions de demain pour le Cloud interne interministériel ? »*
+#### **[8h30–9h15] Accueil des participants**
+* Accueil café / petit-déjeuner
 
-* **Table ronde** avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr) : *« Les solutions françaises de PaaS existent, venez les découvrir ! »*
+#### **[8h30–9h15] Ouverture de la journée (mot de la DINUM)**
+* Par Stéphanie Schaer
 
-* **Stands** DGFIP, ministère de l’Intérieur, Clever Cloud, platform.sh et Scalingo : venez échanger et prendre part aux démonstrations de leurs solutions Cloud
+#### **[10h00–10h45] Le Cloud : entre rupture et transformation**
+* Intervention de **Philippe Merle**, président du Conseil Cloud de la Commission européenne 
 
-* **Sessions** permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience
+#### **[11h00–12h00] « Quelles sont les ambitions de demain pour le Cloud interne interministériel ? »**
+* Table ronde animée par la DGFiP et le ministère de l’Intérieur et des Outre-mer
 
-* **Ateliers** participatifs
+#### **[13h45–14h45] « Les solutions françaises de PaaS existent, venez les découvrir ! »**
+* Table ronde avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr)
+
+#### **[15h15–17h00] Sessions et stands permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience**
+* Avec la DGFiP, le ministère de l’Intérieur et des Outre-mer, Clever Cloud, platform.sh et Scalingo
+
+* Échanges avec les Squads Cloud : venez rencontrer l’équipe d’accompagnement et posez leur toutes vos questions !
+
+#### **[17h15–17h30] Conclusion de la journée**
 
 <div class="noir encadre" style="margin-bottom:30px;"><h3 class="h4">Passez au Cloud pour accélérer votre transformation numérique</h3>
 <p>Pour faciliter le recours au Cloud, l’État met à la disposition des acteurs publics <a href="https://www.numerique.gouv.fr/services/cloud/"> deux offres de services Cloud</a>, qui se distinguent par la richesse des catalogues de services et différentes modalités de disponibilité, de réversibilité et de protection des données.
