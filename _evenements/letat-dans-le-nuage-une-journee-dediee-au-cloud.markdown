@@ -22,7 +22,7 @@ champs_informations:
 - intitule: Date
   contenu: Mardi 24 janvier
 - intitule: Horaires
-  contenu: 8h30 - 17h
+  contenu: 8h30 - 17h30
 - intitule: Modalités
   contenu: Evénement gratuit réservé aux agents publics, inscription obligatoire avant
     le 11/01.
@@ -54,8 +54,10 @@ Vous appartenez à une administration publique ? Que vous ayez un profil métier
 **[13h45–14h45] « Les solutions françaises de PaaS existent, venez les découvrir ! »**
 * Table ronde avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr)
 
-**[15h15–17h00] Sessions et Stands permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience**
+**[15h15–17h00] Sessions et stands permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience**
 * *DGFIP, ministère de l’Intérieur, Clever Cloud, platform.sh et Scalingo *
+
+* Échanges avec les Squads Cloud : venez rencontrer l’équipe d’accompagnement et posez leur toutes vos questions !
 
 **[17h15–17h30] Conclusion de la journée**
 
