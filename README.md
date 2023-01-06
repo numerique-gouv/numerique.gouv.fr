@@ -26,8 +26,8 @@ Bienvenu à toi développeur ou utilisateur du site de la DINSIC.
 3. Branche master (CI)
 
 ## Gestion des deux repos
-git remote add test-dinsic git@github.com:MatthiasFeraga/site-dinsic.git
-git fetch test-dinsic
+git remote add public git@github.com:numerique-gouv/numerique.gouv.fr.git
+git fetch public
 
 ## Exporter la variable d'env algolia
 creer un fichier .env à la racine

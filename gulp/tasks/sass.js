@@ -7,7 +7,6 @@ const COMPATIBILITY = require('../util/loadConfig').COMPATIBILITY;
 const SASS          = require('../util/loadConfig').SASS;
 const PRODUCTION = !!(yargs.argv.production);
 
-
 gulp.task('sass', function() {
   return gulp.src(SASS.src)
     .pipe($.sourcemaps.init())
@@ -26,4 +25,3 @@ gulp.task('sass', function() {
     .pipe(gulp.dest(SASS.dest.buildDir))
     .pipe(browser.reload({ stream: true }));
 });
-

@@ -15,3 +15,9 @@
   width: 100% !important;
   height: 100% !important;
 }
+div#tarteaucitronRoot.tarteaucitronBeforeVisible:before {
+  content: none !important;
+}
+body #tarteaucitronRoot div#tarteaucitronAlertBig {
+  display: none !important;
+}
