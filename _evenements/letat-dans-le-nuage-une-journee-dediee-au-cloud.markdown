@@ -49,13 +49,13 @@ Au programme de cette journée :
 * Intervention de **Philippe Merle**, président du Conseil Cloud de la Commission européenne 
 
 #### **[11h00–12h00] « Quelles sont les ambitions de demain pour le Cloud interne interministériel ? »**
-* Table ronde animée par la DGFiP et le ministère de l’Intérieur
+* Table ronde animée par la DGFiP et le ministère de l’Intérieur et des Outre-mer
 
 #### **[13h45–14h45] « Les solutions françaises de PaaS existent, venez les découvrir ! »**
 * Table ronde avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr)
 
 #### **[15h15–17h00] Sessions et stands permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience**
-* Avec la DGFiP, le ministère de l’Intérieur, Clever Cloud, platform.sh et Scalingo
+* Avec la DGFiP, le ministère de l’Intérieur et des Outre-mer, Clever Cloud, platform.sh et Scalingo
 
 * Échanges avec les Squads Cloud : venez rencontrer l’équipe d’accompagnement et posez leur toutes vos questions !
 
