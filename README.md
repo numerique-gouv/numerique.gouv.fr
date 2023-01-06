@@ -18,21 +18,16 @@ Bienvenu à toi développeur ou utilisateur du site de la DINSIC.
 
 ### Optional
 [Composer](https://getcomposer.org) (installs PHPMailer)  
-[Make](https://www.gnu.org/software/make) (used with rsync for deploying)  
-
-
+[Make](https://www.gnu.org/software/make) (used with rsync for deploying)
 
 ## La chaine de developpement
-
 1. Branche dev pour les developpement courant
 2. Branche preprode pour la compatibilité avec le CRM
 3. Branche master (CI)
 
 ## Gestion des deux repos
-
 git remote add test-dinsic git@github.com:MatthiasFeraga/site-dinsic.git
 git fetch test-dinsic
-
 
 ## Exporter la variable d'env algolia
 creer un fichier .env à la racine
