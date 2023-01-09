@@ -39,27 +39,27 @@ Vous appartenez à une administration publique ? Que vous ayez un profil métier
 
 Au programme de cette journée :
 
-#### **[8h30–9h15] Accueil des participants**
+#### **[9h–9h30] Accueil des participants**
 * Accueil café / petit-déjeuner
 
-#### **[9h30–9h45] Ouverture de la journée (mot de la DINUM)**
+#### **[9h30–10h00] Ouverture de la journée (mot de la DINUM)**
 * Par Stéphanie Schaer
 
-#### **[10h00–10h45] Le Cloud : entre rupture et transformation**
+#### **[10h00–11h00] Le Cloud : entre rupture et transformation**
 * Intervention de **Philippe Merle**, président du Conseil Cloud de la Commission européenne 
 
 #### **[11h00–12h00] « Quelles sont les ambitions de demain pour le Cloud interne interministériel ? »**
 * Table ronde animée par la DGFiP et le ministère de l’Intérieur et des Outre-mer
 
-#### **[13h45–14h45] « Les solutions françaises de PaaS existent, venez les découvrir ! »**
+#### **[14h00–15h00] « Les solutions françaises de PaaS existent, venez les découvrir ! »**
 * Table ronde avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr)
 
-#### **[15h15–17h00] Sessions et stands permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience**
+#### **[15h00–17h00] Sessions et stands permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience**
 * Avec la DGFiP, le ministère de l’Intérieur et des Outre-mer, Clever Cloud, platform.sh et Scalingo
 
 * Échanges avec les Squads Cloud : venez rencontrer l’équipe d’accompagnement et posez leur toutes vos questions !
 
-#### **[17h15–17h30] Conclusion de la journée**
+#### **[17h00–17h30] Conclusion de la journée**
 
 <div class="noir encadre" style="margin-bottom:30px;"><h3 class="h4">Passez au Cloud pour accélérer votre transformation numérique</h3>
 <p>Pour faciliter le recours au Cloud, l’État met à la disposition des acteurs publics <a href="https://www.numerique.gouv.fr/services/cloud/"> deux offres de services Cloud</a>, qui se distinguent par la richesse des catalogues de services et différentes modalités de disponibilité, de réversibilité et de protection des données.
