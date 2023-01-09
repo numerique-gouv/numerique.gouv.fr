@@ -65,10 +65,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-* **[Architecte expert du réseau interministériel de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-expert-du-reseau-interministeriel-de-l-tat-hf-reference-2022-1071492/ "Architecte expert du réseau interministériel de l'État H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Responsable des opérations du programme Entrepreneurs d'intérêt général H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-des-operations-du-programme-entrepreneurs-d-interet-general-hf-reference-2022-1029376/ "Responsable des opérations du programme Entrepreneurs d'intérêt général H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
