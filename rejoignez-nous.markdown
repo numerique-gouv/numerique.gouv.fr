@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 16 décembre 2022
+date_de_modification: 9 janvier 2023
 style: |-
   .button {
   background-color: #0d5c98;
@@ -62,10 +62,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 
 * **[Architecte technique/Services d’accès internet H/F](https://www.linkedin.com/jobs/view/3276823243/?refId=7wBBQhbLQEm9cxPZyy7PfA%3D%3D "Architecte technique/Services d’accès internet H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Architecte expert du réseau interministériel de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/architecte-expert-du-reseau-interministeriel-de-l-tat-hf-reference-2022-1071492/ "Architecte expert du réseau interministériel de l'État H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 

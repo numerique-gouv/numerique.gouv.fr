@@ -42,7 +42,7 @@ Au programme de cette journée :
 #### **[8h30–9h15] Accueil des participants**
 * Accueil café / petit-déjeuner
 
-#### **[8h30–9h15] Ouverture de la journée (mot de la DINUM)**
+#### **[9h30–9h45] Ouverture de la journée (mot de la DINUM)**
 * Par Stéphanie Schaer
 
 #### **[10h00–10h45] Le Cloud : entre rupture et transformation**
