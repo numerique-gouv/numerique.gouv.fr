@@ -22,6 +22,8 @@ layout: rgaa
 
 **Découvrez en 1'45 le principe Dites-le-nous une fois et l'accompagnement proposé par la DINUM :**
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x7x5gkj" width="100%" height="100%" allowfullscreen title="Lecteur vidéo Dailymotion" > </iframe> </div>
+
 <div class="conteneur-iframe seize-neuvieme">
 <div class="dailymotion_player" width="100%" height="100%" videoID="k7cJDWnimRuU7fwpByr" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
 </div>
