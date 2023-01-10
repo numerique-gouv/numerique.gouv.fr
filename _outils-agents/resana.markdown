@@ -91,7 +91,7 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 <br>
 <br>
 
-*Resana est un service interministériel opéré par la direction interministérielle du numérique (DINUM). Il a été réalisé dans le cadre de **[TECH.GOUV](https://www.numerique.gouv.fr/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)**, le programme d’accélération de la transformation numérique du service public, piloté par la DINUM.*
+*Resana est un service interministériel opéré par la direction interministérielle du numérique (DINUM).*
 
 *Resana s’appuie sur un logiciel édité par la société [InterStis](https://interstis.fr/).*
 
