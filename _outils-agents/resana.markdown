@@ -64,7 +64,7 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 * **Simple d’utilisation** et intuitif
 * **Création d’un espace de travail en 30 secondes**
 * **Haute disponibilité** et supervision 24h/7j 
-* Accessible depuis **différents appareils** (sur ordinateur via navigateur ; sur smartphone et tablette Android via [app dédiée](https://play.google.com/store/apps/details?id=com.resana.mobile_android "app dédiée - Lien externe")), à tout moment, en **mobilité**, en **télétravail**
+* Accessible depuis **différents appareils** (sur ordinateur via navigateur ; sur smartphone et tablette via application dédiée [Android](https://play.google.com/store/apps/details?id=com.resana.mobile_android "Android - Lien externe") ou [Apple](https://apps.apple.com/fr/app/resana/id1622610811 "Apple - Lien externe")), à tout moment, en **mobilité**, en **télétravail**
 * Invitation simple et illimitée des **partenaires hors État**
 * Gestion et sécurisation des **versions de fichiers**
 * **Solution sécurisée**, homologuée au titre du référentiel général de sécurité (RGS)
@@ -87,9 +87,7 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 {: .text-center .noir}
 <a href="https://resana.numerique.gouv.fr/" alt="Tchap version web"><figure class='image-center' style='width: 10%;'><img src="/uploads/monitor.png"></figure></a>
 <a href="https://play.google.com/store/apps/details?id=com.resana.mobile_android" alt="Télécharger l'application sur Google play"><figure class='image-center' style='width: 30%;'><img src="/uploads/googleplay.png"></figure></a>
-<!--
-<a href="https://apps.apple.com/fr/app/resana/id1443845334" alt="Télécharger l'application sur l'Appstore"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png"></figure></a>
--->
+<a href="https://apps.apple.com/fr/app/resana/id1622610811" alt="Télécharger l'application sur l'Appstore"><figure class='image-center' style='width: 30%;'><img src="/uploads/appstore.png"></figure></a>
 <br>
 <br>
 
