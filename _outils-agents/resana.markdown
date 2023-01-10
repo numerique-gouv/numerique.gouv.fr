@@ -1,15 +1,14 @@
 ---
-title: Resana, plateforme collaborative pour vos groupes de travail
+title: Resana, plateforme collaborative de l’État pour vos groupes de travail
 date: 2020-06-04 00:51:00 +02:00
 tags:
 - Outils pour les agents
 - plateforme collaborative
 - Resana
-- ETNA
-date_de_modification: 10 janvier 2022
+date_de_modification: 10 janvier 2023
 chapeau-text: |-
-  Déjà plus de 127 000 utilisateurs !
-  Destinée aux agents de l’État, la plateforme collaborative Resana leur offre un espace numérique complet pour faciliter le stockage, le partage et la coédition de documents, mais aussi le travail en équipe et en mode projet, y compris en mobilité grâce à une application dédiée.
+  Déjà plus de 190 000 utilisateurs et 36 000 espaces de travail créés !
+  Destinée aux agents de l’État, la plateforme collaborative interministérielle Resana leur offre un espace numérique complet pour faciliter le stockage, le partage et la coédition de documents, mais aussi le travail en équipe et en mode projet, y compris en mobilité grâce à une application dédiée.
 une:
   image: "/uploads/Resana_1635x345.jpg"
 layout: rgaa
@@ -23,9 +22,9 @@ layout: rgaa
 <img src="/uploads/picto-ordi.png"/>
 </figure>### Un espace numérique sécurisé et des outils collaboratifs pour vos groupes de travail et groupes projets
 {: .margin-bottom-1}
-Resana est une **plateforme collaborative** autour du **partage et stockage de documents**, très simple à prendre en main.
+Resana est une **plateforme collaborative** autour du **partage et de la co-édition de documents**, très simple à prendre en main.
 
-Resana est homologuée au titre du [référentiel général de sécurité](https://www.numerique.gouv.fr/publications/referentiel-general-de-securite/) (RGS).
+Resana est homologuée au titre du [référentiel général de sécurité](https://www.numerique.gouv.fr/publications/referentiel-general-de-securite/) (RGS) et hébergée sur un Cloud qualifié SecNumCloud par l'ANSSI.
 <br>
 <br>
 <br>
@@ -61,15 +60,16 @@ Resana est ouvert à **tous les agents de l’État** et de ses **établissement
 </figure>## Les atouts de la solution
 {: .margin-bottom-2}
 
-* **Confidentialité des échanges** (chiffrement des données, hébergement en France)
+* **Confidentialité des échanges** et **sécurisation des données** (hébergement en France qualifié SecNumCloud par l'ANSSI, chiffrement)
 * **Simple d’utilisation** et intuitif
 * **Création d’un espace de travail en 30 secondes**
-* Accessible à tout moment depuis **différents appareils** (sur ordinateur via navigateur ; sur smartphone et tablette Android via [app dédiée](https://play.google.com/store/apps/details?id=com.resana.mobile_android "app dédiée - Lien externe")), en **mobilité**, en **télétravail**
+* **Haute disponibilité** et supervision 24h/7j 
+* Accessible depuis **différents appareils** (sur ordinateur via navigateur ; sur smartphone et tablette Android via [app dédiée](https://play.google.com/store/apps/details?id=com.resana.mobile_android "app dédiée - Lien externe")), à tout moment, en **mobilité**, en **télétravail**
 * Invitation simple et illimitée des **partenaires hors État**
 * Gestion et sécurisation des **versions de fichiers**
 * **Solution sécurisée**, homologuée au titre du référentiel général de sécurité (RGS)
-* **Aide à l’utilisation** (guide utilisateur, tutoriels en ligne, [webinaires de prise en main](https://webinaire-resana.interstis.fr/public/ "webinaires  de prise en main - Lien externe"), RESANA académie…)
-* **Liens directs vers des outils utiles :** Webconférence de l’État, Tchap la messagerie instantanée de l’État
+* **Aide à l’utilisation** (guide utilisateur, [webinaires chaque semaine de prise en main](https://webinaire-resana.interstis.fr/public/ "webinaires  de prise en main - Lien externe"), tutoriels en ligne sur [RESANA académie](https://resana-aide.zendesk.com/hc/fr/categories/4410094999570-L-acad%C3%A9mie-RESANA "RESANA académie - Lien externe")…)
+* **Liens directs vers des outils utiles :** Webconférence de l’État, Tchap, la messagerie instantanée de l’État
   <br>
   <br>
 
