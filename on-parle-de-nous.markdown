@@ -11,50 +11,48 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
-<titre><a href="https://acteurspublics.fr/articles/le-sac-a-dos-numerique-de-lagent-public-prend-forme" title="Le sac à dos numérique de l’agent public prend forme - Lien externe">Le sac à dos numérique de l’agent public prend forme</a></titre>
-<date>2 juin 2022</date>
-<media>acteurspublics.fr</media>
+<titre><a href="https://www.maddyness.com/2022/02/21/beta-gouv-etat-innovation-service-public/" title=" Avec Beta.gouv, L’Etat encourage l’innovation dans le service public - Lien externe"> Avec Beta.gouv, L’Etat encourage l’innovation dans le service public </a></titre>
+<date>21 février 2022</date>
+<media>Madyness</media>
 
-<titre><a href="https://acteurspublics.fr/webtv/emissions/journees-acteurs-publics-solutions/le-debat-de-la-redaction-un-reflexe-ia-dans-les-administrations" title="Vidéo : “Acculturer pour développer un réflexe IA dans les administrations” - Lien externe">[Vidéo] “Acculturer pour développer un réflexe IA dans les administrations”</a></titre>
-<date>19 mai 2022</date>
-<p class="margin-0">Dans : acteurspublics <i>Solutions</i>
-<media>acteurspublics.fr</media>
+<titre><a href="https://acteurspublics.fr/articles/recrutements-dans-la-tech-publique-ca-avance?utm_campaign=NEWS_NOMS_02_09_2022&utm_medium=email&utm_source=Mailjet" title=" Recrutements dans la tech publique : ça avance - Lien externe"> Recrutements dans la tech publique : ça avance </a></titre>
+<date>2 septembre 2022</date>
+<media> Acteurs Publics  </media>
+
 
 <titre><a href="https://www.bsmart.fr/video/13322-smart-tech-partie-22-avril-2022" title="Vidéo : La grande interview : Laure Lucchesi, Etalab - Lien externe">[Vidéo] La grande interview : Laure Lucchesi, Etalab</a></titre>
 <date>22 avril 2022</date>
 <p class="margin-0">Dans : SMART TECH
 <media>bsmart.fr</media>
 
-<titre><a href="https://www.usine-digitale.fr/article/l-etat-presente-le-service-france-transfert-pour-securiser-les-transferts-de-fichiers-entre-agents.N1993637" title="L'Etat présente le service France Transfert pour sécuriser les transferts de fichiers entre agents - Lien externe">L'Etat présente le service France Transfert pour sécuriser les transferts de fichiers entre agents</a></titre>
-<date>14 avril 2022</date>
-<media>usine-digitale.fr</media>
+
+<titre><a href=" https://www.lemonde.fr/pixels/article/2022/10/25/pour-lutter-contre-la-fraude-au-cpf-le-site-moncompteformation-adopte-france-connect_6147303_4408996.html" title=" Pour lutter contre la fraude au CPF, le site Mon compte formation adopte FranceConnect+ - Lien externe"> Pour lutter contre la fraude au CPF, le site Mon compte formation adopte FranceConnect+ </a></titre>
+<date>25 octobre 2022</date>
+<media> Le Monde </media>
+
+<titre><a href="  https://www.lesechos.fr/tech-medias/hightech/la-numerisation-de-letat-entre-dans-son-sprint-final-du-quinquennat-1379026" title=" Comment la France a comblé une grande partie de son retard en matière d'e-administration - Lien externe"> Comment la France a comblé une grande partie de son retard en matière d'e-administration </a></titre>
+<date>13 janvier 2022</date>
+<media> Les Echos  </media>
+
+
+<titre><a href="https://www.kiosque01.fr/site/G01/anciens_numeros__G01.VPC.MHW000971__/fr/boutique/produit.html " title=" Ouvrez, ouvrez la cage aux données - Lien externe "> Ouvrez, ouvrez la cage aux données </a></titre>
+<date>12 avril 2022</date>
+<p class="margin-0">Dans : Magazine 01NET n°971, pages 22 à 26. 
+<media>01NET</media>
+
+
+<titre><a href="  https://www.usine-digitale.fr/article/la-strategie-bien-rodee-de-l-etat-pour-recruter-des-professionnels-du-numerique.N1776667 " title=" La stratégie bien rodée de l'État pour recruter des professionnels du numérique - Lien externe"> La stratégie bien rodée de l'État pour recruter des professionnels du numérique </a></titre>
+<date>24 janvier 2022</date>
+<media> Usine digitale  </media>
+
 
 <titre><a href="https://www.bfmtv.com/economie/emploi/la-direction-interministerielle-du-numerique-dinum-recrute_VN-202203280337.html" title="Vidéo : La direction interministérielle du numérique (DINUM) recrute ! - Lien externe">[Vidéo] La direction interministérielle du numérique (DINUM) recrute !</a></titre>
 <date>28 mars 2022</date>
 <p class="margin-0">Dans : BFM Business avec vous
-<media>bfmtv.com</media>
-
-<titre><a href="https://www.cio-online.com/actualites/lire-un-referentiel-unique-pour-l-ecoresponsabilite-numerique-de-a-a-z-14030.html" title="Un référentiel unique pour l'écoresponsabilité numérique de A à Z - Lien externe">Un référentiel unique pour l’écoresponsabilité numérique de A à Z</a></titre>
-<date>17 mars 2022</date>
-<media>cio-online.com</media>
-
-<titre><a href="https://www.cairn.info/revue-informations-sociales-2022-1.htm" title="Développer des services publics numériques qui donnent confiance et qui font confiance - Lien externe">Développer des services publics numériques qui donnent confiance et qui font confiance</a></titre>
-<date>Mars 2022</date>
-<p class="margin-0">Dans : Services publics, services numériques // Informations sociales 2022/1 (n° 205)
-<br>Éditeur : Caisse nationale d'allocations familiales</p><media>cairn.info</media>
+<media>bfmtv.com</media> 
 
 
-<titre><a href="https://www.lagazettedescommunes.com/793536/allocataires-du-rsa-des-outils-numeriques-au-profit-de-linsertion/" title="Allocataires du RSA : des outils numériques au profit de l’insertion - Lien externe">Allocataires du RSA : des outils numériques au profit de l’insertion</a></titre>
-<date>3 mars 2022</date>
-<media>La Gazette des Communes</media>
-
-<titre><a href="https://www.bfmtv.com/economie/replay-emissions/tech-and-co/florian-delezenne-beta-gouv-beta-gouv-developpe-des-services-numeriques-a-fort-impact-permettant-d-ameliorer-la-vie-des-citoyens-francais-21-02_VN-202202210591.html" title="Vidéo : Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français - Lien externe">[Vidéo] Florian Delezenne (Beta.Gouv) : Beta.Gouv développe des services numériques à fort impact permettant d'améliorer la vie des citoyens français</a></titre>
-<date>21 février 2022</date>
-<p class="margin-0">Dans : Tech & Co
-<media>bfmtv.com</media>
-
-<titre><a href="https://www.amue.fr/fileadmin/amue/systeme-information/documents-publications/la-collection-numerique/N19__Les_veilles_fevrier_2022.pdf" title="Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ? - Lien externe - Ouvre un pdf">Le catalogue de logiciels libres recommandés pour les organismes publics : d'où vient-il, où va-t-il ? (pdf - 4 Mo)</a></titre>
-<date>Février 2022</date>
-<p class="margin-0">Dans : La collection numérique - Les Veilles #19
-<br>Éditeur : L'Agence de mutualisation des universités et établissements (AMUE)</p>
-<media>AMUE</media>
+<titre><a href="  https://www.radiofrance.fr/franceinter/podcasts/net-plus-ultra/net-plus-ultra-du-vendredi-28-octobre-2022-6187016 " title=" L'État lance FC+, une version plus sécurisée (mais un peu plus complexe) de FranceConnect - Lien externe"> L'État lance FC+, une version plus sécurisée (mais un peu plus complexe) de FranceConnect  </a></titre>
+<date>28 octobre 2022</date>
+<p class="margin-0">Dans : Net plus ultra 
+<media> France Inter </media>
