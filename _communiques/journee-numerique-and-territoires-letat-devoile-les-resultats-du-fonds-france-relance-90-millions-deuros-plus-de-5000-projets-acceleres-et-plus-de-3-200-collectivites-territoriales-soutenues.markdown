@@ -33,6 +33,6 @@ Au programme : des interventions thématiques portant sur le fonds de France Rel
 **Stanislas Guerini, ministre de la Transformation et de la Fonction publiques**
 
 [En savoir plus sur l’événement (inscription obligatoire)](https://www.numerique.gouv.fr/agenda/journee-numerique-territoires/) 
-<br> Accréditation [floriane.beaudron@modernisation.gouv.fr](mailto:floriane.beaudron@modernisation.gouv.fr)
+<br> [Accréditation](mailto:floriane.beaudron@modernisation.gouv.fr)
 
 *Cet événement est organisé par l’équipe du [programme TNT](https://www.numerique.gouv.fr/services/tnt/) géré par la DINUM avec la participation active de la [DITP](https://www.modernisation.gouv.fr/), directions qui interviennent sous l’égide du ministère de la Transformation et de la Fonction publiques, et l’[ANCT](https://agence-cohesion-territoires.gouv.fr/) qui intervient sous l’égide du ministère de la Transition écologique et de la Cohésion des territoires.*
