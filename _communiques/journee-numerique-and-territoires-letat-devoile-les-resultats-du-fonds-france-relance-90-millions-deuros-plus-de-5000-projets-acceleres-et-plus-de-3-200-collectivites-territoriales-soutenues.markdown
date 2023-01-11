@@ -12,6 +12,11 @@ tags:
 chapeau-text: |-
   Pour soutenir tous les territoires dans leur transformation numérique afin que les Français
   bénéficient de services publics numériques plus simples et plus accessibles, le Gouvernement a mis en place en janvier 2021 un fonds « Transformation numérique des collectivités territoriales » dans le cadre de France Relance. Piloté par la direction interministérielle du numérique (DINUM), la direction interministérielle de la transformation publique (DITP) et l’agence nationale de la cohésion des territoires (ANCT) et après 2 ans d’action, le fonds doté d’un montant de 88 millions d’euros a financé des projets dans tous les territoires permettant de soutenir l’innovation des acteurs publics et les projets ayant les meilleures perspectives d’amélioration du secteur public.
+une-ou-diaporama:
+- image: "/uploads/2023_01_05_JNT_AGENDA.jpg"
+  alternative-textuelle: |-
+    18 janvier 2023
+    Journée numérique et territoires
 files:
 - nom: Télécharger le communiqué de presse
 ---
