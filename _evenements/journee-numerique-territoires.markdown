@@ -20,6 +20,9 @@ champs_informations:
 - intitule: Modalités
   contenu: Entrée libre, inscription obligatoire
   lien: https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307
+- intitule: Journalistes
+  contenu: Accréditation presse
+  lien: mailto:floriane.beaudron@modernisation.gouv.fr
 ---
 
 À l’occasion du **deuxième anniversaire du fonds France Relance** dédié à la « Transformation numérique des collectivités territoriales », cette journée **mettra à l’honneur les lauréats du fonds et leurs réalisations**, en offrant une **vue d’ensemble des projets financés** et des **présentations/démonstrations de solutions** développées.
