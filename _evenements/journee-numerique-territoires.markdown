@@ -76,14 +76,14 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 * Pitch de lauréat (*)
 
-#### **\[11h-11h15\] Intervention de la Direction interministérielle de la Transformation publique** (*) *Auditorium Marceau Long (Ségur) et Visio*
+#### **\[11h-11h15\] Intervention de la Direction interministérielle de la Transformation publique (*)** <br>*Auditorium Marceau Long (Ségur) et Visio*
 
 #### **\[11h15–12h45\] 2e séquence plénière : Table-ronde « Comment accélérer la mutualisation des produits et services numériques entre acteurs publics ? »**
 *Auditorium Marceau Long (Ségur) et Visio*
 
 **Animation**
 
-* Patrick Ruestchmann, Chef de la Mission Transformation numérique de l’État, Direction interministérielle du numérique (DINUM)
+* Patrick **Ruestchmann**, Chef de la Mission Transformation numérique de l’État, Direction interministérielle du numérique (DINUM)
 
 **Intervenants**
 
@@ -115,7 +115,7 @@ Une facilitatrice graphique sera présente durant cette séquence et restituera,
 *Auditorium Marceau Long (Ségur) et Visio*
 
 #### **\[15h–16h30\] « Forum » dédié aux agents / élus des collectivités territoriales
-<br>*Mezzanine Ségur et Salle Jean Monnet*
+<*Mezzanine Ségur et Salle Jean Monnet*
 
 Les stands qui seront à votre disposition sont les suivants :
 * Incubateur des territoires - ANCT
