@@ -16,23 +16,10 @@ adresse: 15 Avenue de Lyon, Metz
 champs_informations:
 - intitule: Horaires
   contenu: 9h - 17h
-- intitule: Accès à pied
-  contenu: "-\tDepuis l’hôtel de Ville : durée du trajet de 20 à 30 min.\n-\tDepuis
-    la gare centrale : durée du trajet de 20 à 30 min.\nEn sortant de la gare du côté
-    du centre Pompidou-Metz, suivre l’avenue de l’Amphithéâtre, qui se prolonge par
-    le pont de Hurleloup et la rue des frères Lacretelle, longer l’hôpital interarmées
-    Legouest, emprunter sur la gauche l’extrémité de la rue du Pont Rouge, traverser
-    la voie pénétrante est (N233) et prendre à droite pour la longer brièvement avant
-    de monter l’escalier vers la rue Louis Forest et l’avenue de Lyon (ou la rampe
-    cyclable vers la rue de l’Ardèche)."
 - intitule: Accès en bus
-  contenu: "-\tLes lignes des bus urbains (« Le Met’ ») de la communauté d’agglomération
+  contenu: 'Les lignes des bus urbains (« Le Met’ ») de la communauté d’agglomération
     de Metz Métropole (CA2M) n° L1 à destination de la « Corchade » desservent régulièrement
-    ce quartier. \n-\tLe trajet de la gare centrale ferroviaire jusqu’à Bellecroix
-    dure environ 15 minutes. Après passage sous la porte de Sarrelouis, on peut descendre
-    à l'arrêt « Artilleurs » et rejoindre l'entrée principale de l’IRA, avenue de
-    Lyon, en empruntant le sentier sous les arbres (entre le gymnase et les terrains
-    de sport) ou le passage sous l'immeuble d'habitation."
+    ce quartier. '
 - intitule: Gratuit
   contenu: Inscription obligatoire
   lien: 
