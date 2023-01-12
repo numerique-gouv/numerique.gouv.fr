@@ -138,4 +138,4 @@ Les stands qui seront à votre disposition sont les suivants :
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
 <p><i>Vous pourrez choisir entre une participation en présentiel ou à distance. Nous encourageons toutefois vivement une participation  in situ afin de suivre au mieux les échanges. Le nombre de places étant limité, nous vous invitons à confirmer votre présence avant le 16 janvier 2023.</i></p>
 
-<br> [Accréditation](mailto:floriane.beaudron@modernisation.gouv.fr)
+<br> [Accréditation presse](mailto:floriane.beaudron@modernisation.gouv.fr)
