@@ -55,7 +55,7 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 **Retour sur les solutions financées via la « Concertation nationale pour créer des outils numériques libres et partagés »**
 
-* **Caroline Corbal**, directrice de la mission Incubateur des Territoires, Agence nationale de la cohésion des territoires (ANCT)
+* **Caroline Corbal**, directrice de la mission Incubateur des territoires, Agence nationale de la cohésion des territoires (ANCT)
 
 * **Marine Choquin**, directrice adjointe de l’Incubateur des territoires, Agence nationale de la cohésion des territoires (ANCT)
 
