@@ -1,6 +1,7 @@
 ---
 title: Tour de France des Produits Numériques Partagés - Etape Grand-Est
 date: 2023-01-12 13:44:00 +01:00
+published: false
 categories:
 - Journée d'échanges
 - Micro-conférences et ateliers

@@ -1,6 +1,7 @@
 ---
 title: Tour de France des Produits Numériques Partagés - Etape Hauts-de-France
 date: 2023-01-12 14:50:00 +01:00
+published: false
 categories:
 - Journée d'échanges
 - Micro-conférences et ateliers
@@ -24,3 +25,5 @@ Cet évènement se déroulera le 6 avril, de 9h00 à 17h00 à [Lieu à insérer]
 * Des échanges riches avec les **équipes des régions** qui partagent leurs **innovations**, leurs **usages** et leurs **besoins**.
 
 * Un format dynamique avec des **ateliers participatifs** : des ateliers avancés des produits numériques et des ateliers « multiproduits » collaboratifs.
+
+<div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/inscription-a-l-evenement-lancement-du-referentiel">Inscriptions obligatoires</a></p></div> LIEN A MODIFIER
