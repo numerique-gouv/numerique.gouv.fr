@@ -1,7 +1,6 @@
 ---
 title: Tour de France des Produits Numériques Partagés - Etape Grand-Est
 date: 2023-01-12 13:44:00 +01:00
-published: false
 chapeau-text: |-
   A l’occasion du mois de l’innovation publique, la DINUM a lancé le Tour de France des régions des produits numériques interministériels pour aller à la rencontre des Agents : les informer, les former et continuer à les accompagner à transformer les méthodes de travail - en s'appuyant sur les produits collaboratifs ministériels et interministériels mis à leur disposition.
 
