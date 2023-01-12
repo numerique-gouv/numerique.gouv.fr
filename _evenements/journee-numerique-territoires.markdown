@@ -87,20 +87,20 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 **Intervenants**
 
-* **Pierre-Louis Rolle**, Directeur Innovation et stratégie au sein de la Direction générale déléguée au numérique, Agence Nationale de la Cohésion des Territoires (ANCT)
+* **Pierre-Louis Rolle**, directeur Innovation et stratégie au sein de la Direction générale déléguée au numérique, Agence Nationale de la Cohésion des Territoires (ANCT)
 
-* **Caroline Zorn**, Vice-Présidente de l’Eurométropole de Strasbourg
+* **Caroline Zorn**, vice-présidente de l’Eurométropole de Strasbourg
 
-* **Emmanuel Vivé**, Président, Déclic
+* **Emmanuel Vivé**, président, Déclic
 
-* **Bastien Guerry**, Chef du pôle Logiciels libres, Direction interministérielle du numérique (DINUM)
+* **Bastien Guerry**, chef du pôle Logiciels libres, Direction interministérielle du numérique (DINUM)
 Pascal KUCZYNSKI. Délégué Général, ADDULACT
 
-* **Amélie Durozoy**, Coordinatrice du Réseau des Laboratoires d’Innovation, Direction interministérielle de la transformation publique (DITP)
+* **Amélie Durozoy**, coordinatrice du Réseau des Laboratoires d’Innovation, Direction interministérielle de la transformation publique (DITP)
 
 Une facilitatrice graphique sera présente durant cette séquence et restituera, en direct et visuellement, les échanges et les idées qui émergeront.
 
-#### **\[14h–14h15\] Intervention du Directeur Général de l'Agence nationale de la cohésion des territoires (ANCT), Stanislas Bourron** 
+#### **\[14h–14h15\] Intervention du directeur général de l'Agence nationale de la cohésion des territoires (ANCT), Stanislas Bourron** 
 *Auditorium Marceau Long (Ségur) et Visio*
 
 #### **\[14h15-14h30\] Retour sur les dispositifs de l'Agence nationale de la sécurité des systèmes d'information (ANSSI) et le volet « Cybersécurité »**
