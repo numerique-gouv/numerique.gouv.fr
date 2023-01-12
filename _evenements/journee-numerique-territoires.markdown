@@ -39,7 +39,7 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 *Accueil café / petit-déjeuner*
 
-#### **\[9h30–9h35\] Introduction de la Journée par Stéphanie Schaer, Directrice de la direction interministérielle du numérique (DINUM)**
+#### **\[9h30–9h35\] Introduction de la Journée par Stéphanie Schaer, directrice interministérielle du numérique (DINUM)**
 
 *Auditorium Marceau Long (Ségur) et Visio*
 
