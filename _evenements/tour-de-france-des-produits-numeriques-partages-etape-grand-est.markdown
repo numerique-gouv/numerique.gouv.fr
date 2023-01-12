@@ -21,3 +21,4 @@ Au programme :
 
 * Un format dynamique avec des ateliers participatifs : des ateliers avancés des produits numériques et des ateliers « multiproduits » collaboratifs.  
 
+<div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/inscription-a-l-evenement-lancement-du-referentiel">Inscriptions obligatoires</a></p></div> LIEN A MODIFIER
