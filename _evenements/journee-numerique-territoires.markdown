@@ -16,7 +16,7 @@ lieu: 'Direction interministérielle du numérique '
 adresse: 20 avenue de Ségur, 75007 Paris (présentiel) et visioconférence
 champs_informations:
 - intitule: Horaires
-  contenu: 9h à 17h30
+  contenu: 9h à 16h30
 - intitule: Modalités
   contenu: Entrée libre, inscription obligatoire
   lien: https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307
@@ -32,39 +32,105 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 *\[Programme détaillé\]*
 
-#### **\[9h–10h\] Accueil des participants**
+#### **\[9h–9h30\] Accueil des participants**
 
 *Accueil café / petit-déjeuner*
 
-#### **\[10h–12h30\] Fonds « Transformation numérique des collectivités territoriales » : quels résultats 2 ans après ?**
-*1ère séquence plénière*
+#### **\[9h–9h30\] Introduction de la Journée par Stéphanie Schaer, Directrice de la Direction interministérielle du numérique (DINUM)**
 
-Quels types de projets ont été financés ? Quelles collectivités ont bénéficié des près de 88 millions € accordés ? Quelles améliorations de services pour les usagers et quels bénéfices pour les agents ?
+*Auditorium Marceau Long (Ségur) et Visio*
+
+#### **\[9h35–10h45\] 1ère séquence plénière : Fonds « Transformation numérique des collectivités territoriales » : quels résultats 2 ans après ? »**
+
+*Auditorium Marceau Long (Ségur) et Visio*
+
+*Quels types de projets ont été financés ? Quelles collectivités ont bénéficié des près de 88 millions € accordés ? Quelles améliorations de services pour les usagers et quels bénéfices pour les agents ?*
+
+**Introduction**
+
+* **Patrick Ruestchmann**, chef de la Mission Transformation numérique de l’État, Direction interministérielle du numérique (DINUM)
+
+**Retour sur les solutions financées via la « Concertation nationale pour créer des outils numériques libres et partagés »**
+
+* **Caroline Corbal**, directrice de la mission Incubateur des Territoires, Agence nationale de la cohésion des territoires (ANCT)
+
+* **Marine Choquin**, directrice adjointe de l’Incubateur des territoires, Agence nationale de la cohésion des territoires (ANCT)
+
+* Pitch de **Delphine Bouillon-Marillie**, Département de l’Isère, lauréate pour le projet « Salle sur demande »
+
+* Pitch de **Christophe Le Bivic**, Gironde Numérique, lauréat pour les projets « Signature électronique » et « Multicanal »
+
+**Résultat des dispositifs opérés par la DINUM : appels à projets d’ampleur et Guichet FranceConnect et API**
+
+* **Maria Cotora**, cheffe du programme Transformation numérique des Territoires, Direction interministérielle du numérique (DINUM)
+
+* Pitch de **Muriel Chabert**, directrice de la Direction Modernisation des administrations et Services numériques et **Lydie Vinsonneau**, responsable mission accompagnement et data, lauréates pour le projet « collec-data », Mégalis Bretagne
+
+* Pitch de lauréat (*)
+
+**Bilan des fonds alloués via les guichets territoriaux**
+
+* **Claire Orosco**, responsable du Fonds pour la Transformation de l’Action Publique, Direction interministérielle de la transformation publique (DITP)
+
+* **Camille Rouge**, cheffe de projets Innovation publique, Direction interministérielle de la transformation publique (DITP)
+
+* Pitch de lauréat (*)
+
+#### **\[11h-11h15\] Intervention de la Direction interministérielle de la Transformation publique*** 
+
+*Auditorium Marceau Long (Ségur) et Visio*
+
+#### **\[11h15–12h45\] 2e séquence plénière : Table-ronde « Comment accélérer la mutualisation des produits et services numériques entre acteurs publics ? »**
+*Auditorium Marceau Long (Ségur) et Visio*
+
+**Animation**
+
+* Patrick **Ruestchmann**, chef de la Mission Transformation numérique de l’État, Direction interministérielle du numérique (DINUM)
 
 **Intervenants**
 
-* **Patrick Ruestchmann**, chef de la mission transformation numérique de l’État, direction interministérielle du numérique (DINUM)
+* **Pierre-Louis Rolle**, directeur Innovation et stratégie au sein de la Direction générale déléguée au numérique, Agence Nationale de la Cohésion des Territoires (ANCT)
 
-* **Caroline Corbal**, directrice de la mission incubateur des territoires, agence nationale de la cohésion des territoires (ANCT)
+* **Caroline Zorn**, vice-présidente de l’Eurométropole de Strasbourg
 
-* **Maria Cotora**, cheffe du programme transformation numérique des territoires, direction interministérielle du numérique (DINUM)
+* **Emmanuel Vivé**, président, Déclic
 
-* **Claire Orosco**, responsable du fonds pour la transformation de l’action publique, direction interministérielle de la transformation publique (DITP)
+* **Bastien Guerry**, chef du pôle Logiciels libres, Direction interministérielle du numérique (DINUM)
+Pascal KUCZYNSKI. Délégué Général, ADDULACT
 
-* **Amélie Durozoy**, coordinatrice du réseau des laboratoires d’innovation, direction interministérielle de la transformation publique (DITP)
+* **Amélie Durozoy**, coordinatrice du Réseau des Laboratoires d’Innovation, Direction interministérielle de la transformation publique (DITP)
 
-* **Gwenaëlle Martinet**, conseillère auprès du directeur général, cheffe de projet « France Relance », agence nationale de la sécurité des systèmes d'information (ANSSI)
+Une facilitatrice graphique sera présente durant cette séquence et restituera, en direct et visuellement, les échanges et les idées qui émergeront.
 
-Des pitchs de présentation/démonstration de projets lauréats sont également prévus.
+#### **\[14h–14h15\] Intervention du directeur général de l'Agence nationale de la cohésion des territoires (ANCT), Stanislas Bourron** 
+*Auditorium Marceau Long (Ségur) et Visio*
 
-#### **\[14h–16h\] Table-ronde « Comment accélérer la mutualisation des produits et services numériques entre acteurs publics ? »**
-*2e séquence plénière*
+#### **\[14h15-14h30\] Retour sur les dispositifs de l'Agence nationale de la sécurité des systèmes d'information (ANSSI) et le volet « Cybersécurité »**
+*Auditorium Marceau Long (Ségur) et Visio*
 
-Le panel sera composé d’intervenants issus de l’administration centrale (DINUM, DITP, ANCT), de représentants de collectivités territoriales et de structures de mutualisation.
+* **Gwenaëlle Martinet**, conseillère auprès du directeur général, Cheffe de projet « FranceRelance », Agence nationale de la sécurité des systèmes d'information (ANSSI)
 
-#### **\[16h–17h30\] Un « Forum » sur la transformation numérique des territoires**
-Celui-ci regroupera des stands d’équipes de la DINUM, de la DITP et de l’ANCT permettant aux participants d’échanger directement avec les équipes de différents produits et services numériques d’intérêt pour appuyer la transformation numérique des territoires (API, France Connect, Incubateur des territoires, Laboratoires d’innovation territoriale, etc.)
+#### **\[14h30–14h45\] Intervention de la Directrice de la Direction interministérielle du numérique (DINUM), Stéphanie Schaer**
+*Auditorium Marceau Long (Ségur) et Visio*
 
+#### **\[14h45–15h\] Intervention du Ministre de la Transformation et de la Fonction Publiques, Stanislas Guérini**
+*Auditorium Marceau Long (Ségur) et Visio*
+
+#### **\[15h–16h30\] « Forum » dédié aux agents / élus des collectivités territoriales**
+*Mezzanine Ségur et Salle Jean Monnet*
+
+Les stands qui seront à votre disposition sont les suivants :
+* Incubateur des territoires - ANCT
+* Mission Cloud - DINUM
+* Mission interministérielle numérique écoresponsable (MiNumEco) - DINUM
+* Mission Label / Catalogue GouvTech - DINUM
+* Design de services numériques / Accessibilité numérique - DINUM
+* Dites-le nous une fois / API - DINUM
+* FranceConnect - DINUM
+* Démarches Simplifiées - DINUM, ADULLACT
+* Laboratoires d’innovation, Pôle « territoires » et Fonds pour la transformation de l'action publique (FTAP) - DITP
+* Mission Logiciels libres - DINUM
+* Incubateur services publics numériques, Beta.gouv - DINUM
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
 <p><i>Vous pourrez choisir entre une participation en présentiel ou à distance. Nous encourageons toutefois vivement une participation  in situ afin de suivre au mieux les échanges. Le nombre de places étant limité, nous vous invitons à confirmer votre présence avant le 6 janvier 2023.</i></p>
