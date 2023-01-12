@@ -76,7 +76,7 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 * Pitch de lauréat (*)
 
-#### **\[11h-11h15\] Intervention de la Direction interministérielle de la Transformation publique(*)** *Auditorium Marceau Long (Ségur) et Visio*
+#### **\[11h-11h15\] Intervention de la Direction interministérielle de la Transformation publique** *Auditorium Marceau Long (Ségur) et Visio*
 
 #### **\[11h15–12h45\] 2e séquence plénière : Table-ronde « Comment accélérer la mutualisation des produits et services numériques entre acteurs publics ? »**
 *Auditorium Marceau Long (Ségur) et Visio*
