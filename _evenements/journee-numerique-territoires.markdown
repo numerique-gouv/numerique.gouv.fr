@@ -114,7 +114,7 @@ Une facilitatrice graphique sera présente durant cette séquence et restituera,
 
 * **Gwenaëlle Martinet**, conseillère auprès du directeur général, Cheffe de projet « FranceRelance », Agence nationale de la sécurité des systèmes d'information (ANSSI)
 
-#### **\[14h30–14h45\] Intervention de la Directrice de la direction interministérielle du numérique (DINUM), Stéphanie Schaer**
+#### **\[14h30–14h45\] Intervention de la directrice interministérielle du numérique (DINUM), Stéphanie Schaer**
 *Auditorium Marceau Long (Ségur) et Visio*
 
 #### **\[14h45–15h\] Intervention du ministre de la Transformation et de la Fonction publiques, Stanislas Guerini**
