@@ -106,7 +106,7 @@ Une facilitatrice graphique sera présente durant cette séquence et restituera,
 #### **\[14h15-14h30\] Retour sur les dispositifs de l'Agence nationale de la sécurité des systèmes d'information (ANSSI) et le volet « Cybersécurité »**
 *Auditorium Marceau Long (Ségur) et Visio*
 
-* **Gwenaëlle Martinet**, Conseillère auprès du directeur général, Cheffe de projet « FranceRelance », Agence nationale de la sécurité des systèmes d'information (ANSSI)
+* **Gwenaëlle Martinet**, conseillère auprès du directeur général, Cheffe de projet « FranceRelance », Agence nationale de la sécurité des systèmes d'information (ANSSI)
 
 #### **\[14h30–14h45\] Intervention de la Directrice de la Direction interministérielle du numérique (DINUM), Stéphanie Schaer**
 *Auditorium Marceau Long (Ségur) et Visio*
@@ -114,7 +114,7 @@ Une facilitatrice graphique sera présente durant cette séquence et restituera,
 #### **\[14h45–15h\] Intervention du Ministre de la Transformation et de la Fonction Publiques, Stanislas Guérini**
 *Auditorium Marceau Long (Ségur) et Visio*
 
-#### **\[15h–16h30\] « Forum » dédié aux agents / élus des collectivités territoriales
+#### **\[15h–16h30\] « Forum » dédié aux agents / élus des collectivités territoriales**
 <*Mezzanine Ségur et Salle Jean Monnet*
 
 Les stands qui seront à votre disposition sont les suivants :
