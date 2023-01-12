@@ -85,7 +85,7 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 **Animation**
 
-* Patrick **Ruestchmann**, Chef de la Mission Transformation numérique de l’État, Direction interministérielle du numérique (DINUM)
+* Patrick **Ruestchmann**, chef de la Mission Transformation numérique de l’État, Direction interministérielle du numérique (DINUM)
 
 **Intervenants**
 
