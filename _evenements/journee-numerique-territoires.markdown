@@ -66,7 +66,7 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 * Pitch de **Muriel Chabert**, directrice de la Direction Modernisation des administrations et Services numériques et **Lydie Vinsonneau**, responsable mission accompagnement et data, lauréates pour le projet « collec-data », Mégalis Bretagne
 
-* Pitch de lauréat (*)
+* Pitch de lauréat*
 
 **Bilan des fonds alloués via les guichets territoriaux**
 
@@ -74,7 +74,7 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 * **Camille Rouge**, cheffe de projets Innovation publique, Direction interministérielle de la transformation publique (DITP)
 
-* Pitch de lauréat (*)
+* Pitch de lauréat*
 
 #### **\[11h-11h15\] Intervention de la Direction interministérielle de la Transformation publique*** 
 
