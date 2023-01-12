@@ -115,7 +115,7 @@ Une facilitatrice graphique sera présente durant cette séquence et restituera,
 *Auditorium Marceau Long (Ségur) et Visio*
 
 #### **\[15h–16h30\] « Forum » dédié aux agents / élus des collectivités territoriales
-*Mezzanine Ségur et Salle Jean Monnet*
+<br>*Mezzanine Ségur et Salle Jean Monnet*
 
 Les stands qui seront à votre disposition sont les suivants :
 * Incubateur des territoires - ANCT
