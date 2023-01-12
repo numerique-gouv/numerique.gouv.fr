@@ -39,7 +39,7 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 *Accueil café / petit-déjeuner*
 
-#### **\[9h30–9h35\] Introduction de la Journée par Stéphanie Schaer, Directrice de la Direction interministérielle du numérique (DINUM)**
+#### **\[9h30–9h35\] Introduction de la Journée par Stéphanie Schaer, Directrice de la direction interministérielle du numérique (DINUM)**
 
 *Auditorium Marceau Long (Ségur) et Visio*
 
@@ -51,11 +51,11 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 **Introduction**
 
-* **Patrick Ruestchmann**, chef de la Mission Transformation numérique de l’État, Direction interministérielle du numérique (DINUM)
+* **Patrick Ruestchmann**, chef de la Mission Transformation numérique de l’État, direction interministérielle du numérique (DINUM)
 
 **Retour sur les solutions financées via la « Concertation nationale pour créer des outils numériques libres et partagés »**
 
-* **Caroline Corbal**, directrice de la mission Incubateur des Territoires, Agence nationale de la cohésion des territoires (ANCT)
+* **Caroline Corbal**, directrice de la mission Incubateur des territoires, Agence nationale de la cohésion des territoires (ANCT)
 
 * **Marine Choquin**, directrice adjointe de l’Incubateur des territoires, Agence nationale de la cohésion des territoires (ANCT)
 
@@ -65,7 +65,7 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 **Résultat des dispositifs opérés par la DINUM : appels à projets d’ampleur et Guichet FranceConnect et API**
 
-* **Maria Cotora**, cheffe du programme Transformation numérique des Territoires, Direction interministérielle du numérique (DINUM)
+* **Maria Cotora**, cheffe du programme Transformation numérique des Territoires, direction interministérielle du numérique (DINUM)
 
 * Pitch de **Muriel Chabert**, directrice de la Direction Modernisation des administrations et Services numériques et **Lydie Vinsonneau**, responsable mission accompagnement et data, lauréates pour le projet « collec-data », Mégalis Bretagne
 
@@ -73,13 +73,13 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 **Bilan des fonds alloués via les guichets territoriaux**
 
-* **Claire Orosco**, responsable du Fonds pour la Transformation de l’Action Publique, Direction interministérielle de la transformation publique (DITP)
+* **Claire Orosco**, responsable du Fonds pour la Transformation de l’Action Publique, direction interministérielle de la transformation publique (DITP)
 
-* **Camille Rouge**, cheffe de projets Innovation publique, Direction interministérielle de la transformation publique (DITP)
+* **Camille Rouge**, cheffe de projets Innovation publique, direction interministérielle de la transformation publique (DITP)
 
 * Pitch de lauréat*
 
-#### **\[11h-11h15\] Intervention de la Direction interministérielle de la Transformation publique*** 
+#### **\[11h-11h15\] Intervention de la direction interministérielle de la Transformation publique*** 
 
 *Auditorium Marceau Long (Ségur) et Visio*
 
@@ -88,7 +88,7 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 **Animation**
 
-* Patrick **Ruestchmann**, chef de la Mission Transformation numérique de l’État, Direction interministérielle du numérique (DINUM)
+* Patrick **Ruestchmann**, chef de la Mission Transformation numérique de l’État, direction interministérielle du numérique (DINUM)
 
 **Intervenants**
 
@@ -98,11 +98,11 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 * **Emmanuel Vivé**, président, Déclic
 
-* **Bastien Guerry**, chef du pôle Logiciels libres, Direction interministérielle du numérique (DINUM)
+* **Bastien Guerry**, chef du pôle Logiciels libres, direction interministérielle du numérique (DINUM)
 
-* **Pascal Kuczynski**, délégué général, ADDULACT
+* **Pascal Kuczynski**, délégué général, ADULLACT
 
-* **Amélie Durozoy**, coordinatrice du Réseau des Laboratoires d’Innovation, Direction interministérielle de la transformation publique (DITP)
+* **Amélie Durozoy**, coordinatrice du Réseau des Laboratoires d’Innovation, direction interministérielle de la transformation publique (DITP)
 
 Une facilitatrice graphique sera présente durant cette séquence et restituera, en direct et visuellement, les échanges et les idées qui émergeront.
 
@@ -114,14 +114,14 @@ Une facilitatrice graphique sera présente durant cette séquence et restituera,
 
 * **Gwenaëlle Martinet**, conseillère auprès du directeur général, Cheffe de projet « FranceRelance », Agence nationale de la sécurité des systèmes d'information (ANSSI)
 
-#### **\[14h30–14h45\] Intervention de la Directrice de la Direction interministérielle du numérique (DINUM), Stéphanie Schaer**
+#### **\[14h30–14h45\] Intervention de la directrice interministérielle du numérique (DINUM), Stéphanie Schaer**
 *Auditorium Marceau Long (Ségur) et Visio*
 
-#### **\[14h45–15h\] Intervention du Ministre de la Transformation et de la Fonction Publiques, Stanislas Guérini**
+#### **\[14h45–15h\] Intervention du ministre de la Transformation et de la Fonction publiques, Stanislas Guerini**
 *Auditorium Marceau Long (Ségur) et Visio*
 
 #### **\[15h–16h30\] « Forum » dédié aux agents / élus des collectivités territoriales**
-*Mezzanine Ségur et Salle Jean Monnet*
+*Mezzanine Ségur et salle Jean Monnet*
 
 Les stands qui seront à votre disposition sont les suivants :
 * Incubateur des territoires - ANCT
@@ -134,7 +134,7 @@ Les stands qui seront à votre disposition sont les suivants :
 * Démarches Simplifiées - DINUM, ADULLACT
 * Laboratoires d’innovation, Pôle « territoires » et Fonds pour la transformation de l'action publique (FTAP) - DITP
 * Mission Logiciels libres - DINUM
-* Incubateur services publics numériques, Beta.gouv - DINUM
+* Incubateur de services publics numériques, Beta.gouv - DINUM
 
 (﻿*) à confirmer
 
