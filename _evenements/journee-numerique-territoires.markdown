@@ -16,7 +16,7 @@ lieu: 'Direction interministérielle du numérique '
 adresse: 20 avenue de Ségur, 75007 Paris (présentiel) et visioconférence
 champs_informations:
 - intitule: Horaires
-  contenu: 9h à 17h30
+  contenu: 9h à 16h30
 - intitule: Modalités
   contenu: Entrée libre, inscription obligatoire
   lien: https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307
