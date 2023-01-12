@@ -20,6 +20,9 @@ champs_informations:
 - intitule: Modalités
   contenu: Entrée libre, inscription obligatoire
   lien: https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307
+- intitule: Journalistes
+  contenu: Accréditation presse
+  lien: mailto:floriane.beaudron@modernisation.gouv.fr
 ---
 
 À l’occasion du **deuxième anniversaire du fonds France Relance** dédié à la « Transformation numérique des collectivités territoriales », cette journée **mettra à l’honneur les lauréats du fonds et leurs réalisations**, en offrant une **vue d’ensemble des projets financés** et des **présentations/démonstrations de solutions** développées.
@@ -66,7 +69,7 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 * Pitch de **Muriel Chabert**, directrice de la Direction Modernisation des administrations et Services numériques et **Lydie Vinsonneau**, responsable mission accompagnement et data, lauréates pour le projet « collec-data », Mégalis Bretagne
 
-* Pitch de lauréat (*)
+* Pitch de lauréat*
 
 **Bilan des fonds alloués via les guichets territoriaux**
 
@@ -74,7 +77,7 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 * **Camille Rouge**, cheffe de projets Innovation publique, Direction interministérielle de la transformation publique (DITP)
 
-* Pitch de lauréat (*)
+* Pitch de lauréat*
 
 #### **\[11h-11h15\] Intervention de la Direction interministérielle de la Transformation publique*** 
 
@@ -133,5 +136,9 @@ Les stands qui seront à votre disposition sont les suivants :
 * Mission Logiciels libres - DINUM
 * Incubateur services publics numériques, Beta.gouv - DINUM
 
+(﻿*) à confirmer
+
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.eventbrite.fr/e/billets-journee-numerique-territoires-492720509307" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
-<p><i>Vous pourrez choisir entre une participation en présentiel ou à distance. Nous encourageons toutefois vivement une participation  in situ afin de suivre au mieux les échanges. Le nombre de places étant limité, nous vous invitons à confirmer votre présence avant le 6 janvier 2023.</i></p>
+<p><i>Vous pourrez choisir entre une participation en présentiel ou à distance. Nous encourageons toutefois vivement une participation  in situ afin de suivre au mieux les échanges. Le nombre de places étant limité, nous vous invitons à confirmer votre présence avant le 16 janvier 2023.</i></p>
+
+<br> [Accréditation presse](mailto:floriane.beaudron@modernisation.gouv.fr)
