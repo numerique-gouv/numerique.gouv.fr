@@ -98,11 +98,11 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 * **Emmanuel Vivé**, président, Déclic
 
-* **Bastien Guerry**, chef du pôle Logiciels libres, Direction interministérielle du numérique (DINUM)
+* **Bastien Guerry**, chef du pôle Logiciels libres, direction interministérielle du numérique (DINUM)
 
-* **Pascal Kuczynski**, délégué général, ADDULACT
+* **Pascal Kuczynski**, délégué général, ADULLACT
 
-* **Amélie Durozoy**, coordinatrice du Réseau des Laboratoires d’Innovation, Direction interministérielle de la transformation publique (DITP)
+* **Amélie Durozoy**, coordinatrice du Réseau des Laboratoires d’Innovation, direction interministérielle de la transformation publique (DITP)
 
 Une facilitatrice graphique sera présente durant cette séquence et restituera, en direct et visuellement, les échanges et les idées qui émergeront.
 
