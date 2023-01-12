@@ -48,13 +48,13 @@ Prenez part à cette première Journée pour **rencontrer et échanger avec vos 
 
 **Introduction**
 
-* Patrick Ruestchmann, Chef de la Mission Transformation numérique de l’État, Direction interministérielle du numérique (DINUM)
+* **Patrick Ruestchmann**, Chef de la Mission Transformation numérique de l’État, Direction interministérielle du numérique (DINUM)
 
 **Retour sur les solutions financées via la « Concertation nationale pour créer des outils numériques libres et partagés »**
 
 * **Caroline Corbal**, directrice de la mission Incubateur des Territoires, Agence nationale de la cohésion des territoires (ANCT)
 
-* * Marine Choquin, directrice adjointe de l’Incubateur des territoires, Agence nationale de la cohésion des territoires (ANCT)
+* **Marine Choquin**, directrice adjointe de l’Incubateur des territoires, Agence nationale de la cohésion des territoires (ANCT)
 
 * Pitch de **Delphine Bouillon-Marillie**, Département de l’Isère, lauréate pour le projet « Salle sur demande »
 
@@ -114,7 +114,7 @@ Une facilitatrice graphique sera présente durant cette séquence et restituera,
 #### **\[14h45–15h\] Intervention du Ministre de la Transformation et de la Fonction Publiques, Stanislas Guérini**
 *Auditorium Marceau Long (Ségur) et Visio*
 
-[15h–16h30] « Forum » dédié aux agents / élus des collectivités territoriales
+#### **\[15h–16h30\] « Forum » dédié aux agents / élus des collectivités territoriales
 *Mezzanine Ségur et Salle Jean Monnet*
 
 Les stands qui seront à votre disposition sont les suivants :
