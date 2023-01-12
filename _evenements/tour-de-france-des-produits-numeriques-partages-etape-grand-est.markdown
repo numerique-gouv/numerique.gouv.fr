@@ -9,16 +9,22 @@ event_start_date: 2023-03-23 09:00:00 +01:00
 lieu: 'Institut régional d''administration (IRA) de Metz '
 adresse: 15 Avenue de Lyon, Metz
 champs_informations:
+- intitule: Horaires
+  contenu: 9h - 17h
 - intitule: Accès à pied
-  contenu: |-
-    - Depuis l’hôtel de Ville : durée du trajet de 20 à 30 min.
-    - Depuis la gare centrale : durée du trajet de 20 à 30 min.
-    En sortant de la gare du côté du centre Pompidou-Metz, suivre l’avenue de l’Amphithéâtre, qui se prolonge par le pont de Hurleloup et la rue des frères Lacretelle, longer l’hôpital interarmées Legouest, emprunter sur la gauche l’extrémité de la rue du Pont Rouge, traverser la voie pénétrante est (N233) et prendre à droite pour la longer brièvement avant de monter l’escalier vers la rue Louis Forest et l’avenue de Lyon (ou la rampe cyclable vers la rue de l’Ardèche).
+  contenu: "-\tDepuis l’hôtel de Ville : durée du trajet de 20 à 30 min.\n-\tDepuis
+    la gare centrale : durée du trajet de 20 à 30 min.\nEn sortant de la gare du côté
+    du centre Pompidou-Metz, suivre l’avenue de l’Amphithéâtre, qui se prolonge par
+    le pont de Hurleloup et la rue des frères Lacretelle, longer l’hôpital interarmées
+    Legouest, emprunter sur la gauche l’extrémité de la rue du Pont Rouge, traverser
+    la voie pénétrante est (N233) et prendre à droite pour la longer brièvement avant
+    de monter l’escalier vers la rue Louis Forest et l’avenue de Lyon (ou la rampe
+    cyclable vers la rue de l’Ardèche)."
 - intitule: Accès en bus
-  contenu: "- Les lignes des bus urbains (« Le Met’ ») de la communauté d’agglomération
+  contenu: "-\tLes lignes des bus urbains (« Le Met’ ») de la communauté d’agglomération
     de Metz Métropole (CA2M) n° L1 à destination de la « Corchade » desservent régulièrement
-    ce quartier. \n- Le trajet de la gare centrale ferroviaire jusqu’à Bellecroix
-    dure environ 15 min. Après passage sous la porte de Sarrelouis, on peut descendre
+    ce quartier. \n-\tLe trajet de la gare centrale ferroviaire jusqu’à Bellecroix
+    dure environ 15 minutes. Après passage sous la porte de Sarrelouis, on peut descendre
     à l'arrêt « Artilleurs » et rejoindre l'entrée principale de l’IRA, avenue de
     Lyon, en empruntant le sentier sous les arbres (entre le gymnase et les terrains
     de sport) ou le passage sous l'immeuble d'habitation."
@@ -29,12 +35,12 @@ champs_informations:
 
 Cet évènement se déroulera le mercredi 23 mars, de 9h00 à 17h00 à l’Institut régional d'administration (IRA) de Metz. 
 
-Au programme : 
+#### Au programme : 
 
-* Présenter les outils aux agents, les aider à choisir la bonne solution en fonction du cas d’usage, et les familiariser avec les nouvelles fonctionnalités des produits. 
+* Présenter les [outils aux agents](https://www.numerique.gouv.fr/outils-agents/), les aider à **choisir la bonne solution** en fonction du cas d’usage, et les **familiariser** avec les nouvelles fonctionnalités des produits.
 
-* Des échanges riches avec les équipes des régions qui partagent leurs innovations, leurs usages et leurs besoins. 
+* Des échanges riches avec les **équipes des régions** qui partagent leurs **innovations**, leurs **usages** et leurs **besoins**.
 
-* Un format dynamique avec des ateliers participatifs : des ateliers avancés des produits numériques et des ateliers « multiproduits » collaboratifs.  
+* Un format dynamique avec des **ateliers participatifs** : des ateliers avancés des produits numériques et des ateliers « multiproduits » collaboratifs.  
 
 <div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/inscription-a-l-evenement-lancement-du-referentiel">Inscriptions obligatoires</a></p></div> LIEN A MODIFIER
