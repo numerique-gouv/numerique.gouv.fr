@@ -16,7 +16,8 @@ une-ou-diaporama:
     18 janvier 2023
     Journée numérique et territoires
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_TRANSFORMATION_NUMERIQUE_TERRITOIRES_FRANCE_RELANCE.PDF"
+  nom: Télécharger le communiqué de presse
 ---
 
 **Afin de présenter les résultats de ces travaux, la DINUM, animatrice du programme Transformation numérique des territoires (TNT), organise, avec la participation active de la DITP, de l’ANCT et de l’ANSSI, la journée « Numérique & Territoires » le 18 janvier 2023 à Paris.**
