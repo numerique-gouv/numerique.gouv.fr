@@ -2,7 +2,6 @@
 title: 'Journée Numérique & Territoires : l’État présente les projets numériques menés  en
   partenariat avec les collectivites territoriales dans le cadre du plan de relance'
 date: 2023-01-13 10:00:00 +01:00
-published: false
 categories:
 - Communiqué de presse
 tags:
