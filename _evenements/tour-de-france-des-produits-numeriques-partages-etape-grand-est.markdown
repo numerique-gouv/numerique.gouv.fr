@@ -21,12 +21,12 @@ champs_informations:
   contenu: 'Les lignes des bus urbains (« Le Met’ ») de la communauté d’agglomération
     de Metz Métropole (CA2M) n° L1 à destination de la « Corchade » desservent régulièrement
     ce quartier. '
-- intitule: Gratuit
-  contenu: Inscription obligatoire
+- intitule: Gratuit, inscription obligatoire
+  contenu: Ouverture des inscriptions le 26 janvier
   lien: 
 ---
 
-Cet évènement se déroulera le mercredi 23 mars, de 9h00 à 17h00 à l’Institut régional d'administration (IRA) de Metz. 
+Cet évènement se déroulera **le mercredi 23 mars, de 9h00 à 17h00** à l’Institut régional d'administration (IRA) de Metz. 
 
 #### Au programme : 
 
@@ -36,4 +36,4 @@ Cet évènement se déroulera le mercredi 23 mars, de 9h00 à 17h00 à l’Insti
 
 * Un format dynamique avec des **ateliers participatifs** : des ateliers avancés des produits numériques et des ateliers « multiproduits » collaboratifs.  
 
-<div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/inscription-a-l-evenement-lancement-du-referentiel">Inscriptions obligatoires</a></p></div> LIEN A MODIFIER
+<b>*Ouverture des inscriptions le 26 janvier*<b/>
