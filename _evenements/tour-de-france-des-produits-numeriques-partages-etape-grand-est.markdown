@@ -25,7 +25,7 @@ champs_informations:
   lien: 
 ---
 
-Cet évènement se déroulera le mercredi 23 mars, de 9h00 à 17h00 à l’Institut régional d'administration (IRA) de Metz. 
+Cet évènement se déroulera **le mercredi 23 mars, de 9h00 à 17h00** à l’Institut régional d'administration (IRA) de Metz. 
 
 #### Au programme : 
 
@@ -35,4 +35,4 @@ Cet évènement se déroulera le mercredi 23 mars, de 9h00 à 17h00 à l’Insti
 
 * Un format dynamique avec des **ateliers participatifs** : des ateliers avancés des produits numériques et des ateliers « multiproduits » collaboratifs.  
 
-*Ouverture des inscriptions le 26 janvier*
+<b>*Ouverture des inscriptions le 26 janvier*<b/>
