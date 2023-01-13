@@ -10,6 +10,7 @@ chapeau-text: 'Rejoignez le nouvel incubateur Datalab ! Le guichet "Exploitation
   valorisation de la donnée" est ouvert aux candidatures ! Vous avez un projet ? Retrouvez-nous
   lors d’un webinaire d’information pour une présentation et des exemples de projets
   à impact, suivi d’un temps d’échange avec un membre de l''équipe en charge du guichet. '
+event_start_date: 2023-01-23 16:00:00 +01:00
 ---
 
 Le pôle exploitation des données de la DINUM a lancé ce lundi 16 janvier un guichet "Exploitation et valorisation de la donnée". Ce guichet thématique vise à amener les administrations à s’emparer des grands enjeux autour de ce sujet stratégique, inscrit au cœur de la mise en œuvre des politiques publiques.
