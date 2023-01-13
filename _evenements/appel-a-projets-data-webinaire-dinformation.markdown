@@ -21,3 +21,8 @@ Déroulé :
 * **16h-16h20** Présentation du guichet : les types de projets attendus, les critères de sélection, les modalités (calendrier, montant des projets, % de cofinancement, contrat de réussite) et présentation de l’accompagnement prévu par le Datalab 
 * **16h20-16h30** Exemples de projets à impact
 * **16h30-17h30** Pour les porteurs ayant un projet, possibilité de le présenter et d’obtenir un retour afin de préparer une éventuelle candidature. 
+
+<div align="center"><a href="https://webinaire.numerique.gouv.fr//meeting/signin/4562/creator/1673/hash/71997f21a8f284b441bb67cf8ddcf7c609100ecb" class="button"><b>Accéder au webinaire d'information</b></a><p class="ouverture">Ouverture le 23 janvier à 16h</p></div>
+
+<div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>N’hésitez pas à consulter <a href="https://www.data.gouv.fr/fr/">notre site</a>. Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez écrire à 
+<a href="https://support.data.gouv.fr/">nous contacter</a>.</p> </div>
