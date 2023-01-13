@@ -1,7 +1,6 @@
 ---
 title: Tour de France des Produits Numériques Partagés - Etape Grand-Est
 date: 2023-01-12 13:44:00 +01:00
-published: false
 categories:
 - Journée d'échanges
 - Micro-conférences et ateliers
@@ -21,8 +20,8 @@ champs_informations:
   contenu: 'Les lignes des bus urbains (« Le Met’ ») de la communauté d’agglomération
     de Metz Métropole (CA2M) n° L1 à destination de la « Corchade » desservent régulièrement
     ce quartier. '
-- intitule: Gratuit
-  contenu: Inscription obligatoire
+- intitule: Gratuit, inscription obligatoire
+  contenu: Ouverture des inscriptions le 26 janvier
   lien: 
 ---
 
