@@ -10,6 +10,10 @@ chapeau-text: Le guichet « Exploitation et valorisation de la donnée » est ou
   aux candidatures ! Vous avez un projet ? Retrouvez-nous lors d’un webinaire d’information
   pour une présentation et des exemples de projets à impact, suivi d’un temps d’échange
   avec un membre de l'équipe en charge du guichet.
+une-ou-diaporama:
+- image: "/uploads/2023_01_16_Webinaire_guichet-data-FTAP_Agenda.jpg"
+  alternative-textuelle: "Webinaire d’information\n \nTout savoir sur le guichet de
+    financement\nExploitation et valorisation des données\n \n23 janvier\n16h-17h30"
 event_start_date: 2023-01-23 16:00:00 +01:00
 lieu: 'Evénement 100% en ligne sous forme de webinaire '
 champs_informations:
