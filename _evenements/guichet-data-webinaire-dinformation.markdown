@@ -1,6 +1,7 @@
 ---
 title: Guichet « Valorisation et exploitation de la donnée » – webinaire d’information
 date: 2023-01-13 17:00:00 +01:00
+published: false
 categories:
 - Webinaire d'information
 tags:
@@ -37,5 +38,5 @@ L'événement se tiendra exclusivement **en ligne** (les détails de connexion v
 * **[16h20-16h30]** Exemples de projets à impact
 * **[16h30-17h30]** Pour les porteurs ayant un projet, possibilité de le présenter et d’obtenir un retour afin de préparer une éventuelle candidature. 
 
-<div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez écrire à 
+<div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez nous écrire à 
 <a href="mailto:guichet-data@data.gouv.fr ">guichet-data@data.gouv.fr</a>.</p> </div>
