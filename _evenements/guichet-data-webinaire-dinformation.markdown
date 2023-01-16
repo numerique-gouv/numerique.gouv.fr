@@ -33,7 +33,7 @@ Ce guichet vous permet d’accélérer vos projets data grâce à une aide maté
 L'événement se tiendra exclusivement **en ligne** (les détails de connexion vous seront communiqués par mail le jour de l'événement, à l'adresse e-mail indiquée lors de l'inscription ).
 
 #### Déroulé :
-* **16h-16h20**: Présentation du guichet : les types de projets attendus, les critères de sélection, les modalités (calendrier, montant des projets, % de cofinancement, contrat de réussite) et présentation de l’accompagnement prévu par le Datalab 
+* **[16h-16h20]**: Présentation du guichet : les types de projets attendus, les critères de sélection, les modalités (calendrier, montant des projets, % de cofinancement, contrat de réussite) et présentation de l’accompagnement prévu par le Datalab 
 * **16h20-16h30**: Exemples de projets à impact
 * **16h30-17h30**: Pour les porteurs ayant un projet, possibilité de le présenter et d’obtenir un retour afin de préparer une éventuelle candidature. 
 
