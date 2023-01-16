@@ -1,7 +1,6 @@
 ---
 title: Guichet « Valorisation et exploitation de la donnée » – webinaire d’information
 date: 2023-01-13 17:00:00 +01:00
-published: false
 categories:
 - Webinaire d'information
 tags:
@@ -17,7 +16,7 @@ champs_informations:
   contenu: 16h - 17h30
 - intitule: Modalités
   contenu: Inscriptions obligatoires
-  lien: 
+  lien: https://www.eventbrite.fr/e/billets-guichet-valorisation-et-exploitation-de-la-donnee-webinaire-dinformation-516614867977
 - intitule: Plus d'informations sur le guichet
   contenu: 
 ---
@@ -31,12 +30,12 @@ Ce guichet thématique vise à amener les administrations à s’emparer des gra
 
 Ce guichet vous permet d’accélérer vos projets data grâce à une aide matérielle, technique, humaine et juridique. Venez découvrir le nouveau guichet dédié à la data et échanger autour de notre guichet **le 23 janvier** prochain.
 
-L'événement se tiendra exclusivement **en ligne** (les détails de connexion vous seront communiqués par mail le jour de l'événement, à l'adresse e-mail indiquée lors de l'inscription ).
+L'événement se tiendra exclusivement **en ligne** (les détails de connexion vous seront communiqués par mail le jour de l'événement, à l'adresse e-mail indiquée lors de [l'inscription](https://www.eventbrite.fr/e/billets-guichet-valorisation-et-exploitation-de-la-donnee-webinaire-dinformation-516614867977)).
 
 #### Déroulé :
 * **[16h-16h20]** Présentation du guichet : les types de projets attendus, les critères de sélection, les modalités (calendrier, montant des projets, % de cofinancement, contrat de réussite) et présentation de l’accompagnement prévu par le Datalab 
 * **[16h20-16h30]** Exemples de projets à impact
 * **[16h30-17h30]** Pour les porteurs ayant un projet, possibilité de le présenter et d’obtenir un retour afin de préparer une éventuelle candidature. 
 
-<div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>Pour plus d'informations ou pour toutes questions supplémentaires, vous pouvez nous écrire à 
-<a href="mailto:guichet-data@data.gouv.fr ">guichet-data@data.gouv.fr</a>.</p> </div>
+<div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>Afin que nous puissions organiser au mieux les échanges, les porteurs souhaitant présenter un projet potentiellement candidat à un membre de l'équipe en charge du guichet sont invités à nous le communiquer par  
+<a href="mailto:guichet-data@data.gouv.fr ">e-mail</a>), en nous indiquant une courte description du projet, avant vendredi 20 janvier à midi.</p> </div>
