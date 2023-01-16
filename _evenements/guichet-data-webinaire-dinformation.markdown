@@ -4,7 +4,8 @@ date: 2023-01-13 17:00:00 +01:00
 categories:
 - Webinaire d'information
 tags:
-- données ouvertes
+- Data
+- open data
 chapeau-text: Le guichet « Exploitation et valorisation de la donnée » est ouvert
   aux candidatures ! Vous avez un projet ? Retrouvez-nous lors d’un webinaire d’information
   pour une présentation et des exemples de projets à impact, suivi d’un temps d’échange
