@@ -1,7 +1,6 @@
 ---
 title: Guichet « Valorisation et exploitation de la donnée » – webinaire d’information
 date: 2023-01-13 17:00:00 +01:00
-published: false
 categories:
 - Webinaire d'information
 tags:
@@ -11,6 +10,15 @@ chapeau-text: Le guichet "Exploitation et valorisation de la donnée" est ouvert
   pour une présentation et des exemples de projets à impact, suivi d’un temps d’échange
   avec un membre de l'équipe en charge du guichet.
 event_start_date: 2023-01-23 16:00:00 +01:00
+lieu: 'Evénement 100% en ligne sous forme de webinaire '
+champs_informations:
+- intitule: Horaires
+  contenu: 16h - 17h30
+- intitule: Modalités
+  contenu: Inscriptions obligatoires
+  lien: 
+- intitule: Plus d'informations sur le guichet
+  contenu: 
 ---
 
 La DINUM a lancé ce lundi 16 janvier un guichet **« Exploitation et valorisation de la donnée »**.
