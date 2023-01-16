@@ -19,7 +19,7 @@ champs_informations:
   contenu: Inscriptions obligatoires
   lien: https://www.eventbrite.fr/e/billets-guichet-valorisation-et-exploitation-de-la-donnee-webinaire-dinformation-516614867977
 - intitule: Plus d'informations
-  contenu: sur le guichet
+  contenu: sur le guichet de financement
   lien: https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/
 ---
 
