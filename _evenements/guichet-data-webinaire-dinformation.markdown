@@ -20,10 +20,10 @@ champs_informations:
   lien: https://www.eventbrite.fr/e/billets-guichet-valorisation-et-exploitation-de-la-donnee-webinaire-dinformation-516614867977
 - intitule: Plus d'informations
   contenu: sur le guichet
-  lien: https://www.numerique.gouv.fr//services/guichet-financement-exploitation-valorisation-des-donnees/
+  lien: https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/
 ---
 
-La DINUM a lancé ce lundi 16 janvier un guichet **« Exploitation et valorisation de la donnée »**.
+La DINUM a lancé ce lundi 16 janvier [un guichet](https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/) **« Exploitation et valorisation de la donnée »**.
 
 Ce guichet thématique vise à amener les administrations à s’emparer des grands enjeux autour de ce sujet stratégique, inscrit au cœur de la mise en œuvre des politiques publiques. 
 
