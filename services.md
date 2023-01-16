@@ -39,6 +39,10 @@ publications:
   url: "/services/soumettre-un-grand-projet-numerique-au-dinum-pour-avis/"
   une-ou-diaporama:
   - image: "/uploads/saisine_avis_page-service.png"
+- title: 'Guichet de financement : Exploitation et valorisation des données'
+  url: "/services/guichet-financement-exploitation-valorisation-des-donnees/"
+  une-ou-diaporama:
+  - image: "/uploads/Guichet-DATA_rubrique_Services_740x500.png"
 layout: publications
 ---
 
