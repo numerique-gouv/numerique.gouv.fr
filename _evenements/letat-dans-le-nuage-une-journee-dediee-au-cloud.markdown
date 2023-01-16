@@ -39,27 +39,27 @@ Vous appartenez à une administration publique ? Que vous ayez un profil métier
 
 Au programme de cette journée :
 
-#### **[9h–9h30] Accueil des participants**
+#### **[9h–9h25] Accueil des participants**
 * Accueil café / petit-déjeuner
 
-#### **[9h30–10h00] Ouverture de la journée (mot de la DINUM)**
+#### **[9h30–9h45] Ouverture de la journée (mot de la DINUM)**
 * Par Stéphanie Schaer
 
-#### **[10h00–11h00] Le Cloud : entre rupture et transformation**
+#### **[9h45–10h30] Le Cloud : entre rupture et transformation**
 * Intervention de **Philippe Merle**, président du Conseil Cloud de la Commission européenne 
 
-#### **[11h00–12h00] « Quelles sont les ambitions de demain pour le Cloud interne interministériel ? »**
+#### **[10h30–11h30] « Quelles sont les ambitions de demain pour le Cloud interne interministériel ? »**
 * Table ronde animée par la DGFiP et le ministère de l’Intérieur et des Outre-mer
+
+#### **[11h30–12h30] « Les solutions françaises de PaaS existent, venez les découvrir ! »**
+* Table ronde avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr)
 
 #### **[12h00–14h00] Déjeuner**
 
-#### **[14h00–15h00] « Les solutions françaises de PaaS existent, venez les découvrir ! »**
-* Table ronde avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr)
-
-#### **[15h00–17h00] Sessions et stands permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience**
+#### **[13h45–17h00] Sessions et stands permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience**
 * Avec la DGFiP, le ministère de l’Intérieur et des Outre-mer, Clever Cloud, platform.sh et Scalingo
 
-* Échanges avec les Squads Cloud : venez rencontrer l’équipe d’accompagnement et posez leur toutes vos questions !
+* Échanges avec des agents publics qui viennent partager leurs retours d'expérience sur leurs projets Cloud
 
 #### **[17h00–17h30] Conclusion de la journée**
 
