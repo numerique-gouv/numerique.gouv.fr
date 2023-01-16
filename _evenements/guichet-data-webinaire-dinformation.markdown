@@ -35,7 +35,7 @@ L'événement se tiendra exclusivement **en ligne** (les détails de connexion v
 #### Déroulé :
 * **[16h-16h20]** Présentation du guichet : les types de projets attendus, les critères de sélection, les modalités (calendrier, montant des projets, % de cofinancement, contrat de réussite) et présentation de l’accompagnement prévu par le Datalab 
 * **[16h20-16h30]** Exemples de projets à impact
-* **[16h30-17h30]** Pour les porteurs ayant un projet, possibilité de le présenter et d’obtenir un retour afin de préparer une éventuelle candidature. 
+* **[16h30-17h30]** Pour les porteurs ayant un projet, possibilité de le présenter et d’obtenir un retour afin de préparer une éventuelle candidature.
 
 <div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>Afin que nous puissions organiser au mieux les échanges, les porteurs souhaitant présenter un projet potentiellement candidat à un membre de l'équipe en charge du guichet sont invités à nous le communiquer par  
 <a href="mailto:guichet-data@data.gouv.fr ">e-mail</a>), en nous indiquant une courte description du projet, avant vendredi 20 janvier à midi.</p> </div>
