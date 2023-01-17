@@ -54,10 +54,10 @@ Au programme de cette journée :
 #### **[11h30–12h30] « Les solutions françaises de PaaS existent, venez les découvrir ! »**
 * Table ronde avec [Clever Cloud](https://www.clever-cloud.com/fr/), [platform.sh](https://platform.sh/regions/france/) et [Scalingo](https://scalingo.com/fr)
 
-#### **[12h00–13h45] Déjeuner**
+#### **[12h30–13h45] Déjeuner**
 
 #### **[13h45–17h00] Sessions et stands permettant à des acteurs publics de vous présenter leurs projets de transformation, leurs réussites et leurs retours d’expérience**
-* Avec la DGFiP, le ministère de l’Intérieur et des Outre-mer, Clever Cloud, platform.sh et Scalingo
+* Avec la DGFiP, le ministère de l’Intérieur et des Outre-mer, les squads de transformation Cloud, Clever Cloud, platform.sh et Scalingo
 
 * Échanges avec des agents publics qui viennent partager leurs retours d'expérience sur leurs projets Cloud
 
