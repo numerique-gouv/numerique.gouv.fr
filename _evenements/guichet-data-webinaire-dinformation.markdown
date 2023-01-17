@@ -27,7 +27,7 @@ champs_informations:
   lien: https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/
 ---
 
-La DINUM a lancé ce lundi 16 janvier [un guichet](https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/) **« Exploitation et valorisation de la donnée »**.
+La DINUM vient de lancer [un guichet **« Exploitation et valorisation de la donnée »**](https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/).
 
 Ce guichet thématique vise à amener les administrations à s’emparer des grands enjeux autour de ce sujet stratégique, inscrit au cœur de la mise en œuvre des politiques publiques. 
 
@@ -36,6 +36,8 @@ Ce guichet thématique vise à amener les administrations à s’emparer des gra
 
 Ce guichet vous permet d’accélérer vos projets data grâce à une aide matérielle, technique, humaine et juridique. Venez découvrir le nouveau guichet dédié à la data et échanger autour de notre guichet **le 23 janvier** prochain.
 
+<div align="center"><a href="https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/" class="button"><b>Plus d'infos sur le guichet</b></a></div>
+
 L'événement se tiendra exclusivement **en ligne** (les détails de connexion vous seront communiqués par mail le jour de l'événement, à l'adresse e-mail indiquée lors de [l'inscription](https://www.eventbrite.fr/e/billets-guichet-valorisation-et-exploitation-de-la-donnee-webinaire-dinformation-516614867977)).
 
 #### Déroulé :
@@ -43,5 +45,5 @@ L'événement se tiendra exclusivement **en ligne** (les détails de connexion v
 * **[16h20-16h30]** Exemples de projets à impact
 * **[16h30-17h30]** Pour les porteurs ayant un projet, possibilité de le présenter et d’obtenir un retour afin de préparer une éventuelle candidature.
 
-<div class="encadre noir"> <h3>Pour en savoir plus</h3> <p>Afin que nous puissions organiser au mieux les échanges, les porteurs souhaitant présenter un projet potentiellement candidat à un membre de l'équipe en charge du guichet sont invités à nous le communiquer par  
-<a href="mailto:guichet-data@data.gouv.fr ">e-mail</a>), en nous indiquant une courte description du projet, avant vendredi 20 janvier à midi.</p> </div>
+<div class="encadre noir"> <h3>Décrivez-nous votre projet</h3> <p>Afin que nous puissions organiser au mieux les échanges, les porteurs souhaitant présenter un projet potentiellement candidat à un membre de l'équipe en charge du guichet sont invités à nous le communiquer par  
+<a href="mailto:guichet-data@data.gouv.fr ">e-mail</a>, en nous indiquant une courte description du projet, avant vendredi 20 janvier à midi.</p> </div>
