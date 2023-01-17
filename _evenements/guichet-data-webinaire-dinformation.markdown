@@ -29,14 +29,14 @@ champs_informations:
 
 La DINUM vient de lancer [un guichet **« Exploitation et valorisation de la donnée »**](https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/).
 
+<div align="center"><a href="https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/" class="button"><b>Plus d'infos sur le guichet</b></a></div>
+
 Ce guichet thématique vise à amener les administrations à s’emparer des grands enjeux autour de ce sujet stratégique, inscrit au cœur de la mise en œuvre des politiques publiques. 
 
 * Vous êtes en charge d’une politique publique ?
 * Vous avez une idée de projet et souhaitez être accompagné dans son déploiement ?
 
 Ce guichet vous permet d’accélérer vos projets data grâce à une aide matérielle, technique, humaine et juridique. Venez découvrir le nouveau guichet dédié à la data et échanger autour de notre guichet **le 23 janvier** prochain.
-
-<div align="center"><a href="https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/" class="button"><b>Plus d'infos sur le guichet</b></a></div>
 
 L'événement se tiendra exclusivement **en ligne** (les détails de connexion vous seront communiqués par mail le jour de l'événement, à l'adresse e-mail indiquée lors de [l'inscription](https://www.eventbrite.fr/e/billets-guichet-valorisation-et-exploitation-de-la-donnee-webinaire-dinformation-516614867977)).
 
