@@ -29,6 +29,6 @@ Au programme : des interventions thématiques portant sur le fonds de France Rel
 [En savoir plus sur le programme TNT](https://www.numerique.gouv.fr/services/tnt/)
 
 [En savoir plus sur l’événement](https://www.numerique.gouv.fr/agenda/journee-numerique-territoires/) (inscription obligatoire) 
-<br>[Accréditation](floriane.beaudron@modernisation.gouv.fr)
+<br>[Accréditation](mailto:floriane.beaudron@modernisation.gouv.fr)
 
 *Cet événement est organisé par l’équipe du programme TNT géré par la DINUM avec la participation active de la DITP, directions qui interviennent sous l’égide du ministère de la Transformation et de la Fonction publiques, et l’ANCT qui intervient sous l’égide du ministère de la Transition écologique et de la Cohésion des territoires.*
