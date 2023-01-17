@@ -27,7 +27,7 @@ champs_informations:
   lien: https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/
 ---
 
-La DINUM vient de lancer [un guichet **« Exploitation et valorisation de la donnée »**](https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/).
+La DINUM vient de lancer un guichet **« Exploitation et valorisation de la donnée »**.
 
 <div align="center"><a href="https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/" class="button"><b>Plus d'infos sur le guichet</b></a></div>
 
