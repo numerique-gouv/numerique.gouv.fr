@@ -14,7 +14,7 @@ chapeau-text: |-
   collectivités territoriales et de la ruralité et Jean-Noël BARROT, ministre délégué en charge de la
   transition numérique et des télécommunications.
 une-ou-diaporama:
-- image: "/uploads/2023_01_11_1200x675_JNT_Visuel_Twitter2.jpg"
+- image: "/uploads/IMG-20230118-WA0101.jpg"
 files:
 - file: "/uploads/Communiqu%C3%A9%20de%20presse%20-%20Transformation%20num%C3%A9rique%20des%20territoires_les%20travaux%20avec%20les%20collectivit%C3%A9s%20territoriales%20se%20poursuivent.pdf"
   nom: Télécharger le communiqué de presse
