@@ -2,12 +2,19 @@
 title: 'Transformation numérique des territoires : les travaux avec les collectivites
   territoriales se poursuivent'
 date: 2023-01-18 17:53:00 +01:00
+categories:
+- Communiqué de presse
+tags:
+- Transformation Numérique des Territoires
+- France Relance
 chapeau-text: |-
   En marge de la journée « Numérique & Territoires », Stanislas GUERINI, ministre de la Transformation et
   de la Fonction publiques, a présidé ce mercredi 18 janvier une réunion du programme Transformation
   numérique des territoires (TNT), qu’il co-porte avec Dominique FAURE, ministre déléguée chargée des
   collectivités territoriales et de la ruralité et Jean-Noël BARROT, ministre délégué en charge de la
   transition numérique et des télécommunications.
+une-ou-diaporama:
+- image: "/uploads/2023_01_11_1200x675_JNT_Visuel_Twitter2.jpg"
 ---
 
 Cette réunion, qui réunit les dirigeants des principales
@@ -29,4 +36,4 @@ Le ministre a souhaité donner une impulsion forte pour un numérique responsabl
 L’association Villes Internet a également rejoint le programme TNT à l’occasion de cette réunion
 politique.
 
-En savoir plus sur le programme TNT : https://www.numerique.gouv.fr/services/tnt/
+[En savoir plus sur le programme TNT](https://www.numerique.gouv.fr/services/tnt/)
