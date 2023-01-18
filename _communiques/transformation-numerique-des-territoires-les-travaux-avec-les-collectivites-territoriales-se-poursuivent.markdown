@@ -15,6 +15,9 @@ chapeau-text: |-
   transition numérique et des télécommunications.
 une-ou-diaporama:
 - image: "/uploads/2023_01_11_1200x675_JNT_Visuel_Twitter2.jpg"
+files:
+- file: "/uploads/Communiqu%C3%A9%20de%20presse%20-%20Transformation%20num%C3%A9rique%20des%20territoires_les%20travaux%20avec%20les%20collectivit%C3%A9s%20territoriales%20se%20poursuivent.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Cette réunion, qui réunit les dirigeants des principales
