@@ -9,9 +9,9 @@ tags:
 - Transformation numérique des territoires
 - qualité des services publics numériques
 chapeau-text: "À travers la présentation du programme « Transformation numérique des
-  Territoires », la DINUM participera aux [Assises de la cohésion numérique et\nterritoriale]
-  (https://cohesionnumerique.aromates.fr/inscriptions/) le 2 février prochain. Cette
-  5e édition sera dédiée au liens entre numérique, justice sociale et démocratie. "
+  Territoires », la DINUM participera aux [Assises de la cohésion numérique et\nterritoriale](https://cohesionnumerique.aromates.fr/inscriptions/)
+  le 2 février prochain. Cette 5e édition sera dédiée au liens entre numérique, justice
+  sociale et démocratie. "
 une-ou-diaporama:
 - image: "/uploads/5e_assises_Coh%C3%A9sion_num%C3%A9rique_et_territoriale-02.02.23.png"
   alternative-textuelle: |-
@@ -37,8 +37,7 @@ monde associatif pour contribuer à la définition et à la mise en œuvre d’u
 inclusive au service de la cohésion sociale et territoriale.
 
 
-### Lors de cet événement, **Maria COTORA**, Cheffe du programme « Transformation numérique des Territoires » 
-au sein de la DINUM, participera à la table ronde « Et si l’on pensait le design inclusif et l’algorithme solidaire ? ». 
+### Lors de cet événement, **Maria COTORA**, Cheffe du programme « Transformation numérique des Territoires » au sein de la DINUM, participera à la table ronde « Et si l’on pensait le design inclusif et l’algorithme solidaire ? ». 
 
 Aux côtés de Maria COTORA, interviendront également :
 
