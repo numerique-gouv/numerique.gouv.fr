@@ -3,7 +3,6 @@ title: |-
   La DINUM aux 5èmes Assises de la cohésion numérique et
   territoriale
 date: 2023-01-19 16:33:00 +01:00
-published: false
 categories:
 - Conférence
 - Évènement
