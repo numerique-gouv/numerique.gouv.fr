@@ -4,8 +4,6 @@ title: |-
   territoriale
 date: 2023-01-19 16:33:00 +01:00
 categories:
-- Conférence
-- Évènement
 - Table ronde
 tags:
 - Transformation numérique des territoires
