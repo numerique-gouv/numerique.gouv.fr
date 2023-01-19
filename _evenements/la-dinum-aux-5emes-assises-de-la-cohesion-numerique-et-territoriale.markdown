@@ -29,7 +29,7 @@ champs_informations:
   - https://cohesionnumerique.aromates.fr/inscriptions/
 ---
 
-Les Assises de la Cohésion Numérique et Territoriale sont une initiative portée par Aromates
+Les Assises de la cohésion numérique et territoriale sont une initiative portée par Aromates
 en association avec la Commission Supérieure du Numérique et des Postes (CSNP), le
 CIGREF et la direction de l’engagement sociétal de La Poste.
 
@@ -47,6 +47,8 @@ Aux côtés de Maria COTORA, interviendront également :
 * Christine BALAGUÉ, professeur en sciences de gestion à l’Institut Mines-Télécom, fondatrice du réseau Good in Tech
 * Serge BIZOUERNE, président fondateur de Domplus groupe
 * Jean CATTAN, secrétaire général du Conseil national du numérique
-* Yves CORNU, directeur général de FACIL’iti
+* Yves CORNU, directeur général de FACIL’iti 
 
-Le programme complet de l'évènement est a retrouver sur [le site de l'association Aromates](https://cohesionnumerique.aromates.fr/).  
+<div align="center"><a href="https://cohesionnumerique.aromates.fr/inscriptions/" class="button"><b>S'inscrire à l'évènement</b></a></div>
+<br>
+<div class="lien-important"><p><a href="https://cohesionnumerique.aromates.fr/">Téléchargez le programme complet des Assises de la cohésion numérique et territoriale.</a></p></div> 
