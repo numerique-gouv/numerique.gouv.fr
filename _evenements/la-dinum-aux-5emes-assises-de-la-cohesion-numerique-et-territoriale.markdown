@@ -37,7 +37,7 @@ monde associatif pour contribuer à la définition et à la mise en œuvre d’u
 inclusive au service de la cohésion sociale et territoriale.
 
 
-### Lors de cet événement, **Maria COTORA**, cheffe du programme « Transformation numérique des Territoires » au sein de la DINUM, participera à la table ronde « Et si l’on pensait le design inclusif et l’algorithme solidaire ? ». 
+## Lors de cet événement, **Maria COTORA**, cheffe du programme « Transformation numérique des Territoires » au sein de la DINUM, participera à la table ronde « Et si l’on pensait le design inclusif et l’algorithme solidaire ? ». 
 
 Aux côtés de Maria COTORA, interviendront également :
 
