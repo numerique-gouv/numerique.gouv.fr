@@ -12,7 +12,7 @@ chapeau-text: Le guichet « Exploitation et valorisation de la donnée » est ou
   pour une présentation et des exemples de projets à impact, suivi d’un temps d’échange
   avec un membre de l'équipe en charge du guichet.
 une-ou-diaporama:
-- image: "/uploads/Actu_800x430_Guichet-DATA.jpg"
+- image: "/uploads/2023_01_24_Webinaire_guichet-data-FTAP_Agenda.jpg"
 event_start_date: 2023-01-30 16:00:00 +01:00
 lieu: 'Evénement 100% en ligne sous forme de webinaire '
 champs_informations:
