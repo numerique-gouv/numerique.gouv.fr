@@ -53,6 +53,34 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
+* **[Gestionnaire financier H/F](https://place-emploi-public.gouv.fr/offre-emploi/gestionnaire-financier-hf-reference-2023-1105351/ "Gestionnaire financier H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Assistant(e) de direction H/F](https://place-emploi-public.gouv.fr/offre-emploi/assistante-de-direction-hf-reference-2023-1109809/ "Assistant(e) de direction H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1100389/ "Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F - Lien externe")**
+<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
+<br>
+
+* **[Chef du pôle Hypervision (H/F)](https://www.linkedin.com/jobs/view/3359852691/?alternateChannel=search&refId=xlU%2Fj4iVDDaQV8iVw%2FvHaQ%3D%3D&trackingId=hqlQnmcym%2FzHGlrWO2NJYA%3D%3D "Chef du pôle Hypervision (H/F) - Lien externe")**
+<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
+<br>
+
+* **[Architecte technique (H/F)](https://place-emploi-public.gouv.fr/offre-emploi/assistante-de-direction-hf-reference-2023-1109809/ "Architecte technique (H/F) - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Ingénieur réseau (H/F)](https://www.linkedin.com/jobs/view/3337763579/?alternateChannel=search&refId=xlU%2Fj4iVDDaQV8iVw%2FvHaQ%3D%3D&trackingId=lyBdXQkyUYoevKtpixEj9g%3D%3D&trk=d_flagship3_search_srp_jobs "Ingénieur réseau (H/F) - Lien externe")**
+<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
+<br>
+
+* **[Ingénieur réseau sécurité (H/F)](https://www.linkedin.com/jobs/view/3337774646/?alternateChannel=search&refId=xlU%2Fj4iVDDaQV8iVw%2FvHaQ%3D%3D&trackingId=AP%2BNcxXso62n9VW0w620rw%3D%3D&trk=d_flagship3_search_srp_jobs "Ingénieur réseau sécurité (H/F) - Lien externe")**
+<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
+<br>
+
 <div class="encadre noir"><h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
 <p><strong> Présidence de la République</strong></p>
