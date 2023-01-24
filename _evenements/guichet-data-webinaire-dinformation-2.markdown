@@ -1,5 +1,6 @@
 ---
-title: Guichet « Valorisation et exploitation de la donnée » – webinaire d’information
+title: 'Guichet « Valorisation et exploitation de la donnée » – webinaire d’information
+  #2'
 date: 2023-01-24 13:00:00 +01:00
 categories:
 - Webinaire d'information
