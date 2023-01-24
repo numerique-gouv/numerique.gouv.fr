@@ -35,7 +35,7 @@ Ce guichet thématique vise à amener les administrations à s’emparer des gra
 * Vous êtes en charge d’une politique publique ?
 * Vous avez une idée de projet et souhaitez être accompagné dans son déploiement ?
 
-Ce guichet vous permet d’accélérer vos projets data grâce à un cofinancement jusqu'à 50% du coût total du projet et un accompagnement de la part de la DINUM. Venez découvrir le nouveau guichet dédié à la data et échanger autour de notre guichet **le 23 janvier** prochain.
+Ce guichet vous permet d’accélérer vos projets data grâce à un cofinancement jusqu'à 50% du coût total du projet et un accompagnement de la part de la DINUM. Venez découvrir le nouveau guichet dédié à la data et échanger autour de notre guichet **le 30 janvier** prochain.
 
 L'événement se tiendra exclusivement **en ligne** (les détails de connexion vous seront communiqués par mail le jour de l'événement, à l'adresse e-mail indiquée lors de [l'inscription](https://www.eventbrite.fr/e/billets-guichet-valorisation-et-exploitation-de-la-donnee-webinaire-dinformation-516614867977)).
 
