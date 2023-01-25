@@ -39,7 +39,7 @@ Par exemple :
 
 ### Second type d’intervention : soutien à la montée en compétences
 Les squads vous proposent de **soutenir le développement et l’acquisition de nouvelles compétences et connaissances**, en lien avec la transformation des métiers informatiques.
-Nous mettons ainsi à disposition un **catalogue de formations** Cloud et DevOps, intégrant des volets théoriques et pratiques, ainsi que des **parcours de formation** préconstruits pour différents profils, afin de supporter la transformation de vos équipes.
+Nous mettons ainsi à disposition un **catalogue de formations** Cloud et DevOps, intégrant des volets théoriques et pratiques, ainsi que des **parcours de formation** préconstruits pour différents profils, afin de soutenir la transformation de vos équipes.
 Ce soutien peut également prendre la forme d’**interventions terrain de nos experts Cloud & DevOps auprès de vos équipes**, dans un modèle de fonctionnement « faire avec », en leur apportant notre connaissance du marché, les bonnes pratiques des architectures Cloud et du modèle DevOps, ainsi que des capacités opérationnelles d’accompagnement à la mise en œuvre. 
 
 Par exemple :
