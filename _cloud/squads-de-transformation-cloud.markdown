@@ -6,6 +6,11 @@ categories:
 - article
 tags:
 - cloud
+menu:
+  title: Accompagnement
+  weight: 80
+une:
+  image: "/uploads/cloud_page_fille.png"
 ---
 
 ## Une mission : vous accompagner dans la transformation vers le Cloud
@@ -16,11 +21,11 @@ Pour soutenir l’acquisition par les administrations de l’ensemble des savoir
 L’agilité permet aux équipes de concevoir, déployer et adapter une application dans des délais très courts. Elle va de pair avec l’introduction du mode produit, qui contribue à orienter les développements vers une qualité perçue optimale.
 Dans un contexte Cloud, la combinaison des démarches agiles et du mode produit facilite l’adoption du DevOps, qui consiste à pousser l’agilité jusqu’aux opérations liées à la mise en production et à l’exploitation. Le DevOps s’accompagne d’une transformation des modes de fonctionnement qui permet aux équipes métier, de développement et d’exploitation de travailler de concert. Le DevOps associé à l’obsession de l’expérience client, propre au mode produit donne aux équipes une réactivité maximale dans une boucle d’amélioration permanente.
 
-## … Mobilisable sur deux natures d’interventions
+## … mobilisable sur deux natures d’interventions
 Pour vous accompagner dans cette transformation deux types d’interventions des squads Cloud sont proposés : **appui à la stratégie d’adoption et soutien à la montée en compétences.**
 Nos squads peuvent vous appuyer sur l’ensemble des thématiques liées à l’adoption du Cloud : aide au choix des plateformes cloud, identification des scénarios de migration, refonte des architectures vers un modèle cloud-native, montée en compétences des agents sur les métiers du Cloud et du DevOps ou encore mise en place des modes de fonctionnement DevOps.
 
-## Premier type d’intervention : définition de la stratégie d’adoption
+## Premier type d’intervention : définition de la stratégie d’adoption du Cloud
 Les squads vous accompagnent dans votre **réflexion et votre planification stratégiques pour la mise en œuvre du Cloud**, avec notamment l’identification des prérequis techniques et organisationnels, l’analyse économique associée et les transformations des modes de fonctionnement.
 
 Par exemple :	 
@@ -49,7 +54,7 @@ Notre intervention débute par une à deux réunions de compréhension de votre 
 Ces rencontres nous permettent de vous formuler une proposition d’assistance.
 
 ### 2. Accompagnement
-Nos experts interviennent ensuite à vos côtés, sur la base d’une démarche d’accompagnement co-construite, pouvant prendre diverses formes :
+Nos experts interviennent ensuite à vos côtés, sur la base d’une démarche d’accompagnement coconstruite, pouvant prendre diverses formes :
 * Coaching technique
 * Intégration d’experts à vos équipes
 * Formations présentielles/distancielles
@@ -62,7 +67,7 @@ Lorsque cela est opportun, nous proposons de partager vos retours d’expérienc
 
 ## Faire appel aux squads
 *Comment contacter les squads ?*
-Pour toute demande d’intervention ou question, vous pouvez nous contacter à l’adresse infonuage.dinum@modernisation.gouv.fr	
+Pour toute demande d’intervention ou question, vous pouvez nous contacter à l’adresse [infonuage.dinum@modernisation.gouv.fr](mailto:infonuage.dinum@modernisation.gouv.fr)	
 
 *Quel est le prix d’une intervention ?*
 Les squads vous proposent une enveloppe initiale de 30j.h d’intervention par projet, financés par la DINUM. Par ailleurs les squads vous proposent des accélérateurs en libre accès ou disponibles sur simple demande.
@@ -74,4 +79,4 @@ La durée des interventions est variable et dépend des besoins du projet ; en m
 Les activités des squads Cloud de la DINUM sont ouvertes à toute administration dans le périmètre du SI de l’Etat.
 
 
-N’hésitez pas à solliciter nos squads Cloud pour mener à bien votre projet et accompagner vos équipes !
+**N’hésitez pas à solliciter nos squads Cloud pour mener à bien votre projet et accompagner vos équipes !**
