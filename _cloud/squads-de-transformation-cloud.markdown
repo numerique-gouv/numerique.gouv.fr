@@ -1,6 +1,7 @@
 ---
 title: Squads de transformation Cloud
 date: 2023-01-05 10:19:00 +01:00
+permalink: "/services/cloud/squads/"
 categories:
 - article
 tags:
@@ -10,6 +11,7 @@ menu:
   weight: 80
 une:
   image: "/uploads/cloud_page_fille.png"
+layout: cloud
 ---
 
 ## Une mission : vous accompagner dans la transformation vers le Cloud
