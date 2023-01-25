@@ -69,7 +69,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
 <br>
 
-* **[Architecte technique (H/F)](https://place-emploi-public.gouv.fr/offre-emploi/assistante-de-direction-hf-reference-2023-1109809/ "Architecte technique (H/F) - Lien externe")**
+* **[Architecte technique (H/F)](https://www.linkedin.com/jobs/view/3386171534/?alternateChannel=search&refId=xlU%2Fj4iVDDaQV8iVw%2FvHaQ%3D%3D&trackingId=fYwNrCxP7LGa2Hd81nB1Rg%3D%3D "Architecte technique (H/F) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
