@@ -73,7 +73,7 @@ Lorsque cela est opportun, nous proposons de partager vos retours d’expérienc
 Pour toute demande d’intervention ou question, vous pouvez nous contacter à l’adresse [infonuage.dinum@modernisation.gouv.fr](mailto:infonuage.dinum@modernisation.gouv.fr)	
 
 <h4 style="margin-bottom: 5px">Quel est le prix d’une intervention ?</h4>
-Les squads vous proposent une enveloppe initiale de 30j.h d’intervention par projet, financés par la DINUM. Par ailleurs les squads vous proposent des accélérateurs en libre accès ou disponibles sur simple demande.
+Les squads vous proposent une enveloppe initiale de 30 jours-hommes d’intervention par projet, financés par la DINUM. Par ailleurs, les squads vous proposent des accélérateurs en libre accès ou disponibles sur simple demande.
 
 <h4 style="margin-bottom: 5px">Quelle est la durée typique d’une intervention ?</h4>
 La durée des interventions est variable et dépend des besoins du projet ; en moyenne, une intervention est réalisée sur une période de 2 à 6 mois.
