@@ -67,17 +67,17 @@ Une fois l’accompagnement terminé, nous effectuons une mesure de l’avanceme
 Lorsque cela est opportun, nous proposons de partager vos retours d’expérience à la communauté Cloud de l’État.
 
 ### Faire appel aux squads
-*Comment contacter les squads ?*
+<h4>Comment contacter les squads ?</h4>
 Pour toute demande d’intervention ou question, vous pouvez nous contacter à l’adresse [infonuage.dinum@modernisation.gouv.fr](mailto:infonuage.dinum@modernisation.gouv.fr)	
 
-*Quel est le prix d’une intervention ?*
+<h4>Quel est le prix d’une intervention ?</h4>
 Les squads vous proposent une enveloppe initiale de 30j.h d’intervention par projet, financés par la DINUM. Par ailleurs les squads vous proposent des accélérateurs en libre accès ou disponibles sur simple demande.
 
-*Quelle est la durée typique d’une intervention ?*
+<h4>Quelle est la durée typique d’une intervention ?</h4>
 La durée des interventions est variable et dépend des besoins du projet ; en moyenne, une intervention est réalisée sur une période de 2 à 6 mois.
 
-*Mon administration peut-elle bénéficier d’un accompagnement de la DINUM ?*
-Les activités des squads Cloud de la DINUM sont ouvertes à toute administration dans le périmètre du SI de l’Etat.
+<h4>Mon administration peut-elle bénéficier d’un accompagnement de la DINUM ?</h4>
+Les activités des squads Cloud de la DINUM sont ouvertes à toute administration dans le périmètre du SI de l’État.
 
 
 **N’hésitez pas à solliciter nos squads Cloud pour mener à bien votre projet et accompagner vos équipes !**
