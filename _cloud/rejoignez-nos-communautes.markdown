@@ -4,13 +4,13 @@ date: 2021-10-20 16:03:00 +02:00
 permalink: "/services/cloud/communautes/"
 menu:
   title: Communauté
-  weight: 80
+  weight: 90
 une:
   image: "/uploads/cloud_page_fille.png"
 layout: cloud
 ---
 
-<h4 style="margin-top:-20px">Profitez de l’expertise collective et venez vous informer sur les dernières actualités du Cloud au sein de l’État</h4>
+<h3 style="margin-top:-20px">Profitez de l’expertise collective et venez vous informer sur les dernières actualités du Cloud au sein de l’État</h3>
 Vous avez des questions sur le Cloud ? Vous souhaitez partager votre savoir-faire ou votre expérience ? Vous souhaitez participer à nos évènements ?
 La DINUM anime une communauté d’échanges autour des sujets Cloud, tant sur les orientations stratégiques prises au sommet de l’État que sur les sujets de fond d’architectures de références. Participez aux débats et accédez à toutes les informations et bonnes pratiques !
 
