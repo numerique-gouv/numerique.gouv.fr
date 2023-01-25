@@ -4,7 +4,7 @@ date: 2021-10-20 16:03:00 +02:00
 permalink: "/services/cloud/communautes/"
 menu:
   title: Communauté
-  weight: 80
+  weight: 90
 une:
   image: "/uploads/cloud_page_fille.png"
 layout: cloud
