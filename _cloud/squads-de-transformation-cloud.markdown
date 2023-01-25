@@ -1,7 +1,6 @@
 ---
 title: Squads de transformation Cloud
 date: 2023-01-05 10:19:00 +01:00
-published: false
 categories:
 - article
 tags:
@@ -43,7 +42,7 @@ Par exemple :
 * Comment mettre en place les pratiques DevOps au sein de mon équipe projet ?
 * Comment mettre en pratique des outils d’Infrastructure as Code ?
 * Quels parcours de formation Cloud et DevOps pour mes équipes ? 
-* Comment concevoir une architecture Cloud Native pour mon application ?
+* Comment concevoir une architecture Cloud native pour mon application ?
 * Comment fiabiliser et accélérer mes déploiements applicatifs avec une chaîne CI/CD ?
 
 ## Un accompagnement sur mesure
