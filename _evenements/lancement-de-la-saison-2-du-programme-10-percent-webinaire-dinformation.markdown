@@ -1,6 +1,7 @@
 ---
 title: 'Lancement de la saison 2 du programme 10% : webinaire d’information'
 date: 2023-01-26 15:31:00 +01:00
+published: false
 categories:
 - Webinaire d'information
 chapeau-text: "Le programme 10% est une collaboration entre talents de la data de
