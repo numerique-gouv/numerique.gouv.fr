@@ -45,6 +45,6 @@ Venez découvrir la saison 2 du programme 10% en visio le mardi 31 janvier de 16
 Sans oublier un "café des échanges" pour prendre le temps de répondre à toutes vos questions.
 
 Cet évènement est ouvert à toutes et tous !
-👉 Les expert(e)s publics de la donnée qui ont envie de contribuer à des projets d'intérêt commun ; 
-👉 Les participant(e)s de la saison 1 du programme 10% qui souhaitent poursuivre l'aventure; 
-👉 Les managers qui souhaitent faire monter en compétence et fidéliser leurs talents de la data en poste au sein de l’Etat. 
+* Les expert(e)s publics de la donnée qui ont envie de contribuer à des projets d'intérêt commun ; 
+* Les participant(e)s de la saison 1 du programme 10% qui souhaitent poursuivre l'aventure; 
+* Les managers qui souhaitent faire monter en compétence et fidéliser leurs talents de la data en poste au sein de l’Etat. 
