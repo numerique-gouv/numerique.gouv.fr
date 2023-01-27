@@ -3,6 +3,9 @@ title: 'Lancement de la saison 2 du programme 10% : webinaire d’information'
 date: 2023-01-26 15:31:00 +01:00
 categories:
 - Webinaire d'information
+tags:
+- Data
+- IA
 chapeau-text: "Le programme 10% est une collaboration entre talents de la data de
   l’Etat sur des projets d’intérêt commun autour de la data et IA. En intégrant la
   communauté 10%, ces experts publics de la donnée échangent sur leurs pratiques,
