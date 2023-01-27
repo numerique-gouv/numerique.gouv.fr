@@ -1,7 +1,6 @@
 ---
 title: 'Lancement de la saison 2 du programme 10% : webinaire d’information'
 date: 2023-01-26 15:31:00 +01:00
-published: false
 categories:
 - Webinaire d'information
 chapeau-text: "Le programme 10% est une collaboration entre talents de la data de
@@ -12,6 +11,15 @@ chapeau-text: "Le programme 10% est une collaboration entre talents de la data d
   développeurs, data analysts …), ou leur manager, ou vous connaissez un profil de
   l’Etat qui pourrait être intéressé par ce programme, venez au webinaire d’information
   sur la saison 2 ou faites passer l’information !"
+une-ou-diaporama:
+- image: "/uploads/2023_01_26_IA_visuel_Agenda.jpg"
+  alternative-textuelle: |-
+    Programme 10%
+    Lancement de la saison 2
+    On vous dit tout !
+    Mardi 3 janvier 2023, 16h30 - 17h30
+    Webinaire d'information
+    Etalab
 event_start_date: 2023-01-31 16:30:00 +01:00
 lieu: 'Evénement 100% en ligne sous forme de webinaire '
 champs_informations:
@@ -33,7 +41,7 @@ champs_informations:
   lien: mailto:lab-ia@data.gouv.fr
 ---
 
-Lancé en 2022, le programme 10%, co-porté par la Dinum et l'Insee a permis de faire émerger une communauté d'une cinquantaine d'experts publics de la donnée s'est mobilisée pendant 6 mois autour de 4 projets interministériels. 
+Lancé en 2022, le programme 10%, co-porté par la Dinum et l'Insee a permis de faire émerger une communauté d'une cinquantaine d'experts publics de la donnée s'est mobilisée pendant 6 mois autour de 4 projets interministériels.
 
 **En 2023, on veut aller plus loin !**
 
