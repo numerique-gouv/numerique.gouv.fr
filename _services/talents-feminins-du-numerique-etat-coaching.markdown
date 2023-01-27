@@ -6,9 +6,10 @@ tags:
 - Talents
 - Coaching
 - offre de services
+date_de_modification: 27 janvier 2023
 chapeau-text: |-
   Et si vous vous donniez toutes les chances de réussir votre évolution professionnelle ? En 2 jours et demi, notre programme de coaching, ouvert à toutes les professionnelles du numérique au sein de l’État, vous aidera à en devenir pleinement actrice.
-  Inscrivez-vous jusqu’au 30 juin 2022.
+  Inscriptions closes.
 une:
   image: "/uploads/2022_05_13_Femme-numerique_1635x345.jpg"
 style: |-
@@ -88,11 +89,11 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 1. Renseignez la fiche d’inscription, faites-la signer à votre supérieur si vous comptez effectuer le programme pendant vos heures de travail
 2. Retournez-la par courriel à <a href="mailto:talents.numeriques@modernisation.gouv.fr">talents.numeriques@modernisation.gouv.fr</a>
 
-Le programme accueillera 30 femmes, réparties en groupes de 6, répondant aux prérequis et critères de sélection. N’attendez plus, les inscriptions sont ouvertes jusqu’au 30 juin 2022, dans la limite des places disponibles.
+Le programme accueillera 30 femmes, réparties en groupes de 6, répondant aux prérequis et critères de sélection.
 
 <div align="center"><p><a href="/uploads/Fiche_inscription_Talents-feminins-numerique_2022.docx" class="button">Téléchargez la fiche d’inscription (docx - 55 ko) </a> <br>
 <a href="/uploads/Fiche_inscription_Talents-feminins-numerique_2022.odt">(disponible également au format .odt - 50 ko)</a>
-<br>Et envoyez-la complétée jusqu'au 30 juin 2022</p></div>
+<br>Inscriptions closes</p></div>
 <br>
 
 <div class="noir encadre"><h4>Envie de nouveaux défis ? 
