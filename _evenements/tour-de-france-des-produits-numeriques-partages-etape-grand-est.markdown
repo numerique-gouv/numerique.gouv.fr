@@ -1,14 +1,13 @@
 ---
 title: Tour de France des Produits numériques partagés - Étape Grand-Est
 date: 2023-01-12 13:44:00 +01:00
-published: false
 categories:
 - Journée d'échanges
 - Micro-conférences et ateliers
 tags:
 - Environnement de travail numérique de l'agent
 chapeau-text: |-
-  A l’occasion du mois de l’innovation publique, la DINUM a lancé le Tour de France des régions des produits numériques interministériels pour aller à la rencontre des Agents : les informer, les former et continuer à les accompagner à transformer les méthodes de travail - en s'appuyant sur les produits collaboratifs ministériels et interministériels mis à leur disposition.
+  Depuis novembre 2022, la DINUM réalise un Tour de France des régions des produits numériques interministériels pour aller à la rencontre des agents : les informer, les former et continuer à les accompagner à transformer les méthodes de travail - en s'appuyant sur les produits collaboratifs ministériels et interministériels mis à leur disposition.
 
   Le Tour de France des régions continue en 2023. La prochaine étape aura lieu dans la région Grand-Est !
 event_start_date: 2023-03-23 09:00:00 +01:00
@@ -36,5 +35,5 @@ Cet évènement se déroulera **le mercredi 23 mars, de 9h00 à 17h00** à l’I
 
 * Un format dynamique avec des **ateliers participatifs** : des ateliers avancés des produits numériques et des ateliers « multiproduits » collaboratifs.  
 
-<b>*Ouverture des inscriptions le 26 janvier*<b/>
-https://www.demarches-simplifiees.fr/commencer/etape-grand-est-tdf
+
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.demarches-simplifiees.fr/commencer/etape-grand-est-tdf" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
