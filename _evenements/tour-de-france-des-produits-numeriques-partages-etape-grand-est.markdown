@@ -1,5 +1,5 @@
 ---
-title: Tour de France des Produits Numériques Partagés - Etape Grand-Est
+title: Tour de France des Produits numériques partagés - Étape Grand-Est
 date: 2023-01-12 13:44:00 +01:00
 published: false
 categories:
@@ -21,9 +21,9 @@ champs_informations:
   contenu: 'Les lignes des bus urbains (« Le Met’ ») de la communauté d’agglomération
     de Metz Métropole (CA2M) n° L1 à destination de la « Corchade » desservent régulièrement
     ce quartier. '
-- intitule: Gratuit, inscription obligatoire
-  contenu: Ouverture des inscriptions le 26 janvier
-  lien: 
+- intitule: Gratuit
+  contenu: Inscription obligatoire
+  lien: https://www.demarches-simplifiees.fr/commencer/etape-grand-est-tdf
 ---
 
 Cet évènement se déroulera **le mercredi 23 mars, de 9h00 à 17h00** à l’Institut régional d'administration (IRA) de Metz. 
