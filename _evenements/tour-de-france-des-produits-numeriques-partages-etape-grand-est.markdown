@@ -10,6 +10,8 @@ chapeau-text: |-
   Depuis novembre 2022, la DINUM réalise un Tour de France des régions des produits numériques interministériels pour aller à la rencontre des agents : les informer, les former et continuer à les accompagner à transformer les méthodes de travail - en s'appuyant sur les produits collaboratifs ministériels et interministériels mis à leur disposition.
 
   Le Tour de France des régions continue en 2023. La prochaine étape aura lieu dans la région Grand-Est !
+une-ou-diaporama:
+- image: "/uploads/Tour-de-France_Produits-numeriques-interministeriels.png"
 event_start_date: 2023-03-23 09:00:00 +01:00
 lieu: 'Institut régional d''administration (IRA) de Metz '
 adresse: 15 Avenue de Lyon, Metz
