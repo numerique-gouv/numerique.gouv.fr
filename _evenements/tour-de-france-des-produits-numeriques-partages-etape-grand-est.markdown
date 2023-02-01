@@ -37,3 +37,4 @@ Cet évènement se déroulera **le mercredi 23 mars, de 9h00 à 17h00** à l’I
 * Un format dynamique avec des **ateliers participatifs** : des ateliers avancés des produits numériques et des ateliers « multiproduits » collaboratifs.  
 
 <b>*Ouverture des inscriptions le 26 janvier*<b/>
+https://www.demarches-simplifiees.fr/commencer/etape-grand-est-tdf
