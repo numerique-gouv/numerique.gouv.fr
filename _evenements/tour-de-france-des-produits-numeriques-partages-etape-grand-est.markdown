@@ -1,5 +1,5 @@
 ---
-title: Tour de France des Produits numériques partagés - Étape Grand-Est
+title: Tour de France des Produits numériques interministériels - Étape Grand-Est
 date: 2023-01-12 13:44:00 +01:00
 categories:
 - Journée d'échanges
