@@ -11,7 +11,7 @@ chapeau-text: |-
 
   Le Tour de France des régions continue en 2023. La prochaine étape aura lieu dans la région Grand-Est !
 une-ou-diaporama:
-- image: "/uploads/Tour-de-France_Produits-numeriques-interministeriels.png"
+- image: "/uploads/2023_02_03_Tour-de-France_visuel_Agenda.jpg"
 event_start_date: 2023-03-23 09:00:00 +01:00
 lieu: 'Institut régional d''administration (IRA) de Metz '
 adresse: 15 Avenue de Lyon, Metz
