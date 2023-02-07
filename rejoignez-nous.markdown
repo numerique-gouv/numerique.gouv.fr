@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 25 janvier 2023
+date_de_modification: 07 février 2023
 style: |-
   .button {
   background-color: #0d5c98;
@@ -44,10 +44,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 {: .margin-top-4 .margin-bottom-0 .h3}
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
-
-* **[Directeur/Directrice de projets numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeur-de-projets-numeriques--reference-2022-975781/ "Directeur/Directrice de projets numériques H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
 
 * **[Architecte technique/Services d’accès internet H/F](https://www.linkedin.com/jobs/view/3276823243/?refId=7wBBQhbLQEm9cxPZyy7PfA%3D%3D "Architecte technique/Services d’accès internet H/F - Lien externe")**
 <br>Cadre/Catégorie A
