@@ -45,10 +45,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Architecte technique/Services d’accès internet H/F](https://www.linkedin.com/jobs/view/3276823243/?refId=7wBBQhbLQEm9cxPZyy7PfA%3D%3D "Architecte technique/Services d’accès internet H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Gestionnaire financier H/F](https://place-emploi-public.gouv.fr/offre-emploi/gestionnaire-financier-hf-reference-2023-1105351/ "Gestionnaire financier H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -67,14 +63,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 
 * **[Architecte technique (H/F)](https://www.linkedin.com/jobs/view/3386171534/?alternateChannel=search&refId=xlU%2Fj4iVDDaQV8iVw%2FvHaQ%3D%3D&trackingId=fYwNrCxP7LGa2Hd81nB1Rg%3D%3D "Architecte technique (H/F) - Lien externe")**
 <br>Cadre/Catégorie A
-<br>
-
-* **[Ingénieur réseau (H/F)](https://www.linkedin.com/jobs/view/3337763579/?alternateChannel=search&refId=xlU%2Fj4iVDDaQV8iVw%2FvHaQ%3D%3D&trackingId=lyBdXQkyUYoevKtpixEj9g%3D%3D&trk=d_flagship3_search_srp_jobs "Ingénieur réseau (H/F) - Lien externe")**
-<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
-<br>
-
-* **[Ingénieur réseau sécurité (H/F)](https://www.linkedin.com/jobs/view/3337774646/?alternateChannel=search&refId=xlU%2Fj4iVDDaQV8iVw%2FvHaQ%3D%3D&trackingId=AP%2BNcxXso62n9VW0w620rw%3D%3D&trk=d_flagship3_search_srp_jobs "Ingénieur réseau sécurité (H/F) - Lien externe")**
-<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
 <br>
 
 <div class="encadre noir"><h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
