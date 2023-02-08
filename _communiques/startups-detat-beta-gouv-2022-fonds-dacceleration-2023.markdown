@@ -3,6 +3,7 @@ title: 'Startups d’État : beta.gouv.fr dévoile ses réalisations de 2022 et 
   nouvelle version du fonds d’accélération des startups d’état et de territoires pour
   renforcer l’innovation dans les ministères'
 date: 2023-02-08 14:54:00 +01:00
+published: false
 categories:
 - Communiqué de presse
 tags:
