@@ -14,6 +14,11 @@ chapeau-text: Concevoir des services numériques plus simples et plus efficaces 
   c’est l’objectif du programme beta.gouv.fr de la direction interministérielle du
   numérique. Depuis 2013, il accompagne les ministères dans la création et l’évolution
   de ces services numériques prioritaires à impact, appelés Startups d’État.
+une-ou-diaporama:
+- image: "/uploads/2023_02_08_800x430_FAST_Visuel_15_mai.png"
+  alternative-textuelle: "Beta.gouv.fr dévoile ses réalisations 2022  et lance une
+    nouvelle version du FAST pour renforcer l’innovation dans les ministères. \nPostulez
+    jusqu’au 15 mai."
 ---
 
 Pour répondre à cette mission, le programme beta.gouv.fr de la direction interministérielle du numérique qui intervient sous l’égide du ministère de la Transformation et de la Fonction publiques apporte au travers du fonds d’accélération des Startups d’État et de territoires (FAST) un soutien financier accordé régulièrement aux Startups d’État les plus prometteuses, particulièrement celles liées aux politiques prioritaires du Gouvernement, ayant sollicité cette aide. 
