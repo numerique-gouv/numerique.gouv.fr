@@ -1,11 +1,18 @@
 ---
 title: 'Le FAST : accélérateur d''innovation numérique'
 date: 2023-02-09 10:05:00 +01:00
-published: false
 chapeau-text: |-
   Décideurs et agents publics : participez à une demi-journée dédiée au fonds d’accélération des Startups d’État et de territoires (FAST), piloté par beta.gouv.fr au sein de la DINUM.
   Au programme : présentation du fonds et de l'approche beta.gouv.fr, bilan des réalisations et de l’impact des 6 lauréats du FAST 11, témoignages et retours d’expériences sur les apports du FAST et la phase d'accélération du déploiement d'une solution, annonce des lauréats du FAST 12 et lancement du 13e appel à candidatures.
-event_start_date: 2023-02-16 00:00:00 +01:00
+event_start_date: 2023-02-16 14:45:00 +01:00
+lieu: Auditorium Marceau
+adresse: 20 avenue de Segur, 75007 Paris
+champs_informations:
+- intitule: Horaires
+  contenu: 14h45 à 18h
+- intitule: Modalités
+  contenu: Entrée libre, inscription obligatoire
+  Key: https://startupdetat.typeform.com/to/zzoS9OvV
 ---
 
 En près de 4 ans et 11 sessions, le fonds d’accélération des Startups d’État et de territoires (FAST) a soutenu quelque 50 Startups d’État et de Territoires et investi plus de 8 millions d'euros. 
