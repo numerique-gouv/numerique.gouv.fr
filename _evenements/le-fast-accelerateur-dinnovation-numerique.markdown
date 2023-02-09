@@ -35,7 +35,7 @@ Il soutient désormais en premier lieu les produits numériques répondant à un
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le FAST, c'est quoi ?</h3>
 <figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
-<img src="/uploads/logo_FTAP_RVB.jpg" alt="Logo du FTAP">
+<img src="/uploads/FAST-800x430.jpg" alt="Logo du FAST">
 </figure><p>Le Fonds d’accélération des Startups d’État et de Territoire (FAST) est un programme d’accélération proposé aux produits numériques qui répondent aux standards de qualité de beta.gouv.fr et qui souhaitent bénéficier du soutien de la Direction interministérielle du numérique (DINUM) pour augmenter leur impact et passer à l’échelle.
 <br>
 Ce programme est structuré autour d’un accompagnement opérationnel et stratégique par une équipe d’experts de beta.gouv.fr et d’un cofinancement à hauteur de 50% sur l’année, attribué en priorité aux produits liés aux chantiers prioritaires du gouvernement qui respectent les critères du programme.
@@ -44,7 +44,7 @@ Ce programme est structuré autour d’un accompagnement opérationnel et strat�
 </div>
  
 
-[Programme détaillé]
+## Programme détaillé
 [14h45-15h15] Accueil des participants
 
 [15h15-15h30] Introduction et présentation de beta.gouv.fr et du fonds d’accélération (FAST)
