@@ -4,6 +4,7 @@ date: 2023-02-09 10:05:00 +01:00
 chapeau-text: |-
   Décideurs et agents publics : participez à une demi-journée dédiée au fonds d’accélération des Startups d’État et de territoires (FAST), piloté par beta.gouv.fr au sein de la DINUM.
   Au programme : présentation du fonds et de l'approche beta.gouv.fr, bilan des réalisations et de l’impact des 6 lauréats du FAST 11, témoignages et retours d’expériences sur les apports du FAST et la phase d'accélération du déploiement d'une solution, annonce des lauréats du FAST 12 et lancement du 13e appel à candidatures.
+event_start_date: 2023-02-16 00:00:00 +01:00
 ---
 
 En près de 4 ans et 11 sessions, le fonds d’accélération des Startups d’État et de territoires (FAST) a soutenu quelque 50 Startups d’État et de Territoires et investi plus de 8 millions d'euros. 
@@ -20,8 +21,9 @@ Vous avez développé une solution
 politiques prioritaires du Gouvernement
 
 Il soutient désormais en premier lieu les produits numériques répondant à une politique prioritaire du Gouvernement.
-<div class="lien-important" style="margin-bottom:30px"> <p><a href="https://beta.gouv.fr/approche/fast">Postulez à la 13e édition du FAST</a></p> </div>
+<div class="lien-important" style="margin-bottom:30px"> <p><a href="https://beta.gouv.fr/approche/fast">En savoir plus sur le FAST</a></p> </div>
 
+<div class="lien-important" style="margin-bottom:30px"> <p><a href="https://beta.gouv.fr/approche/fast">Postulez à la 13e édition du FAST</a></p> </div>
 
 > L'accompagnement du FAST a été décisif pour le passage à l'échelle de Zéro Logement Vacant. Cela nous a permis de recruter 3 personnes et de bénéficier d'un appui méthodologique pour piloter le développement du produit par l'impact et pour expérimenter de nouveaux de mode de prise de contact avec les propriétaires de logements vacants.» 
 {: .citation}
@@ -30,6 +32,16 @@ Il soutient désormais en premier lieu les produits numériques répondant à un
 > <br>intrapreneur de Zéro Logement Vacant et chef de projet lutte contre la vacance de logement -  DGALN/DHUP
 {: .auteur-citation}
 
+<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le FAST, c'est quoi ?</h3>
+<figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
+<img src="/uploads/logo_FTAP_RVB.jpg" alt="Logo du FTAP">
+</figure><p>Le Fonds d’accélération des Startups d’État et de Territoire (FAST) est un programme d’accélération proposé aux produits numériques qui répondent aux standards de qualité de beta.gouv.fr et qui souhaitent bénéficier du soutien de la Direction interministérielle du numérique (DINUM) pour augmenter leur impact et passer à l’échelle.
+<br>
+Ce programme est structuré autour d’un accompagnement opérationnel et stratégique par une équipe d’experts de beta.gouv.fr et d’un cofinancement à hauteur de 50% sur l’année, attribué en priorité aux produits liés aux chantiers prioritaires du gouvernement qui respectent les critères du programme.
+
+<br>Le programme FAST accompagne 2 promotions de lauréats par an.</p>
+</div>
+ 
 
 [Programme détaillé]
 [14h45-15h15] Accueil des participants
