@@ -18,13 +18,17 @@ L'événement sera également l'occasion d'annoncer les lauréats de la 12e édi
 
 Vous avez développé une solution
 politiques prioritaires du Gouvernement
-> Postulez à la 13e édition du FAST beta.gouv.fr/approche/fast
+
 Il soutient désormais en premier lieu les produits numériques répondant à une politique prioritaire du Gouvernement.
+<div class="lien-important" style="margin-bottom:30px"> <p><a href="https://beta.gouv.fr/approche/fast">Postulez à la 13e édition du FAST</a></p> </div>
 
-« L'accompagnement du FAST a été décisif pour le passage à l'échelle de Zéro Logement Vacant. Cela nous a permis de recruter 3 personnes et de bénéficier d'un appui méthodologique pour piloter le développement du produit par l'impact et pour expérimenter de nouveaux de mode de prise de contact avec les propriétaires de logements vacants.» 
 
-- Henry Ciesielski, intrapreneur de Zéro Logement Vacant et chef de projet lutte contre la vacance de logement -  DGALN/DHUP.
+> L'accompagnement du FAST a été décisif pour le passage à l'échelle de Zéro Logement Vacant. Cela nous a permis de recruter 3 personnes et de bénéficier d'un appui méthodologique pour piloter le développement du produit par l'impact et pour expérimenter de nouveaux de mode de prise de contact avec les propriétaires de logements vacants.» 
+{: .citation}
 
+> **Henry Ciesielski,** 
+> <br>intrapreneur de Zéro Logement Vacant et chef de projet lutte contre la vacance de logement -  DGALN/DHUP
+{: .auteur-citation}
 
 
 [Programme détaillé]
