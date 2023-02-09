@@ -12,10 +12,10 @@ champs_informations:
   contenu: 14h45 à 18h30
 - intitule: Modalités
   contenu: Entrée libre, inscription obligatoire
-  Key: https://startupdetat.typeform.com/to/zzoS9OvV
+  lien: https://startupdetat.typeform.com/to/zzoS9OvV
 ---
 
-En près de 4 ans et 11 sessions, le fonds d’accélération des Startups d’État et de territoires (FAST) a soutenu quelque 50 Startups d’État et de Territoires et investi plus de 8 millions d'euros. 
+**En près de 4 ans et 11 sessions, le fonds d’accélération des Startups d’État et de territoires (FAST) a soutenu quelque 50 Startups d’État et de Territoires et investi plus de 8 millions d'euros.**
 
 Après 6 mois d’accompagnement et de financement, l’heure est au bilan pour les 6 lauréats de la 11e édition du FAST ! 
 
@@ -52,16 +52,16 @@ Ce programme est structuré autour d’un accompagnement opérationnel et strat�
  
 
 ## Programme détaillé
-[14h45-15h15] Accueil des participants
+**[14h45-15h15]** Accueil des participants
 
-[15h15-15h30] Introduction et présentation de beta.gouv.fr et du fonds d’accélération (FAST)
+**[15h15-15h30]** Introduction et présentation de beta.gouv.fr et du fonds d’accélération (FAST)
 
-[15h30-16h] Bilan de la 11e session du programme FAST
+**[15h30-16h]** Bilan de la 11e session du programme FAST
 * Retour sur les réalisations et l’impact des 6 Startups d’État accompagnées : Collectif Objets, APiLos, Signaux Faibles, Mon Service Sécurisé, Zéro Logements Vacants, JeVeuxAider
 
-[16h-17h] Tables rondes
+**[16h-17h]** Tables rondes
 * Comment l’accompagnement FAST vous a permis de piloter votre impact ?
 * Accélérer le déploiement de son service : quels enjeux et apprentissages ?
-[17h-17h15] Conclusion, annonce des lauréats du FAST 12 et de l’appel à candidature pour le FAST 13, par Stéphanie Schaer, directrice interministérielle du numérique
+**[17h-17h15]** Conclusion, annonce des lauréats du FAST 12 et de l’appel à candidature pour le FAST 13, par Stéphanie Schaer, directrice interministérielle du numérique
 
-[17h15-18h30] Cocktail 
+**[17h15-18h30]** Cocktail 
