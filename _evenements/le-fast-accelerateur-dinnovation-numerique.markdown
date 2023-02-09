@@ -9,7 +9,7 @@ lieu: Auditorium Marceau
 adresse: 20 avenue de Segur, 75007 Paris
 champs_informations:
 - intitule: Horaires
-  contenu: 14h45 à 18h
+  contenu: 14h45 à 18h30
 - intitule: Modalités
   contenu: Entrée libre, inscription obligatoire
   Key: https://startupdetat.typeform.com/to/zzoS9OvV
