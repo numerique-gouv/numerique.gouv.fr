@@ -4,10 +4,18 @@ date: 2023-02-09 10:05:00 +01:00
 chapeau-text: |-
   Décideurs et agents publics : participez à une demi-journée dédiée au fonds d’accélération des Startups d’État et de territoires (FAST), piloté par beta.gouv.fr au sein de la DINUM.
   Au programme : présentation du fonds et de l'approche beta.gouv.fr, bilan des réalisations et de l’impact des 6 lauréats du FAST 11, témoignages et retours d’expériences sur les apports du FAST et la phase d'accélération du déploiement d'une solution, annonce des lauréats du FAST 12 et lancement du 13e appel à candidatures.
-event_start_date: 2023-02-16 00:00:00 +01:00
+event_start_date: 2023-02-16 14:45:00 +01:00
+lieu: Auditorium Marceau
+adresse: 20 avenue de Segur, 75007 Paris
+champs_informations:
+- intitule: Horaires
+  contenu: 14h45 à 18h30
+- intitule: Modalités
+  contenu: Entrée libre, inscription obligatoire
+  lien: https://startupdetat.typeform.com/to/zzoS9OvV
 ---
 
-En près de 4 ans et 11 sessions, le fonds d’accélération des Startups d’État et de territoires (FAST) a soutenu quelque 50 Startups d’État et de Territoires et investi plus de 8 millions d'euros. 
+**En près de 4 ans et 11 sessions, le fonds d’accélération des Startups d’État et de territoires (FAST) a soutenu quelque 50 Startups d’État et de Territoires et investi plus de 8 millions d'euros.**
 
 Après 6 mois d’accompagnement et de financement, l’heure est au bilan pour les 6 lauréats de la 11e édition du FAST ! 
 
@@ -25,7 +33,7 @@ Il soutient désormais en premier lieu les produits numériques répondant à un
 
 <div class="lien-important" style="margin-bottom:30px"> <p><a href="https://beta.gouv.fr/approche/fast">Postulez à la 13e édition du FAST</a></p> </div>
 
-> L'accompagnement du FAST a été décisif pour le passage à l'échelle de Zéro Logement Vacant. Cela nous a permis de recruter 3 personnes et de bénéficier d'un appui méthodologique pour piloter le développement du produit par l'impact et pour expérimenter de nouveaux de mode de prise de contact avec les propriétaires de logements vacants. 
+> L'accompagnement du FAST a été décisif pour le passage à l'échelle de Zéro Logement Vacant. Cela nous a permis de recruter 3 personnes et de bénéficier d'un appui méthodologique pour piloter le développement du produit par l'impact et pour expérimenter de nouveaux de mode de prise de contact avec les propriétaires de logements vacants.» 
 {: .citation}
 
 > **Henry Ciesielski,** 
@@ -44,16 +52,17 @@ Ce programme est structuré autour d’un accompagnement opérationnel et strat�
  
 
 ## Programme détaillé
-[14h45-15h15] Accueil des participants
+**[14h45-15h15]** Accueil des participants
 
-[15h15-15h30] Introduction et présentation de beta.gouv.fr et du fonds d’accélération (FAST)
+**[15h15-15h30]** Introduction et présentation de beta.gouv.fr et du fonds d’accélération (FAST)
 
-[15h30-16h] Bilan de la 11e session du programme FAST
+**[15h30-16h]** Bilan de la 11e session du programme FAST
 * Retour sur les réalisations et l’impact des 6 Startups d’État accompagnées : Collectif Objets, APiLos, Signaux Faibles, Mon Service Sécurisé, Zéro Logements Vacants, JeVeuxAider
 
-[16h-17h] Tables rondes
+**[16h-17h]** Tables rondes
 * Comment l’accompagnement FAST vous a permis de piloter votre impact ?
 * Accélérer le déploiement de son service : quels enjeux et apprentissages ?
-[17h-17h15] Conclusion, annonce des lauréats du FAST 12 et de l’appel à candidature pour le FAST 13, par Stéphanie Schaer, directrice interministérielle du numérique
 
-[17h15-18h30] Cocktail 
+**[17h-17h15]** Conclusion, annonce des lauréats du FAST 12 et de l’appel à candidature pour le FAST 13, par Stéphanie Schaer, directrice interministérielle du numérique
+
+**[17h15-18h30]** Cocktail 
