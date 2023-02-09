@@ -20,7 +20,8 @@ une-ou-diaporama:
     nouvelle version du FAST pour renforcer l’innovation dans les ministères. \nPostulez
     jusqu’au 15 mai."
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_STARTUPS_D_ETAT_BETA.GOUV_BILAN_ANNONCES_POUR_PLUS_D_INNOVATION.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Pour répondre à cette mission, le programme beta.gouv.fr de la direction interministérielle du numérique qui intervient sous l’égide du ministère de la Transformation et de la Fonction publiques apporte au travers du fonds d’accélération des Startups d’État et de territoires (FAST) un soutien financier accordé régulièrement aux Startups d’État les plus prometteuses, particulièrement celles liées aux politiques prioritaires du Gouvernement, ayant sollicité cette aide. 
