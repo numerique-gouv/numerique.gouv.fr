@@ -34,13 +34,14 @@ Il soutient désormais en premier lieu les produits numériques répondant à un
 [Programme détaillé]
 [14h45-15h15] Accueil des participants
 
-[15h15-15h30] Introduction et présentation de Beta.gouv et du programme d’accélération (FAST)
+[15h15-15h30] Introduction et présentation de beta.gouv.fr et du fonds d’accélération (FAST)
 
 [15h30-16h] Bilan de la 11e session du programme FAST
-•	Retour sur les réalisations et l’impact des 6 Startups d’État accompagnées : Collectif Objets, APiLos, Signaux Faibles, Mon Service Sécurisé, Zéro Logements Vacants, JeVeuxAider
+* Retour sur les réalisations et l’impact des 6 Startups d’État accompagnées : Collectif Objets, APiLos, Signaux Faibles, Mon Service Sécurisé, Zéro Logements Vacants, JeVeuxAider
+
 [16h-17h] Tables rondes
-•	Comment l’accompagnement FAST vous a permis de piloter votre impact ?
-•	Accélérer le déploiement de son service : quels enjeux et apprentissages ?
+* Comment l’accompagnement FAST vous a permis de piloter votre impact ?
+* Accélérer le déploiement de son service : quels enjeux et apprentissages ?
 [17h-17h15] Conclusion, annonce des lauréats du FAST 12 et de l’appel à candidature pour le FAST 13, par Stéphanie Schaer, directrice interministérielle du numérique
 
 [17h15-18h30] Cocktail 
