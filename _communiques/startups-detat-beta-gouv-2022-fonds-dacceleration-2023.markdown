@@ -37,8 +37,9 @@ Le 16 février, beta.gouv.fr dévoilera aussi [en ligne](https://beta.gouv.fr/) 
 
 > « beta.gouv.fr et les Startups d’État sont la démonstration concrète et tangible que l’État sait innover et s’emparer du numérique pour créer des services publics plus simples, plus efficaces et plus proches des attentes des Français. Le numérique enrichit l’action publique dans tous les domaines ; de l’accès à la culture à la protection du climat en passant par l’engagement citoyen et la cybersécurité. Continuer à explorer toutes les opportunités offertes par le numérique pour répondre aux défis de notre temps et accompagner tous les agents publics qui souhaitent développer des solutions pour les citoyens, c’est la promesse du ministère de la Transformation et de la Fonction publiques. Le FAST y contribue directement et j’incite tous les agents publics engagés dans une démarche d’innovation numérique à s’en saisir. »
 <br>**Stanislas Guerini, ministre de la Transformation et de la Fonction publiques**
+
 <br>
 <br>
 *beta.gouv.fr est un programme de la direction interministérielle du numérique qui accompagne les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser afin d’améliorer le quotidien des citoyens, des entreprises ou des agents tout en répondant à un haut niveau de standards techniques (impact, transparence, accessibilité, design, sécurité, frugalité). 
 <br>Concrètement, des équipes sont constituées d’agents publics endossant un rôle « d’intrapreneur » et d’experts du numérique de beta.gouv.fr pour créer des services numériques prioritaires à impact, appelés Startups d’État. Ces dernières partent d’un problème précis identifié sur le terrain, auprès de citoyens, et avancent pas à pas en expérimentant des solutions jusqu’à trouver le bon modèle qui pourra être déployé à grande échelle s’il prouve son impact.*
-Pour en savoir plus : [beta.gouv.fr/approche](https://beta.gouv.fr/approche)
+<br>Pour en savoir plus : [beta.gouv.fr/approche](https://beta.gouv.fr/approche)
