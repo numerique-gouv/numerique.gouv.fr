@@ -18,7 +18,7 @@ une-ou-diaporama:
 event_start_date: 2023-04-06 10:00:00 +02:00
 ---
 
-Cet évènement se déroulera le 6 avril, de 9h00 à 17h00 à [Lieu à insérer].
+Cet évènement se déroulera le 6 avril, de 9h00 à 17h00 au Cerema de Lille.
 
 #### Au programme : 
 
