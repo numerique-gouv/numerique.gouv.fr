@@ -7,6 +7,8 @@ categories:
 chapeau-text: |-
   Décideurs et agents publics : participez à une demi-journée dédiée au fonds d’accélération des Startups d’État et de territoires (FAST), piloté par beta.gouv.fr au sein de la DINUM.
   Au programme : présentation du fonds et de l'approche beta.gouv.fr, bilan des réalisations et de l’impact des 6 lauréats du FAST 11, témoignages et retours d’expériences sur les apports du FAST et la phase d'accélération du déploiement d'une solution, annonce des lauréats du FAST 12 et lancement du 13e appel à candidatures.
+une-ou-diaporama:
+- image: "/uploads/2023_02_09_FAST-vu-par-laureat_16-fevrier_AGENDA.jpg"
 event_start_date: 2023-02-16 00:00:00 +01:00
 ---
 
