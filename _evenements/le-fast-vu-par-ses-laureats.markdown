@@ -2,7 +2,6 @@
 title: 'Le FAST vu par ses lauréats : Accélérer l’impact d’une politique publique
   par le numérique'
 date: 2023-02-09 10:05:00 +01:00
-published: false
 categories:
 - Rencontre
 chapeau-text: |-
