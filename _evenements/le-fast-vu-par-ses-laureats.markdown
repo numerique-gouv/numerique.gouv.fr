@@ -14,11 +14,8 @@ event_start_date: 2023-02-16 00:00:00 +01:00
 lieu: Direction interministérielle du numérique
 adresse: 20 avenue de Ségur, 75007 Paris
 acces:
-- type: Métro
-  lignes:
-  - Ligne 6: Cambronne
-  - Ligne 8: Ecole Militaire
-  - Ligne 10: Ségur
+- lignes:
+  - Key: 
 champs_informations:
 - intitule: Horaires
   contenu: 14h45 - 17h15
