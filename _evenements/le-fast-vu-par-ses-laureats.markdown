@@ -1,10 +1,16 @@
 ---
-title: 'Le FAST : accélérateur d''innovation numérique'
+title: 'Le FAST vu par ses lauréats : Accélérer l’impact d’une politique publique
+  par le numérique'
 date: 2023-02-09 10:05:00 +01:00
 published: false
+categories:
+- Rencontre
 chapeau-text: |-
   Décideurs et agents publics : participez à une demi-journée dédiée au fonds d’accélération des Startups d’État et de territoires (FAST), piloté par beta.gouv.fr au sein de la DINUM.
+  <br>
   Au programme : présentation du fonds et de l'approche beta.gouv.fr, bilan des réalisations et de l’impact des 6 lauréats du FAST 11, témoignages et retours d’expériences sur les apports du FAST et la phase d'accélération du déploiement d'une solution, annonce des lauréats du FAST 12 et lancement du 13e appel à candidatures.
+une-ou-diaporama:
+- image: "/uploads/2023_02_10_FAST-vu-par-laureat_16-fevrier_AGENDA2.jpg"
 event_start_date: 2023-02-16 00:00:00 +01:00
 ---
 
@@ -26,7 +32,7 @@ Il soutient désormais en premier lieu les produits numériques répondant à un
 
 <div class="lien-important" style="margin-bottom:30px"> <p><a href="https://beta.gouv.fr/approche/fast">Postulez à la 13e édition du FAST</a></p> </div>
 
-> L'accompagnement du FAST a été décisif pour le passage à l'échelle de Zéro Logement Vacant. Cela nous a permis de recruter 3 personnes et de bénéficier d'un appui méthodologique pour piloter le développement du produit par l'impact et pour expérimenter de nouveaux de mode de prise de contact avec les propriétaires de logements vacants.» 
+> L'accompagnement du FAST a été décisif pour le passage à l'échelle de Zéro Logement Vacant. Cela nous a permis de recruter 3 personnes et de bénéficier d'un appui méthodologique pour piloter le développement du produit par l'impact et pour expérimenter de nouveaux de mode de prise de contact avec les propriétaires de logements vacants. 
 {: .citation}
 
 > **Henry Ciesielski,** 
