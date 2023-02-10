@@ -38,15 +38,7 @@ Il soutient désormais en premier lieu les produits numériques répondant à un
 > <br>intrapreneur de Zéro Logement Vacant et chef de projet lutte contre la vacance de logement -  DGALN/DHUP
 {: .auteur-citation}
 
-<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le FAST, c'est quoi ?</h3>
-<figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
-<img src="/uploads/FAST-800x430.jpg" alt="Logo du FAST">
-</figure><p>Le Fonds d’accélération des Startups d’État et de Territoire (FAST) est un programme d’accélération proposé aux produits numériques qui répondent aux standards de qualité de beta.gouv.fr et qui souhaitent bénéficier du soutien de la direction interministérielle du numérique (DINUM) pour augmenter leur impact et passer à l’échelle.
-<br>
-Ce programme permet de bénéficier d’un accompagnement opérationnel et stratégique par une équipe d’experts de beta.gouv.fr et d’un cofinancement à hauteur de 50% sur l’année. 
-<br>Il est désormais attribué en priorité aux produits liés aux chantiers prioritaires du gouvernement, qui respectent les critères du programme.</p>
-<p><a href="https://beta.gouv.fr/approche/fast" title="Plus d'infos sur le FAST - Lien externe">> Plus d'infos sur le FAST</a></p>
-</div>
+
  
 
 ## Programme détaillé
@@ -63,3 +55,14 @@ Ce programme permet de bénéficier d’un accompagnement opérationnel et strat
 [17h-17h15] Conclusion, annonce des lauréats du FAST 12 et de l’appel à candidature pour le FAST 13, par Stéphanie Schaer, directrice interministérielle du numérique
 
 **[17h15-18h30] Cocktail** 
+<br>
+
+<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le FAST, c'est quoi ?</h3>
+<figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
+<img src="/uploads/FAST-800x430.jpg" alt="Logo du FAST">
+</figure><p>Le Fonds d’accélération des Startups d’État et de Territoire (FAST) est un programme d’accélération proposé aux produits numériques qui répondent aux standards de qualité de beta.gouv.fr et qui souhaitent bénéficier du soutien de la direction interministérielle du numérique (DINUM) pour augmenter leur impact et passer à l’échelle.
+<br>
+Ce programme permet de bénéficier d’un accompagnement opérationnel et stratégique par une équipe d’experts de beta.gouv.fr et d’un cofinancement à hauteur de 50% sur l’année. 
+<br>Il est désormais attribué en priorité aux produits liés aux chantiers prioritaires du gouvernement, qui respectent les critères du programme.</p>
+<p><a href="https://beta.gouv.fr/approche/fast" title="Plus d'infos sur le FAST - Lien externe">> Plus d'infos sur le FAST</a></p>
+</div>
