@@ -58,7 +58,7 @@ L'événement sera également l'occasion d'**annoncer les lauréats de la 12e é
 ## Programme détaillé
 <h3 class="h4">[14h45-15h15] <b>Accueil des participants</b></h3>
 
-<h3 class="h4">[15h15-15h30] <b>Introduction et présentation de beta.gouv.fr et du fonds d’accélération (FAST)</h3>
+<h3 class="h4">[15h15-15h30] <b>Introduction et présentation de beta.gouv.fr et du fonds d’accélération (FAST)</b></h3>
 
 <h3 class="h4">[15h30-16h] <b>Bilan de la 11e session du programme FAST</b></h3>
 <ul><li>Retour sur les réalisations et l’impact des 6 Startups d’État accompagnées : Collectif Objets, APiLos, Signaux Faibles, Mon Service Sécurisé, Zéro Logements Vacants, JeVeuxAider</li></ul>
