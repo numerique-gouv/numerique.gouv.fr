@@ -11,6 +11,14 @@ chapeau-text: |-
 une-ou-diaporama:
 - image: "/uploads/2023_02_10_FAST-vu-par-laureat_16-fevrier_AGENDA2.jpg"
 event_start_date: 2023-02-16 00:00:00 +01:00
+champs_informations:
+- intitule: Horaires
+  contenu: 14h45 - 17h
+- intitule: Comment y aller ?
+  contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur
+- intitule: Evénement gratuit réservé aux agents publics, inscription obligatoire
+  contenu: Inscrivez-vous
+  lien: https://startupdetat.typeform.com/to/zvhYak8d
 ---
 
 En près de 4 ans et 11 sessions, le fonds d’accélération des Startups d’État et de territoires (FAST) a soutenu quelque 50 Startups d’État et de Territoires et investi plus de 8 millions d'euros. 
@@ -23,10 +31,6 @@ Au cours de cette demi-journée dédiée au FAST, nous aurons ainsi l'occasion d
 
 L'événement sera également l'occasion d'**annoncer les lauréats de la 12e édition**, qui bénéficieront d'un financement et d'un accompagnement pendant 6 mois, et de **lancer l'appel à candidatures pour la 13e édition du fonds**, ouvert jusqu’au 15 mai 2023. 
 
-Vous avez développé une solution
-politiques prioritaires du Gouvernement
-
-Il soutient désormais en premier lieu les produits numériques répondant à une politique prioritaire du Gouvernement.
 <div class="lien-important" style="margin-bottom:30px"> <p><a href="https://beta.gouv.fr/approche/fast">En savoir plus sur le FAST</a></p> </div>
 
 <div class="lien-important" style="margin-bottom:30px"> <p><a href="https://beta.gouv.fr/approche/fast">Postulez à la 13e édition du FAST</a></p> </div>
