@@ -16,9 +16,17 @@ chapeau-text: "A l’occasion du mois de l’innovation publique, la DINUM a lan
 une-ou-diaporama:
 - image: "/uploads/2023_02_09_Tour-de-France_Lille_visuel_Agenda.jpg"
 event_start_date: 2023-04-06 10:00:00 +02:00
+lieu: Cerema de Lille
+adresse: 44t Rue Jean Bart, 59000 Lille
+champs_informations:
+- intitule: Horaires
+  contenu: 9h - 17h
+- intitule: Gratuit
+  contenu: Inscription obligatoire
+  lien: 
 ---
 
-Cet évènement se déroulera le 6 avril, de 9h00 à 17h00 au Cerema de Lille.
+Cet évènement se déroulera **le jeudi 6 avril, de 9h00 à 17h00** au Cerema de Lille.
 
 #### Au programme : 
 
