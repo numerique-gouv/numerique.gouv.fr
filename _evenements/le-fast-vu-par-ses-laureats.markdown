@@ -67,7 +67,7 @@ L'événement sera également l'occasion d'**annoncer les lauréats de la 12e é
 <h3 class="h4">[17h-17h15] <b>Conclusion, annonce des lauréats du FAST 12 et de l’appel à candidature pour le FAST 13</b></h3>
 <p>Par Stéphanie Schaer, directrice interministérielle du numérique</p>
 
-<h3 class="h4">[17h15-18h30] Cocktail</h3>
+<h3 class="h4">[17h15-18h30] Stands démo de chaque produit et échanges avec les lauréats - Cocktail</h3>
 <br>
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le FAST, c'est quoi ?</h3>
