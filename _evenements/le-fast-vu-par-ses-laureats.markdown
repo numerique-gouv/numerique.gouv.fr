@@ -11,9 +11,17 @@ chapeau-text: |-
 une-ou-diaporama:
 - image: "/uploads/2023_02_10_FAST-vu-par-laureat_16-fevrier_AGENDA2.jpg"
 event_start_date: 2023-02-16 00:00:00 +01:00
+lieu: Direction interministérielle du numérique
+adresse: 20 avenue de Ségur, 75007 Paris
+acces:
+- type: Métro
+  lignes:
+  - Ligne 6: Cambronne
+  - Ligne 8: Ecole Militaire
+  - Ligne 10: Ségur
 champs_informations:
 - intitule: Horaires
-  contenu: 14h45 - 17h
+  contenu: 14h45 - 17h15
 - intitule: Comment y aller ?
   contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur
 - intitule: Evénement gratuit réservé aux agents publics, inscription obligatoire
