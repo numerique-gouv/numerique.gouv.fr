@@ -24,8 +24,10 @@ champs_informations:
   contenu: 14h45 - 17h15
 - intitule: Comment y aller ?
   contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur
-- intitule: Evénement gratuit réservé aux agents publics, inscription obligatoire
-  contenu: Inscrivez-vous
+- intitule: Modalités
+  contenu: Evénement gratuit réservé aux agents publics, inscription obligatoire
+- intitule: Inscription
+  contenu: via ce formulaire en ligne
   lien: https://startupdetat.typeform.com/to/zvhYak8d
 ---
 
@@ -39,9 +41,9 @@ Au cours de cette demi-journée dédiée au FAST, nous aurons ainsi l'occasion d
 
 L'événement sera également l'occasion d'**annoncer les lauréats de la 12e édition**, qui bénéficieront d'un financement et d'un accompagnement pendant 6 mois, et de **lancer l'appel à candidatures pour la 13e édition du fonds**, ouvert jusqu’au 15 mai 2023. 
 
-<div class="lien-important" style="margin-bottom:30px"> <p><a href="https://beta.gouv.fr/approche/fast">En savoir plus sur le FAST</a></p> </div>
+<div class="lien-important" style="margin-bottom:10px"> <p><a href="https://beta.gouv.fr/approche/fast">En savoir plus sur le FAST</a></p> </div>
 
-<div class="lien-important" style="margin-bottom:30px"> <p><a href="https://beta.gouv.fr/approche/fast">Postulez à la 13e édition du FAST</a></p> </div>
+<div class="lien-important" style="margin-bottom:10px"> <p><a href="https://beta.gouv.fr/approche/fast">Postulez à la 13e édition du FAST</a></p> </div>
 
 > L'accompagnement du FAST a été décisif pour le passage à l'échelle de Zéro Logement Vacant. Cela nous a permis de recruter 3 personnes et de bénéficier d'un appui méthodologique pour piloter le développement du produit par l'impact et pour expérimenter de nouveaux de mode de prise de contact avec les propriétaires de logements vacants. 
 {: .citation}
@@ -54,19 +56,19 @@ L'événement sera également l'occasion d'**annoncer les lauréats de la 12e é
  
 
 ## Programme détaillé
-**[14h45-15h15] Accueil des participants**
+<h3 class="h4">[14h45-15h15] <b>Accueil des participants</b></h3>
 
-**[15h15-15h30] Introduction et présentation de beta.gouv.fr et du fonds d’accélération (FAST)**
+<h3 class="h4">[15h15-15h30] <b>Introduction et présentation de beta.gouv.fr et du fonds d’accélération (FAST)</h3>
 
-**[15h30-16h] Bilan de la 11e session du programme FAST**
+<h3 class="h4">[15h30-16h] <b>Bilan de la 11e session du programme FAST</b></h3>
 * Retour sur les réalisations et l’impact des 6 Startups d’État accompagnées : Collectif Objets, APiLos, Signaux Faibles, Mon Service Sécurisé, Zéro Logements Vacants, JeVeuxAider
 
-**[16h-17h] Tables rondes**
+<h3 class="h4">[16h-17h] <b>Tables rondes</b></h3>
 * Comment l’accompagnement FAST vous a permis de piloter votre impact ?
 * Accélérer le déploiement de son service : quels enjeux et apprentissages ?
 [17h-17h15] Conclusion, annonce des lauréats du FAST 12 et de l’appel à candidature pour le FAST 13, par Stéphanie Schaer, directrice interministérielle du numérique
 
-**[17h15-18h30] Cocktail** 
+<h3 class="h4">[17h15-18h30] Cocktail</h3>
 <br>
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le FAST, c'est quoi ?</h3>
