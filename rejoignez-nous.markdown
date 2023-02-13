@@ -53,10 +53,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1100389/ "Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F - Lien externe")**
-<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
-<br>
-
 * **[Chef du pôle Hypervision (H/F)](https://www.linkedin.com/jobs/view/3359852691/?alternateChannel=search&refId=xlU%2Fj4iVDDaQV8iVw%2FvHaQ%3D%3D&trackingId=hqlQnmcym%2FzHGlrWO2NJYA%3D%3D "Chef du pôle Hypervision (H/F) - Lien externe")**
 <br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
 <br>
