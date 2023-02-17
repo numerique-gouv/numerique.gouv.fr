@@ -1,6 +1,6 @@
 ---
 title: Les 10 principes d'une démarche en ligne exemplaire
-date: 2019-01-30 12:18:00 +01:00
+date: 2017-07-11 12:18:00 +02:00
 permalink: "/publications/dix-principes/"
 position: 16
 une-ou-diaporama:
