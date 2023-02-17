@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: '09 février 2023'
+date_de_modification: 17 février 2023
 style: |-
   .button {
   background-color: #0d5c98;
@@ -45,10 +45,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Gestionnaire financier H/F](https://place-emploi-public.gouv.fr/offre-emploi/gestionnaire-financier-hf-reference-2023-1105351/ "Gestionnaire financier H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Assistant(e) de direction H/F](https://place-emploi-public.gouv.fr/offre-emploi/assistante-de-direction-hf-reference-2023-1109809/ "Assistant(e) de direction H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -57,7 +53,11 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
 <br>
 
-* **[Architecte technique (H/F)](https://www.linkedin.com/jobs/view/3386171534/?alternateChannel=search&refId=xlU%2Fj4iVDDaQV8iVw%2FvHaQ%3D%3D&trackingId=fYwNrCxP7LGa2Hd81nB1Rg%3D%3D "Architecte technique (H/F) - Lien externe")**
+* **[Chef/fe de mission « Talents du numérique » (H/F)](https://place-emploi-public.gouv.fr/offre-emploi/cheffe-de-mission--talents-du-numerique--hf-reference-2023-1122793/ "Chef/fe de mission « Talents du numérique » (H/F) - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Responsable opérationnel de la plateforme FranceConnect (H/F)](https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/ "Responsable opérationnel de la plateforme FranceConnect (H/F) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
