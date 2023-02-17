@@ -1,5 +1,6 @@
 ---
 title: Plan d’action logiciels libres et communs numériques
+date: 2021-11-10 00:00:00 +01:00
 tags:
 - TECH.GOUV
 - Logiciels libres
