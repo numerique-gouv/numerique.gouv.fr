@@ -14,7 +14,6 @@ chapeau-text: 'Etalab organise le 24 février prochain une table ronde "Anonymis
 une-ou-diaporama:
 - image: "/uploads/2023_02_24_ia_agenda-4f2fb6.jpg"
 event_start_date: 2023-02-24 15:00:00 +01:00
-event_end_date: 2023-02-24 16:30:00 +01:00
 lieu: DINUM
 adresse: |-
   20, avenue de Ségur
