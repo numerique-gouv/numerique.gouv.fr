@@ -56,7 +56,7 @@ Développeurs, architectes, exploitants ou chefs de projets techniques cet évè
 
 **Mercredi 15 mars 2023 :**
 
-* **[09:00]** Début des activités
+* **[09:00]** Poursuite des activités de la veille
 * **[12:00]** *Déjeuner*
 * **[13:30]** Poursuite des travaux
 * **[16:30]** Intervention - retour d'expérience NUBO
@@ -64,7 +64,7 @@ Développeurs, architectes, exploitants ou chefs de projets techniques cet évè
 
 **Jeudi 16 mars 2023 :**
 
-* **[09:00]** Début des activités
+* **[09:00]** Poursuite des activités de la veille
 * **[11:30]** Finalisation des travaux et préparation des présentations finales
 * **[12:00]** *Déjeuner*
 * **[13:30]** Présentation des travaux
