@@ -4,7 +4,6 @@ date: 2023-02-22 17:09:00 +01:00
 published: false
 ---
 
-
 Le 18 janvier dernier, la direction interministérielle du numérique (DINUM), en partenariat avec l’agence nationale de la cohésion des territoires (ANCT) et la direction interministérielle de la transformation publique (DITP) ont organisé à Paris la journée « Numérique et Territoires ». 
 
 Cet évènement avait notamment pour objectif de faire le bilan du fonds « Transformation numérique des collectivités territoriales (ITN7) » du plan FranceRelance , de mettre en avant les projets ainsi financés et accompagnés, en donnant la parole à un panel de lauréats du fonds et, plus globalement, d’échanger sur les grands enjeux de la transformation numérique des territoires. 
