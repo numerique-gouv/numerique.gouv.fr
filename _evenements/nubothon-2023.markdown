@@ -1,8 +1,8 @@
 ---
-title: NUBOTHON 2023
+title: Nubothon 2023
 date: 2023-02-22 15:52:00 +01:00
 categories:
-- Hackathon
+- Évènement
 tags:
 - Cloud
 chapeau-text: Venez découvrir le Cloud NUBO, l’un des deux Cloud internes de l’Etat
