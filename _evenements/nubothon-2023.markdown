@@ -16,7 +16,7 @@ une-ou-diaporama:
     Paris 13e
 event_start_date: 2023-03-14 09:00:00 +01:00
 event_end_date: 2023-03-16 16:30:00 +01:00
-lieu: Locaux du CISIRH – 43 Boulevard Vincent Auriol, 75013 Paris
+lieu: Locaux du CISIRH
 adresse: 43 Boulevard Vincent Auriol, 75013 Paris
 champs_informations:
 - intitule: Horaires
