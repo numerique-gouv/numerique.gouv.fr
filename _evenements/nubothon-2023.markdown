@@ -1,6 +1,10 @@
 ---
 title: NUBOTHON 2023
 date: 2023-02-22 15:52:00 +01:00
+categories:
+- Hackathon
+tags:
+- Cloud
 chapeau-text: Venez découvrir le Cloud NUBO, l’un des deux Cloud internes de l’Etat
   désignés par la [Doctrine Cloud au centre](https://www.numerique.gouv.fr/services/cloud/),
   à travers un challenge de 3 jours pour développer une application.
@@ -14,6 +18,19 @@ event_start_date: 2023-03-14 09:00:00 +01:00
 event_end_date: 2023-03-16 16:30:00 +01:00
 lieu: Locaux du CISIRH – 43 Boulevard Vincent Auriol, 75013 Paris
 adresse: 43 Boulevard Vincent Auriol, 75013 Paris
+champs_informations:
+- intitule: Horaires
+  contenu: 9h - 17h30
+- intitule: Comment y aller ?
+  contenu: Métro ➅ Chevaleret
+- intitule: Modalités
+  contenu: Evénement gratuit réservé aux agents publics, inscription obligatoire
+- intitule: Inscription
+  contenu: via ce formulaire en ligne, rubrique inscription
+  lien: https://www.nubothon2023.fr/
+- intitule: Plus d'infos sur
+  contenu: Nubothon2023.fr
+  lien: https://www.nubothon2023.fr/
 ---
 
 Vous aimez les défis ? Vous participez régulièrement à des jeux collectifs ou souhaitez simplement découvrir le format ?
@@ -25,3 +42,6 @@ Au programme : 3 jours pendant lesquels vous allez apprendre à déployer une ap
 Développeurs, architectes, exploitants ou chefs de projets techniques cet évènement est fait pour vous ! Un beau challenge en perspective ouvert à tous les agents publics : n’hésitez donc pas à en parler autour de vous ! 
 
 *Attention, les postes informatiques ne sont pas fournis, merci de venir avec un poste de travail fourni par votre administration.*
+
+## Programme détaillé
+
