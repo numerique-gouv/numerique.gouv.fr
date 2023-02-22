@@ -7,6 +7,8 @@ tags:
 - Evènement
 - Territorial
 - Numérique
+une-ou-diaporama:
+- image: "/uploads/2023_01_05_JNT_AGENDA-509de5.jpg"
 ---
 
 Le 18 janvier dernier, la direction interministérielle du numérique (DINUM), en partenariat avec l’agence nationale de la cohésion des territoires (ANCT) et la direction interministérielle de la transformation publique (DITP) ont organisé à Paris la journée « Numérique et Territoires ». 
