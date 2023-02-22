@@ -45,3 +45,17 @@ Développeurs, architectes, exploitants ou chefs de projets techniques cet évè
 
 ## Programme détaillé
 
+**Mardi 14 mars 2023 :**
+* **[09:00]**: *Accueil et petit-déjeuner*
+* **[10:00]**: Programme et objectifs
+* **[10:30]**: Constitution des équipes du Nubothon
+**[11:00]**: Présentation de la plateforme NUBO
+**[12:00]**: *Déjeuner*
+**[13:30]**: Prise en main de NUBO
+**[17:00]**: Fin des activités de la première journée
+
+
+**Mercredi 15 mars 2023 :**
+
+
+**Jeudi 16 mars 2023 :**
