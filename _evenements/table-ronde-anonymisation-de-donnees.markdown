@@ -13,7 +13,7 @@ chapeau-text: 'Le département Etalab de la DINUM organise le 24 février procha
   table ronde « Anonymisation de données structurées : quelles finalités, quels risques
   et quelles techniques ? », suivie d''un temps d''échange avec le public.'
 une-ou-diaporama:
-- image: "/uploads/2023_02_24_ia_agenda-4f2fb6.jpg"
+- image: "/uploads/2023_02_24_table-ronde-anonymisation-donnees_LabIA_agenda.jpg"
 event_start_date: 2023-02-24 15:00:00 +01:00
 champs_informations:
 - intitule: Horaires
