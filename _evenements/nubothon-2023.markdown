@@ -37,7 +37,7 @@ Vous aimez les défis ? Vous participez régulièrement à des jeux collectifs o
 
 Le Secrétariat Général du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique, la direction générale des Finances publiques et la Direction interministérielle du numérique vous donnent rendez-vous les 14, 15 et 16 mars prochains pour le « NUBOTHON » vous permettant de découvrir le Cloud NUBO.
 
-Au programme : 3 jours pendant lesquels vous allez apprendre à déployer une application en utilisant les services du Cloud NUBO ainsi que d’autres outils (Infrastructure as Code, CICD, …) tout en bénéficiant de l’accompagnement d’experts pour vous assister dans l’ensemble de ces activités.
+Au programme : 3 jours pendant lesquels vous allez apprendre à **déployer une application en utilisant les services du Cloud NUBO** ainsi que d’autres outils (Infrastructure as Code, CICD, …) tout en bénéficiant de **l’accompagnement d’experts** pour vous assister dans l’ensemble de ces activités.
 
 Développeurs, architectes, exploitants ou chefs de projets techniques cet évènement est fait pour vous ! Un beau challenge en perspective ouvert à tous les agents publics : n’hésitez donc pas à en parler autour de vous ! 
 
