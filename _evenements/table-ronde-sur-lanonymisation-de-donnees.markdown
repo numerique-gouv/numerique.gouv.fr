@@ -14,15 +14,9 @@ chapeau-text: 'Etalab organise le 24 février prochain une table ronde "Anonymis
 une-ou-diaporama:
 - image: "/uploads/2023_02_24_ia_agenda-4f2fb6.jpg"
 event_start_date: 2023-02-24 15:00:00 +01:00
-lieu: DINUM
-adresse: |-
-  20, avenue de Ségur
-  75007 Paris 7
 champs_informations:
 - intitule: Horaires
   contenu: 15h-16h30
-- intitule: Accès
-  contenu: Métros 6 (Cambronne), 8 (Ecole Militaire) et 10 (Ségur)
 - intitule: Gratuit
   contenu: Inscription obligatoire
   lien: https://www.eventbrite.fr/e/billets-table-ronde-sur-lanonymisation-de-donnees-557722291387
@@ -30,7 +24,7 @@ champs_informations:
 
 Etalab organise le 24 février prochain une table ronde "Anonymisation de données structurées : quelles finalités, quels risques et quelles techniques ?", qui sera suivie d'un temps d'échange avec le public. Cette table ronde s’adresse prioritairement, mais non exclusivement, aux agents publics.
 
-La CNIL, l'INSEE, la DINUM, le Health Data Hub et le laboratoire SDS de l'INSA échangeront sur le cadre méthodologique et le cadre juridique de l'anonymisation de données. La table ronde d'une heure sera suivie d'une demi-heure de questions-réponses avec le public dans la salle et en ligne.
+La CNIL, l'INSEE, la DINUM, le Health Data Hub et le laboratoire SDS de l'INSA échangeront sur le cadre méthodologique et le cadre juridique de l'anonymisation de données. La table ronde d'une heure sera suivie d'une demi-heure de questions-réponses avec le public en ligne.
 
 Le lien de la visioconférence sera communiqué aux personnes inscrites.
 
