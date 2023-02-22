@@ -1,7 +1,13 @@
 ---
 title: Table ronde sur l'anonymisation de données
 date: 2023-02-22 12:13:00 +01:00
-published: false
+categories:
+- Table ronde
+tags:
+- Etalab
+- intelligence artificielle
+- données ouvertes
+- open data
 chapeau-text: 'Etalab organise le 24 février prochain une table ronde "Anonymisation
   de données structurées : quelles finalités, quels risques et quelles techniques
   ?", qui sera suivie d''un temps d''échange avec le public.'
