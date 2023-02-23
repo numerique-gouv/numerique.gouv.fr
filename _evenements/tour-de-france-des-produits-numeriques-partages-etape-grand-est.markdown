@@ -27,7 +27,7 @@ champs_informations:
   lien: https://www.demarches-simplifiees.fr/commencer/etape-grand-est-tdf
 ---
 
-Cet évènement se déroulera **le mercredi 23 mars, de 9h00 à 17h00** à l’Institut régional d'administration (IRA) de Metz. 
+Cet évènement se déroulera **le jeudi 23 mars, de 9h00 à 17h00** à l’Institut régional d'administration (IRA) de Metz. 
 
 #### Au programme : 
 

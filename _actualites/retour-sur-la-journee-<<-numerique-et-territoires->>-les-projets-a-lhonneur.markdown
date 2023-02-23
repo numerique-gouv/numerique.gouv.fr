@@ -25,30 +25,30 @@ Partie intégrante du plan FranceRelance, le fonds « Transformation numérique 
 
 Retour sur 7 projets portés par les lauréats du fonds :
 * #### La salle sur demande 
-Conseil Départemental de l’Isère 
-Montant alloué : 846 984 €
-Accompagné par l'ANCT
-Mettre en relation l’offre et la demande d’utilisation des bâtiments publics et en faciliter les accès, simplifier le processus administratif de conventionnement et de paiement.
-Mise en place d’un service en ligne de réservation des salles du patrimoine public par la société civile. 
-Prochaine étape : Etendre les services à d’autres collectivités.
+<br> Conseil Départemental de l’Isère 
+<br> Montant alloué : 846 984 €
+<br> Accompagné par l'ANCT
+<br> Mettre en relation l’offre et la demande d’utilisation des bâtiments publics et en faciliter les accès, simplifier le processus administratif de conventionnement et de paiement.
+<br> Mise en place d’un service en ligne de réservation des salles du patrimoine public par la société civile. 
+<br> Prochaine étape : Etendre les services à d’autres collectivités.
 
 * #### Signature électronique 
-Gironde Numérique 
-Montant alloué : 241 484 € 
-Accompagné par l'ANCT
-Développer un outil permettant aux citoyens de signer électroniquement un certain nombre de documents avec des personnes à distance.
+<br> Gironde Numérique 
+<br> Montant alloué : 241 484 € 
+<br> Accompagné par l'ANCT
+<br> Développer un outil permettant aux citoyens de signer électroniquement un certain nombre de documents avec des personnes à distance.
 
 * #### « Alerte SMS » et « Multicanal »
-Gironde Numérique 
-Montant alloué : 204 984 €
-Accompagné par l'ANCT
-Développer un outil permettant à une commune de communiquer avec ses administrés le plus simplement.
-Le projet a d’abord pris la forme d’alertes SMS avant de devenir un outil de communication multicanal.
+<br> Gironde Numérique 
+<br> Montant alloué : 204 984 €
+<br> Accompagné par l'ANCT
+<br> Développer un outil permettant à une commune de communiquer avec ses administrés le plus simplement.
+<br> Le projet a d’abord pris la forme d’alertes SMS avant de devenir un outil de communication multicanal.
 
 * #### Collec-data 
-Syndicat Mixte Mégalis Bretagne 
-Montant alloué : 281 777 € 
-Accompagné par la DINUM 
+<br> Syndicat Mixte Mégalis Bretagne 
+<br> Montant alloué : 281 777 € 
+<br> Accompagné par la DINUM 
 Accompagner les collectivités bretonnes à un passage à l’échelle dans l’open data.
 La plateforme Collec-data permet aujourd’hui à plus de 1600 collectivités de publier automatiquement leurs données.
 Prochaines étapes : Massifier la publication des données et systématiser la valorisation.
