@@ -89,8 +89,7 @@ La table ronde qui a suivi a été l’occasion pour les participants d’échan
 Démarches simplifiées, data.gouv.fr, FranceConnect ou les bouquets d’API sont autant d’exemples de succès de produits mutualisés entre État et territoires qui font aujourd’hui partie du quotidien des agents et des citoyens, ce qu’a notamment souligné Stéphanie Schaer (directrice interministérielle du numérique), lors de son intervention. Ces initiatives doivent néanmoins s’accompagner d’un développement des compétences numériques des agents. Stéphanie Schaer a également insisté sur le rôle crucial des données dans la transformation numérique.
 
 
-##### *« Ouvrir les données et les utiliser, c’est donner le moyen à l’État et aux collectivités territoriales d’être plus efficaces dans leur action et de rendre plus simples les démarches administratives au bénéfice des citoyens, des entreprises comme des agents. »*
--Stéphanie Schaer, directrice interministérielle du numérique
+##### *« Ouvrir les données et les utiliser, c’est donner le moyen à l’État et aux collectivités territoriales d’être plus efficaces dans leur action et de rendre plus simples les démarches administratives au bénéfice des citoyens, des entreprises comme des agents. »* -Stéphanie Schaer, directrice interministérielle du numérique
 
 
 ### Des exigences multiples pour le numérique d’aujourd’hui 
