@@ -1,7 +1,6 @@
 ---
 title: Retour sur la journée « Numérique et Territoires », les projets à l’honneur
 date: 2023-02-22 17:09:00 +01:00
-published: false
 categories:
 - Article
 tags:
