@@ -1,7 +1,6 @@
 ---
 title: Retour sur la journée « Numérique et Territoires », les projets à l’honneur
 date: 2023-02-22 17:09:00 +01:00
-published: false
 categories:
 - Article
 tags:
@@ -26,11 +25,11 @@ Partie intégrante du plan FranceRelance, le fonds « Transformation numérique 
 Retour sur 7 projets portés par les lauréats du fonds :
 * #### La salle sur demande 
 Conseil Départemental de l’Isère 
-Montant alloué : 846 984 €
-Accompagné par l'ANCT
-Mettre en relation l’offre et la demande d’utilisation des bâtiments publics et en faciliter les accès, simplifier le processus administratif de conventionnement et de paiement.
-Mise en place d’un service en ligne de réservation des salles du patrimoine public par la société civile. 
-Prochaine étape : Etendre les services à d’autres collectivités.
+<br> Montant alloué : 846 984 €
+<br> Accompagné par l'ANCT
+<br> Mettre en relation l’offre et la demande d’utilisation des bâtiments publics et en faciliter les accès, simplifier le processus administratif de conventionnement et de paiement.
+<br> Mise en place d’un service en ligne de réservation des salles du patrimoine public par la société civile. 
+<br> Prochaine étape : Etendre les services à d’autres collectivités.
 
 * #### Signature électronique 
 Gironde Numérique 
