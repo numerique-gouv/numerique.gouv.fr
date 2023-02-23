@@ -41,7 +41,7 @@ Au programme : 3 jours pendant lesquels vous allez apprendre à **déployer une 
 
 Les équipes qui seront allées le plus loin en matière de niveau d'automatisation / re-architecture cloud natif (sur la base de l'appréciation du jury) se verront recevoir un prix !
 
-Développeurs, architectes, exploitants ou chefs de projets techniques cet évènement est fait pour vous ! Un beau challenge en perspective ouvert à tous les agents publics : n’hésitez donc pas à en parler autour de vous ! 
+Développeurs, architectes, exploitants ou chefs de projets techniques cet évènement est fait pour vous ! Un beau challenge en perspective ouvert à tous les agents publics : n’hésitez donc pas à en parler autour de vous.
 
 *Attention, les postes informatiques ne sont pas fournis, merci de venir avec un poste de travail fourni par votre administration.*
 
