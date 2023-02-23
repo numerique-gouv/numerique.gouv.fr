@@ -67,7 +67,7 @@ Retour sur 7 projets portés par les lauréats du fonds :
 <br> Prochaines étapes : Enrichir le portail de relations avec les usagers et le portail famille de nouvelles démarches et fonctionnalités et installer de nouvelles bornes.
 
 * #### L'école des transformateurs publics
-<br> Ville de Marseille 
+Ville de Marseille 
 <br> Montant alloué : 50 000 € 
 <br> Accompagné par la DITP 
 <br> Expérimenter une Ecole des transformateurs publics pour contribuer à former une première promotion d’ambassadeurs de la transformation, avec l’appui d’acteurs publics de l’innovation sociale.
