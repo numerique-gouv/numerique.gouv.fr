@@ -1,7 +1,6 @@
 ---
 title: Retour sur la journée « Numérique et Territoires », les projets à l’honneur
 date: 2023-02-22 17:09:00 +01:00
-published: false
 categories:
 - Article
 tags:
@@ -49,31 +48,31 @@ Retour sur 7 projets portés par les lauréats du fonds :
 <br> Syndicat Mixte Mégalis Bretagne 
 <br> Montant alloué : 281 777 € 
 <br> Accompagné par la DINUM 
-Accompagner les collectivités bretonnes à un passage à l’échelle dans l’open data.
-La plateforme Collec-data permet aujourd’hui à plus de 1600 collectivités de publier automatiquement leurs données.
-Prochaines étapes : Massifier la publication des données et systématiser la valorisation.
+<br> Accompagner les collectivités bretonnes à un passage à l’échelle dans l’open data.
+<br> La plateforme Collec-data permet aujourd’hui à plus de 1600 collectivités de publier automatiquement leurs données.
+<br> Prochaines étapes : Massifier la publication des données et systématiser la valorisation.
  
 * #### Dématérialisation du parcours des bénéficiaires du RSA »
-Conseil Départemental de l’Ardèche 
-Montant alloué : 63 500 € 
-Accompagné par la DINUM
-Permettre aux "référents insertion" de visualiser les données des bénéficiaires, de partager des informations entre services et plus globalement de suivre les parcours sociaux.
+<br> Conseil Départemental de l’Ardèche 
+<br> Montant alloué : 63 500 € 
+<br> Accompagné par la DINUM
+<br> Permettre aux "référents insertion" de visualiser les données des bénéficiaires, de partager des informations entre services et plus globalement de suivre les parcours sociaux.
 
 * #### Mairie de Loos-en-Gohelle – Financement des fonds France Relance de 20.000€
-Mairie de Loos-en-Gohelle (Pas-de-Calais) 
-Montant alloué : 20 000 € 
-Accompagné par la DITP 
-Créer de nouveaux services et améliorer l’ergonomie de travail des agents au bénéfice des administrés. 
-7 nouvelles démarches en ligne sont disponibles sur le portail de relation Mairie-usagers et de nouvelles démarches familiales comme l’inscription et le paiement de la cantine scolaires sont disponibles sur le portail Famille. 3 bornes numériques d’accès à des services dématérialisés (portails de la Ville, CAF, Pôle Emploi, etc.) sont en cours de mise en place. 
-Prochaines étapes : Enrichir le portail de relations avec les usagers et le portail famille de nouvelles démarches et fonctionnalités et installer de nouvelles bornes.
+<br> Mairie de Loos-en-Gohelle (Pas-de-Calais) 
+<br> Montant alloué : 20 000 € 
+<br> Accompagné par la DITP 
+<br> Créer de nouveaux services et améliorer l’ergonomie de travail des agents au bénéfice des administrés. 
+<br> 7 nouvelles démarches en ligne sont disponibles sur le portail de relation Mairie-usagers et de nouvelles démarches familiales comme l’inscription et le paiement de la cantine scolaires sont disponibles sur le portail Famille. 3 bornes numériques d’accès à des services dématérialisés (portails de la Ville, CAF, Pôle Emploi, etc.) sont en cours de mise en place. 
+<br> Prochaines étapes : Enrichir le portail de relations avec les usagers et le portail famille de nouvelles démarches et fonctionnalités et installer de nouvelles bornes.
 
 * #### L'école des transformateurs publics
-Ville de Marseille 
-Montant alloué : 50 000 € 
-Accompagné par la DITP 
-Expérimenter une Ecole des transformateurs publics pour contribuer à former une première promotion d’ambassadeurs de la transformation, avec l’appui d’acteurs publics de l’innovation sociale.
-Une première promotion d’agents de la ville issus de 6 directions différentes a été formée
-Prochaine étape : Déployer à une échelle nationale.
+<br> Ville de Marseille 
+<br> Montant alloué : 50 000 € 
+<br> Accompagné par la DITP 
+<br> Expérimenter une Ecole des transformateurs publics pour contribuer à former une première promotion d’ambassadeurs de la transformation, avec l’appui d’acteurs publics de l’innovation sociale.
+<br> Une première promotion d’agents de la ville issus de 6 directions différentes a été formée
+<br> Prochaine étape : Déployer à une échelle nationale.
 
 
 L’enjeu autour de ces projets est désormais de capitaliser sur les produits et services qui ont émergé et prouvé leur efficacité, de les pérenniser, et de les répliquer afin d’en faire profiter d’autres collectivités, notamment les plus petites qui n’auraient pas eu les moyens de les créer seules.
@@ -88,6 +87,7 @@ La table ronde qui a suivi a été l’occasion pour les participants d’échan
 * La prise en compte de l’interopérabilité des solutions et la promotion des logiciels libres et des solutions open source, afin de concrétiser la réplicabilité des projets. 
 
 Démarches simplifiées, data.gouv.fr, FranceConnect ou les bouquets d’API sont autant d’exemples de succès de produits mutualisés entre État et territoires qui font aujourd’hui partie du quotidien des agents et des citoyens, ce qu’a notamment souligné Stéphanie Schaer (directrice interministérielle du numérique), lors de son intervention. Ces initiatives doivent néanmoins s’accompagner d’un développement des compétences numériques des agents. Stéphanie Schaer a également insisté sur le rôle crucial des données dans la transformation numérique.
+
 
 *« Ouvrir les données et les utiliser, c’est donner le moyen à l’État et aux collectivités territoriales d’être plus efficaces dans leur action et de rendre plus simples les démarches administratives au bénéfice des citoyens, des entreprises comme des agents. »*
 -Stéphanie Schaer, directrice interministérielle du numérique
