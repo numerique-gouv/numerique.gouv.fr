@@ -25,11 +25,11 @@ Partie intégrante du plan FranceRelance, le fonds « Transformation numérique 
 Retour sur 7 projets portés par les lauréats du fonds :
 * #### La salle sur demande 
 Conseil Départemental de l’Isère 
-Montant alloué : 846 984 €
-Accompagné par l'ANCT
-Mettre en relation l’offre et la demande d’utilisation des bâtiments publics et en faciliter les accès, simplifier le processus administratif de conventionnement et de paiement.
-Mise en place d’un service en ligne de réservation des salles du patrimoine public par la société civile. 
-Prochaine étape : Etendre les services à d’autres collectivités.
+* Montant alloué : 846 984 €
+* Accompagné par l'ANCT
+* Mettre en relation l’offre et la demande d’utilisation des bâtiments publics et en faciliter les accès, simplifier le processus administratif de conventionnement et de paiement.
+* Mise en place d’un service en ligne de réservation des salles du patrimoine public par la société civile. 
+* Prochaine étape : Etendre les services à d’autres collectivités.
 
 * #### Signature électronique 
 Gironde Numérique 
