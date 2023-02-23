@@ -24,7 +24,7 @@ Partie intégrante du plan FranceRelance, le fonds « Transformation numérique 
 
 Retour sur 7 projets portés par les lauréats du fonds :
 * #### La salle sur demande 
-<br> Conseil Départemental de l’Isère 
+Conseil Départemental de l’Isère 
 <br> Montant alloué : 846 984 €
 <br> Accompagné par l'ANCT
 <br> Mettre en relation l’offre et la demande d’utilisation des bâtiments publics et en faciliter les accès, simplifier le processus administratif de conventionnement et de paiement.
@@ -32,20 +32,20 @@ Retour sur 7 projets portés par les lauréats du fonds :
 <br> Prochaine étape : Etendre les services à d’autres collectivités.
 
 * #### Signature électronique 
-<br> Gironde Numérique 
+Gironde Numérique 
 <br> Montant alloué : 241 484 € 
 <br> Accompagné par l'ANCT
 <br> Développer un outil permettant aux citoyens de signer électroniquement un certain nombre de documents avec des personnes à distance.
 
 * #### « Alerte SMS » et « Multicanal »
-<br> Gironde Numérique 
+Gironde Numérique 
 <br> Montant alloué : 204 984 €
 <br> Accompagné par l'ANCT
 <br> Développer un outil permettant à une commune de communiquer avec ses administrés le plus simplement.
 <br> Le projet a d’abord pris la forme d’alertes SMS avant de devenir un outil de communication multicanal.
 
 * #### Collec-data 
-<br> Syndicat Mixte Mégalis Bretagne 
+Syndicat Mixte Mégalis Bretagne 
 <br> Montant alloué : 281 777 € 
 <br> Accompagné par la DINUM 
 <br> Accompagner les collectivités bretonnes à un passage à l’échelle dans l’open data.
@@ -53,13 +53,13 @@ Retour sur 7 projets portés par les lauréats du fonds :
 <br> Prochaines étapes : Massifier la publication des données et systématiser la valorisation.
  
 * #### Dématérialisation du parcours des bénéficiaires du RSA »
-<br> Conseil Départemental de l’Ardèche 
+Conseil Départemental de l’Ardèche 
 <br> Montant alloué : 63 500 € 
 <br> Accompagné par la DINUM
 <br> Permettre aux "référents insertion" de visualiser les données des bénéficiaires, de partager des informations entre services et plus globalement de suivre les parcours sociaux.
 
 * #### Mairie de Loos-en-Gohelle – Financement des fonds France Relance de 20.000€
-<br> Mairie de Loos-en-Gohelle (Pas-de-Calais) 
+Mairie de Loos-en-Gohelle (Pas-de-Calais) 
 <br> Montant alloué : 20 000 € 
 <br> Accompagné par la DITP 
 <br> Créer de nouveaux services et améliorer l’ergonomie de travail des agents au bénéfice des administrés. 
@@ -67,7 +67,7 @@ Retour sur 7 projets portés par les lauréats du fonds :
 <br> Prochaines étapes : Enrichir le portail de relations avec les usagers et le portail famille de nouvelles démarches et fonctionnalités et installer de nouvelles bornes.
 
 * #### L'école des transformateurs publics
-##### Ville de Marseille 
+Ville de Marseille 
 <br> Montant alloué : 50 000 € 
 <br> Accompagné par la DITP 
 <br> Expérimenter une Ecole des transformateurs publics pour contribuer à former une première promotion d’ambassadeurs de la transformation, avec l’appui d’acteurs publics de l’innovation sociale.
