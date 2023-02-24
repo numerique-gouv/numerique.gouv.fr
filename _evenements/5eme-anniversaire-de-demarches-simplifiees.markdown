@@ -1,6 +1,7 @@
 ---
 title: 5ème anniversaire de Démarches simplifiées
 date: 2023-02-24 10:59:00 +01:00
+published: false
 categories:
 - Micro-conférences et ateliers
 tags:
@@ -15,7 +16,7 @@ lieu: Le lieu de la DITP
 adresse: 77 avenue de Ségur, 75015 Paris
 champs_informations:
 - intitule: Inscription gratuite obligatoire
-  lien: https://www.demarches-simplifiees.fr/commencer/5-ans-demarches-simplifiees-fr-13-mars-2023?utm_source=sendinblue&utm_campaign=Info-lettre%20Spciale%20%205me%20anniversaire%20Dmarches%20simplifies%20le%2013%20mars%202023%2077%20avenue%20de%20Sgur&utm_medium=email
+  lien: https://www.demarches-simplifiees.fr/commencer/5-ans-demarches-simplifiees-fr-13-mars-2023
 ---
 
 1er mars 2018 ... 1er mars 2023
@@ -53,7 +54,7 @@ Mais aussi,
 * #### De 13h50 à 14h50 : Table ronde 3
 *Faciliter la mise en œuvre des politiques prioritaires avec DS - Retours d’expérience (DGALN-Fonds Vert, Pass-culture, Mesures sanitaires, SGPI...)*
 
-* ### De 15h à 16h : Table ronde 4
+* #### De 15h à 16h : Table ronde 4
 *Comment transformer la relation usager/agent et agir sur l'organisation des services par la dématérialisation des procédures avec DS?*
 
 * #### Atelier 3
