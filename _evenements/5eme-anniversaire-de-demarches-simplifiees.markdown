@@ -1,7 +1,6 @@
 ---
 title: 5ème anniversaire de Démarches simplifiées
 date: 2023-02-24 10:59:00 +01:00
-published: false
 categories:
 - Micro-conférences et ateliers
 tags:
@@ -70,5 +69,7 @@ Le Souhaitier, l'arbre à "souhaits"
 
 <br>
 Merci de bien vouloir confirmer votre présence à l'évènement en remplissant la présente invitation.
+
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.demarches-simplifiees.fr/commencer/5-ans-demarches-simplifiees-fr-13-mars-2023" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
 
 Le programme complet de la journée sera envoyée aux personnes inscrites et vous serez invité à compléter votre demande en choisissant parmi les moments ceux qui vous intéressent.
