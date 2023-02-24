@@ -23,58 +23,51 @@ champs_informations:
 Le 13 mars, on fêtera les 5 ans de "demarches-simplifiees.fr"!
  
 Mais aussi,
- 
 <br> 10 000 000 de dossiers créés
 <br> 6 000 000 de comptes usagers
 <br> 16 000 démarches en ligne
 <br> 80 000 agents impliqués
 
 
-## Au programme :
-* ### 9h : Accueil des participants
+### Au programme :
+* #### 9h : Accueil des participants
 *Venez quand vous voulez dans la journée pour participer à des ateliers ou des tables rondes !*
 
-* ### 9h30: Introduction de la journée 
+* #### 9h30: Introduction de la journée 
 *par Stéphanie Schaer, Directrice  Interministérielle du Numérique*
 
-* ### De 10h à 10h50 : Table ronde 1
+* #### De 10h à 10h50 : Table ronde 1
 *Quelles contributions de démarches simplifiées à la dématérialisation des procédures administratives ? Quel bilan, quelles perspectives ?*
 
-* ### De 11h à 11h50 : Table ronde 2
+* #### De 11h à 11h50 : Table ronde 2
 *Diffuser une culture de la démat dans son administration - bonnes pratiques nationales et territoriales (Min culture, Min education nationale, Min-agriculture, Sgar, Lab d'innovation...)*
 
-* ### En parallèle : Atelier 1
+* #### Atelier 1
 *Interfacer DS avec des applications métiers, autour de l’API (CD 92, Ministère de l'économie…). Comment s'y prendre ?*
 
-* ### En parallèle : Atelier 2
+* #### Atelier 2
 *Des démarches de qualité : comment faire un formulaire accessible, lisible, compris de tous ?*
 
-* ### En parallèle : Atelier 3
-*Posez vos questions à l'équipe*
+* #### 12h à 13h45 : Pause déjeuner
 
-* ### 12h à 13h45 : Pause déjeuner
-
-* ### De 13h50 à 14h50 : Table ronde 3
+* #### De 13h50 à 14h50 : Table ronde 3
 *Faciliter la mise en œuvre des politiques prioritaires avec DS - Retours d’expérience (DGALN-Fonds Vert, Pass-culture, Mesures sanitaires, SGPI...)*
 
 * ### De 15h à 16h : Table ronde 4
 *Comment transformer la relation usager/agent et agir sur l'organisation des services par la dématérialisation des procédures avec DS?*
 
-* ### En parallèle : Atelier 4
+* #### Atelier 3
 *Optimisation des processus financiers avec le RPA et les API (avec les participations de l'AIFE, Sgar Occitanie, Sgar Bretagne…)*
 
-* ### En parallèle : Atelier 5
+* #### Atelier 4
 *Comment prendre en compte les cadres et les obligations lors de la création d’une démarche : présentation du guide à la création des démarches*
 
-* ### En parallèle : Atelier 6
-*Posez vos questions à l'équipe*
-
-* ### De 16h à 16h30 : Palabre autour du "SOUHAITIER"
+* #### De 16h à 16h30 : Palabre autour du "SOUHAITIER"
 Le Souhaitier, l'arbre à "souhaits" 
-<br> Construisons ensemble les démarches simplifiées de demain
+<br> **Construisons ensemble les démarches simplifiées de demain**
 <br> *Vous pouvez passer sur toute la journée pour venir déposer votre souhait sur "le souhaitier", l'arbre à souhaits démarches-simplifiées !* 
 
-
+<br>
 Merci de bien vouloir confirmer votre présence à l'évènement en remplissant la présente invitation.
 
 Le programme complet de la journée sera envoyée aux personnes inscrites et vous serez invité à compléter votre demande en choisissant parmi les moments ceux qui vous intéressent.
