@@ -18,7 +18,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 9h30-17h
 - intitule: Accès
-  contenu: Métros 6 (Cambronne), 8 (Ecole Militaire) et 10 (Ségur)
+  contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur
 - intitule: Gratuit
   contenu: Inscription obligatoire
   lien: https://www.demarches-simplifiees.fr/commencer/5-ans-demarches-simplifiees-fr-13-mars-2023
