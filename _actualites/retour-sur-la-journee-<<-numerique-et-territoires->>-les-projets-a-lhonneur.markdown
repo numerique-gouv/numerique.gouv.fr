@@ -114,5 +114,3 @@ Ces groupes projets ont pour objectif de :
 * Poursuivre des travaux pour accompagner l’exploitation de la donnée et la cybersécurité des collectivités territoriales
 
 > Pour suivre les travaux du programme TNT, rendez-vous sur notre espace dédié.
-
-![2023-01-18_TR_journee_numerique_et_territoires_def.jpg](/uploads/2023-01-18_TR_journee_numerique_et_territoires_def.jpg)
