@@ -22,7 +22,7 @@ La journée « Numérique et Territoires » avait notamment pour objectif de fai
 Partie intégrante du plan FranceRelance, le fonds « Transformation numérique des collectivités » a mobilisé 90 millions d’euros sur deux ans, ce qui a permis à plus de 3200 collectivités de toutes tailles de bénéficier d’un accompagnement humain et financier dans leurs projets de transformation numérique. La première édition de la journée « Numérique et Territoires » était l’occasion de pérenniser le dialogue avec les collectivités territoriales et de partager le bilan de ce fonds avec l’ensemble des parties prenantes. L’événement a rassemblé plus de 350 participants des différentes parties prenantes : agents publics, élus, représentants d’associations de collectivités, administrations porteuses de fonds – DINUM, ANCT via l’Incubateur des Territoires, DITP et l’agence nationale de la sécurité des systèmes d’information (ANSSI) pour le volet cybersécurité. 
 
 
-## Des projets ambitieux, aux résultats concrets
+###  Des projets ambitieux, aux résultats concrets
 #### Retour sur 7 projets portés par les lauréats du fonds :
 * #### La salle sur demande 
 **Conseil Départemental de l’Isère** 
