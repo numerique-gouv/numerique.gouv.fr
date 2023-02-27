@@ -1,32 +1,32 @@
 ---
 title: Retour sur la journée « Numérique et Territoires », les projets à l’honneur
 date: 2023-02-22 17:09:00 +01:00
-published: false
 categories:
 - Article
 tags:
 - Evènement
 - Territorial
 - Numérique
+chapeau-text: Le 18 janvier dernier, la direction interministérielle du numérique
+  (DINUM), en partenariat avec l’agence nationale de la cohésion des territoires (ANCT)
+  et la direction interministérielle de la transformation publique (DITP) ont organisé
+  à Paris la journée « Numérique et Territoires »
 une-ou-diaporama:
 - image: "/uploads/2023_01_05_JNT_AGENDA-509de5.jpg"
 ---
 
-Le 18 janvier dernier, la direction interministérielle du numérique (DINUM), en partenariat avec l’agence nationale de la cohésion des territoires (ANCT) et la direction interministérielle de la transformation publique (DITP) ont organisé à Paris la journée « Numérique et Territoires ». 
-
-Cet évènement avait notamment pour objectif de faire le bilan du fonds « Transformation numérique des collectivités territoriales (ITN7) » du plan FranceRelance , de mettre en avant les projets ainsi financés et accompagnés, en donnant la parole à un panel de lauréats du fonds et, plus globalement, d’échanger sur les grands enjeux de la transformation numérique des territoires. 
+La journée « Numérique et Territoires » avait notamment pour objectif de faire le bilan du fonds « Transformation numérique des collectivités territoriales (ITN7) » du plan FranceRelance, de mettre en avant les projets ainsi financés et accompagnés, en donnant la parole à un panel de lauréats du fonds et, plus globalement, d’échanger sur les grands enjeux de la transformation numérique des territoires. 
 
 ### 90 millions d’euros pour la transformation numérique des territoires
 
 Partie intégrante du plan FranceRelance, le fonds « Transformation numérique des collectivités » a mobilisé 90 millions d’euros sur deux ans, ce qui a permis à plus de 3200 collectivités de toutes tailles de bénéficier d’un accompagnement humain et financier dans leurs projets de transformation numérique. La première édition de la journée « Numérique et Territoires » était l’occasion de pérenniser le dialogue avec les collectivités territoriales et de partager le bilan de ce fonds avec l’ensemble des parties prenantes. L’événement a rassemblé plus de 350 participants des différentes parties prenantes : agents publics, élus, représentants d’associations de collectivités, administrations porteuses de fonds – DINUM, ANCT via l’Incubateur des Territoires, DITP et l’agence nationale de la sécurité des systèmes d’information (ANSSI) pour le volet cybersécurité. 
 
 
-### Des projets ambitieux, aux résultats concrets
-
-Retour sur 7 projets portés par les lauréats du fonds :
+## Des projets ambitieux, aux résultats concrets
+### Retour sur 7 projets portés par les lauréats du fonds :
 * #### La salle sur demande 
 Conseil Départemental de l’Isère 
-<br> Montant alloué : 846 984 €
+<br> **Montant alloué** : 846 984 €
 <br> Accompagné par l'ANCT
 <br> Mettre en relation l’offre et la demande d’utilisation des bâtiments publics et en faciliter les accès, simplifier le processus administratif de conventionnement et de paiement.
 <br> Mise en place d’un service en ligne de réservation des salles du patrimoine public par la société civile. 
