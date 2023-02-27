@@ -32,49 +32,47 @@ Partie intégrante du plan FranceRelance, le fonds « Transformation numérique 
 <br> **Prochaine étape :** Etendre les services à d’autres collectivités.
 
 * #### Signature électronique 
-Gironde Numérique 
-<br> Montant alloué : 241 484 € 
+**Gironde Numérique**
+<br> **Montant alloué :** 241 484 € 
 <br> Accompagné par l'ANCT
 <br> Développer un outil permettant aux citoyens de signer électroniquement un certain nombre de documents avec des personnes à distance.
 
 * #### « Alerte SMS » et « Multicanal »
-Gironde Numérique 
-<br> Montant alloué : 204 984 €
+**Gironde Numérique** 
+<br> **Montant alloué :** 204 984 €
 <br> Accompagné par l'ANCT
-<br> Développer un outil permettant à une commune de communiquer avec ses administrés le plus simplement.
-<br> Le projet a d’abord pris la forme d’alertes SMS avant de devenir un outil de communication multicanal.
+<br> Développer un outil permettant à une commune de communiquer avec ses administrés le plus simplement. Le projet a d’abord pris la forme d’alertes SMS avant de devenir un outil de communication multicanal.
 
 * #### Collec-data 
-Syndicat Mixte Mégalis Bretagne 
-<br> Montant alloué : 281 777 € 
+**Syndicat Mixte Mégalis Bretagne** 
+<br> **Montant alloué :** 281 777 € 
 <br> Accompagné par la DINUM 
 <br> Accompagner les collectivités bretonnes à un passage à l’échelle dans l’open data.
 <br> La plateforme Collec-data permet aujourd’hui à plus de 1600 collectivités de publier automatiquement leurs données.
-<br> Prochaines étapes : Massifier la publication des données et systématiser la valorisation.
+<br> **Prochaines étapes :** Massifier la publication des données et systématiser la valorisation.
  
 * #### Dématérialisation du parcours des bénéficiaires du RSA »
-Conseil Départemental de l’Ardèche 
-<br> Montant alloué : 63 500 € 
+**Conseil Départemental de l’Ardèche** 
+<br> **Montant alloué :** 63 500 € 
 <br> Accompagné par la DINUM
 <br> Permettre aux "référents insertion" de visualiser les données des bénéficiaires, de partager des informations entre services et plus globalement de suivre les parcours sociaux.
 
 * #### Mairie de Loos-en-Gohelle – Financement des fonds France Relance de 20.000€
-Mairie de Loos-en-Gohelle (Pas-de-Calais) 
-<br> Montant alloué : 20 000 € 
+**Mairie de Loos-en-Gohelle** (Pas-de-Calais) 
+<br> **Montant alloué :** 20 000 € 
 <br> Accompagné par la DITP 
 <br> Créer de nouveaux services et améliorer l’ergonomie de travail des agents au bénéfice des administrés. 
 <br> 7 nouvelles démarches en ligne sont disponibles sur le portail de relation Mairie-usagers et de nouvelles démarches familiales comme l’inscription et le paiement de la cantine scolaires sont disponibles sur le portail Famille. 3 bornes numériques d’accès à des services dématérialisés (portails de la Ville, CAF, Pôle Emploi, etc.) sont en cours de mise en place. 
-<br> Prochaines étapes : Enrichir le portail de relations avec les usagers et le portail famille de nouvelles démarches et fonctionnalités et installer de nouvelles bornes.
+<br> **Prochaines étapes :** Enrichir le portail de relations avec les usagers et le portail famille de nouvelles démarches et fonctionnalités et installer de nouvelles bornes.
 
 * #### L'école des transformateurs publics
-Ville de Marseille 
-<br> Montant alloué : 50 000 € 
+**Ville de Marseille** 
+<br> **Montant alloué :** 50 000 € 
 <br> Accompagné par la DITP 
-<br> Expérimenter une Ecole des transformateurs publics pour contribuer à former une première promotion d’ambassadeurs de la transformation, avec l’appui d’acteurs publics de l’innovation sociale.
-<br> Une première promotion d’agents de la ville issus de 6 directions différentes a été formée
-<br> Prochaine étape : Déployer à une échelle nationale.
+<br> Expérimenter une Ecole des transformateurs publics pour contribuer à former une première promotion d’ambassadeurs de la transformation, avec l’appui d’acteurs publics de l’innovation sociale. Une première promotion d’agents de la ville issus de 6 directions différentes a été formée.
+<br> **Prochaine étape :** Déployer à une échelle nationale.
 
-
+<br>
 L’enjeu autour de ces projets est désormais de capitaliser sur les produits et services qui ont émergé et prouvé leur efficacité, de les pérenniser, et de les répliquer afin d’en faire profiter d’autres collectivités, notamment les plus petites qui n’auraient pas eu les moyens de les créer seules.
 
 En fin de journée, les lauréats mais aussi l’ensemble des agents et élus des collectivités territoriales ont échangé lors d’un forum dédié autour de stands thématiques représentant les principales missions, outils et initiatives portés par la DINUM, l’ANCT et la DITP (BetaGouv, Démarches Simplifiées, Dites-le nous une fois, …).
