@@ -1,7 +1,6 @@
 ---
 title: Retour sur la journée « Numérique et Territoires », les projets à l’honneur
 date: 2023-02-22 17:09:00 +01:00
-published: false
 categories:
 - Article
 tags:
@@ -17,6 +16,8 @@ une-ou-diaporama:
 ---
 
 La journée « Numérique et Territoires » avait notamment pour objectif de faire le bilan du fonds « Transformation numérique des collectivités territoriales (ITN7) » du plan FranceRelance, de mettre en avant les projets ainsi financés et accompagnés, en donnant la parole à un panel de lauréats du fonds et, plus globalement, d’échanger sur les grands enjeux de la transformation numérique des territoires. 
+
+![intervention-MTFP_5.jpeg](/uploads/intervention-MTFP_5.jpeg)
 
 ### 90 millions d’euros pour la transformation numérique des territoires
 
@@ -76,6 +77,8 @@ Partie intégrante du plan FranceRelance, le fonds « Transformation numérique 
 <br>
 L’enjeu autour de ces projets est désormais de capitaliser sur les produits et services qui ont émergé et prouvé leur efficacité, de les pérenniser, et de les répliquer afin d’en faire profiter d’autres collectivités, notamment les plus petites qui n’auraient pas eu les moyens de les créer seules.
 
+![JNT - 3.jpeg](/uploads/JNT%20-%203.jpeg)
+
 En fin de journée, les lauréats mais aussi l’ensemble des agents et élus des collectivités territoriales ont échangé lors d’un forum dédié autour de stands thématiques représentant les principales missions, outils et initiatives portés par la DINUM, l’ANCT et la DITP (BetaGouv, Démarches Simplifiées, Dites-le nous une fois, …).
 
 
@@ -85,8 +88,11 @@ La table ronde qui a suivi a été l’occasion pour les participants d’échan
 * La mutualisation des produits et des services numériques entre acteurs publics pour accélérer et pérenniser les projets. 
 * La prise en compte de l’interopérabilité des solutions et la promotion des logiciels libres et des solutions open source, afin de concrétiser la réplicabilité des projets. 
 
+![JNT - 4.jpeg](/uploads/JNT%20-%204.jpeg)
+
 Démarches simplifiées, data.gouv.fr, FranceConnect ou les bouquets d’API sont autant d’exemples de succès de produits mutualisés entre État et territoires qui font aujourd’hui partie du quotidien des agents et des citoyens, ce qu’a notamment souligné Stéphanie Schaer (directrice interministérielle du numérique), lors de son intervention. Ces initiatives doivent néanmoins s’accompagner d’un développement des compétences numériques des agents. Stéphanie Schaer a également insisté sur le rôle crucial des données dans la transformation numérique.
 
+![JNT - 1-16e5ea.jpeg](/uploads/JNT%20-%201-16e5ea.jpeg)
 
 > ##### *« Ouvrir les données et les utiliser, c’est donner le moyen à l’État et aux collectivités territoriales d’être plus efficaces dans leur action et de rendre plus simples les démarches administratives au bénéfice des citoyens, des entreprises comme des agents. »* -Stéphanie Schaer, directrice interministérielle du numérique
 
@@ -109,4 +115,4 @@ Ces groupes projets ont pour objectif de :
 
 > Pour suivre les travaux du programme TNT, rendez-vous sur notre espace dédié.
 
-
+![2023-01-18_TR_journee_numerique_et_territoires_def.jpg](/uploads/2023-01-18_TR_journee_numerique_et_territoires_def.jpg)
