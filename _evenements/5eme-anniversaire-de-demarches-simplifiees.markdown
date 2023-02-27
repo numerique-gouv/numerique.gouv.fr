@@ -23,15 +23,19 @@ champs_informations:
   lien: https://www.demarches-simplifiees.fr/commencer/5-ans-demarches-simplifiees-fr-13-mars-2023
 ---
 
-1er mars 2018 ... 1er mars 2023
+**1er mars 2018 … 1er mars 2023**
+
+Il y a 5 ans, le 1 mars 2018, le gouvernement lançait "le kit de dématérialisation" pour les services publics, en application d'une décision du Comité Interministériel de la Transformation Publique du 1er février 2018.
+
+Les résultats 5 ans plus tard sont conformes aux objectifs qui avaient été fixés.
  
-Le 13 mars, on fêtera les 5 ans de "demarches-simplifiees.fr"!
+**Alors ce 13 mars, on fêtera les 5 ans de "demarches-simplifiees.fr" !**
  
 Mais aussi,
-<br> 10 000 000 de dossiers créés
-<br> 6 000 000 de comptes usagers
-<br> 16 000 démarches en ligne
-<br> 80 000 agents impliqués
+<br> **10 000 000** dossiers créés
+<br> **6 000 000** comptes usagers
+<br> **16 000** démarches en ligne
+<br> **80 000** agents impliqués
 
 
 ### Au programme :
