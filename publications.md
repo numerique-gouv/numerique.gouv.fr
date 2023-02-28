@@ -71,6 +71,10 @@ publications:
   url: 
   une-ou-diaporama:
   - image: "/uploads/ILLUSTRATIONS_DINUM%20_Campus%20du%20Nume%CC%81rique-08.png"
+- title: Guichet numérique écoresponsable
+  url: 
+  une-ou-diaporama:
+  - image: "/uploads/MINUMECO_GUICHET_FTAP_740X500_V1.png"
 layout: publications
 ---
 
