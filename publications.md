@@ -59,22 +59,6 @@ publications:
   url: "/publications/interoperabilite"
   une-ou-diaporama:
   - image: "/uploads/Publications_rubrique_1188x802_Interoperabilite.jpg"
-- title: Guichet de financement  cloud
-  url: 
-  une-ou-diaporama:
-  - image: "/uploads/ILLUSTRATIONS_DINUM%20_cloud%20computing%20-05.png"
-- title: Guichet de financement Design
-  url: 
-  une-ou-diaporama:
-  - image: "/uploads/ILLUSTRATIONS_DINUM%20_Design%20et%20accessibilite%CC%81-02.png"
-- title: Guichet de financement campus
-  url: 
-  une-ou-diaporama:
-  - image: "/uploads/ILLUSTRATIONS_DINUM%20_Campus%20du%20Nume%CC%81rique-08.png"
-- title: Guichet numérique écoresponsable
-  url: 
-  une-ou-diaporama:
-  - image: "/uploads/MINUMECO_GUICHET_FTAP_740X500_V1.png"
 layout: publications
 ---
 
