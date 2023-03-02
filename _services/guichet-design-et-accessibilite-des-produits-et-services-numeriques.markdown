@@ -65,7 +65,7 @@ Ce guichet accepte des projets qui ont pour mission d'améliorer la qualité de 
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
 L'ensemble des projets doivent générer des économies budgétaires et montrer l'amélioration (mesure avant/après) d’au moins un des indicateurs de performance :
-<ul> <li><strong>Indice de satisfaction</strong> utilisateur (mesurée avec le bouton <i>JeDonneMonAvis</i> pour les services aux usagers ;</li> <li><strong>Taux de conformité</strong> au référentiel général d’amélioration de l’accessibilité (RGAA) ;</li> <li><strong>Taux de recours</strong> à la voie numérique (vs. la voie papier) pour une démarche administrative&nbsp;.</li></ul></li>  </ul>
+<ul> <li><strong>Indice de satisfaction</strong> utilisateur (mesurée avec le bouton <i>JeDonneMonAvis</i> pour les services aux usagers ;</li> <li><strong>Taux de conformité</strong> au référentiel général d’amélioration de l’accessibilité (RGAA) ;</li> <li><strong>Taux de recours</strong> à la voie numérique (vs. la voie papier) pour une démarche administrative&nbsp;.</li></ul>
 
 **Taille attendue des projets :**
 Entre 25 000 € et 100 000€ TTC
@@ -73,7 +73,7 @@ Entre 25 000 € et 100 000€ TTC
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
 Les projets lauréats bénéficieront :
-<ul> <li>D’<strong>un cofinancement</strong> jusqu’à 50% du coût total du projet, les 50% restant à la charge de l’administration porteuse du projet.</li> <li>Ne sont comptabilisés dans le coût total du projet que les coûts de développement spécifiques à l’<strong>accessibilité</strong> ou à l’<strong>amélioration de l’expérience utilisateur</strong>, les coûts de recherche utilisateur.</li> <li>d’<strong>un accompagnement</strong> de la part de la DINUM, lorsque nécessaire&nbsp;.</li></ul></li>  </ul>
+<ul> <li>D’<strong>un cofinancement</strong> jusqu’à 50% du coût total du projet, les 50% restant à la charge de l’administration porteuse du projet.</li> <li>Ne sont comptabilisés dans le coût total du projet que les coûts de développement spécifiques à l’<strong>accessibilité</strong> ou à l’<strong>amélioration de l’expérience utilisateur</strong>, les coûts de recherche utilisateur.</li> <li>d’<strong>un accompagnement</strong> de la part de la DINUM, lorsque nécessaire&nbsp;.</li></ul>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
 Plusieurs critères de sélection sont pris en compte : 
@@ -99,7 +99,7 @@ Plusieurs critères de sélection sont pris en compte :
     <button onclick="myFunction('criteres-selection')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour les projets</button>
     <div class="accordion-content" id="criteres-selection">
       <h2>Les critères de sélection des projets sont les suivants&nbsp;?</h2>
-        <li>1. Importance de la démarche pour les citoyens, entreprises et agents (volumétrie d’usage, etc.) ;</li>
+        <ul><li>1. Importance de la démarche pour les citoyens, entreprises et agents (volumétrie d’usage, etc.) ;</li>
         <li>2. Existence de marges d’améliorations (documentées et étudiées à l’aune des retours des usagers) de la qualité de la démarche ou du service ;</li>
         <li>3. Gouvernance et organisation de l’équipe (modalités de priorisation des travaux, façon dont les experts UX/ recherche utilisateur/ accessibilité sont intégrés à l’équipe projet et aux processus de décision) ;</li>
         <li>4.	Economies budgétaires attendues (via par exemple la baisse des coûts d’assistance aux usagers, la baisse des coûts liée à une plus grande part de dossiers reçus par voie numérique, économies de temps de traitement par des agents) ; </li>
