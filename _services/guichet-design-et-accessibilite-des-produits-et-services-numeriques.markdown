@@ -4,6 +4,7 @@ date: 2023-03-02 15:33:00 +01:00
 chapeau-text: Vous êtes une administration ou un opérateur de l'État et vous souhaitez
   améliorer l’expérience utilisateur et l’accessibilité aux personnes handicapées
   d’un de vos services ou produits numériques ?
+layout: rgaa
 ---
 
 La qualité de la relation entre les citoyens et l’administration passe par un accès à des services publics numériques simples, accessibles et humains.
