@@ -79,7 +79,7 @@ La plateforme de formation choisie pour héberger le volet dématérialisé des 
   </div>
 
 h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
-<ul> <li><strong>Nombre d’agents ciblés, puis effectivement touchés</strong> par les formations ou dispositifs apprenants,  par profil  ;</li> <li>Pour les projets de création/adaptation de contenus de formation : <strong>taux de satisfaction des agents formés</strong< ;</li> <li>Les <strong>économies budgétaires réalisées</strong>&nbsp;.</li></ul>
+<ul> <li><strong>Nombre d’agents ciblés, puis effectivement touchés</strong> par les formations ou dispositifs apprenants,  par profil  ;</li> <li>Pour les projets de création/adaptation de contenus de formation : <strong>taux de satisfaction des agents formés</strong> ;</li> <li>Les <strong>économies budgétaires réalisées</strong>&nbsp;.</li></ul>
 
 **Taille attendue des projets :**
 Entre Entre 20 000 € et 300 000€
