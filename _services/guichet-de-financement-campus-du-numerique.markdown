@@ -1,6 +1,7 @@
 ---
 title: 'Guichet de financement : Campus du Numérique'
 date: 2023-03-03 11:53:00 +01:00
+published: false
 chapeau-text: 'Ce guichet thématique, dédié à la montée en compétence numérique des
   agents de l’Etat, vise le développement et l’expérimentation de dispositifs apprenants
   en vue de leur déploiement en interministériel via l’offre « Campus du Numérique
