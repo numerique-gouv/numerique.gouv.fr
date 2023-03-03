@@ -60,9 +60,11 @@ La plateforme de formation choisie pour héberger le volet dématérialisé des 
 <p>Les projets devront respecter plusieurs principes de qualité : les contenus crées dans le cadre des projets devront être :</p>
 <ul><li>réutilisables et modifiables (licences ouvertes)</li>
 <li>Accessibles aux personnes en situation de handicap.</li>
+
 <p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
-<p>La DINUM pourra également soumettre des projets dans le cadre de ce guichet.</p>
- </div>
+<p>La DINUM pourra également soumettre des projets dans le cadre de ce guichet.
+      </p>
+    </div>
   </div>
   <div class="accordion-item">
     <button onclick="myFunction('projets-non-finançables')" id="accordion-button" class="accordion-title" aria-controls="projets-non-finançables" aria-expanded="false">Détails des projets non finançables</button>
@@ -72,9 +74,9 @@ La plateforme de formation choisie pour héberger le volet dématérialisé des 
         <li>Les formations à des outils numériques spécifiques à un petit nombre de ministères ;</li>
         <li>Les formations à des outils numériques alternatifs aux offres interministérielles promues par la DINUM.</li>
       </ul>
-</div>
-</div>
-</div>
+    </div>
+  </div>
+  </div>
 
 h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
 <ul> <li><strong>Nombre d’agents ciblés, puis effectivement touchés</strong> par les formations ou dispositifs apprenants,  par profil  ;</li> <li>Pour les projets de création/adaptation de contenus de formation : <strong>taux de satisfaction des agents formés</strong< ;</li> <li>Les <strong>économies budgétaires réalisées</strong>&nbsp;.</li></ul>
