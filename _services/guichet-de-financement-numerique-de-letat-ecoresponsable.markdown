@@ -11,6 +11,11 @@ Le numérique écoresponsable est une démarche d’amélioration continue qui v
 
 Les [nombreuses ressources publiées par la MiNumEco](https://ecoresponsable.numerique.gouv.fr/publications/) permettent désormais de passer à l’échelle et d’avoir le plus d’impact (guide des bonnes pratiques, référentiel d’écoconception – RGESN, etc.).
 
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
+Le présent guichet thématique est dédié à stimuler le lancement des projets numériques écoresponsables dans les ministères prenant en compte les grands enjeux autour de ce sujet stratégique qui s’inscrit au cœur de la mise en œuvre des politiques publiques.
+<br>
+<br>
+
 **Détails des projets attendus :**
 
 <script>
@@ -34,7 +39,6 @@ Les [nombreuses ressources publiées par la MiNumEco](https://ecoresponsable.num
     <button onclick="myFunction('projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails des projets acceptés</button>
     <div class="accordion-content" id="projets-proactive">
 
-      <p>Le présent guichet thématique est dédié à stimuler le lancement des projets numériques écoresponsables dans les ministères prenant en compte les grands enjeux autour de ce sujet stratégique qui s’inscrit au cœur de la mise en œuvre des politiques publiques.</p>
 <p>Ces projets permettront de mettre en avant l’exemplarité du service public sur ces thématiques, en répondant à la commande politique, qui est de faire converger transition numérique et transition écologique. Depuis 2020, le cadre réglementaire a évolué grâce notamment aux lois AGEC (2020 Anti-gaspillage et pour l’économie circulaire), Climat et résilience (2021) et REEN (2021 Réduction de l’empreinte environnementale du numérique). De plus, la circulaire du Premier Ministre publiée en février 2020 vise à mettre en œuvre des services publics écoresponsables. Enfin, en février 2021, le gouvernement proposait aussi une feuille de route interministérielle « Numérique et environnement ». Depuis août 2022, s’est installé le Secrétariat Général à la Planification Ecologique (SGPE) et le « numérique écoresponsable » est un des 22 chantiers prioritaires.</p>
 <p><strong>Le guichet permettra notamment à l’administration de s’engager durablement sur cette voie en les aidants à passer le cap très concrètement.</strong></p>
 <p>Les projets des ministères soumis à ce guichet devront permettre :</p>
