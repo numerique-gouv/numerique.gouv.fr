@@ -1,6 +1,7 @@
 ---
 title: 'Guichet de financement : Numérique de l’État écoresponsable'
 date: 2023-02-28 15:12:00 +01:00
+published: false
 chapeau-text: À l’heure où les pratiques numériques s’incarnent dans le quotidien
   de milliards d’individus, la recherche d’un numérique plus responsable doit devenir
   un axe structurant de la transition écologique et solidaire.
