@@ -107,7 +107,7 @@ Plusieurs critères de sélection sont pris en compte :
         <li>3. Gouvernance et organisation de l’équipe (modalités de priorisation des travaux, façon dont les experts UX/ recherche utilisateur/ accessibilité sont intégrés à l’équipe projet et aux processus de décision) ;</li>
         <li>4.	Economies budgétaires attendues (via par exemple la baisse des coûts d’assistance aux usagers, la baisse des coûts liée à une plus grande part de dossiers reçus par voie numérique, économies de temps de traitement par des agents) ; </li>
         <li>5.	Mise en place de recherche usager régulière (entretiens individuels téléphoniques ou présentiels, tests d’utilisabilité individuels en ligne ou en présentiel) ;</li>
-<li>6.	Agilité de la démarche, premiers objectifs visés dans des délais courts (< 6 mois) ; </li>
+<li>6.	Agilité de la démarche, premiers objectifs visés dans des délais courts (< 6 mois). </li>
       </ul>
     </div>
   </div>
