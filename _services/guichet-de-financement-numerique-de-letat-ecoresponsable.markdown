@@ -15,7 +15,6 @@ Les [nombreuses ressources publiées par la MiNumEco](https://ecoresponsable.num
 Le présent guichet thématique est dédié à stimuler le lancement des projets numériques écoresponsables dans les ministères prenant en compte les grands enjeux autour de ce sujet stratégique qui s’inscrit au cœur de la mise en œuvre des politiques publiques.
 <p>Ces projets permettront de mettre en avant l’exemplarité du service public sur ces thématiques, en répondant à la commande politique, qui est de faire converger transition numérique et transition écologique. Depuis 2020, le cadre réglementaire a évolué grâce notamment aux lois AGEC (2020 Anti-gaspillage et pour l’économie circulaire), Climat et résilience (2021) et REEN (2021 Réduction de l’empreinte environnementale du numérique). De plus, la circulaire du Premier Ministre publiée en février 2020 vise à mettre en œuvre des services publics écoresponsables. Enfin, en février 2021, le gouvernement proposait aussi une feuille de route interministérielle « Numérique et environnement ». Depuis août 2022, s’est installé le Secrétariat Général à la Planification Ecologique (SGPE) et le « numérique écoresponsable » est un des 22 chantiers prioritaires.</p>
 <br>
-<br>
 
 **Détails des projets attendus :**
 
