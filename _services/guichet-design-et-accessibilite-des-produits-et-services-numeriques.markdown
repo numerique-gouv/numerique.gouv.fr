@@ -5,6 +5,8 @@ published: false
 chapeau-text: Vous êtes une administration ou un opérateur de l'État et vous souhaitez
   améliorer l’expérience utilisateur et l’accessibilité aux personnes handicapées
   d’un de vos services ou produits numériques ?
+une:
+  image: "/uploads/63fe0c3bb6805947e2e7cb5b.png"
 layout: rgaa
 ---
 
