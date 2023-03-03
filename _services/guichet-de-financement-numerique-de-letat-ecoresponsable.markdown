@@ -65,7 +65,7 @@ Entre 50 000 € et  200 000€
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
 Les projets lauréats bénéficieront :
-<ul> <li>D’un<strong>cofinancement</strong> jusqu’à 50% du coût total du projet, les 50% restant à la charge de l’administration porteuse du projet.</li> <li>Le taux de cofinancement effectif fera l’objet d’<strong>échanges</strong> en amont avec la DINUM&nbsp;.</li></ul>
+<ul> <li>D’un <strong>cofinancement</strong> jusqu’à 50% du coût total du projet, les 50% restant à la charge de l’administration porteuse du projet.</li> <li>Le taux de cofinancement effectif fera l’objet d’<strong>échanges</strong> en amont avec la DINUM&nbsp;.</li></ul>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
 Plusieurs critères de sélection sont pris en compte : 
