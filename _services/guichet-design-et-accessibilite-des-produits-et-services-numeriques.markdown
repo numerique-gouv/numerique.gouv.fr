@@ -101,7 +101,7 @@ Plusieurs critères de sélection sont pris en compte :
   <div class="accordion-item">
     <button onclick="myFunction('criteres-selection')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour les projets</button>
     <div class="accordion-content" id="criteres-selection">
-      <h2>Les critères de sélection des projets sont les suivants&nbsp;?</h2>
+      <h2>Les critères de sélection des projets sont les suivants&nbsp;:</h2>
         <ul><li>1. Importance de la démarche pour les citoyens, entreprises et agents (volumétrie d’usage, etc.) ;</li>
         <li>2. Existence de marges d’améliorations (documentées et étudiées à l’aune des retours des usagers) de la qualité de la démarche ou du service ;</li>
         <li>3. Gouvernance et organisation de l’équipe (modalités de priorisation des travaux, façon dont les experts UX/ recherche utilisateur/ accessibilité sont intégrés à l’équipe projet et aux processus de décision) ;</li>
