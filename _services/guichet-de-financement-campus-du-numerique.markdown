@@ -73,7 +73,7 @@ La plateforme de formation choisie pour héberger le volet dématérialisé des 
         <li>Les formations à des outils numériques alternatifs aux offres interministérielles promues par la DINUM.</li>
       </ul>
 </div>
-  </div>
+</div>
 </div>
 
 h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
