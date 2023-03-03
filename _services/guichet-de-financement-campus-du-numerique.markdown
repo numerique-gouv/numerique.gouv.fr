@@ -78,11 +78,11 @@ La plateforme de formation choisie pour héberger le volet dématérialisé des 
   </div>
   </div>
 
-h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
 <ul> <li><strong>Nombre d’agents ciblés, puis effectivement touchés</strong> par les formations ou dispositifs apprenants,  par profil  ;</li> <li>Pour les projets de création/adaptation de contenus de formation : <strong>taux de satisfaction des agents formés</strong> ;</li> <li>Les <strong>économies budgétaires réalisées</strong>&nbsp;.</li></ul>
 
 **Taille attendue des projets :**
-Entre Entre 20 000 € et 300 000€
+Entre 20 000 € et 300 000€
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
@@ -90,7 +90,7 @@ Les projets lauréats bénéficieront :
 <ul> <li>D’un <strong>cofinancement</strong> jusqu’à 50% du coût total du projet, les 50% restant à la charge de l’administration porteuse du projet.</li> <li>Le taux de cofinancement effectif fera l’objet d’<strong>échanges</strong> en amont avec la DINUM&nbsp;.</li></ul>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
-Plusieurs critères de sélection sont pris en compte : 
+<p>Plusieurs critères de sélection sont pris en compte :</p>
 
 <script>
   function myFunction(id) {
