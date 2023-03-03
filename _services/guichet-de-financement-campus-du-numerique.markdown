@@ -5,6 +5,7 @@ chapeau-text: 'Ce guichet thématique, dédié à la montée en compétence num�
   agents de l’Etat, vise le développement et l’expérimentation de dispositifs apprenants
   en vue de leur déploiement en interministériel via l’offre « Campus du Numérique
   » portée par la DINUM. '
+layout: rgaa
 ---
 
 La transformation numérique nécessite que toutes les catégories d’agents de l’État montent en compétence numérique.
