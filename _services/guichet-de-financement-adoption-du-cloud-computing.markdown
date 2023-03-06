@@ -150,6 +150,16 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
 <p>Justification (résultats d’écoute des « clients », expressions de besoins formalisées, engagement d’équipes produits…) que les services sont attendus et seront utilisés  par  un large panel d’équipes/produits utilisatrices, hors du ministère porteur du projet.</p>      
     </div>
   </div>
-
+<div class="accordion-item">
+    <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour tous les projets</button>
+    <div class="accordion-content" id="criteres-pour-tous-projets">
+      <ul>
+        <li><strong>7. Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
+        <li><strong>8. Montée en compétence des agents</strong></li>
+        <li><strong>9. Sobriété numérique</strong></li></ul>
+<p>Impacts du projet sur l’empreinte environnementale : le dossier indiquera le bénéfice estimé lier aux caractéristiques du cloud employé par rapport à une infrastructure conventionnelle, ainsi que les mesures employées destinées à maintenir la consommation de services cloud sous contrôle : tableaux de bord, mode de pilotage, mise en place de bonnes pratiques (élasticité, arrêt des serveurs, etc.).</p>
+    </div>
+  </div>
+  </div>
 
 
