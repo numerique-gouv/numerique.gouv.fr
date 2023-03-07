@@ -203,7 +203,7 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
         <li>Réduction du niveau de risque sur les SI par l’amélioration de la résilience, de la disponibilité des services, la prise en charges des opérations liées au traitement de leur obsolescence ;</li>
         <li>Bénéfice économique à utiliser les services développés.</li></ul>
 <p>La cohérence entre les évolutions proposées et l’état de l’art chez les grands offreurs de Cloud externe sera par ailleurs une clé d’appréciation de la pertinence de ces évolutions.</p>
-<ul><li><strong>6. Justification du « marché » identifié pour les évolutions<strong></li></ul>
+<ul><li><strong>6. Justification du « marché » identifié pour les évolutions</strong></li></ul>
 <p>Justification (résultats d’écoute des « clients », expressions de besoins formalisées, engagement d’équipes produits…) que les services sont attendus et seront utilisés  par  un large panel d’équipes/produits utilisatrices, hors du ministère porteur du projet.</p>
 </div>
 </div>
