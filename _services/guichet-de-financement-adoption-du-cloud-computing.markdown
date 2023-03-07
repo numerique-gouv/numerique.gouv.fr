@@ -239,8 +239,8 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
 
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('criteres-deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les projets incluant un volet « déploiement d’application dans le Cloud »</button>
-    <div class="accordion-content" id="criteres-deploiement-applications-cloud">
+    <button onclick="myFunction('deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les projets incluant un volet « déploiement d’application dans le Cloud »</button>
+    <div class="accordion-content" id="deploiement-applications-cloud">
       <h2>Le dossier doit comporter par application les valeurs actuelles et cibles pour&nbsp;:</h2>
       <ul>
         <li>La fréquence des déploiements en production ;</li>
@@ -257,8 +257,8 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
     </div>
   </div>
 <div class="accordion-item">
-    <button onclick="myFunction('criteres-mise-a-niveau')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Pour les projets incluant un volet de mise à niveau de PI ou Nubo</button>
-    <div class="accordion-content" id="criteres-mise-a-niveau">
+    <button onclick="myFunction('mise-a-niveau')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Pour les projets incluant un volet de mise à niveau de PI ou Nubo</button>
+    <div class="accordion-content" id="mise-a-niveau">
 <p>Le dossier doit présenter des arguments relatifs aux critères de sélection propres à ce volet :</p>
       <ul>
         <li>Qualité de la proposition de valeur pour les clients de l’offre Cloud ;</li>
@@ -269,8 +269,8 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
     </div>
   </div>
 <div class="accordion-item">
-    <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour tous les projets</button>
-    <div class="accordion-content" id="criteres-pour-tous-projets">
+    <button onclick="myFunction('pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour tous les projets</button>
+    <div class="accordion-content" id="pour-tous-projets">
 <p>Le dossier doit également présenter :</p>
       <ul>
         <li>Le nombre d’agents formés et travaillant dans un contexte cloud à l’issue du projet ;</li>
