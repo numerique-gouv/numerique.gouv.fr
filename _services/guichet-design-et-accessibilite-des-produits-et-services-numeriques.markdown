@@ -42,9 +42,9 @@ Le présent guichet thématique est dédié à l’amélioration du design, de l
 
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Exemples d’objectifs et leviers :</button>
+    <button onclick="myFunction('exemples')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Exemples d’objectifs et leviers :</button>
     <div class="accordion-content" id="exemples">
-      <p>Exemples d’objectifs et leviers :</p>
+      <p>Exemples d’objectifs et leviers</p>
       <ul>
         <li>accélération de la numérisation ;</li>
         <li>amélioration de la satisfaction des usagers  ;</li>
