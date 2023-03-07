@@ -14,6 +14,11 @@ La qualité de la relation entre les citoyens et l’administration passe par un
 
 Le présent guichet thématique est dédié à l’amélioration du design, de l’expérience utilisateur des services publics numériques, et de la mise à niveau de leur accessibilité aux personnes en situation de handicap.
 
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Pour qui&nbsp;?</h1>
+Le guichet est ouvert aux :
+* **administrations d’État** ;
+* **opérateurs publics**.
+
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 <p>Ce guichet accepte des projets qui ont pour mission d'améliorer la qualité de services en ligne existants ou en construction.</p>
 
@@ -65,7 +70,7 @@ Le présent guichet thématique est dédié à l’amélioration du design, de l
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
 L'ensemble des projets doivent générer des économies budgétaires et montrer l'amélioration (mesure avant/après) d’au moins un des indicateurs de performance :
-<ul> <li><strong>Indice de satisfaction</strong> utilisateur (mesurée avec le bouton <i>JeDonneMonAvis</i> pour les services aux usagers ;</li> <li><strong>Taux de conformité</strong> au référentiel général d’amélioration de l’accessibilité (RGAA) ;</li> <li><strong>Taux de recours</strong> à la voie numérique (vs. la voie papier) pour une démarche administrative&nbsp;.</li></ul>
+<ul> <li><strong>Indice de satisfaction</strong> utilisateur (mesurée avec le bouton <i>JeDonneMonAvis</i> pour les services aux usagers ;</li> <li><strong>Taux de conformité</strong> au référentiel général d’amélioration de l’accessibilité (RGAA) ;</li> <li><strong>Taux de recours</strong> à la voie numérique (vs. la voie papier) pour une démarche administrative.</li></ul>
 
 **Taille attendue des projets :**
 Entre 25 000 € et 100 000€ TTC
