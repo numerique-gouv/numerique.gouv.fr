@@ -5,7 +5,7 @@ chapeau-text: Vous êtes une administration ou un opérateur de l'État et vous 
   améliorer l’expérience utilisateur et l’accessibilité aux personnes handicapées
   d’un de vos services ou produits numériques ?
 une:
-  image: "/uploads/63fe0c3bb6805947e2e7cb5b.png"
+  image: "/uploads/ILLUSTRATIONS_DINUM%20_Design%20et%20accessibilite%CC%81-01.png"
 layout: rgaa
 ---
 
