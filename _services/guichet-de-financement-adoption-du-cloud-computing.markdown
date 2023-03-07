@@ -205,8 +205,8 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
 <p>La cohérence entre les évolutions proposées et l’état de l’art chez les grands offreurs de Cloud externe sera par ailleurs une clé d’appréciation de la pertinence de ces évolutions.</p>
 <ul><li><strong>6. Justification du « marché » identifié pour les évolutions<strong></li></ul>
 <p>Justification (résultats d’écoute des « clients », expressions de besoins formalisées, engagement d’équipes produits…) que les services sont attendus et seront utilisés  par  un large panel d’équipes/produits utilisatrices, hors du ministère porteur du projet.</p>      
-    </div>
-  </div>
+</div>
+</div>
 <div class="accordion-item">
     <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour tous les projets</button>
     <div class="accordion-content" id="criteres-pour-tous-projets">
