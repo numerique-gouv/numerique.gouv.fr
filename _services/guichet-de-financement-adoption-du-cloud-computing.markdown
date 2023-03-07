@@ -170,11 +170,11 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
     <button onclick="myFunction('criteres-deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour les projets incluant un déploiement d’applications dans le Cloud</button>
     <div class="accordion-content" id="criteres-deploiement-applications-cloud">
       <h2>Les critères de sélection des projets incluant un déploiement d’applications dans le Cloud sont les suivants&nbsp;?</h2>
-      <ul>
-        <li><strong>1. Importance de l’application dans son volume d’usage cible (nombre d’utilisateurs, fréquence d’usage…) ;</strong></li>
-        <li><strong>2. Bénéfices du projet pour les utilisateurs :</strong></li></ul>
+      <ol>
+        <li><strong>Importance de l’application dans son volume d’usage cible (nombre d’utilisateurs, fréquence d’usage…) ;</strong></li>
+        <li><strong>Bénéfices du projet pour les utilisateurs :</strong></li></ol>
 <p>Les bénéfices apportés aux métiers utilisant l’application (gains) passent par la réduction des délais de mise à disposition de nouvelles fonctionnalités (réduction du « time to market »), par la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs), par l’amélioration de son niveau de résilience ou par la réduction de son niveau de risques informatiques.</p>
-<ul><li><strong>3. Réduction du niveau de risque sur les SI</strong></li></ul>
+<ol start="3"><li><strong>Réduction du niveau de risque sur les SI</strong></li></ol>
 <p>La transformation vers le Cloud-computing impacte le niveau de menaces et les risques SI encourus par un système d’information.</p>
 <p>D’une part, la mutualisation des infrastructures, entre administrations pour les Cloud interministériels et avec d’autres entités pour les Cloud commerciaux, génère de nouvelles menaces qui doivent faire l’objet de contre-mesures adaptées et de risques acceptés avec les interlocuteurs métiers.</p>
 <p>D’autre part, les services mis à disposition permettent d’améliorer la posture de sécurité, le niveau de risques et la réactivité en cas d’évènement de sécurité :</p>
@@ -183,11 +183,11 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
         <li>L’automatisation des opérations de maintenance et des actions de détection et de corrections des évènements de sécurité permet de systématiser les contrôles, d’améliorer la réactivité en cas d’incident et d’éliminer les risques d’erreurs humaines sur ces activités ;</li>
         <li>L’intégrité et la conformité des socles techniques peuvent être validées avant leurs démarrages, réduisant les possibilités d’attaques et les erreurs humaines lors des opérations de configuration.</li>
 <li>La gestion de l’obsolescence des composants est prise en charge par le fournisseur de Cloud pour les services consommés dans leurs catalogues. Cela permet une meilleure réactivité en cas d’évènements de sécurité et des charges de gestion plus faibles. De plus, cela évite les projets de traitement de l’obsolescence sur ces services.</li></ul>
-<ul><li><strong>4. Economies budgétaires engendrées</strong></li></ul>
+<ol start="4"><li><strong>Economies budgétaires engendrées</strong></li></ol>
 <p>L’utilisation du Cloud pour une application a plusieurs impacts économiques bénéfiques :</p>
 <ul><li>Le coût de possession d’une application, sur le périmètre du coût des infrastructures et de celui des opérations de maintien en conditions opérationnelles est réduit en moyenne de 30% :</li>
-<li><i>a. Les infrastructures d’hébergements sont mutualisées, mobilisent des composants homogènes peu couteux pour lesquelles les opérations de maintenances sont automatisées. De plus, les services de gestion de l’élasticité, la supervision de l’utilisation des ressources ou l’utilisation de containers permettent également de réduire les volumes consommés en adaptant dynamiquement la capacité à la charge…</i></li>
-<li><i>b. Les activités de maintiens en conditions opérationnelles peuvent être en grande partie automatisées, avec des possibilités d’auto-remédiation et une fréquence moindre d’incidents.</i></li>
+<ul><li>Les infrastructures d’hébergements sont mutualisées, mobilisent des composants homogènes peu couteux pour lesquelles les opérations de maintenances sont automatisées. De plus, les services de gestion de l’élasticité, la supervision de l’utilisation des ressources ou l’utilisation de containers permettent également de réduire les volumes consommés en adaptant dynamiquement la capacité à la charge…</li>
+<li>Les activités de maintiens en conditions opérationnelles peuvent être en grande partie automatisées, avec des possibilités d’auto-remédiation et une fréquence moindre d’incidents.</li></ul>
 <li>Sur le périmètre de la maintenance évolutive et corrective, les services au catalogue des fournisseurs Cloud, avec un haut niveau d’automatisation, de standardisation et scalable  par conception, permettent de réduire les charges de définition, construction et évolution des solutions techniques, pour un gain souvent estimé à 10 ou 15% des coûts d’un projet ;</li>
 <li>Les bénéfices métiers, s’ils sont observables par une plus grande disponibilité du service et une fréquence plus élevée de mise à disposition de services pertinents, ne peuvent donner lieu à une anticipation chiffrée de l’amélioration de la productivité.</li>
       </ul>
@@ -196,24 +196,24 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
  <div class="accordion-item">
     <button onclick="myFunction('criteres-mise-a-niveau')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Critères de sélection pour les projets incluant une mise à niveau du cloud Interne (adossé sur PI ou NUBO)</button>
     <div class="accordion-content" id="criteres-mise-a-niveau">
-      <ul>
-        <li><strong>5. Qualité de la proposition de valeur pour les clients de l’offre Cloud</strong></li></ul>
+      <ol start="5">
+        <li><strong>Qualité de la proposition de valeur pour les clients de l’offre Cloud</strong></li></ol>
 <p>Les services développés devront avoir un impact réel sur l’utilisation des offres de cloud interne interministériel, notamment en termes de :</p>
 <ul><li>Gain en réactivité des équipes utilisatrices des services afin d’améliorer la qualité perçu par l’usager du service numérique ;</li>
         <li>Réduction du niveau de risque sur les SI par l’amélioration de la résilience, de la disponibilité des services, la prise en charges des opérations liées au traitement de leur obsolescence ;</li>
         <li>Bénéfice économique à utiliser les services développés.</li></ul>
 <p>La cohérence entre les évolutions proposées et l’état de l’art chez les grands offreurs de Cloud externe sera par ailleurs une clé d’appréciation de la pertinence de ces évolutions.</p>
-<ul><li><strong>6. Justification du « marché » identifié pour les évolutions</strong></li></ul>
+<ol start="6"><li><strong>Justification du « marché » identifié pour les évolutions</strong></li></ol>
 <p>Justification (résultats d’écoute des « clients », expressions de besoins formalisées, engagement d’équipes produits…) que les services sont attendus et seront utilisés  par  un large panel d’équipes/produits utilisatrices, hors du ministère porteur du projet.</p>
 </div>
 </div>
 <div class="accordion-item">
     <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour tous les projets</button>
     <div class="accordion-content" id="criteres-pour-tous-projets">
-      <ul>
-        <li><strong>7. Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
-        <li><strong>8. Montée en compétence des agents</strong></li>
-        <li><strong>9. Sobriété numérique</strong></li></ul>
+      <ol start="7">
+        <li><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
+        <li><strong>Montée en compétence des agents</strong></li>
+        <li><strong>Sobriété numérique</strong></li></ol>
 <p>Impacts du projet sur l’empreinte environnementale : le dossier indiquera le bénéfice estimé lier aux caractéristiques du cloud employé par rapport à une infrastructure conventionnelle, ainsi que les mesures employées destinées à maintenir la consommation de services cloud sous contrôle : tableaux de bord, mode de pilotage, mise en place de bonnes pratiques (élasticité, arrêt des serveurs, etc.).</p>
 </div>
 </div>
