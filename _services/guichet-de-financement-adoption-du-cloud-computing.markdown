@@ -250,7 +250,7 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
 <p>Le dossier doit présenter des arguments relatifs aux critères de sélection :</p>
 <ul><li>Importance de l’application dans son volume d’usage cible (nombre d’utilisateurs, fréquence d’usage…) ;</li>
 <li>Bénéfices du projet pour les utilisateurs ;</li>
-<li>Réduction du niveau de risque sur les SI ;</li
+<li>Réduction du niveau de risque sur les SI ;</li>
 <li>Economies budgétaire engendrées : Les candidats s’attacheront à présenter l’impact chiffré du projet sur les trois axes en présentant les coûts à date et une ou plusieurs projections économiques à l’issue du projet ;</li>
 <li>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne : Les candidats présenteront les enjeux et objectifs du projet, les compétences et l’équipe nécessaire pour le réaliser ainsi que le planning et la gouvernance associée. Il est également demandé une présentation macroscopique du modèle opérationnel pour gérer et faire évoluer l’application une fois le projet achevé. Les charges par macro-activité et le taux d’internalisation au sein du projet et en phase de maintien en conditions opérationnelles seront également présentées.</li> 
       </ul>
