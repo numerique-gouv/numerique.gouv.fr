@@ -1,5 +1,6 @@
 ---
-title: Guichet Design et accessibilité des produits et services numériques
+title: 'Guichet de financement : Design et accessibilité des produits et services
+  numériques'
 date: 2023-03-02 15:33:00 +01:00
 chapeau-text: Vous êtes une administration ou un opérateur de l'État et vous souhaitez
   améliorer l’expérience utilisateur et l’accessibilité aux personnes handicapées
