@@ -15,10 +15,13 @@ La qualité de la relation entre les citoyens et l’administration passe par un
 Le présent guichet thématique est dédié à l’amélioration du design, de l’expérience utilisateur des services publics numériques, et de la mise à niveau de leur accessibilité aux personnes en situation de handicap.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
-Ce guichet accepte des projets qui ont pour mission d'améliorer la qualité de services en ligne existants ou en construction.
-<br>
-<br>
+<p>Ce guichet accepte des projets qui ont pour mission d'améliorer la qualité de services en ligne existants ou en construction.</p>
 
+<p>Les projets proposés doivent viser directement l’amélioration de l'expérience utilisateur, et/ou de l’accessibilité aux personnes en situation de handicap, de :</p>
+<ul>
+        <li>démarches administratives et services en ligne proposés aux usagers référencés dans l’Observatoire ;</li>
+        <li>grandes applications interministérielles internes destinées aux les agents ;</li>
+        <li>grandes applications ministérielles internes destinées aux agents rentrant dans le top 5 ministériel (dont la liste aura préalablement été communiquée à la DINUM).</li></ul>
 **Détails des projets attendus :**
 
 <script>
@@ -39,14 +42,8 @@ Ce guichet accepte des projets qui ont pour mission d'améliorer la qualité de 
 
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails des projets acceptés</button>
-    <div class="accordion-content" id="projets-proactive">
-
-      <p>Les projets proposés doivent viser directement l’amélioration de l'expérience utilisateur, et/ou de l’accessibilité aux personnes en situation de handicap, de :</p>
-<ul>
-        <li>démarches administratives et services en ligne proposés aux usagers référencés dans l’Observatoire ;</li>
-        <li>grandes applications interministérielles internes destinées aux les agents ;</li>
-        <li>grandes applications ministérielles internes destinées aux agents rentrant dans le top 5 ministériel (dont la liste aura préalablement été communiquée à la DINUM).</li></ul>
+    <button onclick="myFunction('projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Exemples d’objectifs et leviers :</button>
+    <div class="accordion-content" id="exemples">
       <p>Exemples d’objectifs et leviers :</p>
       <ul>
         <li>accélération de la numérisation ;</li>
@@ -59,12 +56,12 @@ Ce guichet accepte des projets qui ont pour mission d'améliorer la qualité de 
       </ul>
       <p>La sélection des lauréats priorisera les projets à plus fort impact pour les utilisateurs.
       </p>
-<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
-<p>Le guichet pourra en complément financer le commando UX de la DINUM. 
-      </p>
     </div>
   </div>
   </div>
+<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
+<p>Le guichet pourra en complément financer le commando UX de la DINUM. 
+      </p>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
 L'ensemble des projets doivent générer des économies budgétaires et montrer l'amélioration (mesure avant/après) d’au moins un des indicateurs de performance :
