@@ -204,7 +204,7 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
         <li>Bénéfice économique à utiliser les services développés.</li></ul>
 <p>La cohérence entre les évolutions proposées et l’état de l’art chez les grands offreurs de Cloud externe sera par ailleurs une clé d’appréciation de la pertinence de ces évolutions.</p>
 <ul><li><strong>6. Justification du « marché » identifié pour les évolutions<strong></li></ul>
-<p>Justification (résultats d’écoute des « clients », expressions de besoins formalisées, engagement d’équipes produits…) que les services sont attendus et seront utilisés  par  un large panel d’équipes/produits utilisatrices, hors du ministère porteur du projet.</p>      
+<p>Justification (résultats d’écoute des « clients », expressions de besoins formalisées, engagement d’équipes produits…) que les services sont attendus et seront utilisés  par  un large panel d’équipes/produits utilisatrices, hors du ministère porteur du projet.</p>
 </div>
 </div>
 <div class="accordion-item">
@@ -215,9 +215,9 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
         <li><strong>8. Montée en compétence des agents</strong></li>
         <li><strong>9. Sobriété numérique</strong></li></ul>
 <p>Impacts du projet sur l’empreinte environnementale : le dossier indiquera le bénéfice estimé lier aux caractéristiques du cloud employé par rapport à une infrastructure conventionnelle, ainsi que les mesures employées destinées à maintenir la consommation de services cloud sous contrôle : tableaux de bord, mode de pilotage, mise en place de bonnes pratiques (élasticité, arrêt des serveurs, etc.).</p>
-    </div>
-  </div>
-  </div>
+</div>
+</div>
+</div>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Formulaire de dépôt et contenu du dossier à déposer</h1>
 
