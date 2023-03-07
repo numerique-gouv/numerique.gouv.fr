@@ -1,7 +1,6 @@
 ---
 title: Retour sur la journée « Numérique et Territoires », les projets à l’honneur
 date: 2023-02-22 17:09:00 +01:00
-published: false
 categories:
 - Article
 tags:
@@ -13,7 +12,7 @@ chapeau-text: Le 18 janvier dernier, la direction interministérielle du numéri
   et la direction interministérielle de la transformation publique (DITP) ont organisé
   à Paris la journée « Numérique et Territoires »
 une-ou-diaporama:
-- image: "/uploads/2023_01_05_JNT_AGENDA-509de5.jpg"
+- image: "/uploads/2023_01_18_JNT_Article.png"
 ---
 
 La journée « Numérique et Territoires » avait notamment pour objectif de faire le bilan du fonds « Transformation numérique des collectivités territoriales (ITN7) » du plan FranceRelance, de mettre en avant les projets ainsi financés et accompagnés, en donnant la parole à un panel de lauréats du fonds et, plus globalement, d’échanger sur les grands enjeux de la transformation numérique des territoires. 
