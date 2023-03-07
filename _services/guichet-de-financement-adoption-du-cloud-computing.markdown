@@ -1,7 +1,6 @@
 ---
 title: 'Guichet de financement : Adoption du cloud computing'
 date: 2023-02-28 15:10:00 +01:00
-published: false
 chapeau-text: "Vous êtes une administration d'État ou un opérateur de l'État souhaitant
   construire, transformer, migrer vos applications vers le Cloud ?\nVous souhaitez
   dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la
@@ -18,6 +17,64 @@ layout: rgaa
 * De mise en œuvre de ressources opérationnelles d’accompagnement de vos équipes.
 
 Ce guichet vient en soutien de la mise en œuvre de la doctrine « Cloud au centre » de l’État.
+
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
+Ce guichet peut être sollicité pour financer deux types d’opérations, éventuellement combinées :
+
+1. **Des opérations techniques permettant d’opérer une application dans le Cloud ;**
+
+2. **L’extension ou de montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO).**
+<br>
+<br>
+**Détails des projets attendus par type :**
+
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('application-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Des opérations techniques permettant d’opérer une application dans le Cloud</button>
+    <div class="accordion-content" id="application-cloud">
+
+      <p>Cette opération peut être à l’origine de la construction d’une application, de sa transformation, ou de sa migration depuis un autre mode d’hébergement.</p>
+      <p>Ne sont finançables que les opérations visant un hébergement </p>
+      <ul>
+        <li>Parmi les clouds internes interministériels (PI ou NUBO)  ;</li>
+        <li>Ou sur les offres commerciales Cloud immunes au droit extra-communautaire et SecNumCloud, telles que définies par la doctrine « Cloud au centre ».</li>
+      </ul>
+      <p>Pour les cas de migration, les projets peuvent avoir pour socle d’hébergement d’origine des infrastructures physique, une solution Cloud soumise au droit extra-communautaire ou non-SecNumCloud, ou un Cloud interne autre que PI ou NUBO.
+      </p>
+    </div>
+  </div>
+<div class="accordion-item">
+    <button onclick="myFunction('offres-services-Cloud')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">L’extension ou de montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO)</button>
+    <div class="accordion-content" id="offres-services-Cloud">
+      <p>Ces évolutions concernent la création de services qui peuvent par exemple être une usine logicielle (CI/CD, …), des services de sécurité (HSM, KMS, Log Lake, …), des services PaaS (BDDaaS, orchestration de containers, OCRaaS, …), amélioration des niveaux/plages de services existants (support 24/7, résilience longue distance).</p>
+<p>La réalité du besoin sur ces évolutions doit se traduire obligatoirement par au moins un engagement signé d’un projet (du ministère, ou d’un ministère tiers) d’utiliser ces services une fois qu’ils seront disponibles.</p>
+    </div>
+  </div>
+<div class="accordion-item">
+    <button onclick="myFunction('deux-types-operations')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Dossiers qui comportent les deux types d’opérations</button>
+    <div class="accordion-content" id="deux-types-operations">
+      <p>Pour le cas où un dossier déposé comporte les deux types d’opérations, le dossier peut être porté conjointement par deux ministères (le ministère dont les applications sont construites/transformées/migrées sur le Cloud interne, et le ministère offreur de Cloud interne), avec un porteur principal.</p>
+<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés)</strong></p>
+<p>La DINUM peut également recourir à ce guichet pour financer les « squads Cloud ».</p>
+    </div>
+  </div>
+  </div>
 
 **Taille attendue des projets :**
 Entre 25 000 € et 1,5 M€ TTC 
@@ -162,4 +219,80 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
   </div>
   </div>
 
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Formulaire de dépôt et contenu du dossier à déposer</h1>
 
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('criteres-deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les projets incluant un volet « déploiement d’application dans le Cloud »</button>
+    <div class="accordion-content" id="criteres-deploiement-applications-cloud">
+      <h2>Le dossier doit comporter par application les valeurs actuelles et cibles pour&nbsp;:</h2>
+      <ul>
+        <li>La fréquence des déploiements en production ;</li>
+        <li>Le temps de mise à disposition d’une nouvelle fonctionnalité ;</li>
+<li>Le temps de restauration sur incident (RTO) ;</li>
+<li>Le taux de réussite des changements.</li></ul>
+<p>Le dossier doit présenter des arguments relatifs aux critères de sélection :</p>
+<ul><li>Importance de l’application dans son volume d’usage cible (nombre d’utilisateurs, fréquence d’usage…) ;</li>
+<li>Bénéfices du projet pour les utilisateurs ;</li>
+<li>Réduction du niveau de risque sur les SI ;</li
+<li>Economies budgétaire engendrées : Les candidats s’attacheront à présenter l’impact chiffré du projet sur les trois axes en présentant les coûts à date et une ou plusieurs projections économiques à l’issue du projet ;</li>
+<li>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne : Les candidats présenteront les enjeux et objectifs du projet, les compétences et l’équipe nécessaire pour le réaliser ainsi que le planning et la gouvernance associée. Il est également demandé une présentation macroscopique du modèle opérationnel pour gérer et faire évoluer l’application une fois le projet achevé. Les charges par macro-activité et le taux d’internalisation au sein du projet et en phase de maintien en conditions opérationnelles seront également présentées.</li> 
+      </ul>
+    </div>
+  </div>
+<div class="accordion-item">
+    <button onclick="myFunction('criteres-mise-a-niveau')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Pour les projets incluant un volet de mise à niveau de PI ou Nubo</button>
+    <div class="accordion-content" id="criteres-mise-a-niveau">
+<p>Le dossier doit présenter des arguments relatifs aux critères de sélection propres à ce volet :</p>
+      <ul>
+        <li>Qualité de la proposition de valeur pour les clients de l’offre Cloud ;</li>
+<li>Justification du « marché » identifié pour les évolutions ;</li>
+<li>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne : Les candidats présenteront les enjeux et objectifs du projet, les compétences et l’équipe nécessaire pour le réaliser ainsi que le planning et la gouvernance projet associée. Il est également demandé une présentation macroscopique du modèle opérationnel pour gérer et faire évoluer le service  une fois le projet achevé. Les charges par macro-activité et le taux d’internalisation au sein du projet et en phase de maintien en conditions opérationnelles seront également présentées ;</li>
+<li>Concernant les bénéfices économiques liés à la mise à disposition de nouveaux services venant consolider l’offre interministérielle de cloud computing, le dossier devra inclure les bénéfices économiques (pour le client et pour le fournisseur) liés au nouveau service (par exemple, le coût du stockage objet à l’octet mono-zone avec redondance mise en œuvre par le client sur une seconde zone vs le coût à l’octet d’une offre nativement multizone) ;</li>
+<li>Au moins un engagement signé d’un projet (du ministère, ou d’un ministère tiers) d’utiliser les services créés/améliorés une fois qu’ils seront disponibles.</li></ul>
+    </div>
+  </div>
+<div class="accordion-item">
+    <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour tous les projets</button>
+    <div class="accordion-content" id="criteres-pour-tous-projets">
+<p>Le dossier doit également présenter :</p>
+      <ul>
+        <li>Le nombre d’agents formés et travaillant dans un contexte cloud à l’issue du projet ;</li>
+        <li>L’évaluation économique du projet ;</li>
+        <li>Montée en compétence des agents : Le dossier décrira les mesures destinées à assurer quand il y a lieu la formation des agents : évaluation initiale, plan de formation, etc. Les candidats présenteront les actions de formation, d’acculturation et de conduite du changement aux pratiques et technologies du Cloud à destination des agents (non encore formés) et qui seront prises en charge par le projet ;</li>
+<li>Sobriété numérique : Les candidats présenteront leur démarche de sobriété numérique et les impacts du projet sur l’empreinte environnementale ;</li>
+<li>S’agissant de la structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne : le dossier s’attachera à démontrer la capacité de l’équipe projet à mener à bien son projet.</li></ul>
+    </div>
+  </div>
+  </div>
+
+<p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="Infonuage.dinum@modernisation.gouv.fr">Infonuage.dinum@modernisation.gouv.fr</a>
+
+<!--
+<br>
+<br>
+<div class="encadre noir" style="margin-bottom:40px"><a href="/agenda/guichet-data-webinaire-dinformation/" title="Participez à notre webinaire d'information dédié au guichet - Lien interne"><figure class="image-center" style="width: 90%; margin-right: 1em; margin-left: 2em;"> <img src="/uploads/2023_01_16_Webinaire_guichet-data-FTAP_Agenda.jpg" alt="Webinaire d’information - Tout savoir sur le guichet de financement Exploitation et valorisation des données - Lundi 23 janvier, 16h-17h30"> </figure></a> </div>
+-->
+
+<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour la transformation de l’action publique (FTAP)</h3>
+<figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
+<img src="/uploads/logo_FTAP_RVB.jpg" alt="Logo du FTAP">
+</figure><p>Ce guichet s'inscrit dans le cadre du <a href="https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique" title="Fonds pour la transformation de l'action publique (FTAP) - Lien externe">Fonds pour la transformation de l'action publique (FTAP)</a>, piloté par la direction interministérielle de la transformation publique (DITP), avec la DINUM, sous l'égide du ministère de la Transformation et de la Fonction publiques.</p><p style="margin-bottom: 0.5em">Le FTAP investit de manière inédite pour soutenir les projets innovants des administrations de l’État. Depuis 2017, 120 projets d’intérêt général ont été financés au service de la transformation publique et des politiques prioritaires du Gouvernement. L’objectif : améliorer le service aux usagers, l’environnement de travail des agents et l’efficacité de l’action publique.</p>
+</div>
+ 
