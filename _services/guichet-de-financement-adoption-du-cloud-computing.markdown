@@ -1,6 +1,13 @@
 ---
 title: 'Guichet de financement : Adoption du cloud computing'
 date: 2023-02-28 15:10:00 +01:00
+categories:
+- Guichet de financement
+tags:
+- Guichet
+- Financement
+- FTAP
+- Cloud
 chapeau-text: Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez
   un cofinancement pour votre projet visant l'adoption du cloud computing, grâce à
   ce guichet piloté par la DINUM dans le cadre du [Fonds pour la transformation de
