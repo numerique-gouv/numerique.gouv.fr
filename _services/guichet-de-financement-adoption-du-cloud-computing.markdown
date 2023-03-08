@@ -138,9 +138,11 @@ Au moins 2 ou 3 indicateurs « DevOps » parmi :
 <li>Le temps de mise à disposition d’une nouvelle fonctionnalité ;</li>
 <li>Le temps de restauration sur incident (RTO) ;</li>
 <li>Le taux de réussite des changements.</li></ul>
+<br>
 <p>Pour les projets impliquant des évolutions de services du Cloud interne (adossés à PI ou Nubo) :</p>
 <ul><li>Volumes d’utilisation des services dans le temps;</li>
 <li>Au moins un indicateur mesurant les bénéfices qualitatifs.</li></ul>
+<br>
 <p>Pour tous les projets :</p>
 <ul><li>Les économies budgétaires induites ;</li>
 <li>Le nombre d’agents formés et travaillant dans un contexte cloud à l’issue du projet.</li></ul>
