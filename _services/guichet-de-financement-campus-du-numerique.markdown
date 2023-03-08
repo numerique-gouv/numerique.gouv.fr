@@ -131,6 +131,10 @@ Champs du formulaire à remplir :
 <li>Justifier/confirmer code ouvert, livrables en licences ouvertes</li>
 <li>Justification des efforts sur l’accessibilité handicap (exemple : présence d’une transcription pour les formations audio/vidéo)</li></ul>
 
+
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-campus-du-numerique" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
+
+
 <p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="marie.charbonnel@modernisation.gouv.fr">marie.charbonnel@modernisation.gouv.fr</a>
 
 
