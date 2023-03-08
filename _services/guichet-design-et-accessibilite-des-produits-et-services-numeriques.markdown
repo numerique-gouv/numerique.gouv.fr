@@ -37,7 +37,6 @@ Le guichet est ouvert aux :
         <li>démarches administratives et services en ligne proposés aux usagers référencés dans l’Observatoire ;</li>
         <li>grandes applications interministérielles internes destinées aux les agents ;</li>
         <li>grandes applications ministérielles internes destinées aux agents rentrant dans le top 5 ministériel (dont la liste aura préalablement été communiquée à la DINUM).</li></ul>
-**Détails des projets attendus :**
 
 <script>
   function myFunction(id) {
