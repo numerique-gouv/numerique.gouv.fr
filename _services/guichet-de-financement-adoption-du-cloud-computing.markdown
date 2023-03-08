@@ -1,22 +1,31 @@
 ---
 title: 'Guichet de financement : Adoption du cloud computing'
 date: 2023-02-28 15:10:00 +01:00
-chapeau-text: "Vous êtes une administration d'État ou un opérateur de l'État souhaitant
-  construire, transformer, migrer vos applications vers le Cloud ?\nVous souhaitez
-  dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la
-  maitrise des données sensibles ? \nVous êtes un producteur de services cloud interministériels
-  et souhaitez améliorer votre offre ?"
+chapeau-text: Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez
+  un cofinancement pour votre projet visant l'adoption du cloud computing, grâce à
+  ce guichet piloté par la DINUM dans le cadre du [Fonds pour la transformation de
+  l'action publique](https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique
+  "Fonds pour la transformation de l'action publique - Lien externe").
 une:
   image: "/uploads/ILLUSTRATIONS_DINUM%20_cloud%20computing-03-f99bab.png"
 layout: rgaa
 ---
 
-## Ce guichet vous est ouvert et vise à financer vos projets :
-* De construction, transformation et de migrations d’applications vers le cloud
-* D’extension des offres de cloud interne interministériel
-* De mise en œuvre de ressources opérationnelles d’accompagnement de vos équipes.
+Vous êtes une administration d'État ou un opérateur de l'État souhaitant construire, transformer, migrer vos applications vers le Cloud ?
+Vous souhaitez dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la maitrise des données sensibles ? 
+Vous êtes un producteur de services cloud interministériels et souhaitez améliorer votre offre ?
+
+Ce guichet vous est ouvert et vise à financer vos projets :
+* de construction, transformation et de migrations d’applications vers le cloud
+* d’extension des offres de cloud interne interministériel
+* de mise en œuvre de ressources opérationnelles d’accompagnement de vos équipes.
 
 Ce guichet vient en soutien de la mise en œuvre de la doctrine « Cloud au centre » de l’État.
+
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
+Le guichet est ouvert aux :
+* **administrations d’État** ;
+* **opérateurs de l’État**.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 Ce guichet peut être sollicité pour financer deux types d’opérations, éventuellement combinées :
