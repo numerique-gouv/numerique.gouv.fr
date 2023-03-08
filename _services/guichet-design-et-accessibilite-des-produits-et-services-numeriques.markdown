@@ -89,6 +89,8 @@ Les projets lauréats bénéficieront :
 <li><strong>Mise en place de recherche usager régulière</strong> (entretiens individuels téléphoniques ou présentiels, tests d’utilisabilité individuels en ligne ou en présentiel) ;</li>
 <li><strong>Agilité de la démarche, premiers objectifs visés dans des délais courts</strong> (< 6 mois). </li></ol>
 
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-design-et-accessibilite" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
+
 
 <p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="marine.boudeau@modernisation.gouv.fr">marine.boudeau@modernisation.gouv.fr</a>
 
