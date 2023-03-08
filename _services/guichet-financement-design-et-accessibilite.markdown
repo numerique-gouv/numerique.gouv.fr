@@ -71,7 +71,11 @@ Le guichet est ouvert aux :
     </div>
   </div>
   </div>
-      <p>La sélection des lauréats priorisera les projets à plus fort impact pour les utilisateurs.</p>
+      
+**Taille attendue des projets :**
+Entre 25 000 € et 100 000€ TTC
+
+<p>La sélection des lauréats priorisera les projets à plus fort impact pour les utilisateurs.</p>
 <p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
 <p>Le guichet pourra en complément financer le commando UX de la DINUM. 
       </p>
@@ -80,8 +84,6 @@ Le guichet est ouvert aux :
 L'ensemble des projets doivent générer des économies budgétaires et montrer l'amélioration (mesure avant/après) d’au moins un des indicateurs de performance :
 <ul> <li><strong>Indice de satisfaction</strong> utilisateur (mesurée avec le bouton <i>JeDonneMonAvis</i> pour les services aux usagers ;</li> <li><strong>Taux de conformité</strong> au référentiel général d’amélioration de l’accessibilité (RGAA) ;</li> <li><strong>Taux de recours</strong> à la voie numérique (vs. la voie papier) pour une démarche administrative.</li></ul>
 
-**Taille attendue des projets :**
-Entre 25 000 € et 100 000€ TTC
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
