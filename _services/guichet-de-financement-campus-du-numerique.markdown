@@ -1,7 +1,6 @@
 ---
-title: 'Guichet de financement : Campus du Numérique'
+title: 'Guichet de financement : Campus du numérique'
 date: 2023-03-03 11:53:00 +01:00
-published: false
 categories:
 - Guichet de financement
 tags:
@@ -10,7 +9,7 @@ tags:
 - FTAP
 - Formation
 chapeau-text: 'Ce guichet thématique, dédié à la montée en compétence numérique des
-  agents de l’Etat, vise le développement et l’expérimentation de dispositifs apprenants
+  agents de l’État, vise le développement et l’expérimentation de dispositifs apprenants
   en vue de leur déploiement en interministériel via l’offre « Campus du Numérique
   » portée par la DINUM. '
 layout: rgaa
@@ -18,9 +17,16 @@ layout: rgaa
 
 La transformation numérique nécessite que toutes les catégories d’agents de l’État montent en compétence numérique.
 
+Ce guichet thématique, dédié à la montée en compétence numérique des agents de l’État, vise le développement et l’expérimentation de dispositifs apprenants en vue de leur déploiement en interministériel via l’offre « Campus du numérique » portée par la DINUM. 
+
 Il s’agit donc de privilégier les dispositifs pour lesquels la mutualisation ou transposition interministérielle est pertinente.
 
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Qui cela concerne&nbsp;?</h1>
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
+Le guichet est ouvert aux :
+* **administrations d’État** ;
+* **opérateurs de l’État**.
+
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Qui est concerné par ce campus du numérique&nbsp;?</h1>
 Cela concerne :
 * Les **agents de la filière numérique de l’État**, avec un enjeu propre au numérique : les technologies et pratiques évoluant très vite, des mises à niveau fréquentes sont indispensables ;
 * Les **cadres supérieurs et dirigeants**, dont l’acculturation numérique est nécessaire si l’on souhaite qu’ils soient moteurs dans la transformation numérique et intègrent au plus tôt le numérique, et ses potentialités, dans les politiques publiques portées par les métiers ;
@@ -29,10 +35,10 @@ Cela concerne :
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Pour qui&nbsp;?</h1>
 Le guichet est ouvert aux :
 * **administrations d’État** (y compris leurs opérateurs de formations) ;
-* **opérateurs publics**.
+* **opérateurs de l’État**.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
-La plateforme de formation choisie pour héberger le volet dématérialisé des formations du Campus du Numérique est MENTOR (mentor.gouv.fr), mais le Campus du Numérique pourra également référencer des formations présentes sur des plateformes tierces. La DINUM pourra imposer que  les formations construites dans le cadre de ce guichet soient publiées sur MENTOR.
+La plateforme de formation choisie pour héberger le volet dématérialisé des formations du Campus du numérique est MENTOR ([mentor.gouv.fr](https://mentor.gouv.fr)), mais le Campus du numérique pourra également référencer des formations présentes sur des plateformes tierces. La DINUM pourra imposer que  les formations construites dans le cadre de ce guichet soient publiées sur MENTOR.
 <br>
 <br>
 
