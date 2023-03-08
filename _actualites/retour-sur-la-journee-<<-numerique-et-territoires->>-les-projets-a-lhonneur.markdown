@@ -79,7 +79,7 @@ L’enjeu autour de ces projets est désormais de capitaliser sur les produits e
 
 ![JNT - 3.jpeg](/uploads/JNT%20-%203.jpeg)
 
-En fin de journée, les lauréats mais aussi l’ensemble des agents et élus des collectivités territoriales ont échangé lors d’un forum dédié autour de stands thématiques représentant les principales missions, outils et initiatives portés par la DINUM, l’ANCT et la DITP (BetaGouv, Démarches Simplifiées, Dites-le nous une fois…).
+En fin de journée, les lauréats mais aussi l’ensemble des agents et élus des collectivités territoriales ont échangé lors d’un forum dédié autour de stands thématiques représentant les principales missions, outils et initiatives portés par la DINUM (Beta.gouv.fr, Démarches Simplifiées, Dites-le-nous une fois…), l’ANCT et la DITP.
 
 
 ### Mutualisation et open source 
