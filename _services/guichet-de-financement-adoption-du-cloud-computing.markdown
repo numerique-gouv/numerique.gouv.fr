@@ -1,7 +1,6 @@
 ---
 title: 'Guichet de financement : Adoption du cloud computing'
 date: 2023-02-28 15:10:00 +01:00
-published: false
 chapeau-text: "Vous êtes une administration d'État ou un opérateur de l'État souhaitant
   construire, transformer, migrer vos applications vers le Cloud ?\nVous souhaitez
   dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la
@@ -286,13 +285,13 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
   </div>
   </div>
 
+
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
+
+
 <p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="Infonuage.dinum@modernisation.gouv.fr">Infonuage.dinum@modernisation.gouv.fr</a>
 
-<!--
-<br>
-<br>
-<div class="encadre noir" style="margin-bottom:40px"><a href="/agenda/guichet-data-webinaire-dinformation/" title="Participez à notre webinaire d'information dédié au guichet - Lien interne"><figure class="image-center" style="width: 90%; margin-right: 1em; margin-left: 2em;"> <img src="/uploads/2023_01_16_Webinaire_guichet-data-FTAP_Agenda.jpg" alt="Webinaire d’information - Tout savoir sur le guichet de financement Exploitation et valorisation des données - Lundi 23 janvier, 16h-17h30"> </figure></a> </div>
--->
+
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour la transformation de l’action publique (FTAP)</h3>
 <figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
