@@ -68,11 +68,10 @@ Le guichet est ouvert aux :
         <li>amélioration de la performance technique (disponibilité, temps de réponse) ;</li>
         <li>intégration d'APIs de l'État et/ou FranceConnect.</li>
       </ul>
-      <p>La sélection des lauréats priorisera les projets à plus fort impact pour les utilisateurs.
-      </p>
     </div>
   </div>
   </div>
+      <p>La sélection des lauréats priorisera les projets à plus fort impact pour les utilisateurs.</p>
 <p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
 <p>Le guichet pourra en complément financer le commando UX de la DINUM. 
       </p>
@@ -87,7 +86,7 @@ Entre 25 000 € et 100 000€ TTC
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
 Les projets lauréats bénéficieront :
-<ul> <li>D’un <strong>cofinancement</strong> jusqu’à 50% du coût total du projet, les 50% restant à la charge de l’administration porteuse du projet.</li> <li>Ne sont comptabilisés dans le coût total du projet que les coûts de développement spécifiques à l’<strong>accessibilité</strong> ou à l’<strong>amélioration de l’expérience utilisateur</strong>, les coûts de recherche utilisateur.</li> <li>d’<strong>un accompagnement</strong> de la part de la DINUM, lorsque nécessaire&nbsp;.</li></ul>
+<ul> <li>d’un <strong>cofinancement</strong> jusqu’à 50% du coût total du projet, les 50% restant à la charge de l’administration porteuse du projet.</li> <li>ne sont comptabilisés dans le coût total du projet que les coûts de développement spécifiques à l’<strong>accessibilité</strong> ou à l’<strong>amélioration de l’expérience utilisateur</strong>, les coûts de recherche utilisateur.</li> <li>d’<strong>un accompagnement</strong> de la part de la DINUM, lorsque nécessaire&nbsp;.</li></ul>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
 <p>Les critères qui permettront de sélectionner les projets et de définir le montant de cofinancement sont les suivants :</p> 
