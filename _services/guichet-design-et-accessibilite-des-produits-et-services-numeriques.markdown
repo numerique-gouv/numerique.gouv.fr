@@ -84,7 +84,7 @@ Les projets lauréats bénéficieront :
 <p>Les critères qui permettront de sélectionner les projets et de définir le montant de cofinancement sont les suivants :</p> 
 <ol><li>Importance de la démarche pour les citoyens, entreprises et agents (volumétrie d’usage, etc.) ;</li>
 <li>Existence de marges d’améliorations (documentées et étudiées à l’aune des retours des usagers) de la qualité de la démarche ou du service ;</li>
-<li>Gouvernance et organisation de l’équipe (modalités de priorisation des travaux, façon dont les experts UX/ recherche utilisateur/ accessibilité sont intégrés à l’équipe projet et aux processus de décision) ;</li>
+<li>Gouvernance et organisation de l’équipe (modalités de priorisation des travaux, façon dont les experts UX /recherche utilisateur / accessibilité sont intégrés à l’équipe projet et aux processus de décision) ;</li>
 <li>Économies budgétaires attendues (via par exemple la baisse des coûts d’assistance aux usagers, la baisse des coûts liée à une plus grande part de dossiers reçus par voie numérique, économies de temps de traitement par des agents) ; </li>
 <li>Mise en place de recherche usager régulière (entretiens individuels téléphoniques ou présentiels, tests d’utilisabilité individuels en ligne ou en présentiel) ;</li>
 <li>Agilité de la démarche, premiers objectifs visés dans des délais courts (< 6 mois). </li></ol>
