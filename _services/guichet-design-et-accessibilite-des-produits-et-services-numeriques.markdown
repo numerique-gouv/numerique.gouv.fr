@@ -81,7 +81,14 @@ Les projets lauréats bénéficieront :
 <ul> <li>D’un <strong>cofinancement</strong> jusqu’à 50% du coût total du projet, les 50% restant à la charge de l’administration porteuse du projet.</li> <li>Ne sont comptabilisés dans le coût total du projet que les coûts de développement spécifiques à l’<strong>accessibilité</strong> ou à l’<strong>amélioration de l’expérience utilisateur</strong>, les coûts de recherche utilisateur.</li> <li>d’<strong>un accompagnement</strong> de la part de la DINUM, lorsque nécessaire&nbsp;.</li></ul>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
-Plusieurs critères de sélection sont pris en compte : 
+<p>Les critères qui permettront de sélectionner les projets et de définir le montant de cofinancement sont les suivants :</p> 
+        <ol><li>Importance de la démarche pour les citoyens, entreprises et agents (volumétrie d’usage, etc.) ;</li>
+        <li>Existence de marges d’améliorations (documentées et étudiées à l’aune des retours des usagers) de la qualité de la démarche ou du service ;</li>
+        <li>Gouvernance et organisation de l’équipe (modalités de priorisation des travaux, façon dont les experts UX/ recherche utilisateur/ accessibilité sont intégrés à l’équipe projet et aux processus de décision) ;</li>
+        <li>Économies budgétaires attendues (via par exemple la baisse des coûts d’assistance aux usagers, la baisse des coûts liée à une plus grande part de dossiers reçus par voie numérique, économies de temps de traitement par des agents) ; </li>
+        <li>Mise en place de recherche usager régulière (entretiens individuels téléphoniques ou présentiels, tests d’utilisabilité individuels en ligne ou en présentiel) ;</li>
+<li>Agilité de la démarche, premiers objectifs visés dans des délais courts (< 6 mois). </li>
+      </ol>
 
 <script>
   function myFunction(id) {
