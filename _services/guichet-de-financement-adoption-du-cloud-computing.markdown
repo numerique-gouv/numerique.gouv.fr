@@ -1,7 +1,6 @@
 ---
 title: 'Guichet de financement : Adoption du cloud computing'
 date: 2023-02-28 15:10:00 +01:00
-published: false
 chapeau-text: "Vous êtes une administration d'État ou un opérateur de l'État souhaitant
   construire, transformer, migrer vos applications vers le Cloud ?\nVous souhaitez
   dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la
