@@ -2,9 +2,19 @@
 title: 'Guichet de financement : Design et accessibilité des produits et services
   numériques'
 date: 2023-03-02 15:33:00 +01:00
-chapeau-text: Vous êtes une administration ou un opérateur de l'État et vous souhaitez
-  améliorer l’expérience utilisateur et l’accessibilité aux personnes handicapées
-  d’un de vos services ou produits numériques ?
+categories:
+- Guichet de financement
+tags:
+- Guichet
+- Financement
+- FTAP
+- Design
+- Accessibilité numérique
+chapeau-text: Vous êtes une administration d’État ou un opérateur de l'État ? Obtenez
+  un cofinancement pour améliorer l’expérience utilisateur et l’accessibilité aux
+  personnes handicapées d’un de vos services ou produits numériques, grâce à ce guichet
+  piloté par la DINUM dans le cadre du [Fonds pour la transformation de l'action publique](https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique
+  "Fonds pour la transformation de l'action publique - Lien externe").
 une:
   image: "/uploads/ILLUSTRATIONS_DINUM%20_Design%20et%20accessibilite%CC%81-01.png"
 layout: rgaa
