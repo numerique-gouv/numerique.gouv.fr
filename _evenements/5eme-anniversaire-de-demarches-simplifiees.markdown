@@ -10,7 +10,7 @@ chapeau-text: A l'occasion des 5 ans de Démarches-simplifiées, la DINUM organi
   Hackathon en présentiel afin de réfléchir à ce que sera la plateforme dans 5 ans
   autour d'ateliers animés.
 une-ou-diaporama:
-- image: "/uploads/Journ%C3%A9e%20DS%2013%20mars.001.jpeg"
+- image: "/uploads/Vignette%20agenda_Demarches%20simplifiees_Site_V2.png"
 event_start_date: 2023-03-13 09:00:00 +01:00
 lieu: Le lieu de la DITP
 adresse: 77 avenue de Ségur, 75015 Paris
