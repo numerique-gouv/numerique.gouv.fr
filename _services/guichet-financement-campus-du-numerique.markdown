@@ -32,7 +32,7 @@ Le guichet est ouvert aux :
 * **opérateurs de l’État**.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
-La plateforme de formation choisie pour héberger le volet dématérialisé des formations du Campus du numérique est MENTOR ([mentor.gouv.fr](https://mentor.gouv.fr)), mais le Campus du numérique pourra également référencer des formations présentes sur des plateformes tierces. La DINUM pourra imposer que  les formations construites dans le cadre de ce guichet soient publiées sur MENTOR.
+La plateforme de formation choisie pour héberger le volet dématérialisé des formations du Campus du numérique est MENTOR ([mentor.gouv.fr](https://mentor.gouv.fr "https://mentor.gouv.fr - Lien externe")), mais le Campus du numérique pourra également référencer des formations présentes sur des plateformes tierces. La DINUM pourra imposer que  les formations construites dans le cadre de ce guichet soient publiées sur MENTOR.
 <br>
 <br>
 
