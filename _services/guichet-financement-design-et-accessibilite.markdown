@@ -75,10 +75,10 @@ Le guichet est ouvert aux :
 **Taille attendue des projets :**
 Entre 25 000 € et 100 000€ TTC
 
+
 <p>La sélection des lauréats priorisera les projets à plus fort impact pour les utilisateurs.</p>
 <p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
-<p>Le guichet pourra en complément financer le commando UX de la DINUM. 
-      </p>
+<p>Le guichet pourra en complément financer le commando UX de la DINUM. </p>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
 L'ensemble des projets doivent générer des économies budgétaires et montrer l'amélioration (mesure avant/après) d’au moins un des indicateurs de performance :
