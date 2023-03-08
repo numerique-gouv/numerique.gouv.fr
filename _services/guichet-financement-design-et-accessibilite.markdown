@@ -38,27 +38,7 @@ Le guichet est ouvert aux :
         <li>grandes applications interministérielles internes destinées aux les agents ;</li>
         <li>grandes applications ministérielles internes destinées aux agents rentrant dans le top 5 ministériel (dont la liste aura préalablement été communiquée à la DINUM).</li></ul>
 
-<script>
-  function myFunction(id) {
-    let x = document.getElementById(id);
-    let button = document.getElementById("accordion-button");
-
-    if (x.className.indexOf("show") == -1) {
-      x.className += " show";
-      button.className += " is-active"
-    } else {
-      x.className = x.className.replace(" show", "");
-      button.className = button.className.replace(" is-active", "");
-    }
-  }
-
-</script>
-
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
-  <div class="accordion-item">
-    <button onclick="myFunction('exemples')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Exemples d’objectifs et leviers attendus</button>
-    <div class="accordion-content" id="exemples">
-      <p>Exemples d’objectifs et leviers attendus :</p>
+<p><strong>Exemples d’objectifs et leviers attendus :</strong></p>
       <ul>
         <li>accélération de la numérisation ;</li>
         <li>amélioration de la satisfaction des usagers  ;</li>
@@ -68,9 +48,6 @@ Le guichet est ouvert aux :
         <li>amélioration de la performance technique (disponibilité, temps de réponse) ;</li>
         <li>intégration d'APIs de l'État et/ou FranceConnect.</li>
       </ul>
-    </div>
-  </div>
-  </div>
       
 **Taille attendue des projets :**
 <br>Entre 25 000 € et 100 000€ TTC
