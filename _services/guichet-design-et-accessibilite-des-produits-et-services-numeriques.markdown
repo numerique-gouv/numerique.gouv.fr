@@ -14,10 +14,10 @@ La qualité de la relation entre les citoyens et l’administration passe par un
 
 Le présent guichet thématique est dédié à l’amélioration du design, de l’expérience utilisateur des services publics numériques, et de la mise à niveau de leur accessibilité aux personnes en situation de handicap.
 
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Pour qui&nbsp;?</h1>
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
 * **administrations d’État** ;
-* **opérateurs publics**.
+* **opérateurs de l’État**.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 <p>Ce guichet accepte des projets qui ont pour mission d'améliorer la qualité de services en ligne existants ou en construction.</p>
