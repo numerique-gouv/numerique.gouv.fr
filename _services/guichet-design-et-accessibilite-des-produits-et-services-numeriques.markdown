@@ -82,12 +82,12 @@ Les projets lauréats bénéficieront :
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
 <p>Les critères qui permettront de sélectionner les projets et de définir le montant de cofinancement sont les suivants :</p> 
-<ol><li>Importance de la démarche pour les citoyens, entreprises et agents (volumétrie d’usage, etc.) ;</li>
-<li>Existence de marges d’améliorations (documentées et étudiées à l’aune des retours des usagers) de la qualité de la démarche ou du service ;</li>
-<li>Gouvernance et organisation de l’équipe (modalités de priorisation des travaux, façon dont les experts UX /recherche utilisateur / accessibilité sont intégrés à l’équipe projet et aux processus de décision) ;</li>
-<li>Économies budgétaires attendues (via par exemple la baisse des coûts d’assistance aux usagers, la baisse des coûts liée à une plus grande part de dossiers reçus par voie numérique, économies de temps de traitement par des agents) ; </li>
-<li>Mise en place de recherche usager régulière (entretiens individuels téléphoniques ou présentiels, tests d’utilisabilité individuels en ligne ou en présentiel) ;</li>
-<li>Agilité de la démarche, premiers objectifs visés dans des délais courts (< 6 mois). </li></ol>
+<ol><li><strong>Importance de la démarche pour les citoyens, entreprises et agents</strong> (volumétrie d’usage, etc.) ;</li>
+<li><strong>Existence de marges d’améliorations</strong> (documentées et étudiées à l’aune des retours des usagers) de la qualité de la démarche ou du service ;</li>
+<li><strong>Gouvernance et organisation de l’équipe</strong> (modalités de priorisation des travaux, façon dont les experts UX / recherche utilisateur / accessibilité sont intégrés à l’équipe projet et aux processus de décision) ;</li>
+<li><strong>Économies budgétaires attendues</strong> (via par exemple la baisse des coûts d’assistance aux usagers, la baisse des coûts liée à une plus grande part de dossiers reçus par voie numérique, économies de temps de traitement par des agents) ; </li>
+<li><strong>Mise en place de recherche usager régulière</strong> (entretiens individuels téléphoniques ou présentiels, tests d’utilisabilité individuels en ligne ou en présentiel) ;</li>
+<li><strong>Agilité de la démarche, premiers objectifs visés dans des délais courts</strong> (< 6 mois). </li></ol>
 
 
 <p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="marine.boudeau@modernisation.gouv.fr">marine.boudeau@modernisation.gouv.fr</a>
