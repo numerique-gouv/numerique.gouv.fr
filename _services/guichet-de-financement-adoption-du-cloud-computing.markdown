@@ -84,6 +84,7 @@ Entre 25 000 € et 1,5 M€ TTC
 Les projets lauréats bénéficieront :
 <ul><li>D'un <strong>cofinancement</strong> de 50% (maximum) du coût total du projet ;</li>
 <li>50% restant à la charge de l’administration porteuse du projet.</li>
+<br>
 
 <script>
   function myFunction(id) {
