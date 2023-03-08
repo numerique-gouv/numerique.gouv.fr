@@ -12,27 +12,21 @@ chapeau-text: 'Ce guichet thématique, dédié à la montée en compétence num�
   agents de l’État, vise le développement et l’expérimentation de dispositifs apprenants
   en vue de leur déploiement en interministériel via l’offre « Campus du Numérique
   » portée par la DINUM. '
+une:
+  image: "/uploads/Guichet_ftap_campus_Page-fille.png"
 layout: rgaa
 ---
 
-La transformation numérique nécessite que toutes les catégories d’agents de l’État montent en compétence numérique.
+La transformation numérique nécessite que toutes les catégories d’agents de l’État montent en compétence numérique :
+* Les **agents de la filière numérique de l’État**, avec un enjeu propre au numérique : les technologies et pratiques évoluant très vite, des mises à niveau fréquentes sont indispensables ;
+* Les **cadres supérieurs et dirigeants**, dont l’acculturation numérique est nécessaire si l’on souhaite qu’ils soient moteurs dans la transformation numérique et intègrent au plus tôt le numérique, et ses potentialités, dans les politiques publiques portées par les métiers ;
+* L’ensemble des **agents de l’État**, pour leur permettre de s’approprier les évolutions induites par le numérique dans l’exécution de leurs missions.
 
 Ce guichet thématique, dédié à la montée en compétence numérique des agents de l’État, vise le développement et l’expérimentation de dispositifs apprenants en vue de leur déploiement en interministériel via l’offre « Campus du numérique » portée par la DINUM. 
 
 Il s’agit donc de privilégier les dispositifs pour lesquels la mutualisation ou transposition interministérielle est pertinente.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
-Le guichet est ouvert aux :
-* **administrations d’État** ;
-* **opérateurs de l’État**.
-
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Qui est concerné par ce campus du numérique&nbsp;?</h1>
-Cela concerne :
-* Les **agents de la filière numérique de l’État**, avec un enjeu propre au numérique : les technologies et pratiques évoluant très vite, des mises à niveau fréquentes sont indispensables ;
-* Les **cadres supérieurs et dirigeants**, dont l’acculturation numérique est nécessaire si l’on souhaite qu’ils soient moteurs dans la transformation numérique et intègrent au plus tôt le numérique, et ses potentialités, dans les politiques publiques portées par les métiers ;
-* L’ensemble des **agents de l’État**, pour leur permettre de s’approprier les évolutions induites par le numérique dans l’exécution de leurs missions.
-
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Pour qui&nbsp;?</h1>
 Le guichet est ouvert aux :
 * **administrations d’État** (y compris leurs opérateurs de formations) ;
 * **opérateurs de l’État**.
