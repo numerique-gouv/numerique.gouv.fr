@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 17 février 2023
+date_de_modification: 8 mars 2023
 style: |-
   .button {
   background-color: #0d5c98;
@@ -47,10 +47,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 
 * **[Assistant(e) de direction H/F](https://place-emploi-public.gouv.fr/offre-emploi/assistante-de-direction-hf-reference-2023-1109809/ "Assistant(e) de direction H/F - Lien externe")**
 <br>Cadre/Catégorie A
-<br>
-
-* **[Chef du pôle Hypervision (H/F)](https://www.linkedin.com/jobs/view/3359852691/?alternateChannel=search&refId=xlU%2Fj4iVDDaQV8iVw%2FvHaQ%3D%3D&trackingId=hqlQnmcym%2FzHGlrWO2NJYA%3D%3D "Chef du pôle Hypervision (H/F) - Lien externe")**
-<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
 <br>
 
 * **[Chef/fe de mission « Talents du numérique » (H/F)](https://place-emploi-public.gouv.fr/offre-emploi/cheffe-de-mission--talents-du-numerique--hf-reference-2023-1122793/ "Chef/fe de mission « Talents du numérique » (H/F) - Lien externe")**
