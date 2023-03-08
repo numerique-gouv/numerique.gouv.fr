@@ -85,8 +85,11 @@ Entre 25 000 € et 100 000€ TTC
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
-Les projets lauréats bénéficieront :
-<ul> <li>d’un <strong>cofinancement</strong> jusqu’à 50% du coût total du projet, les 50% restant à la charge de l’administration porteuse du projet.</li> <li>ne sont comptabilisés dans le coût total du projet que les coûts de développement spécifiques à l’<strong>accessibilité</strong> ou à l’<strong>amélioration de l’expérience utilisateur</strong>, les coûts de recherche utilisateur.</li> <li>d’<strong>un accompagnement</strong> de la part de la DINUM, lorsque nécessaire&nbsp;.</li></ul>
+Les projets lauréats bénéficieront d’un <strong>cofinancement</strong> jusqu’à 50% du coût total du projet, 50% restant à la charge de l’administration porteuse du projet.
+
+Ne sont comptabilisés dans le coût total du projet que les coûts de développement spécifiques à l’<strong>accessibilité</strong> ou à l’<strong>amélioration de l’expérience utilisateur</strong>, les coûts de recherche utilisateur.
+
+En complément de ce financement, la DINUM pourra, si cela lui semble pertinent, fournir un accompagnement humain additionnel.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
 <p>Les critères qui permettront de sélectionner les projets et de définir le montant de cofinancement sont les suivants :</p> 
