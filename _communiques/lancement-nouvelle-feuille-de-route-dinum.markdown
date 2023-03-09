@@ -31,4 +31,4 @@ files:
 
 **5) Renforcer significativement les compétences numériques au sein de l’État.** La croissance des besoins d’outils numériques ainsi que les potentialités offertes par le numérique pour transformer l’administration se traduisent pour l’État par une exigence forte de disposer des compétences suffisantes en quantité et en qualité. La DINUM endossera le rôle transverse de « DRH de la filière numérique » au service de tous les ministères et animera le renforcement de cette filière en attirant, recrutant et fidélisant les talents du numérique indispensables pour que l’État joue à plein son rôle d’accompagnement de la transition numérique. 
 
-En savoir plus et lire la feuille de route en intégralité
+[En savoir plus et lire la feuille de route en intégralité](https://preprod.numerique.gouv.fr/publications/feuille-de-route-dinum/)
