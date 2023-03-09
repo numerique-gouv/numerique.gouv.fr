@@ -1,6 +1,14 @@
 ---
 title: 'Guichet de financement : Numérique de l’État écoresponsable'
 date: 2023-02-28 15:12:00 +01:00
+published: false
+categories:
+- Guichet de financement
+tags:
+- Numérique écoresponsable
+- Guichet
+- Financement
+- FTAP
 chapeau-text: 'Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez
   un cofinancement pour votre projet en faveur d''un numérique écoresponsable, grâce
   à ce guichet piloté par la DINUM dans le cadre du \[Fonds pour la transformation
@@ -14,6 +22,12 @@ layout: rgaa
 Le numérique écoresponsable est une démarche d’amélioration continue qui vise à améliorer l’empreinte écologique et sociale du numérique.
 
 Les [nombreuses ressources publiées par la MiNumEco](https://ecoresponsable.numerique.gouv.fr/publications/) permettent désormais de passer à l’échelle et d’avoir le plus d’impact (guide des bonnes pratiques, référentiel d’écoconception – RGESN, etc.).
+
+
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
+Le guichet est ouvert aux :
+* **administrations d’État** ;
+* **opérateurs de l’État**.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 Le présent guichet thématique est dédié à stimuler le lancement des projets numériques écoresponsables dans les ministères prenant en compte les grands enjeux autour de ce sujet stratégique qui s’inscrit au cœur de la mise en œuvre des politiques publiques.
