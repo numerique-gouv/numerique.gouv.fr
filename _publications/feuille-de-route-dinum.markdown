@@ -22,7 +22,7 @@ layout: rgaa
 
 <p>Ce nouveau cap est construit autour de quatre priorités, qui figurent dans la feuille de route de la DINUM :</p>
 
-<h1>4 priorités</h1>
+<h1 style="margin-bottom: 0.5em">4 priorités</h1>
 
 <ol><li> <h2 class="h3" style="margin-bottom: 1em; margin-top: 2em">Engager une mutation profonde des organisations publiques pour initier et conduire dans la durée les projets numériques de l’État.</h2> <p>Cela impliquera de mettre en place progressivement des équipes pluridisciplinaires intégrées plutôt que des équipes en silos, proposer des évolutions incrémentales et continues avec des échéances régulières plutôt que des projets annualisés, et exiger des mesures d’impact au fil de l’eau plutôt qu’une approche purement «&nbsp;solutionniste&nbsp;». En complément, il conviendra de s’inspirer de l’approche des «&nbsp;Start-ups d’État&nbsp;» de beta.gouv en privilégiant les expérimentations, les itérations, puis le passage à l’échelle. Cette démarche a su démontrer son efficacité pour créer de nouveaux services numériques innovants. Elle mérite à ce titre d’être mise en œuvre plus largement par toutes les administrations. </p></li>
 
