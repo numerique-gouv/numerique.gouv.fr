@@ -1,6 +1,6 @@
 ---
-title: "Feuille de route de la DINUM - Une stratégie numérique au service de l'efficacité
-  \nde l’action publique"
+title: Feuille de route de la DINUM - Une stratégie numérique au service de l'efficacité
+  de l’action publique
 date: 2023-03-09 10:15:00 +01:00
 categories:
 - Publication
@@ -14,6 +14,7 @@ chapeau-text: La direction interministérielle du numérique (DINUM) a pour miss
   et de la Fonction publiques, sous l’autorité duquel est placée la DINUM, ont souhaité
   lui donner un cap clair et ambitieux pour le numérique public afin qu’il constitue
   un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain.
+layout: rgaa
 ---
 
 Ce cap est construit autour de quatre priorités, qui figurent dans la feuille de route de la DINUM :
