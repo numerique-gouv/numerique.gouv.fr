@@ -5,6 +5,10 @@ une:
   image: "/assets/img/main/image_liste_actualites_2.jpg"
   alternative-textuelle: 
 publications:
+- title: Feuille de route de la DINUM
+  url: "/publications/feuille-de-route-dinum/"
+  une-ou-diaporama:
+  - image: "/uploads/DINUM-feuille-route_visuel-rubrique.png"
 - title: Référentiel général d’amélioration de l’accessibilité (RGAA)
   url: "/publications/rgaa-accessibilite-numerique/"
   une-ou-diaporama:
@@ -59,6 +63,7 @@ publications:
   url: "/publications/interoperabilite"
   une-ou-diaporama:
   - image: "/uploads/Publications_rubrique_1188x802_Interoperabilite.jpg"
+Field name: 
 layout: publications
 ---
 

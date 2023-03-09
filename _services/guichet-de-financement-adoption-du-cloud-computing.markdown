@@ -2,22 +2,38 @@
 title: 'Guichet de financement : Adoption du cloud computing'
 date: 2023-02-28 15:10:00 +01:00
 published: false
-chapeau-text: "Vous êtes une administration d'État ou un opérateur de l'État souhaitant
-  construire, transformer, migrer vos applications vers le Cloud ?\nVous souhaitez
-  dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la
-  maitrise des données sensibles ? \nVous êtes un producteur de services cloud interministériels
-  et souhaitez améliorer votre offre ?"
+categories:
+- Guichet de financement
+tags:
+- Guichet
+- Financement
+- FTAP
+- Cloud
+chapeau-text: Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez
+  un cofinancement pour votre projet visant l'adoption du cloud computing, grâce à
+  ce guichet piloté par la DINUM dans le cadre du [Fonds pour la transformation de
+  l'action publique](https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique
+  "Fonds pour la transformation de l'action publique - Lien externe").
 une:
   image: "/uploads/ILLUSTRATIONS_DINUM%20_cloud%20computing-03-f99bab.png"
 layout: rgaa
 ---
 
-## Ce guichet vous est ouvert et vise à financer vos projets :
-* De construction, transformation et de migrations d’applications vers le cloud
-* D’extension des offres de cloud interne interministériel
-* De mise en œuvre de ressources opérationnelles d’accompagnement de vos équipes.
+Vous êtes une administration d'État ou un opérateur de l'État souhaitant construire, transformer, migrer vos applications vers le Cloud ?
+Vous souhaitez dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la maitrise des données sensibles ? 
+Vous êtes un producteur de services cloud interministériels et souhaitez améliorer votre offre ?
+
+Ce guichet vous est ouvert et vise à financer vos projets :
+* de construction, transformation et de migrations d’applications vers le cloud
+* d’extension des offres de cloud interne interministériel
+* de mise en œuvre de ressources opérationnelles d’accompagnement de vos équipes.
 
 Ce guichet vient en soutien de la mise en œuvre de la doctrine « Cloud au centre » de l’État.
+
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
+Le guichet est ouvert aux :
+* **administrations d’État** ;
+* **opérateurs de l’État**.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 Ce guichet peut être sollicité pour financer deux types d’opérations, éventuellement combinées :
@@ -286,13 +302,13 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
   </div>
   </div>
 
+
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
+
+
 <p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="Infonuage.dinum@modernisation.gouv.fr">Infonuage.dinum@modernisation.gouv.fr</a>
 
-<!--
-<br>
-<br>
-<div class="encadre noir" style="margin-bottom:40px"><a href="/agenda/guichet-data-webinaire-dinformation/" title="Participez à notre webinaire d'information dédié au guichet - Lien interne"><figure class="image-center" style="width: 90%; margin-right: 1em; margin-left: 2em;"> <img src="/uploads/2023_01_16_Webinaire_guichet-data-FTAP_Agenda.jpg" alt="Webinaire d’information - Tout savoir sur le guichet de financement Exploitation et valorisation des données - Lundi 23 janvier, 16h-17h30"> </figure></a> </div>
--->
+
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le Fonds pour la transformation de l’action publique (FTAP)</h3>
 <figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
