@@ -14,19 +14,22 @@ chapeau-text: La direction interministérielle du numérique (DINUM) a pour miss
   et de la Fonction publiques, sous l’autorité duquel est placée la DINUM, ont souhaité
   lui donner un cap clair et ambitieux pour le numérique public afin qu’il constitue
   un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain.
+une-ou-diaporama:
+- image: "/uploads/DINUM-feuille-route_visuel-page-fill.png"
 layout: rgaa
 ---
 
 Ce cap est construit autour de quatre priorités, qui figurent dans la feuille de route de la DINUM :
 
 # 4 PRIORITÉS
+
 1. **Engager une mutation profonde des organisations publiques pour initier et conduire dans la durée les projets numériques de l’État.** 
 Cela impliquera de mettre en place progressivement des équipes pluridisciplinaires intégrées plutôt que des équipes en silos, proposer des évolutions incrémentales et continues avec des échéances régulières plutôt que des projets annualisés, et exiger des mesures d’impact au fil de l’eau plutôt qu’une approche purement « solutionniste ». En complément, il conviendra de s’inspirer de l’approche des « Start-ups d’État » de beta.gouv en privilégiant les expérimentations, les itérations, puis le passage à l’échelle. Cette démarche a su démontrer son efficacité pour créer de nouveaux services numériques innovants. Elle mérite à ce titre d’être mise en œuvre plus largement par toutes les administrations.
 
 2. **Renforcer significativement les compétences numériques au sein de l’État.**
 La croissance des besoins d’outils numériques ainsi que les potentialités offertes par le numérique pour transformer l’administration, les services publics et pour déployer de nouvelles politiques publiques plus efficaces se traduisent pour l’État par une exigence forte de disposer des compétences suffisantes en quantité et en qualité. Attirer, recruter et fidéliser des talents du numérique est un défi qui doit être une priorité pour les années à venir. La transformation des modes de conduite de projets numériques qui consiste à accompagner le volet numérique des politiques publiques, non pas uniquement sous l’angle de leur « dématérialisation », mais en offrant des nouvelles possibilités innovantes inaccessibles sans le numérique, sera également un vecteur d’attractivité des métiers du numérique publics.
  
-3. **Développer l’exploitation effective des données pour un État plus efficace dans son action et plus simple vis-à-vis des citoyens, des entreprises et des agents publics. **
+3. **Développer l’exploitation effective des données pour un État plus efficace dans son action et plus simple vis-à-vis des citoyens, des entreprises et des agents publics.**
 Cette exploitation qui a transformé de nombreux secteurs d’activité privés, des transports à la finance en passant par la grande distribution, n’est pas suffisamment déployée au sein de l’État en dépit des bénéfices certains qu’elle pourrait apporter.
 
 4. **Préserver la souveraineté numérique de l’État en investissant dans des outils numériques mutualisés.**
