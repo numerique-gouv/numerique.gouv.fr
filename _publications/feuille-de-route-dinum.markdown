@@ -1,6 +1,6 @@
 ---
-title: Feuille de route de la DINUM - Une stratégie numérique au service de l'efficacité
-  de l’action publique
+title: "Feuille de route de la DINUM \nUne stratégie numérique au service de l'efficacité
+  de l’action publique"
 date: 2023-03-09 10:15:00 +01:00
 categories:
 - Publication
