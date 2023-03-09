@@ -16,9 +16,7 @@ chapeau-text: La direction interministérielle du numérique (DINUM) a pour miss
   lui donner un cap clair et ambitieux pour le numérique public afin qu’il constitue
   un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain.
 une:
-- image: "/uploads/DINUM-feuille-route_visuel-page-fill.png"
-  legende: 
-  alternative-textuelle: 
+  image: "/uploads/DINUM-feuille-route_visuel-page-fill.png"
 layout: rgaa
 ---
 
