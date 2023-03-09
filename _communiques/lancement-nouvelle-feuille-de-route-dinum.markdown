@@ -16,7 +16,8 @@ une-ou-diaporama:
   alternative-textuelle: Une stratégie numérique au service de l'efficacité de l’action
     publique. Feuille de route de la direction interministérielle du numérique (DINUM)
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_DINUM_NOUVELLE_STRATEGIE_NUMERIQUE_DE_L_ETAT.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 **A l’occasion du Forum de beta.gouv.fr, qui rassemble les membres du réseau des incubateurs de Startups d’État, en présence de Stanislas Guerini, ministre de la Transformation et de la Fonction publiques, qui a pu échanger avec des agents publics engagés dans la transformation numérique de l’État, la nouvelle feuille de route du numérique de l’État confiée à Stéphanie Schaer, directrice interministérielle du numérique, a été rendue publique. Elle fixe un cap clair et ambitieux pour un État plus simple, plus efficace et plus souverain.**
