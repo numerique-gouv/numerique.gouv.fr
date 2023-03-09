@@ -12,6 +12,10 @@ chapeau-text: |-
   La feuille de route de la direction interministérielle du numérique a pour objectif d’accompagner et faire réussir les projets numériques de l’État, au service des priorités gouvernementales et dans un souci d’une amélioration de l’efficacité de l’action publique.
 
   Fruit d’un travail collaboratif associant l’ensemble des parties prenantes du numérique de l’État – directions du numérique, administrateurs ministériels des données, directions d’administration centrale – cette feuille de route prend également en compte les meilleures pratiques du secteur privé comme celles des pays européens.
+une-ou-diaporama:
+- image: "/uploads/DINUM-feuille-route_visuel-article.png"
+  alternative-textuelle: Une stratégie numérique au service de l'efficacité de l’action
+    publique. Feuille de route de la direction interministérielle du numérique (DINUM)
 files:
 - nom: Télécharger le communiqué de presse
 ---
