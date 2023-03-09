@@ -1,6 +1,7 @@
 ---
-title: "Feuille de route de la DINUM \nUne stratégie numérique au service de l'efficacité
-  de l’action publique"
+title: |-
+  Feuille de route de la DINUM -
+  Une stratégie numérique au service de l'efficacité de l’action publique
 date: 2023-03-09 10:15:00 +01:00
 categories:
 - Publication
@@ -14,8 +15,10 @@ chapeau-text: La direction interministérielle du numérique (DINUM) a pour miss
   et de la Fonction publiques, sous l’autorité duquel est placée la DINUM, ont souhaité
   lui donner un cap clair et ambitieux pour le numérique public afin qu’il constitue
   un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain.
-une-ou-diaporama:
+une:
 - image: "/uploads/DINUM-feuille-route_visuel-page-fill.png"
+  legende: 
+  alternative-textuelle: 
 layout: rgaa
 ---
 
@@ -28,7 +31,7 @@ Ce cap est construit autour de quatre priorités, qui figurent dans la feuille d
 
 2. **Renforcer significativement les compétences numériques au sein de l’État.**
 <br>La croissance des besoins d’outils numériques ainsi que les potentialités offertes par le numérique pour transformer l’administration, les services publics et pour déployer de nouvelles politiques publiques plus efficaces se traduisent pour l’État par une exigence forte de disposer des compétences suffisantes en quantité et en qualité. Attirer, recruter et fidéliser des talents du numérique est un défi qui doit être une priorité pour les années à venir. La transformation des modes de conduite de projets numériques qui consiste à accompagner le volet numérique des politiques publiques, non pas uniquement sous l’angle de leur « dématérialisation », mais en offrant des nouvelles possibilités innovantes inaccessibles sans le numérique, sera également un vecteur d’attractivité des métiers du numérique publics.
- 
+
 3. **Développer l’exploitation effective des données pour un État plus efficace dans son action et plus simple vis-à-vis des citoyens, des entreprises et des agents publics.**
 <br>Cette exploitation qui a transformé de nombreux secteurs d’activité privés, des transports à la finance en passant par la grande distribution, n’est pas suffisamment déployée au sein de l’État en dépit des bénéfices certains qu’elle pourrait apporter.
 
