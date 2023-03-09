@@ -2,6 +2,12 @@
 title: "Feuille de route de la DINUM - Une stratégie numérique au service de l'efficacité
   \nde l’action publique"
 date: 2023-03-09 10:15:00 +01:00
+categories:
+- Publication
+tags:
+- Transformation numérique
+- Feuille de route
+- Stratégie
 chapeau-text: La direction interministérielle du numérique (DINUM) a pour mission
   d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. À l’aune
   de ce nouveau quinquennat, la Première ministre et le ministre de la Transformation
@@ -25,4 +31,4 @@ Cette exploitation qui a transformé de nombreux secteurs d’activité privés,
 4. **Préserver la souveraineté numérique de l’État en investissant dans des outils numériques mutualisés.**
 Pour la plupart développés à partir de logiciels libres afin d’assurer la maîtrise, la pérennité et l’indépendance du système d’information de l’État, ces produits numériques peuvent pleinement répondre aux attentes des agents dès lors qu’une masse critique de contributeurs est réunie, qu’elle soit issue de la société civile, d’entreprises ou d’États. Cet investissement mutualisé devra s’appuyer sur la doctrine du numérique public élaborée par la DINUM pour l’État et ses opérateurs et consolidée en lien avec les ministères, qui doit prendre en compte l’accessibilité, l’écoresponsabilité, les problématiques d’identité numérique et le cloud.
 
-<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-exploitation-et-valorisation-des-donnees" class="button" title="Consulter la feuille de route"><b>Consulter la feuille de route</b></a></div>
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="/uploads/Feuille-de-route-DINUM.pdf" class="button" title="Consulter la feuille de route"><b>Consulter la feuille de route</b></a></div>
