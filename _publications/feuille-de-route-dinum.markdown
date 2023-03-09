@@ -21,8 +21,8 @@ une:
 layout: rgaa
 ---
 
-<p><strong>La nouvelle feuille de route de la direction interministérielle du numérique a pour objectif d’accompagner et faire réussir les projets numériques de l’État, au service des priorités gouvernementales et dans un souci d’une amélioration de l’efficacité de l’action publique.</strong></p>
-<p>Ce nouveau cap est construit autour de quatre priorités, qui figurent dans la feuille de route de la DINUM :</p>
+<p><strong>La nouvelle feuille de route de la direction interministérielle du numérique a pour objectif d’accompagner et faire réussir les projets numériques de l’État, au service des priorités gouvernementales et dans un souci d’amélioration de l’efficacité de l’action publique.</strong></p>
+<p>Ce nouveau cap est construit autour de quatre priorités :</p>
 
 <h1 style="margin-bottom: 0.5em">4 priorités</h1>
 
