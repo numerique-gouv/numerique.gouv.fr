@@ -9,17 +9,19 @@ tags:
 - Transformation numérique
 - Feuille de route
 - Stratégie
-chapeau-text: La direction interministérielle du numérique (DINUM) a pour mission
+chapeau-text: 'La direction interministérielle du numérique (DINUM) a pour mission
   d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. À l’aune
   de ce nouveau quinquennat, la Première ministre et le ministre de la Transformation
   et de la Fonction publiques, sous l’autorité duquel est placée la DINUM, ont souhaité
-  lui donner un cap clair et ambitieux pour le numérique public afin qu’il constitue
-  un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain.
+  lui donner un cap clair et ambitieux pour le numérique public. Objectif : faire
+  du numérique un levier puissant pour rendre l’État plus efficace, plus simple et
+  plus souverain. Découvrez la nouvelle feuille de route de la DINUM.'
 une:
   image: "/uploads/DINUM-feuille-route_visuel-page-fill.png"
 layout: rgaa
 ---
 
+<p>La nouvelle feuille de route de la direction interministérielle du numérique a pour objectif d’accompagner et faire réussir les projets numériques de l’État, au service des priorités gouvernementales et dans un souci d’une amélioration de l’efficacité de l’action publique.</p>
 <p>Ce nouveau cap est construit autour de quatre priorités, qui figurent dans la feuille de route de la DINUM :</p>
 
 <h1 style="margin-bottom: 0.5em">4 priorités</h1>
@@ -36,3 +38,5 @@ layout: rgaa
 <p>Pour la plupart développés à partir de logiciels libres afin d’assurer la maîtrise, la pérennité et l’indépendance du système d’information de l’État, ces produits numériques peuvent pleinement répondre aux attentes des agents dès lors qu’une masse critique de contributeurs est réunie, qu’elle soit issue de la société civile, d’entreprises ou d’États. Cet investissement mutualisé devra s’appuyer sur la doctrine du numérique public élaborée par la DINUM pour l’État et ses opérateurs et consolidée en lien avec les ministères, qui doit prendre en compte l’accessibilité, l’écoresponsabilité, les problématiques d’identité numérique et le cloud.</p></li></ol>
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="/uploads/Feuille-de-route-DINUM.pdf" class="button" title="Consulter la feuille de route"><b>Consulter la feuille de route</b></a></div>
+
+<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Une feuille de route coconstruite</h3><p>Fruit d’un travail collaboratif associant l’ensemble des parties prenantes du numérique de l’État – directions du numérique, administrateurs ministériels des données, directions d’administration centrale – cette feuille de route prend également en compte les meilleures pratiques du secteur privé comme celles des pays européens. </p></div>
