@@ -1,7 +1,7 @@
 ---
 title: 'Une stratégie numérique au service de l’efficacité de l’action publique :
   lancement de la nouvelle feuille de route de la direction interministérielle du
-  numérique.'
+  numérique'
 date: 2023-03-09 11:49:00 +01:00
 categories:
 - Communiqué de presse
