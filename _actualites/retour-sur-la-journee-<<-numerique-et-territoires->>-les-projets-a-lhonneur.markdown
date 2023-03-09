@@ -110,7 +110,7 @@ Ces groupes projets ont pour objectif de :
 * Construire un baromètre de la transformation numérique des collectivités territoriales
 * Accompagner les collectivités vers la mise en œuvre d’un numérique écoresponsable
 * Travailler à la transposition de directives européennes en matière d’archivage et de données 
-* Explorer les cadres possibles de mutualisation d’outils numériques entre l’Etat et les collectivités territoriales
+* Explorer les cadres possibles de mutualisation d’outils numériques entre l’État et les collectivités territoriales
 * Poursuivre des travaux pour accompagner l’exploitation de la donnée et la cybersécurité des collectivités territoriales
 
 > Pour suivre les travaux du programme TNT, rendez-vous sur notre espace dédié.
