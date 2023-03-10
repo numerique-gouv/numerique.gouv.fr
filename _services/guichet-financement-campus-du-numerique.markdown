@@ -42,7 +42,7 @@ Le guichet est ouvert aux :
 <li><strong>L’adaptation de formations déjà disponibles</strong> par ailleurs afin de les intégrer dans le Campus du numérique (il peut s’agir d’adaptation de contenus pour rendre une formation adaptée à l’échelle interministérielle, et/ou de l’adaptation de formats techniques d’une formation en ligne) ;</li>
 <li><strong>La construction et l’évolution par la DINUM des outils numériques supportant le Campus du numérique,</strong> ainsi que le référencement et/ou l’intégration par la DINUM de formations préexistantes dans le Campus du numérique.</li>
 </ol> 
-<p>Ne sont pas finançables via le présent guichet :</p>
+<p><strong>Ne sont pas finançables via le présent guichet :</strong></p>
 <ul>
 <li>Les formations à des outils numériques spécifiques à un petit nombre de ministères ;</li>
 <li>Les formations à des outils numériques alternatifs aux offres interministérielles promues par la DINUM.</li>
@@ -53,8 +53,6 @@ Le guichet est ouvert aux :
 
 <p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
 <p>La DINUM pourra également soumettre des projets dans le cadre de ce guichet.</p>
-<br>
-<br>
 
 <h3>Taille attendue des projets :</h3>
 Entre 20 000 € et 300 000€
