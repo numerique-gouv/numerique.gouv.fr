@@ -72,7 +72,7 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
     </div>
   </div>
 
-<ol start="2"><li><strong>L’extension ou de montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO).</strong></li></ol>
+<ol start="2"><li><strong>L’extension ou la montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO).</strong></li></ol>
 
 <script>
   function myFunction(id) {
