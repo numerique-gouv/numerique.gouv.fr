@@ -109,7 +109,7 @@ Les projets lauréats bénéficieront :
 <h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Pour les projets ayant un volet « amélioration de services du Cloud interne »</h2>
 <p>Les dépenses en matériel et en logiciel (licences…) ainsi que le coût des ressources Cloud utilisées pour supporter de nouveaux services ne sont pas prises en charge par le guichet.</p>
 
-<h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Pour les demandes de financement supérieures à 200 000 euros ou s’étalant sur plus de 6 mois</h2>
+<h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Pour les demandes de financement supérieures à 200 000 € ou s’étalant sur plus de 6 mois</h2>
 <p>Pour les demandes de financement supérieures à 200 000 euros ou s’étalant sur plus de 6 mois, le financement sera débloqué par tranches.</p>
 <p>Au terme de chaque jalon de 6 mois, l’équipe se réunira avec l’équipe de pilotage de la DINUM pour :</p>
 <ul><li>Rendre compte de l’impact obtenu sur la période précédente ;</li>
@@ -185,7 +185,7 @@ Les projets lauréats bénéficieront :
 
 <h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Critères de sélection pour les projets incluant un déploiement d’applications dans le Cloud</h2>
 <ol>
-<li><strong>Importance de l’application dans son volume d’usage cible (nombre d’utilisateurs, fréquence d’usage…)</strong></li>
+<li style="margin-bottom: 0.5em;"><strong>Importance de l’application dans son volume d’usage cible</strong> (nombre d’utilisateurs, fréquence d’usage…)</li>
 <li><strong>Bénéfices du projet pour les utilisateurs</strong></li></ol>
 
 <script>
@@ -281,7 +281,7 @@ Les projets lauréats bénéficieront :
   </div>
 </div>
 
-<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Critères de sélection pour les projets incluant une mise à niveau du cloud Interne (adossé sur PI ou NUBO)</h2>
+<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Critères de sélection pour les projets incluant une mise à niveau du cloud Interne (adossé sur PI ou NUBO) :</h2>
 <ol start="5"><li><strong>Qualité de la proposition de valeur pour les clients de l’offre Cloud</strong></li></ol>
 <script>
   function myFunction(id) {
@@ -388,7 +388,7 @@ Les projets lauréats bénéficieront :
     <div class="accordion-content" id="criteres-deploiement-applications-cloud">
       <h2>Les critères de sélection des projets incluant un déploiement d’applications dans le Cloud sont les suivants&nbsp;?</h2>
       <ol>
-        <li><strong>Importance de l’application dans son volume d’usage cible (nombre d’utilisateurs, fréquence d’usage…) ;</strong></li>
+        <li><strong>Importance de l’application dans son volume d’usage cible</strong> (nombre d’utilisateurs, fréquence d’usage…) ;</li>
         <li><strong>Bénéfices du projet pour les utilisateurs :</strong></li></ol>
 <p>Les bénéfices apportés aux métiers utilisant l’application (gains) passent par la réduction des délais de mise à disposition de nouvelles fonctionnalités (réduction du « time to market »), par la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs), par l’amélioration de son niveau de résilience ou par la réduction de son niveau de risques informatiques.</p>
 <ol start="3"><li><strong>Réduction du niveau de risque sur les SI</strong></li></ol>
