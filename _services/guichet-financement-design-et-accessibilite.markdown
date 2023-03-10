@@ -40,15 +40,15 @@ Le guichet est ouvert aux :
 <li>grandes applications ministérielles internes destinées aux agents rentrant dans le top 5 ministériel (dont la liste aura préalablement été communiquée à la DINUM).</li></ul>
 
 <p><strong>Exemples d’objectifs et leviers attendus :</strong></p>
-      <ul>
-        <li>accélération de la numérisation ;</li>
-        <li>amélioration de la satisfaction des usagers  ;</li>
-        <li>suppression d'une démarche à travers son automatisation ;</li>
-        <li>simplification du langage ; </li>
-        <li>mise en conformité au référentiel général d’amélioration de l’accessibilité (RGAA) ;</li>
-        <li>amélioration de la performance technique (disponibilité, temps de réponse) ;</li>
-        <li>intégration d'APIs de l'État et/ou FranceConnect.</li>
-      </ul>
+<ul>
+<li>accélération de la numérisation ;</li>
+<li>amélioration de la satisfaction des usagers  ;</li>
+<li>suppression d'une démarche à travers son automatisation ;</li>
+<li>simplification du langage ; </li>
+<li>mise en conformité au référentiel général d’amélioration de l’accessibilité (RGAA) ;</li>
+<li>amélioration de la performance technique (disponibilité, temps de réponse) ;</li>
+<li>intégration d'APIs de l'État et/ou FranceConnect.</li>
+</ul>
       
 **Taille attendue des projets :**
 <br>Entre 25 000 € et 100 000€ TTC
