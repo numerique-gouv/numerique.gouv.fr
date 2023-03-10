@@ -13,6 +13,8 @@ chapeau-text: 'Vous êtes une administration d’État ou un opérateur de l’�
   à ce guichet piloté par la DINUM dans le cadre du [Fonds pour la transformation
   de l''action publique](https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique
   "Fonds pour la transformation de l''action publique - Lien externe"). '
+une:
+  image: "/uploads/guichet-ftap-numecoresponsable-pagefille.png"
 layout: rgaa
 ---
 
