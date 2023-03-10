@@ -30,6 +30,7 @@ Les [nombreuses ressources publiées par la MiNumEco](https://ecoresponsable.num
 <br>Depuis 2020, le cadre réglementaire a évolué grâce notamment aux lois AGEC (2020 Anti-gaspillage et pour l’économie circulaire), Climat et résilience (2021) et REEN (2021 Réduction de l’empreinte environnementale du numérique). De plus, la circulaire du Premier Ministre publiée en février 2020 vise à mettre en œuvre des services publics écoresponsables. Enfin, en février 2021, le gouvernement proposait aussi une feuille de route interministérielle « Numérique et environnement ». Depuis août 2022, s’est installé le Secrétariat Général à la Planification Écologique (SGPE) et le « numérique écoresponsable » est un des 22 chantiers prioritaires.</p>
 
 <p><strong>Le guichet permettra notamment à l’administration de s’engager durablement sur cette voie en les aidants à passer le cap très concrètement.</strong></p>
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-numerique-ecoresponsable" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
@@ -63,7 +64,7 @@ Les projets lauréats bénéficieront :
 <ul> <li>D’un <strong>cofinancement</strong> jusqu’à 50% du coût total du projet, les 50% restant à la charge de l’administration porteuse du projet.</li> <li>Le taux de cofinancement effectif fera l’objet d’<strong>échanges</strong> en amont avec la DINUM .</li></ul>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
-Les projets seront sélectionnés et le montant de cofinancement défini au regard des critères suivants :
+<p>Les projets seront sélectionnés et le montant de cofinancement défini au regard des critères suivants :</p>
 <ul><li>Évaluation des impacts environnementaux évités (chiffrage des Kg de CO2 économisés, KWh d’électricité économisés, matériaux qui ne seront pas consommés – extraction minières, ressources abiotiques, terres rares -, etc.) ;</li>
 <li>Portage du projet par un agent interne, ayant du temps et une capacité de décision suffisants ;</li>
 <li>Bonne identification et associations des parties prenantes nécessaires au succès du projet  ;</li>
