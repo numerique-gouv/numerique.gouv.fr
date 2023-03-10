@@ -1,7 +1,6 @@
 ---
 title: 'Guichet de financement : Adoption du cloud computing'
 date: 2023-02-28 15:10:00 +01:00
-published: false
 categories:
 - Guichet de financement
 tags:

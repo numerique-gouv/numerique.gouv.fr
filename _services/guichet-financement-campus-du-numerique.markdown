@@ -1,7 +1,6 @@
 ---
 title: 'Guichet de financement : Campus du numérique'
 date: 2023-03-03 11:53:00 +01:00
-published: false
 categories:
 - Guichet de financement
 tags:
