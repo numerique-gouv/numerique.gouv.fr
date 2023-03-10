@@ -180,13 +180,13 @@ Les projets lauréats bénéficieront :
 
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
-Les projets des candidats seront évalués sur la base de cinq à neuf critères.
+<p>Les projets des candidats seront évalués sur la base de cinq à neuf critères.</p>
 
 
 <h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Critères de sélection pour les projets incluant un déploiement d’applications dans le Cloud</h2>
 <ol>
-<li><strong>Importance de l’application dans son volume d’usage cible (nombre d’utilisateurs, fréquence d’usage…) ;</strong></li>
-<li><strong>Bénéfices du projet pour les utilisateurs :</strong></li></ol>
+<li><strong>Importance de l’application dans son volume d’usage cible (nombre d’utilisateurs, fréquence d’usage…)</strong></li>
+<li><strong>Bénéfices du projet pour les utilisateurs</strong></li></ol>
 
 <script>
   function myFunction(id) {
@@ -333,6 +333,36 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
   <div class="accordion-item">
     <button onclick="myFunction('details-justification')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
     <div class="accordion-content" id="details-justification">
+<p>Justification (résultats d’écoute des « clients », expressions de besoins formalisées, engagement d’équipes produits…) que les services sont attendus et seront utilisés  par  un large panel d’équipes/produits utilisatrices, hors du ministère porteur du projet.</p>
+</div>
+</div>
+</div>
+
+<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Critères de sélection valables pour tous les projets </h2>
+<ol start="7">
+<li><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
+<li><strong>Montée en compétence des agents</strong></li>
+<li><strong>Sobriété numérique</strong></li></ol>
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('details-sobriete')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
+    <div class="accordion-content" id="details-sobriete">
 
 
 -------------
@@ -401,7 +431,7 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
         <li><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
         <li><strong>Montée en compétence des agents</strong></li>
         <li><strong>Sobriété numérique</strong></li></ol>
-<p>Impacts du projet sur l’empreinte environnementale : le dossier indiquera le bénéfice estimé lier aux caractéristiques du cloud employé par rapport à une infrastructure conventionnelle, ainsi que les mesures employées destinées à maintenir la consommation de services cloud sous contrôle : tableaux de bord, mode de pilotage, mise en place de bonnes pratiques (élasticité, arrêt des serveurs, etc.).</p>
+<p>Impacts du projet sur l’empreinte environnementale : le dossier indiquera le bénéfice estimé lié aux caractéristiques du cloud employé par rapport à une infrastructure conventionnelle, ainsi que les mesures employées destinées à maintenir la consommation de services cloud sous contrôle : tableaux de bord, mode de pilotage, mise en place de bonnes pratiques (élasticité, arrêt des serveurs, etc.).</p>
 </div>
 </div>
 </div>
