@@ -38,9 +38,9 @@ Le guichet est ouvert aux :
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 <p>Les projets pouvant solliciter un financement pourront porter sur :</p>
 <ol>
-<li>La création (le cas échéant avec expérimentation) de formations ou de parcours de formations interministériels (ou ministériels à condition qu’ils soient interministérialisables). L’ingénierie des formations (conception, production de contenus) et l’animation éventuelle des premières sessions de tests sont réalisées soit en interne, soit avec l’aide de prestataires, soit via l’achat de formations en ligne sur étagère ou la location de licences auprès d’entreprises spécialisées ;</li>
-<li>L’adaptation de formations déjà disponibles par ailleurs  afin de les intégrer dans le Campus du numérique (il peut s’agir d’adaptation de contenus pour rendre une formation adaptée à l’échelle interministérielle, et/ou de l’adaptation de formats techniques d’une formation en ligne) ;</li>
-<li>La construction et l’évolution par la DINUM des outils numériques supportant le Campus du numérique, ainsi que le référencement et/ou l’intégration par la DINUM de formations préexistantes dans le Campus du numérique.</li>
+<li><strong>La création (le cas échéant avec expérimentation) de formations ou de parcours de formations interministériels</strong> (ou ministériels à condition qu’ils soient interministérialisables). L’ingénierie des formations (conception, production de contenus) et l’animation éventuelle des premières sessions de tests sont réalisées soit en interne, soit avec l’aide de prestataires, soit via l’achat de formations en ligne sur étagère ou la location de licences auprès d’entreprises spécialisées ;</li>
+<li><strong>L’adaptation de formations déjà disponibles</strong> par ailleurs afin de les intégrer dans le Campus du numérique (il peut s’agir d’adaptation de contenus pour rendre une formation adaptée à l’échelle interministérielle, et/ou de l’adaptation de formats techniques d’une formation en ligne) ;</li>
+<li><strong>La construction et l’évolution par la DINUM des outils numériques supportant le Campus du numérique,</strong> ainsi que le référencement et/ou l’intégration par la DINUM de formations préexistantes dans le Campus du numérique.</li>
 </ol> 
 <p>Ne sont pas finançables via le présent guichet :</p>
 <ul>
@@ -70,44 +70,13 @@ Les projets lauréats bénéficieront :
 <ul> <li>D’un <strong>cofinancement</strong> jusqu’à 50% du coût total du projet, les 50% restant à la charge de l’administration porteuse du projet.</li> <li>Le taux de cofinancement effectif fera l’objet d’<strong>échanges</strong> en amont avec la DINUM&nbsp;.</li></ul>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
-<p>Plusieurs critères de sélection sont pris en compte :</p>
-
-
-<p>Les projets devront respecter plusieurs principes de qualité : les contenus créés dans le cadre des projets devront être :</p>
-<ul><li>réutilisables et modifiables (licences ouvertes)</li>
-<li>accessibles aux personnes en situation de handicap.</li></ul>
-
-
-<script>
-  function myFunction(id) {
-    let x = document.getElementById(id);
-    let button = document.getElementById("accordion-button");
-
-    if (x.className.indexOf("show") == -1) {
-      x.className += " show";
-      button.className += " is-active"
-    } else {
-      x.className = x.className.replace(" show", "");
-      button.className = button.className.replace(" is-active", "");
-    }
-  }
-
-</script>
-
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
-  <div class="accordion-item">
-    <button onclick="myFunction('criteres-selection')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour les projets</button>
-    <div class="accordion-content" id="criteres-selection">
-      <h2>Les critères de sélection des projets sont les suivants&nbsp;:</h2>
-        <ul><li><strong>Pour les projets de création / adaptation :</strong> estimation de l’impact attendu au regard du nombre d’agents potentiellement concernés, de la complémentarité avec l’offre de formation déjà existante ;</li>
-        <li><strong>Pour les projets de création / adaptation :</strong> adéquation de la formation (au regard des besoins et attentes des agents et managers : satisfaction des agents déjà formés, demandes déjà reçues, besoins collectés…) ;</li>
-        <li><strong>Pour les projets de création / adaptation :</strong> les projets favorisant la transmission de compétences entre pairs au sein de l’administration seront favorisés ;</li>
-        <li><strong>Pour les projets ministériels :</strong> La possibilité de mutualisation ou de transposition interministérielle ; </li>
-        <li>Economies budgétaires générées (par exemple : via le non-recours à des prestations externes pour l’animation de formations, ou via la réduction du recours à des prestations intellectuelles informatiques grâce à de meilleures compétences internes pour pallier aux compétences numériques insuffisantes).</li>
-      </ul>
-    </div>
-  </div>
-  </div>
+<p>Les projets seront sélectionnés et le montant de cofinancement défini au regard des critères suivants :</p>
+<ul><li><strong>Pour les projets de création / adaptation :</strong> estimation de l’impact attendu au regard du nombre d’agents potentiellement concernés, de la complémentarité avec l’offre de formation déjà existante ;</li>
+<li><strong>Pour les projets de création / adaptation :</strong> adéquation de la formation (au regard des besoins et attentes des agents et managers : satisfaction des agents déjà formés, demandes déjà reçues, besoins collectés…) ;</li>
+<li><strong>Pour les projets de création / adaptation :</strong> les projets favorisant la transmission de compétences entre pairs au sein de l’administration seront favorisés ;</li>
+<li><strong>Pour les projets ministériels :</strong> La possibilité de mutualisation ou de transposition interministérielle ; </li>
+<li>Economies budgétaires générées (par exemple : via le non-recours à des prestations externes pour l’animation de formations, ou via la réduction du recours à des prestations intellectuelles informatiques grâce à de meilleures compétences internes pour pallier aux compétences numériques insuffisantes).</li>
+</ul>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Contenu du dossier de candidature</h1>
 Champs du formulaire à remplir :
