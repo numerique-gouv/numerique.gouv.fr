@@ -8,10 +8,13 @@ tags:
 - Financement
 - FTAP
 - Formation
-chapeau-text: 'Ce guichet thématique, dédié à la montée en compétence numérique des
-  agents de l’État, vise le développement et l’expérimentation de dispositifs apprenants
-  en vue de leur déploiement en interministériel via l’offre « Campus du Numérique
-  » portée par la DINUM. '
+chapeau-text: "Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez
+  un cofinancement à travers ce guichet dédié à la montée en compétence numérique
+  des agents de l’État, visant le développement et l’expérimentation de dispositifs
+  apprenants en vue de leur déploiement en interministériel via l’offre « Campus du
+  Numérique » portée par la DINUM. \n<br>Ce guichet thématique est piloté par la DINUM
+  dans le cadre du [Fonds pour la transformation de l'action publique](https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique
+  \"Fonds pour la transformation de l'action publique - Lien externe\")."
 une:
   image: "/uploads/Guichet_ftap_campus_Page-fille.png"
 layout: rgaa
