@@ -75,7 +75,7 @@ Les projets lauréats bénéficieront :
 <li><strong>Pour les projets de création / adaptation :</strong> adéquation de la formation (au regard des besoins et attentes des agents et managers : satisfaction des agents déjà formés, demandes déjà reçues, besoins collectés…) ;</li>
 <li><strong>Pour les projets de création / adaptation :</strong> les projets favorisant la transmission de compétences entre pairs au sein de l’administration seront favorisés ;</li>
 <li><strong>Pour les projets ministériels :</strong> La possibilité de mutualisation ou de transposition interministérielle ; </li>
-<li>Economies budgétaires générées (par exemple : via le non-recours à des prestations externes pour l’animation de formations, ou via la réduction du recours à des prestations intellectuelles informatiques grâce à de meilleures compétences internes pour pallier aux compétences numériques insuffisantes).</li>
+<li><strong>Économies budgétaires générées</strong> (par exemple : via le non-recours à des prestations externes pour l’animation de formations, ou via la réduction du recours à des prestations intellectuelles informatiques grâce à de meilleures compétences internes pour pallier aux compétences numériques insuffisantes).</li>
 </ul>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Contenu du dossier de candidature</h1>
