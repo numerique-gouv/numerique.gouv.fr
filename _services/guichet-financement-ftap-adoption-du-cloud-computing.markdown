@@ -154,7 +154,8 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement de 50% (maximum
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
 <h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Pour les projets comportant un volet « déploiement d’application sur le Cloud » :</h2>
-<ul><li>Au moins 1 indicateur d’impact orienté utilisateur, choisi par le candidat, que la migration vers le Cloud vise à améliorer.</li>
+<ul>
+<li>Au moins 1 indicateur d’impact orienté utilisateur, choisi par le candidat, que la migration vers le Cloud vise à améliorer.</li>
 <li>Au moins 2 ou 3 indicateurs « DevOps » parmi : </li>
  <li>La fréquence des déploiements en production ;</li>
  <li>Le temps de mise à disposition d’une nouvelle fonctionnalité ;</li>
