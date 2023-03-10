@@ -103,6 +103,19 @@ Les projets lauréats bénéficieront :
 <li>50% restant à la charge de l’administration porteuse du projet.</li>
 <br>
 
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelles sont les règles de cofinancement ?</h1>
+<h2 class="h3">Pour les projets ayant un volet « déploiement d’application dans le Cloud »</h2>
+<p>Ne sont comptabilisés dans le coût total du projet que les coûts d’adaptation technique de l’application aux standards du cloud et de son éventuelle migration. Les dépenses en matériel et en logiciel (licences, …) ainsi que le coût des ressources Cloud ne sont pas comptabilisés. Le projet peut comporter des évolutions fonctionnelles sur les applications construites/transformées/migrées mais le coût de ces évolutions ne sera pas intégré dans le coût du projet servant de base au calcul du cofinancement.</p>
+<h2 class="h3">Pour les projets ayant un volet « amélioration de services du Cloud interne »</h2>
+<p>Les dépenses en matériel et en logiciel (licences…) ainsi que le coût des ressources Cloud utilisées pour supporter de nouveaux services ne sont pas prises en charge par le guichet.</p>
+
+<h2 class="h3">Pour les demandes de financement supérieures à 200 000 euros ou s’étalant sur plus de 6 mois</h2>
+<p>Pour les demandes de financement supérieures à 200 000 euros ou s’étalant sur plus de 6 mois, le financement sera débloqué par tranches.</p>
+<p>Au terme de chaque jalon de 6 mois, l’équipe se réunira avec l’équipe de pilotage de la DINUM pour :</p>
+<ul><li>Rendre compte de l’impact obtenu sur la période précédente ;</li>
+<li>Ajuster ou confirmer la stratégie permettant d’atteindre le jalon suivant ;</li>
+<li>Débloquer, avec l’accord de la DINUM, la tranche suivante.</li></ul>
+
 <script>
   function myFunction(id) {
     let x = document.getElementById(id);
