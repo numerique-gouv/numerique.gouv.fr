@@ -42,7 +42,12 @@ Le guichet est ouvert aux :
 <li>L’adaptation de formations déjà disponibles par ailleurs  afin de les intégrer dans le Campus du numérique (il peut s’agir d’adaptation de contenus pour rendre une formation adaptée à l’échelle interministérielle, et/ou de l’adaptation de formats techniques d’une formation en ligne) ;</li>
 <li>La construction et l’évolution par la DINUM des outils numériques supportant le Campus du numérique, ainsi que le référencement et/ou l’intégration par la DINUM de formations préexistantes dans le Campus du numérique.</li>
 </ol> 
-<p>Les projets devront respecter plusieurs principes de qualité : les contenus créés dans le cadre des projets devront être :</p>
+<p>Ne sont pas finançables via le présent guichet :</p>
+<ul>
+<li>Les formations à des outils numériques spécifiques à un petit nombre de ministères ;</li>
+<li>Les formations à des outils numériques alternatifs aux offres interministérielles promues par la DINUM.</li>
+</ul>
+<p><strong>Les projets devront respecter plusieurs principes de qualité,</strong> les contenus créés dans le cadre des projets devront être :</p>
 <ul><li>réutilisables et modifiables (licences ouvertes)</li>
 <li>accessibles aux personnes en situation de handicap.</li></ul>
 
