@@ -238,8 +238,8 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement de 50% (maximum
     <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour tous les projets :</button>
     <div class="accordion-content" id="criteres-pour-tous-projets">
       <ol start="7">
-        <li style="margin-bottom: 1em;">><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
-        <li style="margin-bottom: 1em;">><strong>Montée en compétence des agents</strong></li>
+        <li style="margin-bottom: 1em;"><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
+        <li style="margin-bottom: 1em;"><strong>Montée en compétence des agents</strong></li>
         <li><strong>Sobriété numérique</strong></li></ol>
 <p>Impacts du projet sur l’empreinte environnementale : le dossier indiquera le bénéfice estimé lié aux caractéristiques du cloud employé par rapport à une infrastructure conventionnelle, ainsi que les mesures employées destinées à maintenir la consommation de services cloud sous contrôle : tableaux de bord, mode de pilotage, mise en place de bonnes pratiques (élasticité, arrêt des serveurs, etc.).</p>
 </div>
