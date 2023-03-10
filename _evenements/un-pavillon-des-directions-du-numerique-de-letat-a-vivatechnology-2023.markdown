@@ -1,6 +1,7 @@
 ---
 title: Un pavillon des directions du numérique de l’État à VIVATECHNOLOGY 2023
 date: 2023-03-10 14:47:00 +01:00
+published: false
 categories:
 - Salon
 tags:
