@@ -43,6 +43,101 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
 <br>
 <br>
 
+---------
+Ce guichet peut être sollicité pour financer deux types d’opérations, éventuellement combinées :
+
+1. **Des opérations techniques permettant d’opérer une application dans le Cloud**
+
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('details-operations')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
+    <div class="accordion-content" id="details-operations">
+<p>Cette opération peut être à l’origine de la construction d’une application, de sa transformation, ou de sa migration depuis un autre mode d’hébergement.</p>
+      <p>Ne sont finançables que les opérations visant un hébergement </p>
+      <ul>
+        <li>Parmi les clouds internes interministériels (PI ou NUBO)  ;</li>
+        <li>Ou sur les offres commerciales Cloud immunes au droit extra-communautaire et SecNumCloud, telles que définies par la doctrine « Cloud au centre ».</li>
+      </ul>
+      <p>Pour les cas de migration, les projets peuvent avoir pour socle d’hébergement d’origine des infrastructures physique, une solution Cloud soumise au droit extra-communautaire ou non-SecNumCloud, ou un Cloud interne autre que PI ou NUBO.
+      </p>
+    </div>
+  </div>
+
+2. **L’extension ou de montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO).**
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('details-extension')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
+    <div class="accordion-content" id="details-extension">
+<p>Ces évolutions concernent la création de services qui peuvent par exemple être une usine logicielle (CI/CD…), des services de sécurité (HSM, KMS, Log Lake, …), des services PaaS (BDDaaS, orchestration de containers, OCRaaS, …), amélioration des niveaux/plages de services existants (support 24/7, résilience longue distance).</p>
+<p>La réalité du besoin sur ces évolutions doit se traduire obligatoirement par au moins un engagement signé d’un projet (du ministère, ou d’un ministère tiers) d’utiliser ces services une fois qu’ils seront disponibles.</p>
+    </div>
+  </div>
+    </div>
+<br>
+<br>
+
+3. Des projets combinant les deux types d'opérations
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('details-combines')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
+    <div class="accordion-content" id="details-combines">
+<p>Pour le cas où un dossier déposé comporte les deux types d’opérations, le dossier peut être porté conjointement par deux ministères (le ministère dont les applications sont construites/transformées/migrées sur le Cloud interne, et le ministère offreur de Cloud interne), avec un porteur principal.</p>
+<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés)</strong></p>
+<p>La DINUM peut également recourir à ce guichet pour financer les « squads Cloud ».</p>
+    </div>
+  </div>
+</div>
+
+---------
+
 <h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Détails des projets attendus par type :</h2>
 
 <script>
@@ -204,7 +299,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
 
 <div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('details-benefices')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
+    <button onclick="myFunction('details-benefices')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
     <div class="accordion-content" id="details-benefices">
 <p>Les bénéfices apportés aux métiers utilisant l’application (gains) passent par la réduction des délais de mise à disposition de nouvelles fonctionnalités (réduction du « time to market »), par la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs), par l’amélioration de son niveau de résilience ou par la réduction de son niveau de risques informatiques.</p>
     </div>
@@ -233,7 +328,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
 
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('details-reduction')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
+    <button onclick="myFunction('details-reduction')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
     <div class="accordion-content" id="details-reduction">
 <p>La transformation vers le Cloud-computing impacte le niveau de menaces et les risques SI encourus par un système d’information.</p>
 <p>D’une part, la mutualisation des infrastructures, entre administrations pour les Cloud interministériels et avec d’autres entités pour les Cloud commerciaux, génère de nouvelles menaces qui doivent faire l’objet de contre-mesures adaptées et de risques acceptés avec les interlocuteurs métiers.</p>
@@ -329,7 +424,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
 
 <div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('details-justification')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
+    <button onclick="myFunction('details-justification')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
     <div class="accordion-content" id="details-justification">
 <p>Justification (résultats d’écoute des « clients », expressions de besoins formalisées, engagement d’équipes produits…) que les services sont attendus et seront utilisés  par  un large panel d’équipes/produits utilisatrices, hors du ministère porteur du projet.</p>
 </div>
@@ -359,7 +454,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
 
 <div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('details-sobriete')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
+    <button onclick="myFunction('details-sobriete')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
     <div class="accordion-content" id="details-sobriete">
 <p>Impacts du projet sur l’empreinte environnementale : le dossier indiquera le bénéfice estimé lié aux caractéristiques du cloud employé par rapport à une infrastructure conventionnelle, ainsi que les mesures employées destinées à maintenir la consommation de services cloud sous contrôle : tableaux de bord, mode de pilotage, mise en place de bonnes pratiques (élasticité, arrêt des serveurs, etc.).</p>
 </div>
