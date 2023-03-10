@@ -1,6 +1,7 @@
 ---
 title: 'Guichet de financement : Adoption du cloud computing'
 date: 2023-02-28 15:10:00 +01:00
+published: false
 categories:
 - Guichet de financement
 tags:
@@ -305,7 +306,7 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 
-<p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="Infonuage.dinum@modernisation.gouv.fr">Infonuage.dinum@modernisation.gouv.fr</a>
+<p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="mailto:infonuage.dinum@modernisation.gouv.fr">Infonuage.dinum@modernisation.gouv.fr</a>
 
 
 
