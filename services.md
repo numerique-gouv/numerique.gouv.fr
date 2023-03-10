@@ -43,6 +43,19 @@ publications:
   url: "/services/soumettre-un-grand-projet-numerique-au-dinum-pour-avis/"
   une-ou-diaporama:
   - image: "/uploads/saisine_avis_page-service.png"
+- title: 'Guichet de financement : Design et accessibilité des produits et services
+    numériques'
+  url: "/services/guichet-financement-design-et-accessibilite/"
+  une-ou-diaporama:
+  - image: "/uploads/ILLUSTRATIONS_DINUM%20_Design%20et%20accessibilite%CC%81-02.png"
+- title: 'Guichet de financement : Numérique de l’État écoresponsable'
+  url: "/services/guichet-de-financement-numerique-de-letat-ecoresponsable/"
+  une-ou-diaporama:
+  - image: "/uploads/guichet-ftap-numecoresponsable-rubrique.png"
+- title: 'Guichet de financement : Campus du numérique'
+  url: "/services/guichet-financement-campus-du-numerique/"
+  une-ou-diaporama:
+  - image: "/uploads/ILLUSTRATIONS_DINUM%20_Campus%20du%20Nume%CC%81rique-08.png"
 layout: publications
 ---
 
