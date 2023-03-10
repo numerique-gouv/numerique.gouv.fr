@@ -215,6 +215,127 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
 
 
 
+
+<ol start="3"><li><strong>Réduction du niveau de risque sur les SI</strong></li></ol>
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('details-reduction')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
+    <div class="accordion-content" id="details-reduction">
+<p>La transformation vers le Cloud-computing impacte le niveau de menaces et les risques SI encourus par un système d’information.</p>
+<p>D’une part, la mutualisation des infrastructures, entre administrations pour les Cloud interministériels et avec d’autres entités pour les Cloud commerciaux, génère de nouvelles menaces qui doivent faire l’objet de contre-mesures adaptées et de risques acceptés avec les interlocuteurs métiers.</p>
+<p>D’autre part, les services mis à disposition permettent d’améliorer la posture de sécurité, le niveau de risques et la réactivité en cas d’évènement de sécurité :</p>
+<ul><li>L’amélioration de la résilience du SI est facilitée par la mise à disposition de plateformes d’hébergement Cloud homogènes dans des régions géographiques distinctes, avec du paiement à l’usage permettant d’avoir des coûts de fonctionnement contenus (continuité d’activité, reprise après sinistre majeur) ;</li>
+<li>L’amélioration de la disponibilité du SI est facilitée par la mise à disposition de multiples centres de données, avec des niveaux de redondance et de latences garantis, qui permettent de définir le taux de disponibilité de la solution grâce à l’architecture technique définie et de mécanismes de bascules automatiques ;</li>
+<li>L’automatisation des opérations de maintenance et des actions de détection et de corrections des évènements de sécurité permet de systématiser les contrôles, d’améliorer la réactivité en cas d’incident et d’éliminer les risques d’erreurs humaines sur ces activités ;</li>
+<li>L’intégrité et la conformité des socles techniques peuvent être validées avant leurs démarrages, réduisant les possibilités d’attaques et les erreurs humaines lors des opérations de configuration.</li>
+<li>La gestion de l’obsolescence des composants est prise en charge par le fournisseur de Cloud pour les services consommés dans leurs catalogues. Cela permet une meilleure réactivité en cas d’évènements de sécurité et des charges de gestion plus faibles. De plus, cela évite les projets de traitement de l’obsolescence sur ces services.</li></ul>
+</div>
+</div>
+</div>
+
+<ol start="4"><li><strong>Économies budgétaires engendrées</strong></li></ol>
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('details-economies')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
+    <div class="accordion-content" id="details-economies">
+<p>L’utilisation du Cloud pour une application a plusieurs impacts économiques bénéfiques :</p>
+<ul><li>Le coût de possession d’une application, sur le périmètre du coût des infrastructures et de celui des opérations de maintien en conditions opérationnelles est réduit en moyenne de 30% :</li>
+ <li>Les infrastructures d’hébergements sont mutualisées, mobilisent des composants homogènes peu couteux pour lesquelles les opérations de maintenances sont automatisées. De plus, les services de gestion de l’élasticité, la supervision de l’utilisation des ressources ou l’utilisation de containers permettent également de réduire les volumes consommés en adaptant dynamiquement la capacité à la charge…</li>
+ <li>Les activités de maintiens en conditions opérationnelles peuvent être en grande partie automatisées, avec des possibilités d’auto-remédiation et une fréquence moindre d’incidents.</li>
+<li>Sur le périmètre de la maintenance évolutive et corrective, les services au catalogue des fournisseurs Cloud, avec un haut niveau d’automatisation, de standardisation et scalable  par conception, permettent de réduire les charges de définition, construction et évolution des solutions techniques, pour un gain souvent estimé à 10 ou 15% des coûts d’un projet ;</li>
+<li>Les bénéfices métiers, s’ils sont observables par une plus grande disponibilité du service et une fréquence plus élevée de mise à disposition de services pertinents, ne peuvent donner lieu à une anticipation chiffrée de l’amélioration de la productivité.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<h2 class="h4">Critères de sélection pour les projets incluant une mise à niveau du cloud Interne (adossé sur PI ou NUBO)</h2>
+<ol start="5"><li><strong>Qualité de la proposition de valeur pour les clients de l’offre Cloud</strong></li></ol>
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('details-qualite')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
+    <div class="accordion-content" id="details-qualite">
+<p>Les services développés devront avoir un impact réel sur l’utilisation des offres de cloud interne interministériel, notamment en termes de :</p>
+<ul><li>Gain en réactivité des équipes utilisatrices des services afin d’améliorer la qualité perçu par l’usager du service numérique ;</li>
+        <li>Réduction du niveau de risque sur les SI par l’amélioration de la résilience, de la disponibilité des services, la prise en charges des opérations liées au traitement de leur obsolescence ;</li>
+        <li>Bénéfice économique à utiliser les services développés.</li></ul>
+<p>La cohérence entre les évolutions proposées et l’état de l’art chez les grands offreurs de Cloud externe sera par ailleurs une clé d’appréciation de la pertinence de ces évolutions.</p>
+</div>
+</div>
+</div>
+
+<ol start="6"><li><strong>Justification du « marché » identifié pour les évolutions</strong></li></ol>
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('details-justification')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
+    <div class="accordion-content" id="details-justification">
+
+
+-------------
 <script>
   function myFunction(id) {
     let x = document.getElementById(id);
@@ -249,7 +370,7 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
         <li>L’automatisation des opérations de maintenance et des actions de détection et de corrections des évènements de sécurité permet de systématiser les contrôles, d’améliorer la réactivité en cas d’incident et d’éliminer les risques d’erreurs humaines sur ces activités ;</li>
         <li>L’intégrité et la conformité des socles techniques peuvent être validées avant leurs démarrages, réduisant les possibilités d’attaques et les erreurs humaines lors des opérations de configuration.</li>
 <li>La gestion de l’obsolescence des composants est prise en charge par le fournisseur de Cloud pour les services consommés dans leurs catalogues. Cela permet une meilleure réactivité en cas d’évènements de sécurité et des charges de gestion plus faibles. De plus, cela évite les projets de traitement de l’obsolescence sur ces services.</li></ul>
-<ol start="4"><li><strong>Economies budgétaires engendrées</strong></li></ol>
+<ol start="4"><li><strong>Économies budgétaires engendrées</strong></li></ol>
 <p>L’utilisation du Cloud pour une application a plusieurs impacts économiques bénéfiques :</p>
 <ul><li>Le coût de possession d’une application, sur le périmètre du coût des infrastructures et de celui des opérations de maintien en conditions opérationnelles est réduit en moyenne de 30% :</li>
 <ul><li>Les infrastructures d’hébergements sont mutualisées, mobilisent des composants homogènes peu couteux pour lesquelles les opérations de maintenances sont automatisées. De plus, les services de gestion de l’élasticité, la supervision de l’utilisation des ressources ou l’utilisation de containers permettent également de réduire les volumes consommés en adaptant dynamiquement la capacité à la charge…</li>
