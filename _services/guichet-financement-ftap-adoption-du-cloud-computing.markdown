@@ -145,7 +145,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement de 50% (maximum
 <p>Les dépenses en matériel et en logiciel (licences…) ainsi que le coût des ressources Cloud utilisées pour supporter de nouveaux services ne sont pas prises en charge par le guichet.</p>
 
 <h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Pour les demandes de financement supérieures à 200 000 € ou s’étalant sur plus de 6 mois</h2>
-<p>Pour les demandes de financement supérieures à 200 000 euros ou s’étalant sur plus de 6 mois, le financement sera débloqué par tranches.</p>
+<p>Le financement sera débloqué par tranches.</p>
 <p>Au terme de chaque jalon de 6 mois, l’équipe se réunira avec l’équipe de pilotage de la DINUM pour :</p>
 <ul><li>Rendre compte de l’impact obtenu sur la période précédente ;</li>
 <li>Ajuster ou confirmer la stratégie permettant d’atteindre le jalon suivant ;</li>
