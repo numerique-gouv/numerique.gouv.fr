@@ -19,4 +19,20 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 ### Programme [à venir] :
 #### Des espaces pour découvrir l’action du numérique de l’État :
 <ul><li>Un espace dédié à la présentation des ministères avec les agents publics est prévu.</li>
-<li>Des Startups d’Etat et thématiques seront présentées sur le stand et lors de conférences. Des sujets variés portant sur :
+<li>Des Startups d’Etat et thématiques seront présentées sur le stand et lors de conférences. Des sujets variés portant sur :</li>
+<ul><li>L’inclusion ;</li>
+<li>Le design ;</li>
+<li>L’accessibilité ;</li>
+<li>La data ;</li>
+<li>La circulation des données ;</li>
+<li>La dématérialisation ;</li>
+<li>L’identité numérique ;</li>
+<li>La souveraineté ;</li>
+<li>L’attractivité ;</li>
+<li>La fidélisation des professionnels de la tech.</li></ul>
+<li>Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec vous visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers de la technologie.</li></ul>
+
+## Le RDV européen dédié à l’innovation technologique et aux start-up
+
+Le salon a lieu du 14 au 17 juin 2023 à Paris Expo Porte de Versailles. Les trois premières journées sont consacrées à un public professionnel et la dernière journée est dédiée au grand public. Les services de l’État seront présents pendant les 4 jours.
+
