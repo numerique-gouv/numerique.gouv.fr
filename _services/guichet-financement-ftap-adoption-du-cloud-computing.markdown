@@ -361,6 +361,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
   <div class="accordion-item">
     <button onclick="myFunction('details-sobriete')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
     <div class="accordion-content" id="details-sobriete">
+<p>Impacts du projet sur l’empreinte environnementale : le dossier indiquera le bénéfice estimé lié aux caractéristiques du cloud employé par rapport à une infrastructure conventionnelle, ainsi que les mesures employées destinées à maintenir la consommation de services cloud sous contrôle : tableaux de bord, mode de pilotage, mise en place de bonnes pratiques (élasticité, arrêt des serveurs, etc.).</p>
 </div>
 </div>
 </div>
