@@ -18,16 +18,16 @@ une:
 layout: rgaa
 ---
 
-Vous êtes une administration d'État ou un opérateur de l'État souhaitant construire, transformer, migrer vos applications vers le Cloud ?
-Vous souhaitez dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la maitrise des données sensibles ? 
-Vous êtes un producteur de services cloud interministériels et souhaitez améliorer votre offre ?
+Vous souhaitez construire, transformer, migrer vos applications vers le Cloud ?
+<br>Vous souhaitez dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la maitrise des données sensibles ? 
+<br>Vous êtes un producteur de services cloud interministériels et souhaitez améliorer votre offre ?
 
-Ce guichet vous est ouvert et vise à financer vos projets :
+Ouvert aux administrations d'État et aux opérateurs de l'État, ce guichet vise à financer vos projets :
 * de construction, transformation et de migrations d’applications vers le cloud
 * d’extension des offres de cloud interne interministériel
 * de mise en œuvre de ressources opérationnelles d’accompagnement de vos équipes.
 
-Ce guichet vient en soutien de la mise en œuvre de la doctrine « Cloud au centre » de l’État.
+Ce guichet vient en soutien de la mise en œuvre de [la doctrine « Cloud au centre »](/services/cloud/doctrine/) de l’État.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
@@ -98,9 +98,7 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
-Les projets lauréats bénéficieront :
-<ul><li>D'un <strong>cofinancement</strong> de 50% (maximum) du coût total du projet ;</li>
-<li>50% restant à la charge de l’administration porteuse du projet.</li></ul>
+Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50% (maximum) du coût total du projet, 50% restant à la charge de l’administration porteuse du projet.
 <br>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelles sont les règles de cofinancement ?</h1>
@@ -204,7 +202,7 @@ Les projets lauréats bénéficieront :
 
 </script>
 
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('details-benefices')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
     <div class="accordion-content" id="details-benefices">
@@ -266,7 +264,7 @@ Les projets lauréats bénéficieront :
 
 </script>
 
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('details-economies')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
     <div class="accordion-content" id="details-economies">
@@ -299,7 +297,7 @@ Les projets lauréats bénéficieront :
 
 </script>
 
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('details-qualite')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
     <div class="accordion-content" id="details-qualite">
@@ -329,7 +327,7 @@ Les projets lauréats bénéficieront :
 
 </script>
 
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('details-justification')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
     <div class="accordion-content" id="details-justification">
@@ -359,11 +357,13 @@ Les projets lauréats bénéficieront :
 
 </script>
 
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
     <button onclick="myFunction('details-sobriete')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
     <div class="accordion-content" id="details-sobriete">
-
+</div>
+</div>
+</div>
 
 -------------
 <script>
@@ -436,7 +436,7 @@ Les projets lauréats bénéficieront :
 </div>
 </div>
 
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Formulaire de dépôt et contenu du dossier à déposer</h1>
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Comment déposer et constituer son dossier pour postuler au guichet ?</h1>
 
 <script>
   function myFunction(id) {
