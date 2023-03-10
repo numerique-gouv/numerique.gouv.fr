@@ -63,40 +63,14 @@ Les projets lauréats bénéficieront :
 <ul> <li>D’un <strong>cofinancement</strong> jusqu’à 50% du coût total du projet, les 50% restant à la charge de l’administration porteuse du projet.</li> <li>Le taux de cofinancement effectif fera l’objet d’<strong>échanges</strong> en amont avec la DINUM .</li></ul>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
-Plusieurs critères de sélection sont pris en compte :
-
-<script>
-function myFunction(id) {
-let x = document.getElementById(id);
-let button = document.getElementById("accordion-button");
-
-    if (x.className.indexOf("show") == -1) {
-      x.className += " show";
-      button.className += " is-active"
-    } else {
-      x.className = x.className.replace(" show", "");
-      button.className = button.className.replace(" is-active", "");
-    }
-
-}
-
-</script>
-
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
-<div class="accordion-item">
-<button onclick="myFunction('criteres-selection')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour les projets</button>
-<div class="accordion-content" id="criteres-selection">
-<h2>Les critères de sélection des projets sont les suivants :</h2>
-<ul><li>Evaluation des impacts environnementaux évités (chiffrage des Kg de CO2 économisés, KWh d’électricité économisés, matériaux qui ne seront pas consommés – extraction minières, ressources abiotiques, terres rares -, etc.) ;</li>
+Les projets seront sélectionnés et le montant de cofinancement défini au regard des critères suivants :
+<ul><li>Évaluation des impacts environnementaux évités (chiffrage des Kg de CO2 économisés, KWh d’électricité économisés, matériaux qui ne seront pas consommés – extraction minières, ressources abiotiques, terres rares -, etc.) ;</li>
 <li>Portage du projet par un agent interne, ayant du temps et une capacité de décision suffisants ;</li>
 <li>Bonne identification et associations des parties prenantes nécessaires au succès du projet  ;</li>
 <li>Conformité au RGESN > à 70% s’il s’agit d’un service numérique ; </li>
 <li>Méthode de conduite du projet évitant un effet tunnel, permettant de s’assurer de la viabilité du projet de façon progressive (jalons, tests réguliers, mesure d’impact progressive, pilotes et expérimentations…) ;</li>
 <li>ROI budgétaire (économies réalisées via le projet). </li>
 </ul>
-</div>
-</div>
-</div>
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-numerique-ecoresponsable" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
