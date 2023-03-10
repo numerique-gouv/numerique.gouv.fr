@@ -21,7 +21,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 9h-18h
 - intitule: Accès
-  contenu: Métro (12), Tramway (T2, T3a) et bus (39, 80)
+  contenu: Métro (12), Tramway (T2, T3a) et Bus (39, 80)
 - intitule: Payant
   contenu: Inscription obligatoire
   Key: https://vivatechnology.com/get-your-pass
