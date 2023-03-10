@@ -37,16 +37,7 @@ Le guichet est ouvert aux :
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 Ce guichet peut être sollicité pour financer deux types d’opérations, éventuellement combinées :
 
-1. **Des opérations techniques permettant d’opérer une application dans le Cloud ;**
-
-2. **L’extension ou de montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO).**
-<br>
-<br>
-
----------
-Ce guichet peut être sollicité pour financer deux types d’opérations, éventuellement combinées :
-
-1. **Des opérations techniques permettant d’opérer une application dans le Cloud**
+<ol><li><strong>Des opérations techniques permettant d’opérer une application dans le Cloud</strong></li></ol>
 
 <script>
   function myFunction(id) {
@@ -79,7 +70,8 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
     </div>
   </div>
 
-2. **L’extension ou de montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO).**
+<ol start="2"><li><strong>L’extension ou de montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO).</strong></li></ol>
+
 <script>
   function myFunction(id) {
     let x = document.getElementById(id);
@@ -108,7 +100,7 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
 <br>
 <br>
 
-3. Des projets combinant les deux types d'opérations
+<ol start="3"><li><strong>Des projets combinant les deux types d'opérations</strong></li></ol>
 <script>
   function myFunction(id) {
     let x = document.getElementById(id);
