@@ -169,7 +169,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement de 50% (maximum
 <h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Pour tous les projets :</h2>
 <ul><li>Les économies budgétaires induites ;</li>
 <li>Le nombre d’agents formés et travaillant dans un contexte cloud à l’issue du projet.</li></ul>
-<p>Le ministère porteur principal du dossier assurera la consolidation du reporting associé</p>
+<p>Le ministère porteur principal du dossier assurera la consolidation du reporting associé.</p>
 
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
