@@ -79,10 +79,10 @@ Les projets lauréats bénéficieront :
 </ul>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Contenu du dossier de candidature</h1>
-Champs du formulaire à remplir :
-<ul><li>Réponse à la partie des 5 critères concernée pour le type de projet retenu</li>
+<p>Champs du formulaire à remplir :</p>
+<ul><li>Réponse à la partie des 5 critères concernée pour le type de projet retenu</li></ul>
 <p>Contenu du dossier à joindre :
-<li>Justifier/confirmer code ouvert, livrables en licences ouvertes</li>
+<ul><li>Justifier/confirmer code ouvert, livrables en licences ouvertes</li>
 <li>Justification des efforts sur l’accessibilité handicap (exemple : présence d’une transcription pour les formations audio/vidéo)</li></ul>
 
 
