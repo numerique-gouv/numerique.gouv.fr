@@ -182,6 +182,39 @@ Les projets lauréats bénéficieront :
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
 Les projets des candidats seront évalués sur la base de cinq à neuf critères.
 
+
+<h2 class="h4">Critères de sélection pour les projets incluant un déploiement d’applications dans le Cloud</h2>
+<ol>
+<li><strong>Importance de l’application dans son volume d’usage cible (nombre d’utilisateurs, fréquence d’usage…) ;</strong></li>
+<li><strong>Bénéfices du projet pour les utilisateurs :</strong></li></ol>
+
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('details-benefices')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails :</button>
+    <div class="accordion-content" id="details-benefices">
+<p>Les bénéfices apportés aux métiers utilisant l’application (gains) passent par la réduction des délais de mise à disposition de nouvelles fonctionnalités (réduction du « time to market »), par la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs), par l’amélioration de son niveau de résilience ou par la réduction de son niveau de risques informatiques.</p>
+    </div>
+  </div></div>
+
+
+
+
 <script>
   function myFunction(id) {
     let x = document.getElementById(id);
