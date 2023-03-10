@@ -306,7 +306,7 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 
-<p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="Infonuage.dinum@modernisation.gouv.fr">Infonuage.dinum@modernisation.gouv.fr</a>
+<p style="margin-bottom: 2em; margin-top: 2em;">Une question ? Contactez <a href="mailto:infonuage.dinum@modernisation.gouv.fr">Infonuage.dinum@modernisation.gouv.fr</a>
 
 
 
