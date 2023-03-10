@@ -50,32 +50,12 @@ Le guichet est ouvert aux :
 <p><strong>Les codes sources produits dans le cadre des projets devront être publiés en open source.</strong> Toute la documentation devra elle être en Licence Ouverte.</p>
 <p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
 
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
-<div class="accordion-item">
-<button onclick="myFunction('projets-proactive')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails des projets acceptés</button>
-<div class="accordion-content" id="projets-proactive">
-
-<p><strong>Le guichet permettra notamment à l’administration de s’engager durablement sur cette voie en les aidants à passer le cap très concrètement.</strong></p>
-<p>Les projets des ministères soumis à ce guichet devront permettre :</p>
-<ul>
-<li>1.  Soit de diminuer les besoins en matériels microinformatique (via une meilleure gestion de leur parc informatique, via des outils évitant des besoins d’achat, …) ;</li>
-<li>2.  Soit d’améliorer la  stratégie d’achat pour acheter des matériels plus écoresponsables pour le parc informatique ;</li>
-<li>3.  Soit permettre l’optimisation de la fin de vie et de la fin d’usage (hardware, software, gestion des DEEE - déchets équipements électriques et électroniques, effacement de données permettant de céder les matériels à des tiers) ;</li>
-<li>4.  Soit diminuer l’impact écologique d’un produit numérique à venir via des leviers d’écoconception.</li>
-</ul>
-<p>Les projets devront mesurer leur impact sur l’environnement (Kg de CO2 émis, KWh d’électricité consommée, matériaux consommés – extraction minières, ressources abiotiques, terres rares -, etc.).
-</p>
-<p>Les codes sources produits dans le cadre des projets devront être publiés en open source. Toute la documentation devra elle être en Licence Ouverte.</p>
-<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
-</div>
-</div>
-</div>
+<h3>Taille attendue des projets :</h3>
+Entre 50 000 € et  200 000€
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
 Les projets devront avoir au moins un indicateur impact sur l’environnement (Kg de CO2 économisés, KWh d’électricité économisés, matériaux qui ne seront pas consommés – extraction minières, ressources abiotiques, terres rares -, etc.).
 
-**Taille attendue des projets :**
-Entre 50 000 € et  200 000€
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
