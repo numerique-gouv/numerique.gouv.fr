@@ -181,9 +181,9 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
 <p>Les projets des candidats seront évalués sur la base de cinq à neuf critères.</p>
 
 
-<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Critères de sélection pour les projets incluant un déploiement d’applications dans le Cloud</h2>
+<h2 class="h4" style="margin-bottom: 1em; margin-top: 1.5em">Critères de sélection pour les projets incluant un déploiement d’applications dans le Cloud :</h2>
 <ol>
-<li style="margin-bottom: 0.5em;"><strong>Importance de l’application dans son volume d’usage cible</strong> (nombre d’utilisateurs, fréquence d’usage…)</li>
+<li style="margin-bottom: 1em;"><strong>Importance de l’application dans son volume d’usage cible</strong> (nombre d’utilisateurs, fréquence d’usage…)</li>
 <li><strong>Bénéfices du projet pour les utilisateurs</strong></li></ol>
 
 <script>
@@ -279,7 +279,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
   </div>
 </div>
 
-<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Critères de sélection pour les projets incluant une mise à niveau du cloud Interne (adossé sur PI ou NUBO) :</h2>
+<h2 class="h4" style="margin-bottom: 1em; margin-top: 1.5em">Critères de sélection pour les projets incluant une mise à niveau du cloud Interne (adossé sur PI ou NUBO) :</h2>
 <ol start="5"><li><strong>Qualité de la proposition de valeur pour les clients de l’offre Cloud</strong></li></ol>
 <script>
   function myFunction(id) {
@@ -336,10 +336,10 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
 </div>
 </div>
 
-<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Critères de sélection valables pour tous les projets </h2>
+<h2 class="h4" style="margin-bottom: 1em; margin-top: 1.5em">Critères de sélection valables pour tous les projets :</h2>
 <ol start="7">
-<li><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
-<li><strong>Montée en compétence des agents</strong></li>
+<li style="margin-bottom: 1em;"><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
+<li style="margin-bottom: 1em;"><strong>Montée en compétence des agents</strong></li>
 <li><strong>Sobriété numérique</strong></li></ol>
 <script>
   function myFunction(id) {
@@ -425,7 +425,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
 </div>
 </div>
 <div class="accordion-item">
-    <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour tous les projets</button>
+    <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour tous les projets :</button>
     <div class="accordion-content" id="criteres-pour-tous-projets">
       <ol start="7">
         <li><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
@@ -436,7 +436,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
 </div>
 </div>
 
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Comment déposer et constituer son dossier pour postuler au guichet ?</h1>
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Comment remplir son dossier de candidature ?</h1>
 
 <script>
   function myFunction(id) {
@@ -458,13 +458,13 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
   <div class="accordion-item">
     <button onclick="myFunction('deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les projets incluant un volet « déploiement d’application dans le Cloud »</button>
     <div class="accordion-content" id="deploiement-applications-cloud">
-      <h2>Le dossier doit comporter par application les valeurs actuelles et cibles pour&nbsp;:</h2>
+      <h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Le dossier doit comporter par application les valeurs actuelles et cibles pour&nbsp;:</h2>
       <ul>
         <li>La fréquence des déploiements en production ;</li>
         <li>Le temps de mise à disposition d’une nouvelle fonctionnalité ;</li>
 <li>Le temps de restauration sur incident (RTO) ;</li>
 <li>Le taux de réussite des changements.</li></ul>
-<p>Le dossier doit présenter des arguments relatifs aux critères de sélection :</p>
+<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Le dossier doit présenter des arguments relatifs aux critères de sélection :</h2>
 <ul><li>Importance de l’application dans son volume d’usage cible (nombre d’utilisateurs, fréquence d’usage…) ;</li>
 <li>Bénéfices du projet pour les utilisateurs ;</li>
 <li>Réduction du niveau de risque sur les SI ;</li>
@@ -476,7 +476,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
 <div class="accordion-item">
     <button onclick="myFunction('mise-a-niveau')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Pour les projets incluant un volet de mise à niveau de PI ou Nubo</button>
     <div class="accordion-content" id="mise-a-niveau">
-<p>Le dossier doit présenter des arguments relatifs aux critères de sélection propres à ce volet :</p>
+<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Le dossier doit présenter des arguments relatifs aux critères de sélection propres à ce volet :</h2>
       <ul>
         <li>Qualité de la proposition de valeur pour les clients de l’offre Cloud ;</li>
 <li>Justification du « marché » identifié pour les évolutions ;</li>
@@ -488,7 +488,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
 <div class="accordion-item">
     <button onclick="myFunction('pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour tous les projets</button>
     <div class="accordion-content" id="pour-tous-projets">
-<p>Le dossier doit également présenter :</p>
+<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Le dossier doit également présenter :</h2>
       <ul>
         <li>Le nombre d’agents formés et travaillant dans un contexte cloud à l’issue du projet ;</li>
         <li>L’évaluation économique du projet ;</li>
