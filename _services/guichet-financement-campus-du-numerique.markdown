@@ -56,56 +56,13 @@ Le guichet est ouvert aux :
 <br>
 <br>
 
-<script>
-  function myFunction(id) {
-    let x = document.getElementById(id);
-    let button = document.getElementById("accordion-button");
-
-    if (x.className.indexOf("show") == -1) {
-      x.className += " show";
-      button.className += " is-active"
-    } else {
-      x.className = x.className.replace(" show", "");
-      button.className = button.className.replace(" is-active", "");
-    }
-  }
-
-</script>
-
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
-  <div class="accordion-item">
-    <button onclick="myFunction('projets-selection')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails des projets d'administrations proactive acceptés</button>
-    <div class="accordion-content" id="projets-selection">
-
-      <p>Les projets pouvant solliciter un financement pourront porter sur :</p>
-      <ol>
-        <li><strong>La création (le cas échéant avec expérimentation) de formations ou de parcours de formations interministériels</strong> (ou ministériels à condition qu’ils soient interministérialisables). L’ingénierie des formations (conception, production de contenus) et l’animation éventuelle des premières sessions de tests sont réalisées soit en interne, soit avec l’aide de prestataires, soit via l’achat de formations en ligne sur étagère ou la location de licences auprès d’entreprises spécialisées ;</li>
-        <li><strong>L’adaptation de formations déjà disponibles par ailleurs</strong> afin de les intégrer dans le Campus du numérique (il peut s’agir d’adaptation de contenus pour rendre une formation adaptée à l’échelle interministérielle, et/ou de l’adaptation de formats techniques d’une formation en ligne) ;</li>
-        <li><strong>La construction et l’évolution par la DINUM des outils numériques supportant le Campus du numérique,</strong> ainsi que le référencement et/ou l’intégration par la DINUM de formations préexistantes dans le Campus du numérique.</li>
-      </ol> 
-
-<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
-<p>La DINUM pourra également soumettre des projets dans le cadre de ce guichet.
-      </p>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <button onclick="myFunction('projets-non-finançables')" id="accordion-button" class="accordion-title" aria-controls="projets-non-finançables" aria-expanded="false">Détails des projets non finançables</button>
-    <div class="accordion-content" id="projets-non-finançables">
-      <p>Ne sont pas finançables via le présent guichet :</p>
-      <ul>
-        <li>Les formations à des outils numériques spécifiques à un petit nombre de ministères ;</li>
-        <li>Les formations à des outils numériques alternatifs aux offres interministérielles promues par la DINUM.</li>
-      </ul>
-    </div>
-  </div>
-  </div>
+<h3>Taille attendue des projets :</h3>
+Entre 20 000 € et 300 000€
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
 <ul> <li><strong>Nombre d’agents ciblés, puis effectivement touchés</strong> par les formations ou dispositifs apprenants,  par profil  ;</li> <li>Pour les projets de création/adaptation de contenus de formation : <strong>taux de satisfaction des agents formés</strong> ;</li> <li>Les <strong>économies budgétaires réalisées</strong>&nbsp;.</li></ul>
 
-**Taille attendue des projets :**
-Entre 20 000 € et 300 000€
+
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
