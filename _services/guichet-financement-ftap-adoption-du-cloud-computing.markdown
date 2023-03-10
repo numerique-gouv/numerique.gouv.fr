@@ -122,8 +122,6 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
     <button onclick="myFunction('details-combines')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
     <div class="accordion-content" id="details-combines">
 <p>Pour le cas où un dossier déposé comporte les deux types d’opérations, le dossier peut être porté conjointement par deux ministères (le ministère dont les applications sont construites/transformées/migrées sur le Cloud interne, et le ministère offreur de Cloud interne), avec un porteur principal.</p>
-<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés)</strong></p>
-<p>La DINUM peut également recourir à ce guichet pour financer les « squads Cloud ».</p>
     </div>
   </div>
 </div>
@@ -131,6 +129,9 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
 
 <h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Taille attendue des projets :</h2>
 <p>Entre 25 000 € et 1,5 M€ TTC</p> 
+
+<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés)</strong></p>
+<p>La DINUM peut également recourir à ce guichet pour financer les « squads Cloud ».</p>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
