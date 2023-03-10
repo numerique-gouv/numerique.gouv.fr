@@ -37,18 +37,17 @@ Le guichet est ouvert aux :
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 <p>Les projets pouvant solliciter un financement pourront porter sur :</p>
-      <ol>
-        <li>La création (le cas échéant avec expérimentation) de formations ou de parcours de formations interministériels (ou ministériels à condition qu’ils soient interministérialisables). L’ingénierie des formations (conception, production de contenus) et l’animation éventuelle des premières sessions de tests sont réalisées soit en interne, soit avec l’aide de prestataires, soit via l’achat de formations en ligne sur étagère ou la location de licences auprès d’entreprises spécialisées ;</li>
-        <li>L’adaptation de formations déjà disponibles par ailleurs  afin de les intégrer dans le Campus du numérique (il peut s’agir d’adaptation de contenus pour rendre une formation adaptée à l’échelle interministérielle, et/ou de l’adaptation de formats techniques d’une formation en ligne) ;</li>
-        <li>La construction et l’évolution par la DINUM des outils numériques supportant le Campus du numérique, ainsi que le référencement et/ou l’intégration par la DINUM de formations préexistantes dans le Campus du numérique.</li>
-      </ol> 
+<ol>
+<li>La création (le cas échéant avec expérimentation) de formations ou de parcours de formations interministériels (ou ministériels à condition qu’ils soient interministérialisables). L’ingénierie des formations (conception, production de contenus) et l’animation éventuelle des premières sessions de tests sont réalisées soit en interne, soit avec l’aide de prestataires, soit via l’achat de formations en ligne sur étagère ou la location de licences auprès d’entreprises spécialisées ;</li>
+<li>L’adaptation de formations déjà disponibles par ailleurs  afin de les intégrer dans le Campus du numérique (il peut s’agir d’adaptation de contenus pour rendre une formation adaptée à l’échelle interministérielle, et/ou de l’adaptation de formats techniques d’une formation en ligne) ;</li>
+<li>La construction et l’évolution par la DINUM des outils numériques supportant le Campus du numérique, ainsi que le référencement et/ou l’intégration par la DINUM de formations préexistantes dans le Campus du numérique.</li>
+</ol> 
 <p>Les projets devront respecter plusieurs principes de qualité : les contenus créés dans le cadre des projets devront être :</p>
 <ul><li>réutilisables et modifiables (licences ouvertes)</li>
 <li>accessibles aux personnes en situation de handicap.</li></ul>
 
 <p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
-<p>La DINUM pourra également soumettre des projets dans le cadre de ce guichet.
-      </p>
+<p>La DINUM pourra également soumettre des projets dans le cadre de ce guichet.</p>
 <br>
 <br>
 
