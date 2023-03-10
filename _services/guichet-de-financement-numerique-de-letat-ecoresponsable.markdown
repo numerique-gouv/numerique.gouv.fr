@@ -24,6 +24,12 @@ Le numérique écoresponsable est une démarche d’amélioration continue qui v
 
 Les [nombreuses ressources publiées par la MiNumEco](https://ecoresponsable.numerique.gouv.fr/publications/) permettent désormais de passer à l’échelle et d’avoir le plus d’impact (guide des bonnes pratiques, référentiel d’écoconception – RGESN, etc.).
 
+**Le présent guichet thématique est dédié à stimuler le lancement des projets numériques écoresponsables dans les ministères prenant en compte les grands enjeux autour de ce sujet stratégique qui s’inscrit au cœur de la mise en œuvre des politiques publiques.**
+
+<p>Ces projets permettront de mettre en avant l’exemplarité du service public sur ces thématiques, en répondant à la commande politique, qui est de faire converger transition numérique et transition écologique. 
+<br>Depuis 2020, le cadre réglementaire a évolué grâce notamment aux lois AGEC (2020 Anti-gaspillage et pour l’économie circulaire), Climat et résilience (2021) et REEN (2021 Réduction de l’empreinte environnementale du numérique). De plus, la circulaire du Premier Ministre publiée en février 2020 vise à mettre en œuvre des services publics écoresponsables. Enfin, en février 2021, le gouvernement proposait aussi une feuille de route interministérielle « Numérique et environnement ». Depuis août 2022, s’est installé le Secrétariat Général à la Planification Écologique (SGPE) et le « numérique écoresponsable » est un des 22 chantiers prioritaires.</p>
+
+<p><strong>Le guichet permettra notamment à l’administration de s’engager durablement sur cette voie en les aidants à passer le cap très concrètement.</strong></p>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
@@ -31,27 +37,18 @@ Le guichet est ouvert aux :
 * **opérateurs de l’État**.
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
-Le présent guichet thématique est dédié à stimuler le lancement des projets numériques écoresponsables dans les ministères prenant en compte les grands enjeux autour de ce sujet stratégique qui s’inscrit au cœur de la mise en œuvre des politiques publiques.
-<p>Ces projets permettront de mettre en avant l’exemplarité du service public sur ces thématiques, en répondant à la commande politique, qui est de faire converger transition numérique et transition écologique. Depuis 2020, le cadre réglementaire a évolué grâce notamment aux lois AGEC (2020 Anti-gaspillage et pour l’économie circulaire), Climat et résilience (2021) et REEN (2021 Réduction de l’empreinte environnementale du numérique). De plus, la circulaire du Premier Ministre publiée en février 2020 vise à mettre en œuvre des services publics écoresponsables. Enfin, en février 2021, le gouvernement proposait aussi une feuille de route interministérielle « Numérique et environnement ». Depuis août 2022, s’est installé le Secrétariat Général à la Planification Écologique (SGPE) et le « numérique écoresponsable » est un des 22 chantiers prioritaires.</p>
 
-**Détails des projets attendus :**
-
-<script>
-function myFunction(id) {
-let x = document.getElementById(id);
-let button = document.getElementById("accordion-button");
-
-    if (x.className.indexOf("show") == -1) {
-      x.className += " show";
-      button.className += " is-active"
-    } else {
-      x.className = x.className.replace(" show", "");
-      button.className = button.className.replace(" is-active", "");
-    }
-
-}
-
-</script>
+<p>Les projets des ministères soumis à ce guichet devront permettre :</p>
+<ol>
+<li>Soit de diminuer les besoins en matériels microinformatique (via une meilleure gestion de leur parc informatique, via des outils évitant des besoins d’achat, …) ;</li>
+<li>Soit d’améliorer la  stratégie d’achat pour acheter des matériels plus écoresponsables pour le parc informatique ;</li>
+<li>Soit permettre l’optimisation de la fin de vie et de la fin d’usage (hardware, software, gestion des DEEE - déchets équipements électriques et électroniques, effacement de données permettant de céder les matériels à des tiers) ;</li>
+<li>Soit diminuer l’impact écologique d’un produit numérique à venir via des leviers d’écoconception.</li>
+</ol>
+<p><strong>Les projets devront mesurer leur impact sur l’environnement</strong> (Kg de CO2 émis, KWh d’électricité consommée, matériaux consommés – extraction minières, ressources abiotiques, terres rares -, etc.).
+</p>
+<p><strong>Les codes sources produits dans le cadre des projets devront être publiés en open source.</strong> Toute la documentation devra elle être en Licence Ouverte.</p>
+<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
 
 <div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
 <div class="accordion-item">
