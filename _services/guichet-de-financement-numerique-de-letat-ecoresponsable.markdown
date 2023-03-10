@@ -10,8 +10,8 @@ tags:
 - FTAP
 chapeau-text: 'Vous êtes une administration d’État ou un opérateur de l’État ? Obtenez
   un cofinancement pour votre projet en faveur d''un numérique écoresponsable, grâce
-  à ce guichet piloté par la DINUM dans le cadre du \[Fonds pour la transformation
-  de l''action publique\](https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique
+  à ce guichet piloté par la DINUM dans le cadre du [Fonds pour la transformation
+  de l''action publique](https://www.modernisation.gouv.fr/transformer-laction-publique/fonds-pour-la-transformation-de-laction-publique
   "Fonds pour la transformation de l''action publique - Lien externe"). '
 layout: rgaa
 ---
