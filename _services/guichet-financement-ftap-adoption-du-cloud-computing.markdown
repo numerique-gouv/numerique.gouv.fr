@@ -29,6 +29,8 @@ Ouvert aux administrations d'État et aux opérateurs de l'État, ce guichet vis
 
 Ce guichet vient en soutien de la mise en œuvre de [la doctrine « Cloud au centre »](/services/cloud/doctrine/) de l’État.
 
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
+
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
 * **administrations d’État** ;
@@ -97,8 +99,6 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
     </div>
   </div>
     </div>
-<br>
-<br>
 
 <ol start="3"><li><strong>Des projets combinant les deux types d'opérations</strong></li></ol>
 <script>
@@ -128,57 +128,6 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
   </div>
 </div>
 
----------
-
-<h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Détails des projets attendus par type :</h2>
-
-<script>
-  function myFunction(id) {
-    let x = document.getElementById(id);
-    let button = document.getElementById("accordion-button");
-
-    if (x.className.indexOf("show") == -1) {
-      x.className += " show";
-      button.className += " is-active"
-    } else {
-      x.className = x.className.replace(" show", "");
-      button.className = button.className.replace(" is-active", "");
-    }
-  }
-
-</script>
-
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
-  <div class="accordion-item">
-    <button onclick="myFunction('application-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Des opérations techniques permettant d’opérer une application dans le Cloud</button>
-    <div class="accordion-content" id="application-cloud">
-
-      <p>Cette opération peut être à l’origine de la construction d’une application, de sa transformation, ou de sa migration depuis un autre mode d’hébergement.</p>
-      <p>Ne sont finançables que les opérations visant un hébergement </p>
-      <ul>
-        <li>Parmi les clouds internes interministériels (PI ou NUBO)  ;</li>
-        <li>Ou sur les offres commerciales Cloud immunes au droit extra-communautaire et SecNumCloud, telles que définies par la doctrine « Cloud au centre ».</li>
-      </ul>
-      <p>Pour les cas de migration, les projets peuvent avoir pour socle d’hébergement d’origine des infrastructures physique, une solution Cloud soumise au droit extra-communautaire ou non-SecNumCloud, ou un Cloud interne autre que PI ou NUBO.
-      </p>
-    </div>
-  </div>
-<div class="accordion-item">
-    <button onclick="myFunction('offres-services-Cloud')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">L’extension ou de montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO)</button>
-    <div class="accordion-content" id="offres-services-Cloud">
-      <p>Ces évolutions concernent la création de services qui peuvent par exemple être une usine logicielle (CI/CD, …), des services de sécurité (HSM, KMS, Log Lake, …), des services PaaS (BDDaaS, orchestration de containers, OCRaaS, …), amélioration des niveaux/plages de services existants (support 24/7, résilience longue distance).</p>
-<p>La réalité du besoin sur ces évolutions doit se traduire obligatoirement par au moins un engagement signé d’un projet (du ministère, ou d’un ministère tiers) d’utiliser ces services une fois qu’ils seront disponibles.</p>
-    </div>
-  </div>
-<div class="accordion-item">
-    <button onclick="myFunction('deux-types-operations')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Dossiers qui comportent les deux types d’opérations</button>
-    <div class="accordion-content" id="deux-types-operations">
-      <p>Pour le cas où un dossier déposé comporte les deux types d’opérations, le dossier peut être porté conjointement par deux ministères (le ministère dont les applications sont construites/transformées/migrées sur le Cloud interne, et le ministère offreur de Cloud interne), avec un porteur principal.</p>
-<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés)</strong></p>
-<p>La DINUM peut également recourir à ce guichet pour financer les « squads Cloud ».</p>
-    </div>
-  </div>
-  </div>
 
 <h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Taille attendue des projets :</h2>
 <p>Entre 25 000 € et 1,5 M€ TTC</p> 
@@ -200,49 +149,6 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
 <ul><li>Rendre compte de l’impact obtenu sur la période précédente ;</li>
 <li>Ajuster ou confirmer la stratégie permettant d’atteindre le jalon suivant ;</li>
 <li>Débloquer, avec l’accord de la DINUM, la tranche suivante.</li></ul>
-
-<script>
-  function myFunction(id) {
-    let x = document.getElementById(id);
-    let button = document.getElementById("accordion-button");
-
-    if (x.className.indexOf("show") == -1) {
-      x.className += " show";
-      button.className += " is-active"
-    } else {
-      x.className = x.className.replace(" show", "");
-      button.className = button.className.replace(" is-active", "");
-    }
-  }
-
-</script>
-
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
-  <div class="accordion-item">
-    <button onclick="myFunction('projets-deploiement-application-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les projets ayant un volet « déploiement d’application dans le Cloud »</button>
-    <div class="accordion-content" id="projets-deploiement-application-cloud">
-            <p>Ne sont comptabilisés dans le coût total du projet que les coûts d’adaptation technique de l’application aux standards du cloud et de son éventuelle migration. Les dépenses en matériel et en logiciel (licences, …) ainsi que le coût des ressources Cloud ne sont pas comptabilisés. Le projet peut comporter des évolutions fonctionnelles sur les applications construites/transformées/migrées mais le coût de ces évolutions ne sera pas intégré dans le coût du projet servant de base au calcul du cofinancement.</p>
- </div>
-  </div>
-  <div class="accordion-item">
-    <button onclick="myFunction('projets-amelioration-services-cloud-interne')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Pour les projets ayant un volet « amélioration de services du Cloud interne »</button>
-    <div class="accordion-content" id="projets-amelioration-services-cloud-interne">
-      <p>Les dépenses en matériel et en logiciel (licences, …) ainsi que le coût des ressources Cloud utilisées pour supporter de nouveaux services ne sont pas prises en charge par le guichet.</p>
-    </div>
-  </div>
-<div class="accordion-item">
-    <button onclick="myFunction('demandes-supérieures-200 000 euros-ou-plus-6 mois')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les demandes de financement supérieures à 200 000 euros ou s’étalant sur plus de 6 mois</button>
-    <div class="accordion-content" id="demandes-supérieures-200 000 euros-ou-plus-6 mois">
-      <p>Pour les demandes de financement supérieures à 200 000 euros ou s’étalant sur plus de 6 mois, le financement sera débloqué par tranches.</p>
-<p>Au terme de chaque jalon de 6 mois, l’équipe se réunira avec l’équipe de pilotage de la DINUM pour :</p>
-      <ul>
-        <li>Rendre compte de l’impact obtenu sur la période précédente ;</li>
-        <li>Ajuster ou confirmer la stratégie permettant d’atteindre le jalon suivant ;</li>
-        <li>Débloquer, avec l’accord de la DINUM, la tranche suivante.</li>
-      </ul>
-    </div>
-  </div>
-  </div>
 
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
