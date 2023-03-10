@@ -2,9 +2,32 @@
 title: Un pavillon des directions du numérique de l’État à VIVATECHNOLOGY 2023
 date: 2023-03-10 14:47:00 +01:00
 published: false
+categories:
+- Salon
+tags:
+- Technologie
+- VivaTech
+- Numérique
+- Startups d'Etat
+- Évènement
 chapeau-text: 'VIVATECHNOLOGY 2023 : l’État français présent massivement au salon
   de l’innovation technologique pour faire connaître sa stratégie numérique et recruter
   des professionnels de la tech.'
+event_start_date: 2023-06-14 10:00:00 +02:00
+event_end_date: 2023-06-17 19:00:00 +02:00
+lieu: Paris Expo Porte de Versailles
+adresse: 1 Place de la Porte de Versailles, F-75015 Paris France
+champs_informations:
+- intitule: Horaires
+  contenu: 9h-18h
+- intitule: Accès
+  contenu: Métro (12), Tramway (T2, T3a) et bus (39, 80)
+- intitule: Payant
+  contenu: Inscription obligatoire
+  Key: https://vivatechnology.com/get-your-pass
+- intitule: Plus d'informations
+  contenu: Site internet du salon
+  Key: https://vivatechnology.com/
 ---
 
 Pour la première fois, les directions du numérique de l’État seront présentes à VivaTechnology afin de présenter aux professionnels de la tech et au grand public, ses projets numériques les plus innovants, qui sont autant d’opportunités d’emplois. 
@@ -36,3 +59,6 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 
 Le salon a lieu du 14 au 17 juin 2023 à Paris Expo Porte de Versailles. Les trois premières journées sont consacrées à un public professionnel et la dernière journée est dédiée au grand public. Les services de l’État seront présents pendant les 4 jours.
 
+Alors n’hésitez pas à vous inscrire !
+
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://vivatechnology.com/get-your-pass" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
