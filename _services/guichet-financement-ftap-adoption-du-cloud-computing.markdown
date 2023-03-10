@@ -297,9 +297,8 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
   <div class="accordion-item">
     <button onclick="myFunction('criteres-deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour les projets incluant un déploiement d’applications dans le Cloud</button>
     <div class="accordion-content" id="criteres-deploiement-applications-cloud">
-      <h2>Les critères de sélection des projets incluant un déploiement d’applications dans le Cloud sont les suivants&nbsp;?</h2>
       <ol>
-        <li><strong>Importance de l’application dans son volume d’usage cible</strong> (nombre d’utilisateurs, fréquence d’usage…) ;</li>
+        <li style="margin-bottom: 1em;"><strong>Importance de l’application dans son volume d’usage cible</strong> (nombre d’utilisateurs, fréquence d’usage…) ;</li>
         <li><strong>Bénéfices du projet pour les utilisateurs :</strong></li></ol>
 <p>Les bénéfices apportés aux métiers utilisant l’application (gains) passent par la réduction des délais de mise à disposition de nouvelles fonctionnalités (réduction du « time to market »), par la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs), par l’amélioration de son niveau de résilience ou par la réduction de son niveau de risques informatiques.</p>
 <ol start="3"><li><strong>Réduction du niveau de risque sur les SI</strong></li></ol>
@@ -339,8 +338,8 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50%
     <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour tous les projets :</button>
     <div class="accordion-content" id="criteres-pour-tous-projets">
       <ol start="7">
-        <li><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
-        <li><strong>Montée en compétence des agents</strong></li>
+        <li style="margin-bottom: 1em;">><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
+        <li style="margin-bottom: 1em;">><strong>Montée en compétence des agents</strong></li>
         <li><strong>Sobriété numérique</strong></li></ol>
 <p>Impacts du projet sur l’empreinte environnementale : le dossier indiquera le bénéfice estimé lié aux caractéristiques du cloud employé par rapport à une infrastructure conventionnelle, ainsi que les mesures employées destinées à maintenir la consommation de services cloud sous contrôle : tableaux de bord, mode de pilotage, mise en place de bonnes pratiques (élasticité, arrêt des serveurs, etc.).</p>
 </div>
