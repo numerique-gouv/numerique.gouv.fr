@@ -23,16 +23,15 @@ champs_informations:
   contenu: Métro (12), Tramway (T2, T3a) et Bus (39, 80)
 - intitule: Payant
   contenu: Inscription obligatoire
-  Key: https://vivatechnology.com/get-your-pass
+  lien: https://vivatechnology.com/get-your-pass
 - intitule: Plus d'informations
   contenu: Site internet du salon
-  Key: https://vivatechnology.com/
+  lien: https://vivatechnology.com/
 ---
 
 Pour la première fois, les directions du numérique de l’État seront présentes à VivaTechnology afin de présenter aux professionnels de la tech et au grand public, ses projets numériques les plus innovants, qui sont autant d’opportunités d’emplois. 
 
 Ne manquez pas leur stand lors de l’événement !
-
 ## « Pavillon des directions du numérique de l’État »
 
 ### Qui sont présents ?
@@ -41,6 +40,7 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 ### Programme [à venir] :
 #### Des espaces pour découvrir l’action du numérique de l’État :
 <ul><li>Un espace dédié à la présentation des ministères avec les agents publics est prévu.</li>
+<br>
 <li>Des Startups d’Etat et thématiques seront présentées sur le stand et lors de conférences. Des sujets variés portant sur :</li>
 <ul><li>L’inclusion ;</li>
 <li>Le design ;</li>
@@ -52,6 +52,7 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 <li>La souveraineté ;</li>
 <li>L’attractivité ;</li>
 <li>La fidélisation des professionnels de la tech.</li></ul>
+<br>
 <li>Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec vous visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers de la technologie.</li></ul>
 
 ## Le RDV européen dédié à l’innovation technologique et aux start-up
