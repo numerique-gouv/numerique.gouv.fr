@@ -134,7 +134,7 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
 
-Les projets lauréats bénéficieront d'un <strong>cofinancement</strong> de 50% (maximum) du coût total du projet, 50% restant à la charge de l’administration porteuse du projet.
+Les projets lauréats bénéficieront d'un <strong>cofinancement de 50% (maximum) du coût total du projet,</strong> 50% restant à la charge de l’administration porteuse du projet.
 <br>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelles sont les règles de cofinancement ?</h1>
