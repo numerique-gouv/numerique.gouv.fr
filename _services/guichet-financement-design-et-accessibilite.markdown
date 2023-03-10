@@ -39,7 +39,7 @@ Le guichet est ouvert aux :
 <li>grandes applications interministérielles internes destinées aux les agents ;</li>
 <li>grandes applications ministérielles internes destinées aux agents rentrant dans le top 5 ministériel (dont la liste aura préalablement été communiquée à la DINUM).</li></ul>
 
-<p><strong>Exemples d’objectifs et leviers attendus :</strong></p>
+<h3><strong>Exemples d’objectifs et leviers attendus :</strong></h3>
 <ul>
 <li>accélération de la numérisation ;</li>
 <li>amélioration de la satisfaction des usagers  ;</li>
@@ -49,14 +49,14 @@ Le guichet est ouvert aux :
 <li>amélioration de la performance technique (disponibilité, temps de réponse) ;</li>
 <li>intégration d'APIs de l'État et/ou FranceConnect.</li>
 </ul>
-      
-**Taille attendue des projets :**
-<br>Entre 25 000 € et 100 000€ TTC
+<p>Le guichet pourra en complément financer le commando UX de la DINUM. </p>      
+<h3>Taille attendue des projets :</h3>
+<p>Entre 25 000 € et 100 000€ TTC</p>
 
-
+<h3>Les projets privilégiés</h3>
 <p>La sélection des lauréats priorisera les projets à plus fort impact pour les utilisateurs.</p>
 <p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
-<p>Le guichet pourra en complément financer le commando UX de la DINUM. </p>
+
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
 L'ensemble des projets doivent générer des économies budgétaires et montrer l'amélioration (mesure avant/après) d’au moins un des indicateurs de performance :
