@@ -52,7 +52,7 @@ Le guichet est ouvert aux :
 <p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés).</strong></p>
 
 <h3>Taille attendue des projets :</h3>
-Entre 50 000 € et  200 000€
+Entre 50 000 € et  200 000 €
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
 Les projets devront avoir au moins un indicateur impact sur l’environnement (Kg de CO2 économisés, KWh d’électricité économisés, matériaux qui ne seront pas consommés – extraction minières, ressources abiotiques, terres rares -, etc.).

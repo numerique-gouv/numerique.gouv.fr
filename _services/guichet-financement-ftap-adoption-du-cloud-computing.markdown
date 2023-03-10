@@ -1,7 +1,6 @@
 ---
 title: 'Guichet de financement : Adoption du cloud computing'
 date: 2023-03-10 03:10:00 +01:00
-published: false
 categories:
 - Guichet de financement
 tags:
@@ -19,16 +18,18 @@ une:
 layout: rgaa
 ---
 
-Vous êtes une administration d'État ou un opérateur de l'État souhaitant construire, transformer, migrer vos applications vers le Cloud ?
-Vous souhaitez dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la maitrise des données sensibles ? 
-Vous êtes un producteur de services cloud interministériels et souhaitez améliorer votre offre ?
+Vous souhaitez construire, transformer, migrer vos applications vers le Cloud ?
+<br>Vous souhaitez dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la maitrise des données sensibles ? 
+<br>Vous êtes un producteur de services cloud interministériels et souhaitez améliorer votre offre ?
 
-Ce guichet vous est ouvert et vise à financer vos projets :
+Ouvert aux administrations d'État et aux opérateurs de l'État, ce guichet vise à financer vos projets :
 * de construction, transformation et de migrations d’applications vers le cloud
 * d’extension des offres de cloud interne interministériel
 * de mise en œuvre de ressources opérationnelles d’accompagnement de vos équipes.
 
-Ce guichet vient en soutien de la mise en œuvre de la doctrine « Cloud au centre » de l’État.
+Ce guichet vient en soutien de la mise en œuvre de [la doctrine « Cloud au centre »](/services/cloud/doctrine/) de l’État.
+
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://www.demarches-simplifiees.fr/commencer/guichet-adoption-du-cloud-computing" class="button" title="Déposer votre projet - Lien externe"><b>Déposer votre projet</b></a></div>
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">À qui s'adresse ce guichet&nbsp;?</h1>
 Le guichet est ouvert aux :
@@ -38,12 +39,7 @@ Le guichet est ouvert aux :
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels projets attendus ?</h1>
 Ce guichet peut être sollicité pour financer deux types d’opérations, éventuellement combinées :
 
-1. **Des opérations techniques permettant d’opérer une application dans le Cloud ;**
-
-2. **L’extension ou de montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO).**
-<br>
-<br>
-**Détails des projets attendus par type :**
+<ol><li><strong>Des opérations techniques permettant d’opérer une application dans le Cloud</strong></li></ol>
 
 <script>
   function myFunction(id) {
@@ -61,47 +57,22 @@ Ce guichet peut être sollicité pour financer deux types d’opérations, éven
 
 </script>
 
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('application-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Des opérations techniques permettant d’opérer une application dans le Cloud</button>
-    <div class="accordion-content" id="application-cloud">
-
-      <p>Cette opération peut être à l’origine de la construction d’une application, de sa transformation, ou de sa migration depuis un autre mode d’hébergement.</p>
-      <p>Ne sont finançables que les opérations visant un hébergement </p>
+    <button onclick="myFunction('details-operations')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
+    <div class="accordion-content" id="details-operations">
+<p>Cette opération peut être à l’origine de la construction d’une application, de sa transformation, ou de sa migration depuis un autre mode d’hébergement.</p>
+      <p>Ne sont finançables que les opérations visant un hébergement :</p>
       <ul>
-        <li>Parmi les clouds internes interministériels (PI ou NUBO)  ;</li>
-        <li>Ou sur les offres commerciales Cloud immunes au droit extra-communautaire et SecNumCloud, telles que définies par la doctrine « Cloud au centre ».</li>
+        <li>parmi les clouds internes interministériels (PI ou NUBO)  ;</li>
+        <li>ou sur les offres commerciales Cloud immunes au droit extra-communautaire et SecNumCloud, telles que définies par la doctrine « Cloud au centre ».</li>
       </ul>
       <p>Pour les cas de migration, les projets peuvent avoir pour socle d’hébergement d’origine des infrastructures physique, une solution Cloud soumise au droit extra-communautaire ou non-SecNumCloud, ou un Cloud interne autre que PI ou NUBO.
       </p>
     </div>
   </div>
-<div class="accordion-item">
-    <button onclick="myFunction('offres-services-Cloud')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">L’extension ou de montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO)</button>
-    <div class="accordion-content" id="offres-services-Cloud">
-      <p>Ces évolutions concernent la création de services qui peuvent par exemple être une usine logicielle (CI/CD, …), des services de sécurité (HSM, KMS, Log Lake, …), des services PaaS (BDDaaS, orchestration de containers, OCRaaS, …), amélioration des niveaux/plages de services existants (support 24/7, résilience longue distance).</p>
-<p>La réalité du besoin sur ces évolutions doit se traduire obligatoirement par au moins un engagement signé d’un projet (du ministère, ou d’un ministère tiers) d’utiliser ces services une fois qu’ils seront disponibles.</p>
-    </div>
-  </div>
-<div class="accordion-item">
-    <button onclick="myFunction('deux-types-operations')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Dossiers qui comportent les deux types d’opérations</button>
-    <div class="accordion-content" id="deux-types-operations">
-      <p>Pour le cas où un dossier déposé comporte les deux types d’opérations, le dossier peut être porté conjointement par deux ministères (le ministère dont les applications sont construites/transformées/migrées sur le Cloud interne, et le ministère offreur de Cloud interne), avec un porteur principal.</p>
-<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés)</strong></p>
-<p>La DINUM peut également recourir à ce guichet pour financer les « squads Cloud ».</p>
-    </div>
-  </div>
-  </div>
 
-**Taille attendue des projets :**
-Entre 25 000 € et 1,5 M€ TTC 
-
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
-
-Les projets lauréats bénéficieront :
-<ul><li>D'un <strong>cofinancement</strong> de 50% (maximum) du coût total du projet ;</li>
-<li>50% restant à la charge de l’administration porteuse du projet.</li>
-<br>
+<ol start="2"><li><strong>L’extension ou la montée en qualité des offres de services Cloud interministérielles (donc adossées à PI et/ou NUBO).</strong></li></ol>
 
 <script>
   function myFunction(id) {
@@ -119,55 +90,92 @@ Les projets lauréats bénéficieront :
 
 </script>
 
-<div class="margin-bottom-3 accordion no-bullet" data-allow-all-closed="true">
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
   <div class="accordion-item">
-    <button onclick="myFunction('projets-deploiement-application-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les projets ayant un volet « déploiement d’application dans le Cloud »</button>
-    <div class="accordion-content" id="projets-deploiement-application-cloud">
-            <p>Ne sont comptabilisés dans le coût total du projet que les coûts d’adaptation technique de l’application aux standards du cloud et de son éventuelle migration. Les dépenses en matériel et en logiciel (licences, …) ainsi que le coût des ressources Cloud ne sont pas comptabilisés. Le projet peut comporter des évolutions fonctionnelles sur les applications construites/transformées/migrées mais le coût de ces évolutions ne sera pas intégré dans le coût du projet servant de base au calcul du cofinancement.</p>
- </div>
-  </div>
-  <div class="accordion-item">
-    <button onclick="myFunction('projets-amelioration-services-cloud-interne')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Pour les projets ayant un volet « amélioration de services du Cloud interne »</button>
-    <div class="accordion-content" id="projets-amelioration-services-cloud-interne">
-      <p>Les dépenses en matériel et en logiciel (licences, …) ainsi que le coût des ressources Cloud utilisées pour supporter de nouveaux services ne sont pas prises en charge par le guichet.</p>
+    <button onclick="myFunction('details-extension')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
+    <div class="accordion-content" id="details-extension">
+<p>Ces évolutions concernent la création de services qui peuvent par exemple être une usine logicielle (CI/CD…), des services de sécurité (HSM, KMS, Log Lake…), des services PaaS (BDDaaS, orchestration de containers, OCRaaS…), amélioration des niveaux/plages de services existants (support 24/7, résilience longue distance).</p>
+<p>La réalité du besoin sur ces évolutions doit se traduire obligatoirement par au moins un engagement signé d’un projet (du ministère, ou d’un ministère tiers) d’utiliser ces services une fois qu’ils seront disponibles.</p>
     </div>
   </div>
-<div class="accordion-item">
-    <button onclick="myFunction('demandes-supérieures-200 000 euros-ou-plus-6 mois')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les demandes de financement supérieures à 200 000 euros ou s’étalant sur plus de 6 mois</button>
-    <div class="accordion-content" id="demandes-supérieures-200 000 euros-ou-plus-6 mois">
-      <p>Pour les demandes de financement supérieures à 200 000 euros ou s’étalant sur plus de 6 mois, le financement sera débloqué par tranches.</p>
+    </div>
+
+<ol start="3"><li><strong>Des projets combinant les deux types d'opérations</strong></li></ol>
+<script>
+  function myFunction(id) {
+    let x = document.getElementById(id);
+    let button = document.getElementById("accordion-button");
+
+    if (x.className.indexOf("show") == -1) {
+      x.className += " show";
+      button.className += " is-active"
+    } else {
+      x.className = x.className.replace(" show", "");
+      button.className = button.className.replace(" is-active", "");
+    }
+  }
+
+</script>
+
+<div class="margin-bottom-1 accordion no-bullet" data-allow-all-closed="true">
+  <div class="accordion-item">
+    <button onclick="myFunction('details-combines')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Détails</button>
+    <div class="accordion-content" id="details-combines">
+<p>Pour le cas où un dossier déposé comporte les deux types d’opérations, le dossier peut être porté conjointement par deux ministères (le ministère dont les applications sont construites/transformées/migrées sur le Cloud interne, et le ministère offreur de Cloud interne), avec un porteur principal.</p>
+    </div>
+  </div>
+</div>
+
+
+<h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Taille attendue des projets :</h2>
+<p>Entre 25 000 € et 1,5 M€ TTC</p> 
+
+<p>Pour limiter les risques d'effet tunnel, <strong>les projets soumis seront privilégiés s’ils sont capables de produire de l'impact réel en moins de 6 mois (le cas échéant de manière expérimentale, puis incrémentale pour être généralisés)</strong></p>
+<p>La DINUM peut également recourir à ce guichet pour financer les « squads Cloud ».</p>
+
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">De quoi bénéficiera le lauréat ?</h1>
+
+Les projets lauréats bénéficieront d'un <strong>cofinancement de 50% (maximum) du coût total du projet,</strong> 50% restant à la charge de l’administration porteuse du projet.
+<br>
+
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quelles sont les règles de cofinancement ?</h1>
+<h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Pour les projets ayant un volet « déploiement d’application dans le Cloud »</h2>
+<p>Ne sont comptabilisés dans le coût total du projet que les coûts d’adaptation technique de l’application aux standards du cloud et de son éventuelle migration. Les dépenses en matériel et en logiciel (licences, …) ainsi que le coût des ressources Cloud ne sont pas comptabilisés. Le projet peut comporter des évolutions fonctionnelles sur les applications construites/transformées/migrées mais le coût de ces évolutions ne sera pas intégré dans le coût du projet servant de base au calcul du cofinancement.</p>
+<h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Pour les projets ayant un volet « amélioration de services du Cloud interne »</h2>
+<p>Les dépenses en matériel et en logiciel (licences…) ainsi que le coût des ressources Cloud utilisées pour supporter de nouveaux services ne sont pas prises en charge par le guichet.</p>
+
+<h2 style="margin-bottom: 0.5em; margin-top: 1.5em" class="h4">Pour les demandes de financement supérieures à 200 000 € ou s’étalant sur plus de 6 mois</h2>
+<p>Le financement sera débloqué par tranches.</p>
 <p>Au terme de chaque jalon de 6 mois, l’équipe se réunira avec l’équipe de pilotage de la DINUM pour :</p>
-      <ul>
-        <li>Rendre compte de l’impact obtenu sur la période précédente ;</li>
-        <li>Ajuster ou confirmer la stratégie permettant d’atteindre le jalon suivant ;</li>
-        <li>Débloquer, avec l’accord de la DINUM, la tranche suivante.</li>
-      </ul>
-    </div>
-  </div>
-  </div>
+<ul><li>rendre compte de l’impact obtenu sur la période précédente ;</li>
+<li>ajuster ou confirmer la stratégie permettant d’atteindre le jalon suivant ;</li>
+<li>débloquer, avec l’accord de la DINUM, la tranche suivante.</li></ul>
 
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
-Pour les projets comportant un volet « déploiement d’application sur le Cloud » :
-Au moins 1 indicateur d’impact orienté utilisateur, choisi par le candidat, que la migration vers le Cloud vise à améliorer.
-Au moins 2 ou 3 indicateurs « DevOps » parmi : 
-<ul><li>La fréquence des déploiements en production ;</li>
-<li>Le temps de mise à disposition d’une nouvelle fonctionnalité ;</li>
-<li>Le temps de restauration sur incident (RTO) ;</li>
-<li>Le taux de réussite des changements.</li></ul>
-<br>
-<p>Pour les projets impliquant des évolutions de services du Cloud interne (adossés à PI ou Nubo) :</p>
+<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Pour les projets comportant un volet « déploiement d’application sur le Cloud » :</h2>
+<ul>
+<li>Au moins 1 indicateur d’impact orienté utilisateur, choisi par le candidat, que la migration vers le Cloud vise à améliorer.</li>
+<li>Au moins 2 ou 3 indicateurs « DevOps » parmi : </li>
+ <li>La fréquence des déploiements en production ;</li>
+ <li>Le temps de mise à disposition d’une nouvelle fonctionnalité ;</li>
+ <li>Le temps de restauration sur incident (RTO) ;</li>
+ <li>Le taux de réussite des changements.</li></ul>
+
+<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Pour les projets impliquant des évolutions de services du Cloud interne (adossés à PI ou Nubo) :</h2>
 <ul><li>Volumes d’utilisation des services dans le temps;</li>
 <li>Au moins un indicateur mesurant les bénéfices qualitatifs.</li></ul>
-<br>
-<p>Pour tous les projets :</p>
+
+<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Pour tous les projets :</h2>
 <ul><li>Les économies budgétaires induites ;</li>
 <li>Le nombre d’agents formés et travaillant dans un contexte cloud à l’issue du projet.</li></ul>
-<p>Le ministère porteur principal du dossier assurera la consolidation du reporting associé</p>
+<p>Le ministère porteur principal du dossier assurera la consolidation du reporting associé.</p>
 
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les critères de sélection (et de choix du montant de cofinancement) ?</h1>
-Les projets des candidats seront évalués sur la base de cinq à neuf critères.
+<p>Les projets des candidats seront évalués sur la base de cinq à neuf critères, selon le type de projet :</p>
+
+
 
 <script>
   function myFunction(id) {
@@ -189,9 +197,8 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
   <div class="accordion-item">
     <button onclick="myFunction('criteres-deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour les projets incluant un déploiement d’applications dans le Cloud</button>
     <div class="accordion-content" id="criteres-deploiement-applications-cloud">
-      <h2>Les critères de sélection des projets incluant un déploiement d’applications dans le Cloud sont les suivants&nbsp;?</h2>
       <ol>
-        <li><strong>Importance de l’application dans son volume d’usage cible (nombre d’utilisateurs, fréquence d’usage…) ;</strong></li>
+        <li style="margin-bottom: 1em;"><strong>Importance de l’application dans son volume d’usage cible</strong> (nombre d’utilisateurs, fréquence d’usage…) ;</li>
         <li><strong>Bénéfices du projet pour les utilisateurs :</strong></li></ol>
 <p>Les bénéfices apportés aux métiers utilisant l’application (gains) passent par la réduction des délais de mise à disposition de nouvelles fonctionnalités (réduction du « time to market »), par la robustesse accrue de l’application (taux de disponibilité plus élevé et productivité des agents ou utilisateurs), par l’amélioration de son niveau de résilience ou par la réduction de son niveau de risques informatiques.</p>
 <ol start="3"><li><strong>Réduction du niveau de risque sur les SI</strong></li></ol>
@@ -203,11 +210,11 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
         <li>L’automatisation des opérations de maintenance et des actions de détection et de corrections des évènements de sécurité permet de systématiser les contrôles, d’améliorer la réactivité en cas d’incident et d’éliminer les risques d’erreurs humaines sur ces activités ;</li>
         <li>L’intégrité et la conformité des socles techniques peuvent être validées avant leurs démarrages, réduisant les possibilités d’attaques et les erreurs humaines lors des opérations de configuration.</li>
 <li>La gestion de l’obsolescence des composants est prise en charge par le fournisseur de Cloud pour les services consommés dans leurs catalogues. Cela permet une meilleure réactivité en cas d’évènements de sécurité et des charges de gestion plus faibles. De plus, cela évite les projets de traitement de l’obsolescence sur ces services.</li></ul>
-<ol start="4"><li><strong>Economies budgétaires engendrées</strong></li></ol>
+<ol start="4"><li><strong>Économies budgétaires engendrées</strong></li></ol>
 <p>L’utilisation du Cloud pour une application a plusieurs impacts économiques bénéfiques :</p>
 <ul><li>Le coût de possession d’une application, sur le périmètre du coût des infrastructures et de celui des opérations de maintien en conditions opérationnelles est réduit en moyenne de 30% :</li>
 <ul><li>Les infrastructures d’hébergements sont mutualisées, mobilisent des composants homogènes peu couteux pour lesquelles les opérations de maintenances sont automatisées. De plus, les services de gestion de l’élasticité, la supervision de l’utilisation des ressources ou l’utilisation de containers permettent également de réduire les volumes consommés en adaptant dynamiquement la capacité à la charge…</li>
-<li>Les activités de maintiens en conditions opérationnelles peuvent être en grande partie automatisées, avec des possibilités d’auto-remédiation et une fréquence moindre d’incidents.</li></ul>
+<li>Les activités de maintien en conditions opérationnelles peuvent être en grande partie automatisées, avec des possibilités d’auto-remédiation et une fréquence moindre d’incidents.</li></ul>
 <li>Sur le périmètre de la maintenance évolutive et corrective, les services au catalogue des fournisseurs Cloud, avec un haut niveau d’automatisation, de standardisation et scalable  par conception, permettent de réduire les charges de définition, construction et évolution des solutions techniques, pour un gain souvent estimé à 10 ou 15% des coûts d’un projet ;</li>
 <li>Les bénéfices métiers, s’ils sont observables par une plus grande disponibilité du service et une fréquence plus élevée de mise à disposition de services pertinents, ne peuvent donner lieu à une anticipation chiffrée de l’amélioration de la productivité.</li>
       </ul>
@@ -219,27 +226,27 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
       <ol start="5">
         <li><strong>Qualité de la proposition de valeur pour les clients de l’offre Cloud</strong></li></ol>
 <p>Les services développés devront avoir un impact réel sur l’utilisation des offres de cloud interne interministériel, notamment en termes de :</p>
-<ul><li>Gain en réactivité des équipes utilisatrices des services afin d’améliorer la qualité perçu par l’usager du service numérique ;</li>
-        <li>Réduction du niveau de risque sur les SI par l’amélioration de la résilience, de la disponibilité des services, la prise en charges des opérations liées au traitement de leur obsolescence ;</li>
-        <li>Bénéfice économique à utiliser les services développés.</li></ul>
+<ul><li>gain en réactivité des équipes utilisatrices des services afin d’améliorer la qualité perçu par l’usager du service numérique ;</li>
+<li>réduction du niveau de risque sur les SI par l’amélioration de la résilience, de la disponibilité des services, la prise en charges des opérations liées au traitement de leur obsolescence ;</li>
+<li>bénéfice économique à utiliser les services développés.</li></ul>
 <p>La cohérence entre les évolutions proposées et l’état de l’art chez les grands offreurs de Cloud externe sera par ailleurs une clé d’appréciation de la pertinence de ces évolutions.</p>
 <ol start="6"><li><strong>Justification du « marché » identifié pour les évolutions</strong></li></ol>
 <p>Justification (résultats d’écoute des « clients », expressions de besoins formalisées, engagement d’équipes produits…) que les services sont attendus et seront utilisés  par  un large panel d’équipes/produits utilisatrices, hors du ministère porteur du projet.</p>
 </div>
 </div>
 <div class="accordion-item">
-    <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour tous les projets</button>
+    <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour tous les projets :</button>
     <div class="accordion-content" id="criteres-pour-tous-projets">
       <ol start="7">
-        <li><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
-        <li><strong>Montée en compétence des agents</strong></li>
+        <li style="margin-bottom: 1em;"><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
+        <li style="margin-bottom: 1em;"><strong>Montée en compétence des agents</strong></li>
         <li><strong>Sobriété numérique</strong></li></ol>
-<p>Impacts du projet sur l’empreinte environnementale : le dossier indiquera le bénéfice estimé lier aux caractéristiques du cloud employé par rapport à une infrastructure conventionnelle, ainsi que les mesures employées destinées à maintenir la consommation de services cloud sous contrôle : tableaux de bord, mode de pilotage, mise en place de bonnes pratiques (élasticité, arrêt des serveurs, etc.).</p>
+<p>Impacts du projet sur l’empreinte environnementale : le dossier indiquera le bénéfice estimé lié aux caractéristiques du cloud employé par rapport à une infrastructure conventionnelle, ainsi que les mesures employées destinées à maintenir la consommation de services cloud sous contrôle : tableaux de bord, mode de pilotage, mise en place de bonnes pratiques (élasticité, arrêt des serveurs, etc.).</p>
 </div>
 </div>
 </div>
 
-<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Formulaire de dépôt et contenu du dossier à déposer</h1>
+<h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Comment remplir son dossier de candidature ?</h1>
 
 <script>
   function myFunction(id) {
@@ -261,13 +268,13 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
   <div class="accordion-item">
     <button onclick="myFunction('deploiement-applications-cloud')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour les projets incluant un volet « déploiement d’application dans le Cloud »</button>
     <div class="accordion-content" id="deploiement-applications-cloud">
-      <h2>Le dossier doit comporter par application les valeurs actuelles et cibles pour&nbsp;:</h2>
+      <h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Le dossier doit comporter par application les valeurs actuelles et cibles pour&nbsp;:</h2>
       <ul>
         <li>La fréquence des déploiements en production ;</li>
         <li>Le temps de mise à disposition d’une nouvelle fonctionnalité ;</li>
 <li>Le temps de restauration sur incident (RTO) ;</li>
 <li>Le taux de réussite des changements.</li></ul>
-<p>Le dossier doit présenter des arguments relatifs aux critères de sélection :</p>
+<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Le dossier doit présenter des arguments relatifs aux critères de sélection :</h2>
 <ul><li>Importance de l’application dans son volume d’usage cible (nombre d’utilisateurs, fréquence d’usage…) ;</li>
 <li>Bénéfices du projet pour les utilisateurs ;</li>
 <li>Réduction du niveau de risque sur les SI ;</li>
@@ -279,7 +286,7 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
 <div class="accordion-item">
     <button onclick="myFunction('mise-a-niveau')" id="accordion-button" class="accordion-title" aria-controls="projets-mise-a-dispo" aria-expanded="false">Pour les projets incluant un volet de mise à niveau de PI ou Nubo</button>
     <div class="accordion-content" id="mise-a-niveau">
-<p>Le dossier doit présenter des arguments relatifs aux critères de sélection propres à ce volet :</p>
+<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Le dossier doit présenter des arguments relatifs aux critères de sélection propres à ce volet :</h2>
       <ul>
         <li>Qualité de la proposition de valeur pour les clients de l’offre Cloud ;</li>
 <li>Justification du « marché » identifié pour les évolutions ;</li>
@@ -291,7 +298,7 @@ Les projets des candidats seront évalués sur la base de cinq à neuf critères
 <div class="accordion-item">
     <button onclick="myFunction('pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Pour tous les projets</button>
     <div class="accordion-content" id="pour-tous-projets">
-<p>Le dossier doit également présenter :</p>
+<h2 class="h4" style="margin-bottom: 0.5em; margin-top: 1.5em">Le dossier doit également présenter :</h2>
       <ul>
         <li>Le nombre d’agents formés et travaillant dans un contexte cloud à l’issue du projet ;</li>
         <li>L’évaluation économique du projet ;</li>

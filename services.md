@@ -10,6 +10,10 @@ publications:
   url: "/services/guichet-financement-ftap-design-et-accessibilite/"
   une-ou-diaporama:
   - image: "/uploads/ILLUSTRATIONS_DINUM%20_Design%20et%20accessibilite%CC%81-02.png"
+- title: 'Guichet de financement : Adoption du cloud computing'
+  url: "/services/guichet-financement-ftap-adoption-du-cloud-computing/ "
+  une-ou-diaporama:
+  - image: "/uploads/ILLUSTRATIONS_DINUM%20_cloud%20computing%20-05.png"
 - title: 'Guichet de financement : Numérique de l’État écoresponsable'
   url: "/services/guichet-financement-ftap-numerique-ecoresponsable/"
   une-ou-diaporama:
@@ -21,7 +25,7 @@ publications:
 - title: 'Guichet de financement : Exploitation et valorisation des données'
   url: "/services/guichet-financement-exploitation-valorisation-des-donnees/"
   une-ou-diaporama:
-  - image: "/uploads/Guichet-DATA_rubrique_Services_740x500-ftap.png"
+  - image: "/uploads/Guichet-DATA_rubrique_Services_740x500.png"
 - title: 'Catalogue GouvTech : des outils numériques pour les services publics'
   url: "/services/catalogue-gouvtech-outils-numeriques-pour-services-publics/"
   une-ou-diaporama:
