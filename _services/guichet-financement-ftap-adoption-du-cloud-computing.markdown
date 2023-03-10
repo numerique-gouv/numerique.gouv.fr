@@ -161,19 +161,19 @@ Les projets lauréats bénéficieront :
 
 
 <h1 style="margin-bottom: 1em; margin-top: 1.5em" class="h2">Quels sont les indicateurs obligatoires ?</h1>
-<p>Pour les projets comportant un volet « déploiement d’application sur le Cloud » :</p>
+<h2 class="h4">Pour les projets comportant un volet « déploiement d’application sur le Cloud » :</h2>
 <ul><li>Au moins 1 indicateur d’impact orienté utilisateur, choisi par le candidat, que la migration vers le Cloud vise à améliorer.</li>
 <li>Au moins 2 ou 3 indicateurs « DevOps » parmi : </li>
  <li>La fréquence des déploiements en production ;</li>
  <li>Le temps de mise à disposition d’une nouvelle fonctionnalité ;</li>
  <li>Le temps de restauration sur incident (RTO) ;</li>
  <li>Le taux de réussite des changements.</li></ul>
-<br>
-<p>Pour les projets impliquant des évolutions de services du Cloud interne (adossés à PI ou Nubo) :</p>
+
+<h2 class="h4">Pour les projets impliquant des évolutions de services du Cloud interne (adossés à PI ou Nubo) :</h2>
 <ul><li>Volumes d’utilisation des services dans le temps;</li>
 <li>Au moins un indicateur mesurant les bénéfices qualitatifs.</li></ul>
-<br>
-<p>Pour tous les projets :</p>
+
+<h2 class="h4">Pour tous les projets :</h2>
 <ul><li>Les économies budgétaires induites ;</li>
 <li>Le nombre d’agents formés et travaillant dans un contexte cloud à l’issue du projet.</li></ul>
 <p>Le ministère porteur principal du dossier assurera la consolidation du reporting associé</p>
