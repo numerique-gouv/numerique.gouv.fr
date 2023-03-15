@@ -16,6 +16,8 @@ une-ou-diaporama:
 layout: rgaa
 ---
 
+<div align="center" style="margin-bottom: 40px"><a href="https://osmose.numerique.gouv.fr/" class="button" alt="Accéder à Osmose - Lien externe"><b>Accéder à Osmose</b></a> </div>
+
 <div class="conteneur-iframe seize-neuvieme"><div id="video-osmose">
 <div class="dailymotion_player" width="100%" height="100%" videoID="x85nruz" theme="light" controls="1" showinfo="1" autoplay="0" embedType="video"></div>
 </div></div>
@@ -81,8 +83,7 @@ Seul un agent de l’État ou d'un établissement public de l’État peut deman
 </a>
 {: .text-center}
 
-> **[Accéder à Osmose](https://osmose.numerique.gouv.fr/ "Accéder à Osmose - Lien externe")**
-{: .lien-important}
+<div align="center" style="margin-bottom: 40px"><a href="https://osmose.numerique.gouv.fr/" class="button" alt="Accéder à Osmose - Lien externe"><b>Accéder à Osmose</b></a> </div>
 <br>
 
 *À noter : Le point de contact [contact@osmose.numerique.gouv.fr](mailto:contact@osmose.numerique.gouv.fr) est mis à disposition et opéré par la DINUM en complément des points de contact des directions du numérique ministérielles (DNUM).*
