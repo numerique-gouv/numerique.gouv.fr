@@ -16,9 +16,9 @@ une-ou-diaporama:
 layout: rgaa
 ---
 
-<div id="video-dailymotion">
+<div class="conteneur-iframe seize-neuvieme"><div id="video-dailymotion">
 <div class="dailymotion_player" width="100%" height="100%" videoID="x85nruz" theme="light" rel="0" controls="1" showinfo="1" autoplay="0" embedType="video"></div>
-</div>
+</div></div>
 <br>
 <br>
 
