@@ -37,6 +37,7 @@ layout: rgaa
 <li> <h2 class="h3" style="margin-bottom: 1em; margin-top: 2em">Préserver la souveraineté numérique de l’État en investissant dans des outils numériques mutualisés.</h2>
 <p>Pour la plupart développés à partir de logiciels libres afin d’assurer la maîtrise, la pérennité et l’indépendance du système d’information de l’État, ces produits numériques peuvent pleinement répondre aux attentes des agents dès lors qu’une masse critique de contributeurs est réunie, qu’elle soit issue de la société civile, d’entreprises ou d’États. Cet investissement mutualisé devra s’appuyer sur la doctrine du numérique public élaborée par la DINUM pour l’État et ses opérateurs et consolidée en lien avec les ministères, qui doit prendre en compte l’accessibilité, l’écoresponsabilité, les problématiques d’identité numérique et le cloud.</p></li></ol>
 
-<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="/uploads/Feuille-de-route-DINUM.pdf" class="button" title="Consulter la feuille de route"><b>Consulter la feuille de route</b></a></div>
-
+<div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="/uploads/Feuille-de-route-DINUM.pdf" class="button" title="Consulter la feuille de route"><b>Consulter la feuille de route (pdf, 600 ko)</b></a></div>
+<!-- <p><a href="">> Download the English version of the Roadmap of the Interministerial Digital Directorate (pdf, 600 ko)</a></p> 
+-->
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Une feuille de route coconstruite</h3><p>Fruit d’un travail collaboratif associant l’ensemble des parties prenantes du numérique de l’État – directions du numérique, administrateurs ministériels des données, directions d’administration centrale – cette feuille de route prend également en compte les meilleures pratiques du secteur privé comme celles des pays européens. </p></div>
