@@ -14,6 +14,7 @@ une:
 layout: rgaa
 ---
 
+<div align="center" style="margin-bottom: 40px"><a href="https://resana.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à Resana</b></a> </div>
 <div class="conteneur-iframe seize-neuvieme"><div id="video-resana">
 <div class="dailymotion_player" width="100%" height="100%" videoID="x85nqui" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
 </div></div>
