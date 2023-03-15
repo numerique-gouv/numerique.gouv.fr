@@ -61,6 +61,11 @@ layout: rgaa
 ---
 
 <div align="center" style="margin-bottom: 40px"><a href="https://francetransfert.numerique.gouv.fr/" class="button" alt="Accéder à France transfert - Lien externe"><b>Accéder à France transfert</b></a> </div>
+<div class="conteneur-iframe seize-neuvieme"><div id="video-francetransfert">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x8c96om" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div></div>
+<br>
+<br>
 
 ## Envoyez facilement des fichiers, en toute sécurité
 {: .margin-bottom-1}
