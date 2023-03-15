@@ -14,7 +14,9 @@ une:
 layout: rgaa
 ---
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x85nqui" width="100%" height="100%" allowfullscreen title="Lecteur vidéo Dailymotion" > </iframe> </div>
+<div class="conteneur-iframe seize-neuvieme"><div id="video-resana">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x85nqui" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div></div>
 <br>
 <br>
 
