@@ -45,19 +45,19 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
-* **[Gestionnaire financier H/F](https://place-emploi-public.gouv.fr/offre-emploi/gestionnaire-financier-hf-reference-2023-1105351/ "Gestionnaire financier H/F - Lien externe")**
+* **[Gestionnaire financier (H/F)](https://place-emploi-public.gouv.fr/offre-emploi/gestionnaire-financier-hf-reference-2023-1105351/ "Gestionnaire financier H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Assistant(e) de direction H/F](https://place-emploi-public.gouv.fr/offre-emploi/assistante-de-direction-hf-reference-2023-1109809/ "Assistant(e) de direction H/F - Lien externe")**
+* **[Assistant(e) de direction (H/F)](https://place-emploi-public.gouv.fr/offre-emploi/assistante-de-direction-hf-reference-2023-1109809/ "Assistant(e) de direction H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Responsable de la communication H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-communication-hf-reference-2023-1139200/ "Responsable de la communication H/F - Lien externe")**
+* **[Responsable de la communication (H/F)](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-la-communication-hf-reference-2023-1139200/ "Responsable de la communication H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
-* **[Juriste - Droit du numérique public H/F (H/F)](https://place-emploi-public.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/ "Chef/fe de mission « Juriste - Droit du numérique public H/F - Lien externe")**
+* **[Juriste - Droit du numérique public (H/F)](https://place-emploi-public.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/ "Chef/fe de mission « Juriste - Droit du numérique public H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
@@ -65,7 +65,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-* **[Responsable de portefeuille de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/ "Responsable de portefeuille de produits numériques H/F - Lien externe")**
+* **[Responsable de portefeuille de produits numériques (H/F)](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/ "Responsable de portefeuille de produits numériques H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
