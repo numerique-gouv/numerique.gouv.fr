@@ -106,24 +106,6 @@ Le tableau ci-dessous détaille les cookies de ce type qui peuvent être dépos�
             <td headers="cookies-mesure data3">Permet de stocker temporairement vos données de visite via Matomo</td>
             <td headers="cookies-mesure data4">30 minutes</td>
         </tr>
-        <tr>
-            <td headers="cookies-mesure data1">AT Internet</td>
-            <td headers="cookies-mesure data2">atuserid</td>
-            <td headers="cookies-mesure data3">Permet de stocker votre identifiant unique de visite via AT Internet</td>
-            <td headers="cookies-mesure data4">13 mois</td>
-        </tr>
-        <tr>
-            <td headers="cookies-mesure data1">AT Internet</td>
-            <td headers="cookies-mesure data2">hit.xiti</td>
-            <td headers="cookies-mesure data3">Permet de mesurer l’audience du site via AT Internet</td>
-            <td headers="cookies-mesure data4">13 mois</td>
-        </tr>
-        <tr>
-            <td headers="cookies-mesure data1">AT Internet</td>
-            <td headers="cookies-mesure data2">atauthority</td>
-            <td headers="cookies-mesure data3">Permet de garder en mémoire le mode privacy visiteur (si vous avez expressément refusé que votre navigation soit suivie)</td>
-            <td headers="cookies-mesure data4">13 mois</td>
-        </tr>
     </tbody>
 </table>
 
@@ -131,8 +113,6 @@ Malgré leur caractère nécessaire au fonctionnement du site, vous avez la poss
 
 * Matomo : <br/>
   <iframe style="border: 0; height: 150px; width: 600px;" src="https://stats.data.gouv.fr/index.php?module=CoreAdminHome&action=optOut&language=fr&fontSize=1rem&fontFamily=%22Open%20Sans%22"></iframe>
-
-* [AT Internet](https://www.xiti.com/fr/optout.aspx "AT Internet - Lien externe")
 
 #### Cookies tiers, destinés à fournir des contenus du site
 {: .margin-top-2 .margin-bottom-1}
