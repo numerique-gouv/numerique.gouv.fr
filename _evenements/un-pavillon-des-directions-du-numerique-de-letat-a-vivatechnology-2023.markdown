@@ -36,13 +36,13 @@ Ne manquez pas leur stand lors de l’événement !
 ## « Pavillon des directions du numérique de l’État »
 
 ### Qui sont présents ?
-Au sein d’un stand unique, seront présentes aux côtés de la direction interministérielle du numérique, la direction du numérique du ministère de l’Intérieur, la direction du numérique du ministère de la Justice, la direction du numérique du ministère de la Transition écologique et de la Cohésion des territoires, la direction du numérique des ministères sociaux et la direction du numérique de la direction générale des douanes et droits indirects du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique.
+Au sein d’un stand unique, seront présentes aux côtés de la direction interministérielle du numérique, la direction du numérique du ministère de l’Intérieur et des Outre-mer, la direction du numérique du ministère de la Justice, la direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires, la direction du numérique des ministères sociaux et la direction du numérique de la direction générale des douanes et droits indirects du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique.
 
 ### Programme [à venir] :
 #### Des espaces pour découvrir l’action du numérique de l’État :
-<ul><li>Un espace dédié à la présentation des ministères avec les agents publics est prévu.</li>
+<ul><li>Présentation des ministères avec les agents publics.</li>
 <br>
-<li>Des Startups d’Etat et thématiques seront présentées sur le stand et lors de conférences. Des sujets variés portant sur :</li>
+<li>Des Startups d’Etat et thématiques seront présentées sur le stand et lors de conférences. Elles porteront sur des sujets variés comme : </li>
 <ul><li>L’inclusion ;</li>
 <li>Le design ;</li>
 <li>L’accessibilité ;</li>
@@ -54,11 +54,11 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 <li>L’attractivité ;</li>
 <li>La fidélisation des professionnels de la tech.</li></ul>
 <br>
-<li>Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec vous visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers de la technologie.</li></ul>
+<li>Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec les visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers de la technologie.</li></ul>
 
 ## Le RDV européen dédié à l’innovation technologique et aux start-up
 
-Le salon a lieu du 14 au 17 juin 2023 à Paris Expo Porte de Versailles. Les trois premières journées sont consacrées à un public professionnel et la dernière journée est dédiée au grand public. Les services de l’État seront présents pendant les 4 jours.
+Le salon a lieu du 14 au 17 juin 2023 à Paris Expo Porte de Versailles. Les trois premières journées seront consacrées à un public professionnel et la dernière journée sera dédiée au grand public. Les services de l’État seront présents pendant les 4 jours.
 
 Alors n’hésitez pas à vous inscrire !
 
