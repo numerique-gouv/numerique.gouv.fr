@@ -32,7 +32,7 @@ champs_informations:
   lien: https://vivatechnology.com/
 ---
 
-Pour la première fois, les directions du numérique de l’État seront présentes à VivaTechnology afin de présenter aux professionnels de la tech et au grand public, ses projets numériques les plus innovants, qui sont autant d’opportunités d’emplois. 
+Pour la première fois, les directions du numérique de l’État seront présentes à VivaTechnology afin de présenter aux professionnels du numérique et au grand public, ses projets numériques les plus innovants, qui sont autant d’opportunités d’emplois. 
 
 Ne manquez pas leur stand lors de l’événement !
 ## « Pavillon du numérique de l’État »
@@ -44,7 +44,7 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 #### Des espaces pour découvrir l’action du numérique de l’État :
 <ul><li>Présentation des ministères avec les agents publics.</li>
 <br>
-<li>Des Startups d’Etat et thématiques seront présentées sur le stand et lors de conférences. Elles porteront sur des sujets variés comme : </li>
+<li>Des Startups d’État et thématiques seront présentées sur le stand et lors de conférences. Elles porteront sur des sujets variés comme : </li>
 <ul><li>L’inclusion ;</li>
 <li>Le design ;</li>
 <li>L’accessibilité ;</li>
