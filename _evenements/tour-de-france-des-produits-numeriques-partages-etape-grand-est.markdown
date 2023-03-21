@@ -7,6 +7,8 @@ categories:
 tags:
 - Environnement de travail numérique de l'agent
 chapeau-text: |-
+  **- Prévue initialement le 23 mars 2023, l'étape Grand-Est est reportée à une date qui sera communiquée prochainement sur cette page -**
+
   Depuis novembre 2022, la DINUM réalise un Tour de France des régions des produits numériques interministériels pour aller à la rencontre des agents : les informer, les former et continuer à les accompagner à transformer les méthodes de travail - en s'appuyant sur les produits collaboratifs ministériels et interministériels mis à leur disposition.
 
   Le Tour de France des régions continue en 2023. La prochaine étape aura lieu dans la région Grand-Est !
@@ -27,7 +29,7 @@ champs_informations:
   lien: https://www.demarches-simplifiees.fr/commencer/etape-grand-est-tdf
 ---
 
-Cet évènement se déroulera **le jeudi 23 mars, de 9h00 à 17h00** à l’Institut régional d'administration (IRA) de Metz. 
+Cet évènement se déroulera <!-- **le jeudi 23 mars, de 9h00 à 17h00** --> à l’Institut régional d'administration (IRA) de Metz. 
 
 #### Au programme : 
 
