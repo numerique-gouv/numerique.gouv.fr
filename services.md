@@ -25,7 +25,7 @@ publications:
 - title: 'Guichet de financement : Exploitation et valorisation des données'
   url: "/services/guichet-financement-exploitation-valorisation-des-donnees/"
   une-ou-diaporama:
-  - image: "/uploads/Guichet-DATA_rubrique_Services_740x500.png"
+  - image: "/uploads/2023_01_16_Guichet-DATA_Services_740x500.jpg"
 - title: 'Catalogue GouvTech : des outils numériques pour les services publics'
   url: "/services/catalogue-gouvtech-outils-numeriques-pour-services-publics/"
   une-ou-diaporama:
