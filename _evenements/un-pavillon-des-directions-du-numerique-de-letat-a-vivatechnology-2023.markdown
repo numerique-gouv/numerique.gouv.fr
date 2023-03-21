@@ -12,7 +12,7 @@ tags:
 - Évènement
 chapeau-text: 'VIVATECHNOLOGY 2023 : l’État français présent massivement au salon
   de l’innovation technologique pour faire connaître sa stratégie numérique et recruter
-  des professionnels de la tech.'
+  des professionnels du numérique.'
 une-ou-diaporama:
 - image: "/uploads/2023_03_20_VISUEL_AGENDA_1280x720.png"
 event_start_date: 2023-06-14 10:00:00 +02:00
