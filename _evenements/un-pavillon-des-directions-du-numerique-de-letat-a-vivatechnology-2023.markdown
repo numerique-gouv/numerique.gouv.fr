@@ -56,7 +56,7 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 <li>L’attractivité ;</li>
 <li>La fidélisation des professionnels de la tech.</li></ul>
 <br>
-<li>Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec les visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers de la technologie.</li></ul>
+<li>Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec les visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique.</li></ul>
 
 ## Le RDV européen dédié à l’innovation technologique et aux start-up
 
