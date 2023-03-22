@@ -2,7 +2,7 @@
 title: 'VivaTechnology 2023 : l’État français présent massivement au salon de l’innovation
   technologique pour faire connaître sa stratégie numérique et recruter des professionnels
   du numérique'
-date: 2023-03-22 09:54:00 +01:00
+date: 2023-03-21 09:54:00 +01:00
 categories:
 - Communiqué de presse
 tags:
