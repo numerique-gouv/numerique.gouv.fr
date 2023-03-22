@@ -1,6 +1,6 @@
 ---
 title: Tour de France des Produits Numériques Partagés - Etape Hauts-de-France
-date: 2023-01-12 14:50:00 +01:00
+date: 2023-03-22 14:50:00 +01:00
 categories:
 - Journée d'échanges
 - Micro-conférences et ateliers
@@ -14,7 +14,7 @@ chapeau-text: "A l’occasion du mois de l’innovation publique, la DINUM a lan
   des régions continue en 2023, avec l’étape Hauts-de-France !"
 une-ou-diaporama:
 - image: "/uploads/2023_02_09_Tour-de-France_Lille_visuel_Agenda.jpg"
-event_start_date: 2023-04-06 10:00:00 +02:00
+event_start_date: 2023-04-06 09:00:00 +02:00
 lieu: Cerema de Lille
 adresse: 44t Rue Jean Bart, 59000 Lille
 champs_informations:
