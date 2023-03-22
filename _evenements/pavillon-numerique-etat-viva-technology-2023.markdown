@@ -39,7 +39,7 @@ Ne manquez pas leur stand lors de l’événement !
 ### Qui sont présents ?
 Au sein d’un stand unique, seront présentes aux côtés de la direction interministérielle du numérique, la direction du numérique du ministère de l’Intérieur et des Outre-mer, la direction du numérique du ministère de la Justice, la direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires, la direction du numérique des ministères sociaux et la direction du numérique de la direction générale des douanes et droits indirects du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique.
 
-### Programme [à venir] :
+### Programme :
 #### Des espaces pour découvrir l’action du numérique de l’État :
 <ul><li>Présentation des ministères avec les agents publics.</li>
 <br>
@@ -56,6 +56,7 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 <li>La fidélisation des professionnels de la tech.</li></ul>
 <br>
 <li>Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec les visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique.</li></ul>
+<p>Le programme sera prochainement complété.</p>
 
 ## Le rendez-vous européen dédié à l’innovation technologique et aux start-up
 
