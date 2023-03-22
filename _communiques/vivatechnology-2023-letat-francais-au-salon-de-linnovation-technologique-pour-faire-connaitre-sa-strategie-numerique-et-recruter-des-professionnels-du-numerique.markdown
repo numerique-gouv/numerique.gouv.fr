@@ -16,6 +16,9 @@ chapeau-text: Améliorer le service public grâce au numérique, c’est permett
   », ses projets numériques les plus innovants, qui sont autant d’opportunités d’emplois.
 une-ou-diaporama:
 - image: "/uploads/2023_03_20_VISUEL_AGENDA_1280x720.jpg"
+files:
+- file: "/uploads/VIVATECHNOLOGY_2023_L_ETAT_FRANCAIS_PRESENT_MASSIVEMENT.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 **L’ÉTAT, UN ACTEUR ESSENTIEL DE L’INNOVATION TECHNOLOGIQUE AU SERVICE DE L’INTÉRÊT GÉNÉRAL**
