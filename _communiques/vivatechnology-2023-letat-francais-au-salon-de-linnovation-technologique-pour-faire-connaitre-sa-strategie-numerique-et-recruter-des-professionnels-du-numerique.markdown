@@ -6,8 +6,11 @@ date: 2023-03-21 09:54:00 +01:00
 categories:
 - Communiqué de presse
 tags:
+- Salon
 - Vivatech
 - Technologie
+- Innovation
+- Talents
 chapeau-text: Améliorer le service public grâce au numérique, c’est permettre de rapprocher
   l’administration des citoyens, des entreprises et de ses propres agents. Investies
   dans cet objectif, les directions du numérique de l’État seront présentes au salon
