@@ -1,7 +1,6 @@
 ---
 title: Tour de France des Produits Numériques Partagés - Etape Hauts-de-France
 date: 2023-01-12 14:50:00 +01:00
-published: false
 categories:
 - Journée d'échanges
 - Micro-conférences et ateliers
@@ -23,17 +22,20 @@ champs_informations:
   contenu: 9h - 17h
 - intitule: Gratuit
   contenu: Inscription obligatoire
-  lien: 
+  lien: https://www.demarches-simplifiees.fr/commencer/tdf-etape-hauts-de-france
 ---
+
+Depuis novembre 2022, la DINUM réalise un Tour de France des régions des produits numériques interministériels pour aller à la rencontre des agents : les informer, les former et continuer à les accompagner à transformer les méthodes de travail - en s’appuyant sur les produits collaboratifs ministériels et interministériels mis à leur disposition.
+Le Tour de France des régions se poursuit. La prochaine étape aura lieu dans la région Hauts-de-France !
 
 Cet évènement se déroulera **le jeudi 6 avril, de 9h00 à 17h00** au Cerema de Lille.
 
 #### Au programme : 
 
-* Présentation des [outils aux agents](https://www.numerique.gouv.fr/outils-agents/), les aider à **choisir la bonne solution** en fonction du cas d’usage, et les **familiariser** avec les nouvelles fonctionnalités des produits.
+* Présentation des [outils numériques ministériels pour les agents](https://www.numerique.gouv.fr/outils-agents/), les aider à **choisir la bonne solution** en fonction du cas d’usage, et les **familiariser** avec les nouvelles fonctionnalités des produits.
 
 * Des échanges riches avec les **équipes des régions** qui partagent leurs **innovations**, leurs **usages** et leurs **besoins**.
 
 * Un format dynamique avec des **ateliers participatifs** : des ateliers avancés des produits numériques et des ateliers « multiproduits » collaboratifs.
 
-<div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/inscription-a-l-evenement-lancement-du-referentiel">Inscriptions obligatoires</a></p></div> LIEN A MODIFIER
+<div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/tdf-etape-hauts-de-france">Inscriptions obligatoires</a></p></div>
