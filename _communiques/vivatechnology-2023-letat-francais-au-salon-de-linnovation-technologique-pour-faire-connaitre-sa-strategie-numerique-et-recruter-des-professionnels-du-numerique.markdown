@@ -39,9 +39,10 @@ Conscient de l’importance du virage numérique et pour réussir sa transformat
 <br>**Stanislas Guerini, ministre de la Transformation et de la Fonction publiques**
 
 **LE RDV EUROPÉEN DE L’INNOVATION TECHNOLOGIQUE**
+<br>
 <br>Salon professionnel dédié à l’innovation technologique et aux start-ups, VivaTechnology se tiendra du 14 au 17 juin 2023 à Paris Expo Porte de Versailles. Les trois premières journées seront consacrées à un public professionnel et la dernière journée sera dédiée au grand public. Les services de l’État seront présents pendant les 4 jours. Le salon réunit plus de 2 500 exposants, plus de 146 pays et 91 000 visiteurs attendus. Pour en savoir plus sur VivaTechnology : [vivatechnology.com](https://vivatechnology.com/)
-
-
+<br>
+<br>
 
 La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Placée sous l’autorité du ministre de la Transformation et de la Fonction publiques, la DINUM a publié [sa nouvelle feuille de route](https://www.numerique.gouv.fr/publications/feuille-de-route-dinum/) le 9 mars 2023. L’objectif : faire du numérique un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain. Pour y parvenir, la DINUM collabore avec les directions du numérique (DNUM) de tous les ministères.
 
