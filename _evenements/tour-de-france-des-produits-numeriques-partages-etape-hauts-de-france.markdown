@@ -38,4 +38,4 @@ Cet évènement se déroulera **le jeudi 6 avril, de 9h00 à 17h00** au Cerema d
 
 * Un format dynamique avec des **ateliers participatifs** : des ateliers avancés des produits numériques et des ateliers « multiproduits » collaboratifs.
 
-<div class="lien-important"><p><a href="https://www.demarches-simplifiees.fr/commencer/tdf-etape-hauts-de-france">Inscriptions obligatoires</a></p></div>
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.demarches-simplifiees.fr/commencer/tdf-etape-hauts-de-france" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
