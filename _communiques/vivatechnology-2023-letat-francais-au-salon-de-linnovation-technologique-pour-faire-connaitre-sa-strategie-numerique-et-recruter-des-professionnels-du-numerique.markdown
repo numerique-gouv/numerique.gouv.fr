@@ -40,7 +40,7 @@ Conscient de l’importance du virage numérique et pour réussir sa transformat
 <br>
 <br>
 **LE RDV EUROPÉEN DE L’INNOVATION TECHNOLOGIQUE**
-<br>
+
 <br>Salon professionnel dédié à l’innovation technologique et aux start-ups, VivaTechnology se tiendra du 14 au 17 juin 2023 à Paris Expo Porte de Versailles. Les trois premières journées seront consacrées à un public professionnel et la dernière journée sera dédiée au grand public. Les services de l’État seront présents pendant les 4 jours. Le salon réunit plus de 2 500 exposants, plus de 146 pays et 91 000 visiteurs attendus. Pour en savoir plus sur VivaTechnology : [vivatechnology.com](https://vivatechnology.com/)
 <br>
 <br>
