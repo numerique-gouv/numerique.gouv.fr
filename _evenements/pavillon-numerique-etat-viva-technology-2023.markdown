@@ -1,7 +1,6 @@
 ---
-title: Un pavillon du numérique de l’État à VIVATECHNOLOGY 2023
+title: Un pavillon du numérique de l’État à Viva Technology 2023
 date: 2023-03-10 14:47:00 +01:00
-published: false
 categories:
 - Salon
 tags:
@@ -10,11 +9,11 @@ tags:
 - Numérique
 - Startups d'Etat
 - Évènement
-chapeau-text: 'VIVATECHNOLOGY 2023 : l’État français présent massivement au salon
+chapeau-text: 'Viva Technology 2023 : l’État français présent massivement au salon
   de l’innovation technologique pour faire connaître sa stratégie numérique et recruter
   des professionnels du numérique.'
 une-ou-diaporama:
-- image: "/uploads/2023_03_20_VISUEL_AGENDA_1280x720.png"
+- image: "/uploads/2023_03_20_VISUEL_AGENDA_1280x720-2aa283.jpg"
 event_start_date: 2023-06-14 10:00:00 +02:00
 event_end_date: 2023-06-17 19:00:00 +02:00
 lieu: Paris Expo Porte de Versailles
@@ -32,7 +31,7 @@ champs_informations:
   lien: https://vivatechnology.com/
 ---
 
-Pour la première fois, les directions du numérique de l’État seront présentes à VivaTechnology afin de présenter aux professionnels du numérique et au grand public, ses projets numériques les plus innovants, qui sont autant d’opportunités d’emplois. 
+Pour la première fois, les directions du numérique de l’État seront présentes à Viva Technology afin de présenter aux professionnels du numérique et au grand public, ses projets numériques les plus innovants, qui sont autant d’opportunités d’emplois. 
 
 Ne manquez pas leur stand lors de l’événement !
 ## « Pavillon du numérique de l’État »
@@ -58,7 +57,7 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 <br>
 <li>Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec les visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique.</li></ul>
 
-## Le RDV européen dédié à l’innovation technologique et aux start-up
+## Le rendez-vous européen dédié à l’innovation technologique et aux start-up
 
 Le salon a lieu du 14 au 17 juin 2023 à Paris Expo Porte de Versailles. Les trois premières journées seront consacrées à un public professionnel et la dernière journée sera dédiée au grand public. Les services de l’État seront présents pendant les 4 jours.
 
