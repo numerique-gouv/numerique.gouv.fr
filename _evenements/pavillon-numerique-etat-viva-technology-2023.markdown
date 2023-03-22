@@ -17,7 +17,7 @@ une-ou-diaporama:
 event_start_date: 2023-06-14 10:00:00 +02:00
 event_end_date: 2023-06-17 19:00:00 +02:00
 lieu: Paris Expo Porte de Versailles
-adresse: 1 Place de la Porte de Versailles, F-75015 Paris France
+adresse: 1 place de la Porte de Versailles, 75 015 Paris
 champs_informations:
 - intitule: Horaires
   contenu: 9h-18h
@@ -40,8 +40,8 @@ Ne manquez pas leur stand lors de l’événement !
 Au sein d’un stand unique, seront présentes aux côtés de la direction interministérielle du numérique, la direction du numérique du ministère de l’Intérieur et des Outre-mer, la direction du numérique du ministère de la Justice, la direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires, la direction du numérique des ministères sociaux et la direction du numérique de la direction générale des douanes et droits indirects du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique.
 
 ### Programme :
-#### Des espaces pour découvrir l’action du numérique de l’État :
-<ul><li>Présentation des ministères avec les agents publics.</li>
+#### Un stand pendant 4 jours et des conférences pour découvrir l’action du numérique de l’État :
+<ul><li>Présentation des ministères par des agents publics.</li>
 <br>
 <li>Des Startups d’État et thématiques seront présentées sur le stand et lors de conférences. Elles porteront sur des sujets variés comme : </li>
 <ul><li>L’inclusion ;</li>
@@ -56,7 +56,7 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 <li>La fidélisation des professionnels de la tech.</li></ul>
 <br>
 <li>Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec les visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique.</li></ul>
-<p>Le programme sera prochainement complété.</p>
+<p><i>Le programme sera prochainement complété par des conférences.</i></p>
 
 ## Le rendez-vous européen dédié à l’innovation technologique et aux start-up
 
