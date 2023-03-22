@@ -39,16 +39,16 @@ Conscient de l’importance du virage numérique et pour réussir sa transformat
 <br>**Stanislas Guerini, ministre de la Transformation et de la Fonction publiques**
 
 **LE RDV EUROPÉEN DE L’INNOVATION TECHNOLOGIQUE**
-<br>Salon professionnel dédié à l’innovation technologique et aux start-ups, VivaTechnology se tiendra du 14 au 17 juin 2023 à Paris Expo Porte de Versailles. Les trois premières journées seront consacrées à un public professionnel et la dernière journée sera dédiée au grand public. Les services de l’État seront présents pendant les 4 jours. Le salon réunit plus de 2 500 exposants, plus de 146 pays et 91 000 visiteurs attendus. En savoir plus sur [VivaTechnology](https://vivatechnology.com/)
+<br>Salon professionnel dédié à l’innovation technologique et aux start-ups, VivaTechnology se tiendra du 14 au 17 juin 2023 à Paris Expo Porte de Versailles. Les trois premières journées seront consacrées à un public professionnel et la dernière journée sera dédiée au grand public. Les services de l’État seront présents pendant les 4 jours. Le salon réunit plus de 2 500 exposants, plus de 146 pays et 91 000 visiteurs attendus. Pour en savoir plus sur VivaTechnology : [vivatechnology.com](https://vivatechnology.com/)
 
 
 
 La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Placée sous l’autorité du ministre de la Transformation et de la Fonction publiques, la DINUM a publié [sa nouvelle feuille de route](https://www.numerique.gouv.fr/publications/feuille-de-route-dinum/) le 9 mars 2023. L’objectif : faire du numérique un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain. Pour y parvenir, la DINUM collabore avec les directions du numérique (DNUM) de tous les ministères.
 
 Pour en savoir plus sur les ministères qui composeront le « **Pavillon du numérique de l’État** » :
-* Ministère de l’Intérieur et des Outre-mer : [https://www.interieur.gouv.fr/ ](https://www.interieur.gouv.fr/)
-* Ministère de la Justice : [http://www.justice.gouv.fr/](http://www.justice.gouv.fr/) 
-* Ministère de la Transition écologique et de la Cohésion des territoires : [https://www.ecologie.gouv.fr/ ](https://www.ecologie.gouv.fr/)
-* Ministères Sociaux : [https://sante.gouv.fr/ ](https://sante.gouv.fr/)
-* Direction générale des douanes et droits indirects du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique : [https://www.economie.gouv.fr/ ](https://www.economie.gouv.fr/)
-* Direction interministérielle du numérique : [https://www.numerique.gouv.fr/](https://www.numerique.gouv.fr/)
+* Ministère de l’Intérieur et des Outre-mer : [interieur.gouv.fr](https://www.interieur.gouv.fr/)
+* Ministère de la Justice : [justice.gouv.fr](http://www.justice.gouv.fr/) 
+* Ministère de la Transition écologique et de la Cohésion des territoires : [ecologie.gouv.fr](https://www.ecologie.gouv.fr/)
+* Ministères Sociaux : [sante.gouv.fr](https://sante.gouv.fr/)
+* Direction générale des douanes et droits indirects du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique : [economie.gouv.fr](https://www.economie.gouv.fr/)
+* Direction interministérielle du numérique : [numerique.gouv.fr](https://www.numerique.gouv.fr/)
