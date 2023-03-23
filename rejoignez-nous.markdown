@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 16 mars 2023
+date_de_modification: 23 mars 2023
 style: |-
   .button {
   background-color: #0d5c98;
@@ -45,6 +45,10 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Designer senior H/F](https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/ "Designer senior H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Gestionnaire financier H/F](https://place-emploi-public.gouv.fr/offre-emploi/gestionnaire-financier-hf-reference-2023-1105351/ "Gestionnaire financier H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -70,6 +74,14 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 
 * **[Responsable opérationnel de la plateforme FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/ "Responsable opérationnel de la plateforme FranceConnect (H/F) - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1174768/ "Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat (H/F) - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Adjoint(e) au chef du département Etalab et chef(fe) du pôle ouverture et partage des données H/F](https://place-emploi-public.gouv.fr/offre-emploi/2023-1175822/ "Adjoint(e) au chef du département Etalab et chef(fe) du pôle ouverture et partage des données (H/F) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
