@@ -1,5 +1,5 @@
 ---
-title: Tour de France des Produits Numériques Partagés - Etape Hauts-de-France
+title: Tour de France des Produits numériques interministériels - Etape Hauts-de-France
 date: 2023-03-22 14:50:00 +01:00
 categories:
 - Journée d'échanges
