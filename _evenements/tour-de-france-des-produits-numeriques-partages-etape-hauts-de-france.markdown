@@ -25,9 +25,6 @@ champs_informations:
   lien: https://www.demarches-simplifiees.fr/commencer/tdf-etape-hauts-de-france
 ---
 
-Depuis novembre 2022, la DINUM réalise un Tour de France des régions des produits numériques interministériels pour aller à la rencontre des agents : les informer, les former et continuer à les accompagner à transformer les méthodes de travail - en s’appuyant sur les produits collaboratifs ministériels et interministériels mis à leur disposition.
-Le Tour de France des régions se poursuit. La prochaine étape aura lieu dans la région Hauts-de-France !
-
 Cet évènement se déroulera **le jeudi 6 avril, de 9h00 à 17h00** au Cerema de Lille.
 
 #### Au programme : 
