@@ -26,7 +26,7 @@ Cet évènement se déroulera **le jeudi 6 avril, de 9h00 à 17h00** au Cerema d
 
 #### Au programme : 
 
-* Présentation des [outils numériques ministériels pour les agents](https://www.numerique.gouv.fr/outils-agents/), les aider à **choisir la bonne solution** en fonction du cas d’usage, et les **familiariser** avec les nouvelles fonctionnalités des produits.
+* Présentation des [outils numériques interministériels pour les agents](https://www.numerique.gouv.fr/outils-agents/), les aider à **choisir la bonne solution** en fonction du cas d’usage, et les **familiariser** avec les nouvelles fonctionnalités des produits.
 
 * Des échanges riches avec les **équipes des régions** qui partagent leurs **innovations**, leurs **usages** et leurs **besoins**.
 
