@@ -78,7 +78,8 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 
 * **[Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1174768/ "Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat (H/F) - Lien externe")**
-<br>Cadre/Catégorie A
+<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
+
 <br>
 
 * **[Adjoint(e) au chef du département Etalab et chef(fe) du pôle ouverture et partage des données H/F](https://place-emploi-public.gouv.fr/offre-emploi/2023-1175822/ "Adjoint(e) au chef du département Etalab et chef(fe) du pôle ouverture et partage des données (H/F) - Lien externe")**
