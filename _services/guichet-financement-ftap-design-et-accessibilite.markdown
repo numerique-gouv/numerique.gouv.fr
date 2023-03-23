@@ -39,7 +39,7 @@ Le guichet est ouvert aux :
 <li>grandes applications interministérielles internes destinées aux les agents ;</li>
 <li>grandes applications ministérielles internes destinées aux agents rentrant dans le top 5 ministériel (dont la liste aura préalablement été communiquée à la DINUM).</li></ul>
 
-<h3><strong>Exemples d’objectifs et leviers attendus :</strong></h3>
+<h3>Exemples d’objectifs et leviers attendus :</h3>
 <ul>
 <li>accélération de la numérisation ;</li>
 <li>amélioration de la satisfaction des usagers  ;</li>
