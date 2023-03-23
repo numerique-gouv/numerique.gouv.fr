@@ -41,7 +41,7 @@ Le guichet est ouvert aux :
 
 <p>Les projets des ministères soumis à ce guichet devront permettre :</p>
 <ol>
-<li>Soit de diminuer les besoins en matériels microinformatique (via une meilleure gestion de leur parc informatique, via des outils évitant des besoins d’achat, …) ;</li>
+<li>Soit de diminuer les besoins en matériel informatique (via une meilleure gestion de leur parc informatique, via des outils évitant des besoins d’achat, …) ;</li>
 <li>Soit d’améliorer la  stratégie d’achat pour acheter des matériels plus écoresponsables pour le parc informatique ;</li>
 <li>Soit permettre l’optimisation de la fin de vie et de la fin d’usage (hardware, software, gestion des DEEE - déchets équipements électriques et électroniques, effacement de données permettant de céder les matériels à des tiers) ;</li>
 <li>Soit diminuer l’impact écologique d’un produit numérique à venir via des leviers d’écoconception.</li>
