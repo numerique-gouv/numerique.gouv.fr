@@ -21,7 +21,7 @@ champs_informations:
 - intitule: Comment s'inscrire
   contenu: Envoyer une demande d’inscription par e-mail à l’adresse infonuage.dinum@modernisation.gouv.fr,
     le lien de connexion vous sera alors envoyé.
-  mail to: 'mail to: infonuage.dinum@modernisation.gouv.fr'
+  mail to: infonuage.dinum@modernisation.gouv.fr
 - intitule: Plus d'informations
   contenu: sur le guichet de financement
   lien: https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/
