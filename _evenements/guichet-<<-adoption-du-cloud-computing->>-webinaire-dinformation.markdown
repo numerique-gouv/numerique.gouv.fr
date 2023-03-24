@@ -17,11 +17,11 @@ champs_informations:
 - intitule: Horaires
   contenu: 11h45-12h30
 - intitule: Modalités
-  contenu: Inscription obligatoire
+  contenu: Gratuit, inscription obligatoire
 - intitule: Comment s'inscrire
   contenu: Envoyer une demande d’inscription par e-mail à l’adresse infonuage.dinum@modernisation.gouv.fr,
     le lien de connexion vous sera alors envoyé.
-  mail to: infonuage.dinum@modernisation.gouv.fr
+  lien: mailto:infonuage.dinum@modernisation.gouv.fr
 - intitule: Plus d'informations
   contenu: sur le guichet de financement
   lien: https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/
