@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 23 mars 2023
+date_de_modification: 24 mars 2023
 style: |-
   .button {
   background-color: #0d5c98;
@@ -74,6 +74,14 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 
 * **[Responsable opérationnel de la plateforme FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/ "Responsable opérationnel de la plateforme FranceConnect (H/F) - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Pilote de l'Observatoire de la qualité des services numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/pilote-de-l-observatoire-de-la-qualite-des-services-numeriques-hf-reference-2023-1175873/ "Pilote de l'Observatoire de la qualité des services numériques (H/F) - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chargé de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2023-1175899/ "Chargé de mission - Sécurisation et conseil des grands projets SI de l'État (H/F) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
