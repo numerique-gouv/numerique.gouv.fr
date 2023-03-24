@@ -1,5 +1,5 @@
 ---
-title: Guichet « Adoption du cloud computing » - webinaire d’information
+title: Guichet « Adoption du cloud computing » - Webinaire d’information
 date: 2023-03-24 09:29:00 +01:00
 categories:
 - Webinaire d'information
