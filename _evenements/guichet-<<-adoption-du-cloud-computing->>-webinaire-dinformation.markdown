@@ -1,7 +1,6 @@
 ---
 title: Guichet « Adoption du cloud computing » - webinaire d’information
 date: 2023-03-24 09:29:00 +01:00
-published: false
 chapeau-text: Le guichet « Adoption du cloud computing » est ouvert aux candidatures
   ! Vous avez une idée de projet ? Retrouvez-nous lors d’un webinaire d’information
   pour une présentation suivi d’un temps d’échange avec un membre de l’équipe en charge
@@ -30,7 +29,7 @@ La DINUM vient de lancer un guichet « **Adoption du cloud computing** » afin d
 
 <div align="center"><a href="https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/" class="button"><b>Plus d'infos sur le guichet</b></a></div>
 
-Ce guichet thématique vient en soutien de la mise en œuvre de <a href="https://www.numerique.gouv.fr/services/cloud/doctrine/" class="button"><b>la doctrine « Cloud au centre »</b></a>de l’État et vous permet d’accélérer vos projets de construction, transformation et migration d’applications vers des cloud de confiance grâce à un cofinancement jusqu’à 50% du coût total du projet et un accompagnement de la part de la DINUM.
+Ce guichet thématique vient en soutien de la mise en œuvre de <a href="https://www.numerique.gouv.fr/services/cloud/doctrine/"title="la doctrine « Cloud au centre »"></a>de l’État et vous permet d’accélérer vos projets de construction, transformation et migration d’applications vers des cloud de confiance grâce à un cofinancement jusqu’à 50% du coût total du projet et un accompagnement de la part de la DINUM.
 
 Lors de ce webinaire 100% en ligne, vous pourrez assister à une présentation du guichet, des critères d’éligibilité des projets et des modalités de dépôt de dossier. Vous pourrez alors échanger et poser vos questions à un membre de l’équipe en charge du guichet.
 
