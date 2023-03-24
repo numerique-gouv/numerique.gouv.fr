@@ -1,5 +1,5 @@
 ---
-title: Guichet « Adoption du cloud computing » - webinaire d’information
+title: Guichet « Adoption du cloud computing » - Webinaire d’information
 date: 2023-03-24 09:29:00 +01:00
 categories:
 - Webinaire d'information
@@ -17,24 +17,24 @@ champs_informations:
 - intitule: Horaires
   contenu: 11h45-12h30
 - intitule: Modalités
-  contenu: Inscription obligatoire
+  contenu: Gratuit, inscription obligatoire
 - intitule: Comment s'inscrire
   contenu: Envoyer une demande d’inscription par e-mail à l’adresse infonuage.dinum@modernisation.gouv.fr,
     le lien de connexion vous sera alors envoyé.
-  lien: infonuage.dinum@modernisation.gouv.fr
+  lien: mailto:infonuage.dinum@modernisation.gouv.fr
 - intitule: Plus d'informations
   contenu: sur le guichet de financement
   lien: https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/
 ---
 
-La DINUM vient de lancer un guichet « **Adoption du cloud computing** » afin de faciliter l’adoption du cloud de confiance pour les administrations et les opérateurs de l’État.
+La DINUM vient de lancer un guichet **« Adoption du cloud computing »** afin de faciliter l’adoption du cloud de confiance pour les administrations et les opérateurs de l’État.
 
 <div align="center"><a href="https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/" class="button"><b>Plus d'infos sur le guichet</b></a></div>
 <br>
-Ce guichet thématique vient en soutien de la mise en œuvre de <a href="https://www.numerique.gouv.fr/services/cloud/doctrine/">la doctrine « Cloud au centre »</a> de l’État et vous permet d’accélérer vos projets de construction, transformation et migration d’applications vers des cloud de confiance grâce à un cofinancement jusqu’à 50% du coût total du projet et un accompagnement de la part de la DINUM.
+Ce guichet thématique vient en soutien de la mise en œuvre de <a href="https://www.numerique.gouv.fr/services/cloud/doctrine/">la doctrine « Cloud au centre »</a> de l’État et vous permet d’accélérer vos projets de construction, transformation et migration d’applications vers des clouds de confiance grâce à un cofinancement jusqu’à 50% du coût total du projet et un accompagnement de la part de la DINUM.
 
 Lors de ce webinaire 100% en ligne, vous pourrez assister à une présentation du guichet, des critères d’éligibilité des projets et des modalités de dépôt de dossier. Vous pourrez alors échanger et poser vos questions à un membre de l’équipe en charge du guichet.
 
 #### Déroulé :
 * **[11h45 - 12h15]** Présentation du guichet : types de projets, critères de sélection, modalités 
-* **[12h15 - 12h30]** Exemples de projets à impact
+* **[12h15 - 12h30]** Session de questions / réponses avec un animateur du guichet

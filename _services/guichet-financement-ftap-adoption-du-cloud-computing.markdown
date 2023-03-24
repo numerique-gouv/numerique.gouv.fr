@@ -19,7 +19,7 @@ layout: rgaa
 ---
 
 Vous souhaitez construire, transformer, migrer vos applications vers le Cloud ?
-<br>Vous souhaitez dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la maitrise des données sensibles ? 
+<br>Vous souhaitez dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la maîtrise des données sensibles ? 
 <br>Vous êtes un producteur de services cloud interministériels et souhaitez améliorer votre offre ?
 
 Ouvert aux administrations d'État et aux opérateurs de l'État, ce guichet vise à financer vos projets :
@@ -235,7 +235,7 @@ Les projets lauréats bénéficieront d'un <strong>cofinancement de 50% (maximum
 </div>
 </div>
 <div class="accordion-item">
-    <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour tous les projets :</button>
+    <button onclick="myFunction('criteres-pour-tous-projets')" id="accordion-button" class="accordion-title" aria-controls="qui" aria-expanded="false">Critères de sélection pour tous les projets</button>
     <div class="accordion-content" id="criteres-pour-tous-projets">
       <ol start="7">
         <li style="margin-bottom: 1em;"><strong>Structuration du projet, capacité à le mener et, une fois achevé, à le gérer en interne</strong></li>
