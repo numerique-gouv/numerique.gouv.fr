@@ -19,7 +19,7 @@ layout: rgaa
 ---
 
 Vous souhaitez construire, transformer, migrer vos applications vers le Cloud ?
-<br>Vous souhaitez dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la maitrise des données sensibles ? 
+<br>Vous souhaitez dynamiser vos solutions en vous saisissant des services Cloud, tout en gardant la maîtrise des données sensibles ? 
 <br>Vous êtes un producteur de services cloud interministériels et souhaitez améliorer votre offre ?
 
 Ouvert aux administrations d'État et aux opérateurs de l'État, ce guichet vise à financer vos projets :
