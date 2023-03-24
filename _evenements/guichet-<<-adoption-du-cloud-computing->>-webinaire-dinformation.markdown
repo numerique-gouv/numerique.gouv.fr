@@ -19,7 +19,7 @@ champs_informations:
 - intitule: Comment s'inscrire
   contenu: Envoyer une demande d’inscription par e-mail à l’adresse infonuage.dinum@modernisation.gouv.fr,
     le lien de connexion vous sera alors envoyé.
-  email: infonuage.dinum@modernisation.gouv.fr
+  lien: infonuage.dinum@modernisation.gouv.fr
 - intitule: Plus d'informations
   contenu: sur le guichet de financement
   lien: https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/
@@ -29,7 +29,7 @@ La DINUM vient de lancer un guichet « **Adoption du cloud computing** » afin d
 
 <div align="center"><a href="https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/" class="button"><b>Plus d'infos sur le guichet</b></a></div>
 
-Ce guichet thématique vient en soutien de la mise en œuvre de <a href="https://www.numerique.gouv.fr/services/cloud/doctrine/"title="la doctrine « Cloud au centre »"></a>de l’État et vous permet d’accélérer vos projets de construction, transformation et migration d’applications vers des cloud de confiance grâce à un cofinancement jusqu’à 50% du coût total du projet et un accompagnement de la part de la DINUM.
+Ce guichet thématique vient en soutien de la mise en œuvre de <a href="https://www.numerique.gouv.fr/services/cloud/doctrine/">la doctrine « Cloud au centre »></a>de l’État et vous permet d’accélérer vos projets de construction, transformation et migration d’applications vers des cloud de confiance grâce à un cofinancement jusqu’à 50% du coût total du projet et un accompagnement de la part de la DINUM.
 
 Lors de ce webinaire 100% en ligne, vous pourrez assister à une présentation du guichet, des critères d’éligibilité des projets et des modalités de dépôt de dossier. Vous pourrez alors échanger et poser vos questions à un membre de l’équipe en charge du guichet.
 
