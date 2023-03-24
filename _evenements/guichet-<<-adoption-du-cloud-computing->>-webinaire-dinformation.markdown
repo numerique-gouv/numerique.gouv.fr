@@ -27,7 +27,7 @@ champs_informations:
   lien: https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/
 ---
 
-La DINUM vient de lancer un guichet « **Adoption du cloud computing** » afin de faciliter l’adoption du cloud de confiance pour les administrations et les opérateurs de l’État.
+La DINUM vient de lancer un guichet **« Adoption du cloud computing »** afin de faciliter l’adoption du cloud de confiance pour les administrations et les opérateurs de l’État.
 
 <div align="center"><a href="https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/" class="button"><b>Plus d'infos sur le guichet</b></a></div>
 <br>
