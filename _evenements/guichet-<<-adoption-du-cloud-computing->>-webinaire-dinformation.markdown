@@ -21,7 +21,7 @@ champs_informations:
 - intitule: Comment s'inscrire
   contenu: Envoyer une demande d’inscription par e-mail à l’adresse infonuage.dinum@modernisation.gouv.fr,
     le lien de connexion vous sera alors envoyé.
-  lien: infonuage.dinum@modernisation.gouv.fr
+  less lien: 'mail to: infonuage.dinum@modernisation.gouv.fr'
 - intitule: Plus d'informations
   contenu: sur le guichet de financement
   lien: https://www.numerique.gouv.fr/services/guichet-financement-ftap-adoption-du-cloud-computing/
@@ -37,4 +37,4 @@ Lors de ce webinaire 100% en ligne, vous pourrez assister à une présentation d
 
 #### Déroulé :
 * **[11h45 - 12h15]** Présentation du guichet : types de projets, critères de sélection, modalités 
-* **[12h15 - 12h30]** Exemples de projets à impact
+* **[12h15 - 12h30]** Session de questions / réponses avec un animateur du guichet
