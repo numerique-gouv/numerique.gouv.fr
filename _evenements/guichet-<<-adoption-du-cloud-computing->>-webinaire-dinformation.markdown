@@ -1,7 +1,8 @@
 ---
 title: Guichet « Adoption du cloud computing » - webinaire d’information
 date: 2023-03-24 09:29:00 +01:00
-published: false
+categories:
+- Webinaire d'information
 chapeau-text: Le guichet « Adoption du cloud computing » est ouvert aux candidatures
   ! Vous avez une idée de projet ? Retrouvez-nous lors d’un webinaire d’information
   pour une présentation suivi d’un temps d’échange avec un membre de l’équipe en charge
