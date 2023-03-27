@@ -2,10 +2,17 @@
 title: La DINUM au 6e édition du Forum de la transition numérique
 date: 2023-03-27 14:45:00 +02:00
 published: false
+categories:
+- Webinaire
 chapeau-text: À travers la présentation de plusieurs de ses programmes, la DINUM participera
   à la 6e édition du Forum de la transition numérique, organisées par La Gazette des
   communes le 1er juin prochain. Cette 6e édition sera dédiée à la transition numérique
   des services publics.
+categorie: Webinaire
+event_start_date: 2023-06-01 09:00:00 +02:00
+champs_informations:
+- intitule: Modalités
+  contenu: inscription obligatoire
 ---
 
 Afin de poursuivre la transformation numérique des services publics, La Gazette des communes vous propose, pour la sixième année, un événement majeur et incontournable pour les collectivités et les entreprises : le Forum de la transition numérique!
