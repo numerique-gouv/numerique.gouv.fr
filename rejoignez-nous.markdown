@@ -61,6 +61,10 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
+* **[Chargé(e) de mission "Campus du numérique" H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/ "Chef/fe de mission « Chargé(e) de mission "Campus du numérique" H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Chef/fe de mission « Talents du numérique » H/F](https://place-emploi-public.gouv.fr/offre-emploi/cheffe-de-mission--talents-du-numerique--hf-reference-2023-1122793/ "Chef/fe de mission « Talents du numérique » (H/F) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -77,12 +81,12 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-* **[Chargé de mission - Sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/charge-de-mission---securisation-et-conseil-des-grands-projets-si-de-l-tat-hf-reference-2023-1175899/ "Chargé de mission - Sécurisation et conseil des grands projets SI de l'État (H/F) - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1174768/ "Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat (H/F) - Lien externe")**
 <br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
+
+* **[Directeur(trice) de Projets sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/ "Directeur(trice) de Projets sécurisation et conseil des grands projets SI de l'État (H/F) - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
 
 * **[Adjoint(e) au chef du département Etalab et chef(fe) du pôle ouverture et partage des données H/F](https://place-emploi-public.gouv.fr/offre-emploi/2023-1175822/ "Adjoint(e) au chef du département Etalab et chef(fe) du pôle ouverture et partage des données (H/F) - Lien externe")**
 <br>Cadre/Catégorie A
