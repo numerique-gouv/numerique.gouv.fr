@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 30 mars 2023
+date_de_modification: 3 avril 2023
 style: |-
   .button {
   background-color: #0d5c98;
@@ -58,10 +58,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 
 * **[Chargé(e) de mission "Campus du numérique" H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/ "Chef/fe de mission « Chargé(e) de mission "Campus du numérique" H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chef/fe de mission « Talents du numérique » H/F](https://place-emploi-public.gouv.fr/offre-emploi/cheffe-de-mission--talents-du-numerique--hf-reference-2023-1122793/ "Chef/fe de mission « Talents du numérique » (H/F) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
