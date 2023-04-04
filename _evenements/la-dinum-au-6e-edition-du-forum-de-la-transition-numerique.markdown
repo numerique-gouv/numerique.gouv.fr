@@ -1,7 +1,6 @@
 ---
 title: La DINUM à la 6e édition du Forum de la transition numérique
 date: 2023-03-27 14:45:00 +02:00
-published: false
 categories:
 - Webinaire
 chapeau-text: À travers la présentation de plusieurs de ses programmes, la DINUM participera
@@ -26,6 +25,8 @@ Entre décryptages réglementaires, points de vue de professionnels et retours d
 * **9h45 – 10h40 :** Table ronde **« data territoriale : maîtrisez votre environnement numérique »**: de quel accompagnement peuvent bénéficier les collectivités, avec Geoffrey ALDEBERT (DINUM), Jacques Priol (fondateur Observatoire data publica), Jean-Marie Bourgogne (délégué général Open data France) et un représentant du projet Rudi (Rennes).
 
 * **14h30 – 15h30 :** Table ronde **« le numérique responsable, passer de la théorie à la pratique »**: enjeux de sobriété numérique, analyse des outils prévus pour accompagner les collectivités, etc., avec Olivier JOVIADO, Raphaël Guastavi (Ademe) et le fondateur de Green IT.
+
+Grâce au code promo **DINUM20**, vous pouvez bénéficier de 20% de remise sur le tarif général HT de la conférence. Alors n'hésitez plus !
 
 <div align="center"><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-6e-forum-de-la-transition-numerique-2023-p-16391/" class="button"><b>S'inscrire au webinaire</b></a></div>
 <br>
