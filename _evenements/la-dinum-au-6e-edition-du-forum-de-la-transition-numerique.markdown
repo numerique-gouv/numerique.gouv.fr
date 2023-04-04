@@ -1,6 +1,7 @@
 ---
 title: La DINUM à la 6e édition du Forum de la transition numérique
 date: 2023-03-27 14:45:00 +02:00
+published: false
 categories:
 - Webinaire
 chapeau-text: À travers la présentation de plusieurs de ses programmes, la DINUM participera
