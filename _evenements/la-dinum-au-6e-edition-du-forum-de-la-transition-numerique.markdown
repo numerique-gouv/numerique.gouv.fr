@@ -12,6 +12,7 @@ event_start_date: 2023-06-01 09:00:00 +02:00
 champs_informations:
 - intitule: Modalités
   contenu: inscription obligatoire
+  lien: https://evenements.infopro-digital.com/gazette-des-communes/evenement-6e-forum-de-la-transition-numerique-2023-p-16391/
 ---
 
 Afin de poursuivre la transformation numérique des services publics, La Gazette des communes vous propose, pour la sixième année, un événement majeur et incontournable pour les collectivités et les entreprises : le Forum de la transition numérique !
