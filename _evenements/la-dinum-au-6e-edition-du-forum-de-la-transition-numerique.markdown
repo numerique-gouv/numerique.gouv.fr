@@ -27,6 +27,7 @@ Entre décryptages réglementaires, points de vue de professionnels et retours d
 * **14h30 – 15h30 :** Table ronde **« le numérique responsable, passer de la théorie à la pratique »**: enjeux de sobriété numérique, analyse des outils prévus pour accompagner les collectivités, etc., avec Olivier JOVIADO, Raphaël Guastavi (Ademe) et le fondateur de Green IT.
 
 Grâce au code promo **DINUM20**, vous pouvez bénéficier de 20% de remise sur le tarif général HT de la conférence. Alors n'hésitez plus !
+
 <br>
 
 <div align="center"><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-6e-forum-de-la-transition-numerique-2023-p-16391/" class="button"><b>S'inscrire au webinaire</b></a></div>
