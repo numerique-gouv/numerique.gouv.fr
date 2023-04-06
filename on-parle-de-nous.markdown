@@ -61,7 +61,3 @@ layout: page-annexe
 <date>28 mars 2022</date>
 <p class="margin-0">Dans : BFM Business avec vous
 <media>bfmtv.com</media>
-
-<titre><a href="https://www.maddyness.com/2022/02/21/beta-gouv-etat-innovation-service-public/" title=" Avec Beta.gouv, l’Etat encourage l’innovation dans le service public - Lien externe"> Avec Beta.gouv, l’Etat encourage l’innovation dans le service public </a></titre>
-<date>21 février 2022</date>
-<media>Madyness</media>
