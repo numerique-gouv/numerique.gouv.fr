@@ -11,11 +11,11 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
-<titre><a href="https://acteurspublics.fr/articles/stephanie-schaer-dinum-lambition-nest-pas-de-tout-reconstruire-pour-concurrencer-les-acteurs-du-numerique"Stéphanie Schaer (Dinum) : “L’ambition n’est pas de tout reconstruire pour concurrencer les acteurs du numérique” - Lien externe"> Stéphanie Schaer (Dinum) : “L’ambition n’est pas de tout reconstruire pour concurrencer les acteurs du numérique”</a></titre>
+<titre><a href="https://acteurspublics.fr/articles/stephanie-schaer-dinum-lambition-nest-pas-de-tout-reconstruire-pour-concurrencer-les-acteurs-du-numerique" title="Stéphanie Schaer (Dinum) : “L’ambition n’est pas de tout reconstruire pour concurrencer les acteurs du numérique” - Lien externe"> Stéphanie Schaer (Dinum) : “L’ambition n’est pas de tout reconstruire pour concurrencer les acteurs du numérique”</a></titre>
 <date>30 mars 2023</date>
 <media> Acteurs publics </media>
 
-<titre><a href="https://acteurspublics.fr/articles/un-hackathon-pour-diffuser-la-culture-cloud-dans-les-administrations"Un hackathon pour diffuser la culture “cloud” dans les administrations - Lien externe"> Un hackathon pour diffuser la culture “cloud” dans les administrations</a></titre>
+<titre><a href="https://acteurspublics.fr/articles/un-hackathon-pour-diffuser-la-culture-cloud-dans-les-administrations" title="Un hackathon pour diffuser la culture “cloud” dans les administrations - Lien externe"> Un hackathon pour diffuser la culture “cloud” dans les administrations</a></titre>
 <date>20 mars 2023</date>
 <media> Acteurs publics </media>
 
