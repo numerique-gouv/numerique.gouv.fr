@@ -11,6 +11,14 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://acteurspublics.fr/articles/stephanie-schaer-dinum-lambition-nest-pas-de-tout-reconstruire-pour-concurrencer-les-acteurs-du-numerique" title="Stéphanie Schaer (Dinum) : “L’ambition n’est pas de tout reconstruire pour concurrencer les acteurs du numérique” - Lien externe"> Stéphanie Schaer (Dinum) : “L’ambition n’est pas de tout reconstruire pour concurrencer les acteurs du numérique”</a></titre>
+<date>30 mars 2023</date>
+<media> Acteurs publics </media>
+
+<titre><a href="https://acteurspublics.fr/articles/un-hackathon-pour-diffuser-la-culture-cloud-dans-les-administrations" title="Un hackathon pour diffuser la culture “cloud” dans les administrations - Lien externe"> Un hackathon pour diffuser la culture “cloud” dans les administrations</a></titre>
+<date>20 mars 2023</date>
+<media> Acteurs publics </media>
+
 <titre><a href="https://www.lemondeinformatique.fr/actualites/lire-drh-datalab-brigades-du-numerique-la-dinum-fixe-sa-feuille-de-route-89794.html" title="DRH, Datalab, brigades du numérique : la Dinum fixe sa feuille de route - Lien externe"> DRH, Datalab, brigades du numérique : la Dinum fixe sa feuille de route</a></titre>
 <date>10 mars 2023</date>
 <media> Le Monde Informatique </media>
@@ -53,7 +61,3 @@ layout: page-annexe
 <date>28 mars 2022</date>
 <p class="margin-0">Dans : BFM Business avec vous
 <media>bfmtv.com</media>
-
-<titre><a href="https://www.maddyness.com/2022/02/21/beta-gouv-etat-innovation-service-public/" title=" Avec Beta.gouv, l’Etat encourage l’innovation dans le service public - Lien externe"> Avec Beta.gouv, l’Etat encourage l’innovation dans le service public </a></titre>
-<date>21 février 2022</date>
-<media>Madyness</media>
