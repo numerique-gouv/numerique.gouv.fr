@@ -20,7 +20,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 9h - 17h
 - intitule: Comment y aller
-  contenu: RER [C]  - Pont du Garigliano Métro ➇ Balard Tram 2/3A Henri Farman
+  contenu: 'RER [C]  - Pont du Garigliano Métro ➇ Balard Tram 2/3A : Henri Farman'
 - intitule: Gratuit
   contenu: Inscription obligatoire
   lien: https://www.demarches-simplifiees.fr/commencer/tdf-etape-idf
