@@ -115,7 +115,7 @@ Ces groupes projets ont pour objectif de :
 
 <br>
 
-<div align="center"><a href="https://www.dailymotion.com/video/k5jTjumnSbjLPTyZ6mX" class="button"><b>Replay de la journée</b></a></div>
+<div align="center"><a href="https://www.dailymotion.com/video/k5jTjumnSbjLPTyZ6mX" class="button"><b>Revivre la journée en vidéo</b></a></div>
 <br>
 
 <p>> Pour suivre les travaux du programme TNT, rendez-vous sur notre espace dédié.</p>
