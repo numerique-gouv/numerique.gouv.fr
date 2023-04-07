@@ -62,11 +62,11 @@ Tous les groupes projets sont ouverts aux agents ou élus de collectivités terr
 #### Groupe Projet 7 : Baromètre de la transformation numérique des collectivités territoriales
 * **Objectifs :** Consolider dans un outil de suivi et de pilotage, partagé entre Etat et collectivités territoriales, des indicateurs de déploiement couvrant les différents chantiers de la transformation numérique.
 
-* **Copilotes :** la direction interministérielle du numérique et l’association Déclic
+* **Copilotes :** la direction interministérielle du numérique (DINUM) et l’association Déclic
 
 #### Groupe Projet 8 : Accompagnement des collectivités vers la mise en œuvre d’un numérique écoresponsable
 * **Objectifs :** Adresser le numérique écoresponsable à l’échelon local en proposant des ressources et outils pouvant servir à la mise en œuvre d’une stratégie en vue notamment des nouvelles obligations issues de l’article 35 de la loi REEN, et explorer des pistes de travail pour un numérique au service de la transition écologique.
-* **Copilotes :** la direction interministérielle du numérique, [la mission interministérielle numérique écoresponsable](https://ecoresponsable.numerique.gouv.fr/ "la mission interministérielle numérique écoresponsable - Lien externe") (MiNumEco), France urbaine, l’Assemblée des Communautés de France (AdCF), les Interconnectés
+* **Copilotes :** la direction interministérielle du numérique (DINUM), [la mission interministérielle numérique écoresponsable](https://ecoresponsable.numerique.gouv.fr/ "la mission interministérielle numérique écoresponsable - Lien externe") (MiNumEco), France urbaine, l’Assemblée des Communautés de France (AdCF), les Interconnectés
 <br>
 <br>
 
