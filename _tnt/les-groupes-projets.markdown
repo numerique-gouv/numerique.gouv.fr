@@ -60,8 +60,7 @@ Tous les groupes projets sont ouverts aux agents ou élus de collectivités terr
 * **Copilotes :** OpenDataFrance, FNCCR et l'Agence nationale de la cohésion des territoires (ANCT).
 
 #### Groupe Projet 7 : Baromètre de la transformation numérique des collectivités territoriales
-* **Objectifs :** Consolider dans un outil de suivi et de pilotage, partagé entre Etat et collectivités territoriales, des indicateurs de déploiement couvrant les différents chantiers de la transformation numérique.
-
+* **Objectifs :** Consolider dans un outil de suivi et de pilotage, partagé entre État et collectivités territoriales, des indicateurs de déploiement couvrant les différents chantiers de la transformation numérique.
 * **Copilotes :** la direction interministérielle du numérique (DINUM) et l’association Déclic
 
 #### Groupe Projet 8 : Accompagnement des collectivités vers la mise en œuvre d’un numérique écoresponsable
