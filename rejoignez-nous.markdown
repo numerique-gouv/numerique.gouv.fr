@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 6 avril 2023
+date_de_modification: 11 avril 2023
 style: |-
   .button {
   background-color: #0d5c98;
@@ -73,10 +73,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-* **[Pilote de l'Observatoire de la qualité des services numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/pilote-de-l-observatoire-de-la-qualite-des-services-numeriques-hf-reference-2023-1175873/ "Pilote de l'Observatoire de la qualité des services numériques (H/F) - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
 * **[Ingénieur Expert Réseau - Chargé de mission d'accompagnement H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/ "Ingénieur Expert Réseau - Chargé de mission d'accompagnement (H/F) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
@@ -88,10 +84,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
 
 * **[Directeur(trice) de Projets sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/ "Directeur(trice) de Projets sécurisation et conseil des grands projets SI de l'État (H/F) - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Adjoint(e) au chef du département Etalab et chef(fe) du pôle ouverture et partage des données H/F](https://place-emploi-public.gouv.fr/offre-emploi/2023-1175822/ "Adjoint(e) au chef du département Etalab et chef(fe) du pôle ouverture et partage des données (H/F) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
