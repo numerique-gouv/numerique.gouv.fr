@@ -15,14 +15,14 @@ Après l'accompagnement réussi de [9 projets l'an dernier](https://citoyens.tra
 Cette année, nous concentrons notre accompagnement autour de « biens communs », qu’ils soient numériques ou non.
 
 Les projets que nous sélectionnerons doivent ainsi :
-* viser la gestion ou la préservation de ressources, au bénéfice de toutes et tous : données et codes ouverts, ressources naturelles, science ouverte…
-* être portés par des associations ou par l’administration, en lien avec la société civile,
-* présenter un fort potentiel d'impact, sur une problématique publique majeure (les « politiques prioritaires gouvernementales »).
+* **viser la gestion ou la préservation de ressources, au bénéfice de toutes et tous** : données et codes ouverts, ressources naturelles, science ouverte…
+* **être portés par des associations ou par l’administration,** en lien avec la société civile,
+* **présenter un fort potentiel d'impact, sur une problématique publique majeure** (l'une des « politiques prioritaires gouvernementales »).
 
 ## Un accompagnement sur mesure d'un an
-Les initiatives lauréates obtiennent un accompagnement sur mesure d'un an par l’État, pour accélérer leur déploiement et changement d'échelle, et nouer des partenariats durables avec l'administration. 
+Les initiatives lauréates obtiennent un accompagnement sur mesure pendant un an par l’État, pour accélérer leur déploiement et changement d'échelle, et nouer des partenariats durables avec l'administration. 
 
-Les lauréats de la saison 1 ont témoigné de bénéfices concrets :
+À l'issue de la 1re saison, les lauréats ont témoigné de bénéfices concrets :
 1. Un accès privilégié et accéléré aux administrations utiles à leur projet ;
 2. Un gain de temps dans le développement de leur initiative ;
 3. Une meilleure maîtrise des codes du secteur public ;
