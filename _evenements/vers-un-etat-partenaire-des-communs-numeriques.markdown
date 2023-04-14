@@ -1,7 +1,6 @@
 ---
 title: Vers un Etat-Partenaire des communs numériques
 date: 2023-04-13 17:10:00 +02:00
-published: false
 chapeau-text: 'A l''occasion du lancement de l''Accélérateur d''initiatives citoyennes,
   la Direction interministérielle du numérique vous convie, le 10 mai de 14h30 à 17h30,
   en partenariat avec le Conseil national du numérique, l''IGN, la Société des communs,
@@ -9,6 +8,8 @@ chapeau-text: 'A l''occasion du lancement de l''Accélérateur d''initiatives ci
   et de rencontre autour des coopérations État-communs numériques. Cet événement se
   tiendra au lieu de la Transformation publique. Il s''inscrit dans la dynamique Numérique
   en Commun(s). '
+une-ou-diaporama:
+- image: "/uploads/2023_04_07_accelerateur-Initiatives-Citoyennes_article.jpg"
 event_start_date: 2023-05-10 14:00:00 +02:00
 lieu: Le Lieu de la transformation publique
 adresse: 77 avenue de Ségur, 75015 Paris
