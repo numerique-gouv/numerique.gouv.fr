@@ -41,10 +41,6 @@ Déposez votre projet jusqu'au 2 mai pour bénéficier du soutien de l'Accélér
 
 <div align="center" style="margin-bottom: 30px; margin-top: 4em;"><a href="https://citoyens.transformation.gouv.fr/" class="button" title="En savoir plus et postuler"><b>En savoir plus et postuler</b></a></div>
 
-<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Participez à l'événement « Vers un État-Partenaire des communs numériques », le 10 mai</h3><p>La DINUM organise un événement dédié au volet numérique de l'Accélérateur d'initiatives citoyennes.</p><p>Au programme : table-ronde consacrée aux relations entre État et communs numériques, et rencontres avec les porteurs de projets numériques lauréats de la 1re saison de l'Accélérateur d'initiatives citoyennes.</p><p>📅 Mercredi 10 mai, 14h30 à 17h30
+<div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px; margin-bottom: 0px">Participez à l'événement «&nbsp;Vers un État-Partenaire des communs numériques&nbsp;»</h3><h4 style="margin-top: 0px; margin-bottom: 10px">Le 10 mai, à Paris</h4><p>La DINUM organise un événement dédié au volet numérique de l'Accélérateur d'initiatives citoyennes.</p><p>Au programme : table-ronde consacrée aux relations entre État et communs numériques, et rencontres avec les porteurs de projets numériques lauréats de la 1re saison de l'Accélérateur d'initiatives citoyennes.</p><p style="margin-top: 10px;">📅 Mercredi 10 mai, 14h30 à 17h30
 <br>📍 Paris, au Lieu de la transformation publique (15e).</p>
-<div class="lien-important"><p><a href="https://citoyens.transformation.gouv.fr/programme/" alt="Lire la suite - Lien externe">Infos et inscriptions</a></p></div></div>
-
- ➡ https://lnkd.in/e2SHkkuB
- 
-👉 
+<div class="lien-important" style="margin-top: 20px; margin-bottom: 0px"><p><a href="https://citoyens.transformation.gouv.fr/programme/" alt="Lire la suite - Lien externe">Infos et inscriptions</a></p></div></div>
