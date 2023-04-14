@@ -4,6 +4,8 @@ title: 'Accélérateur d’initiatives citoyennes : une 2e saison pour soutenir 
 date: 2023-04-13 14:38:00 +02:00
 categories:
 - Article
+tags:
+- Accélérateur d'initiatives citoyennes
 une-ou-diaporama:
 - image: "/uploads/2023_04_07_accelerateur-Initiatives-Citoyennes_article.jpg"
 ---
