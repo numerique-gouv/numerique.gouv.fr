@@ -1,7 +1,7 @@
 ---
 title: 'Accélérateur d’initiatives citoyennes : une 2e saison pour soutenir des projets
   d''intérêt général'
-date: 2023-04-13 14:38:00 +02:00
+date: 2023-04-14 14:38:00 +02:00
 categories:
 - Article
 tags:
