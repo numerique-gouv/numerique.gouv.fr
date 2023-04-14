@@ -29,7 +29,9 @@ Lors de cet après-midi vous pourrez débattre lors de la table-ronde consacrée
 
 ### Au programme
 **[14h30]** Café et mot d'accueil
+
 **[15h]** Découvrir les initiatives accompagnées par l'Accélérateur d'initiatives citoyennes
+
 **[16h]** Quelle doctrine d’intervention pour l’Etat-partenaire des communs numériques ? 
 
 
