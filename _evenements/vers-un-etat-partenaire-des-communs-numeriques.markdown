@@ -8,6 +8,7 @@ chapeau-text: 'A l''occasion du lancement de l''Accélérateur d''initiatives ci
   et de rencontre autour des coopérations État-communs numériques. Cet événement se
   tiendra au lieu de la Transformation publique. Il s''inscrit dans la dynamique Numérique
   en Commun(s). '
+categorie: Evénement
 une-ou-diaporama:
 - image: "/uploads/2023_04_07_accelerateur-Initiatives-Citoyennes_article.jpg"
 event_start_date: 2023-05-10 14:00:00 +02:00
