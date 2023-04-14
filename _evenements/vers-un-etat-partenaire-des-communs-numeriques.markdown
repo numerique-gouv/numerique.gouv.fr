@@ -1,7 +1,6 @@
 ---
 title: Vers un Etat-Partenaire des communs numériques
 date: 2023-04-13 17:10:00 +02:00
-published: false
 chapeau-text: 'A l''occasion du lancement de l''Accélérateur d''initiatives citoyennes,
   la Direction interministérielle du numérique vous convie, le 10 mai de 14h30 à 17h30,
   en partenariat avec le Conseil national du numérique, l''IGN, la Société des communs,
