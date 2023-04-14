@@ -39,7 +39,7 @@ Lors de cet après-midi vous pourrez débattre lors de la table-ronde consacrée
 
 * **[15h15-16h]** Découvrir les initiatives accompagnées par l'Accélérateur d'initiatives citoyennes
 
-* [16h-17h30] Table ronde : Quelle doctrine d’intervention pour l’État-partenaire des communs numériques ? - Suivie d'échanges avec le public
+* **[16h-17h30]** Table ronde : Quelle doctrine d’intervention pour l’État-partenaire des communs numériques ? - Suivie d'échanges avec le public
 
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.eventbrite.com/e/billets-evenement-vers-un-etat-partenaire-des-communs-numeriques-598397582277" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
