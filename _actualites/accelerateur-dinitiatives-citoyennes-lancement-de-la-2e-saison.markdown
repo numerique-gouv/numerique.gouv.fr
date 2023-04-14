@@ -1,6 +1,8 @@
 ---
-title: 'Accélérateur d’Initiatives Citoyennes : lancement de la 2e saison'
+title: 'Accélérateur d’initiatives citoyennes : lancement de la 2e saison'
 date: 2023-04-13 22:36:00 +02:00
+categories:
+- Appel à projets
 tags:
 - Accélérateur d'initiatives citoyennes
 chapeau-text: 'La DINUM lance, en partenariat avec la DITP, une deuxième saison de
