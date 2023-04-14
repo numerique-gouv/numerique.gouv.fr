@@ -22,7 +22,7 @@ champs_informations:
   contenu: entrée gratuite (dans la limite des places disponibles)
 - intitule: Plus d'infos
   contenu: S'inscrire
-  Lien: https://www.eventbrite.fr/manage/events/598397582277/details
+  Lien: https://www.eventbrite.com/e/billets-evenement-vers-un-etat-partenaire-des-communs-numeriques-598397582277
 ---
 
 Lors de cet après-midi vous pourrez débattre lors de la table-ronde consacrée aux relations Etat-communs numériques et rencontrer les porteurs de projets de communs numériques lauréats de l'AIC (Vikidia, Infoclimat…), en compagnie de Valérie Peugeot (CNIL), Sébastien Soriano (IGN), Guillaume Rozier (Elysée), Audran le Baron et Pauline Lavagne D'Ortigue (DITP).
@@ -35,4 +35,4 @@ Lors de cet après-midi vous pourrez débattre lors de la table-ronde consacrée
 **[16h]** Quelle doctrine d’intervention pour l’Etat-partenaire des communs numériques ? 
 
 
-<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.eventbrite.fr/manage/events/598397582277/details" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.eventbrite.com/e/billets-evenement-vers-un-etat-partenaire-des-communs-numeriques-598397582277" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
