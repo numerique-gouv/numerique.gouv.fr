@@ -33,11 +33,13 @@ champs_informations:
 Lors de cet après-midi vous pourrez débattre lors de la table-ronde consacrée aux relations État-communs numériques et rencontrer les porteurs de projets de communs numériques lauréats de l'AIC (Vikidia, Infoclimat…), en compagnie de Stéphanie Schaer, directrice interministérielle du numérique (DINUM), Guillaume Rozier (Élysée), Valérie Peugeot (CNIL), Sébastien Soriano (IGN), Audran le Baron et Pauline Lavagne d'Ortigue (DITP).
 
 ### Au programme
-**[14h30]** Café et mot d'accueil
+* **[14h30]** Accueil café 
 
-**[15h]** Découvrir les initiatives accompagnées par l'Accélérateur d'initiatives citoyennes
+* **[15h]** Mot d'accueil par Stéphanie Schaer, directrice interministérielle du numérique (DINUM)
 
-**[16h]** Table ronde : Quelle doctrine d’intervention pour l’État-partenaire des communs numériques ? 
+* **[15h15-16h]** Découvrir les initiatives accompagnées par l'Accélérateur d'initiatives citoyennes
+
+* [16h-17h30] Table ronde : Quelle doctrine d’intervention pour l’État-partenaire des communs numériques ? - Suivie d'échanges avec le public
 
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.eventbrite.com/e/billets-evenement-vers-un-etat-partenaire-des-communs-numeriques-598397582277" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
