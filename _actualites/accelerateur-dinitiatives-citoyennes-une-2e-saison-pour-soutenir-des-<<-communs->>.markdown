@@ -1,7 +1,7 @@
 ---
 title: 'Accélérateur d’initiatives citoyennes : une 2e saison pour soutenir des «
   communs »'
-date: 2023-04-14 14:38:00 +02:00
+date: 2023-04-13 14:38:00 +02:00
 categories:
 - Article
 une-ou-diaporama:
@@ -10,11 +10,11 @@ une-ou-diaporama:
 
 Parce que la société civile produit aussi des biens communs d'intérêt général, l’État leur apporte son soutien.
 
-Après l'accompagnement réussi de [9 projets l'an dernier](https://citoyens.transformation.gouv.fr/laureats/ "9 projets l'an dernier - Lien externe"), la DINUM lance, en partenariat avec la direction interministérielle de la transformation publique (DITP), une 2e saison du programme Accélérateur d'initiatives citoyennes (AIC). Avec un objectif inchangé : promouvoir et renforcer les coopérations entre l'État et la société civile, en soutenant des projets au service de l’intérêt général.
+Après l'accompagnement réussi de [9 projets l'an dernier](https://citoyens.transformation.gouv.fr/laureats/ "9 projets l'an dernier - Lien externe"), la DINUM lance, en partenariat avec la direction interministérielle de la transformation publique (DITP), une 2e saison du programme Accélérateur d'initiatives citoyennes (AIC). Avec un objectif inchangé : **promouvoir et renforcer les coopérations entre l'État et la société civile, en soutenant des projets au service de l’intérêt général.**
 
 Cette année, nous concentrons notre accompagnement autour de « biens communs », qu’ils soient numériques ou non.
 
-Les projets que nous sélectionnerons doivent ainsi :
+<p style="margin-bottom: 0px">Les projets que nous sélectionnerons doivent ainsi :</p>
 * **viser la gestion ou la préservation de ressources, au bénéfice de toutes et tous** : données et codes ouverts, ressources naturelles, science ouverte…
 * **être portés par des associations ou par l’administration,** en lien avec la société civile,
 * **présenter un fort potentiel d'impact, sur une problématique publique majeure** (l'une des « politiques prioritaires gouvernementales »).
@@ -33,7 +33,7 @@ Les initiatives lauréates obtiennent un accompagnement sur mesure pendant un an
 Les projets de « communs numériques » sont sélectionnés et accompagnés par la DINUM.
 La DITP, quant à elle, pilote la sélection et le soutien aux projets qui se structurent autour de ressources d’intérêt commun, matérielles ou immatérielles, sans dominante numérique.
 
-## Un appel à projets jusqu'au 2 mai
+## Un appel à projets jusqu'au 2 mai 2023
 Un appel à projets est lancé jusqu'au 2 mai afin d'identifier les initiatives qui recevront le soutien du programme.
 
 Vous portez un projet de commun d'intérêt général, en tant qu'association ou administration ?
