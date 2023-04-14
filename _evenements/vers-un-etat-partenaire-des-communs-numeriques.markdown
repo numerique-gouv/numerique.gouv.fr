@@ -16,7 +16,7 @@ lieu: Le Lieu de la transformation publique
 adresse: 77 avenue de Ségur, 75015 Paris
 champs_informations:
 - intitule: Horaires
-  contenu: 14h-17h30
+  contenu: 14h30-17h30
 - intitule: Comment y aller
   contenu: Métro ➅ Cambronne ➇ La Motte Piquet - Grenelle ➉ Ségur
 - intitule: Modalités
