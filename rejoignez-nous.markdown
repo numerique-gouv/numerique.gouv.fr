@@ -89,9 +89,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>Cadre/Catégorie A
 <br>
 
-* **[Responsable opérationnel, technique et sécurité du Datalab (DataSecOps) H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-technique-et-securite-du-datalab-datasecops-hf-reference-2023-1179967/ "Responsable opérationnel, technique et sécurité du Datalab (DataSecOps) (H/F) - Lien externe")**
-<br>Cadre/Catégorie A
-
 * **[Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1174768/ "Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat (H/F) - Lien externe")**
 <br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
 
