@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 12 avril 2023
+date_de_modification: 17 avril 2023
 style: |-
   .button {
   background-color: #0d5c98;
@@ -45,7 +45,15 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 *Sans précision, les postes sont basés à Paris*
 {: .margin-bottom-1}
 
+* **[Data scientist H/F](https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/ "Data scientist H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
 * **[Designer senior H/F](https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/ "Designer senior H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chef(e) du pôle Datanim H/F](https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/ "Chef(e) du pôle Datanim H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
@@ -74,6 +82,10 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 
 * **[Ingénieur Expert Réseau - Chargé de mission d'accompagnement H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/ "Ingénieur Expert Réseau - Chargé de mission d'accompagnement (H/F) - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Responsable opérationnel, technique et sécurité du Datalab (DataSecOps) H/F](https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-operationnel-technique-et-securite-du-datalab-datasecops-hf-reference-2023-1179967/ "Responsable opérationnel, technique et sécurité du Datalab (DataSecOps) (H/F) - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
