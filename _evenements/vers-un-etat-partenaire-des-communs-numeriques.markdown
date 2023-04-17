@@ -5,7 +5,8 @@ categories:
 - Évènement
 tags:
 - Accélérateur d'initiatives citoyennes
-chapeau-text: 'À l''occasion du lancement de l''Accélérateur d''initiatives citoyennes,
+chapeau-text: 'À l''occasion du [lancement de la 2e saison de l''Accélérateur d''initiatives
+  citoyennes](/actualites/accelerateur-initiatives-citoyennes-lancement-2e-saison/),
   la direction interministérielle du numérique vous convie, le 10 mai de 14h30 à 17h30,
   à un temps d''échange et de rencontre autour des coopérations État-communs numériques.
   En partenariat avec le Conseil national du numérique, l''IGN, la Société des communs,
