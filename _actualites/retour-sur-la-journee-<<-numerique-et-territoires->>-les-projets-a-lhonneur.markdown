@@ -17,7 +17,7 @@ une-ou-diaporama:
 
 La journée « Numérique et Territoires » avait notamment pour objectif de faire le bilan du fonds « Transformation numérique des collectivités territoriales (ITN7) » du plan France Relance, de mettre en avant les projets ainsi financés et accompagnés, en donnant la parole à un panel de lauréats du fonds et, plus globalement, d’échanger sur les grands enjeux de la transformation numérique des territoires. 
 
-![intervention-MTFP_5.jpeg](/uploads/intervention-MTFP_5.jpeg "photo illustrative de l'événement")
+![intervention-MTFP_5.jpeg](/uploads/intervention-MTFP_5.jpeg "Le ministre Stanislas Guerini sur scène lors de son intervention")
 
 ### 90 millions d’euros pour la transformation numérique des territoires
 
