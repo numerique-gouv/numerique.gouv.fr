@@ -1,6 +1,7 @@
 ---
 title: Tour de France des Produits numériques interministériels - Étape en Corse
 date: 2023-04-18 15:40:00 +02:00
+published: false
 categories:
 - Journée d'échanges
 - Micro-conférences et ateliers
