@@ -115,7 +115,7 @@ Ces groupes projets ont pour objectif de :
 * Poursuivre des travaux pour accompagner l’exploitation de la donnée et la cybersécurité des collectivités territoriales
 
 <br>
-<div class="conteneur-iframe seize-neuvieme"><div id="video-JNT">
+<div class="conteneur-iframe seize-neuvieme"><div id="video-jnt">
 <div class="dailymotion_player" width="100%" height="100%" videoID="x8js7a7" theme="light" controls="1" showinfo="1" autoplay="0" embedType="video"></div>
 </div></div>
 <div align="center"><a href="https://dai.ly/x8js7a7" class="button"><b>Revivre la journée en vidéo</b></a></div>
