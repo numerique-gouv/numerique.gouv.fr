@@ -15,13 +15,13 @@ une-ou-diaporama:
 - image: "/uploads/2023_01_18_JNT_Article.png"
 ---
 
-La journée « Numérique et Territoires » avait notamment pour objectif de faire le bilan du fonds « Transformation numérique des collectivités territoriales (ITN7) » du plan FranceRelance, de mettre en avant les projets ainsi financés et accompagnés, en donnant la parole à un panel de lauréats du fonds et, plus globalement, d’échanger sur les grands enjeux de la transformation numérique des territoires. 
+La journée « Numérique et Territoires » avait notamment pour objectif de faire le bilan du fonds « Transformation numérique des collectivités territoriales (ITN7) » du plan France Relance, de mettre en avant les projets ainsi financés et accompagnés, en donnant la parole à un panel de lauréats du fonds et, plus globalement, d’échanger sur les grands enjeux de la transformation numérique des territoires. 
 
-![intervention-MTFP_5.jpeg](/uploads/intervention-MTFP_5.jpeg)
+![intervention-MTFP_5.jpeg](/uploads/intervention-MTFP_5.jpeg "photo illustrative de l'événement")
 
 ### 90 millions d’euros pour la transformation numérique des territoires
 
-Partie intégrante du plan FranceRelance, le fonds « Transformation numérique des collectivités » a mobilisé 90 millions d’euros sur deux ans, ce qui a permis à plus de 3200 collectivités de toutes tailles de bénéficier d’un accompagnement humain et financier dans leurs projets de transformation numérique. La première édition de la journée « Numérique et Territoires » était l’occasion de pérenniser le dialogue avec les collectivités territoriales et de partager le bilan de ce fonds avec l’ensemble des parties prenantes. L’événement a rassemblé plus de 350 participants des différentes parties prenantes : agents publics, élus, représentants d’associations de collectivités, administrations porteuses de fonds – DINUM, ANCT via l’Incubateur des Territoires, DITP et l’agence nationale de la sécurité des systèmes d’information (ANSSI) pour le volet cybersécurité. 
+Partie intégrante du plan France Relance, le fonds « Transformation numérique des collectivités » a mobilisé 90 millions d’euros sur deux ans, ce qui a permis à plus de 3200 collectivités de toutes tailles de bénéficier d’un accompagnement humain et financier dans leurs projets de transformation numérique. La première édition de la journée « Numérique et Territoires » était l’occasion de pérenniser le dialogue avec les collectivités territoriales et de partager le bilan de ce fonds avec l’ensemble des parties prenantes. L’événement a rassemblé plus de 350 participants des différentes parties prenantes : agents publics, élus, représentants d’associations de collectivités, administrations porteuses de fonds – DINUM, ANCT via l’Incubateur des Territoires, DITP et l’agence nationale de la sécurité des systèmes d’information (ANSSI) pour le volet cybersécurité. 
 
 
 ###  Des projets ambitieux, aux résultats concrets
@@ -77,7 +77,7 @@ Partie intégrante du plan FranceRelance, le fonds « Transformation numérique 
 <br>
 L’enjeu autour de ces projets est désormais de capitaliser sur les produits et services qui ont émergé et prouvé leur efficacité, de les pérenniser, et de les répliquer afin d’en faire profiter d’autres collectivités, notamment les plus petites qui n’auraient pas eu les moyens de les créer seules.
 
-![JNT - 3.jpeg](/uploads/JNT%20-%203.jpeg)
+![JNT - 3.jpeg](/uploads/JNT%20-%203.jpeg "photo illustrative de l'événement")
 
 En fin de journée, les lauréats mais aussi l’ensemble des agents et élus des collectivités territoriales ont échangé lors d’un forum dédié autour de stands thématiques représentant les principales missions, outils et initiatives portés par la DINUM (Beta.gouv.fr, Démarches Simplifiées, Dites-le-nous une fois…), l’ANCT et la DITP.
 
@@ -92,16 +92,15 @@ La table ronde qui a suivi a été l’occasion pour les participants d’échan
 
 Démarches simplifiées, data.gouv.fr, FranceConnect ou les bouquets d’API sont autant d’exemples de succès de produits mutualisés entre État et territoires qui font aujourd’hui partie du quotidien des agents et des citoyens, ce qu’a notamment souligné Stéphanie Schaer (directrice interministérielle du numérique), lors de son intervention. Ces initiatives doivent néanmoins s’accompagner d’un développement des compétences numériques des agents. Stéphanie Schaer a également insisté sur le rôle crucial des données dans la transformation numérique.
 
-![JNT - 1-16e5ea.jpeg](/uploads/JNT%20-%201-16e5ea.jpeg)
-
-> ##### *« Ouvrir les données et les utiliser, c’est donner le moyen à l’État et aux collectivités territoriales d’être plus efficaces dans leur action et de rendre plus simples les démarches administratives au bénéfice des citoyens, des entreprises comme des agents. »* 
+![JNT - 1-16e5ea.jpeg](/uploads/JNT%20-%201-16e5ea.jpeg "Stéphanie Schaer sur scène lors de son intervention")
+> Ouvrir les données et les utiliser, c’est donner le moyen à l’État et aux collectivités territoriales d’être plus efficaces dans leur action et de rendre plus simples les démarches administratives au bénéfice des citoyens, des entreprises comme des agents. 
 {: .citation}
 > **Stéphanie Schaer,** directrice interministérielle du numérique
 {: .auteur-citation}
 
 ### Des exigences multiples pour le numérique d’aujourd’hui 
 
-La journée a été l’occasion de rappeler les défis actuels auxquels le numérique doit faire face. Ainsi lors de son intervention, Gwenaëlle Martinet (ANSSI) a rappelé que plus de 194 M€ ont été investis dans le cadre du plan FranceRelance pour la cybersécurité des services publics, dont 94M€ directement à destination des collectivités. 
+La journée a été l’occasion de rappeler les défis actuels auxquels le numérique doit faire face. Ainsi lors de son intervention, Gwenaëlle Martinet (ANSSI) a rappelé que plus de 194 M€ ont été investis dans le cadre du plan France Relance pour la cybersécurité des services publics, dont 94M€ directement à destination des collectivités. 
 Le ministre de la Transformation et de la Fonction publiques, Stanislas Guerini, a souligné la nécessité de développer un numérique public simple, accessible à tous, sécurisé et qui satisfasse aux exigences actuelles d’écoresponsabilité ainsi que l’importance d’une « approche partenariale et de concertation pour parvenir à des résultats concrets ».
 
 
