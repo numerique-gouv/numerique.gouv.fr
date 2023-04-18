@@ -94,8 +94,10 @@ Démarches simplifiées, data.gouv.fr, FranceConnect ou les bouquets d’API son
 
 ![JNT - 1-16e5ea.jpeg](/uploads/JNT%20-%201-16e5ea.jpeg)
 
-> ##### *« Ouvrir les données et les utiliser, c’est donner le moyen à l’État et aux collectivités territoriales d’être plus efficaces dans leur action et de rendre plus simples les démarches administratives au bénéfice des citoyens, des entreprises comme des agents. »* -Stéphanie Schaer, directrice interministérielle du numérique
-
+> ##### *« Ouvrir les données et les utiliser, c’est donner le moyen à l’État et aux collectivités territoriales d’être plus efficaces dans leur action et de rendre plus simples les démarches administratives au bénéfice des citoyens, des entreprises comme des agents. »* 
+{: .citation}
+> **Stéphanie Schaer,** directrice interministérielle du numérique
+{: .auteur-citation}
 
 ### Des exigences multiples pour le numérique d’aujourd’hui 
 
@@ -114,8 +116,9 @@ Ces groupes projets ont pour objectif de :
 * Poursuivre des travaux pour accompagner l’exploitation de la donnée et la cybersécurité des collectivités territoriales
 
 <br>
-
-<div align="center"><a href="https://www.dailymotion.com/video/k5jTjumnSbjLPTyZ6mX" class="button"><b>Revivre la journée en vidéo</b></a></div>
+<div class="conteneur-iframe seize-neuvieme"><div id="video-JNT"><div class="dailymotion_player" width="100%" height="100%" videoID="x8js7a7" theme="light" controls="1" showinfo="1" autoplay="0" embedType="video"></div>
+</div></div>
+<div align="center"><a href="https://dai.ly/x8js7a7" class="button"><b>Revivre la journée en vidéo</b></a></div>
 <br>
 
-<p>> Pour suivre les travaux du programme TNT, rendez-vous sur notre espace dédié.</p>
+<p><a href="/services/tnt/">> Pour suivre les travaux du programme TNT, rendez-vous sur notre espace dédié.</a></p>
