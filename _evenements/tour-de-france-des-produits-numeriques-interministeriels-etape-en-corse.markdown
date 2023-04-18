@@ -19,7 +19,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 9h - 17h
 - intitule: Comment y aller
-  contenu: 
+  contenu: Bus Ligne ➁ Préfecture
 - intitule: Gratuit
   contenu: Inscription obligatoire
   lien: https://www.demarches-simplifiees.fr/commencer/etape-corse-tdf
