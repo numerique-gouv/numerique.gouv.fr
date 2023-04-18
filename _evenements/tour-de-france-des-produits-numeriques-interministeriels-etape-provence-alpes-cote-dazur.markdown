@@ -2,12 +2,27 @@
 title: Tour de France des Produits numériques interministériels - Étape Provence-Alpes-Côte
   d’Azur
 date: 2023-04-18 15:23:00 +02:00
+categories:
+- Journée d'échanges
+- Micro-conférences et ateliers
+tags:
+- Environnement de travail numérique de l'agent
 chapeau-text: 'Depuis novembre 2022, la DINUM réalise un Tour de France des régions
   des produits numériques interministériels pour aller à la rencontre des agents :
   les informer, les former et continuer à les accompagner à transformer les méthodes
   de travail - en s’appuyant sur les produits collaboratifs ministériels et interministériels
   mis à leur disposition.'
 event_start_date: 2023-06-06 09:30:00 +02:00
+lieu: Préfecture de la région Provence-Alpes-Côte d’Azur
+adresse: 32 Place Félix Baret, 13006 Marseille
+champs_informations:
+- intitule: Horaires
+  contenu: 9h30 - 17h
+- intitule: 'Accès en '
+  contenu: 
+- intitule: Gratuit
+  contenu: Inscription obligatoire
+  lien: https://www.demarches-simplifiees.fr/commencer/tdf-etape-paca
 ---
 
 Le Tour de France des régions se poursuit. La prochaine étape aura lieu à Marseille !
