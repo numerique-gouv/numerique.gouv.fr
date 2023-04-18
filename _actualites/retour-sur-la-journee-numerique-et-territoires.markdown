@@ -114,6 +114,10 @@ Ces groupes projets ont pour objectif de :
 * Explorer les cadres possibles de mutualisation d’outils numériques entre l’État et les collectivités territoriales
 * Poursuivre des travaux pour accompagner l’exploitation de la donnée et la cybersécurité des collectivités territoriales
 
+<div class="conteneur-iframe seize-neuvieme"><div id="video-jnt">
+<div class="dailymotion_player" width="100%" height="100%" videoID="x8js7a7" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
+</div></div>
+
 <br>
 <div class="conteneur-iframe seize-neuvieme"><div id="video-jnt">
 <div class="dailymotion_player" width="100%" height="100%" videoID="x8js7a7" theme="light" controls="1" showinfo="1" autoplay="0" embedType="video"></div>
