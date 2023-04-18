@@ -6,7 +6,7 @@ layout: page-annexe
 ---
 
 ## Éditeur ##
-Ce site est édité par la direction interministérielle du numérique (DINUM), un service du Premier ministre sous l'autorité du ministre de la Transformation et de la Fonction publiques.
+Ce site est édité par la direction interministérielle du numérique (DINUM), un service de la Première Ministre sous l'autorité du ministre de la Transformation et de la Fonction publiques.
  
 DINUM
 <br>20 avenue de Ségur
