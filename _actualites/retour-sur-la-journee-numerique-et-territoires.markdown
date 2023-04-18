@@ -13,6 +13,19 @@ chapeau-text: Le 18 janvier dernier, la direction interministérielle du numéri
   à Paris la journée « Numérique et Territoires »
 une-ou-diaporama:
 - image: "/uploads/2023_01_18_JNT_Article.png"
+style: |-
+  .button {
+  background-color: #0d5c98;
+  border: 1px solid white;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-style: normal;
+  margin: 4px 2px;
+  cursor: pointer;
+  }
 ---
 
 La journée « Numérique et Territoires » avait notamment pour objectif de faire le bilan du fonds « Transformation numérique des collectivités territoriales (ITN7) » du plan France Relance, de mettre en avant les projets ainsi financés et accompagnés, en donnant la parole à un panel de lauréats du fonds et, plus globalement, d’échanger sur les grands enjeux de la transformation numérique des territoires. 
@@ -114,15 +127,10 @@ Ces groupes projets ont pour objectif de :
 * Explorer les cadres possibles de mutualisation d’outils numériques entre l’État et les collectivités territoriales
 * Poursuivre des travaux pour accompagner l’exploitation de la donnée et la cybersécurité des collectivités territoriales
 
-<div class="conteneur-iframe seize-neuvieme"><div id="video-jnt">
-<div class="dailymotion_player" width="100%" height="100%" videoID="x8js7a7" theme="light" rel="0" controls="1" showinfo="1" autoplay="0"></div>
-</div></div>
-
+<p align="center"><a href="https://dai.ly/x8js7a7"><img src="/uploads/capture-video.png" width="200" style="border:1px solid gray" align="center" alt="Revivre la Journée en vidéo - Lien externe"></a>
 <br>
-<div class="conteneur-iframe seize-neuvieme"><div id="video-jnt">
-<div class="dailymotion_player" width="100%" height="100%" videoID="x8js7a7" theme="light" controls="1" showinfo="1" autoplay="0" embedType="video"></div>
-</div></div>
-<div align="center"><a href="https://dai.ly/x8js7a7" class="button"><b>Revivre la journée en vidéo</b></a></div>
+<br>
+<a href="https://dai.ly/x8js7a7" title="Revivre la Journée en vidéo - Lien externe" class="button">Revivre la Journée en vidéo</a></p>
 <br>
 
 <p><a href="/services/tnt/">> Pour suivre les travaux du programme TNT, rendez-vous sur notre espace dédié.</a></p>
