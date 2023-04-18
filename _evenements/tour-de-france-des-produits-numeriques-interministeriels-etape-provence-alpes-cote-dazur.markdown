@@ -18,8 +18,9 @@ adresse: 32 Place Félix Baret, 13006 Marseille
 champs_informations:
 - intitule: Horaires
   contenu: 9h30 - 17h
-- intitule: 'Accès en '
-  contenu: 
+- intitule: Comment y aller
+  contenu: 'Métro ① Estrangin Préfecture Tram 3 : Place de Rome Bus 41, 54, 81, arrêt
+    Estrangin Puget.'
 - intitule: Gratuit
   contenu: Inscription obligatoire
   lien: https://www.demarches-simplifiees.fr/commencer/tdf-etape-paca
