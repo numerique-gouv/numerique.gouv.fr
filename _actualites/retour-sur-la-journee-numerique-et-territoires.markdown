@@ -126,9 +126,10 @@ Ces groupes projets ont pour objectif de :
 * Travailler à la transposition de directives européennes en matière d’archivage et de données 
 * Explorer les cadres possibles de mutualisation d’outils numériques entre l’État et les collectivités territoriales
 * Poursuivre des travaux pour accompagner l’exploitation de la donnée et la cybersécurité des collectivités territoriales
+<br>
+<br>
 
 <p align="center"><a href="https://dai.ly/x8js7a7"><img src="/uploads/capture-video.png" width="200" style="border:1px solid gray" align="center" alt="Revivre la Journée en vidéo - Lien externe"></a>
-<br>
 <br>
 <a href="https://dai.ly/x8js7a7" title="Revivre la Journée en vidéo - Lien externe" class="button">Revivre la Journée en vidéo</a></p>
 <br>
