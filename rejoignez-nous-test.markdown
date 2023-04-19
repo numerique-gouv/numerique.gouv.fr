@@ -13,7 +13,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   \ grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));\n  grid-auto-rows:
   minmax(150px, auto);\n}\n\n.panel {\n  margin-left: 5px;\n  margin-right: 5px;\n
   \ flex: 1 1 200px;\ndisplay: inline-grid;\nalign-content: end;\n}\n\n.wrapper >
-  * {\n  padding: 10px;\n  font-size: 100%;\n  margin-bottom: 10px;\ntext-align: center;\nbackground-color:
+  * {\n  padding: 10px;\n  font-size: 100%;\n  margin-bottom: 10px;\ntext-align: left;\nbackground-color:
   #f9f8f6;\n\tborder-bottom: 4px solid #000091;\n}\n\n\n.titre-document {\n  color:
   #095D9C;\n  font-weight: bold;\n}"
 layout: page-annexe
