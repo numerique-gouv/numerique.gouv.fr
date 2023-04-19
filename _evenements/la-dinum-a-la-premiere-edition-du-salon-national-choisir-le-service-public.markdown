@@ -17,7 +17,7 @@ champs_informations:
   contenu: 10h - 19h
 - intitule: Comment y aller ?
   contenu: "Métro ⓮ RER [C] - Bibliothèque François Mitterrand Métro ⑥ Chevaleret
-    Bus 89/325 : Quai de la Gare 27 : Clisson Parking \U0001F6B2 sur le parvis"
+    Bus 89/325 : Quai de la Gare 27 : Clisson \U0001F6B2 Parking Vélo sur le parvis"
 - intitule: Modalités
   contenu: Inscription gratuite et obligatoire
   lien: https://www.salon-choisirleservicepublic.fr/fr/registration-form
