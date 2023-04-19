@@ -93,7 +93,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <h1 class="h3">Réseau / Infrastructure</h1>
 <div class="wrapper">
   <div class="panel">
-    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Ingénieur Expert Réseau - Chargé de mission d’accompagnement H/F - Lien externe">Ingénieur Expert Réseau - Chargé de mission d’accompagnement H/F</a></b>
+    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Ingénieur Expert Réseau - Chargé/e de mission d’accompagnement H/F - Lien externe">Ingénieur Expert Réseau - Chargé/e de mission d’accompagnement H/F</a></b>
     <br>Cadre/Catégorie A
     <br>Paris (télétravail possible)
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
