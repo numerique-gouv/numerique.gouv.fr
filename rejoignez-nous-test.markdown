@@ -30,10 +30,16 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Chef/fe du pôle Datanim H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/" title="Data scientist H/F - Lien externe">Chef/fe du pôle Datanim H/F</a></b>
     <br>Cadre/Catégorie A
     <br>Paris (télétravail possible)
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Chef/fe du Pôle DATALAB H/F - Lien externe">Chef/fe du Pôle DATALAB H/F</a></b>
+    <br>Cadre/Catégorie A
+    <br>Paris (télétravail possible)
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
     <b>Feuille de route du ministère des Armées</b><br>(pdf, 4 Mo)
