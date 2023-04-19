@@ -27,7 +27,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <h3 id="tous-talents-bienvenue">À la DINUM, tous les talents sont les bienvenus !</h3>
 <p class="margin-bottom-1">Labellisés <b>« égalité et diversité »</b>, les services de la Première ministre se mobilisent en faveur de la diversité culturelle, de l’égalité femmes hommes et du handicap.
 
-Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seules les offres concernant notre site de Paris sont accessibles aux personnes à mobilité réduite. 
+Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul notre site de Paris est accessible aux personnes à mobilité réduite. 
 </p></div><br>
 <br>
 <h1 class="h3">Données / Datacience / Open data</h1>
