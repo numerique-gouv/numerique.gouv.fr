@@ -2,6 +2,7 @@
 title: Rejoignez-nous
 date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous-test/"
+published: false
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
 date_de_modification: 17 avril 2023
@@ -24,14 +25,16 @@ layout: page-annexe
 <h1>Données / Datacience / Open data</h1>
 <div class="wrapper">
   <div class="panel">
-    <b>Data scientist H/F</b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
     <br>Cadre/Catégorie A
-    <br>
-    <div align="center"><a href="/uploads/feuillederoute_MTFP.pdf" class="button"><b>Télécharger</b></a></div>
+    <br>Paris (télétravail possible)
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
-    <b>Feuille de route du ministère de l’Agriculture et de l’Alimentation</b><br>(pdf, 6 Mo)
-    <div align="center"><a href="/uploads/feuillederoute_maa.pdf" class="button"><b>Télécharger</b></a></div>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Chef/fe du pôle Datanim H/F</a></b>
+    <br>Cadre/Catégorie A
+    <br>Paris (télétravail possible)
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
     <b>Feuille de route du ministère des Armées</b><br>(pdf, 4 Mo)
