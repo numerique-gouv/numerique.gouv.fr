@@ -41,13 +41,10 @@ Tous les professionnels souhaitant placer leurs compétences au service de l’i
 * un zoom sur les domaines qui recrutent …
 * des ateliers pratiques et des conférences vous permettront d’en apprendre davantage sur le recrutement et les opportunités qu’offre la fonction publique.
 
-Et à la clé des entretiens à décrocher avec des employeurs des trois versants : 
-* fonction publique de l’État, 
-* fonction publique hospitalière 
-* et fonction publique territoriale.
+Et à la clé des entretiens à décrocher avec des employeurs des trois versants : fonction publique de l’État, fonction publique hospitalière et fonction publique territoriale.
 
 <p align="center"><a href="https://www.salon-choisirleservicepublic.fr/fr/registration-form" class="button" alt="Inscription gratuite et obligatoire">Inscription gratuite et obligatoire</a></p>
 
 <div class="encadre noir" style="margin-bottom:40px">
 <br>
-<p>Suivez à distance les tables rondes de la journée retransmises [sur la chaîne YouTube](https://www.youtube.com/DGAFP-FonctionPublique) de la DGAFP et participez au jobdating en ligne organisé en partenariat avec Pôle emploi. La plateforme sera disponible prochainement</p>
+<p>Suivez à distance les tables rondes de la journée retransmises <a href="https://www.youtube.com/DGAFP-FonctionPublique" class="button" alt="sur la chaîne YouTube">sur la chaîne YouTube</a> de la DGAFP et participez au jobdating en ligne organisé en partenariat avec Pôle emploi. La plateforme sera disponible prochainement</p>
