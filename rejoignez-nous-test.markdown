@@ -28,7 +28,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 
 ## Nos offres d'emploi actuellement disponibles à la DINUM : 
 {: .margin-top-4 .margin-bottom-0}
-
+<p class="margin-bottom-1"><em>La majorité de nos postes sont basés à Paris. Certains sont basés sur l'un de nos sites de Saint-Jacques-de-la-Landes (35 et Lyon (69), ou </em></p>
 
 <h1 class="h3"><b>Données / Datacience / Open data</b></h1>
 <div class="wrapper">
