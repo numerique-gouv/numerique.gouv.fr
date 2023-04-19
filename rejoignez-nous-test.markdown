@@ -22,14 +22,19 @@ layout: page-annexe
 
 <br>
 <br>
+<h1>Données / Datacience / Open data</h1>
 <div class="wrapper">
   <div class="panel">
-    <b>Feuille de route du ministère de la Transformation et de la Fonction publiques,</b> contenant des actions en interministériel<br>(pdf, 1 Mo)
-    <div align="center"><a href="/uploads/feuillederoute_MTFP.pdf" class="button"><b>Télécharger</b></a></div>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
+    <br>Cadre/Catégorie A
+    <br>Paris (télétravail possible)
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
-    <b>Feuille de route du ministère de l’Agriculture et de l’Alimentation</b><br>(pdf, 6 Mo)
-    <div align="center"><a href="/uploads/feuillederoute_maa.pdf" class="button"><b>Télécharger</b></a></div>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Chef/fe du pôle Datanim H/F</a></b>
+    <br>Cadre/Catégorie A
+    <br>Paris (télétravail possible)
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
     <b>Feuille de route du ministère des Armées</b><br>(pdf, 4 Mo)
