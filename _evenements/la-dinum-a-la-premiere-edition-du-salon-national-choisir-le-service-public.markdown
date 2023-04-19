@@ -30,4 +30,8 @@ Et à la clé des entretiens à décrocher avec des employeurs des trois versant
 * fonction publique hospitalière 
 * et fonction publique territoriale.
 
-[Suivez à distance les tables rondes de la journée retransmises [sur la chaîne YouTube](https://www.youtube.com/DGAFP-FonctionPublique) de la DGAFP et participez au jobdating en ligne organisé en partenariat avec Pôle emploi. La plateforme sera disponible prochainement].
+<p align="center"><a href="https://www.salon-choisirleservicepublic.fr/fr/registration-form" class="button" alt="Inscription gratuite et obligatoire">Inscription gratuite et obligatoire</a></p>
+
+<div class="encadre noir" style="margin-bottom:40px">
+<br>
+<p>Suivez à distance les tables rondes de la journée retransmises [sur la chaîne YouTube](https://www.youtube.com/DGAFP-FonctionPublique) de la DGAFP et participez au jobdating en ligne organisé en partenariat avec Pôle emploi. La plateforme sera disponible prochainement</p>
