@@ -9,6 +9,10 @@ chapeau-text: 'Les employeurs de l’ensemble de la fonction publique vous donne
   le 4 mai 2023 au salon national Choisir le service public qui se tiendra à la Station
   F (Paris 13). L’objectif : découvrir les opportunités de la fonction publique et
   rencontrer des agents publics.'
+event_start_date: 2023-05-04 10:00:00 +02:00
+lieu: Station F
+adresse: 5 Parvis Alan Turing 75013 Paris / via le 55 boulevard Vincent Auriol, 75013
+  Paris
 ---
 
 Au sein d’un stand unique, les directions du ministère de la Transformation et de la Fonction publiques, la direction interministérielle du numérique (DINUM), [la direction interministérielle de la fonction publique](https://www.modernisation.gouv.fr/qui-sommes-nous) (DITP) et [la direction générale de l’administration et de la fonction publique](https://www.fonction-publique.gouv.fr/la-dgafp) (DGAFP), organisatrice de ce salon avec le soutien de [Pôle Emploi](https://www.pole-emploi.fr/accueil/), seront présentes pour vous faire part de leurs opportunités d’emploi et vous renseigner.
