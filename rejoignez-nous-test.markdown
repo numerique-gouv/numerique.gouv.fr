@@ -33,7 +33,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <h1 class="h3"><b>Données / Datacience / Open data</b></h1>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Chef/fe du Pôle Datalab H/F - Lien externe">Chef/fe du Pôle Datalab H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre supérieur/Catégorie A+</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
@@ -75,10 +75,10 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <h1 class="h3"><b>Produits numériques</b></h1>
 <div class="wrapper">
   <div class="panel">
-    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Responsable de portefeuille de produits numériques H/F  - Lien externe">Responsable de portefeuille de produits numériques H/F </a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1179986/" title="Responsable de portefeuille de produits numériques H/F  - Lien externe">Responsable de portefeuille de produits numériques H/F </a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris, Saint-Jacques-de-la-Lande (35) ou Lyon (69), selon les souhaits du candidat (télétravail possible)</p>
-    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1179986/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/" title="Responsable opérationnel de la plateforme FranceConnect H/F - Lien externe">Responsable opérationnel de la plateforme FranceConnect H/F</a></b>
