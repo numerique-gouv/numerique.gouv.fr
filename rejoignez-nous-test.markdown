@@ -2,7 +2,6 @@
 title: Rejoignez-nous
 date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous-test/"
-published: false
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
 date_de_modification: 17 avril 2023
@@ -22,9 +21,12 @@ layout: page-annexe
 
 <br>
 <br>
+<h1>Données / Datacience / Open data</h1>
 <div class="wrapper">
   <div class="panel">
-    <b>Feuille de route du ministère de la Transformation et de la Fonction publiques,</b> contenant des actions en interministériel<br>(pdf, 1 Mo)
+    <b>Data scientist H/F</b>
+    <br>Cadre/Catégorie A
+    <br>
     <div align="center"><a href="/uploads/feuillederoute_MTFP.pdf" class="button"><b>Télécharger</b></a></div>
   </div>
   <div class="panel">
