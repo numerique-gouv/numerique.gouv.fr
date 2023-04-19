@@ -36,7 +36,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
     <br>Cadre/Catégorie A
-    <br><img src="/uploads/map-pin-2-line.svg" width="20px" height="20px">Paris (télétravail possible)
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" width="20px" height="20px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
