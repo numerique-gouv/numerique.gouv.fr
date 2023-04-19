@@ -37,25 +37,25 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre<</a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/" title="Chef/fe du pôle Datanim H/F - Lien externe">Chef/fe du pôle Datanim H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-operationnel-technique-et-securite-du-datalab-datasecops-hf-reference-2023-1179967/" title="Responsable opérationnel, technique et sécurité du Datalab (DataSecOps) H/F - Lien externe">Responsable opérationnel, technique et sécurité du Datalab (DataSecOps) H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-operationnel-technique-et-securite-du-datalab-datasecops-hf-reference-2023-1179967/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-operationnel-technique-et-securite-du-datalab-datasecops-hf-reference-2023-1179967/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Chef/fe du Pôle DATALAB H/F - Lien externe">Chef/fe du Pôle DATALAB H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
@@ -67,7 +67,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/" title="Designer senior H/F - Lien externe">Designer senior H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
@@ -79,19 +79,19 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Responsable de portefeuille de produits numériques H/F  - Lien externe">Responsable de portefeuille de produits numériques H/F </a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Ce poste peut être basé à Paris, Saint-Jacques-de-la-Lande (35) ou Lyon (69), selon les souhaits du candidat (télétravail possible)</p>
-    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/" title="Responsable opérationnel de la plateforme FranceConnect H/F - Lien externe">Responsable opérationnel de la plateforme FranceConnect H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Chargé/e de mission « Campus du numérique » H/F  - Lien externe">Chargé/e de mission « Campus du numérique » H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
