@@ -31,6 +31,12 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 </p></div><br>
 <br>
 
+
+## Nos offres d'emploi actuellement disponibles à la DINUM : 
+{: .margin-top-4 .margin-bottom-0}
+*Sans précision, les postes sont basés à Paris*
+{: .margin-bottom-1}
+
 <h1 class="h3"><b>Données / Datacience / Open data</b></h1>
 <div class="wrapper">
   <div class="panel">
@@ -126,69 +132,16 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 </div>
 
 
-## Comment postuler ?
+<!-- ## Comment postuler ?
 {: .margin-top-5 .margin-bottom-1 .h3}
 1. **Repérez** l'offre d'emploi qui vous intéresse ci-dessous
 2. **Ouvrez la fiche de poste** (lien ou pdf) en cliquant sur l'intitulé
 3. **Envoyez votre candidature par courriel** à l'adresse indiquée en bas de la fiche de poste ou via le bouton Postuler, en précisant son intitulé
 <br>
 <br>
+-->
 
-## Nos offres d'emploi actuellement disponibles à la DINUM : 
-{: .margin-top-4 .margin-bottom-0 .h3}
-*Sans précision, les postes sont basés à Paris*
-{: .margin-bottom-1}
 
-* **[Data scientist H/F](https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/ "Data scientist H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Designer senior H/F](https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/ "Designer senior H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chef(e) du pôle Datanim H/F](https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/ "Chef(e) du pôle Datanim H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Juriste - Droit du numérique public H/F](https://place-emploi-public.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/ "Chef/fe de mission « Juriste - Droit du numérique public H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé(e) de mission "Campus du numérique" H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/ "Chef/fe de mission « Chargé(e) de mission "Campus du numérique" H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Responsable de portefeuille de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/ "Responsable de portefeuille de produits numériques H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Responsable de portefeuille de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1179985/ "Responsable de portefeuille de produits numériques H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Responsable de portefeuille de produits numériques H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1179986/ "Responsable de portefeuille de produits numériques H/F - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Responsable opérationnel de la plateforme FranceConnect H/F](https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/ "Responsable opérationnel de la plateforme FranceConnect (H/F) - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Ingénieur Expert Réseau - Chargé de mission d'accompagnement H/F](https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/ "Ingénieur Expert Réseau - Chargé de mission d'accompagnement (H/F) - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Responsable opérationnel, technique et sécurité du Datalab (DataSecOps) H/F](https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-operationnel-technique-et-securite-du-datalab-datasecops-hf-reference-2023-1179967/ "Responsable opérationnel, technique et sécurité du Datalab (DataSecOps) (H/F) - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
-
-* **[Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F](https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1174768/ "Chargé(e) d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat (H/F) - Lien externe")**
-<br>Cadre/Catégorie A, Saint-Jacques-de-la-Lande (35136)
-
-* **[Directeur(trice) de Projets sécurisation et conseil des grands projets SI de l'État H/F](https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/ "Directeur(trice) de Projets sécurisation et conseil des grands projets SI de l'État (H/F) - Lien externe")**
-<br>Cadre/Catégorie A
-<br>
 
 <div class="encadre noir"><h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
