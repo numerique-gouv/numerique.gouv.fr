@@ -11,8 +11,7 @@ chapeau-text: 'Les employeurs de l’ensemble de la fonction publique vous donne
   rencontrer des agents publics.'
 event_start_date: 2023-05-04 10:00:00 +02:00
 lieu: Station F
-adresse: 5 Parvis Alan Turing 75013 Paris / via le 55 boulevard Vincent Auriol, 75013
-  Paris
+adresse: 5 Parvis Alan Turing / via le 55 boulevard Vincent Auriol, 75013 Paris
 champs_informations:
 - intitule: Horaires
   contenu: 10h - 19h
