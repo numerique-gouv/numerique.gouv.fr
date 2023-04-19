@@ -46,4 +46,4 @@ Et à la clé des entretiens à décrocher avec des employeurs des trois versant
 
 <div class="encadre noir" style="margin-bottom:40px">
 <br>
-<p>Suivez à distance les tables rondes de la journée retransmises <a href="https://www.youtube.com/DGAFP-FonctionPublique" class="button" alt="sur la chaîne YouTube">sur la chaîne YouTube</a> de la DGAFP et participez au jobdating en ligne organisé en partenariat avec Pôle emploi. La plateforme sera disponible prochainement</p>
+<p>Suivez à distance les tables rondes de la journée retransmises <a href="https://www.youtube.com/DGAFP-FonctionPublique"> sur la chaîne YouTube</a> de la DGAFP et participez au jobdating en ligne organisé en partenariat avec Pôle emploi. La plateforme sera disponible prochainement</p>
