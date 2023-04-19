@@ -35,7 +35,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
-    <p style="font-size:14px;">Cadre/Catégorie A</p>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
@@ -47,8 +47,8 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Chef/fe du Pôle DATALAB H/F - Lien externe">Chef/fe du Pôle DATALAB H/F</a></b>
-    <br>Cadre/Catégorie A
-    <br>Paris (télétravail possible)
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
@@ -59,8 +59,8 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/" title="Designer senior H/F - Lien externe">Designer senior H/F</a></b>
-    <br>Cadre/Catégorie A
-    <br><img src="/uploads/map-pin-2-line.svg" width="15px" height="15px">Paris (télétravail possible)
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
@@ -71,20 +71,20 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Responsable de portefeuille de produits numériques H/F  - Lien externe">Responsable de portefeuille de produits numériques H/F </a></b>
-    <br>Cadre/Catégorie A
-    <br>Ce poste peut être basé à Paris, Saint-Jacques-de-la-Lande (35) ou Lyon (69) (télétravail possible)
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Ce poste peut être basé à Paris, Saint-Jacques-de-la-Lande (35) ou Lyon (69), selon les souhaits du candidat (télétravail possible)</p>
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/" title="Responsable opérationnel de la plateforme FranceConnect H/F - Lien externe">Responsable opérationnel de la plateforme FranceConnect H/F</a></b>
-    <br>Cadre/Catégorie A
-    <br>Paris (télétravail possible)
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Chargé/e de mission « Campus du numérique » H/F  - Lien externe">Chargé/e de mission « Campus du numérique » H/F</a></b>
-    <br>Cadre/Catégorie A
-    <br>Paris (télétravail possible)
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
@@ -95,20 +95,20 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Ingénieur Expert Réseau - Chargé/e de mission d’accompagnement H/F - Lien externe">Ingénieur Expert Réseau - Chargé/e de mission d’accompagnement H/F</a></b>
-    <br>Cadre/Catégorie A
-    <br>Paris (télétravail possible)
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1174768/" title="Chargé/e d’hypervision réseau et sécurité du Réseau Interministériel de l’État H/F - Lien externe">Chargé/e d’hypervision réseau et sécurité du Réseau Interministériel de l’État H/F</a></b>
-    <br>Catégorie B
-    <br>Saint-Jacques-de-la-Lande (35) (télétravail possible)
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35) (télétravail possible)</p>
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1174768/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Chef/fe du Pôle DATALAB H/F - Lien externe">Chef/fe du Pôle DATALAB H/F</a></b>
-    <br>Cadre/Catégorie A
-    <br>Paris (télétravail possible)
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
@@ -119,8 +119,8 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/" title="Directeur/trice de Projets sécurisation et conseil des grands projets SI de l’État H/F - Lien externe">Directeur/trice de Projets sécurisation et conseil des grands projets SI de l’État H/F</a></b>
-    <br>Cadre/Catégorie A
-    <br>Paris (télétravail possible)
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
