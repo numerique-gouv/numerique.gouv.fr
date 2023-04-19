@@ -30,16 +30,17 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul notre site de Paris est accessible aux personnes à mobilité réduite. 
 </p></div><br>
 <br>
+
 <h1 class="h3">Données / Datacience / Open data</h1>
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
     <br>Cadre/Catégorie A
     <br>Paris (télétravail possible)
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/" title="Data scientist H/F - Lien externe">Chef/fe du pôle Datanim H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/" title="Chef/fe du pôle Datanim H/F - Lien externe">Chef/fe du pôle Datanim H/F</a></b>
     <br>Cadre/Catégorie A
     <br>Paris (télétravail possible)
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
@@ -63,7 +64,6 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
-
 <br>
 
 <h1 class="h3">Produits numériques</h1>
@@ -90,6 +90,27 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 <br>
 
+<h1 class="h3">Réseau / Infrastructure</h1>
+<div class="wrapper">
+  <div class="panel">
+    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Ingénieur Expert Réseau - Chargé de mission d’accompagnement H/F - Lien externe">Ingénieur Expert Réseau - Chargé de mission d’accompagnement H/F</a></b>
+    <br>Cadre/Catégorie A
+    <br>Paris (télétravail possible)
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1174768/" title="Chargé/e d’hypervision réseau et sécurité du Réseau Interministériel de l’État H/F - Lien externe">Chargé/e d’hypervision réseau et sécurité du Réseau Interministériel de l’État H/F</a></b>
+    <br>Catégorie B
+    <br>Saint-Jacques-de-la-Lande (35) (télétravail possible)
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1174768/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Chef/fe du Pôle DATALAB H/F - Lien externe">Chef/fe du Pôle DATALAB H/F</a></b>
+    <br>Cadre/Catégorie A
+    <br>Paris (télétravail possible)
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+  </div>
+</div>
 
 
 
