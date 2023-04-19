@@ -10,7 +10,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
   \ margin: 0 20px;\n  display: grid;\n  grid-gap: 10px;\n}\n\n.wrapper {\n  display:
   flex;\n  flex-wrap: wrap;\n}\n\n.wrapper {\n  display: grid;\n  margin: 0 auto;\n
-  \ grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));\n  grid-auto-rows:
+  \ grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));\n  grid-auto-rows:
   minmax(150px, auto);\n}\n\n.panel {\n  margin-left: 5px;\n  margin-right: 5px;\n
   \ flex: 1 1 200px;\ndisplay: inline-grid;\nalign-content: end;\n}\n\n.wrapper >
   * {\n  padding: 10px;\n  font-size: 100%;\n  margin-bottom: 10px;\ntext-align: center;\nbackground-color:
@@ -21,7 +21,7 @@ layout: page-annexe
 
 <br>
 <br>
-<h1>Données / Datacience / Open data</h1>
+<h1 class="h3">Données / Datacience / Open data</h1>
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
