@@ -31,7 +31,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 </p></div><br>
 <br>
 
-<h1 class="h3">Données / Datacience / Open data</h1>
+<h1 class="h3"><b>Données / Datacience / Open data</b></h1>
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
@@ -61,7 +61,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 <br>
 
-<h1 class="h3">Design</h1>
+<h1 class="h3"><b>Design</b></h1>
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/" title="Designer senior H/F - Lien externe">Designer senior H/F</a></b>
@@ -73,7 +73,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 <br>
 
-<h1 class="h3">Produits numériques</h1>
+<h1 class="h3"><b>Produits numériques</b></h1>
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Responsable de portefeuille de produits numériques H/F  - Lien externe">Responsable de portefeuille de produits numériques H/F </a></b>
@@ -97,7 +97,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 <br>
 
-<h1 class="h3">Réseau / Infrastructure</h1>
+<h1 class="h3"><b>Réseau / Infrastructure</b></h1>
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Ingénieur Expert Réseau - Chargé/e de mission d’accompagnement H/F - Lien externe">Ingénieur Expert Réseau - Chargé/e de mission d’accompagnement H/F</a></b>
@@ -115,7 +115,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 <br>
 
-<h1 class="h3">Conseil et maîtrise des risques</h1>
+<h1 class="h3"><b>Conseil et maîtrise des risques</b></h1>
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/" title="Directeur/trice de Projets sécurisation et conseil des grands projets SI de l’État H/F - Lien externe">Directeur/trice de Projets sécurisation et conseil des grands projets SI de l’État H/F</a></b>
