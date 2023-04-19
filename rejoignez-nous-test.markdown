@@ -36,13 +36,13 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
     <br>Cadre/Catégorie A
-    <br>Paris (télétravail possible)
+    <br><img src="/uploads/map-pin-2-line.svg" width="20px" height="20px">Paris (télétravail possible)
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/" title="Chef/fe du pôle Datanim H/F - Lien externe">Chef/fe du pôle Datanim H/F</a></b>
     <br>Cadre/Catégorie A
-    <br>Paris (télétravail possible)
+    <br><img src="/uploads/map-pin-2-line.svg" width="1em" >Paris (télétravail possible)
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
@@ -60,7 +60,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/" title="Designer senior H/F - Lien externe">Designer senior H/F</a></b>
     <br>Cadre/Catégorie A
-    <br>Paris (télétravail possible)
+    <br><img src="/uploads/map-pin-2-line.svg" width="15px" height="15px">Paris (télétravail possible)
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
