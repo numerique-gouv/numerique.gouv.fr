@@ -1,6 +1,7 @@
 ---
 title: La DINUM à la première édition du salon national Choisir le service public
 date: 2023-04-19 15:33:00 +02:00
+published: false
 categories:
 - Salon professionnel
 tags:
@@ -17,7 +18,7 @@ champs_informations:
   contenu: 10h - 19h
 - intitule: Comment y aller ?
   contenu: "Métro ⓮ RER [C] - Bibliothèque François Mitterrand Métro ⑥ Chevaleret
-    Bus 89/325 : Quai de la Gare 27 : Clisson \U0001F6B2 Parking Vélo sur le parvis"
+    Bus 27 : Clisson Bus 89/325 : Quai de la Gare \U0001F6B2 Parking Vélo sur le parvis"
 - intitule: Modalités
   contenu: Inscription gratuite et obligatoire
   lien: https://www.salon-choisirleservicepublic.fr/fr/registration-form
