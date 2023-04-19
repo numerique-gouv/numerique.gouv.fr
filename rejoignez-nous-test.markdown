@@ -34,8 +34,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 
 ## Nos offres d'emploi actuellement disponibles à la DINUM : 
 {: .margin-top-4 .margin-bottom-0}
-*Sans précision, les postes sont basés à Paris*
-{: .margin-bottom-1}
+
 
 <h1 class="h3"><b>Données / Datacience / Open data</b></h1>
 <div class="wrapper">
@@ -130,7 +129,9 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
-
+<br>
+<br>
+<br>
 
 <!-- ## Comment postuler ?
 {: .margin-top-5 .margin-bottom-1 .h3}
