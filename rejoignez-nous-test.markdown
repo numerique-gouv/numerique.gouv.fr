@@ -69,9 +69,9 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <h1 class="h3">Produits numériques</h1>
 <div class="wrapper">
   <div class="panel">
-    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Designer senior H/F - Lien externe">Designer senior H/F</a></b>
+    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Responsable de portefeuille de produits numériques H/F  - Lien externe">Responsable de portefeuille de produits numériques H/F </a></b>
     <br>Cadre/Catégorie A
-    <br>Ce poste peut être basé à Paris, Rennes ou Lyon (télétravail possible)
+    <br>Ce poste peut être basé à Paris, Saint-Jacques-de-la-Lande (35) ou Lyon (69) (télétravail possible)
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
@@ -81,7 +81,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
-    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Chargé/e de mission “Campus du numérique” H/F  - Lien externe">Chargé/e de mission “Campus du numérique” H/F</a></b>
+    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Chargé/e de mission "Campus du numérique" H/F  - Lien externe">Chargé/e de mission "Campus du numérique" H/F</a></b>
     <br>Cadre/Catégorie A
     <br>Paris (télétravail possible)
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
