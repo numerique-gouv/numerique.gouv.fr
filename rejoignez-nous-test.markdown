@@ -81,7 +81,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
-    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Chargé/e de mission "Campus du numérique" H/F  - Lien externe">Chargé/e de mission "Campus du numérique" H/F</a></b>
+    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Chargé/e de mission « Campus du numérique » H/F  - Lien externe">Chargé/e de mission « Campus du numérique » H/F</a></b>
     <br>Cadre/Catégorie A
     <br>Paris (télétravail possible)
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
