@@ -13,6 +13,17 @@ event_start_date: 2023-05-04 10:00:00 +02:00
 lieu: Station F
 adresse: 5 Parvis Alan Turing 75013 Paris / via le 55 boulevard Vincent Auriol, 75013
   Paris
+champs_informations:
+- intitule: Horaires
+  contenu: 10h - 19h
+- intitule: Comment y aller ?
+  contenu: 
+- intitule: Modalités
+  contenu: Inscription gratuite et obligatoire
+  lien: https://www.salon-choisirleservicepublic.fr/fr/registration-form
+- intitule: Plus d'infos sur le salon
+  contenu: Choisir le service public
+  lien: https://www.salon-choisirleservicepublic.fr/
 ---
 
 Au sein d’un stand unique, les directions du ministère de la Transformation et de la Fonction publiques, la direction interministérielle du numérique (DINUM), [la direction interministérielle de la fonction publique](https://www.modernisation.gouv.fr/qui-sommes-nous) (DITP) et [la direction générale de l’administration et de la fonction publique](https://www.fonction-publique.gouv.fr/la-dgafp) (DGAFP), organisatrice de ce salon avec le soutien de [Pôle Emploi](https://www.pole-emploi.fr/accueil/), seront présentes pour vous faire part de leurs opportunités d’emploi et vous renseigner.
