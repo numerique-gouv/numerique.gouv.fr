@@ -112,8 +112,15 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
   </div>
 </div>
 
-
-
+<h1 class="h3">Conseil et maîtrise des risques</h1>
+<div class="wrapper">
+  <div class="panel">
+    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/" title="Directeur/trice de Projets sécurisation et conseil des grands projets SI de l’État H/F - Lien externe">Directeur/trice de Projets sécurisation et conseil des grands projets SI de l’État H/F</a></b>
+    <br>Cadre/Catégorie A
+    <br>Paris (télétravail possible)
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+  </div>
+</div>
 
 
 ## Comment postuler ?
