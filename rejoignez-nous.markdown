@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 17 avril 2023
+date_de_modification: 19 avril 2023
 style: |-
   .button {
   background-color: #0d5c98;
@@ -54,6 +54,10 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 
 * **[Chef(e) du pôle Datanim H/F](https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/ "Chef(e) du pôle Datanim H/F - Lien externe")**
+<br>Cadre/Catégorie A
+<br>
+
+* **[Chef(fe) du Pôle DATALAB H/F](https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/ "Chef(e) du pôle DATALAB H/F - Lien externe")**
 <br>Cadre/Catégorie A
 <br>
 
