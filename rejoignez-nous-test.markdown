@@ -41,57 +41,41 @@ layout: page-annexe
     <br>Paris (télétravail possible)
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
+</div>
+
+<br>
+
+<h1 class="h3">Design</h1>
+<div class="wrapper">
   <div class="panel">
-    <b>Feuille de route du ministère des Armées</b><br>(pdf, 4 Mo)
-    <div align="center"><a href="/uploads/feuillederoute_minarm.pdf" class="button"><b>Télécharger</b></a></div>
+    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/" title="Designer senior H/F - Lien externe">Designer senior H/F</a></b>
+    <br>Cadre/Catégorie A
+    <br>Paris (télétravail possible)
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+  </div>
+</div>
+
+<br>
+
+<h1 class="h3">Produits numériques</h1>
+<div class="wrapper">
+  <div class="panel">
+    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Designer senior H/F - Lien externe">Designer senior H/F</a></b>
+    <br>Cadre/Catégorie A
+    <br>Ce poste peut être basé à Paris, Rennes ou Lyon (télétravail possible)
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-de-portefeuille-de-produits-numeriques-hf-reference-2023-1156684/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
-    <b>Feuille de route de la Cohésion des territoires et des Relations avec les collectivités territoriales</b><br>(pdf, 5 Mo)
-    <div align="center"><a href="/uploads/feuillederoute_mctrct.pdf" class="button"><b>Télécharger</b></a></div>
+    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/" title="Responsable opérationnel de la plateforme FranceConnect H/F - Lien externe">Responsable opérationnel de la plateforme FranceConnect H/F</a></b>
+    <br>Cadre/Catégorie A
+    <br>Paris (télétravail possible)
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-operationnel-de-la-plateforme-franceconnect-hf-reference-2023-1131152/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
   <div class="panel">
-    <b>Feuille de route du ministère de la Culture</b><br>(pdf, 640 ko)
-    <div align="center"><a href="/uploads/feuillederoute_mc.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    <b>Feuille de route du ministère de l'Économie, des Finances et de la Relance</b><br>(pdf, 640 ko)
-    <div align="center"><a href="/uploads/feuillederoute_mefr.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    <b>Feuille de route du ministère de l'Éducation nationale, de la Jeunesse et des Sports</b><br>(pdf, 1,5 Mo)
-    <div align="center"><a href="/uploads/feuillederoute_menjs.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-   <b>Feuille de route du ministère de l’Enseignement supérieur, de la Recherche et de l’Innovation</b><br>(pdf, 825 ko)
-    <div align="center"><a href="/uploads/feuillederoute_mesri.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    <b>Feuille de route du ministère de l'Europe et des Affaires étrangères</b><br>(pdf, 8 Mo)
-    <div align="center"><a href="/uploads/feuillederoute_meae.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    <b>Feuille de route du ministère de l'Intérieur</b><br>(pdf, 620 ko)
-    <div align="center"><a href="/uploads/feuillederoute_mi.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    <b>Feuille de route du ministère de la Justice</b><br>(pdf, 4 Mo)
-    <div align="center"><a href="/uploads/feuillederoute_mj.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    <b>Feuille de route des ministères de la Transition écologique,  de la Cohésion des territoires et de la Mer</b><br>(pdf, 1 Mo)
-    <div align="center"><a href="/uploads/feuillederoute_mte_mer.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    <b>Feuille de route du ministère des Solidarités et de la Santé</b><br>(pdf, 1 Mo)
-    <div align="center"><a href="/uploads/feuillederoute_mss.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-   <b>Feuille de route du ministère du Travail, de l'Emploi et de l'Insertion</b><br>(pdf, 2 Mo)
-    <div align="center"><a href="/uploads/feuillederoute_MTEI.pdf" class="button"><b>Télécharger</b></a></div>
-  </div>
-  <div class="panel">
-    <b>Feuille de route des services du Premier ministre</b><br>(pdf, 1 Mo)
-    <div align="center"><a href="/uploads/feuillederoute_spm.pdf" class="button"><b>Télécharger</b></a></div>
+    <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Chargé/e de mission “Campus du numérique” H/F  - Lien externe">Chargé/e de mission “Campus du numérique” H/F</a></b>
+    <br>Cadre/Catégorie A
+    <br>Paris (télétravail possible)
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-de-mission-campus-du-numerique-hf-reference-2023-1177396/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
 <br>
