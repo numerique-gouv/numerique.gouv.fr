@@ -52,7 +52,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
-
+<br>
 <br>
 
 <h1 class="h3">Design</h1>
@@ -64,6 +64,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1174746/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
+<br>
 <br>
 
 <h1 class="h3">Produits numériques</h1>
@@ -111,6 +112,8 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
+<br>
+<br>
 
 <h1 class="h3">Conseil et maîtrise des risques</h1>
 <div class="wrapper">
