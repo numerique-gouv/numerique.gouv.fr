@@ -8,7 +8,8 @@ tags:
 chapeau-text: 'Les employeurs de l’ensemble de la fonction publique vous donnent rendez-vous
   le 4 mai 2023 au salon national Choisir le service public qui se tiendra à la Station
   F (Paris 13). L’objectif : découvrir les opportunités de la fonction publique et
-  rencontrer des agents publics.'
+  rencontrer des agents publics. La DINUM participera à cette première édition, et
+  y proposera plus de 40 offres d''emploi.'
 une-ou-diaporama:
 - image: "/uploads/BANDEAU-portail-header-1200x470.png"
 event_start_date: 2023-05-04 10:00:00 +02:00
@@ -28,11 +29,12 @@ champs_informations:
   lien: https://www.salon-choisirleservicepublic.fr/
 ---
 
-Au sein d’un stand unique, les directions du ministère de la Transformation et de la Fonction publiques, la direction interministérielle du numérique (DINUM), [la direction interministérielle de la fonction publique](https://www.modernisation.gouv.fr/qui-sommes-nous) (DITP) et [la direction générale de l’administration et de la fonction publique](https://www.fonction-publique.gouv.fr/la-dgafp) (DGAFP), organisatrice de ce salon avec le soutien de [Pôle Emploi](https://www.pole-emploi.fr/accueil/), seront présentes pour vous faire part de leurs opportunités d’emploi et vous renseigner.
+# Plus de 40 postes à pourvoir à la DINUM
+Au sein d’un stand unique, les directions du ministère de la Transformation et de la Fonction publiques, la direction interministérielle du numérique (DINUM), [la direction interministérielle de la fonction publique](https://www.modernisation.gouv.fr/qui-sommes-nous "la direction interministérielle de la fonction publique - Lien externe") (DITP) et [la direction générale de l’administration et de la fonction publique](https://www.fonction-publique.gouv.fr/la-dgafp "la direction générale de l’administration et de la fonction publique - lien externe") (DGAFP), organisatrice de ce salon avec le soutien de [Pôle emploi](https://www.pole-emploi.fr/accueil/ "Pôle emploi - lien externe"), seront présentes pour vous faire part de leurs opportunités d’emploi et vous renseigner.
 
 Tous les professionnels souhaitant placer leurs compétences au service de l’intérêt général sont invités à participer à cet événement : étudiant, personne en recherche d’emploi, salarié du privé ou agent public. La fonction publique recrute partout en France sur plus de 1000 métiers.
 
-**Des agents de la DINUM seront présents pour faire connaître sa stratégie numérique de l’État et recruter des professionnels de la tech. Plus de 40 postes sont à pourvoir à la DINUM**
+**Des agents de la DINUM seront présents pour faire connaître sa stratégie numérique de l’État et recruter des professionnels de la tech. Plus de 40 postes sont à pourvoir à la DINUM.**
 
 ### Au programme :
 * des temps d’échanges avec les recruteurs,
