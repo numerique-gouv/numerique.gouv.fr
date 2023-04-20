@@ -1,7 +1,6 @@
 ---
 title: La DINUM à la première édition du salon national Choisir le service public
 date: 2023-04-19 15:33:00 +02:00
-published: false
 categories:
 - Salon professionnel
 tags:
