@@ -114,13 +114,19 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 <br>
 
-<h1 class="h3"><b>Conseil et maîtrise des risques</b></h1>
+<h1 class="h3"><b>Conseil et appui</b></h1>
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/" title="Directeur/trice de Projets sécurisation et conseil des grands projets SI de l’État H/F - Lien externe">Directeur/trice de Projets sécurisation et conseil des grands projets SI de l’État H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1196544/" title="Mentor de directeur de projet SI H/F - Lien externe">Mentor de directeur de projet SI H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1196544/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
   </div>
 </div>
 <br>
