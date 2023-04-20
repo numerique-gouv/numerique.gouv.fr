@@ -10,6 +10,8 @@ chapeau-text: 'Les employeurs de l’ensemble de la fonction publique vous donne
   le 4 mai 2023 au salon national Choisir le service public qui se tiendra à la Station
   F (Paris 13). L’objectif : découvrir les opportunités de la fonction publique et
   rencontrer des agents publics.'
+une-ou-diaporama:
+- image: "/uploads/BANDEAU-portail-header-1200x470.png"
 event_start_date: 2023-05-04 10:00:00 +02:00
 lieu: Station F
 adresse: 5 Parvis Alan Turing > via le 55 boulevard Vincent Auriol, 75013 Paris
