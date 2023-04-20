@@ -7,9 +7,9 @@ tags:
 - Évènement
 chapeau-text: 'Les employeurs de l’ensemble de la fonction publique vous donnent rendez-vous
   le 4 mai 2023 au salon national Choisir le service public qui se tiendra à la Station
-  F (Paris 13). L’objectif : découvrir les opportunités de la fonction publique et
-  rencontrer des agents publics. La DINUM participera à cette première édition, et
-  y proposera plus de 40 offres d''emploi.'
+  F (Paris 13<sup>e</sup>). L’objectif : découvrir les opportunités de la fonction
+  publique et rencontrer des agents publics. La DINUM participera à cette première
+  édition, et y proposera plus de 40 offres d''emploi.'
 une-ou-diaporama:
 - image: "/uploads/BANDEAU-portail-header-1200x470.png"
 event_start_date: 2023-05-04 10:00:00 +02:00
@@ -19,7 +19,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 10h - 19h
 - intitule: Comment y aller ?
-  contenu: 'Métro ⓮ RER [C] - Bibliothèque François Mitterrand - Métro ⑥ Chevaleret
+  contenu: 'Métro 14 / RER C : Bibliothèque François Mitterrand - Métro 6 : Chevaleret
     - Bus 27 : Clisson - Bus 89/325 : Quai de la Gare - Parking Vélo sur le parvis'
 - intitule: Modalités
   contenu: Inscription gratuite et obligatoire
@@ -29,7 +29,7 @@ champs_informations:
   lien: https://www.salon-choisirleservicepublic.fr/
 ---
 
-<h1 class="h3">Plus de 40 postes à pourvoir à la DINUM</h3>
+<h1 class="h3">Plus de 40 postes à pourvoir à la DINUM</h1>
 
 Au sein d’un stand unique, les directions du ministère de la Transformation et de la Fonction publiques, la direction interministérielle du numérique (DINUM), [la direction interministérielle de la fonction publique](https://www.modernisation.gouv.fr/qui-sommes-nous "la direction interministérielle de la fonction publique - Lien externe") (DITP) et [la direction générale de l’administration et de la fonction publique](https://www.fonction-publique.gouv.fr/la-dgafp "la direction générale de l’administration et de la fonction publique - lien externe") (DGAFP), organisatrice de ce salon avec le soutien de [Pôle emploi](https://www.pole-emploi.fr/accueil/ "Pôle emploi - lien externe"), seront présentes pour vous faire part de leurs opportunités d’emploi et vous renseigner.
 
