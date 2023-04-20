@@ -7,9 +7,9 @@ tags:
 - Évènement
 chapeau-text: 'Les employeurs de l’ensemble de la fonction publique vous donnent rendez-vous
   le 4 mai 2023 au salon national Choisir le service public qui se tiendra à la Station
-  F (Paris 13). L’objectif : découvrir les opportunités de la fonction publique et
-  rencontrer des agents publics. La DINUM participera à cette première édition, et
-  y proposera plus de 40 offres d''emploi.'
+  F (Paris 13<sup>e</sup>). L’objectif : découvrir les opportunités de la fonction
+  publique et rencontrer des agents publics. La DINUM participera à cette première
+  édition, et y proposera plus de 40 offres d''emploi.'
 une-ou-diaporama:
 - image: "/uploads/BANDEAU-portail-header-1200x470.png"
 event_start_date: 2023-05-04 10:00:00 +02:00
