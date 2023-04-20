@@ -36,6 +36,8 @@ Tous les professionnels souhaitant placer leurs compétences au service de l’i
 
 **Des agents de la DINUM seront présents pour faire connaître sa stratégie numérique de l’État et recruter des professionnels de la tech. Plus de 40 postes sont à pourvoir à la DINUM.**
 
+[> Pour suivre les offres d'emploi proposées à la DINUM, retrouvez aussi notre page dédiée.](/rejoignez-nous)
+
 ### Au programme :
 * des temps d’échanges avec les recruteurs,
 * des informations sur les concours et les dispositifs pour s’y préparer,
@@ -46,8 +48,8 @@ Tous les professionnels souhaitant placer leurs compétences au service de l’i
 
 Et à la clé des entretiens à décrocher avec des employeurs des trois versants : fonction publique de l’État, fonction publique hospitalière et fonction publique territoriale.
 
-<p align="center"><a href="https://www.salon-choisirleservicepublic.fr/fr/registration-form" class="button" alt="Inscription gratuite et obligatoire">Inscription gratuite et obligatoire</a></p>
+<p align="center"><a href="https://www.salon-choisirleservicepublic.fr/fr/registration-form" class="button" alt="Inscription gratuite et obligatoire - Lien externe">Inscription gratuite et obligatoire</a></p>
 
 <div class="encadre noir" style="margin-bottom:40px">
 <br>
-<p>Suivez à distance les tables rondes de la journée retransmises <a href="https://www.youtube.com/DGAFP-FonctionPublique"> sur la chaîne YouTube</a> de la DGAFP et participez au jobdating en ligne organisé en partenariat avec Pôle emploi. La plateforme sera disponible prochainement</p>
+<p>Suivez à distance les tables rondes de la journée retransmises <a href="https://www.youtube.com/DGAFP-FonctionPublique" alt="sur la chaîne YouTube de la DGAFP - Lien externe"> sur la chaîne YouTube de la DGAFP</a> et participez au jobdating en ligne organisé en partenariat avec Pôle emploi. La plateforme sera disponible prochainement</p>
