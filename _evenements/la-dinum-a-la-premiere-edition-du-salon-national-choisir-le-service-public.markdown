@@ -8,7 +8,8 @@ tags:
 chapeau-text: 'Les employeurs de l’ensemble de la fonction publique vous donnent rendez-vous
   le 4 mai 2023 au salon national Choisir le service public qui se tiendra à la Station
   F (Paris 13). L’objectif : découvrir les opportunités de la fonction publique et
-  rencontrer des agents publics.'
+  rencontrer des agents publics. La DINUM participera à cette première édition, et
+  y proposera plus de 40 offres d''emploi.'
 une-ou-diaporama:
 - image: "/uploads/BANDEAU-portail-header-1200x470.png"
 event_start_date: 2023-05-04 10:00:00 +02:00
@@ -28,11 +29,15 @@ champs_informations:
   lien: https://www.salon-choisirleservicepublic.fr/
 ---
 
-Au sein d’un stand unique, les directions du ministère de la Transformation et de la Fonction publiques, la direction interministérielle du numérique (DINUM), [la direction interministérielle de la fonction publique](https://www.modernisation.gouv.fr/qui-sommes-nous) (DITP) et [la direction générale de l’administration et de la fonction publique](https://www.fonction-publique.gouv.fr/la-dgafp) (DGAFP), organisatrice de ce salon avec le soutien de [Pôle Emploi](https://www.pole-emploi.fr/accueil/), seront présentes pour vous faire part de leurs opportunités d’emploi et vous renseigner.
+<h1 class="h3">Plus de 40 postes à pourvoir à la DINUM</h3>
+
+Au sein d’un stand unique, les directions du ministère de la Transformation et de la Fonction publiques, la direction interministérielle du numérique (DINUM), [la direction interministérielle de la fonction publique](https://www.modernisation.gouv.fr/qui-sommes-nous "la direction interministérielle de la fonction publique - Lien externe") (DITP) et [la direction générale de l’administration et de la fonction publique](https://www.fonction-publique.gouv.fr/la-dgafp "la direction générale de l’administration et de la fonction publique - lien externe") (DGAFP), organisatrice de ce salon avec le soutien de [Pôle emploi](https://www.pole-emploi.fr/accueil/ "Pôle emploi - lien externe"), seront présentes pour vous faire part de leurs opportunités d’emploi et vous renseigner.
 
 Tous les professionnels souhaitant placer leurs compétences au service de l’intérêt général sont invités à participer à cet événement : étudiant, personne en recherche d’emploi, salarié du privé ou agent public. La fonction publique recrute partout en France sur plus de 1000 métiers.
 
-**Des agents de la DINUM seront présents pour faire connaître sa stratégie numérique de l’État et recruter des professionnels de la tech. Plus de 40 postes sont à pourvoir à la DINUM**
+**Des agents de la DINUM seront présents pour faire connaître sa stratégie numérique de l’État et recruter des professionnels de la tech. Plus de 40 postes sont à pourvoir à la DINUM.**
+
+[> Pour suivre les offres d'emploi proposées à la DINUM, retrouvez aussi notre page dédiée.](/rejoignez-nous)
 
 ### Au programme :
 * des temps d’échanges avec les recruteurs,
@@ -44,8 +49,8 @@ Tous les professionnels souhaitant placer leurs compétences au service de l’i
 
 Et à la clé des entretiens à décrocher avec des employeurs des trois versants : fonction publique de l’État, fonction publique hospitalière et fonction publique territoriale.
 
-<p align="center"><a href="https://www.salon-choisirleservicepublic.fr/fr/registration-form" class="button" alt="Inscription gratuite et obligatoire">Inscription gratuite et obligatoire</a></p>
+<p align="center"><a href="https://www.salon-choisirleservicepublic.fr/fr/registration-form" class="button" alt="Inscription gratuite et obligatoire - Lien externe">Inscription gratuite et obligatoire</a></p>
 
 <div class="encadre noir" style="margin-bottom:40px">
 <br>
-<p>Suivez à distance les tables rondes de la journée retransmises <a href="https://www.youtube.com/DGAFP-FonctionPublique"> sur la chaîne YouTube</a> de la DGAFP et participez au jobdating en ligne organisé en partenariat avec Pôle emploi. La plateforme sera disponible prochainement</p>
+<p>Suivez à distance les tables rondes de la journée retransmises <a href="https://www.youtube.com/DGAFP-FonctionPublique" alt="sur la chaîne YouTube de la DGAFP - Lien externe"> sur la chaîne YouTube de la DGAFP</a> et participez au jobdating en ligne organisé en partenariat avec Pôle emploi. La plateforme sera disponible prochainement</p>
