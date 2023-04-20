@@ -120,13 +120,13 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Ingénieur Expert Réseau - Chargé/e de mission d’accompagnement H/F - Lien externe">Ingénieur Expert Réseau - Chargé/e de mission d’accompagnement H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/ingenieur-expert-reseau---charge-de-mission-d-accompagnement-hf-reference-2023-1179946/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1174768/" title="Chargé/e d’hypervision réseau et sécurité du Réseau Interministériel de l’État H/F - Lien externe">Chargé/e d’hypervision réseau et sécurité du Réseau Interministériel de l’État H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Catégorie B</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35) (télétravail possible)</p>
-    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1174768/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1174768/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
@@ -138,13 +138,13 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/" title="Directeur/trice de Projets sécurisation et conseil des grands projets SI de l’État H/F - Lien externe">Directeur/trice de Projets sécurisation et conseil des grands projets SI de l’État H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1196544/" title="Mentor de directeur de projet SI H/F (10 postes) - Lien externe">Mentor de directeur de projet SI H/F (10 postes)</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1196544/" title="Consulter l'offre - Lien externe" class="button"><b>Consulter l'offre</b></a></div>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1196544/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
