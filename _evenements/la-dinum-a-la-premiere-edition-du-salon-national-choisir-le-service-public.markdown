@@ -19,7 +19,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 10h - 19h
 - intitule: Comment y aller ?
-  contenu: 'Métro ⓮ RER [C] - Bibliothèque François Mitterrand - Métro ⑥ Chevaleret
+  contenu: 'Métro 14 / RER [C] : Bibliothèque François Mitterrand - Métro 6 : Chevaleret
     - Bus 27 : Clisson - Bus 89/325 : Quai de la Gare - Parking Vélo sur le parvis'
 - intitule: Modalités
   contenu: Inscription gratuite et obligatoire
