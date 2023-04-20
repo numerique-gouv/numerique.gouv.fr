@@ -29,7 +29,8 @@ champs_informations:
   lien: https://www.salon-choisirleservicepublic.fr/
 ---
 
-# Plus de 40 postes à pourvoir à la DINUM
+<h1 class="h3">Plus de 40 postes à pourvoir à la DINUM</h3>
+
 Au sein d’un stand unique, les directions du ministère de la Transformation et de la Fonction publiques, la direction interministérielle du numérique (DINUM), [la direction interministérielle de la fonction publique](https://www.modernisation.gouv.fr/qui-sommes-nous "la direction interministérielle de la fonction publique - Lien externe") (DITP) et [la direction générale de l’administration et de la fonction publique](https://www.fonction-publique.gouv.fr/la-dgafp "la direction générale de l’administration et de la fonction publique - lien externe") (DGAFP), organisatrice de ce salon avec le soutien de [Pôle emploi](https://www.pole-emploi.fr/accueil/ "Pôle emploi - lien externe"), seront présentes pour vous faire part de leurs opportunités d’emploi et vous renseigner.
 
 Tous les professionnels souhaitant placer leurs compétences au service de l’intérêt général sont invités à participer à cet événement : étudiant, personne en recherche d’emploi, salarié du privé ou agent public. La fonction publique recrute partout en France sur plus de 1000 métiers.
