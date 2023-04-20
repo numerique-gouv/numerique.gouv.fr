@@ -1,7 +1,6 @@
 ---
 title: La DINUM à la première édition du salon national Choisir le service public
 date: 2023-04-19 15:33:00 +02:00
-published: false
 categories:
 - Salon professionnel
 tags:
@@ -10,6 +9,8 @@ chapeau-text: 'Les employeurs de l’ensemble de la fonction publique vous donne
   le 4 mai 2023 au salon national Choisir le service public qui se tiendra à la Station
   F (Paris 13). L’objectif : découvrir les opportunités de la fonction publique et
   rencontrer des agents publics.'
+une-ou-diaporama:
+- image: "/uploads/BANDEAU-portail-header-1200x470.png"
 event_start_date: 2023-05-04 10:00:00 +02:00
 lieu: Station F
 adresse: 5 Parvis Alan Turing > via le 55 boulevard Vincent Auriol, 75013 Paris
@@ -31,7 +32,7 @@ Au sein d’un stand unique, les directions du ministère de la Transformation e
 
 Tous les professionnels souhaitant placer leurs compétences au service de l’intérêt général sont invités à participer à cet événement : étudiant, personne en recherche d’emploi, salarié du privé ou agent public. La fonction publique recrute partout en France sur plus de 1000 métiers.
 
-**Des agents de la DINUM seront présents pour faire connaître sa stratégie numérique de l’État et recruter des professionnels de la tech.**
+**Des agents de la DINUM seront présents pour faire connaître sa stratégie numérique de l’État et recruter des professionnels de la tech. Plus de 40 postes sont à pourvoir à la DINUM**
 
 ### Au programme :
 * des temps d’échanges avec les recruteurs,
