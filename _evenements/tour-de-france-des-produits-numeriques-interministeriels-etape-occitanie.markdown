@@ -8,6 +8,7 @@ chapeau-text: 'Depuis novembre 2022, la DINUM réalise un Tour de France des ré
   mis à leur disposition.'
 une-ou-diaporama:
 - image: "/uploads/2023_04_07_Tour-de-France_Toulouse_visuel_Agenda%20copie.jpg"
+event_start_date: 2023-05-25 09:30:00 +02:00
 lieu: CPAM de Haute-Garonne « Espace santé »
 adresse: 12 Place Saint-Etienne, 31000 Toulouse
 champs_informations:
