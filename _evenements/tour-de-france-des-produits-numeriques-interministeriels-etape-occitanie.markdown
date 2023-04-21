@@ -23,7 +23,7 @@ champs_informations:
 
 Le Tour de France des régions se poursuit. La prochaine étape aura lieu à Toulouse !
 
-Cet évènement se déroulera **le mardi 6 juin de 9h30 à 17h** à la préfecture de la région Provence-Alpes-Côte d’Azur.
+Cet évènement se déroulera **le jeudi 25 mai de 9h30 à 17h** à la CPAM de Haute-Garonne « Espace santé ».
 
 #### Au programme :
 
