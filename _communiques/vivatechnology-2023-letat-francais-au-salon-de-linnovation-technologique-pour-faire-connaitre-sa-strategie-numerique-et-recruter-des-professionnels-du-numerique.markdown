@@ -50,6 +50,6 @@ Pour en savoir plus sur les ministères qui composeront le « **Pavillon du num�
 * Ministère de l’Intérieur et des Outre-mer : [interieur.gouv.fr](https://www.interieur.gouv.fr/)
 * Ministère de la Justice : [justice.gouv.fr](http://www.justice.gouv.fr/) 
 * Ministère de la Transition écologique et de la Cohésion des territoires : [ecologie.gouv.fr](https://www.ecologie.gouv.fr/)
-* Ministères Sociaux : [sante.gouv.fr](https://sante.gouv.fr/)
+* Ministères Sociaux : [sante.gouv.fr](https://sante.gouv.fr/), [travail-emploi.gouv.fr](https://travail-emploi.gouv.fr/), [handicap.gouv.fr](https://handicap.gouv.fr/)
 * Direction générale des douanes et droits indirects du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique : [economie.gouv.fr](https://www.economie.gouv.fr/)
 * Direction interministérielle du numérique : [numerique.gouv.fr](https://www.numerique.gouv.fr/)
