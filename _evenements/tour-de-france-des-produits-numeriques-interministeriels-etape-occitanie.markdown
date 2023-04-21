@@ -35,4 +35,4 @@ Cet évènement se déroulera **le jeudi 25 mai de 9h30 à 17h** à la CPAM de H
 
 * Un format dynamique avec des **ateliers participatifs** : des ateliers avancés des produits numériques et des ateliers « multiproduits » collaboratifs.
 
-<div align="center" style="margin-bottom: 15px; margin-top: 40px"> class="button" title="Inscriptions à venir"><b>Inscriptions à venir</b></a></div>
+<div align="center"<b>Inscriptions à venir</b></div>
