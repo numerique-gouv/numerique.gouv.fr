@@ -1,6 +1,11 @@
 ---
 title: Tour de France des Produits numériques interministériels - Étape Occitanie
 date: 2023-04-21 11:40:00 +02:00
+categories:
+- Journée d'échanges
+- Micro-conférences et ateliers
+tags:
+- Environnement de travail numérique de l'agent
 chapeau-text: 'Depuis novembre 2022, la DINUM réalise un Tour de France des régions
   des produits numériques interministériels pour aller à la rencontre des agents :
   les informer, les former et continuer à les accompagner à transformer les méthodes
