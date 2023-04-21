@@ -1,7 +1,6 @@
 ---
 title: Tour de France des Produits numériques interministériels - Étape Occitanie
 date: 2023-04-21 11:40:00 +02:00
-published: false
 categories:
 - Journée d'échanges
 - Micro-conférences et ateliers
@@ -22,9 +21,6 @@ champs_informations:
   contenu: 9h30 - 17h
 - intitule: Comment y aller ?
   contenu: 'Métro A Esquirol - Bus 10 Etats-Unis Fondeyre '
-- intitule: Gratuit
-  contenu: Inscription obligatoire
-  lien: https://www.demarches-simplifiees.fr/commencer/etape-occitanie-tdf
 ---
 
 Le Tour de France des régions se poursuit. La prochaine étape aura lieu à Toulouse !
@@ -39,4 +35,4 @@ Cet évènement se déroulera **le jeudi 25 mai de 9h30 à 17h** à la CPAM de H
 
 * Un format dynamique avec des **ateliers participatifs** : des ateliers avancés des produits numériques et des ateliers « multiproduits » collaboratifs.
 
-<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://www.demarches-simplifiees.fr/commencer/etape-occitanie-tdf" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"> class="button" title="Inscriptions à venir"><b>Inscriptions à venir</b></a></div>
