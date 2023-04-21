@@ -15,7 +15,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 9h30 - 17h
 - intitule: Comment y aller ?
-  contenu: 
+  contenu: 'Métro A Esquirol - Bus 10 Etats-Unis Fondeyre '
 - intitule: Gratuit
   contenu: Inscription obligatoire
   lien: https://www.demarches-simplifiees.fr/commencer/etape-occitanie-tdf
