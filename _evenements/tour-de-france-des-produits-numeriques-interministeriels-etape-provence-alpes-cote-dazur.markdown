@@ -2,7 +2,6 @@
 title: Tour de France des Produits numériques interministériels - Étape Provence-Alpes-Côte
   d’Azur
 date: 2023-04-18 15:23:00 +02:00
-published: false
 categories:
 - Journée d'échanges
 - Micro-conférences et ateliers
@@ -13,6 +12,8 @@ chapeau-text: 'Depuis novembre 2022, la DINUM réalise un Tour de France des ré
   les informer, les former et continuer à les accompagner à transformer les méthodes
   de travail - en s’appuyant sur les produits collaboratifs ministériels et interministériels
   mis à leur disposition.'
+une-ou-diaporama:
+- image: "/uploads/2023_04_07_Tour-de-France_Marseille_visuel_Agenda%20copie.jpg"
 event_start_date: 2023-06-06 09:30:00 +02:00
 lieu: Préfecture de la région Provence-Alpes-Côte d’Azur
 adresse: 32 Place Félix Baret, 13006 Marseille

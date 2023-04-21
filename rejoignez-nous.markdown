@@ -132,7 +132,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 <br>
 
-<h1 class="h3"><b>Conseil et appui</b></h1>
+<h1 class="h3"><b>Conseil, audit et appui</b></h1>
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://place-emploi-public.gouv.fr/offre-emploi/directeurtrice-de-projets-securisation-et-conseil-des-grands-projets-si-de-l-tat--reference-2023-1175899/" title="Directeur/trice de Projets sécurisation et conseil des grands projets SI de l’État H/F - Lien externe">Directeur/trice de Projets sécurisation et conseil des grands projets SI de l’État H/F</a></b>
