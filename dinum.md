@@ -70,7 +70,7 @@ function myFunction(id) {
 <li><b>Cabinet</b></li>
 <li><b>Mission Communication</b></li></ul>
 <p><b>Sont rattachés à la direction&nbsp;:</b></p>
-<ul><li><b>le département « Appui, audit et expertise » :</b> Chef du département : à nommer. Adjoint : à nommer</li>
+<ul><li><b>le département « Appui, conseil et expertise » :</b> Chef du département : à nommer. Adjoint : à nommer</li>
   <ul>
     <li>Brigade d’intervention numérique</li>
     <li>Expertise, contrôle et maîtrise des risques</li>
