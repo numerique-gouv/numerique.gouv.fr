@@ -3,16 +3,13 @@ layout: default
 ---
 
 {% assign missions-ordered = site.missions-dinsic | sort: 'ordre'%}
-<div id="dinsic-page" class="gray-background ">
+<div id="dinsic-page" class="page-fille gray-background ">
   <div class="object-fit__image-container">
     <img class="object-fit__featured-image image-de-tete" alt="{{ page.une.alternative-textuelle }}" src="{{ base }}{{ page.une.image }}">
   </div>
   <a id="content" tabindex="-1"></a>
   <section class="cell white-container padding-large-5 padding-medium-1" >
     {% include components/titre-page-fille.html %}
-    <h2 class="font-bold margin-top-3">
-      La DINUM en bref ...
-    </h2>
     <div>
       {{ content }}
     </div>

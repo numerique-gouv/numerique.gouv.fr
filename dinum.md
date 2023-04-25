@@ -3,45 +3,46 @@ title: La DINUM
 date: 2019-10-25 17:35:00 +02:00
 permalink: "/dinum/"
 position: 5
-sous-titre: Avec le numérique, nous créons le service public de demain
-chapeau-text: 'La direction interministérielle du numérique (DINUM) est en charge
-  de la transformation numérique de l’État au bénéfice du citoyen comme de l''agent,
-  sous tous ses aspects : modernisation du système d''information de l''État, qualité
-  des services publics numériques, création de services innovants pour les citoyens,
-  outils numériques de travail collaboratif pour les agents…'
+sous-titre: Le numérique au service de l'efficacité de l'action publique
+chapeau-text: 'Service de la Première ministre, placé sous l’autorité du ministre
+  de la Transformation et de la Fonction publiques, la direction interministérielle
+  du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État
+  et de piloter sa mise en œuvre. Notre objectif : un État plus efficace, plus simple
+  et plus souverain grâce au numérique. '
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 3 octobre 2022
+date_de_modification: 25 avril 2023
 layout: dinsic
 ---
 
-La direction interministérielle du numérique (DINUM) **accompagne les ministères dans leur transformation numérique, conseille le gouvernement** et **développe des services et ressources partagées** comme le réseau interministériel de l’État, [FranceConnect](https://franceconnect.gouv.fr), [data.gouv.fr](https://www.data.gouv.fr) ou [api.gouv.fr](https://api.gouv.fr).
+<h1 class="h2">Notre ambition</h1>
+La direction interministérielle du numérique a pour mission d’accompagner et de faire réussir les projets numériques de l’État, au service des priorités gouvernementales et dans un souci d’une amélioration de l’efficacité de l’action publique tirant le meilleur parti des opportunités du numérique.
 
-La DINUM est un service de la Première ministre, placé sous l’autorité du **ministre de la Transformation et de la Fonction publiques**.
+<a href="/publications/feuille-de-route-dinum/">> À lire : Feuille de route de la DINUM - Une stratégie numérique au service de l'efficacité de l’action publique</a>
 
-Créée par [le décret du 25 octobre 2019](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039281619 "Le décret du 25 octobre 2019 - Lien externe"), elle a pris la suite de la direction interministérielle du numérique et du système d'information et de communication de l’État (DINSIC).
+Les missions de la DINUM sont fixées par décret ([décret du 25 octobre 2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047478124), modifié par le [décret du 22 avril 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047478124)). 
 <br>
 <br>
 <br>
 
-## **Organisation**
+<h1 class="h2">Notre organisation</h1>
 
-La DINUM comprend une direction de programme, trois départements et un secrétariat général :
+La DINUM comprend six départements et trois missions :
 
-* **la direction de programme [TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)** pilote le programme interministériel de transformation numérique du service public TECH.GOUV ;
-
-* **le département « Infrastructures et services opérés » (ISO)** conçoit et opère des services d’infrastructures à valeur ajoutée mutualisés entre les administrations, dont le réseau interministériel de l’État (RIE) ;
-
-* **le département [« Etalab »](https://www.etalab.gouv.fr/ "Etalab - Lien externe")** coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, dont ses composantes juridique et sociétale ;
-
-* **le département « Performance des services numériques » (PSN)** conçoit les plans d’actions interministériels en matière de mutualisation, dématérialisation, pilotage des projets et qualité des services numériques, et soutient leur mise en œuvre ;
-
-* **le secrétariat général** soutient l’activité de la direction : il assure la communication externe et interne, la gestion des ressources humaines et financières, la synthèse des missions et veille à la qualité des conditions de travail des agents.
+<ul><li>le département « Appui, contrôle et expertise&nbsp;»</li> 
+<li>le département « Incubateur de services numériques&nbsp;»</li> 
+<li>le département «&nbsp;Etalab&nbsp;» </li>
+<li>le département « Infrastructures et services opérés »</li> 
+<li>le département « Opérateur de produits interministériels »</li> 
+<li>le département « RH de la filière numérique de l’État »</li> 
+<li>la mission « Droit et international »</li> 
+<li>la mission « Budget et achat »</li> 
+<li>la mission « Communication »</li></ul>
 <br>
 <br>
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme_DINUM.PDF" class="button"><b>Consulter l'organigramme (160 Ko)</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme_DINUM.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
 
 <script>
 function myFunction(id) {
@@ -62,55 +63,61 @@ function myFunction(id) {
 <div class="accordion-item">
 <button onclick="myFunction('organigramme')" id="accordion-button" class="accordion-title" aria-controls="organigramme" aria-expanded="false">Version accessible de l'organigramme</button>
 <div class="accordion-content" id="organigramme">
-<p><b>Sont rattachés à la direction&nbsp;:</b> le programme TECH.GOUV, le département Infrastructures et Services Opérés (ISO), le département Etalab (cycle de vie de la donnée), le département Performance des Services Numériques (PSN), ainsi que le secrétariat général.</p>
-<p>Chacun est divisé en missions ou pôles. En voici le détail, avec le nom des responsables.</p>
-<br>
-<ul><li><b>Programme TECH.GOUV</b>&nbsp;: Xavier Albouy
+<ul>
+<li><b>Direction :</b> Stéphanie Schaer. Adjoint : à nommer</li>
+<br><li><b>Mission Droit et international</b></li>
+<li><b>Mission  Budget et achats</b></li>
+<li><b>Cabinet</b></li>
+<li><b>Mission Communication</b></li></ul>
+<p><b>Sont rattachés à la direction&nbsp;:</b></p>
+<ul><li><b>le département « Appui, contrôle et expertise » :</b> Chef du département : à nommer. Adjoint : à nommer</li>
   <ul>
-    <li><b>Mission LABEL&nbsp;:</b> Sabine Guillaume</li>
-    <li><b>Mission IDNUM&nbsp;:</b> Christine Balian</li>
-    <li><b>Mission DATA&nbsp;:</b> Romain Talès</li>
-    <li><b>Mission INFRA&nbsp;:</b> Paul-Emmanuel Caillard</li>
-    <li><b>Mission PILOT&nbsp;:</b> Virginie Rozière</li>
-    <li><b>Mission TALENTS&nbsp;:</b> Soraya Saa</li>
-    <li><b>Mission BETA&nbsp;:</b> Florian Delezenne</li>
-    <li><b>Mission TRANSFO&nbsp;:</b> Patrick Ruestchmann</li>
-  </ul><br></li>
+    <li>Brigade d’intervention numérique</li>
+    <li>Expertise, contrôle et maîtrise des risques</li>
+    <li>Référentiels, capitalisation et Observatoires</li>
+    <li>Proactivité</b></li>
+    <li>Transformation numérique des territoires</li>
+  </ul>
 
-<li><b>Département ISO (Infrastructures et Services Opérés)</b>&nbsp;: Guy Duplaquet. Adjoint&nbsp;: Louis Di Benedetto
+<li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : à nommer. Adjoint : à nommer</li>
   <ul>
-    <li><b>Pôle RIE&nbsp;:</b> Philippe Levillain</li>
-    <li><b>Pôle Hypervision&nbsp;:</b> Cédric Gibert</li>
-    <li><b>Pôle Production&nbsp;:</b> Gilles Corbi</li>
-    <li><b>Pôle Pilotage de la Qualité et des Partenariats&nbsp;:</b> Louis Di Benedetto</li>
-  </ul><br></li>
-
-<li><b>Département Etalab - Cycle de vie de la donnée</b>&nbsp;: Laure Lucchesi
+    <li>Animation beta.gouv.fr</li>
+    <li>Accélération FAST</li>
+    <li>Services incubés</li>
+    <li>Proactivité</li>
+    <li>Portefeuilles ministériels</li>
+  </ul>
+<li><b>le département « Etalab » :</b> Chef du département : Marielle Chrisment. Adjoint : à nommer</li>
   <ul>
-    <li><b>Pôle Droit et Société&nbsp;:</b> Perica Sucevic</li>
-    <li><b>Pôle Programmes d'innovation</b></li>
-    <li><b>Pôle Exploitation des Données&nbsp;:</b> Paul-Antoine Chevalier</li>
-    <li><b>Pôle Ouverture et Partage des Données&nbsp;:</b> Romain Talès</li>
-    <li><b>Pôle Logiciels libres&nbsp;:</b> Bastien Guerry</li>
-  </ul><br></li>
-
-<li><b>Département Performance des services numériques (PSN)&nbsp;:</b> Virginie Rozière (par intérim)
+    <li>Datalab</li>
+    <li>Datanim</li>
+  </ul>
+<li><b>le département « Infrastructures et services opérés » (ISO) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto. Adjoint technique : à nommer.</li>
   <ul>
-    <li><b>Pôle Conseil et maîtrise des risques&nbsp;:</b> Virginie Rozière</li>
-    <li><b>Pôle Produits numériques partagés&nbsp;:</b> Jean-Louis Barthelémy</li>
-    <li><b>Pôle Architecture et sécurité&nbsp;:</b> Mohsen Souissi</li>
-    <li><b>Pôle Design des services numériques&nbsp;:</b> Marine Boudeau</li>
-  </ul><br></li>
-
-<li><b>Le secrétariat général&nbsp;:</b> Catherine Ferréol</li>
-<li><b>La direction :</b> Stéphanie Schaer. 
-Adjoint&nbsp;: Xavier Albouy</li>
-
+    <li>Hypervision</li>
+    <li>Production</li>
+    <li>RIE/SOI</li>
+    <li>SI RIE</li>
+  </ul>
+<li><b>le département « Opérateur des produits interministériels » (OPI) :</b> Chef du département : à nommer. Adjoint : à nommer.</li>
+  <ul>
+    <li>Fédération d’identité des citoyens</li>
+    <li>Relations agents et usagers</li>
+    <li>Circulation de la donnée</li>
+    <li>Réutilisation de la donnée ouverte</li>
+    <li>Incubateur de produits interministériels</li>
+  </ul>
+<li><b>le département « RH de la filière numérique de l’État » (RHN) :</b> Chef du département : à nommer. Adjoint : à nommer.</li>
+  <ul>
+    <li>RH et attractivité</li>
+    <li>Fidélisation des Parcours du numérique</li>
+    <li>Campus du numérique</li>
+  </ul>
 </ul>
+<p style="margin-top: 10px">Organigramme daté du 24 avril 2023</p>
 </div>
 </div>
 </div>
 
-
-[> Télécharger la note d’organisation (pdf - 250 Ko)](/uploads/note_organisation_DINUM_20200301-d030a7.pdf)
+<p><a href="/uploads/Note_organisation_DINUM.pdf">&gt; Télécharger la note d’organisation (pdf - 250 Ko)</a></p>
 

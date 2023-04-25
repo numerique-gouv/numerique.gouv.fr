@@ -3,7 +3,7 @@ title: Numerique.gouv.fr
 permalink: "/"
 position: 4
 layout: index
-slogan: Avec le numérique, nous créons le service public de demain
+slogan: Le numérique au service de l'efficacité de l'action publique
 titre-une: À la une
 titre-twitter: En direct de Twitter
 twitters:
