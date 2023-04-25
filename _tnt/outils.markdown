@@ -108,7 +108,7 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 <div align="center"><a href="/uploads/Numerisation-urbanisme_Guide-pratique.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
 <div class="panel">
-<p class="text-center"><a href="/uploads/PermisEnLigne_Addendum_Convention-mise-a-disposition.pdf" title="Addendum - Adapter une convention entre un guichet unique et un centre instructeur (pdf, 1 Mo)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" width="100" alt="Télécharger l'Addendum - Adapter une convention entre un guichet unique et un centre instructeur (pdf, 1 Mo)"></a></p>
+<p class="text-center"><a href="/uploads/PermisEnLigne_Addendum_Convention-mise-a-disposition.pdf" title="Addendum - Adapter une convention entre un guichet unique et un centre instructeur (pdf, 1 Mo)"><img src="/uploads/couv-TNT-PermisEnLigne_Addendum_Convention-mise-a-disposition.pdf.png" style="border:solid 1px #dedede;" width="100" alt="Télécharger l'Addendum - Adapter une convention entre un guichet unique et un centre instructeur (pdf, 1 Mo)"></a></p>
 <b>Addendum - Adapter une convention entre un guichet unique et un centre instructeur</b> (pdf, 1 Mo)
 <div align="center"><a href="/uploads/PermisEnLigne_Addendum_Convention-mise-a-disposition.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
