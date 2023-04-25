@@ -19,7 +19,7 @@ layout: dinsic
 <h1 class="h2">Notre ambition</h1>
 La direction interministérielle du numérique a pour mission d’accompagner et de faire réussir les projets numériques de l’État, au service des priorités gouvernementales et dans un souci d’une amélioration de l’efficacité de l’action publique tirant le meilleur parti des opportunités du numérique.
 
-<ul><li><a href="/publications/feuille-de-route-dinum/"> À lire : Feuille de route de la DINUM - Une stratégie numérique au service de l'efficacité de l’action publique</a></li></ul>
+<a href="/publications/feuille-de-route-dinum/">> À lire : Feuille de route de la DINUM - Une stratégie numérique au service de l'efficacité de l’action publique</a>
 
 Les missions de la DINUM sont fixées par décret ([décret du 25 octobre 2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047478124), modifié par le [décret du 22 avril 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047478124)). 
 <br>
@@ -32,7 +32,7 @@ La DINUM comprend six départements et trois missions :
 
 <ul><li>le département « Appui, contrôle et expertise&nbsp;»</li> 
 <li>le département « Incubateur de services numériques&nbsp;»</li> 
-<li>le département <a href="https://www.etalab.gouv.fr/" title="Etalab - Lien externe">«&nbsp;Etalab&nbsp;»</a> </li>
+<li>le département «&nbsp;Etalab&nbsp;» </li>
 <li>le département « Infrastructures et services opérés »</li> 
 <li>le département « Opérateur de produits interministériels »</li> 
 <li>le département « RH de la filière numérique de l’État »</li> 
