@@ -121,6 +121,16 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 <div class="panel"> <p class="text-center"><a href="/uploads/Vademecum-EchangesAdministratrionUsager.pdf" title="Télécharger le Vademecum sur les échanges entre l’administration et l’usager (pdf, 190 ko)"><img src="/uploads/couv-TNT-Vademecum-EchangesAdministratrionUsager.pdf.png" style="border:solid 1px #dedede;" alt="Télécharger le Vademecum sur les échanges entre l’administration et l’usager (pdf, 1,2 Mo)" width="100"></a></p><p> <b>Vademecum sur les échanges entre l’administration et l’usager</b><br>(pdf, 1,2 Mo) </p><div align="center"><a href="/uploads/Vademecum-EchangesAdministratrionUsager.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
 </div>
+<br>
+<h3 id="livrables-donnée">Enjeux de la donnée</h3>
+<h4>Atelier Données & Territoires</h4>
+<p>Produit dans le cadre du groupe projet 6, l’Atelier Données & Territoires est un espace collaboratif de référencement, de sélection et de diffusion de ressources liées aux enjeux de la donnée. Il a pour ambition de faciliter la réflexion, l’appropriation et le passage à l’action des décideurs et agents des collectivités territoriales, afin de produire, partager et valoriser au mieux les données territoriales au service des politiques publiques et de l’intérêt général.</p> 
+</p>L’Atelier, décomposé en plusieurs espaces, propose une cartographie des 9 principaux enjeux politiques et stratégiques de la donnée et un catalogue collaboratif de ressources diverses (guides, rapports, vidéos, outils, guichets de financement, etc.), qui peuvent être consultées, téléchargées et réutilisées.</p>
+Chaque utilisateur de l’Atelier est également invité à contribuer au catalogue de ressources grâce à des formulaires de contribution permettant d’ajouter de nouveaux contenus identifiés ou produits.</p>
+<p>Plus qu’un simple référencement de ressources, l’Atelier Données & Territoires a aussi  été conçu pour être un appui à la transformation numérique des territoires, notamment les plus petits. Nous souhaitons que les contenus mis à disposition puissent être réutilisés, par exemple pour créer des parcours de formation, des contenus inédits ou faire l’objet d’une sensibilisation en interne.</p>
+
+<div align="left"><a href="https://programme-tnt.gitbook.io/donnees-territoires/" class="button" title="Proposer des ressources à ajouter - Lien externe"><b>Accéder à l’Atelier Données & Territoires</b></a></div>
+
 
 
 <!--
