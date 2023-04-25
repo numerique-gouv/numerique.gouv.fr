@@ -64,8 +64,7 @@ function myFunction(id) {
 <button onclick="myFunction('organigramme')" id="accordion-button" class="accordion-title" aria-controls="organigramme" aria-expanded="false">Version accessible de l'organigramme</button>
 <div class="accordion-content" id="organigramme">
 <ul>
-<li><b>La direction :</b> Stéphanie Schaer</li>
-<li><b>Adjoint :</b> à nommer </li>
+<li><b>Direction :</b> Stéphanie Schaer. Adjoint : à nommer</li>
 <li><b>Mission Droit et international</b></li>
 <li><b>Mission  Budget et achats</b></li>
 <li><b>Cabinet</b></li>
