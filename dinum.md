@@ -72,20 +72,20 @@ function myFunction(id) {
 <p><b>Sont rattachés à la direction&nbsp;:</b></p>
 <ul><li><b>le département « Appui, contrôle et expertise » :</b> Chef du département : à nommer. Adjoint : à nommer</li>
   <ul>
-    <li>Brigade d’intervention numérique</b></li>
-    <li>Expertise, contrôle et maîtrise des risques</b></li>
-    <li>Référentiels, capitalisation et Observatoires</b></li>
+    <li>Brigade d’intervention numérique</li>
+    <li>Expertise, contrôle et maîtrise des risques</li>
+    <li>Référentiels, capitalisation et Observatoires</li>
     <li>Proactivité</b></li>
-    <li>Transformation numérique des territoires</b></li>
+    <li>Transformation numérique des territoires</li>
   </ul>
 
 <li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : à nommer. Adjoint : à nommer</li>
   <ul>
-    <li>Animation beta.gouv.fr</b></li>
-    <li>Accélération FAST</b></li>
-    <li>Services incubés</b></li>
-    <li>Proactivité</b></li>
-    <li>Portefeuilles ministériels</b></li>
+    <li>Animation beta.gouv.fr</li>
+    <li>Accélération FAST</li>
+    <li>Services incubés</li>
+    <li>Proactivité</li>
+    <li>Portefeuilles ministériels</li>
   </ul>
 <li><b>le département « Etalab » :</b> Chef du département : Marielle Chrisment. Adjoint : à nommer</li>
   <ul>
