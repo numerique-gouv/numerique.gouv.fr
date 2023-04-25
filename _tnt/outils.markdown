@@ -86,7 +86,7 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 
 <div class="wrapper">
 <div class="panel">
-<p class="text-center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" title="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"></a></p>
+<p class="text-center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" title="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des administrations (pdf, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"></a></p>
 <b>Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations<br>(pdf, 600 ko)
 <div align="center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
@@ -99,6 +99,16 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 <p class="text-center"><a href="/uploads/Flyer_SVE_usagers.pptx" title="Télécharger le Flyer de communication sur la saisine par voie électronique (SVE) à destination des usagers (pptx, 600 ko)"><img src="/uploads/couv-flyer-com-sve-usagers.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Flyer de communication sur la saisine par voie électronique (SVE) à destination des usagers (pptx, 600 ko)"></a></p>
 <b>Flyer de communication sur la saisine par voie électronique (SVE)</b>à destination des usagers<br>(pptx, 600 ko)
 <div align="center"><a href="/uploads/Flyer_SVE_usagers.pptx" class="button"><b>Télécharger</b></a></div>
+</div>
+<div class="panel">
+<p class="text-center"><a href="/uploads/Numerisation-urbanisme_Guide-evaluation.pdf" title="Télécharger le Guide d’évaluation - Dossiers d’urbanisme : comment numériser pour bien archiver ? (pdf, 560 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Guide d’évaluation - Dossiers d’urbanisme : comment numériser pour bien archiver ? (pdf, 560 ko)"></a></p>
+<b>Guide d’évaluation  -</b> Dossiers d’urbanisme : comment numériser pour bien archiver ? <br>(pdf, 560 ko)
+<div align="center"><a href="/uploads/Numerisation-urbanisme_Guide-evaluation.pdf" class="button"><b>Télécharger</b></a></div>
+</div>
+<div class="panel">
+<p class="text-center"><a href="/uploads/Numerisation-urbanisme_Guide-pratique.pdf" title="Guide pratique - Dossiers d’urbanisme : comment numériser pour bien archiver ? (pdf, 560 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Guide pratique - Dossiers d’urbanisme : comment numériser pour bien archiver ? (pdf, 560 ko)"></a></p>
+<b>Guide pratique -</b> Dossiers d’urbanisme : comment numériser pour bien archiver ? <br>(pdf, 560 ko)
+<div align="center"><a href="/uploads/Numerisation-urbanisme_Guide-pratique.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
 </div>
 
