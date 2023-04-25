@@ -118,6 +118,8 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 </div>
 <div class="panel"> <p class="text-center"><a href="/uploads/Gabarit-presentation-SVE_communes.pdf" title="Télécharger le Gabarit de présentation (page web ou plaquette) à destination des communes - Mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme (pdf, 190 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" alt="Télécharger le Gabarit de présentation (page web ou plaquette) à destination des communes - Mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme (pdf, 190 ko)" width="150"></a></p><p> <b>Gabarit de présentation (page web ou plaquette)</b> à destination des communes - Mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme<br>(pdf, 190 ko) </p><div align="center"><a href="/uploads/Gabarit-presentation-SVE_communes.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
+<div class="panel"> <p class="text-center"><a href="/uploads/Vademecum-EchangesAdministratrionUsager.pdf" title="Télécharger le Vademecum sur les échanges entre l’administration et l’usager (pdf, 190 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" alt="Télécharger le Vademecum sur les échanges entre l’administration et l’usager (pdf, 1,2 Mo)" width="150"></a></p><p> <b>Vademecum</b> Vademecum sur les échanges entre l’administration et l’usager<br>(pdf, 1,2 Mo) </p><div align="center"><a href="/uploads/Vademecum-EchangesAdministratrionUsager.pdf" class="button"><b>Télécharger</b></a></div>
+</div>
 </div>
 
 
