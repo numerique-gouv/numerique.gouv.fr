@@ -63,17 +63,56 @@ function myFunction(id) {
 <div class="accordion-item">
 <button onclick="myFunction('organigramme')" id="accordion-button" class="accordion-title" aria-controls="organigramme" aria-expanded="false">Version accessible de l'organigramme</button>
 <div class="accordion-content" id="organigramme">
-<p><b>Sont rattachés à la direction&nbsp;:</b> le programme TECH.GOUV, le département Infrastructures et Services Opérés (ISO), le département Etalab (cycle de vie de la donnée), le département Performance des Services Numériques (PSN), ainsi que le secrétariat général.</p>
-<p>Chacun est divisé en missions ou pôles. En voici le détail, avec le nom des responsables.</p>
-<br>
-<ul><li><b>Programme TECH.GOUV</b>&nbsp;: Xavier Albouy
+<ul>
+<li><b>La direction :</b> Stéphanie Schaer.</li>
+<li><b>Adjoint :</b> à nommer </li>
+<li><b>Droit et international</b></li>
+<li><b>Budget et achats</b></li>
+<li><b>Cabinet</b></li>
+<li><b>Communication</b></li></ul>
+<p><b>Sont rattachés à la direction&nbsp;:</b></p>
+<ul><li><b>le département « Appui, contrôle et expertise » :</b> Chef du département : à nommer. Adjoint : à nommer</li>
   <ul>
-    <li><b>Mission LABEL&nbsp;:</b> Sabine Guillaume</li>
-    <li><b>Mission IDNUM&nbsp;:</b> Christine Balian</li>
-    <li><b>Mission DATA&nbsp;:</b> Romain Talès</li>
-    <li><b>Mission INFRA&nbsp;:</b> Paul-Emmanuel Caillard</li>
-    <li><b>Mission PILOT&nbsp;:</b> Virginie Rozière</li>
-    <li><b>Mission TALENTS&nbsp;:</b> Soraya Saa</li>
+    <li><b>Brigade d’intervention numérique</b></li>
+    <li><b>Expertise, contrôle et maîtrise des risques</b></li>
+    <li><b>Référentiels, capitalisation et Observatoires</b></li>
+    <li><b>Proactivité</b></li>
+    <li><b>Transformation numérique des territoires</b></li>
+  </ul>
+
+<li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : à nommer. Adjoint : à nommer</li>
+  <ul>
+    <li><b>Animation beta.gouv.fr</b></li>
+    <li><b>Accélération FAST</b></li>
+    <li><b>Services incubés</b></li>
+    <li><b>Proactivité</b></li>
+    <li><b>Portefeuilles ministériels</b></li>
+  </ul>
+<li><b>le département « Etalab » :</b> Chef du département : Marielle Chrisment. Adjoint : à nommer</li>
+  <ul>
+    <li><b>Datalab</b></li>
+    <li><b>Datanim</b></li>
+  </ul>
+<ul><li><b>le département « Infrastructures et services opérés » (ISO) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto. Adjoint technique : à nommer.</li>
+  <ul>
+    <li><b>Hypervision</b></li>
+    <li><b>Production</b></li>
+    <li><b>RIE/SOI</b></li>
+    <li><b>SI RIE</b></li>
+  </ul>
+<ul><li><b>le département « Opérateur des produits interministériels » (OPI) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto. Adjoint technique : à nommer.</li>
+  <ul>
+    <li><b>Hypervision</b></li>
+    <li><b>Production</b></li>
+    <li><b>RIE/SOI</b></li>
+    <li><b>SI RIE</b></li>
+  </ul>
+</ul>
+<li><b>le département « Incubateur de services numériques » :</b> Christine Balian</li>
+<li><b>le département « Etalab » :</b> Romain Talès</li>
+<li><b>le département « Infrastructures et services opérés » :</b> Paul-Emmanuel Caillard</li>
+<li><b>le département « Opérateur de produits interministériels » :</b> Virginie Rozière</li>
+<li><b>le département « RH de la filière numérique de l’Etat »</b> Soraya Saa</li>
     <li><b>Mission BETA&nbsp;:</b> Florian Delezenne</li>
     <li><b>Mission TRANSFO&nbsp;:</b> Patrick Ruestchmann</li>
   </ul><br></li>
@@ -103,9 +142,7 @@ function myFunction(id) {
     <li><b>Pôle Design des services numériques&nbsp;:</b> Marine Boudeau</li>
   </ul><br></li>
 
-<li><b>Le secrétariat général&nbsp;:</b> Catherine Ferréol</li>
-<li><b>La direction :</b> Stéphanie Schaer. 
-Adjoint&nbsp;: Xavier Albouy</li>
+
 
 </ul>
 </div>
