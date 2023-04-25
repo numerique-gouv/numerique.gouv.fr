@@ -85,11 +85,11 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 <h4>Vos outils</h4>
 
 <div class="wrapper">
-<div class="panel"> <p class="text-center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" title="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des administrations (pdf, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" alt="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des administrations (pdf, 600 ko)" width="150"></a></p><p><b>Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b><br>à destination des administrations<br>(pdf, 600 ko)</p><div align="center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" class="button"><b>Télécharger</b></a></div>
+<div class="panel"> <p class="text-center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" title="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" alt="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)" width="150"></a></p><p> <b>Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations<br>(pdf, 600 ko) </p><div align="center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
 <div class="panel">
 <p class="text-center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" title="Télécharger le Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des usagers (odp, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE-usagers.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des usagers (odp, 600 ko)"></a></p>
-<b>Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des usagers<br>(odp, 600 ko)
+<br><p><b>Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des usagers<br>(odp, 600 ko)</p>
 <div align="center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" class="button"><b>Télécharger</b></a></div>
 </div>
 <div class="panel">
@@ -109,13 +109,10 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 </div>
 <div class="panel">
 <p class="text-center"><a href="/uploads/PermisEnLigne_Addendum_Convention-mise-a-disposition.pdf" title="Addendum - Adapter une convention entre un guichet unique et un centre instructeur (pdf, 1 Mo)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger l'Addendum - Adapter une convention entre un guichet unique et un centre instructeur (pdf, 1 Mo)"></a></p>
-<b>Addendum -</b> Adapter une convention entre un guichet unique et un centre instructeur(pdf, 1 Mo)
+<b>Addendum -</b> Adapter une convention entre un guichet unique et un centre instructeur (pdf, 1 Mo)
 <div align="center"><a href="/uploads/PermisEnLigne_Addendum_Convention-mise-a-disposition.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
-<div class="panel">
-<p class="text-center"><a href="/uploads/PermisEnLigne_Addendum_Convention-mise-a-disposition.pdf" title="Addendum - Adapter une convention entre un guichet unique et un centre instructeur (pdf, 1 Mo)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger l'Addendum - Adapter une convention entre un guichet unique et un centre instructeur (pdf, 1 Mo)"></a></p>
-<b>Addendum -</b> Adapter une convention entre un guichet unique et un centre instructeur(pdf, 1 Mo)
-<div align="center"><a href="/uploads/PermisEnLigne_Addendum_Convention-mise-a-disposition.pdf" class="button"><b>Télécharger</b></a></div>
+<div class="panel"> <p class="text-center"><a href="/uploads/PermisEnLigne_Guide-redaction-CGU.pdf" title="Télécharger le Guide de rédaction des conditions générales d’utilisation (CGU) (pdf, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" alt="Télécharger le Guide de rédaction des conditions générales d’utilisation (CGU) (pdf, 440 ko)" width="150"></a></p><p> <b>Guide de rédaction</b> des conditions générales d’utilisation (CGU)<br>(pdf, 440 ko) </p><div align="center"><a href="/uploads/PermisEnLigne_Guide-redaction-CGU.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
 </div>
 
