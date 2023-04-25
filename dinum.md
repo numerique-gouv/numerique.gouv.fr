@@ -19,7 +19,7 @@ layout: dinsic
 <h1 class="h2">Notre ambition</h1>
 La direction interministérielle du numérique a pour mission d’accompagner et de faire réussir les projets numériques de l’État, au service des priorités gouvernementales et dans un souci d’une amélioration de l’efficacité de l’action publique tirant le meilleur parti des opportunités du numérique.
 
-<a href="/publications/feuille-de-route-dinum/">> À lire : Feuille de route de la DINUM - Une stratégie numérique au service de l'efficacité de l’action publique</a>
+<ul><li>À lire&nbsp;: <a href="/publications/feuille-de-route-dinum/">Feuille de route de la DINUM - Une stratégie numérique au service de l’efficacité de l’action publique</a></li></ul>
 
 Les missions de la DINUM sont fixées par décret ([décret du 25 octobre 2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047478124), modifié par le [décret du 22 avril 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047478124)). 
 <br>
