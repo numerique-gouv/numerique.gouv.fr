@@ -65,7 +65,7 @@ function myFunction(id) {
 <div class="accordion-content" id="organigramme">
 <ul>
 <li><b>Direction :</b> Stéphanie Schaer. Adjoint : à nommer</li>
-<li><b>Mission Droit et international</b></li>
+<br><li><b>Mission Droit et international</b></li>
 <li><b>Mission  Budget et achats</b></li>
 <li><b>Cabinet</b></li>
 <li><b>Mission Communication</b></li></ul>
