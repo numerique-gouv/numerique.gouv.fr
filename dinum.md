@@ -93,14 +93,14 @@ function myFunction(id) {
     <li>Datalab</li>
     <li>Datanim</li>
   </ul>
-<ul><li><b>le département « Infrastructures et services opérés » (ISO) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto. Adjoint technique : à nommer.</li>
+<li><b>le département « Infrastructures et services opérés » (ISO) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto. Adjoint technique : à nommer.</li>
   <ul>
     <li>Hypervision</li>
     <li>Production</li>
     <li>RIE/SOI</li>
     <li>SI RIE</li>
   </ul>
-<ul><li><b>le département « Opérateur des produits interministériels » (OPI) :</b> Chef du département : à nommer. Adjoint : à nommer.</li>
+<li><b>le département « Opérateur des produits interministériels » (OPI) :</b> Chef du département : à nommer. Adjoint : à nommer.</li>
   <ul>
     <li>Fédération d’identité des citoyens</li>
     <li>Relations agents et usagers</li>
@@ -108,14 +108,14 @@ function myFunction(id) {
     <li>Réutilisation de la donnée ouverte</li>
     <li>Incubateur de produits interministériels</li>
   </ul>
-<ul><li><b>le département « RH de la filière numérique de l’État » (RHN) :</b> Chef du département : à nommer. Adjoint : à nommer.</li>
+<li><b>le département « RH de la filière numérique de l’État » (RHN) :</b> Chef du département : à nommer. Adjoint : à nommer.</li>
   <ul>
     <li>RH et attractivité</li>
     <li>Fidélisation des Parcours du numérique</li>
     <li>Campus du numérique</li>
   </ul>
 </ul>
-<p>Organigramme daté du 24 avril 2023</p>
+<p style="margin-top: 10px">Organigramme daté du 24 avril 2023</p>
 </div>
 </div>
 </div>
