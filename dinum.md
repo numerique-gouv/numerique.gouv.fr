@@ -21,7 +21,7 @@ La direction interministérielle du numérique a pour mission d’accompagner et
 
 <ul><li><a href="/publications/feuille-de-route-dinum/"> À lire : Feuille de route de la DINUM - Une stratégie numérique au service de l'efficacité de l’action publique</a></li></ul>
 
-Les missions de la DINUM sont fixées par décret ([décret du 25 octobre 2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047478124), modifié par le [décret du 22 avril 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047478124).) 
+Les missions de la DINUM sont fixées par décret ([décret du 25 octobre 2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047478124), modifié par le [décret du 22 avril 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047478124)). 
 <br>
 <br>
 <br>
