@@ -20,7 +20,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 layout: tnt
 ---
 
-<h3 id="livrables-agenda">Agenda de la transformation numérique des collectivités territoriales (2018-2024)</h3>
+<h3 id="livrables-agenda"><b>Agenda de la transformation numérique des collectivités territoriales (2018-2024)</b></h3>
 
 Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités une visibilité sur les chantiers de transformation numérique les impactant et leur permettre ainsi de mieux en anticiper les obligations et opportunités liées. 
 
@@ -48,7 +48,7 @@ L’agenda a une visée évolutive et sera alimenté régulièrement.
 <br>
 <br>
 
-<h3 id="cybersecurite">Cybersécurité</h3>
+<h3 id="cybersecurite"><b>Cybersécurité</b></h3>
 <h4>Catalogue des ressources de sensibilisation à la cybersécurité</h4>
 
 Issu du groupe projet 5, le catalogue des ressources dédiées à la cybersécurité référence des ressources produites par des acteurs publics permettant aux élus et agents des collectivités territoriales de comprendre les menaces numériques, savoir comment y réagir et les bonnes pratiques à adopter pour assurer sa sécurité numérique.
@@ -85,22 +85,52 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 <h4>Vos outils</h4>
 
 <div class="wrapper">
-<div class="panel">
-<p class="text-center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" title="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"></a></p>
-<b>Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations<br>(pdf, 600 ko)
-<div align="center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" class="button"><b>Télécharger</b></a></div>
+<div class="panel"> <p class="text-center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" title="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" alt="Télécharger le Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations (pdf, 600 ko)" width="100"></a></p><p> <b>Guide pratique pour faciliter la mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des administrations<br>(pdf, 600 ko) </p><div align="center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
 <div class="panel">
-<p class="text-center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" title="Télécharger le Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des usagers (odp, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE-usagers.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des usagers (odp, 600 ko)"></a></p>
-<b>Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des usagers<br>(odp, 600 ko)
+<p class="text-center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" title="Télécharger le Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des usagers (odp, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE-usagers.png" style="border:solid 1px #dedede;" width="100" alt="Télécharger le Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des usagers (odp, 600 ko)"></a></p>
+<br><p><b>Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des usagers<br>(odp, 600 ko)</p>
 <div align="center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" class="button"><b>Télécharger</b></a></div>
 </div>
 <div class="panel">
-<p class="text-center"><a href="/uploads/Flyer_SVE_usagers.pptx" title="Télécharger le Flyer de communication sur la saisine par voie électronique (SVE) à destination des usagers (pptx, 600 ko)"><img src="/uploads/couv-flyer-com-sve-usagers.png" style="border:solid 1px #dedede;" width="150" alt="Télécharger le Flyer de communication sur la saisine par voie électronique (SVE) à destination des usagers (pptx, 600 ko)"></a></p>
+<p class="text-center"><a href="/uploads/Flyer_SVE_usagers.pptx" title="Télécharger le Flyer de communication sur la saisine par voie électronique (SVE) à destination des usagers (pptx, 600 ko)"><img src="/uploads/couv-flyer-com-sve-usagers.png" style="border:solid 1px #dedede;" width="100" alt="Télécharger le Flyer de communication sur la saisine par voie électronique (SVE) à destination des usagers (pptx, 600 ko)"></a></p>
 <b>Flyer de communication sur la saisine par voie électronique (SVE)</b>à destination des usagers<br>(pptx, 600 ko)
 <div align="center"><a href="/uploads/Flyer_SVE_usagers.pptx" class="button"><b>Télécharger</b></a></div>
 </div>
+<div class="panel">
+<p class="text-center"><a href="/uploads/Numerisation-urbanisme_Guide-evaluation.pdf" title="Télécharger le Guide d’évaluation - Dossiers d’urbanisme : comment numériser pour bien archiver ? (pdf, 560 ko)"><img src="/uploads/couv-TNT-Numerisation-urbanisme_Guide-pratique.pdf.png" style="border:solid 1px #dedede;" width="100" alt="Télécharger le Guide d’évaluation - Dossiers d’urbanisme : comment numériser pour bien archiver ? (pdf, 560 ko)"></a></p>
+<b>Guide d’évaluation - Dossiers d’urbanisme : comment numériser pour bien archiver ?</b> <br>(pdf, 560 ko)
+<div align="center"><a href="/uploads/Numerisation-urbanisme_Guide-evaluation.pdf" class="button"><b>Télécharger</b></a></div>
 </div>
+<div class="panel">
+<p class="text-center"><a href="/uploads/Numerisation-urbanisme_Guide-pratique.pdf" title="Guide pratique - Dossiers d’urbanisme : comment numériser pour bien archiver ? (pdf, 560 ko)"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" width="100" alt="Télécharger le Guide pratique - Dossiers d’urbanisme : comment numériser pour bien archiver ? (pdf, 560 ko)"></a></p>
+<b>Guide pratique - Dossiers d’urbanisme : comment numériser pour bien archiver ?</b> <br>(pdf, 560 ko)
+<div align="center"><a href="/uploads/Numerisation-urbanisme_Guide-pratique.pdf" class="button"><b>Télécharger</b></a></div>
+</div>
+<div class="panel">
+<p class="text-center"><a href="/uploads/PermisEnLigne_Addendum_Convention-mise-a-disposition.pdf" title="Addendum - Adapter une convention entre un guichet unique et un centre instructeur (pdf, 1 Mo)"><img src="/uploads/couv-TNT-PermisEnLigne_Addendum_Convention-mise-a-disposition.pdf.png" style="border:solid 1px #dedede;" width="100" alt="Télécharger l'Addendum - Adapter une convention entre un guichet unique et un centre instructeur (pdf, 1 Mo)"></a></p>
+<b>Addendum - Adapter une convention entre un guichet unique et un centre instructeur</b> (pdf, 1 Mo)
+<div align="center"><a href="/uploads/PermisEnLigne_Addendum_Convention-mise-a-disposition.pdf" class="button"><b>Télécharger</b></a></div>
+</div>
+<div class="panel"> <p class="text-center"><a href="/uploads/PermisEnLigne_Guide-redaction-CGU.pdf" title="Télécharger le Guide de rédaction des conditions générales d’utilisation (CGU) (pdf, 600 ko)"><img src="/uploads/Couv-TNT-PermisEnLigne_Guide-redaction-CGU.pdf.png" style="border:solid 1px #dedede;" alt="Télécharger le Guide de rédaction des conditions générales d’utilisation (CGU) (pdf, 440 ko)" width="100"></a></p><p> <b>Guide de rédaction des conditions générales d’utilisation</b> (CGU)<br>(pdf, 440 ko) </p><div align="center"><a href="/uploads/PermisEnLigne_Guide-redaction-CGU.pdf" class="button"><b>Télécharger</b></a></div>
+</div>
+<div class="panel"> <p class="text-center"><a href="/uploads/PermisEnLigne_Vademecum-signature.pdf" title="Télécharger le Vademecum sur la signature électronique dans le cadre de la dématérialisation des demandes d’autorisations d’urbanisme (pdf, 600 ko)"><img src="/uploads/couv-TNT-Signature_Vademecum.png" style="border:solid 1px #dedede;" alt="Télécharger le Vademecum sur la signature électronique dans le cadre de la dématérialisation des demandes d’autorisations d’urbanisme (pdf, 700 ko)" width="100"></a></p><p> <b>Vademecum sur la signature électronique</b> dans le cadre de la dématérialisation des demandes d’autorisations d’urbanisme<br>(pdf, 700 ko) </p><div align="center"><a href="/uploads/PermisEnLigne_Vademecum-signature.pdf" class="button"><b>Télécharger</b></a></div>
+</div>
+<div class="panel"> <p class="text-center"><a href="/uploads/Gabarit-presentation-SVE_communes.pdf" title="Télécharger le Gabarit de présentation (page web ou plaquette) à destination des communes - Mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme (pdf, 190 ko)"><img src="/uploads/couv-TNT_Gabarit-presentation-SVE_communes.png" style="border:solid 1px #dedede;" alt="Télécharger le Gabarit de présentation (page web ou plaquette) à destination des communes - Mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme (pdf, 190 ko)" width="100"></a></p><p> <b>Gabarit de présentation (page web ou plaquette) à destination des communes -</b> Mise en place de la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme<br>(pdf, 190 ko) </p><div align="center"><a href="/uploads/Gabarit-presentation-SVE_communes.pdf" class="button"><b>Télécharger</b></a></div>
+</div>
+<div class="panel"> <p class="text-center"><a href="/uploads/Vademecum-EchangesAdministratrionUsager.pdf" title="Télécharger le Vademecum sur les échanges entre l’administration et l’usager (pdf, 190 ko)"><img src="/uploads/couv-TNT-Vademecum-EchangesAdministratrionUsager.pdf.png" style="border:solid 1px #dedede;" alt="Télécharger le Vademecum sur les échanges entre l’administration et l’usager (pdf, 1,2 Mo)" width="100"></a></p><p> <b>Vademecum sur les échanges entre l’administration et l’usager</b><br>(pdf, 1,2 Mo) </p><div align="center"><a href="/uploads/Vademecum-EchangesAdministratrionUsager.pdf" class="button"><b>Télécharger</b></a></div>
+</div>
+</div>
+<br>
+<h3 id="livrables-donnée"><b>Enjeux de la donnée</b></h3>
+<h4>Atelier Données & Territoires</h4>
+<p>Produit dans le cadre du groupe projet 6, l’Atelier Données & Territoires est un espace collaboratif de référencement, de sélection et de diffusion de ressources liées aux enjeux de la donnée. Il a pour ambition de faciliter la réflexion, l’appropriation et le passage à l’action des décideurs et agents des collectivités territoriales, afin de produire, partager et valoriser au mieux les données territoriales au service des politiques publiques et de l’intérêt général.</p> 
+<p>L’Atelier, décomposé en plusieurs espaces, propose une cartographie des 9 principaux enjeux politiques et stratégiques de la donnée et un catalogue collaboratif de ressources diverses (guides, rapports, vidéos, outils, guichets de financement, etc.), qui peuvent être consultées, téléchargées et réutilisées.</p>
+<p>Chaque utilisateur de l’Atelier est également invité à contribuer au catalogue de ressources grâce à des formulaires de contribution permettant d’ajouter de nouveaux contenus identifiés ou produits.</p>
+<p>Plus qu’un simple référencement de ressources, l’Atelier Données & Territoires a aussi  été conçu pour être un appui à la transformation numérique des territoires, notamment les plus petits. Nous souhaitons que les contenus mis à disposition puissent être réutilisés, par exemple pour créer des parcours de formation, des contenus inédits ou faire l’objet d’une sensibilisation en interne.</p>
+
+<div align="left"><a href="https://programme-tnt.gitbook.io/donnees-territoires/" class="button" title="Accéder à l’Atelier Données & Territoires - Lien externe"><b>Accéder à l’Atelier Données & Territoires</b></a></div>
+
 
 
 <!--
