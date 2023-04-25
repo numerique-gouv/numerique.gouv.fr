@@ -3,45 +3,46 @@ title: La DINUM
 date: 2019-10-25 17:35:00 +02:00
 permalink: "/dinum/"
 position: 5
-sous-titre: Avec le numérique, nous créons le service public de demain
-chapeau-text: 'La direction interministérielle du numérique (DINUM) est en charge
-  de la transformation numérique de l’État au bénéfice du citoyen comme de l''agent,
-  sous tous ses aspects : modernisation du système d''information de l''État, qualité
-  des services publics numériques, création de services innovants pour les citoyens,
-  outils numériques de travail collaboratif pour les agents…'
+sous-titre: Le numérique au service de l'efficacité de l'action publique
+chapeau-text: 'Service de la Première ministre, placé sous l’autorité du ministre
+  de la Transformation et de la Fonction publiques, la direction interministérielle
+  du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État
+  et de piloter sa mise en œuvre. Notre objectif : un État plus efficace, plus simple
+  et plus souverain grâce au numérique. '
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 3 octobre 2022
+date_de_modification: 25 avril 2023
 layout: dinsic
 ---
 
-La direction interministérielle du numérique (DINUM) **accompagne les ministères dans leur transformation numérique, conseille le gouvernement** et **développe des services et ressources partagées** comme le réseau interministériel de l’État, [FranceConnect](https://franceconnect.gouv.fr), [data.gouv.fr](https://www.data.gouv.fr) ou [api.gouv.fr](https://api.gouv.fr).
+<h1 class="h2">Notre ambition</h1>
+La direction interministérielle du numérique a pour mission d’accompagner et de faire réussir les projets numériques de l’État, au service des priorités gouvernementales et dans un souci d’une amélioration de l’efficacité de l’action publique tirant le meilleur parti des opportunités du numérique.
 
-La DINUM est un service de la Première ministre, placé sous l’autorité du **ministre de la Transformation et de la Fonction publiques**.
+<ul><li><a href="/publications/feuille-de-route-dinum/"> À lire : Feuille de route de la DINUM - Une stratégie numérique au service de l'efficacité de l’action publique</a></li></ul>
 
-Créée par [le décret du 25 octobre 2019](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000039281619 "Le décret du 25 octobre 2019 - Lien externe"), elle a pris la suite de la direction interministérielle du numérique et du système d'information et de communication de l’État (DINSIC).
+Les missions de la DINUM sont fixées par décret ([décret du 25 octobre 2019](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047478124), modifié par le [décret du 22 avril 2023](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047478124).) 
 <br>
 <br>
 <br>
 
-## **Organisation**
+<h1 class="h2">Notre organisation</h1>
 
-La DINUM comprend une direction de programme, trois départements et un secrétariat général :
+La DINUM comprend six départements et trois missions :
 
-* **la direction de programme [TECH.GOUV](/publications/tech-gouv-strategie-et-feuille-de-route-2019-2021/)** pilote le programme interministériel de transformation numérique du service public TECH.GOUV ;
-
-* **le département « Infrastructures et services opérés » (ISO)** conçoit et opère des services d’infrastructures à valeur ajoutée mutualisés entre les administrations, dont le réseau interministériel de l’État (RIE) ;
-
-* **le département [« Etalab »](https://www.etalab.gouv.fr/ "Etalab - Lien externe")** coordonne la conception et la mise en œuvre de la stratégie de l’État dans le domaine de la donnée, dont ses composantes juridique et sociétale ;
-
-* **le département « Performance des services numériques » (PSN)** conçoit les plans d’actions interministériels en matière de mutualisation, dématérialisation, pilotage des projets et qualité des services numériques, et soutient leur mise en œuvre ;
-
-* **le secrétariat général** soutient l’activité de la direction : il assure la communication externe et interne, la gestion des ressources humaines et financières, la synthèse des missions et veille à la qualité des conditions de travail des agents.
+<ul><li>le département « Appui, contrôle et expertise&nbsp;»</li> 
+<li>le département « Incubateur de services numériques&nbsp;»</li> 
+<li>le département <a href="https://www.etalab.gouv.fr/" title="Etalab - Lien externe">«&nbsp;Etalab&nbsp;»</a> </li>
+<li>le département « Infrastructures et services opérés »</li> 
+<li>le département « Opérateur de produits interministériels »</li> 
+<li>le département « RH de la filière numérique de l’État »</li> 
+<li>la mission « Droit et international »</li> 
+<li>la mission « Budget et achat »</li> 
+<li>la mission « Communication »</li></ul>
 <br>
 <br>
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme_DINUM.PDF" class="button"><b>Consulter l'organigramme (160 Ko)</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme_DINUM.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
 
 <script>
 function myFunction(id) {
@@ -112,5 +113,5 @@ Adjoint&nbsp;: Xavier Albouy</li>
 </div>
 
 
-[> Télécharger la note d’organisation (pdf - 250 Ko)](/uploads/note_organisation_DINUM_20200301-d030a7.pdf)
+[> Télécharger la note d’organisation (pdf - 130 Ko)](/uploads/Note_organisation_DINUM.pdf)
 
