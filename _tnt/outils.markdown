@@ -20,7 +20,7 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 layout: tnt
 ---
 
-<h3 id="livrables-agenda">Agenda de la transformation numérique des collectivités territoriales (2018-2024)</h3>
+<h3 id="livrables-agenda"><b>Agenda de la transformation numérique des collectivités territoriales (2018-2024)</b></h3>
 
 Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités une visibilité sur les chantiers de transformation numérique les impactant et leur permettre ainsi de mieux en anticiper les obligations et opportunités liées. 
 
@@ -48,7 +48,7 @@ L’agenda a une visée évolutive et sera alimenté régulièrement.
 <br>
 <br>
 
-<h3 id="cybersecurite">Cybersécurité</h3>
+<h3 id="cybersecurite"><b>Cybersécurité</b></h3>
 <h4>Catalogue des ressources de sensibilisation à la cybersécurité</h4>
 
 Issu du groupe projet 5, le catalogue des ressources dédiées à la cybersécurité référence des ressources produites par des acteurs publics permettant aux élus et agents des collectivités territoriales de comprendre les menaces numériques, savoir comment y réagir et les bonnes pratiques à adopter pour assurer sa sécurité numérique.
@@ -122,7 +122,7 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 </div>
 </div>
 <br>
-<h3 id="livrables-donnée">Enjeux de la donnée</h3>
+<h3 id="livrables-donnée"><b>Enjeux de la donnée</b></h3>
 <h4>Atelier Données & Territoires</h4>
 <p>Produit dans le cadre du groupe projet 6, l’Atelier Données & Territoires est un espace collaboratif de référencement, de sélection et de diffusion de ressources liées aux enjeux de la donnée. Il a pour ambition de faciliter la réflexion, l’appropriation et le passage à l’action des décideurs et agents des collectivités territoriales, afin de produire, partager et valoriser au mieux les données territoriales au service des politiques publiques et de l’intérêt général.</p> 
 <p>L’Atelier, décomposé en plusieurs espaces, propose une cartographie des 9 principaux enjeux politiques et stratégiques de la donnée et un catalogue collaboratif de ressources diverses (guides, rapports, vidéos, outils, guichets de financement, etc.), qui peuvent être consultées, téléchargées et réutilisées.</p>
