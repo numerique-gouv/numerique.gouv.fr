@@ -64,55 +64,55 @@ function myFunction(id) {
 <button onclick="myFunction('organigramme')" id="accordion-button" class="accordion-title" aria-controls="organigramme" aria-expanded="false">Version accessible de l'organigramme</button>
 <div class="accordion-content" id="organigramme">
 <ul>
-<li><b>La direction :</b> Stéphanie Schaer.</li>
+<li><b>La direction :</b> Stéphanie Schaer</li>
 <li><b>Adjoint :</b> à nommer </li>
-<li><b>Droit et international</b></li>
-<li><b>Budget et achats</b></li>
+<li><b>Mission Droit et international</b></li>
+<li><b>Mission  Budget et achats</b></li>
 <li><b>Cabinet</b></li>
-<li><b>Communication</b></li></ul>
+<li><b>Mission Communication</b></li></ul>
 <p><b>Sont rattachés à la direction&nbsp;:</b></p>
 <ul><li><b>le département « Appui, contrôle et expertise » :</b> Chef du département : à nommer. Adjoint : à nommer</li>
   <ul>
-    <li><b>Brigade d’intervention numérique</b></li>
-    <li><b>Expertise, contrôle et maîtrise des risques</b></li>
-    <li><b>Référentiels, capitalisation et Observatoires</b></li>
-    <li><b>Proactivité</b></li>
-    <li><b>Transformation numérique des territoires</b></li>
+    <li>Brigade d’intervention numérique</b></li>
+    <li>Expertise, contrôle et maîtrise des risques</b></li>
+    <li>Référentiels, capitalisation et Observatoires</b></li>
+    <li>Proactivité</b></li>
+    <li>Transformation numérique des territoires</b></li>
   </ul>
 
 <li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : à nommer. Adjoint : à nommer</li>
   <ul>
-    <li><b>Animation beta.gouv.fr</b></li>
-    <li><b>Accélération FAST</b></li>
-    <li><b>Services incubés</b></li>
-    <li><b>Proactivité</b></li>
-    <li><b>Portefeuilles ministériels</b></li>
+    <li>Animation beta.gouv.fr</b></li>
+    <li>Accélération FAST</b></li>
+    <li>Services incubés</b></li>
+    <li>Proactivité</b></li>
+    <li>Portefeuilles ministériels</b></li>
   </ul>
 <li><b>le département « Etalab » :</b> Chef du département : Marielle Chrisment. Adjoint : à nommer</li>
   <ul>
-    <li><b>Datalab</b></li>
-    <li><b>Datanim</b></li>
+    <li>Datalab</li>
+    <li>Datanim</li>
   </ul>
 <ul><li><b>le département « Infrastructures et services opérés » (ISO) :</b> Chef du département : Guy Duplaquet. Adjoint : Louis di Benedetto. Adjoint technique : à nommer.</li>
   <ul>
-    <li><b>Hypervision</b></li>
-    <li><b>Production</b></li>
-    <li><b>RIE/SOI</b></li>
-    <li><b>SI RIE</b></li>
+    <li>Hypervision</li>
+    <li>Production</li>
+    <li>RIE/SOI</li>
+    <li>SI RIE</li>
   </ul>
 <ul><li><b>le département « Opérateur des produits interministériels » (OPI) :</b> Chef du département : à nommer. Adjoint : à nommer.</li>
   <ul>
-    <li><b>Fédération d’identité des citoyens</b></li>
-    <li><b>Relations agents et usagers</b></li>
-    <li><b>Circulation de la donnée</b></li>
-    <li><b>Réutilisation de la donnée ouverte</b></li>
-    <li><b>Incubateur de produits interministériels</b></li>
+    <li>Fédération d’identité des citoyens</li>
+    <li>Relations agents et usagers</li>
+    <li>Circulation de la donnée</li>
+    <li>Réutilisation de la donnée ouverte</li>
+    <li>Incubateur de produits interministériels</li>
   </ul>
 <ul><li><b>le département « RH de la filière numérique de l’État » (RHN) :</b> Chef du département : à nommer. Adjoint : à nommer.</li>
   <ul>
-    <li><b>RH et attractivité</b></li>
-    <li><b>Fidélisation des Parcours du numérique</b></li>
-    <li><b>Campus du numérique</b></li>
+    <li>RH et attractivité</li>
+    <li>Fidélisation des Parcours du numérique</li>
+    <li>Campus du numérique</li>
   </ul>
 </ul>
 <p>Organigramme daté du 24 avril 2023</p>
@@ -120,6 +120,5 @@ function myFunction(id) {
 </div>
 </div>
 
-
-[> Télécharger la note d’organisation (pdf - 130 Ko)](/uploads/Note_organisation_DINUM.pdf)
+<p><a href="/uploads/Note_organisation_DINUM.pdf">&gt; Télécharger la note d’organisation (pdf - 250 Ko)</a></p>
 
