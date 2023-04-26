@@ -108,6 +108,24 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 <br>
 
+<h1 class="h3"><b>Filière numérique de l'État</b></h1>
+<div class="wrapper">
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chefe-de-pole-fidelisation-et-parcours-du-numerique-hf-reference-2023-1195285/" title="Chef/fe de pôle "fidélisation et parcours du numérique" H/F - Lien externe">Chef/fe de pôle "fidélisation et parcours du numérique" H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chefe-de-pole-fidelisation-et-parcours-du-numerique-hf-reference-2023-1195285/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+<div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-pole-campus-numerique-hf-reference-2023-1195282/" title="Chef/fe de pôle "Campus numérique" H/F - Lien externe">Chef/fe de pôle "Campus numérique" H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-pole-campus-numerique-hf-reference-2023-1195282/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+</div>
+<br>
+<br>
+
 <h1 class="h3"><b>Produits numériques</b></h1>
 <div class="wrapper">
   <div class="panel">
@@ -149,7 +167,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef-de-projet-infrastructure-hf-reference-2023-1183507/" title="Chef de projet Infrastructure H/F - Lien externe">Chef de projet Infrastructure H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (télétravail possible)</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35) (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chef-de-projet-infrastructure-hf-reference-2023-1183507/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
