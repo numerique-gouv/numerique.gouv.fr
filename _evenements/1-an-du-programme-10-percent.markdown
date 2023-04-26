@@ -22,7 +22,7 @@ champs_informations:
     aux experts de la data de l''Etat '
 ---
 
-Lors de cet après-midi vous pourrez échanger lors d'ateliers et de présentations consacrés au programme 10% et aux différents projets portés. Vous allez pouvoir rencontrer les porteurs de projets de la saison 2 du programme 10% et 3 porteurs de projets de la saison 1, ainsi que Guillaume Rozier (Conseiller numérique et données publiques à la Présidence de la République).
+Lors de cet après-midi vous pourrez échanger lors d'ateliers et de présentations consacrés au programme 10% et aux différents projets portés. Vous allez pouvoir rencontrer les porteurs de projets de la saison 2 du programme 10% et 3 porteurs de projets de la saison 1, ainsi que Guillaume Rozier (conseiller numérique et données publiques à la présidence de la République).
 
 Au programme :
 * **[14h-14h30]** Présentation du programme et ouverture de l'atelier de collaboration entre datascientists de l'Etat
