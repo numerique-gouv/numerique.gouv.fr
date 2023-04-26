@@ -44,7 +44,7 @@ Tous les professionnels souhaitant placer leurs compétences au service de l’i
 * des informations sur les concours et les dispositifs pour s’y préparer,
 * toutes les réponses à vos questions sur l’apprentissage dans la fonction publique,
 * des conseils personnalisés, 
-* un zoom sur les domaines qui recrutent …
+* un zoom sur les domaines qui recrutent…
 * des ateliers pratiques et des conférences vous permettront d’en apprendre davantage sur le recrutement et les opportunités qu’offre la fonction publique.
 
 Et à la clé des entretiens à décrocher avec des employeurs des trois versants : fonction publique de l’État, fonction publique hospitalière et fonction publique territoriale.
