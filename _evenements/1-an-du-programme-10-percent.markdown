@@ -1,6 +1,7 @@
 ---
 title: 1 an du programme 10%
 date: 2023-04-26 15:15:00 +02:00
+published: false
 categories:
 - Journée d'échanges
 - Évènement
