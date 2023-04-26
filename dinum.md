@@ -121,10 +121,9 @@ function myFunction(id) {
 
 <p><a href="/uploads/Note_organisation_DINUM.pdf">&gt; Télécharger la note d’organisation (pdf - 250 Ko)</a></p>
 <br>
-<br>
 
 <div class="encadre noir" style="margin-bottom:0px">
 <h2 class="h3" style="margin-bottom: 0px">Rejoignez-nous !</h2>
   <h3 class="h4" style="margin-top: 0px">Mettez vos talents au service du numérique de l’État</h3>
-<p>Dans le cadre de sa nouvelle feuille de route, la DINUM offre de nouvelles opportunités, dans de nombreux domaines du numérique : données, datascience, design, réseau, produits numériques, conseil... </p><br>
+<p>Dans le cadre de <a href="/publications/feuille-de-route-dinum/">sa nouvelle feuille de route</a>, la DINUM offre de nouvelles opportunités, dans de nombreux domaines du numérique : données, datascience, design, réseau, produits numériques, conseil... </p><br>
 <div style="margin-bottom: 30px" align="center"><a href="/rejoignez-nous/" class="button"><b>Découvrez nos offres d'emploi</b></a></div></div>
