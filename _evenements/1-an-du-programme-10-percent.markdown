@@ -1,6 +1,9 @@
 ---
 title: 1 an du programme 10%
 date: 2023-04-26 15:15:00 +02:00
+categories:
+- Journée d'échanges
+- Évènement
 chapeau-text: À l’occasion des 1 an du programme 10%, la direction interministérielle
   du numérique et le service [Etalab](https://www.etalab.gouv.fr/) vous convie, experts
   de la data de l'Etat, le 25 mai de 14h à 18h, à un temps d’échange et de rencontre
@@ -25,5 +28,6 @@ Au programme :
 * **[14h30-15h]** Intervention de Guillaume Rozier (Élysée) et échanges avec les équipes
 * **[15h-15h30]** Goûter d'anniversaire et échanges puis séance photo.
 * **[15h30-18h]** Ateliers avec les porteurs de projets en groupe
+
 
 **Evénement réservé aux experts de la data de l'Etat** 
