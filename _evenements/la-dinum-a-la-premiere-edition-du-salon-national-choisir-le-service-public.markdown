@@ -2,7 +2,7 @@
 title: La DINUM à la première édition du salon national Choisir le service public
 date: 2023-04-19 15:33:00 +02:00
 categories:
-- Salon professionnel
+- Salon de l'emploi
 tags:
 - Évènement
 chapeau-text: 'Les employeurs de l’ensemble de la fonction publique vous donnent rendez-vous
@@ -11,7 +11,7 @@ chapeau-text: 'Les employeurs de l’ensemble de la fonction publique vous donne
   publique et rencontrer des agents publics. La DINUM participera à cette première
   édition, et y proposera plus de 40 offres d''emploi.'
 une-ou-diaporama:
-- image: "/uploads/BANDEAU-portail-header-1200x470.png"
+- image: "/uploads/Salon-CSP-Agenda.png"
 event_start_date: 2023-05-04 10:00:00 +02:00
 lieu: Station F
 adresse: 5 Parvis Alan Turing > via le 55 boulevard Vincent Auriol, 75013 Paris
