@@ -2,7 +2,7 @@
 title: La DINUM à la première édition du salon national Choisir le service public
 date: 2023-04-19 15:33:00 +02:00
 categories:
-- Salon professionnel
+- Salon de l'emploi
 tags:
 - Évènement
 chapeau-text: 'Les employeurs de l’ensemble de la fonction publique vous donnent rendez-vous
