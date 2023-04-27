@@ -11,7 +11,7 @@ chapeau-text: 'Les employeurs de l’ensemble de la fonction publique vous donne
   publique et rencontrer des agents publics. La DINUM participera à cette première
   édition, et y proposera plus de 40 offres d''emploi.'
 une-ou-diaporama:
-- image: "/uploads/Salon-CSP-Agenda.png"
+- image: "/uploads/Salon-CSP-Agenda-2.png"
 event_start_date: 2023-05-04 10:00:00 +02:00
 lieu: Station F
 adresse: 5 Parvis Alan Turing > via le 55 boulevard Vincent Auriol, 75013 Paris
