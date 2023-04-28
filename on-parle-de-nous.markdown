@@ -11,6 +11,10 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
+<titre><a href="https://www.emplois-numeriques.com/la-dinum-recrute-pour-la-transformation-numerique-de-letat/" title="La DINUM recrute pour la transformation numérique de l’Etat - Lien externe"> La DINUM recrute pour la transformation numérique de l’Etat</a></titre>
+<date>27 avril 2023</date>
+<media> Emplois numériques </media>
+
 <titre><a href="https://www.republik-it.fr/decideurs-it/gouvernance/stephanie-schaer-dinum-le-numerique-est-au-coeur-de-la-reussite-des-politiques-publiques.html" title="Stéphanie Schaer (DINUM) : « le numérique est au coeur de la réussite des politiques publiques » - Lien externe"> Stéphanie Schaer (DINUM) : « le numérique est au coeur de la réussite des politiques publiques »</a></titre>
 <date>14 avril 2023</date>
 <media> Républik IT </media>
