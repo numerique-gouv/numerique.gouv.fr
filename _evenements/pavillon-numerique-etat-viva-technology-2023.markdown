@@ -52,7 +52,7 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 <li>La dématérialisation ;</li>
 <li>La GreenTech ;</li>
 <li>L’attractivité ;</li>
-<li>La cybersécurité;</li>
+<li>La cybersécurité ;</li>
 <li>L'intelligence artificielle et la réalité virtuelle.</li></ul>
 <br>
 <li>Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec les visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique.</li></ul>
