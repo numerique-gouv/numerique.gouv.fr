@@ -30,7 +30,7 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 {: .margin-top-4 .margin-bottom-0}
 <p class="margin-bottom-2"><em>La majorité de nos postes sont basés à Paris (7<sup>e</sup>). Certains sont basés sur l'un de nos sites de Saint-Jacques-de-la-Lande (35) et Lyon (69). </em></p>
 
-<h1 class="h3"><b>Données / Datacience / Open data</b></h1>
+<h1 class="h3"><b>Données / Datascience / Open data</b></h1>
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Chef/fe du Pôle Datalab H/F - Lien externe">Chef/fe du Pôle Datalab H/F</a></b>
