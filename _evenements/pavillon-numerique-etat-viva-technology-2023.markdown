@@ -44,16 +44,16 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 <ul><li>Présentation des ministères par des agents publics.</li>
 <br>
 <li>Des Startups d’État et thématiques seront présentées sur le stand et lors de conférences. Elles porteront sur des sujets variés comme : </li>
-<ul><li>L’inclusion ;</li>
+<ul><li>La place des femmes dans la Tech ;</li>
 <li>Le design ;</li>
 <li>L’accessibilité ;</li>
 <li>La data ;</li>
-<li>La circulation des données ;</li>
+<li>Le cloud ;</li>
 <li>La dématérialisation ;</li>
-<li>L’identité numérique ;</li>
-<li>La souveraineté ;</li>
+<li>La GreenTech ;</li>
 <li>L’attractivité ;</li>
-<li>La fidélisation des professionnels de la tech.</li></ul>
+<li>La cybersécurité ;</li>
+<li>L'intelligence artificielle et la réalité virtuelle.</li></ul>
 <br>
 <li>Un espace dédié au recrutement est également prévu pour qu’agents et porteurs de projets puissent échanger avec les visiteurs, au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique.</li></ul>
 <p><i>Le programme sera prochainement complété par des conférences.</i></p>
