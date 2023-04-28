@@ -35,7 +35,7 @@ Au sein d’un stand unique, les directions du ministère de la Transformation e
 
 Tous les professionnels souhaitant placer leurs compétences au service de l’intérêt général sont invités à participer à cet événement : étudiant, personne en recherche d’emploi, salarié du privé ou agent public. La fonction publique recrute partout en France sur plus de 1000 métiers.
 
-**Des agents de la DINUM seront présents pour faire connaître sa stratégie numérique de l’État et recruter des professionnels de la tech. Plus de 40 postes sont à pourvoir à la DINUM.**
+**Des agents de la DINUM seront présents sur un stand spécialement dédié au recrutement pour faire connaître sa stratégie numérique de l’État et recruter des professionnels de la tech. Plus de 40 postes sont à pourvoir à la DINUM.**
 
 [> Pour suivre les offres d'emploi proposées à la DINUM, retrouvez aussi notre page dédiée.](/rejoignez-nous)
 
