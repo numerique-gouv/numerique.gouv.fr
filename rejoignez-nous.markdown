@@ -132,6 +132,18 @@ Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de post
 <br>
 <br>
 
+<h1 class="h3"><b>Réseau / Infrastructure</b></h1>
+<div class="wrapper">
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1211951/" title="Chargé/e d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat  H/F - Lien externe">Chargé/e d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat  H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1211951/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+</div>
+<br>
+<br>
+
 <h1 class="h3"><b>Conseil, audit et appui</b></h1>
 <div class="wrapper">
   <div class="panel">
