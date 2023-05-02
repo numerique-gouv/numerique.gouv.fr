@@ -36,7 +36,7 @@ Le guichet est ouvert aux :
 
 <p>Les projets proposés doivent viser directement l’amélioration de l'expérience utilisateur, et/ou de l’accessibilité aux personnes en situation de handicap, de :</p>
 <ul><li>démarches administratives et services en ligne proposés aux usagers référencés dans l’Observatoire ;</li>
-<li>grandes applications interministérielles internes destinées aux les agents ;</li>
+<li>grandes applications interministérielles internes destinées aux agents ;</li>
 <li>grandes applications ministérielles internes destinées aux agents rentrant dans le top 5 ministériel (dont la liste aura préalablement été communiquée à la DINUM).</li></ul>
 
 <h3>Exemples d’objectifs et leviers attendus :</h3>
