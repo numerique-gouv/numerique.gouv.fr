@@ -15,7 +15,7 @@ chapeau-text: 'À l''occasion du [lancement de la 2e saison de l''Accélérateur
   en Commun(s). '
 categorie: Evénement
 une-ou-diaporama:
-- image: "/uploads/2023_04_07_accelerateur-Initiatives-Citoyennes_article.jpg"
+- image: "/uploads/2023_05_02_accelerateur-Initiatives-Citoyennes_agenda-evt.png"
 event_start_date: 2023-05-10 14:00:00 +02:00
 lieu: Le Lieu de la transformation publique
 adresse: 77 avenue de Ségur, 75015 Paris
