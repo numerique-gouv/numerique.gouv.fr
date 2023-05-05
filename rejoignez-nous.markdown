@@ -22,10 +22,9 @@ layout: page-annexe
 **Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINUM !**
 
 <!-- Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de postes de haut niveau dans le numérique au sein des ministères.
-<br>
-<br>
 -->
-
+<br>
+<br>
 ## Nos offres d'emploi actuellement disponibles à la DINUM : 
 {: .margin-top-4 .margin-bottom-0}
 <p class="margin-bottom-2"><em>La majorité de nos postes sont basés à Paris (7<sup>e</sup>). Certains sont basés sur l'un de nos sites de Saint-Jacques-de-la-Lande (35) et Lyon (69). </em></p>
