@@ -21,10 +21,10 @@ layout: page-annexe
 
 **Vous souhaitez mettre vos compétences au service de la transformation numérique de l'État ? Rejoignez-nous au sein de la DINUM !**
 
-Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de postes de haut niveau dans le numérique au sein des ministères.
+<!-- Retrouvez aussi [en bas de cette page](#offresministeres) une sélection de postes de haut niveau dans le numérique au sein des ministères.
 <br>
 <br>
-
+-->
 
 ## Nos offres d'emploi actuellement disponibles à la DINUM : 
 {: .margin-top-4 .margin-bottom-0}
@@ -269,11 +269,11 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 <br>
 
 
-<h2 id="et-aussi-dans-dautres-administrations" style="margin-bottom: 0px">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h2>
+<!-- <h2 id="et-aussi-dans-dautres-administrations" style="margin-bottom: 0px">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h2>
 <p class="margin-bottom-1">Zoom sur quelques offres d'emploi clés dans le numérique public&nbsp;:</p> 
 <p><strong> Présidence de la République</strong></p>
 <ul><li class="margin-bottom-1"><strong><a href="https://place-emploi-public.gouv.fr/offre-emploi/responsable-du-departement-de-l-exploitation-et-de-l-administration-technique--reference-2022-1024634/" title="Responsable du département de l'exploitation et de l'administration technique - Lien externe">Responsable du département de l'exploitation et de l'administration technique, F/H</a></strong><br>Cadre/Catégorie A+</li></ul>
-
+-->
 
 <div class="noir encadre"><h4>Sur metiers.numerique.gouv.fr, <br>découvrez les offres d'emploi dans le numérique au sein de l’État</h4> <p>Rendez-vous sur notre site dédié <a href="https://metiers.numerique.gouv.fr"> metiers.numerique.gouv.fr</a> pour consulter les offres d’emploi à pourvoir dans les ministères, découvrir les employeurs, et déposer une candidature spontanée&nbsp;! </p> 
 <div style="margin-bottom: 20px; margin-top: 10px;" align="center"><a href="https://metiers.numerique.gouv.fr" class="button" alt="Accéder à metiers.numerique.gouv.fr - Lien externe"><b>Accéder à metiers.numerique.gouv.fr</b></a> </div></div>
