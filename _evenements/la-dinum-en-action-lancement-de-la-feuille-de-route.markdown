@@ -1,6 +1,7 @@
 ---
 title: 'La Dinum en action : lancement de la feuille de route'
 date: 2023-05-12 14:08:00 +02:00
+published: false
 categories:
 - Évènement
 chapeau-text: La DINUM a lancé sa feuille de route ! L’objectif est de faire du numérique
@@ -16,7 +17,7 @@ champs_informations:
 - intitule: Comment y aller ?
   contenu: 'RER B, RER C, M4, T3a, Bus21 '
 - intitule: Modalités
-  contenu: gratuit, inscription obligatoire et uniquement réservés aux agents publics
+  contenu: gratuit, inscription obligatoire et uniquement réservé aux agents publics
 - intitule: Inscription
   contenu: lien à ajouter
 ---
