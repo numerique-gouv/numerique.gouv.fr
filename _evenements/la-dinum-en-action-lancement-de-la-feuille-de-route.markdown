@@ -62,8 +62,7 @@ L’occasion pour vous de découvrir cette DINUM en action, notamment lors du fo
 <div align="center">
 <a href="lien à ajouter" class="button"><b>S'inscrire au Forum</b></a>
 <br>Jusqu’au 26 mai 2023, 18h
+<br>*Événement uniquement réservé aux agents public*
 </div>
 <br>
 <br>
-
-*Evénement uniquement réservé aux agents public*
