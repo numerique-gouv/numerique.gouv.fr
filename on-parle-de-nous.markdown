@@ -11,7 +11,7 @@ layout: page-annexe
 
 <p class="margin-bottom-3">Retrouvez ici une sélection des articles de presse parlant de nous, notre action, nos projets, nos produits. Ainsi que nos contributions à diverses publications.</p>
 
-<titre><a href="https://www.cio-online.com/actualites/lire-stephanie-schaer-directrice-interministerielle-du-numerique--etre-a-la-fois-une-tour-de-controle-et-un-animateur-de-communaute-14909.html"Stéphanie Schaer, directrice interministérielle du numérique : « être à la fois une tour de contrôle et un animateur de communauté » - Lien externe"> Stéphanie Schaer, directrice interministérielle du numérique : « être à la fois une tour de contrôle et un animateur de communauté »</a></titre>
+<titre><a href="https://www.cio-online.com/actualites/lire-stephanie-schaer-directrice-interministerielle-du-numerique--etre-a-la-fois-une-tour-de-controle-et-un-animateur-de-communaute-14909.html" title="Stéphanie Schaer, directrice interministérielle du numérique : « être à la fois une tour de contrôle et un animateur de communauté » - Lien externe"> Stéphanie Schaer, directrice interministérielle du numérique : « être à la fois une tour de contrôle et un animateur de communauté »</a></titre>
 <date>03 Mai 2023</date>
 <media> CIO </media>
 
