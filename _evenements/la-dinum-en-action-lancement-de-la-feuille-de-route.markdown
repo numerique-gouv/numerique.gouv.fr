@@ -30,16 +30,20 @@ L’occasion pour vous de découvrir cette DINUM en action, notamment lors du fo
 * **14h00 – 15h00 : Accueil café** (galerie de l'espace Adenauer)
 * **15h00 – 17h00 : Plénière** (espace Adenauer)
   <br>En présence de Stanislas Guerini et de Stéphanie Schaer.
+<br>
 <br>**1. Engager une mutation profonde des organisations publiques pour initier et conduire dans la durée les projets numériques de l’État**
-  <br>*Invité *: Franck DENIE (CIO de la DSI de Pôle Emploi)
-  <br>*Capsule vidéo* : Eric Barthelemy (Intrapreneur Startup d'Etat - La Plateforme de l'inclusion) et Amine Fendri (Chef de bureau adjoint, Directeur technique du SI permis de conduire - Ministère de l'Intérieur)
+  <br>***Invité*:** Franck DENIE (CIO de la DSI de Pôle Emploi)
+  <br>**Capsules vidéos :** Eric Barthelemy (Intrapreneur Startup d'Etat - La Plateforme de l'inclusion) et Amine Fendri (Chef de bureau adjoint, Directeur technique du SI permis de conduire - Ministère de l'Intérieur)
+<br>
 <br>**2. Renforcer significativement les compétences numériques au sein de l’État**
-  <br>*Invité *: Benjamin Marteau (Directeur de PIX)
+  <br>***Invité*:** Benjamin Marteau (Directeur de PIX)
+<br>
 <br>**3. Développer l’exploitation effective des données pour un État plus efficace dans son action et plus simple vis-à-vis des citoyens, des entreprises et des agents publics**
-  <br>*Invités *: Guillaume Rozier (conseiller numérique de la Présidence de la République)
+  <br>***Invités*:** Guillaume Rozier (conseiller numérique de la Présidence de la République)
+<br>
 <br>**4. Préserver la souveraineté numérique de l’État en investissant dans des outils numériques mutualisés**
-  <br>*Intervenant *: Florian Delezenne (Responsable de l'incubateur de services publics numériques - DINUM)
-  <br>*Invité *: Audran Lebaron (Directeur du numérique pour l'éducation)
+  <br>***Intervenant*:** Florian Delezenne (Responsable de l'incubateur de services publics numériques - DINUM)
+  <br>***Invité*:** Audran Lebaron (Directeur du numérique pour l'éducation)
 * **17h00 – 19h00 : Forum** (salon Honnorat) – Voici les stands qui seront présents :
   <br>« Appui, conseil et expertise »
   <br>« Incubateur de services numériques »
@@ -50,6 +54,8 @@ L’occasion pour vous de découvrir cette DINUM en action, notamment lors du fo
 * **18h00 : Apéritif** (salon Honnorat)
 * **19h00 : Cocktail dinatoire** (salon Honnorat)
 * **21h30 : Fin**
+<br>
+<br>
 
 <div align="center">
 <a href="lien à ajouter" class="button"><b>S'inscrire au Forum</b></a>
