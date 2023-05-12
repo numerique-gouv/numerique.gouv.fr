@@ -27,33 +27,28 @@ L’occasion pour vous de découvrir cette DINUM en action, notamment lors du fo
 
 ### Programme
 * **14h00 : Arrivée des participants**
-* **14h00 – 15h00 : Accueil café**
-  <br>(galerie de l'espace Adenauer)
-* **15h00 – 17h00 : Plénière**
+* **14h00 – 15h00 : Accueil café** (galerie de l'espace Adenauer)
+* **15h00 – 17h00 : Plénière** (espace Adenauer)
   <br>En présence de Stanislas Guerini et de Stéphanie Schaer.
-  <br>(espace Adenauer)
-**1. Engager une mutation profonde des organisations publiques pour initier et conduire dans la durée les projets numériques de l’État**
-  <br>Invité : Franck DENIE (CIO de la DSI de Pôle Emploi)
-  <br>Capsule vidéo : Eric Barthelemy (Intrapreneur Startup d'Etat - La Plateforme de l'inclusion) et Amine Fendri (Chef de bureau adjoint, Directeur technique du SI permis de conduire - Ministère de l'Intérieur)
-**2. Renforcer significativement les compétences numériques au sein de l’État**
-  <br>Invité : Benjamin Marteau (Directeur de PIX)
-**3. Développer l’exploitation effective des données pour un État plus efficace dans son action et plus simple vis-à-vis des citoyens, des entreprises et des agents publics**
-  <br>Invités : Guillaume Rozier (conseiller numérique de la Présidence de la République)
-**4. Préserver la souveraineté numérique de l’État en investissant dans des outils numériques mutualisés**
-  <br>Intervenant : Florian Delezenne (Responsable de l'incubateur de services publics numériques - DINUM)
-  <br>Invité : Audran Lebaron (Directeur du numérique pour l'éducation)
-* **17h00 – 19h00 : Forum** – Voici les stands qui seront présents
-  <br>(salon Honnorat)
+<br>**1. Engager une mutation profonde des organisations publiques pour initier et conduire dans la durée les projets numériques de l’État**
+  <br>*Invité *: Franck DENIE (CIO de la DSI de Pôle Emploi)
+  <br>*Capsule vidéo* : Eric Barthelemy (Intrapreneur Startup d'Etat - La Plateforme de l'inclusion) et Amine Fendri (Chef de bureau adjoint, Directeur technique du SI permis de conduire - Ministère de l'Intérieur)
+<br>**2. Renforcer significativement les compétences numériques au sein de l’État**
+  <br>*Invité *: Benjamin Marteau (Directeur de PIX)
+<br>**3. Développer l’exploitation effective des données pour un État plus efficace dans son action et plus simple vis-à-vis des citoyens, des entreprises et des agents publics**
+  <br>*Invités *: Guillaume Rozier (conseiller numérique de la Présidence de la République)
+<br>**4. Préserver la souveraineté numérique de l’État en investissant dans des outils numériques mutualisés**
+  <br>*Intervenant *: Florian Delezenne (Responsable de l'incubateur de services publics numériques - DINUM)
+  <br>*Invité *: Audran Lebaron (Directeur du numérique pour l'éducation)
+* **17h00 – 19h00 : Forum** (salon Honnorat) – Voici les stands qui seront présents :
   <br>« Appui, conseil et expertise »
   <br>« Incubateur de services numériques »
   <br>« Etalab »
   <br>« Infrastructures et services opérés »
   <br>« Opérateur de produits interministériels »
   <br>« RH de la filière numérique de l’État »
-* **18h00 : Apéritif**
-  <br>(salon Honnorat)
-* **19h00 : Cocktail dinatoire**
-  <br>(salon Honnorat)
+* **18h00 : Apéritif** (salon Honnorat)
+* **19h00 : Cocktail dinatoire** (salon Honnorat)
 * **21h30 : Fin**
 
 <div align="center">
