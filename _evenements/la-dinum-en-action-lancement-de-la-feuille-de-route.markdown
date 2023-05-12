@@ -45,6 +45,7 @@ L’occasion pour vous de découvrir cette DINUM en action, notamment lors du fo
   <br>***Intervenant* :** Florian Delezenne (Responsable de l'incubateur de services publics numériques - DINUM)
   <br>***Invité* :** Audran Lebaron (Directeur du numérique pour l'éducation)
   <br>
+  <br>
 * **17h00 – 19h00 : Forum** (salon Honnorat) – Voici les stands qui seront présents :
   <br>« Appui, conseil et expertise »
   <br>« Incubateur de services numériques »
@@ -52,6 +53,7 @@ L’occasion pour vous de découvrir cette DINUM en action, notamment lors du fo
   <br>« Infrastructures et services opérés »
   <br>« Opérateur de produits interministériels »
   <br>« RH de la filière numérique de l’État »
+  <br>
   <br>
 * **18h00 : Apéritif** (salon Honnorat)
 * **19h00 : Cocktail dinatoire** (salon Honnorat)
