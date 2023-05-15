@@ -1,6 +1,13 @@
 ---
 title: 'Anniversaire du programme 10% : un an déjà !'
 date: 2023-05-15 14:09:00 +02:00
+categories:
+- Évènement
+tags:
+- Data
+- IA
+- innovation publique
+- transformation numérique
 chapeau-text: Le programme 10%, porté par Etalab (département de la DINUM qui coordonne
   la conception et la mise en œuvre de la stratégie de l’Etat dans la donnée) en lien
   étroit avec l’INSEE, est une collaboration inédite entre experts de la data de l’État.
