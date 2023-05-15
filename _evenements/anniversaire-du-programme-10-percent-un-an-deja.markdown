@@ -33,19 +33,19 @@ Lors de cet après-midi, venez découvrir un programme inédit de collaboration 
 
 ### Au programme :
 
-[14h00] Ouverture par Stéphanie Schaer, directrice interministérielle du numérique (Dinum) et Pascal Rivière, chef de l'inspection générale de l'Insee. 
+**[14h00]** Ouverture par **Stéphanie Schaer**, directrice interministérielle du numérique (Dinum) et Pascal Rivière, chef de l'inspection générale de l'Insee. 
 
-[14h10] Le programme 10% raconté par les participants. 
+**[14h10] Le programme 10% raconté par les participants.** 
 
-[14h20] Le fast and curious du programme 10%. La communauté 10% répond à des questions autour de la data et l'IA (ou pas !) : deux possibilités, une réponse !
+**[14h20] Le fast and curious du programme 10%.** La communauté 10% répond à des questions autour de la data et l'IA (ou pas !) : deux possibilités, une réponse !
 
-[14h30] Pitchs de trois projets 10% par les équipes :
-* Transformers (Saison 2) : une IA open-source pour l’analyse de texte par les administrations.
-* Datanonyme (Saison 2) : un outil pour aider les administrations à anonymiser leurs données.
-* FormIAble (Saison 1) : un outil pour aider les administrations à extraire des informations de documents difficilement exploitables. 
+**[14h30] Pitchs de trois projets 10%** par les équipes :
+* **Transformers** (Saison 2) : une IA open-source pour l’analyse de texte par les administrations.
+* **Datanonyme** (Saison 2) : un outil pour aider les administrations à anonymiser leurs données.
+* **FormIAble** (Saison 1) : un outil pour aider les administrations à extraire des informations de documents difficilement exploitables. 
 
-[14h45] Témoignage inspirant de Guillaume Rozier, conseiller du Président de la République sur les sujets de la stratégie numérique et des données publiques. Data engineer de formation, Guillaume Rozier vient échanger avec la communauté 10% sur son parcours, ses projets, sa vision pour la sphère data de l’État. L’échange sera suivi de questions/réponses.  
+**[14h45] Témoignage inspirant de Guillaume Rozier, conseiller du Président de la République sur les sujets de la stratégie numérique et des données publiques.** Data engineer de formation, Guillaume Rozier vient échanger avec la communauté 10% sur son parcours, ses projets, sa vision pour la sphère data de l’État. L’échange sera suivi de questions/réponses.  
 
 [15h30] Moment festif, fêtons ensemble les un an du programme 10% !
 
-Evénement exclusivement réservé aux experts de la data (data scientists, data engineers, data analysts ...) en poste au sein de l’État.
+***Evénement exclusivement réservé aux experts de la data (data scientists, data engineers, data analysts ...) en poste au sein de l’État.***
