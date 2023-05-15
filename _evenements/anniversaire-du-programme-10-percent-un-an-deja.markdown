@@ -46,6 +46,6 @@ Lors de cet après-midi, venez découvrir un programme inédit de collaboration 
 
 **[14h45] Témoignage inspirant de Guillaume Rozier, conseiller du Président de la République sur les sujets de la stratégie numérique et des données publiques.** Data engineer de formation, Guillaume Rozier vient échanger avec la communauté 10% sur son parcours, ses projets, sa vision pour la sphère data de l’État. L’échange sera suivi de questions/réponses.  
 
-[15h30] Moment festif, fêtons ensemble les un an du programme 10% !
+**[15h30] Moment festif**, fêtons ensemble les un an du programme 10% !
 
 ***Evénement exclusivement réservé aux experts de la data (data scientists, data engineers, data analysts ...) en poste au sein de l’État.***
