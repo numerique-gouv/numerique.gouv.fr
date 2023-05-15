@@ -15,7 +15,7 @@ chapeau-text: Le programme 10%, porté par Etalab (département de la DINUM qui 
   des projets d'intérêt commun, tout en bénéficiant d’une montée en compétence et
   d’échanges de pratiques entre pairs.
 une-ou-diaporama:
-- image: "/uploads/https%20__cdn.evbuc.com_images_513500819_91338749761_1_original.jpg"
+- image: "/uploads/1%20an%2010%20percent.png"
 event_start_date: 2023-05-25 14:00:00 +02:00
 lieu: Lieu de la transformation publique
 adresse: 77, avenue de Ségur, Paris 15e
