@@ -36,7 +36,7 @@ Vous êtes un/e expert/e de la data en poste au sein de l’État (data scientis
 
 Pour cet événement spécial, **Guillaume Rozier** conseiller numérique du Président de la République et data engineer de formation, sera notre invité d’honneur.
 
-Lors de cet après-midi, venez découvrir un programme inédit de collaboration entre les experts de l’État sur des projets IA et data d’intérêt commun.
+Lors de cet après-midi, **venez découvrir un programme inédit de collaboration entre les experts de l’État sur des projets IA et data d’intérêt commun.**
 
 ### Au programme :
 
