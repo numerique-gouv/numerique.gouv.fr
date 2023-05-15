@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 12 mai 2023
+date_de_modification: 15 mai 2023
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -67,12 +67,6 @@ layout: page-annexe
 
 <h1 class="h3"><b>Design</b></h1>
 <div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-de-recherche-utilisateur-hf-reference-2023-1196613/" title="Responsable de recherche utilisateur H/F - Lien externe">Responsable de recherche utilisateur H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-de-recherche-utilisateur-hf-reference-2023-1196613/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
 <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pilote-de-l-observatoire-de-la-qualite-des-services-numeriques-hf-reference-2023-1201319/" title="Pilote de l'observatoire de la qualité des services numériques H/F - Lien externe">Pilote de l'observatoire de la qualité des services numériques H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
