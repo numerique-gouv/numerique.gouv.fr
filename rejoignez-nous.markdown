@@ -37,19 +37,19 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
-<div class="panel">
+  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201291/" title="Ingénieur data H/F - Lien externe">Ingénieur data H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201291/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
- <div class="panel">
+  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Analyste de données H/F - Lien externe">Analyste de données H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1202957/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
- <div class="panel">
+  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Coordonnateur animation data H/F - Lien externe">Coordonnateur animation data H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -67,7 +67,7 @@ layout: page-annexe
 
 <h1 class="h3"><b>Design</b></h1>
 <div class="wrapper">
-<div class="panel">
+  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pilote-de-l-observatoire-de-la-qualite-des-services-numeriques-hf-reference-2023-1201319/" title="Pilote de l'observatoire de la qualité des services numériques H/F - Lien externe">Pilote de l'observatoire de la qualité des services numériques H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -97,13 +97,13 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-relations-institutionnelles-hf-reference-2023-1208960/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
-<div class="panel">
+  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/lead-devops-betagouvfr-hf-reference-2023-1208962/" title="Lead Devops Beta.gouv.fr H/F - Lien externe">Lead Devops Beta.gouv.fr H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/lead-devops-betagouvfr-hf-reference-2023-1208962/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
-<div class="panel">
+  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/experte-acceleration-de-services-numeriques-publics-hf-reference-2023-1208973/" title="Expert/e Accélération de Services Numériques publics H/F - Lien externe">Expert/e Accélération de Services Numériques publics H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
