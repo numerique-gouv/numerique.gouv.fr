@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 12 mai 2023
+date_de_modification: 15 mai 2023
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -38,30 +38,18 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201312/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/" title="Chef/fe du pôle Datanim H/F - Lien externe">Chef/fe du pôle Datanim H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196631/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Data scientist H/F - Lien externe">Data scientist H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-<div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201291/" title="Ingénieur data H/F - Lien externe">Ingénieur data H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201291/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
- <div class="panel">
+  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Analyste de données H/F - Lien externe">Analyste de données H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1202957/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
- <div class="panel">
+  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1196743/" title="Coordonnateur animation data H/F - Lien externe">Coordonnateur animation data H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -80,12 +68,6 @@ layout: page-annexe
 <h1 class="h3"><b>Design</b></h1>
 <div class="wrapper">
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-de-recherche-utilisateur-hf-reference-2023-1196613/" title="Responsable de recherche utilisateur H/F - Lien externe">Responsable de recherche utilisateur H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-de-recherche-utilisateur-hf-reference-2023-1196613/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-<div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/pilote-de-l-observatoire-de-la-qualite-des-services-numeriques-hf-reference-2023-1201319/" title="Pilote de l'observatoire de la qualité des services numériques H/F - Lien externe">Pilote de l'observatoire de la qualité des services numériques H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -115,13 +97,13 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-relations-institutionnelles-hf-reference-2023-1208960/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
-<div class="panel">
+  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/lead-devops-betagouvfr-hf-reference-2023-1208962/" title="Lead Devops Beta.gouv.fr H/F - Lien externe">Lead Devops Beta.gouv.fr H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/lead-devops-betagouvfr-hf-reference-2023-1208962/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
-<div class="panel">
+  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/experte-acceleration-de-services-numeriques-publics-hf-reference-2023-1208973/" title="Expert/e Accélération de Services Numériques publics H/F - Lien externe">Expert/e Accélération de Services Numériques publics H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -145,12 +127,6 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-operations-hf-reference-2023-1201286/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneure-federation-d-identite-des-citoyens---cheffe-de-pole-hf-reference-2023-1196729/" title="Intrapreneur/e Fédération d'identité des citoyens - chef/fe de pôle H/F - Lien externe">Intrapreneur/e Fédération d'identité des citoyens - chef/fe de pôle H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneure-federation-d-identite-des-citoyens---cheffe-de-pole-hf-reference-2023-1196729/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-dude-la-cheffe-de-departement-et-responsable-de-l-incubation-de-l-operateur-de-produit-hf-reference-2023-1210901/" title="Adjoint/e du/de la chef/fe de département et responsable de l'incubation de l'opérateur de produit H/F - Lien externe">Adjoint/e du/de la chef/fe de département et responsable de l'incubation de l'opérateur de produit H/F</a></b>
@@ -182,18 +158,6 @@ layout: page-annexe
 
 <h1 class="h3"><b>Conseil, audit et appui</b></h1>
 <div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1196544/" title="Mentor de directeur de projet SI H/F (10 postes) - Lien externe">Mentor de directeur de projet SI H/F (10 postes)</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1196544/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjoint-au-responsable-de-pole--responsable-des-operations-hf-reference-2023-1196579/" title="Adjoint/e au responsable de pôle / responsable des opérations H/F - Lien externe">Adjoint/e au responsable de pôle / responsable des opérations H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjoint-au-responsable-de-pole--responsable-des-operations-hf-reference-2023-1196579/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeur-senior-et-expert-accessibilite-hf-reference-2023-1208991/" title="Développeur sénior et expert accessibilité H/F - Lien externe">Développeur sénior et expert accessibilité H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
