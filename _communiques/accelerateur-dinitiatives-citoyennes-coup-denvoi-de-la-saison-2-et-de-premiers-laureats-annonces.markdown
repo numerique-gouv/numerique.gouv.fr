@@ -2,6 +2,11 @@
 title: 'Accélérateur d’initiatives citoyennes : coup d’envoi de la saison 2 et de
   premiers lauréats annoncés'
 date: 2023-05-16 10:18:00 +02:00
+categories:
+- Communiqué de presse
+tags:
+- Accélérateur d'initiatives citoyennes
+- Etalab
 chapeau-text: Promouvoir et renforcer les coopérations entre l’État et les initiatives
   citoyennes, en soutenant des projets au service de l’intérêt général, c’est la promesse
   du programme Accélérateur d’initiatives citoyennes (AIC). Sous l’égide du ministère
@@ -9,6 +14,11 @@ chapeau-text: Promouvoir et renforcer les coopérations entre l’État et les i
   du numérique (DINUM) lance, en partenariat avec la direction interministérielle
   de la transformation publique (DITP), le coup d’envoi de la saison 2 concentrée,
   cette année, sur les communs, et de premiers projets lauréats.
+une-ou-diaporama:
+- image: "/uploads/2023_04_07_accelerateur-Initiatives-Citoyennes_article.jpg"
+files:
+- file: "/uploads/CP_ACCELERATEUR_INITIATIVES_CITOYENNES_SAISON_2_LAUREATS.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Fort de l’expérience de la saison 1 ayant permis [d’accompagner 9 projets en 2022](https://citoyens.transformation.gouv.fr/laureats/), le programme AIC se pérennise et concentre son soutien sur les projets de gestion et de préservation des « ressources d’intérêt commun ». Concrètement, les porteurs de projets lauréats bénéficieront d’un accompagnement méthodologique, technique, administratif et financier  pour une durée d’un an afin qu’ils puissent consolider leur modèle et franchir des étapes critiques pour leur développement. 
