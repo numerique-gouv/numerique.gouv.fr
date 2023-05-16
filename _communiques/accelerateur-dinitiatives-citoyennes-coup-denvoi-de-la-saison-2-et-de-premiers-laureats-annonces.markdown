@@ -43,4 +43,4 @@ Avec le programme Accélérateur d’initiatives citoyennes intégré au sein de
 <br>
 <p>Le programme AIC a été lancé en 2021 par le Président Emmanuel Macron lors du 7ème sommet mondial du Partenariat pour un Gouvernement Ouvert (PGO). Porté par la DINUM au sein de l’incubateur de services numériques de la DINUM ou beta.gouv.fr, en partenariat avec la DITP, l’objectif est de promouvoir et renforcer les coopérations entre l’État et la société civile, en soutenant des projets au service de l’intérêt général. 
 
-Pour en savoir plus : <a href="https://citoyens.transformation.gouv.fr/"> citoyens.transformation.gouv.fr</a></p>
+<br>Pour en savoir plus : <a href="https://citoyens.transformation.gouv.fr/"> citoyens.transformation.gouv.fr</a></p>
