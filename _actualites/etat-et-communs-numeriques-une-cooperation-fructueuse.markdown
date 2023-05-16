@@ -10,7 +10,7 @@ tags:
 - Open source
 chapeau-text: 'Vers un État partenaire des communs numériques : c’est sur ce thème
   que la DINUM réunissait représentants de la société civile et agents publics, mardi
-  10 mai 2023, pour une après-midi de débats et de présentations autour de l’Accélérateur
+  10 mai 2023, pour un après-midi de débats et de présentations autour de l’Accélérateur
   d’initiatives citoyennes. Retour.'
 une-ou-diaporama:
 - image: "/uploads/evt-aic-communs-numeriques-Une.jpg"
