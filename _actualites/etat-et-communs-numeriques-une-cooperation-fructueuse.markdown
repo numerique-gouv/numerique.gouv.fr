@@ -18,7 +18,7 @@ une-ou-diaporama:
 
 Mardi 10 mai, nous réunissions une centaine de représentants de la société civile et d'agents publics pour réfléchir ensemble aux coopérations entre État et communs numériques à l’occasion d’une table ronde, avec l'IGN, le ministère de l’Éducation nationale et de la Jeunesse et la direction interministérielle de la transformation publique (DITP), en partenariat avec le Conseil national du numérique et la Société des communs.
 
-<figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
+<figure class="image-left" style="width: 50%; margin-right: 1em;"> 
 <img src="/uploads/evt-aic-communs-numeriques-grozier.jpg" alt="Guillaume Rozier lors de son intervention">
 </figure>
 En ouverture, Guillaume Rozier, fondateur de CovidTracker et ViteMaDose, parfaites illustrations de la problématique, et actuel conseiller numérique et données publiques à l’Élysée, a défendu l’idée que l’État doit opérer le service public mais ne doit pas tout faire seul. Il faut accepter que les citoyens, les associations, les entreprises contribuent à l’action publique, au bénéfice de tous, et s’attacher à rendre cette collaboration fluide.
@@ -38,12 +38,15 @@ Après une première saison réussie en 2022, l’Accélérateur accompagne de n
 Certains l’ont déjà bien compris et se saisissent du potentiel des communs numériques, au service de leur politique publique, à l’image de la direction du numérique pour l'éducation qui place les communs numériques au cœur de sa stratégie. Son directeur Audran Lebaron compte passer à l’échelle plusieurs communs numériques qui ont fait la preuve de leur impact, comme [M@gistère](https://magistere.education.fr/ "M@gistère - lien externe"), une plateforme de formation continue pour les professeurs, elle-même basée sur la plateforme d’apprentissage en ligne libre [Moodle](https://moodle.org/?lang=fr "Moodle - lien externe"). Fondés sur des logiciels libres, ces communs sont mis à la disposition du plus grand nombre pour qu’ils puissent se les approprier, les reprendre, adapter…
 
 ## Contribuer aux communs numériques permet de reprendre le contrôle
-La cybersécurité s’empare elle aussi des communs numériques. « Plus on se numérise, plus on crée des liens de dépendance, explique Yann Bonnet, directeur général délégué du Campus Cyber. Face aux risques cyber, il est important de regagner en maîtrise. » Pour lui, contribuer aux communs numériques permet justement à l’État de reprendre le contrôle, de gagner en résilience et de les adapter à ses besoins. 
+
+<figure class="image-right" style="width: 50%; margin-left: 1em;"> 
+<img src="/uploads/evt-aic-communs-numeriques-table-ronde.jpg" alt="Audran Lebaron, Valérie Peugeot, Pauline Lavagne d'Ortigue"><figcaption>De gauche à droite : Audran Lebaron, Valérie Peugeot, Pauline Lavagne d'Ortigue</figcaption>
+</figure>La cybersécurité s’empare elle aussi des communs numériques. « Plus on se numérise, plus on crée des liens de dépendance, explique Yann Bonnet, directeur général délégué du Campus Cyber. Face aux risques cyber, il est important de regagner en maîtrise. » Pour lui, contribuer aux communs numériques permet justement à l’État de reprendre le contrôle, de gagner en résilience et de les adapter à ses besoins. 
 
 Selon Sébastien Soriano, directeur général de l’IGN, le secteur de la donnée publique, qui foisonne d’initiatives intéressantes, gagnerait aussi à s’inspirer des modes de travail des communs numériques pour faire alliance en son sein et avec le monde extérieur, et ainsi mieux « marcher ensemble » pour passer à l’échelle.
 
 Gagner en intelligence collective pour mieux innover et servir les Français
-La coconstruction de l’action publique avec la société civile est aussi à l’œuvre dans le cadre de la participation française au partenariat pour un Gouvernement ouvert (PGO), pilotée par la direction interministérielle de la transformation publique (DITP), comme l’a rappelé Pauline Lavagne d'Ortigue.
+La coconstruction de l’action publique avec la société civile est aussi à l’œuvre dans le cadre de la participation française au partenariat pour un Gouvernement ouvert (PGO), pilotée par la DITP, comme l’a rappelé Pauline Lavagne d'Ortigue.
 
  « Pour innover ensemble et reprendre la maîtrise de certains sujets, on doit réfléchir à de nouveaux modes de production, repenser et redistribuer certains pouvoirs », confirme Yann Bonnet.
 
