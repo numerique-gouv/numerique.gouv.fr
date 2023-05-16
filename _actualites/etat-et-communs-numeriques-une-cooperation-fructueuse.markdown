@@ -26,7 +26,7 @@ En ouverture, Guillaume Rozier, fondateur de CovidTracker et ViteMaDose, parfait
 
 ## Une relation État-communs numériques fructueuse dans les deux sens
 
-« Les communs numériques ne s’opposent ni à l’État ni au marché. Ils agissent en complémentarité et ouvrent une brèche entre ces deux pôles, dans une logique de coopération », a appuyé Valérie Peugeot, chercheuse, membre du collège des commissaires de la CNIL et signataire du collectif Société des communs. La relation entre communs et État se révèle fructueuse dans les deux sens : les communs aident l’État à se transformer, par exemple à sortir d’un fonctionnement en silo, et à réinventer l’intérêt général. Et de l’autre côté, l’État peut leur apporter son soutien.
+« Les communs numériques ne s’opposent ni à l’État ni au marché. Ils agissent en complémentarité et ouvrent une brèche entre ces deux pôles, dans une logique de coopération », a appuyé Valérie Peugeot, chercheuse et membre du collège des commissaires de la CNIL. La relation entre communs et État se révèle fructueuse dans les deux sens : les communs aident l’État à se transformer, par exemple à sortir d’un fonctionnement en silo, et à réinventer l’intérêt général. Et de l’autre côté, l’État peut leur apporter son soutien.
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Accélérateur d’initiatives citoyennes : un laboratoire des coopérations État-communs ! </h3>
 <p>Soutenir des projets émanant de la société civile, au service de l’intérêt général : c’est précisément ce que fait le programme <a href="https://citoyens.transformation.gouv.fr/" title="Accélérateur d’initiatives citoyennes - lien externe">Accélérateur d’initiatives citoyennes</a>, piloté par la DINUM en partenariat avec la DITP. 
