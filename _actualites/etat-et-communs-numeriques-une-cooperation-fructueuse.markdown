@@ -13,7 +13,7 @@ chapeau-text: 'Vers un État partenaire des communs numériques : c’est sur ce
   10 mai 2023, pour une après-midi de débats et de présentations autour de l’Accélérateur
   d’initiatives citoyennes. Retour.'
 une-ou-diaporama:
-- image: "/uploads/evt-aic-communs-numeriques-Une.png"
+- image: "/uploads/evt-aic-communs-numeriques-Une.jpg"
 ---
 
 Mardi 10 mai, nous réunissions une centaine de représentants de la société civile et d'agents publics pour réfléchir ensemble aux coopérations entre État et communs numériques à l’occasion d’une table ronde, avec l'IGN, le ministère de l’Éducation nationale et de la Jeunesse et la direction interministérielle de la transformation publique (DITP), en partenariat avec le Conseil national du numérique et la Société des communs.
