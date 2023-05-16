@@ -5,13 +5,16 @@ categories:
 - Article
 tags:
 - Accélérateur d'initiatives citoyennes
+- Communs numériques
+- Logiciels libres
+- Open source
 chapeau-text: 'Vers un État partenaire des communs numériques : c’est sur ce thème
   que la DINUM réunissait représentants de la société civile et agents publics, mardi
   10 mai 2023, pour une après-midi de débats et de présentations autour de l’Accélérateur
   d’initiatives citoyennes. Retour.'
 ---
 
-Mardi 10 mai, nous réunissions une centaine de représentants de la société civile et agents publics pour réfléchir ensemble aux coopérations entre État et communs numériques à l’occasion d’une table ronde, avec l'IGN, le Ministère de l’Éducation nationale et de la Jeunesse et la DITP, en partenariat avec le Conseil national du numérique et la Société des communs.
+Mardi 10 mai, nous réunissions une centaine de représentants de la société civile et d'agents publics pour réfléchir ensemble aux coopérations entre État et communs numériques à l’occasion d’une table ronde, avec l'IGN, le Ministère de l’Éducation nationale et de la Jeunesse et la DITP, en partenariat avec le Conseil national du numérique et la Société des communs.
 
 En ouverture, Guillaume Rozier, fondateur de CovidTracker et ViteMaDose, parfaites illustrations de la problématique, et actuel conseiller numérique et données publiques à l’Élysée, a défendu l’idée que l’État doit opérer le service public mais ne doit pas tout faire seul. Il faut accepter que les citoyens, les associations, les entreprises contribuent à l’action publique, au bénéfice de tous, et s’attacher à rendre cette collaboration fluide.
 
