@@ -45,7 +45,8 @@ Certains l’ont déjà bien compris et se saisissent du potentiel des communs n
 
 Selon Sébastien Soriano, directeur général de l’IGN, le secteur de la donnée publique, qui foisonne d’initiatives intéressantes, gagnerait aussi à s’inspirer des modes de travail des communs numériques pour faire alliance en son sein et avec le monde extérieur, et ainsi mieux « marcher ensemble » pour passer à l’échelle.
 
-Gagner en intelligence collective pour mieux innover et servir les Français
+## Gagner en intelligence collective pour mieux innover et servir les Français
+
 La coconstruction de l’action publique avec la société civile est aussi à l’œuvre dans le cadre de la participation française au partenariat pour un Gouvernement ouvert (PGO), pilotée par la DITP, comme l’a rappelé Pauline Lavagne d'Ortigue.
 
  « Pour innover ensemble et reprendre la maîtrise de certains sujets, on doit réfléchir à de nouveaux modes de production, repenser et redistribuer certains pouvoirs », confirme Yann Bonnet.
