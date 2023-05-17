@@ -55,4 +55,4 @@ Lors de cet après-midi, **venez découvrir un programme inédit de collaboratio
 
 **[15h30] Moment festif**, fêtons ensemble les un an du programme 10% !
 
-***Evénement exclusivement réservé aux experts de la data (data scientists, data engineers, data analysts ...) en poste au sein de l’État.***
+***Evénement exclusivement réservé aux agents publics en poste au sein de l’État.***
