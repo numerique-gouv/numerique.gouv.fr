@@ -26,19 +26,19 @@ Cette année, le programme concentre son action sur les « communs », ces resso
 
 ## Les premiers lauréats
 * [Open Food Facts](https://fr.openfoodfacts.org/ "Open Food Facts")
-Une base de données de produits alimentaires créée par tous et pour tous qui répertorie les ingrédients, les allergènes, la composition nutritionnelle… pour faire de meilleurs choix alimentaires. 
-L’association va consolider son modèle et élargir sa base à une nouvelle information : l’impact carbone du produit, en lien avec la Startup d’État Ecobalyse (Ademe). 
+<br>Une base de données de produits alimentaires créée par tous et pour tous qui répertorie les ingrédients, les allergènes, la composition nutritionnelle… pour faire de meilleurs choix alimentaires. 
+<br>L’association va consolider son modèle et élargir sa base à une nouvelle information : l’impact carbone du produit, en lien avec la Startup d’État Ecobalyse (Ademe). 
 
 * [PrimTux](https://primtux.fr/ "PrimTux")
-Développé par une équipe de  professeurs des écoles et de passionnés de l’informatique dans le milieu éducatif, PrimTux est un espace d’apprentissage pour les 3-10 ans, comprenant un système d’exploitation complet et personnalisable, un environnement adapté, ainsi que des centaines de logiciels éducatifs. 
-Le projet est soutenu par le ministère de l'Éducation nationale, de la Jeunesse et des Sports et va accélérer son déploiement territorial. 
+<br>Développé par une équipe de  professeurs des écoles et de passionnés de l’informatique dans le milieu éducatif, PrimTux est un espace d’apprentissage pour les 3-10 ans, comprenant un système d’exploitation complet et personnalisable, un environnement adapté, ainsi que des centaines de logiciels éducatifs. 
+<br>Le projet est soutenu par le ministère de l'Éducation nationale, de la Jeunesse et des Sports et va accélérer son déploiement territorial. 
 
 * [uMAP](https://umap.openstreetmap.fr/fr/ "uMAP") 
-Porté par OpenStreetMap, uMAP permet de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant et les afficher sur des sites internet. Aujourd’hui, avec près de 950 000 cartes et 100 000 utilisateurs réguliers, uMAP souhaite développer ses cas d’usages dans les administrations.
+<br>Porté par OpenStreetMap, uMAP permet de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant et les afficher sur des sites internet. <br>Aujourd’hui, avec près de 950 000 cartes et 100 000 utilisateurs réguliers, uMAP souhaite développer ses cas d’usages dans les administrations.
 
 * [Pyronear](https://pyronear.org/ "Pyronear")
-Association loi 1901 à but non lucratif, Pyronear est un dispositif ouvert de détection précoce de départs de feu de forêt, grâce à l’intelligence artificielle. Concrètement, des détecteurs placés en hauteur surveillent la zone forestière, les images sont analysées par un modèle d’apprentissage qui repère les indices visuels de départ de feu. L’alerte est alors donnée automatiquement. 
-Testé en Ardèche, Pyronear souhaite accélérer son déploiement sur d’autres sites.
+<br>Association loi 1901 à but non lucratif, Pyronear est un dispositif ouvert de détection précoce de départs de feu de forêt, grâce à l’intelligence artificielle. <br>Concrètement, des détecteurs placés en hauteur surveillent la zone forestière, les images sont analysées par un modèle d’apprentissage qui repère les indices visuels de départ de feu. L’alerte est alors donnée automatiquement. 
+<br>Testé en Ardèche, Pyronear souhaite accélérer son déploiement sur d’autres sites.
 
 
 ## Que remportent-ils ?
