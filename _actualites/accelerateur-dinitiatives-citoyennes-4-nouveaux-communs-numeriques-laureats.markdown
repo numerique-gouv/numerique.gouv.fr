@@ -30,25 +30,17 @@ Cette année, le programme concentre son action sur les « communs », ces resso
 </div>
 
 ## Les premiers lauréats
-* **[Open Food Facts](https://fr.openfoodfacts.org/ "Open Food Facts")**
-<figure class="image-left" style="width: 20%; margin-right: 1em;"> 
-<img src="/uploads/logo_OpenFoodFacts.png" alt="Logo Open Food Facts">
-</figure><br>Une base de données de produits alimentaires créée par tous et pour tous qui répertorie les ingrédients, les allergènes, la composition nutritionnelle… pour faire de meilleurs choix alimentaires. 
-<br>L’association va consolider son modèle et élargir sa base à une nouvelle information : l’impact carbone du produit, en lien avec la Startup d’État Ecobalyse (Ademe). 
+<ul> <li><strong><a href="https://fr.openfoodfacts.org/" title="Open Food Facts - Lien externe"">Open Food Facts</a></strong></li> </ul><p><figure class="image-left" style="width: 20%; margin-right: 1em;"> <img src="/uploads/logo_OpenFoodFacts.png" alt="Logo Open Food Facts"> </figure>Une base de données de produits alimentaires créée par tous et pour tous qui répertorie les ingrédients, les allergènes, la composition nutritionnelle… pour faire de meilleurs choix alimentaires. <br>L’association va consolider son modèle et élargir sa base à une nouvelle information&nbsp;: l’impact carbone du produit, en lien avec la Startup d’État Ecobalyse (Ademe).</p>
 
-* **[PrimTux](https://primtux.fr/ "PrimTux")**
-<figure class="image-left" style="width: 20%; margin-right: 1em;"> <img src="/uploads/logo_primtux.png" alt="PrimTux">
-</figure><br>Développé par une équipe de  professeurs des écoles et de passionnés de l’informatique dans le milieu éducatif, PrimTux est un espace d’apprentissage pour les 3-10 ans, comprenant un système d’exploitation complet et personnalisable, un environnement adapté, ainsi que des centaines de logiciels éducatifs. 
-<br>Le projet est soutenu par le ministère de l'Éducation nationale, de la Jeunesse et des Sports et va accélérer son déploiement territorial. 
+<ul> <li><strong><a href="https://primtux.fr/" title="PrimTux - Lien externe""></a></strong></li> </ul><figure class="image-left" style="width: 15%; margin-right: 1em;"> <img src="/uploads/logo_primtux.png" alt="Logo PrimTux">
+</figure><p>Développé par une équipe de  professeurs des écoles et de passionnés de l’informatique dans le milieu éducatif, PrimTux est un espace d’apprentissage pour les 3-10 ans, comprenant un système d’exploitation complet et personnalisable, un environnement adapté, ainsi que des centaines de logiciels éducatifs. 
+<br>Le projet est soutenu par le ministère de l'Éducation nationale, de la Jeunesse et des Sports et va accélérer son déploiement territorial.</p> 
 
-* **[uMAP](https://umap.openstreetmap.fr/fr/ "uMAP") **
-<figure class="image-left" style="width: 20%; margin-right: 1em;"> <img src="/uploads/logo_umap.png" alt="uMAP">
-</figure><br>Porté par OpenStreetMap, uMAP permet de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant et les afficher sur des sites internet. <br>Aujourd’hui, avec près de 950 000 cartes et 100 000 utilisateurs réguliers, uMAP souhaite développer ses cas d’usages dans les administrations.
+<ul> <li><strong><a href="https://umap.openstreetmap.fr/fr/" title="uMAP - Lien externe">uMAP</a></strong></li> </ul><p><figure class="image-left" style="width: 20%; margin-right: 1em;"> <img src="/uploads/logo_umap.png" alt="Logo Open Food Facts"> </figure>Porté par OpenStreetMap, uMAP permet de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant et les afficher sur des sites internet. <br>Aujourd’hui, avec près de 950 000 cartes et 100 000 utilisateurs réguliers, uMAP souhaite développer ses cas d’usages dans les administrations.</p>
 
-* **[Pyronear](https://pyronear.org/ "Pyronear")**
-<figure class="image-left" style="width: 20%; margin-right: 1em;"> <img src="/uploads/logo_pyronear.png" alt="Pyronear">
+<ul> <li><strong><a href="https://fr.openfoodfacts.org/" title="Pyronear - Lien externe">Pyronear</a></strong></li> </ul><p><figure class="image-left" style="width: 20%; margin-right: 1em;"> <img src="/uploads/logo_pyronear.png" alt="Logo Pyronear">
 </figure><br>Association loi 1901 à but non lucratif, Pyronear est un dispositif ouvert de détection précoce de départs de feu de forêt, grâce à l’intelligence artificielle. <br>Concrètement, des détecteurs placés en hauteur surveillent la zone forestière, les images sont analysées par un modèle d’apprentissage qui repère les indices visuels de départ de feu. L’alerte est alors donnée automatiquement. 
-<br>Testé en Ardèche, Pyronear souhaite accélérer son déploiement sur d’autres sites.
+<br>Testé en Ardèche, Pyronear souhaite accélérer son déploiement sur d’autres sites.</p>
 
 
 ## Que remportent-ils ?
