@@ -17,8 +17,8 @@ Après [le lancement en avril de la 2e saison](/actualites/accelerateur-initiati
 Cette année, le programme concentre son action sur les « communs », ces ressources de bien commun. Cartographie, éducation, alimentation et environnement… Les premiers lauréats montrent que les communs numériques couvrent de nombreux domaines de la société, notamment des politiques prioritaires du Gouvernement.
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">L’Accélérateur d’initiatives citoyennes, c’est quoi ?</h3>
-<p>Programme de l’État lancé en 2021, l’Accélérateur d’initiatives citoyennes part d’un constat : il émerge de la société civile des initiatives – portées par des citoyens, des associations… – qui viennent utilement compléter le service public. À travers cet Accélérateur, l’État soutient certaines de ces initiatives, en les accompagnant pendant plusieurs mois, pour les aider à se consolider et accélérer leur développement.
-<br>Piloté par la DINUM en partenariat avec la direction interministérielle de la transformation publique (DITP), le programme vise ainsi à promouvoir et renforcer les coopérations entre l’État et les initiatives citoyennes, au service de l’intérêt général.
+<p>Programme de l’État lancé en 2021, l’Accélérateur d’initiatives citoyennes part d’un constat : il émerge de la société civile des initiatives – portées par des citoyens, des associations… – qui viennent utilement compléter le service public. À travers cet Accélérateur, l’État soutient certaines de ces initiatives, en les accompagnant pendant plusieurs mois, pour les aider à se consolider et accélérer leur développement.</p>
+<p>Piloté par la DINUM en partenariat avec la direction interministérielle de la transformation publique (DITP), le programme vise ainsi à promouvoir et renforcer les coopérations entre l’État et les initiatives citoyennes, au service de l’intérêt général.
 </p>
 <p><a href="https://citoyens.transformation.gouv.fr/" title="Plus d’infos sur le programme - lien externe">> Plus d’infos sur le programme</a>
 </p>
