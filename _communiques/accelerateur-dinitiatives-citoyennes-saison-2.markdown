@@ -1,8 +1,7 @@
 ---
 title: 'Accélérateur d’initiatives citoyennes : coup d’envoi de la saison 2 et de
   premiers lauréats annoncés'
-date: 2023-05-16 10:18:00 +02:00
-published: false
+date: 2023-05-17 10:18:00 +02:00
 categories:
 - Communiqué de presse
 tags:
