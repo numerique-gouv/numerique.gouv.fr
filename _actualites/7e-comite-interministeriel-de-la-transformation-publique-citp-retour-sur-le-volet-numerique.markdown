@@ -17,7 +17,7 @@ une-ou-diaporama:
 - image: "/uploads/7e-CITP_une.png"
 ---
 
-# Pour des services publics, plus proches, plus simples, plus efficaces
+## Pour des services publics, plus proches, plus simples, plus efficaces
 
 <figure class="image-left" style="width: 50%; margin-right: 1em;"> 
 <img src="/uploads/7e-CITP_PM-MTFP.png" alt="Elisabeth Borne et Stanislas Guerini lors du 7e CITP">
@@ -25,7 +25,7 @@ une-ou-diaporama:
 Ces trois axes dressés lors du 7e comité interministériel de la transformation publique visent un objectif : placer les Français au cœur de l'action publique, pour des services publics plus proches, plus simples et plus efficaces.
 Parmi les engagements pris, un ensemble de mesures s’appuient sur le levier numérique. Exploitation de la donnée, amélioration de la qualité et de l'accessibilité des démarches essentielles en ligne, simplification des démarches, administration proactive, développement d'une filière RH numérique de l’État... La DINUM est investie dans la mise en œuvre de la majeure partie de celles-ci.
 
-# Les principales mesures en matière de numérique
+## Les principales mesures en matière de numérique
 
 * La vie des familles et des agents sera simplifiée grâce au numérique, en s’appuyant sur le « dites-le-nous une fois » et en supprimant des démarches dans une logique d’administration proactive : les bourses scolaires, par exemple, ainsi que les pensions de réversion, seront attribuées automatiquement, sans aucune démarche à effectuer.
 * La dématérialisation de la procédure pénale sera accélérée au bénéfice du justiciable et des agents, avec pour objectif de rendre la justice plus rapidement.
