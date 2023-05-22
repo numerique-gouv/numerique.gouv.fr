@@ -32,6 +32,7 @@ Parmi les engagements pris, un ensemble de mesures s’appuient sur le levier nu
 <li style="margin-bottom: 1em;">Des projets phares d’exploitation de la donnée seront identifiés dans chaque ministère et pourront être accompagnés par la DINUM, à travers son Datalab au sein d’<a href="https://www.etalab.gouv.fr/" title="Etalab - Lien externe">Etalab</a>.</li> 
 <li style="margin-bottom: 1em;">Les 250 démarches essentielles en ligne feront l’objet d’un suivi renforcé dans le cadre de <a href="https://observatoire.numerique.gouv.fr/" title="l'Observatoire - Lien externe">l’Observatoire</a> piloté par la DINUM, pour garantir leur qualité. Objectif&nbsp;: une note de satisfaction minimum de 8 sur 10 de la part des usagers.</li> 
 <li style="margin-bottom: 1em;">Les démarches en ligne seront sécurisées face à la fraude avec <a href="https://franceconnect.gouv.fr/france-connect-plus" title="FranceConnect+ - Lien externe">FranceConnect+</a> lorsque nécessaire.</li> 
+<li style="margin-bottom: 1em;">Une expérimentation d’outils d’intelligence artificielle, confiée à la DINUM et la DITP, va être lancée afin de produire des réponses aux usagers plus complètes tout en pesant moins sur les agents sur la plateforme « Services Publics + » et dans plusieurs France services.</li>
 <li style="margin-bottom: 1em;">Dans le but de renforcer ses compétences internes, la filière numérique de l’État sera massivement développée et animée par la DINUM, tant en matière de recrutements, que de développement et de valorisation des compétences disponibles.</li> </ul>
 
 
