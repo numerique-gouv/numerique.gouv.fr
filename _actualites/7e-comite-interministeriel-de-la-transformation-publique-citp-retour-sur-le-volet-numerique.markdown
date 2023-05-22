@@ -9,6 +9,8 @@ chapeau-text: Le 7e comité interministériel de la transformation publique s’
   ce cadre, le Gouvernement a réaffirmé une stratégie ambitieuse du numérique et de
   la donnée, au service des usagers et de l’amélioration de nos services publics fondamentaux.
   Zoom sur le volet numérique du CITP.
+une-ou-diaporama:
+- image: "/uploads/7e-CITP_une.png"
 ---
 
 # Pour des services publics, plus proches, plus simples, plus efficaces
