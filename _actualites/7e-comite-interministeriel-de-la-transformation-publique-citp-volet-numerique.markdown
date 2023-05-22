@@ -17,7 +17,7 @@ une-ou-diaporama:
 - image: "/uploads/7e-CITP_une.png"
 ---
 
-## Pour des services publics, plus proches, plus simples, plus efficaces
+<h2 style="margin-top: 0px">Pour des services publics, plus proches, plus simples, plus efficaces</h2>
 
 <figure class="image-left" style="width: 50%; margin-right: 1em;"> 
 <img src="/uploads/7e-CITP_PM-MTFP.png" alt="Elisabeth Borne et Stanislas Guerini lors du 7e CITP"><figcaption>Elisabeth Borne et Stanislas Guerini lors du 7e CITP</figcaption>
