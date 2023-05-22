@@ -21,7 +21,7 @@ une-ou-diaporama:
 
 Renforcer les services publics fondamentaux. Assurer les fondamentaux des services publics. Mettre en place une organisation pour tenir les engagements fixés.
 Ces trois axes dressés lors du 7e comité interministériel de la transformation publique visent un objectif : placer les Français au cœur de l'action publique, pour des services publics plus proches, plus simples et plus efficaces.
-Parmi les engagements pris, un ensemble de mesures s’appuient sur le levier numérique. Exploitation de la donnée, amélioration de la qualité et de l'accessibilité des services publics en ligne, simplification des démarches, administration proactive, développement d'une filière RH numérique de l’État... La DINUM est investie dans la mise en œuvre de la majeure partie de celles-ci.
+Parmi les engagements pris, un ensemble de mesures s’appuient sur le levier numérique. Exploitation de la donnée, amélioration de la qualité et de l'accessibilité des démarches essentielles en ligne, simplification des démarches, administration proactive, développement d'une filière RH numérique de l’État... La DINUM est investie dans la mise en œuvre de la majeure partie de celles-ci.
 
 # Les principales mesures en matière de numérique
 
@@ -29,7 +29,7 @@ Parmi les engagements pris, un ensemble de mesures s’appuient sur le levier nu
 * La dématérialisation de la procédure pénale sera accélérée au bénéfice du justiciable et des agents, avec pour objectif de rendre la justice plus rapidement.
 * Les ministères actualiseront ou prépareront d’ici la fin de l’année leur feuille de route du numérique et de la donnée, au service d’une stratégie numérique de l’État commune et cohérente.
 * Des projets phares d’exploitation de la donnée seront identifiés dans chaque ministère et pourront être accompagnés par la DINUM, à travers son Datalab au sein d’[Etalab](https://www.etalab.gouv.fr/ "Etalab - Lien externe").
-* Les 250 services publics numériques essentiels feront l’objet d’un suivi renforcé dans le cadre de [l’Observatoire](https://observatoire.numerique.gouv.fr/ "l'Observatoire - Lien externe") piloté par la DINUM, pour garantir leur qualité. Objectif : une note de satisfaction minimum de 8 sur 10 de la part des usagers.
+* Les 250 démarches essentielles en ligne feront l’objet d’un suivi renforcé dans le cadre de [l’Observatoire](https://observatoire.numerique.gouv.fr/ "l'Observatoire - Lien externe") piloté par la DINUM, pour garantir leur qualité. Objectif : une note de satisfaction minimum de 8 sur 10 de la part des usagers.
 * Les démarches en ligne seront sécurisées face à la fraude avec [FranceConnect+](https://franceconnect.gouv.fr/france-connect-plus "FranceConnect+ - Lien externe") lorsque nécessaire.
 * Dans le but de renforcer ses compétences internes, la filière numérique de l’État sera massivement développée et animée par la DINUM, tant en matière de recrutements, que de développement et de valorisation des compétences disponibles.
 
