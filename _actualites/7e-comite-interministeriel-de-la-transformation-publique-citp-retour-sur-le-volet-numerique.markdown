@@ -4,6 +4,10 @@ title: '7e comité interministériel de la transformation publique (CITP) : reto
 date: 2023-05-22 11:36:00 +02:00
 categories:
 - Article
+tags:
+- CITP
+- Transformation numérique
+- transformation publique
 chapeau-text: Le 7e comité interministériel de la transformation publique s’est tenu
   mardi 9 mai 2023 sous la présidence de la Première ministre Elisabeth Borne. Dans
   ce cadre, le Gouvernement a réaffirmé une stratégie ambitieuse du numérique et de
