@@ -27,13 +27,13 @@ Parmi les engagements pris, un ensemble de mesures s’appuient sur le levier nu
 
 ## Les principales mesures en matière de numérique
 
-* La vie des familles et des agents sera simplifiée grâce au numérique, en s’appuyant sur le « dites-le-nous une fois » et en supprimant des démarches dans une logique d’administration proactive : les bourses scolaires, par exemple, ainsi que les pensions de réversion, seront attribuées automatiquement, sans aucune démarche à effectuer.
-* La dématérialisation de la procédure pénale sera accélérée au bénéfice du justiciable et des agents, avec pour objectif de rendre la justice plus rapidement.
-* Les ministères actualiseront ou prépareront d’ici la fin de l’année leur feuille de route du numérique et de la donnée, au service d’une stratégie numérique de l’État commune et cohérente.
-* Des projets phares d’exploitation de la donnée seront identifiés dans chaque ministère et pourront être accompagnés par la DINUM, à travers son Datalab au sein d’[Etalab](https://www.etalab.gouv.fr/ "Etalab - Lien externe").
-* Les 250 démarches essentielles en ligne feront l’objet d’un suivi renforcé dans le cadre de [l’Observatoire](https://observatoire.numerique.gouv.fr/ "l'Observatoire - Lien externe") piloté par la DINUM, pour garantir leur qualité. Objectif : une note de satisfaction minimum de 8 sur 10 de la part des usagers.
-* Les démarches en ligne seront sécurisées face à la fraude avec [FranceConnect+](https://franceconnect.gouv.fr/france-connect-plus "FranceConnect+ - Lien externe") lorsque nécessaire.
-* Dans le but de renforcer ses compétences internes, la filière numérique de l’État sera massivement développée et animée par la DINUM, tant en matière de recrutements, que de développement et de valorisation des compétences disponibles.
+<ul> <li style="margin-bottom: 1em;">La vie des familles et des agents sera simplifiée grâce au numérique, en s’appuyant sur le «&nbsp;dites-le-nous une fois&nbsp;» et en supprimant des démarches dans une logique d’administration proactive&nbsp;: les bourses scolaires, par exemple, ainsi que les pensions de réversion, seront attribuées automatiquement, sans aucune démarche à effectuer.</li> <li>La dématérialisation de la procédure pénale sera accélérée au bénéfice du justiciable et des agents, avec pour objectif de rendre la justice plus rapidement.</li> 
+<li style="margin-bottom: 1em;">Les ministères actualiseront ou prépareront d’ici la fin de l’année leur feuille de route du numérique et de la donnée, au service d’une stratégie numérique de l’État commune et cohérente.</li> 
+<li style="margin-bottom: 1em;">Des projets phares d’exploitation de la donnée seront identifiés dans chaque ministère et pourront être accompagnés par la DINUM, à travers son Datalab au sein d’<a href="https://www.etalab.gouv.fr/" title="Etalab - Lien externe">Etalab</a>.</li> 
+<li style="margin-bottom: 1em;">Les 250 démarches essentielles en ligne feront l’objet d’un suivi renforcé dans le cadre de <a href="https://observatoire.numerique.gouv.fr/" title="l'Observatoire - Lien externe">l’Observatoire</a> piloté par la DINUM, pour garantir leur qualité. Objectif&nbsp;: une note de satisfaction minimum de 8 sur 10 de la part des usagers.</li> 
+<li style="margin-bottom: 1em;">Les démarches en ligne seront sécurisées face à la fraude avec <a href="https://franceconnect.gouv.fr/france-connect-plus" title="FranceConnect+ - Lien externe">FranceConnect+</a> lorsque nécessaire.</li> 
+<li style="margin-bottom: 1em;">Dans le but de renforcer ses compétences internes, la filière numérique de l’État sera massivement développée et animée par la DINUM, tant en matière de recrutements, que de développement et de valorisation des compétences disponibles.</li> </ul>
+
 
 [> Retrouvez tous les engagements du 7e CITP (pdf, 1,4 Mo)](https://www.modernisation.gouv.fr/presse/7e-comite-interministeriel-de-la-transformation-publique-citp-des-services-publics-au-rendez "Retrouvez tous les engagements du 7e CITP (pdf, 1,4 Mo) - Ouvre un pdf")
  
