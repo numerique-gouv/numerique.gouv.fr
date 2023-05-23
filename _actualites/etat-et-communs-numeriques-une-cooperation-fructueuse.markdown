@@ -31,7 +31,7 @@ En ouverture, Guillaume Rozier, fondateur de CovidTracker et ViteMaDose, parfait
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Accélérateur d’initiatives citoyennes : un laboratoire des coopérations État-communs ! </h3>
 <p>Soutenir des projets émanant de la société civile, au service de l’intérêt général : c’est précisément ce que fait le programme <a href="https://citoyens.transformation.gouv.fr/" title="Accélérateur d’initiatives citoyennes - lien externe">Accélérateur d’initiatives citoyennes</a>, piloté par la DINUM en partenariat avec la DITP. 
 Après une première saison réussie en 2022, l’Accélérateur accompagne de nouvelles initiatives autour de communs numériques cette année. Et d’autres à venir ! Vous voulez en faire partie ? Postulez jusqu’au 8 septembre 2023.</p>
-<p><a href="https://citoyens.transformation.gouv.fr/" title="Plus d’infos sur le programme et postuler - lien externe">> Plus d’infos sur le programme et postuler</a>
+<p><a href="https://citoyens.transformation.gouv.fr/" title="Plus d’infos sur le programme et postuler - lien externe">> Plus d’infos sur le programme et postuler</a></p>
 <p><a href="/actualites/accelerateur-dinitiatives-citoyennes-4-nouveaux-communs-numeriques-laureats/" title="Découvrir les premiers communs numériques lauréats de la saison 2 - lien externe">> Découvrir les premiers communs numériques lauréats de la saison 2</a>
 </p>
 </div>
