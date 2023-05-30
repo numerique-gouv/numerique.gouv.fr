@@ -2,6 +2,8 @@
 title: ADA, le programme d’accompagnement au développement professionnel des agentes
   du numérique de l’État
 date: 2022-05-13 12:01:00 +02:00
+categories:
+- Service
 tags:
 - Talents
 - Coaching
@@ -134,3 +136,6 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 </h4> <p>On compte actuellement 25% de femmes dans les effectifs numériques de l'État (15% aux Armées). Le service public d’aujourd’hui et de demain est pourtant façonné par le numérique et se doit d’être représentatif d’une société mixte et paritaire.</p> <p>Pour la DINUM, la féminisation du numérique public est cruciale. Parce que les équipes mixtes sont plus performantes et innovantes. Parce que nous avons besoin de tous les talents pour occuper les emplois publics numériques indispensables au fonctionnement et à la transformation de l'État et de nos institutions.</p> </div>
 
 <p style="margin-top: 1em;"><i>Le programme ADA (anciennement Talents féminins du numérique) est un programme de coaching professionnel dédié aux femmes du numérique de l’État créé en 2019 et piloté par la direction interministérielle du numérique (DINUM). Plus de 100 agentes ont déjà bénéficié de cet accompagnement.</i></p>
+
+
+
