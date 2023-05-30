@@ -39,7 +39,7 @@ Notre programme d’accompagnement au développement professionnel des agentes d
 Ce dispositif est ouvert à toutes, quel que soit votre niveau de fonction ou de responsabilités. 
 Le seul prérequis est d’avoir un projet professionnel d’évolution, de mobilité ou de montée en responsabilités. Une sélection sera effectuée sur la base de ces critères.
 
-**Avec le programme ADA :**
+h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">Avec le programme ADA :</h1>
 * **Explorez votre potentiel** et **apprenez à mieux vous connaître** en identifiant vos compétences, vos forces et vos aspirations professionnelles
 * **Développez des stratégies concrètes** pour faire progresser votre carrière 
 * **Améliorez vos compétences** en communication, networking et gestion du changement
