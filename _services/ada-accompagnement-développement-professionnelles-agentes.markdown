@@ -107,6 +107,12 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
     </tr>
   </tbody>
 </table>
+
+
+<blockquote class="citation"><p><b>Je sors du programme en sachant maintenant ce qu’il faut que je fasse pour évoluer et en ayant l’énergie pour le faire. Je repars ancrée et motivée.</b></p> </blockquote>
+<blockquote class="auteur-citation"> <p>Une participante d'une promotion précédente</p> </blockquote>
+
+
 <br>
 <div class="noir encadre"><ul style="margin-top: 20px;"><li><b>80,9%</b> estiment avoir identifié un changement dans leur vie professionnelle&nbsp;: changement de posture, gain de confiance en soi…</li>
 <li><b>89,4%</b> recommandent ce programme de coaching à d’autres femmes</li></ul>
@@ -116,16 +122,14 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 1. Renseignez la fiche d’inscription, faites-la signer à votre supérieur si vous comptez effectuer le programme pendant vos heures de travail
 2. Retournez-la par courriel à <a href="mailto:talents.numeriques@modernisation.gouv.fr">talents.numeriques@modernisation.gouv.fr</a>
 
-Le programme accueillera 30 femmes, réparties en groupes de 6, répondant aux prérequis et critères de sélection.
+Le programme accueillera 12 femmes, répondant aux prérequis et critères de sélection. N’attendez plus, les inscriptions sont ouvertes jusqu’au 15 juin 2023, dans la limite des places disponibles.
 
 <div align="center"><p><a href="/uploads/Fiche_inscription_Talents-feminins-numerique_2022.docx" class="button">Téléchargez la fiche d’inscription (docx - 55 ko) </a> <br>
 <a href="/uploads/Fiche_inscription_Talents-feminins-numerique_2022.odt">(disponible également au format .odt - 50 ko)</a>
-<br>Inscriptions closes</p></div>
+<br>Inscriptions ouvertes jusqu'au 15 juin 2023 - Places limitées</p></div>
 <br>
 
-<div class="noir encadre"><h4>Envie de nouveaux défis ? 
-<br>À la recherche d’un nouveau poste dans le numérique au sein de l’État ? 
-</h4> <p>Rendez-vous sur notre nouveau site dédié <a href="https://metiers.numerique.gouv.fr"> metiers.numerique.gouv.fr</a> pour découvrir les offres d’emploi à pourvoir dans les ministères ! À venir également, des vitrines pour faire la connaissance des différentes entités du numérique de l'État et des témoignages d'agents publics.
-</p> <p><a href="https://metiers.numerique.gouv.fr"> > metiers.numerique.gouv.fr</a></p> </div>
+<div class="noir encadre"><h4>Les femmes dans la filière numérique de l’État
+</h4> <p>On compte actuellement 25% de femmes dans les effectifs numériques de l'État (15% aux Armées). Le service public d’aujourd’hui et de demain est pourtant façonné par le numérique et se doit d’être représentatif d’une société mixte et paritaire. Pour la DINUM, la féminisation du numérique public est cruciale. Parce que les équipes mixtes sont plus performantes et innovantes. Parce que nous avons besoin de tous les talents pour occuper les emplois publics numériques indispensables au fonctionnement et à la transformation de l'État et de nos institutions.</p> </div>
 
-<p style="margin-top: 1em;"><i>Talents féminins du numérique est un programme créé en 2019 et piloté par la mission Talents de la direction interministérielle du numérique (DINUM). 71 femmes ont déjà bénéficié de cet accompagnement.</i></p>
+<p style="margin-top: 1em;"><i>Le programme ADA (anciennement Talents féminins du numérique) est un programme de coaching professionnel dédié aux femmes du numérique de l’État créé en 2019 et piloté par la direction interministérielle du numérique (DINUM). Plus de 100 agentes ont déjà bénéficié de cet accompagnement.</i></p>
