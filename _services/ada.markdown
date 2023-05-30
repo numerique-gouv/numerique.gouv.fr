@@ -60,7 +60,7 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 <blockquote class="citation"><p><b>Nos 2 coachs nous ont bousculées, taillées et polies pour nous faire découvrir les multiples facettes de la femme que nous sommes chacune et faire émerger la sculpture.</b></p> </blockquote>
 <blockquote class="auteur-citation"> <p>Une participante d'une promotion précédente</p> </blockquote>
 
-<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">Calendrier et programme</h1>
+<h1 class="h2">Calendrier et programme</h1>
 <table>
   <tbody>
     <thead>
