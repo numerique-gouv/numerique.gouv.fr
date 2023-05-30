@@ -26,59 +26,84 @@ Agente de l’État, vous travaillez dans le numérique et souhaitez faire évol
 * Ou changer d’emploi, vers de nouvelles fonctions, une autre administration et/ou un autre secteur géographique ?
 * Ou encore mieux prendre votre place à la suite d’une évolution professionnelle ?
 
-Notre programme « Talents féminins du numérique » vous accompagne dans votre projet d’évolution de carrière !
-Notre objectif : **vous aider à oser et vous dépasser,** dans le but de progresser professionnellement, soit par une mobilité, soit par la prise de (nouvelles) responsabilités.
+Notre programme d’accompagnement au développement professionnel des agentes du numérique de l’État (ADA) est fait pour vous !
 
-<blockquote class="citation"><p><b>Je repars avec la sensation d’être capable de prendre des risques que je n’imaginais même pas.</b></p> </blockquote>
+**Notre objectif :** vous offrir une expérience transformative qui vous permettra d'en apprendre davantage sur vous-même, de développer vos compétences clés et de vous connecter avec des paires, dans le but de progresser professionnellement, soit par une mobilité, soit par la prise de (nouvelles) responsabilités.
+
+
+<blockquote class="citation"><p><b>Le programme m’a permis de faire le tri parmi mes projets et de me donner "le coup de pied aux fesses" pour oser y aller </b></p> </blockquote>
 <blockquote class="auteur-citation"> <p>Une participante d'une promotion précédente</p> </blockquote>
 
 Ce dispositif est ouvert à toutes, quel que soit votre niveau de fonction ou de responsabilités. 
-Le seul prérequis est d’avoir un projet professionnel défini, viable et concret d’évolution, de mobilité ou de montée en responsabilités. Une sélection sera effectuée sur la base de ces critères.
+Le seul prérequis est d’avoir un projet professionnel d’évolution, de mobilité ou de montée en responsabilités. Une sélection sera effectuée sur la base de ces critères.
+
+**Avec le programme ADA :**
+* Explorez votre potentiel et mieux vous connaître en identifiant vos compétences, vos forces et vos aspirations professionnelles
+* Développez des stratégies concrètes pour faire progresser votre carrière 
+* Améliorez vos compétences en communication, networking et gestion du changement
+* Bénéficiez du soutien d’un groupe de paires travaillant dans le numérique d’État
+* Repartez avec votre plan d’action de développement professionnel personnalisé, adapté à votre projet
+
+<div class="noir encadre"><h4>Pourquoi « ADA » ?</h4> 
+<p>ADA, pour Accompagnement au Développement professionnel des Agentes du numérique de l’État, mais bien sûr en hommage et clin d’œil à <a href="https://fr.wikipedia.org/wiki/Ada_Lovelace" title="Ada Lovelace - Lien externe">Ada Lovelace</a>, première programmeuse et pionnière de l'informatique pionnière de l’informatique !
+</p></div>
 
 <h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">En quoi consiste le programme ?</h1>
-Sur 2 jours et demi (une session d’1,5j et une session d’1j), à Paris, en petit groupe de 6 participantes, vous serez accompagnée selon une méthode de coaching reposant sur la mise en mouvement et d’autres outils innovants visant à vous aider à déceler et faire émerger tout votre potentiel.
+Le programme ADA vous accompagnera sur **une durée totale de 5 mois**, à raison d’**une journée de coaching collectif par mois à Paris**, et de **2 séances de coaching individuelles** en visio. 
 
-Il ne s’agit ni d’une formation, ni d’un accompagnement de carrière.
+En groupe de 12 participantes, vous serez accompagnée par des coachs professionnelles, conscientes des enjeux du numérique et de l’environnement que représente la fonction publique, ayant pour ambition de vous donner des clés concrètes et pratiques. 
+
+Il ne s’agit ni d’une formation, ni d’un accompagnement de carrière. 
 
 Participer à ce programme est aussi une façon de vous mettre en réseau et rencontrer des paires elles aussi expertes du numérique.
 
 <blockquote class="citation"><p><b>Nos 2 coachs nous ont bousculées, taillées et polies pour nous faire découvrir les multiples facettes de la femme que nous sommes chacune et faire émerger la sculpture.</b></p> </blockquote>
 <blockquote class="auteur-citation"> <p>Une participante d'une promotion précédente</p> </blockquote>
 
-<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">Les prochaines sessions</h1>
+<h1 class="h2" style="margin-top: 1em; margin-bottom: 0.5em;">Calendrier et programme</h1>
 <table>
   <tbody>
     <thead>
     <tr>
-      <th>Groupes</th>
-      <th>1,5 jour</th>
-      <th>1 jour</th>
+      <th>Dates</th>
+      <th>Programme</th>
     </tr>
     </thead>
     <tr>
-      <th>Groupe 4</th>
-      <td>22 septembre (après-midi) - 23 septembre 2022</td>
-      <td>17 octobre 2022</td>
+      <th>15 juin 2023</th>
+      <td>Clôture des candidatures</td>
     </tr>
     <tr>
-      <th>Groupe 5</th>
-      <td>29 septembre (après-midi) - 30 septembre 2022</td>
-      <td>15 novembre 2022</td>
+      <th>8 septembre 2023</th>
+      <td>Webinaire de lancement </td>
     </tr>
     <tr>
-      <th>Groupe 6</th>
-      <td>3 octobre (après-midi) - 4 octobre 2022</td>
-      <td>17 novembre 2022</td>
+      <th>Septembre 2023</th>
+      <td>Une séance de coaching individuel en visio à planifier selon votre agenda</td>
     </tr>
     <tr>
-      <th>Groupe 7</th>
-      <td>12 octobre (après-midi) - 13 octobre 2022</td>
-      <td>23 novembre 2022</td>
+      <th>2 octobre 2023</th>
+      <td>Journée 1 de coaching collectif à Paris - « Mieux se connaître pour un leadership puissant »</td>
     </tr>
     <tr>
-      <th>Groupe 8</th>
-      <td>20 octobre (après-midi) - 21 octobre 2022</td>
-      <td>15 décembre 2022</td>
+      <th>6 novembre 2023</th>
+      <td>Journée 2 de coaching collectif à Paris - « Investir ses marges de manœuvre pour obtenir ce qui est important pour soi »</td>
+    </tr>
+    <tr>
+      <th> 5 décembre 2023 </th>
+      <td>Journée 3 de coaching collectif à Paris - « Enrichir et porter son projet professionnel avec impact » </td>
+    </tr>
+    <tr>
+      <th>Janvier 2024</th>
+      <td>Une séance de coaching individuel en visio à planifier selon votre agenda : formalisation de son plan de développement professionnel</td>
+    </tr>
+    <tr>
+      <th>Février 2024</th>
+      <td>partage de votre plan de développement professionnel avec votre service RH et votre N+1</td>
+    </tr>
+    <tr>
+      <th>6 février 2024</th>
+      <td>Soirée de clôture, avec conférence inspirante </td>
     </tr>
   </tbody>
 </table>
