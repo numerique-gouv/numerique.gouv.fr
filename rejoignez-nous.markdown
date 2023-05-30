@@ -72,48 +72,6 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35) (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1211951/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1207704/" title="Ingénieur/e sécurité réseau (SOC du réseau interministériel de l'Etat)  H/F - Lien externe">Ingénieur/e sécurité réseau (SOC du réseau interministériel de l'Etat) H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35) (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1207704/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-</div>
-<br>
-<br>
-
-<h1 class="h3"><b>Conseil, audit et appui</b></h1>
-<div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeur-senior-et-expert-accessibilite-hf-reference-2023-1208991/" title="Développeur sénior et expert accessibilité H/F - Lien externe">Développeur sénior et expert accessibilité H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeur-senior-et-expert-accessibilite-hf-reference-2023-1208991/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-</div>
-<br>
-<br>
-
-<h1 class="h3"><b>Droit et international</b></h1>
-<div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-senior-europe-et-international---adjointe-a-lale-cheffe-de-la-mission-hf-reference-2023-1208970/" title="Chargé/e de mission senior Europe et international - Adjoint/e à la/le chef/fe de la mission H/F - Lien externe">Chargé/e de mission senior Europe et international - Adjoint/e à la/le chef/fe de la mission H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre supérieur/Catégorie A+</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-senior-europe-et-international---adjointe-a-lale-cheffe-de-la-mission-hf-reference-2023-1208970/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-hf-reference-2023-1207727/" title="Juriste - Droit du numérique public H/F - Lien externe">Juriste - Droit du numérique public H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre supérieur/Catégorie A+</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-hf-reference-2023-1207727/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-europe-et-international-mission-droit-et-international-hf-reference-2023-1208983/" title="Chargé/e de mission Europe et international - Mission droit et international H/F - Lien externe">Chargé/e de mission Europe et international - Mission droit et international H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre supérieur/Catégorie A+</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-europe-et-international-mission-droit-et-international-hf-reference-2023-1208983/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
 </div>
 <br>
 <br>
