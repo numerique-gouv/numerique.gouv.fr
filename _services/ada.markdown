@@ -124,9 +124,9 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 
 Le programme accueillera 12 femmes, répondant aux prérequis et critères de sélection. N’attendez plus, les inscriptions sont ouvertes jusqu’au 15 juin 2023, dans la limite des places disponibles.
 
-<div align="center"><p><a href="/uploads/Fiche_inscription_Talents-feminins-numerique_2022.docx" class="button">Téléchargez la fiche d’inscription (docx - 55 ko) </a> <br>
-<a href="/uploads/Fiche_inscription_Talents-feminins-numerique_2022.odt">(disponible également au format .odt - 50 ko)</a>
-<br>Inscriptions ouvertes jusqu'au 15 juin 2023 - Places limitées</p></div>
+<div align="center"><p><a href="/uploads/Programme-ADA_Promo-2023_Fiche-inscription.docx" class="button">Téléchargez la fiche d’inscription (docx - 46 ko) </a> <br>
+<a href="/uploads/Programme-ADA_Promo-2023_Fiche-inscription.odt">(disponible également au format .odt - 35 ko)</a>
+<br>Inscriptions ouvertes jusqu'au 15 juin 2023 - Places limitées à 12</p></div>
 <br>
 
 <div class="noir encadre"><h4>Les femmes dans la filière numérique de l’État
