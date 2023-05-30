@@ -38,11 +38,11 @@ Ce dispositif est ouvert à toutes, quel que soit votre niveau de fonction ou de
 Le seul prérequis est d’avoir un projet professionnel d’évolution, de mobilité ou de montée en responsabilités. Une sélection sera effectuée sur la base de ces critères.
 
 **Avec le programme ADA :**
-* Explorez votre potentiel et mieux vous connaître en identifiant vos compétences, vos forces et vos aspirations professionnelles
-* Développez des stratégies concrètes pour faire progresser votre carrière 
-* Améliorez vos compétences en communication, networking et gestion du changement
-* Bénéficiez du soutien d’un groupe de paires travaillant dans le numérique d’État
-* Repartez avec votre plan d’action de développement professionnel personnalisé, adapté à votre projet
+* **Explorez votre potentiel** et **apprenez à mieux vous connaître** en identifiant vos compétences, vos forces et vos aspirations professionnelles
+* **Développez des stratégies concrètes** pour faire progresser votre carrière 
+* **Améliorez vos compétences** en communication, networking et gestion du changement
+* **Bénéficiez du soutien d’un groupe de paires** travaillant dans le numérique d’État
+* **Repartez avec votre plan d’action de développement professionnel personnalisé**, adapté à votre projet
 
 <div class="noir encadre"><h4>Pourquoi « ADA » ?</h4> 
 <p>ADA, pour Accompagnement au Développement professionnel des Agentes du numérique de l’État, mais bien sûr en hommage et clin d’œil à <a href="https://fr.wikipedia.org/wiki/Ada_Lovelace" title="Ada Lovelace - Lien externe">Ada Lovelace</a>, première programmeuse et pionnière de l'informatique pionnière de l’informatique !
@@ -113,7 +113,6 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 <blockquote class="auteur-citation"> <p>Une participante d'une promotion précédente</p> </blockquote>
 
 
-<br>
 <div class="noir encadre"><ul style="margin-top: 20px;"><li><b>80,9%</b> estiment avoir identifié un changement dans leur vie professionnelle&nbsp;: changement de posture, gain de confiance en soi…</li>
 <li><b>89,4%</b> recommandent ce programme de coaching à d’autres femmes</li></ul>
 <p style="text-indent: 15px;"><i>(sur 47 participantes ayant répondu à l’enquête)</i></p></div>
@@ -122,7 +121,7 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 1. Renseignez la fiche d’inscription, faites-la signer à votre supérieur si vous comptez effectuer le programme pendant vos heures de travail
 2. Retournez-la par courriel à <a href="mailto:talents.numeriques@modernisation.gouv.fr">talents.numeriques@modernisation.gouv.fr</a>
 
-Le programme accueillera 12 femmes, répondant aux prérequis et critères de sélection. N’attendez plus, les inscriptions sont ouvertes jusqu’au 15 juin 2023, dans la limite des places disponibles.
+**Le programme accueillera 12 femmes, répondant aux prérequis et critères de sélection. N’attendez pas, les inscriptions sont ouvertes jusqu’au 15 juin 2023, dans la limite des places disponibles.**
 
 <div align="center"><p><a href="/uploads/Programme-ADA_Promo-2023_Fiche-inscription.docx" class="button">Téléchargez la fiche d’inscription (docx - 46 ko) </a> <br>
 <a href="/uploads/Programme-ADA_Promo-2023_Fiche-inscription.odt">(disponible également au format .odt - 35 ko)</a>
@@ -130,6 +129,6 @@ Le programme accueillera 12 femmes, répondant aux prérequis et critères de s�
 <br>
 
 <div class="noir encadre"><h4>Les femmes dans la filière numérique de l’État
-</h4> <p>On compte actuellement 25% de femmes dans les effectifs numériques de l'État (15% aux Armées). Le service public d’aujourd’hui et de demain est pourtant façonné par le numérique et se doit d’être représentatif d’une société mixte et paritaire. Pour la DINUM, la féminisation du numérique public est cruciale. Parce que les équipes mixtes sont plus performantes et innovantes. Parce que nous avons besoin de tous les talents pour occuper les emplois publics numériques indispensables au fonctionnement et à la transformation de l'État et de nos institutions.</p> </div>
+</h4> <p>On compte actuellement 25% de femmes dans les effectifs numériques de l'État (15% aux Armées). Le service public d’aujourd’hui et de demain est pourtant façonné par le numérique et se doit d’être représentatif d’une société mixte et paritaire.</p> <p>Pour la DINUM, la féminisation du numérique public est cruciale. Parce que les équipes mixtes sont plus performantes et innovantes. Parce que nous avons besoin de tous les talents pour occuper les emplois publics numériques indispensables au fonctionnement et à la transformation de l'État et de nos institutions.</p> </div>
 
 <p style="margin-top: 1em;"><i>Le programme ADA (anciennement Talents féminins du numérique) est un programme de coaching professionnel dédié aux femmes du numérique de l’État créé en 2019 et piloté par la direction interministérielle du numérique (DINUM). Plus de 100 agentes ont déjà bénéficié de cet accompagnement.</i></p>
