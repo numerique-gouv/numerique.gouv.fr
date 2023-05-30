@@ -101,7 +101,7 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
     </tr>
     <tr>
       <th>Février 2024</th>
-      <td>partage de votre plan de développement professionnel avec votre service RH et votre N+1</td>
+      <td>Partage de votre plan de développement professionnel avec votre service RH et votre N+1</td>
     </tr>
     <tr>
       <th>6 février 2024</th>
