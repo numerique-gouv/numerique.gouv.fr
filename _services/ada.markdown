@@ -122,6 +122,8 @@ Participer à ce programme est aussi une façon de vous mettre en réseau et ren
 2. Retournez-la par courriel à <a href="mailto:talents.numeriques@modernisation.gouv.fr">talents.numeriques@modernisation.gouv.fr</a>
 
 **Le programme accueillera 12 femmes, répondant aux prérequis et critères de sélection. N’attendez pas, les inscriptions sont ouvertes jusqu’au 15 juin 2023, dans la limite des places disponibles.**
+<br>
+<br>
 
 <div align="center"><p><a href="/uploads/Programme-ADA_Promo-2023_Fiche-inscription.docx" class="button">Téléchargez la fiche d’inscription (docx - 46 ko) </a> <br>
 <a href="/uploads/Programme-ADA_Promo-2023_Fiche-inscription.odt">(disponible également au format .odt - 35 ko)</a>
