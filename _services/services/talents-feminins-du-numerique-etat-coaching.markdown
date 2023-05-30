@@ -1,15 +1,17 @@
 ---
-title: 'Talents féminins du numérique de l’État : un programme de coaching pour accompagner
-  l’évolution de carrière'
+title: ADA, le programme d’accompagnement au développement professionnel des agentes
+  du numérique de l’État
 date: 2022-05-13 12:01:00 +02:00
 tags:
 - Talents
 - Coaching
 - offre de services
-date_de_modification: 27 janvier 2023
-chapeau-text: |-
-  Et si vous vous donniez toutes les chances de réussir votre évolution professionnelle ? En 2 jours et demi, notre programme de coaching, ouvert à toutes les professionnelles du numérique au sein de l’État, vous aidera à en devenir pleinement actrice.
-  Inscriptions closes.
+date_de_modification: 30 mai 2023
+chapeau-text: "Agente du numérique public, vous souhaitez faire avancer votre carrière
+  dans le numérique de l’État ? Notre programme de coaching, ouvert à toutes les professionnelles
+  du numérique au sein de l’État, vous aidera à bâtir un projet de développement professionnel
+  en accord avec vos aspirations et vos compétences. \nInscrivez-vous jusqu’au 15
+  juin 2023."
 une:
   image: "/uploads/2022_05_13_Femme-numerique_1635x345.jpg"
 style: |-
