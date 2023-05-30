@@ -34,6 +34,11 @@ publications:
   url: "/services/cloud/"
   une-ou-diaporama:
   - image: "/uploads/Cloud_rubrique.png"
+- title: ADA, le programme d’accompagnement au développement professionnel des agentes
+    du numérique de l’État
+  url: "/services/ada/"
+  une-ou-diaporama:
+  - image: "/uploads/2022_05_13_Femme-numerique_740x500.jpg"
 - title: Conseil et accompagnement au cadrage et pilotage de projets numériques
   url: "/services/conseil-accompagnement-cadrage-et-pilotage-de-projets-numeriques/"
   une-ou-diaporama:
@@ -51,11 +56,6 @@ publications:
   url: "/services/tnt/"
   une-ou-diaporama:
   - image: "/uploads/TNT_Rub_Services-5e8b1c.png"
-- title: 'Talents féminins du numérique de l’État : un programme de coaching pour
-    accompagner l’évolution de carrière'
-  url: "/services/talents-feminins-du-numerique-etat-coaching/"
-  une-ou-diaporama:
-  - image: "/uploads/2022_05_13_Femme-numerique_740x500.jpg"
 - title: Soumettre un grand projet numérique au DINUM pour avis
   url: "/services/soumettre-un-grand-projet-numerique-au-dinum-pour-avis/"
   une-ou-diaporama:
