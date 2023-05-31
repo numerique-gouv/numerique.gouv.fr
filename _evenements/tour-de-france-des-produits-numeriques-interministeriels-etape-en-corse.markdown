@@ -1,7 +1,6 @@
 ---
 title: Tour de France des Produits numériques interministériels - Étape en Corse
 date: 2023-04-18 15:40:00 +02:00
-published: false
 categories:
 - Journée d'échanges
 - Micro-conférences et ateliers
@@ -12,13 +11,15 @@ chapeau-text: 'Depuis novembre 2022, la DINUM réalise un Tour de France des ré
   les informer, les former et continuer à les accompagner à transformer les méthodes
   de travail - en s’appuyant sur les produits collaboratifs ministériels et interministériels
   mis à leur disposition.'
+une-ou-diaporama:
+- image: "/uploads/2023_05_31_Tour-de-France_Corse_visuel_Agenda%20copie.jpg"
 event_start_date: 2023-06-15 09:00:00 +02:00
 lieu: Palais Lantivy à Ajaccio, salle Claude Erignac
 adresse: 1 Cours Napoléon, 20000 Ajaccio
 champs_informations:
 - intitule: Horaires
   contenu: 9h - 17h
-- intitule: Comment y aller
+- intitule: Comment y aller ?
   contenu: Bus Ligne ➁ Préfecture
 - intitule: Gratuit
   contenu: Inscription obligatoire
