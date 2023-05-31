@@ -27,7 +27,7 @@ Entre décryptages réglementaires, points de vue de professionnels et retours d
 
 * **9h45 – 10h40 :** Table ronde **« data territoriale : maîtrisez votre environnement numérique »**: de quel accompagnement peuvent bénéficier les collectivités, avec Geoffrey ALDEBERT (DINUM), Jacques Priol (fondateur Observatoire data publica), Jean-Marie Bourgogne (délégué général Open data France) et un représentant du projet Rudi (Rennes).
 
-* **14h30 – 15h30 :** Table ronde **« le numérique responsable, passer de la théorie à la pratique »**: enjeux de sobriété numérique, analyse des outils prévus pour accompagner les collectivités, etc., avec Olivier JOVIADO, Directeur de projet Gouvernance et Green (DINUM), Raphaël Guastavi (Ademe) et le fondateur de Green IT.
+* **14h30 – 15h30 :** Table ronde **« le numérique responsable, passer de la théorie à la pratique »**: enjeux de sobriété numérique, analyse des outils prévus pour accompagner les collectivités, etc., avec Olivier JOVIADO, directeur de projet Gouvernance et Green (DINUM), Raphaël Guastavi (Ademe) et le fondateur de Green IT.
 
 Grâce au code promo **DINUM20**, vous pouvez bénéficier de 20% de remise sur le tarif général HT de la conférence. Alors n'hésitez plus !
 
