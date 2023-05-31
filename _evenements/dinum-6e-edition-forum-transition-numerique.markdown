@@ -9,7 +9,7 @@ chapeau-text: À travers la présentation de plusieurs de ses programmes, la DIN
   dédiée à la transition numérique des services publics.
 categorie: Webinaire
 une-ou-diaporama:
-- image: "/uploads/31-05-2023_6e_forum_transition_num%C3%A9rique.2.jfif"
+- image: "/uploads/2023_04_21_Forum_Transition%20num%C3%A9rique.jpg"
 event_start_date: 2023-06-01 09:00:00 +02:00
 champs_informations:
 - intitule: Modalités
