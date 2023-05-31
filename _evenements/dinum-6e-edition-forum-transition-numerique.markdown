@@ -33,6 +33,6 @@ Grâce au code promo **DINUM20**, vous pouvez bénéficier de 20% de remise sur 
 
 <br>
 
-<div align="center"><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-6e-forum-de-la-transition-numerique-2023-p-16391/" class="button"><b>S'inscrire au webinaire</b></a></div>
+<div align="center"><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-6e-forum-de-la-transition-numerique-2023-p-16391/" class="button"><b>S'inscrire à l'événement</b></a></div>
 <br>
 <div class="lien-important"><p><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-6e-forum-de-la-transition-numerique-2023-p-16391/">Consultez le programme complet du Forum de la transition numérique organisé par La Gazette des communes</a></p></div>
