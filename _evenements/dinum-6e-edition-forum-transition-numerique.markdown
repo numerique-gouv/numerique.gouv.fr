@@ -23,16 +23,16 @@ Entre décryptages réglementaires, points de vue de professionnels et retours d
 
 ### Lors de cet événement, des représentants de la DINUM participeront à des tables rondes :
 
-* **9h – 9h15 :** Discours d'introduction de Stéphanie SCHAER, directrice de la DINUM
+* **9h – 9h15 :** Discours d'introduction par Stéphanie SCHAER, directrice interministérielle du numérique (DINUM)
 
 * **9h45 – 10h40 :** Table ronde **« data territoriale : maîtrisez votre environnement numérique »**: de quel accompagnement peuvent bénéficier les collectivités, avec Geoffrey ALDEBERT (DINUM), Jacques Priol (fondateur Observatoire data publica), Jean-Marie Bourgogne (délégué général Open data France) et un représentant du projet Rudi (Rennes).
 
-* **14h30 – 15h30 :** Table ronde **« le numérique responsable, passer de la théorie à la pratique »**: enjeux de sobriété numérique, analyse des outils prévus pour accompagner les collectivités, etc., avec Olivier JOVIADO, Raphaël Guastavi (Ademe) et le fondateur de Green IT.
+* **14h30 – 15h30 :** Table ronde **« le numérique responsable, passer de la théorie à la pratique »**: enjeux de sobriété numérique, analyse des outils prévus pour accompagner les collectivités, etc., avec Olivier JOVIADO, directeur de projet Gouvernance et Green (DINUM), Raphaël Guastavi (Ademe) et le fondateur de Green IT.
 
 Grâce au code promo **DINUM20**, vous pouvez bénéficier de 20% de remise sur le tarif général HT de la conférence. Alors n'hésitez plus !
 
 <br>
 
-<div align="center"><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-6e-forum-de-la-transition-numerique-2023-p-16391/" class="button"><b>S'inscrire au webinaire</b></a></div>
+<div align="center"><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-6e-forum-de-la-transition-numerique-2023-p-16391/" class="button"><b>S'inscrire à l'événement</b></a></div>
 <br>
-<div class="lien-important"><p><a href="https://evenements.infopro-digital.com/mediatheque/pdf/6/4/9/000114946.pdf">Téléchargez le programme complet du Forum de la transition numérique organisé par La Gazette des communes.</a></p></div>
+<div class="lien-important"><p><a href="https://evenements.infopro-digital.com/gazette-des-communes/evenement-6e-forum-de-la-transition-numerique-2023-p-16391/">Consultez le programme complet du Forum de la transition numérique organisé par La Gazette des communes</a></p></div>
