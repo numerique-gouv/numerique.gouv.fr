@@ -32,6 +32,12 @@ layout: page-annexe
 <h1 class="h3"><b>Appui, conseil et expertise</b></h1>
 <div class="wrapper">
   <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1240601/" title="Mentor de Directeur de Projet SI H/F - Lien externe">Mentor de Directeur de Projet SI H/F (10 postes)</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1240601/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/urbaniste-des-si---referent-interoperabilite-hf-reference-2023-1217815/" title="Urbaniste des SI - Référent interopérabilité H/F - Lien externe">Urbaniste des SI - Référent interopérabilité H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -85,6 +91,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35) (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-experte-reseau---charge-ede-mission-d-accompagnement-hf-reference-2023-1217804/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1215508/" title="Chargé/e d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F - Lien externe">Chargé/e d'hypervision réseau et sécurité du Réseau Interministériel de l'Etat H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Saint-Jacques-de-la-Lande (35) (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-d-hypervision-reseau-et-securite-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1215508/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
@@ -132,6 +144,12 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-de-la-cheffe-du-pole-rh-et-attractivite---referent-e-sur-la-grh-de-proximite-hf-reference-2023-1234955/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-rh-et-attractivite-hf-reference-2023-1215498/" title="Chargé/e de mission RH et attractivité H/F - Lien externe">Chargé/e de mission RH et attractivité H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-rh-et-attractivite-hf-reference-2023-1215498/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
