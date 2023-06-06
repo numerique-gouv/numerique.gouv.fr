@@ -133,6 +133,9 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-de-la-cheffe-du-pole-rh-et-attractivite---referent-e-sur-la-grh-de-proximite-hf-reference-2023-1234955/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+</div>
+<br>
+<br>
 
 <h1 class="h3"><b>Direction</b></h1>
 <div class="wrapper">
