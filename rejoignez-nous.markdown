@@ -59,6 +59,33 @@ layout: page-annexe
 <br>
 <br>
 
+<h1 class="h3"><b>Incubateur de Services numériques</b></h1>
+<div class="wrapper">
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-cheffe-de-departement-incubateur-de-services-numeriques-hf-reference-2023-1221905/" title="Adjoint/e au chef/fe de département Incubateur de Services numériques H/F - Lien externe">Adjoint/e au chef/fe de département Incubateur de Services numériques H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-au-cheffe-de-departement-incubateur-de-services-numeriques-hf-reference-2023-1221905/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-relations-institutionnelles-hf-reference-2023-1208960/" title="Responsable des Relations Institutionnelles H/F - Lien externe">Responsable des Relations Institutionnelles H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-relations-institutionnelles-hf-reference-2023-1208960/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/lead-devops-betagouvfr-hf-reference-2023-1208962/" title="LEAD DEVOPS BETA.GOUV.FR H/F - Lien externe">LEAD DEVOPS BETA.GOUV.FR H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/lead-devops-betagouvfr-hf-reference-2023-1208962/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/experte-acceleration-de-services-numeriques-publics-hf-reference-2023-1208973/" title="Expert/e Accélération de Services Numériques publics H/F - Lien externe">Expert/e Accélération de Services Numériques publics H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/experte-acceleration-de-services-numeriques-publics-hf-reference-2023-1208973/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+
 <h1 class="h3"><b>Données / Datascience / Open data</b></h1>
 <div class="wrapper">
   <div class="panel">
