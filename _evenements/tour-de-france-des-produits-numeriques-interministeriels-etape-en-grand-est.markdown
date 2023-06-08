@@ -18,7 +18,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 9h - 17h
 - intitule: Comment y aller ?
-  contenu: 
+  contenu: Bus L1 arrêt Artilleurs
 - intitule: Gratuit
   contenu: Inscription obligatoire
   lien: https://www.demarches-simplifiees.fr/commencer/tour-de-france-grand-est
