@@ -12,6 +12,8 @@ chapeau-text: 'Depuis novembre 2022, la DINUM réalise un Tour de France des ré
   les informer, les former et continuer à les accompagner à transformer les méthodes
   de travail - en s’appuyant sur les produits collaboratifs ministériels et interministériels
   mis à leur disposition.'
+une-ou-diaporama:
+- image: "/uploads/2023_04_07_Tour-de-France_Orleans_visuel_Agenda.jpg"
 event_start_date: 2023-06-21 09:00:00 +02:00
 lieu: LAB’O d’Orléans
 adresse: 1 avenue du Champs de Mars, 45100 Orléans
