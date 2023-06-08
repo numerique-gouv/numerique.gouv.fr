@@ -11,6 +11,8 @@ chapeau-text: 'Depuis novembre 2022, la DINUM réalise un Tour de France des ré
   les informer, les former et continuer à les accompagner à transformer les méthodes
   de travail - en s’appuyant sur les produits collaboratifs ministériels et interministériels
   mis à leur disposition.'
+une-ou-diaporama:
+- image: "/uploads/2023_04_07_Tour-de-France_Metz_visuel_Agenda.jpg"
 event_start_date: 2023-06-29 09:00:00 +02:00
 lieu: 'Institut régional d''administration (IRA) de Metz '
 adresse: 15 Avenue de Lyon, 57078 Metz
