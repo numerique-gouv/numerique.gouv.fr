@@ -28,7 +28,7 @@ champs_informations:
 
 Le Tour de France des régions se poursuit. La prochaine étape aura lieu à Metz !
 
-Cet évènement se déroulera **le jrudi 29 juin de 9h à 17h** à l'Institut régional d'administration (IRA).
+Cet évènement se déroulera **le jeudi 29 juin de 9h à 17h** à l'Institut régional d'administration (IRA).
 
 #### Au programme :
 
