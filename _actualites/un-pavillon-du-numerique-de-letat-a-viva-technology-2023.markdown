@@ -1,6 +1,6 @@
 ---
 title: Un pavillon du numérique de l’État à Viva Technology 2023
-date: 2023-06-06 10:10:00 +02:00
+date: 2023-06-12 15:10:00 +02:00
 categories:
 - Salon
 tags:
