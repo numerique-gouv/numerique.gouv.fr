@@ -42,7 +42,7 @@ La DINUM comprend six départements et trois missions :
 <br>
 <br>
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme_DINUM.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme%20DINUM.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
 
 <script>
 function myFunction(id) {
