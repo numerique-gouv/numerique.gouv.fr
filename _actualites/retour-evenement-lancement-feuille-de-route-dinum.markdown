@@ -12,9 +12,9 @@ chapeau-text: Suite à la publication de la stratégie numérique de l’État a
   de l'efficacité de l’action publique, la DINUM a réuni ses agents et les membres
   de l’écosystème numérique public, en présence du ministre de la Transformation et
   de la Fonction publiques Stanislas Guerini, à la Cité Internationale Universitaire
-  de Paris le 1er juin. Ce fut l’occasion pour Stéphanie Schaer de réaffirmer les
-  principes de la nouvelle feuille de route, de remercier tous les contributeurs et
-  de préparer les prochaines étapes.
+  de Paris le 1er juin 2023. Ce fut l’occasion pour Stéphanie Schaer de réaffirmer
+  les principes de la nouvelle feuille de route, de remercier tous les contributeurs
+  et de préparer les prochaines étapes.
 une-ou-diaporama:
 - image: "/uploads/Dinum_201.jpg"
 ---
@@ -43,3 +43,6 @@ Stanislas Guerini, ministre de la Transformation et de la Fonction publiques, a 
 <br>
 <br>
 <div class="lien-important"><p><a href="https://www.numerique.gouv.fr/publications/feuille-de-route-dinum/ ">Consulter la feuille de route</a></p></div>
+<br>
+<br>
+Crédits photo : Lionel Barbe.
