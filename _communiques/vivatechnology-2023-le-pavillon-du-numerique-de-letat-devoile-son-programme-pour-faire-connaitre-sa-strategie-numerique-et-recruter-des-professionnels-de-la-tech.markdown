@@ -22,6 +22,7 @@ Au sein du Pavillon du numérique de l’État, situé en H49, seront présentes
 
 En plus de présenter ses grandes réalisations et les chantiers numériques, l’objectif de l’État est aussi d’être identifié comme un des employeurs phares du numérique afin de réussir sa transformation et garantir sa souveraineté. Recrutant près de 5 000 professionnels de la tech aux compétences et aux parcours variés dans toute la France, un espace dédié au recrutement est donc prévu au sein du Pavillon du numérique de l’État pour qu’agents et porteurs de projets puissent échanger avec les visiteurs au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique dans la fonction publique. Consulter les offres d’emploi sur [choisirleservicepublic.gouv.fr](https://choisirleservicepublic.gouv.fr/)
 <br>
+<br>
 [Consulter le programme complet](https://www.numerique.gouv.fr/agenda/pavillon-numerique-etat-viva-technology-2023/) 
 
 > « Nous avons besoin du numérique. Pour rendre nos services publics plus accessibles, pour améliorer leur qualité et pour mieux conduire nos politiques publiques au service des Français. Et pour réaliser ces ambitions, il faut faire ensemble, avec une filière numérique de l'État robuste, avec les initiatives du privé et avec l’écosystème de start-ups que l’on retrouve à Vivatech. Je me réjouis donc que le pavillon numérique de l'État soit en si bonne place et vous y donne rendez-vous. »
