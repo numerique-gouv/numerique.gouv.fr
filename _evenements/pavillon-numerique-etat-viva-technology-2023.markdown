@@ -111,10 +111,10 @@ Découvrez le programme ci-dessous :
 [10h] ATTRACTIVITE / **Des programmes innovants pour attirer et fidéliser** - DINUM
 [10h30] BUILDING FUTURE SOCIETIES - **Design centré usager** - Direction du numérique des ministères sociaux et DINUM avec la présentation d'[OZ ENSEMBLE](https://ozensemble.fr/)
 [11h] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Directions du numérique du ministère de la Justice, des ministères sociaux et DINUM avec la présentation de [Démarches simplifiées](https://www.demarches-simplifiees.fr/) et [Nos Gestes Climat](https://nosgestesclimat.fr/?lang=fr)
-[11h30]
-[12h]
-[12h30]
-[13h]
+[11h30] ENERGY & CLIMATE TECH - **Numérique responsable et écoconception des services numériques** - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires
+[12h] BUILDING FUTURE SOCIETIES - **Dématérialisation : Observatoire de la qualité des services en ligne / Administration proactive** - DINUM
+[12h30] AI - **Réalités virtuelles & robotisation** - Direction du numérique du ministère de la Justice
+[13h] 
 [13h30]
 [14h]
 [14h30]
