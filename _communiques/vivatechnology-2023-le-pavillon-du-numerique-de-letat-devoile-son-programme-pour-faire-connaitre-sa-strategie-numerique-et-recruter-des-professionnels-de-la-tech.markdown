@@ -1,5 +1,5 @@
 ---
-title: 'VivaTechnology 2023 : le pavillon du numérique de l’état dévoile son programme
+title: 'VivaTechnology 2023 : le Pavillon du numérique de l’État dévoile son programme
   pour faire connaître sa stratégie numérique et recruter des professionnels de la
   tech'
 date: 2023-06-13 13:47:00 +02:00
