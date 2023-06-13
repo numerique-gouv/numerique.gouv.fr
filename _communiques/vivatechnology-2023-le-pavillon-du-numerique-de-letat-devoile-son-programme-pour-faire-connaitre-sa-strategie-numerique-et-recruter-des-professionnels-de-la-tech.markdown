@@ -11,6 +11,9 @@ chapeau-text: 'Open data, intelligence artificielle, cybersécurité, Startups d
   l’État lors du salon VivaTech du 14 au 17 juin 2023.'
 une-ou-diaporama:
 - image: "/uploads/2023_03_20_VISUEL_AGENDA_1280x720-2aa283.jpg"
+files:
+- file: "/uploads/VIVATECHNOLOGY_2023_PAVILLON_NUMERIQUE_ETAT_FRANCAIS_PROGRAMME.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 **De 9h30 à 17h30, une centaine d’agents publics de la tech et représentants de Startups d’État animeront plus de 60 pitchs avec pour objectif de faire connaître la stratégie numérique de l’État français et attirer des professionnels du numérique.**
