@@ -34,6 +34,8 @@ champs_informations:
 Pour la première fois, les directions du numérique de l’État seront présentes à Viva Technology afin de présenter aux professionnels du numérique et au grand public, ses projets numériques les plus innovants, qui sont autant d’opportunités d’emplois. 
 
 Ne manquez pas leur stand lors de l’événement !
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://app.vivatechnology.com/partner/1df8d428-3bd8-ed11-9f74-000d3a2dcd55/french-state-x-digital" class="button" title="Consulter notre espace en ligne VivaTech - Lien externe"><b>Consulter notre espace en ligne sur le site de VivaTech </b></a></div>
+
 ## « Pavillon du numérique de l’État »
 
 ### Qui sont présents ?

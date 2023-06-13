@@ -2,6 +2,12 @@
 title: API Particulier - webinaire de présentation des nouvelles données
 date: 2023-06-13 10:07:00 +02:00
 published: false
+categories:
+- Webinaire
+tags:
+- API
+- Partage de données
+- Données publiques
 chapeau-text: 'Administrations, éditeurs de solutions numériques, intégrateurs, sociétés
   de conseil, découvrez l’offre de données interministérielle pour mettre en œuvre
   le principe « dites-le nous une fois » '
@@ -10,8 +16,6 @@ lieu: Webinaire 100% en ligne
 champs_informations:
 - intitule: Horaires
   contenu: 11h à 12h30
-- intitule: Inscriptions obligatoires
-  contenu: https://www.eventbrite.com/e/billets-openlab-api-particulier-649068359937
 ---
 
 Afin de simplifier les démarches administratives de tous les français, l’Etat a mis en place le principe du Dites-le-nous une fois (DLNUF) qui consiste à éviter aux citoyens de fournir, lors de leurs démarches en ligne, des informations ou pièces justificatives déjà détenues par d’autres administrations, en s’appuyant sur le partage automatique de données via des API, interface de programmation applicative. 
