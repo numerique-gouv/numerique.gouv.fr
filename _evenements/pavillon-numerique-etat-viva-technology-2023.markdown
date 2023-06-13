@@ -87,6 +87,22 @@ Découvrez le programme ci-dessous :
 [17h] BULDING FUTURE SOCIETIES - **FranceConnect / Identité numérique / Signature éléctronique** - Direction du numérique du ministère de la justice et DINUM 
 
 ### Vendredi 16 juin 2023
+[9h]
+[9h30]
+[10h]
+[10h30]
+[11h]
+[11h30]
+[12h]
+[12h30]
+[13h]
+[13h30]
+[14h]
+[14h30]
+[15h]
+[15h30]
+[16h]
+[16h30]
 
 avec une présentation de ...
 
@@ -94,6 +110,22 @@ la direction du numérique du ministère de l’Intérieur et des Outre-mer, la 
 
 Samedi 17 juin 2023
 
+[9h]
+[9h30]
+[10h]
+[10h30]
+[11h]
+[11h30]
+[12h]
+[12h30]
+[13h]
+[13h30]
+[14h]
+[14h30]
+[15h]
+[15h30]
+[16h]
+[16h30]
 
 ## Le rendez-vous européen dédié à l’innovation technologique et aux start-up
 
