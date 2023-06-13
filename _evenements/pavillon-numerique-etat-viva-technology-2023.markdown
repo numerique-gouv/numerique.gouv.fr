@@ -60,8 +60,9 @@ Découvrez le programme ci-dessous :
 [13h] BUILDING FUTURE SOCIETES - **UX Design / Recherche utilisateur** - Direction du numérique de la direction générale des douanes et droits indirects avec la présentation de [Déclare Douane](https://declare-douane.beta.gouv.fr/tuto/).
 [13h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires et la DINUM avec la présentation de [DossierFacile](https://www.dossierfacile.fr/) et [APiLos](https://beta.gouv.fr/startups/apilos.html)
 [14h] BUILDING FUTURE SOCIETIES - **Dématérialisation** - Direction du numérique des affaires sociales avec la présentation du Numérique en détention (Ned)
-[14h30]
-[15h]
+[14h30] BUILDING FUTURE SOCIETIES - **FranceConnect / Identité numérique** - Direction du numérique du ministère de l’Intérieur et des Outre-mer et de la justice et la DINUM
+[15h] ATTRACTIVITE / **Des programmes innovants pour attirer et fidéliser** - 
+
 [15h30]
 [16h]
 [16h30]
