@@ -90,10 +90,10 @@ Découvrez le programme ci-dessous :
 [9h] CYBERSECURITY - Réseaux et cybersécurité - Directions du numérique des ministères sociaux et du ministère de l’Intérieur et des Outre-mer
 [9h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires et DINUM avec la présentation de [Nos Gestes Climat](https://nosgestesclimat.fr/?lang=fr) et [Résorption-bidonville](https://resorption-bidonvilles.beta.gouv.fr/)
 [10h] ATTRACTIVITE / **Des programmes innovants pour attirer et fidéliser** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
-[10h30] 
-[11h]
-[11h30]
-[12h]
+[10h30] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - DINUM
+[11h] AI - **Deep learning and machine learning et automatisation des tâches** - Directions du numérique des ministères sociaux et de la direction générale des douanes et droits indirects
+[11h30] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - DINUM avec la présentation d'[API Engagement](https://api-engagement.beta.gouv.fr/)
+[12h] BUILDING FUTURE SOCIETIES - **Transformation numérique des territoires** - DINUM et l'[Incubateur des territoires](https://incubateur.anct.gouv.fr/) avec la présentation de [Base d'Adresse Nationale](https://adresse.data.gouv.fr/)
 [12h30]
 [13h]
 [13h30]
@@ -106,7 +106,11 @@ Découvrez le programme ci-dessous :
 
 avec une présentation de ...
 
-la direction du numérique du ministère de l’Intérieur et des Outre-mer, la direction du numérique du ministère de la Justice, la direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires, la c et la direction du numérique de la direction générale des douanes et droits indirects.
+la direction du numérique du ministère de l’Intérieur et des Outre-mer, 
+la direction du numérique du ministère de la Justice, 
+la direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires, 
+la c et 
+la direction du numérique de la direction générale des douanes et droits indirects.
 
 Samedi 17 juin 2023
 
