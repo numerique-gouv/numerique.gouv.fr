@@ -63,9 +63,11 @@ Découvrez le programme ci-dessous :
 [14h30] BUILDING FUTURE SOCIETIES - **FranceConnect / Identité numérique** - Direction du numérique du ministère de l’Intérieur et des Outre-mer et de la justice et DINUM
 [15h] ATTRACTIVITE / **Des programmes innovants pour attirer et fidéliser** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
 [15h30] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - Direction du numérique du ministères des Armées, de la direction générale des douanes et droits indirects et DINUM
-[16h]
-[16h30]
-[17h]
+[16h] BUILDING FUTURE SOCIETIES - **Design et accessibilité / conception de services numériques** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
+[16h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique de la direction générale des douanes et droits indirects, du ministère des affaires sociales et DINUM avec la présentation de [DOMIFA](https://domifa.fabrique.social.gouv.fr/), [PIX](https://pix.fr/) et [JeVeuxAider](https://www.jeveuxaider.gouv.fr/)
+[17h] CYBERSECURITY - **Réseaux et cybersécurité** - DINUM
+
+
 
 avec une présentation de ...
 
