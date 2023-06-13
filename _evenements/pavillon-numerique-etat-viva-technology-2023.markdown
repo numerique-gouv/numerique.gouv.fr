@@ -65,3 +65,30 @@ Le salon a lieu du 14 au 17 juin 2023 à Paris Expo Porte de Versailles. Les tro
 Alors n’hésitez pas à vous inscrire !
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://vivatechnology.com/get-your-pass" class="button" title="S'inscrire - Lien externe"><b>S'inscrire</b></a></div>
+
+### Programme détaillé
+
+Mercredi 14 juin 2023
+
+[**9h30**] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - DINUM
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+
+Jeudi 15 juin 2023
+
+Vendredi 16 juin 2023
+
+Samedi 17 juin 2023
