@@ -51,7 +51,7 @@ Découvrez le programme ci-dessous :
 ### Mercredi 14 juin 2023
 
 [**9h30**] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - DINUM
-[]
+[10h] CYBERSECURITY - **Réseaux et cybersécurité** - Direction du numérique du ministère de l’Intérieur et des Outre-mer
 **[10h30]** AI - **Deep learning and machine learning et automatisation des tâches** - Direction du numérique des ministères sociaux avec la présentation de [Code du Travail Numérique](https://code.travail.gouv.fr/) 
 
 
