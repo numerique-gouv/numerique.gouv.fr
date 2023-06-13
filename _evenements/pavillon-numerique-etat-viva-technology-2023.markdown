@@ -76,11 +76,11 @@ Découvrez le programme ci-dessous :
 [11h30] BUILDING FUTURE SOCIETIES - **Cloud : stratégie cloud de l'État** - Direction du numérique du ministère de l’Intérieur et des Outre-mer
 [12h] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires et du ministère de la justice
 [12h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires et DINUM avec la présentation de [Transport.data.gouv](https://transport.data.gouv.fr/) [Déclare Douane](https://declare-douane.beta.gouv.fr/tuto/) et [le.taxi](https://api.gouv.fr/les-api/le-taxi)
-[13h]
-[13h30]
-[14h]
-[14h30]
-[15h]
+[13h] BUILDING FUTURE SOCIETES - **UX Design / Recherche utilisateur** - Direction du numérique du ministère de la justice et DINUM
+[13h30] ENERGY & CLIMATE TECH - **Numérique responsable et écoconception des services numériques** - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires
+[14h] AI - **Deep learning and machine learning et automatisation des tâches** - Direction du numérique du ministère de la justice
+[14h30] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - Direction du numérique du ministère de la justice
+[15h] CYBERSECURITY - **Réseaux et cybersécurité** - Direction du numérique du ministère de la justice
 [15h30]
 [16h]
 [16h30]
