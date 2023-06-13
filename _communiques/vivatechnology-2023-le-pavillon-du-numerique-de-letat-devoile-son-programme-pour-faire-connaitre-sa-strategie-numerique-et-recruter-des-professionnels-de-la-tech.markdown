@@ -34,7 +34,7 @@ En plus de présenter ses grandes réalisations et les chantiers numériques, l�
 
 <div class="encadre noir" style="margin-bottom:40px">
 <br>
-<p>La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Service de la Première ministre et placée sous l’autorité du ministre de la Transformation et de la Fonction publiques, la DINUM a publié [sa nouvelle feuille de route](https://www.numerique.gouv.fr/publications/feuille-de-route-dinum/) le 9 mars 2023. L’objectif : faire du numérique un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain. Pour y parvenir, la DINUM collabore avec les directions du numérique (DNUM) de tous les ministères.
+<p>La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Service de la Première ministre et placée sous l’autorité du ministre de la Transformation et de la Fonction publiques, la DINUM a publié <a href="https://www.numerique.gouv.fr/publications/feuille-de-route-dinum/">sa nouvelle feuille de route</a> le 9 mars 2023. L’objectif : faire du numérique un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain. Pour y parvenir, la DINUM collabore avec les directions du numérique (DNUM) de tous les ministères.
 <br>
 <br>Pour en savoir plus sur les ministères qui composeront le « Pavillon du numérique de l’État »: 
 <li>Ministère de l’Intérieur et des Outre-mer : <a href="https://www.interieur.gouv.fr/">interieur.gouv.fr</a></li>
