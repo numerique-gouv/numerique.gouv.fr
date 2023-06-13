@@ -16,7 +16,7 @@ event_start_date: 2023-06-27 11:00:00 +02:00
 lieu: Webinaire 100% en ligne
 champs_informations:
 - intitule: Horaires
-  contenu: 11h à 12h30
+  contenu: 11h - 12h30
 - intitule: Modalités
   contenu: Inscription obligatoire
   lien: https://www.eventbrite.com/e/billets-openlab-api-particulier-649068359937
@@ -32,7 +32,7 @@ Et aussi les API FranceConnectées en présence des équipes des ministères et 
 
 <div class="encadre noir" style="margin-bottom:40px">
 <br>
-<p>L'API Particulier  permet de mettre en œuvre le principe « Dites-le-nous une fois », en application de l’article L114-8 du Code des relations entre le public et l’administration.
+<p><a href="https://particulier.api.gouv.fr/">L'API Particulier</a> permet de mettre en œuvre le principe « Dites-le-nous une fois », en application de l’article L114-8 du Code des relations entre le public et l’administration.
 
 C’est un bouquet d'API donnant accès à des données administratives des particuliers : quotient familial CAF, composition familiale, statut demandeur d’emploi, certificat de scolarité des élèves du primaire, du secondaire et étudiant, statuts élève et étudiant boursier ... il est utilisable dans le cadre des démarches en ligne et téléservices proposés aux usagers, ainsi que dans les logiciels métiers utilisés par les agents habilités en guichet.
 

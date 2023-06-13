@@ -1,5 +1,5 @@
 ---
-title: 'VivaTechnology 2023 : le pavillon du numérique de l’état dévoile son programme
+title: 'VivaTechnology 2023 : le Pavillon du numérique de l’État dévoile son programme
   pour faire connaître sa stratégie numérique et recruter des professionnels de la
   tech'
 date: 2023-06-13 13:47:00 +02:00
@@ -27,7 +27,7 @@ files:
 
 Au sein du Pavillon du numérique de l’État, situé en H49, seront présentes, aux côtés de la direction interministérielle du numérique, les directions du numérique du ministère de l’Intérieur et des Outre-mer, de la Justice, des ministères Sociaux, de la Transition écologique et de la Cohésion des territoires, et de la direction générale des douanes et droits indirects du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique. Stanislas Guerini, ministre de la Transformation et de la Fonction publiques, sera présent jeudi 15 juin autour de 16h pour revenir sur la stratégie numérique du Gouvernement.
 
-En plus de présenter ses grandes réalisations et les chantiers numériques, l’objectif de l’État est aussi d’être identifié comme un des employeurs phares du numérique afin de réussir sa transformation et garantir sa souveraineté. Recrutant près de 5 000 professionnels de la tech aux compétences et aux parcours variés dans toute la France, un espace dédié au recrutement est donc prévu au sein du Pavillon du numérique de l’État pour qu’agents et porteurs de projets puissent échanger avec les visiteurs au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique dans la fonction publique. Consulter les offres d’emploi sur [choisirleservicepublic.gouv.fr](https://choisirleservicepublic.gouv.fr/)
+En plus de présenter ses grandes réalisations et les chantiers numériques, l’objectif de l’État est aussi d’être identifié comme un des employeurs phares du numérique afin de réussir sa transformation et garantir sa souveraineté. Recrutant près de 5 000 professionnels de la tech aux compétences et aux parcours variés dans toute la France, un espace dédié au recrutement est donc prévu au sein du Pavillon du numérique de l’État pour qu’agents et porteurs de projets puissent échanger avec les visiteurs au sujet de la diversité des parcours dans l’administration et des voies de recrutement pour les métiers du numérique dans la fonction publique. Consulter les offres d’emploi sur [choisirleservicepublic.gouv.fr](https://choisirleservicepublic.gouv.fr/nos-offres/filtres/domaine/3522/)
 <br>
 <br>
 [Consulter le programme complet](https://www.numerique.gouv.fr/agenda/pavillon-numerique-etat-viva-technology-2023/) 
