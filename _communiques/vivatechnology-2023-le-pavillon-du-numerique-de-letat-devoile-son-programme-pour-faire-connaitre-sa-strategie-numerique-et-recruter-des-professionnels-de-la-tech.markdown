@@ -37,10 +37,10 @@ En plus de présenter ses grandes réalisations et les chantiers numériques, l�
 <p>La direction interministérielle du numérique (DINUM) a pour mission d’élaborer la stratégie numérique de l’État et de piloter sa mise en œuvre. Service de la Première ministre et placée sous l’autorité du ministre de la Transformation et de la Fonction publiques, la DINUM a publié [sa nouvelle feuille de route](https://www.numerique.gouv.fr/publications/feuille-de-route-dinum/) le 9 mars 2023. L’objectif : faire du numérique un levier puissant pour rendre l’État plus efficace, plus simple et plus souverain. Pour y parvenir, la DINUM collabore avec les directions du numérique (DNUM) de tous les ministères.
 <br>
 <br>Pour en savoir plus sur les ministères qui composeront le « Pavillon du numérique de l’État »: 
-<li>Ministère de l’Intérieur et des Outre-mer : [interieur.gouv.fr](https://www.interieur.gouv.fr/)</li>
-<li>Ministère de la Justice : [justice.gouv.fr](http://www.justice.gouv.fr/)</li>
-<li>Ministère de la Transition écologique et de la Cohésion des territoires : [ecologie.gouv.fr](https://www.ecologie.gouv.fr/)</li>
-<li>Ministères Sociaux : [sante.gouv.fr](https://sante.gouv.fr/)</li>
-<li>Direction générale des douanes et droits indirects du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique : [economie.gouv.fr](https://www.economie.gouv.fr/)</li>
-<li>Direction interministérielle du numérique : [numerique.gouv.fr](https://www.numerique.gouv.fr/)</li>
-</p>
+<li>Ministère de l’Intérieur et des Outre-mer : <a href="https://www.interieur.gouv.fr/">interieur.gouv.fr</a></li>
+<li>Ministère de la Justice : <a href="http://www.justice.gouv.fr/">justice.gouv.fr</a></li>
+<li>Ministère de la Transition écologique et de la Cohésion des territoires : <a href="https://www.ecologie.gouv.fr/">ecologie.gouv.fr</a></li>
+<li>Ministères Sociaux : <a href="https://sante.gouv.fr/">sante.gouv.fr</a></li>
+<li>Direction générale des douanes et droits indirects du ministère de l'Économie, des Finances et de la Souveraineté industrielle et numérique : 
+<a href="https://www.economie.gouv.fr/">economie.gouv.fr</a></li>
+<li>Direction interministérielle du numérique : <a href="https://www.numerique.gouv.fr/">numerique.gouv.fr</a>
