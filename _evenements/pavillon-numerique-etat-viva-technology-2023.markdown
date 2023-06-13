@@ -102,15 +102,15 @@ Découvrez le programme ci-dessous :
 [15h] BUILDING FUTURE SOCIETIES - **Dématérialisation des services en ligne / Administration proactive** - Direction du numérique des ministères sociaux et DINUM avec la présentation d'[1 jeune 1 solution](https://www.1jeune1solution.gouv.fr/), SUIT, SI Honorabilité
 [15h30] BUILDING FUTURE SOCIETES - **UX Design / Recherche utilisateur** - Direction du numérique du ministère de la Justice, de la direction générale des douanes et droits indirects et DINUM 
 [16h] ENERGY & CLIMATE TECH - **Numérique responsable et écoconception des services numériques** - Directions du numérique des ministères sociaux et des ministères de la Transition écologique et de la Cohésion des territoires avec la présentation d'Helios
-[16h30] BUILDING FUTURE SOCIETIES - **Cloud : stratégie cloud de l'État** - Directions du numérique du ministère de l'Education nationale et de la jeunesse, de la direction générale des douanes et droits indirects et DINUM 
+[16h30] BUILDING FUTURE SOCIETIES - **Cloud : stratégie cloud de l'État** - Directions du numérique du ministère de l'Éducation nationale et de la jeunesse, de la direction générale des douanes et droits indirects et DINUM 
 
 ### Samedi 17 juin 2023
 
-[9h]
-[9h30]
-[10h]
-[10h30]
-[11h]
+[9h] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - Direction du numérique du ministère des Armées et DINUM
+[9h30] BUILDING FUTURE SOCIETIES - **FranceConnect / Identité numérique** - DINUM
+[10h] ATTRACTIVITE / **Des programmes innovants pour attirer et fidéliser** - DINUM
+[10h30] BUILDING FUTURE SOCIETIES - **Design centré usager** - 
+[11h] 
 [11h30]
 [12h]
 [12h30]
