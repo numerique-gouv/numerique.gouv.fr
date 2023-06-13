@@ -89,8 +89,8 @@ Découvrez le programme ci-dessous :
 ### Vendredi 16 juin 2023
 [9h] CYBERSECURITY - Réseaux et cybersécurité - Directions du numérique des ministères sociaux et du ministère de l’Intérieur et des Outre-mer
 [9h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires et DINUM avec la présentation de [Nos Gestes Climat](https://nosgestesclimat.fr/?lang=fr) et [Résorption-bidonville](https://resorption-bidonvilles.beta.gouv.fr/)
-[10h]
-[10h30]
+[10h] ATTRACTIVITE / **Des programmes innovants pour attirer et fidéliser** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
+[10h30] 
 [11h]
 [11h30]
 [12h]
