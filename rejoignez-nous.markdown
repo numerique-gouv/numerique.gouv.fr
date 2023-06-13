@@ -158,37 +158,6 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneurse-messagerie-instantanee-de-l-etat-hf-reference-2023-1208953/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneurse-detection-et-traitement-des-fraudes-hf-reference-2023-1217844/" title="Intrapreneur/se Détection et traitement des fraudes H/F - Lien externe">Intrapreneur/se Détection et traitement des fraudes H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneurse-detection-et-traitement-des-fraudes-hf-reference-2023-1217844/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneurse-outiller-la-collaboration-des-agents-publics-hf-reference-2023-1208994/" title="Intrapreneur/se Outiller la collaboration des agents publics H/F - Lien externe">Intrapreneur/se Outiller la collaboration des agents publics H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneurse-outiller-la-collaboration-des-agents-publics-hf-reference-2023-1208994/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneur-outiller-les-equipes-produits-pour-plus-de-qualite-hf-reference-2023-1217829/" title="Intrapreneur/se Outiller les équipes produits pour plus de qualité H/F
- H/F - Lien externe">Intrapreneur/se Outiller les équipes produits pour plus de qualité H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneur-outiller-les-equipes-produits-pour-plus-de-qualite-hf-reference-2023-1217829/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneurse-mon-france-connect-hf-reference-2023-1217846/" title="Intrapreneur/se Mon France Connect H/F - Lien externe">Intrapreneur/se Mon France Connect H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneurse-mon-france-connect-hf-reference-2023-1217846/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneurse-interoperabilite-des-produits-au-sein-de-l-etat-hf-reference-2023-1217848/" title="Intrapreneur/se Interopérabilité des produits au sein de l'Etat H/F - Lien externe">Intrapreneur/se Interopérabilité des produits au sein de l'Etat H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneurse-interoperabilite-des-produits-au-sein-de-l-etat-hf-reference-2023-1217848/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeur-senior-interoperabilite-des-produits-au-sein-de-l-etat-hf-reference-2023-1221851/" title="Développeur/se senior interopérabilité des produits au sein de l'Etat H/F - Lien externe">Développeur/se senior interopérabilité des produits au sein de l'Etat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
