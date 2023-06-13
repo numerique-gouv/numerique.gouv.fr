@@ -50,22 +50,22 @@ Découvrez le programme ci-dessous :
 
 ### Mercredi 14 juin 2023
 
-[**9h30**] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - DINUM
-[10h] CYBERSECURITY - **Réseaux et cybersécurité** - Direction du numérique du ministère de l’Intérieur et des Outre-mer
-**[10h30]** AI - **Deep learning and machine learning et automatisation des tâches** - Direction du numérique des ministères sociaux avec la présentation de [Code du Travail Numérique](https://code.travail.gouv.fr/) 
-[11h] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique des ministères sociaux avec la présentation d'[EGAPRO](https://egapro.travail.gouv.fr/)
-[11h30] AI - Réalités virtuelles & robotisation - Direction du numérique du ministère de la Justice
-[12h] BUILDING FUTURE SOCIETES - **Place des femmes dans la tech** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires, du ministère de l’Intérieur et des Outre-mer et de la justice
-[12h30] ENERGY & CLIMATE TECH - **Numérique responsable et écoconception des services numériques** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires 
-[13h] BUILDING FUTURE SOCIETES - **UX Design / Recherche utilisateur** - Direction du numérique de la direction générale des douanes et droits indirects avec la présentation de [Déclare Douane](https://declare-douane.beta.gouv.fr/tuto/).
-[13h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires et la DINUM avec la présentation de [DossierFacile](https://www.dossierfacile.fr/) et [APiLos](https://beta.gouv.fr/startups/apilos.html)
-[14h] BUILDING FUTURE SOCIETIES - **Dématérialisation** - Direction du numérique des affaires sociales avec la présentation du Numérique en détention (Ned)
-[14h30] BUILDING FUTURE SOCIETIES - **FranceConnect / Identité numérique** - Direction du numérique du ministère de l’Intérieur et des Outre-mer et de la justice et DINUM
-[15h] ATTRACTIVITE / **Des programmes innovants pour attirer et fidéliser** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
-[15h30] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - Direction du numérique du ministères des Armées, de la direction générale des douanes et droits indirects et DINUM
-[16h] BUILDING FUTURE SOCIETIES - **Design et accessibilité / conception de services numériques** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
-[16h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique de la direction générale des douanes et droits indirects, du ministère des affaires sociales et DINUM avec la présentation de [DOMIFA](https://domifa.fabrique.social.gouv.fr/), [PIX](https://pix.fr/) et [JeVeuxAider](https://www.jeveuxaider.gouv.fr/)
-[17h] CYBERSECURITY - **Réseaux et cybersécurité** - DINUM
+* [**9h30**] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - DINUM
+* [**10h**] CYBERSECURITY - **Réseaux et cybersécurité** - Direction du numérique du ministère de l’Intérieur et des Outre-mer
+* [**10h30**] AI - **Deep learning and machine learning et automatisation des tâches** - Direction du numérique des ministères sociaux avec la présentation de [Code du Travail Numérique](https://code.travail.gouv.fr/) 
+* [**11h**] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique des ministères sociaux avec la présentation d'[EGAPRO](https://egapro.travail.gouv.fr/)
+* [**11h30**] AI - Réalités virtuelles & robotisation - Direction du numérique du ministère de la Justice
+* [**12h**] BUILDING FUTURE SOCIETES - **Place des femmes dans la tech** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires, du ministère de l’Intérieur et des Outre-mer et de la justice
+* [**12h30**] ENERGY & CLIMATE TECH - **Numérique responsable et écoconception des services numériques** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires 
+* [**13h**] BUILDING FUTURE SOCIETES - **UX Design / Recherche utilisateur** - Direction du numérique de la direction générale des douanes et droits indirects avec la présentation de [Déclare Douane](https://declare-douane.beta.gouv.fr/tuto/).
+* [**13h30**] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires et la DINUM avec la présentation de [DossierFacile](https://www.dossierfacile.fr/) et [APiLos](https://beta.gouv.fr/startups/apilos.html)
+* [**14h**] BUILDING FUTURE SOCIETIES - **Dématérialisation** - Direction du numérique des affaires sociales avec la présentation du Numérique en détention (Ned)
+* [**14h30**] BUILDING FUTURE SOCIETIES - **FranceConnect / Identité numérique** - Direction du numérique du ministère de l’Intérieur et des Outre-mer et de la justice et DINUM
+* [**15h**] ATTRACTIVITE / **Des programmes innovants pour attirer et fidéliser** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
+* [**15h30**] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - Direction du numérique du ministères des Armées, de la direction générale des douanes et droits indirects et DINUM
+* [**16h**] BUILDING FUTURE SOCIETIES - **Design et accessibilité / conception de services numériques** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
+* [**16h30**] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique de la direction générale des douanes et droits indirects, du ministère des affaires sociales et DINUM avec la présentation de [DOMIFA](https://domifa.fabrique.social.gouv.fr/), [PIX](https://pix.fr/) et [JeVeuxAider](https://www.jeveuxaider.gouv.fr/)
+* [**17h**] CYBERSECURITY - **Réseaux et cybersécurité** - DINUM
 
 ### Jeudi 15 juin 2023
 
