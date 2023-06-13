@@ -70,8 +70,8 @@ Découvrez le programme ci-dessous :
 ### Jeudi 15 juin 2023
 
 * [**9h30**] BUILDING FUTURE SOCIETIES - **Startups d'État - Concevoir des services numériques agiles et à impact** - Direction du numérique des ministères sociaux et DINUM avc la présentation de [REVA](https://reva.beta.gouv.fr/)
-* [**10h**] AI - Deep learning and machine learning et automatisation des tâches - Direction du numérique de la direction générale des douanes et droits indirects et DINUM avec la présentation de [BaseGun](https://basegun.fr/)
-* [**10h30**] CYBERSECURITY - Réseaux et cybersécurité - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires, ministère des affaires, des ministères sociaux et DINUM avec la présentation d'[EIG Champollion](https://eig.etalab.gouv.fr/defis/champollion/)
+* [**10h**] AI - **Deep learning and machine learning et automatisation des tâches** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM avec la présentation de [BaseGun](https://basegun.fr/)
+* [**10h30**] CYBERSECURITY - **Réseaux et cybersécurité** - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires, ministère des affaires, des ministères sociaux et DINUM avec la présentation d'[EIG Champollion](https://eig.etalab.gouv.fr/defis/champollion/)
 * [**11h**] BUILDING FUTURE SOCIETIES - **Transformation numérique des territoires** - DINUM avec la présentation de [Base d'Adresse Nationale](https://adresse.data.gouv.fr/) et l'[Incubateur des territoires](https://incubateur.anct.gouv.fr/)
 * [**11h30**] BUILDING FUTURE SOCIETIES - **Cloud : stratégie cloud de l'État** - Direction du numérique du ministère de l’Intérieur et des Outre-mer
 * [**12h**] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires et du ministère de la justice
@@ -87,7 +87,7 @@ Découvrez le programme ci-dessous :
 * [**17h**] BULDING FUTURE SOCIETIES - **FranceConnect / Identité numérique / Signature électronique** - Direction du numérique du ministère de la justice et DINUM 
 
 ### Vendredi 16 juin 2023
-* [**9h**] CYBERSECURITY - Réseaux et cybersécurité - Directions du numérique des ministères sociaux et du ministère de l’Intérieur et des Outre-mer
+* [**9h**] CYBERSECURITY - **Réseaux et cybersécurité** - Directions du numérique des ministères sociaux et du ministère de l’Intérieur et des Outre-mer
 * [**9h30**] BUILDING FUTURE SOCIETIES - **Startups d'État - Concevoir des services numériques agiles et à impact** - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires et DINUM avec la présentation de [Nos Gestes Climat](https://nosgestesclimat.fr/?lang=fr) et [Résorption-bidonville](https://resorption-bidonvilles.beta.gouv.fr/)
 * [**10h**] ATTRACTIVITE / **Des programmes innovants pour attirer et fidéliser** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
 * [**10h30**] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - DINUM
