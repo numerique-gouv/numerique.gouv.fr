@@ -3,6 +3,8 @@ title: 'VivaTechnology 2023 : le pavillon du numérique de l’état dévoile so
   pour faire connaître sa stratégie numérique et recruter des professionnels de la
   tech'
 date: 2023-06-13 13:47:00 +02:00
+categories:
+- Communiqué de presse
 chapeau-text: 'Open data, intelligence artificielle, cybersécurité, Startups d’État
   et services numériques agiles et à impact, design et accessibilité, identité numérique,
   attractivité et fidélisation de professionnels du numérique, place des femmes dans
