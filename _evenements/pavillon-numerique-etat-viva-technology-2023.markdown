@@ -82,16 +82,15 @@ Découvrez le programme ci-dessous :
 [14h30] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - Direction du numérique du ministère de la justice
 [15h] CYBERSECURITY - **Réseaux et cybersécurité** - Direction du numérique du ministère de la justice
 [15h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique du ministère de la justice et DINUM avec la présentation de [MonSuiviJustice](https://mon-suivi-justice.beta.gouv.fr/), [CarbuRe](https://carbure.beta.gouv.fr/) et [API Engagement](https://api-engagement.beta.gouv.fr/)
+[16h] BUILDING FUTURE SOCIETIES - **Cloud : stratégie cloud de l'État** - Direction du numérique des ministères sociaux
+[16h30] BUILDING FUTURE SOCIETIES - **Dématérialisation des services en ligne / Administration proactive**
+[17h] BULDING FUTURE SOCIETIES - **FranceConnect / Identité numérique / Signature éléctronique** - Direction du numérique du ministère de la justice et DINUM 
 
-[16h]
-[16h30]
-[17h]
+### Vendredi 16 juin 2023
 
 avec une présentation de ...
 
-la direction du numérique du ministère de l’Intérieur et des Outre-mer, la direction du numérique du ministère de la Justice, la direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires, la direction du numérique des ministères sociaux et la direction du numérique de la direction générale des douanes et droits indirects.
-
-Vendredi 16 juin 2023
+la direction du numérique du ministère de l’Intérieur et des Outre-mer, la direction du numérique du ministère de la Justice, la direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires, la c et la direction du numérique de la direction générale des douanes et droits indirects.
 
 Samedi 17 juin 2023
 
