@@ -72,6 +72,10 @@ Mercredi 14 juin 2023
 
 [**9h30**] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - DINUM
 []
+[10h30] AI - **Deep learning and machine learning et automatisation des tâches** - Direction du numérique des ministères sociaux avec la présentation de [Code du Travail Numérique](https://code.travail.gouv.fr/) 
+
+
+
 []
 []
 []
@@ -85,7 +89,10 @@ Mercredi 14 juin 2023
 []
 []
 []
-[]
+
+avec une présentation de ...
+
+la direction du numérique du ministère de l’Intérieur et des Outre-mer, la direction du numérique du ministère de la Justice, la direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires, la direction du numérique des ministères sociaux et la direction du numérique de la direction générale des douanes et droits indirects.
 
 Jeudi 15 juin 2023
 
