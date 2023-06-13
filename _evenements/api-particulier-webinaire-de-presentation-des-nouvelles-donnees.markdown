@@ -17,7 +17,8 @@ lieu: Webinaire 100% en ligne
 champs_informations:
 - intitule: Horaires
   contenu: 11h à 12h30
-- intitule: Inscription obligatoire
+- intitule: Modalités
+  contenu: Inscription obligatoire
   lien: https://www.eventbrite.com/e/billets-openlab-api-particulier-649068359937
 ---
 
@@ -37,5 +38,5 @@ C’est un bouquet d'API donnant accès à des données administratives des part
 
 Les usagers n'ont plus à fournir de pièces justificatives à l'appui de leurs démarches administratives, telles que la tarification sociale et solidaire des transports, la cantine à 1 euro, les aides facultatives à la scolarité...
 
-[En savoir plus](https://api.gouv.fr/les-api/api-particulier)
+<a href="https://api.gouv.fr/les-api/api-particulier">En savoir plus</a>
 </p>
