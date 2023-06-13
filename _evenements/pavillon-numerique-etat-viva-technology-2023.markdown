@@ -109,8 +109,8 @@ Découvrez le programme ci-dessous :
 [9h] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - Direction du numérique du ministère des Armées et DINUM
 [9h30] BUILDING FUTURE SOCIETIES - **FranceConnect / Identité numérique** - DINUM
 [10h] ATTRACTIVITE / **Des programmes innovants pour attirer et fidéliser** - DINUM
-[10h30] BUILDING FUTURE SOCIETIES - **Design centré usager** - 
-[11h] 
+[10h30] BUILDING FUTURE SOCIETIES - **Design centré usager** - Direction du numérique des ministères sociaux et DINUM avec la présentation d'[OZ ENSEMBLE](https://ozensemble.fr/)
+[11h] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Directions du numérique du ministère de la Justice, des ministères sociaux et DINUM avec la présentation de [Démarches simplifiées](https://www.demarches-simplifiees.fr/) et [Nos Gestes Climat](https://nosgestesclimat.fr/?lang=fr)
 [11h30]
 [12h]
 [12h30]
