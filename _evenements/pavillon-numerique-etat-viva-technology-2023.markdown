@@ -81,7 +81,8 @@ Découvrez le programme ci-dessous :
 [14h] AI - **Deep learning and machine learning et automatisation des tâches** - Direction du numérique du ministère de la justice
 [14h30] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - Direction du numérique du ministère de la justice
 [15h] CYBERSECURITY - **Réseaux et cybersécurité** - Direction du numérique du ministère de la justice
-[15h30]
+[15h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique du ministère de la justice et DINUM avec la présentation de [MonSuiviJustice](https://mon-suivi-justice.beta.gouv.fr/), [CarbuRe](https://carbure.beta.gouv.fr/) et [API Engagement](https://api-engagement.beta.gouv.fr/)
+
 [16h]
 [16h30]
 [17h]
