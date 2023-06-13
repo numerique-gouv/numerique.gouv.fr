@@ -84,11 +84,11 @@ Découvrez le programme ci-dessous :
 [15h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique du ministère de la justice et DINUM avec la présentation de [MonSuiviJustice](https://mon-suivi-justice.beta.gouv.fr/), [CarbuRe](https://carbure.beta.gouv.fr/) et [API Engagement](https://api-engagement.beta.gouv.fr/)
 [16h] BUILDING FUTURE SOCIETIES - **Cloud : stratégie cloud de l'État** - Direction du numérique des ministères sociaux
 [16h30] BUILDING FUTURE SOCIETIES - **Dématérialisation des services en ligne / Administration proactive**
-[17h] BULDING FUTURE SOCIETIES - **FranceConnect / Identité numérique / Signature éléctronique** - Direction du numérique du ministère de la justice et DINUM 
+[17h] BULDING FUTURE SOCIETIES - **FranceConnect / Identité numérique / Signature électronique** - Direction du numérique du ministère de la justice et DINUM 
 
 ### Vendredi 16 juin 2023
-[9h]
-[9h30]
+[9h] CYBERSECURITY - Réseaux et cybersécurité - Directions du numérique des ministères sociaux et du ministère de l’Intérieur et des Outre-mer
+[9h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires et DINUM avec la présentation de [Nos Gestes Climat](https://nosgestesclimat.fr/?lang=fr) et [Résorption-bidonville](https://resorption-bidonvilles.beta.gouv.fr/)
 [10h]
 [10h30]
 [11h]
