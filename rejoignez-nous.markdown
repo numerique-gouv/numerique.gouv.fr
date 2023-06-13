@@ -74,12 +74,6 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/experte-acceleration-de-services-numeriques-publics-hf-reference-2023-1208973/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/lead-dev-hf-reference-2023-1217792/" title="Lead Dev H/F - Lien externe">Lead Dev H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/lead-dev-hf-reference-2023-1217792/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/lead-ux-designer-betagouvfr-70-hf-reference-2023-1224895/" title="Lead UX Designer Beta.gouv.fr (70%) H/F - Lien externe">Lead UX Designer Beta.gouv.fr (70%) H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
