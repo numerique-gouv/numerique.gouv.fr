@@ -115,21 +115,13 @@ Découvrez le programme ci-dessous :
 [12h] BUILDING FUTURE SOCIETIES - **Dématérialisation : Observatoire de la qualité des services en ligne / Administration proactive** - DINUM
 [12h30] AI - **Réalités virtuelles & robotisation** - Direction du numérique du ministère de la Justice
 [13h] AI - **Deep learning and machine learning et automatisation des tâches** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM avec la présentation de [BaseGun](https://basegun.fr/)
-[13h30] BUILDING FUTURE SOCIETES - **UX Design / Recherche utilisateur** - Direction du numérique des ministères sociaux et DINUM
-[14h] 
-[14h30]
-[15h]
-[15h30]
-[16h]
-[16h30]
-
-avec une présentation de ...
-
-la direction du numérique du ministère de l’Intérieur et des Outre-mer, 
-la direction du numérique du ministère de la Justice, 
-la direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires, 
-la c et 
-la direction du numérique de la direction générale des douanes et droits indirects.
+[13h30] BUILDING FUTURE SOCIETES - **UX Design / Recherche utilisateur** - Direction du numérique des ministères sociaux et DINUM avec la présentation du 	
+[Contrat d’Engagement Jeune](https://travail-emploi.gouv.fr/emploi-et-insertion/mesures-jeunes/contrat-engagement-jeune/) (CEJ)
+[14h] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - DINUM avec la présentation de [PIX](https://pix.fr/) [JeVeuxAider](https://www.jeveuxaider.gouv.fr/) et [Démarches simplifiées](https://www.demarches-simplifiees.fr/)
+[14h30] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - Directions du numérique des ministères sociaux et du ministère de l’Intérieur et des Outre-mer avec la présentation de [Mon Espace Santé](https://www.monespacesante.fr/)
+[15h] CYBERSECURITY - **Réseaux et cybersécurité** - Direction du numérique du ministère de l’Intérieur et des Outre-mer
+[15h30] BUILDING FUTURE SOCIETIES - **Cloud : stratégie cloud de l'État** - DINUM
+[16h] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Directions du numérique des ministères sociaux avec la présentation de [Mon Espace Santé](https://www.monespacesante.fr/)
 
 ## Le rendez-vous européen dédié à l’innovation technologique et aux start-up
 
