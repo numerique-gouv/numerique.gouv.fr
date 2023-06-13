@@ -29,7 +29,7 @@ En plus de présenter ses grandes réalisations et les chantiers numériques, l�
 <br>**Stanislas Guerini, ministre de la Transformation et de la Fonction publiques**
 
 **LE RDV EUROPÉEN DE L’INNOVATION TECHNOLOGIQUE**
-Salon professionnel dédié à l’innovation technologique et aux start-ups, VivaTechnology se tiendra du 14 au 17 juin 2023 à Paris Expo Porte de Versailles. Les trois premières journées seront consacrées à un public professionnel et la dernière journée sera dédiée au grand public. Les services de l’État seront présents pendant les 4 jours. Le salon réunit plus de 2 500 exposants, plus de 146 pays et 91 000 visiteurs attendus. Pour en savoir plus sur VivaTechnology : [vivatechnology.com](https://vivatechnology.com/)
+<br>Salon professionnel dédié à l’innovation technologique et aux start-ups, VivaTechnology se tiendra du 14 au 17 juin 2023 à Paris Expo Porte de Versailles. Les trois premières journées seront consacrées à un public professionnel et la dernière journée sera dédiée au grand public. Les services de l’État seront présents pendant les 4 jours. Le salon réunit plus de 2 500 exposants, plus de 146 pays et 91 000 visiteurs attendus. Pour en savoir plus sur VivaTechnology : [vivatechnology.com](https://vivatechnology.com/)
 
 <div class="encadre noir" style="margin-bottom:40px">
 <br>
