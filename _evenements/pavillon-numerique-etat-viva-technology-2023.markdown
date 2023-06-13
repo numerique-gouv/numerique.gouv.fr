@@ -114,9 +114,9 @@ Découvrez le programme ci-dessous :
 [11h30] ENERGY & CLIMATE TECH - **Numérique responsable et écoconception des services numériques** - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires
 [12h] BUILDING FUTURE SOCIETIES - **Dématérialisation : Observatoire de la qualité des services en ligne / Administration proactive** - DINUM
 [12h30] AI - **Réalités virtuelles & robotisation** - Direction du numérique du ministère de la Justice
-[13h] 
-[13h30]
-[14h]
+[13h] AI - **Deep learning and machine learning et automatisation des tâches** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM avec la présentation de [BaseGun](https://basegun.fr/)
+[13h30] BUILDING FUTURE SOCIETES - **UX Design / Recherche utilisateur** - Direction du numérique des ministères sociaux et DINUM
+[14h] 
 [14h30]
 [15h]
 [15h30]
