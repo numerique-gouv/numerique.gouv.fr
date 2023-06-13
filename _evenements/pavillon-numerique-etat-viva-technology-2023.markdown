@@ -98,11 +98,11 @@ Découvrez le programme ci-dessous :
 [13h] BUILDING FUTURE SOCIETIES - **FranceConnect / Identité numérique** - Direction du numérique du ministère de la Justice avec la présentation de Procédure Pénale Numérique
 [13h30] BUILDING FUTURE SOCIETIES - **Communs numériques** - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires avec la présentation de App;Isis; Dialog; 1km à pied; Deki, RailWai, Ynstant
 [14h] CYBERSECURITY - **Réseaux et cybersécurité** - avec la présentation du [Dossier numérique en santé](https://www.monespacesante.fr/)
-[14h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique du ministère de la Justice et DINUM avec la présentation de[PIX](https://pix.fr/) [JeVeuxAider](https://www.jeveuxaider.gouv.fr/) [EIG Champollion (https://eig.etalab.gouv.fr/defis/champollion/) et [Nos Gestes Climat](https://nosgestesclimat.fr/?lang=fr) 
-[15h]
-[15h30]
-[16h]
-[16h30]
+[14h30] BUILDING FUTURE SOCIETIES - **Startups d'État** - Concevoir des services numériques agiles et à impact - Direction du numérique du ministère de la Justice et DINUM avec la présentation de [PIX](https://pix.fr/) [JeVeuxAider](https://www.jeveuxaider.gouv.fr/) [EIG Champollion (https://eig.etalab.gouv.fr/defis/champollion/) et [Nos Gestes Climat](https://nosgestesclimat.fr/?lang=fr) 
+[15h] BUILDING FUTURE SOCIETIES - **Dématérialisation des services en ligne / Administration proactive** - Direction du numérique des ministères sociaux et DINUM avec la présentation d'1 JEUNE 1 SOLUTION, SUIT, SI Honorabilité
+[15h30] BUILDING FUTURE SOCIETES - **UX Design / Recherche utilisateur** - Direction du numérique du ministère de la Justice, de la direction générale des douanes et droits indirects et DINUM 
+[16h] ENERGY & CLIMATE TECH - **Numérique responsable et écoconception des services numériques** - Directions du numérique des ministères sociaux et des ministères de la Transition écologique et de la Cohésion des territoires avec la présentation d'Helios
+[16h30] BUILDING FUTURE SOCIETIES - **Cloud : stratégie cloud de l'État** - Directions du numérique du ministère de l'Education nationale et de la jeunesse, de la direction générale des douanes et droits indirects et DINUM 
 
 avec une présentation de ...
 
