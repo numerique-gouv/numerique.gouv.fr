@@ -68,7 +68,7 @@ Découvrez le programme ci-dessous :
 * [**15h**] ATTRACTIVITY / **Des programmes innovants pour attirer et fidéliser des professionnels de la tech** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
 * [**15h30**] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - Direction du numérique du ministères des Armées, de la direction générale des douanes et droits indirects et DINUM
 * [**16h**] BUILDING FUTURE SOCIETIES - **Design et accessibilité / conception de services numériques** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
-* [**16h30**] BUILDING FUTURE SOCIETIES - **Startups d'État - Concevoir des services numériques agiles et à impact** - Direction du numérique de la direction générale des douanes et droits indirects, du ministère des affaires sociales et DINUM avec la présentation de [DOMIFA](https://domifa.fabrique.social.gouv.fr/), [PIX](https://pix.fr/) et [JeVeuxAider](https://www.jeveuxaider.gouv.fr/)
+* [**16h30**] BUILDING FUTURE SOCIETIES - **Startups d'État - Concevoir des services numériques agiles et à impact** - Direction du numérique de la direction générale des douanes et droits indirects, des ministères Sociaux et DINUM avec la présentation de [DOMIFA](https://domifa.fabrique.social.gouv.fr/), [PIX](https://pix.fr/) et [JeVeuxAider](https://www.jeveuxaider.gouv.fr/)
 * [**17h**] CYBERSECURITY - **Réseaux et cybersécurité** - DINUM
 
 ### Jeudi 15 juin 2023
