@@ -48,6 +48,8 @@ Au sein d’un stand unique, seront présentes aux côtés de la direction inter
 
 * Un espace de pitchs et de conférences  animé pendant 4 jours, de 9h30 à 17h30 par une centaine d’agents publics de la tech et représentants de Startups d’État. 
 
+<div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://app.vivatechnology.com/partner/1df8d428-3bd8-ed11-9f74-000d3a2dcd55/french-state-x-digital" class="button" title="Consulter notre programme - Lien externe"><b>Consulter notre programme</b></a></div>
+
 Découvrez le programme ci-dessous : 
 
 ### Mercredi 14 juin 2023
