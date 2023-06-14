@@ -83,7 +83,8 @@ Découvrez le programme ci-dessous :
 * [**13h30**] ENERGY & CLIMATE TECH - **Numérique responsable et écoconception des services numériques** - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires
 * [**14h**] AI - **Deep learning and machine learning et automatisation des tâches** - Direction du numérique du ministère de la Justice
 * [**14h30**] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - Direction du numérique du ministère de la Justice
-* [**15h**] CYBERSECURITY - **Réseaux et cybersécurité** - Direction du numérique du ministère de la Justice
+* [**15h**] CYBERSECURITY - **Réseaux et cybersécurité** - Direction du numérique du ministère de l’Intérieur et des Outre-mer
+
 * [**15h30**] BUILDING FUTURE SOCIETIES - **Startups d'État - Concevoir des services numériques agiles et à impact** - Direction du numérique du ministère de la Justice et DINUM avec la présentation de [MonSuiviJustice](https://mon-suivi-justice.beta.gouv.fr/), [CarbuRe](https://carbure.beta.gouv.fr/) et [API Engagement](https://api-engagement.beta.gouv.fr/)
 * [**16h**] BUILDING FUTURE SOCIETIES - **Cloud : stratégie cloud de l'État** - Direction du numérique des ministères Sociaux
 * [**16h30**] BUILDING FUTURE SOCIETIES - **Dématérialisation des services en ligne / Administration proactive**
