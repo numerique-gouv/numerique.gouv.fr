@@ -55,7 +55,6 @@ Découvrez le programme ci-dessous :
 ### Mercredi 14 juin 2023
 
 * [**9h30**] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - DINUM
-* [**10h**] CYBERSECURITY - **Réseaux et cybersécurité** - Direction du numérique du ministère de l’Intérieur et des Outre-mer
 * [**10h30**] AI - **Deep learning and machine learning et automatisation des tâches** - Direction du numérique des ministères Sociaux avec la présentation de [Code du Travail Numérique](https://code.travail.gouv.fr/) 
 * [**11h**] BUILDING FUTURE SOCIETIES - **Startups d'État** **- Concevoir des services numériques agiles et à impact** - Direction du numérique des ministères Sociaux avec la présentation d'[EGAPRO](https://egapro.travail.gouv.fr/)
 * [**11h30**] AI - **Réalités virtuelles & robotisation** - Direction du numérique du ministère de la Justice
@@ -91,7 +90,6 @@ Découvrez le programme ci-dessous :
 * [**17h**] BULDING FUTURE SOCIETIES - **FranceConnect / Identité numérique / Signature électronique** - Direction du numérique du ministère de la Justice et DINUM 
 
 ### Vendredi 16 juin 2023
-* [**9h30**] CYBERSECURITY - **Réseaux et cybersécurité** - Directions du numérique des ministères Sociaux et du ministère de l’Intérieur et des Outre-mer
 * [**10h**] BUILDING FUTURE SOCIETIES - **Startups d'État - Concevoir des services numériques agiles et à impact** - Direction du numérique des ministères de la Transition écologique et de la Cohésion des territoires et DINUM avec la présentation de [Nos Gestes Climat](https://nosgestesclimat.fr/?lang=fr) et [Résorption-bidonville](https://resorption-bidonvilles.beta.gouv.fr/)
 * [**10h30**] ATTRACTIVITY / **Des programmes innovants pour attirer et fidéliser des professionnels de la tech** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
 * [**11h**] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - DINUM
@@ -123,7 +121,6 @@ Découvrez le programme ci-dessous :
 [Contrat d’Engagement Jeune](https://travail-emploi.gouv.fr/emploi-et-insertion/mesures-jeunes/contrat-engagement-jeune/) (CEJ)
 * [**14h30**] BUILDING FUTURE SOCIETIES - **Startups d'État - Concevoir des services numériques agiles et à impact** - DINUM avec la présentation de [PIX](https://pix.fr/) [JeVeuxAider](https://www.jeveuxaider.gouv.fr/) et [Démarches simplifiées](https://www.demarches-simplifiees.fr/)
 * [**15h**] BUILDING FUTURE SOCIETES - **Open data  / Circulation des données** - Directions du numérique des ministères Sociaux et du ministère de l’Intérieur et des Outre-mer avec la présentation de [Mon Espace Santé](https://www.monespacesante.fr/)
-* [**15h30**] CYBERSECURITY - **Réseaux et cybersécurité** - Direction du numérique du ministère de l’Intérieur et des Outre-mer
 * [**16h**] BUILDING FUTURE SOCIETIES - **Cloud : stratégie cloud de l'État** - DINUM
 * [**16h30**] BUILDING FUTURE SOCIETIES - **Startups d'État - Concevoir des services numériques agiles et à impact** - Directions du numérique des ministères Sociaux avec la présentation de [Mon Espace Santé](https://www.monespacesante.fr/)
 
