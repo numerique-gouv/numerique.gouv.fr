@@ -63,7 +63,7 @@ Découvrez le programme ci-dessous :
 * [**12h30**] ENERGY & CLIMATE TECH - **Numérique responsable et écoconception des services numériques** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires 
 * [**13h**] BUILDING FUTURE SOCIETES - **UX Design / Recherche utilisateur** - Direction du numérique de la direction générale des douanes et droits indirects avec la présentation de [Déclare Douane](https://declare-douane.beta.gouv.fr/tuto/) et DINUM
 * [**13h30**] BUILDING FUTURE SOCIETIES - **Startups d'État - Concevoir des services numériques agiles et à impact** - Directions du numérique des ministères de la Transition écologique et de la Cohésion des territoires et la DINUM avec la présentation de [DossierFacile](https://www.dossierfacile.fr/) et [APiLos](https://beta.gouv.fr/startups/apilos.html)
-* [**14h**] BUILDING FUTURE SOCIETIES - **Dématérialisation** - Direction du numérique des affaires sociales avec la présentation du Numérique en détention (Ned)
+* [**14h**] BUILDING FUTURE SOCIETIES - **Dématérialisation** - Direction du numérique des ministères Sociaux avec la présentation du Numérique en détention (Ned)
 * [**14h30**] BUILDING FUTURE SOCIETIES - **FranceConnect / Identité numérique** - Direction du numérique du ministère de l’Intérieur et des Outre-mer et de la Justice et DINUM
 * [**15h**] ATTRACTIVITY / **Des programmes innovants pour attirer et fidéliser des professionnels de la tech** - Direction du numérique de la direction générale des douanes et droits indirects et DINUM
 * [**15h30**] BUILDING FUTURE SOCIETIES - **Place des femmes dans la tech** - Direction du numérique du ministères des Armées, de la direction générale des douanes et droits indirects et DINUM
