@@ -12,7 +12,7 @@ chapeau-text: 'Service de la Première ministre, placé sous l’autorité du mi
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 25 avril 2023
+date_de_modification: 12 juin 2023
 layout: dinsic
 ---
 
@@ -70,16 +70,17 @@ function myFunction(id) {
 <li><b>Cabinet</b></li>
 <li><b>Mission Communication</b></li></ul>
 <p><b>Sont rattachés à la direction&nbsp;:</b></p>
-<ul><li><b>le département « Appui, conseil et expertise » :</b> Chef du département : à nommer. Adjoint : à nommer</li>
+<ul><li><b>le département « Appui, conseil et expertise » :</b> Chef du département : Jérémie Vallet.</li>
   <ul>
     <li>Brigade d’intervention numérique</li>
     <li>Expertise, contrôle et maîtrise des risques</li>
     <li>Référentiels, capitalisation et Observatoires</li>
     <li>Proactivité</b></li>
     <li>Transformation numérique des territoires</li>
+    <li>Mission logiciels libres</li>
   </ul>
 
-<li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : à nommer. Adjoint : à nommer</li>
+<li><b>le département « Incubateur de services numériques » (ISN) :</b> Chef du département : Ishan Bohjwani.</li>
   <ul>
     <li>Animation beta.gouv.fr</li>
     <li>Accélération FAST</li>
@@ -87,7 +88,7 @@ function myFunction(id) {
     <li>Proactivité</li>
     <li>Portefeuilles ministériels</li>
   </ul>
-<li><b>le département « Etalab » :</b> Chef du département : Marielle Chrisment. Adjoint : à nommer</li>
+<li><b>le département « Etalab » :</b> Chef du département : Marielle Chrisment.</li>
   <ul>
     <li>Datalab</li>
     <li>Datanim</li>
@@ -99,7 +100,7 @@ function myFunction(id) {
     <li>RIE/SOI</li>
     <li>SI RIE</li>
   </ul>
-<li><b>le département « Opérateur des produits interministériels » (OPI) :</b> Chef du département : à nommer. Adjoint : à nommer.</li>
+<li><b>le département « Opérateur des produits interministériels » (OPI) :</b> Chef du département : Florian Delezenne. Adjoint : Anna-Livia Gomart</li>
   <ul>
     <li>Fédération d’identité des citoyens</li>
     <li>Relations agents et usagers</li>
@@ -107,14 +108,14 @@ function myFunction(id) {
     <li>Réutilisation de la donnée ouverte</li>
     <li>Incubateur de produits interministériels</li>
   </ul>
-<li><b>le département « RH de la filière numérique de l’État » (RHN) :</b> Chef du département : à nommer. Adjoint : à nommer.</li>
+<li><b>le département « RH de la filière numérique de l’État » (RHN) :</b> Chef du département : à nommer.</li>
   <ul>
     <li>RH et attractivité</li>
     <li>Fidélisation des Parcours du numérique</li>
     <li>Campus du numérique</li>
   </ul>
 </ul>
-<p style="margin-top: 10px">Organigramme daté du 24 avril 2023</p>
+<p style="margin-top: 10px">Organigramme daté du 12 juin 2023</p>
 </div>
 </div>
 </div>
