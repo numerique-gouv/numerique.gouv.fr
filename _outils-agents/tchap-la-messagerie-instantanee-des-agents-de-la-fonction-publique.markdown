@@ -42,6 +42,8 @@ L'annuaire intégré de Tchap vous permet d'entrer en contact avec l'ensemble de
 
 ![fd9cf02c59dc77bd.png](/uploads/fd9cf02c59dc77bd.png)
 
+< img src="uploads/fd9cf02c59dc77bd.png" alt="capture" width=100% height=10% >
+
 ### Centralisez vos échanges
 
 Un seul canal d'échange : communiquez avec tous les agents publics, quelle que soit leur administration. Vous pouvez également inviter vos partenaires externes à se joindre à certains de vos échanges en créant des salons spécifiques. Tchap permet d’échanger des messages, des photos et des fichiers.
