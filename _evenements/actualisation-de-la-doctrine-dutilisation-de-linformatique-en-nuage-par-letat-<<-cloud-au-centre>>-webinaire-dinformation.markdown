@@ -8,7 +8,7 @@ tags:
 - Cloud
 chapeau-text: Données sensibles, utilisation du SecNumCloud,... vous saurez tout sur
   les tenants et les aboutissants de cette [circulaire](https://www.legifrance.gouv.fr/circulaire/id/45446?fonds=CIRC&page=1&pageSize=10&query=cloud&searchField=ALL&searchType=ALL&tab_selection=all&typePagination=DEFAULT)
-  de la Première Ministre signée ce 1 juin remplaçant le texte du 5 juillet 2021.
+  de la Première Ministre signée ce 1er juin remplaçant le texte du 5 juillet 2021.
 une-ou-diaporama:
 - image: "/uploads/Cloud_rubrique-be75e1.png"
 event_start_date: 2023-06-29 00:00:00 +02:00
