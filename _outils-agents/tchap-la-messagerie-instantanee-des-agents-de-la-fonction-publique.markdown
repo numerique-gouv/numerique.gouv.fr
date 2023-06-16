@@ -52,3 +52,9 @@ Si votre administration n’a pas encore accès à la messagerie, il vous suffit
 
 * Vous souhaitez en savoir plus ? N’hésitez pas à consulter notre [FAQ](https://aide.tchap.beta.gouv.fr/fr/) ou à contacter l’équipe à l’adresse [tchap@beta.gouv.fr](mailto:tchap@beta.gouv.fr)
 * Besoin d'aide pour vous en servir ? Le support est joignable à l'adresse [support@tchap.beta.gouv.fr](mailto:support@tchap.beta.gouv.fr)
+
+**Découvrir aussi :**
+
+* [Webinaire de l’État](/outils-agents/webinaire-etat/)
+
+* [Audioconférence de l’État](/outils-agents/audioconference-etat/)
