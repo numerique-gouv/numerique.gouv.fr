@@ -8,6 +8,8 @@ chapeau-text: |-
   Tchap est ouvert à tous les agents de la fonction publique, quel que soit leur statut.
 une:
   image: "/uploads/1635x345_Visuel_Tchap.jpg"
+une-ou-diaporama:
+  image: "/uploads/1635x345_Visuel_Tchap.jpg"
 ---
 
 ### Utilisez Tchap sur tous vos appareils
