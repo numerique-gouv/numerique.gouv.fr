@@ -36,6 +36,10 @@ L'annuaire intégré de Tchap vous permet d'entrer en contact avec l'ensemble de
 
 <img src="uploads/fd9cf02c59dc77bd.png" height="488" width="490" >
 
+<figure class='image-center' style='width: 6%;'>
+<img src="uploads/fd9cf02c59dc77bd.png" alt="">
+</figure>
+
 ![fd9cf02c59dc77bd.png](/uploads/fd9cf02c59dc77bd.png)
 
 ### Centralisez vos échanges
