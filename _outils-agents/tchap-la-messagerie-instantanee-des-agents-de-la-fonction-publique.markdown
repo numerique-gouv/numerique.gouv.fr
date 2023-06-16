@@ -7,10 +7,8 @@ tags:
 - Outils pour les agents
 - Sac à dos numérique de l'agent
 date_de_modification: 16 juin 2023
-chapeau-text: |-
-  Pour leurs discussions à distance, les agents publics peuvent compter sur Tchap, la messagerie instantanée conçue pour eux, opérée par l’État.
-
-  Tchap est ouvert à tous les agents de la fonction publique, quel que soit leur statut.
+chapeau-text: Tchap est ouvert à tous les agents de la fonction publique, quel que
+  soit leur statut.
 une:
   image: "/uploads/1635x345_Visuel_Tchap.jpg"
 une-ou-diaporama:
