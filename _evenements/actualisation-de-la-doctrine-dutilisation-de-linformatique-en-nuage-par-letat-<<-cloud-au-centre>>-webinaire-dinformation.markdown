@@ -18,7 +18,7 @@ champs_informations:
   contenu: 11h45 - 12h45
 - intitule: Modalités
   contenu: Gratuit, inscription obligatoire
-  Key: https://www.eventbrite.fr/e/billets-webinaire-actualisation-de-la-doctrine-cloud-au-centre-660346914397
+  lien: https://www.eventbrite.fr/e/billets-webinaire-actualisation-de-la-doctrine-cloud-au-centre-660346914397
 - intitule: Plus d'informations
   contenu: sur la doctrine Cloud au centre
   lien: https://www.numerique.gouv.fr/services/cloud/doctrine/
