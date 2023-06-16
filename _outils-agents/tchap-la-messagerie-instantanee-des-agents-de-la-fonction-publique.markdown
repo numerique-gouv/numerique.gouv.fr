@@ -1,6 +1,11 @@
 ---
 title: Tchap, la messagerie instantanée des agents de la fonction publique
 date: 2023-06-16 16:35:00 +02:00
+tags:
+- Tchap
+- Messagerie instantanée
+- Outils pour les agents
+- Sac à dos numérique de l'agent
 date_de_modification: 16 juin 2023
 chapeau-text: |-
   Pour leurs discussions à distance, les agents publics peuvent compter sur Tchap, la messagerie instantanée conçue pour eux, opérée par l’État.
@@ -10,6 +15,7 @@ une:
   image: "/uploads/1635x345_Visuel_Tchap.jpg"
 une-ou-diaporama:
   image: "/uploads/1635x345_Visuel_Tchap.jpg"
+layout: rgaa
 ---
 
 ### Utilisez Tchap sur tous vos appareils
