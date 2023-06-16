@@ -33,5 +33,3 @@ Ce webinaire sera animé par **Damien Elkind**, juriste droit numérique et droi
 Un temps d’échange est prévu en fin de séance, si vous avez des questions n’hésitez pas à nous les faire parvenir par retour de mail !
 
 <div align="center"><a href="https://www.eventbrite.fr/e/billets-webinaire-actualisation-de-la-doctrine-cloud-au-centre-660346914397" class="button"><b>S'inscrire</b></a></div>
-
-☁ Pour y participer, inscrivez-vous via ce lien/cette adresse 
