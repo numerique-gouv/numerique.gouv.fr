@@ -34,15 +34,7 @@ Tchap est disponible simultanément sur mobile, tablette et web, ainsi que sur l
 
 L'annuaire intégré de Tchap vous permet d'entrer en contact avec l'ensemble de ses membres. Pas besoin de connaître le numéro de téléphone de vos interlocuteurs : retrouvez-les simplement en recherchant leur prénom + nom ou leur adresse mail professionnelle.
 
-<img src="uploads/fd9cf02c59dc77bd.png" height="488" width="490" >
-
-<figure class='image-center' style='width: 6%;'>
-<img src="uploads/fd9cf02c59dc77bd.png" alt="">
-</figure>
-
 ![fd9cf02c59dc77bd.png](/uploads/fd9cf02c59dc77bd.png)
-
-< img src="uploads/fd9cf02c59dc77bd.png" alt="capture" width=100% height=10% >
 
 ### Centralisez vos échanges
 
