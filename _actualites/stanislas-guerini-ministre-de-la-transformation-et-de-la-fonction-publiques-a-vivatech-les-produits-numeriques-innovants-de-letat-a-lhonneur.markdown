@@ -2,6 +2,12 @@
 title: 'Stanislas Guérini, ministre de la Transformation et de la Fonction publiques
   à VivaTech : les produits numériques innovants de l’État à l’honneur'
 date: 2023-06-19 11:30:00 +02:00
+tags:
+- Technologie
+- VivaTech
+- Numérique
+- Innovation publique
+- Evènement
 chapeau-text: 'Stanislas Guérini, ministre de la Transformation et de la Fonction
   publiques à VivaTech : les produits numériques innovants de l’État à l’honneur.'
 ---
