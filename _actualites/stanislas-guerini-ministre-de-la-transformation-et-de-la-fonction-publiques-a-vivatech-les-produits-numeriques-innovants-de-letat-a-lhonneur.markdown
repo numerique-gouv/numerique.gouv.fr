@@ -17,4 +17,4 @@ une-ou-diaporama:
   legende: "© Bercy"
 ---
 
-<div class="lien-important"><p><a href="https://www.transformation.gouv.fr/ministre/actualite/au-salon-vivatech-les-produits-numeriques-innovants-de-letat-lhonneur">Lire la suite</a></p></div>
+<div class="lien-important"><p><a href="https://www.transformation.gouv.fr/ministre/actualite/au-salon-vivatech-les-produits-numeriques-innovants-de-letat-lhonneur">Lire la suite de l'article</a></p></div>
