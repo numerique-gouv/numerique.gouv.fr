@@ -13,7 +13,7 @@ tags:
 chapeau-text: 'Stanislas Guerini, ministre de la Transformation et de la Fonction
   publiques à VivaTech : les produits numériques innovants de l’État à l’honneur.'
 une-ou-diaporama:
-- image: "/uploads/VivaTech1_%C2%A9Bercy.jpg"
+- image: "/uploads/FysE_H5XwAEpxmj.jpg"
   legende: "© Bercy"
 ---
 
