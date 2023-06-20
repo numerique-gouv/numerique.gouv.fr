@@ -11,7 +11,7 @@ chapeau-text: 'Administrations, éditeurs de solutions numériques, intégrateur
   de conseil, découvrez l’offre de données interministérielle pour mettre en œuvre
   le principe « dites-le nous une fois » '
 une-ou-diaporama:
-- image: "/uploads/Gabarit%20visuel%20article-communique8.jpg"
+- image: "/uploads/20230620_1200x627_webinaire-API_linkedIn.png"
 event_start_date: 2023-06-27 11:00:00 +02:00
 lieu: Webinaire 100% en ligne
 champs_informations:
