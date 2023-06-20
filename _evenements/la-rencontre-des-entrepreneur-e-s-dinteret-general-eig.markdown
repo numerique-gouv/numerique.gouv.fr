@@ -6,8 +6,8 @@ categories:
 tags:
 - Entrepreneur d'Intérêt Général
 - EIG
-chapeau-text: Regards sur l'innovation publique. La rencontre des Entrepreneur(e)s
-  d'intérêt général. 6e promotion. Jeudi 29 juin 2023, auditorium de Ségur.
+chapeau-text: Découvrez les défis d’innovation publique et de transformation numérique
+  relevés par la 6ème promotion EIG.
 une-ou-diaporama:
 - image: "/uploads/EIG6.jpg"
 event_start_date: 2023-06-29 14:00:00 +02:00
