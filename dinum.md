@@ -75,7 +75,7 @@ function myFunction(id) {
     <li>Brigade d’intervention numérique</li>
     <li>Expertise, contrôle et maîtrise des risques</li>
     <li>Référentiels, capitalisation et Observatoires</li>
-    <li>Proactivité</b></li>
+    <li>Proactivité</li>
     <li>Transformation numérique des territoires</li>
     <li>Mission logiciels libres</li>
   </ul>
