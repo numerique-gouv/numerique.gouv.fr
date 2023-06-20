@@ -33,11 +33,11 @@ Que vous soyez manager de transformation publique, agent(e), entrepreneur(e), sp
 
 ### **Regards sur l'innovation publique**
 
-* 14 h 00 – Accueil café
+* **14 h 00 – Accueil café**
 
-* 15 h 00 - Discours d'ouverture, par Ishan Bhojwani, chef du département « Incubateur de services numériques »
+* **15 h 00 - Discours d'ouverture, par Ishan Bhojwani**, chef du département « Incubateur de services numériques »
 
-* 15 h 10 - Pich du défi Champollion, porté par le Secrétariat général des ministères chargés des affaires sociales
+* **15 h 10 - [Pich du défi Champollion](https://eig.etalab.gouv.fr/defis/champollion/)**, porté par le Secrétariat général des ministères chargés des affaires sociales
 
 * 15 h 15 - Pitch du défi État bas carbone, porté par le Commissariat général au développement durable
 
