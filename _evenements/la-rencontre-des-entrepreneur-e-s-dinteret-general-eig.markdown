@@ -37,13 +37,13 @@ Que vous soyez manager de transformation publique, agent(e), entrepreneur(e), sp
 
 * **15h00 - Discours d'ouverture, par Ishan Bhojwani**, chef du département « Incubateur de services numériques »
 
-* **15h10 - Pich du défi [Champollion](https://eig.etalab.gouv.fr/defis/champollion/)**, porté par le Secrétariat général des ministères chargés des affaires sociales
+* **15h10 - Pitch du défi [Champollion](https://eig.etalab.gouv.fr/defis/champollion/)**, porté par le Secrétariat général des ministères chargés des affaires sociales
 
 * **15h15 - Pitch du défi [État bas carbone](https://eig.etalab.gouv.fr/defis/etat-bas-carbone/)**, porté par le Commissariat général au développement durable
 
 * **15h20 - Table-ronde sur le thème « Déconstruire les mythes de la transformation numérique »**
 
-* **15h30 - Intermède vidéo sur le défi [SIRANO](https://eig.etalab.gouv.fr/defis/sirano/)**, porté par le ministère des Solidarités et de la Santé
+* **15h30 - Intermède vidéo sur le défi [SIRANo](https://eig.etalab.gouv.fr/defis/sirano/)**, porté par le ministère des Solidarités et de la Santé
 
 * **15h35 - Pitch du défi [OptiFlex](https://eig.etalab.gouv.fr/defis/optiflex/)**, porté par le ministère des Armées
 
@@ -53,9 +53,9 @@ Que vous soyez manager de transformation publique, agent(e), entrepreneur(e), sp
 
 * **15h55 - Intermède vidéo sur le défi [ArtificIA](https://eig.etalab.gouv.fr/defis/artificia/)**, porté par l'Institut national de l’information géographique et forestière
 
-* **16h00 - Pitch du défi [Estim'action](https://eig.etalab.gouv.fr/defis/estim-action/)**, porté par le Cerema
+* **16h00 - Pitch du défi [Estim'Action](https://eig.etalab.gouv.fr/defis/estim-action/)**, porté par le Cerema
 
-* **16h05 - PItch du défi [Écosphère(s)](https://eig.etalab.gouv.fr/defis/ecospheres/)**, porté par le Commissariat général au développement durable
+* **16h05 - Pitch du défi [Écosphère(s)](https://eig.etalab.gouv.fr/defis/ecospheres/)**, porté par le Commissariat général au développement durable
 
 * **16h10 - Table-ronde sur le thème « Maîtriser les externalités du numérique public »**
 
