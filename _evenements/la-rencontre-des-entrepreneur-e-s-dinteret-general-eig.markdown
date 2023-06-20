@@ -33,42 +33,42 @@ Que vous soyez manager de transformation publique, agent(e), entrepreneur(e), sp
 
 ### **Regards sur l'innovation publique**
 
-* **14 h 00 – Accueil café**
+* **14h00 – Accueil café**
 
-* **15 h 00 - Discours d'ouverture, par Ishan Bhojwani**, chef du département « Incubateur de services numériques »
+* **15h00 - Discours d'ouverture, par Ishan Bhojwani**, chef du département « Incubateur de services numériques »
 
-* **15 h 10 - Pich du défi [Champollion](https://eig.etalab.gouv.fr/defis/champollion/)**, porté par le Secrétariat général des ministères chargés des affaires sociales
+* **15h10 - Pich du défi [Champollion](https://eig.etalab.gouv.fr/defis/champollion/)**, porté par le Secrétariat général des ministères chargés des affaires sociales
 
-* **15 h 15 - Pitch du défi [État bas carbone](https://eig.etalab.gouv.fr/defis/etat-bas-carbone/)**, porté par le Commissariat général au développement durable
+* **15h15 - Pitch du défi [État bas carbone](https://eig.etalab.gouv.fr/defis/etat-bas-carbone/)**, porté par le Commissariat général au développement durable
 
-* **15 h 20 - Table-ronde sur le thème « Déconstruire les mythes de la transformation numérique »**
+* **15h20 - Table-ronde sur le thème « Déconstruire les mythes de la transformation numérique »**
 
-* **15 h 30 - Intermède vidéo sur le défi [SIRANO](https://eig.etalab.gouv.fr/defis/sirano/)**, porté par le ministère des Solidarités et de la Santé
+* **15h30 - Intermède vidéo sur le défi [SIRANO](https://eig.etalab.gouv.fr/defis/sirano/)**, porté par le ministère des Solidarités et de la Santé
 
-* **15 h 35 - Pitch du défi [OptiFlex](https://eig.etalab.gouv.fr/defis/optiflex/)**, porté par le ministère des Armées
+* **15h35 - Pitch du défi [OptiFlex](https://eig.etalab.gouv.fr/defis/optiflex/)**, porté par le ministère des Armées
 
-* **15 h 40 - Pitch du défi [Nubonyxia](https://eig.etalab.gouv.fr/defis/nubonyxia/)**, porté par le Secrétariat général des ministères économiques et financiers
+* **15h40 - Pitch du défi [Nubonyxia](https://eig.etalab.gouv.fr/defis/nubonyxia/)**, porté par le Secrétariat général des ministères économiques et financiers
 
-* **15 h 45 - Table-ronde sur le thème « Recruter et fidéliser les talents du numérique »**
+* **15h45 - Table-ronde sur le thème « Recruter et fidéliser les talents du numérique »**
 
-* **15 h 55 - Intermède vidéo sur le défi [ArtificIA](https://eig.etalab.gouv.fr/defis/artificia/)**, porté par l'Institut national de l’information géographique et forestière
+* **15h55 - Intermède vidéo sur le défi [ArtificIA](https://eig.etalab.gouv.fr/defis/artificia/)**, porté par l'Institut national de l’information géographique et forestière
 
-* **16 h 00 - Pitch du défi [Estim'action](https://eig.etalab.gouv.fr/defis/estim-action/)**, porté par le Cerema
+* **16h00 - Pitch du défi [Estim'action](https://eig.etalab.gouv.fr/defis/estim-action/)**, porté par le Cerema
 
-* **16 h 05 - PItch du défi [Écosphère(s)](https://eig.etalab.gouv.fr/defis/ecospheres/)**, porté par le Commissariat général au développement durable
+* **16h05 - PItch du défi [Écosphère(s)](https://eig.etalab.gouv.fr/defis/ecospheres/)**, porté par le Commissariat général au développement durable
 
-* **16 h 10 - Table-ronde sur le thème « Maîtriser les externalités du numérique public »**
+* **16h10 - Table-ronde sur le thème « Maîtriser les externalités du numérique public »**
 
-* **16 h 20 - Intermède vidéo sur le défi [TwinCity](https://eig.etalab.gouv.fr/defis/twincity/)**, porté par le ministère de l’Intérieur
+* **16h20 - Intermède vidéo sur le défi [TwinCity](https://eig.etalab.gouv.fr/defis/twincity/)**, porté par le ministère de l’Intérieur
 
-* **16 h 25 - Pitch du défi [Géocommuns](https://eig.etalab.gouv.fr/defis/geocommuns/)**, porté par l'Institut national de l’information géographique et forestière
+* **16h25 - Pitch du défi [Géocommuns](https://eig.etalab.gouv.fr/defis/geocommuns/)**, porté par l'Institut national de l’information géographique et forestière
 
-* **16 h 30 - Pitch du défi [S0S Ponts](https://eig.etalab.gouv.fr/defis/sos-ponts/)**, porté par le Cerema
+* **16h30 - Pitch du défi [S0S Ponts](https://eig.etalab.gouv.fr/defis/sos-ponts/)**, porté par le Cerema
 
-* **16 h 35 - Table-ronde sur le thème « Entreprendre pour le service public au-delà du programme EIG »**
+* **16h35 - Table-ronde sur le thème « Entreprendre pour le service public au-delà du programme EIG »**
 
-* **16 h 45 - Discours de clôture de Stéphanie Schaer**, directrice interministérielle du numérique
+* **16h45 - Discours de clôture de Stéphanie Schaer**, directrice interministérielle du numérique
 
-* **17 h 00 - Cocktail**
+* **17h00 - Cocktail**
 
 *Ce programme est à titre indicatif et est susceptible d’être modifié.*
