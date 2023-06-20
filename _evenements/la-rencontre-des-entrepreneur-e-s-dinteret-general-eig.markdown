@@ -21,7 +21,7 @@ champs_informations:
   lien: https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-6eme-promotion-634720745837
 ---
 
-Au terme de 10 mois dans la fonction publique, les EIG ont le plaisir de vous inviter le **jeudi 29 juin 2023** à leur cérémonie de clôture pour vous présenter leur avancées et leurs apprentissages. 
+Au terme de 10 mois dans la fonction publique, le [programme EIG](https://eig.etalab.gouv.fr/) a le plaisir de vous inviter le **jeudi 29 juin 2023** à leur cérémonie de clôture pour vous présenter leur avancées et leurs apprentissages. 
 
 Au programme de cet après-midi, des pitchs et des vidéos de projets entrepreneuriaux, ainsi que des tables-rondes avec les talents du numérique qui vous partageront leurs secrets de cuisine pour concocter des services innovants, mais aussi un cocktail pour se rencontrer, s’inspirer et apprendre les un(e)s des autres.
 
