@@ -27,7 +27,7 @@ Au programme de cet après-midi, des pitchs et des vidéos de projets entreprene
 
 Que vous soyez manager de transformation publique, agent(e), entrepreneur(e), spécialiste du numérique, étudiant(e) ou passionné(e) d'innovation, nous vous invitons à nous rejoindre pour découvrir ce que l'entrepreneuriat apporte à l'innovation publique.
 
-Je réserve dès à présent ma place
+<div align="center"><a href="https://www.eventbrite.fr/e/billets-regards-sur-linnovation-publique-la-rencontre-des-eig-6eme-promotion-634720745837" class="button"><b>Je réserve dès à présent ma place</b></a></div>
 
 ## Déroulé de la rencontre
 
