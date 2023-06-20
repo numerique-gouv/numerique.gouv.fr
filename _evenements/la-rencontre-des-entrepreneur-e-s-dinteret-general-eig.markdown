@@ -37,15 +37,15 @@ Que vous soyez manager de transformation publique, agent(e), entrepreneur(e), sp
 
 * **15 h 00 - Discours d'ouverture, par Ishan Bhojwani**, chef du département « Incubateur de services numériques »
 
-* **15 h 10 - [Pich du défi Champollion](https://eig.etalab.gouv.fr/defis/champollion/)**, porté par le Secrétariat général des ministères chargés des affaires sociales
+* **15 h 10 - Pich du défi [Champollion](https://eig.etalab.gouv.fr/defis/champollion/)**, porté par le Secrétariat général des ministères chargés des affaires sociales
 
-* 15 h 15 - Pitch du défi État bas carbone, porté par le Commissariat général au développement durable
+* **15 h 15 - Pitch du défi [État bas carbone](https://eig.etalab.gouv.fr/defis/etat-bas-carbone/)**, porté par le Commissariat général au développement durable
 
-* 15 h 20 - Table-ronde sur le thème « Déconstruire les mythes de la transformation numérique »
+* **15 h 20 - Table-ronde sur le thème « Déconstruire les mythes de la transformation numérique »**
 
-* 15 h 30 - Intermède vidéo sur le défi SIRANO, porté par le ministère des Solidarités et de la Santé
+* **15 h 30 - Intermède vidéo sur le défi [SIRANO](https://eig.etalab.gouv.fr/defis/sirano/)**, porté par le ministère des Solidarités et de la Santé
 
-* 15 h 35 - Pitch du défi OptiFlex, porté par le ministère des Armées
+* **15 h 35 - Pitch du défi [OptiFlex](https://eig.etalab.gouv.fr/defis/optiflex/)**, porté par le ministère des Armées
 
 * 15 h 40 - Pitch du défi Nubonyxia, porté par le Secrétariat général des ministères économiques et financiers
 
