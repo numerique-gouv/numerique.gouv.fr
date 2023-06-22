@@ -24,12 +24,12 @@ champs_informations:
   lien: https://www.numerique.gouv.fr/services/cloud/doctrine/
 ---
 
-Nous sommes heureux de vous convier à ce nouveau webinaire de la communauté Cloud de l’État **jeudi 29 juin de 11h45 à 12h45** sur l'Actualisation de la doctrine d'utilisation de l'informatique en nuage par l'État (« cloud au centre»).
+Administration, fournisseur de solutions cloud, société de conseil, agents publics, que vous ayez un profil métier ou technique, en posture managériale ou membre d'équipe découvrez les points saillant de la récente actualisation de la doctrine d’utilisation de l’informatique en nuage par l’État (« cloud au centre»).
 
 <div align="center"><a href="https://www.numerique.gouv.fr/services/cloud/doctrine/" class="button"><b>Plus d'infos sur la doctrine Cloud au centre</b></a></div>
 
-Ce webinaire sera animé par **Damien Elkind**, juriste droit numérique et droit public et **Vincent Coudrin**, expert cloud, tous deux agents de la DINUM (Direction interministérielle du numérique). 
+Ce webinaire aura lieu ce **jeudi 29 juin de 11h45 à 12h45** et sera animé par **Damien Elkind**, juriste en droit numérique et droit public, et **Vincent Coudrin**, expert en cloud, tous deux agents de la DINUM (Direction interministérielle du numérique).
 
-Un temps d’échange est prévu en fin de séance, si vous avez des questions n’hésitez pas à nous les faire parvenir par retour de mail !
+Un **temps d’échange** est prévu en fin de séance, si vous avez des questions n’hésitez pas à nous les faire parvenir par mail à l’adresse : [infonuage.dinum@modernisation.gouv.fr ](mailto:infonuage.dinum@modernisation.gouv.fr)
 
 <div align="center"><a href="https://www.eventbrite.fr/e/billets-webinaire-actualisation-de-la-doctrine-cloud-au-centre-660346914397" class="button"><b>S'inscrire</b></a></div>
