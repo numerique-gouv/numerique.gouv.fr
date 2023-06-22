@@ -34,7 +34,7 @@ Tchap est disponible simultanément sur mobile, tablette et web, ainsi que sur l
 
 L'annuaire intégré de Tchap vous permet d'entrer en contact avec l'ensemble de ses membres. Pas besoin de connaître le numéro de téléphone de vos interlocuteurs : retrouvez-les simplement en recherchant leur prénom + nom ou leur adresse mail professionnelle.
 
-<div align="center">![Tchap-contacts.png](/uploads/Tchap-contacts.png)</div>
+![Tchap-contacts.png](/uploads/Tchap-contacts.png)
 
 ### Centralisez vos échanges
 
@@ -43,10 +43,6 @@ Un seul canal d'échange : communiquez avec tous les agents publics, quelle que 
 ### Partagez vos centres d’intérêt
 
 Les forums publics couvrent vos centres d'intérêt professionnels (mais pas que !), avec des thématiques communes à toutes les administrations : innovation publique, formations en ligne, cybersécurité, partage de bons plans... Et si vous ne trouvez pas votre bonheur, créez un nouveau forum !
-
-<div style="text-align: center;">
-
-<img src="/uploads/Tchap-forums.png">
 
 ![Tchap-forums.png](/uploads/Tchap-forums.png)
 
