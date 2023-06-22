@@ -34,7 +34,7 @@ Tchap est disponible simultanément sur mobile, tablette et web, ainsi que sur l
 
 L'annuaire intégré de Tchap vous permet d'entrer en contact avec l'ensemble de ses membres. Pas besoin de connaître le numéro de téléphone de vos interlocuteurs : retrouvez-les simplement en recherchant leur prénom + nom ou leur adresse mail professionnelle.
 
-![Tchap-contacts.png](/uploads/Tchap-contacts.png)
+<div align="center">![Tchap-contacts.png](/uploads/Tchap-contacts.png)</div>
 
 ### Centralisez vos échanges
 
@@ -44,7 +44,7 @@ Un seul canal d'échange : communiquez avec tous les agents publics, quelle que 
 
 Les forums publics couvrent vos centres d'intérêt professionnels (mais pas que !), avec des thématiques communes à toutes les administrations : innovation publique, formations en ligne, cybersécurité, partage de bons plans... Et si vous ne trouvez pas votre bonheur, créez un nouveau forum !
 
-![Tchap-forums.png](/uploads/Tchap-forums.png)
+<div align="center">![Tchap-forums.png](/uploads/Tchap-forums.png)</div>
 
 ### Bénéficiez d’une application souveraine
 Tchap est conçue et hébergée en France. L'Etat en maîtrise donc l'infrastructure et les développements, spécialement pensés pour répondre aux besoins des agents publics.
