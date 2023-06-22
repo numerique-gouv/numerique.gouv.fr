@@ -44,7 +44,11 @@ Un seul canal d'échange : communiquez avec tous les agents publics, quelle que 
 
 Les forums publics couvrent vos centres d'intérêt professionnels (mais pas que !), avec des thématiques communes à toutes les administrations : innovation publique, formations en ligne, cybersécurité, partage de bons plans... Et si vous ne trouvez pas votre bonheur, créez un nouveau forum !
 
-<center>![Tchap-forums.png](/uploads/Tchap-forums.png)</center>
+<div style="text-align: center;">
+
+<img src="/uploads/Tchap-forums.png">
+
+![Tchap-forums.png](/uploads/Tchap-forums.png)
 
 ### Bénéficiez d’une application souveraine
 Tchap est conçue et hébergée en France. L'Etat en maîtrise donc l'infrastructure et les développements, spécialement pensés pour répondre aux besoins des agents publics.
