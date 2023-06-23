@@ -206,7 +206,7 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-rh-et-attractivite-hf-reference-2023-1215498/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurtrice-de-projet-campus-du-numerique-reference-2023-1215501/" title="Directeur(trice) de projet "Campus du numérique" H/F - Lien externe">Directeur(trice) de projet "Campus du numérique" H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurtrice-de-projet-campus-du-numerique-reference-2023-1215501/" title="Directeur/trice de projet Campus du numérique H/F - Lien externe">Directeur/trice de projet Campus du numérique H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurtrice-de-projet-campus-du-numerique-reference-2023-1215501/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
