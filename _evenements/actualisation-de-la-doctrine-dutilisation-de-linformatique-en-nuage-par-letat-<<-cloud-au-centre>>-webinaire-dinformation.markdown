@@ -24,7 +24,9 @@ champs_informations:
   lien: https://www.numerique.gouv.fr/services/cloud/doctrine/
 ---
 
-Administration, fournisseur de solutions cloud, société de conseil, agents publics, que vous ayez un profil métier ou technique, en posture managériale ou membre d'équipe découvrez les points saillant de la récente actualisation de la doctrine d’utilisation de l’informatique en nuage par l’État (« cloud au centre»).
+Découvrez les points saillant de la récente actualisation de la doctrine d’utilisation de l’informatique en nuage par l’État (« cloud au centre»).
+
+Ce webinaire s’adresse particulièrement à vous, agents publics, que vous ayez un profil métier ou technique, que vous soyez en posture managériale ou membre d'équipe. Il est aussi ouvert à des fournisseurs de solutions cloud et sociétés de conseil.
 
 <div align="center"><a href="https://www.numerique.gouv.fr/services/cloud/doctrine/" class="button"><b>Plus d'infos sur la doctrine Cloud au centre</b></a></div>
 
