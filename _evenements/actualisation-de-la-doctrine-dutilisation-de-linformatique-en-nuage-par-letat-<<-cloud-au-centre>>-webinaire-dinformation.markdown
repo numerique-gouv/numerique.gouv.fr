@@ -15,7 +15,7 @@ event_start_date: 2023-06-29 00:00:00 +02:00
 lieu: Evènement 100% en ligne sous forme de webinaire
 champs_informations:
 - intitule: Horaires
-  contenu: 11h45 - 12h45
+  contenu: 12h - 13h
 - intitule: Modalités
   contenu: Gratuit, inscription obligatoire
   lien: https://www.eventbrite.fr/e/billets-webinaire-actualisation-de-la-doctrine-cloud-au-centre-660346914397
@@ -30,7 +30,7 @@ Ce webinaire s’adresse particulièrement à vous, agents publics, que vous aye
 
 <div align="center"><a href="https://www.numerique.gouv.fr/services/cloud/doctrine/" class="button"><b>Plus d'infos sur la doctrine Cloud au centre</b></a></div>
 
-Ce webinaire aura lieu ce **jeudi 29 juin de 11h45 à 12h45** et sera animé par **Damien Elkind**, juriste en droit numérique et droit public, et **Vincent Coudrin**, expert en cloud, tous deux agents de la DINUM (Direction interministérielle du numérique).
+Ce webinaire aura lieu ce **jeudi 29 juin de 12h à 13h** et sera animé par **Damien Elkind**, juriste en droit numérique et droit public, et **Vincent Coudrin**, expert en cloud, tous deux agents de la DINUM (Direction interministérielle du numérique).
 
 Un **temps d’échange** est prévu en fin de séance, si vous avez des questions n’hésitez pas à nous les faire parvenir par mail à l’adresse : [infonuage.dinum@modernisation.gouv.fr ](mailto:infonuage.dinum@modernisation.gouv.fr)
 
