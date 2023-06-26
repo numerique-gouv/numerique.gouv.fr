@@ -18,7 +18,7 @@ Pour lutter contre l’usurpation d’identités et les fraudes liées au Compte
 
 ## FranceConnect+ simplifie et sécurise l’accès à des démarches sensibles
 
-Créé et opéré par la DINUM, **FranceConnect+** est **une version plus sécurisée** encore de [FranceConnect](https://franceconnect.gouv.fr/franceconnect), la solution proposée par l’État qui simplifie la connexion à **plus de 1 400 services en ligne**, déjà utilisé par **40 millions de personnes**.
+Créé et opéré par la DINUM, **FranceConnect+** est **une version plus sécurisée** de [FranceConnect](https://franceconnect.gouv.fr/franceconnect), la solution proposée par l’État qui simplifie la connexion à **plus de 1 400 services en ligne**, déjà utilisé par **40 millions de personnes**.
 
 Avec une authentification renforcée, à deux facteurs, similaire à ce que les utilisateurs connaissent pour leurs transactions bancaires, FranceConnect+ est destiné à accéder à des **démarches plus sensibles**, comme ouvrir un compte bancaire, accéder à son dossier médical, recevoir des lettres recommandées électroniques… Il permet notamment de sécuriser les démarches **qui incluent une transaction financière, un changement de RIB…** afin de limiter les risques de fraudes.
 
