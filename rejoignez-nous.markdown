@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 29 juin 2023
+date_de_modification: 30 juin 2023
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -206,12 +206,6 @@ layout: page-annexe
 <h1 class="h3"><b>RH de la filière numérique de l’État</b></h1>
 <div class="wrapper">
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-de-la-cheffe-du-pole-rh-et-attractivite---referent-e-sur-la-grh-de-proximite-hf-reference-2023-1234955/" title="Adjoint/e de la cheffe du pôle RH et attractivité - Référent/e sur la GRH de proximité H/F - Lien externe">Adjoint/e de la cheffe du pôle RH et attractivité - Référent/e sur la GRH de proximité H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/adjointe-de-la-cheffe-du-pole-rh-et-attractivite---referent-e-sur-la-grh-de-proximite-hf-reference-2023-1234955/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-rh-et-attractivite-hf-reference-2023-1215498/" title="Chargé/e de mission RH et attractivité H/F - Lien externe">Chargé/e de mission RH et attractivité H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -229,12 +223,6 @@ layout: page-annexe
 
 <h1 class="h3"><b>Direction</b></h1>
 <div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/2023-1201291/" title="Chef/fe de cabinet H/F - Lien externe">Chef/fe de cabinet H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chefe-de-cabinet-hf-reference-2023-1234945/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-hf-reference-2023-1174798/" title="Assistant/e de direction H/F
  H/F - Lien externe">Assistant/e de direction H/F</a></b>
