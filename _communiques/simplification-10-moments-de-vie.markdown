@@ -16,7 +16,7 @@ chapeau-text: 'Pour aller plus loin dans la simplification et l’amélioration 
 une-ou-diaporama:
 - image: "/uploads/photo%20page%2018%20(2).jpg"
 files:
-- file: "/uploads/CP_SIMPLICATION_DES_10_MOMENTS_DE_VIE.pdf"
+- file: "/uploads/CP_SIMPLIFICATION_DES_10_MOMENTS_DE_VIE.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
