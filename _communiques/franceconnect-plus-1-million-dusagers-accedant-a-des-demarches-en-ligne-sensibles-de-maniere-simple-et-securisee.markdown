@@ -19,6 +19,9 @@ chapeau-text: Afin de simplifier et sécuriser l’accès aux démarches les plu
   sécurisée de FranceConnect venant d’atteindre un million d’usagers.
 une-ou-diaporama:
 - image: "/uploads/Screenshot%202023-07-04%20at%2012-51-51%20Franceconnect%20-%20Acc%C3%A9dez%20simplement%20aux%20services%20publics.png"
+files:
+- file: "/uploads/CP_FRANCECONNECT%20_1_MILLION_D_USAGERS.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Avec une authentification renforcée, à deux facteurs, similaire à ce que les usagers connaissent déjà pour leurs transactions bancaires, FranceConnect+ simplifie et sécurise l’accès à des démarches sensibles incluant des transactions financières ou la consultation de données personnelles telles que le dossier médical ; et est aussi une solution pour lutter contre les tentatives de fraudes et répondre aux exigences de sécurité de ces démarches. Ce sont les raisons pour lesquelles FranceConnect+ est devenue, depuis octobre 2022, la clé d’entrée pour acheter une formation sur la plateforme moncompteformation.gouv.fr liée au Compte personnel de formation (CPF) ayant eu pour effet de réduire drastiquement les problématiques de fraudes rencontrées et lutter contre l’usurpation d’identités. 
