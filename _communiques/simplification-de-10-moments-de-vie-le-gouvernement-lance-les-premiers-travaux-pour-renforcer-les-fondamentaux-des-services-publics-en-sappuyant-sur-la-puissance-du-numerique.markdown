@@ -5,11 +5,19 @@ title: 'Simplification de 10 moments de vie : le Gouvernement lance les premiers
 date: 2023-07-04 12:50:00 +02:00
 categories:
 - Communiqué de presse
+tags:
+- Démarches administratives
+- transformation numérique
 chapeau-text: 'Pour aller plus loin dans la simplification et l’amélioration des démarches
   administratives des Français et lutter contre la complexité administrative, la Première
   ministre a annoncé, le 9 mai dernier, lors du comité interministériel de la transformation
   publique, le lancement d’une nouvelle méthode d’action gouvernementale s’attachant
   à mieux considérer les grands évènements de la vie. '
+une-ou-diaporama:
+- image: "/uploads/photo%20page%2018%20(2).jpg"
+files:
+- file: "/uploads/CP_SIMPLICATION_DES_10_MOMENTS_DE_VIE.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Concrètement, il s’agit d’une approche par « moments de vie » en partant des difficultés rencontrées par les usagers des services publics pour y apporter des solutions en considérant les parcours dans leur ensemble. L’intérêt est aussi de décloisonner les approches afin d’appliquer le droit à l’erreur et le principe du « Dites-le nous une fois ».
