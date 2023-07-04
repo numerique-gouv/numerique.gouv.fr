@@ -3,6 +3,12 @@ title: 'FranceConnect+ : 1 million d’usagers accédant à des démarches en li
   de manière simple et sécurisée'
 date: 2023-07-04 14:00:00 +02:00
 published: false
+categories:
+- Communiqué de presse
+tags:
+- FranceConnect
+- Démarches administratives
+- transformation numérique
 chapeau-text: Afin de simplifier et sécuriser l’accès aux démarches les plus sensibles
   nécessitant une sécurité accrue telles que l’ouverture d’un compte bancaire, la
   consultation de son dossier médical ou de lettres recommandées électroniques, l’État
