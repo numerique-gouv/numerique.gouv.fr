@@ -1,5 +1,5 @@
 ---
-title: 'Simplification de 10 moments de vie : le Gouvernement lance les premiers travaux
+title: 'Simplification de 10 moments de vie : le gouvernement lance les premiers travaux
   pour renforcer les fondamentaux des services publics en s’appuyant sur la puissance
   du numérique'
 date: 2023-07-04 12:50:00 +02:00
