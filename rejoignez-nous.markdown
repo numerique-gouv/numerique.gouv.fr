@@ -216,7 +216,6 @@ layout: page-annexe
 
 Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul notre site de Paris est accessible aux personnes à mobilité réduite. 
 </p></div><br>
-<br>
 
 <div class="encadre noir"><h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
