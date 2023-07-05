@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 4 juillet 2023
+date_de_modification: 5 juillet 2023
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -48,6 +48,12 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-operations-reference-2023-1262405/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/conseillerere-senior-en-transformation-numerique-hf-reference-2023-1272415/" title="Conseiller(ère) sénior en transformation numérique  H/F - Lien externe">Conseiller(ère) sénior en transformation numérique H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/conseillerere-senior-en-transformation-numerique-hf-reference-2023-1272415/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
@@ -194,6 +200,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-hf-reference-2023-1174798/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/collaborateurtrice-de-cabinet-hf-reference-2023-1272435/" title="Collaborateur(trice) de cabinet H/F - Lien externe">Collaborateur(trice) de cabinet H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/collaborateurtrice-de-cabinet-hf-reference-2023-1272435/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
@@ -204,8 +216,13 @@ layout: page-annexe
 
 Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul notre site de Paris est accessible aux personnes à mobilité réduite. 
 </p></div><br>
-<br>
 
+<div class="encadre noir"><h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
+<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
+<p><strong>Ministères de la Transition Écologique, de la Cohésion des Territoires, de la Transition Énergétique et de la Mer</strong></p>
+<ul><li class="margin-bottom-1"><strong><a href="https://www.recrutement.developpement-durable.gouv.fr/offre-de-emploi/emploi-conseiller-ere-en-strategie-numerique_1272105.aspx" title="Conseiller(ère) en stratégie numérique - Lien externe">Conseiller(ère) en stratégie numérique, F/H</a></strong><br>Cadre/Catégorie A+</li></ul>
+<ul><li class="margin-bottom-1"><strong><a href="https://www.recrutement.developpement-durable.gouv.fr/offre-de-emploi/emploi-conseiller-ere-technique-en-strategie-numerique_1272117.aspx" title="Conseiller(ère) technique en stratégie numérique - Lien externe">Conseiller(ère) technique en stratégie numérique, F/H</a></strong><br>Cadre/Catégorie A+</li></ul>
+</div>
 
 <!-- <h2 id="et-aussi-dans-dautres-administrations" style="margin-bottom: 0px">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h2>
 <p class="margin-bottom-1">Zoom sur quelques offres d'emploi clés dans le numérique public&nbsp;:</p> 
