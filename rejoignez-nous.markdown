@@ -219,7 +219,7 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 
 <div class="encadre noir"><h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
 <p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
-<p><strong>Ministères Transition écologique, cohésion des territoires, transition énergétiques et mer</strong></p>
+<p><strong>Ministères de la Transition Écologique, de la Cohésion des Territoires, de la Transition Énergétique et de la Mer</strong></p>
 <ul><li class="margin-bottom-1"><strong><a href="https://www.recrutement.developpement-durable.gouv.fr/offre-de-emploi/emploi-conseiller-ere-en-strategie-numerique_1272105.aspx" title="Conseiller(ère) en stratégie numérique - Lien externe">Conseiller(ère) en stratégie numérique, F/H</a></strong><br>Cadre/Catégorie A+</li></ul>
 <ul><li class="margin-bottom-1"><strong><a href="https://www.recrutement.developpement-durable.gouv.fr/offre-de-emploi/emploi-conseiller-ere-technique-en-strategie-numerique_1272117.aspx" title="Conseiller(ère) technique en stratégie numérique - Lien externe">Conseiller(ère) technique en stratégie numérique, F/H</a></strong><br>Cadre/Catégorie A+</li></ul>
 </div>
