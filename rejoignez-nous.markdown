@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 4 juillet 2023
+date_de_modification: 5 juillet 2023
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -206,6 +206,12 @@ Toutes nos offres sont ouvertes aux personnes en situation de handicap mais seul
 </p></div><br>
 <br>
 
+<div class="encadre noir"><h3 id="et-aussi-dans-dautres-administrations">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h3>
+<p class="margin-bottom-1">Zoom sur quelques postes dans le numérique public&nbsp;:</p> 
+<p><strong>Ministères Transition écologique, cohésion des territoires, transition énergétiques et mer</strong></p>
+<ul><li class="margin-bottom-1"><strong><a href="https://www.recrutement.developpement-durable.gouv.fr/offre-de-emploi/emploi-conseiller-ere-en-strategie-numerique_1272105.aspx" title="Conseiller(ère) en stratégie numérique - Lien externe">Conseiller(ère) en stratégie numérique, F/H</a></strong><br>Cadre/Catégorie A+</li></ul>
+<ul><li class="margin-bottom-1"><strong><a href="https://www.recrutement.developpement-durable.gouv.fr/offre-de-emploi/emploi-conseiller-ere-technique-en-strategie-numerique_1272117.aspx" title="Conseiller(ère) technique en stratégie numérique - Lien externe">Conseiller(ère) technique en stratégie numérique, F/H</a></strong><br>Cadre/Catégorie A+</li></ul>
+</div>
 
 <!-- <h2 id="et-aussi-dans-dautres-administrations" style="margin-bottom: 0px">Et aussi, dans d’autres administrations…<a id="offresministeres"></a></h2>
 <p class="margin-bottom-1">Zoom sur quelques offres d'emploi clés dans le numérique public&nbsp;:</p> 
