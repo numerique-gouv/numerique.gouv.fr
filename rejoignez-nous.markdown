@@ -168,7 +168,7 @@ layout: page-annexe
 <br>
 <br>
 
-<h1 class="h3"><b>Budget Achats</b></h1>
+<h1 class="h3"><b>Budget / Achats</b></h1>
 <div class="wrapper">
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-ftap-fonds-de-transformation-de-l-action-publique-hf-reference-2023-1276861/" title="Chargé/e de mission FTAP (Fonds de transformation de l'action publique) H/F - Lien externe">Chargé/e de mission FTAP (Fonds de transformation de l'action publique) H/F</a></b>
