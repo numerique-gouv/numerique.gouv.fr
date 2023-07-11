@@ -16,6 +16,8 @@ chapeau-text: Afin d’améliorer et faciliter les démarches en ligne, la direc
   ayant créé et opérant FranceConnect, s’associe, avec la Caisse nationale de l'Assurance
   Maladie (Cnam), à BNP Paribas Cardif permettant à ses assurés de bénéficier d’un
   parcours de prise en charge simplifié et encore plus sécurisé.
+une-ou-diaporama:
+- image: "/uploads/computer-1185626_1920.jpg"
 files:
 - file: "/uploads/CP_SIMPLIFICATION_DEMARCHES_ADMINISTRATIVES_FRANCECONNECT_CNAM_BNP_PARIBAS_CARDIF.pdf"
   nom: Télécharger le communiqué de presse
