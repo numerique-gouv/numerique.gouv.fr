@@ -3,6 +3,7 @@ title: 'Simplification des démarches d’indemnisation : FranceConnect, la cais
   de l’assurance maladie et BNP Paribas Cardif s’associent pour simplifier le traitement
   des sinistres et le parcours d’indemnisation'
 date: 2023-07-11 17:02:00 +02:00
+published: false
 categories:
 - Communiqué de presse
 tags:
@@ -15,6 +16,9 @@ chapeau-text: Afin d’améliorer et faciliter les démarches en ligne, la direc
   ayant créé et opérant FranceConnect, s’associe, avec la Caisse nationale de l'Assurance
   Maladie (Cnam), à BNP Paribas Cardif permettant à ses assurés de bénéficier d’un
   parcours de prise en charge simplifié et encore plus sécurisé.
+files:
+- file: "/uploads/CP_SIMPLIFICATION_DEMARCHES_ADMINISTRATIVES_FRANCECONNECT_CNAM_BNP_PARIBAS_CARDIF.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 **Dès aujourd’hui, grâce au développement d’un service de récupération automatique des indemnités journalières versées par la Caisse nationale de l’Assurance Maladie (Cnam), via FranceConnect, les assurés de BNP Paribas Cardif, détenteurs d’un contrat d’assurance emprunteur dans le réseau bancaire BNP Paribas* et éligibles à des indemnisations faisant suite à des arrêts de travail, peuvent bénéficier d’un traitement facilité de leurs sinistres et d’un parcours d’indemnisation plus simple et plus rapide.**
