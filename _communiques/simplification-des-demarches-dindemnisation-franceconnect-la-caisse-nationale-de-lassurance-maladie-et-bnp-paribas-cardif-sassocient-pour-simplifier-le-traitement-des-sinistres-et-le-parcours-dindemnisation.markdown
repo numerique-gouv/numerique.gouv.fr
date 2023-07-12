@@ -1,9 +1,8 @@
 ---
-title: 'Simplification des démarches d’indemnisation : FranceConnect, la caisse nationale
-  de l’assurance maladie et BNP Paribas Cardif s’associent pour simplifier le traitement
+title: 'Simplification des démarches d’indemnisation : FranceConnect, la Caisse nationale
+  de l’Assurance Maladie et BNP Paribas Cardif s’associent pour simplifier le traitement
   des sinistres et le parcours d’indemnisation'
-date: 2023-07-11 17:02:00 +02:00
-published: false
+date: 2023-07-12 08:02:00 +02:00
 categories:
 - Communiqué de presse
 tags:
