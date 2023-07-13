@@ -8,6 +8,9 @@ chapeau-text: 'Pour répondre aux enjeux de simplification et d’amélioration 
   prenant la suite de l’Observatoire. Son objectif : évaluer en continu la qualité
   des démarches et services numériques et identifier les services à améliorer en priorité
   en analysant, chaque trimestre, les progrès réalisés.'
+une-ou-diaporama:
+- image: "/uploads/F0xAmfVWcAcNIKB.png"
+  alternative-textuelle: L'Observatoire devient Vos démarches numériques essentielles
 ---
 
 Fruit d’un travail collaboratif, l’outil a été repensé avec les ministères, les opérateurs de l’État. Il recense désormais des services numériques de l’État remplissant à minima, l’une de ces 4 conditions :
