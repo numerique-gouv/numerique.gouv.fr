@@ -121,6 +121,9 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/architecte-expert-du-reseau-interministeriel-de-l-tat-hf-reference-2023-1282405/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+</div>
+<br>
+<br>
 
 <h1 class="h3"><b>Produits numériques</b></h1>
 <div class="wrapper">
@@ -166,6 +169,9 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-formation---campus-du-numerique-public-hf-reference-2023-1282383/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+</div>
+<br>
+<br>
 
 <h1 class="h3"><b>Direction</b></h1>
 <div class="wrapper">
