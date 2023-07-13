@@ -30,4 +30,6 @@ Le webinaire aura lieu ce jeudi 20 juillet de 12h à 13h en présence de Missak 
 
 Un temps d’échange est prévu en fin de séance ou vous pourrez poser des questions. Ce webinaire sera retranscrit en direct (vélotypie) et sera enregistré.
 
+<div align="center"><a href="https://www.numerique.gouv.fr/services/cloud/doctrine/" class="button"><b>Plus d'infos sur la circulaire</b></a></div>
+
 Cet événement s’adresse en priorité aux agents de l’Etat.
