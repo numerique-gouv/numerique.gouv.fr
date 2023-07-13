@@ -2,7 +2,11 @@
 title: L’Observatoire de la qualité des démarches en ligne devient Vos démarches numériques
   essentielles
 date: 2023-07-13 17:20:00 +02:00
-published: false
+categories:
+- Article
+tags:
+- Observatoire
+- démarches
 chapeau-text: 'Pour répondre aux enjeux de simplification et d’amélioration des services
   publics, l’État a publié un outil de suivi des démarches numériques essentielles,
   prenant la suite de l’Observatoire. Son objectif : évaluer en continu la qualité
@@ -28,13 +32,13 @@ Fruit d’un travail collaboratif, l’outil a été repensé avec les ministèr
 
 Les citoyens peuvent dorénavant proposer un nouveau service à recenser.
 
-Parmi les prochains objectifs gouvernementaux : 
--	Décembre 2023 : Bascule des démarches sensibles nécessitant un niveau de sécurité accrue sur FranceConnect+ et connexion de chaque service à FranceConnect ou FranceConnect+ en fonction du niveau de risque (mettre le lien vers le CP FC+)
--	Été 2024 : Note de satisfaction usager supérieure à 8/10
--	Décembre 2024 : Affichage systématique d’une alternative non-numérique donc un guichet physique ou une personne à contacter par téléphone
--	Décembre 2025 : Taux de conformité de 100% aux critères d’accessibilité pour les personnes en situation de handicap (avec des avancées notables sous 18 mois) et la note de simplicité du langage supérieure à 8/10
--	Décembre 2026 : Réalisable en ligne (je ne comprends pas / MB : ils faut qu’ils soient tous demat à décembre 2026) et ne plus demander à l’usager les données déjà détenues par l’administration et ne plus demander des données qui ne servent pas l’administration
+**Parmi les prochains objectifs gouvernementaux : **
+* Décembre 2023 : Bascule des démarches sensibles nécessitant un niveau de sécurité accrue sur FranceConnect+ et connexion de chaque service à FranceConnect ou FranceConnect+ en fonction du niveau de risque ([Lire le communiqué de presse](https://www.numerique.gouv.fr/espace-presse/franceconnect-plus-1-million-usagers/))
+* Été 2024 : Note de satisfaction usager supérieure à 8/10
+* Décembre 2024 : Affichage systématique d’une alternative non-numérique donc un guichet physique ou une personne à contacter par téléphone
+* Décembre 2025 : Taux de conformité de 100% aux critères d’accessibilité pour les personnes en situation de handicap (avec des avancées notables sous 18 mois) et la note de simplicité du langage supérieure à 8/10
+* Décembre 2026 : Réalisable en ligne (dématérialisation) et ne plus demander à l’usager les données déjà détenues par l’administration et ne plus demander des données qui ne servent pas l’administration
 
-Cet outil de pilotage interministériel est piloté par la Direction interministérielle du numérique (DINUM) qui intervient sous l’égide du ministère de la Transformation et de la Fonction publiques. 
+Cet outil de pilotage interministériel est piloté par la [Direction interministérielle du numérique (DINUM)](https://www.linkedin.com/company/18539226/admin/feed/posts/) qui intervient sous l’égide du ministère de la Transformation et de la Fonction publiques. 
 
-Pour consulter Vos démarches numériques essentielles cliquez ici
+Pour consulter Vos démarches numériques essentielles cliquez [ici](https://observatoire.numerique.gouv.fr/)
