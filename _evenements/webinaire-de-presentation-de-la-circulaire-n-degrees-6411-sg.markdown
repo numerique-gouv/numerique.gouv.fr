@@ -33,3 +33,8 @@ Un temps d’échange est prévu en fin de séance ou vous pourrez poser des que
 <div align="center"><a href="https://www.numerique.gouv.fr/services/cloud/doctrine/" class="button"><b>Plus d'infos sur la circulaire</b></a></div>
 
 Cet événement s’adresse en priorité aux agents de l’Etat.
+<br>
+<br>
+<div class="lien-important"><p><a href="https://www.numerique.gouv.fr/publications/feuille-de-route-dinum/ ">Consulter le communiqué de presse</a></p></div>
+<br>
+<br>
