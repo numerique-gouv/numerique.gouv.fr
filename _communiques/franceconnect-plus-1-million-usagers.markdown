@@ -17,7 +17,7 @@ chapeau-text: Afin de simplifier et sécuriser l’accès aux démarches les plu
   des Français dans le numérique en 2022), FranceConnect+ est une version encore plus
   sécurisée de FranceConnect venant d’atteindre un million d’usagers.
 une-ou-diaporama:
-- image: "/uploads/Screenshot%202023-07-04%20at%2012-51-51%20Franceconnect%20-%20Acc%C3%A9dez%20simplement%20aux%20services%20publics.png"
+- image: "/uploads/Diapositive1.PNG"
 files:
 - file: "/uploads/CP_FRANCECONNECT%20_1_MILLION_D_USAGERS.pdf"
   nom: Télécharger le communiqué de presse
