@@ -74,12 +74,6 @@ layout: page-annexe
 <h1 class="h3"><b>Données / Datascience / Open data</b></h1>
 <div class="wrapper">
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/" title="Juriste - Droit du numérique public H/F - Lien externe">Juriste - Droit du numérique public H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-du-pole-animation-data-et-chargee-d-animation-data-hf-reference-2023-1210903/" title="Chef/fe adjoint/e du pôle animation data et chargé/e d'animation data H/F - Lien externe">Chef/fe adjoint/e du pôle animation data et chargé/e d'animation data H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -88,6 +82,15 @@ layout: page-annexe
 </div>
 <br>
 <br>
+
+<h1 class="h3"><b>Droit et international</b></h1>
+<div class="wrapper">
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/" title="Juriste - Droit du numérique public H/F - Lien externe">Juriste - Droit du numérique public H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 
 <h1 class="h3"><b>Infrastructures, réseaux</b></h1>
 <div class="wrapper">
