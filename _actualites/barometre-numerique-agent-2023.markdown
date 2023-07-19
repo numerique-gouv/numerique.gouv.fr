@@ -14,7 +14,7 @@ une-ou-diaporama:
 - image: "/uploads/2022_10_27_800x430_BNA_Actus.jpg"
 ---
 
-
+<p align="center"><a href="/uploads/BNA_2022_Rapport_interministeriel.pdf" class="button">Consulter les résultats du BNA 2023 (pdf – 3,95 Mo)</a></p>
 
 **À (re)lire :**
 * [Baromètre numérique de l’agent 2021 : une plus grande capacité de travail à distance pour les agents publics](/actualites/barometre-numerique-agent-2021-bna-une-plus-grande-capacite-de-travail-a-distance-pour-agents-publics/)
