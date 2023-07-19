@@ -1,6 +1,5 @@
 ---
-title: L’Observatoire de la qualité des démarches en ligne devient Vos démarches numériques
-  essentielles
+title: L’Observatoire de la qualité des démarches en ligne devient Vos démarches essentielles
 date: 2023-07-11 17:20:00 +02:00
 categories:
 - Article
@@ -9,16 +8,16 @@ tags:
 - démarches
 - VosDémarchesNumériquesEssentielles
 chapeau-text: 'Pour répondre aux enjeux de simplification et d’amélioration des services
-  publics, l’État a publié un outil de suivi des démarches numériques essentielles,
-  prenant la suite de l’Observatoire. Son objectif : évaluer en continu la qualité
-  des démarches et services numériques et identifier les services à améliorer en priorité
-  en analysant, chaque trimestre, les progrès réalisés.'
+  publics, l’État a publié un outil de suivi des démarches essentielles, prenant la
+  suite de l’Observatoire. Son objectif : évaluer en continu la qualité des démarches
+  et services numériques et identifier les services à améliorer en priorité en analysant,
+  chaque trimestre, les progrès réalisés.'
 une-ou-diaporama:
-- image: "/uploads/F0xAmfVWcAcNIKB.png"
-  alternative-textuelle: L'Observatoire devient Vos démarches numériques essentielles
+- image: "/uploads/VDE.jpg"
+  alternative-textuelle: L'Observatoire devient Vos démarches essentielles
 ---
 
-Fruit d’un travail collaboratif avec des ministères, des administrations, des opérateurs et des personnes issues de la société civile, l’Observatoire de la qualité des démarches en ligne évolue afin de gagner en lisibilité et en efficacité. Il devient à présent Vos démarches numériques essentielles. L’URL ne change pas ([observatoire.numerique.gouv.fr](https://observatoire.numerique.gouv.fr/)) et la publication reste trimestrielle.  
+Fruit d’un travail collaboratif avec des ministères, des administrations, des opérateurs et des personnes issues de la société civile, l’Observatoire de la qualité des démarches en ligne évolue afin de gagner en lisibilité et en efficacité. Il devient à présent Vos démarches essentielles. L’URL ne change pas ([observatoire.numerique.gouv.fr](https://observatoire.numerique.gouv.fr/)) et la publication reste trimestrielle.  
 
 <div align="center" style="margin-bottom: 15px; margin-top: 40px"><a href="https://design.numerique.gouv.fr/articles/2023-07-11-vos-demarches-numeriques-essentielles/" class="button" title="En savoir plus sur les principales évolutions - Lien externe"><b>En savoir plus sur les principales évolutions</b></a></div>
 
