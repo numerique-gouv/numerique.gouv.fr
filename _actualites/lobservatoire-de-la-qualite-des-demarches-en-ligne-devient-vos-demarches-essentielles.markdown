@@ -13,7 +13,7 @@ chapeau-text: 'Pour répondre aux enjeux de simplification et d’amélioration 
   et services numériques et identifier les services à améliorer en priorité en analysant,
   chaque trimestre, les progrès réalisés.'
 une-ou-diaporama:
-- image: "/uploads/VDE.jpg"
+- image: "/uploads/VDE-59d487.jpg"
   alternative-textuelle: L'Observatoire devient Vos démarches essentielles
 ---
 
