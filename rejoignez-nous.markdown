@@ -91,6 +91,9 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+</div>
+<br>
+<br>
 
 <h1 class="h3"><b>Infrastructures, réseaux</b></h1>
 <div class="wrapper">
