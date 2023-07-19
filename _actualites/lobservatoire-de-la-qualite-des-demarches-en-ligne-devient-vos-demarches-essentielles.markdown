@@ -6,7 +6,7 @@ categories:
 tags:
 - Observatoire
 - démarches
-- VosDémarchesNumériquesEssentielles
+- VosDémarchesEssentielles
 chapeau-text: 'Pour répondre aux enjeux de simplification et d’amélioration des services
   publics, l’État a publié un outil de suivi des démarches essentielles, prenant la
   suite de l’Observatoire. Son objectif : évaluer en continu la qualité des démarches
