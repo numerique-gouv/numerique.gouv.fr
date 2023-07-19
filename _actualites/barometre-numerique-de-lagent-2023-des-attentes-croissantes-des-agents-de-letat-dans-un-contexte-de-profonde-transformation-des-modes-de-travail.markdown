@@ -1,0 +1,20 @@
+---
+title: 'Baromètre numérique de l’agent 2023 : des attentes croissantes des agents
+  de l’État dans un contexte de profonde transformation des modes de travail'
+date: 2023-07-19 13:48:00 +02:00
+categories:
+- Article
+tags:
+- Baromètre numérique de l'agent
+- Environnement de travail numérique
+chapeau-text: La DINUM publie les résultats de l’édition 2023 du baromètre numérique
+  de l’agent, l’enquête qui recueille l’avis des agents de l’État sur leur environnement
+  numérique de travail.
+une-ou-diaporama:
+- image: "/uploads/2022_10_27_800x430_BNA_Actus.jpg"
+---
+
+
+
+**À (re)lire :**
+* [Baromètre numérique de l’agent 2021 : une plus grande capacité de travail à distance pour les agents publics](/actualites/barometre-numerique-agent-2021-bna-une-plus-grande-capacite-de-travail-a-distance-pour-agents-publics/)
