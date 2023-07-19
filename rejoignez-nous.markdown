@@ -38,12 +38,6 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/designer-senior-hf-reference-2023-1198817/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/conseillerere-senior-en-transformation-numerique-hf-reference-2023-1272415/" title="Conseiller(ère) sénior en transformation numérique  H/F - Lien externe">Conseiller(ère) sénior en transformation numérique H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/conseillerere-senior-en-transformation-numerique-hf-reference-2023-1272415/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/mentor-de-directeur-de-projet-si-hf-reference-2023-1240601/" title="Mentor de Directeur de Projet SI H/F - Lien externe">Mentor de Directeur de Projet SI H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -80,16 +74,22 @@ layout: page-annexe
 <h1 class="h3"><b>Données / Datascience / Open data</b></h1>
 <div class="wrapper">
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/" title="Juriste - Droit du numérique public H/F - Lien externe">Juriste - Droit du numérique public H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-du-pole-animation-data-et-chargee-d-animation-data-hf-reference-2023-1210903/" title="Chef/fe adjoint/e du pôle animation data et chargé/e d'animation data H/F - Lien externe">Chef/fe adjoint/e du pôle animation data et chargé/e d'animation data H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-du-pole-animation-data-et-chargee-d-animation-data-hf-reference-2023-1210903/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+</div>
+<br>
+<br>
+
+<h1 class="h3"><b>Droit et international</b></h1>
+<div class="wrapper">
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/" title="Juriste - Droit du numérique public H/F - Lien externe">Juriste - Droit du numérique public H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
@@ -205,12 +205,6 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/assistante-de-direction-hf-reference-2023-1174798/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/collaborateurtrice-de-cabinet-hf-reference-2023-1272435/" title="Collaborateur(trice) de cabinet H/F - Lien externe">Collaborateur(trice) de cabinet H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/collaborateurtrice-de-cabinet-hf-reference-2023-1272435/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
