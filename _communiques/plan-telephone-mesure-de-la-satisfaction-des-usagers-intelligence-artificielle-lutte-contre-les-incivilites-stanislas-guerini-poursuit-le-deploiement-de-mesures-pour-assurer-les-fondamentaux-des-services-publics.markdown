@@ -24,7 +24,7 @@ files:
 Le plan Téléphone est dès à présent déployé pour améliorer
 l’accueil téléphonique dans l’ensemble des services publics : **d’ici décembre 2024, les services publics devront assurer une réponse à 85 % des appels lorsque l’usager souhaite parler à un agent**. D’ici la fin de l’année, ils mesureront la satisfaction de leurs usagers à la suite d'un contact téléphonique.
 
-<figure class="image-left" style="width: 50%; margin-right: 1em;"> 
+<figure class="image-right" style="width: 50%; margin-right: 1em;"> 
 <img src="/uploads/CPSG.PNG" alt="<br>**Objectif d'un taux de décroché de 85% 
 <br>Mesure de satisfaction du canal téléphonique**
 <br>Homogénéisation des indicateurs
@@ -69,3 +69,7 @@ administrations
 **DITP - Caroline MARCEL ORZECHOWSKI**
 <br>[caroline.marcel-orzechowski@modernisation.gouv.fr](mailto:caroline.marcel-orzechowski@modernisation.gouv.fr)
 <br>06 40 67 33 62
+
+**DINUM - Floriane BEAUDRON**
+<br>[floriane.beaudron@modernisation.gouv.fr](mailto:floriane.beaudron@modernisation.gouv.fr)
+<br>06 10 60 41 19
