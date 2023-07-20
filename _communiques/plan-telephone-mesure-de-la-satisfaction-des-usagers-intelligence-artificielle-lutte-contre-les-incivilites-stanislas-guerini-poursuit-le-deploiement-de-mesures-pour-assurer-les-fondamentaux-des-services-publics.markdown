@@ -5,6 +5,8 @@ title: |-
 date: 2023-07-20 10:56:00 +02:00
 categories:
 - Communiqué de presse
+tags:
+- Intelligence artificielle
 chapeau-text: |-
   À l’occasion d’un comité des services publics, le ministre de la Transformation et de la Fonction publiques Stanislas
   Guerini a réuni ce mercredi 18 juillet les ministères et les opérateurs de services publics pour s’assurer du déploiement
@@ -17,6 +19,17 @@ files:
 
 Le plan Téléphone est dès à présent déployé pour améliorer
 l’accueil téléphonique dans l’ensemble des services publics : **d’ici décembre 2024, les services publics devront assurer une réponse à 85 % des appels lorsque l’usager souhaite parler à un agent**. D’ici la fin de l’année, ils mesureront la satisfaction de leurs usagers à la suite d'un contact téléphonique.
+
+**Objectif d'un taux de décroché de 85% 
+Mesure de satisfaction du canal téléphonique**
+Homogénéisation des indicateurs
+**Publication** des résultats sur Services publics +
+
+Mise en place de nouvelles fonctionnalités : **prise de RDV et rappel** des usagers pour éviter l'attente
+
+Lisibilité et **affichage des numéros** sur les sites internet
+
+Financement **d'investissements via le FTAP** : outils de gestion de la relation usagers/CRM, canal téléphonique.
 
 De nouvelles fonctionnalités seront également mises en place comme la **prise de rendez-vous et le rappel des usagers pour limiter le temps d’attente au téléphone**. Dès ce mois-ci, la lisibilité et l’affichage des numéros de téléphone sera améliorée sur les sites Internet des services publics. Les premiers résultats de ce plan seront publiés sur la plateforme Services Publics+ à l’automne 2023.
 
