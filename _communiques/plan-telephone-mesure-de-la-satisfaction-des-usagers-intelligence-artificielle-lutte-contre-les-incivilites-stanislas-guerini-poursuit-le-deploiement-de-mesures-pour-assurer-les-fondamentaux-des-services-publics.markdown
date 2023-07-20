@@ -63,9 +63,9 @@ administrations
 
 **CONTACTS PRESSE**
 <br>**Service presse de Stanislas GUERINI**
-[presse.mtfp@transformation.gouv.fr](mailto:presse.mtfp@transformation.gouv.fr)
-01 53 18 42 68 / 01 53 18 42 76
+<br>[presse.mtfp@transformation.gouv.fr](mailto:presse.mtfp@transformation.gouv.fr)
+<br>01 53 18 42 68 / 01 53 18 42 76
 
 **DITP - Caroline MARCEL ORZECHOWSKI**
 <br>[caroline.marcel-orzechowski@modernisation.gouv.fr](mailto:caroline.marcel-orzechowski@modernisation.gouv.fr)
-06 40 67 33 62
+<br>06 40 67 33 62
