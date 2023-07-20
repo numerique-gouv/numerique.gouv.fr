@@ -47,8 +47,6 @@ Les démarches essentielles, à savoir celles qui concernent plus de 200 000 usa
 * Ces démarches doivent **proposer systématiquement une alternative non-numérique, physique ou
 téléphonique.**
 
-Enfin, des tutoriels qui correspondent aux usages réels du numérique par les Français seront créés pour chacune de ces démarches.
-
 Enfin, des **tutoriels** qui correspondent aux usages réels du numérique par les Français seront créés pour chacune de ces démarches.
 
 ### Utiliser l’intelligence artificielle pour améliorer la réponse aux usagers
