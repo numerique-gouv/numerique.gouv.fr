@@ -2,7 +2,7 @@
 title: |-
   Plan Téléphone, mesure de la satisfaction des usagers, intelligence artificielle, lutte
   contre les incivilités : Stanislas Guerini poursuit le déploiement de mesures pour assurer les fondamentaux des services publics
-date: 2023-07-20 10:56:00 +02:00
+date: 2023-07-19 10:56:00 +02:00
 categories:
 - Communiqué de presse
 tags:
