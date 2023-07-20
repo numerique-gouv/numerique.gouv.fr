@@ -64,3 +64,12 @@ Face à la hausse des violences dont sont victimes les agents publics, **un plan
 * **Mieux prévenir**, grâce notamment à la constitution d’une communauté d’échanges de bonnes pratiques entre
 administrations
 * **Mieux protéger**, notamment par l’étude de la possibilité d’étendre la protection fonctionnelle à tout agent en charge d’une mission de service public.
+
+**CONTACTS PRESSE**
+**Service presse de Stanislas GUERINI**
+[presse.mtfp@transformation.gouv.fr](mailto:presse.mtfp@transformation.gouv.fr)
+01 53 18 42 68 / 01 53 18 42 76
+
+**DITP - Caroline MARCEL ORZECHOWSKI**
+[caroline.marcel-orzechowski@modernisation.gouv.fr](mailto:caroline.marcel-orzechowski@modernisation.gouv.fr)
+06 40 67 33 62
