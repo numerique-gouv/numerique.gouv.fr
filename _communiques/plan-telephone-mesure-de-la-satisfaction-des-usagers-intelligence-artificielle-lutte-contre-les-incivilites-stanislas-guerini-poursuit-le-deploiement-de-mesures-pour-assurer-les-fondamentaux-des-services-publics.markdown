@@ -24,18 +24,14 @@ files:
 Le plan Téléphone est dès à présent déployé pour améliorer
 l’accueil téléphonique dans l’ensemble des services publics : **d’ici décembre 2024, les services publics devront assurer une réponse à 85 % des appels lorsque l’usager souhaite parler à un agent**. D’ici la fin de l’année, ils mesureront la satisfaction de leurs usagers à la suite d'un contact téléphonique.
 
-**Objectif d'un taux de décroché de 85% 
-Mesure de satisfaction du canal téléphonique**
-Homogénéisation des indicateurs
-**Publication** des résultats sur Services publics +
+<figure class="image-left" style="width: 50%; margin-right: 1em;"> 
+<img src="/uploads/CPSG.PNG" alt="<br>**Objectif d'un taux de décroché de 85% 
+<br>Mesure de satisfaction du canal téléphonique**
+<br>Homogénéisation des indicateurs
+<br>**Publication** des résultats sur Services publics +. Mise en place de nouvelles fonctionnalités : **prise de RDV et rappel** des usagers pour éviter l'attente.
+Lisibilité et **affichage des numéros** sur les sites internet. Financement **d'investissements via le FTAP** : outils de gestion de la relation usagers/CRM, canal téléphonique."></figure>
 
-Mise en place de nouvelles fonctionnalités : **prise de RDV et rappel** des usagers pour éviter l'attente
-
-Lisibilité et **affichage des numéros** sur les sites internet
-
-Financement **d'investissements via le FTAP** : outils de gestion de la relation usagers/CRM, canal téléphonique.
-
-De nouvelles fonctionnalités seront également mises en place comme la **prise de rendez-vous et le rappel des usagers pour limiter le temps d’attente au téléphone**. Dès ce mois-ci, la lisibilité et l’affichage des numéros de téléphone sera améliorée sur les sites Internet des services publics. Les premiers résultats de ce plan seront publiés sur la plateforme Services Publics+ à l’automne 2023.
+<br>De nouvelles fonctionnalités seront également mises en place comme la **prise de rendez-vous et le rappel des usagers pour limiter le temps d’attente au téléphone**. Dès ce mois-ci, la lisibilité et l’affichage des numéros de téléphone sera améliorée sur les sites Internet des services publics. Les premiers résultats de ce plan seront publiés sur la plateforme Services Publics+ à l’automne 2023.
 
 ### Garantir des services publics de qualité en ligne, par téléphone et au guichet
 
@@ -64,3 +60,12 @@ Face à la hausse des violences dont sont victimes les agents publics, **un plan
 * **Mieux prévenir**, grâce notamment à la constitution d’une communauté d’échanges de bonnes pratiques entre
 administrations
 * **Mieux protéger**, notamment par l’étude de la possibilité d’étendre la protection fonctionnelle à tout agent en charge d’une mission de service public.
+
+**CONTACTS PRESSE**
+<br>**Service presse de Stanislas GUERINI**
+<br>[presse.mtfp@transformation.gouv.fr](mailto:presse.mtfp@transformation.gouv.fr)
+<br>01 53 18 42 68 / 01 53 18 42 76
+
+**DITP - Caroline MARCEL ORZECHOWSKI**
+<br>[caroline.marcel-orzechowski@modernisation.gouv.fr](mailto:caroline.marcel-orzechowski@modernisation.gouv.fr)
+<br>06 40 67 33 62
