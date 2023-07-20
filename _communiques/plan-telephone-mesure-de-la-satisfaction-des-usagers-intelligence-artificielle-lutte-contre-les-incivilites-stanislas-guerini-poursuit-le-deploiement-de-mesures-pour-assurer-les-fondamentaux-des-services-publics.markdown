@@ -14,7 +14,8 @@ chapeau-text: |-
 une-ou-diaporama:
 - image: "/uploads/F1ZAXz4XgAEnahX.jpg"
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/Communiqu%C3%A9%20de%20presse%20-%20Plan%20T%C3%A9l%C3%A9phone,%20mesure%20de%20la%20satisfaction%20des%20usagers,%20intelligence%20artificielle,%20lutte%20contre%20les%20incivilit%C3%A9s%20_%20Stanis.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 ### Déployer un plan Téléphone exigeant dans les services publics
