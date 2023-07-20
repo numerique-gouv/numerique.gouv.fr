@@ -66,7 +66,7 @@ administrations
 * **Mieux protéger**, notamment par l’étude de la possibilité d’étendre la protection fonctionnelle à tout agent en charge d’une mission de service public.
 
 **CONTACTS PRESSE**
-**Service presse de Stanislas GUERINI**
+<br>**Service presse de Stanislas GUERINI**
 [presse.mtfp@transformation.gouv.fr](mailto:presse.mtfp@transformation.gouv.fr)
 01 53 18 42 68 / 01 53 18 42 76
 
