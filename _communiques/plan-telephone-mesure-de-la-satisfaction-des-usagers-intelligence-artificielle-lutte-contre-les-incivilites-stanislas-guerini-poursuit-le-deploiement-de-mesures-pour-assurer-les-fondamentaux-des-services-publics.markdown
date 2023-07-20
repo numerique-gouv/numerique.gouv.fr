@@ -7,6 +7,7 @@ categories:
 - Communiqué de presse
 tags:
 - Intelligence artificielle
+- ServicesPublics+
 chapeau-text: |-
   À l’occasion d’un comité des services publics, le ministre de la Transformation et de la Fonction publiques Stanislas
   Guerini a réuni ce mercredi 18 juillet les ministères et les opérateurs de services publics pour s’assurer du déploiement
@@ -60,6 +61,6 @@ Grâce à cette expérimentation, les agents pourront utiliser des réponses gé
 Face à la hausse des violences dont sont victimes les agents publics, **un plan de lutte contre les incivilités** sera lancé dans les prochaines semaines. Il concernera en particulier les agents de guichet des administrations (agents de la DGFiP, agents d’accueil dans les mairies ou les hôpitaux…) et des opérateurs publics (CAF, Pôle Emploi, CARSAT…) afin de sécuriser et améliorer leur quotidien et leurs conditions de travail. Ce plan se décline en trois axes :
 
 * **Mieux qualifier**, grâce à la création d’un baromètre des incivilités, commun à l’ensemble des administrations de guichet,
-* * Mieux prévenir, grâce notamment à la constitution d’une communauté d’échanges de bonnes pratiques entre
+* **Mieux prévenir**, grâce notamment à la constitution d’une communauté d’échanges de bonnes pratiques entre
 administrations
 * **Mieux protéger**, notamment par l’étude de la possibilité d’étendre la protection fonctionnelle à tout agent en charge d’une mission de service public.
