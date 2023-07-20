@@ -32,3 +32,20 @@ Les démarches essentielles, à savoir celles qui concernent plus de 200 000 usa
 téléphonique.**
 
 Enfin, des tutoriels qui correspondent aux usages réels du numérique par les Français seront créés pour chacune de ces démarches.
+
+Enfin, des **tutoriels** qui correspondent aux usages réels du numérique par les Français seront créés pour chacune de ces démarches.
+
+### Utiliser l’intelligence artificielle pour améliorer la réponse aux usagers
+
+Une expérimentation d’outils d’intelligence artificielle est lancée par la DITP et la DINUM afin d’améliorer la qualité des réponses apportées aux usagers sur la plateforme Services Publics + et dans plusieurs France services.
+
+Grâce à cette expérimentation, les agents pourront utiliser des réponses générées par l’intelligence artificielle en les complétant et en les personnalisant afin de mieux accompagner l’usager et ainsi de libérer du temps pour des réponses qui nécessitent une attention spécifique. Plus de 1 000 agents se sont portés volontaires pour tester, à partir de la rentrée, cet outil dont l’impact de l’utilisation sur les délais de réponse et sur leur qualité seront mesurés. Avec Services Publics +, les usagers peuvent également [partager leur expérience](https://www.plus.transformation.gouv.fr/experience/step_1#breadcrumb) avec les services publics. Les conseillers France services volontaires pourront également s’appuyer sur cet outil pour répondre aux questions des usagers de façon plus efficace dès l’automne prochain.
+
+### Renforcer la protection des agents publics au contact des usagers
+
+Face à la hausse des violences dont sont victimes les agents publics, **un plan de lutte contre les incivilités** sera lancé dans les prochaines semaines. Il concernera en particulier les agents de guichet des administrations (agents de la DGFiP, agents d’accueil dans les mairies ou les hôpitaux…) et des opérateurs publics (CAF, Pôle Emploi, CARSAT…) afin de sécuriser et améliorer leur quotidien et leurs conditions de travail. Ce plan se décline en trois axes :
+
+* **Mieux qualifier**, grâce à la création d’un baromètre des incivilités, commun à l’ensemble des administrations de guichet,
+* * Mieux prévenir, grâce notamment à la constitution d’une communauté d’échanges de bonnes pratiques entre
+administrations
+* **Mieux protéger**, notamment par l’étude de la possibilité d’étendre la protection fonctionnelle à tout agent en charge d’une mission de service public.
