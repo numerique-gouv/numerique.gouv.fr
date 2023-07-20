@@ -11,6 +11,8 @@ chapeau-text: |-
   À l’occasion d’un comité des services publics, le ministre de la Transformation et de la Fonction publiques Stanislas
   Guerini a réuni ce mercredi 18 juillet les ministères et les opérateurs de services publics pour s’assurer du déploiement
   des engagements pris lors du 7e Comité interministériel de la transformation publique (CITP) du mois de mai. L’objectif : renforcer les fondamentaux des services publics que représentent l’accès aux services publics, la qualité et l’efficacité du service rendu.
+une-ou-diaporama:
+- image: "/uploads/F1ZAXz4XgAEnahX.jpg"
 files:
 - nom: Télécharger le communiqué de presse
 ---
