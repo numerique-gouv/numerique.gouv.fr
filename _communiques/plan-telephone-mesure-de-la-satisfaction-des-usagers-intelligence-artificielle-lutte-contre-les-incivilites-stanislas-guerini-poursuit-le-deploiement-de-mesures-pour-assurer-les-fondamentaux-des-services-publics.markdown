@@ -31,7 +31,7 @@ l’accueil téléphonique dans l’ensemble des services publics : **d’ici d�
 <br>**Publication** des résultats sur Services publics +. Mise en place de nouvelles fonctionnalités : **prise de RDV et rappel** des usagers pour éviter l'attente.
 Lisibilité et **affichage des numéros** sur les sites internet. Financement **d'investissements via le FTAP** : outils de gestion de la relation usagers/CRM, canal téléphonique."></figure>
 
-De nouvelles fonctionnalités seront également mises en place comme la **prise de rendez-vous et le rappel des usagers pour limiter le temps d’attente au téléphone**. Dès ce mois-ci, la lisibilité et l’affichage des numéros de téléphone sera améliorée sur les sites Internet des services publics. Les premiers résultats de ce plan seront publiés sur la plateforme Services Publics+ à l’automne 2023.
+<br>De nouvelles fonctionnalités seront également mises en place comme la **prise de rendez-vous et le rappel des usagers pour limiter le temps d’attente au téléphone**. Dès ce mois-ci, la lisibilité et l’affichage des numéros de téléphone sera améliorée sur les sites Internet des services publics. Les premiers résultats de ce plan seront publiés sur la plateforme Services Publics+ à l’automne 2023.
 
 ### Garantir des services publics de qualité en ligne, par téléphone et au guichet
 
