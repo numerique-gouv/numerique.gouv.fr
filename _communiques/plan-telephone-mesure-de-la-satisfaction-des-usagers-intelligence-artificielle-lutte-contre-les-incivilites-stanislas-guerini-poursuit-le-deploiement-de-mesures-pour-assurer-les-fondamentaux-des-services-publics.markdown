@@ -24,10 +24,10 @@ files:
 Le plan Téléphone est dès à présent déployé pour améliorer
 l’accueil téléphonique dans l’ensemble des services publics : **d’ici décembre 2024, les services publics devront assurer une réponse à 85 % des appels lorsque l’usager souhaite parler à un agent**. D’ici la fin de l’année, ils mesureront la satisfaction de leurs usagers à la suite d'un contact téléphonique.
 
-**Objectif d'un taux de décroché de 85% 
-Mesure de satisfaction du canal téléphonique**
-Homogénéisation des indicateurs
-**Publication** des résultats sur Services publics +
+<br>**Objectif d'un taux de décroché de 85% 
+<br>Mesure de satisfaction du canal téléphonique**
+<br>Homogénéisation des indicateurs
+<br>**Publication** des résultats sur Services publics +
 
 Mise en place de nouvelles fonctionnalités : **prise de RDV et rappel** des usagers pour éviter l'attente
 
