@@ -2,7 +2,6 @@
 title: 'Baromètre numérique de l’agent 2023 : des attentes croissantes des agents
   de l’État dans un contexte de profonde transformation des modes de travail'
 date: 2023-07-19 13:48:00 +02:00
-published: false
 categories:
 - Article
 tags:
