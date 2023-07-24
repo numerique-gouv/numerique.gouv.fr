@@ -1,8 +1,12 @@
 ---
 title: La DINUM aux Journées européennes du patrimoine
 date: 2023-07-24 10:43:00 +02:00
+categories:
+- Évènement
+tags:
+- Évènement
 chapeau-text: Pour sa 40e édition, les Journées européennes du patrimoine auront pour
-  thème le Patrimoine Vivant et Patrimoine du Sport. Elles permettront de visiter
+  thème le Patrimoine Vivant et le Patrimoine du Sport. Elles permettront de visiter
   des lieux de patrimoine, souvent exceptionnellement ouverts ! Pour cette occasion,
   rencontrez les équipes de la DINUM au ministère de la Transformation et de la Fonction
   publiques.
