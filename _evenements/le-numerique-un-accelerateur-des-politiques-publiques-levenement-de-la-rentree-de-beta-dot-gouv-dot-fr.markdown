@@ -9,13 +9,7 @@ chapeau-text: |-
   Au programme : présentation du fonds et de l'approche beta.gouv.fr, l'influence du numérique au service des politiques prioritaires du gouvernement, bilan des réalisations et de l’impact des lauréats du FAST 12, annonce des lauréats du FAST 12, lancement du 13e appel à candidatures et pour finir un forum suivi d'un cocktail.
 ---
 
-En près de 4 ans et 12 sessions, le fonds d’accélération des Startups d’État et de territoires (FAST) a soutenu quelque 50 Startups d’État et de Territoires et investi plus de 8 millions d'euros. 
-
-**Après 6 mois d’accompagnement et de financement, l’heure est au bilan pour les 6 lauréats de la 11e édition du FAST !**
-
-Ces 6 lauréats sont les premiers à avoir bénéficié d'une version rénovée du FAST : depuis sa 11e édition, le fonds s’est enrichi d’un accompagnement opérationnel et stratégique de 6 mois à travers l’appui d’équipes expertes du numérique, en plus du soutien financier. 
-
-Au cours de cette demi-journée dédiée au FAST, nous aurons ainsi l'occasion de **présenter les réalisations et l'impact de ces 6 Startups d’État soutenues,** ainsi que **leur retour d'expérience sur l'apport du FAST** dans sa nouvelle configuration, et plus globalement **sur la phase d'accélération du déploiement d'une solution**.
+Au cours de cette demi-journée dédiée à la célébration des succès de politiques publiques qui ont été accélérées grâce au numérique, nous aurons ainsi l'occasion de **présenter les réalisations et l'impact des Startups d’État,** ainsi que d'encourager la mobilisation des administrations autour des **“feuilles de route numérique et données”**.
 
 L'événement sera également l'occasion d'**annoncer les lauréats de la 12e édition**, qui bénéficieront d'un financement et d'un accompagnement pendant 6 mois, et de **lancer l'appel à candidatures pour la 13e édition du fonds**, ouvert jusqu’au 15 mai 2023. 
 
