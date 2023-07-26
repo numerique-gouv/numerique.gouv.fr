@@ -54,7 +54,8 @@ L’événement accueillera des professionnels investis pour un numérique durab
 
 Le but de Numérique en Commun[s] ? Permettre à chaque acteur de se retrouver, de se former, d’échanger et de produire des solutions pour défendre un numérique d’intérêt général.
 
-**Programme « Off » du mercredi 18 octobre :**
+### Programme détaillé
+#### Programme « Off » du mercredi 18 octobre :
 <br>
 *3 temps informels sur invitation sont également organisés par différents départements de la DINUM*
 * La communauté beta se rassemble à Bordeaux dans le cadre du beta Tour
@@ -63,16 +64,17 @@ Le but de Numérique en Commun[s] ? Permettre à chaque acteur de se retrouver, 
 
 Si vous souhaitez participer au programme off, contactez : communication.dinum@modernisation.gouv.fr
 
-**Programme du jeudi 19/10/23 :** 
+#### Programme du jeudi 19/10/23 : 
 * 9h : Accueil NEC
 * 11h30 : Plénière
 * 19h – 01h : Grande soirée NEC
 
-**Programme du vendredi 20/10/23 :** 
+#### Programme du vendredi 20/10/23 : 
 * 9h : Accueil NEC
 * 12h30 – 15h : Déjeuner de clôture
 
 ***Programme en cours de construction***
+<br>
 
 NEC est un événement gratuit, cependant pour la journée du jeudi 19 octobre, si vous souhaitez déjeuner et/ou participer au cocktail dînatoire, une contribution financière vous sera demandé.
 
