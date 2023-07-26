@@ -2,6 +2,7 @@
 title: Le numérique, un accélérateur des politiques publiques - L’événement de la
   rentrée de beta.gouv.fr
 date: 2023-07-25 14:10:00 +02:00
+published: false
 categories:
 - Évènement
 chapeau-text: 'Décideurs et agents publics : participez à une demi-journée afin de
