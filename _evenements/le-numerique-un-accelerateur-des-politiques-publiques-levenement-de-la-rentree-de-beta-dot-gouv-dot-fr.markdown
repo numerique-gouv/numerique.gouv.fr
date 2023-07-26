@@ -2,7 +2,6 @@
 title: Le numérique, un accélérateur des politiques publiques - L’événement de la
   rentrée de beta.gouv.fr
 date: 2023-07-25 14:10:00 +02:00
-published: false
 chapeau-text: |-
   Décideurs et agents publics : participez à une demi-journée afin de découvrir les réalisations concrètes mises en place sur plusieurs politiques prioritaires notamment grâce au fonds d’accélération des Startups d’État et de territoires (FAST), piloté par beta.gouv.fr au sein de la DINUM.
   <br>
@@ -41,7 +40,6 @@ L'événement sera également l'occasion d'**annoncer les lauréats du FAST 12**
 <img src="/uploads/FAST-800x430.jpg" alt="Logo du FAST">
 </figure><p>Le Fonds d’accélération des Startups d’État et de Territoire (FAST) est un programme d’accélération proposé aux produits numériques qui répondent aux standards de qualité de beta.gouv.fr et qui souhaitent bénéficier du soutien de la direction interministérielle du numérique (DINUM) pour augmenter leur impact et passer à l’échelle.
 <br>
-Ce programme permet de bénéficier d’un accompagnement opérationnel et stratégique par une équipe d’experts de beta.gouv.fr et d’un cofinancement à hauteur de 50% sur l’année. 
-<br>Il est désormais attribué en priorité aux produits liés aux chantiers prioritaires du gouvernement, qui respectent les critères du programme.</p>
+Il est désormais attribué en priorité aux produits liés aux chantiers prioritaires du gouvernement, qui respectent les critères du programme.</p>
 <p><a href="https://beta.gouv.fr/approche/fast" title="Plus d'infos sur le FAST - Lien externe">> Plus d'infos sur le FAST</a></p>
 </div>
