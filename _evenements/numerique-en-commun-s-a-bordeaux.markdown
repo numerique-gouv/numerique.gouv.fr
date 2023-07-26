@@ -55,6 +55,7 @@ L’événement accueillera des professionnels investis pour un numérique durab
 Le but de Numérique en Commun[s] ? Permettre à chaque acteur de se retrouver, de se former, d’échanger et de produire des solutions pour défendre un numérique d’intérêt général.
 
 **Programme « Off » du mercredi 18 octobre :**
+<br>
 *3 temps informels sur invitation sont également organisés par différents départements de la DINUM*
 * La communauté beta se rassemble à Bordeaux dans le cadre du beta Tour
 * La communauté de l’opérateur se réunit dans le cadre du Tour de France des produits interministériels
@@ -83,17 +84,17 @@ Le déjeuner du vendredi 20 octobre est pris en charge par les organisateurs et 
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Une démarche engagée et durable :</h3>
 <figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
-<img src="/uploads/FAST-800x430.jpg" alt="Logo du FAST">
+<img src="/uploads/1500-500-max%20bis.jpg" alt="NEC Bordeaux">
 </figure><p>Numérique en Commun[s] contribue à la construction d’un numérique d’intérêt général. Pour ce faire, les organisateurs et les partenaires s’engagent à respecter des principes fondateurs : 
-**Engagement n°1 :** Garantir l’ouverture et l’accès à tous et toutes
+<strong>Engagement n°1 :</strong> Garantir l’ouverture et l’accès à tous et toutes
 <br>
-**Engagement n°2 :** Agir pour la diversité des intervenant.e.s et des publics
+<strong>Engagement n°2 :</strong> Agir pour la diversité des intervenant.e.s et des publics
 <br>
-**Engagement n°3 :** Diffuser l’ensemble des productions sous des licences libres et ouvertes
+<strong>Engagement n°3 :</strong> Diffuser l’ensemble des productions sous des licences libres et ouvertes
 <br>
-**Engagement n°4 :** Organiser un événement durable
+<strong>Engagement n°4 :</strong> Organiser un événement durable
 <br>
-**Engagement n°5 :** Miser sur des écosystèmes numériques frugaux et responsables
+<strong>Engagement n°5 :</strong> Miser sur des écosystèmes numériques frugaux et responsables
 <br></p>
 <p><a href="https://numerique-en-communs.fr/" title="En savoir plus sur NEC - Lien externe">> En savoir plus sur NEC</a></p>
 </div>
