@@ -2,11 +2,16 @@
 title: Le numérique, un accélérateur des politiques publiques - L’événement de la
   rentrée de beta.gouv.fr
 date: 2023-07-25 14:10:00 +02:00
-chapeau-text: |-
-  Décideurs et agents publics : participez à une demi-journée afin de découvrir les réalisations concrètes mises en place sur plusieurs politiques prioritaires notamment grâce au fonds d’accélération des Startups d’État et de territoires (FAST), piloté par beta.gouv.fr au sein de la DINUM.
-  <br>
-  Au programme : présentation du fonds et de l'approche beta.gouv.fr, l'influence du numérique au service des politiques prioritaires du gouvernement, bilan des réalisations et de l’impact des lauréats du FAST 12, annonce des lauréats du FAST 12, lancement du 13e appel à candidatures et pour finir un forum suivi d'un cocktail.
+published: false
+categories:
+- Évènement
+chapeau-text: 'Décideurs et agents publics : participez à une demi-journée afin de
+  découvrir les réalisations concrètes mises en place sur plusieurs politiques prioritaires
+  notamment grâce au fonds d’accélération des Startups d’État et de territoires (FAST),
+  piloté par beta.gouv.fr au sein de la DINUM.'
 event_start_date: 2023-09-18 14:30:00 +02:00
+lieu: Auditorium de Ségur
+adresse: 20 avenue de Ségur 75007 Paris
 ---
 
 Au cours de cette demi-journée dédiée à la célébration des **succès de politiques publiques qui ont été accélérées grâce au numérique**, nous aurons ainsi l'occasion de **présenter les réalisations et l'impact des Startups d’État,** ainsi que d'encourager la mobilisation des administrations autour des **“feuilles de route numérique et données”**.
