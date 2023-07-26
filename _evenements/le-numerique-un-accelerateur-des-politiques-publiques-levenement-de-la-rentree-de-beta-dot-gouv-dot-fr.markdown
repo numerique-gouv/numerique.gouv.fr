@@ -2,7 +2,6 @@
 title: Le numérique, un accélérateur des politiques publiques - L’événement de la
   rentrée de beta.gouv.fr
 date: 2023-07-25 14:10:00 +02:00
-published: false
 categories:
 - Évènement
 chapeau-text: 'Décideurs et agents publics : participez à une demi-journée afin de
@@ -12,6 +11,16 @@ chapeau-text: 'Décideurs et agents publics : participez à une demi-journée af
 event_start_date: 2023-09-18 14:30:00 +02:00
 lieu: Auditorium de Ségur
 adresse: 20 avenue de Ségur 75007 Paris
+champs_informations:
+- intitule: Horaires
+  contenu: 14h30 - 18h
+- intitule: Comment y aller ?
+  contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur
+- intitule: Modalités
+  contenu: Evénement gratuit réservé aux agents publics, inscription obligatoire
+- intitule: Inscription
+  contenu: Via ce formulaire en ligne
+  lien: 
 ---
 
 Au cours de cette demi-journée dédiée à la célébration des **succès de politiques publiques qui ont été accélérées grâce au numérique**, nous aurons ainsi l'occasion de **présenter les réalisations et l'impact des Startups d’État,** ainsi que d'encourager la mobilisation des administrations autour des **“feuilles de route numérique et données”**.
