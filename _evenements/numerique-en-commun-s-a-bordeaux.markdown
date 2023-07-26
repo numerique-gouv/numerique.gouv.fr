@@ -87,7 +87,8 @@ Le déjeuner du vendredi 20 octobre est pris en charge par les organisateurs et 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Une démarche engagée et durable :</h3>
 <figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
 <img src="/uploads/1500-500-max%20bis.jpg" alt="NEC Bordeaux">
-</figure><p>Numérique en Commun[s] contribue à la construction d’un numérique d’intérêt général. Pour ce faire, les organisateurs et les partenaires s’engagent à respecter des principes fondateurs : 
+</figure><p>Numérique en Commun[s] contribue à la construction d’un numérique d’intérêt général. Pour ce faire, les organisateurs et les partenaires s’engagent à respecter des principes fondateurs :
+<br> 
 <strong>Engagement n°1 :</strong> Garantir l’ouverture et l’accès à tous et toutes
 <br>
 <strong>Engagement n°2 :</strong> Agir pour la diversité des intervenant.e.s et des publics
