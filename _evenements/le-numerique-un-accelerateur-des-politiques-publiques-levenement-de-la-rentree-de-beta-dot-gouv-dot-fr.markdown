@@ -9,40 +9,31 @@ chapeau-text: |-
   Au programme : présentation du fonds et de l'approche beta.gouv.fr, l'influence du numérique au service des politiques prioritaires du gouvernement, bilan des réalisations et de l’impact des lauréats du FAST 12, annonce des lauréats du FAST 12, lancement du 13e appel à candidatures et pour finir un forum suivi d'un cocktail.
 ---
 
-Au cours de cette demi-journée dédiée à la célébration des succès de politiques publiques qui ont été accélérées grâce au numérique, nous aurons ainsi l'occasion de **présenter les réalisations et l'impact des Startups d’État,** ainsi que d'encourager la mobilisation des administrations autour des **“feuilles de route numérique et données”**.
+Au cours de cette demi-journée dédiée à la célébration des **succès de politiques publiques qui ont été accélérées grâce au numérique**, nous aurons ainsi l'occasion de **présenter les réalisations et l'impact des Startups d’État,** ainsi que d'encourager la mobilisation des administrations autour des **“feuilles de route numérique et données”**.
 
-L'événement sera également l'occasion d'**annoncer les lauréats de la 12e édition**, qui bénéficieront d'un financement et d'un accompagnement pendant 6 mois, et de **lancer l'appel à candidatures pour la 13e édition du fonds**, ouvert jusqu’au 15 mai 2023. 
+L'événement sera également l'occasion d'**annoncer les lauréats du FAST 12**, et de **lancer l'appel à candidatures pour la prochaine édition**. 
 
 <div class="lien-important" style="margin-bottom:10px"> <p><a href="https://beta.gouv.fr/approche/fast">En savoir plus sur le FAST</a></p> </div>
-
-<div class="lien-important" style="margin-bottom:10px"> <p><a href="https://www.demarches-simplifiees.fr/commencer/fast-13">Postulez à la 13e édition du FAST</a></p> </div>
-
-> L'accompagnement du FAST a été décisif pour le passage à l'échelle de Zéro Logement Vacant. Cela nous a permis de recruter 3 personnes et de bénéficier d'un appui méthodologique pour piloter le développement du produit par l'impact et pour expérimenter de nouveaux de mode de prise de contact avec les propriétaires de logements vacants. 
-{: .citation}
-
-> **Henry Ciesielski,** 
-> <br>intrapreneur de Zéro Logement Vacant et chef de projet lutte contre la vacance de logement -  DGALN/DHUP
-{: .auteur-citation}
-
-
  
 
 ## Programme détaillé
-<h3 class="h4">[14h45-15h15] <b>Accueil des participants</b></h3>
+<h3 class="h4">[14h30-15h] <b>Accueil des participants</b></h3>
 
-<h3 class="h4">[15h15-15h30] <b>Introduction et présentation de beta.gouv.fr et du fonds d’accélération (FAST)</b></h3>
-
-<h3 class="h4">[15h30-16h] <b>Bilan de la 11e session du programme FAST</b></h3>
-<ul><li>Retour sur les réalisations et l’impact des 6 Startups d’État accompagnées : Collectif Objets, APiLos, Signaux Faibles, Mon Service Sécurisé, Zéro Logements Vacants, JeVeuxAider</li></ul>
-
-<h3 class="h4">[16h-17h] <b>Tables rondes</b></h3>
-<ul><li>Comment l’accompagnement FAST vous a permis de piloter votre impact ?</li>
-<li>Accélérer le déploiement de son service : quels enjeux et apprentissages ?</li></ul>
-
-<h3 class="h4">[17h-17h15] <b>Conclusion, annonce des lauréats du FAST 12 et de l’appel à candidature pour le FAST 13</b></h3>
+<h3 class="h4">[15h-15h15] <b>Discours d’ouverture</b></h3>
 <p>Par Stéphanie Schaer, directrice interministérielle du numérique</p>
 
-<h3 class="h4">[17h15-18h30] <b>Stands démo de chaque produit et échanges avec les lauréats</b> - Cocktail</h3>
+<h3 class="h4">[15h15-16h] <b>Bilan de la 12e session du programme FAST</b></h3>
+<ul><li>Retour sur l’impact des services numériques accompagnés par le FAST12 grâce à un retour de séquences usagers (user stories)</li></ul>
+
+<h3 class="h4">[16h-16h30] <b>Le numérique au service des Politiques Prioritaires du Gouvernement</b></h3>
+
+<h3 class="h4">[16h30-16h45] <b>Clôture de la plénière</b></h3>
+<p>Par Stanislas Guerini, Ministre de la Transformation et de la Fonction publiques</p>
+
+<h3 class="h4">[16h45-18h] <b>Forum et cocktail sur la mezzanine</b></h3>
+<ul><li>Stands de démo sur la mezzanine</li></ul>
+<ul><li>Faire découvrir les produits Beta et les prochains lauréats du FAST</li></ul>
+<ul><li>Faire découvrir les Politiques Prioritaires du Gouvernement</li></ul>
 <br>
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le FAST, c'est quoi ?</h3>
