@@ -56,7 +56,6 @@ Le but de Numérique en Commun[s] ? Permettre à chaque acteur de se retrouver, 
 
 ### Programme détaillé
 #### Programme « Off » du mercredi 18 octobre :
-<br>
 *3 temps informels sur invitation sont également organisés par différents départements de la DINUM*
 * La communauté beta se rassemble à Bordeaux dans le cadre du beta Tour
 * La communauté de l’opérateur se réunit dans le cadre du Tour de France des produits interministériels
@@ -75,6 +74,7 @@ Si vous souhaitez participer au programme off, contactez : communication.dinum@m
 
 ***Programme en cours de construction***
 <br>
+<br>
 
 NEC est un événement gratuit, cependant pour la journée du jeudi 19 octobre, si vous souhaitez déjeuner et/ou participer au cocktail dînatoire, une contribution financière vous sera demandé.
 
@@ -89,6 +89,7 @@ Le déjeuner du vendredi 20 octobre est pris en charge par les organisateurs et 
 <img src="/uploads/1500-500-max%20bis.jpg" alt="NEC Bordeaux">
 </figure><p>Numérique en Commun[s] contribue à la construction d’un numérique d’intérêt général. Pour ce faire, les organisateurs et les partenaires s’engagent à respecter des principes fondateurs :
 <br> 
+<br>
 <strong>Engagement n°1 :</strong> Garantir l’ouverture et l’accès à tous et toutes
 <br>
 <strong>Engagement n°2 :</strong> Agir pour la diversité des intervenant.e.s et des publics
