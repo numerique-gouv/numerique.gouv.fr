@@ -40,7 +40,7 @@ champs_informations:
 
 Cette nouvelle édition s’appuie sur 5 thèmes structurant l’ensemble de la programmation. Pour chaque thème, un partenaire de l’événement prendra les commandes des temps forts et de rendez-vous afin de structurer un réseau national d’expertise autour de NEC.
 
-Voici les 5 thèmes de cette année :
+**Voici les 5 thèmes de cette année :**
 * Communs & souveraineté pour lequel la DINUM apportera son expertise
 * Données & territoire
 * Médiation & compétences numériques
