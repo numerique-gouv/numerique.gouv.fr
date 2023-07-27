@@ -61,7 +61,7 @@ Le but de Numérique en Commun[s] ? Permettre à chaque acteur de se retrouver, 
 * La communauté de l’opérateur se réunit dans le cadre du Tour de France des produits interministériels
 * L’Accélérateur d’initiatives citoyennes réunit ses lauréats pour un séminaire
 
-Si vous souhaitez participer au programme off, contactez : communication.dinum@modernisation.gouv.fr
+Si vous souhaitez participer au programme off, contactez : Communication.dinum[@]modernisation.gouv.fr 
 
 #### Programme du jeudi 19/10/23 : 
 * 9h : Accueil NEC
