@@ -38,7 +38,7 @@ Table ronde : L’ouverture des données pour favoriser la proactivité
 4. Les données sous-secrets pour favoriser la proactivité : Pourquoi ? Où en est-on ?  
 5. Comment identifier les cas d’usages ? L’approche moments de vie comme moyen d’identifier les parcours usagers à améliorer
 <br>
-
-<div align="center"><a href="https://cohesionnumerique.aromates.fr/inscriptions/" class="button"><b>S'inscrire à l'évènement</b></a></div>
 <br>
-<div class="lien-important"><p><a href="https://cohesionnumerique.aromates.fr/">Téléchargez le programme complet des Assises de la cohésion numérique et territoriale.</a></p></div> 
+
+<div align="center"><a href="mettre le lien"><b>S'inscrire à l'évènement</b></a></div>
+<br>
