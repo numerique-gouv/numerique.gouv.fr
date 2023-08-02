@@ -29,13 +29,7 @@ Il regroupe deux outils sur lesquels vous appuyer en vue d’élaborer une strat
 * Une traduction opérationnelle des articles de la loi REEN (exemples d’actions à mettre en place, indicateurs, outils et ressources mobilisables, retours d’expériences) ;
 * Un catalogue de ressources dédiées à l’élaboration d’une stratégie numérique responsable.
 
-<div class="wrapper">
-<div class="panel"> <p class="text-center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" title="Accéder à la traduction opérationnelle"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" alt="Accéder à la traduction opérationnelle" width="100"></a></p><p> <b>Traduction opérationnelle des articles de la loi REEN</b></p><div align="center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" class="button"><b>Accéder à la traduction opérationnelle</b></a></div>
-</div>
-<div class="panel">
-<p class="text-center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" title="Catalogue de ressources dédiées au numérique responsable"><img src="/uploads/couv-guide-pratique-SVE-usagers.png" style="border:solid 1px #dedede;" width="100" alt="Accéder au catalogue de ressources"></a></p>
-<br><p><b>Catalogue de ressources dédiées au numérique responsable</p><div align="center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" class="button"><b>Télécharger</b></a></div>
-</div>
+
 
 <h3 id="livrables-agenda"><b>Agenda de la transformation numérique des collectivités territoriales (2018-2024)</b></h3>
 
