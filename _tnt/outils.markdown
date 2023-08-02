@@ -20,6 +20,24 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 layout: tnt
 ---
 
+<h3 id="livrables-agenda"><b>Numérique responsable</b></h3>
+<h4>Stratégie numérique responsable des collectivités</h4>
+
+Coconstruit avec des agents de collectivités territoriales et d’administrations centrales dans le cadre du groupe projet 8 du Programme TNT, l’espace Stratégie numérique responsable des collectivités facilite l’élaboration et la mise en œuvre, par les collectivités, des obligations liés à l’article 35 de la loi du 15 novembre 2021 visant à réduire l’empreinte environnementale du numérique en France, dite loi REEN, et son décret d’application.
+
+Il regroupe deux outils sur lesquels vous appuyer en vue d’élaborer une stratégie numérique responsable au sein de votre collectivité :
+* Une traduction opérationnelle des articles de la loi REEN (exemples d’actions à mettre en place, indicateurs, outils et ressources mobilisables, retours d’expériences) ;
+* Un catalogue de ressources dédiées à l’élaboration d’une stratégie numérique responsable.
+
+<div class="wrapper">
+<div class="panel"> <p class="text-center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" title="Accéder à la traduction opérationnelle"><img src="/uploads/couv-guide-pratique-SVE.png" style="border:solid 1px #dedede;" alt="Accéder à la traduction opérationnelle" width="100"></a></p><p> <b>Traduction opérationnelle des articles de la loi REEN</b></p><div align="center"><a href="/uploads/Guide-pratique_mise-en-place_SVE.pdf" class="button"><b>Accéder à la traduction opérationnelle</b></a></div>
+</div>
+<div class="panel">
+<p class="text-center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" title="Télécharger le Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des usagers (odp, 600 ko)"><img src="/uploads/couv-guide-pratique-SVE-usagers.png" style="border:solid 1px #dedede;" width="100" alt="Télécharger le Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme à destination des usagers (odp, 600 ko)"></a></p>
+<br><p><b>Guide pratique en marque blanche sur la saisine par voie électronique (SVE) pour les demandes d’autorisations d’urbanisme</b> à destination des usagers<br>(odp, 600 ko)</p>
+<div align="center"><a href="/uploads/Guide-pratique_SVE_usagers.odp" class="button"><b>Télécharger</b></a></div>
+</div>
+
 <h3 id="livrables-agenda"><b>Agenda de la transformation numérique des collectivités territoriales (2018-2024)</b></h3>
 
 Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités une visibilité sur les chantiers de transformation numérique les impactant et leur permettre ainsi de mieux en anticiper les obligations et opportunités liées. 
