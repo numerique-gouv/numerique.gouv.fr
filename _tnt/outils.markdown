@@ -142,6 +142,16 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 
 <div align="left"><a href="https://programme-tnt.gitbook.io/donnees-territoires/" class="button" title="Accéder à l’Atelier Données & Territoires - Lien externe"><b>Accéder à l’Atelier Données & Territoires</b></a></div>
 
+<div class="wrapper">
+<div class="panel-center">
+<p class="text-center"><a href=" https://programme-tnt.gitbook.io/donnees-territoires/" title="Accéder à l’Atelier Données & Territoires - Lien externe - Lien externe"><img src /uploads/illustration%20-%20atelier%20donn%C3%A9es%20&%20territoires.png" style="border:solid 1px #dedede;" width="250" alt=" Accéder à l’Atelier Données & Territoires - Lien externe"></a></p>
+<b>Atelier Données & Territoires </b>
+<div align="center"><a href=" https://programme-tnt.gitbook.io/donnees-territoires/" class="button" title="Accéder à l’Atelier Données & Territoires - Lien externe"><b>Accéder à l’atelier</b></a></div>
+</div>
+</div>
+<br>
+
+
 <!--
 <h3 id="livrables-sensibilisation">Sensibilisation des élus et cadres dirigeants des collectivités</h3>
 Le groupe projet 2, dédié à la sensibilisation des élus et cadres dirigeants des collectivités aux enjeux de la transformation numérique, a conçu et diffusé auprès des élus une enquête afin de sonder leur perception du numérique, les possibilités de formation déjà existantes, et d’identifier la thématique liée au numérique qui suscite le plus leur intérêt.
