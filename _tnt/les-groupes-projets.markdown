@@ -66,6 +66,10 @@ Tous les groupes projets sont ouverts aux agents ou élus de collectivités terr
 #### Groupe Projet 8 : Accompagnement des collectivités vers la mise en œuvre d’un numérique écoresponsable
 * **Objectifs :** Adresser le numérique écoresponsable à l’échelon local en proposant des ressources et outils pouvant servir à la mise en œuvre d’une stratégie en vue notamment des nouvelles obligations issues de l’article 35 de la loi REEN, et explorer des pistes de travail pour un numérique au service de la transition écologique.
 * **Copilotes :** la direction interministérielle du numérique (DINUM), [la mission interministérielle numérique écoresponsable](https://ecoresponsable.numerique.gouv.fr/ "la mission interministérielle numérique écoresponsable - Lien externe") (MiNumEco), France urbaine, l’Assemblée des Communautés de France (AdCF), les Interconnectés
+
+#### Groupe Projet 9 : Mutualisation de produits et services numériques entre Etat et collectivités territoriales
+* **Objectifs :** Explorer les modalités juridiques, financières et techniques de mutualisation des produits numériques de l'Etat avec les collectivités territoriales.
+* **Copilotes :** la direction interministérielle du numérique (DINUM), l’association Déclic et FNCCR
 <br>
 <br>
 
