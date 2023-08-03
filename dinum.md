@@ -12,7 +12,7 @@ chapeau-text: 'Service de la Première ministre, placé sous l’autorité du mi
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 12 juin 2023
+date_de_modification: 1er août 2023
 layout: dinsic
 ---
 
