@@ -29,7 +29,13 @@ Il regroupe deux outils sur lesquels vous appuyer en vue d’élaborer une strat
 * Une traduction opérationnelle des articles de la loi REEN (exemples d’actions à mettre en place, indicateurs, outils et ressources mobilisables, retours d’expériences) ;
 * Un catalogue de ressources dédiées à l’élaboration d’une stratégie numérique responsable.
 
-
+<div class="wrapper">
+<div class="panel"> <p class="text-center"><a href="https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/" title="Accéder à la traduction opérationnelle"><img src="/uploads/illustration%20-%20traduction%20op%C3%A9rationnelle.png" style="border:solid 1px #dedede;" alt="Accéder à la traduction opérationnelle" width="100"></a></p><p> <b> Traduction opérationnelle des articles de la loi REEN </b></p><div align="center"><a href="https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/" title="Accéder à la traduction opérationnelle" class="button"><b>Accéder à la traduction opérationnelle</b></a></div>
+</div>
+<div class="panel"> <p class="text-center"><a href="https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/" title="Accéder au catalogue de ressources dédiées au numérique responsable"><img src="/uploads/illustration%20-%20catalogue%20de%20ressources.png" style="border:solid 1px #dedede;" alt="Accéder au catalogue de ressources dédiées au numérique responsable" width="100"></a></p><p> <b>Catalogue de ressources dédiées au numérique responsable</b><br>(pdf, 1,2 Mo) </p><div align="center"><a href="https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/" class="button"><b>Accéder au catalogue de ressources</b></a></div>
+</div>
+</div>
+<br>
 
 <h3 id="livrables-agenda"><b>Agenda de la transformation numérique des collectivités territoriales (2018-2024)</b></h3>
 
