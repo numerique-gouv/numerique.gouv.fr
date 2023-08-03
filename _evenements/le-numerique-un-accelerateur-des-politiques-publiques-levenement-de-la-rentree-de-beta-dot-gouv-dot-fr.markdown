@@ -1,6 +1,5 @@
 ---
-title: Le numérique, un accélérateur des politiques publiques - L’événement de la
-  rentrée de beta.gouv.fr
+title: Le numérique, un accélérateur des Politiques Prioritaires du Gouvernement
 date: 2023-07-25 14:10:00 +02:00
 published: false
 categories:
@@ -9,6 +8,15 @@ chapeau-text: 'Décideurs et agents publics : participez à une demi-journée af
   découvrir les réalisations concrètes mises en place sur plusieurs politiques prioritaires
   notamment grâce au fonds d’accélération des Startups d’État et de territoires (FAST),
   piloté par beta.gouv.fr au sein de la DINUM.'
+une-ou-diaporama:
+- image: "/uploads/Ev%C3%A9nement%20de%20la%20rentr%C3%A9e%20de%20beta.gouv.fr%20-%20Twitter%20Post%20(3).png"
+  alternative-textuelle: |-
+    Le numérique, un accélérateur des Politiques Prioritaires du Gouvernement.
+    Organisé par l'incubateur beta.gouv.fr de la DINUM.
+
+    Inscription obligatoire
+    18 septembre 2023
+    75007 paris
 event_start_date: 2023-09-18 14:30:00 +02:00
 lieu: Auditorium de Ségur
 adresse: 20 avenue de Ségur 75007 Paris
@@ -21,7 +29,7 @@ champs_informations:
   contenu: Evénement gratuit réservé aux agents publics, inscription obligatoire
 - intitule: Inscription
   contenu: Via ce formulaire en ligne
-  lien: 
+  lien: https://tally.so/r/npdgzq
 ---
 
 Au cours de cette demi-journée dédiée à la célébration des **succès de politiques publiques qui ont été accélérées grâce au numérique**, nous aurons ainsi l'occasion de **présenter les réalisations et l'impact des Startups d’État,** ainsi que d'encourager la mobilisation des administrations autour des **“feuilles de route numérique et données”**.
@@ -50,6 +58,9 @@ L'événement sera également l'occasion d'**annoncer les lauréats du FAST 12**
 <ul><li>Faire découvrir les produits Beta et les prochains lauréats du FAST</li></ul>
 <ul><li>Faire découvrir les Politiques Prioritaires du Gouvernement</li></ul>
 <br>
+<br>
+
+<div class="lien-important" style="margin-bottom:10px"> <p><a href="https://tally.so/r/npdgzq">S'inscrire</a></p> </div>
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le FAST, c'est quoi ?</h3>
 <figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
