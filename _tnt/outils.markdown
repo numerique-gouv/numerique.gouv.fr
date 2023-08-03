@@ -20,23 +20,6 @@ style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: 
 layout: tnt
 ---
 
-<h3 id="livrables-agenda"><b>Numérique responsable</b></h3>
-<h4>Stratégie numérique responsable des collectivités</h4>
-
-Coconstruit avec des agents de collectivités territoriales et d’administrations centrales dans le cadre du groupe projet 8 du Programme TNT, l’espace Stratégie numérique responsable des collectivités facilite l’élaboration et la mise en œuvre, par les collectivités, des obligations liés à l’article 35 de la loi du 15 novembre 2021 visant à réduire l’empreinte environnementale du numérique en France, dite loi REEN, et son décret d’application.
-
-Il regroupe deux outils sur lesquels vous appuyer en vue d’élaborer une stratégie numérique responsable au sein de votre collectivité :
-* Une traduction opérationnelle des articles de la loi REEN (exemples d’actions à mettre en place, indicateurs, outils et ressources mobilisables, retours d’expériences) ;
-* Un catalogue de ressources dédiées à l’élaboration d’une stratégie numérique responsable.
-
-<div class="wrapper">
-<div class="panel"> <p class="text-center"><a href="https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/" title="Accéder à la traduction opérationnelle"><img src="/uploads/illustration%20-%20traduction%20op%C3%A9rationnelle.png" style="border:solid 1px #dedede;" alt="Accéder à la traduction opérationnelle" width="250"></a></p><p> <b> Traduction opérationnelle des articles de la loi REEN </b></p><div align="center"><a href="https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/" title="Accéder à la traduction opérationnelle" class="button"><b>Accéder à la traduction</b></a></div>
-</div>
-<div class="panel"> <p class="text-center"><a href="https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/" title="Accéder au catalogue de ressources dédiées au numérique responsable"><img src="/uploads/illustration%20-%20catalogue%20de%20ressources.png" style="border:solid 1px #dedede;" alt="Accéder au catalogue de ressources dédiées au numérique responsable" width="250"></a></p><p> <b>Catalogue de ressources dédiées au numérique responsable</b></p><div align="center"><a href="https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/" class="button"><b>Accéder au catalogue</b></a></div>
-</div>
-</div>
-<br>
-
 <h3 id="livrables-agenda"><b>Agenda de la transformation numérique des collectivités territoriales (2018-2024)</b></h3>
 
 Issu du groupe projet 1, cet agenda a pour objectif de donner aux collectivités une visibilité sur les chantiers de transformation numérique les impactant et leur permettre ainsi de mieux en anticiper les obligations et opportunités liées. 
@@ -151,6 +134,23 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 <p class="text-center"><a href="https://programme-tnt.gitbook.io/donnees-territoires/" title="Accéder à l’Atelier Données & Territoires - Lien externe"><img src="/uploads/illustration-atelier-donnees-territoires.jpg" style="border:solid 1px #dedede;" width="250" alt="Accéder à l’Atelier Données & Territoires - Lien externe"></a></p>
 <b>Atelier Données & Territoires</b>
 <div align="center"><a href="https://programme-tnt.gitbook.io/donnees-territoires/" class="button"><b>Accéder à l'atelier</b></a></div>
+</div>
+</div>
+<br>
+
+<h3 id="livrables-agenda"><b>Numérique responsable</b></h3>
+<h4>Stratégie numérique responsable des collectivités</h4>
+
+Coconstruit avec des agents de collectivités territoriales et d’administrations centrales dans le cadre du groupe projet 8 du Programme TNT, l’espace Stratégie numérique responsable des collectivités facilite l’élaboration et la mise en œuvre, par les collectivités, des obligations liés à l’article 35 de la loi du 15 novembre 2021 visant à réduire l’empreinte environnementale du numérique en France, dite loi REEN, et son décret d’application.
+
+Il regroupe deux outils sur lesquels vous appuyer en vue d’élaborer une stratégie numérique responsable au sein de votre collectivité :
+* Une traduction opérationnelle des articles de la loi REEN (exemples d’actions à mettre en place, indicateurs, outils et ressources mobilisables, retours d’expériences) ;
+* Un catalogue de ressources dédiées à l’élaboration d’une stratégie numérique responsable.
+
+<div class="wrapper">
+<div class="panel"> <p class="text-center"><a href="https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/" title="Accéder à la traduction opérationnelle"><img src="/uploads/illustration%20-%20traduction%20op%C3%A9rationnelle.png" style="border:solid 1px #dedede;" alt="Accéder à la traduction opérationnelle" width="250"></a></p><p> <b> Traduction opérationnelle des articles de la loi REEN </b></p><div align="center"><a href="https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/" title="Accéder à la traduction opérationnelle" class="button"><b>Accéder à la traduction</b></a></div>
+</div>
+<div class="panel"> <p class="text-center"><a href="https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/" title="Accéder au catalogue de ressources dédiées au numérique responsable"><img src="/uploads/illustration%20-%20catalogue%20de%20ressources.png" style="border:solid 1px #dedede;" alt="Accéder au catalogue de ressources dédiées au numérique responsable" width="250"></a></p><p> <b>Catalogue de ressources dédiées au numérique responsable</b></p><div align="center"><a href="https://ecoresponsable.numerique.gouv.fr/publications/strategie-numerique-responsable-des-collectivites/catalogue-outils/" class="button"><b>Accéder au catalogue</b></a></div>
 </div>
 </div>
 <br>
