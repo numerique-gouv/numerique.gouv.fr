@@ -115,7 +115,7 @@ function myFunction(id) {
     <li>Campus du numérique</li>
   </ul>
 </ul>
-<p style="margin-top: 10px">Organigramme daté du 12 juin 2023</p>
+<p style="margin-top: 10px">Organigramme daté du 1er août 2023</p>
 </div>
 </div>
 </div>
