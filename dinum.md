@@ -12,7 +12,7 @@ chapeau-text: 'Service de la Première ministre, placé sous l’autorité du mi
 une:
   image: "/assets/img/main/image_DINSIC.jpg"
   alternative-textuelle: 
-date_de_modification: 12 juin 2023
+date_de_modification: 1er août 2023
 layout: dinsic
 ---
 
@@ -42,7 +42,7 @@ La DINUM comprend six départements et trois missions :
 <br>
 <br>
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/12-06-2023-Organigramme%20DINUM-300f67.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme%20DINUM%20Aout%202023.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
 
 <script>
 function myFunction(id) {
@@ -108,14 +108,14 @@ function myFunction(id) {
     <li>Réutilisation de la donnée ouverte</li>
     <li>Incubateur de produits interministériels</li>
   </ul>
-<li><b>le département « RH de la filière numérique de l’État » (RHN) :</b> Chef du département : à nommer.</li>
+<li><b>le département « RH de la filière numérique de l’État » (RHN) :</b> Chef du département : Cornelia Findeisen.</li>
   <ul>
     <li>RH et attractivité</li>
     <li>Fidélisation des Parcours du numérique</li>
     <li>Campus du numérique</li>
   </ul>
 </ul>
-<p style="margin-top: 10px">Organigramme daté du 12 juin 2023</p>
+<p style="margin-top: 10px">Organigramme daté du 1er août 2023</p>
 </div>
 </div>
 </div>
