@@ -160,7 +160,7 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 
 <div class="wrapper">
 <div class="panel-center">
-<p class="text-center"><a href="https://programme-tnt.gitbook.io/donnees-territoires/" title="Accéder à l’Atelier Données & Territoires - Lien externe"><img src="/uploads/capture-agenda-transfonum-collterr_250.jpg" style="border:solid 1px #dedede;" width="250" alt="Accéder à l’Atelier Données & Territoires - Lien externe"></a></p>
+<p class="text-center"><a href="https://programme-tnt.gitbook.io/donnees-territoires/" title="Accéder à l’Atelier Données & Territoires - Lien externe"><img src="/uploads/illustration-atelier-donnees-territoires.jpg" style="border:solid 1px #dedede;" width="100" alt="Accéder à l’Atelier Données & Territoires - Lien externe"></a></p>
 <b>Atelier Données & Territoires</b>
 <div align="center"><a href="https://programme-tnt.gitbook.io/donnees-territoires/" class="button"><b>Accéder à l'agenda</b></a></div>
 </div>
