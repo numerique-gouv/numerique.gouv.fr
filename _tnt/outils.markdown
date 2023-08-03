@@ -146,8 +146,6 @@ Pour obtenir des compléments d’informations sur ces travaux ou accéder à to
 <p>Chaque utilisateur de l’Atelier est également invité à contribuer au catalogue de ressources grâce à des formulaires de contribution permettant d’ajouter de nouveaux contenus identifiés ou produits.</p>
 <p>Plus qu’un simple référencement de ressources, l’Atelier Données & Territoires a aussi  été conçu pour être un appui à la transformation numérique des territoires, notamment les plus petits. Nous souhaitons que les contenus mis à disposition puissent être réutilisés, par exemple pour créer des parcours de formation, des contenus inédits ou faire l’objet d’une sensibilisation en interne.</p>
 
-<div align="left"><a href="https://programme-tnt.gitbook.io/donnees-territoires/" class="button" title="Accéder à l’Atelier Données & Territoires - Lien externe"><b>Accéder à l’Atelier Données & Territoires</b></a></div>
-
 <div class="wrapper">
 <div class="panel-center">
 <p class="text-center"><a href="https://programme-tnt.gitbook.io/donnees-territoires/" title="Accéder à l’Atelier Données & Territoires - Lien externe"><img src="/uploads/illustration-atelier-donnees-territoires.jpg" style="border:solid 1px #dedede;" width="250" alt="Accéder à l’Atelier Données & Territoires - Lien externe"></a></p>
