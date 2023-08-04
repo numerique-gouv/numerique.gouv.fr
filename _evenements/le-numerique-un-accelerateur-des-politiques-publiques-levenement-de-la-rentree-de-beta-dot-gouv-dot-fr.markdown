@@ -1,5 +1,5 @@
 ---
-title: Le numérique, un accélérateur des Politiques Prioritaires du Gouvernement
+title: Le numérique, un accélérateur des politiques prioritaires du Gouvernement
 date: 2023-07-25 14:10:00 +02:00
 published: false
 categories:
