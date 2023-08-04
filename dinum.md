@@ -42,7 +42,7 @@ La DINUM comprend six départements et trois missions :
 <br>
 <br>
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme%20DINUM%20Aout%202023.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme-DINUM%20Aout%202023.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
 
 <script>
 function myFunction(id) {
@@ -73,7 +73,7 @@ function myFunction(id) {
 <ul><li><b>le département « Appui, conseil et expertise » :</b> Chef du département : Jérémie Vallet.</li>
   <ul>
     <li>Brigade d’intervention numérique</li>
-    <li>Expertise, contrôle et maîtrise des risques</li>
+    <li>Expertise, sécurisation et maîtrise des risques</li>
     <li>Référentiels, capitalisation et Observatoires</li>
     <li>Proactivité</li>
     <li>Transformation numérique des territoires</li>
