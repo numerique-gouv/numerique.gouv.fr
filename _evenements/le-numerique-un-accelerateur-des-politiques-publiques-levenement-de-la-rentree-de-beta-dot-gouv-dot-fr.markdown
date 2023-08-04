@@ -1,13 +1,13 @@
 ---
-title: Le numérique, un accélérateur des Politiques Prioritaires du Gouvernement
+title: Le numérique, un accélérateur des politiques prioritaires du Gouvernement
 date: 2023-07-25 14:10:00 +02:00
-published: false
 categories:
 - Évènement
-chapeau-text: 'Décideurs et agents publics : participez à une demi-journée afin de
-  découvrir les réalisations concrètes mises en place sur plusieurs politiques prioritaires
-  notamment grâce au fonds d’accélération des Startups d’État et de territoires (FAST),
-  piloté par beta.gouv.fr au sein de la DINUM.'
+chapeau-text: 'Décideurs et agents publics : participez à un temps d’échange le 18
+  septembre après-midi afin de découvrir les réalisations concrètes mises en place
+  par l’incubateur de services numériques de la direction interministérielle du numérique
+  (DINUM) beta.gouv.fr ayant pour mission de faire réussir les politiques prioritaires
+  gouvernementales en créant des services numériques agiles et innovants. '
 une-ou-diaporama:
 - image: "/uploads/Ev%C3%A9nement%20de%20la%20rentr%C3%A9e%20de%20beta.gouv.fr%20-%20Twitter%20Post%20(3).png"
   alternative-textuelle: |-
@@ -22,9 +22,9 @@ lieu: Auditorium de Ségur
 adresse: 20 avenue de Ségur 75007 Paris
 champs_informations:
 - intitule: Horaires
-  contenu: 14h30 - 18h
+  contenu: 15h (accueil dès 14h) - 18h
 - intitule: Comment y aller ?
-  contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur
+  contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur Saint-François-Xavier ⑬
 - intitule: Modalités
   contenu: Evénement gratuit réservé aux agents publics, inscription obligatoire
 - intitule: Inscription
@@ -32,35 +32,37 @@ champs_informations:
   lien: https://tally.so/r/npdgzq
 ---
 
-Au cours de cette demi-journée dédiée à la célébration des **succès de politiques publiques qui ont été accélérées grâce au numérique**, nous aurons ainsi l'occasion de **présenter les réalisations et l'impact des Startups d’État,** ainsi que d'encourager la mobilisation des administrations autour des **“feuilles de route numérique et données”**.
+Afin d’accélérer l’avancement des politiques prioritaires du Gouvernement (PPG), l’Etat s’appuie sur le plein potentiel du numérique et déploie des méthodes agiles guidées par l’impact afin de rendre son action plus efficace, plus simple et plus souveraine. Dans cette perspective, la direction interministérielle du numérique, intervenant sous l’égide du ministère de Transformation et de la Fonction publiques, réuni les décideurs et agents publics. 
 
-L'événement sera également l'occasion d'**annoncer les lauréats du FAST 12**, et de **lancer l'appel à candidatures pour la prochaine édition**. 
+Lors de cette demi-journée, il s’agira d’échanger sur **la puissance qu’offre le numérique pour faire réussir les politiques prioritaires gouvernementales en créant des services numériques agiles et innovants** en s’appuyant notamment sur l’approche beta.gouv.fr partant des besoins du terrain pour expérimenter des solutions jusqu’à trouver le modèle le plus adéquat qui répondra aux besoins des usagers avant d’être déployé à plus grande échelle s’il prouve son impact. 
+
+En plus de ce temps d’échange, des **créneaux de rendez-vous avec un mentor expert sont proposés** pour permettre de tester différentes manières d’activer l’offre de service de la DINUM.
+
+
+<div class="lien-important" style="margin-bottom:10px"> <p><a href="https://beta.gouv.fr/">En savoir plus sur beta.gouv.fr</a></p> </div>
+ 
+<div class="lien-important" style="margin-bottom:10px"> <p><a href="https://www.numerique.gouv.fr/dinum/">En savoir plus sur la DINUM et consulter sa nouvelle feuille de route</a></p> </div>
+
+Cet événement sera aussi l’occasion de **présenter les Startups d’Etat lauréates du fonds d’accélération des Startups d’État et de territoires (FAST) n°13** lancé le 16 février dernier.  
 
 <div class="lien-important" style="margin-bottom:10px"> <p><a href="https://beta.gouv.fr/approche/fast">En savoir plus sur le FAST</a></p> </div>
- 
 
 ## Programme détaillé
 <h3 class="h4">[14h30-15h] <b>Accueil des participants</b></h3>
 
 <h3 class="h4">[15h-15h15] <b>Discours d’ouverture</b></h3>
-<p>Par Stéphanie Schaer, directrice interministérielle du numérique</p>
 
-<h3 class="h4">[15h15-16h] <b>Bilan de la 12e session du programme FAST</b></h3>
-<ul><li>Retour sur l’impact des services numériques accompagnés par le FAST12 grâce à un retour de séquences usagers (user stories)</li></ul>
-
-<h3 class="h4">[16h-16h30] <b>Le numérique au service des Politiques Prioritaires du Gouvernement</b></h3>
+<h3 class="h4">[15h15-16h30] <b>Plénière – détail à venir</b></h3>
 
 <h3 class="h4">[16h30-16h45] <b>Clôture de la plénière</b></h3>
-<p>Par Stanislas Guerini, Ministre de la Transformation et de la Fonction publiques</p>
 
-<h3 class="h4">[16h45-18h] <b>Forum et cocktail sur la mezzanine</b></h3>
-<ul><li>Stands de démo sur la mezzanine</li></ul>
-<ul><li>Faire découvrir les produits Beta et les prochains lauréats du FAST</li></ul>
-<ul><li>Faire découvrir les Politiques Prioritaires du Gouvernement</li></ul>
-<br>
-<br>
+<h3 class="h4">[16h30-16h45] <b>Clôture de la plénière</b></h3>
+
+Cet événement est réservé aux décideurs et agents publics.
 
 <div class="lien-important" style="margin-bottom:10px"> <p><a href="https://tally.so/r/npdgzq">S'inscrire</a></p> </div>
+
+Vous êtes journaliste et cet événement vous intéresse contactez-nous : [floriane.beaudron@modernisation.gouv.fr](mailto:floriane.beaudron@modernisation.gouv.fr) 
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le FAST, c'est quoi ?</h3>
 <figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
