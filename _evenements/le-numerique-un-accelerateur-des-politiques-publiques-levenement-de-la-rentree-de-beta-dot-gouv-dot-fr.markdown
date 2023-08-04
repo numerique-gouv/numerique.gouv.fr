@@ -22,9 +22,9 @@ lieu: Auditorium de Ségur
 adresse: 20 avenue de Ségur 75007 Paris
 champs_informations:
 - intitule: Horaires
-  contenu: 14h30 - 18h
+  contenu: 15h (accueil dès 14h) - 18h
 - intitule: Comment y aller ?
-  contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur
+  contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur Saint-François-Xavier ⑬
 - intitule: Modalités
   contenu: Evénement gratuit réservé aux agents publics, inscription obligatoire
 - intitule: Inscription
