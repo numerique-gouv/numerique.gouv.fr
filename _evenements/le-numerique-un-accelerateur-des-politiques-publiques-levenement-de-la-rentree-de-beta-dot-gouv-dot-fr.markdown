@@ -62,7 +62,7 @@ Cet événement est réservé aux décideurs et agents publics.
 
 <div class="lien-important" style="margin-bottom:10px"> <p><a href="https://tally.so/r/npdgzq">S'inscrire</a></p> </div>
 
-Vous êtes journaliste et cet événement vous intéresse contactez-nous : [floriane.beaudron@modernisation.gouv.fr](mailto:floriane.beaudron@modernisation.gouv.fr) 
+Vous êtes journaliste et cet événement vous intéresse contactez-nous : [floriane.beaudron[@]modernisation.gouv.fr](mailto:floriane.beaudron@modernisation.gouv.fr) 
 
 <div class="encadre noir" style="margin-bottom:40px"><h3 style="margin-top: 40px;">Le FAST, c'est quoi ?</h3>
 <figure class="image-left" style="width: 30%; margin-right: 1em; margin-left: 2em;"> 
