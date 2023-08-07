@@ -32,13 +32,13 @@ champs_informations:
   lien: https://numerique-en-communs.fr/
 ---
 
-Partenaire de l’événement aux côtés de la Mednum, le CNNum, Opendata France, l’IGN, la Banque des Territoires et les acteurs locaux – en partenariat avec les rencontres internationales Digital Society, Digital Cities, organisées par Bordeaux Métropole, la DINUM portera spécifiquement l’une des 5 thématiques de NEC : « Communs & souveraineté ». Les autres thématiques porteront sur « Données & territoire », « Médiation & compétences numériques », « Écologie & soutenabilité », « Éthique & émancipation ».
+Partenaire de l’événement aux côtés de la Mednum, le CNNum, Opendata France, l’IGN, la Banque des Territoires et les acteurs locaux – en partenariat avec les rencontres internationales Digital Society, Digital Cities, organisées par Bordeaux Métropole, **la DINUM portera spécifiquement l’une des 5 thématiques de NEC : « Communs & souveraineté »**. Les autres thématiques porteront sur « Données & territoire », « Médiation & compétences numériques », « Écologie & soutenabilité », « Éthique & émancipation ».
 
 ### Découvrir, échanger et imaginer le numérique d’intérêt général de demain :
 
-L’événement accueillera des professionnels investis pour un numérique durable et inclusif. Durant ces deux jours, des ateliers (1h30 ou 3h) seront organisés, des pitchs (1h), des plénières (1h), des masterclass (1h30) ou encore des retex (45min).
+L’événement accueillera des professionnels investis **pour un numérique durable et inclusif**. Durant ces deux jours, des ateliers (1h30 ou 3h) seront organisés, des pitchs (1h), des plénières (1h), des masterclass (1h30) ou encore des retex (45min).
 
-Le but de Numérique en Commun[s] ? Permettre à chaque acteur de se retrouver, de se former, d’échanger et de produire des solutions pour défendre un numérique d’intérêt général.
+**Le but de Numérique en Commun[s] ?** Permettre à chaque acteur de se retrouver, de se former, d’échanger et de produire des solutions pour défendre un numérique d’intérêt général.
 
 ### Mobilisation des équipes de la DINUM : 
 
@@ -50,10 +50,10 @@ Les membres du nouveau département Opérateur de produits interministériels de
 
 ### Programme détaillé :
 
-Programme « Off » du mercredi 18 octobre :
+**Programme « Off » du mercredi 18 octobre** :
 <br>Des temps informels sur invitation sont organisés par les départements Incubateur de services numériques comprenant beta.gouv.fr et le programme Accélérateur d’initiatives citoyennes et le département Opérateur de produits interministériels. Si vous souhaitez participer au programme off, contactez : [Communication.dinum[@]modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr)
 
-Programme « IN » du jeudi 19/10/23 :
+**Programme « IN » du jeudi 19/10/23** :
 
 <div align="center"><a href="https://numerique-en-communs.fr/infos-pratiques/" class="button"><b>Infos pratiques</b></a></div>
 <br>
