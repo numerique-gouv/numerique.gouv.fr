@@ -73,6 +73,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurdirectrice-de-projet-securisation-conseil-des-grands-projets-si-etat-et-panorama-hf-reference-2023-1288461/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffechef-du-pole-expertise-securisation-et-maitrise-des-risques-hf-reference-2023-1302970/" title="Chef/fe du pôle expertise, sécurisation et maîtrise des risques H/F - Lien externe">Chef/fe du pôle expertise, sécurisation et maîtrise des risques H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffechef-du-pole-expertise-securisation-et-maitrise-des-risques-hf-reference-2023-1302970/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
@@ -96,6 +102,12 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-la-mission-europe-et-international-de-la-dinum-hf-reference-2023-1309142/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-de-la-mission-europe-et-international-hf-reference-2023-1302994/" title="Chef/fe adjoint(e) de la mission Europe et international H/F - Lien externe">Chef/fe adjoint(e) de la mission Europe et international H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-de-la-mission-europe-et-international-hf-reference-2023-1302994/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/" title="Juriste - Droit du numérique public H/F - Lien externe">Juriste - Droit du numérique public H/F</a></b>
@@ -186,6 +198,12 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-budget-et-achats-hf-reference-2023-1282377/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/gestionnaire-financier-hf-reference-2023-1304295/" title="Gestionnaire financier H/F - Lien externe">Gestionnaire financier H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/gestionnaire-financier-hf-reference-2023-1304295/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
