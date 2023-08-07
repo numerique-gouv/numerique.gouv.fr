@@ -42,7 +42,7 @@ La DINUM comprend six départements et trois missions :
 <br>
 <br>
 
-<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme-DINUM%20Aout%202023.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
+<div align="center" style="margin-bottom: 30px"><a href="/uploads/Organigramme%20DINUM_Aout_2023.pdf" class="button"><b>Consulter l'organigramme (100 Ko)</b></a></div>
 
 <script>
 function myFunction(id) {
@@ -65,7 +65,8 @@ function myFunction(id) {
 <div class="accordion-content" id="organigramme">
 <ul>
 <li><b>Direction :</b> Stéphanie Schaer. Adjoint : à nommer</li>
-<br><li><b>Mission Droit et international</b></li>
+<br><li><b>Mission Juridique</b></li>
+<li><b>Mission  Europe et international</b></li>
 <li><b>Mission  Budget et achats</b></li>
 <li><b>Cabinet</b></li>
 <li><b>Mission Communication</b></li></ul>
