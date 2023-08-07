@@ -1,5 +1,5 @@
 ---
-title: Numérique en Commun[s] à Bordeaux
+title: La DINUM partenaire de Numérique en Commun[s] à Bordeaux
 date: 2023-07-26 14:24:00 +02:00
 categories:
 - Évènement
@@ -62,7 +62,7 @@ Programme « IN » du jeudi 19/10/23 :
 
 <div class="lien-important" style="margin-bottom:10px"> <p><a href="https://numerique-en-communs.fr/vous-inscrire-en-groupe/">S’inscrire par groupe</a></p> </div>
 
-### LE GRAND RDV DU NUMÉRIQUE D’INTÉRÊT GÉNÉRAL 
+### Le grand RDV du numérique d'intérêt général
 A l’initiative du programme Société Numérique de l’Agence Nationale de la Cohésion des Territoires (ANCT), Numérique en Commun[s] (NEC) rassemble pendant plusieurs jours tous les professionnels du numérique d’intérêt général qu’ils soient débutants ou experts, acteurs historiques de NEC ou nouvelles recrues, en vue de construire un numérique plus ouvert, inclusif, accessible, durable, souverain et éthique. 
 
 Cette année, NEC se tiendra les 19 et 20 octobre 2023 à Bordeaux et le 18 octobre sera dédié à des échanges plus informels entre pairs. Pour cette 6ème édition, construite avec l’appui de partenaires – la [Mednum](https://lamednum.coop/notre-cooperative/), le [CNNum](https://cnnumerique.fr/), [Opendata France](https://www.opendatafrance.net/), l’[IGN](https://www.ign.fr/), la DINUM, la [Banque des Territoires](https://www.banquedesterritoires.fr/) et les acteurs locaux – en partenariat avec les rencontres internationales Digital Society, Digital Cities, organisées par Bordeaux Métropole, ville accueillant l’événement, 5 thématiques sont mises à l’honneur : « Données & territoire », « Médiation & compétences numériques », « Écologie & soutenabilité », « Communs & souveraineté », « Éthique & émancipation ». Pour en savoir plus : [numerique-en-communs.fr](https://numerique-en-communs.fr/)
