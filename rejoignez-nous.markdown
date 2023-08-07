@@ -85,6 +85,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-des-operations-de-la-brigade-d-intervention-numerique-hf-reference-2023-1302975/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurtrice-du-programme-transformation-numerique-des-territoires-tnt-hf-reference-2023-1308047/" title="Directeur/trice du programme Transformation numérique des territoires (TNT) H/F - Lien externe">Directeur/trice du programme Transformation numérique des territoires (TNT) H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurtrice-du-programme-transformation-numerique-des-territoires-tnt-hf-reference-2023-1308047/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
@@ -180,6 +186,12 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur--directrice-de-projet-si---messagerie-mail-de-l-etat-hf-reference-2023-1284451/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneur-euse-dites-le-nous-une-fois-europeen-hf-reference-2023-1308061/" title="Intrapreneur/euse Dites le nous une fois européen H/F - Lien externe">Intrapreneur/euse Dites le nous une fois européen H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneur-euse-dites-le-nous-une-fois-europeen-hf-reference-2023-1308061/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
