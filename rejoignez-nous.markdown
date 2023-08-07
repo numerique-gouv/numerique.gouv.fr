@@ -217,6 +217,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneureuse-circulation-de-la-donnee---chef-de-pole-hf-reference-2023-1293595/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeur-seuse-confirme-e-relations-agents-et-usagers-temps-partiel-reference-2023-1293554/" title="Développeur/seuse confirmé/e Relations agents et usagers Temps Partiel H/F - Lien externe">Développeur/seuse confirmé/e Relations agents et usagers Temps Partiel H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/developpeur-seuse-confirme-e-relations-agents-et-usagers-temps-partiel-reference-2023-1293554/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
