@@ -36,7 +36,8 @@ La DINUM comprend six départements et trois missions :
 <li>le département « Infrastructures et services opérés »</li> 
 <li>le département « Opérateur de produits interministériels »</li> 
 <li>le département « RH de la filière numérique de l’État »</li> 
-<li>la mission « Droit et international »</li> 
+<li>la mission « Juridique »</li> 
+<li>la mission « Europe et international »</li> 
 <li>la mission « Budget et achat »</li> 
 <li>la mission « Communication »</li></ul>
 <br>
