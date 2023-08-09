@@ -1,7 +1,6 @@
 ---
 title: La DINUM aux Journées européennes du patrimoine
 date: 2023-07-24 10:43:00 +02:00
-published: false
 categories:
 - Évènement
 tags:
@@ -25,9 +24,7 @@ champs_informations:
   contenu: Entrée libre sur présentation d'une pièce d'identité, accessible aux personnes
     en situation de handicap
 - intitule: Moyens d'accès
-  contenu: |-
-    Métro 12 station Solférino / 13 station Varenne
-    Bus 68 station Solferino-Bellechasse
+  contenu: Métro ⑫ Solférino / ⑬ Varenne Bus 68 Solferino-Bellechasse
 ---
 
 En famille ou entre amis, curieux du fonctionnement de nos institutions ou férus d’architecture, vous êtes toutes et tous les bienvenus le samedi 16 et dimanche 17 septembre 2023 de 10h à 18h à l’Hôtel de Rothelin-Charolais, pour (re) découvrir le patrimoine français.
@@ -40,7 +37,7 @@ Actuellement le [ministère de la Transformation et de la Fonction publiques](ht
 
 ## Qui sera présent ?
 
-Pendant tout le weekend, découvrez les différents lieux de travail du ministre de la Transformation et de la Fonction publiques. Ce sera aussi l'occasion de rencontrer les agents des trois directions de ce ministère : [la Direction interministérielle de la transformation publique (DITP)](https://www.modernisation.gouv.fr/), [la Direction générale de l'administration et de la fonction publique (DGAFP)](https://www.fonction-publique.gouv.fr/fonction-publique-1088) et la [Direction interministérielle du numérique (DINUM)](https://www.numerique.gouv.fr/dinum/).
+Pendant tout le week-end, découvrez les différents lieux de travail du ministre de la Transformation et de la Fonction publiques. Ce sera aussi l'occasion de rencontrer les agents des trois directions de ce ministère : [la Direction interministérielle de la transformation publique (DITP)](https://www.modernisation.gouv.fr/), [la Direction générale de l'administration et de la fonction publique (DGAFP)](https://www.fonction-publique.gouv.fr/fonction-publique-1088) et la [Direction interministérielle du numérique (DINUM)](https://www.numerique.gouv.fr/dinum/).
 
 L’équipe de la Direction interministérielle du numérique vous présentera sa mission : créer le service public de demain avec le numérique pour améliorer concrètement la vie des Français.
 
