@@ -24,9 +24,7 @@ champs_informations:
   contenu: Entrée libre sur présentation d'une pièce d'identité, accessible aux personnes
     en situation de handicap
 - intitule: Moyens d'accès
-  contenu: |-
-    Métro 12 station Solférino / 13 station Varenne
-    Bus 68 station Solferino-Bellechasse
+  contenu: Métro ⑫ Solférino / ⑬ Varenne Bus 68 Solferino-Bellechasse
 ---
 
 En famille ou entre amis, curieux du fonctionnement de nos institutions ou férus d’architecture, vous êtes toutes et tous les bienvenus le samedi 16 et dimanche 17 septembre 2023 de 10h à 18h à l’Hôtel de Rothelin-Charolais, pour (re) découvrir le patrimoine français.
