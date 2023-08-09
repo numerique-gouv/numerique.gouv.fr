@@ -24,7 +24,7 @@ champs_informations:
 - intitule: Horaires
   contenu: 15h (accueil dès 14h) - 18h
 - intitule: Comment y aller ?
-  contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur Saint-François-Xavier ⑬
+  contenu: Métro ➅ Cambronne ➇ Ecole Militaire ➉ Ségur ⑬ Saint-François-Xavier
 - intitule: Modalités
   contenu: Evénement gratuit réservé aux agents publics, inscription obligatoire
 - intitule: Inscription
