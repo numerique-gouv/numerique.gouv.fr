@@ -176,12 +176,6 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneur-euse-dites-le-nous-une-fois-europeen-hf-reference-2023-1308061/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-produit---authentification---suite-numerique-hf-reference-2023-1297367/" title="Responsable Produit - Authentification - Suite numérique H/F - Lien externe">Responsable Produit - Authentification - Suite numérique H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/responsable-produit---authentification---suite-numerique-hf-reference-2023-1297367/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/intrapreneureuse-circulation-de-la-donnee---chef-de-pole-hf-reference-2023-1293595/" title="Intrapreneur(euse) Circulation de la donnée - Chef de pôle H/F - Lien externe">Intrapreneur(euse) Circulation de la donnée - Chef de pôle H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
