@@ -158,7 +158,7 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-referente-production-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314721/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-charge-e-de-mission-production-et-projets-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314735/" title="Chargé/e de mission production et projets des raccordements au réseau interministériel de l'Etat H/F - Lien externe">Chargé/e de mission référent/e production des raccordements au réseau interministériel de l'Etat H/F</a></b>
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-charge-e-de-mission-production-et-projets-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314735/" title="Chargé/e de mission production et projets des raccordements au réseau interministériel de l'Etat H/F - Lien externe">Chargé/e de mission production et projets des raccordements au réseau interministériel de l'Etat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-charge-e-de-mission-production-et-projets-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314735/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
