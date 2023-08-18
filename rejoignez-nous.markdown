@@ -4,7 +4,7 @@ date: 2020-03-26 16:34:00 +01:00
 permalink: "/rejoignez-nous/"
 une-ou-diaporama:
   image: "/uploads/lancement-aap-pia-etna.jpg"
-date_de_modification: 14 août 2023
+date_de_modification: 18 août 2023
 style: ".button {\nbackground-color: #0d5c98;\nborder: 1px solid white;\ncolor: white;\npadding:
   10px 10px;\ntext-align: center;\ntext-decoration: none;\ndisplay: inline-block;\nfont-style:
   normal;\nmargin: 4px 2px;\ncursor: pointer;\n}\n\n.wrapper {\n  max-width: 940px;\n
@@ -85,6 +85,12 @@ layout: page-annexe
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeurtrice-du-programme-transformation-numerique-des-territoires-tnt-hf-reference-2023-1308047/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directrice-de-projet-securisation-sur-les-grands-projets-si-de-l-etat-hf-reference-2023-1314758/" title="Directeur/Directrice de projet Sécurisation sur les grands projets SI de l'Etat H/F - Lien externe">Directeur/Directrice de projet Sécurisation sur les grands projets SI de l'Etat H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directrice-de-projet-securisation-sur-les-grands-projets-si-de-l-etat-hf-reference-2023-1314758/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
 </div>
 <br>
 <br>
@@ -116,12 +122,6 @@ layout: page-annexe
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-la-mission-europe-et-international-de-la-dinum-hf-reference-2023-1309142/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-de-la-mission-europe-et-international-hf-reference-2023-1302994/" title="Chef/fe adjoint(e) de la mission Europe et international H/F - Lien externe">Chef/fe adjoint(e) de la mission Europe et international H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-de-la-mission-europe-et-international-hf-reference-2023-1302994/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffechef-de-la-mission-juridique-de-la-dinum-hf-reference-2023-1304296/" title="Chef/fe de la mission juridique de la DINUM H/F - Lien externe">Chef/fe de la mission juridique de la DINUM H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -150,6 +150,24 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1207704/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-referente-production-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314721/" title="Chargé/e de mission référent/e production des raccordements au réseau interministériel de l'Etat H/F - Lien externe">Chargé/e de mission référent/e production des raccordements au réseau interministériel de l'Etat H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-referente-production-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314721/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-charge-e-de-mission-production-et-projets-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314735/" title="Chargé/e de mission production et projets des raccordements au réseau interministériel de l'Etat H/F - Lien externe">Chargé/e de mission production et projets des raccordements au réseau interministériel de l'Etat H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-charge-e-de-mission-production-et-projets-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314735/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-production-du-rie-hf-reference-2023-1314750/" title="Chargé(e) de mission Production du RIE H/F - Lien externe">Chargé(e) de mission Production du RIE H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-production-du-rie-hf-reference-2023-1314750/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
@@ -216,6 +234,12 @@ layout: page-annexe
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
     <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/gestionnaire-de-proximite-des-ressources-humaines-et-logistique-hf-reference-2023-1308056/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
+  </div>
+  <div class="panel">
+    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-chargee-de-mission-fidelisation-et-parcours-hf-reference-2023-1215497/" title="Chargé(e) de mission Fidélisation et parcours H/F - Lien externe">Chargé(e) de mission Fidélisation et parcours H/F</a></b>
+    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
+    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
+    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-chargee-de-mission-fidelisation-et-parcours-hf-reference-2023-1215497/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
   </div>
 </div>
 <br>
