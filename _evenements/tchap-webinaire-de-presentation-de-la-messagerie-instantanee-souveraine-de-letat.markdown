@@ -2,6 +2,7 @@
 title: Tchap - webinaire de présentation de la messagerie instantanée souveraine de
   l’État
 date: 2023-08-23 15:38:00 +02:00
+published: false
 categories:
 - Webinaire
 tags:
@@ -18,8 +19,6 @@ lieu: En ligne
 champs_informations:
 - intitule: Dates et horaires
   contenu: 7 septembre à 10h et 14 septembre à 10h
-- intitule: Lieu
-  contenu: En ligne
 - intitule: Modalités
   contenu: Inscription obligatoire
   lien: https://tally.so/r/wA2PrD
