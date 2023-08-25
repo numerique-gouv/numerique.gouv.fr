@@ -7,6 +7,8 @@ tags:
 - Tech Show Paris
 chapeau-text: La DINUM sera présente au salon Tech Show Paris du 15 au 16 novembre
   à Paris, Porte de Versailles.
+une-ou-diaporama:
+- image: "/uploads/DINUM%20x%20Tech%20Show%20Paris_page%20agenda-7e9bde.png"
 event_start_date: 2023-11-15 09:00:00 +01:00
 event_end_date: 2023-11-16 18:00:00 +01:00
 lieu: Paris Expo Porte de Versailles, Hall 3
