@@ -47,16 +47,12 @@ Cet événement sera aussi l’occasion de **présenter les Startups d’Etat la
 
 <div class="lien-important" style="margin-bottom:10px"> <p><a href="https://beta.gouv.fr/approche/fast">En savoir plus sur le FAST</a></p> </div>
 
-## Programme détaillé
-<h3 class="h4">[14h30-15h] <b>Accueil des participants</b></h3>
-
-<h3 class="h4">[15h-15h15] <b>Discours d’ouverture</b></h3>
-
-<h3 class="h4">[15h15-16h30] <b>Plénière – détail à venir</b></h3>
-
-<h3 class="h4">[16h30-16h45] <b>Clôture de la plénière</b></h3>
-
-<h3 class="h4">[16h30-16h45] <b>Clôture de la plénière</b></h3>
+### Au programme :
+* [Intervention du ministre Stanislas Guérini]
+* Offre de service de la DINUM présentée par Stéphanie Schaer, directrice interministérielle du numérique
+* **Table ronde :** le numérique au service des politiques prioritaires du gouvernement
+* Présentation de projets inspirants co-financés par la DINUM
+* Networking et échanges avec des experts en numérique
 
 Cet événement est réservé aux décideurs et agents publics.
 
