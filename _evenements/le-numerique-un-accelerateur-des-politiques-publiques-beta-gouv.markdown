@@ -48,10 +48,10 @@ Cet événement sera aussi l’occasion de **présenter les Startups d’Etat la
 <div class="lien-important" style="margin-bottom:10px"> <p><a href="https://beta.gouv.fr/approche/fast">En savoir plus sur le FAST</a></p> </div>
 
 ### Au programme :
-* Offre de service de la DINUM présentée par Stéphanie Schaer, directrice interministérielle du numérique
+* **Offre de service de la DINUM** présentée par Stéphanie Schaer, directrice interministérielle du numérique
 * **Table ronde :** le numérique au service des politiques prioritaires du gouvernement
-* Présentation de projets inspirants co-financés par la DINUM
-* Networking et échanges avec des experts en numérique
+* **Présentation de projets inspirants** co-financés par la DINUM
+* **Networking et échanges** avec des experts en numérique
 
 Cet événement est réservé aux décideurs et agents publics.
 
