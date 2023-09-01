@@ -1,7 +1,7 @@
 ---
 title: Tchap - webinaire de présentation de la messagerie instantanée souveraine de
   l’État
-date: 2023-08-23 15:38:00 +02:00
+date: 2023-09-01 15:05:00 +02:00
 categories:
 - Webinaire
 - Webinaire d'information
@@ -9,14 +9,14 @@ tags:
 - Tchap
 chapeau-text: |-
   Agents publics, rejoignez la communauté Tchap pour échanger avec vos collègues, tous les autres agents publics et tous vos interlocuteurs même externes à l’État, de manière simple et sécurisée.
-  Pour en savoir plus sur l’utilisation de Tchap, participez au webinaire de présentation avec les équipes les jeudis 7 et 14 septembre à 10h, elles répondront à toutes vos questions portant sur l’utilisation de l’outil !
+  Pour en savoir plus sur l’utilisation de Tchap, participez au webinaire de présentation avec les équipes le jeudi 14 septembre à 10h, elles répondront à toutes vos questions portant sur l’utilisation de l’outil !
 une-ou-diaporama:
-- image: "/uploads/Tchap%20-%20visuel%202.png"
-event_start_date: 2023-09-07 10:00:00 +02:00
+- image: "/uploads/Tchap%20-%20visuel%202-36494b.png"
+event_start_date: 2023-09-14 10:00:00 +02:00
 lieu: En ligne
 champs_informations:
 - intitule: Dates et horaires
-  contenu: 7 septembre à 10h et 14 septembre à 10h
+  contenu: 14 septembre à 10h
 - intitule: Modalités
   contenu: Inscription obligatoire
   lien: https://tally.so/r/wA2PrD
@@ -39,5 +39,5 @@ L’ambition de Tchap est de s’ouvrir à tous les agents publics, y compris au
 
 * **Pour rejoindre Tchap :** [cliquez ici](https://tchap.beta.gouv.fr/?mtm_campaign=numerique-gouv-fr)
 * **Pour en savoir plus :** [consultez cette page](https://www.numerique.gouv.fr/outils-agents/tchap-messagerie-instantanee-etat/) ou la [FAQ](https://aide.tchap.beta.gouv.fr/fr/), les équipes sont disponibles via [tchap@beta.gouv.fr](tchap@beta.gouv.fr)
-* **Des webinaires de présentation sont régulièrement organisés**, pour participer aux prochains, les 7 et 14 septembre à 10h  : [cliquez ici](https://tally.so/r/wA2PrD)
+* **Des webinaires de présentation sont régulièrement organisés**, pour participer au prochain, le 14 septembre à 10h  : [cliquez ici](https://tally.so/r/wA2PrD)
 * **Votre administration n’a pas encore accès à Tchap :** complétez cette [démarche en ligne](https://www.demarches-simplifiees.fr/commencer/utiliser-tchap) en quelques clics
