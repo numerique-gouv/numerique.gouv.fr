@@ -15,7 +15,7 @@ une-ou-diaporama:
 event_start_date: 2023-09-14 10:00:00 +02:00
 lieu: En ligne
 champs_informations:
-- intitule: Dates et horaires
+- intitule: Date et horaire
   contenu: 14 septembre à 10h
 - intitule: Modalités
   contenu: Inscription obligatoire
