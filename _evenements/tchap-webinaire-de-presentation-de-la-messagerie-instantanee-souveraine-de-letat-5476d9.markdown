@@ -19,7 +19,7 @@ champs_informations:
   contenu: 14 septembre à 10h
 - intitule: Modalités
   contenu: Inscription obligatoire
-  lien: https://tally.so/r/wA2PrD
+  lien: https://tally.so/r/wgdpNl
 ---
 
 **Tchap est la messagerie instantanée souveraine de l’État garantissant sécurité et confidentialité de vos échanges professionnels.**
