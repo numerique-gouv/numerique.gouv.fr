@@ -41,62 +41,8 @@ layout: page-annexe
 <br>
 <br>
 
-<h1 class="h3"><b>Données / Datascience / Open data</b></h1>
-<div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-du-pole-animation-data-et-chargee-d-animation-data-hf-reference-2023-1210903/" title="Chef/fe adjoint/e du pôle animation data et chargé/e d'animation data H/F - Lien externe">Chef/fe adjoint/e du pôle animation data et chargé/e d'animation data H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-adjointe-du-pole-animation-data-et-chargee-d-animation-data-hf-reference-2023-1210903/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-d-animation-et-du-guichet-data-fh-hf-reference-2023-1196755/" title="Chargé d'animation et du guichet data H/F - Lien externe">Chargé d'animation et du guichet data H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-d-animation-et-du-guichet-data-fh-hf-reference-2023-1196755/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-</div>
-<br>
-<br>
-
-<h1 class="h3"><b>Droit et international</b></h1>
-<div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-la-mission-europe-et-international-de-la-dinum-hf-reference-2023-1309142/" title="Chef/fe de la mission Europe et international de la DINUM H/F - Lien externe">Chef/fe de la mission Europe et international de la DINUM H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffe-de-la-mission-europe-et-international-de-la-dinum-hf-reference-2023-1309142/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffechef-de-la-mission-juridique-de-la-dinum-hf-reference-2023-1304296/" title="Chef/fe de la mission juridique de la DINUM H/F - Lien externe">Chef/fe de la mission juridique de la DINUM H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/cheffechef-de-la-mission-juridique-de-la-dinum-hf-reference-2023-1304296/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/" title="Juriste - Droit du numérique public H/F - Lien externe">Juriste - Droit du numérique public H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/juriste---droit-du-numerique-public-hf-reference-2023-1154689/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-</div>
-<br>
-<br>
-
 <h1 class="h3"><b>Infrastructures, réseaux</b></h1>
 <div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-experte-reseau---charge-ede-mission-d-accompagnement-hf-reference-2023-1217804/" title="Ingénieur/e Expert/e Réseau - Chargé/e de mission d'accompagnement H/F - Lien externe">Ingénieur/e Expert/e Réseau - Chargé/e de mission d'accompagnement H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-experte-reseau---charge-ede-mission-d-accompagnement-hf-reference-2023-1217804/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1207704/" title="Ingénieur/e sécurité réseau (SOC du réseau interministériel de l'Etat) H/F - Lien externe">Ingénieur/e sécurité réseau (SOC du réseau interministériel de l'Etat) H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-e-securite-reseau-soc-du-reseau-interministeriel-de-l-etat-hf-reference-2023-1207704/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-referente-production-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314721/" title="Chargé/e de mission référent/e production des raccordements au réseau interministériel de l'Etat H/F - Lien externe">Chargé/e de mission référent/e production des raccordements au réseau interministériel de l'Etat H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
