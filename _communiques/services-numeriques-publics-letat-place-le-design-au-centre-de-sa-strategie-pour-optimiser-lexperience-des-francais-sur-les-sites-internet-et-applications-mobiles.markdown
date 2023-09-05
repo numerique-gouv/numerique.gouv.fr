@@ -3,14 +3,13 @@ title: 'Services numériques publics : l’État place le design au centre de sa
   pour optimiser l’expérience des Français sur les sites internet et applications
   mobiles'
 date: 2023-09-05 15:59:00 +02:00
-published: false
 categories:
 - Communiqué de presse
 chapeau-text: 'Le fonctionnement de l’administration et la transformation de l’action
   publique dépendent pour une large part de la qualité des services numériques que
   l’État est en mesure d’offrir à ses usagers. '
 une-ou-diaporama:
-- image: "/uploads/pexels-olia-danilevich-4974915.jpg"
+- image: "/uploads/Article_RGAA_v4_une-85fec5.jpg"
 files:
 - nom: Télécharger le communiqué de presse
 ---
