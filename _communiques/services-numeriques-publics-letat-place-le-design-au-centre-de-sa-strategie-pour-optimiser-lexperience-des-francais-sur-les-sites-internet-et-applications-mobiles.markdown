@@ -47,11 +47,7 @@ Enfin, la DINUM pourra agir en appui via sa brigade d’intervention numérique 
 <br>__
 
 **Documents**
-* Consulter la circulaire n°6411/SG : [lien]
-* Consulter la note d’application SIG : [lien]
-* Consulter la note d’application DINUM : [lien]
-
-[Retrouvez la circulaire n°6411/SG et les notes d'application](https://www.systeme-de-design.gouv.fr/a-propos/articles/circulaire-d-application)
+[Consultez la circulaire n°6411/SG et les notes d'application](https://www.systeme-de-design.gouv.fr/a-propos/articles/circulaire-d-application)
 
 **Participer au webinaire d’information** (réservé aux agents de l’État) le 7/09 de 12h à 13h : [inscrivez-vous ici](https://www.eventbrite.com/e/billets-webinaire-de-presentation-de-la-circulaire-n6411-sg-684653947387)
 <br>
