@@ -50,7 +50,7 @@ __
 * Consulter la note d’application SIG : [lien]
 * Consulter la note d’application DINUM : [lien]
 
-**Participer au webinaire d’information** (réservé aux agents de l’État) le 7/09 de 12h à 13h : ici
+**Participer au webinaire d’information** (réservé aux agents de l’État) le 7/09 de 12h à 13h : [ici](https://www.eventbrite.com/e/billets-webinaire-de-presentation-de-la-circulaire-n6411-sg-684653947387)
 <br>
 <br>
 **CONTACTS PRESSE**
