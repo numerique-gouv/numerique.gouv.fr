@@ -43,7 +43,8 @@ Sur les 21 000 agents travaillant sur des produits et services numériques de l�
 Enfin, la DINUM pourra agir en appui via sa brigade d’intervention numérique injectant des expertises techniques (management produit, coaching en design et expérience utilisateur, recherche utilisateur, développement front-end, accessibilité, cloud/devops) pendant quelques semaines ou mois au sein d’un projet. Le guichet « Design et accessibilité des produits et services numériques » du FTAP permet aux ministères d’obtenir des financements pour mener à bien ce type de projet.
 
 **C’est avec l’ensemble de ces nouvelles mesures et ce travail en commun du SIG et de la DINUM avec toutes les administrations que l’État crée des conditions propices à une transformation pérenne et stable de ses sites internet et applications mobiles au bénéfice de tous, ceci renforçant la confiance entre les usagers et l’administration.**
-__
+
+<br>__
 
 **Documents**
 * Consulter la circulaire n°6411/SG : [lien]
@@ -52,7 +53,7 @@ __
 
 [Retrouvez la circulaire n°6411/SG et les notes d'application](https://www.systeme-de-design.gouv.fr/a-propos/articles/circulaire-d-application)
 
-**Participer au webinaire d’information** (réservé aux agents de l’État) le 7/09 de 12h à 13h : [ici](https://www.eventbrite.com/e/billets-webinaire-de-presentation-de-la-circulaire-n6411-sg-684653947387)
+**Participer au webinaire d’information** (réservé aux agents de l’État) le 7/09 de 12h à 13h : [inscrivez-vous ici](https://www.eventbrite.com/e/billets-webinaire-de-presentation-de-la-circulaire-n6411-sg-684653947387)
 <br>
 <br>
 **CONTACTS PRESSE**
