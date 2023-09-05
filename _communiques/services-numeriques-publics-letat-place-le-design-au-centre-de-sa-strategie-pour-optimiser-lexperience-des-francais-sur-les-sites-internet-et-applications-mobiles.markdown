@@ -47,14 +47,13 @@ __
 **Participer au webinaire d’information** (réservé aux agents de l’État) le 7/09 de 12h à 13h : ici
 
 __
+**CONTACTS PRESSE**
+<br>**Service d’information du Gouvernement**
+<br>Mathilde Hervagault (cheffe de pôle réseaux territoires, international et relations presse)
+<br>[mathilde.hervagault@pm.gouv.fr](mailto:mathilde.hervagault@pm.gouv.fr)
+<br>06 83 13 52 78
 
-**Contacts presse :**
-**Service d’information du Gouvernement :**
-Mathilde Hervagault (cheffe de pôle réseaux territoires, international et relations presse)
-06 83 13 52 78
-[mathilde.hervagault@pm.gouv.fr](mathilde.hervagault@pm.gouv.fr)
-
-**Direction interministérielle du numérique :**
-Floriane Beaudron (cheffe de la mission communication)
-06 10 60 41 19
-[floriane.beaudron@modernisation.gouv.fr](floriane.beaudron@modernisation.gouv.fr)
+<br>**Direction interministérielle du numérique**
+<br>Floriane Beaudron (cheffe de la mission communication)
+<br>[floriane.beaudron@modernisation.gouv.fr](mailto:floriane.beaudron@modernisation.gouv.fr)
+<br>06 10 60 41 19
