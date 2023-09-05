@@ -5,6 +5,9 @@ title: 'Services numériques publics : l’État place le design au centre de sa
 date: 2023-09-05 15:59:00 +02:00
 categories:
 - Communiqué de presse
+tags:
+- Accessibilité
+- accessibilité numérique
 chapeau-text: 'Le fonctionnement de l’administration et la transformation de l’action
   publique dépendent pour une large part de la qualité des services numériques que
   l’État est en mesure d’offrir à ses usagers. '
@@ -48,8 +51,8 @@ __
 * Consulter la note d’application DINUM : [lien]
 
 **Participer au webinaire d’information** (réservé aux agents de l’État) le 7/09 de 12h à 13h : ici
-
-__
+<br>
+<br>
 **CONTACTS PRESSE**
 <br>**Service d’information du Gouvernement**
 <br>Mathilde Hervagault (cheffe de pôle réseaux territoires, international et relations presse)
