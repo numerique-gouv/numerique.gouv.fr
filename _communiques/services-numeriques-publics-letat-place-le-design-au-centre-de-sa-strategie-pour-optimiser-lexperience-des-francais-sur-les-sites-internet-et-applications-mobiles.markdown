@@ -42,7 +42,7 @@ Sur les 21 000 agents travaillant sur des produits et services numériques de l�
 
 Enfin, la DINUM pourra agir en appui via sa brigade d’intervention numérique injectant des expertises techniques (management produit, coaching en design et expérience utilisateur, recherche utilisateur, développement front-end, accessibilité, cloud/devops) pendant quelques semaines ou mois au sein d’un projet. Le guichet « Design et accessibilité des produits et services numériques » du FTAP permet aux ministères d’obtenir des financements pour mener à bien ce type de projet.
 
-**C’est avec l’ensemble de ces nouvelles mesures et ce travail en commun du SIG et de la DINUM avec toutes les administrations que l’État crée des conditions propices à une transformation pérenne et stable de ses sites internet et applications mobiles au bénéfice de tous, ceci renforçant la confiance entre les usagers et l’administration. **
+**C’est avec l’ensemble de ces nouvelles mesures et ce travail en commun du SIG et de la DINUM avec toutes les administrations que l’État crée des conditions propices à une transformation pérenne et stable de ses sites internet et applications mobiles au bénéfice de tous, ceci renforçant la confiance entre les usagers et l’administration.**
 __
 
 **Documents**
