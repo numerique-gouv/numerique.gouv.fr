@@ -14,7 +14,8 @@ chapeau-text: 'Le fonctionnement de l’administration et la transformation de l
 une-ou-diaporama:
 - image: "/uploads/Article_RGAA_v4_une-85fec5.jpg"
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_SIGxDINUM_SERVICES_NUMERIQUES_PUBLICS.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Les outils numériques sont en effet devenus incontournables pour la consultation d’informations officielles, la réalisation de démarches ou l’accès à des droits. Preuve en est, l’usage des sites en .gouv.fr a augmenté de 70% entre 2015 et 2022. Cette mutation concerne tous les secteurs : les usagers sont exposés quotidiennement à des produits numériques attractifs, ergonomiques et performants, et nourrissent les mêmes attentes à l’égard des services publics. 
