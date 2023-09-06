@@ -16,6 +16,8 @@ chapeau-text: L’accessibilité numérique à 100% est un des objectifs fixés 
   [loi n° 2005-102 du 11 février 2005](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000809647/)
   pour l'égalité des droits et des chances, la participation et la citoyenneté des
   personnes handicapées.
+une-ou-diaporama:
+- image: "/uploads/Page%20agenda%20accessibilit%C3%A9.png"
 ---
 
 Si l’État a lancé un plan de rattrapage massif pour garantir l’accessibilité des démarches et sites internet publics, l’enjeu est désormais d’accélérer les efforts engagés et contrôler le respect de la mise en conformité de tous les sites à compter 2024.
