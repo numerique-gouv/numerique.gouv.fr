@@ -30,7 +30,9 @@ L’équipe du département Opérateur de produits interministériels de la DINU
 
 [Consulter le programme de la DINUM à NEC](https://www.numerique.gouv.fr/agenda/numerique-en-commun-s-a-bordeaux/)
 
-INSERTION CITATION STAN G
+> « Insérer citation. »
+<br>
+<br>**Stanislas Guerini, ministre de la Transformation et de la Fonction publiques**
 
 ### Le grand rdv du numérique d’intérêt général 
 
