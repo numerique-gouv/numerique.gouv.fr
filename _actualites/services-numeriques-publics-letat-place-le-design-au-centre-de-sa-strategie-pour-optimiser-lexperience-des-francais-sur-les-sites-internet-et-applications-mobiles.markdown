@@ -3,6 +3,8 @@ title: 'Services numériques publics : l’État place le design au centre de sa
   pour optimiser l’expérience des Français sur les sites internet et applications
   mobiles'
 date: 2023-09-06 10:31:00 +02:00
+categories:
+- Communiqué de presse
 tags:
 - Accessibilité
 - accessibilité numérique
