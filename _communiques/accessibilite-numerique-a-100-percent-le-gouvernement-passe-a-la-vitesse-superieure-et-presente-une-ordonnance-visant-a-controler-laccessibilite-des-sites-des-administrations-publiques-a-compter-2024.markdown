@@ -19,7 +19,8 @@ chapeau-text: L’accessibilité numérique à 100% est un des objectifs fixés 
 une-ou-diaporama:
 - image: "/uploads/Page%20agenda%20accessibilit%C3%A9.png"
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_ACCESSIBILITE_NUMERIQUE_LE_GOUVERNEMENT_PASSE_A_LA_VITESSE.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Si l’État a lancé un plan de rattrapage massif pour garantir l’accessibilité des démarches et sites internet publics, l’enjeu est désormais d’accélérer les efforts engagés et contrôler le respect de la mise en conformité de tous les sites à compter 2024.
