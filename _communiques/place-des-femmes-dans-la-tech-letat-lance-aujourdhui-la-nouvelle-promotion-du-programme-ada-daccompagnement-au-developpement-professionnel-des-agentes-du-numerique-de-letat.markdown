@@ -24,11 +24,11 @@ Stéphanie Schaer, directrice interministérielle du numérique et marraine de c
 <blockquote class="auteur-citation"> <p><strong>Stanislas Guerini, ministre de la Transformation et de la Fonction publiques</strong></p> </blockquote>
 
 
-<p><a href="www.numerique.gouv.fr/services/ada/" title="En savoir plus sur le programme ADA - Lien externe">Ada Lovelace</a></p>
-<p><a href="https://www.numerique.gouv.fr/dinum/" title="Consulter la feuille de route de la DINUM - Lien externe">Ada Lovelace</a></p>
+<p><a href="www.numerique.gouv.fr/services/ada/" title="En savoir plus sur le programme ADA - Lien externe">En savoir plus sur le programme ADA</a></p>
+<p><a href="https://www.numerique.gouv.fr/dinum/" title="Consulter la feuille de route de la DINUM - Lien externe">Consulter la feuille de route de la DINUM</a></p>
 
 
-<div class="noir encadre">
+<div class="noir encadre"><h4>Pourquoi « ADA » ?</h4> 
 <p>Le programme ADA (anciennement Talents féminins du numérique) est un programme de coaching professionnel dédié aux femmes du numérique de l’État créé en 2019 porté par le département RH de la filière numérique de l’État de la direction interministérielle du numérique (DINUM) intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques.
 </p></div>
 
