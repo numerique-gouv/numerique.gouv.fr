@@ -3,6 +3,8 @@ title: 'Accessibilité numérique à 100% : le Gouvernement passe à la vitesse 
   et présente une ordonnance visant à contrôler l’accessibilité des sites des administrations
   publiques à compter 2024'
 date: 2023-09-06 19:04:00 +02:00
+categories:
+- Communiqué de presse
 tags:
 - Accessibilité
 - accessibilité numérique
