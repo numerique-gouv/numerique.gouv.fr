@@ -9,6 +9,9 @@ chapeau-text: |-
   *Source : Inspection générale des finances - Conseil général de l’économie. **Source : DGAFP.
 une-ou-diaporama:
 - image: "/uploads/Page%20agenda%20ADA.png"
+files:
+- file: "/uploads/CP_PLACE_DES_FEMMES_DANS_LA_TECH_LANCEMENT_ADA.DOCX"
+  nom: Télécharger le communiqué de presse
 ---
 
 **Pour accompagner les agentes publiques de la tech dans leur évolution de carrière au sein de l’État, la direction interministérielle du numérique intervenant sous l’égide du ministère de la Transformation et de la Fonction publiques lance aujourd’hui la nouvelle promotion du programme ADA d’accompagnement au développement professionnel des agentes du numérique de l’État, dont le nom s’inspire d’Ada Lovelace, première programmeuse et pionnière de l'informatique.**
