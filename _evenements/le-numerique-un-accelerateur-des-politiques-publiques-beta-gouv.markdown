@@ -49,7 +49,7 @@ Cet événement sera aussi l’occasion de **présenter les Startups d’Etat la
 
 ### Au programme :
 * **Offre de service de la DINUM** présentée par Stéphanie Schaer, directrice interministérielle du numérique
-* **Table ronde :** le numérique au service des politiques prioritaires du gouvernement
+* **Table ronde :** le numérique au service des politiques prioritaires du Gouvernement
 * **Présentation de projets inspirants** co-financés par la DINUM
 * **Networking et échanges** avec des experts en numérique
 
@@ -64,6 +64,6 @@ Vous êtes journaliste et cet événement vous intéresse contactez-nous : [flor
 <img src="/uploads/FAST-800x430.jpg" alt="Logo du FAST">
 </figure><p>Le Fond d’accélération des Startups d’État et de Territoire (FAST) est un programme d’accélération proposé aux produits numériques qui répondent aux standards de qualité de beta.gouv.fr et qui souhaitent bénéficier du soutien de la direction interministérielle du numérique (DINUM) pour augmenter leur impact et passer à l’échelle.
 <br>
-Il est désormais attribué en priorité aux produits liés aux chantiers prioritaires du gouvernement, qui respectent les critères du programme.</p>
+Il est désormais attribué en priorité aux produits liés aux chantiers prioritaires du Gouvernement, qui respectent les critères du programme.</p>
 <p><a href="https://beta.gouv.fr/approche/fast" title="Plus d'infos sur le FAST - Lien externe">> Plus d'infos sur le FAST</a></p>
 </div>
