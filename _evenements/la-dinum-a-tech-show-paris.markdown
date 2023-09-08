@@ -36,7 +36,10 @@ champs_informations:
 * [Big Data & AI World](https://www.bigdataworld.fr/?_gl=1*1ncmej4*_gcl_au*MTc1NzAyMjEwMi4xNjg3MzM3MzE5)
 * [Data Centre World](https://www.datacentreworld.fr/?_gl=1*1ncmej4*_gcl_au*MTc1NzAyMjEwMi4xNjg3MzM3MzE5)
 
-### La fidélisation des talents de la tech est l'une des priorité du gouvernement
+### L'investissement dans des outils numériques mutualisés, permet à l'État de préserver sa souveraineté numérique.
+C'est dans cette optique que la DINUM a élaboré la doctrine du numérique public pour l’État et ses opérateurs, consolidée en lien avec les ministères, qui doit prendre en compte l’accessibilité, l’écoresponsabilité, les problématiques d’identité numérique et le cloud.
+
+### La fidélisation des talents de la tech est l'une des priorité du Gouvernement
 Le recrutement de ces profils est très concurrentiel. Durant sa participation au salon, la DINUM souhaite montrer qu’il est possible d'activer d’autres leviers que la rémunération pour fidéliser des talents, notamment par :
 * la montée en compétence,
 * les échanges de pratiques entre pairs, 
@@ -46,6 +49,7 @@ Le recrutement de ces profils est très concurrentiel. Durant sa participation a
 ### La DINUM sera présente au salon Tech Show Paris du 15 au 16 novembre à Paris, Porte de Versailles
 
 Des interventions permettront aussi de valoriser les actions de la DINUM sur le volet du recrutement.
-* **Le 15 novembre - 14h50-15h15 :** Keynote Cloud Expo Europe Paris - Cross Show concernant le partage d’expérience **"Recrutement et fidélisation du personnel, ainsi qu’un retour d’expérience sur le programme 10%"** avec Sabrina Hedroug, directrice du programme de collaboration entre talents de la data de l’État – [Programme 10%](https://www.10pourcent.etalab.gouv.fr/) du département Etalab de la Direction interministérielle du numérique et avec un.e data scientist du programme 10%.
+* **Le 15 novembre - 9h30-9h55 :** Stand Alone **Cloud souverain** avec Vincent COUDRIN, chargé de l’accompagnement à l’adoption de l’informatique en nuage.
+* **Le 15 novembre - 14h50-15h15 :** Keynote Cloud Expo Europe Paris - Cross Show concernant le partage d’expérience **"Recrutement et fidélisation du personnel, ainsi qu’un retour d’expérience sur le programme 10%"** avec Sabrina Hedroug, directrice du programme de collaboration entre talents de la data de l’État – [Programme 10%](https://www.10pourcent.etalab.gouv.fr/) du département Etalab de la Direction interministérielle du numérique et avec un ou une data scientist du programme 10%.
 
 [En savoir plus sur la saison 2023 du programme 10% ](https://www.10pourcent.etalab.gouv.fr/actualites/saison2023/)
