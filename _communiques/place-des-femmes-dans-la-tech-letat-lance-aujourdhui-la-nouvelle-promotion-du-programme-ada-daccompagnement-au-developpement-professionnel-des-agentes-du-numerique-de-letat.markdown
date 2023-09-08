@@ -15,7 +15,7 @@ une-ou-diaporama:
     8 septembre 2023
     9h - 11h
 files:
-- file: "/uploads/CP_PLACE_DES_FEMMES_DANS_LA_TECH_LANCEMENT_ADA.DOCX"
+- file: "/uploads/CP_PLACE_DES_FEMMES_DANS_LA_TECH_LANCEMENT_ADA.pdf"
   nom: Télécharger le communiqué de presse
 ---
 
