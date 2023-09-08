@@ -7,9 +7,9 @@ tags:
 - Sécurisation
 - Informatique
 position: 17
-date_de_modification: 10 février 2023
+date_de_modification: 8 septembre 2023
 chapeau-text: |-
-  Édition de décembre 2022
+  Édition de juin 2023
   La DINUM publie chaque semestre le panorama des grands projets numériques de l’État. Il recense et décrit les projets informatiques au sein de l’État les plus stratégiques ou sensibles, notamment tous ceux dont le coût dépasse 9 M€ (détails dans la FAQ). Ce suivi régulier permet à la DINUM de proposer des actions de sécurisation et de nouvelles trajectoires à certains projets, dans une approche centrée utilisateurs, afin de fournir des solutions numériques performantes, correspondant aux usages et besoins de l’utilisateur.
 layout: default
 ---
@@ -21,7 +21,7 @@ layout: default
 changer pour : {: .text-center .padding-vertical-3} 
 -->
 
-> Édition de décembre 2022
+> Édition de juin 2023
 > 
 > La DINUM publie chaque semestre le panorama des grands projets numériques de l’État. Il recense et décrit les projets informatiques au sein de l’État les plus stratégiques ou sensibles, notamment tous ceux dont le coût dépasse 9 M€ (détails dans la FAQ). Ce suivi régulier permet à la DINUM de proposer des actions de sécurisation et de nouvelles trajectoires à certains projets, dans une approche centrée utilisateurs, afin de fournir des solutions numériques performantes, correspondant aux usages et besoins de l’utilisateur.
 > 
@@ -34,4 +34,4 @@ changer pour : {: .text-center .padding-vertical-3}
 <div class="responsive-embed iframe">
   <iframe class="no-border" title="Panorama des grands projets numériques de l’État" src="https://disic.github.io/panorama/" allowfullscreen></iframe>
 </div>
-<p class="margin-top-3 margin-left-3">Télécharger les données en format tableur : <a href="https://www.data.gouv.fr/fr/datasets/r/6abd38c5-eda4-4b41-98d2-6fa3291a491f" title="fichier ods (34 Ko) - Lien externe">fichier ods (25 Ko)</a>  -  <a href="https://www.data.gouv.fr/fr/datasets/r/5e21d11d-8f0f-48af-9569-d4d7df372f4d" title="fichier xls (45 Ko) - Lien externe">fichier xls - 38 Ko</a></p>
+<p class="margin-top-3 margin-left-3">Télécharger les données en format tableur : <a href="https://www.data.gouv.fr/fr/datasets/r/ce7399bd-9850-469c-a97b-98c8d13e15be" title="fichier ods (26 Ko) - Lien externe">fichier ods (26 Ko)</a>  -  <a href="https://www.data.gouv.fr/fr/datasets/r/e85580ff-48d8-4754-8757-6051eb9a1dde" title="fichier xls (32 Ko) - Lien externe">fichier xls - 32 Ko</a></p>
