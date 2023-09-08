@@ -1,8 +1,8 @@
 ---
-title: 'PLACE DES FEMMES DANS LA TECH : L’ÉTAT LANCE AUJOURD’HUI LA NOUVELLE PROMOTION
-  DU PROGRAMME ADA D’ACCOMPAGNEMENT AU DÉVELOPPEMENT PROFESSIONNEL DES AGENTES DU
-  NUMÉRIQUE DE L’ÉTAT'
-date: 2023-09-07 09:27:00 +02:00
+title: 'Place des femmes dans la tech : l’État lance aujourd’hui la nouvelle promotion
+  du programme ada d’accompagnement au développement professionnel des agentes du
+  numérique de l’État'
+date: 2023-09-08 11:30:00 +02:00
 chapeau-text: |-
   Au sein de la Fonction publique d’État, il y a 54% de femmes mais seulement 25% dans les effectifs du numérique public* ; seuls 32% des postes d’encadrement supérieur et dirigeant sont occupés par des femmes alors que 67% des cadres sont des femmes**.
 
@@ -28,7 +28,7 @@ Stéphanie Schaer, directrice interministérielle du numérique et marraine de c
 <blockquote class="citation"><p><b>Renforcer la place des femmes dans la filière numérique de l’État, c’est un enjeu d’attractivité et d’efficacité. Une fonction publique consciente des enjeux d’égalité est une fonction publique en prise avec les défis de notre temps. Les agentes de la fonction publique doivent pouvoir prendre part à la transformation numérique de l’État. Leur présence est une condition sine qua non à la réussite de ces projets.</b></p> </blockquote>
 <blockquote class="auteur-citation"> <p><strong>Stanislas Guerini, ministre de la Transformation et de la Fonction publiques</strong></p> </blockquote>
 
-<p><a href="www.numerique.gouv.fr/services/ada/" title="En savoir plus sur le programme ADA - Lien externe">En savoir plus sur le programme ADA</a></p>
+<p><a href="https://www.numerique.gouv.fr/services/ada/" title="En savoir plus sur le programme ADA - Lien externe">En savoir plus sur le programme ADA</a></p>
 <p><a href="https://www.numerique.gouv.fr/dinum/" title="Consulter la feuille de route de la DINUM - Lien externe">Consulter la feuille de route de la DINUM</a></p>
 
 
