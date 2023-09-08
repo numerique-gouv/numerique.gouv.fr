@@ -3,13 +3,17 @@ title: 'PLACE DES FEMMES DANS LA TECH : L’ÉTAT LANCE AUJOURD’HUI LA NOUVELL
   DU PROGRAMME ADA D’ACCOMPAGNEMENT AU DÉVELOPPEMENT PROFESSIONNEL DES AGENTES DU
   NUMÉRIQUE DE L’ÉTAT'
 date: 2023-09-07 09:27:00 +02:00
-published: false
 chapeau-text: |-
   Au sein de la Fonction publique d’État, il y a 54% de femmes mais seulement 25% dans les effectifs du numérique public* ; seuls 32% des postes d’encadrement supérieur et dirigeant sont occupés par des femmes alors que 67% des cadres sont des femmes**.
 
   **Source : Inspection générale des finances - Conseil général de l’économie. **Source : DGAFP.*
 une-ou-diaporama:
-- image: "/uploads/Page%20agenda%20ADA.png"
+- image: "/uploads/Page%20agenda%20ADA-335162.png"
+  alternative-textuelle: |-
+    Place des femmes dans la Tech :
+    LANCEMENT de la nouvelle promotion du programme ADA
+    8 septembre 2023
+    9h - 11h
 files:
 - file: "/uploads/CP_PLACE_DES_FEMMES_DANS_LA_TECH_LANCEMENT_ADA.DOCX"
   nom: Télécharger le communiqué de presse
