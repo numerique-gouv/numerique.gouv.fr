@@ -48,6 +48,13 @@ ministeres:
   titre: Services du Premier ministre
 - annees:
   - avis:
+    - description: Transformation de la gestion des 130 000 agents de la gendarmerie
+        pour les remettre au cœur des décisions RH par la montée en puissance des
+        nouveaux outils technologiques
+      file: "/uploads/2022-M@GRH_MIOM.pdf"
+      titre: 'M@GRH  '
+    date-annee: 2022
+  - avis:
     - description: Refonte du Système d’Information des Véhicules
       file: "/uploads/Systeme_d'immatriculation_des_vehicules_SIV_art.3.PDF"
       titre: Système d’immatriculation des véhicules (SIV)
