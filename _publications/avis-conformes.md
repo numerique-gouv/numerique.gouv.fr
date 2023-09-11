@@ -185,8 +185,6 @@ ministeres:
         membres de l'Union européenne
       file: "/uploads/2023-ECRIS%20TCN_MJ.pdf"
       titre: 'Ecris TCN '
-    date-annee: 2023
-  - avis:
     - description: Facilitation de la gestion administrative de la détention pour
         les surveillants pénitentiaires et dématérialisation des procédures au bénéfice
         des détenus et de leurs proches
