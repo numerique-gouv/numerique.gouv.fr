@@ -4,7 +4,7 @@ title: 'Projets informatiques de l’État : retrouvez l''ensemble des avis conf
 date: 2018-04-24 15:47:00 +02:00
 permalink: "/publications/avis-conformes/"
 position: 13
-date_de_modification: 15 septembre 2022
+date_de_modification: 12 septembre 2022
 chapeau-text: La direction interministérielle du numérique (DINUM) publie ses avis
   conformes sur les grands projets du système d'information et de communication de
   l’État.
@@ -13,6 +13,12 @@ une:
   alternative-textuelle: 
 ministeres:
 - annees:
+  - avis:
+    - description: Chaîne applicative de production des textes normatifs et décisions
+        nominatives publiés au journal officiel de la République Française
+      file: "/uploads/2022-NOPN_SPM.PDF"
+      titre: 'NOPN : Nouveaux Outils de Production Normative'
+    date-annee: 2022
   - avis:
     - description: Mise à disposition des moyens informatiques, réseaux et de télécommunication
         du futur site de Ségur-Fontenoy
