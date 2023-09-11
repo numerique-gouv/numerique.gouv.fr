@@ -276,6 +276,12 @@ ministeres:
   titre: Ministère des Armées
 - annees:
   - avis:
+    - description: Facilitation de l'accès aux professionnels de santé tout en constituant
+        un vecteur de désengorgement des urgences
+      file: "/uploads/2022-SAS_MSS.pdf"
+      titre: 'SAS – Services d’Accès aux Soins  '
+    date-annee: 2022
+  - avis:
     - description: Remplacement des systèmes obsolètes, absorption des volumes de
         sollicitations plus importants, réponse aux nouveaux besoins utilisateurs
         et mise en œuvre de parcours utilisateurs plus fluides
@@ -325,7 +331,7 @@ ministeres:
       titre: Accord-cadre pour les environnements bureautiques
     date-annee: 2013
   image: "/assets/img/avis-conformes/ministeredesaffairessocialesetsante_ok.jpg"
-  titre: 'Ministère des Solidarités et de la Santé, Ministère du Travail, du Plein
+  titre: 'Ministère de la Santé et de la Prévention, Ministère du Travail, du Plein
     Emploi et de l’Insertion '
 - annees:
   - avis:
