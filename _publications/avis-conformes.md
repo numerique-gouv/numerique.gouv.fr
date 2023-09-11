@@ -533,7 +533,7 @@ ministeres:
       file: "/uploads/2022-PFL_MESRI.PDF"
       titre: 'PFL : Parcours Flexible en Licence '
     date-annee: 2022
-  image: "/uploads/mesri.png"
+  image: "/assets/img/mesri.png"
   titre: Ministère de l’Enseignement supérieur et de la Recherche
 layout: avis-conformes
 ---
