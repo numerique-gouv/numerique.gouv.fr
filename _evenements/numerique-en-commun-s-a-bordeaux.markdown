@@ -64,7 +64,8 @@ Des ateliers, pitchs, retex et masterclass sont prévus !
 * L’incubateur de services numériques de la DINUM [beta.gouv.fr](https://beta.gouv.fr/)
 * Des équipes de produits phares tels que : [Démarches Simplifiées](https://www.demarches-simplifiees.fr/) et [Tchap](https://tchap.beta.gouv.fr/?mtm_campaign=TchapWebConnectLogo)
 
-**Pour en savoir plus sur le programme :** [consultez le site de Numérique en Commun[s]](https://numerique-en-communs.fr/la-programmation/)
+<div align="center"><a href="https://numerique-en-communs.fr/la-programmation/" class="button"><b>En savoir plus sur le programme - Consultez le site de Numérique en Commun[s]</b></a></div>
+<br>
 
 **Des démonstrations seront possibles, avec les agents :**
 * **12 postes seront en libre-service sur le stand des produits interministériels** avec 2 médiateurs numériques qui animeront des sessions de prise en main de différents outils. Vous aurez la possibilité de rencontrer les équipes de Tchap, Démarches Simplifiées et d’Umap, lauréat du programme Accélérateur d’initiatives citoyennes, service permettant de créer des cartes personnalisées sur des fonds OpenStreetMap en un instant et les afficher dans des sites internet.
