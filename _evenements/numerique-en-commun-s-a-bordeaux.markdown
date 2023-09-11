@@ -55,7 +55,7 @@ Les membres du nouveau département Opérateur de produits interministériels de
 **Programme « Off » du mercredi 18 octobre** :
 <br>Des temps informels sur invitation sont organisés par les départements Incubateur de services numériques comprenant beta.gouv.fr et le programme Accélérateur d’initiatives citoyennes et le département Opérateur de produits interministériels. Si vous souhaitez participer au programme off, contactez : [Communication.dinum[@]modernisation.gouv.fr](mailto:communication.dinum@modernisation.gouv.fr)
 
-**Programme « IN » du jeudi 19/10/23** :
+### Programme « IN » du jeudi 19/10/23 :
 Des ateliers, pitchs, retex et masterclass sont prévus !
 
 À retrouver lors de l’événement des équipes de la DINUM telles que :
