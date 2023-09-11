@@ -40,7 +40,7 @@ champs_informations:
 * [Big Data & AI World](https://www.bigdataworld.fr/?_gl=1*1ncmej4*_gcl_au*MTc1NzAyMjEwMi4xNjg3MzM3MzE5)
 * [Data Centre World](https://www.datacentreworld.fr/?_gl=1*1ncmej4*_gcl_au*MTc1NzAyMjEwMi4xNjg3MzM3MzE5)
 
-###Investir dans des outils numériques mutualisés permet à l'État de préserver sa souveraineté numérique.
+### Investir dans des outils numériques mutualisés permet à l'État de préserver sa souveraineté numérique.
 Cet investissement devra s’appuyer sur la doctrine du numérique public élaborée par la DINUM pour l’État et ses opérateurs et consolidée en lien avec les ministères, qui doit prendre en compte l’accessibilité, l’écoresponsabilité, les problématiques d’identité numérique et le cloud.
 
 ### Attirer, recruter et fidéliser des talents du numérique est un défi et une priorité pour le Gouvernement.
