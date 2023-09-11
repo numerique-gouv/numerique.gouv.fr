@@ -453,6 +453,15 @@ ministeres:
     date-annee: 2013
   image: "/assets/img/avis-conformes/ministeredelagriculture_ok.jpg"
   titre: Ministère de l'Agriculture et de l'Alimentation
+- annees:
+  - avis:
+    - description: Réorganisation modulaire des études grâce au numérique, parcours
+        de formation personnalisable et rendu flexible grâce aux nouvelles technologies
+      file: "/uploads/2022-PFL_MESRI.PDF"
+      titre: 'PFL : Parcours Flexible en Licence '
+    date-annee: 2022
+  image: 
+  titre: Ministère de l’enseignement supérieur, de la recherche, de l’innovation
 layout: avis-conformes
 ---
 
