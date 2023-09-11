@@ -299,6 +299,25 @@ ministeres:
     et de l’Insertion '
 - annees:
   - avis:
+    - description: Généralisation de la facturation électronique et de transmission
+        des données de transaction à l’administration fiscale
+      file: "/uploads/2023-FACTURATION%20ELECTRONIQUE_volet2_MEFSIN.pdf"
+      titre: 'Facturation électronique – Volet 2 '
+    date-annee: 2023
+  - avis:
+    - description: Généralisation de la facturation électronique et de transmission
+        des données de transaction à l’administration fiscale
+      file: "/uploads/2022-FACTURATION%20ELECTRONIQUE_volet1_MEFSIN.pdf"
+      titre: Facturation électronique – Volet 1
+    date-annee: 2022
+  - avis:
+    - description: Pérenniser le socle applicatif et technique de Chorus, mais aussi
+        d’améliorer l’ergonomie de la solution et d’optimiser ses performances en
+        s’appuyant sur la nouvelle base de données HANA
+      file: "/uploads/2022-MIGRATION-CHORUS_MEFSIN.pdf"
+      titre: Migration Chorus
+    date-annee: 2022
+  - avis:
     - description: Refonte des systèmes de paiement
       file: "/uploads/Recouvrement_optimise_des_creances_de_la_sphere_publique_ROCSP_art.3.pdf"
       titre: Recouvrement optimisé des créances de la sphère publique (ROCSP)
@@ -389,7 +408,8 @@ ministeres:
       titre: CHORUS INFRA
     date-annee: 2011
   image: "/assets/img/avis-conformes/ministereeconomie_ok.jpg"
-  titre: Ministère de l’Économie, des Finances et de la Relance
+  titre: Ministère de l’Economie, des Finances, de la Souveraineté Industrielle et
+    du Numérique
 - annees:
   - avis:
     - description: Administration des archives et de leurs métadonnées aux archives
