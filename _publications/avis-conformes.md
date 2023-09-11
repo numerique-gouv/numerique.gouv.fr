@@ -141,9 +141,7 @@ ministeres:
   - avis:
     - description: Fédérer les principaux porteurs des initiatives de modélisation
         tridimensionnelle du territoire, autour de la production et la diffusion d’un
-        référentiel sur l’ensemble du territoire (hors Guyane). S’appuyant sur des
-        données et des infrastructures ouvertes, le projet Lidar HD bénéficiera à
-        un large écosystème d’entreprises innovantes
+        référentiel sur l’ensemble du territoire (hors Guyane).
       file: "/uploads/2022-LIDAR-HD_MTECT_IGN.pdf"
       titre: 'Lidar HD  '
     date-annee: 2022
