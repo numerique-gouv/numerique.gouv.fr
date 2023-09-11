@@ -121,6 +121,15 @@ ministeres:
   titre: Ministère de l'Intérieur
 - annees:
   - avis:
+    - description: Fédérer les principaux porteurs des initiatives de modélisation
+        tridimensionnelle du territoire, autour de la production et la diffusion d’un
+        référentiel sur l’ensemble du territoire (hors Guyane). S’appuyant sur des
+        données et des infrastructures ouvertes, le projet Lidar HD bénéficiera à
+        un large écosystème d’entreprises innovantes
+      file: "/uploads/2022-LIDAR-HD_MTECT_IGN.pdf"
+      titre: 'Lidar HD  '
+    date-annee: 2022
+  - avis:
     - description: Création d’une plateforme nationale des données géographiques souveraines
       file: "/uploads/Geoplateforme_art.3.pdf"
       titre: Géoplateforme
@@ -152,8 +161,8 @@ ministeres:
       titre: GUL
     date-annee: 2014
   image: "/assets/img/avis-conformes/ministere-cohesion-territoires_ok.jpg"
-  titre: Ministère de la Cohésion des territoires et des Relations avec les collectivités
-    territoriales, Ministère de la Transition écologique
+  titre: Ministère de la Transition Ecologique et des Collectivités Territoriales  -
+    IGN
 - annees:
   - avis:
     - description: Programme de dématérialisation des procédures pénales
