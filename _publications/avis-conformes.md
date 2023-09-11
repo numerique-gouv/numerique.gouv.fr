@@ -4,7 +4,7 @@ title: 'Projets informatiques de l’État : retrouvez l''ensemble des avis conf
 date: 2018-04-24 15:47:00 +02:00
 permalink: "/publications/avis-conformes/"
 position: 13
-date_de_modification: 15 septembre 2022
+date_de_modification: 12 septembre 2022
 chapeau-text: La direction interministérielle du numérique (DINUM) publie ses avis
   conformes sur les grands projets du système d'information et de communication de
   l’État.
@@ -13,6 +13,12 @@ une:
   alternative-textuelle: 
 ministeres:
 - annees:
+  - avis:
+    - description: Chaîne applicative de production des textes normatifs et décisions
+        nominatives publiés au journal officiel de la République Française
+      file: "/uploads/2022-NOPN_SPM.PDF"
+      titre: 'NOPN : Nouveaux Outils de Production Normative'
+    date-annee: 2022
   - avis:
     - description: Mise à disposition des moyens informatiques, réseaux et de télécommunication
         du futur site de Ségur-Fontenoy
@@ -41,6 +47,13 @@ ministeres:
   image: "/assets/img/avis-conformes/premierministre-matignon_ok_0.jpg"
   titre: Services du Premier ministre
 - annees:
+  - avis:
+    - description: Transformation de la gestion des 130 000 agents de la gendarmerie
+        pour les remettre au cœur des décisions RH par la montée en puissance des
+        nouveaux outils technologiques
+      file: "/uploads/2022-M@GRH_MIOM.pdf"
+      titre: 'M@GRH  '
+    date-annee: 2022
   - avis:
     - description: Refonte du Système d’Information des Véhicules
       file: "/uploads/Systeme_d'immatriculation_des_vehicules_SIV_art.3.PDF"
@@ -115,6 +128,22 @@ ministeres:
   titre: Ministère de l'Intérieur
 - annees:
   - avis:
+    - description: Fusion des différentes procédures et décisions environnementales
+        requises pour les installations classées au sein d’une unique autorisation
+        environnementale
+      file: "/uploads/2022-GUNEnv_MTECT.pdf"
+      titre: GUNEnv
+    - description: Production d’un référentiel d’occupation et usage des sols dans
+        le cadre de l’observatoire de l’artificialisation des sols (OCSGE)
+      file: "/uploads/2022-OCSGE_MTECT_IGN.pdf"
+      titre: 'OCSGE – Occupation et Usages de Sols '
+    - description: Fédérer les principaux porteurs des initiatives de modélisation
+        tridimensionnelle du territoire, autour de la production et la diffusion d’un
+        référentiel sur l’ensemble du territoire (hors Guyane)
+      file: "/uploads/2022-LIDAR-HD_MTECT_IGN.pdf"
+      titre: Lidar HD
+    date-annee: 2022
+  - avis:
     - description: Création d’une plateforme nationale des données géographiques souveraines
       file: "/uploads/Geoplateforme_art.3.pdf"
       titre: Géoplateforme
@@ -146,9 +175,20 @@ ministeres:
       titre: GUL
     date-annee: 2014
   image: "/assets/img/avis-conformes/ministere-cohesion-territoires_ok.jpg"
-  titre: Ministère de la Cohésion des territoires et des Relations avec les collectivités
-    territoriales, Ministère de la Transition écologique
+  titre: Ministère de la Transition Ecologique et des Collectivités Territoriales  -
+    IGN
 - annees:
+  - avis:
+    - description: Amélioration du partage d’informations judiciaires entre les Etats
+        membres de l'Union européenne
+      file: "/uploads/2023-ECRIS%20TCN_MJ.pdf"
+      titre: 'Ecris TCN '
+    - description: Facilitation de la gestion administrative de la détention pour
+        les surveillants pénitentiaires et dématérialisation des procédures au bénéfice
+        des détenus et de leurs proches
+      file: "/uploads/2022-NED_MJ.pdf"
+      titre: 'NED – Numérique en détention  '
+    date-annee: 2023
   - avis:
     - description: Programme de dématérialisation des procédures pénales
       file: "/uploads/Procedure_penale_numerique_PPN_art.3.pdf"
@@ -247,6 +287,23 @@ ministeres:
   titre: Ministère des Armées
 - annees:
   - avis:
+    - description: Système d’information unique au bénéfice principal des demandeurs
+        et des équipes en charge de l’autonomie au sein des conseils départementaux
+      file: "/uploads/2023-SI_APA_MSS_CNSA.pdf"
+      titre: 'SI APA  – Allocation Personnalisée d’Autonomie à Domicile '
+    date-annee: 2023
+  - avis:
+    - description: Facilitation de l'accès aux professionnels de santé tout en constituant
+        un vecteur de désengorgement des urgences
+      file: "/uploads/2022-SAS_MSS.pdf"
+      titre: 'SAS – Services d’Accès aux Soins  '
+    - description: Remplacement des systèmes obsolètes, absorption des volumes de
+        sollicitations plus importants, réponse aux nouveaux besoins utilisateurs
+        et mise en œuvre de parcours utilisateurs plus fluides
+      file: "/uploads/2022-SI-EMPLOI_MTPEI_ASP.pdf"
+      titre: SI Emploi
+    date-annee: 2022
+  - avis:
     - description: Référentiel métier recensant l’offre de santé et ses ressources
         associées (structures sanitaires et médico-sociales)
       file: "/uploads/Repertoire_national_de_loffre_et_des_ressources_en_sante_et_accompagnement_medico_social_ROR_art.3.pdf"
@@ -289,9 +346,26 @@ ministeres:
       titre: Accord-cadre pour les environnements bureautiques
     date-annee: 2013
   image: "/assets/img/avis-conformes/ministeredesaffairessocialesetsante_ok.jpg"
-  titre: 'Ministère des Solidarités et de la Santé, Ministère du Travail, de l’Emploi
-    et de l’Insertion '
+  titre: 'Ministère de la Santé et de la Prévention, Ministère du Travail, du Plein
+    Emploi et de l’Insertion '
 - annees:
+  - avis:
+    - description: Généralisation de la facturation électronique et de transmission
+        des données de transaction à l’administration fiscale
+      file: "/uploads/2023-FACTURATION%20ELECTRONIQUE_volet2_MEFSIN.pdf"
+      titre: 'Facturation électronique – Volet 2 '
+    date-annee: 2023
+  - avis:
+    - description: Généralisation de la facturation électronique et de transmission
+        des données de transaction à l’administration fiscale
+      file: "/uploads/2022-FACTURATION%20ELECTRONIQUE_volet1_MEFSIN.pdf"
+      titre: Facturation électronique – Volet 1
+    - description: Pérenniser le socle applicatif et technique de Chorus, mais aussi
+        d’améliorer l’ergonomie de la solution et d’optimiser ses performances en
+        s’appuyant sur la nouvelle base de données HANA
+      file: "/uploads/2022-MIGRATION-CHORUS_MEFSIN.pdf"
+      titre: Migration Chorus
+    date-annee: 2022
   - avis:
     - description: Refonte des systèmes de paiement
       file: "/uploads/Recouvrement_optimise_des_creances_de_la_sphere_publique_ROCSP_art.3.pdf"
@@ -383,7 +457,8 @@ ministeres:
       titre: CHORUS INFRA
     date-annee: 2011
   image: "/assets/img/avis-conformes/ministereeconomie_ok.jpg"
-  titre: Ministère de l’Économie, des Finances et de la Relance
+  titre: Ministère de l’Economie, des Finances, de la Souveraineté Industrielle et
+    du Numérique
 - annees:
   - avis:
     - description: Administration des archives et de leurs métadonnées aux archives
@@ -447,6 +522,15 @@ ministeres:
     date-annee: 2013
   image: "/assets/img/avis-conformes/ministeredelagriculture_ok.jpg"
   titre: Ministère de l'Agriculture et de l'Alimentation
+- annees:
+  - avis:
+    - description: Réorganisation modulaire des études grâce au numérique, parcours
+        de formation personnalisable et rendu flexible grâce aux nouvelles technologies
+      file: "/uploads/2022-PFL_MESRI.PDF"
+      titre: 'PFL : Parcours Flexible en Licence '
+    date-annee: 2022
+  image: "/uploads/mesri.png"
+  titre: Ministère de l’Enseignement supérieur et de la Recherche
 layout: avis-conformes
 ---
 
