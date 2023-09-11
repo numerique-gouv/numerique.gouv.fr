@@ -368,8 +368,6 @@ ministeres:
         des données de transaction à l’administration fiscale
       file: "/uploads/2022-FACTURATION%20ELECTRONIQUE_volet1_MEFSIN.pdf"
       titre: Facturation électronique – Volet 1
-    date-annee: 2022
-  - avis:
     - description: Pérenniser le socle applicatif et technique de Chorus, mais aussi
         d’améliorer l’ergonomie de la solution et d’optimiser ses performances en
         s’appuyant sur la nouvelle base de données HANA
