@@ -253,6 +253,13 @@ ministeres:
   titre: Ministère des Armées
 - annees:
   - avis:
+    - description: Remplacement des systèmes obsolètes, absorption des volumes de
+        sollicitations plus importants, réponse aux nouveaux besoins utilisateurs
+        et mise en œuvre de parcours utilisateurs plus fluides
+      file: "/uploads/2022-SI-EMPLOI_MTPEI_ASP.pdf"
+      titre: SI Emploi
+    date-annee: 2022
+  - avis:
     - description: Référentiel métier recensant l’offre de santé et ses ressources
         associées (structures sanitaires et médico-sociales)
       file: "/uploads/Repertoire_national_de_loffre_et_des_ressources_en_sante_et_accompagnement_medico_social_ROR_art.3.pdf"
@@ -295,8 +302,8 @@ ministeres:
       titre: Accord-cadre pour les environnements bureautiques
     date-annee: 2013
   image: "/assets/img/avis-conformes/ministeredesaffairessocialesetsante_ok.jpg"
-  titre: 'Ministère des Solidarités et de la Santé, Ministère du Travail, de l’Emploi
-    et de l’Insertion '
+  titre: 'Ministère des Solidarités et de la Santé, Ministère du Travail, du Plein
+    Emploi et de l’Insertion '
 - annees:
   - avis:
     - description: Généralisation de la facturation électronique et de transmission
