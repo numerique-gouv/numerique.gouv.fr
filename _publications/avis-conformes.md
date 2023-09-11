@@ -137,13 +137,11 @@ ministeres:
         le cadre de l’observatoire de l’artificialisation des sols (OCSGE)
       file: "/uploads/2022-OCSGE_MTECT_IGN.pdf"
       titre: 'OCSGE – Occupation et Usages de Sols '
-    date-annee: 2022
-  - avis:
     - description: Fédérer les principaux porteurs des initiatives de modélisation
         tridimensionnelle du territoire, autour de la production et la diffusion d’un
-        référentiel sur l’ensemble du territoire (hors Guyane).
+        référentiel sur l’ensemble du territoire (hors Guyane)
       file: "/uploads/2022-LIDAR-HD_MTECT_IGN.pdf"
-      titre: 'Lidar HD  '
+      titre: Lidar HD
     date-annee: 2022
   - avis:
     - description: Création d’une plateforme nationale des données géographiques souveraines
