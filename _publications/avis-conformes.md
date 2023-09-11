@@ -534,7 +534,7 @@ ministeres:
       titre: 'PFL : Parcours Flexible en Licence '
     date-annee: 2022
   image: "/uploads/mesri.png"
-  titre: Ministère de l’enseignement supérieur, de la recherche, de l’innovation
+  titre: Ministère de l’Enseignement supérieur et de la Recherche
 layout: avis-conformes
 ---
 
