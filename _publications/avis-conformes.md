@@ -167,6 +167,13 @@ ministeres:
       file: "/uploads/garantie_universelle_des_loyers_art_7.pdf"
       titre: GUL
     date-annee: 2014
+  - avis:
+    - description: Fusion des différentes procédures et décisions environnementales
+        requises pour les installations classées au sein d’une unique autorisation
+        environnementale
+      file: "/uploads/2022-GUNEnv_MTECT.pdf"
+      titre: GUNEnv
+    date-annee: 2022
   image: "/assets/img/avis-conformes/ministere-cohesion-territoires_ok.jpg"
   titre: Ministère de la Transition Ecologique et des Collectivités Territoriales  -
     IGN
