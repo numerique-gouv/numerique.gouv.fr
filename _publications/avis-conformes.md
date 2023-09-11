@@ -291,10 +291,8 @@ ministeres:
   titre: Ministère des Armées
 - annees:
   - avis:
-    - description: Système d’information unique  afin d’assurer le recueil des demandes,
-        l’instruction des dossiers, l’accompagnement dans l’obtention des droits,
-        et la mise en œuvre des prestations au bénéfice principal des demandeurs et
-        des équipes en charge de l’autonomie au sein des conseils départementaux
+    - description: Système d’information unique au bénéfice principal des demandeurs
+        et des équipes en charge de l’autonomie au sein des conseils départementaux
       file: "/uploads/2023-SI_APA_MSS_CNSA.pdf"
       titre: 'SI APA  – Allocation Personnalisée d’Autonomie à Domicile '
     date-annee: 2023
