@@ -351,4 +351,4 @@ Dans une volonté de transparence et d’ouverture, et dans la continuité de la
 
 <p id="note1"><sup>(1)</sup> <i>Précédemment au titre de l'article 7 du <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000023619023&categorieLien=cid">décret n°2011-193</a> puis de l'article 3 du <a href="https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029337021">décret n°2014-879</a></i>
 
-[Retrouvez tous les avis émis par la DINUM avant 2017](https://www.data.gouv.fr/fr/datasets/projets-informatiques-de-letat-retrouvez-lensemble-des-avis-conformes-emis-par-la-dinum/)
+<a href="https://www.data.gouv.fr/fr/datasets/projets-informatiques-de-letat-retrouvez-lensemble-des-avis-conformes-emis-par-la-dinum/">avis conformes DINUM avant 2017</a>Retrouvez tous les avis émis par la DINUM avant 2017<a href="https://www.data.gouv.fr/fr/datasets/projets-informatiques-de-letat-retrouvez-lensemble-des-avis-conformes-emis-par-la-dinum/">Retrouvez tous les avis émis par la DINUM avant 2017</a>
