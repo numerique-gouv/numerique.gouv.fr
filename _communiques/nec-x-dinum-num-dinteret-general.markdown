@@ -36,12 +36,8 @@ L’équipe du département Opérateur de produits interministériels de la DINU
 
 [Consulter le programme de la DINUM à NEC](https://www.numerique.gouv.fr/agenda/numerique-en-commun-s-a-bordeaux/)
 
-> « Insérer citation. »
-<br>
-<br>**Stanislas Guerini, ministre de la Transformation et de la Fonction publiques**
-
 ### Le grand rdv du numérique d’intérêt général 
 
-A l’initiative du programme Société Numérique de l’Agence Nationale de la Cohésion des Territoires (ANCT), Numérique en Commun[s] (NEC) rassemble pendant plusieurs jours tous les professionnels du numérique d’intérêt général qu’ils soient débutants ou experts, acteurs historiques de NEC ou nouvelles recrues, en vue de construire un numérique plus ouvert, inclusif, accessible, durable, souverain et éthique. 
+À l’initiative du programme Société Numérique de l’Agence Nationale de la Cohésion des Territoires (ANCT), Numérique en Commun[s] (NEC) rassemble pendant plusieurs jours tous les professionnels du numérique d’intérêt général qu’ils soient débutants ou experts, acteurs historiques de NEC ou nouvelles recrues, en vue de construire un numérique plus ouvert, inclusif, accessible, durable, souverain et éthique. 
 
 Cette année, NEC se tiendra les 19 et 20 octobre 2023 à Bordeaux et le 18 octobre sera dédié à des échanges plus informels entre pairs. Pour cette 6ème édition, construite avec l’appui de partenaires – la [Mednum](https://lamednum.coop/), le [CNNum](https://cnnumerique.fr/), [Opendata France](https://www.opendatafrance.net/), l’[IGN](https://www.ign.fr/), la [DINUM](https://www.numerique.gouv.fr/dinum/), la [Banque des Territoires](https://www.banquedesterritoires.fr/) et les acteurs locaux – en partenariat avec les rencontres internationales Digital Society, Digital Cities, organisées par [Bordeaux Métropole](https://www.bordeaux-metropole.fr/), ville accueillant l’événement, 5 thématiques sont mises à l’honneur : « Données & territoire », « Médiation & compétences numériques », « Écologie & soutenabilité », « Communs & souveraineté », « Éthique & émancipation ». Pour en savoir plus : [numerique-en-communs.fr](https://numerique-en-communs.fr/)
