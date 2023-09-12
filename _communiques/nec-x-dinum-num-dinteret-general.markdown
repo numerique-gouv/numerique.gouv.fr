@@ -3,7 +3,6 @@ title: 'Numérique en commun[s] 2023 : la Direction interministérielle du numé
   partenaire de l’événement, présentera, à Bordeaux, du 18 au 20 octobre, ses travaux
   portant sur les communs et le numérique d’intérêt général'
 date: 2023-09-12 17:00:00 +02:00
-published: false
 categories:
 - Communiqué de presse
 tags:
