@@ -38,5 +38,5 @@ Certaines obligations restent inchangées : les obligations complémentaires, qu
 ](https://www.elysee.fr/emmanuel-macron/2023/09/06/compte-rendu-du-conseil-des-ministres-du-6-septembre-2023)
 
 **Loi 2005 consolidée avec les modifications apportées par l’ordonnance**
-Article 47 : [consultez l'article](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037388867/)
-Article 47-1 : [consultez l'article](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048050174/2023-09-08)
+<br>Article 47 : [consultez l'article](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037388867/)
+<br>Article 47-1 : [consultez l'article](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048050174/2023-09-08)
