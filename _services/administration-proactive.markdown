@@ -59,9 +59,6 @@ Depuis le 1er mars 2022, **l’intermédiation financière entre les parents sé
 Depuis plus de deux ans, la DINUM accompagne les autorités organisatrices de la mobilité (AOM) dans la récupération automatique des justificatifs nécessaires à la mise en place du « Dites-le nous une fois » (ex. justificatif du statut étudiant / boursier) pour **l’attribution des tarifs sociaux ou solidaires des transports.** 
 Nous testons – avec quelques AOM volontaires partenaires – une **méthodologie de notification automatique d’éligibilité à ces tarifs**. Une équipe dédiée a été constituée à la DINUM, accompagnée d’un responsable projet à la Direction générale des infrastructures, des transports et des mobilités et s’appuyant sur l’expertise du GART. 
 
-<br>
-<br>
-
 > ## Comment solliciter notre offre d'appui ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
 >
