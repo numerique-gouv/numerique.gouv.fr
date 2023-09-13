@@ -126,17 +126,6 @@ ministeres:
     IGN
 - annees:
   - avis:
-    - description: Amélioration du partage d’informations judiciaires entre les Etats
-        membres de l'Union européenne
-      file: "/uploads/2023-ECRIS%20TCN_MJ.pdf"
-      titre: 'Ecris TCN '
-    - description: Facilitation de la gestion administrative de la détention pour
-        les surveillants pénitentiaires et dématérialisation des procédures au bénéfice
-        des détenus et de leurs proches
-      file: "/uploads/2022-NED_MJ.pdf"
-      titre: 'NED – Numérique en détention  '
-    date-annee: 2023
-  - avis:
     - description: Programme de dématérialisation des procédures pénales
       file: "/uploads/Procedure_penale_numerique_PPN_art.3.pdf"
       titre: Procédure Pénale Numérique  (PPN)
