@@ -108,12 +108,12 @@ Nous avons dessiné le parcours d'un étudiant, dans toutes ses démarches (tran
 <br>
 <br>
 
-> ## Comment solliciter une mission de conseil ?
+> ## Comment solliciter notre offre d'appui ?
 > {: .text-center .margin-bottom-1 .margin-top-3}
 >
 > **Par courriel**
 > {: .bleue .margin-0}
-> Contactez Patrick Ruestchmann, chef de la mission Transformation numérique de l’État, à la DINUM, en décrivant votre besoin, à : [transfo.dinum@modernisation.gouv.fr](mailto:transfo.dinum@modernisation.gouv.fr).
+> Contactez l'équipe du pôle Proactivité de la DINUM, en décrivant votre besoin, à : [administration.proactive@modernisation.gouv.fr](mailto:administration.proactive@modernisation.gouv.fr).
 {: .noir .encadre}
 <br>
 <br>
