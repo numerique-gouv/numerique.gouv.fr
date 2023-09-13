@@ -43,6 +43,7 @@ Lors d’un changement d’adresse signalé par l’usager pour l’immatriculat
 <h4><b>Les Crous</b></h4>
 <img src="/uploads/Crous_logo.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
 L’utilisation de l’API « statut boursier » permet **l’attribution automatique des repas CROUS à 1€** aux étudiants éligibles.
+
 <br>
 <h4><b>Le chèque énergie</b></h4>
 <img src="/uploads/Logo_le_Ch%C3%A8que_%C3%A9nergie.png" alt="" style="margin-right: 10px" width="20%" align="left">
@@ -51,6 +52,7 @@ Les personnes éligibles **reçoivent automatiquement le chèque énergie** à l
 <h4><b>Pension alimentaire</b></h4>
 <img src="/uploads/PA.png" alt="" style="margin-right: 10px" width="20%" align="left">
 Depuis le 1er mars 2022, **l’intermédiation financière entre les parents séparés et la CAF se met en place automatiquement** pour toutes les pensions alimentaires fixées par décision judiciaire. 
+
 <br>
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto_zoom-400.png"/>
