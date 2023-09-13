@@ -16,12 +16,14 @@ Vous souhaitez mieux cibler les bénéficiaires d’une aide pour les informer d
 
 Avec ses partenaires, la DINUM consolide une offre de service adaptée aux besoins des projets proactifs.
 
-Soyez soutenu dans votre projet proactif par nos équipes et nos partenaires : 
+#### Soyez soutenu dans votre projet proactif par nos équipes et nos partenaires
 
 * Le Défenseur des droits
 * La Commission nationale de l'informatique et des libertés (CNIL)
 * La Direction interministérielle de la transformation publique (DITP)
 * Cybermalveillance.gouv.fr
+
+#### 8 expertises clés
 
 ![administration_proactive_infographie.png](/uploads/administration_proactive_infographie.png)
 
