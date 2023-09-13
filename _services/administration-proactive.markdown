@@ -6,6 +6,7 @@ tags:
 chapeau-text: Démarrez ou accélérez la proactivité des démarches vers vos usagers.
 une:
   image: "/uploads/389fd1bbd8943ad030561064bd3b80c70d72cffe.jpeg"
+layout: rgaa
 ---
 
 <figure class='image-left' style='width: 10%;'>
