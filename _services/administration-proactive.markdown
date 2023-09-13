@@ -23,11 +23,6 @@ Soyez soutenu dans votre projet proactif par nos équipes et nos partenaires :
 * La Direction interministérielle de la transformation publique (DITP)
 * Cybermalveillance.gouv.fr
 
-<figure class='image-center' style='width: 10%;'>
-<img src="/uploads/Infographie%20administration%20proactive.png" alt="Infographie">
-
-![Infographie administration proactive.png](/uploads/Infographie%20administration%20proactive.png)
-
 ### Exemples de démarches d’ores et déjà proactives
 
 <h4><b>Caisse nationale d'assurance maladie (Cnam)</b></h4>
