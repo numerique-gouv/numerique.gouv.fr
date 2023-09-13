@@ -84,6 +84,9 @@ Soyez soutenu dans votre projet proactif par nos équipes et nos partenaires :
 
 Exemples de démarches d’ores et déjà proactives
 
+<h4><b>Caisse nationale d'assurance maladie (Cnam)</b></h4>
+<img src="/uploads/assurance-maladie-HD.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
+Depuis le 1er janvier 2022, l’attribution est automatique lorsque l’on demande le RSA à partir du site caf.fr. La demande de Complémentaire santé solidaire (C2S) est transmise automatiquement à la CPAM de rattachement (CPAM) du demandeur du RSA. 
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto_zoom-400.png"/>
