@@ -25,7 +25,7 @@ Avec ses partenaires, la DINUM consolide une offre de service adaptée aux besoi
 
 #### 8 expertises clés
 
-![administration_proactive_infographie.png](/uploads/administration_proactive_infographie.png)
+![Infographie_administration_proactive.png](/uploads/Infographie_administration_proactive.png)
 
 Retrouver les liens de l'infographie :
 [Guide en ligne
