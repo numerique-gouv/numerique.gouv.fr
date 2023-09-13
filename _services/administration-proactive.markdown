@@ -23,7 +23,7 @@ Soyez soutenu dans votre projet proactif par nos équipes et nos partenaires :
 * La Direction interministérielle de la transformation publique (DITP)
 * Cybermalveillance.gouv.fr
 
-![Infographie_administration_proactive.png](/uploads/Infographie_administration_proactive.png)
+![Infographie_administration_proactive_compresse.png](/uploads/Infographie_administration_proactive_compresse.png)
 
 ### Exemples de démarches d’ores et déjà proactives
 
