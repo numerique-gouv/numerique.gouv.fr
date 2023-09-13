@@ -1,6 +1,8 @@
 ---
 title: Administration proactive
 date: 2023-09-13 13:08:00 +02:00
+categories:
+- Service
 tags:
 - Transformation numérique
 chapeau-text: Démarrez ou accélérez la proactivité des démarches vers vos usagers.
