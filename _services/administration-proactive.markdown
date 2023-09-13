@@ -23,8 +23,17 @@ Soyez soutenu dans votre projet proactif par nos équipes et nos partenaires :
 * La Direction interministérielle de la transformation publique (DITP)
 * Cybermalveillance.gouv.fr
 
-![Infographie_administration_proactive_compresse.png](/uploads/Infographie_administration_proactive_compresse.png)
+![administration_proactive_infographie.png](/uploads/administration_proactive_infographie.png)
 
+Retrouver les liens de l'infographie :
+[Guide en ligne
+](https://administration-proactive.gitbook.io/guide-de-lancement-dun-projet-proactif/)
+[api.gouv.fr](https://api.gouv.fr/les-api/impot-particulier)
+[Incubateur de services publics
+](https://beta.gouv.fr/)
+[Guichet data](https://www.numerique.gouv.fr/services/guichet-financement-exploitation-valorisation-des-donnees/)
+[Cybermalveillance
+](https://www.cybermalveillance.gouv.fr/)
 ### Exemples de démarches d’ores et déjà proactives
 
 <h4><b>Caisse nationale d'assurance maladie (Cnam)</b></h4>
