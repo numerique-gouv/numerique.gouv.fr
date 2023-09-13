@@ -6,6 +6,8 @@ categories:
 tags:
 - Transformation numérique
 chapeau-text: Démarrez ou accélérez la proactivité des démarches vers vos usagers.
+une:
+  image: "/uploads/Culture_Transfo_1600x860-dc1885.png"
 layout: rgaa
 ---
 
