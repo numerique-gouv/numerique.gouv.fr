@@ -60,6 +60,10 @@ publications:
   url: "/services/soumettre-un-grand-projet-numerique-au-dinum-pour-avis/"
   une-ou-diaporama:
   - image: "/uploads/saisine_avis_page-service.png"
+- title: Administration proactive
+  url: "/services/administration-proactive/"
+  une-ou-diaporama:
+  - image: "/uploads/Culture_Transfo_1600x860.png"
 layout: publications
 ---
 
