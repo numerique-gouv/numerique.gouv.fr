@@ -11,10 +11,7 @@ une:
 layout: rgaa
 ---
 
-<figure class='image-left' style='width: 10%;'>
-<img src="/uploads/Notre-accompagnement.png" alt="">
-</figure>## Notre accompagnement
-{: .margin-bottom-1}
+### Notre accompagnement
 Vous souhaitez mieux cibler les bénéficiaires d’une aide pour les informer de leurs démarches à effectuer et de leur éligibilité potentielle à un droit voire le leur attribuer automatiquement, sans qu’ils n’aient à en faire la demande. 
 
 Avec ses partenaires, la DINUM consolide une offre de service adaptée aux besoins des projets proactifs.
@@ -26,7 +23,7 @@ Soyez soutenu dans votre projet proactif par nos équipes et nos partenaires :
 * La Direction interministérielle de la transformation publique (DITP)
 * Cybermalveillance.gouv.fr
 
-<img src="/uploads/Infographie%20administration%20proactive.png" >
+![Infographie administration proactive.png](/uploads/Infographie%20administration%20proactive.png)
 
 ### Exemples de démarches d’ores et déjà proactives
 
