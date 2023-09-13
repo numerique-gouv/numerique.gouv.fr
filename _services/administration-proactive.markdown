@@ -35,8 +35,11 @@ Soyez soutenu dans votre projet proactif par nos équipes et nos partenaires :
 <div class="timeline-icon">
 <img src="/uploads/conseil-strategie-transformation-numerique/Etape-1-blanc-2.png" alt="Etape 1" />
 </div>
-<h3 class="title">Cadrage</h3>
-<p class="description">de la mission et analyse de votre problématique
+<h3 class="title">Juridique</h3>
+<p class="description">[Guide en ligne](https://administration-proactive.gitbook.io/guide-de-lancement-dun-projet-proactif/) synthétisant tous les **levier juridiques** mobilisables pour les échanges de données, rédigé en partenariat avec la CNIL 
+* Modèles de **conventionnement** et de **mentions légales** [en construction]
+* Accompagnement au cas par cas
+
 </p>
 </div>
 </div>
