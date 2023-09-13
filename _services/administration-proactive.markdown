@@ -79,37 +79,16 @@ Soyez soutenu dans votre projet proactif par nos équipes et nos partenaires :
 <br>
 <br>
 
+Exemples de démarches d’ores et déjà proactives
+
+
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto_zoom-400.png"/>
-</figure>## Zoom sur 6 accompagnements
+</figure>## Zoom sur un projet proactif accompagné par la DINUM
 
-*Ministère de l’Agriculture et de l’Alimentation*
-<figure class='image-left' style='width: 4%;'>
-<img src="/uploads/picto-problematique.png"/>
-</figure>**La question**
-{: .bleue .margin-0}
-Quels sont les impacts du numérique sur la transformation des grands métiers de l’agriculture ?
+Depuis plus de deux ans, la DINUM accompagne les autorités organisatrices de la mobilité (AOM) dans la récupération automatique des justificatifs nécessaires à la mise en place du « Dites-le nous une fois » (ex. justificatif du statut étudiant / boursier) pour **l’attribution des tarifs sociaux ou solidaires des transports.** 
+Nous testons – avec quelques AOM volontaires partenaires – une **méthodologie de notification automatique d’éligibilité à ces tarifs**. Une équipe dédiée a été constituée à la DINUM, accompagnée d’un responsable projet à la Direction générale des infrastructures, des transports et des mobilités et s’appuyant sur l’expertise du GART. 
 
-<figure class='image-left' style='width: 4%;'>
-<img src="/uploads/picto-intervention.png"/>
-</figure>**Notre réponse**
-{: .bleue .margin-0}
-Nous avons assemblé des expertises de la DINUM et de la DITP pour détailler les impacts et illustrer de cas concrets venant d’autres administrations : importance de la gouvernance de la donnée, de la prise en compte de la satisfaction usagers et de l’inclusion, exemples de mobilisation des cadres…
-<br>
-<br>
-
-*Ministère de l’Enseignement supérieur, de la Recherche et de l'Innovation*
-<figure class='image-left' style='width: 4%;'>
-<img src="/uploads/picto-problematique.png"/>
-</figure>**La question**
-{: .bleue .margin-0}
-Quelles améliorations peut apporter le numérique pour l’étudiant en enseignement supérieur dans ses démarches ?
-
-<figure class='image-left' style='width: 4%;'>
-<img src="/uploads/picto-intervention.png"/>
-</figure>**Notre réponse**
-{: .bleue .margin-0}
-Nous avons dessiné le parcours d'un étudiant, dans toutes ses démarches (transport, inscriptions, logement, santé, bourse…), de l’admission post-bac aux premiers cours, afin d’identifier les opportunités de simplification par le numérique, les points de rupture dans la dématérialisation et le suivi de ses différents dossiers.
 <br>
 <br>
 
