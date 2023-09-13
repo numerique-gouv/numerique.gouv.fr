@@ -54,6 +54,7 @@ Les personnes éligibles **reçoivent automatiquement le chèque énergie** à l
 Depuis le 1er mars 2022, **l’intermédiation financière entre les parents séparés et la CAF se met en place automatiquement** pour toutes les pensions alimentaires fixées par décision judiciaire. 
 <br>
 <br>
+<br>
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto_zoom-400.png"/>
 </figure>## Zoom sur un projet proactif accompagné par la DINUM
