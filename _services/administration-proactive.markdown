@@ -86,7 +86,27 @@ Exemples de démarches d’ores et déjà proactives
 
 <h4><b>Caisse nationale d'assurance maladie (Cnam)</b></h4>
 <img src="/uploads/assurance-maladie-HD.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
-Depuis le 1er janvier 2022, l’attribution est automatique lorsque l’on demande le RSA à partir du site caf.fr. La demande de Complémentaire santé solidaire (C2S) est transmise automatiquement à la CPAM de rattachement (CPAM) du demandeur du RSA. 
+Depuis le 1er janvier 2022, l’attribution est automatique lorsque l’on demande le RSA à partir du site caf.fr. La demande de Complémentaire santé solidaire (C2S) est transmise automatiquement à la CPAM de rattachement (CPAM) du demandeur du RSA.
+
+<h4><b>Pass Sport</b></h4>
+<img src="/uploads/assurance-maladie-HD.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
+En août 2022, un **email automatique** a été envoyé aux jeunes et aux familles éligibles et entre septembre et octobre aux étudiants boursiers.
+
+<h4><b>Carte électorale</b></h4>
+<img src="/uploads/assurance-maladie-HD.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
+Lors d’un changement d’adresse signalé par l’usager pour l’immatriculation d'un véhicule un mail **rappelle la possibilité de réaliser ce changement d’adresse également pour les listes électorales** via le site ou en mairie. 
+
+<h4><b>Les Crous</b></h4>
+<img src="/uploads/assurance-maladie-HD.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
+L’utilisation de l’API « statut boursier » permet **l’attribution automatique des repas CROUS à 1€** aux étudiants éligibles.
+
+<h4><b>Le chèque énergie</b></h4>
+<img src="/uploads/assurance-maladie-HD.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
+Les personnes éligibles **reçoivent automatiquement le chèque énergie** à leur domicile.
+
+<h4><b>Pension alimentaire</b></h4>
+<img src="/uploads/assurance-maladie-HD.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
+Depuis le 1er mars 2022, **l’intermédiation financière entre les parents séparés et la CAF se met en place automatiquement** pour toutes les pensions alimentaires fixées par décision judiciaire. 
 
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto_zoom-400.png"/>
