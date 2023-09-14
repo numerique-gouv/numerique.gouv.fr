@@ -63,7 +63,7 @@ Les personnes éligibles **reçoivent automatiquement le chèque énergie** à l
 <h4><b>Pension alimentaire</b></h4>
 <img src="/uploads/PA.png" alt="" style="margin-right: 10px" width="20%" align="left">
 Depuis le 1er mars 2022, **l’intermédiation financière entre les parents séparés et la CAF se met en place automatiquement** pour toutes les pensions alimentaires fixées par décision judiciaire. 
-
+<br>
 #### Zoom sur un projet proactif accompagné par la DINUM
 
 Depuis plus de deux ans, la DINUM accompagne les autorités organisatrices de la mobilité (AOM) dans la récupération automatique des justificatifs nécessaires à la mise en place du « Dites-le nous une fois » (ex. justificatif du statut étudiant / boursier) pour **l’attribution des tarifs sociaux ou solidaires des transports.** 
