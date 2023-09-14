@@ -56,7 +56,7 @@ Lors d’un changement d’adresse signalé par l’usager pour l’immatriculat
 L’utilisation de l’API « statut boursier » permet **l’attribution automatique des repas CROUS à 1€** aux étudiants éligibles.
 
 <br>
-<h4><b>Le chèque énergie</b></h4>
+<br><h4><b>Le chèque énergie</b></h4>
 <img src="/uploads/Logo_le_Ch%C3%A8que_%C3%A9nergie.png" alt="" style="margin-right: 10px" width="20%" align="left">
 Les personnes éligibles **reçoivent automatiquement le chèque énergie** à leur domicile.
 
