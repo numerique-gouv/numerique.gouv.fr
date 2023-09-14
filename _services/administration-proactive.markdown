@@ -11,7 +11,7 @@ une:
 layout: rgaa
 ---
 
-### Notre accompagnement
+#### Notre accompagnement
 Vous souhaitez mieux cibler les bénéficiaires d’une aide pour les informer de leurs démarches à effectuer et de leur éligibilité potentielle à un droit voire le leur attribuer automatiquement, sans qu’ils n’aient à en faire la demande. 
 
 Avec ses partenaires, la DINUM consolide une offre de service adaptée aux besoins des projets proactifs.
@@ -37,7 +37,7 @@ Retrouver les liens de l'infographie :
 * [Cybermalveillance
 ](https://www.cybermalveillance.gouv.fr/)
 
-### Exemples de démarches d’ores et déjà proactives
+#### Exemples de démarches d’ores et déjà proactives
 
 <h4><b>Caisse nationale d'assurance maladie (Cnam)</b></h4>
 <img src="/uploads/assurance-maladie-HD.jpg" alt="" style="margin-right: 10px" width="20%" align="left">
@@ -69,6 +69,8 @@ Depuis le 1er mars 2022, **l’intermédiation financière entre les parents sé
 <figure class='image-left' style='width: 6%;'>
 <img src="/uploads/picto_zoom-400.png"/>
 </figure>## Zoom sur un projet proactif accompagné par la DINUM
+
+#### Zoom sur un projet proactif accompagné par la DINUM
 
 Depuis plus de deux ans, la DINUM accompagne les autorités organisatrices de la mobilité (AOM) dans la récupération automatique des justificatifs nécessaires à la mise en place du « Dites-le nous une fois » (ex. justificatif du statut étudiant / boursier) pour **l’attribution des tarifs sociaux ou solidaires des transports.** 
 Nous testons – avec quelques AOM volontaires partenaires – une **méthodologie de notification automatique d’éligibilité à ces tarifs**. Une équipe dédiée a été constituée à la DINUM, accompagnée d’un responsable projet à la Direction générale des infrastructures, des transports et des mobilités et s’appuyant sur l’expertise du GART. 
