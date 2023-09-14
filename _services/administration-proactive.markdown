@@ -1,7 +1,6 @@
 ---
 title: Administration proactive
 date: 2023-09-13 13:08:00 +02:00
-published: false
 categories:
 - Service
 tags:
@@ -15,7 +14,7 @@ layout: rgaa
 #### Notre accompagnement
 Vous souhaitez mieux cibler les bénéficiaires d’une aide pour les informer de leurs démarches à effectuer et de leur éligibilité potentielle à un droit voire le leur attribuer automatiquement, sans qu’ils n’aient à en faire la demande. 
 
-#### Soyez soutenu dans votre projet proactif par nos équipes 
+#### Démarrez ou accélérez la proactivité de votre administration vers ses usagers 
 
 La DINUM consolide une offre de service adaptée aux besoins des projets proactifs grâce à une offre d’accompagnement construite en collaboration avec :
 
