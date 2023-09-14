@@ -25,8 +25,6 @@ La DINUM consolide une offre de service adaptée aux besoins des projets proacti
 
 #### 8 expertises clés
 
-![Infographie_administration_proactive.png](/uploads/Infographie_administration_proactive.png)
-
 ![Infographie_admin_proactive.png](/uploads/Infographie_admin_proactive.png)
 
 Retrouver les liens de l'infographie :
