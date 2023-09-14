@@ -6,7 +6,8 @@ categories:
 - Service
 tags:
 - Transformation numérique
-chapeau-text: Démarrez ou accélérez la proactivité des démarches vers vos usagers.
+chapeau-text: Démarrez ou accélérez la proactivité de votre administration vers ses
+  usagers.
 une:
   image: "/uploads/Culture_Transfo_1600x860.png"
 layout: rgaa
@@ -15,7 +16,7 @@ layout: rgaa
 #### Notre accompagnement
 Vous souhaitez mieux cibler les bénéficiaires d’une aide pour les informer de leurs démarches à effectuer et de leur éligibilité potentielle à un droit voire le leur attribuer automatiquement, sans qu’ils n’aient à en faire la demande. 
 
-#### Démarrez ou accélérez la proactivité de votre administration vers ses usagers 
+#### Soyez soutenu dans votre projet proactif par nos équipes
 
 La DINUM consolide une offre de service adaptée aux besoins des projets proactifs grâce à une offre d’accompagnement construite en collaboration avec :
 
