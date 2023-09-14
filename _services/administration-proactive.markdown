@@ -47,6 +47,7 @@ Depuis le 1er janvier 2022, l’attribution est automatique lorsque l’on deman
 <img src="/uploads/1200px-Caisse_d_allocations_familiales_france_logo.svg.png" alt="" style="margin-right: 10px" width="18%" align="left">
 Attribuée automatiquement sous conditions de ressources aux familles ayant des enfants de 6 à 18 ans scolarisés, en apprentissage ou pris en charge dans un établissement d’accueil spécialisé.
 
+<br>
 <h4><b>Pass Sport</b></h4>
 <img src="/uploads/pass-sport.png" alt="" style="margin-right: 10px" width="20%" align="left">
 En août 2022, un **email automatique** a été envoyé aux jeunes et aux familles éligibles et entre septembre et octobre aux étudiants boursiers.
