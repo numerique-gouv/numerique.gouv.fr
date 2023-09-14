@@ -27,6 +27,8 @@ La DINUM consolide une offre de service adaptée aux besoins des projets proacti
 
 ![Infographie_administration_proactive.png](/uploads/Infographie_administration_proactive.png)
 
+![Infographie_admin_proactive.png](/uploads/Infographie_admin_proactive.png)
+
 Retrouver les liens de l'infographie :
 * [Guide en ligne
 ](https://administration-proactive.gitbook.io/guide-de-lancement-dun-projet-proactif/)
