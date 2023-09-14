@@ -44,7 +44,7 @@ Retrouver les liens de l'infographie :
 Depuis le 1er janvier 2022, l’attribution est automatique lorsque l’on demande le RSA à partir du site caf.fr. La demande de Complémentaire santé solidaire (C2S) est transmise automatiquement à la CPAM de rattachement (CPAM) du demandeur du RSA.
 
 <h4><b>Caisse nationale des allocations familiales (CNAF)</b></h4>
-<img src="/uploads/1200px-Caisse_d_allocations_familiales_france_logo.svg.png" alt="" style="margin-right: 10px" width="20%" align="left">
+<img src="/uploads/1200px-Caisse_d_allocations_familiales_france_logo.svg.png" alt="" style="margin-right: 10px" width="18%" align="left">
 Attribuée automatiquement sous conditions de ressources aux familles ayant des enfants de 6 à 18 ans scolarisés, en apprentissage ou pris en charge dans un établissement d’accueil spécialisé.
 
 <h4><b>Pass Sport</b></h4>
