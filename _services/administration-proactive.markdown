@@ -15,9 +15,9 @@ layout: rgaa
 #### Notre accompagnement
 Vous souhaitez mieux cibler les bénéficiaires d’une aide pour les informer de leurs démarches à effectuer et de leur éligibilité potentielle à un droit voire le leur attribuer automatiquement, sans qu’ils n’aient à en faire la demande. 
 
-Avec ses partenaires, la DINUM consolide une offre de service adaptée aux besoins des projets proactifs.
+#### Soyez soutenu dans votre projet proactif par nos équipes 
 
-#### Soyez soutenu dans votre projet proactif par nos équipes et nos partenaires
+La DINUM consolide une offre de service adaptée aux besoins des projets proactifs grâce à une offre d’accompagnement construite en collaboration avec :
 
 * Le Défenseur des droits
 * La Commission nationale de l'informatique et des libertés (CNIL)
