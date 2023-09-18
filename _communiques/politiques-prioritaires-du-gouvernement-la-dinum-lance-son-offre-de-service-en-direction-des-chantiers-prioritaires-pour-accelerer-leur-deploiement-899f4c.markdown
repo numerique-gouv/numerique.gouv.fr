@@ -1,6 +1,6 @@
 ---
-title: 'POLITIQUES PRIORITAIRES DU GOUVERNEMENT : LA DINUM LANCE SON OFFRE DE SERVICE
-  EN DIRECTION DES CHANTIERS PRIORITAIRES POUR ACCÉLERER LEUR DÉPLOIEMENT.'
+title: 'Politiques prioritaires du Gouvernement : la DINUM lance son offre de service
+  en direction des chantiers prioritaires pour accélérer leur déploiement.'
 date: 2023-09-18 14:00:00 +02:00
 published: false
 tags:
@@ -33,9 +33,8 @@ Dans cette perspective, la direction interministérielle du numérique, interven
 
 Le FAST se traduit par un accompagnement opérationnel et stratégique de 6 mois proposé par des experts du numérique aux équipes des Startups d’État lauréates ainsi qu’un soutien financier (dont le montant s’élève à 50% du budget du projet sur l’année, n’excédant pas 300 000€ par Startup d’État). Depuis 2019, le FAST a financé plus de 50 services numériques et plus de 8 millions d’euros ont été investis. **L’appel à candidatures pour la 14ème édition est ouvert jusqu’au 1er décembre 2023**. Pour en savoir plus : [https://beta.gouv.fr/fast/](https://beta.gouv.fr/fast/) 
 
-« Le numérique est un puissant levier pour rendre l’action publique plus simple, plus souveraine et plus efficace au service de nos concitoyens. La diversité des lauréats du FAST montre que l’écosystème de l’innovation numérique est bien vivant dans les ministères. Il est temps pour ces projets de passer en phase d’accélération, de se concrétiser et la DINUM sera là pour les accompagner. J’invite tous les agents et décideurs publics engagés dans une démarche d’innovation numérique à nous rejoindre ! ». 
-
-**Stanislas Guerini, ministre de la Transformation et de la Fonction publiques**
+<blockquote class="citation"><p><b>Le numérique est un puissant levier pour rendre l’action publique plus simple, plus souveraine et plus efficace au service de nos concitoyens. La diversité des lauréats du FAST montre que l’écosystème de l’innovation numérique est bien vivant dans les ministères. Il est temps pour ces projets de passer en phase d’accélération, de se concrétiser et la DINUM sera là pour les accompagner. J’invite tous les agents et décideurs publics engagés dans une démarche d’innovation numérique à nous rejoindre ! </b></p> </blockquote>
+<blockquote class="auteur-citation"> <p><strong>Stanislas Guerini, ministre de la Transformation et de la Fonction publiques</strong></p> </blockquote>
 
 beta.gouv.fr est un programme du département Incubateur de services numériques de la direction interministérielle du numérique qui accompagne les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser afin d’améliorer le quotidien des citoyens, des entreprises ou des agents tout en répondant à un haut niveau de standards techniques (impact, transparence, accessibilité, design, sécurité, frugalité). 
 
