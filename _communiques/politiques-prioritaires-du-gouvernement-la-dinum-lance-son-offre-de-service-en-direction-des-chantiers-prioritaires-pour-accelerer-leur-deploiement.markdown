@@ -16,7 +16,8 @@ chapeau-text: |-
 une-ou-diaporama:
 - image: "/uploads/CPPPGG.png"
 files:
-- nom: Télécharger le communiqué de presse
+- file: "/uploads/CP_BETA.GOUV.FR_PPG_ETAT_SOUTIENT_DECIDEURS_PUBLICS_INVESTIT_VIA_FAST-28404b.pdf"
+  nom: Télécharger le communiqué de presse
 ---
 
 Afin d’accélérer l’avancement des politiques prioritaires du Gouvernement (PPG), l’État s’appuie sur le plein potentiel du numérique et déploie des méthodes agiles guidées par l’impact afin de rendre son action plus efficace, plus simple et plus souveraine. 
