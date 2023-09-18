@@ -83,18 +83,6 @@ layout: page-annexe
 <br>
 <br>
 
-<h1 class="h3"><b>Données / Datascience / Open data</b></h1>
-<div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-data-hf-reference-2023-1327159/" title="Ingénieur data H/F - Lien externe">Ingénieur data H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/ingenieur-data-hf-reference-2023-1327159/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-</div>
-<br>
-<br>
-
 <h1 class="h3"><b>Incubateur de services numériques</b></h1>
 <div class="wrapper">
   <div class="panel">
@@ -110,24 +98,6 @@ layout: page-annexe
 <h1 class="h3"><b>Infrastructures, réseaux</b></h1>
 <div class="wrapper">
   <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-referente-production-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314721/" title="Chargé/e de mission référent/e production des raccordements au réseau interministériel de l'Etat H/F - Lien externe">Chargé/e de mission référent/e production des raccordements au réseau interministériel de l'Etat H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/charge-e-de-mission-referente-production-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314721/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-charge-e-de-mission-production-et-projets-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314735/" title="Chargé/e de mission production et projets des raccordements au réseau interministériel de l'Etat H/F - Lien externe">Chargé/e de mission production et projets des raccordements au réseau interministériel de l'Etat H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-charge-e-de-mission-production-et-projets-des-raccordements-au-reseau-interministeriel-de-l-etat-hf-reference-2023-1314735/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-production-du-rie-hf-reference-2023-1314750/" title="Chargé(e) de mission Production du RIE H/F - Lien externe">Chargé(e) de mission Production du RIE H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-production-du-rie-hf-reference-2023-1314750/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/directeur-directrice-de-projet---services-d-acces-internet-hf-reference-2023-1331727/" title="Directeur/Directrice de projet - Services d'accès internet  H/F - Lien externe">Directeur/Directrice de projet - Services d'accès internet H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
     <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
@@ -139,18 +109,6 @@ layout: page-annexe
 
 <h1 class="h3"><b>RH de la filière numérique de l'État</b></h1>
 <div class="wrapper">
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chefe-de-pole-fidelisation-et-parcours-du-numerique-hf-reference-2023-1195285/" title="Chef/fe de pôle fidélisation et parcours du numérique H/F - Lien externe">Chef/fe de pôle fidélisation et parcours du numérique H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chefe-de-pole-fidelisation-et-parcours-du-numerique-hf-reference-2023-1195285/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
-  <div class="panel">
-    <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-rh-et-attractivite-hf-reference-2023-1254901/" title="Chargé/e de mission RH et attractivité H/F - Lien externe">Chargé/e de mission RH et attractivité H/F</a></b>
-    <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>
-    <p style="font-size:14px;"><img src="/uploads/map-pin-2-line.svg" style="margin-right: 5px" width="16px" height="16px">Paris (télétravail possible)</p>
-    <div align="center"><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/chargee-de-mission-rh-et-attractivite-hf-reference-2023-1254901/" title="Consulter l'offre - Lien externe" class="button">Consulter l'offre</a></div>
-  </div>
   <div class="panel">
     <b><a href="https://choisirleservicepublic.gouv.fr/offre-emploi/-chargee-de-mission-fidelisation-et-parcours-hf-reference-2023-1215497/" title="Chargé(e) de mission Fidélisation et parcours H/F - Lien externe">Chargé(e) de mission Fidélisation et parcours H/F</a></b>
     <p style="font-size:14px; margin-bottom: 0px">Cadre/Catégorie A</p>

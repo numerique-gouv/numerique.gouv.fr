@@ -34,9 +34,8 @@ L'ordonnance introduit trois nouveautés relatives à l'accessibilité des sites
 
 Certaines obligations restent inchangées : les obligations complémentaires, qui incluent la publication d'une déclaration d'accessibilité, l'élaboration et la publication d'un schéma pluriannuel (sur trois ans) de mise en accessibilité décliné en plans d'actions annuels, la publication du plan d'action de l'année en cours, l'indication sur la page d'accueil si le site est conforme ou non, et la possibilité pour les utilisateurs de signaler facilement les manquements à l'accessibilité. Le non-respect des obligations complémentaires demeure passible de sanctions, avec une limite fixée à 25 000€.
 
-[En savoir plus
-](https://www.elysee.fr/emmanuel-macron/2023/09/06/compte-rendu-du-conseil-des-ministres-du-6-septembre-2023)
+Pour en savoir plus, accéder [au compte-rendu du conseil des ministres du 6 septembre 2023 ](https://www.elysee.fr/emmanuel-macron/2023/09/06/compte-rendu-du-conseil-des-ministres-du-6-septembre-2023)
 
-**Loi de 2005 consolidée avec les modifications apportées par l’ordonnance**
-<br>Article 47 : [consultez l'article](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037388867/)
-<br>Article 47-1 : [consultez l'article](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048050174/2023-09-08)
+**Loi de 2005 consolidée avec les modifications apportées par l’ordonnance **
+consultez l’[article 47 de la loi de 2005 mis à jour ](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000037388867/)
+consultez le [nouvel article 47-1 définissant de nouvelles sanctions pour inaccessibilité](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048050174/2023-09-08)
