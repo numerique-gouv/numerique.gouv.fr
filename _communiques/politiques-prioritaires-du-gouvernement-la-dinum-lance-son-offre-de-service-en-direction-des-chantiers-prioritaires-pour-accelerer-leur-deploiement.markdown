@@ -7,6 +7,8 @@ chapeau-text: |-
   10 startups d’État reçoivent  2 550 000€ via le fond d’accélération des startups d’état et de territoires de la direction interministérielle du numérique.
 
   Pour rendre son action plus efficace, plus simple et plus souveraine, l’État s’appuie sur la puissance offerte par le numérique : qu’il s’agisse par exemple de dématérialisation permettant de faciliter les démarches des usagers les plus à l’aise avec le numérique et libérer du temps aux agents publics pour mieux accompagner les citoyens les plus isolés du numérique ou encore d’expérimenter l’utilisation d’outils d’intelligence artificielle pour améliorer la qualité des réponses apportées aux usagers.
+files:
+- nom: Télécharger le communiqué de presse
 ---
 
 Afin d’accélérer l’avancement des politiques prioritaires du Gouvernement (PPG), l’État s’appuie sur le plein potentiel du numérique et déploie des méthodes agiles guidées par l’impact afin de rendre son action plus efficace, plus simple et plus souveraine. 
@@ -28,3 +30,11 @@ Dans cette perspective, la direction interministérielle du numérique, interven
 
 
 Le FAST se traduit par un accompagnement opérationnel et stratégique de 6 mois proposé par des experts du numérique aux équipes des Startups d’État lauréates ainsi qu’un soutien financier (dont le montant s’élève à 50% du budget du projet sur l’année, n’excédant pas 300 000€ par Startup d’État). Depuis 2019, le FAST a financé plus de 50 services numériques et plus de 8 millions d’euros ont été investis. **L’appel à candidatures pour la 14ème édition est ouvert jusqu’au 1er décembre 2023.** Pour en savoir plus : [beta.gouv.fr/fast](https://beta.gouv.fr/fast/)
+
+> « Le numérique est un puissant levier pour rendre l’action publique plus simple, plus efficace et plus souveraine. Nous devons continuer à explorer toutes les opportunités qu’il offre pour répondre aux défis actuels et accompagner tous les agents publics qui souhaitent développer des solutions plus efficientes pour les citoyens. J’incite ainsi tous les agents et décideurs publics engagés dans une démarche d’innovation numérique à se saisir de l’offre de service de l’incubateur de services numériques de la DINUM visant à accélérer le déploiement des chantiers prioritaires du Gouvernement et je m’associe à la satisfaction des porteurs de Startups d’État lauréates du FAST et encourage les autres à candidater au FAST n°14 ! »
+<br>
+<br>**Stanislas Guerini, ministre de la Transformation et de la Fonction publiques**
+
+beta.gouv.fr est un programme du département Incubateur de services numériques de la direction interministérielle du numérique qui accompagne les administrations publiques à construire des services numériques utiles, simples, faciles à utiliser afin d’améliorer le quotidien des citoyens, des entreprises ou des agents tout en répondant à un haut niveau de standards techniques (impact, transparence, accessibilité, design, sécurité, frugalité). 
+
+Concrètement, des équipes sont constituées d’agents publics endossant un rôle « d’intrapreneur » et d’experts du numérique de beta.gouv.fr pour créer des services numériques prioritaires à impact, appelés Startups d’État. Ces dernières partent des besoins du terrain pour expérimenter des solutions jusqu’à trouver le modèle le plus adéquat qui répondra aux besoins des usagers avant d’être déployé à plus grande échelle s’il prouve son impact. Pour en savoir plus : [beta.gouv.fr/approche](https://beta.gouv.fr/approche)
