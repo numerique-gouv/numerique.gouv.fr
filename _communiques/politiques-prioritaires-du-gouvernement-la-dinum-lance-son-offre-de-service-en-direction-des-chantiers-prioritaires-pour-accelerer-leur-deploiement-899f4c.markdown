@@ -10,6 +10,14 @@ chapeau-text: |-
   **10 STARTUPS D’ÉTAT REÇOIVENT PRÈS DE 2 550 000€ VIA LE FOND D’ACCÉLÉRATION DES STARTUPS D’ÉTAT ET DE TERRITOIRES DE LA DIRECTION INTERMINISTÉRIELLE DU NUMÉRIQUE.**
 
   **Pour rendre son action plus efficace, plus simple et plus souveraine, l’État s’appuie sur la puissance offerte par le numérique : qu’il s’agisse par exemple de dématérialisation permettant de faciliter les démarches des usagers les plus à l’aise avec le numérique et libérer du temps aux agents publics pour mieux accompagner les citoyens les plus isolés du numérique ou encore d’expérimenter l’utilisation d’outils d’intelligence artificielle pour améliorer la qualité des réponses apportées aux usagers.**
+une-ou-diaporama:
+- image: "/uploads/Ev%C3%A9nement%20de%20la%20rentr%C3%A9e%20de%20beta.gouv.fr%20-%20Twitter%20Post.png"
+  alternative-textuelle: |-
+    Le numérique, un accélérateur des politiques prioritaires du gouvernement
+    Organisé par l'incubateur beta.gouv.fr de la DINUM
+    Inscription obligatoire
+    18 septembre 2023
+    75007 Paris
 files:
 - file: "/uploads/CP_BETA.GOUV.FR_PPG_ETAT_SOUTIENT_DECIDEURS_PUBLICS_INVESTIT_VIA_FAST.pdf"
   nom: Télécharger le communiqué de presse
