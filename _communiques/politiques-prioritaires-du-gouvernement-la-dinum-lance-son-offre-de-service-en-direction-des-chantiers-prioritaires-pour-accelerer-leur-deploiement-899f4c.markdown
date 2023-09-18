@@ -1,6 +1,6 @@
 ---
 title: 'Politiques prioritaires du Gouvernement : la DINUM lance son offre de service
-  en direction des chantiers prioritaires pour accélérer leur déploiement.'
+  en direction des chantiers prioritaires pour accélérer leur déploiement'
 date: 2023-09-18 14:00:00 +02:00
 published: false
 tags:
