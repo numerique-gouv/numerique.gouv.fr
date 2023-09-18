@@ -13,7 +13,7 @@ chapeau-text: |-
 
   Pour rendre son action plus efficace, plus simple et plus souveraine, l’État s’appuie sur la puissance offerte par le numérique : qu’il s’agisse par exemple de dématérialisation permettant de faciliter les démarches des usagers les plus à l’aise avec le numérique et libérer du temps aux agents publics pour mieux accompagner les citoyens les plus isolés du numérique ou encore d’expérimenter l’utilisation d’outils d’intelligence artificielle pour améliorer la qualité des réponses apportées aux usagers.
 une-ou-diaporama:
-- image: "/uploads/Twitter%20-%20annonce%20FAST%2013%20.png"
+- image: "/uploads/CP%20PPG.png"
 files:
 - nom: Télécharger le communiqué de presse
 ---
