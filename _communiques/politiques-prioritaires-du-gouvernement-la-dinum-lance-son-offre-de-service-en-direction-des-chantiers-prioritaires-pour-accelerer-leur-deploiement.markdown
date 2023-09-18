@@ -17,16 +17,24 @@ Dans cette perspective, la direction interministérielle du numérique, interven
 **À cette occasion, les 10 Startups d’État lauréates du fonds d’accélération des Startups d’État et de territoires (FAST) n°13 lancé le 16 février dernier en présence de Stanislas Guérini ont été annoncées :**
 
 **1) [A-Just](https://beta.gouv.fr/startups/a-just.html)** : Piloter par la donnée l’affectation des ressources humaines dans les juridictions pour réduire les délais de justice. 
-2) **Envergo** : Améliorer la prise en compte de l’environnement dans les projets d’aménagement.
-3) Annuaire des collectivités : Offrir un site web à chaque commune de France.
-4) Réfugiés.info : Favoriser l’intégration des personnes réfugiées en France grâce à une information simple et traduite. 
-5) DataSubvention : Rassembler les informations sur les associations et leurs subventions pour simplifier la vie des associations et des agents publics. 
-6) Docurba : Faciliter l’élaboration et le suivi des documents d’urbanisme en améliorant les échanges entre les collectivités et l’État 
-7) DossierFacile : Remettre la confiance au centre de la relation entre propriétaires et locataires.
-8) Ma Cantine : Accompagner les acteurs de la restauration collective pour proposer une alimentation de qualité, saine et durable.
-9) Mano : Soutenir les équipes mobiles dédiées à améliorer la vie des populations en rue et à favoriser leur réinsertion. 
-10) Mobilic : Simplifier le suivi et le respect du temps de travail des travailleurs mobiles.
-
+<br>
+**2) [Envergo](https://beta.gouv.fr/startups/envergo.html)** : Améliorer la prise en compte de l’environnement dans les projets d’aménagement.
+<br>
+**3) [Annuaire des collectivités](https://collectivite.fr/)** : Offrir un site web à chaque commune de France.
+<br>
+**4) [Réfugiés.info](https://refugies.info/fr)** : Favoriser l’intégration des personnes réfugiées en France grâce à une information simple et traduite.
+<br>
+**5) [DataSubvention](https://datasubvention.beta.gouv.fr/auth/login?url=%2F)** : Rassembler les informations sur les associations et leurs subventions pour simplifier la vie des associations et des agents publics.
+<br> 
+**6) [Docurba](https://docurba.beta.gouv.fr/)** : Faciliter l’élaboration et le suivi des documents d’urbanisme en améliorant les échanges entre les collectivités et l’État
+<br> 
+**7) [DossierFacile](https://www.dossierfacile.fr/)** : Remettre la confiance au centre de la relation entre propriétaires et locataires.
+<br>
+**8) [Ma Cantine](https://ma-cantine.agriculture.gouv.fr/accueil/)** : Accompagner les acteurs de la restauration collective pour proposer une alimentation de qualité, saine et durable.
+<br>
+**9) [Mano](https://mano-app.fabrique.social.gouv.fr/)** : Soutenir les équipes mobiles dédiées à améliorer la vie des populations en rue et à favoriser leur réinsertion.
+<br> 
+**10) [Mobilic](https://mobilic.beta.gouv.fr/)** : Simplifier le suivi et le respect du temps de travail des travailleurs mobiles.
 
 Le FAST se traduit par un accompagnement opérationnel et stratégique de 6 mois proposé par des experts du numérique aux équipes des Startups d’État lauréates ainsi qu’un soutien financier (dont le montant s’élève à 50% du budget du projet sur l’année, n’excédant pas 300 000€ par Startup d’État). Depuis 2019, le FAST a financé plus de 50 services numériques et plus de 8 millions d’euros ont été investis. **L’appel à candidatures pour la 14ème édition est ouvert jusqu’au 1er décembre 2023.** Pour en savoir plus : [beta.gouv.fr/fast](https://beta.gouv.fr/fast/)
 
