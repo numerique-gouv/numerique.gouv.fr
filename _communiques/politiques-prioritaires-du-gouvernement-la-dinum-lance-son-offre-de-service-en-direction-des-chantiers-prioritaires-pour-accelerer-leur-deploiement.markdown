@@ -21,9 +21,9 @@ files:
 
 Afin d’accélérer l’avancement des politiques prioritaires du Gouvernement (PPG), l’État s’appuie sur le plein potentiel du numérique et déploie des méthodes agiles guidées par l’impact afin de rendre son action plus efficace, plus simple et plus souveraine. 
 
-Dans cette perspective, la direction interministérielle du numérique, intervenant sous l’égide du ministère de Transformation et de la Fonction publiques, a réuni aujourd’hui les agents et décideurs publics en présence de la directrice interministérielle du numérique Stéphanie Schaer et du ministre Stanislas Guérini afin de les inciter à accélérer et renforcer le recours au levier du numérique et aux méthodes agiles et impact, utilisées par le programme beta.gouv.fr, ceci dans l’optique d’accélérer la mise en œuvre de leurs politiques publiques et optimiser leurs résultats.
+Dans cette perspective, la direction interministérielle du numérique, intervenant sous l’égide du ministère de Transformation et de la Fonction publiques, a réuni aujourd’hui les agents et décideurs publics en présence de la directrice interministérielle du numérique Stéphanie Schaer et du ministre Stanislas Guerini afin de les inciter à accélérer et renforcer le recours au levier du numérique et aux méthodes agiles et impact, utilisées par le programme beta.gouv.fr, ceci dans l’optique d’accélérer la mise en œuvre de leurs politiques publiques et optimiser leurs résultats.
 
-**À cette occasion, les 10 Startups d’État lauréates du fonds d’accélération des Startups d’État et de territoires (FAST) n°13 lancé le 16 février dernier en présence de Stanislas Guérini ont été annoncées :**
+**À cette occasion, les 10 Startups d’État lauréates du fonds d’accélération des Startups d’État et de territoires (FAST) n°13 lancé le 16 février dernier en présence de Stanislas Guerini ont été annoncées :**
 
 **1) [A-Just](https://beta.gouv.fr/startups/a-just.html)** : Piloter par la donnée l’affectation des ressources humaines dans les juridictions pour réduire les délais de justice. 
 <br>

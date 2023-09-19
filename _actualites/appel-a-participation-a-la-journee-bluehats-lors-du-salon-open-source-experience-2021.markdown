@@ -10,9 +10,9 @@ Cette journée est l'occasion pour tous de découvrir les avancées du logiciel 
 
 **Vous êtes un agent public et que vous souhaitez intervenir ?**
 
-Envoyez-nous vos propositions de présentations courtes à l'adresse [mailto:logiciels-libres@data.gouv.fr](logiciels-libres@data.gouv.fr), en précisant votre administration de rattachement, le sujet abordé et le public ciblé. 
+Envoyez-nous vos propositions de présentations courtes à l'adresse [mailto:contact@code.gouv.fr](contact@code.gouv.fr), en précisant votre administration de rattachement, le sujet abordé et le public ciblé. 
 
-> [Je propose une intervention](mailto:logiciels-libres@data.gouv.fr)
+> [Je propose une intervention](mailto:contact@code.gouv.fr)
 {: .lien-important role="presentation" }
 
 **Vous souhaitez seulement assister aux présentations ?**
@@ -26,5 +26,5 @@ Envoyez-nous vos propositions de présentations courtes à l'adresse [mailto:log
 Les #BlueHats, ce sont tous ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM contribue au mouvement #BlueHats en éditant tous les deux mois une infolettre à laquelle vous pouvez vous inscrire ici. 
 <br/>
 Pour recevoir l’actualité de la communauté et être informé des prochaines actions :
-* [Inscrivez-vous à la liste de diffusion Blue hats !](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio)
+* [Inscrivez-vous à la liste de diffusion Blue hats !](https://code.gouv.fr/newsletters/subscribe/bluehats@mail.codegouv.fr)
 {: : .noir .encadre}

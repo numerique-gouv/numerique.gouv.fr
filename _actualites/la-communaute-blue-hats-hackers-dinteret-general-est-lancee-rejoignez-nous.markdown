@@ -33,7 +33,7 @@ Au programme de leurs échanges ce jour-là, une dizaine de présentations par d
 
 Parmi les représentants d’associations œuvrant pour l’ouverture logicielle hors de l’administration : **Sophie Gautier** de The document foundation, **Roberto Di Cosmo,** du projet Software Heritage, **Pierre-Yves Gosset** de Framasoft, **Frédéric Couchet** de l’APRIL et **Olivier Heintz** de la Fondation Apache se sont succédés au micro, évoquant les liens entre leurs associations et l’administration publique et faisant remonter le besoin de dialogue et de soutien mutuel. Grâce à ces échanges, des pistes de coopération ont été identifiées pour qu’associations, État et organismes publics contribuent, ensemble, aux communs numériques.
 
-> [Rejoignez la communauté Blue hats en vous inscrivant à la liste de diffusion](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio)
+> [Rejoignez la communauté Blue hats en vous inscrivant à la liste de diffusion](https://code.gouv.fr/newsletters/subscribe/bluehats@mail.codegouv.fr)
 {: .lien-important role="presentation" }
 
 ### Quelle place pour le libre dans l’administration ? ###
@@ -51,5 +51,5 @@ Son message *« Compagnons Blue hats, n’oubliez pas ce que nous a appris le li
 Développeur.euse, designer, datascientist, au sein de l’État, indépendant ou prestataire, vous utilisez ou produisez des logiciels libres ? Vous contribuez à des projets ouverts utilisés par l’administration et souhaitez partager votre expertise et vos bonnes pratiques ? Ouverte à tous, la communauté Blue hats, hackers d’intérêt général, a besoin de vous pour faire progresser le libre et ses usages dans l’administration !
 <br/>
 Pour recevoir l’actualité de la communauté et être informé des prochaines actions :
-* [Inscrivez-vous à la liste de diffusion Blue hats !](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio)
+* [Inscrivez-vous à la liste de diffusion Blue hats !](https://code.gouv.fr/newsletters/subscribe/bluehats@mail.codegouv.fr)
 {: : .noir .encadre}

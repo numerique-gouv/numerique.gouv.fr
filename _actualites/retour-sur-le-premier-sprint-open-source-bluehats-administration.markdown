@@ -70,7 +70,7 @@ Votre administration souhaite organiser un sprint source autour de ses propres p
 
 L’organisation de ce tout premier sprint open source nous a permis de tirer quelques [enseignements et pistes d’amélioration](https://github.com/DISIC/evenements-bluehats/blob/master/retex/19-20-11-2019-retours.org) pour de prochaines rencontres, que nous vous partageons.
 
-**Le logiciel libre dans l’administration vous intéresse ? [Inscrivez-vous à la gazette #BlueHats](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio) bimensuelle, publiée par la DINUM, et consultez [les dernières éditions](https://github.com/DISIC/gazette-bluehats).**
+**Le logiciel libre dans l’administration vous intéresse ? [Inscrivez-vous à la gazette #BlueHats](https://code.gouv.fr/newsletters/subscribe/bluehats@mail.codegouv.fr) bimensuelle, publiée par la DINUM, et consultez [les dernières éditions](https://github.com/DISIC/gazette-bluehats).**
 
 > ### Une journée #BlueHats au Paris Open Source Summit 2019
 >
