@@ -19,7 +19,7 @@ chapeau-text: 'Pour encourager l’intraprenariat et la création de services nu
   5 agents publics exerçant des fonctions variées - intrapreneurs de Startups d’État
   viennent de recevoir cette certification. '
 une-ou-diaporama:
-- image: "/uploads/Page%20CP%20certification.png"
+- image: "/uploads/CP-certification.png"
 files:
 - file: "/uploads/CP_DINUM_ORGANISME_CERTIFICATEUR_COMPETENCES_POUR_INTRA_EIG.pdf"
   nom: Télécharger le communiqué de presse
