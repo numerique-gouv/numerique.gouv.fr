@@ -136,7 +136,7 @@ Des actions dédiées figurent également dans les feuilles de route de chaque m
 
 La plupart des ministères continueront à encourager leurs agents à participer activement à la communauté **BlueHats**, animée par la DINUM, qui rassemble déjà de nombreux experts du sujet.
 
-**> Vous êtes agent public, intéressé par les logiciels libres ? [Inscrivez-vous à la lettre d’infos BlueHats](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio "Inscrivez-vous à la lettre d’infos BlueHats - Lien externe"). Et pour plus d’infos [contactez-nous à logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr "contactez-nous à logiciels-libres@data.gouv.fr - Ouvre une messagerie courriel")**
+**> Vous êtes agent public, intéressé par les logiciels libres ? [Inscrivez-vous à la lettre d’infos BlueHats](https://code.gouv.fr/newsletters/subscribe/bluehats@mail.codegouv.fr "Inscrivez-vous à la lettre d’infos BlueHats - Lien externe"). Et pour plus d’infos [contactez-nous à logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr "contactez-nous à logiciels-libres@data.gouv.fr - Ouvre une messagerie courriel")**
 {:.margin-left-3}
 
 ## Développer les compétences et le capital humain, une priorité

@@ -26,7 +26,7 @@ champs_informations:
   lien: https://framaforms.org/participation-a-levenement-bluehats-de-la-dinum-lors-du-paris-open-source-summit-2019-1574254577
 ---
 
-Les BlueHats, ce sont tous ceux qui, dans l'administration et hors d'elle, contribuent à des **logiciels libres** utilisés par l'administration. La DINUM contribue au mouvement BlueHats en éditant tous les deux mois une gazette à laquelle vous pouvez [vous inscrire](https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio).
+Les BlueHats, ce sont tous ceux qui, dans l'administration et hors d'elle, contribuent à des **logiciels libres** utilisés par l'administration. La DINUM contribue au mouvement BlueHats en éditant tous les deux mois une gazette à laquelle vous pouvez [vous inscrire](https://code.gouv.fr/newsletters/subscribe/bluehats@mail.codegouv.fr).
 
 Au programme, des partages d'expérience sous forme de présentations courtes *(lightning talks*) autour de logiciels libres développés et/ou utilisés par la sphère publique et des ateliers techniques sur des compétences particulières (datascience, outils de géomatique, bases de données, développement de site web, etc.).
 

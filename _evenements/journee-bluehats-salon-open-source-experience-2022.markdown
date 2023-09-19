@@ -76,9 +76,9 @@ Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr ](mailto:log
   * [Plan d'action logiciels libres et communs numériques](https://www.numerique.gouv.fr/publications/plan-action-logiciels-libres-communs-numeriques/) : un an plus tard par le [pôle logiciels libres](https://communs.numerique.gouv.fr/) et la [mission LABEL](https://catalogue.numerique.gouv.fr/) de la [DINUM](https://numerique.gouv.fr/)
 
 <div class="noir encadre"><h3>La communauté BlueHats</h3>
-<p>Les BlueHats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une <a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="gazette - Lien externe">gazette</a>.</p>
+<p>Les BlueHats, ce sont toutes celles et ceux qui, dans l'administration et hors d'elle, contribuent à des logiciels libres utilisés dans le secteur public. La DINUM anime ce mouvement #BlueHats et édite tous les deux mois une <a href="https://code.gouv.fr/newsletters/subscribe/bluehats@mail.codegouv.fr" alt="gazette - Lien externe">gazette</a>.</p>
 <br><p>Pour recevoir l’actualité de la communauté et être informé des prochaines actions :
-</p><ul><li><a href="https://infolettres.etalab.gouv.fr/subscribe/bluehats@mail.etalab.studio" alt="Inscrivez-vous à la gazette Bluehats ! - Lien externe">Inscrivez-vous à la gazette BlueHats</a></li></ul><p></p>
+</p><ul><li><a href="https://code.gouv.fr/newsletters/subscribe/bluehats@mail.codegouv.fr" alt="Inscrivez-vous à la gazette Bluehats ! - Lien externe">Inscrivez-vous à la gazette BlueHats</a></li></ul><p></p>
 <p>Pour discuter sur le thème du logiciel libre dans l’administration :
 </p><ul><li><a href="https://www.tchap.gouv.fr/#/room/%23BlueHats21LW8XE:agent.dinum.tchap.gouv.fr" alt="Retrouvez les BlueHats dans le salon dédié sur Tchap - Lien externe">Retrouvez les BlueHats dans le salon dédié sur Tchap,</a> la messagerie instantanée de l’État (réservé aux agents publics ou sur invitation)<p></p></li></ul></div>
 
