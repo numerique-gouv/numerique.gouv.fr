@@ -14,7 +14,7 @@ adresse: Palais des congrès, 2 place de la porte Maillot, 75017 Paris
 champs_informations:
 - intitule: Proposer une intervention
   contenu: Par courriel
-  lien: mailto:logiciels-libres@data.gouv.fr
+  lien: mailto:contact@code.gouv.fr
 - intitule: S'inscrire
   contenu: à l'Open Source Experience (gratuit)
   lien: https://www.opensource-experience.com/
@@ -52,15 +52,15 @@ Nous vous tendons le micro !
 
 Chaque présentation doit tenir dans un format court de 7 à 15 minutes.
 
-Proposez vos sujets de présentations courtes à l'adresse [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr). Décrivez-le en quelques lignes et précisez votre administration de rattachement, le sujet abordé et le public ciblé.
+Proposez vos sujets de présentations courtes à l'adresse [contact@code.gouv.fr](mailto:contact@code.gouv.fr). Décrivez-le en quelques lignes et précisez votre administration de rattachement, le sujet abordé et le public ciblé.
 
-<div align="center"  style="margin-bottom: 20px"><a href="mailto:logiciels-libres@data.gouv.fr" class="button"><b>Proposer une intervention</b><br>(ouvre un courriel)</a></div>
+<div align="center"  style="margin-bottom: 20px"><a href="mailto:contact@code.gouv.fr" class="button"><b>Proposer une intervention</b><br>(ouvre un courriel)</a></div>
 
 <h2 class="h3">Vous souhaitez assister aux présentations ?</h2>
 
 [Inscrivez-vous gratuitement au salon Open Source Experience](https://www.opensource-experience.com/ "Inscrivez-vous gratuitement au salon Open Source Experience - Lien externe") et retrouvez-nous le 9 novembre en salle 223M… ou en suivant les chapeaux bleus.
 
-Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr](mailto:logiciels-libres@data.gouv.fr)
+Pour toute question, écrivez-nous : [contact@code.gouv.fr](mailto:contact@code.gouv.fr)
 
 <div class="lien-important"><p><a href="https://www.opensource-experience.com/"  title="S'inscrire">S'inscrire</a></p></div>
 

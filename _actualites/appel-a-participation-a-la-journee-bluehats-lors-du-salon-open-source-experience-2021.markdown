@@ -10,9 +10,9 @@ Cette journée est l'occasion pour tous de découvrir les avancées du logiciel 
 
 **Vous êtes un agent public et que vous souhaitez intervenir ?**
 
-Envoyez-nous vos propositions de présentations courtes à l'adresse [mailto:logiciels-libres@data.gouv.fr](logiciels-libres@data.gouv.fr), en précisant votre administration de rattachement, le sujet abordé et le public ciblé. 
+Envoyez-nous vos propositions de présentations courtes à l'adresse [mailto:contact@code.gouv.fr](contact@code.gouv.fr), en précisant votre administration de rattachement, le sujet abordé et le public ciblé. 
 
-> [Je propose une intervention](mailto:logiciels-libres@data.gouv.fr)
+> [Je propose une intervention](mailto:contact@code.gouv.fr)
 {: .lien-important role="presentation" }
 
 **Vous souhaitez seulement assister aux présentations ?**

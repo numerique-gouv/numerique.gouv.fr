@@ -28,7 +28,7 @@ L’occasion pour vous de découvrir les avancées du logiciel libre dans l’ad
 ### Vous souhaitez assister aux présentations ?
 [Inscrivez-vous gratuitement au salon Open Source Experience](https://www.opensource-experience.com/creer-mon-badge/) et retrouvez-nous le 8 novembre en salle 252B… ou en suivant les chapeaux bleus.
 
-Pour toute question, écrivez-nous : [logiciels-libres@data.gouv.fr ](mailto:logiciels-libres@data.gouv.fr)
+Pour toute question, écrivez-nous : [contact@code.gouv.fr ](mailto:contact@code.gouv.fr)
 
 <div class="lien-important"><p><a href="https://www.opensource-experience.com/creer-mon-badge/"  title="S'inscrire">S'inscrire</a></p></div>
 
